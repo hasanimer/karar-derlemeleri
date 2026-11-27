@@ -21,6 +21,8 @@ uyari: "Derleyenin seçtiği alıntılardır; kararın tamamı değildir. Künye
 
 ## Yargıtay HGK 2025/505 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1171958800)
+
 Davalı ...
 
 …
@@ -36,6 +38,8 @@ Türk Borçlar Kanunu’nun 97. ve 479/1. maddesi hükümlerince arsa payı kar�
 Asıl ve birleşen davada davalı ... vekilinin temyiz itirazlarının kabulü ile direnme kararının yukarıda belirtilen nedenlerden dolayı 6100 sayılı Kanun’un 371. maddesi gereğince BOZULMASINA …
 
 ## Yargıtay HGK 2021/1712 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/736992800)
 
 4\.
 
@@ -57,6 +61,8 @@ Tarafların dayandığı vakıalarla değerlendirildiğinde önceki dava sonras�
 
 ## Yargıtay HGK 2020/224 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/602256700)
+
 4\.
 
 …
@@ -72,6 +78,8 @@ Açık ayıplar, ilk bakışta görülebilen veya basit bir muayene ile anlaşı
 imalât aşamasında ihlal edildiği, hatalı üretim yapıldığı, bu durumun gizli ayıp niteliği arzettiği, bu nedenle davacı iş sahibinin zararının 6.220,56TL olduğu hesaplanmıştır. Rapor içeriği hesap şekli açısından usul ve yasaya uygun olup, Yargıtay denetimine elverişlidir. Bilirkişi kurulunca belirlenen bu gizli ayıp aracın 16.12.2010 tarihinde trafikte yapılan muayenesi sırasında saptanmış, araç trafikten men edilmiştir. Bu durumda gizli ayıbın varlığı her türlü tereddüt ve kuşkudan uzak bir şekilde açıklık kazanmıştır. 16.12.2010 muayene tarihinden sonra 8 günlük makul süre içerisinde 24.12.2010 günü ihtarname gönderilerek ayıp ihbarında bulunulmuştur. Bu bakımdan ayıp ihbarının süresi açısından da herhangi bir usulsüzlüğün bulunmadığı tespit edilmiştir. Açıklanan olgular dikkate alınarak davanın kabulüne karar verilmesi gerekirken yerel mahkemece imalâttaki ayıbın açık ayıp niteliğinde bulunduğu, 04.12.2009 teslim tarihine göre 14 ay sonra ayıp ihbarında bulunulduğu, bu durumun hakkın kötüye kullanımı niteliği arzettiği gerekçesi ile davanın reddine karar verilmesi isabetli olmadığından kararın bozulmusına karar verilmiş.” Yerel Mahkemece ise kararında direnilmiştir.
 
 ## Yargıtay HGK 2019/1421 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/579475600)
 
 Davalı, takas sözleşmesini inkar etmediğini, davacının üyesi bulunduğu yüklenici kooperatif ile arasında kendisinin arsa sahibi sıfatıyla hareket ettiği hukuki ihtilaf olduğunu, kooperatifin inşaatı plan, proje ve sözleşme esaslarına göre bitirmediğini, davacının mensubu olduğu kooperatifin edimini tam ve eksiksiz yerine getirmesi halinde davacının tapusunu vermeye hazır olduğunu, dava dışı kooperatif ile aralarında Fethiye 1. Asliye Hukuk Mahkemesinin 2004/686 Esas sayılı davasının devam ettiğini belirterek davanın reddini savunmuştur.
 
@@ -90,6 +98,8 @@ Açılan davalarda kat karşılığı inşaat sözleşmesinin feshi yönünde bi
 
 ## Yargıtay HGK 2016/763 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/232821200)
+
 Davalı-karşı davacı vekili, asıl davadaki davacı yüklenicinin edimini yerine getirmeden karşı taraftan edimini yerine getirmesini isteyemeyeceğini savunarak, davanın reddini istemiş, karşı davasında ise, sözleşme gereği teslimi gereken sürede müvekkiline ait bağımsız bölümlerin teslim edilmemesi nedeniyle oluşan kira kaybının tahsilini talep ve dava etmiş, 09.09.2008 harç tarihli ıslahla, 50.750,00 TL eksik iş bedeli ile 414.570,00 TL gecikme kirası alacağının faiziyle birlikte tahsiline karar verilmesini istemiştir.
 
 Mahkemece, iddia, savunma, benimsenen bilirkişi raporu ve dosya kapsamına göre; taraflar arasında düzenlenen arsa payı karşılığı inşaat sözleşmesi uyarınca davacı-karşı davalı yüklenicinin, arsa malikine teslim etmesi gereken daire ve dükkanların belirlenen sürede teslim edilmediği, ancak sözleşmenin 5. maddesinde bağımsız bölümlerin süresinde teslim edilmemesi halinde en fazla 6 aylık süre için kira ödenmesinin kabul edildiğinden 7938 ada 7 parseldeki 2 dükkan ile 16 daire ve 7937 ada 5 parseldeki 5 daire için 6 aylık kira bedelinin 9.240,00 TL'sı olduğu, asıl davada verilen kesin süreye rağmen harcın ikmal edilmemesi nedeniyle davanın 20.10.2010 tarihi itibariyle işlemden kaldırılmasına rağmen yenilenmediği gerekçesiyle asıl davanın 1086 sayılı HUMK'nun 409. maddesi gereğince açılmamış sayılmasına, karşı davanın kısmen kabulü ile 9.240,00 TL kira bedelinin karşı dava tarihinden itibaren faiziyle birlikte davacı-karşı davalıdan alınarak, davalı-karşı davacıya verilmesine, fazlaya ilişkin istemin reddine karar verilmiştir.
@@ -103,6 +113,8 @@ Yukarıdan beri yapılan açıklamalar da birlikte değerlendirildiğinde, sözl
 Yukarıda (II) sayılı bentte gösterilen hususlarda davalı - karşı davacı vekilinin temyiz itirazlarının kabulü ile direnme kararının Özel Daire bozma kararında gösterilen nedenlerden dolayı BOZULMASINA …
 
 ## Yargıtay HGK 2015/2685 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/329636600)
 
 Davacı, davalı arsa sahibi ... ile davalı yüklenici Yoral Ltd. Şti. arasında düzenlenen arsa payı karşılığı inşaat sözleşmesi uyarınca, yükleniciye bırakılması kararlaştırılan 2 parsel sayılı taşınmazda inşa edilen 10 no'lu bağımsız bölümü yükleniciden harici satış sözleşmesiyle temlik aldığını ileri sürerek bağımsız bölümün tapu kaydının iptali ile adına tesciline karar verilmesini istemiştir.
 
@@ -209,6 +221,8 @@ Açıklanan bu hukuki ilke ve esaslar çerçevesinde somut olay değerlendirildi
 
 ## Yargıtay 6. HD 2026/199 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1207398500)
+
 Bu durumda, dosya kapsamında toplanan deliller çerçevesinde mahkemece, asıl davada nama ifâ talep edildiğinden, sadece arsa sahipleri tarafından yapılan eksik ve ayıplı işlerin giderim bedelinin, dava konusu bina tamamlanmış olduğundan dava tarihindeki değerinin belirlenmesi, yine arsa sahiplerince yapılan yapı denetim gideri ile SGK ödemeleri ve diğer giderlerin tespiti, bu bedellerin ve binaya iskân alınması için yapılması gereken karar tarihine en yakın tarihteki iskan masraflarının hesaplanması için hükme esas raporu veren bilirkişi kurulundan ek rapor alınması, bulunacak miktarın birleşen davada arsa sahiplerine verilmek üzere birleşen dava davacısı tarafından depo edilmesi halinde, birleşen davada tapu iptali ve tescil isteminin kabulüne karar verilmesi, bu durumda asıl davada dava konusunun kalmayacağının dikkate alınarak hüküm kurulması, birleşen dava davacısı tarafından ek bilirkişi raporunda belirlenecek miktarın usulüne uygun olarak verilecek süreye rağmen depo edilmemesi halinde asıl davada nama ifâ talebinin kabulüne karar verilmesi, birleşen davanın ise reddine karar verilmesi gerekir.
 
 …
@@ -216,6 +230,8 @@ Bu durumda, dosya kapsamında toplanan deliller çerçevesinde mahkemece, asıl 
 Yukarıda (1.) bentte açıklanan nedenlerle temyiz olunan Mahkeme kararının asıl davada fer’i müdahil ve birleşen davada davacı yararına BOZULMASINA …
 
 ## Yargıtay 6. HD 2026/15 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1206918700)
 
 Davacı vekili dava dilekçesinde; davalı arsa maliki ... ile dava dışı yüklenici ... arasında 03.05.2006 tarihinde ... ... Noterliği’nde düzenlenen arsa payı karşılığı inşaat sözleşmesi uyarınca davalı yükleniciye bırakılan 47 ada, 4 parsel sayılı taşınmazdaki 1 numaralı bağımsız bölümü yükleniciden 09.03.2007 tarihli sözleşme ile temlik aldığını, edimini yerine getirdiğini, tapu kaydının tarafına devredilmediğini, bağımsız bölümün adına tesciline karar verilmesini talep etmiştir.
 
@@ -233,6 +249,8 @@ Davacının tapu iptali ve tescile hak kazanabilmesi için arsa sahibine karşı
 
 ## Yargıtay 6. HD 2025/2046 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1160076000)
+
 Davalılar vekili cevap dilekçesinde davanın reddini istemiştir.
 
 …
@@ -245,6 +263,8 @@ Yukarıda (1) numaralı bentte açıklanan nedenlerle, davalılar ... ve ... vek
 
 ## Yargıtay 6. HD 2025/1730 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1152584000)
+
 Eser sözleşmeleri karşılıklı borç doğuran sözleşmelerdir. Eser sözleşmelerinde, yüklenicinin öncelikli edimi, eseri, sözleşmesine, fen ve sanat kurallarına uygun olarak ifa etmektir. TBK'nın 97. maddesi uyarınca, karşılıklı edimleri içeren sözleşmelerde bir tarafın, diğer tarafın edimini yerine getirmesini isteyebilmesi için önce kendi edimini ifa etmesi gerekir. Dosya kapsamı, alınan bilirkişi raporları ile taraflar arasında görülüp karara bağlanan dava dosyaları içeriğinden, davacı yüklenicinin 5938 ada, 1 parsel üzerindeki inşaata ilişkin edimini sözleşme koşullarına uygun olarak yerine getirmediği, inşaatta eksik ve ayıplı işler bulunduğu anlaşılmakta olup, bu nedenle davacının asıl davadaki talebi yerinde değildir. Bu gerekçeyle asıl davanın reddine karar verilmesi gerekirken, yazılı gerekçe ile asıl davanın reddine karar verilmesi doğru olmamış, kararın bozulması gerekmiştir. Ne var ki; bu yanlışlığın giderilmesi yeniden yargılama yapılmasını gerektirmediğinden sonucu itibariyle doğru bulunan Bölge Adliye Mahkemesi kararının gerekçesinin değiştirilerek ve düzeltilerek onanması 6100 sayılı Hukuk Muhakemeleri Kanunu’nun 370/4 hükmü gereğidir.
 
 …
@@ -253,6 +273,8 @@ Asıl davada, davacı yüklenici şirket vekilinin Bölge Adliye Mahkemesince ya
 
 ## Yargıtay 6. HD 2025/1211 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1144237400)
+
 Arsa sahibinin eksik ve ayıplı ifaya ilişkin alacağının hesaplattırılması talebi üzerine Antalya 2. Asliye Hukuk Mahkemesi’nin 2007 -5 D. İş sayılı dosyasından alınan raporda eksik ve ayıplı imalat bedelleri belirlenmiş ancak D. İş dosyasının fiziken dosya arasına alınmadığı, raporun yükleniciye tebliğ edilmediği anlaşılmıştır. Mahkemece öncelikle tespit dosyası getirtilerek bilirkişi raporunda saptanan eksik ve kusurların mahalinde keşif yapılarak alınacak raporla taraf itirazları da dikkate alınmak suretiyle incelettirilip ortak alanlarda arsa sahibinin % 30 pay sahibi olduğu hususu da dikkate alınarak karar verilmesi gerekirken eksik inceleme ile karar verilmesi hatalı olmuştur.
 
 …
@@ -260,6 +282,8 @@ Arsa sahibinin eksik ve ayıplı ifaya ilişkin alacağının hesaplattırılmas
 Temyiz olunan İlk Derece Mahkemesi kararının BOZULMASINA …
 
 ## Yargıtay 6. HD 2025/1066 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1136905300)
 
 Davacı vekili dava dilekçesinde; davacı yüklenicinin, ... 1.
 

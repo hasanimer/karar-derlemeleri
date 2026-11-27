@@ -44,6 +44,8 @@ Diğer taraftan, davalı arsa sahibinin yargılama öncesinde noter ihtarnamesi 
 
 ## İstanbul BAM 15. HD 2026/305 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1199682500)
+
 Şti.’dir; sözleşme konusu iş, işverene ait projelerde dış cephe kompozit panel ve alüminyum imalatlarının yapılmasına ilişkin olup sözleşme olduğu, sözleşme bedeli USD üzerinden belirlenmiş olup, işin metraj ve birim fiyat esasına göre hesaplanacağı, iş artışı veya eksilişinin sözleşmede öngörülen oranlar çerçevesinde bedeli etkileyeceği düzenlenmiş, hakediş esaslı ödeme sistemi benimsenmiş, yapılan imalatın ölçümü ve kontrolü işveren denetimine tabi kılındığı, işin süresi, yer teslimini takiben başlayacak şekilde belirlendiği, program dahilinde tamamlanması öngörülmüş; süre uzatımı yalnızca sözleşmede sınırlı şekilde sayılan mücbir sebeplerin varlığı halinde mümkün kılındığı, mücbir sebep bildiriminin yazılı ve derhal yapılması şartı ve süre uzatımının kural olarak 15 günü aşamayacağı hükme bağlanmış olduğu, temerrüt hükümleri kapsamında yüklenicinin işe başlamaması, işi durdurması, sözleşmeye aykırı yürütmesi, iş programına uymaması, yeterli personel ve ekipman bulundurmaması, işi devretmesi veya işçi ve tedarikçi alacaklarını ödememesi gibi haller sözleşmeye aykırılık ve fesih sebebi sayılmış; bu hallerde işverene işi kısmen veya tamamen yükleniciden alma ve sözleşmeyi tek
 taraflı feshetme yetkisi tanındığı, fesih halinde yapılan imalatların ölçüm tutanağı ile tespit edilerek kesin bedelinin belirleneceği, işverenin alacaklarını yüklenici alacaklarından mahsup edebileceği, vergi, resim, harç, SGK primleri ve işçilik giderlerinin tamamının yükleniciye ait olduğu açıkça hüküm altına alındığı görülmektedir.
 
@@ -54,6 +56,8 @@ Davalı işveren tarafından 24.06.2015 tarihli cevap ihtarı ile, ... projesi y
 99 uyarınca kendisine tanınan yasal seçimlik hakkını Türk Lirası (Ülke parası) yönünde kullandığı anlamına gelmektedir (İstanbul BAM 15. Hukuk Dairesi, 09.11.2021 Tarih, E: 2019/487, K: 2021/2066). Alacaklı tarafından bir kez kullanılan bu seçimlik haktan geriye dönülmesi hukuken mümkün değildir (Yargıtay Hukuk Genel Kurulu, 23.01.2002 Tarih, E: 15-15, K: 19).Ayrıca, itirazın iptali davası niteliği gereği icra takibine sıkı sıkıya bağlı bir davadır ve takipte talep edilen bedelin cinsi ile mahkeme kararı uyumlu olmak zorundadır (Yargıtay 6. Hukuk Dairesi, Tarih belirtilmemiştir, E: Numara belirtilmemiştir, K: 2023/3204). Somut olayda, davacı yüklenici tarafından icra takibine Türk Lirası üzerinden başlatması, itirazın iptalini davasını Türk Lirası üzerinden başlatmış olması itibariyle, TBK 99 maddesi gereğince davacı seçimlik hakkını Türk Lirası olarak kullandığı kabulü gerekir. Mahkemece bu doğrultuda inceleme ve hüküm kurması doğru olmuştur.
 
 ## İstanbul BAM 53. HD 2026/27 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1188703100)
 
 Davacı vekili istinaf dilekçesinde özetle; kaldırma karar gerekçesi karşılanmaksızın karar verildiği, cezai şartın tenkisine yönelik yeterli gerekçe olmadığı, bu konuda rapor alınması yoluna gidilmediği, indirim yapılırken davacı taraf yönünden hiç değerlendirme yapılmaksızın yalnızca davalının kayıtlı sermayesi dikkate alınarak karar verildiği, cezai şartın belirlenmesi aşamasında davalının cezai şarta sebebiyet verdiği sürenin de dikkate alınması gerektiği, sonuç olarak indirim oran ve miktarının dayanaksız olduğu, fiili teslim tarihine ilişkin de yanlış değerlendirme yapıldığı gerekçesiyle ilk derece mahkemesi kararının kaldırılması talep etmiştir.Davalı vekili istinaf dilekçesinde özetle; davacının öncelikle ipotek fek yükümlülüğünü yerine getirmesi gerektiği, ipotek fek yükümlülüğünün yerine getirilmemesinden kaynaklanan sürenin inşaat teslim süresine eklenmesi gerektiği, davalının temerrüde düştüğünün kabulü halinde dahi; davacı payına düşen taşınmazların davacı tarafından satılmış olması itibariyle kiradan kaynaklı tazminat talebinde bulunamayacağı gerekçesiyle ilk derece mahkemesinin kısmen kabul kararının kaldırılması talep etmiştir.
 
@@ -71,6 +75,8 @@ BAKIRKÖY 1. ASLİYE TİCARET MAHKEMESİ'nin 17/10/2024 tarih, 2024/170 Esas, 20
 
 ## İstanbul BAM 3. HD 2025/1831 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1158899900)
+
 Noterliği 25.12.2017 tarih ve ... yevmiye no'lu adi ortaklık kurulmasına ilişkin sözleşme olduğu, bu sebeple mahkemenin bu husustaki gerekçesinin hatalı değerlendirmeye dayalı olduğu anlaşılmıştır. Yine, bu hatalı tesbitten yola çıkılarak, mahkemece "Protokoller ile taraflar arasında düzenlenen düzenleme şeklindeki Arsa Payı İnşaat Sözleşmesini fesh ettikleri ve yeni protokoller önemli yeni hükümler getirdikleri ve ek sözleşme niteliği taşımadığı, sözleşmenin esaslı unsur olan teslim süresi ile cezai şart gibi böylelikle esaslı unsurda değişiklik yapıldığı, tadilin de resmi şekilde olması gerektiği, resmi şekilde yapılmayan protokollerin TBK'nun 237, TBK'nun 13, TMK'nun 706 maddeleri uyarınca geçersiz protokoller olduğuna ilişkin gerekçesinin de hatalı olduğu, feshedilmeyen tüm sözleşmelerin geçerlilik şartına uygun yapıldıkları tartışmasızdır.Taraflar ve 3. kişi şirketler arasında imzalanan ve "Tasfiye Protokolü" niteliğindeki 04/06/2018 tarihli adi yazılı protokolün resmi şekilde yapılmasını gerektiren yasal bir zorunluluk bulunmamaktadır.
 Bu sözleşme davalı tarafın da kabulünde olup,ekonomik sıkıntılar ve mücbir sebep dolayısıyla sözleşmedeki taahhüdün yerine getirilemediği ve mücbir sebebin sona ermesi halinde yerine getirileceği cevap dilekçesinde açıklanmıştır.Teslimin zamanında yapılmamasına ilişkin olarak ise dava dışı üçüncü şahıslarla imzalanmış olan Büyükçekmece ... Noterliği 09.01.2018 Tarih ve ...
 
@@ -78,6 +84,8 @@ Yevmiye No'su ile düzenlenmiş Düzenleme Şeklinde Taşınmaz Satış Vaadi Ve
 Beylikdüzü Tapu Müdürlüğünden celp olunan tapu kayıtlarından görüleceği üzere 01.03.2019 tarihli protokolün 2.4 md gereğince ve davacının talebi doğrultusunda ... blok 10 nolu , ... blok 12 nolu , ... blok 4 nolu , ... blok 7 nolu, ... blokta bulunan 2,3, ve 4 nolu bağımsız bölümlerin 01.03.2019 tarihinde ... yevmiye nolu satış işlemi ile ... T.C. kimlik nolu ...'a devredildiğinin görüldüğü, Büyükçekmece ... Noterliği'nin 09.01.2018 Tarih ve ... Yevmiye No'lu Düzenleme Şeklinde Taşınmaz Satış Vaadi ve Arsa Payı Karşılığı İnşaat Sözleşmesinin 6. Maddesinde hüküm altına alınan cezai şartın yüklenici adi ortakların arsa maliklerine karşı bir yükümlülüğü olduğu, arsa maliki olmayan davacının Büyükçekmece ... Noterliği 09.01. 2018 Tarih ve ... Yevmiye Nolu Düzenleme Şeklinde Taşınmaz Satış Vaadi ve Arsa Payı Karşılığı İnşaat Sözleşmesi'nin 6.
 
 ## Sakarya BAM 5. HD 2025/1587 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1177476800)
 
 Davalı-Karşı Davacı Jod Otomotiv Tekstil Gıda İnşaat İthalat İhracat San ve Tic. Ltd.
 
@@ -102,6 +110,8 @@ Bilindiği üzere arsa payı karşılığı inşaat sözleşmesi tapuda pay devr
 
 ## İstanbul BAM 15. HD 2025/699 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1156760400)
+
 Noterliğince tanzim edilen 18.03.2011 tarihli ve ... yevmiye sayılı gayri menkul satış vaadi ve arsa payı karşılığı inşaat sözleşmesi yapıldığı, sözleşmenin 5.1 maddesi gereğince sözleşmenin imzalanması akabinde taşınmazların 2/5 payı davacı malikler tarafından sözleşme gereği müstakbel ortak sayıla ....A.Ş üzerine, sözleşmenin aynı maddesi gereğince 3/5 payı muhatap Adi ortaklığı teşkil eden davalı şirketlere paylı olarak tapuda devredildiği, ancak davalıların kendi aralarında yaptıkları işlemle yüklenici ... firmasının arsa malikleri tarafından kendisine sözleşme gereğince devredilen arsa payını, arsa sahiplerinin bilgisi dışında İnwest firmasına devrettiği, taraflar arasında imzalanan sözleşmenin 9. ve 11.
 Maddeleri gereğince davalı yüklenicilerin sözleşmenin imzalanmasından itibaren 6 aylık süre içinde inşaat ruhsatını almak ve inşaatlara başlamakla yükümlü olup, bu akti gereğe uymayan davalı yüklenicilerin sözleşmede yazılı sürelerde inşaat ruhsatı dahi almadıklarından temerrüte düştükleri ve sözleşmenin haksız yere feshine sebep oldukları, bu nedenle Büyükçekmece 4.Asliye Hukuk Mahkemesinin davacılar tarafından açılan sözleşmenin feshine dair davada 2013/378 esas, 2014/15 karar sayılı kararı ile taraflar arasındaki mezkur arsa payı karşılığı inşaat yapımı suretiyle satış vaadi sözleşmesinin feshine ve davalılara bu sözleşme gereğince devredilen 3/5 arsa paylarının iptali ile adlarına tesciline karar verildiği, söz konusu kararın Yargıtay 23.
 Hukuk Dairesi tarafından onandığı, tashihi karar talebinin reddedildiği ve kararın kesinleştiği, taraflar arasında imzalanan arsa payı karşılığı inşaat sözleşmesi gereğince taşınmazları inşaat yapımına hazır hale getirilmesi için davacı arsa sahipleri müteahhitlerle yapılan 18.03.2011 tarihli sözleşme akabinde sözleşmeye konu arsaları inşaatın yapımına hazır etmek için arsalar içinde bulunan ve kadim mal sahipleri tarafından inşa edilen ve arsa sahiplerinin ikameti için kullanılan 4 adet ahşap villa, bir adet kamyon ve oto lastiği satışı, değiştirilmesi, balans işleri vs.
@@ -115,9 +125,13 @@ HÜKÜM:Gerekçesi yukarıda açıklandığı üzere;A)1-Asıl davada davalı ve
 
 ## İstanbul BAM 3. HD 2024/453 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/994486500)
+
 Davacı sözleşmenin bu hükmüne göre alacak talep etmekte ise de, sözleşmenin 6. maddesinde hüküm altına alınan cezai şart yüklenicilerin (adi ortakların) arsa maliklerine karşı bir yükümlülüğüdür. Buna göre, arsa maliki olmayan davacının Büyükçekmece 6. Noterliği 09.01. 2018 Tarih ve 1542 Yevmiye Nolu Düzenleme Şeklinde Taşınmaz Satış Vaadi ve Arsa Payı Karşılığı İnşaat Sözleşmesi'nin 6. Maddesinde belirtilen cezai şartı talep edemeyeceği sonucuna varılmaktadır.
 
 ## İstanbul BAM 53. HD 2024/398 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1017727200)
 
 İş Ortaklığı ile davalı şirket arasında binanın inşası için 24/02/2016 tarihli taşeron sözleşmesi ve davalının 18/12/2015 tarihli sözleşmeden doğan haklarının yüzde doksan dokuzunun iş ortaklığına temliki için 24/02/2016 tarihli temlik sözleşmesi yapıldığı, davalı şirket tarafından daha önce gönderilen 08/01/2018 tarihli ihtarname ile verilen sürede eksikliklerin giderilmemesi ve sözleşmelerden doğan yükümlülüklerin yerine getirilmemesi hususları gerekçe gösterilerek, iş ortaklığına gönderilen 14/02/2018 tarihli ihtarname ile taşeron ve temlik sözleşmelerinin feshedildiği, davalının yapmış olduğu işbu fesih işleminin haksız ve hukuka aykırı olduğu iddiasıyla, iş ortaklığı tarafından 26/02/2018 tarihli ihtarname ile haksız fesih sebebiyle doğan hakediş alacaklarının ve cezai şart bedelinin ödenmesinin talep edildiği, davalının haksız feshi sonucu alt yüklenici iş ortaklığının oluşan hakediş alacağının 3.000.000 TL tutarındaki kısmının, davacı şirket ile iş ortaklığı arasındaki cari ilişki sonucu oluşan borcun karşılığı olarak, 05/07/2018 tarihinde imzalanan temlik sözleşmesi ile davacı şirkete temlik edildiği, 8.500.000 TL hakediş alacağı ile 24.02.2016 tarihli taşeron sözleşmesinin
 21.4 maddesinde haksız fesih hali için düzenlenmiş olan 1.000.000 USD tutarındaki cezai şart bedeli borcunu ödemesi için davalıya gönderilen 27/07/2018 tarihli ihtarnamenin tebliğine rağmen, ihtarname ile verilen sürede ödeme yapılmaması üzerine, davacı tarafça, davacı lehine 3.000.000,00 TL bedelle tesis edilmiş ipoteklerin paraya çevrilmesi için icra takibi başlatıldığı, davalı şirketin takibe ve borca itiraz etmesi ve takibin durması üzerine davacı tarafça işbu davanın açıldığı, tarafların ticari defterlerinin incelenmesine karar verildiği, davalı tarafın ticari defterlerini bilirkişi incelemesine sunulmak üzere ibraz etmediği, bilirkişi raporuna göre ...A.Ş.-... Tic.Ltd. Şti. İş Ortaklığı'nın 2017 ve 2018 yılı ticari defterlerinin incelendiği, incelenen ticari defter kayıtlarında davalı ile davacının aralarında ticari ilişki olduğuna dair kayda rastlanmadığı, davacı tarafın 07/02/2022 tarihli ıslah talebi üzerine bu kez dava dışı ...
@@ -128,6 +142,8 @@ HÜKÜM: Gerekçesi yukarıda açıklandığı üzere;A)1-Davacı vekilinin isti
 
 ## İstanbul BAM 53. HD 2024/131 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1001710800)
+
 Mahkemece davacının talep ettiği cezanın, seçimlik ceza niteliğinde olduğu kabul edilerek, davacının davadan önce davalıya keşide ettiği iki ihtarname içeriğini yorumlamak suretiyle, davacının ihtarnameler i̇le işin ifasını talep ettiğini, bu durumda seçimlik ceza olarak öngörülen cezai şartı talep edemeyeceğini belirterek davanın reddine karar vermiştir. Karara karşı davacı vekilince istinaf talebinde bulunulmuştur.Taraflar arasındaki uyuşmazlık cezai şartı niteliği ve koşullarına ilişkindir. Taraflar arasındaki sözleşmenin 16/2.maddesi "Yüklenicinin inşaatı hiç bitirmemesi (temerrüt) veya kötü ya da ayıplı ifa etmesi ya da yüklenicinin diğer tüm sözleşmeye aykırılık hallerinde feshetmesi veya inşaatın teslimi ve devrinin sağlanamaması halinde Yüklenici, İşverene 500.000 TL. (Beş Yüz Bin) cezai şart ödeyecektir.(seçimlik ceza) Önceki cezai şart hükümleri saklıdır." şeklindedir. Sözleşmenin dayanak 16/2. maddesinde belirtilen durumların gerçekleşmesi halinde cezai şart ödeneceği belirlenmiş ve sözleşmede bu maddenin yanında parantez içinde bu cezanın seçimlik ceza olduğu ibaresi yazılmıştır. Aynı maddenin son cümlesinde de önceki cezai şartların saklı olduğu belirtilmiştir.
 Yine aynı sözleşmenin 4. maddesinde ifaya ekli ceza açıkça düzenlenmiş ve her iki madde hükmü birlikte değerlendirildiğinde 16. maddedeki cezai şartın ifaya ekli cezai şart olmadığı anlaşılmaktadır. Sözleşmenin 16. maddesinin içeriği, sözleşmenin diğer hükümleri, tarafların gerçek iradesi ve dilekçeyle talep edilen bedele ilişkin ileri sürülen gerekçelere göre davacının talep ettiği cezanın mahkemenin de kabulünde olduğu üzere seçimlik ceza olduğu açıktır. Seçimlik ceza, işin hiç ya da gereği gibi ifa edilmemesi halinde talep edilebilir.
 
@@ -137,6 +153,8 @@ Davadaki ki asıl talebinin dava dilekçesinde de açıkça belirtildiği üzere
 HÜKÜM: Gerekçesi yukarıda açıklandığı üzere;1-Davacı vekilinin istinaf başvurusunun KABULÜNE,2-İstanbul 16. Asliye Ticaret Mahkemesi'nin 10/06/2021 tarih, 2020/402 Esas, 2021/391 Karar sayılı kararının KALDIRILMASINA …
 
 ## İzmir BAM 14. HD 2023/1834 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/977553700)
 
 Davalı vekili asıl davaya ilişkin cevap dilekçesinde özetle; Müvekkili birlik ile dava dışı 3.kişi ... Limited Şirketi arasında 16.11.2011 tarihinde İzmir 3.
 

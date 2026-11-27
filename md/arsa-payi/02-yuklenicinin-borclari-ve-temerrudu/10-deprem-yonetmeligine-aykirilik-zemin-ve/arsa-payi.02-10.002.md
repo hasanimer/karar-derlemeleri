@@ -22,6 +22,8 @@ uyari: "Derleyenin seçtiği alıntılardır; kararın tamamı değildir. Künye
 
 ## Yargıtay 23. HD 2018/139 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/405235200)
+
 Davacı vekili, müvekkilinin dava dışı...'den 14.677,44 TL alacağı bulunduğunu, ... İcra Dairesi’nin 2001/2045 E. sayılı icra dosyası ile takip yapıldığını ve bu takibin kesinleştiğini, ancak takibin sonuçsuz kaldığını, alacaklarını tahsil edemediklerini, davalılar ile dava dışı... arasında 22.05.1995 tarihli kat karşılığı inşaat ve satış vaadi anlaşması düzenlendiğini, sözleşmenin fesh edildiğini, yüklenici...'e kalan bağımsız bölümlerin davacıya verilmesi için İcra Müdürlüğü’nün dosyasından İİK’nın 89. maddesi uyarınca 1. haciz ihbarnamesi tebliğ edildiği fakat davalıların süresi içinde itiraz ettiklerini, dava dışı yüklenici...’in davalılardan imalat bedeli yönünden alacaklı olduğunu ileri sürerek, davalıların arsa payı karşılığı inşaat sözleşmesinden doğan 14.677,44 TL borçlarını ... İcra Dairesi’nin 2001/2045 E. sayılı takip dosyasına ödemelerini talep ve dava etmiştir.
 
 Davalılar vekili, davanın reddini istemiştir.
@@ -38,6 +40,8 @@ SONUÇ: Yukarıda (1) numaralı bentte açıklanan nedenlerle, davalılar vekili
 
 ## Yargıtay 23. HD 2017/1921 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/351724000)
+
 Mahkemece, Yargıtay 15. Hukuk Dairesi’nin 22.11.2007 tarih ve 239 E.
 
 …
@@ -52,11 +56,15 @@ SONUÇ: Yukarıda (1) numaralı bentte açıklanan nedenlerle, asıl ve birleşe
 
 ## Yargıtay 20. HD 2017/72 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/318799700)
+
 Dava, kat mülkiyeti kurulu taşınmazın arsa pay oranlarının düzeltilmesi istemine ilişkindir.
 
 ... Sulh Hukuk Mahkemesi, dava konusu taşınmazın 17 Ağustos 1999 depreminde yıkıldığı, bu durumda taşınmazın artık arsa niteliğinde olduğu, buna göre projede gösterildiği şekilde arsa payı oranlarının tespitinin mümkün olmadığı, sonuç olarak davanın arsa payları düzeltim davası olduğu, miktara göre bu davanın asliye hukuk mahkemesinde görülmesi gerektiğigerekçesiyle görevsizlik yönünde hüküm kurmuştur.
 
 ## Yargıtay 23. HD 2015/5692 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/118428400)
 
 Davacı vekili, müvekkilinin davalılardan arsa sahibi S.. K.. ile Elazığ Merkez İzzetpaşa Mahallesi .. ada .. parselde kayıtlı arsanın yarım kalan inşaatını tamamlama şartıyla "Düzenleme Şeklinde Gayrimenkul Satış Vaadi Daire-Dükkan Karşılığı İnşaat Sözleşmesi" yaptığını, sözleşmenin 1. maddesinde, davaya konu depolu dükkanın müvekkiline ait olacağının kararlaştırıldığını, müvekkilinin sözleşmede belirlenen süreden önce inşaatın tümünü bitirdiğini, adına düşen bağımsız bölümlerin tapularını istediğinde ise bekletildiğini, daha sonra davalı S.. K..'nın müvekkiline karşı yükümlülüklerini yerine getirmemek için dava konusu ..
 
@@ -75,6 +83,8 @@ Mahkemece geçersiz sözleşmeye dayanılarak tescil talep edilemeyeceğinden da
 
 ## Yargıtay 23. HD 2013/1717 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/479507800)
+
 Davacılar vekili, davalı yükleniciler ... ve ...'ın sözleşmeden doğan edimlerini yerine getirmediğini, dava konusu parsel üzerinde sözleşmeye, imar durumuna, tasdikli projeye ve ruhsata aykırı, kaçak olarak inşa ettikleri binanın, zamanla yana eğildiğini, 1999 yılında meydana gelen depremde ise ağır hasar gördüğünden belediye tarafından 2000 yılında tamamen yıkıldığını ileri sürerek, taraflar arasında akdedilen arsa payı karşılığı inşaat sözleşmesinin geriye yönelik feshini, taşınmazda bu davalılardan hisse satın alan diğer davalılar adına tesis olunan tapu kayıtlarının iptali ile müvekkilleri adına tescilini talep ve dava etmiştir.
 
 Davalılar ... ve ... vekili, taleplerin zamanaşımına uğradığını, fazladan iki kat daha yapılması konusunda tarafların anlaştıklarını, davacıların dört yıl sonra kaçak kat ihbarında bulunmasının hayatın olağan akışına aykırı olduğunu, müvekkillerinin davacıların dairelerini yaparak teslim ettiğini, binanın eğilmesine ve daha sonra yıkılmasına arazi yapısının ve depremin sebep olduğunu savunarak, davanın reddini istemiştir.
@@ -92,6 +102,8 @@ SONUÇ: Yukarıda açıklanan nedenlerle, davalılar ... ve ... ile davalılar..
 
 ## Yargıtay 23. HD 2012/7229 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/557790400)
+
 Davacı yüklenici vekili, davalılarla müvekkili arasında 14.07.1998 tarihli arsa payı karşılığı inşaat sözleşmesi imzalandığını, buna göre dava konusu taşınmaza her katta 5 daireli, 5 katlı 25 daireli bina yapılacağını ve paylaşımın %70-30 oranına göre düzenleneceğini, inşaatın betonarme temeli atıldıktan sonra depremler sebebiyle durduğunu, sonrasında da 5 kat yerine 2 kata izin verilebildiğini, bu durumda davacının inşaata devam etmesinin hukuken ve fiilen imkasız hale geldiğini ileri sürerek, akdin feshini ve yapılan işler bedeli olan 32.279,00 TL'nin 05.12.2001 tarihinden itibaren yasal faiziyle davalılardan müteselsilen tahsilini talep etmiştir.
 
 Davalı arsa sahipleri vekili cevabında, sözleşmenin ifasının imkansız hale gelmesinde müvekkillerinin kusurlarının olmadığını, belediyece imar şartlarının değiştirildiğini savunarak, davanın reddini talep etmiştir.
@@ -105,6 +117,8 @@ Bunun yanında, inşaat temel aşamasında iken peş peşe oluşan depremlerden 
 SONUÇ:Yukarıda (1) numaralı bentte açıklanan neden davacı vekilinin temyiz itirazlarının reddine, (2) numaralı bentte açıklanan nedenlerle, temyiz itirazlarının kabulü ile hükmün davalılar yararına BOZULMASINA …
 
 ## Yargıtay 23. HD 2012/3548 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/540019600)
 
 Davacı arsa sahibi mirasçıları vekili, müvekkillerinin murisi olan ...'in davalı yüklenici kooperatifle imzaladığı 13.05.1992 tarihli arsa payı karşılığı inşaat sözleşmesi gereğince kendi edimlerini yerine getirdiği halde, davalı kooperatifin kendilerine düşen bağımsız bölümlerini süresinde teslim etmeyerek temerrüde düştüğünü ileri sürerek, 45.328,00 TL gecikme tazminatı ile 9.735,55 TL eksik ve kusurlu işler bedeli olmak üzere toplam 55.000,00 TL'nin davalı yüklenici kooperatiften tahsilini talep ve dava etmiştir.
 
@@ -124,6 +138,8 @@ SONUÇ: Yukarıda 1. bentte açıklanan nedenlerle davalı kooperatif vekilinin 
 
 ## Yargıtay 15. HD 2012/166 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/474308300)
+
 Mahallinde karot deneyi yapılarak ve numune almak suretiyle inceleme yapan bilirkişilerce düzenlenen 29.02.2008 tarihli bilirkişi kurulu raporunda 309 ada 309 parselde bulunan binanın beton kalitesinin Deprem Yönetmeliği’ne göre BS 20 kalitesinde olması gerekirken projesinde beton kalitesi gösterilmediği gibi fiilen C8 olduğu, 309 ada 310 parseldeki binanın Deprem Yönetmeliği ve Projesi’ne göre beton kalitesi BS 20 olması gerekirken C14 olduğu tesbit edilmiş, öngörülen beton dayanımının projelerin tasarım yılı da dikkate alındığında C16 ve üzerinde olması gerektiği belirtilmiş, 309 ada 311 parselle ilgili herhangi bir inceleme yapılmamıştır. Hükme esas alınan 21.05.2006 tarihli bilirkişi raporu dosya üzerinde inceleme yapılarak düzenlendiğinden az yukarıda açıklanan imar mevzuatı ile deprem yönetmeliğindeki düzenlemeler kamu düzenine ilişkin olduğundan, bu bilirkişi kurulu çoğunluğunun arsa sahiplerinin iyi niyetli olmayacaklarına dair görüşüne katılınması ve raporlarının hükme esas alınması mümkün değildir.
 
 Bu durumda mahkemece öncekiler dışında teknik konularda uzman kişilerden oluşturulacak yeni bir bilirkişi kurulundan mahallinde keşif ve bilirkişi incelemesi yapılarak 309 ada 309, 310, 311 parseller üzerinde yapılan inşaatlarda yöntemine uygun karot deneyleri yaptırmak ve numuneler alınmak suretiyle laboratuvar ortamında gerekli incelemeler de yaptırılarak yüklenici tarafından yapılan inşaattaki beton kalitesinin sözleşme ve eki tasdikli projesine, deprem yönetmeliğine uygun olup olmadığı, uygun değilse bu ayıpların BK’nın 360. maddesi gereğince kabule icbar edilemeyecek derecede olup olmadığı, onarım ya da güçlendirme suretiyle giderilmesinin mümkün olup olmadığı konularında rapor alınıp ilgili belediyeden varsa bu konuda işlem dosyası celp edilerek, onarım veya güçlendirme yapılması suretiyle beton kalitesinin yükseltilmesinin mümkün olup olmadığı konusunda görüşü de alınarak, ayıpların iş sahibinin kullanamayacağı ve nisfet kaidesine göre kabule icbar edilemeyecek derecede ve sözleşme şartlarına aykırı olması halinde yüklenicinin açtığı tapu iptâl tescil davalarının reddedilmesi, onarım ve güçlendirme suretiyle ayıbın giderilmesinin mümkün bulunması halinde yükleniciye bu
@@ -135,6 +151,8 @@ SONUÇ:Yukarıda 1. bentte açıklanan nedenlerle tarafların diğer temyiz itir
 
 ## Yargıtay 15. HD 2011/7809 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/665043500)
+
 Davacı arsa sahipleri davada, davalıların, kendisine ait binanın güçlendirme işini üstlendiklerini ancak işin tekniğine uygun yapılmaması nedeniyle binanın yıkıldığını bu nedenle aralarında 10.12.2001 ve 08.01.2002 tarihli protokolleri düzenlediklerini bu protokollere göre davalıların güçlendirme masraflarına katılması gerektiği halde katılmadıklarından bahisle 60.000,00 TL’nin tahsili talep edilmiştir.Dosya kapsamından taraflar arasında davalara ait binanın 1999 depreminde hasara uğraması nedeniyle güçlendirme işinin davalılar tarafından üstlenildiği ancak hatalı çalışma nedeniyle binanın yıkıldığı, bunun üzerine taraflar arasında 10.12.2001 ve 08.01.2002 tarihli protokollerin düzenlendiği anlaşılmaktadır.
 Nitekim 10.12.2001 tarihli protokolde 6.madde de davalılar tarafından yapılan güçlendirme çalışmalarının tekniğine uygun yapılmaması nedeniyle mevcut binanın yıkıldığı kabul edilerek davacılara ait 621 ve 622 nolu parsellerde yapılacak yeni binanın davacılardan ...’in katkılarıyla davalılar tarafından yapılacağı maliyet bedeli olarak yapılacak binadaki 3 dairenin yükleniciler tarafından satılıp bedelinin davacı ... ve davalılar arasında paylaşılacağı kararlaştırılmış, sonradan düzenlenen 08.01.2002 tarihli protokolde binanın dava dışı yüklenici ...
 
@@ -143,6 +161,8 @@ Nitekim 10.12.2001 tarihli protokolde 6.madde de davalılar tarafından yapılan
 kat karşılığı inşaat sözleşmesi hükümlerine ilaveten yüklenici ...’ye davacı ... ve davalılarca 10.000,00 TL’nin ödenmesinin kabul edildiği anlaşılmaktadır. Dosya içerisinde bulunan ... 2. Asliye Hukuk Mahkemesi’nin 2004/630 Esas 2007/164 Karar sayılı dosyasında ise davacılar tarafından yüklenici Niyazi Mendi aleyhine 28.12.2001 tarihli kat karşılığı inşaat sözleşmesinin feshi talebiyle dava açıldığı, mahkemece sözleşmenin feshine ve davacı ... tarafından yükleniciye ödenen 10.000,00 TL’nin iadesine karar verildiği, kararın Dairemizce onanarak kesinleştiği bundan sonrada yeni binanın Davacı ... tarafından tamamlandığı anlaşılmıştır. Tüm dosya kapsamı ve protokoller dikkate alındığında davalıların davacıya ait binanın güçlendirme işini tekniğe uygun yapmadıkları için yıkılması sebebiyle güçlendirme masraflarına katılmayı taahhüt ettikleri, bu nedenle 08.01.2002 tarihli protokole göre 10.000,00’er TL’den sorumlu oldukları, bu miktar üzerinden davanın kabulü gerekirken reddinin doğru olmadığı sonucuna varılmış, temyiz itirazlarının kabulü ile kararın davacılar yararına bozulması uygun görülmüştür.SONUÇ: Yukarıda açıklanan nedenlerle kararın temyiz eden davacılar yararına BOZULMASINA …
 
 ## Yargıtay 15. HD 2011/6199 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/765249400)
 
 Yanlar arasında biçimine uygun olarak Sakarya 4. Noterliği'nde düzenlenen 20.03.1995 gün 6205 yevmiye nolu kat karşılığı inşaat sözleşmesinin 2. maddesinde inşaat süresi temel ruhsat tarihinden itibaren 36 ay olarak belirlenmiş olup, temel ruhsatının da sözleşme tarihinden itibaren en geç 3 ay içerisinde yüklenici tarafından alınacağı kararlaştırılmıştır. Buna göre 20.03.1995 sözleşme tarihine 3 aylık ruhsat alım süresi ve 36 aylık inşaat teslim süresi eklendiğinde teslimi gereken tarih depremden önceki 20.06.1998 olmaktadır. Davacı yüklenici, bu tarihte inşaatı bitirip teslim etmemek suretiyle temerrüde düştüğünden depremden sonra imar durumundaki değişiklik nedeniyle kat ve daire sayısının azalmasında kusurludur. Bu sebeple davalı, davanın açıldığı tarihte davaya karşı çıkmakla haklı olduğu ve uyarlama istemi bilahare arsa sahibinin kabulü doğrultusunda sonuçlandığından dava açılmasına neden olmayan davalı-karşı davacı arsa sahibinin ücreti vekâlet ve yargılama giderleriyle sorumlu tutulmaması gerekirken harç, avukatlık ücreti ve mahkeme masrafının davalıdan tahsiline karar verilmesi doğru olmamıştır.
 
@@ -153,6 +173,8 @@ SONUÇ: Yukarıda 1. bentte açıklanan nedenlerle davalı-karşı davacının d
 …
 
 ## Yargıtay 15. HD 2011/411 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/506860900)
 
 Dava, arsa payı karşılığı inşaat yapım sözleşmesi uyarınca tapu iptâli ve tescil, bu talebin kabul edilmemesi halinde bağımsız bölümlere karşılık gelen arsa payının tespit edilerek payları oranında arsa sahipleri ve kooperatif adına tapuya kayıt ve tescili istemine ilişkindir.
 
@@ -167,11 +189,15 @@ SONUÇ: Yukarıda 1. bentte açıklanan nedenlerle davalılar...ve ...'ın tüm 
 
 ## Yargıtay 15. HD 2010/7017 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/778076800)
+
 Eser sözleşmelerinde işin sözleşmeye, fen ve sanat kurallarına uygun olarak bitirilip teslim edildiğini yüklenici kanıtlamak zorundadır. Davalı yükleniciler 17.08.1999 depreminden önce inşaatın teslim edildiğini usulen kanıtlayamadıklarından davacıların sözleşmeye göre almaları gereken 20 daire 4 dükkan yönünden son olarak teslimi kararlaştırılan 31.12.1997 tarihinden 17.08.1999 tarihine kadar rayiç kira bedeli üzerinden gecikme tazminatına hükmedilmesi gerekirken Vergi Dairesince tanzim edilen yoklama fişine göre binanın 1997 yılında tamamlandığı bu nedenle kira tazminatı talep edilemiyeceği gerekçesi ile davanın reddine karar verilmesi doğru olmamış, kararın açıklanan bu nedenlerle bozulması gerekmiştir.
 
 SONUÇ:Yukarıda 1. bentte yazılı nedenlerle davacıların diğer temyiz itirazlarının reddine, 2. bentte açıklanan nedenlerle hükmün temyiz eden davacılar yararına BOZULMASINA …
 
 ## Yargıtay 15. HD 2010/2220 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/774745300)
 
 Yargılama sırasında alınan bilirkişi raporunda binanın depremde yıkılması nedeniyle müteahhit davalı ...’in olayda %40, fenni mesul davalı ...’nun %15, kooperatif yönetiminin %2, uygun olmayan bir sahaya 6 kata izin veren Yalova Belediyesi’nin %20, kalan kısım oranının ise gayrı melhuzlara verileceği belirtilmiş, mahkemece davacı lehine hüküm altına alınan maddi ve manevi tazminat miktarında kusur oranlarına göre indirim yapılarak tahsil kararı verilmiştir. Raporda davacı arsa sahibine izafe edilmiş bir kusur bulunmadığı ortadadır. Bu nedenle hükmolunan tazminatta indirim yapılması doğru olmadığı gibi arsa sahibinin tapu iptâl ve tescil talebinin kabulü gerekirken reddine karar verilmiş olması usul ve yasaya aykırıdır.
 
@@ -180,6 +206,8 @@ Yüklenici tarafından yapılan binanın fen ve sanata aykırı yapılması sure
 SONUÇ: Yukarıda 1. bentte açıklanan nedenlerle davalılar ... ve ...’in tüm, davacının davalı ...’a yönelik tüm, diğer davalılara yönelik sair temyiz itirazlarının reddine, 2. bent uyarınca kabulü ile hükmün temyiz eden davacı yararına BOZULMASINA …
 
 ## Yargıtay 13. HD 2009/9289 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/832963100)
 
 Davacı, 17.03.1997 tarihli gayrimenkul satış vaadi sözleşmesi ile müteahhit olan davalıdan arsa sahibi ile yaptığı sözleşmeyle davalıya kalan 3 adet daire satın aldığını, bedelini ödediğini, daha sonra davalı ile 04.03.1998 tarihinde adi şekilde daire alım ve inşaat sözleşmesi yaparak inşaatın teslim süresinin yeniden belirlendiğini, buna göre 01.04.1998 tarihinden itibaren 18 ay içinde tesliminin taahhüt edildiğini, davalının inşaatı yapmadan terk ettiğini, 22.09.2004 tarihli ihtar ile sözleşmenin feshi ve zararının tazminini istediğini, ancak davalının tazmin etmediğini ileri sürerek sözleşmenin feshi nedeniyle uğradığı zarara karşılık fazlaya ilişkin hakları saklı kalmak kaydıyla 60.000YTL tazminatın faiziyle birlikte davalıdan tahsilini istemiş, ıslah dilekçesiyle talebini 135.000YTL’ye yükseltmiştir.
 
@@ -198,12 +226,16 @@ SONUÇ:Yukarıda birinci bentte açıklanan nedenlerle tarafların 2. ve 3. bent
 
 ## Yargıtay 15. HD 2009/6305 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/855212100)
+
 Dava dışı yüklenici ... ile davalı arsa sahibi arasındaki düzenleme şeklinde daire karşılığı, inşaat yapım sözleşmesi 13.04.1999 tarihinde imzalanmıştır. Davacı yüklenici şirket 19.09.2000 tarihli düzenleme şeklindeki devir sözleşmesiyle işi ilk yüklenici ...’dan devralmıştır. Davacı devralan yüklenici şirket ile davalı arsa sahibi arasında 16.01.2003 tarihinde düzenleme şeklinde daire karşılığı inşaat yapım sözleşmesine ek sözleşme imzalanmıştır. Taraflar arasındaki 16.01.2003 tarihli ek sözleşmede, paylaşım yeniden düzenlenmiş, inşaat süresi 15 ay uzatılmış bunlar dışındaki 13.04.1999 tarihli sözleşmenin diğer maddelerinin aynen yürürlükte olduğu kararlaştırılmıştır. Davacı yüklenici şirket bu davada deprem yönetmeliğinde yapılan değişiklik nedeniyle yapmak zorunda kaldığı fazla giderlerin tahsilini istemiştir. Yüklenicinin yükümlülüğü sözleşmeye, imar durumuna, projesine ve yürürlükte bulunan deprem yönetmeliğine uygun nitelikte inşaat yapıp arsa sahibine teslim etmektir. Davacı yüklenici şirket ilk yüklenici ...’dan depremin meydana gelmesinden sonra 19.09.2000 tarihinde aynı şartlarla daire karşılığı inşaat yapım sözleşmesine konu işi devir almıştır.
 Davacı yüklenici şirket davalı arsa sahibi ile imzaladığı 16.01.2003 tarihli düzenleme şeklindeki ek sözleşmede de asıl sözleşmenin şartlarında herhangi bir değişiklik olmayacağını kabul etmiş, fazla yaptığı giderler konusunda istekte bulunabileceği sözleşmede kararlaştırılmamıştır. Davacı yüklenici şirketin sözleşme gereği yükümlülükleri içerisinde depreme dayanıklı inşaat yapılmasının da bulunmasına, davacı yüklenicinin depremin meydana gelmesinden sonra ilk yükleniciden sözleşmeyi devralmış olmasına ve daha sonra taraflar arasında düzenlen 16.01.2003 tarihli sözleşmede de bu konuda arsa sahibi tarafından yükleniciye ödeme yapılacağına ilişkin bir düzenleme yeralmamış olmasına göre, davanın reddine karar verilmesi gerekirken, yanlış değerlendirme sonucu istekle bağlı kalınarak davanın kabulüne karar verilmesi doğru olmamış, kararın bozulması gerekmiştir.
 
 SONUÇ: Yukarıda açıklanan nedenlerle kararın temyiz eden davalı arsa sahibi yararına BOZULMASINA …
 
 ## Yargıtay 15. HD 2008/7015 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/857406000)
 
 Davacıların murisi ile davalı kooperatif arasında imzalanan 06.10.1994 tarihli satış vaadi ve kat karşılığı inşaat sözleşmesinin 5. maddesinde inşaatın ruhsatın alındığı tarihten itibaren 42 ay içinde tamamlanıp oturulacak şekilde arsa sahiplerine imza karşılığında teslim edileceği, ancak doğal afet (deprem, yangın, su baskını vs.) meydana gelmesi halinde yetkili makamların vereceği raporlara istinaden inşaat süresinin uzatılacağı kararlaştırılmıştır. Somut olayda inşaat ruhsatı 14.01.1997 tarihinde alınmış, 42 aylık yapım süresi 14.07.2000 tarihinde dolmuştur. Nevar ki, yapım süresi içinde 17.08.1999’da büyük Marmara depreminin vukua geldiği ve deprem nedeniyle idari mercilerce ek tedbirler ve kararlar alınarak inşaat faaliyetlerinin geçici bir süre durdurulduğu -bu konuda dosyada herhangi bir delil bulunmasa da- bilinmektedir. Davalı kooperatif vekili 2. ek rapora itirazlarını sunduğu 12.03.2007 tarihli dilekçesinde açıkça deprem nedeniyle inşaatın durdurulduğunu ileri sürüp ek süre verilmesini talep etmiş ise de, bilirkişilerce ve mahkemece bu yönde bir araştırma ve inceleme yapılmamış, kararın gerekçesinde de talebin hangi haklı nedenlerle reddedildiği açıklanmamıştır.
 O halde mahkemece inşaatın deprem nedeniyle durdurulup durdurulmadığı, …
@@ -213,6 +245,8 @@ O halde mahkemece inşaatın deprem nedeniyle durdurulup durdurulmadığı, …
 SONUÇ; Yukarıda 1.bentte yazılı nedenlerle davalı kooperatif vekilinin diğer temyiz itirazlarının reddine, 2. ve 3. bentler uyarınca kararın davalı kooperatif yararına BOZULMASINA ödediği temyiz peşin harcının istek halinde temyiz eden davalıya geri verilmesine …
 
 ## Yargıtay 15. HD 2008/1559 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/16858900)
 
 Dava, arsa payı karşılığı inşaat yapım sözleşmesi uyarınca gecikme tazminatı, eksik işler bedeli, dairelerin ebatlanndaki farklılık nedeniyle değer kaybı, proje harici ve tadilat projesi ile ilave olarak yapılıp yükleniciye kalan bağımsız bölümdeki değer artışı sebebiyle alacak ve A bloktaki kalorifer kazanıyla ilgili edimin ifası istemlerine ilişkindir.
 
@@ -227,6 +261,8 @@ Bu durumda mahkemece ilgili belediye ve İdari makamlardan 1999 yılı Ağustos 
 Sonuç: Yukarıda (1.) bentte açıklanan nedenlerle davalının diğer temyiz itirazlarının reddine, (2.) bent uyarınca kabulü ile hükmün davalı yararına (BOZULMASINA)
 
 ## Yargıtay 15. HD 2007/3269 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/859134800)
 
 Dava, kat karşılığı inşaat sözleşmesinden kaynaklanan gecikme tazminatı (kira kaybı) ve yapılamayan daire için tazminat istemlerine ilişkindir.
 

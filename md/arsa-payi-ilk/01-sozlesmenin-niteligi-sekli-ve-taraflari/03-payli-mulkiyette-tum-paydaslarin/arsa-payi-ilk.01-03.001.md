@@ -28,6 +28,8 @@ Davacı ...’ın miras payı 3/20 olup ancak kendi payı kadar tahsile yetkilid
 
 ## Yargıtay HGK 2023/412 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/905167300)
+
 TMK’nın 692. maddesi gereğince, paylı mülkiyete konu bir taşınmazda olağan şekilde kullanmanın gerekli kıldığı ölçüyü aşan yapı işlerine girilmesi veya paylı malın tamamı üzerinde tasarruf işlemlerinin yapılması, oybirliğiyle aksi kararlaştırılmış olmadıkça, bütün paydaşların kabulüne bağlıdır. Bu hüküm dikkate alındığında, bir taşınmaz hissesi hakkında yapılan arsa payı karşılığı inşaat sözleşmesi geçerli olmayacaktır.
 
 ## Yargıtay 6. HD 2026/1295 K.
@@ -41,5 +43,7 @@ Anılan İçtihadı Birleştirme kararı, Dairemizin yeni içtihatları ve yapı
 inceleme ve değerlendirme yapılması suretiyle, aleyhine temyiz yoluna başvurulan davalılar ..., ..., ..., ..., ..., ..., ..., ..., ... ve ... Sanayi ve Ticaret AŞ'nin iyiniyetli olup olmadıkları araştırılarak sonucuna göre bir karar verilmesi gerekirken yazılı şekilde karar verilmesi doğru olmamış, kararın bozulması gerekmiştir. VI.
 
 ## Yargıtay 6. HD 2025/224 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1135665600)
 
 Dairemizin TMK’nın 692. maddesine istinaden geriye etkili fesih istemlerinde tüm paydaşların birlikte dava açması gerektiğine dair yerleşik içtihatları mevcut ise de, bu dava özelinde arsa payı karşılığı inşaat sözleşmesine konu taşınmazların paylı ya da iştirak halinde mülkiyete konu olmadığı hatta 4. ve 5. parsellerle ilgili ayrı sözleşme yapıldığı ve objektif imkansızlık nedeniyle inşaata hiç başlanmadığı dikkate alındığında; 4 ve 5 no.lu parsel maliklerinin, 1, 2 ve 3 no.lu parsel malikleri olmadan açtıkları ve diğer parsel maliklerine ayrı dava açtırıp birleştirmenin de mümkün olmadığı gerekçesiyle davanın usulden reddine karar verilmesi TMK’nın 692. maddesine açıkca aykırı olduğu gibi yerleşik içtihatlarımızada aykırı olmuştur. Davacılara ait parseller ile dava konusu yapılmayan 1, 2 ve 3 no.lu parsellerin hukuki ve fiili irtibatının olmaması, sözleşmenin geriye etkili olarak feshedilmesinde dava dışı parsel maliklerinin bir zararının da olmayacağı dikkate alındığında, mahkemece yapılacak iş, davacılar açısından sözleşmenin geriye etkili fesih koşulları incelenerek bu koşulların bulunması halinde diğer talepleri de incelenerek bir karar vermekten ibarettir.

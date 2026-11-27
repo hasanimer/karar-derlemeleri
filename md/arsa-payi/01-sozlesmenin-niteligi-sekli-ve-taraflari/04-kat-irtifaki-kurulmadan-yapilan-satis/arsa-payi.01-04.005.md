@@ -22,6 +22,8 @@ uyari: "Derleyenin seçtiği alıntılardır; kararın tamamı değildir. Künye
 
 ## Yargıtay 20. HD 2020/2069 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/599063100)
+
 Davacı vekili; malikleri oldukları ... ... mahallesi 9356 ada 18 parsel sayılı taşınmazın riskli yapı olarak tescil edildiğini, yıkım kararı alınması ile kentsel dönüşüm sürecinin başladığını, ancak bir kısım maliklerin diğerlerinden habersiz bir takım girişimlerde bulunduklarını, toplantıların devam ettiğini ancak bazı kat maliklerinin bu toplantılara çağrılmamasının açıkça usul ve kanuna aykırı olduğunu belirterek 25/11/2016 tarihli kat malikleri kurulu kararları ile bu toplantıda alınan kat karşılığı inşaat sözleşmesinin iptalini ve kurul kararının yürütmesinin ve buna istinaden yapılacak inşaata ilişkin tüm işlemlerin de tedbiren durdurulmasını talep etmiştir.
 
 Mahkemece, binanın yıkılması nedeniyle davanın konusu kalmadığından hüküm kurulmasına yer olmadığına karar verilmiştir.
@@ -35,6 +37,8 @@ Mahkemece, binanın yıkılması nedeniyle davanın konusu kalmadığından hük
 SONUÇ: Yukarıda açıklanan nedenlerle; temyiz itirazlarının kabulü ile İzmir Bölge Adliye Mahkemesi 6. Hukuk Dairesinin 5.7.2019 tarih ve 2018/2537 E- 2019/1443 K. sayılı kararının KALDIRILMASINA …
 
 ## Yargıtay 15. HD 2020/1933 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/645253500)
 
 Davacı vekili dava dilekçesi ile, müvekkili yüklenici ile davalılardan ..., ... ve ...'in murisi İbrahim Dinçtürk arasında 28.09.1993 tarihli arsa payı karşılığı inşaat sözleşmesi düzenlediğini, sözleşme gereği bodrumdaki depolu dükkan ile 1. kattaki dairenin müvekkiline ait olacağını, müvekkilinin tüm edimleri yerine getirerek inşaatı teslim ettiğini ancak bodrum kattaki dükkan ile 1. kattaki dairenin tapu devrinin yapılmadığını, arsa sahibi mirasçılarının müvekkiline devri gereken bağımsız bölümleri muvazaalı olarak diğer davalılara devrettiklerini ileri sürerek, müvekkiline ait olan bağımsız bölümler nispetinde davalıların hissesinin iptâl ile müvekkili adına tesciline, mümkün olmadığı takdirde fazlaya ilişkin hakları saklı tutularak 6.000,00 TL maddi zararın davalılar ..., ... ve ...'den yasal faizi ile tahsilini talep ve dava etmiştir.
 
@@ -50,6 +54,8 @@ Bu durumda mahkemece kat irtifakı ve arsa payları konusunda uzman teknik bilir
 SONUÇ: Yukarıda 1. bentte açıklanan nedenlerle davalılardan ..., ..., ... ve ... vekillerinin diğer temyiz itirazlarının reddine, 2. bent uyarınca kabulü ile hükmün temyiz eden davalılar ..., ..., ... ve ... yararına BOZULMASINA …
 
 ## Yargıtay 15. HD 2020/1870 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/588729700)
 
 Davacı ... vekili dava dilekçesinde, İ... Cengiz Topel Geçidinde ve 1/2 payı ... ile diğer 1/2 payın sahibi ... mirasçıları üzerinde kayıtlı olan 70 ada 30 parsel (imar sonucu 5398 ada 1 parsel) sayılı arsa üzerine yapı yapılması konusunda davacı yüklenici ... ile davalılardan tapu kayıt malikleri ..., ..., ..., ..., ... ve ... arasında 01.11.1995 tarihli ve 1/2 pay sahibi ... ile de 25.10.1995 tarihli satış vaadini içeren kat karşılığı inşaat sözleşmesi yapıldığını, bu sözleşme uyarınca yüklenici davacının üzerine düşen edimleri yerine getirmiş olmasına karşın sözleşmede yükleniciye devri öngörülen 5-6-7-8-11-12 ve 14 nolu dairelerin ve 15 nolu dükkanın davalılar tarafından ferağının verilmediğini ileri sürerek dava konusu taşınmazda kat irtifakının kurulması ile sözü edilen bağımsız bölümlerin davacı adına tesciline karar verilmesi isteminde bulunmuştur.
 
@@ -67,6 +73,8 @@ SONUÇ: Yukarıda 1. bentte açıklanan nedenlerle kararın asli müdahil ... ya
 
 ## Yargıtay 15. HD 2020/890 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/648097800)
+
 Dava, yüklenicinin temlikine dayalı tapu iptâli, tescil isteğine ilişkindir.
 
 Davacı vekili, davalı arsa sahibi ile yüklenici arasında noterde düzenlenen 29.04.2005 tarihli Düzenleme Şeklinde Gayrimenkul Satış Vaadi ve Kat Karşılığı İnşaat Sözleşmesi uyarınca, 9208 ada, 8 parsel sayılı taşınmazda yapılmakta olan inşaattan, davalı yükleniciye düşen zemin kat ve birinci bodrum kattaki dükkanın 1/2 payının, birinci bodrum kattaki 1 ve 2 numaralı daireler ile ikinci normal kattaki 3 numaralı daireyi noterde düzenlenen 06.08.2014 tarihli Düzenleme Şeklinde Satış Vaadi Sözleşmesiyle temlik aldığını, yüklenicinin tapuda devirden kaçındığını ileri sürerek, tapu kayıtlarının iptâli ile davacı adına tesciline karar verilmesini talep ve dava etmiştir.
@@ -82,6 +90,8 @@ SONUÇ: Yukarıda açıklanan nedenlerle davacının temyiz itirazlarının kabu
 
 ## Yargıtay 15. HD 2020/757 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/577973700)
+
 Arsa payı karşılığı inşaat yapım sözleşmelerinde yüklenicinin bedel olarak kararlaştırılan arsa payı ya da bağımsız bölümlere hak kazanabilmesi için inşaatı sözleşme ve ekleri, tasdikli projesi, yapı ruhsatı ve imar mevzuatına uygun olarak ve kararlaştırılmış ise yapı kullanma izin belgesini alarak, arsa sahibine bırakılacak bağımsız bölümleri teslim etmesi zorunludur.
 Bu durumda mahkemece aşamalı devir öngörülmediği ve yapı kullanma izin belgesi alma yükümlülüğü yükleniciye bırakıldığından asıl dava davacısı yükleniciye yapı kullanma izin belgesi alma ve belediye ile diğer resmi kurumlardan yapı kullanma izin belgesi alınması ile ilgili olarak arsa sahiplerini temsile yetkili olduğuna dair yetki belgesi ve makul süre verilerek yapı kullanma izin belgesi alınması sağlanıp alınması halinde, tapu yazı cevabına göre inşaat konusu taşınmazda henüz kat irtifakı tesis edilmediğinden tapu ve kat irtifakı tesisi konusunda uzman bilirkişiden sözleşmeye göre yükleniciye bırakılacak bodrum, zemin, 1. ve 2. katta bulunan 1, 2, 3 ve 4 nolu bağımsız bölümlerin kat irtifakına esas olarak tapu ve arsa payları konusunda denetime elverişli ve gerekçeli rapor alınıp arsa payı ve bağımsız bölüm numarası belirtilerek ve arsa payları toplamı üzerinden tapu kaydının iptâl ve tesciline karar verilmesi, yapı kullanma izin belgesi alma yükümlülüğü davadan sonra yerine getirilmiş olacağı ve bu halde arsa sahipleri asıl davaya karşı çıkmaktaki hakkı olacaklarından, asıl davada harç ücreti vekâlet ve yargılama giderleriyle sorumlu tutulmamaları gerekir.
 Bu hususlar üzerinde durulmadan eksik inceleme ve yanlış değerlendirme sonucu infazda tereddüt de yaratacak şekilde asıl davanın kısmen kabulü doğru olmamış, kararın bozulması uygun bulunmuştur.
@@ -89,6 +99,8 @@ Bu hususlar üzerinde durulmadan eksik inceleme ve yanlış değerlendirme sonuc
 SONUÇ: Yukarıda 1. bentte açıklanan nedenlerle davalı-karşı davacı arsa sahiplerinin diğer temyiz itirazlarının reddine, 2. bent uyarınca kabulüyle asıl davada kurulan hükmün arsa sahipleri yararına BOZULMASINA …
 
 ## Yargıtay 15. HD 2020/110 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/580846600)
 
 İlk derece mahkemesince yapılan yargılama sonunda asıl davada davanın kısmen kabulü ile davaya konu 13 adet bağımsız bölüm tapusu yönünden dava konusuz kaldığından karar verilmesine yer olmadığına, davaya konu ... ili, ... ilçesi, ... Mahallesi, imarın 44558 ada 1 parselde 2377,94 m² ile 44928 ada 1 parselde 3787 m²'lik hisselerin davalı adına olan tapu kayıtlarının iptâli ile davacılar adına tesciline, 280.000,00 TL kira tazminatının davalıdan tahsiline; karşı davada davanın kısmen kabulüne, 01.10.2004 tarihli Ek ve Son Protokolün 2.2.b maddesinde öngörülen teminat ipoteğinin kaldırılmasına karar verilmiştir.
 
@@ -105,6 +117,8 @@ Bu halde mahkemece davalı-karşı davacı yüklenicinin davacı-karşı davalı
 SONUÇ: Yukarıda 1. bentte açıklanan nedenlerle tarafların diğer temyiz itirazlarının reddine, 2. bent uyarınca kabulü ile Bölge Adliye Mahkemesi kararının kaldırılarak ilk derece mahkemesi hükmünün taraflar yararına BOZULMASINA …
 
 ## Yargıtay 1. HD 2019/6137 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/563706900)
 
 Davacı, mirasbırakan babası ...’nın mirastan mal kaçırma amacıyla ve muvazaalı olarak dava konusu ... ada ... parsel sayılı taşınmazda davalılara pay satışı yaptığını ve bu taşınmazda kat irtifakı kurulması üzerine 9 no’lu bağımsız bölümün davalı ..., 4 no’lu bağımsız bölümün davalı ... adına tescil edildiğini, mirasbırakanın dava konusu ... ada ... parsel sayılı bahçeli ev niteliğindeki taşınmazı da yine muvazaalı olarak davalı oğlu ...’e ölünceye kadar bakma sözleşmesiyle temlik ettiğini ileri sürerek dava konusu ... ada ... parsel sayılı taşınmazda yer alan 9 no’lu bağımsız bölüm ile 4 no’lu bağımsız bölümün davalılar adına olan tapu kayıtlarının iptali ile miras payı oranında adına tescilini, dava konusu ... ada ... parsel sayılı taşınmazın devrine ilişkin ölünceye kadar bakma sözleşmesinin ve devir işleminin iptali ile miras payı oranında adına tescilini, olmadığı taktirde tenkisini istemiştir.
 
@@ -123,6 +137,8 @@ Davalı ... adına kayıtlı çekişme konusu 9 no’lu bağımsız bölümün a
 
 ## Yargıtay 20. HD 2019/5568 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/539869400)
+
 Mahkemece; .... ilçesi ... mahallesi .... sokak 5 pafta 8009 parsel sayılı taşınmaz üzerinde bulunan yapıda kat irtifakının 10/07/1973 yılında kurulduğu, ilave olarak yapılan dava konusu iki dairenin ise kat irtifakı kurulmasından sonraki bir tarihte 1977-1978 yıllarında inşa edilerek 08/12/1978 tarihinde yapı kullanım belgesi alındığı, bu iki ilave dairenin yapılabilmesi için Kat Mülkiyeti Kanununun 44. maddesi uyarınca tüm kat maliklerinin oy birliği ile karar alması gerekirken inşaat tarihinde malik olan davalı ...'in muvafakatinin alınmadığı, dolayısıyla arsa payı verilmesi talep edilen iki dairenin usulsüz inşa edilmesi nedeniyle davacılara ait olduğunun ve arsa payı verilmesi talebinin kabulünün mümkün olmayacağı, ayrıca dava konusu taşınmazların 2981 sayılı Kanun kapsamında kaldığı kabul edilse bile 2981 sayılı Kanunun 16. maddesinde düzenlenen arsa payına karşılık hesap edilen değerin hak sahibi kat malikleri adına bir milli bankaya bloke ettikten sonra dava açılması ön şartının gerçekleşmediği anlaşılmakla gerek Kat Mülkiyeti Kanununun 3 ve 44. maddeleri gerekse 2981 sayılı Kanunun 16. maddesi uyarınca davanın reddine karar verilmiş, hükmün davacılar vekili tarafından
 istinaf kanun yoluna başvurulması üzerine ..... Bölge Adliye Mahkemesi 36. Hukuk Dairesi 06/12/2018 tarihli 2018/1680 E. - 2018/1724 K. sayılı ilamıyla “İlk derece mahkemesince yapılan yargılama, toplanan deliller, kök ve ek bilirkişi raporları, Dairece ...... Belediye Başkanlığına yazılan müzekkerenin cevabı, 3290 sayı ile değişik 2981 sayılı Kanunun 16. maddesi, Yargıtay 18. Hukuk Dairesinin 2014/5551 - 11141 E.K.sayılı 23/06/2014 tarihli içtihadı, aynı Dairenin 2008/8230 - 9966 E.K. sayılı 07/10/2008 tarihli içtihadı ile 2013/18445 - 2014/668 E.K. sayılı 20/01/2014 tarihli içtihadı dikkate alındığında; davacıların ya da murisinin, davaya konu edilen ve tapuda kayıtlı olmadığından arsa payı bulunmayan, anagayrimenkule sonradan eklenen 2 adet bağımsız bölümle ilgili olarak 2981 sayılı İmar Affı Kanunundan yararlanmak için süresinde yapılmış bir başvurusunun bulunmaması nedeniyle ilk derece mahkemesi kararına karşı yapılan istinaf talepleri yerinde değildir.
 
@@ -131,6 +147,8 @@ istinaf kanun yoluna başvurulması üzerine ..... Bölge Adliye Mahkemesi 36. H
 İncelenen dosya kapsamına, kararın dayandığı gerekçeye göre, yerinde görülmeyen temyiz itirazlarının reddi ile usul ve kanuna uygun olan hükmün ONANMASINA …
 
 ## Yargıtay 23. HD 2019/5214 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/560188300)
 
 Davalı vekili, davalı müvekkilinin bağımsız bölümü 3.kişiden iktisap ettiğini öne sürerek davanın reddini dilemiştir.
 
@@ -150,6 +168,8 @@ taşınmaz bedelini arsa sahibine mi, yoksa yükleniciye mi, verdiği dahi araş
 
 ## Yargıtay 15. HD 2019/3688 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/539011700)
+
 16.03.2009 tarihinde ... yevmiye nolu...3. Noterliği'nde düzenlenen resmi senet niteliğindeki kat irtifakı tesis işleminde, arsa sahibi ...’a A blok zemin katta 4 nolu meskenin 24/95 payı, aynı blok ikinci katta 7 no'lu daire ile verilmesi kabul edilip, dava konusu B blok 1, 2, 3, 4 nolu bağımsız bölümler ile 10 nolu bağımsız bölümün 34/85 payının tapu kayıtları da arsa sahibi üzerinde bırakılıp, diğer bağımsız bölümlerin paylaşımı tevhid edilen taşınmaz malikleri ve intikallere göre yapılarak kat irtifakı buna göre düzenlenmiştir.
 
 Mahkemenin de kabulünde olduğu gibi, ilk sözleşmedeki paylaşım 6098 sayılı TBK'nın 13. maddesine uygun olarak taraflarca değiştirilmiştir. Ancak bu değişimin B blok 1, 2, 3, 4 ve 10 nolu bağımsız bölümlerin de arsa sahibine bırakılması şeklinde olduğunu kabule elverişli bir delil sunulamamıştır. Arsa sahibine ait parselin tapu kaydı yükleniciye devredilmemiş, tevhid nedeniyle davacıya ilk sözleşme ile verilmesi taahhüt edilenden fazla bağımsız bölüm verileceğine dair bir sözleşme yapılmamıştır. Tadilat projesiyle iki blok halinde inşa edilen binalarda, kat irtifakıyla, bodrum katta iki dükkan ve dubleks katların yapılması ile birlikte, A Blokta 4 nolu dairenin 24/95 payı ve 7 nolu dairenin davalı arsa sahibine verilmesi suretiyle sözleşme tadil edilmiş olduğundan, mahkemece asıl davada, davacının A blok 2. kat 7 nolu bağımsız bölüm ile ilgili talebinin reddi gerekirken kabulü doğru olmamış, açıklanan nedenlerle kararın temyiz eden davalı yararına bozulması gerekmiştir.
@@ -157,6 +177,8 @@ Mahkemenin de kabulünde olduğu gibi, ilk sözleşmedeki paylaşım 6098 sayıl
 SONUÇ: Yukarıda 1. bentte açıklanan nedenlerle davalı vekilinin diğer temyiz itirazlarının reddine, 2. bentte yazılı nedenlerle kabulü ile kararın davalı yararına BOZULMASINA …
 
 ## Yargıtay 15. HD 2019/691 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/488710200)
 
 Davalı vekili, müvekkilinin zamanında inşaatı imâl ederek teslim ettiğini savunarak, davanın reddini istemiş, karşı dava ile tüm edimlerini yerine getiren müvekkiline kaba inşaat bittiğinde devri gereken %15'lik kısmın tapu devri yapılmadığı gibi, %50 paylaşım oranına göre bakiye %35'lik kısmın da tapu devrinin yapılmadığını ileri sürerek, müvekkilinin hissesine düşen kısmın karşı davalı adına olan tapusunun iptâli ile müvekkili adına tesciline karar verilmesini talep ve dava etmiştir.
 
@@ -173,6 +195,8 @@ SONUÇ: Yukarıda 1. bentte açıklanan nedenlerle davalı-karşı davacı-birle
 
 ## Yargıtay 20. HD 2019/5 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/477408500)
+
 Dava, arsa paylarının düzeltilmesi istemine ilişkindir.
 
 …
@@ -184,6 +208,8 @@ Anataşınmazda kat irtifakı kurulması sırasındaki belgeler ile arsa paylar�
 İki numaralı bentde gösterilen nedenlerle; davalılar ... ve ..., bir kısım davalılar ve birleşen dosya davacıları ... ve ... vekillerinin temyiz itirazlarının kabulüyle hükmün BOZULMASINA …
 
 ## Yargıtay 20. HD 2018/6604 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/449452600)
 
 6306 sayılı Kanunun 6. maddesinin 1. fıkrasına göre, üzerindeki bina yıkılarak arsa haline gelen taşınmazlarda daha önce kurulmuş olan kat irtifakı veya kat mülkiyeti, ilgililerin muvafakatleri aranmaksızın bakanlığın talebi üzerine ilgili tapu müdürlüğünce re'sen terkin edilerek malikleri adına payları oranında tescil edilir. Bu parsellerin malikleri tarafından değerlendirilmesi esastır. Bu çerçevede parsellerin tevhit edilmesine, münferit veya birleştirilerek veya imar adası bazında uygulama yapılmasına, yeniden bina yaptırılmasına, payların satışına, kat karşılığı veya hasılat paylaşımı ve diğer usuller ile yeniden değerlendirilmesine sahip oldukları hisseleri oranında paydaşların en az üçte iki çoğunluğu ile karar verilir.
 

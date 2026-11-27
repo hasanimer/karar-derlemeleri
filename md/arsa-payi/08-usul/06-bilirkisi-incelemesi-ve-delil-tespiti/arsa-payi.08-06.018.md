@@ -22,6 +22,8 @@ uyari: "Derleyenin seçtiği alıntılardır; kararın tamamı değildir. Künye
 
 ## İstanbul BAM 3. HD 2025/3091 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1185029500)
+
 Davacı vekili dava dilekçesinde özetle; Davacı ile davalı ... ... Gayrimenkul Geliştirme A.Ş arasında, 12/06/2014 tarihinde, İstanbul ili, Bakırköy ilçesi, Kartaltepe mahallesi, ... pafta, ... ada, 23 parsel üzerinde proje geliştirilerek inşaatın yapılması ve satış işinin gerçekleştirilmesi ortak amacı ve iradesiyle noterde Adi Ortaklık Sözleşmesi akdediğini, daha sonra bu sözleşmeyi Ticaret Sicil Müdürlüğü'ne 927286-0 ticaret sicil numarası ile tescil ettirdiklerini, Sözleşmenin imzalanmasının ardından davacının projede arsa sahiplerinin peşinat olarak talep ettiği 3.000.000 USD bedeli arsa sahiplerine ödemek üzere ...
 
 …
@@ -42,6 +44,8 @@ davalı ... ... ile akdetmiş olduğu Adi Ortaklık Sözleşmesi, Kat Karşılı
 
 ## İzmir BAM 14. HD 2025/1741 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1193072100)
+
 Somut olayda yüklenicinin yapı kullanma iznini 06.11.2017 tarihinde alarak inşaatı teslim ettiğinden arsa sahibinin Menemen 1.Asliye Hukuk Mahkemesi’nin 2020/16 D. iş sayılı dosyasında 19.06.2020 tarihinde yaptırdığı tespit tarihi itibariyle delil tespit raporunda saptanan hali ile inşaatı eksik olarak teslim ettiğinin kabulü zorunludur. Bu durumda Mahkemece mahallinde konusunda uzman bilirkişi heyeti ile keşif yapılarak kat karşılığı inşaat sözleşmesine göre arsa sahibine bırakılan 5 adet bağımsız bölümdeki eksik ve ayıplı işler ile ortak alanlardaki eksik ve ayıplı işlerin nelerden ibaret olduğu ve bunların dava tarihi itibariyle mahalli piyasa rayiçlerine göre giderim bedeli ile ortak alandaki eksikliklerin giderim bedelinden arsa sahibine ait bağımsız bölümlere isabet eden arsa payı oranındaki eksik ve ayıpları konusunda gerekçeli ve denetime elverişli rapor alınıp; taraflar arasında yapılan kat karşılığı inşaat sözleşmesinin 11.
 Maddesinde düzenlenen "ifaya ekli cezai şart" istemi yönünden arsa sahibi tarafından teslim anında çekince konulup konulmadığı değerlendirilip ifaya ekli cezai şart isteminin koşullarının oluşup oluşmadığının değerlendirilerek asıl dava yönünden hasıl olacak sonuca göre karar verilmesi; birleşen davada ise 6098 sayılı TBK'nın 97. maddesi uyarınca birlikte ifa kuralı gereğince asıl davada arsa sahipleri yararına hükmedilecek eksik ve ayıplı işler bedelinin ödenmesi koşuluyla tapu iptâl tescile karar verilmesi ve arsa sahiplerinin birleşen davaya karşı çıkmakta haklı olduklarından birleşen davada vekalet ücreti ve yargılama gideri ile sorumlu tutulmamalarına karar verilmesi gerekmektedir.
 
@@ -50,6 +54,8 @@ Maddesinde düzenlenen "ifaya ekli cezai şart" istemi yönünden arsa sahibi ta
 Karşıyaka Asliye Ticaret Mahkemesi'nin 23.12.2022 tarih ve 2020/484 Esas, 2022/963 Karar sayılı kararının, 6100 Sayılı HMK'nın 353/(1)-a-6. maddesi gereğince KALDIRILMASINA …
 
 ## İstanbul BAM 15. HD 2025/1479 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1185053400)
 
 1530.madde hükmünde yer alan ve fatura içeriğini oluşturan mal veya hizmetin ifa edilmiş olması halinde davalıdan talep edebileceği anapara ve faiz miktarın toplamı 177.000,00 TL + 126.848,85 TL =303.848,85 TL olarak hesaplandığı, 23/01/2022 tarihli bilirkişi raporunda; davacı tarafça ticari defterler sunulmadığından inceleme yapılmadığı, davalının 2014 takvim yılı işletme defterinin açılış tasdikinin usulüne uygun olarak yaptırıldığı, davalının işletme defterinde davacı ... unvanına 13-14 kayıt nosunda 31/12/2014 tarih 77184 evrak nolu 384.186,40 TL bedelli ve 15 kayıt nosunda 31/12/2014 tarih 77198 evrak nolu 177.000,00 TL bedelli gider faturalarının kayıtlı olduğu, yapıldığı iddia edilen tadilatların davalının başka konutunda yapıldığı yönündeyse, bu işlemlere ilişkin herhangi bir sözleşmeye dosya içerisinde rastlanılmadığı, bu işlemi kanıtlamaya yarayan tek belgenin davacı tarafından davalı tarafa gönderilen 177.000,00 TL bedelli fatura olduğu ve davalı tarafın söz konusu faturaya itiraz etmediği, dosya kapsamında taraflar arasında vadenin belirlendiği mevcut yazılı bir sözleşme, borcun ifa edileceği tarihi kararlaştırdıkları ya da borçlunun borcunu ne zaman ifa edeceğini
 gösterir bir belge ve bilgiye rastlanılmadığından ayrıca takip tarihinden önce davacı/alacaklı tarafından davalı/borçluya yapılmış ödeme isteği içeren bir ihtar ya da ihbar da görülemediğinden, davacının 25/06/2020 tarihine kadar 125.222,65 TL işlemiş faiz talep edebileceğinin belirtildiği, akdi ilişkinin varlığını ispat yükü davacı yüklenicide olduğu, 6100 sayılı HMK'nın “Senetle ispat zorunluluğu” başlıklı 200.
@@ -64,6 +70,8 @@ BAKIRKÖY 7. ASLİYE TİCARET MAHKEMESİ'nin 21/10/2024 tarih ve 2023/1174 Esas,
 
 ## Ankara BAM 27. HD 2025/1315 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1188590500)
+
 Davalı ... Belediyesi vekili; davaya yargı yolu, husumet ve işbölümü (görev) itirazları olduğunu, bu davada idari yargının görevli olduğunu, ...
 
 …
@@ -76,6 +84,8 @@ Bütün bu değerlendirmeler çerçevesinde davalı yüklenicinin ediminde olan 
 almadığını, Yargıtay 15. HD'nin 20.03.2006 tarih ve 7960/1539 E/K sayılı ilamında "İmar Kanunu'nun 21. maddesine göre, ayrıksı durumlar dışında tüm insaatların ilgili idari birimlerden alınacak yapı izniyle yapılması zorunludur. Kamu duzenine iliskin olan bu durum, görevi gereği mahkemece doğrudan göz önünde tutulur" denildiğini, davalılar arasında imzalanan ana sözleşmenin 1.maddesinde dava konusu inşaatın "Onaylı mimari projesine uygun olarak yüklenici tarafından yapılması işidir" şeklinde olduğunu, dava konusu inşaatın konut bloklarının ana sözleşmeye de uygun olarak yapılmadığını, davalı ... Belediyesinin konut blokları ile ilgili CD içerisinde sunduğu projelerin mimari avan projeleri olduğunu, mahkemenin bilirkişi kurulunu yetkilendirmesi ile bilirkişi kurulunun davalı ...
 
 ## İstanbul BAM 17. HD 2025/1208 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1173645000)
 
 Davalı vekili cevap dilekçesinde; müvekkili kooperatifin 1991 tarihinde üzerinde bulunduğu gayrimenkulün o dönem ki sahipleri tarafından kurulduğunu, kooperatifin 4 blok olmak üzere 160 bağımsız bölümden oluştuğunu, uzun süre arsa sahipleri tarafından kooperatif yöneticiliği yapıldığını, akabinde arsa sahipleri tarafından kooperatifin kendilerine borçlandırılarak yönetimin kooperatif üyelerine terkedildiğini, eski arsa sahipleri lehine olan ipoteklerin terkini için bir kısım yargılamanın aleyhe sonuçlandığını, bir kısmının da halen devam ettiğini, müvekkili kooperatifin uzun süre sadece kağıt üzerinde yönetildiğini, olağan genel kurullarının dahi düzenli yapılmadığını ve tasfiye sürecine girdiğini, yeni yönetimin gayrimenkul üzerindeki ipotekler ile iskan alınması için yapılması gereken iş ve işlemlere ilişkin yaptığı çalışmada 2015 tarihi itibariyle üye başına ortalama 80.000,00 TL masraf çıkacağını öngördüğünü, sitenin kentsel dönüşüm çerçevesinde yenilenmesi halinde hem mülklerin değer kazanacağı, hem imar problemlerinin çözüleceği, hem de ipotek borçlarından kurtulma ihtimalinin olduğu düşüncesi ile üyelerin de onay vermesi üzerine bu çerçevede dava dışı ... firması ile anlaşma
 sağlandığını, bu safhaya kadar herhangi bir talebi olmayan davacının, inşaat şirketi tarafından projenin onaylatılmasını müteakip daha önceden site içinde kalan ve dükkan olarak bir değer ifade etmeyen bağımsız bölümüne karşılık yeni projede caddeye tam cepheli yeni iş yerlerinden birini talep ettiğini, bunun iyiniyetli olmadığını, ayrıca bu aşamaya kadar yapılan olağan ve olağanüstü toplantılarda davacının herhangi bir itirazı olmadığı gibi alınan kararların iptali yönelik bir başvurusunun da bulunmadığını, inşaat firması ile yapılan anlaşma uyarınca üyelerin daha büyük ve daha değerli bağımsız bölümlere sahip olacağını ve üyelerin ipoteklerden kaynaklı ödenmesi gereken yaklaşık 80.000,00 TL'den kurtarıldığını, yeni yönetimin oluşup kooperatif tasfiye halinden döndürüldükten sonra toplanan aidatlarda işyeri olması sebebiyle davacıdan daha yüksek bir aidat istenmediğini belirterek davanın reddine karar verilmesini savunmuştur.
@@ -103,6 +113,8 @@ Davalı kooperatifin 14/02/2016 tarihinde yapılan 2000-2015 arası hesap yılla
 sonra davalı kooperatifin 2017 yılı hesap yılına ilişkin yapılan 06/05/2018 tarihli olağan genel kurulunda, yönetim kurulunun 2017 yılı faaliyet raporunun okunarak müzakereye açıldığı ve oybirliği ile kabul edildiği dikkate alındığında sözleşmenin okunmadığı, üyelerin bilgilendirilmediği ve paylaşımın üyelerin menfaatine olmadığı iddiaları ile bu toplantıda alınan kararlar aleyhine bir iptal davası açılmadığından davacının 2017 yılında yüklenici ile yapılan sözleşmeyi ve sözleşmede kararlaştırılan paylaşım usulünü benimsediğinin kabulü gerekir. Kaldı ki toplantı tutanağından anlaşılacağı üzere aynı toplantıda dükkana karşılık daire verildiğini ileri sürerek mağdur edildiğini beyan ettiğine göre davacının sözleşmenin içeriğinden ve paylaşım usulünden haberdar olduğu da sabittir. Ayrıca davacının, sadece konut inşa edilmesi amacıyla yönetim kuruluna yetki verildiği iddiası da ispata muhtaçtır. O halde davacının, kendisine dükkan yerine daire tahsis edildiğine ve bu nedenle zarara uğradığına yönelik iddiaları kanıtlanamadığından Mahkemece davanın reddine yönelik tesis edilen karar isabetli olup davacı vekilinin istinaf başvurusu yerinde görülmemiştir.Açıklanan sebeplerle …
 
 ## İzmir BAM 14. HD 2024/1563 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1081274000)
 
 Davalı vekili tarafından verilen cevap dilekçesinde özetle; Davacının müvekkilinden herhangi bir hak ve alacağının olduğunu kabul etmemek kaydıyla yapılan imalat ve sözleşme bedeli açık ve net olup davacı yanın işbu davayı belirsiz alacak talebiyle ikame etmesinin mümkün olmadığını, müvekkili şirketin yokluğunda Menderes Sulh Hukuk Mahkemesi 2019/17 D.İş sayılı dosyasında da imalatın değerine ilişkin, kabul anlamına gelmemekle, hesaplama yaptırıldığını, açılacak olan davanın miktarının biliniyor olması halinde böyle bir dava açılması mümkün olmayıp kısmi dava açılmasının Mahkememiz nezdinde yapılacak ön incelemede harcı tamamlamaya ilişkin süre dahi verilmeksizin usulden reddi gerektiğini, taraflar arasında, davacı yanın "... organize Sanayi Bölgesi ...
 

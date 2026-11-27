@@ -22,6 +22,8 @@ uyari: "Derleyenin seçtiği alıntılardır; kararın tamamı değildir. Künye
 
 ## İstanbul BAM 53. HD 2024/398 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1017727200)
+
 A.Ş arasında imzalandığını ve bir suretinin 19.10.2021 tarihli dilekçe içinde yer alan alt taşeronluk sözleşmesi ile bu şirkete yaptırıldığını, hakedişler ve faturalaşma işlemlerinin bu şirket nezdinde gerçekleştiğini, bu alt taşeronluk sözleşmesinde ana yüklenici olarak davacının da imzasının olduğunu, mahkemece aldırılan ikinci ek raporda da faturanın söylendiğini, bu faturada inşaat işlerinin açıkça yazıldığını, dolayısıyla tespit edilen bu alacak tutarı, dava dışı alt taşeron ... firmasının yine dava dışı iş ortaklığı ile yapmış olduğu alt taşeronluk sözleşmesi gereğince dava konusu inşaatta dava dışı bu iş ortaklığı adına ve davalı şirket için ifa etmiş olduğu imalat işlerinin bir kısmının hakedişi olduğunu ve sözleşme gereği haliyle bu fatura dava dışı iş ortaklığı namına tanzim edildiğini, ... firması tarafından bu hakediş alacağının da dahil olduğu tüm alacakları dosyada bir sureti bulunan 05.07.2018 tarihli temlik sözleşmesi ile müvekkil şirkete temlik edildiğini, bilirkişi raporu ile ortaya konulan bu alacağın davalı ile imzalanmış taşeronluk sözleşmesinin gereği olarak alt taşeron firmaca yapılmış inşaat imalat işleri sonucu oluşmuş hak ediş alacağı olduğu ve bunun
 davalı şirketin borcu olarak ortaya çıkacağı, taşeronluk sözleşmesinin açık ve net bir sonucu olduğu, dava konusu alacağın varlığının bu şekilde tespit ve ispat olunmuş durumda olduğunu, mahkeme kararının hatalı olduğunu, kararda dava dışı ... Firmasının cevabında dava konusu inşaatın denetimini kendilerinin yapmadığı hususunun belirtilmesinin de davanın reddine gerekçe yapıldığını ancak 10.02.2022 tarihli müzekkereye cevaben dosyaya Kadıköy Belediyesince verilen cevap yazısının ekindeki belgelerden bu inşaatın yapı denetim yetki ve sorumluluğunun bu şirkette olduğu hususu ve bu belgelerin bazılarında bu sıfatla bu şirketin kaşe ve imzalarının olduğunun açıkça görüldüğünü, belediyenin resmi cevabına rağmen şirket beyanına itibar edilmesinin hukuka aykırı olduğunu belirterek kararın kaldırılmasını talep etmiştir.Taraflar arasındaki uyuşmazlık, 6098 sayılı Türk Borçlar Kanunu 470 ve devamı maddelerinde düzenlenen eser sözleşmesinden kaynaklanmaktadır. Davacı yüklenici, davalı iş sahibidir.
 
@@ -35,6 +37,8 @@ Bu maddeye göre sözleşmenin fesih ya da dönme suretiyle sona ermesi halinde 
 HÜKÜM: Gerekçesi yukarıda açıklandığı üzere;A)1-Davacı vekilinin istinaf talebinin "gerekçe yönünden" usulen KABULÜNE,2- İstanbul Anadolu 12. Asliye Ticaret Mahkemesi'nin 12/04/2023 tarih ve 2020/464 Esas, 2023/252 Karar sayılı kararının KALDIRILMASINA …
 
 ## Konya BAM 5. HD 2024/276 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1017206200)
 
 Davalı vekili cevap dilekçesinde özetle; davacı ile 25 Kasım 2008 tarihinde imzalanan sözleşmenin, davacının inşaatı yapmayacağının anlaşılması üzerine noterde 03.03.2016 tarihinde yapılan yeni bir sözleşme ile davacının sözleşmeden kaynaklanan tüm yükümlerini ve haklarını ihbar olunan .... İnşaat Taah.
 
@@ -53,6 +57,8 @@ Dava; arsa payı karşılığı inşaat sözleşmesine dayalı alacak istemine i
 Davacı şirketin ihbar olunan şirket ile yapmış olduğu ortaklık sözleşmenin; ihbar olunan ile davalı arsa sahibi arasında yapılan sözleşmenin ihbar olunanın inşaat hiç başlamamış olması nedeniyle feshedilmiş olmasından dolayı yerine getirilmeyecek olmasından dolayı, ibra sözleşmesini geçersiz kılmak ve davalı arsa sahibini sorumlu tutmak mümkün değildir. Bu doğrultuda ibra sözleşmesinin taraflar arasında halen geçerli olduğunu ve taraf olmadığı sözleşmenin feshinin davacıya hak sağlamayacağını kabul eden ilk derece mahkemesi karar ve gerekçesi usul ve yasaya uygundur.
 
 ## Ankara BAM 27. HD 2024/274 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1018658600)
 
 Davacı vekili: Taraflar arasında Ankara 54.
 
@@ -73,6 +79,8 @@ Dava konusu somut olayda; mahal mahkemesi kararında da belirtildiği üzere kat
 Ankara 14. Asliye Ticaret Mahkemesi'nin 26.10.2023 gün ve 2023/210 E., 2023/615 K. sayılı kararının HMK’nın 353/1-a.4-6 maddeleri gereğince kaldırılmasına …
 
 ## İstanbul BAM 45. HD 2024/43 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/990160700)
 
 İLK DERECE MAHKEMESİ KARARI Mahkemece; ''Dava alacak davası olarak açılarak, kayıt kabul davasına dönüşmüştür.Mahkememizce bilirkişi incelemesi cihedine gidilmiştir. Davacı duruşmada davayı ıslah etmeyeceklerini, bilirkişi raporunda daha fazla talepte bulunacağı kanaatine varılmasına rağmen davalı ... ile ilgili kayıt kabul, diğer davalılar ile ilgili açılan davanın Yargıtay 23.
 
@@ -97,6 +105,8 @@ H Ü K Ü M: Gerekçesi yukarıda izah edildiği üzere; 1-Davalılar ... ve ...
 
 ## İstanbul BAM 13. HD 2023/2112 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/984889300)
+
 Dava; TTK'nun 531 maddesi uyarınca davalı şirketin haklı nedenle fesih ve tasfiyesine karar verilmesi, bunun kabul görmemesi halinde davacı ortağın hüküm tarihine en yakın tarihteki ortaklık payı değeri kendisine ödenerek haklı nedenle ortaklıktan çıkarılması istemine ilişkindir.
 
 …
@@ -114,10 +124,14 @@ HÜKÜM: Yukarıda açıklanan nedenlerle; 1-Davacının istinaf başvurusunun K
 
 ## İstanbul BAM 3. HD 2023/1997 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/909252000)
+
 Noterliği’nin 14.03.2019 Tarih ... yevmiye numaralı ihtarı ile “ sözleşmeden geçmişe etkili olarak döndüklerinin “bildirildiğini, Dönmeye ve Sözleşmenin sona erdirilmesine dair kabul beyanının ve arsa payı oranında kendilerine ödenmesi gereken 4.067.523,53.-TL cayma parası tutarının ödeneceği banka hesap bilgilerini müvekkiline 10 gün içinde ulaştırılması hususunun ihtar edildiğini ve davalı ... şirketinin bu ihtara cevaben Bakırköy ...
 Noterliği' nin 25.03.2019 Tarih ... yevmiye numaralı ihtarı ile dönme beyanlarını kabul etmediklerini, ancak 4.067.523,53 TL dönme cezası/cayma parası ödenmesi için hesap numarası bildirildiğini, cayma/dönme parası yanında menfi ve müspet zarar talep ettiklerini bildirdiklerini, sözleşmenin 6.4 maddesine göre, sözleşmeden dönme cezası/cayma parasının davalı ... şirketine, sözleşme akdi ile ödenmiş olduğunu, davalı ... şirketi payına düşen dönme cezası/cayma parasını ise mahkeme veznesine depo etmeye hazır bulunduklarını, sözleşmenin 6.3 Maddesine göre, “taraflardan biri tarafından inşaat ruhsatı başvurusuna kadar bu sözleşmenin 2.2.2 ve 2.4 maddesinde açıklanan istisnai haller dışında işbu sözleşmenin feshedilmesi durumunda fesheden taraf 7.000.000,- TL (Yedimilyon Türk Lirası) ceza ödemeyi kabul eder” hükmü düzenlendiğini, bunun, 6.1 Maddesine göre arsa sahiplerine başlangıçta ödenecek avans tutarı ile aynı olduğunu, davalı ... şirketine 04.10.2017 tarihinde 2.932.476,47 TL avans ödenmiş olduğunu, bunun dönme cezası/cayma parası olarak kabul edilmesi gerektiğini, mahkemece karar verilmesi ile ...
 
 ## İzmir BAM 14. HD 2023/1433 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/944606200)
 
 Davacı vekili dava dilekçesinde özetle; "Taraflar arasındaki 09/07/2018 tarihli eser sözleşmesi gereğince; ... İli, ... İlçesi, ...
 
@@ -137,6 +151,8 @@ Yerleşik yargı uygulamalarına göre; eser sözleşmelerinde eksik ve ayıp ka
 
 ## İstanbul BAM 15. HD 2023/1227 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/974870500)
+
 Dosya kapsamından dava konusu İstanbul İli, Şişli İlçesi, .. Pafta,..., ... Parsel sayılı taşınmaz üzerine inşa edilecek yapıya ilişkin olarak Şişli Belediyesi'nce ... Ruhsat No ile 05/05/2014 tarihinde yapı ruhsatı verildiği, aynı belediyece ... nolu belge ile 07/10/2016 tarihinde yapı onay belgesi ile 10/10/2016 tarihli yapı kullanım izin belgesi verildiği, kat irtifakının 10/03/2016 tarihinde, kat mülkiyetinin de 28/10/2016 tarihinde kurulduğu anlaşılmaktadır.
 Yanlar arasında imzalanan 22/08/2013 tarihli kat karşılığı inşaat sözleşmesinin " İnşaat Süresi Ve Gecikme Tazminatı" başlıklı 8. maddesinde; yüklenicinin sözleşmenin imzalanmasını takiben en geç 8 ay içinde gerekli projeleri hazırlayarak inşaat ruhsatı almayı, inşaat ruhsatı aldığı tarihten itibarcn de en geç 24 ay içinde inşaatı, çevre düzenlemesi, peyzaj çalışmaları, dahil tümüyle tamamlanmış şekilde eksiksiz ve ayıpsız teslim etmeyi peşinen kabul ve taahhüt ettiği, inşaat ruhsatının alınmasının, sözleşmenin imzasından itibaren 8 aydan fazla sürmesi halinde arsa sahibi tarafından yükleniciye azami 2 aylık ilave süre tanınacağı, ancak bu durumda eklenen sürenin inşaat süresi içinde kabul edileceği, aynı şekilde arsa sahiplerinin 4 ay içinde taşınmazları teslim etmedikleri taktirde geciken sürenin, yüklenicinin inşaat ruhsat alma süresine ekleneceği, yüklenicinin inşaatı sözleşmede belirtilen teslim tarihinden önce teslim etmesi halinde teslim tarihinden, aksi halde yüklenici iskan ruhsatını sözleşmede öngörülen teslim tarihinden itibaren en geç 6 ay içinde kat mülkiyetli tapuları arsa sahiplerine testim etmeyi, kabul ve taahhüt ettiği, yapı kullanma izninin alınmamış olmasının
 (iskan alınma yükümlülüğüne halel gelmemek üzcre) teslime engel sayılmayacağı düzenlenmiştir. Madde uyarınca yapının sözleşmeye göre teslim edilmesi gereken tarih inşaat ruhsatının alındığı 05/05/2014 tarihini takiben 24 ay olup, işin bitiş tarihi 05/05/2016 tarihi olmaktadır.
@@ -153,6 +169,8 @@ Yapıya iskan 10/10/2016 tarihinde alındığından ve yapıdaki eksik ve ayıpl
 HÜKÜM: Gerekçesi yukarıda açıklandığı üzere; 1-Taraf vekillerinin istinaf başvurularının KISMEN KABULÜNE, 2-İstanbul 18. Asliye Ticaret Mahkemesi'nin 27/02/2020 tarih, 2017/258 Esas, 2020/160 Karar sayılı kararının KALDIRILMASINA …
 
 ## İzmir BAM 20. HD 2023/1163 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/915504700)
 
 Davacı/ihtiyati tedbir isteyen vekili talep ve dava dilekçesinde özetle; davalının sözleşmeden dönme öncesi görüşme yapmadıkları savunmasının çöktüğünü, davalının bir inşaat firması olduğunu, arsa payı karşılığı inşaat ve satış vaadi sözleşmelerinin iki tarafa edim yükleyen sözleşme olduğunu, ihtar ile feshedilmediğini ve mahkeme kararı gerektiğini bildiğini, iki bağımsız bölüm maliki olan müvekillinin davalı ile yapılan sözleşmede imzası olmadığını, 6306 sayılı Kanuna göre imza atmayanların hissesi satıldığından sözleşmelerin natamam olduğunun da söylenemeyeceğini, davalının sözleşmeyi bozmak için daha düşük teklif verdiğinin yapılan sözleşmeden belli olduğunu, aynı zamanda kat maliki olan ve 1/3 azınlık içinde bulunan müvekkilinin de payının satışı yapılacağından satışın tedbiren durdurulması gerektiğini belirterek İzmir Çevre Şehircilik İl Müdürlüğünün 18.05.2023 günü saat 10:00 da yapılacak satışın ve sonrasındaki işlemlerin tedbiren durdurulmasına karar verilmesini talep etmiştir.
 

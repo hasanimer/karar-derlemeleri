@@ -21,6 +21,8 @@ uyari: "Derleyenin seçtiği alıntılardır; kararın tamamı değildir. Künye
 
 ## Yargıtay HGK 2023/806 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/948054300)
+
 Bunun yanında işbu itirazın iptali davasında da adi ortaklığın tüm ortaklarının yargılamaya katılımları sağlandığına göre husumetin adi ortaklığın her iki ortağına da yöneltildiği kabul edilerek işin esası hakkında bir karar verilmesi gerekmekle, Bölge Adliye Mahkemesince verilen davalı ... ... vekilinin istinaf başvurusunun kabul ile İlk Derece Mahkemesince verilen karar kaldırılarak davalı ... ... yönünden davanın usulden reddine karar verilmesi doğru görülmemiştir.
 
 Hukuk Genel Kurulundaki görüşmeler sırasında; taraf ehliyetine ilişkin hususun icra takiplerinde de kamu düzenine ilişkin olup süresiz süresiz şikayete tabi olduğu, davalı ... ...'in itirazında kendisi aleyhine açıkça bir icra takibi yapılmadığını belirttiği, takip talebinde yer almayan kimseye ödeme emrinin gönderilmeyeceği, adi ortaklığın borçlarından tüm ortaklarının müteselsilen sorumlu olduğu, bu sebeple alacaklının alacağını hangi ortaktan tahsil etmek istiyor ise takip talebinde bu kişileri açıkça belirtmesi gerektiği, aksi durumda ihtiyari takip arkadaşı olarak ve "ortağı" ibaresinden yola çıkılarak borçlu olarak gösterilmeyen ortağın takibe eklenemeyeceği, bu haliyle somut olayda husumetin adi ortaklığın ortaklarına yöneltildiğinin kabul edilemeyeceği, bu itibarla takip talebi ve dava dilekçesinde ismi geçmeyen davalı ... ... yönünden usulden ret kararı verilmesi gerektiği, 6100 sayılı Kanun'un 124 üncü madde koşullarının mevcut olmadığı, bu sebeple direnme kararının onanması gerektiği görüşü ile adi ortaklık aleyhine icra takibi yapılamayacağı, davalı ...'in takip talebinde isminin yer aldığı ancak diğer davalı ... ... hakkında icra takibinin söz konusu olmadığı, icra
@@ -28,11 +30,15 @@ takibinin davalı ... bakımından geçerli olduğu, bu itibarla anılan davalı
 
 ## Yargıtay HGK 2021/644 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/686130000)
+
 Diğer yandan adi ortaklığın kuruluş sözleşmesine göre yaptığı ticari faaliyet sonucu doğan hak ve alacaklar ile borçlar adi ortaklığa aittir. Bu borçlardan bir kısmının nizasız ödenmesi, henüz ödenmemiş olan ve nizalı hâle gelen adi ortaklık borçları arasında eşitsizlik yaratır. Ayrıca nizasız ödeme, adi ortaklık tasfiye edilmeden yapıldığından adi ortaklığın borcunun ortakların şahsi borcu olarak nitelendirilmesine imkân vermez. TBK'nın 638. maddesinin 2. fıkrasındaki düzenleme ortakların, ortaklık dışında oluşan şahsi borçları için olup, ortaklık borçları için uygulama olanağı bulunmamaktadır. Nitekim bu hususlar Hukuk Genel Kurulunun 26.03.2019 tarihli ve 2017/12-763 E., 2019/344 K. sayılı kararında da benimsenmiştir.
 
 Yukarıda yapılan açıklamalar ışığında somut olay değerlendirildiğinde; alacaklı tarafından Ak-Ser İnşaat Turizm Sanayi ve Ticaret Limited Şirketi ve Ulak İnşaat Turizm Sanayi ve Ticaret Limited Şirketi adi ortaklığını oluşturan Ak-Ser İnşaat Turizm San. ve Tic. Ltd. Şti. ve Ulak İnşaat Turizm San. ve Tic. Ltd. Şti. ile diğer borçlular hakkında kambiyo senetlerine özgü haciz yolu ile takibe geçildiği, adi ortaklığı oluşturan şirketlere ayrı ayrı ödeme emri tebliğ edildiği, takip dayanağı çekte Ak-Ser İnşaat Turizm Sanayi ve Ticaret Limited Şirketi ve Ulak İnşaat Turizm Sanayi ve Ticaret Limited Şirketi adi ortaklığının ciranta olduğu, alacaklı vekilinin talebi üzerine Konya Selçuklu Belediye Başkanlığına gönderilen İİK’nın 89. maddesinin 1. fıkrası uyarınca düzenlenen birinci haciz ihbarnamesi ile adi ortaklığın ihale ile yaptığı işten kaynaklanan hak ediş alacağına haciz konulduğu, Ankara 54. Noterliğinin 17.10.2012 tarihli ve 16958 yevmiye no ile tasdik edilen adi ortaklık sözleşmesinde müteselsil sorumluluğun aksinin kararlaştırılmadığı görülmektedir.
 
 ## Yargıtay 3. HD 2025/2619 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1158074900)
 
 Adi ortaklıkta aksine bir hüküm bulunmadıkça, bir ortağın alacaklıları, haklarını ancak o ortağın tasfiyedeki payı üzerinde kullanabilirler. Ortaklar, birlikte veya bir temsilci aracılığı ile, bir üçüncü kişiye karşı, ortaklık ilişkisi çerçevesinde üstlendikleri borçlardan, aksi kararlaştırılmamışsa müteselsilen sorumlu olurlar. Bu duruma göre adi ortaklıkta haklar ve mal varlığı üzerinde üyelerin elbirliği mülkiyeti bulunduğundan ortaklık adına açılacak davalar ile icra takiplerinin ortakların tümü tarafından birlikte açılması gerekir.
 
@@ -43,29 +49,41 @@ Somut olayda ... Alışveriş Merkezi Adi Ortaklığı yönetimine bu davanın k
 
 ## Yargıtay 3. HD 2024/2574 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1107406000)
+
 Dosyadaki bilgi ve belgelerden; taraflar arasında 08.02.2017 tarihinde yürürlüğe giren İş Ortaklığı-Özel Hükümler Sözleşmesinin düzenlendiği, bu sözleşme ve bu sözleşme öncesinde düzenlenen 08.02.2017 tarihli İş Ortaklığı Sözleşmesi'nin (12.2.) maddesi uyarınca inceleme yapıldığında, davacı ortağın kesinleşen icra takiplerine konu borçlarından dolayı iş ortaklığının İdareden olan alacaklarına ve ortaklıktaki hisselerine 2019 yılı Şubat ayından itibaren haciz konulduğu ve bu hacizlerin 30 gün içinde kaldırılmadığı, bu nedenle yapım işi sözleşmesinin İdare tarafından 24.05.2019 tarihinde davalıya devredilmesine olur verildiği, davacı tarafından bu durumun öğrenilmesi üzerine 04.11.2019 tarihinde gönderilen ihtarname ile yapım işi sözleşmesinin eski hale getirilmesinin istenildiği, davalının 15.11.2019 tarihli cevabi ihtarnamesi ile ortaklığı feshettiğini bildirdiği anlaşılmaktadır.
 Bu durumda, davalının 15.11.2019 tarihli ihtarnamesi ile ortaklık sözleşmesinde öngörülen amacın gerçekleşmesinin imkansız hale geldiği, diğer bir anlatımla davaya konu ortaklığın 6098 sayılı Kanun'un 639 uncu maddesinin birinci fıkrası uyarınca sona erdiği sabit olduğundan, İlk Derece Mahkemesince; ortaklık ilişkisinin tasfiyesi aşamasına girdiği gözetilerek, ortaklar arasındaki ilişkinin tamamen sona erdirilmesine yönelik işlemlerin yapılması bir kanuni zorunluluktur.
 
 ## Yargıtay 3. HD 2024/1655 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1086665000)
+
 Yargıtay (Kapatılan) 13. Hukuk Dairesinin 10.04.2012 tarihli ve 2011/10150 E., 2012/9700 K. sayılı ilamıyla; “... Öncelikle belirtmek gerekir ki bu tür adi ortaklıkların tüzel kişilikleri bulunmadığı için taraf ehliyetleri yoktur. O nedenle adi ortaklığın feshi ve tasfiyesine yönelik davada tüm ortakların taraf sıfatıyla bulunmaları gerekir. Öte yandan gerek davalının diğer dava dışı ortak ile davacı aleyhine icra takibi yapması ve gerekse davacının eldeki bu davayı açması aynı zamanda adi ortaklığın fesih ve tasfiyesi istemini de kapsamaktadır. Bu itibarla dava dışı ortaklar olan ... ve ...nin de bu davayı dahil edilmeleri gerekir. Mahkemece dava dışı ortaklar ... ve ...’nin de davaya dahil edilmeleri sağlanarak, davadaki ve icra takibindeki talebin adi ortaklığın fesih ve tasfiyesine yönelik olduğu da gözetilerek iddia ve savunmaya yönelik tüm deliller toplanarak ve ortak amacın gerçekleştirilmesinin artık olanaklı olmadığı da gözetilmek suretiyle BK 538 ve devamı maddeleri uyarınca işin esasına girilerek karar verilmelidir. Mahkemenin taraf teşkilini sağlamadan yazılı şekilde karar vermiş olması usul ve yasaya aykırıdır...” gerekçesiyle, karar bozulmuştur.
 
 ## Yargıtay 12. HD 2022/10202 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/827304400)
+
 Alacaklı ... Yemek Hizmetleri ... Ltd. Şti. tarafından 2018 yılı Şubat, Mart, Nisan ayları fazla hakediş kesintisinden ortaklıktaki %99 hissesine isabet eden kısmın tahsili için borçlu ... aleyhine başlatılmış olan genel haciz yolu ile ilamsız icra takibinde, borçlunun icra mahkemesine başvurusunda takibin adi ortaklığı oluşturan şirketler tarafından birlikte açılması gerektiğini ileri sürerek ödeme emrinin iptaline karar verilmesini istediği, İlk Derece Mahkemesince şikayetin kabulü ile takibin iptaline karar verildiği, alacaklının istinaf başvurusu üzerine Bölge Adliye Mahkemesince, adi ortağın kendi hissesi için takip başlatabileceği gerekçesi ile istinaf başvurusu kabul edilerek kararın kaldırıldığı ve şikayetin reddine karar verildiği görülmüştür.
 
 ## Yargıtay 3. HD 2022/3980 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/774912600)
 
 Yine dosya kapsamında yer alan bilgi ve belgelerin incelenmesinde ise ; davacının, dahili davalı ve davalı şirket ile davaya konu 08/01/2007 tarihli ‘’adi ortaklık sözleşmesi’’ başlıklı sözleşmeyi akdettiği, bu sözleşmenin davalı şirketin ‘’pilot ortak’’ olarak ‘’alacaklı’’ olduğu, dava dışı kooperatifin ‘’borçlu’’ olduğu icra takipleri nedeniyle, takip borçlusu dava dışı kooperatifin hacizli bulunan ve ... İcra Müdürlüğünün 2004/320 talimat sayılı dosyasında satışa çıkarılan ilgili taşınmaz ile bu taşınmaz üzerindeki beş bloktan ibaret binaların ortak girişim ile ihaleye iştirak edilerek satın alınmasına ilişkin olduğu, sözleşmenin 3-3 maddesine göre, taraflar arasındaki adi ortaklığa pilot ortak olan davalı şirketin sadece ilgili icra dosyalarındaki alacağını sermaye olarak koyup başka bir ödemede bulunmayacağı, özel ortak olan davacı ile dahili davalı ...’in ise, birlikte 630.000 TL(315.000X2) ile sınırlı olmak üzere satış ilan masrafı, pilot ortak olan davalı şirketin alacağından daha önce taşınmaza haciz konulmasını sağlayan SSK Ankara İcra Müdürlüğünün alacaklı olduğu yaklaşık 80.000 TL borcu, ...
 Mal Müdürlüğünün yaklaşık 40.000 TL borcu, taşınmazın satın alınması halinde doğacak yaklaşık 380.452 TL KDV ve tellaliye ücreti ile pilot ortağın üç takip dosyasındaki alacak toplamı ile satış(ihale) bedeli arasındaki farkı ödeyeceğinin kararlaştırıldığı, davacının da 08/01/2007 tarihli adi ortaklık ilişkisinin bozulduğunu, sözleşmede diğer davalı ...’ün de davalı şirkete kefil olduğunu, sözleşmenin 3-6 maddesi uyarınca sözleşmenin bozulması halinde masraf ve ödemelerin iade edileceğinin kararlaştırıldığını belirterek, 1.584 TL satış ilan masrafı, 9.553,50 TL damga vergisi, 21.231 TL tellaliye ücreti, 200.000 TL Kazan İcra Müdürlüğü'nün 2003/50 Esas sayılı dosyasındaki alacağın temliki için yapılan ödeme olmak üzere toplam 232.368,50 TL ödemelerin iadesi istemi ile tasfiye talebinde bulunduğu anlaşılmaktadır.
 
 ## Yargıtay 3. HD 2021/3494 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/665320400)
+
 Diğer taraftan borçlunun üçüncü kişilerdeki mal, alacak ve diğer haklarının haczi 6183 sayılı yasanın 79. maddesi çerçevesinde mümkün kılınmıştır. Bu hükümle, üçüncü kişiye haciz bildirisi tebliğ edilmek suretiyle söz konusu mal, alacak ve hakların haczine imkân tanınmış, tebliğ edilen haciz bildirisine üçüncü kişinin itiraz yolu açık tutulmuştur. Kendisine haciz bildirisi gönderilen kimsenin, bu haciz bildirisine itiraz etmemesi halinde, mal elinde ve borç zimmetinde sayılır sayılır. Üçüncü kişinin bildiriye süresi içinde itiraz etmesi halinde, usulüne uygun bir haczin varlığından bahsedilemez.
 
 O halde mahkemece; 6183 sayılı yasanın 79. maddesindeki koşulları taşımayan haciz yazısı ile anılan maddedeki sonuçların doğmayacağı ve borç üçüncü kişinin zimmetinde sayılamayacağından, haciz baskısı altında olmayan davalı belediyenin, adi ortaklığa ait alacağı 6183 sayılı Kanun gereği haciz bildirisi gönderen Kuruma ödeme mükellefiyeti bulunmadığı gözetilerek davalı belediye yönünden davanın kabulüne karar verilmesi gerekirken, yanılgılı değerlendirme ile yazılı şekilde karar verilmesi doğru görülmemiş, bozmayı gerektirmiştir.
 
 ## Yargıtay 15. HD 2018/1243 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/416733000)
 
 Dava, eser sözleşmesinden kaynaklanan fazla iş bedelinin tahsili için yapılan ilâmsız icra takibine yapılan itirazın iptâli ve takibin devamı istemine ilişkindir.
 
@@ -75,13 +93,19 @@ Adi ortaklığın tüzel kişiliği olmadığı gibi taraf ehliyeti de bulunmama
 
 ## Yargıtay 12. HD 2017/16212 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/390117000)
+
 Alacaklı ... ... Tic. Ltd. Şti. tarafından borçlu... İnş. ... Ltd. Şti. hakkında bir adet çeke dayalı olarak kambiyo senetlerine mahsus haciz yoluyla yapılan takibin kesinleşmesi üzerine, borçlu ... İnşaat ... Ltd. Şti.'nin, ortağı olduğu ...İnş. ... Ltd. Şti. & ... Asfalt ... Ltd. Şti. Adi Ortaklığı hakkında düzenlenen İİK'nun 89/1, 2 ve 3 maddelerinde belirtilen haciz ihbarnamelerinin, iş ortaklığının adresine gönderilmemesi sebebiyle yapılan usulsüz tebliğden 08/01/2016 tarihinde haberdar olduklarını ileri sürerek 89/1. haciz ihbarnamesinin tebliğ tarihinin haberdar oldukları tarihe göre düzeltilmesi ve hükümsüz kalan 89/2 ve 3. haciz ihbarnamelerinin iptali istemiyle icra mahkemesine başvurduğu, mahkemece,...İnş. ... Ltd. Şti. &... ... Ltd. Şti. Adi Ortaklığının taraf ehliyeti olmadığı gerekçesiyle HMK'nun 114/1-d maddesi gereğince davanın usulden reddine ve ... Nak. Pet. Ür. İm. İth. İhr. San. Tic. Ltd. Şti.'nin davasının kabulüne, 89/1 haciz ihbarnamesi tebliğ tarihinin, öğrenme tarihi olan, 08/01/2016 olarak tespitine, 2 ve 3. haciz ihbarnamelerinin iptaline karar verildiği görülmektedir.
 
 ## Yargıtay 12. HD 2017/10810 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/368968600)
+
 Bu durumda; takipte borçlu tarafın iş ortaklığı olarak gösterilmesinin, kabul edilebilir bir yanılgı olduğu değerlendirilerek, mahkemece, alacaklı tarafa, talebi halinde takibin iş ortaklığını oluşturan şirketlere yöneltilmesi için süre verilmesi, verilen süre içinde eksikliğin giderilmesi halinde takip şeklinin genel haciz yolu ile ilamsız icra takibi olduğu gözetilerek borca itiraz hakkında bir karar verilmesi, aksi halde şikayetin kabulü ile takibin iptaline karar verilmesi gerekir iken yazılı gerekçe ile şikayetin kabulü ile takibin iptali yönünde hüküm tesisi isabetsizdir.
 
 ## Yargıtay 12. HD 2017/6351 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/336970800)
 
 Somut olayda, ... Belediye Başkanlığı'na İİK'nun 89/1. maddesine göre, haciz ihbarnamesi gönderilerek borçlu ... İnşaat Turizm San. ve Tic.Ltd.Şti.'nin alacağı üzerine haciz konulduğunun belirtildiği, şikayet dilekçesinde ise adi ortaklığın mallarının haczedildiği ve haczin kaldırılması talebinde bulunulduğu görülmektedir.
 
@@ -89,9 +113,13 @@ Bu durumda, mahkemece, öncelikle adi ortaklığın hak ve alacaklarına haciz k
 
 ## Yargıtay 15. HD 2017/1810 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/359613700)
+
 Davacı taşeron tarafından Ankara 2. İcra Müdürlüğü'nün 2010/5700 sayılı takip dosyası üzerinden yapılan icra takibinde asıl davanın davalısı yanında davalı.... İnş. San. ve Tic. Ltd. Şti. hakkında da icra takibi yapılmış, usulüne uygun ödeme emri tebliğine rağmen birleşen dava davalısı şirketin icra takibine itiraz etmediği İcra Müdürlüğü'nün 08.09.2015 tarihli yazısından anlaşılmıştır. Mahkeme tarafından da bu davalının icra takibine itiraz etmediği kabul edilmiştir. Bu durumda mahkemenin kabulü, icra dosyası içeriği ile icra müdürlüğünün yazı cevabına göre bu davalının icra takibine itirazı olmadığından hakkındaki icra takibi kesinleşmiştir. Asıl ve birleşen dava davalısı olan şirketlerin davacı ile aralarındaki sözleşmeyi iş ortaklığı olarak imzaladıkları anlaşılmaktadır. Sözleşmenin imzalandığı tarihte yürürlükte bulunan 818 sayılı Borçlar Kanunu'nun 520. maddesinde tanımlandığı üzere adi ortaklık iki veya daha fazla kişinin ortak bir amacı gerçekleştirmek için güçlerini ve araçlarını birleştirmeye …
 
 ## Yargıtay 15. HD 2017/91 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/296601000)
 
 Dava, eser sözleşmesinden kaynaklanan bakiye alacağın tahsili için yapılan icra takibine itirazın iptâli takibin devamı ve %40 icra inkâr tazminatının tahsili istemine ilişkindir.
 
@@ -101,23 +129,33 @@ Açıklanan olgular gözetilip davalı adi ortaklığı oluşturan şirketler ic
 
 ## Yargıtay 12. HD 2016/17679 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/241351000)
+
 Bu durumda, şikayet tarihi itibarı ile dosyada mevcut vekaletname nazara alındığında Av. ...'ın takip borçlusu olan ve adi ortaklığı oluşturan şirketlerden “.... Ltd. Şti. ” adına şikayette bulunduğunun kabulü gerekir, kaldı ki mahkemece yapılan araştırmaya göre ticaret sicilinde kayıtlı" .... Ltd. Şti.” unvanını taşıyan bir şirketin mevcut olmadığı da tespit edilmiştir.
 
 O halde mahkemece, borçlu ... Tic. Ltd. Şti. adına yapıldığı anlaşılan adi ortaklığın hak edişlerine haciz konduğuna ilişkin haczin kaldırılması isteminin esası incelenerek oluşacak sonuca göre bir karar vermek gerekirken, bu husustaki istemi de kapsar biçimde şikayetin tümüyle reddine karar verilmesi isabetsiz olup mahkeme kararının bu gerekçelerle bozulması gerekirken Dairemizce haczin kaldırılmasına yönelik başvuruyu da içerecek şekilde mahkeme kararının onandığı anlaşılmakla şikayetçinin, karar düzeltme isteminin adi ortaklığın hak edişlerine konulan haczin kaldırılması talebi yönünden kabulüne karar verilmesi gerekmiştir.
 
 ## Yargıtay 12. HD 2016/10298 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/227123900)
+
 Alacaklı tarafından başlatılan ilamsız takibin kesinleşmesi üzerine borçlular...... ile .....'nin ..... Bakanlığı nezdinde doğmuş ve doğacak hak ve alacaklarının tahsili amacıyla İİK'nun 89/1. maddesi gereğince 1. haciz ihbarnamesi gönderildiği, borçlu şirketler tarafından kurulan adi ortaklığın hakedişlerine haciz konulduğunu, adi ortaklık vekilinin 14-15/10/2015 tarihlerinde, icra dairesine başvurarak, ihbarnameyle adi ortaklığın hakedişleri üzerine konulan haczin kaldırılması ve bu hususta yazı yazılmasını talep ettiği ve müdürlükçe bu yöne ilişkin taleplerin ayrı ayrı reddi üzerine, adi ortaklık adına icra mahkemesine başvurularak müdürlük işleminin iptalinin istendiği, mahkemece adi ortaklığın hakedişleri üzerine haciz konulamayacağından bahisle şikayetin kabulüne karar verildiği görülmektedir.
 
 ## Yargıtay 19. HD 2016/393 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/171988400)
 
 Dava bonoya dayalı menfi tespit davası olup, dava konusu bononun keşidecisi olarak ... ve ... adi ortaklığı görülmektedir. Dava ise adi ortaklığın ortaklarından ... tarafından açılmıştır. Keşideci sadece davacı olmayıp, davacının da içinde yer aldığı adi ortaklıktır. Adi ortaklığın tüzel kişiliği bulunmadığından, tüm ortaklar tarafından takip ve dava yapılıp açılabilir. Nitekim davanın temelini oluşturan icra takibine adi ortaklığı oluşturan her iki şirket aleyhine girişilmiştir. Tek başına davacı aleyhine girişilen bir icra takibi de bulunmamaktadır. Bu durumda davacının ayrı bir tüzel kişi olarak dava konusu bonoya dayalı menfi tespit davası açması yönünden aktif dava ehliyeti bulunmamaktadır. Bu husus dava şartlarından olduğundan mahkemece resen gözetilmelidir. O halde davanın bu nedenle reddi ve bunun sonucuna göre hüküm tarihinde yürürlükte olan Avukatlık Asgari Ücret Tarifesi 7. maddesi uyarınca maktu vekalet ücretini geçmemek üzere nispi vekalet ücretine hükmedilmesi gerekirken, işin esasına girilerek yazılı şekilde hüküm tesisinde isabet görülmemiştir.
 
 ## Yargıtay 12. HD 2015/1922 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/173570400)
+
 İİK'nun 89. maddesine göre gönderilen haciz ihbarnamesinin muhatabı olan adi ortaklığın ayrı bir tüzel kişiliği olmadığından, adı geçenin taraf ehliyeti bulunmamaktadır. Ehliyetsizliğe ilişkin bu durum kamu düzeni ile ilgili olup re’sen dikkate alınmalıdır. Ayrıca bu hususu adi ortaklığı oluşturan ortaklardan herbiri şikayet konusu yapabilir.
 
 ## Yargıtay 17. HD 2013/12858 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/784896300)
 
 Dava, İİK’nun 96 ve devamı maddelerine dayalı olarak açılan istihkak davasına ilişkindir.
 
@@ -127,28 +165,40 @@ Yapılacak iş, tacir olan ve ticari defter tutmakla yükümlü olan borçlunun 
 
 ## Yargıtay 12. HD 2012/36062 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/56995500)
+
 BK.nun 520. maddesine göre adi ortaklığın tüzel kişiliği olmadığından taraf ehliyeti yoktur. Taraf ehliyeti ise kamu düzeninden olup mahkemece kendiliğinden nazara alınmalıdır. Bu hususu, adi ortaklığı oluşturan ortaklardan herbiri, süresiz olarak şikayet konusu yapabilir.
 
 Somut olayda; icra dosyasından "Garanti Koza Akiş Adi İş Ortaklığı"na 01.02.2012 tarihli İİK.nun 89/1. maddesine göre düzenlenen birinci haciz ihbarnamesinin gönderildiği gibi Adi İş Ortaklığını oluşturan şirketlere de ayrı ayrı haciz ihbarnamesinin gönderildiği görülmektedir. Bu durumda mahkemece adi ortaklığa gönderilen haciz ihbarnamesinin iptaline karar verilmesi gerekirken, icra dosyasından ayrı ayrı şirketlere gönderilen ihbarnamelerin yanında Adi Ortaklığa da 89/1 haciz ihbarnamesinin gönderildiği hususu göz ardı edilerek yazılı şekilde hüküm tesisi isabetsizdir.
 
 ## Yargıtay 3. HD 2012/14409 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/536111900)
+
 Yukarıda açıklanan gerekçeyle davanın davalı iş ortaklığı yönünden reddine karar verilmiş ise de; davacının vekil olduğu icra takibi henüz kesinleşmeden yanların bir araya gelerek, 18.09.2010 tarihli belge ile anlaştıkları, takibe konu olan asıl alacak miktarının alacaklıya ödenmesi karşılığında alacaklı olan davalı ...'in faiz, vekalet ücreti gibi feri alacaklarından feragat ederek davalı iş ortaklığını ibra ettiği anlaşılmaktadır. Bu belge içeriği itibariyle sulh anlaşması niteliğinde olup, icra takibi henüz kesinleşmeden yanlar arasındaki uyuşmazlık sulhle sonuçlanmıştır.O halde; Avukatlık Yasasının 165.maddesi uyarınca sulhle sonuçlanan işlerde her iki tarafın Avukatlık Asgari Ücret Tarifesince belirlenen avukatlık vekalet ücretinin ödenmesi konusunda avukata karşı müteselsilen sorumlu olacakları dikkate alınıp, buna göre hüküm tesisi gerekirken yanılgılı değerlendirme ile yazılı şekilde davanın reddi doğru değildir.Bu itibarla yukarıda açıklanan esaslar gözönünde tutulmaksızın yazılı şekilde hüküm tesisi isabetsiz, temyiz itirazları bu nedenlerle yerinde olduğundan kabulü ile hükmün HUMK.nun 428.
 
 ## Yargıtay 17. HD 2012/10222 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/788284200)
 
 Somut olayda dava konusu 19.3.2009 tarihli haciz borçlunun huzurunda yapılmış ve mahcuzlara ait faturalar borçlu adına düzenlenmiştir. Bu durumda İİK 97/a maddesindeki mülkiyet karinesi borçlu dolayısıyla alacaklı lehine olup karine aksinin davacı 3.kişi tarafından kesin ve güçlü delillerle ispatlanması gereklidir. Davacı 3.kişi vekili dava dilekçesinde davacı ile davalı borçlu arasında adi ortaklık bulunduğunu hacizden önce adi ortaklığın feshedildiğini ve mahcuzların müvekkiline bırakıldığını iddia etmiş ise de bu husus yani adi ortaklığın varlığı ve feshi kesin ve güçlü delillerle ispatlanamadığı gibi dosya içerisinden vergi kayıtlarından davacı 3.kişinin hacizden sonra 3.4.2009 tarihinde haciz adresi dışında mermer işine başladığı 20.8.2010 tarihinde bu işi terk ettiği, davalı borçlunun ise 15.6.1999 tarihinden beri çay ocağı işleticiliğinden dolayı vergi mükellefi olduğu anlaşılmaktadır. O halde davanın reddine karar verilmesi gerekirken dosya kapsamı ve mevcut delil durumuna uygun düşmeyen gerekçeyle davanın kabulü isabetli görülmemiştir.
 
 ## Yargıtay 12. HD 2012/1184 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/58077600)
+
 Bu durumda adi ortaklığı oluşturan şirketlerden şikayetçi şirket hakkında ayrı takip yapıldığının kabulü mümkün değildir. Borçlar Kanununun 520.maddesine göre adi ortaklığın hükmü şahsiyeti bulunmadığından taraf ehliyeti yoktur. Bu nedenle icra takibinde adi ortakların ayrı ayrı gösterilmesi ve ayrı ayrı ödeme emri tebliği gerekmekte olup, taraf ehliyeti olmayan adi ortaklık adına tek bir ödeme emri tebliğe çıkarılarak takip yapılması usulsüzdür. Yasanın emredici kuralından kaynaklanan ve bir hakkın yerine getirilmemesi ile ilgili bulunan bu husus hakkında adi ortaklardan birisi olup olayda hukuki yararı olan şikayetçi şirketin İİK.nun 16/2.maddesi gereğince süresiz şikayet hakkı bulunmaktadır. Dolayısıyla yukarıda belirtildiği şekilde adi ortaklık adına çıkarılan ödeme emrinin geçerliliği yoktur.
 
 ## Yargıtay 15. HD 2011/5067 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/763881000)
 
 Ne var ki somut olayda; her ne kadar takip talepnamesi ve buna uygun olarak düzenlenen ödeme emrinde borçlu olarak “... İnş.Gıda San ve Tic.Ltd.Şti.-... İnş.San ve Tic.Ltd.Şti. İş Ortaklığı” gösterilmiş ve tek ödeme emri çıkarılmış ise de, iş ortaklığını oluşturan her iki şirketin ticaret ünvanı anılan belgelere tam ve eksiksiz olarak yazılmıştır. Öte yandan müşterek iş ortaklığını (Joint Venture'yi) oluşturan her iki şirketin vekili ödeme emrinin tebliğinden sonra her iki şirket tarafından vekil tayin edildiğini gösterir vekâletnamesini ibraz ederek her iki şirket adına icra takibine itiraz etmiş, böylelikle icra takibinin adi ortaklığı oluşturan şirketler aleyhine yapılmış olduğunu benimsemiştir. Bu durumda icra takibinin tüzel kişiliği bulunmayan adi ortaklık aleyhine değil, adi ortaklığı oluşturan ve tüzel kişiliği bulunan şirketler aleyhine yapıldığının ve taraf teşkilinin tamamlandığının kabulü gerekir.
 Mahkemece işin esasının incelenerek toplanacak delillere ve varılacak sonuca göre adi ortaklığı oluşturan şirketler hakkında hüküm verilmesi gerekirken, takip borçlularının ve davalıların belirlenmesinde yanılgıya düşülerek yazılı şekilde davanın reddi doğru olmamış, kararın bozulması gerekmiştir.
 
 ## Yargıtay 12. HD 2008/1792 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/71364200)
 
 İİK'nun 89.maddesi borçlunun 3.kişilerdeki kıymetli evraka bağlanmamış olan hak ve alacakları ile taşınır malların haczinde uygulanır. Borçlunun 3.kişilerdeki yukarıda belirtilen türdeki bir alacağı talep hakkı ya da taşınır malı haczedilince icra müdürü alacaklının istemi üzerine 3.kişiye 89/1 adı altında bir ihbarname gönderir. Somut olayda, borçlu D... İnş. San.Tic.AŞ'nin borcu sebebi ile icra müdürlüğünce çıkarılan 89/1 haciz ihbarnamesi borçlu D...İnş.San.Tic.AŞ. ile Ö..San.Tic.AŞ'nin birlikte kurdukları iş ortaklığının Toki Emlak Konut Gayrimenkul Yatırım Ortaklığı AŞ'deki yapılan iş nedeni ile ortak girişime ait hakedişe haciz konularak söz konusu paranın gönderilmesinin istendiği anlaşılmıştır. Adi ortaklık girişimi adi şirket statüsünde bulunduğundan BK'nun 522 ve 523. maddeleri uyarınca her ortak şirketin karına iştirak hakkına sahip olduğundan her bir ortağın kişisel alacakları borçlu ortağın şirketteki kar payına İİK'nun 89.maddesine göre haczettirebilirler. Yine şirket sözleşmesinde yer alması halinde ortağın faiz alacağı da ortağın kişisel alacaklıları tarafından İİK'nun 89.maddesi uyarınca haczedilebilir.
 Ayrıca BK'nun 534.maddesine göre de bir ortağın alacaklıları haklarını ancak o şerikin tasfiyedeki hissesi üzerinde kullanabilirler. Ancak ortağın kişisel alacaklıları adi şirkete veya adi şirketin alacaklarına doğrudan doğruya başvuramazlar. Yukarıda belirtildiği üzere Özyapı İnş.San ve Tic.AŞ.-D.. İnş.San.Tİc.AŞ iş ortaklığının yapmış oldukları iş karşılığı olarak Emlak Konut Gayrimenkul Yatırım Ortaklığı AŞ'deki hak ve alacaklarının haczi mümkün değildir. Dar yetkili icra mahkemesi ortaklığın tasfiyesine karar vermeye yetkili ve görevli değildir. Mahkemece tasfiyeyi doğuracak şekilde değerlendirme yapılarak borçlu adi ortaklığın hak ve alacağının haczine karar verilmesi isabetsizdir.

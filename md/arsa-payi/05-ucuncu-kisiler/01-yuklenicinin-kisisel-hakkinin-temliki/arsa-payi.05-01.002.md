@@ -63,6 +63,8 @@ Davacılar vekilinin değinilen yönlerden yerinde görülen temyiz itirazların
 
 ## Yargıtay 3. HD 2025/5252 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1205035300)
+
 Davalı vekili; alacaklar ve taleplerin zamanaşımına uğradığını, 14.07.2016 tarihli sözleşmenin geçersiz olduğunu, 10 adet dairenin alım-satımına ilişkin sözleşme yapılmadığını, davacı tarafından da bir ödeme yapılmadığını, ödeme dekontlarının sunulmadığını savunarak, davanın reddini istemiştir.
 
 …
@@ -74,6 +76,8 @@ Yüklenici ile arsa sahibi arasında imzalanan geçerli bir kat karşılığı i
 Temyiz olunan Bölge Adliye Mahkemesi kararının 6100 sayılı Kanun'un 370 inci maddesinin birinci fıkrası uyarınca ONANMASINA …
 
 ## Yargıtay 6. HD 2025/4414 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1200214800)
 
 Davalı arsa sahibi ... ve davalı yüklenici ... Turizm İnş.
 
@@ -87,6 +91,8 @@ Bu durumda dava konusu 13 nolu bağımsız bölümü ilk temlik alan birleşen d
 İlk Derece Mahkemesi kararının BOZULMASINA …
 
 ## Yargıtay 6. HD 2025/4339 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1199427000)
 
 İlk Derece Mahkemesince bozmaya uyularak verilen karar davalı ... vekili tarafından duruşma istemli temyiz edilmekle; kesinlik, süre, temyiz şartı ve diğer usul eksiklikleri yönünden yapılan ön inceleme sonucunda, 16.12.2025 tarihinde duruşma yapılmasına ve duruşma gününün taraflara davetiye ile bildirilmesine karar verilmiştir.
 
@@ -104,6 +110,8 @@ Davalı arsa sahibi ... vekilinin temyiz itirazlarının kabulü ile mahkeme kar
 
 ## Yargıtay 6. HD 2025/2245 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1160481200)
+
 İlk derece mahkemesince, Dairemizin 16.02.2023 tarihli ikinci bozma ilamında da belirtildiği üzere birleşen 2022/72 Esas sayılı dosyasında, kâr mahrumiyeti bakımından vekalet ücretinin hükmedilen tüm bedel üzerinden tek seferde hesaplanıp bulunan ücretin temlik eden ve temlik alanların alacaklarına oranlanarak temlik eden ve temlik alanların vekalet ücretinin belirlenmesi gerekirken asıl davacı ve temlik alanlar adına hükmedilen bedeller üzerinden ayrı ayrı vekalet ücreti hesaplanması doğru olmamıştır.
 
 Buna göre; birleşen 2022/72 Esas sayılı dosyada hükmedilen toplam 9.920.270,00 TL alacağın; %75,31'i olan 7.470.270,00 TL'sinin davacı yükleniciye, % 14,11'i olan 1.400.000,00 TL'sinin temlik alan ...'ye, % 4,03'ü olan 400.000,00 TL'sinin temlik alan ...'e, % 6,55'i olan 650.000,00 TL'sinin temlik alan ...'a ödenmesine karar verildiği, bu durumda toplam 9.920.270,00 TL alacak üzerinden AAÜT göre hesaplanan toplam 690.405,40 TL vekalet ücretinin davacı yüklenici ve temlik alanların alacaklılarına oranlandığında davacı yüklenici lehine (690.405,40 TL x % 75,31=) 519.944,30 TL, temlik alanlar ... lehine (690.405,40 TL x % 14,11=) 97.416,20 TL, ... lehine (690.405,40 TL x % 4,03 =) 27.823,34 TL, ... lehine (690.405,40 TL x % 6,55=) 45.221,56 TL vekalet ücreti alacağına hükmedilmesi gerekmektedir.
@@ -113,6 +121,8 @@ Buna göre; birleşen 2022/72 Esas sayılı dosyada hükmedilen toplam 9.920.270
 Davacı 04.11.2024 tarihli tam ıslah dilekçesi ile alacak davacının itirazın iptali davasına dönüştürülmesini talep etmiş, mahkemece de ıslah dilekçesi kabul edilerek yargılama sonucunda itirazın iptaline ilişkin hüküm kurulmuştur.
 
 ## Yargıtay 11. HD 2025/1322 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1148133200)
 
 Davacı vekili dava dilekçesinde; davalı şirket tarafından başlatılan icra takibine dayanak olarak 01.06.2015 tanzim, 03.10.2015 vade tarihli 500.000,00 TL bedelli bononun gösterildiğini, ilgili icra takibi ekinde sunulan bononun farklı bir bono olduğunu, söz konusu icra takibinin dayanağı olan bononun icra müdürlüğü kasasına girmediğini, kasada bulunan bononun 03.06.2015 tanzim, 13.10.2015 vade tarihli, 500.000,00 TL bedelli bono olduğunu, kasaya alınan bonoya dayalı olarak başlatılan bir icra takibi bulunmadığını, davalı tarafından başlatılan takibin hukuken geçerli bir takip olmadığını, bonoda "bedeli malen" kaydına yer verildiğini, dava ve takibe konu bononun keşidecisinin davacı, lehtarının davalı şirket olduğunu ve malen kaydı içeren bononun davalıya mal teslimi karşılığı verildiğini, ancak davalı şirket tarafından kendilerine mal teslimi yapılmadığını ve bononun bedelsiz kaldığını, icra takibine konu alacağın muvazaalı olarak diğer davalılara temlik edildiğini ileri sürerek icra takibine konu borçtan temlik eden davalı şirket ve temlik alan diğer davalılara borçlu olmadığının tespitine ve muvazaalı alacağın temliki sözleşmesinin iptaline karar verilmesini istemiştir.
 
@@ -130,6 +140,8 @@ VI. SONUÇ: Yukarıda açıklanan nedenlerle, davacı vekilinin temyiz itirazlar
 
 ## Yargıtay 6. HD 2025/987 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1144201400)
+
 Davalı ... vekili cevap dilekçesinde; davalılar arasında imzalanan sözleşme kapsamında yüklenici şirketin edimlerini yerine getirmediğini, inşaatı tamamlamadığını, süresinde teslim edimini yerine getirmediğini, yapı kullanım izin belgesinin alınmadığını, yapı denetim ücretinin ödenmediğini, yüklenicinin edimini yerine getirmediği hususunun tespit raporu ile belirlendiğini, halef olan davacının yüklenicinin edimlerinin yerine getirilmesini sağlamasının gerektiğini belirterek davanın reddine karar verilmesini talep etmiştir.
 
 …
@@ -144,6 +156,8 @@ Bu tür davalarda mahkemece öncelikle yüklenicinin eseri meydana getirme ve te
 
 ## Yargıtay 6. HD 2025/313 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1142618700)
+
 Davalı cevap dilekçesi sunmamıştır.
 
 …
@@ -155,6 +169,8 @@ Sözleşmelerin nispiliği kuralı gereği sözleşme, kural olarak o sözleşme
 Temyiz olunan Bölge Adliye Mahkemesi kararının 6100 sayılı Hukuk Muhakemeleri Kanununun 370/1. maddesi hükmü uyarınca ONANMASINA …
 
 ## Yargıtay 7. HD 2024/4903 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1118839700)
 
 Davacı vekili dava dilekçesinde özetle; müvekkilinin dava konusu ... İli, ... İlçesi...Mahallesi, 4683 ada, 1 parselde yer alan sitenin A Blok 4. kat 10 numaralı bağımsız bölümde kayıtlı taşınmazı davalılardan ...Yapı Ltd.
 
@@ -177,6 +193,8 @@ Temyiz olunan Bölge Adliye Mahkemesi kararının 6100 sayılı Kanunun 370 inci
 
 ## Yargıtay 6. HD 2024/3938 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1111859900)
+
 İlk Derece Mahkemesince; yüklenici temlikine dayalı tapu iptali ve tescil davasından dolayı yapılan yargılama sonunda davanın kabulüne karar verilmiştir.
 
 …
@@ -190,6 +208,8 @@ Bu itibarla; mahkemece, davacıya arsa sahibi hakkında da dava açması ve elde
 SONUÇ : Yukarıda 3-a bendinde açıklanan nedenlerle, ilk derece mahkemesi kararı ile bu karara karşı yapılan istinaf başvurusunun esastan reddine ilişkin kararın usul ve yasaya aykırı olması nedeniyle HMK'nın 373/1. Maddesi gereğince Van Bölge Adliye Mahkemesi 1. Hukuk Dairesi kararı KALDIRILARAK …
 
 ## Yargıtay 7. HD 2024/2409 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1041010000)
 
 Davacı vekili dava dilekçesinde; ... ilçesi, 639 ada 2 parselin ... Belediyesi tarafından ... Konut Yapı Kooperatifleri Birliğine tahsis edildiğini, bu birliğinde arsayı ...
 
@@ -207,6 +227,8 @@ Arsa sahibi ile yüklenici arasında düzenlenen kat karşılığı inşaat söz
 
 ## Yargıtay 6. HD 2024/2086 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1095305100)
+
 İlk derece mahkemesince, davalılar arasındaki arsa payı karşılığı inşaat sözleşmesinde yer alan devir ve temlik yasağı nedeniyle, davacının alacağın temliki sözleşmesine dayalı tapu iptal ve tescil isteminde bulunamayacağı, davalı arsa sahibi ...’ın bu temlik sözleşmesiyle bağlı bulunmadığı, davacının ancak akidi olan yüklenici şirketten bedel talep edebileceği gerekçesiyle, davalı ...’a karşı açılan tapu iptal ve tescil davasının reddine, davalı yüklenici şirkete karşı açılan bedel davasının kabulü ile 10.000,00 TL’nin davalı şirketten tahsili ile davacıya ödenmesine karar verilmiştir.
 
 …
@@ -217,6 +239,8 @@ SONUÇ: Yukarıda açıklanan nedenlerle, İstanbul Bölge Adliye Mahkemesi 15. 
 
 ## Yargıtay 6. HD 2024/1913 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1095112500)
+
 İlk derece mahkemesince, tapu iptal ve tescil davasında taşınmazı en son satın alan davalı ...'nın iktisabının iyi niyetli olmadığı, iktisabının korunamayacağı, davacı halihazırda hem taşınmazın uzun süreli zilyeti hem de önceki tarihli satış sözleşmesinin tarafı olduğundan tapu tescil talebine öncelik verildiği gerekçesiyle asıl davanın kabulüne, asli müdahilin talebi yönünden ceza-i şart bedeli olan 125.000 TL’yi talep edebileceği gerekçesiyle, alacak talebinin kısmen kabulüne, her iki davada ... ve mirasçıları yönünden davaların husumetten reddine karar verilmiştir.
 
 …
@@ -226,6 +250,8 @@ Kamu düzenine aykırılık hallerinin resen gözetildiği, istinaf nedenleriyle
 SONUÇ: Yukarıda açıklanan nedenlerle Kayseri Bölge Adliye Mahkemesi 1. Hukuk Dairesi kararına ilişkin asli müdahil vekili, davalı ... vekili ve davalı ... vekilinin tüm temyiz sebeplerinin reddiyle usul ve kanuna uygun bulunan hükmün ONANMASINA …
 
 ## Yargıtay 6. HD 2024/1734 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1094956700)
 
 Davacı vekili dava dilekçesinde özetle; ... 11. İcra Müdürlüğü'nün 2019/14680 Esas sayılı dosyasında takibe dayanak yapılan 105.000,00 TL bedelli bononun kat karşılığı inşaat sözleşmesinin teminatı olarak verildiğinin sözleşme ile aynı tarihte düzenlenen protokolden anlaşıldığını ancak bu bononun davalı yüklenici tarafından taraflar arasındaki protokole aykırı olarak davalı ...'ye temlik edildiğini, davalı müteahhit tarafından arsa sahiplerinden alınan tüm senetlerin aynı kişiye ciro edildiğini, davalılar arasında herhangi bir ticari ilişki bulunmadığını, devirlerin kötü niyetli olarak yapıldığını ileri sürerek müvekkilinin davalılara borçlu olmadığının tespitine karar verilmesini talep etmiştir.
 
@@ -244,6 +270,8 @@ Temyiz olunan Bölge Adliye Mahkemesi kararının BOZULMASINA …
 
 ## Yargıtay 6. HD 2024/1488 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1094582900)
+
 İlk derece mahkemesince, yüklenicinin arsa sahiplerine karşı edimini yerine getirmemesi nedeni ile temlik alınan kişisel hakka dayalı tapu iptali ve tescil isteminin reddine, davanın kısmen kabulü ile 50.000,00 TL’nin davalı yüklenici ...’dan tahsiline karar verilmiştir.
 
 …
@@ -254,6 +282,8 @@ SONUÇ: Yukarıda açıklanan nedenlerle İzmir Bölge Adliye Mahkemesi 22. Huku
 
 ## Yargıtay 6. HD 2024/1351 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1094342700)
+
 İlk Derece Mahkemesince, arsa payı karşılığı inşaat sözleşmesinden kaynaklanan fesih ve tapu iptal tescil davasında yapılan yargılama sonucunda; asıl ve birleşen davanın kabulü ile davacılar ..., ... ile davalı şirket arasında akdedilen bila tarihli adi yazılı kat karşılığı inşaat sözleşmesinin geriye etkili olarak feshine, Konya ili Selçuklu ilçesi ...
 
 …
@@ -263,6 +293,8 @@ Kamu düzenine aykırılık hallerinin resen gözetildiği, istinaf nedenleriyle
 SONUÇ: Yukarıda açıklanan nedenlerle Konya Bölge Adliye Mahkemesi 5. Hukuk Dairesi kararına ilişkin davalı ... vekilinin tüm temyiz sebeplerinin reddiyle usul ve kanuna uygun bulunan hükmün ONANMASINA …
 
 ## Yargıtay 3. HD 2024/1043 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1032236100)
 
 Davacı vekili; 20.08.2006 tarihinde Kayseri ili, ... ilçesi, ... mevkii 5321 ada 4 parsel sayılı taşınmaz üzerinde davalı müteahhit ... tarafından inşa edilen taşınmazda bulunan 27 numaralı daireyi 50.000,00 Euro karşılığında satın aldığını, bu dairenin ilk olarak dava dışı ...'a 10.08.2005 tarihli Gayrimenkul Satış Mukavelesi başlıklı sözleşme ile satıldığını, kendisinin de daireyi temlikname ile dava dışı ...'dan devraldığını, bu hususun davalıya bildirildiğini, davalı tarafından kendisine teslim edilen daireye yerleştikten sonra tesadüfen dairenin 118/214 hissesinin dava dışı ...üzerine kayıtlı olduğunu, kendisine sadece dairenin kalan 96/214 hissesinin devredildiğini öğrendiğini, satın aldığı 27 numaralı dairenin 118/224 hissesinin başka bir kişi adına kayıtlı olması sebebiyle bugünkü en düşük rayiç değeri karşılığı olmak üzere 100.000,00 TL'nin dava tarihinden itibaren işleyecek yasal faizi ile birlikte davalıdan tahsiline karar verilmesini istemiştir.
 

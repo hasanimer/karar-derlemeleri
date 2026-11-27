@@ -40,6 +40,8 @@ Bu yoruma göre verilen kararlarda ise, Anayasa'nın 40. maddesinin ikinci fıkr
 
 ## Danıştay İDDK 2025/3186 E., 2025/3127 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1203393500)
+
 Yukarıda metnine yer verilen 5393 sayılı Kanun'un 73. maddesi hükmü ile kentsel dönüşüm ve gelişim proje alanlarında bulunan yapıların boşaltılması, yıkımı ve kamulaştırılmasında anlaşma yolunun esas olduğu belirtilmişse de, bu hükmün koşulların bulunması halinde, 2942 sayılı Kanun'un 27. maddesiyle Cumhurbaşkanına tanınan acele kamulaştırma yetkisinin kullanımına engel teşkil etmediği açık olup, işlem tesisine dayanak olan acelelik halinin ve olağan kamulaştırma usulünden ayrılmasını gerektiren nedenlerin, kamu yararı ile özel mülkiyet hakkı arasındaki denge gözetilerek gerçekleşip gerçekleşmediğinin her somut olayda, projenin ve hizmetin niteliği, mahalli veya ulusal ihtiyacın ivedilikle karşılanması gerekliliği gibi hususlar da göz önünde bulundurularak yargı yerince değerlendirilmesi gerekmektedir.
 
 …
@@ -47,6 +49,8 @@ Yukarıda metnine yer verilen 5393 sayılı Kanun'un 73. maddesi hükmü ile ken
 Bu durumda, dava konusu işlemde hukuka aykırılık, işlemin uyuşmazlığa konu taşınmaz yönünden iptali yolundaki Daire kararında ise hukuki isabet bulunmadığından, davalı idarelerin temyiz istemlerinin kabulü ile Daire kararının bozulması ve davanın reddine karar verilmesi gerektiği oyuyla …
 
 ## Danıştay İDDK 2025/424 E., 2025/1728 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1184100600)
 
 Diğer yandan, Anayasa'nın 35. maddesi uyarınca mülkiyet hakkının ancak kamu yararı amacıyla Anayasa'ya uygun olarak kanunla sınırlandırılabilmesi mümkündür. Ancak buna ilişkin düzenlemelerin öncelikle kamu yararına dayanması gerekmekte, bir taşınmaz üzerindeki mülkiyet hakkının kamulaştırma yolu ile kaldırılması, kamu yararının karşılanması zorunluluğunun özel mülkiyet hakkının korunmasından üstün tutulması şartına bağlıdır. Bu nedenle de taşınmazın tarım arazisi niteliğinde bulunması halinde, tarım dışı kullanımı gerektiren bir amaç için yapılan kamulaştırmalarda, 5403 sayılı Kanun uyarınca alınması gereken tarım dışı kullanım izninin alınmamış olması, mülkiyet hakkının ancak kamu yararı amacıyla Anayasa'ya uygun olarak kanunla sınırlandırılabileceği yolundaki anayasal hükme de aykırı olacaktır.
 
@@ -67,6 +71,8 @@ Bu açıklamalar çerçevesinde, uyuşmazlıkta, dava konusu edilen 6306 sayıl�
 Davanın yukarıda özetlenen gerekçeyle süre aşımı nedeniyle reddine ilişkin Danıştay Dördüncü Dairesinin temyize konu 26/12/2024 tarih ve E:2024/4083, K:2024/7942 sayılı kararının BOZULMASINA …
 
 ## Danıştay İDDK 2023/1646 E., 2025/711 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1164314000)
 
 Davalı idarelerce gerek yapı ruhsatı hizmet bedeli gerekse banka teminat mektubunun, yapı ruhsatı düzenlenmesi istemiyle yaptığı başvuru üzerine davacı şirketten şifahi olarak istendiği, dava dilekçesinde tarih ve sayısı verilerek iptali istenen davalı idarelere ait yazıların davacı şirket tarafından verilen dilekçelere cevap niteliğinde ya da bu dilekçelere ilişkin iç yazışma niteliğinde olduklarının görüldüğü, bu itibarla, dava konusunun bireysel işlemler yönünden; "davacıdan 4.272.996,31 TL yapı ruhsatı hizmet bedeli ve bu bedelin peşin ödenmeyen kısmına karşılık banka teminat mektubu istenmesine ilişkin işlemler" şeklinde kurulması gerektiği, …
 
@@ -98,6 +104,8 @@ Açıklanan nedenlerle, dava konusu 6306 sayılı Kanun’un Uygulama Yönetmeli
 
 ## Danıştay İDDK 2024/1882 E., 2025/461 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1159659300)
+
 Davacılar tarafından, uyuşmazlıkta, 3194 sayılı İmar Kanunu'nun Geçici 16. maddesinde; yapı kayıt belgelerinin hangi hallerde alınacağı, hangi taşınmazlar yönünden yapı kayıt belgesi talebinde bulunulamayacağı, yapı kayıt belgesi bedelinin nasıl hesaplanacağı, bu hak kapsamında işgalli Hazine ve Belediye arazilerinin satış rejimi, yapı kayıt belgesi düzenlemeye bağlı olarak ilgililerin hangi haklara sahip olacakları (alt yapı hizmeti, cins değişikliği ve kat mülkiyeti talebi vs.) ve bunların hukuki sonuçlarının düzenlendiği, bu düzenlemeler içinde yapı kayıt belgesinin hangi hallerde iptal edileceği ve iptal edilmesi durumunda ilgililerin ne tür idari ya da cezai bir müeyyide ile karşı karşıya kalacaklarının düzenlenmediği, hukuki çerçeve dışında kalan bu alanın; normlar hiyerarşisinde en alt kademede yer alan "usul ve esaslar" ile düzenlenmesinin; idare hukuku ilke ve esaslarına aykırılığı yanında, hukuki güvenlik ve belirlilik ilkesine de aykırı olduğu belirtilerek temyize konu Daire kararının redde ilişkin kısmının bozulması gerektiği ileri sürülmektedir.
 
 …
@@ -113,6 +121,8 @@ Anayasa'nın 124. maddesinde, "Cumhurbaşkanı, bakanlıklar ve kamu tüzelkişi
 Anılan kararın davanın reddine ilişkin kısmının ONANMASINA oybirliğiyle …
 
 ## Danıştay İDDK 2024/1667 E., 2025/251 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1160342000)
 
 Türkiye Cumhuriyeti Anayasası'nın "Mülkiyet hakkı" başlıklı 35.maddesinde; "Herkes, mülkiyet ve miras haklarına sahiptir. Bu haklar, ancak kamu yararı amacıyla, kanunla sınırlanabilir. Mülkiyet hakkının kullanılması toplum yararına aykırı olamaz." hükmüne, "Sağlık hizmetleri ve çevrenin korunması" başlıklı 56. maddesinde; "Herkes, sağlıklı ve dengeli bir çevrede yaşama hakkına sahiptir. Çevreyi geliştirmek, çevre sağlığını korumak ve çevre kirlenmesini önlemek Devletin ve vatandaşların ödevidir." hükmüne yer verilmiştir.
 
@@ -133,6 +143,8 @@ Davanın yukarıda özetlenen gerekçeyle reddine ilişkin Danıştay Dördünc�
 
 ## Danıştay İDDK 2024/1970 E., 2024/2727 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1130121900)
+
 Anayasa'nın 35. maddesinde; "Herkes, mülkiyet ve miras haklarına sahiptir. Bu haklar, ancak kamu yararı amacıyla, kanunla sınırlanabilir. Mülkiyet hakkının kullanılması toplum yararına aykırı olamaz." hükmü yer almaktadır.
 
 2942 sayılı Kamulaştırma Kanunu'nun 3. maddesinin 1. fıkrasında; idarelerin kanunlarla yapmak yükümlülüğünde bulundukları kamu hizmetlerinin veya teşebbüslerinin yürütülmesi için gerekli olan taşınmaz malları, kaynakları ve irtifak haklarını, bedellerini ödemek suretiyle kamulaştırabileceği düzenlenmiş; 5. maddesi ile kamulaştırma yapılabilmesi kamu yararı kararı alınması şartına bağlanmış; 5. maddede düzenlenen mercilerce verilen kamu yararı kararlarının onay mercilerinin düzenlendiği 6. maddesinin son fıkrasında da, onaylı imar planına veya ilgili bakanlıklarca onaylı özel plan ve projesine göre yapılacak hizmetler için kamu yararı kararı alınmasına gerek olmaksızın, yetkili icra organınca kamulaştırma işlemine başlanıldığını gösteren bir kararın alınması yeterli görülmüştür.
@@ -143,6 +155,8 @@ Açıklanan nedenlerle, davacıların temyiz istemlerinin kabulü ile Daire kara
 
 ## Danıştay İDDK 2024/1386 E., 2024/1844 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1113006300)
+
 Anayasa'nın 40. maddesinin 2. fıkrasında, "Devlet, işlemlerinde, ilgili kişilerin hangi kanun yolları ve mercilere başvuracağını ve sürelerini belirtmek zorundadır." hükmüne, bu düzenlemenin devamı olarak da 125. maddesinin 3. fıkrasında, "İdari işlemlere karşı açılacak davalarda süre, yazılı bildirim tarihinden başlar." hükmüne yer verilmiştir.
 
 …
@@ -150,6 +164,8 @@ Anayasa'nın 40. maddesinin 2. fıkrasında, "Devlet, işlemlerinde, ilgili kiş
 Davanın yukarıda özetlenen gerekçeyle süre aşımı nedeniyle reddine ilişkin Danıştay Dördüncü Dairesinin temyize konu 22/02/2024 tarih ve E:2024/509, K:2024/1156 sayılı kararının BOZULMASINA …
 
 ## Danıştay İDDK 2024/452 E., 2024/1026 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1071371700)
 
 Avrupa İnsan Hakları Sözleşmesi'nin Ek 1 Nolu Protokolü'nün "Mülkiyetin korunması" başlıklı 1. maddesinde; "Her gerçek ve tüzel kişinin mal ve mülk dokunulmazlığına saygı gösterilmesini isteme hakkı vardır. Herhangi bir kimse, ancak kamu yararı sebebiyle ve yasada öngörülen koşullara ve uluslararası hukukun genel ilkelerine uygun olarak mal ve mülkünden yoksun bırakılabilir. Yukarıdaki hükümler, devletlerin, mülkiyetin kamu yararına uygun olarak kullanılmasını düzenlemek veya vergilerin ya da başka katkıların veya para cezalarının ödenmesini sağlamak için gerekli gördükleri yasaları uygulama konusunda sahip oldukları hakka halel getirmez." hükmüne yer verilmiştir.
 
@@ -162,6 +178,8 @@ Bu durumda, dava konusu işlemde hukuka aykırılık, işlemin iptali yolundaki 
 
 ## Danıştay VDDK 2023/746 E., 2024/876 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1087696000)
+
 6216 sayılı Anayasa Mahkemesinin Kuruluşu ve Yargılama Usulleri Hakkında Kanun'un "Anayasaya aykırılığın mahkemelerce ileri sürülmesi" başlıklı 40. maddesinin (1) numaralı fıkrasında, bir davaya bakmakta olan mahkemenin, bu davada uygulanacak bir kanun veya Cumhurbaşkanlığı kararnamesinin hükümlerini Anayasa'ya aykırı görmesi halinde veya taraflardan birinin ileri sürdüğü aykırılık iddiasının ciddi olduğu kanısına varması halinde iptali istenen kuralların Anayasa'nın hangi maddelerine aykırı olduklarını açıklayan gerekçeli başvuru kararının aslını; başvuru kararına ilişkin tutanağın onaylı örneğini; dava dilekçesi, iddianame veya davayı açan belgeler ile dosyanın ilgili bölümlerinin onaylı örneklerini dizi listesine bağlayarak Anayasa Mahkemesine göndereceği belirtilmiştir.
 
 …
@@ -170,6 +188,8 @@ Bu durumda, dava konusu işlemde hukuka aykırılık, işlemin iptali yolundaki 
 
 ## Danıştay İDDK 2023/783 E., 2023/2682 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1047092300)
+
 Yukarıda açıklanan mevzuat hükümlerinin değerlendirilmesinden; Anayasa'nın 63. maddesinin, Devleti; tarih, kültür ve tabiat varlıklarının ve değerlerinin korunmasını sağlamak ve bu amaçla destekleyici ve teşvik edici tedbirleri almakla görevlendirdiği, bu kuralı yaşama geçirmek üzere yürürlüğe konulan 2863 sayılı Kültür ve Tabiat Varlıklarını Koruma Kanunu'nun da, korunması gerekli taşınır ve taşınmaz kültür ve tabiat varlıkları ile ilgili tanımları belirlemeyi, yapılacak işlem ve faaliyetleri düzenlemeyi, bu konuda gerekli ilke ve uygulama kararlarını alacak teşkilatın kuruluş ve görevlerini tespit etmeyi hedeflediği; korunması gerekli taşınır ve taşınmaz kültür ve tabiat varlıkları ile ilgili hususları ve bunlarla ilgili gerçek ve tüzel kişilerin görev ve sorumluluklarını belirlediği, …
 
 …
@@ -177,6 +197,8 @@ Yukarıda açıklanan mevzuat hükümlerinin değerlendirilmesinden; Anayasa'nı
 Dava konusu işlemin yukarıda özetlenen gerekçeyle iptaline ilişkin Danıştay Altıncı Dairesinin temyize konu 21/12/2022 tarih ve E:2020/2023 …
 
 ## Danıştay İDDK 2022/2453 E., 2023/1933 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1034406300)
 
 Anayasa'nın 56. maddesi, 2872 sayılı Çevre Kanunu'nun 1. maddesi, 2. maddesindeki "sürdürülebilir çevre" ve "sürdürülebilir kalkınma" tanımları, 9. maddesinin 1. fıkrasının (h) bendi, dava konusu Yönetmelik'in yayımı tarihinde yürürlükte olan 645 sayılı Orman ve Su İşleri Bakanlığının Teşkilat ve Görevleri Hakkında Kanun Hükmünde Kararname'nin 2. maddesinin 1. fıkrasının (c) bendi ve 26. maddesi, 2560 sayılı İstanbul Su ve Kanalizasyon İdaresi Genel Müdürlüğü Kuruluş ve Görevleri Hakkında Kanun'un Ek-5. maddesi, Su Kirliliği Kontrolü Yönetmeliği'nin 51. maddesine yer verilerek ve 1 numaralı Cumhurbaşkanlığı Teşkilatı Hakkında Cumhurbaşkanlığı Kararnamesi'nin 410. maddesinden bahsedilerek, …
 
@@ -188,6 +210,8 @@ Açıklanan nedenlerle, temyize konu Daire kararının Yönetmelik'in 11. maddes
 
 ## Danıştay İDDK 2023/928 E., 2023/1008 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/989925100)
+
 Anayasa'nın 40. maddesinin 2 fıkrasının gerekçesinde belirtildiği üzere, idari işlemlere karşı başvuru yollarının ayrıntılı düzenlemelerde yer alması, başvuru süresinin kısa olması veya olağan başvuru yollarına istisna getirilebilmesi nedeniyle, işlemlere karşı hangi idari birime, hangi sürede başvurulacağının idarelerce işlemde belirtilmesi hukuk güvenliği ilkesinin bir gereği olduğundan, Anayasa'nın 40. maddesiyle, bireylerin yargı ya da idari makamlar önünde haklarını arayabilmelerine kolaylık ve olanak sağlanması amaçlanmış; idareye işlemlerinde, ilgililerin kaç gün içinde, hangi mercilere başvurabileceklerini bildirme yükümlülüğü getirilmiştir.
 
 Bu nedenle, nitelikleri gereği özel yasalarda, genel dava açma süreleri dışında ayrı dava açma süreleri öngörülmüş olan idari işlemlerin nitelikleri ve tabi oldukları dava açma süreleri idare tarafından ilgililerine bildirilmedikçe, özel dava açma sürelerinin işletilmesine, Anayasa’nın 40. maddesi hükmü uyarınca olanak bulunmamakta olup, 2577 sayılı Kanun’da açıkça belirtilen ve ilgililerce de bilindiğinin kabulü gereken genel dava açma sürelerinin işletilmesi zorunludur.
@@ -197,6 +221,8 @@ Bu nedenle, nitelikleri gereği özel yasalarda, genel dava açma süreleri dı�
 Davanın süre aşımı nedeniyle reddine ilişkin Danıştay Altıncı Dairesinin temyize konu 26/01/2023 tarih ve E:2022/8344, K:2023/1124 sayılı kararının, yukarıda belirtilen gerekçeyle ONANMASINA …
 
 ## Danıştay İDDK 2022/1040 E., 2023/301 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/992810600)
 
 Davacılar tarafından, Yönetmelik'in 6. maddesinin 2. fıkrasındaki lisanslandırılan kurum ve kuruluşlarda riskli yapı tespitinde görev alacak mühendislerin, Bakanlıkça veya Bakanlıkça uygun görülen kurum ve kuruluşlarca düzenlenecek eğitim programlarına katılmaları, eğitim sonunda yapılacak yazılı sınavda yüz üzerinden en az yetmiş puan alarak başarı belgesi almış olmalarına ilişkin kuralda yer alan "yüz üzerinden en az yetmiş puan alarak" ibaresinin riskli yapı tespitlerine en az %30 oranında başarısızlık olarak yansıyacağı ve mülkiyet hakkını bu oranda sınırlayacağının iddia edildiği, …
 
@@ -212,6 +238,8 @@ Dava hakkında yukarıda özetlenen gerekçeyle kısmen karar verilmesine yer ol
 
 ## Danıştay İDDK 2022/2827 E., 2023/300 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/992814500)
+
 Davacının 6306 sayılı Afet Riski Altındaki Alanların Dönüştürülmesi Hakkında Kanun'un 3/1. maddesinin Anayasa'ya aykırılığı yolundaki iddiasının; Anayasa Mahkemesinin 26/07/2014 tarih ve 29072 sayılı Resmi Gazete'de yayımlanan 27/02/2014 tarih ve E:2012/87, K:2014/41 sayılı kararı ile; anılan hüküm yönünden iptal isteminin reddine karar verildiği anlaşıldığından, Anayasa'nın 152. maddesinin son fıkrası uyarınca, Anayasa Mahkemesinin işin esasına girerek verdiği ret kararının Resmi Gazete'de yayımlanmasından sonra on yıl geçmedikçe aynı kanun hükmünün Anayasa'ya aykırılığı iddasıyla tekrar başvuruda bulunulamayacağı dikkate alındığında, değerlendirilmesinin hukuken mümkün bulunmadığı, …
 
 … ili, … ilçesi, … Mahallesi, … pafta, … ada, … parsel sayılı taşınmaz üzerinde bulunan binanın mülkiyetinin … Konaklama Seyahat Turizm AŞ.'ne ait olduğu, davacı tarafından kiralanarak ticari faaliyetlerinde kullanılan yapı hakkında maliki tarafından riskli yapı olduğunun tespiti istemiyle 6306 sayılı Kanun uyarınca başvuruda bulunulduğu, Beyoğlu Belediye Başkanlığının … tarih ve Ç-… sayılı işlemiyle binanın riskli yapı olduğunun tespit edildiği, daha sonra Beyoğlu Belediye Başkanlığının … tarih ve … sayılı "yapının tahliyesi, altyapı hizmetlerinin durdurulması ve yıkımı için altmış gün süre verilmesine, durum hakkında ayni ve şahsi hak sahiplerine noter kanalıyla tebligatta bulunulmasına" ilişkin işleminin, malik tarafından davacıya … Noterliğinin … tarih ve … yevmiye numaralı işlemiyle ihtar edilmesi üzerine anılan işlem ile anılan işlemin doğrudan kendisine tebliğini, itiraz hakkını ve dava hakkını ortadan kaldıran 6306 sayılı Kanunun Uygulama Yönetmeliği'nin 7/6. maddesinin iptali istemiyle bakılmakta olan davanın açıldığı, …
@@ -222,6 +250,8 @@ Davanın yukarıda özetlenen gerekçeyle reddine ilişkin Danıştay Altıncı 
 
 ## Danıştay İDDK 2023/7 E., 2023/8 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/999224100)
+
 Kanun koyucunun devletin Anayasa’nın 56. maddesinde belirtilen görevlerini yerine getirmek amacıyla, ihtiyaç duyduğu düzenlemeyi yapma ve bu konuda gerekli olan araçları belirleme konusunda takdir yetkisine sahip olduğu açıktır. Ancak bu yapılırken düzenlemeyi gerekli kılan kamu yararı ile anılan bölgedeki doğal güzellikler ile tarihî ve kültürel değerlerin korunması ve geliştirilmesi biçimindeki kamu yararı arasındaki makul dengenin kurulması gerekir.
 
 …
@@ -229,6 +259,8 @@ Kanun koyucunun devletin Anayasa’nın 56. maddesinde belirtilen görevlerini y
 Bu durumda, kesin yapı yasağı olmayan ve denetimli bir şekilde de olsa yapı yapılabilecek bir alanda (III. derece arkeolojik sit) kalan yapılar açısından, Kültür ve Turizm Bakanlığı ilgili birimlerinden izin alınmadığı gerekçesiyle tesis edilen "yapının kaldırılmasına" ilişkin kararlara karşı açılan davalarda …
 
 ## Danıştay İDDK 2022/1021 E., 2022/3122 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/944813200)
 
 Dava konusu düzenlemelerin gizli yoğunluk artışı getirdiği, planlarla oluşacak yapı stoku ile kentsel altyapı ilişkisinin sekteye uğrayacağı, planlı bir kentleşmenin sağlanabilmesi ve kamu yararının tesisi bakımından, inşa edilen yapı alanının emsal hesabına dahil edilmesi gerektiği, kaldı ki, bazı kullanımların emsal dışı tutulmasına cevaz veren üst hukuk normunun da bulunmadığı gibi davalı idarece emsal dışı bırakılmaya ilişkin bilimsel ve teknik bir gerekçenin de sunulamadığı, …
 
@@ -239,6 +271,8 @@ Bu alanların sağladığı kamu yararı ile artan yapı yoğunluğu arasında b
 Danıştay Altıncı Dairesinin temyize konu 06/12/2021 tarih ve E:2021/3502, K:2021/13298 sayılı kararının ONANMASINA …
 
 ## Danıştay İDDK 2022/1382 E., 2022/1797 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/841118000)
 
 Uyuşmazlıkta, riskli alan ilanına ilişkin dava konusu Cumhurbaşkanı kararının dayanağının, işlem içeriğinde de belirtildiği üzere, 6306 sayılı Kanun'un hem 2. maddesi hem de Ek-1. maddesinin birinci fıkrasının (b) bendi olduğu, …
 

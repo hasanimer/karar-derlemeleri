@@ -21,6 +21,8 @@ uyari: "Derleyenin seçtiği alıntılardır; kararın tamamı değildir. Künye
 
 ## Yargıtay 1. HD 2015/2082 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/120785500)
+
 Dava, bağımsız bölüme elatmanın önlenmesi ve ecrimisil isteğine ilişkindir.
 
 Davacı, kayden maliki olduğu 7765 ada 13 parselde kat karşılığı inşaat yapılması için dava dışı yüklenici şirketle sözleşme yapıldığını, buna göre B bloktaki 13 nolu bağımsız bölümün yükleniciye verileceğinin kararlaştırıldığını, yüklenici şirketin inşaatı tamamlamadığını ve halen bağımsız bölümün davacı kooperatif adına kayıtlı olduğunu, davalının 2007 yılından beri bağımsız bölümü işgal ettiğini, ihtarname gönderilmesine rağmen davalının işgale son vermediğini ileri sürerek elatmanın önlenmesi ve ecrimisil istekli eldeki davayı açmıştır.
@@ -39,6 +41,8 @@ Davacı vekilinin temyiz itirazları belirtilen nedenlerle yerindedir. Kabulüyl
 
 ## Yargıtay 1. HD 2014/19211 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/301187200)
+
 Dava, bağımsız bölüme elatmanın önlenmesi ve ecrimisil isteklerine ilişkindir.
 
 …
@@ -46,6 +50,8 @@ Dava, bağımsız bölüme elatmanın önlenmesi ve ecrimisil isteklerine ilişk
 Hemen belirtilmelidir ki; kat karşılığı inşaat sözleşmesinin feshine ilişkin kararın kesinleştiği 08.04.2010 tarihi itibariyle davalının artık iyiniyetinden sözedilemeyeceği, dolayısıyla bu tarihin ecrimisil başlangıç tarihi kabul edilip hesaplanan ecrimisilin hüküm altına alınması gerektiği, Dairenin 29.11.2013 tarih 2012/16283 E. ve 2013/16945 K. sayılı bozma ilamında da değinildiği üzere açıktır.
 
 ## Yargıtay 23. HD 2014/6015 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/119616800)
 
 Davacılar vekili, asıl davada davacıların murisi ile davalı yüklenici arasında arsa payı karşılığı inşaat sözleşmesi imzalandığını, diğer davalının da arsa sahibinin mirasçısı olduğunu, ancak davalının kaçak inşaat yaptığını, yıkım kararı bulunduğunu, ileri sürerek, sözleşmenin feshine, binanın kali ve haksız işgal nedeniyle ecrimisilin tahsilini; birleşen davada, davalıların binayı kiraya vererek ve haksız yere kullandıklarını ileri sürerek, müdahalelerinin men'i ve ecrimisil tazminatının tahsilini talep ve dava etmiştir.
 
@@ -63,6 +69,8 @@ Açıklanan sebeplerle kararın bozulması gerekmiştir. SONUÇ: Yukarıda (1) n
 
 ## Yargıtay 23. HD 2014/3743 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/113974200)
+
 Mahkemece, iddia, savunma ve dosya kapsamına göre; yüklenici tarafından yapılan yapının kaçak olması, yasal hale getirilme olanağının bulunmaması nedeniyle karşı davanın reddine, asıl davanın kısmen kabulü ile davalılar R.. B.. ile İ..
 
 …
@@ -78,6 +86,8 @@ SONUÇ: Yukarıda (1) numaralı bentte açıklanan asıl ve karşı davadaki dav
 
 ## Yargıtay 1. HD 2013/13902 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/79454800)
+
 Dava; bağımsız bölüme elatmanın önlenmesi ve ecrimisil isteklerine ilişkindir.
 
 Mahkemece, davanın kısmen kabulüne karar verilmiştir.
@@ -90,6 +100,8 @@ Davalının bu yöne değinen temyiz itirazları yerindedir. Kabulüyle hükmün
 
 ## Yargıtay 1. HD 2013/9585 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/914413400)
+
 Davacı, mülkiyeti derneğe ait 6912 ada, 27 parsel sayılı taşınmazı, davalı derneğin tapuda isim düzeltilmesi davası sonucunda haksız olarak edindiğini, açılan tapu iptali ve tescil davası sonucunda yeniden adlarına tescilini sağladıklarını, arada geçen süre içinde taşınmazdan yararlanamadıkları gibi elde edecekleri gelirden de mahrum kaldıklarını ileri sürerek, davalı derneğin kullanımında bulunan süre dikkate alınarak hak ettikleri ecrimisil bedelinin davalıdan yasal faizi ile birlikte tahsiline karar verilmesini istemiştir.
 
 Davanın kabulüne ilişkin olarak verilen karar, Yüksek 3. Hukuk Dairesince; ''hükme esas alınan bilirkişi raporunda, imar durumuna göre dava konusu arsa üzerinde 12 daireli bir bina inşa edilebileceği, arsa sahibinin taşınmazı kat karşılığı vermesi halinde yarısı olan 6 daire alacağı ve inşaat süresi çıkartılarak kalan süre için bu dairelerden elde edebileceği gelir esas alınarak ecrimisil hesabı yapılmıştır. Rapor varsayıma dayalı olup hükme esas alınamaz. Taşınmaz tapu kaydına göre arsa niteliğindedir. Ecrimisil istenen dönemden önce davacı tarafından kat karşılığı inşaata verildiği veya verileceği ispat edilmiş de değildir. İmar durumuna göre kat karşılığı verilmesi halinde, arsa sahibinin kendisine düşen dairelerden elde edebileceği kira geliri üzerinden ecrimisil hesabının hukuki dayanağı yoktur.
@@ -100,6 +112,8 @@ Mahkemece yapılacak iş, benzer nitelikteki yerlerin işgal tarihindeki kira pa
 Hükmüne uyulan bozma kararında, gösterildiği şekilde işlem yapılarak karar verilmiştir. Davacının temyiz itirazı yerinde değildir. Reddi ile usul ve yasaya ve bozma kararının gerekçelerine uygun olan hükmün ONANMASINA …
 
 ## Yargıtay 1. HD 2013/3149 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/79623200)
 
 Dava, bağımsız bölüme el atmanın önlenmesi ve ecrimisil isteklerine ilişkindir.
 
@@ -113,6 +127,8 @@ Hukuk dairesince onaylandığı ve Uyap ortamında yapılan araştırmada da an�
 Davalıların bu yöne ilişkin temyiz itirazları yerindedir. Kabulüyle hükmün açıklanan nedenlerden ötürü (6100 sayılı Yasanın geçici 3.maddesi yollaması ile) 1086 sayılı HUMK.'nın 428.maddesi gereğince BOZULMASINA …
 
 ## Yargıtay 8. HD 2012/10951 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/641030500)
 
 Davacılar vekili dava dilekçesinde, kendilerine ait adresi yazılı taşınmaza davalı ... tarafından içinde oturmak suretiyle müdahalede bulunduğunu, davalıya yapılan bir satışın bulunmadığını, kiracıları da olmadığını açıklayarak davalı ... tarafından yapılan müdahalenin önlenmesine ve 10.000,00 TL ecrimisilin tahsiline karar verilmesini istemiştir.
 
@@ -130,6 +146,8 @@ Davacılar-davalılar vekili ile davalı-davacı ... vekilinin yukarıda açıkl
 
 ## Yargıtay 1. HD 2012/9740 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/916199200)
+
 Davacılar, miras bırakanlar... ile davalının paydaşı oldukları 19 parsel sayılı taşınmazla ilgili olarak dava dışı yüklenici ile yapılan kat karşılığı inşaat sözleşmesi gereğince yapılan binadan iki dairenin miras bırakanlarına bırakıldığı halde, tek bir dairenin teslim edildiğini ve diğer daireyi davalının haksız yere tasarruf ettiğini ileri sürerek, elatmanın önlenmesi ve ecrimisile karar verilmesini istemişlerdir.
 
 Davalı, davanın reddini savunmuştur.
@@ -143,6 +161,8 @@ ecrimisile de hükmedilmiş olmasının doğru olmadığı ” gerekçesi ile bo
 Hükmüne uyulan bozma kararında, gösterildiği şekilde işlem yapılarak karar verilmiştir. Davacı ...'in temyiz itirazı yerinde değildir. Reddi ile usul ve yasaya ve bozma kararının gerekçelerine uygun olan hükmün ONANMASINA …
 
 ## Yargıtay 1. HD 2012/8281 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/79236100)
 
 Dava; elatmanın önlenmesi ve ecrimisil isteklerine ilişkindir.
 
@@ -162,6 +182,8 @@ Davacının bu yöne ilişkin temyiz itirazları yerindedir. Kabulüyle hükmün
 
 ## Yargıtay 15. HD 2010/4261 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/774824800)
+
 Uyuşmazlığa sözleşme kapsamında ve öncelikle asıl dava konusu men'i müdahale ve ecrimisil istekleri yönünden bakıldığında; gerçekten de taraflar arasındaki akdi ilişki ifa ile sonuçlanmamış, altı adet dairenin tapuları arsa sahiplerine verilmemiştir. Arsa sahiplerinin sözleşme öncesinden beri ... parsel üzerinde bulunup daha sonra bu parselin ifrazı sonucu ... parsel üzerinde kalan yerleri için sözleşmede özel bir düzenleme öngörülmüş ve üçüncü paragrafta bu yerin inşaat nedeniyle yıkılması gerekirse inşaatın bitimine kadar mal sahiplerine yüklenici kooperatif tarafından bir daire kiralanacağı ifade olunmuştur. Belirtilen paragrafın yazılışından anlaşılacağı üzere bu yer, inşaat nedeniyle yıkılırsa arsa sahiplerine kiralık bir daire tahsis edilecek, yıkılması gerekmezse inşaatın bitimine kadar oturmaya devam edeceklerdir. Oysa somut olayda inşaatın bitirilmesi ve tapularının arsa sahiplerine verilmesi koşulları henüz yerine getirilmiş değildir. Bu durumda mahkemece, asıl davanın …
 
 …
@@ -169,6 +191,8 @@ Uyuşmazlığa sözleşme kapsamında ve öncelikle asıl dava konusu men'i müd
 SONUÇ:Yukarıda 1. bentte açıklanan nedenlerle davalı-birleşen dava davacıları arsa sahiplerinin diğer temyiz itirazlarının reddine, 2. ve 3. bentler uyarınca hükmün davalı-birleşen dava davacıları arsa sahipleri yararına BOZULMASINA …
 
 ## Yargıtay 1. HD 2009/3972 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/78356800)
 
 Davacılar,paydaşı oldukları 885 ada 3 parsel sayılı taşınmazdaki binanın bir bölümünü davalının haksız şekilde kullandığını ileri sürerek elatmanın önlenmesi ve ecrimisil isteğinde bulunmuşlardır.
 
@@ -190,6 +214,8 @@ Karşı davacı N.'nin bu yöne ilişkin temyiz itirazı yerindedir.Kabulüyle h
 
 ## Yargıtay 3. HD 2008/16015 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/852394300)
+
 Davalılar ise; herbirinin satın aldığı bağımsız bölümü kullandıkları davacının ise akrabası olan müteahhitten kaçak olarak inşasına başlanılan 5.kattaki daire için hisse aldığı, ancak bu katın yapımı sırasında belediyece işlem yapılıp kaçak katın yıkıldığı bu durumu bilen davacının kendilerinden değil müteahhitten talepte bulunabileceğini savunarak davanın reddini istemişlerdir.
 
 Mahkemece davanın kısmen kabulüyle 8.832 YTL ecrimisilin hisseleri arasında davalılardan tahsiline karar verilmiş, hüküm davacı ve davalılardan ... vekili tarafından temyiz edilmiştir.
@@ -201,6 +227,8 @@ Yine dosyada mevcut belgelerden davalılardan arsa sahibi olan kişinin müteahh
 Bu itibarla yukarıda açıklanan esaslar gözönünde tutulmaksızın yazılı şekilde hüküm tesisi isabetsiz, temyiz itirazları bu nedenlerle yerinde olduğundan kabulü ile hükmün HUMK.nun 428. maddesi gereğince BOZULMASINA ve peşin alınan temyiz harcının istek halinde temyiz edene iadesine …
 
 ## Yargıtay 15. HD 2007/7213 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/860269900)
 
 Davacı vekili, davada; müvekkillerinin mirasbırakanı ile davalı kooperatif arasında Beyoğlu .... Noterliği’nce doğrudan düzenlenen 06.08.1996 tarih ve 18728 yevmiye numaralı “Gayrimenkul Satış Vaadi ve Kat Karşılığı İnşaat Sözleşmesi” yapıldığını; sözleşme gereğince verilmesi gereken bağımsız bölümlerin verilmediğini ileri sürerek sözleşme konusu (72) numaralı parsele davalının elatmasının önlenmesine ve 18.03.2004 ilâ 15.06.2005 tarihleri arasındaki süre için (6.000,00) YTL ecrimisilin tahsilini istemiştir.
 
@@ -217,6 +245,8 @@ Az yukarda açıklanan hukuksal sebeple, davacıların inşaat yapılan taşınm
 aykırılığın devamı anlamına geleceğinden kamu düzenine ilişkin ve re’sen uygulanması zorunlu İmar Yasası hükümlerince arsa sahiplerinin istemleri kabul edilemez. Böyle bir yapının –kaçak oluşu nedeniyle- sadece yıkımı istenebileceğinden, yıkım (kâl) talep edilmeksizin kaçak dairenin teslimi ve ecrimisil istemi ile arsa sahiplerinin açmış oldukları davanın reddedilmesinde bir usulsüzlük bulunmamaktadır. Bu itibarla yerel mahkemenin davanın reddine dair verdiği kararın onanması gerektiği görüşü ile sayın çoğunluğun bozma kararına katılmıyoruz.
 
 ## Yargıtay 1. HD 2007/6797 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/78354400)
 
 Davacılar, mirasbırakanları N...R.. adına kayıtl.. ada .. parsel sayılı taşınmazda yüklenici ile yapılan kat karşılığı inşaat sözleşmesi uyarınca arsa sahibine bırakılan ve murisleri adına tapuya tescil edilen ..no’lu bağımsız bölümün davalı tarafından yükleniciden haricen satın aldığı iddiasına dayanarak işgal edildiğini, davalı M...’in kendi mirasbırakanları aleyhine açtığı tapu iptali ve tescil davasının reddedildiğini ileri sürüp elatmanın önlenmesi ve ecrimisil istemişlerdir.
 

@@ -22,6 +22,8 @@ uyari: "Derleyenin seçtiği alıntılardır; kararın tamamı değildir. Künye
 
 ## Yargıtay 15. HD 2007/2061 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/15998300)
+
 Dava, arsa payı karşılığı inşaat yapım sözleşmesi ve ek sözleşme uyarınca projeye aykırı yapılmış çatı katının davacılar adına tapuya tescili, inşaattaki projeye aykırı tüm imalatların kal'i ve projeye uygun hale getirilmesi, davalının ortak alanlara elatmasının önlenmesi, işgal tazminatı, değer farkı ve kal masraflarının tahsili istemlerine ilişkindir.
 
 …
@@ -34,6 +36,8 @@ Sonuç: Yukarıda (i.) bentte yazılı nedenlerle davacıların diğer temyiz it
 
 ## Yargıtay 15. HD 2007/1920 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/858659200)
+
 Arsa sahiplerinin, davacı yükleniciye karşı tazminat ile sorumlu tutulabilmeleri için, yüklenicilerin inşaatı sözleşme, proje ve ruhsatı ile imara uygun şekilde tamamlayıp teslim etmiş olmaları, arsa sahiplerinin yüklenicilere düşen bağımsız bölümlerin tapu paylarını devirden kaçınmış olmaları veya dava dışı 3.kişilere devretmiş olmaları gerekir. Yüklenicilerin birden fazla olması durumunda diğer yüklenicinin sattığı bağımsız bölüm bedelinden arsa sahiplerinin sorumlu tutulması mümkün değildir. Davalı arsa sahiplerince inşaatın henüz tamamlanmadığı, iskân ruhsatının alınmadığı ve yüklenicilere isabet eden bazı bağımsız bölümlerin yine yükleniciler tarafından satılıp parasının alındığı savunulmuş, mahkemece bu hususta yeterince inceleme yapılmamıştır.
 
 …
@@ -41,6 +45,8 @@ Arsa sahiplerinin, davacı yükleniciye karşı tazminat ile sorumlu tutulabilme
 SONUÇ:Yukarıda 1.bentte yazılı nedenlerle davacı-birleşen dosya davalısı ...’in tüm, birleşen dosya davalılarından arsa sahiplerinin diğer temyiz itirazlarının reddine, 2.bent uyarınca kabulü ile hükmün davalı arsa sahipleri yararına BOZULMASINA …
 
 ## Yargıtay 15. HD 2007/1902 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/858643400)
 
 Dava, arsa payı karşılığı inşaat yapım sözleşmesi uyarınca sözleşmenin aynen ifasıyla, davacı arsa sahibine ait dükkan ve dairelerin tesbit ve teslimine ilişkindir.
 
@@ -53,6 +59,8 @@ Arsa payı karşılığı inşaat yapım sözleşmelerinde aslolan yüklenicinin
 SONUÇ:Yukarıda açıklanan nedenlerle temyiz itirazlarının kabulü ile hükmün davalı yararına BOZULMASINA …
 
 ## Yargıtay 15. HD 2007/1398 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/858405200)
 
 28.08.1991 tarihli sözleşmenin 4.maddesi; “inşaat ruhsatı alındıktan sonra mal sahipleriyle ilgili gayrimenkulün tapusunu mal sahiplerine ait yerlerin tamamının teslimine kadar ipotek koydurarak vereceklerdir” hükmünü içermektedir. Sözleşmenin belirtilen bu hükmüne göre, yüklenici davacı kooperatifin, davalı arsa sahibinin sözleşme konusu taşınmazlardaki pay kayıtlarının iptâl ve tescilini isteyebilmesi için, ana sözleşme hükümleri gereğince verilmesi gereken bağımsız bölümleri sözleşme hükümlerine uygun olarak imâl edip tesliminden önce arsa sahibi yararına “teminat ipoteği” tesis edilmesi zorunludur. Diğer yandan, aynı sözleşmenin 5.maddesi uyarınca; arsa sahiplerine verilmesi gereken dairelerin tapu ve iskân ruhsatı masraflarının ödenmesini davacı kooperatif yüklenmiştir.
 
@@ -97,6 +105,8 @@ olduğu, davalının 1 adet ürün haricinde diğer ürünleri bu nedenle bilirk
 
 ## Adana BAM 6. HD 2026/458 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1195528300)
+
 DAVALI VEKİLİ CEVAP DİLEKÇESİNDE ÖZETLE: Müvekkili şirketin davacı şikret aleyhine ... İcra Müdürlüğü'nün ...
 
 …
@@ -114,6 +124,8 @@ Götürü bedelli sözleşmelerde yüklenicinin hakettiği imalat bedeli, “fiz
 Götürü bedelli işlerde, yüklenicinin hakettiği iş bedelinin saptanması ya da iş sahibinin ödemesinin fazla olup olmadığının belirlenmesi için gerçekleştirilen imalâtın eksik ve kusurlar da dikkate alınarak tüm işe oranının tespiti, bulunacak bu oranın toplam iş bedeline uygulanarak hakedilen bedelin saptanması ve bulunacak bu rakamdan kanıtlanan ödemeler düşülerek hesaplanması gerekmektedir.
 
 ## İstanbul BAM 15. HD 2026/423 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1203512000)
 
 Davacı vekili 15/04/2015 tarihli ıslah dilekçesi ile; dava dilekçesinde yer alan gecikme tazminatına ilişkin taleplerini 420,500-USD artırarak; toplam 430.500-USD; davaya konu binanın 41. katında bulunan 330,331,332,333,334,335 numarada kayıtlı bağımsız bölümlerin kaba inşaat halinde bırakılması nedeniyle eksik işler bedeli olarak; toplam 541.025,59 TL nin, ihtarname tarihi olan 10/08/2012 tarihinden itibaren işleyecek en yüksek reeskont faizi ile birlikte davalılardan müştereken ve müteselsilen tahsiline karar verilmesini talep etmiştir.
 
@@ -135,6 +147,8 @@ Ancak eksik iş bedeli hesaplaması yapılan raporda, eksik iş bedelinin Çevre
 
 ## Ankara BAM 27. HD 2026/386 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1205054100)
+
 Dava, arsa payı karşılığı inşaat sözleşmesinden kaynaklanan tapu iptal ve tescil ile tazminat istemlerine, karşı dava ise; tazminat istemine ilişkin olup, mahkemece asıl davanın kısmen kabulüne, karşı davanın açılmamış sayılmasına dair verilen karara karşı süresi içinde taraf vekillerince istinaf kanun yoluna başvurulmuştur.
 
 …
@@ -147,11 +161,15 @@ Ankara Batı Asliye Ticaret Mahkemesinin 05/07/2024 gün ve 2020/306 Esas, 2024/
 
 ## İstanbul BAM 15. HD 2026/305 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1199682500)
+
 Bu durumda, mahkemece yukarıda ayrıntıları ile belirtilen davacı şirket çalışanlarına yapılan toplam 139.021,61 USD ödeme, taraflar arasındaki ticari iş kapsamında yapıldığına ilişkin mahkeme kabulünün doğru olduğu anlaşılmıştır. Davalı tarafından yapılan tüm ödeme miktarı, banka ile gönderilen 209.684,71 USD + davacı personeli ile yapılan ödeme 139.021,61 USD olmak üzere toplam 348.706,32 USD davalı tarafından yapılan ödeme yapıldığı ilişkin mahkeme kabulü doğru olmuştur. Davalı iş sahibi tarafından, yüklenicinin açtığı alacak veya itirazın iptali davasında, ayrıca bir karşı dava (müstakil dava) açılmasına lüzum bulunmaksızın, cezai şart bedelinin yüklenicinin alacağından takas ve mahsup edilmesi talebiyle itirazda bulunulması hukuken mümkündür.
 Aynı eser sözleşmesinden kaynaklanan bu talep "mahsup itirazı" niteliğinde olup yargılamanın her aşamasında ileri sürülebileceği gibi, hakim tarafından da dosyaya yansıyan delillerden kendiliğinden gözetilecektir.Mahkeme; dosyadaki e-posta yazışmaları, ilave iş talepleri, metraj artışı, malzeme temin süreci, işveren talimatları itibariyle, iş teslimin gecikmenin münhasıran yükleniciden kaynaklanmadığı kanaatine varılarak, takas mahsup talebinin reddine karar verilmiş olup, tüm dosya kapsamı itibariyle gecikmenin yükleniciden kaynaklanmadığı dosya kapsamından anlaşıldığından takas mahsup talebin reddine karar verilmesi doğru olmuştur. Mahkemece, bilirkişi heyetinden kök ve iki ek rapor almış olup, bilirkişi raporları dava dosyasına sunulan delil ve belgeler itibariyle denetime elverişli olduğu anlaşılmaktadır. Mahkemece davalı tarafından sunulan ödeme belgeleri esas alarak ve resen bir inceleme ile ödeme miktarını çıkartmış ve hükme esas alınmıştır. Davacı ediminin eksik ve ayıplı iş yönelik dava dosyasında gerek buna ilişkin delil ve belge sunulmuş ve gerek ise ayıp ihbarına ilişkin bir delil sunulmuştur. Davalının bu yöndeki istinaf talebine itibar edilmemiştir.
 Davacının icra takibini başlatırken bakiye alacağı olduğu anlaşılmış olup, davanın kısmen reddine karar verilmiş olması davacının kötüniyetli olduğunu göstermez. Davalı tarafından davacının icra takibinde kötüniyetli olduğunu dosya kapsamında ispat edememiştir.
 
 ## Kayseri BAM 4. HD 2026/228 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1195865000)
 
 Davalı vekil cevap dilekçesinde özetle:
 
@@ -177,6 +195,8 @@ Kayseri Asliye Ticaret 1.Mahkemesinin 2021/52 Esas, 2024/769 Karar sayılı kara
 
 ## İzmir BAM 14. HD 2026/210 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1196868600)
+
 Davacı vekili dava dilekçesinde özetle; "Taraflar arasındaki 09/07/2018 tarihli eser sözleşmesi gereğince; ... İli,... İlçesi, ...Mahalle, ... ada ... parsel sayılı taşınmaz üzerinde yapılacak 32 adet villanın bir kısım inşaat işlerinin davalı şirket tarafından yapılmasının kararlaştırıldığı, işin 30/09/2018 tarihinde teslim edilmesi gerekirken halen tamamlanıp teslim edilmediği, gecikme olduğu, ayrıca yapılan işlerde de sözleşmeye aykırı olarak eksik ve ayıplı imalat bulunduğu" iddiası ile sözleşmenin (21.Maddesi gereği) haklı nedenle feshedildiğinin tespitine, gecikme nedeniyle sözleşmenin 10.
 
 …
@@ -198,6 +218,8 @@ Kaldırma sonrası denetime ve hüküm kurmaya elverişli bir şekilde düzenlen
 
 ## İzmir BAM 14. HD 2026/126 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1194520100)
+
 Davalı ... A.Ş. vekili 02.09.2015 tarihli cevap dilekçesinde özetle; Müvekkili şirkete husumet yöneltilemeyeceğini, müvekkili ile ....
 
 …
@@ -215,6 +237,8 @@ Yüklenicinin arsa payı karşılığı inşaat yapmakta olduğu veya arsa sahib
 İzmir 4. Asliye Ticaret Mahkemesi'nin 22.11.2022 tarih ve 2015/935 Esas, 2022/961 Karar sayılı kararının asıl ve birleşen davalar yönünden, 6100 Sayılı HMK'nın 353/(1)-a-6. maddesi gereğince KALDIRILMASINA …
 
 ## İstanbul BAM 15. HD 2026/116 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1193002100)
 
 Davacı ... vekili dava dilekçesi ile ; davacı ... şirketi ile arsa sahibi dava dışı ......... Koop. İle kat karşılığı inşaat sözleşmesi yapıldığını ve davaya konu ... konut projesine başlandığını, bu kapsamda davalı ... şirketi ile B/1 ve B2 Blok mekanik tesisat işlerine ilişkin 23/03/2007 tarihli sözleşme imzalandıklarını, bu sözleşmeden sonra ek protokol ile de sözleşme konusu bloklarda arsa sahiplerine ait dairelerin mekanik tesisat işlerinin de davalı ... tarafından üstlenildiğini, davalının bu sözleşme hükümleri gereği alacak iddiası ile davacı aleyhine Üsküdar ....
 

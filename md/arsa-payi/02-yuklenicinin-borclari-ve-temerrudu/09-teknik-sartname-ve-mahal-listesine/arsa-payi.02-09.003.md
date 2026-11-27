@@ -22,6 +22,8 @@ uyari: "Derleyenin seçtiği alıntılardır; kararın tamamı değildir. Künye
 
 ## İstanbul BAM 15. HD 2026/142 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1195871100)
+
 Dava; Asıl dava ve birleşen dava, kat karşılığı inşaat sözleşmesinden kaynaklı ayıptan kaynaklı onarım aksi halde tazminat talebine ilişkin olup, davanın kısmen kabulüne dair karara karşı taraf vekillerince istinaf yoluna başvurulmuştur.
 
 …
@@ -43,6 +45,8 @@ BAKIRKÖY .... ASLİYE TİCARET MAHKEMESİ'nin .../11/2023 tarih, 2018/... Esas,
 
 ## İstanbul BAM 15. HD 2026/116 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1193002100)
+
 Davacı ... vekili dava dilekçesi ile ; davacı ... şirketi ile arsa sahibi dava dışı ......... Koop. İle kat karşılığı inşaat sözleşmesi yapıldığını ve davaya konu ... konut projesine başlandığını, bu kapsamda davalı ... şirketi ile B/1 ve B2 Blok mekanik tesisat işlerine ilişkin 23/03/2007 tarihli sözleşme imzalandıklarını, bu sözleşmeden sonra ek protokol ile de sözleşme konusu bloklarda arsa sahiplerine ait dairelerin mekanik tesisat işlerinin de davalı ... tarafından üstlenildiğini, davalının bu sözleşme hükümleri gereği alacak iddiası ile davacı aleyhine Üsküdar ....
 
 …
@@ -56,6 +60,8 @@ C-Birleşen Kadıköy 3.Asliye Ticaret Mahkemesi'nin 2011/612 Esas sayılı dava
 
 ## İstanbul BAM 3. HD 2025/2434 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1171155300)
+
 Davacı vekili dava dilekçesinde özetle ; davalı- borçlunun , ... abone numarası ile ... Mevki... Fab Bitişiği Göktürk adresinde "Şantiye" kurulması nedeniyle elektrik kullanımı için müvekkili şirket ile "Abonelik Sözleşmesi" imzaladığını, işbu sözleşmeye bağlı olarak tahakkuk eden altı (6) adet ödenmeyen fatura borcu bulunduğunu, ödenmeyen faturaların tahakkuk eden miktarlarının tahsilini gerçekleştirmek amacıyla 28.03.2016 tarihinde, İstanbul 19.
 
 …
@@ -65,6 +71,8 @@ Noterliğinde 13.02.2008 tarih ve ... yevmiye numaralı düzenleme sureti ile sa
 
 ## İstanbul BAM 13. HD 2025/132 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1118742800)
+
 Sözleşmenin 4.2 maddesinde; Davalının, bağımsız bölümün inşaatını ARALIK 2016 Tarihine kadar bitirmeyi ve teknik şartname standartlarında teslim etmeyi taahhüt ettiği, 4.3 maddesinde ise; Davalının, teslimin gecikmesi halinde geciken her gün için bir günlük rayiç kira bedelini ödemeyi taahhüt ettiğinin sabit olduğunu, 4-Diğer taraftan, TBK’nun 23. maddesinde; “Genel işlem koşullarında yer alan bir hüküm, açık ve anlaşılır değilse veya birden çok anlama geliyorsa, düzenleyenin aleyhine ve karşı tarafın lehine yorumlanacağı” açıkça düzenlenmiş, TBK’nun 21/1. maddesinde ise; “Karşı tarafın menfaatine aykırı genel işlem koşullarının sözleşmenin kapsamına girmesi, sözleşmenin yapılması sırasında düzenleyenin karşı tarafa, bu koşulların varlığı hakkında açıkça bilgi verip, bunların içeriğini öğrenme imkanı sağlamasına ve karşı tarafın da bu koşulları kabul etmesine bağlıdır. Aksi takdirde, genel işlem koşullarının yazılmamış sayılacağı” belirtilmiştir. 5-TBK.’nun 23 ve 21/1 maddeleri ile sözleşmenin 4.1 maddesi birlikte değerlendirildiğinde;
 Tacir olan satıcının, mücbir sebep olarak ileri sürdüğü savunmanın ve Yerel Mahkeme gerekçesinin, sözleşmenin 4.1 maddesinde üstlendiği garanti sorumluluğu karşısında hiçbir hukuki değerinin bulunmadığı, sözleşmenin 4.1 maddesi ile çelişir nitelikteki diğer sözleşme hükümlerinin de, TBK.’nun 23 ve 21/1 maddeleri gereğince davacı aleyhine yorumlanamayacağı ve yazılmamış sayılacağını,Belirtilen nedenlerle; TBK.’nun genel işlem koşullarına yönelik açık düzenlemesi ve sözleşmenin 4.1 maddesi gözardı edilerek, somut olaya uygun düşmeyen gerekçelerle davanın reddine karar verilmesinin usul ve kanuna tümüyle aykırı olduğunu, İleri sürerek, ilk derece mahkemesi kararının kaldırılarak davanın kabulüne karar verilmesini talep etmiştir.
 
@@ -73,6 +81,8 @@ Tacir olan satıcının, mücbir sebep olarak ileri sürdüğü savunmanın ve Y
 HÜKÜM:Yukarıda açıklanan nedenlerle; 1-Davacının istinaf başvurusunun KABULÜ ile; İstanbul 10. Asliye Ticaret Mahkemesi'nin 08/03/2022 Tarih ve 2018/200 Esas - 2022/140 Karar sayılı kararının HMK'nın 353/1-a6 maddesi uyarınca KALDIRILMASINA …
 
 ## Ankara BAM 22. HD 2024/1657 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1101758000)
 
 Davalı vekili cevap dilekçesinde özetle; taraflar arasında bağımsız bölümün brüt ve net m2 taahhüdünü içeren bir sözleşme olmadığını, davacının bağımsız bölümü proje aşamasında değil ofis bittikten ve ortaya çıktıktan sonra gezerek, görerek, her türlü incelemeleri yaparak, bağımsız bölümün bütün niteliklerini bilerek ve beğenerek satın aldığını, kanunda öngörülen resmi şekle uyulmaksızın yapılan gayrimenkul satış vaadi sözleşmesinin geçersiz olduğunu, bu sözleşmeye dayanarak hak ve alacak talebinde bulunulamayacağını, sözleşmenin kapak sayfasında Yaklaşık Brüt Metrekare şeklinde bir ibare bulunduğunu, bu ibarenin kesinlik arz etmediğini savunarak davanın reddine karar verilmesini istemiştir.
 
@@ -86,6 +96,8 @@ Dava, alacak istemine ilişkindir.
 
 ## İstanbul BAM 13. HD 2024/1595 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1078730700)
+
 Şirketi ile davalı arasında, davacı ... Şerketi ile birleştiği anlaşılan ... Şirketi ile davalı arasında yapılan taşınmaz satış sözleşmesi başlıklı anlaşmanın 6.maddesi ile yetki sözleşmesi yapılarak İstanbul Mahkeme ve icra dairelerinin yetkili kılındığı göz önüne alındığında, anılan sözleşmenin 6.maddesi, Hukuk Muhakemeleri Yasasının 17.maddesi birlikte değerlendirildiğinde yetki itirazı yerinde olmadığından, itirazın reddine oy birliğiyle karar verilmiştir. Taraflarca gösterilen deliler toplanmış, taşınmaz satış sözleşmelerinin asılları, konut teslim teknik şartnamesi örnekleri, şirketlerin birleşmesine ilişkin kayıt ve belgeler, ihtarnamenin örneği, fatura örnekleri, şirketlerin sicil kayıtlarının, tapu kayıtları, Adana 3.Asliye Ticaret Mahkemesinin Adana 3 ATM'nin 2017/2737, 2739, 2688 esas sayılı dosyalarının birer örneği, dava konusu çeklere ilişkin ibraz ve ödeme bilgilerini gösterir muhatap ...
 A.Ş.'nin cevabı yazısı, davacı vekilince sunulan hukuki mütalaa dosya arasına alınmıştır.Adana 3 ATM'nin 2017/2737, 2739, 2688 esas sayılı dosyaları incelendiğinde; davamızın da dayanağını teşkil eden sözleşmelere konu başkaca çekler nedeniyle açılmış menfi tespit davaları olduğu tespit edilmiştir.... A.Ş'ye yazılan yazıya cevabı ile dava konusu dört adet çekin ibraz anındaki önlü arkalı görüntülerinin gönderildiği anlaşılmış, anılan çek görüntüleri incelendiğinde, davalının çek üzerinde lehdar veya ciranta olarak görünmediği tespit olunmuştur. Dava, davacı şirketler ile davalı arasında yapılan taşınmaz satış sözleşmelerine konu bağımsız bölümlerde yer alan villaların sözleşmelere ve eki teknik şartnamelere uygun olarak ve zamanında teslim edilmediği iddiası ile dava konusu dört adet çekin bedelsiz kaldığının ve bu çeklerden ötürü davacıların davalıya borçlu olmadıklarının tespiti, gecikme nedeniyle mahrum kalınan kira bedelleri(kazanç kaybı) nedeniyle tazminatın davalıdan tahsili ile davacı şirketlere verilmesi istemlerine ilişkindir. Davalı ile davacı ...
 
@@ -94,6 +106,8 @@ A.Ş.'nin cevabı yazısı, davacı vekilince sunulan hukuki mütalaa dosya aras
 HÜKÜM :Yukarıda açıklanan nedenlerle; 1-Davacıların istinaf başvurusunun 6100 sayılı HMK'nın 353/1-b-1 maddesi gereğince ayrı ayrı ESASTAN REDDİNE …
 
 ## İstanbul BAM 15. HD 2024/1205 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1102293400)
 
 Maddesinin sözleşmenin konusu başlığı altında; "arsa sahibinin; İstanbul ili, Üsküdar İlçesi ...
 Mahallesi,... pafta, ... ada , ... parsel sayılı taşınmaz üzerinde, yüklenici tarafından gerekli plan tadilatları yapıldıktan sonra yüklenicinin cari imar durumuna göre çizdireceği avan veya taslak projenin, arsa sahibi tarafından onayını takiben, yine yüklenicinin ilgili belediyelere onaylatacağı proje ve ruhsat ile işbu sözleşme ve eki teknik şartnameye uygun olarak binaların "Kat karşılığı" ve "..." esasına göre yüklenici tarafından inşaa edilmesi işi olduğu, "4. madesinin tarafların karşılıklı hak ve yükümlülükleri başlığı altında" Yüklenici arsa üzerine plan tadilatlarını yaptıktan sonra geçerli imar durumu ile tasdikli projesine ve işbu sözleşme ile teknik şartnameye uygun olarak avan projede belirtilecek sayıda daireden oluşacak konut ve ticari niteliğinde binaları, "kat karşılığı" ve "anahtar teslimi" esasına göre inşaa ederek işbu sözleşmede arsa sahibine ait olacağı kabul edilen bağımsız bölümleri arsa sahibine teslim etmeyi, buna karşılıkta arsa sahibi de arsanın tamamını tevsian 100 (yüz) hisse itibar ederek ve bu suretle sahibi bulunduğu toplam 100/100 hissenin 58/100 hissesini uhdesinde bırakarak mütebaki 42/100 hissesini, inşaat ruhsatını alınmasını müteakip 15 gün
@@ -109,6 +123,8 @@ sayılacak ve akit tek taraflı olarak fesih edileceği, f)cezai şart başlığ
 dolmasından 31 ay önce açıldığı şeklinde belirtildiğini, mahkemenin bu değerlendirmesinin tamamen hatalı olduğunu, sözleşmede inşaat süresi olan 30 ayalık süreden ayrı bir ruhsat alım süresi kararlaştırıldığını ve müvekkiline tek taraflı fesih hakkı verildiğini, imar uygulaması işlemelerinin 28.11.2016 tarihinde kesinleşerek Üsküdar Belediyesi de yeni imar durumuna göre imar durum belgesi ve ekinde inşaat ruhsatı için gereken evrakları davalı yükleniciye 29.11.2016 tarihinde tebliğ ettiğini, müvekkilinin 65 gün sonra 03.02.2017 tarihinde sözleşmenin müvekkilince feshedildiğini, 85 gün sonra da 23.02.2017 tarihinde vekaletin müvekkilince iptal edildiğini, davalının 85 günlük inşaat ruhsatı alabileceği makul süresi olduğunu fakat davalının hiç bir işlem yapmadığını, mahkeme kararında ruhsat alımına engel bir halin olmaması durumunda yüklenicinin eseri teslim borcunun 26.09.2019 tarihinde dolduğu ve dava tarihi itibariyle davalı yüklenicinin temerrüdü oluşmadığı arsa sahibinin edim talebinde bulunabilmesi için Üsküdar Belediyesinin yazısında belirttiği şerh ve irtifakın kaldırılması gerektiği geriye etkili feshin şartlarının oluşmadığı gerekçesiyle davanın reddine karar verdiğini …
 
 ## Ankara BAM 22. HD 2024/866 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1043199700)
 
 Davalı kooperatif yargılama katılmadığı gibi cevap da vermemiştir.
 
@@ -133,6 +149,8 @@ devredilmiş olmasının, sözleşmedeki haklarını ayrıca temlik etmediğinde
 
 ## Antalya BAM 7. HD 2024/571 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1033496800)
+
 İlk derece mahkemesi, asıl dava yönünden yapılan değerlendirmede, davaya konu inşaatın tamamlandığı ve 2008 yılında iskan ruhsatı alındığının sabit olduğu, davalı yanın savunmasında, kira alacağı bulunduğunu, ayıplı ve eksik ifada bulunulduğunu beyan ettiği, eser sözleşmesinde yüklenicinin açtığı iş bedelinin tahsili davasında, eserin ayıplı ve eksik olduğu savunması mahsup niteliğinde olduğundan mahkemece resen gözetilmesi gerektiği (aynı yönde Yargıtay 15 HD 2010/3016 E.
 2010/4126 K.), davalının eksik ve ayıplı iş savunmasının sözleşmenin 13. maddesine rağmen inşaatın bu alanda ehliyeti dahi olmayan taşerona devredilmesi, sözleşmenin 6. ve teknik şartnamenin 1. maddesine aykırı olarak 1. sınıf malzeme ve işçilik kullanılması, inşaatın sözleşmede yer alan sürede tamamlanmaması nedeniyle oluşan kira kaybının tahsil edilememesine ilişkin olduğu, öncelikle taşeron firmaya yapılan devre ilişkin iddialar yönünden sözleşmenin 13. maddesinin ele alındığı, anılan maddenin davacının yüklenici sıfatını devri anlamına gelebilecek tümden devri yasakladığı, aynı maddede yüklenicinin kendi adına taşeronluk anlaşması yapabileceği, ancak davalı arsa malikine karşı sorumluluğun davacıda olduğunun kararlaştırıldığı, yasak kapsamında bir devir yapıldığı yönünde delil bulunmadığından bu savunmanın yerinde görülmediği, geç teslim nedeniyle kira alacağı savunması yönünden, davalı bu kalemin ödemezlik def'i kapsamında ileri sürülen bir kalem olduğunu ileri sürmüş ise de, bu hususun ''ayıplı ve eksik iş'' kapsamında kalmadığı, bu nedenle cevap dilekçesinde savunma olarak öne sürülmesi ile hüküm altına alınabilecek bir alacak olmayıp, ayrı bir dava ile ileri sürülmediği
 takdirde eksik ve ayıplı iş savunması gibi re'sen dikkate alınamayacağı düşüncesi ile bu kalem yönünden mahsup yapılmadığı, sözleşmenin 6 ve teknik şartnamenin 1. maddesine aykırı olarak 1. sınıf malzeme ve işçilik kullanılması savunması yönünden eksik işlerin bulunduğu, Antalya 1. Asliye Hukuk Mahkemesinin ...
@@ -145,6 +163,8 @@ D.İş. dosyası ve mahkemece itibar edilen 24/04/2018 ve 06/05/2019 tarihli rap
 Yerel mahkemenin, Antalya 2.Asliye Ticaret Mahkemesinin ... Esas sayılı dosyası ve Antalya 5.Asliye Hukuk Mahkemesinin ... Esas sayılı dosyası üzerinden açılan davalarda verdiği kararların esası incelenmeksizin ORTADAN KALDIRILMASINA ve davanın yeniden görülmesi için dosyanın kararı veren mahkemeye GÖNDERİLMESİNE …
 
 ## İstanbul BAM 15. HD 2024/437 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1034920800)
 
 Maddesinde ise, sözleşmeye konu ürünlerin çeşitlilik arzmesi kapsamında malzeme listesinin fiyatlandırılmasında karşılıklı anlaşmanın sağlanması gerektiği misalen ihtiyaç duyulacak piyasa değeri 100 Tl olan bir kapı tokmağının 500,00 Tl olarak fiyatlandırılmasının önüne geçilmesi amacıyla karşılıklı bir anlaşmanın sağlanması gerektiğinden bahsedilerek anlaşmanın sağlanamaması durumunda anlaşmaya dayalı olarak verilen malzeme + sözleşmenin birinci maddesindeki mahsup bedeli düşüldükten böylece alacak ve verecek sıfırlandıktan sonra kalan dairelerin iade edileceği karar altına alındığını, davacı şirket taşere aldığı işi gerçekleştirmek amacıyla davalı firmadan malzeme alımı konusunda anlaşmış, malzeme bedeli içerisine bir kısım firmaların ( ...-...) önceye dayalı borçları da etlenerek ayni ifada (daire karşılığı ) bulunulduğunu, buna karşın davalı şirket sözleşmeye uygun ifada bulunmadığını, sözleşme bedeli karşılığı taahhüdünü yerine getirmediğini, sözleşmenin 3.
 Maddesi kapsamında taraflar arasında anlaşmazlık halinde karşılıklı borçlar sıfırlanarak davalı elinde kalan daireler aynen yada bedeli davacıya iade edilmesi gerektiğini, davalı şirkete verilen dairelerin her biri 2.500.000,00 TL üzerinde olduğunu, sözleşme 3. Maddesine göre alacaklı bulunduklarını, satıcı davalı firma, alıcı davacı firmanın bu yüzden uğradığı zararları gidermesi gerektiğini belirterek şimdilik 100.000,00 TL tahsilini talep ve dava etmiştir. Davalı vekili, davacı taraf ile davalı şirket arasında imzalanmış bir alım satım sözleşmesi bulunmadığını, yine davacı ile müvekkili arasında alım satıma dair fatura irsaliye ve benzeri ticari ilişkinin varlığını gösterir delillerde bulunmadığını, dava dışı 5-6 şirketin kayıt ve belgelerinin incelenerek davalı şirketin borçlu olduğunu ispata çalışmakta olduğunu, dava dışı şirketler olan ... Gayrimankul A.Ş., ... Mobilya Ltd. Şti., ...

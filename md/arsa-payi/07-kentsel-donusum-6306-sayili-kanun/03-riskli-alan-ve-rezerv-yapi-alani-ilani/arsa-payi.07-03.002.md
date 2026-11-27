@@ -22,10 +22,14 @@ uyari: "Derleyenin seçtiği alıntılardır; kararın tamamı değildir. Künye
 
 ## Danıştay İDDK 2020/2571 E., 2020/1814 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/634020100)
+
 Dosyanın incelenmesinden; davacı ... tarafından, İstanbul İli, Gaziosmanpaşa İlçesinde ilan edilen riskli alan sınırları içerisindeki taşınmazların acele kamulaştırılmasına ilişkin ... tarih ve ... sayılı Bakanlar Kurulu kararının, ... Mahallesi, ... pafta, ... ada, ... parsel sayılı taşınmaz yönünden iptali istemiyle açılan bu davada; Danıştay Altıncı Dairesinin 05/06/2017 tarih ve E:2016/13865, K:2017/4469 sayılı kararıyla davanın ehliyet yönünden reddine karar verildiği, bu kararın adı geçen davacı tarafından temyiz edilmesi üzerine, Danıştay İdari Dava Daireleri Kurulunun 19/06/2018 tarih ve E:2018/1681, K:2018/3247 sayılı kararıyla, temyiz isteminin süre aşımı nedeniyle reddine karar verildiği, bu kararın tebliği üzerine, davacı tarafından, 19/08/2020 tarihinde Danıştay kayıtlarına giren ve Danıştay İdari Dava Daireleri Kuruluna hitaben düzenlenen dilekçe ile, Daire kararının usulüne uygun tebliğ edilmediği, tebligat nüshasında adresi olarak gösterilen ...
 Sokak diye bir sokağın bulunmadığı, tebligatın muhtara da ulaştırılmadığı, süresi içerisinde temyize başvurma hakkının elinden alındığı, ayrıca Gaziosmanpaşa Belediyesinin internet sitesinde yayımlanan 01/05/2016 tarihli yazının yeni delil niteliğinde olduğu ve anılan Belediyenin bu yazıyla Kanun'da belirtilen nedenlere ve koşullara uygun davranmayacağını kamuoyuna açıkladığı, bu nedenle 2577 sayılı İdari Yargılama Usulü Kanunu'nun 53. maddesindeki şartların gerçekleştiği gerekçesiyle, temyiz isteminin süre aşımı nedeniyle reddi yolundaki Danıştay İdari Dava Daireleri Kurulunun 19/06/2018 tarih ve E:2018/1681, K:2018/3247 sayılı kararının yargılamanın yenilenmesi yoluyla ortadan kaldırılarak dava konusu edilen acele kamulaştırma işleminin iptaline karar verilmesinin istenildiği anlaşılmaktadır.
 
 ## Danıştay İDDK 2017/397 E., 2017/1818 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/555956300)
 
 Nitekim, 6306 sayılı Kanun'da, bu Kanun uyarınca tesis edilmiş işlemlere karşı dava açma süresinin hesabında "tebliğ" tarihinin esas alınacağına dair 6/9. maddesindeki hüküm ile anılan Kanun'da, zemin yapısı veya üzerindeki yapılaşma sebebiyle can ve mal kaybına yol açma riski taşıyan alanların "Risli Alan" olarak belirlenmesine ilişkin Bakanlar Kurulu kararlarının Resmi Gazete'de yayımlanmasının zorunlu olduğuna veya Resmî Gazete'de yayımlanmış olmasının ilgililere tebliğ hükmünde olduğuna dair bir kurala yer verilmemiş olması da bunu doğrulamaktadır. Ayrıca, riskli alan belirlenmesi ve sonrasında tesis edilen işlemlerin Anayasa'da yer alan bir temel hak ve özgürlük olan mülkiyet hakkını kısıtlayıcı nitelikte sonuçlar doğuracak olması itibarıyla, yazılı bildirim yapılması, Anayasa'da güvence altına alınmış olan hak arama özgürlüğünün de gereğidir.
 
@@ -36,6 +40,8 @@ Bu çerçevede, içeriği itibarıyla muhataplara tebliği zorunlu olan, zemin y
 Açıklanan nedenlerle, davacılardan 'ın temyiz isteminin kabulüne, Danıştay Ondördüncü Dairesinin 12/10/2016 günlü, E:2016/6881, K:2016/5517 sayılı kararının, davanın süre aşımı nedeniyle reddine ilişkin kısmının BOZULMASINA …
 
 ## Danıştay İDDK 2014/5776 E., 2015/3204 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/343869700)
 
 Her ne kadar, davacı, dava konusu Bakanlar Kurulu kararından hangi tarihte haberdar olduğunu net olarak belirtmemiş ise de, davacının taşınmazının Bakanlar Kurulu kararıyla riskli alan olarak belirlenen alan kapsamında bulunduğunu bildiren yazının düzenlendiği 21/06/2013 tarihi öğrenme tarihi olarak dikkate alındığında, Bakanlar Kurulu kararına karşı bu tarihten itibaren 6306 sayılı Kanun'un 6/9 maddesinde belirtilen 30 günlük dava açma süresi içinde 12/07/2013 tarihinde açılan bu davada süre aşımı bulunmadığı sonucuna varılmıştır.
 
@@ -76,6 +82,8 @@ Dava konusu işlemin yukarıda özetlenen gerekçeyle iptali, fazladan tahsil ed
 
 ## Danıştay 4. D. 2023/11167 E., 2025/4771 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1189316600)
+
 MÜDAHİLİN SAVUNMASI : Kültür ve Turizm Bakanlığı tarafından;
 Anayasanın 63. maddesinin birinci fıkrasında tarih, kültür ve tabiat varlıklarının ve değerlerinin korunmasını sağlamak, bu amaçla destekleyici ve teşvik edici tedbirleri almak görevlerinin Devlete verildiği, anılan maddenin ikinci fıkrasında ise bu varlıklar ve değerlerden özel mülkiyet konusu olanlara getirilecek sınırlamalar ve bu nedenle hak sahiplerine yapılacak yardımlar ve tanınacak muafiyetlerin Kanunla düzenleneceğinin hüküm altına alındığı, bu doğrultuda yürürlüğe giren 2863 sayılı Kültür ve Tabiat Varlıklarını Koruma Kanunu ile ülkemizde bulunan kültür varlıklarını tespit ve koruma yetkisi ile görevinin Kültür ve Turizm Bakanlığına verildiği, yine anılan Kanun ile kültür varlıklarının korunması amacıyla imar planı yapılmasının zorunlu hale getirildiği, koruma amaçlı imar planlarının ise 3194 sayılı İmar Kanunu ve ilgili mevzuatı ile hazırlanan imar planlarından farklı olup, özel nitelikteki alanlarda yapılıyor olması nedeniyle daha detaylı bir araştırma ve analiz gerektiren mekânsal düzenlemeler olduğu, riskli alan ilanına konu Antakya'nın kültürel ve tarihi nitelikleri dolayısıyla yeniden ihyası için kurumsal altyapı, kapasite ve tecrübesi nedeniyle Kültür ve Turizm
 Bakanlığının koordinatörlüğünün bir gereklilik olduğu, alandaki kültür varlıklarının 6306 sayılı Kanun yerine 5366 sayılı Kanun kapsamında korunmasının sağlanması gerektiği yönünde görüş var ise de; 5366 sayılı Kanunun "yıpranan ve özelliğini kaybetmeye yüz tutmuş kültür varlıklarını ihya etmek" amacını taşıdığı;
@@ -83,6 +91,8 @@ Bakanlığının koordinatörlüğünün bir gereklilik olduğu, alandaki kült�
 uygulanabilir olmadığı, diğer yandan, 6306 sayılı Kanunun, riskli alan ilan edilen yerler için her türlü harita, plan, proje vb. düzenleme yapma yetkisini ve bu yetkiyi başka Bakanlıklara devretme yetkisini Çevre, Şehircilik ve İklim Değişikliği Bakanlığına tanıdığı, böylelikle 5366 sayılı Kanunun yetki verdiği yerel idaredeki kısıtlı imkanlardan ziyade Bakanlıklar eliyle depremin etkilerinin ivedilikle ortadan kaldırılması ve kültürel varlıkların ihyası için 6306 sayılı Kanunun bir gereklilik olduğu, 6306 sayılı Kanunun 9. maddesi uyarınca, kültürel varlıkların bulunduğu bölgede riskli alan ilan edilmesi ve alanda uygulama yapılabilmesi hakkında Kültür ve Turizm Bakanlığının olumlu görüşünün de bulunduğu, bu nedenlerle; riskli alan ilan edilmesi sürecinde mevzuata aykırı bir hususun bulunmadığı, Antakya Tarihi Kent Merkezinin 6306 sayılı Kanun kapsamına alınmasının 2863 sayılı Kanun kapsamında kalan sit alanlarının, tescilli taşınmaz kültür varlıklarının korunması ve ihyası açısından olumlu ve yerinde bir yaklaşım olduğu, davanın reddine karar verilmesi gerektiği belirtilmiştir.
 
 ## Danıştay 6. D. 2024/1173 E., 2025/4647 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1188690000)
 
 Bölge İdare Mahkemesi İdari Dava Dairesi kararının özeti: İdari Dava Dairesince verilen kararda; özellikle bitişik parsel ya da mahalle sakini sıfatı ile açılan davalar da dahil olmak üzere dava açma ehliyeti bakımından yapılacak değerlendirmede, dava konusu işlem ile davacı/lar arasındaki menfaat bağının davacı/lar tarafından ileri sürülen hukuka aykırılık iddialarıyla sınırlı olarak incelenmesi gerektiği bakılan davada, davacıların bağımsız bölüm maliki oldukları İstanbul İli, Eyüpsultan İlçesi, ... Mahallesi ... ve ... parsel sayılı taşınmazların rezerv yapı alanı ve buna dayalı şekilde hazırlanan imar planlarının sınırları dahilinde yer almadığı, davacılar tarafından dava dilekçesinde esas itibariyle taşınmazlarının komşuluğunda bulunan söz konusu alanda davalı idarenin plan yapma yetkisinin olmadığı ve alanın yapılaşmaya açılmasının şehircilik ilke ve esasları ile kamu yararına aykırı olduğu yönünde hukuka aykırılık iddialarına yer verildiği, davalı idarenin alanda plan yapımında yetkili olmasını sağlayan ve ...
 Mahallesindeki muhtelif parselleri kapsayan alanın yapılaşmaya açılmasını öngören kararın ise 6306 sayılı Afet Riski Altındaki Alanların Dönüştürülmesi Hakkında Kanun hükümleri uyarınca alanın "rezerv yapı alanı" ilan edilmesine dair Çevre, Şehircilik ve İklim Değişikliği Bakanlığının ... tarihli, ... sayılı işlemi olduğu, davacılar tarafından bu işlemin iptali istemiyle açılan davada ise;...İdare Mahkemesinin ... tarih ve E:..., K:... sayılı kararı ile "... davanın, İstanbul İli, Eyüpsultan İlçesi, ... Mahallesi...Yerleşkesini içine alan ... ada, ... parsel ile ..., ..., ..., ..., ..., ..., ..., ..., ..., ..., ..., ..., ...,..., ..., ..., ..., ..., ..., ... sayılı parselleri kapsayan alanın Çevre, Şehircilik ve İklim Değişikliği Bakanlığının... tarihli,...sayılı kararıyla “rezerv yapı alanı” ilan edilmesine ilişkin tesis edilen işlemin iptali istemiyle açıldığı anlaşılmakla birlikte; 6306 sayılı Kanun'daki tanımından hareketle rezerv yapı alanı ilanının tek başına doğrudan doğruya bölgede fiziki bir değişikliğe yol açmadığı gibi, davacıların ...
@@ -111,6 +121,8 @@ Mahkeme kararına yönelik olarak yapılan istinaf başvurusunun kabulü ile an�
 
 ## Danıştay 4. D. 2023/11302 E., 2025/3280 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1187334500)
+
 DAVANIN KONUSU: Hatay ili, Antakya ilçesinde bulunan ve ekli kroki ile listede sınır ve koordinatları gösterilen alanların 6306 sayılı Afet Riski Altındaki Alanların Dönüştürülmesi Hakkında Kanunun 2. maddesi uyarınca riskli alan ilan edilmesine ilişkin 05/04/2023 tarihli, 32154 sayılı Resmi Gazete'de yayımlanan 04/04/2023 tarihli ve 7033 sayılı Cumhurbaşkanı kararının iptali istenilmektedir.
 
 DAVACININ İDDİALARI: Dava konusu riskli alan sınırları içerisinde kalan ve ticarethane, iş merkezi olarak kullanılan taşınmazlarının imar mevzuatına uygun olarak yapıldığı, depremde yıkılmadığı, az hasarlı ve tadilat ile kullanılabilir durumda olduğu, dolayısıyla dava konusu kararın kendi taşınmazları yönünden uygulanamayacağı, Hatay'ın ekonomik yönden kalkınması içinde bu taşınmazların yıkılmayıp korunması gerektiği, ayrıca riskli alan kararının bilimsellikten uzak olduğu, Kentsel ve Arkeolojik Sit alanı olan Kültür ve Turizm Bakanlığı tarafından korunan bölgenin bu Bakanlığın yetkisinden çıkarılarak bu karar ile Çevre, Şehircilik ve İklim Değişikliği Bakanlığına devredilmesinin 6306 sayılı Kanunun amacına uygun olmadığı, ayrıca dava konusu işlemin anılan Kanun ve Uygulama Yönetmeliğinde belirtilen teknik ve usullere ayrıca emsal yargı kararlarına aykırı düzenlendiği, Anayasada tanımlanan mülkiyet ve konut hakkının açıkça ihlaline neden olunduğu, Dünya Kültürel ve Doğal Mirasın Korunması gibi uluslararası sözleşmelere de aykırı olduğu belirtilerek dava konusu işlemin iptali istenilmektedir.
@@ -120,6 +132,8 @@ DAVACININ İDDİALARI: Dava konusu riskli alan sınırları içerisinde kalan ve
 Olayda dava konusu uyuşmazlığın 6306 sayılı Afet Riski Altındaki Alanların Dönüştürülmesi Hakkında Kanun uyarınca riskli alan ilan edilen bölgede kalan taşınmazla ilgili kira yardımı ödemesi talebinden kaynaklandığı, kira yardımına konu taşınmazın ise Mardin ili, Nusaybin ilçesinde bulunduğu ve taşınmazlar ile ilgili uyuşmazlıklarda özel yetki kuralının getiriliş amacının uyuşmazlığın kaynağı olan taşınmazlara kolayca erişilebilmesi olduğu göz önüne alındığında, işbu uyuşmazlığın görüm ve çözümünün, özel yetki kuralını düzenleyen 2577 sayılı Kanun'un 34. maddesinin 1. fıkrası uyarınca, taşınmazın bulunduğu yer idare mahkemesi olan Mardin İdare Mahkemesinin yetkisinde olduğu sonucuna varılmaktadır.
 
 ## Danıştay 6. D. 2024/2849 E., 2025/2806 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1186205100)
 
 İlk Derece Mahkemesi kararının özeti:... İdare Mahkemesince verilen... tarih ve E:..., K:...sayılı kararda; 648 sayılı parsele ilişkin rezerv yapı alanı ilanı ile bu alana yönelik onaylanan 1/25.000 ve 1/5.000 ölçekli nazım imar planları ile 1/1000 ölçekli uygulama imar planının iptali istemiyle açılan davada Mahkemenin ... tarihli ve E:..., K:... sayılı kararıyla söz konusu işlemlerin iptaline karar verildiğinden dayanaksız kaldığı anlaşılan dava konusu işlemde hukuka uyarlık bulunmadığı gerekçesiyle iptaline karar verilmiştir.
 
@@ -137,6 +151,8 @@ Dosyanın incelenmesinden; davanın, İstanbul ili, Gaziosmanpaşa ilçesi, ... 
 
 ## Danıştay 6. D. 2024/6600 E., 2025/2185 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1161417200)
+
 Rezerv yapı alanı olarak ilan edilen bir alanın statüsünün değişeceğinin ve rezerv yapı alanı olarak ilan edildikten sonra alanda yapılan imar planı değişikliğinin istisnai bir dayanağı ve planlama sürecine tabi olduğundan, dayanağı rezerv yapı alanı kararı olmayan bir imar planı gibi değerlendirilemeyeceğinin kabulü gerekmektedir.
 
 …
@@ -145,11 +161,15 @@ Dava konusu işlemin yukarıda özetlenen gerekçeyle iptaline ilişkin Mahkeme 
 
 ## Danıştay 13. D. 2025/918 E., 2025/1543 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1206576900)
+
 Dosyanın incelenmesinden, uyuşmazlığa konu taşınmazın 16/01/2024 tarih ve 5639 sayılı Çevre, Şehircilik ve İklim Değişikliği Bakan Olur'u ile rezerv yapı alanı olarak belirlendiği, 14/02/2024 tarih ve 8780276 sayılı Bakanlık Olur'u ile Kentsel Dönüşüm Başkanlığına devrinin uygun görülmesi üzerine 27/02/2024 tarihinde anılan Başkanlık'a devredildiği, 08/02/2024 tarih ve 8718477 sayılı Çevre, Şehircilik ve İklim Değişikliği Bakanlığı Bakanlık Müşavirliği işlemiyle anılan taşınmazın 6306 sayılı Afet Riski Altındaki Alanların Dönüştürülmesi Hakkında Kanun'un 6. maddesinin beşinci fıkrasının (e) bendi uyarınca satışının uygun görüldüğü, 09/07/2024 tarihinde açık artırma usulüyle satılacağının ilan edildiği, bunun üzerine anılan satış işleminin iptali istemiyle işbu davanın açıldığı anlaşılmıştır.
 
 Bu itibarla, uyuşmazlığın ihalenin iptali isteminden kaynaklandığı, 2577 sayılı Kanun'un 34. maddesinin birinci fıkrası kapsamında imar, kamulaştırma, yıkım, işgal, tahsis, ruhsat ve iskan gibi taşınmaz mallarla ilgili mevzuatın uygulanmasına veya taşınmaza bağlı hak kapsamında bulunan bir işleme yönelik olmadığı anlaşıldığından, uyuşmazlığın çözümünde 2577 sayılı Kanun'un 32. maddesinin birinci fıkrası kapsamındaki genel yetki kuralı uyarınca, dava konusu ihalenin iptaline ilişkin işlemi tesis eden idari merci olan Çevre, Şehircilik ve İklim Değişikliği Bakanlığı Kentsel Dönüşüm Başkanlığının bulunduğu yerdeki Ankara İdare Mahkemesinin yetkili olduğu sonucuna varılmıştır.
 
 ## Danıştay 4. D. 2025/1167 E., 2025/884 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1150771800)
 
 Dosyanın incelenmesinden;
 Çevre ve Şehircilik Bakanlığı Altyapı ve Kentsel Dönüşüm Hizmetleri Genel Müdürlüğü'nün ... tarihli ve ... sayılı olur işlemi ile 6306 sayılı Kanun'un 6. maddesinin (5) no.lu bendi kapsamında, rezerv yapı alanı olarak belirlenen taşınmazlar kapsamında yer alan 27 taşınmazın, ... tarih ve ... sayılı olur işlemi ile davacı kooperatife, 54.239.846,50 TL bedel karşılığında satışına olur verildiği ve ... tarih ve ... sayılı yazısı ile gereği için Tekirdağ Valiliği'ne iletilmesi üzerine 08/07/2019 tarihli yazı ile taşınmazların satış bedeli olarak belirlenen meblağın, taşınmazların bulunduğu alana dair projenin sunulup 313 no.lu Milli Emlak Genel Tebliği'nin IX. maddesinin (2) no.lu bendinde yazılı (15 günlük) süre içerisinde yatırması hususunun davacıya yapılan tebliğ ile bildirildiği, 09/07/2019 tarihinde 22.000.000,00 TL'lik bir ödeme yapan davacı kooperatifin 17/07/2019 tarihli dilekçesi ile; finansman güçlüğü sebebiyle ve Dönüşüm Projeleri Özel Hesabı Yönetmeliği'nin 25. maddesinde değişiklik yapıldığı gerekçelerine dayanılarak, kalan tutarının kanuni faiziyle birlikte (24) aylık taksitler halinde ödenmesine yönelik talebinin ... tarih ve ... sayılı ilgili Genel Müdürlük işlemi ile
@@ -162,6 +182,8 @@ Buna göre Çevre ve Şehircilik Bakanlığı'nın; bazı taşınmaz alanların�
 Temyize konu ... Bölge İdare Mahkemesi ... İdare Dava Dairesinin ... tarih ve E:..., K:... sayılı kararının yukarıda belirtilen gerekçeyle ONANMASINA …
 
 ## Danıştay 4. D. 2023/13474 E., 2025/724 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1205972800)
 
 DAVANIN KONUSU : 24/08/2023 tarih ve 32289 sayılı Resmi Gazete'de yayımlanan 6306 sayılı Afet Riski Altındaki Alanların Dönüştürülmesi Hakkında Kanunun Uygulama Yönetmeliğinde Değişiklik Yapılmasına Dair Yönetmelik'in 1. maddesi ile değiştirilen anılan Yönetmeliğin 4. maddesinin birinci fıkrasının (ç) bendinin ve 24/08/2023 tarih ve 32289 sayılı Resmi Gazete'de yayımlanan 6306 sayılı Afet Riski Altındaki Alanların Dönüştürülmesi Hakkında Kanunun Uygulama Yönetmeliğinde Değişiklik Yapılmasına Dair Yönetmelik'in 2. maddesi ile değiştirilen anılan Yönetmeliğin 15/A maddesinin sekizinci, ondördüncü ve onbeşinci fıkralarının iptali talep edilmiştir.
 

@@ -21,6 +21,8 @@ uyari: "Derleyenin seçtiği alıntılardır; kararın tamamı değildir. Künye
 
 ## Yargıtay HGK 2025/367 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1163332800)
+
 Bu nedenle takip alacaklısının, şikayet konusu olan Ankara 2. İcra Müdürlüğünün 2019/13174 E. sayılı takip dosyasından gönderilen haciz müzekkeresi ile adi ortaklığın alacaklı olarak yer aldığı Ankara 29. İcra Müdürlüğünün 2019/15534 Esas sayılı takip dosyasındaki alacağı haczetmesi mümkün değildir. Her ne kadar Bölge Adliye Mahkemesince, takip konusu borcun adi ortaklığın borcu olması nedeniyle adi ortaklığa ait mal ve haklara haciz konulabileceği gerekçesine dayanılarak haczin kaldırılması talebinin reddine hükmedilmiş ise de; takip konusu borcun ortaklardan birinin üçüncü kişiye olan borcu olması ile borcun adi ortaklığın bizzat faaliyetinden kaynaklanması arasında bir fark olmayıp, kanunda da böyle bir ayrıma gidilmemiştir. Adi ortaklığı oluşturan her bir ortak ayrı ayrı takip borcunun tamamından tüm mal varlığı ile sorumlu olup, alacaklı, alacağının tahsili için ancak İİK’nın 94. maddesi çerçevesinde her bir borçlu ortağın ortaklıktaki hissesinin ayrı ayrı haczini isteyebilir. Ortaklığın malı (elbirliği hâlinde ortaklara ait olan mal) üzerine haciz konulmasını isteyemez.
 
 Özetle; adi şirket mal, hak ve alacakları ortaklarca birlikte tasarruf edilebildiğinden ve İİK’nın 94. maddesinde hisse haczi, TBK’nın 638/2. maddesinde ise tasfiye payı haczi düzenlenmiş olup, takip konusu borcun ortaklığın borcu olması hâlinde, ortaklığa ait mal, hak ve alacaklar üzerine münferiden haciz konulabileceğine ilişkin bir düzenleme öngörülmediğinden, adi ortaklığın yaptığı iş nedeniyle üçüncü kişi nezdindeki ya da başka bir takip dosyasındaki alacaklarına doğrudan müzekkere ile haciz konulamaz. Kaldı ki somut uyuşmazlıkta, adi şirket takipte borçlu gösterilerek, adi şirketin borcu için adi şirketin başka bir takip dosyasındaki alacağının haczi maksadıyla haciz müzekkeresi gönderilmiş ise de, Bölge Adliye Mahkemesince verilen kararda adi şirket yönünden takip iptal edildiğinden, adi şirket adına diğer takip dosyasına gönderilen haciz müzekkeresinin de iptali gerekir.
@@ -28,6 +30,8 @@ Bu nedenle takip alacaklısının, şikayet konusu olan Ankara 2. İcra Müdürl
 O halde Bölge Adliye Mahkemesince; şikayete konu haciz müzekkeresinin, taraf kısmına tüzel kişiliği bulunmayan adi ortaklık yazılmak suretiyle düzenlendiği ve bu nedenle şeklen de hukuka aykırı olduğu hususu da nazara alınarak, yukarıda yazılı gerekçelerle borçluların istinaf başvurularının tümünün kabulüne karar verilmesi gerekirken yazılı şekilde hüküm tesisi isabetsizdir..." gerekçesiyle karar bozulmuştur.
 
 ## Yargıtay HGK 2021/521 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/686666100)
 
 Adi ortakların, ortaklık çerçevesinde borçlanmaları TBK’nın 638. maddesinin 3. fıkrasında düzenlenmiştir. Her bir ortak ortaklık ilişkisi çerçevesinde üstlendikleri borçtan şahsen, sınırsız ve müteselsilen sorumludur. Bunun aksi de kararlaştırılabilir. Müteselsil sorumluluğun bulunduğu durumda ise TBK'nın 163. maddesinin 1. fıkrası gereğince alacaklı, borcun tamamının veya bir kısmının ifasını dilerse borçluların hepsinden, dilerse yalnız birinden isteyebilir. Bunun sonucu olarak adi ortaklığın alacaklısı alacağını doğrudan ortaklardan da isteyebilir. Bu durumda adi ortaklığın alacaklısının sadece ortağın tasfiye payına gidebileceği anlamı çıkmamaktadır. Aksinin kabulü müteselsil sorumluluk hükümlerine aykırı olur.
 
@@ -37,14 +41,20 @@ TBK’nın 638. maddesinin 3. fıkrasındaki düzenleme gereği ortaklığın bo
 
 ## Yargıtay HGK 2013/432 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/45611700)
+
 Buna göre, adi ortaklıkta, ortağın kişisel alacaklıları borçlu ortağın şirketteki kar payını veya adi ortaklığın tasfiye edilmesi halinde borçluya isabet edecek tasfiye payını haczettirebilir. Ne var ki, henüz adi ortaklığa ait kazancın ortaklar arasında taksim edilmediği veya ortaklığın tasfiyesi halinde borçlu ortağa isabet edecek tasfiye payının belirlenmediği bir aşamada, adi ortaklığın yaptığı işin karşılığında üçüncü kişiden alacağının haczi mümkün değildir.
 
 ## Yargıtay HGK 2005/715 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/77047400)
 
 BK.nun 535/3. maddesi hükmüne göre; Şeriklerden birinin tasfiyedeki hissesi hakkında cebri icra vukuu ile yahut bir şerikin müflis olması veya haczedilmesi ile adi şirket son bulur. Davacı alacaklının adi şirket ortaklardan A... .(doğrusu “A... olacaktır) Ltd. Şti. den şahsi alacağının tahsili için kar ve sermaye payına haciz koydurabilmesi için de, adi ortaklığın fesih ve tasfiye davası açılarak, sonucunda ortakların kar ve tasfiye payının ne miktarda olduğunun saptanması zorunludur. Kar ve tasfiye payı belirlenmeden davacının borçlu şirketin kar ve tasfiye payına haciz koydurabilmesi olanağı bulunmamaktadır. Nitekim davacının, borçlu şirketin Karayolları Genel Müdürlüğündeki hak ve alacakları üzerine haciz konulması talebi üzerine, İcra Müdürünün vaki haciz işlemi, İcra tetkik merciince yapılan şikayet üzerine, İİK.121. maddesi gereğince merciden adi ortaklığın feshi için dava yetkisi alınarak, ilgili mahkemede fesih davası açılarak borçlunun payına düşen kısım haczedileceği halde, bu prosedüre uyulmadan istihkaklara doğrudan haciz konulması yasaya aykırı olduğundan İcra Müdürlüğünün haciz işleminin iptaline karar verilmiştir.
 Hal böyle olunca tarafların delilleri toplanarak, davalı ortakların, ortaklıktaki kar ve tasfiye payları ile alacaklı oldukları miktar, bilirkişi kurulu aracılığıyla tayin ve tespit edilmesi ve adi ortaklığın fesih ve tasfiyesine mahkemece karar verilmelidir. Hukuki nitelendirmede yanılgıya düşülerek yazılı şekilde hüküm kurulmuş olması usul ve yasaya aykırı olup, bozma nedenidir...)
 
 ## Yargıtay 3. HD 2023/1480 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/935860700)
 
 Somut uyuşmazlıkta; taraflar arasındaki adi ortaklığın fesih ve tasfiyesi ile tasfiye payı alacağının tahsili istemiyle, fazlaya ilişkin haklar saklı tutularak açılan kısmi dava niteliğindeki birleşen 2010/577 E. sayılı davada davacının, yabancı para alacağını dava tarihi olan 23.11.2010 tarihindeki kur üzerinden TL karşılığını talep etmek suretiyle seçimlik hakkını bu yönde kullanarak 390.000 TL'nin faiziyle birlikte davalılardan tahsilini talep ettiği; ek dava niteliğindeki birleşen 2020/190 E. sayılı davada ise, 2010/577 E. sayılı davaya konu 390.000 TL'nin dava tarihi olan 23.11.2010 tarihindeki USD karşılığını 266.175,27 USD olarak hesap edip, işbu bedeli toplam tasfiye payı alacağı olan 780.000 USD'den mahsup etmek suretiyle, hesapladığı 518.824,73 USD'nin bu kez 12.08.2020 tarihindeki kur üzerinden TL karşılığını talep ettiği, Mahkemece de taleple bağlı kalınarak hüküm tesis edildiği anlaşılmaktadır.
 
@@ -52,21 +62,31 @@ Hal böyle olunca, Mahkemece ; yukarıda açıklanan maddi ve hukuki olgular çe
 
 ## Yargıtay 3. HD 2020/8006 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/633820800)
+
 Buna göre mahkemece; tarafların marul yetiştirerek kazanç elde etmek üzere bir ortaklık kurdukları gözetilerek konusunda uzman bir ziraat mühendisinin tasfiye memuru olarak atanması, sonrasında tasfiye memuru tarafından TBK’nın 644. madde ve diğer tasfiye hükümleri ile tespit dosyasında belirlenen marul ekilen alan da dikkate alınarak rapor alınması, davalının ortaklık için yaptığı masraflar ile davacının ortaklığa koyduğu sermayenin iade edilmesi, bu aşamadan sonra bir şey artarsa bu kazancın sözleşmede belirtilen oranlarda ortaklar arasında paylaştırılması, ortaklığın davalı tarafından yapılan giderler ödendikten sonra kalan varlığı, davacının koyduğu sermaye payını ödemeye yetmezse zararın paylaştırılması suretiyle tasfiyenin tamamlanması gerekirken, yukarıda açıklandığı üzere gerek tasfiye memurunun atanmaması gerekse tasfiyeye ilişkin diğer işlemlerin yapılmaması suretiyle uyulan bozma kararının gereğinin yerine getirilmemiş olması doğru görülmemiş, bozmayı gerektirmiştir.
 
 ## Yargıtay 12. HD 2019/294 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/485009400)
 
 O halde, adi ortaklıklarda, ortaklardan birinin kişisel borçlarından dolayı hakkında icra takibi yapılması halinde, borçlu ortağın kar veya tasfiye payı belirlenmeden ortaklığa ait mevcut bir hakkın haczine karar verilemeyeceğinden, mahkemece şikayetin kabulü gerekirken, icra dosyasında tahsil edilmiş ücret bulunmadığı bu nedenle iptali gereken bir işlem olmadığı gerekçesi ile şikayetin reddine karar verilmesi isabetsizdir.
 
 ## Yargıtay 3. HD 2018/7461 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/429987500)
+
 Hal böyle olunca, mahkemece; yeniden oluşturulacak tasfiye kurulundan, ortaklık hesabını gösteren belgelerin de incelenmesi suretiyle ortaklığın sona erdiği 17.06.2004 tarihindeki malvarlığı bilançosunu gösterir rapor alınması, sonrasında mal varlığının aktifinin (işletmedeki sabit tesisler vb), pasifini (borçları) karşılayıp karşılamadığının belirlenmesi, aktifin pasifi karşılamaması halinde zararın ortaklar arasında paylaştırılması suretiyle davalı ortağın payına düşen borç miktarının, aksi halde ise ortaklığın borçlarının mahsubu ile geriye kalan miktarın paylaştırılması suretiyle davalı ortağın tasfiye payının belirlenmesi ve ulaşılacak sonuca göre, uyuşmazlığın esası hakkında karar verilmesi gerekirken, hüküm vermeye yeterli olmayan tasfiye kurulu raporları esas alınarak yazılı şekilde karar verilmiş olması doğru görülmemiştir.
 
 ## Yargıtay 3. HD 2016/6557 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/209897700)
+
 Davacı tarafından, adi ortaklığa koyduğu sermaye payı ile tasfiye payının tahsili talep edilmekle, taraflar arasındaki uyuşmazlığın; adi ortaklığın tasfiyesi hükümleri (TBK'nun 620 ve devamı maddeleri) gereğince ve 642.maddelerindeki tasfiye hükümlerinin somut olaya uygulanması suretiyle çözümlenmesi gerekmektedir.
 
 ## Yargıtay 3. HD 2016/2524 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/207771400)
 
 TBK'nun 638/2 maddesi gereğince; ortaklık sözleşmesinde aksine bir hüküm bulunmadıkça, bir ortağın alacaklıları haklarını ancak o ortağın tasfiyedeki hissesi üzerinde kullanabilirler. TBK'nun 639/3. maddesi mucibincede şeriklerden birinin tasfiyedeki payının cebri icra yolu ile paraya çevrilmesiyle şirket nihayet bulur. Bu yasal düzenlemeler gözetildiğinde, adi ortaklıktan ortaklar arasında elbirliği halinde mülkiyet olduğundan ortağın hissesinin haczi mümkün olmayıp, ancak tasfiye payının haczi kabildir. Tasfiye payının haczi için ortakların muvafakatı gerekmediği gibi adi ortaklık sözleşmesindeki ortakların işin bitimine kadar ortaklıktan ayrılamayacaklarına ilişkin kararlaştırma ancak ortaklar arasında hüküm ifade eder. Yasal koşullar oluştuğunda 3.kişi dahi ortaklığın fesih ve tasfiyesini isteyebirler. Bu bağlamda borçlu ortağın tasfiye payına haciz konulabilir. Bir ortağın tasfiye payına haciz konulması ise, adi ortaklığın fesih ve tasfiye sebebidir.
 
@@ -74,28 +94,40 @@ Adi ortaklık ilişkisi, TBK'nun 639.maddesinde sayılan sona erme sebeplerinden
 
 ## Yargıtay 12. HD 2015/25119 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/138105400)
+
 6098 Sayılı Türk Borçlar Kanunu'nun 622-623. maddeleri gereğince adi ortaklıkta her ortak, şirketin kârına iştirak hakkına sahip olduğundan ortağın kişisel alacaklıları, borçlu ortağın şirketteki kâr payını haczettirebilirler. Ayrıca, aynı Kanunun 638. maddesine göre, adi ortaklığın tasfiye edilmesi halinde borçluya isabet edecek tasfiye payının da haczi mümkün bulunmaktadır. Bir diğer anlatımla, bir ortağın şahsi alacaklıları haklarını ancak, o şerikin tasfiye payı üzerinde kullanabilirler. Ne var ki şirket sözleşmesinde bu kuralın aksi de kararlaştırılabilir.
 
 ## Yargıtay 12. HD 2013/11482 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/53633000)
 
 Yukarıda tarih ve numarası yazılı mahkeme kararının müddeti içinde temyizen tetkiki borçlu tarafından istenmesi üzerine bu işle ilgili dosya mahallinden daireye gönderilmiş olup, dava dosyası için Tetkik Hakimi tarafından düzenlenen rapor dinlendikten ve dosya içerisindeki tüm belgeler okunup incelendikten sonra işin gereği görüşülüp düşünüldü : Alacaklı vekili tarafından dava dışı borçlu Ç. Ç.. T. Ticaret Ve San. A.Ş ile şikayetçi borçlu ....Tic. A.Ş hakkında bonoya dayalı olarak kambiyo senetlerine mahsus haciz yoluyla icra takibi yapıldığı, takibin kesinleşmesinden sonra alacaklı vekilinin talebi üzerine icra müdürlüğünce 09.11.2012 tarihinde şikayetçi borçluya müzekkere yazılarak, (takip borçluları Ticaret Ve San. A.Ş ve ....T.San ve Tic. A.Ş.) iş ortaklığındaki borçlu firmanın kar payı ve tasfiye payı üzerine haciz konulmasına karar verildiği, B.K 639/3 maddesi kapsamında haczin tatbiki ile birlikte adi ortaklık son bulmuş olmakla borçlunun kar payı ve tasfiye payına bloke konulması ve açığa çıkan bedellerin bundan böyle dosyaya gönderilmesinin istendiği görülmektedir.
 Borçlu vekili 14.11.2012 tarihinde icra mahkemesine başvurusunda özetle, BK.639/3'de belirtilen şartların gerçekleşmemiş olması nedeniyle icra müdürlüğü işleminin iptaline karar verilmesini talep etmiş, mahkemece “davacı borçlu hakkında, mahkememizin 14/11/2012 tarih 2012/786E.-2012/837K. sayılı ilamıyla takibin iptaline karar verildiği, şikayetin konusuz kaldığı” şeklindeki gerekçe ile şikayetin reddine karar verildiği anlaşılmıştır. Her dava ve şikayet açıldığı tarihteki hukuki durum gözetilerek hükme bağlanır (28.11.1956 tarih ve 15/15 sayılı İ.B.K. ve HGK'nun 17.03.1954 tarih ve 3/40-49 sayılı kararı). Borçlunun kendisine gönderilen haciz müzekkeresini tebliğ aldıktan sonra hakkındaki takibin iptaline karar verilmiş olması, icra dosyasındaki hacizlerin kaldırılması yönünde bir karar verilmediği sürece, icra mahkemesinin, haciz müzekkeresinin sonuçlarına katlanmak zorunda kalacak borçlunun başvurusunu incelemesine engel teşkil etmez. Mahkemece işin esası incelenerek oluşacak sonuca göre karar verilmesi gerekirken, yazılı şekilde hüküm tesisi isabetsizdir.
 
 ## Yargıtay 17. HD 2013/10469 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/617610600)
+
 BK'nin 534.maddesi gereğince adi ortaklığa ait malın haczi mümkün olmayıp,alacaklı ancak borçlunun adi ortaklığın tasfiyesi üzerine tasfiye payını haczebilecektir.Bu durumda mahkemece,istihkak davasının kabulüne karar verilmesi usul ve yasaya uygun olup dairemizin bozma ilamının maddi yanılgıya dayalı olduğu anlaşıldığıdan karar düzeltim isteminin kabulü gerekmiştir.
 
 ## Yargıtay 12. HD 2012/36359 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/57249800)
 
 Yukarıda tarih ve numarası yazılı mahkeme kararının müddeti içinde temyizen tetkiki borçlu tarafından istenmesi üzerine bu işle ilgili dosya mahallinden daireye gönderilmiş olup, dava dosyası için Tetkik Hakimi tarafından düzenlenen rapor dinlendikten ve dosya içerisindeki tüm belgeler okunup incelendikten sonra işin gereği görüşülüp düşünüldü :Alacaklı tarafından bonoya dayalı olarak kambiyo senetlerine mahsus haciz yoluyla icra takibinde, örnek 10 numaralı ödeme emri tebliği üzerine borçlu şirket yasal sürede icra mahkemesine yaptığı başvuruda borçlu şirketin ortağı olduğu adi ortaklığa karşı yapılan takibin iptalini ve hacizlerin kaldırılmasını talep etmiş, mahkemece adi ortaklığa karşı yapılan takibin iptaline, adi ortaklığın borç ve alacaklarının payları oranında ortaklığı oluşturan şirketlere ait olduğundan bahisle haczin kaldırılması talebinin reddine karar verilmiştir.B.K.nun 522-523. maddeleri gereğince adi ortaklıkta her ortak şirketin karına iştirak hakkına sahip olduğundan ortağın kişisel alacaklıları borçlu ortağın şirketteki kar payını İİK. nun 89. maddesine göre haczettirebilirler.
 Ayrıca adi ortaklığın tasfiye edilmesi halinde borçluya isabet edecek tasfiye payının da haczi mümkün bulunmaktadır. Bir diğer anlatımla, bir ortağın alacaklıları haklarını ancak o şerikin tasfiyedeki payı üzerinde kullanabilirler, ne var ki şirket sözleşmesinde bu kuralın aksi de kararlaştırılabilir. Açıklanan bu hükümlere aykırı olarak adi ortaklığın malları üzerine haciz konulması halinde bu husus ortaklardan her biri tarafından şikayet konusu yapılabilir.Somut olayda adi ortaklığın hak edişlerine haciz konulmuştur. Adi ortaklıkta, ortağın alacaklıları ancak ortağın tasfiye payını haczettirebilir. Alacaklı, ortaklığın malı üzerine haciz koyduramaz. BK. 534. maddesine göre bir ortağın alacaklıları haklarını ancak ortağın tasfiyedeki payı üzerinde kullanabilirler. Mahkemece açıklanan nedenlerle adi ortaklık hakkındaki takip iptal edildiğine göre, iptal edilen takip sırasında adi ortaklık alacağı üzerine konulan haczin de iptaline karar verilmesi gerekirken yazılı gerekçe ile red kararı verilmesi isabetsizdir.
 
 ## Yargıtay 12. HD 2012/16287 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/60122000)
+
 Limited şirketlerde ortaklardan birinin kişisel alacaklısı İİK'nun 145.maddesine göre, şirket devam ettiği sürece haklarını borçlu şirket ortağının şahsi mallarından, şirket bilançosu gereği o ortağa düşen kar payından ve şirket fesih olunmuş ise tasfiye payından alabilir. Limited şirketlerde cebri icraya ilişkin koşullar TTK'nun 522 ve 523.maddelerinde düzenlenmiştir. Limited şirketlerde ortağın şahsi borcundan dolayı, ortaklık payının doğrudan haczi mümkün olmayıp, sadece ortağın kar payı, masraf ve avans alacağı veya tasfiye halinde tasfiye bakiyesine katılma hakkı haczedilebilir. TTK'nun 522.maddesinde alacaklıya tanınan borçlu ortağın limited şirketteki hissesini haciz hakkı satış isteme hakkından yoksundur. Zira limited şirketlerde pay kural olarak bölünmez. Ancak bunun istisnası devir veya miras yolu ile intikalde mümkün olup pay önce bölünür, sonra devir veya intikal edilir. Ayrıca pay kavramı ortaklık hak ve yükümlülüklerinin tamamını ifade eder. Bu durumda somut olayda konulan bu haciz esasen ortaklık payı (hissesi) haczi olarak değil şirketin tasfiyesi halinde söz konusu hisseye düşecek olan tasfiye payının haczidir. Aksinin kabulü aşırı şekilcilik olur.
 Zira tasfiye işlemleri sonuçlanıncaya kadar ortağın ortaklık sıfatı devam eder. Bu durumda alacaklı TTK'nun 522 ve 523.maddelerinde belirtilen prosedür çerçevesinde hareket ederek alacağı için en az altı ay önce limited ortaklığın feshini ihbar etmek sureti ile ortaklığın tasfiye bakiyesinden borçlu ortağa düşecek paydan alabilir. Bu durumda alacaklı tarafından haczedilen aslında tasfiye payı olan limited şirket hisse payının cebri icrada açık artırma yolu ile satılması mümkün değildir. Hal böyle iken mahkemece limited şirket hisse payına yönelik şikayetin yukarıda açıklanan sebeplerle reddi gerekirken yazılı şekilde reddi doğru değil ise de sonuçta şikayet reddedildiğinden sonucu doğru kararın onanması gerekmiştir. B)Borçlunun Anonim Şirketlerdeki hisselerinin haczine yönelik temyiz incelemesinde:
 
 ## Yargıtay 13. HD 2010/4532 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/770967500)
 
 B.K.'nın 535. Maddesinde adi ortaklığın sona erme sebepleri sayılmış olup, anılan yasanın 535/3 maddesi hükmüne göre, şirketlerden birinin tasfiyedeki hissesi hakkında cebri icra vukuu ile adi ortaklık sona erer. Mehaz İsviçre Borçlar Kanunu'nun (OR) 545/111 maddesine göre , adi ortaklığın sona ermesi anının adi şirket ortağının tasfiye hissesinin haczedildiği değil, tasfiye hissesinin paraya çevrildiği an olduğu kabul edildiği halde Türk Hukukunda adi şirket ortağının hissesi haczedilince adi ortaklık sona ereceğinden adi ortaklığın tasfiye işlemlerine başlanılması gerekir. (... Adi Şirket, Dernek ve Ticaret Şirketleri sh. 148) Borçlar Kanunu'nun 535/3. Maddesinde öngörülmüş olan sona erme nedeni ortağın şahsi alacaklalarının korunması için öngörülmüş olduğundan adi şirket ortaklarının birbirleri ile anlaşmaları ile bu hüküm bertaraf edilemeyeceği gibi, adi ortaklığın yükümlendiği bir ... varsa bunun sonucunun beklenmesine de gerek yoktur. Adi şirket ortağının şahsi borcu sebebi ile borçlunun ortağı olduğu malların doğrudan doğruya haczedilmesi de mümkün değildir. (13.
 H.D 24.5.1982 gün ve 1982/3318-3685 sayılı kararı) Bu haczin adi şirketin feshine sebep olabilmesi i çin haczin mutlaka tasfiye bakiyesine yönelik olması yani adi şirketin feshinin amaçlanması zorunludur (H.G.K. 14.12.2005 tarih 2005/13-715 sayılı kararı) İ.İ.K'nun 94. Maddesinde "taksim edilmemiş bir miras veya şirket yahut iştirak halinde 2009/13903-2010/4532 …
@@ -107,20 +139,28 @@ Bu açıklamalardan sonra somut olaya dönecek olursak; davacı 20.10.2006 tarih
 
 ## Yargıtay 12. HD 2008/4126 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/71528900)
+
 Borçlar Kanunu 535/3 maddesine göre alacaklının adi şirket ortaklarından birisi hakkında şahsi alacağının tahsili için kar ve sermaye payına haciz koydurabilir. Ancak bunun için de adi ortaklığın fesih ve tasfiye davası açılarak bunun sonucunda ortakların kar ve tasfiye payının ne miktarda olduğunun saptanması zorunludur. Bu aşamada kar ve tasfiye payı belirlenmeden alacaklının borçlu şirketin kar ve tasfiye payına haciz koydurabilmesi olanağı olanağı yoktur.
 
 Somut olayda gözlendiği gibi borçlu limited şirketinin Ulaştırma Bakanlığı’ndaki hak ve alacaklarına haciz konulması üzerine üçüncü kişi iş ortaklığının hacze konu paraların ortaklığa ait olduğundan bahisle yaptığı şikayet niteliği itibariyle istihkak davasıdır. Mahkemece yapılması gereken iş bu durumda (İİK. 89/1 haciz ihbarnamelerinin kesinleşip kesinleşmediği de gözetilerek) noksan harç tamamlattırılıp istihkak davası prosedürü içinde anlaşmazlığın çözümlenmesi gerekirken eksik inceleme ile yazılı şekilde şikayetin reddine karar verilmesi doğru değildir.
 
 ## Yargıtay 13. HD 2006/15217 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/845191400)
+
 Dava adi ortaklığın tasfiyesi ve kar payından dolayı alacak davasıdır.Davacı ile davalılardan ... Ltd. Şti. arasında 24.05.2000 tarihinde, noterde düzenlenen sözleşme ile adi ortaklık kurulduğu ve bu ortaklığın konusunun, davalının dava dışı arsa malikleri ile yaptığı kat karşılığı inşaat sözleşmesinde yapmayı üstlendiği ... olduğu ihtilafsızdır. Davalı ... Ltd.Şti bu ortaklıkta idareci ortak, olup hesap vermediği davacının hissesini bertaraf etmek için muvazaalı olarak inşaatı diğer davalı şirkete devrettiği, dosya kapsamından anlaşıldığı gibi mahkemenin de kabulündedir. Ortaklıkta %33 pay sahibi olan davacı, ortaklığa koyduğu sermaye ve kar payını istemekle adi ortaklığın tasfiyesini istemiştir. Toplanan delillerden kurulan ortaklıkta idareci ortağın davalı olduğu anlaşılmaktadır.
 Hal böyle olunca mahkemece, idareci ortak olan davalıdan ortaklığa yapılan tüm masraflar, elde edilen kazanç ve ortaklığın borçları yönünden hesap vermesi istenmeli, verilen hesap üzerinde tarafların uyuştukları ve uyuşmadıkları noktalar saptanmalı, ihtilaflı noktalarda tarafların delil ve karşı delilleri toplanmalı, gerekirse mahallinde uzman bilirkişi veya kurulu aracılığı ile inceleme ve araştırma yapılıp, karar tarihine en yakın tarih itibariyle ortaklığın tüm aktif ve pasifleri saptanmalı, öncelikle ortaklık borçlarının mahsubu yapılmalı, bundan sonra tarafların koyduğu sermaye iade edilmeli, daha sonra arta kalan her hangi bir miktar mevcut ise bu miktarın davacının %33 hissesine hükmedilmeli ve böylece BK’nun 538 ve devamı maddeleri gereğince mahkemece bizzat tasfiye sağlanmalıdır. Mahkemece bu yönler gözardı edilerek yazılı şekilde karar verilmiş olması, usul ve yasaya aykırı olup, bozmayı gerektirir.
 
 ## Yargıtay 13. HD 2006/7286 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/844512700)
+
 Davacı ile davailının kömür ticareti konusunda adi ortaklık kurdukları ve davalının, davacının koyduğu sermayeyi aldıktan bir süre sonra ortaklığın zarar ettiğini belirterek, davacıya hesap vermediği, dosyadaki delillerden anlaşılmakta olup, uyuşmazlık konusuda değildir. Davalı idareci ortak olduğuna göre, BK'nun 530/2 maddesi gereğince hesap verme yükümlülüğü vardır. bu emredici hükmün, mahkemece re'sen gözetilmesi gerekir. BK'nun 523 maddesi gereği aksine kararlaştırma olmadıkça, her ortağın kar ve zarardan hissesi, koyduğu sermayenin değeri ve niteliği ne olursa olsun eşittir. Hal böyle olunca, adi ortaklığın tasfiyesinin bizzat mahkemece yapılması gerekir. Öncelikle davalıdan adi ortaklığın hesapları ve bu hesaplara ilişkin belgeler istenmeli, davacının yaptığı ödemelere ilişkin delilleri de toplanmalı ve mahkemece konusunda uzman bilirkişiden rapor alınmalıdır. Tasfiyede öncelikle, şirketin aktif ve pasifinin saptanması gerikir. Ortaklardan herbirinin şirket için yaptığı masraf ile koydukları sermayeler iade olunduktan sonra, birşey kalırsa bu kalanın kar olarak taraflar arasında taksimi gerekir.
 
 ## Yargıtay 13. HD 2006/5245 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/842310100)
 
 BK.nun 538. maddesinde belirtildiği gibi tasfiye, bütün hesapların görülüp ortaklığın aktif ve pasif bütün mal varlığının belirlenip ortakların birbirleri ile alacak verecek ve ortaklıktan dolayı tüm ilişkilerinin kesilmesi yoluyla ortaklığın sona erdirilmesi, malların paylaşılması ya da satış yoluyla elden çıkarılmasıdır. Ortaklık sözleşmesinde hüküm bulunduğu takdirde tasfiyenin bu sözleşmedeki hükümlere göre yapılması asıldır. Böyle bir hükmün bulunmaması halinde ise tasfiyenin bu defa BK.nun 539. maddesindeki sıra takip edilerek yapılması gereklidir. Açıklanan bu hukuki olgular karşısında öncelikle ortaklığın sona erdiği tarih itibariyle ortaklığın aktif ve pasif malvarlığı belirlenmeli ve ortaklığı yöneten ve idareci ortak olan davalıdan ortaklık hesabını gösterir hesap istenilmeli, verilen hesapta uyuşmazlık çıktığı takdirde taraflardan delilleri sorularak toplanmalı, bu şekilde belirlenen mal varlığının ne şekilde tasfiye edileceği taraflardan sorulmalı, tasfiyede anlaştıkları takdirde ona göre karar verilmelidir.
 Taraflar tasfiye konusunda anlaşamadıkları takdirde, mahkeme tayin edeceği tasfiye memuru marifetiyle tespit edilen ortaklık mallarının mevcut olanlarının satılmasına, şayet bu mallar mevcut değilse değerleri bilirkişi marifetiyle belirlenip elde edilen gelirden veya malların belirlenen değerlerinden öncelikle ortaklığın borçları ödendikten sonra kalan kısmın taraflar arasında paylaştırılmasına karar verilmeli, tüm bu hususlarda konusunda uzman bilirkişi kurulundan taraf ve Yargıtay denetimine elverişli rapor alınmalı, böylece tarafların her birinin tasfiye payı belirlenmeli, tasfiye sonucunda davacının bir alacağı doğarsa bu miktarın ödetilmesine karar verilmelidir.

@@ -22,6 +22,8 @@ uyari: "Derleyenin seçtiği alıntılardır; kararın tamamı değildir. Künye
 
 ## Denizli BAM 1. HD 2025/1894 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1185330100)
+
 Davacı vekili 28/02/2024 tarihli ıslah dilekçesi ile; davalının alacaklısı bulunduğu ....İcra Dairesinin ... Esas sayılı dosyasından konulan hacizlerin kaldırılmasını da talep etmiştir.
 
 Davalı vekili cevap dilekçesinde özetle; tescille ilgili verilen kararda tapular üzerindeki takyidatlar, yani dava devam ederken mevcut alacakların varlığı kabul edilerek üzerindeki hacizler ile birlikte tesciline karar verildiğinden davanın kabulünün mümkün olmadığını, hacizden sonra üçüncü kişi lehine tapu iptal ve tescil kararının kesinleşmesinin haciz tarihindeki mülkiyet durumuna etkisi olmadığını, haciz tarihi itibariyle dava konusu taşınmazın borçlu şirketin mülkiyetinde bulunduğunu, yapılan işlemin hukuka uygun olduğunu, hacizden sonra açılan tapu iptali tescil davasının hacze etkisi bulunmadığını, dava konusu taşınmazın haciz şerhi işlendiği tarihte borçluya ait olup, sonradan verilen tapu iptali ve tescil kararının haciz şerhlerinin kaldırılmasına neden olmayacağından davanın usulden ve esastan reddine karar verilmesini savunmuştur.
@@ -46,12 +48,16 @@ Buna karşılık, ihtiyati tedbir şerhinin işlendiği 27/10/2016 tarihinden ö
 
 ## Denizli BAM 4. HD 2025/1855 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1183688000)
+
 Öte yandan 6100 sayılı HMK'nın durum ve koşulların değişmesi sebebiyle tedbirin değiştirilmesi veya kaldırılmasını düzenleyen 396. maddesinde; "Durum ve koşulların değiştiği sabit olursa, talep üzerine ihtiyati tedbirin değiştirilmesine veya kaldırılmasına teminat aranmaksızın karar verilebilir. İtiraza ilişkin 394 üncü maddenin üçüncü ve dördüncü fıkrası, kıyas yoluyla uygulanır" düzenlemesi bulunmaktadır. Ancak maddede, kanun yoluna başvuru imkanını düzenleyen 394.maddenin beşinci fıkrasına atıf yapılmadığı görülmektedir.
 
 HMK'nin 396. maddenin gerekçesi ise; "İhtiyatî tedbirin değiştirilmesi veya kaldırılmasını düzenleyen bu maddede de, yukarıda belirtilen iki maddedeki ortak yönler dikkate alınarak itiraza ilişkin benzer hükümlere ayrıca atıf yapılmıştır. Ancak, itiraz üzerine verilen kararlara karşı kanun yoluna başvurulması hakkındaki fıkraya atıf yapılmamıştır. Zira, hâl ve şartların değişmesi, hukukî bir değerlendirmeden daha çok, maddî şartlarla yakından ilgili, nispeten sübjektif ve doğrudan mahkemenin takdirine bağlı bir husustur. Ayrıca, aynı yargılama süreci içinde, bir çok kez hâl ve şartlarda değişiklik olması sebebiyle, tedbirde değişiklik yapılması veya kaldırılması, bu yönde talepte bulunulması ya da talebin reddi söz konusu olabilir. Her talepten sonra verilecek karar hakkında kanun yoluna başvurulması, ihtiyatî tedbirler için kanun yoluna başvurulmasında istenen amacı da sağlamayacaktır. Kanun yolunun açılmış olmasının amacı, ihtiyatî tedbirlerle ilgili temel hukukî ve prensip hatalarının önüne geçmektir. Bu sebeple, ihtiyatî tedbirin reddi ve ihtiyatî tedbire itiraz üzerine verilen kararlar için kanun yolu imkânı getirilmiştir." şeklindedir.
 Dolayısıyla, durum ve koşulların değişmesi nedeni ile verilen kararlar hukukî bir değerlendirmeden daha çok, maddî şartlarla yakından ilgili, nispeten sübjektif ve doğrudan mahkemenin takdirine bağlı kararlar olduğundan, bu kararlara karşı kanun yolunun kapalı olması ön görülmüştür. Nitekim, yargılama süresince her yeni durumda talebin yinelenerek karar verilmesi halinde sürekli kanun yoluna başvuru imkanı tanınması, kanun yolundan beklenilen amaçtan uzaklaşılması sonucunu doğuracaktır. Şüphesiz, bu tür kararlar esas hükümle birlikte kanun yolu denetimi altındadır. Dolayısıyla mahkemece tedbir talebine yönelik verilen ilk ara karardan sonraki ara kararlara yönelik istinaf başvurusunda bulunulamaz.
 
 ## Ankara BAM 21. HD 2025/1822 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1192464500)
 
 Mahkemece; davacının, şirketteki hisselerinin tamamının (19/11/2024 tarihli 2024 yılı çağrılı olağanüstü genel kurul toplantısı tutanak içeriği de dikkate alındığında) devredilip devredilmediğinin dolayısıyla davacının aktif dava ehliyeti bulunup bulunmadığı ile ilgili tahkikat gerekeceği, yine yasal mevzuat ve yerleşik yargı uygulaması dikkate alındığında, mahkemece davalı anonim şirketin iyi yönetilmediği gerekçesiyle temsil ve yönetim kayyumu atanamayacağı, şirkete ait gayrimenkullerin kaydına istenildiği şekilde tedbir konulmasını gerektirecek haklılık durumunun dosya içeriği ile kanıtlanamadığı gerekçesiyle; "İhtiyati tedbir isteminin reddine" ilişkin karar verilmiştir.
 
@@ -73,6 +79,8 @@ HMK'nın 390/(2). maddesinde de hakimin talep edenin haklarının derhal korunma
 
 ## İstanbul BAM 12. HD 2025/1819 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1183950500)
+
 …
 
 : Talep, ihtiyati haciz kararına itiraza ilişkindir.İhtiyati haciz isteyen davacı, Eyüpsultan İlçesi Göktürk Mah. ... ada 1 parsel no’lu taşınmazın aleyhine ihtiyati haciz istenen ... Turizm Tekstil Sanayi Ve Ticaret AŞ tarafından, ihtiyati haciz isteyen AE Gayrimenkule satılarak devredildiği, taşınmaza ilişkin aleyhine ihtiyati haciz istenen tarafından ...'a ödenmesi gereken tutar 18.080.642,64 TL olarak belirtilmişse de bu tutara ek olarak ihtiyati haciz isteyen tarafından ...'a gecikme zammı da ödendiği, ayrıca sözleşme konusu taşınmazın tapuda devrine ilişkin ihtiyati haciz isteyen tarafından tapu harcı ve tapu başvuru bedeli olarak 360.517,50- TL ödeme yapıldığı,tutarın karşı yana faturalandırıldığı, bundan başka Şişli , Mecidiyeköy Mah. ... ada,... parsel, A Blok 67 no'lu bağımsız bölümde kayıtlı taşınmazın haciz istenen tarafından AE Gayrimenkule satılarak devredildiği, tapu devrinden sonra ipotek alacaklısına ödenen 700.000-USD için itirazın iptaline ve ihtiyati haciz kararı verilmesini talep etmiştir.
@@ -85,6 +93,8 @@ Buna göre; her iki sözleşme birlikte değerlendirildiğinde masrafların, hat
 "İhtiyati haciz kararına itirazın kabulüne; davalı hakkında verilen 2025/397 esas sayılı, 19/08/2025 tarihli ihtiyati haciz kararının KALDIRILMASINA …
 
 ## İzmir BAM 14. HD 2025/1708 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1192093400)
 
 Dava, eser sözleşmesinden kaynaklanan alacağın tahsili için başlatılan takibe yapılan itirazın iptali istemine ilişkindir.
 
@@ -101,6 +111,8 @@ Tarafların iddia ve savunmalarının gerçekliği ve haklılığı yapılacak o
 İzmir 5. Asliye Ticaret Mahkemesi'nin 2025/953 Esas sayılı dosyasından verilen 10.10.2025 tarihli ara kararı, usul ve esas yönünden hukuka uygun bulunduğundan, davacı vekilinin bu ara karara karşı yapmış olduğu istinaf kanun yoluna başvurusunun, 6100 sayılı HMK'nın 353/(1)-b-1. maddesi gereğince ESASTAN REDDİNE …
 
 ## İstanbul BAM 17. HD 2025/1708 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1185238400)
 
 Davacı vekili dava dilekçesi ile; müvekkilinin davalı kooperatifin üyesi olduğunu, davalı kooperatif ile davalı yüklenici arasında 10.10.2022 tarihli kat karşılığı inşaat sözleşmesi düzenlendiğini, sözleşme uyarınca kooperatif üyelerine 1+1 daire verileceğini, yükleniciye 240.000,00 TL fark bedeli ödeyen üyelerin ise 2+1 daire alacağını, müvekkilinin de fark bedelini ödeyerek 2+1 daire için ödeme yaptığını, ancak müvekkiline 2+1 daire teslim edilse de, neredeyse 1+1 daire ile aynı metrekareye sahip daire verildiğini, bu nedenle uğradığı zararın tazmini gerektiğini, ayrıca yüklenicinin satış ilanlarında sözleşmede yer almayan havuz, sauna ve spor salonu gibi tesislerin projede yer alacağı taahhüdünde bulunduğunu, taşınmaz kooperatif yapısı olup, minumum maliyetle konut tercin edilmesi gerektiğini, sözleşmede yer almayan yapıların müvekkilinin aidat yükümlülüğünü artıracağını ve müvekkiline ek mali külfet oluşturacağını, bu imalatlar nedeniyle müvekkilinin uğradığı zararın da tazmini gerektiğini, yüklenici sözleşmeye aykırı davranmasına rağmen davalı kooperatifin yüklenici tarafından arsa malikleri lehine verilen ipoteklerin büyük kısmını fek ettiğini, kooperatifin ferdileşmesi
 halinde tüm üyelerin davaya dahil edilmesi gerektiğinden ilave masraflara katlanmak zorunda kalacaklarını ileri sürerek zararın tespit edilerek şimdilik 10.000,00 TL'nin avans faizi ile birlikte tazminine, taşınmaza ferdileştirme işleminin durdurulması için tedbir konulmasına, ayrıca kooperatif adına tesis edilen ipoteğin fek edilmemesi adına taşınmaza tedbir konulmasına, kabul edilmezse taşınmaza davalıdır şerhi konulmasına karar verilmesini talep ve dava etmiştir.
@@ -120,6 +132,8 @@ Açıklanan nedenlerle ilk derece mahkemesinin ihtiyati tedbir talebinin reddine
 
 ## Denizli BAM 3. HD 2025/1703 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1171684600)
+
 Davacı vekili dava dilekçesinde özetle; davalı yan tarafından müvekkili aleyhine ... mahkemesinin ...D.İş ve ... K.sayılı kararı ile ihtiyati haciz kararı alındığını ve bu ihtiyati haciz kararının ....İcra Müdürlüğünün ... sayılı takip dosyası ile icra edildiğini, daha sonrasında davalı yan tarafından iş bu ihtiyati haczin kati hacze çevrildiğini, .... İcra Müdürlüğü'nün ...E.
 
 …
@@ -134,6 +148,8 @@ HMK 399. Maddesinde yer alan tazminat davalarında lehine ihtiyati tedbir karar�
 
 ## İstanbul BAM 44. HD 2025/1272 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1182696500)
+
 HMK'nın 355. Maddesi gereği, kamu düzenine aykırılık teşkil eden hususlar hariç tutularak, istinaf neden ve gerekçeleri ile sınırlı olmak üzere yapılan incelemede;Dava İİK 72/1 maddesi uyarınca icra takibinden sonra açılan menfi tespit istemine ilişkindir. Davacılar vekili, Bakırköy 11. İcra 2023/... E sayılı dosyasıyla başlatılan takibin dayanağı senedin, müvekkilinin elindeyken Bakırköy 11. İcra 2019/... E; sayılı dosyası ile takibe konulduğunu bu dosyada anlaşma sağlanması üzerine sedeni iptal edilmeden iade edildiğini, sonradan asıl unsurları parafla değiştirilerek ve cirolar iptal edilmeden tahrif edildiğini; 19.01.2023’te borçlu ...’nın senet aslını icradan teslim aldığını; tahrif edilmiş senedin ... adına, geçerlilik süresi 25/11/2022’de bitmiş pasaportla düzenlenen vekâlet üzerinden işleme konulduğunu 2023/... E sayılı takibin öncelikle teminatsız, aksi halde 625.650,00 TL üzerinden hesaplanacak teminatla tedbiren durdurulmasını ve icra veznesindeki paranın alacaklıya ödenmemesini talep etmiştir.Bakırköy 7. ATM'nin 2025/126 d.iş 2025/128 karar sayılı kararı ile; tedbir talebinin kısmen kabulü ile İİK'nun 72/3.
 Maddesi gereğinc teminat karşılığında icra veznesindeki paranın alacaklıya ödenmemesi yönünde tedbir talebinin kabulüne karar verildiği, menfi tespit davasının açıldığı dosya üzerinden esas mahkemesince tedbire itirazın değerlendirildiği ve davalı tarafça yapılan itirazın reddine karar verildiği , davalı vekili tarafından istinaf talep edildiği görülmüştür. İİK 72/3 maddesi gereği, İcra takibinden sonra açılan menfi tespit davasında ihtiyati tedbir yolu ile takibin durdurulmasına karar verilemez. Ancak, borçlu gecikmeden doğan zararları karşılamak ve alacağın yüzde onbeşinden aşağı olmamak üzere göstereceği teminat karşılığında, mahkemeden ihtiyati tedbir yoluyla icra veznesindeki paranın alacaklıya verilmemesini isteyebilir. Bakırköy 11. İcra 2023/... E sayılı dosyasında, davalı tarafından davacılar ..., Reform İplik Tekstil Şirketi , ...
 Grup Tekstil Şirketi ve diğer borçlular aleyhine 01.08.2018 düzenleme ve 01.10.2023 vade tarihli 625.000,00 KWD bedelli senede dayalı olarak 30.10.2023 tarihinde kambiyo takibi başlatıldığı, keşidecinin ..., Borçlunun Kader Karlı olduğu, vade tarihi yıl hanesi 2018 iken 2023 olarak değiştirildiği , yine bedel cinsi TL iken KWD olarak değiştirldiği bu değişikliklerde paraf imza bulunduğu, senedin arkasında sırası ile ..., ..., Reform İplik Tekstil, Reform Grup , Bermuda Konfeksiyon, ... Tekstil, ... ve ... cirolarının bulunduğu görülmektedir. Somut olayda, eldeki davanın davalı tarafından başlatılan icra takibinden sonra açıldığı takibin durdurulmasına yasal olanak bulunmadığı, ancak yasal düzenlemeye uygun şekilde teminat alınarak icra veznesindeki paranın alacaklıya verilmemesi yolunda ihtiyati tedbire hükmedilebileceği, deliller çerçevesinde dava konusu senedin 625.650,00 TL bedelli, 01.08.2018 düzenleme ve 01.10.2018 ödeme tarihli haliyle davacılardan ... tarafından daha önce Bakırköy 11. İcra Müdürlüğünün 2019/...
@@ -145,6 +161,8 @@ Sonuç olarak, davalı vekilinin istinaf başvurusunun 6100 Sayılı HMK'nın 35
 Usûl ve yasaya uygun Bakırköy 4. Asliye Ticaret Mahkemesi'nin 12/05/2025 tarih ve 2025/371 E. sayılı ara kararına karşı davalı vekili tarafından yapılan istinaf talebinin 6100 Sayılı HMK'nın 353/1-b/1. maddesi gereğince ESASTAN REDDİNE …
 
 ## Kayseri BAM 4. HD 2025/1190 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1180123000)
 
 Dava, ihtiyati tedbir talebinin reddine ilişkin istinaf talebine ilişkindir.
 
@@ -166,6 +184,8 @@ Davacı vasisinin istinaf başvurusunun ESASTAN REDDİNE …
 
 ## İstanbul BAM 15. HD 2025/1125 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1176408900)
+
 Tapu kaydına "davalıdır" şerhi işlenmesine dair verilen ara kararların 6100 sayılı Kanun'un 389 uncu ve devamı maddeleri uyarınca hukuki anlamda ihtiyati tedbir kararı niteliğinde olmadığının kabulü gerekir (Yargıtay 12. Hukuk Dairesinin 05.07.2017 tarihli 2016/28553 E., 2017/10126 K. sayılı kararı). Bu sebeple taşınmazların tapu kaydına "davalıdır" şerhinin işlenmesine dair mahkeme kararları 6100 sayılı Kanun'un 341 inci maddesinde öngörülen nihai kararlardan olmadığından istinaf yoluna tabi değildirler.İİK'nın 257. maddesinde; rehinle temin edilmemiş ve vadesi gelmiş bir para borcu alacaklısının, borçlunun yedinde veya üçüncü şahısta olan taşınır ve taşınmaz mallarını ve alacaklarıyla diğer haklarını ihtiyaten haczettirebileceği, vadesi gelmemiş borçtan dolayı ancak borçlunun belirli bir yerleşim yerinin bulunmaması veya mallarını gizleme, kaçırma, kaçma gibi alacaklının haklarını ihlal eden eylemlerde bulunması halinde ihtiyati haciz kararı verilebileceği düzenlenmiştir.
 Aynı kanunun 258. maddesinde; ihtiyati haciz talep eden tarafın, öncelikle dilekçesinde dayandığı ihtiyati haciz sebebini belirtmesi ve davanın esası yönünden kendisinin haklılığını yaklaşık olarak ve yasal delillerle ispat etmesi gerektiği belirtilmiştir. Uyuşmazlık, 6098 Sayılı Türk Borçlar Kanunu'nun 470 ve devamı maddelerinde düzenlenen eser sözleşmesinden kaynaklanmaktadır.Uyuşmazlıktaki ihtiyati haciz talebi bakımından, İİK md.258/3 uyarınca ihtiyati haciz talebinin reddi kararının gerekçeli olması gerektiği hususu dikkate alınarak ilk derece mahkemesinin gerekçesini belirtmediği ihtiyati haciz talebinin reddine yönelik ara kararı yerinde olmamıştır. İhtiyati tedbir talebinin kabulü kararı da gerekçeli olarak yazılmadığı gibi, kabule göre de davalıdır şerhi ile ilgili her ne kadar teminata hükmedilmişse de davalıdır şerhi tedbir niteliğinde olmadığından teminata hükmedilmesi yerinde olmayıp taleplere ilişkin gerekçeli karar yazılmadığından davalının istinaf başvurusunun kabulüne karar verilmesi gerekmiştir.
 
@@ -174,6 +194,8 @@ Aynı kanunun 258. maddesinde; ihtiyati haciz talep eden tarafın, öncelikle di
 İstinaf başvurusunun davalı vekili yönünden REDDİNE, davacı vekilinin istinaf başvurusunun KABULÜNE,2-İstanbul 10. Asliye Ticaret Mahkemesi'nin 25/07/2025 tarih, 2025/530 Esas sayılı tensip zaptının 12 numaralı ara kararının KALDIRILMASINA …
 
 ## İstanbul BAM 12. HD 2025/1080 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1159780300)
 
 Asliye Hukuk Mahkemesi'nin (ATM sıfatıyla) 2013/879 Esas sayılı dosyasındaki, teminat mektubu lehtarının iflas erteleme başvurusu kapsamında 09/01/2014 tarihli ara kararın ikinci bendinde "Teminat mektuplarının paraya çevrilmesinin tedbiren önlenmesine" karar verildiği, daha sonra Gebze ATM'nin 2016/14 Esas, 2016/567 Karar sayılı ve 30/06/2016 tarihli iflas erteleme talebinin kabul edildiği gerekçeli kararının 5/e bendinde "3. şahıslar tarafından davacı (lehtar) lehine verilen banka teminat mektuplarının ihtiyati tedbir kapsamı dışında tutulmasına" karar verildiği görülmüştür.Hukukumuzda banka teminat mektupları konusunda açık bir düzenleme bulunmamakta, 6098 sayılı TBK’nın 128. maddesinde düzenlenen üçüncü kişinin fiilini üstlenme kapsamında bir tür garanti sözleşmesi olarak değerlendirilmektedir. Garanti veren banka, muhatabın ödeme talebi halinde ancak zamanaşımı, sahtelik gibi kendisine ait olan def’ileri ileri sürebilir veya teminatın ödenmemesi hususunda mahkemece verilen bir tedbir kararının bulunması halinde ödemekten kaçınabilir.
 Bu durumların söz konusu olmaması halinde ise, banka ancak ödeme talebinin hakkın kötüye kullanılması mahiyetinde olduğuna dair elinde likit delil bulunması halinde ödeme talebini reddedebilir. Likit delil ile kastedilen ise, bankanın yorumunu eklemeden ödeme talebinin dürüstlük kuralına aykırılığını ortaya koyan delildir. Banka ödeme talebini aldığında durumu derhal lehdara bildirmelidir ki, lehdar talebin haksızlığına ilişkin kendi elindeki likit delilleri bankaya ibraz edebilsin. İlk talepte ödeme kaydını içeren teminat mektuplarında ise risk banka üzerinde değil, lehdar üzerinde olduğundan ödeme talebi halinde esasa ilişkin inceleme yapılmaksızın ödeme yapılması gerekir.Teminat türlerinden olan avans teminat mektubunun amacı, iş sahibinin işin süresinde bitirilmesi için yükleniciye avans olarak verdiği miktarın geri alınmasını garanti altına almaktır. Yani, avans teminat mektuplarının konusu, müteahhide veya imalatçıya verilecek avansları bir bankanın garanti etmesidir. Müteahhidin hak ediş bedelleri, daha önce alınan avansa mahsup edilerek avans karşılığının ifa edilmesi sağlanır.

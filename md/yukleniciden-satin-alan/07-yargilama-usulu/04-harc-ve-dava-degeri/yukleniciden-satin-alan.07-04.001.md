@@ -32,4 +32,6 @@ Bilindiği üzere 492 sayılı Harçlar Kanunu'nun 16. maddesi uyarınca, gayrim
 
 ## Ankara BAM 31. HD 2026/451 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1206390300)
+
 1-492 sayılı Harçlar Kanunu'nun 15. maddesine göre, yargı harçları (1) sayılı tarifede yazılı işlerden değer ölçüsüne göre nispi esas üzerinden, işlemin nevi ve mahiyetine göre maktu esas üzerinden alınır. Aynı Yasa'nın 28/1. maddesinin a bendinde karar ve ilâm harcının dörtte birinin peşin, geri kalanın kararın verilmesinden itibaren iki ay içinde ödeneceği hükmü yer almakta olup yine aynı Kanun'un 32. maddesinde yargı harçları ödenmedikçe müteakip işlemlerin yapılmayacağı emredici hükmü konulmuştur. Harçlar Kanunu ile ilgili düzenlemeler kamu düzenine ilişkin olup, emredici nitelikte bulunduğundan mahkemelerce ve istinaf incelemesi sırasında re'sen nazara alınır. Davacılar, Harçlar Yasasına göre harçtan muaf olan kişilerden de değildir. Nispî karar ve ilam harcına tabî davalarda, dava değeri üzerinden peşin nispî ilâm harcının alınması zorunludur. Uyarıya rağmen yatırılmaması halinde Harçlar Kanunu'nun 32. maddesine göre müteakip işlemler yapılamayacağından dava dosyasının işlemden kaldırılması gerekir.

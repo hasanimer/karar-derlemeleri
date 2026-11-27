@@ -22,6 +22,8 @@ uyari: "Derleyenin seçtiği alıntılardır; kararın tamamı değildir. Künye
 
 ## İstanbul BAM 7. HD 2025/1310 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1144056100)
+
 İLK DERECE MAHKEMESİ KARARI: İstanbul Anadolu 10. Asliye Ticaret Mahkemesinin 2020/470 esas ve 2021/946 karar sayılı 16/12/2021 tarihli kararı ile; davacının tapu iptali ve tescil davasının reddine , terditli bedel davasının kabulüne " 450.013,00 TL' nin ıslah tarihi olan 17/06/2021 tarihinden itibaren yasal faizi ile davalı ...
 
 …
@@ -42,6 +44,8 @@ HÜKÜM: Gerekçesi yukarıda açıklandığı üzere; 1-Davacı vekilinin istin
 
 ## İstanbul BAM 17. HD 2025/1208 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1173645000)
+
 Davalı vekili cevap dilekçesinde; müvekkili kooperatifin 1991 tarihinde üzerinde bulunduğu gayrimenkulün o dönem ki sahipleri tarafından kurulduğunu, kooperatifin 4 blok olmak üzere 160 bağımsız bölümden oluştuğunu, uzun süre arsa sahipleri tarafından kooperatif yöneticiliği yapıldığını, akabinde arsa sahipleri tarafından kooperatifin kendilerine borçlandırılarak yönetimin kooperatif üyelerine terkedildiğini, eski arsa sahipleri lehine olan ipoteklerin terkini için bir kısım yargılamanın aleyhe sonuçlandığını, bir kısmının da halen devam ettiğini, müvekkili kooperatifin uzun süre sadece kağıt üzerinde yönetildiğini, olağan genel kurullarının dahi düzenli yapılmadığını ve tasfiye sürecine girdiğini, yeni yönetimin gayrimenkul üzerindeki ipotekler ile iskan alınması için yapılması gereken iş ve işlemlere ilişkin yaptığı çalışmada 2015 tarihi itibariyle üye başına ortalama 80.000,00 TL masraf çıkacağını öngördüğünü, sitenin kentsel dönüşüm çerçevesinde yenilenmesi halinde hem mülklerin değer kazanacağı, hem imar problemlerinin çözüleceği, hem de ipotek borçlarından kurtulma ihtimalinin olduğu düşüncesi ile üyelerin de onay vermesi üzerine bu çerçevede dava dışı ... firması ile anlaşma
 sağlandığını, bu safhaya kadar herhangi bir talebi olmayan davacının, inşaat şirketi tarafından projenin onaylatılmasını müteakip daha önceden site içinde kalan ve dükkan olarak bir değer ifade etmeyen bağımsız bölümüne karşılık yeni projede caddeye tam cepheli yeni iş yerlerinden birini talep ettiğini, bunun iyiniyetli olmadığını, ayrıca bu aşamaya kadar yapılan olağan ve olağanüstü toplantılarda davacının herhangi bir itirazı olmadığı gibi alınan kararların iptali yönelik bir başvurusunun da bulunmadığını, inşaat firması ile yapılan anlaşma uyarınca üyelerin daha büyük ve daha değerli bağımsız bölümlere sahip olacağını ve üyelerin ipoteklerden kaynaklı ödenmesi gereken yaklaşık 80.000,00 TL'den kurtarıldığını, yeni yönetimin oluşup kooperatif tasfiye halinden döndürüldükten sonra toplanan aidatlarda işyeri olması sebebiyle davacıdan daha yüksek bir aidat istenmediğini belirterek davanın reddine karar verilmesini savunmuştur.
 
@@ -60,6 +64,8 @@ bağlı olduğunun kabul edilmesi gerektiği, davalı kooperatif ile ...
 sonra davalı kooperatifin 2017 yılı hesap yılına ilişkin yapılan 06/05/2018 tarihli olağan genel kurulunda, yönetim kurulunun 2017 yılı faaliyet raporunun okunarak müzakereye açıldığı ve oybirliği ile kabul edildiği dikkate alındığında sözleşmenin okunmadığı, üyelerin bilgilendirilmediği ve paylaşımın üyelerin menfaatine olmadığı iddiaları ile bu toplantıda alınan kararlar aleyhine bir iptal davası açılmadığından davacının 2017 yılında yüklenici ile yapılan sözleşmeyi ve sözleşmede kararlaştırılan paylaşım usulünü benimsediğinin kabulü gerekir. Kaldı ki toplantı tutanağından anlaşılacağı üzere aynı toplantıda dükkana karşılık daire verildiğini ileri sürerek mağdur edildiğini beyan ettiğine göre davacının sözleşmenin içeriğinden ve paylaşım usulünden haberdar olduğu da sabittir. Ayrıca davacının, sadece konut inşa edilmesi amacıyla yönetim kuruluna yetki verildiği iddiası da ispata muhtaçtır. O halde davacının, kendisine dükkan yerine daire tahsis edildiğine ve bu nedenle zarara uğradığına yönelik iddiaları kanıtlanamadığından Mahkemece davanın reddine yönelik tesis edilen karar isabetli olup davacı vekilinin istinaf başvurusu yerinde görülmemiştir.Açıklanan sebeplerle …
 
 ## Bursa BAM 14. HD 2025/1077 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1156921600)
 
 Davacı vekili, davalılardan ....
 
@@ -85,6 +91,8 @@ Diğer taraftan, yüklenici arsa sahibine karşı edimini tamamen veya kısmen y
 
 ## İstanbul BAM 46. HD 2025/806 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1146716200)
+
 G E R E Ğ İ D Ü Ş Ü N Ü L D Ü: Asıl dava; davalı yükleniciden satın alınan taşınmazlara ilişkin teslim yükümlülüğünün ayıplı ve eksik ifa edildiği iddiasına dayalı tazminat istemine; Birleşen Dava ise; asıl dava ile asıl dava davacısından satın alınan bağımsız bölümün davalı yüklenici tarafından ayıplı ve eksik ifa edildiği iddiasına dayalı tazminat istemine ilişkindir. İlk derece mahkemesince; "...Davalı ... ile dava dışı arsa sahipleri arasında Kadıköy ... Noterliğinin 20.01.2014 tarih ... yevmiye numaralı Düzenleme Şeklinde Satış Vaadi ve Arsa Payı Karşılığı İnşaat Sözleşmesi imzalandığı ve davalının bu işin müteahhitliğini üstlendiği, asıl dosyamız davacısı ...'nın İstanbul İli, Kadıköy İlçesi, ... Mahallesinde kain (... pafta, ... ada, ... parselde kayıtlı ... Apartmanın ..., ... ve ... numaralı bağımsız bölümleri satın aldığı daha sonra ... numaralı bağımsız bölümü ise birleşen dosyanın davacısı ...'e sattığı ve böylece asıl davada davacının ... ve ... numaralı bağımsız bölümün maliki olarak birleşen davada ise davacının ... numaralı bağımsız bölümün maliki olarak eksik ve ayıplı işler nedeniyle tazminat talep ettikleri vazıhtır.
 Dosyaya yansıyan bilgi ve belgelere göre aynı olaya ilişkin olarak İstanbul Anadolu 32.Asliye Hukuk Mahkemesinin 2019/794 Esas sayılı dosyası ve işbu dosya ile birleşen 10 ayrı dava daha bulunduğu anlaşılmıştır. Öncelikle birleşen dosya yönünden davacının sıfatına yönelik itiraz ayıplı ve eksik işler yönünden yeni malik sıfatıyla talepte bulunulmasına engel yasal bir düzenleme bulunmadığından dinlenmemiştir. Mahkememizce İstanbul Anadolu 32.Asliye Hukuk Mahkemesinin 2019/794 Esas dosyanın gerekçeli kararı ve hükme esas alınan bilirkişi raporu celbedilmiş dosyaya kazandırılmıştır. Mahkememizce usul ekonomisi ilkesi çerçevesinde hareket edilerek 08.08.2021 tarihli bilirkişi 2.ek heyet raporu esas alındığında eksik ve ayıplı işlerin tamamlanması için bulunan toplam 634.602,30 TL rakamının davacıların bağımsız bölümlerinin arsa payına ayrı ayrı bölünmesi suretiyle davacıların zararını da kolayca tespit edilebileceği ve uyuşmazlığın bu şekilde çözülebileceği anlaşılmıştır.
 
@@ -94,11 +102,15 @@ H Ü K Ü M: Gerekçesi yukarıda açıklandığı üzere; 1.Davalının istinaf
 
 ## İstanbul BAM 15. HD 2025/718 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1155762000)
+
 İle ... Şti ve ... Şti.' ne tamamlatıklarını, buna ilişkin iade faturası gönderdiklerini belirterek; yerel mahkeme kararının kaldırılması için istinaf kanun yoluna başvurmuştur.Uyuşmazlık,6098 sayılı Türk Borçlar Kanunun 470. ve devamı maddelerinde düzenlenen eser sözleşmesinden kaynaklanmaktadır.
 Davacı yan yüklenici, davalı ise iş sahibidir.Taraflar arasında 20.10.2015 tarihli "yalıtım imalatları yapılması işi" sözleşmesi akdedilmiştir.Davacı yüklenici; davalı iş sahibi aleyhine, borcundan ötürü icra takibi başlattığını, ancak borca süresi içinde itiraz edildiğini, davacının, davalı için 544 konut inşaatı ile alt yapı ve çevre düzenlemesi işinde birçok alanda işler yapmak suretiyle hakedişlerinin söz konusu olduğunu,davacı tarafından yapılan imalatların proje müdürü tarafından muayene edilerek teslim alındığını ancak herhangi bir ödeme yapılmadığını, davalının; davacı yükleniciye takip tarihi olan 25/08/2017 tarihi itibariyle 30.046,19 TL ana para ve 22,23 TL işlemiş faiz olmak üzere toplam 30.068,42 TL tutarında borcu bulunduğunu belirterek; davalının haksız itirazının iptali ile alacağın %20 sinden az olmamak üzere icra inkar tazminatına mahkum edilmesini talep ve dava etmiş, davalı iş sahibi; taraflar arasında, davalının yapımını üstlendiği 544 Konut İnşaatı ile Altyapı Çevre Düzenlemesi İşi için "Yalıtım İmalattan İşlerinin Yapılması" hususunda götürü bedel olarak 262.500,00TL bedelli anahtar teslimi sözleşme akdedildiğini, takibe konu 30.068,42 TL nin, sözleşmenin
 "İşin Teminatı" başlıklı 12. maddesi gereğince; davacının hakedişinden kesildiğini, işbu kesintinin; taraflar arasında imzalanan sözleşmenin 12. Maddesine göre davacı tarafa ödenmesi için gerekli şartların oluşmadığını, işbu maddeye istinaden davacı alacağının muaccel hale gelmediğini, davacı tarafın bahsi geçen sözleşme kapsamında yapmış olduğu işlerin bir kısmında eksik ve ayıplı imalatlar bulunduğunu, bahsi geçen eksik imalatların; kapı eşik val itim işleri, süzgeç yalıtım işleri, duvar, tavan vs. tamir işleri olduğunu, bu imalatların ayıplı olduğunun derhal kendilerine bildirildiğini; buna rağmen eksikliklerin giderilmediğini, bunun üzerine işin aciliyetine binaen eksik imalatların ...
 
 ## Erzurum BAM 1. HD 2024/1765 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1084076500)
 
 Davacı vekili dava dilekçesinde özetle; Erzurum .... İcra Dairesinin 2020/...
 
@@ -119,6 +131,8 @@ Davacı vekilinin istinaf başvurusunun KABULÜ ile HMK’nın 353/1-a.6 maddesi
 
 ## İzmir BAM 14. HD 2024/1053 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1058824300)
+
 Davalı vekili tarafından verilen cevap dilekçesinde özetle; müvekkili şirketin defter ve kayıtlarından müvekkil şirket ile mülk sahibi ... arasında ... Stadyum Durağı şantiyesi olarak adlandırılan gayrimenkulde inşaat imalatı hususunda anlaşıldığı, su yalıtım kısmının davacıya verildiği, mülk sahibi ...’nın İzmir 5.
 
 …
@@ -138,6 +152,8 @@ Muayene ve gözden geçirmeyi veya ayıbın belirlenmesini iş sahibi bizzat yap
 
 ## Ankara BAM 27. HD 2024/915 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1090503700)
+
 Davalı S.S. ...
 
 …
@@ -151,6 +167,8 @@ Dava konusu bağımsız bölüme ilişkin açılan davadaki dava dilekçesi, Dai
 Tüm bu açıklamalar dikkate alındığında, davaya konu villanın davacı yükleniciye arsa payı karşılığı inşaat sözleşmesi gereği yaptığı imalat ve devir kapsamında devrinin kabul edildiği, davalı tarafça 22.01.2009 tarihli belgede eksikliklerin giderilmesi yönünde kendisine tanınan hakları dava açıldığı tarihe kadar kullanmayıp, protokol kapsamında eksik ve ayıplı işlerin tespiti isteminde bulunduğu ve mahkemesince davalı tarafça yaptırılan bu tespitteki eksik ve ayıplı işlerin dava tarihi itibariyle değerinin tespit edildiğinin anlaşılmasına göre, mahkemece verilen kararın dosya kapsamına, usul ve yasaya uygun olduğu anlaşılmakla, davalılar vekillerinin istinaf başvurularının HMK'nun 353/1-b.1 maddesi gereğince ayrı ayrı esastan reddine karar verilmesi gerekmiştir.
 
 ## İstanbul BAM 45. HD 2024/780 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1044160500)
 
 Dava ve taraf ehliyeti kamu düzenine ilişkin olup, mahkemece re’sen göz önünde tutulması gereken hususlardandır.
 

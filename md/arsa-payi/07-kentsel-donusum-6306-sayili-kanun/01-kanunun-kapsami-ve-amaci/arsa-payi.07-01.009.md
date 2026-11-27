@@ -21,6 +21,8 @@ uyari: "Derleyenin seçtiği alıntılardır; kararın tamamı değildir. Künye
 
 ## Yargıtay 13. HD 2013/28312 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/508319500)
+
 Davacı, ... Kentsel Dönüşüm ve Gelişim Projesi kapsamındaki evini konut karşılığında davalıya devrettiğini, kıymet takdir komisyonu eki niteliğinde olan analiz raporundaki bedelin yanlış hesaplandığını, yapı sınıfının hatalı olarak belirlendiğini ileri sürerek fazlası saklı kalmak üzere 1000 TL'nın tahsilini istemiştir.
 
 Davalı, davanın reddini dilemiştir.
@@ -36,6 +38,8 @@ SONUÇ: Yukarıda açıklanan nedenlerle; davacının karar düzeltme itirazlar�
 
 ## Yargıtay 5. HD 2011/1054 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/624763500)
+
 Dava, kamulaştırmasız el atılan taşınmaz bedelinin tahsili istemine ilişkindir.
 
 Mahkemece dava konusu taşınmaza el atılmadığından bahisle davanın reddine karar verilmiş, hüküm davacılar vekilince temyiz edilmiştir.
@@ -49,6 +53,8 @@ Belirtilen nedenlerle, projenin bir bütün olduğu, davacılara ait taşınmaz�
 Davacılar vekilinin temyiz itirazları yerinde olduğundan hükmün açıklanan nedenle HUMK’nun 428.maddesi gereğince BOZULMASINA …
 
 ## Yargıtay 5. HD 2010/3636 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1022738000)
 
 Dava, kamulaştırmasız el atılan taşınmazlar bedelinin tahsili istemine ilişkindir.
 
@@ -75,6 +81,8 @@ Dairemizce yapılan değerlendirmede davacı tarafın istinaf sebeplerinin hakl�
 
 ## İstanbul BAM 15. HD 2024/681 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1067847700)
+
 Mahallesi, ... ada ....parsel sayılı taşınmazda yüklenici firma tarafından inşaat projesi için hak sahipleri ile kat karşılığı inşaat sözleşmesi imzalanması suretiyle kentsel dönüşüm faaliyetleri yürütülmüş olup ilgili firma tarafından yapım aşamasına başlanan inşai faaliyetler tamamlanamadığını, 6306 sayılı Kanunun 6/A maddesinin altıncı fikrasından da anlaşılacağı üzere feshedilmiş olan sözleşmeler hak sahipleri ile müteahhit firma arasında imzalanan gayrimenkul satış vaadi sözleşmeleri ile arsa payı karşılığı inşaat sözleşmeleri olduğunu, mahsuplaşma da gayrimenkul satış vaadi sözleşmeleri ile arsa payı karşılığı inşaat sözleşmesinin tarafı olan ve bu sözleşmelere istinaden iş ve uygulama yapan müteaahit firma ile yapılacağını, dolayısıyla davacı işbu sözleşmelerin tarafı olmadığından mahsuplaşma durumu söz konusu olmadığını belirterek davacının haksız ve hukuka aykırı taleplerinin ve davasının reddi gerektiğinden bahisle davanın husumet yönünden reddine, davacı tarafından açılan davanın açıkça hukuki dayanaktan yoksun olması sebebi ile davanın reddine karar verilmesini talep etmiştir.Davalı....
 A.Ş. vekili; müvekkili şirketin yasal mevzuat ve protokoller kapsamında, müşavirlik hizmeti verdiğini, müşavir şirket sıfatıyla vekaleten yürütmekte olduğu iş ve işlemler sebebiyle bahse konu taleplerden sorumlu tutulması mümkün olmadığını, müvekkili şirketin .... Başkanlığı (....) iştiraki olduğu, .... Bakanlığı ya da.... Başkanlığı tarafından bir çok Kentsel Dönüşüm projesi gerçekleştirilmekte ve idare tarafından görevlendirilmesi sonucu müvekkili şirketin de bu projelerde yer aldığını, Kentsel Dönüşüm kapsamında: İstanbul İli Kadıköy İlçeşi..., ... ve ... Mahallerinin bir kısmını içeren 09.05.2013 tarih ve 2013/4749 sayılı Bakanlar Kurulu kararı ile riskli alan ilan edilen bölge, dava konusu alanı da kapsadığı, 6306 Sayılı Afet Riski Altındaki Alanların Dönüştürülmesi Hakkında Kanunun “Uygulamaların Resen Yapılması” başlıklı 6/A maddesi gereğince Kentsel Dönüşüm alanlarında resen düzenleme yapma yetkisi ....
 
@@ -84,6 +92,8 @@ Mahallelerinin bir kısmını içeren alanda yapılacak olan düzenlemelere ili�
 Bakanlığı ile...A.Ş arasındaki protokolle tekrar yapımına başlanmakla kendi imalatı olan iksalar üzerinde inşa edildiği ve ödenmeyen bedelin davalılardan talep edildiği, 6098 Sayılı TBK'nın 77. maddesine göre sebepsiz zenginleşmenin "Haklı bir sebep olmaksızın, bir başkasının malvarlığından veya emeğinden zenginleşen, bu zenginleşmeyi geri vermekle yükümlü olduğu, bu yükümlülük, özellikle zenginleşmenin geçerli olmayan veya gerçekleşmemiş ya da sona ermiş bir sebebe dayanması durumunda doğmuş olur." şeklinde tanımlandığı, davacı vekili, dava dışı şirketlerle imzaladığı sözleşme uyarınca iksa işlerini yaptığı taşınmazların, 6306 sayılı Kanun 6/A maddesinin 6. fıkrası hükmüne göre ..Bakanlığına devredilerek ihale ile başka firmalara verildiği, yapılan yeni ihalede iksa giderlerinin eklenmediği, böylece davalıların iksa giderlerinden kurtularak sebepsiz zenginleştikleri için eldeki bu davanın açıldığı, 7181 sayılı kanun ile eklenen 6306 sayılı Afet Riski Altındaki Alanların Dönüştürülmesi Hakkında Kanunun 6/A maddesinin 6.
 
 ## İstanbul BAM 15. HD 2022/1945 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/842628200)
 
 Mahallesi, ... ada, ... parsel adresinde hafriyat çalışmalarına engel olan ... nolu trafo merkezinin deplase edilmesi işleminin ...'a hiç bir mali ve hukuki külfet getirilmeden tüm masrafların müşteri tarafından karşılanarak gerçekleştirileceği, yapılacak işin toplam tutarının KDV hariç 87.136,00 TL olduğu, yerle ilgili olarak 100.000,00 TL, tesis içinse 87.136,00 TL olmak üzere toplam 187.136,00 TL süresiz teminat mektubu alınacağı düzenlenmiş, devamında; trafonun BEDAŞ'ın uygulamakla yükümlü olduğu şartnamelerine uygun müşteri tarafından hazırlanan ve ... tarafından onaylanacak inşaat ile ... tarafından onaylanacak elektrik projesine göre müşteri tarafından tesis edileceği düzenlenmiş, mevcut trafo merkezinin demontajının genel kurallara uygun olarak yıkılması/sökülmesi, molozun kaldırılması ve molozun Belediyelerce gösterilecek döküm yerine nakliyesi işlerinin müşteri tarafından yapılacağı, talep sahibi tarafından davalı ... şirketi tarafından onaylanacak projeye uygun olarak trafo merkezi tesis edileceği, taşınmaz üzerinde yeni tesis edilecek trafo merkezi için 99 yıllığı 1 TL'den 99 yıllık kira kontratı düzenleneceği ve tapuya ...
 Genel Müdürlüğü lehine 99 yıllığı 1 TL'den kira şerhi konulacağı, tapuya ... Genel Müdürlüğü lehine 99 yıllık kira şerhi konulmadan deplase işlemlerine başlanamayacağı, deplase işlemlerinin yapılması esnasında ortaya çıkabilecek her türlü vergi, resim harç ile tüm giderlerin .../... Genel Müdürlüğü'ne hiçbir mali külfet getirmeden müşteri tarafından karşılanacağı belirtilmiştir. Görüldüğü üzere; davalı ... ile arsa sahibi ... Yapı Kooperatifi arasında akdedilen 06/10/2016 tarihli prokokolde dava konusu ... sayılı trafo merkezinin deplase işlemlerinin yapılması esnasında ortaya çıkabilecek her türlü vergi, resim harç ile tüm giderlerin .../... Genel Müdürlüğü'ne hiçbir mali külfet getirmeden arsa sahibi kooperatif tarafından karşılanacağı düzenlenmiştir. Bu protokol gereğince dava dışı arsa sahibi ... Yapı Kooperatifi deplase işleminin gerçekleştirilmesi için yapılan masrafların kendisi tarafından karşılanacağını kabul ve taahhüt etmiştir. Bu işlemlerden sonra davacı ile dava dışı arsa sahibi ...
@@ -100,6 +110,8 @@ HÜKÜM: Gerekçesi yukarıda açıklandığı üzere; A)1-Davacı vekilinin ist
 
 ## İzmir BAM 11. HD 2022/1099 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/784169100)
+
 Dava, koperatif bina güçlendirme alacağının tahsili amacıyla başlatılan icra takibine davalıların itirazının iptali istemine ilişkin olup, ilk derece mahkemesince yukarıda yazılı gerekçeyle davanın kabulüne karar verilmiştir.
 
 …
@@ -111,6 +123,8 @@ Mahkemece esas alınan bilirkişi raporunun dosya kapsamına, usul ve yasaya uyg
 Davalılar vekilinin istinaf başvurusunun Hukuk Muhakemeleri Kanunu'nun 353/1-b-1 maddesi uyarınca ESASTAN REDDİNE …
 
 ## İstanbul BAM 45. HD 2021/891 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/680066000)
 
 İLK DERECE MAHKEMESİ KARARI Mahkemece ''... dosya kapsamında alınan bilirkişi raporu içeriğine göre dava konusu işyerindeki zarardan davalının sorumlu olduğuna ilişkin herhangi bir delil bulunmadığı, yıkım sonrası dava dışı sigortalı ...'ya ait binanın sıva işlemlerinin Kat Mülkiyeti Kanunu gereğince bina malikleri tarafından yapılması gerektiği, davalı tarafından yapılan yıkım üzerinden 1 yıl 3 ay geçmesine rağmen bu yönde herhangi bir işlemin yapılmaması sebebiyle dosyaya konu zarardan davalının sorumlu olmadığı, davacının iddiasını yöntemince ispat edememesi sebebiyle sübut bulmayan davanın reddine karar verilmiştir.
 
@@ -124,6 +138,8 @@ Kadıköy Belediye Başkanlığı Yapı Kontrol Müdürlüğünce mahkemeye gön
 H Ü K Ü M: Gerekçesi yukarıda izah edildiği üzere; 1-Davacının istinaf başvurusunun 6100 sayılı HMK'nun 353/1-b1. maddesi gereğince ESASTAN REDDİNE …
 
 ## İstanbul BAM 17. HD 2019/16 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/462650600)
 
 Davalı vekili cevap dilekçesinde özetle; taraflar arasında imzalanan sözleşme kapsamında davacı tarafın yerine getirmesi gereken birçok yükümlülükten sadece birisini, müşavirlik bedeli olarak belirlenen tutarı ödediğini, geri kalan yükümlülüklerini ise ya hiçbir şekilde ya da gereği gibi yerine getirmediğini, sözleşmenin bir işbirliği sözleşmesi olduğunu, davacı şirketin müşavirlik sözleşmesi kapsamında üstüne düşen görevleri yerine getirme ve işbirliği yapma konusunda son derece isteksiz davrandığını ve sözleşme ile belirlenen amaca ulaşmayı imkansız hale getirdiğini, genel hükümlere göre taraflardan bir tarafın sözleşme gereği yükümlülüklerini yerine getirmediği durumda karşı taraf sözleşme konusu işe devam etmeye zorlanamayacağını, çünkü müşavirlik sözleşmesi kapsamındaki işlerin müvekkili şirketin kamu kurumları (TOKİ, Gaziosmanpaşa Belediyesi, Çevre ve Şehircilik Bakanlığı) ile arasındaki, sözleşmeler ve irtibatı dolayısıyla direkt sorumluluğunda olduğunu belirterek davanın reddine karar verilmesini talep etmiştir.
 

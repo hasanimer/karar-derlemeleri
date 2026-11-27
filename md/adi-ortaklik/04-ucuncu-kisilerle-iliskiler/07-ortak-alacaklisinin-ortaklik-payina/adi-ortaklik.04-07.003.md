@@ -21,6 +21,8 @@ uyari: "Derleyenin seçtiği alıntılardır; kararın tamamı değildir. Künye
 
 ## Ankara BAM 24. HD 2023/1141 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/914339300)
+
 Ankara 9. Asliye Ticaret Mahkemesinin, 29/11/2021 tarih, 2021/562 E., 2021/772 K. sayılı “ icra takibinin adi ortaklığı oluşturan tüm kişi yada şirketlere karşı başlatılması gerekli olup, somut olayda icra takibinin ortaklığı oluşturan şirketlerden hiç bahsedilmeksizin "... ADİ ORTAKLIĞI" na karşı başlatıldığı, bu hali ile usulüne uygun şekilde başlatılmış icra takibinin varlığından söz edilemeyeceği gerekçesiyle HMK.'nun 114/2. ve 115/2. maddeleri gereğince; usulüne uygun şekilde başlatılmış icra takibi bulunmasına ilişkin dava şartı yokluğu nedeniyle davanın usulden reddine,” ilişkin kararına karşı davacı vekilinin istinaf başvurusu üzerine Dairemizin 05/10/2022 Tarih, 2022/873 Esas, 2022/1091 Karar sayılı ilamı ile …
 
 …
@@ -29,9 +31,13 @@ Dosya kapsamından, her ne kadar takip talepnamesi ve buna uygun olarak düzenle
 
 ## Ankara BAM 27. HD 2023/885 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/929764700)
+
 Adi ortaklığın tüzel kişiliği olmadığı gibi taraf ehliyeti de bulunmamaktadır. Adi ortaklığın tüzel kişiliği bulunmadığından icra takibinin adî ortaklığı oluşturan tüm ortaklar tarafından yapılması ve davanın da tüm ortaklar tarafından açılması gerekir. Zira, ortaklar davada mecburi dava arkadaşı durumundadırlar. Birlikte icra takibi yapılmadığı ya da dava açılmadığı taktirde, diğer ortakdan muvafakat alınması ya da ayrı bir dava açılarak birleştirilmesi suretiyle taraf teşkilinin sağlanması gerekir. Aksi takdirde usulüne uygun bir icra takibi yapıldığından ve dava açıldığından söz edilemez. (Yargıtay 15 Hukuk Dairesi'nin 17/05/2016 tarih ve 2016/894 Esas-2016/2845 Karar sayılı kararı)
 
 ## Sakarya BAM 7. HD 2023/821 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/905147500)
 
 Bu açıklamalardan anlaşılacağı gibi adi ortaklık alacaklısına karşı açılacak davaya tüm ortakların katılımının sağlanması şarttır. Ortaklarca birlikte dava açılmadığı takdirde adi ortaklardan bir kısmınca açılan davaya dava açmayan diğer ortakların davaya katılımının ya da muvafakatlerinin sağlanması, olmadığı takdirde davanın dava şartı noksanlığı nedeniyle reddine karar verilmesi gerekmektedir.
 
@@ -39,21 +45,29 @@ Eldeki uyuşmazlık, icra takibinden sonra açılmış menfi tespit davası olup
 
 ## Ankara BAM 31. HD 2023/696 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/904597800)
+
 Alacaklılar arasında takip arkadaşlığı bazı hallerde söz konusu olur. Bu kimi zaman zorunlu, kiminde de isteğe bağlı olabilir. Alacaklılar arasında zorunlu takip arkadaşlığı konusundaki örneklerden biri de adi ortaklığa ait bir alacağın takibi halidir. Ortakları arasında gizli temsil ilişkisi bulunmayan veya sözleşme ile veya alınan bir kararla ortaklardan birine ortaklığı temsil yetkisi verilmemiş ise adi şirketlerde, şirketin bir alacağının ancak bütün ortaklar tarafından imzalanacak ortak bir takip talebi ile icraya konulabilir. (İtirazın İptali Davaları, Dr. Adnan Değnekli - Sedat Kısa, sayfa 26-27)
 
 Bu bilgiler ve içtihatlar ışında somut olay değerlendirildiğinde, eser sözleşmesinin tarafı olan ... ve Ortakları adi ortaklığına ait eksik ve ayıplı işler nedeniyle fazla ödenen iş bedeli alacağının tahsili konusundaki icra takibinin adi ortakların tamamı tarafından yapılan bir takip talebi ile başlatılabileceği, menfi tespit istemine konu icra takibinin ise adi ortaklardan sadece biri tarafından yapıldığı, bu ortağa takip tarihi itibariyle sözleşmeyle veya alınan yönetim kurulu kararı ile takip yapılması konusunda verilmiş bir yetkinin bulunmadığı, bu sebeple davacı yüklenici hakkında yapılan ve kesinleşen icra takibinin geçerli bir icra takibi niteliğinde bulunmadığı anlaşıldığından davacının menfi tespit davasının kabulü ile kesinleşen Kayseri 8. İcra Müdürlüğünün 2015/1583 Esas sayılı takip dosyasından dolayı davacı şirketin davalı ...'a borçlu olmadığının tespiti, davacının hakkında takip başlatan davalının kötü niyetle icra takibini yaptığı yönündeki iddiasını ispatlayamadığı anlaşıldığından davacının kötü niyet tazminatı isteminin ise reddi yönünde karar verilmesi gerekmiş ve aşağıdaki hüküm kurulmuştur.
 
 ## İstanbul BAM 3. HD 2022/2321 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/813947500)
+
 İcra Dairesi'nin ... Esas sayılı dosyasından yapılan takibin, borçlu ... San. A.ş. - ... Tic. A.Ş. İş Ortaklığı yönünden iptaline karar verildiği, ilgili icra takibinin iptal edilmiş olması nedeniyle hukuken geçerli bir takip bulunmadığı, davanın her halükarda reddine karar verilmesi gerektiği ileri sürülmüştür. HMK.nun 355. maddesi uyarınca, ileri sürülen istinaf sebepleri ile sınırlı olarak yapılan inceleme sonucunda; dava davacı alacaklı tarafından davalılar aleyhine fatura alacağından kaynaklanan İİK 67 maddesi kapsamında açılan itirazın iptali davasıdır. Davanın dayanağı olan, İstanbul ... İcra Müdürlüğünün ... E. Sayılı icra dosyasının incelemesinde; davacı/alacaklı tarafından davalılar/borçlular aleyhine 25.810,14 TL borcun ödenmesi amacıyla 25/11/2016 tarihinde icra takibi başlatıldığı, borçluların icra takibine itiraz ettiği, takibin durdurulmasına karar verildiği anlaşılmıştır. Dosyadaki bilgi ve belgelere göre ; Davalı tarafça İstanbul ... İcra Dairesi'nin ... Esas sayılı dosyasının iptali için icra hukuk mahkemesinde dava ikame edilmiş ve neticede İstanbul 28. İcra Mahkemesi'nin 2021/402 e.
 2021/465 k. ve 08.10.2021 tarihli kararı ile davaya konu icra takibinin iptaline karar verilmiş olduğu ek istinaf dilekçesinde bildirilmiş olup karar örneği ibraz edilmiştir. Sözkonusu kararın 23/11/2021 tarihinde kesinleştiği anlaşılmıştır. Böylece ; dava itirazın iptaline ilişkin olup, dava dayanağı olan icra takibinin kesinleşmiş mahkeme kararı ile iptal edildiği,böylece davanın konusuz kaldığı anlaşılmakla ,davalıların istinaf talebinin kabulü ile ;HMK 353/1-b-2 maddesi uyarınca karar kaldırılarak,yeniden esas hakkında aşağıda yazılı olduğu şekilde karar verilmesi gerekmiştir. Davacı istinafı yönünden ; dava dayanağı takip iptal edilmekle davacının istinaf talebinin ise HMK 353/1-b/1 maddesi uyarınca reddine karar verilmesi gerekmiştir.
 
 ## Ankara BAM 31. HD 2022/1129 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/837817400)
+
 Somut olayda icra takibi adi ortaklık adına ... ... .... A.Ş. tarafından yapılmış, dava da yine bu şirket tarafından açılmış ise de; sözleşmeyi bu şirket ile ... ... şirketinin birlikte imzaladıkları anlaşılmaktadır. Adi ortaklığın tamamını takip ve davalarda temsil yetkisi verildiğine dair ortaklık sözleşmesi veya kararı sunulmadığı gibi gerek icra takip dosyası gerekse dava dosyasında adi ortaklığı oluşturan şirketlerin takibi yapan ve davayı açan avukata verdikleri bir vekâletname bulunmamaktadır. Bu durumda, mahkemece itirazın iptâli davası için alınacak muvafakat icra takibine muvafakati de kapsayacağından, davacıya adi ortaklık sözleşmesi ibraz ettirilip adi ortaklığı oluşturan diğer şirketin davaya muvafakatlerini sağlamak, muvafakat vermemeleri halinde eldeki dava ile birleştirilmek üzere dava açması için yeterli ve kesin süre verilip bu şekilde taraf ehliyeti ve teşkili sağlandıktan sonra işin esasının incelenip sonucuna uygun bir karar verilmesi gerekirken, aktif husumet yokluğundan bahisle asıl davanın reddine karar verilmesi doğru olmamıştır. (Yargıtay 15.
 Hukuk Dairesi'nin 16.05.2016 gün 2015/4018 Esas 2016/2756 Karar, 11.04.2017 gün 2016/1774 Esas, 2017/1668 Karar sayılı ilamları). (YHGK.nun 17.01.1990 gün E.13-457, K.2 sayılı kararı, Yargıtay 15. H.D. 2019/534 E, 2019/4285 K; 2015/4018 E, 2016/2756 Karar, 2016/1774 Esas, 2017/1668 Karar; 2018/5504 E, 2019/4133 K sayılı ilamları)
 
 ## İzmir BAM 17. HD 2022/1086 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/779219100)
 
 Dava, cari hesap ve ticari kayıtlara istinaden alacağın tahsili için yapılan icra takibine vaki itirazın iptali istemine ilişkindir.
 
@@ -66,6 +80,8 @@ Sanayi adi ortaklığının ortağı ... tarafından yazılı olarak diğer orta
 
 ## İzmir BAM 17. HD 2022/370 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/737358000)
+
 Dava, sözleşmeden kaynaklanan alacağın tahsili istemine ilişkindir.
 
 …
@@ -74,12 +90,16 @@ Yargıtay ilamı ışığında somut olaya bakıldığında; "..." adi ortaklık
 
 ## İstanbul BAM 16. HD 2022/365 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/733456500)
+
 …
 
 : Dava, İİK'nın 89/3 maddesi uyarınca açılan menfi tespit davasıdır. Davalı ...Ltd.Şti tarafından diğer davalı ... Ltd. Şti aleyhine bonoya dayalı icra takibi başlatıldığı, bahse konu takip dosyasında ...- ... İş ortaklığına İİK'nın 89. Maddesi uyarınca haciz ihbarnamelerinin gönderildiği ve davacı tarafından borçlu olmadığının tespiti istemiyle huzurdaki davanın açıldığı, yargılama sonunda davanın kabulüne karar verildiği, kararın da davalı davalı ...Ltd.Şti tarafından istinaf edildiği anlaşılmıştır. Davalı taraf istinafında davacının aynı konuda İcra Hukuk Mahkemesinde dava açtığını ileri sürmüş ise de, İcra Hukuk Mahkemesi dar yetkili olduğundan davacının genel mahkemede işbu davayı açmada hukuki yararı bulunmaktadır. Ayrıca İİK'nın 89. Maddesine göre açılan menfi tespit davaları maktu harca tabi davalardandır. Adi ortaklığın tüzel kişiliği bulunmadığından adi ortaklığa İİK'nın 89. Maddesi uyarınca ihbarname gönderilmesine ve bu şekildeki hatalı işlemin yapılmasına davacı sebebiyet vermemiştir. Bu yönlere ilişkin istinaf talepleri yerinde değildir. Ne var ki davacı tarafça İstanbul 5.
 İcra Hukuk Mahkemesinin 2016/89 E sayılı dosyasında haciz ihbarnamelerinin usulsüzlüğü ve tebligatın kanuna aykırı olduğu iddiasıyla açılan dava sonunda davanın kabulüne ve adi ortaklığa çıkarılan ihbarnamelerin iptaline karar verildiği ve kararın Yargıtay 12. H.D tarafından onanmak suretiyle kesinleştiği anlaşılmıştır. Bu durum karşısında huzurdaki menfi tespit davasının konusu kalmamıştır. Mahkemenin bu hususu göz ardı ederek yazılı şekilde karar vermesi usul ve yasaya aykırı olup, açıklanan bu yönü itibariyle re'sen bağlamında istinaf talebinin kısmen kabulü gerekmiş, yukarıda da belirtildiği üzere davanın açılmasına davacı taraf sebebiyet vermediği de gözetilerek aşağıdaki hüküm kurulmuştur.
 
 ## Ankara BAM 31. HD 2022/297 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/742158300)
 
 Dava, eser sözleşmesinden kaynaklanan itirazın iptali istemine ilişkindir.
 
@@ -90,6 +110,8 @@ Dava, eser sözleşmesinden kaynaklanan itirazın iptali istemine ilişkindir.
 Açıklanan bu olgular ışığında; somut olayda dosya içerisinde bulunan takip talebi ve örnek 7 numaralı ödeme emrinin incelenmesinde, takip talebinde "...... denilmiş ve adi ortaklığın kimlerden oluştuğu açıklanmamıştır. Takipte adi ortaklık adına tek bir ödeme emri çıkartılmış olup, adi ortaklığı oluşturan şirketler adına ayrı ayrı çıkartılmış ve tebliğ edilmiş bir ödeme emri bulunmadığı gibi adi ortaklığı oluşturan şirketler adına sunulan vekâletname de bulunmamaktadır. Dava dilekçesinde ise adi ortaklığı oluşturan şirketler ayrı ayrı gösterilmiştir. Adi ortaklığa karşı yapılacak icra takibinin, tüm ortaklara yöneltilmesi gerektiği gibi, dava itirazın iptâli olduğundan talep borçlusu ile davalının farklılık arzetmemesi gerekmektedir. Bu durumda, adi ortaklığa yöneltilmiş usulüne uygun bir icra takibi bulunmamaktadır. Taraf ehliyeti kamu düzeninden olup, mahkemece kendiliğinden göz önüne alınarak ve dava şartı yokluğundan reddine karar verilmesi gerekirken, yazılı şekilde karar verilmesi doğru olmamıştır.
 
 ## Antalya BAM 7. HD 2022/250 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/741262000)
 
 Dava, eser sözleşmesi kapsamında iş bedelinden kaynaklanan alacağın tahsili için yürütülen ilamsız icra takibine vaki davalının itirazının iptali istemine ilişkindir.
 
@@ -102,10 +124,14 @@ Somut olayda, davacı alacaklı yüklenici tarafından, iş sahibi olan adi orta
 
 ## İstanbul BAM 3. HD 2021/2920 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/699711800)
+
 İcra takibinin taraf ve dava ehliyeti olmayan adi ortaklık aleyhine açılmasıdaki hukuka aykırılığın itirazın iptali davasının adi ortaklığı oluşturan şirketlere yöneltilerek giderilmesinin mümkün olmadığı, icra takibinde dayanak belgelerin tebliğ edilmediği, dava konusu faturanın ölçümünü yaptığı sayacın takılı olduğu taşınmazın müvekkili şirket veya ortağı olduğu adi ortaklık tarafından değil önce ataşehir belediyesi ve daha sonra otel olarak hizmet vermiş işyerlerince kullanılmış olduğu, dava konusu fatura ile ilgili ... numaralı sayacın takılı olduğu taşınmaz müvekkil şirket ve ortağı olduğu adi ortaklık tarafından inşa edilmiş ancak daha sonra 2009 yılına kadar inşaatı tamamlanarak malik ve kullanıcılarına teslim edilmiş olduğu, tebligatların müvekkili şirkete veya adi ortaklığa yapılmadığından faiz işletilmesi ve icra inkar tazminatına hükmedilmesinin hukuka aykırı olduğu, müvekkili şirketin tüm borçtan müştereken ve müteselsilen sorumlu tutulmasının hukuka aykırı olduğu, Adi ortaklığı oluşturan şirketlerin ortaklıkta payları oranında hak ve borçlara sahip olduğu ileri sürülerek, kararın kaldırılması istenmiştir.
 HMK.nun 355. maddesi uyarınca, ileri sürülen istinaf sebepleri ile sınırlı olarak yapılan inceleme sonucunda; dava, fatura alacağından kaynaklanan icra takibine davalı tarafça yapılan itirazın iptali talebine ilişkindir. Dosyadaki bilgi ve belgelere göre ; davacı- alacaklı vekili tarafından, İstanbul Anadolu ... İcra Müdürlüğünde başlatılan ilamsız icra takip dosyasında, takip talebinde borçlu olarak “... ve ...”nin gösterildiği, ortaklığı oluşturan şirketlere ödeme emrinin tebliği üzerine takibe itiraz dilekçesi sundukları, borca itiraz dilekçesinin borçlu ortaklık girişiminin vekili tarafından verildiği, alacaklı vekilince ,icra müdürlüğüne müracaatla, takip talebinde adi ortaklığı oluşturan şirketlerin ünvanlarının ayrı ayrı yazılmamasının maddi hata olduğu beyan edilerek , adi ortaklığı oluşturan şirketlere ayrı ayrı ödeme emri tebliği yapılması talebinin ,icra müdürlüğünce reddedilmesi üzerine ,davacı tarafça şikayet yoluna başvurulduğu, Anadolu 1.
 
 ## İstanbul BAM 3. HD 2021/2695 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/696324300)
 
 Pafta;..., ADA;...,PARSEL;... 'de kayıtlı gayrimenkulün ihtiyati tedbir konulmaması sonucunda satılarak paraya çevrilmiş olduğunu belirterek, hem ihtiyati tedbir hem de ihtiyati haciz kararı verilmesini talep ettiklerini ,zira hakkın elde edilmesinin davalının mal kaçırma iradesinin ortaya çıkmasıyla neredeyse imkansız hale geldiğinin açık olduğu, ,dosyada noter onaylı adi ortaklık sözleşmesi bulunduğu, tarafların imzalarını ve şahit imzalarını havi sözleşmede gayrimenkulün ortaklık malı olduğu açıkça ortada olduğu, dosyaya ortaklığa ait banka hesap hareketlerinin de sunulduğu, bu delillere rağmen davalıya adeta mal kaçırması için fırsat verilecek şekilde hüküm kurulduğu, 25.08.2021 tarihinde yeniden talepte bulunularak ara karardan rücu edilmesi, ön incelemenin yakın bir tarihe verilmesi ihtiyati haciz ve ihtiyati tedbir taleplerinin değerlendirilmesi taleplerinin de reddedildiği, kararda davalı şirketin mal kaçırdığı veya mal kaçırmaya teşebbüs ettiği yönünde delil sunamadıklarının belirtildiği, ortaklık mallarının davalı adına olduğu ve kardeş oldukları için davalının ortaklık mallarını devrettiğini davacının bildiği, ancak mal kaçırma hususunu belgeleme imkanının tapu
 kayıtlarının ilgilisi dışında hiç kimseye verilmemesi nedeni ile mümkün olmadığı, bu durumun ancak mahkeme tarafından tapuya sorularak ve araştırılarak ortaya çıkabileceği, Mahkemeye tapu bilgileri ve plaka bilgilerinin verildiği, yazılacak yazı ile ortaklık mallarının devredildiği ortaya çıkacağı, ortaklık adına açılan ortak hesaba ait hesap dökümü incelendiğinde davalının hesaptan neredeyse para çeken tek kişi olduğu, payından daha fazla kısmı aldığının ortaya çıkacakğı, ihtiyati tedbir ve ihtiyati haciz taleplerinin reddi kararının kaldırılması istenmiştir. ...nun 355. maddesi uyarınca, ileri sürülen istinaf sebepleri ile sınırlı olarak yapılan inceleme sonucunda ;ilk derece mahkemesinde derdest bulunan dava ,adi ortaklığın feshi ve tasfiyesi talebine ilişkindir. Dosyadaki bilgi ve belgelere göre ; taraflar arasında ( dava dışı 3. drtak ile) adi ortaklık sözleşmesi imzalanmıştır. Davacı vekili, 16.08.2021 tarihli dilekçelerinde ortaklığa ait ... Plakalı ... Minbüs, ...
@@ -115,16 +141,22 @@ No'lu hesapla ilgili olarak denetim kayyumu tayin edilmesinin tarafların hak ve
 
 ## İstanbul BAM 16. HD 2021/1614 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/682598400)
+
 G E R E K Ç E: İtirazın iptali talepli davada, mahkemece icra takibinde alacaklı olarak adi ortaklığın gösterildiği, iş ortaklığını oluşturan şirketler yerine iş ortaklığı adına takip başlatılmasının usulsüz olduğu ve takibe konu çeklerin zamanaşımına uğraması nedeniyle kambiyo vasfı yitirildiğinden, avalistin sorumluluğuna gidilemeyeceği, davalının pasif husumetinin de bulunmadığı gerekçesiyle, davanın dava şartı yokluğundan reddine karar verilmiştir. Adi ortaklığın, tüzel kişiliği bulunmadığı için fiil ehliyeti ve taraf ehliyeti bulunmamaktadır. Adi ortaklık tarafından açılacak davalar ve icra takipleri bakımından, adi ortaklığı oluşturan kişilerin TBK’nun 638. maddesi uyarınca taraf olarak birlikte hareket etmeleri yani, adi ortaklığa ilişkin davaların ve takiplerin ortakların hepsi tarafından birlikte ikame edilmesi veya ortakların tamamının taraf olarak yer alması gerekir. Kısaca adi ortaklığın taraf olduğu hukuki işlem ve eylemlerde dava açma ehliyeti elbirliği mülkiyeti kuralları gereğince (6098 Sayılı TBK'nun 638., TMK'nun 702. maddeleri) mecburi dava arkadaşı olarak bütün ortaklar tarafından birlikte kullanılması gerekir.
 Taraf ehliyeti 6100 sayılı HMK 'nun 114/ 1-d maddesi uyarınca dava şartlarından olup yine aynı yasanın 115/1 maddesi gereğincede kamu düzenine ilişkin olduğundan taraflarca ileri sürülmese dahi kendiliğinden gözönüne alınması gerekir. Davacılar vekilinin dava dilekçesinde; adi ortaklık ve adi ortaklığı oluşturan şirketlerin ticaret unvanlarını gösterdiği ve vekaletnamelerini ibraz ettiği anlaşılıyorsa da, icra takibinde sadece adi ortaklığın alacaklı olarak gösterildiği 6098 Sayılı TBK 630/1 maddesi gereğince Kanunda ve ortaklık sözleşmesinde aksine hüküm bulunmadıkça, yönetici ortaklar ile diğer ortaklar arasındaki ilişkiler vekalet sözleşmesine tabi olduğundan ve vekilin idare hakkı olağan işlerle sınırlı olduğundan, icra takibi başlatma hakkının ise olağan işlerden olmadığı, (TBK 504/3 maddesinde vekilin özel olarak yetkili kılınmadıkça dava açamayacağına ilişkin hüküm) icra takibindeki alacaklı tarafa ilişkin eksikliğin, HMK 124. Madde kıyasen uygulanarak düzeltilemeyeceği kanaatiyle, usulüne uygun olarak başlatılmış icra takibi bulunmadığından mahkemece davanın usulden reddi kararı yerindedir.
 Davacılar vekili istinaf dilekçesinde; davalı tarafça zamanaşımı itirazının itirazın iptali davasında ileri sürülemeyeceğini, TBK 161. Madde gereğince borçlu tarafça zamanaşımı definde bulunulmadıkça mahkemece borcun zamanaşımına uğradığının doğrudan gözetilemeyeceğini ileri sürmüştür. Davalı vekilinin süresinde ibraz ettiği cevap dilekçesinde takibe konu çekin zamanaşımına uğradığını ileri sürdüğü, zamanaşımına uğramış ve kambiyo vasfını yitirmiş çekte davalının avalist olduğu ve borçlu sıfatının bulunmadığı anlaşıldığından, mahkemece bu husus gözetilerek sonuç olarak, davalı borçlu hakkında usulüne uygun olarak başlatılmış takip bulunmadığından, HMK 114/2, 115/2 maddeleri uyarınca dava şartı yokluğundan davanın usulden reddi kararının yerinde olduğu kanaatiyle, davacılar vekilinin istinaf başvurusunun esastan reddine karar vermek gerekmiştir.
 
 ## İzmir BAM 4. HD 2021/1258 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/661953700)
+
 İlk Derece Mahkemesince verilen kararda özetle; davacı ... şirketi ile davalı ... şirketinin ortaklarının kurduğu ... Ltd.Şti isimli bir şirketin bulunduğu,davacı ... şirketi ile ... Ltd.Şti:nin birlikte bir Belediye Hizmet binasının yenilenmesi işi için adi ortaklık kurdukları,davalı şirketin de bu işin yerine getirilmesi çin taşeron şirket olduğu,davacının bu iş nedeni ile 155.000,00 TL davalı taşeron şirkete fazla para gönderdiği,bu arada davacı şirketin dava dışı ...
 Şirketine de borcunun bulunduğu ve ... şirketinin alacağının tahsili için davacı aleyhine icra takibine giriştiği,davalı şirketin 155.000,00 TL parayı ... şirketi ile davacının ortak banka hesabına gönderdiği,dolayısı ile fazla ödenen paranın davacıya geri iade edilmesi gerekirken iş ortaklığına gönderilmesinin doğru görülmese de davacının da bu nedenle icra takibi başlattığı, ancak zaten gönderilen hesabın davacı ile ortak olan hesaba gönderilmesi nedeni ile davacının uhdesine de girdiğinden davacının ayrı bir takip yapmakta ve dolayısıyla dava açmakta bir hukuki yararı bulunmadığından davanın reddine karar vermek gerektiği,davalının kötüniyet tazminat talebi yönünden yapılan değerlendirmede; dava konusu miktar likit olsa da ,davalının davacıya parayı iade etmek yerine ... şirketinin davacıdan alacaklı olduğu düşüncesi ile iş ortaklığına parayı iade etmesinin basiretli bir tacir davranışı sergilemediği,zira burada taraflar dolayısı ile takas mahsup söz konusu olamayacağı,bu nedenle davalının kötüniyet tazminat talebinin yerinde olmadığı anlaşılmakla, kötüniyet tazminat talebinin reddine karar verilmiştir.
 
 ## İstanbul BAM 43. HD 2021/823 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/670646900)
 
 …
 
@@ -134,9 +166,13 @@ Vekili davacı aleyhine % 20’den aşağı olmamak üzere kötü niyet tazminat
 
 ## Ankara BAM 24. HD 2021/458 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/643261800)
+
 Mahkemece; davalıların oluşturduğu iş ortaklıklarının ayrı ayrı işler için kurulduğu ve....'den her bir ortaklığın ayrı iş aldığı ve işi yüklenici olarak yaptığı veya yapmaya devam ettiği, davacının icra dosyasında her bir iş için oluşturulan adi ortaklığın paylarına haciz konulduğuna ilişkin haciz yazısı gönderilmesi gerekirken genel olarak adi ortaklığın tasfiye payının haczedildiğini belirten yazı gönderildiği, bu şekilde yapılan hacizle de adi ortaklığın fesih ve tasfiyesinin talep edilemeyeceği gerekçesiyle davanın reddine karar verilmiştir.
 
 ## İstanbul BAM 3. HD 2019/1990 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/558796200)
 
 Şti. üzerinden yürütüleceği, iş bitiminde hissedarların hisse oranında tapu devirleri yapılacağının düzenlendiği,bu itibarla taşınmazın tevhit işlemi yapılarak davalı şirket adına tescil edildiği, ancak inşaatın henüz tamamlanmadığı, kat irtifakı tesis edildiği, taraflar arasındaki inşaat ortaklık sözleşmesinin taraflarca feshedilmediği, ortaklık sözleşmesinde kararlaştırıldığı şekilde resmi işlemlerin davalı şirket üzerinden yürütüldüğü, davalı tarafça inşaat giderleri talep edilmemiş olmasının sözleşmenin feshedildiği anlamına gelmeyeceği gibi, davacı tarafça da sözleşmenin fesih edilmemiş olduğu, davacının dava açmakta hukuki yararı bulunmadığı gerekçesi ile davanın reddine karar verilmiştir.Sözkonusu kararı davacı vekili istinaf etmiş olup,mahkemenin maddi olayın hukuki tesbit ve nitelemesinde hataya düştüğü,taraflar arasında inşaat ortaklık sözleşmesi mevcut ise de, davacının ortaklık dışında tutulduğunu, bilgisi dışında ve sözleşmeye aykırı olarak bir takım iş ve işlemlerin yapıldığını,bu husustaki ihtarlarına cevap verilmeyerek inşaat faaliyetinin devam ettirildiğini, ortaklık sözleşmesinin böylece davalı taraflarca fiilen ve tek taraflı olarak sonlandırıldığını, davacının
 zararının giderilmesi için adi ortaklığın tasfiyesini beklemek zorunda bırakılamayacağını, bu hususta oluşan zararların tazmini için açılan davada hukuki yararın bulunduğunu, aksi gerekçe ile verilen kararın hukuka aykırı olduğunu beyanla kararın kaldırılmasını, ortaklığa isabet eden bağımsız bölümler üzerine ipotek ve haciz şerhleri konulması sebebiyle eşit olarak dağıtılacak taşınmazların takyidatlandırılmasının ,davacının alacak veya mülkiyet hakkını tehlikeye düşürdüğünü beyanla, davacı da dahil gerçek kişi ortaklara devrolunacak bağımsız bölümlerin 3. kişilere devrinin önler mahiyette ve yine 3. kişilerin cebri icra işlemlerinden etkilenmememsini temin için ihtiyati haciz zımnında ihtiyati tedbir kararı verilmesi istenmiştir.HMK'nun 355. maddesi uyarınca istinaf sebepleriyle sınırlı olarak yapılan inceleme sonucunda dava , taraflar arasında düzenlenen 19.09.2012 tarihli inşaat ortaklık sözleşmesinin fiilen ve tek taraflı sonlandırıldığı iddiası ile sözleşmenin ifa edilememesi nedeni ile uğranılan zararın tazmini istemine ilişkindir.Dava konusu edilen 19/09/2012 tarihli inşaat ortaklık sözleşmesinde; sözleşme konusu inşaat işinde tarafların 1/3 hisse ile eşit oranda ortak
@@ -147,6 +183,8 @@ Bu duruma göre, taraflar arasındaki ilişki, TBK 620 maddesi ve devamı maddel
 2013/10462 K ...18.06.2013 ilamında da belirtildiği gibi; adi ortaklık sözleşmesi, iki yada daha fazla kişinin emeklerini ve mallarını ortak bir amaca erişmek üzere birleştirmeyi üstlendikleri sözleşmedir. (TBK. 620/1 md.) adi ortaklık ilişkisi, TBK'nun 639.maddesinde sayılan sona erme sebeplerinden birinin gerçekleşmesi ile sona erer.
 
 ## İstanbul BAM 15. HD 2018/1324 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/441342200)
 
 Davalı iş ortaklığı ve iş ortaklığını oluşturan yüklenici, davacı ise taşeron şirkettir. Davacı iş bedelinin tahsili için İstanbul Anadolu ... İcra Müdürlüğünün ... takip sayılı dosyasıyla borçlu olarak adi ortaklığı göstererek icra takibinde bulunmuş, ödeme emri de adi ortaklık adına gönderilmiş ve tebliğ edilmiş ise de adi ortaklığı oluşturan ..... Ltd. Şti'nin ayrı ayrı vermiş oldukları vekaletnameleri ibraz ederek adi ortaklıkla birlikte, adi ortalığı oluşturan şirketleri de yazarak itirazda bulunduğu anlaşılmakla, Yargıtay Yüksek 15. Hukuk Dairesi'nin 12.12.2017 gün, 2017/1923, 2017/4381 E.K. ve Yargıtay Hukuk Genel Kurulu'nun 2003/574 Esas, 2003/564 Karar sayılı ilamlarında belirtildiği üzere icra takibinde taraf teşkilinin tamamlandığıın kabulü gereklidir.
 Yine istinafa konu, açılan itirazın iptali davasında, adi ortaklıkla birlikte adi ortalığı oluşturan her iki şirkette ayrı ayrı davalı olarak gösterilerek dava açılmış, yapılan yargılamada da bu şirketler vermiş oldukları vekaletnameyle yargılamada temsil edildiklerinin anlaşılmasına göre mahkemece davanın esası incelenerek sonucuna uygun bir karar verilmesi gerekirken, davanın dava şartı yokluğu nedeniyle reddine karar vcerilmesi doğru olmamıştır.

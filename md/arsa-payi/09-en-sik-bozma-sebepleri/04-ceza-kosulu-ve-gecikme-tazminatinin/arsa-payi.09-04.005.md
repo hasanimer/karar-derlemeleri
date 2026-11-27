@@ -22,6 +22,8 @@ uyari: "Derleyenin seçtiği alıntılardır; kararın tamamı değildir. Künye
 
 ## Yargıtay 23. HD 2016/3698 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/237777600)
+
 Davacı vekili, taraflar arasında.... yevmiye numarası ile 29.03.2011 tarihinde arsa payı karşılığı inşaat sözleşmesi imzalandığını, 1, 6 ve 8 no'lu dairelerin arsa sahibi olan müvekkiline ait olacağını, ruhsat ve iskân alma yükümlülüğünün davalıya ait bulunduğunun kabul edildiğini, sözleşmenin 4.2. maddesi uyarınca belirtilen süre içinde taşınmazların teslim edilememesi halinde her ay için emsal rayiçlere göre kira bedeli ödeneceğinin kararlaştırıldığını, davalının taahhüt ettiği süre içinde inşaatı tamamlayıp teslim etmediğini, iskân ruhsatının alınamadığını ileri sürerek, açıklanan nedenlerle sözleşmenin aynen infazı ile fazlaya ilişkin hakları saklı tutularak şimdilik 5.000,00 TL gecikme tazminatının temerrüt tarihi olan 29.09.2012 tarihinden işleyecek yasal faizi ile birlikte davalıdan tahsiline karar verilmesini talep ve dava etmiştir.
 
 Davalı vekili, açılan davayı kabul etmediklerini, müvekkilinin sözleşme uyarınca yapı ruhsatını alarak inşaata başlayıp süresinde tamamladığını, davacının yurt dışında bulunması nedeniyle tamamlanan bağımsız bölümlerin teslim edilemediğini, yurt dışından dönünce 2012 Aralık ayında ön görülen 3 bağımsız bölümün davacıya teslim edildiğini, müvekkiline düşen dairelerin ferağının da verildiğini, davacının ihtirazi kayıt ileri sürmeden taşınmazları teslim alarak iki tanesini üçüncü kişilere sattığını, taşınmazlar fiilen teslim edildiğinden gecikme tazminatı talep etme hakkı olmadığını, müvekkiline isabet eden dairelerin de satıldığını, taşınmazlarda eksik bir iş bulunmadığını savunarak, davanın reddini istemiştir.
@@ -33,6 +35,8 @@ Taraflar arasındaki 29.03.2011 günlü arsa payı karşılığı inşaat sözle
 SONUÇ: Yukarıda açıklanan nedenlerle, davacı vekilinin temyiz itirazlarının kabulü ile hükmün, davacı yararına BOZULMASINA …
 
 ## Yargıtay 23. HD 2016/3398 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/238856400)
 
 Mahkemece, iddia, savunma, benimsenen bilirkişi raporu ve dosya kapsamına göre; taraflar arasındaki arsa payı karşılığı inşaat sözleşmesinde, davalı yükleniciye düşen bağımsız bölümlerin kademeli olarak ferağının öngörüldüğü, işin geldiği seviye itibariyle davalı yükleniciye hak ettiği halde 5 adet bağımsız bölümün tapusunun devredilmediği, BK'nın 81. maddesi uyarınca, tapu devrine ilişkin edimlerini yerine getirmeyen davacı arsa sahibinin karşı taraftan edimini yerine getirmesini isteyemeyeceği gerekçesiyle, asıl ve birleşen davanın reddine karar verilmiştir.
 
@@ -48,6 +52,8 @@ SONUÇ: Yukarıda (1) numaralı bentte açıklanan nedenlerle, asıl ve birleşe
 
 ## Yargıtay 23. HD 2016/3087 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/232859700)
+
 Davacı vekili, davalıya ait taşınmazda arsa payı karşılığı inşaat yapılması ile ilgili olarak 30.10.2013 tarihine kadar imzalanacak anasözleşmeye esas teşkil edecek nitelikte ve iyiniyet hükümleri çerçevesinde 17.07.2013 tarihli protokolün akdedildiğini, protokolün 4. maddesinde cayma tazminatı başlıklı maddesi ile taraflardan herhangi birinin 3. maddede belirtilen protokolün konusu ve detaylarında değişiklik talebinde veya yükümlülüğü yerine getirememesi durumu söz konusu olduğunda vazgeçen tarafın karşı tarafa 300.000,00 TL ödemeyi beyan ve garanti etmekte olduklarının belirlendiğini, cayma tazminatının her iki tarafa da tanındığını, davalı arsa sahibi tarafından sözleşme hükümlerine aykırı hareket edilerek anasözleşmenin imzalanmasından imtina edildiğini, mevcut durumun noter ihtarnamesi ile ihtar edilerek anasözleşmenin 30.10.2013 tarihine kadar imzalanması için davalıya çağrıda bulunulduğunu, ancak müspet bir netice elde edilemediğini ileri sürerek, sözleşme uyarınca 300.000,00 TL cayma tazminatının temerrüt tarihi olan 30.10.2013 tarihinden itibaren işleyecek yasal faizi ile birlikte davalıdan tahsiline karar verilmesini talep ve dava etmiştir.
 
 Davalılar vekili, protokolün şekil kurallarına aykırı olduğunu savunarak, davanın reddine karar verilmesini istemiştir.
@@ -61,6 +67,8 @@ Taraflar arasında 17.07.2013 günlü ön sözleşme ileride yapılacak arsa pay
 SONUÇ: Yukarıda açıklanan nedenlerle, davacılar vekilinin temyiz itirazlarının reddi ile sonucu itibariyle doğru olan kararın değişik gerekçe ile ONANMASINA …
 
 ## Yargıtay 23. HD 2016/2932 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/247315900)
 
 Mahkemece, iddia, savunma, benimsenen bilirkişi raporu ve tüm dosya kapsamına göre, asıl davada davacı yüklenicinin sözleşme gereği yerine getirmesi gerekli edimlerini yerine getirmeksizin karşı tarafın edimini yerine getirmesini istenemeyeceği, karşı davada arsa sahibinin inşaatın projeye ve sözleşmeye aykırı yapılmasında herhangi bir müdahalede bulunmadığı ve üzerine düşen yükümlülükleri yerine getirmediği gerekçesiyle, asıl ve karşı davanın reddine karar verilmiştir.
 
@@ -78,6 +86,8 @@ SONUÇ: Yukarıda (1) numaralı bentte açıklanan nedenlerle, karşı davada da
 
 ## Yargıtay 23. HD 2016/2218 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/199543700)
+
 Davacı vekili, müvekkili ile davalı kooperatif arasında 03.06.1999 tarihinde imzalanan arsa payı karşılığı inşaat sözleşmesi uyarınca davalı yüklenicinin sözleşme tarihinden itibaren toplam 44 ayda inşaatı bitiremediğini, sözleşmeye göre inşaat ruhsat tarihi 03.10.1999 olması gerekirken ruhsatın 18.02.2004 tarihinde alındığını, sözleşmeye göre sözleşmenin bitiş tarihinin 03.02.2003 olduğunu, sözleşmenin bu tarihte sona erdiğini, davalı tarafından bu tarihten sonra uzatma ile ilgili bir talepte bulunulmadığını, inşaatta kaçak yapı ve imalatlar olduğunu ileri sürerek, 16 bağımsız bölümden her biri için sözleşmede cezai şart olarak belirtilen emsal kira bedellerinin sözleşmenin bitim tarihi olan 03.02.2003 tarihinden itibaren ait oldukları kira dönemlerine göre işleyecek yasal faizleri ile birlikte ve her türlü fazlaya ilişkin hakları saklı tutarak şimdilik 20.000,00 TL'lik kısmının davalıdan tahsilini talep ve dava etmiştir.
 
 Davalı vekili, davanın reddini istemiştir.
@@ -94,11 +104,15 @@ SONUÇ: Yukarıda (1) numaralı bentte açıklanan nedenlerle, hükmün re'sen B
 
 ## Yargıtay 23. HD 2016/957 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/178235500)
+
 Bu durumda mahkemece, olumlu zarar niteliğindeki gecikme tazminatının sözleşmenin feshi halinde dahi istenebileceğine ilişkin taraflar arasındaki sözleşmede bir hüküm bulunmadığı, sözleşmenin feshini isteyen davacı arsa sahibinin, olumlu zarar niteliğindeki gecikme tazminatını isteyemeyeceği gerekçesiyle, kira tazminatına yönelik istemin reddine karar verilmesi gerekirken, yazılı şekilde yanılgılı gerekçeye dayalı olarak kabulü doğru olmamıştır.
 
 SONUÇ: Yukarıda (1-a) numaralı bentte açıklanan nedenlerle, birleşen davada davalı vekilinin tüm temyiz itirazlarının reddine, (1-b) numaralı bentte açıklanan nedenlerle, kararın gerekçesi değiştirilerek ve HÜKÜM bölümünün 1. bendindeki "feshine" ibaresi çıkarılarak yerine “geçersizliğinin tespitine” ibaresi yazılmak suretiyle hükmün, DÜZELTİLEREK ONANMASINA …
 
 ## Yargıtay 23. HD 2016/228 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/236957200)
 
 Davacı vekili, taraflar arasında imzalanan arsa payı karşılığı inşaat sözleşmesi ve ek sözleşmelerde, davacı yükleniciye inşaatın aşamalarına göre bağımsız bölüm devrinin yapılması gerektiği, ancak ihtara rağmen 44 adet bağımsız bölümün satış yetkisinin verilmediğini ileri sürerek, sözleşmede düzenlenen cezai şartın tahsiline yönelik başlatılan icra takibine vaki itirazın iptalini talep ve dava etmiştir.
 
@@ -117,6 +131,8 @@ SONUÇ: Yukarıda (1) numaralı bentte açıklanan nedenlerle, davalı vekilinin
 
 ## Yargıtay 13. HD 2015/29456 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/136122400)
+
 Davacı, davalı arsa maliki ile dava dışı müteahhit şirket arasında yapılan kat karşılığı inşaat sözleşmesine göre davalı arsa malikine verilmesi kararlaştırılan dava konusu 4 nolu bağımsız bölümü davalıdan satın aldığını, satış bedelini tamamen ödediğini, aralarındaki sözleşmeye göre taşınmazın 31.07.2008 tarihinde teslim edilmesi gerekirken müteahhidin işi yarım bıraktığını, satış bedeli alacağına ilişkin açtığı davanın sonucunun beklenilmesi nedeniyle taşınmazın eksikliklerini kendisinin tamamlayarak mahkemece tespit yaptırdığını, sözleşmeye göre davalının geç teslim halinde ödemeyi taahhüt ettiği 500 TL kira bedelinin 54 ay geçtiği halde ödenmediğini ileri sürerek; 27.000 TL yoksun kalınan kira bedeli ile eksik işler nedeniyle 3.550 TL alacağın dava tarihinden itibaren yasal faizi ile davalıdan tahsiline karar verilmesini talep etmiştir.
 
 Davalı, davacı ile yapılan sözleşmeye göre inşaatın tamamlanmasına ilişkin edimi müteahhitin üstlendiğini, eksik işler yönünden müteahhitin sorumluluğuna gidilmesi gerektiğini, ayrıca davacıya taşınmazın 2008 yılında müteahhit tarafından sonradan yapılan bir iki küçük şey dışında bugünkü haliyle teslim edildiğini, kiraya verip kullanma imkanı olduğu halde davacının kiraya vermediğini savunarak davanın reddini dilemiştir.
@@ -133,6 +149,8 @@ SONUÇ: Yukarıda 1. bentte açıklanan nedenlerle davalının sair temyiz itira
 
 ## Yargıtay 13. HD 2015/27127 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/177357100)
+
 Davacı, davalıların dava dışı kooperatif ile yaptıkları kat karşılığı inşaat sözleşmesi uyarınca hak sahibi oldukları daireyi kendisine noterde yapılan sözleşme ile sattıklarını, daire bedelini davalılara ödediğini, ancak ihtara rağmen davalıların tapu ferağını vermediklerini ileri sürerek hak sahibi görünen kişiler adına olan tapu kaydının iptali ile adına tescilini, bunun mümkün olmaması halinde taşınmazın raiç bedeli ile dairenin teslimi gereken 01.10.2010 tarihinden dava tarihine kadar geçen süre için aylık 500 TL kira bedeli alacağının tahsiline karar verilmesini istemiştir.
 
 Davalı davanın reddini dilemiştir.
@@ -146,6 +164,8 @@ Davacı eldeki davada, dairenin raiç bedelini ve ayrıca geç teslim nedeniyle 
 SONUÇ: Yukarıda açıklanan (1) nolu bentte açıklanan nedenlerle; davalıların diğer temyiz itirazlarının reddine, (2) numaralı bent uyarınca temyiz olunan kararın davalılar yararına BOZULMASINA …
 
 ## Yargıtay 23. HD 2015/8560 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/203847700)
 
 Davacı yüklenici kooperatif vekili, taraflar arasında düzenlenen 02.04.1998 tarihli düzenleme şeklinde arsa payı karşılığı inşaat sözleşmesi gereğince arsa sahiplerine 5 villa verilmesi gerektiğini, çekilen kura sonucu davalıya 454 ada 1 parsel no 8/1, 8/2 ve 13/2 no'lu villanın 1/2'si olmak üzere 2,5 taşınmazın düştüğünü, yine 27.12.2002 tarihli düzenleme şeklinde ek sözleşme ile de bir ay içinde arsa sahiplerince belirlenecek iki adet villanın anahtar teslimi oturulacak hale getirileceği, diğer üç villanın ise 2003 yılı temmuz ayı sonunda tamamlanarak teslim edileceği, aksi halde her villa için aylık 150 Euro tazminat ve kira bedelinin arsa sahiplerine ödeneceğinin kararlaştırıldığını, arsa sahiplerine ait villaların iki tanesinin 27.01.2003 tarihinde, kalan üç tanesinin de 2003 temmuz ayında teslim edildiğini, buna rağmen davalının ek sözleşmedeki cezai şarta dayanarak ...
 
@@ -167,6 +187,8 @@ SONUÇ : Yukarıda (1) numaralı bentte açıklanan nedenlerle davacı vekilinin
 
 ## Yargıtay 23. HD 2015/8249 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/162188200)
+
 Davacı vekili, taraflar arasında arsa payı karşılığı inşaat sözleşmesi imzalandığını, süresinde genel iskan belgesi alınmadığı için davacının bağımsız bölümlerini teslim almadığını ileri sürerek, sözleşmede belirlenen gecikme cezasının tahsilini talep ve dava etmiştir.
 
 Davalı vekili, gecikmeden davacının kusurlu olduğunu, inşaat bittiği halde, davacının yapı denetim hizmet bedelini ödemediği için yapı kullanma izin belgesinin alınamadığını savunarak, davanın reddini istemiştir.
@@ -183,6 +205,8 @@ Taraflar arasındaki sözleşmenin “Cezai şartlar” başlıklı 8. maddesini
 SONUÇ: Yukarıda açıklanan nedenlerle davacı vekilinin temyiz itirazlarının kabulü ile mahkeme kararının BOZULMASINA …
 
 ## Yargıtay 23. HD 2015/8013 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/162271400)
 
 Davacı vekili, taraflar arasında düzenlenen 21.06.2006 tarihli arsa payı karşılığı inşaat sözleşmesi uyarınca davalı yüklenicinin inşaatı anahtar teslim şeklinde yapmayı üstlendiğini, sözleşme tarihinden itibaren üç ay içerisinde inşaat ruhsatı alarak yine sözleşme tarihinden itibaren 18 ay içerisinde inşaatın bitirilerek teslim edileceğinin kararlaştırıldığını, bu arada iskân başvurusu yapılarak en geç dört ay içerisinde iskân alınacağını, davalının süresinde inşaatı bitirip iskân başvurusunda bulunmaması üzerine müvekkilince keşide edilen ihtardan sonra davalı ile görüşme yapılarak sürenin tarihi olarak belirlendiğini, inşaatın bugüne kadar sözleşmeye uygun hale getirilmediğini, daire ve ortak alanlardaki eksik işlerin yapılmayıp sözleşmeye aykırı konulan malzemelerin değiştirilmediğini, müvekkilinin daha fazla zarar görmemek için 2008 Ağustos ayından itibaren bazı eksiklikleri tamamlayarak kullanmaya başladığını, sözleşmede bulunmasına rağmen müvekkilinin dairelerine ve ortak alanlara yapılmamış olan işlerin müvekkili tarafından yapıldığını, bina süresi içinde müvekkiline teslim edilmediğinden 01.04.2008 tarihinden 01.08.2008 tarihine kadar dört dairenin rayiç kira bedelinin
 ödenmesi gerektiğini ileri sürerek, iskân alınması ile ayıplı ve eksik işler nedeniyle şimdilik 15.000,00 TL'nin, kira bedeli olarak şimdilik 5.000,00 TL'nin davalıdan tahsilini talep ve dava etmiş, ıslah yoluyla kira tazminatını 7.600,00 TL'ye, eksik ve ayıplı işler bedelini 26.960,00 TL'ye artırmıştır.

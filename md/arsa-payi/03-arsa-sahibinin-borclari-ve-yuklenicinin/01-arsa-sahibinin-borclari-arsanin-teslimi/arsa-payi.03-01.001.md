@@ -39,6 +39,8 @@ Asıl ve birleşen davada davacı ... mirasçıları vekilinin temyiz itirazlar�
 
 ## Yargıtay HGK 2023/434 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/909132700)
+
 Davalı ...
 
 …
@@ -52,6 +54,8 @@ Kat karşılığı inşaat sözleşmeleri karşılıklı edimler içerdiğinden,
 Davalılar Şekerbank T.A.Ş., T.C. Ziraat Bankası A.Ş. ve Türk Ekonomi Bankası A.Ş. vekillerinin temyiz itirazlarının kabulü ile direnme kararının Özel Daire bozma kararında gösterilen nedenlerden dolayı 6100 sayılı Kanun’un 371 inci maddesi gereğince BOZULMASINA …
 
 ## Yargıtay HGK 2022/909 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/790217600)
 
 4\.
 
@@ -69,6 +73,8 @@ Davalı vekilinin temyiz itirazlarının kabulü ile, direnme kararının yukar�
 
 ## Yargıtay HGK 2022/80 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/765408300)
+
 Davacı asıl dava dilekçesinde; dava dışı yükleniciler ile noterde düzenlenen 25.02.1998 tarihli kat karşılığı inşaat sözleşmesinin aynı koşullarda devam etmesi şartıyla 16.08.2001 tarihli sözleşme ile davalıya devredildiğini, davalının sözleşme şartlarını gerçekleştirememesi üzerine bu defa davalı ile 07.12.2001 tarihinde ek protokol ve buna ekli ipotek belgesi akdi imzalandığını, protokol gereğince davalı yükleniciye isabet eden bağımsız bölümler üzerine ipotek konularak tapularının yükleniciye devredildiğini, ancak davalının sözleşmelere ve ipoteğin süresine göre en geç 31.12.2003 tarihine kadar yükümlülüklerini yerine getirmediğini, bu nedenle davalı aleyhine ...
 
 …
@@ -83,6 +89,8 @@ Uyuşmazlık konusu 07.12.2001 tarihli ek protokolün birinci maddesinde; “Mü
 Müteahhit en geç 31/12/2003 tarihine kadar hangi nedenle olursa olsun iskan iznini alamadığı takdirde arsa sahibine 40.000USD tazminat ödemekle yükümlü olacaktır.” hükmüne yer verilmiş; üçüncü maddesinde ise, binaların yapılması ile ilgili müteahhit tarafından her türlü harç ve giderleri ödenmek koşuluyla iskân ruhsatı alınması ve protokoldeki teknik şartların yerine getirilmesi amacıyla yükleniciye ait B Blok 2 ve 3 nolu bağımsız bölümler üzerinde her biri 20.000USD karşılığı 30.000TL olmak üzere toplamda 40.000USD karşılığı 60.000TL’lik ipotek tesis edileceği, binalara iskân izni alındığı ve yüklenici tarafından taahhüt edilen işler eksiksiz olarak teslim edildiği takdirde, tesis edilen ipoteğin davacı arsa sahibi tarafından derhal kaldırılacağı, ayrıca yüklenicinin arsa sahibine 31.12.2003 tarihli 40.000USD karşılığı senet vermeyi kabul ve taahhüt ettiği düzenlenmiştir.
 
 ## Yargıtay HGK 2015/1489 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/114726800)
 
 Davalılar vekili, müvekkil K.. A..'ın binayı teknik elemanlar tarafından çizilen projelere uygun olarak yapıp, davacılara teslim ettiği halde davacıların pay devrini yapmadıklarını, arsa maliklerinin gerekli vekaletnameleri vermemeleri nedeniyle binanın ruhsatının alınamadığını, diğer davalı S..
 
@@ -106,6 +114,8 @@ SONUÇ: Davalılar vekilinin temyiz itirazlarının kabulü ile direnme kararın
 
 ## Yargıtay HGK 2015/1331 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/115810100)
+
 Davalı kooperatif vekili, tapu maliki olmadıklarından kendilerine husumet yöneltilemeyeceğini savunarak, davanın reddini istemiştir.
 
 …
@@ -128,6 +138,8 @@ Yukarıda (2) sayılı bentte açıklanan nedenle davalı H.. E.. vekilinin temy
 
 ## Yargıtay HGK 2015/1258 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/113638900)
+
 Davalı, 14.10.2010 tarihli taşınmaz satış sözleşmesinin A.Madencilik Emlak İnşaat ve Taahhüt Ltd Şti ile imzalandığını ve taşınmaz satış bedelinin de A. Ltd.
 
 …
@@ -141,6 +153,8 @@ Dava, 4077 Sayılı Yasa'ya istinaden açılan satın alınan taşınmazın tapu
 Kanuni tipe uygun olmayan atipik bir karma sözleşme ile üretilen konutun hukuki ya da fiili teslimatının olmaması ya da ayıplı çıkması halinde satın alan tüketicinin arada sözleşme ilişkisi olmayan arsa sahibine dava açıp açamayacağı veya arsa sahibinin seçimlik haklardan sorumlu olup olmayacağına gelince, hemen belirtilmelidir ki gelir paylaşımı esasına dayalı inşaat sözleşmelerine istinaden üretilen konutla ilgili satış dahil her türlü yetkinin yükleniciye verilmesi, yüklenicinin ise malın pazarlanması için başka şirketlere ister tapu devrini gerçekleştirsin isterse gayrimenkul satış yetkisini içeren vekaletname versin, bu yetkiye istinaden şirketin dilediği tüketiciye veya başka tüzel kişilere konutu devretmesi, arsa sahibini sorumlu olmaktan kurtarmaz. Zira 6502 sayılı Tüketicinin Korunması Hakkında Kanun’un 11. maddesi ile malın ayıplı olduğunun anlaşılması durumunda tüketiciye tanınan tüm haklardan olmasa bile tüketicinin aynen ifaya veya sözleşmeden dönmesi halinde peşin yatırılan bedelin iadesine yönelik isteklerinden üreticinin (arsa sahibi) sorumlu olduğunun kabulü gerekir.
 
 ## Yargıtay HGK 2009/221 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/76773100)
 
 Dosya kapsamındaki tapu kayıtlarına göre dava konusu 6 nolu parselin evveliyatı davacıların murisi H. K.. ile kardeşi S. K..adlarına kayıtlıdır. Davalıyla akdolunan sözleşme H.. ve S.. tarafından imzalanmıştır. Akit konusu taşınmaz müşterek mülkiyet hükümlerine tâbidir. Tapu kayıtları da sözleşmeden sonra akdin ifasına yönelik olarak devredilmiştir. Türk Medeni Kanunu’nun 692.maddesi uyarınca müşterek bir mülkün kullanım amacının değiştirilmesi veya dava konusu olaydaki gibi bu taşınmazda inşaat yaptırmak işi aksi oybirliği ile kararlaştırılmış olmadıkça bütün paydaşların oybirliği ile verecekleri karara bağlıdır. Sözleşmenin feshi bakımından da paydaşların oybirliği şarttır. Dava, sözleşmeyi arsa sahibi sıfatıyla imzalayan H. mirasçıları tarafından açılmıştır. Davanın açılmasına diğer paydaş olan arsa sahibi S..’in muvafakati alınmamıştır.
 Bu nedenle mahkemece davacılara, açılan davaya karşı diğer hissedar S..’in muvafakatinin sağlanması bakımından mehil verilmesi, muvafakat alınamadığı takdirde S.. aleyhinde dava açılıp bu davayla birleştirilmesi ve tüm deliller toplandıktan sonra davanın sonuçlandırılması gerekirken bu hususlar üzerinde durulmadan davanın kabulü doğru olmamış, kararın bozulması uygun görülmüştür …
@@ -242,6 +256,8 @@ Arsa sahibinin yükleniciye tapuyu devretmesi, yolsuz tescil olarak da değerlen
 Yukarıda 3. ve 4. bentte açıklanan nedenlerle davalı ... vekilinin ve davalı iflas idaresi vekilinin temyiz itirazlarının kabulü ile hükmün davalı ... ve davalı iflas idaresi yararına BOZULMASINA …
 
 ## Yargıtay 6. HD 2026/273 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1207648200)
 
 Davacı vekili dava dilekçesinde; müvekkili ile davalı arasında 20.03.2003 tarihli kat karşılığı inşaat sözleşmesi düzenlendiğini ve müvekkiline ait 124 m²'lik arsa içerisindeki evin verilmesi karşılığında 118 pafta, 6 30... numaralı parselde 100 m²'lik zemin daire verilmesinin ve yıkılan evi karşılığında kira bedeli ödenmesinin kararlaştırıldığını, 703 numaralı üye kimlik numarası verildiğini, arsa dışında ayrıca müvekkili tarafından bugüne kadar ödemeler yapıldığını, ancak davalı tarafça bugüne kadar dairesinin tapusunun verilmediğini ve 19.000,00 TL daha ödeme yapılmasının istendiğini ileri sürerek, 118 pafta, 630 ada, 7 numaralı parselde bulunan 100 m²'lik zemin dairelerden bir adedinin tapu kaydının iptali ile müvekkili adına tesciline; mümkün olmadığı takdirde fazlaya ilişkin hakları saklı kalmak kaydı ile 10.000,00 TL evin bugünkü değeri karşılığının yasal faizi ile davalıdan tahsiline; müvekkiline ait evin yıkıldığı tarihten itibaren belirlenecek kira yardım parasının yasal faizi ile davalıdan tahsiline karar verilmesini talep etmiştir.
 

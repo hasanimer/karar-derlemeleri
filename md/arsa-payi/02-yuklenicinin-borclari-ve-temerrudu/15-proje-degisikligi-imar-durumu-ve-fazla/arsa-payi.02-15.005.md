@@ -21,6 +21,8 @@ uyari: "Derleyenin seçtiği alıntılardır; kararın tamamı değildir. Künye
 
 ## Yargıtay 15. HD 2006/3053 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/859339300)
+
 Arsa sahipleri ...,...,... İnşaat ticaret Anonim şirketi arasında Mersin 5. Noterliği’nce düzenlenen 05.03.1990 gün ve 11216 yevmiye nolu inşaat sözleşmesiyle, ... Köyü 4 pafta 160 parselde kayıtlı arsa üzerine arsa payı karşılığında bina yapımı kararlaştırılmıştır. İmar durumu başlıklı 2. maddesinde, müteahhidin belediyeye intikal etmiş 720 m2’lik imar artığını satın alıp malikler adına tescil ettirerek tevhid işlemi yapıldıktan sonra imar durumu alacağı, bu işlemi tamamlamaktan mütevellit müteahhidin herhangi bir hak ve talebi olmayacağı, bu anlaşmaya konu paylaşma oranının 720 m2 ek parçanın müteahhit tarafından malikler adına satın alınıp tescili şartıyla geçerli olacağı, aksi durumda yeni bir anlaşma yapılacağı, imar durumunun alınmasını müteakip 160 parsele yakın imar artığı takasa uygun yerlerin inşaat yoğunluğunun 160 parselin inşaat yoğunluğuna …
 
 …
@@ -41,6 +43,8 @@ Davacı birleşen davalılar vekilinin asıl ve birleşen dava yönünden istina
 
 ## İstanbul BAM 15. HD 2025/1350 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1183495100)
+
 Asliye Ticaret Mahkemesi'nin 2015/819 esas sayılı dosyası ile birleştirilerek, ipoteklerin kaldırılmasına karar verilmesini talep ve dava etmiştir.Asıl ve birleşen davalar davalı yüklenici şirketler vekili cevap dilekçesinde; taraflar arasında düzenlenen sözleşme ile arsa sahibi davacı adına kayıtlı olan 8138184/... hissenin yapılacak olan inşaata karşılık davacı yüklenicilere devredildiğini, ek sözleşme ile kararlaştırılan şartlarda taşınmazlar dava dışı ... adına kayıtlı olan 53 no'lu parselin 10351,04 m²'sine tekabül eden hisse ile 5723632/... hissesi ile aynı yerde bulunan 55423 m² miktarlı 54 no'lu parselde ... adına kayıtlı .../... paya tekabül eden 152 m² ile birlikte toplam 10503,04 m²'nin davalı yükleniciler tarafından ...’den ihale ile satın alındığını, satım bedeli olarak 17.000.000,00 TL ödeme yapıldığını;
 21.02.2006 tarihli sözleşmenin bır kısım maddelerinin satın alma bedelinin ödenmesi halinde geçerli olacağının ve bu bedelin Euro karşılığı 11.250.000,00 Euro olarak ödenmesinin kararlaştırıldığını, davacı tarafından yalnızca 6.780.000,00 Euro'sunun ödendiğini, bakiye kalan 4.470.000,00 Euro ödenmesi gereken 31.12.2009 tarihine kadar ödenmediğinden ödenen kısmın davacıya iade edildiğini; dolayısıyla ...’den satın alınan taşınmaz hisselerinin davalılara ait olduğunu, sözleşme gereği davacının taşınmazdaki hisseleri üzerinde bulunan takyidatları kaldırması gerektiği halde kaldırmadığını, hem bu nedenle hem de imar durumundaki sorunlardan dolayı imar durumunun çıkartılıp inşaata başlanılamadığını, davacının kusurlu olduğundan inşaata başlanılması ile ilgili ihtarname çekip 3 ay süre vermesinin doğru olmadığını, ruhsat alınmasında davacının arsa payı üzerinde bulunan takyidatları ve dava dışı idarenin imar uygulamalarından kaynaklanan nedenlerle inşaat ruhsatına müracaat etmesine rağmen ruhsat alım sürecinin devam ettiğini, davalılara atfedilecek kusur ve ihmal olmadığını ileri sürerek davanın reddini istemiştir.Asıl davada davalı ... vekili cevap dilekçesinde; davacı ile dava dışı ...
 İnşaat AŞ ve ...
@@ -49,6 +53,8 @@ Bankası arasındaki sözleşmelerden kaynaklanan davacı taleplerinin müvekkil
 Bankası A.Ş. vekili cevap dilekçesinde; tapu kayıtlarına göre ipotek konulduğunu; kredi ilişkisinin devam ettiğini, halen bankaya 22.921.409,82 Euro riski bulunduğunu, kötü niyetli olduğuna dair delil bulunmadığını belirterek davanın reddine karar verilmesini talep etmiştir.İlk Derece Mahkemesinin 02.03.2023 tarih, 2018/141 E., 2023/233 K.
 
 ## Ankara BAM 27. HD 2025/1142 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1179034800)
 
 İlk Derece Mahkemesince: Davanın, eser sözleşmesinin feshedilmediğinin tespiti, olmadığı takdirde menfi ve müspet zararın tazmini istemine ilişkin olduğu, İstanbul 19. Asliye Hukuk Mahkemesi'nin 2020/9 esas 2021/30 karara sayısı ilamı ile eldeki dosyanın yetkili Ankara Asliye Hukuk Mahkemesi'ne gönderilmesine karar verdiği, Ankara 15.Asliye Hukuk Mahkemesi'nin 2021/228 esas 2021/772 karar sayılı ilamı ile dosyanın görevli Ankara Nöbetçi Asliye Ticaret Mahkemesi'ne gönderilmesine karar verdiği, kararın davalı ... tarafından idari yargının görevli olduğundan bahisle istinafı üzerine Ankara BAM 31.
 
@@ -64,6 +70,8 @@ Kendisine yönetim görevi verilen ortağın, ortaklığı veya bütün ortaklar
 Davacı vekilinin istinaf başvurusunun HMK.'nın 353/1-b.1 maddesi gereğince esastan reddine …
 
 ## Denizli BAM 4. HD 2025/1051 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1160022200)
 
 Davacı vekili ihtiyati tedbir talepli dava dilekçesinde özetle;
 Müvekkilleri, ..... ortak ve pay sahiplerinden olduğunu, ... tarihinde Kooperatifin Olağanüstü Genel Kurul Toplantısı.... adresinde gerçekleştiğini, ....İdare Mahkemesi'nin 14/01/2021 tarih ve ..... sayılı kararı ile... bölgesindeki imar planları durdurulduğunu, dosyanın halen Danıştay'da derdest olması nedeniyle, imar izni bulunmayan bu bölgede inşaat yapılması mümkün olmadığını, Kooperatif yönetimi 30/10/2022 tarihinden beri defalarca olağan ve olağanüstü genel kurullar düzenleyerek aleyhine sonuçlanmış mahkeme kararlarına ve yürütmenin durdurulması kararına rağmen ısrarla ve kötü niyetli olarak ...bölgesindeki Kooperatif'e ait parseller üzerinde anlaştığı yükleniciler ile birlikte hukuka, genel kurul iptal kararlarına ve hatta yürütmenin durdurulması kararına aykırı olarak Kooperatif'i fahiş derecede zarara uğratacak şekilde inşaat yapma çabasına giriştiğini, 03/11/2024 tarihinde gerçekleştirilen Genel Kurul Toplantısı’nda aşağıda detaylıca belirteceği tarafınca art arda açılan genel kurul iptal davaları sonucundaki yerel mahkemelerin verdiği kabul kararlarındaki gerekçeler yok sayılarak kamu düzenine, hukuka, ahlaka ve dürüstlük kuralına aykırı şekilde karar alınmaya ve işlem
@@ -87,6 +95,8 @@ Davacılar... vekilinin istinaf başvurusunun KABULÜ İLE, ... Asliye Ticaret M
 
 ## İstanbul BAM 17. HD 2025/836 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1152323000)
+
 İLK DERECE MAHKEMESİ KARARI:Mahkemece; yapılan işlemlerin öncesinde inşaat ve imar hususunun genel kurulda görüşüldüğü, imara aykırılıklarının giderilmesi ve imar mevzuatına uygun hale getirilmesinin kararlaştırıldığı, bu genel kurul kararlarının ferdileşmeye geçilmeden alındığı, kat mülkiyeti tesis edilmeden ve davacıya ait kat mülkiyeti tapudan verilmeden öncesinde bu işlemlerin yapıldığı, imara ilişkin düzenlemelerin davalının tasarrufu dışında İOSB ve Belediye tarafından imar işlemlerinde davalı kooperatifin herhangi bir kusurunun bulunmadığı, yapılan tüm işlemlerin imar mevzuatına uygun olarak yerine getirildiği, davacıya ait bağımsız bölüm tapusunun verilmesinden önceye ilişkin işlemler ile ilgili doğrudan bir zarar talebinde bulunmasının da mümkün olmadığı gerekçesi ile asıl ve birleşen davanın reddine karar verilmiştir.
 
 …
@@ -96,10 +106,14 @@ dükkanların arsa payı belli olmadığından yeni yapılan imar uygulaması so
 
 ## İstanbul BAM 53. HD 2025/222 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1124455200)
+
 GEREĞİ GÖRÜŞÜLÜP DÜŞÜNÜLDÜ: Dava, kat karşılığı inşaat sözleşmesine dayalı tapu iptali ve tescil, teminat mektubunun hükümsüz olduğunun tespiti ve iadesi ya da iptali ile, arsa satın alma bedeli olarak davalıya verilen paranın iadesi ile ilgili olarak da; satın alınan arsanın tevhidiyle oluşan emsal artışı nedeniyle fazladan inşa edilen ve davalı adına tescil edilen bağımsız bölümlerin tespiti ve tapularının iptali ile davacı adına hissesi oranında tescili, olmadığı takdirde bu bağımsız bölümlerin güncel değerinin tespiti ile tahsili, olmadığı takdirde yapılan ödemenin dertleştirici adalet ilkesi uyarınca güncellenmiş değerinin ödenmesi, bu talebin de kabul edilmemesi halinde ödenen bedelin faizi ile birlikte iadesi sistemine ilişkindir.
 Davacı yüklenici vekili, davalıya ait taşınmaz üzerinde müvekkili tarafından residence, alışveriş ünitesi, otel binası, otopark ve eklentilerinden oluşan inşaat kompleksinin sözleşmeye ve ekindeki teknik şartnameye uygun bir şekilde imal edilerek iskanı da alınmak suretiyle arsa sahibine teslim ettiğini belirterek sözleşme gereğince uyuşmazlık konusu otel binasına ait tapunun %50 oranındaki hissesinin devri ile sözleşme kapsamında işin teminatı olarak davalıya verilen teminat mektubunun iadesi ile bedeli ödenerek dava dışı belediyeden satın alınan taşınmazın tevhidi ile oluşan emsal artışından kaynaklı fazladan yapılan yerlerle ilgili taleplerde bulunmuştur. Davalı arsa sahibi vekili ise cevabında, sözleşme ile yapımı üstlenilen inşaatların tümünde muhtelif eksiklikler bulunduğunu, inşaatın mevzuata, tasdikli projesine aykırı yapıldığını, inşaatın henüz tamamlanmadığını, iskan ruhsatının da hala alınmadığını, davacının alacağının muaccel olmadığını, teminat mektubunun iadesi şartlarının bulunmadığını, davacı tarafça ödendiği iddia edilen 4.000,00 TL'nin borç olarak alındığını belirterek dava ve tedbir talebinin reddini istemiştir.
 
 ## İstanbul BAM 45. HD 2024/1494 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1092884000)
 
 İLK DERECE MAHKEMESİ KARARI Mahkemece "Dava, zorunlu deprem sigorta poliçesi kapsamında, sigorta bedeli talebine ilişkindir. Tarafların aktif ve pasif dava ehliyetleri denetlenip uyuşmazlık konuları re'sen belirlenerek taraflarca gösterilen deliller toplanmış ve konunun incelenmesinde uzmanlık gerektiren yönler olduğundan bilirkişi incelemesi yaptırılmak suretiyle dava sonuçlandırılmıştır.
 
@@ -113,6 +127,8 @@ Davacı; sigorta konusu taşınmazların 26/09/2019 tarihinde İstanbul'da meyda
 H Ü K Ü M: Gerekçesi yukarıda izah edildiği üzere; 1-Davacı vekilinin istinaf başvurusunun KABULÜ ile Bakırköy 7. Asliye Ticaret Mahkemesinin 2020/843 E. 2021/611 K. Sayılı 09/06/2021 tarihli kararının 6100 sayılı HMK'nun 353/1.a.6 maddesi uyarınca KALDIRILMASINA …
 
 ## İzmir BAM 11. HD 2023/1103 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/915531800)
 
 İLK DERECE MAHKEMESİ KARARININ ÖZETİ : Mahkemece iddia, savunma, benimsenen bilirkişi raporu ve tüm dosya kapsamına göre, davacılardan ... davalılar hakkında davasından feregat ettiği, davacı ...'in davalılar hakkında açtığı davada, tarafların da kabulünde olduğu üzere davalı şirketin inşaat yapmak amacıyla kurulduğu ve taşınmaz satın aldığı, hiçbir faaliyetinin bulunmadığı, davalı şirket ile dava dışı ... Şti. arasında Büyükçekmece 6.
 
@@ -130,6 +146,8 @@ Bilirkişi raporunda şirketin feshi koşullarının oluşmadığı yönündeki 
 
 ## Adana BAM 6. HD 2023/632 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/908413400)
+
 Davacı vekili 04/11/2021 tarihli dilekçesinde; nama ifa talebinden vazgeçtiklerini, davaya tazminat davası olarak devam ettiklerini, davanın değerini 141.945,74 TL’ye çıkartıp harcı ikmal ettiklerini beyan etmiş, 24/01/2022 tarihli celsede aynı beyanlarını tekrarlamıştır.
 
 …
@@ -145,6 +163,8 @@ nitelendirilmemesi gerektiğinin düşünüldüğü, sonuç olarak müteahhitler
 
 ## İstanbul BAM 17. HD 2022/1547 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/843617600)
+
 İLK DERECE MAHKEMESİ KARARI Mahkemece, iddia, savunma ve bilirkişi raporuna göre; davalı kooperatifin 30.12.1992 tarihinde yapılan ve hazirun cetvelinde kayıtlı (11) ortağın tamamının katıldığı 1985 ile 1991 yıllarına ait Genel kurul toplantısında kooperatif amacının gerçekleştirdiği gerekçesi ile tasfiye kararının alındığı, 17.01.2016 tarihli olağan genel kurul toplantısında tasfiye yönetim kurulu asil üyeliğine seçilen ... ve yedek üyeliğe seçilen ...'ın ortaklar pay defterinde kayıtlı ortak bulunduğu, İstanbul İli, Küçükçekmece İlçesi, ... Mahallesi, ...
 
 …
@@ -155,6 +175,8 @@ kabul oyu ile oy çokluğu ile, 9 nolu göndem maddesinin; "Tapuların malikleri
 
 ## İstanbul BAM 15. HD 2022/1427 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/805818100)
+
 Sözleşmenin 9.20 maddesinde; sözleşme sonrası arsanın mevcut imar durumu 2.5 emsalde emsal transferi uygulaması ile 5 emsale çıkarılacağı, emsal transferi için yapılacak harcamaların tamamının yüklenici tarafça ödeneceğinin kabul ve taahhüt edildiği, emsal transferi sonrası arsaya yapılacak inşaatın satılabilir toplam inşaat alanın kanopiler dahil 30.000 metrekareden az olamayacağı, arsa sahibiyle yapılan anlaşma gereğince asgari inşaat alanının 30.000 metrekare inşaat üzerinde olduğu, toplam inşaat alanının 30.000 metrekareden az olması durumunda arsa sahibinin bu durumdan etkilenmeyeceği, fakat inşaat alanı 30.000 metrekarenin üzerinde olması durumunda bu artış hisseleri oranında paylaşılacağı belirlenmiştir. Dosyada bulunan tapu kayıtlarına göre, inşaatın tamamında 496 adet mesken ile 32 adet ticari bağımsız bölüm yapıldığı, bu bağımsız bölümlerden 96 adet mesken niteliğindeki bağımsız bölüm ile 5 adet ticari nitelikteki bağımsız bölümün davacı şirket adına kayıtlı olduğu anlaşılmaktadır.
 Davacı yan, sözleşme hükümleri gereğince davalı tarafa hataen fazladan 46 mesken niteliğinde bağımsız bölüm ile 5 adet ticari nitelikte bağımsız bölümün devdedildiğini ileri sürerek dava konusu taşınmazların el değiştirmesinin önlenmesi ve telafisi imkansız zararların giderilmesi açısından dava dilekçesinde belirttikleri bağımsız bölümle üzerine 3. kişilere satış ve devrin önlenmesi bakımından ihtiyati tedbir konulmasını talep etmiş, mahkemece belirtilen taşınmazlar üzerine teminat karşılığında ihtiyati tedbir konulmasına karar verilmiştir. Dairemizin kaldırma kararından sonra getirtilen tapu kayıtları ve ipotek belgesinden, ... Ada, ... Parsel üzerindeki ... adet bağımsız bölüm üzerine müştereken 1.000,00 TL bedelli inşaat teminat ipoteği konulduğu, 34 adet bağımsız bölüm üzerindeki ipoteğin terkin edildiği, 55 adet bağımsız bölüm üzerindeki ipoteğin devam ettiği anlaşılmaktadır. Davalılar vekilince Dairemizin kaldırma kararından sonra verilen dilekçede, tedbirin kaydırılmasını istedikleri bağımız bölümlerin satıldığı bildirilmiştir.
 
@@ -163,6 +185,8 @@ Davacı yan, sözleşme hükümleri gereğince davalı tarafa hataen fazladan 46
 HÜKÜM: Gerekçesi yukarıda açıklandığı üzere; Asıl davada;1-Davalılar vekilinin istinaf başvurusunun KABULÜNE, 2-Bakırköy 3. Asliye Ticaret Mahkemesi'nin 26/05/2022 tarih, 2019/964 Esas sayılı "davalılar vekilinin ihtiyati tedbir kararının kaldırılmasına ilişkin talebin reddine" dair ara kararının KALDIRILMASINA …
 
 ## Bursa BAM 7. HD 2021/268 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/739931500)
 
 Davacı vekili dava dilekçesinde, davalı ile imzalanan yapı denetim hizmeti sözleşmesi uyarınca davacının edimlerini kısmen yerine getirdiğini, davalı tarafın hizmet bedellerini ödemediğini, bunun üzerine sözleşmenin davacı tarafından feshedildiğini belirterek hizmet bedellerinin tespit edilerek fazlaya ilişkin haklar saklı tutularak 70.000,00.-TL yapı denetim hizmet bedelinin hak ediş tarihlerinden işleyecek ticari avans faiziyle birlikte davalıdan tahsilini talep etmiştir.
 
@@ -175,6 +199,8 @@ Dava, yapı denetim sözleşmesinden kaynaklanan alacak istemine ilişkindir.
 Davacı taraf şirket ise de, dava mutlak ticari davalardan değildir. Davalı arsa sahibi ise 6502 sayılı Kanun'un 3/k maddesinde tanımlanan biçimde tüketici sayılmaz. Zira birden fazla bağımsız bölüm içerir şekilde inşaat yaptırmak istemekte olup yaptığı sözleşmede aynı Kanun 3/l maddesinde sayılan eser sözleşmesine bağlı tüketici işlemi olarak da kabul edilemez. 4708 sayılı Yapı Denetimi Hakkında Kanun uyarınca yapı sahibi sayılan arsa sahibinin anılan Yasa’nın 2 ve 5. maddesine göre yapı denetim hizmet sözleşmesi yapmadıkça imar nizamına uygun inşaat yapamayacağı, inşaat izni almak ve yapı denetim hizmet sözleşmesi yapmak zorunda olduğundan, dava yönünden görevli mahkeme genel mahkemeler olduğundan davalı vekilinin istinaf nedenleri yerinde görülmemiştir.
 
 ## İstanbul BAM 15. HD 2020/395 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/577461400)
 
 Dava, taraflar arasında düzenlenen kat karşılığı inşaat sözleşmesinin imkansızlık nedeniyle sona erdiğinin tespiti ile taşınmazın kaydı üzerinde bulunan inşaat sözleşmesi şerhinin terkinine ilişkin olup, mahkemece davanın reddine dair verilen karara karşı taraf vekillerince istinaf talebinde bulunulmuştur.
 

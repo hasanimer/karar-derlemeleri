@@ -22,6 +22,8 @@ uyari: "Derleyenin seçtiği alıntılardır; kararın tamamı değildir. Künye
 
 ## Yargıtay 6. HD 2024/1987 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1095148000)
+
 Mahkemece asıl davada verilen 18/01/2012 tarihli ilk kararda, davacı yüklenicinin ileri sürdüğü taleplerin taraflar arasında daha önceden görülen ve kesinleşen dava dosyalarında hükme bağlandığı, davacının talep edebileceği başka bir bağımsız bölüm bulunmadığı, yaptığı imalat bedelinin de ödendiği gerekçesiyle davanın reddine karar verilmiştir.
 
 …
@@ -40,6 +42,8 @@ bedeli alacağı talepleri toplanan deliller karşısında tek tek değerlendiri
 SONUÇ: Yukarıda ilâmın 5-g bendinde açıklanan sebeplerle; temyiz olunan kararın birleşen dava bakımından ONANMASINA …
 
 ## Yargıtay 6. HD 2024/1790 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1085840100)
 
 Davacı vekili dava dilekçesinde özetle; müvekkili ...'nün, dava dışı ......Ltd. Şti.'nin ...
 
@@ -63,6 +67,8 @@ Temyiz olunan Bölge Adliye Mahkemesi kararının BOZULMASINA …
 
 ## Yargıtay 6. HD 2024/1729 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1094948500)
+
 Mahkemece 25.11.2008 tarih, 2006/144 E. ve 2008/783 K. sayılı kararı ile ile; inşaatın ruhsata aykırı olduğu ancak inşaatın bitmiş durumda olup davacı arsa sahibi tarafından da teslim alınıp kullanılmaya başlandığı, davacının fesih istemekte iyi niyetli olmadığı gerekçesi ile asıl ve birleşen davanın reddine karar verilmiştir.
 
 …
@@ -79,6 +85,8 @@ Tabi ki sözleşme hürriyeti gereğince, tarafların yapı kayıt belgesi alın
 Somut uyuşmazlıkta bozma sonrası İlk Derece Mahkemesi kararında belirtildiği üzere davalı yüklenici tarafından yapılan başvuru üzerine Çevre ve Şehircilik İl Müdürlüğü tarafından yapı kayıt belgelerinin verildiği bu durumun ... Belediye Başkanlığı yazısından da teyit edildiği, dairemizin sayın çoğunluğu tarafından yapı kayıt belgesinin iskan yerine geçemeyeceği gerekçesiyle kararın bozulması gerektiği görüşü benimsenmiş ise de yukarıda anlatılan yasa maddelere göz önünde bulundurulduğunda yapı kayıt belgeleri iptal edilmediği sürece hukuken geçerli belgeler olup yapının yıkılmasını önleyerek iskanlı yapı gibi kullanımına olanak tanıdığından niteliği ve fonksiyonu itibariyle iskan belgesi yerine geçmektedir. Bu nedenlerle sayın çoğunluğun aksi yönündeki görüşüne katılmıyoruz. İlk Derece Mahkemesinin davanın reddine ilişkin kararının onanması gerektiği görüşündeyiz.
 
 ## Yargıtay 6. HD 2024/1530 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1094639000)
 
 Davacı vekili dava dilekçesinde; davalılardan ... ile diğer davalı ... İnş. Faz.
 
@@ -101,6 +109,8 @@ yüklenicinin kendi edimini yerine getirmedikçe arsa sahibinden edimini yerine 
 
 ## Yargıtay 6. HD 2024/1188 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1083179400)
+
 İlk derece mahkemesince, yüklenicinin edimin süresinde yerine getirmediği, davacı arsa sahibine gecikme tazminatı ödemekle yükümlüğü olduğu gerekçesiyle davanın kabulüne karar verilmiştir.
 
 …
@@ -110,6 +120,8 @@ Kamu düzenine aykırılık hallerinin resen gözetildiği, istinaf nedenleriyle
 SONUÇ: Yukarıda açıklanan nedenlerle Konya Bölge Adliye Mahkemesi 5. Hukuk Dairesi kararına ilişkin davalı vekilinin tüm temyiz itirazlarının reddiyle usul ve kanuna uygun bulunan hükmün ONANMASINA …
 
 ## Yargıtay 6. HD 2024/936 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1084300600)
 
 İlk Derece Mahkemesince, arsa payı karşılığı inşaat sözleşmesinden kaynaklanan tapu iptali ve tescil, olmadığı takdirde alacak davasında davacının inşaa ettiği binanın imar mevzuatına uygun olmadığı, yapı kayıt belgesinin sadece kullanım sağlayıp, binayı yasal hale getirmediği, sözleşmenin feshine ilişkin mahkeme kararı bulunmadığından rayiç değerin tahsiline ilişkin terditli talebin de reddi gerektiği gerekçesiyle davanın reddine karar verilmiştir.
 
@@ -122,6 +134,8 @@ Kamu düzenine aykırılık hallerinin re'sen gözetildiği, istinaf nedenleriyl
 Yapı Kayıt Belgesi TMK'nın 683. maddesinin bir malike tanıdığı tüm hakları sağladığı için, bu hakları “yok hükmünde” saymak; öncelikle 3194 sayılı Kanunun geçici 16. maddesine aykırı olacağı gibi, kullanılan ve kullanılmaya devam edilecek ve anılan Kanunun ekonomik değer atfettiği yapının “ekonomik değerinin olmadığı” kabul edilerek sözleşmenin feshedilmek suretiyle yapının arsa sahiplerine terkedilmesi ve yükleniciye yaptığı işin karşılığının verilmemesi hakkaniyete uygun düşmeyecektir. Bu nedenle yüklenicinin iskân ruhsatı yerine aldığı yapı kayıt belgesi dikkate alınarak; yapının, iskan ruhsatına sahip olması ile yapı kayıt belgesine sahip olması arasında piyasada bir değer düşüklüğü varsa bu değer bilirkişiye tespit ettirilerek ve depo ettirilmek suretiyle sözleşme gereğince yükleniciye veya yüklenicinin sattığı kişilere bırakılması gereken bağımsız bölümlerin tespit edilerek bir karar verilmesi gerektiği belirtilerek kararın bozulması gerekirken, Sayın çoğunluğun yazılı gerekçelerle kararın onanmasına dair karar açısından muhalifim.
 
 ## Yargıtay 6. HD 2024/796 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1045834500)
 
 Davacı vekili dava dilekçesinde özetle; arsa sahibi müvekkilleri ile davalı şirket arasında 24/08/2016 tarihinde İstanbul ...Noterliğinde ... yevmiye sayılı düzenlenme şeklinde taşınmaz satış vaadi ve arsa payı karşılığı inşaat sözleşmesi imzalandığını, bu sözleşme ile davalıların davacılara ait taşınmaz üzerindeki binanın yıkılarak yerine yeni bir bina yapılması konusunda anlaşma sağlandığını, sözleşme gereğince taşınmazın müvekkileri tarafından davalı yükleniciye teslim edildiğini, 11/05/2017 tarihinde binaya kat irtifakı kurulduğunu, sözleşme kapsamında 1, 2, 11 ve 12 no.lu bağımsız bölümlerin tapularının aynı gün davalı yüklenici şirketin üzerine geçirildiğini, müvekkillerinin tüm edimlerini eksiksiz yerine getirmelerine rağmen davalı yüklenicinin sözleşme uyarınca üzerine düşen edimi yerine getirmediğini, davalı yüklenicinin 1 yılı aşkın süredir inşaata gelmediğini ve inşaatta uzun zamandır hiçbir faaliyet bulunmadığını, sözleşme uyarınca davalı yüklenici üzerine devredilen bağımsız bölümlerin inşaat henüz % 35-40 seviyesindeyken davalı yüklenici tarafından diğer davalılara devredildiğini, yükleniciden bağımsız bölüm devralan diğer davalıların dava konusu taşınmaz üzerindeki
 binanın fiili durumu itibariyle TMK'nın 1023. maddesindeki iyi niyet iddiasından yararlanamayacaklarını ileri sürerek müvekkilleri ile davalı yüklenici arasında düzenlenen sözleşmenin geriye etkili feshi ile tapuda davalılar ..., ..., ... ve ... adlarına kayıtlı 1, 2, 11 ve 12 no.lu bağımsız bölümlerin tapu kayıtların iptali ile sözleşme öncesi paylar itibariyle müvekkilleri adına tapuya tescili ile davalı kooperatif lehine tesis edilen ipoteğin terkinine karar verilmesini talep etmiştir.
@@ -142,6 +156,8 @@ Tüm bu hususlar dikkate alındığında, bu davalılar yönünden davanın redd
 
 ## Yargıtay 6. HD 2024/508 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1006432600)
+
 Davacı-karşı davalı yüklenici vekili dava dilekçesinde özetle; müvekkil yüklenici ile davalı arsa sahibi arasında 11.06.2015 tarihinde düzenleme şeklinde arsa payı karşılığı inşaat sözleşmesi akdedildiğini, sözleşmede davalı arsa sahibinin sadece zemin katta bulunan dükkan ve beşinci katta bulunan daireyi alacağı, diğer 4 dairenin ise müvekkil yükleniciye bırakılacağı açık şekilde kararlaştırıldığı halde müvekkil yüklenici şirkete 2 daire verildiğini, verilmesi gereken 8 ve 16 no.lu bağımsız bölümlerin inşaatın bitmesine ve müvekkili şirketin yüklenici olarak tüm yükümlülükleri yerine getirmesine ve hatta ... kayıt belgelerini alınmasına rağmen teslim edilmediğini ileri sürerek dava konusu 8 ve 16 no.lu bağımsız bölümlerin davalı adına kayıtlı olan tapu kayıtlarının iptali ile müvekkili şirket adına tapuya tesciline, mümkün olmaması halinde daire bedellerinin tahsiline karar verilmesini talep etmiştir.
 
 …
@@ -159,6 +175,8 @@ Arsa sahibi imara aykırı olan ... ile ilgili ... kayıt belgesi aldığında, 
 
 ## Yargıtay 6. HD 2024/501 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1006404300)
+
 Davacı vekili dava dilekçesinde; davalılar arasında 04.01.2006 ve 30.03.2006 tarihlerinde imzalanan arsa payı karşılığı inşaat sözleşmesine istinaden müvekkilinin davalı yükleniciden 15.12.2007 tarihli dava konusu bağımsız bölümü satın aldığını, sözleşmeye göre 30.11.2008 tarihinde teslimi kararlaştırılan taşınmazın halen tapudan devrinin yapılmadığını, diğer tüm bağımsız bölümlerin şahsi hakka istinaden müvekkili ile aynı durumda olan 3. kişilere devredildiğini, arsa malikinin müvekkiline verilecek taşınmazı kiraya verdiğini, inşaatın tamamlanma oranının %99 olduğunu, davalı arsa sahibin ödediği tutar olsa bile taşınmazın kiraya verilmesi nedeniyle elde ettiği kiradan bu tutarı fazlasıyla elde ettiğini, eksik ... bedeli varsa müvekkilinin arsa payı oranınca depo edileceğini ileri sürerek, B blok 6. kat 14 no.lu bağımsız bölümün müvekkili adına tescilini, eksik ... bedeli varsa tespiti ile kira bedelinden mahsubunu, eksik ... bedeli depo ettirilirse davalı yükleniciden tahsilini talep etmiştir.
 
 …
@@ -175,6 +193,8 @@ Yüklenici ile yaptığı imalâtlar karşılığı yükleniciden bağımsız b�
 
 ## Yargıtay 6. HD 2024/92 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1002576200)
+
 Mahkemece bozmaya uyularak yeniden yapılan yargılama sonucunda; asıl davanın kısmen kabulüne, birleşen davanın kabulüne karar verilmiştir.
 
 …
@@ -188,6 +208,8 @@ Bu durumda mahkemece yapılacak ...; iskan ruhsatı alınması yükümlülüğü
 (3) numaralı bentte açıklanan nedenlerle birleşen davada davalı vekilinin temyiz itirazlarının kabulü ile hükmün birleşen davada davalı yararına bozulmasına BOZULMASINA …
 
 ## Yargıtay 6. HD 2024/84 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1005036900)
 
 Davalı ... vekili cevap dilekçesinde özetle; 10 yıllık zamanaşımı süresinin dolduğunu, davacının tapu masraflarını ödemek için yüklenicilere başvurmadığını, noterde düzenleme şeklinde yapılan 07.08.2000 tarihli satış vaadi sözleşmesinin tarafı olmadığını, bu nedenle müvekkilinin sorumlu tutulamayacağını, davanın reddini talep etmiştir.
 
@@ -204,6 +226,8 @@ Arsa sahibi ile yükleniciler arasında yapılan sözleşme; 11. maddesinde “t
 Sayın çoğunluk, özetle “yapının imara uygun hale getirilip getirilemeyeceğinin araştırılmasını, imara uygun hale getirilemeyecekse davanın reddine karar verilmesi gerektiği” gerekçesiyle kararı bozmuştur. Bozma gerekçesi eksik kaldığı için çoğunluk görüşüne katılmak mümkün olmamıştır. Bir başka değişle …
 
 ## Yargıtay 6. HD 2023/4349 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1019230100)
 
 Asıl davaya konu 8. kat 16 numaralı daire ile hem asıl davaya, hemde birleşen davaya konu 2. kat 1. Numaralı dairenin tapu kaydının incelenmesinde bağımsız bölümler üzerinde 15.02.2017 tarihinde kat mülkiyetine çevrilme işleminin yapıldığı görülmüştür. İskan ruhsatı alınmadan bir taşınmazın kat mülkiyetine çevrilmesi mümkün olmadığından, aynı taşınmaza ilişkin diğer bir arsa sahibinin davalı yüklenici aleyhine açtığı Dairemizin başka bir dosyasında Tapu Müdürlüğü'ne müzekkere yazılarak kat mülkiyetine esas iskan ruhsatı dosya için getirtilmiştir. Davacının iskan ruhsatını sözleşmede belirtilen süre içinde 16.12.2016 tarihinde aldığı ve 15.02.2017 tarihinde de taşınmazı kat mülkiyetine çevirdiği anlaşılmıştır.Davalı yüklenici inşaatı tamamlayarak edimin tamamlamış ise de, davacı ...'e vermesi gereken 8. kat 16 numaralı daire ile bağlı olduğu kura tutanağı doğrultusunda vermesi gereken 2+1 daireyi verme taahhüdünü yerine getirmemiş, yine sözleşme kapsamında birleşen dosya davacısına da 2 kat 1 numaralı bağımsız bölümü teslim etmemiştir.
 

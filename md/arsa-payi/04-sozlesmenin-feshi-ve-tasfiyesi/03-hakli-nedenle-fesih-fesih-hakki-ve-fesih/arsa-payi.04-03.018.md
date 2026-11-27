@@ -22,6 +22,8 @@ uyari: "Derleyenin seçtiği alıntılardır; kararın tamamı değildir. Künye
 
 ## Yargıtay 14. HD 2017/8048 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/383724800)
+
 Dava, arsa sahibi ile yüklenici arasındaki kat karşılığı inşaat sözleşmesi gereğince yükleniciden bağımsız bölüm temlik alan davacının tapu iptali ve tescil, ikinci kademede ise tazminat taleplerine ilişkindir.
 
 …
@@ -40,6 +42,8 @@ SONUÇ: Yukarıda açıklanan nedenlerle davacı vekilinin temyiz itirazlarını
 
 ## Yargıtay 14. HD 2017/5212 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/350695700)
+
 Dava, ortaklığın giderilmesi istemine ilişkindir.
 
 Mahkemece, davanın reddine karar verilmiştir.
@@ -52,6 +56,8 @@ Noterliğinin 01.11.2012 tarih ve 28255 yevmiye nolu düzenleme şeklinde Kat Ka
 SONUÇ: Yukarıda açıklanan nedenlerle, davacılar vekilinin temyiz itirazlarının kabulü ile hükmün BOZULMASINA …
 
 ## Yargıtay 13. HD 2017/5173 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/353621600)
 
 Davacı, davalı ... ile 20 Aralık 2005 tarihinde yapılan sözleşme gereğince ... ...
 
@@ -72,6 +78,8 @@ SONUÇ: Yukarıda açıklanan nedenlerle temyiz olunan kararın davalı yararın
 
 ## Yargıtay 23. HD 2017/2966 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/393585300)
+
 2- ...Asliye Ticaret Mahkemesi’nin 2006/94 E. sayılı dosyasında taraflar arasında imzalanan arsa payı karşılığı inşaat sözleşmesinin feshedildiğinin tespitine karar verildiği ve kararın 07.06.2012 tarihinde kesinleştiği görülmüştür. Bu durumda mahkemece, fesih sebebiyle arsa payı karşılığı inşaat sözleşmesinin ortadan kalktığı ve sözleşmenin 5. maddesinin uygulanma imkanı bulunmadığından, sebepsiz zenginleşme hükümleri gereğince, ...’a ödenen 91.509,00 TL’nin tamamının asıl davada davalı- birleşen davada davacıdan tahsiline karar verilmesi gerekirken, yazılı şekilde hüküm kurulması doğru olmamıştır.
 
 …
@@ -79,6 +87,8 @@ SONUÇ: Yukarıda açıklanan nedenlerle temyiz olunan kararın davalı yararın
 SONUÇ: Yukarıda (1) numaralı bentte açıklanan nedenlerle, asıl davada davacı-birleşen davada davalı ... Petr. Gıda Bes. Mak. Ltd. Şti. vekilinin diğer temyiz itirazlarının REDDİNE, (2) numaralı bentte açıklanan nedenlerle, asıl davada davacı-birleşen davada davalı vekilinin temyiz itirazlarının kabulü ile mahkeme kararının BOZULMASINA …
 
 ## Yargıtay 15. HD 2017/2579 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/351580500)
 
 Davacılar 1-... (Muris) 2-... 3-...
 
@@ -90,6 +100,8 @@ Somut olayda yükleniciler bloklar halindeki inşaatı bitirip teslim etmeyerek 
 SONUÇ: Yukarıda 1. bentte yazılı nedenlerle davalılar ..., ... Asliye Hukuk Mahkemesi'nin 2004/402 Esas sayılı dosya davacıları yüklenicilerin tüm temyiz itirazlarının reddine, 2. bent uyarınca arsa sahibi mirasçılarının temyiz itirazlarının kabulü ile hükmün arsa sahibi mirasçıları yararına BOZULMASINA …
 
 ## Yargıtay 23. HD 2017/1793 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/353029300)
 
 Davalı şirket vekili, inşai faaliyet normal seviyesinde seyrederken sözleşme gereğince müvekkili şirkete devri taahhüt edilen taşınmazların bir bölümünün 3. kişilere devir ve ferağının karşı edimi imkansızlaştıran açıkça akde aykırı bir tutum olduğunu, davacı tarafın bu haksız tutumu karşısında davalı şirketin inşaat faaliyetini durdurduğunu, davacı tarafın fesih ve tazminat taleplerinin yerinde olmadığını, bundan önce davacılarla davalı şirket arasında sağlanan karşılıklı mutabakat içinde davalı tarafın yaptığı iş sonucu toplam 16 dairenin hak edildiği sonucuna varılarak davalı şirkete devir ve ferağ işlemleri yapıldığını, davalı şirket üzerinde haciz baskısı olması nedeniyle tapuların davalı şirkete devir edilmeyip şirketin gösterdiği ve itimat ettiği 3. kişiler üzerine devir edildiğini, davada taraf teşkili sağlanamadığını, davanın konusu ve niteliği itibariyle hissedarlar arasında zorunlu dava arkadaşlığı bulunduğunu savunarak, davanın reddine karar verilmesini istemiştir.
 
@@ -109,6 +121,8 @@ SONUÇ: Yukarıda (1) numaralı bentte açıklanan nedenlerle, davalı ... ve ..
 
 ## Yargıtay 23. HD 2017/1640 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/351152400)
+
 Davacı vekili, asıl ve birleşen davada dava dışı yükleniciler ile müvekkili arasında imzalanan arsa payı karşılığı inşaat sözleşmelerinin mahkeme kararıyla geriye etkili feshedildiğini, davalıların yükleniciden veya ondan satın alan kişilerden bağımsız bölüm satın alan üçüncü kişiler olduğunu ileri sürerek, davalılar adına kayıtlı tapu kayıtlarının iptali ile tescilini talep ve dava etmiştir.
 
 Mahkemece, tüm dosya kapsamından, sözleşmenin geriye etkili feshedildiği, davalılardan ... ve ... dışındaki davalıların iyiniyetli olmadıkları, TMK'nun 1023. maddesinden yararlanamayacakları gerekçesiyle, davanın kısmen kabulüne karar verilmiştir.
@@ -124,6 +138,8 @@ SONUÇ: Yukarıda (1) numaralı bentte açıklanan nedenlerle, davalılardan ...
 
 ## Yargıtay 23. HD 2017/1145 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/352864400)
+
 Mahkemece, davanın reddine dair verilen karar, davacılar vekilinin temyizi üzerine, Dairemizin 17.01.2013 tarih ve 2012/5103 E., 2013/146 K. sayılı ilamıyla, taraf teşkili açısından bozulmasına karar verilmiş, bozmaya uyularak yapılan yargılama sonunda, …
 
 …
@@ -135,6 +151,8 @@ Dava arsa payı karşılığı inşaat sözleşmesinin feshi ile sözleşme uyar
 SONUÇ: Yukarıda (1) numaralı bentte açıklanan nedenlerle, asıl davada davalı vekilinin temyiz itirazlarının kabulü ile mahkeme kararının BOZULMASINA …
 
 ## Yargıtay 23. HD 2017/932 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/353498800)
 
 Davalı-karşı davacılar vekili, davanın bir yıllık zamanaşımı süresi geçtikten sonra açıldığını, ileri sürülen meblağın fahiş olduğunu savunarak, asıl davanın reddini, karşı davada ise, yüklenicinin 30.07.2009 tarihinden itibaren arsa sahiplerinin dairelerinin her biri için 44 ay kira ödemekle yükümlü ve borçlu olduğunu, şimdilik her bir davacı için 1.000,00 TL olmak üzere toplam 11.000,00 TL'nin sözleşme tarihinden işleyecek yasal faizi ile birlikte karşı davalıdan tahsilini talep ve dava etmiştir.
 
@@ -151,6 +169,8 @@ Bu nedenle yapılan imalatın arsa sahibinin yararına olması kaydıyla yüklen
 SONUÇ: Yukarıda (1) numaralı bentte açıklanan nedenlerle, tavzih talebinde bulunan vekilinin temyiz itirazlarının reddiyle mahkemenin usul ve kanuna uygun bulunan 19.12.2016 tarih ve 2014/181 E., 2015/515 K. sayılı ek kararın ONANMASINA …
 
 ## Yargıtay 23. HD 2017/908 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/323075500)
 
 Davacı vekili, taraflar arasında 09.07.2012 günlü arsa payı karşılığı inşaat sözleşmesi imzalandığını, sözleşmenin 30.09.2013 günlü fesihname ile karşılıklı feshedildiğini, sözleşmenin feshedilmesine rağmen davalıya devredilen tapunun tekrar müvekkiline devredilmediğini ileri sürerek, tapu kaydının iptali ile davacı adına tescilini mümkün değilse gerçek değerinin tespiti ile tahsilini talep ve dava etmiştir.
 
@@ -169,6 +189,8 @@ SONUÇ: Yukarıda açıklanan nedenlerle, davacı vekilinin temyiz talebinin kab
 
 ## Yargıtay 14. HD 2017/13 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/318253700)
+
 Davalı yüklenici İbrahim ve arsa maliki ... ayrı ayrı davaların reddi gerektiğini savunmuşlardır.
 
 Mahkemece ilk hükümde; davacı ...’in tapu iptali ve tescil isteminin kabulüne, davacı ...’ın bedele ilişkin isteminin kabulüyle 35.000 TL bedelin davalı ...’den alınmasına, davacılar ...ve ...’un istemlerinin reddine karar verilmiştir.
@@ -181,9 +203,13 @@ SONUÇ:Yukarıda (1) numaralı bentte açıklanan nedenlerle davacılar vekiller
 
 ## Yargıtay 23. HD 2016/5402 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/280668900)
+
 Dairemizin 26.09.2014 tarih ve 4909 E., 6012 K. sayılı ilamıyla, müdahale talep edenler ...,... ve ... vekillerinin temyiz isteminin süre yönünden reddine; asıl davanın sözleşmenin feshi, birleşen 2007/26 esas sayılı davanın ise yüklenici tarafından açılan tapu iptal ve tescil davası olduğu, bu davaların sonucunun temyiz eden üçüncü kişilerin haklarını etkileyeceği, bu durumda, müdahale taleplerinin kabul edilerek, yargılamaya devam olunup, karar verilmesi gerekirken, yanılgılı gerekçe ile müdahale taleplerinin reddinin usul ve yasaya aykırı olduğu belirtilerek bozulmasına, bozma nedenine göre, asıl davada davacı-birleşen davada davalı ... vekilinin tüm, müdahele talebinde bulunan ..., ve ... vekilinin temyiz itirazlarının şimdilik incelenmesine yer olmadığına karar verilmiştir.
 
 ## Yargıtay 23. HD 2016/5173 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/280597600)
 
 Mahkemece iddia, savunma, dosya kapsamı ve benimsenen bilirkişi raporuna göre; taraflar arasında yapılan eser sözleşmesi sonucunda, her iki tarafın da birbirinden alacaklarının bulunduğu, ancak tüm alacaklar karşılıklı hesaplanıp mahsup edildiğinde, asıl davada davalı-birleşen davada davacının yükleniciden netice itibariyle 80.324,80 TL fazladan alacağının olduğu, birleşen davada davacı arsa malikinin 7.500,00 TL talep ettiği ve bu talebini ıslah etmemiş olduğu gerekçesiyle, asıl davanın reddine, birleşen davanın kabulüne karar verilmiştir.
 
@@ -197,11 +223,15 @@ SONUÇ: Yukarıda (1) no'lu bentte açıklanan nedenlerle, asıl davada davacı-
 
 ## Yargıtay 23. HD 2016/5172 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/280711800)
+
 Dava konusu taşınmazın sözleşmenin feshinden sonra ifraz edildiği, ifraz edildikten sonra inşaat yapılacak alanda değişiklik olmadığı belirlenmiş ise de birleşen davada davacıların davalı şirket ile yaptıkları sözleşme gereği kendilerine isabet edecek olan 6.5 daire ile fesihten sonra başka yüklenici ile yaptıkları sözleşme ile alacak oldukları 6 daire arasında yön, metrekare, teknik şartname ve mahal şartları vs. özellikler dikkate alınarak değer farkı olup olmadığı değerlendirilerek arada fark olması durumunda bu bedele hükmedilmesi gerekirken, yazılı şekilde hüküm kurulması doğru olmamıştır.
 
 SONUÇ: Yukarıda (1-a) numaralı bentte açıklanan nedenlerle, asıl davada davalılar vekilinin diğer temyiz itirazlarının reddine, (1-b) numaralı bentte açıklanan nedenlerle, asıl davada davalılar vekilinin temyiz itirazlarının kabulü ile hükmün asıl davada davalılar yararına, (2-a) numaralı bentte açıklanan nedenlerle, asıl davada davacı vekilinin temyiz itirazlarının reddine, (2-b) numaralı bentte açıklanan nedenlerle, birleşen davada davalı vekilinin temyiz itirazlarının kabulü ile hükmün birleşen davada davalı yararına BOZULMASINA …
 
 ## Yargıtay 3. HD 2016/4837 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/213816700)
 
 Davacılar vekili dilekçesinde; davacıların, arsa sahibi olan davalı ... ile kat karşılığı inşaat sözleşmesi yapan dava dışı yükleniciye ait daireleri kaba inşaat halinde iken satın aldıklarını, dairelerin diğer imalatlarının davacılar tarafından tamamlandığını, ancak davalının açtığı dava ile kat karşılığı inşaat sözleşmesinin feshi ile birlikte, davacılara ait tapuların iptaline ve müdahalelerinin menine karar verildiğini, hükmün kesinleşmesi ile davalının davacılar tarafından yaptırılan imalatlar nedeniyle zenginleştiğini ileri sürerek; fazlaya ilişkin hakları saklı kalmak üzere her bir davacı için 2.000 TL den toplam 22.000 TL alacağın tapu iptal ve tescil tarihinden itibaren en yüksek ticari faizi ile birlikte davalıdan tahsiline karar verilmesini talep etmiş, 16.09.2014 tarihli ıslah dilekçesi ile de talebini toplam 147.560 TL ye yükseltmiştir.
 
@@ -221,6 +251,8 @@ SONUÇ: Yukarıda açıklanan esaslar gözönünde tutulmaksızın yazılı şek
 
 ## Yargıtay 23. HD 2016/3522 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/238493100)
+
 Davacılar vekili, davalı ...'in. arsa malikleri olan müvekkillerine vekalelen diğer davalılar ile 22.08.2006 tarihli arsa payı karşılığı inşaat ve 31.07.2006 tarihli taşınmaz satış vaadi sözleşmesi düzenlediğini, davalılar ....'un yüklenici ve satın alan olduklarını, davalı ...'un, taşınmazları çok düşük bedelle muvazaalı olarak diğer davalılara sattığını, müvekkillerinin zarara uğratıldığını ileri sürerek, sözleşmesinin feshini talep ve dava etmiştir.
 
 Davalı ..., 28.07.2001 tarihinden beri davacıların taşınmazları ile ilgili işlemleri vekil olarak yaptığını, iddiaların yersiz olduğunu savunarak, davanın reddini istemiştir.
@@ -239,6 +271,8 @@ SONUÇ: Yukarıda (1) numaralı bentte açıklanan nedenlerle, davacılar vekili
 
 ## Yargıtay 23. HD 2016/3486 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/238200200)
+
 Davacı vekili, taraflar arasında imzalanan arsa payı karşılığı inşaat sözleşmesinin tüm hissedarlarla imzalanmadığını ileri sürerek, sözleşmenin feshini talep ve dava etmiştir.
 
 Mahkemece, tüm dosya kapsamından, sözleşme imzalanmayan hissedarlar bulunduğu, ortaklığın giderilmesi davası ile yapılacak satışın sonucunda davanın taraflarının malik olması ihtimalinin beklenemeyeceği gerekçesiyle, davanın kabulüne karar verilmiştir.
@@ -253,6 +287,8 @@ SONUÇ: Yukarıda (1) numaralı bentte açıklanan nedenlerle, davalı vekilinin
 
 ## Yargıtay 23. HD 2016/3292 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/246894900)
+
 Asıl davada, mahkemece, 04.06.2010 tarihli arsa payı karşılığı inşaat sözleşmesinin feshine ve 11, 12, 15, 16 ve 17 parsel sayılı taşınmazlarda, tapuda davalı adına kayıtlı payın iptali ile davacılar adına tesciline dair verilen 15.03.2013 tarihli ilk karar, davacılar vekilince, ipotek şerhinin terkini isteminin reddi yönünden temyiz edilmiş, Dairemizce, taşınmazın tapu kaydında lehlerine ipotek tesis edilmiş ve haciz şerhi bulunan kişiler aleyhine dava açılarak eldeki dava ile birleştirilmesi gerektiği belirtilerek bozulmuştur. Bu durumda, sözleşmenin feshi ile tapu iptal ve tescil isteminin kabulüne ilişkin ilk hüküm taraf vekillerince temyiz edilmemekle kesinleştiğinden, mahkemece, bu istemlerle ilgili karar verilmesine yer olmadığına karar verilmesi gerekirken, yeniden hüküm tesis edilmesi doğru olmamıştır.
 
 …
@@ -261,10 +297,14 @@ SONUÇ: Yukarıda (1) numaralı bentte açıklanan nedenlerle, asıl davada dava
 
 ## Yargıtay 23. HD 2016/2937 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/231209200)
+
 Somut olayda, asıl dava, arsa payı karşılığı inşaat sözleşmesine dayalı ifaya izin ve tazminat, karşı dava ise bu sözleşmeye dayalı sözleşmenin feshi ve tazminat istemlerine ilişkin olup, asıl davada davalı- karşı davada davacı vekili temyiz dilekçesinde her iki davaya ilişkin temyiz itirazlarını ileri sürerek hem asıl davada hem de karşı davada verilen hükmü temyiz ettiği halde, sadece bir temyiz yoluna başvurma harcı yatırmış, asıl davada aleyhine hükmedilen miktar yönünden temyiz başvuru harcı ile nispi temyiz karar harcını ve aleyhine reddedilen karşı davada da maktu temyiz karar harcını yatırmamıştır. Oysa, 03.04.2012 tarihinde yürürlüğe giren Hukuk Muhakemeleri Kanunu Yönetmeliği'nin 48. maddesi uyarınca temyiz dilekçesinin süresinde temyiz kaydı yapılmış ise de, asıl ve karşı dava için ayrı ayrı temyiz başvuru ve temyiz karar harcının yatırılması gerekmektedir.
 Hükmü temyiz eden asıl davada davalı-karşı davada davacı vekili tarafından, anılan harçlar yatırılmışsa buna ilişkin belgenin eklenmesi, yatırılmamışsa anılan harçları yatırması için anılan vekile HUMK'nın 434/3. maddesi uyarınca muhtıra çıkarılması, sonucuna göre gerektiğinde aynı hüküm uyarınca mahkemece bir karar verilmesi, harçları yatan dava yönünden dosyanın temyiz incelemesi yapılmak üzere Dairemiz'e gönderilmesi için dosyanın yerel mahkemesine geri çevrilmesi gerekmiştir.
 
 ## Yargıtay 23. HD 2016/2764 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/237558200)
 
 Davacılar vekili, taraflar arasında imzalanan 05.11.2008 ve 25.05.2009 tarihli arsa payı karışlığı inşaat sözleşmelerinde, müvekkillerine düşen 7 adet dairenin 12 ay içerisinde teslim edileceğinin kararlaştırıldığını, davalının edimlerini yerine getirmemesi üzerine, müvekkillerince, sözleşmenin feshi ve tazminat istemiyle açılan davada, taraflar arasında yapılan sulh protokolü uyarınca, ... sayılı ilamıyla, sulhun tasdikine karar verildiğini, sulh protokolünde mahkeme karar tarihinden itibaren en geç beş ay içerisinde teslimin gerçekleşeceği kararlaştırıldığı halde, davalının halen edimlerini yerine getirmediğini, yapı ruhsatının süresinin dolduğunu ileri sürerek, sulhun tasdikine dair ilam gereğince, davalı yüklenicinin edimlerinin yerine getirmediğinin ve buna bağlı olarak arsa payı karşılığı inşaat sözleşmelerinin feshedilmiş olduğunun tespiti ile mevcut inşaatın davalıdan alınarak müvekkillerine teslimini talep ve dava etmiştir.
 

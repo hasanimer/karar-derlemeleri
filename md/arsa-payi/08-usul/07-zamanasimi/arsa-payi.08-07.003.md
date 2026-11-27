@@ -22,6 +22,8 @@ uyari: "Derleyenin seçtiği alıntılardır; kararın tamamı değildir. Künye
 
 ## Yargıtay 3. HD 2012/16687 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/529367800)
+
 Davacı vekili dilekçesi ile, müvekkili ile davalıların müşterek malik bulundukları 108 parsel nolu (389.15 m² yüzölçümündeki) taşınmazı, komşu 43 parsel numaralı taşınmazın müşterek malikleri ile anlaşarak tevhit edip, arsa sahipleri olarak taşınmazlar üzerine iş merkezi inşa edilmesi hususunda müteahhit firma (... İnşaat) ile kat karşılığı inşaat sözleşmesi imzaladıklarını; sözleşme gereğince, iş merkezinin % 50'sinin arsa sahiplerine, % 50'sinin müteahhide ait olacağını, 27.04.1994 tarihinde tesis edilen kat irtifakından sonra arsa sahiplerine düşen bağımsız bölümlerin tescilinin sağlandığını; ancak, davacı müvekkilinin, diğer parsel sahipleri aleyhinde, kat irtifakı tesisinde yanlışlık olduğunu ileri sürerek, ... 3.
 
 …
@@ -33,6 +35,8 @@ Davanın niteliği itibariyle, arsa payı düzeltim davası olduğu gözönüne 
 
 ## Yargıtay 15. HD 2012/3256 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/765473100)
+
 Taraflar arasında imzalanan kat karşılığı inşaat sözleşmesi uyarınca yapımı kararlaştırılan inşaatın 03.10.1994 tarihinde iskân ruhsatı alınarak teslim edildiği dosyaya giren belgelerden anlaşılmaktadır. BK.126/IV. maddesi uyarınca, eser sözleşmesinin bir çeşidi olan arsa payı karşılığı inşaat sözleşmelerinde müteahhidin kasıt veya ağır kusuru ile akdi hiç veya gereği gibi yerine getirmemiş, bilhassa ayıplı malzeme kullanmış veya ayıplı bir ... meydana getirmiş olması sebebiyle açılacak davalar anılan Yasanın 125. maddesi uyarınca 10 yıllık zamanaşımı süresine tâbidir. Asıl davada 2 nolu bağımsız bölümdeki gizli ayıp bedelinin istenmesine göre iskân tarihinden itibaren dava tarihine kadar 10 yıllık zamanaşımı süresinin gerçekleşmiş olduğu ortadadır. O halde bu nedenle asıl davanın zamanaşımı gerçekleştiğinden reddine karar verilmesi gerekirken, bu husus gözetilmeksizin kabul kararı verilmesi doğru olmadığından karar bozulmalıdır.
 
 Birleşen davadaki temyiz istemlerine gelince; arsa sahiplerinden 1 nolu daireyi satın alan ... tarafından arsa sahipleri ve yüklenici aleyhine açılan davada, gizli ayıplı imalâtların tutarı 10.358,18 TL’nin arsa sahiplerinden tahsiline karar verilmiş, yükleniciyle akdî ilişkisi bulunmadığından aleyhindeki dava reddedilmiştir. Bu durumda inşaat sözleşmesi uyarınca arsa sahiplerinin daire satın alana ödedikleri bu zararı sonuçta yükleniciye rücu edebilecekleri, o davada bulunan yüklenici tarafından da bilinebileceğinden ve arsa sahiplerinin yükleniciye rücu istemleri de yerinde olduğundan, birleşen davada istemin tümüyle kabulü gerekirken, bu husus gözetilmeksizin sadece ana paranın tahsili yönünde hüküm kurulması usul ve yasaya aykırı olmuştur. Karar bu nedenle de bozulmalıdır.
@@ -41,12 +45,16 @@ SONUÇ:Yukarıda 1. bentte açıklanan nedenlerle davalıların diğer temyiz it
 
 ## Yargıtay 15. HD 2011/6632 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/766314700)
+
 Tapu iptali ve tescil, olmadığı taktirde bedelin tahsiline ilişkin asıl dava 16.02.2005 tarihinde açılmış, davanın aktif dava husumeti yönünden reddine dair verilen karar Daire’mizin 20.01.2009 günlü ilâmı ile bozulmuştur. Bozmaya uyularak yapılan iş bedelinin tesbiti için bilirkişi incelemesi yaptırılmış, alınan bilirkişi raporuna göre davacı kooperatif asıl davada talep ettiği 50.000,00 TL'yi 01.07.2010 tarihinde harçlandırdığı ıslah dilekçesi ile 576.927,00 TL’ye arttırmıştır. Davalılar vekili ıslah dilekçesine karşı zamanaşımı def’inde bulunmuş, davacı tarafça zamanaşımı def’ine karşı savunmanın genişletildiği itirazında bulunulmamıştır. Daire’mizin bozma kararında belirtildiği üzere davalılar murisi ile dava dışı yükleniciler...ve ...arasında yapılan 24.08.1993 tarihli kat karşılığı inşaat sözleşmesinden doğan hakların arsa sahibinin muvafakatı ile sözleşmeden hemen sonra 21.09.1993 tarihinde kurulan davacı kooperatife devredildiği ve inşaatların kooperatif üyelerinden alınan aidatlarla yapımına başlanarak belirli bir aşamaya getirildiği, dolayısıyla yanlar arasındaki hukuki ilişkinin eser sözleşmesinden kaynaklandığı kabul edilmelidir.
 BK’nın 126/IV. maddesi uyarınca eser sözleşmesinden kaynaklanan uyuşmazlıklarda uygulanması gereken zamanaşımı süresi 5 yıldır. Davalı arsa sahibi mirasçıları tarafından kat karşılığı inşaat sözleşmesine konu olan taşınmaz tapuda 10.12.2004 tarihinde davalı ...’e devredilerek sözleşmenin ifası bu tarihte fiilen imkânsız hale geldiğinden ve davacı kooperatif 16.02.2005 tarihinde açtığı asıl davada da yapılan iş bedelinin talep edilebilecek durumda olduğundan ıslah tarihi olan 01.07.2010 tarihi itibariyle ıslahla artırılan miktar yönünden 5 yıllık zamanaşımı süresinin dolmuş olduğu nazara alınarak bu miktar yönünden davanın reddine karar verilmesi gerekirken, davalılar vekilinin zamanaşımı def’i nazara alınmayarak yazılı şekilde hüküm kurulması doğru olmamış kararın bozulması gerekmiştir.
 
 SONUÇ:Yukarıda 1. bentte açıklanan nedenlerle davalıların sair temyiz itirazlarının reddine, 2. bent uyarınca kararın davalılar yararına BOZULMASINA …
 
 ## Yargıtay 15. HD 2011/4660 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/766409000)
 
 Davacı-karşı davalı ... İnşaat Sanayi A.Ş. tarafından arsa sahibi sıfatı ile açılan davada, inşaatın süresinde teslim edilmemesi nedeniyle uğradığı zarar ve kâr kaybının tahsili; davalı-karşı davacı ... İnşaat Sanayi Ticaret Ltd.
 
@@ -63,6 +71,8 @@ SONUÇ: Yukarıda 1. bentte belirtilen nedenlerle davacı-karşı davalı vekili
 
 ## Yargıtay 15. HD 2010/6071 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/777407500)
+
 Dava, ... tarafından 04.09.1989 tarihli ve 45925 yevmiye sayılı arsa payı karşılığı inşaat sözleşmesine dayalı olarak açılmıştır. Davacı ... tarafından adına tescilli (1) numaralı parseldeki B Bloktaki 3. katında bulunan (7) numaralı daire ile (2) numaralı parselde bulunan C Bloktaki 2. kat (11) numaralı daireler, 1/2 oranında ... ve ...’ya 07.02.2007 tarihinde satılmıştır. 09.06.2009 tarihli oturumda da HUMK’nın 186. maddesi hükmü uyarınca, seçimlik hakkını kullanabilmesi için davalıya süre verilmiş ve davalı vekili de 20.07.2009 tarihli dilekçesiyle davanın temlik alanlara karşı mevcut talepler itibariyle devam ettirilmesini istemiştir. HUMK’nın 186. maddesi hükmü, yargılama sırasında, dava konusunun temliki halinde iki tarafa seçimlik hak tanımış; ya temlik eden tarafa olan davadan sarfınazar ederek dava konusunu temellük eden kimseye karşı yöneltmek veya davasını dava konusunu başkasına temlik eden taraf hakkında zarar ve ziyan davasına çevirmek seçeneklerinden birini kullanabilmesini kabul etmiştir.
 Dava dosyası kapsamındaki tapu kayıtları, bilgi ve belgeler değerlendirildiğinde ise; sadece az yukarıda belirtilen (7) ve (11) numaralı bağımsız bölümlerin davacı tarafından ... ve ...’ya temlik olunduğu; davacı ile davalı arasındaki arsa payı karşılığı inşaat sözleşmesinin devrine ilişkin bir sözleşme bulunmadığı gibi, sözü edilen dairelerin kayden temlikinden başka alacağın temliki sözleşmesi de bulunmamaktadır.
 
@@ -73,6 +83,8 @@ Borçlar Kanunu’nun 126/IV. maddesi gereğince, yüklenicinin bile bile veya a
 SONUÇ:Yukarıda açıklanan sebeplerle ... ve ... vekilinin temyiz itirazlarının kabulüne ve kararın BOZULMASINA …
 
 ## Yargıtay 15. HD 2009/856 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/853631800)
 
 Davalı yükleniciler, davacıların kendilerine ait bağımsız bölümleri teslim aldıkları savunmasında bulunmuşlardır. Dosyada bulunan davacı ... ile davalı ...’nin imzalarını taşıyan 27.12.2004 tarihli belgeden davacı ...’ın kendisine ait meskenin anahtarını teslim aldığı anlaşılmaktadır. Diğer davacı ... yönünden teslim belgesi ise bulunmamaktadır. Davalılar, davacı ...’un kendisine ait daireyi 30.05.2003 tarihinde teslim alıp taşındığını, daha sonrada elektrik abonesi yaptırdığını beyan etmişlerdir. Dosyadaki FATSA Tedaş İşletme Müdürlüğü’ne ait belgeden ...’un 28.07.2003 tarihinde elektrik abonesi olduğu anlaşılmaktadır. Bu belge de davalı yüklenicilerin teslim savunmalarını doğrular niteliktedir. Her iki davacıya bağımsız bölümleri teslim edilmekle birlikte, davacıların bağımsız bölümleri tam ve eksiksiz olarak teslim aldıkları konusunda beyanları bulunmamaktadır. Dolayısıyla davacıların eksik ve kusurlu işlerin giderilme bedellerini isteme hakları bulunduğu sonucuna varılmaktadır.
 Açık ayıplı işlerin giderilme bedellerinin BK’nın 359. maddesine göre teslimden itibaren makul sürede yapılacak kontrol sonucunda ayıp ihbarı yapılması kaydıyla zamanaşımı süresi içinde istenmesi mümkündür. Gizli ayıplı işlerin giderilme bedelleri için BK’nın 362. maddesi uyarınca ayıbın öğrenildiği tarihte hemen ayıp ihbarında bulunulması kaydıyla, zamanaşımı süresince istekte bulunulabilir. Eksik işlerin giderilme bedelleri yönünden ise ihbarda bulunulmasına gerek olmaksızın zamanaşımı süresi içinde istemde bulunulması mümkündür.
@@ -85,6 +97,8 @@ SONUÇ:Yukarıda (1.) bendde açıklanan nedenlerle davacıların sair temyiz it
 
 ## Yargıtay 15. HD 2006/3557 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/859567200)
+
 Davacı arsa sahibi ... ile davalı yüklenici ... arasında Bakırköy 16.Noterliği’nin 16.10.1991 tarih 54539 yevmiye numaralı düzenleme şeklinde satış vaadi ve kat karşılığı inşaat sözleşmesi yapılmıştır. Bu sözleşmenin 3.maddesinde inşaatın sözleşme tarihinden itibaren 18 ay içerisinde bitirilip anahtar teslimi olarak arsa sahibine teslimi kararlaştırılmıştır. Dosyada davalı olarak gösterilen diğer kişiler davalı yüklenici ...’ndan pay satın alanlardır. Kat karşılığı inşaat sözleşmelerinden ... ilişkilerde zamanaşımının başlayabilmesi için aradaki ilişkinin feshin kesinleşmesi ile sonuçlanmış olması veya inşaatın tamamlanarak sözleşme şartlarına göre teslim edilmiş olması gerekir. Somut olayda inşaat davalı yüklenici ... tarafından tamamlanıp davacı arsa sahibine teslim edilmemiştir. Ayrıca bu davadaki isteğe kadar da kat karşılığı inşaat sözleşmesi feshedilmemiştir. Bu durumda sözleşme ayakta olduğundan zamanaşımının başlaması mümkün değildir. Bu kural davalı yükleniciden pay satın alan diğer davalılar yönünden de geçerlidir. Mahkemece bu durum gözden kaçırılarak davanın zamanaşımı nedeniyle reddine karar verilmesi doğru olmamıştır.
 Mahkemece yapılacak iş, zamanaşımı def’inin reddi ile deliller toplanmak davanın esası incelenmek, sonucuna göre karar oluşturmaktan ibarettir.
 
@@ -93,6 +107,8 @@ Mahkemece yapılacak iş, zamanaşımı def’inin reddi ile deliller toplanmak 
 SONUÇ:Yukarıda açıklanan nedenlerle kararın davacı yararına BOZULMASINA …
 
 ## İstanbul BAM 15. HD 2026/289 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1201081200)
 
 Maddesi gereğince, yüklenicinin haksız veya ağır kusuru ile akdi hiç veya gereği gibi yerine getirmemiş ve bilhassa ayıplı malzeme kullanmış veya ayıplı bir iş meydana getirmiş olması sebebiyle açılacak davalar hariç olmak üzere açılacak davalarda zamanaşımı süresi beş yıldır. Kasıt veya ağır kusur ile ayıplı imalât halinde ise zamanışımı süresi BK'nın 125. maddesindeki genel hüküm uyarınca 10 yıl olacaktır. Sözleşme tarihinden sonra 01/07/2012 tarihinde yürürlüğe giren 6098 sayılı TBK'nın 147/6. Maddesi gereğince de, yüklenicinin yükümlülüklerini ağır kusuruyla hiç ya da gereği gibi ifa etmemesi dışında, eser sözleşmesinden doğan alacaklar için zamanaşımı süresi 5 yıldır.TBK'nın 478/1 maddesine göre, yüklenici ayıplı bir eser meydana getirmişse, bu sebeple açılacak davalar, teslim tarihinden başlayarak, taşınmaz yapılar dışındaki eserlerde iki yılın; taşınmaz yapılarda ise beş yılın ve yüklenicinin ağır kusuru varsa, ayıplı eserin niteliğine bakılmaksızın yirmi yılın geçmesiyle zamanaşımına uğrar.6100 sy. Türk Borçlar Kanunu'nun Yürürlüğü ve Uygulama Şekli Hakkında Kanun'un 1. ve 5.
 Maddeleri dikkate alındığında, 01/07/2012 öncesi tarihli sözleşmeler için başlamış olan zamanaşımı süreleri BK hükümlerine tabi olmaya devam edecektir. Ancak, TBK'da daha kısa süre bulunan hallerde 01/07/2012 tarihinden itibaren TBK'daki daha kısa olan süre geçmiş ise zamanaşımı dolmuş olacaktır.818 Sayılı BK'nın 128, 6098 Sayılı TBK'nın 149. maddesi hükümleri gereğince zamanaşımı alacağın muaccel olması ile işlemeye başlayacaktır.Ancak, taraf iradelerinin tasfiyede birleşmesi durumunda zamanaşımı bu tarihten itibaren başlayacaktır. Sözleşmenin feshi halinde ise fesih iradesinin karşı tarafa ulaştığı tarihten itibaren zamanaşımı süresi işlemektedir.Eser sözleşmesinin bir türü olan kat karşılığı inşaat sözleşmelerinde alacağın muaccel olduğu tarih, binanın yapılıp arsa sahibine düşen bağımsız bölümlerin sözleşme hükümlerine ve mevzuata uygun biçimde teslim edildiği tarihtir.
@@ -105,6 +121,8 @@ Buna göre, kat karşılığı inşaat sözleşmelerinde zamanaşımı süresi k
 İSTANBUL 14. ASLİYE TİCARET MAHKEMESİ'nin 14/05/2025 tarih, 2025/87 Esas, 2025/404 Karar sayılı kararının KALDIRILMASINA …
 
 ## Antalya BAM 7. HD 2024/575 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1033440200)
 
 Davalı şirket cevap dilekçesi sunmamış olup, duruşmalara katılan tasfiye memuru ..., inşaat işleriyle ilgilenen ortağın ... olduğunu, yapılan inşaatla ilgili bilgi sahibi olmadığını, arsa sahibinin satılan bağımsız bölümlerde tapu vermeyle ilgili problem yarattığını bildiğini beyan etmiştir.
 
@@ -124,6 +142,8 @@ Yerel mahkeme kararının esası incelenmeksizin ORTADAN KALDIRILMASINA ve davan
 
 ## İstanbul BAM 14. HD 2023/2132 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/988220400)
+
 Nitekim 6762 sayılı TTK’nın 338. maddesinde, yönetim kurulu üyelerinin kusur ve sorumluluklarının bulunmadığını ispat etmedikleri takdirde zarardan sorumlu oldukları düzenlenmiştir. Dolayısıyla yönetim kurulu üyelerinin sorumlulukları anılan yasa maddelerine göre belirlenmelidir.Bu ilke ve açıklamalar ışığında somut olaya bakıldığında: davalıların davacı bankanın yöneticileri oldukları dönemde gerçekleştirilen sözleşme, ek protokoller ile yapılan projeler kapsamında gerçekleştirilen soruşturma ve düzenlenen raporlar neticesinde zarara uğradığı iddiası ile iş bu dava açılmıştır. Dosya üzerinde birden fazla bilirkişi heyetince alınan raporlarda davacı bankanın muhasebe kayıtlarına göre dava konusu edilen ... Projesinden bankanın kâr elde etmiş olduğu anlaşılmıştır. Davacı banka tarafından teras alanlarının bedelinin tespit olunacak birim fiyatla ödenmesi yerine götürü bedel hesabına dâhil edilerek ödenmesinden dolayı zararın gerçekleştiği iddia edilmiş ise de söz konusu yapılan işlemlerde zararın meydana geldiği davacı tarafça ispat edilememiştir.
 Bilirkişi heyet raporlarında ayrıntılı şekilde yer verildiği üzere soruşturma raporlarındaki teknik açıklamalarda yer verilen hususların davaların sorumluluğunu ve herhangi bir zararı ispatlar nitelikte olmadığı anlaşılmaktadır. Diğer taraftan, teras katların ek protokol ile inşaat alanına katılmasınında herhangi bir zarara neden olmadığı, bankanın projenin tamamından dolayı kâr elde etmiş olduğu tespit edilmiştir. Banka tarafından inşaat üretimine ilişkin olarak gerçekleştirilen faaliyet aşamasında dava dışı yüklenici firmanın düzenlemiş olduğu hakedişlere dair ödemelerin gerçekleştirilmesi aşamasından önce, teknik elemanlarca yapılan işlemlerin sahada tespit edilerek denetlenmesi gerektiği de aşikardır. Davacı banka tarafından fazla ve haksız ödeme yapıldığı iddia edilen dava dışı yüklenici firmaya karşı istirdat davası açılmamıştır. Ayıp ve eksik işler nedeniyle dava açılmıştır. Söz konusu davada firmaya fazladan yapıldığı iddia edilen ödemeye dair bir tespite rastlanılmadığı gibi akside iddia edilmemektedir.
 
@@ -136,6 +156,8 @@ Hüküm tarihinde yürürlükte bulunan AAÜT'nin genel hükümlerinde yer alan 
 HÜKÜM: Yukarıda açıklanan gerekçelerle; 1-HMK'nın 353/1.b.1. maddesi uyarınca, davacı vekilinin ve davalılar ... ile ... vekilinin istinaf başvurularının ayrı ayrı esastan reddine …
 
 ## Antalya BAM 7. HD 2023/930 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/940415500)
 
 Davacı/ birleşen dosya davalı vekili, asıl davada, eksik inceleme neticesinde cezai şart taleplerinin reddine karar verilmesinin hatalı olduğu, davacının zararının talep edilen cezai şarttan fazla olduğu, asıl davada, eksik ve ayıplı imalat bedelleri ile değer kaybından kaynaklanan taleplerinin zamanaşımı nedeniyle reddine karar verilmesinin hatalı olduğu, somut olaya uygulanması gereken 10 yıllık zamanaşımı süresinin dolmadığı, sözleşmenin ifa ve fesih edilmemiş olması, açılan davanın belirsiz alacak davası olması nedeniyle zamanaşımı süresinin işlemeye başlamadığı ve sürenin işletilemeyeceği, birleşen davada, davacı yüklenici tapu hak etmediği için tapunun bedelini de talep edemeyeceğinden ... blok ... nolu bağımsız bölüm yönünden açılan davanın reddi yerine ayırma kararı verilmesinin hatalı olduğu, yargılama giderlerinin kabul/ ret oranına göre paylaştırılmasının doğru olmadığı, yapılan masrafların taraflarına ödenmesi gerektiği, birleşen davada reddedilen talepler için lehlerine ayrı ayrı vekalet ücretine hükmedilmesi gerekirken, toptan tek vekalet ücretine hükmedilmesinin hukuka aykırı olduğu, yüklenicinin sözleşmede belirlenen ücrete hak kazanmaması nedeniyle hapis hakkı
 kullandıkları paylar yönünden ücret indirimi veya takas / mahsup yapılmasını talep ettikleri gibi nedenlerle kararı istinaf etmiştir.

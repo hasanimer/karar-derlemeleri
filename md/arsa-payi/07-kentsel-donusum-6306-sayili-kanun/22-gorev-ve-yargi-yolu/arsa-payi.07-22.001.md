@@ -118,6 +118,8 @@ Davalı idare tarafından tahsil edilen ...-TL elektrik harcı ile ...-TL asans�
 
 ## Danıştay İDDK 2023/3171 E., 2025/746 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1171250600)
+
 İlk Derece Mahkemesi kararının özeti: ... İdare Mahkemesinin ... tarih ve E:..., K:... sayılı kararıyla; çoğunluk hissesi sahibi paydaşın yüklenici firmayla imzalamış olduğu kat karşılığı inşaat sözleşmesinin ihtarname ekinde davacılara gönderildiği, bununla birlikte süreç içerisinde davacıların sözleşmeyi imzalayarak idareye ibraz etmelerinin istenildiği ancak davacıların bu sözleşmeyi imzalayarak idareye ibraz etmedikleri görüldüğünden, 6306 Sayılı Kanunun Uygulama Yönetmeliği'nin 15/A maddesi kapsamında tesis edilen dava konusu işlemde hukuka aykırılık bulunmadığı gerekçesiyle davanın reddine karar verilmiştir.
 
 …
@@ -151,6 +153,8 @@ Açıklanan nedenlerle, temyize konu ısrar kararının bozulmasına karar veril
 
 ## Danıştay İDDK 2024/1812 E., 2024/2330 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1123362900)
+
 2577 sayılı İdari Yargılama Usulü Kanunu'nun 7. maddesinin 1. fıkrasında, dava açma süresinin, özel kanunlarında ayrı süre gösterilmeyen hallerde Danıştayda ve idare mahkemelerinde altmış gün olduğu; 2. fıkrasında, bu sürenin, idari uyuşmazlıklarda yazılı bildirimin yapıldığı tarihi izleyen günden itibaren başlayacağı; 4. fıkrasında, ilanı gereken düzenleyici işlemlerde dava açma süresinin, ilan tarihini izleyen günden itibaren başlayacağı; 8. maddesinin 1. fıkrasında ise; sürelerin, tebliğ, yayın veya ilan tarihini izleyen günden itibaren işlemeye başlayacağı kuralları getirilmiştir.
 
 Aynı Kanun'un 20/A maddesinin 1. fıkrasının (f) bendinde, 6306 sayılı Kanun uyarınca alınan cumhurbaşkanı kararlarından doğan uyuşmazlıklar hakkında ivedi yargılama usulünün uygulanacağı; 2. fıkrasının (a) bendinde ise, ivedi yargılama usulünde dava açma süresinin otuz gün olduğu kurala bağlanmıştır.
@@ -161,11 +165,15 @@ Dava konusu işlemin yukarıda özetlenen gerekçeyle iptaline ilişkin Danışt
 
 ## Danıştay İDDK 2024/2092 E., 2024/1847 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1153692100)
+
 2577 sayılı İdari Yargılama Usulü Kanunu'nun 8. maddesinde, sürelerin; tebliğ, yayın veya ilan tarihini izleyen günden itibaren işlemeye başlayacağı, tatil günlerinin sürelere dahil olduğu, sürenin son gününün tatil gününe rastlaması halinde, sürenin tatil gününü izleyen çalışma gününün bitimine kadar uzayacağı; 46. maddesinde, Danıştay dava dairelerinin nihaî kararları ile bölge idare mahkemelerinin maddede sayılan davalar hakkında verdikleri kararların, başka kanunlarda aksine hüküm bulunsa dâhi Danıştay'da, kararın tebliğinden itibaren otuz gün içinde temyiz edilebileceği; 48. maddesinin altıncı fıkrasında, temyizin kanuni süre geçtikten sonra yapılması hâlinde kararı veren merciin, temyiz isteminin reddine karar vereceği; yedinci fıkrasında, temyizin kanuni süre geçtikten sonra yapıldığının dosyanın gönderildiği Danıştay'ın ilgili dairesi ve kurulunca saptanması hâlinde de altıncı fıkrada sözü edilen kararın daire ve kurulca verileceği; 60. maddesinde, Danıştay ile bölge idare, idare ve vergi mahkemelerine ait her türlü tebliğ işlerinin Tebligat Kanunu hükümlerine göre yapılacağı kurala bağlanmıştır.
 
 2577 sayılı Kanun'un ''İvedi yargılama usulü'' başlıklı 20/A maddesinin birinci fıkrasında, ivedi yargılama usulüne tâbi uyuşmazlıklar sayılmış; (f) bendinde, 16/5/2012 tarih ve 6306 sayılı Afet Riski Altındaki Alanların Dönüştürülmesi Hakkında Kanun uyarınca alınan Cumhurbaşkanı kararlarından doğan uyuşmazlıklarda ivedi yargılama usulünün uygulanacağı belirtilmiş, maddenin ikinci fıkrasının (g) bendinde de, verilen nihaî kararlara karşı tebliğ tarihinden itibaren on beş gün içinde temyiz yoluna başvurulabileceği kurala bağlanmıştır.
 
 ## Danıştay İDDK 2024/437 E., 2024/1199 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1138695000)
 
 Davalı yanında müdahil tarafından, müdahale ve beyan dilekçelerindeki iddia ve savunmalar tekrar edilerek dava konusu işlemde hukuka aykırılık, bu işlemin iptali yolundaki Daire kararında ise hukuki isabet bulunmadığı ileri sürülmektedir.
 
@@ -179,6 +187,8 @@ Açıklanan nedenlerle, dava konusu işlemin iptali yolundaki Daire kararının 
 
 ## Danıştay İDDK 2023/1865 E., 2024/385 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1108899500)
+
 Uyuşmazlıkta; davacı tarafından, yapı kayıt belgelerinin iptali istemiyle dava dışı üçüncü kişiler tarafından açılan davalarda, idari yargı mercilerince verilen iptal veya yürütmenin durdurulması kararlarının kesinleşmediği; bu bağlamda, yapı kayıt belgelerinin sistemden tamamen silinmesine neden olacak biçimde iptal edilmesine yönelik tesis edilen Muğla Valiliği Çevre ve Şehircilik İl Müdürlüğünün ... tarih ve E... sayılı işlemi ile anılan işlemin dayanağı niteliğindeki... tarih ve E... sayılı Çevre ve Şehircilik Bakanlığı Altyapı ve Kentsel Dönüşüm Hizmetleri Genel Müdürlüğü işleminde hukuka uyarlık bulunmadığı ileri sürülmekte ise de; dava konusu Bakanlık işleminde, yapı kayıt belgelerinin iptali istemiyle açılan davalarda, dava konusu işlemin (yapı kayıt belgesinin) "yürütülmesinin durdurulması" veya "iptali" yönünde karar verilmesi durumunda, söz konusu kararlara karşı itiraz/temyiz haklarının kullanılması ile birlikte yargı kararı uyarınca işlem yapılması adına "davaya konu edilen yapı kayıt belgesinin" sistem üzerinden iptal edilmesi gerektiğinin belirtildiği, bu bağlamda, yürütmenin durdurulması kararına karşı yapılan itirazın kabul edilerek yürütmenin durdurulması
 isteminin reddine karar verilmesi ya da istinaf/temyiz aşamalarında dava konusu işlemin iptali yolunda verilen idari yargı kararının bozulması gibi durumlarda, değişen duruma göre, yapı kayıt belgesinin tekrar aktif hale getirilmesine yönelik bir işlem tesis edilmesinin önünde bir engel bulunmadığı; ayrıca, idari yargı kararı uyarınca yapı kayıt belgesinin sistem üzerinden iptal edilebilmesi için, bu konuda (yürütmenin durdurulması veya dava konusu işlemin iptali yolunda) verilen idari yargı kararının kesinleşmesine gerek olmadığı, aksine idari yargı kararlarının icaplarının yerine getirilmesi için gecikmeksizin işlem tesis etmek zorunda olan idarenin, yargı kararın icaplarını, söz konusu kararın tebliğinden itibaren otuz günü aşmayacak bir zaman diliminde yerine getirmekle yükümlü kılındığı; dolayısıyla 3194 sayılı İmar Kanunu'nun geçici 16. maddesi kapsamında alınan yapı kayıt belgelerinin iptali istemiyle açılan davalarda, dava konusu işlemin (yapı kayıt belgesinin) "yürütülmesinin durdurulması" veya "iptali" yönünde karar verilmesi durumunda; söz konusu kararlara karşı itiraz/temyiz haklarının kullanılması ile birlikte yargı kararı uyarınca işlem yapılması adına "davaya konu
 edilen yapı kayıt belgesinin" sistem üzerinden iptal edilmesi gerektiğini, 81 İl Valiliğine duyuran Çevre ve Şehircilik Bakanlığı Altyapı ve Kentsel Dönüşüm Hizmetleri Genel Müdürlüğünün ... tarih ve E... sayılı işleminde hukuka aykırılık bulunmadığı, anılan işlemin Anayasa'nın 138/4. maddesi ile 2577 sayılı Kanun'un 28/1. maddesinde yer alan ve yargı kararlarının yerine getirilmesi zorunluluğunu içeren kurallara uygun biçimde tesis edildiği,
@@ -191,9 +201,13 @@ Davanın yukarıda özetlenen gerekçeyle reddine ilişkin Danıştay Altıncı 
 
 ## Danıştay İDDK 2023/47 E., 2024/8 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1114432800)
+
 İdari yargı yetkisi, idari eylem ve işlemlerin hukuka uygunluğunun denetimi ile sınırlıdır. İdari mahkemeler; yerindelik denetimi yapamazlar, yürütme görevinin kanunlarda ve Cumhurbaşkanlığı Kararnamelerinde gösterilen şekil ve esaslara uygun olarak yerine getirilmesini kısıtlayacak, idari eylem ve işlem niteliğinde veya idarenin takdir yetkisini kaldıracak biçimde yargı kararı veremezler.
 
 ## Danıştay İDDK 2021/2198 E., 2023/3137 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1052434100)
 
 Davalı idarenin savunmasında da belirtildiği üzere, "9.1.1. Kentsel yerleşim bölgesi" başlığı altında yer alan "9.1.1.1....9.1.1.7" sayılı plan notlarında, davacının itiraz ettiği hususların düzenlendiği, ayrıca 5.22 sayılı maddede kentsel yerleşim alanlarında, konut dışında sosyal ve teknik altyapı alanlarının da bulunacağının düzenlendiği ve mekansal dağılımların alt ölçekte belirleneceği görüldüğünden, davacının bu hususa ilişkin itirazlarının yerinde görülmediği, …
 
@@ -207,6 +221,8 @@ Her ne kadar temyize konu kararda, 9.7 sayılı plan uygulama hükmünün üçü
 
 ## Danıştay İDDK 2023/1562 E., 2023/2562 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1086902600)
+
 Davalı idarelerden Pendik Belediye Başkanlığı tarafından, dava dilekçesinin 2577 sayılı İdari Yargılama Usulü Kanunu'nun 3. maddesine uygun şekilde düzenlenmediği, davanın yasal süresi içerisinde açılmadığı, bu nedenlerle işin esasına girilmeksizin davanın usul yönünden reddine karar verilmesi gerektiği, davaya konu edilen parseli de kapsayan, Dumlupınar ve Orta Mahalleri sınırları içerisinde bulunan alanların Bakanlar Kurulunun 13/02/2017 tarih ve 2017/9921 sayılı kararı ile riskli alan olarak ilan edildiği, dolayısıyla dava konusu kararın aslında kadük olduğu ve davanın konusuz kaldığı, uyuşmazlık konusu parselin yürürlükteki 1/1000 ölçekli uygulama imar planında "konut alanı" olarak planlı olduğu, hal böyle iken Dairece eksik inceleme neticesinde verilen temyize konu kararın açıkça hukuka aykırı olduğu ileri sürülmektedir.
 
 …
@@ -214,6 +230,8 @@ Davalı idarelerden Pendik Belediye Başkanlığı tarafından, dava dilekçesin
 Açıklanan nedenlerle davalı idarelerin temyiz istemlerinin kabulü ile temyize konu kararın bozulması ve davanın reddine karar verilmesi gerektiği oyuyla karara katılmıyorum.
 
 ## Danıştay İDDK 2023/891 E., 2023/1623 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1031362400)
 
 DANIŞTAY TETKİK HÂKİMİ …
 

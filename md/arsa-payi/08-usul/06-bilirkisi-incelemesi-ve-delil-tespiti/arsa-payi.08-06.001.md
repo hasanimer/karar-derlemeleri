@@ -41,6 +41,8 @@ Davalılar vekilinin temyiz itirazlarının kabulü ile direnme kararının yuka
 
 ## Yargıtay HGK 2023/1072 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/976335200)
+
 Davacılar vekili dava dilekçesinde; müvekkilleri ile davalı şirket arasında arsa payı karşılığı inşaat sözleşmesi ve ek sözleşmenin düzenlendiğini, ancak binanın süresinde teslim edilmemesi nedeniyle 07.12.2010 tarihinde sözleşmelerin geriye etkili şekilde feshi hususunda tarafların anlaştığını ve fesih tarihine kadar yüklenicinin hak etmediği ancak üçüncü kişilere sattığı bağımsız bölümlerin müvekkili arsa sahiplerine devri kararlaştırıldığı hâlde davalı yüklenicinin anılan bağımsız bölümleri iade etmediğini ve diğer davalı ...’a muvazaalı şekilde sattığını ileri sürerek 8 ve 12 No.lu bağımsız bölümlerin tapu kaydının iptali ile müvekkilleri adına tesciline, tescilin mümkün olmaması hâlinde bedelinin davalılardan müştereken ve müteselsilen tahsiline karar verilmesini talep etmiştir.
 
 …
@@ -58,6 +60,8 @@ Bu durumda mahkemece, mahallinde yeniden keşif yapılarak Ankara 4. Asliye Huku
 Davalı ... vekilinin temyiz itirazlarının kabulü ile direnme kararının Özel Daire bozma kararında gösterilen nedenlerden dolayı 6217 sayılı Kanun’un 30 uncu maddesi ile 6100 sayılı Hukuk Muhakemeleri Kanunu’na eklenen “Geçici Madde 3” atfıyla uygulanmakta olan 1086 sayılı Hukuk Usulü Muhakemeleri Kanunu'nun 429 uncu maddesi gereğince BOZULMASINA …
 
 ## Yargıtay HGK 2016/168 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/232544200)
 
 Davalılar vekili, müvekkili şirketin davacıya ait olacak daireleri sözleşmede verilen süre içerisinde teslime hazır hale getirdiğini, müvekkilinin üzerine düşen edimlerini yerine getirmesine ve hak kazanmasına rağmen arsa sahibinin 38 no'lu dükkan ile 11, 12, 19, 26, 28 ve 30 no'lu dairelerin satış yetkisini vermediğini, bunun için çekilen ihtardan sonuç alınamadığını, davacı arsa sahibinin kusurlu olduğunu savunarak, davanın reddini istemiştir.
 
@@ -81,6 +85,8 @@ SONUÇ: Davacı vekilinin temyiz itirazlarının kabulü ile, direnme kararını
 
 ## Yargıtay HGK 2009/230 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/76779900)
+
 Davalı, davanın reddini savunmuştur.
 
 Mahkemece, davanın reddine karar verilmiş; hüküm her iki tarafça temyiz edilmiştir.
@@ -103,6 +109,8 @@ Hal böyle olunca; Yerel Mahkemece, tarafların taşınmazları üzerindeki bina
 SONUÇ: Davacı vekilinin temyiz itirazlarının kabulü ile, direnme kararının yukarıda ve Özel Daire bozma kararında gösterilen nedenlerden dolayı H.U.M.K.nun 429. maddesi gereğince BOZULMASINA …
 
 ## Yargıtay 1. HD 2026/1900 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1209235700)
 
 Hâl böyle olunca; öncelikle taraflara dava konusu taşınmazın bulunduğu bölgede varsa emsal kat karşılığı inşaat sözleşmelerini sunmaları için süre verilmesi, içerisinde gayrimenkul değerleme uzmanının da bulunacağı konusunda uzman 3 kişilik bilirkişi heyeti ile mahallinde keşif yapılarak taşınmazın konumu, imar durumu, yüz ölçümü, şehir merkezine, yapılaşma alanlarına olan uzaklığı, tevhit öncesi davacı ve davalı ...’nin taşınmazlarının durumu, önceki bilirkişi raporu ile davacının itirazları göz önüne alınarak ve somut emsaller de değerlendirilerek bilirkişilerden rapor alınması, ondan sonra iddia ve savunma kapsamında varılacak sonuç çerçevesinde bir karar verilmesi gerekirken, yetersiz bilirkişi raporu ile yetinilerek yazılı şekilde karar verilmesi isabetsizdir.
 
@@ -140,6 +148,8 @@ Bu durumda, mahkemece gerekirse mahallinde yeniden keşif ve bilirkişi inceleme
 
 ## Yargıtay 5. HD 2025/13064 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1191046300)
+
 Davacı vekili dava dilekçesinde özetle; 07.10.2016 tarihli kat malikleri kurulu kararının iptaline karar verilmesini talep etmiştir.
 
 …
@@ -169,6 +179,8 @@ Diğer yandan, asıl ve birleşen davalarda davacı arsa sahipleri lehine hükme
 
 ## Yargıtay 6. HD 2025/2359 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1186934100)
+
 İlk Derece Mahkemesi kararı davalılar ..., ... İnş.
 
 …
@@ -190,6 +202,8 @@ Mahkeme kararının BOZULMASINA …
 
 ## Yargıtay 6. HD 2025/2183 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1160269800)
+
 Davacı vekili dava dilekçesinde; davalı yüklenici ... San. ve Tic. Ltd.
 
 …
@@ -205,6 +219,8 @@ Bu durumda mahkemece yapılacak iş; yeniden oluşturulacak konusunda uzman bili
 Davacı vekilinin karar düzeltme talebinin KABULÜ ile Dairemizin 20.11.2024 tarih ve 2024/23 Esas, 2024/4220 Karar sayılı onama ilamı KALDIRILARAK yerel mahkeme kararının davacı yararına BOZULMASINA …
 
 ## Yargıtay 6. HD 2025/2121 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1157874500)
 
 Davacılar vekili dava dilekçesinde; taraflar arasında düzenlenen 30.04.2002 tarihli asıl ve 29.09.2005 tarihli ek arsa payı karşılığı inşaat sözleşmesi uyarınca müvekkiline ait 8 bağımsız bölümün en son 28.02.2008 tarihinde teslimi gerekirken teslim edilmediğini ileri sürerek, BK'nın 97. maddesine göre nama ifaya izin ve satış yetkisi verilmesini talep etmiştir. Davacı ... vekili ve davacı asil ... 20.02.2023 tarihli tam ıslah dilekçesi ile sözleşmenin geriye etkili feshini talep ve dava etmiştir.
 
@@ -230,6 +246,8 @@ Yukarıda 2. bentte açıklanan nedenlerle davacı ... vekili ve davacı ...’�
 
 ## Yargıtay 6. HD 2025/1984 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1160039700)
+
 Davacılar vekili dava dilekçesinde; davalı yüklenici şirket ile arsa payı karşılığı inşaat sözleşmesi imzalandığını, sözleşmenin taraflarından ...'in vefat ettiğini ve sözleşmenin mirasçıları olan ..., ... ile ... nezdinde devam ettiğini, davalının sözleşme uyarınca 4 bloktan oluşan bir site inşa ettiğini, sözleşmeye göre ..., ... ile ...'ya 2 adet daire, ..., ... ile ...'e de 2 adet daire verileceğinin kararlaştırıldığını, sözleşmenin akdedildiği tarihte yürürlükte olan yatay ve dikey genişlik sınırının davalı yanca Isparta Belediyesi’ne sosyal donatı verilmek suretiyle artırıldığını, bunun sonucunda davalının daha fazla daire yaptığını, sözleşmede ilave kat yapılması durumunda hangi usul ve şekilde paylaşılacağının ve kime ait olacağının kararlaştırılmadığını, buna ilişkin açık bir hüküm bulunmadığını, davacıların da bu olumlu değişiklikten faydalanması gerektiğini ileri sürerek, imar planı değişikliği doğrultusunda davalının ilave kat inşa ettiği ve sözleşmeye aykırı olarak haksız kazanç temin ettiğinin tespitine, davalının inşa etmiş olduğu ilave katlara yönelik davacıların arsa paylarının ihlal edildiğinin tespiti ile doğmuş ve doğacak tüm zararlarının aynen iadesine, mümkün
 olmadığı takdirde arsa payları değerlerinin parasal karşılığının yasal faizi ile birlikte tahsiline karar verilmesini talep etmiştir.
 
@@ -249,6 +267,8 @@ Bu durumda, yeniden bilirkişi heyeti oluşturulmak sureti ile, davalı yükleni
 
 ## Yargıtay 6. HD 2025/1211 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1144237400)
+
 Arsa sahibinin eksik ve ayıplı ifaya ilişkin alacağının hesaplattırılması talebi üzerine Antalya 2. Asliye Hukuk Mahkemesi’nin 2007 -5 D. İş sayılı dosyasından alınan raporda eksik ve ayıplı imalat bedelleri belirlenmiş ancak D. İş dosyasının fiziken dosya arasına alınmadığı, raporun yükleniciye tebliğ edilmediği anlaşılmıştır. Mahkemece öncelikle tespit dosyası getirtilerek bilirkişi raporunda saptanan eksik ve kusurların mahalinde keşif yapılarak alınacak raporla taraf itirazları da dikkate alınmak suretiyle incelettirilip ortak alanlarda arsa sahibinin % 30 pay sahibi olduğu hususu da dikkate alınarak karar verilmesi gerekirken eksik inceleme ile karar verilmesi hatalı olmuştur.
 
 …
@@ -256,6 +276,8 @@ Arsa sahibinin eksik ve ayıplı ifaya ilişkin alacağının hesaplattırılmas
 Temyiz olunan İlk Derece Mahkemesi kararının BOZULMASINA …
 
 ## Yargıtay 6. HD 2024/5014 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1123534100)
 
 Mahkemece, arsa payı karşılığı inşaat sözleşmesinden kaynaklanan alacak istemine ilişkin verilen ilk kararda, davanın kısmen kabulüne karar verilmiştir.
 
@@ -267,6 +289,8 @@ Bunun yanında, az yukarıda belirtildiği üzere taraflar arasında arsa payı 
 SONUÇ: Yukarıda açıklanan nedenlerle, Ankara 16. Asliye Hukuk Mahkemesi kararına karşı davacı ve davalı ... dışındaki davalılar vekilinin tüm temyiz istemlerinin reddiyle usul ve kanuna uygun bulunan kararın ONANMASINA …
 
 ## Yargıtay 6. HD 2024/4915 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1112613600)
 
 Mahkemece, bozmaya uyularak yapılan yargılama sonucunda, inşaatın büyük ölçüde tamamlandığı, iskan ruhsatı alınabileceği, ancak teslimin dava tarihi itibariyle 11 ay geciktiği, bu nedenle arsa sahibinin kira tazminatı isteyebileceği ve ayrıca yine sözleşme uyarınca iki daire için kira bedeli (inşaat bitene kadar olan kira yardımı) isteyebileceği, bağımsız bölümlerde eksik iş kalmadığı, ortak alanlardaki eksik işler yönünden, davacı arsa sahibinin payına düşen tutarı talep edebileceği, karşı davada yüklenicinin ipotek fekki talebinin yerinde olduğu gerekçesiyle, asıl davada sözleşmenin feshi talebinin reddine, ortak alanlardaki eksik iş nedeniyle 26.441,43 TL, her bir bağımsız bölüm için kira tazminatı 92.400,00 TL ve iki daire için kira bedeli 9.600,00 TL olmak üzere toplam 128.441,43 TL'nin asıl davada davalı yüklenici şirketten tahsili ile davacıya ödenmesine, karşı davanın kısmen kabulü ile 3 bağımsız bölümdeki ipoteklerin fekkine karar verilmiştir.
 

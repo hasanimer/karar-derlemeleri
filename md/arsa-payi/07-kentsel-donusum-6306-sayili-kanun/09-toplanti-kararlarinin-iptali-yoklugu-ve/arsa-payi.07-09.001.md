@@ -27,17 +27,23 @@ Acele kamulaştırma kararının iptali istemli davanın reddine dair kararın g
 
 ## Danıştay 4. D. 2023/12690 E., 2025/4769 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1188926800)
+
 DAVANIN KONUSU : Hatay ili, Antakya ilçesinde bulunan ve ekli kroki ile listede sınır ve koordinatları gösterilen alanların 6306 sayılı Afet Riski Altındaki Alanların Dönüştürülmesi Hakkında Kanunun 2. maddesi uyarınca riskli alan ilan edilmesine ilişkin 05/04/2023 tarihli, 32154 sayılı Resmi Gazete'de yayımlanan 04/04/2023 tarihli ve 7033 sayılı Cumhurbaşkanı kararının iptali istenilmektedir.
 
 DAVACILARIN İDDİALARI : Hatay İli, Antakya İlçesi'nin tamamının deprem bölgesi olması rağmen sadece ilçe merkezinde yaklaşık 307 hektar yüz ölçümünde çok geniş bir alanı kapsayan bölgenin 6306 sayılı Kanunun 2.maddesi uyarınca riskli alan ilan edildiği, bu kararın bilimsel araştırma yapılmaksızın ve jeolojik veri ortaya konulmaksızın alındığı, dava konusu işlemin dayandığı Yasa maddesinin sadece riskli alan tanımından ibaret olduğu, bu yönüyle de dava konusu işlemin sebep ve şekil yönlerinden hukuka aykırı olduğu, ayrıca riskli alan kapsamında kalan bölgenin tarihi ve kültürel altyapısının bulunduğu, uygulama işlemleri için Kültür ve Turizm Bakanlığının yetki alanından çıkarılıp TOKİ Başkanlığına yetki verilmesinin hukuka aykırı olduğu, kent hukuku ve imar hukuku bağlamında dava konusu kararın iptali gerektiği, mülkiyet hakkının, konut dokunulmazlığının açıkça ihlal edildiği belirtilerek davacıların maliki olduğu taşınmazları da kapsayan dava konusu riskli alana ilişkin Cumhurbaşkanı kararının iptal edilmesi gerektiği ileri sürülmektedir.
 
 ## Danıştay 4. D. 2023/11251 E., 2025/4669 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1189318200)
+
 DAVANIN KONUSU : Hatay ili, Antakya ilçesinde bulunan ve ekli kroki ile listede sınır ve koordinatları gösterilen alanların 6306 sayılı Afet Riski Altındaki Alanların Dönüştürülmesi Hakkında Kanunun 2. maddesi uyarınca riskli alan ilan edilmesine ilişkin 05/04/2023 tarihli, 32154 sayılı Resmi Gazete'de yayımlanan 04/04/2023 tarihli ve 7033 sayılı Cumhurbaşkanı kararının iptali istenilmektedir.
 
 DAVACILARIN İDDİALARI : 06/02/2023 tarihli Kahramanmaraş İli, Pazarcık İlçesi ve 20/02/2023 tarihli Hatay İli, Defne İlçesi merkezli olup birçok il ve ilçede hissedilen deprem afeti nedeniyle maddi ve menevi birçok zararın oluştuğu, idarenin yeterli düzeyde koruyucu ve önleyici tedbirleri almadığı, depremden sonra ise Antakya ilçe merkezinde yaklaşık 307 hektar yüz ölçümünde çok geniş bir alanı kapsayan bölgenin 6306 sayılı Kanunun 2.maddesi uyarınca riskli alan ilan edildiği, bu kararın bilimsel araştırma yapılmaksızın ve jeolojik veri ortaya konulmaksızın alındığı, dava konusu işlemin dayandığı Yasa maddesinin sadece riskli alan tanımından ibaret olduğu, riskli alan kapsamında kalan bölgenin tarihi ve kültürel altyapısının bulunduğu, kent hukuku ve imar hukuku bağlamında dava konusu kararın iptali gerektiği, mülkiyet hakkının, konut dokunulmazlığının açıkça ihlal edildiği belirtilerek maliki oldukları Antakya İlçesi, 1.Mıntıka Mahallesi, 1989 ada,7 parsel sayılı, taşınmazda bulunan bağımsız bölümleri de kapsayan dava konusu riskli alana ilişkin Cumhurbaşkanı kararının iptali istenilmiştir.
 
 ## Danıştay 6. D. 2025/2649 E., 2025/3105 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1190994900)
 
 DAVALI...BAKANLIĞININ SAVUNMASI : Davalı tarafından, 6306 sayılı Kanunun hiç bir halinde otopark ücretleri için muafiyet hükmü bulunmadığı, uygulama kolaylığı için Yönetmelikte 2013 yılında yapılan değişiklikle otoparklar için muafiyet hükmü getirildiği, ancak 2019 yılında yapılan davaya konu değişiklikle Yönetmelikteki muafiyetin de kaldırıldığı, dönüşüm sürecinin dinamik bir süreç olması nedeniyle, gerek ihtiyaca cevap verilmesi gerekse sürecin daha iyi yönetilmesi amacıyla muafiyet hükmünün kaldırıldığı, anılan muafiyet hükmü dolayısıyla otopark ihtiyacının parselde karşılanmasından imtina edildiği gibi ödeme de yapılmadığı, bu kapsamda otopark ihtiyacını karşılamaya yönelik olarak muafiyet hükmünün kaldırıldığı savunulmaktadır.
 
@@ -50,6 +56,8 @@ Karar veren Danıştay Altıncı Dairesince, Danıştay Altıncı Dairesinin 11/
 1\. 21/06/2019 tarih ve 30808 sayılı Resmi Gazetede yayımlanan (6306 sayılı Kanun Uygulama Yönetmeliğinin 16. maddesinin 12. fıkrasında değişiklik yapılmasına ilişkin) 6306 sayılı Kanun Uygulama Yönetmeliğinde Değişiklik Yapılmasına Dair Yönetmeliğin davaya konu 12. maddesinin 9. fıkrasındaki düzenlemenin, "Kanunun 7. maddesinin (...) onuncu fıkralarında belirtilen şartlar dahilinde alınmaması gereken (...) ücretler" kapsamında otopark ücretinin istisnalar arasından kaldırılmasına yönelik kısmı ve anılan hüküm uyarınca tesis edilen ... tarih ve ... sayılı belediye encümeni kararı yönünden DAVANIN REDDİNE …
 
 ## Danıştay 4. D. 2025/1903 E., 2025/2147 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1161385800)
 
 Bu durumda; söz konusu riskli alan kararının iptali istemi ile açılmış ve yargılaması devam eden bir dava olduğu ve bahsi geçen davada, yargılama yürütmenin durdurulması isteminin incelenebilmesi için gerekli olan bilirkişi heyetinden rapor alınması aşamasında iken, davalı idare tarafından bu yargılama süreci beklenmeksizin, olası iptal kararının hukuki sonuçlarını etkisiz kılacak biçimde hareket edilmek suretiyle, davaya konu taşınmazın yıkılmış olması, davaya konu yıkım işleminin dayanağı olan, taşınmazın bulunduğu alanın riskli alan olarak belirlenmesine ilişkin 10.02.2017 tarih ve 29975 sayılı Resmi Gazete’de ilan edilen Bakanlar Kurulu’nun 2017/9867 sayılı kararının, önce Danıştay Ondördüncü Dairesinin 11.06.2018 tarihli kararı ile yürütmesinin durdurulması ve sonrasında aynı Dairenin 15.01.2019 tarih E:2017/826 K:2019/81 sayılı kararı ile iptal edilmiş olması ve sonrasında Danıştay İdari Dava Daireleri Kurulu'nun 03.10.2019 tarih E:2019/803 esas K:2019/4047 sayılı kararı ile iptal kararının kesinleşmiş olması nedeniyle, yıkım işleminin hukuki dayanaktan yoksun hâle gelmiş olması dikkate alındığında, davacının uğradığı zararların iptal kararının sonuçsuz kalmasına sebep olan
 Çevre ve Şehircilik Bakanlığının hizmet kusuru nedeniyle tazmini gerektiği sonucuna ulaşılmıştır.
@@ -68,6 +76,8 @@ Temyize konu ... Bölge İdare Mahkemesi ... İdare Dava Dairesinin ... tarih ve
 ... Bölge İdare Mahkemesi ... İdari Dava Dairesince verilen ... tarih ve E:..., K:... sayılı karar ve dayandığı gerekçe hukuk ve usule uygun olup bozulmasını gerektirecek bir sebep bulunmadığından, anılan kararın ONANMASINA …
 
 ## Danıştay 4. D. 2023/13780 E., 2024/1815 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1059625900)
 
 …
 
@@ -115,10 +125,14 @@ Temyize konu … Bölge İdare Mahkemesi ... İdare Dava Dairesinin … tarih ve
 
 ## Danıştay 6. D. 2022/5774 E., 2023/5715 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1004382600)
+
 Dosyanın incelenmesinden,17/10/2016 tarihli ve 2016/9434 sayılı Bakanlar Kurulu Kararı ile Ağrı ili, Patnos ilçesi , Yenimahalle sınırları içinde bulunan bazı alanların kentsel dönüşüm ve gelişim proje alanı olarak kabul edildiği, bu alandaki 7 adet Hazineye ait taşınmazın 5393 sayılı Yasanın 73.
 Maddesi hükmünce harca esas değer üzerinden doğrudan Patnos Belediye Başkanlığına satıldığı, daha sonra 09/06/2022 tarih ve 31861 sayılı Resmi Gazetede yayımlanan 08/06/2022 tarih ve 5715 sayılı Cumhurbaşkanı kararıyla anılan alanın kentsel dönüşüm ve gelişim proje alanı ilan edilmesi hakkındaki 17/10/2016 tarihli ve 2016/9434 sayılı Bakanlar Kurulu Kararının yürürlükten kaldırılmasına karar verildiği, Hazinece Belediyeye satılan taşınmazların 6306 sayılı Yasa'nın Geçici 1.maddesi kapsamında Hazine adına resen tescil edilmesine karar verildiği, Patnos Belediye Başkanlığı tarafından; dava konusu Cumhurbaşkanı kararıyla satın alınan taşınmazların bedeli karşılığında iadesi söz konusu olduğu, bu taşınmazların bir kısmının park olarak kullanıldığı, bir kısmının ise 3. kişilere satıldığı, anılan Bakanlar Kurulu kararının iptali nedeniyle mülkiyet haklarının zedeleneceği, dava konusu işlemin hukuka aykırı olduğu iddalarıyla kentsel dönüşüm ve gelişim proje alanı ilan kararının yürürlükten kaldırılmasına ilişkin 08/06/2022 tarih ve 5715 sayılı Cumhurbaşkanı kararının iptali istemiyle iş bu davanın açtığı anlaşılmaktadır.
 
 ## Danıştay 6. D. 2021/10629 E., 2022/11548 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/907236100)
 
 Dosyanın incelenmesinden uyuşmazlık konusu alanın riskli alan olarak ilanına ilişkin 20/04/2020 günlü, 2448 sayılı Cumhurbaşkanı kararının iptali istemiyle açılan davanın reddi yolundaki Danıştay 6.Dairesinin 02/06/2021 tarih ve E:2020/4616, K:2021/7604 sayılı kararının Danıştay İdari Dava Daireleri Kurulu'nun 08/11/2021 tarihli ve E:2021/2732, K:2021/2280 sayılı kararıyla onaylandığı, davaya konu taşınmazın riskli alan sınırları içerisinde kaldığı, söz konusu alan sınırları içerisinde yer alan yapıların büyük bir kısmının dere üzerinde yapılaşmış olmasından ve %84,18 'inin imar mevzuatına aykırı olarak inşa edilmesinden ötürü oluşabilecek herhangi bir taşkın, sel vb. afet durumunda can ve mal güvenliğini tehdit ettiği, telafisi güç kayıpların ortaya çıkmaması için yapıların ivedilikle tahliye edilmesi gerektiği, olası bir afet anında sağlıksız yapılaşmadan kaynaklı yaşanacak can ve mal kaybına karşı tedbir alınmasının hedeflendiği, alanın dere yatağı üzerinde konumlu olmasından dolayı taşkın riski taşıdığı, mülkiyet problemlerinin çözülememesi ve hak sahiplerince açılan davaların, kamulaştırma sürecinin çok uzun sürmesinin alanda gerçekleştirilecek projelere ivedilikle
 başlanamamasına sebebiyet verdiği, alanda bulunan özel mülkiyete konu taşınmazların üzerindeki yapılarla birlikte ,oluşabilecek herhangi bir taşkın, sel ve benzeri afetler durumunda telafisi güç kayıpların yaşanmasının önlemesi amacıyla dava konusu acele kamulaştırma kararının alındığı anlaşılmaktadır.
@@ -126,6 +140,8 @@ başlanamamasına sebebiyet verdiği, alanda bulunan özel mülkiyete konu taş�
 Bu durumda; dava konusu acele kamulaştırmanın dayanağı olan riskli alan kararının iptali için açılan davada verilen ve kesinleşen kararın gerekçesi de dikkate alındığında; riskli alan olarak ilan edilen bölgede yaşanabilecek bir afet riskinin bertaraf edilmesi amacıyla kamu yararı gözetilerek dava konusu işlemin tesis edildiği, dolayısıyla belirtilen gerekçelerle sözkonusu alanın acele kamulaştırılmasına ilişkin dava konusu kararda 2942 sayılı Kamulaştırma Kanununun 27. maddesinde öngörülen acele kamulaştırma prosedürünün uygulanması için gerekli olan olağanüstü durumun, acelecilik halinin ve bu yönteme başvurulması ile amaçlanan kamu yararının bulunduğu sonucuna varıldığından dava konusu işlemde hukuka aykırılık görülmemiştir.
 
 ## Danıştay 6. D. 2019/17552 E., 2022/8515 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/885951100)
 
 Diğer taraftan; dava konusu taşınmazların bulunduğu alanda Ankara İli, Gölbaşı İlçesi, …
 
@@ -179,6 +195,8 @@ Dava konusu 16/04/2019 tarih ve 924 sayılı Cumhurbaşkanı kararı ile onaylan
 
 ## Danıştay 14. D. 2016/8636 E., 2017/1089 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/338462300)
+
 6306 sayılı Kanunun Uygulama Yönetmeliğinin 15.maddesinin 2.fıkrasında "Riskli yapılarda, Kanunun 6 ncı maddesinin birinci fıkrası uyarınca, parsellerin tevhit edilmesine, münferit veya birleştirilerek veya imar adası bazında uygulama yapılmasına, yeniden bina yaptırılmasına, payların satışına, kat karşılığı veya hasılat paylaşımı ve diğer usuller ile yeniden değerlendirilmesine bütün maliklerce oybirliği ile karar verilememiş ise, riskli yapının değeri, Sermaye Piyasası Kuruluna kayıtlı olarak faaliyet gösteren lisanslı değerleme kuruluşlarına tespit ettirilir ve maliklerden birinin istemi üzerine, (Mülga ibare:RG-25/7/2014-29071) (…) bütün malikler toplantıya çağrılır. Toplantıda yürütülecek uygulamalar konusunda riskli yapının değeri de gözetilerek bütün maliklerce oybirliği ile anlaşmaya çalışılır. Oybirliği ile anlaşma sağlanamaması halinde yapılacak uygulamaya sahip oldukları hisseleri oranında paydaşların en az üçte iki çoğunluğu ile karar verilir. Bu karar tutanağa bağlanır ve karara katılan maliklerce imzalanır.
 Bu karar, karara katılmayanlara ve toplantıya iştirak etmeyenlere noter vasıtasıyla tebliğ edilir ve bu tebliğde, onbeş gün içinde bu kararın kabul edilmemesi halinde bağımsız bölümlerine ilişkin arsa paylarının, Bakanlıkça tespit edilecek veya ettirilecek rayiç değerden az olmamak üzere anlaşma sağlayan diğer paydaşlara açık artırma usulü ile satılacağı, paydaşlara satış gerçekleştirilemediği takdirde, bu payların, rayiç bedeli Bakanlıkça ödenmek kaydı ile tapuda Hazine adına resen tescil edileceği bildirilir." hükmüne, 3.fıkrasında "Anlaşmaya katılmayan maliklerin bağımsız bölümlerine ilişkin arsa payları; 15/A maddesinde belirtilen usule göre, arsa payı değeri üzerinden anlaşma sağlayan diğer paydaşlara açık artırma usulü ile satılır." hükümlerine, 15/A maddesinde ise açık artırmayla satışın usulüne ilişkin kurallara yer verilmiştir.
 
@@ -190,6 +208,8 @@ kararının kaldırılması üzerine üçüncü kez, İdare tarafından davacın
 Açıklanan nedenlerle; ...... İdare Mahkemesinin ... günlü, E:..., K:... sayılı kararının BOZULMASINA …
 
 ## Yargıtay HGK 2024/506 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1104171800)
 
 Davacı vekili dava dilekçesinde; müvekkili ile davalı arasında 05.09.1986 tarihinde arsa payı karşılığı inşaat sözleşmesi düzenlendiğini, ancak davalının sözleşme konusu inşaatı projeye ve ruhsata uygun yapmadığı gibi süresinde de tamamlamadığını, sözleşmeye göre inşaatın bitirilmesi gereken tarihin üzerinden on yedi yıl geçtiği hâlde iskân ruhsatı alınarak kat mülkiyetine geçilmediğini, hâlihazırda binanın bitirilmesine ve yasal hâle getirilmesine olanak bulunmadığını ileri sürerek 05.09.1986 tarihli arsa payı karşılığı inşaat sözleşmesinin feshine karar verilmesini talep etmiştir.
 
@@ -204,6 +224,8 @@ Yapı kayıt belgesi TMK'nın 683 üncü maddesinin bir malike tanıdığı tüm
 Yargıtay 3. Hukuk Dairesinin İçtihatlarında; 2023/188 Esas,1730 Karar sayılı ilâmında ”Geçiçi abonelik tesisi davasında… 18.05.2018 tarihli ve 30425 sayılı Resmî Gazete’de yayımlanarak yürürlüğe giren, 7143 sayılı Kanun ile 3194 sayılı İmar Kanunu’na eklenen geçici 16 ncı maddenin birinci fıkrasıyla…Açıklanan bu kanun değişikliğiyle; yapı kayıt belgesi, yapının kullanılmasına ilişkin geçici statü sağlamış, yapının bu statü ile imara aykırı olmasına karşın idare tarafından kullanılmasına ve talep hâlinde geçici olarak doğalgaz bağlanmasına izin verilmiş, ayrıca yapının yenilenmesi durumunda yürürlükte olan imar mevzuatı hükümlerinin uygulanması öngörülmüştür…dava konusu taşınmazın 3194 sayılı İmar Kanun'un ve 634 sayılı Kat Mülkiyeti Kanunu'nun ilgili maddeleri gereğince niteliğinin mesken olarak yasal hâle getirilip tapuya tescil edilemeyeceğinin belirlenmiş olmasına ve yapı kayıt belgesi bulunmamasına, …. davacı vekilinin temyiz itirazlarının reddi ile usul ve kanuna uygun bulunan kararın onanmasına karar vermek gerekmiştir.
 
 ## Yargıtay 11. HD 2022/9241 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/875903300)
 
 Davacı vekili, müvekkilinin davalı şirketin ortağı olduğunu, 25.04.2014 tarihli genel kurulun 6.maddesi ile tasfiye halinde olan davalı şirkete ait gayrimenkullerin çeşitli yöntemlerle değerlendirilmesine karar verildiğini, anılan bu kararın tasfiye işlemleriyle bağdaşmayan ve kanuna, ana sözleşmeye ve afaki iyi niyet kurallarına aykırı bir karar olduğunu ileri sürerek, davalı şirketin 25.04.2014 tarihli genel kurulunda alınan 6 numaralı kararın iptaline karar verilmesini istemiştir.
 

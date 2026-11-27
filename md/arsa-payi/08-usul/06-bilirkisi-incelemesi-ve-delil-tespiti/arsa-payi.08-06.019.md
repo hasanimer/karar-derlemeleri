@@ -22,6 +22,8 @@ uyari: "Derleyenin seçtiği alıntılardır; kararın tamamı değildir. Künye
 
 ## İstanbul BAM 53. HD 2024/525 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1041181700)
+
 Dava, taraflar arasında imzalanan eser sözleşmesinden kaynaklı bakiye ve ek iş bedelinin tahsili ile teminat çekinden dolayı borçlu olunmadığının tespiti, teminat çekinin iadesi istemine ilişkin olup davacı yüklenici, davalı ise iş sahibidir.
 
 …
@@ -38,6 +40,8 @@ A)1-Davacı vekilinin istinaf talebinin HMK 353/1-b-1 maddesi ile esastan REDDİ
 
 ## Ankara BAM 27. HD 2024/457 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1038066500)
+
 Asliye Hukuk Mahkemesinin 19.06.2014 tarihli ve 2013/253E., 20l4/|343K. sayılı karar ile müvekkilinin 21.650,00 TL tutarında ödemeye karar verildiğini müvekkili şirketçe faiziyle birlikte 38.130,11 TL ödeme yapıldığını, Ankara 22. İcra Dairesinin 2016/16554 sayılı dosyasıyla icra takibi başlatıldığını, karara bağlanmış hususta tekrar huzurda dava alacağından mahsup istenilmesinin bir kez daha kötü niyetli tavrını ortaya koyduğunu ileri sürdüğü, buna karşın asıl davalı vekilinin, taraflar arasındaki kat karşılığı inşaat sözleşmesi gereğince, eksik ve ayıplı imalatların söz konusu olduğunu, Ankara 20. Asliye Hukuk Mahkemesinin 2015/36 D. İş tespit dosyası kapsamında düzenlenen 19.09.2013 havale tarihli bilirkişi raporu ile tespiti yapılan 10.566.00 TL tutarında eksik ve ayıplı işler bedelinin tespitinin yapıldığını mahkemece davacıya bilirkişi raporunun tebliğ edildiğine, böylece bildirim koşulunun gerçekleşmiş olduğunu, temerrüde düşmüş olduğunu, eksik iş bedelinin bildirime gerek olmadığını. her zaman talep edilebileceğini, bu tutarın hesaplamada dikkate alınması gerektiğine dair beyanda bulunduğu, konuya dair Ankara 23.
 Asliye Hukuk Mahkemesinin 19.06.2014 tarihli ve E:2013/253, K:2104/343 sayılı kararının kapsam ve içeriği incelendiğinde, hükmedilen 21.650,00 TL tutarının kira kaybına yönelik tazminat olduğu, eksik ve ayıplı işlerin giderim bedeline yönelik olmadığının anlaşıldığı, 2013/36 D. İş tespit dosyası kapsamından alınan 19.09.2013 havale tarihli bilirkişi raporunun sonuç ve kanaat kısmında, “...sözleşmesine göre, taşınmazın arsa sahibine iskân izni alınmış olarak teslim tarihi 02.05.2012'dir.” tespiti dikkate alındığında işin bitim tarihinin 02.05.2012 tarihi olduğunun belirlendiği, öte yandan Ankara 23. Asliye Hukuk Mahkemesinin 19.06.2014 tarihli ve E:2013/253, K:2014/343 sayılı kararındaki tespit göz önünde bulundurulduğunda, dava konusu inşaatın bitim tarihinin 11.09.2012 tarihi olduğu, ayıplı işlerin asıl davalı yan tarafından asıl davacı yana bildirildiğine ilişkin delile dosyada rastlanılmadığı, diğer taraftan 18/07/2013 tarihinde açılan tespit davasında 2013/36 D.
 
@@ -45,6 +49,8 @@ Asliye Hukuk Mahkemesinin 19.06.2014 tarihli ve E:2013/253, K:2104/343 sayılı 
 1.080,00 TL 2 adet panel radyatör, 600,00 TL tutarlı 12 adet su bataryası, 300,00 TL tutarlı 4 adet duş bataryası, 1.100,00 TL tutarlı yan cephede tretuvar yapılması, 1.700,00 TL tutarlı teras katında mutfak dolabı yapılması olmak üzere toplam 4.780,00 tutarlı eksik imalat olduğu anlaşılmakla, bu tutarın asıl davacı alacağından düşülmesi gerektiğinin mahkemece değerlendirildiği, asıl davada davacının takip tarihi ve takip kalemleri itibariyle varsa alacaklarının hesap edilmesinde 9 adet ayıplı imalatın makul sürede ihbar edilmemesi nedeniyle, ayıplı imalat kalemlerinin mevcut durumu ile asıl davalı yanca teslim alındığı, asıl davacı şirketin, takip tarihi itibari ile takip kalemleri alacağı yönünden bilirkişi heyetinin 05/07/2021 tarihli üçüncü bilirkişi ek raporu ile; 10.05.2011 tarihli protokolden asıl davacının alacağı (425.000,00TL-357.000,00TL)68.000,00TL - 114.117,80TL(davalı tarafça düzenlenen malzeme faturaları toplamı) - 18.413,76TL(arsa bedeli faturası KDV'sinden asıl davacının bakiye borcu) - 4.780,00TL(davacının 5 adet eksik imalat bedelleri)=davacının bakiye borç toplamının - 69.311,56 TL olarak hesaplandığı, bu hesaplamaya göre asıl davada;
 
 ## İzmir BAM 14. HD 2024/9 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/980358700)
 
 Davacı vekili tarafından verilen 27.02.2007 tarihli asıl davaya ilişkin olarak verilen dava dilekçesinde özetle; müvekkilinin aralarında yapılan sözleşmeyle davalıya inşaası süren Gaziemir'deki binanın dış cephe kaplama ve aliminyum doğrama ile cam montaj işini yaptırdığını, ancak davalının işi süresinde bitirmeyip eksik ve sözleşme şartlarındaki kalitede yapıp bitirmediğini, çekilen ihtara ve şifai ikaza rağmen işleri bitirmediğini, iyiniyet doğrultusunda sözleşmenin 10.02.2007 tarihinde kadar uzatılmış olmasına ve ilgili 10.01.2007 tarihli sözleşmenin 3. maddesi gereğince teslimin gecikmesi durumunda davalının müvekkiline her geçen gün için 1.000,00 TL cezai tazminat ödeyeceğine dair şart konulmuş olmasına rağmen ve tespit talebinden önce İzmir 30.Noterliğinin 03871 yevmiye nolu ihtarnamesi ile de davalının ihtar edilmesine rağmen teslimin halen gerçekleşmediğini ve ne zaman olacağının da belli olmadığını, müvekkili ile davalı aralarındaki sözleşme hükümleri gereği ödemesi gereken 160.000,00 TL nın 129.000,00 TL kısmının çeklerle ödendiğini, 10.000,00 TL sının banka havalesi ile davalıya ödendiğini, yargılama sonuna kadar ödeme yasağı konulmasını talep ettikleri belirterek,
 öncelikle ...
@@ -69,6 +75,8 @@ Bu durumda Mahkemece yapılacak iş, 2 inşaat mühendisi bilirkişi ve 1 mimar 
 
 ## İstanbul BAM 15. HD 2023/1228 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/969100100)
+
 Bu hukuki işlemlerin miktar veya değeri ödeme veya borçtan kurtarma gibi bir nedenle ikibinbeşyüz Türk Lirasından aşağı düşse bile senetsiz ispat olunamaz. " hükmü gereğincen davalı taraf, bu iddiasını senetle ispat etmek zorundadır.Bu kapsamda, davacının dosyaya sunduğu delillerin değerlendirilmesi gerekmektedir. Davanın dayanağı olan faturanın davalı yan defterinde kayıtlı olduğu tartışma konusu değildir. Her ne kadar davalı söz konusu faturanın iki yanın da muhasebecisi olan ... tarafından davacı tarafından davalı adına kurulan işletmenin ticari defter ve kayıtlarına kendisinden habersiz olarak ticari defterine işlendiğini ileri sürmüş ise de, ... hakkında Büyükçekmece Cumhuriyet Başsavcılığı'nın 2020/36445 numaralı dosyasından yapılan soruşturma sonunda ilgili hakkında kovuşturma yapılmasına yer olmadığına karar verildiği gözetildiğinde, ilgili faturanın düzenlenmesinin tek başına akdi ilişkinin varlığını kabule elverişli değilse de, faturanın deftere işlenmesi yanlar arasındaki ticari ilişkiyi ispata elverişli olduğu sonucuna varılmaktadır.
 Yanlar arasındaki ticari ilişkinin varlığı kabul edildiğinden bu aşamada davacı yanın alacağının hesaplanması gerekmektedir.Eser sözleşmelerinde, kural olarak yüklenici yaptığı işin tutarını, iş sahibi de iş bedelini ödediğini kanıtlamak zorundadır. Sözleşme ve dava tarihinde yürürlükte bulunan 6098 sayılı Türk Borçlar Kanunu'nun 481. maddesinde; “Eserin bedeli önceden belirlenmemiş veya yaklaşık olarak belirlenmişse bedel, yapıldığı yer ve zamanda eserin değerine ve yüklenicinin giderine bakılarak belirlenir.” düzenlemesine yer verilmiştir. Taraflar arasında yazılı bir sözleşme bulunmayıp, iş bedeli konusunda taraflar da anlaşmamışlarsa, iş bedelinin, yasanın sözü edilen bu hükmü uyarınca, yapıldığı yıl mahalli piyasa rayiç fiyatlarına göre belirlenmesi gerekmektedir.Dairemiz kararları ile Yargıtay (Kapatılan) 15 HD, (Kapatılan) 23.
 
@@ -79,6 +87,8 @@ yapıldıktan sonra oluşacak uygun sonuç dairesinde bir karar verilmesi için 
 HÜKÜM: Gerekçesi yukarıda açıklandığı üzere;1-Davacı vekilinin istinaf başvurusunun KABULÜNE, davalı vekilinin istinaf başvurusunun bu aşamada incelenmesine YER OLMADIĞINA, 2-Bakırköy 7. Asliye Ticaret Mahkemesi'nin 02/12/2022 tarih, 2020/523 Esas, 2022/1157 Karar sayılı kararının KALDIRILMASINA …
 
 ## İstanbul BAM 15. HD 2023/1227 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/974870500)
 
 Sözleşmenin 13.2. maddesinde; arsa sahiplerinin kendilerine teslim yönünde yapılacak bildirim üzerine inceleme yaparak 30 gün içinde tespit sonucunu yazılı olarak yükleniciye bildirecekleri, bu inceleme süresinin teslim süresinden sayılmayacağı düzenlenmiştir. Arsa sahipleri tarafından yükleniciye gönderilen ve içeriği yukarıda açıklanan Beşiktaş ...Noterliği'nin 08/10/2016 tarihli, ... yevmiye numaralı ihtarnamesinde ihbar edilen 30 günlük sürenin inceleme süresi olarak kabul edildiği belirtilmiştir. Bu nedenle arsa sahipleri tarafından inceleme süresi olarak kabul edilen 30 günlük sürenin de sözleşmenin 13.2. maddesi gereğince teslim tarihinin içinde sayılmayacağı anlaşılmaktadır. Sözleşmenin " Mücbir Sebepler" başlıklı 21. maddesinde, yangın, savaş, büyük patlamalar, genel terör hareketleri ve sair doğal afetleri mücbir sebep olarak sayılmıştır.
 Somut olayda yüklenici şirket vekilince sözleşmenin anılan hükmüne dayanılarak, 2016 yılında ülkede yaşanan hain darbe girişimi ve belediye başkan yardımcısının ölümü gibi nedenlerle inşaat sektöründe yaşanan gecikmelerin müvekkili açısından "mücbir sebep" sayılması gerektiğini ileri sürülmüş ve mahkemece de 15 Temmuz darbesi nedeniyle yüklenicinin işi teslim süresine 25 günlük ek süre eklenmiş ise de, yüklenici yanca ileri sürülen nedenlerin sözleşmedeki edimlerin yerine getirilmesine engel teşkil edecek mahiyette mücbir sebep olarak değerlendirilemeyeceği anlaşıldığından mahkemece işin teslim süresine 25 günlük ek süre verilmesi isabetsiz olmuştur.
@@ -96,6 +106,8 @@ HÜKÜM: Gerekçesi yukarıda açıklandığı üzere; 1-Taraf vekillerinin isti
 
 ## İstanbul BAM 15. HD 2023/764 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/916286200)
+
 Şahıslara verileceğinin kararlaştırıldığı, değiştirilen 2. Maddeye göre yüklenici şirketin sözleşmeden doğan haklarını inşa halinde olan A blokun mevcut tamamlanmamış haliyle davalılardan ...'e satıldığı, bu durumun arsa sahiplerince kabul edildiği, inşaatın eksik kısımlarının ikmali için yükleniciye 20 aylık ek süre verildiği şeklinde kararlaştırılmış, bilhare ..., ...'e ... ile davacı ... Gıda şirketi arasında ayrı ayrı 01.03.2013 tarihli sözleşme ile 22.04.1994 ve 15.01.2001 tarihli sözleşmelerden kaynaklanan hak ve alacak ve yetkileri temlik alan şirket tarafından sözleşmeye konu arsa ve üzerindeki natamam binanın temlik alana tapuda devredilmiş olduğundan 22.04.1994 tarihli sözleşmedeki temlik verelenlerin tüm hak alacakları ve yetkilerinin temlik alan ... Gıda şirketine devredilmesi kararlaştırılmıştır.Davada temlik alan ...
 Gıda şirketi kat karşılığı inşaat sözleşmesi ve ek sözleşmelerinde belirtilen edimleri yerine getirilmediği belirtilerek sözleşmenin geriye etkili olarak feshini ve davacılar adına kayıtlı tapuların iptalini talep etmektedir.15.01.2001 tarihli sözleşmede arsa sahibi ... şirketinin imzası bulunmadığından ... şirketi tarafından 22.04.1994 tarihli kat karşılığı inşaat sözleşmesinde arsa sahibine ait hak ve borçların arsayı devir alan ..., ... ve ...'e temlik edildiği kabul edilemiyecektir. Kat karşılığı inşaat sözleşmenin feshi için sözleşmenin tüm taraflarının davada taraf olarak yer alması gerekmektedir. Bu durumda, sözleşmede arsa sahibi sıfatı ile yer alan tasfiye halindeki ... şirketinin davaya dahil edilmesi yada ayrı bir dava açılarak birleştirilmesi suretiyle taraf teşkilinin sağlanması gerekmektedir. Tasfiye halinde ... şirketinin tasfiyesinin tamamlanmış olması halinde, şirketin usulünce ihyası sağlanarak, dava dosyasında taraf teşkilinin gerçekleştirilmesi gerekmektedir.
 
@@ -106,6 +118,8 @@ Kabule göre de, mahkemece mahallinde keşif yapılmış ise de A ve B bloktan o
 HÜKÜM: Gerekçesi yukarıda açıklandığı üzere; 1-Davalı vekilinin istinaf başvurusunun esasa ilişkin sebepler incelenmeksizin usul yönünden KABULÜNE,2-İstanbul Anadolu 8. Asliye Ticaret Mahkemesi'nin 17/02/2021 tarih, 2015/401 Esas, 2021/116 Karar sayılı kararının KALDIRILMASINA …
 
 ## İzmir BAM 14. HD 2023/645 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/886085100)
 
 Davacı vekili tarafından 27.11.2013 havale tarihli dava dilekçesinde özetle; Müvekkili şirketin mühendislik, mimarlık ve taahhüt işleri yaptığını, davalı kooperatifin de Selçuk'ta kurulmuş bir konut yapı kooperatifi olduğunu, davacı şirket ile davalı kooperatifin, kooperatifin sahibi olduğu ... ili, ... ilçesi, ... Mah. ...
 
@@ -125,15 +139,21 @@ Somut olayda, taraflar arasında yazılı eser sözleşmesi kurulduğu hususunda
 
 ## İstanbul BAM 15. HD 2023/575 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/899105400)
+
 Müh..........Ltd.Şti' nin ise ortağının ... olup önceki ortak ve yetkilisinin ise ... olduğu, ortakların aynı kişiler olması gibi bir durumun sözkonusu olmadığı, öte yandan davacı inşaatın tamamlanma sürecinde davalılardan ...'nin müdahalesi sonucu inşaattan uzaklaştırıldığı ve sözleşmenin tamamlanmasının imkansız hale geldiğinin ileri sürüldüğü, davalıların ise davacının edimlerini yerine getirmediğini iddia ettikleri, davacının davalılar aleyhinde faturalara dayalı olarak icra takibi başlattığı, bu faturaların 10/03/2020 tarihli sözleşme kapsamında düzenlendiği, bu sözleşmede düzenlenecek her faturada (hakedişte) tarafların birlikte yapılan işlere ait ölçüm yapacağını, bu ölçüm karşılığında her ay fatura düzenleneceğinin ve yüklenici tarafından işin kabulü yapılıp hakediş olarak 3 gün içinde ödeneceğinin düzenlendiği, sözleşmede fatura bedelinin %30'u nakit kalan %70'i bu kısma denk gelecek sözleşmeye konu inşaattan daire tapusu olarak verilecektir şeklinde düzenlenmiş ödeme şeklini öngören 4.maddenin bulunduğu, İstanbul Anadolu 20.
 Asliye Hukuk Mahkemesi dosyasında alınan bilirkişi raporunda 22/12/2020 tarihinde yapılan keşifte inşaatın kaba inşaat seviyesinin %40, elektrik seviyesinin %2, sıhhi tesisat seviyesinin %2 olmak üzere toplam %44 olarak belirlendiği, bu şartlar altında toplanan deliller itibariyle davacının gerek asıl dava ve gerekse birleşen dava yönünden yaklaşık ispat koşulunu sağlayamadığı, sözleşme kapsamında ücrete hak kazanıp kazanmadığı ve kazanmış ise miktarın belirlenmesi hususlarının yargılama sonucu ortaya çıkacağı gerekçesiyle davacılar vekilinin asıl ve birleşen davalara yönelik ihtiyati tedbir ile ihtiyati haciz taleplerinin reddine karar verilmiştir. Asıl ve birleşen davada davacılar vekili 30/12/2022 tarihli tarihli dilekçesiyle, dosyaya celbedilen İstanbul Anadolu 8.Asliye Ceza Mahkemesi'nin 2021/1021 Esas sayılı ceza davasında sanık olarak yargılanan davalı ...'nin kolluktaki ifadelerinde kendi telefon numarasının ... olduğunun görüldüğünü, ekli olarak mahkemeye sundukları ve müvekkil ...
 
 ## İstanbul BAM 15. HD 2023/180 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/863356100)
+
 26/03/2018 tarihli sözleşme ile davacı adi ortaklık, davalı arsa sahibi şirket adına kayıtlı ..., ... ve ... parsel sayılı taşınmazlar üzerine 15/08/ 2022 tarihine kadar bir iş merkezi inşaa etme işini üstlenmiştir. Taraflar arasında yapılan sözleşme gereğince iş anahtar teslimi olarak yapılacaktır. Sözleşmenin 2.1 maddesinde bu durum açıkca belirtilmiştir. Sözleşme uyarınca asıl inşaatın ... ve ... parselde yapılacağı, ... parsel üzerine ise spor ve sosyal alan yapılacağı taraflarca kabul ve taahhüt edilmiştir. Sözleşmenin 7.1. Maddesinde; tüm taşınmazlar üzerine yapılacak inşaat için en geç inşaat ruhsatının alınmasından itibaren 48 ayda inşaatın anahtar teslim esasına göre tamamlanarak tümüyle hazır hale getirileceği düzenlenmiştir. Davalı arsa sahibi tarafından dosyaya delil olarak sunulan ve davalı arsa sahibi şirket tarafından İstanbul Anadolu 4. Asliye Ticaret Mahkemesi'nin 2021/1043 D. İş sayılı dosyasından yaptırılan tespit sonrasında hazırlanan 03/03/2022 tarihli bilirkişi raporunda; dava konusu ... parseldeki ... ve ...
 Blok binaların yapı ruhsatının 04/11/2019 tarihinde alındığı, 22/01/2022 keşif tarihi itibariyle bloklardaki tüm kaba inşaatın bitirildiği, inşaatın % 97, mekanik tesisatın % 92 ve elektrik tesisatın % 90 oranında tamamlanmış olduğu; buna mukabil 8065 parseldeki inşaatın ise başlanmamış durumda olduğu, parsele ilişkin yapı ruhsatının 14/08/2018 tarihinde alındığı, sözleşmenin 7. Maddesine göre işin 48 ayda bitirilip teslim edilmesi gerektiği, buna göre;
 
 ## İzmir BAM 11. HD 2023/155 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/857133900)
 
 Dava, davalı yüklenici şirkete fazla ödeme yapılarak davacı kooperatifin zarara uğratıldığı iddiasıyla eski yönetim kurulu ve denetim kurulu üyeleri ile davalı şirket ve temsilcisinden tazminat istemine ilişkin olup, ilk derece mahkemesince yukarıda yazılı gerekçeyle davanın kabulüne karar verilmiştir.
 

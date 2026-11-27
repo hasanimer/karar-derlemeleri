@@ -22,11 +22,15 @@ uyari: "Derleyenin seçtiği alıntılardır; kararın tamamı değildir. Künye
 
 ## Yargıtay 15. HD 2020/2445 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/600446800)
+
 Davacı arsa sahibi, davalı ... Uluslararası Nakliyat ve Hayvancılık Tarım Petrol Ürünleri İnşaat Malzemeleri İthalat İhracat Ltd. Şti. yüklenicidir. ... 1. Noterliği'nde imzalanan 23.11.2015 gün 13403 yevmiye nolu düzenleme şeklinde taşınmaz satış vaadi ve arsa payı karşılığı inşaat sözleşmesi ile davalı yüklenici, davacı arsa sahibine ait I... Mah. 2157 ada 10 parsel sayılı taşınmaz üzerinde kat karşılığı inşaat yapımını üstlenmiştir. Gelen tapu kayıtlarında inşaat yapılacak taşınmazın davacı adına tapuda kayıtlı iken, sözleşmenin imzalandığı 23.11.2015 tarihinde davalı yüklenici şirkete, onun tarafından 10.12.2015 tarihinde dava dışı ... ve 16.12.2015 tarihinde dava dışı ...'e satış yoluyla intikal ettiği ve en son 08.01.2016 tarihinde davalı ...'e devredildiği görülmektedir. Mahallinde yapılan keşifte davalı yüklenici tarafından sözleşme konusu arsada hiçbir inşaat faaliyeti yapılmadığı tespit edilmiştir. Sözleşmede inşaatın teslim süresi kararlaştırılmamıştır.
 Davacı tarafından arsa payı karşılığı inşaat yapım sözleşmesinin ifasını sağlamak üzere yükleniciye devredilen ve onun tarafından da 3. kişilere devredilen ve en son dava ... adına olan tapu kaydının iptâl ve tescili talep edildiğinden Dairemizin yerleşik içtihat ve uygulamalarında kabul edildiği gibi sözleşme nedeniyle devredilen tapu kaydının iptâl ve tescil istemi, sözleşmenin geriye etkili feshi talebini de kapsamaktadır. Tapu kaydının yükleniciye devrinden sonra dava dışı ... ve ...'e de tapu devirleri yapılmış olduğundan verilecek fesih ve iptâl kararı bunların da hukuki durumlarını etkileyecek olmasına rağmen, davada taraf olarak gösterilmemiş ve mahkemece davada taraf olmaları sağlanmamıştır.
 Bu durumda mahkemece davada taraf olmayıp, tapu kaydının iptâli halinde rücu ve diğer sebeplerle, taşınmazı yükleniciden ilk olarak devralan ... ile ondan devralan ...'in hukuki durumları etkileneceğinden bu şahıslar hakkında eldeki dava ile birleştirilmek üzere dava açmak üzere davacıya süre verilip, açılacak dava birleştirildikten sonra davacının tapu iptâl ve tescil talebi sözleşmenin geriye etkili feshi istemini de kapsadığından teslim süresi bulunmayan sözleşmede kararlaştırılan iş ve inşaatın gerekirse yeniden keşif yapılarak alınacak teknik bilirkişi raporuyla makul tamamlama ve teslim süresi hesaplattırılıp yüklenicinin temerrüdünün gerçekleşip gerçekleşmediği ve arsa payı karşılığı inşaat sözleşmenin fesih koşullarının oluşup oluşmadığı değerlendirilip fesih ve Dairemizin yerleşik içtihat ve uygulamaları ile Anayasa Mahkemesi'nin bu konudaki kararları da gözönünde tutularak davalı ... yönünden tapu iptâl tescil talebine ilişkin sonucuna uygun bir karar verilmesi gerekirken eksik inceleme ve yanlış değerlendirme ile davacının istinaf talebinin esastan reddi doğru olmamış, kararın bozulması uygun bulunmuştur.SONUÇ:
 
 ## Yargıtay 15. HD 2020/1905 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/594702200)
 
 Yüklenici şirket ile dahili davalıların murisi ... arasında ...Noterliği’nde imzalanan 23.09.2004 gün 4298 yevmiye nolu düzenleme şeklinde gayrimenkul satış vaadi ve kat karşılığı inşaat yapım sözleşmesine göre inşaatın tamamlanıp teslimi süresi yapı (inşaat) ruhsatı alınmasından itibaren üç yıldır. Hükme esas alınan 28.06.2016 havale tarihli bilirkişi kurulu raporuna göre projelerin çizilip yapı ruhsatı almak için geçmesi gereken makul süre 3 aydır. 23.09.2004 sözleşme tarihine göre 3 aylık proje ve ruhsat alım süresi 3 yıllık teslimi gereken süreye eklendiğinde yüklenicinin inşaatı tamamlayıp teslim etme süresi 23.12.2007 tarihinde dolmaktadır. Teslim süresi bitmeden ve inşaat yapımı tamamlanmadan yüklenicinin kendisine kalan bağımsız bölümleri kiraya vererek ya da kullanmak suretiyle kazanç sağlaması ve sözleşme ilişkisi halen devam ettiğinden yüklenicinin maliyet ile dava tarihindeki satış bedeli arasındaki fark şeklinde hesaplanan kâr kaybını istemesi mümkün değildir.
 
@@ -35,6 +39,8 @@ Bu durumda, yüklenicinin açtığı ve asıl dava haline gelen davanın açıld
 SONUÇ: Yukarıda 1. bentte açıklanan nedenlerle yüklenicinin tüm, arsa sahibi mirasçılarının diğer temyiz itirazlarının reddine, 2. bent uyarınca kabulü ile hükmün davalı arsa sahibi mirasçıları yararına BOZULMASINA …
 
 ## Yargıtay 15. HD 2020/1611 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/589158600)
 
 Davacı ... ile davalı ... (...) ...arasındaki davadan dolayı Ankara 16. Asliye Hukuk Hakimliğince verilen 23.12.2015 gün ve 2014/129 E.-2015/653 K. sayılı hükmü onayan 23.
 
@@ -52,6 +58,8 @@ SONUÇ: Yukarıda 1. bentte açıklanan nedenlerle davalının diğer karar düz
 
 ## Yargıtay 15. HD 2020/264 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/572913300)
+
 Davacı davasında, davalı ile aralarında 31.07.2006 tarihli kat karşılığı inşaat sözleşmesinin düzenlendiğini, buna göre kendisine 3 nolu parselde yapılacak binada bir dairenin, 1 nolu parselde yapılacak binada ise bir dükkan ve 3 dairenin verilmesinin ayrıca sözleşmede gecikme halinde her bağımsız bölüm için 500,00 TL kira bedelinin yüklenici tarafından ödeneceğinin kararlaştırıldığını, inşaatın sözleşme tarihinden 30 ay sonra yani 31.01.2009 tarihinde teslim edilmesi gerekirken bitirilmediğini belirterek 5 bağımsız bölüm için aylık 2.500,00 TL'den 62 aylık gecikme bedeli 105.000,00 TL’nin davalıdan tahsiline karar verilmesini istemiş, mahkemece 1 nolu parsel üzerindeki bağımsız bölümlerin fiilen kullanıldığı, davacının bu dairelere ilişkin olarak herhangi bir kayba uğramadığı, dairelere ilişkin oturma izni alınmamış ise de davacının bu dairelere ilişkin kira bedeli talebinin kabulünün hakkaniyete uygun olmayacağı, 3 parsel üzerinde bağımsız bölüm için taraflar arasında düzenlenen taahhütname dikkate alınarak 18.000,00 TL üzerinden kısmen kabulüne karar verilmiş, bu kararın davalı tarafından temyizi üzerine Yargıtay 23 Hukuk Dairesi'nin 02.04.2018 tarihli 2015/2586 E.
 
 2018/2562 K. sayılı ilamı ile sözleşmenin 12. maddesine göre sözleşme tarihinden itibaren 30 ay sonra yani 31.01.2009 tarihinde davacı arsa sahibine isabet edecek bağımsız bölümlerin bitmiş vaziyette noksansız olarak fiilen tesliminin kararlaştırıldığı, 1 nolu parselde inşaa edilen bağımsız bölümlerin fiilen kullanıldıkları, ancak henüz iskan ruhsatlarının alınmadığı, kural olarak, sözleşmeye göre bağımsız bölümlerin süresinde teslim edilip edilmediklerinin ispat yükünün davalı yükleniciye ait olduğu, bu nedenle 1 parsel sayılı taşınmaz üzerinde inşaa edilen binadaki davacı arsa sahibine düşen 4 adet bağımsız bölümün süresinde teslim edildiğini savunan yüklenici davalının, bu yöndeki savunmasını ispata yarar tüm delillerinin toplanılarak sonucuna uygun olarak karar verilmesi ayrıca taraflar arasında düzenlenen 02.04.2011 tarihli ibranamede belirlenen şartın yerine getirilip getirilmediğinin araştırılmasından sonra bu belgeye göre 3 parsel nolu taşınmaz üzerinde bulunan davacı arsa sahibine ait 1 adet bağımsız bölüm yönünden karar verilmesi gerektiği belirtilerek bozulmasına karar verilmiştir.Mahkemece bozmaya uyulmuş abonelik faturaları ve vergi ödeme belgeleri ve bilirkişi ek
@@ -61,6 +69,8 @@ Yine taraflar arasında düzenlenen 02.04.2011 tarihli belgede ise 1 parselde ç
 Bu durumda mahkemece davacıya ait olacak bağımsız bölümlerin sözleşmeye göre teslimi gereken tarihten dava tarihine kadar olan kira tazminatının bilirkişiden alınacak ek rapor ile hesaplattırılıp sonucuna göre karar verilmesi gerekirken eksik inceleme ile davanın kısmen kabulüne karar verilmesi doğru olmamış, bozulması gerekmiştir.SONUÇ:
 
 ## Yargıtay 15. HD 2020/95 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/567057100)
 
 Dava, arsa payı karşılığı inşaat yapım sözleşmesinden kaynaklanan gecikme tazminatı alacağının tahsili için yapılan ilamsız icra takibine itirazın iptâli ve takibin devamı istemine ilişkindir.
 
@@ -78,6 +88,8 @@ SONUÇ: Yukarıda 1. bentte açıklanan nedenlerle davacılar ve mirasçıların
 
 ## Yargıtay 15. HD 2020/92 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/567070100)
+
 Dava, Arsa Payı Karşılığı İnşaat Yapım Sözleşmesi gereğince davacıya verilen bağımsız bölümün kararlaştırılandan küçük olması sebebiyle eksik iş bedeli ve teslimdeki gecikmeden kaynaklanan kira kaybı alacağının tahsili istemine ilişkindir.
 
 …
@@ -91,6 +103,8 @@ SONUÇ: Yukarıda 1. bentte açıklanan nedenlerle davalının tüm temyiz itira
 
 ## Yargıtay 15. HD 2019/5070 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/556223500)
+
 Taraflarca akdedilen 07.05.1999 tarihli arsa payı karşılığı inşaat sözleşmesi gereğince teslimin gerçekleşmesi için yapı kullanma izin belgesi (iskân ruhsatı) alınması koşulu bulunmadığı gibi, anahtar teslim ibaresine de yer verilmediğinden, davalı yükleniciye yapı kullanma izin belgesi alma zorunluluğu yükletilemez ise de; yüklenici sözleşmede kararlaştırılan sürede arsa sahibine kalacak bağımsız bölümleri sözleşme ve eklerine uygun tamamlayıp teslim etmek zorundadır. Aksi halde yüklenici, sözleşme tarihinde yürürlükte bulunan 818 sayılı Borçlar Kanunu’nun 106/II. maddesi ve dava tarihinde yürürlüğe giren 6098 sayılı Türk Borçlar Kanunu’nun 125/I. maddesi hükmü gereğince gecikme tazminatı ödemek zorundadır.
 Asıl dava davacısı ... vekili savunma amaçlı olsa dahi 17.01.2008 tarihinde sözleşmede kararlaştırılan bağımsız bölümlerin teslim alındığını kabul ettiğinden, bu kabul beyanı davacı ...’ı bağlar ise de, diğer davacılar ... ve ... vekillerinin teslim hususunda dosya kapsamında herhangi bir kabul beyanı bulunmadığı gibi davalı yüklenici tarafından asıl davanın açıldığı tarihten önce arsa sahiplerine ait bağımsız bölümlerin teslim edildiği de yasal delillerle kanıtlanamadığından, adı geçen arsa sahipleri, kendilerine isabet eden bağımsız bölümlerin teslimi gereken tarihten dava tarihine kadar gecikme tazminatı istemekte haklıdır.
 
@@ -99,6 +113,8 @@ Bu durumda mahkemece, raporu hükme esas alınan bilirkişi kurulundan asıl dav
 SONUÇ: Yukarıda 1. bentte açıklanan nedenlerle tarafların diğer temyiz itirazlarının reddine, 2. bent uyarınca kabulü ile temyize konu ... Bölge Adliye Mahkemesi 27. Hukuk Dairesi kararının kaldırılarak, ilk derece mahkemesi hükmünün taraflar yararına BOZULMASINA …
 
 ## Yargıtay 15. HD 2019/4778 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/561152400)
 
 2-... Noterliği'nin 27.04.2005 gün 7046 yevmiye nolu düzenleme şeklinde gayrimenkul satış vaadi ve kat karşılığı inşaat yapım sözeşmesinin 14. maddesinin 2. fıkrasında yüklenici ... ve ..., arsa sahiplerine ait bağımsız bölümleri sözleşmede belirtilen süre içinde iskan raporu alınmış bir durumda anahtar teslimi olarak tamamlayıp teslim etmedikleri takdirde her geçen ay ve arsa sahiplerine bağımsız bölüm için günün rayiç bedeli üzerinden kira bedeli ödemeyi kabul etmişlerdir. Maddenin devamında bu durumun 6 ayı geçemeyeceği, inşaatın teslim süresi 6 ayı geçtikten sonra mal sahiplerinin mahkemeye müracaatla akdin feshini ve bu yönde uğradıkları bil cümle zarar ve ziyanlarını yükleniciden istemekte serbest oldukları kararlaştırılmıştır.
 
@@ -111,6 +127,8 @@ Bu durumda mahkemece hükme esas alınan raporu düzenleyen bilirkişi kurulunda
 sayılı dosya davalıları arsa sahiplerin diğer karar düzeltme taleplerinin reddine, 2. bent uyarınca kabulü ile Yargıtay 23. Hukuk Dairesi’nin 10.10.2018 gün, 2015/9588 Esas, 2018/4625 Karar sayılı ilamının kaldırılarak, hükmün arsa sahipleri yararına BOZULMASINA …
 
 ## Yargıtay 15. HD 2019/4772 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/561149300)
 
 Dava, arsa payı karşılığı inşaat yapım sözleşmesinden kaynaklanmış olup, eksik ve kusurlu işlerin giderim bedeli ile geç teslim nedeniyle gecikme tazminatı alacağının tahsili istemine ilişkindir.
 
@@ -129,6 +147,8 @@ SONUÇ: Yukarıda 1. bentte açıklanan nedenlerle ..., ... ve ...'un karar düz
 
 ## Yargıtay 15. HD 2019/3835 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/537274200)
+
 Davacı arsa sahibi davasında davalı yüklenicinin temerrüdü, sözleşmeye aykırı eksik ve kusurlu inşaat yapması sebebiyle gecikme bedellerinin (tazminatının) tespiti ile 30.000,00 TL'nin tahsilini, sözleşmenin feshini, sözleşmenin feshi talebi kabul edilmezse eksik ve ayıplı imalâttan kaynaklanan toplam 148.698,14 TL alacağın tespiti ile 70.000,00 TL'sinin tahsilini ve davalıya inşaattan el çektirilmesine karar verilmesini talep etmiştir. Dava dilekçesinin dava konusu kısmında sözleşmenin ileriye yönelik feshinin istendiği yazılmakla birlikte, sonuç ve istem kısmının 2. bendinde ileriye ya da geriye etkili olduğu açıklanmaksızın sözleşmenin feshine denilerek talepte bulunulmuş, mahkemece davanın fesih talebinin ileriye mi yoksa geriye etkili mi olduğu sorulup açıklattırılmamıştır.
 
 …
@@ -144,6 +164,8 @@ SONUÇ: Yukarıda 1. bentte açıklanan nedenlerle davalıların diğer temyiz i
 
 ## Yargıtay 15. HD 2019/3707 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/538944100)
+
 Davalı, davacıların teslim tarihinden önce bağımsız bölümlere taşındıklarını ve kullanmış oldukları dairelerin kira bedellerini talep ettiklerini, sözleşmenin 6. maddesinde dairelerin kabul protokolünün dava dışı ... tarafından tanzim edileceğinin ve protokolünün mülk sahipleri, müteahhit ile tanzim eden tarafından imzalanacağının hüküm altına alındığını, dairelerin 07.03.2006 tarihli kabul protokolü ile teslim edildiğini ancak davacıların imzadan imtina ettiklerini belirterek davanın reddini talep etmiştir.
 
 …
@@ -153,6 +175,8 @@ Arsa sahibi kendisine bırakılan bağımsız bölümler ile ilgili ancak bağı
 SONUÇ: Yukarıda 1. bentte açıklanan nedenlerle davalının diğer temyiz itirazlarının reddine, 2. bent uyarınca kabulü ile hükmün davalı yararına BOZULMASINA …
 
 ## Yargıtay 15. HD 2019/3619 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/538785000)
 
 Davacı vekili müvekkili ile davalı kooperatif arasında, İskenderun 2. Noterliği'nin 03.06.1996 tarih 10827 yevmiye nolu ve ek 30.12.1996 tarih ...yevmiye nolu arsa payı karşılığı inşaat sözleşmesi imzalandığını, sözleşmelere göre maliki bulunduğu İskenderun ... köyü 316 parselde payı karşılığında inşaat yapılarak 2 adet dubleks daire verilmesinin kararlaştırıldığını, yapılan ifraz tevhitler sonucunda oluşan 1987, 1988, 1989 1991, 1992 parsellerde tarafların paydaş olduklarını, 1994 parselin müstakilen davalıya kaldığını, sözleşmeye göre inşaatın 25.05.1999 tarihinde anahtar teslimi yapılması, gecikme halinde her daire için aylık 250 TL kira tazminatı ödenmesi gerektiğinden, 86 ay geçmesine rağmen teslim edilmeyen daireleri için 43.000,00 TL'nin teslimi gereken 25.05.1999 tarihinden itibaren işleyecek ticari avans faiziyle birlikte davalıdan tahsilini istemiştir.
 
@@ -167,6 +191,8 @@ Bu hükme göre; arsa payı karşılığı inşaat sözleşmesinin ve ona bağl�
 SONUÇ: Yukarıda açıklanan nedenlerle, davalı vekilinin temyiz talebinin kabulü ile hükmün davacı yararına BOZULMASINA …
 
 ## Yargıtay 15. HD 2019/3397 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/535498500)
 
 Taraflar arasında yöntemine uygun olarak yapılıp imzalanan ... 4. Noterliği'nin 19.10.2010 tarih ve 24311 yevmiye nolu düzenleme şeklinde gayrimenkul satış vaadi ve kat karşılığı inşaat sözleşmesinde aşamalı devir öngörülmüş olup sözleşmede binanın 3. kat tabliye betonu atılınca 1 bağımsız bölümün 4. kat betonu atılınca 1 bağımsız bölümün, sıva bitince 1 bağımsız bölümün bina bitirilip ön iskan alınınıp teslim edilince geriye kalan diğer bağımsız bölümlerin tapularının ferağının yükleniciye verileceği kararlaştırılmıştır. Dosyaya sunulan ... Belediyesi İmar ve Şehircilik Müdürlüğü'nce düzenlenen yapı kullanma izin belgesi ve arsa sahibi ... tarafından ibraz edilen makbuz asıllarından, yapı kullanma izin belgesinin asıl ve birleşen davanın açıldığı tarihlerden sonra 24.03.2014 tarihinde alındığı anlaşılmakta olup yapı kullanma izin masraflarının makbuz asıllarının arsa sahibi elinde olması nedeniyle ödemelerin onun tarafından yapıldığının karine olarak kabulü gerekmektedir.
 

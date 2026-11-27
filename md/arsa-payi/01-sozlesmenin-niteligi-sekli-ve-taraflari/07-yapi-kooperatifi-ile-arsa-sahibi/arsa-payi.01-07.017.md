@@ -22,12 +22,16 @@ uyari: "Derleyenin seçtiği alıntılardır; kararın tamamı değildir. Künye
 
 ## İstanbul BAM 45. HD 2022/1362 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/836026100)
+
 Mahkemenin gerekçesinde ifade ettiği, ihtiyati tedbir kararın, üçüncü kişilerce başlatılan takipte taşınmazın cebren icra yolu ile satışının durdurulmasını engel teşkil etmediği yönündedir. Bu itibarla dosyaya ibraz edilen davalılar arasında düzenlenen gayrimenkul satış vaadi ve kat karşılığı inşaat sözleşmesi ile 20/07/2006 tarihli sulh anlaşması örneği, tapu kaydı, davacıya ait kooperatif kayıtları, İstanbul ... İcra Müdürlüğü ... sayılı dosyasından kooperatife gönderilen satış ilanı ve dava dilekçesine eklenen deliller dikkate alındığında bu aşamada yaklaşık ispat koşulu gerçekleştiği kabulü ile tedbir kararı verilmemesi halinde telafisi imkansız zararların doğma ihtimali bulunduğu anlaşılmakla 6100 sayılı HMK'nun 389 ve devamı maddeleri uyarınca davalı arsa sahipleri arasında görülen izalei şuyu davası sonucunda dava konu bağımsız bölümün cebri icra sonucu satışının engellenmesi yönünde ihtiyati tedbir kararı verilmesi gerekirken bu yöndeki talebin reddine karar verilmesi hatalı olmuştur.
 Mahkemece, davacı tarafça taşınmaz değerinin bildirilmediğinden şimdilik teminat miktarı 250.000,00 TL belirlenmiş ise de teminat miktarının yüksek olduğu, taşınmazın değeri tespit edildikten sonra teminat miktarı mahkemece yeniden takdir edileceği gözetilerek bu aşamada HMK 392. Maddesi hükmü uyarınca teminat miktarı 100.000,00 TL olarak kararlaştırılmıştır.Yukarıda açıklanan gerekçelerle, davaya konu bağımsız bölümünün, izale-i şuyu davası sonucunda taşınmazın cebri icra yoluyla satışının tedbiren durdurulması isteminin reddine ilişkin karara itiraz eden davacı vekilinin istinaf başvurusunun HMK. 353/1.b.2 maddesi uyarınca kabulüne, ilk derece mahkemesinin kararının kaldırılmasına, kazanılmış haklar gözetilirek uyuşmazlık konusu olan hususlar ve dosyadaki mevcut belgelere göre teminat mukabilinde ihtiyati tedbir kararı verilmesine dair aşağıdaki şekilde hüküm kurulmuştur.
 
 HÜKÜM:Gerekçesi Yukarıda Açıklandığı Üzere;1-Davacı vekilinin istinaf başvurusunun KABULÜ ile İstanbul Anadolu 10 Asliye Ticaret Mahkemesinin 2022/417 Esas sayılı dosyasında verilen 09/02/2022 tarihli davaya konu bağımsız bölümünün, izale-i şuyu davası sonucunda taşınmazın cebri icra yoluyla satışının tedbiren durdurulması talebinin reddine yönelik ara kararının HMK'nın 353/1-b-2. maddesi uyarınca KALDIRILMASINA ve YENİDEN KARAR VERİLMESİNE …
 
 ## Ankara BAM 31. HD 2022/1265 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/844867400)
 
 Davacı vekili; taraflar arasında alt yüklenici sözleşmesi imzalandığını, sözleşme gereğince ... ait olan sözleşmede belirtilen işe başlanılıp 03/11/2020 tarihinde eksiksiz şekilde işin tamamlandığını, tüm edimlerin yerine getirildiğini, yapılan iş edimleri karşılığında davalı kooperatife ait D tipi 22 nolu villanın mülkiyetinin Alt Yüklenici Sözleşmesine istinaden müvekkile devrinin talep edildiğini, ancak henüz devir işleminin gerçekleşmediğini ileri sürerek, davanın kabulüne, davalı adına kayıtlı ... nolu villanın tapu iptali ve müvekkil adına tescil edilmesini talep ve dava etmiştir.
 
@@ -50,6 +54,8 @@ Bu durumda mahkemece şahsi hak temlikinin adi yazılı sözleşme ile yapılmas
 
 ## İstanbul BAM 17. HD 2022/1133 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/817715000)
+
 Davalı kooperatif vekili cevabında; taraflar arasında müvekkili kooperatifin inşaat işinin yapılması hususunda 20/04/2011 tarihli sözleşme düzenlendiğini, sözleşmenin 2. maddesi uyarınca davacı yüklenicinin kooperatife avans ödeyeceğini, müvekkili kooperatifin de ödeme ile birlikte 20 adet daire üzerinde yüklenici lehine 20.000.000,00 TL bedelli ipotek tesis edeceğini, ancak kooperatif genel kurulunun yapılmaması ve ipotek konulması için yetki verilmemesi nedeniyle taraflar arasında 08/06/2011 tarihli ek sözleşme düzenlenerek davacı yükleniciye teminat amacıyla 2.000.000,00 TL bedelli senet verilmesinin kararlaştırıldığını, davacının iflas takibine dayanak senedin teminat amacıyla verildiğini, teminat senedine bağlı bir takipten dolayı müvekkilinin iflasının istenemeyeceğini, ayrıca kooperatifin davacı yükleniciden toplam 1.201.000,00 TL ödeme aldığını, bu borca karşılık 500.000,00 TL ödendiğini, buna göre davacının alacağının 701.000,00 TL olmasına rağmen 2.000.000,00 TL bedelli senedin takibe konulduğunu belirterek davanın reddini savunmuştur.
 
 …
@@ -68,6 +74,8 @@ Anılan senet kayıtsız şartsız belirli bir paranın ödeme vaadini içermedi
 
 ## İzmir BAM 6. HD 2021/1963 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/683082900)
+
 Dava, Kat Karşılığı İnşaat Sözleşmesi'nin iptali istemine ilişkindir.
 
 …
@@ -75,6 +83,8 @@ Dava, Kat Karşılığı İnşaat Sözleşmesi'nin iptali istemine ilişkindir.
 Somut olayda; Davacının gerçek kişi olduğu, diğer davalılar ile birlikte arsa sahibi olduğu, davalı kooperatifle yapılan kat karşılığı inşaat sözleşmesinin iptaline ilişkin uyuşmazlığın niteliği, davacı ve dahili davalıların gerçek kişi oldukları gözetildiğinde uyuşmazlığın Asliye Hukuk Mahkemesince görüp sonuçlandırılması gerekir.
 
 ## İzmir BAM 11. HD 2021/877 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/669711800)
 
 İLK DERECE MAHKEMESİ KARARININ ÖZETİ :
 Mahkemece iddia, savunma, benimsenen bilirkişi raporu ve tüm dosya kapsamına göre, iptali istenen asıl davadaki 12.05.2016 tarihli genel kurulun 4. maddesinin ve birleşen 2016/1149 Esas sayılı dosyadaki 06.09.2016 tarihli Olağanüstü Genel Kurul'un 2. gündem maddesinin iptali istemli davada toplantı ve karar yeter sayısının sağlandığı, kat karşılığı inşaat sözleşmesi gereği yüklenicinin edimini yerine getirmesi durumunda sözleşme gereği kendisine devri gereken bağımsız bölümleri almasının doğal olduğu, buna ilişkin bir genel kurul kararına bile gerek bulunmadığı, ancak yine de davalı kooperatifin bu hususta davaya konu genel kurul kararlarını aldığı, her iki genel kurul kararının kooperatif üyelerinin mali yükümlülüğünü arttırmadığı gibi sözleşmenin önceki yüklenicisi .....'nin edimini süresinde yerine getirememesi nedeniyle sürüncemede kalan inşaat işinin bir an önce neticelendirilmesi bakımından kooperatif üyelerinin lehine olduğu, kaldı ki davalı kooperatifin önceki yüklenicisi .....'nin bu hususta herhangi bir itirazının da bulunmadığı, dolayısıyla davacının kooperatif üyesi olarak kendisinin yüklenici kooperetiften alacağını tahsili amacına yönelik olarak bu davayı açtığı,
@@ -91,6 +101,8 @@ Davacı vekilinin istinaf başvurusunun Hukuk Muhakemeleri Kanunu'nun 353/1-b-1 
 
 ## İstanbul BAM 45. HD 2021/875 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/685560800)
+
 İLK DERECE MAHKEMESİ KARARI Mahkemece; "Davanın 30/03/2016 tarihli duruşma 1. Nolu ara kararı ile "Davacının davalılar arasındaki daire paylaşıma ilişkin protokollerin ve davalıların bu konudaki yönetim kurulu kararının iptaline ilişkin davasının TTK'nun 448.
 
 …
@@ -106,6 +118,8 @@ Bu protokol uyarınca, davalı kooperatife A Blok 20, A Blok 84 no'lu bağımsı
 H Ü K Ü M : Gerekçesi yukarıda izah edildiği üzere; 1-Davacı vekilinin istinaf başvurusunun KABULÜ ile İstanbul 7. Asliye Ticaret Mahkemesinin 2016/380 E. 2018/212 K. sayılı 08/03/2018 tarihli kararının 6100 sayılı HMK'nun 353/1.a.6 maddesi uyarınca KALDIRILMASINA …
 
 ## İstanbul BAM 17. HD 2021/72 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/626676500)
 
 Dava, davalı kooperatif üyesi olan davacıya, tahsis edilen bağımsız bölümlerin geç tesliminden kaynaklanan alacak istemine ilişkindir.
 
@@ -125,6 +139,8 @@ H Ü K Ü M: Yukarıda açıklanan gerekçelerle; 1-Davacının istinaf başvuru
 
 ## İstanbul BAM 17. HD 2019/1055 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/509575100)
+
 İLK DERECE MAHKEMESİ KARARI:Mahkemece, dosyaya sunulan belge ve kayıtlarla birlikte bilirkişi heyetinin düzenlemiş olduğu 23/01/2012 tarihli bilirkişi raporlarında, davacıların davalı ...Yapı Kooperatifi ortağı oldukları, davacıların diğer davalılar ile herhangi bir akdi ilişkilerinin bulunmadığı, davalı...yönünden tescil ve alacak taleplerinin davanın erken açılması nedeniyle henüz doğurmadığına ilişkin beyanın yeterli görülerek hükme esas alındığı, her ne kadar yargılama aşamasında İstanbul Anadolu 9.
 
 …
@@ -143,6 +159,8 @@ Yapı Kooperatifinin ortakları olması nedeniyle tahsise dayalı haklarını an
 HÜKÜM: Yukarıda açıklanan nedenlerle: 1-Davacılar vekilinin aşağıdaki bendin kapsamı dışındaki diğer istinaf nedenlerinin REDDİNE,2-Davacılar vekilinin davalılar yararına hükmedilen vekalet ücretine ilişkin istinaf başvurusunun KABULÜNE,3-Bakırköy 5. Asliye Ticaret Mahkemesinin 2010/598 Esas, 2017/1231 Karar ve 27/12/2017 tarihli kararının KALDIRILMASINA …
 
 ## İstanbul BAM 15. HD 2019/231 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/475984900)
 
 Asıl dava taraflar arasındaki kat karşılığı inşaat sözleşmesi kapsamında alacak, tazminat, davalı lehine konulan inşaat teminat ipoteklerinin kaldırılması ve iadesi; davalı kooperatifçe açılan karşı dava ise sözleşmeye konu inşaattaki eksikler nedeniyle kooperatifçe yapılan harcamaların tahsili istemine ilişkin olup mahkemesince davalı kooperatifin tacir niteliğini taşımadığı ve davanın Türk Ticaret Kanunun 4.maddesinde tanımlanan ticari dava niteliğinde olmadığı gerekçesiyle verilen görevsizlik kararına karşı davacı karşı davalı ı... A.Ş vekilince istinaf talebinde bulunulmuştur.Davacı/karşı davalı ticari şirket olup tacir niteliğinde bulunduğu gibi davalı/karşı davacı SS Otomotiv Yedek Parça İth. ve Top. Konut/toplu İşyeri Kooperatifi olup ortaklarının tacir niteliğinde bulunduğu ve sözleşmeye konu işin ortaklarına işyeri ve ortak kullanım alanı inşaatını konu alması nedeniyle tarafların ticari işletmeleriyle ilgili olduğui 6102 Sayılı Türk Ticaret Kanunun 4.maddesi kapsamında ticari dava niteliğindedir. Yine aynı kanunun 5.maddesi gereğince de ticari davaların Asliye Ticaret Mahkemelerinde görülmesi gereklidir.
 Mahkemenin görevsizlik kararını gerekçe yapmış olduğu Yargıtay Yüksek 15.Hukuk Dairesinin içtihatı gerçek kişilerden oluşan dar gelirli ortakların konut sahibi olmasını amaçlayan konut yapı kooperatiflerine ilişkindir. Tüm bu açıklamalar kapsamında mahkemesince davanın esası incelenerek hüküm kurulması gerekirken yazılı gerekçeyle görevsizlik kararı verilmesi doğru olmamış HMK 353/1-a-3 maddesi gereğince mahkeme kararı kaldırılarak dosyanın mahal mahkemesine gönderilmesi gerekmiştir.

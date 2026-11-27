@@ -20,9 +20,13 @@ uyari: "Derleyenin seçtiği alıntılardır; kararın tamamı değildir. Künye
 
 ## Yargıtay HGK 2024/107 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1012700900)
+
 Sonuç olarak mahkemece yüklenicinin arsa payı karşılığı inşaat sözleşmesinden doğan şahsî hakkını temlik alan davacı-karşı davalının, davalı-karşı davacı yüklenici şirkete ödemekle yükümlü olduğu bakiye bedel ile davalı arsa sahiplerine karşı yüklenicinin eksik bıraktığı işlerin tamamlanması ya da bedelinin depo edilmesi karşılığında asıl ve karşı davadaki talepler hakkında birlikte ifa kuralı gereğince karar verilmelidir.
 
 ## Yargıtay HGK 2023/839 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/954158700)
 
 Netice itibariyle; mahkemece davacının dava konusu bağımsız bölümün kat karşılığı inşaat sözleşmesi gereğince yükleniciye isabet eden daire olduğunu ispatlayamadığı, yüklenicinin kişisel hakkını temlik alan üçüncü kişi konumundaki davacı ile davalı ... ve ... İnşaat Müt. Tic. ve San. Ltd. Şti. arasında imzalanan 30.11.2005 tarihli satış sözleşmesinin davalı arsa sahibi ... ...’ye karşı ileri sürülemeyeceği gerekçesiyle davanın reddine dair verilen direnme kararı yerinde ve doğru olmuştur.
 

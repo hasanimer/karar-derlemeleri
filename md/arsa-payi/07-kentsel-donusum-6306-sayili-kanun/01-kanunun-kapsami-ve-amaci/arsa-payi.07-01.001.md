@@ -44,6 +44,8 @@ Davanın yukarıda özetlenen gerekçeyle süre aşımı nedeniyle reddine iliş
 
 ## Danıştay VDDK 2023/1000 E., 2025/454 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1183632300)
+
 6306 sayılı Kanun kapsamında yapılacak devir ve tesciller için vergi ve harç istisnasının hangi durumlarda uygulanması gerektiğinin Kanun'da yapılan ve 10/12/2018 tarihinden itibaren geçerli olan değişiklik öncesi ve sonrası dönemler için ayrı ayrı incelenmesi gerekmektedir.
 
 6306 sayılı Kanun'un 7. maddesinin (9) numaralı fıkrasının ilk hali ile 6306 sayılı Kanunun Uygulama Yönetmeliği'nin 16. maddesinin (9) numaralı fıkrasına 25/07/2014 tarihinde eklenen (ç) bendinde, kentsel dönüşüm uygulamaları ile oluşturulan bağımsız bölümlerin, işi yüklenen müteahhit ya da dönüşüm uygulaması öncesinde riskli taşınmazın maliki tarafından satılmasıyla ilgili olarak satış işlemine ilişkin ödenen tapu harcı istisnası yönünden bir ayrıma gidilmediği görülmüştür. Bu durumda, riskli yapı niteliği taşıyan taşınmazların yıkılarak 6306 sayılı Kanun kapsamında yeniden inşasına ilişkin kentsel dönüşüm uygulamalarının, Kanun'un amacını gerçekleştirmeye yönelik olduğu, uygulama sonrasında inşa edilen konutların üçüncü kişilere ilk satış işlemlerinin de bu Kanun kapsamında değerlendirilerek Kanun'un 7. maddesinin (9) numaralı fıkrası uyarınca vergi ve harçtan istisna olması gerektiği sonucuna varılmıştır.
@@ -57,6 +59,8 @@ Madde metninde de açıkça görüldüğü üzere, dönüşüm uygulamaları son
 
 ## Danıştay İDDK 2024/1812 E., 2024/2330 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1123362900)
+
 Riskli alanda yürütülen kentsel dönüşüm çalışmaları kapsamında 27/07/2023 tarihli uzlaşma davetiyesinin davacılara tebliğinin ise, daha önce murisleri hayattayken süresi içinde dava konusu edilmeyen riskli alan kararı hakkında, davacılar yönünden yeni bir dava açma süresini başlatacağının hukuken kabulü mümkün değildir. Bu nedenle davacılar tarafından, 28/07/2023 tarihinde açılan davanın süre aşımı nedeniyle incelenmesine olanak bulunmamaktadır.
 
 …
@@ -65,6 +69,8 @@ Dava konusu işlemin yukarıda özetlenen gerekçeyle iptaline ilişkin Danışt
 
 ## Danıştay VDDK 2023/746 E., 2024/876 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1087696000)
+
 Bu durumda, davacıya ihale edilen işin, 5393 sayılı Kanun'un 73. maddesinin altıncı fıkrası kapsamında kentsel dönüşüm ve gelişim alanı içerisinde kalan mevcut yapıların yıkılarak yeniden yapımına değil, bu uygulama alanında inşası planlanan "yeni" konut ve iş yerlerinin yapımına ilişkin olması karşısında davacı tarafından yapımı üstenilen yapıların münferit yapı niteliğini taşıdığından söz edilemeyeceğinden, davacının anılan maddede öngörülen kısmi istisnadan yararlandırılmasına olanak bulunmadığı açık olup dava konusu işlemde hukuka aykırılık bulunmamaktadır.
 
 …
@@ -72,6 +78,8 @@ Bu durumda, davacıya ihale edilen işin, 5393 sayılı Kanun'un 73. maddesinin 
 2- ... Bölge İdare Mahkemesi .... Vergi Dava Dairesinin ... tarih ve E:..., K:... sayılı ısrar kararının BOZULMASINA …
 
 ## Danıştay İDDK 2023/408 E., 2024/364 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1062142500)
 
 Davalı idarece verilen 24/11/2021 tarihli ara kararına cevap dilekçesinde ise, gelinen tarih itibarıyla alanda bulunan 103 adet yapının depremde yıkılan 40 adedi dahil 88 adedinin tahliye edilerek yıkımının gerçekleştirildiği, kalan 16 adet yapıya ilişkin iş ve işlemlerin ise devam ettiği belirtilmiştir.
 
@@ -85,6 +93,8 @@ Dava konusu 26/08/2020 tarih ve 2878 sayılı Cumhurbaşkanı Kararının davac�
 
 ## Danıştay İDDK 2022/850 E., 2022/2479 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/923354500)
+
 İşyeri açma ve çalışma ruhsatı verilmesi istenilen taşınmazın bulunduğu bölgenin Kentsel Dönüşüm ve Gelişim Proje Alanında kalmakla birlikte, bu kapsamda herhangi bir uygulama yapılmadığı dikkate alındığında, davacının, talebi hakkında, işyeri açma ve çalışma ruhsatı verilmesine ilişkin Kanun ve Yönetmelikte yer alan kriterler bakımından inceleme yapılarak karar verilmesi gerekirken, kentsel dönüşüm ve gelişim proje alanında kaldığından bahisle, işyeri ruhsat talebinin reddine ilişkin dava konusu işlemde hukuka ve mevzuata uyarlık bulunmadığı gerekçesiyle dava konusu işlemin iptaline karar verilmiştir.
 
 …
@@ -92,6 +102,8 @@ Dava konusu 26/08/2020 tarih ve 2878 sayılı Cumhurbaşkanı Kararının davac�
 Dava konusu işlemin yukarıda özetlenen gerekçeyle iptaline ilişkin ... İdare Mahkemesinin … tarih ve E:…
 
 ## Danıştay İDDK 2021/3627 E., 2022/385 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/780561900)
 
 Bu bağlamda davalı idareler tarafından, kentsel dönüşüm işlemleri kapsamında yapılacak uygulamalarda 2942 sayılı Kanun'un 27. maddesi uyarınca acele kamulaştırma usulünün uygulanmasına ihtiyaç duyulduğu belirtilmekte ise de; hangi gerekçelerle acele kamulaştırma usulünün uygulanmasının istenildiği konusunda yeterince açıklamaya yer verilmediği görülmektedir. Öte yandan, Gaziosmanpaşa Belediye Başkanlığınca da, listede yer alan taşınmazların tamamının kamulaştırılmasının Belediye bütçesi açısından mümkün olmadığı belirtilmektedir. Her iki husus birlikte değerlendirildiğinde, söz konusu taşınmazların kamulaştırılması bakımından acelelik hali bulunmadığından, acele kamulaştırmaya yönelik dava konusu Bakanlar Kurulu Kararında hukuka uyarlık görülmemiştir.
 
@@ -101,9 +113,13 @@ Bu bağlamda davalı idareler tarafından, kentsel dönüşüm işlemleri kapsam
 
 ## Danıştay VDDK 2022/2 E., 2022/7 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1094158600)
+
 6306 Sayılı Kanun'un "Dönüşüm gelirleri" başlıklı 7. maddesinin (9) numaralı fıkrasının 10/12/2018 tarihli değişiklikten önceki halinde sadece riskli yapı yerine yapılan taşınmazların yapımının tamamlanmasına kadar olan işlemlerin Kanun'da öngörülen istisnadan yararlanabilecekleri hususunda açık bir ifade bulunmadığından, bu Kanun kapsamındaki taşınmazların üretimi aşamasında yapıyla hukuki bağı olanların bağı olmayan üçüncü kişilere devri halinde devir işlemlerinin de istisna kapsamında olduğunun Kanun'un amacıyla çelişmediği kabul edilebilecektir.
 
 ## Danıştay İDDK 2021/1908 E., 2021/1515 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/716170100)
 
 Riskli alan ilanına ilişkin dava konusu Cumhurbaşkanı kararının dayanak ve gerekçesi arasında 6306 sayılı Kanun'un 2. maddesinin de gösterilmiş olması nedeniyle, alandaki yapılardan, zemin yapısı bakımından risk teşkil eden yapılar ile üzerindeki yapılaşma sebebiyle can ve mal kaybına yol açma riski taşıyan ruhsatlı ve iskânlı yapıların da riskli alan sınırı içerisine alınmasına hukuken herhangi bir engel bulunmadığı, …
 
@@ -180,6 +196,8 @@ Planlı Alanlar İmar Yönetmeliğinin Geçici 3. maddesinin 5. fıkrası, "Bu f
 
 ## Danıştay 4. D. 2024/2922 E., 2025/5554 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1191069700)
+
 İlk Derece Mahkemesi kararının özeti: ... İdare Mahkemesince verilen ... tarih ve E:..., K:... sayılı kararda; davacının murisi olan eşi ...'un ortağı/yönetim kurulu başkanı/kanuni temsilcisi olduğu ...
 
 …
@@ -191,6 +209,8 @@ Bu durumda; davacının, borçlu şirketin yetkilisi/ortağı/kanuni temsilsicis
 Temyize konu ... Bölge İdare Mahkemesi ... İdare Dava Dairesinin ... tarih ve E:..., K:... sayılı kararının BOZULMASINA …
 
 ## Danıştay 4. D. 2025/3936 E., 2025/4940 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1194887400)
 
 İlk Derece Mahkemesi kararının özeti: ...
 

@@ -20,11 +20,15 @@ uyari: "Derleyenin seçtiği alıntılardır; kararın tamamı değildir. Künye
 
 ## Yargıtay 15. HD 2021/2161 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/667010500)
+
 Dosya içinde bulunan tarihsiz belge başlıklı muvafakatnamede davalı ...’nin R. ... tarafından yapılan satışlara muvafakat ettiği beyan edilmiştir. ... ... ile R. ... arasında kurulan adi ortaklığın 10.01.2004 tarihinde sona erdirilmesine rağmen 05.10.2004 tarihli arsa sahipleri ile yapılan ek sözleşmede kararlaştırılan edimlerden davalı ... ...’ın da sorumlu olduğu 2. Asliye Hukuk Mahkemesinin 2008/617 Esas, 2012/93 Karar sayılı ilamını onayan ... 23. Hukuk Dairesince kabul edilmiştir. Hal böyle olunca adi ortaklık tarafından imzalanan kat karşılığı inşaat sözleşmesi uyarınca taahhüt altına giren adi ortakların 3. kişilere karşı sözleşme sorumluluğunun devam ettiğinin kabulü gerekir.
 
 Adi ortaklar yaptıkları işler nedeniyle 3. kişilere karşı müştereken sorumludurlar. Adi ortaklık sözleşmesinin 10.01.2014 tarihinde feshedilmiş olması adi ortakların iç ilişkisi açısından sonuç doğurur. 3. kişilerin bu fesihten etkilenmeleri mümkün değildir. Tüm bu gerekçeler doğrultusunda adi ortaklar tarafından yapılan kat karşılığı inşaat sözleşmesi sonucunda oluşacak dairelerin satılması ve teslim edilmemesi sonrasında sorumluluk adi ortaklığın ortaklarına aittir ve bu sorumluluk müşterek müteselsildir.
 
 ## Yargıtay 3. HD 2015/11973 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/146608100)
 
 Bilindiği üzere, tasfiyeye ilişkin adi ortaklık hükümleri, niteliği gereği tamamlayıcı hükümlerdir. Bu hükümlerin tamamlayıcı nitelikte olmasının temel nedeni, tasfiyenin iç ilişkiyle ilgili olması ve üçüncü kişilere karşı ortakların müteselsil sorumluluğunun devam etmesidir. Diğer bir anlatımla, adi ortaklığın tasfiyesinde tamamen irade özerkliği ilkesi hakimdir. Bu ilkenin bir sonucu olarak ortaklar, ortaklığın tasfiyesinin nasıl ve kimler tarafından yapılacağını ortaklık sözleşmesinde kararlaştırabilirler. Böyle bir kararlaştırmanın bulunması halinde, kanuni tasfiyenin uygulanmasına gerek yoktur.
 
@@ -33,6 +37,8 @@ Bilindiği üzere, tasfiyeye ilişkin adi ortaklık hükümleri, niteliği gere�
 Buradaki temel mesele adi ortaklığı temsile yetkili kişinin almış olduğu borç paralar ile adi ortaklığın amacı dışında bir kullanım sergilemiş ise bu durumun adi ortaklığın iç ilişkisi içinde çözülmesi gereken bir konu olduğu gerçeğidir. Davacı tarafın adi ortaklığın yüklendiği işi yapamadığı, işi devrettiği vb. beyanlarının tamamı diğer tüm iddilarında olduğu gibi adi ortaklığın iç ilişkisini ilgilendiren konulardır. bu hususlar da müvekkilimize karşı ileri sürülemez. davacı taraf bu itirazlarını adi ortaklık içinde ortakları ile çözmesi gerekmektedir. usul ve yasaya uygun olarak borç para veren ve karşılığında senet alan müvekkilimizin elinde bulunan senet, daha sonradan adi ortaklığın iç ilişkisindeki bazı sorunlar sebebi muvazaalı hale gelmeyecektir. Yerel Mahkemece muvazaa iddiasına gerekçe gösterilen bu hususun hukuken ispata elverişli delil vasfı olmadığı gibi yine yukarıda izah edildiği üzere adi ortaklık yetkilisinin adi ortaklık üzerinden borçlanarak paraları başka amaçlar için kullanmış olma ihtimalinde de senedin muvazaalı olmayacağı açıkça görülmektedir. Yerel Mahkeme hatalı değerlendirmede bulunmuştur. Yüksek Yargı kararları da haklılığımızı ortaya koymaktadır.
 
 ## Sakarya BAM 7. HD 2026/418 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1199673600)
 
 Dava işveren mali sorumluluk sigorta poliçesinden kaynaklanan rücuen tazminat talebine ilişkindir.
 
@@ -43,6 +49,8 @@ Noterliğinin 29.11.2021 tarihli ve ... yevmiye sayılı ibranamesinden anlaşı
 
 ## İstanbul BAM 53. HD 2026/200 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1194714300)
+
 Taraflar arasındaki uyuşmazlık , Türk Borçlar Kanunun 470 ve devamı maddelerinde düzenlenen eser sözleşmesi sebebiyle iş kazasından kaynaklanan rucuen alacak davasıdır. Davacılar iş sahibi, davalı yüklenicidir.Davacılar, davalı yükleniciye 23.08.2007 tarihli sözleşme ile anahtar teslim ... İnşaat, montaj işini verdiklerini, davalının, taşeronu dava dışı ... şirketinin işçisinin iş kazası geçirdiğini ve dava dışı kazazade işçinin davacılar, davalı ve ... şirketine karşı açtığı Trabzon 1.İş Mahkemesi'nin 2014/331 Esas ve 2019/138 Karar sayılı davasını kazandığını, bu davada, 54.547,25 TL maddi tazminatın ve 9.000,00TL manevi tazminatın davalılardan müteselsilen tahsiline karar verildiğini, bu kararın BAM'dan geçerek kesinleştiğini, karar sebebiyle İstanbul 14. İcra Müdürlüğü'nün ... Esas saylı dosyasına 11.03.2020 tarihinde 163.775,24-TL ve 02.03.2020 de 5.125,00TL ödediğini, bu paranın 100.000,00-TL'sini ... şirketinden aldığını, bakiye 68.900,24-TL'nin davalıdan tahsilini talep etmiştir.
 Davalı, %10 kusurları olduğunu, iç ilişkide birbirlerine karşı kendi kusurları ile sorumlu olduklarını belirterek, davanın reddini talep etmiştir.Yerel mahkemece, taraflar arasındaki sözleşmenin 23. Maddesine göre, iş kazasından davalının tamamen sorumlu olduğunu belirterek davanın kabulü ile, 68.900,24 TL'nin davalıdan faizi ile tahsiline karar verilmiştir.Taraflar arasındaki sözleşmenin 23. maddesinde, işin yapılması sırasında iş kazası gibi nedenlerle uğranılan zarardan yüklenicinin sorumlu olacağı kararlaştırılmış olup, bu husus iş sahibi açısından TBK'nın 115. maddesinde düzenlenen sorumsuzluk anlaşmasıdır.
 Sorumsuzluk anlaşması ağır kusur halinde uygulanamaz.Dava dışı işçinin iş mahkemesinde açtığı davada alınan kusur raporuna göre, davacıların ortak olduğu, adi ortaklığın %5, davalının %10, dava dışı ... şirketinin %45, dava dışı işçinin %40 kusurlu olduğu tespit edilmiştir.Somut olayda Mahkemece kusura esas alınan bilirkişi raporu iş mahkemesinden alınan İş ve Sosyal Güvenlik Hukuku ilkelerine göre düzenlenen rapor olup, taraflar arasındaki eser sözleşmesi kapsamında esas alınamaz.Her ne kadar davacı sözleşmenin 23. maddesi gereği ödediği miktarın tümü için rücu talebinde bulunmuş ve mahkemece de anılan hüküm nedeniyle davanın kabulüne hükmedilmiş ise de, sorumsuzluk hükümleri kural olarak ancak ve sadece hafif kusur için geçerli olabileceğinden iş hukuku hükümlerine göre değil eser sözleşmesi ilke ve esaslarına göre tarafların kusur durumlarının belirlenmesi gerekir.
@@ -50,10 +58,14 @@ Mahkemece eksik incelemeye dayalı hatalı karar verildiği anlaşıldığından
 
 ## İstanbul BAM 3. HD 2025/2941 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1182878200)
+
 Adi ortaklıkta ,ortakların 3. kişilere karşı sorumluluğu TBK 638. maddede düzenlenmiştir.Adi ortaklıkta ,ortaklar arasında müteselsil borçluluk durumu mevcuttur.Müteselsil borçluların alacaklıya karşı dış ilişkide borcun tamamından sorumlu olmaları ,iç ilişkide sözkonusu olmayıp,borcun tamamını ifa eden müteselsil bir borçlu diğer borçlulara rücu hakkına sahiptir.Adi ortaklık sözleşmesinde borcun nasıl paylaşılacağına ilişkin düzenleme olup olmadığı değerlendirilmelidir.Sözleşmede düzenleme yoksa ve ayrıca bu konuda bir anlaşıma yapılmamışsa,ortakla borcu eşit olarak paylaşacaklardır.TBK 167/2 maddesi uyarınca iç ilişkide kendisine düşen paydan fazlasını ödeyen borçlu diğer müteselsil borçlulara rücu hakkına sahiptir.Mahkemece ,taraflar arasındaki iş ortaklığı sözleşmesi, vergi ve defter kayıtlarından; taraflar arasında bir adi ortaklık sözleşmesinin bulunduğu, bu ortaklık kapsamında iş yapıldığı, dava konusu senedin de adi ortaklık konusu iş nedeniyle düzenlenip verildiği,takibe konu alacak davacı ile davalının oluşturduğu adi ortaklığın borcuna ilişkin olduğu, adi ortaklığı ortağı olan davalı yerine de davacının ödeme yaptığı anlaşıldığından takip tarihi itibariyle 31/10/2014
 vade tarihli 340.541,00 TL bedelli senetten dolayı davacının davalıdan 181.655,00 TL alacaklı olduğu şeklindeki kabul ve takdirinde hata bulunmamaktadır.Böylece ,mahkemece verilen kararda maddi vakıa ve hukuki denetim yönlerinden usul ve hukuka aykırılık bulunmadığı anlaşılmakla, davalı tarafın istinaf talebinin reddine karar verilmesi gerekmiştir.
 
 ## İstanbul BAM 14. HD 2025/2078 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1188090400)
 
 Her iki dosyadaki davaların farklı hukuki nedenlerle zarardan sorumlu oldukları, kusur oranının rücu ilişkisinde önemli olduğu, bu davada davalılar arasındaki rücu ilişkisinin değerlendirilmesine gerek olmadığı anlaşılmaktadır.Mahkemece alınan bilirkişi raporu, yapılan tespit ve değerlendirmeler, dosya kapsamındaki belgeler ve fotoğraflar eksper raporuyla örtüşmektedir. İtiraz üzerine alınan 21.06.2021 tarihli ek kurul raporunda da tarafların itirazları denetime elverişli ve ayrıntılı şekilde değerlendirilmiştir. Mahkemece HMK'nın 282. maddesi uyarınca bilirkişi raporu diğer deliller ile birlikte serbestçe değerlendirilerek ve dosya kapsamına uygun gerekçe oluşturularak karar verilmiştir. Her ne kadar görevsiz mahkemede yapılan işlemlerin sonradan tekrarlanmadığı ileri sürülerek istinaf başvurusunda bulunulmuş ise de davanın açıldığı Gaziosmanpaşa 5.
 Asliye Hukuk Mahkemesince 05.09.2019 tarihinde görevsizlik kararı verildiği, bu tarihe kadar sadece dilekçelerin teatisi aşamasının tamamlandığı, bunun dışında tekrarlanması gereken bir usul işlemi yapılmadığı, birleşen dava yönünden dilekçelerin teatisi aşamasının ayrıca yapıldığı ve her iki dosya bakımından deliller ortaklaşa toplanarak hasar dosyasının istendiği ve bilirkişi raporunun alındığı görülmüştür. İlk derece mahkemesince oluşturulan hükmün infazı kabildir. Asıl dava bakımından birden fazla takip borçlusu bulunması nedeniyle asıl davanın hüküm fıkrasında hangi takip borçlusunun borçlu olduğunun ayrıca vurgulandığı görülmüştür. Birleşen dava bakımından ise adi ortaklığın ortağı olan tüm borçluların birlikte ve müteselsilen borçtan sorumlu olmaları karşısında birleşen dava bakımından her bir borçlunun adının yeniden zikredilmesine gerek bulunmamaktadır.Takip talebinde talep edilen faiz oranı gösterilmiş olup, davalılarca faiz oranına veya 3095 sayılı Kanun'un 4/a maddesinin uygulanmasına ilişkin açık bir istinaf başvurusu ileri sürülmemiştir.
@@ -64,11 +76,15 @@ AŞ vekilinin, icra inkâr tazminatına ilişkin istinaf başvurusunun değerlen
 
 ## İstanbul BAM 17. HD 2025/1662 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1187485200)
+
 Dosya kapsamında dosya kapsamında taşınmazın tapu kaydı ve yönetim planına rastlanılmıştır.Somut olayda, davacı ... şirketinin davalıdan rücuen tazminat talebi, ortak atık su borusundan kaynaklı zarardan davalının gerekli bakım ve onarımı yapmadığı iddiasına dayandığından öncelikle taşınmazda kat mülkiyetine geçilip geçilmediği tespit edilmesi gerekir. Kat Mülkiyeti Kanunu 19/3 maddesi uyarınca bağımsız bölüm maliklerinin kusurları ile diğer bağımsız bölümlere verdikleri zarardan dolayı diğer maliklere karşı sorumlu oldukları düzenlenmiştir.Öte yandan Yargıtay 17.
 Hukuk Dairesinin 2013/10267 Esas, 2014/14365 Karar ve 27/10/2014 tarihli kararında belirtildiği üzere, 634 sayılı Kat Mülkiyeti Yasası'nın 35. maddesi hükmünde, ana gayrimenkulün gayesine uygun olarak kullanılması, korunması, bakımı ve onarımı için kat maliklerinin yararına gereken tedbirlerin alınması yöneticinin görevleri arasında sayılmıştır.Yine aynı yasanın Ek-1 maddesi uyarınca Kat Mülkiyeti Kanunu'nun uygulanmasından kaynaklanan her türlü uyuşmazlığın Sulh Hukuk Mahkemesinde görüleceği kararlaştırılmıştır.Sonuç olarak yukarıda yapılan açıklamalar ışığında uyuşmazlığın ortak alandan kaynaklı zarar oluştuğu iddiası nedeniyle Kat Mülkiyeti Kanunundan kaynaklanıp kaynaklanmadığı ve Mahkemenin görevli olup olmadığının tartışılması gerekirken ilk derece mahkemesince yazılı olduğu şekilde davanın pasif husumetten reddine karar verilmesi isabetli olmamıştır. Kabule göre de, adi ortaklığın tüzelkilişiği bulunmayıp husumet ehliyetleri de olmadığından, davanın/icra takibinin tüm ortakların ayrı ayrı tespit edilerek onlara yöneltilmesi gerekir.
 Somut davada, davacı tarafından icra takibi ...ne karşı başlatılmış olup, iş ortaklığını oluşturan her üç şirket tarafından tayin edilen vekilin vekaletnamesini verip icra dosyasına itirazda bulunulduğundan icra takibinde taraf teşkili sağlanmıştır. Yargıtay Hukuk Genel Kurulunun 08.10.2003 tarih 2003/574 E-564 K sayılı ve Yargıtay 3 Hukuk Dairesi 2012/11789 E-2012/16355 K sayılı 28.06.2012 tarihli kararları da bu yöndedir.
 
 ## Adana BAM 9. HD 2025/914 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1144556300)
 
 Dava, menfi tespit davasıdır.
 
@@ -81,6 +97,8 @@ Esas sayılı dosyasıyla icra takibi başlatıldığını ve işbu icra takibin
 
 ## İstanbul BAM 3. HD 2024/2711 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1073428500)
+
 Nolu ilamda:"Davacılar iş bu davada, dava dışı Kuzeykim şirketinde davalı ... ile adi ortaklık- larının bulunduğunu iddia etmekte, adi ortaklığın fesih ve tasfiyesini, şirket hisselerinin dava dışı üçüncü kişiye devrinden kaynaklanan ortaklık payının tahsilini talep etmektedir.Bu aşamada, iç ortaklığın bir alt türü olan gizli adi ortaklık kavramı üzerinde kısaca durmak gerekir.Yargıtay 3. Hukuk Dairesi'nin 2020/3659 Esas, 2020/6509 Karar nolu 12/11/2020 tarihli ilamında da vurgulandığı üzere; Gizli adi ortaklıkta gizlilikten kasıt, dışarıya karşı işlemlerin ortaklık olarak yapılmamasıdır. Dolayısıyla gizli adi ortaklıkta, ortakların diğer hususlar yanında, bilhassa dışarıya karşı sadece bir ortağın görüneceği hususunda anlaşmaları gerekir. Bu haliyle gizli adi ortaklık tamamen bir iç ilişki halindedir. Yine gizli adi ortaklıkta ortakların elbirliğiyle hak sahibi oldukları bir ortaklık malvarlığı da yoktur. Tüm işlemler dışarıdan görülen aktif ortak tarafından kendi adına gerçekleştirilir.
 Bu ortaklık türünde, gerek sermaye olarak getirilen değerler, gerekse işlemler sonucunda elde edilen diğer değerler, dışa karşı görünen aktif ortağın malvarlığına aktarılır ve üzerinde sadece o ortağın tasarruf edebileceği, onun mülkiyetine tabi bir mal varlığı unsuru teşkil edilir (...).Bu sözleşme bağı çerçevesinde aktif ortağın üstlendiği temel edim, işletmeyi kendi adına fakat iç ilişkide hem kendi hem de gizli ortak hesabına işletmektir. Bunun doğal sonucu olarak aktif ortak olan davalı, elde edilecek olan işletme gelirinden gizli ortağa olan pay tutarını ödemeyi de yüklenmiş demektir (...)....’a göre; aktif ortak, iç ilişkide hem kendi, hem de gizli ortak hesabına olsa da, dışa karşı işlemleri sadece kendi adına gerçekleştirir. Bu bakımdan, ortaklığın temsili söz konusu değildir, aktif ortak temsilci konumunda bulunmamaktadır(...). ....’e göre ise, gizli adi ortaklık, dolaylı temsilin tipik bir örneğidir.
 
@@ -89,6 +107,8 @@ Yukarıdaki açıklamalar ışığında somut olay değerlendirildiğinde; davac
 "Davanın KABULÜ ile, 1.142.500,00-TL alacak, dava tarihi olan 04.06.2018 tarihinden geçerli işleyecek avans faizi ile davalıdan alınarak davacılara verilmesine" karar verilmiştir.Hüküm davalı tarafından istinaf edilmiştir Davalı vekili istinaf dilekçesinde;
 
 ## Ankara BAM 21. HD 2024/1584 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1110510400)
 
 Dava; işletme hakkı devir sözleşmesinden kaynaklanan rücuen alacak istemine ilişkindir.
 
@@ -100,6 +120,8 @@ davacı tarafından üçüncü kişiye yapılmış olan ödemenin davalıdan rü
 Rücuen alacak talebi taraflar arasında imzalanan İşletme Hakkı Devir Sözleşmesi'ne dayandığından 818 sayılı Borçlar Kanunu'nun 125. maddesine ( Türk Borçlar Kanunu'nun 146. maddesi) göre 10 yıllık zaman aşımı süresinin dolmadığı anlaşılmakla davalı yanın zaman aşımı itirazı yerinde görülmemiştir.
 
 ## İstanbul BAM 3. HD 2023/1836 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/907220600)
 
 Dava, adi ortaklığın fesih/tasfiyesi talebine ilişkindir.
 
@@ -113,6 +135,8 @@ Neticeten; ortaklığın yapılan Kat Karşılığı İnşaat sözleşmesi sonuc
 
 ## İstanbul BAM 45. HD 2023/841 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/910959600)
+
 Dava; sigortacının, dava dışı sigortalısına aralarındaki sigorta poliçesine dayanarak ödediği zarar bedelinin, zarardan sorumlu olduğunu iddia ettiği güvenlik şirketi olan davalıdan 6102 sayılı TTK'nın 1472. maddesi uyarınca rücuen tahsili istemine ilişkindir. Davacı sigorta şirketi ile sigorta ettiren dava dışı ... İnşaat, ... Mühendislik, ... İnş. Adi Ortaklığı arasında, dava dışı sigortalı ... A.Ş ye ait İstanbul Başakşehir ... 2. Etap arsa satışı karşılığı gelir paylaşımı projesi için 22/06/2017-31/12/2018 tarihlerini kapsayan İnşaat All Risk Sigorta Poliçesi düzenlenmiştir. Sigorta konusu şantiye tesislerinin bedeli 1.400.000,00TL, İnşaat işlerinin bedeli 221.260.246,67TL olarak belirlenmiştir. Poliçenin 2. sayfasında muafiyetler başlığı altında; ''poliçe, işveren (idare) ... A.şnin yazılı onayı ve bilgisi olmadan değiştirilemez ve iptal edilemez. Rizikonun gerçekleşmesi halinde sigorta şirketinin hakları saklı kalmak kaydıyla tazminat tutarı ... A.şnin yazılı onayı ile sigorta ettirene ödenir''. Poliçenin 11. Sayfasında özel şartlar başlığı altındaki 9. Maddesinde; ''hırsızlık veya hırsızlığa teşebbüsün;
 Kırma, delme, yıkma, devirme ve zorlamayla girilerek, -Araç, gereç veya bedeni çeviklik sayesinde tırmanma veya aşma suretiyle girilerek - Sigortalı yerlere gizlice girip saklanarak veya kapanarak, -öldürme, yaralama, zor ve şiddet kullanma veya tehditle, yapılması halinde meydana gelecek hasarlar teminat altına alınmıştır- Açıkta bulunan muhteviyat için 24 saat bekçi bulundurulması ve etrafının kifayet edecek halde kapatılmış/çevrelenmiş olması önşarttır'' hükümleri yer almaktadır. Dava konusu hırsızlık olayı 31/12/2017 tarihinde meydana gelmiş ve davacı sigorta şirketi tarafından sigortalısına 21/03/2018 tarihinde toplam 20.015,29 TL ödeme yapılmıştır.Rücu ve halefiyet, Yargıtay İçtihadı Birleştirme Kurulu'nun 22/03/1944 Tarih E. 37, K. 9, R.G. 03/07/1944 sayılı kararında "Sigortacının sorumlu kişi aleyhine açacağı dava, sigorta poliçesinden doğan bir dava olmayıp; aynen sigortalı kimsenin sorumlu kişiye karşı açmış olduğu bir dava gibidir.
 
@@ -120,6 +144,8 @@ Sigortalının muhtelif mahkemelerde dava açma hakkı varsa, aynı hak sigortac
 Yüklenici’nin, Başakşehir/İstanbul. adresinde bulunan ... 2.etap arsa satışı karşılığı gelir paylaşımı işi satış ofisi ve şantiye alanı danışmanlık ve gözetim hizmetlerinin danışman Personelleri ile danışmanlık çevre gözetme hizmeti vermesi işidir. Ayrıca işveren'in sabotaja, hırsızlığa, soyguna yağmaya,yıkıma, yangına, çalışanlarının işten karşı korunması, işveren dahilindeki can, mal, alcı, edevat, ekipmanın güvenliği ve korunması, işveren giriş ve çıkışlarında araç, insan, maİzeme ve her türlü faaliyetin kontrolü, ile ilgili tüm kayıtların tutulması ve muhafazası, işveren dahilinde meydana gelecek her türlü haksız fiilin önlenmesi, işveren 'in güvenliği ve huzuru için gerekli olan her türlü önlemin alınması, güvenlik ile itgili her türlü faaliyet ve güvenliği tehdit eden veya zedeleyen her türlü vak'a ve olgunun, suç teşkil eden adli olayların, İŞVEREN \*'e, adli ve idari birimlere, kolluk kuvvetlerinc bildirilmesidir. 3- Tarafların yükümlülükleri: 3.1 Yüklenicinin yükümlülükleri a.
 
 ## Sakarya BAM 7. HD 2023/202 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/875021700)
 
 Dava; davacının ödemek zorunda kaldığı damga vergisi, vergi cezası ve gecikme faizini şirket ortaklarından payları oranında tahsili amacıyla başlattığı icra takibine yapılan itirazının iptali istemine ilişkindir.
 
@@ -129,5 +155,7 @@ Eldeki davada, mahkemece; vergi borcunun tahakkuk ettiği dönemde, davacının 
 İcra Müdürlüğünün 2016/16 E. sayılı takip dosyası, dosya kapsamında yer alan bilirkişi raporları, taraflar arasında akdedilen iş ortaklığı sözleşmesi, ödeme belgeleri ve tüm dosya kapsamı birlikte değerlendirilmiş, bilirkişi raporları arasındaki çelişkinin davacının davalılara hangi oranda rücu edebileceği hususunda benimsenen ve uygulanan oran farklılıklarından kaynaklandığı, davacının talep edebileceği asıl alacağı ve işlemiz faiz miktarının tutarı hususunda raporlar arasında çelişki bulunmadığı, tarafların sözleşmeyi ortağı oldukları şirket adına değil kendi nam ve hesaplarına imzaladıkları, şirketin sözleşmede taraf olmadığı, davacının takip talebinde davalılardan şirket hisseleri oranında talepte bulunduğu anlaşılarak davanın kabulüne karar verildiği, verilen kararın kural olarak doğru olduğu anlaşılmıştır.
 
 ## Ankara BAM 27. HD 2021/422 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/653412600)
 
 Rücuen alacak isteminin tahsili için Ankara 6. İcra Müdürlüğü'nün ... sayılı dosyasında alacaklı olarak yukarıda belirtildiği üzere ödeme yapan ... ... San. ve Tic. A.Ş. tarafından davalı şirketler aleyhine ilamsız icra takibi başlatıldığı, bu nedenle davanın dayanığı dikkate alındığında adi ortaklığı oluşturan diğer ... ... Şubesi'nin davacı olarak mecburi dava arkadaşı olarak yer alması gerekmediğinden mahkemece ... ... Şubesi yönünden taraf sıfatı olmadığından aktif dava ehliyeti yokluğu nedeniyle davanın reddine karar verilmesi gerekirken, hatalı değerlendirmeyle ... ... Şubesi'nin taraf olarak kabul edilip bu davacı yönünden davanın kabulüne karar verilmesi doğru olmamış, davalılar vekilinin bu hususa ilişkin istinaf başvurusunun kabulü gerekmiştir.

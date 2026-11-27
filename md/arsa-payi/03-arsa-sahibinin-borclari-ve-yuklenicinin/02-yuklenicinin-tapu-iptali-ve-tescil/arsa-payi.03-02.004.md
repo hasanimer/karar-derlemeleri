@@ -22,6 +22,8 @@ uyari: "Derleyenin seçtiği alıntılardır; kararın tamamı değildir. Künye
 
 ## Yargıtay 6. HD 2022/1230 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/748406600)
+
 Mahkemece bozmadan önce asıl davanın reddine, birleşen davanın 14.000,00 TL ... , 125.262,00 TL kira, 11.492,00 TL çevre duvarı bedeli ile villaların eksik satımından dolayı uğranılan zarar için 8.360,00 TL olmak üzere toplam 159.114,00 TL üzerinden kısmen kabulüne karar verilmiş, kararın taraflaraca temyiz edilmesi üzerine kapatılan Yargıtay 23. Hukuk Dairesi’nin 2014/5697 Esas, 2014/7654 Karar sayılı ilamı ile hükmün sair temyiz itirazları reddedilerek taraflar yararına bozuluğu anlaşılmıştır.
 
 …
@@ -37,6 +39,8 @@ SONUÇ: Yukarıda 1. bentte açıklanan nedenlerle davalı birleşen dosya davac
 
 ## Yargıtay 15. HD 2021/2007 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/658328400)
+
 Arsa payı devri karşılığı inşaat yapım sözleşmeleri taraflarına karşılıklı haklar ve borçlar yükler. Öncelikle üzerine inşaat yapılacak arsayı yükleniciye teslim etmesi gereken arsa sahipleri yüklenicinin karşı edimini yerine getirmesinden sonra yükleniciye sözleşmeye uygun arsa veya kurulmuşsa kat irtifak tapusunu devretmekle yükümlüdür. Yüklenicinin temel borcu ise eseri (binayı) meydana getirmektir. Binanın inşasından maksat, yapının sözleşmeye, fen kurallarına ve amacına uygun imal edilmesidir. Yüklenici bu nitelikleri taşıyan bir bina meydana getirmişse, sözleşmede aksine hüküm bulunmayan hallerde yapının arsa sahibine tesliminde, sözleşmede ayrık hüküm varsa tesliminden önce ve ancak sözleşme koşullarına uygun oranda arsa payı veya bağımsız bölümün tescilini isteyebilir. Arsa payı karşılığı inşaat yapım sözleşmesinin tarafı olan yüklenici, yukarıda sayılan edimleri yerine getirdiğinde, arsa sahibine karşı kazandığı kişisel hakları arsa sahibinin onayı gerekmeksizin üçüncü kişilere temlik edebilir.
 Yüklenicinin kişisel hakkını temellük eden üçüncü kişi de bu hakları yüklenicinin halefi olarak arsa sahibine karşı ileri sürme olanağına sahiptir.Yükleniciden temellük edilen kişisel hakkın dava edilerek arsa sahibine karşı ileri sürülmesi halinde mahkemece, tüm bu yönler üzerinde durulmalı, yüklenici üçüncü kişi davacıya ancak hak kazandığını devir ve temlik edebileceğinden bu husus açıkça saptanmalıdır.
 Bütün bu araştırmalar sonunda eserin (binanın) arsa sahibinin reddedemeyeceği bir seviyeye getirildiği; ancak, yüklenicinin arsa sahibine gerek eksik ve ayıplı işlerden, gerekse sözleşme veya kanundan kaynaklanan nedenlerden dolayı borçlu bulunduğu ortaya çıkarsa yüklenicinin halefi olarak davacıya bunları yerine getirmek üzere uygun süre tanınmalı ya da olanaklı bulunursa karşılıkları para olarak depo ettirilerek, depo edilecek tutar arsa sahibine ödenmek üzere (birlikte ifa kuralı) kişisel hakların sonuçlarını meydana getirdiği düşünülüp, istem kabul edilerek tescil hükmü kurulmalıdır.Somut olayda davacı, davalı yüklenici ile davalı ... ve diğer davalılar arsa sahipleri murisi Muharrem Direkçi arasında 12/07/1988 günü imzalanan arsa payı karşılığı inşaat sözleşmesi ve 05/04/1994 tarihinde düzenlenen ek sözleşme uyarınca 5763 ada 7 parsel üzerinde inşa edilecek dairelerden, yükleniciye isabet eden 8 numaralı daireyi temlik aldığını, bedelini ödeyip kullanmaya başladığını davalı arsa sahiplerinin arsa payını devre yanaşmadıklarını ileri sürerek adına tescile karar verilmesini istemiştir.
@@ -47,9 +51,13 @@ Bu durumda mahkemece yapılacak iş; davacı ile aynı durumda bulunan yüklenic
 
 ## Yargıtay 15. HD 2021/1063 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/653262400)
+
 Asıl ve birleşen 2010/81 Esas sayılı davalar yönünden davacı yüklenicinin temyiz itirazlarının incelenmesinde; Davacı asıl ve birleşen davasında sözleşmelere konu taşınmazların tapu kaydının iptali ile davacı kooperatif adına tescilini, bu mümkün olmadığı taktirde ödenen arsa bedellerinin rayiç bedeller üzerinden iadesine ve yapılan masrafların yasal faizi ile ödenmesine karar verilmesini talep etmiş olup, mahkemece bozma sonrasında asıl ve birleşen davada bedel iadesi yönünden talepleri kabul ederek asıl davada 4.743,13 TL, birleşen 2010/81 Esas sayılı dava yönünden ise 56.846,71 TL alacağın davalılardan tahsiline hükmedilmiş ancak faize hükmedilmemiştir. Bu nedenle kararın bozulması gerekir ise de, yapılan yanlışlığın giderilmesi yeniden yargılama yapılmasını gerektirmediğinden, kararın 6100 sayılı HMK’nın geçici 3. maddesi yollamasıyla 1086 sayılı HUMK’nın 438/VII. maddesi uyarınca düzeltilerek onanması uygun bulunmuştur.
 
 ## Yargıtay 15. HD 2021/549 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/648415500)
 
 Dava, yükleniciden temlik alınan şahsi hakka dayalı tapu iptali ve tescil talebine ilişkindir.
 
@@ -66,6 +74,8 @@ Bu sebeple davada öncelikle yüklenici ve diğer arsa sahiplerinin de yer olmas
 
 ## Yargıtay 15. HD 2021/218 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/642683800)
+
 Arsa payı karşılığı inşaat yapım sözleşmelerinde arsa sahiplerinin temel borcu, üzerine bina yapılacak arsayı hukuki ayıptan ari olarak yükleniciye teslim etmek, yüklenicinin temel borcu ise, arsa sahiplerine ait arazi üzerinde imara, tasdikli ruhsat ve projesine, sözleşmeye, fen ve sanat kurallarına uygun bir yapı meydana getirerek arsa sahiplerine teslim etmektir. Diğer taraftan arsa payı karşılığı inşaat yapım sözleşmelerinde meydana getirilen esere karşılık yükleniciye eser bedeli, yapının bağımsız bölümlerindeki devri kararlaştırılan arsa paylarının temliki suretiyle ödenir. Yüklenici hak kazanacağı bağımsız bölümlerin tapusunu doğrudan arsa sahiplerinden talep edebileceği gibi şahsi hakkını üçüncü kişilere de devredebilir. Sözleşme tarihinde yürürlükte bulunan 818 sayılı mülga Borçlar Kanunu'nun 162. maddesi hükmünce sözleşmede yasaklanmadığı veya işin mahiyetinden aksi anlaşılmadığı sürece yüklenici, üçüncü kişilere yasanın 163. maddesi gereği yazılı olmak koşuluyla şahsi hakkı devredebilir.
 Arsa payı karşılığı inşaat yapım sözleşmelerinden kaynaklanan bu tür uyuşmazlıklarda yükleniciden şahsi hakkını temlik alan üçüncü kişinin satışa ilişkin iddiasını yükleniciye karşı, temellük edilen şahsi hakkın kazanıldığı iddiasını ise arsa sahiplerine karşı ispat etmesi gerekir. Çünkü tescile ancak yüklenicinin arsa sahiplerine karşı edimlerini bütünüyle yerine getirmesi halinde karar verilebilir.
 Görülecek davada ise aralarında zorunlu dava arkadaşlığı bulunması sebebiyle yüklenici ve arsa sahiplerinin davadaki varlığı ayrı ayrı düşünülemez.Dosya kapsamına göre, davalı arsa sahibi ... ile davalı yüklenici ... arasında 09.03.2005 tarihinde resmi şekilde kat karşılığı inşaat sözleşmesi düzenlendiği, bu sözleşme ile davalı yüklenicinin daha önce kaba inşaatı tamamlanmış inşaatta ince işlerin yapımını anahtar teslimi olarak üstlendiği, sözleşmede davalı yüklenicinin kendisine düşen bağımsız bölümleri ancak yabancı uyruklu kişilere satılabileceğinin kararlaştırıldığı, davalı yüklenicinin kendisine ait olacak 33 Nolu bağımsız bölümü ilk kez 29.08.2005 tarihli “inşaat sözleşmesi” başlıklı sözleşme ile asıl davada davacı ...’a sattığı, ardından aynı bağımsız bölümü 14.05.2007 tarihli sözleşme ile birleşen dosya davacılarına sattığı, davalı arsa sahibi tarafından davalı yüklenici aleyhine Ankara 6 AHM 2009/368 E sayılı dosyada eksik, kusurlu imalatlar ile gecikme tazminatı alacaklarına karşılık olarak davalı yükleniciye ait eldeki davanın konusu olan 33 Nolu bağımsız bölümde dahil olmak üzere yükleniciye düşecek bağımsız bölümlerin satışına izin verilmesi talebiyle dava açıldığı,
@@ -75,6 +85,8 @@ Olayda asıl ve birleşen davada konut satış sözleşmesiyle bağımsız böl�
 SONUÇ: Yukarıda açıklanan nedenlerle asıl dava davacı vekili ile birleşen dava davacılar vekilinin karar düzeltme isteminin kabulü ile Yargıtay 23. Hukuk Dairesi’nin 26.09.2019 tarih ve 2016/5089 Esas, 2019/3869 Karar sayılı bozma ilamının kaldırılarak hükmün ONANMASINA …
 
 ## Yargıtay 15. HD 2020/1802 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/588726700)
 
 Davacı ...Güven Makina Tekstil İnş. Otom. Turz.
 
@@ -92,6 +104,8 @@ SONUÇ: Yukarıda 1. bentte açıklanan nedenlerle davalıların diğer karar d�
 
 ## Yargıtay 15. HD 2020/1064 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/594900900)
+
 Dosya kapsamı, alınan bilirkişi raporu ve mahkemenin kabulüne göre yüklenicinin gerçekleştirdiği inşaatın seviyesi %74,27 oranında olup, süresinde edimini yerine getirmediğinden yüklenici temerrüdü sabit ve inşaat seviyesine göre davacı arsa sahibi sözleşmeden geriye etkili dönmekte haklıdır. Feshin sonucu olarak da, sözleşme uyarınca yükleniciye verilmesi kararlaştırılıp avans olarak yükleniciye ya da yüklenicinin talimatıyla 3. kişilere devredilen bağımsız bölümlere ait tapu kayıtlarının tamamının iptal ve tescilini isteyebilir. Ancak 6100 sayılı HMK’nın maddesindeki taleple bağlılık ilkesi uyarınca hakim tarafların talep sonuçları ile bağlı olup ondan fazlasına veya başka bir şeye vermesi mümkün değildir. Yine HMK’nın 33. maddesi hükmünce hakim, Türk hukukunu re’sen uygulayacağından maddi vakıaları ileri sürüp kanıtlamak taraflara hukuki vasıflandırma hakime ait olduğundan mahkeme davacının hukuki vasıflandırmasıyla bağlı değildir. Buna göre davacının sözleşmenin geriye etkili feshinden sonra tasfiyesini sözleşmenin ileriye etkili feshinde olduğu gibi yapılmasını talep ettiği sonucu ortaya çıkmaktadır.
 
 Bu durumda mahkemece arsa payı karşılığı inşaat yapım sözleşmesinin feshi hem davacının istemi doğrultusunda verildiği ve yüklenici şirket tarafından temyiz edilmeksizin kesinleştiği, buna göre sözleşmenin feshi ile birlikte davacı arsa sahibi yüklenici ve onun devrettiği şahıslar adına tapu kayıtlarının tamamının iptal ve tescilini talep edebilir ise de; tasfiyenin yüklenicinin gerçekleştirdiği imalât bedeline isabet eden kısmının yüklenicide bırakılması, fazlasına ilişkin kayıtların iptal ve tescili yönünde yapılması talep edildiği ve taleple bağlı karar verilmesi zorunluluğu bulunduğundan, hükme esas raporu düzenleyen bilirkişi kurulundan davalı yüklenici şirketin gerçekleştirdiği imalât seviyesine (%74,27) göre sözleşme ile yükleniciye verilmesi kararlaştırılan 17 adet bağımsız bölümden kaç tanesi ve hangilerine hak kazandığı konusunda gerekçeli ve denetime elverişli ek rapor alıp değerlendirilerek yüklenicinin hak ettiği imalât seviyesine göre hak ettiği bağımsız bölümler ve tapu kayıtlarının yükleniciye bırakılması, imalât oranına göre hak ettiği tapu payları ve bağımsız bölümlerle ilgili tapu iptali ve tescil istemi konusunda sonucuna uygun bir karar verilmesi gerekirken
@@ -102,6 +116,8 @@ davacının talebi dışına çıkılarak eksik inceleme ve yanlış değerlendi
 SONUÇ: Yukarıda 1. bentte açıklanan nedenlerde davacının diğer temyiz itirazlarının reddine, 2. bent uyarınca kabulü ile hükmün davacı yararına BOZULMASINA …
 
 ## Yargıtay 15. HD 2020/974 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/648110400)
 
 Davacı davasında, davalılar arasında düzenlenen kat karşılığı inşaat sözleşmesine göre yapılan binada yükleniciye verileceği kabul edilen 11 nolu bağımsız bölümü taşınmaz satış vaadi sözleşmesi ile yükleniciden satın aldığını ancak tapusunun devir edilmediğini belirterek davalı arsa sahibi adına olan tapunun iptâli ile adına tesciline karar verilmesini talep etmiş, Davalı arsa sahipleri savunmalarında inşaatın tamamlanmadığını, davacı ile aralarında akdi ilişkinin bulunmadığını açıklayarak davanın reddine karar verilmesini talep etmişler, davalı yüklenici savunmasında davacı ile aralarında geçerli bir sözleşmenin bulunmadığını, sözleşmenin geçerlilik kazanması için noterlikçe düzenlenmesi gerektiğini, davacının anlaşmaya uygun davranmadığından dairenin tamamlanamadığını ve teslim edemediğini belirterek davanın reddine karar verilmesini talep etmiştir.
 
@@ -115,6 +131,8 @@ SONUÇ: Yukarıda açıklanan nedenlerle kararı temyiz eden davacı yararına B
 
 ## Yargıtay 15. HD 2020/245 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/572841000)
+
 Davacı yüklenici asıl davasında arsa payı karşılığı inşaat sözleşmesi ile üstlendiği edimlerini yerine getirdiğinden sözleşme konusu taşınmazdaki 4-5 ve 17 nolu bağımsız bölümlerin tapu kayıtlarının iptâli ve adına tescilini, mümkün olmadığı takdirde rayiç değerlerinin tespit ve tahsiline karar verilmesini talep ve dava etmiştir. Yargılama aşamasında gündeme gelen ve bilirkişi raporunda yükleniciye ait olacağı belirtilen 7 nolu bağımsız bölümün tesciliyle ilgili dava olmadığı gibi aidiyeti de ihtilâflı olduğundan yüklenicinin sözleşme ile üstlendiği edimi ifa etmesi ve o bağımsız bölüm yönünden de tapu iptâl ve tescile hak kazanması halinde 7 nolu bağımsız bölümle ilgili ayrıca bir talepte bulunup ayrı bir dava açması mümkün olduğundan, eldeki davada 7 nolu bağımsız bölümle ilgili karar verilmemiştir.Yüklenici şirket ile arsa sahipleri arasında ... 1.
 Noterliği'nde imzalanan 18 Kasım 2008 gün 42764 yevmiye nolu düzenleme şeklinde kat karşılığı inşaat yapım ve satış vaadi sözleşmesinin 2. sayfasında arsa sahiplerine bırakılan daireler belirtilmiş olup yön, kat ve sayısı belirtilen arsa sahiplerine bırakılanlar dışındaki bağımsız bölüm ve daireler ile eklentilerinin yükleniciye ait olacağı kararlaştırılmıştır. Tarafların iddia ve savunması, dosya kapsamı ve bilirkişi kurulu raporu ile ek raporundan dava konusu olan 17 nolu bağımsız bölümün davacı yükleniciye isabet ettiği, halen arsa sahiplerinden ... adına tapuda kayıtlı olduğu ve yüklenici tarafından inşaatın yüzde 99 seviyesinde tamamlandığı anlaşılmaktadır. İnşaatın gerçekleşme seviyesi dairemizin yerleşik içtihat ve uygulamaları ile Hukuk Genel Kurulu kararlarına göre eserin reddini gerektirmeyecek oranda olup eksik inşaat ve imalât oranı inşaatın tamamamına göre düşük olduğundan birlikte ifa suretiyle yüklenicinin kararlaştırılan bağımsız bölüme hak kazanabileceği kabul edilmektedir. Sözleşmenin 2. sayfasının sondan bir önceki paragrafında yapı denetim hizmeti masraflarının yükleniciye ait olacağı yazılıdır.
 
@@ -126,6 +144,8 @@ davaya karşı çıkmakta haklı oldukları ve birlikte ifa sureti ile iptâl ve
 
 ## Yargıtay 20. HD 2019/7258 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/561183600)
+
 Dava ortak gider alacağına yönelik başlatılan icra takibine yapılan itirazın iptali istemine ilişkindir.
 
 …
@@ -134,6 +154,8 @@ O halde, her ne kadar davalı kişilerin müeahhitten ev alan 3. kişiler olarak
 Dolayısı ile davacının icra dosyasına konu edilen talebinin, müteahhit ile davacı arasında akdedilen kat karşılığı inşaat sözleşmesinden kaynaklanan eksik iş bedelleri kapsamında olmayıp, tüm kat malikleri adına ilgili sitenin kat mülkiyetine geçirilebilmesi için yapılacak ortak gider alacağı olduğunun kabulü ile davalının malik olduğu bağımsız bölümünde bu giderlerden faydalandığı, kaldı ki vekaletsiz iş görme hükümleri uyarınca dahi davalının sorumlu bulunduğu gözetildiğinde mahkemece davanın kabulüne karar verilmesinde usul ve kanuna aykırılık bulunmamaktadır.
 
 ## Yargıtay 23. HD 2019/3721 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/541231700)
 
 Davacı vekili, müvekkili yüklenici ile davalı arsa sahibi arasında 13.02.2013 tarihinde adi yazılı şekilde arsa payı inşaat sözleşmesi imzalandığını, müvekkilinin sözleşmede belirlenen edimlerini yerine getirdiğini, davalının müvekkiline verilmesi kararlaştırılan bağımsız bölümü devretmediğini ileri sürerek 2286 ada 6 parsel sayılı 1 no.lu bağımsız bölümün davalı adına olan tapu kaydının iptali ile müvekkili adına tesciline, bu mümkün olmadığı takdirde bağımsız bölümün değerinin davalıdan tahsiline karar verilmesini talep ve dava etmiştir.
 
@@ -150,6 +172,8 @@ Dava, arsa payı karşılığı inşaat sözleşmesinden kaynaklanan tapu iptali
 SONUÇ: Yukarıda açıklanan nedenlerle davalı vekilinin temyiz itirazının kabulü ile hükmün davalı yararına BOZULMASINA …
 
 ## Yargıtay 15. HD 2019/3129 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/519195400)
 
 Dava, kat karşılığı inşaat sözleşmesinde kaynaklanan tapu iptâl ve tescil talebine ilişkindir.
 

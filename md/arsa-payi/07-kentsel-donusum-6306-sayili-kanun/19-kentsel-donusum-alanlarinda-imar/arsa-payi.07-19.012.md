@@ -22,6 +22,8 @@ uyari: "Derleyenin seçtiği alıntılardır; kararın tamamı değildir. Künye
 
 ## Danıştay 6. D. 2021/10631 E., 2022/11549 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/910814800)
+
 Diğer taraftan, davacının taşınmazının da yer aldığı alanın 6306 sayılı Afet Riski Altındaki Alanların Dönüştürülmesi Hakkında Kanunun 2. ve Ek-1. maddeleri uyarınca riskli alan ilan edilmesine ilişkin 20/04/2020 günlü, 2448 sayılı Cumhurbaşkanı Kararının iptali istemiyle açılan davanın reddi yolunda verilen ve Danıştay İdari Dava Daireleri Kurulunun 08/11/2021 tarih ve E:2021/2715, K:2021/2277 sayılı kararıyla onanarak kesinleşen Dairemizin 02/06/2021 tarih ve E: 2020/4646, K: 2021/7610 sayılı kararında özetle; Riskli Alan ilanına ilişkin Cumhurbaşkanı Kararının dayanağını oluşturan teknik raporda;
 2016 tarihli imar planlarına esas Jeolojik-jeoteknik etüt raporlarında, riskli alan sınırının ÖA-2.3 (önlem alınabilecek nitelikte kaya düşmesi ve stabilite sorunlu alanlar) olarak belirlendiği, Türkiye deprem haritasında Bitlis Şehir merkezinin 1. derece tehlikeli deprem kuşağı içerisinde yer aldığı, riskli alan sınırının Bitlis İl merkezinden geçen dere yatağı ile dere yatağının koruma bandında kalan bölgeyi kapsadığı ve amorf bir geometrik yapıya sahip olduğu, çoğunluğu Bitlis deresi üzerinde inşa edilmiş, standartlara uygun olmayan ekonomik ömrünü yitirmiş yapılardan oluşan, alt yapısı problemli, tarihi kent dokusunu bozan, hem akarsuyu hem de çevreyi sağlık açısından olumsuz yönde etkileyen bir bölge olduğu, alanda yer alan yapıların inşa edildiği yılların oldukça eski olduğu, riskli alan sınırının DSİ'den alınan taşkın sınırı ile çakıştırılarak afet, sel ve taşkın riski taşıdığının tespit edildiği, ayrıca AFAD'tan da görüş alındığı, yapıların 40-45 yıllık olması nedeniyle dayanımlarının düşük olduğu, taşınmazların büyük bir kısmının yürürlükteki imar planında dere, park ve imar yolu olarak planlı olması nedeniyle yapılaşma hakkı bulunmadığı, kentsel dönüşüm modeli olarak
 yerinde dönüşüm uygulanamadığından kamulaştırma uygulanmasının öngörüldüğü tespitlerine yer verildiği, 6306 sayılı Kanunun Ek-1.(b) maddesinde belirtilen "Üzerindeki toplam yapı sayısının en az %65’i imar mevzuatına aykırı olan veya yapı ruhsatı alınmaksızın inşa edilmiş olmakla birlikte sonradan yapı ve iskân ruhsatı alan yapılardan oluşan alanlar" düzenlemesinde belirtilen şartların oluştuğu ve uygulama bütünlüğü gözetilerek riskli alan sınırının belirlenmiş olduğu sonucuna varıldığı gerekçesiyle dava konusu işlemin hukuka uygun bulunduğu görülmektedir.
@@ -30,6 +32,8 @@ Bu durumda, yukarıda yer verilen Dairemiz kararının gerekçesi de göz önün
 
 ## Danıştay 6. D. 2022/3376 E., 2022/11365 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/881459300)
+
 DAVANIN KONUSU : Diyarbakır İli, Sur İlçesi, … Mahallesi, … pafta, … ada, … parsel sayılı taşınmazın Çevre, Şehircilik ve İklim Değişikliği Bakanlığı (mülga Çevre ve Şehircilik Bakanlığı) tarafından acele kamulaştırılmasına ilişkin 25.03.2016 tarih ve 29664 sayılı Resmi Gazete'de yayımlanan 21.03.2016 tarihli, 2016/8659 sayılı Cumhurbaşkanı kararı ile acele kamulaştırma kararı alınan taşınmazların da içinde bulunduğu alanın 6306 sayılı Yasanın 2. maddesine göre riskli alan ilan edilmesi yolundaki 04/11/2012 tarihli, 28457 sayılı Resmi Gazetede yayımlanan 22/10/2012 tarihli, 2012/3900 sayılı Bakanlar Kurulu kararının iptali istenilmektedir.
 
 DAVACILARIN İDDİALARI :
@@ -37,6 +41,8 @@ Hangi değerlendirme sonucunda üzerinde herhangi bir yapı bulunmayan davacıla
 yerinden yönetim ilkesine aykırı olduğu, riskli alan uygulamasının davacılara ait taşınmaz yönünden kabulünün mümkün olmadığı, bölgenin riskli alan ilan edilmiş olmasının acele kamulaştırma kararı verilmesi için yeterli olmadığı, yargılama konusu işlemin 2942 sayılı Kanunun 27. maddesinde öngörülen usullere uyulmaksızın tesis edildiği, bölgenin afet riski altındaki alanların dönüştürülmesine ilişkin düzenlemeleri içeren 6306 sayılı Yasa kapsamında değerlendirilmesinin hukuka aykırı olduğu, tesis edilen işlemin amaç yönünden hukuka aykırı olduğu, bazı parsellerin işlem dışında bırakıldığı, eşit davranılmadığı, davaya konu işlemin, ilgili kentsel sit alanı ve ilgili tüm idari işlemler yok sayılarak tesis edilmiş olması nedeni ile hukuka aykırı olduğu ileri sürülmüştür.
 
 ## Danıştay 6. D. 2020/10132 E., 2022/10427 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/875254900)
 
 Aynı Kanunun 9. maddesinin 2. fıkrasında: "Belediye hudutları ve mücavir alanlar içerisinde bulunan ve özelleştirme programına alınmış kuruluşlara ait arsa ve arazilerin, ilgili kuruluşlardan gerekli görüş, (Belediye) alınarak çevre imar bütünlüğünü bozmayacak imar tadilatları ve mevzi imar planlarının ve buna uygun imar durumlarının Başbakanlık Özelleştirme İdaresi Başkanlığınca hazırlanarak Özelleştirme Yüksek Kurulunca onaylanmak suretiyle yürürlüğe girer ve ilgili Belediyeler bu arsa ve arazilerin imar fonksiyonlarını 5 yıl değiştiremezler. İlgili belediyeler görüşlerini onbeş gün içinde bildirir." hükmü; Ek 3. maddesinde ise:
 "Özelleştirme programındaki kuruluşlara ait veya kuruluş lehine irtifak ve/veya kullanım hakkı alınmış arsa ve araziler ile özel kanunları uyarınca özelleştirilmek üzere özelleştirme programına alınan arsa ve arazilerin, 3621 sayılı Kıyı Kanunu veya 2634 sayılı Turizmi Teşvik Kanunu kapsamında kalan yerler dahil olmak üzere genel ve özel kanun hükümleri kapsamında yer alan tüm alanlarda imar planlarını yapmaya ve onaylamaya yetkili olan kurum veya kuruluşlardan görüş alınarak çevre imar bütünlüğünü bozmayacak her tür ve ölçekte plan, imar planı ile değişiklik ve revizyonları müellifi şehir plancısı olmak üzere Başbakanlık Özelleştirme İdaresi Başkanlığınca yapılarak veya yaptırılarak Özelleştirme Yüksek Kurulunca onaylanmak ve Resmi Gazetede yayımlanmak suretiyle kesinleşir (...) yürürlüğe girer. İlgili kuruluşlar bu madde kapsamında yapılan planları devir tarihinden itibaren beş yıl süreyle değiştiremezler." hükmü yer almıştır.
@@ -51,6 +57,8 @@ Sit alanlarına ilişkin tüm ölçeklerde yapılmış; koruma bölge kurulları
 
 ## Danıştay 6. D. 2021/4478 E., 2022/9778 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/863186900)
+
 Dosyanın incelenmesinden, Rami Kışlası içerisinde geçici olarak faaliyetlerini yürüten kuru gıda esnafı için İstanbul İli, Başakşehir İlçesi, … mahallesinde … Gıda Toptancılar Çarşısının inşa edildiği, ancak çarşının faaliyete geçebilmesi için çevre yollarının tamamlanarak ulaşım sistemine entegre edilmiş olması gerektiği, mevcut yolların ağır taşıt trafiğini kaldıracak genişlikte olmadığının anlaşılması nedeniyle, çarşının şehrin ulaşım sistemine entegre edilebilmesi amacıyla aralarında uyuşmazlığa konu taşınmazın da bulunduğu taşınmazların acele kamulaştırılmasına karar verildiği, taşınmaza acele el konulması istemiyle asliye hukuk mahkemesinde açılmış bir davanın bulunmadığı, diğer taraftan uyuşmazlığa konu … ada, … parsel sayılı taşınmazın … onay tarihli 1/5000 ölçekli nazım imar planında ve 1/1000 ölçekli uygulama imar planında ticaret+konut alanında kaldığı anlaşılmaktadır.
 
 Bu durumda, inşa edilen çarşının ulaşım sistemine bağlanarak çevre ile bütünlük arz edecek şekilde tamamlanması amacıyla dava konusu acele kamulaştırma işlemi tesis edilmişse de; uyuşmazlığa konu taşınmazın imar planında ticaret+konut alanında kalması ve olayda 2942 sayılı Yasanın 27. maddesinde öngörülen koşulların gerçekleşmemiş olması nedeniyle işlemde imar planı kararlarına ve yasaya uyarlık bulunmadığı sonucuna varılmıştır.
@@ -60,6 +68,8 @@ Bu durumda, inşa edilen çarşının ulaşım sistemine bağlanarak çevre ile 
 Dava konusu işlemin uyuşmazlığa konu parsele ilişkin kısmının İPTALİNE …
 
 ## Danıştay 6. D. 2021/2476 E., 2022/9765 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/863904100)
 
 Dosyanın incelenmesinden, Rami Kışlası içerisinde geçici olarak faaliyetlerini yürüten kuru gıda esnafı için İstanbul İli, Başakşehir İlçesi, …mahallesinde İstanbul Gıda Toptancılar Çarşısının inşa edildiği, ancak çarşının faaliyete geçebilmesi için çevre yollarının tamamlanarak ulaşım sistemine entegre edilmiş olması gerektiği, mevcut yolların ağır taşıt trafiğini kaldıracak genişlikte olmadığının anlaşılması nedeniyle, çarşının şehrin ulaşım sistemine entegre edilebilmesi amacıyla aralarında uyuşmazlığa konu taşınmazın da bulunduğu taşınmazların acele kamulaştırılmasına karar verildiği, taşınmaza acele el konulması istemiyle asliye hukuk mahkemesinde açılmış bir davanın bulunmadığı, diğer taraftan uyuşmazlığa konu …ada, …parsel sayılı taşınmazın 05/12/2016 onay tarihli 1/5000 ölçekli nazım imar planında ve 1/1000 ölçekli uygulama imar planında K2, E:0,75 Yençok:Serbest yapılanma koşullu konut alanında kaldığı anlaşılmaktadır.
 
@@ -71,6 +81,8 @@ Dava konusu işlemin uyuşmazlığa konu parsele ilişkin kısmının İPTALİNE
 
 ## Danıştay 6. D. 2019/13479 E., 2022/9375 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/860116000)
+
 Karar veren Danıştay Altıncı Dairesince Tetkik Hakiminin açıklamaları dinlendikten ve dosyadaki belgeler incelendikten sonra, 29/10/2021 tarihli ve 31643 sayılı Resmî Gazete'de yayımlanarak yürürlüğe giren 85 sayılı Bazı Cumhurbaşkanlığı Kararnamelerinde Değişiklik Yapılması Hakkında Cumhurbaşkanlığı Kararnamesinin 1. maddesi ile 1 sayılı Cumhurbaşkanlığı Teşkilatı Hakkında Cumhurbaşkanlığı Kararnamesinin Altıncı Kısmının Dördüncü Bölümünün başlığının Çevre, Şehircilik ve İklim Değişikliği Bakanlığı, 2. maddesi ile de aynı Kararnamenin 97. maddesinin birinci fıkrasının birinci cümlesinde yer alan "Çevre ve Şehircilik" ibaresinin "Çevre, Şehircilik ve İklim Değişikliği" şeklinde değiştirildiği görüldüğünden, Çevre, Şehircilik ve İklim Değişikliği Bakanlığının davalı olarak belirlenmesi suretiyle ve Üyeler …
 
 …
@@ -78,6 +90,8 @@ Karar veren Danıştay Altıncı Dairesince Tetkik Hakiminin açıklamaları din
 'nun, 1/100.000 ÇDP'na askıda itiraz edilmediği, askı süresinin son gününden itibaren altmış gün içinde dava açılması gerekirken 1/5000 ölçekli nazım imar planında yapılan değişiklik üzerine dava açıldığı, bu durumda nazım imar planının dayanağını oluşturmayan 1/100.000 ölçekli plan yönünden dava açma süresinin yeniden işlemeye başlamasının mümkün olmadığı sonucuna varıldığından davanın süre aşımı yönünden reddi gerektiğine yönelik ayrışık oylarına karşılık, 1/5000 ölçekli nazım imar planının 1/100.000 ölçekli ÇDP'nın uygulama işlemi niteliğinde olduğu, bu kapsamda 1/5000 ölçekli nazım imar planında yapılan değişiklik üzerine başlayan dava açma süresi içinde 1/5000 ölçekli nazım imar planı ile dayanak 1/100.000 ölçekli ÇDP'na birlikte veya ayrı ayrı dava açılabileceği gerekçesiyle oyçokluğuyla davanın süresinde olduğuna karar verilerek işin gereği görüşüldü:
 
 ## Danıştay 6. D. 2018/8848 E., 2022/8947 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/859134700)
 
 Danıştay Altıncı Dairesi'nce yerinde yaptırılan keşif ve bilirkişi incelemesi sonucu düzenlenen raporda sonuç olarak özetle, dava konusu alanın plansız gelişen konut alanlarını kapsadığı, bu tür kontrolsüz ve plansız gelişimlerin ise zaman içerisinde konut dokusunun bozulmasına ve kent içerisinde çöküntü alanlarının oluşmasına yol açtığı, kentlerin büyümesine paralel olarak kent merkezlerinde veya hemen çeperinde bulunan bu tür alanların ise dönüşümünün kaçınılmaz olduğu, keşif esnasında alanda yer alan konutların neredeyse tümünün yıkılmış olduğu görülmüş olsa da alanda kalan konutlardan da anlaşılabileceği gibi bu alanda bulunan konutların yapı kalitesinin düşük olduğu, aralarında bazılarının zaman içinde ihtiyaca göre yeni kat eklenerek yükselen yapılar olduğunun anlaşıldığı, bölgenin Kentsel Dönüşüm ve Gelişim Proje Alanı olarak belirlenmesinin gerekçelerinden biri olarak alanda yer alan yapıların genel olarak yığma yapı olup deprem yönetmeliğine aykırı, statik açıdan bütünlük arz etmeyen, aynı zamanda insan yaşamı için tehlike arz eden yapı niteliği taşımakta olduğu, mevzuat ve yönetmelik hükümlerine göre inşa edilmediğinin belirtildiği durumun alanın büyük bir bölümünde yıkım
 tamamlanmış olmasına rağmen, alanın çeperinde yer alan ve hava fotoğraflarından da anlaşılacağı gibi alan ile benzer özellikler gösteren konut alanlarında da görüldüğü, buna göre, bölgenin “eskiyen kent kısımlarının yeniden inşası ve deprem riskine karşı tedbirler almak” amaçları doğrultusunda dönüşüme konu olabilecek bir alan niteliği taşıdığı, dava konusu parselin de yer aldığı İpekyolu II.
@@ -89,11 +103,15 @@ Etap Kentsel Dönüşüm ve Gelişim Proje Alanının sınır belirlenmesiyle ye
 
 ## Danıştay 6. D. 2022/6861 E., 2022/8929 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/913992500)
+
 5216 sayılı Büyükşehir Belediye Kanununun 7. maddesinin 1. fıkrasının (b) bendinde, çevre düzeni planına uygun olmak kaydıyla, büyükşehir belediye sınırları içinde 1/5.000 ile 1/25.000 arasındaki her ölçekte nazım imar planını yapmak, yaptırmak ve onaylayarak uygulamak; büyükşehir içindeki belediyelerin nazım plana uygun olarak hazırlayacakları uygulama imar planlarını, bu planlarda yapılacak değişiklikleri, parselasyon planlarını ve imar ıslah planlarını aynen veya değiştirerek onaylamak ve uygulanmasını denetlemek; nazım imar planının yürürlüğe girdiği tarihten itibaren bir yıl içinde uygulama imar planlarını ve parselasyon planlarını yapmayan ilçe belediyelerinin uygulama imar planlarını ve parselasyon planlarını yapmak veya yaptırmak görev, yetki ve sorumluluklarının büyükşehir belediyelerine ait olduğu, hüküm altına alınmıştır.
 
 Yukarıda detaylarına yer verilen yasal düzenlemeler uyarınca, 6306 sayılı Kanun kapsamında Çevre, Şehircilik ve İklim Değişikliği Bakanlığının plan yapma yetkisinin "riskli yapı" olarak ilan edilen … ada, … parsel sayılı taşınmazla sınırlı olduğu, buna karşılık anılan Kanun'un kapsamında bulunmayan … ada, … ve … parsel sayılı taşınmazlara ilişkin nazım imar planı değişikliğini yapma ve onaylama yetkisinin, genel hükümler çerçevesinde Ankara Büyükşehir Belediye Başkanlığına ait olduğu açıktır.
 
 ## Danıştay 6. D. 2021/7561 E., 2022/8840 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/896484100)
 
 Davacı tarafından planda tarım arazileri üzerinde ayrıldığı ileri sürülen kentsel yerleşme alanlarına yönelik kararların iptal edilmesini gerektirecek bir husus bulunmamakta olup, iddia ve itirazların alt ölçekli planlama çalışmalarında değerlendirilmesi gerektiği, diğer yandan davacı tarafından da değinildiği üzere; üstün kamu yararı çerçevesinde ele alındığında, bütün bir bölgeyi kapsayan, büyük ölçekli, birçok sektörü birden ilgilendiren geniş kapsamlı bir çevre düzeni planının yalnızca koruma kararlarını içermesinin beklenemeyeceği, buna karşın çevre düzeni planlarının; bölge halkının ve ötesinde ülke insanının çalışma, barınma, ulaşım vb. gelişme yönündeki ihtiyaçlarının doğal kaynak değerleri gözetilerek en akılcı biçimde karşılanmasını gerçekleştirmek amacıyla hazırlanmasının söz konusu olduğu, bu amaç doğrultusunda belirlenen koruma ve gelişme ilke ve stratejilerine uygun genel arazi kullanım kararlarının üretilmesinin bakanlıkça hazırlanan çevre düzeni planlarında esas olduğu, davacı tarafından iddia edildiği üzere üstün kamu yararının; doğal kaynakların mutlak surette yalnızca korunmasında değil; ekolojik açıdan hassas alanların korunarak; doğal kaynakların bölgenin ve
 ülkenin gelişme ihtiyaçlarını da gözeterek sürdürülebilir kalkınmayı gerçekleştirmek üzere akılcı kullanımında en net şekliyle belirdiği, sonuç olarak; davacının dava dilekçesinde yer alan iddiaların geneli itibarıyla dayanaktan yoksun ve üç ili birden ilgilendiren bir çevre düzeni planının iptal edilmesini getirecek nitelikte olmadığı, planların dinamik, güncellenebilir ve düzeltilebilir olduğu gerçeğinden hareketle, planda aksayan ve düzeltilmesi gereken yönlerin olduğu sonucuna varılması durumunda gereğinin yerine getirilmesinin mümkün olabileceği, ancak; planın iptal edilmesi durumunda ise, bütün bir bölgenin genel düzenleyici ve bağlayıcı kararlarının ortadan kaldırılmış olacağı ve böylece denetimsiz, gelişigüzel ve plansız gelişmelere ve yapılaşmalara yol açılmış olacağı gerçeğinin de göz önünde bulundurulması gerektiği savunulmaktadır.
@@ -109,6 +127,8 @@ Adıyaman-Şanlıurfa-Diyarbakır Planlama Bölgesi 1/100.000 ölçekli Çevre D
 
 ## Danıştay 6. D. 2020/8130 E., 2022/8578 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/872827500)
+
 Ancak söz konusu Kanun Hükmünde Kararname 9/7/2018 tarihli 30473 sayılı Resmi Gazetede yayımlanarak yürürlüğe giren 703 sayılı Kanun Hükmünde Kararname ile yürürlükten kaldırılmış ve yerine 10/7/2018 tarihli 30474 sayılı Resmi Gazetede yayımlanarak yürürlüğe giren 1 sayılı Cumhurbaşkanlığı Teşkilatı Hakkında Cumhurbaşkanlığı Kararnamesinin 102.maddesinin 1.fıkrasının (a) bendinde, yerleşme, yapılaşma ve arazi kullanımına yön veren, her tür ve ölçekte fiziki planlara ve uygulamalara esas teşkil eden üst ölçekli mekânsal strateji planlarını ve çevre düzeni planlarını ilgili kurum ve kuruluşlarla işbirliği yaparak hazırlamak, hazırlatmak, onaylamak ve uygulamanın bu stratejilere göre yürütülmesini sağlamak, (c) bendinde ise, havza ve bölge bazındaki çevre düzeni planları da dâhil her tür ve ölçekteki çevre düzeni planlarının ve imar planlarının yapılmasına ilişkin usul ve esasları belirlemek, havza veya bölge bazında çevre düzeni planlarını yapmak, yaptırmak, onaylamak ve bu planların uygulanmasını ve denetlenmesini sağlamak Mekânsal Planlama Genel Müdürlüğünün görevleri arasında sayılmıştır.2872 sayılı Çevre Kanununun 9.
 (b) maddesinde "Ülke fizikî mekânında, sürdürülebilir kalkınma ilkesi doğrultusunda, koruma-kullanma dengesi gözetilerek kentsel ve kırsal nüfusun barınma, çalışma, dinlenme, ulaşım gibi ihtiyaçların karşılanması sonucu oluşabilecek çevre kirliliğini önlemek amacıyla nazım ve uygulama imar plânlarına esas teşkil etmek üzere bölge ve havza bazında 1/50.000-1/100.000 ölçekli çevre düzeni plânları Bakanlıkça yapılır, yaptırılır ve onaylanır. Bölge ve havza bazında çevre düzeni plânlarının yapılmasına ilişkin usûl ve esaslar Bakanlıkça çıkarılacak yönetmelikle belirlenir." hükmüne yer verilmiştir.
 
@@ -120,17 +140,23 @@ yerleşme alanlarında, konut alanları ile eğitim tesisleri, sağlık tesisler
 
 ## Danıştay 6. D. 2022/5391 E., 2022/7691 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/911305800)
+
 Yukarıda anılan 2577 sayılı Kanunun 46. maddesinde, bölge idare mahkemesinin temyiz incelemesine tabi tutulacak kararları sınırlı olarak sayılmış olup Danıştay Altıncı Dairesinin görevine giren ve temyize konu olabilecek dava konuları; imar planları, parselasyon işlemlerinden kaynaklanan davalar, düzenleyici işlemlere karşı açılan iptal davaları ile konusu Danıştay'da temyiz edilebilecek tutarı aşan tam yargı ve idari işlemler hakkında açılan davalardır.
 
 Bakılan davanın konusunun, Ankara İli, Altındağ İlçesi, … Mahallesi, … ada, … parselde kayıtlı arsa nitelikli 2959,00 m² yüzölçümlü taşınmazın 6306 sayılı Afet Riski Altındaki Alanların Dönüştürülmesi Hakkında Kanun uyarınca, Çevre ve Şehircilik Bakanlığı'nın 15/08/2017 tarih ve 17102 sayılı Olur'u ile "Rezerv Yapı Alanı" olarak belirlenmesine ilişkin işlemin iptali olduğu anlaşıldığından, bu uyuşmazlıkla ilgili bölge idare mahkemesi idari dava dairesince yapılan istinaf incelemesi neticesinde verilen kesin nitelikli kararın temyiz edilmesinin, yukarıda anılan Kanun hükümleri kapsamında mümkün olmadığı sonucuna varılmıştır.
 
 ## Danıştay 6. D. 2019/18362 E., 2022/7506 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/846557500)
+
 Bu durumda, dava konusu imar planı değişiklikleri ile getirilen işlev ve yoğunlukların mevzuata, şehircilik ilkelerine, planlama tekniklerine ve kamu yararına aykırı olduğuna dair davacının herhangi bir iddiasının bulunmaması, aksine hissedarı olduğu taşınmazın da söz konusu planlara dahil edilmesi gerektiğinden bahisle bakılan davanın açılması, diğer taraftan yargılama devam ederken davacının taşınmazını da kapsayacak şekilde başka nazım ve uygulama imar planı değişikliklerinin yapıldığının anlaşılması ve davacının söz konusu plan değişikliklerine yönelik hukuka aykırılık iddiasının bulunması halinde bunun ayrı bir davanın konusunu oluşturması karşısında, dava sebepleri ile bağlı kalınmak suretiyle davanın reddine karar verilmesi gerekirken, dava konusu imar planı değişikliklerinin esasına yönelik gerekçelerle iptali yolunda verilen kararda isabet bulunmamaktadır.
 
 Açıklanan nedenlerle, 2577 sayılı Kanunun 49. maddesine uygun bulunan davalının ve davalı yanında müdahilin temyiz istemlerinin kabulü ile dava konusu işlemin iptali yolunda ... İdare Mahkemesince verilen … tarih ve E:…, K:… sayılı kararın BOZULMASINA …
 
 ## Danıştay 6. D. 2019/591 E., 2022/7400 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/810131200)
 
 Kamu yararını gerçekleştirmek amacıyla üretilmiş birer belge niteliğinde olan imar planları mevzuatta ve yargı içtihatlarında yöre halkının sağlığını ve çevreyi korumak, sosyal ve kültürel ihtiyaçlarını, iyi yaşama düzenini, çalışma koşullarını ve güvenliğini sağlamak amacıyla, ülke, bölge ve şehir verilerine göre oturma, çalışma, dinlenme ve ulaşım gibi kentsel fonksiyonlar arasında mevcut ve sağlanabilecek olanaklar ölçüsünde en iyi çözüm yollarını bulmak için varsa kadastro durumu da işlenmiş, onaylı haritaların kopyaları üzerine nazım plan ve uygulama planı olarak düzenlenip onaylanmış metinler olarak tanımlanmaktadır.
 
@@ -141,6 +167,8 @@ Kamu yararını gerçekleştirmek amacıyla üretilmiş birer belge niteliğinde
 Davanın yukarıda özetlenen gerekçeyle reddine ilişkin, ... İdare Mahkemesince verilen ... tarih ve E:..., K:... sayılı kararının 2577 sayılı Kanunun 49. maddesi uyarınca BOZULMASINA …
 
 ## Danıştay 6. D. 2019/555 E., 2022/7388 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/810129000)
 
 Bu durumda, 2023 Başkent Ankara Nazım İmar Planında öngörülen Kentsel Dönüşüm ve Gelişim Alanları Ana Planı yapılmadan ve alanın plansız gelişen, fiziki ve sosyal çevre koşulları sağlıksız ya da afet riski olan bölgeleri kapsadığına ya da bu kapsamdaki hangi alanların dönüştürülmesi amacıyla tesis edildiği nesnel, teknik ve bilimsel veri, tespit ve analizlerle ortaya konulamayan dava konusu kentsel dönüşüm ve gelişim proje alanı sınırının belirlenmesine ilişkin işlemde hukuka uyarlık görülmediğinden karar düzeltme isteminin kabulüyle mahkeme kararının bozulması gerektiği düşünülmektedir.
 

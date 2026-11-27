@@ -28,17 +28,25 @@ Gerçekten, Borçlar Kanununun 11. maddesinin ikinci fıkrasına göre kanunun �
 
 ## Yargıtay HGK 2025/85 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1145624300)
+
 Bilindiği üzere, 6098 sayılı Türk Borçlar Kanunu’nun ön sözleşme başlığı altında düzenlenen 29. maddesi “Bir sözleşmenin ileride kurulmasına ilişkin sözleşmeler geçerlidir. Kanunlarda öngörülen istisnalar dışında, ön sözleşmenin geçerliliği, ileride kurulacak sözleşmenin şekline bağlıdır” hükmünü içermektedir. Taşınmaz satış vaadi sözleşmeleri kaynağını bu maddeden almakla birlikte sözleşmeyle ilgili hükümler 6098 sayılı Kanun'un 237. maddesi, 4721 sayılı Kanun'un 706. maddesi ve Noterlik Kanunu'nun 60 ve 89. maddeleri ile Tapu Kanunu'nun 26 maddesinde yer almaktadır. Ancak bu düzenlemeler, taşınmaz satış vaadinin resmi şekilde düzenlenmedikçe geçerli olamayacağına, noterlerin diğer işler yanında taşınmaz satış vaatlerine ilişkin senetlerin düzenleme işlerini de yapacaklarına, noter tarafından düzenlenmiş bu sözleşmelerin tapu siciline şerh verilebileceğine ilişkin bulunup, şekil ve şerh ile sınırlıdır. Kanunlarda, taşınmaz satış vaadi sözleşmeleriyle ilgili ayrıntılı hüküm ve bir tanıma yer verilmemiştir.
 
 ## Yargıtay HGK 2024/496 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1087945400)
 
 Öte yandan, taşınmaz satış vaadi sözleşmeleri, 6098 Sayılı Türk Borçlar Kanunu 237. maddesi ( Borçlar Kanununun 213. maddesi) ile Türk Medeni Kanununun 706. ve Noterlik Kanununun 89. maddesi hükümleri uyarınca noter önünde re’sen düzenlenmesi gereken, bir başka anlatımla geçerliliği resmi şekil şartına bağlı kılınan, tam iki tarafa borç yükleyen ve kişisel hak sağlayan sözleşme türüdür. Vaat alacaklısı, taşınmaz satış vaadi sözleşmesi ile mülkiyet devir borcu yüklenen satıcıdan edim yerine getirilmediğinde Türk Medeni Kanununun 716. maddesi uyarınca açacağı tapu iptali ve tescil davasında borcun hükmen yerine getirilmesini isteyebilir.
 
 ## Yargıtay HGK 2024/107 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1012700900)
+
 Türk Medeni Kanunu’nun (TMK) “Hukukî işlem” başlıklı 706 ncı maddesi, “Taşınmaz mülkiyetinin devrini amaçlayan sözleşmelerin geçerli olması, resmî şekilde düzenlenmiş bulunmalarına bağlıdır’’ şeklindedir. 6098 sayılı Türk Borçlar Kanunu’nun (TBK) 237 nci maddesinde “Akdin şekli” başlığı altında; taşınmaz satımının geçerli olması için getirilen resmî senede bağlanması şartı, taşınmaz satış vaadi sözleşmeleri için de öngörülmüştür. 2644 sayılı Tapu Kanunu’nun 26 ncı maddesine göre taşınmaz satışları için tapu sicil müdürü veya tapu sicil görevlileri yetkili iken, 1512 sayılı Noterlik Kanunu'nun 60/3 üncü ve 89 uncu maddelerinde taşınmaz satış vaadi sözleşmelerinin noterlerce resen düzenleme şeklinde yapılacağı kuralı getirilmiştir.
 
 ## Yargıtay HGK 2013/1050 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/77569000)
 
 Kaynağını Borçlar Kanununun 22. maddesinden alan taşınmaz satış vaadi sözleşmeleri Borçlar Kanununun 213. maddesi ile Türk Medeni Kanununun 706 ve Noterlik Kanununun 89. maddesi hükümleri uyarınca noter önünde re'sen düzenlenmesi gereken bir başka anlatımla geçerliliği resmi şekil şartına bağlı kılınan, tam iki tarafa borç yükleyen ve kişisel hak sağlayan sözleşme türüdür. Vaat alacaklısı, taşınmaz satış vaadi sözleşmesi ile mülkiyeti devir borcu yüklenen satıcıdan edim yerine getirilmediğinde Türk Medeni Kanununun 716. maddesi uyarınca açacağı tapu iptal ve tescil davasında borcun hükmen yerine getirilmesini isteyebilir.
 
@@ -52,9 +60,13 @@ Taşınmaz satış vaadi sözleşmelerinden doğan haklar, kişisel bir hak nite
 
 ## Yargıtay 1. HD 2022/5799 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/848121200)
+
 3.2.3. 6098 sayılı Türk Borçlar Kanunu'nun 29. maddesinde “Kanunlarda öngörülen istisnalar dışında, önsözleşmenin geçerliliği, ileride konulacak sözleşmenin şekline bağlıdır” hükmü yer almakla kaynağını bu düzenlemeden alan taşınmaz satış vaadi sözleşmeleri, Borçlar Kanunu'nun 237. maddesi ile Türk Medeni Kanunu'nun 706. ve Noterlik Kanunu'nun 89. maddesi hükümleri uyarınca noter önünde re’sen düzenlenmesi gereken, bir başka anlatımla geçerliliği resmi şekil şartına bağlı kılınan, tam iki tarafa borç yükleyen ve kişisel hak sağlayan sözleşme türüdür. Vaat alacaklısı, taşınmaz satış vaadi sözleşmesi ile mülkiyeti devir borcu yüklenen satıcıdan edim yerine getirilmediğinde, Türk Medeni Kanunu'nun 716. maddesi uyarınca açacağı tapu iptali ve tescil davasında borcun hükmen yerine getirilmesini isteyebilir.
 
 ## Yargıtay 14. HD 2015/2372 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/176512700)
 
 Satış vaadi sözleşmesinden kaynaklanan tapu iptal ve tescil davalarının kabulü için aranacak ilk husus, sözleşmenin ifa olanağının bulunup bulunmadığıdır. Elbirliği ortaklığına (iştirak halinde mülkiyete) konu bir taşınmazda elbirliği ortaklarından birinin, miras payını, ortaklık dışı bir kişiye satmayı vaat etmesi halinde sözleşme bir taahhüt muamelesi olarak geçerlidir. Ancak elbirliği ortaklığı çözülünceye kadar sözleşmenin ifa olanağının varlığından söz edilemez. Fakat elbirliği ortaklığına dahil paydaşlar arasında gayrimenkul satış vaadi sözleşmesi yapılmışsa iştirak bozulmamak kaydıyla satıcı elbirliği ortağının payının alıcı elbirliği ortağının payına ilave edilmek suretiyle satış vaadi sözleşmesinin ifa olanağı vardır.
 

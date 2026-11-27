@@ -21,6 +21,8 @@ uyari: "Derleyenin seçtiği alıntılardır; kararın tamamı değildir. Künye
 
 ## İstanbul BAM 15. HD 2023/20 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/849255500)
+
 Sözleşmesinin 3-b madde ve fıkrasında; ... parselde bodrum katta inşa edilecek lojistik ve depolama alanlarının mülkiyetinin %54'ünün davalı arsa sahibinin, %46'sının ise davacı yükleniciye ait olacağı, depolama ve lojistik alanlar harici inşa edilecek ticari birimlerin de sözleşmenin 5.1. Maddesi uyarınca satılacağı ve satış bedelinin %58'inin arsa sahibine, %48'inin ise davacı yükleniciye ait olmak üzere paylaştırılacağı, keza satılamayan bağımsız bölümlerin de sözleşmenin 5.1. Maddesine göre mülkiyetlerinin %58'inin davalı arsa sahibine, %42'sinin ise davacı yükleniciye ait olmak üzere paylaştırılacağı kararlaştırılmıştır. Sözleşmenin 7.1. Maddesinde; tüm taşınmazlar üzerine yapılacak inşaat için en geç inşaat ruhsatının alınmasından itibaren 48 ayda inşaatın anahtar teslim esasına göre tamamlanarak tümüyle hazır hale getirileceği düzenlenmiştir. Yüklenici yapı ruhsatı alındıktan sonra (14/08/2018 tarihinde alınmış) 48 ay içinde inşaatı bitirerek teslim edip, sonrasında en geç 12 ay içinde yapı kullanma izin belgesini almakla yükümlüdür.
 Sözleşme uyarınca asıl inşaat ... ve ... parselde yapılacaktır. ... parselde ise yapılaşma olmayacak, bu parsel üzerine spor ve sosyal alanlar yapılacaktır. Bu kapsamda sözleşme uyarınca ... parsel ve ... parselin yapı ruhsatları 14/08/2018 tarihinde alınmış, ... parseldeki yapıların inşaatına başlanmış, A ve B bloktaki binalara ilişkin kat irtifakları 08/11/2019 tarihinde kurulmuştur. Davalı arsa sahibi şirket tarafından İstanbul Anadolu 4. Asliye Ticaret Mahkemesi'nin 2021/1043 D. İş sayılı dosyasından yaptırılan tespit akabinde hazırlanan 03/03/2022 tarihli bilirkişi raporunda; inşaatın bitirilme oranının %55,65 olduğu, İstanbul Anadolu 4. Asliye Hukuk Mahkemesi'nce seçilen bilirkişilerce düzenlenen bilirkişi raporunda tespit edildiği şekilde; inşaatın yapılması gereken parsellerin birinde işe hiç başlanmamış olması dikkate alınarak, sözleşmeye göre uzamış vade tarihi olan 15/08/2022 gününde işin tamamlanmasının mümkün olmadığı, yüklenicinin işe hiç başlamayacağının anlaşıldığı belirtilmiştir.Aynı rapora göre; ... parseldeki ... ve ...
 
@@ -28,6 +30,8 @@ Blok binaların yapı ruhsatının 04/11/2019 tarihinde alındığı, 22/01/2022
 Yaklaşık ispat kuralı uygulanırken, iddianın doğruluğunu kabul etmekle birlikte, aksinin mümkün olduğu ihtimalini de gözetmelidir. Bu nedenle, ihtiyati tedbire karar verilirken, talebin haksız olma ihtimali de dikkate alınarak talepte bulunandan kural olarak teminat alınır. Geçici hukuki koruma kapsamında olan ihtiyati tedbir kararı verirken hakim, asıl uyuşmazlığı çözecek içerikte bir karar vermemelidir.
 
 ## İstanbul BAM 17. HD 2022/1494 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/839910800)
 
 Sözleşmenin 3. maddesinde, ana amacın, kooperatif tarafından yükleniciye teslim edilen arsalar üzerine 244 adet bağımsız bölümün yapılmasının olmadığı, ana amacın, kooperatife ve üçüncü kişilere ait arsaların tevhid/ifraz edilmesi ile oluşacak karma büyük proje arsaları üzerinde 244 adet bağımsız bölümün yapılması olduğu, proje alanı içindeki aynı zamanda kooperatif üyesi olan arsa/ünite sahipleriyle işbu ünitelerin alımı hususunda 750.000 USD üzerinden anlaşmaya varıldığı, her bir bağımsız bölümün 250.000 USD bedelle alımının garanti edildiği, sonradan emsal değerinde (2.00) artış olması veya emsal hesabında dikkate alınan net arsa alanının (23.886 m2) büyümesi durumunda elde edilecek net kapalı inşaat alanından arsa sahibine %38 oranında ek m2 tahsisine gidileceği, aleyhte olan durumların mücbir sebepler dışında arsa sahibine yansıtılmayacağı; sözleşmenin 4.1. maddesinde, bağımsız bölümlerin her birinin net alanının en az 62 m² olacağı, brüt alanın her biri için 75 m², genel brüt alanın ise 85 m² olduğu, projelendirme aşamasında bu verilerden faydalanılarak ve belirtilen net kullanım alanını sağlayarak arsa sahibine bağımsız bölümün teslim edileceği; sözleşmenin 8. maddesinde,
 işin bedelinin yükleniciye bu sözleşmede tarif edildiği süre ve şartlarda devredilecek arsadan ibaret olduğu, kendisine başkaca bir bedel ödenmeyeceği, arsa sahiplerinin, yükleniciye verilecek arsa hacminde mücbir olmayan hiçbir sebep ve şarttan dolayı, inşaatın yapımı ile ilgili başkaca bir bedel veya teknik şartname dışındaki talepleri haricinde maliyet farkı ödemeyeceği, yüklenicinin yapılan işin değerinin kendine bırakılan arsa değerinden fazla olduğunu iddia edemeyeceği gibi arsa sahibinin de belirlenen paylaşım şekline karşılık sahip olacağı 244 adet bağımsız bölümün değerinin daha düşük olduğunu iddia edemeyeceği, arsa sahibinin 244 adet bağımsız bölüm dışında yükleniciden hiçbir hisse ve hak talep etmeyeceği ve yapılan paylaşıma da itiraz etmeyeceği, sözleşmenin 9. maddesinde, her türlü mülkiyete mülkiyete ilişkin vesair hukuki engellerin kaldırılması koşulu ile yüklenicinin, imar planlarının belediyece onaylanıp ifraz ve(ya) tevhit işlemlerinin tapuya tescilinden ve tüm projelerin onaylanıp yapı ruhsatının alınmasından sonra 6 ay içinde inşaata başlayarak 60 ayda inşaatı tamamlamayı ve iskan ruhsatına hazır hale getirmeyi taahhüt etiği, sözleşmenin 37. maddesinde, sözleşme
@@ -38,6 +42,8 @@ Somut olayda, davalı kooperatife ait taşınmazın, müstakil tapusu olan tek b
 fiili ödeme tarihinin baz alınarak ödeneceğinin taahhüt edildiği, SPK onaylı ...
 
 ## İzmir BAM 11. HD 2022/1411 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/814727600)
 
 Davacı kooperatif imalatın sözleşmeye uygun olmadığını, eksik ve ayıplı olduğunu ileri sürmektedir. Eldeki dava dosyası kapsamında düzenlenen bilirkişi ek ve kök raporlarında davalı yüklenci tarafından yapılan imalatının sözleşmeye aykırı olduğu, mevcut hali ile eksik ve ayıplı imalat bulunduğu tespit edilmiştir. Her ne kadar; davalı tarafından 30/06/2000 tarihli tutanak içeriğine göre edimlerin eksiksiz yerine getirildiği savunulmuş ise de fiili durumun tutanak içeriğine uygun düşmemesi ve iddianın ileri sürülüş şekline göre kooperatif yöneticileri ve yüklenici tarafından yapılan iş ve işlemlerin kooperatifi zararlandırmaya yönelik olup ceza dava dosyasına konu edilmesi dikkate alındığında, davalının bu savunmasına itibar edilmemesinde usul ve yasaya aykırı bir yön bulunmadığından, davalının bu konuya ilişkin istinaf talebi yerinde görülmemiştir.
 
@@ -59,6 +65,8 @@ Asıl ve birleşen davalarda davacı ve davalı kooperatif vekili, asıl ve birl
 
 ## Ankara BAM 31. HD 2022/433 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/756836500)
+
 Davacı kooperatif sözleşmenin tarafı olup sözleşme kapsamında tarafların aktif husumet ehliyetlerinin bulunduğu, davacı kooperatifin bir kısım bağımsız bölümleri üyelerine devretmesi müddeabihin temlikli mahiyetinde olmadığı, taraf ehliyetini sona erdirmediği dolayısıyla sözleşme ayakta olup cezai şartı talep etme hakkının davacı kooperatife ait olduğu kanaatine varılmıştır.
 
 …
@@ -78,10 +86,14 @@ Ankara 4. Asliye Ticaret Mahkemesi'nin 2011/561 Esas, 2020/699 nolu kararının 
 
 ## İstanbul BAM 15. HD 2022/213 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/725911900)
+
 Yapı Kayıt Belgesi alan yapılara, talep halinde ilgili mevzuatta tanımlanan ait olduğu abone gurubu dikkate alınarak geçici olarak su, elektrik ve doğalgaz bağlanabilir.Yapı ruhsatı alıp da yapı kullanma izin belgesi almamış veya yapı ruhsatı bulunmayan yapılarda, Yapı Kayıt Belgesi ile maliklerin tamamının muvafakatinin bulunması ve imar planlarında umumi hizmet alanlarına denk gelen alanların terk edilmesi halinde yapı kullanma izin belgesi aranmaksızın cins değişikliği ve kat mülkiyeti tesis edilebilir. Bu durumda, ikinci fıkrada belirtilen bedelin iki katı ödenir..... Yapı Kayıt Belgesi, yapının yeniden yapılmasına veya kentsel dönüşüm uygulamasına kadar geçerlidir. Yapı Kayıt Belgesi düzenlenen yapıların yenilenmesi durumunda yürürlükte olan imar mevzuatı hükümleri uygulanır. Yapının depreme dayanıklılığı hususu malikin sorumluluğundadır...' şeklinde olduğunu, geçici 16. Maddedeki yukarıda belirtilen ibarelere bakıldığında yapıların imar mevzuatına uygun hale getirilmesinin imkan dahilinde olduğu hususunun açık olduğunu, 3/07/2021 Tarihli Olağan Genel Kurul Toplantısının 10. Maddesinde alınmış olan kararlarda, "....
 Bu nedenle kooperatifin tapularının tamamının ortak adına ferdileştirilmesi ve diğer gerekli işlemlerin tamamlanmasına müteakip tasfiye sonu genel kurulunun yapılarak kooperatifin sicilden terkin edilmesi gerekmektedir." denildiğini, Kooperatifin 3194 sayılı İmar Kanununun geçici 16.maddesi kapsamında yapı kayıt bedelleri ile imar barışının 2.Etap ödemeleri ile diğer masrafların ödenmesine müteakip tapuların kooperatifin ortakları adına çıkartılacağını, Kooperatifin ferdileştirme sürecine ve bağımsız tapu alabilmek için işlemlere başladığını belirterek, istinaf taleplerinin kabulü ile mahkeme kararının kaldırılmasını talep etmiştir. Davalı vekili istinaf dilekçesinde, ihtiyati haczin reddine ilişkin karar isabetli olsa da, müvekkili lehine vekalet ücretine hükmedilmemiş olduğunu belirterek, yerel mahkeme kararının kaldırılmasına karar verilmesini istemiştir.
 
 ## İzmir BAM 22. HD 2022/18 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/718910600)
 
 Mahkemece, iddia, savunma ve tüm dosya kapsamına göre, asıl dava yönünden, davacıların tarafların kabulünde olan sözleşme uyarınca yapmış olduğu harcamaların 548.521,21 TL sinin davalıdan talep edebileceği, davacının sözleşmenin fesih iradesinin BK 484 maddesinde vücut bulan fesih olduğu, davacıların sözleşmenin ifa edileceğine dair yaptıkları harcamaları ve yoksun kaldıkları kar kayıplarının davalı tarafça bir bütün olarak ödenmesi gerektiğini bildirerek, davalıya göndermiş olduğu Karşıyaka 2.
 
@@ -99,6 +111,8 @@ Davalı-karşı davacı vekilinin istinaf başvurusunun Hukuk Muhakemeleri Kanun
 
 ## İstanbul BAM 15. HD 2021/808 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/652306300)
+
 Sözleşme gereğince, yeni yapılacak binada zemin kat, 5 nolu bağımsız bölüm ile, 2.normal kat, 15 ve 19 nolu bağımsız bölümlerin davalı ...'a verileceği belirlenmiştir. Sözleşmenin "işin süresi, başlama ve teslim tarihi" başlıklı 13.maddesinde, yüklenicinin sözleşmenin imzalandığı tarihten itibaren 18 ay içerisinde inşaat ruhsatını alacağı, şayet tevhit olmaz ise, bu sözleşmeye 12 ay daha süre ekleneceği, inşaat ruhsatı alındığında yüklenicinin en geç 30 gün içinde fiilen inşaata başlayacağı, inşaatın fiilen başlamasından itibaren 24 ay içinde dairelerin anahtar teslim olarak arsa sahiplerine teslim edileceği düzenlenmiştir. Dosyada bulunan tapu kayıtlarına göre, ... parsel sayılı taşınmazın malikleri; ..., ..., ..., ..., ..., ..., ... ve ..., ... parsel sayılı taşınmazın malikleri ise, ..., ..., ... ve ...'tır. Davalılar arasında 08/11/2016 tarihinde Zeytinburnu ... Noterliğinde ... yevmiye sayılı düzenleme şeklinde satış vaadi ve arsa payı karşılığı inşaat sözleşmesi imzalanmıştır.
 Davalı şirket bu sözleşme ile dava konusu ... parsel sayılı taşınmaz ile bitişiğindeki ..., ..., ... ve ... parsel sayılı parsellerde bulunan taşınmazları da kapsar şekilde 6306 sayılı Yasa hükümlerinden de faydalanmak suretiyle binalar yapıp teslim etme işini üstlenmiştir. Dosyada yer alan Güngören Belediyesi İmar ve Şehircilik Müdürlüğünce gönderilen cevabi yazıda; eski ..., ..., ..., ..., ... ve ... sayılı parsellerin tevhidi sonucu ortaya çıkan ... ada, ... sayılı parsel sayıl taşınmaz üzerindeki; ... blok için 20/07/2017 tarihinde 87 bağımsız bölüme ve ... bloktaki 81 bağımsız bölüme yönelik 30/06/2017 tarihinde, ... Bloktaki 55 adet bağımsız bölüme yönelik 30/06/2017 tarihinde yapı ruhsatlarının alındığı, ... ada ... sayılı parsel üzerine 28/05/2014 tarihi itibariyle ... sayılı ve ... sayılı parsellerdeki eski yapılar için "riskli yapı" şerhinin işlendiği 20/06/2016 tarihinde, ... ve ... parsel üzerindeki binaların yıkıldığına ilişkin formların doldurulduğu belirtilmiştir.
 
@@ -107,6 +121,8 @@ Bu durumda mahkemenin, davalılar arasında imzalanan sözleşmede taraf olmayan
 
 ## İstanbul BAM 15. HD 2020/1342 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/609586400)
+
 Noterliği'nin 16.10.2014 tarihli, .... yevmiye numaralı düzenleme şeklinde kat karşılığı inşaat sözleşmesinin, Belediye tarafından gönderilen cevabi yazısında, İmar Kanununa göre A bloğun otel olarak inşa edilmesinin mümkün olmadığı belirtildiğinden , imkansızlık nedeniyle sona erdiğinin tespiti talepli dava açılmış, mahkemece 10.05.2017 tarih, 2017/495 Karar sayılı kararı ile, taraflar arasındaki sözlemenin başlangıçtaki hukuki imkansızlık nedeniyle geçersiz olduğunun tespitine karar verilmiş, davalı tarafça mahkeme kararına karşı istinaf kanun yoluna başvurulmuştur.Dairemizin 13.12.2018 tarihli kararı ile, İstanbul Büyükşehir Belediyesi İmar ve Şehircilik Daire Başkanlığı Planlama Müdürlüğü'nün 01.12.2015 tarihli yazısında, İmar Kanunu uyarınca A bloğun otel olarak inşa edilmesinin mümkün olmadığı belirtilmiş ise de, imara aykırı ve kaçak yapılar için 18.05.2018 tarihinde yürürlüğe giren 7143 Sayılı Kanun'un 16.
 Maddesi ile 3194 Sayılı İmar Kanunun'na eklenen geçici 16.maddesi ile yapılan yeni düzenleme kapsamında yapının imar barışı yasasından yararlanma imkanı bulunup bulunmadığı hususunun araştırılarak sonucuna göre karar verilmesi gerektiği gerekçesiyle mahkeme kararı kaldırılarak dosyanın yerel mahkemesine gönderilmesine karar verilmiştir. Aynı mahkemenin 2019/39 Esasına kaydedilen dosyada mahkemece yapılan yargılamada Dairemiz kararı doğrultusunda yapılan inceleme sonunda, 04.12.2019 tarih, 2019/1079 Karar sayılı karar ile, imara aykırı ve kaçak yapılar için 18.05.2018 tarihinde yürürlüğe giren 7143 Sayılı Kanun'un 16. Maddesi ile 3194 Sayılı İmar Kanunu'na eklenen geçici 16.maddesi ile yapılan yeni düzenleme kapsamında imar barışı yasasından yararlanma imkanı bulunduğu ve bu imkandan yararlanıldığı ve böylece başlangıçtaki hukuki imkansızlığın ortadan kalktığı gerekçesiyle davanın reddine karar verilmiş, bu karara karşı davacı tarafça istinaf kanun yoluna başvurulmuştur.Dairemizin 11.03.2020 tarihli kararı ile, imara aykırı ve kaçak yapılar için 18.05.2018 tarihinde yürürlüğe giren 7143 Sayılı Kanun'un 16.
 
@@ -114,6 +130,8 @@ Maddesi ile 3194 Sayılı İmar Kanunu'na eklenen geçici 16.maddesi ile yapıla
 sahibi tarafından diğer davalı yüklenici şirketlere tapusu devredilen A bloktaki 108 adet bağımsız bölümün tapularının iptali ile bu bağımsız bölümlerin davalı arsa sahibi adına geri tesciline ve 3 parsel sayılı taşınmaz üzerine ihtiyati tedbir konulmasına karar verilmesini talep etmiş, mahkemece olayda yaklaşık ispat koşulları gerçekleşmediği gerekçesiyle talebin reddine karar verilmiştir.Tüm bu anlatımlar ışığında somut olay değerlendirildiğinde; mahkemece yukarıda söz edilen ve derdest olan dava dosyalarının mahiyeti, aşamaları ve dosyalara sunulan belgeler ile Bakırköy 7.
 
 ## İstanbul BAM 17. HD 2018/785 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/402609100)
 
 Dava, davalı kooperatifin 01/06/2014 tarihinde yapılan 2013 yılı olağan genel kurul toplantısında alınan bütün kararların iptaline ilişkindir.
 

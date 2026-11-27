@@ -52,6 +52,8 @@ Davacı ..., ... Yapı İnşaat Adi Ortaklığını oluşturan ortaklardan biri 
 
 ## Yargıtay 6. HD 2025/3804 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1192391000)
+
 Davacı vekili dava dilekçesinde; davacı ... ... ile davalı şirket arasında 05.02.2018 tarihinde arsa payı karşılığı inşaat sözleşmesi düzenlendiğini, davalı şirketin, müvekkillinin yaşlılığından ve bilgisizliğinden faydalanarak düzenlediği sözleşmeye konu taşınmazı önce kendi üzerine aldığını ve daha sonra diğer davalı ...'e tapuda devrettiğini, davalılar arasında yapılan tapu devrinin muvazaalı olduğunu, taşınmazın avans olarak davalı şirkete devredildiğini ileri sürerek, arsa payı karşılığı inşaat sözleşmesinin feshi ile taşınmazın tapu kaydının iptali ile müvekkili adına tesciline karar verilmesini talep ve dava etmiştir.
 
 …
@@ -70,6 +72,8 @@ Davacı arsa sahipleri tarafından açılan davada davalı şirket ile araların
 
 ## Yargıtay 6. HD 2025/3387 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1181934700)
+
 Mahkemece bozmaya uyularak verilen karar, taraf vekillerince duruşma istemli temyiz edilmekle; kesinlik, süre, temyiz şartı ve diğer usul eksiklikleri yönünden yapılan ön inceleme sonucunda, 14.10.2025 tarihinde duruşma yapılmasına ve duruşma gününün taraflara davetiye ile bildirilmesine karar verilmiştir.
 
 …
@@ -83,6 +87,8 @@ Taraflar arasında düzenlenen 30.11.2009 tarihli sözleşmede, asıl davada yü
 (2) numaralı bentte açıklanan nedenlerle, asıl davada taraf vekillerinin diğer temyiz itirazlarının kabulü ile temyiz olunan Mahkeme kararının, asıl davada taraflar yararına BOZULMASINA …
 
 ## Yargıtay 6. HD 2025/1370 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1151997400)
 
 Davacılar vekili dava dilekçesinde; davacı arsa sahipleri ile davalı yüklenici arasında 13.02.2018 tarihli arsa payı karşılığı inşaat sözleşmesi imzalandığını, sözleşme konusu arsa davalı yükleniciye devredilip inşaatın tamamlanmış olmasına rağmen sözleşme uyarınca arsa sahiplerine verilmiş olan bodrum+zemin kattaki depolu dükkan vasıflı bağımsız bölümün davacılar adına tescilinin gerçekleştirilmediğini ileri sürerek, 5 ve 6 no'lu bağımsız bölümlerin tapu kayıtlarının iptali ile davacılar adına tescilini talep etmiştir.
 
@@ -102,6 +108,8 @@ Temyiz olunan Bölge Adliye Mahkemesi kararının BOZULMASINA …
 
 ## Yargıtay 6. HD 2025/773 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1167179500)
+
 Davalı – karşı davacı vekili cevap dilekçesinde; taraflar arasındaki ... 6.
 
 …
@@ -118,6 +126,8 @@ Yukarıda 2.1. bendinde açıklanan nedenlerle davacı-karşı davalının temyi
 
 ## Yargıtay 6. HD 2025/546 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1145718900)
+
 Davalı vekili cevap dilekçesinde; görev ve husumet itirazlarının bulunduğunu, davaya dayanak sözleşmenin vekil edeni ile davacı taraf arasında gerçekleşmediğini, davacı şirket aleyhine açılan Kocaeli 4.
 
 …
@@ -132,6 +142,8 @@ Bu nedenle arsa payı karşılığı inşat sözleşmesi tapuya şerh edildiği 
 Temyiz olunan Bölge Adliye Mahkemesi kararının BOZULMASINA …
 
 ## Yargıtay 6. HD 2025/444 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1138890300)
 
 İlk Derece Mahkemesince bozmaya uyularak verilen karar davacı vekilince duruşma istemli temyiz edilmekle; kesinlik, süre, temyiz şartı ve diğer usul eksiklikleri yönünden yapılan ön inceleme sonucunda, 11.02.2025 tarihinde duruşma yapılmasına ve duruşma gününün taraflara davetiye ile bildirilmesine karar verilmiştir.
 
@@ -154,6 +166,8 @@ Temyiz olunan İlk Derece Mahkemesi kararının BOZULMASINA …
 
 ## Yargıtay 11. HD 2024/7155 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1094101600)
+
 Davacılar vekili dava dilekçesinde; müvekkillerinin dava dışı ... ile birlikte davalı ......A.Ş.'nin ortakları olduklarını, davalı ...'a ait olan Fikirtepe Kentsel Dönüşüm alanında yer alan adalar üzerinde ... ... ile birlikte dava konusu Fikirtepe projesinin yürütüldüğünü, Fikirtepe Projesinin gerçekleştirileceği taşınmazların tevhit/ifraz işlemi öncesi davalı ... adına tapuda kayıtlı olduğunu, aynı zamanda Fikirtepe Projesi kapsamında kalan taşınmazların diğer malikleriyle de ... tarafından gayrımenkul satış vaadi ve kat karşılığı inşaat sözleşmelerinin yapıldığını, inşaat için gerekli tüm izinlerin ... tarafından alındığını, projenin ... ait olduğunu, ... ...'nın davacılardan mal kaçırmak için ... yönetim kurulu başkanı sıfatıyla yönetim yetkisini kötüye kullanıp genel kurulda karar almadan Fikirtepe projesinin uygulanacağı tapuları, diğer maliklerin imzaladığı sözleşmeleri topluca davalıların oluşturduğu ortaklığa devrettiğini, davalılardan ...
 
 …
@@ -167,6 +181,8 @@ VI. SONUÇ: Yukarda açıklanan nedenlerle, davacılar vekilinin temyiz istemini
 
 ## Yargıtay 6. HD 2024/4896 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1112766700)
+
 Davalı vekili süresi içerisinde cevap dilekçesinde özetle; protokolün taraflarının, dava dışı "Sadunoğlu İnşaat A.Ş" ve davalılar olduğunu, davacıların aktif husumet ehliyetinin bulunmadığını, protokolün resmi şekle uyulmadan yapıldığından geçersiz olduğunu, tarafların ancak verdiklerini geri alabileceklerini, davacılardan ...'nun, davalılardan ...'in banka hesabına gönderdiği paraların tamamının gönderildiği para cinsi üzerinden, davacı ...'na, aynı banka hesapları üzerinden tamamen iade edildiğini, müvekkiline gönderilen Türk Lirası havalelerin açıklama kısmında, USD karşılığı gibi bir açıklama olmadığını, bu nedenle bu gönderilenden Türk Lirası olanların döviz cinsinden karşılık olduğunun ileri sürülmesinin mümkün olmadığını, ... tarafından gönderilen havalelerin, Sadunoğlu İnşaat A.Ş ile yapılan protokolde ...'e ait olduğu belirtilen banka hesabına değil, ...'in başka bir hesabına yapıldığını, havalenin gönderildiği hesabın davacıların ortak hesabı olmadığını, bu nedenle diğer davacı ...'nun bir hak ileri sürmesinin mümkün olmadığı gibi, ...'in ödeme almadığı için iadesinden de sorumlu tutulamayacağını savunarak, davanın reddine karar verilmesini istemiştir.
 
 İlk Derece Mahkemesince makbuz içerisinde gönderilen paranın sözleşmeye istinaden ödendiği veya kararlaştırılan USD karşılığı olduğu belirtilmemiş olduğu, makbuza açıkça dava konusu olan 1314 ada, 9 parselin bedeli diye belirtilmediği, sözleşme fesih olduğunda taraflar karşılıklı olarak verdiklerini iade yükümlülüğünün altında olduğu, davalıların bu iade yükümlülüğünü yerine getirdiği, davacıların ancak ve ancak ihtarnamenin tebliğ tarihinden itibaren faizi ile birlikte isteyebilecekleri, ancak bu yönde talepleri bulunmadığı, 13/03/2018 tarihinde gönderilen para dekontunda kur karşılığı yazılmadığı, davacılar davalılar tarafından iade edilen Türk Lirası karşılığına rağmen itiraz etmeden Türk Lirası karşılığında kabul ettikleri, bu nedenle geri iadenin de Türk Lirası karşılığından kabulü anlamına geldiği ve davacıların davalılar tarafından iade edilen Türk Lirası karşılıklara rağmen itirazı kayıt koymadan Türk Lirası üzerinden kabul ettikleri , bu durumun da geri iadenin Türk Lirası üzerinden yapıldığının kabulü gerektiği gerekçesiyle, davanın reddine karar verilmiştir.
@@ -179,6 +195,8 @@ SONUÇ: Yukarıda açıklanan nedenlerle İstanbul Bölge Adliye Mahkemesi 15. H
 
 ## Yargıtay 6. HD 2024/4296 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1111925400)
+
 İlk derece mahkemesince, arsa payı karşılığı inşaat sözleşmesi nedeniyle başlatılan icra takibi nedeniyle borçlu olunmadığının tespitine ilişkin menfi tespit istemli davada, davalının, davacıya yönelik takibe dayanak yaptığı alacağın varlığını ispat edemediği, davacının kat karşılığı inşaat sözleşmesini davalı ile değil, dava dışı başka biri ile yaptığı, taraflar arasında düzenlenen ön protokolün de geçerli olmadığı, hâl böyle olunca davalının davacıya borçlu bulunmadığı, yapılan icra takibinin yersiz olduğu gerekçesiyle, davanın kabulüne, koşulları oluşmadığından davacının kötü niyet tazminatı talebinin reddine karar verilmiştir.
 
 …
@@ -189,6 +207,8 @@ sözleşmesi olup noterde düzenleme şeklinde yapılmadığı ve resmi şekil k
 SONUÇ: Yukarıda açıklanan nedenlerle İzmir Bölge Adliye Mahkemesi 22. Hukuk Dairesi kararına ilişkin taraf vekillerinin tüm temyiz istemlerinin reddiyle usul ve kanuna uygun bulunan kararın ONANMASINA …
 
 ## Yargıtay 6. HD 2024/3779 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1129466600)
 
 Davacı vekili dava dilekçesinde özetle; müvekkilinin davalı...Aras şirketi ile Bakırköy 7.
 
@@ -206,6 +226,8 @@ Kaynağını 6098 Sayılı Türk Borçlar Kanunu'nun 29. maddesinden alan taşı
 
 ## Yargıtay 6. HD 2024/2077 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1095315200)
+
 Davacı vekili dava dilekçesinde özetle; arsa sahibi ... ve ... ile ... Turizm Eğitim ve Yatırım Tic. San.
 
 …
@@ -222,6 +244,8 @@ Hukuk Dairesi'nin 2017/449 Esas 2017/2579 Karar sayılı ilamları da dikkate al
 İlk Derece Mahkemesi kararının BOZULMASINA …
 
 ## Yargıtay 6. HD 2024/1478 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1094575300)
 
 Davalı ... cevap dilekçesinde özetle; inşaatın %75 oranında tamamlandığını, yükleniciler arasında uyuşmazlık olduğundan tapu devirlerini yapmadıklarını savunarak, davanın reddini istemiştir.
 

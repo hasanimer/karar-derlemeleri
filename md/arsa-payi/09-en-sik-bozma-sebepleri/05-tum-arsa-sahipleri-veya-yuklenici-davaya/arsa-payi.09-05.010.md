@@ -21,6 +21,8 @@ uyari: "Derleyenin seçtiği alıntılardır; kararın tamamı değildir. Künye
 
 ## Yargıtay 15. HD 2005/1704 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/16408500)
+
 Tüm arsa sahipleri ile yüklenici arasında biçimine uygun olarak düzenlenen 25.11.1998 günlü kat karşılığı inşaat sözleşmesinin 4. sayfa 15.maddesinde inşaatın sözleşme tarihinden itibaren teslim edileceği, edilmediği takdirde her geçen ay için arsa sahiplerine ait olan her bağımsız bölümün o günün rayiç kira değeri üzerinden kira bedelini yüklenicinin ödeyeceği kararlaştırılmıştır. Buna göre inşaatın bitirilip teslim edilme tarihi 25.1.2001'dir. Taraflar arasındaki karşılıklı ihtarlar ve 1.8.2001 günlü taahhütnamaye göre 5, 13, 14, 16 nolu bağımsız bölümler davacı arsa sahiplerine kalmış olup, dosya içeriğine göre yükleniciler iskân ruhsatını almamışlardır. Davalı yükleniciler davacılara kalan bağımsız bölümleri teslim tarihinden önce tamamlayıp fiilen teslim ettiklerini kanıtlayamamışlardır. Bu durumda davacı arsa sahiplerinin 5, 13, 14 nolu bağımsız bölümler yanında 1.6.2001 tarihinde sattıkları 16 nolu bağımsız bölüm için 25.1.2001 tarihinden 1.6.2001 tarihine kadar gecikme tazminatı (kira kaybı) istemekte haklı olduklarının kabulü gerekir.
 Mahkemece bu husus gözden kaçırılarak bilirkişilerin, satılmış olması nedeniyle 16 nolu bağımsız bölümle ilgili gecikme tazminatı istenemeyeceğine dair görüşüne itibar edilerek satış tarihine kadar bu bağımsız bölüm için gecikme tazminatına hükmedilmemesi doğru olmamış, kararın bu yönden davacılar yararına bozulması gerekmiştir.
 
@@ -54,6 +56,8 @@ Aydın Asliye Ticaret Mahkemesi'nin 09.07.2025 tarih ve 2024/464 Esas, 2025/483K
 
 ## Gaziantep BAM 17. HD 2024/987 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1078846100)
+
 Davalı taraf kendisine usulüne uygun tebligat yapılmasına rağmen yasal süresi içerisinde cevap dilekçesi sunmamıştır.
 
 …
@@ -71,6 +75,8 @@ Davalı taraf kendisine usulüne uygun tebligat yapılmasına rağmen yasal sür
 Davalı vekilinin istinaf başvurusunun kabulü ile,....... Esas ve 2021/35 Karar sayılı kararının HMK'nın 353/1-a,6. maddesi gereğince KALDIRILMASINA …
 
 ## Antalya BAM 7. HD 2024/575 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1033440200)
 
 Davalı şirket cevap dilekçesi sunmamış olup, duruşmalara katılan tasfiye memuru ..., inşaat işleriyle ilgilenen ortağın ... olduğunu, yapılan inşaatla ilgili bilgi sahibi olmadığını, arsa sahibinin satılan bağımsız bölümlerde tapu vermeyle ilgili problem yarattığını bildiğini beyan etmiştir.
 
@@ -90,6 +96,8 @@ Yerel mahkeme kararının esası incelenmeksizin ORTADAN KALDIRILMASINA ve davan
 
 ## İstanbul BAM 15. HD 2023/764 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/916286200)
+
 Hukuk Dairesince eldeki davalarda bu yönde bir değerlendirme yapılarak binanın yasal statü kazanıp kazanmadığının tartışılması istendiğinden, iskan işlemleri yönünden de belediyece tereddüt oluştuğunu, Belediyece söz konusu Yapı Kayıt Belgesinin iskan ile aynı sonuçları doğurduğunu, bu yönü ile iskan alınmasına gerek olmadığı yönünde yerel mahkemeye yazılı olarak bilgi verdiğini, mahkemece bu hususların dikkate alınmayarak, Yapı Kayıt (iskan) belgesinin alınması açısından verilen sürelerin yeterli olduğu, bu bağlamda 04.12.2020 tarihli Ümraniye Belediyesinin yazısına istinaden tahkikata son vermesinin yasaya aykırı olduğunu, ıslah ve zamanaşımı açısından; davalıya usulüne uygun bir şekilde tebliğ edilmediğini, davalının Almanya ülkesinde ikamet ettiğini ve bu sebeple süresinde cevap dilekçesi sunulamadığını, oysa mahkemenin yurt içi giriş çıkış kayıtlarının belirtilen tarih açısından istenilmesi gerekirken bu yönde bir ara karar oluşturmayarak yasaya aykırı hareket ettiğini, mahkemece iskan alınması için kendilerine yeteri kadar süre tanınmadığını, bildirim yükümlülüğü, açık ayıp ve eserin teslimi açısından mahkemenin eksik inceleme yaptığını belirterek, mahkeme kararının
 kaldırılmasını, davanın reddine karar verilmesini talep etmiştir. Taraflar arasındaki uyuşmazlık, 6098 sayılı Türk Borçlar Kanunu 470 ve devamı maddelerinde düzenlenen eser sözleşmesinin bir türü olan kat karşılığı inşaat sözleşmesinden kaynaklanmaktadır. Davacı arsa sahibinden arsa satın alan, davalı ... İnşaat ve ... Şti. yüklenici, davalı ... bağımsız bölüm satın alan kişidir. Somut olayda, davalı ... Şti. ile dava dışı tasfiye halinde ... A.Ş. arasında Eyüp ... Noterliği'nin 22/04/1994 tarih ... yevmiye nolu düzenleme şeklinde kat karşılığı inşaat sözleşmesi düzenlenmiş olup, bilhare davalı ... İnşaat ve ... Şti. ile ... ve ...e vekaleten kendi adına asaleten ... arasında 15.01.2021 arihli ek sözleşme ile asıl sözleşmenin 8. Maddesi gereğince ... tarafından arsanın ...'e satıldığı, bilhare arsanın 60/100 hissesinin ..., ...'e satıldığı, asıl sözleşmenin 2. Maddesinin değiştirildiği, buna göre yükleniciye düşecek A blok %47 hissesinin yüklenici tarafından 3.
 
@@ -103,6 +111,8 @@ Kabule göre de, mahkemece mahallinde keşif yapılmış ise de A ve B bloktan o
 HÜKÜM: Gerekçesi yukarıda açıklandığı üzere; 1-Davalı vekilinin istinaf başvurusunun esasa ilişkin sebepler incelenmeksizin usul yönünden KABULÜNE,2-İstanbul Anadolu 8. Asliye Ticaret Mahkemesi'nin 17/02/2021 tarih, 2015/401 Esas, 2021/116 Karar sayılı kararının KALDIRILMASINA …
 
 ## Ankara BAM 27. HD 2023/589 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/906852200)
 
 Davacı vekili; müvekkili ile davalılar arasında ... parsel sayılı taşınmaz (imardan önce ... ada) üzerine bina inşa edilmek üzere Yenimahalle 3. Noterliği’nin 17/08/1994 tarih ve 37974 yevmiye nolu, aynı noterliğin 23/08/1994 tarih ve 38984 yevmiye nolu kat karşılığı inşaat sözleşmeleri akdedildiğini ve sözleşmelerin tapuya şerh edildiğini, davalılardan ...… Ltd. Şti’nin müvekkili ile kat karşılığı inşaat sözleşmesi yapan arsa sahiplerinden daha sonra hisse satın alan şirket olup, satın alma nedeni ile sözleşmelere halef olduğunu, inşaatın bitme aşamasına gelmesine rağmen davalıların sözleşme gereğince vermeleri gereken tapu ferağlarını vermemeleri nedeniyle diğer arsa sahipleri aleyhine Ankara 7.
 
@@ -120,6 +130,8 @@ Asliye Ticaret Mahkemesi'ndeki 2006/228 Esas sayılı dosyası ile yetki talebin
 yönünden aktif husumet yokluğundan reddine, bunlar dışında kalan davacılar yönünden ise kira tazminatı talebinin reddine, eksik ve ayıplı iş nedeniyle 23.073,00 TL bedelin kabulüne, yine 822,12 m² ticaret alanının arsa sahiplerine verilmesi gerektiğinin tespitine, birleşen Ankara 4. Asliye Ticaret Mahkemesi'nin 2008/526 ve Ankara 3. Asliye Ticaret Mahkemesi'nin 2008/699 esas sayılı davaların ise reddine karar verilmiş, karara karşı yukarıda belirtildiği üzere yüklenici kooperatif vekili, bir kısım arsa sahipleri vekili ile davalı ... ve davalı ... vekilince istinaf başvurusunda bulunulmuştur.
 
 ## Kayseri BAM 4. HD 2021/1267 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/709822100)
 
 BK'nın 107, 6098 sayılı TBK'nın 124. maddesindeki süre verilmesini gerektirmeyen durumların varlığı halinde alacaklı süre vermeden temerrütten doğan haklarını kullanabilir.Sözleşmenin feshi halinde de fesihte kusurlu olup olmadığına bakılmaksızın yüklenici gerçekleştirdiği imalât bedeline hak kazanır.Götürü bedelli işlerde yüklenicinin hak ettiği iş bedelinin saptanması için gerçekleştirilen imalâtın eksik ve kusurlarda dikkate alınarak tüm işe oranının tespiti, bulunacak bu oranın toplam iş bedeline uygulanarak hak edilen bedelin saptanması ve bulunacak bu rakamdan kanıtlanan ödemeler düşülerek hesaplanması gerekir.Hükme dayanak alınan bilirkişi raporunda fiziki oran yapılmak suretiyle işin %35'nin yapıldığı tespit edilerek davacının hak ettiği ücret belirlenmiştir.İş sahibi sadece bir binadaki asansör yönüyle davanın açıldığı ileri sürülmekte ise de dava dilekçesi ve dosya kapsamından davacının taraflar arasındaki sözleşme uyarınca yapmış olduğu işin bedelini talep ettiği anlaşılmaktadır.Davacı karşı davalının sunmuş olduğu ek kart hesap özetinde ...
 Asansör isimli şirkete 16.08.2018 tarihinde 8.796 TL ödeme yapıldığı ancak ödemenin hangi iş ve veya işlemi yönelik olduğu konusunda bir açıklama bulunmamaktadır.İş sahibinin sunmuş olduğu kat karşılığı inşaat sözleşmelerine göre inşaatın teslim tarihi tüm parsel sahipleri ile noterde yapılacak sözleşmelerin ve vekaletnamelerin tamamlanmasıyla başlayacağı belirtilmiştir. Sunulan sözleşmelerin tarihi 07.04.2017 ve 13.04.2017’dir. Tüm arsa sahipleriyle yapılan sözleşmeler ve vekaletler dosya içeresinde yer almadığından dosya kapsamında inşaatın teslim tarihi net olarak belirlenememektedir.Bilirkişi kurulu tarafından arsa sahiplerine inşaatın teslim tarihi 30.10.2019 tarihi olarak belirlenmiştir. Sözleşme iş sahibi tarafından 07.05.2019 tarihinde fesih edilmiştir.

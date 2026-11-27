@@ -22,6 +22,8 @@ uyari: "Derleyenin seçtiği alıntılardır; kararın tamamı değildir. Künye
 
 ## Yargıtay 13. HD 2015/14512 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/173638700)
+
 Davacılar, taraflar arasında 14 maddelik harici satış sözleşmesi ve Karşıyaka Noterliği' nin 05.01.2007 tarih ve 443 yevmiye sayılı gayrımenkul satış vaadi sözleşmesi ile davalıların yüklenici olarak yaptıkları inşaattan kendilerine isabet eden 81/3 nolu işyeri ve 1 nolu bağımsız bölümü proje tadilatı yapılıp 2 katlı tek işyeri haline getirilmesi karşılığında 950.000.00.TL bedelle satın alınması hususunda anlaşıldığını, ayrıca 13 ay süre içinde yani 05.02.2008 tarihine kadar binanın tümü ile bitirilmesi ve oturma raporu alınmaya hazır hale getirmeyi davalıların yükümlendiklerini, bu sürenin aşılması halinde ise her ay için 4.000.00.TL gecikme bedelinin ödeneceğinin kararlaştırıldığını, satış bedeli ödenmesine ve itirazı kayıtla 30.04.2009 tarihinde işyeri ve bağımsız bölümün ayrı ayrı tapuları alınmasına rağmen davalıların harici yazılı sözleşmedeki yükümlülüklerini yerine getirmediğini bu hususta 31.07.2009 tarihinde tespit yaptırdıklarını, elektrik abonelik ve şebeke tamamlanması için 24.07.2009 tarihinde 10.000.00.TL ödediklerini, yine harici yazılı sözleşmede kendi üzerlerine düşen inşaat işlemlerinin davalılar tarafından yapılması için yaptıkları sözlü anlaşma doğrultusunda
 45.000.00.TL ödemelerine rağmen bu işlerinde davalılar tarafından yapılmadığını, süresinde teslimin yapılmamasından dolayı işyerini faaliyete geçiremediklerini ve kar kaybına uğradıklarını ileri sürerek şimdilik işyeri ve bağımsız bölümün birleştirilerek tek işyeri haline getirilmemesi ve buradaki eksik ve ayıplı işler için 5.000.00.TL, geç teslimden dolayı gecikme bedeli olarak 8.000.00.TL, elektrik tesisat bedeli olarak ödenen bedel için 2.000.00.TL, ihbar ve tespit masrafları için 566.00.TL, mahrum kalınan kar için 3.000.00.TL, yargılama sırasında verilen ıslah dilekçesi ile eksik ve ayıplı işler bedeli olarak toplam 498.300.00.TL, 83.333.33.TL gecikme tazminatı, 10.000.00.TL elektrik tesisat gideri ve 8.633.54.TL mahrum kalınan kar bedelinin tahsiline karar verilmesini istemiştir.
 
@@ -40,6 +42,8 @@ SONUÇ:Yukarıda 1. bentte açıklanan nedenlerle davalı karşı davacının sa
 
 ## Yargıtay 23. HD 2015/5980 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/119100800)
+
 Davacı vekili, müvekkili arsa sahipleri ile davalı yüklenici arasında imzalanan 06.09.2006 tarihli arsa payı karşılığı inşaat sözleşmesinde kararlaştırılan sürede işin teslim edilmemesi üzerine, 29.04.2009 tarihli ek sözleşme ile teslim tarihinin 30.10.2009 tarihi olarak belirlendiğini, ancak davalının bu süre içerisinde de teslimi gerçekleştirmediğini, inşaat seviyesinin kabul edilebilir bir oranda olmadığını ve bir takım eksik ve ayıplı imalatlar bulunduğunu ileri sürerek, 06.09.2006 tarihli arsa payı karşılığı inşaat sözleşmesinin ve 29.04.2009 tarihli ek sözleşmenin ileriye etkili olarak feshini, fazlaya ilişkin hakları saklı kalmak kaydıyla eksik ve ayıplı imalatlar için 10.000,00 TL'nin tahsilini talep ve dava etmiş, yargılama sırasında eksik ve ayıplı imalat bedeline ilişkin talebini takipsiz bıraktığını bildirmiştir.
 
 Davalı şirket temsilcisi, inşaat seviyesinin yüksek olduğunu savunarak, davanın reddini istemiştir.
@@ -57,6 +61,8 @@ Bu durumda mahkemece, eksik işler de gözetilerek belirlenen inşaat seviyesine
 SONUÇ: Yukarıda (1) numaralı bentte açıklanan nedenlerle davalı şirket temsilcisinin diğer temyiz itirazlarının reddine, (2) numaralı bentte açıklanan nedenlerle, temyiz itirazlarının kabulü ile hükmün, davalı yararına BOZULMASINA …
 
 ## Yargıtay 14. HD 2015/3975 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/179285400)
 
 Dava, arsa sahibi ile yüklenici arasındaki arsa payı karşılığı inşaat sözleşmesi gereğince yükleniciden bağımsız bölüm temlik alan davacının tapu iptali ve tescil, ikinci kademedeki istek ise tazminat taleplerine ilişkindir.
 
@@ -78,6 +84,8 @@ SONUÇ: Yukarıda yazılı nedenlerle davacı vekilinin karar düzeltme istemini
 
 ## Yargıtay 23. HD 2014/3898 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/114030300)
+
 Mahkemece, iddia, savunma, benimsenen bilirkişi raporu ve dosya kapsamına göre, asıl davanın kabulü ile 174.777,85 TL'nin temerrüt tarihi olan 31.12.2011 tarihinden itibaren yasal faiziyle birlikte davalı yükleniciden tahsiline, karşı davanın reddine karar verilmiştir.
 
 …
@@ -93,6 +101,8 @@ SONUÇ: Yukarıda (1) numaralı bentte açıklanan asıl davada davalı-karşı 
 
 ## Yargıtay 23. HD 2013/3959 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/490652300)
+
 Davacı vekili, müvekkilinin maliki bulunduğu ..., ...., 7921 ada 81 parsel sayılı taşınmaz üzerinde ...ahalle .... Noterliği'nin 02.08.2005 tarih ve ... yevmiye sayılı arsa payı karşılığı inşaat sözleşmesi ile bina inşa etmek üzere davalı yüklenici ile anlaşıldığını, yapılan anlaşma ile bu binanın ... ve ... nolu dairelerinin müvekkiline kaldığını, fakat gerek müvekkiline ait dairelerde gerek binanın ortak yerlerinde birçok işin eksik bırakıldığını, eksik bırakılan işlerin ... ....
 
 …
@@ -104,6 +114,8 @@ Bu durumda mahkemece, ilgili Belediye Başkanlığı ile yazışmalar yapılarak
 SONUÇ: Yukarıda (...) numaralı bentte açıklanan nedenlerle, davacı vekilinin temyiz isteminin süre yönünden reddine, (...-a) numaralı bentte açıklanan nedenlerle, davalı vekilinin diğer temyiz itirazlarının reddine, (...-b) numaralı bentte açıklanan nedenlerle, temyiz itirazlarının kabulü ile hükmün, davalı yararına BOZULMASINA …
 
 ## Yargıtay 14. HD 2013/3586 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/688091000)
 
 Davacı ..., 1 parsel sayılı taşınmazda ilk projede 1 numaralı bağımsız bölüm olarak gösterilen dükkanı, birleşen davada davacı ... ise projede 2 numaralı bağımsız bölüm olarak gösterilen dükkanı davalı yükleniciden haricen satın aldıklarını ancak daha sonra yapılan ikinci projede söz konusu dükkanların 4 numaralı bağımsız bölümün eklentisi olarak gösterilerek davalı ... adına tescil edildiğini ileri sürerek; 4 numaralı bağımsız bölüm eklentisi olarak gösterilen 1 ve 2 no'lu dükkanların tapuya bağımsız bölüm olarak kaydının yapılarak adlarına tesciline karar verilmesini istemişlerdir.
 
@@ -123,6 +135,8 @@ SONUÇ: Yukarıda (1.) bentte açıklanan nedenlerle hükmün davalılar ... mir
 
 ## Yargıtay 23. HD 2013/2243 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/452209600)
+
 Davacı vekili, müvekkilinin 16.03.2006 tarihli sözleşme ile davalı kooperatif bünyesinde bulunan 22 no'lu daire payını diğer davalı ...'den kooperatif yetkililerinin kaşe imzası ile satın aldığını, davalı ...'ün de bu hisseyi ... isimli şahıstan yine kooperatif yetkilileri huzurunda satın aldığını, dava dışı ... ile davalı kooperatif arasında düzenleme şeklinde daire karşılığı inşaat ve satış vaadi sözleşmesi bulunduğunu, müvekkilinin kooperatife üyelik kaydını yaptırdığını, kooperatifçe dosya devir ücreti adı altında 400,00 TL tahsilat yapıldığını, müvekkilinin alınan hisseye karşılık davalı ...'ye 17.000,00 Euro ödeme yaptığını, müvekkiline ev tahsisi yapılmadığı gibi ödediği paranın da iade edilmediğini ileri sürerek, fazlaya ilişkin hakları saklı kalmak kaydıyla 5.000,00 TL'nin müştereken ve müteselsilen yasal faizi ile birlikte davalılardan tahsilini talep ve dava etmiştir.
 
 Davalı kooperatif vekili, dava dışı... mirasçıları ile daire karşılığı inşaat sözleşmesi yapıldığını, bu sözleşmeye göre 180 m² arsaya karşılık 120 m²' lik brüt yapılı daireler verileceğini, yapılan imar çalışmaları sonunda bu arsanın 150 m² olarak kaydedildiğini, 30 m² eksik arsaları bulunduğunu, müvekkili kooperatife arsa devredilmediği ve ödemede bulunulmadığını, üyelik payının diğer davalı ...'e ... tarafından diğer mirasçıların imzası olmadan devredildiğini, ... tarafından da davacıya devredildiğini, bu devirler karşılığında müvekkili kooperatife bir ödemede bulunulmadığını savunarak, davanın husumetten ve esastan reddini istemiştir.
@@ -135,6 +149,8 @@ isteminin karara bağlanması,hiç ödeme yapmadığının belirlenmesi halinde 
 SONUÇ: Yukarıda (1) numaralı bentte açıklanan nedenlerle davacı vekilinin davalı ...'e yönelik temyiz itirazlarının reddine, (2) numaralı bentte açıklanan nedenlerle, davalı kooperatife yönelik temyiz itirazlarının kabulü ile hükmün, davacı yararına BOZULMASINA …
 
 ## Yargıtay 13. HD 2012/11071 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/754447600)
 
 Davacı, davalıyla ... 1.Noterliğinde 17.04.1995 tarihinde düzenleme şeklinde taşınmaz satış vaadi sözleşmesi yaptıklarını, sözleşmeye göre arsa sahipleri ... ... ve ... ... ie davalı arasında yapılan kar karşılığı inşaat sözleşmesi gereği davalıya düşen daireyi satın aldığını,davalı ile arsa sahipleri arasındaki sözleşmenin mahkemece geriye dönük olarak feshedildiğini belirterek dairenin dava tarihindeki değerine mahsuben 10.000 TL.nın davalılardan tahsiline karar verilmesini istemiştir.
 
@@ -151,6 +167,8 @@ SONUÇ:Yukarıda birinci bentte açıklanan nedenlerle davalı ...'in tüm temyi
 
 ## Yargıtay 13. HD 2010/10194 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/776632000)
+
 Davacı, davalı müteahhit şirketten kat karşılığı inşaat sözleşmesi gereğince 8 nolu parselde inşaa ettiği binadan 4 nolu daireyi satın alıp bedelini ödediğini, arsa sahibinin inşaat sözleşmesini feshetmesi nedeni ile inşaatın bitirilip teslim edilemediğini ileri sürerek, dairenin rayiç bedelinden şimdilik 10.000 TL.nin faizi ile ödetilmesini istemiştir.
 
 Davalılar davanın reddini dilemiştir.
@@ -163,6 +181,8 @@ SONUÇ: Yukarıda açıklanan nedenlerle temyiz olunan mahkeme kararının davac
 
 ## Yargıtay 15. HD 2010/2749 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/774283000)
+
 Birleşen 2007/33 Esas sayılı davada 01.02.2002 teslimi gereken tarihten asıl davada talep edilen kira tazminat dönemi başlangıcı 06.09.2002 tarihine kadar saklı tutulan gecikme tazminatı da talep edilmiş olup, davacı arsa sahibine kalan ve teslim edilmeyen bağımsız bölüm sayısı üç olduğundan mahkemece gecikilen 7 ay 5 günlük süre için üç bağımsız bölümün sözleşmede kararlaştırılan maktu gecikme tazminatı hesaplanıp tahsiline karar verilmesi gerekirken sadece bir daire için hesaplama yapılarak birleşen davada daha az miktarda gecikme tazminatına (kira alacağına) hükmedilmesi doğru olmamıştır.
 
 Eksik ve kusurlu işler bedelinin Daire'mizin yerleşik uygulamalarında inşaatın teslimi tarihinden kontrol ve muayene ile dava açılması için gerekli makul bir sürenin geçmesinden sonraki rayiç değerlere göre hesaplanması gerektiği kabul edilmektedir (BK'nın 98. maddesi yollamasıyla 44. maddesine göre). Eldeki davada davacı arsa sahibine bırakılan bağımsız bölümlerin daha önce kendisine fiilen teslim edildiği yasal delillerle kanıtlanamadığından hukuken teslimin yapı kullanma izin belgesinin alındığı 05.01.2004 tarihinde yapıldığının kabulü gerekir. Bu durumda eksik ve kusurlu işler bedelinin iskân ruhsatının alındığı 2004 yılı mahalli piyasa rayiçlerine göre saptanması gereklidir. Bunun miktarı da 2. bilirkişi kurulunun 3. ek raporunda 10.500,00 TL hesaplandığından eksik -kusurlu işlerle ilgili istemin bu miktar üzerinden değerlendirilmesi gerekirken yanlış değerlendirme ile uzatılan teslimi gereken 01.02.2002 tarihine göre hesaplama yapan bilirkişi raporuna itibar edilerek yazılı şekilde karar verilmesi de isabetsiz olmuştur.
@@ -172,6 +192,8 @@ Eksik ve kusurlu işler bedelinin Daire'mizin yerleşik uygulamalarında inşaat
 SONUÇ:Yukarıda 1. bentte açıklanan nedenlerle davalı-karşı davacı ve birleşen dosya davalısı yüklenicinin tüm, davacı-karşı davalı ve birleşen dosya davacısı arsa sahibinin diğer temyiz itirazlarının reddine, 2. bent uyarınca kabulü ile hükmün davacı-karşı davalı ve birleşen dosya davacısı arsa sahibi yararına BOZULMASINA …
 
 ## Yargıtay 13. HD 2009/13309 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/834404100)
 
 Davacı, davalı müteahhitlerden 3 nolu bağımsız bölümü 2.700.000.000 TL’ye satın aldığını, dairenin taahhüt edilen tarihte teslim edilmediği gibi tapusunun da verilmediğini, kat karşılığı inşaat sözleşmesinin feshedilerek dava konusu taşınmazın başka bir müteahhide verildiğini ileri sürerek, ödediği bedelin dava tarihi itibariyle ulaşacağı değer olan 25.000.000.000-TL’nin ödetilmesini istemiştir.
 
@@ -187,6 +209,8 @@ Bu durumda mahkemece, taşınmaz üzerinde keşif yapılarak satışa konu taş�
 SONUÇ: Yukarıda (1) nolu bentte açıklanan nedenlerle davacının davalılar ... ve ... hakkındaki bütün temyiz itirazlarının reddine (2) ve (3) nolu bentlerde açıklanan nedenlerle temyiz olunan kararın davacı yararına BOZULMASINA …
 
 ## Yargıtay 13. HD 2009/13158 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/834822300)
 
 Davacı, 15.02.2007 tarihli harici sözleşme ile davalı müteahhitten iki adet bağımsız bölüm satın aldığını, sözleşmeye göre her bir bağımsız bölüm için 70.000 YTL olmak üzere toplam 140.000YTL bedelle anlaştıklarını, 80.000 YTL’sini sözleşme tarihinde ödediğini, davalının bağımsız bölümlerden birini tapuda devrettiğini, ancak diğerini halen vermediğini, yaptırdığı tespite göre bağımsız bölümün değerinin 130.000YTL olarak belirlendiğini, müspet ve menfi zararlarının bulunduğunu ileri sürerek, fazlaya ilişkin hakları saklı kalmak kaydıyla şimdilik 30.000 YTL’nin faiziyle birlikte davalıdan tahsilini istemiştir. Davalı, davanın reddini dilemiştir.
 

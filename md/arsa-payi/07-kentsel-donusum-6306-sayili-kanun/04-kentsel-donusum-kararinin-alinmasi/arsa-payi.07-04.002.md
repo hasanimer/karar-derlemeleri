@@ -38,9 +38,13 @@ Dava konusu işlemin yukarıda özetlenen gerekçeyle iptali, fazladan tahsil ed
 
 ## Danıştay 4. D. 2023/11167 E., 2025/4771 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1189316600)
+
 6306 sayılı Kanunun Uygulama Yönetmeliği'nin 5. maddesinin 1. fıkrasında, "Riskli alan; a) Alanın, zemin yapısı veya üzerindeki yapılaşma sebebiyle can ve mal kaybına yol açma riski taşıdığına dair teknik raporu, b) Alan sınırları içerisinde 15/5/1959 tarihli ve 7269 sayılı Umumi Hayata Müessir Afetler Dolayısiyle Alınacak Tedbirlerle Yapılacak Yardımlara Dair Kanuna göre afete maruz bölge olarak kararlaştırılan alan olup olmadığına dair bilgi ve belgeyi, c) Alanın büyüklüğünü de içeren koordinatlı sınırlandırma haritasını, varsa uygulama imar planını, ç) Alanda bulunan kamuya ait taşınmazların listesini, d) Alanın uydu görüntüsünü veya ortofoto haritasını, e) Zemin yapısı sebebiyle riskli alan olarak tespit edilmek istenilmesi halinde yerbilimsel etüd raporunu, f) Bu fıkra uyarınca belirlenecek riskli alanlar için Ek-2’de yer alan Riskli Yapıların Tespit Edilmesine İlişkin Esasların EK-A bölümüne göre hazırlanan analiz ve raporu, g) Alanın özelliğine göre Bakanlıkça istenecek sair bilgi ve belgeleri, ihtiva edecek şekilde hazırlanmış olan dosyaya istinaden Bakanlıkça belirlenir ve karar alınmak üzere Cumhurbaşkanına sunulur." kuralı yer almaktadır.
 
 ## Danıştay 4. D. 2025/3963 E., 2025/4401 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1191084200)
 
 DAVANIN KONUSU : Malatya ili, Battalgazi ilçesi, ... Mahallesi, ... ada, ... parsel sayılı taşınmazın Hazine adına resen tescil edilmesine ilişkin işlem ile 15/12/2012 tarih ve 28498 sayılı Resmi Gazete'de yayımlanan 6306 sayılı Kanunun Uygulama Yönetmeliği'nin 21/05/2024 tarih ve 32552 sayılı Resmi Gazete'de yayımlanan 6306 sayılı Kanunun Uygulama Yönetmeliğinde Değişiklik Yapılmasına Dair Yönetmelik'in 9. maddesi ile değişik 13. maddesinin altıncı fıkrasının (b) bendinin iptali ile 6306 sayılı Kanun'un 6. maddesinde 7471 sayılı Kanun'la yapılan değişikliğin Anayasa'ya aykırı olduğundan bahisle, söz konusu kanun hükmünün somut norm denetimi yoluyla iptali için Anayasa Mahkemesine başvurulması istenilmektedir.
 
@@ -49,6 +53,8 @@ DAVANIN KONUSU : Malatya ili, Battalgazi ilçesi, ... Mahallesi, ... ada, ... pa
 2577 sayılı İdari Yargılama Usulü Kanunu'nun 3. maddesinde, idari yargı mercilerinde açılacak idari davalara ilişkin dilekçelerde bulunması gereken hususlar açıkça sayılmış; 2577 sayılı İdari Yargılama Usulü Kanunu'nun 15. maddesinin 1. fıkrasının (d) bendinde, 14. maddenin 3/(g) bendinde yazılı halde otuz gün içinde 3. ve 5. maddelere uygun şekilde yeniden düzenlenmek veya noksanları tamamlanmak üzere dilekçenin reddine karar verileceği; aynı Kanun'un 15. maddesinin 1. fıkrasının (b) bendinde, süre aşımı olan durumlarda davanın reddine karar verileceği hüküm altına alınmıştır.
 
 ## Danıştay 4. D. 2025/1512 E., 2025/3948 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1175061700)
 
 6306 sayılı Kanunun 7. maddesinin 10. fıkrasında; riskli alanlarda, rezerv yapı alanlarında ve riskli yapıların bulunduğu parsellerde, gerçek kişilerce ve özel hukuk tüzel kişilerince uygulamada bulunulması halinde, fonksiyon değişikliğine bakılmaksızın, mevcut inşaat alanının bir buçuk katına kadar olan yeni inşaat alanı için belediyelerce harç ve ücret alınmayacağı, hüküm altına alınmıştır.
 
@@ -59,6 +65,8 @@ DAVANIN KONUSU : Malatya ili, Battalgazi ilçesi, ... Mahallesi, ... ada, ... pa
 Temyize konu ... Bölge İdare Mahkemesi ... İdare Dava Dairesinin... tarih ve E:..., K:... sayılı kararının BOZULMASINA …
 
 ## Danıştay 4. D. 2025/1981 E., 2025/3361 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1173182900)
 
 İlk Derece Mahkemesi kararının özeti: ... İdare Mahkemesince verilen ... tarih ve E:..., K:... sayılı kararda; dosyada bulunan bilgi ve belgeler ile yaptırılan keşif sonucunda düzenlenen bilirkişi kök ve ek raporlarının birlikte değerlendirilmesinden; dava konusu arsa pay satış işleminin dayanağı olan 16/01/2023 tarihli bedel tespit raporu uyarınca davacının arsa değerinin 43.287,83-TL/m2, hisse bedelinin ise 1.593.857,90-TL olarak tespit edildiği; ilk yapılan 17/01/2023 tarihli ihalede tek talipli olan dava dışı E.
 
@@ -77,6 +85,8 @@ Bu durumda; 6306 sayılı Kanun kapsamında yıkımı yapılan taşınmazın ars
 
 ## Danıştay 6. D. 2022/7953 E., 2025/3108 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1191452400)
+
 DAVALI ...
 
 …
@@ -90,6 +100,8 @@ DANIŞTAY SAVCISI ... DÜŞÜNCESİ : Dava, Niğde ili, ... Mahallesi, ... ada, 
 1\. 21/06/2019 tarih ve 30808 sayılı Resmi Gazetede yayımlanan (6306 sayılı Kanun Uygulama Yönetmeliğinin 16. maddesinin 12. fıkrasında değişiklik yapılmasına ilişkin) 6306 sayılı Kanun Uygulama Yönetmeliğinde Değişiklik Yapılmasına Dair Yönetmeliğin davaya konu 12. maddesinin 9. fıkrasındaki düzenlemenin, "Kanunun 7. maddesinin (...) onuncu fıkralarında belirtilen şartlar dahilinde alınmaması gereken (...) ücretler" kapsamında otopark ücretinin istisnalar arasından kaldırılmasına yönelik kısmı ve anılan hüküm uyarınca tesis edilen ... tarih ve ... sayılı belediye encümeni kararı yönünden DAVANIN REDDİNE …
 
 ## Danıştay 6. D. 2021/2214 E., 2025/3001 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1183501300)
 
 İlk Derece Mahkemesi kararının özeti: ...
 
@@ -105,6 +117,8 @@ Davanın yukarıda özetlenen gerekçeyle reddine ilişkin Mahkeme kararına yö
 
 ## Danıştay 6. D. 2023/7743 E., 2025/2761 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1184817300)
+
 Riskli yapı tespiti bulunan parseller için 6306 sayılı Kanun ve 6306 sayılı Kanunun Uygulama Yönetmeliği'nde vergi, harç ve belediyelere ödenecek ücretlerle ilgili istisnalar getirilmiş olup dönüşümün hızlandırılması, kolaylaştırılması ve teşvik edilmesi bakımından anılan kanunlardaki istisnai hükümlerin geçerli olduğu görülmektedir. Buna karşın, Otopark Yönetmeliği'ne eklenen davaya konu hüküm ile anılan Kanun'un amacının aşılarak komşu parseller arasında farklı düzenlemelerin uygulanmasına neden olunduğu görülmektedir.
 
 Uyuşmazlıkta, İmar Kanunu'nun "Yönetmelik" başlıklı 44. maddesinde otopark ayrılması gereken bina ve tesisler ile diğer hususların ve otopark yapılmasını gerektiren bina ve tesislerin neler olduğunun, otopark ihtiyacının miktar, ölçü ve diğer şartları ile bu ihtiyacın nasıl tespit olunup giderileceğinin Yönetmelikte belirleneceği hüküm altına alınmasına karşın, 12/08/2023 tarih ve 32277 sayılı Resmi Gazete'de yayımlanan Otopark Yönetmeliğinde Değişiklik Yapılmasına Dair Yönetmeliğin 1. maddesinin 2. fıkrası ile Otopark Yönetmeliği'nin 4. maddesine eklenen dava konusu 2. fıkra ile bu yetkinin, riskli yapı tespiti yapılarak yıkılan yapıların bulunduğu parseller açısından belediye meclisine verildiği, bu kapsamda, ilgili belediye meclisince birden fazla parselin bulunduğu bir yapı adası içerisinde riskli yapı tespiti yapılan binanın yer aldığı parselin ve riskli yapı tespiti yapılmamış diğer parsellerin otopark ihtiyacının belirlenmesinde farklılıkların ortaya çıkmasına neden olacak şekilde karar alınabilmesine imkan tanındığı anlaşılmaktadır.
@@ -115,9 +129,13 @@ Dava konusu 12/08/2023 tarih ve 32277 sayılı Resmi Gazetede yayımlanan Otopar
 
 ## Danıştay 4. D. 2024/3979 E., 2025/2352 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1161323000)
+
 Bu durumda, davacının söz konusu bireysel işlemden, en geç .... İdare Mahkemesinin E... sayılı dosyasına kayıtlı davanın açıldığı 21/09/2023 tarihinde haberdar olduğu, dolayısıyla anılan işlemin dayanağı niteliğindeki 15/12/2012 tarih ve 28498 sayılı Resmi Gazete'de yayımlanan 6306 sayılı Afet Riski Altındaki Alanların Dönüştürülmesi Hakkında Kanunun Uygulama Yönetmeliği'nin 7. maddesinin 6. fıkrasının (anılan Yönetmelik hükmünde aynı yöndeki düzenlemenin, 21/05/2024 tarih ve 32552 sayılı Resmi Gazete'de yayımlanan 6306 sayılı Kanunun Uygulama Yönetmeliğinde Değişiklik Yapılmasına Dair Yönetmeliğin 5. maddesi ile değiştirilen 6306 sayılı Kanunun Uygulama Yönetmeliği'nin 7. maddesinin altıncı fıkrasında da yer aldığı görülmektedir.) iptali istemiyle, en geç uygulama işleminden haberdar olunduğu anlaşılan 21/09/2023 tarihini izleyen günden itibaren 60 gün içerisinde dava açılması gerekirken, bu süre geçirildikten çok sonra, 09/12/2024 tarihinde Danıştay Genel Yazı İşleri Müdürlüğü kaydına giren dava dilekçesi ile görülmekte olan davanın esasının süre aşımı nedeniyle inceleme olanağı bulunmamaktadır.
 
 ## Danıştay 4. D. 2025/1432 E., 2025/1305 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1151696600)
 
 6306 sayılı Kanunun 7. maddesinin 10. fıkrasında; riskli alanlarda, rezerv yapı alanlarında ve riskli yapıların bulunduğu parsellerde, gerçek kişilerce ve özel hukuk tüzel kişilerince uygulamada bulunulması halinde, fonksiyon değişikliğine bakılmaksızın, mevcut inşaat alanının bir buçuk katına kadar olan yeni inşaat alanı için belediyelerce harç ve ücret alınmayacağı, hüküm altına alınmıştır.
 
@@ -129,6 +147,8 @@ Bu durumda; davalı idare tarafından tahsil edilen 30.791,08 TL elektrik harcı
 
 ## Danıştay 4. D. 2023/13474 E., 2025/724 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1205972800)
+
 DAVANIN KONUSU : 24/08/2023 tarih ve 32289 sayılı Resmi Gazete'de yayımlanan 6306 sayılı Afet Riski Altındaki Alanların Dönüştürülmesi Hakkında Kanunun Uygulama Yönetmeliğinde Değişiklik Yapılmasına Dair Yönetmelik'in 1. maddesi ile değiştirilen anılan Yönetmeliğin 4. maddesinin birinci fıkrasının (ç) bendinin ve 24/08/2023 tarih ve 32289 sayılı Resmi Gazete'de yayımlanan 6306 sayılı Afet Riski Altındaki Alanların Dönüştürülmesi Hakkında Kanunun Uygulama Yönetmeliğinde Değişiklik Yapılmasına Dair Yönetmelik'in 2. maddesi ile değiştirilen anılan Yönetmeliğin 15/A maddesinin sekizinci, ondördüncü ve onbeşinci fıkralarının iptali talep edilmiştir.
 
 …
@@ -136,6 +156,8 @@ DAVANIN KONUSU : 24/08/2023 tarih ve 32289 sayılı Resmi Gazete'de yayımlanan 
 2\. 24/08/2023 tarih ve 32289 sayılı Resmi Gazete'de yayımlanan 6306 sayılı Afet Riski Altındaki Alanların Dönüştürülmesi Hakkında Kanunun Uygulama Yönetmeliğinde Değişiklik Yapılmasına Dair Yönetmelik'in 1. maddesi ile değiştirilen, anılan Yönetmeliğin 4. maddesinin birinci fıkrasının (ç) bendinin İPTALİNE …
 
 ## Danıştay 4. D. 2023/11588 E., 2024/7646 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1138748200)
 
 Davalı Valilik tarafından ise; öncelikle süre aşımı nedeniyle davanın reddine karar verilmesi gerektiği, işin esasına ilişkin olarak ise; ... İli, ...
 
@@ -154,10 +176,14 @@ Davacının hissesinin ... tarihinde satışına ilişkin ... Valiliği işlemi 
 
 ## Danıştay 4. D. 2024/517 E., 2024/7644 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1140750900)
+
 Dava dilekçesinin netice ve talep kısmında 6306 sayılı Kanunun Uygulama Yönetmeliğinin 15. maddesinin 2. fıkrasının iptali istenilmiş ise de, dava dilekçesi içeriğinde özetle; tevhit işleminin kat maliklerinin 2/3'ünün onayı ile gerçekleştirildiği, 6306 sayılı Kanunda her ne kadar tevhit kararının 2/3 çoğunlukla alınabileceği öngörülmüş ise de karar alma çoğunluğunun 6306 sayılı Kanunun amacına aykırı bir şekilde ekonomik menfaatlere konu olmasının kabul edilemeyeceği, Yönetmelik hükmü incelendiğinde azınlıkta kalan kişilere hiçbir yetki verilmediği, çoğunluğun belirlediği kişi ile sözleşme yapmayan hissedarların paylarının satılmasına karar verilebileceği, bu durumun azlığın Anayasa ile güvence altına alınan mülkiyet hakkını ihlal ettiği yolundaki beyanları ve Savcı düşüncesine karşı verilen 25/11/2024 tarihli dilekçede de; davanın konusunun hak sahibi olan bir malikin rızası dışında, onun hak kaybına uğramasına neden olacak şekilde nispi çoğunlukla karar alınmasına yönelik hükmün iptali olduğu belirtildiğinden, 6306 sayılı Kanunun Uygulama Yönetmeliği'nin 15. maddesinin 2. fıkrasında yer alan parsellerin tevhit edilmesini de içeren karar alma yeter sayısına ilişkin "paydaşların
 en az üçte iki çoğunluğu ile karar verilir" kısmı inceleme konusu yapılmıştır.
 
 ## Danıştay 9. D. 2022/4614 E., 2024/4285 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1159681600)
 
 16/05/2012 tarihinde yürürlüğe giren 6306 sayılı Afet Riski Altındaki Alanların Dönüştürülmesi Hakkında Kanun'un 1. maddesinde, bu Kanun'un amacının, afet riski altındaki alanlar ile bu alanlar dışındaki riskli yapıların bulunduğu arsa ve arazilerde, fen ve sanat norm ve standartlarına uygun, sağlıklı ve güvenli yaşama çevrelerini teşkil etmek üzere iyileştirme, tasfiye ve yenilemelere dair usul ve esasları belirlemek olduğu belirtilmiştir. Kanun'un, "dönüşüm gelirleri" başlıklı 7.maddesinin 9.fıkrasında ise, bu Kanun uyarınca yapılacak olan işlem, sözleşme, devir ve tesciller ile uygulamaların, noter harcı, tapu harcı, belediyelerce alınan harçlar, damga vergisi, veraset ve intikal vergisi, döner sermaye ücreti ve diğer ücretlerden; kullandırılan krediler sebebiyle lehe alınacak paraların ise banka ve sigorta muameleleri vergisinden müstesna olacağı belirtilmiştir.
 
@@ -168,6 +194,8 @@ en az üçte iki çoğunluğu ile karar verilir" kısmı inceleme konusu yapılm
 ... Bölge İdare Mahkemesi ... Vergi Dava Dairesinin ... tarih ve E:..., K:... sayılı kararının BOZULMASINA …
 
 ## Danıştay 9. D. 2022/1502 E., 2024/4284 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1161788400)
 
 Yukarıda yer verilen mevzuat hükümlerinin değerlendirilmesinden; 6306 sayılı Kanun kapsamında yapılacak sözleşmeler için vergi ve harç istisnasının hangi durumlarda uygulanması gerektiğinin Kanun'da yapılan ve 10/12/2018 tarihinden itibaren geçerli olan değişiklik öncesi ve sonrası dönemler için ayrı ayrı incelenmiştir.
 
@@ -183,6 +211,8 @@ Dava konusu Genelge'nin 1 maddesinde yer alan düzenlemenin "sonraki" dönemlere
 
 ## Danıştay 4. D. 2023/4610 E., 2024/3714 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1106847900)
+
 DAVANIN KONUSU :26/01/2013 günlü, 28540 sayılı Resmi Gazetede yayımlanan, İstanbul İli, Gaziosmanpaşa İlçesi sınırları içerisinde bulunan ve ekli kroki ile listede sınır ve koordinatları gösterilen, ... Mahallesi, 6766 ada, 1 parsel sayılı taşınmazı da kapsayan alanın, 6306 sayılı Afet Riski Altındaki Alanların Dönüştürülmesi Hakkında Kanunun 2. maddesine göre riskli alan ilan edilmesine ilişkin 24/12/2012 günlü, 2012/4099 sayılı Bakanlar Kurulu Kararının iptali istenilmektedir.
 
 DAVACILARIN İDDİALARI : 6306 sayılı Kanun ve Uygulama Yönetmeliğinin 5. maddesi uyarınca bir bölgenin riskli alan ilan edilebilmesi için alanın zemin yapısı veya üzerindeki yapılaşma sebebiyle can ve mal kaybı riski taşıdığının ayrıntılı teknik raporla ortaya konulması gerektiği; dava konusu işlemde teknik raporların yetersiz olduğu, alanın riskli alan uygulamasına konu olabilecek nitelikte olmadığı, jeolojik yapıya ilişkin analiz ve tespitlerin bulunmadığı, mülkiyet hakkına aykırı olduğu iddia edilmiştir.
@@ -193,9 +223,13 @@ Dava konusu 24/12/2012 günlü, 2012/4099 sayılı Bakanlar Kurulu kararının .
 
 ## Danıştay 4. D. 2023/12691 E., 2024/2915 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1072528000)
+
 DAVALILARIN SAVUNMASI: Davalı idareler tarafından; öncelikle davada süre aşımı bulunduğu, dava konusu işlemin 04/03/2020 tarihli, 31058 sayılı Resmi Gazete'de yayımlandığı, 6306 sayılı Kanun ve Uygulama Yönetmeliği kapsamında riskli alan kararlarının Resmi Gazete aracılığıyla ilan edilmesi haricinde, maliklere bireysel olarak tebliğ edileceğine ilişkin bir hüküm bulunmadığı, bu nedenle ilandan sonra otuz gün olan dava açma süresinin geçirildiği; işin esası yönünden ise; alandaki 726 adet yapının 582'sinin imar mevzuatına aykırı şekilde yapılaştığının tespit edildiği, bu durumda alandaki yapıların %80,16'sının imar mevzuatına aykırı olduğu, mevzuat gereğince üzerindeki toplam yapının en az %65'inin imar mevzuatına aykırı veya yapı ruhsatı alınmaksızın inşa edilmiş yerlerde riskli alan kararı verilebileceği, alınan kararın usul ve yasaya uygun olduğu belirtilerek, davanın reddine karar verilmesi gerektiği savunulmuştur.
 
 ## Danıştay 4. D. 2023/11571 E., 2024/2018 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1068045100)
 
 Davalı … Bakanlığı tarafından, usule ilişkin olarak davanın süre aşımı nedeniyle reddi gerektiği; esas ilişkin olarak ise, iptali istenilen Yönetmelik kuralının üst normlara uygun olduğu, ayrıca, satış sırasında payı satılacak malik tarafından pey sürülmesi, satış bedeline itiraz edilmesi gibi hususlar mevzuat gereği mümkün olmadığından payı satılacak malikin satış ihalesine katılıp katılmamasının satış işlemini de etkilemeyeceği dikkate alındığında, anılan kuralın hizmet gereklerine ve kamu yararına da uygun olduğu savunulmuştur.
 

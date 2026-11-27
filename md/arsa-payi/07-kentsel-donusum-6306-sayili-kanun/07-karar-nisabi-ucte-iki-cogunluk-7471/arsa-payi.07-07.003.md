@@ -22,6 +22,8 @@ uyari: "Derleyenin seçtiği alıntılardır; kararın tamamı değildir. Künye
 
 ## Danıştay 13. D. 2015/4531 E., 2021/5411 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/789869600)
+
 İlk Derece Mahkemesi kararının özeti: ... İdare Mahkemesi'nce verilen kararda; davacı tarafından ihale konusu işin yapılacağı alanın Tarihi Sit statüsünde olduğu ileri sürülmüş ise de, Başbakanlık Hizmet Binasının yer aldığı alanın ilave 7 hektarlık bölümü için Tarihi Sit statüsünün kaldırılmasına ilişkin olarak ...
 
 …
@@ -36,6 +38,8 @@ Davanın yukarıda özetlenen gerekçeyle reddi yolundaki .... İdare Mahkemesi'
 
 ## Danıştay 6. D. 2019/21990 E., 2021/2445 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/650478500)
+
 6306 sayılı Afet Riski Altındaki Alanların Dönüştürülmesi Hakkında Kanunun 1. maddesinde, bu Kanunun amacının afet riski altındaki alanlar ile bu alanlar dışındaki riskli yapıların bulunduğu arsa ve arazilerde, fen ve sanat norm ve standartlarına uygun, sağlıklı ve güvenli yaşama çevrelerini teşkil etmek üzere iyileştirme, tasfiye ve yenilemelere dair usul ve esasları belirlemek olduğu ifade edilmiş, "Tanımlar" başlıklı 2. maddesinin birinci fıkrasının (a) bendinde, Bakanlığın: "Çevre ve Şehircilik Bakanlığını", (b) bendinde İdarenin: "Belediye ve mücavir alan sınırları içinde belediyeleri, bu sınırlar dışında il özel idarelerini, büyükşehirlerde büyükşehir belediyelerini ve Bakanlık tarafından yetkilendirilmesi hâlinde büyükşehir belediyesi sınırları içindeki ilçe belediyelerini", (c) bendinde, Rezerv yapı alanının: "Bu Kanun uyarınca gerçekleştirilecek uygulamalarda yeni yerleşim alanı olarak kullanılmak üzere, TOKİ’nin veya İdarenin talebine bağlı olarak veya resen, Maliye Bakanlığının uygun görüşü alınarak Bakanlıkça belirlenen alanları" ifade edeceği belirtilmiştir.
 
 Aynı Kanununun 6. maddesinin birinci fıkrasının 2. bendinde: "Üzerindeki bina yıkılmış olan arsanın maliklerine yapılan tebligatı takip eden otuz gün içinde en az üçte iki çoğunluk ile anlaşma sağlanamaması hâlinde, gerçek kişilerin veya özel hukuk tüzel kişilerinin mülkiyetindeki taşınmazlar için Bakanlık, TOKİ veya İdare tarafından acele kamulaştırma yoluna da gidilebilir. Bu Kanun uyarınca yapılacak olan kamulaştırmalar, 4/11/1983 tarihli ve 2942 sayılı Kamulaştırma Kanununun 3 üncü maddesinin ikinci fıkrasındaki iskân projelerinin gerçekleştirilmesi amaçlı kamulaştırma sayılır ve ilk taksit ödemesi, mezkûr fıkraya göre belirlenen tutarların beşte biri oranında yapılır. Tapuda mülkiyet hanesi açık olan taşınmazlar ile mirasçısı belirli olmayan, kayyım tayin edilmiş, ihtilaflı veya üzerinde sınırlı ayni hak tesis edilmiş olan taşınmazların kamulaştırma işlemleri aynı madde hükümlerine tabidir.
@@ -43,6 +47,8 @@ Bakanlık, TOKİ veya İdare; kamulaştırma işlemlerinin yürütülmesi için 
 alanlarındaki uygulamalarda faydalanılmak üzere; özel kanunlar ile öngörülen alanlara ilişkin olanlar da dâhil, her tür ve ölçekteki planlama işlemlerine esas teşkil edecek standartları belirlemeye ve gerek görülmesi hâlinde bu standartları plan kararları ile tayin etmeye veya özel standartlar ihtiva eden planlar yapmaya, onaylamaya ve kent tasarımları hazırlamaya yetkilidir. (7) Bu Kanun çerçevesinde dönüştürmeye tabi tutulan taşınmazların, üzerindeki köhnemiş yapılar da dâhil olmak üzere, muhdesatı ile birlikte değer tespiti işlemleri ve dönüşüm ile oluşacak taşınmazların değerlemeleri Bakanlık, TOKİ veya İdarece yapılır veya yaptırılır." hükümleri yer almaktadır.
 
 ## Danıştay 14. D. 2015/8136 E., 2017/3582 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/348125500)
 
 6306 sayılı Afet Riski Altındaki Alanların Dönüştürülmesi Hakkında Kanunun 6.maddesinin 1.fıkrasında; "Üzerindeki bina yıkılarak arsa hâline gelen taşınmazlarda daha önce kurulmuş olan kat irtifakı veya kat mülkiyeti, ilgililerin muvafakatleri aranmaksızın Bakanlığın talebi üzerine ilgili tapu müdürlüğünce resen terkin edilerek, önceki vasfı ile değerlemede bulunularak veya malik ile yapılan anlaşmanın şartları tapu kütüğünde belirtilerek malikleri adına payları oranında tescil edilir. Taşınmazların niteliği resen mevcut duruma göre tescil edilir. Bu taşınmazların sicilinde bulunan taşınmazın niteliği, ayni ve şahsi haklar ile temlik hakkını kısıtlayan veya yasaklayan her türlü şerh, hisseler üzerinde devam eder. Belirtilen haklar ve şerhler, tapuda; tevhit, ifraz, terk, tescil, kat irtifakı ve kat mülkiyeti tesisine ilişkin işlemlerin yapılmasına engel teşkil etmez ve bu işlemlerde muvafakat aranmaz. Bu şekilde belirlenen uygulama alanında cins değişikliği, tevhit, ve ifraz, terk, ihdas ve tescil işlemleri muvafakat aranmaksızın Bakanlık,TOKİ veya İdare tarafından resen yapılır veya yaptırılır. Bu parsellerin malikleri tarafından değerlendirilmesi esastır.
 Bu çerçevede riskli alanlar ve rezerv yapı alanlarında uygulama yapılan etap veya adada, riskli yapılarda ise bu yapıların bulunduğu parsellerde, yapılar yıktırılmadan önce, parsellerin tevhit edilmesine, münferit veya birleştirilerek veya imar adası bazında uygulama yapılmasına, ifraz, terk, ihdas ve tapuya tescil işlemlerine, yeniden bina yaptırılmasına, payların satışına, kat karşılığı veya hasılat paylaşımı ve diğer usuller ile yeniden değerlendirilmesine, yapının paydaşı olup olmadıkları gözetilmeksizin sahip oldukları hisseleri oranında paydaşların en az üçte iki çoğunluğu ile karar verilir. Bu karara katılmayanların bağımsız bölümlerine ilişkin arsa payları, Bakanlıkça rayiç değeri tespit ettirilerek ve bu değerden az olmamak üzere anlaşma sağlayan diğer paydaşlara açık artırma usulü ile satılır." hükmüne yer verilmiştir.
@@ -54,6 +60,8 @@ Bu çerçevede riskli alanlar ve rezerv yapı alanlarında uygulama yapılan eta
 Açıklanan nedenlerle; ...... İdare Mahkemesinin ... günlü, E:..., K:... sayılı kararının BOZULMASINA …
 
 ## Yargıtay 6. HD 2025/4339 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1199427000)
 
 İlk Derece Mahkemesince bozmaya uyularak verilen karar davalı ... vekili tarafından duruşma istemli temyiz edilmekle; kesinlik, süre, temyiz şartı ve diğer usul eksiklikleri yönünden yapılan ön inceleme sonucunda, 16.12.2025 tarihinde duruşma yapılmasına ve duruşma gününün taraflara davetiye ile bildirilmesine karar verilmiştir.
 
@@ -71,6 +79,8 @@ Davalı arsa sahibi ... vekilinin temyiz itirazlarının kabulü ile mahkeme kar
 
 ## Yargıtay 6. HD 2025/3901 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1193675100)
+
 Davacı vekili dava dilekçesinde; davalı şirket ile müvekkili arasında .... Noterliği’nin 06.12.2017 tarihli 10699 sayılı düzenleme şeklinde taşınmaz satış vaadi ve arsa payı karşılığı inşaat sözleşmesinin imzalandığını, sözleşmeye konu taşınmazda müvekkilinin 1/2 hissesinin bulunduğunu, diğer 2 hissedarla yapılmış bir anlaşmanın bulunmadığını, sözleşmenin geçersiz olduğunu, davalı tarafından tapu kaydına satış vaadi sözleşmesinin şerh edildiğini ancak geçersiz bir sözleşmeye dayalı olarak ifa isteyemeyeceği gibi şerh de koyduramayacağını ileri sürerek sözleşmenin geçersizliğinin tespiti ve 15.12.2017 tarihli satış vaadi şerhinin terkinine karar verilmesini talep etmiştir.
 
 …
@@ -86,6 +96,8 @@ Diğer yönden Bölge Adliye Mahkemesince 6306 sayılı Kanun’a göre değerle
 Temyiz olunan Bölge Adliye Mahkemesi kararının BOZULMASINA …
 
 ## Yargıtay 5. HD 2023/1210 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/874319500)
 
 Mahkemece bozmaya uyulacak yeniden yapılan yargılama sonucunda davanın kısmen kabulüne karar verilmiştir.
 
@@ -103,6 +115,8 @@ Bir kısım davalılar vekillerinin yerinde görülmeyen tüm temyiz itirazları
 
 ## Yargıtay 6. HD 2022/5086 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/840605900)
+
 Somut olayda, yüklenici ile kat maliki hissedarlar arasında Kadıköy 4. Noterliğinin 18/08/2011 ve 11/10/2011 tarihli ve Ankara 17. Noterliği 31/10/2011 tarihli kat karşılığı inşaat sözleşmeleri imzalandığı, sözleşme tarihlerinde 13 kat maliki hissedardan, toplamda 11 kat maliki hissedar ile sözleşme imzalandığı anlaşılmıştır. Paylı mülkiyete tabi taşınmazlarda kat karşılığı inşaat sözleşmesinin geçerli olabilmesi için tüm paydaşlarla yüklenicinin sözleşme yapmış olması gerekmekte olup, sözleşme tarihinde tüm paydaşlarla sözleşme imzalanmadığı görüldüğünden imzalanan kat karşılığı inşaat sözleşmelerinin geçersiz olduğu anlaşılmıştır. Geçersiz sözleşmelerin feshi istenemez ise de, çoğun içinde azın da bulunduğu ilkesinden hareket edilerek fesih talebinin geçersizliğinin tespiti olarak kabulü mümkündür.
 
 İmza tarihlerinde geçersiz olduğu anlaşılan kat karşılığı inşaat sözleşmelerinin, sözleşme tarihlerinden sonra 16/05/2012 tarihinde yürürlüğe giren 6306 sayılı Afet Riski Altındaki Alanların Dönüştürülmesi Hakkındaki Kanun ile getirilen düzenlemeler ile geçerli hale gelmesi mümkün değildir. Sözleşmelerin imza tarihinde yapının riskli yapı olduğuna ilişkin bir tespitin bulunmadığı, İstanbul Teknik Üniversitesinden kat maliki hissedarların başvurusu ile alınan 12/12/2011 tarihli raporun ise, dosya kapsamındaki Çevre Şehircilik İl Müdürlüğünün 16/08/2012 tarihli yazısı ile ilgili yönetmelik uyarınca deprem performans analizine uygun olmadığı, yapının riskli olduğuna dair şerhin tapuya 14/11/2012 tarihinde tescil edildiği, kaldı ki, 6306 sayılı Kanun ile riskli yapıların dönüştürülmesi için gerekli görülen 2/3 çoğunluk bakımından ise kanunun yürürlük tarihinden sonra 2/3 oranında paydaşın bir araya gelerek 6306 sayılı Kanuna uygun ortak bir karar almadığı anlaşılmıştır.
@@ -113,6 +127,8 @@ Bu hali ile 6306 sayılı Kanunun yürürlük tarihinden önce sözleşmeyi tüm
 SONUÇ: Yukarıda açıklanan nedenlerle, asıl dava davacıları birleşen dava davalıları ..., ..., ..., ..., ..., ..., ... vekilinin temyiz itirazlarının kabulü ile hükmün temyiz edenler yararına BOZULMASINA …
 
 ## Yargıtay 5. HD 2021/6030 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/688698700)
 
 Mahkemece, davacının maliki bulunduğu 5 ve 13 numaralı bağımsız bölümleri dava devam ederken davalı ... tarafından 6306 sayılı Kanun ile iktisap edildiğinden dava konusuz kaldığı gerekçesiyle davanın reddine karar verilmiş, hüküm, davacı vekili tarafından temyiz edilmiştir. Yargıtay (kapatılan) 20.
 
@@ -128,6 +144,8 @@ Bu çerçevede parsellerin tevhit edilmesine, münferit veya birleştirilerek ve
 Davacı vekilinin kararın düzeltilmesi isteminin kabulü ile Yargıtay (kapatılan) 20. Hukuk Dairesinin 18/02/2019 gün ve 2017/7962 E.- 2019/1072 K. sayılı kararının KALDIRILMASINA …
 
 ## Yargıtay 11. HD 2021/3297 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/670726900)
 
 Davacı vekili, müvekkilinin İstanbul Merter’de yer alan bitişik 2 parsel üzerine çarşı inşa etmek için bir kısım kat malikleriyle 2011 yılında kat karşılığı inşaat sözleşmesi akdettiğini, devam eden süreçte 6306 sayılı Afet Riski Altındaki Alanların Dönüştürülmesi Hakkındaki Kanunun yürürlüğe girdiğini, anılan Kanun’a göre, Kanun kapsamındaki taşınmazlara yeniden bina yapılabilmesi için kat maliklerin en az üçte ikisinin onayı gerektiğini, bu kapsamda, parsellerden birindeki kat maliklerince karar alındığını ancak diğer parselde karar alınamadığını, bunun sebebinin davalıların faaliyetleri olduğunu zira davalı şirketlerin yetkilisi olan ...’nün müvekkilinin projesini taklit ederek kat maliklerine teklif götürdüğünü ve kat maliklerine müvekkiliyle olan sözleşmelerini feshedip kendisiyle sözleşme yapılması için baskı kurduğunu, diğer davalı şahısla birlikte söz konusu taşınmazlardan bedelinin çok üzerinde daire satın aldığını, bunun sonucunda bir takım kat maliklerinin müvekkiliyle olan sözleşmeleri feshedip davalılarla sözleşme yaptığını, davalıların eylemlerinin haksız rekabet niteliğinde olduğunu ileri sürerek, haksız rekabetin tespitine, önlenmesine ve maddi ve manevi tazminatın
 davalılardan tahsiline karar verilmesini istemiştir.
@@ -149,6 +167,8 @@ SONUÇ: Yukarda açıklanan nedenlerle davacı vekilinin temyiz isteminin kabul�
 
 ## Yargıtay 20. HD 2019/6900 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/549598800)
+
 Mahkemece yapılan yargılama sonunda 03/11/2015 tarih 2015/317 E. - 2015/383 K. sayılı karar ile davacının davasının 6306 sayılı Kanunun 9. maddesi gereği idari yargı görevli olduğundan dava şartı noksanlığı nedeniyle reddine karar verildiği, taraf vekilleri tarafından kararın temyiz edilmesi üzerine Yargıtay 20. Hukuk Dairesinin 11.04.2017 tarih 2017/787 E. - 2017/3123 K. sayılı ilamı ile “İdari yargıda, idarenin eylem ve işlemlerinden zarar gören kişilerin açtığı iptal ya da tam yargı davalarına bakılmaktadır.
 
 …
@@ -163,6 +183,8 @@ SONUÇ: Yukarıda açıklanan nedenlerle; davalı vekilinin temyiz itirazların�
 
 ## Yargıtay 15. HD 2019/790 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/481955200)
+
 Dava, kat karşılığı inşaat sözleşmesinden kaynaklanan tapu iptâl ve tescil talebine ilişkin olup, mahkemece davanın kısmen kabulüne dair verilen karar, davacı tarafından temyiz edilmiştir.
 
 …
@@ -174,6 +196,8 @@ Davacı davalı yüklenici ile aralarında düzenlenen kat karşılığı inşaa
 SONUÇ: Yukarıda 1. bentte açıklanan nedenlerle davacının diğer temyiz itirazlarının reddine, 2. bent uyarınca mahkeme kararının 4 nolu hüküm fıkrası ikinci satırında bulunan "13.150,00" rakamının karardan çıkarılmasına yerine “1.500,00” rakamının yazılmasına, kararın değişik bu şekli ile DÜZELTİLEREK ONANMASINA …
 
 ## Yargıtay 20. HD 2018/7187 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/470068200)
 
 Davacı vekili dava dilekçesinde, ...ili, ... mahallesi, 4017 ada, 1 parselde kayıtlı anataşınmazın 2 nolu bağımsız bölümünün 24/118 arsa paylı maliki olduğunu, kat malikleri olan davalıların, 6306 sayılı Kanun kapsamında binanın "riskli yapı" olduğuna dair rapor aldıklarını, bu kararın iptali için ...3. İdare Mahkemesinde 2016/544 Esas sayı ile dava açıldığını, karşılıklı çekilen ihtarlar üzerine davacının 22/08/2016 tarihli kat malikleri toplantısına davet edildiğini, yapılan toplantıda parsel üzerine inşaat yapmak isteyen şirket yetkililerinin sözlü olarak bilgi verdiklerini, ancak davacı vekili tarafından daha iyi şartlarla bina yapılmak istenmesine rağmen davalıların bu teklifinin kabul etmeyerek mevcut binanın yıkımı ve yeni bina yapım işinin ....
 
@@ -189,6 +213,8 @@ Dava konusu; ...ili, Buca ilçesi, Kızılçullu mahallesi, 4017 ada, 1 parselde
 SONUÇ: Yukarıda açıklanan nedenlerle, davalıların temyiz isteminin reddine ilişkin ek mahkeme kararının kaldırılarak; temyiz olunan bölge adliye mahkemesi kararının HMK'nın 371. maddesi gereğince davalılar yararına BOZULMASINA …
 
 ## Yargıtay 20. HD 2018/4323 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/429338300)
 
 Mahkemece dava konusu taşınmazda davacıların arsa payı % 25 olmasına rağmen, yeni yapılacak inşaattan % 0.75 (0.0075) pay teklif edildiği, davacıların taşınmazın % 0.75 değerinde bağımsız bölümü kabul edip etmeme teklifi ve kabul edilmediği takdirde hissesinin satışa çıkarılması baskısı ile karşı karşıya bırakılmış bulundukları, davalılar tarafından davacıların ya sözleşmeyi kabul ya da paylarının satışına katlanma durumunda bırakmaya zorlayan karar ve sözleşme hükümlerinin davacıların mülkiyet hakkına yönelik ağır bir müdahale olduğu gerekçesiyle sözleşmede yer alan edimler arasında davacılar aleyhine aşırı oransızlık olduğunun tespitine, dava konusu yapılan sözleşmede yer verilen edimler arasında aşırı bir oransızlık bulunduğundan bunu ortadan kaldıracak hak sahiplerine ve müteahhite verilecek pay oranlarının taraflarca tespitinin gerektiği gerekçesiyle de Hak sahibi ve müteahhite verilecek pay oranlarının tespiti ile ilgili talebin reddine karar verilmiş, hüküm taraflar vekillerince temyiz edilmiştir.
 

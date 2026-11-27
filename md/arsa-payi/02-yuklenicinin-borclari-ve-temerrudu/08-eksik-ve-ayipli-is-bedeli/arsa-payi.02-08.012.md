@@ -22,6 +22,8 @@ uyari: "Derleyenin seçtiği alıntılardır; kararın tamamı değildir. Künye
 
 ## Yargıtay 23. HD 2014/424 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/109918200)
+
 Davacı vekili, müvekkili şirket ile davalı yüklenici kooperatif arasında arsa payı karşılığı inşaat sözleşmesi imzalandığını, davalının sözleşmede kararlaştırılan sürede inşaatı tamamlayamaması üzerine mahkeme aracılığıyla yapılan tespitte eksik ve ayıplı iş bedelinin 57.890,00 TL olduğunun tespit edildiğini, ayrıca davalının geciken her ay için aylık 200 USD gecikme tazminatı ödemeyi kabul ve taahhüt ettiğini ileri sürerek, şimdilik 5.000,00 TL eksik ve ayıplı işler bedeli ile 5.000 USD gecikme tazminatının temerrüt ihtarnamesinin davacıya tebliğ tarihi olan 03.07.2006 tarihinden itibaren reeskont faizi ile birlikte davalıdan tahsilini talep ve dava etmiştir.
 
 Davalı vekili, davacı ve diğer arsa sahiplerinin arsayı boş olarak müvekkiline teslim etmediğini, sözleşmenin yapıldığı tarihte arsada payı bulunan Narlıdere Belediye Başkanlığı'nın payı ile ilgili sorunların davacı tarafça çözümlenmesi gerektiğini, bu payın alındığı E. Y. ile bir sözleşme imzalanamadığını, müvekkiline kusur izafe edilemeyeceğini savunarak davanın reddini istemiştir.
@@ -37,6 +39,8 @@ doğru olamıştır.
 SONUÇ: Yukarıda (1) no'lu bentte açıklanan nedenlerle re'sen, (2) no'lu bentte açıklanan nedenlerle davacı vekilinin temyiz itirazlarının kabulüyle hükmün davacı yararına BOZULMASINA …
 
 ## Yargıtay 23. HD 2013/8210 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/525905000)
 
 Davacı vekili, davalılar arasında 03.07.2001 tarihli arsa payı karşılığı inşaat sözleşmesinin akdedildiğini, bu sözleşmeye istinaden davalı arsa payı sahibi ...’in müvekkiline 15.09.2003 tarihinde daire sattığını, söz konusu dairenin eksik teslim edilmesi nedeni ile müvekkilinin bu eksiklikleri giderdiğini, bu nedenle kira kaybına maruz kaldığını, kur’ada müvekkiline isabet eden daire için kooperatifin haksız olarak kendisinden kat ve cephe parası tahsil ettiğini, dairenin tapusunun halen verilmediğini ileri sürerek, dairenin tapusunun iptali ile müvekkili adına tesciline, 9.000,00 TL kat ve cephe farkı, 10.000,00 TL eksiklikler için yapılan harcama bedeli ve 5.000,00 TL kira tazminatı olmak üzere toplam 24.000,00 TL'nin davalılardan müştereken ve müteselsilen tahsiline karar verilmesini talep ve dava etmiştir.
 
@@ -61,6 +65,8 @@ SONUÇ: Yukarıda açıklanan nedenlerle, davalılar vekilinin diğer temyiz iti
 
 ## Yargıtay 23. HD 2013/8091 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/524971700)
+
 Davacı vekili, müvekkillerinin yönetim kurulu üyesi olduğu, site sakinlerinin oturduğu konutlarının davalı yüklenici tarafından ayıplı ve eksik inşa edilerek 2008 yılında teslim edildiğini ileri sürerek, fazlaya ilişkin hakları saklı kalmak kaydıyla 1.000,00 TL, 06.12.2011 tarihli ıslah dilekçesiyle de toplam 169.557,60 TL alacağın yasal faiziyle birlikte tahsilini talep ve dava etmiştir.
 
 Davalılar vekili, müvekkilleri ile ... Büyükşehir Belediye Başkanlığı arasında 30.12.2005 tarihinde imzalanan arsa payı karşılığı inşaat sözleşmesi uyarınca, müvekkillerinin inşa ettiği konut ve dükkanları 2008 yılında teslim ettiğini, Belediye tarafından 11.09.2009 tarihinde kesin kabulün de yapıldığını, davacı tarafın şimdiye kadar müvekkillerinden bir talepte bulunmadığını savunarak, davanın reddini istemiştir.
@@ -77,6 +83,8 @@ SONUÇ: Yukarıda (1) numaralı bentte açıklanan nedenlerle, davalılar vekili
 
 ## Yargıtay 23. HD 2013/7587 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/511254600)
+
 Mahkemece, iddia, savunma, benimsenen bilirkişi raporu ve dosya kapsamına göre; davacı kooperatif her ne kadar arsa paylarının tapu kayıtlarının iptali ve adına tescilini talep etmiş ise de, talebinin esas itibariyle kat irtifakı-kat mülkiyeti kurulması ve tapuda devir yapılması için yetki ve izin verilmesi niteliğinde olduğu ve arsa sahiplerine ait bağımsız bölümler bitirilip teslim edildiğinden bu yöndeki talebinin yerinde olduğu, sözleşme hükümleri doğrultusunda arsa sahiplerine düşen bağımsız bölümlerin en geç ....03.2003 tarihinde teslimi gerektiği halde ... ay ... gün gecikmeyle ....03.2004 tarihinde teslim edildiği, geç teslim edilen ... adet villanın kira bedelinin toplam ....833,00 TL ve arsa sahiplerine ait bağımsız bölümlerdeki eksik ... bedelinin de 57.700,00 TL olduğu gerekçesiyle, asıl davanın kabulü ile ... adedi kooperatife ... adedi arsa sahiplerine ait toplam 39 adet her bir tripleks konutun arsa payının .../39 olduğunun tespiti ile, kat irtifakı ve kat mülkiyeti kurulması ve tapuda devir yapılması için asıl davada davacı kooperatife yetki ve izin verilmesine, birleşen davanın kısmen kabulü ile, ....833,00 TL gecikme tazminatı ve 57.700,00 TL eksik ... bedeli
 olmak üzere toplam 69.533,00 TL'nin davalı kooperatiften tahsiline karar verilmiştir.
 
@@ -87,6 +95,8 @@ olmak üzere toplam 69.533,00 TL'nin davalı kooperatiften tahsiline karar veril
 SONUÇ: Yukarıda (...) numaralı bentte açıklanan nedenlerle, asıl davada davacı kooperatif vekili ile asıl davada bir kısım davalılar ..., ..., ... ve ... vekillerinin temyiz itirazlarının reddine, (...) numaralı bentte açıklanan nedenlerle, birleşen davada davacılar ..., ..., ..., ... ve ... vekilinin temyiz itirazlarının kabulü ile hükmün anılan davacılar yararına, (...) numaralı bentte açıklanan nedenlerle, birleşen davada davalı kooperatif vekilinin itirazlarının kabulü ile hükmün, davalı kooperatif yararına BOZULMASINA …
 
 ## Yargıtay 23. HD 2013/7446 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/523113000)
 
 Davacı vekili, taraflar arasında imzalanan 11.05.1999 tarihli arsa payı karşılığı inşaat sözleşmesi gereği edimlerini yüklenici olarak yerine getiren müvekkilinin arsa sahiplerine isabet eden bağımsız bölümleri 25.08.2001 tarihinde teslim ettiği halde arsa sahipleri olan davalıların B blok zemin kat 1 ve C blok zemin kat 1 nolu bağımsız bölümlerin tapularını müvekkiline devretmediğini ileri sürerek, bu iki bağımsız bölümün davalılar adına olan tapu kaydının iptali ile müvekkili adına tapuya tescilini ve 10.000,00 TL kira tazminatının davalılardan tahsilini talep ve dava etmiştir.
 
@@ -103,6 +113,8 @@ Karşılıklı edimleri içeren sözleşmelerde bir tarafın, karşı tarafın e
 SONUÇ: Yukarıda (1) no'lu bentte açıklanan nedenlerle, davacı vekilinin tüm davalı vekilinin diğer temyiz itirazlarının reddine, (2) no'lu bentte açıklanan nedenlerle, davalılar vekilinin temyiz itirazlarının kabulü ile hükmün, davalılar yararına BOZULMASINA …
 
 ## Yargıtay 14. HD 2013/5902 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/647741200)
 
 Davacı, davalı arsa maliki ... ile davalı yüklenici ... arasında düzenlenen arsa payı karşılığı inşaat sözleşmesi uyarınca yükleniciye bırakılan 4 parsel sayılı taşınmazdaki (A) blok 1 numaralı bağımsız bölümü yükleniciden 06.04.2001 günlü sözleşmeyle yükleniciden satın alıp bedelini ödediğini ileri sürerek, taşınmazın adına tescilini veya ödenen bedelin faiziyle alınmasını istemiştir.
 
@@ -123,6 +135,8 @@ SONUÇ: Yukarıda (1.) bentte açıklanan nedenlerle davalı arsa maliki ... vek
 
 ## Yargıtay 23. HD 2013/4807 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/504023300)
+
 Davacılar vekili, müvekkilleri ile dava dışı yükleniciler ... Tarım Ürünleri Gıda Hayvancılık İnşaat ve Tic. Ltd.
 
 …
@@ -142,6 +156,8 @@ SONUÇ: Yukarıda (...) numaralı bentte açıklanan nedenlerle, davalı vekilin
 
 ## Yargıtay 23. HD 2013/4581 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/494327100)
+
 Davacı-karşı davalı vekili, müvekkili ile davalı yüklenici arasında düzenlenen 03.08.1995 tarihli arsa payı karşılığı inşaat sözleşmesi ile ek sözleşmeler uyarınca müvekkiline verilmesi gereken ... daire ile bir dükkanda sözleşme ile belirlenen bir kısım imalatların yapılmadığını, bir kısım eksik imalatın müvekkilince tamamlandığını, müvekkiline ait üç dairenin kur'a da belirlendiğini ve sözleşme uyarınca kat farkı verilmesi gerektiğini ileri sürerek, toplam ....000,00 TL tazminatın davalıdan tahsilini talep ve dava etmiş, ıslahla alacağını ....746,00 TL sına yükseltmiştir.
 
 …
@@ -156,6 +172,8 @@ Mahkemece, iddia, savunma, benimsenen bilirkişi raporu ve dosya kapsamına gör
 SONUÇ: Yukarıda (...) numaralı bentte açıklanan nedenlerle, asıl ve birleşen davada davacı vekilinin diğer temyiz itirazlarının reddine, (...) numaralı bentte açıklanan nedenlerle, temyiz itirazlarının kabulü ile hükmün asıl ve birleşen davadaki davacı yararına BOZULMASINA …
 
 ## Yargıtay 23. HD 2013/3177 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/487438900)
 
 Davacı vekili, taraflar arasında imzalanan ....07.2009 tarihli arsa payı karşılığı inşaat sözleşmesi uyarınca yüklenici davalı ...'a inşaatın bitiş aşamalarına göre kendisine isabet eden yedi adet dairenin peyderpey tapularının devredileceğinin kararlaştırıldığını, beş adet dairenin tapusunun devredildiğini, inşaatı tamamlamadığı halde ekonomik sıkıntıya düştüğünü belirten davalının talebi üzerine kalan ... ve ... nolu dairelerin ferağını müvekkilinin verdiğini, davalının bu daireleri yakın arkadaşı olan diğer davalılara devrettiğini ileri sürerek, ... ve ... numaralı dairelerin tapularının iptali ile davacı adına tescilini, bu talep kabul edilmediği takdirde bu iki dairenin değerinin tüm davalılardan müşterek ve müteselsilen tahsilini, yoksun kalınan kira kaybına ilişkin taleplerinin saklı tutulmasını talep ve dava etmiştir.
 
@@ -173,6 +191,8 @@ SONUÇ: Yukarıda (...) numaralı bentte açıklanan nedenlerle, davalı ... ve 
 
 ## Yargıtay 23. HD 2013/2757 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/486561500)
+
 Davalı vekili, müvekkili tarafından binadaki eksikliklerin tamamlanmaya çalışıldığını ancak davacının tehdit ve fiili engellemeleri nedeniyle eksikliklerin tamamlanamadığını, eksikliklerin davacı tarafından yerine getirilmesi için davacıya ....000,00 TL çek ve ayrıca elden nakit ödeme yapıldığını, bütün bunlara rağmen yapılmamış işler varsa müvekkilinin iyiniyetle anlaşma yapmak istediğini, belirlenen noksan işler ve istenen bedelin fahiş olduğunu savunarak, davanın reddini istemiştir.
 
 …
@@ -184,6 +204,8 @@ Hükme esas bilirkişi raporunda sözleşme kapsamında eksik ve ayıplı işler
 SONUÇ: Yukarıda ... no'lu bentte açıklanan nedenlerle, davalı temsilcisinin diğer temyiz itirazlarının reddine, ... no'lu bente açıklanan nedenlerle temyiz itirazlarının kabulü ile hükmün, davalı yararına BOZULMASINA …
 
 ## Yargıtay 15. HD 2013/2708 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/256919400)
 
 …
 

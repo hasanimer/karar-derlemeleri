@@ -28,8 +28,12 @@ Tapuda kayıtlı bir taşınmazın mülkiyetini devir borcu doğuran ve ancak ya
 
 ## Yargıtay HGK 2024/107 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1012700900)
+
 Anılan düzenlemeler uyarınca tapulu taşınmazlarda mülkiyetin devrini öngören sözleşmelerin geçerli olmaları için resmî şekilde yapılmaları zorunlu olup; kat karşılığı inşaat sözleşmeleri, arsa sahibi yönünden taşınmaz mülkiyetinin ileride yükleniciye devrine ilişkin bir yükümlülüğü (mülkiyetin nakline yönelik vaadi) içerdiğinden, bu tür sözleşmelerin noterde resen düzenleme şeklinde yapılmaları geçerlilik koşuludur. Emredici kural gereği, resmî şekle uyulmadan yapılan sözleşmeler geçersizdir.
 
 ## Yargıtay HGK 2024/76 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1038539000)
 
 Kaldı ki, dosya kapsamından davacının daire bedelini ödediği anlaşılmaktadır. Bununla birlikte davacı vekili inşaatın tamamlanmasıyla davaya konu edilen yerin davalı tarafından müvekkiline fiilen teslim edildiğini, elektrik aboneliğinin bulunduğunu ve DASK poliçesi imzalandığını, söz konusu dairenin müvekkili tarafından kullanıldığını belirtmektedir. Dolayısıyla harici yapılan sözleşmenin her iki tarafının da edimlerini tamamıyla ifa ettikleri anlaşılmaktadır. Bu durumda artık harici sözleşmeye geçerlilik tanınmayarak tapunun davacıya devredilmemesi anılan Yargıtay İçtihadı Birleştirme Genel Kurulu kararında da değinildiği üzere 4721 sayılı Kanun'un ikinci maddesinde düzenlenen hakkın kötüye kullanılması yasağına aykırılık teşkil edeceğinden davacıya yapılan daire satışının geçerli kabul edilmesi gerekmektedir.

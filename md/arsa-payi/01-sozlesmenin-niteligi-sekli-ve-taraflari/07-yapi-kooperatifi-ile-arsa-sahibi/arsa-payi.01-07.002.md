@@ -22,6 +22,8 @@ uyari: "Derleyenin seçtiği alıntılardır; kararın tamamı değildir. Künye
 
 ## Yargıtay 6. HD 2025/2121 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1157874500)
+
 Davacılar vekili dava dilekçesinde; taraflar arasında düzenlenen 30.04.2002 tarihli asıl ve 29.09.2005 tarihli ek arsa payı karşılığı inşaat sözleşmesi uyarınca müvekkiline ait 8 bağımsız bölümün en son 28.02.2008 tarihinde teslimi gerekirken teslim edilmediğini ileri sürerek, BK'nın 97. maddesine göre nama ifaya izin ve satış yetkisi verilmesini talep etmiştir. Davacı ... vekili ve davacı asil ... 20.02.2023 tarihli tam ıslah dilekçesi ile sözleşmenin geriye etkili feshini talep ve dava etmiştir.
 
 …
@@ -46,6 +48,8 @@ Yukarıda 2. bentte açıklanan nedenlerle davacı ... vekili ve davacı ...’�
 
 ## Yargıtay 6. HD 2025/1861 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1158538100)
+
 Mahkemece bozmaya uyularak verilen karar asıl ve birleşen davalarda davacı vekilince duruşmalı olarak temyiz edilmekle; kesinlik, süre, temyiz şartı ve diğer usul eksiklikleri yönünden yapılan ön inceleme sonucunda, 06.05.2025 tarihinde duruşma yapılmasına ve duruşma gününün taraflara davetiye ile bildirilmesine karar verilmiştir.
 
 …
@@ -63,6 +67,8 @@ Her ne kadar dava konusu bağımsız bölümün sözleşme ile yükleniciye bır
 Temyiz olunan Mahkeme kararına karşı asıl davada davacı vekilinin temyiz itirazının kabulü ile sonucu itibarıyla doğru olan Yerel Mahkeme kararının gerekçesinin değiştirilerek hükmün DÜZELTİLEREK ONANMASINA …
 
 ## Yargıtay 6. HD 2025/1429 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1152106700)
 
 Davacı vekili dava dilekçesinde; kooperatifin eski yöneticileri olan davalıların kooperatifi zarara uğrattıklarını, yüklenici sıfatı ile dava dışı arsa sahipleri ile kooperatif arasında 28.12.2004 tarihinde arsa payı karşılığı inşaat sözleşmesi imzalandığını, yüklenici durumunda olan kooperatifin daha sonra diğer davalı şirket ile inşaat yapım sözleşmesi imzaladığını, sözleşmenin konusunun kooperatife anahtar teslimi 82 konut yapımı, çevre düzenlemesi, temiz su altyapı servis hatlarının bağlanması vb. yapılması karşılığında 550.000,00 TL ile C bloktan 32 bağımsız bölümün kat irtifak tapularının verilmesi olduğunu, bu sözleşme yürürlükte iken ve genel kurulca bir karar alınmadan 29.09.2012 tarihinde kooperatif ile davalı şirket arasında ek protokol imzalandığını, bu sözleşme ile yüklenici alacaklı çıkartılarak tasfiyenin gerçekleşmesi bakımından bazı borçlann (SKK. borcu, şantiye suyu borcu, elektrik borcu, malzeme alımı gibi) ödenmesinin kooperatifçe üstlenildiğini, yüklenici tarafından anahtar teslimi tamamlanması gereken konutların tamamlanmadığını, inşaatın 4. sınıf kalitede olduğunu, dolayısıyla inşaatı eksik bırakan yükleniciye 1.000.000,00 TL'ye aşkın fazla ödeme yapıldığını,
 bunların dışında kooperatif yöneticilerinin kooperatife doğrudan verdikleri zararlarla ilgili olarak (kooperatif paralarını üzerlerinde tutmak, makbuz cildini kaybetmek suretiyle kooperatif paralarını zimmetlerine geçirmek, yüksek tutarlarda gider yapmak vb.) haklarında kamu davası açıldığını ileri sürerek davalıların ortaklaşa şekilde kooperatife verdikleri zararın tespiti ile şimdilik 10.000,00 TL tutarın zarar tarihinden itibaren faiziyle birlikte tahsiline, davalı iş ortaklığı ile eski yönetim kurulu arasında yapılan 29.09.2012 tarihli sözleşmenin geçersizliğinin tespiti ve 10.01.2010 tarihli sözleşmenin ifasındaki gecikmeden doğan kira kaybının tespiti ile şimdilik 1.000,00 TL'nin gecikme tarihinden itibaren faiziyle birlikte tahsiline, 10.01.2010 tarihli sözleşmenin yüklenici temerrüdü nedeniyle geriye etkili feshine karar verilmesini talep ve dava etmiştir.
@@ -82,6 +88,8 @@ doğru görülmemiş hükmün bu nedenle bozulması gerekmiştir.
 
 ## Yargıtay 6. HD 2025/103 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1122636900)
+
 İlk Derece Mahkemesince, el atmanın önlenmesi davasında, arsa payı karşılığı inşaat sözleşmesinin mahkeme kararı ile geriye etkili şekilde feshine karar verildiği, söz konusu kararın kanun yollarından geçerek kesinleştiği, yüklenici kooperatifin üyesi olan davalının dava konusu taşınmazda yasal hakkının olmadığı gerekçesiyle, davanın kabulüne karar verilmiştir.
 
 …
@@ -93,6 +101,8 @@ Kamu düzenine aykırılık hallerinin re'sen gözetildiği, istinaf nedenleriyl
 SONUÇ: Yukarıda açıklanan nedenlerle, davalı vekilinin diğer temyiz itirazlarının reddine, İlk Derece Mahkemesi kararına karşı istinaf başvurusunun esastan reddine ilişkin İzmir Bölge Adliye Mahkemesi 24. Hukuk Dairesi’nin 15.05.2024 tarihli …
 
 ## Yargıtay 6. HD 2024/5091 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1115344800)
 
 Davalı vekili cevap dilekçesinde özetle; davacıya düşen bağımsız bölümlerin 11 adet olduğunu ve teslim edilmesi için davacıya bildirildiğini, ancak teslim almadığını belirterek davacının davayı açmakta hukuki yararının bulunmadığını savunarak davanın reddine karar verilmesini istemiştir.
 
@@ -110,6 +120,8 @@ SONUÇ: Yukarıda (1) no.lu bentte açıklanan nedenlerle davalı vekilinin temy
 
 ## Yargıtay 6. HD 2024/5080 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1123273200)
+
 İlk derece mahkemesince iddia, savunma ve tüm dosya kapsamına göre, paydaş olarak malik bulunduğu arsa yönünden kat irtifakı kurulması ve cins tashihi isteminde bulunma hakkına haiz davalı arsa sahibinin yerine geçmek suretiyle, davacı yükleniciye yetki verilemeyeceğinden davacının davasının reddine karar verilmiştir.
 
 …
@@ -119,6 +131,8 @@ Bunun yanında davacının, kat irtifakının tesisi ile birlikte oluşacak bağ
 SONUÇ: Yukarıda açıklanan nedenlerle İlk Derece Mahkemesi kararı ile bu karara karşı yapılan istinaf başvurusunun esastan reddine ilişkin kararın usul ve yasaya aykırı olması nedeniyle HMK. 'nın 373/1. maddesi gereğince Kayseri Bölge Adliye Mahkemesi 4. Hukuk Dairesi kararı KALDIRILARAK; Kayseri 3. Asliye Hukuk Mahkemesi' nin 04.10.2022 tarih …
 
 ## Yargıtay 6. HD 2024/4936 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1112578900)
 
 İlk Derece Mahkemesince; Ankara Etimesgut-Eryaman 46512 ada 1 parsel numaralı arsanın ifrazı ile oluşan 7 parsel (eski 3 parsel) sayılı taşınmazın davacı kooperatif adına tahsis hakkının doğduğunun tespiti ile kooperatif adına tahsisi, mümkün olmaz ise alacak istemine ilişkin asıl dava ile anılan taşınmazın dava dışı S.S.
 
@@ -130,6 +144,8 @@ SONUÇ: Yukarıda açıklanan nedenlerle, Ankara Bölge Adliye Mahkemesi 4. Huku
 
 ## Yargıtay 6. HD 2024/4478 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1111719300)
+
 1\.
 
 …
@@ -139,6 +155,8 @@ Davaya konu olayda yukardaki hususlar gözardı edilerek, dava konusu bağımsı
 SONUÇ: Yukarıda açıklanan nedenlerle, davalı ... vekilinin temyiz isteminin REDDİNE, davacı vekilinin temyiz isteminin kabulü ile İlk Derece Mahkemesi kararı ile bu karara karşı yapılan istinaf başvurusunun esastan reddine ilişkin kararın usul ve yasaya aykırı olması nedeniyle HMK'nın 373/1. maddesi gereğince Samsun Bölge Adliye Mahkemesi 5. Hukuk Dairesi kararı KALDIRILARAK; İlk Derece Mahkemesi kararının hüküm fıkrasının birinci bendi ve yedinci bendi tamamen çıkartılmak suretiyle kararın DÜZELTİLEREK ONANMASINA …
 
 ## Yargıtay 6. HD 2024/4035 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1111910000)
 
 Davalı vekili cevap dilekçesinde özetle; davacıların 14.06.2015 tarihli 2014 yılı olağan genel kurul toplantısına asaleten katıldıkları, gündem maddelerinin tamamının görüşülmesinden sonra divan başkanı tarafından muhalefet şerhi veren olup olmadığının sesli olarak sorulduğu, her iki davacının sadece gündemin 11. maddesinde alınan kararlara karşı muhalefet şerhinde bulunduğu, bunu tutanağa yazdırıp imzaladıkları, iptal konusu yaptığı "Yönetici ve Denetçi Seçimine" dair gündemin 8. maddesinde alınan kararların ve yapılan oylamaların kanuna, ana sözleşme hükümlerine uygun olduğu savunarak, davanın reddini istemiştir.
 
@@ -160,6 +178,8 @@ Yöneticilik görevi yapmak ve benzeri tüm hususlarda Yönetim Kuruluna 6 red o
 İlk Derece Mahkemesi kararının davacı yararına BOZULMASINA …
 
 ## Yargıtay 6. HD 2024/3727 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1112020400)
 
 İlk Derece Mahkemesi kararı davalı vekili tarafından duruşma istemli temyiz edilmekle; kesinlik, süre, temyiz şartı ve diğer usul eksiklikleri yönünden yapılan ön inceleme sonucunda, 22.10.2024 tarihinde duruşma yapılmasına ve duruşma gününün taraflara davetiye ile bildirilmesine karar verilmiştir.
 
@@ -184,6 +204,8 @@ SONUÇ : Yukarıda 1. bentte açıklanan nedenlerle, davalı yüklenici vekilini
 
 ## Yargıtay 6. HD 2024/2902 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1091951100)
+
 Davalı yüklenici kooperatif vekili cevap dilekçesinde özetle; müvekkili kooperatifin yüklendiği inşaatı bitirerek 15 sene önce teslim ettiğini, davacıların kendilerinin ya da kiracılarının 15 yıldır bu dairelerde oturduklarını, taraflar arasında düzenlenen sözleşmenin 7. maddesinde, arsa sahiplerine ait dairelerin fiili tesliminin kararlaştırıldığını, müvekkil kooperatifin de arsa sahiplerine daireleri fiillen teslim ettiğini ancak yapı kullanma izni almadığını, müvekkili kooperatifin bu konudaki çalışmaları ve girişimlerinin devam ettiğini, yapı kullanma izni alınmamasının davacıya sözleşmeyi fesih hakkı vermediğini belirterek davanın reddine karar verilmesini talep etmiştir.
 
 İlk derece mahkemesince yapılan yargılama sonunda;... Belediye Başkanlığı'nın 29.04.2022 tarihli yazısı ile yapı kullanma izin belgesinin alınmasının mümkün olmadığının bildirilmesi karşısında, 3194 sayılı İmar Kanunu'na eklenen Geçici 16.
@@ -201,6 +223,8 @@ Dava, arsa payı karşılığı inşaat sözleşmesinin geriye etkili olarak fes
 Yargılama sırasında, 3194 sayılı Kanunun geçici 16. maddesi kapsamında ruhsat aykırılığın giderilmesi hususunda yüklenici kooperatife süre ve yetki verilmiş ise de yapı yasal hale getirilmemiş, yalnızca yapı kayıt belgesi alınmakla yetinilmiştir. Bu durumda, yüklenicinin sözleşmeden kaynaklanan edimlerine yerine getirmeyerek temerrüde düştüğü sabittir. Aradan bu kadar yıl geçtikten sonra da yapının imara uygun hale getirilmesi de mümkün değildir.
 
 ## Yargıtay 6. HD 2024/1790 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1085840100)
 
 Davacı vekili dava dilekçesinde özetle; müvekkili ...'nün, dava dışı ......Ltd. Şti.'nin ...
 
@@ -224,6 +248,8 @@ Temyiz olunan Bölge Adliye Mahkemesi kararının BOZULMASINA …
 
 ## Yargıtay 6. HD 2024/1770 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1095089800)
+
 Davacı vekili dava dilekçesinde; müvekkilinin davalı kooperatifin malik olduğu taşınmazda bağımsız bölüm sahibi olduğunu, davalı kooperatifin yapı kooperatifi olarak kurulmakla birlikte sonrasında işletme kooperatifine dönüştüğünü, site yönetim planı 23. maddesi gereği bağımsız bölüm maliki olunması halinde doğal olarak kooperatif üyesi olarak kabul edilmesi gerektiğini, kooperatif üyeliğine kabulde açık kapı ilkesi geçerli olmakla birlikte müvekkilinin davalı kooperatife üye olarak kabul edilmesine dair taleplerine cevap verilmemesi nedeniyle, davalı kooperatif üyesi olduğunun tespitine karar verilmesini talep etmiştir.
 
 …
@@ -239,6 +265,8 @@ Kooperatiflerde açık kapı ilkesi geçerlidir. Ancak kooperatifin üye sayıs�
 Değerlendirme bölümünün 2 no.lu bendinde yer alan nedenlerle davalı vekilinin temyiz itirazlarının kabulü ile İstanbul Bölge Adliye Mahkemesi 45. Hukuk Dairesinin 31.05.2023 tarih ve 2020/1654 Esas 2023/861 Karar sayılı kararının ORTADAN KALDIRILARAK ilk derece mahkemesi kararının davalı yararına BOZULMASINA …
 
 ## Yargıtay 6. HD 2024/1498 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1094591000)
 
 Mahkemece kooperatif üyeliğinden kaynaklanan tapu iptal ve tescil davasında verilen ilk kararda, davalı kooperatifin davalı ...'na ait taşınmaz üzerine inşaat yapmak üzere anlaştığı, taşınmaz üzerine yapılan birçok bağımsız bölümün halen davalı ... adına kayıtlı olduğu, davacının davalı kooperatifin inşaatında iş karşılığı üzerine bedel ödeyerek daire almak üzere anlaşma yaptığı, bu nedenle davacının kooperatif üyesi olarak kaydının bulunduğu, kooperatif ile davacı arasında söz konusu sözleşmenin feshedildiği ya da davacının edinimini yerine getirmediği yönünde herhangi bir uyuşmazlığın bulunmadığı, dava konusu edilen dairenin yapılan iş karşılığı davacıya verildiği gerekçesiyle davanın kabulüne karar verilmiştir.
 

@@ -21,11 +21,15 @@ uyari: "Derleyenin seçtiği alıntılardır; kararın tamamı değildir. Künye
 
 ## Danıştay 9. D. 2019/6667 E., 2020/6318 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/634706000)
+
 2577 sayılı İdari Yargılama Usulü Kanunu'nun 54. maddesinde: "Danıştay dava daireleri ve İdari veya Vergi Dava Daireleri Genel Kurullarının temyiz üzerine verdikleri kararlar ile bölge idare mahkemelerinin itiraz üzerine verdikleri kararların kararın tebliğ tarihini izleyen onbeş gün içinde taraflarca bir defaya mahsus olmak üzere aynı maddede belirtilen sebeplerle düzeltilmesi istenebilir." hükmüne yer verilmiştir.
 
 Olayda, Danıştay Dokuzuncu Dairesinin düzeltme istemine konu kararının; davacı tarafından, 6306 sayılı Afet Riski Altındaki Alanların Dönüştürülmesi Hakkında Kanun kapsamında inşa edilen bağımsız bölümlerin satışı sırasında ödenen tapu harcının iadesi talebiyle yapılan başvurunun reddine dair işlemin iptali ve ödenen tutarın iadesi istemiyle açılan davayı ehliyet yönünden reddeden İstanbul 5. Vergi Mahkemesi kararının onanmasına ilişkin olduğu görüldüğünden ve davalı Vergi Dairesi tarafından …
 
 ## Danıştay 5. D. 2017/6943 E., 2020/4485 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/796865500)
 
 Davacı tarafından, dava konusu işlemin savunması alınmadan tesis edildiği ileri sürülmekte ise de, bu eksikliğin yargılama süreci içinde giderilmesinin mümkün olması, 667 sayılı KHK'de öngörülen meslekten veya kamu görevinden çıkarmanın, adli suç veya disiplin suçu işlenmesi karşılığında uygulanan yaptırımlardan farklı olarak “olağanüstü tedbir” niteliğini taşıması ve davaya konu Hâkimler ve Savcılar Kurulu Genel Kurulu kararının, disiplin hukukuna ilişkin hükümlerin uygulanmasını gerektiren meslekten çıkarma cezası niteliğinde bulunmaması karşısında bu iddiaya itibar edilmemiştir.
 
@@ -39,9 +43,13 @@ Davacının bu kararlar nedeniyle yoksun kaldığı parasal haklarının iadesin
 
 ## Danıştay 13. D. 2017/985 E., 2017/1443 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/343686400)
+
 Öte yandan, sürelerin kamu düzenine ilişkin ve usul hukukunu ilgilendiren bir nitelik taşıdığı dikkate alındığında sürelerin geçirilip geçirilmediği hususunun idari yargı mercilerince re'sen araştırılması zorunluluğu bulunduğu, ayrıca idari yargı mercileri tarafından kanun yoluna başvuru süresinin doğru, kanun yolunun ise yanlış gösterilmiş olmasının, kanun yoluna başvuru süresinin işlemeye başlaması bakımından bir engel teşkil etmeyeceği de açıktır.
 
 ## Danıştay 14. D. 2016/7642 E., 2017/180 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/310058900)
 
 6306 sayılı Afet Riski Altındaki Alanların Dönüştürülmesi Hakkında Kanunun "Tahliye ve yıktırma" başlıklı 5. maddesinin 1. fıkrasında, "Riskli yapıların yıktırılmasında ve bunların bulunduğu alanlar ile riskli alanlar ve rezerv yapı alanlarındaki uygulamalarda, öncelikli olarak malikler ile anlaşma yoluna gidilmesi esastır. Anlaşma ile tahliye edilen yapıların maliklerine veya malik olmasalar bile kiracı veya sınırlı ayni hak sahibi olarak bu yapılarda ikamet edenlere veya bu yapılarda işyeri bulunanlara geçici konut veya işyeri tahsisi ya da kira yardımı yapılabilir." hükmü öngörülmüştür.
 
@@ -55,6 +63,8 @@ Açıklanan nedenlerle; ... İdare Mahkemesinin ... günlü, E:2015/.... K:2016/
 
 ## Danıştay 6. D. 2009/4025 E., 2010/1116 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/18434200)
+
 Danıştay Savcısı ...'nun Düşüncesi : İdare ve vergi mahkemelerince verilen kararların temyizen incelenerek bozulabilmesi için, 2577 sayılı İdari Yargılama Usulü Kanununun 49 uncu maddesinin birinci fıkrasında belirtilen nedenlerin bulunması gerekmektedir.
 
 …
@@ -62,6 +72,8 @@ Danıştay Savcısı ...'nun Düşüncesi : İdare ve vergi mahkemelerince veril
 Dava konusu işlemlerin yukarıda özetlenen gerekçeyle iptali yolundaki .... İdare Mahkemesinin ... günlü, E:..., K:... sayılı kararında, 2577 sayılı İdari Yargılama Usulü Kanunu'nun 49. maddesinin 1. fıkrasında sayılan bozma nedenlerinden hiçbirisi bulunmadığından, bozma istemi yerinde görülmeyerek anılan mahkeme kararının ONANMASINA …
 
 ## Yargıtay HGK 2025/726 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1206075100)
 
 Davacı idare vekili dava dilekçesinde; davalı adına kayıtlı Balıkesir ili, Bandırma ilçesi, ... Mahallesi 136 parsel sayılı taşınmazın 3951, 70... ’lik bölümü ve 137 parsel sayılı taşınmazın 3955, 59... ’lik bölümü hakkında Enerji Piyasası Denetleme Kurulunca 29.01.2015 tarihinde kamu yararı kararı alındığını, Bakanlar Kurulunun 04.05.2015 tarihli ve 2015/7790 Karar sayılı kararı ile de acele kamulaştırma kararı verildiğini, Bandırma 1. Asliye Hukuk Mahkemesinin 04.11.2015 tarihli kararı ile taşınmazlara Hazine adına acele el konulmasına karar verildiğini ileri sürerek kamulaştırma bedelinin tespiti ile dava konusu taşınmazların Hazine adına tescilini talep etmiştir.
 
@@ -85,6 +97,8 @@ Bu itibarla, 6306 sayılı Yasa gereği, riskli yapı statüsündeki ana taşın
 
 ## Yargıtay 3. HD 2023/1426 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/964641800)
+
 Davacılar; murislerinden kalan Ankara ili, Çankaya ilçesi, Dikmen mevkiinde kain Yukarı Dikmen Mah. 15. Sok.
 
 …
@@ -102,9 +116,13 @@ Temyiz olunan Mahkeme kararının 1086 sayılı Hukuk Usulü Muhakemeleri Kanunu
 
 ## Yargıtay 6. HD 2022/5055 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/840068600)
+
 Bu durumda dosya içeriğine, temyiz isteminin kapsamına göre; uyuşmazlık, kentsel dönüşüm sözleşmeden kaynaklı olup, temyiz itirazlarını inceleme görevi Yargıtay Kanunu'nun 14. maddesi ve Başkanlar Kurulu Kararı uyarınca Yargıtay 3. Hukuk Dairesine aittir.
 
 ## Yargıtay 13. HD 2017/4145 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/354624200)
 
 Davacı, ... Vadisi 4. ve 5.
 
@@ -121,6 +139,8 @@ SONUÇ: Yukarıda açıklanan nedenlerle hükmün davacı yararına BOZULMASINA 
 
 ## Yargıtay 8. HD 2016/6037 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/195779800)
+
 Davacı vekili; dava dilekçesinde ... İlçesi, Toparlar Beldesi'nde kain ....ye ait 3625 parsel sayılı taşınmaz üzerinde bulunan evin 2.katının davacı tarafından 1999 yılında yapıldığının ve davacıya aidiyetinin tespitini talep etmiştir.
 
 Davalı ... vekili; cevap dilekçesi ile davanın zamanaşımına uğradığını görevli ve yetkili mahkemede davanın açılmadığını, davada .... İdare Mahkemesi'nin görevli ve yetkili olduğunu belirterek, davanın reddine karar verilmesini savunmuştur.
@@ -132,6 +152,8 @@ Ne varki; taşınmaz hakkında kentsel dönüşüm uygulaması, kamulaştırma i
 SONUÇ: Temyiz olunan kararın yukarıda gösterilen nedenlerle davacı vekilinin yazılı temyiz itirazları yerinde görüldüğünden kabulü ile hükmün 6100 sayılı HMK'nun Geçici 3.maddesi yollaması ile 1086 sayılı HUMK'nun 428.maddesi uyarınca BOZULMASINA …
 
 ## Yargıtay 13. HD 2015/11536 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/179424700)
 
 Davacı,... Projesi kapsamında imzalanan sözleşme uyarınca arsasını davalıya devrettiğini, davalının da karşılığında 120 m2 yüzölçümlü daire vermeyi taahhüt ettiğini, sözleşme uyarınca 480,48 TL borçlandırıldığını, ancak davalı belediyenin hesaplamasının gerçeği yansıtmadığını, değer farkının fahiş hesaplandığını ileri sürerek fazlası saklı kalmak üzere 5000 TL.nın tahsilini istemiştir.
 

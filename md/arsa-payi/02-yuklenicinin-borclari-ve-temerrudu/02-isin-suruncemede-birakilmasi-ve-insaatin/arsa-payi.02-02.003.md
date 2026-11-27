@@ -21,6 +21,8 @@ uyari: "Derleyenin seçtiği alıntılardır; kararın tamamı değildir. Künye
 
 ## Ankara BAM 22. HD 2024/882 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1050588800)
+
 Davalı vekili, tarafların tacir olduğunu aralarında düzenlenen sözleşmede arsa sahipleri tarafından verilen süre uzatımının teslim süresini etkileyeceği hususunun açıkça sözleşmede belirtildiğini,dönemde yaşanan darbe girişimi ekonomik kriz vesaire kusurları olmadan bir kısım işlemlerin durduğunu, gecikme tazminatı talep edilemeyeceğini bildirerek davanın reddini savunmuştur.
 
 …
@@ -33,6 +35,8 @@ Mahkemece, davanın geç teslim nedeniyle kira kaybı istemine ilişkin olduğu 
 
 ## Ankara BAM 27. HD 2024/636 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1046769300)
+
 Noterliğinin ... yevmiye numaralı ihtarnamesiyle davalıya son olarak 13 günlük ek bir süre vererek "inşaatlardaki eksikliklerin iskana hazır hale getirilmesi, aksi takdirde 16.01.2017 tarihinde şantiyeyi terk etmesini, aksi takdirde ikinci bir ihtara gerek kalmaksızın eksikliklerin kooperatif tarafından yapılacağını ve kesin hakkediş ödemesi tespitinin bilirkişi marifetiyle yaptırılacağı”nın bildirildiğini, esasen mevcut durumda davalı yüklenicinin sözleşmedeki edimlerini kararlaştırılan sürelerde yerine getiremeyeceği açık olduğundan TBK'nın 473. maddesi uyarınca arsa sahibinin sözleşmeden dönmek hakkına çok önceden sahip olduğunu, ancak müvekkili kooperatifin iyiniyetli davranarak, yüklenicinin bir ihtimal, sorumluluklarını ifa etmesini beklediğini, daha sonra kalan işleri yapmayacağını sözlü olarak belirten ve şantiyeyi terk eden davalıya müvekkili kooperatifçe, yaptığı işlerin karşılığında hakediş olarak AVM dükkanlarından, davalının talebinden 5 m2 fazla olarak toplam 170 m2 tapu devrinin yapıldığını, sonrasında da davalının geri kalan işleri bitiremeyeceğini, AVM için muvafakat alamadığını, villa için de ruhsat alamadığını yazılı olarak da belirtip işleri bıraktığını
 belirterek, nihai hesaplaşma için kooperatifle birlikte hareket ederek, Ankara Batı Sulh Hukuk Mahkemesi'ne tasfiye hakedişinin tespiti için müracaatta bulunmayı kabul ettiğini, Ankara Batı 3.
 
@@ -41,6 +45,8 @@ belirterek, nihai hesaplaşma için kooperatifle birlikte hareket ederek, Ankara
 Ankara 9. Asliye Ticaret Mahkemesi'nin 08.06.2023 tarih, 2022/560 E-2023/406 K sayılı kararının HMK'nın 353/1-a.4-6. maddeleri gereğince kaldırılmasına …
 
 ## İstanbul BAM 15. HD 2023/162 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/871385800)
 
 Dava; eser sözleşmesinden kaynaklanan hakediş alacağının tahsili için girişilen icra takibine itirazın iptali talebine ilişkin olup, mahkemece davanın kısmen kabülüne dair verilen karara karşı taraflarca istinaf talebinde bulunulmuştur.
 
@@ -54,6 +60,8 @@ Toplu Konutları 1. Bölge Konut İnşaatlarının Kat Karşılığı Hasılat P
 HÜKÜM: Gerekçesi yukarıda açıklandığı üzere;1-Taraf vekillerinin istinaf başvurusunun KISMEN KABULÜNE, 2-İstanbul 12. Asliye Ticaret Mahkemesi'nin 11/04/2022 tarih, 2013/297 Esas, 2022/364 Karar sayılı kararının KALDIRILMASINA …
 
 ## Bursa BAM 5. HD 2021/1707 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/739634500)
 
 Davalı cevap dilekçesi ile; öncelikle husumet itirazının bulunduğunu, Bursa 1. İcra Müdürlüğünün ........
 
@@ -74,6 +82,8 @@ Dava; itirazın iptaline ilişkindir.
 Yine Yargıtay uygulamalarında kabul edilebilir yanılgı sebebiyle iradi taraf değişikliği halleri; temsilcide yanılma, tarafın yanıltılması, ölü kişiye, terkin edilen veya tüzel kişiliği olmayana dava açılması, resmi sicil ve kayıtlarda tarafın yanlış gösterilmesi v.b. durumlarda karşımıza çıkmaktadır.
 
 ## İzmir BAM 22. HD 2021/1233 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/689313400)
 
 Mahkemece, iddia, savunma ve tüm dosya kapsamına göre, "...taraflar arasında yapılan davaya konu 2 adet sözleşmeye konu işlerin büyük bir kısmının davacı tarafça yapıldığı, fatura konusu iş bedellerinin bilirkişi heyetince hesaplandığı, davalı tarafça davacıya devir edeceğini belirttiği 2 adet dairenin davacıya devredilmemesi nedeniyle davacının davaya konu faturalardan kaynaklı davalıdan 185.054,56 TL alacaklı olduğu, davacının davalıya gönderdiği ihtarnamenin 21.09.2016 tarihinde davalıya tebliğ edildiği, ihtarda 10 gün ödeme süresi tanınmış olduğu, ancak davalının ödeme yapmaması nedeniyle davalının 02.09.2016 tarihinde temerrüde düştüğü kabul edilerek buna göre davacının davalıdan, bilirkişilerce hesaplanan 3.194,09 TL işlemiş faiz talep edebileceği, alacak yargılamayı gerektirdiğinden davacının davalıdan icra inkar tazminatı talep edemeyeceği kanaatine varılarak davanın kısmen kabulü..." şeklindeki gerekçe ile davanın kısmen kabulü ile; davalı borçlunun İzmir 16.
 

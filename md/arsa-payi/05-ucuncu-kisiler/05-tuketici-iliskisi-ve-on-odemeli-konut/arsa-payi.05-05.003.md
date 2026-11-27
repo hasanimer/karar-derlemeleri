@@ -21,6 +21,8 @@ uyari: "Derleyenin seçtiği alıntılardır; kararın tamamı değildir. Künye
 
 ## Kayseri BAM 6. HD 2025/1849 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1172994000)
+
 İLK DERECE MAHKEMESİ KARARININ ÖZETİ : İlk derece Mahkemesi kararı ile; Davalı vekilinin itirazının değerlendirilmesinde; üzerine tedbir konulan ... ada ...nolu parselde kayıtlı ... nolu bağımsız bölümün tapu iptali ile tescilinin talep edildiği, tedbir konusu taşınmazın el değiştirmesi halinde, hakkın elde edilmesinin zorlaşacağı veya imkansız hale geleceği, dosya kapsamına sunulan sözleşme gözetildiğinde davacı tarafın haklılığını yaklaşık olarak ispat ettiği değerlendirildiğinden, Kayseri 1.
 
 …
@@ -33,6 +35,8 @@ Sayılı dosya ile diğer davalı ...'a tapu iptal davası açtığını, bahsi 
 KAYSERİ 2. ASLİYE TİCARET MAHKEMESİ'nin 2024/859Esas sayılı, 12/09/2025 tarihli ara kararının hukuka uygun olduğunun anlaşılması nedeniyle itiraz eden davalı ... vekilinin istinaf başvurusunun H.M.K.'nın 353/1-b.1 maddesi gereğince ESASTAN REDDİNE …
 
 ## İstanbul BAM 7. HD 2025/1437 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1149791800)
 
 Dava, düzenleme şeklinde gayrimenkul satış vaadi sözleşmesinden kaynaklanan tapu iptali ve tescil istemine ilişkindir.
 
@@ -49,6 +53,8 @@ HÜKÜM: Gerekçesi yukarıda açıklandığı üzere; 1-Davacı vekili ile dava
 
 ## İstanbul BAM 15. HD 2024/667 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1066120700)
+
 İnşaat sözleşmesinin yapısı gereği eser sözleşmesi olması nedeniyle tarafların tüketici sıfatı bulunmadığını, 6502 sayılı kanunun 1. Maddesine göre Tüketici kanunun amacı; kamu yararına uygun olarak tüketicinin sağlık ve güvenliği ile ekonomik çıkarlarını koruyucu, zararlarını tazmin edici, çevresel tehlikelerden korunmasını sağlayıcı, tüketiciyi aydınlatıcı ve bilgilendirici önlemleri almak, tüketicilerin kendilerini koruyucu girişimlerini özendirmek ve bu konulardaki politikaların oluşmasında gönüllü örgütlenmeleri teşvik etmeye ilişkin husuları düzenlemek olarak belirtildiğini, 6502 sayılı kanunun 3/k-l maddelerinde tüketici ve tüketici işlemleri tanımlandığını, davacı ile davalı arasındaki inşaat sözleşmesinin tüketici işlemleri olmadığı, tarafların tüketici olmadığı, davanın eser sözleşmesinden kaynaklı gecikme faizine ilişkin alacak takibine itirazın iptali davası olduğu, görevli mahkeme Asliye Hukuk Mahkemesi olması gerektiğini belirterek mahkeme kararının kaldırılmasını talep etmiştir. Taraflar arasındaki uyuşmazlık TBK 470 ve devamı maddelerinde düzenlenen eser sözleşmesinden kaynaklanmaktadır. Davacı arsa sahibi, davalı ise yüklenicidir.
 Taraflar arasında inşaat yapım sözleşmesi imzalandığı, gecikmeden kaynaklı tazminat taleplerinin ödenmemesi nedeniyle başlattığı icra takibine itiraz edildiğinden itirazın iptalinin talep edilmiştir. Davacının bir bağımsız bölüm için sözleşme imzalaması sebebiyle Tüketici sıfatının bulunduğunu belirterek Tüketici Mahkemesine görevsizlik kararı vermiştir. 6502 sayılı Tüketicinin Korunması Hakkında Kanun 28.05.2014 tarihinde yürürlüğe girmiş olup, bu Kanun, Geçici 1. maddesi gereğince, yürürlük tarihinden sonra açılan davalara uygulanacaktır. Kanun'un 1. maddesinde amaçları sayılmış, 2. maddesinde Kanun'un "her türlü tüketici işlemi ile tüketiciye yönelik uygulamaları" kapsadığı, 3. maddesinin (k) bendinde ise tüketicinin, “ ticari veya mesleki olmayan amaçlarla hareket eden gerçek veya tüzel kişiyi” ifade edeceği belirtilmiştir. Kanun'un 73/1. maddesine göre, "tüketici işlemleri ile tüketiciye yönelik uygulamalardan doğabilecek uyuşmazlıklara ilişkin davalarda" tüketici mahkemeleri görevlidir.
 
@@ -60,6 +66,8 @@ Ticari sicil müdürlüğünden alınan cevabi yazıda, davacı gerçek kişi ta
 HÜKÜM: Gerekçesi yukarıda açıklandığı üzere; 1 - Davacı vekilinin istinaf başvurusunun esasa ilişkin sebepler incelenmeksizin usul yönünden KABULÜNE, 2 - Bakırköy 1. Asliye Ticaret Mahkemesi'nin 20/12/2023 tarih ve 2023/808 Esas, 2023/1172 Karar sayılı kararının KALDIRILMASINA …
 
 ## İstanbul BAM 15. HD 2024/440 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1033845700)
 
 İle hasılat paylaşımı esasına dayalı 19/06/2014 tarihli kat karşılığı inşaat sözleşmesi ve sonrasında ek sözleşmeler imzaladığını, taraflar arasındaki sözleşmenin gelir paylaşımlı kat karşılığı inşaat sözleşmesi niteliğinde olduğundan adi ortaklık hükümlerinin uygulanması gerektiğini, müvekkili şirketin diğer davalı ... şirketi ile yaptığı sözleşmeler çerçevesinde kendisine verilen satış ve pazarlama yetkisi gereğince müvekkili şirketin ... ve ... nolu bağımsız bölümlerle ilgili olarak davacı ile gayrimenkul satış vaadi sözleşmesi imzaladığını, taşınmazların tapusunun diğer davalıda olduğunu ve ... şirketi tarafından tapu devrinin yapılması gerektiğini belirterek, davanın müvekkili yönünden reddine karar verilmesini istemiştir. Davalı ... A.Ş (birleşme sonrası ... A.Ş) vekili, davacı ile müvekkili şirket arasında tescil talebinde bulunmasına imkan verecek bir hukuki ilişki bulunmadığını, ... San.ve Tic.AŞ'nin taşınmazları müşterilerine tamamen kendi ad ve hesabına sattığını, temerrüde düşenin... Yapı San.ve Tic.AŞ olduğunu, müvkekili ile ... San.ve Tic.AŞ arasında bir adi ortaklık bulunmadığını, kâr ve zarar paylaşma ilişkisi olmadığını, ...
 San.ve Tic.AŞ'nin kendilerini temsil yetkisi bulunmadığını, davacı ile diğer davalı arasındaki satış vaadi sözleşmesinde müvekkilinin taraf olmadığını belirterek, davanın reddine karar verilmesini talep etmiştir. Mahkemece, somut olayda davacı ile davalı
@@ -77,6 +85,8 @@ Maddeye göre adi ortaklık sözleşmesi, iki ya da daha fazla kişinin emekleri
 HÜKÜM: Gerekçesi yukarıda açıklandığı üzere; 1-Davalı vekilinin istinaf başvurusunun KABULÜNE, 2-Bakırköy 7. Asliye Ticaret Mahkemesi'nin 16/03/2023 tarih, 2021/806 Esas, 2023/287 Karar sayılı kararının KALDIRILMASINA …
 
 ## İzmir BAM 14. HD 2021/732 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/660674800)
 
 Davacı avukatı tarafından verilen 19.12.2014 tarihli dava dilekçesinde özetle; müvekkili ile davalı ...'in ...'nde kurucu ortak olduklarını, şirket ile arsa sahibi diğer davalı ... arasında imzalanan kat karşılığı inşaat sözleşmesine göre şirketin ... İli ... İlçesi ...
 
@@ -97,6 +107,8 @@ Eser sözleşmelerinin bir türü olan kat karşılığı inşaat sözleşmeleri
 Karşıyaka Asliye Ticaret Mahkemesi'nin 18.04.2018 tarih ve 2015/546 Esas, 2018/189 Karar sayılı kararının, HMK'nın 353/(1)-a-3. maddesi gereğince KALDIRILMASINA …
 
 ## İstanbul BAM 15. HD 2018/234 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/396302800)
 
 Her ne kadar 6502 sayılıYasa'nın 3/l bendi ile tüketici işlemi kapsamına eser sözleşmeleri alınmışsa da, somut olayda olduğu gibi arsasına karşılık bağımsız bölüm alacak olan arsa sahibinin amacının salt kişisel ihtiyaçları için kullanma, tüketme amacını aştığı, Kanun'un 3/k maddesindeki "tüketici" tanımına uymadığı anlaşılmaktadır. Bünyesinde taşınmaz satış vaadi ve inşaat sözleşmesini barındıran arsa payı karşılığı inşaat sözleşmelerinde, arsa sahibi açısından güdülen amaç; kullanmak için konut edinmek yanında, arsasına değer katacak olan yapının arsa üzerine yapılması ve edinilecek bağımsız bölümleri satma veya kiraya verme sureti ile değerlendirmek olup, bunun kullanma amacını aşan bir saik olduğu açıktır.
 Bunun yanında, taraflar arasındaki sözleşmeye konu işin, üst düzey teknoloji ile gerçekleştirilmesi, kapsamı ve karmaşıklığı da dikkate alındığında kanun koyucunun, salt kullanma ve tüketme amacıyla yapılan, basit nitelikteki (evine mutfak dolabı, masa, sandalye, cam balkon yaptırmak, badana - boya yaptırmak, şahsi aracını tamir ettirmek ... vb. gibi) dar kapsamlı olağan tüketim işlemini konu alan eser sözleşmelerini, 6502 sayılı Yasa'nın 3/l maddesi kapsamına aldığı ve Tüketici Mahkemeleri'nce bakılmasını öngördüğünün kabulü gerekir. Ayrıca 6502 sayılı Kanun'un 73/4. maddesi ve HMK'nın 316 ve devamı maddeleri gereğince tüketici mahkemelerinde görülen davaların; dilekçelerin verilmesi, tahkikat ve hüküm aşamaları yönünden daha kısa, basit ve seri şekilde sonuçlandırılmasında yarar görülen basit yargılama usulüne tabi olduğu da gözardı edilmemelidir. (bkz.Yargıtay 23. Hukuk Dairesi'nin 14/03/2017 tarih ve 2017/833 esas, 2017/799 karar sayılı kararı; 06/02/2017 tarih ve 2017/363 esas, 2017/251 karar sayılı kararı)

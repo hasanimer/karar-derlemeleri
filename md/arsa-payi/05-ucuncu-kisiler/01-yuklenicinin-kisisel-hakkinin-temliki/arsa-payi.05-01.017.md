@@ -22,6 +22,8 @@ uyari: "Derleyenin seçtiği alıntılardır; kararın tamamı değildir. Künye
 
 ## Erzurum BAM 1. HD 2025/754 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1147284900)
+
 Davalı ...Eğitim ve Danışmanlık A.Ş vekili cevap dilekçesinde özetle; Davacının yüklenici olduğunu, diğer davalı... İnşaat ile aralarında akdedilen yüklenici sözleşmesine dayandığını, davacının müvekkilinden talep edebileceği hiçbir alacak kaleminin mevcut olmadığını, husumet itirazında bulunduklarını, dava dilekçesinde müvekkili ile...
 
 …
@@ -44,10 +46,14 @@ Davacı vekilinin ve davalı ...'ın Erzurum Asliye Ticaret Mahkemesi'nin 2022/2
 
 ## Denizli BAM 4. HD 2025/79 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1109997900)
+
 Somut olayda; davacı, dava dışı arsa sahibinden devraldığı alacağa ilişkin olarak, davalı yükleniciye karşı dava açmıştır. Kural olarak, sözleşmeden kaynaklanan bir talep ancak sözleşmenin taraflarınca karşılıklı ileri sürülebilir. Ancak, arsa payı karşılığı inşaat sözleşmesi ile yapılan binada üçüncü kişilerin bağımsız bölümleri arsa sahibinden veya yükleniciden ya da bu kişilerin sattığı kişilerden tapuda devralmaları mümkündür. Bu durumda dava konusu bağımsız bölümleri, arsa sahiplerinden satın alan kişilerin (sözleşme gereğince arsa sahibine düşen bağımsız bölümleri almış ise), eseri meydana getiren yükleniciden talepte bulunabilmeleri için arsa sahibinin sözleşmeden doğan haklarını temlik almaları gerekir. Bu şekilde temlik alanlar, arsa sahibinin halefi olarak aktif husumet ehliyetlerinin bulunması nedeniyle davada davacı olarak yer alabilirler. Davacı, bağımsız bölümü satın aldığı arsa sahiplerinin halefi konumunda olduğundan; davacının satın aldığı bağımsız bölümden kaynaklanan dava ve haklarının, arsa payı karşılığı inşaat sözleşmesi kapsamında incelenerek karara bağlanması gerekir.
 Eş söyleyişle, arsa sahibinden bağımsız bölüm satın alan davacının davalı yüklenici aleyhine açtığı davada görevli mahkeme, arsa sahibi ile yüklenici arasındaki davaların görüleceği mahkemedir. (Bknz: Yargıtay 3. Hukuk Dairesinin 10/04/2023 tarihli, 2023/1298 Esas 2023/1013 Karar sayılı Bölge Adliye Mahkemeleri Kararları Arasındaki uyuşmazlığın Giderilmesi İstemine Dair ilamı) Bu durumda somut dava dosyasında, arsa sahibinin ve yüklenicinin her ikisinin de kooperatif olduğu nazara alındığında, nispi ticari dava bulunduğundan, görevli mahkeme Asliye Ticaret Mahkemeleridir. Mahkemece işin esasına girilerek taraf delilleri toplanıp değerlendirildikten sonra oluşacak sonuca göre karar verilmesi gerekirken yanlış değerlendirme ile yazılı şekilde davanın görevsizlik nedeni ile usulden reddine karar verilmiş olması usul ve yasaya aykırıdır.
 
 ## İstanbul BAM 7. HD 2024/2209 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1086641600)
 
 İLK DERECE MAHKEMESİ KARARI:İstanbul Anadolu 10. Asliye Ticaret Mahkemesinin 2023/166 esas ve 2023/485 karar sayılı 23/05/2023 tarihli kararı ile; davacının davasının kabulüne " ... numaralı bağımsız bölümün tapu kaydına Kartal ...
 
@@ -63,6 +69,8 @@ HÜKÜM:Gerekçesi yukarıda izah edildiği üzere:1- Davalı .... A.Ş ve daval
 
 ## İstanbul BAM 15. HD 2024/206 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1003669800)
+
 Noterliği'nin 20/03/2014 tarih ve ... yevmiye numaralı Düzenleme Şeklinde Kat Karşılığı İnşaat Sözleşmesinin Devir, Temlik ve Muvafakat Sözleşmesi ile, ...AŞ 27/08/2010 tarihli kat karşılığı inşaat sözleşmesindeki her türlü hak ve yükümlülüklerinin tamamını 6.949.153,00 TL bedel ile devir alan ...AŞ'ye devir ve temlik etmiş, arsa sahipleri de bu devir ve temlike muvafakat ettiği, daha sonra arsa sahiplerinden ... düzenlediği adi yazılı ve 28/04/2015 tarihli temlikname ile, İstanbul ... Noterliği'nin 27.08.2010 tarih ve ... yevmiye numaralı Düzenleme Şeklinde Satış Vaadi ve Arsa Payı Karşılığı İnşaat Sözleşmesi gereği yapılan inşaata payına düşen tüm bağımsız bölümleri ...'ne satış yolu ile devrettiğini ve anılan sözleşme ve Bakırköy ... Noterliği 20/03/2014 tarih ... yevmiye numaralı Düzenleme Şeklinde Sözleşmesinden kaynaklanan tüm haklarını da ... ne temlik ettiğinin belirtildiği, dosya kapsamındaki tapu kaydına göre, İstanbul ili, Esenyurt ilçesi, ... mahallesi, ... ada ... parsel, ... blok, ..., ..., ..., ..., ..., ..., ..., ..., ..., ..., ..., ..., ..., ..., ..., ..., ... nolu bağımsız bölümlerin 28/04/2015 tarihinde davacı ... Tic.
 A.Ş.'ne satıldığının anlaşıldığı, somut olayda, TBK'nın 183. Maddesi gereğince alacağın temliki söz konusu olup, dava dışı ..., yükleniciyle yaptığı kat karşılığı inşaat sözleşmesi gereğince hakettiği bağımsız bölümleri tapuda davacı şirkete devretmekle birlikte, düzenlediği 28/04/2015 tarihli temlikname ile de kat karşılığı inşaat sözleşmesi ve bu sözleşmenin devrine ilişkin sözleşmeden kaynaklanan haklarını davacıya devir ve temlik ettiği, alacağın temliki için borçlunun rızasının alınmasına gerek bulunmadığı, HMK'nın 184.
 
@@ -71,6 +79,8 @@ Maddesi gereğince alacağın temliki ilişkisi olduğu, dava dışı ...'ün, y
 Maddesine göre gecikme halinde her bir bağımsız bölüm açan aylık 750,00 TL gecikme cezası ödeneceğinin kararlaştırıldığı, dava dışı temlik eden ...'e 19 adet bağımsız bölüm ile bir bağımsız bölümün 1/2 sinin devredileceği dava dilekçesi ekindeki belgelerden anlaşılmış olup, gecikme halinde davacı tarafa aylık (750x19,5) 14.625,00 TL gecikme cezası ödenmesi gerektiği, somut olayda ihtilaf, gecikme olup olmadığı, gecikme var ise gecikmenin hangi tarihte başlamış sayılacağı ve davacı tarafa ödenmesi gereken gecikme cezası miktarının ne kadar olduğuna yöneliktir.
 
 ## İstanbul BAM 13. HD 2024/100 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/994507500)
 
 06.05.2015 tarihli ön anlaşma protokolünün incelenmesinde; protokolün davalı şirketi temsilen ... ile mal sahibi davacı ... arasında İstanbul İli Kadıköy İlçesi ... Mahallesi ... ada ... parsel sayılı yerde bulunan taşınmaza ilişkin kat karşılığı inşaat ön sözleşmesi şeklinde 06.05.2015 tarihinde imzalandığı; protokolün 1. maddesinde taraflar arasında imzalanacak kat karşılığı inşaat sözleşmesi kapsamındaki paylaşım, protokol ekinde krokide gösterilen şekilde olacaktır, ikinci maddesinde taraflar arasında imzalanacak kat karşılığı inşaat sözleşmesi için .... Ltd Şti ile ...'a sözleşme konusu taşınmaz ile ilgili ön anlaşma kapora bedeli olarak .... Ltd Şti tarafından ...'a 10.000 USD elden teslim edilmiştir, 3. Maddesinde ön sözleşme protokolüne istinaden verilen 10.000 USD anlaşmanın bozulması durumunda .... Ltd Şti yetkilisi ... geri iade edilecektir, 4. Maddesinde ön anlaşma protokol detayları daha sonra hazırlanacak olan ek protokol ile imza altına alınacaktır, şeklinde düzenlendiği; Kadıköy Tapu Müdürlüğü' nün 09.06.2015 tarih ve ... yevmiye sayılı resmi senedin incelenmesinde; ... Mahallesi ... ada ... parsel ... arsa paylı 3. ve 4.
 Kat 9 nolu dairenin tamamı .... adına kayıtlı iken bu defa ... .... Ltd Şti'nden aldığı 500.000,00 TL tutarındaki ticari kredi için ... Ltd Şti lehine 1. Derecede faizsiz ve F.B.K süre ile ipotek hakkı tanındığı, Kartal ... Noterliği' nin 15.12.2015 tarih ... yevmiye numaralı alacağın devri sözleşmesinin incelenmesinde; davalı şirketin İstanbul Anadolu ... İcra Müdürlüğü'nün ... sayılı dosyasındaki 589.640,06 TL alacağının tamamının bütün ferileri ile devir bedeli nakden ve tamamen alınmış olarak ... ve ...'a devrettiği, 14.12.2015 tarihli tahsilat makbuzunun incelenmesinde; davalı şirketin yetkilisi ... tarafından ... ... ada ... parsel sayılı yerin ipotek ve senet bedeline istinaden 700.000,00 TL nakit ve 50.000,00 TL tutarlı 25.01.2016 keşide tarihli ... nolu çek olmak üzere toplam 750.000,00 TL tahsil edildiğine ilişkin olarak düzenlendiği, tahsilat makbuzunun altında ... tarafından ...
@@ -84,6 +94,8 @@ HÜKÜM: Yukarıda açıklanan nedenlerle; 1-Davacının istinaf başvurusunun 6
 
 ## İzmir BAM 14. HD 2023/1834 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/977553700)
+
 Davalı vekili asıl davaya ilişkin cevap dilekçesinde özetle; Müvekkili birlik ile dava dışı 3.kişi ... Limited Şirketi arasında 16.11.2011 tarihinde İzmir 3.
 
 …
@@ -91,6 +103,8 @@ Davalı vekili asıl davaya ilişkin cevap dilekçesinde özetle; Müvekkili bir
 Her ne kadar birleşen davanın davacısı ... Şirketi tarafından, davalı aleyhine, icra takibine yapılan itirazın 7.000.000,00 TL alacak üzerinden iptali istemiyle dava açılmış ve hem fesih hem de aynı tarihli temlik sözleşmesinde ayrı ayrı olmak üzere cezai şart düzenlemesine yer verilmiş ise de; dairemizce uyulmasına karar verilen bozma ilamında da belirtildiği üzere, temlik sözleşmesinin, fesih sözleşmesine bağlı olarak, temliğin nasıl gerçekleştirileceğini düzenlemek amacıyla hazırlandığı anlaşılmaktadır. Her iki sözleşmede de arsa sahibinin asıl edimi temliği gerçekleştirmek, yüklenici tarafın edimi de tapudaki şerhi kaldırmaktır. Temlik sözleşmesinin 3. maddesinde de bu hususa değinilmiştir. Yine temlik sözleşmesinin 8.maddesinde, temlik sözleşmesinin, 01.07.2013 tarihli fesih sözleşmesinin eki ve ayrılmaz bir parçası olduğu, ondan ayrı yorumlanamayacağı düzenlenmiştir. Bu bağlamda , yükümlülüklerin ihlali halinde, fesih sözleşmesi ve temlik sözleşmesinin, taraflara ayrı ayrı cezai şart alacağı hakkı kazandırmayacağı kanaatine dairemizce varılmıştır.
 
 ## İzmir BAM 14. HD 2023/1768 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/980644800)
 
 Davacı vekili tarafından verilen dava dilekçesinde özetle; Taraflar arasında ...
 
@@ -116,6 +130,8 @@ Taraflar arasında yapılan eser sözleşmesinin 7.1 maddesinde sözleşme imzal
 
 ## İstanbul BAM 14. HD 2023/1580 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/951568400)
+
 Garanti edilen yükümlülüğün kesin olarak yerine getirildiğinin veya muhatabın hakkını kötüye kullandığının bankaca bilinmesi hususu kuşkusuz çok dar yorumlanacak, kesin-likit- delillerin bulunduğu ve bankaya ibraz edildiği çok istisnai hallerde kabul edilecektir. Örneğin bankanın, muhatabın kötü niyetinden şüphelenmesi tazmin talebini yerine getirmesini ve lehtara rücu etmesini engellemeyecektir. Muhatabın kötü niyetini lehtar belgeleyecektir. Aksinin kabulü bankanın ilk talepte derhal ödeme yükümlülüğü ile bağdaşmayacağı gibi, teminat mektubu uygulamasını da ortadan kaldıracaktır (Prof.Dr. Seza Reisoğlu, Banka Teminat Mektupları ve Kontrgarantiler, 4.basım, Ankara, 2003.sy 287). TBK'nın 128. maddesi "Üçüncü bir kişinin fiilini başkasına karşı üstlenen, bu fiilin gerçeklememesinden doğan zararı gidermekle yükümlüdür. Belirli bir süre için yapılan üstlenmede, sürenin bitimine kadar üstlenene edimini ifa etmesi için yazılı olarak başvurulmaması halinde, üstlenenin sorumluluğunun sona ereceği kararlaştırılabilir" şeklindedir.
 Bu düzenleme çerçevesinde banka teminat mektubu, banka tarafından üçüncü kişi konumunda olan lehtarın edimini ifa etmemesi veya teminat mektubunda belirtilen risklerin ortaya çıkması halinde, teminat mektubunda belirtilen zararları karşılamayı muhataba taahhüt etmektedir. Yine 13.12.1967 tarih, 1966/16 Esas, 1967/7 Karar sayılı içtihadı birleştirme kararında, banka teminat mektupları garanti sözleşmesi olarak nitelendirilmiş, bu kararda, bankanın teminat veren sıfatı taşıdığı, taahhüdünün, esas sözleşmeyi yapan taraflardan ve asıl akitten ayrı tamamen bağımsız olduğu, bankanın taahhüdünün, lehtarın borcunun geçerliliğine veya varlığına bağlı olduğu belirtilmiştir. Bu bilgiler ışığında somut olay incelendiğinde; dava konusu teminat mektupları kesin ve süresiz olup, yüklenici, taahhüdünü ihale dokümanı ve sözleşme hükümlerine göre kısmen veya tamamen yerine getirmediği taktirde yazılı tutarın ilk yazılı talep üzerine ödeneceği ibaresi bulunmaktadır.
 
@@ -127,6 +143,8 @@ Hukuk Dairesinin 28.03.2023 tarih ve 2021/7811 Esas, 2023/1897 Karar, 10.05.2016
 HÜKÜM:Yukarıda açıklanan gerekçelerle; Davacı ve davalı vekillerinin istinaf başvurularının ayrı ayrı esastan reddine; HMK'nın 33 …
 
 ## İzmir BAM 14. HD 2023/1433 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/944606200)
 
 Davacı vekili dava dilekçesinde özetle; "Taraflar arasındaki 09/07/2018 tarihli eser sözleşmesi gereğince; ... İli, ... İlçesi, ...
 
@@ -150,6 +168,8 @@ Ayrıca; yerleşik yargı uygulamalarında, sözleşmeye göre yapılması gerek
 
 ## İzmir BAM 14. HD 2023/320 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/868671000)
+
 Dava, kooperatif üyesi olan davacının tapu iptali ve tescil, olmadığı takdirde alacak istemine ilişkindir.
 
 …
@@ -163,10 +183,14 @@ No'lu bağımsız bölümde bulunan taşınmazın, olmadığı takdirde bu bağ�
 
 ## İstanbul BAM 3. HD 2022/816 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/737703700)
+
 19.07.2016 tarihli protokol (...'in kefil olduğu, ...'ın Şahit olduğu protokol) ile 8.750.000 Amerikan Doları karşılığı devir ettiği, davalı şirketin de 19.07.2016 tarihli temlik işlemine onay verdiği, davacı şirket ile davalı ... arasında akdedilen 19.07.2016 tarihli protokolün 5. maddesinde devir bedelinin protolde yazıldığı şekilde ödenmemesi halinde davacı şirketin diğer davalı şirket arasında akdedilen dava konusu taşınmazlara ilişkin 12.07.2016 tarihli gayri menkul satış vaadi sözleşmesi ve 29.06.2016 tarihli gayri menkul satış vaadi sözleşmesi fesih edebileceği, fesih bildirimi halinde devir sözleşmesinin tüm sonuçları ile hukuken ortadan kalkacağı yönünde şart anlaşma koyulduğu, ancak davalı ...'ın davacı şirket ile davalı ... arasında akdedilen 19.07.2016 tarihli protokolde belirtilen devir bedelini ödemediği, davalı ...'ın maddi durumunun iyi olduğu, müvekkil şirkete ödemelerinin zamanında yapabileceği güce sahip olduğu yönünde protokole kefil olan ...'in ve diğer davalı şirketin satış müdürü ve satış temsilcileri tarafından aldatıldığını, bu sebeple dava konusu sözleşmelerin davalılar arasındaki muvazaalı işlemler sonucu yapılmış olması sebebi ile 19.07.2016 tarihli
 protokolde belirtilen devir sözleşmelerini feshine ve dava konusu taşınmazların davacı şirkete ait olduğunun tespitine dair açılan dava olduğu anlaşılmaktadır. Somut olayda, davaya konu taşınmazların tapuya kayıtlı olduğu, yapılan kat karşılığı inşaat sözleşmesi gereği bağımsız bölümlerin sözleşme tarihlerinde kat irtifakı ile tapuya tescil edilmediği, ancak ana parsel olarak taşınmazların tapuya kayıtlı oldukları anlaşılmaktadır. Davacı adi yazılı sözleşmelerle dava konusu bağımsız bölümlerin satışının vaad edildiği, kendisi tarafından da bu taşınmazların davalıya satışının vaadedildiğini, sözleşmede öngörülen bedellerin ödenmemesi nedeniyle sözleşmelerin feshi ile bağımsız bölümlerin kendisine ait olduğunun tespitiyle bu sözleşmelerin feshini talep etmiş, ancak bedele ilişkin talepte bulunmamıştır. Davalı ... tarafından ek karara karşı istinaf kanun yoluna başvurulmamış olmakla bu davalı yönünden sözleşmelerin feshine ilişkin karar kesinleşmiştir.
 
 ## İstanbul BAM 15. HD 2021/2477 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/716129000)
 
 GEREĞİ GÖRÜŞÜLÜP DÜŞÜNÜLDÜ: Dava, kat karşılığı inşaat sözleşmesinden kaynaklanan kira kazancı kaybı alacağı ile eksik imalat bedeli alacağının tahsili talebine ilişkin olup; mahkemece, davanın kısmen kabulüne dair verilen karar davalılardan ... A.Ş vekili tarafından usulünce istinaf edilmiştir. Davacı, ihbar olunan arsa sahibi ... İnşaat ... Şirketi ile davalılardan ... Şirketi arasında imzalanan kat karşılığı inşaat sözleşmesini arsa sahibinden hak ve yükümlülükleri ile birlikte temlik aldığını iddia eden kişi, davalı ... Şirketi yüklenici, davalı ... ise inşaatı tamamlamak üzere yapım işini yükleniciden devralan kişidir. Davacı, davaya konu 9 adet bağımsız bölümü dava dışı arsa sahibinden satın alan ...'den satın aldığını ve bu nedenle arsa sahibinin halefi haline geldiğini belirterek bağımsız bölümlerin halen dahi teslim edilmediğini ve eksik imalat bulunduğunu belirterek her bir bağımsız bölüm yönünden kira kaybı alacağı ile eksik işler bedelini talep etmiştir. Davalılardan .... Şirketi cevap vermemiş, diğer davalı ...
 A.Ş vekili ise gerek davacının gerekse müvekkilinin sözleşmenin tarafı olmadığını, sözleşmenin tapuya şerh edilmediğini, davayı kendisine satış yapan kişiye yöneltilmesi gerektiğini, davacının sözleşmenin halefi olmadığını, kendisinin de zarar gördüğünü belirterek davanın reddini talep etmiştir. Mahkemece, bilirkişi raporu, davacı ile arsa sahibi ... İnşaat şirketi arasında yapılan davaya konu kat karşılığı inşaat sözleşmesinin devrine dair 05.05.2011 tarihli devir ve temlik sözleşmesi ile yine işbu sözleşmenin arsa sahibinin onayı ile davalı yüklenici ... şirketi tarafınddan diğer davalı ... şirketine 18.12.2009 tarihli protokolle devredilmiş olması, davalı devralan ... şirketinin inşaatın kendisi tarafından yapıldığına ilişkin kabulü birlikte değerlendirilerek işin eksik ve geç ifa edildiği belirtilerek davanın kısmen kabulü ile 120.016,66 TL kira kazanç kaybı ve 259.200,00 TL eksik imalat bedeli olmak üzere toplam 379.216,66 TL'nin davalardan tahsili ile davacıya ödenmesine dair verilen karar davalı ... şirketi vekilince istinaf edilmiştir. Davalı ... Gayrimenkul ...

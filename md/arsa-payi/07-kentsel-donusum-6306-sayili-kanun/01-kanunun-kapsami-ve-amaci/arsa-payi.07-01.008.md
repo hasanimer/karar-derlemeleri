@@ -22,6 +22,8 @@ uyari: "Derleyenin seçtiği alıntılardır; kararın tamamı değildir. Künye
 
 ## Yargıtay 7. HD 2022/6043 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/829497800)
+
 Davacı vekili, davacının Bingöl ili, Merkez ilçesi, ...
 
 …
@@ -44,6 +46,8 @@ SONUÇ: Yukarıda açıklanan nedenle, Adalet Bakanlığı Hukuk İşleri Genel 
 
 ## Yargıtay 3. HD 2021/12323 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/718489000)
+
 Davacı; ... 4.5. Etap Kentsel Dönüşüm Projesi kapsamında davalı belediye ile aralarında 15/08/2006 tarihinde Tapu Tahsis Belgesi Tesis Sözleşmesi akdedildiğini, sözleşme gereğince ...
 
 …
@@ -62,6 +66,8 @@ SONUÇ: Yukarıda açıklanan nedenlerle hükmün HUMK'nın 428. maddesi gereği
 
 ## Yargıtay 3. HD 2021/8008 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/694708900)
+
 Davacı, ... ilçesi, ... mahallesi, ... ada, 8 parsel sayılı taşınmazda iki adet konutun maliki olduğunu, taşınmazların ... ve ... tarafından ... mahallesi 3 nolu Önleme Bölgesi ve Kentsel Dönüşüm Projesi kapsamına alındığını, taşınmazlarından bir tanesinde hak sahipliğinin ... ve ... tarafından kabul edilmediğini, tek konut olarak kabul edilmesine itiraz ettiğini ileri sürerek, ... ilçesi, ...arı mahallesi, ... ada, 8 parsel'de yer alan ve ikinci konut olarak kabul edilmeyen konuta karşılık gelmek üzere bir konut teslimini, konut tesliminin mümkün olmaması halinde bedelinin hesaplanarak hak kazandığı tarihteki ve konutların teslim edilmesi gereken tarihteki ortalama değeri dikkate alınarak bu bedelin davalıdan tahsilini talep etmiştir.
 
 Davalılar, davanın konusunun idari bir işlem olduğunu, ortaya çıkan ihtilafların İdari Yargı yerinde çözülmesi gerektiğini savunarak davanın öncelikle usul yönünden, aksi halde esas yönünden reddini dilemişlerdir.
@@ -75,6 +81,8 @@ Davacı kentsel dönüşüm projesi kapsamında "Muvafakatname" imzalamıştır.
 SONUÇ :Yukarıda (1) numaralı bent gereğince davacının temyiz isteminin kabulü ile Bölge Adliye Mahkemesi kararının kaldırılarak İlk Derece Mahkemesi kararının BOZULMASINA …
 
 ## Yargıtay 5. HD 2019/11549 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/514419000)
 
 Dava, kamulaştırmasız el atılan taşınmaz ve gecekondu bedelinin tahsili ile zarara dayalı manevi tazminat istemine ilişkindir.
 
@@ -90,6 +98,8 @@ Davacı vekilinin temyiz itirazları yerinde görüldüğünden ... 27. Asliye H
 
 ## Yargıtay 13. HD 2019/9217 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/536445400)
+
 Davacı, ... ilindeki kentsel dönüşüm projesi için davalı ...‘a vekaleten diğer davalı ... ile sözleşme imzalandığını, bu sözleşmeye göre davalıya evi teslim edilene kadar kira ve taşınma yardımında bulunulacağı, verilen bu yardımlar doğrultusunda davalının da evini tapuda devredeceğini, ancak davalılara kira ve taşınma yardımı ödenmesine rağmen davalıların sözleşme gereği evin tapusunu devretmediğini, kira bedellerini de geri ödemediğini, bu sebeple icra takibine başlandığını, davalıların takibe itiraz ettiğini, takibin durdurulduğunu, itirazın haksız olduğunu bu nedenle itirazın iptaline, takibin devamına, icra inkar tazminatına hükmedilmesine karar verilmesini talep etmiştir.
 
 Davalılar ..., ..., ... ve ...; öncelikle açılan davanın husumet yönünden reddinin gerektiğini; zira, dava konusu taşınmazda malik olmadıklarını; kiracı sıfatı ile tüm sorumluluklarını yerine getirdiklerini ve taşınmazı tahliye ettiklerini; ...’ e vekaleten kira yardımlarını aldıklarını belirtmişler ve davanın reddini savunmuşlar, davalı ... ise davaya cevap vermemiştir.
@@ -101,6 +111,8 @@ Dava konusu ihtilaf; kentsel dönüşüm projesi kapsamında taşınmaz sahibi d
 SONUÇ: Yukarıda 1. bentte açıklanan nedenlerle davalıların tüm, davacının sair temyiz itirazlarının reddine, 2.bent gereğince temyiz olunan hükmün davacı yararına BOZULMASINA …
 
 ## Yargıtay 14. HD 2018/7844 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/472894500)
 
 Dava, ortaklığın giderilmesi istemine ilişkindir.
 
@@ -118,6 +130,8 @@ SONUÇ: Yukarıda açıklanan nedenlerle davalı vekilinin temyiz itirazlarını
 
 ## Yargıtay 13. HD 2018/5926 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/424918700)
+
 Davacı, maliki bulunduğu binayı Kuzey ... Kentsel Dönüşüm Projesi Kanunu ve buna bağlı yönetmelik ve belediye meclis kararına dayanarak davalıya devrettiğini, 4424 analiz numaralı kıymet taktir komisyonu raporunda bina, müştemilat ve ağaç bedelinin 11.655,00 TL olarak belirlenmesine rağmen davalının tüm yapı bedelini değil sadece enkaz bedelini ödediğini, oysa tüm yapı bedelinin ödenmesi gerektiğini ileri sürerek 9.772,20 TL bakiye bedelin tahsili için yaptığı takibe vaki itirazın iptaline, takibin devamına ve % 20'den aşağı olmamak üzere icra inkar tazminatına karar verilmesini istemiştir.
 
 Davalı, davanın reddini dilemiştir.
@@ -129,6 +143,8 @@ Dava Kuzey-... kentsel dönüşüm projesi kapsamında yapılan sözleşmeden ka
 SONUÇ: Yukarıda açıklanan nedenlerle davalının hükmün 4. maddenin vekalet ücretine ilişkin kısmının çıkartılarak yerine “...Davalı kendisini vekille temsil ettirdiğinden kararın verildiği tarihte yürürlükte bulunan ... 13. maddesi gereğince 1800,00 TL maktu vekalet ücretinin davacıdan alınarak davalıya verilmesine,” söz ve rakamlarının yazılmasına, hükmün düzeltilmiş bu şekliyle ONANMASINA …
 
 ## Yargıtay 14. HD 2018/3083 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/421024300)
 
 Dava, ortaklığın giderilmesi isteğine ilişkindir.
 
@@ -148,6 +164,8 @@ SONUÇ: Yukarıda açıklanan nedenlerle davacı vekilinin temyiz itirazlarını
 
 ## Yargıtay 13. HD 2017/10434 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/392149400)
+
 Davacı, ... , ... , ... Mahallesi,... Mevkiinde kain ...
 
 …
@@ -159,6 +177,8 @@ Davacıya ait tapu tahsis belgeli gecekondunun Kentsel dönüşüm projesi kapsa
 SONUÇ: Yukarıda açıklanan nedenlerle temyiz olunan kararın davalı yararına BOZULMASINA …
 
 ## Yargıtay 13. HD 2017/5173 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/353621600)
 
 Davacı, davalı ... ile 20 Aralık 2005 tarihinde yapılan sözleşme gereğince ... ...
 
@@ -181,6 +201,8 @@ SONUÇ: Yukarıda açıklanan nedenlerle temyiz olunan kararın davalı yararın
 
 ## Yargıtay 13. HD 2017/4159 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/325072200)
+
 Davacı, 01/06/2010 tarihinde vefat eden dava dışı ...’ın yasal mirasçısı olduğunu, mülkiyeti murise ait gecekondunun Kuzey ...
 
 …
@@ -198,6 +220,8 @@ SONUÇ: Yukarıda (1) numaralı bentte açıklanan nedenlerle temyiz olunan kara
 
 ## Yargıtay 13. HD 2016/4195 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/218990600)
+
 Davalı ... Belediye Başkanlığı, proje doğrultusunda çalışmalarının devam ettiğini, Büyükşehir Belediye Meclisinin 09.08.2010 tarihli kararı ile sözleşmelerin yürürlüğünün devamına karar verildiğini, davacının da sözleşmenin devamına muvafakat ettiğini, kendilerine atfedilececek bir kusurun bulunmadığını savunarak, davanın reddini dilemiştir.
 
 Mahkemece, ıslah talebi de dikkate alınarak davanın kabulüne, 762.996,72 TL nın dava tarihinden itibaren işleyecek yasal faizi ile birlikte davalıdan tahsiline karar verilmiş; hüküm, davalı ... Belediye Başkanlığı tarafından temyiz edilmiştir.
@@ -211,11 +235,15 @@ SONUÇ: Yukarıda birinci bentte açıklanan nedenlerle davalının sair temyiz 
 
 ## Yargıtay 20. HD 2016/1859 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/164073100)
+
 Dava, taraflar arasında yapılan sözleşmenin emsal ve rayice göre yeniden belirlenmesi istemine ilişkindir.
 
 Ankara 5. Tüketici Mahkemesi, somut olayda asıl hak sahibi ... ...'ın kentsel dönüşüm projesi kapsamında tapu tahsis belgeli taşınmazını davalıya devrederek davalı ile sözleşme imzaladığı, davacının taşınmaz sahibi sıfatı dikkate alındığında davacının tüketici vasfında olmadığı, davanın genel hükümlere göre genel mahkemelerde görülmesi gerektiği gerekçesiyle görevsizlik kararı vermiştir.
 
 ## Yargıtay 5. HD 2016/76 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/142785800)
 
 Dava, kamulaştırmasız el atılan taşınmaz bedelinin tahsili istemine ilişkindir.
 
@@ -230,6 +258,8 @@ Söz konusu bölgenin boşaltılan sanayi bölgesinin dönüşümüne hız verme
 Davacılar vekilinin temyiz itirazları yerinde olduğundan hükmün açıklanan nedenlerle H.U.M.K.nun 428. maddesi gereğince BOZULMASINA …
 
 ## Yargıtay 13. HD 2015/36372 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/178286700)
 
 Davacı, maliki bulunduğu binayı ... Kentsel Dönüşüm Projesi Kanunu ve buna bağlı yönetmelik ve belediye meclis kararına dayanarak davalıya devrettiğini, 5446 analiz numaralı kıymet taktir komisyonu raporunda bina, müştemilat ve ağaç bedelinin 6.332 TL olarak belirlenmesine rağmen davalının tüm yapı bedelini değil sadece enkaz bedelini ödediğini, oysa tüm yapı bedelinin ödenmesi gerektiğini ileri sürerek 5.698,80 TL bakiye bedelin tahsili için yaptığı icra takibine vaki itirazın iptaline karar verilmesini istemiştir.
 
@@ -246,6 +276,8 @@ SONUÇ: Birinci bentte açıklanan nedenlerle temyiz olunan kararın davalı yar
 
 ## Yargıtay 13. HD 2015/34982 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/176181600)
+
 Davacı, ...Kentsel Dönüşüm Projesi kapsamında tapulu arsasını davalı belediyeye devrettiğini, davalı elemanlarınca düzenlenen 5675 numaralı kıymet takdir komisyonu raporunda bina, müştemilat ve ağaç bedelinin 8481 TL olmasına rağmen kendisine sadece enkaz bedeli ödendiğini ileri sürerek toplam 8131 TL nin tahsili için yapılan iki adet icra takip dosyasına vaki itirazın iptalini istemiştir.
 
 Davalı, davanın reddini dilemiştir.
@@ -261,6 +293,8 @@ SONUÇ: Yukarıda açıklanan nedenlerle temyiz olunan kararın davalı yararın
 
 ## Yargıtay 8. HD 2015/22051 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/151916300)
+
 Davacılar vekili, dava konusu ... ada ... parselin kentsel dönüşüm alanında kalması nedeniyle kamulaştırıldığını açıklayarak taşınmaz üzerindeki iki katlı binanın müvekkillerine ait olduğunun tespitine karar verilmesini istemiştir.
 
 Davalı ... Belediyesi vekili, davanın reddine karar verilmesini savunmuştur.
@@ -275,6 +309,8 @@ SONUÇ: Davacılar vekilinin karar düzeltme talebinin kabulü ile Dairenin 08.0
 
 ## Yargıtay 5. HD 2015/9829 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/140900600)
+
 Dava, imar uygulaması soncunda otopark alanında kaldığı için yıkılan yapı bedellerinin tahsili istemine ilişkindir.
 
 Mahkemece, davanın kabulüne karar verilmiş; hüküm, taraf vekillerince temyiz edilmiştir.
@@ -286,6 +322,8 @@ Dava konusu taşınmaz üzerinde bulunan yapıların 6306 sayılı Yasa kapsamı
 Taraf vekillerinin temyiz itirazları yerinde olduğundan hükmün açıklanan nedenlerle H.U.M.K.nun 428. maddesi gereğince BOZULMASINA …
 
 ## Yargıtay 5. HD 2014/22499 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/96887100)
 
 Dava, kamulaştırmasız el atılan yapıt, müştemilat ve ağaç bedellerinin tahsili istemine ilişkindir.
 
@@ -300,6 +338,8 @@ Dava konusu yapı, müştemilat ve ağaçların olduğu taşınmaz başında fen
 Davalı idare vekilinin temyiz itirazları yerinde olduğundan hükmün açıklanan nedenlerle H.U.M.K.nun 428. maddesi gereğince BOZULMASINA …
 
 ## Yargıtay 5. HD 2014/8979 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/331065800)
 
 Dava, kamulaştırmasız el atılan taşınmaz bedelinin tahsili istemine ilişkindir.
 

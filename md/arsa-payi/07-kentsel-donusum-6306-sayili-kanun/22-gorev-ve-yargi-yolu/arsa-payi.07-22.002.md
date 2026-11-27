@@ -22,6 +22,8 @@ uyari: "Derleyenin seçtiği alıntılardır; kararın tamamı değildir. Künye
 
 ## Danıştay İDDK 2023/50 E., 2023/1212 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/999616000)
+
 İlk Derece Mahkemesi kararının özeti: ... İdare Mahkemesinin … tarih ve E:…, K:… sayılı kararıyla; davanın kabulü ile 229.040,61-TL maddi tazminatın 39.000,00-TL'lik kısmının davalı idareye başvuru tarihi olan 28/07/2017 tarihinden itibaren, 190.040,61-TL'lik kısmının ise ıslah dilekçesinin davalı idareye tebliğ tarihi olan 22/10/2020 tarihinden itibaren işleyecek yasal faizi ile birlikte davalı idare tarafından davacıya ödenmesine karar verilmiştir.
 
 …
@@ -34,6 +36,8 @@ uyari: "Derleyenin seçtiği alıntılardır; kararın tamamı değildir. Künye
 
 ## Danıştay İDDK 2023/538 E., 2023/637 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/912675100)
+
 2577 sayılı Kanun'un "Dava Açma Süresi" başlıklı 7. maddesinin 1. ve 4. fıkraları, 8. maddesinin 1. fıkrası, 11. maddesi, 20/A maddesinin 1. fıkrasının (f) bendi, 2. fıkrasının (a) ve (b) bentleri ile 6306 sayılı Afet Riski Altındaki Alanların Dönüştürülmesi Hakkında Kanun'un 6. maddesinin 9. fıkrası ve Ek 1. maddesinin 2. fıkrasına yer verilerek, …
 
 Anayasa Mahkemesinin bir yasa hükmünü iptal etmesi ya da idari yargı mercilerince düzenleyici nitelikteki bir işlemin iptali üzerine oluşan yeni hukuki durum nedeniyle, yargı kararıyla ortaya çıkan bu hukuki sonuçtan yararlanmak amacıyla ilgililer tarafından idarelere yapılan başvuruların, ilgililerin haklarında bir idari işlem tesis edilmiş olup olmamasından bağımsız olarak, 2577 sayılı Kanun'un 10. maddesi kapsamında yapılmış başvurular olduğuna ilişkin Danıştay kararlarının, yerleşik içtihat niteliği kazandığı, …
@@ -44,6 +48,8 @@ Davanın süre aşımı nedeniyle reddine ilişkin Danıştay Altıncı Dairesin
 
 ## Danıştay VDDK 2022/1644 E., 2023/554 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/935880000)
+
 Diğer taraftan davacı tarafından yapılan başvurunun düzeltme-şikayet hükümleri kapsamında değerlendirilemeyeceği iddia edilmiştir. Ancak 2577 sayılı İdari Yargılama Usulü Kanunu'nda, idarece re'sen yapılan tarhiyatlara ve işlemlere karşı açılacak davalarda uygulanacak genel dava açma sürelerine ilişkin düzenlemelere yer verilmişken, özel kanun niteliğinde olan 213 sayılı Vergi Usul Kanunu'nda ise, genel dava açma süresi geçirildikten sonra yapılan işlemlerde bir hatanın söz konusu olması halinde mükellefler tarafından bu hatanın düzeltilebilmesi amacıyla idareye başvuruda bulunularak dava açma yoluna gidilmeden vergi dairesince hataların düzeltilmesinin sağlanmasına ilişkin düzenlemelere yer verilmiştir.
 
 …
@@ -51,6 +57,8 @@ Diğer taraftan davacı tarafından yapılan başvurunun düzeltme-şikayet hük
 … Bölge İdare Mahkemesi ... Vergi Dava Dairesinin … tarih ve E:…, K:… sayılı ısrar kararının ONANMASINA …
 
 ## Danıştay İDDK 2022/2496 E., 2023/308 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/992811800)
 
 Davacılar tarafından, sözleşmenin feshi için yükleniciden kaynaklı sebeplerin olması gerektiği ancak, uyuşmazlıkta sözleşmenin feshi sonucunu doğuran eylemlerin yükleniciden kaynaklı olmadığı, arsa maliklerinin sözleşmede belirtilen ödemelere ilişkin edimlerini yerine getirmemesi sebebiyle %90 seviyesine kadar getirilen inşaata devam edilemediği, ayrıca, idare tarafından gerekli inceleme ve araştırma yapılmadığı, taraflarına herhangi bir belge sunulmadığı, bu nedenlerle sözleşmenin feshine ilişkin dava konusu işlemin usule ve hukuka aykırı olduğunun ileri sürüldüğü, …
 
@@ -76,6 +84,8 @@ Davanın yukarıda özetlenen gerekçeyle reddine ilişkin Danıştay Altıncı 
 
 ## Danıştay İDDK 2022/1041 E., 2023/305 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/990343700)
+
 21/06/2019 tarih ve 30808 sayılı Resmi Gazete'de yayımlanan 6306 sayılı Kanunun Uygulama Yönetmeliğinde Değişiklik Yapılmasına Dair Yönetmelik'in 4. maddesinin 13. fıkrasında, lisanslı kurum ve kuruluşlarda riskli yapı tespitinde görev alacak mühendislerin katılacağı eğitim ve sınavın Bakanlığın belirlediği usul ve esaslar çerçevesinde Bakanlıkça yapılacağı veya yaptırılacağı; eğitim programlarına katılıp başarı belgesi almayan inşaat mühendislerinin riskli yapı tespitinde görev alamayacağı; Riskli Yapıların Tespit Edilmesine İlişkin Esaslarda değişiklik yapılması durumunda, lisanslı kuruluşun riskli yapı tespitinde görev alan mühendislerinin değişikliğin yapıldığı tarihten itibaren altı ay içerisinde yapılacak eğitimlerden birine katılıp katılım belgesi almalarının zorunlu olduğunun düzenlendiği, …
 
 6306 sayılı Kanunun Uygulama Yönetmeliği'nin riskli yapıların tespitinde görev alacak kurum ve kuruluşlar başlıklı 6. maddesinin 3. fıkrasındaki, lisanslandırılan kurum ve kuruluşlarda riskli yapı tespiti için en az bir inşaat mühendisinin görevlendirilmesinin mecburi olduğu, ihtiyaca göre birden fazla inşaat mühendisi ile jeoloji veya jeofizik mühendisinin de görevlendirilebileceği kuralı uyarınca, jeoloji mühendislerinin de riskli yapıların tespitinde görevlendirilecekler arasında bulunduğu, …
@@ -88,6 +98,8 @@ Davanın yukarıda özetlenen gerekçeyle reddine ilişkin Danıştay Altıncı 
 
 ## Danıştay İDDK 2022/1040 E., 2023/301 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/992810600)
+
 Davacılar tarafından, Yönetmelik'in 6. maddesinin 2. fıkrasındaki lisanslandırılan kurum ve kuruluşlarda riskli yapı tespitinde görev alacak mühendislerin, Bakanlıkça veya Bakanlıkça uygun görülen kurum ve kuruluşlarca düzenlenecek eğitim programlarına katılmaları, eğitim sonunda yapılacak yazılı sınavda yüz üzerinden en az yetmiş puan alarak başarı belgesi almış olmalarına ilişkin kuralda yer alan "yüz üzerinden en az yetmiş puan alarak" ibaresinin riskli yapı tespitlerine en az %30 oranında başarısızlık olarak yansıyacağı ve mülkiyet hakkını bu oranda sınırlayacağının iddia edildiği, …
 
 …
@@ -95,6 +107,8 @@ Davacılar tarafından, Yönetmelik'in 6. maddesinin 2. fıkrasındaki lisanslan
 Dava hakkında yukarıda özetlenen gerekçeyle kısmen karar verilmesine yer olmadığına, kısmen davanın reddine ilişkin Danıştay Altıncı Dairesinin temyize konu 17/11/2021 tarih ve E:2019/16858 …
 
 ## Danıştay İDDK 2022/969 E., 2022/3938 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/872432600)
 
 Temyize konu Bölge İdare Mahkemesi kararında, her ne kadar, dava konusu 1/1000 ölçekli uygulama imar planından sonra yürürlüğe giren 1/5000 ölçekli nazım imar planında taşınmazın kentsel dönüşüm alanı olarak işlevlendirilen kısmının yalnızca kentsel dönüşüm sınırlarının imar planına işlenmesinden ibaret olduğu, bu alandaki plan kararlarının henüz üretilmediği, bu nedenle bu aşamada 10 ve 12 metrelik imar yollarının bulunup bulunmayacağının tespitinin olanaklı olmadığı, dolayısıyla planların kademeli birlikteliği ilkesine aykırılıktan söz etmeye olanak bulunmadığı gerekçesine yer verilmiş ise de, 10 ve 12 metre en kesitli imar yollarının, genişliği ve niteliği itibarıyla ulaşım sistemlerinin ve ulaşım problemlerinin çözümünün belirlenmesi açısından 1/5000 nazım imar planı hazırlanırken öngörülmesi gerektiği, 1/5000 ölçekli nazım imar planında belirlenmemiş olan 10 ve 12 metrelik imar yollarının alt ölçekli planlarda belirlenemeyeceği, …
 
@@ -104,6 +118,8 @@ Dava konusu işlemin yukarıda özetlenen gerekçeyle iptaline ilişkin İdare M
 
 ## Danıştay İDDK 2021/3624 E., 2022/2139 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/814460500)
+
 Davacı tarafından, dava konusu tanımın hukuka veya mevzuata aykırı olduğuna ilişkin herhangi bir iddia ileri sürülmediği gibi katlar alanı katsayısı (KAKS) (Emsal), şehir planlama bilimi bakımından "yapının inşa edilen tüm kat alanlarının toplamının imar parseli alanına oranı" olarak tanımlandığından bent hükmünde imar mevzuatına aykırılık bulunmadığı, …
 
 …
@@ -111,6 +127,8 @@ Davacı tarafından, dava konusu tanımın hukuka veya mevzuata aykırı olduğu
 2577 sayılı İdari Yargılama Usulü Kanunu'nun 2. maddesinin 1. fıkrasının (a) bendinde, idari işlemlerin; yetki, şekil, sebep, konu ve maksat unsurları yönünden yargısal denetime tabi tutulacağı kurala bağlanmış; 24. maddesinde ise, kararda bulunacak hususlar sıralanmış ve (e) bendinde kararın dayandığı hukuki sebepler ile gerekçesinin ve hükmün belirtileceği vurgulanmıştır.
 
 ## Danıştay İDDK 2021/3290 E., 2022/1885 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/810761100)
 
 Bu durumda, 420.000,00-TL hukuki el atma bedelinden taşınmazın yolda kalan 2,27 m2'lik kısmının bedeli olan 3.178,00-TL'nin çıkarılması sonucu kalan 416.822,00-TL hukuki el atma bedelinin, adli yargıda dava açma tarihinden itibaren işleyecek yasal faiziyle birlikte davalı idarece davacıya ödenmesi gerektiği, …
 
@@ -120,6 +138,8 @@ Davanın yukarıda özetlenen gerekçeyle kabulüne ilişkin .... İdare Mahkeme
 
 ## Danıştay İDDK 2022/158 E., 2022/1787 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/807386100)
+
 Yine aynı Kanun'un çeşitli hükümler başlıklı 8. maddesinin 7. fıkrasında; ''Riskli yapıların tespit edilmesine veya ettirilmesine dair usul ve esaslar, risklilik kriterleri, riskli yapıların tespitinde ve itirazların değerlendirilmesinde görev alacak teknik heyet ve diğer komisyonlar ile bu Kanunun uygulanmasına dair diğer usul ve esaslar, Bakanlıkça hazırlanacak yönetmelikler ile düzenlenir.'' hükmü yer almaktadır.
 
 …
@@ -127,6 +147,8 @@ Yine aynı Kanun'un çeşitli hükümler başlıklı 8. maddesinin 7. fıkrasın
 Dava konusu işlemin iptaline ilişkin Danıştay Altıncı Dairesinin temyize konu 07/10/2021 tarih ve E:2019/17796 …
 
 ## Danıştay VDDK 2021/1320 E., 2022/357 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/760894400)
 
 2577 sayılı İdari Yargılama Usulü Kanunu'nun 14. maddesinin (3) numaralı fıkrasının (b) işaretli bendinde dilekçelerin, idari merci tecavüzü yönünden de inceleneceği belirtilmiş; 15. maddesinin (1) numaralı fıkrasının (e) işaretli bendinde ise merci tecavüzünde bulunulduğunun saptanması halinde dilekçelerin görevli idare merciine tevdiine karar verileceği hükmüm altına alınmıştır.
 
@@ -136,9 +158,13 @@ Dava konusu işlemin iptaline ilişkin Danıştay Altıncı Dairesinin temyize k
 
 ## Danıştay VDDK 2022/2 E., 2022/7 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1094158600)
+
 Açıklanan hukuksal nedenler ve gerekçeyle, anılan bölge idare mahkemeleri dava dairelerinin kararları arasındaki aykırılığın, 6306 sayılı Kanun'un 7. maddesinin (9) numaralı fıkrasında 10/12/2018 tarihinde yürürlüğe giren 7153 sayılı Kanun'la yapılan değişiklik öncesi dönemde yapılan işlemler yönünden 6306 sayılı Afet Riski Altındaki Alanların Dönüştürülmesi Hakkında Kanun kapsamında riskli yapı ilan edilerek dönüşüme tabi tutulduktan sonra inşa edilen yeni taşınmazın satışı aşamasında alıcı ve satıcı tarafından ödenen tapu harcının anılan Kanun kapsamında harçtan istisna olduğu yönünde giderilmesine, 18/05/2022 tarihinde oyçokluğuyla kesin olarak karar verildi.
 
 ## Danıştay İDDK 2021/3386 E., 2021/2900 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/728949200)
 
 2577 sayılı İdari Yargılama Usulü Kanunu'nun 31 . maddesinde, bu Kanun'da hüküm bulunmayan ve madde metninde sayılan hallerde 1086 sayılı Hukuk Usulü Muhakemeleri Kanunu’nun uygulanacağı belirtilmiş, sözü edilen haller arasında “yargılama giderlerine” de yer verilmiştir.
 
@@ -147,6 +173,8 @@ Açıklanan hukuksal nedenler ve gerekçeyle, anılan bölge idare mahkemeleri d
 Davanın yukarıda özetlenen gerekçeyle reddine ilişkin Danıştay Altıncı Dairesinin 02/06/2021 tarih ve E:2020/4643, K:2021/7607 sayılı kararının temyize konu vekalet ücretine ilişkin hüküm fıkrasının BOZULMASINA …
 
 ## Danıştay İDDK 2019/1187 E., 2021/1577 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/786974000)
 
 Davacılar tarafından, 15/12/2012 tarih ve 28498 sayılı Resmi Gazete'de yayımlanarak yürürlüğe giren dava konusu Yönetmeliğin 3/1-(g) maddesinin, Zeytinburnu Belediye Başkanlığının ... tarih ve ... sayılı riskli yapı tespit işleminin dayanağını oluşturduğu ileri sürülmekte ise de; uygulama niteliğindeki işlemin yukarıda belirtildiği üzere kesin ve yürütülebilir bir işlem olmadığı ve bu sebeple anılan düzenlemenin uygulama işlemi ile birlikte dava konusu edilemeyeceğinin anlaşıldığı, Yönetmeliğin anılan maddesinin iptalinin de ilan tarihini izleyen günden itibaren dava açma süresi olan altmış gün içinde istenilmediği, bu durumda davanın; Yönetmeliğin anılan maddesine ilişkin kısmının süre aşımı nedeniyle esasının incelenme olanağı bulunmadığı, …
 
@@ -160,9 +188,13 @@ Anılan kararın davanın, Zeytinburnu Belediye Başkanlığı İmar ve Şehirci
 
 ## Danıştay İDDK 2021/235 E., 2021/614 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/790391500)
+
 2577 sayılı İdari Yargılama Usulü Kanunu'nun 46. maddesinde; özel kanunlarında ayrı süre gösterilmeyen hallerde, Danıştay dava daireleri ile idare ve vergi mahkemelerinin nihai kararlarına karşı tebliğ tarihini izleyen otuz gün içinde Danıştayda temyiz yoluna başvurulabileceği, 48. maddesinin 6. fıkrasında ise; temyizin kanuni süre geçtikten sonra yapılması halinde kararı veren merciin, temyiz isteminin reddine karar vereceği hükme bağlanmıştır. Aynı Kanun'un 8. maddesinde ise; bu Kanun'da yazılı sürelerin, tebliğ, yayın veya ilan tarihini izleyen günden itibaren işlemeye başlayacağı, tatil günlerinin sürelere dahil olduğu, ancak, sürenin son günü tatil gününe rastlarsa, sürenin tatil gününü izleyen çalışma gününün bitimine kadar uzayacağı, sürelerin bitmesinin çalışmaya ara verme zamanına rastlaması halinde, bu sürelerin, ara vermenin sona erdiği günü izleyen tarihten itibaren yedi gün uzamış sayılacağı hükümlerine yer verilmiştir.
 
 ## Danıştay VDDK 2020/570 E., 2021/374 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/674632100)
 
 2577 sayılı İdari Yargılama Usulü Kanunu'nun 14. maddesinin 3. fıkrasının (d) bendinde, dava dilekçelerinin idari davaya konu olacak kesin ve yürütülmesi gerekli bir işlem olup olmadığı yönünden inceleneceği belirtilmiştir. 2575 sayılı Danıştay Kanunu'nun 24. maddesinin 1. fıkrasının (c) bendinde ise Bakanlıklar ile kamu kuruluşları veya kamu kurumu niteliğindeki meslek kuruluşlarınca çıkarılan ve ülke çapında uygulanacak düzenleyici işlemlere karşı açılacak iptal davalarının ilk derece mahkemesi olarak Danıştayda görüleceği kurala bağlanmıştır. Bu düzenlemelere göre bir düzenleyici işleme karşı açılacak davanın ilk derecede Danıştayda görülebilmesi için davaya konu yapılan idari işlemin, yürütülmesi gereken genel düzenleyici idari işlem niteliğini taşıması gereklidir.
 
@@ -202,6 +234,8 @@ açıklamalarda bulunmasını da kendiliğinden isteyebileceği hususları düze
 çerçevesinde, hükmün denetlenmesini talep etme hakkına daha az zarar verici müdahaleye sebep olacak bir yasal düzenleme yapılması gerekliliğine vurgu yapan iptal kararının, yasal düzenleme şeklinde, bir temyiz kriteri olarak doğrudan uygulanması suretiyle, istinaf dava daireleri tarafından verilen her kısmen veya tamamen kaldırma sonrası yeniden verilen kararların temyiz incelemesine açılması yoluna gidilemeyeceği, mevcut durumda, yasa koyucu tarafından 2577 sayılı İdari Yargılama Usulü Kanununun 45. maddesinin 6. fıkrasında, Anayasa Mahkemesi kararında belirtilen, gerekçeler çerçevesinde, hükmün denetlenmesini talep etme hakkına daha az zarar verici müdahaleye sebep olacak bir yasal düzenleme yapılıncaya kadar, istinaf mercilerince verilen kararların hangilerinin temyize açık olduğunun, 2577 sayılı İdari Yargılama Usulü Kanununun 46. maddesinde mevcut düzenleme çerçevesinde incelenmesi gerektiği sonucuna varıldığından iş bu davada, mevcut hukuki duruma göre temyiz yolunun kapalı olması nedeniyle usul yönünden temyiz isteminin incelenmeksizin reddine, esas yönünden ise kararın bozulmasına karar verilmesi gerektiği oyu ile çoğunluk kararına usul hükümleri yönünden katılmıyorum.
 
 ## Danıştay 5. D. 2025/4063 E., 2025/7780 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1200454300)
 
 Davacı hakkındaki tanık beyanları yönünden, yargı mensubu olarak görev yapan M.G.'nin, davacının FETÖ ile irtibatlı olduğuna, FETÖ üyeliğinden mahkumiyeti bulunan üniversite eski rektörü ile samimi olduğuna ve 2014 yılı HS(Y)K seçimlerinde örgütün sözde bağımsız adayları adına çalıştığına ilişkin beyanlarının kendi bilgi ve görgüsüne dayanmayıp "duyuma" dayalı olduğu, davacının anılan adayları desteklediğine, onlar için oy istediğine ve seçimlerde örgüt lehine faaliyetlerde bulunduğuna ilişkin somut verilere dayalı bir beyanda bulunmadığı, ayrıca, anılan ifade içeriğinde davacının örgütsel tutum ve davranışlar sergilediğine ve isminin geçtiği belirtilen otel kayıtlarına ilişkin olarak söz konusu otellerde örgütsel bir saikle ve bu yönde faaliyetlerde bulunmak üzere kaldığına ilişkin somut herhangi bir beyana yer verilmediği, dava dosyasında da bu yönde somut bir tespit, tanık beyanı ya da başka bir bilgi ve belgenin bulunmadığı belirtilerek anılan beyanların, davacının FETÖ/PDY terör örgütü ile irtibat ve iltisakını ortaya koyan bir delil olarak değerlendirilmediği, …
 

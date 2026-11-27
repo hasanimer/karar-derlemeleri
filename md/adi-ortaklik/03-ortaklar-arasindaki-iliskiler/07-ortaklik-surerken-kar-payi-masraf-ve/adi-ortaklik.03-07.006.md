@@ -22,6 +22,8 @@ uyari: "Derleyenin seçtiği alıntılardır; kararın tamamı değildir. Künye
 
 ## İstanbul BAM 43. HD 2024/1708 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1098712100)
+
 …
 
 : Dava, ticari satım sözleşmesine dayalı faturadan kaynaklanan alacağın tahsili istemiyle başlatılan icra takibine vaki itirazın iptali davasıdır. İstinafa gelen uyuşmazlık temelde, adi ortaklığın tasfiyesine ilişkin davanın bekletici mesele yapılması gerekip gerekmediği ve davalının borçtan sorumlu olup olmadığı noktasındadır. Davacı takip alacaklısı tarafından, davalı takip borçluları hakkında, Beykoz İcra Müdürlüğünün ... Esas sayılı takip dosyasında, "faturadan kaynaklanan cari hesap alacağı" sebebine dayalı olarak 8.886,69 TL asıl alacağın tahsili istemiyle 25/01/2019 tarihli takip talebi ile ilamsız icra takibi başlatılmış, itiraz üzerine takip durmuştur. Davacı tarafça, 2004 sayılı İcra ve İflas Kanunu(İİK)'nun 67. maddesi uyarınca itirazın iptaline karar verilmesi istemiyle eldeki dava açılmıştır. Mahkemece uyuşmazlığın çözümü için tarafların ticari defterlerinin incelenmesine karar verilmiştir. Davacının incelenen ticari defterlerine göre davalıdan 8.886,69 TL alacaklıdır. Davalı taraf ise adi ortaklığın ticari defterlerini kabul edilebilir bir mazeret bildirmeksizin bilirkişi incelemesine sunulmak üzere ibraz etmemiştir.
@@ -29,17 +31,23 @@ Ancak B/A bildirimlerine göre davacının takibe konu faturaları davalı taraf
 
 ## Ankara BAM 24. HD 2024/1541 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1095472100)
+
 Adi ortaklığın tasfiyesi ya tarafların anlaşması suretiyle ya da bizzat mahkemece yapılır. Taraflar tasfiye konusunda anlaşmadığı takdirde ortaklığın tasfiyesinin mahkemece TBK.'nun 642.vd. madde hükümlerine uygun olarak yapılması gerekir.
 
 Somut uyuşmazlıkta asıl davacı, yazılı sözleşmeye istinaden taraflar arasındaki adi ortaklıktan kaynaklanan sermaye, kâr payı ve cezai şart bedelinin asıl davalı/birleşen davacıdan tahsiline karar verilmesini talep etmekte olup, uyuşmazlık adi ortaklığın feshi ve tasfiyesi niteliğinde olduğundan adi ortaklığın fesih ve tasfiyesine ilişkin davanın da asliye ticaret mahkemesince heyet halinde verilmesi gerektiğinden, mahkemece tek hakimle karar verilmiş olması doğru görülmemiştir.
 
 ## Ankara BAM 24. HD 2024/1210 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1072323500)
+
 Bu durumda, mahkemece; adi ortaklığın tasfiyesine yönelik uyuşmazlığın yukarıda açıklanan ve maddeler halinde belirtilen sıra ve yöntem izlenerek çözümlenmesi gerekirken bu konuda inceleme ve değerlendirme yapılmadan, eksik inceleme ile yazılı şekilde karar verilmesi doğru görülmemiştir.
 
 Belirtilen nedenlerle, “davacının davasına dayanak yaptığı Ortaklık Ön Sözleşmesi başlıklı sözleşme içeriğinde ortaklar, ortakların payları, sorumlulukları, yönetici ortak vs belirtilmekle başlıkta ön sözleşme denilmiş ise de adi ortaklığı kuracak içerikte olduğu görülmüştür” şeklindeki mahkeme gerekçesinin yerinde olduğu anlaşılmakla davalılar vekilinin istinaf başvurusunun HMK.'nun 353/1-b/1. maddesi gereğince esastan reddine, yukarıda açıklandığı üzere adi ortaklığın tasfiyesine yönelik davacılar vekillerinin istinaf başvurularının kabulü ile HMK.'nun 353/1-a,6 maddesi gereğince, mahkeme kararının kaldırılarak yargılamanın yeniden yapılması için dosyanın kararı veren mahkemeye gönderilmesine karar vermek gerekmiştir.
 
 ## Ankara BAM 24. HD 2024/1128 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1046761200)
 
 Bir ortak tarafından adi ortaklığa dâhil olan taşınmaza ilişkin olarak tapu iptal ve tescil, alacak talebinde bulunması, aynı zamanda ortaklığın feshini ve tasfiyeyi de kapsar. Uyuşmazlık, bu bağlamda değerlendirilip, çözüme kavuşturulmalıdır.
 
@@ -50,6 +58,8 @@ Davacıların adına tescilini istediği taşınmaz, adi ortaklığa dahil ve bu
 
 ## İstanbul BAM 3. HD 2023/2450 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/937176100)
+
 Tasfiye raporunun bu hususları ihtiva etmediği, Mahkemenin tarafların yüklenmiş olduğu işlerin tamamlanarak teslim edilmiş olmasından bahisle, davacının gerçekleştirmiş olduğu iş ve işlemlerin teknik analiz ve ölçümlerinin yapılarak tanzim etmiş oldukları faturalarla uyum sağlayıp sağlamadığı yolunda karşılaştırmayı da içeren bir keşif ve bilirkişi incelemesi yapılması yolundaki davalı itirazlarını da dikkate almadığı, Davalının ayrıca, yüklenilen iş ile ilgili olarak taraflara tahakkuk eden bazı vergilerin de eşit oranda paylaşılması gerektiği yolunda bir itirazda bulunduğu, Mahkemenin aynı gerekçelerle bu konuyu da açıklığa kavuşturmaya ihtiyaç hissetmeksizin mezkur kararını verdiği, davada talebin itirazın iptali olduğu, ancak yargılama sonucunda adi ortaklığın tasfiyesine karar verilmesi gerektiği tespit edildiği, Mahkemece adi ortaklığın tasfiyesine karar verilmesi gerekmesine rağmen, itirazın iptalinin kabulüne kararı verilmesi ile uyuşmazlık konusunun uyumsuz olduğu, dolayısı ile verilen mahkeme kararı usul ve hukuka aykırı olduğundan ortadan kaldırılarak davanın reddi ile adi ortaklığın tasfiyesine karar verilmesi gerektiği, Herhangi bir şekilde kabul ve yukarıdaki
 beyanlardan vazgeçmek anlamına gelmemesi kaydıyla, tasfiye memurlarının hazırladığı rapor esas bakımından hatalarla dolu olduğu, bu rapora karşı yaptıkları itirazların mahkeme tarafından dikkate alınmaksızın hüküm tesis edilmiş olduğu, İşbu dosyanın esası adi ortaklığın tasfiyesine ilişkin olup, şirket tasfiye edilmeden alacağın hesaplanmasının mümkün olmadığı, dolayısıyla ortada likit olmayan bir alacak iddiası olmasına rağmen mahkemece %20 icra inkar tazminatına hükmedilmesinin ve bu sebeplerle kararın usul ve hukuka aykırı olduğu ileri sürülerek,kaldırılması istenmiştir.HMK.nun 355. maddesi uyarınca, ileri sürülen istinaf sebepleri ile sınırlı olarak yapılan inceleme sonucunda; dava , davacı şirket tarafından davalı şirket aleyhine taraflar arasındaki taşeron (adi ortaklık) sözleşmesinden kaynaklı alacağa ilişkin başlatılan icra takibine yönelik itirazın iptali talebine ilişkindir.Davanın dayanağı olan İstanbul ... İcra Dairesi'nin ... esas sayılı icra dosyasında; alacaklı ... Tic. Ltd.
 
@@ -57,6 +67,8 @@ beyanlardan vazgeçmek anlamına gelmemesi kaydıyla, tasfiye memurlarının haz
 6.2 Taraflar, sözleşmede kar ortağı konumundadırlar ve kar paylaşımı %50 nispetindedir. Kar,tüm gelir ve giderlerin hesaplanmasından sonra ve proje iş biriminde nihai olarak hesaplanır ve %50 oranında paylaşılır. Bununla birlikte proje sürecinde işveren tarafından yüklenicinin hesabına yatırılan hak ediş bedellerinden alt yüklenicinin hesabına aktarılan bedeller, iş bitiminde kardan mahsup edilir. 6.3 Ödeme şekli: Ana sözleşmenin 8.2 maddesinde belirtilen işveren tarafından onaylanan hak edişlerin, yüklenicinin hesabına yatırılmasını müteakip 5 iş günü içerisinde alt yüklenicinin belirtilen banka hesabına yatırılacaktır. 10.
 
 ## Konya BAM 6. HD 2023/1999 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/969399500)
 
 Dava, faturaya dayalı alacağın tahsili için başlatılan icra takibine vaki itirazın iptali istemine ilişkindir.
 
@@ -68,6 +80,8 @@ gerektiği sonuç ve kanaatiyle aşağıdaki şekilde hüküm kurulmuştur.
 
 ## Ankara BAM 24. HD 2023/1673 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/967036900)
+
 Dava, taraflar arasındaki adi ortaklığın fesih ve tasfiyesi ile ortaklıktan kaynaklanan sermaye ve kar payı alacağının tahsili talebine ilişkindir.
 
 …
@@ -77,6 +91,8 @@ TL'nin tasfiyesi ile ortaklara % 50 oranında dağıtılmasına, dağıtım sonu
 
 ## İstanbul BAM 3. HD 2023/1458 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/891990400)
+
 Haklı sebeple fesih hakkı; mutlak ortaksal bir hak olup, bu hakkın ortaklık sözleşmesiyle sınırlandırılması veya tamamen ortadan kaldırılması olanaksızdır. Gerçekten ortaklar arasındaki ilişkinin devam etmesini haklı göstermeyecek bazı durumlar ortaya çıkarsa, bu durumda ortakların ortaklığın feshini mahkemeden istemesi mümkündür. Hatta belirli süreli ortaklıklarda da sözleşmede belirtilen ortaklık süresinin bitmesinden önce haklı sebeple sözleşmenin feshi davası açmak olanaklıdır ( Şener, Oruç Hami, Adi Ortaklık, Ankara: Yetkin Yayıncılık, 2008, s. 482 ).Ortak tarafından ileri sürülen sebebin, ortaklığın sona erdirilmesine olanak sağlayacak derecede haklı olup olmadığının belirlenmesi mahkemenin takdirindedir. Ayrıca fesih talebinin mutlaka fesih istenmesi şeklinde açıkça olması zorunluluğu yoktur. Örneğin ortağın, ortaklığa getirdiği sermayenin iadesini istemesi, ortaklığın feshi ve tasfiyesi istemini de kapsamaktadır.Adi ortaklığın sona ermesi ile birlikte ortaklık tasfiye aşamasına girer. Ortaklar arasındaki hukuki bağ, tasfiye tamamlanmadan ortadan kalkmış kabul edilemez. Tasfiye, ortaklar arasındaki ortaklık ilişkisinin tamamen sona erdirilmesine yönelik kanuni bir usuldür.
 Tasfiye ile artık ortaklık malvarlığı para haline dönüştürülecek, borçlar ödenecek, sermaye değerleri ortaklara iade edilecek ve geri kalan meblağ ortaklar arasında kar ve zararın paylaşılması esasına göre dağıtılacaktır. Adi ortaklığın tasfiyesi ya tarafların anlaşması suretiyle ya da bizzat mahkemece yapılır. Taraflar tasfiye konusunda anlaşmadığı takdirde ortaklığın tasfiyesinin mahkemece TBK’nın 642 vd. madde hükümlerine uygun olarak yapılması gerekir. Öte yandan; adi ortaklığın tüzel kişiliği bulunmadığından, ortaklardan biri tarafından ortaklığa karşı açılacak davaların ortakların tamamına karşı açılması, tüm ortakların davaya dahil edilmesi gerekmektedir.
 
@@ -84,15 +100,21 @@ Somut olayda; eldeki davanın davacı ortağın ortaklığa avans ödemesi olara
 
 ## Ankara BAM 24. HD 2023/1109 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/912611900)
+
 Bozma ilamı gereğince taraflar arasında düzenlenen adi ortaklığın tasfiyesi gerektiğinden, Dairemizce Tasfiye Heyeti belirlenerek, görevlendirilmiştir. Düzenlenen 26/04/2023 tarihli Tasfiye Heyeti Raporunda;" Dava konusu iş ortaklığının 31/12/2009 yıl sonu itibariyle 1.148.414,37 TL kâr elde etmiş olduğu, bu kârın 738.256,32 TL'sinin davacı ortağa ödendiği, sonuç olarak icra dosyasına yapılan bu ödeme neticesinde iş ortaklığının tasfiye kârının 420.058,02 TL olduğu"nun açıklandığı anlaşılmıştır.
 
 ## Ankara BAM 24. HD 2023/694 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/882227600)
 
 Dosya kapsamından, taraflara tasfiye memuru konusunda anlaşma sağlanması için süre verilmiş, tarafların bildirmemesi üzerine mahkeme tarafından re'sen belirlenen tasfiye memurunun ücretinin verilen süreye rağmen yatırılmadığı, taraflar arasında düzenlenen sözleşmeye göre alacağın belirlenebilmesi için tasfiye yapılması gerektiği anlaşılmıştır.
 
 Bu durumda, mahkemece; dosyada alınan bilirkişi raporlarına rağmen tarafların alacağının netleşmediği, ortaklığın tasfiyesinin mutlak olduğu, tasfiye sonucunda tarafların alacağı oranların tespit edileceği, tarafların tasfiye memuru ücretinin verilen süreye rağmen ödenmemesi nedeni ile ispatlanamayan asıl ve karşı davanın reddine ilişkin kurulan hükmünde isabetsizlik görülmemiştir.
 
 ## İstanbul BAM 3. HD 2022/3329 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/849831000)
 
 630/3 hükmüne göre yalnızca son 1 yıla ilişkin kazanç payı talep edilebilecek olup mahkeme tarafından tesis edilen kararda bu hususun dikkate alınmadığı, dosya kapsamında tanzim edilmiş olan tasfiye memurları heyet raporunda her bir ortağa düşen ortaklık payının ikiye bölünerek hesaplandığı, söz konusu raporda davalılardan ... adına ortaklık tasfiyesine ilişkin değerlendirme yapılmadığı, bu raporu dayanak alan mahkeme kararının , hukuka aykırı olduğu, Mahkeme tarafından ise adi ortaklığın tasfiyesine karar verilirken bu hususun göz ardı edilmiş ve ortaklık payı üçe bölünmemiş olduğu, bu noktada , müvekkili ... yönünden davanın usulden reddi gerekirken yine bu husus da göz ardı edilmiş ve pay ikiye bölünüp tüm davalılar yönünden dava kabul edilmiş olmasının hukuka aykırı olduğu ileri sürülerek kararın kaldırılması istenmiştir. HMK 355. maddesi yarınca ve ileri sürülen istinaf sebepleri ile sınırlı olarak yapılan inceleme sonucunda; dava , adi ortaklığın tespiti ile tasfiyesine, davacının kar payının davalılardan müştereken ve müteselsilen faiziyle tahsiline ilişkindir. Dosyadaki bilgi ve belgelere göre ;
 Dairemizce verilen kaldırma kararında; somut olayda taraflar arasında adi ortaklık sözleşmesi bulunduğu, davacının kar payı alacağını talep etmesi nedeniyle artık taraflar arasındaki ortaklık ilişkisinin sona erdiğinin kabulü gerektiği, fiilen sona eren adi ortaklıkta davacının talebinin adi ortaklığın fesih ve tasfiyesine ilişkin olduğu ve tasfiyenin mahkemece bizzat yapılması gerektiği, tasfiyenin 6098 sayılı Türk Borçlar Kanunu'nun 642 ve devamı maddelerinde düzenlenen sıra ve yöntem izlenmek suretiyle yapılması gerektiği hususları açıklanmıştır.Bu sebeplerle ,davalı tarafın bu yönlere ilişkin istinaf sebepleri yerinde görülmemiştir. Mahkemece seçilen tasfiye memurlarınca, davada iki tane adi ortak bulunduğu kabul edilerek hesaplama yapılmış ve buna göre hüküm kurulduğu anlaşılmaktadır.
@@ -101,6 +123,8 @@ Adi ortaklığın davalı ... adına tescilli '...' isimli şahıs firmesi üzer
 Kaldırma kararımızdan önce alınan 08 Şubat 2018 tarihli raporda; ...-... işletmesinin 2012 ila 2015 Ctüm yıl ) arasında net 345.447,58 olmak KAR elde ettiğin ve ancak davacı yanın davacı yanın ortak olduğunu iddia ettiği dönem için ... -... işletmesinin 30.05.2012- 25.11.2015 tarihleri arasında net 339,381,07 TL. kar elde etmiş olduğu ve işletmenin net özvarlığının bu tutarda olduğunun hesap edildiği bildirilmiştir. Davacı yanın eşi dava dışı ...'ın ...-... işletmesinde 24.05.2012- 30.11.2015 tarihleri arasında işçi olarak istihdam edildiği de dosyadaki belgelerden (SGK belgelerinden) anlaşılmaktadır. Tasfiye memurlarının 14/05/2022 tarihli raporda (bilanço) ;tasfiyeye konu işletmenin rayiç değerler üzerinden hesaplanan özvarlık tutarının 279.585,06 TL olduğu,davacının ortaklık payının 139,792,53 TL olacağı bildirilmiştir. Ancak ,adi ortaklığın 3 ortağı bulunmakla ,davacının 1/3 hissenin karşılığının 93.105,- TL olduğu anlaşılmıştır.
 
 ## İstanbul BAM 3. HD 2022/1273 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/753959300)
 
 İcra Hukuk Mahkemesi'nin 2021/1000 E. sayılı dosyasına tevzi edilen dosyada adi ortaklık adına kayıtlı olmayan taşınmazların, adi ortaklık malı olarak kabul edilemeyeceği yönündeki yüksek mahkemenin yerleşik içtihadına istinaden reddedildiği, 2017 yılının Ekim ayında açılan huzurdaki dava, erken açılan mevsimsiz bir dava niteliğinde olduğu, adi ortaklığın feshi ve tasfiyesi için dava açılabilmesi için, adi ortaklığın amacının tamamlanmış olması veya haklı bir sebep bulunması gerekir., tasfiye heyetinin, projeye iskan almak için yetki talebinde talepte bulunması, inşaatın 2022 yılında bile bitmiş kabul edilemeyeceğinin en açık göstergesi olduğu, . adi ortaklığın fesih ve tasfiyesi şartlarının oluştuğunu kabul anlamına gelmemekle beraber, tasfiyenin birinci aşaması bitmeden, tasfiye memurları tarafından bilanço düzenlenip kesinleştirilmeden, taraflar ortaklık nedeniyle birbirlerine karşı olan ve ortaklık ile üçüncü kişiler arasındaki borç alacak ilişkisi tespit edilmeden, özetle tasfiyenin ikinci aşamasına geçilmeden, tasfiyenin ikinci aşamasına geçilmiş gibi, taşınmazların serbest piyasa değerlerinin korkunç bir şekilde altına satılması sonucunu doğuracak şekilde satış ve nakde
 çevirme işlemleri yürütüldüğü, Mahkeme tarafından verilen 14/03/2022 tarihli ihtiyati tedbir talebinin reddi ara kararının kaldırılması, bu yönde verilmiş ve kesinleşmiş bir hüküm bulunmaksızın müvekkili şirket'in 2013 yılından itibaren malik olduğu taşınmazlarla ilgili kayden malik olarak nitelendirildiği ve müvekkili şirket'in onayı bulunmadan tapu devri gerçekleştirilebileceği yönündeki ara kararlarlara istinaden özellikle kıyasen uygulanması gereken resmi tasfiye usulü hiçbir şekilde dikkate alınmaksızın ve hiçbir mevzuatta yeri bulunmayan kapalı ihale yöntemi benimsenerek ve tasfiyenin birinci aşaması sona ermeden gerçekleştirilmiş olması nedenleriyle usul ve yasaya aykırı olarak satışına karar verildiği her açıdan sabit olan otuz iki (32) adet ticari nitelikli taşınmaz olmak üzere tasfiye heyeti tarafından gerçekleştirilen taşınmaz satışlarının hepsinin usul ve yasaya aykırı olarak ve müvekkili şirket bakımından telafisi imkansız boyutta zararlara sebep olabilecek şekilde gerçekleştirilmeleri ve Müvekkili Şirket adına kayıtlı olup adi ortaklık adına kayıtlı olmayan taşınmazların, müvekkil şirket'in katılımı bulunmaksızın tapu devri gerçekleştirilememesi yönünde ihtiyati
@@ -111,9 +135,13 @@ Mahkemece taraflar arasındaki ortaklığın tasfiyesi sürecine geçildiği ve 
 
 ## Sakarya BAM 7. HD 2022/553 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/743085100)
+
 Anılan hükümler ve açıklamalar uyarınca eldeki uyuşmazlık değerlendirildiğinde; taraflar arasında adi ortaklık kurulduğu, tarafların adi ortaklıktan %50 oranında payları olduğu, adi ortaklığın iki iş yaptığı (Gemsan ... A.Ş. işinin ortaklık tarafından bitirilip bitirilmediği konusunda taraflar arasında uyuşmazlık vardır), ancak tarafların adi ortaklığı yukarıda açıklanan hükümler uyarınca tasfiye etmedikleri, 6100 sayılı HMK'nın 31. maddesi uyarınca re'sen, davanın adi ortaklığın tasfiyesi davası olarak kabul edilmesi gerektiği ve tarafların adi ortaklığa ilişkin ortaklık payları nedeni ile alacak talebinde bulunamayacakları ancak tasfiyeden arta kalan kârdan ortaklık payları oranında pay isteyebilecekleri anlaşılmıştır. İlk derece mahkemesince adi ortaklığın tasfiyesi gerçekleştirilip oluşacak sonuca göre bir karar verilmesi gerekirken, davanın alacak davası olarak kabulü ile hüküm kurulması doğru olmamıştır. Bu nedenle kararın kaldırılması gerekmiştir.
 
 ## İstanbul BAM 3. HD 2021/1830 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/663904500)
 
 Diğer bir anlatımla, adi ortaklık; birbirini tanıyan, birbirlerinin kabiliyet ve şahsiyetlerine güvenen, eşit ve aynı durumda olan gerçek veya tüzel kişilerin, müşterek amacın gerçekleştirilmesini sağlayacak vasıtaları (katılım paylarını) ortaklığa getirme konusunda karşılıklı ve uygun irade beyanlarının birbirine ulaşmasıyla teşkil eden bir kişi topluluğudur.Buna göre adi ortaklığın unsurları; kişi, müşterek amaç, müşterek amaç uğruna birlikte çaba (affectio societatis), katılım payı (sermaye) ve sözleşme bağı şeklinde belirtilebilir.Adi ortaklık sözleşmelerinin kuruluşu bakımından, ortakların esaslı noktalarda uyuşması gerekir (TBK md 2/1). Eş söyleyişle, ortakların şahsı, müşterek amaç, müşterek amaç uğruna birlikte çaba, katılım payının türü ve kapsamı, ortaklık açısından esaslı unsurlar olup, bunlarda uyuşulması ortaklık sözleşmesinin kurulması için yeterlidir. Ortaklar, ikinci derecedeki noktalarda uyuşmamış olsalar bile, ortaklık kurulmuş sayılır.Adi ortaklık sözleşmesi yazılı yapılabileceği gibi sözlü de yapılabilir. İhtilaf halinde, bu ortaklığın var olduğunu ileri süren kişi, iddiasını, HMK'nın 200. md gereğince senetle ispat etmelidir.
 Her ne kadar adi ortaklık ilişkisi her hangi bir şekle bağlı değilse de, bu kural geçerlilik şekli bakımından söz konusu olup, ihtilaf çıktığında adi ortaklık sözleşmesinin varlığını ispat yükü, adi ortaklık ilişkisinin varlığını iddia edene düşer. Bu durumda, davacı ortaklığın varlığını ispat ile yüküm- lüdür. Adi ortaklıkta yazılı sözleşme, geçerlilik koşulu değil, bir ispat aracıdır. HMK'nın 200/1 md gereğince; bir hakkın doğumu, düşürülmesi, devri, değiştirilmesi, yenilenmesi, ertelenmesi, ikrarı ve itfası amacıyla yapılan hukuki işlemlerin, yapıldıkları zamanki miktar veya değerleri 2.500,00 TL'yi geçtiği takdirde senetle ispat olunması gerekir. Sözü geçen maddenin 2.fıkrası gereğince, senetle ispatı gereken hususlarda birinci fıkradaki düzenleme hatırlatılarak karşı tarafın açık muvafakati halinde tanık dinlenebilir.
@@ -124,6 +152,8 @@ HMK 202.madde gereğince "delil başlangıcı" bulunan hallerde tanık dinlenebi
 Tasfiye usulüne veya tasfiye sonucunda her bir ortağa dağıtılacak paya ilişkin olarak doğabilecek uyuşmazlıklar, ilgililerin istemi üzerine hâkim tarafından çözüme bağlanır.".Aynı yasanın kazanç ve zararın paylaşımı başlıklı 643. maddesinde ise "Ortaklığın borçları ödendikten ve ortaklardan her birinin ortaklığa verdiği avanslar ile ortaklık için yaptığı giderler ve koymuş olduğu katılım payı geri verildikten sonra bir şey artarsa, bu kazanç, ortaklar arasında paylaşılır.Ortaklığın, borçlar, giderler ve avanslar ödendikten sonra kalan varlığı, ortakların koy- dukları katılım paylarının geri verilmesine yetmezse, zarar ortaklar arasında paylaşılır." hükmü yer al- maktadır. Katılım payı olarak bir şeyin mülkiyetini koyan ortak, ortaklığın sona ermesi üzerine yapılacak tasfiye sonucunda, o şeyi olduğu gibi geri alamaz; ancak koyduğu katılım payına ne değer biçilmişse, o değeri isteyebilir.
 
 ## İzmir BAM 4. HD 2021/1421 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/667064300)
 
 Şöyle ki; ilk derece mahkemesinin ve tarafların kabulünde olduğu üzere adi ortaklığa dışarıdan davacı .....'ın 131.126 TL borç aldığı, bu borcun davacı ile davalılardan ..... ile birlikte ortak ödeneceğinin yazılı olarak kararlaştırıldığı, davalının payına düşen ortaklık borcunu ödemediğinden bahisle davacı tarafından başlatılan icra takibine yapılan itirazın iptaline yönelik açılan davanın İzmir 4.Asliye Ticaret Mahkemesinin 2018/874 Esas sayılı dosyasında derdest bulunduğu, bu alacak borç ilişkisinin de adi ortaklığın tasfiyesi kapsamına alınması gerektiği halde, anılan Mahkemece birleştirme isteminin olumlu değerlendirilmediği ve karar tarihi itibariyle anılan dosyanın derdest olduğu anlaşılmıştır. Adi ortaklık ilişkisinden kaynaklanan hak ve borçların bir kısmının tasfiye dışında bırakılması mümkün değildir. Adi ortaklıkta ortaklar arasındaki kar payı dışındaki alacak iddiası aynı zamanda fesih ve tasfiyeyi gerektireceğinden, fesih ve tasfiye davası devam ederken ileri sürülen alacak iddiasının da ilk davadaki tasfiye sürecinde incelenerek tasfiye kapsamına alınması gerekir.
 Aksi halde tam bir tasfiyeden söz edilemeyeceğinden sonradan açılan davanın birleştirilmesi isteğinin kabul görmemiş olmasının sonuca bir etkisi yoktur. Aksine bir durum mükerrer tasfiye sonucuna yol açacağından, böyle bir duruma imkan verilmesi hukuken mümkün görülmemiştir.

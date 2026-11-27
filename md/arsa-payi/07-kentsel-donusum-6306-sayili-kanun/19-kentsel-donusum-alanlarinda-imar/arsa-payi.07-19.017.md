@@ -22,6 +22,8 @@ uyari: "Derleyenin seçtiği alıntılardır; kararın tamamı değildir. Künye
 
 ## Danıştay 13. D. 2020/3830 E., 2021/435 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/647638900)
+
 Dosyasının incelenmesinden;
 Adıyaman Belediyeler Birliği Meclisi'nin … tarihli kararıyla, 2886 sayılı Devlet İhale Kanunu uyarınca, katı atık düzenli depolama tesisi alanlarının yapımı, imalatı ve işletilmesi ile bu alanlarda depolanan atıklardan enerji elde edilmesi işinin 29 yıllığına işletilmesine ilişkin ihalenin yapılması ve sonuçlandırılması hususunda birlik başkanı ve encümenine yetki verildiği; söz konusu ihaleye ilişkin idari şartnamenin 26.3. maddesinde, ihalenin iki aşamadan oluştuğu, birinci aşamanın ÇED ve imar planı sürecini kapsadığı, bu süreçte ÇED olumsuz görüşü alınması ve imar planı izinlerinin olumsuz çıkması hâlinde sözleşmenin diğer maddelerinin hükümsüz olacağı, ikinci aşamada ise, ÇED ve imar planı izinlerinin alınması hâlinde yüklenici firmaya yer teslimi yapılarak inşaat ve diğer yatırımlara izin verileceğinin belirtildiği; ihalenin 03/03/2020 tarihinde gerçekleştirildiği; ihalenin onaylanarak yüklenici ile sözleşme imzalandıktan sonraki süreçte Adıyaman Valiliği İl Genel Meclisi'nin … tarihli kararıyla katı atık bertaraf ve geri kazanım tesisi ve biokütle enerji tesisi amaçlı 1/1000 ölçekli uygulama imar planı ve 1/5000 ölçekli nazım imar planı yapılması amaçlı hazırlanan imar planı
 dosyasının onaylanmasına karar verildiği; 17/09/2020 tarihinde de "ÇED Olumlu" kararı verildiği; katı atık depolama tesisinin kurulacağı bölgede yaşayan davacı tarafından, ihaleye konu katı atık tesis projesinin çevresel etki değerlendirmesine tabi olduğu, projenin etki alanı içerisinde ikamet eden/taşınmaz sahibi olan yurttaşların yaşam alanları ve su kaynakları üzerinde doğrudan tehdit içeren atık tesisinin çevresel etki değerlendirmesi kararı olmadan ihale edilmesinin hukuka aykırı olduğu ileri sürülerek 03/03/2020 tarihinde gerçekleştirilen ihalenin iptali istemiyle temyize konu davanın açıldığı anlaşılmaktadır.
@@ -34,6 +36,8 @@ dosyasının onaylanmasına karar verildiği; 17/09/2020 tarihinde de "ÇED Olum
 
 ## Danıştay 6. D. 2017/6525 E., 2021/402 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/648403000)
+
 Koruma İlkeleri" başlıklı 5.1 sayılı bölümün 5.1.5. sayılı maddesinde, bitkisel üretimde önemli paya sahip olan tarım toprakları ile su ürünleri üretim yerleri ve çevrelerinin, 5.1.6. sayılı maddesinde, üzerinde yetişen özel ürünler açısından önem taşıyan tarım alanlarının korunmasının, 5.1.7. sayılı maddesinde, su kaynaklarının korunması ve suyun dengeli ve verimli kullanımının sağlanmasının, 5.1.8. sayılı maddesinde, yüzeysel su ve yer altı suyunun kirlenmesinin önlenmesinin, 5.1.9. sayılı maddesinde, içme suyu ve tarımda sulama amacı ile kullanılan ve kullanılacak olan su kaynakları ve bu kaynaklar çevresindeki su toplama havzaları ile rezerv alanlarının korunmasının, 5.1.10. sayılı maddesinde, ilgili kuruluşların yatırım programında yer alan veya alacak olan sulama alanlarının korunmasının, 5.1.11. sayılı maddesinde, 2863 sayılı “Kültür ve Tabiat Varlıklarını Koruma Kanunu“ uyarınca belirlenen ve belirlenecek olan sit alanları ile kültür ve tabiat varlıklarının, ilgili yasalar ve bağlı yönetmelikler uyarınca korunmasının, 5.1.12. sayılı maddesinde, korunacak alanlarda, kentsel gelişme baskılarını azaltacak tedbirlerin alınmasının, planın koruma ilkeleri arasında yer sayıldığı,
 5.2.4 sayılı maddesinde planlama bölgesinde yer alan tüm gelişme alanlarının verimi yüksek tarım arazilerine ve enerji kaynak alanlarına zarar vermeyecek biçimde geliştirilmesi ile 5.3.4. sayılı maddesinde, verimli tarım arazilerine baskı yapan plansız sanayileşmenin önlenmesi ve mevcut sanayilerin çevresel etkilerinin kontrol altına alınmasının planın hedefleri arasında sayıldığı, 7.1. sayılı maddesinde, bu çevre düzeni planının, plan hükümleri ve plan açıklama raporuyla bir bütün olduğu, 7.2. sayılı maddesinde, bu plandan ölçü alınarak uygulama yapılmayacağı, 7.9. sayılı maddesinde, 1/100.000 ölçekli çevre düzeni planının onayından önce onaylanmış nazım imar planları ve uygulama imar planlarının, bu plan kararlarına ve hükümlerine aykırı olmayan karar ve hükümlerinin geçerli olduğu, imar uygulaması görmüş olan alanlarda, imar planlarında verilmiş hakları çerçevesinde uygulamalara devam edileceği, 7.10. sayılı maddesinde, bu planın onama tarihinden önce mevzuata uygun olarak onaylanmış mevzi imar planları geçerli olduğu, bu alanlarda yoğunluk artışı ve türdeğişikliği getirecek plan değişikliği/revizyonu yapılamayacağı, 7.11. sayılı maddesinde, bu planın onayından önce, 3194 sayılı
 İmar Kanunu’nun “Plansız Alanlar İmar Yönetmeliği” kapsamında ya da dönemin ilgili diğer mevzuatına göre uygulama görmüş alanların haklarının saklı olduğu, bu alanlarda yoğunluk artışı ve kullanım değişikliği getirecek plan değişikliği/revizyonu yapılamayacağı, 7.24. sayılı maddesinde, içmesuyu ve tarımda sulama amacıyla kullanılan ve kullanılacak olan barajların su kaynakları ve çevresindeki su toplama havzaları ile rezerv alanlarının korunacağı, 7.26. sayılı maddesinde, içme ve kullanma suyu kaynağı olarak belirlenmiş alanlarda “Su Kirliliği Kontrolü Yönetmeliği” hükümlerinin geçerli olduğu, içme ve kullanma suyu koruma kuşakları içinde kalan tüm kentsel ve kırsal yerleşmelerin altyapılarının öncelikle ele alınıp iyileştirileceği, bu alanlarda yapılacak uygulamalarda, T.C Orman ve Su İşleri Bakanlığı ile Devlet Su İşleri Genel Müdürlüğü’nün görüşünün alınacağı, "Turizm Alanları/Bölgeleri" başlıklı 8.18 sayılı bölümünün "Tercihli Kullanım Alanları/Bölgeleri" alt başlığı altında yer alan 8.18.1.1. sayılı maddesinde, turizm tesis alanlarında, 2634 sayılı “Turizm Teşvik Kanunu” ve ilgili yönetmelikleri doğrultusunda uygulama yapılacağı, 8.18.1.2 sayılı maddesinde, kentsel yerleşme
@@ -42,6 +46,8 @@ alanı amaçlı kullanımlarda, bu planda belirlenmiş nüfus kabulleri aşılma
 8.18.2.2. sayılı maddesinde, bu kullanımların yapılaşma koşullarının alt ölçekli planlarda belirleneceği, bu alanlarda imar planları ilgili idarece onaylanmadan uygulamaya geçilemeyeceği, 8.24.7.1. sayılı maddesinde, bu plan kapsamındaki tarihi, kentsel, arkeolojik ve doğal sit alanlarında T.C. Kültür ve Turizm Bakanlığı ve T.C. Çevre ve Şehircilik Bakanlığı Tabiat Varlıklarını Koruma Genel Müdürlüğü ile ilgili Kültür Varlıklarını Koruma Bölge Kurulu ve Tabiat Varlıklarını Koruma Merkez ve Bölge Komisyonu kararlarına göre uygulama yapılacağı, 8.25. sayılı maddesinde, tarım arazileri ve alanlarının bu planda tek gösterim altında gösterildiği, 5403 sayılı Kanun ve ilgili yönetmeliğinde tanımlanan “tarım arazileri sınıflarına” ayrılmadığı, 8.25.1.2. sayılı maddesinde, 5403 sayılı “Toprak Koruma ve Arazi Kullanımı Kanunu”nda dikili, özel ürün, fiilen sulanan veya sulama projesi kapsamında kalan tarım arazilerinde, 3194 sayılı imar kanununun 27. maddesi kapsamında kalan hayvancılık amaçlı yapılar hariç, hayvancılık tesisi yapılmasına izin verilmeyeceği, …
 
 ## Danıştay 6. D. 2015/8583 E., 2020/14077 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/677105300)
 
 Maddesi: “çevre düzeni planı değişikliğine gerek kalmaksızın” ifadesinin alt ölçekli plan çalışmalarının üst ölçekli plana uygun olması gerekliliğine dayandığı, nüfus kabulleri ile alan kullanım kararları arasında demografik–mekânsal–sektörel bağlamda etkileşim olduğu/olacağı gözönüne alınırsa, ilgili mevzuata, planlama esasları–şehircilik ilkelerine aykırılık taşımadığı, 7.34., 7.45., 8.36.2., 8.36.7., 8.14.7., 8.7.4. ve 8.37. sayılı maddeler: Bu planda değişikliğe gerek olmaksızın” ibaresi ile …
 
@@ -73,6 +79,8 @@ Buna göre, anılan hükümdeki "bu plan kapsamındaki alanlar" ibaresinin kents
 
 ## Danıştay 6. D. 2019/112 E., 2020/13786 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/632927400)
+
 Bu doğrultuda, imar planlarına karşı 2577 sayılı Kanunun 11. maddesi kapsamında yapılacak itiraza ilişkin olarak, 3194 sayılı Kanunun 8/b maddesinde özel bir süre öngörülmüştür. Buna göre, imar planlarının askıya çıkartılmak suretiyle ilan edildiği 1 aylık süre içerisinde 2577 sayılı Kanunun 11. maddesi kapsamında başvuruda bulunulması ve bu başvuruya planın askıdan indirildiği tarihi takip eden 60 gün içerisinde cevap verilmeyerek, isteğin reddedilmiş sayılması halinde, bu tarihi takip eden 60 gün içinde veya planın askıda indirildiği tarihi takip eden 60 gün içinde cevap verilmek suretiyle isteğin reddedilmesi halinde, bu cevap tarihinden itibaren 60 gün içinde iptal davası açılabilmesi mümkündür.
 
 …
@@ -80,6 +88,8 @@ Bu doğrultuda, imar planlarına karşı 2577 sayılı Kanunun 11. maddesi kapsa
 Dava konusu işlemin yukarıda özetlenen gerekçeyle iptaline ilişkin Mahkeme kararına yönelik olarak yapılan istinaf başvurusunun reddi yolundaki temyize konu … Bölge İdare Mahkemesi … İdari Dava Dairesinin … tarih ve E:…
 
 ## Danıştay 6. D. 2019/12973 E., 2020/13585 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/786966600)
 
 Davacı tarafından: Uyuşmazlık konusu planların parçacıl ve eşitlikten uzak olduğu, bölge geneline ayrılması gereken donatı alanlarının davacı parselleri üzerinde ayrılmasının eşitliğe aykırı olduğu, aynı konum ve ulaşılabilirlik özelliklerine sahip alanlarda aynı planlama kararları getirilmesi gerektiği halde davacı taşınmazına çevresine göre düşük yoğunluklu yapılaşmaya izin veren planların hukuka uygun olmadığı, ayrıca uyuşmazlık konusu imar planlarının onayından sonra planlama alanında tekrar imar planı tadilatı yapıldığından dava hakkında karar verilmesine yer olmadığı yolunda karar verilmesi gerektiği ileri sürülmektedir.
 
@@ -92,6 +102,8 @@ Bunun üzerine davacı tarafından, yargı kararlarının uygulanmadığı, böl
 Davacının temyiz istemlerinin reddine, 1/5.000 ölçekli nazım imar planı yönünden yukarıda özetlenen gerekçeyle davanın reddi yolunda verilen Mahkeme kararına yönelik olarak yapılan istinaf başvurusunun reddi yolundaki temyize konu … Bölge İdare Mahkemesi …. İdari Dava Dairesinin …. tarih ve E:…, K:… sayılı kararının ONANMASINA …
 
 ## Danıştay 6. D. 2015/5974 E., 2020/13035 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/673461700)
 
 Bölgesinde (Batı Çevre Yolu çevresi) mutlak tarım alanlarının gelişme alanı olarak planlanmasına itirazla ilgili olarak, kırsal nitelikli bu yerleşmenin, mevcut ölçülerinin üzerinde bir kentsel yerleşik alan olarak gösterildiği, söz konusu yerleşmenin tarıma dayalı yapısının sürdürülmesi doğal çevrenin korunması açısından önemli olduğu, yerleşmenin abartılı ölçülerde kentsel yerleşik alan olarak gösterilmesinin Antalya açısından özel öneme sahip çok geniş bir havzanın yapılaşmasının önünün açılması gibi bir tehlikesinin bulunduğu, Batı Çevre Yolu olarak tanımlanan bölgede ise, ... ve ... çayları arasındaki Tarımsal Niteliği Korunacak Alanın kentsel gelişmeye açılmasına itirazla ilgili olarak bölgede yapılaşma öngören alt ölçekli imar planlama kararlarının yargı kararlarıyla iptal edilmiş olduğu ve yargı kararlarındaki gerekçelerin ortadan kalktığını gösteren herhangi bir verinin bulunmadığından hareketle, bölgenin dava konusu 1/100000 ölçekli planda kentsel gelişmeye açılmasının anılan yargı kararları ile aykırılık bulunduğu, anılan plan kararının, dava konusu 1/100000 ölçekli Çevre Düzeni Planının Uygulama Hükümleri’nde yer alan “Planlama Bölgesi’nin önemli unsuru olan verimli
 tarım topraklarını, orman alanlarını ve hassas alanları korumak, tarım ve ormancılığın geliştirilmesini sağlamak” olarak belirlenen amaç maddesi ile çelişmekte ve tutarsızlık oluşturduğu, ... Belediyesi sınırları içinde Antalya Büyükşehir Belediye Meclisi'nin …
@@ -106,6 +118,8 @@ Açıklanan nedenlerle 5.36 sayılı plan notu yönünden davanın reddine karar
 
 ## Danıştay 6. D. 2016/1179 E., 2020/13032 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/667509200)
+
 Davacı tarafından ileri sürülen Sulak Alan Tampon Bölgesi sınırlarının izlenemediği, lejant maddelerinde “Sulak Alan Tampon Bölgesi” yer almasına karşın ilgili paftasında bu gösterime rastlanmadığı, sayısal paftalar üzerinde anılan sınırlar okunamadığı, ekolojik sorunların tehdidi altında olan ve bu nedenle arazi kullanım kararlarının titizlikle gözden geçirilmesi gereken Burdur Gölü ve çevresinde dile getirilen konudaki eksikliğin kabul edilebilir bir yanı bulunmadığı, Organize Sanayi Bölgesi kullanımının Tampon Bölge içinde yer alamayacağı anlaşıldığından, dava konusu planın bu kısmında hukuka uyarlık bulunmamaktadır.
 
 …
@@ -117,6 +131,8 @@ Savunmada; anılan plan notu düzenlemesi ile orman alanları içinde, özel mü
 Açıklanan nedenlerle 5.36 sayılı plan notu yönünden davanın reddine karar verilmesi gerektiği oyu ile kararın bu kısmına katılmıyorum.
 
 ## Danıştay 6. D. 2016/6756 E., 2020/12712 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/640074700)
 
 İdare Mahkemesince, dava konusu taşınmazı kapsayan alanın 775 sayılı Gecekondu Kanunu uyarınca Toplu Konut İdaresi Başkanlığı'nın …
 
@@ -134,6 +150,8 @@ Dava konusu işlemin yukarıda özetlenen gerekçeyle iptali yolundaki … İdar
 
 ## Danıştay 6. D. 2019/2545 E., 2020/12032 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/647062500)
+
 Davacı tarafından tebliğin tümünün iptali istenilmişse de; dava dilekçesinin incelenmesinden, tebliğde yapı kayıt belgesi alamayacak yapıların tamamının sayılmayarak eksik düzenlendiği, İmar Kanunu'nun 18. maddesi gereğince yapılan imar uygulaması sonucu düzenleme ortaklık payı olarak terk edilen alanlar üzerinde inşa edilen yapılara ilişkin düzenleme yer almadığı, bu nedenle, davacının paydaşı olduğu parselden düzenleme ortaklık payı olarak ayrılan yol ve otopark alanı üzerinde mevcut yapı sahiplerinin yapı kayıt belgesi alabileceği gibi işyeri açma ruhsatı da alabileceklerinin öne sürüldüğü görülmekle, inceleme belirtilen iddialara ilişkin bulunan dava konusu tebliğin 6. maddesinin (8) numaralı fıkrası ile 8. maddesinin 1. fıkrasının (d) bendine yönelik olarak yapılmıştır.
 
 …
@@ -144,9 +162,13 @@ Buna göre, sosyal donatı alanlarının, İmar Kanunu'nun 18. maddesi uyarınca
 
 ## Danıştay 6. D. 2019/17473 E., 2020/12030 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/644811400)
+
 İmar hukukuna ilişkin temel kuralların yer aldığı 3194 sayılı İmar Kanununda yapı tanımı yapılmış, yapıların imar planı, yönetmelikler, ruhsat ve eklerine uygun olarak yapılabileceği, kanun kapsamına giren yapılar için, kanunda belirtilen istisnalar dışında yapı ruhsatı alınmasının zorunlu olduğu, tamamen veya kısmen bir yapının kullanılabilmesi için yapı kullanma izni alınması gerektiği, ruhsatsız veya ruhsat ve eklerine aykırı olarak başlanan yapıların mühürlenerek derhal durdurulacağı ve aykırılıkların giderilmemesi halinde de yapının ruhsatının iptal edilerek yıktırılacağı düzenlenmiştir.
 
 ## Danıştay 6. D. 2018/2698 E., 2020/11756 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/641953100)
 
 Adana ili, Çukurova ilçesi, …
 
@@ -198,6 +220,8 @@ Davanın yukarıda özetlenen gerekçeyle reddine ilişkin Mahkeme kararına yö
 
 ## Danıştay 6. D. 2016/1203 E., 2020/11614 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/639125800)
+
 Bayındırlık ve İskan Bakanlığınca 3030 Sayılı Kanun Kapsamı Dışında Kalan Belediyeler Tip İmar Yönetmeliği hükümlerine açıklık getirilmesi amacıyla yayımlanan 31/01/2000 tarihli Genelge; "İmar Kanunun 21. Maddesi ile, Kanunu 27. Maddesinde belirtilen ve ruhsat alınmadan yapılması mümkün olan köy ve mezraların yerleşik alanlarında ve civarında, köyde sürekli oturan ve köy nüfusuna kayıtlı olanlar tarafından yapılacak konut, tarım ve hayvancılık amaçlı yapılar dışında kalan tüm yapılar için inşaat ruhsatı ve yapı kullanma izni alınması zorunluluğu hükme bağlanmıştır. Yönetmeliğe göre, inşaat ruhsatı taleplerinde, dilekçe ekinde parsel durumunu belirleyen jeolojik raporun bulunması gerekmektedir. Burada sözü edilen rapor, imar planı yapımı için zorunlu olan ve imar planına veri olan, yapılaşma kararlarını etkileyen, arazi yapısına göre gözlemsel ve aletsel etütlerle elde edilen ve parselin bulunduğu bölge genelini kapsayan jeolojik etüt raporunun ilgili bölümüdür.
 Bu raporun şahıslar tarafından yaptırılması söz konusu olmayıp, idare tarafından, imar durumu düzenlenmesi sırasında dikkate alınması gereken ve risk durumunda belirleyerek imar durumunda gerekli açıklamaları getirmeyi sağlayan, imar durumuna eklenerek talep sahibi şahsa verilen bir belgedir. Dolayısıyla inşaat ruhsatı talep aşamasında dilekçeye eklenmesi sağlanmış olacaktır. İmar Planı yapımı için jeolojik etüt raporu yapılması zorunlu ve İmar Planı kararlarına esas olmakla birlikte raporun plan yapımı sırasında yapılmamış olması halinde ilgili idarece ivedilikle yaptırılması ve planların bu göre gözden geçirilmesi, bu aşamada İmar durumu ve İnşaat Ruhsatı verilmemesi gerekmektedir." düzenlemesini içermektedir.
 
@@ -209,6 +233,8 @@ Bayındırlık ve İskan Bakanlığınca 17 Ağustos 1999 Marmara Depremi Sonras
 Dava konusu işlemin yukarıda özetlenen gerekçeyle iptaline ilişkin temyize konu … İdare Mahkemesinin … tarih ve E:…
 
 ## Danıştay 6. D. 2019/10301 E., 2020/11514 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/636035500)
 
 İSTEMİN ÖZETİ : Kütahya İli, Lala Hüseyin Paşa ve Bölcek Mahalleleri …
 
@@ -234,6 +260,8 @@ sayılı kararın, usul ve hukuka aykırı olduğu ileri sürülerek bozulması 
 
 ## Danıştay 6. D. 2019/2534 E., 2020/11081 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/636116000)
+
 Davalı Konya Valiliği tarafından; dava konusu Yönetmeliğin dayanak 6306 sayılı Kanuna uygun olarak Çevre ve Şehircilik Bakanlığınca düzenlendiği, bu nedenle kendileri yönünden davanın reddi gerektiği savunulmuştur.
 
 …
@@ -253,5 +281,7 @@ tarihinde açık artırma usulüyle satılmıştır.
 Konya Çevre ve Şehircilik İl Müdürlüğünün … günlü, E…. sayılı işlemiyle bildirilen … günlü arsa payı satış işlemi yönünden DAVANIN REDDİNE …
 
 ## Danıştay 6. D. 2020/4759 E., 2020/11046 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/633564000)
 
 DAVACININ İDDİALARI : Acele kamulaştırma kararının alınabilmesi için gerekli olan acelelik halinin ve olağanüstü koşulların somut olayda gerçekleşmediği, söz konusu bölgenin yenileme alanı sınırları içerisinde kaldığı ve 5366 sayılı Kanun uyarınca zorunlu olduğu halde bölgedeki taşınmaz malikleri ile anlaşma usulünün denenmediği, anılan yerde yürürlüğe giren koruma amaçlı imar planlarına karşı açılan davalarda iptal kararı verildiği, bölgede yürürlükte bir imar planı olmadığı dolayısıyla acele kamulaştırma için gerekli yasal şartların oluşmadığı ileri sürülmüştür.

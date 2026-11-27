@@ -22,6 +22,8 @@ uyari: "Derleyenin seçtiği alıntılardır; kararın tamamı değildir. Künye
 
 ## Yargıtay 23. HD 2019/1170 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/495725900)
+
 Mahkemece, iddia, savunma, benimsenen bilirkişi raporu ve dosya kapsamına göre, taraflar arasında 31.08.1994 tarihinde düzenlenen sözleşmede (A) ve (B) blok olmak üzere iki adet blok inşa edileceğinin ve 24 ay içerisinde teslim edileceğinin kararlaştırıldığı yüklenicinin sadece (B) blok inşaatını tamamladığı, dava tarihi olan 2001 yılına kadar aradan çok uzun süre geçmiş olmasına rağmen işi tamamlamadığı, toplam imalat seviyesinin %47,66 olarak tespit edildiği, bu itibarla arsa sahiplerinin fesihte haklı olduğu gerekçesiyle, asıl davanın kabulü ile arsa payı karşılığı inşaat sözleşmesinin feshine birleşen davanın reddine karar verilmiştir.
 
 …
@@ -34,6 +36,8 @@ SONUÇ: Yukarıda (1) numaralı bentte açıklanan nedenlerle asıl davada daval
 
 ## Yargıtay 15. HD 2019/1015 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/487211600)
+
 Otopark sayısındaki artış nedeniyle ek süre, davacı arsa sahibince süre uzatımı olarak verilen 281 gün içinde davalıya süre olarak verilmiş olmasına rağmen, inşaat süresi içinde yüklenici tarafından tamamlanıp yapı kullanma izin belgesi de alınarak teslim edilmediğinden davalı yüklenici temerrütte kusurludur. Davalı yüklenici otopark sayısındaki artış nedeni ile fazla iş yaptığı ve fazladan harç ödediğini de savunmakta olduğundan bu savunmasının mahsup itirazı niteliğinde olduğu düşünülebilir ise de; mahkemece incelenen ... 3. Asliye Hukuk Mahkemesi’nin 2011/477 Esas sayılı dosyasıyla birleşen ... 2. Asliye Hukuk Mahkemesi’nin 2011/586 Esas sayılı dosyasında davaya konu edilerek ödenmesi talep edildiğinden eldeki davada söz konusu fazla imalât ve ödenen harcın alacaktan mahsup edilmesi mümkün değildir.
 
 Bu durumda bölge adliye mahkemesince asıl davada davacı arsa sahibinin teslimdeki gecikme nedeni ile ve yüklenici gecikmede kusurlu olduğundan teslimi gereken tarih 25.06.2009 ise de; talep 24.06.2010 tarihinden olduğundan bu tarihden yapı kullanma izin belgesinin alındığı 26.04.2011 tarihine kadar gecikme nedeni ile talep ettiği bağımsız bölümleri kiraya verememesi sebebi ile uğradığı zarar ve aynı dönem için sözleşmenin 22/IV. maddesine göre isteyebileceği gecikme cezası-cezai şart miktarı konusunda uzman bilirkişiden gerekçeli ve denetime elverişli rapor alınıp hesaplanacak zarardan istenebilecek gecikme cezası düşüldükten sonra kalan miktarın asıl davada cezayı aşan zarar olarak hüküm altına alınması gerekirken ilk derece mahkemesi kararı kaldırılıp gerekçesi değiştirilmek ve harç hususu düzeltilmek sureti ile asıl davanın reddi doğru olmamış, kararın bozulması uygun bulunmuştur.
@@ -44,6 +48,8 @@ dilekçelerinin reddine, 2. bent uyarınca asıl dava ile ilgili temyiz itirazla
 
 ## Yargıtay 15. HD 2019/711 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/484480200)
+
 Davacılar ve dava dışı arsa sahiplerinin davalı yüklenici kooperatifle imzaladıkları sözleşmelerin 4/c (veya 5/c) maddesinde inşaatın tamamlanma süresi belirtilmiş olup, aynı maddelerin “d” bendinde de bu süre ve ek süreler içerisinde bitirilmeme durumunda arsa sahiplerine ödenecek kiralar ve 3. üç aylık ek süreden sonra halen bitirilmeme durumunda da yükleniciye ait iki dairenin arsa sahiplerine verileceği kararlaştırılmış olup, davaların dayanağını da sözleşmelerin bu hükmü oluşturmuştur. Aynı bendin son cümlesinde ise arsa sahiplerinin yoksun kaldıkları gerçek kira karşılığını ve diğer zarar ve ziyanlarını istemek, ayrıca eksik ve kusurlu işleri yüklenici hesabına tamamlattırmak, düzelttirmek hakkına sahip oldukları belirtilmiştir. Sözleşmenin dava konusu edilen hükmünde işin 90 günlük ilk ek sürede tamamlanmaması halinde ikinci ve üçüncü 90’ar günlük ek sürelerde de tamamlanmaması …
 
 …
@@ -51,6 +57,8 @@ Davacılar ve dava dışı arsa sahiplerinin davalı yüklenici kooperatifle imz
 SONUÇ: Yukarıda 1. bentte açıklanan nedenlerle asıl ve birleşen dosya davacısı arsa sahiplerinin tüm temyiz itirazlarının reddine, 2. bentte açıklanan nedenler kararın temyiz eden asıl ve birleşen dosya davalısı yüklenici kooperatif yararına BOZULMASINA …
 
 ## Yargıtay 15. HD 2019/710 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/481873600)
 
 …
 
@@ -64,6 +72,8 @@ SONUÇ: Yukarıda 1. bentte açıklanan nedenlerle davalı ...'ün tüm, davalı
 
 ## Yargıtay 23. HD 2019/635 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/481346100)
+
 Davacılar vekili, asıl ve birleşen davalarda, arsa sahibi müvekkilleri ile davalı yüklenici ... arasında 16.07.1997 tarihinde arsa payı karşılığı inşaat sözleşmesi düzenlendiğini, sözleşmedeki paylaşım oranına uygun olarak bir kısım arsa payının yüklenicinin yetkilisi olduğu diğer davalı ... İnş. Ltd.
 
 …
@@ -76,6 +86,8 @@ SONUÇ: Yukarıda (1) numaralı bentte açıklanan nedenlerle, asıl davada dava
 
 ## Yargıtay 15. HD 2019/571 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/481217000)
+
 Dairemizce karar düzeltme aşamasında dosyaya dahil edilen ... Belediye Başkanlığı Kentsel Dönüşüm Müdürlüğü'nün 27.08.2018 tarih ve aynı makamın 14.09.2018 tarihli iki ayrı yazısından dava konusu ... İlçesi ... Mahallesi 2223 ada 2 parsel üzerinde yer alan binalardan re'sen numune alındığı 6306 sayılı Afet Riski Altındaki Alanların Dönüştürülmesi Hakkındaki Kanun kapsamında incelendiği ve riskli yapı olarak onaylandığı, sonrasında maliklere ve ayni hak sahiplerine gönderilen tebligat sonrasında hak sahiplerince itiraz edildiği, itirazın Çevre ve Şehircilik Bakanlığı İl Müdürlüğü'nde yer alan komisyon tarafından incelenerek binaların riskli olduğuna karar verildiği ve yıkım tebligatı ile binaların yıkımına geçilerek 18, 20 ve 22 numaralı binaların yıkıldığı anlaşılmıştır. Bu durumda yüklenici davalı-birleşen dosya davacısı kooperatifin yasal olarak herhangi bir iş bedeline hak kazanamadığı binanın usulüne uygun şekilde yapılmadığı ve binaların bu nedenle yıkıldığı anlaşıldığından yüklenici tarafından açılan tüm davaların reddi gerekir, ayrıca iş sahibi de birleşen ... 5.
 Asliye Hukuk Mahkemesi'nin 2011/187 Esas sayılı dosyası ile taraflar arasındaki kat karşılığı inşaat sözleşmesinin feshini talep etmiştir, sözleşmenin feshi halinde alacaklı ancak menfi zararının tazminini isteyebilecektir. Somut olayda davacı arsa sahibi asıl ve birleşen davalarda sözleşmenin feshi ile birlikte müspet zarar kapsamında olan kira tazminatı talep ettiklerinden bu kira tazminatlarına ilişkin açılan davalardaki talebin de reddi gerekir.
 
@@ -84,6 +96,8 @@ Asliye Hukuk Mahkemesi'nin 2011/187 Esas sayılı dosyası ile taraflar arasınd
 SONUÇ: Yukarıda açıklanan nedenlerle davacı-birleşen dosya davalısı ... vekilinin karar düzeltme isteminin kabulü, davalı-birleşen dosya davacısı ... vekilinin karar düzeltme talebinin reddi ile ile Yargıtay 23. Hukuk Dairesi'nin 22.06.2017 gün ve 2016/2564 Esas ve 2017/1921 Karar sayılı ilamının kaldırılarak, mahkeme kararının BOZULMASINA …
 
 ## Yargıtay 23. HD 2019/518 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/490259000)
 
 Davalı vekili, davacının kendilerine ödeme yapmadığını öne sürerek davanın reddini dilemiştir.
 
@@ -96,6 +110,8 @@ Kabule göre; arsa payı karşılığı inşaat sözleşmesi resmi şekilde yap�
 SONUÇ: Yukarıda açıklanan nedenlerle davalı vekilinin temyiz itirazlarının kabulü ile hükmün davalı yararına BOZULMASINA …
 
 ## Yargıtay 15. HD 2019/355 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/478794300)
 
 Dava, arsa payı karşılığı inşaat yapım sözleşmesinin yüklenicinin temerrüdü nedeniyle feshi istemine ilişkindir.
 
@@ -110,6 +126,8 @@ Bölge Adliye Mahkemesinin 05.06.2018 gün 2017/615 Esas 2018/633 Karar sayılı
 
 ## Yargıtay 15. HD 2019/323 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/484179700)
+
 Yapma borcu, borçlu tarafından ifa edilmediği taktirde alacaklı (arsa sahibi), masrafı borçluya ait olmak üzere edimin kendisi veya başkası tarafından ifasına izin verilmesini isteyebilir. İstemin hukuki dayanağını sözleşme tarihi itibariyle yürürlükte olan 818 sayılı BK'nın 97. maddesi oluşturmaktadır. Yasa hükmüne göre nama ifaya izin verilebilmesi için sözleşmenin feshedilmemiş, yani yürürlükte olması, borçlunun edimin ifasında temerrüte düşmesi gerekir. Somut olayda davalı yüklenici karşı dava dilekçesi ile fesih istemiş olup, karşı tarafı ulaşmakla sözleşme fesh edilmiş sayılacağından davacı arsa sahibinin nama ifaya izin istemesi mümkün olmayıp, esasında teslim de bulunmadığından davacının nama ifaya izin istemesi yönündeki istemi doğru olmamakla birlikte çoğun içinde azda vardır kuralı uyarınca ve davada sözleşme fesih edildiğinden davacı fazla ödemiş olduğu bedeli davalı yükleniciden isteyebilir. Sözleşmede iş bedeli (818 sayılı B.K. 365) 6098 sayılı TBK'nın 480. maddesinde düzenlenen götürü bedel olarak kararlaştırılmış olup, davalı yükleniciye fazla ödeme yapılıp yapılmadığı fiziki oran kurularak bulunmalıdır.
 Götürü bedelli sözleşmede, iş sahibinin fazla ödemesinin bulunup bulunmadığı fiziki oran yöntemi ile başka bir ifadeyle asıl sözleşme kapsamında yapılan işin eksiklikler gözetilerek tüm işe göre fiziki oranı bulunmalı ve bu oran sözleşme bedeline uygulanmalı, ilave yani sözleşme dışı işlerle ilgili olarak da yapıldığı yıl mahalli serbest piyasa rayici ile hesaplama yapılıp (serbest piyasa rayici içerisinde KDV bulunduğundan ayrıca KDV ilave edilmemelidir) her iki kalemin toplamı yüklenicinin hakkettiği iş bedeli olarak bulunmalı, davacının ödediği bedel iş bedelinden mahsup edilmeli, fazla ödeme varsa iade edilmelidir. Mahkemece iki ayrı heyetten rapor alınmış ise de raporlar arasındaki çelişki giderilmediği gibi alınan raporlarında sözleşmeyi uygun olup olmadığı denetlememektedir. Ödemelere ilişkin olarak da davacı iş sahibi, yükleniciye fazla ödeme yaptığını ve yüklenicinin talimatıyla malzeme alınırken de dava dışı satıcılara malzeme karşılığı bedel ödediğini iddia etmiş ve muhtelif faturalar sunmuştur. Mahkemece ödemeler konusundaki bu iddialar üzerinde de durulmalı, ödeme konusu netliğe kavuşturulmalıdır.
 
@@ -120,6 +138,8 @@ SONUÇ: Yukarıda 1. bentte açıklanan nedenlerle tarafların diğer temyiz iti
 …
 
 ## Yargıtay 23. HD 2019/317 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/478071900)
 
 Mahkemece iddia, savunma ve tüm dosya kapsamına göre, asıl dava yönünden davanın kabulü ile sözleşmenin iptaline, karşı dava yönünden ise davanın kabulü ile 1.438,75TL’nin davacılardan tahsiline karar verilmiştir.
 
@@ -135,6 +155,8 @@ SONUÇ: Yukarıda açıklanan nedenlerle, asıl ve karşı dava yönünden hükm
 
 ## Yargıtay 23. HD 2019/267 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/477407500)
+
 Davacı vekili, müvekkillerinin murisi İlhan ... ile yüklenici davalılar arasında 07.01.1991 tarihinde arsa payı karşılığı inşaat sözleşmesi imzaladığını, davalıların 17 adet villa yapımı işini üstlendiğini, 3 adet villlanın temel atılarak yarım bırakıldıklarını, diğer villa inşaatlarına ise hiç başlanılmadığını, oysa ki inşaatın 1993 Eylül sonunda bitirilmesi gerektiğini ileri sürerek sözleşmenin feshini talep ve dava etmiştir.
 
 Davalılar, davanın reddini savunmuştur.
@@ -149,6 +171,8 @@ SONUÇ: Yukarıda açıklanan nedenlerle, davacılar vekilinin temyiz itirazlar�
 
 ## Yargıtay 23. HD 2019/62 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/478832400)
+
 Mahkemece bozma ilamına uyularak, keşif yapılıp, bilirkişi raporu ve ek rapor alınmak suretiyle 24.09.2014 tarih ve 2007/449 Esas, 2014/409 Karar sayılı kararı ile davalı yüklenici şirketin sözleşmedeki edimini yerine getirmediği, davaya konu binayı ilk projeye aykırı inşa ettiği, bunun üzerine iskan izni almak amacıyla tadilât projesi hazırlanmasına rağmen tadilât projesine uygun olarak binadaki aykırılıkları gideremediği, dosyada alınan tüm bilirkişi raporları ile dava konusu binanın projeye, tadilât projesine, imar mevzuatına ve deprem yönetmeliğine aykırı yapılmış kaçak bir bina olduğundan mevcut haliyle iskan ruhsatı almasının mümkün olmadığı, kaçak bina konumunda olan binanın yıkımı zorunlu olduğundan binanın arsa sahibi olan davacıların malvarlığında artı değer yaratması söz konusu olamayacağından ve sözleşmenin feshi gerekeceğinden, bu durumda arsa sahipleri olarak davacıların gecikme nedeniyle kira kaybı tazminatı istemeleri mümkün olup, bunun dışında tapu iptali ve tescil, eksik ... bedeli istenemeyeceğinden davacıların tapu iptal tescil, eksik ... bedeli ve ecrimisil dışındaki diğer taleplerinin reddine, ecrimisil taleplerinin kısmen kabulüne, davalı ... ve dahili davalı
 hakkındaki davanın reddine karar verildiği, birleşen ...
 
@@ -160,6 +184,8 @@ bölüm yapıldığı iddiası ile bu bölümlerden paylarına düşen kısmın 
 yıkım da gerekiyorsa doğal olarak, iskân edilen bölümlerin veya binanın tümünü ilgilendiren kısımların yıkımının gerekmesi halinde iskân eden şahıslara karşı tahliyenin sağlanması gerektiğinden bu konuda dava açması için yükleniciye yetki ve süre verilmesi gerekmesi ve bunun sonucuna göre de bina yasal hale getirilebildiği takdirde yine tescil isteminin aynı doğrultuda değerlendirilmesi lazımken eksik incelemeyle binanın yasal hale getirme yöntemi açık bir şekilde tespit .../...
 
 ## Yargıtay 14. HD 2019/48 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/477493800)
 
 Dava, yüklenicinin temlikine dayalı tapu iptali ve tescil istemine ilişkindir.
 
@@ -180,6 +206,8 @@ SONUÇ: Yukarıda açıklanan nedenlerle; bir kısım davalılar vekillerinin te
 
 ## Yargıtay 13. HD 2018/11597 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/480186000)
+
 Davacı, 21/05/2007 tarihli satış sözleşmesi ile davalı müteahhitlerden 67.000 Euro karşılığı bir adet daire satın aldığını, taşınmazın 15.08.2008 tarihinde teslim edileceğinin 10.000 Euro'nun peşin, geri kalanın ise senetler imzalanarak ödeneceğinin kararlaştırıldığını, davalıların satış sözleşmesi öncesinde gösterilen katalogda yer aldığı halde her bağımsız bölüm için yapılması gereken 80-m2 lik hobi bahçesinin yapılmadığını, süs havuzunun inşaa edilmediğini, binanın giriş kısmını farklı yerde yaptıklarını, 2008 yılı temmuz ayında daireyi kabul etmeyeceğini bildirdiğini, davalıların bugüne kadar ifayı kabul teklifinde bulunmadığını bu hususun fesih iradesinin davalılarca kabul edildiğinin göstergesi olduğunu ileri sürerek, ödenen 10.000 Euronun faiziyle birlikte iadesi ile 57.000 Euro bedelli senetlerin bedelsizliğinin tespitine karar verilmesini istemiştir.
 
 Davalılar, sözleşme konusu tarafından yapılan inşaatın bittiğini mesken ruhsatının alındığını, davacının 10.000 Euro ödediğini ancak bakiye bedeli ödemediğini, satılan dairenin boş ve kullanıma hazır olduğunu, daire bedelinin tahsil edilmediğini savunarak, davanın reddini dilemiştir.
@@ -192,6 +220,8 @@ Sözleşmeye göre taşınmazın davacıya teslim tarihi 15.08.2008 olup, taşı
 SONUÇ: Yukarıda açıklanan nedenlerle temyiz edilen hükmün davacı yararına BOZULMASINA …
 
 ## Yargıtay 23. HD 2018/5984 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/468725500)
 
 Davacı vekili, davacı yüklenici ile davalı arsa sahipleri arasında ....03.2012 tarihli arsa payı karşılığı inşaat sözleşmesi imzalandığını, ancak dava dışı arsa sahipleri... ile...'in tanzim ettikleri belgelerin eksik ve yetersiz olması sebebiyle inşaata başlayamadıklarını, ayrıca inşaat yapılacak alanın miktarının kayıtlara yanlış geçirildiğini ve hisse paylarının farklı yazıldığını, bunlardan dolayı inşaata başlanılamadığından edimin yerine getirmesinde davacının kusuru olmadığını ileri sürerek sözleşmenin haklı nedenle feshini ve yapılan masrafların iadesi amacıyla şimdilik ....000,00 TL'nin tahsilini talep ve dava etmiştir.
 
@@ -209,6 +239,8 @@ SONUÇ: Yukarıda (...) numaralı bentte açıklanan nedenlerle, hükmün re'sen
 
 ## Yargıtay 23. HD 2018/5562 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/470162500)
+
 Mahkemece iddia, savunma, bilirkişi raporu ve dosya kapsamına göre, asıl dava bakımından inşaatın tamamlanma oranı nedeniyle sözleşmenin geçmişe etkili feshinin mümkün olmadığı, sözleşme gereği inşaatın süresinde teslim edilmediği, ....03.2012 tarihinde ... bitirme tutanağı düzenlendiği davacının talep edebileceği kira kaybının 56.759,...
 
 …
@@ -223,6 +255,8 @@ Bu nedenle mahkemece yukarıda zikredilen mevzuat uyarınca müracaat olup olmad
 SONUÇ: Yukarıda (...) no'lu bentte açıklanan nedenlerle asıl davada davacı-birleşen davada davalı vekilinin temyiz itirazlarının kabulü ile hükmün asıl davada davacı/ birleşen davada davalı yararına BOZULMASINA …
 
 ## Yargıtay 23. HD 2018/5446 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/463198100)
 
 Davacı vekili, davacı arsa sahibi ile davalı yüklenici arasında 16.10.2000 tarihli arsa payı karşılığı inşaat sözleşmesi yapıldığını, davalının uzun yıllar inşaatı yapmaması nedeni ile mahkeme kararıyla sözleşmenin geriye etkili şekilde feshedildiğini, kararın 21.11.2011 tarihinde kesinleştiğini ileri sürerek şimdilik 3.000,00 TL ecrimisil ile 29.000,00 TL menfi zarar bedelinin yasal faiziyle davalıdan tahsilini talep ve dava etmiştir.
 

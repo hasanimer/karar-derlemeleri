@@ -22,6 +22,8 @@ uyari: "Derleyenin seçtiği alıntılardır; kararın tamamı değildir. Künye
 
 ## Yargıtay 6. HD 2023/2057 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/944459300)
+
 Davacılar vekilleri dava dilekçesinde; müvekkilleri ile davalılardan ... İnş. Ltd.
 
 …
@@ -40,6 +42,8 @@ Temyiz olunan Bölge Adliye Mahkemesi kararının 6100 sayılı Kanunun 370 nci 
 
 ## Yargıtay 5. HD 2022/15207 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/833526200)
+
 Dava, bağımsız bölümlere özgülenen arsa paylarının yeniden düzenlenmesi istemine ilişkindir.
 
 …
@@ -53,6 +57,8 @@ Bozma sonrası alınan uzman bilirkişi raporunda incelemenin kat irtifakı tari
 Bu itibarla yukarıda açıklanan esaslar gözönünde tutulmaksızın yazılı şekilde hüküm tesisi isabetsiz, temyiz itirazları bu nedenlerle yerinde olduğundan kabulü ile hükmün HUMK'un 428.maddesi gereğince BOZULMASINA …
 
 ## Yargıtay 6. HD 2022/6043 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/860100700)
 
 Davacı vekili, müvekkili ile davalılardan ... ve ... arasında imzalanan 24.11.2000 tarihli arsa payı karşılığı inşaat sözleşmesi imzalanıp diğer davalıların sözleşmeye muvafakat ettiklerini, müvekkilinin sözleşmeye konu arsada Meram Belediyesine ait hisseyi satın aldığını, sözleşme gereği arsa üzerine yapılacak inşaatın %50'sinin arsa sahiplerine %50'sinin yüklenici olarak müvekkiline ait olacağının kararlaştırıldığını, bu durumda müvekkilinin payına 237 m² inşaat alanı isabet ettiği halde sadece 136.5 m²'lik kısmın tapusunun ferağının verildiğini ileri sürerek, eksik kalan 101 m²'lik kısmın davalılar adına olan tapu kaydının iptali ile müvekkili adına tescilini ve Meram Belediyesinden satın aldığı 32/505 hisseye tekabül eden 67.70 m²'lik kısmın bedelinin davalılardan tahsiline karar verilmesini talep ve dava etmiştir.
 
@@ -76,6 +82,8 @@ SONUÇ: Yukarıda açıklanan nedenlerle bir kısım davalılar vekilinin temyiz
 
 ## Yargıtay 5. HD 2022/5803 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/757097200)
+
 Davacılar vekili, arsa paylarının yeniden düzenlenmesini istemiştir. Mahkemece davanın kabulüne karar verilmiş, davalı ... vd. vekili kararı temyiz etmiştir.
 
 Dava, bağımsız bölümlere özgülenen arsa paylarının yeniden düzenlenmesi istemine ilişkindir.
@@ -87,6 +95,8 @@ Dava, bağımsız bölümlere özgülenen arsa paylarının yeniden düzenlenmes
 Davalı ... vd. vekilinin temyiz itirazlarının kabulü ile hükmün HUMK’un 428.maddesi gereğince BOZULMASINA …
 
 ## Yargıtay 5. HD 2022/4760 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/757214800)
 
 Davacılar vekili, arsa paylarının yeniden düzenlenmesini istemiş, mahkemece davanın reddine karar verilmiştir. Davacılar vekili istinaf başvurusunda bulunmuş, İstanbul Bölge Adliye Mahkemesi 36. Hukuk Dairesi'nce istinaf başvurusunun esastan reddine karar verilmiştir.
 
@@ -102,6 +112,8 @@ Somut olayda, taşınmazda 1989 tarihinde kat irtifakının kurulduğu, ana yap�
 Davacılar vekilinin temyiz itirazlarının kabulü ile İstanbul Bölge Adliye Mahkemesi 36. Hukuk Dairesi'nin 05/11/2021 tarih ve 2019/1079 E. - 2021/2308 K. sayılı kararının KALDIRILMASINA …
 
 ## Yargıtay 7. HD 2022/2453 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/760727700)
 
 Davalı ... Alüminyum Sanayi ve Ticaret Anonim Şirketi vekili; ipoteğin kaldırılması için davacı şirket tarafından hiçbir neden öne sürülmediğini, ipotek hakkının devamının kanun gereği olduğunu, huzurdaki davanın reddine karar verilmesi gerektiğini savunmuştur.
 
@@ -119,6 +131,8 @@ Yukarıda açıklanan nedenlerle davalı ... vekili ve davalı ... Alüminyum Sa
 
 ## Yargıtay 6. HD 2022/2269 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/768104300)
+
 Davalı ..., iyiniyetli 3. kişi konumunda olduğunu ve tapu siciline güvenerek tapuyu devraldığını, davalı ... ise murisin sağlığında dairenin dava dışı ... ve ... adına tapuya tescil edildiğini, murisin haberi olmasaydı işlemin yapılmayacağını, arsa sahibi ile yüklenici arasındaki ilişkiyi bilecek durumda olmadığını, muvazaalı işlem yapmadığını savunmuştur.
 
 İlk derece mahkemesince; muvazaanın ispat edilmediği, kat karşılığı inşaat sözleşmesinde yükleniciye verilen dairelerin avans mahiyetinde olduğu, yükleniciye ileri sürülebilecek itirazların yükleniciden devralan kişiye de ileri sürülebileceği, son malikin yükleniciden değil ikinci malikten bağımsız bölüm satın alması nedeni ile sözleşme kapsamında 3. kişi olmadığından bahisle davanın reddine karar verilmiştir.
@@ -134,6 +148,8 @@ SONUÇ: Yukarıda açıklanan nedenlerle davacılar vekilinin temyiz itirazını
 
 ## Yargıtay 5. HD 2021/6030 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/688698700)
+
 Mahkemece, davacının maliki bulunduğu 5 ve 13 numaralı bağımsız bölümleri dava devam ederken davalı ... tarafından 6306 sayılı Kanun ile iktisap edildiğinden dava konusuz kaldığı gerekçesiyle davanın reddine karar verilmiş, hüküm, davacı vekili tarafından temyiz edilmiştir. Yargıtay (kapatılan) 20.
 
 …
@@ -148,6 +164,8 @@ Açıklanan hüküm, anataşınmaz üzerinde yapının yıkılıp kat mülkiyeti
 Davacı vekilinin kararın düzeltilmesi isteminin kabulü ile Yargıtay (kapatılan) 20. Hukuk Dairesinin 18/02/2019 gün ve 2017/7962 E.- 2019/1072 K. sayılı kararının KALDIRILMASINA …
 
 ## Yargıtay 14. HD 2021/4366 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/676722900)
 
 Davalı ...Tasarım Proje İnş. Mim.
 
@@ -167,6 +185,8 @@ SONUÇ: Yukarıda yazılı nedenlerle; 6100 sayılı HMK’nın 371. maddesi uya
 
 ## Yargıtay 1. HD 2021/2432 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/680713600)
+
 Dava, vekalet görevinin kötüye kullanılması hukuksal nedenine dayalı tapu iptal ve tescil istemine ilişkindir.
 
 Davacı, paydaşı olduğu 1853 ada 11 parsel sayılı taşınmaza bir bina inşa edilmesi için annesi...yı davalıların mirasbırakanı ... ile birlikte vekil tayin ettiklerini, gayrimenkul satış vaadi ve kat karşılığı inşaat sözleşmesine göre arsa maliklerine zemin katta bir dükkan ve 4 dairenin kalacağının kararlaştırıldığını ancak 18/254 arsa paylı 3 nolu dükkanın tamamının vekalet yetkisi kötüye kullanılarak ... adına tescil edildiğini, işlem tarihinde vekili ...’nın yaşlı olup yönlendirme ile hareket ettiğini, kat irtifakı tesis edilirken davalıların mirasbırakanına 16/254 arsa paylı olarak 2 adet bağımsız bölüm ile 18/254 arsa paylı bir adet dükkan verilirken kendisine verilen bağımsız bölümlerin arsa paylarının 25/254 olarak gösterildiğini ileri sürerek kat irtifakı tablosundaki usulsüzlüğün giderilmesini, 3 nolu bağımsız bölümün yarı payının kendisine verilmesini, maliki olduğu 8 ve 10 nolu bağımsız bölümlerin arsa payının 20/254 olarak düzletilmesini, buradan gelecek 10/254 payın 3, 9 ve 11 nolu bölümlere eklenmesini istemiş, aşamada 8 ve 10 nolu bölümlerin devredilmesi üzerine ... ve ... davaya dahil edilmiştir.
@@ -182,6 +202,8 @@ Hal böyle olunca, öncelikle dava konusu taşınmazın kat irtifakı tesisine i
 Davacı vekilinin yerinde bulunan temyiz itirazlarının kabulü ile hükmün (6100 sayılı Yasanın geçici 3.maddesi yollaması ile) 1086 sayılı HUMK'un 428.maddesi gereğince BOZULMASINA …
 
 ## Yargıtay 7. HD 2021/1935 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/740426400)
 
 Dava, satış vaadi sözleşmesine dayalı tapu iptali ve tescil; ikinci kademede tazminat istemine ilişkindir.
 
@@ -204,6 +226,8 @@ SONUÇ: Yukarıda açıklanan nedenlerle davacılar vekilinin temyiz itirazları
 
 ## Yargıtay 15. HD 2021/485 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/642518800)
+
 Dava, yüklenici temlikine dayalı tapu iptali ve tescil istemine ilişkindir.
 
 …
@@ -214,6 +238,8 @@ Bu nedenle mahkemenin gerekçesinde isabet bulunmamaktadır.Mahkemece öncelikle
 bu bedeller depo edildiğinde sözleşme ifa ile sonuçlanmış olacağından sonucuna uygun karar verilmelidir.SONUÇ: Temyiz itirazlarının yukarıda açıklanan nedenlerle kabulü ile hükmün BOZULMASINA, karara karşı tebliğ tarihinden itibaren 15 gün içinde karar düzeltme isteminde bulunulabileceğine, 24.02.2021 gününde oy birliğiyle karar verildi.
 
 ## Yargıtay 15. HD 2020/2847 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/648264000)
 
 Dava, arsa payı karşılığı inşaat yapım sözleşmesinden kaynaklanmakta olup, tapu iptâli ve tescil, menfi tespit ve alacağın tahsili istemine ilişkindir.
 
@@ -229,6 +255,8 @@ SONUÇ: Yukarıda 1. bentte açıklanan nedenlerle davalının diğer temyiz iti
 
 ## Yargıtay 15. HD 2020/2695 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/647992500)
+
 Dava, arsa payı karşılığı inşaat yapım sözleşmesi uyarınca davacı yükleniciye bırakılıp da devredilmeyen bağımsız bölüme ait davalı adına olan tapu kaydının iptâli ile davacı adına tapuya kayıt ve tescili istemine ilişkindir.
 
 …
@@ -242,6 +270,8 @@ Ancak resmi şekilde yapılmamış olmakla birlikte arsa sahibi tarafından söz
 SONUÇ: Yukarıda açıklanan nedenlerle temyiz itirazlarının kabulü ile ...Bölge Adliye Mahkemesi 1. Hukuk Dairesi kararının kaldırılarak ilk derece mahkemesi hükmünün davalı yararına BOZULMASINA …
 
 ## Yargıtay 15. HD 2020/2239 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/602317400)
 
 Dava, arsa payı karşılığı inşaat yapı sözleşmesi uyarınca tapu iptâli ve tescil istemine ilişkindir.
 

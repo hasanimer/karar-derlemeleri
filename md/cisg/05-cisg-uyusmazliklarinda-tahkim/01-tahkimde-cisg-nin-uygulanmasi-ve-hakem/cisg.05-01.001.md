@@ -20,8 +20,12 @@ uyari: "Derleyenin seçtiği alıntılardır; kararın tamamı değildir. Künye
 
 ## Yargıtay 11. HD 2025/2304 K. (Bölge Adliye Mahkemesinin gerekçesi; Yargıtay 11. HD tarafından onanmıştır)
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1144521200)
+
 … davacı vekilinin MTK'nın 15/A.1(e) bendine dayalı iptal sebeplerinin reddi gerektiği, hakem kararı maddi ve hukuki gerekçeler bakımından yeterli olduğundan davacı vekilinin MTK'nın 15/A.1(f) bendine dayalı iptal sebeplerinin yerinde görülmediği…
 
 ## Yargıtay 19. HD 2020/154 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/581699400)
 
 Bu belirlemelerden sonra davacının tahkim yolu ile ek dava açılamayacağına ilişkin temyiz itirazının incelenmesinde; taraflar arasındaki tahkim sözleşmesininde uygulanacak hukuk olarak Türk hukuku ve 1980 tarihli Uluslararası satım sözleşmelerine ilişkin Birleşmiş Milletler anlaşması(CISG) uygulanacağı kararlaştırılmış, tahkim heyetince de 18.04.2017 tarihli karar ile uygulanacak hukukun, Türk maddi hukukunun emredici kurallarına aykırı düşmeyen CISG hükümleri ile birlikte Türk maddi hukuku kuralları olduğunu belirlemişlerdir. İTO tahkim yargılama usülüne ilişkin yönetmelik ve CISG'de ek dava ve kısmi dava ile ilgili herhangi bir hüküm bulunmamaktadır. Bu durumda HMK ‘da yer alan kısmi dava ve ek dava ile ilgili hükümlerin uygulanması gerekir.

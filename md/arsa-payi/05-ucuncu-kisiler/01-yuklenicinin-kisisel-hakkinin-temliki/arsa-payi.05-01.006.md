@@ -22,6 +22,8 @@ uyari: "Derleyenin seçtiği alıntılardır; kararın tamamı değildir. Künye
 
 ## Yargıtay 15. HD 2020/1144 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/589149900)
+
 Dava, yüklenicinin temliki nedenine dayalı tapu iptâli tescil, olmadığı takdirde bedel iadesi istemine ilişkindir.
 
 …
@@ -40,6 +42,8 @@ SONUÇ: Yukarıda açıklanan nedenlerle temyiz itirazlarının kabulü ile hük
 
 ## Yargıtay 15. HD 2020/992 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/648048400)
+
 Dava, yüklenicinin temlikine dayalı tapu iptâli, tescil isteğine ilişkindir.
 
 …
@@ -57,6 +61,8 @@ SONUÇ: Yukarıda açıklanan nedenlerle davacı vekilinin temyiz itirazlarını
 
 ## Yargıtay 15. HD 2020/884 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/648110200)
+
 Davalı arsa sahibi ... vekili cevap dilekçesinde; davacı ile müvekkili arasında akdî ilişkinin bulunmadığını, davalı yüklenici ...'ın sözleşmenin şartlarını yerine …
 
 …
@@ -70,6 +76,8 @@ Alacağın devri (temliki) 6098 sayılı TBK'nın 183 ila 194. maddelerinde düz
 SONUÇ: Yukarıda açıklanan nedenlerle temyiz itirazlarının kabulü ile hükmün davalı ... yararına BOZULMASINA …
 
 ## Yargıtay 1. HD 2020/361 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/576619700)
 
 Dava, muris muvazaası hukuksal nedenine dayalı tapu iptali-tescil, üçüncü kişilere temlik edilen taşınmazlar bakımından ise bedel olmazsa tenkis isteklerine ilişkindir.
 
@@ -89,6 +97,8 @@ Davalıların anılan yönlere değinen ve yerinde bulunan temyiz itirazlarını
 
 ## Yargıtay 1. HD 2019/6307 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/592624000)
+
 Davalı ..., müteahhit olduğunu, dava konusu taşınmaza 2 blok halinde 16 daire yaptığını, 4 daireyi diğer davalı ...'e sattığını ve tüm bu işlemlerin ticari mahiyette olup işlemlerin usulüne uygun yapıldığını belirterek davanın reddini savunmuşlardır.
 
 Mahkemece, mirasbırakanın vekaletname ve temlik tarihlerinde hukuki ehliyeti haiz olduğunun Adli Tıp Kurumu raporuyla saptandığı, yapılan temlikin mirasçılardan mal kaçırma amaçlı ve muvazaalı olduğu gerekçesiyle davanın kabulüne karar verilmiş, Dairenin 06.03.2019 tarih ve 2016/4829 E 2019/1597 K sayılı ilamı ile asıl ve birleştirilen davaların reddi gerektiğinden bahisle hüküm bozulmuştur.
@@ -102,6 +112,8 @@ Mirasbırakan dava konusu 1.174,92 m2’lik arsa niteliğindeki 372 ada 16 sayı
 Bozma ilamındaki gerekçelerle karar düzeltme isteğinin reddi gerektiği kanaatinde olduğumuzdan karar düzeltme isteğinin kabulüyle mahkeme hükmünün onanmasına ilişkin sayın çoğunluğun kararına katılmıyoruz.
 
 ## Yargıtay 1. HD 2019/4138 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/515884900)
 
 Dava, muris muvazaası hukuksal nedenine dayalı tapu iptali ve tescil olmadığı takdirde tazminat istemine ilişkindir.
 
@@ -121,11 +133,15 @@ Kabule göre de; davalının çekişme konusu 1781 ada 1 parsel sayılı taşın
 
 ## Yargıtay 1. HD 2019/4123 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/515944900)
+
 Bu durumda, yerleşmiş Yargıtay içtihatlarında ve 1.4.1974 tarihli 1/2 sayılı İçtihadı Birleştirme Kararında açıklandığı üzere görünürdeki sözleşme tarafların gerçek iradelerine uymadığından, gizli bağış sözleşmesi de Türk Medeni Kanunu'nun (TMK) 706., Türk Borçlar Kanunu'nun (TBK) 237. (Borçlar Kanunu'nun (BK) 213.) ve Tapu Kanunu'nun 26. maddelerinde öngörülen şekil koşullarından yoksun bulunduğundan, saklı pay sahibi olsun veya olmasın miras hakkı çiğnenen tüm mirasçılar dava açarak resmi sözleşmenin muvazaa nedeni ile geçersizliğinin tespitini ve buna dayanılarak oluşturulan tapu kaydının iptalini isteyebilirler.Hemen belirtmek gerekir ki; bu tür uyuşmazlıkların sağlıklı, adil ve doğru bir çözüme ulaştırılabilmesi, davalıya yapılan temlikin gerçek yönünün diğer bir söyleyişle miras bırakanın asıl irade ve amacının duraksamaya yer bırakmayacak biçimde ortaya çıkarılmasına bağlıdır. Bir iç sorun olan ve gizlenen gerçek irade ve amacın tespiti ve aydınlığa kavuşturulması genellikle zor olduğundan bu yöndeki delillerin eksiksiz toplanılması yanında birlikte ve doğru şekilde değerlendirilmesi de büyük önem taşımaktadır.
 Bunun için de ülke ve yörenin gelenek ve görenekleri, toplumsal eğilimleri, olayların olağan akışı, mirasbırakanın sözleşmeyi yapmakta haklı ve makul bir nedeninin bulunup bulunmadığı, davalı yanın alım gücünün olup olmadığı, satış bedeli ile sözleşme tarihindeki gerçek değer arasındaki fark, taraflar ile miras bırakan arasındaki beşeri ilişki gibi olgulardan yararlanılmasında zorunluluk vardır.Somut olaya gelince;davalı ... ile muris ...arasında imzalanmış bir kat karşılığı inşaat sözleşmesinin bulunmadığı, dava konusu 1539 parsel sayılı taşınmaz arsa vasfında iken muris tarafından davalı ...’e satış suretiyle temlik edildiği daha sonra üzerine bina inşa edildiği ve bir kısım bağımsız bölümlerin davalılar ve murise satıldığı, davacıların, davalılara yapılan satışların muvazaalı olduğunu ileri sürerek eldeki davayı açtıkları, ancak eldeki davanın kabulü halinde hak sahibi olacak diğer mirasçılar ..., ... ve ...’nin davalı tanığı olarak alınan ifadelerinde satış işlemlerinin gerçek olduğunu, davalı kardeşlerinin dava konusu 5,6,7 ve 8 nolu bağımsız bölümleri bedelini ödeyerek satın aldıklarını, hatta aynı binadan daire almaları hususunun kendilerine de teklif edildiğini, ancak kabul
 etmediklerini beyan ettikleri,dosya kapsamında muris muvazaasının varlığını gösteren başka bir delilin de bulunmadığı, bedeller arasındaki farkın tek başına muvazaanın kanıtı olamayacağı açıktır.Hal böyle olunca, muris muvazaası iddiasının kanıtlanamadığı gözetilerek davanın reddine karar verilmesi gerekirken yanılgılı değerlendirme ile yazılı şekilde karar verilmesi doğru değildir. Davalıların yerinde görülen temyiz itirazının kabulüyle, hükmün (6100 sayılı Yasanın geçici 3.maddesi yollaması ile) 1086 sayılı HUMK'un 428.maddesi gereğince BOZULMASINA, alınan peşin harcın temyiz edene geri verilmesine, 26.06.2019 tarihinde oybirliğiyle karar verildi.
 
 ## Yargıtay 23. HD 2019/3959 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/535542000)
 
 Davacılar vekili, davacı arsa sahipleri ile dava dışı yüklenici arasında düzenleme şeklinde arsa payı karşılığı inşaat sözleşmesi imzalandığını, sözleşmeye göre taşınmazın anahtar teslimi kararlaştırıldığı halde yüklenicinin iskân almadan inşaatı bıraktığını, davalıların ise yükleniciden konut alan bağımsız bölüm malikleri olduğunu, halefiyet kuralları gereği sözleşme uyarınca yüklenicinin ödemesi gereken SGK borçlarından sorumlu olduklarından bahisle davacı arsa sahipleri tarafından ödenen SGK prim borcunun davalılardan arsa payları oranında tahsilini talep etmiştir.
 
@@ -141,6 +157,8 @@ SONUÇ: Yukarıda (1) numaralı bentte açıklanan nedenlerle davacılar vekilin
 
 ## Yargıtay 15. HD 2019/1552 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/500067300)
+
 Dava, arsa payı karşılığı inşaat yapım sözleşmesi gereğince tapu kaydının iptâl ve tescili istemine ilişkindir.
 
 …
@@ -155,6 +173,8 @@ SONUÇ: Yukarıda 1. bentte açıklanan nedenlerle tarafların diğer temyiz iti
 
 ## Yargıtay 15. HD 2019/686 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/479668300)
+
 Öte yandan apartman yönetiminin tüzel kişiliği olmadığından taraf sıfatı bulunmamakla birlikte 634 sayılı Kat Mülkiyeti Kanunu'nun 35. maddesinde belirtilen yöneticinin görevleri kapsamında ve bununla sınırlı olan sözleşme yapma yetkisi ve buna ilişkin uyuşmazlıklarda taraf sıfatı ile ehliyetinin bulunduğu kabul edilmektedir (Yargıtay 15. Hukuk Dairesi'nin 27.03.2009 gün 2008/1563 Esas, 2009/1782 ; 28.02.2012 gün 2010/7597 Esas 2012/1183 Karar; 10.05.2010 gün 2009/1180 Esas 2010/2748 Karar sayılı ilamları). Apartman yöneticisinin kat karşılığı inşaat yapım sözleşmesine dayanarak dava açması mümkün değildir.
 
 Bu açıklamalardan sonra somut olaya gelince; 14.10.2009 tarihli Kat Karşılığı İnşaat Yapım Sözleşmesi'nin 5. maddesi 2. fıkrasında sözleşmenin tarafı olarak A ve G bloktan daire alacak arsa sahiplerinin kat irtifakına göre hisselerini başkalarına devir ve satış yapabilecekleri, sattıkları kişilerin de bu sözleşme ile bağlı kalacakları, arsa sahiplerinden daire satın alan kişilerin de bu sözleşme ve hükümlerinden yararlanacakları kararlaştırılmıştır. Bu madde hükmü gereği pay devri halinde sözleşmeden doğan haklarından arsa sahiplerinden bağımsız bölüm satın alanlara temlik edilmiş olacağı kararlaştırıldığından arsa sahiplerinden bağımsız bölüm satın alan kişiler arsa payı karşılığı inşaat yapım sözleşmesi uyarınca yükleniciye karşı talepte bulunabilir ve dava açabilirler. Ancak sözleşmedeki bu hak arsa sahiplerinden ilk olarak bağımsız bölüm satın alan 3. kişilere tanınmış olup, arsa sahibinden bağımsız bölümü satın alandan devralan 4. kişi ile Kat Mülkiyeti Yasası'nın 35. maddesinde sayılan görevleri arasında sayılmadığından apartman yönetiminin bundan yararlanması mümkün değildir.
@@ -165,6 +185,8 @@ Davacılardan ... maliki olduğu 13 nolu bağımsız bölümü arsa sahibi ...'d
 SONUÇ: Yukarıda açıklanan nedenlerle temyiz itirazlarının kabulü ile hükmün temyiz eden davalı ... Başkanlığı yararına BOZULMASINA …
 
 ## Yargıtay 14. HD 2018/6280 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/460916900)
 
 Dava, yükleniciden temlik alınan bağımsız bölüme ilişkin tapu iptal ve tescil istemine ilişkindir.
 
@@ -187,6 +209,8 @@ SONUÇ: Yukarıda açıklanan nedenlerle davalı ... vekilinin temyiz itirazlar�
 
 ## Yargıtay 23. HD 2018/5973 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/468715600)
+
 Davacı vekili, müvekkilinin 2547 ada ... parselde kayıtlı ... numaralı dubleks villanın maliki olduğunu, ilgili taşınmaza ait davalı yüklenici tarafından yapılması gereken eksik ve kusurlu imalatların söz konusu olduğunu ileri sürerek ....000,00 TL.nin davalıdan tahsiline karar verilmesini talep ve dava etmiştir.
 
 Davalı, davanın reddini istemiştir.
@@ -202,6 +226,8 @@ SONUÇ:Yukarıda açıklanan nedenlerle davacı vekilinin temyiz itirazlarının
 
 ## Yargıtay 13. HD 2018/4957 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/420536600)
+
 Davacı, Harici Satış Sözleşmesi ile davalı ... Şirketinden kat karşılığı inşaat sözleşmesi ile kendisine bırakılan bir bağımsız bölümü satın aldığını ve sözleşme gereği öngörülen bedelin de davalı tarafa ödendiğini, buna rağmen sözleşme konusu taşınmazın bu davalı tarafından diğer davalı ...'a satılmış olduğunu beyan ederek, dava konusu bağımsız bölümün davalı ... adına olan tapusunun iptali ile davacı adına tesciline karar verilmesini istemiş; Daha sonra davacı tarafından davalı ... yönünden açılan davanın 25/10/2013 tarihli celsede takip edilmeyerek işlemden kaldırıldığı ve davacı vekilinin 27.06.2013 havale tarihli dilekçesi ile davasını ıslah ederek tazminat davasına çevirerek 45.000,00 TL'nin davalı şirketten tahsiline karar karar verilmesinin talep edildiği görülmüştür …
 
 Davalı ... davanın reddini dilemiş, diğer davalı dava dilekçesine karşı bir yanıt vermeyerek davayı inkar etmiştir.
@@ -215,6 +241,8 @@ Dosya arasında mevcut davalı ile dava dışı arsa malikleri arasında imzalan
 SONUÇ: Yukarıda açıklanan nedenle kararın BOZULMASINA …
 
 ## Yargıtay 23. HD 2018/4820 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/447678700)
 
 Davacılar vekili, müvekkili yüklenici ... ile davalı arsa sahibi arasında düzenlenen arsa payı karşılığı inşaat sözleşmesi uyarınca, müvekkilinin sözleşmeden kaynaklanan edimlerini yerine getirmesine rağmen, davalının bir kısım bağımsız bölümlerin tapularını devretmediğini, bu bağımsız bölümlerden 45 parsel ... no’lu bağımsız bölümün davacı ...’ya, ... no’lu bağımsız bölümün davacı ...’a, ...
 

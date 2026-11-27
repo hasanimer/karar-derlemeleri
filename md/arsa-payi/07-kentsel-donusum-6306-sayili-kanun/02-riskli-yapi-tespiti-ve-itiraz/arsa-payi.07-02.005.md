@@ -21,6 +21,8 @@ uyari: "Derleyenin seçtiği alıntılardır; kararın tamamı değildir. Künye
 
 ## Yargıtay 23. HD 2013/2695 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/484508800)
+
 Davacı vekili, müvekkili yüklenici ile arsa sahibi davalı arasında ....08.2002 tarihinde arsa payı karşılığı inşaat sözleşmesi imzalandığını, müvekkilinin inşaatı süresinde tamamlayarak 2003 yılında davalıya teslim ettiğini, ancak davalı tarafından sözleşmeye aykırı şekilde kurulan kontrol teşkilatınca ........2010 tarihinde tutulan tutanak ile, inşaatın projeye aykırı olduğu, 918,92 m² fazla kusurlu imalatın bulunduğu, projeye aykırı kısımların yıkılarak yeniden yapılması, ayrıca geç teslim nedeniyle 502.530 TL para cezasının ödenmesinin istendiğini, ancak fazla inşaatın binanın statiğini ve güvenliğini arttırmak amacıyla davalının onayı ile yapıldığını ileri sürerek, Belediye Kontrol Teşkilatı'nın ........2010 tarihli tutanakla verdiği yıkıma ve gecikme ceza bedeli tahakkukuna ilişkin kararların iptaline karar verilmesini talep ve dava etmiştir.
 
 Davalı vekili, yıkım ve ceza bedeli tahakkukuna ilişkin kararların usul ve yasaya uygun olduğunu savunarak, asıl davanın reddini istemiş; karşı davada inşaatın geç teslim edildiğini ileri sürerek, fazlaya dair hakları saklı kalmak kaydıyla ....000,00 TL gecikme cezasının davacı-karşı davalıdan tahsiline karar verilmesini talep ve dava etmiştir.
@@ -49,6 +51,8 @@ IV/1 hükmünde kararlaştırılan inşaat alanını aşan miktarda ilave iş ya
 
 ## Kayseri BAM 4. HD 2025/1044 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1171531000)
+
 Davalı vekili cevap dilekçesinde özetle;
 
 Davacı tarafın açmış olduğu davanın maddi gerçeğe ve usule aykırı olduğunu davacının iddialarının gerçek dışı olduğunu, davanın kötü niyetli olarak açıldığını, dava konusu sözleşmenin müvekkili şirket tarafından feshedilmediğini, davacı şirket yetkilisi ...'in, müvekkili şirket yetkilisi olan...'ı arayarak sözleşme konusu işi yapamayacaklarını beyan ettiğini, kaporasının iadesini istediğini, sözleşmeyi fesheden ve sonrasında peşinatı da iade alan davacı tarafın sözleşmede kararlaştırılan cezai şartı ödememek adına müvekkiline Ankara 15.
@@ -70,6 +74,8 @@ Davalı vekilinin istinaf başvurusunun ESASTAN REDDİNE …
 
 ## İstanbul BAM 45. HD 2024/989 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1055266100)
+
 Yüklenici tarafından daha önce Kooperatife 23.399,28 m² yüzölçümünde bağımsız bölüm verilmiştir. Bu miktara yukarıda 4.maddede açıklanan 504,10 m² eklenerek (23.399,28 m² +504,10 m²=) 23.903,38 m² Kooperatife isabet eden 24.176,20 m²'den tenzil edildiğinde (24.176,20 m² - 23.903,38m² =272,82 m²), Yüklenici tarafından Kooperatife 272,82 m²lik daha bağımsız bölüm verilmesi gerektiğinden, Yüklenici toplam yüzölçümleri 272,82 m²'den ibaret ... Blok 20, ... Blok 84 no'lu bağımsız bölümleri Kooperatife vermiştir. Böylece Kooperatif sözleşmedeki paylaşım oranlarına göre kendisine isabet eden bağımsız bölümlerini eksiksiz almış olmaktadır." 7.maddesinde; Yüklenici, Kooperatife isabet eden tüm bağımsız bölümleri ekli teslim tutanağı ile Kooperatife teslim etmiştir.9.maddesinde; Taraflar, yukarıdaki hükümlerin karşılıklı olarak tam, eksiksiz ve süresinde yerine getirilmesi koşuluyla, Sözleşme nedeniyle birbirlerinden her ne nam akında olursa olsun hiçbir hak, alacak ve taleplerinin kalmadığını, birbirlerinin tüm borçların kesin ve geriye dönülemez biçimde ibra ettiklerini kabul ve beyan ederler." hükümleri yer almaktadır. Bu protokol uyarınca, davalı kooperatife ... Blok 20, ...
 Blok 84 no'lu bağımsız bölümler verilmiştir. Yönetim Kurulu ve Genel Kurul Kararları 1-21/10/2013 tarih 160 no.lu yönetim kurulu kararı;"21.10.2013 Tarihinde kooperatif merkezinde toplanan yönetim kurulumuz ...A.Ş ile yapılan kat karşılığı inşaat sözleşmesinde... parselde bulunan arsamizin üzerinde yapılan ... Projesinde tarafımıza düşen %25'lik inşaatın hesaplanması için ... Şti ve ... ile %50 peşin almak üzere 16.000,TL ücret karşılığı sözleşmenin imzalanmasına oybirliğiyle karar verilmiştir." şeklinde karar alındığı,2-30/04/2014 tarih 186 no.lu yönetim kurulu kararı; Şerefiye tespit komisyonu kurulması hakkında Kooperatif dairelerinin şerefiye farklarının belirlenmesi için inşaat mühendisleri ve mimarlardan oluşan teknik bir komisyon kurulmasına hazırlanan şerefiye raporlarının noter tastikli olmasına ve bu komisyonun ... TC nolu Mimar ... ... Te nolu Inşaat Mühendisi ... ...
 
@@ -81,6 +87,8 @@ AŞ ile yapılan Üsküdar ....Noterliğinin 27.7.2017 tarih ... sayılı Kat ka
 H Ü K Ü M: Gerekçesi yukarıda izah edildiği üzere;1-Davacı vekilinin istinaf başvurusunun 6100 sayılı Hukuk Muhakemeleri Kanunu'nun 353/1.b.l bendi uyarınca ESASTAN REDDİNE …
 
 ## İstanbul BAM 17. HD 2022/644 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/769842700)
 
 Dava; doğal afet sigortalar kurumu zorunlu deprem sigorta poliçesi kapsamında hasar bedelinin tahsili istemine ilişkindir.
 
@@ -96,6 +104,8 @@ davacının binayı onarım yaptırmayarak binanın yıkımına kendi iradesi il
 
 ## İstanbul BAM 53. HD 2022/380 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/841395600)
+
 Karşılıklı edimleri içeren eser sözleşmelerinde yüklenicinin görevi eseri sözleşmesine, amacına ve tekniğine uygun tamamlayarak teslim etmek; iş sahibinin görevi ise, sözleşmede kararlaştırılan yükümlülükler varsa bunların yerine getirilmesiyle eserin bedelini ödemekten ibarettir. Kural olarak eser sözleşmesi ilişkisinin kurulması herhangi bir şekil şartına tabi olmayıp, tarafların "icap" ve "kabul" iradelerinin birleşmesiyle sözleşme ilişkisi kurulur. Şekil şartı, sözleşmenin geçerlilik şartı olmayıp, ispat şartıdır. (Yargıtay 15 Hukuk Dairesinin 25/09/2018 tarih,2018/3698 Esas, 2018/3394 karar sayılı kararı) 4721 sayılı TMK’nın “İspat yükü” başlıklı 6. maddesi “Kanunda aksine bir hüküm bulunmadıkça, taraflardan her biri, hakkını dayandırdığı olguların varlığını ispatla yükümlüdür.” hükmünü amirdir.
 Somut olayda, davacı yüklenici davalı iş sahibine yaptığını iddia ettiği "11.09.2013 tarihli riskli yapı tespit raporunun hazırlanması" işinin bedelini talep etmiş ise de, davalı iş sahibi vekili sunmuş olduğu cevap dilekçesi ve aşamalardaki beyanlarıyla davacı ile akdî ilişkiyi inkâr ettiğinden, taraflar arasında sözlü akdî ilişkinin kurulduğunu ispat külfeti davacı yüklenici üzerinde kalmaktadır.Dosya kapsamına sunulan deliller bir arada değerlendirildiğinde, davacı tarafça davaya konu icra takibine dayanak olarak sunulan; üzerinde davalı şirket kaşesi bulunan ve davacı ...
 
@@ -110,6 +120,8 @@ HÜKÜM: Gerekçesi yukarıda açıklandığı üzere;A)1- Davacı vekilinin ist
 …
 
 ## İstanbul BAM 17. HD 2021/157 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/627399700)
 
 DELİLLERİN TARTIŞILMASI VE GEREKÇE;Dava; riskli bina tespit rapor bedelinin tahsili amacıyla başlatılan icra takibine karşı itirazın iptali davasıdır.Dosya kapsamından; davacı şirket tarafından davalı şirket aleyhine İstanbul ... İcra Müdürlüğünün ... Esas sayılı dosyasında 5.900,00 TL asıl alacak, 1.631,11 TL işlemiş faiz olmak üzere toplam 7.531,11 TL'nin tahsili amacıyla 01/03/2016 tarihinde ilamsız icra takibi başlatıldığı, davalı borçlu şirket tarafından yasal süre içerisinde takibe ve borca itiraz edildiği, davacı şirketin ise İİK 67.maddesi gereğince bir yıllık hak düşürücü süre içerisinde itirazın iptali davasını açtığı, davacı tarafın icra takibine eklemiş olduğu 14/11/2013 tarihli ...
 Limited Şirketi Müdürlüğüne hitaben risk tespit raporu hakkında düzenlenmiş olan altında davalı şirket unvanı ile birlikte parafın yer aldığı dilekçenin içerisinde, 24 parsel sayılı yerde bulunan binanın 6306 sayılı yasa ile ilgili mevzuat hükümlerinden yararlanmak için riskli yapı tespit raporunun hazırlanmasına dair olduğunun belirtildiği, ekinde riskli yapıların tespit edilmesine ilişkin esaslara göre riskli bina tespit raporu inceleme formu başlığı altında maktu şekilde davalı şirket bilgilerinin yer aldığı, altında ise davacı şirket imzasının ve unvanı ile kaşesinin bulunduğu 20/11/2013 tarihli belge örneğinin olduğu anlaşılmıştır.Uyuşmazlık; davacı şirketin takip konusu hizmeti davalı şirkete verip vermediği ve ücrete hak kazanıp kazanmadığıdır.Mahkeme tarafından, Kağıthane Belediye Başkanlığı İmar ve Şehircilik Müdürlüğünden ... parsel ... kapı sayılı yer ile ilgili çap örneği sureti ve imar işlem dosya örneği, tapu kayıt örnekleri ile birlikte Çevre ve Şehircilik İl Müdürlüğünün cevabı yazısı dosya içerisine celp edilmiştir.

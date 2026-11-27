@@ -22,6 +22,8 @@ uyari: "Derleyenin seçtiği alıntılardır; kararın tamamı değildir. Künye
 
 ## Danıştay 6. D. 2024/5099 E., 2025/51 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1137497600)
+
 İlk Derece Mahkemesi kararının özeti: ...
 
 …
@@ -36,6 +38,8 @@ Dava konusu işlemlerin yukarıda özetlenen gerekçeyle iptaline ilişkin Mahke
 
 ## Danıştay 6. D. 2024/6349 E., 2025/49 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1199084000)
+
 Davalı yanında müdahiller tarafından, temyiz edilen kararda bozma nedenlerinden hiçbirisi bulunmadığından, usul ve kanuna uygun olan kararın onanması gerektiği savunulmaktadır.
 
 …
@@ -49,6 +53,8 @@ Davacının, dava konusu 2021 tarihli 1/1000 ölçekli uygulama imar planı değ
 
 ## Danıştay 6. D. 2022/8764 E., 2025/9 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1137032700)
+
 Planlı Alanlar İmar Yönetmeliğinin "Tanımlar" başlıklı 4. maddesinin 1. fıkrasının (dd) alt bendinde, "Gelişme (inkişaf) alanı: Varsa üst ölçek plan kararlarına uygun olarak, imar planında kentin gelişmesine ayrılmış olan alanı", (uuuu) alt bendinde, "Yerleşik (meskun) alan: Varsa üst ölçek plan kararlarına uygun olarak, imar planı ile belirlenmiş ve iskan edilmiş alanı", (üüüü) alt bendinde, "Yerleşme alanı: İmar planı sınırı içindeki yerleşik ve gelişme alanlarının tümünü ifade eder." tanımlarına yer verilmiştir.
 
 …
@@ -56,6 +62,8 @@ Planlı Alanlar İmar Yönetmeliğinin "Tanımlar" başlıklı 4. maddesinin 1. 
 Dava konusu işlemin İPTALİNE …
 
 ## Danıştay 6. D. 2022/8822 E., 2025/8 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1137039300)
 
 DAVACILARIN İDDİALARI :
 Davacılar tarafından, yasal statüsü riskli alan olan söz konusu planlama alanında, 2015-2022 yılları arasındaki yedi yıllık süreç içerisinde altı ayrı imar planı ile üç ayrı imar planı değişikliğinin onaylandığı ve plan kararlarının değişkenlik gösterdiği, bu durumun söz konusu planların hazırlanması aşamasında yeterli analizlerin yapılmadığının bir göstergesi olduğu, alanda uzun yıllar yapı bulunmadığı, ... kentinin açık yeşil alan ihtiyacının bulunduğu, gerek mevzuat gerek planlama esasları ve şehircilik ilkeleri açısından sağlıklı bir kentsel çevre oluşturulabilmesi için ihtiyaç olan sosyal alt yapı alanlarının imar planlarında ayrılmasının zorunlu olduğu, imar planlarında jeolojik etüt raporları ile "uygun olan alan" olarak belirlenen alanların, imar planlarında yapılaşmaya açılmasına yönelik mevzuatta ve planlama esaslarında herhangi bir zorunluluk bulunmadığı, aksine alanın yapılaşmamış olduğu, dolasıyla kamuya kazandırılması açısından fırsat olduğu ve kentin yeşil alan ihtiyacının da bulunduğu dikkate alınarak açık yeşil alan olarak belirlenmesinin planlama açısından gereklilik olduğu, dava konusu nazım ve uygulama imar planlarının, 540 ha.lık riskli alanın, risk taşıyan
@@ -69,6 +77,8 @@ Dava konusu işlemin İPTALİNE …
 
 ## Danıştay 6. D. 2022/2857 E., 2024/8151 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1195306500)
+
 İSTEMİN ÖZETİ : Bakanlar Kurulunca riskli alan ilan edilen İstanbul ili, Kadıköy İlçesi, ... ve çevresine ait 1/1000 ölçekli uygulama imar plan notları kapsamında 3194 sayılı İmar Kanununun 23. maddesi uyarınca teknik alt yapı katılım bedeli istenilmesine ilişkin ... tarih ve... sayılı İstanbul Büyükşehir Belediye Başkanlığı İmar ve Şehircilik Daire Başkanlığı İmar Müdürlüğü işleminin ve bu işleme dayanak teşkil eden Başkanlık Olurlarının iptali istemiyle açılan davada, dava konusu işlemin iptali yolundaki ... İdare Mahkemesinin ... tarih ve E:..., K:...sayılı kararına karşı yapılan istinaf başvurusunun değişik gerekçe ile reddine dair ... Bölge İdare Mahkemesi ... İdari Dava Dairesince verilen ... tarih ve E:..., K:... sayılı kararın, usul ve hukuka aykırı olduğu ileri sürülerek bozulması istenilmektedir.
 
 …
@@ -77,9 +87,13 @@ Dava konusu işlemin İPTALİNE …
 
 ## Danıştay 6. D. 2020/11050 E., 2024/8056 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1137033100)
+
 DAVACININ İDDİALARI : Davacı tarafından, 1/25.000 ölçekli çevre düzeni planı doğrultusunda çalışmaları sürdürülen 1/5000 ölçekli nazım imar planı kapsamında "doğal ve ağaçlık karakteri korunacak alan" olarak tanımlanan bölgenin bütüncül olarak etüt edilmediği, İzmir 4. İdare Mahkemesince iptaline karar verilen 1/1000 ölçekli uygulama imar planının, mevcut yerleşim alanının sosyal, ekonomik, fiziksel yapısı ve doğal kaynaklarda oluşturduğu tahribata rağmen üst ölçekli plan kararlarının koruma, gelişme ve planlama ilkelerine aykırı olarak, yalnızca mülkiyet sahipliği esas alınarak, münferit talepler doğrultusunda, parçacı ve noktasal yaklaşımlarla planlandığı, ... İdare Mahkemesinin kararında belirtilen planlar arası hiyerarşiyi sağlayabilmek amacıyla mevzuatta tanımlanan bütün ölçeklere aynen aktarılmak suretiyle 1/100.000 ve 1/25.000 ölçekli çevre düzeni planlarında mevzi imar planı niteliğinde değişiklik yapıldığı, bu yönleriyle Mekânsal Planlar Yapım Yönetmeliği ile şehircilik ilkelerine ve planlama esaslarına aykırı olan plan değişikliğinin iptali gerektiği ileri sürülmektedir.
 
 ## Danıştay 6. D. 2023/5447 E., 2024/7728 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1117859900)
 
 Mekansal Planlar Yapım Yönetmeliği'nin "İmar Planlarına Dair Esaslar" bölümündeki "İmar Planı İlkeleri" başlıklı 21. maddesinin 5. bendinde; "İmar planlarında, planlama alanının niteliğine göre mevzuatta öngörülen sağlık koruma bantları, güvenlik bölgesi ve benzeri koruma kuşakları gösterilir." hükmü ve 9. bendinde; "İnsan sağlığı ve güvenliği üzerinde doğrudan veya dolaylı olumsuz etkileri olan enerji nakil hatları, dere koruma kuşakları, taşkın risk alanları, afete maruz alanlar ve benzeri alanlara ilişkin kurum ve kuruluş görüşleri imar planlarına yansıtılır." hükümleri yer almakta olup Yönetmelik gereği insan sağlığı ve güvenliği üzerinde doğrudan veya dolaylı olumsuz etkisi olan dere işletme bantlarının ve koruma kuşaklarının planlara işlenmesi gerekmektedir.
 
@@ -90,6 +104,8 @@ Yönetmelik hükümleri gereği, sağlıklı ve güvenli bir çevre ve yerleşim
 Dava konusu İstanbul ili, Tuzla ilçesi, ... Mahallesi ve Kocaeli ili, Çayırova ilçesi, ... Mahallesinde bulunan muhtelif parselleri kapsayan alanda Çevre, Şehircilik ve İklim Değişikliği Bakanlığınca 23.02.2022 tarihinde onaylanan 1/5000 ölçekli nazım imar planı değişikliği ile 1/1000 ölçekli uygulama imar planı değişikliğinin İPTALİNE …
 
 ## Danıştay 6. D. 2020/10764 E., 2024/6694 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1113759200)
 
 İlk Derece Mahkemesi kararının özeti: ...
 
@@ -109,6 +125,8 @@ Bu alan içinde toplumun yararlanmasına açık yapılar da dahil olmak üzere b
 Dava konusu işlemin yukarıda özetlenen gerekçeyle iptaline ilişkin Mahkeme kararına yönelik olarak yapılan istinaf başvurusunun reddi yolundaki temyize konu ... Bölge İdare Mahkemesi ... İdari Dava Dairesinin ... tarih ve E:...
 
 ## Danıştay 4. D. 2024/2644 E., 2024/6175 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1179662400)
 
 İlk Derece Mahkemesi kararının özeti: ...
 
@@ -135,6 +153,8 @@ Temyize konu ... Bölge İdare Mahkemesi .... İdare Dava Dairesinin ... tarih v
 
 ## Danıştay 6. D. 2021/10108 E., 2024/5502 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1108892200)
+
 Dava konusu istem: Şırnak ili, Cizre ilçesi, ... Mahallesi, ... ada, ... parsel sayılı taşınmazı da kapsayan alanda yapılan 1/1000 ölçekli revizyon uygulama imar planının, 1/5000 ölçekli revizyon nazım imar planının ve 3194 sayılı İmar Kanununun 18.maddesi uyarınca yapılan parselasyon işleminin iptali istenilmiştir.
 
 İlk Derece Mahkemesi kararının özeti: Temyize konu kararda; riskli alan olarak belirlenen dava konusu taşınmazı da kapsayan alana ilişkin uygulama ve nazım imar planları ile parselasyon işleminin on beş gün süreyle ilan edildiği, yapılan itirazların 12.03.2018 tarihli işlemle reddedilmesi üzerine kesinleştiği, bu tarihi takip eden günden itibaren 15 gün içerisinde, en geç 27.03.2018 tarihine kadar dava açılması gerektiği, ancak bununla birlikte davacının itirazının reddedildiğinin davacıya 12.04.2018 tarihinde bildirildiği, 2577 sayılı Kanunun 7.maddesi uyarınca uygulama işlemi ile birlikte düzenleyici işlem niteliğinde olan imar planlarının da süresi içinde dava konusu edilebileceği ancak dava konusu parselasyon işlemine karşı açılacak davanın da itirazın reddinin bildirildiği 12.04.2018 tarihinden itibaren 15 gün içinde en geç 27.04.2018 tarihinde açılması gerekirken, bu tarih geçirildikten uzunca bir süre sonra 11.06.2018 tarihinde açılan davanın süre aşımı nedeniyle esasını incelemeye olanak bulunmadığı sonucuna varılmıştır.
@@ -145,6 +165,8 @@ Dava konusu istem: Şırnak ili, Cizre ilçesi, ... Mahallesi, ... ada, ... pars
 
 ## Danıştay 6. D. 2024/1983 E., 2024/5483 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1176191900)
+
 İSTEMİN ÖZETİ: Davacının maliki olduğu Hakkari ili, Yüksekova ilçesi, ... Mahalle, ... ada, ... parsel sayılı taşınmazın da içinde bulunduğu 958 hektarlık alanda riskli alan imar plan revizyonu kapsamında yapılan 1/5000 ölçekli revizyon nazım imar planı ve 1/1000 ölçekli revizyon uygulama imar planının kabulüne ilişkin Yüksekova Belediye Meclisinin... tarihli, ... sayılı kararının dava konusu taşınmaza ilişkin kısmının iptali istemiyle açılan davanın reddi yolundaki ... İdare Mahkemesinin ... tarih ve E:..., K:... sayılı kararına karşı yapılan istinaf başvurusunun davanın süre aşımı nedeniyle reddi gerektiği gerekçesi ile reddine dair ... Bölge İdare Mahkemesi .... İdari Dava Dairesince verilen ... tarih ve E:..., K:... sayılı kararın, usul ve hukuka aykırı olduğu ileri sürülerek bozulması istenilmektedir.
 
 …
@@ -152,6 +174,8 @@ Dava konusu istem: Şırnak ili, Cizre ilçesi, ... Mahallesi, ... ada, ... pars
 ... Bölge İdare Mahkemesi ... İdari Dava Dairesince verilen ... tarih ve E:... K:... sayılı karar ve dayandığı gerekçe hukuk ve usule uygun olup bozulmasını gerektirecek bir sebep bulunmadığından, anılan kararın ONANMASINA …
 
 ## Danıştay 6. D. 2024/1413 E., 2024/4903 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1096209400)
 
 Kocaeli Büyükşehir Belediye Başkanlığı tarafından, davanın süresinde açılmadığı, uyuşmazlığa konu taşınmazın 1/5000 ölçekli nazım imar planında "Mevcut Konut Alanı-Düşük (50-200 kişi/ha.)", 1/1000 ölçekli uygulama imar planında "(5/A-2/3)" yapılaşma koşullu Yerleşik Konut Alanı” kullanımında kaldığı, halihazırda söz konusu taşınmaz için imar planı değişikliği yapılmadığı, ancak kentsel dönüşüm ile ilgili olarak imar planı değişikliği çalışmalarının devam ettiği, bölgede imar mevzuatına aykırı konut sayısının bir hayli fazla olduğu, olası depremde bu yapıların hasar göreceği, Dilova bilgesinde hava kirliliğine bağlı olarak akciğer kanserine yakalanma oranında ciddi atrış olduğu ve akciğer kanseri gelişme riskinin fazla olduğu, Kanserden ölüm oranının Türkiye ortalamasının üzerinde olduğu, bölgede hava kirliliğinin trafiğin ve gürültünün had safhada olduğu, sanayi kuruluşlarının yoğun olmasından dolayı trafiğin kilitlendiği, halkın hava kirliliği ve sağlık sorunlarının bertaraf edilebilmesi için sanayi bölgeleri ile iç içe geçmiş sağlıksız konut alanlarının en uygun alana desantralize edilmesi gerektiği, Tavşancıl Mahallesindeki tescilli yapıların 6306 sayılı Kanun kapsamında ihya
 edilmesi ile tarihi kent meydanının çarpık yapılardan temizlenmesi, Dilovası ilçe merkezindeki sanayi bölgeleri ile iç içe geçmiş sağlıksız konut alanlarının kentleşme kriterlerine göre desantralize edilmesine yönelik kararlar üretilmesi, böylelikle insan sağlığı açısından risk teşkil eden, sürdürülebilirlik sorunu yaşanan alanların iyileştirilmesine olanak sağlanması amacıyla alanın rezerv yapı alanı olarak ilan edildiği, anılan kararın usul ve yasaya uygun olduğu, davanın reddinin gerektiği savunulmaktadır.
@@ -161,6 +185,8 @@ edilmesi ile tarihi kent meydanının çarpık yapılardan temizlenmesi, Dilovas
 Öte yandan, rezerv yapı alanlarında, 6306 sayılı Afet Riski Altındaki Alanların Dönüştürülmesi Hakkında Kanununda belirtildiği üzere öncelikli olarak malikler ile anlaşma yoluna gidilmesinin esas alınması, Kanunda belirtilen uygulamaların Bakanlıkça yerine getirilmesi, ancak üzerindeki bina yıkılmış olan arsanın malikleri salt çoğunluğu sağlayamazsa acele kamulaştırma yoluna gidilmesi gerekirken, anılan hususlar gözetilmeksizin rezerv yapı alanı belirlenmesi kararı üzerine uyuşmazlığa konu taşınmazın acele kamulaştırılması yolunda tesis edilen ve bu nedenle hukuka aykırı olduğu sonucuna varılan dava konusu 07/07/2022 tarih ve 5786 sayılı Cumhurbaşkanlığı Kararının uyuşmazlığa konu taşınmaz yönünden iptaline karar verilmesi gerektiği oyuyla …
 
 ## Danıştay 6. D. 2022/6721 E., 2024/4728 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1115505800)
 
 Danıştay Altıncı Dairesinin E:2015/8583, K:2020/14077 sayılı iptal kararında; anılan dosyada yerinde yaptırılan keşif ve bilirkişi incelemesi neticesinde düzenlenen bilirkişi raporundaki görüş ve tespitlere yer verildikten sonra, Evreşe çevresinde her ne kadar büyük yüzölçümlü bir alan kentsel gelişme alanı olarak belirlenmişse de, Evreşe'de nüfus artışı dinamiği beklenmediğinin nüfus projeksiyonundan anlaşıldığı, yani bu bölge için yakın gelecekte gelişme potansiyelinin mevcut olmadığı, alanda artış eğiliminde olan bir nüfus dinamiğinin bulunmadığı, mevcutta İlçenin kırsal nitelikli bir yerleşim yeri olduğu, öte yandan plan açıklama raporu ile plan paftasının bir bütünlük oluşturması gerektiği gözetildiğinde, plan açıklama raporunda, bu yerleşimin sanayi kullanımına yönlendirilmesine ilişkin bir karar veya strateji bulunmaması ve halihazırda alanda sanayi potansiyelinin bulunduğuna ilişkin bir verinin bulunmaması karşısında, pafta ile plan açıklama raporu arasında uyumsuzluk bulunduğu, dolayısıyla alanda belirlenen "kentsel gelişme alanı" ile "sanayi ve depolama alanı" kullanımlarına ilişkin bilimsel, somut ve teknik gerekçelerin ortaya konulamadığı gerekçesiyle bu kısım yönünden
 planın iptaline kararı verilmiş ise de, dosyanın incelenmesinden, Evreşe Beldesi yerleşim yerinin Evreşe Belediye Meclisince 12/06/1997 tarihinde onaylanan 1/5.000 ölçekli nazım ve 1/1000 ölçekli uygulama imar planı ile belirlendiği, anılan planlara göre parsel bazında 3194 sayılı İmar Kanunu'nun 15. ve 16. maddeleri uyarınca uygulamalar yapıldığı, bu nedenle belde merkezinin planlama sınırında bir değişikliğe gidilmediği, öte yandan 7181 sayılı Kanun’un 21. maddesi ile Toprak Koruma ve Arazi Kullanımı Kanunu'na eklenen geçici 6. maddesinde düzenlenen “19/7/2005 tarihinden önce onaylanmış 1/5.000 veya 1/1.000 ölçekli imar planları veya arsa vasıf kazanmış parseller ile bu maddenin yürürlüğe girdiği tarihten önce belirlenen onaylı köy ve/veya mezraların yerleşik alanı ve civarı ile yerleşik alanlar izinli kabul edilir." hükmü ile beraber Lapseki ile Gelibolu İlçeleri arasında bulunan ve yapımı tamamlanan 1915 Çanakkale Köprüsü’nün hizmete açılması ile birlikte bölgede yatırım sahalarının artacağı, Gelibolu bölgesinde sanayi ihtiyacına yönelik, bölgeye hizmet edecek organize sanayi bölgesi veya nitelikli sanayi alanı bulunmadığı ve halihazırda bölgede sanayi yatırımlarının bulunması
@@ -172,6 +198,8 @@ hususları davalı idarece gözetilerek, yargı kararı da uygulanmak suretiyle 
 Hatay ili sınırları içerisinde bulunanlar ile Çanakkale İlinin Bozcaada ve Gökçeada ilçeleri sınırları içerisinde bulunanlar satışa konu edilmez.(...)." kuralı ile aynı doğrultuda düzenleme yapılmış, 20. maddesinde de; bu Tebliğde hüküm bulunmayan hallerde Milli Emlak Genel Tebliği (Sıra No: 355)’nin bu Tebliğe aykırı olmayan ilgili hükümlerinin uygulanacağı kurala bağlanmıştır.
 
 ## Danıştay 4. D. 2023/4610 E., 2024/3714 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1106847900)
 
 Mülga 2981 sayılı Kanunun "Tapu verme" başlıklı 10. maddesinde, bu Kanun hükümlerine göre hazine, belediye, il özel idaresine ait veya Vakıflar Genel Müdürlüğünün idare ettiği arsa veya araziler üzerinde, gecekondu sahiplerince yapılmış yapıların, 12 nci madde hükümlerine göre tespit ettirildikten sonra, kayıt maliki kamu kuruluşunca bu yerin hak sahibine tahsis edileceği ve bu tahsisin yapıldığı tapu sicilinin beyanlar hanesinde gösterilerek ilgilisine tapu tahsis belgesi verileceği, tapu tahsis belgesinin, ıslah imar planı veya kadastro planları yapıldıktan sonra hak sahiplerine verilecek tapuya esas teşkil edeceği, ancak islah imar planı veya kadastro planları ile belirlenen alanlarda tapu tahsis belgesi yerine hak sahiplerine doğrudan tapularının verilebileceği, hükmü yer almıştır.
 

@@ -21,6 +21,8 @@ uyari: "Derleyenin seçtiği alıntılardır; kararın tamamı değildir. Künye
 
 ## İstanbul BAM 13. HD 2025/671 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1142575900)
+
 İLK DERECE MAHKEMESİ KARARININ ÖZETİ:İlk Derece Mahkemesi'nin 17/02/2025 tarih 2024/615 D.İş- 2024/615 Karar sayılı ek kararında;"Talep; İİK'nun 257. Maddesi uyarınca verilen ihtiyati haciz kararının İİK'nun 265.
 
 …
@@ -37,6 +39,8 @@ HÜKÜM: Yukarıda açıklanan nedenlerle; 1-Muterizler vekilinin istinaf başvu
 
 ## Antalya BAM 7. HD 2024/759 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1042879600)
+
 Noterliğinin 21.03.2008 tarih ... yevmiye nolu Gayrimenkul Satış Vaadi ve Kat Karşılığı İnşaat Sözleşmesi gereğince davalı arsa sahipleri tarafından yerine getirilmediği iddia edilen yapı denetim hizmet sözleşmesi, yapı ruhsatı ve arsanın içindeki eski binanın yıkılıp temizlenmesi edimlerine yönelik davacı yükleniciye nama ifaya izin ve masrafların tahsili davası olup, davacı vekili tarafından 16.02.2017 tarihli dilekçesi ile sözleşmeden dönme ve davacı yüklenici tarafından yapılan inşaat maliyeti nedeniyle 20.000,00.-TL tazminat ve yine sözleşmenin davalıların kusuru ile feshi nedeniyle haksız fesihten kaynaklanan 30.000,00.-TL kar mahrumiyetinin dava tarihinden itibaren ticari avans faizi ile birlikte tahsili davası; asıl dava ile birleşen Antalya 3.
 Asliye Ticaret Mahkemesinin ... esas sayılı davası ise ilk açıldığı hali ile davacı yüklenicinin kusuru nedeniyle sözleşmenin geriye etkili feshi davası olup, yargılama sırasında davalı-birleşen davacı arsa malikleri vekili tarafından fesih ve tazminat olarak ıslah edildiği, mahkemece yapılan yargılama, toplanan deliller, inşaat sözleşmesi, karşılıklı ihtarlar, belediye mühürleme tutanakları, mahallinde yapılan keşif ve alınan rapor ve ek raporlar birlikte değerlendirildiğinde, sözleşme gereği yapı ruhsatına ilişkin olarak yükümlülüğün arsa sahiplerinde olduğu veya arsa sahipleri tarafından davacı yükleniciye bu konuda vekaletname verilmesi gerektiği, her ne kadar BAM kaldırma kararında yüklenici tarafından ihtarname ile arsa sahiplerinin temerrüde düşürülmediği belirtilmiş ise de yüklenici tarafından Antalya 2. Noterliğinin 12/01/2012 tarih, ... yevmiye nolu ihtarnamesiyle arsa sahiplerine bu konuda ihtar çekildiği, arsa sahipleri tarafından kendilerine çekilen ihtardan sonra Antalya 1.
 
@@ -50,6 +54,8 @@ Davalı/ birleşen dosyada davacılar ..., ..., ... ve ... vekili Av. ..., daval
 
 ## Ankara BAM 27. HD 2024/242 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1015773800)
+
 Davalı vekili; müvekkili ile arsa sahipleri arasında 08.02.2021 tarihli düzenleme şeklinde tadil sözleşmesi yapıldığını, iş devam ederken arsa sahiplerince müvekkilinin verilen vekaletten azledildiğini, arsa sahiplerince yapılan tehditler nedeniyle Cumhuriyet Başsavcılığı'na şikayette bulunulduğunu, arsa sahiplerinin sözleşmedeki edimlerine uymadığını, mahkemelerde değişik iş dosyalarıyla yapılan tespitleri kabul etmediklerini, 08/02/2021 tarihinden sonra dünyada ve ülkemizde Covid-19 salgınının başladığını, 08/02/2021 tarihinde yapılan düzenleme şeklindeki sözleşmeye göre 44 ay olan sözleşme süresinden kalan sürenin 28 ay olduğunu ve bu sürede inşaatların sözleşmedeki yükümlülükler kapsamında tamamlanabileceğini, arsa sahiplerinin müvekkiline verdikleri vekaletnameden azletmesi nedeniyle belediyedeki yapı denetim sözleşmesi ve ruhsat işlemlerinin yürütülemediğini, gerek sözlü gerek yazılı olarak uyarılara rağmen yeni bir vekalet düzenlenmediğini, arsa sahiplerinin kötü niyetli olduğunu savunarak, davanın reddine karar verilmesini talep etmiştir.
 
 …
@@ -58,6 +64,8 @@ Buna göre somut olayda; davacılar dava dilekçesinin sonuç ve istem bölümü
 Noterliği'nin 11/09/2017 tarih ve 27545 yevmiye no'lu sözleşmede sözleşme değerinin ise 1.188.655,84 TL olduğu anlaşılmakla, mahkemece sözleşmelerin toplam bedeli olan 3.962.186,12 TL üzerinden yatırılması gereken nispi ilam harcını tamamlamak üzere davacılar vekiline Harçlar Kanunu'nun 30. maddesi uyarınca süre verilmesi, harç ikmal edildiğinde, yargılamaya devam edilmesi, aksi halde dosyanın işlemden kaldırılması, yenilenmemesi halinde davanın açılmamış sayılmasına karar verilmesi gerekirken, kamu düzeninden olan harç hususu gözden kaçırılarak eksik harç tamamlattırılmadan sadece menfi zarar talebi yönünden harç alınarak yargılamaya devam olunması doğru olmayıp, geriye etkili feshi talep edilen sözleşmelerin bedeli üzerinden de harcın ikmal ettirilerek sonrasında yargılamaya devam olunması gerekir.
 
 ## İstanbul BAM 45. HD 2024/4 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/984067600)
 
 İcra dairesinin ... esas sayılı icra dosyası üzerinden takibe geçildiğini; davalının icra takibine haksız olarak itiraz ederek takibi durdurduğunu; bu nedenle takibe itirazın iptali ile takibin devamına ve icra inkar tazminatına hükmedilmesi istemine ilişkindir." şeklinde zapta geçirildiği, "Taraflar arasındaki uyuşmazlık; İstanbul Anadolu ... İcra dairesinin ... esas sayılı icra takibine davalının yaptığı itirazında haklı olup olmadığı; davacının davalıdan alacaklı olup olmadığı var ise bunun miktarının tespitinden ibaret olduğu noktalarında toplanmaktadır; tahkikatın, taraflar arasındaki bu uyuşmazlık noktası üzerinden yürütülmesine karar verildi." şeklinde uyuşmazlığın tespit edildiği, davacı vekilinin tespit edilen uyuşmazlık konusuna aynen katıldıkları beyan ederek, söz konusu tespitleri imzası ile tevsik ettiği anlaşılmıştır. 02/07/2019 tarihli celsede;
 "Dava dilekçesinde dava değerinin 224.978,03-TL olarak gözüktüğü, talep sonucunda itirazın iptalini istendiği, icra dosyasında alacak miktarının 257.904,73-TL olarak belirtildiği anlaşılmakla davacı vekiline talep sonucunu Hmk 119/1.ğ maddesi gereği açıklamak üzere 1 haftalık kesin süre verilmesine, aksi takdirde davanın açılmamış sayılmasına kararı verileceğinin ihtarına. (İHTAR EDİLDİ)" karar verildiği, Davacı vekili tarafından sunulan 08/07/2019 tarihli dilekçe ile; "Mezkur dava ile davalı tarafından Anadolu ... İcra müdürlüğü ... e sayılı icra dosyasına yapılan itirazın iptalini talep etmekteyiz. Dava dilekçesi ve icra dosyasında yer alan takip talebinde de belirtildiği gibi dava konusu bu tutar; 1.Müvekkilin sözleşme kapsamında ödediği taşınmaz satış bedeli, 2.Sözleşme gerereğince tapu devri gerçekleştirilmediğinden sözleşmenin müvekkilce feshedildiği tarih itibariyle işletilen faiz, 3.Müvekkilin uğramış olduğu menfi zarar kalemleri (müvekkil tarafından ödenen iskan bedeli, fatura bedeli, vs.. ödemeler) bulunmaktadır.
@@ -71,6 +79,8 @@ binde 68.31 oranında nisbi harç alınacağı",1/e maddesinde "(değişik:5235/
 
 ## İstanbul BAM 15. HD 2023/770 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/916451000)
+
 Asıl davada davacı arsa sahibi kooperatif ile davalı yüklenici ... şirketi arasında imzalanan sözleşmeler ve mahkemece alınan bilirkişi raporlarına göre, yapılan inşaatın belediyece yıkılmış olması dikkate alınarak, davalı yüklenici şirketin edimini yerine getirmemiş olması nedeniyle davacı tarafın sözleşmesinin feshine ilişkin talebin yerinde olduğundan, sözleşmelerin feshine karar verilmesi yerinde olmuştur. Buna bağlı olarak, davalı yüklenici şirketin edimlerini yerine getirmemesi nedeniyle, dava konusu olan ve yükleniciye avans olarak verilen 2 ve 3 nolu parseller üzerine yapılan bağımsız bölümlerin davalı yüklenici adına olanların tapularının iptali ve tescili talebinin kabulüne karar verilmesi de usul ve yasaya uygun bulunmuştur. Davacı taraf menfi zarar talebinde bulunmuş ise de menfi zararlarını yasal delillerle ispatlayamadığından mahkemece reddine karar verilmesi; yine davacının davalıların müdahalesinin men'ine yönelik talebine ilişkin olarak, dava konusu binanın yıkılmış olması ve ortada bir müdahalenin kalmamış olması, müdahalenin men'i talebinin konusuz kalmış olması sebepleriyle mahkemece bu hususta karar verilmesine yer olmadığına karar verilmesi de doğru olmuştur.
 Birleşen Bakırköy 4. Asliye Ticaret Mahkemesinin 2017/98 esas sayılı dosyasında; davalıların davalı yükleniciden yer satın alan kişiler olması, davalı ... İnşaat Müh.San.ve Tic.Ltd.Şti'nin ise yükleniciden taşeron sözleşmesi kapsamında yer alması birlikte değerlendirildiğinde, yüklenici ... İnşaat San.ve Tic.Ltd.Şti'nin edimini yerine getirmediği ve asıl dava ile taraflar arasındaki sözleşmeler ve protokol feshedildiğinden tarafların aldıklarını iade etmeleri gerektiği, yüklenici ... İnşaat San.ve Tic.Ltd.Şti'nin kendisine avans olarak devredilen bağımsız bölümleri birleşen dosya davalılarına devir ettiği, davalıların almış oldukları bağımsız bölümleri ancak yüklenici olan
 
@@ -80,6 +90,8 @@ Birleşen Bakırköy 4. Asliye Ticaret Mahkemesinin 2017/98 esas sayılı dosyas
 İnşaat San.ve Tic.Ltd.Şti tarafından Bakırköy ...İcra Müdürlüğünün ... esas sayılı dosyasında başlatılan icra takibi neticesinde takibin kesinleştiği, yapılan haciz işlemleri neticesinde Bakırköy ...İcra Müdürlüğünün ... esas sayılı dosyası kapsamında dava konusu bağımsız bölümlerin satışa çıkartıldığı, davalı yüklenici tarafından alacaklarına mahsuben satın alındığı anlaşılmaktadır. Davalı yüklenici taraflar arasındaki sözleşme ilişkisini ve bu sözleşme gereğince yüklenici sıfatı ile edimini yerine getirilmediği hususunu bilen ve taraf olan şirkettir. Bu sebeple davalı yüklenici şirket TMK'nın 1023. Maddesinde düzenlenen iyi niyetten yararlanamaz. Mahkemece, taraflar arasındaki 11.04.1994 tarihli 1. Ek sözleşme kapsamında oluşan alacak borç sebebiyle yapılan icrai satış neticesinde davalının bağımsız bölüm sahibi olması, taraflar arasındaki sözleşmelerin fesih edilmiş olması birlikte değerlendirildiğinde, mahkemece birleşen dosya kapsamında tapu iptal ve tescil kararı verilmiş olması ile sözleşmelerin fesih edilmesi sebebiyle icra takip dosyası kapsamında borçlu olmadığına yönelik karar verilmesi usul ve yasaya uygun bulunmuştur.
 
 ## Ankara BAM 27. HD 2023/670 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/910274600)
 
 Davalı vekili özetle; “Yakutiye (Erzurum) Kentsel Dönüşüm” projesi 3. ve 8.
 
@@ -92,6 +104,8 @@ Bu durumda yükleniciye, yapmış olduğu gerçek gideri ve yüklenici karına k
 Maddesinin uygulanma koşullarının bulunmadığını, 4735 sayılı Yasa'nın 23.maddesi kapsamında tasfiyenin uygun görülerek tasfiye iş ve işlemlerinin yürütüldüğünü, dava dışı bakanlık ile imzalanan protokol gereğince bakanlık tarafından yapılması gereken kamulaştırma vb. mülkiyet sorunlarının çözümünün süresi içerisinde yerine getirilemediğini, tarafların müdahale alanı dışında kalan bu durumun, önlenemez ve öngörülemez nitelikte olduğundan yapılan fesih işlemini haksız olarak nitelendirilmesinin mümkün olmadığını, mahkemece sözleşmenin davalı idarenin kusuru nedeniyle feshedildiği belirtilerek hüküm kurulduğunu, davacının diğer taleplerini kabul anlamına gelmemekle birlikte, müvekkili Bankanın kusurlu imkansızlık sebebiyle davacı tarafa kar kaybı ödemekle yükümlü olduğunun kabulünün mümkün olmadığını, mahkemece, menfi zarar giderlerinin yanında ayrıca 127.205,16 TL kar kaybına da hükmedilmesinin hukuka ve hakkaniyete aykırı olduğunu, müvekkili bankanın herhangi bir kusurunun bulunmaması nedeniyle kar kaybı talebinin koşullarının oluşmadığını, yine Kamu İhale Genel Tebliği’nin 46.
 
 ## İzmir BAM 14. HD 2023/47 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/851688400)
 
 Davacı vekili ıslah dilekçesinde ise; "... bloktaki 9 daireye karşılık gelen ... ada .. parseldeki arsa payının tapu kaydının iptali ile davacı adına tesciline ve haksız fesih nedeniyle mahrum kaldığı kârın tespit ve tahsiline karar verilmesini istemiştir.
 
@@ -113,6 +127,8 @@ Karşıyaka Asliye Ticaret Mahkemesi'nin 21/10/2020 tarih ve 2014/564 Esas, 2020
 
 ## İstanbul BAM 15. HD 2022/2096 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/850113000)
+
 Sözleşmeden dönme halinde talep edilebilecek zarar, olumsuz zarardır. Yani ortadan kalkmış olan sözleşmeye güvenilmesi nedeniyle boşa giden masraf ve kaçırılan sözleşme fırsatları, iş sahibinin olumsuz zararları kapsamına girmektedir.Dava dosyasında davalı tarafından sunulmuş olan 2 adet A4 boyutuna katlanmış, Belediye başlık sayfası eklenmiş mimari proje bulunmaktadır. Davanın konusu bu projelerin ruhsat alınmak üzere Belediyesine verilebilecek düzeyde ve kat karşılığı inşaat sözleşmesi taslağına olup olmadığıyla ilgilidir.Davacı, eserin ayıplı olması nedeniyle eserdeki ayıbının giderilmesi için dava dışı ... Ltd Şti' ne onarım ücreti ödediğini ileri sürerek bu bedelin de iadesini istemektedir. Dava dışı ... Ltd. Şti. ise dosyaya sunduğu dilekçede mimari proje düzeltme işlemi yapmadığını, sadece etüt çalışması yaptığını beyan ettiği halde, mahkemece bu beyanın doğruluğu araştırılmadan eksik inceleme sonucu yazılı şekilde karar verilmesi hatalı olmuştur.Oysa mahkemece yapılması gereken iş; bilirkişiden ek rapor alınarak dava dışı ...
 Şirketi'nin dava dosyasına sunduğu beyan dilekçesinin doğruluğunun denetlenmesi, dilekçede yazılı olduğu üzere dava dışı şirket tarafından sadece etüt çalışması yapılmış olması halinde eserin bu haliyle ayıplı olup olmadığının denetlenmesi, projenin davacı yanca imzalanan kat karşılığı inşaat sözleşmesine uygunluğunun belirlenmesi, ilgili Belediyeye yazı yazılarak davalı yanca hazırlanan projenin imara uygun olup olmadığının saptanması ve buna göre nesafet indirimi yapılıp yapılmayacağının değerlendirilmesi suretiyle sonucuna uygun karar verilmesinden ibarettir.
 
@@ -121,6 +137,8 @@ Sözleşmeden dönme halinde talep edilebilecek zarar, olumsuz zarardır. Yani o
 HÜKÜM: Gerekçesi yukarıda açıklandığı üzere; 1-Davacı vekilinin istinaf başvurusunun KABULÜNE, 2-İstanbul Anadolu 5. Asliye Ticaret Mahkemesi'nin 10/09/2019 tarih, 2015/777 Esas, 2019/956 Karar sayılı kararının KALDIRILMASINA …
 
 ## İzmir BAM 14. HD 2022/579 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/749493400)
 
 Menemen 1. Asliye Hukuk Mahkemesi'nde 2010/431 Esas sayılı kat karşılığı inşaat sözleşmesinin feshi dosyasındaki bilirkişi raporlarına atıf yapılmıştır. Bu dosyanın getirtilmesi ancak her halükarda keşif yapılarak taşeron şirketin imalat seviyesinin saptanması gerekir. Ayrıca raporun 18. Sayfasında her iki tarafın da ticari defterlerini sunmadığı belirtilmiştir. Buna rağmen heyet afaki olarak bir rapor düzenlemiştir.
 
@@ -131,6 +149,8 @@ Her iki tarafın istinaf istemlerinin HMK 353/(1)-a-6 maddesi gereğince kabulü
 Karşıyaka Asliye Ticaret Mahkemesi'nin 25.10.2019 tarih ve 2011/132 Esas, 2019/632 Karar sayılı kararının, asıl ve birleşen dosya yönünden 6100 Sayılı HMK'nın 353/(1)-a-6. maddesi gereğince KALDIRILMASINA …
 
 ## İstanbul BAM 53. HD 2022/278 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/834512300)
 
 Uyuşmazlık söz konusu feshin haksız olup olmadığından kaynaklanmaktadır.Anılan Kat karşılığı inşaat sözleşmesinden önce inşaat işlerinin takip edilmesi amacıyla arsa sahibi tarafından davacı yükleniciye 25/09/2006 tarihli (arsa sahibine ait Kadıköy ilçesi, ... mah. ... pafta, ... ada ... parsel sayılı taşınmazla ilgili, mevcut binayı yıktırma, yerine inşaat yapma amacıyla her türlü imar, ruhsat işlemleri, plan, proje evrakları tanzim etme, sunma vs için özel yetki vermiştir.) özel vekaletname verilmiştir. Dosyada mevcut plan ve krokilerden de anlaşılacağı üzere arsa sahibine ait 25 parsel sayılı taşınmazın 4,47,48,49,50 parsel sayılı taşınmazlarla çevrili olduğu, yola mahrecinin olmadığı bellidir. Buna göre sözleşmeye konu taşınmazın imar planı kapsamında olduğu ancak yola mahrecinin bulunmaması nedeniyle imar uygulaması yapılamayacağı belediye yazısından anlaşılmaktadır.Sözleşme yapıldığı sırada imar durumu nedeniyle sözleşmenin konusu tamamen imkansız olmayıp, yapılan sözleşme geçerlidir. Ancak taşınmazın yola mahreci bulunmaması nedeniyle imar uygulaması yapılması mümkün olmayıp buna göre yola mahrecinin olması şartı ile sözleşmenin konusu geçici imkansızdır.
 Sözleşme imzalandıktan yaklaşık iki yıl sonra 21/05/2009 tarihinde arsa sahibi tarafından feshedilmiş, davacılar vekaletten azledilmiştir.Taraflar, sözleşmede bu durumu, inşaat ruhsatının alınmasından önce yapılması gereken işleri öngörmüş olup bunların bir kısmı giderilmeden imar uygulamasının yapılması, inşaat ruhsatının alınması mümkün değildir. Ancak bu eksiklikler giderildikten sonra imar uygulaması yapılarak ruhsat alınabilecektir.
@@ -143,6 +163,8 @@ Buna göre yukarıda açıklandığı üzere sözleşmenin davalı arsa sahipler
 HÜKÜM: Gerekçesi yukarıda açıklandığı üzere;1-Davacı vekilinin istinaf başvurusunun KABULÜNE, 2-İstanbul Anadolu 3. Asliye Ticaret Mahkemesi'nin 07/07/2021 tarih, 2010/98 Esas, 2021/895 Karar sayılı kararının KALDIRILMASINA …
 
 ## İzmir BAM 22. HD 2022/18 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/718910600)
 
 Mahkemece, iddia, savunma ve tüm dosya kapsamına göre, asıl dava yönünden, davacıların tarafların kabulünde olan sözleşme uyarınca yapmış olduğu harcamaların 548.521,21 TL sinin davalıdan talep edebileceği, davacının sözleşmenin fesih iradesinin BK 484 maddesinde vücut bulan fesih olduğu, davacıların sözleşmenin ifa edileceğine dair yaptıkları harcamaları ve yoksun kaldıkları kar kayıplarının davalı tarafça bir bütün olarak ödenmesi gerektiğini bildirerek, davalıya göndermiş olduğu Karşıyaka 2.
 
@@ -160,6 +182,8 @@ Davalı-karşı davacı vekilinin istinaf başvurusunun Hukuk Muhakemeleri Kanun
 
 ## İstanbul BAM 7. HD 2021/532 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/644238900)
+
 Dava, gayrimenkul satış vaadi sözleşmesinden (yüklenicinin temlikinden) kaynaklanan tapu iptali ve tescil, ceza-i şart, kira alacağı olmadığı taktirde rayiç değerin tahsili istemine ilişkindir.
 
 …
@@ -173,6 +197,8 @@ HÜKÜM: Gerekçesi yukarıda açıklandığı üzere; 1-Davacı vekilinin istin
 
 ## İstanbul BAM 15. HD 2021/96 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/628783900)
+
 Menfi zarar alacaklının uğramış olduğu fiili zarar ile yoksun kaldığı kârı içine alan bir zarardır. Fiili zarar ise sözleşmenin kurulması için yapılan giderler; noter masrafı, harç parası, pul, seyahat ücreti, komisyon bedeli ve sair harcamaları da kapsamına almaktadır. Somut olayda, davacı sözleşmenin düzenlenmesi için noter masrafı yaptığını ve komisyoncuya ödemede bulunduğunu ileri sürerek bu masrafların tahsilini de talep etmiş ve buna ilişkin delillerini dosyaya sunmuştur. Mahkemece aldırılan bilirkişi raporunda bu yönde inceleme yapılmış olmasına rağmen, özellikle 95.000,00 TL emlak komisyoncusuna yapılan ödemenin sözleşmeye konu taşınmazın miktar ve değeri bakımından doğru olup olmadığı, sözleşmeye konu taşınmaz için ne miktar komisyon ödemesi yapılması gerektiği hususunda bir değerlendirme yapılmamıştır. Gerektiğinde, sözleşme konusu taşınmazda keşif de yapılmak suretiyle aracılık sözleşmesinin yapıldığı tarih itibariyle ödenmesi gereken komisyon bedelinin belirlenmesi, sözleşme gereğince yapılan noter masrafı da değerlendirilerek sonucuna göre taraf talebi hususunda karar verilmesi gerekirken, bu konu üzerinde durulmaksızın talebin reddine karar verilmesi hatalı olmuştur.
 
 …
@@ -180,6 +206,8 @@ Menfi zarar alacaklının uğramış olduğu fiili zarar ile yoksun kaldığı k
 HÜKÜM: Gerekçesi yukarıda açıklandığı üzere; 1-Davacı vekilinin istinaf başvurusunun KABULÜNE, 2-Bakırköy 4. Asliye Ticaret Mahkemesi'nin 04/12/2019 tarih, 2019/83 Esas, 2019/1080 Karar sayılı kararının KALDIRILMASINA …
 
 ## İstanbul BAM 15. HD 2019/798 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/510551900)
 
 Maddesinin değiştirilen hükümlerinin Anayasa'ya aykırı bularak iptal etmesi ve bu nedenle yapı ruhsatlarının iptal edilmesi üzerine inşaatın kaçak duruma düştüğü, iskan alınamadığı ve yıkıldığı, davalının belediye ile birlikte hareket ederek davacının zarara uğramasına sebep olduğu belirtilerek zararların tahsili istenmiş, mahkemece Anayasa Mahkemesi kararının açıklanmasından sonra sözleşme yapılıp ruhsat alındığından inşaat ruhsatlarının kamu düzenine aykırı olduğu, nitekim idarece ruhsatların iptal edildiği, bu nedenle sözleşmenin yerine getirilmesinin sözleşmenin yapıldığı andan itibaren hukuken imkansız olduğu ve taraflara hak ve borç doğurmayacağı belirtilerek davanın reddine karar verilmiştir. Anayasa Mahkemesi kararı 11/12/1986 tarihli olup, taraflar arasındaki sözleşme 12/10/1987 tarihinde yapılmış, yapı ruhsatları da 10/04/1987 tarihinde alınmış, iptal kararı ise ruhsatların verildiği tarihten sonra 18/04/1987 tarihinde ilan edilmiştir. Dosya kapsamından yapı ruhsatlarının belediyece 17/08/1989 tarihinde iptal edildiği anlaşılmaktadır. 3194 sayılı yasanın 47.
 Maddesinde yapılan değişiklik sonucunda Boğaziçi ön görünüm bölgesinde belirlenen kısıtlılıklar çerçevesinde konut yapımına olanak tanınmış ise de Anayasa Mahkemesi tarafından anılan normun iptaline karar verilmiş ve söz konusu bölge yeniden imara kapatılmıştır. Taraflar arasındaki sözleşmenin iptal kararının yayınlanmasından sonra imzalandığından ve imar mevzuatı kamu düzenine ilişkin olduğundan sözleşmenin başlangıcından itibaren hukuken imkansız olduğu ve taraflar yararına sonuç doğurmayacağı açıktır. Bu durumda, yapılan inşaat kaçak durumda olduğundan ekonomik değer ifade etmez. Taraflar ancak menfi zararlarını talep edebilir ise de, davacı menfi zararlarını ispatlayamadığından mahkemece davanın reddine karar verilmesi yerinde olmuştur.

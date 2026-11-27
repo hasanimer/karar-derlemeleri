@@ -22,6 +22,8 @@ uyari: "Derleyenin seçtiği alıntılardır; kararın tamamı değildir. Künye
 
 ## Yargıtay 6. HD 2024/914 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1059093900)
+
 Mahkemece, ilk bozmaya uyularak yeniden yapılan yargılama sonucunda; asıl davanın reddine, karşı davanın kısmen kabulüne karar verilmişse de yapılan temyiz ve karar düzeltme incelemesi neticesinde, Yargıtay (Kapatılan) 15. Hukuk Dairesi'nce Mahkeme kararının bozulmasına karar verilmiştir.
 
 …
@@ -42,6 +44,8 @@ Bozmaya uyularak yargılama sonunda mahkemece; asıl davanın reddine …
 
 ## Yargıtay 5. HD 2023/4368 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/914013800)
+
 Davacı vekili dava dilekçesinde özetle; müvekkilinin 46224 ada 1 parselde bulunan A blok 6, 22 ve 23 numaralı bağımsız bölümleri 18.03.2004 tarihinde satın aldığını, ... Limited Şirketi lehine Türk Dış Ticaret Bankasından kredi kullanabilmek için dava konusu bağımsız bölümler üzerinde ipotek tesis edildiğini, ancak ipoteğin fekki aşamasında bu taşınmazlar üzerinde tedbir olduğunu ve davacı lehine de devir işleminin gerçekleşmediğini belirterek, satın aldığı bağımsız bölümlerin dava tarihi itibarıyla rayiç değerinin tespiti ile tahsilini talep etmiştir.
 
 …
@@ -60,6 +64,8 @@ Davalı Hazine vekilinin temyiz itirazları yerinde olduğundan mahkeme kararın
 
 ## Yargıtay 6. HD 2023/3832 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/989471400)
+
 Davacı vekili dava dilekçesinde; müvekkilinin dava dışı yükleniciler ile arasındaki kat karşılığı inşaat sözleşmesi kapsamında yüklenici sıfatının en son davalı ...’a sözleşme ile devredildiğini, sözleşme kapsamında davalı ...’a teminat senedi verildiğini, ...’ın sözleşme gereği edimlerini yerine getirmemesine rağmen senedi diğer davalı ...’a ciro ettiğini ve bu davalının Konya 14.
 
 …
@@ -75,6 +81,8 @@ Davalı ... vekili cevap dilekçesinde; edimlerini sözleşmeye uygun olarak yer
 50.000,00 TL’sinin 31/03/2015 tarihinden itibaren işleyecek olan avans faizi ile davalıdan alınarak davacıya verilmesine, ’’ yazılmasına, kararın değiştirilmiş bu haliyle DÜZELTİLEREK ONANMASINA …
 
 ## Yargıtay 6. HD 2023/3599 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/985144300)
 
 Davacı-birleşen davada davalı vekili istinaf dilekçesinde özetle;
 Hükme dayanak alınan bilirkişi raporu ile ek raporunun sözleşme hükümlerine aykırı düzenlendiğini, dosya kapsamı ile tam örtüşmediğini, hüküm kurmaya elverişli ve yeterli olmadığını, sözleşmede kararlaştırılan teslim süresinin 31.12.2003 tarihinde sona erdiğini, bu tarihten itibaren cezalı sürenin başladığını, süre uzatımı verilmediğini ve ödenek aktarımı da yapılmadığı halde bilirkişilerce sanki süre uzatımı verilmiş ve ödenek aktarımı yapılmış gibi 2004, 2005, 2006 ve 2007 yıllarında yapılan imalatın bedelinin yapıldığı yılın BİB birim fiyatlarıyla hesaplanması ve fiyat farkı verilmesinin sözleşme ve ekleri ile yasa hükümlerine aykırı olduğunu, sözleşmenin 4. maddesindeki hükmün ancak sözleşme süresi içinde yapılan imalatlar için geçerli olduğunu, cezalı sürede yapılan imalatlar için geçerli olmadığını, davalıya süre uzatımı verilmediğini, davalının süre uzatımına hak kazanamadığını, buna göre bilirkişinin zımnen sürenin uzatıldığı görüşünden hareketle düzenlediği kesin hesabın hükme esas alınmasının mümkün olmadığını, ara hakedişlerde gecikme cezası kesilmemesinin ve eskalasyon fiyat farkı uygulanmasının zımni süre uzatımı olarak değerlendirilmesi gerektiğine dair davalı şirket
@@ -96,6 +104,8 @@ fıkrası uyarınca ONANMASINA …
 
 ## Yargıtay 6. HD 2023/3578 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/985137500)
+
 Davalılar vekili cevap dilekçesinde özetle; davacılar tarafından açılan haksız ve yersiz davanın reddine karar verilmesinin talep edildiği, dava dilekçesindeki açıklamalardan da anlaşılacağı üzere 499 pafta, 5718 parsel 2 de bulunan davalılar ve taraf olmayan Hikmet İçme ve ... ile 28.12.2010 tarihinde Kayseri 1.
 
 …
@@ -107,6 +117,8 @@ Davalılar vekili cevap dilekçesinde özetle; davacılar tarafından açılan h
 Temyiz olunan Bölge Adliye Mahkemesi kararının 6100 sayılı Kanunun 370 nci maddesinin birinci fıkrası uyarınca ONANMASINA …
 
 ## Yargıtay 6. HD 2023/3474 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/985073600)
 
 Davacı vekili dava dilekçesinde özetle; müvekkili ile davalı kooperatif arasında arsa payı karşılığı inşaat sözleşmesi imzaladığını, ancak davalı kooperatifin sözleşmenin imzalanmasından yaklaşık bir yıl sonra sözleşmenin hükümsüz olduğunu bildirdiğini, bu bildirim ile sözleşmenin ifasının imkansız hale geldiğini ileri sürerek, sözleşme gereği şimdiye kadar yaptığı harcamalar ile mahrum kalınan kâr nedeniyle 1.250.000,00 TL'nin davalıdan tahsiline karar verilmesini talep etmiştir.
 
@@ -124,6 +136,8 @@ Mahkeme kararının gerekçesinin değiştirilerek ve DÜZELTİLEREK ONANMASINA 
 
 ## Yargıtay 3. HD 2023/2287 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/963596400)
+
 Davacı; davalılardan ... adına hareket eden vekili ... ... ile yapılan Mudanya Noterliğinin 15.09.2004 tarih ve 8810 yevmiye nolu düzenleme şeklindeki taşınmaz satış vaadi sözleşmesi gereğince ... ili, Mudanya ilçesi, ... mahallesi, 335 ada 60 parselde kayıtlı taşınmazda yapılan apartmandan diğer davalı ile aralarındaki arsa payı karşılığı inşaat sözleşmesi çerçevesinde ... uhdesinde kalan G Blok 1 nolu dairenin tamamı ve arsa payının tarafına satılmasının kararlaştırıldığını, taşınmazın sözleşme tarihinden itibaren on ay içinde teslim edileceği kararlaştırılmasına rağmen bu sürede teslim edilmediğini, geç teslim nedeniyle uğranılan zararın tazmini yönünde keşide edilen ihtarnameden de sonuç alınamadığını ileri sürerek fazlaya ilişkin haklar saklı kalmak kaydıyla taşınmazın teslim edilmemesi nedeniyle rayiç kira bedeline karşılık olmak üzere 1.000,00 TL maddi tazminatın ve 9.000,00 TL manevi tazminatın faiziyle birlikte davalıdan tahsiline karar verilmesini talep etmiş, ıslah dilekçesiyle maddi tazminat talebini 18.410,00 TL’ye yükseltmiştir.
 
 …
@@ -140,6 +154,8 @@ olmasını kabul ettiği, sözleşmenin devamında alıcı davacının, dairenin
 Davacı vekilinin yerinde görülmeyen tüm temyiz itirazlarının reddi ile usul ve kanuna uygun olan kararın ONANMASINA …
 
 ## Yargıtay 6. HD 2023/2086 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/937061100)
 
 Mahkemece bozmaya uyularak yeniden yapılan yargılama sonucunda; davanın reddine karar verilmiştir.
 
@@ -161,6 +177,8 @@ Davacılar vekilinin yerinde görülmeyen tüm temyiz itirazlarının reddi ile 
 
 ## Yargıtay 6. HD 2023/2012 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/929964500)
+
 2.1.Tarafların iddia, savunma ve dayandıkları belgelere, uyuşmazlığın hukuki nitelendirilmesi ile uygulanması gereken hukuk kurallarına, dava şartlarına, yargılamaya hâkim olan ilkelere, ispat kurallarına ve temyiz olunan kararda belirtilen gerekçelere göre bir kısım davalılar vekili ile davalı kooperatif vekilinin aşağıdaki paragraflar kapsamı dışındaki temyiz itirazları yerinde görülmemiştir. Davalılar vekillerinin diğer temyiz itirazlarının incelenmesinde;
 
 2.2.Arsa payı karşılığı inşaat sözleşmelerinde arsa sahipleri tarafından tapuda yükleniciye devredilen arsa payları, sözleşme konusu inşaatın yapılabilmesi için yüklenicinin inşaata finans sağlaması amacıyla verilen avans niteliğindedir. Söz konusu arsa payları inşaatın tamamlanmasından sonra devredilebileceği gibi, inşaat sırasında veya inşaata başlanmadan önce de devredilmiş olabilir. Yüklenicinin edimini (eseri meydana getirme ve teslim borcunu) sözleşme ve eklerine, tasdikli projesine, imara, fen ve tekniğine uygun, tam ve eksiksiz biçimde tamamlayıp arsa sahiplerine teslim etmesi halinde üçüncü kişilerin satın aldıkları arsa payı ve dairelerin tapu devirleri geçerlilik kazanacaktır. Aksi halde, yüklenici ve ondan pay alan üçüncü kişi üzerine yazılan tapu kaydı illiyetten yoksun hale gelir ve yapılan işlem yolsuz tescil durumuna düşer. Yükleniciye devredilen pay, avans niteliğinde olduğundan yüklenicinin edimini yerine getirmediği durumlarda ondan pay devralan üçüncü kişiler hak sahibi olamayacaklardır. Üçüncü kişinin yolsuz kayda dayanarak ayni hak kazanımının korunabilmesi için tescilin yolsuzluğunu bilmemesi veya bilebilecek durumda olmaması gerekir.
@@ -171,6 +189,8 @@ Somut olayda yüklenici edimini ifa etmemiş ve arsa payı karşılığı inşaa
 (2.4) (2.5) no.lu paragraflarda açıklanan nedenlerle, bir kısım davalılar vekillerinin diğer temyiz itirazlarının kabulü ile hükmün BOZULMASINA …
 
 ## Yargıtay 6. HD 2023/1607 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/910783600)
 
 İlk Derece Mahkemesince bozmaya uyularak yeniden yapılan yargılama sonucunda; davanın kabulüne karar verilmiştir.
 
@@ -196,6 +216,8 @@ Davalı ... vekilinin temyiz itirazlarının kabulü ile hükmün BOZULMASINA �
 
 ## Yargıtay 6. HD 2023/1606 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/910696000)
+
 İlk Derece Mahkemesince bozmaya uyularak yeniden yapılan yargılama sonucunda; davanın reddine karar verilmiştir.
 
 …
@@ -219,6 +241,8 @@ Mahkemece; davalı kooperatifin arsa payı karşılığı inşaat sözleşmesini
 2 .Sonucu itibariyle doğru olan hükmün res'en gerekçesi DÜZELTİLEREK ONANMASINA …
 
 ## Yargıtay 6. HD 2022/3721 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/791571300)
 
 Davacı vekili, müvekkili yüklenici ile davalı arsa sahibinin Yenimahalle ....
 

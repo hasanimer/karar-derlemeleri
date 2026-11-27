@@ -21,6 +21,8 @@ uyari: "Derleyenin seçtiği alıntılardır; kararın tamamı değildir. Künye
 
 ## Yargıtay 14. HD 2010/264 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/17143100)
+
 Dava, yüklenicinin temlikine dayalı tapu İptali ve tescil istemine ilişkindir.
 
 Davalı arsa sahibi çekişme konusu bağımsız bölümü teminat karşılığı elinde bulundurduğunu, yüklenici hakkında geç teslim ve ayıplı imalattan ötürü tazminat davası açtığını, davanın reddini savunmuş, diğer davalı yüklenici savunmada bulunmamıştır.
@@ -36,6 +38,8 @@ Ne var ki, temlik alanın ifa talebine muhatap olan borçlu (arsa sahibi) bu tal
 Sonuç: Temyiz olunan kararın yukarıda açıklanan nedenlerle (BOZULMASINA)
 
 ## Yargıtay 14. HD 2009/14892 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/849873900)
 
 Dava, yüklenicinin temliki işlemine dayalı tapu iptali ve tescil istemine ilişkindir.
 
@@ -55,6 +59,8 @@ SONUÇ: Temyiz olunan kararın yukarıda açıklanan nedenlerle BOZULMASINA …
 
 ## Yargıtay 14. HD 2009/8022 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/845790300)
+
 Dava, yüklenicinin temliki işlemine dayalı tapu iptali ve tescil ikinci kademedeki istek tazminat taleplerine ilişkindir.
 
 …
@@ -73,6 +79,8 @@ SONUÇ:Yukarıda açıklanan nedenlerle temyiz olunan hükmün BOZULMASINA …
 
 ## Yargıtay 14. HD 2009/7378 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/844908900)
+
 Dava, yüklenicinin temliki işlemine dayalı tapu iptali ve tescil istemine ilişkindir.
 
 Davalılar, savunmada bulunmamıştır.
@@ -86,6 +94,8 @@ Davadaki istemin dayanağı davalılar arasındaki 17.11.1998 tarihli arsa payı
 SONUÇ: Temyiz olunan kararın yukarıda açıklanan nedenlerle BOZULMASINA …
 
 ## Yargıtay 14. HD 2009/4684 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/849082600)
 
 Dava, yüklenicinin temliki işlemine dayalı tapu iptali ve tescili, ikinci kademedeki istek ise tazminat istemlerine ilişkindir.
 
@@ -105,6 +115,8 @@ SONUÇ: Yukarıda (1). bent uyarınca davalı ...’ün temyiz itirazlarının r
 
 ## Yargıtay 14. HD 2009/3296 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/845575400)
+
 Dava, yüklenicinin temliki işlemine dayalı tapu iptali ve tescil istemine ilişkindir.
 
 Davalı arsa sahibi, yüklenicinin edimini yerine getirmediğini, davanın reddini savunmuştur.
@@ -122,6 +134,8 @@ SONUÇ: Yukarıda açıklanan nedenlerle temyiz olunan hükmün BOZULMASINA …
 
 ## Yargıtay 15. HD 2008/2314 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/857305500)
+
 Davalı ... ve ... ...; sözleşme konusu arsanın pürüzsüz olarak teslimi gerekirken teslim edilmediğini ve sorunların halen devam ettiğini, sözleşme 10.03.2000'de yapıldığı halde imar izni ve inşaat ruhsatının ilgili belediyeden ancak 19.03.2002 tarihinde alınabildiğini, inşaattaki gecikmenin davacılar kusurundan ve arsanın sorunlu olmasından kaynaklandığını, imar mevzuatındaki yoğunluk kuralı gereğince toplam daire sayısı değişmeden blokların 11 katlı yapıldığını, bu nedenle davacıların zararının sözkonusu olamayacağını, davacıların sözleşme hükümlerini dikkate almadan talepte bulunamayacaklarını, sözleşmeye göre davacılara her katta 130 m2 bürütten 3 daireli 7 katlı blok, kapıcı dairesi + kalorifer kazanlı yapılıp teslim edilecek olup buna göre 20 adet dairenin teslimini talep edebileceklerini, temlikname geçersiz olup geçersiz temlikname ve sözleşmeye dayalı olarak cezai şart ya da kira tazminatı talep edilemeyeceğini ileri sürerek davanın reddini savunmuşlardır.
 
 …
@@ -134,6 +148,8 @@ SONUÇ:Yukarıda açıklanan nedenlerle hükmün temyiz eden davacılar ile dava
 
 ## Yargıtay 15. HD 2007/6600 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/860443000)
+
 Dava, kat karşılığı inşaat sözleşmesinin feshi (dönme), tapu iptâli ve tescil istemlerine ilişkindir.
 
 …
@@ -144,6 +160,8 @@ Hükümden sonra davacı vekili tarafından mahkemeye sunulan ve davalılardan .
 SONUÇ:Yukarıda 2.bentte açıklanan nedenle hükmün temyiz eden davacı yararına BOZULMASINA; 1.bent uyarınca da temyiz eden davalıların tüm temyiz itirazlarının reddine …
 
 ## Yargıtay 15. HD 2007/1294 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/858479400)
 
 Dava, kat karşılığı inşaat sözleşmesinin feshi (dönme), tapu iptâli ve tescil istemlerine ilişkindir.
 
@@ -156,6 +174,8 @@ Yükleniciden satın alan üçüncü kişilerin satın aldıkları bağımsız b
 SONUÇ:Temyiz olunan hükmün yukarıda açıklanan nedenlerle davacı arsa sahibi yararına BOZULMASINA …
 
 ## Yargıtay 1. HD 2007/1251 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/77931500)
 
 Davacı, .. ada ..parsel ..arsa paylı . nolu dairenin Hazine adına kayıtlı olduğunu, bina üzerine üç adet dubleks daire yapımı ve inşaa edilecek ..nolu dubleks dairenin 12.75 payının Hazineye verilmesi yönünden dava dışı yükleniciyle kat karşılığı inşaat sözleşmesi düzenlendiğini, ancak yüklenicinin edimlerini yerine getirmediği gibi dava konusu dubleks daireleri davalılara haricen sattığını ileri sürüp, ..ve .. nolu bağımsız bölümlere elatmanın önlenmesi ve ecrimisil isteğinde bulunmuştur.
 
@@ -192,6 +212,8 @@ Maddesindeki hüküm dikkate alındığında tarafların gerçek iradesinin bir 
 
 ## Antalya BAM 7. HD 2025/812 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1169537300)
+
 Davalı ... vekili cevabında, villa alım işi amacıyla iletişime geçtiği ...'ne, mülkiyeti babasında bulunan 4 adet dairenin devrini vekaletname ile yaptığını, sonrasında ...
 
 …
@@ -207,6 +229,8 @@ Davacı vekili, Gerekçeli kararda belirtilen Yargıtay içtihadı ile olayın h
 Yerel mahkeme kararının esası incelenmeksizin ORTADAN KALDIRILMASINA ve davanın yeniden görülmesi için dosyanın kararı veren mahkemeye GÖNDERİLMESİNE …
 
 ## Erzurum BAM 1. HD 2025/754 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1147284900)
 
 Davalı ...Eğitim ve Danışmanlık A.Ş vekili cevap dilekçesinde özetle; Davacının yüklenici olduğunu, diğer davalı... İnşaat ile aralarında akdedilen yüklenici sözleşmesine dayandığını, davacının müvekkilinden talep edebileceği hiçbir alacak kaleminin mevcut olmadığını, husumet itirazında bulunduklarını, dava dilekçesinde müvekkili ile...
 
@@ -230,10 +254,14 @@ Davacı vekilinin ve davalı ...'ın Erzurum Asliye Ticaret Mahkemesi'nin 2022/2
 
 ## Denizli BAM 4. HD 2025/79 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1109997900)
+
 Somut olayda; davacı, dava dışı arsa sahibinden devraldığı alacağa ilişkin olarak, davalı yükleniciye karşı dava açmıştır. Kural olarak, sözleşmeden kaynaklanan bir talep ancak sözleşmenin taraflarınca karşılıklı ileri sürülebilir. Ancak, arsa payı karşılığı inşaat sözleşmesi ile yapılan binada üçüncü kişilerin bağımsız bölümleri arsa sahibinden veya yükleniciden ya da bu kişilerin sattığı kişilerden tapuda devralmaları mümkündür. Bu durumda dava konusu bağımsız bölümleri, arsa sahiplerinden satın alan kişilerin (sözleşme gereğince arsa sahibine düşen bağımsız bölümleri almış ise), eseri meydana getiren yükleniciden talepte bulunabilmeleri için arsa sahibinin sözleşmeden doğan haklarını temlik almaları gerekir. Bu şekilde temlik alanlar, arsa sahibinin halefi olarak aktif husumet ehliyetlerinin bulunması nedeniyle davada davacı olarak yer alabilirler. Davacı, bağımsız bölümü satın aldığı arsa sahiplerinin halefi konumunda olduğundan; davacının satın aldığı bağımsız bölümden kaynaklanan dava ve haklarının, arsa payı karşılığı inşaat sözleşmesi kapsamında incelenerek karara bağlanması gerekir.
 Eş söyleyişle, arsa sahibinden bağımsız bölüm satın alan davacının davalı yüklenici aleyhine açtığı davada görevli mahkeme, arsa sahibi ile yüklenici arasındaki davaların görüleceği mahkemedir. (Bknz: Yargıtay 3. Hukuk Dairesinin 10/04/2023 tarihli, 2023/1298 Esas 2023/1013 Karar sayılı Bölge Adliye Mahkemeleri Kararları Arasındaki uyuşmazlığın Giderilmesi İstemine Dair ilamı) Bu durumda somut dava dosyasında, arsa sahibinin ve yüklenicinin her ikisinin de kooperatif olduğu nazara alındığında, nispi ticari dava bulunduğundan, görevli mahkeme Asliye Ticaret Mahkemeleridir. Mahkemece işin esasına girilerek taraf delilleri toplanıp değerlendirildikten sonra oluşacak sonuca göre karar verilmesi gerekirken yanlış değerlendirme ile yazılı şekilde davanın görevsizlik nedeni ile usulden reddine karar verilmiş olması usul ve yasaya aykırıdır.
 
 ## İstanbul BAM 7. HD 2024/2434 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1097267500)
 
 Dava, gayrimenkul satış sözleşmesinden kaynaklanan ödenen bedelin tahsili istemine ilişkindir.
 
@@ -248,6 +276,8 @@ Davacının dayandığı sözleşme geçerli olduğundan, davacı taraf dava kon
 HÜKÜM :Gerekçesi yukarıda izah edildiği üzere; 1-Bakırköy 5. Asliye Ticaret Mahkemesi'nin 22/09/2021 tarih ve 2021/419 esas 2021/702 karar sayılı kararı usul ve esas yönünden hukuka uygun olduğu anlaşıldığından davalı vekilinin istinaf başvurusunun 6100 Sayılı Hukuk Muhakemeleri Kanunu'nun 353/1-b/1. maddesi gereğince ESASTAN REDDİNE …
 
 ## Erzurum BAM 1. HD 2024/1765 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1084076500)
 
 Davacı vekili dava dilekçesinde özetle; Erzurum .... İcra Dairesinin 2020/...
 
@@ -264,6 +294,8 @@ Eser sözleşmesinde, iş sahibine emir ve talimat verme, yapılan işi denetlem
 Davacı vekilinin istinaf başvurusunun KABULÜ ile HMK’nın 353/1-a.6 maddesi uyarınca, Erzurum Asliye Ticaret Mahkemesi'nin 21.04.2022 tarih, 2020/362 E. Ve 2022/280 K. sayılı kararının KALDIRILMASINA …
 
 ## İzmir BAM 14. HD 2023/1433 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/944606200)
 
 Davacı vekili dava dilekçesinde özetle; "Taraflar arasındaki 09/07/2018 tarihli eser sözleşmesi gereğince; ... İli, ... İlçesi, ...
 
@@ -286,6 +318,8 @@ Ayrıca; yerleşik yargı uygulamalarında, sözleşmeye göre yapılması gerek
 İzmir 6. Asliye Ticaret Mahkemesi'nin 09/06/2022 tarih ve 2020/100 Esas, 2022/510 Karar sayılı kararının, 6100 Sayılı HMK'nın 353/(1)-a/4-6.maddeleri gereğince KALDIRILMASINA …
 
 ## İzmir BAM 14. HD 2023/320 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/868671000)
 
 Dava, kooperatif üyesi olan davacının tapu iptali ve tescil, olmadığı takdirde alacak istemine ilişkindir.
 

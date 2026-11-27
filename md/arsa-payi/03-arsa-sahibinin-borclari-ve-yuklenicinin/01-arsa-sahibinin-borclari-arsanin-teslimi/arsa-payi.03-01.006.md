@@ -22,6 +22,8 @@ uyari: "Derleyenin seçtiği alıntılardır; kararın tamamı değildir. Künye
 
 ## Yargıtay 1. HD 2019/5283 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/563145500)
+
 Dava, vekalet görevinin kötüye kullanılması hukuksal nedenine dayalı tapu iptali ve tescil isteğine ilişkindir.
 
 Davacı, maliki olduğu 232 ada 1 parsel sayılı taşınmaz üzerine inşaat yapımı konusunda davalı yüklenici ...ile sözleşme yaptığını, sözleşmeden sonra yüklenicinin inşaatın yapımı için paraya ihtiyacının olduğunu bildirmesi üzerine bankadan kredi alabilmesi için ... 2. Noterliği’nin 04.07.2008 tarih ve 12588 yevmiye numaralı vekaletnamesi ile davalı ...’i vekil tayin ettiğini, kat karşılığı inşaat sözleşmesinin düzenlendiği tarihten itibaren 5 yıl geçmiş olmasına rağmen inşaata başlanmadığını, sebebini sormak için Belediyeye gittiğinde davalı ... tarafından dava konusu taşınmazın ½ payının bilgisi ve rızası dışında diğer davalı ...’ye temlik edildiğini öğrendiğini, kendisine bir bedel ödenmediğini, davalıların el ve işbirliği içerinde hareket ettiklerini ileri sürerek, devredilen ½ payın tapu kaydının iptali ile adına tesciline karar verilmesini istemiştir.
@@ -45,6 +47,8 @@ Ne var ki, taşınmazın 1/2 payının vekil aracılığı ile 09.03.2009 tarihi
 
 ## Yargıtay 15. HD 2019/5195 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/556273100)
+
 Dava, arsa payı karşılığı inşaat yapım sözleşmesinden kaynaklanmakta olup mutlak butlanla batıl geçersiz sözleşmenin feshi sebebiyle davalıya eser sözleşmesinin avansı mahiyetinde verilen taşınmaz hisse kayıtlarının iptâli ile davacılar adına tescili istemine ilişkindir.
 
 …
@@ -57,6 +61,8 @@ Somut olayda adi yazılı yapılmış ve edimler büyük oranda yerine getirilme
 SONUÇ: Yukarıda 1. bentte açıklanan nedenlerle davalı şirketin diğer karar düzeltme taleplerinin reddine, 2. bent uyarınca kabulüyle Dairemizin 06.12.2018 gün 2018/1264 Esas 2018/4896 Karar sayılı bozma ilamının kaldırılarak yerel mahkeme hükmünün değiştirilen bu gerekçeyle davacılar yararına BOZULMASINA …
 
 ## Yargıtay 15. HD 2019/4861 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/554440500)
 
 Davacı yüklenici ... Tic. Ltd.
 
@@ -73,6 +79,8 @@ SONUÇ: Yukarıda 1. bentte açıklanan nedenlerle ...Özel Mirasçılarının t
 
 ## Yargıtay 15. HD 2019/4133 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/541601900)
+
 Dava, arsa payı karşılığı inşaat yapım sözleşmesi gereği davalıya ödenen kira bedelinin intifa hakkının olmaması sebebiyle istirdadı için yapılan ilamsız icra takibine itirazın iptâli ve takibin devamı istemine ilişkindir.
 
 …
@@ -82,6 +90,8 @@ Takip ve davanın adi ortakların tamamı yada yönetim ve temsil yetkisini haiz
 Hukuk Dairesi'nin 16.05.2016 gün 2015/4018 Esas 2016/2756 Karar, 11.04.2017 gün 2016/1774 Esas, 2017/1668 Karar sayılı ilamları).SONUÇ:
 
 ## Yargıtay 23. HD 2019/4109 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/546945700)
 
 Davacı vekili, taraflar arasında 18.08.2011 tarihli adi sözleşme yapıldığını, bu sözleşme ile davacının taşınmazındaki tüm hak ve hisselerini arsa payı karşılığı olarak ...' e devrettiğini, müvekkiline verilmesi taahhüt edilen giriş kattaki daire için davalı yanın, dairenin tapusunu müvekkile teslimi anında 40.000,00 TL müvekkilden almak suretiyle daireyi teslim edeceğini beyan ve taahhüt ettiğini; davalı ile müvekkili arasında adi yazılı satış sözleşmesi daha sonra ... 3.
 
@@ -97,6 +107,8 @@ Ancak tapu iptal ve tescil davalarında kayıt malikinin davada taraf olmadan da
 SONUÇ: Yukarıda açıklanan nedenlerle davacı vekilinin temyiz itirazlarının kabulü ile hükmün, davacı yararına BOZULMASINA …
 
 ## Yargıtay 23. HD 2019/4096 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/541361400)
 
 Davacılar vekili, davacı arsa sahipleri ile davalı yüklenici arasında 02.01.2004 tarihli arsa payı karşılığı inşaat sözleşmesi imzalandığını, davalı yüklenicinin edimini süresi içerisinde yerine getirmediği gibi yaptığı imara aykırı imalatlar nedeniyle bina hakkında yıkım kararı alındığını ileri sürerek, taraflar arasındaki sözleşmenin feshini talep ve dava etmiştir.
 
@@ -118,6 +130,8 @@ SONUÇ: Yukarıda (1) numaralı bentte açıklanan nedenlerle davacılar vekille
 
 ## Yargıtay 15. HD 2019/3741 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/536723800)
+
 Dava konusu ... ilçesi... Mahallesi 6560 parsel sayılı taşınmaz üzerinde arsa payı karşılığı inşaat yapımı konusunda 03.10.1984 gün, 13228 yevmiye nolu Düzenleme Şeklinde Kat Karşılığı İnşaat Yapım Sözleşmesi, dava dışı yüklenici ... ile bir kısım davacıların murisi ve taşınmazda 2/4 pay sahibi ... arasında imzalanmıştır. Aynı taşınmazda pay sahibi olan arsa sahipleri ... ve ... ile dava dışı yüklenici ... arasında aynı Noterlikte 03.10.1984 gün, 13229 yevmiye nolu Düzenleme Şeklinde Kat Karşılığı İnşaat Yapım Sözleşmesi imzalanmıştır. ...
 Asliye Hukuk Mahkemesi'nin 1995/724 Esas 1996/316 Karar sayılı dosyasındaki sözleşmenin feshi ve ifaya izin davası, 03.10.1984 gün, 13228 yevmiye nolu sözleşmeyi arsa sahibi olarak imzalayan ... mirasçıları tarafından yüklenici aleyhine açılmış ve sözleşmenin feshine ilişkin karar temyiz edilmeksizin kesinleşmiştir.Dava konusu taşınmazda kat karşılığı inşaat yapım sözleşmesinin yapıldığı tarihte yürürlükte bulunan 743 sayılı Türk Kanunu Medeni'nin 624. maddesinin son fıkrasında "Ziraat usulünün değiştirilmesi, büyük tamirat icrasi gibi daha ziyade mühim olan idari tasarruflar, müşterek mülkün yarısından fazlasına malup olan ve adet itibari ile de ekseriyeti teşkil eden hissedarların reyleri içtima etmedikçe yapılamaz" hükmü bulunmaktadır. Dava açıldıktan sonra 01.01.2002 tarihinde yürürlüğe giren 4721 sayılı Türk Medeni Kanunu'nun 692. maddesinde ise, paylı malın özgülendiği amacın değiştirilmesi, korumanın veya olağan şekilde kullanmanın gerekli kıldığı ölçüyü aşan yapı işlerine girişilmesi veya paylı malın tamamı üzerinde tasarruf işlemlerinin yapılması, oybirliğiyle, aksi kararlaştırılmış olmadıkça bütün paydaşların kabulüne bağlıdır, hükmü mevcuttur.
 Paylı taşınmazda arsa payı karşılığı inşaat yapım ve satış vaadi sözleşmesi yapılması, paylı malın özgülendiği amacın değiştirilmesi, olağan şekilde kullanmanın gerekli kıldığı ölçüyü aşan yapı işlerinden olduğu, mülkiyetin nakli taahhüdünü içeren önemli idari tasarruflar olduğundan, geçerli olarak kurulması için tüm arsa sahipleriyle birlikte ya da ayrı ayrı sözleşme yapılması gerekir.
@@ -129,6 +143,8 @@ Söz konusu karar temyiz edilmeksizin şeklen kesinleşmiş görünmekte ise de;
 
 ## Yargıtay 15. HD 2019/3556 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/545836700)
+
 Bu durumda mahkemece; öncelikle ... Belediyesi Mali Hizmetler Müdürlüğü'nün 10.09.2014 gün, 11320 sayılı ve 25.12.2015 gün, 21553 sayılı yazı suretli eklenip yazı cevapları arasındaki farklılığın nedeninin sorulup açıklattırılması ve borçların hangi tarihte, kimin tarafından ödendiği ve hacizlerin kimin tarafından kaldırıldığı da sorulup tesbit edildikleri ve ilgili belge suretleri getirttirildikten sonra konusunda uzman yeniden mali müşavir ve teknik bilirkişilerden oluşacak bilirkişi kurulundan asıl dava davacısı yüklenicinin tapu devrini talep ettiği tarihler itibarı ile sözleşmenin 5. maddesindeki aşamalı devre göre tapu devrini istemeye hak kazanıp kazanmadığı, ne kadarına hak kazandığı, arsa sahibinin devre karşı çıkmakta haklı olup olmadığı ve yüklenicinin hak kazandığı bağımsız bölüm sayısına göre dairelerin devir yetkisini kazandığı tarih itibariyle rayiç değeri ile bunun 1/5'i miktarı ve yine sözleşmenin "6.a" maddesine göre 5. maddesine ilaveten arsa sahibinin tapu devrinde gecikmesi nedeni ile ceza istemekte haklı olup olmadığı ve bunun devre hak kazandığı tarihteki bir dairenin rayiç değerine göre 1/4 miktarının ne olduğu;
 
 Arsa sahibi tarafından açılan birleşen davadaki eksik ve kusurlu işler ve nama ifaya izin talebine ilişkin olarak, ayıplı işlerin giderim bedeli ile ilgili olan nama ifa ve izin talep edilebileceğinden arsa sahibine bırakılan bağımsız bölümler ve ortak alanlardaki eksik ve kusurlu işlerin nelerden ibaret olduğu, bunların birleşen dava tarihine göre mahalli piyasa rayiçleri ile giderim bedeli, satışa izin ve yetki verilmesi istenilen yükleniciye isabet eden bağımsız bölümlerin raporun düzenleneceği tarih itibari ile mahalli piyasa rayiçlerine göre bedeli konusunda gerekçeli ve denetime elverişli rapor alınıp asıl davada daha önce hesaplanan 198.879,00 TL ilave iş bedeli alacağı ile cezai şart konusunda ve akdî faizin sözleşmenin "6.a" maddesine göre istenebilecek ceza için uygulanabileceği de gözetilerek asıl dava sonucuna uygun bir karar verilmesi, birleşen davada da nama ifaya izin talep edilen eksik ve kusurlu işlerin talep de dikkate alınarak teker teker nelerden ibaret olduğu, bunların tamamlanması ve giderilmesi için yapılması gereken masrafların avans olarak da olsa miktarının kararın hüküm fıkrasında gösterilmesi, satışa izin ve yetki verilmesi talep edilen yükleniciye ait
@@ -137,6 +153,8 @@ bağımsız bölümlerden eksik ve kusurlu işlerin giderimi için avans olarak 
 SONUÇ: Yukarıda 1. bentte açıklanan nedenlerle davalı-birleşen dosya davacısı arsa sahibinin diğer temyiz itirazlarının reddine, 2. bent uyarınca kabulü ile hükmün arsa sahibi kooperatif yararına BOZULMASINA …
 
 ## Yargıtay 15. HD 2019/3546 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/545852100)
 
 Dava, sözleşmenin uyarlanması istemine ilişkin olup, mahkemece yapılan yargılama sonunda davanın kısmen kabulüne dair verilen karara karşı, taraf vekillerince istinaf talebinde bulunulmuş, Samsun Bölge Adliye Mahkemesi 1.
 
@@ -149,6 +167,8 @@ Noterliği'nin 31.05.2012 tarih ve 14087 yevmiye numaralı kat karşılığı in
 SONUÇ: Yukarıda açıklanan nedenlerle davacının temyiz itirazlarının kabulü ile 6100 sayılı HMK'nın 371/1-ç maddesine göre Samsun Bölge Adliye Mahkemesi 1. Hukuk Dairesi'nin 18.06.2018 gün 2018/1308 Esas, 2018/1304 Karar sayılı hükmünün davacı yararına BOZULMASINA …
 
 ## Yargıtay 15. HD 2019/2559 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/516019800)
 
 Eser sözleşmeleri ve arsa payı karşılığı inşaat yapım sözleşmelerinde sözleşmede bedelin ödeneceği tarihin kararlaştırılmaması halinde, sözleşme tarihinde yürürlükte bulunan 818 sayılı BK'nın 364/I. maddesine göre işin parası teslim zamanında ödenecek, dava tarihi itibariyle yürürlüğe girmiş olan 6098 sayılı Türk Borçlar Kanunu'nun 479/I. maddesi gereğince de iş sahibinin bedel ödeme borcu eserin teslimi anında muaccel olacaktır. Taraflar arasında düzenlenen arsa payı karşılığı inşaat yapım sözleşmesinde yükleniciye bırakılan bağımsız bölümlerin kendisine devri ile ilgili bir taahhüt bulunmamaktadır. Aşamalı tapu devrine ilişkin bir düzenleme yoktur. Sözleşmede aksine bir düzenleme bulunmadığından 818 sayılı BK'nın 364/I ve 6098 sayılı TBK'nın 479/I. maddesi hükümleri gereğince arsa sahibinin tapu devri borcu eserin teslimi ile muaccel olacağından, asıl davada davacı yüklenicinin sözleşmede kararlaştırılan bağımsız bölümler ya da tapu payına veya satılmış olması halinde bedeline hak kazanabilmesi için sözleşme ve eklerine tasdikli projesi, yapı ruhsatı ile imar mevzuatına uygun olarak inşaatı tamamlayıp arsa sahibine ait bağımsız bölümleri teslim etmiş olması gerekir.
 

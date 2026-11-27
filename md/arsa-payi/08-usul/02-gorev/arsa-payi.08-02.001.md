@@ -37,6 +37,8 @@ Davacı vekilinin temyiz itirazlarının kabulü ile direnme kararının yukarı
 
 ## Yargıtay HGK 2014/57 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/83996700)
+
 Davalılar, davanın reddini savunmuş, mahkemece dava esastan incelenerek sonuçlandırılmıştır.
 
 …
@@ -60,6 +62,8 @@ Hukuk Genel Kurulu görüşmeleri sırasında bir kısım üyelerce; eldeki dava
 S O N U Ç : Davalılar vekilinin temyiz itirazlarının kabulü ile,direnme kararının Özel Daire bozma ilamında gösterilen nedenlerden dolayı, 6217 sayılı Kanunun 30.maddesi ile 6100 sayılı Hukuk Muhakemeleri Kanunu’na eklenen “Geçici madde 3” atfıyla uygulanmakta olan 1086 sayılı Hukuk Usulü Muhakemeleri Kanunu’nun 429.maddesi gereğince BOZULMASINA …
 
 ## Yargıtay HGK 2009/471 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/77000200)
 
 Davalı kooperatif, davalı yüklenici şirketin sözleşmeden kaynaklanan edimlerini yerine getirmediğini, inşaatın mevcut hali ile davacının kooperatiften bir istekte bulunamayacağını, davada görevli mahkemenin de Asliye Ticaret Mahkemesi olduğunu savunarak, davanın reddini dilemiş, diğer davalı ise davaya cevap vermemiştir..
 
@@ -98,9 +102,13 @@ Riskli yapı kararı verilen taşınmazın kentsel dönüşüm suretiyle yeniden
 
 ## Yargıtay 5. HD 2024/3978 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1028792700)
+
 Dosya kapsamından, davacı ... ile davalı yüklenici ...Eğ. Öğr. İnş. Tur. San. ve Tic. A.Ş arasındaki satışın 4077 sayılı Kanun kapsamında tüketici işlemi niteliğinde olduğu, davacının tüketici konumunda olduğu ve müteahhite karşı açtığı davada görevli mahkemenin tüketici mahkemesi olduğu anlaşılmaktadır. birleştirilen dava arasındaki hukuki ve fiili irtibat gereğince, asıl dosya davacısından daire satın alan davacının açmış olduğu davanın da, asıl davayla birlikte, özel mahkeme niteliğinde olan tüketici mahkemesinde görülmesi gerektiğinden, uyuşmazlığın Ankara 4. Tüketici Mahkemesinde çözümlenmesi gerekmektedir.
 
 ## Yargıtay 7. HD 2023/3904 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/979073500)
 
 Davacılar vekili dava dilekçesinde; Adana 14. Noterliğinin 23.07.1999 tarih ve 17942 yevmiye No.lu kat karşılığı inşaat sözleşmesine istinaden; davacı ...'in 28 No.lu daireyi 19.02.2000 tarihinde satın aldığını belirtilerek, bu daireye ... tarafından yapılan müdahalenin men'ine, ...'ın 11 No.lu daireyi 29.12.1999 tarihinde satın aldığı belirtilerek, bu daireye ... tarafından yapılan müdahalenin men'ine, ...'nın 22 No.lu daireyi 14.05.2001 tarihinde satın aldığını belirtilerek, bu daireye ... tarafından yapılan müdahalenin men'ine karar verilmesini, ayrıca her 3 davacı tarafından tüm davalılara yönelik 45.000,00 TL mahrum kalınan kira bedelinin munzam zarar olarak teslim tarihi olan 31.12.2002 tarihinden itibaren yasal faizi ile birlikte tahsiline karar verilmesini talep etmiştir.
 
@@ -122,6 +130,8 @@ Yukarıda IV-C-3-1.2 bentte açıklanan nedenlerle davacılar vekilinin, IV-C-3-
 
 ## Yargıtay 15. HD 2021/3024 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/671283300)
+
 Davalı yüklenici, davacının dayandığı 18.05.2007 tarihli sözleşmede imzası bulunan ...’nın şirketi temsile yetkili olmadığını, kaldı ki sözleşmede alındığı yazılı olan 149.800 Euro’nun ödenmediğini savunarak davanın reddini savunmuştur.
 
 Mahkemece, davanın reddine dair verilen karar, taraflar vekilinin temyizi üzerine, Yargıtay 14.
@@ -135,6 +145,8 @@ Tüm bu açıklamalardan sonra somut olaya gelince; mahkemece davacı arsa sahib
 SONUÇ: Yukarıda (1) numaralı bentte açıklanan nedenlerle temyiz isteminin süreden reddine yönelik 23.06.2020 tarihli ek kararın KALDIRILMASINA …
 
 ## Yargıtay 13. HD 2020/3037 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/578535200)
 
 Davalı, usulüne uygun tebligata rağmen cevap dilekçesi sunmamıştır.
 
@@ -152,6 +164,8 @@ Bir hukuki işlemin sadece 6502 Sayılı Yasada düzenlenmiş olması tek başı
 SONUÇ: Yukarıda 1. bentte açıklanan nedenlerle feri müdahilin temyiz dilekçesinin reddine, 2.bentte açıklanan nedenlerle temyiz edilen kararın BOZULMASINA …
 
 ## Yargıtay 14. HD 2019/8588 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/612596400)
 
 Davacı vekili, davacının 07/01/2011 tarihli noter satış vaadi sözleşmesi ile ... ilçesi, Alibeyköy Mahallesi 490 ada 13 parsel sayılı taşınmaz üzerinde inşa edilen binanın A Blok 1. normal kat alt giriş olan sağ tarafta kalan ve ön cepheye bakan 6 No'lu daireyi (sonradan projede yapılan değişiklikle 12 No'lu daire olmuştur.) ... isimli kişiden satın aldığını, ...'ın da aynı daireyi yine noter satışı ile müteahhit ...'den satın aldığını, yapılan muvazaalı satışlar sonucunda tapuda mal sahibi olarak görünen davalı ... ve binanın müteahhidi ... ile oğlu ...'ün ortak hareket ettiğini, davacı ve birçok kişiyi aynı yolla dolandırmak isteyen kötü niyetli kimseler olduklarını, davalının dava konusu daireyi satın alabilecek maddi güce sahip olmadığını, dairenin gerçek değerinin tapuya yansıtılmadığını, bu durumun yapılan işlemde muvazaanın varlığına delil teşkil ettiğini, muvazaalı satışın baştan yok hükmünde olduğunu, muvazaalı satış ile ortak amacın aslen mülkiyeti davacıya ait olan daireyi ...'a aitmiş gibi gösterip, davacıyı zorla daireden çıkartıp haksız menfaat temin etmek olduğunu, davacının dava konusu dairede çok uzun süredir oturduğunu belirterek, davalı adına olan tapu kaydının
 iptali ile davacı adına tesciline karar verilmesini istemiştir.
@@ -175,6 +189,8 @@ SONUÇ: Yukarıda açıklanan nedenlerle, davacı vekilinin karar düzeltme iste
 
 ## Yargıtay 20. HD 2019/4629 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/518896700)
+
 Dava, sözleşmeye aykırılık nedeniyle tazminat istemine ilişkindir.
 
 ... 9. Asliye Hukuk Mahkemesince, davacının gerçek kişi - arsa sahibi olarak sözleşmenin tarafı olduğu, davalı şirket ile yapılan sözleşmenin eser sözleşmesi niteliğinde olduğu, 6502 sayılı Tüketicinin Korunması Hakkında Kanunun madde 3/1 (k) - (l) bendine göre tüketici işlemi niteliğinde olan sözleşmeye dayalı davada aynı Kanunun 73. maddesine göre Tüketici Mahkemelerinin görevli olduğu gerekçesiyle görevsizlik kararı verilmiştir.
@@ -183,11 +199,15 @@ Dava, sözleşmeye aykırılık nedeniyle tazminat istemine ilişkindir.
 
 ## Yargıtay 20. HD 2019/4621 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/518918700)
+
 Dava, kat karşılığı inşaat sözleşmesinden kaynaklanan tapu iptal ve tescil istemine ilişkindir.
 
 ... 11. Asliye Hukuk Mahkemesince, davacının istemi davalı ... Grup Yapı İnşaat ... Kuyumculuk San. Tic. Ltd. Şti. arasında yapılan Kat Karşılığı İnşaat Sözleşmesi uyarınca davacıya sözleşmeye uygun şekilde bir adet daire tesliminde yapılan hatadan dolayı tapu iptali ve tescildir. Taraflar arasındaki uyuşmazlık tüketici durumundaki davacı ile yüklenici davalılar arasındaki eser sözleşmesi sayılan Kat Karşılığı İnşaat Sözleşmesi'nden kaynaklanmaktadır. 6502 sayılı Tüketicinin Korunması Hakkındaki Kanun'un 2.maddesine göre her türlü tüketici işlemi ile tüketiciye yönelik uygulamalar bu yasa kapsamındadır. 6502 sayılı Tüketicinin Korunması Hakkındaki Kanunun 3/l maddesinde tarif edilen şekilde taraflar arasındaki ilişki tüketici işlemi olup, 6502 sayılı Kanunun 73/1 maddesinde ''Tüketici işlemleri ile tüketiciye yönelik uygulamalardan doğabilecek uyuşmazlıklara ilişkin davalarda tüketici mahkemeleri görevlidir.'' hükmü uyarınca davaya bakmakla görevli mahkeme tüketici mahkemesi olduğu gerekçesiyle görevsizlik kararı verilmiştir.
 
 ## Yargıtay 15. HD 2019/3290 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/519003700)
 
 Davacılar vekili, müvekkili ile davalı yüklenici arasında 16.05.2005 tarihli sözleşme ile diğer davalı arsa sahiplerine ait 147 ada 65-66 parseller üzerinde yapılacak binadan yükleniciye isabet edecek A blok 8 numaralı dairesin satın alındığını, ancak sözleşmeye rağmen tapu devrinin gerçekleştirilmediğini, bağımsız bölümün tapu kaydının iptâli ile adına tescilini talep etmiştir.
 
@@ -201,11 +221,15 @@ SONUÇ: Yukarıda açıklanan nedenlerle Karar düzeltme isteminin kabul ile Yar
 
 ## Yargıtay 15. HD 2019/2228 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/504434100)
+
 Asıl davada yüklenici adına tescile karar verilen ... ili ... ilçesi ... mahallesi 322 ada 11 parseldeki 3 nolu bağımsız bölümün geri çevirme kararı üzerine dosyaya kazandırılan mahkeme kararı ve tapu kaydına göre dava dışı, yükleniciden temlik alan tarafından yüklenici ve arsa sahipleri aleyhine açılan dava sonucunda ... 5. Tüketici Mahkemesi'nin 2011/254 Esas 2015/1488 Karar sayılı ilamı ile arsa sahipleri adına olan tapu kaydı iptâl edildiği ve kararın temyiz edilmeyerek kesinleştiği ve söz konusu bağımsız bölümün 14.07.2017 gün 8376 yevmiye no ile ...'ya satış yoluyla devredildiği ve halen onun adına tescilli olduğu anlaşılmaktadır.Yine hükmüne uyulan Yargıtay 23.
 Hukuk Dairesi'nin 27.11.2014 gün 2014/2721 Esas 2014/7614 Karar sayılı bozma ilamının 2. bendi gereğinde asıl davada davalı arsa sahiplerinin davaya karşı çıkmakta haklı olmaları nedeniyle kabul edilen 3 nolu bağımsız bölümle ilgili ücreti vekâlet ve yargılama gideri ile harçtan sorumlu tutulmamaları yerinde ise de; yanında asıl davada 1 ve 10 nolu bağımsız bölümlerle ilgili talep ve dava reddedildiğine göre asıl davanın reddolunan kısmının değeri üzerinden vekille temsil olunan davalı arsa sahipleri yararına vekâlet ücretine hükmedilmesi zorunludur.Bu halde mahkemece yapılması gereken işi ...5.
 Tüketici Mahkemesi'nin 2011/254 Esas 2015/1438 Karar sayılı dosyası ile 3 nolu bağımsız bölüme ait tapu kaydının intikalleri ve intikale esas olan akit tablo süretleri de getirtilerek davadan sonra bu bağımsız bölümün devredilmiş olması sebebiyle 6100 sayılı HMK'nın 125. maddesi de değerlendirilerek sonucuna uygun bir karar verilmesi asıl davada 1 ve 10. nolu bağımsız bölümlerle ilgili dava reddedildiğinden bunların değeri üzerinden vekille temsil olunan asıl dava davalılarından arsa sahipleri yararına değerleri üzerinden nisbi vekâlet ücretine hükmedilmesi olmalıdır.Mahkemece bu hususlar üzerinde durulmadan karar verilmesi usul ve yasaya aykırı olduğu gibi davadan sonraki devir sebebiyle inceleme ve değerlendirme yapılması zorunlu olduğundan kararın bozulması uygun bulunmuştur.SONUÇ: Yukarıda 1. bentte açıklanan nedenlerle asıl dava davacısı kooperatif ile davalılardan arsa sahiplerinin diğer temyiz itirazlarının reddine, 2. bent uyarınca kabulüyle hükmün asıl dava yönünden davacısı kooperatif ve davalılar arsa sahipleri ..., ..., ... ve ...
 
 ## Yargıtay 23. HD 2019/1463 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/509716500)
 
 Davacı vekili, müvekkili arsa sahipleri ile davalı yüklenici arasında arsa payı karşılığı inşaat sözleşmesi imzalandığını, yüklenicinin sözleşmedeki edimlerini yerine getirmemesi nedeniyle sözleşmenin feshedildiğinin ihtarname ile yükleniciye bildirildiğini, buna rağmen yüklenicinin tapuya şerh koyduğunu, usulsüz tevhid işlemi yaptığını ileri sürerek sözleşmesinin fesihinin haklı olduğunun tespitine, tapuya konulan arsa payı karşılığı şerhinin terkinine, usulsüz bir şekilde tapuda yapılan tevhid işleminin düzeltilerek tapunun işlemden önceki haline getirilmesini, fesih nedeni ile davacının maruz kaldığı zararlar saptanarak davalıdan tahsilini, davalının inşaata müdahalesinin önlenmesini talep ve dava etmiştir.
 
@@ -222,6 +246,8 @@ Bu durumda mahkemece, somut uyuşmazlığın 6502 Sayılı Yasa kapsamında bir 
 SONUÇ: Yukarıda açıklanan nedenlerle davalı vekilinin temyiz itirazlarının kabulü ile mahkeme kararının BOZULMASINA …
 
 ## Yargıtay 23. HD 2019/990 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/495883200)
 
 Davacılar vekili, davacılar ile davalı şirket arasında arsa payı karşılığı inşaat sözleşmesi imzalandığını, davacıların diğer ada sakini maliklerle birlikte inşaata başlanacağını beklerlerken davalı şirketin bir süre sonra ünvanı ile çok benzer ikinci bir şirket kurduğunu, kurulan ikinci şirket ile sözleşme imzaladığı, ikinci imzalanan sözleşmelerin davalının sadakat ve özen yükümlülüğüne aykırı hareket ederek taşınmaz malikleri açısından daha aleyhe koşullar taşıdığı iddia edilerek sözleşme imzalatıldığını ileri sürerek sözleşmenin davalı ediminin imkansız hale geldiğinin tespiti ile ifa imkansızlığı sebebiyle oluşan davacıların müsbet zararının tespiti ile fazlaya ilişkin hakları saklı kalmak koşuluyla şimdilik 10.000,00 TL'nin faizi ile birlikte davalıdan tahsilini talep ve dava etmiştir.
 

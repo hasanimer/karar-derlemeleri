@@ -22,6 +22,8 @@ uyari: "Derleyenin seçtiği alıntılardır; kararın tamamı değildir. Künye
 
 ## Yargıtay 3. HD 2022/9041 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/854902700)
+
 Davacılar, hissedar oldukları taşınmazlarının bulunduğu bölgenin ...
 
 …
@@ -42,6 +44,8 @@ SONUÇ : Yukarıda bentlerde açıklanan nedenlerle, davacıların temyiz itiraz
 
 ## Yargıtay 1. HD 2022/8342 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/883826000)
+
 3\. 4706 sayılı Yasa'nın 5. maddesi 6. fıkrasına göre taşınmazların yapı sahiplerine devrinin öncelikli olduğu belirtilmiş ise de; kanundaki düzenleme şeklinden devir yönünde mutlak zorunluluk olmadığı anlaşılmaktadır. Zira; 4706 sayılı Yasa'nın 7. maddesi 2. fıkrası; "Bu kanunun uygulamasına ilişkin esas ve usuller ile üçüncü madde, dördüncü maddenin (d bendi) ve beşinci maddesini 6. fıkrasında yer alan hükümlerin uygulanmayacağı yerleri belirlemeye, Cumhurbaşkanınca belirlenecek hazineye ait taşınmaz mallarına gayrimenkul satış vaadi ve arsa payı karşılığında hasılat paylaşımı esasına göre inşaat sözleşmesi yapılmak suretiyle gayrimenkul yatırım payı ortaklıkları veya gerçek tüzel kişiler ile birlikte değerlendirilmesine ilişkin esas ve usulleri tespit etmeye bakanlık yetkilidir." hükmünü içermektedir.
 Bu madde ile yapılan düzenlemede, 5/6. maddede bakanlıkça tespit edilen hazineye ait taşınmazların öncelikle yapı sahiplerine satılmak üzere ilgili belediyelere bedelsiz olarak devredilecek taşınmazların anılan hükümlerin uygulanıp uygulanmayacağının belirleme yetkisinin Cumhurbaşkanına ait olduğu, taşınmazın devir ve dava açıldığı tarih itibariyle bu yetkinin bakanlar kuruluna ait olduğu düzenlenmiş olup, taşınmazların 2011 yılında davalı TOKİ'ye ... ile devir işleminin 7. madde 2. fıkrasına dayandırıldığı anlaşılmaktadır.
 
@@ -56,11 +60,15 @@ Yukarıda açıklanan nedenlerle; davalılar ve fer’i müdahil vekilinin yerin
 
 ## Yargıtay 5. HD 2021/48 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/661299000)
+
 …
 
 ... 8. Tüketici Mahkemesince ise, uyuşmazlığın tüketici işlemi olabilmesi için anlaşmazlığın tüketici ile müteahhit arasında olması gerektiği, somut olayda ihtilafın arsa sahibi ile davalı TOKİ arasında olduğu, davalı idarenin gelir elde edecek şekilde ticari bir faaliyet yaptığı, davacının ise sahip olduğu arsa karşılığında yüklenici idareden daire aldığı, kentsel dönüşümün idarenin tek taraflı olarak almış olduğu karar neticesinde uygulanan yenileme projesi olduğu, bu sebeple davacının özgür iradesi ile tüketim amacı ile yapmış olduğu bir tüketici işlemi de bulunmadığı, davacının kentsel dönüşüm projesi kapsamında davalıya devretmiş olduğu taşınmazının yenilenmesi suretiyle değerinin artacağını düşünerek davalı ile sözleşme imzalamış olup davacının asıl amacının tüketim olmayıp bir nevi kar elde etmek olup bu yönüyle de davacının tüketici olarak kabulü mümkün olmadığı gerekçesiyle görevsizlik kararı verilmiştir.
 
 ## Yargıtay 15. HD 2020/1858 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/589217000)
 
 492 sayılı Harçlar Yasası'nın 13/1-j maddesindeki genel bütçeye dahil idarelerin harçtan muaf olduğu belirtilmiş olup, davalı yüklenici ... genel bütçeye dahil idare ise de; 5766 sayılı Kanun'un 15. maddesi ile 02.03.1984 tarihli, 2985 sayılı Toplu Konut Kanunu'na eklenen Ek 12. maddesinde ... (TOKİ)'nın, 488 sayılı Damga Vergisi Kanunu ve 492 sayılı Harçlar Kanunu uygulaması açısından özel bütçeli idareler kapsamında değerlendirileceği düzenlenmiş olduğundan, davalı yüklenici TOKİ genel bütçe içinde yer almasına rağmen 492 sayılı Harçlar Kanunu'nun 13/j maddesindeki harç muafiyetinden yararlanamayacaktır.
 
@@ -69,6 +77,8 @@ Yukarıda açıklanan nedenlerle; davalılar ve fer’i müdahil vekilinin yerin
 SONUÇ: Yukarıda 1. bentte açıklanan nedenlerle davalının diğer temyiz itirazlarının reddine, 2. bent uyarınca kabulü ile yargı harçları kamu düzenine ilişkin olup re'sen dikkate alınması gerektiğinden, hüküm kısmının üçüncü bendinde yer alan ''Davalı kurum harçtan muaf olduğundan davacı tarafından yatırılan 21,15 TL peşin harcın hüküm kesinleştiğinde ve talep halinde davacıya iadesine'' kelime dizininin karardan tamamen çıkartılarak yerine ''492 sayılı Harçlar Kanunu gereğince alınması gereken 170,77 TL harçtan peşin alınan 21,15 TL harcın mahsubu ile bakiye 149,62 TL harcın davalıdan alınarak hazineye irad kaydına'' rakam ve kelimelerinin yazılmasına, kararın değiştirilen bu şekli ile DÜZELTİLEREK ONANMASINA …
 
 ## Yargıtay 20. HD 2018/4323 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/429338300)
 
 Mahkemece dava konusu taşınmazda davacıların arsa payı % 25 olmasına rağmen, yeni yapılacak inşaattan % 0.75 (0.0075) pay teklif edildiği, davacıların taşınmazın % 0.75 değerinde bağımsız bölümü kabul edip etmeme teklifi ve kabul edilmediği takdirde hissesinin satışa çıkarılması baskısı ile karşı karşıya bırakılmış bulundukları, davalılar tarafından davacıların ya sözleşmeyi kabul ya da paylarının satışına katlanma durumunda bırakmaya zorlayan karar ve sözleşme hükümlerinin davacıların mülkiyet hakkına yönelik ağır bir müdahale olduğu gerekçesiyle sözleşmede yer alan edimler arasında davacılar aleyhine aşırı oransızlık olduğunun tespitine, dava konusu yapılan sözleşmede yer verilen edimler arasında aşırı bir oransızlık bulunduğundan bunu ortadan kaldıracak hak sahiplerine ve müteahhite verilecek pay oranlarının taraflarca tespitinin gerektiği gerekçesiyle de Hak sahibi ve müteahhite verilecek pay oranlarının tespiti ile ilgili talebin reddine karar verilmiş, hüküm taraflar vekillerince temyiz edilmiştir.
 
@@ -82,6 +92,8 @@ tebliğde, onbeş gün içinde kararın ve teklifin kabul edilmemesi halinde ars
 SONUÇ: Yukarıda açıklanan nedenlerle temyiz itirazlarının kabulü ile hükmün BOZULMASINA …
 
 ## Yargıtay 14. HD 2018/4257 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/425780800)
 
 Dava, ortaklığın giderilmesi istemine ilişkindir.
 
@@ -102,6 +114,8 @@ SONUÇ: Temyiz olunan kararın yukarıda açıklanan nedenlerle BOZULMASINA …
 
 ## Yargıtay 15. HD 2018/3953 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/454523700)
+
 Davalı yüklenici, davacının sözleşmeye uygun şekilde edimini ifa etmediğini, taahhüdünü yerine getirmediğinden, imzaladıkları sözleşmeyi haklı olarak feshettiğini ve davanın reddini savunmuştur.
 
 …
@@ -118,6 +132,8 @@ SONUÇ: Yukarıda 1. bentte yazılı nedenlerle kararın temyiz eden davalı ars
 
 ## Yargıtay 23. HD 2015/6522 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/118930800)
+
 Mahkemece, tüm dosya kapsamı ve bilirkişi raporuna göre, asıl davada 27.12.2012 tarihli celse davacının duruşmaya katılmadığı için dosyanın işlemden kaldırıldığı ve üç aylık yenileme süresi geçtikten sonra 30.05.2013 tarihli dilekçe ile yenileme talebinde bulunmasına rağmen harç yatırmadığından 2009/540 Esas sayılı dava dosyası yönünden davanın açılmamış sayılmasına karar verildiği, birleşen 2010/334 Esas sayılı dava dosyasında ise, 08.03.2013 tarihli raporda; taraflar arasındaki ihtilafın davalı karşı davacının tapu haricinde yaptığı sözleşmelere istinaden 15 adet apart daire için tahsil edilen toplam 1.622.713,72 TL'lik avanstan davacı karşı davalı tarafından pay talep edilmesinden kaynaklandığı, avansın geçici ödeme niteliğinde olması nedeni ile avanstan pay talep edilemeyeceği, ancak avans tahsil edilen 15 yabancı uyruklu kişinin, tapu harici yapılan sözleşmelere istinaden davalı karşı davacıdan satın aldıkları 15 adet apart daire üzerinde malik gibi tasarruf hakkı kullandığı, bu nedenle resmi satış işlemlerinin en kısa zamanda tamamlanarak resmi satış bedelinden davacı karşı davalının payına düşen bedelin ödenmesi, anlaşmaya varılmaması durumunda davacı karşı davalının payına
 düşen 9 adet apart daire üzerine koyduğu satış vaadi şerhini iptal ettirmesi, davacı karşı davalının da, davalı karşı davacının payına düşen meskenleri tapuda davalı karşı davacıya devretmesi gerektiği belirtildiğinden, davanın kabulüne karar verilmesi gerektiği gerekçesiyle, 2009/540 Esas sayılı asıl dava dosyası yönünden açılan davanın HMK'nın 150. maddesi gereğince açılmamış sayılmasına, birleşen 2010/334 Esas sayılı dava dosyası yönünden davanın kabulü ile, Muğla ili Fethiye ilçesi, Hisarönü köyü 365 ada 1 parselde kayıtlı A Blok 1, 2 ve 3 no'lu, E Blok 1 ve 3 no'lu, F Blok 1, 2, 3 ve 4 no'lu bağımsız bölümlerin davalı E..
 
@@ -132,6 +148,8 @@ SONUÇ : Yukarıda (1) numaralı bentte açıklanan nedenlerle, davacı ve birle
 
 ## Yargıtay 17. HD 2014/15813 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/373197400)
+
 Dava, kat karşılığı inşaat sözleşmesinden kaynaklanan alacak istemine ilişkindir.
 
 …
@@ -139,6 +157,8 @@ Dava, kat karşılığı inşaat sözleşmesinden kaynaklanan alacak istemine il
 Somut olayda dosya kapsamına göre, davalı TOKİ’nin arsa sahibi, davalı kooperatifin ise arsa tahsis edilen tüzel kişi olduğu, taşınmaz ile ilgili olarak davacı müflis müteahhit şirket ile davalı kooperatif arasında kat karşılığı inşaat sözleşmesi düzenlendiği, süresinde yüklenilen işin yapılmaması nedeniyle davalı kooperatif tarafından sözleşmenin feshedildiği anlaşılmaktadır. Davacı müflis müteahhit şirket, sözleşmenin tek taraflı olarak feshedilmesi nedeniyle inşaatın imalat bedelinin davalılardan tahsilini talep etmektedir.Bu nedenlerle uyuşmazlık, eser sözleşmesinden kaynaklanmakta olup, davalılardan TOKİ tacir olmadığı gibi, uyuşmazlığın her iki tarafın ticari işletmesinden kaynaklanmadığı anlaşıldığından, ticari dava niteliğinde olmayan uyuşmazlığın genel hükümler çerçevesinde Asliye Hukuk Mahkemesinde görülüp sonuçlandırılması gerekmektedir.
 
 ## Yargıtay 15. HD 2011/3284 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/766542600)
 
 Davacılar 1-..., 2-..., 3-(...)... (...) ...ile davalılar 1-... İnş.
 
@@ -157,6 +177,8 @@ SONUÇ: Yukarıda açıklanan nedenlerle davacıların karar düzeltme istemleri
 …
 
 ## İstanbul BAM 3. HD 2026/623 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1196658900)
 
 Davacı, ... ..... Noterliği'nin..... yevmiye nolu Taşınmaz Vaadi ve Arsa Payı Kat Karşılığı İnşaat Sözleşmesi akdedildiğini,sözleşmeden kaynaklanan edimini yerine getirdiğini, ancak vergi incelemesi sonucu düzenlenen 16.12.2020 tarihli raporda " taşınmazların üçüncü kişilere satışına iliş- kin faturaların davacı tarafça düzenlenmesi gerektiği, satış hasılatının % 48'inin arsa sahibine , % 52'sinin davacıya ait olması gerektiği, davalının kendi payına düşen %48 için arsa payı faturası kesmesi gerektiğini, ancak kesmediği"nin tespit edildiğini, davalının bu eylemleri nedeniyle usulsüzlük cezası kesildiğini, KDV iadesinden kaynaklı 33.000.000 TL ve fazladan ödenen 13.595.000 TL zararın mevcut olduğunu, fazla ödenen 13.595,021 TL KDV tutarının davalıdan tahsili için icra takibi başlattıklarını, ancak borçlunun haksız itirazı nedeniyle takibin durduğundan bahisle itirazın iptalini istemiştir.
 

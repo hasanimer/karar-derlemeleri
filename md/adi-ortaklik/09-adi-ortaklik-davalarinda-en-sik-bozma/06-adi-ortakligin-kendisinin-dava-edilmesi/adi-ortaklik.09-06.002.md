@@ -22,11 +22,15 @@ uyari: "Derleyenin seçtiği alıntılardır; kararın tamamı değildir. Künye
 
 ## Yargıtay 11. HD 2013/18539 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1039294100)
+
 Adi ortaklıklarda idareci ortak olağan şirket işlerini yürütmeye yetkilidir; olağanüstü işler için ise bütün ortakların ittifakı şarttır. Diğer bir deyimle, idare hakkı olağan işleri kapsar. Dava açma ise olağan işlerden olmayıp dava açılabilmesi için vekile özel yetki verilmesi gerekir.
 
 Bu açıklamadan sonra somut olaya geldiğimizde; ihtiyati haciz kararına itiraz edene veya temsilcisine özel yetki verilmesine ilişkin alınmış bir ortaklık kararı olmadığından ihtiyati hacze itiraz hakkının bulunmadığının kabulü gerekir. Diğer yandan, yukarıda belirtildiği gibi adi ortaklığın tüzel kişiliği mevcut olmadığından adi ortaklık adına eldeki itirazı bütün ortakların veya diğer ortaklardan bu konuda açık yetki almış idareci ortağın yapması gerekir. Bu nedenle tüzel kişiliği olmayan adi ortaklığın taraf ehliyeti bulunmadığından ihtiyati haciz kararına itirazın bu sebeple reddi gerekirken, yazılı şekilde itirazın kabulüne karar verilmesi doğru görülmemiş, ihtiyati haciz isteyen vekilinin temyiz itirazlarının kabulüyle hükmün temyiz eden ihtiyati haciz isteyen yararına bozulmasına karar vermek gerekmiştir.
 
 ## Yargıtay 3. HD 2013/17914 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/262821600)
 
 Yine, akdi ilişki sürecinde davalılar tarafından ... ... Noterliği'nin 03/03/2011 tarih ve 14464 sayılı ihtarnamesi ile davacının sözleşmeye aykırı hareketleri nedeniyle ortaklıktan çıkartıldığı bildirilmiştir. Ancak, ortaklıktan çıkarmaya ilişkin ihtar mahkemece de kabul edildiği şekilde geçerli değildir. Bu nedenle, .../08/2009 tarihli sözleşme ile taraflar arasında kurulan adi ortaklığın devam ettiğinin kabulünde bir isabetsizlik bulunmamaktadır. Her ne kadar olayda davalılar ihtarname ile ortaklığın feshini ihbar etmişler ise de, haklı nedenlere dayanarak bir fesih davası açmamışlardır. Haklı nedenlerle fesihte, ortaklık mahkemece ortaklığın feshine karar verilmesiyle son bulur (6098 sayılı Borçlar Kanunu 639/.... maddesi).
 
@@ -34,28 +38,40 @@ Bunun yanında, adi ortaklığın tüzel kişiliği yoktur. Bu nedenle araçlar 
 
 ## Yargıtay 3. HD 2013/16006 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/261376900)
+
 Somut olaya gelince, davalının davanın açıldığı tarihteki yerleşim yeri adresi.... Davalı yetki itirazında bulunmamıştır. HMK.nun 14.maddesi, tüzel kişilerle ilgili davalarda yetkiye ilişkin düzenlemeyi içermektedir. Dava konusu adi ortaklığın tüzel kişiliği bulunmadığından bu tür davalarda dava açılırken husumet tüm ortaklara karşı yöneltilir. Davalı adi ortaklığın diğer ortağıdır. Adi ortaklığın tüzel kişiliği bulunmadığından HMK’nın 14.maddesinin bu davada uygulaması sözkonusu olamaz. Davanın davalının adresi olan .... Mahkemesi'nde açıldığı ve mahkemenin yetkili olduğu düşünülmeden, yukarıdaki gerekçe ile davanın yetkisizlik nedeniyle reddi doğru görülmemiştir.
 
 ## Yargıtay 13. HD 2013/4896 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/543901200)
 
 Dosyanın incelenmesinde davalı kurumca yapılan ihaleye davacı ile dava dışı ...Ltd. Şti ve...Ltd. Şti'nin oluşturduğu ortak girişimin iştirak ettiği ve ihaleyi kazandığı ve sözleşmenin de iş ortaklığını oluşturan şirketlerce birlikte imzalandığı, ihale aşamasında davalı kuruma verilen iş ortaklığı beyannamesinde de pilot ortak olan dava dışı ....Ltd. Şti'nin ortaklık oranının %98, davacı şirketin %1 ve dava dışı diğer ortak şirketinde %1 oranında ortaklıklarının bulunduğu anlaşılmaktadır. Bu itibarla, davacı ile dava dışı şirket arasında dava konusu ihale için adi ortaklık oluşturulduğunun kabulü zorunludur. Adi ortaklığın tüzel kişiliği bulunmadığı içinde adi ortaklığı ilgilendiren ihtilaflarda tüm ortaklıkların birlikte yer alması gerekir. Dava konusu olayda, iş ortaklığının edimini yerine getirirken hakedişlerinden kesilen paranın iadesi hususu adi ortaklığı ilgilendiren bi husus olduğu için adi ortakların tamamının davada taraf olması gereklidir. Dava konusu olayda ise bu koşul gerçekleşmediği gibi, davacı iş ortaklığını oluşturan dava dışı şirketlerden dava açmak için muvafakat aldığını da iddia ve ispat etmemiştir.
 Hal böyle olunca, davacının eldeki davada tek başına aktif husumet ehliyetine sahip olmadığı ve dava açamayacağının kabulü gerekir. Mahkemece, davacının aktif husumet ehliyetine sahip olmaması nedeniyle davanın reddine karar vermesi gerekirken, yazılı şekilde karar vermiş olması usul ve yasaya aykırı olup, kararın bu nedenle bozulması gerekirken, zuhulen onandığı bu kez yapılan inceleme ile anlaşılmış olmakla, davalının bu yöne ilişkin karar düzeltme itirazının kabulü ile kararın bozulmasına karar verilmesi gerekmiştir.
 
 ## Yargıtay 15. HD 2013/2768 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/257675100)
+
 Somut olayda uygulanması gereken 818 sayılı Borçlar Kanunun'nun 520 ve izleyen maddeleri hükümleri gereğince, davacı şirket ile dava dışı sözü edilen şirket arasında yapılan sözleşme "adi ortaklık" sözleşmesidir. Adi ortaklığın tüzel kişiliği yoktur. Ortaklık sözleşmesi veya ortaklar kararı ile yönetim yetkisi ortaklardan birisine bırakılmamışsa, ortaklık işlerinin yönetimi bütün ortaklara aittir. Ortaklığın idarecileri, ortaklık sözleşmesi ile, ortakların kararıyla veya kanunla atanmış olabilirler. Atanmış idareci yahut idareciler, ortaklığın normal sayılan işlerini, diğer ortakların onayını almadan yapabilirler. Ancak, 818 Sayılı Kanun'un 525. maddesi hükmü uyarınca, olağan işlerin üstündeki önemli tasarrufların yapılması için bütün ortakların oybirliği gerekir. Ortaklık adına bağışta bulunmak, ticaret konusuna girmiyorsa taşınmaz mal satın almak, satmak, teminat olarak göstermek; ortaklığa genel vekil atamak gibi tasarruflar önemli tasarruflardandır. Dava açılması da, önemli tasarruf sayılır. 818 Sayılı Kanun'un 530. maddesi hükmü gereğince, idareci ortak ile diğer ortaklar arasındaki ilişkiler, vekâlet hükümlerine tabidir.
 Oysa, anılan yasanın 388/III. maddesine göre vekil, özel olarak yetkili kılınmadıkça dava açamaz. Bu yasal nedenle de, dava açılmasına yönelik ortaklarca alınmış karar veya verilmiş bir açık yetki bulunmadıkça, ortaklığı temsilen idareci ortak dava açamaz. İlke olarak, 818 Sayılı Kanun'un 534 ve Medeni Yasa'nın 702. maddeleri hükümleri uyarınca, ortakların tamamı tarafından veya dava açma hususunda diğer ortaklardan açık yetki almış ortak tarafından davanın açılması gerekir. Yetkisiz ortak yahut ortaklarca dava açılmasında ise, diğer ortakların davaya katılması, onaylarının alınıp kendilerine temsil yetkisini vermelerini sağlamak üzere mahkemece, davacıya önel vermesi gerekir. Somut olayda ise, dava dışı ortak davada yer almadığı gibi; davaya onay verdiğine ilişkin dosya kapsamında bilgi ve belge de bulunmamaktadır. Oysa, davada taraf ehliyeti dava koşulu olup yargılamanın her aşamasında mahkemece doğrudan gözetilmesi gerekir. Açıklanan yasal nedenlerle taraf teşkili yapılmadan uyuşmazlığın mahkemece, karara bağlanması doğru olmamış ve kararın bu sebeple bozulması gerekmiştir.
 
 ## Yargıtay 19. HD 2013/2409 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/695845700)
+
 Adi ortaklıkta tüzel kişilik bulunmadığından adi ortaklığı oluşturan şirketler tüzel kişiliklerini korurlar. Bu durumda ortaklığı temsilen birlikte hareket etmeleri gerekir. Ancak; dosyada bulunan iş ortaklığı sözleşmesinde davacı şirketle birlikte Atasoy Temizlik Ltd. Şti'nin adi ortaklık kurdukları, bu sözleşme uyarınca davacı... Ltd. Şti'nin pilot firma olarak seçildiği, 4. maddede...'in ortaklığın nam ve hesabına tam yetkili olacağı kabul edilmiştir. Buna göre; davacı... Ltd. Şti. ortaklık nam ve hesabına kendi adına asaleten diğer şirketi temsilen dava açmaya yetkilidir. Mahkemenin aktif dava ehliyeti bulunmadığı tespiti iş ortaklığı sözleşmesinin 4. maddesi uyarınca yerinde olmadığından işin esasına girilerek deliller toplanıp iddia ve savunma çerçevesinde değerlendirildikten sonra uygun sonuç dairesinde bir karar verilmesi gerekirken somut olaya uygun düşmeyen gerekçelerle yazılı şekilde ret kararı vermesi isabetsiz olup bozmayı gerektirmiştir.
 
 ## Yargıtay 12. HD 2012/37870 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/59027100)
 
 Yukarıda tarih ve numarası yazılı mahkeme kararının müddeti içinde temyizen tetkiki şikayetçi tarafından istenmesi üzerine bu işle ilgili dosya mahallinden daireye gönderilmiş olup, dava dosyası için Tetkik Hakimi tarafından düzenlenen rapor dinlendikten ve dosya içerisindeki tüm belgeler okunup incelendikten sonra işin gereği görüşülüp düşünüldü :Alacaklı tarafından borçlu B.-S.İnş. ... Ltd. Şti. hakkında yapılan icra takibi nedeniyle konulan haczin kaldırılması istemi ile icra mahkemesine başvurulduğu, başvurunun Ö. P. ... Ltd. Şti. - B.S. İnş. ... Ltd. Şti. İş Ortaklığı adına ve adı geçen adi ortaklık vekili olarak yapıldığı anlaşılmıştır.Adi ortaklığın tüzel kişiliği olmadığından aktif ve pasif dava ehliyeti yoktur.
 Bu nedenle şikayetin adi ortaklığı oluşturan şirketler adına yapılması gerekirken, tüzel kişiliği bulunmayan adi ortaklık adına yapılması usulsüz olduğundan, mahkemece adi ortaklık tarafından yapılan başvurunun aktif husumet ehliyeti yokluğundan reddine karar verilmesi gerekirken, işin esasının incelenerek yazılı şekilde hüküm tesisi isabetsiz olup, kararın bu nedenle bozulması gerekir ise de sonuçta istem reddedildiğinden sonucu doğru mahkeme kararının onanması gerekmiştir.
 
 ## Yargıtay 12. HD 2012/36062 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/56995500)
 
 BK.nun 520. maddesine göre adi ortaklığın tüzel kişiliği olmadığından taraf ehliyeti yoktur. Taraf ehliyeti ise kamu düzeninden olup mahkemece kendiliğinden nazara alınmalıdır. Bu hususu, adi ortaklığı oluşturan ortaklardan herbiri, süresiz olarak şikayet konusu yapabilir.
 
@@ -63,9 +79,13 @@ Somut olayda; icra dosyasından "Garanti Koza Akiş Adi İş Ortaklığı"na 01.
 
 ## Yargıtay 3. HD 2012/15091 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/541681600)
+
 BK. 520.maddesine göre adi ortaklığın tüzel kişiliği yoktur. Adi ortaklığa karşı açılmış olan dava, diğer ortakların tümüne karşı yöneltilmiş demektir. Bu nedenle, davacıya dava edilen adi ortaklığın bütün ortaklarının isim ve adresi açıklattırılarak, davaya bu ortakların huzuru ile devam edilmelidir. Mahkemece, bu yönün gözardı edilerek davanın kabulüne karar verilmiş olması usul ve yasaya aykırıdır.Bu itibarla yukarıda açıklanan esaslar gözönünde tutulmaksızın yazılı şekilde hüküm tesisi isabetsiz, temyiz itirazları bu nedenlerle yerinde olduğundan kabulü ile hükmün HUMK.nun 428.
 
 ## Yargıtay 11. HD 2012/13687 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1062507600)
 
 Adi ortaklık tarafından açılacak davaların, iştirak halinde mülkiyet kuralları gereğince, bütün ortaklar tarafından birlikte açılması gerekir. Bütün ortaklar tarafından açılacak dava, adi ortaklık adına değil, bütün ortaklar adına açılır ve hüküm de ortaklar hakkında verilir, adi ortaklık adına hüküm verilemez. Bir başka deyişle; adi ortaklığın tüzel kişiliği bulunmadığından, ortaklar ortaklık mameleğine ilişkin bütün alacakları- kural olarak - birlikte ileri sürmelidirler, yani aktif taraf ehliyeti tüm ortaklara ait olup ortaklar arasında mecburi dava arkadaşlığı vardır. Bu itibarla, adi ortaklığı ilgilendiren haklar bakımından bütün ortakların birlikte davacı olmaları gerekir.
 
@@ -74,13 +94,19 @@ Diğer yandan, yukarıda belirtildiği gibi adi ortaklığın tüzel kişiliği 
 
 ## Yargıtay 12. HD 2012/3250 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/59787400)
+
 İki veya daha fazla işletmenin belli bir amaca ulaşmak için katkılarını birleştirdikleri ortaklığın tüzel kişiliği bulunmadığından taraf ehliyeti yoktur. Adi ortaklığın ortakları, borçlarından dolayı alacaklılara karşı doğrudan doğruya ve sınırsız olarak tüm mal varlıkları ile sorumludurlar. Takip borçlusu H.. T.. borcundan dolayı, takip borçlusu ile şikayetçi 3. kişinin oluşturduğu adi ortaklığın banka hesabında paranın sadece takip borçlusunun adi ortaklık hissesi oranında haczi mümkün olabileceğinden ve tüzel kişiliği bulunmayan adi ortaklığın banka hesabı üzerine haciz konulamayacağı gerekçesi ile şikayetin kabulüne karar verilmesi gerekirken yazılı gerekçe ile şikayetin reddi isabetsizdir.
 
 ## Yargıtay 17. HD 2012/2057 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/787538000)
+
 Somut olayda davalı olarak gösterilen ve aleyhinde hüküm tesis olunan ... Petrol İnş. Mak. San. Tic. Ltd. Şti. ve ... İnş. Mak. Müh. San. ve Dış Tic. Ltd. Şti. iş ortaklığının (ortak girişim) tüzel kişiliği ve dolayısıyla taraf ehliyeti bulunmamaktadır. Bu ortak girişimi (iş ortaklığını) oluşturan ... Petrol İnş. Mak. San. Tic. Ltd. Şti.nin ayrı, ... İnş. Mak. Müh. San. ve Dış Tic. Ltd. Şti.nin ayrı tüzel kişilikleri vardır ve ortak girişim olarak değil ayrı ayrı bu şirketler hakkında dava açılması gerekmektedir. Bu durumda mahkemece, davalı ... Petrol İnş. Mak. San. Tic. Ltd. Şti. ve ... İnş. Mak. Müh. San. ve Dış Tic. Ltd. Şti. iş ortaklığı (ortak girişim) aleyhinde açılan davanın da taraf ehliyeti bulunmadığından reddine karar verilmesi gerekirken yazılı olduğu biçimde hüküm kurulması doğru görülmemiştir.
 
 ## Yargıtay 15. HD 2011/770 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/507928900)
 
 Dava, arsa payı karşılığı eser sözleşmesinden kaynaklanan tazminatın ödetilmesi istemine ilişkin olup, mahkemece davanın kabulüne dair verilen karar taraf vekillerince temyiz edilmiştir.
 
@@ -89,17 +115,25 @@ O halde davacıya önel verilerek dava dışı diğer yüklenici ...'nin davaya 
 
 ## Yargıtay 13. HD 2010/15957 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/775345200)
+
 Buna göre, dava konusu olayda davacı, adi ortaklık sözleşmesinin varlığının ispatı halinde, ortaklık faaliyeti sonucu elde edilen söz konusu taşınmazın kendisi adına tescilini veya aynı taşınmazların rayiç bedellerinin ödetilmesini talep edebilecektir. Ne var ki davalı, davacı ile aralarında iddia edildiği gibi bir sözleşme bulunmadığını savunarak, akdi ilişkiyi inkar etmiştir. Bu durumda davacı, söz konusu akdi ilişkinin varlığını yasal delillerle ispat etmekle yükümlüdür. Davacı ile davalı kardeş olup, HUMK.293/1 maddesi gereğince olayda tanık dinlenebilir. O halde mahkemece, tarafların iddia ve savunmaları doğrultusunda gösterecekleri tanıklar dinlenip, diğer delillerle birlikte değerlendirilmek suretiyle ayrıca adi ortaklığın tüzel kişiliği bulunmadığından açılacak böyle bir davanın bütün ortakların davada taraf olması zorunluluğu da gözetilerek, dava dışı ortak hakkında dava açılması ve bu davayla birleştirilmesi sağlanıp sonucuna göre bir hüküm kurulması gerekirken, eksik inceleme ve yanlış değerlendirme ile yazılı şekilde karar verilmiş olması, usul ve yasaya aykırı olup, bozmayı gerektirir.
 
 ## Yargıtay 12. HD 2010/12244 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/65681200)
 
 Yukarıda belirtildiği üzere, bu durumda M.-E.İş Ortaklığının tüzel kişiliği olmadığından ve dolayısiyle hakkında takip yapılamayacağından takipte borçlu olarak gösterilmesinin bir geçerliliği yoktur.Bu husus kamu düzenine ilişkin olup süresiz şikayete konu yapılabilir. Ortaklığı oluşturan ve hakkında takip başlatılan M.İnş.ve Tic.A.Ş. icra mahkemesine başvurarak kendisi adına yapılan 25.5.2009 tarihli tebligatın usulsüzlüğünü ileri sürmüştür. Şikayet konusu yapılan 25.5.2009 tarihli ödeme emri tebligatı, M.-Erka İş Ortaklığı adına çıkarılmış olup, şikayetçi borçlu şirket adına takip dosyasından çıkarılan 25.5.2009 tarihli ödeme emri tebligatı ise bila tebliğ iade edilmiştir. Bu durumda borçlu şirket adına yapılan bir tebligat bulunmamaktadır. Adi ortaklık adına gönderilen tebligatın da yukarıda belirtilen nedenlerle bir geçerliliği bulunmadığından, şikayetçinin bu tebligatın usulsüzlüğünü ileri sürmesinde bir hukuki yararı bulunmamaktadır. Mahkemece şikayetle ilgili olarak borçlu şirketin kendisine yapılmış ve usulsüzlüğünü ileri sürebileceği bir tebligat bulunmadığından istemin reddi yerine yazılı şekilde hüküm tesisi isabetsizdir.
 
 ## Yargıtay 12. HD 2010/10119 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/67037900)
+
 A.Ş. ile Sistem Yap.-Bateg iş ortaklığı aleyhine kambiyo senetlerine mahsus haciz yolu ile takibe başlandığı ve 10 nolu örnek ödeme emrininde ......A.Ş. ile Ortak Girişim adına tebliğe çıkarıldığı anlaşılmaktadır. Takipte adi ortaklık aleyhine tek bir ödeme emri çıkarılmış olup, ortaklığı oluşturan şirketler adına ayrı ayrı çıkarılmış ve tebliğ edilmiş ödeme emri yoktur. B.K'nun 520. maddesine göre adi ortaklığın hükmi şahsiyeti bulunmadığından taraf ehliyeti yoktur. Taraf ehliyeti kamu düzenine ilişkin olup mahkemece re'sen dikkate alınır. Bu durumda borçlu olarak gösterilen ........A.Ş. hakkında takip yapılmasında yasaya uymayan bir yön yok ise de, şikayete konu olan İş Ortaklığı aleyhine bu şekilde takip yapılması mümkün bulunmadığından istemin kabulü ile takibin iptali yerine yerinde olmayan gerekçe ile istemin reddi doğru değildir.
 
 ## Yargıtay 12. HD 2010/28 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/63125700)
 
 Alacaklının, kambiyo senetlerine mahsus haciz yolu ile başlattığı takipte, takip dayanağı, üç ayrı şirketin oluşturduğu iş ortaklığının temsilcisi tarafından imzalanan çektir. Adi ortaklardan ...San.Tur.Dış Tic.Ltd.Şti. yasal süresi içerisinde icra mahkemesi nezdinde borca ve takibe itirazda bulunmuştur. Mahkemece, 26.05.2009 tarih 2009/117 E, 607 K. sayılı ilamla, temsile yetkili kılınan E. A..'a kambiyo senedi düzenlemek için özel yetki verilmediğinden bahis1e muteriz ortak yönünden İİK'nun 170/a maddesi uyarınca takibin iptaline karar verilmiş, anılan karar alacaklı vekili tarafından, kararın bozulması istemiyle temyiz olunmuştur.
 
@@ -109,6 +143,8 @@ Alacaklının, kambiyo senetlerine mahsus haciz yolu ile başlattığı takipte,
 
 ## Yargıtay 12. HD 2010/28 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/63125700)
+
 Öncelikle belirtelim ki, Borçlar Kanunu'nun 533.maddesi son cümlesinde "ortaklığı idare yetkisi tanınan şerik, şirketi ve bütün şerikleri üçüncü şahıslara karşı temsil etmek hakkını haiz sayılır" hükmüne yer verilmiştir. Ortaklık sözleşmesi ile kendisine yasada belirtilen idare yetkisi tanınan şerik, ortak olabileceği gibi, atanan üçüncü bir kişi de olabilir. Borçlar Kanunu'nun 533.maddesinin son fıkrasında açıklandığı üzere bu kişinin ortaklığı temsil yetkisinin olduğu tartışmasızdır. Ayrıca ortaklığı idare ve temsil yetkisi bulunan temsilcinin yapacağı işlem ortakları üçüncü şahıslara karşı eşit olarak sorumlu kılar. Nitekim, Borçlar Kanunu'nun 534.maddesi "hilafı mukavele edilmiş olmadıkça, şerikler birlikte yahut mümessil vasıtasiyle üçüncü şahıslara karşı deruhde etmiş oldukları borçlardan müteselsilen mesu1 olurlar" hükmünü getirmiştir. Bir başka anlatımla, adi ortaklığın yetkilileri adi ortaklığın borcundan şahsen sorumlu olmazlar.
 
 İki veya daha fazla işletmenin belli bir amacı oluşturmak için katkılarını birleştirdikleri ortaklığın tüzel kişiliği ve taraf ehliyeti yoktur. Bu nedenledir ki, Borçlar Kanunu'nda düzenlenen adi ortaklıkta temsil önem arz etmektedir. Adi ortaklığın ortaklık sözleşmesinde aksine bir hüküm yer almadığı sürece, idareci ortağın yapacağı işlemler diğer ortakları bağlar. İdareci ortağın statüsü Borçlar Kanunu'nun 449.maddesinde düzenlenen ticari mümessile benzer bir nitelik taşır. Aynı Kanunun 450.maddesi gereğince de, ticari mümessilin (Borçlar Kanunu'nun 388.maddesi gereğince özel bir yetki aranmaksızın) kambiyo taahhüdünde bulunma yetkisinin olduğunun kabulü zorunludur. Nitekim, Dairemiz ile ilgili Hukuk Genel Kurulu önüne gelen bir uyuşmazlıkta (2008/12-825 E., 2009/32 K. 28.01.2009 tarihli HGK. kararı) yukarıda açıklanan kurallar aynen benimsenmiştir.
@@ -117,9 +153,13 @@ Hal böyle olunca; somut olayda adi ortaklığı temsil yetkisi olan temsilcinin
 
 ## Yargıtay 12. HD 2009/22771 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/69111100)
+
 Borçlar Kanunu'nun 520.maddesine göre adi ortaklığın hükmi şahsiyeti bulunmadığından taraf ehliyeti yoktur. Taraf ehliyeti kamu düzeninden olup, mahkemece kendiliğinden nazara alınmalıdır. Adi ortaklık adına çıkartılan ödeme emrinin de geçerliliği yoktur. O halde mahkemece, takibin adi ortaklık yönünden iptaline karar verilmesi gerekirken yazılı gerekçe ile şikayetin reddine karar verilmesi isabetsizdir.
 
 ## Yargıtay 1. HD 2009/3598 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/78313400)
 
 Dava, elatmanın önlenmesi, eski hale getirme, ecrimisil ve kazı harcının tespit ve tahsili isteğine ilişkindir.
 
@@ -129,23 +169,33 @@ Hal böyle olunca, davalı gösterilen .....-Tema adi ortaklığı aleyhine hük
 
 ## Yargıtay 12. HD 2008/22138 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/70663200)
+
 Somut olayda, alacaklı R...Ş....tarafından borçlu H..Ö..A... İnşaat Taahhüt Turz. Oto. Teks. Tar. H... İth. İhr. San. ve Tic. Ltd.Şti. Ortak Girişimi (adi ortaklığı) hakkında kambiyo senetlerine mahsus haciz yolu ile takibe başlandığı ve örnek 10 no’lu ödeme emrinin de H... Ö...A..İnşaat Taahhüt Turz. Oto. Teks. Tar. Hayv. İth. İhr. San. ve Tic. Ltd.Şti.Ortak Girişimi (adi ortaklığı) adına tebliğe çıkarıldığı anlaşılmaktadır. Takipte adi ortaklık adına tek bir ödeme emri çıkarılmış olup, adi ortaklığı oluşturan ortaklar adına ayrı ayrı çıkarılmış ve tebliğ edilmiş bir ödeme emri yoktur. Bu durumda adi ortaklığı oluşturan şirketlerin her biri yönünden ayrı takip yapıldığının kabulü mümkün değildir. Borçlar Kanununun 520.maddesine göre adi ortaklığın hükmü şahsiyeti bulunmadığından taraf ehliyeti yoktur. Bu nedenle icra takibinde adi ortakların ayrı ayrı gösterilmesi ve ayrı ayrı edeme emri tebliği gerekmekte olup, taraf ehliyeti olmayan adi ortaklık adına tek bir ödeme emri tebliğe çıkarılarak takip yapılması usulsüzdür.
 Yasanın emredici kuralından kaynaklanan ve bir hakkın yerine getirilmesi ile ilgili bulunan bu husus hakkında İİK.nun 16/2.maddesi gereğince süresiz şikayet hakkı vardır. Adi ortaklardan birisi olan şikayetçi şirketin olayda hukuki yararı bulunduğundan şikayet hakkı da bulunmaktadır. Dolayısıyla yukarıda belirtildiği şekilde adi ortaklık adına çıkarılan ödeme emrinin geçerliliği yoktur. O halde Mahkemece anılan hususun re’sen gözetilerek takibin iptaline karar verilmesi gerekirken, yazılı şekilde sonuca gidilmesi isabetsizdir.
 
 ## Yargıtay 12. HD 2008/16601 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/69665400)
 
 Somut olayda, alacaklı tarafından borçlu F. A.-A.Emlak Müşavirliği Adi Ortaklığı hakkında kambiyo senetlerine mahsusu haciz yolu ile takibe başlandığı ve örnek 10 no’lu ödeme emrinin de F. A.-A. Emlak Müşavirliği Adi Ortaklığı adına tebliğe çıkarıldığı anlaşılmaktadır. İcra takibinin adi ortaklık hakkında yapıldığı alacaklı vekili tarafından verilen cevap dilekçesinde de açıkça beyan ve kabul edilmektedir. Takipte adi ortaklık adına tek bir ödeme emri çıkarılmış olup, adi ortaklığı oluşturan şahıslar adına ayrı ayrı çıkarılmış ve tebliğ edilmiş bir ödeme emri yoktur.Bu durumda adi ortaklığı oluşturan şahısların her biri yönünden ayrı takip yapıldığının kabulü mümkün değildir. Borçlar Kanununun 520.maddesine göre adi ortaklığın hükmü şahsiyeti bulunmadığından taraf ehliyeti yoktur. Bu nedenle icra takibinde adi ortakların ayrı ayrı gösterilmesi ve ayrı ayrı ödeme emri tebliği gerekmekte olup, taraf ehliyeti olmayan adi ortaklık adına tek bir ödeme emri tebliğe çıkarılıp takip yapılması usulsüzdür. Borçlar Kanununun 520.maddesine göre adi ortaklığın hükmü şahsiyeti bulunmadığından taraf ehliyeti yoktur.
 Taraf ehliyeti kamu düzeninden olup Mahkemece kendiliğinden göz önüne alınmalıdır.Öte yandan yasanın emredici kuralından kaynaklanan ve bir hakkın yerine getirilmesi ile ilgili bulunan bu husus hakkında İİK.nun 16/2.maddesi gereğince süresiz şikayet hakkı vardır. Dolayısıyla yukarıda belirtildiği şekilde adi ortaklık adına çıkarılan ödeme emrinin geçerliliği yoktur. O halde Mahkemece takibin iptali yerine yazılı gerekçe ile itirazın reddi isabetsizdir.
 
 ## Yargıtay 12. HD 2008/13033 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/71886700)
+
 İki veya daha fazla işletmenin belli bir amaca ulaşmak için katkılarını birleştirdikleri ortaklığın tüzel kişiliği olmadığı gibi taraf ehliyeti de yoktur. Bu nedenle alacaklının adi ortaklığın bireyleri olan her iki şirketi de takipte göstermesi doğru ve yerinde bir işlem ise de, ortakların ortaklık borçlarından dolayı alacaklılara karşı doğrudan doğruya ve sınırsız olarak tüm varlıklarıyla sorumlu olabilmeleri için ortaklık adına temsilci ortağın kambiyo yoluyla borçlanabilmesi bu ortağa açıkça BK.nun 388.maddesi gereğince ortaklık adına kambiyo senedi düzenleme yetkisinin verilmesine bağlıdır. Somut olayda gözlendiği gibi 30.05.2007 tarihli ortaklık sözleşmesinde ortağın temsilcisi Mustafa Onuralp Deniz'e açıkça ortaklık adına kambiyo tahhüdünde bulunmak için yetki verilmediği görüldüğünden dayanak çekteki borçtan adı geçen kişi şahsen sorumludur. Mahkemece açıklanan nedenlerle şikayetin kabulü ile müşteki şirket hakkındaki takibin iptaline karar vermek gerekirken reddi isabetsizdir.
 
 ## Yargıtay 12. HD 2008/11891 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/70773100)
+
 Borçlar Kanunu 520. maddesine göre adi ortaklığın hükmü şahsiyeti bulunmadığından taraf ehliyeti yoktur. Taraf ehliyeti kamu düzeninden olup mahkemece kendiliğinden gözetilmesi gerekir. Bu nedenle .......... iş ortaklığının aktif ve pasif husumet ehliyeti bulunmadığından bu birleşen davada adi ortaklığın şikayetinin husumetten reddi gerekirken işin esası incelenerek reddedilmesi doğru değil ise de, sonuçta istem reddedildiğinden mahkeme kararının yukarıda açıklanan nedenlerle birleşen davaya ilişkin olarak onanması gerekmiştir.
 
 ## Yargıtay 12. HD 2007/14590 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/75006100)
 
 Adi ortaklığın tüzel kişiliği olmadığından aktif ve pasif dava ehliyeti yoktur. Bu nedenledir ki takibin veya davanın bütün ortaklara açılması zorunludur. BK.nun 525. ve 533. maddeleri gereği kendisine yönetim hakkı tanın ortağın ortaklığı ve diğer ortakları temsil yetkisi vardır. Temsil yetkisi; zımnen icazet, temsil belgesi, adi ortaklık sözleşmesi veya ortaklık kararı ile verilebilir.
 
@@ -154,6 +204,8 @@ BK.nun 533. maddesi hükmüne göre ortaklık adına ortaklardan biri tarafında
 Somut omayda gözlendiği gibi ...............................nin kurduğu adi ortaklıkta temsilci ortağın anonim şirketlerden hangisi olduğu belirlenmemiştir. Bu durumda takibin her iki ortak şirket hakkında birlikte yapılması gerekirken ortak şirketlerden sadece biri yanında adi ortaklığı da göstererek takip yapması mümkün değildir. Mahkemece husumet ehliyeti açısından süresiz şikayete tabi şikayetin esası incelenerek yukarıda açıklanan ilkeler doğrultusunda oluşacak sonuca göre bir karar vermek gerekirken istemin süre aşımından reddi isabetsizdir.
 
 ## Yargıtay 13. HD 2006/15710 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/843316200)
 
 Az yukarıda da açıklandığı üzere davacı bu davasında anılan traktör yönünden adi ortaklık hukuki ilişkisine dayanmış; delil olarakta 20.12.2004 tarihli belgeyi ibraz etmiştir. Anılan belgede davalı adına trafikte kayıtlı bulunan ... Plakalı taraktörün davacı, davalı ve dışı ... arasında ortak oluduğu traktörün 1/4 hissesinin davacıya ait olduğu öngörülmüştür. Davalının imzasına ve içeriğine karşı çıkmadığı bu belge kendisini bağlar.
 

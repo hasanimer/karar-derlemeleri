@@ -21,6 +21,8 @@ uyari: "Derleyenin seçtiği alıntılardır; kararın tamamı değildir. Künye
 
 ## Yargıtay HGK 2025/744 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1200901900)
+
 Davacılar vekili dava dilekçesinde; müvekkilleri ile davalı arasında 30.07.2012 tarihli arsa payı karşılığı inşaat sözleşmesi düzenlendiğini, sözleşmede inşaat süresinin ruhsat tarihinden itibaren on sekiz ay olarak belirlendiğini, inşaat ruhsatının 29.05.2013 tarihinde alındığını ve müvekkillerine isabet eden bağımsız bölümlerin on sekiz ayın sonunda en geç 29.11.2014 tarihinde teslim edilmesi gerektiğini, ancak davalının sözleşme tarihinden itibaren otuz yedi ay geçmesine rağmen müvekkilerine bağımsız bölümleri teslim etmediğini, sözleşmenin hukuki şartlar başlıklı 6. maddesine göre davalı yüklenicinin inşaat süresini aşarsa arsa sahiplerine kalacak olan on dokuz dairenin her biri için rayiç değer üzerinden kira ödemeyi kabul ve taahhüt ettiğini, müvekkillerinin davalıdan mahrum kalınan kira bedellerinin ödenmesi için talepte bulunmasına rağmen davalının ödeme yapmadığını, her bir müvekkiline düşen bağımsız bölüm başına aylık ortalama 700,00 TL üzerinden hesaplanmak üzere otuz yedi aylık kira bedelinin davalı tarafından ödenmesi gerektiğini ileri sürerek fazlaya ilişkin hakları saklı kalmak kaydıyla her bir müvekkil açısından şimdilik ayrı ayrı 10.000,00 TL olmak üzere toplam
 60.000,00 TL mahrum kalınan kira bedelinin yasal faiziyle birlikte davalıdan tahsiline karar verilmesini talep etmiş; 16.01.2019 havale ve harç tarihli ıslah dilekçesinde, davacı ... için 26.136,00 TL, ... için 39.204,00 TL, ... için 32.670,00 TL, ... için 52.272,00 TL, ... için 32.670,00 TL, ... için 39.204,00 TL olmak üzere toplam 222.156,00 TL gecikme tazminatının davalıdan tahsilini istemiştir.
 
@@ -38,6 +40,8 @@ Bu bakımdan davacıların sözleşmede kararlaştırılan gecikme tazminatı is
 Davalı vekilinin temyiz itirazlarının kabulü ile direnme kararının yukarıda belirtilen değişik gerekçe ve nedenlerden dolayı 6100 sayılı Kanun’un 371. maddesi gereğince BOZULMASINA …
 
 ## Yargıtay HGK 2021/441 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/686457300)
 
 Davacılar vekili 23.12.2011, 26.03.2013 ve 08.05.2013 havale tarihli dilekçelerinde ise; dava konusunun dairelerdeki eksiklikler ile eksik imalat bedelinin tahsili ya da tapu iptali ve tescil olmadığını, sadece dairelerin davacılara teslimi meselesi olduğunu, davada arsa payı karşılığı inşaat sözleşmesi gereğince davalı tarafından yapımı üstlenilen ve davacılara teslimi gereken bağımsız bölümlerin yapı kullanma izin belgesi ile veya oturma ruhsatı alınması için gerekli belgelerle birlikte kendilerine teslim edilmesini talep ettiklerini, dava değerinin 2.740.000TL olarak belirlendiğini ve noksan harcı yatırdıklarını belirtmiştir.
 
@@ -59,6 +63,8 @@ Davalı vekilinin temyiz itirazlarının kabulü ile direnme kararının Özel D
 
 ## Yargıtay HGK 2015/1433 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/115870000)
+
 Davalı vekili, arsa payı karşılığı bağımsız bölüm inşasının KDV gerektiren bir işlem olmadığını, sözleşme bedeli arsa payı şeklinde götürü olarak ödendiğinden ayrıca KDV istenemeyeceğini savunarak, davanın reddini istemiştir.
 
 Mahkemece, sözleşme gereğince arsa payı dışında herhangi bir bedel istenemeyeceği, sözleşmede aksine hükmün geçerli olmadığı, bilirkişi raporuna göre de bağımsız bölüm teslim işleminin KDV'ye tabi bulunmadığı gerekçesiyle, davanın reddine karar verilmiştir.
@@ -74,6 +80,8 @@ Keza, 3065 sayılı Kanun'un 1/2, 4/1 ve 10/a maddeleri uyarınca, arsa payı ka
 Konuya, 3065 sayılı Katma Değer Vergisi Kanunu açısından bakıldığında ise, 1/2 maddeye göre, ''her türlü mal ve hizmet ithalatı'' KDV'nin konusunu oluşturan işlemlerden sayılır. Yine aynı Yasanın 4. maddesi uyarınca ise, hizmet işlemleri, ''bir şeyi yapmak, işlemek, meydana getirmek, imal etmek, onarmak, temizlemek, muhafaza etmek, hazırlamak, değerlendirmek, kiralamak, bir şeyi yapmayı tahhüt etmek gibi şekillerde gerçekleşebilir. ''Bu hükümler doğrultusunda, Katma Değer Vergisinin eser sözleşmesi ilişkisini ve o mahiyetteki arsa payı karşılığı inşaat sözleşmelerini de içerdiği, yani eser bedelinin KDV'ye tabi olduğu görülmektedir.
 
 ## Yargıtay HGK 2005/563 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/76949700)
 
 Davacı, yükleniciden satış vaadi sözleşmesi ile satın aldığı B blok 9 numaralı bağımsız bölümün adına tescilini istemiştir.
 
@@ -120,6 +128,8 @@ Ancak hükme esas alınan bilirkişi kurulu raporu incelendiğinde, davalı üst
 
 ## Yargıtay 6. HD 2024/1489 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1094583500)
+
 İlk derece mahkemesince, kat karşılığı inşaat sözleşmesinin feshi, mahrum kalınan kira bedelinin ve uğranılan zararın tahsili istemli davada, kat karşılığı inşaat sözleşmesinin geriye etkili feshine, 7.433,00TL mahrum kalınan kira bedelinin tahsiline, fazlaya ilişkin ve diğer talebin reddine karar verilmiştir.
 
 …
@@ -130,6 +140,8 @@ Hukuk Dairesi’nin 22/01/2020 tarihli ilamı ile kesinleştiğinden incelenmesi
 SONUÇ: Yukarıda açıklanan nedenlerle Eskişehir 1. Asliye Hukuk Mahkemesi kararına ilişkin taraflar vekillerinin tüm temyiz sebeplerinin reddiyle usul ve kanuna uygun bulunan hükmün ONANMASINA …
 
 ## Yargıtay 6. HD 2023/3965 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/989596900)
 
 Davacı vekili dava dilekçesinde; müvekkili ile davalı ve dava dışı Sıdıka Akçar arasında imzalanan 27.04.2015 tarihli Düzenleme Şeklinde Taşınmaz Satış Vaadi ve Arsa Payı Karşılığı İnşaat Sözleşmesi uyarınca müvekkilinin edimlerini yerine getirdiğini, davalıya sözleşmede belirlenen daireleri teslim ettiğini, ancak davalının sözleşmenin ilgili "arsa sahiplerine ait harcamalar" başlıklı 8. maddesine aykırı olarak müvekkilince fatura edilmiş olan KDV bedelini ödemekten imtina ettiğini, alacağın gönderilen ihtarnameye rağmen ödenmediğini, alacağın tahsili için başlatılan icra takibine davalı itirazının haksız olduğunu ileri sürerek, itirazın iptali ile alacağın %20'sinden az olmamak üzere icra inkar tazminatına hükmedilmesini talep etmiştir.
 
@@ -146,6 +158,8 @@ Arsa payı karşılığı inşaat sözleşmelerinde,tarafların kararlaştırdı
 Tüm bu açıklamalar ışığında, taraflar arasındaki arsa payı karşılığı inşaat sözleşmesinde arsa maliklerine düşen bağımsız bölümlere ait KDV’nin arsa sahiplerine ait olduğunun kararlaştırıldığı, dosyada alınan bilirkişi raporunda KDV'nin davacı tarafından ödendiğinin tespit edildiği, davacı yüklenicinin sözleşmeye konu inşaatı tamamlayıp arsa malikine devretmesi nedeniyle ödediği KDV bedelini sözleşme hükümlerine istinaden arsa malikinden isteyebileceği gerekçesiyle davanın kabulüne karar verilmesi gerekirken yanılgılı gerekçeye dayalı olarak yazılı şekilde hüküm kurulması doğru görülmemiş, kararın bozulması uygun bulunmuştur.
 
 ## Yargıtay 6. HD 2022/1104 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/743825000)
 
 Davacı vekili, müvekkili ile davalılardan ... İnş. San. ve Tic.
 
@@ -164,6 +178,8 @@ Yerel mahkemece, sözleşmeye göre KDV yükümlülüğünün davalı şirkette 
 SONUÇ: Yukarıda açıklanan nedenlerle Ankara Bölge Adliye Mahkemesi 27. Hukuk Dairesi’nin 2018/2023 Esas 2021/49 Karar 22.01.2021 tarihli kararının temyiz eden davalılar lehine BOZULMASINA …
 
 ## Yargıtay 6. HD 2022/943 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/740126000)
 
 Davacı vekili, müvekkili ile davalı arasında ... 32. Noterliğinin 12.02.2014 tarih 2479 no.lu yevmiye sayılı işlemiyle düzenlenme şeklinde satış vaadi ve arsa payı karşılığı inşaat sözleşmesi düzenlendiğini, müvekkilinin sözleşmeden kaynaklanan borcunun bulunmadığını, davalı yanın sözleşmeden kaynaklanan KDV borcunu ödemediğini, bu nedenle alacağın tahsili için ...
 
@@ -190,6 +206,8 @@ SONUÇ: Yukarıda açıklanan nedenlerle ... Bölge Adliye Mahkemesi 22. Hukuk D
 
 ## Yargıtay 6. HD 2022/610 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/739197600)
+
 Bu anlatımlar ışığında somut olay incelendiğinde; mahkemece bozmaya uyulmuş ise de, bozma gereklerinin yerine getirildiğinden söz edilemez. Dairemizin hükmüne uyulan bozma ilamında, taraflar arasındaki sözleşmede bu borcun arsa sahibine ait olduğu kararlaştırıldığı, bu verginin sorumlusu olan yüklenicinin iç ilişkide arsa sahibine aynen yansıtabileceğinin kabulü gerekeceği, nitekim yüklenicinin de, bu konuda sözleşmenin 7.1. maddesine dayalı olarak düzenlediği faturalarda, arsa sahibi yönünden ödenmesi gereken KDV tutarlarını göstermiş olduğu, KDV'den arsa sahibinin sorumlu tutulmasında yasaya aykırı bir husus bulunmadığı gerektiği belirtilmesine rağmen, mahkemece usuli kazanılmış hak ilkesini bertaraf edecek şekilde 30 sıra nolu KDV Genel Tebliği Hükümleri, Danıştay 9. Ve 13. Dairesinin kararları ve yine Yargıtay 23. Hukuk Dairesi ve Yargıtay Hukuk Genel Kurul Kararına atıf yapılarak hazırlanan bilirkişi raporunun esas alınarak davacının KDV alacağının reddine karar verilmesi hatalı olmuştur. Bozma ilâmına uyulmakla ilâm gereği yerine getirilmelidir. Alınan rapor bozmaya uygun inceleme içermediğinden hükme dayanak alınamaz.
 
 …
@@ -197,6 +215,8 @@ Bu anlatımlar ışığında somut olay incelendiğinde; mahkemece bozmaya uyulm
 SONUÇ: Yukarıda (1) numaralı bentte açıklanan nedenlerle, davacı vekilinin karar düzeltme itirazlarının kabulü ile, Dairemizin 21.10.2021 tarih ve 1070 E., 1035 K. sayılı bozma ilamına, davacı yararına olmak üzere belirtilen bozma gerekçesinin ilave edilmesi suretiyle mahkeme ilamının BOZULMASINA …
 
 ## Yargıtay 15. HD 2021/2786 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/671520700)
 
 Kira tazminatı davacının taşınmazları ile ilgili olarak verilmiş olup, talep edilen emlak vergileri hem davacıya hem de yükleniciye düşecek taşınmazlara ilişkin olduğundan yerel mahkemece kira tazminatı ödenen taşınmazlara ilişkin emlak vergisi talep edilemeyeceği değerlendirmesi hatalı olmuştur. Bu durumda sözleşme uyarınca yükleniciye düşecek taşınmazların emlak vergisini davacı ödemişse ödenen bedeli davacının talep hakkı bulunduğun kabulü ile soncuca gidilmesi gerekirken aksi yönde hüküm tesisi doğru olmamıştır.
 
@@ -207,6 +227,8 @@ Arsa payı karşılığı inşaat sözleşmesinde yüklenici sözleşmeye, fen v
 SONUÇ: Yukarıda 1. bentte açıklanan nedenlerle tarafların diğer temyiz itirazlarının reddine, 2. ve 3. bent uyarınca tarafların temyiz itirazlarının kabulü ile hükmün temyiz eden taraflar yararına BOZULMASINA …
 
 ## Yargıtay 6. HD 2021/1643 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/710809400)
 
 Davalı vekili, iş artışının davalı tarafından karşılanacak kısmının yüklenici payına ilave edildiğini ve kesin hakediş ile yüklenicinin alacak hanesine yansıtıldığını, Kocaeli Büyükşehir Belediyesine satışı yapılan dairelerin satış fiyatları ve indirim oranlarını gösteren fiyat tablosunun davacı firmayı münferit imzası ile temsil ve ilzama yetkili ... tarafından imzalandığını, satışların bu fiyatlar üzerinden yapıldığını ve kesin hesabın imza altına alınan fiyatlar doğrultusunda yapıldığını, dava konusu alacak iddialarının geçici kabul ve kesin kabul süreçlerinde itiraza konu olmadığını belirterek, davanın reddini istemiştir.
 

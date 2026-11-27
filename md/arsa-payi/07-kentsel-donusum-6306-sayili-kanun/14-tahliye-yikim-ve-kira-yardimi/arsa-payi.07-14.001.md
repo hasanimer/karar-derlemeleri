@@ -33,6 +33,8 @@ Davacıya ait taşınmaz üzerinde bulunan yapının 6306 sayılı Afet Riski Al
 
 ## Danıştay İDDK 2025/1557 E., 2025/1866 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1189314100)
+
 Yukarıda metnine yer verilen 5393 sayılı Kanun'un 73. maddesi hükmü ile kentsel dönüşüm ve gelişim proje alanlarında bulunan yapıların boşaltılması, yıkımı ve kamulaştırılmasında anlaşma yolunun esas olduğu belirtilmişse de, bu hükmün koşulların bulunması halinde, 2942 sayılı Kanun'un 27. maddesiyle Cumhurbaşkanına tanınan acele kamulaştırma yetkisinin kullanımına engel teşkil etmediği açık olup, işlem tesisine dayanak olan acelelik halinin ve olağan kamulaştırma usulünden ayrılmasını gerektiren nedenlerin, kamu yararı ile özel mülkiyet hakkı arasındaki denge gözetilerek gerçekleşip gerçekleşmediğinin her somut olayda, projenin ve hizmetin niteliği, mahalli veya ulusal ihtiyacın ivedilikle karşılanması gerekliliği gibi hususlar da göz önünde bulundurularak yargı yerince değerlendirilmesi gerekmektedir.
 
 …
@@ -40,6 +42,8 @@ Yukarıda metnine yer verilen 5393 sayılı Kanun'un 73. maddesi hükmü ile ken
 Bu durumda, dava konusu işlemde hukuka aykırılık, işlemin uyuşmazlığa konu taşınmaz yönünden iptali yolundaki Daire kararında ise hukuki isabet bulunmadığından, davalı idarelerin temyiz istemlerinin kabulü ile Daire kararının bozulması ve davanın reddine karar verilmesi gerektiği oyuyla …
 
 ## Danıştay İDDK 2023/3171 E., 2025/746 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1171250600)
 
 İlk Derece Mahkemesi kararının özeti: ... İdare Mahkemesinin ... tarih ve E:..., K:... sayılı kararıyla; çoğunluk hissesi sahibi paydaşın yüklenici firmayla imzalamış olduğu kat karşılığı inşaat sözleşmesinin ihtarname ekinde davacılara gönderildiği, bununla birlikte süreç içerisinde davacıların sözleşmeyi imzalayarak idareye ibraz etmelerinin istenildiği ancak davacıların bu sözleşmeyi imzalayarak idareye ibraz etmedikleri görüldüğünden, 6306 Sayılı Kanunun Uygulama Yönetmeliği'nin 15/A maddesi kapsamında tesis edilen dava konusu işlemde hukuka aykırılık bulunmadığı gerekçesiyle davanın reddine karar verilmiştir.
 
@@ -56,9 +60,13 @@ için yukarıda açıklanan mevzuat hükümleri uyarınca davacının payının 
 
 ## Danıştay VDDK 2023/7 E., 2024/2 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1055060100)
+
 6306 sayılı Kanun'un 7. maddesinin (9) numaralı fıkrasındaki düzenlemeyle riskli yapı şerhi konularak anılan Kanun kapsamında yıkılıp yeniden inşa edilen yapıların, işi yüklenen müteahhit tarafından ilk devri ve tescilinin tapu harcından müstesna olduğu hüküm altına alınmıştır.
 
 ## Danıştay İDDK 2022/2451 E., 2023/1931 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1026225200)
 
 Davacı tarafından, mutlak koruma alanlarının su kaynaklarının korunmasında en önemli alanlar olması sebebiyle daha önce Su Kirliliği Kontrolü Yönetmeliği'nde kabul edilen hukuki rejime uygun olarak bütünüyle kamulaştırılması gerektiği iddiasıyla fıkranın iptal edilmesinin istenildiği, …
 
@@ -75,15 +83,21 @@ Açıklanan nedenlerle, temyize konu Daire kararının Yönetmelik'in 10. maddes
 
 ## Danıştay VDDK 2023/186 E., 2023/932 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1003290200)
+
 Anılan Kanun'un 73. maddesinin altıncı fıkrasında kentsel dönüşüm ve gelişim alanı olarak ilan edilebilecek tüm alanlar için değil sadece yıkılarak yeniden yapılacak münferit yapılarda ilgili vergi, resim ve harçların dörtte birinin alınacağı yönünde kısmi vergi istisnası getirilmiştir.
 
 05/07/2011 tarihli Niğde Merkez Kentsel Dönüşüm ve Gelişim Projesine İlişkin Protokol'ün 8. maddesinde, kentsel dönüşüm ve gelişim alanında yer alan tüm yapı ve eklentilerin tasfiyesinin, yıkım ve molozların temizlenmesinin belediye tarafından yapılacağı, TOKİ tarafından ihalesi yapılacak alanların ihale sonrası müteahhitlere yer teslimi yapılıncaya kadar geçen süre zarfında tapulu tapusuz her türlü işgalden arındırılarak boş olarak TOKİ'ye fiilen tesliminin belediyenin sorumluluğunda olduğu açıkça düzenlenmiştir.
 
 ## Danıştay VDDK 2022/1070 E., 2023/528 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/921737400)
+
 Diğer taraftan, işe ilişkin özel idari ve teknik şartnamenin 3. maddesinin 6. fıkrası uyarınca inşaatın yapılacağı alan üzerindeki mevcut yapıların ve müştemilatların yıkımı, molozların yasal döküm yerlerine naklinin ihale kapsamında olduğu ve bu çerçevede kentsel dönüşüm ve gelişim proje alanında yer alan mevcut (eski) yapıların yıkıldığı ve bu yapıların söz konusu Kanun kapsamında yeniden yapıldığı anlaşılmaktadır.
 
 ## Danıştay İDDK 2022/2830 E., 2023/309 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/913298500)
 
 İstanbul ili, Kadıköy ilçesi, …
 
@@ -101,6 +115,8 @@ Davanın yukarıda özetlenen gerekçeyle kısmen reddine, kısmen karar verilme
 
 ## Danıştay İDDK 2022/1381 E., 2023/304 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/990342800)
+
 6306 sayılı Afet Riski Altındaki Alanların Dönüştürülmesi Hakkında Kanun'un 1.maddesinde; Kanun'un amacının; afet riski altındaki alanlar ile bu alanlar dışındaki riskli yapıların bulunduğu arsa ve arazilerde, fen ve sanat norm ve standartlarına uygun, sağlıklı ve güvenli yaşama çevrelerini teşkil etmek üzere iyileştirme, tasfiye ve yenilemelere dair usul ve esasları belirlemek olduğunun belirtildiği, aynı Kanun'un 2. maddesinin (ç) bendinde; riskli alanın, zemin yapısı veya üzerindeki yapılaşma sebebiyle can ve mal kaybına yol açma riski taşıyan, Cumhurbaşkanınca kararlaştırılan alan olarak tanımlandığı,
 
 …
@@ -115,6 +131,8 @@ Davanın yukarıda özetlenen gerekçeyle kısmen reddine, kısmen dava konusu d
 
 ## Danıştay İDDK 2022/940 E., 2023/302 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/990343100)
+
 Davacı tarafından; düzenlemenin eksik olduğu, mühendislik esaslarıyla çeliştiği, jeofizik yöntemlerle her türlü zeminde ölçüm yapılabileceği ve yapıdan uzaklığı 200 m'yi geçmeyecek alanda sondaj yapılarak bu ölçümün de desteklenmesinin mümkün olduğu, düzenleme ile bazı yapılar hakkında zemin etüdünün yapılması zorunluluğunun kaldırıldığı, bu durumun hukuka uygun olmadığının iddia edildiği, …
 
 Davalı tarafından; Riskli Yapıların Tespit Edilmesine İlişkin Esaslar'ın 2.4. maddesinde, yerel zemin sınıfının 3 adet yöntemle belirlenebileceğinin düzenlendiği, riskli yapılarda zemin sınıfı ve zemin etüdünün yapılmasının zorunluğu olduğunun dava konusu düzenlemenin 1. cümlesinde belirtildiği, zemin etüdü yapılmasının uygun olmadığı durumlarda zemin sınıfının jeofizik çalışmalar ile belirlenmesi önerisinin yeraltı ulaşım ağının bulunduğu zeminlerde (Örneğin; Ankara, Kızılay meydanında bulunan yapıların zemininde) yapılmasının teknik açıdan hatalı sonuçlar vereceğinden uygun olmadığı, bu sebeple, daha önce yapılmış zemin etüdüne veya en yakın alandaki elverişli zemin etüdüne bakılmak suretiyle zemin sınıfının belirlenebilmesinin daha uygun olduğu, düzenlemede eksik bir husus bulunmadığının savunulduğu, …
@@ -125,6 +143,8 @@ Bu itibarla, incelemeye alınan yapıların can ve mal kaybına sebep olmaması,
 
 ## Danıştay İDDK 2022/1040 E., 2023/301 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/992810600)
+
 Riskli yapıların yıktırılması başlığını taşıyan Yönetmeliğin 8.maddesinin 2.fıkrasının (ç) bendinde; "(a) ve (c) bentlerinde belirtilen şekilde verilen süreler içinde riskli yapıların maliklerince yıktırılmaması hâlinde, riskli yapılara elektrik, su ve doğal gaz verilmemesi ve verilen hizmetlerin durdurulması ilgili kurum ve kuruluşlardan istenir. İdarenin talebi üzerine, ilgili kurum ve kuruluşların riskli yapılara verilen elektrik, su ve doğal gaz gibi hizmetleri durdurması zorunludur.” kuralına yer verilmişken, bu kuralın iptali istemiyle başka bir davacı tarafından açılan davada, Dairelerince verilen 12/06/2019 tarih ve E:2019/2494, K:2019/5508 sayılı kararla; dava konusu düzenlemenin iptaline karar verildiği ve bu kararın Danıştay İdari Dava Daireleri Kurulunun 23/09/2021 tarih ve E:2019/2841, K:2021/1574 sayılı kararıyla onandığı görüldüğünden, bu bende yönelik olarak uyuşmazlığın esası hakkında bir karar verilmesine yer olmadığı, …
 
 …
@@ -132,6 +152,8 @@ Riskli yapıların yıktırılması başlığını taşıyan Yönetmeliğin 8.ma
 Dava hakkında yukarıda özetlenen gerekçeyle kısmen karar verilmesine yer olmadığına, kısmen davanın reddine ilişkin Danıştay Altıncı Dairesinin temyize konu 17/11/2021 tarih ve E:2019/16858 …
 
 ## Danıştay İDDK 2022/2827 E., 2023/300 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/992814500)
 
 Davacı tarafından; riskli yapı tespitine karşı malikler veya kanunî temsilcilerince on beş gün içinde riskli yapının bulunduğu yerdeki Müdürlüğe verilecek bir dilekçe ile itiraz edilebileceği yolundaki hükmün dayanağı olan 6306 sayılı Kanun'un 3. maddesinin 1. fıkrasının Anayasa'ya ve insan haklarına aykırı olduğundan bahisle hukuka aykırı olduğunun ileri sürüldüğü, …
 
@@ -145,6 +167,8 @@ Davanın yukarıda özetlenen gerekçeyle reddine ilişkin Danıştay Altıncı 
 
 ## Danıştay İDDK 2021/2702 E., 2022/621 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/804405200)
+
 DANIŞTAY TETKİK HÂKİMİ ...'İN DÜŞÜNCESİ : 6306 sayılı Afet Riski Altındaki Alanların Dönüştürülmesi Hakkında Kanunun dava konusu işlemlerin tesis edildiği tarihte yürürlükte bulunan "Tahliye ve yıktırma" başlıklı 5. maddesinin 1. fıkrasında, "Riskli yapıların yıktırılmasında ve bunların bulunduğu alanlar ile riskli alanlar ve rezerv yapı alanlarındaki uygulamalarda, öncelikli olarak malikler ile anlaşma yoluna gidilmesi esastır. Anlaşma ile tahliye edilen yapıların maliklerine veya malik olmasalar bile kiracı veya sınırlı ayni hak sahibi olarak bu yapılarda ikamet edenlere veya bu yapılarda işyeri bulunanlara geçici konut veya işyeri tahsisi ya da kira yardımı yapılabilir." hükmü yer almıştır.
 
 6306 sayılı Kanunun Uygulama Yönetmeliğinin dava konusu işlemlerin tesis edildiği tarihte yürürlükteki şekliyle "Kira yardımı ve diğer yardımlar" başlıklı 16.maddesinde, anlaşma ile tahliye edilen uygulama alanındaki yapıların maliklerine tahliye tarihinden itibaren Bakanlıkça kararlaştırılacak aylık kira yardımı yapılabileceği kuralına yer verilmiştir.
@@ -155,6 +179,8 @@ Yukarıda özetlenen gerekçeyle davanın reddine ilişkin Danıştay Altıncı 
 
 ## Danıştay VDDK 2022/2 E., 2022/7 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1094158600)
+
 Yukarıda yer verilen mevzuat hükümlerinin değerlendirilmesinden, 6306 sayılı Kanun'un amacının riskli yapıların yıkılarak bu yapıların bulunduğu arsa, arazi ve alanlarda sağlıklı ve güvenli yaşama çevreleri oluşturmak olduğu; Kanun kapsamında yapılacak olan işlem, sözleşme, devir ve tescillerle ilgili vergi ve harç istisnası getirildiği anlaşılmaktadır. 6306 sayılı Kanunun Uygulama Yönetmeliği'nin 16. maddesinin (9) numaralı fıkrasına 25/07/2014 tarihinde eklenen (ç) bendi ile de dönüşüm uygulaması öncesi yapılarla uygulama sonrasında meydana gelen yeni yapıların ilk satışı, devri ve tescili işlemlerine vergi ve harç muafiyetinin uygulanacağı belirtilmektedir.
 
 Bu kapsamda, vergi ve harç istisnasına ilişkin düzenlemenin amacının, riskli yapıların yıkılarak yerine standartlara uygun yeni binaların yapılmasını teşvik etmek, mükelleflere bir takım vergisel kolaylıklar sağlayarak motivasyon oluşturmak ve dönüşüm sürecini hızlandırmak olduğu sonucuna ulaşılmaktadır. Kentsel dönüşümün en önemli uygulama alanlarından olan afet riski altındaki alanlarla, riskli yapıların dönüşüm sürecinde, anılan Kanun'un amacı da göz önünde bulundurularak vergi ve harç istisnasını daraltacak yorumlardan kaçınılmalıdır. Kaldı ki, 6306 sayılı Kanun'un 7. maddesinin (9) numaralı fıkrasında, Kanun kapsamında yapılacak olan işlem, sözleşme, devir ve tesciller ile uygulamalara ilişkin hiç bir sınırlama getirilmeden geniş bir istisna tanınmış olup Yönetmeliği'nin 16. maddesinin (9) numaralı fıkrasına 25/07/2014 tarihinde eklenen (ç) bendinde yer alan düzenleme ile de dönüşüm uygulamaları sonrasında meydana gelen yeni yapıların ilk satışı, devri ve tescili işlemlerinin de istisna kapsamında olduğu açıkça belirtilmiştir.
@@ -162,6 +188,8 @@ Bu kapsamda, vergi ve harç istisnasına ilişkin düzenlemenin amacının, risk
 Bu durumda, dönüşüm uygulamaları sonrasında inşa edilen yeni yapıların hak sahibi maliklerle müteahhitler tarafından üçüncü kişilere satışında harç istisnası uygulanması gerekmektedir.
 
 ## Danıştay İDDK 2019/2841 E., 2021/1574 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/718872200)
 
 Belirtilen hususlar dikkate alındığında, dava konusu Yönetmelik hükmünün dayanağı olan 6306 sayılı Yasa'nın 4.maddesi ile getirilen sınırlamanın amacının, uygulamaları devam ettirebilmek için riskli yapıların tahliye edilmesi konusunda bireylerin zorlanması olduğunun anlaşıldığı, …
 
@@ -188,6 +216,8 @@ Yapılan yargılama sonucunda (yukarıda detaylı şekilde anlatıldığı üzer
 DAVACININ İDDİALARI : Kentsel dönüşüm nedeniyle 2022 yılının Ekim ayında oturduğu binanın yıkılması nedeniyle taşınmak zorunda kaldığı, bu nedenle kira yardımı ve binanın yeniden yapımı için faiz desteğine ihtiyaç duyduğu, CİMER kanalı ile konuyu davalı idareye sorması üzerine 5630 sayılı Cumhurbaşkanı Kararı ile 6306 sayılı Kanunun Uygulama Yönetmeliğinin 16. maddesinin 7. fıkrası uyarınca, hem kira yardımı hem de faiz desteğinden yararlanmasının mümkün olmadığı şeklinde cevap verildiği, bu durumun ise mağduriyete sebebiyet verdiği iddia edilerek, 5630 sayılı Cumhurbaşkanı Kararı ekinde yer alan 4. maddesi ile çelişen 6306 sayılı Kanunun "Kira yardımı ve diğer yardımlar" başlıklı 16. maddesinin 7. fıkrasının iptali talep edilmiştir.
 
 ## Danıştay 4. D. 2024/2922 E., 2025/5554 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1191069700)
 
 İlk Derece Mahkemesi kararının özeti: ... İdare Mahkemesince verilen ... tarih ve E:..., K:... sayılı kararda; davacının murisi olan eşi ...'un ortağı/yönetim kurulu başkanı/kanuni temsilcisi olduğu ...
 

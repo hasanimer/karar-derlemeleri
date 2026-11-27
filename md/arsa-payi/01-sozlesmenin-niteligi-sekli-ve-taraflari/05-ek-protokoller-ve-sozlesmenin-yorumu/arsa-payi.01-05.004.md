@@ -22,6 +22,8 @@ uyari: "Derleyenin seçtiği alıntılardır; kararın tamamı değildir. Künye
 
 ## Yargıtay 23. HD 2012/5598 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/551714900)
+
 Davacı vekili, 18 ve 19 parsel sayılı taşınmazlarla ilgili olarak müvekkili arsa sahibi ile davalı yüklenici şirket arasında 24.09.2009 gün ve 10885 yevmiye numaralı düzenleme şeklindeki satış vaadi ve arsa payı inşaat sözleşmesi yapıldığını, sözleşme uyarınca taşınmazın tek blok halinde 5 katlı ve her katta 2 daire olmak üzere toplam 10 daire olacağının, 5 dairenin arsa sahiplerine, müvekkiline 3. kat 7 nolu dairenin verileceğinin kararlaştırıldığını, sözleşmeye aykırı olarak müvekkilinin rızası hilafına her katta 3 daire olacak şekilde inşaat yapıldığını, sonradan yapılan değişiklik ile daire sayısının haksız bir şekilde 15 'e çıkarıldığını, sözleşmede belirlenen şartların birbiriyle çeliştiğini, sözleşmenin D3. sayfasında tek blok olarak her katta 2 daire olmak üzere 5 katlı toplam 10 daire olmak üzere inşaatın yapılacağının belirtildiğini, sözleşmenin devamında, arsa sahiplerine arka bloktan yani B bloktan daireler verileceğinin belirtildiğini, ayrıca sözleşme uyarınca müvekkiline verilmesi gereken B bloktaki 7 nolu dairenin tapu kayıtlarına göre ... adına kayıtlı olduğunu, müvekkili adına kayıtlı herhangi bir bağımsız bölümün bulunmadığını, sözleşmede kararlaştırılan teslim
 süresi dolmasına rağmen inşaatın davacı müvekkiline teslim edilmediğini, dairenin teslim edilmemesinden dolayı davacının kira gelirinden de mahrum kaldığını ileri sürerek, davalı ... adına kayıtlı bulunan tapunun iptaliyle müvekkili ... adına tesciline, sözleşmeye aykırılık nedeni ile sonradan yapılan 5 daireden müvekkili hissesine düşen miktarın müvekkiline verilmesine, ruhsat alım tarihinden itibaren geçen süreler içerisinde müvekkiline ödenmeyen kira bedelinin müvekkiline ödenmesine karar verilmesini talep ve dava etmiştir.
 
@@ -38,6 +40,8 @@ SONUÇ: Yukarıda (1) numaralı bentte açıklanan nedenlerle davacı vekilinin 
 
 ## Yargıtay 15. HD 2012/5299 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/524652100)
+
 Bilirkişi kurulu raporunda; 110.427,24 TL maddi tazminatın davalıdan tahsilini gerektiren sözleşme hükmü olarak gösterilen arsa tahsisine ilişkin arsa tahsisi ön protokolü ve arsa tahsisi ek protokollerinin genel hükümler bölümündeki 4. maddesi: “Türkkonut'un arsa ve arazi satın alımı, imar ve ıslah çalışmaları ile plan ve proje giderleri için temin edilip kullanıldığı veya temin edip kullanacağı tüm iç ve dış kaynaklı kredi şartlarını Birlik ve Kooperatif aynen kabul eder, hâsıl olan faiz vesair giderler konut sayısı oranında arsa tahsisi alan diğer kooperatif ortaklarına müsavi olarak bölünür, tahakkuk eden miktarı kooperatif ödemeyi şimdedin kabul ve taahhüt eder” hükmünü içermektedir. Bu hükmün kapsamı değerlendirildiğinde; 31.03.2006-31.04.2009 tarihleri arasında davacı kooperatif tarafından dava dışı Türkkonut'a ödenmiş olan toplam 110.427,24 TL kredi geri ödemesinden ötürü davalı yüklenicinin davacıya karşı sorumluluğunu gerektirir sözleşmesel bir hükmü içirmediği açıklıkla anlaşılmaktadır. Kaldı ki; davalı, davacı kooperatifin üyesi olmayıp, yüklenicidir.
 Hukuksal ve sözleşmesel bir sebebe dayanmadığı halde 110.427,24 TL maddi tazminatın mahkemece davalıdan tahsiline karar verilmesi doğru olmamıştır. Çünkü Türk sorumluluk hukukunda tazmin sorumluluğu yasa ya da sözleşmeden doğar.
 
@@ -47,12 +51,16 @@ SONUÇ: Yukarıda 1. bentte belirtilen nedenlerle davacı vekilinin tüm temyiz 
 
 ## Yargıtay 15. HD 2012/2451 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/516032900)
+
 03.05.2001 tarihli kat karşılığı inşaat sözleşmesinde yapılacak inşaatın %55'inin yükleniciye %45'inin ise dava dışı arsa sahipleri ile birlikte 1/2 oranında davacılara verilmesi kabul edilmiştir. Sonradan düzenlenen 14.11.2001 tarhili ek sözleşmede ise asıl sözleşmede arsa sahiplerine %45 pay verileceği açıklanarak arsa sahipleri hisselerine düşen bağımsız bölümlerin numaraları belirtilmiş kat irtifakının bu şekilde kurulması kararlaştırılmıştır. Ek sözleşmenin düzenlenmesinden sonra davacı arsa sahiplerince davalı yükleniciye çekilen 07.12.2001 tarihli ihtarda ise ek sözleşme iyiniyetle imzalanmış ise de incelenmesinde paylaşımın ana sözleşmeye uygun olmadığının belirlendiği, bu nedenle bağlayıcı olmayacağı açıklanmıştır.
 Davacı arsa sahiplerince ek sözleşme ile bağlı bulunmayacağı yükleniciye bildirildiğine göre mahkemece bilirkişilerden ek rapor alınmak suretiyle öncelikle mevcut inşaatın yasal hale getirilip getirilmeyeceği ilgili Belediye'den de sorularak araştırılmalı, yasal hale getirilmesi mümkün ise tüm inşaat alanından davacı arsa sahiplerine düşecek %45 payın 1/2'sinin alanının belirlenip eksik verilen kısmın aynen teslimi, mümkün olmazsa bedelinin tahsiline karar verilmesi, ayrıca davacılara ait olup davalı yüklenici tarafından üçüncü kişilere kullandırıldığı anlaşılan üç dairedeki eksik ayıplı imalâtın sözleşmeye uygun hale getirilmesi, mümkün olmaması halinde bedelinin saptanıp giderilme bedelinin davalıdan tahisiline ve dairelerin davacılara teslimine karar verilmesi gerekir. Kararın açıklanan sebeplerle bozulması uygun bulunmuştur.
 
 SONUÇ: Yukarıda 1. bentte açıklanan nedenlerle davalı karşı davacının tüm, davacı karşı davalıların sair temyiz itirazlarının reddine, 2. bentte açıklanan nedenlerle kararın davacı karşı davalılar yararına BOZULMASINA …
 
 ## Yargıtay 15. HD 2011/7508 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/660761100)
 
 Uyuşmazlık, noterde düzenleme biçiminde tanzim olunan 30.06.2005 tarihli kat karşılığı inşaat sözleşmesinden kaynaklanmakta olup, davacı ... arsa sahibi, davalı ... İnş.San.Tic.Ltd.Şti. yüklenici, davalı ...'da kefil sıfatını taşımaktadır.Davada, sözleşme dışında fazladan yapıldığı iddia olunan bağımsız bölümlerin tapularının sözleşmedeki payı oranında iptâli ve tescili, mümkün olmazsa şimdilik 10.000,00 TL daire bedelinin tahsili istenmiştir. Davalı cevabında, sözleşme dışı ilave kat yapılmadığından davanın reddini savunmuştur. Mahkemece, bilirkişi görüşü doğrultusunda 2. bodrum kattaki 2 adet dairenin sözleşme dışı olarak fazladan yapıldığı, tesis olunan kat irtifakında bu dairelere arsa payı verilmediğinden tapu iptâli ve tescil kararı verilmesinin mümkün olmadığı, fazladan yapılan 2 adet dairenin dava tarihindeki rayiçlere göre bedelinin 60.000,00 + 60.000,00 = 120.000,00 TL olup, davacının sözleşmede kararlaştırılan %25 payına 30.000,00 TL isabet ettiği kabul edilerek ve taleple bağlı kalınarak 10.000,00 TL alacağın dava tarihinden itibaren yasal faizi ile birlikte her iki davalıdan müştereken ve müteselsilen tahsiline karar verilmiştir.
 Taraflar arasında biçimine uygun olarak düzenlenen 30.06.2005 günlü kat karşılığı inşaat sözleşmesinde iki blok halinde 8 + 8 = 16 daireli bina inşa edileceği, arsa sahibine 4 adet daire verileceği, daha fazla daire yapılması durumunda ise fazla yapılan dairelerinin %25'inin arsa sahibine verileceği kararlaştırılmıştır.Tasdikli mimari projeye göre bina 2. bodrum + 1. bodrum + zemin + 1. normal kat + 2. normal kat + çatı piyesi olmak üzere toplam 5 katlıdır. 2. bodrumda kalorifer dairesi, sığınak, depo ve kapıcı dairesi, diğer katlarda ise 4'erden 16 daire bulunmaktadır. Son kattaki daireler dublekstir. Tasdikli mimari projeye göre 25.10.2007 tarihinde kat irtifakı kurulmuş olup, toplam 16 adet bağımsız bölüm bulunmaktadır.
@@ -64,6 +72,8 @@ Mahkemece eksik inceleme ile yazılı şekilde davanın kabul edilerek alacağı
 
 ## Yargıtay 15. HD 2011/6799 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/766353100)
+
 1-...34. Noterliği'nce doğrudan düzenlenen 22.08.2002 ve 26570 yevmiye numaralı “Düzenleme Şeklinde Arsa Payı Karşılığı İnşaat Yapım Sözleşmesi”'ni ... ve...ile davalıların oluşturduğu adî ortaklığı temsilen de ... imzalamışlardır. Davacılardan Ata Tuğrul ve dava dışı...arsa sahibi; davalılar ise yüklenicidirler. Yanlar arasındaki bu sözleşme, Borçlar Kanunu'nun 355. maddesinde tanımı yapılan eser sözleşmesinin bir türü ve taraflarına haklar sağlayan ve borçlar yükleyen, tam iki yanlı sözleşmelerden olan arsa payı karşılığı inşaat sözleşmesidir. Arsa sahipleri ile yüklenicileri temsilen ... arasında yapılan ve ...34. Noterliği'nce doğrudan düzenlenen 28.05.2003 tarih ve 18892 yevmiye numaralı ek sözleşmede de yapımı yüklenilen bağımsız bölümlerin paylaşımı düzenlenmiştir. Arsa payı karşılığı inşaat sözleşmesinde öngörülen koşullarla, sözleşmede yazılı ... ile Ali Emre Etik'in müşterek mülkiyet şeklinde maliki oldukları 106 pafta, 1248 ada ve 76 numaralı parsele, A ve B blokların yapımını davalılar yüklenmişlerdir. Arsa payı karşılığı inşaat sözleşmesinin 5.1 maddesi hükmünde; D Blok'tan sözedilmiş ise de; bu blokun yapımıyla ilgili dosya kapsamında yeterli bilgi bulunmamaktadır.
 
 Arsa Payı Karşılığı İnşaat Sözleşmesi ve ek sözleşme hükümlerine göre; A bloktaki 3, 6, 13, 14, 15, 19, 22 numaralı konut niteliğindeki bağımsız bölümler ile zemin kattaki 25 bağımsız bölüm numaralı dükkanın yarı hissesinin ve B bloktaki 32, 36, 39, 46, 47 ve 51 bağımsız bölüm numaralı konutların davacılardan ...'e; A bloktaki 2, 7, 10, 18, 23 bağımsız bölüm numaralı konutlar ile zemin kattaki 25 numaralı dükkanın 1/2 hissesini ve ayrıca B bloktaki 26, 27, 31, 34, 35, 37, 48 bağımsız bölüm numaralı konutların ise Ali …
@@ -73,6 +83,8 @@ Arsa Payı Karşılığı İnşaat Sözleşmesi ve ek sözleşme hükümlerine g
 SONUÇ: Yukarıda 1. bentte açıklanan sebeplerle taraf vekillerinin temyiz itirazlarının kabulü ile kararın taraflar yararına, 2. bentte belirtilen nedenlerle de davalılar yararına BOZULMASINA …
 
 ## Yargıtay 15. HD 2011/2278 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/765518600)
 
 Dava, arsa payı karşılığı inşaat sözleşmesi uyarınca tapu iptâli ve tescil istemine ilişkindir.
 
@@ -89,6 +101,8 @@ SONUÇ:Yukarıda açıklanan nedenlerle temyiz itirazlarının kabulüyle hükm�
 
 ## Yargıtay 15. HD 2010/7251 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/778331600)
+
 Arsa sahipleri ile yüklenici arasındaki asıl sözleşme 10.10.1989 tarih 35016 yevmiye nolu sözleşme olup, bu sözleşmenin 1. maddesinde sözleşme konusu 7 nolu parselde kimlerin ne miktarda hissesi bulunduğu açıklandıktan sonra hissedarların tamamına 14 daire ve 5 dükkan verileceği, 4 dairenin ...e, 4 dairenin ...'a, 6 dairenin diğer altı hissedara, 5 dükkanın da tüm hissedarlara (sekiz kişi) ait olacağı kararlaştırılmıştır. Sonradan imzalanan diğer sözleşmeler bu sözleşmeyi tamamlayıcı ve tadil edici nitelikte ek sözleşmelerdir.
 
 …
@@ -96,6 +110,8 @@ Arsa sahipleri ile yüklenici arasındaki asıl sözleşme 10.10.1989 tarih 3501
 SONUÇ:Yukarıda 1. bentte yazılı nedenlerle davalılar ..., ..., ... ve ...'in sair temyiz itirazlarının reddine, 2. bent uyarınca kabulüyle kararın temyiz eden davalılar yararına BOZULMASINA …
 
 ## Yargıtay 15. HD 2010/4035 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/774817100)
 
 Kadıköy 4. Noterliği'nde düzenlenen 01.07.1987 tarih 54208 yevmiye nolu sözleşme ile aynı noterlikte imzalanan 06.11.1987 tarihli ek sözleşme davacı arsa sahibi ile davalı yüklenici ... A.Ş. arasında imzalanmıştır. Diğer davalılar yükleniciden bağımsız bölüm ya da arsa payı devralan veya yüklenici ile onun bağımsız bölüm sattığı üçüncü kişilerden icra marifetiyle satın alan kişilerdir. Asıl ve birleşen davalarda talepler inşaatın getirildiği seviye itibariyle ileriye etkili fesih ile tapu iptâli tescil istemli olarak ve terditli dava şeklinde ileri sürülmüş ise de; tapu iptâli ve tescil talepleri kabul edilmemiş ve sözleşme ile ek sözleşmeler feshedilmemiş olduğu ve davacı yanca karar temyiz edilmediğinden hukuki varlıklarını muhafaza ettikleri ortadadır. Kadıköy 4. Noterliği'nde düzenlenen sözleşme ve ek sözleşmede arsa sahipleri dışında davalılardan sadece yüklenici şirket taraf olup sözleşmeler ayakta bulunduğundan eksik işler bedeli sadece akdin tarafı olan yükleniciden talep edilebilir.
 Yükleniciden bağımsız bölüm ve hisse devralan veya cebri icra yoluyla pay sahibi olan üçüncü kişilerin arsa sahiplerine karşı akdi sorumlulukları bulunmadıkları gibi yüklenicinin borcunu taahhüt ettiklerine dair hiçbir delil bulunmadığından eksik işler bedelinden sorumlu tutulmaları mümkün değildir.
@@ -106,6 +122,8 @@ SONUÇ: Yukarıda açıklanan nedenlerle temyiz itirazlarının kabulü ile hük
 
 ## Yargıtay 15. HD 2010/2628 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/776427400)
+
 Yanlar arasında düzenlenen 28.04.1995 tarihli Düzenleme Şeklinde Kat Karşılığı İnşaat Sözleşmesine göre yapılacak inşaattan %33 oranına tekabül eden 8 adet daire arsa sahibine verilecek kalan bağımsız bölümler ise davalı yükleniciye ait olacaktır. İnşaatın kararlaştırılan sürede ikmâl edilmemesi nedeniyle taraflar arasında 09.07.2002 tarihli ek sözleşme düzenlenmiş, ek sözleşme ile asıl sözleşmenin paylaşım maddesi değiştirilerek, 8 adet dairenin yanı sıra zemin katta doğu-güney cepheli dükkanın %33’ünün arsa sahibine ait olacağı kararlaştırılmıştır. İnşaatta iki adet dükkan mevcut olduğundan ek sözleşmede tariflenen zemin kat doğu-güney cepheli dükkanın 25 ve 26 nolu dükkanlardan hangisinin olduğu bilirkişiden ek rapor alınarak belirlenmek suretiyle bu dükkanın %33 payının arsa sahibi üzerinde bırakılması, %67’sinin ise tapusunun iptâli ile yüklenici kooperatif adına tesciline karar verilmesi gerekirken her iki dükkanın tapu kayıtları tamamen iptâl edilerek yüklenici adına tesciline karar verilmesi doğru olmamıştır.
 
 …
@@ -114,6 +132,8 @@ SONUÇ:Yukarıda 1. bentte yazılı nedenlerle davalı ve karşı davacı yükle
 
 ## Yargıtay 15. HD 2010/1885 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/773898500)
+
 Davacıların murisi ile davalı-birleşen dosya davacısı yüklenici arasında ... Noterliği'nde biçimine uygun olarak düzenlenmiş 19.02.1998 gün 9110 yevmiye nolu Kat Karşılığı İnşaat Sözleşmesi'nin 6/d. Maddesinde inşaatın sözleşme tarihinden itibaren 20 ay sonunda bitirilmesi bu tarihten sonraki gecikmelerde yüklenicinin arsa sahibine gecikilen her ay 70,00 TL kira ve ilave olarak aylık 50,00 TL ceza ödemesi kararlaştırılmıştır. 15.09.2000 tarihli ek sözleşmeyle inşaatın bitirilmesi ek sözleşme tarihinden itibaren 4 ay uzatılmış olup ek sözleşmeye göre teslimi gereken tarih 15.01.2001 olmaktadır. Ek sözleşmede yeni bir gecikme tazminatı ve ceza belirlenmedeği gibi, diğer hususlarda ana sözleşme şartlarının aynen geçerli olduğu kabul edilmiştir.
 
 …
@@ -121,6 +141,8 @@ Davacıların murisi ile davalı-birleşen dosya davacısı yüklenici arasında
 SONUÇ: Yukarıda açıklanan nedenlerle temyiz itirazlarının kabulü ile hükmün davalı birleşen dosya davacısı yararına BOZULMASINA …
 
 ## Yargıtay 1. HD 2009/6482 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/77863800)
 
 Davacı, dava dışı yüklenici ile yapmış olduğu kat karşılığı inşaat sözleşmesi uyarınca yüklenici tarafından binanın tamamlanmamış olması nedeniyle sözleşmeyi tek taraflı olarak feshettiğini, ancak sözleşme hükümlerine göre kendisine düşecek daireleri yükleniciden satın olan davalıların hakları olmadığı halde taşınmazını işgal ettiklerini, ihtara rağmen de kullanıma devam ettiklerini ileri sürerek, elatmanın önlenmesi isteğinde bulunmuştur.
 
@@ -138,12 +160,16 @@ Tüm bu nedenlerle davalı N...'nin yerinde görülmeyen temyiz itirazlarının 
 
 ## Yargıtay 15. HD 2009/6305 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/855212100)
+
 Dava dışı yüklenici ... ile davalı arsa sahibi arasındaki düzenleme şeklinde daire karşılığı, inşaat yapım sözleşmesi 13.04.1999 tarihinde imzalanmıştır. Davacı yüklenici şirket 19.09.2000 tarihli düzenleme şeklindeki devir sözleşmesiyle işi ilk yüklenici ...’dan devralmıştır. Davacı devralan yüklenici şirket ile davalı arsa sahibi arasında 16.01.2003 tarihinde düzenleme şeklinde daire karşılığı inşaat yapım sözleşmesine ek sözleşme imzalanmıştır. Taraflar arasındaki 16.01.2003 tarihli ek sözleşmede, paylaşım yeniden düzenlenmiş, inşaat süresi 15 ay uzatılmış bunlar dışındaki 13.04.1999 tarihli sözleşmenin diğer maddelerinin aynen yürürlükte olduğu kararlaştırılmıştır. Davacı yüklenici şirket bu davada deprem yönetmeliğinde yapılan değişiklik nedeniyle yapmak zorunda kaldığı fazla giderlerin tahsilini istemiştir. Yüklenicinin yükümlülüğü sözleşmeye, imar durumuna, projesine ve yürürlükte bulunan deprem yönetmeliğine uygun nitelikte inşaat yapıp arsa sahibine teslim etmektir. Davacı yüklenici şirket ilk yüklenici ...’dan depremin meydana gelmesinden sonra 19.09.2000 tarihinde aynı şartlarla daire karşılığı inşaat yapım sözleşmesine konu işi devir almıştır.
 Davacı yüklenici şirket davalı arsa sahibi ile imzaladığı 16.01.2003 tarihli düzenleme şeklindeki ek sözleşmede de asıl sözleşmenin şartlarında herhangi bir değişiklik olmayacağını kabul etmiş, fazla yaptığı giderler konusunda istekte bulunabileceği sözleşmede kararlaştırılmamıştır. Davacı yüklenici şirketin sözleşme gereği yükümlülükleri içerisinde depreme dayanıklı inşaat yapılmasının da bulunmasına, davacı yüklenicinin depremin meydana gelmesinden sonra ilk yükleniciden sözleşmeyi devralmış olmasına ve daha sonra taraflar arasında düzenlen 16.01.2003 tarihli sözleşmede de bu konuda arsa sahibi tarafından yükleniciye ödeme yapılacağına ilişkin bir düzenleme yeralmamış olmasına göre, davanın reddine karar verilmesi gerekirken, yanlış değerlendirme sonucu istekle bağlı kalınarak davanın kabulüne karar verilmesi doğru olmamış, kararın bozulması gerekmiştir.
 
 SONUÇ: Yukarıda açıklanan nedenlerle kararın temyiz eden davalı arsa sahibi yararına BOZULMASINA …
 
 ## Yargıtay 14. HD 2009/3867 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/849720600)
 
 Davalı yüklenici ile arsa sahiplerinden ... edimlerin yerine getirilmediğini, açılan davanın reddini savunmuştur.
 
@@ -157,6 +183,8 @@ SONUÇ:Yukarıda açıklanan nedenlerle temyiz olunan hükmün BOZULMASINA …
 
 ## Yargıtay 15. HD 2009/3375 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/855008800)
+
 Dava, arsa payı karşılığı inşaat yapım sözleşmesinin feshi istemine ilişkindir.
 
 …
@@ -169,6 +197,8 @@ SONUÇ:Yukarıda açıklanan nedenlerle temyiz itirazlarının kabulüyle hükm�
 
 ## Yargıtay 15. HD 2009/3280 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/854912400)
+
 Davacı arsa sahibi ... ve davada taraf olmayan diğer arsa sahipleriyle dava dışı ... A.Ş. temsilcisi ... arasında tarihsiz ve adî yazılı olarak “Kat Karşılığı İnşaat Sözleşmesi” başlıklı sözleşme imzalanmıştır. Davacı ile dava dışı arsa sahipleri tarafından .... Noterliği’nin 08.03.1994 tarihli vekâletnamesi ile dava konusu ... Köyü, 453 parsel numaralı tarla vasfındaki taşınmaz üzerine dilediğine inşaatlar yaptırmak için yetki verilmiştir. Bunun üzerine Hüsamettin Kahraman tarafından davalı kooperatifle 12.03.1994 tarihli “ek sözleşme” başlıklı sözleşme imzalanmıştır. Ek sözleşme başlıklı 12.03.1994 tarihli adî yazılı nitelikteki sözleşmeyi Hüsamettin Kahraman’ın davacı ile bu sözleşmede adları yazılı olan diğer arsa sahipleri vekili olarak imzaladığı anlaşılmaktadır. Bu sözleşmenin içeriği dikkate alındığında devir sözleşmesi niteliğinde olduğu sonucuna varılmaktadır. Arsa payı karşılığı inşaat yapım sözleşmelerinin TMK’nın 706, BK’nın 213, Tapu Kanunu’nun 26. maddeleri uyarınca noterlerde düzenleme şeklinde yapılması gerekir. Bu husus arsa payı devri karşılığı inşaat sözleşmelerinin geçerlilik şartıdır.
 Dosyadaki sözleşmelerde bu geçerlilik şartına uyulmamış, sözleşmeler adî yazılı olarak yapılmıştır. Yapılan sözleşmelerin şekil şartına uygun olarak yapılmaması hallerinde, tapu devrinin yapılması veya inşaatın yüklenici tarafından tamamlanması durumlarında da adî yazılı sözleşmelerin tarafları bağlayıcı olacağı kabul edilmektedir. Dava konusu parsel üzerine inşaatın yüklenici olarak davalı kooperatif tarafından yapılıp tamamlandığı anlaşıldığına göre, sözleşmeler tarafları bağlayıcı nitelik kazanmıştır.
 
@@ -179,6 +209,8 @@ Dosyadaki sözleşmelerde bu geçerlilik şartına uyulmamış, sözleşmeler ad
 SONUÇ:Yukarıda açıklanan nedenlerle kararın temyiz eden davacı yararına BOZULMASINA …
 
 ## Yargıtay 15. HD 2009/2488 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/854579800)
 
 Dava, arsa payı karşılığı inşaat yapım sözleşmesi uyarınca eksik ve kusurlu iş bedeli ile gecikme tazminatı alacaklarının tahsili istemine ilişkindir.
 
@@ -192,6 +224,8 @@ Kat karşılığı inşaat yapım sözleşmesi karşılıklı taahhütleri içer
 SONUÇ:Yukarıda birinci bendde açıklanan nedenlerle davalının diğer temyiz itirazlarının reddine, ikinci bent uyarınca kabulüyle hükmün davalı yararına BOZULMASINA …
 
 ## Yargıtay 15. HD 2008/6982 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/858300500)
 
 Yanlar arasındaki ek sözleşmenin İdari Şartlar başlıklı 3. maddesi son paragrafında yapının zamanında tamamlanıp, oturma ruhsatının alınabilmesinin garantisi olarak yüklenicinin sözleşme tarihinde mal sahibine 30.12.2000 vadeli 20.000 $ tutarında bir garanti senedi verdiği yazılıdır. Sözleşmenin 5. maddesine göre tüm işlerin tamamlanıp, oturma ruhsatı alınması için kararlaştırılan süre sözleşme tarihinden itibaren 8 ay olup, inşaatın bu süre içinde tamamlanıp oturma ruhsatının alınamaması halinde geciken süre için yüklenici, mal sahibine 2 daire için toplam 400 $/ay gecikme cezası ödeyecektir. Davalı yükleniciler, dava tarihine kadar geçen 58 aylık süre içinde inşaatı bitirip oturma ruhsatı da alamadıklarından, 58 aylık süre için aylık 400 $ karşılığı 23.200 $ gecikme cezasına hükmedilmesi doğru ise de, sözleşmede aksine bir düzenleme yer almadığı halde, inşaatın tamamlanıp, oturma ruhsatının alınabilmesinin garantisi olan ve yüklenici tarafından mal sahibine verilen 20.000 $ tutarında senet bedelinin ayrıca hüküm altına alınması da doğru olmamış karar bu yönden de bozmayı gerektirmiştir.
 

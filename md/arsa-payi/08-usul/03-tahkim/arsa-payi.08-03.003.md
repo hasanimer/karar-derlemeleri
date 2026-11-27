@@ -21,6 +21,8 @@ uyari: "Derleyenin seçtiği alıntılardır; kararın tamamı değildir. Künye
 
 ## İstanbul BAM 17. HD 2020/1591 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/587257500)
+
 Dava, "İnşaat Tüm Riskler Sigorta Poliçesi" kapsamında hasar bedelinin tahsili istemine ilişkindir.
 
 …
@@ -38,6 +40,8 @@ harcamasının 3.858.879,88 TL'ye ulaştığını belirtmişlerdir. İnşaat Sig
 
 ## İstanbul BAM 15. HD 2018/1330 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/441353500)
+
 Taraflar arasında düzenleme şeklinde 12.08.2008 tarihli Kat Karşılığı İnşaat Sözleşmesi ve 18.10.2012 tarihli Satış Vaadi ve Taahhüt Sözleşmesi imzalanmış olduğu ihtilafsızdır. Davacı arsa sahibince açılan davada her iki sözleşmeye dayalı alacak ve tazminat talebinde bulunulmuştur.12.08.2008 tarihli Kat Karşılığı İnşaat Sözleşmesinin 7.04 maddesinde bu sözleşmeden doğan ihtilaflar için tahkim şartı kabul edilmiş ise de 18.10.2012 tarihli 2.sözleşmenin "Uyuşmazlık" başlıklı 15.maddesinde bu sözleşmenin yorum ve uygulaması dolayısıyla usule gelen ihtilaflarda İstanbul Mahkeme ve İcra Dairelerinin yetkili olacağının kabul edildiği görülmüştür.
 Her iki sözleşmede aynı taşınmaza ilişkin olup, dava konusu uyuşmazlığın çözümünde her iki sözleşme birlikte yorumlanacağı Yargıtay Yerleşik İçtihatlarında da belirtildiği üzere tahkim şartının geçerli olması için tahkim iradesinin açık ve kesin olması gerekeceğinden 18.10.2012 tarihli sözleşmede de tahkim şartı bulunmadığı görülmüş olmakla mahkemesince davanın esası incelenerek karar verilmesi gerekirken Kat Karşılığı İnşaat Sözleşmesindeki tahkim şartına atıfla davanın görev yönünden usulden reddine karar verilmesi doğru olmamış, davanın esası incelenerek hüküm kurulmak üzere mahal mahkemesi kararı kaldrılarak dosyanın mahkemesine gönderilmesi gerektiği kanaatine varılmış aşağıdaki hüküm kurulmuştur.
 
@@ -46,6 +50,8 @@ Her iki sözleşmede aynı taşınmaza ilişkin olup, dava konusu uyuşmazlığ�
 İstanbul 8. Asliye Ticaret Mahkemesi'nin 24/05/2018 tarih, 2017/1149 Esas, 2018/496 Karar sayılı kararının KALDIRILMASINA …
 
 ## İstanbul BAM 17. HD 2018/358 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/395162900)
 
 Dava, DASK sigorta Poliçesi kapsamında hasar bedelinin tahsili istemine ilişkindir.
 

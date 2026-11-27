@@ -41,6 +41,8 @@ Ulusal Yargı Ağı Bilişim Sistemi (UYAP) üzerinden dava dosyasında yapılan
 
 ## Danıştay İDDK 2023/1865 E., 2024/385 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1108899500)
+
 Uyuşmazlıkta; davacı tarafından, yapı kayıt belgelerinin iptali istemiyle dava dışı üçüncü kişiler tarafından açılan davalarda, idari yargı mercilerince verilen iptal veya yürütmenin durdurulması kararlarının kesinleşmediği; bu bağlamda, yapı kayıt belgelerinin sistemden tamamen silinmesine neden olacak biçimde iptal edilmesine yönelik tesis edilen Muğla Valiliği Çevre ve Şehircilik İl Müdürlüğünün ... tarih ve E... sayılı işlemi ile anılan işlemin dayanağı niteliğindeki... tarih ve E... sayılı Çevre ve Şehircilik Bakanlığı Altyapı ve Kentsel Dönüşüm Hizmetleri Genel Müdürlüğü işleminde hukuka uyarlık bulunmadığı ileri sürülmekte ise de; dava konusu Bakanlık işleminde, yapı kayıt belgelerinin iptali istemiyle açılan davalarda, dava konusu işlemin (yapı kayıt belgesinin) "yürütülmesinin durdurulması" veya "iptali" yönünde karar verilmesi durumunda, söz konusu kararlara karşı itiraz/temyiz haklarının kullanılması ile birlikte yargı kararı uyarınca işlem yapılması adına "davaya konu edilen yapı kayıt belgesinin" sistem üzerinden iptal edilmesi gerektiğinin belirtildiği, bu bağlamda, yürütmenin durdurulması kararına karşı yapılan itirazın kabul edilerek yürütmenin durdurulması
 isteminin reddine karar verilmesi ya da istinaf/temyiz aşamalarında dava konusu işlemin iptali yolunda verilen idari yargı kararının bozulması gibi durumlarda, değişen duruma göre, yapı kayıt belgesinin tekrar aktif hale getirilmesine yönelik bir işlem tesis edilmesinin önünde bir engel bulunmadığı; ayrıca, idari yargı kararı uyarınca yapı kayıt belgesinin sistem üzerinden iptal edilebilmesi için, bu konuda (yürütmenin durdurulması veya dava konusu işlemin iptali yolunda) verilen idari yargı kararının kesinleşmesine gerek olmadığı, aksine idari yargı kararlarının icaplarının yerine getirilmesi için gecikmeksizin işlem tesis etmek zorunda olan idarenin, yargı kararın icaplarını, söz konusu kararın tebliğinden itibaren otuz günü aşmayacak bir zaman diliminde yerine getirmekle yükümlü kılındığı; dolayısıyla 3194 sayılı İmar Kanunu'nun geçici 16. maddesi kapsamında alınan yapı kayıt belgelerinin iptali istemiyle açılan davalarda, dava konusu işlemin (yapı kayıt belgesinin) "yürütülmesinin durdurulması" veya "iptali" yönünde karar verilmesi durumunda; söz konusu kararlara karşı itiraz/temyiz haklarının kullanılması ile birlikte yargı kararı uyarınca işlem yapılması adına "davaya konu
 edilen yapı kayıt belgesinin" sistem üzerinden iptal edilmesi gerektiğini, 81 İl Valiliğine duyuran Çevre ve Şehircilik Bakanlığı Altyapı ve Kentsel Dönüşüm Hizmetleri Genel Müdürlüğünün ... tarih ve E... sayılı işleminde hukuka aykırılık bulunmadığı, anılan işlemin Anayasa'nın 138/4. maddesi ile 2577 sayılı Kanun'un 28/1. maddesinde yer alan ve yargı kararlarının yerine getirilmesi zorunluluğunu içeren kurallara uygun biçimde tesis edildiği,
@@ -52,6 +54,8 @@ edilen yapı kayıt belgesinin" sistem üzerinden iptal edilmesi gerektiğini, 8
 Davanın yukarıda özetlenen gerekçeyle reddine ilişkin Danıştay Altıncı Dairesinin temyize konu 02/03/2023 tarih ve E:2020/4990, K:2023/2160 sayılı kararının ONANMASINA …
 
 ## Danıştay İDDK 2021/3624 E., 2022/2139 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/814460500)
 
 Davacı tarafından, dava konusu tanımın hukuka veya mevzuata aykırı olduğuna ilişkin herhangi bir iddia ileri sürülmediği gibi katlar alanı katsayısı (KAKS) (Emsal), şehir planlama bilimi bakımından "yapının inşa edilen tüm kat alanlarının toplamının imar parseli alanına oranı" olarak tanımlandığından bent hükmünde imar mevzuatına aykırılık bulunmadığı, …
 
@@ -84,6 +88,8 @@ Bu itibarla, "Çevresel Etki Değerlendirmesi Yönetmeliği"nin 8. maddesinin 3.
 
 ## Danıştay 6. D. 2025/1339 E., 2025/4114 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1191586900)
+
 2577 sayılı İdari Yargılama Usulü Kanununun 27. maddesinin 2. fıkrasında ise, idari işlemin uygulanması halinde giderilmesi güç veya olanaksız zararların doğması ve idari işlemin açıkça hukuka aykırı olması koşullarının birlikte gerçekleşmesi durumunda yürütmenin durdurulmasına karar verileceği kuralı yer almıştır.
 
 …
@@ -91,6 +97,8 @@ Bu itibarla, "Çevresel Etki Değerlendirmesi Yönetmeliği"nin 8. maddesinin 3.
 Dava konusu işlemin uyuşmazlığa konu taşınmaz yönünden yönünden İPTALİNE …
 
 ## Danıştay 4. D. 2025/1903 E., 2025/2147 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1161385800)
 
 Bu durumda; söz konusu riskli alan kararının iptali istemi ile açılmış ve yargılaması devam eden bir dava olduğu ve bahsi geçen davada, yargılama yürütmenin durdurulması isteminin incelenebilmesi için gerekli olan bilirkişi heyetinden rapor alınması aşamasında iken, davalı idare tarafından bu yargılama süreci beklenmeksizin, olası iptal kararının hukuki sonuçlarını etkisiz kılacak biçimde hareket edilmek suretiyle, davaya konu taşınmazın yıkılmış olması, davaya konu yıkım işleminin dayanağı olan, taşınmazın bulunduğu alanın riskli alan olarak belirlenmesine ilişkin 10.02.2017 tarih ve 29975 sayılı Resmi Gazete’de ilan edilen Bakanlar Kurulu’nun 2017/9867 sayılı kararının, önce Danıştay Ondördüncü Dairesinin 11.06.2018 tarihli kararı ile yürütmesinin durdurulması ve sonrasında aynı Dairenin 15.01.2019 tarih E:2017/826 K:2019/81 sayılı kararı ile iptal edilmiş olması ve sonrasında Danıştay İdari Dava Daireleri Kurulu'nun 03.10.2019 tarih E:2019/803 esas K:2019/4047 sayılı kararı ile iptal kararının kesinleşmiş olması nedeniyle, yıkım işleminin hukuki dayanaktan yoksun hâle gelmiş olması dikkate alındığında, davacının uğradığı zararların iptal kararının sonuçsuz kalmasına sebep olan
 Çevre ve Şehircilik Bakanlığının hizmet kusuru nedeniyle tazmini gerektiği sonucuna ulaşılmıştır.
@@ -111,6 +119,8 @@ Diğer açılardan DAVANIN REDDİNE …
 
 ## Danıştay 6. D. 2024/867 E., 2025/1499 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1153643400)
+
 İdari Yargılama Usulü Kanunu'nun 28. maddesinde, "Danıştay, bölge idare mahkemeleri, idare ve vergi mahkemelerinin esasa ve yürütmenin durdurulmasına ilişkin kararlarının icaplarına göre idare, gecikmeksizin işlem tesis etmeye veya eylemde bulunmaya mecburdur. Bu süre hiçbir şekilde kararın idareye tebliğinden başlayarak otuz günü geçemez." hükmü yer almaktadır.
 
 …
@@ -118,6 +128,8 @@ Diğer açılardan DAVANIN REDDİNE …
 Dava konusu mülkiyeti hazineye ait, Ankara ili, Gölbaşı ilçesi, ... Mahallesi, ... ve ... sayılı parsel sayılı taşınmazlara ilişkin Hazine ve Maliye Bakanlığı Özelleştirme İdaresi Başkanlığı tarafından hazırlanarak 17.11.2023 tarih ve 7807 sayılı Cumhurbaşkanlığı Kararı ile onaylanan 1/5000 ölçekli nazım imar planı değişikliği ile 1/1000 ölçekli uygulama imar planı değişikliğinin İPTALİNE …
 
 ## Danıştay 6. D. 2022/8822 E., 2025/8 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1137039300)
 
 Planlama Bölgesi 1/100.000 ölçekli Çevre Düzeni Planı Değişikliğinin yürütmenin durdurulması kararına konu 66 hektarlık kentsel gelişme alanı kısmına yönelik yapılan incelemelerde ise sonradan iptal edilen 1/1000 ölçekli uygulama imar planları doğrultusunda yapılan uygulamalara bağlı olarak, tapuda arsa vasfını aldığı, alanda kısmen yapılaşmaların gerçekleştiği, hak sahipliklerinin tanımlandığı, satışların yapılarak el değiştirmelerin büyük oranda tamamlandığı hususlarının tespit edildiği, imar planının meri olduğu süreçte edinilen kazanılmış hakların da bulunduğu göz önüne alındığında dava konusu alandaki "bölge parkı, büyük kentsel yeşil alan" kullanımının çevre düzeni planı değişikliği öncesindeki haline aynı şekilde döndürülmesinin alandaki fiziki gerçekleşmeler bakımından teknik olarak ve müktesep haklar açısından hukuki olarak olanaklı olmadığının değerlendirildiği, buna karşın 2577 sayılı Kanun uyarınca yargı kararlarına uygun olarak idarelerce işlem tesis edilmesi gerekliliği çerçevesinde; alanda "kentsel gelişme alanı" kararı verilemeyeceği, fiziki gerçekleşmelere ve uygulamalara konu olan ve büyük ölçüde yapılaşmasını tamamlayan alanların genel hatlarıyla "kentsel
 yerleşik alan" olarak düzenlenmesine karar verildiği, bununla birlikte yerleşime uygun olmayan alan ile birlikte diğer yapılaşmamış yaklaşık 90 hektar alanın ise "bölge parkı, büyük kentsel yeşil alan" olarak planlanarak; yürütmesi durdurulan çevre düzeni planı değişikliği ile 52 hektara düşürülen yeşil alan için yürütmenin durdurulması kararına gerekçe olan "yeşil alan miktarının azaltılmış olması" hususunu teknik ve hukuki açıdan mümkün olabilecek en uygun şekilde karşılayabilecek ve planlama alanının dışında karayolunun güneyinde kalan ağaçlandırılacak alan kullanımı ile bütünlük oluşturmak üzere yeşil koridorun devamını sağlayarak 90 hektara ulaşacak şekilde yeniden "bölge parkı/büyük kentsel yeşil alan" düzenlemesi yapıldığı, bununla birlikte imar planına esas mikrobölgeleme etüt raporu sonucuna göre yerleşime uygun olmadığı tespit edilen ve afete maruz bölge olarak ilan edilmiş olan kısımlarda herhangi bir arazi kullanım kararı üretilmediği, ...-...
@@ -128,9 +140,13 @@ Dava konusu işlemin İPTALİNE …
 
 ## Danıştay 6. D. 2019/1497 E., 2024/2352 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1072295100)
+
 2577 sayılı İdari Yargılama Usulü Kanununun 27. maddesinin ikinci fıkrasında, Danıştay veya idari mahkemelerin, idari işlemin uygulanması halinde telafisi güç veya imkânsız zararların doğması ve idari işlemin açıkça hukuka aykırı olması şartlarının birlikte gerçekleşmesi durumunda, davalı idarenin savunması alındıktan veya savunma süresi geçtikten sonra gerekçe göstererek yürütmenin durdurulmasına karar verebilecekleri, uygulanmakla etkisi tükenecek olan idari işlemlerin yürütülmesinin, savunma alındıktan sonra yeniden karar verilmek üzere, idarenin savunması alınmaksızın da durdurulabileceği, yürütmenin durdurulması kararlarında idari işlemin hangi gerekçelerle hukuka açıkça aykırı olduğu ve işlemin uygulanması halinde doğacak telafisi güç veya imkânsız zararların neler olduğunun belirtilmesinin zorunlu olduğu, sadece ilgili kanun veya Cumhurbaşkanlığı kararnamesi hükmünün iptali istemiyle Anayasa Mahkemesine başvurulduğu gerekçesiyle yürütmenin durdurulması kararı verilemeyeceği belirtilmiştir.
 
 ## Danıştay 4. D. 2023/13288 E., 2024/2020 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1135940600)
 
 İlk Derece Mahkemesi kararının özeti: ...İdare Mahkemesince verilen...tarih ve E:..., K:... sayılı kararda; birinci malikler toplantısında (27/09/2021 tarihli toplantıda) usulüne uygun şekilde maliklerin tamamına davetiye gönderilmeden paylı mülkiyete tabi yapıda/parselde, üçte iki çoğunluk kararına katılmayan davacının hisselerinin, açık artırma usûlü ile satılmasına ilişkin işlemde hukuka ve mevzuata uyarlık bulunmadığı gerekçesiyle, dava konusu işlemin iptaline karar verilmiştir.
 
@@ -148,6 +164,8 @@ Karar veren Danıştay Dördüncü Dairesince, dosyanın tekemmül ettiği gör�
 
 ## Danıştay 6. D. 2022/2265 E., 2023/8428 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1044782700)
+
 DAVANIN KONUSU : Trabzon İli, Ortahisar İlçesi, … Mahallesi sınırları içerisinde bulunan ve ekli listede ada ve parsel numaraları belirtilen taşınmazların, bölgede yürütülen kentsel dönüşüm ve gelişim (gecekondu dönüşüm) çalışmaları kapsamında sağlıksız yapılaşmanın çözümüne yönelik projenin ivedilikle hayata geçirilmesi amacıyla Trabzon Büyükşehir Belediye Başkanlığı tarafından 2942 sayılı Kamulaştırma Kanununun 27. maddesi uyarınca acele kamulaştırılmasına ilişkin 04/10/2019 tarihli ve 30908 sayılı Resmi Gazete'de yayımlanan, 03/10/2019 tarih ve 1596 sayılı Cumhurbaşkanlığı Kararının, Ortahisar ilçesi, … Mahallesi, … ada, … parsel sayılı (.. ve … nolu bağımsız bölümler) taşınmaz yönünden iptali istenilmektedir.
 
 DAVACILARIN İDDİALARI: Davacılar tarafından, davaya konu işlemin sebep, konu, şekil ve maksat yönünden açıkça hukuka aykırı olduğu, işlemin maddi ve hukuki bir nedeninin bulunmadığı, uyuşmazlığa konu taşınmazın kentsel dönüşüm ve gelişim alanına dahil edilmesini gerektiren bir zorunluluk bulunmadığı, 2942 sayılı Kanunun 27. maddesinde aranılan koşulların somut olayda gerçekleşmediği, acele kamulaştırma yapılmasını gerektiren nedenlerin ortaya konulmadığı, acelelik halinin, üstün kamu yararının ve kamu düzeninin korunmasını gerektiren hallerin açıklanmadığı, somut olayda kamu yararı kararının alınmadığı, uzlaşma görüşmelerinin gerçekleştirilmediği, söz konusu taşınmazların yıkılmasını gerektiren herhangi bir riskli durumun bulunmadığı belirtilerek, dava konusu işlemin iptali gerektiği ileri sürülmektedir.
@@ -157,6 +175,8 @@ DAVACILARIN İDDİALARI: Davacılar tarafından, davaya konu işlemin sebep, kon
 Dava konusu acele kamulaştırma kararının uyuşmazlığa konu parsele ilişkin kısmının İPTALİNE …
 
 ## Danıştay 4. D. 2023/11203 E., 2023/6881 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1047517400)
 
 Davacının adli yardım isteminin kabulü sebebiyle, tahsil edilmeyen …
 
@@ -182,9 +202,13 @@ TL'nin davacıdan tahsili için 6100 sayılı Hukuk Muhakemeleri Kanununun 339. 
 
 ## Danıştay 4. D. 2023/11411 E., 2023/5787 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1038418700)
+
 Karar veren Danıştay Altıncı Dairesince, Tetkik Hakiminin açıklamaları dinlendikten ve dosyadaki belgeler 2577 sayılı İdari Yargılama Usulü Kanununun 14/6. maddesi uyarınca incelendikten sonra, yürütmenin durdurulması istemi hakkında karar verilmeksizin, işin gereği görüşüldü:
 
 ## Danıştay 6. D. 2021/10632 E., 2023/3337 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/990673200)
 
 Dosyanın incelenmesinden uyuşmazlık konusu alanın riskli alan olarak ilanına ilişkin 20/04/2020 günlü, 2448 sayılı Cumhurbaşkanı kararının iptali istemiyle açılan davanın reddi yolundaki Danıştay 6.Dairesinin 02/06/2021 tarih ve E:2020/4627, K:2021/7589 sayılı kararının Danıştay İdari Dava Daireleri Kurulu'nun 08/11/2021 tarihli ve E:2021/2711, K:2021/2272 sayılı kararıyla onaylandığı, davaya konu …
 
@@ -199,6 +223,8 @@ Bu durumda; dava konusu acele kamulaştırmanın dayanağı olan riskli alan kar
 Bitlis İli, Merkez İlçe, … Mahallesi, … ada, … parsel sayılı taşınmaza ilişkin kısmı yönünden DAVANIN REDDİNE …
 
 ## Danıştay 6. D. 2020/4990 E., 2023/2160 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/993577600)
 
 DAVANIN KONUSU : … ili, … ilçesi, … Mahallesi, … ada, … ve … parsel sayılı taşınmazlar üzerinde bulunan yapılara ilişkin düzenlenen …, …, …, …, …, … ve … belge numaralı yapı kayıt belgelerinin iptali istemiyle açılan davalarda, idari yargı mercilerince yürütmenin durdurulması veya iptal kararları verildiğinden bahisle, söz konusu yapı kayıt belgelerinin sistem üzerinde iptal edilmesine ilişkin Muğla Valiliği Çevre ve Şehircilik İl Müdürlüğünün … tarihli, E…. sayılı işlemi ile bu işlemin dayanağı niteliğindeki "Yapı Kayıt Belgesi ile alakalı davalar" konulu … tarihli, E…. sayılı Çevre ve Şehircilik Bakanlığı Altyapı ve Kentsel Dönüşüm Hizmetleri Genel Müdürlüğü işleminin iptali istenilmektedir.
 
@@ -218,6 +244,8 @@ parsel sayılı taşınmazlar üzerinde bulunan yapıların inşasına, 2016 yı
 
 ## Danıştay 6. D. 2020/6667 E., 2023/110 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/895653900)
+
 DAVALININ SAVUNMASI : Davanın Trabzon Büyükşehir Belediye Başkanlığına ihbar edilmesinin gerektiği, Kanuni Bulvarına ilişkin olarak açılan davalarda daha önce Danıştay Altıncı Dairesince ret kararları verildiği, dava konusu plan değişikliği ile Trabzon ili sınırları içerisinde kentsel yerkleşik alan öngörüldüğü, daha önce aynı alanda kentsel yerleşik alan öngörülmesine ilişkin çevre düzeni planı (ÇDP) değişikliğinin iptali istemiyle aynı davacı tarafından açılan davada Danıştay Altıncı Dairesince 09/01/2019 tarih, E:2016/1357 sayılı dosyada verilen yürütmenin durdurulması isteminin kabulü yönündeki karara karşı yapılan itirazın İdari Dava Daireleri Kurulunca 16/10/2019 tarih, 2019/906 sayılı karar ile kabul edildiği ve yürütmenin durdurulması kararının yeniden karar verilmek üzere kaldırıldığı, tüm bu nedenlerle dava konusu işlemde şehircilik ilkelerine, planlama esaslarına ve kamu yararına aykırılık bulunmadığı ileri sürülerek davanın reddi gerekeceği savunulmaktadır.
 
 …
@@ -225,6 +253,8 @@ DAVALININ SAVUNMASI : Davanın Trabzon Büyükşehir Belediye Başkanlığına i
 Dava konusu işlemin İPTALİNE …
 
 ## Danıştay 6. D. 2021/10628 E., 2022/11547 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/908092500)
 
 DAVANIN KONUSU : Bitlis İli, Merkez İlçe, …
 
@@ -237,6 +267,8 @@ Mahalleleri sınırları içerisinde dere yatağı üzerinde bulunan ve büyük 
 parsel sayılı taşınmaz yönünden iptali ve yürütmenin durdurulması istenilmektedir.
 
 ## Danıştay 6. D. 2021/5228 E., 2022/7504 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/846880200)
 
 İlk Derece Mahkemesi kararının özeti: … İdare Mahkemesince verilen … tarih ve E:… , K:
 
@@ -252,5 +284,7 @@ parsel sayılı taşınmaz yönünden iptali ve yürütmenin durdurulması isten
 Bu itibarla, yerleşime uygunluk sınırı dışında herhangi bir yapılaşmanın öngörülmediği anlaşıldığından, davanın reddine karar verilmesi gerekirken …
 
 ## Danıştay 6. D. 2022/2962 E., 2022/6607 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/878985300)
 
 Karar veren Danıştay Altıncı Dairesince, yürütmenin durdurulması istemi hakkında karar verilmeksizin, 2577 sayılı İdari Yargılama Usulü Kanunu'nun 14. maddesi uyarınca, Tetkik Hakiminin açıklamaları dinlendikten ve dosyadaki belgeler incelendikten sonra işin gereği görüşüldü:

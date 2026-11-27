@@ -22,6 +22,8 @@ uyari: "Derleyenin seçtiği alıntılardır; kararın tamamı değildir. Künye
 
 ## Danıştay 6. D. 2021/10336 E., 2023/2148 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/987796000)
+
 DAVALI İDARELERDEN … BAKANLIĞININ SAVUNMASI :
 
 …
@@ -38,6 +40,8 @@ Davacılar tarafından, dava konusu yönetmeliğin dayanağı olan 6306 sayılı
 
 ## Danıştay 6. D. 2020/2034 E., 2023/1908 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/986952700)
+
 DAVACININ İDDİALARI :
 Davacı, TMMOB Şehir Plancıları Odasının kamu kurumu niteliğinde bir meslek örgütü olduğu ve dava açma ehliyetinin bulunduğu, dava konusu imar planı değişikliği kararlarının hiçbir bilimsel, teknik, nesnel gerekçesinin bulunmadığı, 1/25000 ölçekli 2023 Başkent Ankara Nazım İmar Planının üst ölçekli plan olduğu, dava konusu imar planı değişikliklerinin planı ele alış biçimi ve yaklaşımı, yapılan yetersiz analiz ve sentez çalışmaları ve bütünlükten yoksun planlama kararları bakımından üst ölçekli plan ile çeliştiği, planların kademeli birliktelik ilkesine aykırı olduğu, üst ölçekli planın bölge için belirlediği mekânsal plan kararlarının hiçe sayıldığı, parsel ölçeğinde plan değişikliği yapılmasının planlama ilkelerine aykırı olduğu, dava konusu imar planı değişiklikleri kamu yararı göz ardı edilerek onaylandığından çok fazla sorun barındırdığı, kent bütünü ölçeğinde, gerekli ve yeterli analizler yapılmaksızın gerçekleştirilen böylesi parçacı plan uygulamalarının plan ana kararlarını, sürekliliğini, bütünlüğünü bozucu nitelikte olduğu ve yoğun nüfüs ve konut kullanımı öngörüsünün hangi gerekçelere dayandığı, niçin yoğunluk artışı yapıldığına dair herhangi bir bilimsel ve çevresel
 etüde dayalı teknik gerekçenin olmadığı, plan değişikliği ile oluşturulan yeni kullanımın çevresiyle kurduğu ilişkinin, yapı yoğunluğunun irdelenmediği, yakın çevresindeki ulaşım-dolaşım sistemine etkileri, kent bütününe etkisi ve zorunlu alt yapı alanlarının dağılımına etkileri gibi zorunlu teknik çalışma ve değerlendirmelerin yapılmadığı, plan değişikliğine konu parselin bulunduğu bölgenin mevcut trafik yüküne ilave gelecek trafik yükünün hesaplanmadığı, çevre fonksiyonlarla ilişkilerine ve doğacak altyapı gereksinimlerine ilişkin hiçbir değerlendirmenin yapılmadığı, Mekansal Planlar Yapım Yönetmeliğindeki düzenlemelerin göz ardı edildiği, dava konusu imar planı değişikliğinde nüfus artışının getireceği trafik yükünün, sosyal donatı, otopark ihtiyacı ve altyapı ihtiyacının gözetilmediği, dava konusu işlemin mevzuata, şehircilik ilkeleri, planlama esasları ve kamu yararına aykırı olduğu belirtilerek iptaline karar verilmesi istenilmiştir.
@@ -47,6 +51,8 @@ etüde dayalı teknik gerekçenin olmadığı, plan değişikliği ile oluşturu
 Bu itibarla, uyuşmazlıkta, dava konusu işlem tesis edilirken yürürlükte olan ancak işlemin dava konusu edilmesinden sonraki bir tarihte hukuka aykırılığı yargı kararı ile tespit edilerek iptaline karar verilen ana planın bir kısmında değişiklik yapılmasına yönelik dava konusu 1/100.000 ölçekli çevre düzeni planı değişikliğinin hüküm ifade etmediği ve bu nedenle davanın bu kısmı hakkında karar verilmesine yer olmadığına karar verilmesi gerektiği sonucuna ulaşılmıştır.
 
 ## Danıştay 6. D. 2021/6539 E., 2023/1879 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/987505400)
 
 Taşınmazın kıymet takdirinin İstanbul Altyapı ve Kentsel Dönüşüm Müdürlüğü bünyesinde teşkil olunan Bedel Tespiti Komisyonu tarafından yapılmasında veya TOKİ iştiraki SPK lisanslı G.Menkul Değerleme şirketine yaptırılmasında hukuka aykırılık bulunmadığı (Yönetmelik 15/2), taşınmazın değer tespitine ilişkin rapor satıştan önce talep edilmişse bir suretinin verildiği, bu raporun tebliğine ilişkin mevzuatta bir zorunluluk bulunmadığı, riskli yapı kararı üzerine taşınmazın yıkılmasında sonra, taşınmazın nasıl yapılacağı, yüklenici firmanın kim olacağı, proje seçimi gibi hususların paydaşların 2/3 çoğunluğu ile karar verildiği, bu durumlara ilişkin ihtilafların genel hukuk kuralları çerçevesinde çözümlenmesi gerektiği, ayrıca adli yargıda açılan davalarda ihtiyati tedbir kararı verilmedikçe, sürecin durmasının söz konusu olmadığı, 6306 sayılı yasa hükümlerinin işletildiği bu olayda, kat mülkiyeti kanununa göre hukuki denetim yapılamayacağı, dava konusu uygulama işleminin hukuka uygun tesis edildiği belirtilerek, bu yönden davanın reddi gerektiği savunulmuştur.
 
@@ -59,11 +65,15 @@ Açıklanan nedenlerle, yukarıda belirtilen riskli yapıların bulunduğu parse
 
 ## Danıştay 13. D. 2023/343 E., 2023/1268 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/913771600)
+
 Davalı idarece ciro şartının getirilmesi amacının, kamu kaynaklarının etkin ve verimli kullanılmasını sağlamak olduğu, ayrıca ihalenin gelir getirici nitelikte olması ve süreklilik sağlamasının kamu yararı kriteri için öncelik ihtiva ettiği, ihale konusu iş için yalnızca sahaya yerleştirilmesi hedeflenen 152 kutunun maliyeti için ciro şartı koymak dahi ihalenin salahiyeti için büyük önem arz ettiği, buna ilişkin olarak alınan teklif metninde de kutu tedarik edilebilir konumda olan bir firmadan öncelikle bir kutunun maliyeti ve ihale kapsamında sahaya yerleştirilmesi hedeflenen kutu adedi dikkate alınarak bir hesaplama yapılmasının istenildiği, yapılan hesaplama neticesinde 1 adet kutu bedeli olarak 25.000,00-TL+KDV şeklinde hesap yapıldığı, toplam maliyetin KDV dahil 4.484.000,00-TL olarak belirlendiği, mevcut ihalenin devamlılığı, salahiyeti ve minimize edilerek hazırlanan maliyet tablosundaki masraf durumu dikkate alındığında, isteklilerin toplam cirosunun 1 yıl için 10.000.000-TL'den (on milyon Türk Lirası) az olmaması gerektiğinden bahisle dava konusu düzenlemenin getirildiği belirtilmiştir.
 
 Bu itibarla, ihaleyi gerçekleştiren idarelerin, ihalelerde rekabeti, ihtiyaçların uygun şartlarla ve zamanında karşılanması ve kaynakların verimli kullanılmasını sağlamada hesap verme sorumluluğu bulunduğu, uyuşmazlık konusu ciro şartının da kamu kaynaklarının etkin ve verimli kullanılması ilkesini sağlamak amacıyla davalı idarenin takdir yetkisi doğrultusunda getirildiği ve rekabeti engelleyici olduğuna veya takdir yetkisini kamu yararı ve hizmet gerekleri dışında subjektif ve keyfi amaçlar doğrultusunda kullanıldığına ilişkin olarak herhangi bir somut bilgi ve belge bulunmadığı görüldüğünden, uyuşmazlık konusu düzenlemede hukuka aykırılık bulunmamaktadır.
 
 ## Danıştay 6. D. 2020/1450 E., 2023/24 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/925616200)
 
 …
 
@@ -71,6 +81,8 @@ Bu itibarla, ihaleyi gerçekleştiren idarelerin, ihalelerde rekabeti, ihtiyaçl
 alt ölçekli plan çalışmalarında alanın özelliği gözönünde bulundurularak gerekli koruma ve kullanma tedbirlerinin alınacağı, bu nedenle bu hususa ilişkin hukuka aykırılık bulunmadığı sonucuna ulaşılmıştır.
 
 ## Danıştay 6. D. 2022/1166 E., 2022/12381 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/892792800)
 
 Avrupa İnsan Hakları Sözleşmesinin Ek 1 Nolu Protokolünün "Mülkiyetin korunması" başlıklı 1. maddesinde; "Her gerçek ve tüzel kişinin mal ve mülk dokunulmazlığına saygı gösterilmesini isteme hakkı vardır. Herhangi bir kimse, ancak kamu yararı sebebiyle ve yasada öngörülen koşullara ve uluslararası hukukun genel ilkelerine uygun olarak mal ve mülkünden yoksun bırakılabilir. Yukarıdaki hükümler, devletlerin, mülkiyetin kamu yararına uygun olarak kullanılmasını düzenlemek veya vergilerin ya da başka katkıların veya para cezalarının ödenmesini sağlamak için gerekli gördükleri yasaları uygulama konusunda sahip oldukları hakka halel getirmez." hükmüne yer verilmiştir.
 
@@ -82,6 +94,8 @@ Kamu yararının gerektirdiği hallerde gerçek ve özel hukuk tüzelkişilerini
 Dava konusu işlemin uyuşmazlığa konu parsele ilişkin kısmının İPTALİNE …
 
 ## Danıştay 6. D. 2019/12977 E., 2022/11623 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/882342100)
 
 İlk Derece Mahkemesi kararının özeti:İdare Mahkemesince yerinde yaptırılan keşif ve bilirkişi incelemesi üzerine düzenlenen rapor ile dosyadaki bilgi ve belgelerin birlikte değerlendirilmesinden, davalı idarece, İstanbul ili, Beyoğlu ilçesi, ...Mahallesindeki riskli alan ilan edilen bölgeye yönelik hazırlanan 06.03.2014 onay tarihli, 1/5000 ölçekli nazım imar planı ve 1/1000 ölçekli uygulama imar planı değişikliği ile planlama alanı bütünündeki park alanının kaldırılmasının sosyal donatı açısından olumsuz sonuç doğurduğu, plan değişikliği yapılan alan içindeki yeşil alanın kaldırılması ve yerine mesleki eğitim tesisi alanı önerilmesinin ve sağlık tesisi alanının dini tesise dönüştürülmesinin aynı nitelikte bir karar değişikliği olarak değerlendirilemeyeceği, dini tesis, sağlık tesisi, eğitim tesisi vb. kamu kurumu tesisleri kurum görüşü alınarak, gereksinim olmadığı tespit edildiğinde diğer kamusal alana dönüştürülebilir olsa da, planlarda temel gereksinim donatılarından olan park alanları için aynı savunmanın yapılmasının mümkün olmadığı bu itibarla, dava konusu imar planı ve plan değişikliğinde, planlama teknikleri, şehircilik ilkeleri ve kamu yararı yönünden hukuka uyarlık
 bulunmadığı sonucuna varıldığı gerekçesiyle iptaline karar verilmiştir.
@@ -98,6 +112,8 @@ Dava konusu işlemin yukarıda özetlenen gerekçeyle iptaline ilişkin …
 
 ## Danıştay 6. D. 2021/10633 E., 2022/11550 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/881291700)
+
 İSTEMİN KONUSU : Bitlis İli, Merkez İlçe, …, …, …, … ve … Mahalleleri sınırları içerisinde dere yatağı üzerinde bulunan ve büyük bir kısmı imar mevzuatına aykırı olarak inşa edilmiş olan 6306 sayılı Afet Riski Altındaki Alanların Dönüştürülmesi Hakkında Kanun kapsamında yer alan taşınmazların üzerlerindeki yapılarla birlikte oluşabilecek herhangi bir taşkın, sel ve benzeri afetler durumunda telafisi güç kayıpların yaşanmaması amacıyla Çevre ve Şehircilik Bakanlığı tarafından 2942 sayılı Kamulaştırma Kanununun 27. maddesi uyarınca acele kamulaştırılmasına ilişkin 04/11/2021 tarih ve 31649 sayılı Resmi Gazete'de yayımlanan 03/11/2021 tarih ve 4736 sayılı Cumhurbaşkanı Kararının, Bitlis İli, Merkez İlçe, … Mahallesi, … ada, …parsel sayılı taşınmaz yönünden iptali istenilmektedir.
 
 DAVACININ İDDİALARI :
@@ -105,6 +121,8 @@ Davacı tarafından, dava konusu işleme konu taşınmazın bulunduğu alanın 6
 kamulaştırmaya ilişkin bir hüküm bulunmadığı, dava konusu işlemin üçüncü kişi lehine kamulaştırma sonucunu doğurması nedeniyle de hukuka aykırı olduğu ileri sürülmektedir.
 
 ## Danıştay 6. D. 2019/16131 E., 2022/10767 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/889728000)
 
 Davacı tarafından anılan nazım imar planına askıda yapılan itirazın Gaziantep Büyükşehir Belediye Meclisinin ... tarih ve ... sayılı kararı ile reddedilmesi üzerine ... tarih ve ... sayılı karar ile kabul edilen 1/5.000 ölçekli nazım imar planının hukuka aykırı olduğu iddiasıyla bakılan dava açılmıştır.
 
@@ -118,6 +136,8 @@ Bu itibarla, Bölge İdare Mahkemesince yukarıda açıklanan hususlar dikkate a
 
 ## Danıştay 6. D. 2021/7561 E., 2022/8840 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/896484100)
+
 Davacı tarafından planda tarım arazileri üzerinde ayrıldığı ileri sürülen kentsel yerleşme alanlarına yönelik kararların iptal edilmesini gerektirecek bir husus bulunmamakta olup, iddia ve itirazların alt ölçekli planlama çalışmalarında değerlendirilmesi gerektiği, diğer yandan davacı tarafından da değinildiği üzere; üstün kamu yararı çerçevesinde ele alındığında, bütün bir bölgeyi kapsayan, büyük ölçekli, birçok sektörü birden ilgilendiren geniş kapsamlı bir çevre düzeni planının yalnızca koruma kararlarını içermesinin beklenemeyeceği, buna karşın çevre düzeni planlarının; bölge halkının ve ötesinde ülke insanının çalışma, barınma, ulaşım vb. gelişme yönündeki ihtiyaçlarının doğal kaynak değerleri gözetilerek en akılcı biçimde karşılanmasını gerçekleştirmek amacıyla hazırlanmasının söz konusu olduğu, bu amaç doğrultusunda belirlenen koruma ve gelişme ilke ve stratejilerine uygun genel arazi kullanım kararlarının üretilmesinin bakanlıkça hazırlanan çevre düzeni planlarında esas olduğu, davacı tarafından iddia edildiği üzere üstün kamu yararının; doğal kaynakların mutlak surette yalnızca korunmasında değil; ekolojik açıdan hassas alanların korunarak; doğal kaynakların bölgenin ve
 ülkenin gelişme ihtiyaçlarını da gözeterek sürdürülebilir kalkınmayı gerçekleştirmek üzere akılcı kullanımında en net şekliyle belirdiği, sonuç olarak; davacının dava dilekçesinde yer alan iddiaların geneli itibarıyla dayanaktan yoksun ve üç ili birden ilgilendiren bir çevre düzeni planının iptal edilmesini getirecek nitelikte olmadığı, planların dinamik, güncellenebilir ve düzeltilebilir olduğu gerçeğinden hareketle, planda aksayan ve düzeltilmesi gereken yönlerin olduğu sonucuna varılması durumunda gereğinin yerine getirilmesinin mümkün olabileceği, ancak; planın iptal edilmesi durumunda ise, bütün bir bölgenin genel düzenleyici ve bağlayıcı kararlarının ortadan kaldırılmış olacağı ve böylece denetimsiz, gelişigüzel ve plansız gelişmelere ve yapılaşmalara yol açılmış olacağı gerçeğinin de göz önünde bulundurulması gerektiği savunulmaktadır.
 
@@ -126,6 +146,8 @@ Davacı tarafından planda tarım arazileri üzerinde ayrıldığı ileri sürü
 Adıyaman-Şanlıurfa-Diyarbakır Planlama Bölgesi 1/100.000 ölçekli Çevre Düzeni Planının Konuklu beldesi hariç dava konusu gelişme alanlarına ilişkin kısmı (İtiraz-19) yönünden İPTALİNE …
 
 ## Danıştay 6. D. 2019/17552 E., 2022/8515 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/885951100)
 
 DAVACININ İDDİALARI :
 Ankara ilinin üst ölçekli planı olan 16.02.2007 onay tarihli 1/25.000 ölçekli 2023 Başkent Ankara Nazım İmar Planında "tarımsal niteliği korunacak alan, bağcılık ve bahçecilik alanları" kullanımında kalan alana, dava konusu plan değişiklikleri ile 1.430 adet konut ve 4.992 kişilik nüfus ataması yapıldığı, dava konusu plan değişikliklerinin bilimsel, nesnel ve teknik gerekçelerinin bulunmadığı, plan değişikliklerinin ele alınış biçimi, yetersiz analiz ve sentez çalışmalarına dayanması, bütün-parça ilişkisini bozması yönleriyle 16.02.2007 onay tarihli 1/25.000 ölçekli nazım imar planına aykırı olduğu, Ankara Büyükşehir Belediye Meclisinin 13.01.2017 tarih ve 116 sayılı kararı ile onaylanan 1/100.000 ölçekli çevre düzeni planında Ankara ilinin 2038 yılı projeksiyon nüfusunun 9.434.928 kişi olarak belirlendiği, mevcutta yaklaşık 18.700.000 kişilik nüfusu barındırabilecek konut alanları planlı olduğundan, yeni konut alanları oluşturulmasına yönelik plan değişikliği yapılmasında kamu yararı bulunmadığı, üst ölçekli planların hedef yıla ilişkin nüfus kabullerinin dışına çıkılmasının, planların kademeli birlikteliği ilkesine aykırı olduğu, parsel ölçeğinde yapılan plan değişikliklerinin
@@ -137,6 +159,8 @@ Dava konusu 16/04/2019 tarih ve 924 sayılı Cumhurbaşkanı kararı ile onaylan
 
 ## Danıştay 6. D. 2020/375 E., 2022/8231 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/886837200)
+
 DAVALI İDARELERİN SAVUNMALARI:
 
 …
@@ -144,6 +168,8 @@ DAVALI İDARELERİN SAVUNMALARI:
 Anayasanın 73. maddesine göre kişilere getirilen vergi, resim, harç ve benzeri mali yükümlülüklerin kanunla öngörülmesi gerekmekte olup bu kapsamda devletin kişilerden kanunla öngörülmeyen herhangi bir bedel istemesi hukuken mümkün değildir. Ayrıca, idarelerin ilgili yasal düzenlemeler gereği yürütmek zorunda olduğu "klasik kamu hizmeti" sayılan faaliyetleri karşılığında Anayasanın 73. maddesi uyarınca kanunda miktar veya nispetinin açıkça gösterilmesi kaydıyla harç alınması mümkün ise de; bu faaliyetlerin kar amacına yönelik bir işletme faaliyeti olmaması nedeniyle idarece belirlenecek bir bedel karşılığında yerine getirilmesi söz konusu olamaz. Harçlar, verilen kamu hizmetinin ücreti ya da fiyatı olmayıp bu hizmetlerden yararlanan kişilerin belli oranda bu hizmetin maliyetine katılmasını sağlamak amacıyla tahsil edilirler.
 
 ## Danıştay 6. D. 2019/21517 E., 2022/8157 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/856491400)
 
 Anayasa Mahkemesi'nin 10.06.2015 tarih ve 2013/3667 Başvuru numaralı kararında; ''Başvurucuların taşınmazının kamulaştırılmasına karar verilmiş ve Derece Mahkemelerince kamulaştırma kararının başvuruculara tebliğ edildiği kabul edilmişse de, kamulaştırılmasına karar verilen taşınmaz bedelinin ödenmediği, bu durumda Anayasa’nın 46. maddesine uygun bir kamulaştırma işleminden söz edilemeyeceği, dolayısıyla kamulaştırmasız el atma durumunun söz konusu olduğu, bu şekilde başvurucuların mülkiyet haklarına müdahale edildiği, yapılan bu müdahale nedeniyle 30 günlük dava açma süresinden de söz edilemeyeceği kabul edilmiştir.'' ifadelerine yer verilmiştir.
 
@@ -155,6 +181,8 @@ Davanın yukarıda özetlenen gerekçeyle reddine ilişkin Mahkeme kararına yö
 
 ## Danıştay 6. D. 2022/82 E., 2022/8156 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/853694900)
+
 İSTEMİN KONUSU : 12/10/2013 tarih ve 28793 sayılı Resmi Gazetede yayımlanan İstanbul İli, Kartal İlçesi, Kordonboyu Mahallesi ve Yukarı Mahalle sınırları içerisinde bulunan ve ekli kroki ile listelerde sınır ve koordinatları gösterilen alanların 6306 sayılı Afet Riski Altındaki Alanların Dönüştürülmesi Hakkında Kanun'un 2. maddesi uyarınca riskli alan ilan edilmesine ilişkin 30/09/2013 tarih ve 2013/5437 sayılı Bakanlar Kurulu Kararının, …Mahalle, …ada, …parsele ilişkin kısmının iptali istenilmektedir.
 
 DAVACININ İDDİALARI : İstanbul İli, Kartal İlçesi, …
@@ -164,6 +192,8 @@ DAVACININ İDDİALARI : İstanbul İli, Kartal İlçesi, …
 parsel sayılı taşınmaz üzerindeki Özler apartmanında davacının kat maliki olduğu, riskli alan ilan edilen bölgedeki Yukarı Mahalle ile Aşağı Mahalleyi birbirinden ayıran geniş bir caddenin bulunduğu ve anılan caddenin uygulama bütünlüğünü bozduğu, riskli alan ilan edilen bölgenin davacının taşınmazının da içinde bulunduğu Yukarı Mahalle kısmında sadece 4 binanın bulunduğu, bu nedenle riskli alan sınırlarından bu bölgenin çıkarılması gerektiği, dava konusu işlemde kamu yararı bulunmadığı ve mülkiyet hakkına müdahale edildiği ileri sürülmektedir.
 
 ## Danıştay 6. D. 2018/7654 E., 2022/7514 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/846189800)
 
 …
 
@@ -211,6 +241,8 @@ parsel sayılı taşınmazlara ilişkin kısım yönünden ise belirtilen gerek�
 Davanın yukarıda özetlenen gerekçeyle reddine ilişkin Mahkeme kararına yönelik olarak yapılan istinaf başvurusunun 1/25.000 ölçekli nazım imar planı değişikliğine ilişkin kısım yönünden reddi, 1/5000 ölçekli nazım ve 1/1000 ölçekli uygulama imar planı değişikliklerine ilişkin kısım yönünden istinaf başvurusunun kabulü ile anılan Mahkeme kararının kaldırılması, dava konusu işlemin iptali yolundaki temyize konu … Bölge İdare Mahkemesi … İdari Dava Dairesinin … tarih ve E:…, K:… sayılı kararının iptale ilişkin kısmının BOZULMASINA …
 
 ## Danıştay 6. D. 2019/18362 E., 2022/7506 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/846557500)
 
 Bu durumda, dava konusu imar planı değişiklikleri ile getirilen işlev ve yoğunlukların mevzuata, şehircilik ilkelerine, planlama tekniklerine ve kamu yararına aykırı olduğuna dair davacının herhangi bir iddiasının bulunmaması, aksine hissedarı olduğu taşınmazın da söz konusu planlara dahil edilmesi gerektiğinden bahisle bakılan davanın açılması, diğer taraftan yargılama devam ederken davacının taşınmazını da kapsayacak şekilde başka nazım ve uygulama imar planı değişikliklerinin yapıldığının anlaşılması ve davacının söz konusu plan değişikliklerine yönelik hukuka aykırılık iddiasının bulunması halinde bunun ayrı bir davanın konusunu oluşturması karşısında, dava sebepleri ile bağlı kalınmak suretiyle davanın reddine karar verilmesi gerekirken, dava konusu imar planı değişikliklerinin esasına yönelik gerekçelerle iptali yolunda verilen kararda isabet bulunmamaktadır.
 

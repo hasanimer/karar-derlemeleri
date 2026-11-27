@@ -22,16 +22,22 @@ uyari: "Derleyenin seçtiği alıntılardır; kararın tamamı değildir. Künye
 
 ## İstanbul BAM 37. HD 2024/431 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1002572000)
+
 K A R A R Malkara Asliye Hukuk Mahkemesince, "...işbu dava tarihinin 01/09/2021 tarihinden sonra olduğu ve yukarıda açıklandığı üzere Tekirdağ Asliye Ticaret Mahkemesinin yargı çevresinin ise Tekirdağ ili mülki sınırları olarak belirlenmesine karar verildiği ve faaliyete de 01/09/2021 tarihinden itibaren geçtiğinden Asliye Ticaret Mahkemesi sıfatıyla bakılması gereken iş bu dosyanın Tekirdağ Asliye Ticaret Mahkemesine görevsizlik ile gönderilmesine..." denilmek suretiyle görevsizlik kararı verilmiştir. Tekirdağ Asliye Ticaret Mahkemesi ise, "...dava ve satış vaadi sözleşmesine konu taşınmazın mesken niteliği ile davalı kooperatif adına tapuda kayıtlı olduğu dosyada mevcut tapu kaydından anlaşılmaktadır. Davacı ile davalı kooperatif arasında dava konusu mesken niteliğindeki taşınmaza ilişkin satış vaadi sözleşmesi akdedildiği, satış vaadi sözleşmesinin usul ve yasaya uygun şekilde noterde resmi şekilde düzenlendiği sabittir. Davacının davalı kooperatifin ortağı ve üyesi olduğu iddia edilmemiş, buna ilişkin belge, bilgi ve kayıt sunulmamıştır.
 Davacı ile davalı kooperatif arasında ortaklık ve üyelik ilişkisi bulunmadığından uyuşmazlığın 1163 sayılı Kooperatifler Kanunun 99.maddesine göre ticari dava olduğunun ve uyuşmazlığın çözümünde asliye ticaret mahkemesinin görevli olduğunun kabulü ile mümkün değildir. Davacı ile davalı kooperatif arasında imzalanan gayrimenkul satış vaadi sözleşmesinden kaynaklanan tapu iptali ve tescil davasında görevli mahkeme genel mahkeme olup asliye hukuk mahkemesidir. Davaya bakmaya Malkara Asliye Hukuk Mahkemesinin görevli olduğu..." gerekçesiyle görevsizlik yönünde karar vermiştir. Dava, davacıların murisi ile davalılar arasında yapıldığı iddia olunan kat karşılığı inşaat sözleşmesine istinaden davacının murisine kura ile bırakılacak 3 adet bağımsız bölümden teslim edilen 2 adet taşınmaz haricinde kalan 1 adet taşınmazın tapusunun devredilmediği gerekçesiyle davalı kooperatifin elinde kalan 3 numaralı bağımsız bölümün tapusunu iptali ile mümkün olmadığı takdirde tazminat ve ayrıca, kura çekme imkanı kalmadığından 3 numaralı bağımsız bölümün diğer taşınmazlara göre değerinin düşük olması halinde denkleştirici adalet ilkesine göre tespit edilecek değer farkının tahsili istemine ilişkindir.
 1163 sayılı Kooperatifler Kanunu'nun 99. maddesi uyarınca Kooperatifler Kanunu'ndan kaynaklanan hukuk davalarının tarafların sıfatlarına bakılmaksızın ticari dava olduğu kabul edilmişse de, taraflar arasındaki uyuşmazlığın, kat karşılığı inşaat sözleşmesinden kaynaklanmış olması ve davacılar murisinin kooperatif ortağı olmayıp, arsa maliki olması ve yine, kooperatifler kanunda düzenlenen herhangi bir husustan kaynaklanan uyuşmazlığın bulunmuyor olması karşısında, Kooperatifler Kanunu'nun anılan hükmünün somut olayda uygulama yeri bulunmamaktadır. Davacıların murisinin tüketici sıfatı da bulunmadığına göre taraflar arasında münakid olduğu iddia olunan mülkiyeti nakil borcu doğuran sözleşmeye dayalı açılan davaya bakmak görevi HMK 2. maddesi uyarınca genel mahkeme olan asliye hukuk mahkemesidir.
 
 ## Ankara BAM 27. HD 2024/410 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1031987600)
+
 İlk Derece Mahkemesince; "Taraf sıfatı, bir başka deyişle husumet ehliyeti, dava konusu hak ile kişiler arasındaki ilişkiyi ifade eder. Sıfat, bir maddi hukuk ilişkisinde tarafların o hak ile ilişkisinin olup olmadığının belirlenmesi anlamına gelir. Davacı sıfatı, dava konusu hakkın sahibini, davalı sıfatı ise dava konusu hakkın yükümlüsünü belirler. Uygulamada davacı sıfatı, aktif husumeti, davalı sıfatı ise pasif husumeti karşılayacak şekilde değerlendirilmektedir. Dava konusu şey üzerinde kim ya da kimler hak sahibi ise, davayı bu kişi veya kişilerin açması ve kime karşı hukuki koruma isteniyor ise o kişi veya kişilere davanın yöneltilmesi gerekir. Bir kimsenin davacı veya davalı sıfatına sahip olup olmadığı tıpkı hakkın mevcut olup olmadığının tayininde olduğu gibi maddi hukuka göre belirlenir. Taraf sıfatının bu anlamda önemli özelliği ise, def'i değil itiraz niteliğinde olması nedeniyle taraflarca süreye ve davanın aşamasına bakılmaksızın her zaman ileri sürülebileceği ve taraflar ileri sürmemiş olsalar bile mahkemece re'sen nazara alınmasıdır.
 14.01.2011 tarihli Düzenleme Şeklinde Gayrimenkul Satış Vaadi ile Villa Karşılığı İnşaat Sözleşmesinin dava dışı Yüklenici SS Ihlamurkent Havuzlu Villalar KYK ile davalı arasında akdedildiği, 01.03.2011 tarihli İnşaat Yapım Sözleşmesinin davacı ile dava dışı Yüklenici SS Ihlamurkent Havuzlu Villalar KYK ile akdedildiği anlaşılmaktadır. Dosya kapsamına alınan mutabakat tutanağının taraflar ve dava dışı kooperatif tarafından imzalandığı, mutabakat konusunun sözleşmenin 7. Maddesi kapsamında (madde 7: yüklenici kooperatif, sözlşemenin imza tarihinden itibaren 45 gün içinde taahhüdü altındaki işi, yeri ile İş kanunu, Çalışma Bakanlığı ile Sosyal Sigortalar Kurumunun ilgili bölge müdürlüklerine bildirmek mecburiyetindedir. Yüklenici kooperatif, işveren kooperatifin SSK'dan aldığı ... İşyeri numarasına çalıştıracağı işçileri bildirmek zorundadır) iş yeri ihbar işlemlerinin düzenlenmesine ilişkin olduğu, dolayısıyla davacı ile davalı arasında dava konusu talepler kapsamında akdedilen bir sözleşme bulunmadığı anlaşılmaktadır.
 
 ## İstanbul BAM 7. HD 2023/1661 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/915771700)
 
 Doğaldır ki davacının iddiasında haklı olup olmadığı yargılama sonunda tüm taraf delilleri toplandıktan, incelendikten ve değerlendirildikten sonra ortaya çıkacak ve davacının talebi hakkında karar verilecektir. Davacı tarafından davalılar aleyhine açılan iş yeri satış sözleşmesinden (yüklenicinin temlikinden) kaynaklanan tapu iptali ve tescil istemli iş bu davada uyuşmazlık taşınmazın aynına ilişkin olup taşınmazın davalı ....Yapı Kooperatifi adına tapuda kayıtlı bulunduğu sabittir. Davalı arsa maliki kooperatif ile diğer davalı yüklenici satıcı ... İnşaat...AŞ.arasında düzenleme şeklinde gayrimenkul satış vaadi ve inşaat sözleşmesi akdedildiği, davacı alıcı şirket ile davalı yüklenici satıcı ......AŞ. arasında da işyeri satış sözleşmesi imzalandığı sunulan belge ve kayıtlardan anlaşılmaktadır. Davalı yüklenici şirket ......AŞ.diğer davalı kooperatif ile imzaladığı inşaat sözleşmesi gereğince kendisine (müteahhide) ait olacağı kararlaştırılan iş yerlerinden olan dava konusu taşınmazı 21/07/2003 tarihli iş yeri satış sözleşmesi ile davacıya satmıştır. Davacı satış bedelini ödediğini, edimlerini yerine getirdiğini ve taşınmazı teslim aldığını iddia etmiştir.
 Somut olayda uyuşmazlığın 30/09/1988 tarihli ve 2/2 sayılı Yargıtay İçtihadı Birleştirme Büyük Genel Kurulu Kararının kapsamında kalıp kalmadığı, uygulanıp uygulanmayacağının değerlendirilip tartışılması gerekecektir.
@@ -41,6 +47,8 @@ Somut olayda uyuşmazlığın 30/09/1988 tarihli ve 2/2 sayılı Yargıtay İçt
 HÜKÜM: Gerekçesi yukarıda izah edildiği üzere;1-Davacı vekilinin istinaf başvurusunun KABULÜNE, 2-Bakırköy 4. Asliye Ticaret Mahkemesi'nin 20/02/2023 tarih ve 2023/134 Esas sayılı tedbir talebinin reddine ilişkin ara kararının KALDIRILMASINA …
 
 ## İzmir BAM 20. HD 2023/648 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/887391000)
 
 Davalı vekili davaya cevap süresi geçtikten sonra sunduğu beyan dilekçesinde özetle; davacının, müvekkili kooperatif ile daha önce kat karşılığı inşaat sözleşmesi imzalamış olan
 
@@ -66,6 +74,8 @@ Davacı vekilinin istinaf itirazlarının KABULÜNE; İzmir 2. Asliye Ticaret Ma
 
 ## İstanbul BAM 45. HD 2023/411 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/883495900)
+
 İptale konu 6. maddede okunan raporlar ile bilanço gelir gider farkı hesapları müzakereye açılmış, ortaklardan ..., yıl içinde yapılan faaliyetlerle alakalı olarak kat karşılığı verilecek arsa miktarlarının faaliyet raporlarında yer almadığını, ayrıca 2014 yılında yapılan sözleşmede m2 miktarlarının net olarak belirlenmemesinden rahatsız olduğunu belirtmesi üzerine yönetim kurulu başkanı ....n, yapılan iş ve işlemler konusunda yönetim kurulu olarak genel kurula bilgi verdiklerini ve bu şekilde karar alındığını belirttiği ve yapılan görüşmelerden sonra raporlar ayrı ayrı oylamaya sunulduğu, yönetim kurulu yıllık çalışma raporu, denetim kurulu raporu, bilanço ve gelir gider farkı hesapları 22 ret oyuna karşılık 69 kabul oyu ile oy çokluğu ile kabul edildiği karara bağlanmıştır. Yönetim kurulu yıllık çalışma raporunda, hukuki faaliyetler başlıklı bölümde;
 Bakırköy 2.Asliye Ticaret Mahkemesinin 2014/1005 esas sayılı dosyasında; kooperatifin 17/06/2014 tarihli genel kurul kararının kat arşılığı inşaat sözleşmesinde müteahhit ile yapılan anlaşma kapsamında kooperatif üyelerinin kaç daire alacağının belirlendiği ancak müteahhide verilecek arsa payı oranının belirlenmediği gerekçesi ile iptaline karar verildiği, temyiz üzerine kooperatif lehine bozulduğu, karar düzeltme aşamasında olduğu belirtilmiştir. Her ne kadar mahkemece, yönetim ve denetim faaliyet raporlarında kat karşılığı inşaat sözleşmesindeki kararlaştırılan oranların değişip değişmediği, üyelere verilecek bağımsız bölümlerin 62 m2 den 86 m2 çıkarıldığı konusunda üyelere bilgi verilmediğinden bahisle genel kurul 6. maddesinin iptaline karar verilmiş ise de; daire metrekarelerinin tevhid ve imar çalışmaları sonrasında artacağı, inşaatın yapılacağı alanda imar çalışmasın nihayeti sonrasında dairelerin metrekaresinin nihai miktarının belli olacağı ve bu hususun davalı kooperatifin inisiyatifinde olan bir durum olmadığının kabulü gerekmektedir.
 
@@ -74,6 +84,8 @@ Bakırköy 2.Asliye Ticaret Mahkemesinin 2014/1005 esas sayılı dosyasında; ko
 H Ü K Ü M: Gerekçesi yukarıda izah edildiği üzere, 1-Davalı tarafın istinaf başvurusunun KABULÜ ile, 6100 sayılı HMK'nun 353/1.b.2 bendi uyarınca Bakırköy 6. Asliye Ticaret Mahkemesinin 2017/678 E. 2019/848 K. sayılı 21/09/2019 tarihli kararının KALDIRILMASINA ve YENİDEN HÜKÜM TESİSİNE …
 
 ## Kayseri BAM 4. HD 2023/397 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/881352600)
 
 HMK'nın 389. maddesindeki şartların mevcut olması ve talep halinde ise hakim, ihtiyati tedbire davanın her aşamasında karar verebilir.Davacı yüklenici kooperatif ile davalılardan ..., ..., ... murisi ... ve ... arasında ... Mah. ... Cad. No: ... ... / KAYSERİ adresinde bulunan ve tapuda ... İli, ... İlçesi, ... Mahallesi ... ada ... pafta ... parselde kayıtlı taşınmaz ile ilgili olarak Kayseri 1. Noterliğinin ... tarih ve ... yevmiye numaralı işlemi ile kat karşılığı inşaat sözleşmesi düzenlenmiştir. Davacı yüklenici, davalılar ise arsa sahibidir. Davacı yüklenici kooperatifin Kayseri 2. Asliye Ticaret Mahkemesi'nin 13/10/2020 tarih ve 2019/599 Esas 2020/548 Karar sayılı kararı ile iflasının açılmış olup iflas tasfiye işlemlerinin Kayseri Genel İcra Dairesinin ... İflas sayılı dosyasıyla devam etmektedir.Arsa sahipleri ... ve ... tarafından Kayseri 7. Noterliğinin ... tarih ve ... yevmiye numaralı ihtarnamesi ile yüklenici kooperatif ile aralarında düzenlenen kat karşılığı inşaat sözleşmesinin geriye etkili olarak feshedildiği bildirilmiştir.
 
@@ -85,6 +97,8 @@ bulunmamaktadır. Davacı her ne kadar imalat bedelinin belirlenmesi noktasında
 Davacı vekilinin istinaf başvurusunun ESASTAN REDDİNE …
 
 ## İstanbul BAM 17. HD 2022/1645 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/848690500)
 
 İLK DERECE MAHKEMESİ KARARI Mahkemece 23/02/2018 tarih, 2013/292 E. 2018/175 K.
 
@@ -106,6 +120,8 @@ H Ü K Ü M : Gerekçesi yukarıda izah edildiği üzere;1-Davacı tarafın isti
 
 ## İstanbul BAM 17. HD 2022/1593 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/847924700)
+
 Dava, kooperatif aidat alacağının tahsili istemine ilişkindir.
 
 …
@@ -126,6 +142,8 @@ H Ü K Ü M: Gerekçesi yukarıda izah edildiği üzere;1-Davalı vekilinin isti
 
 ## İstanbul BAM 45. HD 2022/1469 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/845071800)
+
 İLK DERECE MAHKEMESİ KARARI Mahkemece '' Bakırköy ... Noterliğinin 25/08/2009 tarih, ... yevmiye numaralı ortaklar pay defteri üzerinde yapılan incelemede davalının ortaklar pay defterinde davacı kooperatifin üyesi olarak kaydedildiği, bu üyeliği gereğince 29-32-35-48-53 nolu dairelerin tahsis edildiği, Beylikdüzü Tapu Sicil Müdürlüğünün kayıtlarına göre ...
 
 …
@@ -138,6 +156,8 @@ Akabe Konut Yapı Kooperatifi ile arsa sahibi SS Billur Altınkent Konut Yapı K
 binde 68.31 oranında nisbi harç alınacağı", 1/e maddesinde "(değişik:5235/m. 52) yukarıdaki nisbetlerin Bölge Adliye Mahkemeleri, Bölge İdare Mahkemeleri, Danıştay ve Yargıtay'ın tasdik veya işin esasını hüküm altına aldığı kararları içinde aynen uygulanacağı" belirtilmektedir. Yargıtay 11.Hukuk Dairesinin 27.12.2021 tarih ve 2021/9035 E 2021/7367 K sayılı ilamında da ''... Bölge Adliye Mahkemesince verilen karara yönelik olarak yapılan temyiz başvurusu üzerine HMK'nın 344 maddesi uyarınca, Bölge Adliye Mahkemesince davalı vekiline usulüne uygun şekilde tebliğ edilen muhtıra kapsamında 1 haftalık kesin süre içerisinde gerekli harç ve giderlerin yatırılmadığı gerekçesiyle Bölge Adliye Mahkemesince HMK'nin 366/1 maddesi yollamasıyla aynı Kanun'un 344/1 maddesi uyarınca davacının temyiz başvurusunun yapılmamış sayılmasına ilişkin olarak verilen 05/11/2021 tarihli ek kararda hukuk kurallarına aykırı bir yön olmadığı gibi HMK'nin 369/1. ve 371. maddelerinin uygulanmasını gerektirici nedenlerin de bulunmamasına göre usul ve yasaya uygun Bölge Adliye Mahkemesi 05/11/2021 tarihli ek kararının onanmasına ''dair karar verildiği nazara alındığında; nisbi değere tabi bulunan davalarda …
 
 ## İzmir BAM 11. HD 2022/1411 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/814727600)
 
 Davacı kooperatif imalatın sözleşmeye uygun olmadığını, eksik ve ayıplı olduğunu ileri sürmektedir. Eldeki dava dosyası kapsamında düzenlenen bilirkişi ek ve kök raporlarında davalı yüklenci tarafından yapılan imalatının sözleşmeye aykırı olduğu, mevcut hali ile eksik ve ayıplı imalat bulunduğu tespit edilmiştir. Her ne kadar; davalı tarafından 30/06/2000 tarihli tutanak içeriğine göre edimlerin eksiksiz yerine getirildiği savunulmuş ise de fiili durumun tutanak içeriğine uygun düşmemesi ve iddianın ileri sürülüş şekline göre kooperatif yöneticileri ve yüklenici tarafından yapılan iş ve işlemlerin kooperatifi zararlandırmaya yönelik olup ceza dava dosyasına konu edilmesi dikkate alındığında, davalının bu savunmasına itibar edilmemesinde usul ve yasaya aykırı bir yön bulunmadığından, davalının bu konuya ilişkin istinaf talebi yerinde görülmemiştir.
 

@@ -21,6 +21,8 @@ uyari: "Derleyenin seçtiği alıntılardır; kararın tamamı değildir. Künye
 
 ## Kayseri BAM 4. HD 2026/6 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1186667400)
+
 Davalı ... vekili cevap dilekçesinden özetle; davacıya arabuluculuk anlaşmama tutanağının aslını sunması için 1 haftalık kesin süre verilmesini, sunmadığı takdirde davanın usulden reddedilmesi gerektiğini, müvekkili yönünden davanın tefrik edilerek husumet yönünden reddedilmesi gerektiğini, taşınmazın kooperatifin talimatı uyarınca ...'a devredildiğini, yüklenici kooperatifin KKİS ile üstlendiği edimleri yerine getirmediğinin Kayseri 7. Asliye Hukuk Mahkemesinin 2020/11 D.iş Esas sayılı dosyası üzerinden tespit edildiğini, kooperatife bu konuda Kayseri 7.
 
 …
@@ -40,6 +42,8 @@ Yapılacak inceleme sonucunda davacının peşin ödemeli ortak olduğu anlaşı
 
 ## İzmir BAM 14. HD 2025/1741 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1193072100)
+
 Kural olarak eser sözleşmelerinde yüklenicinin pay devrini isteyebilmesi için inşaatı sözleşmesine, fen ve teknik kurallara uygun ikmâl ederek arsa sahiplerine teslimi zorunludur. Arsa sahiplerinin zararları ile ilgili davanın açılması, edimin ifa olunduğunun kabulünü gerektirmez. Aksine yükleniciye kalan son bağımsız bölümlerin devri arsa sahiplerinin açtıkları dava sonucunun teminatsız kalmasına neden olur.(Yargıtay 15.HD 2011/1783Esas ve 2012/2938 Karar)
 
 İnşaatı eksiklikleriyle teslim eden yüklenicinin sözleşme uyarınca kendisine düşen bağımsız bölümün adına tescilini istenebilmesi için arsa sahibine ait bağımsız bölüm ile onun ortak yerlerdeki payı ilişkin eksiklikleri tamamlaması veya bu eksik işlerin giderilme bedelini ödemesi gerekir başka bir anlatımla kendi öncelikli edimini yerine getirmeyen taraf, karşı taraftan edimini yerine getirmesini isteyemez. (TBK madde 97).( Eser Sözleşmesi-Yaşar Engin Selimoğlu, Ankara 2021, 5.Baskı, s. 287)
@@ -51,6 +55,8 @@ Gecikme tazminatı kural olarak sözleşmede kararlaştırılan teslim tarihinde
 Karşıyaka Asliye Ticaret Mahkemesi'nin 23.12.2022 tarih ve 2020/484 Esas, 2022/963 Karar sayılı kararının, 6100 Sayılı HMK'nın 353/(1)-a-6. maddesi gereğince KALDIRILMASINA …
 
 ## Antalya BAM 7. HD 2025/1372 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1186924800)
 
 Davalı vekili cevap ve açtığı karşı dava ile, arsa payı karşılığı inşaat sözleşmesi davalının ticari işletmesini ilgilendiren bir sözleşme olmadığından, görevli mahkemenin asliye hukuk mahkemeleri olduğunu, taraflar arasındaki sözleşme gereğince, davacıya ait olacağı kararlaştırılan bağımsız bölümlerin belirli aşamalarda davacıya devredileceğinin ön görüldüğünü, ancak davacının süresinde inşaatı tamamlamadığını ve teslimi gerçekleştiremediğini, ek sözleşmeye göre süre verilmiş olmasına rağmen, davacının inşaatı ihtara rağmen tamamlamaması üzerine davalı tarafın inşaatın tamamlanması ve kullanma ruhsatının alınması için bir çok harcamalarda bulunduğunu ve ödemeler yaptığını, bu nedenle davacı şirket üzerine düşen edimleri ifa etmediğinden, ödemezlik def'inde bulunduklarını, yine ödemezlik def'i uyarınca gecikme tazminatı talebi yönünden de davanın reddine karar verilmesi gerektiğini, kabul anlamına gelmemek üzere aksi kanaat halinde davalının, davacıdan olan alacaklarının takas edilmesi gerektiğinden, takas def'inde bulunduklarını belirterek, aleyhlerine açılan davanın reddine karar verilmesini istemiş, karşı dava yönünden ise, davacının yüklendiği edimleri süresinde ifa etmemesi
 nedeniyle karşı davacının zarara uğradığını ve sözleşme ile belirli vade ön görüldüğünden, karşı davalının temerrüde düştüğünü, iskanın alındığı 01/09/2020 tarihine kadar 20 aylık sürede, sözleşme kapsamında karşı davacıya teslim edilmesi taahhüt edilen bağımsız bölümlerin kira bedellerinden yoksun kalındığını, bununla birlikte karşı davalı tarafından yapılması ön görülen harcamaların karşı davacı tarafından yapılmak zorunda kalındığını belirterek, fazlaya ilişkin hakları saklı kalmak kaydıyla, gecikme tazminatı olarak 1.000,00 TL'nin ve yapılan harcamalar karşılığı 59.259,87 TL'nin avans faizi ile birlikte karşı davalıdan tahsiline karar verilmesini talep ve dava etmiştir.
@@ -67,6 +73,8 @@ Yerel mahkeme kararının esası incelenmeksizin ORTADAN KALDIRILMASINA ve davan
 
 ## Denizli BAM 4. HD 2025/595 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1144142000)
+
 Davacı vekili istinafa cevap dilekçesi ile;
 Müvekkili şirket tarafından parası ödenen fakat davalı grup şirketlerin muvazaalı ve kötüniyetli işlemleri ile taraflarına devredilmeyen dava konusu taşınmazın tapu kaydının iptali ve tescili için ikame edilen davada telafisi güç ve imkansız zararların ve hak kayıplarının önlenmesi amacıyla ihtiyati tedbir talep edildiğini, asıl ve birleşen davaların açılış tarihleri; asıl dava 07.05.2024 ve birleşen dava 10.05.2024 olduğunu, taşınmaza ilişkin tapu kayıtları incelendiğinde taşınmazın dava açıldıktan hemen sonra 20.05.2024 tarihinde yine muvazalı olarak mal kaçırma saikiyle taşınmaz davalı şirketin ortaklarının yakın arkadaşı olan dahili davalı ... üzerine hacizli olarak devredildiğini, dahili davalı istinaf dilekçesinde diğer davalı ....arasında gerçekleştirilen devir işleminin muvazaalı olmadığına bu işlemin ek protokol ile yapıldığına ilişkin iddialarda bulunmuş olsa da dosyaya konuyla ilgili herhangi bir delil sunulmadığını, dahili davalı ... güncel değeri günümüzde yaklaşık olarak 100 milyon TL olan davaya konu taşınmazı üzerindeki takyidatlarla (haciz ve diğer tahditler) birlikte sorgusuz sualsiz hızlıca ve diğer davalı şirketlere herhangi bir bedel ödemeden ayrıca taşınmaz
 kaydında Yapı Kayıt Belgesi şerhi olduğu yani taşınmazın plan ve projesine aykırı inşa edildiğine dair kayıtların bulunduğu taşınmazı devralmasının da hayatın olağan akışına aykırı olduğunu, davalı şirketlere en son yapılan bildirim Kartal 21.
@@ -80,6 +88,8 @@ Dava; asıl dosyada davalılar ...(arsa sahibi) ve ....(yüklenici) ile imzalana
 1-..... Asliye Ticaret Mahkemesi'nin 11/12/2024 tarih,.... Esas sayılı ara kararına karşı davalı ... vekilinin istinaf başvurusunun HMK'nın 353/1-b.1. maddesi gereğince ESASTAN REDDİNE …
 
 ## Ankara BAM 31. HD 2024/804 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1066717100)
 
 Davacı taraf, asıl dava yönünden davasını terditli olarak açmış, öncelikle dava konusu 4 taşınmazın davalı adına olan tapu kaydının iptali ile davacı adına tapuya kayıt ve tesciline karar verilmesini, bu talep mümkün olmaz ise ilgili taşınmazların rayiç değerlerinin faizi ile beraber verilmesini istemiş, 11/07/2017 tarihli ıslah dilekçesiyle de dava öncesi 3. kişilere devredildiği anlaşılan dava konusu 3 taşınmaz yönünden alacak taleplerinin 1.439.849 TL.'ye yükseltmiştir.
 
@@ -97,6 +107,8 @@ O halde; davacı yüklenicinin, bağımsız bölümlerin tesciline ve iş bedeli
 Konya 1.Asliye Ticaret Mahkemesi'nin 17/04/2024 gün ve 2023/338 Esas 2024/271 Karar sayılı kararının HMK’nun 353/1-a.6 maddesi gereğince KALDIRILMASINA …
 
 ## Antalya BAM 7. HD 2024/787 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1047216600)
 
 Davacı vekili açtığı dava ile, davalı yüklenici ... ile diğer davalılar arsa sahipleri arasında arsa sahiplerine ait ... mahallesi, ... ada ... parseldeki taşınmaza ilişkin noterde kat karşılığı inşaat sözleşmesi düzenlendiğini, davalı yüklenicinin yapacağı inşaat karşılığı 36 adet bağımsız bölüm alacağını, davacı ile davalı yüklenici arasında inşaatın PVC pencere kapı doğrama işlerini davacı tarafından 308.000 euro bedelle yapılması konusunda anlaşma sağlandığını, yüklenici tarafından davacıya çek verildiğini, bir kısım çeklerin karşılıksız çıktığını, Antalya 4. İcra Dairesinin ...
 
@@ -133,6 +145,8 @@ Davalı kooperatif temsilcisi cevap dilekçelerinde özetle; Zorlu bir süreçte
 
 ## Kayseri BAM 4. HD 2022/319 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/748880300)
+
 Depo edilir ise, depo edilen paranın karar kesinleştiğinde arsa sahibine ödenmesi koşulu ile yüklenici lehine tescile karar verilebilir.Bu açıklamalar ışığında yeniden somut olaya dönülecek olursa; davacı taraf davalı yüklenici şirkete karşı edimlerini yerine getirmiş olsa da; davalı yüklenici diğer davalı arsa sahiplerine karşı edimlerini yerine getirmediği sürece davacı; dava konusu taşınmazların tescili konusunda arsa sahibini zorlayamaz.Mahkemece, davacının sözleşme gereği işlerini tamamlayıp bitirmiş olduğu ve sözleşmeye göre de dava konusu taşınmazların kat karşılığı inşaat sözleşmesine göre müteahhit firmaya isabet eden daireler olduğundan inşaatların da bitirilip, oturulmakta olduğu gerekçesiyle davanın kısmen kabulüne karar verilmişse de, bu gerekçenin dayandığı eser sözleşmesinin ve eser sözleşmesi gereği davalı yüklenicinin arsa sahibine karşı edimlerini yerine getirip getirmediği, arsa sahibinin sözleşmeden kaynaklı eksik imalat ve tazminat alacakları olup olmadığı Kayseri 2. Asliye Hukuk Mahkemesi'nin 2018/652 E. (Yeni esas: Kayseri 10.
 Asliye Hukuk Mahkemesi 2021/96 E.) sayılı davanın konusunu oluşturduğu açık olduğuna göre, öncelikle anılan davanın sonucunun beklenmesi gerekmektedir. Zira, arsa sahibi ile yüklenici arasındaki sözleşmeden kaynaklı edimlerin ifası ve alacak hakları söz konusu davada tartışılıp belirlenecektir. Anılan davanın sonucunda, dava konusu eser sözleşmesi uyarınca yüklenicinin edimini tam olarak yerine getirmediği ve arsa sahibinin alacaklı olduğuna karar verilmesi halinde ise, işbu davanın da doğrudan etkileneceği tabiidir.Mahkemece, yukarıda açıklanan ilkeler doğrultusunda; davalı arsa sahibinin dava konusu taşınmazları teminat maksatlı elde bulundurulduğuna, eksik işlerin giderilmesi ve sözleşmeden kaynaklanan alacaklarının ödenmesi halinde tapu devrinin yapılacağına ilişkin savunması üzerinde durulmadan, bu doğrultuda Kayseri 2. Asliye Hukuk Mahkemesi'nin 2018/652 E. (Yeni esas: Kayseri 10.
 
@@ -141,6 +155,8 @@ Asliye Hukuk Mahkemesi 2021/96 E.) sayılı davanın konusunu oluşturduğu aç�
 Kayseri 2. Asliye Ticaret Mahkemesi'nin 8/6/2021 gün ve 2017/981 E. 2021/397 K. sayılı kararının KALDIRILMASINA …
 
 ## Adana BAM 9. HD 2021/1627 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/716862200)
 
 Davalı ... vekili cevap dilekçesinde özetle; Kooperatifler Kanunu'nun 99. Maddesi gereğince kooperatif kanununda çıkan uyuşmazlıkların tarafların tacir olup olmadığına bakılmaksızın ticari dava olacağının belirtildiğini, bu nedenle mahkemenin görevsiz olduğunu, görevsizlik kararı verilmesini, davacının esasa yönelik iddia ve taleplerinin kabul edilebilir olmadığını, müvekkilinin davacının müteahhit ile yapmış olduğu anlaşmaya taraf olmadığını, müvekkilinin davacıya karşı sorumlu olduğunun kabul edilemeyeceğini davanın reddine karar verilmesini talep etmiştir.
 
@@ -156,6 +172,8 @@ Yargılama sırasında mahkemece bilirkişi raporu alınmış olup dosya kapsam�
 Kat .. nolu dairede ise ... ... 'nin olduğu, taşınmazların dava tarihi olan 21/09/2012 tarihindeki değerlerinin ... Kat ... nolu daire için 155.000,00.TL, ... Kat ... nolu daire için 145.000,00.TL, ... Kat ... nolu daire için 145.000,00.TL olduğunun belirtildiği anlaşılmıştır.
 
 ## Ankara BAM 27. HD 2021/926 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/699737600)
 
 Davacı vekili; arsa sahibi davalı ... ...... ile davalı yüklenici ... .... arasındaki 24/06/2015 günlü Ankara 1.Noterliği’nin arsa payı karşılığı inşaat sözleşmesi uyarınca.... yapılacak binanın mimari ince işlerinin yapımı için davalı yüklenici ile 18/01/2018 günü “The .....“Teknik Şartnameler” ve “Ek Protokol” düzenlendiğini, ayakta olan sözleşme edimlerinin halen ifa edildiğini, bu sözleşmelere dayanılarak yapılan imalatlar için düzenlenen hak ediş bedellerinin büyük bir kısmının ödenmediğini, alt yüklenici olması nedeniyle alacağını garanti altına almak istediğinden taşınmazda yapı ipoteğinin tescili gerektiğini belirterek; taşınmazın davalılara ait ... kayıtlarına TMK’nın 1011.maddesi gereği geçici tescil şerhinin verilmesini talep etmiş, 25/12/2019 günlü duruşma sırasında kanuni ipotek tescilinin ....numaralı bağımsız bölüm üzerinde tesis edilmesini talep etmiştir.
 

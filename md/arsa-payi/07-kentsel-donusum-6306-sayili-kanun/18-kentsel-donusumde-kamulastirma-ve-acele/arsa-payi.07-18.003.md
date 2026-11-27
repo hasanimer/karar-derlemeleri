@@ -32,6 +32,8 @@ kurum ve kuruluşlarına tahsisi, devri, terki ve kullanım hakkı verilmesi ger
 
 ## Danıştay 13. D. 2024/2548 E., 2024/3481 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1174874800)
+
 KARŞI TARAFIN SAVUNMASI : Davalı idare tarafından, 4734 sayılı Kanun'un 68/c maddesi gereği 2985 sayılı Toplu Konut Kanunu kapsamındaki projelerde, kamulaştırma, mülkiyet, arsa temini, imar işlemleri ve uygulama projesine ilişkin şartlar aranmaksızın ihaleye çıkılabileceği, yapılan ihalenin Kamu İhale Kanunu ve ikincil mevzuat hükümlerine uygun olarak gerçekleştirildiği belirtilerek istemin reddi gerektiği savunulmuştur.
 
 …
@@ -39,6 +41,8 @@ KARŞI TARAFIN SAVUNMASI : Davalı idare tarafından, 4734 sayılı Kanun'un 68/
 Davanın yukarıda özetlenen gerekçeyle reddi yolundaki ... İdare Mahkemesi'nin ... tarih ve E:..., K:... sayılı temyize konu kararında, 2577 sayılı İdari Yargılama Usulü Kanunu'nun 49. maddesinde sayılan bozma nedenlerinden hiçbirisi bulunmadığından anılan Mahkeme kararının ONANMASINA …
 
 ## Danıştay 6. D. 2020/5904 E., 2024/2887 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1129591100)
 
 7181 sayılı Kanun ile yapılan değişiklik sonucu düzenleme ortaklık payı oranının %45 olarak belirlendiği ve sayma yoluyla düzenleme ortaklık paylarının nerelerde kullanılacağının Kanun maddesinde belirtildiği, bu değişiklikle eski Yönetmelikte «kamu tesisleri arsaları»nın düzenleme ortaklık payı içerisine dahil edildiği, kamu ortaklık payı tanımının kaldırıldığı, Yönetmeliğin 15. maddesinin 4.fıkrasıyla Kanun değişikliği ile kaldırılan kamu tesisi arsalarına tahsisin tekrar canlandırıldığı, bunun Kanun'a aykırılık taşıdığı, örneğin %55 düzenleme ortaklık payı çıkan bir alanda 14.maddeye göre açıklanan sıraya göre %45 düzenleme ortaklık payı alınacağı kalan kısmın kamulaştırılacağının belirtildiği, mülga Yönetmelikte kamulaştırma çıktığında öncelikle kamulaştırmanın yapılması öngörülürken yeni madde ile kamulaştırma yapılacak parsellerde nasıl bir işlem yapılacağının açıklandığı, diğer taraftan, Yönetmeliğin 15.maddesinin 1.fıkrası gereğince %45ten fazla çıkan düzenleme ortaklık payı için belirtilen kamu taşınmazları kullanıldıktan sonra bunun yeterli olmaması durumunda 5.maddesinin 2.fıkrasının (b) bendine atıfta bulunurken 15.maddenin 4.fıkrası ile %45ten fazla çıkan miktar için
 aynı şekilde kamu taşınmazlarının kullanılması ile ilgili idarelerin mülkiyetlerine trampa için başvurulmasına ilişkin belirtme yapılmadan, kamu ve umumi hizmet alanlarında kalan şahıs taşınmazlarından kamulaştırmaya yönelinmesine ilişkin iki fıkra arasında çelişki yaratıldığı, bunun da uygulamada belirsizlik sebebiyle farklılıkların ortaya çıkmasına sebep olacağı iddia edilmektedir.
@@ -49,6 +53,8 @@ Açıklanan gerekçelerle Yönetmeliğin 14. maddesinin 2. fıkrasındaki "b)...
 
 ## Danıştay 6. D. 2023/7653 E., 2024/386 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1048128900)
+
 Dosyanın incelenmesinden; birden fazla ve farklı taşınmazlar yönünden acele kamulaştırma kararlarının iptali için görülmekte olan davanın açıldığı; söz konusu taşınmazlara ilişkin güncel tapu kayıtlarının, UYAP sistemi üzerinden davacılar ve uyuşmazlığa konu taşınmazlar bazında yapılan incelenmesinden, mezkur taşınmazların hepsinde davacıların tamamının malik olmadığı görüldüğünden, davacıların bir kısmının ayrı ayrı hissedar olarak veya müstakil olarak farklı taşınmazların maliki oldukları; bu haliyle dava dilekçesinin 2577 sayılı Kanunun 5. maddesine uygun düzenlenmediği anlaşılmaktadır. Öte yandan; 07/07/2022 tarih ve 5786 sayılı Cumhurbaşkanlığı Kararı ile 29/12/2021 tarih ve 5034 sayılı Cumhurbaşkanlığı Kararının birlikte dava konusu edildiği görülmekle birlikte, uyuşmazlığa konu taşınmazların 29/12/2021 tarih ve 5034 sayılı Cumhurbaşkanlığı Kararı eki listede, yani dava konusu edilen her iki Cumhurbaşkanlığı kararının kapsamında yer almadığı görülmektedir.
 
 …
@@ -56,6 +62,8 @@ Dosyanın incelenmesinden; birden fazla ve farklı taşınmazlar yönünden acel
 Bu durumda, yukarıda belirtilen usuli eksiklik nedeniyle, temyize konu Daire kararında usul ve hukuka uyarlık bulunmamaktadır." gerekçesiyle bozulmasına karar verilmiştir. Anılan Danıştay İdari Dava Daireleri Kurulu kararı ile …
 
 ## Danıştay 6. D. 2022/7716 E., 2023/7900 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1034912900)
 
 İlk Derece Mahkemesi kararının özeti: ...
 
@@ -79,6 +87,8 @@ Davanın yukarıda özetlenen gerekçeyle davanın süre aşımı nedeniyle redd
 
 ## Danıştay 6. D. 2021/10432 E., 2023/7686 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1044681400)
+
 İlk Derece Mahkemesi kararının özeti: ...
 
 …
@@ -93,6 +103,8 @@ Bu iş bölümü uyarınca "Ruhsat-İzin, İfraz ve tevhid, İmar planı-İmar d
 Davanın yukarıda özetlenen gerekçeyle reddine ilişkin Mahkeme kararına yönelik olarak yapılan istinaf başvurusunun reddi yolundaki temyize konu ... Bölge İdare Mahkemesi ... İdari Dava Dairesinin ... tarih ve E:... , K:... sayılı kararının BOZULMASINA …
 
 ## Danıştay 6. D. 2023/1315 E., 2023/7307 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1028932800)
 
 DAVANIN KONUSU : Kocaeli İli, Gölcük İlçesinde ilan edilen riskli alan ve rezerv yapı alanı sınırları içerisinde bulunan ve ekli listede bulundukları yer ile ada ve parsel numaraları belirtilen taşınmazların İçişleri Bakanlığının …
 
@@ -110,6 +122,8 @@ sayılı kamulaştırma kararının iptali istenilmektedir.
 
 ## Danıştay 4. D. 2023/11467 E., 2023/6674 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1047118400)
+
 DAVANIN KONUSU : İzmir İli, Aliağa İlçesi, ... ve ... Mahalleleri sınırları içerisinde bulunan ve ekli kroki ile listede sınır ve koordinatları gösterilen alanın 6306 sayılı Afet Riski Altındaki Alanların Dönüştürülmesi Hakkındaki Kanunun 2. maddesi uyarınca riskli alan ilan edilmesine ilişkin 04/06/2022 tarih ve 31856 sayılı Resmi Gazetede yayımlanan 03/06/2022 tarihli ve 5688 sayılı Cumhurbaşkanı Kararının iptali istenilmektedir.
 
 DAVACILARIN İDDİALARI :
@@ -122,11 +136,15 @@ Dava konusu 03/06/2022 tarihli ve 5688 sayılı Cumhurbaşkanı Kararının dava
 
 ## Danıştay 6. D. 2023/4178 E., 2023/6477 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1009883900)
+
 DAVANIN KONUSU : Niğde İli, Merkez İlçe sınırları içerisinde 03/03/2020 tarihli ve 2219 sayılı Cumhurbaşkanı Kararı ile ilan edilen yenileme alanı kapsamında bulunan ve ekli listede bulundukları yer ile ada ve parsel numaraları belirtilen taşınmazların, alanda yürütülen kentsel yenileme projesi kapsamında Niğde Belediye Başkanlığı tarafından 2942 sayılı Kamulaştırma Kanununun 27. maddesi uyarınca acele kamulaştırılmasına ilişkin 30/01/2021 tarihli ve 31380 sayılı Resmi Gazetede yayımlanan, 29/01/2021 tarih ve 3466 sayılı Cumhurbaşkanı Kararının, Niğde İli, Merkez İlçesi, ...Mahallesi, ...ada, ...parsel sayılı taşınmaz yönünden iptali istenilmektedir.
 
 DAVACILARIN İDDİALARI : Acele kamulaştırmaya ilişkin dava konusu Cumhurbaşkanı kararına dayanak yapılan 5366 sayılı Yıpranan Tarihi ve Kültürel Taşınmaz Varlıkların Yenilenerek Korunması ve Yaşatılarak Kullanılması Kanununda acele kamulaştırma prosedürünün öngörülmediği, Niğde Belediye Başkanlığı tarafından yenileme alanı ilanına ilişkin bir ön karar alınmadan Cumhurbaşkanı tarafından doğrudan yenileme alanı ilanına ilişkin karar alındığı, 2942 sayılı Kamulaştırma Kanununun 27. maddesinde belirtilen acele kamulaştırma şartlarının oluşmadığı ileri sürülmüştür.
 
 ## Danıştay 6. D. 2023/1338 E., 2023/5812 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/998464400)
 
 Davalı İstanbul Büyükşehir Belediye Başkanlığı tarafından, usul ve yasaya aykırı olan İdari Dava Dairesi kararının bozulması gerektiği savunulmuştur.
 
@@ -142,6 +160,8 @@ Mahkeme kararına yönelik olarak yapılan istinaf başvurusunun kabulü ile an�
 
 ## Danıştay 6. D. 2023/59 E., 2023/5389 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/993096100)
+
 DANIŞTAY TETKİK HAKİMİ …
 
 'IN DÜŞÜNCESİ: Temyiz isteminin kabulü ile, her ne kadar kamulaştırma kararının yargı kararı ile iptal edilmiş olması nedeniyle idare tarafından dava konusu taşınmazın, davacıya ödenen bedelin iadesi karşılığında davacı adına tescili işlemleri gerçekleştirileceği veya davacı tarafından adli mahkemelerde buna istinaden dava açılması hali gündeme gelecek ise de, kamulaştırma işleminin iptalinden bu zamana kadar geçen sürede davacının taşınmazından ve bu taşınmaz aracılığı ile elde ettiği kira gelirinden yoksun kaldığı, ayrıca taşınmazının kamulaştırılması ve sonrasında işlemin geri alınması nedeniyle manevi olarak üzüntü duyduğu, bu nedenle maddi ve manevi zarara uğramış olduğu açık olup, İdare Mahkemesince davacının uğramış olduğu zarar kalemlerinin tek tek hesaplanması, daha evvel kendisine ödenen bedellerin de mahsubu ile söz konusu zararının karşılanması gerektiğinden, İdare Mahkemesi kararının bozulması gerektiği düşünülmektedir.
@@ -152,6 +172,8 @@ Davacı tarafından, taşınmazın bulunduğu alanın "Kentsel Dönüşüm Proje
 
 ## Danıştay 13. D. 2022/3161 E., 2023/5003 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1096586000)
+
 Bu durumda, ihalenin temelini oluşturan ve yenileme projesi kapsamında alınan acele kamulaştırma kararının yürütmesinin durdurulması karşısında söz konusu alandaki taşınmazların enkaz karşılığı yıkımı ihalesine çıkılmasına ve ilan edilmesine hukuken olanak bulunmadığından dava konusu işlemde hukuka uygunluk bulunmadığı sonucuna varılmıştır.
 
 …
@@ -160,9 +182,13 @@ Dava konusu işlemin yukarıda özetlenen gerekçeyle iptali yolundaki ... İdar
 
 ## Danıştay 13. D. 2021/3252 E., 2023/3581 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1029460400)
+
 Bu nedenle bilirkişilerin dava konusu taşınmazların sırf kamulaştırma maliyetlerinin düşürülmesi için plana dahil edildiği değerlendirmesi park ve yol kararı için gereken alanların öncelikle düzenleme ortaklik payı (DOP) ile karşılanması gerekirken Hazine arazisinin parselasyon işlemine dahil edilmeden doğrudan komşu parselin kullanımına alındığı hususu göz önüne alındığında, kamulaştırma maliyetini düşürmek için sosyal donatı alanlarının neredeyse tamamının Hazine parselinden karşılanması yaklaşımı uygun bir yaklaşım olarak benimsendiğinden isabetli görülmemiştir.
 
 ## Danıştay 6. D. 2023/501 E., 2023/3142 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/991445600)
 
 Bu durumda kentsel dönüşüm ilave alan kararının düzenleyici işlem niteliğini haiz olduğu dikkate alındığında söz konusu kararın ve uygulama işlemi niteliğinde olan kamulaştırma işleminin iptali istemiyle açılan davanın süre aşımı yönünden reddi yolundaki ... İdare Mahkemesinin …
 
@@ -183,6 +209,8 @@ sayılı kararının temyize tabi olduğu, dolayısıyla kesin olarak değerlend
 Olayda, davanın … tarih ve … sayılı Erzurum Büyükşehir Belediye Meclis kararı ile tesis edilen kentsel dönüşüm ilave alan kararı yönünden davanın süresinde olduğundan, bu nedenle inceleme yapılarak düzenleyici işlemin esasına girilerek bir karar verilmesi gerektiği görüşü ile İdare Mahkemesi kararının onanmasına ilişkin kararın bu kısmına katılmıyorum.
 
 ## Danıştay 4. D. 2019/3687 E., 2023/1855 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/925684600)
 
 Dosyanın incelenmesinden; davacının, Ankara İli, Çankaya İlçesi, ... Köyü, ... parsel numaralı toplam 1.542.736 m² yüzölçümlü taşınmazın 5351/1.1542.736 oranında hissedarı olduğu, sözü edilen taşınmaza ilişkin olarak davacı vekili ile …
 
@@ -224,11 +252,15 @@ Temyize konu … Bölge İdare Mahkemesi ... Vergi Dava Dairesinin … tarih ve 
 
 ## Danıştay 13. D. 2023/343 E., 2023/1268 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/913771600)
+
 2886 sayılı Devlet İhale Kanunu’nun "Kapsam" başlıklı 1. maddesinde, "Genel bütçeye dahil dairelerle katma bütçeli idarelerin, özel idare ve belediyelerin alım, satım, hizmet, yapım, kira, trampa, mülkiyetin gayri ayni hak tesisi ve taşıma işleri bu Kanun'da yazılı hükümlere göre yürütülür. Birinci fıkrada sayılan daire ve idarelere bağlı döner sermayeli kuruluşlar ile özel kanunlarla veya özel kanunların vermiş olduğu yetkiyle kurulmuş bulunan fonların yukarıda belirtilen işlerinin nasıl yapılacağı Cumhurbaşkanınca çıkarılacak yönetmelikte belirtilir."; "İlkeler" başlıklı 2. maddesinde, "Bu Kanun'un yürütülmesinde, ihtiyaçların en iyi şekilde, uygun şartlarla ve zamanında karşılanması ve ihalede açıklık ve rekabetin sağlanması esastır. Başka başka istekliler tarafından karşılanması mutat olan muhtelif işler bir eksiltmede toplanamaz. Ancak, ihalelerinin ayrı ayrı yapılacağı açıklanmak suretiyle ilanları birarada yapılabilir. Bu Kanun'da yazılı hâllerden yararlanmak amacıyla ihale konusunu oluşturan işler kısımlara bölünemez. Ancak, istekli çıkmadığı takdirde, alım şekillerini değiştirecek mahiyette olmamak üzere önemli işlerin kısımlara ayrılması mümkündür.
 İhaleler kesin zaruret olmadıkça işin mahiyetine göre en uygun fiyatla temini mümkün olan mevsimlerde yapılır. Arsası temin edilmemiş, mülkiyet ve kamulaştırma işlemleri tamamlanmamış olan ve gerekli olduğu hâlde imar durumu, tip yapılarda tatbikat, diğerlerinde avan projeleri ve bunlara dayalı keşifleri bulunmayan yapım işlerinde ihaleye çıkılamaz. Ancak, arsa temin edilmesi, mülkiyet ve kamulaştırma işlemlerinin tamamlanması şartı; bina ve benzeri mahiyetteki inşaatlar dışındaki ihalelerde aranmaz."; "İsteklilerde aranacak nitelikler ve istenecek belgeler:" başlıklı 16. maddesinde, "İdarece ihalelerin en elverişli koşullarla sonuçlandırılmasını sağlamak amacıyla, isteklilerde belirli mali ve teknik yeterlik ve nitelikler aranabilir. Bunları tespite yarayan belgelerin neler olduğu, şartnamelerde gösterilir. İstekliler şartnamelerde yazılı belgeleri eksiksiz vermek ve Türkiye'de tebligat için adres göstermek zorundadır.
 Yapım işleriyle her türlü etüt, proje, kontrollük ve müşavirlik hizmetlerine ait ihalelerde, isteklilerde aranacak niteliklerin ve istenecek belgelerin neler olacağı, ne yolda ve kimlerce verileceği ve müteahhit sicillerinin ne biçimde tutulacağı Cumhurbaşkanınca çıkarılan yönetmelikle gösterilir." kuralları yer almıştır.
 
 ## Danıştay 6. D. 2022/1166 E., 2022/12381 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/892792800)
 
 Kamu yararının gerektirdiği hallerde gerçek ve özel hukuk tüzelkişilerinin mülkiyetinde bulunan taşınmaz malların, Devlet ve kamu tüzelkişilerince kamulaştırılmasında yapılacak işlemleri, kamulaştırma bedelinin hesaplanmasını, taşınmaz malın ve irtifak hakkının idare adına tescilini, kullanılmayan taşınmaz malın geri alınmasını, idareler arasında taşınmaz malların devir işlemlerini, karşılıklı hak ve yükümlülükler ile bunlara dayalı uyuşmazlıkların çözüm usul ve yöntemlerini düzenleme amacıyla hazırlanan 2942 sayılı Kamulaştırma Kanununun 3. maddesinin 1. fıkrasında, idarelerin, kanunlarla ve Cumhurbaşkanlığı kararnameleriyle yapmak yükümlülüğünde bulundukları kamu hizmetlerinin veya teşebbüslerinin yürütülmesi için gerekli olan taşınmaz malları, kaynakları ve irtifak haklarını; bedellerini nakden ve peşin olarak veya aynı maddenin 2.fıkrasında belirtilen hallerde eşit taksitlerle ödemek suretiyle kamulaştırma yapabilecekleri düzenlenmiş, 5. maddesinde kamu yararı kararı vermeye yetkili merciler sayılmış, 6. maddesinde ise 5.maddede sayılan merciler tarafından verilecek kamu yararı kararını onaylayacak merciler sayıldıktan sonra onaylı imar planına veya ilgili bakanlıklarca onaylı
 özel plan ve projesine göre yapılacak hizmetler için ayrıca kamu yararı kararı alınmasına ve onaylanmasına gerek olmadığı, bu durumlarda yetkili icra organınca kamulaştırma işlemine başlanıldığını gösteren bir karar alınacağı kurala bağlanmıştır. Aynı Kanunun 27. maddesinde ise; "3634 sayılı Milli Müdafaa Mükellefiyeti Kanununun uygulanmasında yurt savunması ihtiyacına veya aceleliğine Cumhurbaşkanınca karar alınacak hallerde veya özel …
@@ -238,6 +270,8 @@ Kamu yararının gerektirdiği hallerde gerçek ve özel hukuk tüzelkişilerini
 Dava konusu işlemin uyuşmazlığa konu parsele ilişkin kısmının İPTALİNE …
 
 ## Danıştay 6. D. 2021/10633 E., 2022/11550 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/881291700)
 
 İSTEMİN KONUSU : Bitlis İli, Merkez İlçe, …, …, …, … ve … Mahalleleri sınırları içerisinde dere yatağı üzerinde bulunan ve büyük bir kısmı imar mevzuatına aykırı olarak inşa edilmiş olan 6306 sayılı Afet Riski Altındaki Alanların Dönüştürülmesi Hakkında Kanun kapsamında yer alan taşınmazların üzerlerindeki yapılarla birlikte oluşabilecek herhangi bir taşkın, sel ve benzeri afetler durumunda telafisi güç kayıpların yaşanmaması amacıyla Çevre ve Şehircilik Bakanlığı tarafından 2942 sayılı Kamulaştırma Kanununun 27. maddesi uyarınca acele kamulaştırılmasına ilişkin 04/11/2021 tarih ve 31649 sayılı Resmi Gazete'de yayımlanan 03/11/2021 tarih ve 4736 sayılı Cumhurbaşkanı Kararının, Bitlis İli, Merkez İlçe, … Mahallesi, … ada, …parsel sayılı taşınmaz yönünden iptali istenilmektedir.
 

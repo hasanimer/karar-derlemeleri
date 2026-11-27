@@ -21,6 +21,8 @@ uyari: "Derleyenin seçtiği alıntılardır; kararın tamamı değildir. Künye
 
 ## İzmir BAM 14. HD 2023/1768 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/980644800)
+
 Davacı vekili tarafından verilen dava dilekçesinde özetle; Taraflar arasında ...
 
 …
@@ -41,6 +43,8 @@ Taraflar arasında ... Kültür Merkezinin akustik kaplama işi ve elektronik se
 
 ## İstanbul BAM 45. HD 2023/1230 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/938178600)
+
 Blok ve sosyal tesis yapılarında yaptırılacak tüm inşaat, imalat, montaj ve dekorasyon işlerinin eki teknik şartname, mahal listesi ve keşif özeti raporunda belirlenen metraj ve birim fiyat üzerinden KDV hariç 6.197.604,38 YTL bedelle yapılmasının önerilmesi üzerine yapılan görüşmede; teklif edilen bedelin hadde layık olup olmadığı hususunda piyasa araştırması yapılmasına, teklif edilen bedel hadde layık ve uygun olduğu takdirde bunun peşinen ve nakden ödenmesi mümkün olmayacağı için ödeme koşullarının belirlenmesi hususunda şirketten öneri alınmasına karar verilmiştir.Kooperatif yönetim kurulunun 17/07/2006 tarih ve 222 sayılı kararı;Kooperatifin mülkiyetinde bulunan ... ada, ... parselde kain ...
 Blok ile ... ada ...Parselde kain sosyal tesis yapılarında kira gelirlerinin artırılması için yaptırılması kararlaştırılan teknik donanım, otomasyon, dekorasyon, yapı teknolojisinin artırılması ve kiralananın bölge ve İstanbul bütününde emsalleri ile rekabet edebilir bir yapı olması için gerekli yenilemeler ve ek yatırımların yapılması, gerektiğinde yedek enerji için jeneratör gurupları, soğutma gurupları, su, atık su, depolama, pompaj, arıtma tesisi, otopark, otomasyon ve güvenlik sistemleri, panoramik asansörler, yürüyen merdivenler ve sair mekanik ve elektrik sistemleri vb. işlemlerin hazırlatılan teknik şartname ve mahal listesi esaslarına uygun olarak yaptırılması için alınan bulunan yönetim kurulu kararı gereğince teklif mektubu yazılan firmalardan gelen cevaplar okunarak (... Ltd. Şti. KDV hariç 6.669.148,34 YTL, ...Ltd. Şti. KDV hariç 6.506.335,58 YTL, ... KDV hariç 6.735.967,24 YTL, ... Ltd. Şti. KDV hariç 6.413.099,89 YTL), 1-... A.Ş'nin nihai teklif mektubu çerçevesinde ... blok ve sosyal tesis yapılarında yaptırılacak tüm inşaat, imalat, montaj ve dekorasyon işlerinin 7.313.773.168 KDV dahil keşif bedeli ile ...
 A.Ş'ne yaptırılmasına ve iş bedeli sözleşme tarihi itibarı ile Merkez Bankası efektif döviz satış kuru üzerinden USD'ye çevrilerek 5.050.000 USD olarak ödenmesine, ekli keşif özeti raporundaki birim fiyatların sabit olmasına 2-Nihai bedelin ...
@@ -50,6 +54,8 @@ A.Ş'ne yaptırılmasına ve iş bedeli sözleşme tarihi itibarı ile Merkez Ba
 H Ü K Ü M: Gerekçesi yukarıda izah edildiği üzere;1-Davacı vekilinin istinaf başvurusunun 6100 sayılı Hukuk Muhakemeleri Kanunu'nun 353/1.b.l bendi uyarınca ESASTAN REDDİNE …
 
 ## Adana BAM 6. HD 2023/632 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/908413400)
 
 Davacı vekili 04/11/2021 tarihli dilekçesinde; nama ifa talebinden vazgeçtiklerini, davaya tazminat davası olarak devam ettiklerini, davanın değerini 141.945,74 TL’ye çıkartıp harcı ikmal ettiklerini beyan etmiş, 24/01/2022 tarihli celsede aynı beyanlarını tekrarlamıştır.
 
@@ -65,6 +71,8 @@ mimari, mekanik ve elektrik tadilat projesi hazırlanarak ilgili belediyesinden 
 
 ## İstanbul BAM 45. HD 2023/191 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/864448100)
+
 No.lu parselin birçok parselden ve adalar arasındaki kadastral boşlukların birleştirilmesiyle oluştuğu, Bilirkişi Kurulunda yer alan Fen Bilirkişi Raporunda görüleceği gibi davaya konu parsel çevresinde ...sokaklar ile yol ve dava dışı parsellerle çevrildiği, parsel üzerinde derinliği -21mt, yüzölçümü..m2 olan natamam kazı ve kazı çevresine iksa amaçlı fore kazıklar çakıldığı, kazık bağ kirişlerinin atıldığı, kazı zemininde herhangi bir temel betonu atılmadığı, -4708 sayılı Yapı Denetim Yasasının ilgili Yönetmelik 6.madde 3.fıkrasının amir hükmü olan;
 "işyeri teslimi yapıldıktan sonra, ihtisas alanlarına göre kontrol elemanları tarafından, Temel Bölümünün İnşası sırasında gerekli denetim ve gözetim yapılır, Temel Kalıp ve Donatı İmalatı Kontrol Tutanağı, Temel Topraklanması Kontrol Tutanağı ve Beton Döküm Tutanağı tanzim edilerek, yapılan işlerin uygunluğu onaylanır." maddesine uygun bir tutanak düzenlendiğine dair dosyada herhangi bir belgeye ve tutanağa da rastlanmadığı, davacı yapı denetim firmasınca bu tutanakların hazırlanmadığı,-Davacının talep ettiği 2.faz Hakediş seviyesinin "Temel Üst Kotu" olarak belirlendiği, Temel'in bir dizi imalatların yapılmasıyla vücut bulacağı, bu imalatların; derin kazılarda kazı çeperinin kaymaması için iksa (fore kazık, istinat duvarı) yapılması, temel alt blokajlarının döşenmesi, temel donatılarının projesine uygun olarak bağlanması, elektrik ve sıhhi tesisatların beton/toprak altında kalan imalatlarının yapılması, temel betonunun projesine uygun şekilde dökülmesi, temel üst kotunda teknik şartnameye ve projesine uygun çap ve sayıda taşıyıcı kolonların donatı filizlerinin bırakılması, temel drenajlarının yapılması, temel izolasyonun yapılması, temel toprak dolgularının yapılmasının teknik ve
 zorunlu uygulamalar olduğu, bu imalatların tümünün yapılması neticesinde temel imalatının yapılmış sayılacağı,-Huzurdaki davaya konu Temel imalatları, çokgen geometrik bir yapıdaki 24.328,18m2 alana sahip parselin çevre uzunluğunun 800mt olduğu, söz konusu parsel üzerinde 10.910m2 lik alanda kazı yapıldığı, temel imlatlarının teknik şartnameye ve projesine uygun olarak tamamlanmadığı, temel kazısı natamam olarak yapılmış ve 380mt uzunluğunda, parselin üç tarafını çevreleyecek şekilde yine natamam iksa (fore kazık) çalışmaları yapıldığı, bu imalatların 2. faz hakedişi için öngörülen oransal payı % 10 olan "Temel Üst Kotu" seviyesine ulaşmadığı ve ilgili yasada belirtilen hakediş seviyesine gelmediği, yapılan imalatların gerçekleşme oranının %1 mertebesinde olduğu, imar planlarının iptaliyle birlikte sözleşmenin iptali aşamasında, yasa ve yönetmeliklerin ön gördüğü "Seviye Tespit Tutanağı"nın da düzenlenmediği ve inşaatın hangi seviyede bırakıldığının tarafların ortak imzasıyla hazırlanmış bir tutanakla belirlenmediği, -Bu durumda;
@@ -77,6 +85,8 @@ Hakedişte Alınması Gereken Bedel: Sözleşme Yılı Hizmet Bedeli = Yapı Yak
 H Ü K Ü M: Gerekçesi yukarıda izah edildiği üzere; 1-Davacı vekilinin istinaf başvurusunun KABULÜ ile İstanbul Anadolu 7. Asliye Ticaret Mahkemesi'nin 2016/1208 E. 2018/1367 K. Sayılı ve 27/12/2018 karar tarihli kararının 6100 sayılı HMK'nın 353/1.a.6 maddesi uyarınca KALDIRILMASINA …
 
 ## Ankara BAM 27. HD 2022/1072 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/829185800)
 
 Davacı vekili asıl davada özetle; taraflar arasında akdedilen 04.11.1999 tarihli kat karşılığı inşaat sözleşmesi gereğince yapılacak 94 dairenin 48 adedinin yükleniciye ve 46 adedinin müvekkiline verilmesinin kararlaştırıldığını, inşaatın genel olarak tamamlandığını ve 24.04.2007 tarihinde yapı kullanma izin belgesinin alındığını, ancak 2007/683 D.İş sayılı dosyada eksik ve ayıplı işler bedelinin 550.825 TL olarak belirlendiğini öne sürerek bu miktarın tahsiline karar verilmesini talep etmiştir.
 
@@ -92,6 +102,8 @@ Bu husus BK 480’de “Bedel götürü olarak belirlenmişse yüklenici, eseri 
 
 ## Kayseri BAM 4. HD 2022/926 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/784186800)
+
 Davalı vekili cevap dilekçesinde özetle; müvekkili şirketin, davacı şirkete karşı 1. Asliye Ticaret Mahkemesi'nin 2016/1509 Esas sayılı dosyasını açarak geç teslimden dolayı kira tazminatı ve alacak davası açtığını, davacının 1.
 
 …
@@ -106,6 +118,8 @@ ile cezai şart talebinin ise yerel mahkemece reddine ilişkin kararda isabetsiz
 
 ## İstanbul BAM 3. HD 2021/1840 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/663398600)
+
 Noterliği'nden keşide ettikleri 11/01/2021 tarih ve ... yevmiye nolu ihtarname ile reddettiklerini ve bu alacağa dayalı haksız takibe itiraz ettiklerini, Taraflar arasında akdedilen Emanet Usulü İnşaat Yapımı Taahhüt Sözleşmesi'nin "Sözleşmenin Konusu" başlıklı 2. Maddesinin; "İşverenin maliki bulunduğu tapunun İstanbul ili, ... ilçesi, ... Mahallesi, ... Ada, ... nolu parse- linde kain 51.156,02 m2 alanlı arsa üzerinde işverenin uygun göreceği proje uyarınca tüm giderleri yüklenici tarafından karşılanmak üzere tarafların mutabakatına uygun olarak hazırlanacak projesindeki daire ve dükkanlardan müteşekkil bina ve tüm sosyal alanlarının, donatı alanlarının, peyzaj düzenlemesi v.b. tüm ameliyelerin anahtar teslim esasına göre Teknik Şartnamede belirtilen vasıflara uygun olarak emanet usulü ile imalatını içermektedir. Yüklenici öngörüsüne göre; parsel üzerinde yapılacak inşaatın satılabilir brüt alanı 75.000 m2 civarındadır.Bu baptan olmak üzere sözleşme eki Teknik Şartname doğrultusunda aşağıdaki iş ve işlemler YÜKLENİCİ tarafından yapılacaktır.
 Buna göre; - Parsellerin tevhidinin yapılması, gerekli jeoteknik etüd raporu, plan ve projelerin hazırlanması, ilgili belediye ve idarelerden onaylarının ve her türlü ruhsatlarının alınması ile onaylı projelerine göre bağımsız bölümler, sosyal donatı yapıları ile açık ve kapalı otopark inşaatlarının; arsa içi ve dışı her türlü teknik alt yapısı, çevre tanzimi ve peyzaj işlerinin yapılması,- Satılacak konutların inşaat ruhsatlarının alınması, …
 
@@ -113,6 +127,8 @@ Buna göre; - Parsellerin tevhidinin yapılması, gerekli jeoteknik etüd raporu
 Ancak yükleniciye daire satışlarına bağlı olarak ödeme yapılacağından, dairelerin pazarlanması ve satışları konusunda işveren ile birlikte hareket etmek, azami gayreti göstermek zorundadır.8.2. Yüklenici, inşaat için gerekli olan her türlü malzeme ve ekipmanı kendi imkânları ile tedarik ederek ve işçi çalıştırarak inşaat yapımını sürdürecek olup malzeme ve işçilik giderleri karşılığında satış bedelinin % 52’sine (KDV dâhil) isabet eden miktarını işveren adına fatura edecektir. Bu şekilde oluşan bedel yükleniciye fatura karşılığı nakden ödenecektir:Yüklenici hak ediş bedelleri daireler satıldıkça ve yapılacak tahsilâtlardan ödenecek olup, ödenecek tutarlar üzerinden işveren tarafından % 3 oranında Gelir Vergisi kesintisi yapılacaktır. 8.3. Yüklenici, satışların yetersiz olduğunu ileri sürerek inşaatı durduramaz, kendi kaynakları ile işi kesintisiz olarak devam ettirmek zorundadır." düzenlemesini içerdiğini,Bu madde kapsamında davacı tarafa sözleşmenin 2.
 
 ## İstanbul BAM 15. HD 2021/1167 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/670719600)
 
 Şirketi'nin ayıplı ve hasarlı işler nedeniyle kestiği faturalardan, ... blok, ... kat, ... numaralı dairenin; şap içinden giden su tesisatından kaçak sebebiyle 191 nolu dairenin alçıpan duvarının zarar görmesi sebebiyle KDV hariç 5.765,00 TL'lik hasar giderim bedeli hesaplandığı, ... blok, ... kat, ... dairenin; ebeveyn yatak odasının fan coil tesisatının vanasının açık bırakılması sebebiyle su basması sonucu yatak odasındaki malzemelerin ve alçıpanın hasarlanması nedeniyle KDV hariç 5.011,00 TL hasar giderim bedeline ilişkin fatura kesildiği, B 2 blok, 25. kat, 195 numaralı dubleks dairenin de aynı şekilde ebeveyn yatak odasının fan coil tesisatının vanasının açık bırakılması sebebiyle su basması sonucu KDV hariç 8.095,00 TL lik hasar giderim bedeli hesaplandığı, son raporda belirtildiği gibi, önceki raporlarda bu bedeller KDV hariç olmasına rağmen, KDV dahil olan diğer hasar bedeliyle toplanarak hataya düşüldüğü, tüm hasar bedellerinin KDV dahil olarak belirlenmesi gerektiği, son heyet raporuna göre, 3 kalem hasarın KDV dahil olarak hesaplandığı ve toplamının 22.267,78 TL olduğu, (ayıplı iş bedeli) ayrıca B2 blokta su basan dairelerdeki hasar bedelinin KDV dahil 32.437,50 TL,
 Thyssen Krupp asansörlerde meydana gelen hasar bedelinin KDV dahil 46.536,71TL, blokta meydana gelen malzeme zaiyat bedelinin KDV dahil 53.100,00 TL olmak üzere toplam 132.074,21TL'lik faturalar düzenlendiği, böylece ayıplı ve hasarlı iş bedeli toplamının 132.074,21 TL + 22.267,78 TL = 154.341,99 TL olarak bulunduğu, davacı taşeron ... Şirketi'nin defterinde kayıtlı olan bakiye 665.718,96 TL alacaktan ayıplı ve hasarlı işlerin bedelinin düşülmesi gerektiği, davacı yüklenici ... Şirketi tarafından kesilen 70.000,00 TL'lik işçilik ödemeye ilişkin yeterli ispat sağlanamadığı, davacı yanca sunulan ödeme makbuzu üzerinde ismi bulunan ...'nun davalı taşeron ... Şirketi çalışanı olmadığının tespit edildiği, bu nedenle makbuz bedelinin mahsubu talebinin yerinde görülmediği, eksik ve ayıplı işlere ilişkin bulunan 154.341,99 TL tutar içinde mevcut olan 53.100,00 TL malzeme zaiyatı faturasının bir kısmının sigorta şirketince davacı yükleniciye ödendiği, bu durumda yüklenici ...
@@ -129,6 +145,8 @@ Taraf vekillerinin istinaf başvurularının KABULÜNE, 2-İstanbul Anadolu 3. A
 
 ## İstanbul BAM 45. HD 2021/713 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/672217200)
+
 Mahkemece yapılan yargılama sonucunda taraflar arasında düzenlenen gayrimenkul satış vaadi sözleşmesi ile davalının şartnamede belirtilen özelliklere sahip taşınmazı inşa etmeyi mülkiyetini tapuda davacıya devretmeyi borçlandığı, davacının da sözleşmede belirtilmiş olan bedeli ödemeyi üstlendiği ve bu sebeple sözleşmenin niteliği itibari ile bir eser sözleşmesi olduğu belirtilmiştir.Eser sözleşmesi, iş sahibinin bir bedel karşılığında birşeyin meydana getirilmesi üzere yapılan bir sözleşmedir iş bu sözleşmeler tam iki tarafa borç yükleyen ivazlı bir iş görme sözleşmesidir (ÖZTÜRK, Muammer, Ankara Barosu HMK ve TBK Sempozyomu, Eser sözleşmesi 24-25 Mart 2011 s.22)Eser sözleşmesi, bir eser meydana getirmeyi, iş sahibinin de bunun karşılığında bir bedel ödemeyi üstlendiği sözleşmedir.Eser sözleşmesinin diğer sözleşmelerden ayıran temel özellikleri, yapılan çalışma sonucunda maddi ve manevi bir eser meydana gelmesi, yüklenicinin iş sahibinden bağımsız çalışması imal edilecek şeyin rizikosunu müteahhit'e ait olması ve yapılacak işin karşılığında bir bedel ödenmesidir (KOSTAKOĞLU, Cengiz, İnşaat Hukuku ve Kira Karşılığı İnşaat Sözleşmeleri s.18)Örneğin taraflardan biri iş sahibinin karşı
 tarafı yüklenici olan; bina, yol, köprü baraj, tünel inşaatı, araç onarımı, elbise dikimi, ayakkabı yapımı, estetik amaçlı diş protez yapımı, estetik cerrahi, proje çizimi, fizibilite raporu hazırlanması, film ve dizi çekimi, düğün-nikah, nişan törenlerinin kamera kaydı ve fotoğraf makinesi ile görüntülenmesi işleri bir eser sözleşmesi sayılır (ÖZTÜRK s.221 vd, YAVUZ /ACAR /ÖZEN s. 983 vd).Kat karşılığı inşaat sözleşmeleri de esas itibariyle bir eser sözleşmesidir iş bu sözleşmeler ile ilgili olarak taşınmaz satışları tapuda doğrudan satış yoluyla devir veya noter tarafından tanzim edilen düzenleme şeklinde satış vaadi şeklinde yapılması yapılması gerekmektedir.
 
@@ -140,6 +158,8 @@ Burada ortada henüz bir konut olmadığı halde tüketici satış bedelinin pe�
 HÜKÜM:Yukarıda açıklandığı üzere; 1-Davalı vekilinin istinaf başvurusunun KABULÜNE,2-İstanbul Anadolu 2. Asliye Ticaret Mahkemesi'nin 2018/421 E. 2020/885 K. sayılı 23/12/2020 tarihli kararının 6100 sayılı HMK'nun 353/1.b.2 maddesi uyarınca KALDIRILMASINA ve YENİDEN HÜKÜM TESİSİNE …
 
 ## İstanbul BAM 43. HD 2021/430 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/649416800)
 
 İLK DERECE MAHKEMESİ KARARI: Mahkemece benimsenen kök ve iki ayrı ek rapora göre, taraflar arasındaki satım sözleşmesine göre, satım konusu bağımsız bölümlerin geç teslim edilmediği, bu nedenle davacının geç teslime dayalı kira parası zararının dayanağı olmadığı, ancak davalının eksik ve ayıplı imalatı nedeniyle davacının uğradığı zararın 223.756,91 TL olduğu belirtilerek davanın kısmen kabulüne karar verilmiştir. Bu karara karşı, davalı vekili ve katılma yoluyla davacı vekili tarafından istinaf yoluna başvurulmuştur.
 
@@ -157,6 +177,8 @@ Teknik şartnamede, tüm binada ortak alanlarda yangın tesisatı yapılıp, pro
 HÜKÜM:Yukarıda açıklanan nedenlerle: 1-Davalı vekilinin ve katılma yoluyla davacı vekilinin istinaf başvurularının HMK'nın 353/(1)b-1 maddesi uyarınca ayrı ayrı ESASTAN REDDİNE …
 
 ## İstanbul BAM 45. HD 2021/151 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/643863800)
 
 Dava, davalı kooperatifin 24/05/2015 tarihinde yapılan 2014 hesap yılı olağan genel kurul toplantısında alınan kararların iptali istemine ilişkindir.
 

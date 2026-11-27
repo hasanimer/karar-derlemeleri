@@ -22,6 +22,8 @@ uyari: "Derleyenin seçtiği alıntılardır; kararın tamamı değildir. Künye
 
 ## Yargıtay 15. HD 2008/6224 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/859337000)
+
 Davacı yüklenici davalıların muris ile akdedilen 09.12.1996 tarihli kat karşılığı inşaat sözleşmesine dayanarak tapu iptali ve tescil talebi ile sözleşme dışı ekstra işler bedelinin tahsilini istemiş, davalılar davanın reddini savunmuşlardır.
 
 …
@@ -35,6 +37,8 @@ SONUÇ: Yukarıda 1. bentte yazılı nedenlerle davacı-k.davalı yüklenicinin 
 
 ## Yargıtay 15. HD 2008/5072 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/858975100)
+
 Davacılar 1-... 2-... 3-...
 
 …
@@ -46,6 +50,8 @@ SONUÇ:Yukarıda açıklanan nedenlerle davacıların karar düzeltme istemlerin
 
 ## Yargıtay 15. HD 2007/7015 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/859424900)
+
 Birlikte ifa kuralına göre son bağımsız bölümün yüklenici adına tesciline karar verilebilmesi için, eksik iş bedellerinin karara en yakın tarih itibariyle hesaplattırılması ve bulunacak bu bedelin arsa sahiplerine ödenmesi kaydıyla tescil kararının verilmesi gerekir. Mahkemece bilirkişi raporunda belirtilen eksik işlerin dava tarihi itibariyle belirlenen bedellerinin arsa sahiplerine ödenmesi karşılığı tescil kararı verilmesi de yanlış olmuştur.
 
 …
@@ -53,6 +59,8 @@ Birlikte ifa kuralına göre son bağımsız bölümün yüklenici adına tescil
 SONUÇ:Yukarıda açıklanan nedenlerle kararın temyiz eden davalı arsa sahibi mirasçıları yararına BOZULMASINA …
 
 ## Yargıtay 15. HD 2007/5017 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/859940800)
 
 Dava, kat karşılığı inşaat sözleşmesine dayalı tapu iptâli ve tescil istemine ilişkindir.
 
@@ -70,6 +78,8 @@ SONUÇ:Yukarıda (1.) bendde açıklanan nedenlerle davalı ve karşı davacın�
 
 ## Yargıtay 15. HD 2007/3574 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/859727700)
+
 Kat karşılığı inşaat sözleşmeleri uyarınca, son bağımsız bölümün yüklenici adına tescil edilebilmesi için, inşaatta herhangi bir eksikliğin bulunmaması gerekir. Oysa, inşaatta bilirkişi raporunda belirtildiği üzere, bir kısım eksiklikler bulunduğu ve öte yandan bazı eksikliklerin de tamamlanması için arsa sahiplerinin masraf yaptığı, bu meyanda elektrikçiye, asansörcüye ve SSK Kurumuna arsa sahiplerince ödemelerde bulunulduğu savunulmaktadır. Arsa sahipleri birleştirilen dava ile; bu eksiklikler ve yapılan masraflar karşılığı olarak yükleniciye ait bağımsız bölümün kendilerine bırakılması, başka bir anlatımla BK’nın 97. maddesi uyarınca ifaya izin istemişlerdir. Dolayısıyla ifaya izin talebinin içinde, yapılan masraflar ile eksiklikler miktarının tahsili istemi de vardır. Elde açılmış bir dava varken, ayrıca bu masraflar için arsa sahiplerini bir başka dava açmaya zorlamak doğru değildir.
 
 …
@@ -77,6 +87,8 @@ Kat karşılığı inşaat sözleşmeleri uyarınca, son bağımsız bölümün 
 SONUÇ:Temyiz olunan hükmün, yukarıda açıklanan nedenlerle davalı ve birleştirilen davanın davacısı olan arsa sahipleri yararına BOZULMASINA …
 
 ## Yargıtay 15. HD 2007/2550 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/16113400)
 
 Davacılar vekili, davacılar ve dava dışı diğer arsa sahibi paydaşlar ile davalı yüklenici şirket arasında yapılan ve Kadıköy 2.Noterliği'nce doğrudan düzenlenen 03.06.1988 tarih ve 38236 yevmiye numaralı "Düzenleme Şeklinde Gayrimenkul Satış Vaadi ve İnşaat Mukavelesi" başlıklı sözleşme hükümleri gereğince, Yalova-Taşköprü Köyünde bulunan 8, 9 ve 10 parsel sayılı ve bu parsellerin tevhidi sonucu oluşan 1511 parsel sayılı taşınmaza, sözleşmede yazılı koşullarla inşaat yapmayı ve yine sözleşmede kararlaştırılan bağımsız bölümlere arsa sahiplerine teslim etmeyi yüklendiğini, yanlar arasındaki sözleşme uyarınca inşaat yapılacak taşınmazın 660/1000 payının davalıya kayden temliki yapıldığı halde yüklendiği edimini ifa etmediğini ileri sürerek, yanlar arasındaki kat karşılığı inşaat sözleşmesinin feshine ve davalıya devredilen tüm bağımsız bölüm irtifak kayıtlarının iptaliyle davacılar adına tapuya tesciline karar verilmesini istemiştir.
 
@@ -97,12 +109,16 @@ SONUÇ:Yukarıda açıklanan sebeplerle davacılar vekilinin temyiz itirazların
 
 ## Yargıtay 15. HD 2007/186 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/16520300)
+
 Hal böyle iken davacı yüklenici binanın kısmi bodrumunu tam kat daire olarak yapmış, ilgili belediyece bodrum kat mesken yapılabilme özelliklerine sahip olmadığından ruhsatlandırılamayacağı, bina şu andaki mevcut haliyle projesine aykırı olduğundan iskân verilemiyeceği bildirilmiştir. Sözleşmenin 15.maddesi uyarınca bina genel iskânı müteahhit tarafından alınacaktır. 19.maddeye göre de iş bitiminde dairelerin tapusu sahiplerine 10 gün içinde verilecektir. Sözleşmedeki bu düzenlemeye göre davacı yüklenicinin kendisine ait bağımsız bölümlerin adına tescilini isteyebilmesi inşaatı bitirerek genel iskân ruhsatını da alması koşuluna bağlıdır.
 İnşaat tasdikli projesine aykırı yapıldığından ve bodrum kata eklenti olabilecek mahaller yerine bağımsız bölüm yapıldığından bodrum katın tasdikli mimari projesine uygun hale getirilmesi için davacı yükleniciye münasip bir mehil verilmesi, bina tasdikli mimari projeye uygun hale getirildiğinde bilirkişiye, tapuda kat irtifakı kurulmasına esas olacak şekilde her bir bağımsız bölüme düşecek arsa payını da gösterir şekilde bağımsız bölüm listesi düzenlettirilerek davacıya ait bağımsız bölümlerin arsa payı üzerinden tescile karar verilmesi gerekirken yükleniciye uygun bir mehil verilmeden ve iskân alınması için uygun mehil ile birlikte yetki de tanınmadan yasal olarak yapılan bağımsız bölümlerin tesciline ilişkin davanın tümden reddi doğru olmadığı gibi yüklenicinin sözleşmenin (c) bendinde düzenlenen ödeme talebi ve sözleşme dışı işler bedeli ile ilgili talepleri yönünden müsbet veya menfi bir hüküm kurulmamış olması doğru görülmemiş, kararın bozulması gerekmiştir.
 
 SONUÇ:Yukarıda (1.) bentte yazılı nedenlerle davacı ve karşı davalı yüklenicinin diğer temyiz itirazlarının reddine, hükmün (2.) bentte açıklanan nedenlerle temyiz eden davacı ve karşı davalı yüklenici yararına BOZULMASINA …
 
 ## Yargıtay 15. HD 2005/1234 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/16414500)
 
 Davacı arsa sahibi tapunun bir kısmını davalı yükleniciye devretmesine rağmen kararlaştırılan tarihte İnşaatın bitirilmeyip terk edilmesi yüzünden akdin feshini ve tapu kayıtlarının iptalini istemiştir. Mahkemece akdin feshine, tapu iptal ve davacı adına tescil talebinin reddine karar verilmiş, hüküm davacı tarafından temyiz edilmiştir.
 
@@ -178,6 +194,8 @@ Bu itibarla "kanun koyucu abes ile iştigal etmez" ilkesi gereğince, TMK 895/1'
 TEKİRDAĞ ASLİYE TİCARET MAHKEMESİ'nin 05/04/2022 tarih, 2021/918 Esas, 2022/355 Karar sayılı kararının KALDIRILMASINA …
 
 ## Ankara BAM 27. HD 2026/262 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1199005500)
 
 Asliye Ticaret Mahkemesi'nin 2007/580 Esas sayılı dosyası yönünden ise; birleşen davacı yüklenici ile birleşen davalı kooperatif sözleşmenin feshinde ortak kusurlu olduklarından, birleşen dava konusu taleplerinin kabulü hukuken olanaklı görülmediği ve anılan birleşen davanın reddi gerektiği, birleşen Ankara 6.
 Asliye Ticaret Mahkemesi'nin 2007/517 Esas sayılı dava dosyası yönünden ise; eksik işlerin tespiti istemi yönünden yargılama sürecinde isteme dayanak bağımsız bölümlerdeki eksiklikler giderilmekle ve binaya yapı izin kullanma izin belgesi verildiği sabit olmakla; eksik işlerin tespiti ve ikmali hususunda bağımsız bölümlerin satışına izin verilmesi talebinin konusuz kaldığı, kira kaybı tazminatı isteminin ise; davacı kooperatifin davalı yükleniciye yaptığı imalatların hak ediş bedellerini tam ve gereği gibi ödemediği ve temerrüde düştüğü anlaşılmakla; davacının kira kaybı talebinin haklılığını kanıtlayamadığı, davacının (A) bloktaki 1.700 m2 emsal arsanın kullanılması ile oluşan daire artışı nedeni ile talep ettiği 5.000,00 TL maddi tazminatın asıl dava dosyasında davalı .... …Şirketi’nin alacağından mahsup edilmesi nedeni ile birleşen bu davada davacının davalı yükleniciden aynı nedenle talep edebileceği alacağı kalmadığından arsa emsaline ilişkin tazminat isteminin de reddine karar verilmesi gerektiği, aynı birleşen davada davacı kooperatifin dava konusu talepleri arasında yer alan davalının yaptığı ileri sürülen ayıplı imalatlardan düzeltilmesi mümkün olmayan imalatlara ilişkin

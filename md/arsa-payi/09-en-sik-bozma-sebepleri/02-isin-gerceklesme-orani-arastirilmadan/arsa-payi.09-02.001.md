@@ -21,6 +21,8 @@ uyari: "Derleyenin seçtiği alıntılardır; kararın tamamı değildir. Künye
 
 ## Danıştay İDDK 2022/3386 E., 2023/307 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/990679000)
+
 DANIŞTAY TETKİK HÂKİMİ …
 
 'UN DÜŞÜNCESİ : 6306 sayılı Afet Riski Altındaki Alanların Dönüştürülmesi Hakkında Kanun'un "Uygulama işlemleri" başlıklı 6. maddesine, 10/07/2019 tarih ve 30827 sayılı Resmi Gazete'de yayımlanan 7181 sayılı Kanun'un 24. maddesiyle eklenen 14. fıkra ile belli koşulların varlığı halinde Kanun kapsamındaki alanlarda ve parsellerde arsa paydaşlarıyla yüklenici arasında yapılan sözleşmelerin feshi için hisseleri oranında maliklerin en az üçte iki çoğunluğu ile karar alarak Bakanlığa başvurmaları halinde yapılacak tespitler üzerine sözleşmenin feshedileceğine ilişkin düzenleme yapılmış, bu talepte bulunulabilmesi için ise müteahhitten kaynaklanan nedenlerle, bir yıl içinde yeni yapının yapım işine başlanmamış veya yapım işi belirli bir seviyede durdurulmuş ve en az altı aydır projenin bitirilmesini gerektirecek seviyede ekip ve ekipmanla inşai faaliyete devam edilmiyor olması şartı getirilmiştir. Anılan değişiklik üzerine Yönetmelik'in 13. maddesine eklenen 11. fıkra ile konuya ilişkin esaslar belirlenmiştir.
@@ -34,6 +36,8 @@ Bu durumda, Kanun'da sözleşmenin feshi için belirtilen her iki durumun da mü
 Davanın yukarıda özetlenen gerekçeyle reddine ilişkin Danıştay Altıncı Dairesinin temyize konu 10/02/2022 tarih ve E:2020/8160, K:2022/1324 sayılı kararının ONANMASINA …
 
 ## Danıştay 6. D. 2019/555 E., 2022/7388 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/810129000)
 
 Bu durumda, 2023 Başkent Ankara Nazım İmar Planında öngörülen Kentsel Dönüşüm ve Gelişim Alanları Ana Planı yapılmadan ve alanın plansız gelişen, fiziki ve sosyal çevre koşulları sağlıksız ya da afet riski olan bölgeleri kapsadığına ya da bu kapsamdaki hangi alanların dönüştürülmesi amacıyla tesis edildiği nesnel, teknik ve bilimsel veri, tespit ve analizlerle ortaya konulamayan dava konusu kentsel dönüşüm ve gelişim proje alanı sınırının belirlenmesine ilişkin işlemde hukuka uyarlık görülmediğinden karar düzeltme isteminin kabulüyle mahkeme kararının bozulması gerektiği düşünülmektedir.
 
@@ -91,6 +95,8 @@ Bu durumda, mahkemece gerekirse mahallinde yeniden keşif ve bilirkişi inceleme
 
 ## Yargıtay 6. HD 2025/4510 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1200679600)
+
 Davacı vekili dava dilekçesinde; davacı ile davalı yüklenici ... arasında düzenleme şeklinde arsa payı karşılığı inşaat sözleşmesi imzalandığını, sözleşme gereği yapılacak binadan 3 adet bağımsız bölümün davacı arsa sahibine verilmesinin kararlaştırıldığını, yüklenici tarafından sözleşme gereği edimlerin ifa edilmediğini, yükleniciye düşen bağımsız bölümlerden olan 1 no.lu bağımsız bölümün para karşılığında arsa sahibi tarafından satın alınıp önce eşinin akrabası olan kişiye daha sonra davacının eşine devredildiğini, bu bağımsız bölüm hakkında dava açıldığından elden çıkma ihtimali bulunduğunu öne sürerek arsa payı karşılığı inşaat sözleşmesinin geriye etkili feshi ile 1 no.lu bağımsız bölüm ile yüklenici tarafından satılan 6 no.lu bağımsız bölümün tapu kaydının iptali ile davacı adına tesciline karar verilmesini talep etmiştir.
 
 …
@@ -112,6 +118,8 @@ Somut olayda, davacı arsa sahibi ile davalı yüklenici arasında 26.04.2016 ta
 
 ## Yargıtay 6. HD 2025/3041 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1178225100)
+
 Davacı vekili dava dilekçesinde; müvekkili ile davalılardan yüklenici ... arasında arsa payı karşılığı inşaat sözleşmesi imzalandığını, sözleşmede inşaatın yüklenici tarafından inşaat ruhsatının alınmasından itibaren 18 ay içerisinde sözleşme hükümlerine göre bitirilip teslim edileceğinin, bu sürenin üzerinden 6 ay geçtiği takdirde bağımsız bölüm veya bölümler teslim edilmez ise arsa sahibinin sözleşmeyi tek taraflı olarak feshedebileceğinin kararlaştırıldığını, davalı yüklenicinin sözleşmede kararlaştırılan süre dolmasına rağmen inşaatı teslim etmediğini, ...
 
 …
@@ -128,6 +136,8 @@ Temyiz olunan Bölge Adliye Mahkemesi kararının BOZULMASINA …
 
 ## Yargıtay 6. HD 2025/2183 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1160269800)
+
 Davacı vekili dava dilekçesinde; davalı yüklenici ... San. ve Tic. Ltd.
 
 …
@@ -143,6 +153,8 @@ Bu durumda mahkemece yapılacak iş; yeniden oluşturulacak konusunda uzman bili
 Davacı vekilinin karar düzeltme talebinin KABULÜ ile Dairemizin 20.11.2024 tarih ve 2024/23 Esas, 2024/4220 Karar sayılı onama ilamı KALDIRILARAK yerel mahkeme kararının davacı yararına BOZULMASINA …
 
 ## Yargıtay 6. HD 2025/2121 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1157874500)
 
 Davacılar vekili dava dilekçesinde; taraflar arasında düzenlenen 30.04.2002 tarihli asıl ve 29.09.2005 tarihli ek arsa payı karşılığı inşaat sözleşmesi uyarınca müvekkiline ait 8 bağımsız bölümün en son 28.02.2008 tarihinde teslimi gerekirken teslim edilmediğini ileri sürerek, BK'nın 97. maddesine göre nama ifaya izin ve satış yetkisi verilmesini talep etmiştir. Davacı ... vekili ve davacı asil ... 20.02.2023 tarihli tam ıslah dilekçesi ile sözleşmenin geriye etkili feshini talep ve dava etmiştir.
 
@@ -168,6 +180,8 @@ Yukarıda 2. bentte açıklanan nedenlerle davacı ... vekili ve davacı ...’�
 
 ## Yargıtay 6. HD 2025/1861 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1158538100)
+
 Mahkemece bozmaya uyularak verilen karar asıl ve birleşen davalarda davacı vekilince duruşmalı olarak temyiz edilmekle; kesinlik, süre, temyiz şartı ve diğer usul eksiklikleri yönünden yapılan ön inceleme sonucunda, 06.05.2025 tarihinde duruşma yapılmasına ve duruşma gününün taraflara davetiye ile bildirilmesine karar verilmiştir.
 
 …
@@ -183,6 +197,8 @@ Her ne kadar dava konusu bağımsız bölümün sözleşme ile yükleniciye bır
 Temyiz olunan Mahkeme kararına karşı asıl davada davacı vekilinin temyiz itirazının kabulü ile sonucu itibarıyla doğru olan Yerel Mahkeme kararının gerekçesinin değiştirilerek hükmün DÜZELTİLEREK ONANMASINA …
 
 ## Yargıtay 6. HD 2025/448 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1141673600)
 
 1\.
 
@@ -200,6 +216,8 @@ Yukarıda 1.a. bentte açıklanan sebeplerle davacı-birleşen davada davalı y�
 
 ## Yargıtay 6. HD 2024/4919 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1112591300)
+
 Dairemiz bozma ilamı sonrası alınan bilirkişi raporlarında imalat seviyesinin %68,25 olduğu, buna göre alt yüklenici İzinteks İnşaat Şirketine 13,65 daire devredilmesi gerekirken, fazladan 1,35 dairenin fazladan devredildiği, ayrıca sözleşmenin 5. maddesi kapsamında taraflarca birlikte yapılması gereken harcamalar nedeniyle, davacı yüklenici ... İnşaat Şirketinin, davalı taşeron İzinteks İnşaat Şirketinden 205.950,56 TL alacaklı olduğu tespit edilmiştir.
 
 …
@@ -207,6 +225,8 @@ Dairemiz bozma ilamı sonrası alınan bilirkişi raporlarında imalat seviyesin
 SONUÇ: Yukarıda (1) numaralı bentte açıklanan nedenlerle, asıl davada davacı-birleşen 2008/333 Esas sayılı davada davalı ... İnşaat Şirketi, birleşen 2008/333 Esas sayılı davada davalı ... ve birleşen 2008/333 Esas sayılı davada davalı-birleşen 2008/448 Esas sayılı davada davacı ... vekillerinin tüm, birleşen 2008/333 Esas sayılı davada davacı-temlik alan ... vekilinin diğer temyiz itirazlarının reddine, (2) numaralı bentte açıklanan nedenlerle, birleşen 2008/333 Esas sayılı davada davacı-temlik alan ... vekilinin diğer temyiz itirazlarının kabulü ile usul ve yasaya aykırı olan mahkeme kararının, birleşen 2008/333 Esas sayılı davada davacı-temlik alan yararına BOZULMASINA …
 
 ## Yargıtay 6. HD 2024/3636 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1109059400)
 
 Davacı vekili dava dilekçesinde özetle; davalılar arasında arsa payı karşılığı inşaat sözleşmesi imzalandığını, bu sözleşme uyarınca davalı yükleniciye bırakılan C1 Blok 9 no.lu bağımsız bölümün toplamda 820.000,00 TL bedel ile müvekkiline satılması konusunda davalı yüklenici ile müvekkili arasında 28.01.2021 tarihli adi yazılı satım sözleşmesi imzalandığını, müvekkili davacı tarafından sözleşme hükümlerine uygun olarak Haziran 2022 tarihine kadar ki tüm ödemelerin süresinde yapıldığını, müvekkilinin Haziran 2022 de ödemesini yapmak üzere davalı şirkete gittiğini, ancak şirket tarafından ödemesinin kabul edilmediğini, bununla birlikte şirket yetkilisi tarafından müvekkiline, "ülkenin genel ekonomik koşullarının değiştiği, taşınmaz satış değerlerinin çok fazla arttığı, sözleşme ile belirlenen rakama daireyi vermeyeceklerini, bu şartlar altında sözleşmeye devam etmeyeceklerini, sözleşmenin 3.maddesi gereğince sözleşmeyi tek taraflı olarak feshettiklerini, dava konusu dairenin kendisine teslim edilmeyeceğini ve çok yüksek bir bedelle satılık ilanı verildiğinin şifahen bildirildiğini, bugüne kadar tüm ödemelerini zamanında yapan müvekkili davacının Haziran 2022 tarihli ödemesinin kabul
 edilmemesi dahi davalı firmanın kötüniyetli tutumunu gösterdiğini belirterek davanın kabulü ile "Kocaeli ili Başiskele ilçesi ...
@@ -228,6 +248,8 @@ SONUÇ : Yukarıda 1. bentte açıklanan nedenlerle, davalı vekilinin tüm temy
 
 ## Yargıtay 6. HD 2024/2574 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1085838100)
+
 Davacı vekili, davalı ... ile davalı şirket arasında arsa payı karşılığı inşaat sözleşmesi bulunduğunu, sözleşmede 1 no.lu dairenin yükleniciye verileceğinin karalaştırıldığını, yüklenicinin daireyi gayrimenkul satış sözleşmesi ile müvekkiline sattığını, davalı şirketin taşınmazı teslim etmediğini, taşınmazın halen davalı ... adına kayıtlı olduğunu ileri sürerek taşınmazın tapusunun iptali ile müvekkili adına tescilini, mümkün olmadığı takdirde davalı şirket yetkilisine ödenen 110.000 TL'nin yasal faizi ile tahsilini talep ve dava etmiştir.
 
 Davalılar, davaya cevap vermemiştir.
@@ -241,6 +263,8 @@ Yukarıda belirtilen ilkeler ve yapılan açıklamaların ışığında somut ol
 SONUÇ: Yukarıda açıklanan nedenlerle Gelibolu 1 Asliye Hukuk Mahkemesince verilen karar usul ve yasaya aykırı olduğundan davalı ... vekilinin temyiz sebeplerinin kabulü ile hükmün davalı ... lehine BOZULMASINA …
 
 ## Yargıtay 6. HD 2024/2295 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1086414100)
 
 Davacı vekili dava dilekçesinde özetle; davacı ile davalı yüklenici kooperatif arasında 06.03.2007 tarihli arsa payı karşılığı inşaat sözleşmesi düzenlendiğini, sözleşmeye göre müvekkili arsa sahibine beş adet konut ve 60.000,00 TL verileceğinin kararlaştırıldığını, müvekkilinin 08.03.2007 tarihinde arsaların devrini gerçekleştirdiğini, davalı yüklenici kooperatifin konutları inşa ve teslim etmediğini, ödemeyi taahhüt ettiği bedeli ödemediğini, edimini ifa etmediğini ileri sürerek, sözleşmeden dönme ile, ... parsel sayılı arsadan 1702,413 m2 ile ... parsel sayılı arsada 397,184 m2 yüz ölçümlü alanın tapu iptali ve tesciline karar verilmesini talep etmiştir.
 

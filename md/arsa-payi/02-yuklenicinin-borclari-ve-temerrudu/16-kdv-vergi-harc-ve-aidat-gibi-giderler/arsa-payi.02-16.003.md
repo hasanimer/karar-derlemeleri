@@ -22,6 +22,8 @@ uyari: "Derleyenin seçtiği alıntılardır; kararın tamamı değildir. Künye
 
 ## Yargıtay 15. HD 2016/1992 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/194834700)
+
 Mahkemece, asıl davada (1) ve (2) nolu taleplerin kabulüne, (3) ve (4) nolu taleplerin reddine, birleşen davanın ise ıslah edilmiş haliyle kabulüne karar verilmiş, karar, asıl davanın davacısı/birleşen davanın davalısı vekili tarafından temyiz edilmiştir.
 
 …
@@ -40,6 +42,8 @@ SONUÇ: Yukarıda 1. bentte yazılı nedenlerle davacı/birleşen davada davalı
 
 ## Yargıtay 23. HD 2016/1469 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/232203500)
+
 Davacı vekili, arsa sahibi müvekkili ile davalı yüklenici arasında ... tarihinde imzalanan arsa payı karşılığı inşaat sözleşmesi uyarınca müvekkiline düşen bodrum katta bir daire ve üçüncü normal katta bir dairenin en geç...tarihinde teslim edilmesi gerekirken halen dairelerin tamamlanmadığını ve teslim edilmediğini, sözleşmeye ve projeye uyulmadığını, bodrum kata yapılan dairenin su deposu ve dükkana ait depo olarak geçtiğini ileri sürerek, fazlaya ilişkin hakları saklı kalmak üzere bodrum kat daire bedeli ... TL, mahrum kalınan kira bedeli ...arihinden bu yana ... TL, eksik işler bedeli ...TL, yapı denetim şirketine ödenecek bede...TL, vergi dairesine ödenecek bedel ...
 
 …
@@ -53,6 +57,8 @@ Vergi Dairesi nezdinde davacı arsa sahibinin mükellef olduğu anlaşılmaktad�
 SONUÇ: Yukarıda (1) numaralı bentte açıklanan nedenlerle, davacı vekili ile davalının diğer temyiz itirazlarının reddine, (2) numaralı bentte açıklanan nedenlerle, davacı vekilinin, (3) numaralı bentte açıklanan nedenlerle, davalının temyiz itirazlarının kabulü ile hükmün, taraflar yararına BOZULMASINA …
 
 ## Yargıtay 14. HD 2015/11308 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/182735000)
 
 Dava, davalı yükleniciden temlik alınan kişisel hakka dayalı tapu iptali ve tescil istemine ilişkindir.
 
@@ -75,6 +81,8 @@ SONUÇ: Yukarıda açıklanan nedenlerle temyiz olunan hükmün BOZULMASINA …
 
 ## Yargıtay 23. HD 2015/7588 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/202724000)
+
 Davacı vekili, müvekkili yüklenici ile davalı arsa sahipleri arasında arsa payı karşılığı inşaat yapım sözleşmesi düzenlendiğini, arsa sahiplerine bırakılan dükkanlar için ödenecek KDV'nin arsa sahiplerince ödenmesi gerektiğini, davalılara ait dükkanlara isabet eden KDV'nin müvekkili kooperatif tarafından vergi dairesine mahsuplaşmak suretiyle ödediğini ileri sürerek, 89.072,12 TL'nin tahsilini talep ve dava etmiştir.
 
 Davalılar vekili, müvekkillerinin bir grup arsa sahibinin temsilciliğini üstlendiklerini, dükkan sahipleri hakkında dava açılması ve bu dosya ile birleştirilmesi gerektiğini savunarak, davanın reddini istemiştir.
@@ -94,11 +102,15 @@ SONUÇ: Yukarıda açıklanan nedenlerle, davacı vekilinin temyiz itirazların�
 
 ## Yargıtay 3. HD 2015/7475 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/141508800)
+
 Yukarıda yapılan açıklamalar ışığında taraflarca akdedilen 13.04.2007 tarihli sözleşme ve bu sözleşme ile devralman 27.03.2006 tarihli sözleşme hükümleri birlikte değerlendirildiğinde; sözleşmenin konusunun 2. maddede; "T.. B..nın sahibi bulunduğu İstanbul ili, ... Toplu Konut Alanındaki arsa üzerinde, idarenin uygun göreceği proje uyarınca, tüm giderleri yüklenici tarafından karşılanmak üzere, İstanbul ... Toplu Konut Alanı VII. ve VIII.
 Bölge Konutlarının gerekli jeoteknik etüt raporu, plan ve projelerin hazırlanması, ilgili belediye ve idarelerden onaylarının ve her türlü ruhsatlarının alınması ile onaylı projelerine, mahal listesine göre bağımsız bölümler, sosyal donatı yapılar ile açık ve kapalı otopark inşaatlarının; ada içi ve dışı her türlü teknik alt yapısı çevre tanzimi ve peyzajı ile birlikte, sözleşme ve eki şartnameler doğrultusunda tamamlanarak, iskân ruhsatlarının ve kat mülkiyeti tapularının alınması, pazarlanması, satışı, konut alıcılarına teslimi ve Arsa Karşılığı Gelir Paylaşma Esasına göre İdare Payı Toplam Geliri'nin ödenmesi" olarak tanımlandığı, toplam gelirin paylaşılması ve idare payı toplam gelirinin ödenmesi başlıklı 3. maddesinde, sözleşme konusu iş karşılığında elde edilecek gelirin; bağımsız bölümlerin satışından sağlanacak toplam gelir olduğu ve bu gelirin %38'inin arsa sahibine (TOKİ) ödeneceği, toplam gelirin sözleşmede belirlenen bedelin altına düşmesi halinde dahi arsa sahibinin gelirinin düşmeyeceği, bağımsız bölümlerin inşaatı, pazarlanması, satışı, tapu ve devir işlemlerini düzenleyen 4. maddesinde; satışın yüklenici tarafından yapılacağı ve satışa başlanabilmesi için gerekli
 şartların yüklenici tarafından sağlanacağı, satış için yapılacak tüm ilan ve reklam masraflarının yükleniciye ait olduğu, yine bu işlerle ilgili her türlü vergi, resim, harç ve fon gibi masrafların yüklenicinin sorumluluğunda olduğunu, arsa sahibinin herhangi bir ad altında bir ödemede bulunmayacağı, ayrıca bağımsız bölümlerin 3. kişilere satışı için gereken vekaletname ve yetki belgelerinin arsa sahibi tarafından yükleniciye verileceği, yüklenicinin sorumluluğunu düzenleyen 18. madde de; işin yürütülmesi sırasında yapılacak giderler ve ortaya çıkacak zararlardan yüklenicinin sorumlu olduğunun kararlaştırıldığı anlaşılmaktadır.
 
 ## Yargıtay 23. HD 2014/6538 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/118172000)
 
 Davalı .... Giyim A.Ş.
 
@@ -123,6 +135,8 @@ SONUÇ: Yukarıda (1) numaralı bentte açıklanan nedenlerle, asıl ve birleşe
 
 ## Yargıtay 23. HD 2014/2984 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/113433700)
+
 Davacı vekili, yüklenici olan müvekkili ile arsa sahibi olan davalılar arasında, düzenlenen 10.11.2005 tarihli gayrimenkul satış vaadi içerikli daire karşılığı inşaat yapım sözleşmesinin 13. maddesinde "Dairelerin tapu masrafları, elektrik, su, doğalgaz abone katılım payları, deprem sigortaları, veraset ve intikal ilişik kesme belgeleri daire sahiplerine ait olacaktır.” hükmünün düzenlendiğini, bu hüküm gereğince davalılar tarafından karşılanması gereken tapu masrafları, veraset ve intikal ilişik kesme harçları olarak 2.557,50 TL'nin, 4708 sayılı Kanun gereğince davalılarca ödenmesi gereken yapı denetim hizmet bedelinin, bu bedelin davalılarca ödenmemesi sebebiyle encümen tarafından 07.01.2008 tarihli kararla 1.000,00 TL müvekkili, 1.000,00 TL davalılar hakkında verilen cezanın müvekkilince ödendiğini, bu ödemelerin davalılar tarafından müvekkiline geri ödenmediğini ileri sürerek, şimdilik 34.244,45 TL'nin ödeme tarihlerinden itibaren işleyecek faizi ile birlikte davalılardan müştereken ve müteselsilen tahsiline karar verilmesini talep ve dava etmiştir.
 
 Davalılar C.. D.., İ..
@@ -136,6 +150,8 @@ SONUÇ: Yukarıda (1) numaralı bentte açıklanan nedenlerle, davalı S.. A.. v
 …
 
 ## Yargıtay 23. HD 2014/2360 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/113239600)
 
 Davacı vekili, müvekkili yüklenici ile davalı arsa maliki arasındaki arsa payı karşılığı inşaat sözleşmesinin Sincan 1. Asliye Hukuk Mahkemesi’nin 2005/98 E. - 2005/418 K. sayılı ilamı ile geriye etkili feshine karar verildiğini, imalat bedelinin edilmediğini ileri sürerek, 100.000,00 TL imalat bedelinin davalıdan tahsiline karar verilmesini talep ve dava etmiştir.
 
@@ -153,6 +169,8 @@ SONUÇ: Yukarıda (1) numaralı bentte açıklanan nedenlerle karşı davada dav
 
 ## Yargıtay 23. HD 2014/1404 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/111099600)
+
 Davacı vekili, müvekkilleri arsa sahipleri ile davalı şirket arasında arsa payı karşılığı inşaat sözleşmesi yapıldığını, davalı M..
 
 …
@@ -166,6 +184,8 @@ Diğer yandan davalı yüklenici şirket, sözleşme gereğince, sözleşme sür
 SONUÇ: Yukarıda (1) no'lu bentte açıklanan nedenlerle taraf vekillerinin diğer temyiz itirazlarının reddine, (2) no’lu bentte açıklanan nedenlerle, taraf vekillerinin temyiz itirazlarının kabulü ile hükmün taraflar yararına BOZULMASINA …
 
 ## Yargıtay 23. HD 2013/2007 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/481196300)
 
 Davacı vekili, davalı ile davacı arasındaki arsa payı karşılığı inşaat sözleşmesi gereğince davalıya teslim edilen bağımsız bölümler için kesilen faturadaki KDV'den, sözleşmenin .... maddesine göre davalı arsa sahibinin sorumlu olduğunu ileri sürerek, bu konuda yaptığı ... takibine vaki itirazın iptalini, takibin devamını ve %40 ... inkar tazminatina hükmedilmesini talep ve dava etmiştir.
 
@@ -185,6 +205,8 @@ SONUÇ: Yukarıda açıklanan nedenlerle davacının temyiz itirazlarının kabu
 
 ## Yargıtay 15. HD 2012/8160 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/517300400)
+
 Yanlar arasındaki uyuşmazlık genel olarak yüklenicinin eksik ve kusurlu bıraktığı işler ile ödemediği vergi ve prim borçlarına karşılık ne miktar dairenin belediye uhdesinde teminat olarak tutulması gerektiği konusunda toplanmaktadır.
 
 Hükmüne uyulan bozma ilâmında yüklenicinin eksik ve ayıplı bıraktığı imalâtın bedelinin keşif tarihi itibariyle saptanması, sözleşme konusu inşaatla ilgili ... ve diğer borçları varsa araştırılarak miktarının belirlenmesi, karşılayacak miktarda bağımsız bölümün davalı belediyece teminat olarak tutulması, yükleniciye ait kalan bağımsız bölümler yönünden ise tapu iptâli ve tescil davasının kabul edilmesi gereğine değinilmiştir. Mahkemece bozma sonrası alınan 08.08.2011 tarihli asıl, 26.01.2012 ve 06.04.2012 tarihli ek raporlarda yüklenicinin inşaatı %84,97 seviyede bıraktığı, bu seviyeye göre eksik ve kusurlu işler bedelinin 280.660,84 TL olduğu, asli müdahil ve diğer daire sahiplerince inşaata devam olunarak %3,63 seviyede 57.656,23 TL'lik daha imalât yapıldığı, inşaatın seviyesinin % 88,60'a çıkarıldığı bildirilmiştir. Mahkemece 280.660,84 TL eksik ve kusurlu işler bedelinden, 57.656,23 TL sonradan tamamlanan işler bedeli düşülerek sonuçta eksik ve kusurlu işler bedeli 223.004,61 TL belirlenmiş, bu miktara ...
@@ -196,6 +218,8 @@ Zira dosyada mevcut Kastamonu Sigorta İl Müdürlüğü tarafından davacı ...
 SONUÇ: Yukarıda 1. bentte yazılı nedenlerle asli müdahil vekilinin tüm, davalı ... vekilinin sair temyiz itirazlarının reddine, (2), (3) ve (4). bentlerde yazılı nedenlerle kararın davalı ... yararına BOZULMASINA …
 
 ## Yargıtay 15. HD 2012/2212 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/515974100)
 
 Dava, arsa payı karşılığı inşaat yapım sözleşmesi uyarınca, davalı yükleniciye ait olup davacı arsa sahibince ödenen emlak vergi bedellerinin istirdadı için yapılan ilâmsız icra takibine itirazın iptâli ve takibin devamı istemine ilişkindir.
 
@@ -209,6 +233,8 @@ Yanlar arasında ... 31. Noterliği’nde düzenlenen 05.04.1994 gün 17486 yevm
 SONUÇ:Yukarıda 1. bentte yazılı nedenlerle davacının diğer karar düzeltme taleplerinin reddine, 2. bent uyarınca kabulüyle Dairemizin 25.05.2011 gün, 2011/198 Esas, 2011/3105 Karar sayılı onama ilâmının kaldırılmasına ve yerel mahkeme kararının belirtilen gerekçelerle davacı yararına BOZULMASINA …
 
 ## Yargıtay 14. HD 2012/44 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/657309400)
 
 Dava, yüklenicinin temliki işlemine dayalı tapu iptali ve tescil istemine ilişkindir.
 

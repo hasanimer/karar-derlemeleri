@@ -20,6 +20,8 @@ uyari: "Derleyenin seçtiği alıntılardır; kararın tamamı değildir. Künye
 
 ## Yargıtay HGK 2023/1072 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/976335200)
+
 Her ne kadar yüklenici şirket yetkilisi 28.07.2008 tarihli belgede 2008 yılı Temmuz ayından fesih tarihine kadar yapılan imalatların kendisine ait olmadığını ifade etmiş ise de, inşaatın seviyesi belirlenirken yüklenicinin tek başına veya arsa sahipleri ile birlikte her zaman düzenlemesi mümkün olan belgeye itibar edilmesi yükleniciden bağımsız bölüm satın alan üçüncü kişilerin haklarına zarar verebileceğinden bu belgenin dikkate alınması mümkün değildir.
 
 ## Yargıtay 7. HD 2026/2294 K.

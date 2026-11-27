@@ -20,6 +20,8 @@ uyari: "Derleyenin seçtiği alıntılardır; kararın tamamı değildir. Künye
 
 ## Danıştay 4. D. 2024/378 E., 2024/7645 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1193505900)
+
 6306 sayılı Kanunun Uygulama Yönetmeliğinin (dava tarihindeki haliyle) 15. maddesinin 2. fıkrasında; "Riskli alanlar ve rezerv yapı alanlarında uygulama yapılan etapta veya adada, riskli yapılarda ise bu yapıların bulunduğu parsellerde; yapıların yıktırılmış olması şartı aranmaksızın ve yapının paydaşı olup olmadıkları gözetilmeksizin parsellerin tevhit edilmesine, münferit veya birleştirilerek veya imar adası bazında uygulama yapılmasına, ifraz, taksim, terk, ihdas ve tapuya tescil işlemlerine, yeniden bina yaptırılmasına, payların satışına, kat karşılığı veya hasılat paylaşımı ve diğer usuller ile yeniden değerlendirilmesine toplantı yapılması gerekmeksizin ve herhangi bir şekil şartına tabi olmaksızın sahip oldukları hisseleri oranında paydaşların en az üçte iki çoğunluğu ile karar verilir. Bu karar anlaşma şartlarını ihtiva eden teklif ile birlikte karara katılmayanlara noter vasıtasıyla veya 7201 sayılı Kanuna göre tebliğ edilir.
 Bu tebliğde, on beş gün içinde kararın ve teklifin kabul edilmemesi halinde arsa paylarının, Bakanlıkça tespit edilecek veya ettirilecek rayiç değerden az olmamak üzere anlaşma sağlayan diğer paydaşlara açık artırma usulü ile satılacağı, paydaşlara satış gerçekleştirilemediği takdirde, riskli alanlar ve rezerv yapı alanlarında rayiç bedeli Bakanlıkça ödenmek kaydı ile tapuda Hazine adına resen tescil edileceği, riskli yapılarda ise anlaşma sağlayan diğer paydaşlara veya yapılan anlaşmaya uyularak işlem yapılmasını kabul etmek şartıyla üçüncü şahıslara satılacağı bildirilir." hükümlerine yer verilmiştir.
 
@@ -28,6 +30,8 @@ Alınan karar ve anlaşma şartlarını ihtiva eden teklif veya teklifin görül
 Elektronik yolla yapılan bildirim, bildirimin muhatabın elektronik adresine ulaştığı tarihi izleyen beşinci günün sonunda, muhtarlıkta ilan suretiyle yapılan bildirim ise, ilanın son günü yapılmış sayılır. Karara katılmayanlara yapılan bildirimde; bildirimin yapıldığı/yapılmış sayıldığı tarihten itibaren on beş gün içinde teklifin incelenmemesi veya salt çoğunlukla alınan kararın ve yapılan teklifin kabul edilmemesi halinde arsa paylarının, Başkanlıkça tespit edilecek veya ettirilecek rayiç değerden az olmamak üzere anlaşma sağlayan diğer paydaşlara açık artırma usulü ile satılacağı, paydaşlara satış gerçekleştirilemediği takdirde, riskli alanlar ve rezerv yapı alanlarında rayiç bedeli dönüşüm projesini gerçekleştirecek olan Başkanlık, İdare veya TOKİ tarafından ödenmek suretiyle satın alınacağı, dönüşüm projesinin maliklerce yürütüldüğü alanlarda satış yapılıncaya kadar öncelikle diğer paydaşlara satış işleminin tekrarlanacağı, riskli yapılarda ise yapılan anlaşmaya uyularak işlem yapılmasını kabul etmek şartıyla üçüncü şahıslara satılacağı bildirilir." hükümlerine yer verilmiştir.
 
 ## Yargıtay 14. HD 2016/1513 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/223656200)
 
 Dava, ortaklığın giderilmesi isteğine ilişkindir.
 

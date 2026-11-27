@@ -21,6 +21,8 @@ uyari: "Derleyenin seçtiği alıntılardır; kararın tamamı değildir. Künye
 
 ## Yargıtay 15. HD 2006/653 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/859138500)
+
 Davacı-k.davalı ... ile davalı-k.davacılar 1-... 2-... 3-... arasındaki davadan dolayı Bafra 1.
 
 …
@@ -55,6 +57,8 @@ Bu kapsamda, birleşen dosya üzerinden değerlendirilmesi gereken tazminat tale
 
 ## İstanbul BAM 17. HD 2025/699 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1148244800)
+
 Sigorta sözleşmesi 6102 sayılı TTK'nun 1401. maddesinde, sigortacının bir prim karşılığında, kişinin para ile ölçülebilir bir menfaatini zarara uğratan tehlikenin, rizikonun meydana gelmesi halinde bunu tazmin etmeyi ya da bir veya birkaç kişinin hayat süreleri sebebiyle ya da hayatlarında gerçekleşen bazı olaylar dolayısıyla bir para ödemeyi veya diğer edimlerde bulunmayı yükümlendiği sözleşme olarak tanımlanmıştır. Tüm sigorta sözleşmelerinin gerçekleştirilmesinin ana amacı, kişinin can veya mal varlığına gelebilecek tehlikelere yani rizikolara karşı güvence sağlayabilmektir. Somut olayda, sigortalı taşınmazların bulunduğu yapının tapu kaydına 6306 sayılı Kanun gereğince riskli yapı olduğuna dair şerh düşülmüştür. Dosya kapsamında yer alan riskli bina tespit raporu inceleme formunda, binanın depremde ağır hasar aldığının değerlendirildiği ve can güvenliği açısından kullanımı sakıncalı olduğu için boşaltılmasının uygun görüldüğü belirtilmiştir.
 Belediye tarafından (yapı kontrol müdürü Levent Baykay Bolat) gönderilen yazıda, 26/09/2019 tarihinde meydana gelen deprem sonucu gözleme dayalı tespitlerde yapının hasarlı olduğu, çevre, can ve mal güvenliği açısından acil olarak yıkılması gerektiği, aksi taktirde belediye tarafından yıkılacağı hususları bildirilmiştir. Söz konusu yapı deprem sonucu ağır hasar görmesi sebebiyle Küçükçekmece Belediyesi tarafından mühürlendiği ve akabinde yıkıldığı anlaşılmıştır. Ayrıca binanın hasar durumunun yerinde yapılan inceleme ve tespitler ile değerlendirilmesi neticesinde Üniversite tarafından düzenlenen 31/10/2019 tarihli raporda ise, hasarın deprem etkisiyle gerçekleştiği, deprem sonrası hasar seviyesinin göçme durumunda hasar seviyesinde olduğu ve binanın mevcut durumda kullanımının can güvenliği bakımından sakıncalı olduğu belirtilmiştir. Bu tespit ve değerlendirmeler dosya kapsamına uygun, ayrıntılı ve gerekçeli olduğu gibi öte yandan binanın yıkıldığı da dikkate alındığında davalının yeniden keşif yapılarak rapor alınması talebi yerinde görülmemiştir.
 
@@ -66,6 +70,8 @@ Buna göre davalı tarafından davacıya her üç sigortalı taşınmaz için k�
 HÜKÜM: Gerekçesi yukarıda açıklandığı üzere; 1-Davalı vekilinin istinaf başvurusunun yukarıda belirtilen nedenlerle KABULÜ ile, Bakırköy 5. Asliye Ticaret Mahkemesinin 2020/693 Esas, 2021/636 Karar sayılı ve 13/07/2021 tarihli kararının 6100 sayılı HMK'nun 353/1-b.2 maddesi gereğince KALDIRILMASINA …
 
 ## İstanbul BAM 17. HD 2023/1163 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/960878200)
 
 Dava, doğal afet sigortalar kurumu zorunlu deprem sigorta poliçesi kapsamında hasar bedelinin tahsili istemine ilişkindir.
 
@@ -86,6 +92,8 @@ H Ü K Ü M: Gerekçesi yukarıda izah edildiği üzere, 1-Davacı vekilinin ist
 
 ## Antalya BAM 7. HD 2023/994 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/940017100)
+
 Davacının talebi hakkında üçüncü kez nihai karar veren mahkeme "...Yüklenicinin açtığı imalat bedellerinin tahsiline dair dava karşısında arsa sahibinin açtığı ve bu dava ile birleştirilen binaların yıkılması gerektiğine dair davanın aydınlatılması gerekmektedir. Zira arsa payı karşılığı inşaat yapım sözleşmesi gereğince yüklenicinin bedele hak kazanabilmesi için inşaatı sözleşme ve ekleri ile tasdikli proje ve inşaat ruhsatı ile kamu düzeninden olan imar mevzuatına uygun olarak tamamlayıp, arsa sahiplerine teslim etmesi gerekmektedir. 3194 sayılı imar Kanunu uyarınca her türlü bina inşaatının yerel idarenin tasdikli projesine uygun yapılması zorunludur. Şayet inşaata kısmen veya tamamen tasdikli projesine aykırı imalat var ise bu kaçak ve yıkılması gereken inşaat niteliğinde olup, aynı Kanun'un 32. maddesi yıkılacak yerlerle ilgili olarak da, kazanılmış ekonomik değerden söz edilemez. İmar Kanunu kamu düzenine ilişkin olup mahkemenin re'sen göz önünde bulundurması gerekir. Tarafların anlaşması ile dahi İmar Kanun'unun emredici hükümlerine aykırı inşaat yapılamaz.
 Bu kapsamda basiretli bir tacir gibi davranmakla yükümlü olan yüklenicinin, arsa sahibinin açık beyanı olsa dahi kaçak, imara aykırı, ruhsat ve projesiz bir şekilde inşaat yapmaması gerekir. Arsa sahibinin bu tür bir rızası imalat bedeli konusunda önem taşısa da somut olayda, arsa sahibinin kaçak inşaata ses çıkarmaması hakkın kötüye kullanılması olarak değerlendirilemez. Kaldı ki olayımızda binalar yapılıp bitirilmiş de değildir. Binaların yapıldığı tarihteki deprem yönetmeliği , tasdikli proje ve inşaat ruhsatı ile kamu düzeninden olan imar mevzuatına uygun olarak yapılıp yapılmadığı hususunda incelemeler yapılmıştır. Ayrıca davacı arsa sahibi de kendi yaptırdığı inceleme raporlarını dosyaya sunmuştur. Mahkememizce mahallinde uzman bir heyet oluşturularak karot test de dahil inceleme yaptırılmış, beton numunelerinin laboratuvar testleri alınmış ve bina denetim ve perfonmans uzmanının da bulunduğu heyetten rapor alınmıştır. Bilirkişilerin yeterli inceleme ve araştırmaya dayanan raporlarına göre binaların projeye ,deprem yönetmeliğine ve imar mevzuatına uygun olmadığı ortaya çıkmıştır.
 Dolaysıyla davacı yüklenicinin imal ettiği binaların yıkılması gerektiği bilirkişiler tarafından beyan edilmiştir. Bu durumda davacı yüklenicinin imal ettiği yapıların ekonomik bir değer taşıdığından bahsedilemeyeceğinden ,bu yapıların imal edilmesi nedeniyle imalat bedeli talebinin de yerinde olmadığı sonucuna varılmış ve yüklenici tarafından açılan imalat bedeli tahsiline yönelik dava reddedilmiştir. Buna mukabil arsa sahibi tarafından açılan ve bu dava dosyası ile birleştirilen dava kabul edilmiş, binaların yıkılmasına ,yıkım bedelinin (150.000,00TL) yükleniciden tahsiline karar verilmiştir. ...şeklinde gerekçesini ortaya koymuş yargılamanın yenilenmesini talep eden davacı vekili 17/11/2015 tarihli temyiz dilekçesinde mahkemece kazanılmış haklara riayet edilmediği, Yargıtay'ın önceki bozma ilamlarında davacının alacağının hesaplanmasına ilişkin olarak verilen karara yönelik temyiz başvurusunu reddettiği, bozmanın esasen davalının açtığı davalara ilişkin olduğu hususu açıkça temyiz konusu yapılmıştır. Temyiz talebini inceleyen Yargıtay 23. Hukuk Dairesi "... Esas sayılı kararı ile asıl davada davacı – karşı davalı ve birleşen dosyalar davalısı ...
@@ -96,6 +104,8 @@ Konut Yapı Kooperatifi vekilinin asıl dava ve birleşen ... E. sayılı davada
 Davacı, karşı davalı vekilinin istinaf başvurusunun ESASTAN REDDİNE …
 
 ## İzmir BAM 11. HD 2022/1305 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/805302700)
 
 Dava, koperatif bina güçlendirme alacağının tahsili amacıyla başlatılan icra takibine davalıların itirazının iptali istemine ilişkin olup, ilk derece mahkemesince yukarıda yazılı gerekçeyle davanın kabulüne karar verilmiştir.
 
@@ -111,6 +121,8 @@ Davalılar vekilinin istinaf başvurusunun Hukuk Muhakemeleri Kanunu'nun 353/1-b
 
 ## İstanbul BAM 15. HD 2021/1972 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/699277500)
+
 Maddesine açıklık getirmek üzere bir protokol yaptıkları, bilirkişi raporu ve tüm dosya kapsamına göre sözleşme gereğince yüklenicinin süresinde edimini ifa etmediği, yapılan keşif sırasında arsa üzerinde herhangi bir yapının bulunmadığı, sözleşmeye göre ifa edilmesi gereken yapının ancak %38'inin tamamlandığı, deprem sonrası mevzuat değişikliği nedeniyle süresinden sonra dahi sözleşmeye uyularak edimin ifa kabiliyeti kalmadığı, sözleşmede 110 dairenin yapılması kararlaştırılmış iken çıkarılan deprem yönetmeliği dikkate alındığından bu arsalar üzerinde 110 daire yapılmasının hukuken imkanın bulunmadığı, hukuki imkansızlığın başlangıçta bulunmadığı, sonradan ortaya çıktığı dikkate alındığında, BK'nun 117.
 Maddesi gereğince değerlendirilmesi gerektiği, taraflardan herhangi birinin imkansızlık halinde kusuru olmaması durumunda aldıklarını karşı tarafa iade etmekle yükümlü oldukları, yüklenicinin iş sahibinden almış olduğu tüm arsa paylarını iade etmesi, iş sahibinin ise yapılmış olan işlerden ekonomik olarak yararlanılması mümkün ise yüklenicinin işçilik ve malzeme giderlerini ödemesi gerektiği, bina yıkım kararı alınarak yarım kalan inşaat yıkıldığından iş sahibinin herhangi bir yararlanma söz konusu olmadığından tazminat yükümlülüğü bulunmadığı, birleşen dava da dava konusu inşaattan daire satın alanların, sözleşmenin geçersiz olması nedeniyle bu davalıların almış oldukları taşınmaz paylarının da iade etmesi gerektiğini ancak sınırlı olarak iyi niyetli olması halinde iade kapsamı dışında kalabileceklerini sözleşmeden sonra ve inşaat sürecinde yükleniciye bir kısım payların devri avans niteliğinde olduğu, sözleşmenin geriye etkili feshi halinde bu arsa payları talep halinde arsa sahiplerine geri dönmesi gerektiği, yükleniciden devam eden inşaattan bağımsız bölüm arsa payını satın alanlar satın aldıkları bu bağımsız bölümlerin arsa payları ile tapularına ancak yüklenicinin arsa
 sahibine karşı edimini ifa etmesi durumunda hak kazanabilecekleri, inşaat halindeki bir binada arsa payı (bağımsız bölüm) devralanların arsa sahiplerine karşı iyiniyetli olduklarının kabul edilemeyeceği, dolayısıyla üçüncü kişilerin TMK’nın 1023. maddesinin korumasından yararlanamayacakları;
@@ -120,6 +132,8 @@ sahibine karşı edimini ifa etmesi durumunda hak kazanabilecekleri, inşaat hal
 HÜKÜM: Gerekçesi yukarıda açıklandığı üzere; 1-Taraf vekilinin istinaf başvurusunun esasa ilişkin sebepler incelenmeksizin usul yönünden KABULÜNE, 2-Bakırköy 2. Asliye Ticaret Mahkemesi'nin 06/12/2017 tarih, 2014/959 Esas, 2017/1240 Karar sayılı kararının KALDIRILMASINA …
 
 ## İzmir BAM 11. HD 2021/1101 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/684522500)
 
 İLK DERECE MAHKEMESİ KARARININ ÖZETİ : Mahkemece, TTK'nın 82/7. maddesi gereğince davanın ziyanın öğrenildiği tarihten itibaren 15 günlük süre içerisinde açılması gerektiği, bu sürenin hak düşürücü süre olduğu, mahkemece re'sen gözetilmesi gerektiği, olayın 30/10/2020 tarihinde meydana geldiği, dilekçe ekinde yer alan Çevre ve Şehircilik İl Müdürlüğü yazısının 21.12.2020 tarihini taşıdığı, davanın 18.01.2021 tarihinde açıldığı, bu nedenle davacının bu tarihten itibaren 15 günlük hak düşürücü süre içerisinde dava açması gerekirken belirtilen yasal süre dolduktan sonra 18/01/2021 tarihinde davanın açıldığı gerekçesiyle davanın reddine karar verilmiştir.
 
@@ -137,6 +151,8 @@ Bu nedenle zıyanın öğrenildiği 21.12.2020 tarihinden itibaren 15 günlük h
 Davacı şirketin istinaf başvurusunun Hukuk Muhakemeleri Kanunu'nun 353/1-b-1 maddesi uyarınca ESASTAN REDDİNE …
 
 ## İstanbul BAM 45. HD 2021/151 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/643863800)
 
 Dava, davalı kooperatifin 24/05/2015 tarihinde yapılan 2014 hesap yılı olağan genel kurul toplantısında alınan kararların iptali istemine ilişkindir.
 

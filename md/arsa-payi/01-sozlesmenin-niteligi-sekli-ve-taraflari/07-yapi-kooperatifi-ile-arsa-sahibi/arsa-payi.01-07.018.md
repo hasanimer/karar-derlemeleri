@@ -21,6 +21,8 @@ uyari: "Derleyenin seçtiği alıntılardır; kararın tamamı değildir. Künye
 
 ## İstanbul BAM 17. HD 2019/223 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/473567800)
+
 Davalı ... vekili, davacı kooperatifin, müteahhit ... tarafından kurulduğunu, tüm üyelerin bu kişi tarafından ikna edilerek üye yapıldığını, 2008 yılına kadar hiçbir genel kurulda söz almayan, hiçbir faaliyetten şikayetçi olmayan , tüm genel kurullarda, yönetim ve denetim kurulunu ibra eden üyelerin, müteahhit ortadan kaybolduktan sonra ortaya çıkarak kooperatif yönetimini değiştirmeleri ve olan biten hiçbir şeyden haberleri yokmuş havasında zararlarını, kendilerinden hiçbir farkı olmayan müvekkilinden talep etmelerinin dürüstlük kuralı ile bağdaşmadığının ortada olduğunu, müvekkilinin mağdur olan diğer üyeler gibi aidatlarını ödediğini, müteahhite avans biçiminde yapılan ödemelerin baştan itibaren tüm üyeler tarafından benimsendiğini, genel kurulda alınan ibra kararının kooperatifi bağlayıcı nitelikte olduğunu savunarak davanın reddine karar verilmesini istemiştir.Davalılar ...,...) vekilleri, müvekkili ...n 30.06.2007 tarihli genel kurulda denetçi seçildiğini, 10 ay bu görevde kaldığını, 1 aylık süre içinde dava açılmadığını, KK 98. maddesi anlamında kusursuz olduğunu, müvekkili ..
 
 …
@@ -43,6 +45,8 @@ kooperatifin, 2007 olağan genel kurul toplantısının yapıldığı ve yeni y�
 
 ## İstanbul BAM 17. HD 2018/1917 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/453036200)
+
 Davacı vekili dava dilekçesinde özetle; müvekkilinin, kat karşılığı inşaat sözleşmesi ile inşaat yapım işini üstlenen ...
 
 …
@@ -64,6 +68,8 @@ aldığı fakat bilirkişi raporu ve dosyadaki diğer tespitlere göre, davalı 
 
 ## İstanbul BAM 15. HD 2018/963 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/417882000)
+
 Davacı vekili, davalı ... kooperatifinin inşa ettiği sitenin pencere-pvc vs. işlerini kooperatife üye yapılarak karşılığında bir daire verilmesi kararlaştırıldığı halde, davalı kooperatifin daireyi teslim etmediğini belirterek, üyesi bulunduğu kooperatif dairesinin teslimine, olmadığı takdirde bedelinin ödenmesine, teslim tarihinden itibaren mahrum kaldığı kar kaybının (zararın) tahsilini talep etmiştir.
 
 Davalı kooperatif vekili, zaman aşımı itirazında bulunarak, davacının kooperatife ait üyelik aidatlarını ödemediğini, bu nedenle kooperatif üyeliğinden ihraç edildiğini, ancak üyeliğin ihracına ilişkin kararın iptal edildiğini, bunun davacının aidatlarını ödediği anlamına gelmediğini belirterek haksız olarak açılan davanın reddini talep etmiştir.
@@ -77,6 +83,8 @@ Tüm dosya kapsamından; taraflar arasında, davacı yüklenici tarafından, dav
 Kocaeli 1. Asliye Ticaret Mahkemesi'nin 25/04/2017 Tarih, 2014/787 Esas, 2017/270 Karar sayılı kararının KALDIRILMASINA …
 
 ## İstanbul BAM 17. HD 2018/158 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/394932500)
 
 Davacılar, 31.05.2015 tarihli genel kurulun 8.gündem maddesi ile alınmış kararın iptalini talep etmiş, davalı kooperatif, genel kurul kararının kanun, ana sözleşme ve iyi niyet kurallarına uygun olduğu savunmasında bulunmuş, mahkemece davanın reddine karar verilmiştr.
 

@@ -22,6 +22,8 @@ uyari: "Derleyenin seçtiği alıntılardır; kararın tamamı değildir. Künye
 
 ## Danıştay 6. D. 2019/10911 E., 2020/9938 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/628642100)
+
 İlk Derece Mahkemesi kararının özeti: ... İdare Mahkemesi tarafından verilen … tarih ve E:
 
 …, K:… sayılı kararda; idarenin eyleminden kaynaklı tam yargı davası şeklinde açılan uyuşmazlıkta, dava açma süresinin eylem tarihinden itibaren başlayacağı, dava konusu binanın ise 07/10/2013 tarihinde yıkıldığının sabit olduğu, bu tarihten itibaren 1 yıl içerisinde idareye başvurulması gerekirken, 09/10/2017 tarihinde idareye yapılan başvurunun dava açma süresini canlandırmayacağı, bu nedenle 22/12/2017 tarihinde kayda giren dilekçe ile açılan davada süre aşımı bulunduğu gerekçesiyle, davanın süre aşımı nedeniyle reddine karar verilmiştir.
@@ -36,6 +38,8 @@ Davanın yukarıda özetlenen gerekçeyle süre aşımı nedeniyle reddine iliş
 
 ## Danıştay 6. D. 2019/20539 E., 2020/7699 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/636178300)
+
 DAVACININ SAVUNMASI : 6306 sayılı Kanunun ve 3194 sayılı Kanunun emredici hükümlerine aykırı bir işlem tesis edilemeyeceği, 6306 sayılı Kanun kapsamında "Riskli Alan" ilan edilen Fikirtepe bölgesinde imzalanan kat karşılığı inşaat sözleşmeleri kapsamında yapılacak yapılara ilişkin olarak 6306 sayılı Kanunun 7.maddesinin 9. ve 10. fıkraları ile Yönetmeliğinin 16.maddesinin 9.fıkrası uyarınca altyapı katılım maliyetini ödeme yükümlülüğünden muaf olunduğu belirtilerek davalının temyiz istemin reddi gerektiği savunulmuştur.
 
 …
@@ -43,6 +47,8 @@ DAVACININ SAVUNMASI : 6306 sayılı Kanunun ve 3194 sayılı Kanunun emredici h�
 Mahkeme kararına yönelik olarak yapılan istinaf başvurusunun kabulü ile anılan kararın kaldırılarak yukarıda özetlenen gerekçeyle dava konusu işlemin iptali yolundaki temyize konu … Bölge İdare Mahkemesi … Bölge İdare Mahkemesi … İdari Dava Dairesinin … tarih ve E: …, K: … sayılı kararının yukarıda belirtilen gerekçeyle ONANMASINA …
 
 ## Danıştay 10. D. 2016/6043 E., 2020/3990 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/632366500)
 
 …
 
@@ -69,6 +75,8 @@ Belediye Başkanlığı Zabıta Müdürlüğünün …
 sayılı tespit tutanağının ve bu işlemlerin dayanağı olduğu ileri sürülen İşyeri Açma ve Çalışma Ruhsatlarına ilişkin Yönetmelik’in 5. maddesinin 1. fıkrasının (c) bendinde yer alan “ekmek fırını” ibaresinin iptali istenilmektedir.
 
 ## Danıştay 13. D. 2017/985 E., 2017/1443 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/343686400)
 
 …
 
@@ -98,6 +106,8 @@ Dosyanın incelenmesinden; İskenderun Belediyesi İmar ve Şehircilik Müdürl�
 
 ## Danıştay 14. D. 2016/7694 E., 2017/1078 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/310068300)
+
 İstemin Özeti :...İli, ...
 İlçesi, ... ada ... parsel sayılı taşınmaz üzerinde bulunan binanın 6306 sayılı Kanuna göre 31.10.2012 tarihinde riskli yapı olarak tespit edilerek maliki tarafından yıkılmasından sonra söz konusu parselde yeniden yapım için üçte iki pay çoğunluğunu tek başına elinde bulunduran malik müdahilin tek başına aldığı karara katılmayan davacının taşınmazdaki payının açık artırma usulü ile satışının 01.10.2015 tarihinde gerçekleştirileceğine ilişkin Çevre ve Şehircilik İl Müdürlüğü'nün 10.09.2015 gün ve 66070440/502.03-E.5714 sayılı işleminin iptali istemiyle açılan davada; davacının hisseli maliki olduğu arazideki hissedarlardan yalnızca birine () ait olan yapının riskli yapı kapsamına girdiği ve 6306 sayılı Kanun kapsamında hisse satış sürecinin başlamasında riskli yapı olarak söz konusu yapının esas alındığı, davacının da aralarında bulunduğu arazinin diğer hissedarlarının arazi üzerinde herhangi bir yapılarının bulunmadığı, 6306 sayılı Kanun'un lafzi ve ruhu ile değerlendirilmesi neticesinde; hisseli bir arazide yine hisseli olarak malik olunan bir yapının riskli yapı olarak ilan edilmesi ve yıkılması sonrasında maliklerin ne şekilde yeniden o arazide inşa sürecine başlayabileceklerini
 düzenleyen ortaklığın giderilmesi hükümlerini ihtiva ettiği, ortaklığın 6306 sayılı Kanun kapsamında giderilebilmesi için hisseli maliklerin hem araziye hem de yapıya paydaş olmaları gerektiği, zira aksi yorumun kabulü halinde hisseli malik olunan bir arazide paydaşlardan birinin riskli yapı kapsamına alınabilecek bir yapı inşa etmek suretiyle 6306 sayılı Kanun kapsamında idari yoldan şatış işlemleri başlatmak ve böylece yargısal süreci devre dışı bırakmak suretiyle ortaklardan bir veya bir kaçının Avrupa İnsan Hakları Sözleşmesi ve Türkiye Cumhuriyeti Anayasası'nca güvence altına alınan mülkiyet haklarının ihlal edileceği, dolayısıyla ortaklardan yalnız birine ait olan riskli yapı esas alınarak 6306 sayılı Kanun kapsamında uygulama işlemlerine başlanılamayacağı, hissedarlar arasındaki ortaklığın izale-i şuyu davası açılmak ve yargısal süreç içerisinde giderilmesi gerektiği dikkate alındığında; davacının hisseli maliki olduğu arazide bulunan yapının yıkılması akabinde yeniden inşa sürecinde anlaşmaya katılmaması nedeniyle sahip olduğu hissenin satışa çıkarılmasına ilişkin dava konusu işlemde hukuka ve mevzuata uygunluk bulunmadığı gerekçesiyle dava konusu işlemin iptali yolunda
@@ -108,6 +118,8 @@ düzenleyen ortaklığın giderilmesi hükümlerini ihtiva ettiği, ortaklığı
 İdare ve vergi mahkemeleri tarafından verilen kararların temyiz yolu ile incelenerek bozulabilmeleri 2577 sayılı İdari Yargılama Usulü Kanununun 49. maddesinde belirtilen nedenlerden birinin bulunması halinde mümkündür. Yukarıda tarih ve sayısı belirtilen Mahkeme kararı ve dayandığı gerekçe, hukuk ve usule uygun olup, bozulmasını gerektirecek bir sebep de bulunmadığından, temyiz isteminin reddi ile anılan kararın ONANMASINA …
 
 ## Yargıtay HGK 2022/163 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/762538800)
 
 Davacı vekili dava dilekçesinde; müvekkilinin ... ili ... ilçesi ... Mahallesi 3122 ada 114 parseldeki 20 no'lu bağımsız bölümün maliki olduğunu, 19.10.2014 tarihli olağanüstü genel kurul toplantısından haberdar edilmediğini, müvekkilinin ...'de ikamet ettiğini, toplantı yeter sayısı sağlanmadan kararlar alındığını, 19.10.2014 tarihli toplantının yok hükmünde olduğunu, satış yapılması durumunda tapu ve mülkiyet değişiklikleri olacağından, işlemin uygulanması hâlinde telafisi güç veya imkansız zararların doğması sebebiyle toplantıdaki 6306 sayılı Kanuna ilişkin kararlar ve sözleşmenin yükleniciyle imzalanmasına ilişkin kararların tedbiren durdurulması ile 19.10.2014 tarihli olağanüstü genel kurul toplantısı ile alınan kararların tümden iptaline kararı verilmesini talep etmiştir.
 
@@ -120,6 +132,8 @@ Dosya içerisinde bulunan 19.10.2014 tarihli olağanüstü genel kurul toplantı
 Dosya kapsamı ve tüm bu açıklamalara göre; dava konusu taşınmazdaki tüm bağımsız bölümlerde bulunan riskli yapı tespitinin kesinleşmesi, 19.10.2014 tarihli olağanüstü genel kurul toplantısında alınan kararların 6306 sayılı Kanuna ilişkin olması hususları göz önüne alındığında mahkemece Kat Mülkiyeti Kanunu hükümlerine ek olarak 6306 sayılı Kanun ve uygulama yönetmeliği hükümleri de değerlendirilmek suretiyle karar verilmesi gerekmektedir.
 
 ## Yargıtay HGK 2016/314 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/233445400)
 
 Davalı, davanın reddini dilemiştir.
 
@@ -181,6 +195,8 @@ Bu itibarla, 6306 sayılı Yasa gereği, riskli yapı statüsündeki ana taşın
 
 ## Yargıtay 5. HD 2025/15007 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1194626900)
+
 Davalı idare vekili cevap dilekçesinde özetle; öncelikle davacı tarafın, dava dilekçesindeki 500 TL'nin haksız fiilin gerçekleştiği, taşınmazların davalı tarafından yıkıldığı tarihten itibaren işleyecek faizi ile birlikte tahsilini talebinin usul ve kanuna aykırı olduğunu, kamulaştırmasız el atma davalarında faiz başlangıcının dava tarihi olarak kabul edildiğini, iş bu sebeple davacı tarafın yıkım tarihinden itibaren faiz istemesinin usul ve kanuna aykırı olup reddi gerektiğini, ayrıca dava konusu taşınmazın dava dilekçesinde iddia edildiği gibi müvekkil kurum tarafından herhangi bir kamulaştırmasız el atma işlemi bulunmadığını, dava konusu taşınmazın Bakanlar Kurulu Kararı ile Acele Kamulaştırma kapsamına alındığını, ancak kentsel dönüşüm alanında revizeler yapılarak ...
 
 …
@@ -197,6 +213,8 @@ Bakanlığınca yayımlanan Yapı Yaklaşık Birim Maliyetleri Hakkındaki Tebli
 Davalı idare vekilinin yerinde görülmeyen tüm temyiz itirazlarının reddiyle usul ve kanuna uygun Bölge Adliye Mahkemesi kararının 6100 sayılı Kanun’un 370 inci maddesinin birinci fıkrası uyarınca ONANMASINA …
 
 ## Yargıtay 5. HD 2024/5546 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1058789100)
 
 Davacılar vekili dava dilekçesinde özetle;... Mahallesi 111 parsele 23.08.2016 tarihinde bedel tespit tescil davası açıldığını, 04.12.2018 tarihinde parselin acele kamulaştırma kapsamına alındığını, imar planlama çalışmalarının sona ermesinden 1 ay öncesinde dava açılarak taşınmazın imarlı olarak bedel tespitinin yapılmasının önlenmek istendiğini, acele kamulaştırmanın usulüne uygun uygulanmadığını, bedel tespit tescil davası sonucu beklenmeden parsele fiilen el atıldığını, bu nedenle 111 parsel sayılı taşınmazın şuyulandırıldığı, imar parselinin dava tarihindeki değerinin tespitinden sonra bedel tespit ve tescil dosyasında kadastro parseli olarak ödenen değerinden mahsubu ile kalan miktarın hüküm altına alınmasını talep etmiştir.
 
@@ -216,6 +234,8 @@ Davacılar vekilinin yerinde görülmeyen tüm temyiz itirazlarının reddiyle u
 
 ## Yargıtay 5. HD 2024/963 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1038996900)
+
 Davacılar vekili dava dilekçesinde özetle; Ankara ili, Sincan ilçesi, ... Mahallesi, eski 560 parsel(yeni 102189 ada 3 parsel ve 102169 ada 1 parsel) sayılı taşınmaz yönünden davalının proje ortağı Sincan Belediyesi tarafından Ankara Batı 2. Asliye Hukuk Mahkemesinin 2016/285 Esas sayılı dosyasında kamulaştırma bedelinin tespiti ve tescil davası açıldığını, kamulaştırma bedeli ödenmeyip tescil davası sonuçlanmadığını ve acele el koyma yoluna başvurulmadığı halde dava konusu taşınmazda konut inşa edilmek suretiyle fiilen el atıldığını belirterek kamulaştırmasız el atılan taşınmaz bedelinin davalı idareden tahsilini talep etmiştir.
 
 …
@@ -233,6 +253,8 @@ Davacılar vekilinin yerinde görülmeyen tüm temyiz itirazlarının reddiyle u
 
 ## Yargıtay 3. HD 2023/2863 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/979293300)
+
 Davacı; davalı ile ... Kentsel Dönüşüm ve Gelişim Projesi kapsamında sözleşme imzaladığını, sözleşme kapsamında 20.07.2009 tarihi ile 20.05.2013 tarihleri arasında davalıya toplam 15.360,00 TL ödeme yaptığını, sözleşme kapsamında hak etmiş olduğu dairenin teslim edilmediğini, teslim edilmeyen dairenin kullanılamadığını, kiraya verilemediğini, bu nedenle zarara uğradığını ileri sürerek, kira kaybından kaynaklı fazlaya dair hakları saklı kalmak kaydı ile 20.000,00 TL'nin dava tarihinden itibaren işleyecek yasal faizi ile birlikte davalıdan tahsiline karar verilmesini istemiştir.
 
 …
@@ -248,6 +270,8 @@ Tarafların iddia, savunma ve dayandıkları belgelere, uyuşmazlığın hukuki 
 Temyiz olunan Bölge Adliye Mahkemesi kararının 6100 sayılı Kanun'un 370 inci maddesinin birinci fıkrası uyarınca ONANMASINA …
 
 ## Yargıtay 3. HD 2023/137 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/885129400)
 
 Davacı;Kuzey Ankara Kentsel Dönüşüm Projesi Kanunu ve buna bağlı yönetmelik ile belediye meclisi kararına dayanarak evini kendisine konut verilmesi karşılığında davalı belediyeye devrettiğini 1714-1715 numaralı kıymet takdir komisyonu raporunda bina, müştemilat ve ağaç bedelinin 23.550,00 TL olarak belirlendiğini, davalının bu bedelin tamamını ödemesi gerekirken sadece enkaz bedeli ödediğini ileri sürerek fazlası saklı kalmak üzere 20.065,50 TL'nin tahsilini istemiş, ıslah dilekçesi ile talebini 13.230,00 TL'ye indirmiştir.
 

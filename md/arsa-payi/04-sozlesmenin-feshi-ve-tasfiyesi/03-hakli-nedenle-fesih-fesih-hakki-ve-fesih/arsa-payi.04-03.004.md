@@ -22,6 +22,8 @@ uyari: "Derleyenin seçtiği alıntılardır; kararın tamamı değildir. Künye
 
 ## Yargıtay 6. HD 2025/187 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1144506500)
+
 Davalı vekili cevap dilekçesinde özetle; sözleşme tarihi ile ihtar ve azil arasında bir yıl altı ay geçmesine rağmen ruhsat alınmadığını, davacının yapılan ihtara 7 Aralık 2017 tarihli cevabında; yapılan imar çalışmaları ve proje işlemleri nedeniyle inşaat işlemlerinin gecikmeye uğradığını, gecikmenin kendilerinden kaynaklanmadığını beyan ederek, gecikmeyi ikrar ettiğini, cevabın gerçekleri yansıtmaması nedeniyle inşaatın teslim gününü beklemeden sözleşmeyi sona erdirebilme hakkını kullanarak sözleşmeyi fesih ettiğini savunarak davanın reddini istemiştir.
 
 …
@@ -34,6 +36,8 @@ Arsa sahibinin sözleşmeyi haklı olarak geriye etkili feshetmesi halinde; dava
 
 ## Yargıtay 6. HD 2024/5035 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1123536200)
+
 İlk Derece Mahkemesince, davacı arsa sahipleri ile davalı yüklenici arasındaki arsa payı karşılığı inşaat sözleşmesinden kaynaklanan sözleşmenin geriye etkili feshine ilişkin davada yaptırılan tespit sonrası alınan bilirkişi raporu ile inşaatın % 40 oranında tamamlandığının tespit edildiği, davalı yüklenicinin inşaatı yarım bırakarak kayıplara karıştığı, gerekçesiyle davanın kabulüne karar verilmiştir.
 
 …
@@ -43,6 +47,8 @@ Arsa sahibinin sözleşmeyi haklı olarak geriye etkili feshetmesi halinde; dava
 SONUÇ: Yukarıda (4) numaralı bentte açıklanan nedenlerle ihbar olunan vekilinin temyiz talebinin USULDEN REDDİNE, (5) numaralı bentte açıklanan nedenlerle, İlk Derece Mahkemesi kararı ile bu karara karşı yapılan istinaf başvurularının esastan reddine ilişkin kararın usul ve yasaya aykırı olması nedeniyle HMK'nın 373/1. maddesi gereğince …
 
 ## Yargıtay 6. HD 2024/4577 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1122819600)
 
 Davacılar vekilleri asıl ve birleşen davalarda ayrı ayrı; müvekkilleri adına borçlu ... İnş.Ltd. Şti aleyhine icra takipleri başlatıldığını, bu dosyalardan tahsilat yapılamadığını, dosya borçlusu yüklenici ...
 
@@ -61,6 +67,8 @@ SONUÇ: Yukarıda (1) numaralı paragrafta açıklanan nedenlerle davacılar ...
 
 ## Yargıtay 6. HD 2024/4441 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1122665700)
+
 İlk Derece Mahkemesince, dava konusu Adana ili, ........ ilçesi, ........... Mahallesi, 9081 Ada 2 Parselde kayıtlı taşınmazın sözleşmeden sonra çevresindeki parseller ile tevhit edilerek Adana ili, ........ ilçesi, ......... Mahallesi, 9081 Ada 11 Parsel olduğu, davacı ...'ın da yeni oluşan parselde hissedar olduğu, bu nedenle yeni oluşan 11 parseldeki tüm hissedarların bir araya gelerek müteahhit ile kat karşılığı inşaat sözleşmesi yapması gerekirken, bu konuda dosyada sözleşmelerin olmadığı, bu nedenle Adana 4.
 Noterliği'nin 10/07/2009 tarih ve 22168 yevmiye no.lu düzenleme şeklinde taşınmaz mal satış vaadine havi kat karşılığı inşaat sözleşmesinin geçersiz olduğu, feshin ancak geçerli bir sözleşme için söz konusu olabileceği, bu şekilde açılmış bir davada “Çoğun içinde az da vardır.” kuralı gözetilerek sözleşmenin feshi istemi geçersizliğin tespitini de içerdiğinden sözleşmenin geçersizliğinin tespitine karar verilmesi gerektiği gerekçesiyle davanın kısmen kabulü ile, sözleşmenin geçersizliğinin tespitine, sözleşmeye dayanarak konulan Adana ili, Seyhan ilçesi, Kurtuluş mahallesi, 9081 ada 11 parsel sayılı taşınmazdaki 31/07/2009 tarih 24642 yevmiye no.lu şerhin kaldırılmasına karar verilmiştir.
 
@@ -69,6 +77,8 @@ Noterliği'nin 10/07/2009 tarih ve 22168 yevmiye no.lu düzenleme şeklinde taş
 Gaziantep Bölge Adliye Mahkemesi 3. Hukuk Dairesi kararına ilişkin davalı .... vekilinin tüm temyiz istemlerinin reddiyle usul ve kanuna uygun bulunan kararın ONANMASINA …
 
 ## Yargıtay 6. HD 2024/4307 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1121207500)
 
 İlk Derece Mahkemesince, inşaat seviyesinin % 90 oranına ulaşmadığı gerekçesiyle, asıl davanın kabulü ile, sözleşmesinin geriye etkili olarak feshine, 128.244,40 Türk Lirası'nın sözleşmenin fesih tarihinden itibaren işleyecek mevduata uygulanan en yüksek banka faizi ile birlikte davalıdan alınarak davacıya ödenmesine, birleşen davanın kabulü ile, 188.817,00 Türk Lirasının sözleşmenin fesih tarihinden itibaren işleyecek yasal faizi ile birlikte davalıdan alınarak davacıya ödenmesine karar verilmiştir.
 
@@ -81,6 +91,8 @@ Taraflar arasında imzalanan arsa payı karşılığı inşaat sözleşmesinde y
 SONUÇ: Yukarıda (1) numaralı bentte açıklanan nedenlerle asıl davada davacı-birleşen davada davalı vekilinin tüm, asıl davada davalı-birleşen davada davacı vekilinin diğer temyiz istemlerinin reddine, (2) numaralı bentte açıklanan nedenlerle asıl davada davalı-birleşen davada davacı vekilinin temyiz istemlerinin kabulü ile, İlk Derece Mahkemesi kararı ile bu karara karşı yapılan istinaf başvurusunun esastan reddine ilişkin kararın usul ve yasaya aykırı olması nedeniyle HMK'nun 373/1. maddesi gereğince Bursa Bölge Adliye Mahkemesi 10. Hukuk Dairesi kararı KALDIRILARAK; Yenişehir Asliye Hukuk Mahkemesinin 2015/752 E.
 
 ## Yargıtay 6. HD 2024/4271 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1111760400)
 
 Davacı vekili temyiz dilekçesinde, mahkemece taraflar arasında yapılmış olan Ankara 12. Noterliği'nin 02.09.1998 tarih ve 16877 yevmiye no.lu Kat Karşılığı İnşaat Sözleşmesinin feshine karar verilmiş olup, buna bir diyecekleri olmadığını, taraflar arasında yapılan diğer (Ankara 12.
 
@@ -96,6 +108,8 @@ Ayrıca belirtmek gerekir ki; sözleşmelerin feshi için eldeki davanın görü
 
 ## Yargıtay 6. HD 2024/4115 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1121104600)
+
 Davalı vekili cevap dilekçesinde; davacı şirketin sözleşmeden sonra hiç bir çalışma yapmadığını, tapu harçları ve proje masraflarını da ödemediğinden iki ay beklediklerini, sonradan davacının inşaatı yapacak maddi durumunun olmadığını öğrendiklerini bu nedenle sözleşmeyi haklı feshettiklerini belirterek, davanın reddine karar verilmesini istemiştir.
 
 İlk Derece Mahkemesince sözleşmeye göre davacının sözleşme tarihinden itibaren altı ay içerisinde projelerin hazırlanmasını, inşaat ruhsatının alınmasını, kat irtifakının kurulmasını ve yirmi dört ay içerisinde de iskan alınarak daireleri arsa sahibine teslim etmeyi üstlendiği, inşaat sözleşmesinde davacı vekili olarak gözüken ...'ın inşaat şirketini temsile yetkili olmadığı, inşaata başlamadan önce inşaat için yapılması gereken ön hazırlıkların davacı tarafından yerine getirilmediği, projenin hazırlanmadığı, belediyeye ruhsat başvurusunda bulunulmadığı, mahallinde yapılan keşifte inşaata başlanmadığı, inşaat ile ilgili hiç bir girişimin olmadığı, sözleşmenin yapıldığı tarih ile fesih ihtarnamesinin düzenlendiği tarih arasındaki süre gözetildiğinde davacının bu süre içinde inşaata başlayabilme ihtimalinin bulunmadığı, sözleşme hükümlerine göre yüklenicinin yükümlülüğünde olan inşaata hiç başlamamış olması nedeniyle zararının da oluşmadığı gerekçesiyle, davanın reddine karar verilmiştir.
@@ -110,6 +124,8 @@ SONUÇ: Yukarıda açıklanan nedenlerle Yalova 1. Asliye Hukuk Mahkemesi'nce ve
 
 ## Yargıtay 6. HD 2024/3490 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1109033200)
+
 Mahkemece bozmaya uyularak yapılan yargılama sonucunda, davacı yüklenici tarafından arsa üzerinde inşa edilecek olan binada yapılması gereken hafriyatın yaklaşık 2/3 lük bölümünü yaptığı, sahada hiç bir inşaat malzemesinin bulunmadığı, inşattaki gerçekleşme oranının yaklaşık %1 olduğu mahkemece verilen ilk kararda hükmedilen 17.589,35 Türk Lirası kısım daha önce ödenip taraflar 22.12.2015 tarihli ibraname ile ibralaştıklarından bu kısım hakkındaki dava konusuz kaldığından esas hakkında karar verilmesine yer olmadığına, bozma ilamında belirtilen davacının talep edebileceği imalat bedelinin 11.130,21 Türk Lirası olduğu, bu kısım için davanın kabulüne, 02.03.2012 temerrüt tarihinden itibaren işleyecek yasal faizi ile birlikte davalılardan müşterek ve müteselsilen tahsili ile davacıya ödenmesine, davalıların takas mahsup talebi ile ilgili olarak talep ettikleri mahsuba ilişkin olarak gösterdikleri bedel yönünden Ankara 22.
 
 …
@@ -119,6 +135,8 @@ Kamu düzenine aykırılık halleri ile uyulan bozma ilamının içeriği ve usu
 SONUÇ: Yukarıda açıklanan nedenlerle Ankara 26. Asliye Hukuk Mahkemesi kararına karşı vekilinin bir kısım davalılar ..., ..., ..., ..., ... ve ... vekilinin tüm temyiz istemlerinin reddiyle usul ve kanuna uygun bulunan kararın ONANMASINA …
 
 ## Yargıtay 7. HD 2024/3143 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1053752900)
 
 Davacı vekili; müvekkillerinin murisinin paydaşı olduğu dükkanın davalı tarafından işgal edildiğini belirterek elatmanın önlenmesi ve ecrimisil talep etmiştir.
 
@@ -137,6 +155,8 @@ Temyiz olunan Bölge Adliye Mahkemesi kararının 6100 sayılı Kanun'un 370 inc
 
 ## Yargıtay 6. HD 2024/3069 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1109245700)
+
 İlk derece mahkemesince, asıl ve birleşen davalar bakımından davalılar arasındaki kat karşılığı inşaat sözleşmesinin geriye etkili feshine karar verildiği, feshedilen sözleşme nedeni ile arsa sahibinin devir sorumluluğu bulunmadığı gerekçesiyle asıl davada yükleniciden bağımsız bölüm satın alan davacının terditli bedel isteminin kabulüne, birleşen davada ise aynı bağımsız bölüm bakımından tapu iptali ve tescil isteminin reddine karar verilmiştir.
 
 …
@@ -146,6 +166,8 @@ Kamu düzenine aykırılık hallerinin re'sen gözetildiği, istinaf nedenleriyl
 SONUÇ: Yukarıda açıklanan nedenlerle Antalya Bölge Adliye Mahkemesi 7. Hukuk Dairesi kararına ilişkin birleşen davada davacı vekilinin tüm temyiz itirazlarının reddiyle usul ve kanuna uygun bulunan kararın ONANMASINA …
 
 ## Yargıtay 6. HD 2024/2999 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1098082500)
 
 Bozma ilamına uyularak yapılan yargılama sonucunda; birleşen dava yönünden inşaatın yasal hale getirilmesi için belediye yazıları ve bilirkişi raporuna göre 13, 14 ve 15 sayılı parsellerin tevhidinin yapılması gerektiği, ancak 15 sayılı parsel maliklerinin tevhide razı olmadıklarını belirttiklerinden ve bozma ilamının verildiği 18.06.2007 tarihinden itibaren beş yıldan uzun süre geçmesine rağmen yüklenici tarafından bozma ilamı gereğince inşaatın yasal hale getirilmesi için gerekli işlemler tamamlanmadığından imar mevzuatı gereğince taşınmazın yasal hale getirilmesinin mümkün olmadığı, ruhsatsız inşaat nedeniyle yüklenicinin edimlerini yerine getirdiğinden bahsedilemeyeceği gerekçesiyle asıl davada davacı ...
 Sanayi ve Dış Ticaret A.Ş.'nin davasının kabulü ile taraflar arasında düzenlenen 08.08.2001 tarihli sözleşmenin feshine, 65.000,00 Alman Markı'nın davalıdan alınarak davacıya verilmesine, faiz ve munzam zarar isteklerinin reddine, birleşen dava yönünden 15.07.1996 ve 02.09.1996 tarihli sözleşmelerin geriye etkili olarak feshine, 14 parsel sayılı taşınmazda davalı ...'in belediyeden almış olduğu hisse üzerinde bırakılarak, kalan kısmın paylı olarak davacılar adlarına tesciline, taşınmaz üzerindeki kaçak inşaatın kal'ine, diğer taleplerin reddine dair verilen kararın birleşen davanın davalısı yüklenici Sevteks Tekstil A.Ş. vekilince temyiz edilmesi üzerine Yargıtay (Kapatılan) 23.
@@ -161,6 +183,8 @@ SONUÇ: Yukarıda açıklanan nedenlerle mahkeme kararına ilişkin birleşen do
 
 ## Yargıtay 6. HD 2024/2853 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1086174000)
+
 İlk Derece Mahkemesince; arsa payı karşılığı inşaat sözleşmesinden kaynaklanan cezai şartın tahsili amacıyla başlatılan icra takibine yapılan itirazın iptali davasında, davalı tarafın sözleşmeye konu taşınmaza dokuz daireden oluşan apartman yapılması şartıyla sözleşmeyi imzaladıklarını savunduğu, bu savunmanın, yeminli ve bizzat görgü, bilgiye dayalı beyanlarına itibar edilen tanıklar Hanife, Taner ve Bilgin'in ifadeleriyle sübuta erdiği, davacı tarafın dosyaya mübrez sözleşmeden ve mimari projeden de açıkça görüldüğü üzere sözleşmeyi 12 bağımsız bölüm inşasına göre hazırlatmak suretiyle taraflar arasındaki anlaşmaya aykırı davrandığı, sözleşmeyi vekil sıfatıyla imzalayan kimsenin davacının kardeşi olması, davalıların vekili sıfatıyla hareket ederken aynı zamanda davacının da nam ve hesabına işlemler yapması, nitekim davacının isticvap beyanında sözleşme öncesi şifahi anlaşmanın kendisi tarafından yapılmış gibi ifadeler kullanması ve sözleşme akdedilmeden önce davalılarda güven uyandırarak ve taşınmaza dokuz bağımsız bölümlü apartman inşasını kabul ederek tarafları ikna ettiği hususunun davacı tarafça bilinmemesinin hayatın olağan akışına aykırı olması, feshin haksız olduğu
 iddiasının kabul edilemeyeceği gerekçesiyle davanın reddine karar verilmiştir.
 
@@ -171,6 +195,8 @@ Kamu düzenine aykırılık hallerinin re'sen gözetildiği, istinaf nedenleriyl
 SONUÇ: Yukarıda açıklanan nedenlerle İzmir Bölge Adliye Mahkemesi 22. Hukuk Dairesi kararına ilişkin davacı vekilinin tüm temyiz istemlerinin reddiyle usul ve kanuna uygun bulunan hükmün ONANMASINA …
 
 ## Yargıtay 6. HD 2024/2597 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1085864800)
 
 Davacılar vekili dava dilekçesinde özetle; taraflar arasında...4.
 
@@ -192,6 +218,8 @@ SONUÇ: Yukarıda 1. bentte açıklanan nedenlerle davacı ve dahili davalılar�
 
 ## Yargıtay 6. HD 2024/2596 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1085861400)
+
 İlk derece mahkemesince, arsa payı karşılığı inşaat sözleşmesinden kaynaklanan fesih nedeni ile uğranılan zararların tazmini davasıda yapılan yargılama sonucunda; davanın reddine karar verilmiştir.
 
 …
@@ -203,6 +231,8 @@ SONUÇ: Yukarıda açıklanan nedenlerle Ankara Bölge Adliye Mahkemesi 27. Huku
 
 ## Yargıtay 6. HD 2024/2461 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1085695000)
+
 İlk derece mahkemesince, arsa payı karşılığı inşaat sözleşmesinin feshi ve alacak davasında, taraflar arasındaki sözleşme adi yazılı yapılmış ise de davacının sözleşme gereğince edimin yerine getirerek taşınmazı davalı şirket yetkilisine devrettiği, davalı yüklenici şirketin edimini yerine getirmediği gerekçesiyle kat karşılığı inşaat yapım sözleşmesinin feshine, taleple bağlılık ilkesi gereği 10.000,00 TL'nin dava tarihinden itibaren işleyecek yasal faiziyle birlikte davalılardan müştereken ve müteselsilen tahsili ile davacıya verilmesine karar verilmiştir.
 
 …
@@ -210,6 +240,8 @@ SONUÇ: Yukarıda açıklanan nedenlerle Ankara Bölge Adliye Mahkemesi 27. Huku
 SONUÇ: Yukarıda açıklanan nedenlerle, Ankara Bölge Adliye Mahkemesi 27. Hukuk Dairesi kararına ilişkin davalılar vekilinin tüm temyiz sebeplerinin reddiyle usul ve kanuna uygun bulunan hükmün ONANMASINA …
 
 ## Yargıtay 6. HD 2024/2393 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1085492000)
 
 Davacı vekili dava dilekçesinde özetle; müvekkili ile davalı idare arasında 21/08/2017 tarihli Kışla Sosyal Yaşam Merkezi yapım işi konulu sözleşme imzalandığını, ancak inşaat sahasında bulunan mevcut işletmenin tahliye işlemleri, havanın fen noktasında çalışılamayan süreleri de dikkate alındığından müvekkiline 174 gün süre uzatımı verilmesi gerekirken davalı idare tarafından 70 gün süre uzatımı verildiğini, bununla birlikte revize projelerinden ve idarelerden izin alma süreçlerinden kaynaklı da kendilerine süre verilmesi gerekirken verilmediğini, ülkemizde yaşanan olumsuz ekonomik dalgalanmalar nedeni ile 12/09/2018 tarih, 2018/9 sayılı Cumhurbaşkanlığı Genelgesi ve Çevre ve Şehircilik Bakanlığı Yerel Yönetimler Genel Müdürlüğü’nün 26/10/2018 tarihli Tasarruf Tedbirleri yazısına göre ihalesi yapılmamış ya da ihalesi yapılmış ancak başlanmamış veya başlama aşamasındaki projelerin askıya alınması, bu ihalelerle ilgili yüklenicilere mali ve hukuki anlamda olumsuz sonuçlar doğurabilecek talep ve işlemlerden kaçınılması gerektiğinin belirtildiğini, ancak davalı idarenin iş programının gerisinde kalınması nedeni ile sözleşmeyi 14/01/2019 tarihli yazısı ile feshettiğini, sözleşmenin
 haksız olarak feshedildiğinin tespiti ile haksız feshin geçersizliğine, sözleşmenin devamına karar verilmesini, sözleşme kapsamında verilen 2.178.000,00 TL bedelli teminat mektuplarının nakde çevrilmemesi için ihtiyati tedbir kararı verilmesini talep etmiştir.

@@ -22,6 +22,8 @@ uyari: "Derleyenin seçtiği alıntılardır; kararın tamamı değildir. Künye
 
 ## Yargıtay 6. HD 2023/1275 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/894475500)
+
 Davacı vekili temyiz dilekçesinde özetle; sözleşmede bitim tarihine dair hüküm bulunmadığını, dolar kurunun aşırı derecede artmış ve pandemi süreci girmiş olduğunu, inşaata çalışan işçilerin kovulduğunu, çalışmaların engellendiğini, müvekkilinin inşaatı durdurmak zorunda kaldığını, davalı yanca tek taraflı olarak sözleşmenin feshedildiğini, davalının müvekkiline vermesi gereken taşınmazların bazılarını 3. kişilere satmasının sözleşmeye aykırı olduğunu, bu eylemlerle müvekkilinin alacağının muaccel hale geldiğini, davalının dürüstlük kuralına aykırı kötü niyet olarak değerlendirilebilecek eylemler içerisinde bulunduğunu belirterek kararının bozulmasını talep etmiştir.
 
 …
@@ -37,12 +39,16 @@ Temyiz olunan Bölge Adliye Mahkemesi kararının 6100 sayılı Kanunun 370 nci 
 
 ## Yargıtay 3. HD 2023/1012 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/964428700)
+
 Uyuşmazlığa konu "Gayrimenkul Pay Ortaklığıdır" başlıklı sözleşmeler incelendiğinde;
 "Sözleşmenin Tarafları" başlıklı bölümde, davalı şirketin temsilci, sözleşmeyi imzalayan davacıların ise pay sahibi olarak tanımlandığı, "Sözleşme Konusu" başlıklı bölümün 1. maddesinde; temsilcinin önceden satın alınan arsa vasıflı bina yapımına uygun gayrimenkule emanet usulü ile alınacak ve inşa edilecek daireyi pay sahibine hissesi oranında taksimini yapacağı, 3. maddesinde; pay sahibi tarafından temsilcinin banka hesabına yatırılan para ile ortaklık payının tamamlandığı, arsa, proje, ruhsat bedeli olarak ayrıca bir bedelin söz konusu olmadığı, 4. maddesinde; ödenecek ortaklık payı karşılığında brüt 110 m² (3+1) bir adet dairenin pay sahibine teslim edileceği, 7. maddesinde; pay sahibinin işbu ortaklıkta temsilci tarafından noter onaylı vekaletname ile temsil olunacağı, 8. maddesinde; pay sahibinin, temsilcinin aldığı temsil yetkisi uyarınca kat karşılığı inşaat sözleşmesi imzalayacağı, 9. maddesinde; sözleşme konusu inşaata müteahhide yer teslimi yapıldıktan sonra başlanacağı, 10. maddesinde; sözleşme gereğince Gayrimenkul Pay Ortaklığı şeklinde inşa edilecek dairelerin inşaata başlandıktan 30 ay sonra teslim edileceği hükümlerine yer verilmiştir.
 Açıklanan sözleşme hükümleri, 818 sayılı Kanun'un 18 inci (6098 sayılı Kanun'un 19 uncu) maddesi ışığında değerlendirildiğinde; davacıların konut ihtiyaçlarını karşılamak amacıyla, daha önceden satın aldığı taşınmaz için davalı şirket tarafından oluşturulan pay ortaklığına katıldıkları, daire bedeli olarak belirlenen tutarın sözleşmenin 3. maddesi uyarınca davacılar tarafından davalı şirketin banka hesabına yatırıldığı, anılan madde hükmü uyarınca davacıların zarara katılmayacakları, davacıların dairelerin inşa edilmesi için yüklenici ile arsa payı karşılığı inşaat sözleşmesini ve diğer işlemleri yapması için davalı şirkete noter onaylı vekaletname vereceği, buna göre sözleşmenin temelinde temsil sözleşmesini de barındıran birden fazla sözleşmenin oluşturduğu karma nitelikli atipik sözleşme olarak ortaya çıktığı, sözleşmenin imzalanmasından sonra davalı şirket tarafından önce davacılara taşınmazdan pay devri yapıldığı, İstanbul 17. Noterliğince düzenlenen 18.08.2014 tarihli ve 25625 yevmiye sayılı tutanakla;
 (davacıların da aralarında yer aldığı) pay sahipleri arasında yapılan kura ile yaptırılacak olan 529 adet 3+1 niteliğindeki bağımsız bölümün kime ait olacağının belirlendiği, 09.08.2018 tarihinde gerçekleştirilen kat irtifakı tesisi işlemi uyarınca paylara isabet eden bağımsız bölümlerin (kura ile belirlenen) pay sahipleri adlarına tapuya tescil edildiği, taşınmazın bulunduğu yörede imar planlarının iptal edilmesi üzerine davalı şirketin davacılardan almış olduğu vekaletnamelere istinaden imzalamış olduğu arsa payı karşılığı inşaat sözleşmesinin feshedildiği, akabinde davalı şirketin pay ortaklığına konu dairelerin yapımını üstlendiği, gelinen son noktada taraflar arasında arsa payı karşılığı inşaat sözleşmesine dönüşen sözleşmede davacıların arsa sahibi, davalı şirketin ise yüklenici sıfatıyla yer aldığı anlaşılmaktadır.
 
 ## Yargıtay 6. HD 2023/812 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/897390500)
 
 Davacı-bileşen davada davalı yüklenici vekili temyiz dilekçesinde özetle; müvekkilinin sözleşme ile bağlı kalarak belirtilen tarihten önce iskan ruhsatını alıp dairelerin hukuken teslimini davalılara yapmış olmasına rağmen davalılarca dairenin devredilmediğini, ceza-i şart alacağının kabulü gerektiğini, bölge adliye mahkemesinin hüküm fıkraları arasında çelişki oluştuğunu, arsa sahibinin süresi içinde ödemezlik definde bulunmadığını, hukuki dinlenilme hakkının ve aleniyet ilkesinin ihlal edildiğini, tescil talebinin kabulüne karar verilmiş olmasına rağmen dava açılmasında kusur yüklenicideymiş gibi karşı tarafın alacaklarını ödemek kaydıyla tescile karar verilmesinin hatalı olduğunu belirterek, asıl davanın kabulü ile birleşen davanın reddi hususunda kararın bozulmasını talep etmiştir.
 
@@ -57,6 +63,8 @@ Temyizen incelenen karar, tarafların karşılıklı iddia ve savunmalarına, da
 Temyiz olunan Bölge Adliye Mahkemesi kararının 6100 sayılı Kanunun 370 nci maddesinin birinci fıkrası uyarınca ONANMASINA …
 
 ## Yargıtay 6. HD 2023/623 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/891254000)
 
 Davalı arsa sahibi vekili cevap dilekçesinde; maliki olduğu dava konusu taşınmaz üzerinde bina yapılması için müteahhit ... ile arsa payı karşılığı inşaat sözleşmesi yaptığını, inşaat bittiğinde sözleşme gereğince müteahhide verilmesi gereken dairelerin tapuda devri için gerekli işlemleri yaptıklarını ve söz konusu dairelerin müteahhit tarafından teslim alındığını, davacı taleplerinin gerçeği yansıtmadığını, davacı olan şirket ile aralarında hiçbir sözleşme veya anlaşma bulunmadığını, davacı şirket ile ...'nın kendi aralarında anlaştıklarını, kendisinin bu anlaşmadan haberi olmadığını, davanın öncelikle husumet yönünden reddini istemiş, ayrıca davacı şirkete gerek faturadan kaynaklanan, gerekse inşaat sözleşmesi nedeniyle hiçbir borcu bulunmadığını belirterek davanın reddini istemiştir.
 
@@ -78,6 +86,8 @@ Yüksek Özel Daire Sayın Çoğunluğunca, karar düzeltme talebi kabul edilere
 
 ## Yargıtay 6. HD 2023/265 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/873131100)
+
 Davacı vekili dava dilekçesinde; müvekkillerinin düzenleme şeklinde taşınmaz satış vaadi ve arsa payı karşılığı inşaat sözleşmesi imzaladıklarını, müvekkillerine ait taşınmazların gerek mevcut durumu, gerekse tevhit ifraz sonrası oluşmuş veya oluşacak yeni tapu kayıtları üzerinde bir binayı inşa etmek koşuluyla davalı şirkete satış vaadi verildiğini, davalı şirketin sözü edilen taşınmaz üzerinde binayı plan ve projesine uygun olarak yapmayı taahhüt ettiğini, sözleşmeye göre sözleşme tarihinden itibaren en geç 24 ay içinde inşaatın sözleşmeye uygun, iskan edilebilir halde arsa sahibi müvekkillere teslim edilmesi gerekirken inşaatın bitirilememiş olduğu ve davalı şirketin inşaatı kaba seviyede terk ettiğini, müvekkillerin zararının arttığını belirterek imzalanan Samsun 2.
 
 …
@@ -94,6 +104,8 @@ Dosya arasına alınan Samsun 2. Noterliğinin 03.11.2016 tarih ve 30931 yevmiye
 Temyiz olunan Bölge Adliye Mahkemesi kararının 6100 sayılı Kanun'un 370 nci maddesinin birinci fıkrası uyarınca ONANMASINA …
 
 ## Yargıtay 1. HD 2022/8537 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/892249200)
 
 Davacı dava dilekçesinde, dava konusu taşınmazda davalı ile ortak malik olduklarını, taşınmazdaki ortaklığın satış suretiyle giderilmesine karar verildiğini, dava konusu taşınmazda davalıya ait yapının yürürlükte bulunan imar planı uyarınca günü birlik alana tekabül ettiğini ve sahil şeridi içerisinde yer aldığını, bu yerde yapı yapılmasının mümkün olmadığını, 3621 sayılı Kanun’un 8 inci maddesine aykırılık olduğunu ve ilgili Yönetmelik uyarınca da müktesep hakkı olmadığını ileri sürerek davalının müdahalesinin meni ve yapının kaline karar verilmesini istemiştir.
 
@@ -122,6 +134,8 @@ Açıklanan nedenlerle, davacı vekilinin yerinde görülen temyiz itirazların�
 
 ## Yargıtay 7. HD 2022/6043 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/829497800)
+
 Davacı vekili, davacının Bingöl ili, Merkez ilçesi, ...
 
 …
@@ -142,6 +156,8 @@ SONUÇ: Yukarıda açıklanan nedenle, Adalet Bakanlığı Hukuk İşleri Genel 
 
 ## Yargıtay 6. HD 2022/4853 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/839525200)
+
 İlk derece mahkemesince, yapı ruhsatının verilmesinden yaklaşık 23 ay sonra yapılan keşifte dava konusu taşınmazın boş arsa olduğu, üzerinde herhangi bir inşaat faaliyeti bulunmadığı, yüklenici firma dışındaki diğer davalıların da kayden oluşturulan ancak fiziken bulunmayan bağımsız bölümlerden taşınmaz satın almış oldukları görülse de yapılan satış işlemlerinde davalı yüklenici firma yetkilisi ...'un vekil olarak işlemleri yürüttüğü, davacı tarafından diğer davalılara yapılmış gerçek bir satış olmadığı gibi davacının satış işlemlerine karşılık aldığı herhangi bir para bulunmadığı gerekçesiyle, davanın kabulüne karar verilmiştir.
 
 …
@@ -156,6 +172,8 @@ Somut olayda, 12.10.2015 tarihli düzenleme şeklinde taşınmaz satış vaadi v
 SONUÇ: Yukarıda (1) numaralı bentte açıklanan nedenlerle, Bursa Bölge Adliye Mahkemesi 10. Hukuk Dairesinin 15.09.2021 tarih ve 2021/55 E., 2021/1289K. sayılı kararının kaldırılarak, ilk derece mahkemesi kararının BOZULMASINA …
 
 ## Yargıtay 6. HD 2022/3957 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/819229800)
 
 Davacılar vekili dava dilekçesinde özetle; müvekkilleri ile davalılar ... ve ...’un da aralarında olduğu arsa sahipleri ile davalı ... Ltd. Şti. arasında 09.08.1995 tarihli arsa payı karşılığı inşaat sözleşmesi imzalandığını, arsa sahiplerinin farklı parsellerdeki taşınmazlarının birleştirilerek tek parsel oluşturulduğunu, sözleşme gereğince inşaat ruhsatının alınmasından itibaren 30 ay içerisine tamamlanması gereken inşaatın tamamlanmadığını, bir kısım davalıların arsa sahiplerinden pay satın aldıklarını, taşınmaz üzerinde kat irtifakı tesis edildiğinden ortaklığın giderilmesini isteyemediklerini, sözleşmede arsa sahibi olan .....,....,....,...., ve...’nın kat irtifakı maliki olmadıklarını ileri sürerek anılan sözleşmenin feshine ve kat irtifakının sona ermesine karar verilmesini talep ve dava etmiştir.
 
@@ -172,6 +190,8 @@ SONUÇ: Yukarıda açıklanan nedenle davacılar vekili ile dahili davalı TMSF 
 
 ## Yargıtay 7. HD 2022/2453 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/760727700)
+
 Davalı ... Alüminyum Sanayi ve Ticaret Anonim Şirketi vekili; ipoteğin kaldırılması için davacı şirket tarafından hiçbir neden öne sürülmediğini, ipotek hakkının devamının kanun gereği olduğunu, huzurdaki davanın reddine karar verilmesi gerektiğini savunmuştur.
 
 …
@@ -187,6 +207,8 @@ Yargılama sırasında Maltepe Tapu Müdürlüğü, 6306 sayılı Afet Riski Alt
 Yukarıda açıklanan nedenlerle davalı ... vekili ve davalı ... Alüminyum Sanayi ve Ticaret Anonim Şirketi vekilinin temyiz itirazlarının kabulü ile 6100 sayılı Hukuk Muhakemeleri Kanununun 371. maddesi uyarınca İstanbul Bölge Adliye Mahkemesi 7. Hukuk Dairesi kararının BOZULMASINA …
 
 ## Yargıtay 6. HD 2022/1554 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/759236900)
 
 Mahkemece, tüm arsa sahiplerinin davaya dahil edilerek, taraf teşkilinin sağlanması yönündeki bozmaya uyularak yapılan yargılama sonucunda, iddia, savunma, benimsenen bilirkişi raporu ve dosya kapsamına göre, arsa üzerinde, arsa sahiplerinin halen kullandığı yıkılması gereken eski bir bina bulunduğu, yüklenici tarafından gönderilen ihtarlara rağmen, bir grup arsa sahibinin bu eski binayı tahliye etmedikleri, böylelikle arsa sahiplerinin arsanın teslim yükümlülüğünü yerine getirmedikleri, ayrıca işlemlerin yapılabilmesi için verdikleri vekaletten yükleniciyi azlettikleri, davacıların fesih talebinin yüklenicinin temerrüdüne dayandığı, açıklanan nedenlerle, inşaatın arsa sahiplerinden kaynaklanan nedenlerle yapılamadığının ortaya çıktığı, davalı yüklenicinin feshi kabul etmediği, davacı arsa sahiplerinin fesih taleplerinin haklı olmadığı gerekçesiyle, asıl ve birleşen davaların reddine karar verilmiştir.
 

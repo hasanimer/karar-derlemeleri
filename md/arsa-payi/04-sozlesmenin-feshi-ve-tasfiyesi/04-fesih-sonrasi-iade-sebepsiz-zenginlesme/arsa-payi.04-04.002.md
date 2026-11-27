@@ -21,6 +21,8 @@ uyari: "Derleyenin seçtiği alıntılardır; kararın tamamı değildir. Künye
 
 ## Yargıtay 15. HD 2012/5776 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/525387700)
+
 …
 
 ... İli ... İlçesi ... Mahallesi tapunun ada no 4032 parsel no 17’de kayıtlı taşınmaz davacılara aittir. Davalı yüklenici kooperatif ile davacılar arasında ... 2. Noterliği’nde 26.06.1998 tarih ve 19006 sayılı arsa payı karşılığı inşaat yapım sözleşmesi düzenlenmiş, yüklenici kooperatif bu yere inşaat yapım işini üstlenmiştir. Sözleşme uyarınca arsaya 15 blok üzerinden 180 daire yapılacağı 72 dairenin arsa maliklerine 108 dairenin yüklenici kooperatife ait olacağı, inşaatın 5 yıllık süre içinde bitirileceği, arsa sahiplerinin %5’lik arsa payını kooperatife devredeceği kararlaştırılmıştır. Davacılar arsanın 54/1440 payını davalı kooperatife devretmişlerdir. Yüklenici kooperatif işe başlamış, edimini kısmen ifa etmiştir. Ancak inşaatı önemli oranda tamamlayamamış, işi bırakmıştır. Yapılan imalâtın %18,30 seviyesinde olduğu mahkemece alınan bilirkişi heyeti raporu ile saptanmıştır. Davacı arsa malikleri sözleşmenin geriye etkili feshi ile tapu iptâli ve tescil, davalı yüklenici ise imalât bedelini talep etmiştir. Geriye etkili fesihte yüklenicinin iade etmesi gereken, iş sahibinin (arsa sahibinin) önceden ödediği iş bedelidir.
@@ -32,6 +34,8 @@ SONUÇ:Yukarıda 1. bentte açıklanan nedenlerle davacıların sair temyiz itir
 
 ## Yargıtay 15. HD 2012/4531 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/766499800)
+
 Arsa payı karşılığı inşaat sözleşmesinin geriye etkili sonuç doğurur şekilde feshi halinde; Borçlar Kanunu'nun 61 ve izleyen hükümleri gereğince ve "haksız iktisap kuralları uyarınca" sözleşmenin tarafları, karşılıklı olarak birbirlerine kazandırdıklarının ve verdiklerinin iadesini talep edebilirler. Bu kapsamda; yüklenici de sözleşme ve eklerine, yapı ruhsatına ve 3194 Sayılı İmar Yasası ile bağlı mevzuatına uygun şekilde yaptığı inşaatın; başka bir anlatımla, “yasal yapının" feshin kesinleştiği tarih itibariyle değerini arsa sahibi ya da sahiplerinden isteyebilir. İmar Yasası ve bağlı mevzuatına ve yapı ruhsatına aykırı olarak yapılan yapı yasal hale getirilmedikçe “kaçak yapı” sayılır ve kaçak yapı ise, ekonomik değer ifade etmediğinden ve yıkılarak kaldırılması gerektiğinden, arsa sahiplerinin malvarlığında artış sağlamaz ve dolayısıyla yüklenici tarafından da bedeli istenemez.
 
 …
@@ -39,6 +43,8 @@ Arsa payı karşılığı inşaat sözleşmesinin geriye etkili sonuç doğurur 
 SONUÇ: Yukarıda 1. bentte açıklanan nedenlerle davalılar vekilinin sair temyiz itirazlarının reddine; 2. bentte açıklanan sebeplerle diğer temyiz itirazlarının kabulüne ve kararın davalılar yararına BOZULMASINA …
 
 ## Yargıtay 15. HD 2011/3284 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/766542600)
 
 Davacılar 1-..., 2-..., 3-(...)... (...) ...ile davalılar 1-... İnş.
 
@@ -54,11 +60,15 @@ SONUÇ: Yukarıda açıklanan nedenlerle davacıların karar düzeltme istemleri
 
 ## Yargıtay 15. HD 2010/4991 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/774720800)
+
 Taraflar arasındaki Kat Karşılığı Sözleşmesinin geriye etkili olarak feshine karar verildiğine göre, tarafların sebepsiz zenginleşme hükümlerine göre birbirlerine verdiklerini geri almaları gerekir. Sözleşmenin feshi davasında tapu iptâli tescil kararı verilmekle arsa sahibi yükleniciye verdiği taşınmazını geri almıştır. Davacı yüklenici bu davada dava dilekçesinde açıklandığı şekilde arsa sahibine ödemeler yaptığını belirterek bu konularda istemde bulunduğuna göre, yüklenicinin bu istemlerinin sebepsiz zenginleşme hükümlerine göre değerlendirilip bir sonuca varılması gerekirken, yüklenicinin bu yönlere ilişkin isteminin de reddine karar verilmesi doğru olmamış, kararın bozulması gerekmiştir.
 
 SONUÇ:Yukarıda 1. bentte açıklanan nedenlerle davalı ve karşı davacı arsa sahibinin tüm, davacı ve karşı davanın davalısı yüklenicinin sair temyiz itirazlarının reddine, 2. bent uyarınca kararın yüklenici ... yararına BOZULMASINA …
 
 ## Yargıtay 15. HD 2010/3065 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/776224900)
 
 Dava, arsa payı karşılığı inşaat yapım sözleşmesinin feshi ve tazminat istemlerine ilişkindir.
 
@@ -73,6 +83,8 @@ SONUÇ: Yukarıda 1. bentte açıklanan nedenlerle davacılar vekilinin sair tem
 
 ## Yargıtay 15. HD 2009/7247 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/860203700)
+
 Dava, eser sözleşmesine dayalı iş bedelinin istirdadı istemiyle yapılan takibe vaki itirazın iptâline ilişkindir.
 
 …
@@ -82,6 +94,8 @@ Takibe konu alacak taraflar arasında imzalanan kat karşılığı inşaat sözl
 SONUÇ: Yukarıda 1. bendde açıklanan nedenlerle davalıların diğer temyiz itirazlarının reddine, 2. bent uyarınca hüküm fıkrasının 2. bendinin tamamının karardan çıkartılmasına ve yerine 2. bent olarak “Koşulları oluşmadığından davacının icra inkâr tazminatı isteminin reddine” kelime dizininin yazılarak hükmün değişik bu şekliyle DÜZELTİLEREK ONANMASINA …
 
 ## Yargıtay 15. HD 2007/2825 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/16100600)
 
 Dava, arsa payı karşılığı inşaat yapım sözleşmesinin feshi nedeniyle imalat bedelinin tahsili istemine ilişkindir.
 
@@ -95,6 +109,8 @@ Sonuç: Yukarıda yazılı sebeplerle temyiz itirazlarının kabulü ile hükmü
 
 ## Kayseri BAM 4. HD 2023/618 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/899621900)
+
 Davalı tarafça SGK'ya hitaben sunulan 04.01.2019 tarihli dilekçe işe son verme iradesi taşımakta olup, fesih ihtarı niteliğindedir. Eldeki dava ise, fesih sonrası ödenmeyen imalat bedellerinin tahsiline ilişkindir. O nedenle, taşeronun imalat bedelinden dolayı yükleniciden herhangi bir alacağının olup olmadığının tespiti için taraflar arasında imzalanan sözleşmelerde kararlaştırılan bedellerin esas alınmasında zorunluluk vardır. Nitekim taraflar arasındaki sözleşmede iş bedeli daire olarak devir şeklinde ve kademeli ferağ ile kararlaştırılmıştır.Bu itibarla, sözleşmede belirlenen iş bedelinin götürü bedel olduğu anlaşılmaktadır.
 Yargıtay uygulamalarında, götürü bedelli eser sözleşmelerinde gerçekleştirilen imalâta göre yüklenicinin hak ettiği iş bedeli; ödenmeyen iş bedeli ya da iş sahibinin fazla ödemesi olup olmadığı ve miktarının, gerçekleştirilen imalâtın işin tamamına göre fiziki oranın tespiti ve bu oranın götürü bedele uygulanmak suretiyle hakedilen iş bedelinin hesaplanarak, kanıtlanan ödemeler düşülmek suretiyle belirleneceği kabul edildiği gözetilerek mahkemece yapılan hesabın buna uygun olup olmadığı değerlendirilmelidir.Bu kapsamda her ne kadar davalı taraf inşaatın seviyesine itirazları bulunmakta, bu konuda kendisinin talebiyle Kayseri 5.
 Sulh Hukuk Mahkemesinin 2019/7 D.iş sayılı dosyası üzerinden yaptırılan tespite dayanmakta ise de; bu tespite ilişkin dosya ve bilirkişi rapor örneğinin dosya içerisinde bulunmadığı anlaşılmıştır.Yine mahkemece aldırılan bilirkişi raporunda; dava tarihi itibariyle yapı yaklaşık birim fiyatları üzerinden hesap yapılarak imalat bedelinin tespit edildiği, sözleşme uyarınca davacı tarafa devredilen dairelerin dava tarihi itibariyle değerleri tespit edilerek imalat bedelinden mahsubu ile davacı alacağı tespit edilmiştir.Buna göre; fiziki oran suretiyle hesap yapılmadığı anlaşılmakla; bu durumda davalı tarafça yaptırılan Kayseri 5.
@@ -105,12 +121,16 @@ Kayseri 2. Asliye Ticaret Mahkemesi'nin 20/09/2022 gün ve 2019/250 Esas 2022/66
 
 ## İstanbul BAM 15. HD 2022/188 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/729615500)
+
 Olumlu zarar kapsamındaki eksik işler bedeli ve kira kaybı tazminatını talep edemez. Bu durumda tasfiyenin sebepsiz zenginleşme hükümlerine göre yapılarak sonucuna göre karar verilmesi gerekirken, davacının olumlu zarar kapsamındaki taleplerinin kabulüne karar verilmesi hatalı olmuştur. Birleşen davada da birleşen dava davacısı yüklenici, sözleşmenin feshi nedeniyle imalat bedelini ve kar kaybı zararını talep etmiştir. Mahkemece sözleşmenin feshinde yüklenicinin işi kusuru ile süresinde tamamlayıp teslim etmediğine yönelik kabulü doğru olup, yüklenici temerrüdünde kusurlu olduğundan kar kaybı zararını talep edemeyecek ise de imalat bedeli kusura bağlı olmadığından sözleşmeden dönme halinde TBK'nın 125/son maddesine göre imalat bedelini talep edebileceğinden yüklenicinin imalat bedelinin sebepsiz zenginleşme hükümlerine göre belirlenip hükmedilmesi gerekir.
 Bu nedenle birleşen dava yönünden imalat bedeline ilişkin talebinde reddine karar verilmesi hatalı olmuştur.Açıklanan nedenlerle, asıl dava davalı, birleşen dava davacı vekilinin istinaf talebinin kabulü ile usul ve yasaya uygun bulunmayan yerel mahkeme kararının 6100 sayılı HMK'nın 353/1-a-6 maddesi gereğince kaldırılarak yukarıda açıklanan şekilde inceleme ve araştırma yapıldıktan sonra oluşacak uygun sonuç dairesinde bir karar verilmesi için dosyanın yerel mahkemesine gönderilmesine karar verilmesi gerekmiştir.
 
 HÜKÜM: Gerekçesi yukarıda açıklandığı üzere; 1-Asıl dava davalı, birleşen dava davacı vekilinin istinaf başvurusunun KABULÜNE, 2-İstanbul 11. Asliye Ticaret Mahkemesi'nin 24/01/2019 tarih, 2014/728 Esas, 2019/16 Karar sayılı kararının asıl ve birleşen dava yönünden KALDIRILMASINA …
 
 ## İstanbul BAM 12. HD 2020/1221 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/615813700)
 
 …
 

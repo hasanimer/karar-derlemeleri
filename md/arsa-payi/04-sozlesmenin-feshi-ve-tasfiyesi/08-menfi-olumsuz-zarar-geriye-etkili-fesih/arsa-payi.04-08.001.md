@@ -21,6 +21,8 @@ uyari: "Derleyenin seçtiği alıntılardır; kararın tamamı değildir. Künye
 
 ## Yargıtay HGK 2023/118 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/897478600)
+
 İlk Derece Mahkemesince verilen kararın taraf vekilleri tarafından istinaf edilmesi üzerine, Bölge Adliye Mahkemesince davacı karşı davalı vekilinin istinaf başvurusunun esastan reddine, davalı karşı davacılar vekilinin asıl davaya yönelik istinaf başvurusunun usulden reddine, karşı davaya ilişkin istinaf başvurusunun kabulüne, İlk Derece Mahkemesinin kararının kaldırılmasına, asıl davanın kısmen kabulü ile davanın menfi zararla sınırlı olarak kısmen kabulüne, müspet zarar talebinin reddine, karşı davanın kabulü ile taraflar arasında düzenlenen arsa payı karşılığı inşaat sözleşmesinin geriye etkili olarak feshine karar verilmiştir.
 
 …
@@ -93,6 +95,8 @@ Temyiz olunan mahkeme kararının davacı yararına BOZULMASINA …
 
 ## Yargıtay 6. HD 2025/2416 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1186936500)
+
 Davacı vekili dava dilekçesinde; davacının hissedarı olduğu taşınmaza davalı tarafından bina yapımı için taraflar arasında 02.06.2016 tarihinde arsa payı karşılığı inşaat sözleşmesi yapıldığını ve davalının taşınmazdaki hissedarların tamamıyla sözleşme yaptıktan sonra 36 içinde inşaatı ruhsatını alacağının ve ruhsat tarihinden itibaren de 36 ay içinde inşaatı teslim edeceğinin kararlaştırıldığını ancak 6 yıla yakın bir süre geçmiş olmasına rağmen davalının halen inşaat ruhsatını dahi almadığını, edimlerini yerine getirmesinin mümkün olmadığını ileri sürerek arsa payı karşılığı inşaat sözleşmesinin geriye etkili olarak feshini, müvekkili arsa sahiplerinin uğramış oldukları menfi zararın tahsilini talep etmiştir.
 
 …
@@ -108,6 +112,8 @@ Dava, arsa payı karşılığı inşaat sözleşmesinin geriye etkili olarak fes
 Temyiz olunan Bölge Adliye Mahkemesi kararının BOZULMASINA …
 
 ## Yargıtay 6. HD 2025/1249 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1161834000)
 
 1\.
 
@@ -129,6 +135,8 @@ Temyiz olunan Bölge Adliye Mahkemesi kararının BOZULMASINA …
 
 ## Yargıtay 3. HD 2025/891 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1133273200)
+
 Davacı vekili; müvekkilinin davalı ile imzaladığı sözleşme gereğince 109 numaralı ofisi satın aldığını ve tüm edimini yerine getirdiğini, yüklenici olan davalının arsa sahibi ile yaşadığı anlaşmazlık nedeniyle arsa sahibi tarafından davacının aldığı bağımsız bölümün tapusunun üçüncü kişiye devredildiği, davacının tapusunu alma imkânı kalmadığını, bu nedenle sözleşmenin aynen ifasından vazgeçerek kaim bedelini yükleniciden isteme hakkına haiz olduğunu, davacının sahip olacağı taşınmazın bedelinin yaklaşık 850.000,00 TL civarında olacağını ileri sürerek; fazlaya dair hakları saklı kalmak kaydıyla uğradığı zarar karşılığı taşınmazın rayiç bedeli olarak şimdilik 1.000,00 TL'nin ticari avans faizi ile birlikte davalıdan tahsili ile davacıya ödenmesini talep etmiş, ıslah dilekçesi ile alacak taleplerini taşınmazın dava tarihindeki değeri olan 800.000 TL’ye yükseltmiştir.
 
 …
@@ -148,6 +156,8 @@ Hal böyle olunca, Mahkemece; davacının talep ettiği rayiç değerin yerinde 
 …
 
 ## Yargıtay 6. HD 2025/787 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1142864800)
 
 İlk Derece Mahkemesince bozmaya uyularak verilen karar davalı ... vekilince duruşma istemli temyiz edilmekle; kesinlik, süre, temyiz şartı ve diğer usul eksiklikleri yönünden yapılan ön inceleme sonucunda, 11.02.2025 tarihinde duruşma yapılmasına ve duruşma gününün taraflara davetiye ile bildirilmesine karar verilmiştir.
 
@@ -169,6 +179,8 @@ Yukarıda açıklanan nedenlerle, davalı ... vekilinin temyiz itirazlarının k
 
 ## Yargıtay 6. HD 2025/177 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1131510100)
+
 Davalı vekili; taraflar arasında yapılan sözleşmenin bir eser sözleşmesi olduğu için beş yıllık zamanaşımına tabi olduğunu, talep konusu alacağın zamanaşımına uğradığını savunarak davanın reddini talep etmiştir.
 
 İlk Derece mahkemesince; sözleşmenin 1998 yılında yapıldığı ve davacılara ait arsa paylarının 2000 yılında davalıya devredildiği, dolayısıyla sebepsiz zenginleşme yönünden kanunda öngörülen 2 ila 10 yıllık zamanaşımı süresinin dolduğu gerekçesiyle davanın zamanaşımı nedeniyle reddine karar verilmiştir.
@@ -182,6 +194,8 @@ Sözleşmenin geçersizliği durumunda taraflar sözleşmenin ifasını isteyeme
 SONUÇ: Yukarıda açıklanan nedenlerle davacılar vekilinin temyiz itirazlarının kabulüyle HMK'nın 373/1. maddesi gereğince İzmir Bölge Adliye Mahkemesi 14. Hukuk Dairesinin 21.11.2024 tarih 2024/1663 E., 2024/1647 K. sayılı kararının KALDIRILARAK, İzmir 3. Asliye Hukuk Mahkemesi’nin 05.94.2024 tarih ve 2023/409 E., 2024/169 K. sayılı kararının BOZULMASINA …
 
 ## Yargıtay 6. HD 2024/5200 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1121419800)
 
 Davacı vekili dava dilekçesinde özetle, taraflar arasında imzalanan kat karşılığı inşaat sözleşmesinin, davalı arsa sahiplerince haksız olarak feshedildiğini belirterek, sözleşmenin feshinin haksız olduğunun feshinin tespiti ile, kar kaybı zararının tazmini ve sözleşme gereğince davalılara ödenen kira yardımı ve emlak vergisi ödemelerinin iadesini talep etmiştir.
 
@@ -199,6 +213,8 @@ SONUÇ: Yukarıda açıklanan nedenlerle İstanbul Bölge Adliye Mahkemesi 53. H
 
 ## Yargıtay 6. HD 2024/2955 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1086917800)
+
 Davalı vekili cevap dilekçesinde özetle; sözleşmenin feshi konusunda davacı ile karşılıklı olarak gönderdikleri ihtarnameler ile mutabık kaldıklarını, davacının ihtarnamesindeki emlak komisyon bedeli dışındaki ödeme taleplerini kabul ettiklerini, komisyon bedeli yönünden ise fatura sunulması halinde ödeme yapacaklarını bildirdiklerini, açılan dava ile ihtarnamedeki taleplerin genişletildiğini ve kabul etmediklerini savunarak, davanın reddini istemiştir.
 
 İlk Derece Mahkemesince; kat karşılığı inşaat sözleşmelerinin niteliği gereği öncelikli edim borçlusu arsa ve iş sahibi olup, arsayı inşaata elverişli şekilde teslim etmedikçe müteahhitten işe başlama borcunu yerine getirmesini bekleyemeyeceğinden, bu nedenle sözleşmenin feshine neden olunmuş ise yüklenicinin bu olay nedeniyle uğramış olduğu olumlu zararlarını da karşılamak yükümlülüğü altında olduğu, 2016 senesinde davacı yan tarafından ihtar yolu ile davalı tarafa inşaatın yapılacağı alanın sözleşmeye uygun şekilde teslim edilmesi ve bu haliyle inşaata başlanılacağının bildirildiği bu nedenle bilirkişi raporu ile hesaplanan kazanç kaybı ve sözleşme masrafı tutarlarının davalılardan alınarak davacıya verilmesi gerektiği ve sözleşmenin yerine getirilmemesinin davacının kişilik haklarına saldırı niteliğinde bulunduğuna dair yeterli kanaat oluşmadığından manevi tazminat talebinin reddine karar verilmesi gerektiği gerekçesiyle, davanın davalı ... ... yönünden pasif husumet yokluğundan reddine, diğer davalılar aleyhine açılan tazminat davasının kabulüne ve manevi tazminat davasının reddine karar verilmiştir.
@@ -212,6 +228,8 @@ Davacı tarafından dava öncesinde davalılara gönderilen ihtarname ile taşı
 Sakarya Bölge Adliye Mahkemesi 5. Hukuk Dairesi’nin ilk derece mahkemesince verilen kararın kaldırılarak yeniden esas hakkında verdiği karar usul ve yasaya aykırı görüldüğünden kararın BOZULMASINA …
 
 ## Yargıtay 6. HD 2023/3480 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/982974500)
 
 İlk Derece Mahkemesince bozmaya uyularak yeniden yapılan yargılama sonucunda; davanın reddine karar verilmiştir.
 
@@ -231,6 +249,8 @@ ayakta bulunduğu ve devam ettiği anlaşılmakla, mahkemece yüklenicinin yasal
 Davacı-birleşen dava davalı arsa sahibi vekilinin Bölge Adliye Mahkemesi kararına yönelik temyiz itirazının kabulü ile Bölge Adliye Mahkemesi kararının "B)İLK DERECE MAHKEMESİ YÖNÜNDEN" başlığı altında 5 numaralı fıkrasında yer alan "... 38.569,75 TL nispi ..." ibaresinin kaldırılarak yerine "... 5.100,00 TL maktu" ibaresinin yazılması suretiyle hükmün DÜZELTİLEREK ONANMASINA …
 
 ## Yargıtay 6. HD 2023/2776 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/950798800)
 
 Davacı vekili dava dilekçesinde özetle; ... Beldesi, ... Mahallesinde bulunan 362 ada 1 parsel, 363 ada 1 parsel, 364 ada 1 parsel ve 365 ada 1 parsel sayılı taşınmazlara ilişkin yapılan arsa payı karşılığı inşaat sözleşmesinin feshedildiğini, feshedilen sözleşme gereğince davacının proje bedeli olarak 245.000,00 TL, şantiye kurulması için 18.000,00 TL, kırıcı harfiyat çalışması için 187.000,00 TL, duvar imalat bedeli olarak 50.000,00 TL, su elektrik harcamaları olarak 5.000,00 TL, yakıt ve konaklama masrafı olarak 25.000,00 TL harcama yapıldığını belirtmiş, davacı tarafından sözleşmenin ifası için harcanan bedelin fazlaya ilişkin hakları saklı tutularak 10.000,00 TL'sinin davalıdan dava tarihinden itibaren işleyecek ticari faizi ile birlikte davalıdan tahsiline karar verilmesini talep etmiştir.
 

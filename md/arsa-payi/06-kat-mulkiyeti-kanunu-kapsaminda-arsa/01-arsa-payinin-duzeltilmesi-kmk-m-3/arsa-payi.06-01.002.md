@@ -21,11 +21,15 @@ uyari: "Derleyenin seçtiği alıntılardır; kararın tamamı değildir. Künye
 
 ## Yargıtay 18. HD 2008/2216 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/874598900)
+
 Sayılı Kat Mülkiyeti Yasasının 3. maddesinin ikinci fıkrasına göre kat mülkiyetli yada kat irtifaklı anataşınmazda arsa paylarının bağımsız bölümlerin değerleri ile orantılı olarak tahsis edilmediği hallerde her kat maliki veya kat irtifak sahibi, arsa paylarının yeniden düzenlenmesi için mahkemeyi başvurabilir. Birleştirilen davanın davacıları dava dilekçesinde açıkça arsa paylarının da düzeltilmesini istemedikleri halde HUMK'nun 74. maddesine aykırı olarak dava konusu anataşınmazın 7 nolu bağımız bölümün eklentisinin iptalinin yanında ayrıca ve bu tür bir istemi de bulunmadığı halde anataşınmazdaki tüm bağımsız bölümlerin arsa paylarının yeniden düzenlenmesine karar verilmiş olması doğru görülmemiştir.
 
 Bu itibarla yukarıda açıklanan esaslar gözönünde tutulmaksızın yazılı şekilde hüküm tesisi isabetsiz, temyiz itirazları bu nedenlerle yerinde olduğundan kabulü ile hükmün HUMK.nun 428.maddesi gereğince BOZULMASINA …
 
 ## Yargıtay 18. HD 2006/7364 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/16224500)
 
 Mahkemece; dava dilekçesinde taşınmazdaki salt davacının 21, 29, 30 ve 2 numaralı bağımız bölümlerinin arsa paylarının düzeltilmesinin istenildiği ve istem gibi karar verildiği; bunların dışında kalan bağımsız bölümler dava konusu edilemediğinden arsa paylarının düzeltilmesinin yeni bir yargılamayı gerektirdiği gerekçesiyle tavzih isteminin reddine karar verilmiş; davacı vekili bu kararı temyiz etmiştir.
 
@@ -47,6 +51,8 @@ Bu itibarla yukarıda açıklanan esaslar gözönünde tutulmaksızın yazılı 
 
 ## Yargıtay 18. HD 2006/5350 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/883629400)
+
 Dava, davalının bağımsız bölümüne haksız elatmanın önlenmesi, karşı dava ise tarafların bağımsız bölümlerinin arsa paylarının yeniden düzenlenmesi istemlerine ilişkindir.
 
 …
@@ -57,6 +63,8 @@ Bu inceleme yapılırken bağımsız bölümlerden herbirine özgülenen arsa pa
 Bu itibarla yukarıda açıklanan esaslar gözönünde tutulmaksızın yazılı şekilde hüküm tesisi isabetsiz, temyiz itirazları bu nedenlerle yerinde olduğundan kabulü ile hükmün HUMK.nun 428.maddesi gereğince BOZULMASINA …
 
 ## Yargıtay 18. HD 2005/3483 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/16206700)
 
 Davacı vekili dava dilekçesinde, anataşınmazın onaylı mimari projesinde gösterilen ve müvekkilinin satış vaadi sözleşmesi ile satın almış olduğu B Blok 11 nolu dükkana arsa payı ayrılmadığını ve tapuya da bağımsız bölüm olarak kaydedilmediğini ileri sürerek sözü edilen bağımsız bölüme arsa payı verilerek kat mülkiyeti kütüğüne tescil edilmesini, böylece arsa paylarının düzeltilmesini istemiştir.
 

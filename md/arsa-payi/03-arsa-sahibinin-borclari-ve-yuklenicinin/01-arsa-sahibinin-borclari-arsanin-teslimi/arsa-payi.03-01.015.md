@@ -38,6 +38,8 @@ Ankara 3. Asliye Ticaret Mahkemesinin 05/12/2024 gün ve 2023/468 E-2024/898 K s
 
 ## Ankara BAM 27. HD 2026/386 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1205054100)
+
 Parsel A Blok 15. Kat 57 No'lu bağımsız bölümün dava tarihi itibariyle değeri 1.100.000,00 TL olabileceği, ilgili bağımsız bölümün dava tarihi itibariyle zamanında teslim edilmemesinden dolayı kira tazminatının 60.949,00 TL olabileceği, ortak alan ve bağımsız bölümlerde yapılan değer artırıcı imalatlar nedeniyle alacak hususunda taraflar arasında yapılan sözleşmenin ''13.2. Arsa Sahibin Hakları '' başlıklı kısmının 1. maddesi gereği bu hususta bir değerlendirme yapılmadığı, davalı/ karşı davacı yanın sorumluluğunda olup davacı/ karşı davalı tarafından yapılan ödemelere ilişkin alacak bakımından ise taraflar arasında yapılan sözleşmenin ''13.2.
 
 Arsa Sahibin Hakları'' başlıklı 2. maddesine göre tüm altyapı ödemelerinin davacı/ karşı davalı sorumluluğunda olduğu, yapılan ödemelerden bazılarının ise depozito ödemesi olduğu için site yönetiminin sorumluluğunda olduğu değerlendirilmiş olup karşı davaya ilişkin olarak ise geç teslimden dolayı kira tazminatı bakımından 2.207.158,73 TL ecrimisil bedeli olabileceği değerlendirmesi yapıldığı, eksik teslim nedeniyle tazminat ve alacak bakımından ise mevcut olan eksiklikler nedeniyle hesaplama yapmanın mümkün olmadığının açıklandığı, tarafların bilirkişi raporuna itiraz etmeleri üzerine eksiklikleri gidermek amacıyla dosyanın tekrar bilirkişiye tevdi edildiği ve 01/01/2023 tarihinde yeni bir bilirkişi raporunun düzenlendiği, bilirkişi raporunda özetle; gayrimenkul değerleme işleri yönünden 29/04/2022 tarihli kök raporda değişiklik yapılmasına gerek olmadığı, inşaat yönünden yapılan değerlendirmede projede olup da yerine getirilmeyen ve yapılan imalatlardan dolayı inşaat alacaklarının 455.000,00 TL olduğu, makine yönünden değerlendirmeler bakımından mekanik tesisat açısından değer artırıcı olduğu iddia edilen mekanik tesisat imalatlarına ait yeterli proje, bilgi ve belge olmadığı için
@@ -50,6 +52,8 @@ harcama ve değer artırıcı imalatlar nedeniyle yapılan masraflara ilişkin t
 Ankara Batı Asliye Ticaret Mahkemesinin 05/07/2024 gün ve 2020/306 Esas, 2024/747 Karar sayılı kararının HMK'nın 353/1-a -6 maddesi gereğince kaldırılmasına …
 
 ## İzmir BAM 14. HD 2026/186 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1193524100)
 
 Davalı .... A.Ş vekili cevap dilekçesinde özetle; dava dilekçesinde davanın sebebi olarak gösterilen Aydın 3.
 
@@ -92,6 +96,8 @@ Karşıyaka Asliye Ticaret Mahkemesi'nin 02.07.2025 tarih ve 2025/269 Esas, 2025
 
 ## İzmir BAM 14. HD 2025/1741 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1193072100)
+
 Arsa payı devri karşılığı inşaat sözleşmeleri taraflarına karşılıklı haklar ve borçlar yükler. Öncelikle üzerine inşaat yapılacak arsayı yükleniciye teslim etmesi gereken arsa sahipleri yüklenicinin karşı edimini yerine getirmesinden sonra, yükleniciye sözleşmeye uygun arsa veya kurulmuşsa kat irtifak tapusunu devretmekle yükümlüdür. Yüklenicinin temel borcu ise eseri (binayı) meydana getirmektir. Binanın inşasından maksat, yapının sözleşmeye, fen kurallarına ve amacına uygun imal edilmesidir. Yüklenici bu nitelikleri taşıyan bir bina meydana getirmişse, sözleşmede aksine hüküm bulunmayan hallerde yapının arsa sahibine tesliminde, sözleşmede ayrık hüküm varsa tesliminden önce ve ancak sözleşme koşullarına uygun oranda arsa payı veya bağımsız bölümün tescilini isteyebilir. Arsa payı karşılığı inşaat sözleşmesinin tarafı olan yüklenici, yukarıda sayılan edimleri yerine getirdiğinde, arsa sahibine karşı kazandığı kişisel hakları arsa sahibinin onayı gerekmeksizin üçüncü kişilere temlik edebilir. Yüklenicinin kişisel hakkını temellük eden üçüncü kişi de bu hakları yüklenicinin halefi olarak arsa sahibine karşı ileri sürme olanağına sahiptir.
 Yükleniciden temellük edilen kişisel hakkın dava edilerek arsa sahibine karşı ileri sürülmesi ya da yüklenicinin bu hakkını üçüncü bir kişiye devretmeden kendisinin tescil istemesi halinde mahkemece, tüm bu yönler üzerinde durulmalı, yüklenicinin edimini tam anlamıyla yerine getirip getirmediği öncelikle saptanmalıdır. Bütün bu araştırmalar sonunda eserin (binanın) arsa sahibinin reddedemeyeceği bir seviyeye getirildiği; ancak, yüklenicinin arsa sahibine gerek eksik ve ayıplı işlerden, gerekse sözleşme veya kanundan kaynaklanan nedenlerden dolayı borçlu bulunduğu ortaya çıkarsa, yükleniciye veya halefi olan üçüncü kişiye bunları yerine getirmek üzere uygun bir süre tanınmalı ya da olanaklı bulunursa karşılıkları para olarak depo ettirilerek, depo ettirilecek tutar arsa sahibine ödenmek üzere (birlikte ifa kuralı) kişisel hakların sonuçlarını meydana getirdiği düşünülüp, istem kabul edilerek tescil hükmü kurulmalıdır. (Yargıtay 15.HD. 2020/1701 E. 2021/2007 K. Sayılı ilamı da benzer niteliktedir.)
 
@@ -104,6 +110,8 @@ Kural olarak eser sözleşmelerinde yüklenicinin pay devrini isteyebilmesi içi
 Karşıyaka Asliye Ticaret Mahkemesi'nin 23.12.2022 tarih ve 2020/484 Esas, 2022/963 Karar sayılı kararının, 6100 Sayılı HMK'nın 353/(1)-a-6. maddesi gereğince KALDIRILMASINA …
 
 ## Sakarya BAM 5. HD 2025/1587 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1177476800)
 
 Davalı-Karşı Davacı Jod Otomotiv Tekstil Gıda İnşaat İthalat İhracat San ve Tic. Ltd.
 
@@ -125,6 +133,8 @@ Bilindiği üzere arsa payı karşılığı inşaat sözleşmesi tapuda pay devr
 
 ## İstanbul BAM 45. HD 2025/815 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1159969400)
+
 Riskli bina tespitinin kesinleşmesinden sonra bu binaların yıktırılması için maliklere 60 günden az olmamak üzere süre verildiği, bu süre içinde riskli binaların yıktırılıp yıktırılmadığı kontrol edileceği, yıktırılmamış ise 30 günden az olmak üzere ek süre verileceği ve verilen bu süreler içinde maliklerce riskli yapılar yıktırılmaz ise, yıktırma işlemleri mahalli idarelerin de iştiraki ile mülki amirler tarafından gerçekleştirileceği, Riskli olarak tespit edilen ve itiraz süreci sonunda riskli olduğu kesinleşen binaların yıktırılması Kanunun emredici hükmü olduğu, Yıkım konusunda maliklerce herhangi bir karar alınmasına veya anlaşma sağlanmasına gerek olmadığı, 30.03.2017 tarihinde itiraz sonrası kesinleşen Yıkım Kararı davacıya tebliğ edildiği, tahliye süresi 60 gün + 30 gün ek süre dikkate alındığında; en son riskli yapının 30.06.2017 tarihinde tahliye edilmiş olması gerektiği, Yangın olduğu hususunda kolluk kuvvetlerinde hazırlanan tutanağın 06.09.2017 tarihli ve Yangın Raporunun da 13.09.2017 tarihli olduğu görülmekle; davacı tarafın riskli yapıyı KANUN GEREĞİ en son 30.06.2017 de tahliye etmesi gerekirken, etmediği- Kanuni süre dolduktan yaklaşık 70 gün sonra iddia edilen
 yangın olayının gerçekleştiği, Kanuni süre ile sınırlı olan ve edinimini yerine getirmeyen davacı sigortalının; davaya konu sigortasının talep edilen yangın ve hırsızlık nedenleri ile teminat altında olduğundan söz edilemeyeceği, davalı sigorta şirketinin sorumluluğunun doğmadığı, ...Kesinleşen yıkım kararının tebliğinin 30.03.2017'de davacıya yapıldığı ve 31.03.2017'de poliçe düzenlendiği, yıkım kararı öğrenildikten sonra poliçe yaptırıldığı ve 3 sene boyunca sigortalanmayan işyerinin kentsel dönüşüm kararı ile sigorta teminatı altına alındığı, yıkım kararı alınan bir işyeri için; bir başka değişle tahliyesi zorunlu hale gelen bir işyeri için; işyeri ikame tazmiantı ve/veya iş durması tazminatı talep edilmesinin mümkün olmadığı,Sigortalı davacının sanki sigortalı değilmiş gibi alması gereken tüm önlem ve koruma tedbirlerini meydana gelebilecek rizikolara karşılık almadığı, taşınma / tahliye kararı dahilinde boşaltılması gerektiği ancak boşaltılmadığı ve sigortalının sorumluluklarının yerine getirmemesi nedeniyle hasarların meydana geldiği poliçeden hasar talebinde bulunduğu, (iyiniyet prensibinin hukuki takdirinin Yüce Mahkemeye ait olduğu), Yangın olayının ne zaman ve nasıl
 gerçekleştiği ve nasıl söndürüldüğüne dair bir belge bulunmadığı, Hırsızlık (yağmalama) olma ihtimaline karşı da gereken önlemlerin alınmadığı, Poliçede bulunan kayıtlar dahilinde; sigortalı mahalde alarm ve kamera sisteminin bulunduğu (sigorta poliçesinde teminat altına alındığı) ancak alarm sisteminin ister yangın ister hırsızlık (yağmalama) olaylarında çalışıp vermiş olduğu sinyaller ve raporlara istinaden bir belgenin dosya kapsamında bulunmadığı, ayrıca kamera kayıtlarının da davacının davasını ispatlar belgeler arasında olmadığı..." nedenleriyle davalının sorumlu olmadığı yönünde kanaat bildirilmiştir.
@@ -134,6 +144,8 @@ gerçekleştiği ve nasıl söndürüldüğüne dair bir belge bulunmadığı, H
 H Ü K Ü M:Gerekçesi yukarıda izah edildiği üzere;1-Davalı tarafın istinaf başvurusunun 6100 sayılı HMK'nın 353/1.b.1 maddesi uyarınca ESASTAN REDDİNE …
 
 ## İstanbul BAM 45. HD 2024/928 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1049794100)
 
 İLK DERECE MAHKEMESİ KARARI Mahkemece ''Uyuşmazlığa konu faturanın taraflar arasında imzalanan Riskli Yapı Tespit Raporu sözleşmesinden kaynakladığı ve ... ada 1,3,4,6, 8,9ve 12 parsel numaralı taşınmazlar için kentsel dönüşüm teknik rapor hizmet bedeli açıklanması ile düzenlendiği, sözleşmeye konu taşınmazlar için muafiyet yazısı alınması halinde her muafiyet için 4.956 TL ödemenin nakit olarak yapılacağının kararlaştırıldığı anlaşılmıştır. Davacı tarafından sözleşmeye konu 3,4,6 ve 8 numaralı parsellerin muafiyet yazılarının alındığı dosya içerisine alınan yazı cevaplarından, 1 numaralı parsel için muafiyet izninin dava dışı ...
 
@@ -151,6 +163,8 @@ H Ü K Ü M:Gerekçesi yukarıda izah edildiği üzere,1-Davacı vekilinin istin
 
 ## Ankara BAM 27. HD 2024/636 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1046769300)
+
 Noterliğinin ... yevmiye numaralı ihtarnamesiyle davalıya son olarak 13 günlük ek bir süre vererek "inşaatlardaki eksikliklerin iskana hazır hale getirilmesi, aksi takdirde 16.01.2017 tarihinde şantiyeyi terk etmesini, aksi takdirde ikinci bir ihtara gerek kalmaksızın eksikliklerin kooperatif tarafından yapılacağını ve kesin hakkediş ödemesi tespitinin bilirkişi marifetiyle yaptırılacağı”nın bildirildiğini, esasen mevcut durumda davalı yüklenicinin sözleşmedeki edimlerini kararlaştırılan sürelerde yerine getiremeyeceği açık olduğundan TBK'nın 473. maddesi uyarınca arsa sahibinin sözleşmeden dönmek hakkına çok önceden sahip olduğunu, ancak müvekkili kooperatifin iyiniyetli davranarak, yüklenicinin bir ihtimal, sorumluluklarını ifa etmesini beklediğini, daha sonra kalan işleri yapmayacağını sözlü olarak belirten ve şantiyeyi terk eden davalıya müvekkili kooperatifçe, yaptığı işlerin karşılığında hakediş olarak AVM dükkanlarından, davalının talebinden 5 m2 fazla olarak toplam 170 m2 tapu devrinin yapıldığını, sonrasında da davalının geri kalan işleri bitiremeyeceğini, AVM için muvafakat alamadığını, villa için de ruhsat alamadığını yazılı olarak da belirtip işleri bıraktığını
 belirterek, nihai hesaplaşma için kooperatifle birlikte hareket ederek, Ankara Batı Sulh Hukuk Mahkemesi'ne tasfiye hakedişinin tespiti için müracaatta bulunmayı kabul ettiğini, Ankara Batı 3.
 
@@ -159,6 +173,8 @@ belirterek, nihai hesaplaşma için kooperatifle birlikte hareket ederek, Ankara
 Ankara 9. Asliye Ticaret Mahkemesi'nin 08.06.2023 tarih, 2022/560 E-2023/406 K sayılı kararının HMK'nın 353/1-a.4-6. maddeleri gereğince kaldırılmasına …
 
 ## İstanbul BAM 45. HD 2023/1117 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/919593600)
 
 Dava, danışmalık sözleşmesi ve ek sözleşme uyarınca, fesih bedelinin tahsili için başlatılan icra takibine vaki itirazın iptali istemine ilişkindir.
 
@@ -175,6 +191,8 @@ Sözleşmenin bu haliyle fesih edilmesi durumunda sözleşmeyi ihlal eden taraf,
 H Ü K Ü M: Gerekçesi yukarıda izah edildiği üzere; 1-Davacı vekilinin istinaf başvurusunun 6100 sayılı Hukuk Muhakemeleri Kanunu'nun 353/1.b.l bendi uyarınca ESASTAN REDDİNE …
 
 ## Bursa BAM 5. HD 2023/1101 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/940695000)
 
 İlk derece mahkemesince yapılan yargılama ve alınan bilirkişi raporu sonucunda, davalı kooperatifin, diğer davalı toprak sahibi ile imzalamış olduğu gayrımenkul satış vaadi ve kat karşılığı inşaat sözleşmesi uyarınca edimlerini yerine getirdiği, sözleşmede kendisine bırakılması kararlaştırılan dairelerin tapu devrini talep hakkının doğduğu, davacının ise davalı kooperatife karşı yükümlülüklerini yerine getirdiği için ve davalı kooperatifin diğer üyelere daire devrini sağladığı için üyelere eşit davranma yükümlülüğü doğrultusunda davacıya düşen dairenin tapusun devirle yükümlü hale geldiği ve uygulamada davalı kooperatifin talebi üzerine dairelerin tapu devirlerinin doğrudan toprak sahibi tarafından üyelere yapıldığı, davalı kooperatifte taşınmazın davacıya devrinden sorumlu olduğu için vekalet ücreti ve yargılama giderlerinden sorumlu olduğu gerekçesiyle davanın kabulüne tapu iptali ile davacı adına tesciline karar verilmiştir.
 

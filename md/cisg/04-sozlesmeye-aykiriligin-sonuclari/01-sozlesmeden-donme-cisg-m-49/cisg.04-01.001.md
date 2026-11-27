@@ -20,4 +20,6 @@ uyari: "Derleyenin seçtiği alıntılardır; kararın tamamı değildir. Künye
 
 ## İstanbul BAM 14. HD 2022/379 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/749783000)
+
 Somut olayda emtianın kullanım amacı gözetildiğinde onarılmayacak şekilde ayıplı olarak teslim edildiği ve fabrika kabul testindeki ayıpların giderilmeden alıcıya teslim edilmesi ve alıcının sözleşmeden kaynaklanan tamir ve onarım haklarını kullanmasına rağmen emtiadaki ayıbın giderilmemesi nedeniyle, alıcının sözleşme ile bağlı kalması düşünülemez. Bu nedenle anılan Sözleşme'nin 49. maddesi gereğince sözleşmeden dönülerek bedelin iadesinin istenilmesinde CISG'ye bir aykırılık bulunmamaktadır.

@@ -32,12 +32,18 @@ Esasen sadece ileriye etkili fesihle yetinilmesi de yeni davalara neden olacağ�
 
 ## Yargıtay 6. HD 2025/4510 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1200679600)
+
 Gerek Dairemiz, gerekse Hukuk Genel Kurulu kararlarında, akdin ileriye etkili feshedilebilmesi için inşaat seviyesinin %90 ve üzeri orana ulaşmış olması gerekir.
 
 ## Yargıtay 6. HD 2025/4344 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1199336200)
+
 İleriye etkili fesih halinde yüklenici gerçekleştirdiği imalât oranında arsa payı ya da bağımsız bölüm tapularına hak kazanır. Mahkemece ileriye etkili feshe karar verildiğinde tasfiyenin de yapılması gerekmektedir.
 
 ## Sakarya BAM 5. HD 2025/398 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1125497100)
 
 Yargıtay İçtihadı Birleştirme Büyük Genel Kurulu’nun 25.01.1984 tarih 3/1 Sayılı İçtihadı Birleştirme Kararı uyarınca yüklenici tarafından, imara ve projesine uygun inşaat yapılması inşaat seviyesinin %90’ı aşması ve iskân raporu alınmasına engel bir durumun bulunmaması hallerinde sözleşmenin ileriye etkili olarak feshine karar verilebileceği kabul edilmektedir…

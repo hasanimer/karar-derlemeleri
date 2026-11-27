@@ -54,6 +54,8 @@ Yüklenici, tüm edimlerini ifa ettiği takdirde ve sözleşmenin de ifa ile son
 
 ## Yargıtay HGK 2024/107 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1012700900)
+
 1\.
 
 …
@@ -69,6 +71,8 @@ Sonuç olarak mahkemece yüklenicinin arsa payı karşılığı inşaat sözleş
 Asıl davada davacı- karşı davada davalı vekilinin temyiz itirazlarının kabulü ile direnme kararının Özel Daire bozma kararında gösterilen nedenlerden dolayı 6100 sayılı Kanun’un 371 inci maddesi gereğince BOZULMASINA …
 
 ## Yargıtay HGK 2023/1082 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/978429300)
 
 Davacı vekili dava dilekçesinde; davalılar ..., ... ve dava dışı arsa sahiplerinin ... ili ... ilçesi, 31201 ada 4 parselde bulunan arsa için ... 4.
 
@@ -88,6 +92,8 @@ Yukarıda açıkladığım nedenlerle mahkemece davanın reddine karar verilmesi
 
 ## Yargıtay HGK 2023/1072 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/976335200)
+
 Davacılar vekili dava dilekçesinde; müvekkilleri ile davalı şirket arasında arsa payı karşılığı inşaat sözleşmesi ve ek sözleşmenin düzenlendiğini, ancak binanın süresinde teslim edilmemesi nedeniyle 07.12.2010 tarihinde sözleşmelerin geriye etkili şekilde feshi hususunda tarafların anlaştığını ve fesih tarihine kadar yüklenicinin hak etmediği ancak üçüncü kişilere sattığı bağımsız bölümlerin müvekkili arsa sahiplerine devri kararlaştırıldığı hâlde davalı yüklenicinin anılan bağımsız bölümleri iade etmediğini ve diğer davalı ...’a muvazaalı şekilde sattığını ileri sürerek 8 ve 12 No.lu bağımsız bölümlerin tapu kaydının iptali ile müvekkilleri adına tesciline, tescilin mümkün olmaması hâlinde bedelinin davalılardan müştereken ve müteselsilen tahsiline karar verilmesini talep etmiştir.
 
 …
@@ -103,6 +109,8 @@ Her ne kadar yüklenici şirket yetkilisi 28.07.2008 tarihli belgede 2008 yılı
 Davalı ... vekilinin temyiz itirazlarının kabulü ile direnme kararının Özel Daire bozma kararında gösterilen nedenlerden dolayı 6217 sayılı Kanun’un 30 uncu maddesi ile 6100 sayılı Hukuk Muhakemeleri Kanunu’na eklenen “Geçici Madde 3” atfıyla uygulanmakta olan 1086 sayılı Hukuk Usulü Muhakemeleri Kanunu'nun 429 uncu maddesi gereğince BOZULMASINA …
 
 ## Yargıtay HGK 2023/839 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/954158700)
 
 Davacı vekili dava dilekçesinde; davalılar arasında kat karşılığı inşaat sözleşmesi düzenlendiğini, müvekkili ile davalı ... ve ... İnşaat Ltd.
 
@@ -124,6 +132,8 @@ Davacı vekilinin temyiz itirazlarının reddi ile direnme kararının ONANMASIN
 
 ## Yargıtay HGK 2022/163 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/762538800)
+
 Davacı vekili dava dilekçesinde; müvekkilinin ... ili ... ilçesi ... Mahallesi 3122 ada 114 parseldeki 20 no'lu bağımsız bölümün maliki olduğunu, 19.10.2014 tarihli olağanüstü genel kurul toplantısından haberdar edilmediğini, müvekkilinin ...'de ikamet ettiğini, toplantı yeter sayısı sağlanmadan kararlar alındığını, 19.10.2014 tarihli toplantının yok hükmünde olduğunu, satış yapılması durumunda tapu ve mülkiyet değişiklikleri olacağından, işlemin uygulanması hâlinde telafisi güç veya imkansız zararların doğması sebebiyle toplantıdaki 6306 sayılı Kanuna ilişkin kararlar ve sözleşmenin yükleniciyle imzalanmasına ilişkin kararların tedbiren durdurulması ile 19.10.2014 tarihli olağanüstü genel kurul toplantısı ile alınan kararların tümden iptaline kararı verilmesini talep etmiştir.
 
 …
@@ -133,6 +143,8 @@ Davacı vekili dava dilekçesinde; müvekkilinin ... ili ... ilçesi ... Mahalle
 13\. 6306 sayılı Kanun 16.05.2012 tarihinde Resmî Gazete'de yayımlanarak yürürlüğe girmiştir. Anılan Kanunun 1. maddesinde Kanunun amacının; afet riski altındaki alanlar ile bu alanlar dışındaki riskli yapıların bulunduğu arsa ve arazi üzerinde, fen, sanat, norm ve standartlarına uygun, sağlıklı, toplu ve güvenli yaşama çevrelerini teşkil etmek üzere iyileştirme, tasfiye ve yenilemelere ilişkin olmak üzere usul ve esasları belirlemek olduğu açıklanmıştır.
 
 ## Yargıtay HGK 2017/1435 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/386876800)
 
 Mahkemece; asıl davada tapu iptali ve tescil isteminin reddine, tazminat isteminin kabulüne, birleştirilen davanın ise kabulüne karar verilmiştir.
 
@@ -153,6 +165,8 @@ Bütün bu açıklamalardan görüleceği üzere arsa payı karşılığı inşa
 SONUÇ: Davacı ... vekilinin temyiz itirazlarının kabulü ile direnme kararının Özel Daire bozma kararında gösterilen nedenlerden dolayı BOZULMASINA …
 
 ## Yargıtay HGK 2016/181 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/185670100)
 
 Davalılar, davanın reddini savunmuşlardır.
 
@@ -178,6 +192,8 @@ SONUÇ: Davacı vekilinin temyiz itirazlarının reddi ile direnme kararının y
 
 ## Yargıtay HGK 2014/57 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/83996700)
+
 Davalılar, davanın reddini savunmuş, mahkemece dava esastan incelenerek sonuçlandırılmıştır.
 
 …
@@ -202,6 +218,8 @@ S O N U Ç : Davalılar vekilinin temyiz itirazlarının kabulü ile,direnme kar
 
 ## Yargıtay HGK 2005/419 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/76814300)
+
 Davalı, davanın reddini savunmuştur.
 
 Mahkemece davanın kabulüne karar verilmiş, hükmü davalı vekili temyiz etmiştir.
@@ -215,6 +233,8 @@ Kural olarak arsa maliki ile yüklenici arasında kat karşılığı inşaat yap
 S O N U Ç :Davalı vekilinin temyiz itirazlarının kabulü ile, direnme kararının Özel Daire bozma kararında gösterilen nedenlerden dolayı H.U.M.K.nun 429.maddesi gereğince BOZULMASINA …
 
 ## Yargıtay HGK 2001/330 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/16635800)
 
 Kural olarak yüklenici ile arsa sahibi arasında kat karşılığı inşaat yapılması hususunda sözleşme düzenlendiğinde ve sözleşme koşulları yerine getirildiğinde yüklenici kişisel hak kazanır.Yüklenici bu kişisel hakka dayanarak arsa sahibinden sözleşme uyarınca kendisine bırakılan bağımsız bölümlerin mülkiyetlerinin adına nakledilmesini isteyebilir veyahutta Borçlar Yasasının 162 ve izleyen maddeleri uyarınca yazılı olmak koşulu ile arsa sahibinin rıza ve muvafakatını almaya gerek görmeden sözkonusu kişisel hakkını üçüncü kişilere temlik edebilir.Üçüncü kişi de gerek sözleştiği yükleniciye ve gerekse arsa sahibine karşı temellük ettiği bu kişisel hakkı ileri sürme olanağına sahiptir.Bu nedenledir ki, kendisine satılan bağımsız bölüm veya bölümlerin mülkiyetlerinin adına nakledilmesini isteyebilir.Yüklenici veya ondan bağımsız bölüm satın alan kişinin tescil isteyebilmeleri için yüklenicinin edimini eksiksiz yerine getirmiş olması gerekir.Eğer yüklenici edimlerini tamamen yerine getirmemiş ise ve bu noksan bıraktığı işler de pek az bir boyutta bulunur.Bir başka anlatımla arsa sahipleri tarafından tahammülü mümkün ölcülerde eksiklik kalırsa; bu eksikliklerin tamamlanması veya tutarının
 para olarak ödenmesi suretiyle noksanlığın karşılanması hallerinde bağımsız bölüm alan bu kişi veya kişilerin tescil isteme haklarının varlığı kabul edilebilir.

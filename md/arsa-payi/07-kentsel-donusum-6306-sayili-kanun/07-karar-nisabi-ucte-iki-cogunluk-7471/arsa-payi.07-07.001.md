@@ -33,6 +33,8 @@ Bununla birlikte paydaşların üçte iki çoğunluğunun tüm taşınmaz üzeri
 
 ## Danıştay İDDK 2023/3171 E., 2025/746 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1171250600)
+
 İlk Derece Mahkemesi kararının özeti: ... İdare Mahkemesinin ... tarih ve E:..., K:... sayılı kararıyla; çoğunluk hissesi sahibi paydaşın yüklenici firmayla imzalamış olduğu kat karşılığı inşaat sözleşmesinin ihtarname ekinde davacılara gönderildiği, bununla birlikte süreç içerisinde davacıların sözleşmeyi imzalayarak idareye ibraz etmelerinin istenildiği ancak davacıların bu sözleşmeyi imzalayarak idareye ibraz etmedikleri görüldüğünden, 6306 Sayılı Kanunun Uygulama Yönetmeliği'nin 15/A maddesi kapsamında tesis edilen dava konusu işlemde hukuka aykırılık bulunmadığı gerekçesiyle davanın reddine karar verilmiştir.
 
 …
@@ -47,9 +49,13 @@ için yukarıda açıklanan mevzuat hükümleri uyarınca davacının payının 
 
 ## Danıştay VDDK 2023/344 E., 2023/431 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/921732200)
+
 Davacının uhdesinde kalan işin yapıldığı alanın Muş ili Merkez ilçesi ... Mahallesi sınırları içerisinde bulunduğu ve söz konusu alanın 21/10/2012 tarih ve 28448 sayılı Resmî Gazete'de yayımlanan 2012/3810 sayılı Bakanlar Kurulu Kararı ile 5393 sayılı Belediye Kanunu'nun 73. maddesine göre "kentsel dönüşüm ve gelişim proje alanı" olarak ilan edildiği anlaşılmıştır. Ayrıca anılan işe ilişkin olarak Toplu Konut İdaresi Başkanlığı ile Muş Belediye Başkanlığı arasında imzalanan 02/07/2012 tarihli protokolün 8. maddesinde, inşaatın yapılacağı alan üzerinde yer alan tüm yapı ve eklentilerinin tasfiyesinin, yıkımının ve molozların temizlenmesinin anılan Belediye tarafından yapılacağı, Toplu Konut İdaresi Başkanlığı tarafından ihalesi yapılacak alanların ihale sonrası müteahhitlere yer teslimi yapılıncaya kadar geçen süre zarfında tapulu, tapusuz her türlü işgalden arındırılarak boş olarak tesliminin Belediyenin sorumluluğunda olduğu belirtilmiştir.
 
 ## Danıştay İDDK 2022/3386 E., 2023/307 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/990679000)
 
 DANIŞTAY TETKİK HÂKİMİ …
 
@@ -65,6 +71,8 @@ Davanın yukarıda özetlenen gerekçeyle reddine ilişkin Danıştay Altıncı 
 
 ## Danıştay İDDK 2021/3627 E., 2022/385 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/780561900)
+
 Yukarıda metnine yer verilen 6306 sayılı Kanun'un 6. maddesi hükmü ile; riskli alan ilan edilen alanlarda yapılacak dönüşüm uygulamalarında; kural olarak üzerindeki binaların yıkıldığı arsalar bakımından maliklerin anlaşması usulü benimsenmiş, üçte iki çoğunlukla anlaşma sağlanamaması halinde, uygulamayı yapan Bakanlık, idare ya da TOKİ'ye acele kamulaştırma yapabilmesi bakımından yetki tanınmış olup, bu yetkinin, 2942 sayılı Kanun'un 27. maddesiyle Bakanlar Kuruluna tanınan acele kamulaştırma yetkisiyle ilgisi bulunmamaktadır.
 
 Nitekim, dava konusu işlemin dayanağı olarak 6306 sayılı Kanun'un 6. maddesi değil, 2942 sayılı Kanun'un 27. maddesi gösterilmiş olup, Dairece, uyuşmazlığın 6306 sayılı Kanun hükmü kapsamında çözümlenmesinde hukuki isabet bulunmamaktadır.
@@ -75,6 +83,8 @@ Nitekim, dava konusu işlemin dayanağı olarak 6306 sayılı Kanun'un 6. maddes
 
 ## Danıştay İDDK 2018/1131 E., 2018/2574 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1134852700)
+
 Danıştay Altıncı Dairesince, 6306 sayılı Afet Riski Altındaki Alanların Dönüştürülmesi Hakkında Kanun'un 6. maddesi uyarınca acele kamulaştırma yapılabilmesi için aranan "en az üçte iki çoğunluk ile anlaşma sağlanamaması" şartının yerine getirilmediği gerekçesiyle dava konusu Bakanlar Kurulu kararının hukuka aykırı olduğuna hükmedilmiş ise de; 6306 sayılı Yasa'nın 6. maddesinde yer alan "acele kamulaştırma" haline ilişkin şartların uyuşmazlık konusu olayda uygulanabilir olup olmadığının öncelikle irdelenmesi gerekmektedir.
 
 6306 sayılı Yasa'nın 6. maddesinin 2. fıkrasında: "Üzerindeki bina yıkılmış olan arsanın maliklerine yapılan tebligatı takip eden otuz gün içinde en az üçte iki çoğunluk ile anlaşma sağlanamaması hâlinde, gerçek kişilerin veya özel hukuk tüzel kişilerinin mülkiyetindeki taşınmazlar için Bakanlık, TOKİ veya İdare tarafından acele kamulaştırma yoluna da gidilebilir." hükmüne yer verilmiştir.
@@ -84,6 +94,8 @@ Danıştay Altıncı Dairesince, 6306 sayılı Afet Riski Altındaki Alanların 
 Açıklanan nedenlerle, davalı idareler ve davalı idareler yanında davaya katılanın temyiz istemlerinin reddine, Danıştay Altıncı Dairesinin 16/11/2017 günlü, E:2016/10050, K:2017/9464 sayılı kararının, yukarıda yer alan gerekçe ile ONANMASINA …
 
 ## Danıştay 4. D. 2025/1981 E., 2025/3361 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1173182900)
 
 İlk Derece Mahkemesi kararının özeti: ... İdare Mahkemesince verilen ... tarih ve E:..., K:... sayılı kararda; dosyada bulunan bilgi ve belgeler ile yaptırılan keşif sonucunda düzenlenen bilirkişi kök ve ek raporlarının birlikte değerlendirilmesinden; dava konusu arsa pay satış işleminin dayanağı olan 16/01/2023 tarihli bedel tespit raporu uyarınca davacının arsa değerinin 43.287,83-TL/m2, hisse bedelinin ise 1.593.857,90-TL olarak tespit edildiği; ilk yapılan 17/01/2023 tarihli ihalede tek talipli olan dava dışı E.
 
@@ -102,6 +114,8 @@ Bu durumda; 6306 sayılı Kanun kapsamında yıkımı yapılan taşınmazın ars
 
 ## Danıştay 6. D. 2025/1689 E., 2025/3312 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1183636100)
+
 İlk Derece Mahkemesi kararının özeti: Temyize konu kararda; taşınmazların bir an önce kullanılmasına ihtiyaç duyulan ve kamu düzenine ilişkin olarak acelilik halinin bulunduğu durumlarda, davalı idarece ancak acele kamulaştırılması zorunlu bulunan taşınmazlara yönelik gerekli tespitler yapılıp sebepleri de belirtilmek suretiyle acele kamulaştırma kararı almaya yetkili Cumhurbaşkanlığı'na başvuruda bulunma yetkisinin bulunduğu açık olup, davalı idarece yetkisini aşacak şekilde "acele kamulaştırma kararı" almasında hukuka uyarlık bulunmadığı, diğer yandan, 08/07/2022 tarih ve 31890 sayılı Resmi Gazete'de yayımlanan 07/07/2022 tarihli, 5786 sayılı Cumhurbaşkanlığı Kararı ile, Kocaeli ili, Dilovası ilçesinde "rezerv yapı alanı" olarak belirlenen sahada yer alan ve ekli listede bulundukları mahalle ile ada ve parsel numaraları belirtilen taşınmazların Kocaeli Büyükşehir Belediye Başkanlığı tarafından 2942 sayılı Kamulaştırma Kanununun 27. maddesi uyarınca acele kamulaştırılmasına karar verilmesinin de bu hususu doğruladığı gerekçesiyle dava konusu işlemin iptaline karar verilmiştir.
 
 …
@@ -116,6 +130,8 @@ Yukarıda özetlenen gerekçeyle dava konusu işlemin iptaline ilişkin temyize 
 
 ## Danıştay 4. D. 2024/2992 E., 2025/2511 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1174921800)
+
 15/12/2012 tarih ve 28498 sayılı Resmi Gazete'de yayımlanan 6306 sayılı Kanunun Uygulama Yönetmeliği'nin dava konusu işlemin tesis edildiği tarihte yürürlükte bulunan 15. maddesinin ikinci fıkrasında "Riskli alanlar ve rezerv yapı alanlarında uygulama yapılan etapta veya adada, riskli yapılarda ise bu yapıların bulunduğu parsellerde; yapıların yıktırılmış olması şartı aranmaksızın ve yapının paydaşı olup olmadıkları gözetilmeksizin parsellerin tevhit edilmesine, münferit veya birleştirilerek veya imar adası bazında uygulama yapılmasına, ifraz, taksim, terk, ihdas ve tapuya tescil işlemlerine, yeniden bina yaptırılmasına, payların satışına, kat karşılığı veya hasılat paylaşımı ve diğer usuller ile yeniden değerlendirilmesine sahip oldukları hisseleri oranında paydaşların en az üçte iki çoğunluğu ile karar verilir. Bu karar anlaşma şartlarını ihtiva eden teklif ile birlikte karara katılmayanlara noter vasıtasıyla veya 7201 sayılı Kanuna göre tebliğ edilir.
 Bu tebliğde, on beş gün içinde kararın ve teklifin kabul edilmemesi halinde arsa paylarının, Bakanlıkça tespit edilecek veya ettirilecek rayiç değerden az olmamak üzere anlaşma sağlayan diğer paydaşlara açık artırma usulü ile satılacağı, paydaşlara satış gerçekleştirilemediği takdirde, riskli alanlar ve rezerv yapı alanlarında rayiç bedeli Bakanlıkça ödenmek kaydı ile tapuda Hazine adına resen tescil edileceği, riskli yapılarda ise anlaşma sağlayan diğer paydaşlara veya yapılan anlaşmaya uyularak işlem yapılmasını kabul etmek şartıyla üçüncü şahıslara satılacağı bildirilir.", 15. maddesinin üçüncü fıkrasında ise "Hisseleri oranında paydaşların en az üçte iki çoğunluğu ile alınan karara katılmayan maliklerin arsa payları; 15/A maddesinde belirtilen usule göre, arsa payı değeri üzerinden anlaşma sağlayan diğer paydaşlara açık artırma usulü ile satılır.
 Paydaşlara satış gerçekleştirilemediği takdirde, bu paylar riskli alanlar ve rezerv yapı alanlarında rayiç bedeli Bakanlıkça ödenmek kaydı ile tapuda Hazine adına resen tescil edilir ve en az üçte iki çoğunluk ile alınan karar çerçevesinde değerlendirilmek üzere Bakanlığa tahsis edilmiş sayılır veya Bakanlıkça uygun görülenler TOKİ’ye veya İdareye devredilir. Riskli yapılarda ise, anlaşma sağlayan paydaşlara veya anlaşma sağlayan paydaşların kararı ile yapılan anlaşmaya uyularak işlem yapılmasını kabul etmek şartıyla üçüncü şahıslara satış yapılıncaya kadar satış işlemi tekrarlanır." düzenlemeleri yer almaktadır.
@@ -127,6 +143,8 @@ Paydaşlara satış gerçekleştirilemediği takdirde, bu paylar riskli alanlar 
 Temyize konu ... Bölge İdare Mahkemesi ... İdare Dava Dairesinin ...4 tarih ve E:..., K:... sayılı kararının Üye ...'in karşı oyu ve oyçokluğuyla BOZULMASINA …
 
 ## Danıştay 4. D. 2024/659 E., 2025/1499 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1152375200)
 
 İlk Derece Mahkemesi kararının özeti: ... İdare Mahkemesince verilen ... tarih ve E:..., K:... sayılı kararda; davacının arsa payının m²'sinin 9.500,00 TL'den satılmasına karşın, aynı taşınmazla ilgili açılan başka bir davada ...
 
@@ -143,6 +161,8 @@ Temyize konu ... Bölge İdare Mahkemesi ... İdare Dava Dairesinin ... tarih ve
 
 ## Danıştay 4. D. 2023/13474 E., 2025/724 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1205972800)
+
 DAVANIN KONUSU : 24/08/2023 tarih ve 32289 sayılı Resmi Gazete'de yayımlanan 6306 sayılı Afet Riski Altındaki Alanların Dönüştürülmesi Hakkında Kanunun Uygulama Yönetmeliğinde Değişiklik Yapılmasına Dair Yönetmelik'in 1. maddesi ile değiştirilen anılan Yönetmeliğin 4. maddesinin birinci fıkrasının (ç) bendinin ve 24/08/2023 tarih ve 32289 sayılı Resmi Gazete'de yayımlanan 6306 sayılı Afet Riski Altındaki Alanların Dönüştürülmesi Hakkında Kanunun Uygulama Yönetmeliğinde Değişiklik Yapılmasına Dair Yönetmelik'in 2. maddesi ile değiştirilen anılan Yönetmeliğin 15/A maddesinin sekizinci, ondördüncü ve onbeşinci fıkralarının iptali talep edilmiştir.
 
 DAVACININ İDDİALARI : Yönetmeliğin 1. maddesi ile "Rezerv yapı alanının tespiti" başlıklı 4. maddenin 1. fıkrasının (ç) bendi;
@@ -154,6 +174,8 @@ yerleşim alanı olarak belirlenebileceği, tamamen keyfi uygulamaların önün�
 2\. 24/08/2023 tarih ve 32289 sayılı Resmi Gazete'de yayımlanan 6306 sayılı Afet Riski Altındaki Alanların Dönüştürülmesi Hakkında Kanunun Uygulama Yönetmeliğinde Değişiklik Yapılmasına Dair Yönetmelik'in 1. maddesi ile değiştirilen, anılan Yönetmeliğin 4. maddesinin birinci fıkrasının (ç) bendinin İPTALİNE …
 
 ## Danıştay 4. D. 2024/517 E., 2024/7644 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1140750900)
 
 Dava dilekçesinin netice ve talep kısmında 6306 sayılı Kanunun Uygulama Yönetmeliğinin 15. maddesinin 2. fıkrasının iptali istenilmiş ise de, dava dilekçesi içeriğinde özetle; tevhit işleminin kat maliklerinin 2/3'ünün onayı ile gerçekleştirildiği, 6306 sayılı Kanunda her ne kadar tevhit kararının 2/3 çoğunlukla alınabileceği öngörülmüş ise de karar alma çoğunluğunun 6306 sayılı Kanunun amacına aykırı bir şekilde ekonomik menfaatlere konu olmasının kabul edilemeyeceği, Yönetmelik hükmü incelendiğinde azınlıkta kalan kişilere hiçbir yetki verilmediği, çoğunluğun belirlediği kişi ile sözleşme yapmayan hissedarların paylarının satılmasına karar verilebileceği, bu durumun azlığın Anayasa ile güvence altına alınan mülkiyet hakkını ihlal ettiği yolundaki beyanları ve Savcı düşüncesine karşı verilen 25/11/2024 tarihli dilekçede de; davanın konusunun hak sahibi olan bir malikin rızası dışında, onun hak kaybına uğramasına neden olacak şekilde nispi çoğunlukla karar alınmasına yönelik hükmün iptali olduğu belirtildiğinden, 6306 sayılı Kanunun Uygulama Yönetmeliği'nin 15. maddesinin 2. fıkrasında yer alan parsellerin tevhit edilmesini de içeren karar alma yeter sayısına ilişkin "paydaşların
 en az üçte iki çoğunluğu ile karar verilir" kısmı inceleme konusu yapılmıştır.

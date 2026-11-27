@@ -22,6 +22,8 @@ uyari: "Derleyenin seçtiği alıntılardır; kararın tamamı değildir. Künye
 
 ## İstanbul BAM 43. HD 2025/1054 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1158286800)
+
 …
 
 : Dava, dava dışı sigortalı tarafından kiralanan ve davacıya Makine Kırılması Sigorta Poliçesi ile sigortalanan manlift isimli makinanın , apron betonunun üzerinde götürülürken motor kısmından başlayan yangın neticesinde zarar gören makine için dava dışı sigortalıya yapılan ödemenin rücuen davalılardan tahsili istemine ilişkindir. İlk derece mahkemesince, davalı ... Adi Ortaklığı Ticari İşletmesi isimli adi ortaklığını oluşturan şirketlere ayrı ayrı husumetini yöneltmesi için davacı tarafa süre verilmesi üzerine davaya dahil edilen ... San. ve Tic. A.Ş, ... Anonim Şirketi, ... San. ve Tic. A.Ş, ... Sanayi Ve Ticaret A. Ş., ... Ticaret A.Ş. ve davalı ... İnşaatı Adi Ortaklığı Ticari İşletmesi yönünden dosyanın tefriki ile ayrı esasa kaydına karar verilmiş ve yapılan inceleme sonunda davalı ... Adi Ortaklığı Ticari İşletmesi'ni oluşturan tüzel kişilere dair arabuluculuk yoluna başvurulduğuna ilişkin belge ibraz edilmediğinden dava şartı noksanlığı nedeniyle davanın usulden reddine karar verilmiştir.
@@ -35,10 +37,14 @@ Adi Ortaklığın tüzel kişiliği bulunmamasından ve adi ortaklığı oluştu
 
 ## İstanbul BAM 17. HD 2025/968 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1159103100)
+
 Dosya kapsamıyla uyumlu hüküm kurmaya elverişli bilirkişi raporunda belirtildiği üzere, kullanılan malzemelerin iş bitiminden sonra göz ile kontrolünün sağlanmadığı, kırık, yırtık, aşınma, tıkanma gibi durumların tespitinde gerekli müdahalelerin ehli kişiler tarafından yapılmaması sonucu molozlardan dolayı tıkanan bölge kısmının bağlantı yerinden çıkıp cephe asansöründe maddi hasar oluştuğu, Kelif İş Ortaklığının iş sahasında mevcut kurallara uymadığı, uygun kişisel koruyucu malzeme kullanmadığı, dava konusu kazayı öngörüp gereken tedbiri almadığı, İş Sağlığı Ve Güvenliği Kanunu’nun 4. ve 5. maddelerine aykırı davrandığı, önlenebilir ve öngörülebililir kazanın oluşmasında %100 oranında asli kusurlu olduğu anlaşılmıştır.Davalı ... A.Ş. İle dava dışı yüklenici iş ortaklığı arasında yapılan sözleşmenin eser sözleşmesi olduğu, davalı ... A.Ş. nin sözleşme konusuna giren işleri kontrol, denetleme ve yüklenici firmaya talimat verme yetkisi bulunduğundan, 3. kişilere verilen zararlardan dava dışı ... A.Ş. İle ... Şti (... Ortaklığı) ile birlikte müteselsilen sorumlu olduğu anlaşılmıştır.
 Müteselsil borçluluk 6098 sayılı TBK'nun 162. ve devamı maddelerinde düzenlenmiş olup, Kanunun 163. maddesi uyarınca, alacaklı, borcun tamamının veya bir kısmının ifasını, dilerse borçluların hepsinden, dilerse yalnız birinden isteyebilir; borçluların sorumluluğu, borcun tamamı ödeninceye kadar devam eder.Bu durumda davalı ... Konutun dava dışı yüklenicinin kusur durumunu zarar görene karşı ileri sürülemeyeceğinden ve bu husus ancak kendi aralarındaki iç ilişkide sonuç doğuracağından eldeki işbu davaya bir etkisi bulunmamaktadır. Davacı, müteselsil borçlulardan birine veya hepsine karşı dava ve takip hakkına sahiptir. Bu nedenle davalı ... Konut vekilinin kusur ve sorumluluğunun bulunmadığı yönündeki istinaf nedeni yerinde görülmemiştir.Öte yandan ... Poliçesinin Özel şartlar bölümünde;" sigortalı/sigorta ettirene bağlı olarak riziko adresinde, sigorta konusu kapsamında faaliyet gösteren tüm müteahhit ve taşeronların yaptıkları inşaat montaj faaliyetlerinin poliçe şartları doğrultusunda teminata dahil olduğu" belirtilmiştir.
 
 ## İstanbul BAM 15. HD 2025/847 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1167191600)
 
 Şti. ile davalı şirket Ankara İzmir Hızlı Tren Yapımı İş Ortaklığı arasında, ticari faaliyetler kapsamında cari hesap ilişkisi kurulduğunu, cari hesaba dayalı olarak davalı tarafın müvekkilimize olan toplam borcu muaccel hale gelmiş bulunan 137.287,81TL olduğunu, bu konuda herhangi bir ihtilaf bulunmadığı, özellikle karşı tarafça da bu beyan ve kabul edildiğini, müvekkil tarafından davalıya, cari hesap mutabakatı kapsamındaki alacakları bakımından defalarca bilgilendirme yapılmış ve borcun ödenmesi talep edildiği, ancak davalı taraf herhangi bir ödeme gerçekleştirmediğini, mahkemece, tarafımızca sunulan fatura, muavin defter kayıtları ve özellikle imzalı cari hesap mutabakatı gibi belgelerin varlığına rağmen ihtiyati haciz talebimiz reddedildiğini, mahkemenin ret gerekçesinde, taraflar arasında imzalanmış eser sözleşmesinin ibraz edilmemesi ve bu sebeple alacağın vadesinin geldiği hususunun yaklaşık ispatlanamadığı belirtildiğini ancak bu gerekçe hukuka ve yerleşik Yargıtay içtihatlarına açıkça aykırı olduğunu, Yargıtay kararları ışığında, mahkemece sözleşme örneği sunulmadığı gerekçesiyle alacağın vadesinin gelmediğinin varsayılması ve bu nedenle ihtiyati haciz talebinin reddi,
 İİK m. 257 ile HMK m. 389/1 uyarınca hukuka aykırı olduğunu, ayrıca, cari hesap mutabakatı, davalı tarafından imzalanmış olup borcun ikrarı niteliğinde olduğunu, mutabakatla birlikte fatura örnekleri ve muavin defter kayıtları da dosyaya sunulduğunu, bu belgelerin bütünü alacağın gerçek ve vadesi gelmiş olduğunu açıkça ortaya koyduğunu, Mahkemenin kararında yer alan “eser sözleşmesi ibraz edilmemiştir” gerekçesi, ihtiyati haczin koşullarını ortadan kaldırmayacağını, Çünkü faturalara dayalı cari hesap ilişkisi ve borç ikrarı niteliğindeki cari hesap mutabakatı hukuken geçerli ve bağlayıcı olduğundan sözleşmenin ayrıca ibrazı zorunlu olmadığını belirterek mahkeme kararının kaldırılmasını talep etmiştir. Taraflar arasındaki uyuşmazlık TBK 470 ve devamı maddelerinde düzenlenen eser sözleşmesinden kaynaklanmaktadır. İhtiyati haciz talep eden yüklenici, karşı taraf iş sahibidir.
@@ -50,12 +56,16 @@ Tüm dosya kapsamı itibariyle, ihtiyati haciz talebi Ankara-İzmir YTH yapımı
 
 ## Ankara BAM 27. HD 2025/831 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1158171400)
+
 Taraf ehliyeti, bir davada taraf olabilme yeteneğini ifade eder. Taraf ehliyeti medeni (maddi) hukuktaki medeni haklardan yararlanma ehliyetinin usul hukukunda büründüğü şekil olarak anlaşılmalıdır. Buna göre; medeni haklardan yararlanma ehliyeti bulunan her gerçek ya da tüzel kişi davada taraf ehliyetine sahip kabul edilmelidir. Mülga 818 sayılı Borçlar Kanunu'nun 520 (6098 sayılı Türk Borçlar Kanunu'nun 620) ve devamı maddelerinde düzenlenen adi ortaklığın taraf ehliyeti yoktur. Bu nedenle, adi ortaklığa ilişkin davalarda, adi ortaklığı oluşturan kişilerin taraf olarak hep birlikte hareket etmeleri gerekir. Adi ortaklık tarafından açılacak davaların iştirak halinde mülkiyet hükümleri gereği bütün ortaklar tarafından birlikte açılması gerekir. Adi ortaklığa karşı açılacak davalar yönünden ise; ikili bir ayrım yapmak gerekecektir.
 Davanın konusu paradan başka bir şey ise davanın bütün ortaklara karşı birlikte açılması (mecburi dava arkadaşlığı), davanın konusu para ise; ortaklar bu borçtan müteselsil sorumlu bulunduklarından ortaklardan biri, bazıları ya da tümüne karşı (ihtiyari dava arkadaşlığı) dava açılabilecek olup , bu husus taraf ehliyetine ilişkin olmakla , 6100 sayılı HMK 'nın 114/1-d maddesi gereğince dava şartlarından olduğundan , taraflarca ileri sürülmese dahi, mahkemece re'sen nazara alınabilecektir.
 
 Bu açıklamalar kapsamında somut olayda; Sözleşmeyi yüklenici olarak adi ortaklığı oluşturan davalı .... Şti. ve ... imzaladığı ve açılan davanın alacak davası olup, ortakların bu borçtan müteselsil sorumluluğu söz konusu olup, adi ortaklığı oluşturan şirketler arasında zorunlu dava arkadaşlığı bulunmadığından, diğer ortak olan ... ... Taahhüt Tic. Ve San. A.Ş 'nin mahkemece davaya dahil edilmesi için süre verilerek dahili davalı olarak davada yer almasının sağlanması ve hakkında hüküm kurulması usul ve yasaya aykırıdır.
 
 ## Ankara BAM 31. HD 2025/809 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1176586200)
 
 Dava, eser sözleşmesinden kaynaklanan bakiye alacak, teminat kesintisi alacağı ve fiyat farkı alacağı istemine ilişkindir.
 
@@ -71,6 +81,8 @@ Yine, mahkemece davalı müflis ... İnşaat Ltd. Şti'nin iflas etmiş olması 
 
 ## İstanbul BAM 14. HD 2025/589 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1138439100)
+
 Ataşehir Belediye Başkanlığı Ruhsat ve Denetim Müdürlüğü 18.02.2019 tarihli cevabı yazısında; ... parsel no:... adresinde bulunan iş yerine, herhangi bir iş yeri açma ve çalışma ruhsatının düzenlenmediğinin görüldüğü belirtilmiştir. Ataşehir Belediye Başkanlığı 26.02.2019 tarihli cevabı yazısında; 2 parsel 84 kapı sayılı yere ait encümen kararının alındığı, 24.12.2018 tarihli tutanağın düzenlendiği, yıkım kararları için bilgi verildiği belirtilmiştir. Gelir İdaresi Başkanlığı İstanbul Vergi Dairesi Başkanlığı Kadıköy Uygulama Grup Müdürlüğünün 20.02.2019 tarihli cevabı yazılarında; mükellef ...'ın ... Mahallesi ... adresindeki fırın ürünleri imalatı işini daireye verdiği 29.01.2018 tarihli işi terk dilekçesi ile 31.12.2017 tarihi itibariyle faaliyetini sonlandırdığı, 31.12.2017 tarihi itibariyle terk işlemini yaptığı, yapılan kontrolde terk formunun sunulduğu belirtilmiştir. 02.03.2021 tarihli bilirkişi raporunda; davacının bir dernek olduğu, TTK m. 56/3 uyarınca , tüzüğünde bu yönde bir düzenleme getirilmişse üyelerinin haklarını korumak için haksız rekabet sebebiyle TTK m.
 56/1'de yer verilen, haksız rekabetin tespiti, men'i ve haksız rekabetin sonucu olan maddi durumun ortadan kaldırılmasını talep edebileceği, davacının tüzüğünün 2.maddesine göre bu yetkisinin bulunduğu ve davacı sıfatını mevcut olduğu, iş şartları kavramının tüm iş hayatını kapsayan, rakipler için de geçerli olan tüm hukuki düzenlemeleri kapsayacak şekilde yorumlandığı, davalı tarafından mevzuat hükümlerine aykırı olarak fırın işletmeciliği gerçekleştirildiğinin dosya kapsamından anlaşıldığı, bu itibarla davalının iş şartlarına uymayarak TTK m. 55/1-e'de yer alan haksız rekabet eylemini gerçekleştirdiği belirtilmiştir. Taraf vekillerinin rapora beyanları sonrasında mahkemece yukarıda yer verilen gerekçelere istinaden davanın kabulüne dair hüküm tesis edilmiştir. Davalı tarafça adi ortaklık şeklinde faaliyet gösterildiğini, sadece kendisi aleyhine dava açılmasının usul ve yasaya aykırı olduğunu iddia etmiştir. İddiasının desteklemek amacıyla işletme kayıt belge örneğini ve ilgili belgeleri tekrar etmiştir. TBK'nın 620 vd maddelerde adi ortaklık sözleşmesi düzenlenmiştir.
 
@@ -78,6 +90,8 @@ Aynı Kanun'un 638. maddesinde temsilin sonuçlarına yer verilmiştir. Davanın
 Dava ise dava konusu uyuşmazlıkta yer alan ... hakkında açılmış olup davalı vekilinin adi ortaklığa dayalı istinaf nedenleri yerinde görülmemiştir. TTK'nın 54. maddesinde, haksız rekabet üst başlığı altında amaç ve ilkeler düzenlenmiştir. Maddenin 1. fıkrasında, haksız rekabete ilişkin hükümlerin amacının bütün katılanların menfaatine, dürüst ve bozulmamış rekabetin sağlanması olarak ifade edilmiştir. TTK'nın 55. maddesinde, dürüstlük kuralına aykırı davranışlar ticari uygulamalar başlığı altında 55/1 fıkrada, hangi hâllerin haksız rekabet halleri içerisinde yer aldığı belirtilmek üzere (a) bendinde, dürüstlük kuralına aykırı reklamlar ve satış yöntemleri ile diğer hukuka aykırı davranışlar ve özellikle hususların ne olduğuna yer verilmiştir. 55/e bendinde, iş şartlarına uymamak özellikle kanun veya sözleşme ile rakiplere yüklenmiş olan veya bir meslek dalında veya çevrede olağan olan iş şartlarına uymayanların dürüstlüğe aykırı davranmış olduğuna yer verilmiştir.
 
 ## Kayseri BAM 6. HD 2024/2125 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1079141600)
 
 Tekmil dosya mündericatı birlikte değerlendirildiğinde; "...Yargıtay 12. Hukuk Dairesi’nin 2014/20833 E, 2014/27427 K sayılı ilamında …
 
@@ -93,10 +107,14 @@ Davalılardan ... tarafından dava konusu talebe ilişkin sorumluluğu bulunmad�
 
 ## İstanbul BAM 13. HD 2024/1687 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1084735700)
+
 Davanın konusu paradan başka bir şey ise davanın bütün ortaklara karşı birlikte açılması (mecburi dava arkadaşlığı), davanın konusu para ise; ortaklar bu borçtan müteselsil sorumlu bulunduklarından 6098 sayılı Türk Borçlar Kanunu'nun 163. maddesi uyarınca ortaklardan biri, bazıları yada tümüne karşı (ihtiyari dava arkadaşlığı) dava açılabilecektir. Birleşen dosyada davacılar ... ve Ortakları ile ... San. ve Dış Tic. Ltd. Şti.'dir. Davacılar vekili tarafından, ... ve. Ort. ünvanlı 18/05/2018 tarihli adi ortaklık sözleşmesi, ... ünvanlı firma sahibi ... tarafından verilen vekaletname ve ... tarafından imzalı 08/10/2012 tarihli muvafakatname ibraz edierek dava açılmıştır. Adi ortaklık sözleşmesinde "... ve. Ort." ünvanlı adi ortaklığın ortaklarının %50'şer hisse ile ... ve ... olduğu; ... imzalı muvafakatnamede ise, ortaklık adına ortağı ...'ın ...
 A.Ş. aleyhine kar kaybı ve tazminat talepli dava ikame etmek, ikame edilecek davayı adi ortaklık adına şahsen ve/veya vekilleri aracılığı ile takip etmek ve sonuçlandırmaya muvafakat edildiğinin beyan edildiği görülmektedir.Birleşen dosyada davacı adi ortaklığın ortaklarından ... tarafından verilen vekaletnameye binaen dava açılarak, davanın takip edildiği, diğer ortak ... dava dilekçesinde davacı olarak gösterilmediği gibi dosyada kendisi adına verilmiş bir vekaletnamenin de bulunmadığı, muvafakatnamenin ise dava dışı ... İç ve Dış Ticaret A.Ş. aleyhine açılacak davalara ilişkin verildiği nazara alındığında, birleşen dava dosyasında usulüne uygun olarak taraf teşkili sağlanmadan karar verildiği anlaşılmaktadır. Bu durumda mahkemece, birleşen dosyada bayilik sözleşmesinin adi ortaklık şeklinde imzalandığı ve adi ortaklığı oluşturanlardan ...'ın davacı konumunda bulunduğu gözetilerek, davacıya, diğer adi ortak olan ...'un davaya katılımını veya muvafakatını sağlamak üzere mehil verilerek taraf teşkilinin sağlanması ve sonucuna göre hüküm kurulması gerekmektedir.
 
 ## Adana BAM 9. HD 2024/1660 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1075763200)
 
 Dava, Genel Kredi Sözleşmesi'ne dayalı olarak başlatılan icra takibine yapılan itirazın iptali istemine ilişkindir.
 
@@ -108,15 +126,21 @@ tasfiyesine ilişkin bir belgenin bulunmadığı, TBK'nun 638/3 maddesi uyarınc
 
 ## İzmir BAM 11. HD 2024/1512 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1063665200)
+
 Bilindiği üzere TBK'nun 620 ve devamı maddelerinde düzenlenen adi ortaklığın tüzel kişiliği bulunmadığı gibi herhangi bir ticari ünvanı da bulunmamaktadır. Adi ortaklığın ticaret siciline tescili ve ilanı zorunlu olmayıp, TBK'nun 12. Maddesi uyarınca adi ortaklığın kuruluşu kural olarak herhangi bir şekle de bağlı değildir. Aynı yasanın 638/3 maddesi uyarınca ise ortaklar birlikte veya bir temsilci vasıtasıyla üçüncü kişiye karşı ortaklık ilişkisi çerçevesinde üstlendikleri borçlardan, aksi kararlaştırılmadıkça müteselsilen sorumlu olurlar.
 
 Bu açıklamalar ışığında somut olaya bakıldığında; dosyada mevcut İzmir 19. Noterliği 22.02.2013 tarih, 03997 yevmiye numaralı Adi Ortaklık Sözleşmesinde görüleceği üzere dava dışı ... ve davalı ...'nın kredi sözleşmesinin imzalandığı sırada adi ortaklığın ortakları olduğu, bu adi ortaklık adına davacı bankadan kredi kullandıkları, aynı zamanda kredi sözleşmesinde müşterek borçlu ve müteselsil kefil olarak imzalarının bulunduğu, yukarıda belirtildiği üzere TBK'nun 638/3 uyarınca ortakların birlikte, üçüncü kişiye karşı adi ortaklık ilişkisi çerçevesinde üstlendikleri borçlardan müteselsilen sorumlu oldukları dikkate alındığında mahkemece adi şirket ortağı olduğu anlaşılan davalı yönünden yanılgılı değerlendirme ile davanın reddine karar verilmesinde isabet bulunmadığı, bu itibarla eksik incelemeye dayalı yerel mahkeme kararının HMK'nun 353/1-a.6 maddesi gereğince kaldırılması gerektiği sonucuna varılmıştır.
 
 ## Ankara BAM 27. HD 2024/735 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1072779000)
+
 Eldeki davada, davacılar ....Şti ve ....Şti adi ortaklık olup, sonucu itibariyle talep konusu alacaktan birlikte sorumlu olduklarından, menfi tespit davası açmalarında hukuki yararlarının bulunduğunun kabulü gerekmiştir. Davaya konu icra takibi sadece ....Şti tarafından yapılmış ise de, taraflar arasındaki sözleşme kapsamında taşeron olan ....Şti ile ... arasında mecburi dava arkadaşlığı bulunduğu, bu nedenle takibin sözleşmeyi imzalayan bu taşeronlar tarafından yapılması gerekmekte olup, mahkemesince ....Şti.'nin tek başına sözleşmeden kaynaklanan alacak nedeniyle adi şirketi oluşturan şirketler aleyhine takip yapamayacağına ilişkin kabulü doğru ise de; eldeki davanın icra takibine dayalı olarak açılması ve takibin mecburi dava arkadaşı olan ....Şti., ... tarafından yapılmaması nedeniyle icra takibinin usulüne uygun olmadığı ve bu takip yönünden menfi tespit talebinin bu nedenle kabulü gerekirken, mahkemece somut olayda İİK'nın 71 gereğince açılan bir dava olmadığı gözden kaçırılarak takibin iptaline karar verilmesi doğru olmamıştır.
 
 ## Ankara BAM 21. HD 2024/308 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1007956600)
 
 Dava; çek hesabı açılış sözleşmesinden kaynaklanan alacağın tahsili amacıyla başlatılan icra takibine vaki itirazın iptali istemine ilişkindir.
 

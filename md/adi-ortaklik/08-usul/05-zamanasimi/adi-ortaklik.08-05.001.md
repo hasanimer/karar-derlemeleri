@@ -20,15 +20,21 @@ uyari: "Derleyenin seçtiği alıntılardır; kararın tamamı değildir. Künye
 
 ## Yargıtay 3. HD 2026/86 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1198217000)
+
 Her ne kadar Bölge Adliye Mahkemesince; taraflar arasında adi ortaklık ilişkisi olduğu kabul edilerek, taraflar arasında imzalanan sözleşmede vade kararlaştırılmadığından borcun doğduğu anda muaccel olacağı, TBK'nın 146. maddesi gereğinde sözleşmeden kaynaklanan uyuşmazlıklarda on yıllık genel zamanaşımının uygulanacağı, davacının davalıya gönderdiği ihtarnamenin on yıllık zamanaşımı süresi dolduktan sonra gönderildiği ve zamanaşımının dolduğu gerekçesiyle, davacının istinaf başvurusunun reddine karar verilmiş ise de; taraflar arasındaki adi ortaklık olgusunun kesinleştiği, davacının talebinin adi ortaklık kapsamında verilen paranın tahsili istemiyle başlatılan takibe vaki itirazın iptali olduğu, adi ortaklığın tasfiye edildiğine dair bir delil de bulunmadığına göre zamanaşımının işlemeye başlamadığı kabul edilerek sonucuna göre bir karar verilmesi gerekirken, yanılgılı değerlendirme ile yazılı şekilde karar verilmiş olması usul ve kanuna aykırı olup bozmayı gerektirir.
 
 ## Yargıtay 3. HD 2025/2979 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1158129400)
 
 Adi ortaklığın tasfiyesi ya tarafların anlaşması suretiyle ya da bizzat mahkemece yapılır. Taraflar tasfiye konusunda anlaşmadığı takdirde ortaklığın tasfiyesinin mahkemece TBK’nın 642 vd. madde hükümlerine uygun olarak yapılması gerekir.
 
 Öte taraftan; adi ortaklık ilişkisine dayanılarak ortaklar arasında açılmış bulunan davalar, TBK'nın 147. maddesinin dördüncü bendi uyarınca beş yıllık zamanaşımına tabi olup; tasfiye alacağı bakımından zamanaşımı süresi, ortaklığın sona erdiği andan itibaren başlayacaktır.
 
 ## Yargıtay 3. HD 2015/948 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/141732900)
 
 TBK. nun. 147/4 (BK. nun 126/4) maddesi uyarınca, adi ortaklıktan doğan davalar beş yıllık zamanaşımına tabidir. Zamanaşımının başlangıcı ise, yerleşmiş Yargıtay uygulamasına göre adi ortaklığın sona ermesi ile başlar. Zira, sona erme sebeplerinin gerçekleşmesi ile birlikte ortaklık tasfiye aşamasına girmekte olup, buna bağlı olarak ortakların tasfiye alacağını isteme hakkı da muaccel olmuş olur(TBK. Md 149, BK. md. 128).
 
@@ -42,12 +48,16 @@ Zira hukuken ortadan kalkmış bir sözleşmedeki vade tarihinin yahut muacceliy
 
 ## Ankara BAM 27. HD 2026/327 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1201652100)
+
 Noterliği'nin 06.01.2017 tarihli ve 872 yevmiye numaralı ihtarname ile fesih edildiği, birleşen dava tarihi itibari ile 5 yıllık zamanaşımı süresinin dolmadığı, birleşen davanın ıslahına yönelik zamanaşımı def'i yönünden ise asıl davaya 05.07.2019 tarihli cevap dilekçesi içeriğinde takas def'inde bulunulduğu görülmekle TBK 154/2 maddesi kapsamında zamanaşımı kesilmiş olduğundan birleşen davanın ıslahının da 5 yıllık zamanaşımı süresi içerisinde yapıldığı anlaşılmakla bu kapsamda birleşen davada davalının zamanaşımı def'inin yerinde görülmediği, asıl davada davalı birleşen davada davacıların oluşturduğu iş ortaklığı ile dava dışı DSİ 8.
 
 Bölge Müdürlüğü arasında imzalanan 21.07.2016 tarihli Ağrı Ovası Yazıcı Sulaması Batı Derivasyon Tüneli İkmali İnşaatı İşine Ait Sözleşme kapsamında davacı birleşen davada davalıların oluşturduğu iş ortaklığı ile yüklenici iş ortaklığı arasında öncesinde 21.07.2016 tarihli ardından 25.07.2016 tarihli alt yüklenici sözleşmeleri imzalandığı, 25.07.2016 tarihli alt yüklenici sözleşmesinin 38. maddesinde; iş bu sözleşmenin imzalanmasından itibaren 22.07.2016 tarihli alt yüklenici sözleşmesinin iptal edilerek geçersiz olduğunun taraflarca kabul edildiği, bu kapsamda uyuşmazlığın çözümünde 25.07.2016 tarihli sözleşmenin esas alınması gerektiği, davalı birleşen davada davacı yüklenicinin idareye yapımını taahhüt ettiği Ağrı Ovası Yazıcı Sulaması Batı Derivasyon Tüneli İkmali İnşaatı İşi kapsamında sözleşme bedeli 14.437.500,00 TL üzerinden davacı birleşen davada davalı alt yüklenici ile imzalanan sözleşmenin 3. maddesinde ana sözleşme ve yapım işleri genel şartnamesi dahil eklerinin bu sözleşmenin ayrılmaz parçası ve eki olduğunun kabul edildiği, sözleşme süresi 540 takvim günü olarak belirlenip en geç 7 gün içerisinde işe başlanacağının öngörüldüğü, fesih ve tasfiyeyi düzenleyen 18.
 maddesinin A-2 bendinde alt yüklenicinin yükümlülüklerini yerine getirmemesi halinde ne kadar sürede ikmal edilmesi gerektiği tebliğ edilerek yazılı olarak ihtar gönderileceği, noksanlıkların belirtilen sürede telafi edilmemesi halinde yüklenicinin sözleşmeyi feshetmeye yetkili olduğunun kabul edildiği, davalı birleşen davada davacı yüklenici tarafından davacı birleşen davada davalı alt yükleniciye keşide edilen 21.12.2016 tarihli ihtarname ile sözleşme hükümlerine uyulmadığı, eksiklerin giderilmediği, işin aksamasına ve gecikmesine sebebiyet verildiği, iş programının gerisinde kalındığı belirtilerek 7 gün içerisinde 6 madde de belirtilen hususların yerine getirilmesinin istenildiği, ardından Ankara 57.
 
 ## İstanbul BAM 15. HD 2025/209 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1128601300)
 
 Taraflar arasında son yapılan sözleşme 01.02.2006 tarihli sözleşme olduğundan bu sözleşme kapsamında mahkemece inceleme yapılmış olması doğru olmuştur.Mahkemece, 01.02.2006 tarihli adi ortaklık sözleşme geçerli kabul edilerek yapılan masrafların buradaki paylaşım oranı olan davacı şirketin %51 ve davalı şirketin %49 hisse oranı itibariyle bilirkişiden rapor alınması doğru olmuştur.Denetime elverişli bilirkişi raporu gereğince; davacı tarafından adi ortaklık ilişkisine yapmış olduğu masraf toplamı 107.644,95 TL olduğu, davalının sorumlu olduğu bedel ise 52.746,03 TL olduğu anlaşılmıştır.Eldeki davanın tarafları arasındaki adi ortaklık hükümlerine ilişkin noterde düzenlenmiş yazılı bir sözleşme bulunmaktadır. Her iki taraf arasında adi ortaklık ilişkisinin bulunduğu konusunda bir uyuşmazlık yoktur. Adi ortaklık sözleşmesi mülga 818 sayılı BK'nın 520 ve devamı maddelerinde düzenlemiştir.Somut olayda taraflar arasındaki adi ortaklık henüz tasfiye edilip edilmediği dosya kapsamında belirlenememektedir.
 
@@ -56,10 +66,14 @@ yerel mahkemesine gönderilmesine karar verilmesi gerekmiştir.
 
 ## İstanbul BAM 13. HD 2025/99 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1119618000)
+
 Projesinin dijitalasyon projesine ilişkin profillerin temini ve montajına ilişkin olduğu, bu haliyle sözleşmenin montaj edimini de içeren satış sözleşmesi mahiyetinde bulunduğu, satış sözleşmesinden doğan alacakların TBK'nun 146 maddesi uyarınca on yıllık genel zamanaşımı süresine tabi bulunduğu, sözleşmenin 06/11/2012 tarihli olması, bu sözleşmelerden doğan alacakların da bu tarihten sonra muaccel olacak olmaları karşısında, 04/08/2020 takip tarihi itibariyle on yıllık zamanaşımı süresinin dolmadığı, takiple kesilen zamanaşımının yeniden işlemeye başladığı ve dava tarihi olan 05/02/2021 tarihi itibariyle de zamanaşımı süresinin dolmadığı, taraflar arasında yazılı bir cari hesap sözleşmesi bulunmadığından, mahkemenin zamanaşımı def'ini TTK'nun 101 maddesine dayalı olarak reddetmesi doğru görülmemiş ise de, red kararı sonucu itibariyle doğru olduğundan, davalı yanın zamanaşımına yönelik istinaf sebebinin yerinde olmadığı anlaşılmıştır.
 Davacı tarafından bir cari hesap mutabakatına değil, kendi defterlerindeki açık hesap bakiyesine dayalı olarak takip başlatılmış olması karşısında, davalı yanın cari hesap ekstresinde davalının imzasının bulunmadığına yönelik istinaf sebebi de yerinde değildir. Dosya içeriği delillere göre, davalıların oluşturduğu adi ortaklığın ticari defter ve kayıtlarında yer alan 17/09/2014 ve 18/09/2014 tarihli iki adet prim borcu ve ... geçmiş dönem icra tahsilatı açıklamalı ödemenin, ...'dan gelen yazı cevabı karşısında davacı adına yapıldıklarının kanıtlanamadığı, bunun dışında taraf deftelerinin birbiri ile uyumlu oldukları, mahkemece davacının davalıdan 13.555,16-TL alacaklı olduğuna yönelik tespit çerçevesinde davanın kabulüne karar verilmesinde usul ve yasaya aykırı bir yön bulunmadığı gibi, bu borçtan adi ortak sıfatıyla müteselsilen sorumlu olan davalının takibe vaki itirazının haksız ve alacağın likit nitelikte olması karşısında, davalılar aleyhine İİK'nun 67 maddesi uyarınca inkar tazminatı hükmedilmesinde de isabetsizlik bulunmadığı, aksi yöndeki istinaf sebeplerinin yerinde olmadığı anlaşılmıştır.
 
 ## İstanbul BAM 13. HD 2022/1100 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/784166500)
 
 Küçükköy Vergi Dairesi cevabi yazısından, ... şirketinin, fatura tarihlerinden (07.08.2015 - 31.08.2015 tarihleri arası) önce ortaklıktan 04.05.2015 ayrılmış olduğu, davacı tarafın da bu şirketin davalı olarak gösterilmesinin nedeninin dava açılırken ki Vergi Dairesindeki ortaklığı oluşturan ortakların güncellenmemesinden kaynaklandığını beyan etmiş olup, tüm bu hususlara göre ... Ticaret Anonim Şirketi açısından açılan davanın husumet nedeniyle reddine karar verilmiştir. Gerekçe kısmının bu aşamasından sonraki bölümünde davalılardan ibaresinden kasıt Davalı ... Adi Ortaklığı ve ... Ticaret Anonim Şirketi dışındaki diğer davalılardır. Davalı taraf zamanaşımı def'inde bulunmuş olsa da satış sözleşmesinden kaynaklanan alacaklar 10 yıllık zamanaşamı süresine tabi olup, zamanaşımı süresi dava açıldığında dolmamıştır.Maden Kanunun 3. Maddesinde; kantar fişi : Cevher nakillerinde cevherin ağırlığını gösterir tartı makbuzu olarak, sevk fişi ise : 213 sayılı Vergi Usul Kanununun 2365 sayılı Kanunla değişik 240 ıncı maddesinin birinci fıkrasının (A) bendinde yer alan taşıma irsaliyelerindeki bilgileri ihtiva eden beyan niteliğinde belge olarak tanımlanmıştır.
 Faturalara sekiz günlük süre içinde itiraz edildiği taktirde, fatura içeriğinin sözleşmeye uygun olduğunu ispat külfeti faturayı veren tarafa ait iken, sekiz günlük sürenin geçmesinden sonra itiraz edilmesi halinde, fatura içeriğinin sözleşmeye uygun olmadığını ispat külfeti faturayı alan tarafa aittir.Yer tesliminden önce taraflar arasında hakedişlere dayalı hukuki ilişki olduğuna ilişkin ihtilaf bulunmamaktadır.

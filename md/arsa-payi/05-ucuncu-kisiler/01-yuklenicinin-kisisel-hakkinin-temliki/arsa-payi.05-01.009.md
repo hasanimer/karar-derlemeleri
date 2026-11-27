@@ -22,6 +22,8 @@ uyari: "Derleyenin seçtiği alıntılardır; kararın tamamı değildir. Künye
 
 ## Yargıtay 23. HD 2015/1180 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/202071300)
+
 Davacılar vekili, davalılar arasında imzalanan arsa payı karşılığı inşaat sözleşmesinin 24.02.2004 tarihli ek sözleşme ile 3. ve 4. maddelerinin değiştirildiğini, davacıların murisi ... ile arsa sahibi davalı ... arasında yapılan 08.10.2004 tarihli taşınmaz satış sözleşmesine konu taşınmazın fiilen 2005 Mayıs tarihinde teslim edildiğini ve halen kullanımlarında olduğunu ileri sürerek, davalı kooperatif tarafından yapılarak arsa sahibi ...'a verilen 3 nolu bağımsız bölümdeki dairenin mimari projesine göre olması gereken arsa payı miktarının tapu kaydının iptali ile müvekkilleri adına tesciline, söz konusu dairenin müvekkillerine ait olduğunun tespitine, davacıların davalı kooperatife borçlu olmadıklarının tespitine, davalı kooperatifin müdahalesinin önlenmesine, davalı kooperatife yapılan ödemelerin istirdadına dair talep ve haklarının saklı tutulmasına, tapu iptali ve tescili talepleri kabul görmediği taktirde dava konusu dairenin bedelinin işleyecek faizi ile birlikte tahsiline karar verilmesini talep ve dava etmiştir.
 
 Davalı ... vekili, şekil kurallarına uymayan dava konusu sözleşmenin geçersiz olduğunu, davacının bütün taleplerinin zamanaşımına uğradığını, yüklenici kooperatif ile yapılan arsa payı karşılığı inşaat sözleşmesinden sonra ek sözleşme ile müvekkiline düşecek dairelerden üç tanesinin kooperatife verildiğini, sonra da müvekkilinin kooperatife terk etmeyi kabul ettiği dairelerden birini davacılar murisi kooperatif üyesine sattıklarını, ancak resmi işlemler için imza atması istendiğinden önceden hazırlanmış belgenin müvekkiline imzalatıldığını, müvekkiline davacı murisi tarafından para ödenmediğini, dava konusu sözleşmeyi imzaladığı sırada 65 yaşın üstünde olan ve saf bir kişiliğe sahip müvekkilinin kandırıldığını savunarak, davanın reddini istemiştir.
@@ -38,6 +40,8 @@ Diğer taraftan arsa sahibi yükleniciye karşı öncelikli edimini tamamen veya
 SONUÇ: Yukarıda (1) numaralı bentte açıklanan nedenlerle, davalı ... vekili ile davacılar vekilinin diğer temyiz itirazlarının reddine, (2) numaralı bentte açıklanan nedenlerle, davacılar vekilinin; (3-a) numaralı bentte açıklanan nedenlerle davalı ... vekilinin temyiz itirazlarının kabulü ile hükmün, adı geçen taraflar yararına ayrı ayrı BOZULMASINA …
 
 ## Yargıtay 23. HD 2015/742 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/201551800)
 
 Davacı vekili, davalının, müvekkilinin yöneticisi olduğu apartmanın yükleniciliğini yaptığını, A/2 bloğun dış cephe sıvasında ve 3. kattaki 2 adet dubleks dairenin tavanında bir takım kusurlu imalatlar bulunduğunu, bunların giderilebilmesi için 30.500,00 TL harcama yapılması gerektiğini ileri sürerek, bu meblağın davalıdan tahsilini talep ve dava etmiştir.
 
@@ -56,6 +60,8 @@ SONUÇ: Yukarıda (1) numaralı bentte açıklanan nedenlerle, davacı vekilinin
 
 ## Yargıtay 13. HD 2014/37688 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/103503100)
+
 Davacı, davalı Mehmet'e ait 15 nolu parselde diğer davalı B.. şirketi tarafından kat karşılığı inşaat sözleşmesi ile inşaa ettiği ve kendisine düşen 8 nolu daireyi davalı şirketten 22.11.2008 tarihli sözleşme ile satın aldığını, bilahare inşaatın diğer davalı şirket tarafından devir alındığını, site inşaatı tamamlanıp kat mülkiyetine geçildiği halde dairenin tapusunun verilmediğini ileri sürerek davalı Mehmet adına olan tapunun iptali ile adına tesciline, şayet taşınmaz 3. Şahıslara devir edilmiş ise de devir tarihindeki rayiç değerinin müteselsilen ödetilmesine karar verilmesini istemiştir.
 
 Davalı B.. şirketi duruşmaya gelmemiş, cevap da vermemiş, diğer davalılar da davanın reddini dilemişlerdir.
@@ -72,6 +78,8 @@ SONUÇ:Yukarıda açıklanan nedenle kararın davacı yararına BOZULMASINA …
 
 ## Yargıtay 14. HD 2014/12706 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/358748700)
+
 Davalılar, dava konusu yapılan ipoteğin inşaat teminat ipoteği olduğunu, dava dışı yüklenicinin inşaatı ikmal etmediğini, arsa payı karşılığı inşaat sözleşmesinin 7. maddesinde, ipoteğin kaldırılması koşullarının belirlendiğini, inşaat teminat ipoteğinin miktara bağlı olmadığını, inşaatın % 45 seviyesinde bırakıldığını, yüklenici aleyhine sözleşmenin feshi, tapuların iptali ve tescil davası açıldığını, ... Asliye Hukuk Mahkemesinin 2005/27 Esas sayılı dosyası ile devam etmekte olan dava sonucunun beklenmesi gerektiğini ve ipoteğin kaldırılması şartlarını oluşmadığını ileri sürerek davanın reddini savunmuşlardır.
 
 Mahkemece,... Asliye Hukuk Mahkemesinin 2010/828 Esas Sayılı dava dosyasında ipotek bedelinin yatırılmış olduğundan davanın konusuz kaldığını bu nedenle ipotek bedeli hakkında bir karar verilmeksizin dava konusu edilen taşınmazlar üzerindeki ipoteklerin fekkine dair hüküm kurulmuştur.
@@ -87,6 +95,8 @@ Dava inşaat teminat ipoteğinin kaldırılması istemine ilişkin olup, ipotek 
 Arsa payı devri karşılığı inşaat yapım sözleşmelerinde, binayı sözleşmeye, amacına ve fen ve sanat kurallarına uygun imal ederek arsa sahibine teslim etmek yüklenicinin ana borcudur. Kural olarak da aslolan sözleşmenin kararlaştırıldığı şekilde eksiksiz ifasıdır.
 
 ## Yargıtay 14. HD 2014/10402 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/105615300)
 
 Dava, yüklenicinin temliki işlemine dayalı tapu iptali ve tescil, ikinci kademede ödenen bedelin yükleniciden tahsili isteğine ilişkindir.
 
@@ -109,6 +119,8 @@ SONUÇ:Yukarıda (1). bentte açıklanan nedenlerle davacı vekilinin sair temyi
 
 ## Yargıtay 14. HD 2014/7965 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/105551700)
+
 Dava, yüklenicinin temlikine dayalı tapu iptali ve tescili istemine ilişkindir.
 
 Davalılar davanın reddini savunmuştur.
@@ -129,6 +141,8 @@ SONUÇ: Davalıların temyiz itirazlarının kabulü ile hükmün BOZULMASINA �
 
 ## Yargıtay 23. HD 2014/7945 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/118289500)
+
 Davacı vekili, müvekkili ile dava dışı yüklenici S. B. arasında imzalanan arsa payı karşılığı inşaat sözleşmesi ve ek sözleşme gereği, müvekkiline isabet eden A blok 2 numaralı bağımsız bölümün yükleniciye verilen vekaletname ile üçüncü kişiye satıldığını, bir kaç kez el değiştirerek en son 08.04.2010 tarihinde davalıya satıldığını, 08.11.2010 tarihinde ise müvekkili ile dava dışı yüklenicinin karşılıklı olarak inşaat sözleşmelerini feshettiklerini, feshin geriye etkili olup, üçüncü kişiden bağımsız bölüm satın alan davalının iyiniyetinin korunamayacağını ileri sürerek, davalı adına olan tapu kaydının iptali ile müvekkili adına tescilini talep ve dava etmiş, 20.02.2013 tarihli ıslah dilekçesiyle de, tapu iptali ve tescil istemi kabul görmez ise A bloğun tamamının davacı tarafından yaptırıldığının tespitiyle dava konusu bölümün değerinin davalıdan tahsilini istemiştir.
 
 Davalı vekili, feshedilen sözleşme ile müvekkilinin dava konusu bağımsız bölümü iktisabı arasında 17 yıllık süre geçtiğinden zamanaşımı süresinin dolduğunu, davalının bağımsız bölümü tapuya güvenerek iyiniyetle iktisap ettiğini, davacı ile dava dışı yüklenicinin fesih sırasında karşılıklı olarak ibralaştıklarını, davalıya karşı işbu davanın açılamayacağını ve davalıya husumet yöneltilemeyeceğini savunarak, davanın reddini istemiştir.
@@ -148,6 +162,8 @@ Sözleşmenin geriye etkili feshi halinde bu tapu payları 818 sayılı BK'nın 
 SONUÇ: Yukarıda (1) numaralı bentte açıklanan nedenlerle hükmün re'sen BOZULMASINA …
 
 ## Yargıtay 23. HD 2014/6538 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/118172000)
 
 Davalı .... Giyim A.Ş.
 
@@ -172,6 +188,8 @@ SONUÇ: Yukarıda (1) numaralı bentte açıklanan nedenlerle, asıl ve birleşe
 
 ## Yargıtay 23. HD 2014/5808 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/119879500)
+
 Davacı vekili, taraflar arasındaki arsa payı karşılığı inşaat sözleşmesi gereğince, davacı arsa sahibine verilmesi gereken dairelerden bir kısmının teslim edilmediğini, harici olarak imzalanan ve davacıya verilecek dairelerin bir kısmının değiştirildiği ek sözleşmelerin geçersiz olduğunu ileri sürerek, asıl sözleşme gereğince davacıya teslimi gereken beş adet dairenin davacıya ait olduğunun tespiti ile teslimi için davalının icbar edilmesini talep ve dava etmiştir.
 
 Davalı vekili, ek sözleşme ile dava konusu edilen dairelerin yerine başka dairelerin verilmesinin kararlaştırıldığını ve bunların da davacıya teslim edildiğini ve iki adet dairede davacının yeğenlerinin oturduğunu savunarak, davanın reddini istemiştir.
@@ -190,6 +208,8 @@ SONUÇ: Yukarıda (1.) bentte açıklanan nedenlerle, davalı vekilinin temyiz i
 
 ## Yargıtay 14. HD 2014/5499 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/105751000)
+
 Davalılar, davanın reddini savunmuştur., …
 
 Mahkemece, davanın kısmen kabulüne karar verilmiştir.
@@ -205,6 +225,8 @@ Davada ikinci kademede tazminat talebinde bulunulmuştur. Gerçekten, davacı ak
 SONUÇ: Yukarıda 1. bentte açıklanan nedenlerle davacılar vekilinin diğer temyiz itirazlarının reddine, 2. bent gereğince hükmün BOZULMASINA …
 
 ## Yargıtay 23. HD 2014/3289 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/113907700)
 
 Davacı vekili, arsa sahibi davalı İ.. Ş.. ve dava dışı Y. Ş..'ün davalı yüklenici M..
 
@@ -228,6 +250,8 @@ SONUÇ :Yukarıda (1) numaralı bentte açıklanan nedenlerle, hükmün BOZULMAS
 
 ## Yargıtay 23. HD 2014/2979 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/113330600)
+
 Davacılar vekili, müvekkillerinden F.. A.. ve N.. A.. ile davalı yüklenici arasında 28.06.2003 tarihinde arsa payı karşılığı inşaat sözleşmesi imzalandığını, sözleşmede 3. kat dairenin çatı piyesli yapılacağı kararlaştırıldığı halde bunun yapılmadığını, mutfak, banyo ve tuvaletin tavana kadar fayans olması ve odaların tavanlarının kartonpiyer yapılması gerekirken, bu işlerin eksik bırakıldığını, binanın SSK prim borcu ve vergi cezaları bulunduğunu, halen kat irtifakının tesis edilmediğini ileri sürerek, şimdilik 800,00 TL'nin davalıdan tahsilini talep ve dava etmiştir.
 
 Davalı, davanın reddini istemiştir.
@@ -246,6 +270,8 @@ SONUÇ: Yukarıda (1) numaralı bentte açıklanan nedenlerle, davacılar vekili
 
 ## Yargıtay 15. HD 2014/2106 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/105727200)
+
 Davacılar vekili, arsa sahipleri H.. A.. ve Y. B. ile davalıların miras bırakanı K.
 
 …
@@ -262,6 +288,8 @@ Arsa payı karşılığı inşaat sözleşmeleri, somut olayda uygulanması gere
 Arsa sahipleri H.. A.. ile yüklenici K. Ç. arasında Bilecik Noterliği'nin 28.03.2005 gün ve 02965 yevmiye numarasıyla düzenleme şeklinde "Gayrimenkul Satış Vaadi ve Kat Karşılığı İnşaat Sözleşmesi" yapılmıştır. Sözleşme hükümlerine göre, yüklenici tarafından C.Mahallesi'nde kain ..ada .. parsel numaralı taşınmaz üzerine her katta iki bağımsız bölüm olmak üzere sekiz katlı bina yapılacak ve yapılan bu binadaki 1, 2, 3, 6, 11, 12 ve 13 numaralı bağımsız bölümler ile zemin ve bodrum kat yükleniciye ait olacaktır. Davacı arsa sahipleri, 1, 2, 11, 12 ve 13 numaralı bağımsız bölümlerin yüklenici K. Ç. adına tescil edilmesi gerekirken hata sonucu davalı adına tescil edildiğini, bu bağımsız bölümleri yüklenici veya mirasçıları adına tescil ettirebilmek için davalı adına yapılan tescil işleminin iptâli ile adlarına tesciline karar verilmesini istemiştir. Mahkemece, tapu devir işleminin iptâli için yasal unsurların oluşmadığı gerekçesiyle davanın reddine karar verilmiştir.
 
 ## Yargıtay 14. HD 2014/2015 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/105505300)
 
 Dava, yükleniciden alınan temlike ve muvazaa iddiasına dayalı tapu iptali ve tescil, ikinci kademede tazminat istemine ilişkindir.
 
@@ -282,6 +310,8 @@ Bir tanımlama yapmak gerekirse; alacağın temliki, alacaklı ile onu devralan 
 SONUÇ: Yukarıda 1. bentte açıklanan nedenlerle davalılar vekilinin sair temyiz itirazlarının REDDİNE, hükmün 2. bentte yazılı nedenlerle BOZULMASINA …
 
 ## Yargıtay 23. HD 2014/1621 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/112197100)
 
 Davacı vekili, müvekkili ile davalı arsa sahibi O..
 

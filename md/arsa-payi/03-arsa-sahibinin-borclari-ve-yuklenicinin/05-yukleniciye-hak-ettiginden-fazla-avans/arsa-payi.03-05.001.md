@@ -20,6 +20,8 @@ uyari: "Derleyenin seçtiği alıntılardır; kararın tamamı değildir. Künye
 
 ## Yargıtay 5. HD 2025/10997 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1176078900)
+
 Mahkemece bozmaya uyularak yeniden yapılan yargılama sonucunda; davanın kabulüne karar verilmiştir.
 
 …
@@ -39,6 +41,8 @@ Yargıtay (Kapatılan) 20. Hukuk Dairesince yapılan temyiz incelemesi sonucunda
 Davalı ...'ın temyiz itirazlarının kabulü ile temyiz olunan kararın BOZULMASINA …
 
 ## Yargıtay 5. HD 2025/8771 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1171161100)
 
 İlk Derece Mahkemesince bozmaya uyularak yeniden yapılan yargılama sonucunda; davanın kabulüne karar verilmiştir.
 
@@ -60,6 +64,8 @@ Davalılar ... vd. vekilinin yerinde görülmeyen tüm temyiz itirazlarının re
 
 ## Yargıtay 6. HD 2023/3751 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1019173200)
+
 Davacılar vekili dava dilekçesinde özetle; davacıların murisi ...
 
 …
@@ -76,6 +82,8 @@ Bu konuda bozmaya yanlış anlam verilerek her iki alacak talebinin HMK m.180 ge
 2\. 2, 3, 4, 5 no.lu paragraflarda açıklanan nedenlerle, davacılar vekilinin ve davalılar vekilinin temyiz itirazlarının kabulü ile hükmün BOZULMASINA …
 
 ## Yargıtay 5. HD 2023/713 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/867788700)
 
 İlk Derece Mahkemesince bozmaya uyularak yeniden yapılan yargılama sonucunda; davanın kabulüne karar verilmiştir.
 
@@ -97,6 +105,8 @@ Davalı tarafın yerinde görülmeyen tüm temyiz itirazlarının reddiyle usul 
 
 ## Yargıtay 5. HD 2021/10097 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/686870100)
+
 Davacılar vekili arsa paylarının yeniden düzenlenmesini istemiştir.
 
 Mahkemece davanın kabulüne karar verilmiş, kararın temyizi üzerine,Yargıtay (kapatılan) 20.
@@ -113,6 +123,8 @@ Dosyanın ve hükme esas alınan bilirkişi raporunun incelenmesinde, davacılar
 Açıklanan nedenlerle temyiz itirazlarının kabulü ile hükmün HUMK.nun 428. maddesi gereğince BOZULMASINA …
 
 ## Yargıtay 3. HD 2019/8655 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/562335500)
 
 Davacılar; kendilerine ait bağımsız bölümlerin de bulunduğu binanın kentsel dönüşüm kapsamında yıkılarak yeniden inşa edildiğini, bu kapsamda 02/04/2014 tarih ve 07745 yevmiye numarası ile kayıtlı düzenleme şeklinde satış vaadi ve arsa payı karşılığı inşaat sözleşmesinin imzalandığını; sözleşme uyarınca "eski daire maliklerinin oturduğu dairenin yerini alacağının, katlardaki daire paylaşımının ise eşite yakın metrakarelerde yapılacağının" kararlaştırıldığını; binaya ait yapı kullanım izin belgesinin 31/12/2015 tarihinde alındığını, dairelerin teslimiyle birlikte bağımsız bölümler arasında gerek metrekare gerekse oda sayısı bakımından eşitsizlik meydana getirildiğini, önceden ise aynı katta bulunan dairelerin, metrekare, oda sayısı ve diğer unsurlar yönünden birebir aynı olduğunu; yeni bina için hazırlanan 26/11/2015 tarihli değerlendirme raporu ile eski daire maliklerine ait dairelerin aynı oranda değerlenmediğinin görüldüğünü, bu orantısız değerlendirme nedeniyle bağımsız bölüm maliklerinden davalıların sebepsiz zenginleştiklerini; davaya konu binada keşif ve bilirkişi incelemesi yaptırılması suretiyle hangi dairede ne miktarda sebepsiz değer artışı olduğunun tespit
 edilebileceğini, davalıların tespit edilecek bedelden sorumlu olduklarını ileri sürerek; fazlaya ilişkin hakları saklı kalmak kaydıyla, şimdilik 1.200,00 TL nin davalıların her birinden sorumlu oldukları miktarla sınırlı olmak üzere faiziyle birlikte tahsiline karar verilmesini talep ve dava etmişlerdir.
@@ -139,6 +151,8 @@ SONUÇ: Yukarıda açıklanan nedenlerle 6100 sayılı HMK'nın 373/1 maddesi uy
 
 ## Yargıtay 20. HD 2019/3199 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/513015800)
+
 Davacılar vekili.......ada 5 parsel numaralı 553 m2 yüzölçümlü kat irtifaklı arsa nitelikli ana taşınmazda yer alan bağımsız bölümlere tahsis edilen arsa paylarının, kat irtifakı tesis edildiği tarihteki bağımsız bölüm değerleri dikkate alınmaksızın orantılı verilmediğini beyanla, bağımsız bölümlere tahsis edilen arsa paylarının düzeltilmesini talep etmiştir. Mahkemece davanın reddine karar verilmiş, hüküm davacılar vekili tarafından temyiz edilmiştir.
 
 Dava, bağımsız bölümlere özgülenen arsa paylarının yeniden düzenlenmesi istemidir.
@@ -151,6 +165,8 @@ Somut olayda ise; dava konusu taşınmazda kat irtifakına geçiş tarihinde ba�
 SONUÇ: Yukarıda açıklanan nedenlerle; davacılar vekilinin temyiz itirazlarının kabulü ile hükmün BOZULMASINA …
 
 ## Yargıtay 20. HD 2019/1189 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/493264600)
 
 Davacı vekili dava dilekçesinde özetle; müvekkillerinin davalılarla birlikte; ... ili, ... ilçesi, ... mahallesi, 635 ada 2 nolu parselde kayıtlı anataşınmazdaki binada dükkan nitelikli 20/300 arsa paylı 8 nolu bağımsız bölüm ile yine dükkan nitelikli 40/300 arsa paylı ... nolu bağımsız bölümlere birlikte malik olduklarını, anataşınmaz üzerindeki arsa paylarının tapuya şerh edilirken hakkaniyete uygun davranılmadığını, ... Belediyesi Yapı Kontrol Müdürlüğünce, 25.03 2015 tarihinde yapılan tespit sonucunda müvekkillerine ait ... nolu bağımsız bölümün ortak alanlar hariç brüt alanının 125,21 m2 ve net alanının da 118,09 m2 olarak belirlendiğini, ancak müvekkillerine ait ... nolu bağımsız bölümün arsa payının tapu kaydına 40/300 olarak tescil olduğunu, yine ...
 
@@ -166,6 +182,8 @@ SONUÇ: Yukarıda açıklanan esaslar gözönünde tutulmaksızın yazılı şek
 
 ## Yargıtay 23. HD 2018/5988 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/468806100)
+
 Davacılar vekili, davacılar ile dava dışı ilk yüklenici arasında 01.05.1997 tarihli arsa payı karşılığı inşaat sözleşmesi imzalandığını akabinde inşaatın davacıların da muvafakatıyla ....04.1999 tarihinde davalı yüklenicilere devredildiğini, davalı tarafın inşaatı % 98 seviyesine kadar getirdiklerini, inşaatta eksik ve ayıplı imalatlar bulunduğunu, iskan izninin alınmadığını, davacıların kendilerine bırakılan daireleri bu haliyle kullanmaya başladıklarını ileri sürerek, eksik ve ayıplı işler bedeli olarak toplam ....000,00 TL'nin davalıdan yasal faizi ile birlikte tahsilini, yine masrafları davalı yükleniciye ait olmak üzere arsa sahipleri tarafından eksikliklerin giderilmesi için davacılara izin verilmesini talep ve dava etmiştir.
 
 Davalılar vekili, davanın reddini istemiştir.
@@ -180,6 +198,8 @@ SONUÇ:Yukarıda (...) numaralı bentte açıklanan nedenlerle, davacı vekilini
 
 ## Yargıtay 20. HD 2018/5548 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/433830100)
+
 Mahkemece yasal koşulları oluşmayan ve kanıtlanamayan davanın reddine karar verilmiş, hüküm davacılar tarafından temyiz edilmiştir.
 
 Dava konusu uyuşmazlık, arsa payının düzeltilmesi istemine ilişkindir.
@@ -193,6 +213,8 @@ Mahkemece bilirkişiden kat irtifakının kurulduğu tarih itibariyle arsa payla
 SONUÇ: Yukarıda açıklanan nedenlerle; davacıların temyiz itirazlarının kabulü ile hükmün BOZULMASINA …
 
 ## Yargıtay 20. HD 2018/198 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/410317900)
 
 Davacılar vekili dava dilekçesi ile; ..... mahallesi, 367 ada, 12 parsel sayılı taşınmazda arsa paylarının doğru bir şekilde düzenlenmediğinden bahisle bağımsız bölümlerden her birinin konum ve büyüklüklerine göre hesaplanacak değerleri ile orantılı olarak arsa paylarının düzeltilmesini talep etmiştir.
 
@@ -209,6 +231,8 @@ Dava konusu taşınmazda 1966 yılında kat irtifakı kurulduğu dikkate alınd�
 SONUÇ: Yukarıda açıklanan nedenlerle davacılar vekilinin temyiz itirazlarının kabulü ile hükmün BOZULMASINA …
 
 ## Ankara BAM 21. HD 2023/1649 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/977680300)
 
 Davacı vekili dava dilekçesinde özetle; müvekkilinin %25 pay sahibi ve kurucu ortağı olduğu dava dışı ... Şirketi'nde davalının % 25 pay sahibi, kurucu ortağı ve müdürü olduğunu, şirketin 2008 yılından itibaren faaliyet halinde olduğunu, müvekkilinin şirketin borcunu teminat altına almak üzere ... parsel sayılı arsa niteliğindeki taşınmaz üzerinde dava dışı ...
 

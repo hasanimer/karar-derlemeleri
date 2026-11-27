@@ -22,6 +22,8 @@ uyari: "Derleyenin seçtiği alıntılardır; kararın tamamı değildir. Künye
 
 ## Yargıtay 15. HD 2021/1198 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/658693600)
+
 Dava, eser sözleşmesinden kaynaklanan alacak ve kar kaybının tahsili istemine ilişkindir.
 
 …
@@ -37,6 +39,8 @@ Yukarıda açıklanan nedenlerle davalı kooperatif hakkında açılan davanın 
 
 ## Yargıtay 15. HD 2020/3296 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/636355700)
+
 Asıl ve birleşen davalarda davalı yüklenici ... ile arsa sahibi muris ... arasında ...2.
 Noterliğinin 17.01.1992 tarih ve 785 yevmiye nolu kat karşılığı inşaat sözleşmesi imzalandığı, sözleşme uyarınca davalı yüklenici tarafından yapılacak olan inşaatta %50 payın arsa sahibine, %50 payın ise yükleniciye ait olacağı, yapılacak binanın her türlü vergi, resim, harç, sigorta, ceza ve diğer işçi giderleri olmak üzere bilumum giderlerin yüklenici tarafından karşılanacağının kararlaştırıldığı, asıl ve birleşen davalarda yükleniciden haricen bağımsız bölüm satın alan davacıların temliken tescile hak kazanabilmeleri için yüklenicinin inşaatı arsa sahibi ile imzaladığı sözleşme ve ekleri, proje ve şartname ile imar mevzuat hükümlerine göre tamamlayıp arsa sahibine ait bağımsız bölümleri teslim etmesinin zorunlu olduğu, asıl ve birleşen davaların açıldığı tarihlerde davalı yüklenici tarafından binanın tam olarak bitirilip davalı arsa sahiplerine teslim edilmediği, inşaatta eksik ve kusurlu imalatlar tespit edildiği, bunların bedelinin yükleniciden bağımsız bölüm satın alan asıl ve birleşen dava davacıları tarafından mahkeme veznesine depo ettirdiği, bu şekilde mahkemece birlikte ifaya karar verildiği, davalı arsa sahiplerinin bu durumda davaya karşı çıkmakta haklı oldukları
 anlaşıldığından aleyhlerine yargılama gideri ve vekalet ücreti hükmedilmesinin doğru olmadığı, kararın belirtilen bu nedenle bozulması uygun bulunmuş ise de, yapılan bu yanlışlığın giderilmesi yeniden yargılama yapılmasını gerektirmediğinden HUMK’nın 438/VII. maddesi gereğince kararın düzeltilerek onanması uygun bulunmuştur.
@@ -47,6 +51,8 @@ davacı - asıl ve diğer birleşen davalarda davalı arsa sahiplerinin diğer t
 …
 
 ## Yargıtay 15. HD 2020/245 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/572841000)
 
 Davacı yüklenici asıl davasında arsa payı karşılığı inşaat sözleşmesi ile üstlendiği edimlerini yerine getirdiğinden sözleşme konusu taşınmazdaki 4-5 ve 17 nolu bağımsız bölümlerin tapu kayıtlarının iptâli ve adına tescilini, mümkün olmadığı takdirde rayiç değerlerinin tespit ve tahsiline karar verilmesini talep ve dava etmiştir. Yargılama aşamasında gündeme gelen ve bilirkişi raporunda yükleniciye ait olacağı belirtilen 7 nolu bağımsız bölümün tesciliyle ilgili dava olmadığı gibi aidiyeti de ihtilâflı olduğundan yüklenicinin sözleşme ile üstlendiği edimi ifa etmesi ve o bağımsız bölüm yönünden de tapu iptâl ve tescile hak kazanması halinde 7 nolu bağımsız bölümle ilgili ayrıca bir talepte bulunup ayrı bir dava açması mümkün olduğundan, eldeki davada 7 nolu bağımsız bölümle ilgili karar verilmemiştir.Yüklenici şirket ile arsa sahipleri arasında ... 1.
 
@@ -61,6 +67,8 @@ Yerel mahkeme hükmünün bu gerekçe ve 17 nolu bağımsız bölüm yönünden 
 
 ## Yargıtay 15. HD 2020/203 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/571935100)
+
 O halde mahkemece; daha önce rapor ibraz eden bilirkişilerden farklı, konusunda uzman yeni bir bilirkişi kurulu oluşturularak mahallinde keşif yapılıp, davacı-birleşen dosya davalısı yüklenicilerin 24.02.2006 günlü kat karşılığı inşaat sözleşmesine göre gerçekleştirdikleri inşaatla ilgili dosyadaki tüm delil ve belgeler de dikkate alınarak serbest piyasa rayiçleri ile yapılan hesaplamanın içinde yüklenici kârı ve KDV'nin de dahil olduğu ve hesaplanan bedele ayrıca KDV ilavesi yapılmayacağı da gözetilmek sureti ile fesih tarihi 2009 yılı mahalli serbest piyasa rayiçlerine göre yüklenici kârı ve KDV dahil bedelin hesaplattırılıp, sonucuna uygun karar verilmesi gerekir.
 
 …
@@ -69,6 +77,8 @@ SONUÇ: Yukarıda 1. bentte yazılı nedenlerle tarafların diğer temyiz itiraz
 
 ## Yargıtay 15. HD 2019/4909 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/560037600)
+
 Bu durumda mahkemece yapılması gereken iş; öncelikle asli müdahale talebinde bulunup haklarında olumlu ya da olumsuz bir karar verilmeyen kişiler ile ilgili noksan harç tamamlattırılıp talepleri konusunda bir karar verilerek ve 6100 sayılı HMK'nın 281/3. maddesi gereğince maddi gerçeğin ortaya çıkması için yeniden oluşturulacak konusunda uzman üç kişilik teknik bilirkişi heyeti ile mahallinde keşif de yapılmak suretiyle asıl ve birleşen ... Batı 5. Asliye Hukuk Mahkemesi’nin 2014/42 Esas sayılı dosya davacısı yüklenicinin gerçekleştirdiği ve arsa sahipleri yararına olan sözleşme ve ekleri ile tasdikli projesi ve imara uygun iş ve imalâtların, fesih (dönme) kararının kesinleştiği tarihteki piyasa rayiçleri ile piyasa fiyatları içerisinde KDV ve müteahhit karı da bulunduğundan ayrıca bu kalemler eklenmeksizin bedelinin tespit edilmesi konusunda Yargıtay denetimine elverişli rapor alınarak asıl davada yüklenicinin ve asli müdahillerin talepleri ile ilgili sonucuna uygun karar verilmesinden ibarettir.
 
 …
@@ -76,6 +86,8 @@ Bu durumda mahkemece yapılması gereken iş; öncelikle asli müdahale talebind
 SONUÇ: Yukarıda 1. bentte açıklanan nedenlerle birleşen 2015/141 Esas sayılı dosya davacılarının tüm, asıl ve birleşen 2014/42 Esas sayılı dosya davalıları arsa sahipleri ve mirasçılarının diğer temyiz itirazlarının reddine, 2. bent uyarınca temyiz itirazlarının kabulü ile hükmün asıl ve birleşen 2014/42 Esas sayılı dosya davalıları arsa sahipleri ve mirasçıları yararına BOZULMASINA …
 
 ## Yargıtay 15. HD 2019/2832 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/514922600)
 
 Davacı H.. K.. ile davalı S.. K.. arasındaki davadan dolayı ...
 
@@ -94,10 +106,14 @@ SONUÇ: Yukarıda 1. bentte açıklanan nedenlerle davalının tüm karar düzel
 
 ## Yargıtay 15. HD 2019/2576 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/515956900)
+
 Tarafların ticari defterlerinin incelenmesi sonucu alınan 15.08.2014 havale tarihli bilirkişi raporundan davacı tarafından kesilen faturanın davalı defterinde kayıtlı olduğu anlaşıldığı gibi yine aynı raporda davacı şirketin davalıdan takibe koyduğu miktar kadar alacaklı olduğunun tespit edilmiştir, ayrıca talimat yolu ile alınan 13.10.2014 tarihli heyet raporunda da yine arsa tesliminde bulunan davacı ile yüklenici arasında trampa sözleşmesinin olduğu, Katma Değer Vergisi Yasası’nın 17/4-r maddesi hükmünde ise satış suretiyle devir ve teslim şartı da arandığı dikkate alındığında arsa devir ve tesliminde KDV istisnasından yararlandırılmasının mümkün bulunmadığı arsa teslimi nedeniyle düzenlenen faturalar nedeniyle defter kayıtlarında takibe konu miktar kadar davacının alacağı bulunduğu belirtilmesi karşısında, mahkemece davanın takibe konu miktar üzerinden kabulü ile takibin devamına alacak yargılamayı gerektirdiğinden icra inkâr tazminatı isteminin reddi gerekirken, mahkemece istemin yarı oranında kabulü ve bu kararında davalı yararına bozulması hatalı bulunduğu bu kez yapılan inceleme ile anlaşıldığından hükmün karar düzeltme talebinde bulunan davacı yararına bozulması uygun
 bulunmuştur.
 
 ## Yargıtay 15. HD 2019/86 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/477823400)
 
 Biçimine uygun olarak düzenlenmemiş olması sebebiyle geçersiz olmakla birlikte taraflar arasında imzalanan 14.07.2003 tarihli sözleşmenin 1. maddesinde A ve B blokta oluşan inşaatın 14.03.1996 tarihinde 1-33 ruhsat numarası ile yapı ruhsatı alınmış olup, A blokun temel ve ... katı (subasman kotu), B blokun ise ..., zemin ve 5. kata kadar olan B. A karkas bölümün mülk sahibi tarafından tamamlandığı kabul edilmiş ve inşaatın bu seviyeden sonraki kısmının yüklenici tarafından tamamlanacağı kararlaştırılmıştır. Bu haliyle bir kısım imalât arsa sahibi tarafından yapıldığı ve yüklenici tarafından ikmâl inşatının yapılması üstlenildiğine göre yüklenicinin gerçekleştirdiği imalâtın yapıldığı tarihlerdeki mahalli piyasa rayiçleri ile ve arsa sahibinin yaptığı kısım haricindeki imalâtla sınırlı olarak hesaplanması, piyasa rayicinin içerisinde yüklenici kârı ve KDV de bulunacağından bunların ayrıca piyasa rayicine katılmaması gerekir.
 
@@ -110,6 +126,8 @@ Yine dosya kapsamı ve alınan bilirkişi raporlarına göre inşaatın yükleni
 SONUÇ: Yukarıda 1. bentte açıklanan nedenlerle yüklenici ve arsa sahibi vekillerinin diğer temyiz itirazlarının reddine, 2. bent uyarınca kabulü ile hükmün temyiz eden taraflar yararına BOZULMASINA …
 
 ## Yargıtay 15. HD 2018/5133 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/472060800)
 
 Davacı davasında davalıların murisi olan ... ile aralarında imzalanan 02.05.2009 tarihli protokole göre alacaklı olduğu 51.072,00 TL için icra takibine giriştiğini ancak davalıların takibe itiraz ettiklerini belirterek davalıların takibe itirazlarının iptâline karar verilmesini istemiş, davalılar savunmalarında davacı tarafından belgede bahsedilen nitelikte bir ödemenin söz konusu olmadığını, iskan masraflarının arsa sahipleri ve kat malikleri tarafından yapıldığını, dolayısı ile davacının da böyle bir alacağı olmadığını, takibe konu belge altındaki imzanın da murislerine ait olmadığını, binanın 2009 yılında bittiğini, inşaatın iskan ruhsatının bina yöneticiliği tarafından 2014 yılında alındığını belirterek davanın reddine karar verilmesini talep etmişlerdir.
 
@@ -124,6 +142,8 @@ Davaya konu edilen icra takibinde ise davacının 02.05.2009 tarihli “Özel Pr
 SONUÇ: Yukarıda açıklanan nedenlerle temyize konu Bölge Adliye Mahkemesi kararının HMK 371. maddesi gereğince BOZULMASINA …
 
 ## Yargıtay 23. HD 2018/3389 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/427219000)
 
 Davacı vekili, yüklenici olan müvekkilinin davalının da hissedarı bulunduğu arsa için düzenlenen kat karşılığı sözleşmesi uyarınca edimlerini yerine getirerek, iskan ruhsatı da alınıp dairelerin teslim edildiğini, davalının inşaattaki 8, 10, 15 ve 16 nolu bağımsız bölümlerin %50 ortağı olduğunu, sözleşmenin 9.maddesi uyarınca tarafına özgülenen bağımsız bölümlerin KDV'sinden sorumlu bulunduğunu, bu yönde düzenlenen faturayı kabul etmediğini, tahsili için ....... 31.İcra Müdürlüğü'nün 2014/15327 sayılı dosyasında takip başlattıklarını, borçlu davalının itirazı ile takibin durduğunu ileri sürerek, takibe vaki itirazın iptali ile inkar tazminatına hükmedilmesini istemiştir.
 
@@ -143,6 +163,8 @@ SONUÇ: Yukarıda (1) numaralı bentte açıklanan nedenlerle davalı vekilinin 
 
 ## Yargıtay 23. HD 2018/29 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/405140900)
+
 Davacı vekili, taraflar arasında 25.05.2004 tarihinde Arsa Payı Karşılığı İnşaat Sözleşmesi imzalandığını, sözleşme uyarınca tüm masrafların davalıya ait olduğunun düzenlendiğini, ancak davalının vergi tahakkuk ve tahsil alındı makbuzlarında görünen vergilerin ödenmemesi üzerine müvvekkili tarafından ödendiğini ve ödenen bu vergilerin tahsili amacıyla başlatılan icra takibinin, davalının haksız itirazı üzerine durdurulduğunu ileri sürerek, itirazın iptali ile icra-inkâr tazminatının davalıdan tahsilini talep ve dava etmiştir.
 
 Davalı vekili, davanın reddini savunmuştur.
@@ -157,6 +179,8 @@ SONUÇ: Yukarıda açıklanan nedenlerle, davacı vekilinin temyiz itirazların�
 
 ## Yargıtay 23. HD 2017/1921 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/351724000)
+
 Mahkemece, Yargıtay 15. Hukuk Dairesi’nin 22.11.2007 tarih ve 239 E.
 
 …
@@ -170,6 +194,8 @@ Mahkemece, sadece yapıdaki eksik işlerin giderilmesi için gerekli olduğu tes
 SONUÇ: Yukarıda (1) numaralı bentte açıklanan nedenlerle, asıl ve birleşen 2004/604 E., 2007/434 E, 2001/187 E. sayılı davalarda taraf vekillerinin ve birleşen 2012/7 E. sayılı dava ile karşı davada davacı yüklenici kooperatif vekilinin tüm, birleşen 2012/7 E. sayılı davada davalı arsa sahibi vekilinin diğer temyiz itirazlarının reddine, (2) numaralı bentte açıklanan nedenlerle, birleşen 2012/7 E. sayılı davada davalı arsa sahibi vekilinin diğer temyiz itirazlarının kabulü ile hükmün, birleşen 2012/7 E. sayılı davada davalı yararına BOZULMASINA …
 
 ## Yargıtay 23. HD 2016/2932 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/247315900)
 
 Mahkemece, iddia, savunma, benimsenen bilirkişi raporu ve tüm dosya kapsamına göre, asıl davada davacı yüklenicinin sözleşme gereği yerine getirmesi gerekli edimlerini yerine getirmeksizin karşı tarafın edimini yerine getirmesini istenemeyeceği, karşı davada arsa sahibinin inşaatın projeye ve sözleşmeye aykırı yapılmasında herhangi bir müdahalede bulunmadığı ve üzerine düşen yükümlülükleri yerine getirmediği gerekçesiyle, asıl ve karşı davanın reddine karar verilmiştir.
 

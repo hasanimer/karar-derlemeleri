@@ -38,9 +38,13 @@ Açıklanan nedenlerle, davacıların temyiz istemlerinin kabulü ile Daire kara
 
 ## Danıştay İDDK 2024/1173 E., 2025/231 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1159393900)
+
 Otopark ihtiyacının, bedel alınmak suretiyle karşılanması gereken parsel veya alanın, 6306 sayılı Kanun kapsamında riskli yapı, rezerv yapı alanı veya riskli alan kapsamında yıkılıp yeniden yapılacak olması halinde; 6306 sayılı Kanun'da veya 6306 sayılı Kanunun Uygulama Yönetmeliği'nde bu konuya ilişkin özel bir tespit ve hesaplama usulü getirilmediği gözetildiğinde, otopark ihtiyacına ve bedeline ilişkin hesaplamanın Otopark Yönetmeliğine göre yapılması gerektiğinin açık olduğu, …
 
 ## Danıştay İDDK 2024/1663 E., 2024/2526 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1121057200)
 
 DANIŞTAY TETKİK HÂKİMİ ...'UN DÜŞÜNCESİ : Uyuşmazlık konusu olayda, acele kamulaştırma kararı "Rezerv Yapı Alanı" ilanına dayanmaktaysa da, "Rezerv Yapı Alanı" ilanının, 6306 sayılı Kanun ve Uygulama Yönetmeliği uyarınca bilimsel ve teknik verileri içeren detaylı bir incelemeye dayalı olmadığı anlaşıldığından, dava konusu taşınmazın "Rezerv Yapı Alanı" ilan edilen alanda bulunmasının tek başına acele kamulaştırmaya dayanak teşkil edemeyeceği göz önünde bulundurulduğunda, 2942 sayılı Kanun'un 27. maddesinde öngörülen acele kamulaştırma prosedürünün uygulanması için gerekli olan olağanüstü durumların ve bu yönteme başvurulması ile amaçlanan kamu yararının somut olarak ortaya konulmadığı anlaşıldığından, davacıların temyiz istemlerinin kabulü ile Daire kararının bozularak, dava konusu işlemin uyuşmazlığa konu taşınmaz yönünden iptaline karar verilmesi gerektiği düşünülmektedir.
 
@@ -50,6 +54,8 @@ Açıklanan nedenlerle, davacıların temyiz istemlerinin kabulü ile davanın r
 
 ## Danıştay İDDK 2024/1812 E., 2024/2330 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1123362900)
+
 Kaldı ki, Gaziosmanpaşa ilçesi belediye sınırları içerisinde bulunan ve dava konusu işlemin tesis edilmesine dayanak gösterilen raporların hazırlanmasında izlenen teknik yöntemler uygulanmak suretiyle riskli alan ilan edilen bazı mahallelerin riskli alan ilan edilmesine ilişkin Bakanlar Kurulu kararına karşı açılan davalarda (Danıştay Ondördüncü Dairesinin E:2014/437, E:2014/469 ve E:2014/470 sayılı dosyaları) yaptırılan keşif ve bilirkişi incelemeleri sonucunda; riskli alan ilan edilmesine dayanak alınabilecek teknik esaslara uygun yeterli veri bulunmadığından risk değerlendirmesi yapmanın mümkün olamayacağı yönünde tespitlerin yapıldığı, …
 
 …
@@ -57,6 +63,8 @@ Kaldı ki, Gaziosmanpaşa ilçesi belediye sınırları içerisinde bulunan ve d
 Dava konusu işlemin yukarıda özetlenen gerekçeyle iptaline ilişkin Danıştay Dördüncü Dairesinin temyize konu 05/06/2024 tarih ve E:2023/4610 …
 
 ## Danıştay İDDK 2024/377 E., 2024/843 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1066916500)
 
 Diğer taraftan, Çevre, Şehircilik ve İklim Değişikliği Bakanlığının …
 
@@ -70,6 +78,8 @@ Dava konusu işlemin uyuşmazlık konusu parsele ilişkin kısmının yukarıda 
 
 ## Danıştay İDDK 2023/408 E., 2024/364 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1062142500)
+
 6306 sayılı Kanun'un 2. maddesinin 1. fıkrasının (ç) bendi uyarınca, bir alan, riskli alan ilan edilirken 6306 sayılı Kanunun Uygulama Yönetmeliği'nin 5. maddesi uyarınca bu Yönetmelik'in EK-2'sinde yer alan Riskli Yapıların Tespit Edilmesine İlişkin Esasların EK-A'sında yer alan Binaların Bölgesel Deprem Risk Dağılımını Belirlemek için Kullanılabilecek Basitleştirilmiş Yöntemler kullanılarak ve bu alanda yer alan yapılara ait parametreler (taşıyıcı eleman sayısı ve dağılımı, planda düzensizlik, düşeyde düzensizlik, lokal ve konstrûktif uygulamalar, vb.) dikkate alınarak yapıların bulunduğu yerdeki deprem tehlikesi ve yapının deprem performansını etkileyen yapısal özelliklerinin saha çalışmaları sonucunda elde edilmesi, yapısal sistem özelliklerine göre sınıflandırılmış tip binalar seçilerek bunların ayrıntılı analizlerinin yapılması sonucunda bir korelasyon çıkarılması ve buna göre genel yapı stokunun riskinin belirlenmesi gerekmektedir.
 
 …
@@ -77,6 +87,8 @@ Dava konusu işlemin uyuşmazlık konusu parsele ilişkin kısmının yukarıda 
 Dava konusu 26/08/2020 tarih ve 2878 sayılı Cumhurbaşkanı Kararının davacıya ait Malatya ili, Doğanyol ilçesi, ... Mahallesi, ... ada, ... parsel sayılı taşınmaza ilişkin kısmının iptali istemiyle açılan DAVANIN REDDİNE …
 
 ## Danıştay İDDK 2023/407 E., 2024/363 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1062035000)
 
 Davacılar tarafından, 24/01/2020 tarihinde meydana gelen Elazığ ili, Sivrice ilçesi merkezli depremde davacılara ait taşınmazların hasar görmediği, depremden sonra müvekkillerin ikamet ettiği konutlarında, ticarethanelerinde, iş yerlerinde ve dükkanlarında yapılan incelemede bu yerlerin az hasarlı olduğunun belirlendiği, riskli alan ilan edilen ve müvekkillerin taşınmazlarının da içerisinde bulunduğu alanda aynı zamanda tarımsal faaliyet de yürütüldüğü, davacıların ikamet ettiği, ticari alan ve tarım arazisi olarak kullandığı yapıların bulunduğu bölgede ilgili mevzuat hükümlerine belirtildiği şekilde yapılaşmanın risk durumunu ortaya koymaya yönelik teknik araştırma ve analiz çalışmalarının yapılmadığı, risk raporunun usulüne uygun bir şekilde düzenlenmediği ve tebliğ edilmediği, bölgenin sadece işlek yerinin bu şekilde riskli alan ilan edilmesinin hukuka aykırı olduğu, davacılara ait yapılarda en ufak bir hasarın dahi olmadığı, bütün yapıların yeni yapılmış, betonarme, sağlam yapılar olduğu, Daire kararının davanın reddine ilişkin kısmının bozulması gerektiği ileri sürülmektedir.
 
@@ -90,6 +102,8 @@ Davalı idareler tarafından, Danıştay Altıncı Dairesince verilen kararın d
 
 ## Danıştay İDDK 2023/2621 E., 2023/2966 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1089701100)
+
 Dosyanın incelenmesinden, davaya konu taşınmazın da içerisinde yer aldığı yaklaşık 6,6 hektarlık alanın 26/09/2016 tarih ve 9283 sayılı Bakanlar Kurulu Kararı ile 6306 sayılı Afet Riski Altındaki Alanların Dönüştürülmesi Hakkında Kanun'un 2. maddesinin (ç) bendi uyarınca "Riskli Alan" olarak ilan edildiği, davalı idareler tarafından, riskli alan ilan edilen bölgede kentsel donatı standartlarının ve altyapının yetersiz olduğu, yapıların tamamının herhangi bir mühendislik hizmeti almadan inşa edildiği, ruhsatsız ve kaçak yapıların can ve mal kaybına yol açma tehlikesi barındırdığı, bu tür yapıların yıkılma ya da ağır hasar görme riski taşıdığından yapıların tasfiye edilmesi, ulaşım ve altyapısıyla birlikte fen ve sanat kurallarına uygun, sağlıklı ve güvenli yaşam alanlarının oluşturulmasının hedeflendiği, riskli alanda kentsel dönüşüm çalışmalarını yürütmek üzere Yeşilli Belediye Başkanlığının yetkilendirildiği, riskli alanın 1.
 Etabında bulunan nakit bedel karşılığı anlaşma sağlanamayan %46'lık kısımda taşınmazların özelliklerine bağlı olarak, üzerindeki bina yıkılmış olan arsaların maliklerine ulaşılamaması, taşınmazların el birliği mülkiyetinde ve çok hissedarlı olması, veraset intikallerinin yapılamaması, hak sahiplerinin yurt dışında bulunması sebebiyle yasal işlemlerin uzun sürmesi, sahibine ulaşılamayan taşınmazlardaki mülkiyet birliğinin gerçekleştirilmesi ve planlı yapılaşma için ihtiyaç duyulan projeye ivedilikle başlanılması amacıyla dava konusu acele kamulaştırma kararının alındığının belirtildiği; acele kamulaştırma kararının dayanağı olan riskli alan ilanına ilişkin Bakanlar Kurulu Kararı'nın, Danıştay İdari Dava Daireleri Kurulunun 16/12/2021 tarih ve E:2021/3373, K:2021/3109 sayılı kararıyla iptal edilmesi üzerine, aynı alanın, ... tarih ve ... sayılı Makam Oluru ile "Rezerv Yapı Alanı" olarak belirlendiğinin anlaşıldığı, …
 
@@ -98,6 +112,8 @@ Etabında bulunan nakit bedel karşılığı anlaşma sağlanamayan %46'lık kı
 Dava konusu işlemin yukarıda özetlenen gerekçeyle uyuşmazlık konusu parsellere yönelik kısmının iptaline ilişkin Danıştay Altıncı Dairesinin temyize konu 08/06/2023 tarih ve E:2022/2335 …
 
 ## Danıştay İDDK 2023/2401 E., 2023/1814 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1030803400)
 
 Davaya konu taşınmazın da bulunduğu alanın 27/10/2014 tarih ve 6769 sayılı Bakanlar Kurulu Kararı ile 6306 sayılı Kanun'un 2. maddesi uyarınca riskli alan olarak belirlendiği, davalı idareler tarafından sunulan savunma dilekçesinde, Çevre, Şehircilik ve İklim Değişikliği Bakanlığı Mekansal Planlama Genel Müdürlüğü tarafından yapılan mikro bölgeleme çalışmaları sonucunda, "Riskli Alan" sınırları içerisinde aktif bir fay hattı belirlendiği, belirlenen fay hattının her iki tarafında 15'er metre olmak üzere 30 metrelik bir tampon bölge oluşturulduğu, söz konusu fay hattı ve çevresindeki tampon bölgede kalan yerlerin "Yerleşime Uygun Olmayan Alan (UOA)" olarak belirlendiği, "Riskli Alan"ın ilanından itibaren geçen süre ve Bakanlık Mekansal Planlama Genel Müdürlüğü tarafından yapılan mikro bölgeleme çalışmaları dikkate alındığında, anılan "Riskli Alan"da kentsel dönüşüm çalışmalarının Altyapı ve Kentsel Dönüşüm Hizmetlen Genel Müdürlüğünce hızlandırılmasının hedeflendiği, söz konusu alana ilişkin planlama ve projelendirme çalışmalarına başlanıldığı, bu kapsamda, fay hattı ve çevresindeki tampon bölgede kalan ve yerleşime uygun olmayan yerlerin yeniden yapılaşmasının önüne geçilmesi
 amacıyla söz konusu alanda kalan özel mülkiyete tabi olan taşınmazların kamulaştırılması ihtiyacının hâsıl olduğu, bu çerçevede Bakanlık Makamının 05/05/2022 tarih ve 3360804 sayılı Olur'una istinaden 22/04/2022 tarih ve 31817 sayılı Resmi Gazete'de yayımlanan 21/04/2022 tarih ve 5494 sayılı Cumhurbaşkanı Kararı ile söz konusu yerleşime uygun olmayan alanda yer alan özel mülkiyete konu taşınmazların acele kamulaştırılmasına karar verildiği bilgilerine yer verildiği, …
@@ -108,6 +124,8 @@ Davanın yukarıda özetlenen gerekçeyle reddine ilişkin Danıştay Altıncı 
 
 ## Danıştay İDDK 2023/891 E., 2023/1623 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1031362400)
+
 Diğer taraftan, davacının taşınmazının da yer aldığı alanın 6306 sayılı Afet Riski Altındaki Alanların Dönüştürülmesi Hakkında Kanunun 2 ve Ek-1. maddeleri uyarınca riskli alan ilan edilmesine ilişkin 20/04/2020 tarih ve 2448 sayılı Cumhurbaşkanı Kararının iptali istemiyle açılan davanın reddi yolunda verilen ve Danıştay İdari Dava Daireleri Kurulunun 08/11/2021 tarih ve E:2021/2711, K:2021/2272 sayılı kararıyla onanarak kesinleşen Dairelerinin 02/06/2021 tarih ve E:2020/4636, K:2021/7584 sayılı kararında özetle; 6306 sayılı Kanunun Ek-1.(b) maddesinde belirtilen "Üzerindeki toplam yapı sayısının en az %65’i imar mevzuatına aykırı olan veya yapı ruhsatı alınmaksızın inşa edilmiş olmakla birlikte sonradan yapı ve iskân ruhsatı alan yapılardan oluşan alanlar" düzenlemesinde belirtilen şartların oluştuğu ve uygulama bütünlüğü gözetilerek riskli alan sınırının belirlenmiş olduğu sonucuna varıldığı gerekçesiyle dava konusu işlemin hukuka uygun bulunduğunun görüldüğü, …
 
 …
@@ -115,6 +133,8 @@ Diğer taraftan, davacının taşınmazının da yer aldığı alanın 6306 say�
 Açıklanan nedenlerle, davacının temyiz isteminin kabulü ile davanın reddi yolunda verilen temyize konu Daire kararının bozulmasına ve dava konusu Cumhurbaşkanı kararının uyuşmazlık konusu taşınmaza ilişkin kısmının iptaline karar verilmesi gerektiği oyuyla …
 
 ## Danıştay İDDK 2023/848 E., 2023/844 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1011954700)
 
 2015 yılı Eylül ayında kamu düzeni ve güvenliğini tehlikeye atacak şekilde başlayan terör olayları ile mücadele sırasında Suriçi bölgesinde bulunan 8818 yapıdan 1295 adet binanın tamamen yıkıldığı, 1335 adet yapının ağır hasar gördüğü, 1269 adet binanın az hasarlı olduğu, 638 adet tescilli veya korumaya değer yapının hasar gördüğü, sonuç olarak toplamda 4500 civarında bağımsız birimde daha sonra yürürlüğe giren 6306 sayılı Kanunun Ek-1 maddesinin (1)-a fıkrasında belirtilen koşulların da oluştuğu ve dava konusu işlemin tesis edildiği tarihteki koşulların ortadan kalktığı idare tarafından dosyaya sunulan bilgi ve belgelerden anlaşıldığından, mahallinde keşif ve bilirkişi incelemesi yaptırılmasına ihtiyaç kalmadığı, …
 
@@ -125,6 +145,8 @@ Bu durumda; riskli alan ilan edilen Diyarbakır ili, Sur ilçesinde bulunan ve k
 Davanın yukarıda özetlenen gerekçeyle reddine ilişkin Danıştay Altıncı Dairesinin temyize konu 14/12/2022 tarih ve E:2022/3376, K:2022/11365 sayılı kararının ONANMASINA …
 
 ## Danıştay İDDK 2022/1381 E., 2023/304 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/990342800)
 
 Davacı tarafından; riskli alan tespitlerinde zemin yapısının çok önemli olduğu dikkate alındığında, yapılan değişikliğin kamu yararına ve hizmet gereklerine uygun olmadığının ileri sürüldüğü, …
 
@@ -142,6 +164,8 @@ Davanın yukarıda özetlenen gerekçeyle kısmen reddine, kısmen dava konusu d
 
 ## Danıştay İDDK 2022/3815 E., 2023/137 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/881946300)
+
 Bu açıklamalar çerçevesinde, uyuşmazlıkta, dava konusu edilen riskli alan ilanına ilişkin Bakanlar Kurulu kararı davacıya tebliğ edilmediğinden, bu işleme karşı öğrenme tarihinden itibaren 60 günlük genel dava açma süresi içerisinde dava açılabileceğinin kabulü gerekmektedir.
 
 Dosyada mevcut bilgi ve belgeler ile UYAP üzerinden gönderilen istek üzerine incelemeye açılan, riskli alan ilan edilen taşınmaza ilişkin kamulaştırma bedel tespiti ve tescil davasına ilişkin ... Asliye Hukuk Mahkemesinin E:… sayılı dosyasında, mahallinde yapılan keşif ve bilirkişi incelemesi sonucunda düzenlenen ve içeriğinde dava konusu Bakanlar Kurulu kararının tarih ve sayısı ile mahiyeti belirtilen bilirkişi raporunun, görülmekte olan davanın davacısına 28/05/2019 tarihinde tebliğ edildiği görüldüğünden, davacının, 28/05/2019 tarihinde davaya konu riskli alan kararını, tüm ayrıntılarıyla öğrendiğinin kabulü gerekmektedir.
@@ -151,6 +175,8 @@ Dosyada mevcut bilgi ve belgeler ile UYAP üzerinden gönderilen istek üzerine 
 Davanın süre aşımı nedeniyle reddine ilişkin Danıştay Altıncı Dairesinin temyize konu 13/09/2022 tarih ve E:2022/5799, K:2022/7605 sayılı kararının, yukarıda belirtilen gerekçeyle ONANMASINA …
 
 ## Danıştay İDDK 2022/2297 E., 2022/2716 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/939004400)
 
 Davacı tarafından, Bakanlar Kurulu Kararının tüm alan yönünden iptaline karar verilmesi gerektiği ileri sürülmektedir.
 
@@ -162,6 +188,8 @@ Açıklanan nedenlerle, davalı idarelerin temyiz istemlerinin kabulü ile temyi
 
 ## Danıştay İDDK 2022/506 E., 2022/1345 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/830588700)
+
 Bir alanın zemin veya üzerindeki yapılaşma sebebiyle can ve mal kaybına yol açma riski taşıması sebebiyle riskli alan olarak ilan edilebilmesi için mutlaka zemin ve yapıların fiili durumları incelendikten sonra hazırlanacak teknik bir rapor ile ortaya konulması; üzerindeki toplam yapı sayısının en az %65’i imar mevzuatına aykırı olan veya yapı ruhsatı alınmaksızın inşa edilmiş olmakla birlikte sonradan yapı ve iskân ruhsatı alan yapılardan oluşan alanlarda ise belirtilen şartların oluştuğunun açık ve somut şekilde ortaya konulması gerektiği, …
 
 …
@@ -170,6 +198,8 @@ Davanın yukarıda özetlenen gerekçeyle reddine ilişkin Danıştay Altıncı 
 
 ## Danıştay İDDK 2022/437 E., 2022/994 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/800046800)
+
 Esasa ilişkin olarak, yukarıda yer verilen mevzuat hükümlerinin birlikte değerlendirilmesinden, Kanun'un 2. madde başlığının "Tanımlar" olduğu ve bu maddede riskli alan tanımına yer verildiği, anılan Kanun'a 14/04/2016 tarih ve 6704 sayılı Kanun'un 25. maddesiyle eklenen Ek-1. maddesinde de, riskli alan ilanına yönelik bir takım koşullar düzenlenerek, bahse konu maddenin birinci fıkrasının (b) bendi uyarınca, bir alanda yer alan imar mevzuatına aykırı yapıların, alandaki toplam yapı sayısının %65'ni aşması halinde, yapılardaki bu aykırılıklar sonradan giderilmiş olsa dahi, başka herhangi bir analiz çalışması, zemin etüdü vb. yapılması gerekmeksizin, fen ve sanat norm ve standartlarına uygun, sağlıklı ve güvenli yaşama çevrelerini teşkil etmek, sağlık, eğitim ve ulaşım gibi kamu hizmetlerinin düzenli bir şekilde yürütülmesini sağlamak amacıyla, bu alanların riskli alan olarak ilan edilebileceğinin hükme bağlandığı anlaşılmaktadır.
 
 …
@@ -177,6 +207,8 @@ Esasa ilişkin olarak, yukarıda yer verilen mevzuat hükümlerinin birlikte de�
 Dava konusu işlemin yukarıda özetlenen gerekçeyle iptaline ilişkin Danıştay Altıncı Dairesinin temyize konu 17/11/2021 tarih ve E:2020/10913 …
 
 ## Danıştay İDDK 2022/154 E., 2022/992 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/814046200)
 
 Mahallinde yaptırılan keşif ve bilirkişi incelemesi neticesinde düzenlenen bilirkişi raporunda;
 "2981 sayılı İmar ve Gecekondu Mevzuatına Aykırı Yapılara Uygulanacak Bazı İşlemler ve 6785 Sayılı İmar Kanununun Bir Maddesinin Değiştirilmesi Hakkında Kanununun Geçici 2. maddesi uyarınca 1957 yılından önce yapılan yapıların imar mevzuatına uygun yapılar olarak kabul edileceğinden bahisle, riskli alanda bulunan ve teknik raporda ruhsatsız olduğu belirtilen yapıların yapım yılının belirlenmesi amacıyla tapu kayıtlarının geriye dönük incelenmesi ve buna ilave olarak elektrik, su vb. abonelik ve fatura gibi yapım yılını ortaya çıkaracak bilgi ve belgelerin tespit edilmesi gerektiği, ruhsatsız yapılarda faaliyet gösteren ticarethane ve dükkânların iş yeri açma ruhsatlarının olduğu, yapım yıllarının tespit edilmesi ve imar aflı yapılar olup olmadığının belirlenmesi neticesinde, %65 oranının değişmesinin olası olduğu, aynı ada içerisinde yer almakla birlikte bazı yapıların riskli alan çalışmalarına katılmadığı, bu hususta Boyabat Belediye Başkanlığı tarafından yapılan açıklamaların teknik ve objektif verilere dayanmayıp, sübjektif nitelikte olduğu, bu nedenle dava konusu edilen alan ile, ...ve ...sayılı yapı adaları ile bütünlük oluşturacak şekilde, riskli alan sınırının yeniden
@@ -189,6 +221,8 @@ Bu durumda; davacıların iddiaları, davalıların savunmaları, dava konusu i�
 Açıklanan nedenlerle, temyiz istemlerinin kabulü ile Daire kararının bozularak, davanın reddine karar verilmesi gerektiği oyu ile …
 
 ## Danıştay İDDK 2021/3795 E., 2022/636 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/804411900)
 
 Davacı tarafından, temyize konu kararın, davanın reddine dair kısmın bozulması gerektiği, ileri sürülmektedir.
 
@@ -206,6 +240,8 @@ Açıklanan nedenlerle, davalıların temyiz istemlerinin reddi ile dava konusu 
 
 ## Danıştay İDDK 2021/3627 E., 2022/385 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/780561900)
+
 Yukarıda metnine yer verilen 6306 sayılı Kanun'un 6. maddesi hükmü ile; riskli alan ilan edilen alanlarda yapılacak dönüşüm uygulamalarında; kural olarak üzerindeki binaların yıkıldığı arsalar bakımından maliklerin anlaşması usulü benimsenmiş, üçte iki çoğunlukla anlaşma sağlanamaması halinde, uygulamayı yapan Bakanlık, idare ya da TOKİ'ye acele kamulaştırma yapabilmesi bakımından yetki tanınmış olup, bu yetkinin, 2942 sayılı Kanun'un 27. maddesiyle Bakanlar Kuruluna tanınan acele kamulaştırma yetkisiyle ilgisi bulunmamaktadır.
 
 Nitekim, dava konusu işlemin dayanağı olarak 6306 sayılı Kanun'un 6. maddesi değil, 2942 sayılı Kanun'un 27. maddesi gösterilmiş olup, Dairece, uyuşmazlığın 6306 sayılı Kanun hükmü kapsamında çözümlenmesinde hukuki isabet bulunmamaktadır.
@@ -216,11 +252,15 @@ Nitekim, dava konusu işlemin dayanağı olarak 6306 sayılı Kanun'un 6. maddes
 
 ## Danıştay İDDK 2021/2482 E., 2021/1602 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/717525100)
+
 Her ne kadar, dava konusu edilen Cumhurbaşkanı kararının içeriğinde, 6306 sayılı Kanun'un 2. maddesine dayalı olarak Ankara İli, Akyurt İlçesi sınırları içerisinde yer alan ve karar eki kroki ile listede sınır ve koordinatları gösterilen Atatürk, Beyazıt ve Yıldırım Mahallelerini kapsayan alanın riskli alan ilan edildiği belirtilmiş ise de; dosyanın incelenmesinden, alanda yer alan 149 adet yapıdan 39 adetinin imar mevzuatına uygun olarak, kalan 110 adetinin (%73,8) ise imar mevzuatına aykırı şekilde inşa edildiğinden bahisle anılan Kanun'un Ek 1. maddenin 1. fıkrasının (b) bendi uyarınca alanın riskli alan ilan edildiği ve işlemlerin buna göre yürütüldüğü görülmüştür.
 
 Bu itibarla, dava açma süresinin 6306 sayılı Kanun'a eklenen Ek 1. maddenin 2. fıkrasına göre belirlenmesi gerekmektedir.
 
 ## Danıştay İDDK 2019/2842 E., 2021/1573 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/718867400)
 
 Davacı tarafından, dava konusu Yönetmeliğin 1.maddesi ile 6306 sayılı Kanunun Uygulama Yönetmeliğinin 4.maddesinin 1.fıkrasına eklenen (ç) ve (d) bendinde belirtilen "gözlemsel veriler" ibaresinin rezerv yapı alanının tespitinde yetersiz kaldığı, yer biliminin gerektirdiği her türlü jeolojik etüd incelemesi neticesinde belirlenmesi gerektiği, incelemenin hangi idare tarafından yapılacağının da belirli olmadığı, Yönetmeliğin 5.maddesinin 2.,3., ve 4.fıkralarında yapılan değişiklikle riskli alan tespitine ilişkin kamu düzeni ve kamu güvenliğinin bozulması ve kaçak yapılaşma gibi Kanunda yer alan teknik tanımlamaya aykırı terimler kullanıldığı, Bakanlığın herhangi bir inceleme yapmadan dosyayının uygunluğunu değerlendiren sadece yazışmaları yapan kurum haline getirildiği, riskli alan tespitine ilişkin keyfi uygulamaların yolunun açıldığı, Yönetmeliğin 6.maddesinin 2., 3., 4., 5., 6. ve 7. fıkraları ile aynı maddeye eklenen 8., 11., 12., 13. ve 14. fıkralarında; riskli alan ve riskli yapı tespiti yapmak için lisanslandırılan kurum ve kuruluşların mesleki sorumluluğuna, belge geçerlilik süresine dair şekil şartları kaldırıldığı için bu kuruluşların keyfi işlemler yapmasının önünün
 açıldığı, sorumluluk sınırlarının belirsiz bir hal aldığı, Bakanlığın suç duyurusunda bulunma hakkının da kaldırıldığı, Bakanlığın denetim yetkisinin kaldırılmasının onun asli vazifesi olan kolluk görevinden vazgeçtiği anlamını taşıdığı, bu hususun ise hukuk devleti ilkesine aykırı olduğu, lisansı iptal edilen kurum ve kuruluşun elindeki işleri tamamlayana kadar faaliyetine devam edebilecek olmasının ise hukuka aykırı olduğu, Yönetmeliğin 7. maddesinde "statik bakımdan yapı bütünlüğü bozulmuş olan yapı" ibaresinin teknik bir gerekçe şeklinde Yönetmelikte yazılmış olmasının Kanunun özüne aykırı olduğu, riskli yapı tespitine ilişkin başvurunun malikler yanında idare veya TOKİ tarafından da yapılabiliyor olmasının geleneksel ve tarihi yapılarda kötü niyetli uygulamalara yol açacağı ve mülkiyet hakkına açıkça aykırı olduğu, tarihi nitelikli riskli yapılara ilişkin kararın Koruma Bölge Kurullarına bırakılmasının uzmanlık alanı olmayan konuda onları karar almaya zorlamak olacağından bu konuda daha özel kriterler belirlenmesi gerektiği, Yönetmeliğin 15.maddesinin 2., 3., 7., 8. ve 10. fıkraları ile 9. fıkranın birinci cümlesinin ve aynı maddeye eklenen 13.fıkrasının ise; anlaşmayan pay
@@ -231,6 +271,8 @@ sahibinin payının kamu gücü kullanılarak zorlayıcı ve tehditkar bir şeki
 Yukarıda özetlenen gerekçeyle dava konusu Yönetmeliğin 3.maddesi ile 6306 sayılı Kanunun Uygulama Yönetmeliği'nin 6.maddesine eklenen 9.fıkranın iptali, dava konusu Yönetmeliğin 3.maddesi ile 6306 sayılı Kanunun Uygulama Yönetmeliğinin 6.maddesine eklenen 10.fıkra yönünden karar verilmesine yer olmadığı, davaya konu diğer kısımlar yönünden davanın reddi yolundaki Danıştay Altıncı Dairesinin temyize konu 12/06/2019 tarih ve E:2019/2476, K:2019/5516 sayılı kararının iptale ve redde ilişkin kısımlarının ONANMASINA …
 
 ## Danıştay İDDK 2021/1908 E., 2021/1515 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/716170100)
 
 Anayasa Mahkemesinin iptal kararından sonra anılan fıkranın; "6306 sayılı Kanunun uygulanması için belirlenen alanların sınırları içinde olup riskli yapılar dışında kalan yapılardan uygulama bütünlüğü bakımından Bakanlıkça gerekli görülenlerin yine 6306 sayılı Kanun’a tâbi olacağı, ancak, riskli olmayan yapılara ilişkin değerleme çalışmalarında yapının riskli olmadığının da gözetileceği..." şeklinde yeniden düzenlendiği, ancak bu yeni düzenlemenin de, Anayasa Mahkemesinin 15/11/2017 tarih ve E:2016/133, K:2017/155 sayılı kararıyla "Herhangi bir riski bulunmayan sağlam yapılar için uygulama bütünlüğü bakımından Bakanlıkça gerekli görülmesi halinde 6306 sayılı Kanun hükümlerinin uygulanması durumunda bu yapıların maliklerinin uğradığı zararların tamamının karşılanması sorumluluk hukukunun gereğidir. Uygulama alanındaki sağlam yapılara yönelik değer tespitinde yapının riskli olmadığının gözetilmesi de esasında bu amaca hizmet etmektedir.
 Bu itibarla Kanunun uygulanması için belirlenen alanların sınırları içinde olup riskli yapılar dışında kalan yapılar hakkında 6306 sayılı Kanun hükümlerinin uygulanması nedeniyle maliklerin mülkiyet hakkına yönelik kısıtlamaların, taşınmazın değer tespitinde yapının riskli olmadığının gözetilmesi suretiyle dengelendiği söylenemez..." gerekçesiyle iptal edildiği, …
@@ -245,6 +287,8 @@ Açıklanan nedenlerle, temyiz istemlerinin kabulü ile dava konusu işlemin mü
 
 ## Danıştay İDDK 2021/242 E., 2021/516 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/673635200)
+
 Buna göre; Bitlis Belediye Başkanlığınca verilen İşyeri Açma ve Çalışma Ruhsatı çerçevesinde, söz konusu taşınmazda ticari faaliyette bulunması sebebiyle günlük yaşamının büyük çoğunluğunu riskli alan ilan edilen bölgede geçiren davacının, dava konusu işlemin uygulanması aşamasında, bu bölgede yürüttüğü ticari faaliyetinin sona erme ihtimalinin bulunduğunu gözeterek açtığı davada, subjektif dava açma ehliyetinin bulunduğu sonucuna varılmaktadır.
 
 …
@@ -253,6 +297,8 @@ Davanın yukarıda özetlenen gerekçeyle ehliyet yönünden reddine ilişkin Da
 
 ## Danıştay İDDK 2021/240 E., 2021/514 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/673635600)
+
 Buna göre; Bitlis Belediye Başkanlığınca verilen İşyeri Açma ve Çalışma Ruhsatları çerçevesinde, söz konusu taşınmazda ticari faaliyette bulunmaları sebebiyle günlük yaşamlarının büyük çoğunluğunu riskli alan ilan edilen bölgede geçiren davacıların, dava konusu işlemin uygulanması aşamasında, bu bölgede yürüttükleri ticari faaliyetlerinin sona erme ihtimalinin bulunduğunu gözeterek açtıkları davada, subjektif dava açma ehliyetlerinin bulunduğu sonucuna varılmaktadır.
 
 …
@@ -260,6 +306,8 @@ Buna göre; Bitlis Belediye Başkanlığınca verilen İşyeri Açma ve Çalış
 Davanın yukarıda özetlenen gerekçeyle ehliyet yönünden reddine ilişkin Danıştay Altıncı Dairesinin temyize konu 24/09/2020 tarih ve E:2020/4898, K:2020/8237 sayılı kararının BOZULMASINA …
 
 ## Danıştay İDDK 2021/414 E., 2021/470 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/789496100)
 
 6306 sayılı Afet Riski Altındaki Alanların Dönüştürülmesi Hakkında Kanun'un 6. maddesinin 9. bendinde; bu Kanun uyarınca tesis edilen idari işlemlere karşı tebliğ tarihinden itibaren otuz gün içinde 2577 sayılı İdari Yargılama Usulü Kanunu uyarınca dava açılabileceği, Ek 1. maddenin 2. fıkrasında ise; riskli alan kararına karşı Resmî Gazete’de yayımı tarihinden itibaren dava açılabileceği, uygulama işlemleri üzerine riskli alan kararına karşı dava açılamayacağı düzenlemesine yer verildiği, …
 

@@ -22,6 +22,8 @@ uyari: "Derleyenin seçtiği alıntılardır; kararın tamamı değildir. Künye
 
 ## Yargıtay 15. HD 2019/197 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/478682100)
+
 Davalı vekili, davalının, arsanın, yapılaşmaya uygun hale gelmesi için emek ve masraf sarf ettiğini savunarak, davanın reddini istemiştir.
 
 Mahkemece davalının TBK'nın 98/2. maddesi anlamında ifa güçsüzlüğüne düştüğü gerekçesiyle tapu kaydındaki şerhin terkinine karar verilmiş, verilen karar davalı tarafından temyiz edilmiş, Yargıtay 23. Hukuk Dairesi'nce yapılan temyiz incelemesi neticesinde sözleşmenin geçersizliğinin tespiti ve fesih talebi hakkında karar verilmeden şerhin terkinine hükmedilemeyeceği gerekçesi ile kararın bozulmasına karar verilmiş, mahkemece bozmaya uyularak yapılan yargılama sonucunda asıl ve birleşen davada sözleşmenin feshine ve ifa …
@@ -34,6 +36,8 @@ Mahkemece TBK 98 uyarınca ifa güçsüzlüğü nedeni ile sözleşmenin geçers
 SONUÇ: Yukarıda açıklanan nedenlerle mahkeme kararının gerekçesinin DÜZELTİLEREK ONANMASINA …
 
 ## Yargıtay 20. HD 2018/6931 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/461997100)
 
 …
 
@@ -48,11 +52,15 @@ Dosyadaki yazılara, kararın dayandığı delillerle yasaya uygun gerektirici n
 
 ## Yargıtay 23. HD 2018/3141 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/422621300)
+
 Davaya konu taşınmazın emsal artışı nedeni ile inşaat alanı fazlalaşmıştır. Bu artıştan asıl dava davacılarının sözleşmedeki paylaşım oranı gözetilerek faydalanması gerekir. Nitekim somut olayda 1.87 daire yerine 2 daire alındığı sabittir. Bu fazlalığın emsal artışı nedeni ile olduğu anlaşılmıştır. Bu nedenle davalı yüklenicinin fazla daire verdiği yönündeki savunmasına itibar edilmemesi gerekirken, mahsup talebinin kabulü ile yazılı şekilde karar verilmesi doğru olmamış, bozmayı gerektirmiştir.
 
 SONUÇ: Yukarıda (1) numaralı bentte açıklanan nedenlerle asıl davada davacılar vekilinin diğer temyiz itirazlarının reddine, (2) numaralı bentte açıklanan nedenlerle, (1) numaralı bent dışındaki diğer temyiz itirazlarının kabulü ile hükmün, asıl davada davacılar yararına BOZULMASINA …
 
 ## Yargıtay 23. HD 2018/1996 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/421769600)
 
 Davacı vekili, müvekkili ile davalı arsa sahibi bankalarla arsa payı karşılığı inşaat sözleşmesi, diğer davalı ile inşaat taahhüt sözleşmesi imzalandığını, buna göre ticaret ve alışveriş merkezi yapımını müvekkilinin üstlendiğini, davalı arsa sahiplerince ruhsat alındığını, ancak, müvekkilinin ...Gazetesi'nin 14.10.1999 tarihli nüshasında yapılan bir ilanla, sözleşme konusu olan taşınmazın hemen önünde, ana yolun üstünde ve ön tarafını kapatır şekilde başka bir ticaret merkezi (...Ticaret Merkezi) projesi geliştirildiği ve bunun yapımı için firma arandığını öğrendiğini, böyle bir projenin, sözleşme konusu projenin rantabilitesini çok önemli ölçüde etkileyeceğini, bunun önceden bilinmeyen bir durum olup bilinseydi sözleşmenin imzalanmayacağını, davalılarla yapılan görüşmelerden olumlu sonuç alınamadığını ileri sürerek, sözleşmenin ana unsurlarında hata edilmesi, öngörülemeyen değişikliklere bağlı olarak işlem temelinin çökmesi nedeniyle her iki sözleşmenin feshini talep ve dava etmiştir.Davalılar davanın reddini istemişlerdir.Karşı davacı ...
 
@@ -69,6 +77,8 @@ SONUÇ: Yukarıda (1) numaralı bentte açıklanan nedenlerle davalılar-karşı
 
 ## Yargıtay 20. HD 2017/2735 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/325376600)
+
 Dava, gayrimenkul satış vaadi ve kat karşılığı inşaat sözleşmesinden kaynaklanan tazminat istemine ilişkindir.
 
 …
@@ -76,6 +86,8 @@ Dava, gayrimenkul satış vaadi ve kat karşılığı inşaat sözleşmesinden k
 ...4. Tüketici Mahkemesi ise davacılar mal ( toprak ) sahibi ( iş sahibi ), davalı ise yüklenici ( müteahhid ) sıfatındadır. Sözleşmeye göre davacılara 1 ve 8 nolu daireler yani birden fazla daire verilecektir. Bu durumda 6502 sayılı Kanunun 3/k maddesi kapsamında toprak mal sahibi olan ve birden fazla daire alacak olan davacılar tüketici sıfatına haiz olmadığından (Yargıtay 14. Hukuk Dairesinin 2012/940 Esas, 2012/1493 karar sayılı içtihadı) 3/l maddesi uyarınca tüketici işlemi olmadığı gibi aynı Kanunun geçici 2. maddesi uyarınca davanın açıldığı tarih (14/11/2012) itibariyle 4077 sayılı Kanun uygulaması gerekliliği ile 4077 sayılı Kanun kapsamında da taraflar arasında eser sözleşmesi, davacıların tüketici sıfatına haiz olmaması nedenleriyle görevsizlik kararı vermiştir.
 
 ## Yargıtay 23. HD 2016/3295 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/232995000)
 
 Davacılar vekili, davalı yüklenicinin, taraflar arasında imzalanan arsa payı karşılığı inşaat sözleşmelerinde kararlaştırılan sürede arsa sahibi müvekkillerine düşen bağımsız bölümleri teslim etmediğini ileri sürerek, müvekkili V.. G.. için 36.000,00 TL, müvekkili Ö.. U.. için 144.000,00 TL gecikme tazminatının davalıdan tahsilini talep ve dava etmiştir.
 
@@ -91,6 +103,8 @@ Maddesindeki tanımlar bütün olarak okunup değerlendirildiğinde ve taraflar 
 SONUÇ: Yukarıda (1) numaralı bentte açıklanan nedenlerle, davacılar vekilinin temyiz itirazlarının kabulü ile hükmün, davacılar yararına BOZULMASINA …
 
 ## Yargıtay 23. HD 2016/2208 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/237660600)
 
 Davacı vekili, müvekkili ile davalı taraf arasında Kayseri 6.
 
@@ -108,6 +122,8 @@ SONUÇ: Yukarıda (1) numaralı bentte açıklanan nedenlerle, davalı vekilinin
 
 ## Yargıtay 20. HD 2015/9834 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/136252700)
+
 Dava, kat karşılığı inşaat sözleşmesi uyarınca davacı adına tescil edileceği kararlaştırılan taşınmazların davalı adına olan tapu kaydının iptali ile davacı adına tescili ve davalılar tarafından fazladan edinilen bağımsız bölümün rayiç değerinin tazmini istemine ilişkindir.
 
 …
@@ -115,6 +131,8 @@ Dava, kat karşılığı inşaat sözleşmesi uyarınca davacı adına tescil ed
 Tüketici Mahkemesince ise, kat karşılığı inşaat sözleşmesinde güdülen amacın birden fazla daire edinerek kazanç ve getiri sağlama amacı olduğu, tarafların tüketici tanımına uymadığı ve davanın genel mahkemelerde çözülmesi gerektiği nedeniyle görevsizlik kararı verilmiştir.
 
 ## Yargıtay 23. HD 2015/2550 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/202933100)
 
 Bilirkişi kurulunca, yüklenici tarafından ihale bedeli olarak ödenen 86.000,00 TL'nin eklenmesi suretiyle yapılan hesaplamaya göre ilk sözleşmedeki paylaşım oranı %52,18 bulunmuş olup, bu hesaplamanın doğru olduğu kabul edilmiştir. Asıl davada davacı tarafça ilk sözleşmedeki %52,18'lik paylaşım oranı dikkate alınarak avan proje değişikliği sebebiyle oluşan değişiklik üzerine Vakıflar Meclisi'nin 16.06.2009 tarihli kararı uyarınca 121.220,00 TL'nin verilmesi gerektiği ileri sürülerek işbu dava açılmıştır. Bilirkişi kurulunca, proje değişikliği üzerine davacı arsa sahibine ilk sözleşmedeki gibi yine 1 dükkan, 12 daire kaldığının kabulü ile, yeni duruma göre parasal değer dikkate alınarak paylaşım dengesinin bozulup bozulmadığı, bozulmuş ise hangi taraf aleyhine bozulduğu yönünde belirleme yapılması gerekmektedir. Asıl davada davacı vekilinin rapora teknik nitelikte itirazlar ileri sürmesine rağmen ek bilirkişi raporunda itirazlar karşılanmamıştır.
 Bu durumda mahkemece, uzman bilirkişi kurulu oluşturularak, önceki rapora yapılan teknik nitelikteki itirazları da karşılar nitelikte, parasal değer bazlı paylaşım oranına göre gerekçeli, ayrıntılı, denetime elverişli rapor alınıp, sonucuna göre bir karar verilmesi gerekirken, eksik incelemeye dayalı olarak, yazılı şekilde hüküm kurulması doğru olmamıştır.
@@ -124,6 +142,8 @@ Bu durumda mahkemece, uzman bilirkişi kurulu oluşturularak, önceki rapora yap
 SONUÇ: Yukarıda (1) numaralı bentte açıklanan nedenlerle, taraf vekillerinin diğer temyiz itirazlarının reddine, (2) numaralı bentte açıklanan nedenlerle, asıl ve birleşen davada davacı vekilinin, (3) numaralı bentte açıklanan nedenlerle birleşen davada davalı vekilinin, (4) numaralı bentte açıklanan nedenlerle asıl davada davalı vekilinin temyiz itirazlarının kabulü ile hükmün, anılan taraflar yararına BOZULMASINA …
 
 ## Yargıtay 23. HD 2015/1518 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/199821100)
 
 Davacı vekili, taraflar arasında arsa payı karşılığı inşaat sözleşmesi imzalandığını, ancak sözleşme konusu taşınmazın davalı tarafından üçüncü kişiye satıldığını, sözleşme nedeniyle masraflar yaptığını ve sözleşme ifa edilseydi, davacının dört adet daire alacağını ileri sürerek, müvekkilinin uğradığı zararın tahsilini talep ve dava etmiştir.
 
@@ -141,6 +161,8 @@ SONUÇ: Yukarıda (1) numaralı bentte açıklanan nedenlerle, davacı vekilinin
 
 ## Yargıtay 23. HD 2014/1686 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/111442900)
+
 Davacı vekili, müvekkli ile davalı yüklenici arasında imzalanan 07.08.2005 tarihli arsa payı karşılığı inşaat sözleşmesi ile on daire yapılacağının, üç dairenin müvekkiline, yedi dairenin ise davalıya verileceğinin kararlaştırıldığını, buna rağmen davalının fazladan üç daire daha yaparak kardeşlerine tapuda satış gösterilmek suretiyle devrettiğini, ayrıca müvekkiline isabet eden üç adet dairenin geç teslim edildiğini ileri sürerek, fazlaya ilişkin hakları saklı kalmak kaydıyla davalının sözleşmeye aykırı olarak elde etmiş olduğu menfaatleri hesaplanarak bulunacak toplam değerinin %30'luk kısmı ile sözleşmenin yerine geç getirilmesinden doğan kira bedellerine karşılık 10.000,00 TL 'nin tahsiline karar verilmesini talep ve dava etmiş; ıslah dilekçesiyle, müvekkiline isabet eden üç dairenin geç teslimi nedeniyle Aralık ve Ocak 2008 ayı kira bedeli 2.000,00 TL, fazladan inşa edilen üç dairenin teslim edilmesi gereken Ağustos 2008 ayı ile diğer dairelerin fiilen teslim edildiği Ocak 2009 arası altı aylık kira bedelinin %30 'u olan 1.890,00 TL ve fazladan yapılan üç dairenin %30 bedeli olan 35.771,00 TL olmak üzere toplam 39.561,12 TL'nin davalıdan tahisiline karar verilmesini
 istemiştir.
 
@@ -157,6 +179,8 @@ SONUÇ:Yukarıda (1) numaralı bentte açıklanan nedenlerle, davacı vekilinin 
 
 ## Yargıtay 1. HD 2013/9585 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/914413400)
+
 Davacı, mülkiyeti derneğe ait 6912 ada, 27 parsel sayılı taşınmazı, davalı derneğin tapuda isim düzeltilmesi davası sonucunda haksız olarak edindiğini, açılan tapu iptali ve tescil davası sonucunda yeniden adlarına tescilini sağladıklarını, arada geçen süre içinde taşınmazdan yararlanamadıkları gibi elde edecekleri gelirden de mahrum kaldıklarını ileri sürerek, davalı derneğin kullanımında bulunan süre dikkate alınarak hak ettikleri ecrimisil bedelinin davalıdan yasal faizi ile birlikte tahsiline karar verilmesini istemiştir.
 
 Davanın kabulüne ilişkin olarak verilen karar, Yüksek 3. Hukuk Dairesince; ''hükme esas alınan bilirkişi raporunda, imar durumuna göre dava konusu arsa üzerinde 12 daireli bir bina inşa edilebileceği, arsa sahibinin taşınmazı kat karşılığı vermesi halinde yarısı olan 6 daire alacağı ve inşaat süresi çıkartılarak kalan süre için bu dairelerden elde edebileceği gelir esas alınarak ecrimisil hesabı yapılmıştır. Rapor varsayıma dayalı olup hükme esas alınamaz. Taşınmaz tapu kaydına göre arsa niteliğindedir. Ecrimisil istenen dönemden önce davacı tarafından kat karşılığı inşaata verildiği veya verileceği ispat edilmiş de değildir. İmar durumuna göre kat karşılığı verilmesi halinde, arsa sahibinin kendisine düşen dairelerden elde edebileceği kira geliri üzerinden ecrimisil hesabının hukuki dayanağı yoktur.
@@ -168,6 +192,8 @@ Hükmüne uyulan bozma kararında, gösterildiği şekilde işlem yapılarak kar
 
 ## Yargıtay 23. HD 2013/4699 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/503788900)
+
 Ne var ki, mahkemece hükmüne uyulmasına rağmen bozma gerekleri yerine getirilmemiştir. Belediyeden gelen ........2011 tarihli yazıda, ... parselde bulunan taşınmazın yeni çıkan tapu tescil belgesine ve yeni imara göre değerlendirilmesi ve bunların dışında yazıda gösterilen bazı hususların da yapılması gerektiği ifade edilmiş ancak mahkemece yeni çıkan tapu tescil belgesi getirtilmediği gibi yeni imar durumu da sorulmamış keza, bilirkişiden alınan raporda imar durumunun değiştiği ifade edilmekle beraber binanın dört katlı yapılması halinde mevcut faraziyeye göre hesap yapılmıştır.Oysa aynı raporda, son imar durumuna göre 0.75 toplam emsal alanın ... kat +çatı katı yapılabileceğinin belirtildiği görülmüştür.Bu durumda mevcut imalatın yeni imar durumuna göre gerçekleştirilebilecek yapılaşmaya göre davalı arsa sahibinin kullanıp kullanamayacağı ve yararına olup olmadığı incelenmemiştir.
 
 …
@@ -175,6 +201,8 @@ Ne var ki, mahkemece hükmüne uyulmasına rağmen bozma gerekleri yerine getiri
 SONUÇ: Yukarıda (...) no'lu bentte açıklanan nedenlerle davalı vekilinin diğer temyiz itirazlarının reddine, (...) no'lu bentte açıklanan nedenlerle temyiz itirazlarının kabulüyle kararın davalı yararına BOZULMASINA …
 
 ## Yargıtay 15. HD 2013/4151 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/258151500)
 
 Yanlar arasındaki 11.09.2001 günlü Düzenleme Şeklinde Gayrimenkul Satış Vaadi ve Daire Karşılığı İnşaat Sözleşmesine göre sözleşmeye konu taşınmaz üzerine 28 dairelik bina inşa edilecek, davacı arsa sahibine 7,5 daire teslim edilecektir. İmar durumuna göre binaya 28 adet daire yapılması mümkün olmamış bina 26,5 daireli olarak inşa edildiği halde arsa sahibine yine 7,5 daire teslim edilmiştir. Sözleşmede kararlaştırılan daire sayısı imar durumu nedeniyle azaldığından fiilen yapılan daire sayısına göre yanlar arasındaki paylaşım oranının yeniden belirlenmesi gerekir. Sözleşmedeki paylaşım oranı esas alındığında fiilen yapılan daire sayısına göre yüklenicinin alması gereken daire sayısı 19,4, arsa sahibinin alması gereken daire sayısı ise 7,1 dir. Davalı ve karşı davacı yüklenici 19 daire aldığından eksik aldığı daire sayısı 0,4 olup buna göre tazminata hükmedilmesi gerekirken 1,5 daire eksik olduğu kabul edilerek yazılı şekilde 150.000,00 TL’ye hükmedilmesi doğru olmamıştır.
 

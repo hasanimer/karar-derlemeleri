@@ -22,6 +22,8 @@ uyari: "Derleyenin seçtiği alıntılardır; kararın tamamı değildir. Künye
 
 ## İstanbul BAM 45. HD 2025/789 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1161166500)
+
 Şubesinden taahhütlü mektup olarak gönderildiği, ortaklar listesinde kayıtlı 184 ortaktan 50 ortağın asaleten, 34 ortağın vekaleten olmak üzere toplam 84 ortağın genel kurul toplantısında hazır bulunduğu ve toplantı nisabının sağlandığı, Bakanlık temsilcisinin katılımı ile toplantıya başlandığı anlaşılmıştır.Genel kurulda alınan kararlar incelendiğinde;1. Gündem maddesinin açılış, başkanlık divanının teşkili, saygı duruşuna dar olduğunu, 2.Gündem maddesiyle divan heyetine oybirliği ile genel kurul tutanaklarını imzalama yetkisi oy birliği ile verildiği, 3. Gündem maddesiyle ilgili karar alınmadığı, 4. Gündem maddesiyle ilgili karar alınmadığı, 5. Gündem maddesinin yönetim ve denetim kurulları raporları ile 2016 ve 2017 yıllarına ait bilanço ve gelir gider farkı hesaplarının müzakeresi ve bilançonun onayına ilişkin olduğu, yapılan sayımda 76 kişi olduğunun tespit edildiği, bilançonun 5 ret oyuna karşı 63 oy kabul oyu ile kabul edildiği, yönetim kurulu faaliyet raporunun oy birliği ile kabul edildiği, denetim kurulu raporunun 1 ret oyuna karşılık 75 kabul oyu ile kabul edildiği, 6.
 Gündem maddesinin yönetim ve denetim kurullarının ibrasına ilişkin olup yönetim kurulunun oy birliği ile denetim kurulunun 1 ret oyuna karşılık 75 kabul oyu ile ibra edildiği, 7. Gündem maddesiyle ilgili karar alınmadığı, 8. Gündem maddesiyle site yönetimine verilen borç paranın mahkeme yoluyla eski yönetimden ve muhatap olarak geri alınması için mahkeme açılmasına 10 ret oyuna karşı 66 kabul oyuyla kabul edildiği, 9. Gündem maddesiyle arsa sahiplerinin emlak vergilerinin kooperatif tarafından ödenmesine, kooperatifin parası olduktan sonra emlak vergisini ödeyen üyelere paralarının kooperatif müsait olduktan sonra ödenmesi oy birliği ile karar verildiği, 12. Gündem maddesinin kooperatif avukatının mevcut davalarla ilgili genel kurula bilgi vermesi ve bütçenin görüşülmesine ilişkin olduğu kooperatif avukatı ... tarafından genel kurula bilgi verildiği ancak kararda bütçenin görüşüldüğüne dair bir bilginin yer almadığı, 13. Gündem maddesiyle kentsel dönüşüm konusunda firmalarla görüşülüp teklif alınması için yönetim kuruluna oy birliği ile yetki verildiği, 14.
 
@@ -33,6 +35,8 @@ Gündem maddesinin kooperatifin tasfiye halinin görüşülmesine ilişkin oldu�
 H Ü K Ü M:Gerekçesi yukarıda izah edildiği üzere,1-Davacının istinaf başvurusunun KABULÜ ile İstanbul Anadolu 10. Asliye Ticaret Mahkemesi'nin 04/12/2024 tarihli 2023/847 E. 2024/832 K. sayılı kararının HMK'nın 353/1.b.2 maddesi uyarınca KALDIRILMASINA VE YENİDEN HÜKÜM TESİS EDİLEREK; a-Davanın KISMEN KABULÜ ile; davalı kooperatifin 21/01/2018 tarihli genel kurul toplantısında 17 nolu gündem maddesi ile alınan kararda "...teminat ve ipotek alınıp verilmesi …
 
 ## İstanbul BAM 17. HD 2024/1482 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1098591800)
 
 Gündemin 1. maddesinin, açılış ve saygı duruşuna ilişkin olduğu; gündemin 3. maddesinin, yönetim ve denetim raporlarının okunmasına ilişkin olduğu ve bir karar alınmadığı; gündemin 4. maddesinin, 2013-2014 tarihli bilanço ve gelir gider tablosunun okunması ve müzakeresine ilişkin olduğu ve bir karar alınmadığı; gündemin 6. maddesinin, tapularla ilgili bilgi verilmesine ilişkin olduğu ve bir karar alınmadığı; gündemin 10. maddesinin, yönetim ve denetim kurulu üyelerine verilecek huzur hakkının görüşülmesine ve gündemin 12. maddesinin ise, kentsel dönüşüm konusunun görüşülerek komisyon kurulmasına ilişkin olduğu, ancak her iki maddede alınan kararın da icrai mahiyette bir karar olmadığı; gündemin 13. maddesinin, dilek ve temennilere ilişkin olduğu; gündemin 14. maddesinin ise, kapanışa ilişkin olduğu anlaşılmıştır. Dava konusu edilen genel kurul toplantısında gündemin 2, 5, 7, 8, 9, 11. maddeleri ile ilgili oylama yapılarak karar alındığına göre iptale tabi olan kararların bu kararlar olduğunu kabul etmek gerekmekte olup inceleme de bu doğrultuda yapılmıştır. Somut olayda, dava kooperatif merkezinin bulunduğu yerdeki Asliye Ticaret Mahkemesinde açılmıştır.
 1163 sayılı Kooperatifler Kanununun 53. maddesi uyarınca, genel kurulda alınan kararların geçersiz olması (yokluk) hali, oyunu kullanmasına haksız yere izin verilmemesi, çağrılmama, çağrının usulsüzlüğü, gündemin gereği gibi ilan veya tebliğ edilmemesi veya toplantıya ve karara yetkili olmayan kimselerin iştirak etmesi iddiaları dışında yasaya, anasözleşmeye ve iyiniyet kurallarına aykırı olduğu ileri sürülerek iptalleri isteminde bulunabilmek için toplantıya katılan ortağın ret oyu kullanıp, alınan kararlara muhalif kalarak, keyfiyeti tutanağa geçirdikten sonra kararın iptali için toplantıyı kovalayan günden başlamak üzere bir ay içinde dava açması gerekmektedir."...Davacı genel kurullara çağrılmamış olup, bu hal 1163 sayılı Kooperatifler Kanunu’nun 53. maddesine göre, çağrılmayan ortağa genel kurulda alınan kararlara muhalif kalıp, keyfiyeti tutanağa geçirtme koşulları aranmaksızın iptal davası açma hakkı bahşeder.
@@ -46,6 +50,8 @@ HÜKÜM:Gerekçesi yukarıda açıklandığı üzere; 1-Davacı vekilinin istina
 
 ## İstanbul BAM 45. HD 2024/1310 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1083803600)
+
 Kooperatif ana sözleşmesinin 39. maddesinde de bu hususlar tekrarlanmıştır.Somut olayda 14/04/2019 tarihli olağan genel kurulda alınan kararların iptali için 07/05/2019 tarihinde bir aylık hak düşürücü süre içerisinde dava açılmıştır.Davalı kooperatifin 14/04/2019 tarihli 2018 yılı olağan genel kurul toplantısında 9 no.lu gündem maddesinin b bendinde;"-3194 Sayılı İmar Kanununa eklenen geçici 16. madde kapsamında yapı kayıt belgesi başvurusu yapılması oylamaya sunuldu. Yapılan oylama sonucunda 3194 sayılı İmar Kanununa eklenen geçici 16.madde kapsamında yapı kayıt belgesi başvurusu yapılmasına ve bu başvuru için yönetim kurulunun sınırsız yetkili olmasına oybirliği ile karar verildi. -Tüm kooperatif ortakları tarafından 3194 Sayılı İmar Kanununa eklenen geçici 16. madde kapsamında yapı kayıt belgesi başvurusu yapılması için gerekli tutarın toplanması ve ortaklara sahip oldukları dairelerin metre karelerine bağlı olarak tüm kooperatif ortaklarının eşit olarak ödemesini ve ödemenin 15 Haziran 2019 tarihine kadar kooperatifin yeni açılacak banka hesabına yatırılarak bu tutar kooperatifin başka hiçbir gider ödemesinde kullanılmamasını ... ve ... tarafından önerildi.
 Divan başkanı bu öneriyi oylamaya sundu. Yapılan oylama neticesinde bu öneri 114 (YüzOnDört) kabul, 55 (ElliBeş) red oyu ile oy çokluğu ile kabul edildi." şeklinde karar alınmıştır.Toplantı tutanağında bu maddenin devamında; "Gündemin bu maddesinde 3194 sayılı İmar Kanuna eklenen geçici 16.madde kapsamında yapı kayıt belgesi başvurusu yapılması için kooperatif ortaklarından toplanacak olan tutarın birleşme protokolü 6.maddesi gereğince sadece 380 yüklenici kooperatif ortaklarınca ödenmesi, 128 arsa sahibi ortağı tarafından bu ödemelerin yapılmaması hukuki ve mahkemelerce tescil edilmiş yasal bir zorunluluktur. Alınan karar birleşme protokolüne aykırıdır. Bu bağlamda söz konusu bedelin tüm ortaklardan toplanması kararına dava açma hakkımız saklı kalmak şartı ile şerh koyuyoruz.
 
@@ -57,6 +63,8 @@ Kooperatifine bütün aktif ve pasifleri ile birlikte devrolunduğu, Sözleşmen
 H Ü K Ü M:Gerekçesi yukarıda açıklandığı üzere;1-Davalı vekilinin istinaf başvurusunun HMK'nın 353/1.b.1 maddesi uyarınca ESASTAN REDDİNE …
 
 ## İstanbul BAM 45. HD 2024/780 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1044160500)
 
 Dava ve taraf ehliyeti kamu düzenine ilişkin olup, mahkemece re’sen göz önünde tutulması gereken hususlardandır.
 
@@ -75,6 +83,8 @@ H Ü K Ü M: Gerekçesi yukarıda izah edildiği üzere;1-Davacı vekilinin isti
 
 ## İstanbul BAM 17. HD 2024/273 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1011994000)
+
 Dava, kooperatif genel kurul kararının iptali istemine ilişkindir.
 
 …
@@ -90,6 +100,8 @@ Somut olayda, dava konusu iptali talep edilen genel kurul gündeminin 6/a maddes
 
 ## İstanbul BAM 15. HD 2023/1451 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/988321100)
+
 Dava; eser sözleşmesinden kaynaklanan maddi ve manevi tazminat talebine ilişkin olup, mahkemece davanın davalı şirket yönünden reddine, diğer davalılar yönünden ise pasif husumet yokluğundan reddine dair verilen karara karşı davacı yanca istinaf talebinde bulunulmuştur.
 
 …
@@ -102,6 +114,8 @@ Sözleşme 06/12/2013 tarihinde düzenlenmiş ve sözleşmede davalı tarafında
 Sözleşme tarihi 06/12/2013 olup sözleşmenin konusu taşınmazların bulunduğu yere ait kentsel dönüşüm uygulama planının yürürlüğe girdiği tarih 08/11/2016 tarihi olup, davacının taahhüt ettiği yükümlülüklerin bu tarihten sonra yerine getirilmesi mümkündür. Davacının bu durumu gözetmeden sözleşmeyi Kadıköy ... Noterliğinin 17/06/2016 tarih ve ... yevmiye nolu ihtarı ile "aralarındaki müşavirlik sözleşmesinin 5.2.1 maddesine göre sözleşmenin konusu olan dönüşüm projesinin mimari tasarım, inşaat, satış ve pazarlama, projeye yönetimi işlerinin tümünün yüklenicinin yükümlülüğünde olduğunu" belirterek tüm bu hususların davalı tarafından yerine getirilmesi gerektiği gerekçesi ile sözleşmeyi feshetmesi hatalı olmuştur.
 
 ## İstanbul BAM 45. HD 2023/1382 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/951986600)
 
 Maddesinde hizmet süresinin sözleşmenin imzalandığı 06/09/2003 tarihinden başlayarak yapı kullanma izninin alındığı tarihe kadar devam edeceği ve bu surenin 24 ay olarak öngörüldüğü belirtilen sözleşmede bazı maddelerin ek sözleşme ile değiştirildiği, hizmet süresinin 10/08/2005 tarihinden yapı kullanma izninin alındığı tarihe kadar olacağı belirlenmiş olup, yapı ruhsatı alındıktan sonra 2 yıl içinde inşaata başlanmadığı veya başlandığı halde 5 yılda bitirilmediği durumlarda bu sözleşme herhangi bir ihtara gerek kalmaksızın kendiliğinden sona ereceği ve hizmet bedeli 433.823 m2 x406 TL x 0,0531 = 9.352.617 TL olarak kararlaştırıldığı, Yapı Denetim Hizmetine konu olan inşaatta yapı ruhsatları 11.08.2005 tarihinde alındığı, 10.08.2005 tarihinde değiştirilerek imzalanan sözleşme süresinin 5 yıl olması ve Yapı Denetim Uygulama Yönetmeliği 23.Maddesi;
 “ (1) Yapı ruhsatı alındıktan sonra iki yıl içinde inşaata başlanmadığı veya başlandığı halde, başlama müddeti ile birlikte 5 yıl içinde bitirilmediği ve bu süre içinde ruhsat yenilenmediği takdirde, yapı sahibi ile yapı denetim kuruluşu arasında akdedilen sözleşme başkaca bir bildirime gerek kalmaksızın kendiliğinden sona erer" hükmü gereğince akdedilen sözleşmeler 10.08.2010 tarihi itibariyle sona ermiş olup, yapı sahibinin yeni bir yapı denetim hizmet sözleşmesi yapması, ayrıca yapı ruhsatlarının da yenilenmesi gerekirken bu işlemler yapılmaksızın inşai faaliyetlere devam edildiği anlaşıldığı, sözleşmenin sona erdiği tarihte tanzim edilmiş bir seviye tespit tutanağı bulunmamakla beraber, öncesinde Yapı Denetim Kuruluşu, Yapı Sahibi ve Müteahhit imzalı 29.12.2008 tarihli seviye tespit tutanağı ve sonrasında Yapı Denetim Kuruluşu ve Yapı Sahibi imzalı 31.12.2010 tarihli seviye tespit tutanağı bulunduğu ve her iki tutanakta da gerçekleşme seviyeleri aynı olmakla ve sözleşme süre sonundaki seviye olarak dikkate alınabileceği, bu nedenle, sözleşmenin son bulduğu tarih itibariyle yeni bir sözleşme imzalanmaması da dikkate alınarak davacı yapı denetim kuruluşu için 29.12.2008 tarihli

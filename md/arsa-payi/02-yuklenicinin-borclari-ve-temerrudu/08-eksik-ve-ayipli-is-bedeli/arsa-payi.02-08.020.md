@@ -21,6 +21,8 @@ uyari: "Derleyenin seçtiği alıntılardır; kararın tamamı değildir. Künye
 
 ## İstanbul BAM 15. HD 2020/931 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/600523800)
+
 Sulh Hukuk Mahkemesi'nin 20/11/2014 tarihli 2014/87-2014/85 D.iş sayılı dosyasında yapılan tespit sonucu alınan bilirkişi raporunda; taşınmazın cephe kısımlarından su aldığı, bazı dairelerin açılır kanat mekanizmalarının sağlıklı olarak çalışmadığı, bazılarının değiştirildiği, cepheden giren suyun tavanlarda boyaları değiştirdiği ve kabarttığı, parkelere zarar verdiği, teras katında bulunan dairelerin yağmur iniş kolonlarından su aldığı, bunun, yalıtımın hatalı olmasından kaynaklandığı, ayrıca kompozit panellerde açıklık bulunduğu, açılır kapanır kanat mekanizması arızalı olan dairelerin bulunduğu, su almaların nedeninin cephenin kaplamaları tam olarak sökülmeden belirlenemeyeceği belirtilmiştir.Mahkemece bilirkişi kurulundan alınan 13/07/2017 tarihli raporda; malzemeler yönünden yapılan tespitte herhangi bir kusur görülmediği, gizli ayıp teşkil edecek malzeme, işçilik ve imalatın bulunmadığı, davalı tarafça üstlenildiği halde yerine getirilmemiş eksikliklerin ve ayıbın mevcut olmadığı, zararın oluşmasına çatlaklardan, birleşme yerlerinden, deliklerden ve terastan giren suların neden olduğu, suların üst kattan başlayarak aşağıya doğru aktığı, akma sırasında duvar ile cephe ara
 yüzeylerden nüfuz etmesi sonucu tavan ve duvarlara zarar verdiği, proje aşamasında tasarımda su izolasyonunun dikkate alınmamış olması, uygulama sırasında işin davacının kontrol mimarı tarafından kabul edilmesi, garanti süresi içerisinde oluştuğuna dair kanıtın olmaması sebebiyle ortaya çıkan zararın davalı firmanın kusuru olarak kabul edilemeyeceği, pencere mekanizmaları konusunda açık ve gizli ayıbın tespit edilemediği, mekanizmaların fonksiyonlarını yerine getirdiği, aşınma, kırılma, kopma, eğilme, bükülme vb. kusurlara sahip olmadığının belirlendiği, taraflar arasında aktedilen sözleşmenin davalı tarafından yerine getirildiği, cam, doğrama ve kompozit malzeme ve işçiliklerin açık ve gizli ayıplı olmadığı, kanat mekanizmalarının çalışır ve kullanılabilir durumda olduğu, kompozit panellerden suyun sızmasına tasarım hatasının sebep olduğu tespit edilmiştir.
 
@@ -32,6 +34,8 @@ Sözleşmede garanti süresi iki yıl olarak kararlaştırıldığına göre 07/
 HÜKÜM: Gerekçesi yukarıda açıklandığı üzere;1-Davacı vekilinin istinaf başvurusunun KABULÜNE, 2-Bakırköy 2. Asliye Ticaret Mahkemesi'nin 22/01/2018 tarih, 2015/949 Esas, 2018/58 Karar sayılı kararının KALDIRILMASINA …
 
 ## İstanbul BAM 15. HD 2020/689 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/585895700)
 
 Mahallesi, ... mevkinde kain ... ada, ... parsel sayılı taşınmaz üzerinde toplam 20 bağımsız bölümlü bir iş yeri binasının davacı şirket tarafından inşa edilmesi konusunda Üsküdar ... Noterliği'nin 10/04/2012 tarih, ... yevmiye nolu düzenleme şeklinde gayrimenkul satış vaadi ve kat karşılığı inşaat sözleşmesi imzalanmıştır. Davacı şirket ile ile davalı ... San. Dış Tic. Ltd. Şti. arasında bita tarihli imzasız birim fiyat esaslı taşeron sözleşmesi düzenlenmiştir. Bu sözleşme ile kat karşılığı inşaat sözleşmesine konu iş yeri binasının dış cephe camlarının sözleşmede belirtilen şekil ve şartlarda ve belirtilen malzemeler ile davalı taşeron şirket tarafından giydirilmesi kararlaştırılmıştır. Davalı taşeron şirket tarafından cam ve aksesuarlar diğer davalı ... Ltd. Şti.'ne imal ettirilmiştir. Sözleşmenin 1. maddesinde, işe başlama tarihi 25.03.2013 olarak belirlenmiş, 2. maddesinde, kullanılacak malzemeler 12 bent halinde sıralanmış, 2. Maddenin 12. bendinde sözleşmenin birim fiyat esaslı olduğu açıklanmış ve 3. maddesinde “cam cephe giydirme işinin m2 birim fiyatı; 255,00 TL/m2 + KDV olarak belirtilmiştir. Toplam iş bedeli 102.000 TL + 100.000,00 TL olmak üzere 202.000,00 TL'dir.
 Yazılı taşeron sözleşmesinde davacı yüklenici şirket ile davalı taşeron ... San. Dış Tic. Ltd. Şti.'nin kaşeleri mevcut olup, kaşeler üzerinde imza bulunmamaktadır. Ancak taraflar arasında sözleşmenin varlığına ve içeriğine yönelik bir ihtilaf yoktur. İhtilaf, yerel mahkeme kararını istinaf eden cam imalatçısı davalı ... Ltd. Şti.'nin dosya kapsamında alınan bilirkişi raporlarında belirlenen ayıplı iş bedelinden sorumlu olup olmadığı yani bu davalı şirketin açılan davada pasif husumet ehliyetinin bulunup bulunmadığı noktasında toplanmaktadır. Taraflar arasındaki akdi ilişkinin varlığını ispat yükü davacı taraftadır. Karşılıklı edimleri içeren eser sözleşmelerinde yüklenicinin görevi eseri sözleşmesine, amacına ve tekniğine uygun tamamlayarak teslim etmek, iş sahibinin görevi ise, sözleşmede kararlaştırılan yükümlülükler varsa bunların yerine getirilmesiyle eserin bedelini ödemekten ibarettir.
@@ -47,6 +51,8 @@ HÜKÜM: Gerekçesi yukarıda açıklandığı üzere; A)1-Davalı ...Ltd.Şti. 
 
 ## İstanbul BAM 15. HD 2019/211 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/478288200)
+
 Dava, kat karşılığı inşaat sözleşmesinden kaynaklanan tapu iptali ve tescil, olmadığı takdirde bağımsız bölüm bedelinin ve otopark için harcanan bedelden davalı hissesine düşen kısmın tahsili istemlerine ilişkindir.
 
 …
@@ -58,6 +64,8 @@ Bu durumda, mahkemece, tadilat projesi gereği sığınak bölümüne ait olduğ
 HÜKÜM: Gerekçesi açıklandığı üzere;1-Davalı vekinin istinaf başvurusunun esasa ilişkin sebepler incelenmeksizin usul yönünden KABULÜNE,2-İstanbul Anadolu 7. Asliye Ticaret Mahkemesi'nin 20/06/2018 tarih, 2013/270 Esas, 2018/681 Karar sayılı kararının KALDIRILMASINA …
 
 ## İstanbul BAM 15. HD 2019/69 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/465273700)
 
 Dava, ayıp ve eksik işler bedelinin tahsili talebine ilişkin olup; mahkemece, davanın kısmen kabulüne dair verilen karar taraf vekillerince süresinde ve usulünce istinaf edilmiştir.
 

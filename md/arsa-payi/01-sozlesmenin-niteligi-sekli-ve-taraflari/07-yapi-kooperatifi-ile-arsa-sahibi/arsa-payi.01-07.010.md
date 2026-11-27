@@ -22,6 +22,8 @@ uyari: "Derleyenin seçtiği alıntılardır; kararın tamamı değildir. Künye
 
 ## Yargıtay 23. HD 2013/2388 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/486047600)
+
 Davacılar vekili, müvekkillerinin de üyesi olduğu davalı kooperatifin yönetim kurulu ile diğer davalı yüklenici şirket arasında yapılan arsa payı karşılığı inşaat sözleşmesinin kooperatifin zararına olduğunu, yönetim kurulu üyelerinin bu sözleşme ile kendilerine şahsi menfaatler temin ettiklerini, yönetim kurulu üyelerinden biri ile davalı yüklenici şirketin bir ortağının akraba olduğunu, bu durumun 1163 sayılı Kooperatifler Kanunu'nun 59/.... maddesine aykırılık teşkil ettiğini ileri sürerek, davalılar arasında yapılan 05.07.2010 tarihli arsa payı karşılığı inşaat sözleşmesinin geçersizliğinin tespiti ile iptalini ve müdahalenin men'ini talep ve dava etmiştir.
 
 Davalı kooperatif temsilcileri, dava konusu sözleşmenin Kooperatifler Kanunu'nun 59. maddesine aykırı olduğunun tespit edilmesi üzerine, diğer davalı yüklenici şirkete gönderilen 05.04.2011 Ve ....04.2011 tarihli noter ihtarları ile sözleşmenin feshedildiğini savunarak, davanın reddini istemiştir.
@@ -38,6 +40,8 @@ Yine davacı tarafça yönetim kurulu ile davalı şirketin muvazaalı olarak, e
 SONUÇ: Yukarıda açıklanan nedenlerle, davacılar vekilinin tüm temyiz itirazlarının reddi ile hüküm fıkrasının ilk paragrafındaki "davanın konusuz kalması sebebi ile karar verilmesine yer olmadığına" ibaresinin hükümden çıkartılarak yerine, "davanın reddine" ibaresinin yazılmasına …
 
 ## Yargıtay 23. HD 2013/2243 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/452209600)
 
 Davacı vekili, müvekkilinin 16.03.2006 tarihli sözleşme ile davalı kooperatif bünyesinde bulunan 22 no'lu daire payını diğer davalı ...'den kooperatif yetkililerinin kaşe imzası ile satın aldığını, davalı ...'ün de bu hisseyi ... isimli şahıstan yine kooperatif yetkilileri huzurunda satın aldığını, dava dışı ... ile davalı kooperatif arasında düzenleme şeklinde daire karşılığı inşaat ve satış vaadi sözleşmesi bulunduğunu, müvekkilinin kooperatife üyelik kaydını yaptırdığını, kooperatifçe dosya devir ücreti adı altında 400,00 TL tahsilat yapıldığını, müvekkilinin alınan hisseye karşılık davalı ...'ye 17.000,00 Euro ödeme yaptığını, müvekkiline ev tahsisi yapılmadığı gibi ödediği paranın da iade edilmediğini ileri sürerek, fazlaya ilişkin hakları saklı kalmak kaydıyla 5.000,00 TL'nin müştereken ve müteselsilen yasal faizi ile birlikte davalılardan tahsilini talep ve dava etmiştir.
 
@@ -58,6 +62,8 @@ SONUÇ: Yukarıda (1) numaralı bentte açıklanan nedenlerle davacı vekilinin 
 
 ## Yargıtay 23. HD 2013/1299 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/477276500)
+
 Davacı vekili, müvekkili kooperatifin üyelerine konut yaptığını ve arsa sahiplerine arsa karşılığı daire verdiğini, davalının da aralarında bulunduğu arsa sahipleriyle ....04.2006 tarihinde arsa payı karşılığı inşaat sözleşmesi yapıldığını, taraflar arasındaki bu sözleşmeye göre arsa sahibi ile kooperatif üyelerinin aynı konumda olduğu ve inşaatın bitimini müteakip çekilecek kura üzerine daire sahibi olacaklarının kararlaştırıldığını, dairelerin değerleri belirlenerek kura sonunda arsa sahiplerine isabet edecek dairelerin kat farkı olursa üyeler gibi bu kat farkını ödeyeceklerinin öngörüldüğünü, davalının, kat farkı nedeniyle oluşan ....500,00 TL'yi müvekkiline ödememesi üzerine davalı aleyhine takibe geçildiğini, davalının yapılan takibe haksız olarak itiraz ettiğini ileri sürerek, itirazının iptali ile %40 oranda ... inkar tazminatının tahsilini talep ve dava etmiştir.
 
 Davalı vekili, davacı kooperatifin, taraflar arasında düzenlenen arsa payı karşılığı inşaat sözleşmesine aykırı davrandığını sözleşmeye göre, müvekkili de dahil olmak üzere diğer arsa sahiplerinin .... ve .... kat normal dairelerden kendi aralarında kura çekmesi gerektiğini, sözleşmeye göre tercihli daire hakkı olan arsa sahibi.... hariç diğer arsa sahiplerinin kura sonrası oluşacak kat farklarını kooperatife vereceklerini, kooperatifin de arsa sahiplerine bu bedelleri aktaracağını, bu durumda kooperatifin sadece aracılık yapacağını, arsa sahipleri kooperatif üyesi olmadığı için kooperatif üyeleri gibi değerlendirilmeyeceğini, buna rağmen tüm arsa sahiplerinin kat farkı ödeyeceğinin kararlaştırıldığını, bazı arsa sahiplerinin kooperatife ödediği kat farkı bedellerinin diğer arsa sahiplerine verilmediği gibi paralarının akıbetinin ne olduğunun anlaşılamadığını, davanın hukuki dayanağının bulunmadığını savunarak, davanın reddine, %40 oranında kötüniyet tazminatının tahsiline karar verilmesini talep etmiştir.
@@ -72,10 +78,14 @@ SONUÇ: Yukarıda açıklanan nedenlerle, davalı vekilinin temyiz itirazların�
 
 ## Yargıtay 3. HD 2012/21351 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/524586600)
+
 Tapulu taşınmazın satışına ilişkin sözleşme resmi biçimde yapılmadığından hukuken geçersizdir (TMK.md.706, BK.md.213, Tapu Kanunu md.26 ve Noterlik Kanunu md.60). O nedenle geçerli sözleşmelerde olduğu gibi taraflarına hak ve borç doğurmaz. Bu durumda taraflar verdiklerini haksız iktisap kuralları gereğince geri isteyebilirler. Ancak, taraflar arasında harici de olsa bir sözleşme olduğundan dava BK.nun 125 maddesine göre 10 yıllık zamanaşımına tabidir. Ayrıca zamanaşımı borcun muaccel olması ya da ifanın imkansız hale geldiği tarihinde başlar.Somut olayda, davacıya arsa sahibi olarak kendisine düşecek bağımsız bölümler karşılığı kooperatif hissesi devri sözleşme tarihi 17.09.2001 ise de, davacı kooperatif üyesi olarak üye defterine kaydedilmiş, genel kurul toplantılarına çağrılmış, bu nedenle inşaat tamamlanarak tapu kaydının devrini beklemiştir. ... Asliye Ticaret Mahkemesine 29.04.2009 tarihinde, 2009/264 Esas sayılı dosyada görülen tapu iptali ve tescil davası açmış, dava reddedilmiş ise de henüz kesinleşmemiştir.
 Yani ifa henüz imkansız hale gelmemiş, zamanaşımı da bu nedenle başlamamıştır.Bu durumda mahkemece işin esasına girilerek öncelikle tapu iptal ve tescil davasının kesinleşmesi beklenmek suretiyle sonucuna göre davanın esası hakkında bir karar verilmesi gerekirken, yanılgılı gerekçe ile red kararı verilmesi usul ve yasaya uygun görülmemiştir.Bu itibarla yukarıda açıklanan esaslar gözönünde tutulmaksızın yazılı şekilde hüküm tesisi isabetsiz, temyiz itirazları bu nedenlerle yerinde olduğundan kabulü ile hükmün HUMK.nun 428.
 
 ## Yargıtay 15. HD 2012/7979 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/517297000)
 
 Davalı kooperatif 04.10.1995 tarihli Düzenleme Şeklinde Gayrimenkul Satış Vaadi ve Daire Karşılığı İnşaat Sözleşmesi ile davacılara ait ... ilçesi, ... mahallesi ... Caddesi, 11 ada 3 parsel sayılı taşınmaz üzerine zemin kat hariç üç katlı bina inşaatı yapımını üstlenmiştir. Sözleşmeye göre her katta 5 daire ve teras katta bir daire olmak üzere toplam 21 daireli bina inşaa edilecek, arsa sahiplerine binanın ön tarafından 2, arka tarafından 2 ve teras katından 1 daire olmak üzere toplam 5 daire verilecektir. Sözleşmenin yerel ve hukuki şartlar bölümünün 3. maddesine göre de inşaat devam ederken mevzuat ve belediye yetkili organları tarafından alınan kararlar sonucunda meydana gelen değişikliklerin mevcut durumundan daha fazla kat ilavesine müsaade etmesi halinde ek olarak inşaa edilecek bağımsız bölümler arsa sahibi ile kooperatif arasında %20 oranında arsa sahiplerine ait olmak koşulu ile paylaşacaklardır. Kat karşılığı inşaat sözleşmesinin düzenlenmesini müteakip 20.10.1995 tarihinde 3 parsel nolu taşınmaz tapusunun tamamiyle davalı kooperatife devredildiği gelen tapu kaydından anlaşılmaktadır. Davacı arsa sahiplerinin sözleşme gereği …
 
@@ -84,6 +94,8 @@ Davalı kooperatif 04.10.1995 tarihli Düzenleme Şeklinde Gayrimenkul Satış V
 SONUÇ: Yukarıda 1. bentte yazılı nedenlerle davalının diğer temyiz itirazlarının reddine, hükmün 2. bentte açıklanan nedenlerle BOZULMASINA …
 
 ## Yargıtay 15. HD 2012/7361 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/517840200)
 
 2-... Aşağı ... mahallesi ... mevkiinde kain 6173 parsel sayılı taşınmaz davacıların murisi ... adına kayıtlı iken muris ile davalı ... arasında, 10.08.1998 tarihli gayrimenkul kat karşılığı ön sözleşmesi düzenlenmiş, bu sözleşmeyle 10.881 m2 miktarındaki 1 pafta, 6173 parsel sayılı taşınmazın ...'a kat karşılığı olarak verildiği, taşınmaz üzerine 64 daire karşılığı inşaat yapılacağı kararlaştırılmış, bu sözleşmeye dayanılarak 6173 parsel sayılı taşınmazın tapusu 17.08.1998 tarihinde davalı ...'a devredilmiştir. Tapunun devrinden bir gün sonra ... ile ... arasında ... 4. Noterliği'nin 18.08.1998 gün ve 40263 yevmiye sayılı Düzenleme Şeklinde Gayrimenkul Satış Vaadi Sözleşmesi düzenlenmiş, bu sözleşmeyle ... 6173 sayılı taşınmazın tamamı 200 pay kabul edilerek 64/200 payına tekabül edecek toplam 64 bağımsız bölümün alıcısı bulunan ...'ye satışını vaad etmiştir. Taşınmazın tapu kaydının ...'a devri ve sonradan yapılan 18.08.1998 tarihli satış vaadi sözleşmesi başlangıçta ön sözleşme şeklinde yapılan 10.08.1998 tarihli sözleşmedeki edimin ifası amacına yöneliktir.
 Buna göre davalı ..., yüklenici sıfatıyla taşınmaz üzerine 6 blok halinde inşaat yapacak ve 2 bloktan toplam 64 daireyi arsa sahibi sıfatıyla davacıların murisi ...'ye teslim edecektir. Daha sonra ... ile davalı kooperatif arasında düzenlenen 22.12.1998 tarihli sözleşme kat karşılığı inşaat sözleşmesi olarak düzenlenmiş ise de, yüklenici ...'ın kat karşılığı inşaat sözleşmesinden doğan edimlerinin kooperatife devri niteliğindedir. Davalı kooperatif bu sözleşmeye dayanarak 6 blok halindeki inşaatlara başlamış, keşif tarihi itibariyle A blok %45, B blok %90, C blok %8, D blok %12, E blok %4 seviyesinde olup, F blok inşaatına ise hiç başlanmamıştır. Blokların tamamı nazara alındığında inşaatların ikmâl oranının %26,5 olduğu anlaşılmakta olup, davalı kooperatif inşaatları bu seviyede iken durdurulmuştur. Davalı kooperatifin 26.06.2000 tarihinde kurduğu kat irtifakında dava konusu olmayan 61 adet daireyi davacıların murisi ... adına tapuya tescil ettirmesi de 22.12.1998 tarihli sözleşmenin devir sözleşmesi niteliğinde olduğunun, gerçekte arsa sahibinin ... değil ... olduğunun kabul edildiği anlamına gelir.
@@ -94,6 +106,8 @@ SONUÇ: Yukarıda 1. bentte yazılı nedenlerle davalı kooperatifin tüm temyiz
 
 ## Yargıtay 15. HD 2012/7357 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/517830300)
+
 Sözleşme tarihinde yürürlükte bulunan 818 Sayılı Borçlar Kanunu'nun 358/I maddesinde “Müteahhit, işe zamanında başlamaz veya mukavele şartlarına muhalif olarak işi tehir eder yahut iş sahibinin kusuru olmaksızın vaki olan teehhür bütün tahminlere nazaran müteahhidin işi muayyen zamanda bitirmesine imkan vermeyecek derecede olursa, iş sahibi teslim için tayin edilen zamanı beklemeye mecbur olmaksızın akdi feshedebilir” düzenlemesine yer verilmiştir. Bu maddede ifa zamanından önce sözleşmeden dönme hakkı doğuran durumlar sayılmış; işe başlamada gecikme, iş görme faaliyetinin yavaş yürümesi ve ertelenmesi, kararlaştırılan tarihe kadar eserin tamamlanamayacağının anlaşılması hallerinde iş sahibinin sözleşmede kararlaştırılan teslim süresini beklemeden akdi feshedebileceği öngörülmüştür. İşe başlamada gecikilmesi ve bu gecikmenin iş sahibine isnadı mümkün nedenlerden ya da yüklenicinin iradesi dışında gerçekleşen ve öngörülmesi mümkün olmayan nedenlerden kaynaklanmaması halinde iş sahibi sözleşmede kararlaştırılan teslim süresini beklemeden akdi feshedebilir.
 
 Yanlar arasında ... 5. Noterliği'nin 21.10.2004 tarih 19699 sayılı kat karşılığı inşaat sözleşmesi düzenlenmiştir. İfa zamanı, sözleşmenin Hukuki Şartlar başlıklı kısmının 1. maddesinde “Söz konusu kooperatifin bitim süresi inşaat ruhsatı alındıktan sonra 6 yıl içerisinde teslim edilecek yani 2011 yılının Aralık ayı itibariyle teslim edilecek olup...”şeklinde düzenlenmiştir. Sözleşmenin bu hükmüne göre en geç 2005 yılı Aralık ayı sonuna kadar inşaat ruhsatının alınması, bu tarihten itibaren 6 yıl içinde de inşaatın tamamlanıp davacı arsa sahibine ait bağımsız bölümlerin 2011 Aralık ayı içinde teslim edilmesi gerekmektedir. Sözleşmede inşaat ruhsatının yüklenici kooperatif tarafından …
@@ -103,6 +117,8 @@ Yanlar arasında ... 5. Noterliği'nin 21.10.2004 tarih 19699 sayılı kat karş
 SONUÇ: Yukarıda açıklanan nedenlerle hükmün temyiz eden davacı yararına BOZULMASINA …
 
 ## Yargıtay 23. HD 2012/7246 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/557828100)
 
 Davacı vekili, davalı ve diğer arsa sahipleri ile yapılan kat karşılığı inşaat sözleşmesi uyarınca 8 bloktan oluşan inşaatın yapılarak arsa sahiplerine ait bağımsız bölümlerin teslim edildiğini, arsa maliklerinin sözleşme dışında kalan ortak alanlarla ilgili yapılan giderlerden paylarına düşeni 2004 yılındaki ihtara rağmen ödemediklerini, 2009 yılı Haziran ayında ferdi mülkiyete geçilerek site yönetiminin oluşturulduğunu, davalıya ait taşınmazın da bulunduğu blokun dış boyasının yapıldığını fakat giderlerden payına düşeni ödemediğini ileri sürerek, 14.833,16 TL'nin faizi ile birlikte davalıdan tahsiline karar verilmesini talep ve dava etmiştir.
 
@@ -121,6 +137,8 @@ SONUÇ:Yukarıda (1) numaralı bentte açıklanan nedenlerle, davalı vekilinin 
 
 ## Yargıtay 15. HD 2012/6988 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/524076900)
+
 Davalı arsa sahipleri ... ve...ile davalı şirket arasında 17.01.2000 tarihinde düzenleme şeklinde kat karşılığı inşaat sözleşmesi imzalanmış, bu sözleşmedeki yetkiye istinaden davalı yüklenici şirket 11.05.2001 tarihli sözleşmeyle kat karşılığı inşaat sözleşmesinden doğan tüm haklarını davacı kooperatife devretmiştir. Devir sözleşmesinde arsa sahibi davalılar yer almamış, sözleşmenin 17. maddesinde yüklenicinin arsa sahiplerine karşı birinci derecede sorumlu oldukları, taahhüdün devrinin sözkonusu olmadığı belirtilmiştir. Sözleşme gereği taşınmazlar üzerine 47 adet villa ve 1 adet sosyal tesis yapılacak olup, 32 adet villa kooperatife, 15 adet villa ise arsa sahiplerine ait olacaktır. Dava konusu olan 336 ada 5 parseldeki A numaralı (Tapu kaydına göre 5 nolu parseldeki 1 nolu bağımsız bölüm) villanın sözleşme gereği davalı yüklenici şirkete ait olduğu ve 11.05.2001 tarihli devir sözleşmesi ile davacı kooperatife verileceği ihtilâfsızdır.
 Sözkonusu villa 01.03.2006 tarihinde davalı arsa sahipleri ... ve ... adına vekaleten hareket eden, dosyada mevcut olan ticaret sicil kaydına göre, şirket ortağı olduğu anlaşılan yüklenici ...tarafından davalı ... ...'e tapuda satış yoluyla devredilmiştir. Davalı yüklenici şirket vekili bu devrin gerçek satış iradesini yansıtmadığını, …
 
@@ -129,6 +147,8 @@ Sözkonusu villa 01.03.2006 tarihinde davalı arsa sahipleri ... ve ... adına v
 SONUÇ: Yukarıda belirtilen nedenlerle hükmün temyiz eden davacı kooperatif yararına BOZULMASINA …
 
 ## Yargıtay 15. HD 2012/6575 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/523973100)
 
 Mahkemece inşaat yapılan bölgede 17.08.1999 tarihinde meydana gelen deprem nedeniyle inşaatlardaki durmanın, mevzuat ve plan değişikliklerinin tarafların iradelerini aşan zorunlu fiili ve hukuki mücbir sebep olduğu, mücbir sebep nedeniyle sözleşmedeki cezai şart niteliğindeki kira taleplerinin ve daire bedeli taleplerinin yerinde olmadığı, davalının inşaatı mücbir sebep nedeniyle ikinci iş programında uygun sürede ve ruhsatına uygun vasıfta tamamlamış olmakla ortada eksik ve geç teslimden söz edilemeyeceği gerekçesi ile her iki davanın da reddine karar verilmiştir.
 
@@ -143,6 +163,8 @@ SONUÇ: Yukarıda 1. bentte açıklanan nedenlerle davacının sair temyiz itira
 
 ## Yargıtay 15. HD 2012/6279 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/762751900)
+
 Davacı arsa sahibi ile davalı kooperatif arasında 27.11.1996 tarihinde düzenleme şeklinde kat karşılığı inşaat sözleşmesi akdedilmiştir. Sözleşme gereği 3 blok halinde yapılacak inşaatlardan davacı arsa sahibine toplam 14 daire teslim edilecektir. Davalı kooperatifin 25.12.2006 tarihli olağan genel kurul toplantısında davacı arsa sahibi ...'ya 27.000,00 TL borçlu bulunulduğu kabul edilmiş, bu borcun kooperatifin yapacağı işlerin tamamlanmasından ve borçlarının ödenmesinden sonra arsa sahibine ödeneceği şarta bağlanmıştır. Davacı arsa sahibi kooperatifin üyesi olmadığından genel kurulda alınan ve borç ikrarı niteliğinde olan kabulün şarta bağlanması arsa sahibi davacıyı bağlayıcı nitelikte kabul edilemez. Kooperatif tüzel kişiliği borcu açıkça kabul ettiğinden bu borç ikrarı bağlayıcı olur. Genel kurul toplantı tutanağında davacı arsa sahibinin kendi bağımsız bölümlerine yaptığı harcamaları belgelendireceğine dair bir kayıt yeralmadığından daha sonra bu borç ikrarından dönülmesi de hüküm ifade etmez.
 
 …
@@ -150,6 +172,8 @@ Davacı arsa sahibi ile davalı kooperatif arasında 27.11.1996 tarihinde düzen
 SONUÇ: Yukarıda açıklanan nedenlerle hükmün temyiz eden davacı yararına BOZULMASINA …
 
 ## Yargıtay 15. HD 2012/5990 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/762742000)
 
 …
 
@@ -162,6 +186,8 @@ SONUÇ: Yukarıda açıklanan sebeplerle davalılar vekilinin temyiz itirazları
 
 ## Yargıtay 15. HD 2012/5409 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/525839900)
+
 Davacılar arsa sahibi, davalı kooperatif ise yüklenicidir. Yanlar arasındaki 23.02.1998 tarihli sözleşmeye göre arsa sahiplerine ait 271 parsel sayılı taşınmaz üzerine birden fazla bloktan oluşan 168 adet daire yapılacak, %40 tutarında 67 daire arsa sahiplerine teslim edilecektir. İmar değişikliği sonucu taşınmaz üzerine toplam 147 daire yapılmış olup, sözleşmedeki paylaşım oranına göre davacı arsa sahiplerinin alması gereken daire sayısı 58.80 dairedir. Sözleşmenin 5. maddesine göre gayrimenkul üzerine yapılacak olan daireler 168 daireden fazla çıkarsa çıkan dairelerin %40'ı mal sahiplerine verilecek, eğer 168 daireden az daire yapılırsa mal sahiplerinden aynı oranda (%40 oranında) verilen daire sayılarından düşülecektir. Sözleşmenin 6/c maddesinde ise daire karşılığı olarak yapılacak 168 dairenin %40'ına tekabül eden 67 daire mal sahiplerine verilecektir. Bu daireler A bloktan 24, B bloktan 24, C bloktan 5, D bloktan 5, E bloktan 5, F bloktan da 4 daire olmak üzere anlaşmaya varılmış olup, geri kalan tüm haklar kooperatifin uhdesinde kalacaktır.
 
 Sözleşmenin imzalanmasından sonra 2006 yılında yapılan imar yönetmeliği değişikliği ile 2676 ada 1 parselde ve 2675 ada 2 parselde yapılan blokların çatı arasına en üst katlarda bulunan dairelerin her birine ilave kullanım alanı doğuran dubleks daireler yapma imkânı doğmuş, davalı kooperatif kendisine ait konutların çatı aralarına ilave kullanım alanı yapmış olmasına rağmen arsa sahiplerine ait bloklar üzerine dubleks daire inşa etmediğinden sözleşmedeki paylaşım oranı davacı arsa sahipleri aleyhine olacak şekilde bozulmuştur. Bu nedenle dubleks daire yapılması nedeniyle sözleşmedeki %40-%60 paylaşım oranı nazara alınarak davacı arsa sahipleri yararına tazminata hükmedilmesinde bir isabetsizlik bulunmamaktadır.
@@ -171,6 +197,8 @@ Sözleşmenin imzalanmasından sonra 2006 yılında yapılan imar yönetmeliği 
 SONUÇ: Yukarıda 1. bentte yazılı nedenlerle davalının diğer temyiz itirazlarının reddine, 2. ve 3. bentte açıklanan nedenlerle hükmün temyiz eden davalı yararına BOZULMASINA …
 
 ## Yargıtay 15. HD 2012/5299 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/524652100)
 
 Yanlar arasında 08.05.1999 tarihli adî yazılı sözleşme ile tarihsiz “Sözleşme” başlıklı sözleşme yapılmıştır. 08.05.1999 tarihli ve “İnşaat Sözleşmesi” başlıklı sözleşmenin 1. maddesinde işin konusu tanımlanmış; 2. maddesi hükmünde ise, işin bedeli gösterilmiştir. Diğer sözleşmede de iş bedeline dahil 44.000,00 TL'nin taksitli ödeme tarihleri ve davalı şirketin yükümlülükleri açıklanmıştır. Davacı kooperatif iş sahibi; davalı şirket ise yüklenicidir. 08.05.1999 tarihli sözleşmenin 1. maddesinde gösterilen ... Konut Yapı Kooperatifi'nin ... ... mevkiinde bulunan 114 Ada, 1 ve 2 parseller üzerine 44 adet dubleks konutun ve üst yapı ile ada içi alt yapı, ada içi çevre düzenlemeleri işinin yapımını davalı yüklenmiştir. İş bedeli ise, sözleşmenin 2. maddesinde gösterildiği üzere; 22 adet dubleks konut ile 44.000,00 TL olarak kararlaştırılmıştır. Dosya kapsamındaki bilgi ve belgeler ile tarafların yargılama aşamalarındaki açıklamaları değerlendirildiğinde; 22 adet bağımsız bölümün, yüklenici davalı şirkete kayden intikâl …
 

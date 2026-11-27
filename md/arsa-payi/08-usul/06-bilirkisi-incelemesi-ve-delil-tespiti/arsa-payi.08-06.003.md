@@ -22,6 +22,8 @@ uyari: "Derleyenin seçtiği alıntılardır; kararın tamamı değildir. Künye
 
 ## Yargıtay 6. HD 2023/3557 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/985116600)
+
 Davacılar vekili dava dilekçesinde; arsa sahibi müvekkilleri ile davalılardan Nuran Özen, ... ve Nuran Özen Kale İnşaat arasında Kocaeli 7. Noterliği’nin 29/11/2013 tarihli kat karşılığı inşaat ana sözleşmesi ve yine aynı noterliğin 15/04/2015 tarihli ek sözleşmesi imzalandığını, sözleşmeye göre inşaat süresinin ruhsat tarihinden itibaren 12 ay olarak kararlaştırılmasına rağmen inşaatın halen bitmediğini, yüklenicilere düşen bağımsız bölümlerin talimat ile diğer davalılara devredildiğini, taraflar arasındaki kat karşılığı inşaat sözleşmelerinin feshi, diğer davalılara devredilen bağımsız bölüm tapularının iptali ile müvekkilleri adına takyidatlardan ari olarak tescilini, ayrıca gecikmeden kaynaklanan tazminatın davalı yüklenicilerden tahsiline karar verilmesini talep etmiştir.
 
 …
@@ -41,6 +43,8 @@ gereğince esastan reddine karar verilmiştir.
 Temyiz olunan Bölge Adliye Mahkemesi kararının 6100 sayılı Kanunun 370 nci maddesinin birinci fıkrası uyarınca ONANMASINA …
 
 ## Yargıtay 6. HD 2023/3494 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/985079300)
 
 İlk Derece Mahkemesince bozmaya uyularak yeniden yapılan yargılama sonucunda; davanın reddine karar verilmiştir.
 
@@ -63,6 +67,8 @@ bırakılarak bir karar verilmesi, yapılacak inceleme sonucu inşaatın mevcut 
 olan kararın ONANMASINA …
 
 ## Yargıtay 6. HD 2023/3215 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/982844300)
 
 İlk Derece Mahkemesi kararı davalı ... vekilince duruşmalı, davacı vekilince duruşmasız olarak temyiz edilmekle; kesinlik, süre, temyiz şartı ve diğer usul eksiklikleri yönünden yapılan ön inceleme sonucunda, 19.09.2023 tarihinde duruşma yapılmasına ve duruşma gününün taraflara davetiye ile bildirilmesine karar verilmiştir.
 
@@ -88,6 +94,8 @@ Yukarıda (2 ) no.lu bentte açıklanan nedenlerle davalı ... vekilinin temyiz 
 
 ## Yargıtay 6. HD 2023/2328 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/936378100)
+
 Bu durumda Mahkemece yapılacak iş; mahallinde keşif yapılarak bilirkişiden ek rapor alınmak suretiyle inşaatın sözleşmeye göre fiziki oranın tespiti ile , bina tamamlanmış ve imar mevzuatına uygun ise yüklenici ve arsa sahipleri arasında düzenlenen sözleşmede, binanın yüklenici tarafından anahtar teslimi tamamlanacağı kararlaştırıldığından, davacı tarafından varsa eksik iş bedelinin davalı arsa sahiplerine ödenmek üzere depo edilmesi, ondan sonra davacının tapu iptali ve tescil isteğinin değerlendirilmesi, binanın imar mevzuatına uygun olmayıp yasal hale gelme imkanı da bulunmuyorsa şimdiki gibi davanın reddine karar verilmesi gerekirken eksik inceleme ile davanın reddedilmesi doğru olmamıştır.
 
 …
@@ -95,6 +103,8 @@ Bu durumda Mahkemece yapılacak iş; mahallinde keşif yapılarak bilirkişiden 
 İlk Derece Mahkemesi kararının BOZULMASINA …
 
 ## Yargıtay 6. HD 2023/1712 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/919478100)
 
 Davacı vekili dava dilekçesinde özetle; arsa sahibi müvekkili ile davalı şirket arasında inşaat sözleşmesi imzalandığını, sözleşme gereğince müvekkilinin maliki olduğu taşınmazın yüklenici firmaya devrinin gerçekleştirildiği ve sözleşme imzalanan 72 kişiden yaklaşık olarak 40 tanesine daire teslimlerinin yapıldığının haricen öğrenildiğini, buna karşın müvekkile dairesinin teslim edilmediğini, bu nedenlerle taraflar arasında akdedilen sözleşmede de kararlaştırıldığı üzere temerrüt nedeniyle geciken her ay için güncellenmiş kira bedellerinin tespit edilmesi ile tahsiline, davacıya isabet eden taşınmazın tespiti ile taşınmazın tapu kaydının iptali ile tesciline, bu talep yerinde görülmez ise davacıya verilmesi gereken taşınmazın bugünkü değeri üzerinden ödenmesine karar verilmesini talep etmiştir.
 
@@ -116,6 +126,8 @@ Temyiz olunan Bölge Adliye Mahkemesi kararının BOZULMASINA …
 
 ## Yargıtay 6. HD 2023/1386 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/900141400)
+
 Davacı vekili dava dilekçesinde; müvekkili ile davalı şirket arasında arsa payı karşılığı inşaat sözleşmesi düzenlendiğini, davalı yüklenici şirketin sözleşmede kararlaştırılan sürede işi tamamlayamadığını, sözleşmenin geriye etkili feshi için gönderdikleri ihtarnameye olumlu yanıt verdiğini, kendisine isabet eden 7 ve 8 no.lu bağımsız bölümleri tapuda diğer davalılara devrettiğini ileri sürerek, arsa payı karşılığı inşaat sözleşmesinin geriye etkili olarak feshini, müvekkiline isabet eden dört dairenin kira bedeli olarak şimdilik 104.000,00 TL’nin davalı şirketten tahsilini, diğer davalılar adına kayıtlı 7 ve 8 no.lu bağımsız bölümlerin tapu kayıtlarının iptali ile müvekkili adına tescilini talep ve dava etmiştir.
 
 …
@@ -136,6 +148,8 @@ Temyiz olunan Bölge Adliye Mahkemesi kararının BOZULMASINA …
 
 ## Yargıtay 6. HD 2023/765 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/885235500)
+
 Davacılar vekili dava dilekçesinde özetle; davalı yüklenici şirket ile davacılar arasında bir kısmı davacılara ait taşınmazlar ile komşu parseller üzerinde kat karşılığı inşaat yapılmak üzere 30.10.2014 tarihli ön sözleşme düzenlendiği, birleşmeden kaynaklı daire artışları olacağının davalı yüklenici tarafından beyan edildiği, bu nedenle müvekkilleri ile davalı arasında ... 9.Noterliğinin 14.01.2015 ve 29.01.2015 tarihli kat karşılığı inşaat sözleşmelerinin imzalandığı, ancak davalı tarafından sözleşmedeki yükümlülüklerinin yerine getirilmediği, inşaata yönelik bugüne kadar herhangi bir çalışmanın olmadığını beyan ederek ... 9.Noterliğinin 14.01.2015 tarih ve 1012 yevmiye sayılı Düzenleme Şeklinde Taşınmaz Satış Vaadi ve Arsa Payı Karşılığı İnşaat Sözleşmesi ile ...
 
 …
@@ -151,6 +165,8 @@ Davalı vekili cevap dilekçesinde özetle; davacılardan ...'in kendi yerini sa
 Temyiz olunan Bölge Adliye Mahkemesi kararının 6100 sayılı Kanunun 370 nci maddesinin birinci fıkrası uyarınca ONANMASINA …
 
 ## Yargıtay 6. HD 2023/590 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/891092600)
 
 Davacı-birleşen davalı arsa sahibi vekili istinaf dilekçesinde, bilirkişilerce asansör fiyatından %25 indirim yapılmasının hatalı olduğunu, raporda bir kısım eksik ve ayıpların dile getirilmediğini, yapılmayan kapalı otopark bedelinden meydana gelen kazancın arsa sahibine verilmesi gerektiğini, doğalgaz tesisatı yapılmış ve sayaçlar takılmış vaziyette teslim gerektiğini, davacının 7 daire için 2.973,60 TL doğalgaz bağlantı bedeli ödediğini, doğalgaz proje çizimi, sayaç eksikleri ve gaz açılışının yapılmadığını, çamaşır odası için daire başı 450,00 TL hesabın düşük olduğunu, daire başı 3.500,00 TL'den 28.000,00 TL gibi bir rakam çıktığını, engelli rampası yapımı için 500,00 TL hesaplandığını, 1.000,00 TL olması gerektiğini belirterek yerel mahkeme kararının kaldırılmasına karar verilmesini istemiştir.
 
@@ -169,6 +185,8 @@ açıklanan nedenlerle hükmün birleşen davada davalı arsa sahibi yararına b
 Temyiz olunan Bölge Adliye Mahkemesi kararının BOZULMASINA …
 
 ## Yargıtay 6. HD 2023/159 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/885324700)
 
 Davacı vekili dava dilekçesinde özetle; davalılar arasında akdedilen arsa payı karşılığı inşaat sözleşmesi uyarınca, davalı yüklenici ...’ye isabet edecek olan 3. kat 4 nolu bağımsız bölümü 90.000,00 TL bedel karşılığında davalı yükleniciden 16/05/2015 tarihli harici satış sözleşmesi ile satın aldığını, 75.000,00 TL ödeme yaptığını, ancak tapu devrinin yapılmadığını iddia ederek tapu kaydının iptali ile müvekkili adına tescilini, mümkün olmaması halinde ise ödenen bedelin denkleştirici adalet gereğince hesaplanarak ödenmesini talep etmiştir.
 
@@ -192,6 +210,8 @@ Ayrıca bu tür davalarda arsa sahibi ile yüklenici arasında zorunlu dava arka
 
 ## Yargıtay 5. HD 2022/18354 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/847052600)
+
 Mahkemece bozmaya uyularak yapılan yargılama neticesinde davanın kabulü ile arsa paylarının düzeltilmesine karar verilmiş, hüküm bir kısım davalılar vekili tarafından temyiz edilmiştir.
 
 …
@@ -203,6 +223,8 @@ Bozma sonrası alınan uzman bilirkişi raporunda incelemenin kat mülkiyeti tar
 Bu itibarla yukarıda açıklanan esaslar gözönünde tutulmaksızın yazılı şekilde hüküm tesisi isabetsiz, temyiz itirazları bu nedenlerle yerinde olduğundan kabulü ile hükmün BOZULMASINA …
 
 ## Yargıtay 6. HD 2022/5749 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/859570800)
 
 Mahkemece bozma ilamlarına uyarak yapılan yargılama sonucunda; asıl davanın kısmen kabulü ile 1998 ve 2004 tarihli arsa payı karşılığı inşaat sözleşmelerin feshine, tazminat talebinin reddine, birleşen 2008/213 Esas sayılı davada; 10.000,00 TL imalat bedelinin tahsiline, birleşen 2019/354 Esas sayılı davada eser sözleşmesinden kaynaklanan bakiye iş bedeli 61.801,01 TL’nin tahsiline, birleşen 2019/336 Eas sayılı davada; tapu iptal tescil talebinin reddine, 90.000,00 TL rayiç bedelinin tahsiline, birleşen 2011/361 Esas sayılı davada; 1998 ve 2004 tarihli arsa payı karşılığı inşaat sözleşmelere yönelik taleplerin derdestlik nedeni ile reddine, 2008 tarihli arsa payı karşılığı inşaat sözleşmesine yönelik talebin esastan reddine, birleşen 2016/433 Esas sayılı davada 67.500,00 TL’nin tahsiline karar verilmiştir.
 

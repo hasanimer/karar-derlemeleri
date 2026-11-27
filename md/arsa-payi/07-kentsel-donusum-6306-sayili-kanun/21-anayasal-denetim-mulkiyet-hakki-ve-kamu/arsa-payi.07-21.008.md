@@ -22,6 +22,8 @@ uyari: "Derleyenin seçtiği alıntılardır; kararın tamamı değildir. Künye
 
 ## Danıştay 6. D. 2023/1338 E., 2023/5812 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/998464400)
+
 Davalı İstanbul Büyükşehir Belediye Başkanlığı tarafından, usul ve yasaya aykırı olan İdari Dava Dairesi kararının bozulması gerektiği savunulmuştur.
 
 …
@@ -39,6 +41,8 @@ Mahkeme kararına yönelik olarak yapılan istinaf başvurusunun kabulü ile an�
 
 ## Danıştay 6. D. 2023/1323 E., 2023/5811 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1000137600)
+
 Davalı İstanbul Büyükşehir Belediye Başkanlığı tarafından, usul ve yasaya aykırı olan İdari Dava Dairesi kararının bozulması gerektiği savunulmuştur.
 
 …
@@ -55,6 +59,8 @@ Mahkeme kararına yönelik olarak yapılan istinaf başvurusunun kabulü ile an�
 
 ## Danıştay 6. D. 2022/2865 E., 2023/5783 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1005633200)
+
 DAVALI …İ BAKANLIĞI SAVUNMALARININ ÖZETİ:
 
 …
@@ -70,6 +76,8 @@ Dava konusu 04/02/2022 tarih ve 5180 sayılı Cumhurbaşkanı Kararının uyuşm
 
 ## Danıştay 4. D. 2023/12368 E., 2023/5436 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1024257900)
+
 6306 sayılı Afet Riski Altındaki Alanların Dönüştürülmesi Hakkında Kanun'un 6. maddesinin 9. fıkrasında; "Bu Kanun uyarınca tesis edilen idari işlemlere karşı tebliğ tarihinden itibaren otuz gün içinde 06/01/1982 tarihli ve 2577 sayılı İdari Yargılama Usulü Kanunu uyarınca dava açılabilir." düzenlemesi yer almıştır.
 
 08/02/2023 tarih ve 32098 sayılı Resmî Gazete'de yayımlanan 6785 sayılı Cumhurbaşkanı Kararıyla, Anayasa'nın 119. maddesi ile 2935 sayılı Olağanüstü Hal Kanunu'nun 3. maddesinin birinci fıkrasının (a) bendine göre Adana, Adıyaman, Diyarbakır, Gaziantep, Hatay, Kahramanmaraş, Kilis, Malatya, Osmaniye ve Şanlıurfa illerinde, 08/02/2023 Çarşamba günü saat 01.00'dan itibaren üç ay süreyle olağanüstü hal (OHAL) ilan edilmesine karar verilmiştir. 11/02/2023 tarih ve 32101 (Mükerrer) sayılı Resmî Gazete'de yayımlanan 120 sayılı Olağanüstü Hal Kapsamında Yargı Alanında Alınan Tedbirlere İlişkin Cumhurbaşkanlığı Kararnamesi'nin ''Yargı alanında alınan tedbirler" başlıklı 2. maddesinin 1. fıkrasının (a) bendinde; 08/02/2023 tarih ve 6785 sayılı Cumhurbaşkanı Kararıyla olağanüstü hâl ilan edilen illerde; yargı alanında hak kayıplarının önlenmesi amacıyla; dava açma (...) hak düşürücü süreler ve zorunlu idari başvuru süreleri de dahil olmak üzere bir hakkın doğumu, kullanımı veya sona ermesine ilişkin tüm sürelerin;
@@ -77,15 +85,21 @@ Dava konusu 04/02/2022 tarih ve 5180 sayılı Cumhurbaşkanı Kararının uyuşm
 
 ## Danıştay 6. D. 2020/8015 E., 2023/4375 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/998473000)
+
 DAVACILARIN İDDİALARI : Uyuşmazlığa konu taşınmazın tarım arazisi olarak belirlenmesinin şehircilik ilkelerine, planlama esaslarına ve kamu yararına aykırı olduğu, taşınmazın kuzeybatısında yer alan bölgenin 16.11.2015 onay tarihli çevre düzeni planında kentsel gelişme alanında yer almaktayken dava konusu planla yerleşik konut alanına alındığı, taşınmazın mevcut durumu ve çevresi dikkate alınarak, eşitliğe ve kazanılmış haklara uygun olarak kentsel gelişme alanı olarak planlanması gerektiği ileri sürülmektedir.
 
 ## Danıştay 6. D. 2020/7833 E., 2023/4207 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1000984300)
 
 Nazım ve uygulama imar planlarının uyuşmazlık konusu alanı kapsayan 1/100.000 ölçekli Mersin-Adana Çevre Düzeni Planının enerji üretim ve depolama alanlarına dair hükümlerine ve 1/50.000 ölçekli İskenderun Körfezi (Adana-Mersin-Hatay) Bütünleşik Kıyı Alanları Planına da aykırı olduğu, nazım imar planı hükümlerinin sadece uygulama imar planı hükümlerine bağlandığı, imar planlarının 2009/10 sayılı Orman ve Su İşleri Bakanlığının Deniz Kaplumbağalarının Korunmasına Yönelik Genelgesinin hükümlerini de ihlal ettiği, deniz kaplumbağası yuvalama alanı üzerinde bir kömürlü termik santrale yönelik kazıklı iskele ve kıyı yapıları önerilmesinin açıkça Genelgeye aykırı olduğu, Genelgede belirtilen Sugözü-Akkum kumsalı deniz kaplumbağası koruma alanlarının 1/100.000 ölçekli çevre düzeni planında gösterilmediği, Orman ve Su İşleri Bakanlığı 7.
 Bölge Müdürlüğünün plan askıdayken yaptığı itirazların da dikkate alınmadığı, Doğa Koruma ve Milli Parklar Genel Müdürlüğünün imar planlarına ilişkin olarak 10.05.2018 tarih ve 110810 sayılı yazısında Akkum Alt Bölgesi Sugözü Kumsallarının deniz kaplumbağası toplam yuvalamasının %70’inden fazlasınının gerçekleştiği bakir bir kumsal olduğu yönündeki saptamalarının herhangi bir değerlendirmeye tabi tutulmadan bir plan kararı olarak değerlendirilerek plan notuna olduğu gibi yansıtılmamasının hukuka aykırı olduğu, termik santralın iklim değişikliğine etkisi ve iklim değişikliği ile yaşanan değişimlerin santralın çalışmasına olası olumsuz etkilerinin imar planı yapımı kapsamında dikkate alınmadığı, Çukurova’nın Büyük Ova ilan edildiği termik santral kararının tarımsal verim ve üretim kaybına neden olacak bir plan kararı olduğu, dava konusu İmar Planlarının plan konusu termik santral tesisini tesis bazlı ele aldığı, üst ölçek imar planlarının üst mahkemelerin kararlarında hükmettiği kümülatiflik ilkesine göre değerlendirmediği için planlama ilkelerine ve hukuka aykırı olduğu, termik santralin kara ve deniz kısmına ilişkin planlarının planlama süreçlerinin ayrı ayrı yürütülmesinin doğru
 bir planlama yaklaşımı olmadığı, bunun sonucunda kara kısmına ilişkin imar planları ile deniz yapılarına ilişkin imar planlarının plan hükümleri arasında tutarsızlıklar olduğu, imar planlarının sadece termik santral alanını paftaya aktardığı, santralin ulaşım ağı ile ilişkisinin, kömür temin edeceği denizel-kıyısal alanlarla ilişkisinin, çevresindeki koruma alanları, yerleşim alanları ve diğer enerji tesisleri ile ilişkisinin kurulmadığı, plan kararlarında da belirtildiği gibi ithal kömür ile işletilecek bir termik santralın kurulmasında kamu yararı bulunmadığı, dava konusu imar planlarının üstün kamu yararı, üstün ekosistem yararı, sürdürülebilir kalkınma ve sürdürülebilir yaşam açısından sakıncaları bulunduğundan iptali gerektiği ileri sürülmektedir.
 
 ## Danıştay 6. D. 2021/504 E., 2023/4004 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/990672700)
 
 Dava konusu Yönetmeliğin 15A/2. maddesinin AİHS ek protokolü 1.maddesine, 15A/1.maddesinin (a,b,c,ç.) bentlerinin dayanağı olan 6306 sayılı Kanunun 6. maddesine aykırı olduğu ve aynı Yönetmeliğin 12. maddesi ile de çeliştiği, 15/1.maddenin son cümlesinin ise dayanağı olan 6306 sayılı Kanunda olmayan bir kural getirdiği, böylece mülkiyet hakkının ihlal edildiği, oysa temel hak olan mülkiyet hakkının ancak Kanun ile sınırlanabileceği, bu haliyle dava konusu kuralların dayanağı 6306 sayılı Kanuna ve Anayasaya aykırı olduğu ileri sürülmüştür.
 
@@ -94,6 +108,8 @@ Dava konusu Yönetmeliğin 15A/2. maddesinin AİHS ek protokolü 1.maddesine, 15
 Açıklanan nedenlerle, yukarıda belirtilen riskli yapıların bulunduğu parsellerde yapılacak uygulamaların ve bu uygulamalara rıza göstermeyen maliklerin arsa paylarının açık artırma usulü ile satışına ilişkin kurallarını düzenleyen, bu kuralların uygulanması için ise üçte iki çoğunluk kararını yeterli bulan dayanak Kanun ve dava konusu Yönetmelik hükümleri uyarınca üçte birde kalan maliklerin mülkiyet hakkına yapılacak müdahalenin orantılı olmadığı, 634 sayılı Kat Mülkiyeti Kanuna göre "anagayrimenkulün bakımı, korunması" gibi hususlarda dahi bu oranın beşte dört olduğu da dikkate alındığında mülkiyet hakkını, 634 sayılı Kanundan daha ciddi oranda sınırlayan, 6306 sayılı Kanunun Uygulama Yönetmeliği hükümlerinde maliklerin üçte iki çoğunluğunun kararıyla üçte birin mülkiyet hakkının orantılı olmayacak şekilde kısıtlanması suretiyle hakkın ihlaline sebep olunduğu anlaşıldığından dava konusu 6306 sayılı Kanunun Uygulama Yönetmeliğinin 15/A maddesinin 1.fıkrasının a, b, c ve ç bentleri ve 2.fıkrasına ilişkin düzenlemelerin iptaline karar verilmesi gerektiği kanaatiyle bu kısımlar yönünden Dairemizce verilen çoğunluk kararına katılmıyorum.
 
 ## Danıştay 6. D. 2022/8923 E., 2023/3634 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/989380300)
 
 İlk Derece Mahkemesi kararının özeti: … İdare Mahkemesince verilen … tarih ve E:…, K:
 
@@ -113,6 +129,8 @@ Mahkeme kararına yönelik olarak yapılan davacıların istinaf başvuruların�
 …, K:… sayılı kararının BOZULMASINA …
 
 ## Danıştay 6. D. 2022/6215 E., 2023/3631 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/976151500)
 
 İdare Mahkemesince verilen …
 
@@ -142,6 +160,8 @@ sayılı kararda, dosyadaki bilgi ve belgeler ile yerinde yaptırılan keşif ve
 
 ## Danıştay 6. D. 2022/5468 E., 2023/3547 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/990216300)
+
 Anayasal güvence altındaki temel hak ve özgürlüklerden olan mülkiyet hakkı kapsamına parasal bir başka ifade ile ekonomik değeri olan somut veya soyut tüm varlıkların girdiği, dolayısıyla banka teminat mektuplarının da mülkiyet hakkı kapsamında olduğu dikkate alındığında, mülkiyet hakkının süregelen biçimde ihlal edilmesi halinde, ilgililerin, 2577 sayılı İdari Yargılama Usulü Kanununun 10. maddesi uyarınca, taşınmazları ile ilgili olarak ilgili idareden ihlalin kaldırılmasına yönelik olarak her zaman istemde bulunabilecekleri ve istemlerinin reddi üzerine dava açma süresi içinde bu işlemin iptali istemiyle dava açabilecekleri tabiidir.
 
 Uyuşmazlıkta, davacı şirket tarafından hakkında tahakkuk ettirilen altyapı katılım bedeline karşılık (herhangi bir dava açılmayarak) ilk olarak 3.699,891,00-TL tutarlı, ... tarih ve ... sayılı kesin teminat mektubunun ve bu tutarın 4 (dört) eşit taksit halinde ödeneceğine yönelik ... tarih ve ... sayılı taahhütnamenin davalı idareye sunulduğu, ilk taksitin ödenmesi sonrasında kalan bedel için davalı idareye sunulan 2.774.918,25-TL tutarlı, ... tarih ve ... sayılı kesin teminat mektubunun da yukarıda belirtilen açıklamalar uyarınca mülkiyet hakkı kapsamında değerlendirilmesi gerektiği gözetildiğinde; davacı şirket tarafından, ... tarih ve ... sayılı dilekçe ile söz konusu yargı kararları ve gerekçeleri belirtilmek suretiyle hakkında tahakkuk ettirilen ve davaya konu teminat mektubuna konu stabilize yol teknik altyapı katılım bedelinin hukuka aykırı olduğu ileri sürülerek ... tarih ve ... sayılı kesin teminat mektubunun iadesi talebiyle davalı idareye yapılan başvurunun, süregelen mülkiyet hakkı ihlalinin davalı idare tarafından giderilmesini sağlamaya yönelik olması nedeniyle, 2577 sayılı Kanunun 10. maddesi kapsamında değerlendirilmesi gerektiği sonucuna ulaşılmıştır.
@@ -152,9 +172,13 @@ Davanın yukarıda özetlenen gerekçeyle süre aşımı nedeniyle reddine iliş
 
 ## Danıştay 6. D. 2022/4537 E., 2023/3362 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/996385100)
+
 2942 sayılı Kanunun 27. maddesi incelendiğinde, kamulaştırma işlemlerinde öngörülen yöntemlerin bir kısmının uygulanmayarak taşınmaza acele el konulabilmesi yolu istisnai olarak başvurulabilecek bir yöntem şeklinde düzenlendiğinden, madde hükmü ile üç durumda acele kamulaştırma yolu ile taşınmaza el konulmasına olanak tanınmıştır. Bu koşullardan ikisinde Milli Müdafaa Mükellefiyeti Kanununun uygulanmasında yurt savunması ihtiyacına veya özel kanunlarda öngörülen olağanüstü durumlarda gerekli olması halleri şeklinde açıkça sayılmak suretiyle üstün kamu yararının ve kamu düzeninin korunmasının gerçekleştirilmesi amacıyla acele kamulaştırma yoluna gidilebileceği belirtilmiştir. Bu kapsamda, üçüncü koşul olan aceleliğine Bakanlar Kurulunca karar verilebilmesi için de kamu yararı ve kamu düzenine ilişkin olma halinin maddede yer alan diğer iki koşula paralel nitelik taşıması gerekmektedir.
 
 ## Danıştay 6. D. 2021/2884 E., 2023/3174 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/994721800)
 
 Davalı … Bakanlığı tarafından, usule ilişkin olarak davanın süre aşımı nedeniyle reddi gerektiği, esas ilişkin olarak ise; iptali istenilen Yönetmelik kuralının üst normlara uygun olduğu, ayrıca, satış sırasında payı satılacak malik tarafından pey sürülmesi, satış bedeline itiraz edilmesi gibi hususlar mevzuat gereği mümkün olmadığından payı satılacak malikin satış ihalesine katılıp katılmamasının satış işlemini de etkilemeyeceği dikkate alındığında, anılan kuralın hizmet gereklerine ve kamu yararına da uygun olduğu savunulmuştur.
 
@@ -172,6 +196,8 @@ Açıklanan nedenlerle, yukarıda belirtilen riskli yapıların bulunduğu parse
 
 ## Danıştay 6. D. 2019/13144 E., 2023/3035 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/986935200)
+
 Belediye Başkanlığı tarafından, dava konusu kentsel dönüşüm kararının 5393 sayılı Belediye Kanununun 73. maddesine dayandığı, davacılar tarafından ise 6306 sayılı Kanunda öngörülen usullere aykırı işlem tesis edildiğine yönelik iddialarla bakılmakta olan davanın açıldığı, ancak 5393 sayılı Kanuna göre yapılacak kentsel dönüşüm projelerinin farklı şartlara ve yöntemlere haiz olduğu, Çevre, Şehircilik ve İklim Değişikliği Bakanlığınca onaylı deprem risk raporu, riskli yapı tespiti gibi koşulların bulunmadığı, dolayısıyla davanın konusu ile dava sebepleri arasında uyumsuzluk bulunduğu, kentsel dönüşüm kararı öncesinde alanın teknik ve sosyal problemlerini ortaya koyan, sorunlarını tanımlayan, mevcut yapılaşma durumunu ve onaylı imar planı ile uyumsuzluklarını tespit eden çalışmaların 6306 sayılı Kanun gereğince yapılması gereken çalışmalar olduğu, 5393 sayılı Kanunda bu yönde bir çalışma öngörülmediği halde bunların yapılmadığı gerekçesiyle iptal kararı verilmesinin mevzuata aykırı olduğu, dava konusu belediye meclisi kararında işlemin gerekçesinin, alandaki mevcut sorunların ve kentsel dönüşüm ilan edilme sebeplerinin açıkça ortaya konulduğu, alanda tapu harici satışlar nedeniyle
 mülkiyetin sorunlu olduğu, ayrıca yapıların tamamının ruhsatsız olduğu, 2005 yılından 2016 yılına kadar olan uydu görüntülerine göre alanda 2005 yılı öncesinde başlamış olan kaçak yapılaşmaların 2016 yılında iyice arttığı, düzensiz, teknik ve sosyal altyapısı olmadan çoğalmış olan bu yapılaşmalarla alanın neredeyse tamamına yakının işgal edildiği, muhtar senedi ile yapılan satışlar sonucunda mülkiyet sorununun içinden çıkılmaz hale geldiği, bu sorunların çözümünün ancak kentsel dönüşüm projesi ile mümkün olduğu, ruhsatsız ve altyapısı sorunlu olan alanda yeni ve sağlıklı konut alanları oluşturularak, düzenli kentsel gelişmenin sağlanması amacıyla tesis edilen işlemin kamu yararına uygun olduğu ve Kanun'da sayılan yasal koşulları sağladığı, tamamı ruhsatsız olan bu yapıların hukuken korunmasına imkan bulunmadığı halde, herhangi bir yasal hakka sahip olmayan davacılar tarafından, kamu yararı gereğince tesis edilen projenin engellenmeye çalışıldığı, mahallinde keşif ve bilirkişi incelemesi yaptırılmadan eksik incelemeye dayalı şekilde verilen kararın bozulması gerektiği ileri sürülmektedir.
 
@@ -181,13 +207,19 @@ Dava konusu işlemin yukarıda özetlenen gerekçeyle iptaline ilişkin Mahkeme 
 
 ## Danıştay 6. D. 2022/5668 E., 2023/2960 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/987424300)
+
 DAVACININ İDDİALARI : İdarenin kamu yararı gözeterek ve hizmet gereklerini ele alarak, her türlü işlem tesis etme hak ve yetkisine sahip olduğu, ancak bölgenin riskli alan ilan edildiğine ilişkin hiçbir ayrıntıya ve gerekçeye yer verilmeyen tarihsiz ve sayısız bir yazı tebliğ edildiği, bu durumun hak arama özgürlüğünü kısıtladığı, riskli alan çalışmaları hakkında da hiçbir bilgiye sahip olunmadığı, risk durumu netleştirilmeden alınan riskli alan kararının ise hakkaniyete ve yasaya aykırı olduğu ileri sürülerek, dava konusu işlemlerin iptal edilmesi gerektiği iddia edilmiştir.
 
 ## Danıştay 6. D. 2020/4990 E., 2023/2160 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/993577600)
+
 Anayasa'nın 2. maddesinde "Cumhuriyetin nitelikleri" arasında sayılan hukuk devleti ilkesi, vatandaşların hukuki güvenlik içinde bulundukları, devletin işlem ve eylemlerinin hukuk kurallarına bağlı olduğu bir sistemi ifade etmektedir. Anayasa Mahkemesi de, hukuk devletini "İnsan haklarına saygılı ve bu hakları koruyucu âdil bir hukuk düzeni kuran ve bunu devam ettirmekle kendisini yükümlü sayan, bütün eylem ve işlemleri yargı denetimine bağlı olan devlet" biçiminde tanımlamıştır.
 
 ## Danıştay 6. D. 2021/6154 E., 2023/2159 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/995111800)
 
 DAVALI İDARELERİN SAVUNMALARI :
 

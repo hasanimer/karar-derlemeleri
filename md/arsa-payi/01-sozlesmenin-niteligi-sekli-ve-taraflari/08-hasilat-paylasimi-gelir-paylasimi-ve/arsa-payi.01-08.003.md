@@ -22,6 +22,8 @@ uyari: "Derleyenin seçtiği alıntılardır; kararın tamamı değildir. Künye
 
 ## İstanbul BAM 7. HD 2025/2875 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1183773200)
+
 Davalı ... ... Gayrimenkul Geliştirme A.Ş vekili cevap dilekçesi ile, davalı ...
 
 …
@@ -38,6 +40,8 @@ Belirtilen sözleşmede dava konusu ... nolu villanın satış vaadi sözleşmes
 HÜKÜM : Gerekçesi yukarıda açıklandığı üzere; 1-Bakırköy 4. Asliye Ticaret Mahkemesi'nin 12/10/2022 tarih, 2019/229 esas 2022/899 karar sayılı kararı usul ve esas yönünden hukuka uygun olduğu anlaşıldığından davalı ... ... Gayrimenkul Geliştirme A.Ş (yeni unvanı ... ... Gayrimenkul Geliştirme A.Ş ) vekilinin istinaf başvurusunun 6100 Sayılı Hukuk Muhakemeleri Kanunu'nun 353/1-b/1. maddesi gereğince ESASTAN REDDİNE …
 
 ## İstanbul BAM 45. HD 2025/1491 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1185668800)
 
 Davalı vekili cevap dilekçesinde özetle; taraflar arasında en son 09/03/2022 tarihli protokol tanzim edilerek 09/03/2022 tarihine kadar yükümlülüklerini yerine getirdiğini beyanla birbirlerinden alacaklarının kalmadığı yönünde ibra ettiklerini, davacı lehine ... parselde kayıtlı arsa üzerine davalının taraflar arasındaki inşaat sözleşmesinden doğan alacağının teminatını teşkil etmek üzere 19/09/2012 tarihli ipotek tesis edildiğini, takibin iptali için Bakırköy 7.İcra Hukuk Mahkemesinin 2023/515 esasına kayıtlı olarak dava açtıklarını zira ipotekle teminat altına alınan borç için takip yapılamayacağını, mahkemece davanın reddine karar verildiğini, mahkeme kararının istinaf edildiğini, bu hususun bekletici mesele yapılmasının gerektiğini, müvekkilinin davacıdan alacaklı olduğunu, bu hususta İstanbul 37.Asliye Hukuk Mahkemesinin 2023/297 esasına kayıtlı olarak dava açıldığını, bu davanın bekletici mesele yapılmasının gerektiğini, davacının işbu dava ile ... no’lu bağımsız bölüm satışlarının tamamının hasılatını istediğini, sözleşme gereğince davacının hasılatın % 42,67’sini talep edebileceğini, 09/03/2022 tarihli ibra sonrasında 118 daire dışındaki tüm ipoteklerini kaldırıldığını, 118
 daire yönünden borcun ipotek ile teminat altına alındığını, 118 dairenin satışına devam edildiğini, davacının sözleşme hükümlerine rağmen neye dayanarak 2 adet dairenin satış bedelinin tamamının kendisine ait olduğunu iddia etmesinin anlaşılamadığını, taşınmazların mobilya ile döşenmesinin bu sözleşmesinin konusunu teşkil etmediğini, müvekkili tarafından satış yapılırken satış bedeli içerisine dahil edilen ve fakat gerçeğe göre eşya bedeli olarak faturalaştırılan tutarların davacının hasılatı olmadığından bu tutarlardan düşülmesinin gerektiğini, davacıya karşı takas, mahsup ve ödememe defini ileri sürdüklerini, taraflar arasındaki sözleşmesel ilişki kapsamında KDV bedellerinin taşınmaz hasılatından düşeceğinin belirtildiğini, bu tutarların da düşmesinin gerektiğini, bedelin USD cinsinden talep edilmesinin yasal dayanağının olmadığını beyanla davanın reddini talep etmiştir.
@@ -61,6 +65,8 @@ Davacı vekilinin istinaf başvurusunun 6100 sayılı Hukuk Muhakemeleri Kanunun
 
 ## İstanbul BAM 3. HD 2024/1129 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1018716700)
+
 Maddede yer alan Makbuz Senedinde bulunması gereken unsurları içermediğini, basiretli bir tacirin bu şekilde 100.000.Amerikan Doları ödediğini kabul etmenni hukuken olanaksız olduğunu belirterek, davanın reddi ile haksız olarak açılan dava sebebiyle müvekkili lehine %20 oranından az olmamak üzere İcra Tazminatına hükmedilmesine karar verilmesini talep etmiştir.Dosyadaki bilgi ve belgelere göre ; Taraflar arasında İstanbul ili, Sarıyer ilçesi, ... Köyü, ... Çiftliği mevkiinde kain ... pafta, ... parselde kayıtlı 15.320 m2, İstanbul ili, Sarıyer ilçesi, ... Köyü, ...
 Çiftliği mevkiinde kain ... pafta, ... parselde kayıtlı 11.869 m2 arsa vasıflı gayrimenkuller ile ilgili olarak düzenleme şeklinde hasılat paylaşımlı arsa payı karşılığı bina yapımı ve satış vaadi ön anlaşması yapıldığı ve davacı şirket (Yüklenici) ile davalı şirket (Arsa Sahibi) arasında 11.07.2008 tarihli EK SÖZLEŞME NO.l başlıklı Sözleşmenin 1 nolu maddesi ,Yüklenicinin (davacı şirketin) Arsa Sahibine (davalı şirkete) yapacağı ödemeler konusunda: a- Yüklenici , sözleşmeyi imzalama esnasında kaparo olarak 100.000 USD Arsa Sahibine, hasılat paylarına mahsuben ödeyecektir.b- Yüklenici, sözleşmeyi imzaladıktan sonra, Arsa Sahibine, müstakbel hasılat paylarına mahsuben, 900.000 USD bedelli 21 Ağustos 2008 vadeli teminat çeki verecektir.
 Teminat çeki vadesinden 2 gün önce, Yüklenici tarafından verilecek aynı tutarda bloke çek ile değiştirilecektir.Yüklenici a ve b bendindeki yükümlülüklerini yerine getirdikten sonra, taraflar Düzenleme Şeklinde Hasılat Paylaşımlı Arsa Payı Karşılığı Bina Yapımı ve Satış Vaadi Sözleşmesini noter huzurunda imzalayacaklardır.Yüklenici, inşaat ruhsatı alındığında ya da en geç 5 ay içinde alıp Arsa Sahibine 1.000.000 USD daha avans karşılığı teminat çeki verecek ve vadesinde ödeme yaparak teminat çekini iade alacaktır.Yüklenici (davacı şirket), en geç 1 sene içinde ya da konut satışlarına başlandığında Arsa Sahibine (davalı şirkete) 1.000.000 USD tutarlı teminat çeki verecek ve vadesinde nakden ödeyerek teminat çekini iade alacaktır.
@@ -71,6 +77,8 @@ daha sonra noterde yapılacağı protokolde belirtilmiştir.Dosyaya ibraz edilen
 
 ## Ankara BAM 31. HD 2024/1054 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1092770400)
+
 Dava, eser sözleşmesinden kaynaklanan itirazın iptali istemine ilişkindir.
 
 …
@@ -79,6 +87,8 @@ Taraflar arasında imzalanan sözleşmenin gelir paylaşımı ile ilgili 4. madd
 Mahkemece yapılması gereken iş; eser sözleşmeleri konusunda uzman, kamu maliyesi ve mali konularda uzman ve inşaat mühendisi bilirkişilerden yeni bir bilirkişi heyeti oluşturulmak suretiyle, önceden alınan bilirkişi heyeti raporu ve ek raporu ile bu raporlara taraflarca yapılan itirazların incelendiği, tarafların sunduğu uzman görüşlerinin değerlendirildiği ve bu paragrafta açıklanan hususların gözetildiği yasa yolu denetimine elverişli bilirkişi raporu almak ve hasıl olacak sonuç doğrultusunda hüküm kurmak olmalıdır. taraflarca tarafl çerçevesinde bu hususun incelenerek bir sonuca ulaşılması gereklidir.
 
 ## İstanbul BAM 15. HD 2024/440 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1033845700)
 
 Maddesinde düzenlenen ve iş bedeli ödemesinin barter (iş yapımı karşılığında bedel olarak bağımsız bölüm verilmesi) şeklinde yapılması kararlaştırılan bir eser sözleşmesi niteliğinde olduğu, taraflar arasında bir tüketici ilişkisi bulunmadığı anlaşılmaktadır. Davada tarafların tüzel kişi tacir oldukları ihtilafsızdır. Bu durumda, davaya ticaret mahkemesi olarak bakılıp, işin esası incelenerek sonucuna göre bir karar verilmesi gerekirken, yazılı gerekçelerle görevsizlikle dosyanın Bakırköy Tüketici Mahkemesine gönderilmesine karar verilmesi hatalı olmuştur. " mahkeme kararının kaldırılmasına karar verilmiştir. Mahkemece dairemiz kaldırma kararı sonrasında yapmış olduğu yargılama ile; ödeme tamamlandığı ve taraflarca kabul edildiği üzere taşınmaz teslim edilmiş durumda olduğu, davacının sözleşmeye göre tescil talebinde bulunma hakkı bulunduğunu, aksi halde davacının verdiği bedeli yasal hükümler doğrultusunda geri talep hakkı doğacağını, tapu kaydının diğer davalı üzerinde bulunduğunu, davalıların adi şirket konumunda olduklarını, TBK 620.
 Maddeye göre adi ortaklık sözleşmesi, iki ya da daha fazla kişinin emeklerini ve mallarını ortak bir amaca erişmek üzere birleştirmeyi üstlendikleri bir sözleşme olduğu, şirketin kurulması için kişi, sözleşme, sermaye payı, ortak gaye, birlikte çalışma, şekil ve konu unsurlarının bir arada bulunması gerektiğini, davalılar arasındaki hukuki ilişki Kadıköy ... Noterliğinin 19.6.2014 tarih ve ... sayılı sözleşmesine Dayandığı, anılan sözleşme “ Düzenleme şeklinde gayrımenkul satış vaadi sözleşmesi” olduğu, sözleşmede taşınmaz sahibi hissesini diğer tarafa belirli koşullarla devretmeyi taahhüt etmekte olduğu, anılan hisseler belirli etaplarda diğer tarafa devredileceğini, davacının davalı yüklenici ... Şirketinden taşınmaz aldığı, bedelini ödediği, yeri teslim aldığı ve ferağ icbar koşullarının bulunduğu ve TMK 'nın 2.
@@ -92,6 +102,8 @@ HÜKÜM: Gerekçesi yukarıda açıklandığı üzere; 1-Davalı vekilinin istin
 
 ## İstanbul BAM 7. HD 2024/334 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1008062300)
+
 Dava, ihtiyati tedbir talepli düzenleme şeklinde taşınmaz satış vaadi sözleşmesinden kaynaklanan tapu iptali ve tescil istemine ilişkindir.
 
 …
@@ -104,6 +116,8 @@ Tüm bu nedenlerle somut olayda HMK'nun 389.maddesi gereğince ihtiyati tedbirin
 HÜKÜM: Gerekçesi yukarıda izah edildiği üzere; 1-İstanbul Anadolu 9. Asliye Ticaret Mahkemesi'nin 03/05/2023 tarih ve 2023/174 esas sayılı ara kararı usul ve esas yönünden hukuka uygun olduğu anlaşıldığından davalı ... Mamulleri Ticaret AŞ. vekilinin istinaf başvurusunun 6100 Sayılı Hukuk Muhakemeleri Kanunu'nun 353/1-b/1. maddesi gereğince ESASTAN REDDİNE …
 
 ## İstanbul BAM 45. HD 2024/43 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/990160700)
 
 İLK DERECE MAHKEMESİ KARARI Mahkemece; ''Dava alacak davası olarak açılarak, kayıt kabul davasına dönüşmüştür.Mahkememizce bilirkişi incelemesi cihedine gidilmiştir. Davacı duruşmada davayı ıslah etmeyeceklerini, bilirkişi raporunda daha fazla talepte bulunacağı kanaatine varılmasına rağmen davalı ... ile ilgili kayıt kabul, diğer davalılar ile ilgili açılan davanın Yargıtay 23.
 
@@ -122,6 +136,8 @@ H Ü K Ü M: Gerekçesi yukarıda izah edildiği üzere; 1-Davalılar ... ve ...
 
 ## İstanbul BAM 3. HD 2023/2757 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/943499600)
+
 Bölge Konut İnşaatlarının Kat Karşılığı-Hasılat Paylaşımı Usulü ile Yapılması işi”nde ilgili imalatların tamamlanarak geçici kabul ve kesin kabulünün yapıldığını, davaya konu müvekkili şirketçe inşa edilen geoduvarların tümünün davacının talimatları doğrultusunda ve denetimi altında sözleşmeye, projelere, şartnamelere, fen ve amacına uygun olarak meydana getirildiğini, yapımında kullanılan malzemelerin ... tarafından ve ... laboratuvarlarında yapım aşamalarında kontrol edildiğini ve onay verilen malzemeler kullanılarak ... ve davacının talimatları doğrultusunda ve denetimi altında gerekli testler yapılarak teslim edildiğini, müvekkili şirket tarafından daha önce yapılmış, topoğrafik okumalar ve yerinde yapılan gözlemler sonucunda geosentetik duvarlarda stabilite problemi olmadığının da tespit edildiğini, bilirkişi raporlarına müvekkili şirketçe itiraz edildiği halde itirazlar dikkate alınmadan karar verildiğini, İstanbul 2. Tüketici Mahkemesi 2012/288 E., 2015/1273 K. Sayılı kararı, Yargıtay 13. Hukuk Dairesinin 2016/2055 E. 2016/17544 K. Sayılı kararı ile bozulduğunu, yargılamanın devam etmekte olduğunu, , meydana gelen deformasyonların tamamen ...
 Site Yönetiminin bakım ve yenileme işlemini yapmamasından kaynaklandığını, işin yapımında ayıptan söz edilmesinin mümkün olmadığını, sözleşmenin Yüklenicinin Sorumlulukları başlıklı 19/16. Maddesinin "4077 sayılı Tüketicinin Korunması Hakkında Kanunu gereğince Yüklenici taahhüt konusu işlerinde eksik ve kusurlu imalatlar tesliminden sonra ortaya çıkmış olsa bile Yüklenici bağımsız bölümlerin nihai alıcıya tesliminden itibaren 5 yıl süre ile eksik ve kusurlu işleri gidermek ve buna ilişkin tazminat ve talepleri ödemekle yükümlüdür." şeklinde olduğunu, ilgili imalatların tamamlanarak 21.03.2007 tarihinde Geçici Kabul ve 20.11.2008 tarihinde de Kesin Kabulü yapıldığını, bilirkişi raporunda belirtilenin aksine Sözleşmenin 43. Maddesindeki atıfla sözleşme eki kabul edilen Yapım işleri Genel Şartnamenin 26.
 
@@ -129,6 +145,8 @@ Maddesinde yer alan yapının fen ve sanat kurallarına uygun olarak yapılmamas
 Bölge Konutlarının Kat Karşılığı Hasılat Paylaşımı Usulü ile Yapılması İşine İlişkin Sözleşme kapsamında proje alanındaki konutlar ile istinat duvarlarının yüklenici şirketin taahhüdünde yapıldığı, proje kapsamında yapılan konutların kullanılan ismi ...
 
 ## İstanbul BAM 14. HD 2023/582 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/887140100)
 
 Davalılar arasında gerçekleştirilen arsa satışı karşılığı gelir paylaşımına dair sözleşmenin 20.15 maddesinde bağımsız bölümlerin geç teslim edilmesinden ve diğer sebeplerden dolayı sorumluluğun yükleniciye ait olduğu belirtilmiş ise de söz konusu maddedeki düzenleme sözleşmenin tarafları yönünden bağlayıcı olduğu gibi sözleşmede denetim görevi bulunan davalı ...'ın davacıya karşı sorumsuz olduğunun kabulü de isabetli olmayacaktır. Diğer taraftan, davalılardan ... AŞ-... AŞ ... Projesi Ortak Girişimin TBK'nın 620 vd. maddeleri gereğince tüzel kişiliği olmadığı için taraf ehliyeti de yoktur. Bu nedenle adi ortaklığa ilişkin davalarda adi ortaklığı oluşturulan kişilerin taraf olarak hep birlikte hareket etmeleri gerekir. Somut uyuşmazlıkta olduğu gibi açılan bir davada bütün ortaklara karşı birlikte davanın yöneltilmesi gerekir. Çünkü ortaklar adi ortaklığın mallları üzerinde el birliği halinde maliktirler (TBK m.638) ve bu mallar üzerinde birlikte tasarruf edebilirler. Bu durumda, davalı ortaklar arasındaki ilişki mecburi dava arkadaşlığıdır. Dava dilekçesinde bütün ortakların davalı olarak gösterilmesi gerekir.
 Aksi halde davanın diğer ortaklara teşmil edilmesi için davacıya kesin süre verilmesi gerekir. Somut olayda, doğru şekilde davalı adi ortaklığın bütün ortaklarına karşı birlikte dava açılmış olduğundan davalının buna ilişkin istinaf nedenlerinin yerinde görülmemiştir. Açıklanan bu gerekçelerle, HMK'nın 353/1.b.1 maddesi uyarınca dosya üzerinden yapılan istinaf incelemesi sonucunda, davalılar vekillerinin istinaf başvuru …

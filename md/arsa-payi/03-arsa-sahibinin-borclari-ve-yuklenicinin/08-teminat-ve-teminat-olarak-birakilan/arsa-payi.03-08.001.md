@@ -38,6 +38,8 @@ Temyiz olunan Mahkeme kararının BOZULMASINA …
 
 ## Yargıtay 6. HD 2025/2876 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1187816200)
+
 Öte yandan, davalı arsa sahiplerinin asıl dava devam ederken eksik imalât (havuz imalâtı) bedelinin tahsili için ayrı dava açtığı, asıl davaya birleştirilen bu davada hüküm altına alınan ve taraflarca temyize konu yapılmayan eksik imalât bedelinin asıl davada davacı lehine hükmedilen fazla imalât bedelinden daha az olduğu dikkate alındığında eldeki davada 4 parsel, 15 numaralı dairenin tapusunun iptali davacı adına tesciline karar verilmesi doğru olmakla birlikte taraflarca kesin kabule kadar teminat olarak tutulacağı kararlaştırılan zemin kat, 1 numaralı dairenin davacı adına tesciline karar verilebilmesi için davalı arsa sahiplerinin sözleşmeden kaynaklanan tüm haklarının yerine getirilmiş olması gerekmektedir. Bozma öncesi mahkeme kararında davacı yüklenicinin fazla imalât bedelinin davalı arsa sahiplerinin gecikme tazminatı alacağından fazla olduğu gerekçesiyle teminat olarak tutulmasına gerek görülmeyip tescil kararı verilmiş ise de, bozma sonrası bu husus göz ardı edilmiştir.
 Mahkemece asıl davada davacı lehine hükmedilecek olan fazla imalât bedelinin, birleşen davalarda davalı arsa sahipleri lehine hükmedilecek toplam alacak miktarından az olması halinde davalı arsa sahipleri lehine olan fark bedelin mahkeme veznesine depo edilmesi sağlandıktan sonra zemin kat, 1 numaralı daire yönünden tescil kararı verilmesi gerekmektedir. Ayrıca tescil talebi yönünden davanın açıldığı tarihte davalıların haklı olduğu, dava açılmasına sebebiyet vermedikleri dikkate alındığında yargılama giderlerine ve vekalet ücretine de hükmedilmemesi gerekir.
 
@@ -46,6 +48,8 @@ Mahkemece asıl davada davacı lehine hükmedilecek olan fazla imalât bedelinin
 Yukarıda 2-3 ve 4 numaralı bentlerde açıklanan nedenlerle taraf vekillerinin asıl ve birleşen davalara ilişkin diğer temyiz itirazlarının kabulü ile, temyiz olunan mahkeme kararının BOZULMASINA …
 
 ## Yargıtay 6. HD 2025/2634 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1188033500)
 
 Asıl davada davacı yüklenici, taraflar arasındaki sözleşme uyarınca kendisine düşen 14 adet bağımsız bölümün devrini istemiş, mahkemece hükme esas alınan bilirkişi raporunda ise yüklenicinin 8,5 bağımsız bölümü hak ettiği tespit edildiği halde 6 adet bağımsız bölüm hakkında tapu iptal ve tescil hükmü kurulmuş, 21, 24 numaralı bağımsız bölümlerin yüklenici tarafından fer-i müdahil ... İnşaat Taş. Paz. San. Tic. AŞ’ye satıldığı ve bu şirket tarafından ayrı bir tapu iptal tescil davası açıldığı gerekçesi ile karar verilmesine yer olmadığına karar verilmişse de, mahkemece 21, 24... numaralı bağımsız bölümlerle ilgili açılan davaların akıbetleri araştırılarak birleştirilmesi veya bu davalar hakkında karar verilmiş ise sonucuna göre bir karar verilmesi gerekirken, yazılı şekilde hüküm kurulması doğru görülmemiştir.
 
@@ -58,6 +62,8 @@ Birleşen Ankara 13. Asliye Hukuk Mahkemesi'nin 2018/395 Esas sayılı dosyasın
 Temyiz olunan İlk Derece Mahkemesi kararının BOZULMASINA …
 
 ## Yargıtay 6. HD 2024/4637 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1116927700)
 
 Davacı vekili dava dilekçesinde özetle; davalılardan ...'ın müvekkili hakkında Aksaray 2. İcra Müdürlüğü'nün 2015/1950 Esas sayılı dosyasında 15.05.2013 tanzim, 24.12.2013 vade tarihli 50.000,00 TL bedelli 3 adet bonoya istinaden, davalı ...'in de Aksaray 2. İcra Müdürlüğü'nün 2015/1951 Esas sayılı dosyasında 10.01.2012 tanzim, 15.06.2012 vade tarihli 50.000,00 TL bedelli 1 adet bonoya istinaden kambiyo senetlerine mahsus haciz yolu ile takip yaptıklarını, her iki takibin toplam asıl alacak miktarının 200.000,00 TL olduğunu, takibe konu senetlerin teminat senetleri olduğunu ve daire teslimlerine güvence için verildiğini belirterek, takibe konu teminat senetleri nedeni ile davalılara borçlu olmadığının tespitine karar verilmesini talep etmiştir.
 
@@ -78,6 +84,8 @@ SONUÇ: Yukarıda (7.1) numaralı bentte açıklanan nedenlerle, davacı ve birl
 
 ## Yargıtay 6. HD 2024/3762 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1111745300)
+
 Davacı vekili, müvekkili ile davalıların murisi ... ve diğer kat malikleri arasında arsa payı karşılığı inşaat sözleşmesi düzenlendiğini, müvekkili şirketin sözleşme gereği üzerine düşen edimleri eksiksiz olarak yerine getirdiğini, davalıların murisinin vefatından sonra ihtarla davalılardan ipoteğin fekki taleplerinde bulunduklarını, davalılardan ...'ün ipoteğin kaldırılması için müvekkiline vekalet verdiğini, diğer davalıların ise tereke mallarının tespiti işlemlerinin sürdüğünü belirterek yükümlülüklerini yerine getirmediklerini ileri sürerek, dava konusu bağımsız bölümler üzerinde bulunan ipoteğin fekkine karar verilmesini talep ve dava etmiştir.
 
 Davalılar ... ve ... vekili, murise ait mallarının paylaşımının henüz yapılmadığını ve tereke tespit işlemlerinin devam ettiğini, husumetin tereke temsilcine yöneltilmesi gerektiğinden müvekkillerine husumet yöneltilemeyeceğini, davalı ...'ün davacıya verdiği vekaletin geçerli olmadığını savunarak, davanın reddini istemiştir.
@@ -96,6 +104,8 @@ SONUÇ: Yukarıda (1) numaralı bentte açıklanan nedenlerle davalı ... vekili
 
 ## Yargıtay 6. HD 2022/4219 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/823008400)
+
 Davalılar, davanın reddini istemiştir.
 
 Mahkemece, iddia, savunma ve tüm dosya kapsamına göre; davalı ...'ın vekalet görevini kötüye kullandığı, diğer davalının ise vekil sıfatıyla hareket eden davalı ... ile ortak hareket ettiklerinden vekalet görevini kötüye kullandığını bildiği, davacıya karşı davalıların sorumlu oldukları gerekçeleriyle davanın kabülu ile 22 numaralı bağımsız bölümün davacı adına tesciline karar verilmiştir. Kararın davalılar vekili tarafından istinaf edilmesi üzerine Samsun Bölge Adliye Mahkemesi 1.
@@ -109,6 +119,8 @@ Davanın konusu arsa payı karşılığı inşaat sözleşmesi uyarınca teminat
 SONUÇ: Yukarıda açıklanan nedenlerle Samsun Bölge Adliye Mahkemesi 1.Hukuk Dairesinin 07.09.2021 tarih ve 2021/1468 esas, 2021/1598 karar sayılı kararın kaldırılarak ilk derece mahkemesi kararının BOZULMASINA …
 
 ## Yargıtay 15. HD 2018/1961 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/425248400)
 
 Dava, eser sözleşmesinden kaynaklanan alacak talebine ilişkin olup, mahkemece verilen görevsizlik kararının temyizi üzerine Dairemizce verilen bozma kararına uyularak davanın kısmen kabulüne dair verilen karar, davacı tarafından temyiz edilmiştir.
 
@@ -129,6 +141,8 @@ SONUÇ: Yukarıda 1. bentte açıklanan nedenlerle davacının diğer temyiz iti
 
 ## Yargıtay 23. HD 2016/4854 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/280764600)
+
 Mahkemece, dava konusu 1. kat 2 nolu bağımsız bölümün ihtarname tarihi olan 09.02.2009 tarihi ile dava tarihi olan 25.05.2010 tarihi arasında getirebileceği kira gelirinin 31.000,06 TL olduğu kabul edilerek, bu bedel hüküm altına alınmıştır. Oysa, arsa payı karşılığı inşaat sözleşmesi gereğince, inşaat yapılan taşınmaz davacı yüklenicinin zilyetliğine arsa sahiplerince bırakılmış olduğu gibi; 1. kat 2 numaralı bağımsız bölüm de eylemli olarak yüklenici olan davacının tasarrufundadır. Yüklenici, arsa sahiplerinin bağımsız bölüme müdahalede bulunduklarını ve bu nedenle kiraya veremediğini kanıtlayamamıştır. Bu durumda, yüklenicinin kira bedeline ilişkin isteminin reddine karar verilmesi gerekirken, kabulüne karar verilmesi hatalı olmuştur.
 
 Öte yandan, davalı arsa sahiplerinden ...'a 11.02.2008 tarihinde gönderilen 200.000,00 TL tutarındaki havalenin teminat olarak gönderildiği kabul edilerek, bu bedelin faizi ile birlikte davalı arsa sahibi ...'tan tahsiline hükmedilmiştir. Davacı yüklenici bu bedelin teminat olarak verildiğini iddia etmiş, davalı ... ise bu bedelin azalan arsa hissesinin karşılığı olarak, bir anlamda kendisini sözleşmeyi imzalamaya ikna etmek amacıyla verildiğini savunmuştur. Havale kural olarak bir ödeme vasıtasıdır. Başka bir ifade ile havalenin, mevcut bir borcun ödenmesi amacıyla yapıldığı yolunda yasal bir karine mevcuttur. Bu yasal karinenin aksini havaleyi gönderen tarafın ispat etmesi gerekir. 11.02.2008 tarihli havale dekontunda gönderilen paranın teminat olarak verildiğine dair herhangi bir şerhin bulunmadığı anlaşılmaktadır. Bu haliyle havale, paranın teminat olarak gönderildiğini ispata yeterli değildir. Ayrıca, mahkeme gerekçesinde ifade edildiği şekilde davalı arsa sahiplerinden ...'ın bu ödemenin teminat olarak yapıldığına dair dosya kapsamında herhangi bir yazılı beyanı da bulunmamaktadır.
@@ -142,6 +156,8 @@ Diğer taraftan, yüklenici kendi iradesiyle inşaatın tamamına ve bu kapsamda
 SONUÇ: Yukarıda (1) numaralı bentte açıklanan nedenlerle, asıl davada davalılar ... ve ... vekilinin diğer temyiz itirazlarının reddine, (2-a) numaralı bentte açıklanan nedenlerle, adı geçen davalılar vekilinin ve (2-b) numaralı bentte açıklanan nedenlerle davacı yüklenici şirket vekilinin diğer temyiz itirazlarının kabulü ile hükmün, asıl davada taraflar yararına, (3) numaralı bentte açıklanan nedenlerle, birleşen davada davacı ... vekilinin temyiz itirazlarının kabulü ile hükmün birleşen davada davacı yararına BOZULMASINA …
 
 ## Yargıtay 23. HD 2016/2154 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/237639900)
 
 Davacılar vekili, davalıların babası arsa sahibi.... ile 29.12.1988 tarihinde, bir kısım müvekkillerinin murisi ...nün ortağı....nin aralarında arsa payı karşılığı inşaat yapım sözleşmesi imzaladıklarını, daha sonra....'nin hissesini diğer bir kısım müvekkilerinin murisi....'ye devrettiğini, bu devir işleminin arsa sahibi ....'ın muvafakatiyle gerçekleştiğini, böylece muris....'nün birlikte ortak çalışarak binayı bitirip teslim ettiklerini, kat irtifakında bütün bağımsız bölümlerin arsa sahibi.... adına tescil edildiğini, yüklenicilerin hak ettikleri bağımsız bölümlerin tescillerini kendi üzerine yapamadıklarını, hangilerine müşteri çıkmışsa o müşteriye arsa sahibi üzerinden satış yapıldığını, yüklenicilerin bu konuda arsa sahibine güvendiklerini, arsa sahibi .... vefat edince kendisine kalan bağımsız bölümler ile henüz yükleniciler adına tescil işlemi yapılamış olan ve sözleşmeye göre yüklenicilere ait olan 1, 2 ve 3 bağımsız bölüm no'lu üç adet dükkan vasıflı taşınmazların davalı mirasçılara veraset ve intikal yoluyla geçtiğini, tapu sicilinde davalılar adına kayıtlı olan bu taşınmazların gerçek malikinin müvekkilleri olduğunu ileri sürerek, bu üç bağımsız bölümün tapu
 kayıtlarının iptali ile müvekkilleri adına tescilini talep ve dava etmiştir.
@@ -160,6 +176,8 @@ SONUÇ:Yukarıda açıklanan nedenlerle, davacılar vekilinin temyiz itirazları
 
 ## Yargıtay 14. HD 2016/2063 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/225155600)
+
 Dava, yüklenicinin temlikine dayalı tapu iptali ve tescil istemine ilişkindir.
 
 Davacı, ... Noterliği'nin 11.08.2006 tarihli satış vaadi sözleşmesi uyarınca davalı yüklenici ...'nin temlikine dayalı olarak proje değişikliği sonucu dava konusu 633 ada 12 parsel numaralı taşınmazda ... Blok, ... kat, 37 no'lu meskenin tapu kaydının iptali ile adına tescilini talep etmiştir.
@@ -176,6 +194,8 @@ SONUÇ: Yukarıda (1) numaralı bentte açıklanan nedenlerle davalı .... vekil
 
 ## Yargıtay 23. HD 2015/6599 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/119098200)
+
 Davacı vekili, müvekkili ile arsa sahibi davalılar arasında 21.08.1991 tarihli arsa payı karşılığı inşaat sözleşmesi imzalandığını, arsa sahipleri tarafından müvekkili aleyhine açılan dava sonucu tazminata hükmedildiğini, bu dava derdest iken imzalanan protokol uyarınca davalılara devredilen bağımsız bölümün davalılar tarafından üçüncü kişilere satıldığını, davalıların bu karar kesinleşmeden müvekkili aleyhine icra takibine başladıkları ileri sürerek, Küçükçekmece 2. İcra Müdürlüğü'nün 2003/2217 Esas sayılı dosyası nedeni ile müvekkilinin borçlu olmadığının tespiti ile takibin iptaline, inkâr tazminatına ve davalıların elinde fazladan tahsil edilen paradan şimdilik 1.000,00 TL’nin satım tarihinden itibaren işleyecek faizi ile birlikte davalılardan tahsiline karar verilmesini talep ve dava etmiş, 14.10.2011 tarihli ıslah dilekçesi ile müddeabihi 35.146,13 TL'ye çıkartmıştır.
 
 Davalılar Ö.. Ç.. ve S..
@@ -189,6 +209,8 @@ Protokolün 8. maddesi tazminat miktarının belli olmasını takip eden 30 gün
 SONUÇ: Yukarıda (1) numaralı bentte açıklanan nedenlerle, davalılardan Mustafa Coşkun, Anıl ve S.. B.. vekilinin diğer karar düzeltme istemlerinin reddine, (2) numaralı bentte açıklanan nedenlerle, karar düzeltme istemlerinin kabulü ile Yargıtay 15. Hukuk Dairesi'nin 07.07.2008 tarih ve 2007/4446 E., 2008/4527 K. sayılı ilamı kaldırılarak, yukarıdaki gerekçelerle davalılardan Mustafa Coşkun, Anıl ve S.. B.. yararına BOZULMASINA …
 
 ## Yargıtay 23. HD 2015/4416 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/201454100)
 
 Davacılar vekili, müvekkili ... ile davalı arasında imzalanan arsa payı karşılığı inşaat sözleşmesi imzalandığını, 21 nolu dairenin müvekkili ... tarafından haricen kızı olan müvekkili ...'e satıldığını, böylece davacı ...'in babasının haklarına halef olduğunu ve 21 no'lu daire yönünden taraf olarak gösterildiğini, müvekkillerine teslimi gereken dairenin süresinde teslim edilmediğini, ortak alanlarda ve müvekkiline teslimi gereken bağımsız bölümlerde bir kısım eksik ve ayıplı imalatlar bulunduğunu, bu nedenle iskân alınmadığını, müvekkili ...'ın 13 ve 26 nolu dairelere yerleşebilmek için bu dairelerdeki eksik işler için harcamada bulunduğunu ileri sürerek, kira tazminatından şimdilik 1.000,00 TL, ayıplı iş bedelinden (nefaset farkından) şimdilik 1.000,00 TL, müvekkili ...'ın giderdiği eksikliklerden şimdilik 1.000,00 TL ve eksik iş bedelinden şimdilik 5.000,00 TL olmak üzere toplam 8.000,00 TL bedelin avans faizi ile birlikte davalıdan tahsiline, avans niteliğindeki masrafların karşılanması amacıyla ... parselde bulunan yüklenici hisselerinin satışı için müvekkiline yetki ve izin verilmesine, yapı kullanma izin belgesi alınması için yapılması gereken harcamalar ve mahkemece tespit
 edilecek diğer eksikliklerin tamamlanması için müvekkiline ifa yetkisi verilmesine karar verilmesini talep ve dava etmiştir.
@@ -215,6 +237,8 @@ Taraflar arasındaki sözleşmede teminat dairesi olarak kararlaştırılan dair
 SONUÇ: Yukarıda açıklanan nedenlerle, davacılar vekilinin temyiz itirazlarının kabulü ile hükmün, davacılar yararına BOZULMASINA …
 
 ## Yargıtay 23. HD 2014/7272 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/119682400)
 
 Davacı vekili, davalı arsa sahipleri ile dava dışı E.... Birlik İnşaat Ltd.
 

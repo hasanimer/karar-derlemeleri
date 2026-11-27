@@ -20,8 +20,12 @@ uyari: "Derleyenin seçtiği alıntılardır; kararın tamamı değildir. Künye
 
 ## Yargıtay 11. HD 2021/2836 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/666890600)
+
 Diğer yandan davalının garanti belgesi ile birlikte satış yapamayacağı anlaşıldıktan sonra davacının bakiye 49 araçla ilgili teslim yapılmasını istemesi ve teslim edilmemesi üzerine de yoksun kalınan kâr talep etmesi de yerinde görülmemiştir.
 
 ## İstanbul BAM 14. HD 2022/379 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/749783000)
 
 CISG'nin 77. maddesinde sözleşmenin ihlaline dayanan taraf, mahrum kalınan kâr dahil ihlalden doğan zararları azaltmak için koşullar dikkate alındığında, makul olan bütün önlemleri almak zorundadır. Bu önlemleri almaması halinde ihlal eden taraf zararın azaltılabilecek olduğu miktardan tazminattan indirim yapılmasını isteyebilir. Somut olayda alıcı, taraflarca belirlenen ayıpların giderilmesini istemiş ancak satıcı tarafından emtiadaki ayıplar giderilmeden de alıcının zararı azaltmak için gerekli önlemleri aldığı kabul edilmiştir.

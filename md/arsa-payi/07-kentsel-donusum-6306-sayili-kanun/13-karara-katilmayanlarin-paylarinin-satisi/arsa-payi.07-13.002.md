@@ -22,6 +22,8 @@ uyari: "Derleyenin seçtiği alıntılardır; kararın tamamı değildir. Künye
 
 ## Danıştay 4. D. 2024/378 E., 2024/7645 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1193505900)
+
 6306 sayılı Kanunun Uygulama Yönetmeliğinin (dava tarihindeki haliyle) 15. maddesinin 2. fıkrasında; "Riskli alanlar ve rezerv yapı alanlarında uygulama yapılan etapta veya adada, riskli yapılarda ise bu yapıların bulunduğu parsellerde; yapıların yıktırılmış olması şartı aranmaksızın ve yapının paydaşı olup olmadıkları gözetilmeksizin parsellerin tevhit edilmesine, münferit veya birleştirilerek veya imar adası bazında uygulama yapılmasına, ifraz, taksim, terk, ihdas ve tapuya tescil işlemlerine, yeniden bina yaptırılmasına, payların satışına, kat karşılığı veya hasılat paylaşımı ve diğer usuller ile yeniden değerlendirilmesine toplantı yapılması gerekmeksizin ve herhangi bir şekil şartına tabi olmaksızın sahip oldukları hisseleri oranında paydaşların en az üçte iki çoğunluğu ile karar verilir. Bu karar anlaşma şartlarını ihtiva eden teklif ile birlikte karara katılmayanlara noter vasıtasıyla veya 7201 sayılı Kanuna göre tebliğ edilir.
 Bu tebliğde, on beş gün içinde kararın ve teklifin kabul edilmemesi halinde arsa paylarının, Bakanlıkça tespit edilecek veya ettirilecek rayiç değerden az olmamak üzere anlaşma sağlayan diğer paydaşlara açık artırma usulü ile satılacağı, paydaşlara satış gerçekleştirilemediği takdirde, riskli alanlar ve rezerv yapı alanlarında rayiç bedeli Bakanlıkça ödenmek kaydı ile tapuda Hazine adına resen tescil edileceği, riskli yapılarda ise anlaşma sağlayan diğer paydaşlara veya yapılan anlaşmaya uyularak işlem yapılmasını kabul etmek şartıyla üçüncü şahıslara satılacağı bildirilir." hükümlerine yer verilmiştir.
 
@@ -31,6 +33,8 @@ Elektronik yolla yapılan bildirim, bildirimin muhatabın elektronik adresine ul
 
 ## Danıştay 6. D. 2023/6556 E., 2024/2601 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1072896100)
+
 6306 sayılı Afet Riski Altındaki Alanların Dönüştürülmesi Hakkında Kanun hükümleri ile riskli alan ve rezerv yapı alanı olarak ilan edilen bölgelerde taşınmaz malikleriyle anlaşma sağlanamayan durumlarda acele kamulaştırma yoluna da gidilebileceği öngörülmüştür.
 
 …
@@ -38,6 +42,8 @@ Elektronik yolla yapılan bildirim, bildirimin muhatabın elektronik adresine ul
 Öte yandan, rezerv yapı alanlarında, 6306 sayılı Afet Riski Altındaki Alanların Dönüştürülmesi Hakkında Kanununda belirtildiği üzere öncelikli olarak malikler ile anlaşma yoluna gidilmesinin esas alınması, Kanunda belirtilen uygulamaların Bakanlıkça yerine getirilmesi, ancak üzerindeki bina yıkılmış olan arsanın malikleri salt çoğunluğu sağlayamazsa acele kamulaştırma yoluna gidilmesi gerekirken, anılan hususlar gözetilmeksizin rezerv yapı alanı belirlenmesi kararı üzerine uyuşmazlığa konu taşınmazın acele kamulaştırılması yolunda tesis edilen ve bu nedenle hukuka aykırı olduğu sonucuna varılan dava konusu acele kamulaştırma kararının uyuşmazlığa konu taşınmaz yönünden iptaline karar verilmesi gerektiği oyuyla …
 
 ## Danıştay 4. D. 2024/577 E., 2024/1179 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1059579500)
 
 İSTEMİN ÖZETİ: 6306 sayılı Yasa gereğince yapılan arsa payı satış işlemi ile 6306 sayılı Kanunun Uygulama Yönetmeliğinin 15. maddesinin 2. fıkrasındaki "toplantı yapılması gerekmeksizin ve herhangi bir şekil şartına tabi olmaksızın" ibaresinin iptali istenilmiştir.
 
@@ -49,10 +55,14 @@ parselde bulunan ve riskli yapı kararı verilen binada 10/324 oranında arsa pa
 
 ## Danıştay 4. D. 2024/425 E., 2024/791 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1106893100)
+
 6306 sayılı Kanun'un 6. maddesinde "...Hisseleri oranında paydaşların salt çoğunluğu ile alınan karara katılmayanların arsa payları, Başkanlıkça rayiç değeri tespit ettirilerek ve bu değerden az olmamak üzere anlaşma sağlayan diğer paydaşlara açık artırma usulü ile satılır. Bu suretle paydaşlara satış gerçekleştirilemediği takdirde bu paylar, riskli alanlar ve rezerv yapı alanlarında tespit edilen rayiç bedeli dönüşüm projesini gerçekleştirecek olan Başkanlık, İdare veya TOKİ tarafından ödenmek suretiyle satın alınır. " kuralına; 6306 sayılı Kanunun Uygulama Yönetmeliği'nin 15. maddesinin üçüncü fıkrasında " Hisseleri oranında paydaşların en az üçte iki çoğunluğu ile alınan karara katılmayan maliklerin arsa payları; 15/A maddesinde belirtilen usule göre, arsa payı değeri üzerinden anlaşma sağlayan diğer paydaşlara açık artırma usulü ile satılır..." kuralına;
 15/A maddesinin 8. fıkrasında ise " Komisyon, yedinci fıkrada belirtilen şekilde yapılan satış işlemi sonunda, tespit edilen rayiç bedelden az olmamak üzere, en yüksek bedeli teklif eden katılımcıya satış yapılmasını karara bağlar ve bu katılımcıdan, yedi gün içerisinde satış bedelini banka nezdinde açtırılacak vadeli hesaba yatırması ve aynı süre içerisinde satın aldığı yeni hisse için üçte iki çoğunluk ile alınan karar doğrultusunda yapılan sözleşmeyi ve diğer belgeleri şartsız ve şerhsiz olarak imzalayarak Müdürlüğe sunması istenir. Bu süre içerisinde satış bedeli yatırılmaz ve sözleşme imzalanmaz ise pey süren diğer katılımcılara sırasıyla bildirimde bulunulur ve satış bedelini yatırarak sözleşmeyi imzalayan katılımcıya satış yapılır." kuralına yer verilmiştir.
 
 ## Danıştay 13. D. 2024/98 E., 2024/561 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1072301300)
 
 Davalı Kamu İhale Kurumu tarafından, Kurumun 4734 sayılı Kanun'a göre gerçekleştirilen ihalelere ilişkin olarak ihalenin başlangıcından sözleşmenin imzalanmasına kadar olan süre içerisinde idarece yapılan işlemlerin anılan Kanun ve ilgili mevzuat hükümlerine göre uygun olup olmadığını inceleme ve işlem tesis etme görevinin bulunduğu, bunun dışında gelir getirici faaliyet kapsamında yapılan ihalelere yönelik olarak inceleme yapma ve işlem tesis etme görev ve yetkisinin bulunmadığı, tesis edilen işlemde hukuka aykırılık bulunmadığı belirtilerek istemin reddi gerektiği savunulmuştur.
 
@@ -62,6 +72,8 @@ Altyapı ve Kentsel Dönüşüm Hizmetleri Genel Müdürlüğü'nce anılan taş
 
 ## Danıştay 13. D. 2022/1571 E., 2022/2766 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/790027000)
+
 Dosyanın incelenmesinden, Bakanlıkça daha önce rezerv yapı alanı olarak belirlenen taşınmazların, 6306 sayılı Kanun uyarınca "günübirlik turizm tesis alanı" olarak açık artırma usulüyle satışına ilişkin ihalelerden kaynaklanan uyuşmazlığın, 2577 sayılı Kanun'un 34. maddesinin birinci fıkrası kapsamında imar, kamulaştırma, yıkım, işgal, tahsis, ruhsat ve iskân gibi taşınmaz mallarla ilgili mevzuatın uygulanmasına veya taşınmaza bağlı hak kapsamında bulunan bir işleme yönelik olmadığı, taşınmaz hukukuna ilişkin herhangi bir kuralla ilgili olmaksızın, ihale işleminin iptaline yönelik olduğu, bu itibarla, uyuşmazlığın çözümünde 2577 sayılı Kanun'un 32. maddesinin birinci fıkrası kapsamındaki genel yetki kuralı uyarınca, dava konusu işlemi tesis eden idarî merci olan Çevre, Şehircilik ve İklim Değişikliği Bakanlığı'nın bulunduğu yerdeki Ankara İdare Mahkemesi'nin yetkili olduğu anlaşıldığından, yetkisiz yargı yerince uyuşmazlığın esası incelenerek verilen kararda usûl kurallarına uygunluk bulunmamaktadır.
 
 …
@@ -69,6 +81,8 @@ Dosyanın incelenmesinden, Bakanlıkça daha önce rezerv yapı alanı olarak be
 2\. 2577 sayılı İdari Yargılama Usulü Kanunu'nun 49. maddesi uyarınca ... İdare Mahkemesi'nin … tarih ve E:…, K:… sayılı kararının BOZULMASINA …
 
 ## Danıştay 6. D. 2021/7970 E., 2021/9874 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/699905600)
 
 İSTEMİN ÖZETİ : İstanbul ili, Şişli ilçesi, ... Mahallesi, …
 
@@ -102,6 +116,8 @@ sayılı kararın, usul ve hukuka aykırı olduğu ileri sürülerek bozulması 
 
 ## Danıştay 6. D. 2020/9670 E., 2020/11090 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/633560000)
+
 …
 
 parsel sayılı taşınmazda bulunan yapı İzmir Çevre ve Şehircilik İl Müdürlüğünün 04.09.2014 tarihli işlemiyle riskli yapı olarak tespit edilmiş, davacıların da katıldığı 02.11.2016 tarihli olağanüstü kat malikleri kurulu toplantısında alınan karar uygulanmayarak davacılar dışındaki diğer maliklerce 25.11.2016 tarihinde yeni malikler kurulu toplantısı yapılmış, 09.03.2017 tarihinde bu toplantıda alınan karara katılmayan ve anlaşmaya razı olmayan davacıların 6306 sayılı Kanun kapsamında arsa paylarının satışı talep edilmiş, bu talep üzerine İzmir Çevre ve Şehircilik İl Müdürlüğünce yapılan 11.07.2017 tarihli açık artırma usulüyle ihale sonucunda davacıların arsa payları satılmış, bu satış üzerine İzmir Çevre ve Şehircilik İl Müdürlüğünün …
@@ -134,6 +150,8 @@ Davanın yukarıda özetlenen gerekçeyle görev yönünden reddine ilişkin Mah
 
 ## Danıştay 6. D. 2018/1198 E., 2018/8876 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/677144500)
+
 5393 sayılı Yasa ile kentsel dönüşüm ve gelişim alanlarında anlaşma sağlanamayan durumlarda kamulaştırma yapılabileceği öngörülmüş olduğundan, anılan Yasa uyarınca yapılacak olan kamulaştırmalarda 2942 sayılı Yasanın acele kamulaştırmayı düzenleyen 27. maddesi hükmünün de uygulanabileceği açıktır.
 
 …
@@ -141,6 +159,8 @@ Davanın yukarıda özetlenen gerekçeyle görev yönünden reddine ilişkin Mah
 Açıklanan nedenlerle, dava konusu işlemin davacılar parseli yönünden iptaline …
 
 ## Danıştay 14. D. 2016/7694 E., 2017/1078 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/310068300)
 
 İstemin Özeti :...İli, ...
 İlçesi, ... ada ... parsel sayılı taşınmaz üzerinde bulunan binanın 6306 sayılı Kanuna göre 31.10.2012 tarihinde riskli yapı olarak tespit edilerek maliki tarafından yıkılmasından sonra söz konusu parselde yeniden yapım için üçte iki pay çoğunluğunu tek başına elinde bulunduran malik müdahilin tek başına aldığı karara katılmayan davacının taşınmazdaki payının açık artırma usulü ile satışının 01.10.2015 tarihinde gerçekleştirileceğine ilişkin Çevre ve Şehircilik İl Müdürlüğü'nün 10.09.2015 gün ve 66070440/502.03-E.5714 sayılı işleminin iptali istemiyle açılan davada; davacının hisseli maliki olduğu arazideki hissedarlardan yalnızca birine () ait olan yapının riskli yapı kapsamına girdiği ve 6306 sayılı Kanun kapsamında hisse satış sürecinin başlamasında riskli yapı olarak söz konusu yapının esas alındığı, davacının da aralarında bulunduğu arazinin diğer hissedarlarının arazi üzerinde herhangi bir yapılarının bulunmadığı, 6306 sayılı Kanun'un lafzi ve ruhu ile değerlendirilmesi neticesinde; hisseli bir arazide yine hisseli olarak malik olunan bir yapının riskli yapı olarak ilan edilmesi ve yıkılması sonrasında maliklerin ne şekilde yeniden o arazide inşa sürecine başlayabileceklerini
@@ -179,6 +199,8 @@ Bu durumda, mahkemece konusunda uzman bilirkişiden 1,65 adet dairenin karar tar
 
 ## Yargıtay 6. HD 2024/2065 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1095384500)
+
 Davacı vekili dava dilekçesinde;İstanbul İli, ... İlçesi ... Mah.
 
 …
@@ -199,6 +221,8 @@ Değerlendirme bölümünün 2 no.lu bendinde yer alan nedenlerle davalı vekili
 
 ## Yargıtay 6. HD 2023/1572 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/910412200)
+
 Davalı ... vekili cevap dilekçesinde özetle; taraflar arasında kat karşılığı inşaat sözleşmesi yapıldığını, sözleşmeyi ... ve ...'e vekaleten ...'un yaptığını, inşaatın başlamasından sonra taraflar arasında sorunlar çıktığını ve davacı tarafın kendileri tarafından yapılması gereken plan iştirak parası olan 6.096 TL nin müvekkil tarafından yatırıldığını, davacı tarafın bu bedeli ödemediğini, yine sözleşmeye göre müvekkiline verilmesi gereken bir adet dairenin tapusu (B Blok 8 no.lu dublex) müvekkilinden kaçırılıp üçüncü kişilere devredildiğini, yine diğer tapuların süresi içerisinde müvekkile devredilmediğini, müvekkilinin kendisine düşen işleri tamamlamadan müvekkilinin azl'edildiğini ve iş yapamaz hale getirildiğini, tüm bunlara rağmen müvekkilinin üzerine düşen edimleri tamamlayıp binaları teslim ettiğini ancak davalılar tarafından yapı denetim giderleri yatırılmamış asansör de bitirilememiş, bina böylece uzunca bir süre bekletildiğini daha sonra müvekkile düşmesi gereken kaçırılan dairenin tapusunun davacı tarafça müvekkiline iade edildiğini bu sebeple müvekkilden 5.000 TL çek alındığını yine müvekkilinin davacı tarafın talebi üzerine 21 kalemden oluşan fazladan imalat
 yaptığını, bu yapılan fazladan imalat bedelinin de müvekkiline ödenmediğini, müvekkilinin üçünçü kişilere taahütlerinin olması nedeni ile asansörleri kendi bitirmek zorunda kaldığını yine çıkan giderleri kendisinin yaptığını, müvekkilinin 30.06.2007 tarihinde binayı teslim ettiğini, geçikmenin söz konusu olmadığını bir gecikme varsa söz konusu binanın tesliminden sonra kendilerine düşen işleri yaptırmadıklarından , müvekkiline düşen tapuları zamanında temlik etmediklerinden kaynaklandığını bu sebeplerle davanın reddini talep etmiştir..
 
@@ -215,6 +239,8 @@ Birleşen Antalya 6. Asliye Hukuk Mahkemesinin 2009/358 E., sayılı dava dosyas
 Asıl dava davacılar-birleşen dava davalılar vekilinin yerinde görülmeyen tüm temyiz itirazlarının reddi ile usul ve kanuna uygun olan kararın ONANMASINA …
 
 ## Yargıtay 6. HD 2023/1478 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/917271900)
 
 Davacı vekili dava dilekçesinde özetle; davalılar arasında imzalanan sözleşme gereğince davalı ...'ın maliki olduğu Samsun ili ... ada 5 parsel sayılı arsa üzerinde bodrum katta ortak alanlar bina girişi ile müştemilat ve 1 depo bağımsız bölüm, zemin katta 1 dükkan bağımsız bölüm, 1. katta 2 mesken bağımsız bölüm, 2. katta 2 mesken bağımsız bölüm, 3. katta 2 mesken bağımsız bölüm, 4. katta 2 mesken bağımsız bölüm olacak şekilde, taşınmaz üzerinde 10 bağımsız bölümlü bir binayı Haziran 2017 ile Nisan 2018 tarihleri arasında inşa etmek koşuluyla anlaştıklarını, davalılardan yüklenici ...'ya kalacak bağımsız bölümlerden 4.kattaki 7 ve 8 numaralı bağımsız ve 1. katta bulunan 1 ve 2 numaralı bağımsız bölümlerin 27/10/2017 tarihinde satıldığını ve bedellerinin ödendiğini, davalılardan arsa sahibi ...'ın, 4. kattaki 7 ve 8 numaralı dairelerin tapusunu müvekkili davacı adına tescil ettirdiğini, ancak tamamlanan ve satışı yapılan diğer dairelerden 1. kattaki 1 ve 2 numaralı dairelerin tapusunu vermediğini, kat irtifakının kurulduğunu, binada satın alınan dört dairenin ikisinin tapusunu verdiğini, diğer dairelerin tapusunu vermeyen ve her konuşmada sürekli bahaneler ileri sürerek tapuda
 işleme yanaşmayan arsa sahibi davalının kötü niyetle hareket ederek müvekkili davacıyı aylardır oyaladığını, mağdur ettiğini, mimari projenin 30/05/2017 tarihinde ilgili belediyece onandığını, yapı ruhsatının da 18/07/2017 tarihinde onaylandığını, söz konusu binada 12/09/2017 tarihinde yönetim planı ile kat irtifakının kurulduğunu, davalıların ekonomik zorluk içinde ve icralık olmaları nedeniyle müvekkili davacının mülkiyet hakkına kavuşmasını güçleştirdiğini belirterek, davaya konu ... ada 5 parselde kayıtlı arsa üzerindeki 1 ve 2 numaralı taşımmaz kaydı üzerine 3. kişilere devir ve satışının önlenmesi amacıyla dava sonucu kesinleşinceye kadar ihtiyati tedbir konulmasına, davalılar arasında yapılan yapılan sözleşme dayanak gösterilerek davalı ...'nın müvekkili davacı ile imzaladığı 27/10/2017 tarihli gayrimenkul satış sözleşmesi uyarınca sattığı, henüz devrini yapmayan diğer davalı ... adına kayıtlı ... ada 5 parselde kayıtlı arsa üzerindeki 1 ve 2 numaralı bağımsız bölümlerin tapu kayıtlarının iptali ile davacı adına tesciline, tapu iptal ve tescil taleplerinin kabul görmemesi halinde munzam zarar ve diğer tüm tazminat hak ve alacakları saklı kalmak kaydıyla şimdilik 1.000,00 TL

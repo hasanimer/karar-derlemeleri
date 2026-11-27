@@ -24,8 +24,12 @@ Türk Hukuk Lûgatında arsa payı karşılığı inşaat sözleşmesinin hukuki
 
 ## Yargıtay HGK 2025/324 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1152709800)
+
 Öte yandan uyuşmazlığın çözüme kavuşturulması bakımından arsa payı karşılığı inşaat sözleşmesi ve alacağın temliki ile ilgili açıklama yapılmasında da fayda bulunmaktadır. Türk Hukuk Lûgatında hukuki niteliği itibariyle taşınmaz satış sözleşmesi ile eser sözleşmesinden oluşan bir sözleşme türü olarak vurgulanan (Türk Hukuk Lûgatı, Türk Hukuk Kurumu, Cilt I, Ankara 2021, s. 669) arsa payı karşılığı inşaat sözleşmesi, bir yönüyle arsa sahibinin koşullar gerçekleştiğinde sahibi olduğu taşınmazın mülkiyetinin bir kısmını yükleniciye devretmesini öngörürken, diğer yönüyle de, yüklenicinin yapacağı inşaat bakımından arsa sahibine karşı yükümlülüklerini gösteren, tapulu taşınmazın mülkiyetinin bir kısmının devrine ilişkin vaadi ve eser sözleşmesini içeren, iki tipli-karma bir sözleşmedir. Başka bir anlatımla yüklenici yönünden inşaat yapma yükümlülüğünü, arsa sahibi yönünden ise tapuda pay intikal ettirme yükümlülüğünü içeren arsa payı karşılığı inşaat sözleşmesi, hem inşaat yapma hem de satış vaadi sözleşmesini bünyesinde birleştiren özel bir sözleşme türüdür.
 
 ## Ankara BAM 27. HD 2024/636 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1046769300)
 
 Dava, kat karşılığı inşaat sözleşmesinin haklı olarak feshedildiğinin tespiti istemiyle açılmış, mahkemesince de davaya konu sözleşmenin 19.07.2017 itibariyle ileriye etkili feshedildiğinin tespitiyle davacı arsa sahibi kooperatifin fesihte haklı olduğunun tespitine hükmedilmiş ise de Yargıtay yerleşik içtihatlarında da kabul edildiği üzere arsa payı karşılığı inşaat yapım ve gayrimenkul satış vaadi sözleşmeleri bedel olarak arsa payı devri ve satış vaadini de içerdiğinden, karma nitelikli sözleşmelerdendir. Bu tür inşaat sözleşmeleri, tapuda pay devrini de içerdiğinden, yapılması özel şekil şartına tabi olduğu gibi, dönme suretiyle sona ermesi de, tek taraflı irade beyanının karşı tarafa ulaştırılmasıyla mümkün değildir.

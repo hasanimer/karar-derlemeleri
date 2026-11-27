@@ -22,6 +22,8 @@ uyari: "Derleyenin seçtiği alıntılardır; kararın tamamı değildir. Künye
 
 ## İzmir BAM 14. HD 2023/47 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/851688400)
+
 Davacı vekili ıslah dilekçesinde ise; "... bloktaki 9 daireye karşılık gelen ... ada .. parseldeki arsa payının tapu kaydının iptali ile davacı adına tesciline ve haksız fesih nedeniyle mahrum kaldığı kârın tespit ve tahsiline karar verilmesini istemiştir.
 
 …
@@ -39,6 +41,8 @@ Karşıyaka Asliye Ticaret Mahkemesi'nin 21/10/2020 tarih ve 2014/564 Esas, 2020
 
 ## İzmir BAM 6. HD 2022/3316 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/810710900)
+
 Dava, itirazın iptali istemine ilişkindir.
 
 …
@@ -46,6 +50,8 @@ Dava, itirazın iptali istemine ilişkindir.
 Somut olayda; Taraflar arasında kat karşılığı inşaat sözleşmesi bulunduğu, sözleşmenin haksız feshi nedeniyle yapılan takibe itirazın iptaline karar verilmesinin istendiği anlaşılmaktadır. Davalının sıfatı, sözleşmenin niteliği davalının tacir olduğuna ilişkin delil bulunmadığı gözetildiğinde uyuşmazlığın asliye hukuk mahkemesince görülüp sonuçlandırılması gerekir.
 
 ## İstanbul BAM 3. HD 2022/2267 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/810699900)
 
 Cumhuriyet Savcılığı 2021/6046 Soruşturma sayılı dosyası ile dolandırıcılık ve güveni kötüye kullanma suçları nedeniyle savcılık şikayeti yapıldığı Mahkemeye bildirilmiş ise de ancak Savcılık dosyasının da Yerel Mahkeme tarafından dikkate alınmadığı,dilekçelerinde adları bildirilen kişilere yok pahasına çok düşük bedellerle ve cüzi peşinatlarla dairelerin satıldığı ileri sürülerek,bu sebeplerle hukuka aykırı olduğunu beyan ettiği kararın kaldırılmasını talep etmiştir. ...nun 355. maddesi uyarınca, ileri sürülen istinaf sebepleri ile sınırlı olarak yapılan inceleme sonucunda; Davacı taraf asıl davada adi ortaklığın hissedarı ve yöneticisi olan davalının kötü yönetim nedeniyle adi ortaklığı zarara uğrattığı iddiası ile adi ortaklığın feshini talep etmiş, birleşen davada ise aynı gerekçelere dayanarak kötü yönetim sebebiyle davalının adi ortaklığı yönetim ve temsil yetkisinin kaldırılmasına karar verilmesini talep etmiştir. Dava dosyası kapsamına göre; davacı ... ile davalı/... Şirketi arasında, 26.03.2013 tarihli Adi Ortaklık Sözleşmesi akdedilmiş olup, buna dayalı adi ortaklık akdi ilişkisi kurulmuştur.
 Sözleşmenin amacı; ilgili adreste bulunan 9.616 m2 arsa üzerinde, arsa maliki ile akdedilecek Kat Karşılığı İnşaat Sözleşmesine istinaden daire yapılmasıdır.Adi ortaklık akdi ilişkisinin kurulmasından sonra, 19.04.2018 tarihinde, davacı/... Şirketi, kendisine ait ortaklık hissesini diğer davacı ...'a devretmiştir. Bu devre, davalı/... Şirketi de onay vermiştir. Bu durum karşısında, davacı ...'nin, ortaklığın tasfiyesini talep edemeyeceği gibi, katılım payı ve kar payı alacaklarının ödenmesini talep edemeyeceği; diğer davacı ...'ın bu hususları talep edebileceği; bu nedenle davacı ... Şirketi'nin bu davada taraf sıfatının bulunmadığı ,bu sebeple mahkemece davacı ... Ltd. Şti.'nin HMK 114/1-d maddesindeki taraf ehliyetine sahip olma dava şartı yokluğundan HMK 115/2 maddesi uyarınca bu davacı tarafından açılan asıl ve birleşen davanın ayrı ayrı usulden reddine karar verilmesinde usul ve hukuka aykırılık bulunmadığından, davacı tarafın bu yönlere ilişkin istinaf sebepleri yerinde görülmemiştir.
@@ -59,6 +65,8 @@ Gerçekten ortaklar arasındaki ilişkinin devam etmesini haklı göstermeyecek 
 
 ## İstanbul BAM 17. HD 2022/1353 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/828786000)
+
 Asliye Hukuk Mahkemesinin 2021/332 Esas sayılı dosyasının incelenmesinde, işbu davanın davacısı tarafından davalısına karşı 05/09/2020 tarihli sözleşmede kararlaştırılan 28/02/2021 olan anahtar teslim tarihinin geçmesiyle davalının temerrüde düştüğünden bahisle 05/09/2020 tarihli Düzenleme Şeklinde Taşınmaz Satış Vaadi ve Arsa Payı Karşılığı İnşaat sözleşmesinin ileriye etkili olarak feshi ile birlikte tapu iptal ve tescil ve tüm alacak ve zararların tahsili talebine ilişkin olduğu, davada diğer taleplerin yanında sözleşmede anahtar teslim tarihi olarak kararlaştırılan 28.02.2020 tarihinden bir ay sonra taşınmaz üzerine tesis edilen ipoteğin kaldırılacağının belirlenmesine rağmen ipoteğin hala kaldırılmadığından bahisle sözleşmede belirlenen cezanın ödenmesinin de talep edildiği, davacı vekilinin talebinde ipotek cezası alacağının 28/03/2021 tarihinden itibaren başlatılarak taşınmazın davacı adına ipotekten ari bir şekilde tescil tarihine kadar işleyecek temerrüt faizleri ile birlikte davalıdan alınarak davacıya ödenmesine karar verilmesini talep ettiği, davanın 22/12/2021 tarihinde açıldığı anlaşılmıştır.
 "...Diğer anlatımla, ileriye etkili fesihte yüklenici, inşaatı getirebildiği seviyeye göre tapu payı almaya hak kazanmakta, arsa sahibi de geriye etkili feshin aksine, ifaya ekli cezayı ve ifanın gecikmesine bağlı gecikme (kira) tazminatını (Dava tarihi itibariyle yürürlükte olan TBK'nın 112.md.) yükleniciden isteyebilmektedir. İleriye etkili fesihte cezai şart istenebilir. Ancak, seçimlik cezanın durumu buna müsait değildir. İleriye etkili fesih bir bakıma sözleşmenin ifası demek olduğundan alacaklının akdin icrasını (akdin ifasını) istemek dışında cezanın tediyesini talebe yetkisi yoktur. Zira, tasfiye 25.01.1984 tarihli İçtihadı Birleştirme Kararı uyarınca hakim tarafından yapılmaktadır. Kural bu olmakla birlikte TBK'nın 179/1. maddesindeki "aksi sözleşmeden anlaşılmadıkça" şeklindeki hükümden tarafların aksine sözleşme yapabilecekleri, böyle bir sözleşme varsa fesih ileriye etkili olsa bile, alacaklının ayrıca seçimlik cezayı da isteyebileceği sonucuna ulaşılmaktadır..." (Yargıtay 23. Hukuk Dairesinin 2014/3973 Esas 2015/2836 Karar sayılı ilamı).
 
@@ -70,6 +78,8 @@ Esas sayılı takip dosyasına konu edilen, 05/09/2020 tarihli sözleşmenin 3. 
 H Ü K Ü M: Gerekçesi yukarıda izah edildiği üzere; 1-Davacı vekilinin istinaf başvurularının esasa ilişkin sebepler incelenmeksizin KABULÜNE,2-Bakırköy 1. Asliye Ticaret Mahkemesinin 2022/142 Esas, 2022/405 Karar ve 07/04/2022 tarihli kararının HMK'nun 353/1a.6 maddesi uyarınca KALDIRILMASINA …
 
 ## Sakarya BAM 5. HD 2022/1262 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/810148700)
 
 Davalı vekili cevap dilekçesinde özetle; davacı tarafın taleplerinin zamanaşımına uğradığını, davacı tarafın sözleşme edimlerini yerine getirmediğini, kat karşılığı inşaat sözleşmesine konu gayrimenkul üzerinde bulunan müvekkiline ait payda davacının Asırkent firması ile anlaşması sonucu kendilerine teslim edildiğini, kat karşılığı inşaat sözleşmesine konu gayrimenkul üzerindeki İzmit ilçesi, Çayırköy, 145 ada, 13 parselde bulunan gayrimenkul üzerindeki hisselerinin müvekkiline doğrudan değil, doğrudan Asırkent'e devredilmiş olduğundan davanın haksız ve kötü niyetli olduğunu beyan ederek haksız ve kötüniyetli olarak açılan davanın reddini talep etmiştir.
 
@@ -92,6 +102,8 @@ Birleşen dosya bakımından davacı müteahhit şirket tarafından 16/07/2012 t
 
 ## İzmir BAM 14. HD 2022/1096 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/799722000)
+
 Davalı ..., davaya cevap vermemiştir.
 
 …
@@ -109,6 +121,8 @@ Karşıyaka Asliye Ticaret Mahkemesi'nin 29.01.2020 tarih ve 2017/393 Esas, 2020
 
 ## İzmir BAM 11. HD 2022/912 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/771617200)
+
 İLK DERECE MAHKEMESİ KARARININ ÖZETİ : Mahkemece, dosya üzerinden yapılan inceleme neticesinde, 6100 sayılı HMK’nın 389. maddesinde belirtilen koşulları var ise uyuşmazlık konusu hakkında ihtiyati tedbir kararı verilebileceği, eldeki davada davacı tarafça davalı şirketin haklı sebeple fesih ve tasfiyesine karar verilmesi istenmiş olup, ihtiyati tedbir isteğinde bulunulan İzmir 5. Sulh Hukuk Mahkemesinin 2021/28 sayılı satış dosyası eldeki bu davada uyuşmazlık konusu olmadığından şirket taşınmazlarının satışının durdurulması ile ilgili isteğin ileri sürülebileceği yer şirketin feshi ve tasfiyesi davasına bakan asliye ticaret mahkemesi değil olsa olsa İzmir 5.
 
 …
@@ -122,11 +136,15 @@ Haklı sebeplerle davalı şirketin feshi ve tasfiyesine ilişkin davada, ortakl
 
 ## İstanbul BAM 15. HD 2022/792 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/749730800)
+
 GEREĞİ GÖRÜŞÜLÜP DÜŞÜNÜLDÜ: Dava, taraflar arasında imzalanan Çorlu ... Noterliği'nin 26/03/2018 tarih ve ... yevmiye sayılı düzenleme şeklinde taşınmaz satış vaadi ve arsa payı karşılığı inşaat sözleşmesi ve bu sözleşme ekinde yer alan "protokol" başlıklı ek sözleşme gereğince, kat irtifakı kurulmak suretiyle 01/10/2018 günü sonrası sözleşmedeki paylaşım tablosuna göre davalı arsa sahibi tarafından davacı yüklenicinin tapularının verilmesi ve dükkan kısmına ilişkin olarak davacı tarafından yapılacak masrafların yanında davacının emek ve mesaisine karşılık olarak 250.000,00 TL ödenmesi gerektiği halde, davalı arsa sahibinin davaya ve sözleşmeye konu arsa üzerine ipotek tesis etmesi, kat irtifakını sadece kendi adına kurmuş olması, ek protokol gereği yükleniciye ödenmesi gereken dükkanların inşaat bedellerini ve yüklenicinin kazanç bedelini ödenmemiş olması nedeni ile sözleşmeye aykırı davrandığı iddiasıyla, davaya konu kat karşılığı inşaat sözleşmesinin dönme suretiyle feshine, ek protokol gereğince dükkanlara ilişkin ödenmesi gereken şimdilik 10.000,00 TL'nin, kat karşılığı inşaat sözleşmesinin 10.
 Maddesi gereğince davalının sözleşmeye aykırı hareket etmesi nedeniyle 01.10.2012 tarihinden itibaren hesaplanmak üzere günlük 100,00 TL'den şimdilik 10.000,00 TL'nin, inşaata bugüne kadar yapılan masraflara ilişkin olarak şimdilik 10.000,00 TL'nin, fesih nedeniyle oluşan zararlarına ve kar kaybına ilişkin olarak şimdilik 10.000,00 TL'nin davalıdan tahsili talebine ilişkin olup, bu kapsamda, dava ve sözleşme konusu taşınamaz üzerine ihtiyati tedbir konulması talep edilmiştir. Mahkemece 10/06/2021 tarihli ara kararla, tedbir istenen taşınmazın uyuşmazlık konusu olmadığı gerekçesiyle tedbir talebinin reddine karar verilmiştir. Davacı vekili istinafında, dava dilekçesindeki anlatım ve iddialarını tekrar ederek, davanın kat kaşılığı inşaat sözleşmesi ile inşa edilen binayı konu aldığını, tedbir taleplerinin bu yapı ile ilgili olduğunu, sundukları delillere göre haklı çıkma ihtimallerinin çok kuvvetli olduğunu, davalının en önemli mal varlığının bu taşınmaz olduğunu, tedbir konulmaması halinde dava sonunda hükmedilecek meblağın tahsilatının semeresiz kalacağını belirterek, söz konusu ara kararın bozulmasını talep etmiştir.
 Taraflar arasındaki uyuşmazlık, 6098 sayılı Türk Borçlar Kanunu 470 ve devamı maddelerinde düzenlenen eser sözleşmesinin bir türü olan kat karşılığı inşaat sözleşmesinden kaynaklanmaktadır. Davacı yüklenici, davalı ise arsa sahibidir. Dosya kapsamı değerlendirildiğinde, davacı yüklenici tarafından açılan davada, davalı arsa sahibi ile yapılan kat karşılığı inşaat sözleşmesinin feshi ile sözleşme ve ek protokol kapsamında alacak ve tazminat, ayrıca fesih nedeniyle menfi zarar ve kar kaybı taleplerinde bulunulduğu, tedbir konulması talep edilen taşınmaz taraflar arasındaki sözleşmeye konu taşınmaz ise de, açılmış bulunan bu davada davacının taleplerinin kabulüne karar verilmesi halinde bu taşınmaza ilişkin olarak bir tapu iptali ve tescil hükmü kurulmayacağı, sözleşmeye konu taşınmazın arsa sahibi üzerinde kalmaya devam edeceği, diğer taleplerin ise tazminat ve alacaklara ilişkin olduğu, buna göre ilk derece mahkemesince tedbir konulması istenen taşınmazın uyuşmazlık konusu olmadığı gerekçesiyle davacının ihtiyati tedbir talebinin reddine karar verilmiş olmasının usul ve yasaya uygun olduğu anlaşılmıştır.
 
 ## Kayseri BAM 4. HD 2022/664 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/777528200)
 
 Davalı ... Vakfı vekili tarafından sunulan cevap dilekçesinde özetle; diğer davalı ...
 
@@ -144,6 +162,8 @@ Eser, öngörülenden fazla emek ve masrafı gerektirmiş olsa bile yüklenici, 
 Davacı vekilinin İstinaf başvurusunun KABULÜNE, Kayseri 1. Asliye Ticaret Mahkemesinin 2018/751 Esas, 2021/601 Karar sayılı kararının KALDIRILMASINA …
 
 ## İstanbul BAM 53. HD 2022/278 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/834512300)
 
 Uyuşmazlık söz konusu feshin haksız olup olmadığından kaynaklanmaktadır.Anılan Kat karşılığı inşaat sözleşmesinden önce inşaat işlerinin takip edilmesi amacıyla arsa sahibi tarafından davacı yükleniciye 25/09/2006 tarihli (arsa sahibine ait Kadıköy ilçesi, ... mah. ... pafta, ... ada ... parsel sayılı taşınmazla ilgili, mevcut binayı yıktırma, yerine inşaat yapma amacıyla her türlü imar, ruhsat işlemleri, plan, proje evrakları tanzim etme, sunma vs için özel yetki vermiştir.) özel vekaletname verilmiştir. Dosyada mevcut plan ve krokilerden de anlaşılacağı üzere arsa sahibine ait 25 parsel sayılı taşınmazın 4,47,48,49,50 parsel sayılı taşınmazlarla çevrili olduğu, yola mahrecinin olmadığı bellidir. Buna göre sözleşmeye konu taşınmazın imar planı kapsamında olduğu ancak yola mahrecinin bulunmaması nedeniyle imar uygulaması yapılamayacağı belediye yazısından anlaşılmaktadır.Sözleşme yapıldığı sırada imar durumu nedeniyle sözleşmenin konusu tamamen imkansız olmayıp, yapılan sözleşme geçerlidir. Ancak taşınmazın yola mahreci bulunmaması nedeniyle imar uygulaması yapılması mümkün olmayıp buna göre yola mahrecinin olması şartı ile sözleşmenin konusu geçici imkansızdır.
 Sözleşme imzalandıktan yaklaşık iki yıl sonra 21/05/2009 tarihinde arsa sahibi tarafından feshedilmiş, davacılar vekaletten azledilmiştir.Taraflar, sözleşmede bu durumu, inşaat ruhsatının alınmasından önce yapılması gereken işleri öngörmüş olup bunların bir kısmı giderilmeden imar uygulamasının yapılması, inşaat ruhsatının alınması mümkün değildir. Ancak bu eksiklikler giderildikten sonra imar uygulaması yapılarak ruhsat alınabilecektir.

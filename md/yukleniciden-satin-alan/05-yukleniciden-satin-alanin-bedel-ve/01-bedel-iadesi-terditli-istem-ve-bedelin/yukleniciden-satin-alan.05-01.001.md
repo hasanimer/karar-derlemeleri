@@ -40,12 +40,18 @@ Davacı ile yüklenici davalı ... arasındaki satış vaadi sözleşmesinde dav
 
 ## Kayseri BAM 4. HD 2026/228 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1195865000)
+
 Yüklenicinin halefi olarak davacının temlik şartlarının gerçekleşmemesi nedeniyle tapu iptali ve tescile karar verilememesi halinde ise; davacının tazminat talebinin değerlendirilmesi bakımından; davacının tazminat isteminin dayanağı Türk Borçlar Kanunu'nun 112. maddesi olup, buradaki borcun nedeni yüklenicinin taahhüdünü ihlal etmesidir. Borçlunun taahhüdü genellikle bir akde dayandığından buna akdi tazminat, borçlunun sorumluluğuna da akdi sorumluluk denir. Anılan madde gereğince ödenmesi gereken tazminat ise, alacaklının müspet zararıdır. Müspet zarardan, borçlu edayı gereği gibi ve vaktinde yerine getirseydi alacaklının malvarlığı ne vaziyette bulunacak idiyse bu vaziyetle malvarlığının hali hazır vaziyeti arasındaki fark anlaşılmalıdır. Bu şekilde müspet zarar olarak nitelenen dava konusu taşınmazın rayiç değeridir. Somut olayda, davacının zararı sözleşme yerine gelseydi malvarlığına eklenecek tutar kadardır. Bu da taşınmazın dava tarihindeki rayiç değeri olduğundan taşınmazın bedeline hükmedilmesi halinde, taşınmazın dava tarihindeki rayiç değerinin belirlenmesi gereklidir.
 
 ## Ankara BAM 27. HD 2021/704 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/673163400)
+
 ... karşılığı inşaat yapım sözleşmesinin feshi ya da dönme halinde kusura bakılmaksızın taraflar verdiklerini geri isteyebilecekleri ve kat karşılığı inşaat yapım sözleşmelerinde yüklenici arsa sahibinin arsası üzerine inşaat yapmış olup söküp götüremeyeceğinden bedelini arsa sahibinden isteyebilecektir. Kural bedelin fesih-dönmenin kesinleştiği tarihe göre belirlenmesi olup tarafların iradelerinin uyuşmaması halinde fesih kararının kesinleştiği tarihin esas alınması gerekir ise de, tarafların fesih-dönme konusunda iradelerinin birleştiği durumlarda mahkeme kararına ihtiyaç kalmayacağından iradelerin birleştiği tarihin esas alınması gerekmektedir. Bedelin neye göre belirleneceğine gelince, gerek mahkeme kararının kesinleştiği gerekse fesih-dönme iradelerinin birleştiği tarih esas alınsın, bedelin bu tarihlerdeki mahalli piyasa rayiçleri ile hesaplanması gerekir. Mahalli piyasa rayiçleri içerisinde yüklenici kârı ve KDV olacağından bunların piyasa rayiçleri ile belirlenen bedele ayrıca katılması mümkün değildir.(Yargıtay.15. HD....
 
 ## İstanbul BAM 7. HD 2018/149 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/389957400)
 
 Bunun yanında davacının terditli isteminin ilkinin tapu iptal ve tescile yani taşınmazın aynına ilişkin bulunduğu ve taşınmazın aynına ilişkin davalarda dava değerinin davanın açıldığı tarihteki rayiç değeri olduğu göz önünde bulundurularak dava değerinin 10.000 TL olarak gösterilmesi nedeni ile dava değerinin yapılacak keşifle belirlenip harcın tamamlanması gerekirken bu hususta harç tamamlanmadan yargılamaya devam edildiği anlaşılmıştır.

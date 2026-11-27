@@ -22,11 +22,15 @@ uyari: "Derleyenin seçtiği alıntılardır; kararın tamamı değildir. Künye
 
 ## Yargıtay 15. HD 2007/1522 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/858443600)
+
 Yanlar arasındaki 24.07.1996 tarihli düzenleme şeklinde kat karşılığı inşaat sözleşmesinin 5. maddesinde, müteahhidin sözleşmenin imzalanmasından itibaren en geç 3 ay içerisinde inşaatla ilgili temel ruhsatını alacağı ve temel ruhsat tarihinden itibaren en geç 3 ay içinde kat irtifakını kurarak tapuya tescil ettireceği, temelüstü ruhsat tarihinden itibaren de en geç 15 ay içerisinde inşaatı teslim edeceği kabul edilmiş, inşaat süresinde teslim edilmediği takdirde müteahhidin her geçen ay için arsa sahibine ait bağımsız bölümlerin rayiç kira bedeli üzerinden kira tazminatı ödeyeceği taahhüt edilmiştir. Davalı yüklenicinin temerrüdü nedeniyle sözleşmenin feshi talep edildiği ve mahkemece de temerrüt sabit görülerek sözleşmenin geriye etkili biçimde feshine karar verildiği halde, davacı arsa sahibinin BK.nun 106. ve 108. madde hükümleri uyarınca ancak menfi zararlarını talep edebileceği gözetilmeyerek sözleşmede aksine bir hüküm de bulunmadığı halde sözleşmenin 5. maddesi uyarınca müsbet zarar kapsamındaki gecikme tazminatı karşılığı 10.554,00 YTL.ya hükmedilmiş olması doğru görülmemiş, kararın bozulması gerekmiştir.
 
 SONUÇ:Yukarıda 1. bentte yazılı nedenlerle davalının diğer temyiz itirazlarının reddine, 2. bent uyarınca hükmün temyiz eden davalı yararına BOZULMASINA …
 
 ## Yargıtay 15. HD 2007/1291 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/858248500)
 
 Dava, kat karşılığı inşaat sözleşmesinin feshi (dönme), tapu iptâli ve tescil istemlerine ilişkindir.
 
@@ -36,6 +40,8 @@ Davacı arsa sahibi, her ne kadar dava dilekçesinin talep kısmında açık bi�
 
 ## Yargıtay 15. HD 2007/4 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/858020200)
+
 Sözleşmenin 14. maddesine göre oturma ruhsatı müteahhit tarafından alınacak, 15. maddeye göre de inşaat bittiğinde kat irtifakı kurularak yükleniciye ait bağımsız bölümlerin tapusu arsa sahibi tarafından verilecektir. Dava konusu bina ruhsat ve eklerine uygun olmadığından ilgili belediyece durdurulmuş ve 3194 sayılı Yasanın 32. maddesi gereğince ruhsat ve eklerine aykırı kısımların yıktırılmasına karar verilerek 42. madde uyarınca da ilgililer hakkında ceza yaptırımı uygulanmıştır. Dosyada mevcut olan belediyenin cevabi yazı içeriklerinden inşaatın ruhsat ve eklerine dolayısıyla imara uygun hale getirilebileceği, bunun için tadilat projesi yapılması gerektiği anlaşılmaktadır. Davalı arsa sahibi yüklenicinin 19.11.2003 tarihli ihtarına rağmen inşaatın yasal hale getirilmesi, kadastroda cins tashihinin yapılması ve tapu işlemlerinin tamamlanması için vekalet vermeye yanaşmamıştır. Mal sahibinin müracaatından dolayı belediyece tadilat projesi onaylanarak tadilat ruhsatı verilememektedir.
 O halde mahkemece davacı yükleniciye tadilat projesi yaptırarak inşaatı yasal hale getirmesi ve iskân ruhsatını alması için uygun mehil ve yetki verilmeden inşaatın yasal olmadığı gerekçesi ile davacı yüklenicinin kendisine ait bağımsız bölümlerin adına tesciline ilişkin davasının reddedilmiş olması doğru görülmemiş, kararın bozulması gerekmiştir.
 
@@ -44,6 +50,8 @@ Arsa sahibi tarafından yüklenici aleyhine açılan ve asıl dava ile birleşti
 SONUÇ:Yukarıda (1.) bentte yazılı nedenlerle davacı ve karşı davalı yüklenicinin diğer temyiz itirazlarının reddine, (2.) ve (3.) bentlerde açıklanan nedenlerle hükmün temyiz eden davacı ve karşı davalı yüklenici yararına BOZULMASINA …
 
 ## Yargıtay 15. HD 2006/7657 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/865316600)
 
 Kural olarak arsa sahibi davacı yüklenicinin temerrüdü halinde Borçlar Yasası’nın 106. maddesi hükmünde düzenlenen seçimlik haklarından birisi olan “sözleşmenin ifası ile birlikte olumlu zarar kapsamında gecikme tazminatı” isteyebilir. Somut olayda da davacı, yüklenici davalının borçlu temerrüdüne düşmesi sonucu gecikme tazminatı olarak kira tazminatı ödetilmesini istemiştir. Ancak, sözleşme konusu 13 parselde yapılan inşaatın zemin katındaki 2 adet dükkan taraflar arasında yapılan ve kapsamının doğruluğu kabul edilen 07.02.1997 tarihli protokol ile 07.02.1997 tarihinde yüklenici davalı tarafından davacı arsa sahibine fiilen teslim edilmiştir. Yanlar arasındaki sözleşme, hükümlerine göre davacıya teslimi gereken bağımsız bölümlerin teslimi anahtar teslimi şartına bağlı olmadığı gibi; bu dükkanları eylemli olarak tasarruf edemediğini ve buna yüklenici davalının sözleşmeye aykırı eylem ve işlemlerinin sebep olduğunu davacı arsa sahibi yasal delillerle kanıtlayamamıştır.
 Davacının eylemli egemenliğine teslim edilen iki dükkan için 07.02.1997 olan teslim tarihine kadarki süre için gecikme tazminatı belirlenip hükmedilmesi gerekirken, mahkemece yukarıda açıklanan hususlar gözden kaçırılarak 31.07.2000 tarihine kadarki süre için kira tazminatına hükmedilmesi doğru olmamıştır.
@@ -55,6 +63,8 @@ Davacının eylemli egemenliğine teslim edilen iki dükkan için 07.02.1997 ola
 SONUÇ:Yukarıda(1.) bentte belirtilen nedenlerle davalının sair temyiz itirazlarının reddine; (2) bentte açıklanan sebeplerle davalının temyiz itirazlarının kabulüne ve kararın davalı yararına BOZULMASINA …
 
 ## Yargıtay 15. HD 2006/7533 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/16239300)
 
 Davacı taraf, muaraza ve elatmanın önlenmesini istemekle sözleşmeden dönmeyi talep etmiş sayılır.
 
@@ -72,6 +82,8 @@ Sonuç: Temyiz olunan hükmün yukarıda açıklanan nedenlerle davacılar yarar
 
 ## Yargıtay 15. HD 2006/5008 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/859788400)
+
 Davacı arsa sahipleri 19.09.2003 tarihinde açtıkları davada davalı yüklenici ile imzalanan 05.12.1995 tarihli asıl, 05.04.1996 tarihli ek sözleşmeler uyarınca inşaatın 01.06.1996 tarihinden itibaren 33 ay sonunda bitirilip teslimi gerekirken davalının inşaata zamanında başlamadığını, 4 adet ihtar keşide edilmesine rağmen halen de bitiremediğini ileri sürerek davalı ile imzalanan kat karşılığı inşaat sözleşmelerinin feshine, sair dava ve talep haklarının ise saklı tutulmasına karar verilmesini istemiştir.
 
 Davalı cevabında, inşaatların büyük oranda tamamlandığını, 17 Ağustos 1999 tarihinde meydana gelen deprem nedeniyle ortaya çıkan ekonomik krizin kooperatifi etkilediğini, teslim süresinin şifahi olarak uzatıldığını ileri sürerek davanın reddini savunmuştur.
@@ -84,6 +96,8 @@ Alacaklı BK.106/III. maddesine göre fesih hakkını seçtiğinden davanın kab
 SONUÇ:Yukarıda açıklanan nedenlerle hükmün temyiz eden davacılar yararına BOZULMASINA …
 
 ## Yargıtay 15. HD 2006/2469 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/859403300)
 
 Davacı arsa sahipleri, yüklenici davalının sözleşme gereğince yüklendiği edimini ifa etmediğini; inşaatı %22,6 seviyede terk ettiğini ileri sürerek; öncelikle sözleşmenin feshi ile davalı yükleniciye sözleşme gereği temlik olunan ve onun tarafından da diğer davalılara temlik edilen pay kayıtlarının iptaliyle davacılar adına tapuya tesciline, menfi zararlarının ödetilmesine; tapu iptali ve tescile karar verilememesi halinde de temlik olunan arsa payları bedelinin ödetilmesine karar verilmesini istemişlerdir.
 
@@ -98,6 +112,8 @@ Dosya kapsamındaki bilgi ve belgeler ile bilirkişi raporlarından, davalı yü
 SONUÇ:Yukarda (1).bentte belirtilen nedenlerle davacıların sair temyiz itirazlarının reddine, (2).bentte açıklanan sebeplerle de temyiz itirazlarının kabulüne ve kararın davacılar yararına BOZULMASINA …
 
 ## Yargıtay 15. HD 2002/4393 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/16299800)
 
 O tarihte temerrüdün varlığı inşaatın ulaştığı seviye bakımından açıktır. Dolayısıyla fesih istemi yerindedir. Ne var ki halen ulaşılan %70-80 seviye itibariyle davacı taraf temyiz dilekçesinde ileri dönük fesih niteliğinde olarak "sözleşmenin noksanlık oranında" feshi şeklinde istemde bulunmuş olmakla bilirkişi marifetiyle yüklenicinin edimini yerine getirdiği oranda bağımsız bölümün tesbiti ile kalan noksanlar oranında bağımsız bölümün iptaline karar verilmesi gerekirken yazılı şekilde fesih ve iptal talebinin tümden reddi kararlılık kazanan uygulamaya ve kanunda YİBK.na(T.25.1.1984, 5.3/1, Bkz. YKD, Nisan 1984, sy.4) aykırı olmuştur. Bu nedenle kararın bozulması gerekmiştir.
 
@@ -153,6 +169,8 @@ Ankara 3. Asliye Ticaret Mahkemesinin 05/12/2024 gün ve 2023/468 E-2024/898 K s
 
 ## Ankara BAM 27. HD 2026/396 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1204364900)
+
 Sulh Hukuk Mahkemesinin 2019/354 E sayılı dosyası ile dava açtığını, açılan söz konusu davanın reddedildiğini, söz konusu davada verilen kararda müvekkilinin davalı kooperatifle yapmış olduğu sözleşmenin devam ettiğinin açıkça belirtildiğini, tüm bu sebeplerle taraflar arasında yapılmış olan sözleşmenin müvekkil firma tarafından aynen ifasına karar verilmesini talep etme ve sözleşme gereği müvekkiline verilecek olan taşınmazların tapularının iptal edilerek müvekkili adına tesciline karar verilmesini talep etmek gerektiğini önceki müteahhit (...Adi Ortaklığı) tarafından yapılan imalat ve işlerin tespiti için davalı kooperatif tarafından Ankara Batı 2.Sulh Hukuk Mahkemesinin 2016/10 D.iş dosyası üzerinden rapor alındığı, A ve B bloklar için söz konusu bu tespit dosyası raporunda tespit edilen işlerin haricinde kalan imalat ve işlerin tamamının müvekkili tarafından yapılıp tamamlandığını, müvekkilinin Ankara 61.
 Noterliğinin 11.10.2016 tarih ve ... yevmiye sayısı ile davalı kooperatife çekmiş olduğu ihtarname ile davalının sözleşme gereği üzerine düşen edimleri yerine getirmediği ve aynı zamanda A ve B bloklarda yapmış olduğu imalatların bedelinin ödenmesinin ihtar edildiğini, ancak bu ihtara rağmen davalının herhangi bir bedel ödemediğini, davalı tarafından Ankara Battı 3. Sulh Hukuk Mahkemesinin 2017/42 D.İş sayılı dosyası üzerinden yaptırılan tespitin kabulünün mümkün olmadığını, tespitin eksik ve tamamen davalının talepleri doğrultusunda yapıldığını, müvekkil tarafından tespite itiraz edildiğini, müvekkilin yapmış olduğu imalat ve işlerin bedellerinin Bayındırlık Fiyatları üzerinden değil, piyasa fiyatları üzerinden hesaplanması gerektiğini belirterek taraflar arasında yapılmış olan Ankara 3.
 
@@ -165,6 +183,8 @@ Ankara Batı Asliye Ticaret Mahkemesi'nin 07/02/2024 gün ve 2022/469 E- 2024/10
 
 ## İstanbul BAM 15. HD 2026/305 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1199682500)
+
 11.10.2013 tarihli...projesi sözleşme ekinde birim fiyatlar ve toplam bedelleri itibariyle iş bedelinin 127.625,00 USD, 10.06.2014 tarihli sözleşme ekindeki belgeler ve bilirkişi tespiti itibariyle iş bedeli 555.819,00 Usd olduğu, toplam iş bedelinin 683.444,00 USD olduğu anlaşılmaktadır. Taraflar arasında imzalanan sözleşme gereğince, sözleşmelerde iş bedelinin USD cinsinden ve birim fiyat esasına göre metraj üzerinden hesaplanacağı, yapılan imalatlara göre hakediş düzenlenerek sözleşmede öngörülen sürelerde ödeme yapılacağı, işverenin doğmuş alacaklarını yüklenici hakedişinden mahsup edebileceği kararlaştırılmıştır. Davacı tarafından davalıya gönderilen 17.06.2015 tarihli noter ihtarı ile, taraflar arasında imzalanan 11.10.2013 tarihli...Dış Cephe İşleri Yüklenici Sözleşmesi ile 10.06.2014 tarihli ... Dış Cephe İşleri Yüklenici Sözleşmesi kapsamında üstlendiği işleri tamamlayarak teslim ettiğini ileri sürmüş, ... projesinden 25.606,37 USD, ... projesinden 285.175,61 USD olmak üzere toplam 310.781,98 USD bakiye alacağının bulunduğunu bildirerek söz konusu tutarın 7 gün içinde ödenmesini ihtar etmiştir.
 Davalı işveren tarafından 24.06.2015 tarihli cevap ihtarı ile, ... projesi yönünden bakiye borcun 18.653 USD olduğunu önceki beyanlarda kabul ettiklerini, 25.606,37 USD talebinin çelişkili olduğunu belirtmiş; ... projesinde ise işin 20.10.2014 tarihinde tamamlanması gerekirken gecikildiğini, geçici kabul bildiriminde bulunulmadığını, sözleşmenin ceza maddesi uyarınca gecikme nedeniyle azami %10 oranında 39.530,44 USD cezai şart doğduğunu, ayrıca yaklaşık 50.000 TL hasar gideri ile 312.000 TL kira zararı oluştuğunu, bu nedenle talep edilen 285.175,61 USD bakiye alacağı kabul etmediklerini bildirmiştir. Davacı ihtarında toplam 310.781,98 USD talep etmiştir. Davalı, ... 18.653 USD kabul beyanı dışında kalan kısmı reddetmiş; ... projesi yönünden ise cezai şart, hasar ve kira zararını ileri sürerek bakiye alacağı kabul etmemiştir.Dava konusu, İstanbul ...... İcra Müdürlüğü’nün ... Esas sayılı dosyasında alacaklı .... Şti. tarafından borçlu ... .....
 
@@ -172,6 +192,8 @@ Davalı işveren tarafından 24.06.2015 tarihli cevap ihtarı ile, ... projesi y
 99 uyarınca kendisine tanınan yasal seçimlik hakkını Türk Lirası (Ülke parası) yönünde kullandığı anlamına gelmektedir (İstanbul BAM 15. Hukuk Dairesi, 09.11.2021 Tarih, E: 2019/487, K: 2021/2066). Alacaklı tarafından bir kez kullanılan bu seçimlik haktan geriye dönülmesi hukuken mümkün değildir (Yargıtay Hukuk Genel Kurulu, 23.01.2002 Tarih, E: 15-15, K: 19).Ayrıca, itirazın iptali davası niteliği gereği icra takibine sıkı sıkıya bağlı bir davadır ve takipte talep edilen bedelin cinsi ile mahkeme kararı uyumlu olmak zorundadır (Yargıtay 6. Hukuk Dairesi, Tarih belirtilmemiştir, E: Numara belirtilmemiştir, K: 2023/3204). Somut olayda, davacı yüklenici tarafından icra takibine Türk Lirası üzerinden başlatması, itirazın iptalini davasını Türk Lirası üzerinden başlatmış olması itibariyle, TBK 99 maddesi gereğince davacı seçimlik hakkını Türk Lirası olarak kullandığı kabulü gerekir. Mahkemece bu doğrultuda inceleme ve hüküm kurması doğru olmuştur.
 
 ## İstanbul BAM 12. HD 2026/268 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1194054900)
 
 Taşınmazın tapu devri de yapılmadığı anlaşılmakla davacı tarafından davalıya ödenen tutar yönünden davalının itirazının iptali yerindedir. Her ne kadar davalı tarafça, dava dışı arsa sahibi ile aralarındaki sorunları gerekçe göstermiş ise de sözleşme ilişkisi davalı ile davacı arasında olduğundan, dava dışı arsa sahibi ile davalı arasındaki uyuşmazlığın davacıya karşı ileri sürülmesi mümkün değildir.Davalı yetkili icra dairesi tarafından düzenlenen ödeme emrinde asıl alacak ve işlemiş faiz tutarlarının hatalı para cinsi ile gösterildiğini ileri sürmüş ise de yetkili yerde yeni esas alan icra takip dosyası yetkisiz yer açılan icra takibinin devamı niteliğindedir.Yetkisiz icra dairesindeki takip talebi ve ödeme emrindeki asıl alacak ve işlemiş faiz tutarı, yetkili icra dairesi tarafından düzenlenen ödeme emrindeki toplam alacak miktarı ile uyumlu olup, yetkili icra dairesi tarafından düzenlenen ödeme emrindeki hata maddi hataya dayalı olduğu anlaşılmakla davalının aksi yöndeki istinaf nedenleri yerinde değildir. Bununla birlikte dava sebepsiz zenginleşmeye dayalı olarak açıldığından, iyiniyetli zenginleşenin temerrütü için ihtar şarttır.
 Taraflar arasındaki sözleşme resmi şekle uyulmaması nedeniyle geçersiz ise de sözleşmede öngörülen teslim tarihinden sonra da tapuda yapılacak satış sözleşme ile taşınmazın davalıya devrine engel bulunmamaktadır. Bu bakımdan davacı, ödediği bedeli davalıdan talep etmediği, sözleşme ile bağlı olmadığını davalıya ihbar etmediği sürece davalının iyiniyetinin devam ettiğinin, iade etmesi gereken bedel yönünden temerrüte düşmediğinin kabulü gerekir. Sözleşmede uzatma ile birlikte taşınmazın teslim tarihi olarak 30/06/2016 günü belirlenmiş ise de davacının bu tarihin geçmesinden sonra sözleşmeden döndüğüne dair davalıya ihbarda bulunmamış, taraflar arasındaki hukuki ilişki teslim için belirlenen günden sonra da önceki hali ile devam etmiştir. Davacı icra takibi başlayıncaya kadar davalıdan bedel iadesi talebinde bulunmamıştır.

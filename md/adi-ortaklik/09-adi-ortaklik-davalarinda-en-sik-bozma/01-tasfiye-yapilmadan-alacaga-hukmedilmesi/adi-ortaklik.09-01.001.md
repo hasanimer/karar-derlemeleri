@@ -21,9 +21,13 @@ uyari: "Derleyenin seçtiği alıntılardır; kararın tamamı değildir. Künye
 
 ## Yargıtay 3. HD 2026/86 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1198217000)
+
 Her ne kadar Bölge Adliye Mahkemesince; taraflar arasında adi ortaklık ilişkisi olduğu kabul edilerek, taraflar arasında imzalanan sözleşmede vade kararlaştırılmadığından borcun doğduğu anda muaccel olacağı, TBK'nın 146. maddesi gereğinde sözleşmeden kaynaklanan uyuşmazlıklarda on yıllık genel zamanaşımının uygulanacağı, davacının davalıya gönderdiği ihtarnamenin on yıllık zamanaşımı süresi dolduktan sonra gönderildiği ve zamanaşımının dolduğu gerekçesiyle, davacının istinaf başvurusunun reddine karar verilmiş ise de; taraflar arasındaki adi ortaklık olgusunun kesinleştiği, davacının talebinin adi ortaklık kapsamında verilen paranın tahsili istemiyle başlatılan takibe vaki itirazın iptali olduğu, adi ortaklığın tasfiye edildiğine dair bir delil de bulunmadığına göre zamanaşımının işlemeye başlamadığı kabul edilerek sonucuna göre bir karar verilmesi gerekirken, yanılgılı değerlendirme ile yazılı şekilde karar verilmiş olması usul ve kanuna aykırı olup bozmayı gerektirir.
 
 ## Yargıtay 3. HD 2025/1703 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1170257500)
 
 Dairenin 11.03.2024 tarihli ve 2023/3152 E., 2024/1093 K. sayılı ilamıyla; davacı şirket ile davalı arasında Edremit İlçesi, ...Mahallesi, 2526 parselde bulunan arsa üzerine 3 katlı 9 bağımsız bölümden oluşan inşaatın yapılması hususunda sözlü adi ortaklık anlaşması yapıldığı, inşaatın müteahhidi olarak davacı şirketin emeğini de ortaklığa koyduğu, davalının ise arsa sahibi olduğu, yapılan sözlü anlaşma uyarınca 29.08.2005 tarihli ve adî yazılı şekilde yapılan sözleşme ile yapılan inşaattaki 1. kat 5 numaralı dairenin dava dışı ...'a satıldığı ve 21.09.2005 tarihinde de ...'a kayden temlik edildiği, yine 30.09.2005 tarihli ve adî yazılı sözleşme gereğince de inşaattaki 2 nci kat 8 numaralı dairenin ise dava dışı ... 'e satıldığı ve 12.07.2006 tarihinde de ...'e kayden devredildiği, belirtilen bu adî yazılı sözleşmelerde davalı ile birlikte davacı şirketin o tarihteki yetkili temsilcisi olan dava dışı ...'ın da imzası bulunduğu, dava konusu 2 ve 6 nolu bağımsız bölümlerin davacı şirketin o tarihteki yetkili temsilcisi dava dışı...'ın annesi ...'e, 7 nolu bağımsız bölümün de ablası ...'a devredildiği, 1,4 ve 9 nolu bağımsız bölümler ile davalının ortaklığa koyduğu arsası karşılığı 3
 nolu bağımsız bölümün de davalı uhdesinde kaldığı, tarafların sözlü ortaklık uyarınca 1/2'şer oranında pay sahibi oldukları, yönetici ortağın ise davacı şirket olduğu, her ne kadar Mahkemece; dosya kapsamında alınan 29.08.2019 tarihli tasfiye raporu hükme esas alınmak suretiyle davacı şirketin, davalı ortaktan bir alacağının bulunmadığı, davacı ortağın tasfiye sonucuna göre 26.189,66 TL davalı ortağa borçlu olduğunun tespitine yönelik değerlendirme ile yazılı şekilde karar verilmiş ise de, taraflar arasındaki ortaklık faaliyetlerinin kayıt altına alındığı, ortaklık adına tasdik edilmiş ve tutulmuş bir defter bulunmadığı, davacı şirkete ait ticari defterlerin asıl olmayıp fotokopi oldukları, sayfa eksikliği ve kapanış tasdiklerinin bulunmaması nedeniyle bu kayıtların muhasebe usul ve esaslarına uygun olmadığı, bu şekliyle de bilançonun bu kayıtlara göre tespitinin mümkün olamayacağı açık olmakla, dava konusu sözlü ortaklık ilişkisinin davanın açıldığı 02.05.2007 tarihi itibariyle sona ererek tasfiye aşamasına girdiği; ortaklığın tasfiyesi kapsamında öncelikle, ortaklığın malvarlığının paraya çevrilmesinin gerektiği, ortaklığa konu 3 katlı ve 9 bağımsız bölümden oluşan dairelerden
@@ -32,9 +36,13 @@ ve pasif değerleri hesaplanarak, ortaklar tarafından yapıldığı iddia ve is
 
 ## Yargıtay 3. HD 2024/4392 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1122716900)
+
 Hal böyle olunca, İlk Derece Mahkemesince; adi ortaklığın tasfiyesi için öncelikle, ortaklığın kurulduğu tarihten itibaren ortaklığın tüm muhasebesi ile ilgili defterler ve bu defterlerin dayanağı olan belge ve faturaların ibrazının sağlanması, yönetici ortağın belirlenmesinden sonra bu ortaktan yapılan tüm iş ve harcamalar ile gerekli görülecek olan diğer hususlarda hesap listesinin istenilmesi, hesap listesinin verilmemesi halinde yönetici ortağın hesap vermekten kaçınmış sayılacağının kabul edilmesi, hesap listesi verilmesi halinde, defter kayıtları ve diğer belgelerle uyumlu olup olmadığının belirlenmesi, aksi durumda emsal işletmelerin kazanç durumunun araştırılması, ayrıca ortaklığın üçüncü kişilere ve kurumlara olan borcunun olup olmadığının tespit edilmesi suretiyle, güzellik merkezi sektöründe uzman bir tasfiye memurunun da bulunduğu heyetten rapor alınarak tasfiyenin yukarıda açıklanan ve maddeler halinde belirtilen sıra ve yöntem izlenerek yapılması gerekirken, eksik inceleme ve yanılgılı değerlendirme ile yazılı şekilde hüküm tesisi doğru görülmemiş, bozmayı gerektirmiştir.
 
 ## Yargıtay 6. HD 2024/1478 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1094575300)
 
 Dava konusu inşaatın büyük oranda tamamlandığı, yukarıda geçerli olduğu belirtilen 16.11.2015 tarihli daire paylaşımına ilişkin ek sözleşme hükümleri gereği, inşaat seviyesinin %70 üzerinde olması nedeniyle, yüklenici tarafın imalatın geldiği seviye göre arsa sahiplerinden tapu devri talebinde bulunabileceği açıktır. Nitekim, arsa sahipleri savunmalarında, uyuşmazlığın yükleniciler arasında olduğunu, adi ortaklardan ...’a, istediği bağımsız bölümlerin tapularının verildiğini belirtmişlerdir. Bu durumda, yükleniciler ... ile ... arasındaki adi ortaklık ilişkisinin tasfiye edilmesi gerekir.
 
@@ -42,10 +50,14 @@ Hal böyle olunca, mahkemece; 21.01.2015 tarihli arsa payı karşılığı inşa
 
 ## Yargıtay 3. HD 2022/6829 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/862346000)
+
 Hükmüne uyulan bozma ilamında; adi ortaklığın tasfiyesine ilişkin ilk aşamada; ortaklığın sona erdiği tarih itibariyle ortaklığın tüm mal varlığı (aktif ve pasifi ile birlikte) belirlenmesi, yönetici ve idareci ortaktan ortaklık hesabını gösterir hesap istenmesi, verilen hesapta uyuşmazlık çıktığı takdirde, taraflardan delilleri sorularak toplanması, tasfiye memurunun belirlediği malvarlığı bilançosunun taraflara tebliğ edilmesi, tarafların bu husustaki itirazları da karşılanıp, toplanacak delillere göre değerlendirilmesi gerektiği açıkça ifade edilmesine rağmen, tasfiye işleminin bozma ilamında belirtilen sıra ve yönteme göre yapılmadığı; taraflar arasında akdedilen 27/01/2010 tarihli ortaklık sözleşmesi ile asıl ve birleşen davalı vekilinin aşamalarda ileri sürdüğü ve cevap dilekçesinde de dayandığı 2009 tarihli protokol hükümlerinin birlikte değerlendirilmediği, ortaklığa konu olan dava dışı belediyeden alınan ihale işine ilişkin olarak Antakya Belediyesinden dosyaya kazandırılan yazı cevabında ilgili ihale dosyasının Büyükşehir Belediyesinden istenilmesi gerektiği belirtilmesine rağmen söz konusu ihale dosyası dosyaya alınmadan bilirkişilerce tasfiye raporunun düzenlendiği,
 yine aşamalarda asıl ve birleşen dosya davalı vekilince ortaklığa ait olduğu ve tasfiyede hesaba katılması gerektiğini iddia ettiği araçlara ilişkin belediyeden ve ilgili kurumlardan etraflıca araştırma yapılmadan, buna ilişkin kayıtlar dosyaya alınmadan hazırlanan tasfiye raporuna göre değerlendirme yapılarak karar verilmiş olması usul ve kanuna aykırı olup bozmayı gerektirmiştir.
 
 ## Yargıtay 3. HD 2021/5167 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/690045100)
 
 Dava; adi ortaklık sözleşmesinden kaynaklı alacak talebine ilişkindir.
 
@@ -56,15 +68,21 @@ Hal böyle olunca, mahkemece; adi ortaklığın tasfiyesi için öncelikle, orta
 
 ## Yargıtay 3. HD 2020/7894 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/637333700)
+
 Bundan ayrı olarak, bir kısım icra dosyalarının ise davalı tarafından takipsiz bırakıldığı ve alacakların tahsil edilemediği anlaşılmıştır. Bu noktada, adi ortaklıkta özen borcuna yönelik açıklamalarda bulunmak gerekmektedir. TBK'nın "özen borcu" başlıklı 628. maddesi; "Her ortak, ortaklık işlerinde kendi işlerinde olduğu ölçüde çaba ve özen göstermekle yükümlüdür. Her ortak, diğerlerine karşı, kendi kusuruyla verdiği zararları, başka işlerde ortaklığa sağladığı menfaatlerle mahsup ettirme hakkı olmaksızın gidermekle yükümlüdür. Ortaklık işlerini ücret karşılığı yürüten ortak, vekalet hükümlerine göre sorumlu olur." hükmünü içermektedir. Somut olay bakımından davalı, icra dosyalarını takipsiz bırakarak kendi kusurlu davranışı nedeniyle ortaklığa verdiği zararı karşılamakla yükümlüdür.
 
 Hal böyle olunca mahkemece, icra dosyalarından elde edilen alacakların tereddüte mahal bırakmayacak şekilde belirlenerek tasfiye hesabında dikkate alınması, takipsiz bırakılarak tahsil edilemeyen alacakların ise davalının özen yükümlülüğü çerçevesinde değerlendirilerek kar ve alacak hesabının yapılması gerekirken eksik inceleme ve değerlendirme ile karar verilmiş olması usul ve yasaya aykırıdır.
 
 ## Yargıtay 3. HD 2020/7470 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/626876700)
+
 Bütün bu açıklamalar ışığında, mahkemece; davacının, davalı şirket ve bu şirketin ortakları olan diğer davalılar ile termal otel işletilmesi için kurulan adi ortaklığın varlığını kesin delillerden olan yemin delili ile ispat ettiği gözetilerek, adi ortaklığın tasfiyesinin yukarıda açıklanan ve maddeler halinde belirtilen sıra ve yöntem izlenerek yapılması gerekirken, eksik inceleme ve yanılgılı değerlendirme ile davanın reddine karar verilmesi doğru görülmemiş, bozmayı gerektirmiştir.
 
 ## Yargıtay 3. HD 2018/10252 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/470014100)
 
 Tasfiye usulüne veya tasfiye sonucunda her bir ortağa dağıtılacak paya ilişkin olarak doğabilecek uyuşmazlıklar, tarafların anlaşamamaları halinde ilgililerin istemi üzerine hâkim tarafından çözüme bağlanır."Önceki bozma ilamında belirtildiği üzere; birinci aşamada yapılması gereken taraflardan ortaklık hesabını gösterir hesabın istenmediği, delillerin sorularak toplanmadığı, ikinci aşamada; ortaklığın malvarlığına ilişkin satış ve nakde çevirme işleminin, açık artırım ve pazarlıkla satış yöntemleri neticesinde alıcı çıkmaması nedeniyle gerçekleşmediği, dolayısıyla tasfiye bilançosu çıkarılmadığı, tasfiye usulüne uygun sonuçlanmadan, tarafların hak ve yükümlülükleri tespit edilmeden hüküm kurulduğu anlaşılmaktadır.Dosyanın incelenmesinde; mahkemece dava konusu ortaklığa ait işyerinde keşif yapılarak, ortaklığa ait taşınır malların tespit edildiği, keşif ve bilirkişi raporuyla tespit edilen malvarlığının davalıya 28/06/2013 tarihli yediemin teslim tutanağı ile davalıya teslim edildiği, bozma sonrası tasfiye memuru tarafından yapılan 06/05/2015 tarihli tespitte, işyerinin kapalı olduğu, davalının eşyaların başka yerlerde bulunduğunu beyan ettiği, bunun üzerine 3 farklı adreste tespit
 yapıldığı, eksik malların davalıdan sorulması üzerine, davalının bir kısım malların aradan geçen sürede eskidiğinden kullanılmaz hale geldiğini, bir kısmının bedelsiz olarak dağıttığını beyan ettiği, tasfiye memurunca büyük çoğunluğunun kırık ve hasarlı olduğunun tespiti yapıldığı, ardından dava dışı yedi emine teslim edildiği görülmektedir. Adi ortaklığa ait malların tarafların anlaşmasına göre paylaşılabileceği gibi bütün malvarlığı ortaklardan birine bırakılabilir. Bu kapsamda malvarlığı değerini belirlendiğinden diğerine ödenecek denkleştirme miktarı da tespit edilebilecektir. Mahkemece taraflara bu yönde tercihlerinin hatırlatılması gerekmektedir. Tarafların paylaşma ve ortaklardan birine bırakılması konusunda anlaşması halinde tasfiyeye bu şekilde gidilmelidir. Aksi takdirde satış suretiyle tasfiyenin neticelendirilmesi ve satış masraflarının satış bedelinden düşüldükten sonra hesaplama yapılacaktır. Bu kapsamda daha önce tespiti yapılan malvarlığı değerlerinin kullanılmaz hale gelenler ve bulunmayanlar yönünde ise kendisine yedi emin olarak teslim edilen davalının sorumluluğu bulunmaktadır.
@@ -73,13 +91,19 @@ O halde; mahkemece; davalının yedieminliği döneminde kullanılmaz hale gelen
 
 ## Yargıtay 3. HD 2018/8261 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/452616400)
+
 Bütün bu açıklamalar ışığında, mahkemece; davalının yönetici ortak olduğu ve sözleşmede 09 D 7041 plaka nolu aracın davacı tarafından alındığı belirtildiği ve davalının bu duruma karşı çıkmadığı da dikkate alınarak, taraflar arasında geçerli bir adi ortaklık ilişkisinin kurulduğunun kabulü ile talebe konu geçmiş yıllara ilişkin ödenmeyen tamir ve bakım masrafları olup olmadığının tespiti ile tasfiyeye ilişkin uyuşmazlığın yukarıda açıklanan ve maddeler halinde belirtilen sıra ve yöntem izlenerek çözümlenmesi suretiyle hasıl olacak sonuç dairesinde bir hüküm tesis edilmesi gerekirken, bu şekilde bir inceleme ve değerlendirme yapılmadan, eksik inceleme ile yazılı şekilde hüküm tesisi usul ve yasaya uygun görülmemiş, bozmayı gerektirmiştir.
 
 ## Yargıtay 3. HD 2017/14224 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/372486000)
+
 Bütün bu açıklamalar ışığında,mahkemece; taraflar arasında geçerli bir adi ortaklık ilişkisinin kurulduğunun kabulü ile talebe konu geçmiş yıllara ilişkin ödenmeyen kâr payı olup olmadığının tespiti ile tasfiyeye ilişkin uyuşmazlığın yukarıda açıklanan ve maddeler halinde belirtilen sıra ve yöntem izlenerek çözümlenmesi suretiyle hasıl olacak sonuç dairesinde bir hüküm tesis edilmesi gerekirken, bu şekilde bir inceleme ve değerlendirme yapılmadan, TBK 642 ve devamı maddelerine uygun olarak tanzim kılınmamış ve denetime elverişli olmayan bilirkişi raporuna dayalı olarak, eksik inceleme ile yazılı şekilde hüküm tesisi usul ve yasaya uygun görülmemiş, bozmayı gerektirmiştir.
 
 ## Yargıtay 3. HD 2016/6120 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/208886900)
 
 O halde adi ortaklığın tasfiyesi ya ortakların anlaşması suretiyle ya da bizzat mahkemece yapılır. Bunun dışında bir olanak yoktur.
 
@@ -87,12 +111,16 @@ Mahkemece bozma ilamında belirtilen sıra ve yöntem izlenerek tasfiye memurunu
 
 ## Yargıtay 3. HD 2014/14057 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/472824900)
+
 Bir davada, menfaat (hukuki yarar) ilkesinin dava şartı olarak gözetilmesi, yargılamanın amacına ve usul ekonomisi ilkesine uygun olarak yargılama yapılmasına yarar sağlayacağı, her türlü duraksamadan uzaktır.Bu ilkeden hareketle, davada menfaatin varlığı, mahkemece, taraflarca dava dosyasına sunulmuş deliller, olay veya olgular çerçevesinde, kural olarak davanın açıldığı tarihe göre, kendiliğinden ve yargılamanın her aşamasında gözetilmesi gerekir. Bu sayede, iç hukukumuzun bir parçası olan Avrupa İnsan Hakları Sözleşmesi (İnsan Hakları ve Temel Özgürlüklerin Korunmasına İlişkin Sözleşme)'nin 6.maddesi ve 1982 Anayasası'nın 36.maddesinde düzenlenen "hak arama özgürlüğü"nün dürüstlük kuralına uygun kullanılması sağlanmaktadır. Dolayısıyla haksız davalar açmak suretiyle, dava hakkının kötüye kullanılmasına karşı bir güvence olduğu da söylenebilir.Bilindiği üzere, davacının dava hakkına sahip olması yeterli değildir. Bundan başka, davanın açılmasında hukuki bir yararın bulunması da gerekir. Buna hukuki korunma (himaye) ihtiyacı da denir ... ). Mahkemelerden hukuki himaye istenmesinde, himayeye değer bir yarar olmalıdır (HGK'nun 24.06.1992 gün ve 1992/1-347 E.-394 K.;
 30.05.2001 gün ve 2001/14-443 E.-458 K. sayılı ilamları).Davacı tarafın davalı tarafın icra takibine yönelik itirazının iptalini talep edebilmesi için davalının icra takibine usulü dairesinde süresi içerisinde itiraz etmiş olması ve takibin durmuş olması gerekir.
 Aksi halde davacının itirazın iptali davasını açmakta hukuki yararının bulunduğunun kabulü mümkün değildir.Somut olayda her ne kadar mahkemece davacının ortaklık bedeli nedeniyle ödediği paranın ortaklığın tasfiyesi talep edilmeden diğer ortaktan istenilmesinin mümkün olmadığı ve bu haliyle açılan davada hukuki yarar bulunmadığından ortaklığa verilen paranın ortaktan talep edilmesinde husumette düşmeyeceğinden davanın reddine karar verilmiş ise de bu husus doğru görülmemiş; bu hususun düzeltilmesi yeniden yargılama yapılmasını gerektirmediğinden "davacının ortaklık bedeli nedeniyle ödediği paranın ortaklığın tasfiyesi talep edilmeden diğer ortaktan istenilmesinin mümkün olmadığı ve bu haliyle açılan davada hukuki yarar bulunmadığından ortaklığa verilen paranın ortaktan talep edilmesinde husumette düşmeyeceğinden" ifadesi çıkartılarak "yasal süresi içerisinde davalı tarafça icra takip dosyasına yönelik usul ve yasaya uygun itirazın olmaması ve takibin durmaması nedeniyle davacının dava açmakta hukuki yararı bulunmadığından davanın reddine" ifadesinin gerekçeye yazılmak suretiyle gerekçenin düzeltilmesi ve düzeltilmiş bu şekliyle ONANMASINA, 23.10.2014 günü oybirliğiyle karar
 verildi.
 
 ## Yargıtay 7. HD 2013/20151 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1148660100)
 
 Dava, adi ortaklıktan kaynaklanan alacak ve adi ortaklığın tasfiyesi istemine ilişkindir.
 
@@ -103,9 +131,13 @@ Bu hususta taraflardan delil ve karşı delilleri alınarak değerlendirme yapı
 
 ## Yargıtay 23. HD 2013/2837 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/486946700)
+
 Anılan davadan sonra ... Asliye Ticaret Mahkemesinin 2011/163 E. sayılı dosyası ile adi ortaklığın feshi ve tasfiyesi için dava açıldığı ve halen derdest olduğu anlaşılmaktadır. Hal böyle olunca dava konusu bağımsız bölümlerin hangi tarafa ait olacağı hususunun belirlenmesi için adı geçen adi ortaklığın feshi ve tasfiyesi davasının sonucunun beklenmesi ve sonucuna göre bir karar verilmesi gerekirken, uyuşmazlığın çözümü ortada bırakılacak şekilde davanın reddi usul ve yasaya aykırıdır.
 
 ## Yargıtay 7. HD 2013/726 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/407183800)
 
 Dava adi ortaklık kâr payının davacıya isabet eden tutarının davalıdan tahsili istemine ilişkindir.
 
@@ -116,16 +148,22 @@ O halde, "Çoğun içinde azı da vardır" kuralı gereğince ortaklık ilişkis
 
 ## Yargıtay 13. HD 2012/7373 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/756842500)
+
 Adi ortaklığın ne şekilde sona ereceği B.K.' nun 535. maddesinde, tasfiyenin nasıl ve kimler tarafından yapılacağı da B.K.' nun 538. ve devamı maddelerinde gösterilmiştir. Mahkemece adi ortaklığın feshine karar verildiğinde, ortaklığın mal varlığının ne şekilde tasfiye edileceği karar yerinde gösterilmeli ve tasfiye mahkemece bizzat yapılmalıdır.
 
 Bu ilkeler ışığında, taraflar arasında tasfiye konusunda herhangi bir sözleşme bulunmadığından adi ortaklığın geliri, gideri ve borçları tek tek hesaplanmak suretiyle BK. 538 ve devamı maddeleri gözetilerek, otoparkın 3. şahsa devredildiği 15.12.2009 tarihi itibarı ile tasfiye yapılarak, sonucuna göre karar verilmesi gerekirken mahkemece eksik inceleme ve yanlış değerlendirme sonucunda yazılı şekilde karar verilmesi usul ve yasaya aykırı olup, bozmayı gerektirir.
 
 ## Yargıtay 13. HD 2012/5383 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/746617200)
+
 Dosya kapsamına göre ; taraflar aralarında bir adi ortaklık ilişkisi mevcut olup bu husus esasen mahkemenin de kabulündedir. Ne var ki bu kabule göre; Adi ortaklık ilişkisinin, “yalnızca ortaklığın tasfiyesine karar verilerek ” tasfiyesi düşünülemez. Mahkemece tasfiyeye ilişkin işlemin bizzat yapılması gerekmektedir. BK.nun 538. maddesinde belirtildiği gibi tasfiye, bütün hesapların görülüp ortaklığın aktif ve pasif bütün mal varlığının belirlenip ortakların birbirleri ile alacak verecek ve ortaklıktan dolayı tüm ilişkilerinin kesilmesi yoluyla ortaklığın sona erdirilmesi, malların paylaşılması, ya da satış yoluyla elden çıkarılmasıdır. Ortaklık sözleşmesinde hüküm bulunduğu takdirde tasfiyenin bu sözleşmedeki hükümlere göre yapılması asıldır. Böyle bir hükmün bulunmaması halinde ise tasfiyenin bu defa BK.nun 539. maddesindeki sıra takip edilerek yapılması gereklidir.
 Tasfiye için öncelikle yönetici ortaktan hesap listesi istenmesi, tayin edilecek süre içinde hesap listesinin verilmemesi halinde yönetici ortağın hesap vermekten kaçınmış sayılacağı kabul edilerek, buna göre tasfiye işlemlerinin yapılması gerekirken, dava konusu olayda mahkemece ortaklığın tasfiyesine denilmek suretiyle yetinilmesine karar verilerek böyle bir usulün izlenmemiş olduğu görülmekte olup, mahkeme hükmünün Borçlar Kanununun adi ortaklığa ilişkin hüküm ve düzenlemelerine aykırı olduğu anlaşılmaktadır.
 
 ## Yargıtay 13. HD 2011/1578 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/17100200)
 
 Tarafların 21.04.1984 tarihli sözleşme ile eşit hisse İle inşaat yapımı üzerine N... İnşaat adlı adi ortaklık kurdukları, 15.11.1988 tarihli sözleşme İle de ortaklığa üçüncü bir kişi alıp 1/3'er hisseli olarak 21.11.1991 tarihine kadar yürüttükleri, üçüncü ortağın ayrılması ile tarafların eşit hisseli olarak ortaklığı yürüttükleri, 17.05.1995 tarihinde tarafların limited şirket kurdukları ve bu şirketin de fesih ve tasfiyesine ilişkin kararın kesinleştiği dosya kapsamından anlaşılmaktadır. BK'nın 538. maddesinde belirtildiği gibi tasfiye, bütün hesapların görülüp ortaklığın aktif ve pasif bütün mal varlığının belirlenip ortakların birbirleri ile alacak verecek ve ortaklıktan doğan tüm ilişkilerinin kesilmesi yoluyla ortaklığın sona erdirilmesi, malların paylaşılması ya da satış yoluyla elden çıkarılmasıdır. Ortaklık sözleşmesinde hüküm bulunduğu takdirde tasfiyenin sözleşmedeki hükümlere göre yapılması asıldır. Böyle bir hükmün bulunmaması halinde İse tasfiyenin bu defa BK'nın 539. maddesindeki sıra takip edilerek yapılması gereklidir.
 Dava konusu olayda sözleşmede tasfiye ile İlgili özel bir hüküm bulunmadığından tasfiyenin BK'nın 539. ve devamı maddelerine göre yapılması zorunlu olup, bunun için mahkemece öncelikle yönetici ortak olan davalıdan, kurulduğu tarihten itibaren ortaklığın tüm muhasebesi ile ilgili defterler ve ortaklıkla ilgili tüm belge ve faturaların ibrazı ile ortaklıkla ilgili hesap listesi istenilmeli, ortakların gerek tasfiye şekli gerekse hesap listesi üzerinde uyuştukları ve uyuşamadıkları noktalar saptanmalı, uyuşamadı ki arı noktalarda tarafların delil ve karşı delilleri sorulup toplanmalı, yönetici ortağın hesap listesi vermemesi durumunda hesap vermekten kaçındığı kabul edilmeli, bu durumda mevcut delillere göre hüküm kurulmalı, ortaklığa ait tüm gelir gider hesabı çıkarıldıktan, ortaklığın tüm aktif ve pasifi kesin olarak belirlendikten sonra ortaklığın varsa üçüncü kişilere veya kurumlara olan borçları ortaklığın aktifinden mahsup edilmeli, ortaklardan her birinin ortaklığa verdiği avanslarla, ortaklık için yapmış oldukları masraflar ve vermiş oldukları sermaye iade edilmeli, bundan sonra varsa kalan miktar ortaklar arasında paylaştırılmalı, tasfiye bu şekilde tamamlanmalıdır.
@@ -137,10 +175,14 @@ Tüm bu açıklamalar ışığında taraf iddia ve delilleri değerlendirilerek,
 
 ## Yargıtay 13. HD 2008/12708 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/845914400)
+
 Tarafların noterde 27.6.2002 tarihli sözleşme ile ... Lokantasının işletmeciliği konusunda adi ortaklık yaptıkları, davacının %25, davalının ise %75 oranında paylarını olduğunu, davalının yönetici ortak olduğu,davacının mahkeme aracılığı ile yaptırdığı tesbite göre işletmenin zarar ettiği hususları taraflar arasında ihtilaflı değildir. Davacı, kar payının tahsili ve yönetici olarak atanması için eldeki davayı açmıştır.Davalı ibraz ettiği 4.4.2004 tarihli sözleşme ile adi ortaklığın fesih ve tasfiyesine karar verildiğini,fesih ve tasfiyesinin buna göre yapılması gerektiğini, davanın yersiz olduğunu savunmuştur. Mahkemece taraflar arasında imzalanan fesih sözleşmesine göre adi ortaklığın fesih ve tasfiyesine, ancak tasfiyenin tayin edilen memur eliyle yapılmasına karar verilmiştir.Davalı tarafından dosyaya ibraz edilen ve davacı tarafça imzası inkar edilmeyen 4.4.2004 tarihli fesih sözleşmesi içeriğine göre işletmedeki malzemenin satış bedelinin adi ortaklık hisseleri oranında taksimi kararlaştırılmıştır.
 Mahkemece, tarafların hazırladığı adi ortaklığın feshine ilişkin protokole göre tasfiyenin yapılması için taraflara süre verilmesi ve bu süre zarfında ortakların tasfiye hususunda anlaşamamaları halinde tasfiyenin mahkemece yapılması gerekir. Yine fesih protokolüne göre tasfiyenin sağlanamaması halinde BK.520 ve devamı maddelerindeki sıranın takip edilerek tasfiyenin mahkeme tarafından yapılması gerekirken yazılı şekilde karar verilmesi usul ve yasaya aykırı olup bozmayı gerektirir.
 
 ## Yargıtay 13. HD 2008/10164 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/16641500)
 
 Dava, adi ortaklığın fesih ve tasfiyesine ilişkin olup, fırın işletmeciliği ile ilgili adi ortaklığın davacı ile davalı arasında değil, davacının murisi Selma ile davalı arasında kurulduğu mahkemece uyulan bozma ilamında açıkça belirtilmiştir.
 

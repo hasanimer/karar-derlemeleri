@@ -21,6 +21,8 @@ uyari: "Derleyenin seçtiği alıntılardır; kararın tamamı değildir. Künye
 
 ## Yargıtay 23. HD 2014/6429 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/117917700)
+
 Davacılar vekili, müvekkilleri ile davalı yüklenici arasında arsa payı karşılığı inşaat sözleşmesi yapıldığını, sözleşmeye göre, müvekkillerine ait ..... Mah. 208 ada 67 parsel sayılı taşınmazın aynı yer 24 parsel sayılı taşınmazla ifraz ve tevhidi ile meydana gelecek yeni taşınmaz üzerinde yapılacak bloklardan C bloktaki 2. ve 3. kat köşe dairelerin müvekkillerine verilmesinin kararlaştırıldığını, anılan sözleşmenin 4. maddesine göre, inşaata başlama tarihinin 30.08.2001 olarak belirlendiğini, yüklenicinin bu tarihten itibaren 48 ay içerisinde inşaatı tam ve eksiksiz olarak teslim etmeyi taahhüt ettiğini, gecikme durumunda her bir daire için aylık 300 Alman Markı kira tazminat ödenmesinin öngörüldüğünü, davalının yükümlülüklerini yerine getirmediği gibi, kira tazminatı da ödemediğini, anılan sözleşmenin 21. maddesine göre, arsa sahipleri A..
 
 …
@@ -39,6 +41,8 @@ SONUÇ :Yukarıda (1) numaralı bentte açıklanan nedenlerle, davalı vekilinin
 
 ## Yargıtay 23. HD 2013/1307 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/477315800)
+
 Davacı yüklenici vekili, müvekkilinin .../02/2008 tarihli arsa payı karşılığı inşaat sözleşmesi gereğince tüm yükümlülüklerini yerine getirdiğini inşaatların 05/02/2009 tarihinde tamamlandığını , mal sahiplerinin dairelerde oturmaya başladıklarını, iskan izni için başvurduğunu ancak davalıların balkonları kapatmaları ve bu nedenle tadilat projesi yapmaları nedeniyle iskan izninin alınamadığını, müvekkiline verilmesi gereken iki dairenin tapusunu haksız olarak vermediklerini ileri sürerek, dava konusu gayrimenkul üzerinde bulunan B Blok ..., B Blok 2no’lu bağımsız bölümlerin tapularının iptali ile müekkili adına tapuya tesciline karar verilmesini talep ve dava etmiştir.
 
 …
@@ -53,6 +57,8 @@ Bunun yanında harcı yatırılarak açılmış her dava müstakil dava niteliğ
 SONUÇ: Yukarıda (...) numaralı bentte açıklanan nedenlerle, taraf vekillerinin diğer temyiz itirazlarının reddine, (...) numaralı bentte açıklanan nedenlerle taraf vekillerinin temyiz itirazlarının kabulü ile hükmün BOZULMASINA …
 
 ## Yargıtay 1. HD 2012/12430 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/79294100)
 
 Dava, muris muvazaası hukuksal nedenine dayalı tapu iptali-tescil, aksi takdirde tenkis isteğine ilişkindir.
 
@@ -70,6 +76,8 @@ Davalıların açıklanan nedenlere değinen temyiz itirazları yerindedir. Kabu
 
 ## Yargıtay 15. HD 2012/7979 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/517297000)
+
 Davacı arsa sahipleri tarafından tapu tamamen kooperatife devredilmiş olmakla sözleşmeye dayalı olarak açılan iş bu dava kapsamında müstakilen davacılara ait olacak bağımsız bölümler ile davacıların sözleşme gereği %20 pay talep edebilecekleri bağımsız bölümlerin ayrı ayrı belirlenmesi ve infazı kabil olacak şekilde tescil hükmü kurulması gerekir. Bina ön ve arka cephesinden 4 adet dairenin davacılara teslim edildiği ihtilâfsız olup, davacılar bu dairelerle ilgili olarak açtıkları davadan feragat ettiklerini bildirdiklerinden mahkemece yeniden oluşturulacak bilirkişi kurulundan rapor alınarak inşaatın fiili durumuna göre her katta kaç bağımsız bölüm olduğunun, her bir bağımsız bölüme isabet eden arsa paylarının kat irtifakı kurulmasına esas olacak şekilde belirlenmesi ve bilirkişilere bağımsız bölüm listesi düzenlettirilmesi gerekir. Bu bağımsız bölüm listesine göre davacılara teras katta yapılan 4 adet çekme kattan hangisini tercih ettikleri sorularak belirlenmeli, bu daire ile yine terasta yer alan üç adet dairenin ve bodrum katta fazladan yapılan bir adet bağımsız bölümün %20 paylarına isabet eden arsa payları toplamının davacılar adına tesciline karar verilmesi gerekir.
 
 …
@@ -77,6 +85,8 @@ Davacı arsa sahipleri tarafından tapu tamamen kooperatife devredilmiş olmakla
 SONUÇ: Yukarıda 1. bentte yazılı nedenlerle davalının diğer temyiz itirazlarının reddine, hükmün 2. bentte açıklanan nedenlerle BOZULMASINA …
 
 ## Yargıtay 23. HD 2012/6756 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/554754200)
 
 Davacı vekili, müvekkiline tüm yükümlülüklerini yerine getirmesine rağmen ortağı olduğu kooperatifçe tahsis edilen A1 Blok 22 nolu dairenin tapusunun verilmediğini, taşınmazın önce davalılardan yüklenici olan ...'ın uhdesine geçirilip, sonra ferdileşme ile eşi diğer davalı ... adına tapu oluşturulduğunu,...'in sonrasında taşınmazı satımı ile de davalı ... adına tescil edildiğini, ...'nin iyiniyetli olmadığını, ... ve....'in kooperatifin yöneticileri olduğunu,...'ın davacının ödeme yapması halinde bu dairenin teslimini taahhütname ile yükümlendiğini, tüm davalıların haksız ve kötüniyetli hareket etmek suretiyle müvekkilinin zararına olan bu duruma sebebiyet verdiklerini ileri sürerek, öncelikle söz konusu taşınmaza ilişkin tapunun iptali ile müvekkili adına tescilini, mümkün olmadığı takdirde 100.000,00 TL tazminatın davalılardan müştereken ve müteselsilen tahsilini talep ve dava etmiştir.
 
@@ -94,6 +104,8 @@ SONUÇ: Yukarıda (1) numaralı bentte açıklanan nedenlerle, davalı ... vekil
 
 ## Yargıtay 15. HD 2010/2505 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/775504000)
+
 Mahkemece inşaatın ruhsat ve projesine uygun olarak yapılıp tamamlandığı gerekçesiyle davanın reddine karar verilmiş, verilen karar davacı vekilince temyiz edilmiştir.
 
 …
@@ -105,6 +117,8 @@ Yapılan bir inşaattaki dairelerin müstakil otoparklı olması ve bu hususun t
 SONUÇ: Yukarıda 1. bentte yazılı nedenlerle davacının sair temyiz itirazlarının reddine, 2. bent uyarınca hükmün temyiz eden davacı yararına BOZULMASINA …
 
 ## Yargıtay 1. HD 2009/7601 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/78357300)
 
 Davacı, 4664 ada. Parsel sayılı taşınmazın paydaşı olup, yüklenici firma ile inşaat yapım sözleşmesi imzalandığını, inşaat işlerinde yardımcı olan ve çeşitli davalarda kendisini temsil eden Av. ve davalı oğlunun inşaat için alındığını düşündüğü sağlık kurulu raporunu kullanarak firma ile sözleşme yaptıkları aynı gün, aynı anda sözleşmede kendisine verilen. Nolu dükkan için bilgisi dışında davalı lehine gayrimenkul satış vaadi sözleşmesi yaptıklarını, aynı tarihde davalının babası .
 
@@ -129,6 +143,8 @@ Davalının, temyiz itirazları yerindedir. Kabulüyle, hükmün HUMK.'nun 428.m
 
 ## Yargıtay 15. HD 2008/1095 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/858541500)
+
 Getirtilen tapu kayıtlarına göre, taşınmazın kayıtlarında kat irtifakı veya kat mülkiyeti kurulmamıştır. Davada, sözleşme dışı yapılan katlarda davacının arsa payına isabet eden kısmının tapusunun iptâli ile davacı adına tescili istenmişse de; yukarıda açıklandığı üzere, inşaatın yapıldığı (21) parsel sayılı taşınmaza taraflar müşterek paydaş olarak maliktirler. Yanlar arasındaki sözleşme, niteliğince “arsa payı karşılığı inşaat sözleşmesi” olduğundan Türk Medeni Kanunu’nun 706, Borçlar Kanunu’nun 213, Tapu Kanunu’nun 26 ve Noter Kanunu’nun 60. maddesi gereğince, zorunlu şekil koşuluna uygun olarak yapılması gerekir ise de; yüklenici, yapımını yüklendiği inşaatı tamamen yapmış bulunduğundan adi yazılı şekilde yapılan sözleşme tarafları bağlayıcı nitelik kazanmıştır (TMK. md.2).
 
 Yanlar arasındaki sözleşmede, sözleşme dışı yapılan bağımsız bölümlerin paylaşım şekli ve oranı kararlaştırılmadığından kural olarak sözleşme dışı yapılan bağımsız bölümlerin yanlar arasında %50 oranında paylaşılması gerekir ise de; davada inşaat yapılan (21) numaralı parseldeki pay oranına göre sözleşme dışı bağımsız bölümlerin paylaşılması istendiğinden HUMK’nın 74. maddesi gereğince taleple bağlı kalınarak sözleşme dışı bağımsız bölümlerin taraflar arasındaki paylaşımının 851/2400 pay oranına göre yapılması gerekmektedir. Sözleşme dışı yapılan bağımsız bölümlerin arsa payları bulunmadığından ve HUMK’nın 388 ve 389. maddeleri gereğince mahkeme kararının uygulamada tereddüt oluşturmayacak ve uygulanabilir şekilde verilmesi gerektiğinden yasal olarak yapıldığı anlaşılan inşaattaki bağımsız bölümlerle bağlantılı ve kat irtifakının kurulmasına esas olacak şekilde kat irtifakı arsa paylarının uzman bilirkişi kurulu aracılığıyla yerinde keşif yapılmak suretiyle belirlenmesi ve paylaşım oranı da gözetilerek dava konusu sözleşme dışı yapılan bağımsız bölümlerin davacıya isabet edecek paylarının iptâl ve tesciline karar verilmesi gerekmektedir.
@@ -137,6 +153,8 @@ Mahkemece yukarıda açıklanan hususlar gözetilmeden yazılı gerekçelerle da
 SONUÇ:Yukarıda açıklanan sebeplerle, davacı vekilinin temyiz itirazlarının kabulüne ve kararın davacı yararına BOZULMASINA …
 
 ## Yargıtay 1. HD 2006/13294 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/78162000)
 
 Davacılar, müştereken maliki oldukları ...ada ..parsel sayılı taşınmazın davalıların ..no’lu parseli ile birleştirilerek üzerine bina inşa edilmesi için dava dışı yüklenicilerle sözleşme düzenlediklerini, ancak yüklenicinin inşaatı yarım bırakması nedeniyle açtıkları sözleşmenin feshi ve tapu iptal-tescil davasının kabulüne karar verilerek yeniden adlarına tescili sağladıklarını, davalıların her iki parsel üzerindeki binayı halihazır durumu ile kullandıklarını, kendilerinin taşınmazdan faydalanmalarını engellediklerini ileri sürüp elatmanın önlenmesi, yıkım ve ecrimisil istemişlerdir.
 
@@ -154,6 +172,8 @@ Bu durumda, her iki parsel, inşaat öncesi tevhid edilmediğine göre, müstaki
 
 ## Yargıtay 15. HD 2006/3632 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/859615500)
+
 Davalı yüklenici işin yapımına başlamış kendi edimini önemli oranda ifa etmiştir. İnşaatta henüz kat irtifakı kurulmamış, tüm bağımsız bölümlerin paylaşımı yapılmamıştır. Paylaşım şeklinin nasıl olacağı davacıya isabet edecek bağımsız bölümlerin nereden verileceği ek sözleşmenin 2. maddesinde açıkça tanımlanmıştır.
 
 …
@@ -162,10 +182,14 @@ SONUÇ:Yukarıda yazılı nedenlerle kararın BOZULMASINA …
 
 ## İstanbul BAM 17. HD 2022/1494 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/839910800)
+
 Somut olayda, davalı kooperatife ait taşınmazın, müstakil tapusu olan tek bir taşınmaz olmadığı, dağınık ve ayrı parseller şeklinde yaklaşık 29.267 m2 yüzölçümlü 47 adet parselden oluştuğu, Karma Büyük Proje alanı içerisinde yer alan bir kısım taşınmazların davalı kooperatife ait olduğu, bir kısım taşınmazların ise kooperatif üyelerinin şahsi taşınmazı olduğu, kooperatif tarafından yükleniciye teslim edilen arsalar üzerine 244 adet bağımsız bölümün yapılmasının ana amaç olmadığı, ana amacın, kooperatife ve üçüncü kişilere ait arsaların tevhid/ifraz edilmesi ile oluşacak karma büyük proje arsaları üzerinde 244 adet bağımsız bölümün yapılması olduğu, Karma Büyük Proje alanı içerisinde yer alan aynı zamanda kooperatif üyesi olan arsa sahiplerinin hisselerinin alımı konusunda 750.000 USD karşılığında anlaşmaya varılması karşısında kooperatife düşecek her bir bağımsız bölümün de 250.000 USD bedelle alımı garanti edilmiş olup bağımsız bölümlerin yükleniciye satılması gibi bir zorunluluğun bulunmadığı, aynı zamanda kooperatif tarafından istinafa cevap dilekçesinde sunulan yüklenici ile imzalanan 22/04/2019 tarihli "Ek Protokol (İş Planı)" başlıklı belgenin 5. maddesinde, 250.000 USD'nin,
 fiili ödeme tarihinin baz alınarak ödeneceğinin taahhüt edildiği, SPK onaylı ...
 
 ## İstanbul BAM 15. HD 2021/2106 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/705314600)
 
 Blok (... ada ... parsel) yerinin davacı kooperatifte teminat olarak kalacağının düzenlendiğini, Sözleşmede, yüklenicinin sözleşmenin D-maddesinde belirtilen yükümlülükleri yerine getirmeyi ve müvekkili Kooperatife ait olan ..., ..., ..., ..., ... ve ... blokları, altyapı tesisleri (elektrik, su, telefon, aydınlatma, çevre düzenlemesi) müstakil bölüme ait tüm blokların, yağmur suyu kanalları ve bu müstakil blokları çevreleyen bütün yolları ile birlikte tamamlanmış olarak 31/03/2003 tarihinde müvekkiline teslim edeceğinin düzenlendiğini, yüklenicinin sözleşmenin D-maddesinde belirtilen yükümlükleri yerine getirmeyi ve işi 31/03/2003 tarihinde anahtar teslim olarak teslim etmeyi kabul ve taahhüt ettiğini, aynı sözleşmenin D/f fıkrasında inşaatların plan, proje ve teknik şartnameye uygun olarak yapacağını kabul ve taahhüt ettiğini, davalının bu blokları süresinde teslim etmediğini, bu blokların inşaat ruhsatının 17/03/2006 tarihinde, kullanma izin belgesinin de 10/07/2006 tarihinde bütün harçları müvekkili kooperatif tarafından yatırılarak alındığını, bu blokların inşa edildiği ve tamamlandığı tarihte ruhsat ve onaylı projelerinin bulunmadığını, davalı yüklenicinin özen borcuna
 aykırı, tamamen gayri yasal olarak inşaat yaptığını, bu bloklarla ilgili projelerin, ruhsatların iskan ruhsatından kısa bir zaman önce yapıldığını ve ruhsat alındığını, bütün bu iş ve işlemlerin müvekkili kooperatif tarafından yapıldığını ve masraflarının da müvekkili kooperatif tarafından karşılandığını, ana sözleşmenin D/b fıkrasında, davalı yüklenicinin inşaat işletme bütünlüğünün sağlanması ve yapıların bir an önce kullanılabilmesi amacına hizmet etmek üzere, yükleniciye kalacak olan ..., ..., ..., ..., ..., ... ve ... blokları çevre düzenlemeleriyle birlikte tamamlanarak 31/03/2003 tarihinde kullanıma hazır hale getirmeyi kabul ve taahhüt ettiğini, bu bölümün müvekkili kooperatifle ilgisi bulunmamasına rağmen (sözleşmede yükleniciye kalacağı belirtilmiştir) müvekkili kooperatif alanının bir bülünlük arz etmesi ve kullanım açısından da bir bütünlük oluşturması nedeniyle,yüklenicide kalan bölümün de bu süre zarfında bitirilmesinin amaçlandığını, davalı yüklenicinin bu blokları taahhüt ettiği sürede kullanıma hazır hale getirmediğini, mezkur blokların inşaat ruhsatlarının 04/05/2007 tarihinde alınabildiğini, halen yapı kullanım izin belgesinin alınmadığını, Sözleşme ekinde

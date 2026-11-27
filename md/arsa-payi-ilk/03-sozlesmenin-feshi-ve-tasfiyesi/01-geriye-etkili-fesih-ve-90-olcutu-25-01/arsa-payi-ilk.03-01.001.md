@@ -32,14 +32,20 @@ Dairemizin bir önceki 28.03.2023 tarihli bozma ilâmında da belirtildiği üze
 
 ## Yargıtay 6. HD 2026/43 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1207095300)
+
 Mahkemece taraflar arasında imzalanan sözleşmenin villa parsellerine ilişkin kısmı geriye etkili olarak feshedildiği halde ifa ile birlikte ve sözleşme feshedilmediği sürece istenilebilecek müspet zarar niteliğinde olan kira kaybı tazminatına hükmedilmesi hatalı olmuş, karar düzeltme talebi bu yönüyle haklı görüldüğünden kararın bozulması gerekmiştir.
 
 ## Yargıtay 6. HD 2024/3879 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1112000100)
 
 Bu durumda mahkemece; inşaatın seviyesinin, 25.01.1984 tarih ve 3/1 sayılı Yargıtay İçtihadı Birleştirme kararı uyarınca, somut olayın niteliği ve özelliğinin haklı gösterdiği
 
 durumlarda TMK'nın 2. maddesi hükmü de gözetilmek kaydı ile, gerek Dairemizin gerekse de Yargıtay Hukuk Genel Kurulu'nun kararlarında belirtildiği gibi, %90 ve üzeri orana ulaşmamış olduğu gözetilerek, sözleşmenin geriye etkili feshi ile davacılar hissesine tekabül eden tapuların davacılara iadesine karar verilmesi gerekirken, yanılgılı gerekçeyle yazılı şekilde hüküm kurulması doğru olmamıştır.
 
 ## İzmir BAM 14. HD 2023/1433 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/944606200)
 
 Ayrıca; yerleşik yargı uygulamalarında, sözleşmeye göre yapılması gereken binanın süresinde tamamlanmaması halinde, kural olarak tamamlanma oranı %90' ın altında kalırsa arsa sahibince, bu gecikmede kendisinin kusurlu olmaması koşulu ile geriye etkili fesih istenebilmektedir. Genel olarak da %90 oranına varmayan natamam durumlarda istek üzerine geriye etkili fesih kararları verilmektedir.

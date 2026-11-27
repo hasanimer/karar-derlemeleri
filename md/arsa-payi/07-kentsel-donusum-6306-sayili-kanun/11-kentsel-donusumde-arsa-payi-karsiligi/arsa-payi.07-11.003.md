@@ -82,6 +82,8 @@ Davacılar vekilinin ... Asliye Ticaret Mahkemesi'nin 2023/683 Esas, 2024/365 Ka
 
 ## İzmir BAM 14. HD 2026/270 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1200084700)
+
 Davalı vekili tarafından verilen cevap dilekçesinde özetle; 6100 sayılı Hukuk Muhakemeleri Kanunun 119.
 
 …
@@ -96,6 +98,8 @@ Ancak davacı iş sahibi tarafından enkaz bedelinin tahsili için davalı aleyh
 …
 
 ## İstanbul BAM 13. HD 2024/812 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1035790000)
 
 Dava; davacının davalı bankadan kullandığı kredinin banka muameleleri vergisinden istisna olmasına rağmen banka tarafından haksız vergi tahsilatı yapıldığı iddiasına dayalı olup, kredi taksitleri içerisinde tahsil edilen BSMV tutarlarının iadesi istemine ilişkindir.
 
@@ -113,6 +117,8 @@ HÜKÜM: Yukarıda açıklanan nedenlerle; 1-Davacının istinaf başvurusunun 6
 
 ## İstanbul BAM 15. HD 2022/1945 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/842628200)
+
 Mahallesi, ... ada, ... parsel adresinde hafriyat çalışmalarına engel olan ... nolu trafo merkezinin deplase edilmesi işleminin ...'a hiç bir mali ve hukuki külfet getirilmeden tüm masrafların müşteri tarafından karşılanarak gerçekleştirileceği, yapılacak işin toplam tutarının KDV hariç 87.136,00 TL olduğu, yerle ilgili olarak 100.000,00 TL, tesis içinse 87.136,00 TL olmak üzere toplam 187.136,00 TL süresiz teminat mektubu alınacağı düzenlenmiş, devamında; trafonun BEDAŞ'ın uygulamakla yükümlü olduğu şartnamelerine uygun müşteri tarafından hazırlanan ve ... tarafından onaylanacak inşaat ile ... tarafından onaylanacak elektrik projesine göre müşteri tarafından tesis edileceği düzenlenmiş, mevcut trafo merkezinin demontajının genel kurallara uygun olarak yıkılması/sökülmesi, molozun kaldırılması ve molozun Belediyelerce gösterilecek döküm yerine nakliyesi işlerinin müşteri tarafından yapılacağı, talep sahibi tarafından davalı ... şirketi tarafından onaylanacak projeye uygun olarak trafo merkezi tesis edileceği, taşınmaz üzerinde yeni tesis edilecek trafo merkezi için 99 yıllığı 1 TL'den 99 yıllık kira kontratı düzenleneceği ve tapuya ...
 Genel Müdürlüğü lehine 99 yıllığı 1 TL'den kira şerhi konulacağı, tapuya ... Genel Müdürlüğü lehine 99 yıllık kira şerhi konulmadan deplase işlemlerine başlanamayacağı, deplase işlemlerinin yapılması esnasında ortaya çıkabilecek her türlü vergi, resim harç ile tüm giderlerin .../... Genel Müdürlüğü'ne hiçbir mali külfet getirmeden müşteri tarafından karşılanacağı belirtilmiştir. Görüldüğü üzere; davalı ... ile arsa sahibi ... Yapı Kooperatifi arasında akdedilen 06/10/2016 tarihli prokokolde dava konusu ... sayılı trafo merkezinin deplase işlemlerinin yapılması esnasında ortaya çıkabilecek her türlü vergi, resim harç ile tüm giderlerin .../... Genel Müdürlüğü'ne hiçbir mali külfet getirmeden arsa sahibi kooperatif tarafından karşılanacağı düzenlenmiştir. Bu protokol gereğince dava dışı arsa sahibi ... Yapı Kooperatifi deplase işleminin gerçekleştirilmesi için yapılan masrafların kendisi tarafından karşılanacağını kabul ve taahhüt etmiştir. Bu işlemlerden sonra davacı ile dava dışı arsa sahibi ...
 
@@ -127,6 +133,8 @@ Mahallesi, ... ada, ... parsel adresine yeni bir bina inşa etme işini, tüm id
 HÜKÜM: Gerekçesi yukarıda açıklandığı üzere; A)1-Davacı vekilinin istinaf talebinin KISMEN KABULÜNE,2-İstanbul 21. Asliye Ticaret Mahkemesi'nin 17/06/2022 tarih ve 2021/97 Esas, 2022/462 Karar sayılı kararının KALDIRILMASINA …
 
 ## İstanbul BAM 53. HD 2022/380 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/841395600)
 
 Karşılıklı edimleri içeren eser sözleşmelerinde yüklenicinin görevi eseri sözleşmesine, amacına ve tekniğine uygun tamamlayarak teslim etmek; iş sahibinin görevi ise, sözleşmede kararlaştırılan yükümlülükler varsa bunların yerine getirilmesiyle eserin bedelini ödemekten ibarettir. Kural olarak eser sözleşmesi ilişkisinin kurulması herhangi bir şekil şartına tabi olmayıp, tarafların "icap" ve "kabul" iradelerinin birleşmesiyle sözleşme ilişkisi kurulur. Şekil şartı, sözleşmenin geçerlilik şartı olmayıp, ispat şartıdır. (Yargıtay 15 Hukuk Dairesinin 25/09/2018 tarih,2018/3698 Esas, 2018/3394 karar sayılı kararı) 4721 sayılı TMK’nın “İspat yükü” başlıklı 6. maddesi “Kanunda aksine bir hüküm bulunmadıkça, taraflardan her biri, hakkını dayandırdığı olguların varlığını ispatla yükümlüdür.” hükmünü amirdir.
 Somut olayda, davacı yüklenici davalı iş sahibine yaptığını iddia ettiği "11.09.2013 tarihli riskli yapı tespit raporunun hazırlanması" işinin bedelini talep etmiş ise de, davalı iş sahibi vekili sunmuş olduğu cevap dilekçesi ve aşamalardaki beyanlarıyla davacı ile akdî ilişkiyi inkâr ettiğinden, taraflar arasında sözlü akdî ilişkinin kurulduğunu ispat külfeti davacı yüklenici üzerinde kalmaktadır.Dosya kapsamına sunulan deliller bir arada değerlendirildiğinde, davacı tarafça davaya konu icra takibine dayanak olarak sunulan; üzerinde davalı şirket kaşesi bulunan ve davacı ...
@@ -143,6 +151,8 @@ HÜKÜM: Gerekçesi yukarıda açıklandığı üzere;A)1- Davacı vekilinin ist
 
 ## İstanbul BAM 15. HD 2021/358 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/639537800)
+
 A.Ş. bakımından ise adına kayıtlı tek bir taşınmaz dahi bulunmadığını, diğer davalıların ise var olan taşınmazları üzerinde birden fazla takyidat (ipotek, icrai haciz, kamu haczi) bulunduğunu, müvekkili hakkında açılan davaların aleyhe sonuçlanması durumunda müvekkili şirketin hak sahiplerine ödediği tazminat bedellerini rucüen isteme imkanının kalmayacağını, dava konusu ... parsel de kain “..." olarak anılan projede değişik daire tiplerinde ve ticari nitelikte toplam 785 adet bağımsız bölüm bulunduğunu, taraflarınca yapılan incelemede; ... San. Ve Tic.A.Ş.’ye ait bağımsız bölümlerin tamamının satılarak devredildiğini, davalılar ... San. Ve Tic. A.Ş. ile .... Tic. Ltd. Şti ve ... Tic. A.Ş şirketlerinin ortak olarak sahip olduğu 7 adet bağımsız bölüm, davalı .... Tic. Ltd. Şti ve ... Tic. A.Ş. şirketlerinin ortak olarak sahip olduğu 2 adet bağımsız bölüm ve davalı ... San. ve Tic.
 A.Ş . şirketine ait 1 adet bağımsız bölüm olduğunun tespit edildiğini, bu bağımsız bölümün 1'i hariç tamamının davalılar arasında hisseli olduğunu, yani toplam kalan taşınmaz sayısının 10 adet dahi olmadığını, bu bakımdan davalıların kalan taşınmazlarını elden çıkarmadan önce, müvekkili şirketin alacağına kavuşma ihtimalinin tamamen sona ermemesi için “essenora evleri” adı ile anılan projenin bulunduğu İstanbul ili, ... İlçesi, ... Mahallesi, ... ada, ... parsel sayılı taşınmaz üzerindeki davalılar adına kayıtlı bağımsız bölümler üzerine ihtiyati tedbir konulması yönündeki taleplerinin kabulüne karar verilmesi gerektiğini belirterek yerel mahkeme kararının kaldırılması için istinaf kanun yoluna başvurmuştur. Uyuşmazlık, TBK'nın 470. ve devamı maddelerinde düzenlenen eser sözleşmesinin bir türü olan kat karşılığı inşaat sözleşmesinden kaynaklanmaktadır. Davacı yüklenici, davalılar ise taşerondur. Davacı ... ile davalılar ... A.Ş., ... ve ... arasında 30/12/2011 tarihli sözleşme imzalanmıştır. Sözleşmenin " sözleşmenin konusu" başlıklı 3.maddesinde, sözleşmenin konusunun, karşı taraf ...
 AŞ ile ..., ... ada, karşı taraf ... ile 3570 ada ve karşı taraf ... ile 3567 ada nolu taşınmazların imar edilmesi konusunda iş birliği yapılması olduğu düzenlenmiştir.
@@ -151,5 +161,7 @@ Sözleşmenin "tarafların yükümlülükleri" başlıklı 5/1.maddesinde, talep
 Asliye Hukuk Mahkemesi'nin 2018/120 Esas sayılı davada; davacı ... tarafından davalılar ....Sanayi Ve Ticaret AŞ ile ...Sanayi ve Ticaret AŞ aleyhinde, ... ili, ... İlçesi, ... ada, ... parsel, ... 1. Blok, .... Kat, D:....de kain taşınmazın kararlaştırılan m²'de olmadığı, projede belirlenen nitelikleri taşımadığı, yükleniciye ait bağımsız bölümler ile arasındaki işçilik ,malzeme vb. farklılıklar bulunduğu ileri sürülerek, eksik ve ayıplı işler bedeli ile taşınmaz tescilinin kura yöntemi ile yapılmamasından ötürü oluşan şerefiye farkı ve bağımsız bölümlerin zamanında teslim edilmemesinden kaynaklı tazminat bedeli olmak üzere şimdilik 10.000,00 TL'nin faizi ile birlikte davalılardan müştereken ve müteselsilen tahsili talepli dava açıldığı, mahkemece 03/07/2020 tarih, 2020/261Karar sayılı karar ile; davacının davalı .... San ve Tic Ltd. Şti aleyhine açmış olduğu davanın reddine, davacının davalı .... San ve Tic A.Ş. aleyhine açmış olduğu davanın kısmen kabulü ile; 77.820,00 TL eksik m² bedeli ve 5.525,05 TL kira bedeli olmak üzere toplam 83.345,05 TL’nin dava tarihinden itibaren işleyecek yasal faizi ile davalı ....
 
 ## İstanbul BAM 15. HD 2018/1086 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/424868100)
 
 Davacılar ile davalılar arasında sözleşme ilişkisi bulunmayıp, davacılar arasındaki kat karşılığı inşaat sözleşmesi kapsamında yapılan inşaat kazı çalışmaları sırasında, riskli yapı niteliğindeki davalıya ait komşu parseldeki bina için davalı tarafça gerekli tedbirlerin alınmaması nedeniyle davalıya ait riskli yapının yıktırılması ve inşaatın bu nedenle durması gecikmesi sebebiyle oluşan zararlarının tahsili istemiyle açılan davada uyuşmazlık eser sözleşmesi ilişkisinden değil, davalının haksız fiilinden kaynaklanmış olduğu anlaşılmış olduğundan, Hâkimler ve Savcılar Kurulu Birinci Dairesi' nin 13/02/2018 tarih ve 208 sayılı kararı ile düzenlenen iş bölümü kararı gereği istinaf incelemesi yapma görevi İstanbul Bölge Adliye Mahkemesi 4. Hukuk Dairesi'ne aittir.

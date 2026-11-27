@@ -22,6 +22,8 @@ uyari: "Derleyenin seçtiği alıntılardır; kararın tamamı değildir. Künye
 
 ## Yargıtay 23. HD 2015/3339 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/200153900)
+
 Davacılar vekili, müvekkilleri ile murisleri ...'nin davalı yüklenici şirket ile yaptıkları arsa payı karşılığı inşaat sözleşmesi gereğince muris ...'ın hissesinin tamamını 17.10.2007 tarihinde akit tarafı şirket ortağı olan ...'a satış yoluyla devrettiğini, sözleşme gereğince iki ay içerisinde ruhsat alınacağının ve bu tarihten itibaren inşaatın yapım süresinin 12 ay olarak kararlaştırılmasına rağmen yapı ruhsatı alınmadığı gibi ruhsatsız olarak inşaata başlanması nedeniyle idare tarafından ceza kesildiğini, sözleşme konusu taşınmazda arsa sahiplerine ait binanın yıkımı nedeniyle zarara uğradıklarını ileri sürerek, sözleşmenin geriye etkili feshi ile müvekkillerin murisleri ... tarafından şirket ortağı ...'a devredilen tapunun iptali ile veraset ilamındaki hisseleri oranında müvekkilleri adına tapuya tesciline, 12.000,00 TL kira bedeli, evdeki eşyaların korunamaması nedeniyle 5.000,00 TL ve sözleşmenin yerine getirilmemesi sebebiyle 1.000,00 TL maddi tazminatın, 24.03.2014 tarihli ıslah dilekçesi ile 1.000,00 TL olan talebini 96.752,00 TL'ye yükselterek davalı şirketten tahsilini talep ve dava etmiştir.
 
 Davalılar vekili, davacı arsa sahiplerinin sözleşmedeki edimlerini yerine getirmediğini, dava konusu taşınmazı ayıpsız olarak teslim etmediklerini ve kusurun davacılarda olduğunu savunarak, davanın reddini istemiştir.
@@ -38,6 +40,8 @@ Bu açıdan yapılan incelemede ise, sadece yıkılan eski bina bedelinin dava t
 SONUÇ: Yukarıda (1) numaralı bentte açıklanan nedenlerle, temyiz eden davalılar yüklenici şirket ve Yakup Yılmaz vekilinin diğer temyiz itirazlarının reddine, (2) numaralı bentte açıklanan nedenlerle, temyiz itirazlarının kabulü ile hükmün, bu davalılar yararına BOZULMASINA …
 
 ## Yargıtay 23. HD 2014/4521 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/115617600)
 
 Davacı vekili, müvekkili yüklenici ile davalı arsa sahipleri arasında 04.05.2009 tarihli düzenleme şeklinde arsa payı karşılığı inşaat sözleşmesi imzalandığını ve müvekkili tarafından taşınmaz üzerine konulan haczin kaldırılması için davalı arsa sahiplerine 15.000,00 TL nakit ödeme yapıldığını, ancak davalıların haczi kaldırmadığını, ayrıca davalı M.. S..'ın taşınmazı tahliye etmediğini, inşaatın teslim tarihi yaklaşmasına rağmen müvekkilinin henüz inşaata başlayamadığını, davalılara keşide ettiği 22.03.2010 tarihli ihtarnameden de sonuç alınamadığını, inşaata başlayacağı düşüncesi ile belediye nezdinde işlemler yapıp hissesine isabet edecek bazı bölümleri topraktan sattığını, ancak davalıların kötüniyeti sonucu zarara uğradığını ileri sürerek, müvekkilinin bu zararın tespiti ile davalılardan tahsilini talep ve dava etmiştir.
 
@@ -57,6 +61,8 @@ SONUÇ:Yukarıda açıklanan nedenlerle, davacı vekilinin temyiz itirazlarını
 
 ## Yargıtay 23. HD 2014/4221 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/114378800)
+
 Davacılar vekili, taraflar arasında imzalanan arsa payı karşılığı inşaat sözleşmeleri gereğince, davalı yüklenicilerin, süresinde inşaatı tamamlamadığını ileri sürerek, sözleşmelerin feshi ile uğradıkları zararın tahsilini talep ve dava etmiştir.
 
 Davalılar, davanın reddini istemişlerdir.
@@ -75,6 +81,8 @@ SONUÇ: Yukarıda (1) numaralı bentte açıklanan nedenlerle, davalı H.. Y.. v
 
 ## Yargıtay 23. HD 2014/582 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/109454300)
+
 Davacılar vekili, müvekkilleri ile davalı arasında 10.01.2008 tarihli arsa payı karşılığı inşaat sözleşmesi yapıldığını, sözleşmeye göre müvekkillerine kalacak dairelerin 31.12.2008 tarihine kadar yapılıp teslim edilmesinin kararlaştırıldığını, ancak bugüne kadar davalının inşaata başlamadığını, müvekkillerinin sözleşmenin yerine getirileceğine güvenerek 11.690,00 TL'lik masraf yaptıklarını ve daha iyi koşullarda sözleşme yapma fırsatını kaçırdıklarını ileri sürerek, sözleşmenin feshine ve fazlaya ilişkin hakları saklı kalmak kaydıyla 13.310,00 TL menfi zararlarının sözleşmenin bitim tarihi olan 31.12.2008 tarihinden itibaren işleyecek temerrüt faiziyle birlikte tahsiline karar verilmesini talep ve dava etmiştir. Davacı vekili, ıslah dilekçesi ile menfi zarardan kaynaklanan alacak talebini 74.000,00 TL'na artırmıştır.
 
 Davalı vekili, müvekkilinin inşaatın yapılmamasında bir kusurunun olmadığını, müvekkilinin proje için gerekli masrafları yaptığını, ancak inşaata başlayacağı sırada davacıların uygunsuz tutum ve davranışlarıyla ve talepleriyle karşılaştığını, bu nedenle inşaata başlayamadığını, sözleşmenin yapıldığı sırada taşınmaz üzerinde herhangi bir depo ya da binanın bulunmadığını savunarak, davanın reddini istemiştir.
@@ -91,6 +99,8 @@ SONUÇ : Yukarıda (1) numaralı bentte açıklanan nedenlerle, davacılar vekil
 
 ## Yargıtay 23. HD 2013/3240 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/488722200)
+
 Davacı vekili, müvekkili arsa sahibi ile davalı yüklenici ... Eko İnşaat Ltd. Şti. arasında ........2005 tarihinde "Gayrimenkul Satış Vaadi ve İnşaat Sözleşmesi" imzalandığını, ancak dava tarihi itibariyle yapı ruhsatının henüz alınmadığını, inşaatın % 45,90 seviyesinde imal edilmiş halde olduğunu, davalı yüklenicinin inşaatı tamamlamasının mümkün bulunmadığını ve sözleşmenin müvekkili açısından katlanamaz hale geldiğini ileri sürerek, dava konusu sözleşmenin feshine, davalıya devredilen payın inşaat değerinin tenkisi ile bakiye kısmının iptaline ve müvekkili adına tesciline, sözleşme uyarınca gecikme tazminatı, satış ve kira bedelinden yoksun kalınan kâr nedeniyle fazlaya ilişkin hakları saklı kalmak üzere 60.000,00 TL tazminatın tahsiline karar verilmesini talep ve dava etmiştir.
 
 Davalı yüklenici ... Ltd.
@@ -104,6 +114,8 @@ Bunun yanında davacı yanca gecikme tazminatı, kira alacağı, müspet ve menf
 SONUÇ: Yukarıda (...) no'lu bentte açıklanan nedenlerle, davalı yüklenici ... Eko Ltd. Şti. Vekili ve dahili davalı ... vekilinin diğer temyiz itirazlarının reddine, (...) no'lu bentte açıklanan nedenlerle, adı geçen taraf vekillerinin temyiz itirazlarının kabulü ile hükmün BOZULMASINA …
 
 ## Yargıtay 23. HD 2013/2078 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/482995000)
 
 Davacı vekili, taraflar arasında imzalanan ....07.2006 tarihli arsa payı karşılığı inşaat sözleşmesinin ....09.2009 tarihli ihtarname ile feshedildiğini, bu süre içerisinde davalı yüklenici tarafından davacı ve müştereklerine ait arsa üzerinde bulunan iki katlı evin de yıktırıldığını ileri sürerek, yıkılan evden dolayı davacının hissesine düşen kira kaybı bedeli ....325,00 TL ve yıkılan evin değerinden davacının hissesine düşen ....860,00 TL olmak üzere toplam ....185,00 TL'nin yıkım tarihinden itibaren işleyecek yasal faiziyle davalıdan tahsilini talep ve dava etmiştir.
 
@@ -123,11 +135,15 @@ SONUÇ : Yukarıda açıklanan nedenlerle davacı vekilinin temyiz itirazların�
 
 ## Yargıtay 15. HD 2012/6784 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/517904700)
+
 Bu durumda davacı arsa sahibinin binanın yıkılarak eski hale getirilmesi ile ilgili menfi zarar talebi sözleşmenin feshi istemini de içerdiği ve aslında davacı sözleşmeyi hukuki sonuç doğurmayan 18.01.2006 tarihli ihtarla feshettiğini ileri sürdüğünden mahkemece öncelikle davacıya davada taraf olarak yer almayan sözleşme ve tapu kaydına göre paydaş olan diğer arsa sahipleri ... ve ...'ın davaya muvafakatlarını sağlaması ya da davaya dahil etmesi için süre verilip bu şekilde taraf teşkili tamamlandıktan sonra işin esasına girilip sözleşmenin feshi koşullarının gerçekleşip gerçekleşmediği incelenerek, davalı yanca projeye aykırılıkların giderileceği ve inşaatın yasal hale getirileceği de savunulduğundan bu konuda yükleniciye yetki ve makul süre verilip sonucuna uygun bir karar oluşturulması gerekirken eksik inceleme ve yanlış değerlendirme ile hüküm kurulması doğru olmamış, bozulması uygun görülmüştür.
 
 SONUÇ: Yukarıda açıklanan nedenlerle temyiz itirazlarının kabulü ile hükmün davalı ... yararına BOZULMASINA …
 
 ## Yargıtay 15. HD 2012/4985 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/524647500)
 
 Dava ve karşı dava Borçlar Yasası'nın 355 ve devamı maddelerinde düzenlenen eser sözleşmesinden kaynaklanan alacak istemine ilişkindir.
 
@@ -143,6 +159,8 @@ SONUÇ:Yukarıda 1. bentte yazılı nedenlerle davacı karşı davalı yüklenic
 
 ## Yargıtay 15. HD 2012/3914 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/765679400)
+
 Davacıların 567 parsel yönünden sözleşmenin ileriye etkili feshi ve menfi zararın tazmini isteklerine gelince; sözleşmenin feshi davasının dinlenebilmesi için davada sözleşmenin tüm taraflarının yer alması gerekir. Sözleşmenin taraflarının davada yer almaması durumunda, yer almayanların davaya muvafakatlarının sağlanması, bu mümkün olmadığı takdirde davaya dahil edilerek taraf teşkilinin sağlanması, bu şekilde işin esasının incelenip sonuçlandırılması zorunludur.
 
 …
@@ -150,6 +168,8 @@ Davacıların 567 parsel yönünden sözleşmenin ileriye etkili feshi ve menfi 
 SONUÇ: Yukarıda 1. bentte açıklanan nedenlerle tarafların inşaat yapılan üç adet parsel yönünden eksiklerin giderilme bedelinin tahsiline yönelik temyiz itirazlarının reddine, 2. bent uyarınca sözleşmenin ileriye etkili feshi ve menfi zararın tazmini istemleri yönünden kararın taraflar yararına BOZULMASINA …
 
 ## Yargıtay 15. HD 2012/351 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/475975500)
 
 Davada arsa sahiplerince 01.03.2007 tarihinde kat karşılığı inşaat sözleşmesinin haksız olarak feshedildiği ileri sürülerek noter onayı, tapu şerhi ve proje çizimleri nedeniyle yapılan 71.857,00 TL ve açıklama yapılmaksızın 75.000,00 TL menfi zarar talep edilmiştir. Menfi (olumsuz) zarar sözleşmenin karşı tarafça yerine getireleceğine olan güvenin boşa çıkması nedeniyle uğranılan eylemli zarardır. Yasal dayanağı da BK'nın 106/II. maddesidir. Dolayısıyla karşı tarafın malvarlığına girsin veya girmesin sözleşme nedeniyle alacaklının cebinden ve yasal olarak çıkan paradır. Menfi zarar borçlunun direnimi sonucu borç yerine
 
@@ -161,6 +181,8 @@ SONUÇ: Yukarıda 1. bentte açıklanan nedenlerle tarafların sair temyiz itira
 
 ## Yargıtay 15. HD 2011/8091 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/660813200)
+
 Davacı arsa sahipleri davada davalı yüklenici ile akdedilen 23.01.1996 gün 4743 yevmiye sayılı kat karşılığı inşaat sözleşmesinin ... Asliye Ticaret Mahkemesi'nin 29.01.2008 gün 2006/263 Esas 2008/12 Karar sayılı kararıyla geriye etkili feshedildiğini, aynı dosyada alınan bilirkişi raporuyla uğradıkları menfi zararının 190.000,00 TL olarak belirlenip, taleple bağlı kalınarak 50.000,00 TL'nin hüküm altına alındığını ve kararın Yargıtay'dan geçerek kesinleştiğini ileri sürerek o dosyada saklı tutulan 140.000,00 TL menfi zararın 07.08.2006 ilk dava tarihinden itibaren avans faiziyle birlikte tahsilini istemiş, mahkemece davanın kısmen kabulüne dair verilen karar davalı kooperatif vekili tarafından temyiz edilmiştir.
 
 …
@@ -169,6 +191,8 @@ Davacı arsa sahipleri davada davalı yüklenici ile akdedilen 23.01.1996 gün 4
 Mahkemece bu miktarın menfi zarar olarak hüküm altına alınması gerekirken fazlaya hükmedilmesi doğru olmamış, kararın bozulması gerekmiştir.SONUÇ: Yukarıda 1. bentte yazılı nedenlerle davalı kooperatifin sair temyiz itirazlarının reddine, 2.
 
 ## Yargıtay 15. HD 2011/7212 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/656283800)
 
 Dava, arsa payı karşılığı inşaat yapım sözleşmesinin ifa imkanı kalmaması sebebiyle yapılan masraflar ve kâr kaybı alacaklarının tahsili istemine ilişkindir.
 
@@ -181,6 +205,8 @@ SONUÇ: Yukarıda 1. bentte açıklanan nedenlerle davacıların tüm, ... dış
 
 ## Yargıtay 15. HD 2011/7018 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/765078200)
+
 Gerçekten de az yukarıda belirtildiği üzere; yanlar arasındaki sözleşmenin 1. ve 2. maddeleri hükümlerinde gösterilen aşamada davacı yükleniciye verilmesi gereken bağımsız bölümlerin tapu kayıtlarının kayden temliki gerekir ise de; arsa sahibi davalı, öncelikli ediminin ifası için 19.11.2008 tarihinden önce davacı tarafından borçlu temerrüdüne düşürülmemiştir. Belirtilen iki bağımsız bölümün tapu kaydının kayden temliki için davacı tarafından gönderilen 07.11.2008 günlü ihtarname 11.11.2008 tarihinde tebliğ olunmuş ve verilen 7 günlük sürenin ilavesiyle de 19.11.2008 tarihinden sonra sözü edilen bağımsız bölümlerin kayden temlikini isteme hakkı doğmuştur. Davalı da 15.12.2008 tarihinde sözü edilen iki dairenin davacıya kayden intikâlini sağlamıştır.
 
 Davada menfi zarar istenmiş ise de; yanlar arasındaki arsa payı inşaat sözleşmesi yürürlükte bulunduğundan ve sözleşmede aksine bir düzenleme olmadığından davacı tarafın menfi zararının davalıdan tahsilini isteme hakkı bulunmamaktadır. Menfi zarar, sözleşmenin uygulanacağına güvenilerek ve yapılan mal varlığını eksilten harcama ve giderleri ile kaçırılan fırsattan doğan zarardır. Davacının talebinin, yapılan nitelendirme sonucu olumlu zarar olduğunun kabulü halinde dahi, BK'nın 96 ve 106. maddeleri hükümleri uyarınca kanıtlanmış maddi zarardan da söz edilemez. Soyut iddialarla gerçekleştiği ileri sürülen maddi zararın, varlığı kanıtlanmadığı halde; mahkemece, hükme yeterli olmayan bilirkişi raporu dayanak alınarak maddi tazminat davasının kabulüne karar verilmesi doğru olmamıştır.
@@ -190,6 +216,8 @@ Davada menfi zarar istenmiş ise de; yanlar arasındaki arsa payı inşaat sözl
 SONUÇ:Yukarıda belirtilen sebeplerle davalı vekilin temyiz itirazlarının kabulüne ve kararın davalı yararına BOZULMASINA …
 
 ## Yargıtay 15. HD 2011/6860 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/765229900)
 
 Dava, arsa payı karşılığı inşaat yapım sözleşmesinin feshi nedeniyle uğranılan maddi ve manevi zararların giderilmesi istemine ilişkindir.
 
@@ -203,6 +231,8 @@ SONUÇ: Yukarıda 1. bentte açıklanan nedenlerle davalının diğer temyiz iti
 
 ## Yargıtay 15. HD 2011/2865 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/763853400)
+
 Dosya kapsamına göre sözleşmenin feshinde kusurlu olması nedeniyle davalı-birleşen dosya davacıları müspet zarar ve bu kapsamda kâr kaybını talep edemez iseler de kusurlu olup olmadığına bakılmaksızın fesih halinde taraflar verdiklerini diğer taraftan BK’nın 108/I., menfi zararlarını da 108/II. maddelerine göre talep edebilirler. Bu halde isteyebilecekleri zarar menfi zarar olup Dairemiz uygulamaları ve doktrinde menfi zararın sözleşme yapılmamış olsa idi tarafların uğramayacak oldukları zarar ve yapmak zorunda kalmayacak oldukları masraflardan ve kaçırılan fırsattan oluştuğu kabul edilmektedir. Davalı yüklenici birleşen davasında yapılan masraf ve menfi zarar isteminde bulunmak suretiyle sözleşmenin kurulması ve işin yapılması için giderleri, yani sözleşme yapılmamış olsa idi yapmak zorunda olmadıkları zararların giderilmesini talep ederek bunların ispatı zımnında bir kısım tahakkuk fişleri ve tahsilat makbuzları ile projeleri ibraz etmiş ise de hükme esas alınan bilirkişi raporunda bu belgeler irdelenip görüş bildirilmemiştir.
 
 Bu durumda mahkemece, yüklenici tarafından sunulan tahsilat makbuzları ve tahakkuk fişleri ile ilgili verildiği kurumlara yazı yazılarak hangi iş, parsel, yapılan bağımsız bölümle ilgili verildiğinin araştırılması, bu şekilde yapılacak araştırma tamamlandıktan sonra hükme esas raporu veren bilirkişi kurulundan sözkonusu makbuzlar ile gelecek yazı cevapları ve yine yüklenici tarafından dosyaya sunulan projeler incelettirilmek suretiyle yapılan masrafların sözleşme konusu taşınmaza ilişkin ve sözleşmenin ifası için yapılan menfi zarar kapsamında olup olmadığı ve miktarı ile projelerin tevhit sonucu oluşturulan 11368 parsel sayılı taşınmaza ait ve uygun olup olmadığı, davacı arsa sahibi yararına bulunup bulunmadığı, yararına ise fesih iradelerinin birleştiği birleşen karşı dava tarihi itibariyle mahalli piyasa rayiçlerine göre bedelinin alınacak ek raporla hesaplattırılıp hüküm altına alınması gerekir.
@@ -213,17 +243,23 @@ SONUÇ:Yukarıda 1. bentte belirtilen nedenlerle davalı-birleşen dava davacıl
 
 ## Yargıtay 15. HD 2011/2545 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/765285800)
+
 Asıl ve birleşen davada menfi zarar olarak 1.000,00 TL talep edilmiş olup bu istemin bir kısmı reddedildiğine göre reddolunan kısım üzerinden davalı yararına vekâlet ücreti takdiri ve bu kısma isabet eden yargılama giderinin sorumlu tutulmaması gerekirken davalı lehine vekâlet ücreti verilmemesi ve yargılama giderinin tamamından sorumlu tutulması doğru olmamıştır. Karar bu sebeple bozulmalıdır. Ne var ki yapılan bu hatanın giderilmesi yeniden yargılamayı gerektirmediğinden HUMK’nın 438/VII. maddesi gereğince düzeltilerek onanması uygun görülmüştür.
 
 SONUÇ:Yukarıda 1. bentte açıklanan nedenlerle davalının diğer temyiz itirazlarının reddine, 2. bent uyarınca kabulü ile mahkeme kararının hüküm kısmına VI. fıkra olarak “menfi zarar talebinin reddolunan kısmı üzerinden davalı vekilinin çalışması karşılığı takdir edilen ve daha az olamayacağından 1.000,00 TL maktu vekâlet ücretinin davacılardan alınarak kendisini vekille temsil ettiren davalıya verilmesine” cümlesinin ilave edilmesine ve VII. fıkrada 527,00 TL rakamından sonra gelen “yargılama giderlerinin” kelimelerinin karardan çıkarılarak yerine “yargılama giderinden menfi zararın kabul edilen kısmı üzerinden takdiren 500,00 TL’sinin” kelimeleri ve rakamının X. fıkrasında 24,60 TL rakamından sonra gelen “yargılama masraflarının” kelimelerinin karardan çıkarılarak yerine “yargılama giderinden menfi tespit isteminin kabul edilen kısmı üzerinden takdiren 24,00 TL’sinin” rakam ve kelimelerinin yazılmasına ve kararın değiştirilen bu şekliyle DÜZELTİLEREK ONANMASINA …
 
 ## Yargıtay 15. HD 2010/5071 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/775084300)
+
 Eser sözleşmesi kapsamındaki arsa payı karşılığı inşaat sözleşmesinin tarafı olan yüklenici, sözleşme gereğince yapımını yüklendiği inşaattaki bağımsız bölümleri arsa sahibi veya sahiplerine teslim etmemesi; başka bir anlatımla, “teslimde temerrüdünün” gerçekleşmesi durumunda ve sözleşmenin geriye etkili feshi halinde sözleşme konusu bağımsız bölüm ya da bölümler için istenen gecikme tazminatı kapsamındaki kira tazminatı “olumlu zarar”dır ve sözleşmenin geriye etkili feshinde belirtilen olumlu zarar istenemez. Mahkemece, dava konusu maddi tazminatın, bu nitelikte olumlu zarar olduğunun nitelendirilmesi doğru olmamıştır. Çünkü, yukarıda açıklandığı şekilde; dava konusu maddi tazminat, menfi zarar niteliğindedir. Bu sebeplerle, taleple bağlı kalınarak, 5.000,00 TL menfi zarar niteliğindeki maddi tazminatın davalıdan alınarak, davacılara verilmesi gerekirken; mahkemece, yazılı gerekçelerle buna ilişkin davanın reddine de karar verilmesi doğru olmamış, kararın bozulması gerekmiştir.
 
 SONUÇ:Yukarıda 1. bentte belirtilen nedenlerle davacılar vekilinin sair temyiz itirazlarının reddine, 2. bentte açıklanan sebeplerle kararın davacılar yararına BOZULMASINA …
 
 ## Yargıtay 15. HD 2009/6546 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/856154800)
 
 Sözleşmenin feshi durumunda kural olarak ancak menfi zararın tazmini istenebilir. Arsa sahipleri açtıkları davada menfi zararların tazminini istemişlerdir. Feshedilen 05.10.1998 tarihli Kat Karşılığı İnşaat Sözleşmesinde davacı ...’a bir adet, diğer arsa paydaşı ...’ye 5 adet dairenin verilmesinin kararlaştırıldığı görülmüştür. Arsa sahipleri tarafından davalı şirketle olan sözleşmenin feshedilmesinden sonra 22.08.2005 tarihinde bir başka şirketle kat karşılığı inşaat sözleşmesi yapıldığı belirlenmiştir. Bu sözleşme içeriğinden de ...’a bir adet, ... varislerine de 4 adet dairenin verilmesinin kararlaştırıldığı belirlenmiştir. Her iki sözleşmenin değerlendirilmesi sonucunda yüklenici şirketle yapılan sözleşmenin feshi nedeniyle arsa sahibi ...’ın kayba uğramadığı, ... mirasçılarının ise bir adet daireyi eksik almakla zarara uğradıkları sonucuna varılmıştır. Mahkemenin bu yöndeki kabulünde bir isabetsizlik bulunmamaktadır. Dosyada bulunan 10.11.2006 tarihli bilirkişi raporunda bir adet dairenin rayiç bedelinin dava tarihi itibariyle 9.500,00 TL olduğu açıklanmıştır.
 Dava ve birleşen dava 2001 yılında açıldığından ve taraf iradeleri de fesih konusunda 2001 yılında uyuştuğundan arsa sahibi ... mirasçılarının menfi zararlarının 2001 yılı itibariyle hesaplanmasında zorunluluk vardır. Yukarıda anılan bilirkişi raporunda bir dairenin 2001 yılı itibariyle rayiç bedeli 9.500,00 TL olarak açıklandığına ve ... mirasçıları, ikinci sözleşme ile bir daire eksik almak suretiyle zarara uğradıklarına göre, bir dairenin rayiç bedeli olan 9.500,00 TL zararın karar altına alınması gerekirken, yanlış değerlendirme sonucu sözleşme tarihindeki daire değeri olan 2.000,00 TL’nin tahsiline karar verilmesi doğru olmamıştır.

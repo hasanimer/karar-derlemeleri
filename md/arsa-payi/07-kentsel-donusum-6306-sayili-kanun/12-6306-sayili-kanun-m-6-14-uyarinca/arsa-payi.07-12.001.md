@@ -20,6 +20,8 @@ uyari: "Derleyenin seçtiği alıntılardır; kararın tamamı değildir. Künye
 
 ## Danıştay İDDK 2022/3386 E., 2023/307 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/990679000)
+
 10/07/2019 tarih ve 30827 sayılı Resmi Gazete'de yayımlanan 7181 sayılı Kanun ile 6306 sayılı Kanun'un 6.maddesine eklenen 14. fıkra hükmüyle belirlenen şartların oluşması halinde idareye, taraflar arasındaki satış vaadi ve kat/arsa karşılığı inşaat sözleşmesinin feshine ilişkin yetki verildiği, daha sonra bu maddenin uygulanmasına ilişkin olarak 19/10/2019 tarih ve 30923 sayılı Resmi Gazete'de yayımlanarak yürürlüğe giren Yönetmelik'in 1. maddesiyle 6306 sayılı Kanunun Uygulama Yönetmeliği'nin 13. maddesine 11. fıkranın eklendiği, bu maddelere istinaden davacılar ile arsa malikleri arasındaki sözleşmenin feshine ilişkin Ankara Valiliği Çevre ve Şehircilik İl Müdürlüğünce … tarih ve E:… sayılı işlemin tesis edilmesi üzerine, anılan kuralın iptali istemiyle bakılan davanın açıldığı, …
 
 6306 sayılı Afet Riski Altındaki Alanların Dönüştürülmesi Hakkında Kanun'un "Uygulama işlemleri" başlıklı 6. maddesine, 10/07/2019 tarih ve 30827 sayılı Resmi Gazete'de yayımlanan 7181 sayılı Kanun'un 24. maddesiyle eklenen 14. fıkra ile bu Kanun kapsamındaki alanlarda ve parsellerde; müteahhitten kaynaklanan sebeplerle, bir yıl içinde yeni yapının yapım işine başlanmamış veya yapım işi belirli bir seviyede durdurulmuş ve en az altı aydır projenin bitirilmesini gerektirecek seviyede ekip ve ekipmanla inşai faaliyete devam edilmiyor ise, yapılan sözleşmelerin feshi için hisseleri oranında maliklerin en az üçte iki çoğunluğu ile karar alınabileceği, bu karar ile birlikte Bakanlığa başvurularak yeni yapının yapım işine başlanıp başlanmadığının veya yapım işinin projenin bitirilmesini gerektirecek seviyedeki ekip ve ekipmanla devam edip etmediğinin tespitinin isteneceği, Bakanlıkça; belirtilen durumların tespit edilmesi hâlinde, müteahhide otuz gün süre verilerek işe başlaması veya devam etmesi gerektiği, aksi takdirde bu sürenin bitim tarihi itibarıyla sözleşmelerin resen feshedileceğinin ihtar edileceği; bu ihtara rağmen işe başlanmaması veya devam edilmemesi durumunda, ayrıca ihtar
@@ -32,6 +34,8 @@ Bu hükmün uygulanmasına ilişkin hususların da 6306 sayılı Kanunun Uygulam
 Davanın yukarıda özetlenen gerekçeyle reddine ilişkin Danıştay Altıncı Dairesinin temyize konu 10/02/2022 tarih ve E:2020/8160, K:2022/1324 sayılı kararının ONANMASINA …
 
 ## Danıştay İDDK 2022/1167 E., 2023/306 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/990677200)
 
 İzmir ili, Karşıyaka ilçesi, …
 
@@ -51,6 +55,8 @@ sayılı yazısıyla dava konusu kural uyarınca sözleşmenin feshedildiğinin 
 Davanın yukarıda özetlenen gerekçeyle reddine ilişkin Danıştay Altıncı Dairesinin temyize konu 17/11/2021 tarih ve E:2020/2638, K:2021/12690 sayılı kararının ONANMASINA …
 
 ## Yargıtay 3. HD 2024/2356 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1089489600)
 
 Davacı vekili; müvekkilinin, davalılara ait taşınmazı çocuk yuvası olarak kullanmak üzere 01.09.2003 başlangıç tarihli ve beş yıl süreli kira sözleşmesi ile kiraladığını, daha sonra taraflar arasında akdedilen 01.09.2008 başlangıç tarihli ve bir yıl süreli kira sözleşmesi ile kiracılık ilişkisinin devam ettiğini, ancak davalıların kiralanan taşınmazın yıkılmasını sağlamak amacıyla müvekkiline haber vermeden ilgili Belediyeye başvurduklarını, kiralananın kira süresince kullanıma uygun halde bulundurulması gerektiğini, gerek akdin başında gerekse devamı sırasında müvekkilince kiralanana faydalı imalatlar yapıldığını ileri sürerek; şimdilik 10.000,00 TL kiralananın kullanıma uygun halde bulundurulmaması nedeniyle uğranılan zarar ve yoksun kalınan kazanç kaybı, 10.000,00 TL faydalı imalat bedeli ile 2.000,00 TL manevi tazminata karar verilmesini talep etmiş; 27.01.2023 tarihli dilekçe ile dava değerini 49.023,00 TL'ye artırmıştır.
 
@@ -72,6 +78,8 @@ Davalılar vekili tarafından 19.04.2023 tarihli dilekçe ile temyiz olunan Mahk
 
 ## Yargıtay 3. HD 2023/2867 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/981301800)
+
 Davacı; davalılardan ... şirketi ile arasında düzenlenen 18.05.2012 tarihli ... Pay Ortaklığı Sözleşmesi ile 90.000,00 TL bedelle dairenin teslimi konusunda anlaşıldığını, davalıların 30.05.2012 tarihinde kendi aralarında adi ortaklık sözleşmesi imzaladıklarını, 30.05.2012 tarihli adi ortaklık sözleşmesi gereği 18.05.2012 tarihli ...
 
 …
@@ -83,6 +91,8 @@ Davalı ...
 Yargıtay (kapatılan) 13. Hukuk Dairesinin 02.05.2016 tarihli ve 2016/1464 E., 2016/11958 K. sayılı ilamıyla; somut uyuşmazlıkta davanın, müteahhit olan davalı şirketler ile davacı arasında yapılan daire satım ve yapım sözleşmesinden kaynaklandığı, taraflar arasında 4077 sayılı kanunda belirtilen şekilde satış sözleşmesi bulunduğu, 4077 sayılı yasanın 23 üncü maddesinde bu kanunun uygulanması ile ilgili her türlü ihtilafa Tüketici Mahkemelerinde bakılacağının öngörüldüğü, görevle ilgili hususlarda kazanılmış hak söz konusu olmayacağı, Mahkemece, işin esasına girilip sonucuna göre bir kararı verilmesi gerekirken yazılı şekilde hüküm tesisinin usul ve yasaya aykırı olduğu gerekçesiyle, kararın bozulmasına karar verilmiştir.
 
 ## Yargıtay 6. HD 2023/2768 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/947019800)
 
 Davalılar vekili cevap dilekçesinde özetle; davacı yanın davasına dayanak aldığı ve tarihini bildirmediği Gayrimenkul Satış Vaadi ve arsa payı karşılığı inşaat sözleşmesi yapılması konusunda anlaşmadan bahsetmekte ve fakat dosyaya yazılı bir anlaşma metni de sunmadığını, davacının anlaşma gereğince müvekkilinin 1.850,00,00 TL kredi borcunun 2/3'üne tekabül eden kısmın kendileri tarafından ödeneceğini bildirmekte en son 12.01.2012 tarihinde 16.312,00 TL ödeme yaparak sadece 147.501,00 TL ödemiş olduğunu kendilerinin ifade ettiğini, ancak 12.01.2012 tarihinden sonra neden anlaşmaya uygun ödeme yapmaktan vazgeçtiklerini açıklamadıklarını, davacı tarafın ...'a ödediğini iddia ettiği 50.000,00 USD'nin muhatabının müvekkili olmadığını, bu kişi hakkında icra takibi yapıp kesinleştiği bildirildiğine göre bu davada bu durumun yargılanmasının yapılarak müvekkilinin itirazının kaldırılmasının talep edilmesinin hukuksal dayanağı bulunmadığını belirterek, davanın usulden, zamanaşımı yönünden ve esastan reddine karar verilmesini talep etmiştir.
 
@@ -102,13 +112,19 @@ Temyiz olunan Bölge Adliye Mahkemesi kararının 6100 sayılı Kanunun 370 inci
 
 ## Yargıtay 15. HD 2020/2610 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/599905500)
+
 İncelenmesine gerek duyulan ... 2. İcra Müdürlüğü’nün 2006/12592 Esas sayılı, İzmir 20. İcra Müdürlüğü’nün 2007/12037 Esas sayılı, ... 2. İcra Müdürlüğü’nün 2006/14525 Esas sayılı ,... 10. İcra Mahkemesi’nin 2006/852 Esas sayılı, ... 10. İcra Mahkemesi'nin 2007/12 Esas sayılı dosyalarının dosya içerisine celp edilmesi gerekmektedir.
 
 ## Yargıtay 15. HD 2020/590 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/574841600)
+
 İçtihat Metni"Davacı ... ile davalı ...İnş. Yapı Düzenleme ve Paz. Tic. A.Ş. arasındaki davadan dolayı ... 1. Tüketici Mahkemesince verilen 12.07.2016 gün ve 2016/408 E.- 2016/1407 K. sayılı hükmün Yargıtayca incelenmesi davalı vekili tarafından istenilmekle dosyadaki kağıtlar okundu gereği konuşulup düşünüldü:
 
 ## Yargıtay 15. HD 2014/3036 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/105727600)
 
 Yüklenici tarafından idareye verilen 27.06.2006 tarihli dilekçede; işin 3. aşamasını oluşturan kısmının tamamlanarak buna ilişkin belgelerin ekte sunulduğu, imar planının Belediye Meclisince uygun görülmesine müteakiben kentsel tasarım projesinin de hazırlanarak teslim edilebileceği belirtilmiş, bundan sonra 11.08.2006 tarihli yazıyla idare tarafından sözleşme feshedilmiştir.
 
@@ -118,6 +134,8 @@ SONUÇ:Yukarıda 1. bentte açıklanan nedenlerle davalının sair temyiz itiraz
 
 ## Yargıtay 15. HD 2011/6046 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/765005800)
+
 Dosyaya sunulan Antalya 1. Sulh Hukuk Mahkemesi'nin 02.08.2006 gün 2006/1434-1226 E. K. sayılı veraset ilâmına göre sözleşmenin tarafı olan arsa sahiplerinden ... 20.07.2006 tarihinde ölmüş olup, davacılar ..., ... ve ... dışında ... ve ... isminde iki mirasçısı daha bulunmaktadır. Sözleşme arsa sahipleri ... ve diğer paydaşlar arasında düzenlendiği gibi satışa izin verilmesi talep edilen 13 nolu bağımsız bölüm de muris ... adına tapuda kayıtlıdır. Sözleşmenin tarafı olan Ramazan ölü olduğundan terekesi mirasçılarına elbirliği ile mülkiyet hükümlerine göre intikâl etmiştir. Elbirliği ile mülkiyette TMK'nın 640. maddesi gereğince mirasçılar terekeye elbirliği ile sahip olacaklarından sözleşme veya kanundan doğan temsil ya da yönetim yetkisi saklı kalmak üzere terekeye ait bütün haklar üzerinde birlikte tasarruf ederler. Bu halde bir hakkın birden fazla kimse tarafından birlikte kullanılması ve tamamı hakkında da hüküm verilmesi gerektiğinden arsa sahibi ... mirasçıları arasında açılan davanın niteliği itibariyle zorunlu dava arkadaşlığı vardır. Terekedeki hakların korunması sözkonusu olmadığından bir kısım mirasçılar tarafından eldeki davanın açılması mümkün değildir.
 Ancak bu halde Yargıtay uygulamaları ve doktrinde davanın hemen reddi gerekmeyip diğer mirasçıların davaya muvafakatlarını sağlamak ya da katmak üzere süre verilmesi gerektiği usul ekonomisi açısından uygun olacağı kabul edilmektedir.
 
@@ -126,6 +144,8 @@ Bu durumda mahkemece davada taraf olmayan ölü ... mirasçılarından ... ve ..
 SONUÇ:Yukarıda açıklanan nedenlerle davacıların temyiz itirazlarının kabulü ile kararın BOZULMASINA …
 
 ## Kayseri BAM 4. HD 2022/889 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/782801000)
 
 DAVACI KARŞI DAVALININ KARŞI DAVAYA CEVABI: Davacı vekili, karşı davaya cevap dilekçesinde özetle; müteahhit firmanın binayı tamamen bitirdiği gerekçesiyle ...
 

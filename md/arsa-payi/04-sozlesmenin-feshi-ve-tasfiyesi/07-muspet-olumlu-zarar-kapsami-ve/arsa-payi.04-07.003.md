@@ -22,6 +22,8 @@ uyari: "Derleyenin seçtiği alıntılardır; kararın tamamı değildir. Künye
 
 ## Yargıtay 13. HD 2019/3032 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/513611900)
+
 Davacılar, murislerinden kalan ... ili, ... ilçesi, ... mevkiinde kain “ ... Mah. 15.
 
 …
@@ -40,6 +42,8 @@ SONUÇ: Yukarıda (1) nolu bentte açıklanan nedenlerle temyiz edilen hükmün 
 
 ## Yargıtay 15. HD 2019/704 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/480097200)
+
 İleriye etkili fesih kararı verilmesi halinde tasfiyenin, fesih tarihinde eksik ve kusurlar da dikkate alınıp düşülmek suretiyle kat karşılığı inşaat yapım sözleşmesi ile üstlendiği işlerin tamamına göre yüklenicinin gerçekleştirdiği imalâtın fiziki oranı tesbit ve bu oranın sözleşmede kararlaştırılan paylaşım durumuna göre yükleniciye kalan arsa payı ya da bağımsız bölüm sayısına uygulanarak yüklenicinin hakettiği arsa payı ya da bağımsız bölümlerin yükleniciye bırakılarak yüklenicinin haketmediği arsa payları ve bağımsız bölümün arsa sahibinde kalacak şekilde yapılması gerekir.
 
 İleriye etkili fesih halinde müspet zarar kapsamında gecikme tazminatı, ifaya ekli ceza-i şart istenmesi mümkün ise de; tasfiyede yüklenici gerçekleştirdiği imalât oranına göre bağımsız bölüm veya arsa payı alacağı ve böylece arsa sahibinin eksik ve kusurlu işlerin giderim bedeline yönelik talepleri yüklenicinin paylaşımına göre alacağı bağımsız bölüm ya da arsa payından indirim yapılarak karşılanmış olacağından istenemeyecektir. Yine bu halde yüklenici gerçekleştirdiği imalât seviyesine göre tapuya hak kazanıp tasfiye sonucu alacağından yüklenicinin haketmediği ve arsa sahibinde kalan ya da tapuda devredilmiş olması nedeniyle ileriye etkili fesih sonucu arsa sahibine geçecek tapu payı ya da bağımsız bölüm bedellerinin, arsa sahibinin isteyebileceği gecikme tazminatı, ceza-i şart alacağından mahsubu mümkün değildir (Yargıtay 15. Hukuk Dairesi'nin 07.04.2004 gün 2003/4795 Esas, 2004/1968 Karar sayılı ilamı).
@@ -49,6 +53,8 @@ SONUÇ: Yukarıda (1) nolu bentte açıklanan nedenlerle temyiz edilen hükmün 
 davacı-karşı davalı arsa sahibinin diğer temyiz itirazlarının reddine, 2. bent uyarınca kabulü ile asıl davada kurulan hükmün davacı-karşı davalı yararına BOZULMASINA …
 
 ## Yargıtay 23. HD 2019/426 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/483586400)
 
 Davacı vekili tarafların arsa payı karşılığı inşaat sözleşmesi akdettiğini, sözleşme tarihinden 6 ay içerisinde inşaata başlanmazsa sözleşmenin feshedileceğine dair hükümler bulunduğunu, inşaat yapılacak bölgenin tamamında arsaların birbirine tecavüzü olduğundan belediyenin imar uygulaması yapmaya karar verdiğini, müvekkilinin bu durumu davalılara sözlü olarak bildirdiğini ve yeniden sözleşme yaptıklarını, yeni sözleşme gereğince ruhsat işlemlerine devam edilebilmesi için 21,00 m²lik tecavüzlü kısmın komşu parsel maliklerinden satın alınması için müvekkilinin davalı ...'e 20.000,00 TL verdiğini, satın alma gerçekleşmez ise bu müdahalenin kaldırılması için davalılarca hukuk davası açılmasının veya bu hususta vekaletname vermelerinin kararlaştırıldığını, davalıların satın alma için herhangi bir işlem yapmadıkları gibi tecavüzün meni için dava da açmadıklarını ve sözleşmeyi noter kanalıyla fesih ettiklerini, müvekkilinin son ana kadar sözleşmeyi ayakta tutmaya çalışmasına rağmen davalıların inşaatı başka bir müteahhite yaptırmaya başladıklarını ileri sürerek müvekkilinin zararının tazmini için şimdilik 10.000,00 TL'nin yasal faizi ile birlikte davalılardan müteselsilen tahsiline karar
 verilmesini talep ve dava etmiştir.
@@ -65,6 +71,8 @@ SONUÇ: Yukarıda açıklanan nedenlerle, asıl dava davacı vekilinin temyiz it
 
 ## Yargıtay 23. HD 2018/3903 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/434293400)
+
 Nama ifa olumlu zararı telafi eder. Alacaklı için aynen ifa ayakta kalırken, borçlu açısından yapma borcu tazminat ödeme borcuna dönüşmektedir. Alacaklı için tazminatın tam doğumu beklenmeden avans olarak aynen ifa ile tam tatmini hedeflenmekte, borçlu içinse henüz tam tazmin şartları doğmadan peşin olarak avans ödemesi getirilmektedir. Olumlu zarar doğduktan sonra tazmin borcu doğmakta iken ara bir çözüm olarak hakim izni ile sonuca gidilmektedir.
 
 Tazminat belirlenmesinde kural somut zarar iken, nama ifa kesin hesaplaşmayı öngörmediğinden, yaklaşık tahmini bir bedelin avans olarak peşin ödenmesi imkanı getirilmektedir. Olumlu zarar hükmolunduktan sonra azaltılıp çoğaltılması mümkün değil iken, nama ifa kapsamında yapılan geçici ödemenin karşılanmayan kısım için istenmesi mümkündür. Olumlu zarar için hakim iznine ihtiyaç yok iken nama ifada hakim iznine ihtiyaç vardır. Olumlu zarar tazminatı alındığında harcamada serbest iken ifaya izin kararıyla …
@@ -74,6 +82,8 @@ Tazminat belirlenmesinde kural somut zarar iken, nama ifa kesin hesaplaşmayı �
 SONUÇ: Yukarıda (1-a) numaralı bentte açıklanan nedenlerle, asıl dava davalısı-birleşen dava davacısı vekilinin asıl davaya ilişkin diğer temyiz itirazlarının reddine, (1-b) numaralı bentte açıklanan nedenlerle, diğer temyiz itirazlarının kabulü ile hükmün asıl dava davalısı-birleşen dava davacısı yararına BOZULMASINA …
 
 ## Yargıtay 14. HD 2018/3561 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/425293100)
 
 Davacı, ... İli, ... İlçesi,......
 
@@ -91,6 +101,8 @@ SONUÇ: Yukarıda yazılı nedenlerle ... Bölge Adliyesi 1. Hukuk Dairesinin 03
 
 ## Yargıtay 23. HD 2018/3173 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/427047400)
+
 Davacı vekili, müvekkili arsa sahibi ile davalı yüklenici arasındaki 28.12.2009 tarihli arsa payı karşılığı inşaat sözleşmesi gereği davalının inşaata başlamadığını ve edimlerini yerine getirmediğin ileri sürerek, sözleşmenin feshine, şimdilik 1.000-TL tazminatın davalıdan dava tarihinden itibaren işleyecek yasal faizi ile birlikte tahsiline, sözleşmenin fesih tarihine kadar tahakkuk etmiş olan cezai şart alacaklarının şimdilik 300-Avro'sunun hak ediş tarihinden itibaren tahsiline, karşı tarafın bahse konu inşaattan el çektirilmesine ve inşaat mahallinde müvekkiline teslimi konusunda tedbir kararı verilmesini talep ve dava etmiştir.
 
 Davalı, davaya cevap vermemiştir.
@@ -107,6 +119,8 @@ SONUÇ: Yukarıda 1 nolu bentte açıklanan nedenlerle davacı vekilinin diğer 
 
 ## Yargıtay 23. HD 2018/3170 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/422633500)
+
 Davalılar vekili davanın reddini istemiştir.
 
 …
@@ -121,6 +135,8 @@ SONUÇ: Yukarıda (1) numaralı bentte açıklanan nedenlerle asıl davada davac
 
 ## Yargıtay 15. HD 2018/2795 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/431832300)
+
 Davacı ... Kooperatifi ile davalı ...Kooperatifi arasındaki davadan dolayı ... 19.
 
 …
@@ -134,6 +150,8 @@ Buna göre taraflar sözleşme ile, fesih halinde dahi gecikme tazminatı ile ce
 SONUÇ: Yukarıda açıklanan nedenlerle davalının karar düzeltme talebinin kabulüyle Yargıtay 23. Hukuk Dairesi'nin 12.04.2016 gün 2014/7917 Esas, 2016/2317 Karar sayılı bozma ilâmının kaldırılarak yerel mahkeme hükmünün değişik bu gerekçeyle davacı yararına BOZULMASINA …
 
 ## Yargıtay 15. HD 2018/2713 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/429550500)
 
 Dava kat karşılığı inşaat sözleşmesinden kaynaklanan sözleşmenin feshi ve tazminat talebine ilişkin olup mahkemece davanın kabulüne dair verilen karar, davalı tarafından temyiz edilmiştir.
 
@@ -150,6 +168,8 @@ Eser sözleşmesinin bir türü olan inşaat sözleşmeleri ani edimli sözleşm
 SONUÇ: Yukarıda 1. bentte açıklanan nedenle davalının diğer temyiz isteminin reddine, 2. bentte açıklanan nedenlerle kararın temyiz eden davalı yararına BOZULMASINA …
 
 ## Yargıtay 23. HD 2018/2601 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/421647200)
 
 Davacı vekili, müvekkili yüklenci ile davalı arsa sahibi arasındaki 27.03.1995 tarihli arsa payı karşılığı inşaat sözleşmesi ve ek sözleşmeler ile imal edilecek 180 ade daireden 80 adetini davalıya, 100 adetinin ise müvekkiline ait olacağının kararlaştırıldığını, müvekkilinin inşaatı %50 seviyesinde tamamladığını, işin süresinin 14.04.2000 tarihinde dolması nedeniyle müvekkili ile davalının bir araya gelerek sözleşme süresini 01.05.2000 tarihinden başlamak üzere 18 ay sonraya uzattıklarını, ülkede yaşanan ekonomik kriz nedeniyle müvekkilinin yükümlülüğünü yerine getiremez hale geldiğini, bu nedenle inşaata devam edilemeyeceğini davalıya bildirildiğini, müvekkilinin yaptığı imalat bedelinin 889.370.295.000 TL olduğunun tespit edildiğini ileri sürerek, bu rakamın dava tarihindeki değeri olan 1.154.983.500.000 TL nin dava tarihinden itibaren ticari işlere uygulanacak faizi ile davalıdan tahsiline karar verilmesini talep ve dava etmiştir.
 
@@ -169,6 +189,8 @@ SONUÇ: Yukarıda (1) nolu bentte açıklanan nedenlerle asıl davada davacı-ka
 
 ## Yargıtay 15. HD 2018/2410 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/428188800)
+
 Davacı taraflar arasında Düzenleme Şeklinde Yapılmış Gayrimenkul Satış Vaadi ve Kat Karşılığı İnşaat Sözleşmesi bulunduğunu, sözleşmeye göre Aşağı ....
 
 …
@@ -178,6 +200,8 @@ Davacının gecikme tazminatı niteliğinde olan kira kaybına ilişkin talebi m
 SONUÇ: Yukarıda 1. bentte yazılı nedenlerle davacının tüm, davalıların sair temyiz itirazlarının reddine, 2. ve 3. bent uyarınca davalıların temyiz itirazlarının kabulü ile hükmün temyiz eden davalılar yararına BOZULMASINA …
 
 ## Yargıtay 3. HD 2017/10212 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/350110000)
 
 Davacı vekili; davaya konu taşınmazın davalı .... Ltd.
 
@@ -201,6 +225,8 @@ SONUÇ: Yukarıda birinci bentte açıklanan nedenlerle davalılar ... vekilleri
 
 ## Yargıtay 23. HD 2017/1157 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/352950700)
+
 Davacı vekili, müvekkilinin davalı arsa malikleri ile 21.02.2000 ve 17.02.2006 tarihleri arasında arsa payı karşılığı inşaat sözleşmeleri imzaladığını, bir kısmının kendi aralarında yaşadığı anlaşmazlıklar sebebiyle sözleşme imzalamaktan kaçınması üzerine müvekkilince izale-i şuyu davası açılıp masraflarının müvekkilince karşılandığını, dava yoluyla da sorunun çözülemediğini, arsa maliklerine arsayı boş olarak teslim etmeleri için ihtar gönderdikten sonra azilname ile müvekkilinin işe başlamasına engel olunduğunu, yeniden ortaklığın giderilmesi davası açtığını, akabinde davacıların sözleşmeyi feshettiklerini ihbar ettiğini, davalıların resmi işlemler için vekaletname vermediklerini, arsa üzerindeki binaları yıkıp arsayı boş olarak teslim etmediklerini, feshin hukuka aykırı olduğunu ileri sürerek, sözleşmenin 19. maddesi uyarınca kâr mahrumiyetinin tespiti ve bu bedelin bir dairenin karar tarihindeki yarısından az olmamak üzere tahsili, ayrıca noter ve yargılama giderlerine karşılık şimdilik 9.750,00 TL'nin ve emlak komisyoncusuna ödenen 4.000,00 TL'nin ödeme tarihinden itibaren avans faizi ile birlikte davalılardan müştereken ve müteselsilen tahsilini, davalılardan ...'a ödenen
 1.835 USD'nin tahsilini talep ve dava etmiştir.
 
@@ -217,6 +243,8 @@ Müspet zarar, tamamen haklı olan tarafın sözleşmeden tamamen haksız olarak
 SONUÇ: Yukarıda açıklanan nedenlerle, davacı vekilinin tüm temyiz itirazlarının reddiyle usul ve kanuna uygun bulunan hükmün ONANMASINA …
 
 ## Yargıtay 23. HD 2016/3893 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/238225300)
 
 Davacı vekili, müvekkili ile davalı kooperatif arasında imzalanan 25.11.2008 tarihli arsa payı karşılığı inşaat sözleşmesinde, kooperatifin inşa etmekte olduğu binanın zemin katındaki iki adet işyerinin müvekkiline ait olacağının, bunlardan 2519 ada 4,5,12,13 ve 14 nolu parseller üzerinde inşaa edilen binanın zemin katında bulunan 160 m² depo+374 m² zemin+250 m² asma kattan oluşan işyerinin en geç 25.12.2011 tarihinde teslim edileceğinin ve tapu devrinin yapılacağının, aksi takdirde aylık 1.000 Euro kira bedeli ödeneceğinin, gecikmenin altı ayı geçmesi halinde ise 100.000 Euro cezai şart bedeli ödeneceğinin kararlaştırıldığını, parsel numalarının değişmesi sonucu bu işyerinin şu anda 4389 ada 8 parselde kain zemin kat 17 ve 18 nolu bağımsız bölümler olarak tapuda kayıtlı bulunduğunu, müvekkilinin sözleşmeden kaynaklanan tüm edimlerini yerine getirdiğini, ancak, davalı kooperatifçe anılan bağımsız bölümler teslim edilmediği gibi, tapusunun diğer davalı ...'a devredildiğini, adı geçenin iyiniyet iddiasında bulunamayacağını ileri sürerek, fazlaya ilişkin hakları saklı kalmak kaydıyla, davalı ... adına kayıtlı bulunan bağımsız bölümlerin tapu kaydının iptali ile müvekkili adına
 tescilini, tapu iptal ve tescil mümkün olmadığı takdirde uğranılan zararların karşılığı olarak 700.000,00 TL'nin davalılardan tahsilini, ayrıca, 6.000 Euro kira tazminatı ile 100.000 Euro cezai şart bedelinin davalı kooperatiften tahsilini talep ve dava etmiştir.

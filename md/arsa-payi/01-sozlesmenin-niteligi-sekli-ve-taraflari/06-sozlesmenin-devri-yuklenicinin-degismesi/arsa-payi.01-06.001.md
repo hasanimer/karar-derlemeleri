@@ -21,6 +21,8 @@ uyari: "Derleyenin seçtiği alıntılardır; kararın tamamı değildir. Künye
 
 ## Yargıtay HGK 2023/867 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/963753100)
+
 İlk Derece Mahkemesince verilen kararın davacı vekili tarafından istinaf edilmesi üzerine, Bölge Adliye Mahkemesince istinaf başvurusunun esastan reddine karar verilmiştir.
 
 …
@@ -42,6 +44,8 @@ Bu durumda uyuşmazlığa konu davanın, haksız ihtiyatî tedbir nedeniyle tazm
 Yerel mahkeme, ilk ve direnme kararında, özetle dava konusu ipoteklerin Kanuna uygun olduğunu, tedbirin istenmesi ve konulmasında Kanuni hakkını kullanan taşerona kusur yüklenemeyeceğini; kaldı ki, taşeronun geçici ipotek şerhlerinin dışında, tapu kayıtları üzerinde özel ve kamu hacizleri ile bankaların ipoteklerinin bulunduğunu, anılan haciz ve ipotekler nedeniyle taşınmazları satmak istese bile satamayacağı, sonradan satılan taşınmazların rayiç değerin altında satıldığının ispat edilemediği, dolayısıyla davacının zararının tespitinin mümkün olmadığı belirtilerek davanın reddine karar vermiştir.
 
 ## Yargıtay HGK 2022/643 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/792161100)
 
 Davacı vekili 28.10.2011 tarihinde harçlandırdığı ıslah dilekçesinde; mahkemece yapılan keşif sonucu alınan 07.07.2011 tarihli bilirkişi heyeti raporunda dava konusu yedi adet dairenin toplam bedeli 751.740TL hesaplandığından fazlaya ilişkin haklarını saklı tutarak dava değerini bu tutar üzerinden ıslah etmiş, 555.000TL’nin davanın ikame edildiği tarihten, bakiye 196.740TL’nin ise ıslah tarihinden itibaren işleyecek yasal faizi ile birlikte davalılardan müştereken ve müteselsilen tahsiline karar verilmesini talep etmiştir.
 
@@ -112,6 +116,8 @@ davalı kooperatifin davacıya karşı haksız fiil hükümlerine göre sorumlu 
 
 ## Yargıtay 6. HD 2025/1495 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1168074400)
+
 Davalı vekili cevap dilekçesinde; davacı tarafından iddia edilen sözleşmenin sahte bir sözleşme olduğunu, 30.05.2013 tarihli sözleşmede bulunan kaşe ve imzanın müvekkiline ait olmadığını, müvekkili ile davacı arasındaki müteahhit alt taşeron ilişkisinin kaynağının yalnızca 21.04.2013 tarihli arsa payı karşılığı inşaat sözleşmesi olduğunu, işbu sözleşme gereğinin de davacı ve taşınmaz sahibi annesi tarafından sözleşme gereğince yerine getirilmediğini, müvekkili tarafından taşınmaz üzerine HSBC lehine ipotek konulduğunun görüldüğünü, arsa payı karşılığı inşaat sözleşmesi gereğince yapılacak işlemlere engel teşkil edebilecek bu durumun ortadan kaldırılması için müvekkili tarafından davacının babası ...'e 116.000,00 TL ödendiğini, davacıdan kaynaklanan bu gibi engellerden dolayı arsanın, sözleşme tarihinden 5 ay sonra teslim alınabildiğini, yer tesliminin geç yapılmış olmasına rağmen müvekkilinin tüm gayret ve çabası ile inşaatın 2014 aralık ayında tam ve eksiksiz şekilde arsa sahibine teslim edildiğini, teslim edilen dükkan ve dairelerin kiraya verildiğini, davacının kötü niyetli olarak işbu davayı açtığını, müvekkili tarafından 21.04.2013 tarihli sözleşmenin 8. maddesine istinaden
 boş bir şekilde teminat senedi düzenlenerek davacıya verildiğini, davacının da işbu senedi anlaşmaya aykırı şekilde doldurarak ciro ettiğini ve akabinde müvekkiline karşı Düzce İcra Dairesi'nin 2019/5974 E. sayılı dosyası ile icra takibi başlatıldığını, icra takibine karşı Düzce İcra Hukuk Mahkemesi'nde takibin iptali istemli dava açıldığını, yapılan yargılama neticesinde davanın kabulü ile takibin iptaline karar verildiğini ve davalı tarafça davacı hakkında suç duyurusunda bulunulduğunu, davacının kötü niyetli olduğunu savunarak davanın reddini istemiştir.
 
@@ -126,6 +132,8 @@ Yukarıda (1) numaralı bentte açıklanan nedenlerle temyiz olunan, İlk Derece
 
 ## Yargıtay 6. HD 2025/320 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1140892800)
+
 Davalı ... vekili cevap dilekçesinde özetle; sözleşme konusu inşaatın en geç 06.03.2019 tarihinde bitirilmiş olması gerektiğini, ancak söz konusu inşaatın ancak %50'sinin tamamlandığını, sözleşmenin 5. maddesi uyarınca inşaatın bitirilmesi gereken süre içinde bitirilemediğini, müvekkili tarafından yüklenici müteahhit ...’a gönderilen ...t 1.
 
 …
@@ -139,6 +147,8 @@ Temyiz olunan Bölge Adliye Mahkemesi kararının 6100 sayılı Kanun'un 370/1 h
 
 ## Yargıtay 6. HD 2024/4919 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1112591300)
+
 Dairemiz bozma ilamı sonrası alınan bilirkişi raporlarında imalat seviyesinin %68,25 olduğu, buna göre alt yüklenici İzinteks İnşaat Şirketine 13,65 daire devredilmesi gerekirken, fazladan 1,35 dairenin fazladan devredildiği, ayrıca sözleşmenin 5. maddesi kapsamında taraflarca birlikte yapılması gereken harcamalar nedeniyle, davacı yüklenici ... İnşaat Şirketinin, davalı taşeron İzinteks İnşaat Şirketinden 205.950,56 TL alacaklı olduğu tespit edilmiştir.
 
 …
@@ -146,6 +156,8 @@ Dairemiz bozma ilamı sonrası alınan bilirkişi raporlarında imalat seviyesin
 SONUÇ: Yukarıda (1) numaralı bentte açıklanan nedenlerle, asıl davada davacı-birleşen 2008/333 Esas sayılı davada davalı ... İnşaat Şirketi, birleşen 2008/333 Esas sayılı davada davalı ... ve birleşen 2008/333 Esas sayılı davada davalı-birleşen 2008/448 Esas sayılı davada davacı ... vekillerinin tüm, birleşen 2008/333 Esas sayılı davada davacı-temlik alan ... vekilinin diğer temyiz itirazlarının reddine, (2) numaralı bentte açıklanan nedenlerle, birleşen 2008/333 Esas sayılı davada davacı-temlik alan ... vekilinin diğer temyiz itirazlarının kabulü ile usul ve yasaya aykırı olan mahkeme kararının, birleşen 2008/333 Esas sayılı davada davacı-temlik alan yararına BOZULMASINA …
 
 ## Yargıtay 6. HD 2024/4776 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1112516600)
 
 Davacı vekili dava dilekçesinde özetle; müvekkili ile dava dışı arsa sahibi Pimet Ltd. Şti. arasında yapılan sözleşmelerin feshine ve davalı kooperatife yönelik açılan davanın reddine karar verildiğini ve birleştirilen tapu iptali-tescil davasının ise yapı kullanma ruhsatlarının alınması gerektiğinden bahisle kararın bozulduğunu, mahkemece bozmaya uyulması sonucu yapılan yargılamada yapı kullanma izin belgesinin alınması için süre verildiğini, bu süre içerisinde yapı kullanma izin belgesi için gerekli olan masrafların tamamının müvekkili tarafından karşılanarak ruhsatın alındığını, oysa ki 06.08.1996 tarihli sözleşme uyarınca bu masrafların davalı kooperatif tarafından karşılanacağının kararlaştırıldığını ileri sürerek, 79.787,86 TL alacağın faizi ile davalıdan tahsilini talep ve dava etmiştir.
 
@@ -162,6 +174,8 @@ Arsa payı karşılığı inşaat sözleşmesinde yüklenici olan davacı ...’
 SONUÇ: Yukarıda açıklanan nedenlerle Ayvalık 1. Asliye Hukuk Mahkemesince verilen karar usul ve yasaya aykırı olduğundan davalı vekilinin temyiz sebeplerinin kabulü ile hükmün davalı lehine BOZULMASINA …
 
 ## Yargıtay 6. HD 2024/4509 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1112750300)
 
 Davacı vekili dava dilekçesinde özetle; davacının dava dışı Yüksekoba İnş. San. ve Tic. Ltd.
 
@@ -183,6 +197,8 @@ SONUÇ: Yukarıda açıklanan nedenlerle İlk Derece Mahkemesi kararı ile bu ka
 
 ## Yargıtay 6. HD 2024/4205 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1111998000)
+
 Davacı vekili dava dilekçesinde; müvekkili şirketin dava konusu taşınmazı Nurtun İnşaat Yapı San. ve Tic. Ltd. Şti ile yapılan 26.10.2015 tarihli sözleşme ile satın aldığını, ilgili taşınmazın arsa sahibi konumunda olduğunu, taşınmaz üzerinde inşa edilecek konutların yapımı konusunda Fa-Be Grup firmasıyla sözleşme yapıldığını, ilgili taşeron firmanın yükümlülüklerini yerine getirmediğini, işin ayıplı olarak ifa edildiğini, A2 Blok 11 numaralı arsa payını kötü niyetli olarak 3. kişilere devrettiğini, yüklenici taşeron firma edimlerini yerine getirmediğinden kendisine avans olarak verilen bu payın geri istenebileceğini ileri sürerek A2 blok 11 numaralı arsa payını üzerindeki tapu kaydının iptali ile davacı müvekkili şirket adına tesciline ve fazlaya ilişkin hakları saklı kalmak kaydıyla şimdilik 3.000 Türk Lirası'nın yasal faizi ile tahsilini talep ve dava etmiştir.
 
 Davalı vekili cevap dilekçesi sunmamış, yargılama aşamasında müvekkilinin taşınmazı, tapuda malik görünen kişiden aldığını iyi niyetli olduğunu savunarak, davanın reddini istemiştir.
@@ -197,6 +213,8 @@ Sakarya Bölge Adliye Mahkemesince İlk Derece Mahkemesinin kararının gerekçe
 SONUÇ: Yukarıda açıklanan nedenlerle Sakarya Bölge Adliye Mahkemesi 5. Hukuk Dairesi kararına ilişkin davacı vekilinin tüm temyiz sebeplerinin reddiyle ile sonucu itibariyle doğru olan kararın gerekçesi değiştirilmek suretiyle DÜZELTİLEREK ONANMASINA …
 
 ## Yargıtay 6. HD 2024/3289 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1109178200)
 
 Davacı yüklenici vekili dava dilekçesinde özetle; müvekkili ile davalı arsa sahibi arasında Üsküdar 11. Noterliği’nin 06.11.2009 tarih ve 35375 yevmiye sayılı arsa payı karşılığı inşaat sözleşmesi imzalandığını, yapılacak 22 bağımsız bölümden 11 bağımsız bölümün davacıya ait olacağının düzenlendiğini, inşaatın davacı tarafından %90-95 oranında tamamlandığını, davalının inşaatın tamamlanması konusunda sürekli sorun çıkardığını ve en son olarak sözleşmenin feshi için İstanbul Anadolu 24.
 
@@ -218,6 +236,8 @@ SONUÇ: Yukarıda açıklanan nedenlerle, davacı vekilinin temyiz itirazların�
 
 ## Yargıtay 6. HD 2024/1510 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1094609600)
+
 Davacı vekili dava dilekçesinde; davalı şirketin 14.04.2016 tarihli düzenleme şeklinde taşınmaz satış vaadi ve arsa payı karşılığı inşaat sözleşmesi ile üç bloktan oluşan site yapmak için dava dışı arsa sahipleri ile sözleşme imzaladığını, buna göre A bloğun tamamının arsa sahiplerine, B ve C Bloğun ise müteahhite kalacağını kararlaştırdıklarını, müvekkilinin inşa edilecek B bloğun su tesisatı işini anahtar teslim bitirmeyi üstlendiğini ve bunun karşılığında B blok zemin kat 9 numaralı bağımsız bölüm meskenin devri ve tapusunun tescili konusunda anlaşmaya varıldığını, edimlerin ifa edildiği halde dava konusu taşınmazın müvekkili adına tescilinin yapılmadığını, taşınmazın muvazaalı olarak davalı iştiraki olan ...
 
 …
@@ -237,6 +257,8 @@ Bu durumda mahkemece; yukarıdaki ilkelere göre inceleme yapılarak, uzman bili
 “Değerlendirme” bölümünün “ 2” nci bendinde açıklanan nedenlerle davacı vekilinin temyiz itirazlarının kabulü ile temyiz olunan İlk Derece Mahkemesi kararına karşı davacı vekilinin istinaf başvurusunun esastan reddine ilişkin Bölge Adliye Mahkemesi kararının ORTADAN KALDIRILMASINA …
 
 ## Yargıtay 6. HD 2024/795 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1045824900)
 
 Davacı vekili dava dilekçesinde özetle; müvekkilinin davalı şirketin yüklenicisi olduğu daireyi dava dışı ...’nun da imzaladığı harici satım sözleşmesi ile satın aldığını, ancak, dava dışı ...’nun davalı şirketin yapmış olduğu dairelerinin boya ve marangoz işlerini tam olarak yerine getirmemesi nedeniyle dairenin tapu devrinin müvekkili adına yapılmadığını, oysa, müvekkilinin davalı şirket ile dava dışı ... arasındaki ilişkiden haberdar olmadığını, harici satım sözleşmesinde dairenin yaptığı iş karşılığı ...’na satıldığının yazılı olmadığını ileri sürerek, davalı gerçek kişi adına kayıtlı tapu kaydının iptali ile müvekkili adına tescilini talep ve dava etmiştir.
 
@@ -258,6 +280,8 @@ karşı edimini yerine getirip getirmediğinin incelenmesi (dava dışı taşero
 Yukarıda (1, 2, 3, 4) numaralı paragraflarda açıklanan nedenlerle, davacı vekilinin temyiz itirazlarının kabulü ile hükmün BOZULMASINA …
 
 ## Yargıtay 6. HD 2024/178 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/997083500)
 
 2.4. Arsa sahibince taşınmaz devri konusunda yetkilendirilen ... 04.06.2013 tarihinde söz konusu hisseyi tapuda dava dışı ... Şirketine devretmiştir. Yüklenici şirket de aynı parselde kendi adına kayıtlı olan hissenin bir kısmını 28.06.2013 tarihinde ... şirketine tapuda devretmiştir. Dosya kapsamından, sözleşmeye konu işin ... Şirketine devredildiği, inşaatın bu şirket tarafından yapıldığı anlaşılmıştır. Nitekim, yüklenici ... Şirketi yetkilisi tarafından ... Şirketi yetkisiline gönderilen 08.12.2015 tarihli ihtarnamede, arsa payı karşılığı inşaat sözleşmesinden kaynaklanan tüm cezai ve hukuki sorumluluğun ... Şirketine devredildiği, arsa sahibi şirketin tüm mağduriyetinin giderilmesi gerektiği aksi taktirde kendilerine rücu edileceği, bugüne kadar verilmesi gereken hasılat payının verilmediği belirtilmiştir. Dosya arasında bulunan, yüklenici şirket yetkilisi ve ... Şirketi yetkilisi arasında adi yazılı şekilde düzenlenmiş 25.06.2013 tarihli sözleşmede söz konusu inşaatla ilgili hasılat paylaşımı yapıldığı görülmüştür.
 Yüklenici şirket tarafından arsa sahibine gönderilen 14.12.2015 tarihli ihtarnamede de 25.06.2013 tarihli sözleşme ile taşınmaz ile ilgili tüm cezai ve hukuki sorumluluğun ... Şirketine devredildiği ve hiç bir sorumluluklarının kalmadığı bildirilmiştir.

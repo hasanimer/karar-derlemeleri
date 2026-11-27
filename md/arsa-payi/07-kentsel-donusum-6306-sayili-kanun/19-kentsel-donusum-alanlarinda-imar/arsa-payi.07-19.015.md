@@ -22,6 +22,8 @@ uyari: "Derleyenin seçtiği alıntılardır; kararın tamamı değildir. Künye
 
 ## Danıştay 6. D. 2018/4721 E., 2021/14469 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/794080700)
+
 İlk Derece Mahkemesi kararının özeti:
 İdare Mahkemesince, yerinde mahallinde yaptırılan keşif ve bilirkişi incelemesi sonucu hazırlanan rapor ve dosyada yer alan diğer bilgi ve belgelerin birlikte değerlendirilmesinden, bir önceki iptal kararı gereklerinin yerine getirilmediği, dava konusu planın anılan kararda belirtilen olumsuzlukları ve aykırılıkları taşımakta olduğu, planların 1/25000 ölçekli üst kademe plana, planların kademeli birlikteliği ilkesine ve Planlı Alanlar Tip İmar Yönetmeliği'nin değiştirilemeyen tanımlar bölümündeki 13/1 maddesine aykırı olduğu, eskiden gecekondu türü yapısal dokuda olan ancak 1/125000 üst ölçekli ana planda seyrek yoğunlukta ''Meskun Konut Alanı'' ve KD olarak öngörülen alanda, ağaçlandırılacak alanlardan da katılarak nüfus yoğunluğunun, nüfus kapasitesinin, toplam inşaat alanının üst kademe planda öngörülenden daha fazlaca artırıldığı, ayrıca ağaçlandırılacak alanların bir kısmının konuta açılarak yok edildiği, sosyal ve teknik altyapı kullanımlarından özellikle İlköğretim, Ortaöğretim, Kreş, Dini Tesis gibi alanların yetersiz olduğu, Mekansal Planlar Yapım Yönetmeliği'nde tanımlı planlama standartlarının altında kaldığı, merkezi iş alanı-MİA işlevli merkez adaları içinde yer
 alacağı belirtilen çeşitli iş ve ticaret hizmet kullanımlar ile konut kullanımı ve bazı sosyal donatı kullanımlarının yoğunluk ve oluşturulan nüfus kapasitesi bağlamında alansal ve gerekli büyüklükte ayrı ayrı olmadığı gibi ne oranlarda yer alacağın da belirtilmediğinden bu hususlarda belirsizlik olduğu, parsel ölçeğinde parçacı yaklaşımla yapılan dava konusu plan değişikliklerinde planlama alanı ve yakın çevresi ile kent bütünü üzerinde oluşturulabileceği konut-iş alanları ilişkisi, ulaşım dolaşım ilişkileri ile nüfus, iş gücü dağılımına olası etkileri konusunda detaylı araştırma ve açıklamalar yapılmadığından bu hususun üst kademe plan esaslarına aykırı olduğu, çeşitli sosyal donatı ve teknik altyapı alanlarının yerleşime uygun olmayan alan ve önemli alan ve hatta afete maruz alanlarda konumlandırıldığı, imar planlarının nüfus tahmini ve nüfus yoğunluğu, yapı nizamı, emsal gibi yapılaşma koşulları şeklinde mekansal ve mekansal olmayan plan kararlarını da üretmesi gerektiği ve konut sayısının da teknik olarak bu planlama ana kararlarından giderek belirlenmesi gerekirken bu hususta belirsizlik olduğu, plan notlarından özellikle 1,3,4,6,8,18,29 nolu plan notlarının plan hükmü haline
@@ -33,6 +35,8 @@ Bu itibarla, yerleşime uygunluk sınırı dışında herhangi bir yapılaşman�
 
 ## Danıştay 6. D. 2018/4533 E., 2021/14463 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/736289900)
+
 2007 onay tarihli 1/25000 ölçekli nazım imar planında seyrek yoğunluklu konut gelişme alanı ve ağaçlandırılacak alanda kalan uyuşmazlık konusu parsellerin nazım imar planı değişikliğiyle yüksek yoğunluklu konut gelişme alanı ve açık yeşil alana dönüştürüldüğü, konut alanlarında yer alacak kullanımlara ilişkin ana planlama kararları 1/5000 ölçekli nazım imar planlarında, kullanımların yer seçimleri ve büyüklüklerine ilişkin uygulama ölçeğindeki kararlar 1/1000 ölçekli uygulama imar planlarında belirleneceği, yasa düzeyindeki düzenlemeler ile planların dinamik niteliği ve alt ölçekli planlarda (1/5000) kentsel, sosyal, teknik altyapı alanlarının ve 3194 sayılı Yasa ile ilgili Yönetmeliklere göre ayrılacağı dikkate alındığında, dava konusu plan değişikliğine konu alanda nüfus artışı olacağının bir veri olarak alınması gerektiği, dolayısıyla 1/25000 ölçekli nazım imar planı değişikliğinde imar mevzuatına, şehircilik ilkelerine, planlama esaslarına ve kamu yararına aykırılık bulunmadığı sonucuna varılmıştır.
 
 …
@@ -40,6 +44,8 @@ Bu itibarla, yerleşime uygunluk sınırı dışında herhangi bir yapılaşman�
 Dava konusu işlemlerin yukarıda özetlenen gerekçeyle iptali yolunda verilen Mahkeme kararına yapılan istinaf başvurusunun kısmen kabulü, kısmen reddine dair temyize konu ... Bölge İdare Mahkemesi ... İdari Dava Dairesinin ... tarih ve E:..., K:... sayılı kararının BOZULMASINA …
 
 ## Danıştay 6. D. 2021/3502 E., 2021/13298 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/726862400)
 
 Kat alanı kat sayısı (KAKS) (Emsal)" bendinde yer alan "güneş, rüzgâr, yağmur ve kar etkisine karşı üstü örtülü bir veya birden fazla kenarı açık olan ve her bir bağımsız bölümle irtibatlı zemine oturan teraslar, çatı terasları ve çatı bahçeleri", "Temelden çatıya taşıyıcı sistemle doğrudan bağlı olmayan binaya bitişik veya ayrık bir veya birden fazla kenarı açık olan arkatlar", "Kapıcı daireleri ve bahçıvan evlerinin toplam 75 m²’si", "sahanlıklar", "silolar", "trafolar", "Bütün cepheleri tamamen toprağın altında kalan katlarda yer alan ve tek başına bağımsız bölüm oluşturmayan veya bir bağımsız bölümün eklentisi veya parçası olmayan; ortak alan veya binaya ait jimnastik salonu, oyun ve hobi odaları, yüzme havuzu, sauna gibi sosyal tesis ve spor birimleri", "Bütün cepheleri tamamen toprağın altında kalan bodrum katlar ile kısmen açıkta kalan bodrum katlarının en altındaki tavan döşeme kotu yol kotunun altında olan ve yola cephesi bulunmayan bodrum katında yer alan ve tek başına bağımsız bölüm oluşturmayan; yapı inşaat alanının %5’ini aşmayan ortak alan depolar, konut kullanımlı bağımsız bölümün bağımsız bölüm bürüt alanının %20’sini, ticari kullanımlı bağımsız bölümün bağımsız
 bölüm bürüt alanını aşmayan depo amaçlı eklentiler", "açık yüzme havuzları, atlama kuleleri", "ticari amaç içermeyen kreş ve çocuk bakım ünitelerinin, toplam yapı inşaat alanının %5’ini aşmamak koşuluyla 750 m²’yi geçmeyen kısımları", "Bulunduğu katın alanının toplam .....’ini geçmemek koşuluyla; sökülür-takılır-katlanır cam panellerle kapatılmış olanlar dâhil olmak üzere balkonlar, açık çıkmalar ile kat bahçe ve terasları" ifadelerinin, "14.Asma Kat" bendinin tamamının; 15'inci maddesiyle değiştirilen PATİY'in 18'inci maddesinin 4. bendinin; 24'üncü maddesi ile değiştirilen Planlı Alanlar Tip İmar Yönetmeliğinin 27. maddesinin "Ancak imar planında aksine bir hüküm bulunmuyorsa 40 metreden daha fazla cephe uzunluğu yapılabilmesine ilişkin karar almaya o yer için uygulama imar planı ile tespit edilen yapı karakteri, mevcut doku ile uyumu ve cephe kütle etkisi de dikkate alınarak mimari estetik kurulları yetkilidir" ifadesinin;
@@ -49,6 +55,8 @@ bölüm bürüt alanını aşmayan depo amaçlı eklentiler", "açık yüzme hav
 Dava konusu Yönetmeliğin 12. maddesi ile değiştirilen PATİY'nin 14. maddesinin birinci fıkrasının 3. bendinin (a) alt bendinde yer alan "anaokulu ve kreş" ibaresinin İPTALİNE …
 
 ## Danıştay 6. D. 2018/5459 E., 2021/12955 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/723925000)
 
 İSTEMİN ÖZETİ : Ankara İli, Gölbaşı İlçesi, …
 
@@ -76,6 +84,8 @@ sayılı kararın, usul ve hukuka aykırı olduğu ileri sürülerek bozulması 
 
 ## Danıştay 6. D. 2019/19411 E., 2021/12545 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/746866300)
+
 İlk Derece Mahkemesi kararının özeti: … İdare Mahkemesince verilen … tarih ve E:… , K:
 
 … sayılı kararda; dosyadaki bilgi ve belgeler ile yerinde yaptırılan keşif ve bilirkişi incelemesi sonucu düzenlenen raporun birlikte değerlendirilmesinden; yakın çevrede yürüme mesafesinde birçok ibadet alanı bulunduğu göz önüne alındığında ibadet alanına ihtiyaç olmadığı, diğer taraftan özel mülkiyete konu olan alanda maliklerin rızası olmadan imar planı değişikliğine gidildiği, plan değişikliğine ilişkin plan notu ve yapılaşma şartları belirtilmediği ve bu durumun imar planlarının belirliliği ilkesine uymadığı, plan değişikliklerinin onaylı halihazır haritalar veya geçerli imar planı paftaları üzerine çizilmediği hususları da birlikte değerlendirildiğinde, imar ve şehircilik ilkelerine ve planlama esaslarına uygun olmadığı anlaşılan dava konusu uygulama imar planında hukuka uyarlık bulunmadığı sonucuna ulaşıldığı gerekçesiyle dava konusu işlemin iptaline karar verilmiştir.
@@ -96,6 +106,8 @@ Belediyelerin görev ve sorumlulukları kapsamındaki hizmetlerinin götürüleb
 Dava konusu işlemin yukarıda özetlenen gerekçeyle iptaline ilişkin Mahkeme kararına yönelik olarak yapılan istinaf başvurusunun reddi yolundaki temyize konu … Bölge İdare Mahkemesi … İdari Dava Dairesinin … tarih ve E:…
 
 ## Danıştay 6. D. 2018/9041 E., 2021/12014 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/750530200)
 
 İlk Derece Mahkemesi kararının özeti: … İdare Mahkemesince verilen … tarih ve E:…, K:
 
@@ -122,6 +134,8 @@ Yukarıda özetlenen gerekçeyle dava konusu işlemin iptaline ilişkin Mahkeme 
 
 ## Danıştay 6. D. 2016/4761 E., 2021/11912 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/730226300)
+
 Davacı tarafından ileri sürülen, Gaziemir ilçesinin batısında, dağların eteğinde yer alan ve tarım yapmaya ve yerleşime açmaya elverişli olmayan arazilerin dava konusu 1/100.000 ölçekli İzmir-Manisa Planlama Bölgesi Çevre Düzeni Planında "kentsel gelişme alanı" olarak belirlendiği, yaklaşık 174 ha'lık alanın 08.07.2014-06.08.2014 tarihleri arasında askıya çıkarılan 1/100.000 ölçekli Çevre Düzeni Planında "tarım alanı" ve 1/25.000 ölçekli Büyükşehir Bütünü Çevre Düzeni Planı ve Gaziemir 1/5000 ölçekli Nazım İmar Planında "doğal karakteri korunacak alan" olarak ayrıldığı, dava konusu İzmir-Manisa Planlama Bölgesi 1/100.000 ölçekli Çevre Düzeni Planı Plan Hükümlerinin 7.2 sayılı maddesinde "Bu plandan ölçü alınarak uygulamaya geçilemez. Bu plan ile belirlenen kentsel gelişme alanları, bu alanların tamamının yerleşime açılacağını göstermez.
 
 …
@@ -131,6 +145,8 @@ değerlendirildiği, ancak yürürlükte olan 1/25.000 ölçekli İzmir Büyük�
 çevre düzeni planı ölçeğinde hangi usül ve esaslara göre planlama yapılacağının ayrıntıları ile ilgili Kanun ve Yönetmeliklerde düzenlendiği , dava konusu planda genel olarak şematik bir dil kullanıldığı, korunacak alanlar ile sektörel açıdan stratejik öneme sahip alanlara yönelik genel arazi kararlarının üretildiği, plan notları ile alt ölçekli imar planlarına yön verecek koruma ve geliştirme strateji ve ilkelerinin belirlendiği görüldüğünden, planın bölge ve havza bazında mevzuata uygun olarak hazırlandığı ,davaya konu çevre düzeni planının plan notlarının 7.1 sayılı maddesi, 7.2 sayılı maddesi,;
 
 ## Danıştay 6. D. 2021/7501 E., 2021/11684 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/717893800)
 
 İSTEMİN ÖZETİ : İstanbul ili, Güngören İlçesi, …
 
@@ -168,6 +184,8 @@ sayılı kararın, usul ve hukuka aykırı olduğu ileri sürülerek bozulması 
 
 ## Danıştay 6. D. 2019/1026 E., 2021/10888 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/717883000)
+
 İlk Derece Mahkemesi kararının özeti: … İdare Mahkemesince verilen … tarih ve E:… , K:
 
 … sayılı kararda; askı ilan süresi içinde dava konusu imar planı değişikliğine karşı TMMOB Mimarlar Odası ile 28 adet kat malikinin itirazda bulunması üzerine davalı idarece askı itirazlarının kabul edilmesi ve imar planı değişikliğinin davanın açıldığı 06/09/2017 tarihinden önce Bursa Büyükşehir Belediye Meclisinin … tarih ve … sayılı kararı ile iptal edilmesi karşısında, bakılan davada idari davaya konu edilebilecek kesin ve yürütülebilir nitelikte bir işlem bulunmadığından, davanın esasının incelenmesine hukuken olanak bulunmadığı gerekçesiyle davanın incelenmeksizin reddine karar verilmiştir.
@@ -184,6 +202,8 @@ Davanın yukarıda özetlenen gerekçeyle incelenmeksizin reddine ilişkin Mahke
 
 ## Danıştay 6. D. 2019/19466 E., 2021/10347 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/696795000)
+
 Cumhurbaşkanlığı tarafından; taşınmazların sürekli yağış alan bölgede can ve mal kayıplarına sebebiyet vermemesi ve inşaatı devam eden projeyle ilgili plan bütünlüğünde yapılacak çalışmaları akamete uğratmaması, bu kapsamda anlaşma yapan hak sahiplerinin kamulaştırmadan kaynaklanan gecikme nedeniyle mağduriyet yaşamaması için işin aciliyetine binaen acele kamulaştırma kararının alındığı, Ortaköy Mahallesi sınırları içerisinde yer alan parseller üzerindeki mevcut yapılaşmaların çoğunluğunun gecekondu, kaçak ve çarpık yapılar olduğu, altyapılarının yetersiz olması sebebiyle anılan yapıların tasfiye edilmesi gerektiği, bu yapıların bulunduğu alanlarda mülkiyet, imar, altyapı gibi sorunların çözülemediği dikkate alınarak ilçenin planlı gelişmesi, yöresel özellikleri ile ön plana çıkan bir yaşam alanının ortaya çıkmasının sağlanması amacıyla 6306 sayılı Kanunun 2. maddesinin (c) bendi uyarınca “rezerv yapı alanı” olarak ilan edildiği ve dava konusu işlemin hukuka uygun olduğu belirtilerek davanın reddi gerektiği savunulmaktadır.
 
 TOKİ Başkanlığı tarafından;
@@ -194,11 +214,15 @@ MÜDAHİLİN (DAVALILAR YANINDA) SAVUNMASININ ÖZETİ: 1400 tapu malikinden 1320
 
 ## Danıştay 6. D. 2018/3374 E., 2021/10168 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/704524000)
+
 DAVACILARIN İDDİALARI : Uyuşmazlığa konu alanların 6306 sayılı Kanun, 5393 sayılı Kanun ve 3194 sayılı Kanun gereği kentsel dönüşüm alanı kabul edilemeyeceği; 2018/11368 sayılı Bakanlar Kurulu Kararının hukuka aykırı olduğu; alanların “plansız, çarpık, yapılaşmış, ekonomik ömrünü doldurmuş, depreme dayanıksız” yapılardan oluşmadığı; kentsel dönüşüm alanı ilan edilen alanda herhangi bir sabit yapı bulunmadığı, yapıların bir kısmının sökülebilir malzemeden yapılan geçici mahiyetteki işyerleri olduğu, diğer bir kısmının ise çelik konstrüksiyon sökülebilir malzemeden olan yapılar olduğu, alanda sabit bir bina bulunmadığı, belediye eliyle ve gösterilen plan çerçevesinde yapılan yapıların “plansız ya da çarpık” olarak kabul edilemeyeceği, çelik konstrüksiyon binaların yeni yapıldığı ve en çok iki-üç yıllık yapılar olduğu, istenildiğinde sökülüp imara uygun yapılar yapılabileceği, şehirde kentsel dönüşüme ilişkin bir araştırma ve inceleme yapılmadığı, …
 
 nolu adada sadece sökülebilir malzemeden oluşan tek katlı prefabrik bir yapı ve deprem sonrası yapılan konstrüksiyondan iki katlı yapılar ve boş bir arsanın bulunduğu, bu mimari ve yapılaşma özelliklerinin deprem bakımından bir risk taşımadığı ve riskli alan olarak kabul edilemeyeceği, kentsel dönüşüm alanı belirlenirken alanı geniş göstermek için 15 dönümlük alan yerine 5 hektarlık alanın gösterildiği, belediye tarafından alınan riskli alan kararına ilişkin raporun gözlemsel bir şekilde düzenlendiği, bilimsel bir çalışmadan ve kamu yararından uzak olduğu, şehirde kent meydanı için uygun alanlar olduğu ve mevcut imar planında eski Adliye Binası ve Van Valiliği yeri ve çevresindeki boş geniş alanın kent meydanı olarak planladığı ve kesinleşmiş bu karara rağmen kentsel dönüşüm alanı ilanı kararında başka bir meydan kararı alındığı, önceden planlanmış olan kent meydanı kararının uygulanmasında kamu ve devlet bütçesine külfet gelmeyeceği, karar alınırken gerekli birim ve kuruluşların, esnafın ve ticaret ve esnaf birliklerinin görüşünün alınmadığı, Müze Sokağı olarak anılan sokağın ilin tek turistik sokağı ve alanı olduğu ileri sürülmektedir.
 
 ## Danıştay 6. D. 2019/13816 E., 2021/9974 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/697785300)
 
 İSTEMİN ÖZETİ : İstanbul ili, Pendik ilçesi, ... Mahallesi, ... ada, ... parsel sayılı taşınmazı kapsayan alanda, 6306 sayılı Afet Riski Altındaki Alanların Dönüştürülmesi Hakkında Kanun kapsamında 12.12.2016 tarih ve 2016/9618 sayılı Bakanlar Kurulu Kararı ile İstanbul ili, Pendik ilçesi, ... Mahallesi sınırları içerisinde belirlenen "riskli alana" ilişkin hazırlanan ve 22.02.2017 tarihinde onaylanan 1/5000 ölçekli nazım imar planı değişikliği ile 1/1000 ölçekli uygulama imar planı değişikliğinin iptali istemiyle açılan davanın reddi yolundaki ... İdare Mahkemesi'nin ... tarih ve E: ... , K: ... sayılı kararına karşı yapılan istinaf başvurusunun davanın süre aşımı nedeniyle reddi gerektiği gerekçesiyle reddine dair ... Bölge İdare Mahkemesi ... İdari Dava Dairesince verilen ... tarih ve E: ..., K: ... sayılı kararın, usul ve hukuka aykırı olduğu ileri sürülerek bozulması istenilmektedir.
 
@@ -207,6 +231,8 @@ nolu adada sadece sökülebilir malzemeden oluşan tek katlı prefabrik bir yap�
 ... Bölge İdare Mahkemesi ... İdari Dava Dairesince verilen ... tarih ve E: ..., K: ... sayılı karar ve dayandığı gerekçe hukuk ve usule uygun olup bozulmasını gerektirecek bir sebep bulunmadığından, anılan kararın ONANMASINA …
 
 ## Danıştay 6. D. 2021/3236 E., 2021/9064 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/681577700)
 
 Dosyadaki bilgi ve belgeler ile yukarıdaki mevzuat hükümlerinin birlikte değerlendirilmesinden; davacının hissedarı olduğu Ankara İli, Yenimahalle İlçesi, …
 
@@ -259,6 +285,8 @@ sayılı kararının uygulanırlığının kalmaması nedeniyle iptaline karar v
 Dava konusu işlemin yukarıda özetlenen gerekçeyle iptaline ilişkin temyize konu ... İdare Mahkemesinin … tarih ve E:…
 
 ## Danıştay 6. D. 2020/4616 E., 2021/7604 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/688089400)
 
 Bu davanın konusunu oluşturan kararın iptali istemiyle açılan ve Danıştay 6. Dairesinin E:2020/4617 sayılı dosyasına kayıtlı davada sunulan YTÜ Mimarlık Fakültesi Şehir Bölge Planlama Bölümünden üç öğretim üyesi tarafından hazırlanan teknik raporda; işlemin dayanağı olan teknik raporun "riskli alan" ilan edilen ve içindeki 290 adet parselin %51'i özel mülke tabi olan bölgenin nasıl bir uygulama göreceği, mülkiyet hakkının nasıl korunacağına ilişkin bir model önerisi sunmadığı, alanın yerleşmenin tarihi çekirdeği ve komşuluğunda, kentin merkezinde yer alması ve 2007 onanlı nazım ve uygulama imar planlarında; ticaret, dini tesis, resmi kurum, konut, yol ve yeşil alanlar bulunması nedeniyle plan bütünlüğü içinde kent merkezinin geleceği, kentin ne yönde büyüyeceği, bağlantılı ulaşım ve kent makroformunu etkileyecek içerikteki kararların parçacıl olarak ele alınamayacağı, bu karaların nazım plan bütününde değerlendirilmesi gerektiği, riskli alana ilişkin teknik gerekçe dere yatağı üzerindeki yapılaşmanın risk oluşturduğu temeline dayanmakta ise de;
 4,82 Ha büyüklüğündeki riskli alan sınırının %59'unun dere yatağı koruma bandı içinde, %41'inin ise taşkın sınırları dışında kaldığı, dere yatağı içinde kalıp, riskli alan sınırı dışında ve içinde kalan yapılar arasındaki farkın somut olarak ortaya konmadığı, aynı karakter ve özellikte olmasına rağmen bir sokağın sol tarafı riskli alan içine alınırken, sağ tarafının riski alan dışı bırakıldığı, planda iki katlı konut alanında kalmasına karşın imar mevzuatına aykırı olarak 5 katlı inşaa edilen ve taşkın alan için olan yapının riski alan dışı bırakıldığı, taşkın alan sınırının yasada öngörülen şekille örtüşmediği, tarihsel süreçte yaşanan afet olaylarının somut olarak ortaya konmadığı, taşınmazların büyük kısmının imar planında dere, park ve imar yolunda kalmasının riskli alan ilanına gerekçe oluşturmayacağı bunun plan uygulama araçları kapsamında değerlendirilmesi gerektiği, teknik raporda imar riskli alan sınırının imar planlarına esas jeolojik etüt raporunda ÖA-2.3 (önlemli alan) olarak belirtildiği, bu lejantın riskli alan dışında da var olduğu, depremsellik konusunda bilimsel görüşlere ye verilmediği, teknik raporda sayısal değerleri içeren hidrolik veriler yer almadığından,

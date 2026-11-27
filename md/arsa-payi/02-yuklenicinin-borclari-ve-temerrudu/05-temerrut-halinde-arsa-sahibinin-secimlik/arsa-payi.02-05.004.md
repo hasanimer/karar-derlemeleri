@@ -22,6 +22,8 @@ uyari: "Derleyenin seçtiği alıntılardır; kararın tamamı değildir. Künye
 
 ## Yargıtay 7. HD 2023/937 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/897364000)
+
 Davacı vekili dava dilekçesinde; müvekkilinin dava dışı yüklenici ile noterde düzenleme şeklinde kat karşılığı inşaat sözleşmesi yapıldığını, dava konusu müteahhide kalacak 25 No.lu bağımsız bölümün satış sözleşmesiyle yüklenici tarafından davalıya satıldığını; davalının, davacı aleyhine açtığı tapu iptali ve tescil davasının reddine karar verildiğini, 2006 tarihinden beri davacı adına kayıtlı evde oturan davalının karar üzerine evden taşındığını, fakat anahtarı teslim etmediğini ileri sürerek elatmanın önlenmesi ile ecrimisil talep etmiştir.
 
 …
@@ -41,6 +43,8 @@ Davacı tapuda kayıt maliki olup ayni hak sahibidir. Davalı ise yükleniciden 
 Temyiz olunan Bölge Adliye Mahkemesi kararının BOZULMASINA …
 
 ## Yargıtay 6. HD 2022/4676 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/837993600)
 
 Davacı vekili, müvekkili ile davalı yüklenici ... Kent İnş...Ltd. Şti. arasında düzenlenen arsa payı karşılığı inşaat sözleşmesinde, arsa sahibi olan müvekkiline dört adet daire verileceğinin kararlaştırıldığını, davalının bu dairelerden üç tanesini teslim ettiğini, ancak müvekkiline isabet eden 4. kattaki güney doğu cepheli C blok 15 no.lu daireyi teslim etmediğini, bu daireyi vekalet yetkisini kötüye kullanarak, satış yetkisi olmadığı halde davalı ...’e sattığını ileri sürerek, anılan bağımsız bölümün tapu kaydının iptali ile müvekkili adına tescilini talep ve dava etmiştir.
 
@@ -64,6 +68,8 @@ SONUÇ: Yukarıda açıklanan nedenlerle, davalı ... vekilinin temyiz itirazlar
 
 ## Yargıtay 15. HD 2021/1023 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/653355300)
+
 Taşıdığı unsurlara da bakarak arsa payı karşılığı inşaat sözleşmesini; yüklenicinin, arsa üzerine bina inşaa etmek ve inşa ettiği binanın belirli bağımsız bölümlerini arsa sahibine teslim etmesi karşılığında, arsa sahibinin de, arsanın belirli paylarını yükleniciye devretmeyi taahhüt ettiği, karşılıklı edimler içeren, karma nitelikli bir akit olarak tanımlamak mümkündür (Erman, Hasan; Arsa Payı Karşılığı İnşaat Sözleşmesi, Der Yayınları, İstanbul, 2007, s. 1). Taraflar, sözleşme hürriyeti gereğince, sözleşmenin şeklini ve içeriğini istedikleri şekilde belirleyebileceklerdir. Ancak sözleşme, tapu devrini de içerdiğinden TMK’nın 706. TBK’nın 237. Tapu Kanunu'nun 26. ve Noterlik Kanunu’nun 60 ve 89. maddeleri gereğince, noterlikte düzenleme şeklinde yapılması geçerlilik koşuludur. Eser sözleşmesinin bir türü olarak, eser sözleşmesinin unsurlarını taşımakla birlikte, taşınmaz satımını da içerdiğinden karma nitelikli bir akit olarak nitelemek mümkündür. Arsa sahibinin, arsayı devretme, yüklenicinin ise eseri meydana getirme ve kararlaştırılan oranda bağımsız bölümü devretme edimi bulunmaktadır.
 Bu hususlar dikkate alındığında, arsa payı karşılığı inşaat sözleşmesinin hukuki niteliğini; ani edimli, karşılıklı, karma nitelikte bir sözleşme olarak kabul edebiliriz. Arsa sahibinin arsa paylarının satışını ve yüklenicinin de inşaat yapmayı taahhüt etmesi, arsanın tamamen yükleniciye devri, belirli arsa paylarının yükleniciye devri ve arsa paylarının inşaattaki aşamaya göre yükleniciye (veya göstereceği kişilere) devri şeklinde olmak üzere dört farklı uygulaması yaygın olarak kullanılmakta olup, her birinde karşılıklı edimlerin ifası farklılık arz etmektedir (Durak, Yasemin; Arsa Payı Karşılığı Kat Yapım Sözleşmesi, İnönü Üniversitesi Hukuk Fakültesi Dergisi, Özel Sayı, Cilt 1, yıl 2015, s. 214-215). Karşılıklı taahhütlerin ağır basması halinde klasik eser sözleşmesinin, taşınmaz devrinin ağırlık kazanmasında ise taşınmaz satış sözleşmesinin öne çıktığını görmek mümkündür (Yargıtay 15.HD, 18.01.2020, 2020/766, 2021/65).Açılan davada temerrüt nedeniyle tazminat talep edildiğinden, arsa payı karşılığı inşaat sözleşmesinde tarafların temerrüdüne de kısaca değinmekte fayda bulunmaktadır.
 Genel itibariyle borçlunun temerrüdü, borçlunun sözleşmeye aykırı davranarak kararlaştırılan edimi hiç veya gereği gibi ifa etmemesidir. Borçlunun temerrüdü, TBK’nın 117-126. Maddelerinde (818 Sayılı BK 101-108) düzenlenmiş olup, iki koşulunun bulunduğundan söz etmemiz mümkündür. Birincisi, edimin ifa imkânının bulunması, ikincisi ise borcun muaccel hale gelmesidir.
@@ -72,6 +78,8 @@ Eser sözleşmeleri iki tarafa borç yükleyen sözleşmeler olduğundan, biri d
 Çünkü anılan maddelerde genel hükümlerden ayrılarak (BK. m.102), iki tarafa borç yükleyen sözleşmelere özgü, özel hükümler getirilmiştir.818 Sayılı BK’nın 106-108 maddeleri birlikte değerlendirildiğinde, iki tarafa borç yükleyen sözleşmeyle temerrüde düşen borçluya karşı, alacaklıya üç ayrı seçimlik hak tanındığı görülmektedir.Bunlar; aynen ifa ve gecikmeden dolayı tazminat isteme hakkı; aynen ifayı reddederek âdemi ifa sebebiyle müspet zararını talep hakkı; sözleşmeyi feshederek menfi zararını isteme hakkı olarak sayılabilir (YHGK, 24.02.2016 tarih ve 2014/23-724 Esas, 2016/168 Karar).Tüm bu anlatılanlar nezdinde davaya konu olayı değerlendirdiğimizde; davacı yüklenici, davalıya ihtar göndererek temerrüde düşürmüş, açmış olduğu ayrı bir davada da tapu iptali ve tescil kararı verilmiştir. Bu davada ise, davalı arsa sahibinin temerrüdü nedeniyle gecikmeden doğan zararının tazminini istemektedir.
 
 ## Yargıtay 15. HD 2020/3210 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/623900600)
 
 Dava, arsa payı karşılığı inşaat yapım sözleşmesinden kaynaklanmış olup, sözleşmeye aykırılık nedeniyle eksik ve kusurlu işler giderim bedeliyle gecikme tazminatı alacağının tahsili istemine ilişkindir.
 
@@ -85,6 +93,8 @@ SONUÇ: Yukarıda 1. bentte açıklana nedenlerle tarafların diğer temyiz itir
 
 ## Yargıtay 15. HD 2020/3043 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/613392100)
+
 Bu durumda mahkemece 6100 sayılı HMK’nın 281/3. maddesi uyarınca öncekiler dışında yeniden inşaat mühendisi, mimar ve harita mühendislerinden oluşturulacak bilirkişi kurulu marifetiyle mahallinde keşif de yapılarak, asıl ve birleşen dosya davacıları arsa sahiplerinin her birinin sözleşme konusu taşınmazda sahip oldukları 345/1301’erden toplam 369/1301 payı davalı yükleniciye tapuda devrettiklerinden; davacıların pay kayıtlarının oluştuğu 31.08.2005 tarihi itibariyle yüklenici tarafından yapı ruhsatı ve imar mevzuatına uygun şekilde yapılmış olan inşaattan; arsanın konumu, arsa payları, çevredeki yapılaşma ve emsal paylaşım durumlarını da değerlendirerek sözleşmede kararlaştırılan bağımsız bölüm sayısından fazla olmamak üzere alabilecekleri bağımsız bölüm miktarları konusunda bozma ilamına uygun, gerekçeli ve denetime elverişli raporu alınıp, davalı yüklenici adına kayıtlı bağımsız bölümler mevcut ise ve bozma üzerine alınacak bilirkişi raporuna göre hesaplanacak davacıların hak ettikleri bağımsız bölümleri tamamen veya kısmen karşılaması durumunda davacıların öncelikli talepleri olan tapu iptâli ve tescil istemlerinin kabul edilmesi gerekir.
 
 Davacıların hesaplanan hakettikleri bağımsız bölümleri karşılayacak miktarda davalı yüklenici adına kayıtlı bağımsız bölümler bulunmaması, başka bir anlatımla davacıların aynen ifa taleplerinin (aynen ifa edilmeyen bağımsız bölümlerle ilgili) kabulüne olanak bulunmaması halinde davacılar asıl ve birleşen dava tarihlerinde yürürlükte bulunan 818 sayılı BK 106/II. maddesi hükmü gereğince ifa yerine olumlu zararlarını isteyebilecekleri ve bu zarar da arsa …
@@ -94,6 +104,8 @@ Davacıların hesaplanan hakettikleri bağımsız bölümleri karşılayacak mik
 SONUÇ: Yukarıda açıklanan nedenlerle temyiz itirazlarının kabulü ile hükmün taraflar yararına BOZULMASINA …
 
 ## Yargıtay 15. HD 2020/2940 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/613340700)
 
 Dava, arsa payı karşılığı inşaat sözleşmesinden kaynaklanan gecikme tazminatı istemine ilişkindir.
 
@@ -108,6 +120,8 @@ Somut olayda ilk derece mahkemesinin, davacının müteahhide karşı kat karş�
 SONUÇ: Yukarıda açıklanan nedenlerle hükmün BOZULMASINA …
 
 ## Yargıtay 15. HD 2020/2751 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/648298400)
 
 Davacı, davalı arsa sahipleri ... ve ... ile davalı yüklenici şirket arasında 11.04.2005 tarihli kat karşılığı inşaat sözleşmesi imzalandığını, imzalanan bu sözleşmeye göre davalı yüklenici şirkete düşen 3 nolu bağımsız bölümün 20.02.2007 tarihli gayrimenkul satış vaadi sözleşmesi ile kendisine satıldığını, davacı taraf olarak tapu iptâli ve tescil istemli Antalya Tüketici Mahkemesi’nde açtıkları 2010/184 Esas sayılı ilk davalarının yerel mahkemece inşaatın tamamlanmaması ve genel iskanın alınmamış olması nedeni ile reddedildiğini, bu karardan sonra binanın eksikliklerinin giderilerek iskanın alındığını, 3 nolu bağımsız bölümün tapu kaydının iptali ile adına tescilini, davanın kabulünü talep etmiştir.
 
@@ -127,6 +141,8 @@ SONUÇ: Yukarıda açıklanan nedenlerle temyiz itirazlarının kabulü ile hük
 
 ## Yargıtay 15. HD 2020/2512 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/600394600)
+
 Ancak gecikme tazminatı cezası alacağının muaccel (istenebilir) olduğu tarihle ilgili az yukarıda açıklanan ilke ve kuralın temerrüde rağmen gecikme tazminatı-cezasının tahsili için dava ya da icra takibinde bulunulmamış olması halinde uygulanması mümkün olup, temerrütten sonra ve teslimden önce, arsa sahibinin gecikme tazminatı-cezası için kısmi dava açması ya da icra takibinde bulunması halinde dava-icra takip tarihine kadar oluşacak gecikme ve tazminatı alacağının tamamı dava-takip tarihinde muaccel olacaktır. Doktrin ve Yargıtay’ın yerleşmiş içtihatlarında da kabul edildiği üzere kısmi dava-takip halinde de zamanaşımı dava veya takip konusu edilen alacak için kesilecek, fazlası için işlemeye devam edecektir.
 
 …
@@ -134,6 +150,8 @@ Ancak gecikme tazminatı cezası alacağının muaccel (istenebilir) olduğu tar
 SONUÇ: Yukarıda açıklanan nedenlerle davalıların temyiz itirazlarının kabulü ile ... Bölge Adliye Mahkemesi 15. Hukuk Diresi kararının kaldırılarak ilk derece mahkemesi hükmünün davalılar yararına BOZULMASINA …
 
 ## Yargıtay 15. HD 2020/2498 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/600434600)
 
 Dava, arsa payı karşılığı inşaat sözleşmesinden kaynaklanan gecikme tazminatının tahsili ile davalı yüklenicinin kararlaştırılan cezai şartı ödemekle yükümlü bulunup bulunmadığının ve cezai şart miktarının tespiti istemlerine ilişkindir.
 
@@ -151,6 +169,8 @@ BK'nın 107, 6098 sayılı TBK'nın 124. maddesindeki süre verilmesini gerektir
 inceleme ile anlaşıldığından davacı arsa sahibi vekilinin karar düzeltme isteminin kabulü ile Yargıtay 23. Hukuk Dairesi'nin bozma ilâmı kaldırılarak taraf temyiz itirazlarının reddi ile hükmün onanmasına karar vermek gerekmiştir (Dairemizin 07.05.2018 T. 2018/762 E. ve 2018/1808 K. sayılı ilamı da aynı yöndedir.).SONUÇ: Yukarıda açıklanan nedenlerle davacı vekilinin karar düzeltme talebinin kabulüyle Yargıtay 23. Hukuk Dairesi tarafından verilen 30.10.2018 tarihli 2016/33 Esas 2018/4970 Karar sayılı bozma ilamının kaldırılarak …
 
 ## Yargıtay 15. HD 2020/2257 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/601051600)
 
 Dava, yükleniciden temlik alanın açmış olduğu tapu iptâli tescil, olmadığı takdirde tazminat istemine ilişkindir.
 
@@ -174,6 +194,8 @@ SONUÇ: Yukarıda açıklanan nedenlerle davalılar arsa sahibi ... mirasçılar
 
 ## Yargıtay 15. HD 2020/2240 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/602324900)
+
 Davacı temyiz dilekçesinde hem belediye meclisi hem de belediye encümeni tarafından inşaat yapımı ve satış ile kullanım şeklinin değiştirilmesine dair karar verildiğini ileri sürerek bu karar suretlerini sunmuştur. Mahkemece bu konunun görevi gereği resen araştırılması gerekmesine rağmen araştırma yapılmamıştır.
 
 Mahkemenin kabulünde de olduğu gibi gayrimenkul satış vaadi ve arsa payı karşılığı inşaat yapım sözleşmeleri tapuda arsa payı devrini de içerdiğinden sözleşmenin imzalandığı tarihte yürürlükte bulunan TMK’nın 706, 818 sayılı Borçlar Kanunu’nun 213, 2644 sayılı Tapu Kanunu 26 ve 1512 sayılı Noterlik Kanunu’nun 60. maddeleri uyarınca resmi şekilde yapılması zorunlu olup, resmi şekilde yapılması geçerlilik koşuludur. Ancak adi yazılı şekilde yapılmış olmakla birlikte bu sözleşmeye dayalı olarak tapuda pay devri yapılması ya da edimlerin büyük oranda tamamlanmış olması halinde şekil eksikliğini ileri sürmek TMK’nın 2. maddesi gereğince hakkın kötüye kullanılması sayılacağından, sözleşmenin geçersizliği iddia veya savunmasına değer verilmeyerek sözleşme geçerli kabul edilerek uyuşmazlığın çözümlenmesi gerekecektir (Yargıtay 15. Hukuk Dairesi’nin 10.06.2003 gün 2003/875 Esas, 2003/3092 Karar, 12.05.2009 gün 2008/2733 Esas, 2009/2766 Karar, Yargıtay Hukuk Genel Kurulu’nun 16.01.2013 gün 2012/13-592 Esas, 2013/65 Karar sayılı ilamları).
@@ -186,6 +208,8 @@ Dairemiz ile Yargıtay Hukuk Genel Kurulu’nun istikrar kazanan karar ve uygula
 SONUÇ: Yukarıda açıklanan nedenlerle temyiz itirazlarının kabulü ile hükmün davacı yararına BOZULMASINA …
 
 ## Yargıtay 15. HD 2020/856 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/648119200)
 
 Davacılar 1-... 2-... 3-... ile davalılar 1-...
 
@@ -201,6 +225,8 @@ alacağına hükmedilmesi doğru olmamıştır.
 SONUÇ: Yukarıda 1. bentte açıklanan nedenlerle davacıların diğer karar düzeltme taleplerinin reddine, 2. bent uyarınca kabulü ile Dairemizin 08.10.2018 gün 2018/643 Esas, 2018/3645 Karar sayılı onama ilamının kaldırılarak yerel mahkeme hükmünün davacılar yararına BOZULMASINA …
 
 ## Yargıtay 15. HD 2020/205 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/580830900)
 
 Dava, eser sözleşmesi niteliğindeki kat karşılığı inşaat sözleşmesinden kaynaklanan tazminat istemine ilişkindir.
 

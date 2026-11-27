@@ -22,6 +22,8 @@ uyari: "Derleyenin seçtiği alıntılardır; kararın tamamı değildir. Künye
 
 ## Yargıtay 6. HD 2022/3054 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/791357100)
+
 Davacı vekili, dava dilekçesinde özetle, davalı arsa sahibi kooperatif ile davalı yüklenici şirket arasında akdedilen 02.05.2007 tarihli arsa payı karşılığı inşaat sözleşmesi gereğince yükleniciye isabet eden B blok 23 numaralı bağımsız bölümün satış bedeli yükleniciye ödenerek satın alındığını, inşaat bitmesine rağmen bağımsız bölümün tapuda davacıya devredilmediğini, taşınmazın öncelikle kooperatif ortağı ...’a teminat amaçlı olarak devredildiğini, sonrasında diğer davalı ...’a tapuda satış yoluyla devredildiğini, yapılan devirlerin muvazaalı olduğunu ileri sürerek, davalı ... adına oluşan tapu kaydının iptali ile müvekkili adına tesciline, talebi kabul edilmediği takdirde, taşınmazın dava tarihindeki piyasa değerinin dava tarihinden itibaren işleyecek yasal faizi ile davalılardan müşterek ve müteselsilen tahsiline karar verilmesini talep ve dava etmiştir.
 
 Davalı ... vekili, cevap dilekçesinde özetle müvekkilinin daireyi ...'dan 140.000,00 TL bedelle satın aldığını, satış bedelini 30/01/2015 tarihinde banka yoluyla havale ettiğini, tapuda 11.000,00-TL gösterilme sebebinin kat irtifakı kurulması olduğunu, muvazaalı işlem bulunmadığını, müvekkilinin taraflar arasındaki ilişkiyi bilebilecek durumda olmadığını, iyiniyetle mal iktisap eden malik olduğunu belirterek, davanın reddini savunmuştur.
@@ -38,6 +40,8 @@ SONUÇ: Yukarıda (1) numaralı bentte açıklanan nedenlerle, davacı vekilinin
 
 ## Yargıtay 6. HD 2022/2598 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/776419000)
+
 İlk derece mahkemesince yüklenici davalı kooperatif ile arsa sahipleri davacılar arasında 26/07/2003 tarihli geçici kabul tutanağı düzenlendiği, arsa sahipleri davacıların yüklenici davalı kooperatifi sözleşme ve ek sözleşmeden doğan cezai şartlardan dolayı ibra edildiği gerekçesi ile davanın reddine karar verilmiştir. Aynı gerekçeler ile İzmir Bölge Adliye Mahkemesince istinaf isteminin esastan reddine karar verilmiştir.
 
 …
@@ -49,6 +53,8 @@ Diğer taraftan davacının takibe dayanak aldığı sözleşmenin 18/d maddesin
 SONUÇ: Yukarıda açıklanan nedenlerle İzmir Bölge Adliye Mahkemesi 22.Hukuk Dairesinin 28/01/2021 tarih ve 2021/679 Esas 2021/672 Karar sayılı kararın kaldırılarak ilk derece mahkemesi kararının davacılar yararına BOZULMASINA …
 
 ## Yargıtay 1. HD 2022/2127 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/782077700)
 
 Davacı ... vekili, mülkiyeti Hazineye ait olan Ankara ili, Yenimahalle ilçesi, Macun Mahallesindeki 7622 ada 11 parsel sayılı taşınmazın Hazine tarafından 4706 sayılı Kanun'un 4916 sayılı Kanun'la değişik 4. maddesine istinaden davalı Kooperatife satıldığını ve taşınmaz kaydına "satış amacı dışında kullanılamaz" şerhi konulduğunu, ancak davalının 4706 sayılı Kanun'a aykırı davranarak kat karşılığı inşaat ve satış vaadi sözleşmesi ile taşınmazın %47,50'sini yüklenici firmaya temlik edeceğini taahhüt ve kabul ettiğini ileri sürerek, tapu kaydının iptali ile Hazine adına tesciline karar verilmesini istemiştir.
 
@@ -68,6 +74,8 @@ Yukarıda açıklanan nedenlerle; davalı vekilinin yerinde görülen temyiz iti
 
 ## Yargıtay 5. HD 2021/13199 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/706148500)
+
 Mahkemece davanın kısmen kabulü ile davalı ... için açılan davanın husumetten reddine, diğer davalılar yönünden arsa payı düzeltilmesi isteminin kabulü ile yeni arsa paylarının tapuya tesciline karar verilmiş; hüküm, davacı ... vekili ve bir kısım davalılar vekili tarafından temyiz edilmiştir.
 
 634 sayılı Kat Mülkiyeti Kanunu'nun 3.maddesinde; kat mülkiyeti veya kat irtifakının, bu mülkiyete konu olan anayapının bağımsız bölümlerinden her birine kat irtifakının kurulduğu tarihteki, doğrudan doğruya kat mülkiyetine geçilme halinde ise, bu tarihteki değeri ile oranlı olarak tahsis edilen arsa payının ortak mülkiyet esaslarına göre açıkça gösterilmesi suretiyle kurulacağı, arsa paylarının bağımsız bölümlerin değeri ile oranlı olarak tahsis edilmediği hallerde, her kat maliki veya kat irtifakı sahibinin arsa payının düzenlenmesi için mahkemeye başvurabileceği hükme bağlanmıştır. Arsa payı düzenlemesinin yeniden yapılabilmesinin ilk şartı, arsa paylarının bağımsız bölümlerin değerleriyle oransız olarak belirlenmiş olmasıdır. Bu hususa dayalı istemlerde mahkeme tüm kanıtları değerlendirerek bağımsız bölümün değeri ile bölüme özgülenen arsa payını karşılaştırıp denklik sağlamaya çalışmalıdır.
@@ -81,6 +89,8 @@ Mahkemece, yukarıda açıklanan hususlar doğrultusunda arsa paylarının belir
 Bu itibarla yukarıda açıklanan esaslar gözönünde tutulmaksızın yazılı şekilde hüküm tesisi isabetsiz, temyiz itirazları bu nedenlerle yerinde olduğundan kabulü ile hükmün HUMK’un 428.maddesi gereğince BOZULMASINA …
 
 ## Yargıtay 5. HD 2021/11644 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/696755400)
 
 Mahkemece bozma ilamına uyularak davanın kısmen kabulüne karar verilmiş, hüküm davalı Hazine vekilince temyiz edilmiştir.
 
@@ -97,6 +107,8 @@ Davalı Hazine vekilinin temyiz itirazları yerinde olduğundan hükmün açıkl
 
 ## Yargıtay 23. HD 2021/257 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/631449000)
+
 Davacı vekili, müvekkilinin davalı kooperatif üyesi olduğunu, kooperatif ile arsa sahibi diğer davalılar arasında imzalanan arsa payı karşılığı inşaat sözleşmesiyle, taşınmaz üzerinde inşa edilen bağımsız bölümlerin, arsa sahiplerine ve ferdileşme yoluyla kooperatif üyelerine teslim edildiği halde borcu olduğu gerekçesiyle müvekkilinin tapusunun verilmemesi üzerine açtığı menfi tespit davasının, müvekkili lehinde sonuçlandığını ileri sürerek, müvekkiline isabet eden zemin kat 2 no'lu bağımsız bölümün müvekkili adına tapuya tescilini talep ve dava etmiştir.
 
 Davalı ... vekili, arsa sahibi olarak davacıya bir taahhütleri olmadığını, aralarında hukuki bir ilişki bulunmadığını savunarak, davanın reddini istemiştir.
@@ -110,6 +122,8 @@ Mahkeme kararı Dairemizin 17.11.2014 günlü, 2014/4112E., 2014/7308K. Sayılı
 SONUÇ: Yukarıda açıklanan nedenlerle davacı vekilinin tüm temyiz itirazlarının reddiyle usul ve kanuna uygun bulunan hükmün ONANMASINA …
 
 ## Yargıtay 6. HD 2021/245 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/698494800)
 
 Davalı, THSS ... Konut Yapı Kooperatifleri Birliği vekili, ctaşınmazın birlik ortağı olan ...
 
@@ -130,6 +144,8 @@ SONUÇ: Yukarıda (1) numaralı bentte açıklanan nedenlerle İstanbul Bölge A
 
 ## Yargıtay 23. HD 2020/3594 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/615247000)
+
 Davacı vekili müvekkilinin kooperatif ortağı olduğunu, adına kurada isabet eden taşınmazın tapusunun verilmediğini, taşınmaz üzerinde eksiklerin de bulunduğunu edimlerini yerine getirmesine rağmen adına kura da isabet eden tasınmazın tapusunun verilmediğini ve tapuda bu taşınmazın arsa sahibi davalı ... adına kayıtlı olduğunu, taşınmazda eksikliklerin de bulundugunu ileri sürerek, eksiksiz ve tam teslimi ve tapu kaydının iptali ile müvekkili adına tapuya tesciline; taşınmazın aynen tesliminin mümkün olmaması halinde şimdilik 50.000,00-TL tazminatın tespiti ve faizi ile birlikte tahsilini, dairenin teslim edilmemesi nedeniyle şimdilik 10.000,00 TL kira bedelinin dava tarihinden itibaren işleyecek faizi birlikte tahsiline, yargılama giderleri ile vekalet ücretinin karşı tarafa tahsilini talep ve dava etmiştir.
 
 Davalı kooperatif, davanın reddini istemiştir.
@@ -148,6 +164,8 @@ SONUÇ: Yukarıda açıklanan nedenlerle, davalı ... vekilinin temyiz itirazlar
 
 ## Yargıtay 15. HD 2020/3295 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/635399100)
+
 Dava, temliken tescil talebine ilişkin olup, ilk derece mahkemesince yapılan yargılama sonunda davanın kabulüne dair verilen kararın davalılarca istinaf edilmesi sonucunda İstanbul Bölge Adliye Mahkemesi 7.
 
 …
@@ -165,6 +183,8 @@ SONUÇ: Yukarıda 1. bentte açıklanan nedenlerle davalı yüklenici ... Sınai
 
 ## Yargıtay 15. HD 2020/2239 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/602317400)
+
 Dava, arsa payı karşılığı inşaat yapı sözleşmesi uyarınca tapu iptâli ve tescil istemine ilişkindir.
 
 …
@@ -179,6 +199,8 @@ SONUÇ: Yukarıda açıklanan nedenlerle temyiz itirazlarının kabulüyle hükm
 
 ## Yargıtay 15. HD 2020/1234 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/589188800)
+
 Dava, dava dışı arsa sahipleri ile yüklenici arasında imzalanan arsa payı karşılığı inşaat yapım sözleşmesi gereğince davalı yüklenici tarafından yapılan inşaatta yükleniciye isabet eden bağımsız bölümün satın alınması sebebiyle temliken tescil, mümkün olmadığı takdirde tazminat istemine ilişkindir.
 
 …
@@ -192,6 +214,8 @@ Dosyadaki yazılara, kararın dayandığı delillerle yasaya uygun gerektirici n
 
 ## Yargıtay 15. HD 2020/874 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/648094100)
+
 Davacı davasında önceki tapu maliki belediyenin taşınmazı tahsis ettiği dava dışı SS ... Konut Yapı Kooperatifinin (... Konut Yapı Kooperatifler Birliği) arsa sahibi sıfatıyla, yüklenici davalı ...
 
 …
@@ -201,6 +225,8 @@ Bu durumda mahkemece davaya bakmakla görevli olduğundan, arsa kendisine tahsis
 SONUÇ: Yukarıda açıklanan nedenlerle temyiz itirazlarının kabulü ile kararın davacı yararına BOZULMASINA …
 
 ## Yargıtay 23. HD 2019/5421 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/574144100)
 
 Davacı vekili, sözleşme hükümleri gereği bağımsız bölüm tapusu verilmesine ilişkin şahsi hak edinen davalı kooperatifin, dava konusu bağımsız bölümü kooperatif üyeliğinden doğan kooperatif hissesi veya şartlı üyelik sözleşmesi şeklinde müvekkiline devir/temlik ettiğini, 30/11/2008 günlü genel kurulda belirlenen şartsız üyelerden 16.025,00 TL. alınmasına ilişkin yazılı bir karar olmadığı halde sonuç bildirimi yazısında 16.025,00 TL. ödeyenin tapusunun verileceğinin belirtildiğini ve buna dayanılarak 31 adet tapunun verildiğini ileri sürerek dava konusu bağımsız bölümün diğer davalılar olan arsa sahipleri adına olan tapu kaydının iptali ile davacı adına tapuya kayıt ve tesciline karar verilmesini istemiştir.
 
@@ -223,6 +249,8 @@ Somut olayda arsa sahipleriyle arsa payı karşılığı inşaat sözleşmesi ya
 SONUÇ: Yukarıda (1) numaralı bentte açıklanan nedenlerle, davacı vekilinin karar düzeltme isteminin REDDİNE, (2) numaralı bentte açıklanan nedenlerle, davalılardan ... vekilinin karar düzeltme isteminin kabulü ile Dairemizin 17.04.2019 tarih 2016/5539 Esas, 2019/1447 Karar sayılı onama kararının kaldırılarak hükmün davalılardan ... yararına BOZULMASINA …
 
 ## Yargıtay 15. HD 2019/5145 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/558489300)
 
 Dosya kapsamında bulunan 29.08.2007 tarihli “Özel Takas Sözleşmesi” başlıklı sözleşme, fer'i müdahil ... ile ....mirasçıları ... ve ... arasında imzalanmış olup davalı kooperatif takas sözleşmesinin tarafı değildir. Bu sözleşmeden sonra davacı kooperatif ile arsa sahipleri arasında 05.03.1998 tarihinde düzenlenip imzalanan Düzenleme Şeklinde Gayrimenkul Satış Vaadi ve Kat Karşılığı İnşaat Sözleşmesi adi şekilde yapılmış olmakla birlikte bu sözleşme gereğince edimlerin yerine getirilmesi ve bir kısım bağımsız bölümlerde pay devrinin yapılmış olması sebebi ile geçersizliğinin ileri sürülmesi hakkın kötüye kullanılması niteliğinde olup imzalayan tarafları bağlayıcı olduğu anlaşılan sözleşmede, A blok 6 nolu bağımsız bölümün arsa sahiplerinden ..., ... ve ...’e verilmesi kararlaştırılmıştır. Yine aynı sözleşmenin 1. maddesinin son paragrafında; A blokta 11 ve 12 nolu dükkanlar oluştuğu, her dükkanda da kooperatif ve arsa sahiplerinin 1/2 hakka sahip olduklarının düzenlendiği ve her daireye 1/20 oranında dükkanlardan pay verileceği kabul edilmiştir.
 A blok 12 nolu bağımsız bölümün intikâlleri ile birlikte tapu kayıtlarının incelenmesinde; davalı ...’nın davalılar ... ve ...’e ait 88/2640 payı satın alarak tapuda ... adına 1/30’ar pay kaydının yapıldığı, ...’in bu bağımsız bölümde 88/2640 payının bulunduğu, söz konusu parselin 1/2’sine isabet eden 1320/2640 payın . ...’a ait olup bu şahsın da dava dışı ilk yüklenici .... İnş. ... Ltd. Şti.’nin yetkilisi olduğu, söz konusu parselde davalı ...’nın satın aldığı hisselerin davacı kooperatife 05.03.1998 tarihli sözleşme ile verilecek 1/2 pay olmadığı ve bu payın dava dışı... adına kayıtlı olduğu anlaşılmaktadır.

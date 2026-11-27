@@ -22,6 +22,8 @@ uyari: "Derleyenin seçtiği alıntılardır; kararın tamamı değildir. Künye
 
 ## Yargıtay 14. HD 2010/4358 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/644318700)
+
 Dava, yüklenicinin temliki işlemine dayalı tapu iptali ve tescil istemine ilişkindir.
 
 …
@@ -33,6 +35,8 @@ Kabule göre de; bilirkişi inşaatın getirildiği fiziki seviyenin % 93 olduğ
 SONUÇ: Yukarıda yazılı nedenlerle temyiz olunan kararın BOZULMASINA …
 
 ## Yargıtay 14. HD 2010/3647 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/643529200)
 
 Davacı, yüklenici davalı ...Ş.’nin temlik işlemi nedeniyle 565 ada 1 parsel sayılı taşınmazdaki 13 no’lu villaya ait tapu kaydının iptali ile adına tescilini, mümkün olmadığı takdirde denkleştirici adalet kuralına göre davalıya yaptığı ödemeler toplamının en yüksek reoskont faiziyle davalılardan müştereken ve müteselsilen tahsiline karar verilmesini istemiştir.
 
@@ -49,6 +53,8 @@ Yapılan yargılamaya, toplanan delillere ve tüm dosya içeriğine göre davac�
 
 ## Yargıtay 15. HD 2010/3360 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/775769100)
+
 Davacılar 1-..., 2-..., 3-..., 4-..., 5-..., 6-..., 7-..., 8-... ile davalılar 1-..., 2-... arasındaki davadan dolayı Didim (Yenihisar) Asliye Hukuk Hakimliğince verilen 02.11.2007 gün ve 2007/304-471 sayılı hükmü bozan Dairemizin 10.07.2009 gün ve 2009/3675-4281 sayılı ilamı aleyhinde davacılar vekili tarafından karar düzeltilmesi isteğinde bulunulmuş ve karar düzeltme dilekçesinin süresi içinde verildiği anlaşılmış olmakla dosyadaki kağıtlar okundu gereği konuşulup düşünüldü:
 
 …
@@ -62,6 +68,8 @@ Arsa payı karşılığı inşaat sözleşmesi, tapulu taşınmazın ya da tapul
 SONUÇ: Yukarıda (1.) bentte belirtilen nedenlerle davacılar vekilinin sair karar düzeltme istemlerinin reddine; (2.) bentte açıklanan sebeplerle diğer itirazlarının kabulüne ve Dairemizin 2009/3675 E. 2009/4281 K. sayılı bozma ilâmının ortadan kaldırılmasına ve gösterilen gerekçelerle yerel mahkeme kararının BOZULMASINA …
 
 ## Yargıtay 14. HD 2010/1239 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/633328400)
 
 Davacı, dava ve birleşen davada, arsa payı karşılığı inşaat yapım sözleşmesi uyarınca yükleniciye bırakılması kararlaştırılan 9204 ada 19 parseldeki 2 numaralı bağımsız bölümün yükleniciden 03.03.1998 tarihli adi yazılı temlik sözleşmesi ile aldığını, dava konusu bağımsız bölümün Ankara 7. Asliye Hukuk Mahkemesinin 2002/516 Esas, 2005/108 Karar sayılı ilamı ile yüklenici adına tescil edildiğini ileri sürerek tapu iptali tescil ve haciz şerhlerinin kaldırılması isteminde bulunmuştur.
 
@@ -85,6 +93,8 @@ SONUÇ: Yukarıda açıklanan nedenlerle temyiz olunan kararın BOZULMASINA …
 
 ## Yargıtay 14. HD 2010/1188 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/633807500)
+
 Dava, yüklenicinin temliki işlemine dayalı tapu iptali ve tescil istemine ilişkindir.
 
 Davalı yüklenici, davayı kabul etmiş, davalı ... davanın reddini savunmuştur.
@@ -101,6 +111,8 @@ SONUÇ: Temyiz olunan kararın yukarıda açıklanan nedenlerle BOZULMASINA …
 
 ## Yargıtay 15. HD 2010/1015 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/774887400)
+
 Davacı vekili, davalı ile dava dışı arsa sahibi ... arasında Kat Karşılığı İnşaat Sözleşmesi yapıldığını, buna göre davalının arsa sahibi adına kayıtlı Çankaya Keklikpınarı 2. etaptaki 27721 ada 8, 9, 10 nolu parsellerde inşaat yapımını üstlendiğini, müvekkilinin 8 nolu parselde yapılan inşaattaki 1. bodrum katta bulunan 3 nolu daireyi 09.08.2005 tarihinde satın aldığını, ancak yüklenicinin kat karşılığı sözleşmeye göre inşaatı 23.10.2003 tarihinde bitirmesi gerekirken bitirmediğini ileri sürerek 23.10.2003 tarihinden dava tarihine kadar mahrum kalınan kira bedeline ilişkin şimdilik 10.000,00 YTL’nin ticari faizi ile tahsilini istemiştir.
 
 Davalı, taraflar arasında dairenin teslimi ve gecikme tazminatına dair yazılı akit bulunmadığını ayrıca 05.06.2006 tarihli protokole göre arsa sahibinin geç teslimden kaynaklanan hak ve alacaklarından vazgeçtiğini belirterek davanın reddini istemiştir.
@@ -115,6 +127,8 @@ SONUÇ: Yukarıda açıklanan sebeplerle temyiz itirazlarının kabulüyle hükm
 
 ## Yargıtay 14. HD 2010/985 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/633504300)
+
 Dava, yüklenicinin temliki işlemine dayalı tapu iptali ve tescil istemine ilişkindir.
 
 …
@@ -126,6 +140,8 @@ Temlik işlemine dayalı bu gibi davalarda buna dayanan kişinin temlik yapıld�
 SONUÇ: Temyiz olunan kararın yukarıda açıklanan nedenlerle BOZULMASINA …
 
 ## Yargıtay 14. HD 2010/264 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/17143100)
 
 Dava, yüklenicinin temlikine dayalı tapu İptali ve tescil istemine ilişkindir.
 
@@ -142,6 +158,8 @@ Ne var ki, temlik alanın ifa talebine muhatap olan borçlu (arsa sahibi) bu tal
 Sonuç: Temyiz olunan kararın yukarıda açıklanan nedenlerle (BOZULMASINA)
 
 ## Yargıtay 14. HD 2009/14892 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/849873900)
 
 Dava, yüklenicinin temliki işlemine dayalı tapu iptali ve tescil istemine ilişkindir.
 
@@ -161,6 +179,8 @@ SONUÇ: Temyiz olunan kararın yukarıda açıklanan nedenlerle BOZULMASINA …
 
 ## Yargıtay 14. HD 2009/10517 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/843597300)
+
 Dava, yüklenicinin temliki işlemine dayalı tapu iptali ve tescil istemine ilişkindir.
 
 Davalı arsa sahipleri, yüklenicinin 21.03.2000 günlü arsa payı karşılığı inşaat sözleşmesindeki edimlerini yerine getirmediğini, açtıkları dava sebebiyle tazminat alacakları olduğunu, davanın reddini savunmuştur.
@@ -174,6 +194,8 @@ Yukarıda sözü edildiği üzere istemin dayanağı BK’nun 162 vd maddelerind
 Mahkemece bu saptamalar gözetilerek dava reddolunduğundan, davacının bütün temyiz itirazlarının reddi ile usul ve yasaya uygun hükmün ONANMASINA …
 
 ## Yargıtay 14. HD 2009/10370 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/843319400)
 
 Dava, yüklenicinin satış vaadi ve temliki nedenlerine dayalı tapu iptali ve tescil istemine ilişkindir.
 
@@ -189,6 +211,8 @@ SONUÇ: Temyiz olunan kararın yukarıda açıklanan nedenlerle BOZULMASINA …
 
 ## Yargıtay 14. HD 2009/7851 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/845524600)
+
 Dosyada yer alan bilgi ve belgelerden davalılar arasında 16.04.2002 günlü biçimine uygun düzenlenen arsa payı karşılığı inşaat sözleşmesi bulunduğu, bu sözleşmeye göre 28103 ada 10 parsel (yeni 13 parsel) ve bahçe niteliğindeki 7 (yeni 14 parsel) parsellerin yükleniciye bırakılmasının kararlaştırıldığı, yüklenicinin 16.04.2002 tarihli sözleşmeyle kazandığı şahsi hakkını 10.07.2002 ve 05.03.2003 tarihli yazılı sözleşmelerle davacıya temlik ettiği, yaptığı temlik işlemi sebebiyle yüklenicinin davacıdan 650.000 ve 150.000 ABD Doları olmak üzere toplam 800.000 ABD Doları tahsil ettiği, inşaatın genelde ancak %10 seviyelerine getirilebildiği, yüklenici .İnşaat Ltd. Şti.nin iflasına karar verildiği, ikinci alacaklılar toplantısının da yapıldığı anlaşılmaktadır. Görülüyor ki, halin icabından davacının Türk Medeni Kanununun 724. maddesine dayanarak temliken tescil isteminde bulunma olanağı olmadığı gibi inşaatın getirildiği fiziki seviyeye göre yükleniciden temlik aldığı şahsi hakka dayanarak da tapu iptali ve tescil isteminde bulunmasına olanak yoktur.
 
 …
@@ -196,6 +220,8 @@ Dosyada yer alan bilgi ve belgelerden davalılar arasında 16.04.2002 günlü bi
 malzeme sahibine ya arsa mülkiyetinin devrini talep veya tazminat istemi yetkisi tanımıştır. Davacının mülkiyetin devrine dair açtığı dava mahkemece reddedildiğinden yaptığı harcamalar tutarı olan 242.905.65 liradan davalı arsa sahipleri de Türk Medeni Kanununun 723. maddesine göre sorumludur. Mahkemece bu miktarın sadece yüklenici şirketten tahsiline karar verilmesi doğru olmamıştır.Bundan ayrı davada, davalı yüklenici şirkete 10.07.2002 ve 05.03.2003 tarihli sözleşmelerle yapılan ödemelerin ademi ifa sebebiyle tahsili de istenmiştir. Gerçekten Borçlar Kanununun 96. maddesi hükmü gereğince alacaklı hakkını kısmen veya tamamen elde edemediği takdirde borçlu onun zararlarını tazmine ya da anılan yasanın 61. maddesi hükmü gereğince de sebepsiz kalan iktisap ettiğini iadeye mecburdur. Mahkemece, bu istem hakkında değinilen yasa kuralları çerçevesinde ve İcra İflas Kanununun iflasa ilişkin hükümleri doğrultusunda bir karar verilmesi zorunludur. Bu yönlerin gözetilmemesi doğru olmamış, kararın açıklanan sebeplerle bozulması gerekmiştir. SONUÇ: Yukarıda (1). bentte açıklanan nedenlerle davacının diğer temyiz itirazlarının reddine, hükmün (2). bent uyarınca davacı yararına BOZULMASINA …
 
 ## Yargıtay 14. HD 2009/7378 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/844908900)
 
 Dava, yüklenicinin temliki işlemine dayalı tapu iptali ve tescil istemine ilişkindir.
 
@@ -210,6 +236,8 @@ Davadaki istemin dayanağı davalılar arasındaki 17.11.1998 tarihli arsa payı
 SONUÇ: Temyiz olunan kararın yukarıda açıklanan nedenlerle BOZULMASINA …
 
 ## Yargıtay 14. HD 2009/6108 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/843986700)
 
 Dava, yüklenicinin temliki işlemine dayalı tapu iptali tescil istemine ilişkindir.
 
@@ -229,6 +257,8 @@ SONUÇ: Yukarıda açıklanan nedenlerle davalı vekilinin temyiz itirazlarını
 
 ## Yargıtay 14. HD 2009/5217 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/848075800)
+
 Davacılar; davalı ... İnşaat Mobilya Dekorasyon Sanayi ve Ticaret Limited Şirketi ile diğer davalı S.S. ... Konut Yapı Kooperatifi arasında 15.05.2004 günlü arsa payı devri karşılığı inşaat yapım sözleşmesi bulunduğunu, bu sözleşmeyle yükleniciye bırakılması kararlaştırılan bağımsız bölümleri taşınmaz satış vaadi sözleşmesi yoluyla temlik aldıklarını, ancak yüklenici şirketin inşaat yapımında geciktiğini, yüklenici şirkete işin tamamlanması için uygun bir süre verilmesini aksi halde inşaatın üçüncü kişilere yaptırılacağının ve masraflarının kendilerinden alınacağının ihtarını arsa sahibi olan davalı kooperatife üye olarak kayıtlarının sağlanmasını talep etmiştir.
 
 Davalı kooperatif, davalı yüklenici şirketin sözleşmeden kaynaklanan edimlerini yerine getirmediğini, inşaatın mevcut hali itibari ile davacıların kooperatiften bir istekte bulunamayacaklarını davanın reddini savunmuştur.
@@ -247,6 +277,8 @@ SONUÇ: Temyiz olunan kararın yukarıda açıklanan nedenlerle BOZULMASINA …
 
 ## Yargıtay 14. HD 2009/4685 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/849084800)
+
 Dava, yüklenicinin temliki işlemine dayalı tapu iptali ve tescil, ikinci kademedeki istek ise tazminat taleplerine ilişkindir.
 
 Davalı arsa sahipleri, yüklenicinin edimlerini yerine getirmediğini, davalılardan ... ..., çekişme konusu bağımsız bölümü bedeli karşılığı yükleniciden temlik aldığını, açılan davanın reddini savunmuştur.
@@ -260,6 +292,8 @@ Belirtmek gerekir ki, temlik alanın ifa talebine muhatap olan borçlu (arsa sah
 SONUÇ: Temyiz olunan kararın yukarıda yazılı gerekçelerle BOZULMASINA …
 
 ## Yargıtay 14. HD 2009/4684 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/849082600)
 
 Dava, yüklenicinin temliki işlemine dayalı tapu iptali ve tescili, ikinci kademedeki istek ise tazminat istemlerine ilişkindir.
 
@@ -279,6 +313,8 @@ SONUÇ: Yukarıda (1). bent uyarınca davalı ...’ün temyiz itirazlarının r
 
 ## Yargıtay 14. HD 2009/4411 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/847806700)
+
 Dava, yüklenicinin temliki işlemine dayalı tapu iptali ve tescil istemine ilişkindir.
 
 …
@@ -290,6 +326,8 @@ Davada 17.07.2002 tarihli taşınmaz satış vaadi sözleşmesine dayanılmışt
 SONUÇ: Yukarıda açıklanan nedenlerle temyiz olunan hükmün BOZULMASINA …
 
 ## Yargıtay 14. HD 2009/3296 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/845575400)
 
 Dava, yüklenicinin temliki işlemine dayalı tapu iptali ve tescil istemine ilişkindir.
 
@@ -307,6 +345,8 @@ Başka bir anlatımla, yüklenici arsa payı karşılığı sözleşmedeki ediml
 SONUÇ: Yukarıda açıklanan nedenlerle temyiz olunan hükmün BOZULMASINA …
 
 ## Yargıtay 15. HD 2009/3044 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/854570900)
 
 Dava, yanlar arasında yapılmış olduğu ileri sürülen arsa payı karşılığı inşaat sözleşmesine dayalı olarak açılmış olup, tapu iptâli ve tescili istemine ilişkindir.
 

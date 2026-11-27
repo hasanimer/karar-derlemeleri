@@ -22,6 +22,8 @@ uyari: "Derleyenin seçtiği alıntılardır; kararın tamamı değildir. Künye
 
 ## Yargıtay 6. HD 2023/3557 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/985116600)
+
 Davacılar vekili dava dilekçesinde; arsa sahibi müvekkilleri ile davalılardan Nuran Özen, ... ve Nuran Özen Kale İnşaat arasında Kocaeli 7. Noterliği’nin 29/11/2013 tarihli kat karşılığı inşaat ana sözleşmesi ve yine aynı noterliğin 15/04/2015 tarihli ek sözleşmesi imzalandığını, sözleşmeye göre inşaat süresinin ruhsat tarihinden itibaren 12 ay olarak kararlaştırılmasına rağmen inşaatın halen bitmediğini, yüklenicilere düşen bağımsız bölümlerin talimat ile diğer davalılara devredildiğini, taraflar arasındaki kat karşılığı inşaat sözleşmelerinin feshi, diğer davalılara devredilen bağımsız bölüm tapularının iptali ile müvekkilleri adına takyidatlardan ari olarak tescilini, ayrıca gecikmeden kaynaklanan tazminatın davalı yüklenicilerden tahsiline karar verilmesini talep etmiştir.
 
 …
@@ -37,6 +39,8 @@ Davalı ... vekili cevap dilekçesinde; müvekkilinin iyiniyetli olarak taşınm
 Temyiz olunan Bölge Adliye Mahkemesi kararının 6100 sayılı Kanunun 370 nci maddesinin birinci fıkrası uyarınca ONANMASINA …
 
 ## Yargıtay 6. HD 2023/3480 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/982974500)
 
 İlk Derece Mahkemesince bozmaya uyularak yeniden yapılan yargılama sonucunda; davanın reddine karar verilmiştir.
 
@@ -57,6 +61,8 @@ Davacı-birleşen dava davalı arsa sahibi vekilinin Bölge Adliye Mahkemesi kar
 
 ## Yargıtay 6. HD 2023/3243 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/982850800)
+
 Davalı ... vekili cevap dilekçesinde özetle, davacıların taleplerinin haksız olduğunu davanın reddine karar verilmesi gerektiğini, müvekkili davalı ... adına olan 9 ve 11 no.lu bağımsız bölümlerin tapu kayıtlarının iptali ile davacılar adına tesciline karar verilmesinin hukuken mümkün olmadığını, davalı müvekkilinin Sincan ilçesinde inşaat malzemesi alım-satımı yapan bir işyeri sahibi olduğunu, yüklenici ...'a malzeme satışı yaptığını ve karşılığında da işbu daireleri almış olduğunu, kaldı ki işbu iki adet dairenin tapuda satışının arsa sahiplerinin vermiş oldukları yetkiyle olduğunu, dairelerin tapusunun iptalinin mümkün olmadığını, davacıların, davalı müteahhit ...'a ait olması gereken 10 adet dairenin 8 tanesine ait arsa paylarını, davalı ...’ın hak etmiş olmamasına rağmen devredildiğini kabul etmekte olduklarını, davacıların kat karşılığı inşaat sözleşmesine aykırı olarak, davalı müteahhide henüz müteahhidin hak etmediği orandan fazla arsa payı devir etmekle kusurlu olduklarını, binanın inşasında gelinen seviyeye göre ve binada üçüncü kişilere yapılan devir oranında sözleşmeye aykırı davranan davacıların tutumu bir arada değerlendirildiğinde geriye etkili feshin mümkün
 olmadığını, fesih için inşaatın hiç yapılmamış olması veya çok az bir imalatın mevcut olması gerektiğini, dava konusu yerdeki inşaatın büyük oranda bitirilmiş olduğunu, geriye etkili olarak feshe uygun olmayan bir inşaat olduğunu belirterek davanın reddine karar verilmesini talep etmiştir.
 
@@ -71,6 +77,8 @@ verilerek davanın kabulüne, sözleşmenin feshine, mevcut tapu kayıtlarının
 Davalıların bu iddiaları üzerinde durularak doğruluğunun ispatlanması halinde arsa payı karşılığı inşaat sözleşmesinin geriye etkili feshine karar verilse bile, bağımsız bölümler vekaleten de olsa iyiniyetle arsa sahibinden tapuda satın alındığından davalıların bu iktisaplarının korunması gerekeceği belirtilerek kararın bozulması gerekirken kabule yönelik yerel mahkeme kararının onanmasına dair Sayın çoğunluğun kararına muhalifim.
 
 ## Yargıtay 6. HD 2023/2870 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/951169700)
 
 Mahkemece bozmaya uyularak yeniden yapılan yargılama sonucunda; davanın kabulüne karar verilmiştir.
 
@@ -92,6 +100,8 @@ Bir kısım davalılar vekilinin temyiz itirazının kabulü ile temyiz olunan M
 
 ## Yargıtay 6. HD 2023/2849 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/950719800)
+
 2.2. Yukarıda 1.4. numaralı bentte açıklandığı üzere, hem fesih hem de temlik sözleşmesinde ayrı ayrı olmak üzere cezai şart düzenlemesine yer vermiş ise de; temlik sözleşmesinin, fesih sözleşmesine bağlı olarak, temliğin nasıl gerçekleştirileceğini düzenlemek amacıyla hazırlandığı anlaşılmaktadır. Her iki sözleşmede de arsa sahibinin asıl edimi temliği gerçekleştirmek, yüklenici tarafın edimi de tapudaki şerhi kaldırmaktır. Nitekim, temlik sözleşmesinin 3 üncü maddesinde de bu hususa değinilmiştir. Bu nedenle, yükümlülüklerin ihlali halinde, fesih sözleşmesi ve temlik sözleşmesi, taraflara ayrı ayrı cezai şart alacağı hakkı kazandırmaz.
 
 2.3. Bu durumda, arsa sahibi birliğin edimini yerine getirmemesine bağlı olarak yüklenici şirketlerin toplam 7.000.000,00 TL cezai şart alacağına hak kazandıkları, bunun 3.500.000,00 TL’sini yüklenici Yenibir Şirketinin, 3.500.000,00 TL’sini ise alt yüklenici 1 Gayrimenkul İnşaat şirketinin talep edebileceği açıktır. Asıl davada alt yüklenici 1 Gayrimenkul İnşaat şirketi icra takibiyle 3.500.000,00 TL talep ettiğine göre, birleşen davada yüklenici Yenibir İnşaat şirketinin talep edebileceği toplam cezai şart tutarı en fazla 3.500.000,00 TL’dir.
@@ -101,6 +111,8 @@ Bir kısım davalılar vekilinin temyiz itirazının kabulü ile temyiz olunan M
 Temyiz olunan Bölge Adliye Mahkemesi kararının, birleşen davada davalı yararına BOZULMASINA …
 
 ## Yargıtay 6. HD 2023/2841 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/947034300)
 
 Davacı vekili dava dilekçesinde; müvekkili yüklenici ile davalı arsa sahibi arasında Büyükçekmece ....
 
@@ -120,6 +132,8 @@ Temyiz olunan Bölge Adliye Mahkemesi kararının BOZULMASINA …
 
 ## Yargıtay 6. HD 2023/2588 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/925949000)
+
 Davalılar ..., ... ve ... vekili cevap dilekçesi ile; inşaat ruhsatının 4 ay gibi kısa bir sürede alınma imkanının olmadığını, inşaatın bitirilme tarihi olarak davacı tarafın ileri sürdüğü zaman diliminin kabulünün mümkün olmadığını, murisin sözleşmenin imzalanmasından kısa bir süre sonra rahatsızlandığını ve vefat ettiğini, TBK 486. maddesine göre sözleşmenin tarafı ...'un vefat tarihi itibari ile sözleşmenin kendiliğinden sona erdiğini, sözleşmede iş bu sözleşme mirasçılar için de geçerlidir ifadesi yer almış olsa da Yargıtay içtihatlarına göre bu şartın geçerli olmadığını, davacının davasına dayanak yaptığı sözleşmenin muris ...'ın ölüm tarihi olan 30/10/2014'te son bulduğundan bu tarih itibariyle şartları oluşmayan cezai şartın talep edilmesinin hukuken mümkün olmadığını, mirasçılardan cezai şart ve benzeri bir hususun talep edilebilmesi için muris ...'ın ölüm tarihinde o hakkın doğmuş olması gerektiğini, sözleşmenin son bulduğu murisin ölüm tarihinde yükleniciye verilen inşaatı yapma süresi dolmadığından herhangi bir gecikmeden bahsedilemeyeceğini ve murisin ölümü ile sözleşmenin yasa gereği kendiliğinden son bulacağından sözleşmeden cayma diye bir eylemin söz konusu
 olmadığını belirterek davanın reddini talep etmiştir.
 
@@ -137,6 +151,8 @@ değiştirilmek suretiyle DÜZELTİLEREK ONANMASINA …
 
 ## Yargıtay 3. HD 2023/2460 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/979412300)
+
 Davacılar asıl davada; davacı şirket ile davalı şirket arasında ... 6. Noterliğinde 26.03.2013 tarihli Adi Ortaklık Sözleşmesi imzalandığını, adi ortaklığın amacının S.S. ...
 
 …
@@ -153,6 +169,8 @@ Davacı ...'in birleşen davaya yönelik temyizi yönünden yapılan incelemede 
 
 ## Yargıtay 6. HD 2023/2388 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/937192100)
+
 Davalı ...Ş. vekili cevap dilekçesinde; davacıların mirasbırakanı ve devamında davacılar ile kat karşılığı inşaat sözleşmeleri imzalandığını, sözleşme konusu 33 no.lu taşınmazın ifraz edilerek 1444 ve 1445 numarasını aldığını, 1444 no.lu parselin tamamının ve 1445 sayılı taşınmazın 6/9 hissesinin 11/12/1992 tarihinde müvekkiline devredildiğini, 01/07/1996 tarihinde ise taşınmaza askeri nedenle yapılaşma kısıtı getirildiğini, devamına inşaat faaliyetlerinin üçüncü kişi tarafından yapılmasının daha faydalı olacağı düşüncesi ile davalı ... ile 2001 yılında adi yazıl ve edimlerin yerine getirilmemesi nedeni ile Beşiktaş 6.
 
 …
@@ -166,6 +184,8 @@ alınamazsa sözleşmeyi iptale yetkili olduklarının belirtildiği gibi, sözl
 Davacılar vekilinin temyiz itirazlarının yukarıda açıklanan nedenlerle kabulü ile hükmün davacılar yararına BOZULMASINA …
 
 ## Yargıtay 6. HD 2023/2315 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/934915400)
 
 Davacı vekili dava dilekçesinde özetle; taraflar arasında Beyoğlu 43. Noterliğinin 10/10/2012 tarih 34023 yevmiye sayılı Gayrımenkul Satış Vaadi ve Kat Karşılığı İnşaat Sözleşmesinin yapılıp tapuya tescil edildiğini ancak aradan geçen zamana rağmen herhangi bir işlem yapılmadığını, taşınmaz kaydına 10 yıllık inşaat hakkı şerhinin konulduğunu, davalının kötü niyetli olduğunu, davacının yaşlı ve tecrübesiz olduğunu, davacının güveninin zedelendiğini, bu nedenle Beyoğlu 43. Noterliğinin 11/06/2015 tarih 24235 yevmiye sayılı azilnamesi ile davalıları azlettiğini ve sözleşmeden dönme hakkını kullandığını ancak tapudaki kaydın durduğunu ve kaldırılmadığını beyanla taraflar arasındaki sözleşmenin geriye yönelik olarak feshine ve taşınmaz kaydındaki şerhin terkinine karar verilmesini talep etmiştir.
 
@@ -186,6 +206,8 @@ Bu durumda asıl davada, taraflar arasından imzalanan arsa payı karşılığı
 “Değerlendirme” bölümünün “3 ve 4” no.lu bendi uyarınca davalı-karşı davada davacı vekilinin Bölge Adliye Mahkemesi’nin 04.10.2022 tarihli “B” bölümünün “7” no.lu bendinde yer alan “Red edilen dava değeri ve Avukatlık Asgari Ücret Tarifesi gereği hesap ve takdir edilen 23.282,50 TL vekalet ücretinin karşı davacılardan tahsili ile karşı-davalıya VERİLMESİNE” cümlesinin çıkartılmasına, yerine “Red edilen dava değeri ve Avukatlık Asgari Ücret Tarifesi gereği hesap ve takdir edilen 2.725,00TL vekalet ücretinin karşı davacılardan tahsili ile davacı karşı-davalıya verilmesine,” cümlesinin yazılmasına, karşı davaya ilişkin kararın değiştirilmiş ve gerekçesi düzeltilmiş bu haliyle DÜZELTİLEREK ONANMASINA …
 
 ## Yargıtay 6. HD 2023/2309 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/936219100)
 
 Mahkemece bozmaya uyularak yeniden yapılan yargılama sonucunda; davanın kısmen kabulüne karar verilmiştir.
 

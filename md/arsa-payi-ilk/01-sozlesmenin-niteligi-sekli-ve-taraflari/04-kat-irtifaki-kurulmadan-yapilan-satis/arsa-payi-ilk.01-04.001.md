@@ -24,4 +24,6 @@ uyari: "Derleyenin seçtiği alıntılardır; kararın tamamı değildir. Künye
 
 ## Yargıtay 6. HD 2025/2344 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1186873500)
+
 Ancak, arsa sahibinin TMK’nın 3/2. fıkrası gereğince, üçüncü kişinin taşınmazı satın aldığı veya lehine ipotek tesis ettiği anda, “tapunun arsa payı karşılığı inşaat sözleşmesi gereğince yükleniciye devredildiğini ve sözleşmenin geriye etkili fesih koşullarının bulunduğunu” bildiğini veya bilmesi gerektiğini ispatlanması halinde arsa sahibinin tapu iptali ve tescil veya ipoteğin kaldırılması talebi kabul edilebilir. Anılan İçtihadı Birleştirme ve Dairenizin yeni içtihatları dikkate alındığında somut uyuşmazlıkta davacı arsa sahibi ile davalı yüklenici arasında adi yazılı arsa payı karşılığı inşaat sözleşmesi yapılmış ise de sözleşmeye konu taşınmaz üzerinde kat irtifakı kurulmadan, taşınmaz yüklenici adına kayıtlıyken davalı banka lehine ipotek tesis edildiği, davalı banka sözleşmeden haberinin olmadığını, arsa üzerine iyi niyetli olarak ve tapuya güvenerek ipotek tesis ettiğini iddia ettiğine göre arsa sahibinin bankanın iyi niyet iddiasının aksini ispat etmesi gerektiği, bu konuda yeterli ve inandırıcı delil sunmadığı anlaşılmakla ipoteğin fekki talebinin reddi gerekirken, yazılı gerekçeyle kabulüne karar verilmesi bozmayı gerektirmiştir.

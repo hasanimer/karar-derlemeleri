@@ -22,6 +22,8 @@ uyari: "Derleyenin seçtiği alıntılardır; kararın tamamı değildir. Künye
 
 ## Danıştay 13. D. 2023/2608 E., 2024/1191 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1098211500)
+
 Anayasa'nın 142. maddesi uyarınca, Mahkemelerin kuruluşu, görev ve yetkileri, işleyişleri ve yargılama usûlleri kanunla düzenlenir. Kanun yolları da, yargılama usûlleri arasında yer alır. Yargı yerlerince yapılacak incelemeler sonunda verilecek kararlardan hangisinin kesin olduğunun belli edilmesi dahi, anılan madde hükmü ile Anayasa'daki temel ilkelere ve güvence kurallarına aykırı olmamak üzere yasa koyucunun takdirine bırakılmıştır (AYM kararı, E:1985/23, K:1986/2, Karar tarihi: 20/01/1986).
 
 Anayasa’nın bütünlüğü ilkesi gereği mahkemelerin kuruluşu, görev ve yetkileri, işleyişi ve yargılama usûllerinin kanunla düzenleneceğini belirten Anayasa’nın 142. maddesinin de kanuni hâkim güvencesinin değerlendirilmesinde göz önünde bulundurulması gerektiği açıktır. Kanuni hâkim güvencesi, mahkemelerin kuruluş ve yetkileri ile izleyecekleri yargılama usûlünün yasayla düzenlenmesini ve dava konusu olay ortaya çıkmadan önce belirlenmesini gerektirir. Bu düzenleme Anayasa Mahkemesi kararlarında, kişinin hangi mahkemede yargılanacağını önceden ve kesin olarak bilmesini gerektiren doğal hâkim ilkesini koruyan bir hüküm olarak ele alınmaktadır (AYM kararı, Muhammed Deniz başvurusu, B. No: 2014/10728, Karar tarihi:18/07/2018).
@@ -32,6 +34,8 @@ Açıklanan nedenlerle, ihalenin iptali isteminden kaynaklanan davanın görüm 
 
 ## Danıştay 4. D. 2023/11221 E., 2024/402 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1055115000)
+
 İSTEMİN KONUSU : Hatay İli, Antakya İlçesinde bulunan ve ekli kroki ile listede sınır ve koordinatları gösterilen alanların 6306 sayılı Afet Riski Altındaki Alanların Dönüştürülmesi Hakkındaki Kanunun 2. maddesi uyarınca riskli alan ilan edilmesine ilişkin 05/04/2023 tarihli, 32154 sayılı Resmi Gazete'de yayımlanan 04/04/2023 tarihli ve 7033 sayılı Cumhurbaşkanı Kararının iptali istenilmektedir.
 
 DAVACININ İDDİALARI :Dava konusu işlemin bilimsel araştırmaya dayanmadığı, 6306 sayılı Kanun uyarınca alınan riskli alan kararının işlemin tesisindeki yetki ve gerekçelerin belirtildiği maddeler yerine Kanunda geçen kavramların açıklandığı tanım maddesi olan 2. maddesi uyarınca tesis edilmesi nedeniyle işlemin usul ve sebep unsuru yönüyle hukuka aykırı olduğu, davalı idarelerin önceki riskli alan kararları dikkate alındığında, ilk kez bu kadar geniş bir alanın riskli alan ilan edildiğinin anlaşıldığı, alan genişledikçe idarenin uygulama yeteneğinin azalacağı, eşitliği sağlamakta zorlanacağı, Antakya'nın en önemli tarihi alanını kapsayan riskli alan kararının kamu yararına aykırı olduğu, mülkiyet hakkını ihlal ettiği ileri sürülmektedir.
@@ -41,6 +45,8 @@ DAVACININ İDDİALARI :Dava konusu işlemin bilimsel araştırmaya dayanmadığ�
 Aynı Kanun'un 14. maddesinde de; dava dilekçelerinin ehliyet yönünden inceleneceği ve 15/1-b maddesinde; bu hususta Kanuna aykırılık görülmesi halinde davanın reddine karar verileceği hükmü düzenlenmiştir.
 
 ## Danıştay 6. D. 2022/7562 E., 2024/129 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1047060900)
 
 Bu adalardaki kitlelerin ebatlarını belirlemeye belediyesi yetkilidir. Bu alanlarda yapı yaklaşma mesafesi içinde kitle boyları ve kitle derinlikleri serbest yapılabilir.
 Yapının nizam ve oturumunu belirlemede belediyesince kitle tasdiği gerekir." hükmü getirildiği, dava konusu 1/1000 ölçekli revizyon uygulama imar planında getirilen kullanım kararlarının 1/5000 ölçekli nazım imar planına uygun olduğu ve bu kapsamda planların kademeli birlikteliği ilkesine uygun usulde yürürlüğe konulduğu, bölgede yenilenmeye aday çok sayıda yapının bulunduğu, kentin gelişme dinamikleri çerçevesinde sağlıklı yapılaşmanın temini, sosyal ve teknik altyapı alanlarına ilişkin noksanlığın giderilmesi, planlama alanında mevcut parçalı mülkiyet yapısı ile çarpık yapılaşmadan kaynaklanan sorunların çözümlenmesi amacıyla revizyona tabi tutulan alanın bütün halinde değerlendirildiği, plan onama sınırları içerisinde öngörülmüş olan konut alanlarına "tek ada tek parsel" kuralı getirilerek, gelecekte yapılacak uygulamalara yönelik çerçevenin belirlendiği, alanda mevcut küçük ebatlı hisseli parsellerin tek tek yapılaşmasının belirsiz bir süreye ertelenmemesi adına ve yapısal dönüşümün hızlandırılması amacıyla bu düzenlemenin getirildiği ve taşınmazı konut alanında kalan tüm parsel maliklerinin eşit biçimde bu kurala tabi olduğu anlaşıldığından, üst ölçekli planlara uygun usulde
@@ -60,6 +66,8 @@ plan işlem numaralı Gültepe Bölgesi 1/5000 ölçekli nazım imar planı ve d
 Bu itibarla temyize konu idari dava dairesi kararının bozulması gerektiği oyuyla Dairemizin idari dava dairesi kararının onanmasına ilişkin kısmına katılmıyorum.
 
 ## Danıştay 6. D. 2023/848 E., 2023/10156 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1047992000)
 
 DAVACININ İDDİALARI: Davacı, Ankara ili, Çankaya ilçesi, …
 
@@ -85,6 +93,8 @@ sayılı parselin yüksek yoğunlukta konut alanı olarak yapılaşmaya açıld�
 
 ## Danıştay 6. D. 2022/6313 E., 2023/9526 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1043563500)
+
 Diğer taraftan, Anayasa'nın 35. maddesinde, herkesin mülkiyet ve miras hakkına sahip olduğu, bu hakkın ancak kamu yararı amacıyla ve kanunla sınırlandırılabileceği düzenlenmiş, aynı şekilde Anayasa'nın 90. maddesinin 5. fıkrasında yapılan değişiklikle iç hukukumuzun bir parçası haline gelen uluslararası sözleşmelerden birisi olan Avrupa İnsan Haklarının ve Temel Özgürlüklerinin Korunmasına İlişkin Sözleşmeye Ek Protokolün 1. maddesinde, her gerçek ve tüzel kişinin mal ve mülk dokunulmazlığına saygı gösterilmesini isteme hakkı bulunduğu, herhangi bir kimsenin, ancak kamu yararı sebebiyle ve yasada öngörülen koşullara ve uluslararası hukukun genel ilkelerine uygun olarak mal ve mülkünden yoksun bırakılabileceği hüküm altına alınmıştır.
 
 …
@@ -92,6 +102,8 @@ Diğer taraftan, Anayasa'nın 35. maddesinde, herkesin mülkiyet ve miras hakkı
 Dava konusu işlemin iptaline ilişkin Mahkeme kararına yönelik olarak yapılan istinaf başvurusunun kabulü ile anılan kararının kaldırılarak yukarıda özetlenen gerekçeyle davanın süre aşımı nedeniyle reddi yolundaki temyize konu … Bölge İdare Mahkemesi ... İdari Dava Dairesinin … tarih ve E:…
 
 ## Danıştay 6. D. 2021/4131 E., 2023/8564 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1043566700)
 
 Davacı tarafından haksız olarak ödendiği ileri sürülen bedelin iadesi istemiyle 06/05/2020 tarihinde davalı idareye yapılan başvurunun zımnen reddi üzerine görülmekte olan dava açılmıştır.
 
@@ -105,6 +117,8 @@ Davanın yukarıda özetlenen gerekçeyle süre aşımı nedeniyle reddine iliş
 
 ## Danıştay 6. D. 2022/8126 E., 2023/8429 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1043559600)
+
 Davacı tarafından verilen 30/07/2020 tarihli ve 23/12/2020 tarihli dilekçeler ile; kendi taşınmazı üzerinde yapılacak konut, ticarethane veya arsasını istediği, bunun dışındaki koşulları kabul etmediği hususu beyan edilmiştir.
 
 …
@@ -113,6 +127,8 @@ Bakanlar Kurulunca kabul olunan, büyük enerji ve sulama projeleri ile iskan pr
 Aynı maddenin 3. fıkrasında, "Onaylı imar planına veya ilgili bakanlıklarca onaylı özel plan ve projesine göre yapılacak hizmetler için ayrıca kamu yararı kararı alınmasına ve onaylanmasına gerek yoktur. Bu durumlarda yetkili icra organınca kamulaştırma işlemine başlanıldığını gösteren bir karar alınır." hükmüne, dava konusu işlemin tesis edildiği tarihte yürürlükte olan 27. maddesinde ise; 3634 sayılı Milli Müdafaa Mükellefiyeti Kanununun uygulanmasında yurt savunması ihtiyacına veya aceleliğine Bakanlar Kurulunca karar alınacak hallerde veya özel kanunlarla öngörülen olağanüstü durumlarda gerekli olan taşınmaz malların kamulaştırılmasında kıymet takdiri dışındaki işlemler sonradan tamamlanmak üzere ilgili idarenin istemi ile mahkemece yedi gün içinde o taşınmaz malın 10. madde esasları dairesinde ve 15. madde uyarınca seçilecek bilirkişilerce tespit edilecek değeri, idare tarafından mal sahibi adına 10. maddeye göre yapılacak davetiye ve ilanda belirtilen bankaya yatırılarak o taşınmaz mala el konulabileceği düzenlemesine yer verilmiştir.
 
 ## Danıştay 6. D. 2022/8200 E., 2023/8423 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1043563800)
 
 Ülkemizin taraf olduğu Avrupa İnsan Hakları Sözleşmesinin Ek 1 Nolu Protokolüyle de mülkiyet hakkı bir insan hakkı olarak kabul edilmiş ve bu hakkın orantılılık ilkesi çerçevesinde kamu yararı gözetilerek sınırlandırılabileceği ifade edilmiştir. Buna göre, bir taşınmaz üzerindeki mülkiyet hakkının kamulaştırma yolu ile kaldırılması (mülkiyetin el değiştirmesi) kamu yararının karşılanması zorunluluğunun özel mülkiyet hakkının korunmasından üstün tutulması şartına bağlıdır.
 
@@ -127,6 +143,8 @@ Dava konusu acele kamulaştırma kararının uyuşmazlığa konu parsele ilişki
 
 ## Danıştay 6. D. 2021/4809 E., 2023/8015 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1044808800)
+
 Dosyadaki bilgi ve belgelerle bilirkişi raporunun birlikte değerlendirilmesinden; 1/100.000 ölçekli Aydın-Muğla-Denizli Planlama Bölgesi Çevre Düzeni Planında çayır, mera, tarım arazisi ve çok küçük bölümü kentsel yerleşik alanda kalan uyuşmazlığa konu taşınmazların, alanın belirlenen niteliğinin kaldırılarak turizm tesis alanı olarak belirlenmesine ilişkin olarak ilgili kurumların görüşlerinin alınmadığı, plan hükümleri ile deniz ve yat turizminin güçlendirilmesi ve desteklenmesi amacı ile kıyıların, mevcut yapılaşmalar ve imar planları ile verilmiş haklar dışında yeni yapılaşmaya açılmaması ve kıyıların doğal yapısının korunarak kamu yararına kullanılmasının sağlanması ilkesi dikkate alınmaksızın yapılaşmaya açılmasını gerektirecek bilimsel ve nesnel gerekçelerin ortaya konulmadığı göz önünde bulundurulduğunda, dava konusu plan değişikliklerinin 1/100.000 ölçekli çevre düzeni planının ana stratejileriyle çeliştiği, planın bütünlüğünün, koruma-kullanma dengesinin bozulduğu, plan değişikliklerinde şehircilik ilkeleri, planlama esasları, kamu yararı ve imar mevzuatına uyarlık bulunmadığı sonucuna varılmıştır.
 
 …
@@ -134,6 +152,8 @@ Dosyadaki bilgi ve belgelerle bilirkişi raporunun birlikte değerlendirilmesind
 2\. 1/5000 ölçekli nazım imar planının plan hükümlerinin 6. maddesinde ve 1/1000 ölçekli uygulama imar planı değişikliğinin plan hükümlerinin 4. maddesinde yer alan "Turizm (otel) alanlarında; aynı parsel bütününde kalan günübirlik turizm tesisleri parsel içinde yapılacak turizm tesislerinin tamamlayıcısı olabilir. İnşaat emsali imar parseli üzerinden hesaplanır. Ancak günübirlik gösterilen alanda yapılacak tesislerin toplam inşaat alanı günübirlik alanın %20'sini geçemez." kuralının ve 1/1000 ölçekli uygulama imar planı değişikliğinin, günübirlik tesis alanı ile otel alanı arasında yaya yolu geçirilmemesine ilişkin kısmının İPTALİNE …
 
 ## Danıştay 6. D. 2023/1471 E., 2023/7597 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1026182800)
 
 İlk Derece Mahkemesi kararının özeti:k ...
 
@@ -151,6 +171,8 @@ Davanın yukarıda özetlenen gerekçeyle reddine ilişkin Mahkeme kararına yö
 
 ## Danıştay 6. D. 2023/4248 E., 2023/7120 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1021884400)
+
 Mahkeme, 1 No.'lu Protokol'ün 1. maddesindeki "mülkiyet" kavramının, maddi mülkiyet ile sınırlı olmayan ve iç hukuktaki resmi sınıflandırmadan bağımsız, kendine has bir anlamı olduğunu, maddi mülkiyetin yanı sıra, kıymet teşkil eden bazı hak ve çıkarların da bu hüküm uyarınca "mülkiyet hakkına" girebileceği, "Mülk" kavramının "mevcut mülkler" ile sınırlı olmadığını; bu kavramın başvuranın üzerinde mülkiyet hakkını fiilen kullanabilmeye yönelik makul ve "yasal bir beklentiye" sahip olduğu gayrımenkulleri de kapsadığını kabul etmiştir.
 
 Olayda önceki imar planı kararları doğrultusunda ve usulüne uygun olarak alınan ruhsat ve eki projelere göre bütünüyle yasal olarak inşa edilmiş yapılar bulunmaktadır. Bu kapsamda Anayasanın amir hükümleri ile tanımlanan, korunması gereken mülkiyet hakkının kapsamına giren bir hak bulunduğu hususunda duraksama bulunmamaktadır. Burada üzerinde durulması gereken söz konusu mülkiyet hakkının sınırlanmasının yasal koşullarının gerçekleşip gerçekleşmediğidir. Bilindiği üzere mülkiyet hakkı kanunla (belirli, öngörülebilir açık ve kesin) meşru bir amacı gerçekleştirmek amacıyla orantılı bir biçimde sınırlandırılabilir. Yasal gereklilikler yerine getirilerek inşa edilen bir yapı nedeniyle sahip olunan mülkiyet hakkının kullanımı yönünden getirilecek her kısıtlamanın da yine belirtilen bu koşullara uygun olması gerekmektedir.
@@ -160,6 +182,8 @@ Olayda önceki imar planı kararları doğrultusunda ve usulüne uygun olarak al
 Öte yandan, davalı idare tarafından deprem, afet gibi kentsel risk faktörlerine karşın eskimiş yapıların yenilenemediği, can ve mal emniyetini sağlayabilmek, yapıları depreme uygun hale getirmek ve bunu yaparken de mevcut nüfusu mağdur etmemek adına plan notu değişikliğinin zorunluluk teşkil ettiği, can ve mal emniyeti açısından plan notu değişikliğinin kamu yararına uygun olduğu ileri sürülmüş ise de, deprem gibi afet risklerini bertaraf etmek adına eskimiş yapıların bir an önce yenilenmesi için imar planlarında değişikliğe gitmek bakımından kamu yararına uygun bir amaç teşkil etse de, söz konusu amacın plan notu değişikliği ile plan bütünlüğünün bozulmasına ve plan ana kararlarının göz ardı edilmesine haklı gerekçe olamayacağı …
 
 ## Danıştay 6. D. 2021/7444 E., 2023/6778 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1022857200)
 
 DAVACININ İDDİALARI : Dava konusu parselin 1/25.000 ölçekli 2023 Başkent Ankara Nazım İmar Planında "ağaçlandırılacak alan", 75010 sayılı plan kapsamında ise "spor tesisleri ve rekreasyon alanı" kullanımlarında kaldığı, dava konusu plan değişiklikleri ile "gelişme konut alanı" olarak belirlendiği ve yapılaşma koşullarının tanımlandığı, dava konusu alana ilişkin 12/11/2019 tarihli, 1806 sayılı Cumhurbaşkanlığı Kararı ile onaylanan 1/100.000 ölçekli çevre düzeni planı ile 1/25.000 ve 1/5000 ölçekli nazım ve 1/1000 ölçekli uygulama imar planı değişikliklerine karşı Danıştay Altıncı Dairesinin E:2020/2034 sayılı dosyasında açılan davada alınan bilirkişi raporu esas alınarak işbu davada dava konusu imar planlarının iptaline karar verilmesinin talep edildiği, imar planı değişikliğine konu alanın Oran Piknik Alanı olarak tanımlanan ve halen kentliler tarafından kullanımına devam edilen yeşil alan olduğu, yakın çevresindeki …
 
@@ -171,6 +195,8 @@ altyapı etki değerlendirme raporu hazırlanarak ilgili idareye sunulmasının 
 
 ## Danıştay 6. D. 2019/16542 E., 2023/6752 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1008746800)
+
 Öte yandan, yukarıda yer verilen 1/25.000 ölçekli plan notlarında parsel bazlı ve parçacıl plan değişikliği yapılamayacağı belirtildiğinden; tek parsele ilişkin olarak kullanım kararı ve yapılaşma kriteri getiren uyuşmazlık konusu plan değişikliğinin üst ölçekli plan notlarına, planların kademeli birliktelik ilkesine ve imar mevzuatına aykırı olduğu, plan bütünselliğinden uzak ve parçacı bir planlama yaklaşımı benimsenmesi nedeniyle mevcut üst kademe 1/25.000 ölçekli nazım imar planı ve mevcut alt kademe 1/5000 ölçekli kat rejimi nazım imar planlarının ana kararlarını, sürekliliğini, bütünlüğünü ve dengesini bozucu nitelik taşıdığı, kamu yararı amaçlı olmaksızın yapılan imar planı değişikliğinin teknik ve nesnel gerekçelere dayanmadığı, bir zorunluluktan kaynaklanmadığı, plan açıklama raporunda belirtilen gerekçenin ve malik talebinin de mevzuatın aradığı anlamda kamu yararını sağlamaya yönelik olmadığı değerlendirilmektedir.
 
 …
@@ -178,6 +204,8 @@ altyapı etki değerlendirme raporu hazırlanarak ilgili idareye sunulmasının 
 Dava konusu işlemin yukarıda özetlenen gerekçeyle iptaline ilişkin Mahkeme kararına yönelik olarak yapılan istinaf başvurusunun reddi yolundaki temyize konu … Bölge İdare Mahkemesi …İdari Dava Dairesinin … tarih ve E:…
 
 ## Danıştay 6. D. 2019/18900 E., 2023/6493 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1008488600)
 
 Türkiye Cumhuriyeti Anayasası'nın 17. maddesinde, herkesin yaşama, maddi ve manevi varlığını koruma ve geliştirme hakkına sahip olduğu, 56. maddesinde de Devletin, herkesin hayatını beden ve ruh sağılığı içinde sürdürmesini sağlamakla yükümlü olduğu, 125. maddesinde, idarenin her türlü eylem ve işlemlerine karşı yargı yolunun açık olduğu belirtildikten sonra, aynı maddenin son fıkrasında, idarenin kendi eylem ve işlemlerinden doğan zararı ödemekle yükümlü olduğu hükme bağlanmıştır.
 

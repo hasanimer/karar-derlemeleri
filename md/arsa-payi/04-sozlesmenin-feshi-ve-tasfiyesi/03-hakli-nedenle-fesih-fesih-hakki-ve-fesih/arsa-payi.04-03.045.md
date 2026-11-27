@@ -21,6 +21,8 @@ uyari: "Derleyenin seçtiği alıntılardır; kararın tamamı değildir. Künye
 
 ## İzmir BAM 22. HD 2021/1233 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/689313400)
+
 Mahkemece, iddia, savunma ve tüm dosya kapsamına göre, "...taraflar arasında yapılan davaya konu 2 adet sözleşmeye konu işlerin büyük bir kısmının davacı tarafça yapıldığı, fatura konusu iş bedellerinin bilirkişi heyetince hesaplandığı, davalı tarafça davacıya devir edeceğini belirttiği 2 adet dairenin davacıya devredilmemesi nedeniyle davacının davaya konu faturalardan kaynaklı davalıdan 185.054,56 TL alacaklı olduğu, davacının davalıya gönderdiği ihtarnamenin 21.09.2016 tarihinde davalıya tebliğ edildiği, ihtarda 10 gün ödeme süresi tanınmış olduğu, ancak davalının ödeme yapmaması nedeniyle davalının 02.09.2016 tarihinde temerrüde düştüğü kabul edilerek buna göre davacının davalıdan, bilirkişilerce hesaplanan 3.194,09 TL işlemiş faiz talep edebileceği, alacak yargılamayı gerektirdiğinden davacının davalıdan icra inkar tazminatı talep edemeyeceği kanaatine varılarak davanın kısmen kabulü..." şeklindeki gerekçe ile davanın kısmen kabulü ile; davalı borçlunun İzmir 16.
 
 …
@@ -45,6 +47,8 @@ Davalı vekilinin istinaf başvurusunun Hukuk Muhakemeleri Kanunu'nun 353/1-b-1 
 
 ## İstanbul BAM 45. HD 2021/999 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/696786000)
+
 İLK DERECE MAHKEMESİ KARARI Mahkemece ''... davacılar tarafından davalı ... dışındaki davalılar aleyhine açmış olduğu davanın, iş bu davalılar ile davacılar arasında herhangi bir akdi ilişki bulunmadığı, söz konusu davalılar tarafından davacılara yönelik herhangi bir taahhüdün söz konusu olmadığı, bu nedenlerle bu davalılar yönünden açılan davanın pasif husumet nedeniyle reddine; davacılar tarafından ortağı bulundukları ... ile ortaklık ilişkilerinin halen devam ettiği, ortağı oldukları kooperatifin hak kazandığı herhangi bir taşınmaz bulunmadığı, davacılar dışındaki diğer ortaklara tahsis ve tescil edilen herhangi bir bağımsız bölüm olmadığı, bu bağlamda davacıların üyesi bulundukları ...'dan adlarına bağımsız bölüm tahsis veya tescili; olmadığı taktirde taşınmazların bedelini talep edemeyecekleri, bu kapsamda kooperatif üyeleri arasında eşit işlem kuralına aykırı bir durumun da söz konusu olmadığı dikkate alınarak davalı ... aleyhine açılan davanın da sübuta ermediğinden reddine'' dair karar verilmiştir.
 
 …
@@ -63,6 +67,8 @@ H Ü K Ü M: Gerekçesi yukarıda izah edildiği üzere; 1-Davacının istinaf b
 
 ## Ankara BAM 21. HD 2021/956 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/671424700)
+
 İlk derece mahkemesince duruşma açılarak yapılan inceleme sonunda; mahkemece 25/03/2021 tarihinde davalıların müdürlük yetkilerinin kayyım denetimine bırakılmasına ve davalı gerçek kişilerin şirket müdürü sıfatıyla şirket adına gerçekleştireceği şirket aktifini azaltıcı tüm iş ve işlemlerin dava sonuçlanıncaya kadar kayyım onayına tabi tutulmasına karar verildiği, gelinen süreçte Mahkeme dosyasına sunulan yeni delil ve belge olmadığı, Mahkemece verilen kararın yerinde olduğu gerekçesiyle, davalı vekilinin tedbir kararına yönelik itirazının reddine karar verilmiştir.
 
 …
@@ -77,6 +83,8 @@ Ankara 7. Asliye Ticaret Mahkemesi'nin 25/03/2021 tarihli ve ....Esas sayılı i
 
 ## Ankara BAM 27. HD 2021/704 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/673163400)
+
 Kooperatifi adına kayıtlı olduğu,.... konutun yer aldığı, A bloğun imalatının % 45, B bloğun % 95, C bloğun % 70, D bloğun % 60, E bloğun imalatının gerçekleşme oranın %6 olarak takdir edildiği,.... nolu adalarda inşaat yapımına başlanmadığı parsellerin tümünün tapuda davalı kooperatif adına kayıtlı olduğu, davalı kooperatifin 08/11/2000 tarihinde davacı ile yaptığı sözleşmeyi feshettiği, sözleşmeyi Borçlar Kanunu'nun 369. maddesi ile fesh ettiğini bildirdiği, taraf iradelerinin birleşmesi nedeniyle sözleşmenin fesih sureti ile ortadan kalktığı, müteahhidin yaptığı bir takım hizmetler nedeni ile bedelinin tahsiline talep hakkı bulunduğunu, davalı yandan talep edebileceği toplam tazminat miktarının 2.778,000,00 TL olarak hesaplandığının bildirildiği, taraf vekillerinin itirazı üzerine bilirkişi kurulundan ek raporlar alındığı 11/10/2016 tarihli ek raporda, akdin davacı yanın kusurlu davranışı ile feshine sebebiyet verdiği, davalı arsa malikinden kar kaybı talebinde bulunmasının mümkün olmadığı, davalı kooperatifin sözleşmeyi BK 369.maddesine göre fesh ettikleri yönündeki beyanlarının bağlayıcı sonuç doğuracağı düşünüldüğünde davacı adına tesis edilen daireler dahil olarak feshin
 oluştuğu 2007 fiyatlarına göre 3.546.600,00 TL olacağı, davaya konu inşaatların davacı şirket tarafından değil dava dışı yüklenici kooperatiflerle taşeron şirketlerin akdettiği eser sözleşmeleri uyarınca gerçekleştirildiği, taşeron şirketlerin asıl iş (arsa) sahibi kooperatif ile akdi ilişkilerinin olmadığı bu nedenle davalı asıl iş sahibi kooperatife taşeron şirketlerce husumet yöneltilemeyeceği, mahkemenin aksi kanaatte olması durumunda davacının davalı arsa maliki kooperatiften yapım bedelini talep edebileceği düşünüldüğünde 2007 yılı fiyatları ile yapım bedeli tutarının 2.150.872,42 TL olacağının bildirildiği, 818 sayılı BK'nun 369. maddesi hükmünde "Yapılan şey; bitmezden evvel iş sahibi yapılmış olan kısmın bedelini vermek ve müteahhidin zarar ve ziyanı baligan mabelağ tazmin etmek şartıyla mukaveleyi fesh edebilir." düzenlemesine yer verildiği, 6098 sayılı TBK'nun 484.maddesinde de aynı düzenlemenin yer aldığı, tüm dosya kapsamı toplanan deliller alınan bilirkişi kök ve ek raporlarına göre, taraflar arasında ...
 
@@ -85,6 +93,8 @@ oluştuğu 2007 fiyatlarına göre 3.546.600,00 TL olacağı, davaya konu inşaa
 Ankara 5. Asliye Ticaret Mahkemesi'nin 23/11/2017 gün ve ... Karar sayılı kararının HMK'nın 353/1-a.4 ve 353/1-a.6 maddeleri gereğince kaldırılmasına …
 
 ## İstanbul BAM 15. HD 2021/676 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/648735500)
 
 Taraflar arasında noterde düzenlenen 03.11.2010 tarihli kat karşılığı inşaat sözleşmesi ile davalıya ait ... İlçesi, ... Köyü, ... ada ... parselde bulunan taşınmazı üzerine arsa payı karşılığında inşaat yapılması kararlaştırılmıştır Davacı yüklenici sözleşmenin davalı tarafından haksız olarak feshedildiğini belirterek asıl davada haksız fesih nedeniyle uğranılan zararın tazmini, birleşen davasında ise kâr kaybı alacağın tahsilini istemiş; davalı arsa sahibi ise feshin haklı olduğunu belirterek karşı davayla tapu iptali ve tescil ile uğranılan zararın tahsilini talep etmiştir. Mahkemece keşfen yaptırılan bilirkişi incelemesi sonucu alınan rapora itibar edilerek sözleşmenin davalı arsa sahibince haksız olarak feshedilmiş olduğu belirtilerek asıl davanın kısmen kabulüne, birleşen davanın reddine, karşı davanın kısmen kabulü ile tapu iptali ve tescil istemin kabulüne, zarara ilişkin istemin reddine karar verilmiştir. Taraflarca açılan her üç davada sözleşmenin feshedilmiş olması sonucuna dayalı taleplerde bulunulmuş olup, uyuşmazlık feshin haklı olup olmadığı yönündedir.
 Davalı arsa sahibi sözleşmenin süresinde ifa edilmediğini belirterek davacı yüklenicinin temerrüdü nedeniyle akdi haklı olarak feshettiğini iddia etmiş, davacı yüklenici ise, süresinde yer teslimi yapılmamış olması nedeniğle ifaya başlayamadığını ileri sürmüştür. Dosya kapsamına göre gecikmeye sebep olan husus taşınmaz üzerinde bulunan yapıların zamanında yıkılmamasıyla ilgili olup sözleşmeye konu taşınmaz üzerinde bulunan binaların kimin tarafından yıkılması gerektiği ihtilaf konusudur.
@@ -98,15 +108,21 @@ HÜKÜM: Gerekçesi yukarıda açıklandığı üzere;1-Davacı vekilinin istina
 
 ## İstanbul BAM 15. HD 2021/612 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/647464600)
+
 Asıl ve birleşen dava kat karşılığı inşaat sözleşmesine dayalı olarak, davalı-birleşen davalı yüklenici ...Ltd. Şti.'nin sözleşme kapsamındaki yükümlülüklerini yerine getirememesi sebebine dayalı olarak, sözleşmenin davacı arsa sahibi tarafından haklı nedenle geriye etkili olarak feshi ve yükleniciden bağımsız bölüm satın alan, yükleniciye devredilen bağımsız bölümlere haciz koyan diğer davalı ve birleşen davalıların tapularının iptali, konulan haciz ve tüm takyidatların kaldırılması ile birlikte davacı-birleşen davacı arsa sahibi kooperatif adına kayıt ve tescili talebine ilişkindir. Asıl ve birleşen davalarda, davalı-karşı davacı ... ve birleşen davalı-karşı davacı ... tarafından açılan karşı davalar ise, davacı-birleşen davacı arsa sahibi kooperatifin davalı yüklenici ile birlikte hareket ederek kendilerini zarara uğrattığı iddiasıyla tazminat talebine ilişkindir. Davacı-birleşen davacı kooperatif ile davalı-birleşen davalı ...Ltd. Şti. arasında 22/01/2008 tarihli Düzenleme Şeklinde Satış Vaadi ve Kat Karşılığı İnşaat Sözleşmesi imzalanmıştır. Bu sözleşmeye göre, yüklenici şirket mülkiyeti davacı kooperatife ait Başakşehir ...
 Mahallesi ... ada ... -... sayılı parseller ile ... ada ... ve ... ada ... parsel sayılı taşınmazlar üzerine meri planlara uygun yapı yapmayı üstlenmiş, inşaat süresi 30 ay olarak öngörülmüştür. Ancak yüklenici tarafından bu inşaat süresi içinde ve verilen ek sürelerde ... ada ... -... sayılı parseller ile ... ada ... parselde hiç inşaata başlamadığından noter aracılığı ile gönderilen ihtarnameyle bu taşınmazlar yönünden sözleşme feshedilmiş, ... ada ... parselde devam eden ... ve ... blokları yönünden sözleşmeye kısmen devam edilmiştir. Bu konuda taraflar arasında 06/10/2011 ve 20/09/2011 tarihli protokoller imzalanmış, ayrıca davalı yüklenicinin davacıcı kooperatifi feshedilen sözleşme gereğince ibra ettiğine ilişkin 19/09/2013 tarihli ibraname de düzenlenmiştir.
 
 ## İstanbul BAM 15. HD 2021/612 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/647464600)
+
 Arsa payı karşılığı inşaat yapım sözleşmesinde arsa sahibi ya da arsa sahiplerince yüklenici veya yüklenicinin talimatıyla üçüncü kişilere tapu payı ya da bağımsız bölüm devri, arsa sahibinin üstlendiği arsa payı devri ödenmesi borcu ile ilgili avans niteliğinde olup, bu yolla yapılan temlik sonucu oluşturulan tapu kaytıları ile adına tescil yapılanlar, ancak yüklenicinin edimlerini yerine getirdiği oranda ayni hak sahibi olabilirler. Yüklenici, sözleşme ve ekleri, tasdikli ruhsat ve projesi ile imar mevzuatına uygun olarak edimini yerine getirmiş olması halinde kararlaştırılan bağımsız bölüm ya da tapu paylarına hak kazanır ve avans niteliğinde yapılan tapu devirleri de gerçek mülkiyetin devri niteliğine dönüşür. Kat karşılığı inşaat sözleşmesinin geriye etkili feshi halinde arsa sahibi, yükleniciye bırakılıp onun tarafından üçüncü kişiler ya da onun talimatıyla arsa sahibi tarafından üçüncü kişilere devredilen ya da yükleniciye devrettiği tapu payları veya bağımsız bölümlerin tapu kaydının iptâl ve tescilini talep edebilir. Söz konusu tesciller kural olarak yüklenici ve üçüncü kişilere ayni hak sağlamaz.
 Sadece bu tescil işleminin yapılması, mülkiyet hakkının doğması için yeterli olmayıp ayrıca geçerli bir hukuksal nedenin de varlığı gerekir. Arsa sahipleriyle ilgili yüklenici arasında düzenlenen arsa payı karşılığı inşaat sözleşmesi, geriye etkili olarak feshedildiğine göre, dava tarihnde yürürlükte bulunan 818 sayılı BK'nın 61 ve devamı maddeleri gereğince ve haksız iktisap kuralları uyarınca yüklenici ile onun devrettiği ya da yüklenicinin talimatıyla arsa sahiplerince üçüncü kişilere yapılan pay devirlerinin edinme sebebi hukuksal dayanaktan yoksun kalır. Buna göre, davalı-karşı davacı ... ve birleşen davalı-karşı davacı ...'in TMK'nın 1023. maddesi uyarınca iyi niyetli 3.kişi olarak kabul edilmeleri gerektiğine dair savunmaları ve istinaf itirazları yerinde görülmemiştir. İlk derece mahkemesince de benzer gerekçeyle üçüncü kişilere devredilen bağımsız bölümlerin tapu kayıtlarının iptaline karar verilmesi yerinde olmuştur.
 
 ## İstanbul BAM 12. HD 2020/1221 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/615813700)
 
 …
 
@@ -120,6 +136,8 @@ HÜKÜM:Yukarıda açıklanan nedenlerle: Davacı vekilinin istinaf başvurusunu
 
 ## İstanbul BAM 3. HD 2020/579 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/584026700)
+
 Şti.'nin davalıya 2 adet çek ve banka havalesi ile ödediği 209.000.TL dava açıldığında henüz davacı şirkete usulüne uygun temlik edilmeden, davacı tarafından sanki kendisi ödemiş gibi gösterilerek talep edildiğini, davacının, dava dışı şirket tarafından ödenen bedeli, henüz alacaklıdan temlik almadan dava ile talep etmesinde hukuki yararı ve yetkisi bulunmadığı, temlikin 05.09.2017 tarihinde dava devam ederken yapılmış olup, bu hususta beyan ve delilleri sunmak için kendilerine bildirim yapılmadığını, dava açıldıktan sonra temlik alınan bir alacağın ancak başka bir dava ile talep edilebileceğini, Zira HMK da dava devam ederken yapılacak temlikin sadece davacı ve davalıya hasredildiğini, temlik hukuken geçerli varsayılsa dahi alacak talep edilemeyeceğini, zira dava dışı ... şirketinin ana distribütörlük sözleşmesi edimlerini yerine getirmediğini, temlik edilen alacağın doğup doğmadığının usulünce tespit edilmediğini, zira temlik edilen alacağın dosyada mevcut 08.08.2014 tarihli ana distribütörlük sözleşmesinden kaynaklandığını, mahkeme tarafından temlik sözleşmesinin kabulü halinde kendilerine temlik sözleşmesini doğuran alacağın var olup olmadığı hususunda delil ve savunmalarını
 ileri sürmek için imkan tanınması gerektiği halde bu yola gidilmeyerek, savunma hakklarının kısıtlandığını, kararın bu yönlerden usul ve hukuka aykırı olduğunu ileri sürerek, kararının istinaf incelemesi neticesinde kaldırılmasını, davanın reddine karar verilmesini talep etmiştir. ...nun 355. maddesi uyarınca, ileri sürülen istinaf sebepleri ile sınırlı olarak yapılan inceleme sonucunda; davacı tarafından açılan bu davada ,davalının sözleşmeyi feshetmesi sebebiyle ,yaptığı ödemelerin iadesi istenmiştir.
 
@@ -127,6 +145,8 @@ Davalı tarafın zamanaşımına ilişkin istinaf sebebinin incelenmesiyle ,somu
 Ada, ... nolu parsele ait arazi üzerinde yapılacak olan devre mülk projesi içerindeki dairelerden 15 adedi karşılığında tapu hisse oranının dairelerle karşılıklı devri kararlaştırılmıştır. Yine taraflar arasında yapılan mübrez 25/09/2014 tarihli "Gayrimenkul Satış Vaadi İnşaat Sözleşmesi " ne göre, sözleşmenin konusu aynı parsele ait arazi üzerine yapılacak olan ... Projesi içerisinde 15 adet dairenin projeye uygun olarak kat irtifaklarının devrine ait karşılıklı hükümler olarak belirlenmiştir. Sözleşme bedeli 5.maddeye göre 1.500.000,00 TL teminat senedi miktarı olarak belirlenmiştir. Davalı şirket, davacı şirkete Gebze ...Noterliğinden gönderdiği 30/03/2015 tarihli , fesih bildirim ihtarnamesi ile daire alım bedellerinin şirket hesabına zamanında ödenmemesi sebebiyle karşılıklı olarak imza altına alınan 25/09/2015 tarihli Gayrimenkul Satış Vaadi Sözleşmesinin tek taraflı olarak feshettiğine ilişkin ihbarnamesi, davacı şirkete 02/04/2015 tarihinde tebliğ edilmiştir.
 
 ## İstanbul BAM 15. HD 2020/395 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/577461400)
 
 Dava, taraflar arasında düzenlenen kat karşılığı inşaat sözleşmesinin imkansızlık nedeniyle sona erdiğinin tespiti ile taşınmazın kaydı üzerinde bulunan inşaat sözleşmesi şerhinin terkinine ilişkin olup, mahkemece davanın reddine dair verilen karara karşı taraf vekillerince istinaf talebinde bulunulmuştur.
 
@@ -141,6 +161,8 @@ HÜKÜM: Gerekçesi yukarıda açıklandığı üzere; 1-Taraf vekillerinin diğ
 
 ## İstanbul BAM 15. HD 2020/229 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/571969500)
+
 Sulh Hukuk Mahkemesi 2010/719 D.İş sayı ile yapılan tespit sonucu alınan bilirkişi raporu ve mahkemece yapılan keşif sonucu alınan bilirkişi raporlarında davacının yaptığı ödemelere rağmen, inşaatın davalı tarafından ödemeye uygun seviyede yapılmadığı tespit edildiğinden, davacının, davalılardan ... arasında akdedilen 21.12.2009 tarihli sözleşmeyi feshinin haklı sebeple fesih olarak değerlendirilmesi gerekir. Bu durumda, davacının esas davadaki taleplerinin .... AŞ ile arasındaki sözleşmeyi haklı nedenle feshi gözetilerek; birleşen davadaki taleplerinin de sebepsiz zenginleşme hükümlerine göre değerlendirmesi ve bilirkişi raporları ile tespit edilen ödenen bedel ve yapılan imalat göz önüne alınarak karar verilmesi gerekirken davanın reddine karar verilmesi doğru görülmemiştir.
 
 …
@@ -149,6 +171,8 @@ HÜKÜM: Gerekçesi açıklandığı üzere;1-Davacı vekilinin istinaf başvuru
 
 ## İstanbul BAM 15. HD 2018/986 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/417906000)
+
 Davacı arsa sahipleri vekili, davalı yüklenici şirket ...Ltd.Şti. ile imzalanan kat karşılığı inşaat sözleşmesi gereği yükleniciye düşen 8, 11, 16, 17, 18 ve 20 no'lu altı dairenin diğer davalılara satıldığını, sözleşme süresi 18 ay olduğu halde 17. ayda inşaat seviyesinin %40 olduğunu, yüklenici şirketin ekonomik durumunun iyi olmadığını, şirkete güvenlerinin kalmadığını kalan sürede de inşaatı tamamlayamayacağını belirterek sözleşmenin iptali ve tapu iptal tescil talebinde bulunmuştur.
 
 …
@@ -156,6 +180,8 @@ Davacı arsa sahipleri vekili, davalı yüklenici şirket ...Ltd.Şti. ile imzal
 Eser sözleşmesinin bir türü olan kat karşılığı inşaat sözleşmesi inşaatın bulunduğu seviyeye göre sözleşmenin geriye etkili olarak feshedilmesi halinde kural olarak taraflar kalan edimlerini ifa etmekten kurtulur ve verdiklerini de geri alırlar. Başka bir anlatımla sözleşme hiç yapılmamış gibi sözleşmeden önceki durumuna dönülür. Yargıtay 15. Hukuk Dairesi'nin içtihatları kapsamında, yükleniciden bağımsız bölüm satın alan üçüncü kişilerin sözleşmenin ifayla sonuçlanamayabileceğini öngörebilecekleri kabul edilip bu nedenle iyi niyetlerinin korunmayacağı kabul edilmiştir.
 
 ## İstanbul BAM 15. HD 2018/515 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/404918200)
 
 Davacı vekili; müvekkilinin, davalı yüklenici şirket ile dava dışı arsa sahipleri tarafından imzalanan 17/02/2011 tarihli kat karşılığı inşaat sözleşmesine konu arsayı 18/04/2014 tarihinde satın aldığını, sözleşme hükümlerine göre inşaatın toplam 18 ayda tamamlanıp anahtar teslimi şeklinde yapılıp teslimi gerektiği halde belirlenen sürede inşaata başlanıp süresinde teslim edilmediğini belirterek sözleşmenin geriye etkili olarak feshi ile müsbet ve menfi zararının tahsilini talep etmiştir.
 
@@ -171,6 +197,8 @@ Tüm dosya kapsamı, sözleşme ve bilirkişi raporuna göre, inşaatın 05/04/2
 verilmiş olması dosya kapsamına, usul ve yasaya uygun olduğu, davacı dava dilekçesinde sözleşmenin feshi ile tazminata ilişkin harca esas değerleri ayrı ayrı göstererek, menfi ve müspet zarar kapsamında 2.000,00-TL talep etmiş olmakla, bu talebin reddi yönünden davalı lehine hükmedilen vekalet ücreti de doğru olup açıklanan nedenlerle davalı vekilinin istinaf talebinin tümden reddine karar verilmesi gerekmiştir.
 
 ## İstanbul BAM 37. HD 2018/116 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/424525800)
 
 Dava, ipoteğin kaldırılması istemine ilişkindir.
 

@@ -21,6 +21,8 @@ uyari: "Derleyenin seçtiği alıntılardır; kararın tamamı değildir. Künye
 
 ## Yargıtay HGK 2022/643 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/792161100)
+
 Davacı vekili 28.10.2011 tarihinde harçlandırdığı ıslah dilekçesinde; mahkemece yapılan keşif sonucu alınan 07.07.2011 tarihli bilirkişi heyeti raporunda dava konusu yedi adet dairenin toplam bedeli 751.740TL hesaplandığından fazlaya ilişkin haklarını saklı tutarak dava değerini bu tutar üzerinden ıslah etmiş, 555.000TL’nin davanın ikame edildiği tarihten, bakiye 196.740TL’nin ise ıslah tarihinden itibaren işleyecek yasal faizi ile birlikte davalılardan müştereken ve müteselsilen tahsiline karar verilmesini talep etmiştir.
 
 …
@@ -87,6 +89,8 @@ Dava konusu sözleşme ve düzeltme beyannamesinde fazladan yapılacak bağıms�
 
 ## Yargıtay 6. HD 2025/2876 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1187816200)
+
 Davalıların sahibi olduğu ... İli, ... İlçesi, 6530 ada, 3 ve 4 parsel numaralı taşınmazlar üzerine davacı şirket tarafından bina yapılması için taraflar arasında 14.03.1997 tarihinde ... . Noterliği'nde 8300 yevmiye numaralı arsa payı karşılığı inşaat sözleşmesi imzalanmıştır. Asıl davada davacı-birleşen davalarda davalı yüklenici, arsa sahiplerinden davalı ... ve ... ile diğer davalı arsa sahiplerine de vekaleten 26.10.2000 tarihinde ek protokol imzalandığını ve ek protokole göre yükümlülüklerini yerine getiren yüklenici şirkete arsa sahipleri tarafından dairelerinin verilmediğini belirtmiş ve ek protokol hükümleri doğrultusunda davacı yüklenicinin gecikme tazminatı ile fazla imalât bedelinin ve diğer zararlarının hüküm altına alınması, birleşen davalardaki taleplerin de bu ek protokol hükümlerine göre reddedilmesi istenmiş ise de önceki bozma ilâmı ve bu bozma ilâmındaki sebeplere ek bozma sebeplerleri ekleyen karar düzeltme ilâmında belirtildiği üzere BK'nın 12.
 (TBK. md. 13) maddesi gereğince, arsa sahipleri aleyhine ağırlaştırıcı hükümler içeren ek protokol noterde re'sen düzenleme şeklinde yapılmadığında geçersiz olup, asıl ve birleşen davalardaki tüm taleplerin, 14.03.1997 tarihli asıl sözleşme hükümleri dikkate alınarak değerlendirilmesi gerekmektedir.
 
@@ -97,6 +101,8 @@ Davalıların sahibi olduğu ... İli, ... İlçesi, 6530 ada, 3 ve 4 parsel num
 Yukarıda 2-3 ve 4 numaralı bentlerde açıklanan nedenlerle taraf vekillerinin asıl ve birleşen davalara ilişkin diğer temyiz itirazlarının kabulü ile, temyiz olunan mahkeme kararının BOZULMASINA …
 
 ## Yargıtay 6. HD 2024/1470 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1094567100)
 
 İlk Derece Mahkemesince bozmaya uyularak yeniden yapılan yargılama sonucunda; asıl davanın kısmen kabulüne, karşı davanın kabulüne karar verilmiştir.
 
@@ -119,6 +125,8 @@ Yukarıda paragrafta açıklanan asıl dava davacıları-karşı dava davalılar
 
 ## Yargıtay 5. HD 2023/12959 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/995992300)
+
 Davacı vekili dava dilekçesinde özetle; taşınmaz üzerindeki binanın riskli bina olduğu yönünde rapor verildiğini, binanın yıkılıp yeniden yapılmasının bağımsız bölümleri ciddi derecede küçülteceğini, binanın yeniden yapılmasının masraflarının güçlendirme masraflarından daha fazla olup kimi kat maliklerinin bunu karşılayamama ihtimalinin olduğunu, 28.01.2020 tarihinde kat maliklerince binanın güçlendirilmesi kararı alındığını, güçlendirme için gerekli tüm proje, mimari tadilat projelerinin hazırlattırıldığını ve 04.02.2020 tarihinde ... Belediye Başkanlığına sunulduğunu, bu nedenle binanın güçlendirilmesinin uygun olduğunun tespitine, güçlendirme çalışmaları sırasında ilgili bağımsız bölümlere ve eklentilerine giriş izni verilmesine, güçlendirme masraflarının kat maliklerinden tahsiline karar verilmesi talep etmiştir.
 
 …
@@ -136,6 +144,8 @@ Tüm bu hususlar gözetildiğinde ana gayrimenkulde riskli yapı tespitinin kesi
 Bir kısım davalılar vekilinin temyiz itirazlarının kabulü ile temyiz olunan Bölge Adliye Mahkemesi karanının BOZULMASINA …
 
 ## Yargıtay 6. HD 2023/3816 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/989466100)
 
 İlk Derece Mahkemesince bozmaya uyularak yeniden yapılan yargılama sonucunda; Birleşen 2005/276, 2008/374, 2010/250, 2010/332 Esas sayılı davaların reddine, Birleşen 2015/194 Esas sayılı davanın kabulüne karar verilmiştir.
 
@@ -159,6 +169,8 @@ Temyiz olunan Mahkeme kararının 1.bentte açıklanan nedenlerle BOZULMASINA �
 
 ## Yargıtay 6. HD 2023/3557 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/985116600)
+
 Davacılar vekili dava dilekçesinde; arsa sahibi müvekkilleri ile davalılardan Nuran Özen, ... ve Nuran Özen Kale İnşaat arasında Kocaeli 7. Noterliği’nin 29/11/2013 tarihli kat karşılığı inşaat ana sözleşmesi ve yine aynı noterliğin 15/04/2015 tarihli ek sözleşmesi imzalandığını, sözleşmeye göre inşaat süresinin ruhsat tarihinden itibaren 12 ay olarak kararlaştırılmasına rağmen inşaatın halen bitmediğini, yüklenicilere düşen bağımsız bölümlerin talimat ile diğer davalılara devredildiğini, taraflar arasındaki kat karşılığı inşaat sözleşmelerinin feshi, diğer davalılara devredilen bağımsız bölüm tapularının iptali ile müvekkilleri adına takyidatlardan ari olarak tescilini, ayrıca gecikmeden kaynaklanan tazminatın davalı yüklenicilerden tahsiline karar verilmesini talep etmiştir.
 
 …
@@ -179,6 +191,8 @@ Temyiz olunan Bölge Adliye Mahkemesi kararının 6100 sayılı Kanunun 370 nci 
 
 ## Yargıtay 15. HD 2020/110 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/580846600)
+
 İlk derece mahkemesince yapılan yargılama sonunda asıl davada davanın kısmen kabulü ile davaya konu 13 adet bağımsız bölüm tapusu yönünden dava konusuz kaldığından karar verilmesine yer olmadığına, davaya konu ... ili, ... ilçesi, ... Mahallesi, imarın 44558 ada 1 parselde 2377,94 m² ile 44928 ada 1 parselde 3787 m²'lik hisselerin davalı adına olan tapu kayıtlarının iptâli ile davacılar adına tesciline, 280.000,00 TL kira tazminatının davalıdan tahsiline; karşı davada davanın kısmen kabulüne, 01.10.2004 tarihli Ek ve Son Protokolün 2.2.b maddesinde öngörülen teminat ipoteğinin kaldırılmasına karar verilmiştir.
 
 …
@@ -195,6 +209,8 @@ SONUÇ: Yukarıda 1. bentte açıklanan nedenlerle tarafların diğer temyiz iti
 
 ## Yargıtay 23. HD 2019/3510 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/539411800)
+
 Arsa payı karşılığı inşaat sözleşmeleri resmi şekilde yapılmadıkça geçerli olmaz, ek sözleşmeler de aynı usule tabidir. Somut olayda davacı arsa sahipleriyle davalı kooperatif arasında imzalanan 21.08.2000 tarihli protokol ek sözleşme niteliğinde olduğundan ve taraflara ek yükümlülükler getirdiğinden ancak resmi şekilde yapılmadığından geçersizdir. Bu nedenle esas sözleşmede olmayıp bu sözleşmeyle kararlaştırılan imalatları yüklenici yapmak zorunda değildir. Mahkemece gereksiz ek sözleşme ile kararlaştırılan işlerin eksikliğinden bahisle yüklenici aleyhine hüküm kurulması doğru görülmemiştir.
 
 …
@@ -202,6 +218,8 @@ Arsa payı karşılığı inşaat sözleşmeleri resmi şekilde yapılmadıkça 
 SONUÇ: Yukarıda (1) ve (2) numaralı bentte açıklanan nedenlerle davalı kooperatif vekilinin temyiz itirazlarının kabulü ile hükmün davalı yararına BOZULMASINA …
 
 ## Yargıtay 15. HD 2019/2806 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/514793600)
 
 Davacı ... İnş. Tur.
 

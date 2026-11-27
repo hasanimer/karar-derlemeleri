@@ -40,6 +40,8 @@ Tüm bu hususlar dikkate alındığında davanın reddine ilişkin istinaf daire
 
 ## Yargıtay HGK 2024/412 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1077208100)
+
 Davacı vekili dava dilekçesinde; müvekkili adına kayıtlı 9181 ada 6 sayılı parselde ruhsatlı, imara ve kat mülkiyetine uygun vaziyette inşaat yapılması için müvekkili ile davalı yüklenici ...'in 27.05.1996 tarihli arsa payı karşılığı inşaat sözleşmesi düzenlediğini, aynı şekilde komşu 7 ve 8 sayılı parsel malikleri ... ve ... ile de davalı ... ve dava dışı ... arasında arsa payı karşılığı inşaat sözleşmesi düzenlendiğini, ancak yüklenicilerin her üç parseli de kapsar şekilde taşınmazlar üzerinde sözleşmeye ve belediye imar planına aykırı biçimde ruhsatsız ve kaçak olarak bina inşa ettiklerini, müvekkilinin inşaatın kaçak yapıldığını öğrenince belediyeye başvurduğunu, belediye tarafından inşaatın mühürlendiğini, para cezası ve yıkım kararı verildiğini, ancak yıkım kararının uygulanmadığını, bunun üzerine müvekkilinin yüklenici aleyhine Şişli 5.
 
 …
@@ -52,6 +54,8 @@ Asliye Hukuk Mahkemesinin 29.02.2000 tarihli ve 1998/334 Esas, 2000/190 Karar sa
 Asıl davada davalılar ..., . birleşen İstanbul 18. Asliye Hukuk Mahkemesinin 2016/348 Esas sayılı dosyasında davalılar ..., ..., ölü davalı ... mirasçılarından ..., asıl davada ölü davalı ... mirasçıları dâhili davalılar ..., ..., ..., ... vekili, birleşen İstanbul 18. Asliye Hukuk Mahkemesinin 2016/348 Esas sayılı dosyasında davalı ... vekili, asıl davada davalı ... vekili, asıl davada ölü davalı ... mirasçısı dâhili davalı ...'in temyiz itirazlarının reddi ile direnme kararının ONANMASINA …
 
 ## Yargıtay HGK 2024/107 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1012700900)
 
 1\.
 
@@ -71,6 +75,8 @@ Asıl davada davacı- karşı davada davalı vekilinin temyiz itirazlarının ka
 
 ## Yargıtay HGK 2023/1231 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/981716800)
+
 3\.
 
 …
@@ -86,6 +92,8 @@ Eser sözleşmesinden kaynaklanan davalar, sözleşmeler ile arsa sahibi ile yü
 Öte yandan madde gerekçesinde “kesin bozma” kavramından kanun koyucunun neyi kastettiği açıklanmış; bu kavramın “ilk derece mahkemelerinin davanın kabulüne ilişkin hükmünün reddedilmesini yahut davanın reddine ilişkin hükmünün kabul edilmesini ön gören bozma” olduğu belirtilmiştir. Aksi hâlde maddenin farklı şekilde yorumlanması …
 
 ## Yargıtay HGK 2023/1136 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/976309900)
 
 İlk Derece Mahkemesince verilen kararın taraf vekilleri tarafından istinaf edilmesi üzerine, Bölge Adliye Mahkemesince taraf vekillerinin istinaf başvurularının ayrı ayrı kabulüne, İlk Derece Mahkemesi kararının kaldırılmasına, el atmanın önlenmesi, ecrimisil ve tazminat talebinin reddine, tapu kaydındaki şerhin terkini talebi hakkında karar verilmesine yer olmadığına, dava dilekçesinde talep edilen miktar üzerinden vekâlet ücretine karar verilmiştir.
 
@@ -110,6 +118,8 @@ B) bendinde (§1-11) belirtilen nedenlerle davalı vekilinin temyiz itirazların
 
 ## Yargıtay HGK 2023/118 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/897478600)
+
 İlk Derece Mahkemesince verilen kararın taraf vekilleri tarafından istinaf edilmesi üzerine, Bölge Adliye Mahkemesince davacı karşı davalı vekilinin istinaf başvurusunun esastan reddine, davalı karşı davacılar vekilinin asıl davaya yönelik istinaf başvurusunun usulden reddine, karşı davaya ilişkin istinaf başvurusunun kabulüne, İlk Derece Mahkemesinin kararının kaldırılmasına, asıl davanın kısmen kabulü ile davanın menfi zararla sınırlı olarak kısmen kabulüne, müspet zarar talebinin reddine, karşı davanın kabulü ile taraflar arasında düzenlenen arsa payı karşılığı inşaat sözleşmesinin geriye etkili olarak feshine karar verilmiştir.
 
 …
@@ -126,6 +136,8 @@ Davacı karşı davalı vekilinin temyiz itirazlarının kabulü ile direnme kar
 
 ## Yargıtay HGK 2022/1714 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/862978500)
+
 Davalı ...
 
 …
@@ -139,6 +151,8 @@ Diğer yandan davalı arsa sahibi ... 22.07.2014 tarihinde vefat ettiği hâlde,
 Davacıların vekilleri ile davalı ... (...), ... ve ... vekilinin temyiz itirazlarının kabulü ile direnme kararının Özel Daire bozma kararında gösterilen nedenlerden dolayı, 6100 sayılı Hukuk Muhakemeleri Kanunu’nun 371. maddesi gereğince BOZULMASINA …
 
 ## Yargıtay HGK 2021/1301 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/724732600)
 
 Davacılar vekili dava dilekçesinde; müvekkillerinin maliki olduğu dava konusu 31270 ada 5 parsel sayılı arsa vasfındaki taşınmazda bina yapılması amacıyla dava dışı yüklenici ... Emlak Maden İnş.
 
@@ -161,6 +175,8 @@ Davacılar vekilinin temyiz itirazlarının kabulü ile direnme kararının hük
 
 ## Yargıtay HGK 2021/421 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/686425300)
+
 Davacı kooperatif vekilinin temyiz itirazlarının reddi ile, taraflar arasında imzalanan 18.03.1993 tarihli arsa payı karşılığı inşaat sözleşmesinin 21.10.1997 tarihinde, 01.08.1996 ve 01.04.1997 tarihli sözleşmelerden doğan haklar saklı kalarak karşılıklı feshedildiği ve yanların birbirlerini ibra ettikleri, davacı kooperatif tarafından arsa sahibine gönderilen 23.06.1999 tarihli fesih yazısında da 01.08.1996 ve 01.04.1997 tarihli protokollerin feshedildiğinin bildirildiği, davacının fesih hakkını kullanarak hem sözleşmelerden hem de ...
 
 …
@@ -172,6 +188,8 @@ Davaya konu olan 21.10.1997 tarihli ibranamede, imzası bulunan kooperatif temsi
 Direnme kararının yukarıda açıklanan değişik gerekçe ve nedenlerle BOZULMASINA …
 
 ## Yargıtay HGK 2020/224 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/602256700)
 
 4\.
 
@@ -188,6 +206,8 @@ Kanun’da yapılan bu ayrım, iş sahibinin yararlanabileceği hakların türü
 imalât aşamasında ihlal edildiği, hatalı üretim yapıldığı, bu durumun gizli ayıp niteliği arzettiği, bu nedenle davacı iş sahibinin zararının 6.220,56TL olduğu hesaplanmıştır. Rapor içeriği hesap şekli açısından usul ve yasaya uygun olup, Yargıtay denetimine elverişlidir. Bilirkişi kurulunca belirlenen bu gizli ayıp aracın 16.12.2010 tarihinde trafikte yapılan muayenesi sırasında saptanmış, araç trafikten men edilmiştir. Bu durumda gizli ayıbın varlığı her türlü tereddüt ve kuşkudan uzak bir şekilde açıklık kazanmıştır. 16.12.2010 muayene tarihinden sonra 8 günlük makul süre içerisinde 24.12.2010 günü ihtarname gönderilerek ayıp ihbarında bulunulmuştur. Bu bakımdan ayıp ihbarının süresi açısından da herhangi bir usulsüzlüğün bulunmadığı tespit edilmiştir. Açıklanan olgular dikkate alınarak davanın kabulüne karar verilmesi gerekirken yerel mahkemece imalâttaki ayıbın açık ayıp niteliğinde bulunduğu, 04.12.2009 teslim tarihine göre 14 ay sonra ayıp ihbarında bulunulduğu, bu durumun hakkın kötüye kullanımı niteliği arzettiği gerekçesi ile davanın reddine karar verilmesi isabetli olmadığından kararın bozulmusına karar verilmiş.” Yerel Mahkemece ise kararında direnilmiştir.
 
 ## Yargıtay HGK 2020/43 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/579532900)
 
 4\.
 
@@ -208,6 +228,8 @@ Eş söyleyişle bu iki davalı, araya dava dışı üçüncü kişi girse dahi 
 Davacı vekilinin temyiz itirazlarının kabulü ile direnme kararının Özel Daire bozma kararında gösterilen nedenlerden dolayı 6100 sayılı Hukuk Muhakemeleri Kanunu'nun geçici 3. maddesine göre uygulanmakta olan 1086 sayılı Hukuk Usulü Muhakemeleri Kanunu'nun 429. maddesi gereğince BOZULMASINA …
 
 ## Yargıtay HGK 2009/221 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/76773100)
 
 Arsa payı devri karşılığı inşaat yapım sözleşmesinde birden fazla arsa sahibi varsa, feshin birlikte istenmesi zorunlu bulunmasına (TMK. md. 692). 24.07.1997 tarihli arsa payı devri karşılığı inşaat yapım sözleşmesinde arsa sahibi muris Hasan Hüseyin Keskinkılınç’dan başka, dava dışı kardeşi muris S.. K...ç’ın da taraf olması nedeniyle, sözleşmenin feshi talebi yönünden açılan davaya S.. mirasçılarının onaylarının alınması, bu mümkün olmadığı takdirde, S.. mirasçıları aleyhinde dava açılıp, bu dava ile birleştirilmesi yönünden süre verilmesine ve bu şekilde taraf teşkili sağlandıktan sonra işin esasına girilmesi gerekir. Bu itirbarla Hukuk Genel Kurulu’nca da benimsenen Özel Daire bozma kararına uyulmak gerekirken, önceki kararda direnilmesi usul ve yasaya aykırı olduğundan direnme kararı bozulmalıdır.
 

@@ -22,6 +22,8 @@ uyari: "Derleyenin seçtiği alıntılardır; kararın tamamı değildir. Künye
 
 ## Ankara BAM 22. HD 2023/305 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/878320100)
+
 Dava, bayilik sözleşmesinden kaynaklanan alacağın tahsili istemine ilişkindir.
 
 …
@@ -30,9 +32,13 @@ Dava, bayilik sözleşmesinden kaynaklanan alacağın tahsili istemine ilişkind
 
 ## Ankara BAM 27. HD 2023/235 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/874195800)
+
 Tüm bu açıklamalar ışığında somut olaya gelince; dava ve takip , sözleşmenin tarafı ...) iş ortaklığının üç ortağından birisi olan ... ... A.Ş. aleyhine açılmıştır. Az yukarıda açıklandığı üzere dava, para alacağına ilişkin olup adî ortakların her birinin müteselsil sorumluluğu esas olduğundan adî ortaklardan sadece birisi aleyhine takip ve davanın açılmış olmasında usul ve yasaya aykırılık yoktur. Bu nedenle işin esasına girilerek karar verilmesi gerekirken davanın dava şartı yokluğundan reddedilmesi doğru olmamıştır.
 
 ## Ankara BAM 27. HD 2023/211 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/868591600)
 
 Asliye Ticaret Mahkemesi'nin 2011/16 Esas sayılı dosyasında asıl dava kapsamında davacı taşeronun 8 kalem alacağın tahsilini istediği, yine taşeron tarafından açılan birleşen davada ise fiyat farkı talebinde bulunulduğu, kesinleşen Ankara 11.
 Asliye Ticaret Mahkemesi'nin 2011/16 Esas sayılı dosyasında taşeronun davadaki talepleri kapsamında kesin hesabın çıkarıldığı, dava dışı iş sahibi TOKİ'nin 20/12/2019 tarihli yazısında yüklenici iş ortaklığı ile iş sahibi TOKİ arasında yapılan sözleşme kapsamındaki işin kesin hesabının ve kesin kabulünün yapıldığı, 10/01/2011 tarihinde kesin hak edişin tahakkuk ettiği, kesinleşen davanın asıl davası kapsamında hakedişlerden kesilen teminat nedeniyle 97.671,00 TL'nin ve sözleşme dışı yapılan mekanik tesisat nedeniyle 94.756,05 TL'nin davalı iş ortaklığından tahsiline karar verildiği, kesinleşen dosyada 29/11/2010 ve 23/11/2011 tarihli bilirkişi raporlarında davalı iş ortaklığının defterlerinin incelendiği ve defter kayıtlarına göre davacı taşeronun davalıdan 354.011,31 TL alacaklı olduğunun, taşeronun bu alacağının 31/12/2008 tarih ve 71 nolu yevmiye maddesi ile ortaklara borçlar hesabına borç virmanı yapıldığı, davacıya ödeme yapılmış gibi alacak hesabının kapatıldığının belirtildiği, yine davalının 426 nolu "Alınan Depozito ve Teminat" hesabından davalı tarafından davacıya havale edilen 41.741,82 TL'nin "320 Satıcılar Hesabı"ndan da davacıya havale yapıldığı gerekçesiyle borç
@@ -42,16 +48,22 @@ kapsamında 204.384,67 TL, nakit teminat kesintileri kapsamında 149.626,64 TL v
 
 ## Sakarya BAM 7. HD 2023/160 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/872218700)
+
 Dosyanın incelemesinde; davacıların kurmuş olduğu Denizkent Turz. Teks. Nak. Oto Yedek Parça İth. İhr. San. Tic. Ltd. Şti, DKS Denizkent Turz. Otom. Nak. Yed. Parça Teks. İth. İhr. San ve Tic. Ltd. Şti ve Akyıldız Seyahat Petrol İnş. Tic. Turz. Taşım. Ltd.
 Şti. iş ortaklığı ile davalı arasında 20/07/2020 tarihli taşıma/komisyon sözleşmesi imzalandığı, sözleşme uyarınca iş ortaklığının davalı firmanın adı ile taşımacılık yapacağı, iş ortaklığının davalının adı ile işlettiği şubelerden elde edilen gelirden davalı tarafından iş ortaklığına komisyon ödeneceğinin kararlaştırıldığı, kurulan sözleşme sonrasında davalı tarafından sözleşme hükümlerine uyulmadığı hatta davalı tarafça haksız rekabet ortamı yaratıldığı belirtilerek; taraflar arasında akdedilen 20/07/2020 tarihli taşıma/komisyon sözleşmesi uyarınca davacıların 15/09/2020 tarihinden işbu dava tarihine kadar yaşadığı kar kaybı ile davacılara ödenmesi gereken kar bedeline ilişkin şimdilik 10.000,00 TL'nin temerrüt tarihinden itibaren işleyecek en yüksek ticari avans faizi ile birlikte, 20/07/2020 tarihli sözleşmeye güvenilerek davacılar tarafından yapılan harcama bedellerine ve davalının sözleşmeye aykırı tutumu nedeniyle davacıların uğramış olduğu zarar bedellerine ilişkin şimdilik 10.000,00 TL'nin temerrüt tarihinden itibaren işleyecek en yüksek ticari avans faizi ile birlikte, taraflar arasında akdedilen 20/07/2020 tarihli sözleşmenin davalının haksız ve eylemli feshi nedeniyle
 sözleşmenin 10. maddesi uyarınca cezai şart bedeline ilişkin olarak şimdilik 10.000,00 TL'nin temerrüt tarihinden itibaren işleyecek en yüksek ticari avans faizi ile birlikte davalıdan tahsiline karar verilmesi için eldeki davanın açıldığı, ilk derece mahkemesince açılan davada mahkemenin görevsiz olduğundan bahisle davanın usulden reddine karar verildiği, verilen karara karşı davacı vekillerince istinaf kanun yoluna başvurulduğu anlaşılmıştır.
 
 ## İstanbul BAM 3. HD 2022/1833 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/781769800)
+
 Dosya kapsamından, iş ortaklığı sözleşmesinin talep eden ile ... anasında imzalanmış olduğu, sözleşmede imza kısmında ... isminin altında şirket kaşesinin bulunduğu, talep dilekçesine sözleşme teslim tutanağının eklenmiş olduğu anlaşılmaktadır. Dayanak sözleşmenin 3.2 maddesinde tedarik edenin tedarik alana 3 ay önceden yazılı bildirim ile altınları geri alabileceğinin düzenlendiği, talep eden tarafından yazılı bildirim yapıldığının ileri sürülüp belgesinin eklenmediği, davalı şirket ve davalılar tarafından mal kaçırma girişimi ile ilgili talep edenin duyumu iddiasına dayanıldığı bunun iddia haricinde başkaca somut veri ve delil sunulmadığı görülmektedir. İİK'nun "İhtiyati haciz şartları" başlıklı 257.maddesinde " Rehinle temin edilmemiş ve vadesi gelmiş bir para borcunun alacaklısı, borçlunun yedinde veya üçüncü şahısta olan taşınır ve taşınmaz mallarını ve alacaklarıyla diğer haklarını ihtiyaten haczettirebilir. Vadesi gelmemiş borçtan dolayı yalnız aşağıdaki hallerde ihtiyati haciz istenebilir: 1-Borçlunun muayyen yerleşim yeri yoksa;
 2- Borçlu taahhütlerinden kurtulmak maksadıyle mallarını gizlemeye, kaçırmaya veya kendisi kaçmaya hazırlanır yahut kaçar ya da bu maksatla alacaklının haklarını ihlâl eden hileli işlemlerde bulunursa; Bu suretle ihtiyati haciz konulursa borç yalnız borçlu hakkında muacceliyet kesbeder." Bu düzenlemeye göre ''rehinle temin edilmemiş ve vadesi gelmiş bir para borcunun alacaklısı, borçlunun evinde veya 3. şahısta olan taşınır ve taşınmaz mallarını ve alacakları ile diğer haklarını ihtiyaten haczettirebilir.'' görüldüğü üzere ihtiyati haciz kararı verilebilmesinin birinci koşulu bir ''para borcunun'' varlığıdır. Dosya kapsamı ve iddianın ileri sürülüşü ve eklenen belgelere göre alacağın vadesinin geldiği ve İİK 257/2 maddesinde belirtilen alacaklının haklarını ihlâl eden hileli işlemlerin talep dilekçesinde belirtilerek yaklaşık da olsa ispatının yapılmadığı, mal kaçırma girişimi içerisinde olduğuna dair şüpheli duyumların iddiadan ibaret olduğu anlaşılmakla mahkemece verilen kararın usul ve yasaya uygundur.
 
 ## Sakarya BAM 7. HD 2022/1713 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/810869100)
 
 Dava adi ortaklığa ödenen sermaye payı ve kar payının tahsili talebine ilişkindir.
 
@@ -62,16 +74,22 @@ Etap Projesi kapsamında müvekkiline ait karın dava tarihindeki değerinin de 
 
 ## Ankara BAM 24. HD 2022/1569 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/845805600)
+
 Hükme esas alınan bilirkişi heyetinin düzenlemiş olduğu kök raporda; "iş ortaklığının ticari defter ve kayıtlarının incelenmesinde, ASKİ tarafından belirlenen vade farkı dahil toplam 2.249.773,91 TL ölçümleme bedeline karşılık olarak 08.06.2018 tarihinde 163.548,00 TL, 08.06.2018 tarihinde 286.225,91 TL ödeme yapıldığı, kalan 1.800.000,00 TL'nin eşit taksitler halinde ödenmiş olduğu, davacı iş ortaklığının 30.03.2016 tarihinden 30.11.2017 tarihine kadar dava dışı ....Ltd Şti'den 141.475,94 m3, 31.12.2017 tarihinden 31.03.2018 tarihine kadar dava dışı ... Firmasından 38.775,56 m3 olmak üzere toplam 180.251,50 m3 taşıma suyu, dava dışı ...
 A.Ş.'den Nisan 2015 - Haziran 2018 tarihleri arasında toplam 895.516,20 m3 hazır beton aldığı, ASKİ Genel Müdürlüğü elemanlarının 29.03.2018 tarihli ölçümleme tutanağına göre, inşaat suyu aboneliği olmadığı gerekçesi ile kaba inşaat halindeki inşaat için, inşaat alanının toplam 1.071.829,62 m2 olmasına ve Tarifeler Yönetmeliği gereği, kaba inşaatta her bir m2 için 0,35 m3 su kullanılacağına nazaran, 375.140,36 m3 su kullanıldığı hesabı ile 4.557.955,37 TL su bedeli hesaplandığı, daha sonra davacının itirazı üzerine, inşaatta kullanılan su ve beton faturaları nazara alınmak suretiyle 158.856,14 m3 su bedeli karşılığı 2.086.091,00 TL tahakkuk ettirildiği ve 286.225,91 TL peşin, kalan 1.800.000,00 TL'de 163.548,00 TL vade farkı ilavesi ile taksitler halinde olmak üzere toplam 2.249.773,91 TL tahsil edildiği, ASKİ Tarifeler ve Aboneler Hizmetleri Yönetmeliği'nin 43/5 ve 43/6 maddeleri uyarınca, hazır beton faturaları, tankerle alınan su miktarları ve inşaat mevsimi itibariyle yapılan inşaat miktarı nazara alınmak suretiyle inşaatta kullanılabilecek su miktarının bedelinin ödenmesi gerektiği, ölçümleme tutanak tarihi olan 28.03.2018 tarihi itibariyle inşaat alanının 1.071.829,62 m2
 olup, bu tarih itibariyle inşaatın kaba halde bulunduğu, betonda sulama suyunu gerektirmeyecek kimyasal kür uygulanmasının, su bedelinin nasıl hesaplanacağı yolundaki tarifeler yönetmeliği hükmünü etkilemediği, davaya konu inşaatta, inşaat suyu abonesi olunmaksızın su kullanıldığı kabul edilmiş olmakla, inşaatta kullanılabilecek hazır beton ve kullanılan su miktarı ile betonun atıldığı mevsimler nazara alınmak suretiyle yapılan hesaplamada kullanılabilecek suyun bedeli 930.513,22 TL olmakla, (2.086.225,91 - 930.513,22=) 1.155.712,69 TL'nin istirdadının talep edilebileceği, ayrıca 163.548,00 TL vade farkı olarak ödenmekle, iadesi gereken vade farkının 105.008,06 TL olduğu, istirdadı talep edilebilecek toplam tutarın 1.260.720,75 TL olarak hesaplandığı" görülmüştür.
 
 ## İstanbul BAM 44. HD 2022/1525 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/824308400)
+
 Şirketi ve ...’ ın iş ortaklığı adına TOKİ ye verdiği 485.000 TL tutarlı teminat mektubunun iadesinin sağlanacağı, ... Esenyurt Şubesi ve ... Bankası Avcılar Şubesinden ... Şirketi ve ... tarafından çekilen kredilerin ... Şirketi ve ... tarafından ( 2 ve 3 nolu borçlular) ödenmesi , bu suretle alacaklı bankalara davalı alacaklılar tarafından teminaten veya kefaleten verilen ipoteklerin feklinin sağlanacağı; Kredi borçlarının ödenmesini takiben alacaklı tarafından bankalara verilen ipoteklerin fekkinin sağlanması durumunda alacaklının takibe ve davaya konu senet hakkında başlattığı takipten feragat edeceği , alacaklı vekilinin masraf ve vekalet ücretinden feragat edeceği imza altına alındığını, Bu protokole göre takibe konu senedin Alacaklı davalılar tarafından ... İnş. Şirketi ve ... ‘a sağlanan kredi, teminat ve ipotek desteği karşılığı düzenlendiği, " nakden verilen bedel “ karşılığı düzenlenmediğinin sabit olduğunu, bu durumun alacaklı tarafça kabul edildiğini, Protokol gereğince davacı iş ortaklığının protokolün 1.maddesinde yazılı 485.000 TL tutarlı ... tarafından davacı iş ortaklığı adına TOKİ ye verilen teminat Mektubunu geri çekerek , iş ortaklığı şirketlerinden ... İnş.
 AŞ. tarafından ... Bankasına ait ... sayılı 02.09.2016 tarihli 485.000 TL tutarlı ve 17.04.2017 tarihine kadar geçerli teminat mektubunu verildiğini, Davacı İş ortaklığının edimini yerine getirdiğini, Takibe konulan senet metninde “nakden verilen borç “ karşılığı düzenlendiği yazılı ise de senedin , Alacaklı şirket ve temsilcisi ile borçlulardan ... Şirketi ve temsilcisi ... arasındaki ortaklık dışı ticari işler ve Bankalardan çekilen krediler sebebiyle , alacaklı şirketin gayrimenkullerini ipotek ederek teminat göstermesi karşılığı senedin düzenlendiğinin sundukları banka yazılarından anlaşıldığını, Alacaklı taraf vekilinin Bakırköy 6.
 
 ## İzmir BAM 4. HD 2022/1376 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/775537200)
 
 İzmir 26. Noterliği'nin 16/05/2017 tarih ve 05679 yevmiye numaralı iş ortaklığı sözleşmesi ile ... Şirketi - ... Şirketi Arasında ... A.Ş. tarafından yapılan tesis ihalesi gruplarından İzmir /... İşi yönünden 15/04/2016 tarihinden itibaren 5 yıl süreli iş ortaklığı kurulduğu , her ortağın imzalanacak sözleşmenin konusuna ve kapsamına girecek işlerden ve taahhütlerden, ortaklığa yönelecek zorunlulukların yerine getirilmesinde müştereken ve müteselsilen sorumlu olacağı yönündeki hükmün iş ortaklığı sözleşmesinde bulunduğu görülmüştür.
 
@@ -79,10 +97,14 @@ AŞ. tarafından ... Bankasına ait ... sayılı 02.09.2016 tarihli 485.000 TL t
 
 ## İstanbul BAM 15. HD 2022/1266 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/785320400)
+
 Ltd Şti ortak girişiminin adi ortaklığın ortakları oldukları, Kocaeli Büyükşehir Belediyesinde yol asfalt ihalesine adi ortaklık şeklinde katıldıkları, ortak girişimin Kocaeli Büyükşehir Belediyesi ile ihale sözleşmesi imzaladığı, bu işlerin yapımı için davalı şirket ile taşeronluk sözleşmesi imzaladıklarını, dava konusu senetlerin tehdit ile davacı ...'a imzalatıldığı iddiası ile menfi tespit davası açıldığı, icra takibe konu olan senetler ile ilgili olarak Kocaeli Ağır Ceza Mahkemesinde görülen davada sanıklar dolandırıcılık suçunun yasal unsuru oluşmadığından haklarında beraat kararı verildiği ve kararın kesinleştiği, ayrıca Kocaeli CBS'nin 2011/11421 soruşturma sayılı dosyasında ...'ın şikayeti üzerine ... ve ... hakkında senedi zorla tehdit ile imzalatmak suçundan yeterli delil bulunmaması nedeniyle 13/01/2012 tarihinde takipsizlik kararı verildiği, dava konusu senetler hakkında borçlu olmadığı iddiasının irade sakatlığı ispatlanamadığından kabul edilmediği, dava açıldığında davacı lehine İİK 72/3 maddesi gereğince teminat mukabilinde alacaklıya icra veznesine depo edilen bedelin ödenmemesi yönünde tedbir kararı verildiğinden İİK 72/4 maddesi gereğince %40 kötüniyet
 tazminatının davacıdan alınarak davalıya ödenmesi gerektiği gerekçesiyle, davanın reddine, İİK'nın 72/4. maddesi uyarınca davaya konu olan 600.000,00-TL üzerinden hesap edilecek %40 kötü niyet tazminatının davacıdan alınarak davalıya verilmesine karar verilmiştir. Davacı vekili istinaf dilekçesinde, mahkemenin kesin süreli ve ihtaratlı ara gereğince davalının defterlerini ibraz etmesi gerekirken davalının bu sürelere riayet etmediğini, buna rağmen mahkeme 21.04.2014 tarihli celsede bir önceki ara kararından rücu ederek davalı tarafın defter ibraz etmemesine karar vererek usul ve yasaya aykırı hareket ettiğini, 2015/57 Tal.
 
 ## Kayseri BAM 6. HD 2022/1240 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/765809000)
 
 Maddesi "Bu sözleşme kapsamında yapılan işler için fiyat farkı hesaplanacaktır.Personeller için 4734 sayılı Kamu İhale Kanununa göre ihale edilen hizmet alımlarında uygulanacak fiyat farkına ilişkin yürürlükteki esaslara göre ödenecektir.” şeklinde olduğunu, ayrıca sözleşmenin bu maddesine dayanarak Kamu İhale Genel Tebliği 79.3.3 maddesine istinaden zorunlu olan işçilik hesaplaması ile ihale tarihindeki ekap işçilik modülüne uygun yüklenici kârı dahil teklif fiyatına karşılık iş boyunca ilgili branşlarda kaç işçi çalıştıysa İdareden ona göre hakkediş almış ve çalışanlarına da teknik şartnameye uygun olarak ücret ve sosyal haklarını, yani giderlerini kurumdan aldığı parayla karşıladığını, kaldı ki zaman zaman çalışan işçilerde işe giriş çıkışlar olduğunu, ancak çalışanların giderlerinin ihale süresince her ay yapılan hak edişlerle davacılara ödendiği için ekstra bir maliyet yüklenmediğini, bu bağlamda işçilerin giderlerini idarenin karşıladığını, yapılan işin birim fiyatlı olduğu için yüklenicinin işçi sayısı arttıkça kâr oranına göre geliri de artmış olduğundan herhangi bir zararı ya da daha fazla giderinin olmasının söz konusu olmadığını, taleplerine göre taraflarına herhangi bir
 ödeme yapılmasının mümkün olmadığını, Yerel Mahkemenin dayanak yaptığı bilirkişi raporunda eksik ve hatalı incelemenin söz konusu olduğunu, bilirkişi raporuna karşı itirazlarları doğrultusunda ek bilirkişi raporu alınması taleplerinin de 27/12/2021 tarihli celsede reddedildiğinden bu hususların bilirkişilerce tekrar incelenmesinin mümkün olmadığını, davacı tarafça kesin süre içerisinde davacı şirketin ticari defter ve belgelerinin yerinde, yani şirket merkezinde/mali Muşavirin adresinde incelenmesine karar verilmesi talep edildiğini, ancak bilirkişi raporunda da ayrıntılı olarak belirtildiği üzere ticari defterlerin hazır edilmediğini, 27/12/2021 tarihli celsede de Yerel Mahkemece davacı tarafın defterlerinin incelenmesine yer olmadığına karar verildiğini, Yerel Mahkemece HMK'nun 222. ve TTK'nun 83. maddeleri gereği defter ibrazından kaçınmış sayılmalarına karar verilmesi gerekirken davacı tarafın defterlerinin incelenmesine yer olmadığına karar verilmesi kararın eksik inceleme ve araştırılması sonucunu verildiğini gösterdiğini, bu bağlamda işçilerin giderlerini idarenin karşıladığını, yapılan iş birim fiyatlı olduğu için yüklenicinin işçi sayısı arttıkça kâr oranına göre geliri de
@@ -90,15 +112,21 @@ arttığını, dolayısıyla davacı iş ortaklığının sözleşme bedelinin a
 
 ## İstanbul BAM 3. HD 2022/1195 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/754920000)
+
 Noterliğinin 24 Haziran 2013 tarihli fesihnamesi ile feshedildiğinden 5 yıllık zamanaşımının geçtiğini, zamanaşımı defiinde bulunduklarını, asli müdahilin 15.6.2018 tarihli temlik sözleşmesi ile asıl davaya konu alacağın ... şirketi tarafından eski yetkili ve ortak ...'e temlik edildiği, buna göre temlikin geçerli olması halinde asıl dava davacısının ... olacağını, bu durumda asli müdahale davasının tarafları ve konusunun aynı olması nedeniyle asli müdahale davasının derdestlik nedeniyle reddi gerektiğini, ayrıca asli müdahilin 3. kişi olmaması nedeniyle asli müdahale davasının reddi gerektiğini, adi ortaklağın 24 Haziran 2013 tarihli fesihname/ibraname ile feshedildiğini, tarafların birbirini ibra ettiğini, bu nedenle asli müdahale davasının hukuki menfaat yokluğundan reddi gerektiğini beyanla, öncelikle davanın arabuluculuğa başvurulmadan açılması sebebiyle dava şartı yokluğundan reddine, yine ortaklık feshedildiğinden zamanaşımı süresinin dolması sebebiyle zamanaşımından reddine ve son olarak haksız ve mesnetsiz davanın esastan reddine, yargılama giderleri ile avukatlık ücretinin davacı tarafa yükletilmesine karar verilmesini talep etmiştir.
 Asli müdahale davasının davalısı(asıl ve birleşen dava davacısı)... Tic. Ltd. Şti. vekili 27.12.2021 tarihli cevap dilekçesinde, 24.6.2013 tarihli fesihnamenin geçersiz olduğunu, ...'in hisselerini 19 Kasım 2012 tarihinde ...'a devrettiğini, bu nedenle 24 Haziran 2013 tarihli fesihnamenin de yetkisiz imzalandığını, bu nedenle fesihnamenin geçersiz olduğunu, ...'in ibra kelimesinin ilave edildiğini iddia ettiğini, bu nedenle ...'in dinlenmesini talep ettiğini, iş ortaklığının 22 Haziran 2013 tarihinde feshedildiğini, bu durumda 24 Haziran 2013 tarihli fesihnamenin sahte olduğundan şüphelendiklerini, bu konuda suç duyurusunda bulunacaklarını beyan ettiği, sonuç olarak Erenköy Vergi Dairesinden iş ortaklığının fesih ve kapanış işlemlerine ilişkin dosyanın istenmesine, fesihnameyi imzalayanların yetkili olup olmadığının araştırılmasına ve fesihnamenin geçersiz sayılmasına karar verilmesini talep etmiştir.
 
 ## Ankara BAM 24. HD 2022/1150 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/821754000)
+
 Yargılama sırasında görüşüne başvurulan uzman bilirkişi heyetinin 16/01/2020 tarihli raporunda;
 " İş ortaklığına ait defterlerin yıl sonu kapanış tasdiklerinin olmadığı, defterlerin ana hesap bazında yazdırıldığı, alt detay hesaplarının bulunmadığı, bu haliyle defterlerin düzensiz olduğu, denetime elverişli olmadığı, iş ortaklığının 25.12.2017 tarihi itibari ile vergi kaydının silinmiş olduğu, vergi dairesince bildirilen 19.06.2019 itibari ile 100.327,70 TL vadesi geçen, 11.463,86 TL vadesi gelmeyen borcunun bulunduğu, defterlerin yıl sonu tasdiklerinin bulunmadığından vergi dairesinin borç bildiriminin esas alındığı, 2017 dönem başı itibari ile iş ortaklığının satıcılara olan alacak ve borç bakiyelerinin devredilmiş olduğu, dönem sonunda iş ortaklığının satıcılara bakiye (6.757.845,54-3.980.000,00)=2.777.845,54 TL borçlu olduğu, ancak alt detay hesaplarının bulunmadığı, gerek borçların tasfiyesi gerekse yapılması gereken diğer işlerin yürütülebilmesi bakımından temsil ve ilzama yetkili yönetimin varlığının gerektiği, temsil ve ilzama yetkili mevcut yönetimin ise gerek ulaşılamıyor olması gerekse borçlanma noktasında gerekli ihtimam ve özenin gösterilmemiş olması gibi hususların, yeni bir yönetimin temsil ve ilzama yetkili kılınmasını gerektirebileceği" açıklanmıştır.
 
 ## Ankara BAM 22. HD 2022/940 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/785624500)
 
 Dava, satım sözleşmesine dayalı alacağın tahsili için girişilen takibe vaki itirazın iptali istemine ilişkindir.
 
@@ -108,6 +136,8 @@ Bu duruma göre tarafların iddia ve savunmalarını dayandırdıkları deliller
 
 ## İzmir BAM 20. HD 2022/733 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/770816500)
+
 Dava; adi ortaklık sözleşmesinden kaynaklanan alacağın tahsili için başlatılan icra takibine vaki itirazın iptali istemine ilişkindir.
 
 …
@@ -115,6 +145,8 @@ Dava; adi ortaklık sözleşmesinden kaynaklanan alacağın tahsili için başla
 Taraflar İzmir 18. Noterliğinde 31.05.2012 tarih ve 10254 yevmiye numarası ile İş Ortaklığı Sözleşmesi tanzim etmişler; davacı şirketin özel ortak, davalının ise pilot ortak olarak imzaladıkları sözleşmenin 2. maddesi gereğince ortaklığın %51 hissesi davalıya %49 hissesinin ise davacı şirkete ait olduğu, ortaklığın ... A.Ş'ne ait Balçova ilçe sınırları içerisinde eski sistemden (metrekare esaslı sistem) kalorimetreli sisteme geçiş yapan abonelerin ana ve süzme kalorimetre montajları ile yeni abone olan binaların süzme kalorimetre montajı işinin yapımı için kurulduğu, ortaklık sözleşmenin 5. maddesinde ortakların gelecek tüm vecibelerinin yerine getirilmesinde müştereken ve müteselsilen sorumlu olacakları, 31/05/2012 tarihli iş ortaklığı sözleşmesinin ile 3 ay süreli olarak imzalandığı anlaşılmıştır.
 
 ## İstanbul BAM 15. HD 2022/425 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/736386200)
 
 Müdürlüğü'nden alınan Gölet Yapım İşi Kamulaştırma Haritalarının kontrol ve tasdikleri hususunda 11.11.2013 tarihli sözleşme düzenlendiği, dosyada bulunan ilgili idare yazıları ile bilirkişi raporuna göre davalı yüklenicinin edimini sözleşmeye uygun olarak ifa ettiği ve idarece iş sahibine hak edişlerin ödendiği, iş sahibi tarafından sözleşme bedeline mahsuben davalıya 23.255,84 TL ödenmesine rağmen bakiye 7.980.29 TL'nin ödenmediği gerekçesiyle, davanın kabulüne, davalının Küçükçekmece ...İcra Müdürlüğü'nün ... Esas sayılı dosyasına vaki itirazının 7.980,29-TL asıl alacak üzerinden iptaline, asıl alacağa takip tarihinden itibaren yıllık %9.00 oranında yasal faiz uygulanarak takip talebindeki diğer koşullar ile devamına, icra inkar tazminat talebinin reddine karar verilmiştir.Davalı vekili istinafında, cevap dilekçesindeki savunmalarını tekrar ederek kararın ortadan kaldırılmasına ve davanın reddine karar verilmesini talep etmiştir.
 Davacı vekili katılma yoluyla istinafında, kararın icra inkar tazminatına hükmedilmemesi yönünden kaldırılarak, talepleri doğrultusunda icra inkar tazminatına hükmedilmesini talep etmiştir.Taraflar arasındaki uyuşmazlık, 6098 sayılı Türk Borçlar Kanunu 470 ve devamı maddelerinde düzenlenen eser sözleşmesinden kaynaklanmaktadır. Davacı taşeron, davalı yüklenicidir. Dava, 11/11/2013 tarihli "Kamulaştırma Harita Yapım İşine" ilişkin eser sözleşmesine dayalı olarak bakiye iş bedeli alacağının tahsili için sözleşmenin yüklenici olarak tarafı olan "HMG İş Ortaklığının" 3 ortağına karşı başlatılan ilamsız icra takibine, sadece davalı adi ortak şirket tarafından yapılan itirazın iptali talebine ilişkindir.Davalı şirket tarafından, sözleşmenin HMG iş ortaklığı ile imzalandığı, davalı ile imzalanmadığı, bu nedenle davaya konu alacağın ve faturanın Adi Ortaklıktan talep edilmesi gerektiği, Adi Ortaklık ile yaptığı görüşmeye göre davacının iş bedelinin ödenmiş olduğu belirtilerek davanın reddi talep edilmiştir.
@@ -124,11 +156,15 @@ Davanın konusu paradan başka bir şey ise davanın (mecburi dava arkadaşı ol
 
 ## İstanbul BAM 3. HD 2021/3564 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/713965800)
+
 Şti.nin büyük oranda ve telafisi imkansız zarar göreceğini,bu nedenle tasfiye heyeti tarafından alınan toplu satış kararının iptali ile taşınmazların takyidatsız gerçek güncel değerlerinin belirlenmesinin ardından satış işlemlerine devam edilmesinin talep edildiğini,ayrıca ilk derece mahkemesinin aksi kanaatte olması halinde ise; adi ortaklar arasındaki menfaat dengesini korumak ve hak kaybına sebebiyet vermemek için dava konusu taşınmazların, tarafların Gaziosmapaşa ... Noterliğinin 21.04.2015 tarih ve ... yevmiye nolu “Hasılat ve Bağımsız Bölüm Paylaşım Amaçlı İnşaat Sözleşmesi” ndeki hisse oranlarına göre bölünmesi ve tüm taraflara 29.04.2021 tarihli değerleme raporunda belirlenen bedeller üzerinden ...
 T.A.Ş' nin ipotekten kaynaklanan alacağı da gözetilmek suretiyle kendi hissesi kadarını satın alma hakkı tanınmasının talep edildiğini, ilk derece mahkemesinin bu talepleri ile ilgili bir karar vermediği, aksine bu arada itiraza bu talepler ile ilgili bir karar vermediği, aksine bu arada itiraza konu aşağıdaki 14.10.2021 ve 15.10.2021 tarihli ara kararlarıyla tasfiye heyetinin yaptığı toplu satışın da geçerli olduğuna karar verdiğini, İlk derece mahkemesi 14.10.2021 tarihli ara kararında; "1- Tasfiye Heyeti tarafından belirlenen ihale şartları kapsamında mahkememizce uzatılan ödeme günü olan 08/10/2021 tarihinde iş yeri niteliğindeki bağımsız bölümler için belirlenen 4.010.510,00 TL'nin ödenmesi için ... Bankası Beykent Şubesi tarafından aynı tarihte EFT makbuzu düzenlendiği, ancak hesapların farklı bankalara ait olması nedeniyle söz konusu meblağın ilgili hesaba hafta sonu da olması nedeniyle 11/10/2021 tarihinde saat 10:12'de geçtiği, iş bu ödemenin süresinde yapılan ödeme olarak kabul edilip, iş yerlerine ait ihale sürecinin en yüksek teklifi veren ... Ltd.
 Şti. yönünden yürütülmesine, 2-Konut niteliğindeki taşınmazlar yönünden kabul edilen %10 ön ödemenin belirlenen 08/10/2021 tarihinde yapılmadığından iş bu taşınmazlar yönünden ihale sürecinin ikinci en yüksek teklifi veren şirket yönünden yürütülmesine, 3-İhale işlemlerinin belirlenen koşullarda Tasfiye Heyeti tarafından ikmal edilmesine," karar verdiğini,bu karara diğer davacı ...
 
 ## İstanbul BAM 4. HD 2021/2671 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/708349500)
 
 …
 

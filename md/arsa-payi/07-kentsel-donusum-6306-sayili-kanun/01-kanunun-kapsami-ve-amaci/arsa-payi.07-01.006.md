@@ -22,6 +22,8 @@ uyari: "Derleyenin seçtiği alıntılardır; kararın tamamı değildir. Künye
 
 ## Danıştay 6. D. 2020/4616 E., 2021/7604 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/688089400)
+
 26/04/2016 günlü, 29695 sayılı Resmi Gazete'de yayımlanarak yürürlüğe giren 6704 sayılı Kanun'un 25. maddesi ile, 6306 sayılı Kanun'a Ek Madde 1 eklenmiş, maddenin 1-b bendinde "Üzerindeki toplam yapı sayısının en az %65’i imar mevzuatına aykırı olan veya yapı ruhsatı alınmaksızın inşa edilmiş olmakla birlikte sonradan yapı ve iskân ruhsatı alan yapılardan oluşan alanlar, fen ve sanat norm ve standartlarına uygun, sağlıklı ve güvenli yaşama çevrelerini teşkil etmek, sağlık, eğitim ve ulaşım gibi kamu hizmetlerinin düzenli bir şekilde yürütülmesini sağlamak amacıyla, Cumhurbaşkanınca riskli alan olarak kararlaştırılabilir. Riskli alan sınırı uygulama bütünlüğü gözetilerek belirlenir." hükmü yer almıştır.
 
 …
@@ -29,6 +31,8 @@ uyari: "Derleyenin seçtiği alıntılardır; kararın tamamı değildir. Künye
 Yukarıda belirtileni düzenlemelerle kişilerin mülkiyet hakkının yalnızca kamu yararının mevcut olduğu durumlarda kanunla sınırlanabilir. Kanun koyucu tarafından olağan dışı kanun olarak düzenlenen 6306 sayılı Afet Riski Altındaki Alanların Dönüştürülmesi Hakkında Kanun kapsamında da, riskli alan ilan edilen bölgelerde mülkiyet hakkına sınırlama getirilmesine ilişkin hükümler içermesi nedeniyle, bu hakkın kullanımı sıkı kurallara bağlanmış ve kamu yararını ilgilendiren durumun bulunduğunun hiç bir şüpheye yer vermeyecek şekilde açık ve somut olarak ortaya konulması öngörülmüştür. 6306 sayılı Yasaya 6704 sayılı yasa ile eklenen ek 1. maddenin 1-b bendinde ifade edilen "üzerindeki toplam yapı sayısının en az %65’i imar mevzuatına aykırı olan veya yapı ruhsatı alınmaksızın inşa edilmiş olmakla birlikte sonradan yapı ve iskân ruhsatı alan yapılardan oluşan alanlar"ın 6306 sayılı Yasaya göre riskli alan ilan edilebilmesi için bu yapıların 6306 sayılı yasanın 2. maddesi kapsamında değerlendirilmesi gerekmektedir.
 
 ## Danıştay 6. D. 2020/4026 E., 2021/7530 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/691676100)
 
 Riskli alan ve rezerv yapı alanı olarak belirlenen alanlar ile bu alanlar dışındaki riskli yapıların bulunduğu taşınmazlar 6306 sayılı Kanun hükümlerine tabi olduğundan, anılan Kanun'un uygulama alanının mikro ölçeğini "riskli yapı" kavramı oluşturmaktadır. Buna karşılık riskli yapıların dönüştürülmesi kapsamında üretilecek olan plan kararlarının ve projelerin bölgeyle bütünleşmesini sağlamaya, diğer bir ifade ile bütüncül planlama ilkesini hayata geçirmeye yönelik 6306 sayılı Kanunda herhangi bir düzenleme yer almamaktadır. Bu kapsamda riskli yapı tespit edilen taşınmazlara bitişik konumda olan ve üzerinde herhangi bir yapılaşma bulunmayan boş parsellerin hukuki durumu bakımından, 6306 sayılı Kanunun amacı, planlama ilkeleri ve somut olayın özellikleri çerçevesinde ayrıca bir değerlendirme yapılması gerekmektedir.
 
@@ -40,6 +44,8 @@ Kaldı ki, birbirlerini bütünleyen taşınmazlardan birisinin Çevre ve Şehir
 
 ## Danıştay 6. D. 2021/4557 E., 2021/7279 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/678257800)
+
 DAVANIN KONUSU : Rami Kışlasının (İstanbul) bölgede yürütülen kentsel dönüşüm çalışmaları kapsamında müze olarak düzenlenecek olması nedeniyle, Rami esnafı için Toplu Konut İdaresi Başkanlığının (TOKİ) iştirakiyle İstanbul İli, Başakşehir İlçesi, …
 
 …
@@ -47,6 +53,8 @@ DAVANIN KONUSU : Rami Kışlasının (İstanbul) bölgede yürütülen kentsel d
 Mahallesinde inşa edilmekte olan çarşının ulaşım sistemine bağlanarak çevresiyle bütünlük arz edecek şekilde tamamlanması amacıyla ihtiyaç duyulan ve ekli harita ile listede sınır ve koordinatları gösterilen sahada yer alan özel mülkiyete konu taşınmazların, 2942 sayılı Kamulaştırma Kanunu'nun 27. maddesi uyarınca TOKİ tarafından acele kamulaştırılmasına ilişkin 06/02/2021 tarih ve 31387 sayılı Resmi Gazete'de yayınlanan 05/02/2021 tarih ve 3509 sayılı Cumhurbaşkanı Kararının ve bu karar dayanak alınarak yapılan tüm işlemlerin davacıların maliki olduğu taşınmaza ilişkin kısmının iptali istenilmektedir.
 
 ## Danıştay 9. D. 2020/203 E., 2021/5623 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/730315600)
 
 İSTEMİN KONUSU : Davacı tarafından, Toplu Konut İdaresi Başkanlığı tarafından ihale edilen "Niğde Efendibey Mahallesi Kentsel Dönüşüm ve Gelişim Projesi kapsamındaki 3. Etap 2. Bölge 720 Adet Konut, 16 Adet Dükkan İnşaatı ile Alt Yapı ve Çevre Düzenlemesi İşi"ne ilişkin olarak ihtirazi kayıtla verilen beyanname üzerine tahakkuk ettirilen ve ödenen ihale kararı ve sözleşme damga vergisinin ödeme tarihinden itibaren işleyecek faiziyle birlikte iadesi istemiyle açılan davayı kabul eden ... Vergi Mahkemesinin ... tarih ve E:..., K:... sayılı kararına karşı davalı tarafından yapılan istinaf başvurusunu;
 18/06/2019 tarihli ara kararıyla, Toplu Konut İdaresi Başkanlığı'ndan sözkonusu işin yapıldığı taşınmaz tapu bilgileri ile bu taşınmazların anılan Bakanlar Kurulu Kararı ile ilan edilen "riskli alan" içerisinde kalıp kalmadıklarının sorulduğu, dosyaya sunulan cevabi yazı ve ekindeki bilgilere göre, anılan alanın 2013/4829 sayılı Bakanlar Kurulu kararı ile 6306 sayılı Kanunun 2. maddesi uyarınca riskli alan olarak ilan edilen alan içerisinde olmadığının bildirildiği, dolayısıyla sözkonusu işin 6306 sayılı Kanunun istisna hükümlerinden faydalanamayacağı, öte yandan, davacının bu iş nedeniyle adına düzenlenmiş herhangi bir vergi, resim, harç istisnası belgesini sunmadığı gibi böyle bir belgenin ya da buna yönelik açılmış bir idari davanın varlığını da ileri sürmediğinin anlaşıldığı, sözü edilen işe ait ihale kararı ve sözleşme için tahakkuk ettirilen damga vergilerinde hukuka aykırılık bulunmadığı gerekçesiyle kabul ederek vergi mahkemesi kararın kaldırılmasına, davanın reddine hükmeden ... Bölge İdare Mahkemesi ... Vergi Dava Dairesinin ... tarih ve E:..., K:... sayılı kararının temyizen incelenerek bozulması istenilmektedir.
@@ -58,6 +66,8 @@ Mahallesinde inşa edilmekte olan çarşının ulaşım sistemine bağlanarak ç
 …
 
 ## Danıştay 9. D. 2018/155 E., 2021/5260 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/737791300)
 
 İlk Derece Mahkemesi kararının özeti: … Vergi Mahkemesinin … tarih ve E:…, K:… sayılı kararıyla; olayda, davacı tarafından, üstlenilen yapım işinin 775 sayılı Gecekondu Kanunu kapsamında olduğuna ilişkin iddiasını kanıtlar bir belge sunulmadığı gibi 12/05/2016 tarihli ara kararına cevaben Toplu Konut İdaresi Başkanlığı tarafından dosyaya sunulan yazıda da sözleşme konusu alanın da ilan edilen Gecekondu önleme bölgesinde bulunmadığının bildirildiği,bu durumda, dava konusu yapım işinin 775 sayılı Kanun kapsamında olduğunu kanıtlayamayan davacı adına yapılan damga vergisi tahakkukunda mevzuata aykırılık görülmediği gerekçesiyle davanın reddine karar verilmiştir.
 
@@ -78,6 +88,8 @@ Davanın yukarıda özetlenen gerekçeyle reddine ilişkin Vergi Mahkemesi karar
 
 ## Danıştay 9. D. 2020/1230 E., 2021/4868 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/731956700)
+
 Dava konusu istem: Davacı iş ortaklığı adına 2015/Mayıs dönemine ilişkin olarak tarh edilen vergi ziyaı cezalı damga vergisinin kaldırılması istemine ilişkindir.
 
 …
@@ -94,6 +106,8 @@ Davanın yukarıda özetlenen gerekçeyle kabulüne ilişkin Vergi Mahkemesi kar
 
 ## Danıştay 9. D. 2019/1173 E., 2021/4867 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/737772200)
+
 …
 
 sayılı yazısında; Sakarya İli Sapanca İlçesi, Kentsel Dönüşüm ve Gelişim Projesi 740 Adet Konut, 35 Adet Dükkan İnşaatları ile Altyapı ve Çevre Düzenlemesi İşi'ne ait bölgenin 5393 sayılı Belediye Kanunu kapsamında Kentsel Dönüşüm ve Gelişim bölgesi olarak ilan edildiğinin belirtildiği, işe ilişkin özel idari ve teknik şartnamenin 8. maddesi uyarınca inşaatın yapılacağı alan üzerindeki mevcut yapıların ve müştemilatların yıkımı, molozların yasal döküm yerlerine naklinin ihale kapsamında olduğu ve bu çerçevede kentsel dönüşüm ve gelişim proje alanında yer alan mevcut (eski) yapıların yıkıldığı ve bu yapıların söz konusu Kanun kapsamında yeniden yapıldığının belirtildiği görüldüğünden; 5393 sayılı Kanun'un 73/6. maddesi uyarınca getirilen istisnanın düzeltme şikayet hükümleri uyarınca vergilendirme hatası kapsamında olayda uygulanması gerektiği açıktır.
@@ -108,9 +122,13 @@ Vergi Dairesi Başkanlığı'nın … tarih ve … sayılı yazısında; davacı
 
 ## Danıştay 6. D. 2021/2921 E., 2021/4603 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/679889800)
+
 Bakılan davanın konusunun, kentsel dönüşüm ve gelişim proje katılım alanları kapsamında taşınmaz maliklerinden alınacak rekreasyon katılım bedeline ilişkin uygulama esaslarının belirlenmesine ilişkin olduğu anlaşıldığından, 2577 sayılı Kanunun 46. maddesinde tahdidi olarak sayılan temyize konu işlemlerden olmadığı sonucuna ulaşılmıştır.
 
 ## Danıştay 8. D. 2021/4821 E., 2021/4472 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/717995300)
 
 DANIŞTAY TETKİK HÂKİMİ :
 
@@ -130,6 +148,8 @@ Noterlik Kanunu'nun 118. maddesine göre, vergi ve harçtan muafiyeti gösteren 
 
 ## Danıştay 9. D. 2019/2411 E., 2021/3223 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/673281800)
+
 Vergi Mahkemesince, Çevre ve Şehircilik Bakanlığı Toplu Konut İdaresi tarafından davacıya ihale edilen Karabük Merkez Kentsel Dönüşüm ve Gelişim Projesi 700 Konut,2 cami,1 Ticaret Merkezi ve 1 Büfe İnşaatı ile Altyapı ve Çevre Düzenlemesi İşi nedeniyle hakediş ödemeleri üzerinden kesilen damga vergisinin tecil faiziyle iadesi istemiyle açılan davanın, "davacı firma tarafından üstlenilen kentsel dönüşüm-gelişim projesi adı altında ihale edilen yapım işinin 775 sayılı Gecekondu Kanunu kapsamında bulunduğu ve isabet edecek vergilerden muaf tutulduğu" gerekçesiyle kısmen kabulüne,kesilen damga vergisinin yasal faiziyle birlikte iadesine karar verilmiş ve Dairemizce davalı idarenin temyiz istemi reddedilerek karar onanmış ise de; davalı idarenin karar düzeltme istemi üzerine Dairemizce verilen 09/03/2021 tarihli ara kararına cevaben gönderilen bilgi ve belgelerin değerlendirilmesinden dava konusu "Karabük Merkez Kentsel Dönüşüm Gelişim Projesi 700 adet Konut,2 adet Cami,Ticaret Merkezi ,Büfe ,Altyapı ve Çevre Düzenlemesi İnşaatı İşi"ne ilişkin alanın 775 sayılı Gecekondu Kanunu kapsamında olmadığı,Belediye Meclisince 5393 sayılı Belediye Kanunu'nun 73.maddesi kapsamında kentsel
 dönüşümüne karar verildiği ve Bakanlar Kurulu kararıyla da kentsel dönüşüm ve gelişim proje alanı olarak ilan edildiği anlaşılmıştır.
 
@@ -138,6 +158,8 @@ dönüşümüne karar verildiği ve Bakanlar Kurulu kararıyla da kentsel dönü
 Açıklanan nedenlerle,davalı temyiz isteminin kabulüne, ... Vergi Mahkemesi'nin … tarih ve E: …, K:… sayılı kararının kabule ilişkin hüküm fıkrasının bozulmasına …
 
 ## Danıştay 6. D. 2021/1545 E., 2021/3187 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/672492500)
 
 İSTEMİN ÖZETİ : Davacılar tarafından, hissedarı oldukları taşınmazın, 6306 sayılı Afet Riski Altındaki Alanların Dönüştürülmesi Hakkındaki Kanun kapsamında 06.11.2018 tarihinde satış işleminin yapılacağının bildirilmesi üzerine, satış işleminin durdurulması talebiyle yapılan itirazın reddine ilişkin …
 
@@ -166,6 +188,8 @@ sayılı kararının, usul ve hukuka aykırı olduğu ileri sürülerek bozulmas
 … Bölge İdare Mahkemesi ... İdari Dava Dairesince verilen … tarihli, E:…, K:…, Temyiz No:… sayılı karar ve dayandığı gerekçe hukuk ve usule uygun olup bozulmasını gerektirecek bir sebep bulunmadığından, anılan kararın ONANMASINA …
 
 ## Danıştay 9. D. 2020/5123 E., 2021/2822 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/672391800)
 
 İSTEMİN ÖZETİ :Davacı adına, Konya İli, Selçuklu İlçesi, …
 
@@ -205,9 +229,13 @@ sayılı kararının temyizen incelenerek bozulması istenilmektedir.
 
 ## Danıştay 6. D. 2019/21990 E., 2021/2445 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/650478500)
+
 Bu durumda, olayda, uyuşmazlığa konu taşınmazın yer aldığı bölgenin riskli alan olarak ilan edilmesi ve kentsel dönüşüm projesi kapsamında rezerv alan olarak öngörülmesinin tek başına acele kamulaştırma yapılabilmesi için yeterli olmaması nedeniyle, öncelikle taşınmaz malikiyle anlaşma yoluna gidilmesi, anlaşma sağlanamayan durumlarda da yine önce olağan kamulaştırma prosedürünün uygulanması, kamulaştırmanın 2942 sayılı Yasanın 27. maddesi uyarınca gerçekleştirilebilmesi için ise acele kamulaştırmanın koşullarının gerçekleşmiş olduğunun açıkça ortaya konulmasının gerekmesine karşın, bu gereğe uyulmaksızın tesis edilen dava konusu Cumhurbaşkanlığı kararında 2942 sayılı Kamulaştırma Kanununun 27. maddesinde öngörülen acele kamulaştırma prosedürünün uygulanması için gerekli olan olağanüstü durumların ve bu yönteme başvurulması ile amaçlanan kamu yararının somut olarak ortaya konulmadığı sonucuna varılmıştır.
 
 ## Danıştay 9. D. 2020/355 E., 2021/2187 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/661825300)
 
 Dava konusu istem: Davacı tarafından,6306 sayılı Kanun kapsamında inşa edilen bağımsız bölümlere ilişkin ödenen tapu harçlarının iadesi talebiyle yapılan düzeltme şikayet başvurusunun reddine dair işlemin iptali ve ödenen tutarın tecil faiziyle iadesi istemine ilişkindir.
 
@@ -223,11 +251,15 @@ Davanın yukarıda özetlenen gerekçeyle ehliyet yönünden reddine ilişkin Ve
 
 ## Danıştay 6. D. 2017/7571 E., 2021/1127 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/665808900)
+
 Davalı idarece, anılan madde ile önceki düzenlemeden doğan hakların korunması, riskli alan ya da riskli yapı tespiti yapılmış yerlerde yapılacak uygulamalarda sözleşmeden kaynaklı mağduriyetin önlenmesinin amaçlandığı belirtilmişse de; düzenleyici işlemlerin yürürlüğe girdikleri andan itibaren hukuki etkilerini gösterecekleri ve geriye yürümeyecekleri yerleşmiş bir idare hukuku ilkesi olması nedeniyle, 30.09.2017 günlü Resmi Gazete'de yayımlanan Planlı Alanlar İmar Yönetmeliğinde Değişiklik Yapılmasına Dair Yönetmeliğin diğer hükümlerinin Planlı Alanlar İmar Yönetmeliğinin yürürlüğe gireceği tarih olarak belirtilen 01.10.2017 tarihinde yürürlüğe gireceğinin belirtilmiş olmasına karşın, 14. maddesinin yönetmelik hükmünün yayımlandığı tarihten önceki bir tarih olan 03.07.2017 tarihinden itibaren uygulanacağını kabul etmek düzenleyici işlemlerin geriye yürümeyeceği ilkesine aykırı olacağı gibi hukuki güvenlik ilkesine de aykırı olacağından, madde hükmünde hukuka uyarlık görülmemiştir.
 
 Diğer taraftan, dava konusu yönetmeliğin 14. maddesinin 3. fıkrasına benzer düzenleme içeren ve riskli yapı tespiti yaptırılan yapılara ilişkin yapı ruhsatı başvurularının 01.01.2017 tarihine kadar sonuçlandırılmak üzere Planlı Alanlar Tip İmar Yönetmeliğinde değişik tarihlerde yapılan düzenlemelerden tercih yapılarak sonuçlandırılabileceği yolundaki Geçici 6. madde hükmünün iptali istemiyle açılan davada Danıştay Altıncı Dairesi'nin 23.05.2017 günlü, E:2014/6805, K:2017/4062 sayılı kararıyla anılan hükmün iptaline karar verilmiştir.
 
 ## Danıştay 6. D. 2017/4840 E., 2021/1114 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/673466900)
 
 Davacı tarafından, 6306 sayılı Kanun ve 644 sayılı KHK kapsamında yapılacak yenileme ve dönüşüm uygulamaları, Bakanlar Kurulu kararı alınan yatırımlar, turizm yatırımları, fınans merkezleri, özel proje alanları, Belediye Kanunu'nun 73. maddesi kapsamında Bakanlar Kurulunca yetkilendirilen ve belirlenen alanlardaki dönüşüm ve uygulamalarda öncelik imar planlarına verilerek Yönetmeliğin devre dışı bırakıldığı, bu maddenin ikili bir planlama ve yapılaşmayı tanımladığı, ikili bir yapılaşma ve planlama düzeni ortaya çıkacağından hem eşitlik ilkesine aykırı hem de standartsız yapılaşmayı doğuracağından şehircilik ilkelerine uygun olmadığı ileri sürülerek iptali istenmektedir.
 
@@ -236,6 +268,8 @@ Davacı tarafından, 6306 sayılı Kanun ve 644 sayılı KHK kapsamında yapıla
 İmar parseli içinde tek başına bağımszı bölüm oluşturmadığı, konut kullanımlı bağımsız bölüm brüt alanının % 10’unu ve ticari kullanımlı bağımsız bölüm brüt alanının % 50’sini aşmadığı, nüfus yoğunluğuna sebebiyet vermediği açık olan söz konusu kullanımın, teknik ve sosyal altyapı alanlarına yük getirmekten ziyade faydasının bulunduğu, nüfus yoğunluğunu artırmadığı, artan yapı yoğunluğunun ise sağladığı kamu yararına nispeten önemsiz kaldığı, sadece binada yaşayanların sosyal, rekreatif ve kültürel ilgi ve ihtiyaçlarının karşılanması yolu ile sosyal yaşamlarının niteliğini ve düzeyini artırma, bu yolla yaşam kalitesinin iyileştirilmesi amacına yönelik olduğu sonucuna ulaşılarak Yönetmeliğin 22.maddesinin 1.fıkrasının (k) bendi yönünden davanın reddine karar verilmesi gerektiği oyuyla aksi yöndeki Dairemiz kararına katılmıyorum.
 
 ## Danıştay 6. D. 2020/8704 E., 2021/1051 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/685165800)
 
 Dosyanın incelenmesinden; İstanbul İli, Beşiktaş İlçesi, …
 
@@ -258,6 +292,8 @@ sayılı kararının Danıştay Altıncı Dairesinin 04/03/2020 tarih ve E:2019/
 'ın isimlerinin ise kararda yazılmamış olması nedeniyle Mahkeme kararında bu yönden usul hükümlerine uyarlık bulunmadığı" gerekçesiyle bozulması üzerine, davalı vekili tarafından kararın düzeltilmesinin istenildiği anlaşılmaktadır.
 
 ## Danıştay 6. D. 2018/2698 E., 2020/11756 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/641953100)
 
 Adana ili, Çukurova ilçesi, …
 
@@ -308,6 +344,8 @@ sayılı yazısı ile, Çukurova Belediyesi tarafından ise zımnen reddedilmesi
 Davanın yukarıda özetlenen gerekçeyle reddine ilişkin Mahkeme kararına yönelik olarak yapılan istinaf başvurusunun reddi yolundaki temyize konu … Bölge İdare Mahkemesi .. . İdari Dava Dairesince verilen … tarihli, E:…, K:… sayılı kararının BOZULMASINA …
 
 ## Danıştay 6. D. 2018/9488 E., 2020/10705 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/636128100)
 
 DANIŞTAY TETKİK HAKİMİ …
 

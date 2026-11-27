@@ -22,6 +22,8 @@ uyari: "Derleyenin seçtiği alıntılardır; kararın tamamı değildir. Künye
 
 ## İstanbul BAM 7. HD 2024/1679 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1067448400)
+
 Diğer taraftan, ihtiyati tedbir talebinin kabul edilebilmesi bakımından HMK'nun 390/3. maddesinde ihtiyati tedbir isteyenin haklılığı konusunda tam kanaat değil, kuvvetle muhtemel yaklaşık bir kanaatin yeterli olacağı öngörülmüş olup, Yasanın hükümet gerekçesinde de belirtildiği üzere yaklaşık ispat durumunda "...hakim o iddianın ağırlıklı ihtimal olarak doğru olduğunu kabul etmekle birlikte zayıf bir ihtimalde olsa aksinin mümkün olduğu ihtimalini göz ardı edemez... bu sebepledir ki haksız olma ihtimali de dikkate alınarak talepte bulunandan teminat alınması..." hükme bağlanmıştır. İhtiyati tedbirin uygulanması sonucu, karşı tarafın zarar görme tehlikesi bulunduğundan HMK’nın 392. maddesinde tedbire karar verilirken talepte bulunandan teminat alınması öngörülmüştür. İhtiyati tedbir kararı verilirken tedbir isteyen haksız çıktığı takdirde, ihtiyati tedbirden dolayı karşı tarafın uğrayacağı zarar için bir teminat alınmasına da karar verilir. (HMK m.391/2-ç, 392) Talep, resmi bir belgeye, başkaca bir kesin delile dayanıyor ya da durum ve koşullar gerektiriyorsa mahkeme gerekçesini açıkça belirterek teminat alınmamasına da karar verebilir.
 Davanın niteliği, tapu kaydı, satış vaadi sözleşmesi ,muvazaa iddiası sunulan belge ve deliller ile tüm dosya kapsamı birlikte değerlendirildiğinde; dava taşınmazın aynına yönelik tapu iptali ve tescil istemine ilişkin olup yerel mahkemece davacının ihtiyati tedbir talebinin kabulüne karar verilmiştir.Davacının iddiasında haklı olup olmadığı yargılama sonunda tüm deliller toplandıktan, incelendikten ve değerlendirildikten sonra ortaya çıkacaktır. Ancak talep tapu iptali ve tescil istemli taşınmazın aynına ilişkin olup dava konusu taşınmazın devredilmesi ve elden çıkarılması durumunda ileride telafisi güç ya da imkansız durum ve zararlar ortaya çıkabileceği, verilebilecek hükmün infaz kabiliyetinin de ortadan kalkabileceği ve davacının hak kaybına uğrayabileceği ihtimal dahilindedir.
 
@@ -30,6 +32,8 @@ Tüm bu nedenlerle somut olayda HMK'nun 389.maddesi gereğince ihtiyati tedbirin
 HÜKÜM:Gerekçesi yukarıda izah edildiği üzere; 1-Bakırköy 5. Asliye Ticaret Mahkemesi'nin 06/06/2024 tarih ve 2024/339 esas sayılı kararı usul ve esas yönünden hukuka uygun olduğu anlaşıldığından davalı ... Vakfı vekilinin ara karara yönelik istinaf başvuru sebep ve gerekçeleri yerinde görülmediğinden istinaf başvurusunun 6100 Sayılı Hukuk Muhakemeleri Kanunu'nun 353/1-b/1. maddesi gereğince ESASTAN REDDİNE …
 
 ## İstanbul BAM 16. HD 2024/1663 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1077512500)
 
 DELİLLER: Mahkemenin 2019/474 D.iş sayılı dosyasının tetkikinde; ... tarafından, ... ve ... aleyhine 14/12/2018 düzenleme tarihli, 15/02/2019 ödeme tarihli 170.000,00 USD bedelli senet dayanak gösterilerek ihtiyati haciz talebinde bulunulduğu, mahkemece verilen 08/10/2019 tarihli karar ile, ihtiyati haciz talebinin kabulüne karar verildiği, Mahkemenin 2019/474 D.iş sayılı dosyasında alınan ihtiyati haciz kararının Bakırköy ... İcra Müdürlüğünün ... Esas sayılı dosyası ile takibe konulduğu görülmüştür. Bakırköy ... İcra Müdürlüğünün ... Esas sayılı dosyası incelendiğinde; alacaklının ..., borçluların ... ve ... oldukları, 966.450,00 TL asıl alacak, 2.899,35 TL komisyon, 255,61 TL protesto gideri, 124.950,07 TL işlemiş faiz, 706,20 TL ihtiyati haciz tutarı olmak üzere toplam 1.095.261,23 TL alacak için 15/10/2019 tarihinde kambiyo senetlerine mahsus icra takibi yapıldığı tespit edilmiştir.
 Takibin dayanağı olan bono örneği incelendiğinde; borçlunun ..., lehtarın ... olduğu, 14/12/2018 keşide, 15/02/2019 vade tarihli, 170.000,00 USD bedelli bono olduğu, bedelinin nakden alındığının yazıldığı, bononun ön yüzünde, borçlunun imzasının altında kefil olarak ...'ün adının ve imzasının mevcut olduğu, 19/02/2019 tarihinde alacaklı tarafından ödememe protestosu keşide edildiği tespit edilmiştir. Bakırköy 9. İcra Hukuk Mahkemesinin 2019/840 Esas, 2020/65 Karar sayılı dosyası incelendiğinde; ... tarafından ... aleyhine imza inkarı nedeniyle Bakırköy ... İcra Müdürlüğünün ... Esas sayılı icra takibinin ve bononun iptali için dava açıldığı, yapılan yargılama sonucunda davanın reddine karar verildiği, karara karşı davacı vekili tarafından istinaf kanun yoluna başvurulması üzerine, İstanbul BAM 22. Hukuk Dairesi'nin 2021/632 Esas, 2021/1493 Karar sayılı kararı ile, ilk derece mahkemesinin kararının davacı aleyhine hükmedilen tazminat ve idari para cezası yönünden kaldırıldığı ve davanın reddine karar verildiği, kararın temyiz edilmeksizin 28/07/2021 tarihinde kesinleştiği anlaşılmıştır. Çerkezköy C.
@@ -40,11 +44,15 @@ H Ü K Ü M: Yukarıda açıklanan gerekçe ile: 1-6100 sayılı HMK.'nın 353/1
 
 ## Konya BAM 6. HD 2024/1631 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1082395000)
+
 Hukuk Muhakemeleri Kanunu'nun 389. maddesinde ''Mevcut durumda meydana gelebilecek bir değişme nedeniyle hakkın elde edilmesinin önemli ölçüde zorlaşacağından ya da tamamen imkânsız hâle geleceğinden veya gecikme sebebiyle bir sakıncanın yahut ciddi bir zararın doğacağından endişe edilmesi hâllerinde, uyuşmazlık konusu hakkında ihtiyati tedbir kararı verilebilir. Birinci fıkra hükmü niteliğine uygun düştüğü ölçüde çekişmesiz yargı işlerinde de uygulanır. '' hükmü düzenlenmiştir.
 
 Aynı kanunun 390. maddesinde de '' İhtiyati tedbir, dava açılmadan önce, esas hakkında görevli ve yetkili olan mahkemeden; dava açıldıktan sonra ise ancak asıl davanın görüldüğü mahkemeden talep edilir. Talep edenin haklarının derhâl korunmasında zorunluluk bulunan hâllerde, hâkim karşı tarafı dinlemeden de tedbire karar verebilir. Tedbir talep eden taraf, dilekçesinde dayandığı ihtiyati tedbir sebebini ve türünü açıkça belirtmek ve davanın esası yönünden kendisinin haklılığını yaklaşık olarak ispat etmek zorundadır. '' düzenlemesi bulunmaktadır.
 
 ## İstanbul BAM 45. HD 2024/1532 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1088383500)
 
 8/1’deki şekil şartına uyulmamasının ortaklığa engel teşkil etmeyeceğinin kabul edilmesi gerektiğini beyan ederek, öncelikle davaya konu üyeliğin yerine başkaca üye kaydedilmemesi ve tahsis bedeli ödenmiş olan konutların 3.şahıslara tahsis edilmemesi ve keza satılmaması zımnında dava sonuna kadar ihtiyati tedbir konulmasına, netice itibariyle şayet müvekkili hakkında alınmış bir ihraç kararı var ise karar usul ve yasaya uygun olmadığı ve usulüne uygun olarak tebliğ edilmediği için ihraç kararının iptaline ve kooperatif üyesi olduğunun tespitine karar verilmesini talep ve dava etmiştir. Mahkemece; "...Bilindiği üzere ihtiyati tedbir kararı verilebilmesinin en önemli şartı bir ihtiyati tedbir sebebinin mevcut olmasıdır. Kanunda bu husus genel olarak düzenlenmiş, hâkime oldukça geniş bir takdir alanı bırakılmıştır. 6100 Sayılı Hukuk Muhakemeleri Kanununun 389/1. maddesinde "Mevcut durumda meydana gelebilecek bir değişme nedeniyle hakkın elde edilmesinin önemli ölçüde zorlaşacağından ya da tamamen imkânsız hale geleceğinden veya gecikme sebebiyle bir sakıncanın yahut ciddi bir zararın doğacağından" söz etmektedir.
 Bu hüküm dikkate alındığında, mevcut durumun değişmesi halinde, hakkın elde edilmesinin önemli ölçüde zorlaşması, hakkın elde edilmesinin tamamen imkânsız hale gelmesi, gecikme sebebiyle bir sakıncanın yahut ciddi bir zararın doğması tehlikesi varsa, ihtiyati tedbir sebebi var kabul edilecektir. Hâkim kararında somut sebep gösteremiyor, bunu en azından açıklayacak veya asgari ölçüde ikna edecek delil değerlendirmesi yapamıyor, yaklaşık ispat ölçüsünü yakalayamıyorsa tedbire karar vermemelidir. Ancak bu da hiçbir zaman tam bir ispat seviyesinde ispat şartına dönüşmemelidir. Kural olarak bir davada tarafların ileri sürdüğü iddia ve savunmaların ispatı için tahkikat yapılması ve delillerin toplanması gerekir. Hakim tüm delilleri inceleyip değerlendikten ve tam bir karara ulaştıktan sonra nihai kararını verir. Bu husus asıl davanın kabulü için geçerli olup, bu nedenle tam ispat aranır. İhtiyati tedbirlerde ise tam değil yaklaşık ispat yeterli olacağı 6100 Sayılı HMK'nın 390/3. maddesinde düzenlenmiştir.
@@ -54,6 +62,8 @@ Bu hüküm dikkate alındığında, mevcut durumun değişmesi halinde, hakkın 
 H Ü K Ü M: Gerekçesi yukarıda izah edildiği üzere;1-Davacı vekilinin istinaf başvurusunun 6100 sayılı Hukuk Muhakemeleri Kanunu'nun 353/1.b.l bendi uyarınca ESASTAN REDDİNE …
 
 ## İstanbul BAM 17. HD 2024/1504 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1096197700)
 
 İLK DERECE MAHKEMESİ KARARI:Mahkemece 21.08.2024 tarihli ara kararı ile; 6102 sayılı TTK 329.
 
@@ -67,6 +77,8 @@ Buna göre ise somut yargılamada, davacı tarafından borçlunun itirazının k
 sonucu itibariyle doğru olduğu anlaşılmakla davacı vekilinin istinaf başvurusunun reddine karar verilmesine dair aşağıdaki hüküm kurulmuştur.
 
 ## Sakarya BAM 5. HD 2024/1331 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1066857300)
 
 Davalı Yeşil Global İnşaat Turizm Otelcilik A.Ş. vekili cevap dilekçesinde özetle;
 
@@ -84,6 +96,8 @@ Buna göre somut dosyada uyuşmazlık, taraflar arasındaki eser sözleşmesine 
 
 ## İstanbul BAM 18. HD 2024/1151 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1039687900)
+
 İcra Müdürlüğü'nün ... Esas sayılı icra dosyasına konu ... yibf no lu ve ... yibf no lu yapı denetim sözleşmelerinden kaynaklı olarak 8.265,78 TL alacak yönünden davalıya borçlu bulunmadığının tespiti ile fazlaya ilişkin istemin reddine karar verilmiş, karşı davanın kısmen kabulü ile davalı-karşı davacının tarafın başlattığı İstanbul ... İcra Müdürlüğü'nün ... Esas sayılı icra dosyasında davacı- karşı davalı tarafından ... yibf no lu ve ... yibf no lu yapı denetim sözleşmelerinden kaynaklanan toplam 39.610,42 TL asıl alacağa yönelik yapılan itirazın iptaline, takibin takip talebindeki şartlarla kaldığı yerden devamına, fazlaya ilişkin istemin reddine, asıl alacak likit ve belirlenebilir olmadığından ve bilirkişi raporu sonucu alacak miktarı ortaya çıktığından icra inkar tazminatı talebinin reddine...'' gerekçeleriyle asıl ve karşı davanın kısmen kabul kısmen reddine karar verilmiştir.
 Dairemizce dosyanın geri çevrilmesi üzerine ilk derece mahkemesince Sarıyer Vergi Dairesi Müdürlüğü, Gelir İdaresi Başkanlığından yıllık gelir vergisi beyannameleri, İstanbul Ticaret Sicil Müdürlüğü müzekkere cevapları dosya arasına alınarak, dosyanın tekrar Dairemize gönderildiği, davacı- karşı davalının bilanço usulüne göre defter tuttuğu tacir sıfatına haiz olduğu dolayısıyla görevli mahkemenin ticaret mahkemesi olduğu anlaşılmıştır. Menfi tespit davası İİK'nın 72. maddesinde düzenlenmiştir. Bu maddeye göre, borçlu, icra takibinden önce veya takip sırasında borçlu bulunmadığını ispat için menfi tespit davası açabilir. İcra takibinden önce açılan menfi tespit davasına bakan mahkeme, talep üzerine alacağın yüzde onbeşinden aşağı olmamak üzere gösterilecek teminat mukabilinde, icra takibinin durdurulması hakkında ihtiyati tedbir kararı verebilir. İcra takibinden sonra açılan menfi tespit davasında ise ihtiyati tedbir yolu ile takibin durdurulmasına karar verilemez.
 Ancak, borçlu gecikmeden doğan zararları karşılamak ve alacağın yüzde onbeşinden aşağı olmamak üzere göstereceği teminat karşılığında, mahkemeden ihtiyati tedbir yoluyla icra veznesindeki paranın alacaklıya verilmemesini isteyebilir.
@@ -93,6 +107,8 @@ Ancak, borçlu gecikmeden doğan zararları karşılamak ve alacağın yüzde on
 C.Karşı Davanın Esası Yönünden; 1.Karşı davanın kısmen kabulü ile, davalı-karşı davacının tarafın başlattığı İstanbul ... İcra Müdürlüğü'nün ... Esas sayılı icra dosyasında davacı- karşı davalı tarafından .. YİBF no'lu ve ... YİBF no'lu yapı denetim sözleşmelerinden kaynaklanan toplam 39.610,42 TL asıl alacağa yönelik yapılan itirazın iptaline …
 
 ## İstanbul BAM 12. HD 2024/1119 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1048435500)
 
 …
 
@@ -104,6 +120,8 @@ Kararın akabinde istinaf başvuru dilekçesinde yazılı sebeplerle duruşmada 
 HÜKÜM:Yukarıda açıklanan nedenlerle: İhtiyati tedbir talep eden/davacı vekilinin istinaf başvurusunun HMK'nın 353(1)b-1 maddesi uyarınca ESASTAN REDDİNE …
 
 ## İzmir BAM 20. HD 2024/1118 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1057109800)
 
 Mahkemece; yukarıda yazılı gerekçelerle taleplerin reddine dair ara karar verildiği, bu ara karara yönelik olarak ihtiyati tedbir/ihtiyati haciz talep eden davacı vekili tarafından istinaf kanun yoluna başvurulduğu anlaşılmıştır.
 
@@ -117,6 +135,8 @@ Dosya kapsamındaki bilgi ve belgelerin incelenmesinde; davacının davalı şir
 
 ## Antalya BAM 7. HD 2024/1093 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1084971300)
+
 Dava, taraflar arasındaki kat karşılığı inşaat sözleşmesinin davalı tarafça feshinin geçersiz olduğunun tespiti ve uğranıldığı iddia olunan maddi zararların tazmini istemine ilişkindir.
 
 …
@@ -128,6 +148,8 @@ Tüm dosya kapsamı birlikte değerlendirildiğinde, mahkemenin istinaf inceleme
 Davacı vekilinin istinaf başvurusunun ESASTAN REDDİNE …
 
 ## Sakarya BAM 7. HD 2024/1086 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1054165000)
 
 İlk derece mahkemesince; "... Davacılar vekilinin ihtiyati tedbir talebinin REDDİNE ..." şeklinde hüküm kurulmuştur.
 
@@ -148,6 +170,8 @@ Dosyanın incelenmesinde; davacıların, davalı STS Grup Yapı İnşaat Tur. Mi
 
 ## Bursa BAM 5. HD 2024/1083 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1148371500)
+
 İLK DERECE MAHKEMESİNİN KARARININ ÖZETİ:İlk derece mahkemesince yapılan duruşma sonucunda, tapu iptali ve tescili istemli açılan davada tedbire konu taşınmazın davanın konusu teşkil etmesi ve HMK.nun 389 madde koşullarının mevcut olması dolayısıyla ihtiyati tedbir kararı verildiği, verilen tedbir kararının belirlenen teminat tutarının dosya kapsamına uygun olduğu, ihtiyati tedbir kararının verilme koşullarında herhangi bir değişiklik olmadığı gerekçesiyle davalı ... vekilinin tedbire itirazının reddine karar verilmiştir.
 
 …
@@ -156,6 +180,8 @@ HMK'nın 389. maddesi uyarınca, "Mevcut durumda meydana gelebilecek bir değiş
 
 ## İzmir BAM 20. HD 2024/1078 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1042962900)
+
 Mahkemece; ihtiyati hacze yapılan itirazın kabulüne karar verilmiş olup, hüküm davacılar vekili tarafından istinaf edilmiştir.
 
 …
@@ -163,6 +189,8 @@ Mahkemece; ihtiyati hacze yapılan itirazın kabulüne karar verilmiş olup, hü
 2004 sayılı İİK'nın 257/1.maddesinde; "Rehinle temin edilmemiş ve vadesi gelmiş bir para borcunun alacaklısı, borçlunun yedinde veya üçüncü şahısta olan taşınır ve taşınmaz mallarını ve alacaklariyle diğer haklarını ihtiyaten haczettirebilir" düzenlemesi muaccel, bir başka deyişle vadesi gelmiş alacaklar yönünden ihtiyati haciz koşulları düzenlemiş olup, muaccel olmayan/vadesi gelmemiş alacak yönünden ise ihtiyati haciz koşulları aynı yasanın 257/2.maddesinde ise; "Vadesi gelmemiş borçtan dolayı yalnız aşağıdaki hallerde ihtiyati haciz istenebilir:
 
 ## Sakarya BAM 7. HD 2024/1075 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1050267100)
 
 Davacı vekili 26.03.2024 tarihli talep dilekçesinde özetle; Mahkememizce verilen 22.02.2024 tarihli ara karar hakkında Gebze İcra Dairesi tarafından hüküm bölümünde ...ne ait tabelaların kaldırılmasına dair hüküm kurulmadığını, bu aşamada alacaklı vekilinin talebinin reddine ilişkin karar verildiğini, mahkemeden bu hususa ilişkin uyap sistemine ara karara ek olarak bir karar verilmesini talep etmiştir.
 
@@ -180,6 +208,8 @@ Belirtilen yasal düzenleme karşısında mahkemece, duruşma açılıp taraflar
 
 ## İstanbul BAM 15. HD 2024/1048 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1092009300)
+
 Noterliği'nin 19.12.2023 tarih ve ... yevmiye numaralı Düzenleme Şeklinde Taşınmaz Satış Vaadi ve Arsa Payı Karşılığı İnşaat Sözleşmesi'nin şerh edilmesinin önlenmesi yönünde ihtiyati tedbir kararı verilmesini talep ettiği, 6100 sayılı Hukuk Muhakemeleri Kanunu'nun 390/3. maddesinde tedbir talep eden tarafın davanın esası yönünden kendisinin haklılığını yaklaşık olarak ispat etmek zorunda olduğu, Toplanan deliller, davacı tarafından sunulan belgeler kapsamında tedbir konulması yönünden yaklaşık koşulun bulunmadığı, davacı tarafın iddialarının yargılamayı gerektirdiği, tedbir kararının verilmemesi durumunda hakkın elde edilmesinin önemli ölçüde zorlaşacağı ya da tamamen imkansız hale geleceği veya ciddi bir zararın doğacağı noktasında kanaatin şu aşamada oluşmadığı, davanın konusunun sözleşmenin geriye etkili olarak feshine karar verilmesine ilişkin olduğu, dava dilekçesi ve ekli belgeler kapsamında davalı tarafın dönmeyi kabul etmediği, bu kapsamda da taraflar arasındaki sözleşme ilişkisinin devam ettiği, fesihte davacının haklı olup olamayacağı konusunun yargılama neticesinde ortaya çıkacağı, bu yüzden şerh verilmesinin tedbiren önlenmesine yönelik talebin ise şu aşamada ihtiyati
 tedbir bakımından yaklaşık koşulu oluşturmadığı anlaşıldığından, ihtiyati tedbir talebinin reddine karar vermiştir.Davacı vekili istinafında; davalı tarafından yapılmış hiç bir iş ve işlem bulunmadığını, sözleşmenin imzalanmasından itibaren 6 ay geçmesine rağmen belediyeye hiç bir müracaat yapılmadığını, ruhsat için başvuru yapılmadığını, sözleşmenin davalı tarafından tapuya şerh edilmesi ihtimalinin bulunduğunu, depo talebi hakkında tedbir kararı vermediğini belirterek yerel mahkeme kararının kaldırılmasını talep etmiştir.Taraflar arasındaki uyuşmazlık Türk Borçlar Kanunun 470 ve devamı maddelerinde düzenlenen eser sözleşmesinin bir türü olan kat karşılığı inşaat sözleşmesinden kaynaklanmaktadır. Davacı arsa sahibi olup, davalı yüklenicidir. Davacı vekili, davalı yüklenicinin proje çizdirmediğini, ruhsat için başvurmadığını hiç bir şey yapmadığını, sözleşmenin geriye etkili feshini talep etmiştir.
 
@@ -189,6 +219,8 @@ ve zorlaşacağı kanaatinin oluşmadığı gerekçesiyle ihtiyati tedbir talebi
 
 ## İstanbul BAM 45. HD 2024/1016 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1048626200)
+
 390/2 maddesinde; "Talep edenin haklarının derhâl korunmasında zorunluluk bulunan hâllerde, hâkim karşı tarafı dinlemeden de tedbire karar verebilir." 390/3 maddesinde; "Tedbir talep eden taraf, dilekçesinde dayandığı ihtiyati tedbir sebebini ve türünü açıkça belirtmek ve davanın esası yönünden kendisinin haklılığını yaklaşık olarak ispat etmek zorundadır''; 391/1 maddesinde "Mahkeme, tedbire konu olan mal veya hakkın muhafaza altına alınması veya bir yediemine tevdii ya da bir şeyin yapılması veya yapılmaması gibi, sakıncayı ortadan kaldıracak veya zararı engelleyecek her türlü tedbire karar verebilir" düzenlemelerine yer verilmiştir. 6100 sayılı HMK'nun 389/1 maddesi uyarınca ancak uyuşmazlık konusu hakkında ihtiyati tedbir kararı verilebilecektir. Bu nedenle dava dilekçesinde İstanbul ili Beylikdüzü ilçesi ... Mah., ... ada ... parsel (eski ... pafta ... ada ... parsel) sayılı taşınmaz üzerindeki 15 nolu bağımsız bölümün tapu kaydının iptali ile davacılar adına tescili talep edildiğinden, mahkemenin bu taşınmaz yönünden ihtiyati tedbir kararı vermesi, aynı parseldeki dava konusu olmayan diğer taşınmazlar yönünden ihtiyati tedbir isteminin reddi kararı yerindedir.
 
 …
@@ -196,6 +228,8 @@ ve zorlaşacağı kanaatinin oluşmadığı gerekçesiyle ihtiyati tedbir talebi
 H Ü K Ü M: Gerekçesi yukarıda izah edildiği üzere 1-Davacı vekilinin istinaf başvurusunun 6100 sayılı Hukuk Muhakemeleri Kanununun 353/1.b.l bendi uyarınca ESASTAN REDDİNE …
 
 ## Ankara BAM 21. HD 2024/976 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1073646300)
 
 Mahkemece, davacı vekilinin ... A.Ş.'nin müteahhidi olduğu ... projesinden yüklenicinin hissesine isabet eden taşınmazların devri ve temlikinin önlenmesi için ihtiyati tedbir kararı verilmesi talebine ilişkin olarak yapılan değerlendirmede ihtiyati tedbir talebine konu taşınmazların aynı çekişme konusu olmadığından yasal koşulların oluşmadığı, davacı vekilinin tedbir mahiyetinde haciz konulması talebine ilişkin yapılan değerlendirmede, ihtiyati haczin içeriği ve davanın niteliği ve mevcut delil durumu itibarıyla ihtiyati haczin yasal koşullarının oluşmadığı gerekçesiyle ihtiyati tedbir ve tedbir niteliğinde ihtiyati haciz taleplerinin reddine karar verilmiştir.
 

@@ -22,6 +22,8 @@ uyari: "Derleyenin seçtiği alıntılardır; kararın tamamı değildir. Künye
 
 ## Yargıtay 14. HD 2013/13178 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/657780600)
+
 Davacı, konut alanı olarak ayrılan 639 ada 2 parsel sayılı taşınmazın dava dışı maliki ... Belediyesi tarafından üst birlik ... Konut Yapı Kooperatifleri Birliğine tahsis edildiğini, üst birliğinde davacıya tahsis ettiği taşınmazda dava dışı yüklenici ile arsa payı karşılığı inşaat sözleşmesi düzenlendiğini, inşaatın bitirildiğini, davalı ...'in dava konusu taşınmazda davalı ...’a kiraya vermek yoluyla tasarrufta bulunduğunu ileri sürerek, elatmanın önlenmesini ve şimdilik 1.000 TL ecrimisil bedelinin alınmasını istemiş; 27.10.2009 günlü celsede davalı ... hakkındaki davayı takip etmediğini belirtmiş; 23.03.2011 tarihli ıslah dilekçesiyle de, ecrimisil bedelini 18.811,58 TL’ye yükseltmiştir.
 
 Davalı ..., davacı kooperatifin ortağı olduğunu, bedelini ödeyerek edindiği taşınmazda fuzuli şagil olmadığını belirterek davanın reddini savunmuş; davalı ... ise, yanıt vermemiştir.
@@ -43,6 +45,8 @@ SONUÇ: Yukarıda açıklanan nedenlerle davalı ... vekilinin temyiz itirazlar�
 
 ## Yargıtay 14. HD 2013/12885 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/566619000)
+
 Mahkemece; asıl davada TMK’nın 724. maddesi şartlarının gerçekleştiği gerekçesi ile tapu iptali ve tescil isteminin kabulü ile 14 no’lu taşınmazın davalı kooperatif adına olan tapu kaydının iptali ile davacı adına tesciline, davacının davalı ... Ltd.
 
 …
@@ -54,6 +58,8 @@ Somut olayda, davacı kendisine ait malzeme ile davalı kooperatife ait taşınm
 SONUÇ:Yukarıda açıklanan nedenlerle davalı-davacı kooperatif vekilinin temyiz itirazlarının kabulü ile hükmün BOZULMASINA …
 
 ## Yargıtay 14. HD 2013/8956 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/652576500)
 
 Davalı arsa sahibi ..., yüklenicinin edimlerini yerine getirmediğini, dava konusu 18 numaralı dükkan niteliğindeki bağımsız bölümün kendisine ait olduğunu, açılan davanın reddini savunmuştur.
 
@@ -71,6 +77,8 @@ Taraflar arasında adi yazılı olarak yapılan 08.07.1996 tarihli ek protokolü
 SONUÇ: Yukarıda açıklanan nedenlerle davalı vekilinin temyiz itirazlarının kabulü ile temyiz olunan kararın yukarıda açıklanan nedenlerle BOZULMASINA …
 
 ## Yargıtay 23. HD 2013/8210 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/525905000)
 
 Davacı vekili, davalılar arasında 03.07.2001 tarihli arsa payı karşılığı inşaat sözleşmesinin akdedildiğini, bu sözleşmeye istinaden davalı arsa payı sahibi ...’in müvekkiline 15.09.2003 tarihinde daire sattığını, söz konusu dairenin eksik teslim edilmesi nedeni ile müvekkilinin bu eksiklikleri giderdiğini, bu nedenle kira kaybına maruz kaldığını, kur’ada müvekkiline isabet eden daire için kooperatifin haksız olarak kendisinden kat ve cephe parası tahsil ettiğini, dairenin tapusunun halen verilmediğini ileri sürerek, dairenin tapusunun iptali ile müvekkili adına tesciline, 9.000,00 TL kat ve cephe farkı, 10.000,00 TL eksiklikler için yapılan harcama bedeli ve 5.000,00 TL kira tazminatı olmak üzere toplam 24.000,00 TL'nin davalılardan müştereken ve müteselsilen tahsiline karar verilmesini talep ve dava etmiştir.
 
@@ -95,6 +103,8 @@ SONUÇ: Yukarıda açıklanan nedenlerle, davalılar vekilinin diğer temyiz iti
 
 ## Yargıtay 23. HD 2013/7815 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/526483600)
+
 Davacı vekili, taraflar arasında imzalanan arsa payı karşılığı inşaat sözleşmesi gereğince, davacı yüklenici tarafın, inşaatı tamamladığını ve kesin kabulünün yapıldığını ileri sürerek, yükleniciye isabet eden dava konusu bağımsız bölümlerin devrinin yapılması ve devri yapılmayan iki adet daire için gecikme tazminatının ve fazladan yapılan imalat bedelinin tahsilini talep ve dava etmiş; davalı kooperatif, birleşen davasında, yüklenici şirketin inşaatı süresinde teslim etmediğini, eksik ve ayıplı olarak işten el çektiğini ve ödemesi gereken cins tashihi ve alt yapı katılım bedellerini onun adına arsa sahibi kooperatifin ödediğini ileri sürerek, gecikme cezası, eksik ve kusurlu işbedeli ile cins tashihi ve alt yapı katılım bedellerinin davacı birleşen davada davalı yüklenici şirketten tahsilini talep ve dava etmiştir.
 
 …
@@ -113,9 +123,13 @@ SONUÇ:Yukarıda (1) numaralı bentte açıklanan nedenlerle, taraf vekillerinin
 
 ## Yargıtay 23. HD 2013/7737 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/525900800)
+
 Yargıtay ilamında belirtilen gerektirici sebeplere ve özellikle noter onaylı kat irtifak listesinde arsa sahibi mirasçısı davacı ...’e verilen 23 numaralı bağımsız bölümün arsa payına dayalı olup, davalı kooperatifçe temyiz aşamasında sunulan dava dışı...’nın kooperatif üyesi olduğunun tespitine ilişkin ilamın, hisse devir sözleşmesine dayanmasına ve anılan ilam yargılama sırasında sunulsa dahi sonuca etkili olmayacağının tabii bulunmasına göre, asıl ve birleşen davalarda davalı kooperatif vekilinin HUMK'nın 440. maddesinde sayılan hallerden hiçbirisine uymayan karar düzeltme itirazlarının reddi gerekmiştir.
 
 ## Yargıtay 23. HD 2013/6638 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/508639500)
 
 Davacı vekili, davalı-yüklenici kooperatif ile diğer davalıların murisi arasında arsa payı karşılığı inşaat sözleşmesi imzalandığını, müvekkilinin arsa sahibi davalılar murisinden 1998 yılında üç adet bağımsız bölüm satın aldığını, ancak davalı yüklenicinin inşaatı tamamlamadığını ileri sürerek, davacının satın aldığı üç adet bağımsız bölüm yönünden toplam 81.000,00 TL kira tazminatının tüm davalılardan kademeli olarak işleyecek faiziyle birlikte tahsilini talep ve dava etmiştir.
 
@@ -141,6 +155,8 @@ SONUÇ: Yukarıda açıklanan nedenlerle, davalı kooperatif vekilinin tüm temy
 
 ## Yargıtay 23. HD 2013/6395 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/510097800)
+
 Davacı vekili, müvekkilinin üyesi olduğu dava dışı kooperatif ile arsa sahibi sıfatıyla davacı ve oğlu olan davalı arasında üç arsa üzerinde inşaat yapılması ve bu inşaatlardan arsa sahiplerine birer daire verilmesi konusunda protokol akdedildiğini, sonrasında kooperatif ile dava dışı şirket arasında inşaat yapım sözleşmesi imzalandığını, müvekkilinin bu şirketin ortaklarından olduğu gibi kooperatif üyesi olarak tüm yükümlülüklerini yerine getirdiğini, üye kayıt defterine davacının tapusunun verileceği yönünde şerh yazıldığını, bitirilen bağımsız bölüm tapularının bir takım sıkıntılar nedeniyle davalı adına yazıldığını, davalının davacıya verdiği vekaletname ile birkaç kooperatif üyesine tapularının verildiğini, vekaletten azledilmesi nedeniyle müvekkiline üyeliğinden dolayı verilmesi gereken dairenin tapusunun teslim edilmediğini ileri sürerek, davalı adına kayıtlı olan ... ili, ... ilçesi, ... köyü, 271 ada, ... parsel sayılı taşınmaz üzerindeki ... numaralı bağımsız bölüm tapusunun iptali ile davacı adına tesciline karar verilmesini talep ve dava etmiştir.
 
 Davalı vekili, uyuşmazlığın inanç sözleşmesine dayandığından yazılı delille ispat edilmesi gerektiğini, resmi işlemle taşınmazın müvekkili adına tescil edildiğini savunarak, davanın reddine karar verilmesini istemiştir.
@@ -158,6 +174,8 @@ Bu aşamadan sonra ise mahkemece, uyuşmazlığa ve sözleşmeye konu taşınmaz
 SONUÇ: Yukarıda (...) numaralı bentte açıklanan nedenlerle, davacı vekilinin temyiz itirazlarının kabulü ile hükmün, davacı yararına BOZULMASINA …
 
 ## Yargıtay 23. HD 2013/5647 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/506994300)
 
 Davacı vekili, müvekkilinin 636 adada kayıtlı taşınmazı üzerinde inşaat yapılmak üzere davalı ile ... ....
 
@@ -178,6 +196,8 @@ SONUÇ: Yukarıda (...) numaralı bentte açıklanan nedenlerle, davacı vekilin
 
 ## Yargıtay 23. HD 2013/4386 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/493703500)
+
 Davacı vekili, müvekkiline tüm yükümlülüklerini yerine getirmesine rağmen ortağı olduğu kooperatifçe tahsis edilen A1 Blok ... nolu dairenin tapusunun verilmediğini, taşınmazın önce davalılardan yüklenici olan ...'ın uhdesine geçirilip, sonra ferdileşme ile eşi diğer davalı ... adına tapu oluşturulduğunu, daha sonra da satış yoluyla davalılardan ... adına tescil edildiğini,...'nin iyiniyetli olmadığını, ... ve ....'in kooperatifin yöneticileri olduğunu, ...'ın davacının ödeme yapması halinde bu dairenin teslimini taahhütname ile üstlendiğini, tüm davalıların haksız ve kötüniyetli hareket etmek suretiyle müvekkilinin zararına olan bu duruma sebebiyet verdiklerini ileri sürerek, öncelikle söz konusu taşınmaza ilişkin tapunun iptali ile müvekkili adına tescilini, mümkün olmadığı takdirde 100.000,00 TL tazminatın davalılardan müştereken ve müteselsilen tahsilini talep ve dava etmiştir.
 
 Davalılar, davanın reddini savunmuştur.
@@ -191,6 +211,8 @@ Yüklenici davalı ... ile kooperatif arasında imzalanan arsa payı karşılı�
 SONUÇ: Yukarıda açıklanan nedenlerle davacı vekilinin karar düzeltme isteminin kabulü ile Dairemizin ........2012 tarih 2012/3113 Esas ve 2012/6756 Karar sayılı bozma ilamının kaldırılmasına …
 
 ## Yargıtay 23. HD 2013/3975 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/490975700)
 
 Davacı vekili, taraflar arasında imzalanan ....02.2004 ve ........2004 tarihli daire ve dükkan karşılığı ... sözleşmeleri gereği, dükkan ve dairenin toplam değeri olan 68.000,00 TL'den ....000,00 TL'sinin nakden ödenmesi, kalan ....000,00 TL'lik kısım için ise davacı kooperatife kapı ve doğrama işi yapılmasının kararlaştırıldığını, ancak üyelik edimlerini yerine getirmediği için üyelikten ihraç edilen ve sözleşmesi feshedilen davacının daire ve dükkanı tahliye etmediğini ileri sürerek, B Blok ... nolu dükkan ile B Blok ... numaralı daireye vaki elatmanın önlenmesini ve tahliyesine karar verilmesini talep ve dava etmiştir.
 
@@ -214,6 +236,8 @@ No'lu dükkanın davalıya üyeliğe bağlı olarak tahsis edilip edilmediği, v
 SONUÇ: Yukarıda açıklanan nedenlerle, davacı vekilinin temyiz itirazlarının kabulü ile hükmün davacı yararına BOZULMASINA …
 
 ## Yargıtay 15. HD 2013/3853 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/257459800)
 
 Davacı ile davalılardan ... ve ...arasında düzenlenen 24.02.2005 tarihli protokolde, arsa payı karşılığı inşaat yapım sözleşmesi uyarınca ...... Evleri Konut Yapı Kooperatifi’nce yapımı taahhüt edilen inşaattan 1. kat 4 nolu bağımsız bölümün davacıya satışı kararlaştırılmış, 21.02.2005 tarihinde anılan dairenin tapusu davacıya devredilmiştir. Eldeki davada bu protokole dayanılarak arsa sahipleri ve yüklenicilerden gecikme tazminatı ile eksik ve ayıplı imalât bedeli istenmektedir. Arsa sahipleri ile ...... Evleri Konut Yapı Kooperatifi arasında 13.12.1998 tarihinde asıl, 08.02.2002 tarihinde arsa payı karşılığı inşaat sözleşmesi imzalanmış, 22.07.2004 tarihinde ise bu sözleşmeler feshedilerek 22416 ada 1 parsel üzerinde 10 adedi arsa sahiplerine 12 adedi kooperatife verilmek üzere yeni bir inşaat sözleşmesi imzalanmış, 29.06.2006 tarihinde ...... Evleri Konut Yapı Kooperatifi, tüm hak ve sorumlulukları ile birlikte sözleşmeyi .... Yapı Kooperatifi’ne devretmiş, devralan kooperatif ile arsa sahipleri arasında 04.08.2007 ve 05.12.2011 tarihlerinde protokoller imzalanmak suretiyle devire onay verilmiştir.
 Davacı satış protokolüne dayanarak gecikme tazminatı ve eksik iş bedeli istemiş ise de, arsa sahipleriyle arasındaki akdî ilişki gayrimenkul satışına ilişkin olup 818 Sayılı Borçlar Yasası’nın satış hükümlerinin uygulanması gerekir. Davalı arsa sahipleri ile kooperatifler arasındaki ilişki ise anılan Yasa’nın 355 ve devamı maddelerinde düzenlenen eser sözleşmelerinin bir türü olan arsa payı karşılığı inşaat sözleşmesidir. Davacının dayandığı daire satışı konusundaki protokolde, arsa sahiplerinin eser sözleşmesinden kaynaklanan hak ve alacaklarını davacıya temlik ettikleri belirtilmediği gibi, aksine gününde teslimin gerçekleşmemesi halinde kooperatiften arsa sahiplerinin alacakları tazminatları makul sürede davacı satın alana ödemeyi taahhüt ettikleri anlaşılmaktadır. Nitekim 05.12.2011 tarihli protokolde de gecikme tazminatına karşılık arsa sahiplerine kooperatifçe 40.000,00 TL tazminat ödenmesi kabul edilmiştir. Öte yandan davacının dairesinin yargılama aşamasında tamamlanarak 15.02.2010 tarihinde eksiksiz teslim edildiği davacının imzasının bulunduğu tutanak içeriği ile de sabit olmuştur.

@@ -22,6 +22,8 @@ uyari: "Derleyenin seçtiği alıntılardır; kararın tamamı değildir. Künye
 
 ## Yargıtay 15. HD 2010/7133 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/778120600)
+
 Davacı arsa sahibi ile davalı yüklenici kooperatif arasındaki 24.02.1994 tarihli düzenleme şeklinde kat karşılığı inşaat sözleşmesini davalı ... da imzalamıştır. ...’un adı altında müşterek borçlu ve müteselsil kefil yazılıdır. Mahkemece davalı ...’un kefil konumunda olduğu, sorumluluğu için yasal koşulların oluşmadığı gerekçesiyle ... yönünden davanın reddine karar verilmiştir. Sözleşmenin 13. maddesinde ...’un kooperatifin arsa sahibine karşı bu sözleşmedeki tüm yükümlülüklerini yerine getirmesine kefil olduğu düzenlemesine yer verilmiştir. Sözleşmede kefil sözcüğü kullanılmışsa da, özellikle 13. madde içeriği sorumluluğun sınırlandırılmamış olması ve ...’un konumu dikkate alındığında, bu davalının yüklenici kooperatifin fiilini taahhüt eden durumunda olduğu, BK’nın 110. maddesine göre sorumluluğunun bulunduğu sonucuna varılmaktadır. Bu durumda davalı ... hakkında BK’nın 110. maddesine göre değerlendirme yapılıp hüküm kurulması gerekirken, sözleşmedeki kefil sözcüğü dikkate alınarak, sorumluluğu için yasal koşulların oluşmadığı gerekçesiyle hakkındaki davanın reddine karar verilmesi doğru olmamıştır.
 
 …
@@ -29,6 +31,8 @@ Davacı arsa sahibi ile davalı yüklenici kooperatif arasındaki 24.02.1994 tar
 SONUÇ:Yukarıda 1. bentte yazılı nedenlerle yüklenici kooperatifin tüm, arsa sahibi ...’ın sair temyiz itirazlarının reddine, kararın 2. bent uyarınca arsa sahibi yararına, davalı ... aleyhine, 3. bent uyarınca arsa sahibi yararına, kooperatif aleyhine BOZULMASINA …
 
 ## Yargıtay 15. HD 2010/5667 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/778082000)
 
 Dava, arsa payı karşılığı inşaat yapım sözleşmesi uyarınca imar uygulaması sonucu davalı yüklenici adına oluşan tapu kayıtlarının iptâl ve tescili istemine ilişkindir.
 
@@ -43,6 +47,8 @@ SONUÇ:Yukarıda açıklanan nedenlerle temyiz itirazlarının kabulü ile hükm
 
 ## Yargıtay 15. HD 2010/4547 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/774973900)
+
 Davaya dayanak alınan 16.08.1995 tarihli sözleşmede inşaatın anahtar teslimi suretiyle ve iskan ruhsatı alınarak teslim edileceği kabul edilmiştir. Tapuların inşatın aşamasına göre devredileceği öngörülmemiştir. Bu durumda BK'nın 364. maddesi uyarınca inşaatın iskan ruhsatı alınmak suretiyle tesliminden sonra arsa sahiplerinin tapu devri borçlarının doğacağı ortadadır. Dosya kapsamı ve alınan bilirkişi raporlarına göre inşaatın proje ve ruhsatına göre tamamen ikmâl edilmediği anlaşıldığı gibi genel iskan ruhsatının alınmadığı da sabittir.
 Birleşen davalarda tapu iptâli ve tescil istemi kabul edilmiş ise de arsa sahiplerinden...dışındaki hissedarların davaya karşı çıktıklarından mahkemece inşaatla ilgili parsel hakkında idari yargıda açılan dava sonucu da gözetilirek iskan ruhsatı alma imkanı mevcut ise kooperatife bu konuda işlem yapmak ve inşaatı tamamlamak üzere yetki ve süre verilmeli bu süre sonunda inşaat ikmâl olunduğu ve iskan ruhsatı da alındığı takdirde birleşen davalar (tapu iptâli tescil davaları) kabul edilmeli, mehil sonunda iskan ruhsatı alınmadığı takdirde reddedilmeli, inşaat kısmen ikmâl edilmesine rağmen iskan ruhsatı alınabildiği takdirde ise inşaatın getirildiği seviyeye göre yüklenici kooperatifin hakettiği oranda tapu iptâli ve kooperatif adına tesciline karar verilmelidir.
 
@@ -51,6 +57,8 @@ Birleşen davalarda tapu iptâli ve tescil istemi kabul edilmiş ise de arsa sah
 SONUÇ:Yukarıda 1. bentte yazılı nedenlerle sair temyiz itirazlarının reddine, 2. bent uyarınca kabulüyle hükmün birleşen davaların davalıları ...,...,...,...., ...., ve... yararlarına BOZULMASINA …
 
 ## Yargıtay 11. HD 2010/4498 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1016742000)
 
 Davacı vekili, davalı kooperatife ait konutların yapım işinin davalı şirket tarafından üstlenildiğini, müvekkilinin de davalı şirketin ortağı olduğunu, dava dışı arsa sahipleri ile kooperatifin kat karşılığı inşaat sözleşmesi yaptığını, ... isimli arsa sahibinin 5 adet dairenin bedelini istemesi üzerine para veren şirket ortaklarından birisinin de müvekkilinin olduğunu ve müvekkilinin kooperatif ortağı olduğuna ilişkin ortaklık belgesi verildiğini, daha sonra müvekkilinin 03.09.2002 tarihinde şirketteki payını dava dışı üçüncü kişiye bir daire karşılığı devrettiğini, şirketin de 30.08.2002 tarihli ortaklar kurulu kararı ile arsa sahibi ...’in şirkete vermesi gereken “ D” bloktaki dairelerden birini müvekkiline vermeyi kabul ve taahhüt ettiklerini, ancak talebine rağmen dairenin teslim edilmediğini ileri sürerek, D bloktaki dairelerden bir tanesinin teslimine ve dairenin müvekkiline ait olduğunun tespitine karar verilmesini talep ve dava etmiştir.
 
@@ -70,6 +78,8 @@ SONUÇ: Yukarıda (1) numaralı bentte açıklanan nedenlerle davacı vekilinin 
 
 ## Yargıtay 15. HD 2010/4261 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/774824800)
+
 Her ne kadar sözleşmede üzerine inşaat yapılacak taşınmaz aynen “33 pafta 2079 adadaki 10.0404 m2’lik gayrimenkul” şeklinde tanımlanmış ve dava sırasında arsa sahipleri 2079 parsel alanının esasen 11.040 m2 olup bu miktarın 1000 m2’sinin yüklenici kooperatife devrini amaçlamadıklarını ileri sürmüşlerse de, dosya kapsamında mevcut bulunan 29.07.1986 tarihli akit tablosundan arsa sahiplerinin tapuda “bizzat” 11.040 m2 miktarlı ... parseli kooperatife devretmeleri, yine sözleşmede taşınmazın kısmen devrinin kararlaştırıldığına ilişkin herhangi bir ifadeye yer verilmemiş olması, hatta taşınmaz üzerinde bulunan arsa sahiplerine ait müştemilatın gerektiğinde yıkılarak kendilerine inşaatın bitimine kadar bir dairenin kiralanacağının belirtilmesi karşısında anılan savunmanın yerinde olmadığı anlaşılmıştır.
 
 Yanlar arasında düzenlenen ve uyuşmazlığın kaynağını oluşturan 25.06.1986 tarihli sözleşmede arsa devri karşılığında bağımsız bölüm teslimi taahhüt edilmiş olmakla hukuki niteliğince BK’nın 355 ve devamı maddelerinde düzenlenen eser sözleşmelerinin kendine özgü bir türü olan arsa payı karşılığı inşaat sözleşmesidir. Bahsi geçen sözleşmelerin tapu devri taahhüdü içermeleri nedeniyle BK’nın 213, MK’nın 706, Tapu Kanunu’nun 26 ve Noterlik Kanunu’nun 60. madde hükümleri gereğince bizzat tapu memuru huzurunda veya noter aracılığı ile düzenleme şeklinde yapılmaları geçerlik koşuludur. 25.06.1986 günlü sözleşme bu geçerlik koşuluna uygun olmayıp adi yazılı şekilde düzenlendiği için ilke olarak geçersiz ise de arsa sahiplerince devri taahhüt edilen taşınmaz 29.07.1986 tarihinde kooperatif adına tescil edilmiş olduğundan artık şekil eksikliğinin ileri sürülmesi hakkın kötüye kullanılmasını teşkil edeceği için (MK.2.m.) Yargıtay İçtihadı Birleştirme Büyük Genel Kurulu’nun 30.09.1988 T., 1987/2 E., 1988/2 K. sayılı içtihadı birleştirme kararı gereği anılan sözleşmenin geçerli hale geldiğinin kabulü zorunludur.
@@ -79,6 +89,8 @@ Yanlar arasında düzenlenen ve uyuşmazlığın kaynağını oluşturan 25.06.1
 SONUÇ:Yukarıda 1. bentte açıklanan nedenlerle davalı-birleşen dava davacıları arsa sahiplerinin diğer temyiz itirazlarının reddine, 2. ve 3. bentler uyarınca hükmün davalı-birleşen dava davacıları arsa sahipleri yararına BOZULMASINA …
 
 ## Yargıtay 15. HD 2010/4224 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/774775200)
 
 Mahkemece, yüklenici payının %69,89, arsa sahipleri payının %30,11 olarak tespitine, bu oranların ve fiili paylaşım şeklinin kat irtifakı kurulması sırasında gözönünde tutulmasına, muarazanın bu şekilde giderilmesine, davacıların diğer istemleri ile arsa sahiplerinin gecikme tazminatı istemlerinin reddine, kat irtifakının kurulması yönünden mahkemenin görevsizliğine karar verilmiş, karar ... dışındaki taraf vekillerince temyiz edilmiştir.
 
@@ -92,6 +104,8 @@ SONUÇ: Yukarıda 1. bentte yazılı nedenlerle tarafların sair temyiz itirazla
 
 ## Yargıtay 15. HD 2010/2983 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/776252300)
+
 Taraflar arasındaki sözleşmede arsaların tamamının kullanılması ve üzerlerine konut yapılması kararlaştırılmıştır. Davaya konu teşkil eden 295 ada 2 parsel tapu kaydında gazino ve arsası niteliğinde, 295 ada 3 parsel ise arsa niteliğinde olup, imar planına göre yeşil alanın içerisinde yer almaktadır. Bu parselin bir bölümüne ruhsatsız olarak arıtma tesisi yapıldığı bilirkişi raporundan anlaşılmaktadır. Davaya konu teşkil eden her iki parsel üzerine konut yapılmamış olması ve yapılmasının mümkün bulunmaması, davacıların bu parsellerde hak sahibi olmalarını engelleyecek nitelikte değildir. Taraflar arasındaki sözleşmede konut yapılamayan alanlar veya parsellerin yüklenici kooperatife bırakılacağına ilişkin bir düzenleme yer almamaktadır.
 Bu durumda gazino binası arsası olarak tapuya kayıtlı olan 295 ada 2 parsel numaralı taşınmazın tamamıyla, tapu kaydına göre arsa niteliğinde olan 295 ada 3 parsel numaralı taşınmazdaki davalı kooperatif adına tapuda kayıtlı olan pay üzerinde davacıların kök tapu kayıtlarındaki payları dikkate alınarak hesaplanacak payları oranında davanın kabulüne karar verilmesi gerekirken, her iki parsel üzerine konut yapılmasının mümkün olmadığı gerekçesiyle yazılı şekilde davanın reddine karar verilmesi doğru olmamıştır.
 
@@ -100,6 +114,8 @@ Bu durumda gazino binası arsası olarak tapuya kayıtlı olan 295 ada 2 parsel 
 SONUÇ:Yukarıda açıklanan nedenlerle kararın davacılar yararına BOZULMASINA …
 
 ## Yargıtay 15. HD 2010/1910 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/773953600)
 
 Mahkemece, davanın kabulüne, dava konusu trafo binasının mimari projeye uygun hale getirilmesi için davalı Kooperatife 30 gün süre verilmesine; bu süre içerisinde trafo binasının sökülerek eski hale getirilmemesi durumunda davacılar tarafından başvurulduğunda Seferihisar İcra Müdürlüğü tarafından trafo binasının sökülerek, taşınmazın eski hale getirilmesine; mimari projede yer almakla birlikte taşınmaz üzerinde inşaa edilmeyen bekçi evinin projede belirtilen yerine yapılmasına karar verilmiş ve verilen karar, davalı vekilince temyiz edilmiştir.
 
@@ -111,6 +127,8 @@ SONUÇ: Yukarıda açıklanan sebeplerle davalı vekilinin temyiz itirazlarını
 
 ## Yargıtay 15. HD 2010/509 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/773696900)
+
 Dava, arsa payı karşılığı inşaat yapım sözleşmesi uyarınca gecikme tazminatı alacağının tahsili istemine ilişkindir.
 
 …
@@ -121,12 +139,16 @@ SONUÇ: Yukarıda (1.) bendde açıklanan nedenlerle davalının diğer temyiz i
 
 ## Yargıtay 15. HD 2010/446 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/773607600)
+
 Taraflar arasında 05.06.2001 tarihinde düzenlenen Kat Karşılığı İnşaat Yapım Sözleşmesine göre davacı arsa sahiplerine 1 nolu parsel üzerindeki bloktan 6 dükkan 27 adet daire teslim edilecektir. Sözleşmenin 3. maddesine göre inşaatın teslim tarihi 30.06.2006 tarihidir. Sözleşme uyarınca inşaat anahtar teslimi yapılarak davacılara teslim edilecek, kooperatifin arsa sahiplerine ait bağımsız bölümleri teslim ettiği zaman tapu kooperatife devredilecek, inşaatla ilgili her türlü masraflar ve Belediye ile ilgili harçlar ve vergiler yüklenici kooperatif tarafından karşılanacaktır. Davalı kooperatif sözleşmenin akdîni müteakip ruhsat almadan inşaata başlamış, 12.10.2006 tarihinde yapılan tespite göre 1 nolu parsel üzerindeki inşaat tamamen bitmiştir.
 Davacılara ait bağımsız bölümlerin dava tarihi itibariyle teslim edilmediği dosya kapsamı delillerle sabit olup, davalı yüklenici inşaata ruhsat almadan başladığından anahtar teslimi, teslim taahhüdünde bulunulması ve sözleşmenin 2. maddesinde Belediye ile ilgili her türlü harçların yükleniciye ait olduğunun kabul edilmesi, sözleşmenin akdinden sonra ruhsat alınması veya bu konuda vekâlet verilmesi için davacı arsa sahiplerinin temerrüde düşürülmemiş olması nedeniyle davalı kooperatif gecikmeden sorumlu olup sözleşmede kesin olarak belirtilen teslim tarihi ile dava tarihi arasında geçen süre için kira tazminatına hükmedilmesi gerekirken, inşaatın yapım süresinin henüz dolmadığı gerekçesiyle davanın reddine karar verilmesi doğru olmamış, kararın bozulması gerekmiştir.
 
 SONUÇ:Yukarıda açıklanan nedenlerle kararın davacılar yararına BOZULMASINA …
 
 ## Yargıtay 14. HD 2009/8912 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/847298800)
 
 Davalılar, davanın reddini savunmuştur.
 
@@ -143,12 +165,16 @@ SONUÇ: Yukarıda 1.bentte açıklanan nedenlerle davacının diğer temyiz itir
 
 ## Yargıtay 15. HD 2009/7028 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/856192100)
+
 Taraflar arasında biçimine uygun olarak düzenlenen 29.09.1995 tarih ve 16872 yevmiye nolu sözleşmeyle davacı kooperatif davalı arsa sahiplerine ait 156 ada 2 ve 3 nolu parseller üzerine kat karşılığı inşaat yapımını üstlenmiş, 2 parselde yapılacak binadan sekiz adet dairenin arsa sahiplerine, geri kalan sekiz adet daire ile 3 nolu parseldeki tüm dairelerin yüklenici kooperatife ait olacağı kararlaştırılmıştır. Tapusunun iptâli ile kooperatif adına tescili talep edilen 156 ada 3 nolu parsel (792,36 m2) tapuda arsa vasfı ile 1/2 hisse nisbetinde davalılar adına kayıtlıdır. Bu parsel üzerine sözleşmeye uygun olarak 16 daireden oluşan bina inşa edilmiş ise de tapuda kat irtifakı kurulmamıştır. 3 nolu parselde mevcut binanın tamamı kooperatife ait olup kat irtifakı kurulmadığından bu parselin mevcut tapusunun iptâliyle kooperatif adına tesciline karar verilmesi gerekirken, kat irtifakı kurulmuş gibi 16 adet bağımsız bölüm tapusunun iptâli ile kooperatif adına tesciline karar verilmesi doğru olmadığından ve kararın bu hali ile infazı kabil bulunmadığından bozulması gerekmiştir.
 Nevar ki sözü edilen bu yanlışlığın giderilmesi yeniden yargılama yapılmasını gerektirmediğinden HUMK’nın 438/VII. maddesi gereğince hükmün düzeltilerek onanması uygun görülmüştür.
 
 SONUÇ:Yukarıda (1.) bendde yazılı nedenlerle davalıların tüm temyiz itirazlarının reddine; (2.) bent uyarınca yerel mahkeme kararı hüküm fıkrası birinci bendinde yer alan “… 3 parseldeki 1-2-3-4-5-6-7-8-9-10-11-12-13-14-15-16 nolu bağımsız bölümlerin tapularının iptâli ile” kelime dizelerinin hüküm fıkrasından çıkarılmasına yerine “156 ada 3 parseldeki davalı ... adına olan 1/2 hisse tapusu ile davalı ... adına olan 1/2 hisse tapusunun iptâli ile tam hisse olarak” kelimelerinin yazılmasına, hükmün değiştirilmiş bu şekliyle DÜZELTİLEREK ONANMASINA …
 
 ## Yargıtay 15. HD 2009/6977 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/858428100)
 
 Mahkemece, (5) adet daireyle ilgili olarak taleple bağlı kalmak suretiyle 3.000,00 TL üzerinden kabulüne; işyerleriyle ilgili ecrimisil talebinin reddine karar verilmiş ve verilen karar davalı vekilince temyiz edilmiştir.
 
@@ -162,6 +188,8 @@ Davada da 5 adet daire ve bir işyeri için fazlaya ilişkin hakları saklı tut
 SONUÇ: Yukarıda (1.) bendde belirtilen nedenlerle davalı vekilinin sair temyiz itirazlarının reddine; diğer temyiz itirazlarının kabulü ile kararın davalı yararına BOZULMASINA …
 
 ## Yargıtay 15. HD 2009/6902 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/858371100)
 
 Dava, arsa payı karşılığı inşaat sözleşmesinin konusu olan taşınmazdan davalının müdahalesinin men’ine mümkün olmaması halinde fazlaya dair haklar saklı kalmak kaydıyla imalât bedeli, kazanç kaybı, malzeme bedeli alacakları ile davalı arsa sahibi adına belediyeye ödenen paranın istirdadı istemlerine ilişkindir.
 
@@ -178,6 +206,8 @@ SONUÇ: Yukarıda açıklanan nedenlerle temyiz itirazlarının kabulü ile hük
 
 ## Yargıtay 17. HD 2009/6466 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/870766500)
+
 Davacı (üçüncü kişi), Antalya 4.İcra Müdürlüğü’nün 2006/15918 Esas sayılı dosyasında yapılan 07.06.2007 günlü hacze konu inşaat demirinin kendisine ait olduğunu, haciz mahallinin tebligat adresi olmadığını ve bu sırada borçlunun da bulunmadığını, borçlu ... ile davacı şirketin ortağı ... arasında baba-oğul ilişkisinin bulunduğunu,ancak bunun dışında iş ve ortaklık ilişkisinin olmadığını, sunulan fatura,mal teslim ve kantar fişi uyarınca mahcuzun kendisine ait olduğunu kanıtladığını belirterek istihkak iddiasının kabulü ile haczin kaldırılmasına ve tazminata karar verilmesini istemiştir.
 
 …
@@ -191,6 +221,8 @@ davacı (üçüncü kişi) ... Ltd.Şti.
 
 ## Yargıtay 15. HD 2009/6439 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/855830600)
+
 Dava, kat karşılığı inşaat sözleşmesi uyarınca tapu iptâli ve tescil, olmadığı takdirde tazminat istemine ilişkindir.
 
 …
@@ -203,6 +235,8 @@ SONUÇ: Yukarıda 1. bendde yazılı nedenlerle davalının diğer temyiz itiraz
 
 ## Yargıtay 15. HD 2009/6088 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/855324000)
+
 Dava konusu Esentepe Mahallesi 1708 ada 104 parsel numaralı taşınmaza 12 adet bağımsız bölüm yapıldığına göre, bu bağımsız bölümlerin tüm arsa sahipleriyle yüklenici kooperatif arasında yapılan sözleşmeler, diğer parsel üzerine inşaat yapılmasından vazgeçilmiş olması ve vazgeçilen parselden yüklenici kooperatife tapu payı devredilmemiş olması ile mahalli rayiçler değerlendirilmek suretiyle bilirkişi görüşü alınarak taraflar arasında yapılan bağımsız bölümler yönünden paylaşımın belirlenmesi ve bunun sonucuna uygun şekilde arsa sahipleri tarafından açılan davaların değerlendirilip sonuçlandırılması gerekirken, arsa sahipleri ..., ..., ..., ... ve ... tarafından açılan davaların reddine, diğer arsa sahibi ... tarafından açılan ve bu dava ile birleştirilen dava dosyasının tefrikine karar verilmesi doğru olmamıştır.
 
 Yüklenici kooperatif tarafından açılan ve bu dosya ile birleştirilmesine karar verilen 2007/180 Esas sayılı dava dosyasında yüklenici kooperatif üzerine inşaat yapılmayan Sütlüce Mahallesi 7369 ada 8 parsel numaralı taşınmaz için yapılan giderlerin tahsilini istemiş, mahkemece yüklenici kooperatifin birleşen davasının kabulüne karar verilmiştir. Birleşen dosya içerisindeki Dairemizin 22.10.2007 günlü bozma ilâmında, yüklenici şirketin yaptığı imalâtın ve harcamaların arsa sahiplerinin yararına olup olmadığının araştırılmasının gereğine değinilmiştir. Bu dosyada alınan 28.01.2009 tarihli bilirkişi raporunda bilirkişiler tarafından Sütlüce Mahallesi 7369 ada 8 parsel için yapılan giderlerin arsa sahiplerinin faydalanacağı giderler olmadığı bildirilmiştir. Bilirkişilerin bu görüşleri, arsa sahiplerinin ıslah beyanlarına rağmen yüklenici kooperatif tarafından Sütlüce Mahallesi 7369 ada 8 parsel üzerine kooperatifin kendi iradesiyle herhangi bir inşaat yapmamış olması dikkate alındığında, kooperatifin birleşen davasının reddine karar verilmesi gerekirken, kabulüne karar verilmesi hatalı olmuştur.
@@ -213,6 +247,8 @@ SONUÇ:Yukarıda açıklanan nedenlerle kararın temyiz eden davacılar yararın
 
 ## Yargıtay 15. HD 2009/5820 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/854869800)
+
 Davacı arsa sahibi sözleşme uyarınca inşaatların 5 yıl içerisinde bitirilip iskânı alınması gerektiğini, inşaat ruhsatı 29.12.1999 tarihinde alınmış olmakla 29.12.2004 tarihinde iskânı alınarak teslim edilmesi gereken binaların bu güne kadar teslim edilmediğini, kira kaybının konut başına aylık asgâri 250,00 TL’den 15 ay için 131.250,00 TL olduğunu ileri sürerek şimdilik 15.000,00 TL’nin yasal faiziyle birlikte tahsilini istemiş, mahkemece sözleşmeye göre işin süresi temel vizesinin alındığı tarihten itibaren 5 yıl olup temel vizesi 19.04.2004 tarihinde alındığından işin bitim tarihinin 19.04.2009 olduğu, davanın ise süre dolmadan 21.04.2006 tarihinde açıldığı gerekçesiyle gecikme tazminatı talebi reddedilmiştir.
 
 Yanlar arasındaki 04.06.1997 tarihli sözleşmenin 4. maddesine göre "kooperatif belediyenin konut yapımına müsade ettiği tarihten üç ay sonra projelerini onaylatmış ve yapım ruhsatını almış olacaktır. Kooperatif temel vizesini aldığı tarihten sonra 5 yıl içinde tüm konutları bitirecektir", hükmü yer almıştır. Dosya içeriğine göre arsa üzerinde inşa edilen yapılarla ilgili mimâri proje 16.04.1999 tarihinde onaylanmış ve 29.12.1999 tarihinde ruhsata bağlanmıştır. İnşaatın temel vizesinin alındığı tarih ise 19.04.2004 tarihidir. Sözleşme gereği kooperatif temel vizesini aldığı tarihten sonra 5 yıl içinde inşaatları bitirmeyi taahhüt etmiş ise de ruhsat tarihi 29.12.1999’dan itibaren temel vizesinin 19.04.2004 tarihinde alınmış olması nedeniyle aradan geçen uzun süre yüklenicinin temel vizesini almakta geciktiği ve kooperatifin keşide ettiği 10.11.2003 tarihli cevabi ihtarı içeriği de gözetilmeyerek sürenin bu tarihten başlatılması ve davacının gecikme tazminatı talebinin bu sebeple reddi yerinde olmamıştır.
@@ -222,6 +258,8 @@ Yanlar arasındaki 04.06.1997 tarihli sözleşmenin 4. maddesine göre "kooperat
 SONUÇ: Yukarıda (1.) bendde yazılı nedenlerle davacının diğer temyiz itirazlarının reddine, (2.) ve (3.) bentlerde açıklanan nedenlerle hükmün temyiz eden davacı yararına BOZULMASINA …
 
 ## Yargıtay 15. HD 2009/3989 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/856070900)
 
 Dava, kat karşılığı inşaat sözleşmesi uyarınca, öncelikle verilmesi gereken bir adet daire ve bir adet dükkanın kur’a ile tespit edilerek adına tescili, olmadığı takdirde bedellerinin ödenmesine ilişkindir.
 

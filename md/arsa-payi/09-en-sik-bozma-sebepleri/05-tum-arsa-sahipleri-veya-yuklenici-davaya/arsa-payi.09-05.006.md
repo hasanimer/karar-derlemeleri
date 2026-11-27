@@ -22,6 +22,8 @@ uyari: "Derleyenin seçtiği alıntılardır; kararın tamamı değildir. Künye
 
 ## Yargıtay 13. HD 2017/4159 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/325072200)
+
 Davacı, 01/06/2010 tarihinde vefat eden dava dışı ...’ın yasal mirasçısı olduğunu, mülkiyeti murise ait gecekondunun Kuzey ...
 
 …
@@ -38,6 +40,8 @@ Elbirliği halinde mülkiyet hükümlerine tabi bulunan bir terekede, terekeye i
 SONUÇ: Yukarıda (1) numaralı bentte açıklanan nedenlerle temyiz olunan kararın BOZULMASINA …
 
 ## Yargıtay 14. HD 2017/3430 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/361591400)
 
 Davacı vekili; 80 parsel sayılı taşınmazın davalı ...'ya ait olduğunu ve davalı yüklenici ... tarafından taşınmaz üzerine arsa payı karşılığı inşaat sözleşmesi uyarınca apartman yapıldığını, davacının yükleniciye düşen 9 nolu bağımsız bölümü 16.03.2011 tarihli sözleşme ile satın alıp, 2013 yılının Ağustos ayı itibariyle de daireyi eksiklikleriyle birlikte teslim aldığını ve o günden beri taşınmazı fiilen kullandığını, ancak taşınmaza ait tapu devrinin yapılmadığını ileri sürerek; tapu iptali ve tescil, mümkün değilse yapılan masraflarla birlikte taşınmazın güncel değerinin tespiti ile ödenmesine karar verilmesini talep etmiştir.
 
@@ -57,6 +61,8 @@ SONUÇ: Açıklanan nedenlerle, davacı ... ile davalı ...'nın karar düzeltme
 
 ## Yargıtay 23. HD 2017/904 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/352549700)
+
 Davacılar vekili, davalı yüklenici ile müvekkilleri arasında arsa payı karşılığı inşaat sözleşmesi imzalandığını, uzun süre geçmesine rağmen inşaatın tamamlanmadığını, ifasına yönelik beklenti ve güvenlerinin kalmadığını ileri sürerek, sözleşmenin feshi ile davacı ...'ın davalıya devrettiği tapu kayıtlarının iptali ile davacı ... adına tescilini talep ve dava etmiştir.
 
 Mahkemece, tüm dosya kapsamından, sözleşme konusu arsanın imar uygulaması sonucu birçok parselle ifraz olduğu, imar planının idare mahkemesince iptal edildiği, tekrar imar planı yapıldığı, belediyenin yazısında bildirilen imar durumuna ve fiili durumuna göre sözleşmenin ifasının imkansız olduğu, yapılan binanın ruhsatsız ve kaçak olduğu gerekçesiyle, davanın kabulüne karar verilmiştir.
@@ -71,6 +77,8 @@ Bu durumda, mahkemece geçersiz olan sözleşmenin geçersizliğinin tespitine k
 SONUÇ: Yukarıda (1) numaralı bentte açıklanan nedenlerle, davalı ... vekili ve davalı kooperatifin diğer temyiz itirazlarının reddine, (2) numaralı bentte açıklanan nedenlerle, temyiz itirazının kabulü ile kararın hüküm bölümünün üçüncü paragrafında yer alan “FESHİNE” kelimesinin hüküm fıkrasından çıkarılarak yerine “geçersizliğinin tespitine" ibaresinin eklenmesine; hükmün bu şekilde DÜZELTİLEREK ONANMASINA …
 
 ## Yargıtay 14. HD 2016/5658 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/222852400)
 
 Dava, yükleniciden temlik alınan kişisel hakka dayalı tapu iptali ve tescil ile kira bedelinin tahsili, mümkün olmadığı takdirde tazminat isteğine ilişkindir.
 
@@ -94,6 +102,8 @@ SONUÇ: Yukarıda açıklanan nedenlerle temyiz olunan hükmün BOZULMASINA …
 
 ## Yargıtay 23. HD 2016/3522 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/238493100)
+
 Davacılar vekili, davalı ...'in. arsa malikleri olan müvekkillerine vekalelen diğer davalılar ile 22.08.2006 tarihli arsa payı karşılığı inşaat ve 31.07.2006 tarihli taşınmaz satış vaadi sözleşmesi düzenlediğini, davalılar ....'un yüklenici ve satın alan olduklarını, davalı ...'un, taşınmazları çok düşük bedelle muvazaalı olarak diğer davalılara sattığını, müvekkillerinin zarara uğratıldığını ileri sürerek, sözleşmesinin feshini talep ve dava etmiştir.
 
 Davalı ..., 28.07.2001 tarihinden beri davacıların taşınmazları ile ilgili işlemleri vekil olarak yaptığını, iddiaların yersiz olduğunu savunarak, davanın reddini istemiştir.
@@ -112,6 +122,8 @@ SONUÇ: Yukarıda (1) numaralı bentte açıklanan nedenlerle, davacılar vekili
 
 ## Yargıtay 23. HD 2016/1990 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/247539400)
+
 Mahkemece iddia, savunma, benimsenen bilirkişi raporu ve tüm dosya kapsamına göre; sözleşme tarihinde taşınmazın bulunduğu yerle ilgili bilinmeyen ve öngörülmeyen 1/1000 ölçekli.....-Eğitim Mahallesi ıslah imar planında semt genelinde yapılan kapsamlı imar planı değişikliğinin mücbir sebep olduğu, bu nedenle taraflar arasında yapılan sözleşmenin ifasının mümkün olmadığı, davalı- karşı davacıların tazminat istemlerine dayanak belgeleri ibraz edemedikleri gerekçesiyle, asıl davanın kabulü ile sözleşmenin feshine ve bu sözleşme ile ilgili şerhin kaldırılmasına, karşı davanın reddine karar verilmiştir.
 
 …
@@ -125,6 +137,8 @@ Bu durumda mahkemece, sözleşmenin tarafı olan diğer arsa sahibi...... ve....
 SONUÇ: Yukarıda (1) numaralı bentte açıklanan nedenlerle, hükmün, asıl dava yönünden re'sen BOZULMASINA …
 
 ## Yargıtay 23. HD 2016/1614 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/237749300)
 
 Davacı arsa sahibi vekili, dava dışı yüklenicinin beş adet bağımsız bölüm inşa ederek, bunlardan iki tanesini müvekkiline vermesi konusunda anlaştıklarını, sonradan tadil sözleşmesi yaparak zeminde tek daire yapılması ve davacıya verilmesinin kararlaştırıldığını, ancak yüklenicinin inşaatı kaba halde bıraktığını, sözleşmeye, mevzuata, imara aykırı imalatlar yaptığını, bodrum kat ve çatı piyesini daireye dönüştürdüğünü, encümence para cezası ve yıkım kararı verildiğini ileri sürerek, taraflar arasındaki arsa payı karşılığı inşaat sözleşmesinin feshine, üçüncü kişi davalılar adına olan tapu kayıtlarının iptali ile davacı adına tesciline karar verilmesini talep ve dava etmiştir.
 
@@ -144,6 +158,8 @@ SONUÇ: Yukarıda (1) numaralı bentte açıklanan nedenlerle, hükmün temyiz e
 
 ## Yargıtay 14. HD 2015/8846 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/128810500)
+
 Dava, yüklenicinin temliki işlemine dayalı tapu iptali ve tescil istemine ilişkindir.
 
 Davacı, dava dışı yüklenici S.. S.. Tur.
@@ -162,6 +178,8 @@ SONUÇ: Temyiz olunan kararın yukarıda açıklanan nedenlerle BOZULMASINA …
 
 ## Yargıtay 23. HD 2015/7850 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/202309700)
+
 Davacı vekili, davacılar ile davalı yüklenici arasında arsa payı karşılığı inşaat sözleşmesi imzalandığını, davalının süresi içinde inşaata başlamadığını ve diğer davalılara muvazaalı olarak tapu devri yaptığını ileri sürerek, davalılar üzerinde olan tapu kayıtlarının iptali ile davacı adına tescilini, mümkün değilse değerinin tahsilini talep ve dava etmiştir.
 
 Mahkemece, tüm dosya kapsamından, davalı yüklenicinin inşaata başlamadığı, davalı yüklenici sözleşmeyi tamamen ifa etmesi halinde tapuya hak kazanacağı gerekçesiyle, sözleşmenin feshine ve davalı taraf üzerindeki tapu kayıtlarının iptali ile davacılar adına tesciline karar verilmiştir.
@@ -179,6 +197,8 @@ SONUÇ: Yukarıda (1) numaralı bentte açıklanan nedenlerle, davalı ... vekil
 
 ## Yargıtay 23. HD 2015/5340 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/201501500)
+
 Mahkemece, iddia, savunma ve dosya kapsamına göre, taraflar arasındaki sözleşmeye göre, 12 no'lu bağımsız bölümün davacıya verilmesi gerekirken 8 no’lu dairenin verildiği, 12 no'lu bağımsız bölümün yüklenici tarafından davalı ...'a satıldığı ve bu satışın muvazaalı yapıldığı kanıtlanamadığından tapu iptali ve tescil talebinin reddine, ancak davacıya verilen 8 no'lu bağımsız bölümün değerinin 12 no’lu bölüme göre değerinin daha az olduğu, yüklenicinin bu nedenle iki daire arasındaki fark kadar sebepsiz zenginleştiği gerekçesiyle, 12.000,00 TL değer farkının davalı şirketten tahsiline karar verilmiştir.
 
 …
@@ -190,6 +210,8 @@ Dava konusu bağımsız bölüm sözleşme ve eki krokiye göre davacı arsa sah
 SONUÇ:Yukarıda (1) numaralı bentte açıklanan nedenlerle, hükmün BOZULMASINA …
 
 ## Yargıtay 23. HD 2015/4416 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/201454100)
 
 Davacılar vekili, müvekkili ... ile davalı arasında imzalanan arsa payı karşılığı inşaat sözleşmesi imzalandığını, 21 nolu dairenin müvekkili ... tarafından haricen kızı olan müvekkili ...'e satıldığını, böylece davacı ...'in babasının haklarına halef olduğunu ve 21 no'lu daire yönünden taraf olarak gösterildiğini, müvekkillerine teslimi gereken dairenin süresinde teslim edilmediğini, ortak alanlarda ve müvekkiline teslimi gereken bağımsız bölümlerde bir kısım eksik ve ayıplı imalatlar bulunduğunu, bu nedenle iskân alınmadığını, müvekkili ...'ın 13 ve 26 nolu dairelere yerleşebilmek için bu dairelerdeki eksik işler için harcamada bulunduğunu ileri sürerek, kira tazminatından şimdilik 1.000,00 TL, ayıplı iş bedelinden (nefaset farkından) şimdilik 1.000,00 TL, müvekkili ...'ın giderdiği eksikliklerden şimdilik 1.000,00 TL ve eksik iş bedelinden şimdilik 5.000,00 TL olmak üzere toplam 8.000,00 TL bedelin avans faizi ile birlikte davalıdan tahsiline, avans niteliğindeki masrafların karşılanması amacıyla ... parselde bulunan yüklenici hisselerinin satışı için müvekkiline yetki ve izin verilmesine, yapı kullanma izin belgesi alınması için yapılması gereken harcamalar ve mahkemece tespit
 edilecek diğer eksikliklerin tamamlanması için müvekkiline ifa yetkisi verilmesine karar verilmesini talep ve dava etmiştir.
@@ -215,6 +237,8 @@ SONUÇ: Yukarıda açıklanan nedenlerle, davacılar vekilinin temyiz itirazlar�
 
 ## Yargıtay 23. HD 2015/4271 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/200886800)
+
 Davacı arsa sahibi ... vekili, taraflar arasında düzenlenen .... Noterliği'nin 27.07.2004 tarih ve 14526 yevmiye sayılı arsa payı karşılığı inşaat sözleşmesinin davalının zorlaması ile imzalandığını, taşınmaz hissedarlarından bir kısmı ile halen sözleşme yapılamadığını, bu konuda ortaklığın giderilmesi davası açıldığını, ayrıca açılan idari dava ile de imar planının iptaline karar verildiğini, borcun ifasının mümkün olmadığını ileri sürerek, sözleşmenin feshine ve tapu kaydına konulan şerhin terkinine karar verilmesini istemiştir.
 
 Davalı yüklenici ... Şti. vekili ise, davacı iddialarının doğru olmadığını, sözleşmenin akdi sırasında imar planının bulunduğunu, imar planının iptaline ilişkin kesinleşmiş bir mahkeme kararı bulunmadığını, diğer hissedarlarla sözleşme imzalanmamış olmasının sözleşmenin geçersizliğine neden olmayacağını savunarak, davanın reddine karar verilmesini istemiştir.
@@ -236,6 +260,8 @@ SONUÇ : Yukarıda açıklanan nedenlerle; hükmün temyiz eden davalı yararın
 
 ## Yargıtay 23. HD 2015/2544 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/202892800)
+
 Davacılar vekili, müvekkili arsa sahipleri ile davalı yüklenici arasındaki arsa payı karşılığı inşaat sözleşmesi gereğince inşaatın temel üstü ruhsatından itibaren 20 ay içinde bitirilip teslimi gerekirken yüklenicinin inşaata başlamadığını ileri sürerek, sözleşmenin feshi ile fazlaya ilişkin hakları saklı kalmak kaydı ile 20.000,00 TL maddi, 20.000,00 TL manevi tazminatın davalılardan tahsiline karar verilmesini talep ve dava etmiştir.
 
 Davalı vekili, müvekkili yüklenicinin sözleşme gereğince edimlerini yerine getirmek için hemen işe başladığını, gecikmede müvekkilinin bir kusurunun bulunmadığını savunarak, davanın reddini istemiştir.
@@ -253,6 +279,8 @@ Bu durumda, davadaki fesih talebinin dinlenebilmesi için, TMK'nın 692. maddesi
 SONUÇ: Yukarıda (1) bendde açıklanan nedenlerle, davalı vekilinin temyiz itirazlarının kabulü ile mahkeme kararının BOZULMASINA …
 
 ## Yargıtay 23. HD 2015/318 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/200076400)
 
 Öte yandan, davaya konu taşınmazlardaki tüm paydaşlarla arsa payı karşılığı inşaat sözleşmesi imzalandığı ya da sözleşmeye onaylarının bulunduğunun belirlenmesi halinde ise, sözleşmenin feshi ya da iptali davası olağanüstü tasarruf niteliğinde bulunduğundan, mahkemece, feshi istenen 17.07.2002 tarihli sözleşmede imzası bulunan ... ile davaya konu taşınmazların diğer paydaşlarının yine davada zorunlu dava arkadaşı olduğu gözetilerek, diğer paydaşların HMK'nın 59 ve 60. madde hükümleri uyarınca davaya dahil edilmesi için davacı yana önel verilerek taraf teşkili sağlandıktan sonra iddia ve savunma üzerinde durularak yargılamaya devam edilmesi gerekirken, eksik taraf teşkili ile yazılı şekilde hüküm kurulması doğru olmamıştır.
 

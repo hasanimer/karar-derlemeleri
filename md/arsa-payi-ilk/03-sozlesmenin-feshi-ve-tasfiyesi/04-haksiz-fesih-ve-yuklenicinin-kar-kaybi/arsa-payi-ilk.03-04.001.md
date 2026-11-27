@@ -20,12 +20,18 @@ uyari: "Derleyenin seçtiği alıntılardır; kararın tamamı değildir. Künye
 
 ## Yargıtay HGK 2023/118 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/897478600)
+
 Bu durumda asıl davada, taraflar arasından imzalanan arsa payı karşılığı inşaat sözleşmesinin arsa sahiplerince haksız olarak feshedildiğinin tespitine dair verilen karar kesinleşmekle, sözleşmenin arsa sahiplerinin kusuru ile feshedilmesi durumunda kusursuz olan yüklenicinin arsa sahiplerinden müspet zarar kapsamında kâr kaybını talep etmesi mümkündür.
 
 ## Yargıtay 6. HD 2025/4282 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1199188300)
+
 Müspet zarar kapsamında kâr kaybı, kârdan mahrum kalma karşılığı meydana gelen zarardır ve sözleşmeyi kusuruyla fesheden taraftan istenir.
 
 ## Yargıtay 6. HD 2024/2903 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1091952000)
 
 İlk derece mahkemesince, davacı yüklenicinin tam kusurlu olduğu gerekçesiyle davanın reddine karar verilmiş ise de, taraflar arasında imzalanan sözleşmede her ne kadar kentsel dönüşüm ile ilgili bir düzenleme yer almamış ise de, davalı arsa sahiplerince sözleşme tarihinde davacı yükleniciye verilen vekaletname kapsamında kentsel dönüşüm işlemlerinin de olduğu, davalı arsa sahibi ...’in kentsel dönüşüm kapsamında kira yardımı almak için Temmuz 2015 tarihine kadar sözleşme konusu taşınmazda bulunan eski evde oturmaya devam ettiği, böylelikle davalıların sözleşmeye konu taşınmazda kentsel dönüşüm işine muvafakat ettikleri anlaşılmış olup, Temmuz 2015 tarihine kadar sözleşmeye konu taşınmazı inşaat yapmak üzere davacı yükleniciye teslim etmeyerek davalı arsa sahiplerinin de işin gecikmesinde kusurlu oldukları anlaşıldığından tarafların ortak kusurlu olduğunun kabulü gerekir. Ortak kusur durumunda davacı yüklenici müspet zarar kapsamında kar kaybı isteyemeyeceğinden, mahkemece bu nedenle kar kaybı talebinin reddine karar verilmesi gerekirken, davacı yüklenicinin tam kusurlu kabul edilerek red kararı verilmesi doğru olmamıştır.

@@ -22,6 +22,8 @@ uyari: "Derleyenin seçtiği alıntılardır; kararın tamamı değildir. Künye
 
 ## Danıştay 6. D. 2020/11357 E., 2021/10336 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/706416900)
+
 DAVANIN KONUSU : 6306 sayılı Kanun uyarınca 23/10/2019 tarih ve 1694 sayılı Cumhurbaşkanı Kararı ile ilan edilen riskli alan kararı kapsamında kalan Ankara İli, Altındağ İlçesi, …Mahallesi sınırları içerisinde bulunan taşınmazların, bölgedeki sağlıksız yapılaşmanın çözümüne yönelik projenin ivedilikle hayata geçirilmesi amacıyla Toplu Konut İdaresi Başkanlığı tarafından 2942 sayılı Kamulaştırma Kanununun 27. maddesi uyarınca acele kamulaştırılmasına ilişkin 21/04/2020 tarih ve 31106 sayılı Resmi Gazete'de yayımlanan 20/04/2020 tarih ve 2449 sayılı Cumhurbaşkanı Kararının, …ada, …parsel sayılı taşınmaz yönünden iptali istenilmektedir.
 
 DAVACILARIN İDDİALARI: 6306 sayılı Kanun ve bu Kanun uyarınca çıkarılan Uygulama Yönetmeliği uyarınca taşınmazın bulunduğu bölgede usulüne uygun etüt çalışması yapılarak riskli yapılar ile riskli alan ve rezerv yapı alanların tespit edilmesi gerektiği, davaya konu taşınmazla ilgili olarak gerek taşınmaz sahibinin talebi üzerine gerekse resen idare tarafından herhangi bir çalışma yapılmadığı, 6306 sayılı Kanunun Ek-1. maddesi kapsamında tespit yapılmadığı, acele kamulaştırma kararı alınabilmesi için kamu yararının olması gerektiği, riskli alan yada riski yapı tespit edilmesi halinin acele kamulaştırma şartlarından olmadığı, acele kamulaştırma halleri Kanunda sınırlı olarak sayıldığından acele kamulaştırma yapılmasının mümkün olmadığı, acele kamulaştırmanın kapsam ve çerçevesinin belirlenmediği, genel tutulduğu, mülkiyet hakkının ihlal edildiği ileri sürülmektedir.
@@ -31,6 +33,8 @@ DAVACILARIN İDDİALARI: 6306 sayılı Kanun ve bu Kanun uyarınca çıkarılan 
 Bu durumda, davacılara ait taşınmazın da aralarında bulunduğu taşınmazların 2942 sayılı Kamulaştırma Kanununun 27. maddesi uyarınca acele kamulaştırılmasına ilişkin dava konusu işlemde hukuka uyarlık bulunmadığından dava konusu işlemin iptaline karar verilmesi gerektiği düşüncesiyle aksi yöndeki Dairemizin çoğunluk kararına katılmıyorum.
 
 ## Danıştay 6. D. 2020/3451 E., 2021/8817 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/680557000)
 
 Davanın açıldığı tarih itibarıyla yürürlükte olan; 6306 sayılı Afet Riski Altındaki Alanların Dönüştürülmesi Hakkında Kanunun 5.maddesinin 1. fıkrasında; "Riskli yapıların yıktırılmasında ve bunların bulunduğu alanlar ile riskli alanlar ve rezerv yapı alanlarındaki uygulamalarda, öncelikli olarak malikler ile anlaşma yoluna gidilmesi esastır. Anlaşma ile tahliye edilen yapıların maliklerine veya malik olmasalar bile kiracı veya sınırlı ayni hak sahibi olarak bu yapılarda ikamet edenlere veya bu yapılarda işyeri bulunanlara geçici konut veya işyeri tahsisi ya da kira yardımı yapılabilir." hükmü öngörülmüştür.
 
@@ -43,6 +47,8 @@ Davanın açıldığı tarih itibarıyla yürürlükte olan; 6306 sayılı Afet 
 Kadıköy Belediye Başkanlığı Yapı Kontrol Müdürlüğü’nün … tarih, E. … sayılı işlemi ile ve yoksun kalındığı ileri sürülen kira bedeli yönlerinden DAVANIN REDDİNE …
 
 ## Danıştay 6. D. 2019/13822 E., 2021/8077 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/686877500)
 
 Dairemizin 10/09/2019 tarihli ve E:2019/13822 sayılı ara kararı ile …
 
@@ -68,9 +74,13 @@ yapılarla iç içe olması nedeniyle risk teşkil ettiği, bazı bölgelerinde 
 
 ## Danıştay 6. D. 2020/4645 E., 2021/7609 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/686875200)
+
 DAVACILARIN İDDİALARI : 6306 sayılı Kanun ve Uygulama Yönetmeliği uyarınca bir bölgenin riskli alan ilan edilebilmesi için kanunda belirtilen şartların oluşması gerektiği, dava konusu işlemde riskli alanların belirlenmesine ilişkin Kanun ve Uygulama Yönetmeliğinde belirtilen kriterlerin gözetilmediği, alanın zemin yapısına, üzerindeki imar mevzuatına aykırı olan yapılara ve yıkılmış yapılara yönelik yeterli araştırma yapılmadığı, İdarelerce hazırlanan teknik raporların yapıların hangi yönlerden can ve mal kaybına yol açma riski taşıdığına ilişkin gerekli bilgileri içermediği, raporun değişik bölümlerinde farklı, birbiriyle uyumlu olmayan yapı sayılarının verildiği, tarihsel kent merkezi olan alanın koruma ve kullanma koşullarının belirlenerek, koruma - kullanma dengesinin sağlanması gerekirken riskli alan ilan edilmesinin şehircilik ve koruma ilkelerine aykırı olduğu, işlemin tesis edilmesinde kamu yararı bulunmadığı, yerinden yönetim ilkesine, elverişli bir konuta erişim hakkı ile ilgili düzenlemelere aykırı olduğu ve mülkiyet hakkına müdahale niteliği taşıdığı ileri sürülmüştür.
 
 ## Danıştay 6. D. 2019/19727 E., 2021/7578 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/686921700)
 
 DAVANIN KONUSU : 31/05/2013 günlü, 28663 sayılı Resmi Gazetede yayımlanan, İstanbul İli, Kadıköy ilçesi, … Mahallesi, … pafta, … ada, … ve … parsel sayılı taşınmazların 6306 sayılı Afet Riski Altındaki Alanların Dönüştürülmesi Hakkında Kanunun 2. maddesine göre riskli alan ilan edilmesine ilişkin … tarihli, … sayılı Bakanlar Kurulu Kararının iptali istenilmektedir.
 
@@ -82,6 +92,8 @@ Dava konusu 09/05/2013 günlü, 2013/4749 sayılı Bakanlar Kurulu Kararının; 
 
 ## Danıştay 6. D. 2019/2540 E., 2021/6205 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/685978800)
+
 DAVALI İDARELERDEN … BAKANLIĞININ SAVUNMASI:
 
 …
@@ -91,6 +103,8 @@ Diğer taraftan, 10/12/2018 günlü, 30621 sayılı Resmi Gazete'de yayımlanara
 Yine 6306 sayılı Kanunun Uygulama Yönetmeliğinin 16. maddesinde 21/06/2019 tarihinde yapılan değişiklikle anlaşma ile tahliye edilen uygulama alanındaki yapıların maliklerine tahliye veya yıkım tarihinden itibaren Bakanlıkça kararlaştırılacak aylık kira yardımı yapılabileceği belirtilmiş, maddenin devamında da sadece kiracı ve sınırlı ayni hak sahiplerine yönelik ikamet koşuluna yer verilmiştir.
 
 ## Danıştay 6. D. 2019/21139 E., 2021/4015 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/677378000)
 
 6306 sayılı Afet Riski Altındaki Alanların Dönüştürülmesi Hakkında Kanunun 2. maddesinin 1. fıkrasının (ç) bendinde; Riskli alan: Zemin yapısı veya üzerindeki yapılaşma sebebiyle can ve mal kaybına yol açma riski taşıyan, Cumhurbaşkanınca kararlaştırılan alan olarak tanımlanmıştır.
 
@@ -102,6 +116,8 @@ Dava konusu, ... tarihli, ... sayılı Cumhurbaşkanı Kararının İPTALİNE �
 
 ## Danıştay 6. D. 2019/21136 E., 2021/4001 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/676093200)
+
 DAVACILARIN İDDİALARI : Dava konusu işlem tesis edilmeden önce, 6360 sayılı Kanunun 2. ve Ek-1. maddeleri ile Uygulama Yönetmeliğinin 5. maddesinde belirtilen analiz ve çalışmaların yapılmadığı, gereken raporların hazırlanmadığı, alanın bugüne kadar herhangi bir afete maruz kalıp kalmadığına ilişkin bilgi ve belge bulunmadığı, dolayısıyla bölgenin riskli alan ilan edilmesi için gereken şartların yerine getirilmediği, öte yandan, riskli alan sınırları içinde yer alan davacılara ait yapının ruhsatlı olduğu, can ve mal kaybına neden yol açma riski taşımadığı, dava konusu işlemle Anayasa ve İnsan Haklarının ve Temel Özgürlüklerinin Korunmasına İlişkin Sözleşme ile korunan mülkiyet hakkının ihlal edildiği belirtilerek, işlemde hukuka uyarlık bulunmadığı ileri sürülmüştür.
 
 …
@@ -110,11 +126,15 @@ Dava konusu ... tarihli, ... sayılı Cumhurbaşkanı Kararının Ankara İli, A
 
 ## Danıştay 14. D. 2016/662 E., 2017/4012 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1174852000)
+
 Riskli olduğu kesinleşen yapının 6306 sayılı Kanun 5.maddesi 3.fıkrası ve 6306 sayılı Kanunun Uygulama Yönetmeliğinin 8.maddesi 1.fıkrası uyarınca Müdürlükçe gerekli sürelerin verilerek yıktırılmasının davalı idareden istenmesi üzerine tesis edilen İmar ve Şehircilik Müdürlüğünün ... günlü, ... sayılı dava konusu işleminin hukuki değerlendirilmesinin, önceki işleme bağlı kalınmaksızın yapılarak, bu işlem hakkında yeniden karar verilmesi gerektiğinden önceki işlem için yapılan incelemeye dayanılarak verilen iptal kararında hukuka uyarlık bulunmamaktadır.
 
 Açıklanan nedenlerle; ... İdare Mahkemesinin ... günlü, E:..., K:... sayılı kararının BOZULMASINA …
 
 ## Yargıtay 6. HD 2024/5077 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1112753500)
 
 İlk Derece Mahkemesi kararına karşı davacılar ... ve ... vekilince istinaf yoluna başvurulması üzerine, Bölge Adliye Mahkemesince başvurunun kabulü ile İlk Derece Mahkemesi hükmü kaldırılarak yeniden esas hakkında hüküm kurulmak suretiyle davacı ... yönünden karar verilmesine yer olmadığına, davacı ... yönünden dava dosyasının işlemden kaldırılmasına, davacılar ... ve ... yönünden davanın kabulü ile davalı kooperatiften çıkarılmalarına ilişkin 02.04.2017 tarihli Olağan Genel Kurul Toplantısının 9 no'lu kararının iptaline karar verilmiştir.
 
@@ -127,6 +147,8 @@ Kooperatifler Kanunu'nun 42 maddesi uyarınca kat karşılığı inşaat sözle�
 SONUÇ: Yukarıda açıklanan nedenlerle, İstanbul Bölge Adliye Mahkemesi 45. Hukuk Dairesi kararına ilişkin, davacılar vekilinin ve davalı kooperatif vekilinin temyiz sebeplerinin kabulü ile sonucu itibariyle doğru olan İstanbul Bölge Adliye Mahkemesi 45. Hukuk Dairesi kararın gerekçesi değiştirilerek ve hüküm fıkrasının 5 numaralı bendinde yer alan "5-Davacılardan ... ve ... yönünden açılan davanın KABULÜ, ibaresinden sonra gelen kısımlar çıkarılarak yerine "davalı kooperatifin 02.04.2017 tarihli Olağan Genel Kurul Toplantısının 9 no'lu kararının MUTLAK BUTLAN İLE MALUL OLDUĞUNUN TESPİTİNE" ibaresi yazılmak suretiyle kararın DÜZELTİLEREK ONANMASINA …
 
 ## Yargıtay 6. HD 2023/527 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/885760500)
 
 Davacı vekili dava dilekçesinde özetle; müvekkilinin davalı kooperatiften arsa karşılığı daire alan üyelerden birisi olduğunu, müvekkilinin selefi olan arsa sahibi ...'un 180 m² arsa hissesini 120 m² daire almak için davalı kooperatife devrettiğini, kooperatif yönetim kurulunca 2014/35, 2012/559-478 no.lu karar ile kendisine 7 no.lu dairenin verildiğini ve halen bu dairede oturduğunu, kendisine üye kimlik kartı verildiğini, yıllar sonra kooperatif başkanının imzasıyla 180 m² arsa payının 225 m² ye çıkarılmasının eşitlik, adalet ve hakkaniyet ilkesine aykırı olduğunu ileri sürerek, 20.07.2016 tarihli ihtarname ile 2014/35, 2012/559-478 no.lu kararın iptali yönündeki iptal kararının iptaline karar verilmesini talep etmiştir.
 
@@ -143,6 +165,8 @@ Dosya kapsamından, davalı kooperatifin 12.02.2000 tarihli 1999 yılına ait ge
 Temyiz olunan Bölge Adliye Mahkemesi kararının 6100 sayılı Kanunun 370 nci maddesinin birinci fıkrası uyarınca ONANMASINA …
 
 ## Yargıtay 1. HD 2022/765 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/760854200)
 
 Davacı dava dilekçesinde, 23521 ada 4 parsel sayılı taşınmazın paydaşı iken payının 6306 sayılı Kanun kapsamında işlem yapılarak ihale yoluyla satışa çıkarıldığını ve davalı ...'a devredildiğini, devir işleminin iptali için Ankara 17. İdare Mahkemesinin 2015/2680 Esas sayılı dosyasında dava konusu idari işlemin yürütmesinin durdurulmasına karar verildiğini, yapılan işlemlerin hukuka aykırı olduğunu ileri sürerek, tapu kaydının iptali ile payı oranında adına tesciline karar verilmesini istemiştir.
 
@@ -164,6 +188,8 @@ Açıklanan nedenlerle, davacının ve davalı ... vekilinin yerinde bulunmayan 
 
 ## Yargıtay 20. HD 2019/6900 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/549598800)
+
 Mahkemece yapılan yargılama sonunda 03/11/2015 tarih 2015/317 E. - 2015/383 K. sayılı karar ile davacının davasının 6306 sayılı Kanunun 9. maddesi gereği idari yargı görevli olduğundan dava şartı noksanlığı nedeniyle reddine karar verildiği, taraf vekilleri tarafından kararın temyiz edilmesi üzerine Yargıtay 20. Hukuk Dairesinin 11.04.2017 tarih 2017/787 E. - 2017/3123 K. sayılı ilamı ile “İdari yargıda, idarenin eylem ve işlemlerinden zarar gören kişilerin açtığı iptal ya da tam yargı davalarına bakılmaktadır.
 
 …
@@ -178,6 +204,8 @@ SONUÇ: Yukarıda açıklanan nedenlerle; davalı vekilinin temyiz itirazların�
 
 ## Yargıtay 15. HD 2018/3056 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/432589900)
+
 Yüklenici kooperatifin 16.06.2007 tarihinde yapılan 2016 yılı olağın genel kurul toplantı tutanağının gündem başlıklı bölümünün 5. maddesi 2. paragrafında öneri üzerine arsa sahiplerine verilecek 5885 ada 13 parseldeki B blok zemin kat kuzey dairenin verilmesine yönetim kurulu yetkili kılınmış ise de, genel kurulca verilen bu yetkiden sonra 5885 ada 13 parseldeki B blok zemin kat kuzey dairenin arsa sahiplerine bağış, satış gibi nedenlerle devri ile ilgili tapuda herhangi bir resmi işlem yapılmamış, satış vaadi sözleşmesi düzenlenmemiştir. Bunların dışında tüm arsa sahipleri ile yüklenici arasında arsa payı karşılığı inşaat sözleşmesi'nin B blok 2 nolu bağımsız bölüm yönünden değiştirilmesine yönelik noterde tadil sözleşmesi de düzenlenip imzalanmamıştır.
 
 Söz konusu genel kurul kararında bahsedilen bağımsız bölüm tapuda kayıtlı olup genel kurul kararının alındığı tarihte yürürlükte 818 sayılı Borçlar Kanunu'nun 213, Türk Medeni Kanunu'nun 706, Tapu Kanunu'nun 26 ve Noterlik Kanunu'nun 60. maddeleri uyarınca tapulu taşınmazların devri ya da devrinin taahhüdünün resmi şekilde yapılması zorunlu olup, resmi şekilde yapılmadığından geçersiz olduğu gibi alınan bu kararın kat karşılığı inşaat yapım sözleşmesindeki paylaşımın değiştirilmesi işlemi olduğu kabul edilse dahi, yüklenici kooperatif bu işlemle kendisi ve üyelerinin durumunu ağırlaştıracak bir işlem yapmış olacağından, tadil sözleşmesinin de 818 sayılı Borçlar Kanunu'nun 12. maddesi gereğince resmi şekilde yapılması zorunlu olduğu ve resmi şekilde yapılmadığından geçersizdir.
@@ -188,6 +216,8 @@ SONUÇ: Yukarıda 1. bentte açıklanan nedenlerle arsa sahipleri ..., ..., ...,
 
 ## Yargıtay 20. HD 2017/8000 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/372224600)
+
 Davacı ... ... ... mahallesi, ... sokak, ... blokları No:27'de bulunan 12 pafta 647 ada ve 168 sayılı parseldeki 5 katlı ve 25 daireli apartmanda 19 ve 20 nolu bağımsız bölüm maliki olduğunu 2014 yılı kat malikleri olağan genel kurulu toplantısı ile ilgili çağrı tutanaklarının tapuda malik olan tüm kat maliklerine tebliğ edilmediğini ilk toplantının devamı olarak 16/03/2014 tarihinde bir toplantı daha yapıldığını gündeme KMK'ya aykırı ilaveler yapılıp toplantıya katılmayan kat maliklerine toplantı tutanağının gönderilmediğinin oylama usulüne uyulmadığını gündemde olmayan konularda oylama yapılmadan karar verildiğini 15/12/2013 tarihinde yapılan olağanüstü genel kurul toplantısında alınmış olan ... ... Bloklarının kat karşılığı inşaat sözleşmesine göre yıkılıp ...
 İnşaat ... ... tarafından yeniden inşaa edilmesi ile ilgili kararın uygulanması için gündemde olmadığı halde sözleşmenin imzalanması inşaat müracaatları işlemleri için inşaatçı firmaya vekaletname verme tarihinin belirlenmesi hususlarında karar alınmadan ve gündemde olmadığı halde aynı inşaat ve aynı konuda başka bir firma ortaya atılarak görüşmelere geçildiği davacının kullandığı ve şikayet konusu olmayan ofisin boşaltılmasına karar verildiği tüm binanın yıktırılması ve yeniden yapılması gibi kararların oy birliği ile alınması gerektiği binanın yıkımını gerektiren risk olmadığını toplantı yeter sayısı sağlanmadan yapılan toplantıların Kanunu ve yönetim planına aykırı olduğundan 09/03/2014 ve 16/03/2014 tarihli toplantılarının yok hükmünde olduğunun tespiti ve iptali ile bu alınan usulsüz kararlarla ilgili olarak işlem yapılmaması için ihtiyati tedbir kararı verilmesini telep etmiştir.
 
@@ -197,6 +227,8 @@ Dosyadaki yazılara, kararın dayandığı kanıtlar ile yasal gerektirici neden
 
 ## Yargıtay 14. HD 2017/281 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/294646100)
+
 6306 Sayılı Afet Riski Altındaki Alanların Dönüştürülmesi Hakkında Kanunun Uygulama Yönetmeliği madde 7/5.son hükmünde “tapuda kayıtlı malikin ölmüş olması halinde, Bakanlık veya Müdürlük tebligat işlemleri için Türk Medeni Kanunu hükümlerine göre mirasçılık belgesi çıkartmaya yetkilidir” şeklinde düzenleme yer almaktadır.
 
 …
@@ -204,6 +236,8 @@ Dosyadaki yazılara, kararın dayandığı kanıtlar ile yasal gerektirici neden
 SONUÇ: Yukarıda açıklanan nedenlerle davacının temyiz itirazlarının kabulü ile hükmün BOZULMASINA …
 
 ## Yargıtay 14. HD 2016/1513 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/223656200)
 
 Dava, ortaklığın giderilmesi isteğine ilişkindir.
 
@@ -223,11 +257,15 @@ SONUÇ: Yukarıda açıklanan nedenlerle davalı ... vekili ve bir kısım daval
 
 ## Yargıtay 23. HD 2014/2780 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/112254400)
+
 2-19.06.1994 tarihli genel kurulun 9. gündem maddesiyle arsa sahibi K.. S.. ile sözleşme yapılmak üzere davalı kooperatif yönetim kuruluna yetki verildiğinden bu yetkiye dayalı olarak taraflar arasında imzalandığı anlaşılan 02.07.1997 tarihli sözleşmenin onaylı örneği,
 
 …
 
 ## İstanbul BAM 17. HD 2026/351 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1198468700)
 
 Davalı vekili cevap dilekçesinde özetle;
 20 Mart 2019 tarihinde gerçekleşen olağan genel kurulda toplam 11 madde ile belirlenen gündemin yasaya uygun olarak toplantı öncesinde taahhütlü posta yolu ile tüm üyelere gönderildiğini, yapılan Olağan Genel Kurula 588 adet üyeden 151 adet üyenin asaleten, 107 adet üyenin de vekaleten katıldığını, toplam genel kurula katılan üye sayısı 258 olmakla yasanın aradığı toplantı yeter sayısına ulaşılarak genel kurulun gerçekleştirildiğini, 1163 Sayılı Kooperatifler Kanunun 53. maddesine göre genel kurul kararının iptali istemi ile dava açılmasının ilk şartının toplantıda alınan karara muhalefetin tutanağa geçirilmesi olduğunu, gündemde yer alan 8. maddeye muhalif olduğunu Divan Başkanlığına hitaben yazılı dilekçesi ile bildiren davacı ...'ın toplantı sonunda genel kurulu izlemekle görevli hükümet komiserleri nezdinde yüksek sesle çağrılıp telefonla aranmasına rağmen toplantı mahallinde olmadığı tespit edildiğinden toplantı tutanağında muhalefet şerhinin bulunmadığını, bu durumda davacı ... yönünden davanın reddi gerektiğini, 20.03.2019 tarihli genel kurulda kabul edilen 8. maddenin tamamen aynı sözleşmenin, aynı konunun müzakere edilmesi olduğunu, aynı hususu bizzat kendilerinin

@@ -21,6 +21,8 @@ uyari: "Derleyenin seçtiği alıntılardır; kararın tamamı değildir. Künye
 
 ## İstanbul BAM 3. HD 2023/3617 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/972513800)
+
 Noterliği'nden ... yevmiye numarası ile tanzim edilerek BK anlamında adi ortaklık kurduklarını, adi ortaklığın kurulmasından 2 gün sonra TOKİ ile sözleşmeyi imzaladıklarını, sözleşme yapıldıktan sonra adi ortaklığın ... adıyla maruf inşaat projesini, inşaat ruhsatlarını alarak başladığını, inşaatın devam ettiğini, projenin tapudan inşaat ruhsatı da alındığını, adi ortaklık tarafları arasında iş ortaklığı sözleşmesinin 5. maddesi ile ortaklığa dört asil ve dört yedek üyeden oluşan bir yönetim kurulu oluşturulduğunu, yönetim kurulunun asil üyeleri marifetiyle de adi ortaklığı yönetilmesinin kararlaştırıldığını, asil ve yedek üyelerin belirlendiğini, 150.000,00.-TL'ye kadar olan işlerde çift imza ile, 150.000,00.-TL üzerindeki işler içinse üçlü imza olacağını, ilk zamanlarda her şeyin sözleşmeye uygun olarak gittiğini, son zamanlarda davalılardan ... ve ...'nın bir iş birliği içerisinde olduklarını, adi ortaklığı özensiz ve gelişigüzel ve herhangi bir araştırmaya ve incelemeye dayanmaksızın keyfi olarak yönetmeye başladıklarını, müvekkili ... tüm itirazlarına rağmen şirketi zarara sokan işlemlere karar vermeye başladıklarını, müvekkillerini yönetim kurulundan dışladıklarını,
 ortaklığın tüm muamelelerini 150.000,00.-TL'den aşağı işlemlermiş gibi gösterip yapmaya başladıklarını, müvekkillerinin yönetim kurulundan çıkarılması için 28.03.2013 günü sözleşmenin 5. maddesinin değiştirilmesi için toplantı yapılacağını, toplantıda müvekkilinin asil üyelikten çıkarıldığını, davalıların adi ortaklık sözleşmesinin 5. maddesini ortaklar kurulunun oy çokluğu ile değiştiremeyeceklerini, adi ortaklıkta ortaklığın kararlarının BK'nun 624. Maddesinde düzenlendiğini, toplantıda alınan 74 nolu kararı Büyükçekmece ... Noterliğinden tasdik edildiğini ve Bakırköy .... Noterliğince müvekkillerini idaresinden çıkarttıklarını, oy çokluğu ile alınan Bakırköy ... Noterliği'nin 26.08.2013 tarih, ... yevmiye nolu imza sirkülerinin kanuna aykırı, yok hükmünde ve de sahte beyanlarla düzenlendiğini, ... kendisine imzaya gelmemesi üzerine araştırma içine girdiğini ve davalılara ve notere Kadıköy ...
 
@@ -32,6 +34,8 @@ Bu sebeple asıl ve birleşen davaların arabuluculuk neticesinde anlaşma ile s
 
 ## İstanbul BAM 3. HD 2023/1643 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/896760700)
+
 Mahkeme, 29.12.2009 tarihli protokolün 1.maddesinde; adi ortaklık hesaplarının ..., ... ve ..'ün isteği doğrultusunda 225.000 USD olduğu, bu tutar için adı geçen kişilerin alacaklı olarak kabul edildiği, ...'nün ise bu alacaktan kendi payına düşen 75.000 USD den vazgeçtiği hususu düzenlenmiş iken, protokolün 3.maddesinde; adi ortaklık bünyesine 550.000 USD avans verildiği, bu tutardan iskan alım masrafları, gelir vergisi ve diğer masrafların karşılanması, bakiyenin ortaklık hissesine göre paylaştırılması yönünde bir düzenleme mevcut olduğu. ortakların protokolün 3.maddesinde yazılı olan husus dışında tasfiyeyi tamamladıklarının anlaşıldığı, 3.maddede belirtilen inşaattan kaynaklanan sorunlar nedeniyle tamamlanamayan işler için şirket hesabında para ayırmak suretiyle bu işlerin tamamlanması hususunda kendilerince belirlenen 550.000 USD'yi davalıya teslim ettikleri ve işlemler bittikten sonra bu paradan kalan tutarın %50-%50 oranında paylaşılacağı hususunda anlaştıkları,ancak ihtilaf nedeniyle bu davanın açıldığı,bu nedenle protokolün 1.maddesinde şirket ortağının vazgeçmiş olduğu tutarın adi ortaklık bilançosunun pasifinde değerlendirilemeyeceğinden tasfiye kurulunun güncelleme
 yaparak hazırladığı son raporun nazara alındığı gerekçesi ile; "1-Adi ortaklığın fesih ve tasfiyesine dönüşen bu davada davacı ile davalı arasındaki 01/10/2007 tarihli adi ortaklığın taraflarca feshedildiği ancak tasfiyenin tamamlanmadığı anlaşılmakla, mahkemece atanan tasfiye kurulunun düzenlediği 26/10/2020 tarihli ve 16/05/2022 tarihli rapora göre tasfiyenin tamamlanmasına, 2-Bugünkü duruşma tarihi itibariyle hesaplanan 237.790,64 USD tasfiye payının hüküm tarihinden itibaren 3095 sayılı Yasanın 4/a maddesine göre faiziyle davalıdan tahsili gerektiğinden davalının İstanbul Anadolu ...İcra Müdürlüğünün ...
 
@@ -42,6 +46,8 @@ Noterliği'nin 01.10.2007 tarihli ve ... yevmiye numaralı sözleşmesi, taraf �
 
 ## Diyarbakır BAM 6. HD 2023/1604 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/950372600)
+
 Dava, hizmet sözleşmesine dayalı fatura alacağının tahsili amacıyla başlatılan takibe vaki itirazın iptali istemine ilişkindir.
 
 …
@@ -49,6 +55,8 @@ Dava, hizmet sözleşmesine dayalı fatura alacağının tahsili amacıyla başl
 Ne var ki, dava konusu ... tarihli sözleşmede davalı şirket ile dava dışı .... iş ortaklığı işveren olarak gösterilmiş, ancak sözleşme davalı şirket kaşesi üzerinde imza atılmak suretiyle imzalanmış olup, imzaya bir itiraz ileri sürülmemiştir. Ancak, davalı şirketin ortağı olduğu iş ortaklığına ilişkin sözleşme dosya arasında bulunmamaktadır. Mahkemece davalı şirketten adi ortaklığın kuruluşuna ilişkin sözleşmenin sorularak dosyaya ibrazının sağlanması ve sözleşme uyarınca davalı şirketin adi ortaklığı temsile yetkili olup olmadığının belirlenmesi, davalı şirketin adi ortaklığı temsile yetkili olduğunun anlaşılması halinde dava konusu sözleşmeye dayalı para alacağından ortaklığı oluşturan şirketlerin müteselsil sorumluluğu gereği ortaklardan her birinden istenebileceği, davalı şirketin adi ortaklığı temsile yetkili olmadığının anlaşılması halinde ise davalı şirket adına atılan imzaya bir itiraz da bulunmadığı gözetilerek davalı şirketin borçtan bizzat sorumlu olduğu kabul edilerek işin esasına girilerek varılacak sonuca göre bir karar verilmesi gerekir.
 
 ## İstanbul BAM 3. HD 2023/485 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/864183500)
 
 A.Ş.'ye temlik edildiğini, 7.176.524,87 TL olan borcun ''tasfiye tarihinden itibaren tasfiye gayesi ile sınırlı olarak faaliyetine devam edecek olması nedeniyle devir ve temlik tutarı ile sınırlı olmaksızın ileride doğabilecek cari hesap borcunun ödenmesi için DEVREDEN'in diğer kurucu ortağı ve temlik borçlusu muhatap ... İNŞAAT'tan olan cari hesap alacağının 7.250.000 TL tutarındaki kısmını...'' şeklinde ifade edilerek ve ''yuvarlama'' hesabıyla 74.000 TL fazladan takdir edilmiş bir miktarın olarak temlik ettiğini, ... İnşaat tarafından adi ortaklık borcuna istinaden İstanbul ili Kadıköy ilçesi ... Mahallesi ... ada ... parsel adresinde bulunan adi ortaklık mülkiyetindeki dükkan vasfında olan taşınmaz üzerine 6.000.000 TL bedelli ... A.Ş.
 Lehine ipotek tesis edildiğini, dosyaya mübrez 14.04.2022 tarihli adi ortaklık ortaklarının tamamının imzası ile düzenlenen Ön Protokol'ün 9.maddesinde de bu hususta anlaşıldığını, bu ipoteğin 28.07.2022 tarihinde ... adlı kişiye temlik edildiğini ve buna karşılık 6.000.000 TL'lik ödemenin ...'a yapıldığını, akabinde ... tarafından müvekkili şirket hakkında ipoteğin paraya çevrilmesi yoluyla icra takibi başlatıldığını, hem ipotek temlikinin hem de ... İnşaat'ın adi ortaklığa olan borcunun ... A.Ş.'ye temlikinin aynı gün içinde gerçekleştiğini, adi ortaklık borcuna istinaden ... A.Ş. Lehine tesis edilen ipoteğin üçüncü bir kişiye temliki halinde her şeyden önce cari hesaptan 6.000.000 TL bedelli borcun mahsup edilmesi gerekmesine karşın bunun yapılmadığını, adi ortaklık idare kurulu ve aynı zamanda müvekkili firmanın ortağı ...'in müvekkili firmanın diğer ortağı ... ile olan husumetinden dolayı, ...'in müvekkil firmanın ortağı olmasına rağmen müvekkili firma aleyhine iş ve işlemler yaptığını, Adi Ortaklık idare kurulunun müvekkili firmanın ticari defterleri ve cari hesabı inceleme yetkisini de kısıtladığını ileri sürerek kararın kaldırılmasını istemiştir.
@@ -58,6 +66,8 @@ A.Ş. adına ise ...’ın temsilci olarak atandığını, ... ile diğer ortak 
 Somut olayda, davalının ihtiyati tedbir istemi, diğer davalı ...'in şirket ortağı olarak şirketi zarara uğrattığı ve idare kurulunda diğer adi ortak şirket temsilcisi ile birlikte davacı şirketi kasten zarara uğrattığı sebebine dayanmaktadır. Davalının bahsi geçen talebi eldeki davada uyuşmazlık konusu değildir. Davacı şirket ortağının kendisini zarara soktuğunu iddiasını ise şirket ortağının şirketi zarara uğratması nedeniyle yetkisinin kaldırılması istemiyle de dava açmamıştır. Bunun yanı sıra menfaat çatışması hususu HMK'nın 389 vd. Maddeleri kapsamında tedbir verilmesi gerektirir bir husus değildir. Bu haliyle ihtiyati tedbir şartları oluşmamış olup mahkemece ihtiyati tedbir talebinin reddine karar verilmesinde bir isabetsizlik görülmemiştir.
 
 ## İstanbul BAM 3. HD 2022/1134 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/747688000)
 
 Dava; taraflar arasında kurulmuş adi ortaklık ilişkisi çerçevesinde ortaklık kar payı ve sermaye payı alacağının davalılardan tahsili ve ortaklığa tasfiye memuru atanması istemine ilişkindir.
 
@@ -71,6 +81,8 @@ Soruşturma sayılı dosyasının getirtilerek incelenmesi, ibranameyi imzalayan
 
 ## Ankara BAM 31. HD 2022/546 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/764957500)
+
 Dava, eser sözleşmesine dayalı itirazın iptali istemine ilişkindir.
 
 …
@@ -78,6 +90,8 @@ Dava, eser sözleşmesine dayalı itirazın iptali istemine ilişkindir.
 Bu durumda, mahkemece davacıya adi ortaklık sözleşmesi ibraz ettirilip adi ortaklığı oluşturan şirketlerden ... ... Ltd. Şti.'nin pilot ortak olup olmadığı, ortaklığın temsil ve ilzam yetkisinin kimin üzerinde bulunduğu üzerinde durulmalı, sadece ... Ltd. Şti. vekili olarak kararın istinaf edilip edilemeyeceği gözetilmeli, gerektiğinde, davacı vekiline diğer ortak adına düzenlenmiş istinaf dilekçesinin de sunulması hususunda ek karar yazılarak, kesin süre verilmeli ve sonucuna göre durum değerlendirilmelidir.
 
 ## Gaziantep BAM 11. HD 2021/1931 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/712024000)
 
 Dava, banka hesabı üzerinde yetkisiz kişilere işlem yaptırılmasından kaynaklanan zararın tazmini talebine ilişkindir.
 
@@ -87,6 +101,8 @@ Türk Borçlar Kanunu'nun 46. Maddesinde yer alan "Bir kimse yetkisi olmadığı
 Davacılar tarafından dava dışı ....'un yaptığı işlemlere icazet verilmiş olması nedeniyle davalı bankadaki kusur ile zarar arasındaki illiyet bağı davacının onayı ile kesildiğinden oluşan zarardan davalının sorumluluğu sözkonusu olmaz. (Yargıtay 11. Hukuk Dairesi'nin 2017/1462 Esas, 2019/334 Karar sayılı kararı) Mahkemece bu hususlar dikkate alınarak davanın ve birleşen davanın reddine karar verilmesi gerekirken yanılgılı gerekçe ile davanın kabulüne karar verilmesi doğru olmamıştır. Ancak bu yanlışlığın giderilmesi yeniden yargılamayı gerektirmediğinden davacılar vekillerinin istinaf taleplerinin reddine, davalının istinaf talebinin kabulü ile yerel mahkeme kararının kaldırılmasına ve esas hakkında yeniden hüküm kurularak davanın ve birleşen davanın reddine karar verilmesi gerektiği kanaatine varılmış ve aşağıdaki şekilde hüküm kurulmuştur.
 
 ## Sakarya BAM 7. HD 2021/1440 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/711087800)
 
 Dava; itirazın iptali istemine ilişkindir.
 
@@ -98,11 +114,15 @@ Eldeki dosyada yerel Mahkemece her ne kadar; Bel-Pet Petrol Ürünleri Dağıtı
 
 ## Ankara BAM 31. HD 2021/1136 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/708818900)
+
 Alacaklılar arasında takip arkadaşlığı bazı hallerde söz konusu olur. Bu kimi zaman zorunlu, kiminde de isteğe bağlı olabilir. Alacaklılar arasında zorunlu takip arkadaşlığı konusundaki örneklerden biri de adi ortaklığa ait bir alacağın takibi halidir. Ortakları arasında gizli temsil ilişkisi bulunmayan veya sözleşme ile veya alınan bir kararla ortaklardan birine ortaklığı temsil yetkisi verilmemiş ise adi şirketlerde, şirketin bir alacağının ancak bütün ortaklar tarafından imzalanacak ortak bir takip talebi ile icraya konulabilir. (İtirazın İptali Davaları, Dr. Adnan Değnekli - Sedat Kısa, sayfa 26-27)
 
 Bu bilgiler ve içtihatlar ışında somut olay değerlendirildiğinde, mahkemece de, eser sözleşmesinin tarafı olan ... ve Ortakları adi ortaklığına ait eksik ve ayıplı işler nedeniyle fazla ödenen iş bedeli alacağının tahsili konusundaki icra takibinin adi ortakların tamamı tarafından yapılan bir takip talebi ile başlatılabileceği, menfi tespit istemine konu icra takibinin ise adi ortaklardan sadece biri tarafından yapıldığı, bu ortağa takip tarihi itibariyle sözleşmeyle veya alınan yönetim kurulu kararı ile takip yapılması konusunda verilmiş bir yetkinin bulunmadığı, bu sebeple davacı yüklenici hakkında yapılan ve kesinleşen icra takibinin geçerli bir icra takibi niteliğinde bulunmadığı kabul edilerek davacının menfi tespit davasının kabulüne dair karar verilmiş olmasında usul ve yasa hükümlerine ve dosya kapsamındaki bilgi, belge ve toplanan delillere aykırı bir durum görülmediğinden birleşen dosyada davalı vekilinin yapmış olduğu istinaf başvurusunun 6100 sayılı HMK'nın 353/(1)- b.1 maddesi uyarınca esastan reddine karar verilmesi gerekmiş ve aşağıdaki hüküm kurulmuştur.
 
 ## İstanbul BAM 44. HD 2021/1097 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/687747400)
 
 Amaç başlıklı 3.maddede; " bu anlaşma Müdürlüğünün 31/12/2013 tarihinde ihale ettiği ve ... ve ... girişiminin üzerinde kalan projenin başında, kesin hesabı yapılıncaya ve işveren, idare, sosyal sigortalar, maliye, resmi ve özel bütün şahıslarla bütün ilişkiler kesilinceye ve teminatların tamamı iade edilinceye kadar, işin taraflarca ortaklaşa yapılması ile iş ortaklığının yönetim usulünün kar ve zararın dağıtımının ve iş sonunda ortaklığın tasfiye usulünü saptamak gibi konuları ifa etmek için yapılmıştır.", süre başlıklı 5.maddesinde;
 " bu anlaşma iş verene karşı üstlenilen projenin sözleşmesine uygun olarak tamamlandıktan sonra , kesin kabulün yapılması , teminatların iadesi, taraflar arasındaki hak ve yükümlülüklerin yerine getirilmesi , tüm kamu idareleri ile özel şahıs ve kurumlara ilişkin hak ve mükellefiyetlerin yerine getirildiğine ilişkin yönetim kurulu kararının takiben sona erer " denildiği, 12.maddesinde pilot ortağın ... olduğunun belirtildiği ve yetkilerinin maddede tek tek sayıldığı, Sözleşmenin 13.madesinde yönetim kurulunun düzenlendiği, buna göre, iş ortaklığının en üst yetkili kurulu olduğunu, tarafların birer temsilcisinden oluştuğu, banka hesapları başlıklı 15.maddede; " ortak girişim banka hesapların ortak girişim adına yürütme kurulu tarafından açılacaktır. Bu hesapların işletilmesi yürütme kurulunun alacağı karar doğrultusunda yetkili kılınacak kişilerden ikisinin birleşen imzalarını taşıyan çekler ve talimatlar ile sağlanacaktır.
@@ -113,6 +133,8 @@ Kendisine yönetim görevi verilen ortağın, ortaklığı veya bütün ortaklar
 
 ## İstanbul BAM 3. HD 2020/1907 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/620181000)
+
 HMK'nın 389.maddesinde ihtiyati tedbir şartları düzenlenmektedir.
 Bu maddede, “Mevcut durumda meydana gelebilecek bir değişme sebebiyle hakkın elde edilmesinin önemli ölçüde zorlaşacağından ya da tamamen imkânsız hâle geleceğinden veya gecikme sebebiyle bir sakıncanın yahut ciddi bir zararın doğacağından endişe edilmesi hâllerinde, uyuşmazlık konusu hakkında ihtiyati tedbir kararı verilebilir.” denildiğini, dava dilekçesinde tedbiren kayyım atanmasını istedikleri tek bir iş için kurulmuş adi ortaklık olduğunu, dava süreci dikkate alındığınd ortaklığın idare ile olan sözleşmesinin feshedilmiş olacağını, dava sonucunda verilecek hükmün bir değeri kalmayacağını, bir kişi yada kuruluşa kayyım atanmasının gayesinin fiil ehliyetini kullanma kudretine sahip olmayan yahut kullanmayanın malvarlığı bütünlüğünün zarar görmesinin engellenmesi olduğunu, TBK 625.maddesi ortaklar arasındaki bir ihtilaf nedeniyle ortaklığın zarar görmesini engellemeyi hedeflendiğini, ihtilaf halinde mahkemenin tayin edeceği bir kişinin kayyım olarak atanmayacağının benimsenmesi halinde TBK 625.maddesinin uygulamada bir önemi kalmayacağını, müvekkilinin %99,99 oranında hisseye sahip olması karşısında teminat göstermeye lüzum olmadığı kanaatinde olmakla birlikte, müvekkilinin
 mahkemece tayin edilecek teminatı göstermeye hazır olduğunu ileri sürerek kararın ortadan kaldırılmasına, ihtiyati tedbir taleplerinin kabulüne, mahkemece tayin edilen kişinin kayyım olarak atanmasına karar verilmesini istemiştir. Talep, taraflar arasındaki adi ortaklıkta yönetimde problemler olduğu gerekçesi ile HMK 389 ve devamı maddeleri uyarınca kayyum atanması talebine ilişkindir.Dosyanın incelenmesinde dava dosyasının mahkemenin 03/12/2020 tarih ve 2020/421 E - 2020/551 K sayılı kararıyla " HMK. 166. maddesi gereğince iş bu dosya ile aralarında hukuki ve fiili bağlantı bulunan İstanbul 9. ATM'nin 2020/390 E. sayılı dosyası ile birleştirilmesine, yargılamanın birleştirilen İstanbul 9.
@@ -121,6 +143,8 @@ ATM'nin 2020/390 E. sayılı dosyası üzerinden devamına" karar verildiği gö
 Noterliğinin 10/09/2019 tarihli imzalanan Adi Ortaklık Sözleşmesinin 7.1. maddesi uyarınca adi ortaklığın temsil ve yönetimi ile ilgili olarak adi ortaklıktaki hisse payları dikkate alınmaksızın, davalı şirket adına ... ve davacı şirket adına ise ... müştereken atacakları imzalar ile ortaklığı temsile yetkili olduklarının belirlendiği, her iki ortağında TTK hükümlerine göre tacir olduğu ve imzalanan sözleşme hükümleri nedeniyle basiretli bir iş adamı gibi davranması gerektiği ,adi ortaklığa sözleşme ile müşterek imza ile temsilci atandığı, HMK 389 ve devamı maddeleri uyarınca ihtiyati tedbir kararı verilebilmesi için yaklaşık ispat kuralının gerektiği, somut olayda da dava konusu uyuşmazlığın ... iş ortaklığını kayyum atanması uyuşmazlığın esasını oluşturduğundan, İhtiyati Tedbir kararı ile deliller toplanmadan, yargılama yapılmadan sonuca yönelik bir karar verilemeyeceğinden, şartları oluşmadığından ve talebin yargılama gerektirdiği anlaşılmakla davacı vekilinin istinaf taleplerinin reddine karar verilmesi gerekmiştir.
 
 ## İstanbul BAM 3. HD 2019/472 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/489223400)
 
 Borçlar Hukuku anlamında bir sözleşme olduğu için, sözleşmeler için genel şartların tahkim sözleşmesinde de bulunması ve aranması gerekir. Taraflar aralarında yaptıkları bir sözleşmeye, bu sözleşmeden doğacak uyuşmazlıkların tahkim yolu ile çözüleceğine ilişkin hüküm koyabilirler. Asıl sözleşme maddi hukuk, tahkim şartı ise bir usul hukuku sözleşmesidir. Asıl sözleşmenin geçerli olması zorunlu olarak o sözleşmedeki tahkim şartının da geçerli olduğunu göstermez.Her iki sözleşme birbirinden tamamen bağımsızdır.Somut olayda; 19/08/2013 tarihli "Mutabakat Metni" başlıklı sözleşmede, tarafların Suudi Arabistan'da bir yemek sipariş sitesi kurmak amacıyla bir ortak girişim şirketi aracılığı ile iş birliği yapma isteklerini belirttikleri, 4.1 maddede tarafların iş ortaklığı veya başka işler kurma yükümlülüğü bakımından bu metnin bağlayıcı nitelik taşımayacağı ve herhangi bir tarafın diğer tarafa 7 gün önceden yazılı bildirimde bulunması suretiyle feshedilebileceği kararlaştırılmıştır.
 Mutabakat metninin 5.1 maddesinde; tarafların bu metinden kaynaklanan tüm uyuşmazlıklarının uzlaşma masasında barışçı yollarla çözüleceği, konunun uzlaşma yoluyla çözümlenememesi halinde uyuşmazlığın Dubai'de tahkim yoluna taşınacağı ve Uluslararası Ticaret Odası (ICC) tahkim kurallarına uygun olarak atanmış ilgili konuda bilgili ve deneyimli bir hakem tarafından çözüleceği kararlaştırılmıştır. 5.2 maddede ise uyuşmazlıkların Türk Hukukuna uygun olarak çözümleneceğinin kararlaştırıldığı, mutabakat metnini davalı şirket adına ...'ın imzaladığı görülmüştür.İncelenen 28.11.2012 tarihli ticaret sicil gazetesi örneğine göre davalı şirket yönetim kurulu kararı gereğince metni imzalayan ...'ın birinci derecede imza yetkilisi olduğu, birinci derecede imza yetkililerinden ikisinin şirket ana sözleşmesinin 15. maddesinde belirtilen işlemlerde temsil ve ilzama yetkili oldukları, buna göre de sözleşmeyi davalı şirket adına imzalayan kişinin vekil değil TBK 547 vd maddelerinde düzenlenen ticari temsilci olduğu, ticari mümessilin tahkim şartını içeren sözleşmeyi imzalayabilmesi için TBK 504 maddesinde sözü edilen özel yetki gerekmeyeceği (Yargıtay 11.

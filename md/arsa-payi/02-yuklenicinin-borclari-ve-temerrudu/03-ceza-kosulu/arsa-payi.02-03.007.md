@@ -21,6 +21,8 @@ uyari: "Derleyenin seçtiği alıntılardır; kararın tamamı değildir. Künye
 
 ## İstanbul BAM 45. HD 2023/1519 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/966843400)
+
 İLK DERECE MAHKEMESİ KARARI Mahkemece, " ...Dosyadaki deliller değişik iş dosyası ve alınan bilirkişi heyet raporlarına göre davalı ...'in dava tarihine kadar gerçekleştirmiş olduğu imalat işlerinde sözleşmeden doğan diğer taahhütlerini de yerine getirmediği sözlemedeki edimi eksik ifa ettiği yanında söz konusu bağımsız bölümleri de geç teslime sebep olduğu anlaşılmıştır.Eksik iş, sözleşme ve eklerine göre yapılması kararlaştırıldığı halde tam yapılmayan iştir. Mahkememizce yapılan inceleme ve alın raporlarda ve değişik iş dosyasında da anlaşılacağı üzere, davacı şirket tarafından satın alınan ve adına kat irtifak tapuları ile tescil edilen 20 adet dairelerin (... blokta 3 adet 50.
 
 …
@@ -34,6 +36,8 @@ H Ü K Ü M: Gerekçesi yukarıda izah edildiği üzere; 1-Davacı vekilinin ist
 
 ## İstanbul BAM 15. HD 2023/1227 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/974870500)
+
 Dosya kapsamında yanlar arasında belirlenen cezai şart bedelinin tenzilini gerektirecek herhangi bir durum tespit edilememiştir. Bu nedenle mahkemece birleşen davalarda dayanak bilirkişi raporu doğrultusunda arsa sahiplerinin talep edebileceği cezai şart alacağı miktarından anılan gerekçelerle indirim yapılması sözleşme maddelerine aykırılık oluşturmuştur. Asıl dava yönünden yapılan incelemede; sözleşmenin "Banka Teminat Mektubu Ve Yürürlük Şartı" başlıklı 9/1. maddesindeki "yüklenici iş bu sözleşmenin imzasıyla birlikte yapılacak olan inşaatın tam ve eksiksiz tamamlanmasının ve sözleşmede öngörülen diğer yükümlülüklerin teminatını teşkil etmek ve bağımsız bölümlerin teslimi, yapı kullanma izin belgesi ve kat mülkiyetli tapular alınıp sözleşmenin tam ve eksiksiz ifasıyla, kesin kabulün yapılması (veya hangisi sonra ise kat mülkiyetli tapuların alınması) aşamasında iade edilmek üzere toplam 2.000.000,00 TL bedelli arsa sahipleri lehine düzenlenmiş teminat mektubunu teslim etmeyi kabul ve taahhüt eder. " şeklindeki düzenleme uyarınca yüklenici yanca arsa sahiplerine ... bank A.Ş.'ye ait 26/08/2013 tarih, Seri:
 A No: ... ve ... nolu 2.000.000,00 TL bedelli kesin teminat mektubu verildiği ihtilafsızdır. Sözleşmenin "Arsa Paylarının Devir Aşamaları" başlıklı 12.2.6. maddesinde; " Yapı kullanma izin belgesi (iskan) alınıp kat mülkiyetli tapular teslim edildiğinde kalan % 5'i tapudan devir ve ferağ edilecek ve banka teminat mektubu yükleniciye iade edilecektir. Bu aşama yönünden %5' e isabet eden bağımsız bölümler için yukarıda 12.1.maddedeki paylaşım listesinin yapıldığı tarihte arsa sahipleri tarafından seçilecek azami 3 adet bağımsız bölümün tapusu, iskan belgesinin ve kat mülkiyetli tapuların alındığı tarihte yükleniciye devredilecektir.
 
@@ -45,6 +49,8 @@ Bu işler için arsa sahibi, üçüncü kişilere ödenecek bedeller için, geci
 HÜKÜM: Gerekçesi yukarıda açıklandığı üzere; 1-Taraf vekillerinin istinaf başvurularının KISMEN KABULÜNE, 2-İstanbul 18. Asliye Ticaret Mahkemesi'nin 27/02/2020 tarih, 2017/258 Esas, 2020/160 Karar sayılı kararının KALDIRILMASINA …
 
 ## Antalya BAM 7. HD 2023/974 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/948913800)
 
 Davacı vekili açtığı dava ile, davacı yüklenici ile davalı arasında yapılan yazılı sözleşme ile davalıya ait Denizli Merkez ... köyü ... parsel sayılı taşınmazın bulunduğu alanda ...
 
@@ -64,6 +70,8 @@ Yerel mahkeme kararının esası incelenmeksizin ORTADAN KALDIRILMASINA ve davan
 
 ## Antalya BAM 7. HD 2023/930 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/940415500)
+
 Blok ... nolu ve ... nolu bağımsız bölümler için devam edilmesi gerektiği, davacının fazla imalat bedeli olarak talep ettiği imalatların, bilirkişi raporlarında belirlendiği üzere arsa sahibine ve müteahhide ait tüm bağımsız bölümlerde yapılan fazla imalatlar olduğu, Yargıtayın istikrarlı içtihatları ile benimsendiği üzere ortak alanlarda ve tam bağımsız bölümlerde yapılan fazla işlerin tüm tarafların yararına olacağı için buna ilişkin bedel talebinde bulunamayacağından, birleşen dosya davacısının fazla imalat bedeline ilişkin davasının reddine karar verilmesi gerektiği, düzenleme biçiminde gayrimenkul satış vaadi ve kat karşılığı inşaat sözleşmesinin 7. maddesinde "haklı bir sebebe dayanmaksızın sözleşmenin feshine sebep olan ve bu sözleşme şartlarına aykırı davranan taraf karşı tarafa ceza olarak 100.000,00 TL öder" şeklinde cezai şart hükmünün düzenlendiği, somut olayda sözleşmenin feshinin söz konusu olmadığı gibi, davalı arsa sahibinin sözleşmeye aykırı davranarak iş bitim evraklarını imzalamadığı, yeni istekler ileri sürerek işi sürüncemede bıraktığı, dürüstlük kuralına aykırı davranarak davacının edimini yerine getirmesine engel olduğu iddiası ile 100.000,00 TL cezai şart
 talep etmiş ise de, asıl dava gerekçesinde belirtildiği üzere yüklenicinin işi ayıplı ve eksik olarak imal ettiği, inşaatın yapım aşamasında ayıplı imalat ile ilgili olarak arsa sahibinin noter aracılığı ile gönderdiği ihtarnamelerin dosya içinde bulunduğu, yine sözleşmeye göre işin bitim tarihinin 15/01/2010 tarihi olduğu halde genel iskanın 15/06/2010 tarihinde alındığı, dolayısı ile davacının bu talebinin haksız olduğu anlaşılmakla reddine karar verilmesi gerektiği, sözleşmeye göre yüklenicinin toplam 22 mesken, 2 dükkan ve ...
 
@@ -72,6 +80,8 @@ talep etmiş ise de, asıl dava gerekçesinde belirtildiği üzere yüklenicinin
 Taraf vekillerinin ve fer'i müdahilin istinaf başvurularının AYRI AYRI ESASTAN REDDİNE …
 
 ## Ankara BAM 27. HD 2022/1072 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/829185800)
 
 Davacı vekili asıl davada özetle; taraflar arasında akdedilen 04.11.1999 tarihli kat karşılığı inşaat sözleşmesi gereğince yapılacak 94 dairenin 48 adedinin yükleniciye ve 46 adedinin müvekkiline verilmesinin kararlaştırıldığını, inşaatın genel olarak tamamlandığını ve 24.04.2007 tarihinde yapı kullanma izin belgesinin alındığını, ancak 2007/683 D.İş sayılı dosyada eksik ve ayıplı işler bedelinin 550.825 TL olarak belirlendiğini öne sürerek bu miktarın tahsiline karar verilmesini talep etmiştir.
 
@@ -84,12 +94,16 @@ Sözleşme gereği inşaatın 30.11.2002 tarihinde bitmesi gerekirken iskan ruhs
 
 ## İstanbul BAM 3. HD 2022/1041 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/744219000)
+
 Maddesine göre; ‘ …
 
 dökümü yapılan 35 taşınmaz ve toplamda 3.232,15 metrekare ile ilgili düzenleme şeklinde kat karşılığı inşaat ve satış vaadi sözleşmesi imzalandıktan sonra taşın- mazları ...'nın ortaklarına bilgi vermek ve bu sözleşme şartlarına uygun olarak ve imzalanan tüm söz- leşmeler ile aynı şartlarda yeni malik ile düzenleme şeklinde kat karşılığı inşaat ve satış vaadi sözleşmesi imzalanması şartı ile satabileceği, bağışlayabileceği, takas yapabileceği veya mülkiyeti devreden her hangi bir tasarruf işlemi yapabileceği , bu şarta aykırı olarak ve taşınmazlar üzerinde inşaatın başla- masına engel olacak şekilde herhangi bir işlem yapılması halinde ..., ..., ... ve ...’in ...’ya sözleşme bedeli kadar olan net 12.000,000 TL cezai şartı müşterek ve müteselsilen hiçbir ihtara gerek kalmaksızın ödeyecektir. Taraflar tacir olduklarından cezai şartın fahiş olduğu iddialarında bulunamayacaklardır." denildiğini, Davalı ... Ltd Şti ile gerçek kişi diğer davalıların protokolün bu hükmüne aykırı davrandıklarını, müvekkiline bilgi vermeden taşınmazları bölünme suretiyle davalı ...’ye devir ettiklerini, Beyoğlu ... Noterliği’nin 19 Temmuz 2016 tarih ve ... yevmiye nolu “Protokol 7.
 Maddesi ile, ... uhdesinde bulunan toplam değeri 2.033.000 TL bedelli senetleri iade etmesi gerekir iken etmediklerini ,bundan doğan zararların tazmini için İstanbul 20. Asliye Ticaret Mahkemesi 2020/ 436 Esas sayılı dosya ile dava açıldığını, davalı yanın protokolün 7. Maddesini de ihlal ettiğini, cezai şart alacağının temelinin oluştuğunu, 1380 ad 3 parseldeki taşınmazların kat karşılığı inşaat yapılacak yerlerden olmayıp ... tarafından bedeli ödenerek dava dışı ... isimli kişiden satın alındığını ve ... bu yerdeki haklarını ...'ya devretmesine rağmen bu yerlerin müvekkiline teslim edilmediğini beyanla yer bedelinin tazminini talep ettiklerini beyanla, Fazlaya dair hakları saklı kalmak kaydıyla şimdilik, Beyoğlu ... Noterliği’nin 19/07/2016 tarih ... nolu protokolün 8.maddesinin ihlali nedeniyle 100.000,00 TL ve protokolün 5.
 
 ## İstanbul BAM 15. HD 2021/2106 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/705314600)
 
 Mahkemece, A) Asıl dava yönünden yapılan incelemede; davalı yüklenicinin sözleşmelerden kaynaklandığı yükümlülüklerini yerine getirmeyerek kusurlu bulunduğu, cezai şart talebinin yerinde görüldüğü, bilirkişi tarafından yapılan hesaplamada 706.142,46 Euro cezai şart tazminatı hesaplandığı ve belirlenen metre kare birim fiyatı neticesinde ayn karşılığının 1.518,21 m2 olduğunun tespit edildiği, sözleşmede sosyal tesis olarak gösterilen yerin imar mevzuatına aykırı olarak yapıldığı, dolayısıyla yıkılıp tekrar yapılması gerektiği ve davalı tarafça yapılan inşaatın yıkılıp yeniden yapılmasının 2.188.480,00 TL' ye mal olacağı bilirkişi tarafından tespit edildiğinden, bu miktar üzerinden talebin yerinde görüldüğü, bilirkişi tarafından belirlenen metre kare birim fiyatının ayn karşılığının 2.446,48 m2 olduğunun tespit edildiği, sözleşme uyarınca davalıyüklenici tarafından karşılanması gereken 231.209,08 TL masrafın davacı kooperatif tarafından ödenmiş olması sebebiyle bu bedelin ödeme tarihinden itibaren faizi ile birlikte toplam 382.620,39 TL olarak davalıdan tahsilinin yerinde görüldüğü, bilirkişi tarafından belirlenen metre kare birim fiyatın ayn karşılığının 382,62 m2 olduğunun tespit
 edildiği, davacı tarafça, tazminat ve alacak talepleri sözleşme gereği ayn olarak talep edildiğinden 25/12/2020 tarihli bilirkişi raporu ile tespit edilen miktarların (1.518,21 m2 +2.446,48 m2+382,62 m2=4.089,31 m2) hükme esas alındığı ve sözleşme gereği davalıyükleniciye devri gereken ... ada, ... parselin bu tazminat ve alacakları karşılaması nedeni ile alacağın sözleşmede teminat olarak kararlaştırılan ... ada, ... parselin 4.089,31/10.086,79 hissesinin davacı kooperatifte kalması suretiyle ödenmesine karar verilmesi gerektiği, B) Birleşen Bakırköy 1.
@@ -107,6 +121,8 @@ HÜKÜM: Gerekçesi yukarıda açıklandığı üzere; 1-Taraf vekillerinin isti
 
 ## İstanbul BAM 15. HD 2020/1468 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/619445400)
+
 Taraflar arasındaki sözleşmenin 4. maddesi uyarınca, C Blokta yer alan 27 adet dairenin tamamının sözleşmenin imzalanmasını müteakip 30 aylık süre içinde, B Blok yer alan 11 adet dairenin ise sözleşmenin imzalanmasına müteakip 36 aylık süre içinde anahtar teslimi olarak bitirilip teslim edileceği; sözleşmenin 6-(b) maddesinde ise dairelerin tesliminde gecikme olması halinde daire başına aylık 300,00 USD gecikme tazminatı ödenmesi ve gecikme tazminatının da zamanında ödenmemesi halinde % 5 oranında temerrüt faizi uygulanması kararlaştırılmıştır. Davacı tarafça, üçüncü kişiler tarafından açılan ve aleyhlerine sonuçlanan davalar nedeniyle üçüncü kişilere ödenmek zorunda kalan bedellerin davalılardan tahsili istenmiş ise de, davacı tarafça aynı dairelerin geç teslimi ile ilgili cezai şart alacağı isteminde bulunduğundan, mahkemece mükerrer olarak kabul edilen bu talep yönünden davanın reddine karar verilmesinde bir isabetsizlik bulunmamıştır. Buna karşılık, davalı yüklenicilerin tacir olması nedeniyle, fahiş olduğundan bahisle kural olarak sözleşme tarihinde yürürlükte bulunan TTK'nın 24. maddesi gereğince, cezanın BK'nın 161/son maddesine göre indirilmesini isteyemez (Yargıtay 15.
 Hukuk Dairesi'nin 17/11/2011 tarih, 2010/3210 E. 2011/6641 sayılı kararı). Cezai şartın çok yüksek olması nedeniyle ahlak ve adaba aykırı olduğu da ileri sürülüp kanıtlanmadığına göre mahkemece, yargılama ile tespit edilen cezai şart alacağından hakkaniyet gereği indirim yapılması yerinde olmamıştır.
 
@@ -118,6 +134,8 @@ Mahkemece hükme esas alınan bilirkişi raporları gecikmeden kaynaklı cezai �
 HÜKÜM: Gerekçesi yukarıda açıklandığı üzere; 1-Taraf vekillerinin istinaf başvurularının KABULÜNE, 2-İstanbul 16. Asliye Ticaret Mahkemesi'nin 28/09/2017 tarih, 2014/316 Esas, 2017/803 Karar sayılı kararının KALDIRILMASINA …
 
 ## İstanbul BAM 3. HD 2020/207 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/577020000)
 
 Noterliğinin 27/10/2009 tarih ve ... yevmiye numaralı düzenleme şeklinde gayrimenkul satış vaadi ve gelir paylaşımı suretiyle inşaat sözleşmesi akdedildiği, sözleşme ile İstanbul, Bakırköy, ...'de bulunan ... ada, ... parsel sayılı taşınmazda ... ve ... Blok olmak üzere 26 daireli inşaat yapılması konusunda anlaşıldığı, teslim süresinin 24 ay olduğu, taşınmazın 01/01/2010 tarihinde yer teslim ve tesellüm tutanağı ile yüklenici şirkete teslim edildiği, arsa sahibi tarafından Bakırköy ... Noterliğinin 14/05/2013 tarih ve ... yevmiye nolu ihtarnamesi ile 1.250.000,00 TL eksiklik ve aykırılık bedelinin ödenmesinin istendiği, mimari projeye göre taşınmazda toplam daire sayısının 24 olduğu, bu konuda taraflar arasında ihtilaf bulunmadığı, birleşen dosya davacısı tarafından Bakırköy 5. Asliye Hukuk Mahkemesinin 2013/20 D. İş sayılı dosyası ile eksik ve hatalı imalat bedelinin 643.120,00 TL olarak tespit edildiği, dosyaya sunulan 16/04/2012 tarihli "protokol" başlıklı belgede; 3 şahit imzasının yanı sıra, arsa sahibi şirketi temsilen ...'un ... Blok ...
 Bodrum Kat ... nolu bağımsız bölüm üzerinde bulunan banka ipoteğini 20/04/2012 tarihine kadar kaldırılacağı, aksi takdirde dairenin satış bedelinin cezai şart olarak ödenmesinin taahhüt edildiği, protokolün Tapu Müdürlüğünde ... adına hazırlanan tapularda yapılan yanlış işlem ile ilgili hazırlandığı anlaşılmaktadır. Gelir paylaşımlı inşaat sözleşmesi; yüklenici tarafından arsa sahibinin arsasında meydana getirilecek yapının, arsa sahibinin verdiği yetkiye dayanarak yüklenici tarafından satılması ve bu surette elde edilecek gelirin arsa sahibi ile yüklenici arasında, sözleşmede kararlaştırılan oranda paylaşılması esasına dayanmaktadır. Bu esastan yola çıkarak gelir paylaşımlı inşaat sözleşmesi; yüklenicinin bağımsız bölümler meydana getirme ve bunların satışını sağlama borcuna karşılık, arsa sahibinin bu bağımsız bölümlerin satımına ilişkin yükleniciye temsil yetkisi verme ve bu satıştan elde edilecek geliri yükleniciyle paylaşma borcu altına girdiği sözleşme şeklinde tanımlanabilir.
@@ -133,6 +151,8 @@ K A R A R : Yukarıda açıklanan nedenlerle; Davacı ve davalının istinaf ba�
 …
 
 ## İstanbul BAM 15. HD 2019/449 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/492849900)
 
 İnşaat fiilen tamamlanıp teslim edilmiş olsa dahi kararlaştırılmış olması halinde iskan belgesinin alınmaması durumunda hukuki teslimden de söz edilemez. Somut olayda, sözleşme sonrasında taraflarca imzası ve içeriği inkar edilemeyen takip konusu 04.02.2013 tarihli "Karşılıklı Mutabakat, Sulh ve İbranamedir" başlıklı belge düzenlenmiştir. Takip dayanağı söz konusu belgede iş bu protokolün imzalandığı tarihten itibaren 30.03.2014 tarihine kadar iskan müsaderesinin alınması, aksi halde davalı yüklenici tarafından 500.000,00 TL cezai şart ödeneceği kararlaştırılmıştır. Söz konusu belge içeriğine bakıldığında tarafların bunun yanında bazı hususlarla ilgili anlaşmalar yaptıkları ve ibralaştıkları da görülmektedir. İçeriği taraf iddia ve savunmaları ve dosya kapsamına göre değerlendirildiğinde konu belgenin sözleşmenin tadili niteliğinde olmadığı, ibra ve taahhüt niteliğinde olduğu anlaşılmakla resmi şekilde yapılması zorunlu değildir. Sözleşme iskan şartlı olarak düzenlenmiş olup, davalı yüklenici sözleşme kapsamında belirtilen iskan alma edimini süresinde yerine getirmemiş bu kez ve sonrasında bu yükümlülük bahsi geçen belgede ilave süre tanınarak ceza konusu edilmiştir.
 Taraflar bununla hukuki teslimin teminine yönelik ifaya ekli cezai şart öngörmüştür. İskan ruhsatının bu belgeyle kararlaştırılan 30.03.2014 tarihine kadar alınmadığı hususu ihtilafsızdır. O halde, tarafların serbest iradeleriyle düzenledikleri bu belge geçerli olup yüklenicinin sözleşme ve tanınan ilave sürede inşaatı sözleşme ve eklerine, projesine uygun olarak iskanı da alınmış şekilde teslim etmediğine göre kararlaştırılan cezai şartı ödenmesi gerekir. Yapılan açıklamalara göre, mahkemece verilen karar usul, yasa ve dosya kapsamına uygun olup, davalı vekilinin istinaf talebinin reddine karar verilmesi gerekmiştir.

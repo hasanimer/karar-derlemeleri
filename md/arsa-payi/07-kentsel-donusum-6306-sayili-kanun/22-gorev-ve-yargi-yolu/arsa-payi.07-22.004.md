@@ -40,6 +40,8 @@ Kısmen davanın reddi, kısmen dava konusu işlemin iptali ile ...-TL'nin davan
 
 ## Danıştay 9. D. 2025/1308 E., 2025/3587 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1206411700)
+
 İlk Derece Mahkemesi kararının özeti: ...
 
 …
@@ -62,6 +64,8 @@ Açıklanan nedenlerle, ... İdare Mahkemesinin ... tarih ve E:..., K:... sayıl
 
 ## Danıştay 6. D. 2022/9380 E., 2025/3382 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1183706800)
+
 Uyuşmazlıkta, yalnızca 1/1000 ölçekli uygulama imar planı değişikliğinin dava konusu edildiği, değişikliğe konu taşınmazın bulunduğu bölgenin kentsel dönüşüm ve gelişim bölgesi olarak belirlenmesine ilişkin kararın ve bu karar doğrultusunda daha önce hazırlanan ve hala yürürlükte bulunan 1/5000 ölçekli nazım imar planının dava konusu edilmediği de dikkate alındığında, planlamanın temel esaslarından biri olarak kabul edilen planların kademeli birlikteliği ilkesi yönünden eksik incelemeye dayalı olarak hazırlanan bilirkişi raporu esas alınarak verilen İdare Mahkemesi kararına yapılan istinaf başvurusunun reddi yolundaki Bölge İdare Mahkemesi kararında bu yönüyle hukuka uyarlık görülmemiştir.
 
 Bölge İdare Mahkemesince, alanın kentsel dönüşüm ve gelişme alanı olarak belirlenmesine ilişkin kararın ve 1/5000 ölçekli nazım imar planının yargı kararıyla iptaline karar verilip verilmediği, nazım imar planında da değişiklik yapılıp yapılmadığının incelenmesi suretiyle yeniden bir karar verilmesi gerekmektedir.
@@ -81,6 +85,8 @@ Davacı tarafından ... tarih ve ... sayılı dilekçeyle Çevre, Şehircilik ve
 
 ## Danıştay 13. D. 2025/2390 E., 2025/3359 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1199136000)
+
 2577 sayılı İdari Yargılama Usulü Kanunu'nun 16. maddesinde, dava dilekçelerinin ve eklerinin birer örneğinin davalıya, davalının vereceği savunmanın davacıya tebliğ olunacağı, davacının ikinci dilekçesinin davalıya, davalının vereceği ikinci savunmanın da davacıya tebliğ edileceği; tarafların, yapılacak tebliğlere karşı, tebliğ tarihinden itibaren otuz gün içinde cevap verebileceği kurala bağlanmıştır.
 
 …
@@ -88,6 +94,8 @@ Davacı tarafından ... tarih ve ... sayılı dilekçeyle Çevre, Şehircilik ve
 2\. 2577 sayılı İdari Yargılama Usulü Kanununun 49. maddesi uyarınca ... İdare Mahkemesinin ... tarih ve E:..., K:...sayılı kararının BOZULMASINA …
 
 ## Danıştay 4. D. 2025/2073 E., 2025/3359 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1172563600)
 
 DAVALI ... BELEDİYE BAŞKANLIĞININ SAVUNMASI : Davacının, vefat eden eşine ait gecekondular nedeniyle ( ...; ... ve ... kapı numaralı) "davacı ve iştirakçileri" adı altında birden fazla imar affı başvurusunda bulunduğu, 91/B dışındaki gecekonduların enkaz senediyle devredildiği, tapu tahsis belgesinin imzasız ve onaysız olduğu, 2.000,00-TL başvuru harcı ve buna ilişkin arsa bedelinin ödendiğine dair makbuzların dosyada bulunmadığı; ...
 
@@ -100,6 +108,8 @@ DAVALI ... BELEDİYE BAŞKANLIĞININ SAVUNMASI : Davacının, vefat eden eşine 
 Temyize konu kararın vekalet ücretine ilişkin kısmının ise, "karar tarihinde yürürlükte bulunan Avukatlık Asgari Ücret Tarifesi uyarınca belirlenen 18.000,00-TL avukatlık ücretinin davacıdan alınarak davalı idarelere verilmesine" şeklinde DÜZELTİLEREK ONANMASINA …
 
 ## Danıştay 6. D. 2025/1689 E., 2025/3312 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1183636100)
 
 İlk Derece Mahkemesi kararının özeti: Temyize konu kararda; taşınmazların bir an önce kullanılmasına ihtiyaç duyulan ve kamu düzenine ilişkin olarak acelilik halinin bulunduğu durumlarda, davalı idarece ancak acele kamulaştırılması zorunlu bulunan taşınmazlara yönelik gerekli tespitler yapılıp sebepleri de belirtilmek suretiyle acele kamulaştırma kararı almaya yetkili Cumhurbaşkanlığı'na başvuruda bulunma yetkisinin bulunduğu açık olup, davalı idarece yetkisini aşacak şekilde "acele kamulaştırma kararı" almasında hukuka uyarlık bulunmadığı, diğer yandan, 08/07/2022 tarih ve 31890 sayılı Resmi Gazete'de yayımlanan 07/07/2022 tarihli, 5786 sayılı Cumhurbaşkanlığı Kararı ile, Kocaeli ili, Dilovası ilçesinde "rezerv yapı alanı" olarak belirlenen sahada yer alan ve ekli listede bulundukları mahalle ile ada ve parsel numaraları belirtilen taşınmazların Kocaeli Büyükşehir Belediye Başkanlığı tarafından 2942 sayılı Kamulaştırma Kanununun 27. maddesi uyarınca acele kamulaştırılmasına karar verilmesinin de bu hususu doğruladığı gerekçesiyle dava konusu işlemin iptaline karar verilmiştir.
 
@@ -115,6 +125,8 @@ Bu Kanun uyarınca gerçekleştirilecek uygulamalarda yeni yerleşim alanı olar
 Yukarıda özetlenen gerekçeyle dava konusu işlemin iptaline ilişkin temyize konu ... İdare Mahkemesinin ... tarih ve E:...
 
 ## Danıştay 4. D. 2023/11210 E., 2025/3275 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1186701200)
 
 6306 sayılı Kanunun genel gerekçesinde " Anayasanın 56 ncı maddesi; herkesin sağlıklı, dengeli ve güvenli bir çevrede yaşama hakkına sahip bulunduğunu hükme bağlamakta ve Devlete bu hususta görevler yüklemektedir. Yine Anayasanın 23 üncü maddesine göre Devlet, “sosyal ve ekonomik gelişmeyi sağlamak, sağlıklı ve düzenli kentleşmeyi gerçekleştirmek” ile görevlidir. Bilindiği üzere, Ülkemizin çok mühim bir kısmı, başta deprem olmak üzere tabiî afetlerin riski altındadır. Buna rağmen, mevcut yapıların büyük bir kısmının muhtemel afetlere karşı dayanıklı olmadıkları ve orta şiddetteki bir depremde bile ağır derecede hasar görüp yıkıldıkları, bundan dolayı sosyo-ekonomik problemlerin yaşandığı ve Devletin beklenmedik bir anda büyük malî külfetler ile karşı karşıya kaldığı bilinmektedir. Onbinlerce insanın ölümüne ve çok yüksek malî kayıplara sebebiyet veren ve 1999 yılında Marmara Bölgesinde vuku bulan büyük deprem felâketleri, müteakip depremler ve en son olarak 2011 yılında Van’da meydana gelen deprem ile bu gerçek acı bir şekilde ortaya çıkmıştır. Ülkemizin bazı yerleri ve buralardaki yerleşim merkezleri hâlen çok yüksek deprem riski altındadır.
 Örneğin, İstanbul’un yakın bir zaman içinde çok şiddetli bir depremle karşı karşıya kalacağı, bu hususta ihtisas sahibi bilim adamlarınca ifade edilmektedir. Bazı yerleşim merkezlerinin jeolojik durumu ve zemin özellikleri ise, buralarda iskânın tehlikeler arz ettiğini ve afet riski altında bulunan bu yerleşim merkezlerinin bir an önce bulundukları yerlerde dönüştürülerek buralardaki iskânın yeniden düzenlenmesini ve hatta bunların başka yerlere nakledilmesini zarurî kılmaktadır. Yürürlükteki 7269 sayılı Umumi Hayata Müessir Afetler Dolayısiyle Alınacak Tedbirlerle Yapılacak Yardımlara Dair Kanun, afet tehlikesine maruz kalmış veya kalması muhtemel bölgelerin tespit edilip “afete maruz bölge” olarak ilân edilmesini öngörmekte ve böylece “afete maruz bölge” olarak ilân edilen yerlerdeki meskenlerin ve işyerlerinin afet tehlikesinden masun yerlere nakledilmesi, bahsedilen Kanundaki usûl ve esaslara göre yürütülmektedir.
@@ -133,6 +145,8 @@ Diğer taraftan, riskli alanların dönüştürülmesine ilişkin uygulamalar i�
 
 ## Danıştay 6. D. 2022/7953 E., 2025/3108 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1191452400)
+
 DAVALI ...
 
 …
@@ -146,6 +160,8 @@ DAVALI ...
 1\. 21/06/2019 tarih ve 30808 sayılı Resmi Gazetede yayımlanan (6306 sayılı Kanun Uygulama Yönetmeliğinin 16. maddesinin 12. fıkrasında değişiklik yapılmasına ilişkin) 6306 sayılı Kanun Uygulama Yönetmeliğinde Değişiklik Yapılmasına Dair Yönetmeliğin davaya konu 12. maddesinin 9. fıkrasındaki düzenlemenin, "Kanunun 7. maddesinin (...) onuncu fıkralarında belirtilen şartlar dahilinde alınmaması gereken (...) ücretler" kapsamında otopark ücretinin istisnalar arasından kaldırılmasına yönelik kısmı ve anılan hüküm uyarınca tesis edilen ... tarih ve ... sayılı belediye encümeni kararı yönünden DAVANIN REDDİNE …
 
 ## Danıştay 6. D. 2025/2649 E., 2025/3105 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1190994900)
 
 DAVALI...BAKANLIĞININ SAVUNMASI : Davalı tarafından, 6306 sayılı Kanunun hiç bir halinde otopark ücretleri için muafiyet hükmü bulunmadığı, uygulama kolaylığı için Yönetmelikte 2013 yılında yapılan değişiklikle otoparklar için muafiyet hükmü getirildiği, ancak 2019 yılında yapılan davaya konu değişiklikle Yönetmelikteki muafiyetin de kaldırıldığı, dönüşüm sürecinin dinamik bir süreç olması nedeniyle, gerek ihtiyaca cevap verilmesi gerekse sürecin daha iyi yönetilmesi amacıyla muafiyet hükmünün kaldırıldığı, anılan muafiyet hükmü dolayısıyla otopark ihtiyacının parselde karşılanmasından imtina edildiği gibi ödeme de yapılmadığı, bu kapsamda otopark ihtiyacını karşılamaya yönelik olarak muafiyet hükmünün kaldırıldığı savunulmaktadır.
 
@@ -175,6 +191,8 @@ Bu durumda; kadrosu Çevre, Şehircilik ve İklim Değişikliği Bakanlığı De
 
 ## Danıştay 4. D. 2024/702 E., 2025/2866 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1162033700)
+
 İlk Derece Mahkemesi kararının özeti: ...
 
 …
@@ -188,6 +206,8 @@ Anılan Yönetmeliğin 15/A maddesinin 3. fıkrasında ise; satışı yapılacak
 Temyize konu ... Bölge İdare Mahkemesi ... İdare Dava Dairesinin ... tarih ve E:..., K:... sayılı kararının BOZULMASINA …
 
 ## Danıştay 4. D. 2025/110 E., 2025/2824 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1160546100)
 
 Bölge İdare Mahkemesi kararının özeti: İdare Dava Dairesince; İstanbul Büyükşehir Belediye Başkanlığı hasım mevkiinden çıkarılarak, ''Başvuruya konu kararın, manevi tazminat isteminin reddine maddi tazminat istemlerinin kısmen kabulü, kısmen reddine ilişkin kısmında, 2577 sayılı İdari Yargılama Usulü Kanununda sayılan kaldırma nedenlerinin bulunmadığı ve istinaf dilekçelerinde ileri sürülen iddiaların da kararın bu kısımlarının kaldırılmasını gerektirecek nitelikte olmadığı görüldüğünden, taraflarca kararın bu kısmına yapılan istinaf başvuruları yerinde görülmemiştir. Hüküm altına alınan tutara işletilecek faizin başlangıç tarihi bakımından davacının istinaf talebinin incelenmesinden ise;
 2577 sayılı İdari Yargılama Usulü Kanunu’nun 13. maddesinde; idari eylemlerden hakları ihlal edilmiş olanların dava açmadan önce, bu eylemleri yazılı bildirim üzerine veya başka suretle öğrendikleri tarihten itibaren bir yıl ve her halde eylem tarihinden itibaren beş yıl içinde idareye başvurarak haklarının yerine getirilmesini istemeleri gerektiği kuralı yer almakta olup, anılan maddede, idari eylemler nedeniyle uğranılan zararın tazmini için idareye başvuruda bulunulmasının dava ön şartı olarak öngörülmesi ve zararın idare tarafından en erken bu tarihte sulhen ödenebilecek olması nedeniyle yargı yerince hükmedilecek tazminat miktarına, ön karar için idareye yapılan başvuru tarihi, görevli olmayan adli yargıda dava açılması halinde adli yargıda dava açıldığı tarih itibarıyla yasal faiz uygulanması ilkesi benimsenmiştir. Nitekim bu durum, Danıştayın yerleşik içtihatlarıyla da kabul edilmiştir. Yapılan açıklama doğrultusunda; davalı idarenin temerrüde düştükleri idareye başvurma tarihinden veya adli yargıda dava açıldığı tarihten itibaren yasal faiz yürütülmesinin hukuka ve hakkaniyete uygun olduğu sonucuna varılmakla;

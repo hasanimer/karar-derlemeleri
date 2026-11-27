@@ -20,6 +20,8 @@ uyari: "Derleyenin seçtiği alıntılardır; kararın tamamı değildir. Künye
 
 ## Yargıtay 4. HD 2026/1341 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1201680800)
+
 Davacı vekili dava dilekçesinde; davalıya Zorunlu Deprem Sigortası (ZDS) Poliçesi ile sigortalı konutun 06.02.2023 tarihinde meydana gelen depremde hasara uğradığını, orta hasarlı kabul edilerek 11.04.2023 tarihinde 102.785,28 TL ödeme yapıldığını, binanın ağır hasarlı olarak kabul edilmesi gerektiğini, ayrıca 25.11.2022 tarihli güncel tarifeye göre metre kare birim fiyatının 3.016 TL olduğunu , bu fiyat üzerinden ödeme yapılması gerektiğini belirterek fazlaya ilişkin haklarını saklı tutarak eksik ödenen 107.853,28 TL tazminatın DASK 'a yapılan başvuru tarihinden itibaren işleyecek yasal faizi ile davalıdan tahsiline karar verilmesini talep etmiştir.
 
 …
@@ -38,6 +40,8 @@ Yukarıda (2) nolu bentte açıklanan nedenlerle davacı vekilinin temyiz itiraz
 
 ## Yargıtay 6. HD 2025/2245 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1160481200)
+
 İlk derece mahkemesince, Dairemizin 16.02.2023 tarihli ikinci bozma ilamında da belirtildiği üzere birleşen 2022/72 Esas sayılı dosyasında, kâr mahrumiyeti bakımından vekalet ücretinin hükmedilen tüm bedel üzerinden tek seferde hesaplanıp bulunan ücretin temlik eden ve temlik alanların alacaklarına oranlanarak temlik eden ve temlik alanların vekalet ücretinin belirlenmesi gerekirken asıl davacı ve temlik alanlar adına hükmedilen bedeller üzerinden ayrı ayrı vekalet ücreti hesaplanması doğru olmamıştır.
 
 Buna göre; birleşen 2022/72 Esas sayılı dosyada hükmedilen toplam 9.920.270,00 TL alacağın; %75,31'i olan 7.470.270,00 TL'sinin davacı yükleniciye, % 14,11'i olan 1.400.000,00 TL'sinin temlik alan ...'ye, % 4,03'ü olan 400.000,00 TL'sinin temlik alan ...'e, % 6,55'i olan 650.000,00 TL'sinin temlik alan ...'a ödenmesine karar verildiği, bu durumda toplam 9.920.270,00 TL alacak üzerinden AAÜT göre hesaplanan toplam 690.405,40 TL vekalet ücretinin davacı yüklenici ve temlik alanların alacaklılarına oranlandığında davacı yüklenici lehine (690.405,40 TL x % 75,31=) 519.944,30 TL, temlik alanlar ... lehine (690.405,40 TL x % 14,11=) 97.416,20 TL, ... lehine (690.405,40 TL x % 4,03 =) 27.823,34 TL, ... lehine (690.405,40 TL x % 6,55=) 45.221,56 TL vekalet ücreti alacağına hükmedilmesi gerekmektedir.
@@ -47,6 +51,8 @@ Buna göre; birleşen 2022/72 Esas sayılı dosyada hükmedilen toplam 9.920.270
 Davacı 04.11.2024 tarihli tam ıslah dilekçesi ile alacak davacının itirazın iptali davasına dönüştürülmesini talep etmiş, mahkemece de ıslah dilekçesi kabul edilerek yargılama sonucunda itirazın iptaline ilişkin hüküm kurulmuştur.
 
 ## Yargıtay 3. HD 2023/2474 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/978276600)
 
 Davacı; 02.03.2017 tarihinde meydana gelen depremde evinin hasar görmesi nedeniyle ... Valiliği İl Afet ve Acil Durum Müdürlüğü tarafından yapılacak konutlarda hak sahipliği tanındığını, Çevre ve Şehircilik Bakanlığı tarafından ... Konut İnş A.Ş.’ye yaptırılan konutların 05.09.2019 tarihinde teslim edildiğini, taşınmazda birçok ayıp ve projeye aykırılıklar bulunduğunu ileri sürerek taşınmazın ayıplı ve eksik hususlarının tespitine, ayıp ve eksikliklerin taşınmazda yarattığı değer kaybı ve masraflara ilişkin şimdilik 1.000,00 TL’nin taşınmazın teslimi tarihinden itibaren işletilecek en yüksek faiz oranı ile tahsiline karar verilmesini talep etmiştir.
 

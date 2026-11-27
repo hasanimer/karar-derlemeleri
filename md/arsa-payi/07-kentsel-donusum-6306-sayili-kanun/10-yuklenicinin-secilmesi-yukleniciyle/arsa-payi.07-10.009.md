@@ -28,6 +28,8 @@ iş bedelinden mahsubuna karar verilerek, kalan bakiyeye ilişkin hüküm kurulm
 
 ## İstanbul BAM 15. HD 2026/158 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1194686200)
+
 Yüklenicinin sunduğu fiyat teklifi, yazılı bir belge olsa da, bunun kabul edildiğinin ispatı taraflara düşer. Yazılı olması geçerlilik değil, ispat kolaylığı sağlar.Eğer yüklenici bir fiyat teklifi sunmuş ve bu teklif iş sahibi tarafından imzalanmış, kaşelenmiş veya içeriğine uygun olarak işe başlanmasına izin verilmişse, bu teklif metni artık yazılı bir eser sözleşmesi hükmündedir.İş sahibinin fiyat teklifini açıkça (imza altına alarak) kabul etmesi şart değildir. Teklifin sunulmasından sonra iş sahibinin işin yapılmasına rıza göstermesi, yer teslimi yapması veya avans ödemesi gibi eylemleri, teklifin zımnen kabul edildiğini gösterir. Ancak, fiyat konusunda açık bir mutabakat yoksa (örneğin teklif sunulmuş ancak iş sahibi "tamam yap" demiş fakat fiyata onay verdiğine dair delil yoksa), sözleşme kurulmuş sayılır fakat bedel teklif edilen bedel değil, TBK m. 481 gereği "yapıldığı yıl mahalli piyasa rayiçlerine" göre belirlenir. İşin yapılmasına ses çıkarılmaması veya işin teslim alınması, sözleşmenin kurulduğuna karinedir. Ancak teklif edilen "fiyatın" kabul edildiğinin ispatı yükleniciye aittir.
 Yüklenici, iş sahibinin fiyat teklifini "aynen" kabul ettiğini yazılı delille veya yeminle ispatlayamazsa, iş bedeli teklif edilen bedel üzerinden değil, bilirkişi marifetiyle hesaplanacak piyasa rayici üzerinden ödenir (Hukuk Genel Kurulu, 18.01.2012 tarih, E: 2011/15-768, K: 2012/6).Yüklenicinin yaptığı ve iş sahibinin yararına olan, ayıpsız ve eksiksiz imalatın bedeli yüklenicinin alacak hanesine yazılır. İş sahibi tarafından yükleniciye yapılan ve ispatlanan ödemeler yüklenicinin borç hanesine yazılır.Dava dilekçesi ile davacı, davalı iş sahibine ait otel'de yapılacak işler sebebiyle 04.08.2014 tarihli KDV hariç 67.300 USD bedelli teklif ve 10.12.2014 tarihli KDV hariç 14.500 USD bedelli teklif verdiklerini ve davalının kabulü ile edimi başladıklarını akabinde ek işlerde yapıldığını belirterek toplam yaptıkları iş bedeli toplamının 83.871,00 USD olduğu ve bunun karşılığı 239.618,71 TL alacaklı olduklarını bu bedel itibariyle icra takibine başlamıştır.
 
@@ -37,10 +39,14 @@ Yüklenici, iş sahibinin fiyat teklifini "aynen" kabul ettiğini yazılı delil
 
 ## İstanbul BAM 15. HD 2025/972 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1173589100)
+
 Maddesine göre tefrik edilen davalı ... firmasının ödemelerle yükümlü olduğunu , davacının bu sebeple ... firmasına faturaları düzenlediğini , ... ile davalı müvekkil arasında borç bulunmadığına dair mutabakat olduğunu belirterek davanın reddini talep etmiştir.Yerel mahkeme , dosyada alınan kök ve ek raporu dayanak alarak , davacının davalı ... şirketine faturaları kestiğini , defterlerinde tefrik edilen ... firmasından alacaklı göründüğünü , ticari defterlerde davacının davalıdan alacaklı görünmediğini , davacının davalı ... şirketinden alacaklı olduğunu ispatlayamadığı gerekçesiyle davanın reddine karar vermiştir.Taraflar arasındaki sözleşmeler yazılı olmakla birlikte tarafların sözleşme ilişkisine herhangi bir itirazı bulunmamaktadır.Taraflar arasındaki yazılı sözleşmenin 1. maddesinde ,reklam veren reklam filminin yapım ve yayın giderlerini ve bunlar üzerinden belli bir komisyonu reklam ajansına ödediği sürece filmin yayın hakkını elde edn kuruluşu ifade ettiği , 9. maddesinde , sözleşme konusu reklam filminin yapımı ile eser sahibinin mali haklarının ve bağlantılı komşu haklarının devri karşılığında , ajansın yapımcıya 46.000,00 TL.+%18 KDV ödeyeceği düzenlenmiştir.
 Bu düzenleme ödemenin tefrik edilen ... firmasınca yapılacağı anlaşılmaktadır. Dosya kapsamına sunulan faturalardan davacı tarafından faturaların tefrik edilen davalı ... şirketine kesildiği anlaşılmaktadır. Bütün bu hususlar bir arada değerlendirildiğinde davacı yüklenicinin ajans adına filmi gerçekleştirdiği , tefrik edilen davalı ... ajansı filmin kaliteli üretimini üstlendiği , bu sebeple davacının faturaları ... firması adına kestiği görülmüştür. Davalı ... firması ile davalı ... firması arasında ajans sözleşmesi olduğu dosyaya sunulan sözleşmeden anlaşılmaktadır.Dosya kapsamında 26.01.2017 tarihli mutabakat metni sunulduğu bu metinde davalı ... firması ile tefrik edilen davalı ... firması arasında 31.12.2016 tarihi itibariyle 601.80 TL. alacakta mutabık oldukları anlaşılmaktadır.Tefrik edilen davalı ... firması davacıya gönderdiği Kuşadası 4.
 
 ## Sakarya BAM 5. HD 2025/955 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1151097900)
 
 Davacı ile davalı şirket ve dava dışı bazı şahısların Kocaeli 5. Noterliğinin 31/03/2017 tarih ... yevmiye nosu ile kat karşılığı inşaat sözleşmesi imzaladıklarını, sözleşmeye göre Kocaeli - İzmit İlçesi Karabaş Mah. ... Pafta ...
 
@@ -62,6 +68,8 @@ Davalı tarafça davacının üzerine düşen bedeli ödemediği, davacının ke
 
 ## Antalya BAM 7. HD 2025/557 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1147204300)
+
 Davacı vekili açtığı dava ile, davalılar arasında kat karşılığı inşaat sözleşmesi bulunduğunu, davacı ile davalı yüklenici ...'ın yükleniciye düşen 4 nolu bağımsız bölümün 35.000,00 TL'sinin nakit 35.000,00 TL'sinin inşaatın mermerit ve granit mutfak tezgahlarının davacı tarafından yapımı suretiyle toplam 70.000,00 TL bedelle satımı konusunda anlaştıklarını, davacının edimini yerine getirdiğini, 35.000,00 TL'yi ödediğini, mutfak tezgahlarını yaptığını, ancak tapunun davacıya verilmediğini, davalı arsa sahibinin 2 adet tapuyu halen elinde tuttuğunu, dava açılmasından sonra tapulardan 6 nolu bağımsız bölümü muvazaalı olarak kızı ...'ye devrettiğini, davalı yüklenicinin dava konusu bağımsız bölümü çoktan hak ettiğini, ileri sürerek Antalya İli, Kepez ilçesi ...
 
 …
@@ -77,6 +85,8 @@ Davalı ... vekili cevabında, davalı müteahhit tarafından sözleşme gereği
 Yerel mahkeme kararının esası incelenmeksizin ORTADAN KALDIRILMASINA ve davanın yeniden görülmesi için dosyanın kararı veren mahkemeye GÖNDERİLMESİNE …
 
 ## İzmir BAM 4. HD 2024/1766 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1063647100)
 
 Davacı vekili dava dilekçesinde özetle; davacı ile alacaklı davalının 27/01/2015 tarihinde aralarında daire satış sözleşmesi yaptıklarını , bu sözleşmeye istinaden davacının peşinat olarak 60.000,00 TL aldığını , sözleşmeye konu daireyi teslim edemediğini , aldığı 60.000,00 TL ye dava konusu senedin verildiğini teminat olarak verildiğinin fotokopisinde belirtildiğini , döviz olarak talep edilmesinin hukuka uygun olmadığını , teminat senedi olduğundan icra takibine konu edilemeyeceğini , davalının daire satışı üzerinden aldığı bedeller düşürülerek icra takibi etmesi gerektiğini ,toplamda 62.000,00TL ödeme yapıldığını ,ana para ödendiğinden faiz ve icra masraflarının tespiti halde davacı tarafından ödeneceğinden bahisle , kambiyo niteliğine haiz olmayan Menemen İcra Müdürlüğü'nün 2017/3490 Esas takibin iptaline, davacının ödediği miktarların takip konusu borç için ödendiği kabul edilerek borcun ne kadar olduğunun tespitine, davalının kötü niyetinden dolayı ödenen miktarlar üzerinden %20 den aşağı olmamak üzere tazminat tayinine karar verilmesini talep etmiştir.
 
@@ -99,12 +109,16 @@ Karşıyaka Asliye Ticaret Mahkemesi'nin 2020/34 Esas - 2021/292 Karar sayılı,
 
 ## İstanbul BAM 15. HD 2024/1205 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1102293400)
+
 Bu düzenleme kapsamında, yüklenicinin imar plan değişikliğini yaptırdıktan sonra, proje ve ruhsat alacağı ve sonrasında eseri sözleşme ve teknik şartnameye uygun tamamlayacağı anlaşılmaktadır.Dava konusu taşınmazla ilgili olan, 1/5000 ve 1/1000 17.06.2016 tarihinde düzeltilerek onandığı, 1/5000 ölçekli planın 28.11.2016 tarihinde kesinleştiği, davalı yüklenicinin de 15.11.2016 tarihinde imar belgesi almak için başvurduğu, 29.11.2016 tarihinde imar belgesi alabildiği anlaşılmıştır. Buraya kadarki zaman diliminde imar durumu kesinleşmeden davacının imar belgesi almak için netice alamadığı ve bunda kusuru olmadığı anlaşılmıştır. Üsküdar Belediyesinin 07.12.2017 tarihli yazısında ve bilirkişi raporunda belirtildiği üzere, dava konusu parselde terk miktarı %62 civarındayken %40 civarına düştüğü belirtilmiştir.Davacı tarafça ihtarla 01.02.2017 tarihinde sözleşmenin 9. Maddesi g fıkrasınca 9 ayda ruhsat alınamaması gerekçesiyle tek taraflı feshedilmiştir.Sözleşmenin 5.
 Maddesinde hacizler, ipotekler, tedbirler ve intikaller ile ilgili işlemler ve masraflar ilgili arsa sahibine ait olduğu, arsa sahipleri mevcut konut ve iş yerlerini boş ve borçsuz olarak yükleniciye teslim etmekle yükümlü olup, tapu kaydında bulunabilecek ipotek, tedbir, haciz gibi takyidatlardan dolayı inşaatın başlaması engellenir veya gecikirse bu işlemlerin tamamlanması için geçecek sürenin inşaat bitim süresine ekleneceğini düzenlemiştir. Dava konusu taşınmazın tapu kaydında irtifak hakkı mevcut olup, davacı arsa sahibi bu irtifak hakkını kaldırmakla sözleşme gereği yükümlüdür. Bu haliyle davacı arsayı inşaata elverişli ve ayıpsız teslim borcunu yerine getirmiş durumda değildir.Üsküdar Belediyesi 11.05.2017 ve 23.05.2017 tarihli yazı cevaplarında şerhlerle ilgili kurumlardan uygun görüş alınmadan veya söz konusu şerh kaldırılmadan ruhsat verilemeyeceği bildirilmiştir.Davacı arsa sahibi tarafından, davalı yükleniciye verilen Beşiktaş ...Noterliğinin 01.02.2016 tarih ve ... yevmiye no'lu vekalette şerhlere dair bir yetki verilmemiştir. Sözleşmenin 7. Maddesinin e fıkrasına göre inşaat süresi yapı ruhsatının alındığı tarihten itibaren 30 aydır.
 
 Sözleşme kapsamından yüklenicinin öncelikle imar değişikliğini sonuçlandırıp sonra eseri yapıp teslim etmekle yükümlü olduğu anlaşıldığından, davalı yüklenicinin kusuru olmadan imar durum belgesinin alınmasının ve sonuç itibariyle ruhsat işlerinin uzadığı anlaşıldığından, yüklenicinin temerrüdü oluşmamıştır. Yerel mahkeme kararı dosya kapsamına, hukuka ve usule uygundur. Davacı vekilinin istinaf talepleri isabetsizdir.
 
 ## İstanbul BAM 45. HD 2024/780 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1044160500)
 
 Dava ve taraf ehliyeti kamu düzenine ilişkin olup, mahkemece re’sen göz önünde tutulması gereken hususlardandır.
 
@@ -123,6 +137,8 @@ H Ü K Ü M: Gerekçesi yukarıda izah edildiği üzere;1-Davacı vekilinin isti
 
 ## Antalya BAM 7. HD 2024/667 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1039966400)
+
 Davalılar tarafından sunulmuş cevap dilekçesi bulunmamaktadır.
 
 …
@@ -136,6 +152,8 @@ Her ne kadar davacı tarafça taşınmazın davalı ...'a muvazalı şekilde dev
 Davacılar vekilinin istinaf başvurusunun ESASTAN REDDİNE …
 
 ## Antalya BAM 7. HD 2024/571 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1033496800)
 
 2012/3744 K.), davacı ve birleşen dosya davacısının tümden tapu iptal tescili kendi adlarına talep ettiğinin anlaşıldığı, ancak asıl dava davacısının tasfiyenin beklenmesi talebinin hükmün sonucuna etki etmeyeceği, tasfiye dosyasında eldeki dosya sonucunun dikkate alınması ve tasfiyenin buna göre yapılması gerektiğinin anlaşıldığı, birleşen dava davacısının asıl davacının sözleşmeye göre aldığı daireler bulunduğu, bu dairelerden kendisine pay verilmediği, bu nedenle eldeki davaya konu dairelerin, birleşen davacı adına tapu iptal tescilinin gerektiğini savunmuş ise de, yapılan sözleşmede pay olarak kararlaştırıldığının anlaşıldığı, şayet tarafına bir kısım bağımsız bölümlerden pay verilmedi ise, bu bağımsız bölümlerdeki payı ayrı bir dava konusu yapılarak tapu iptal tescil talep etmesi gerektiği kanaatine varılarak, her iki davacının bu yöndeki taleplerinin yerinde görülmediği, yine birleşen davada temlik alan ...'un talebi yönünden yapılan değerlendirmede, sunulan temlik sözleşmesinde açılan dava için temlik yapılmadığı, kendi aralarında tapu devri yapacaklarının kararlaştırıldığının anlaşıldığı, davayı temlik mahiyeti olmayan sözleşme dikkate alınmadığı, bu kişi hakkında hüküm
 kurulmasına yer olmadığına karar vermek gerektiği, anlatılanlara göre birlikte ifa kuralı gözetilerek, Antalya 2. ATM'nin birleştirme kararı uyarınca bakılan dava ile birleşen davada davacıların payları oranında tapu iptal tescil hükmü kurulduğu, karşı dava yönünden, davalı/ karşı davacı yüklenicinin kendi payına düşen bloklarla kendi payına düşen bloklar arasındaki değer farkı nedeniyle alacak talebinde bulunduğu, esasen bu iddianın savunma niteliğinde ileri sürülebilecek mahiyette olsa da, davacı ayrı bir davaya konu etmiş olmakla, bu yönden eldeki davada mahsup yapmak yerine ayrı bir hüküm kurulduğu (aynı yönde Yargıtay 15 HD 2010/71525 E.
@@ -152,6 +170,8 @@ Yerel mahkemenin, Antalya 2.Asliye Ticaret Mahkemesinin ... Esas sayılı dosyas
 
 ## İstanbul BAM 45. HD 2023/1110 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/916815000)
+
 İLK DERECE MAHKEMESİ KARARI Mahkemece; "Hukuk Muhakemeleri Kanunu'nun 389/1. maddesi "Mevcut durumda meydana gelebilecek bir değişme nedeniyle hakkın elde edilmesinin önemli ölçüde zorlaşacağından ya da tamamen imkânsız hâle geleceğinden veya gecikme sebebiyle bir sakıncanın yahut ciddi bir zararın doğacağından endişe edilmesi hâllerinde, uyuşmazlık konusu hakkında ihtiyati tedbir kararı verilebilir." hükmünü içermektedir.
 
 …
@@ -166,6 +186,8 @@ olup, önergeyi veren ortaklar tarafından imzalanmıştır.
 H Ü K Ü M: Gerekçesi yukarıda izah edildiği üzere; 1-Davacılar vekilinin istinaf başvurusunun 6100 sayılı Hukuk Muhakemeleri Kanunu'nun 353/1.b.l bendi uyarınca ESASTAN REDDİNE …
 
 ## İzmir BAM 11. HD 2023/400 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/873907400)
 
 Dava, limited şirket müdürünün haklı nedenle azli, davalı şirkete kayyım atanması, davalı şirket tarafından kat karşılığı inşaat yapım sözleşmesi kapsamında inşa edilen taşınmazların üçüncü kişilere devir ve temlikinin ihtiyati tedbir yoluyla önlenmesine karar verilmesi istemine ilişkindir.
 

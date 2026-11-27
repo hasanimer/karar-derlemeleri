@@ -22,6 +22,8 @@ uyari: "Derleyenin seçtiği alıntılardır; kararın tamamı değildir. Künye
 
 ## Danıştay 6. D. 2023/1430 E., 2024/986 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1030999000)
+
 İlk Derece Mahkemesi kararının özeti: ...
 
 …
@@ -38,6 +40,8 @@ Dava konusu işlemin yukarıda özetlenen gerekçeyle iptaline ilişkin İdare M
 
 ## Danıştay 4. D. 2023/11278 E., 2024/403 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1056019400)
+
 DAVANIN KONUSU: 6306 sayılı Kanun'un 2. maddesi gereğince Hatay İli, Antakya İlçesinde bulunan ve ekli kroki ile listede sınır ve koordinatları gösterilen alanın riskli alan ilan edilmesine ilişkin 05/04/2023 tarihli, 32154 sayılı Resmi Gazete'de yayımlanan 04/04/2023 tarihli ve 7033 sayılı Cumhurbaşkanı Kararı'nın iptali istenilmektedir.
 
 …
@@ -45,6 +49,8 @@ DAVANIN KONUSU: 6306 sayılı Kanun'un 2. maddesi gereğince Hatay İli, Antakya
 Aynı Kanun'un 14. maddesinde de; dava dilekçelerinin ehliyet yönünden inceleneceği ve 15/1-b maddesinde; bu hususta Kanuna aykırılık görülmesi halinde davanın reddine karar verileceği hükmü düzenlenmiştir.
 
 ## Danıştay 6. D. 2023/7653 E., 2024/386 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1048128900)
 
 DAVANIN KONUSU : Kocaeli ili, Dilova ilçesi sınırları içerisinde “rezerv yapı alanı” olarak belirlenen sahada yer alan ve ekli listede belirtilen taşınmazların Kocaeli Büyükşehir Belediye Başkanlığı tarafından 2942 sayılı Kamulaştırma Kanununun 27. maddesi uyarınca acele kamulaştırılmasına ilişkin 08/07/2022 tarih ve 31890 sayılı Resmi Gazete'de yayımlanan 07/07/2022 tarih ve 5786 sayılı Cumhurbaşkanlığı Kararı ile 30/12/2021 tarih ve 31705 sayılı Resmi Gazete'de yayımlanan 29/12/2021 tarih ve 5034 sayılı Cumhurbaşkanlığı Kararının, Kocaeli ili, Dilovası ilçesi, …
 
@@ -58,9 +64,13 @@ Bu durumda, yukarıda belirtilen usuli eksiklik nedeniyle, temyize konu Daire ka
 
 ## Danıştay 4. D. 2023/14114 E., 2024/201 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1055123000)
+
 Dosyanın incelenmesinden; 6306 sayılı Afet Riski Altındaki Alanların Dönüştürülmesi Hakkındaki Kanunun 2. maddesi uyarınca riskli alan ilan edilmesine ilişkin dava konusu 04/04/2023 tarihli ve 7033 sayılı Cumhurbaşkanı Kararının 05/04/2023 tarihli, 32154 sayılı Resmi Gazete'de yayımlanması üzerine 28/12/2023 tarihinde kayıtlara giren dilekçe ile davanın açıldığı anlaşılmaktadır.
 
 ## Danıştay 6. D. 2022/4919 E., 2023/9224 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1045091100)
 
 İlk Derece Mahkemesi kararının özeti: ...
 
@@ -74,9 +84,13 @@ Dava konusu işlemin yukarıda özetlenen gerekçeyle iptaline ilişkin Mahkeme 
 
 ## Danıştay 6. D. 2023/1507 E., 2023/8049 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1044054900)
+
 Bir alanın riskli alan olarak ilan edilmesi tek başına acele kamulaştırma yapılabilmesi için yeterli olmamakla birlikte, riskli alan olarak ilan edilen uyuşmazlığa konu bölgenin sağlıklı yapılaşmasının, mevcut durumlarından kurtarılıp yenilenerek korunması ve yaşatılarak kullanılabilmesi için bazı taşınmazlarda anlaşma yollarının tıkanma ihtimalinin oluşması, bölgenin ıslahı, uygulamanın aciliyeti ve projenin zaman kaybetmeden hedefine ulaşıp sonuçlandırılması ve bölgeye kazandırılması yenileme projelerinin çok hızlı ve aksamadan yürütülmesi amacı doğrultusunda acele kamulaştırma yoluna gidildiği anlaşılmakla, kamu yararının olağan kamulaştırma yoluyla zamanında gerçekleştirilememesi durumunun ve taşınmazın bir an önce kullanılması zorunluluğunun doğduğu, dolayısıyla olayda 2942 sayılı Yasanın 27. maddesinin uygulanabilmesi için gerekli olan olağanüstü durumun, acelelik halinin ve bu yönteme başvurulması ile amaçlanan kamu yararının bulunduğu sonucuna varıldığından, dava konusu kararda mevzuata ve hukuka aykırılık görülmemiştir.
 
 ## Danıştay 6. D. 2023/1315 E., 2023/7307 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1028932800)
 
 DAVANIN KONUSU : Kocaeli İli, Gölcük İlçesinde ilan edilen riskli alan ve rezerv yapı alanı sınırları içerisinde bulunan ve ekli listede bulundukları yer ile ada ve parsel numaraları belirtilen taşınmazların İçişleri Bakanlığının …
 
@@ -94,6 +108,8 @@ sayılı kamulaştırma kararının iptali istenilmektedir.
 
 ## Danıştay 6. D. 2020/2238 E., 2023/6868 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1021136200)
+
 Diğer taraftan büyükşehir belediye sınırları içerisinde yer alan riskli alanlara, rezerv yapı alanlarına ve riskli yapıların bulunduğu taşınmazlara ilişkin imar planlarının yapılması ve onaylanmasında özel kanun olan 6306 sayılı Kanun'un uygulaması gerektiğinden, söz konusu taşınmazlara/alanlara ilişkin imar planlarını yapma ve onaylama yetkisi Çevre ve Şehircilik Bakanlığına geçmekte, ancak Bakanlık, sahip olduğu bu yetkisini belediyelere devredebilmektedir.
 
 Bu açıklamalar doğrultusunda riskli alanlara, rezerv yapı alanlarına ve riskli yapıların bulunduğu taşınmazlara ilişkin imar planlarının yapılması ve onaylanması yetkisinin Çevre ve Şehircilik Bakanlığına ait olduğu ve Bakanlığın sahip olduğu bu yetkisini belediyelere devredebileceği açık olmakla birlikte, Bakanlığın söz konusu yetkisinin varlığından söz edilebilmesi için mutlaka bir alanın dava konusu işlemin tesis edildiği tarih itibariyle Bakanlar Kurulu (6306 sayılı Kanun'un 2. maddesinin 1. fıkrasının (ç) bendinde 02/07/2018 tarihli, 700 sayılı Kanun Hükmünde Kararname'nin 196. maddesi ile yapılan değişiklik sonrasında Cumhurbaşkanı) kararı ile riskli alan ilan edilmesi veya Çevre ve Şehircilik Bakanlığınca rezerv yapı alanı tespit edilmesi ya da riskli alan içinde veya dışında kalan herhangi bir taşınmaz üzerindeki yapılara ilişkin 6306 sayılı Kanun'un 3. maddesinde düzenlenen prosedürler işletilerek Bakanlıkça lisanslandırılan kurum ve kuruluşlarca riskli yapı tespitinin yapılmış olması gerekmektedir.
@@ -107,6 +123,8 @@ Dava konusu işlemin iptaline ilişkin Mahkeme kararına yönelik olarak yapıla
 
 ## Danıştay 4. D. 2023/11467 E., 2023/6674 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1047118400)
+
 DAVANIN KONUSU : İzmir İli, Aliağa İlçesi, ... ve ... Mahalleleri sınırları içerisinde bulunan ve ekli kroki ile listede sınır ve koordinatları gösterilen alanın 6306 sayılı Afet Riski Altındaki Alanların Dönüştürülmesi Hakkındaki Kanunun 2. maddesi uyarınca riskli alan ilan edilmesine ilişkin 04/06/2022 tarih ve 31856 sayılı Resmi Gazetede yayımlanan 03/06/2022 tarihli ve 5688 sayılı Cumhurbaşkanı Kararının iptali istenilmektedir.
 
 DAVACILARIN İDDİALARI :
@@ -119,6 +137,8 @@ Dava konusu 03/06/2022 tarihli ve 5688 sayılı Cumhurbaşkanı Kararının dava
 
 ## Danıştay 6. D. 2021/136 E., 2023/6287 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1008104600)
+
 Yukarıda yer verilen açıklamalar çerçevesinde dosyada bulunan bilgi ve belgelerin incelenmesinden, 06/02/2017 tarih ve 2017/9867 sayılı Bakanlar Kurulu kararıyla riskli alan ilan edilen alanda, 2/3 çoğunluğa sahip olan müdahil şirketin bu çoğunluk hakkına dayanarak, alandaki diğer taşınmazların, 6306 sayılı Kanun ve Uygulama Yönetmeliği gereği ihale yoluyla satışının sağlanması için gerekli girişimlerde bulunduğu, davacıların ise, taşınmazlarının ihale yoluyla satışına engel olmak ve olası bir hak kaybına uğramamak adına müdahil şirket ile arsa payı karşılığı inşaat sözleşmesi düzenlediklerini, mevcut durumun gerçek iradelerini yansıtmadığını, nitekim, sözleşmenin düzenlenmesinden 90 gün sonra sözleşme ile verilen vekâletnamelere ilişkin azilname düzenledikleri beyanında bulundukları anlaşılmaktadır. Ayrıca her ne kadar, davacılar ile müdahil şirket arasında düzenlenen arsa payı karşılığı inşaat sözleşmesinin 7. maddesinde;
 "İş bu sözleşmenin taraflarca imzalanmasının ardından arsanın mülkiyetinin tamamı yükleniciye devredilecektir." şeklinde düzenleme var ise de, UYAP sistemi üzerinde TAKBİS kayıtlarının incelenmesinden, sözleşmeye konu taşınmazların mülkiyetinin, davacılar tarafından yüklenici (müdahil) şirkete devredilmediği belirlenmiştir.
 
@@ -127,6 +147,8 @@ Yukarıda yer verilen açıklamalar çerçevesinde dosyada bulunan bilgi ve belg
 Yukarıda özetlenen gerekçeyle davanın ehliyet yönünden reddine ilişkin Mahkeme kararına yönelik olarak yapılan istinaf başvurusunun reddi yolundaki temyize konu … Bölge İdare Mahkemesi … İdari Dava Dairesinin … tarih ve E:… , K:… sayılı kararının BOZULMASINA …
 
 ## Danıştay 6. D. 2022/2336 E., 2023/5784 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1004382200)
 
 DAVALI ... İLE ...BAKANLIĞI SAVUNMALARININ ÖZETİ:
 
@@ -143,6 +165,8 @@ sayılı Cumhurbaşkanı kararının alındığı , 05/04/2022 tarihli, 3368683 
 Dava konusu 04/02/2022 tarih ve 5180 sayılı Cumhurbaşkanı Kararının uyuşmazlığa konu taşınmaz yönünden İPTALİNE …
 
 ## Danıştay 6. D. 2023/2443 E., 2023/4536 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/957640000)
 
 İSTEMİN ÖZETİ: Davacı tarafından, 6306 sayılı Afet Riski Altındaki Alanların Dönüştürülmesi Hakkında Kanun kapsamında 19/02/2018 tarihli Bakanlar Kurulu kararıyla riskli alan ilan edilen Sahabiye Kentsel Dönüşüm ve Gelişim Projesi alanı içerisine alınan Kayseri İli, Kocasinan İlçesi, …
 
@@ -174,6 +198,8 @@ sayılı kararın, usul ve hukuka aykırı olduğu ileri sürülerek bozulması 
 
 ## Danıştay 9. D. 2022/2583 E., 2023/3692 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1026803800)
+
 Her ne kadar Bölge İdare Mahkemesince; olayda, ihale kararı tarihi ve sözleşmenin imzalandığı tarihte damga vergisine konu kağıtların, 6306 sayılı Kanun kapsamında yapılan bir işleme ilişkin olmadığı, ihalenin ve sözleşmenin hukuken tekemmülü ve vergiyi doğuran olayın gerçekleşmesinden çok sonra yapım işine ilişkin alanın anılan Kanun kapsamında rezerv yapı alanı olarak ilan edilmesinin damga vergisi tahakkuk eden ve ödenen kağıtların mahiyetini değiştirip değiştirmeyeceği ve bu durumun vergi hatası kapsamında kabul edilip edilmeyeceği hususunun hukuki bir ihtilaf niteliğinde olduğu, dolayısıyla 213 sayılı Kanun'un 117 ve 118.maddelerinde kapsamında değerlendirilebilecek bir vergi hatasının bulunmadığı gerekçesiyle davanın kabulüne dair Vergi Mahkemesi kararına karşı davalı tarafından yapılan istinaf başvurusunun kabulüne karar verilmiş ise de; dava konusu yapım işine ilişkin alanın 6306 sayılı Kanun kapsamında rezerv yapı alanı olarak ilan edilen bölgede bulunduğu ve bu tarih itibariyle yapım işinin halen devam ettiği hususlarında taraflar arasında ihtilaf bulunmadığı, vergiyi doğuran olayın gerçek mahiyetinin esas olduğu, söz konusu alanın ihale kararı ve sözleşmenin imzalandığı
 tarihten sonra rezerv yapı alanına dahil edilmesinin ihale ve sözleşme aşamasıyla bütünlük arzeden dava konusu işin rezerv yapı alanında yapıldığı gerçeğini değiştirmeyeceği, istisna hükmünün uygulanmasına da bir etkisinin olmadığı ve olayda alınmaması gereken verginin tahsil edilmesi suretiyle hukuki değerlendirmeyi gerektirmeyecek açıklıkta bir vergilendirme hatası bulunduğu görüldüğünden davanın kabulüne dair Vergi Mahkemesi kararına karşı davalı tarafından yapılan istinaf başvurusunun yukarıda belirtilen gerekçeyle kabulüne,kararın kaldırılmasına, davanın reddine karar veren Bölge İdare Mahkemesi kararında hukuka uyarlık bulunmamaktadır.
 
@@ -182,6 +208,8 @@ tarihten sonra rezerv yapı alanına dahil edilmesinin ihale ve sözleşme aşam
 … Bölge İdare Mahkemesi ... Vergi Dava Dairesinin … tarih ve E:…, K:… sayılı kararının BOZULMASINA …
 
 ## Danıştay 6. D. 2020/5323 E., 2023/3561 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/989379000)
 
 İlk Derece Mahkemesi kararının özeti: ... İdare Mahkemesince verilen ... tarih ve E:..., K:... sayılı kararda; 6306 sayılı Kanunun Uygulama Yönetmeliğinin 15. Maddesi uyarınca adı geçen davacıların anlaşmaya katılmaması üzerine 2/3 çoğunluk uyarınca açık artırma usulü ile satılmasına karar verilmiş ise de, adı geçen davacılar tarafından Kanun uyarınca müdahil şirket ile muhtelif tarihlerde noter huzurunda anlaşma sağlanarak arsa payı karşılığı inşaat sözleşmesinin imzalandığı, bu sözleşmenin 7. Maddesi uyarınca sözleşmenin taraflarca imzalanmasının ardından arsanın mülkiyetinin yüklenici firmaya geçeceğinin belirtildiği, sözleşmeye başkaca bir şart konulmadığı gibi 6306 sayılı Kanunun uygulanma süreci içerisinde imzalanan bir sözleşme olmadığı, tarafların özgür iradesi ile imzalandığı anlaşılmaktadır. Bu durumda; davacıların dava konusu işlem ile güncel menfaat ilişkisinin kalmaması nedeniyle davacıların subjektif dava açma ehliyetinin bulunmadığı sonucuna varılmaktadır. Keza aynı davacılar tarafından, işbu davanın konusu planların dayanağı niteliğinde olan İstanbul İli, Zeytinburnu İlçesi, ... Mahallesindeki ...
 Sitesinin, Çevre ve Şehircilik Bakanlığı'nın ... tarih ve ... sayılı Bakanlık makamı Olur'u ile 6306 sayılı Afet Riski Altındaki Alanların Dönüştürülmesi Hakkında Kanun kapsamında "Rezerv Yapı Alanı" olarak belirlenmesine ilişkin işlemin iptali istemiyle açılan davada ... İdare Mahkemesinin ... tarih ve E:..., K:... sayılı kararıyla davanın ehliyet yönünden reddine, yine benzer şekilde alanın daha önce 6306 sayılı Kanun kapsamında "riskli alan" ilan edilmesine ilişkin Bakanlar Kurulu Kararının iptali istemiyle aralarında işbu davanın davacılarının da bulunduğu kişilerce açılan davada da Danıştay 14. Dairesi'nin 15.01.2019 tarih ve E:2017/826, K: 2019/81 sayılı kararıyla ehliyet ret kararı verildiği görülmekte, dolayısıyla riskli alan kararına ve rezerv yapı alanı kararına karşı dava açma ehliyeti bulunmadığı tespit edilen davacıların aynı bölgeye ilişkin planlara karşı da dava açma ehliyetlerinin olmadığı kanaatine ulaşılmaktadır.
@@ -193,6 +221,8 @@ Davanın yukarıda özetlenen gerekçeyle ehliyet yönünden reddine ilişkin Ma
 …
 
 ## Danıştay 6. D. 2022/6312 E., 2023/3548 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/976196700)
 
 İSTEMİN ÖZETİ : Bakanlar Kurulu'nca riskli alan ilan edilen İstanbul-Kadıköy İlçesi, Fikirtepe ve çevresine ait 1/1000 ölçekli uygulama imar plan notları kapsamında brüt alanlar üzerinden 3194 sayılı İmar Kanununun 23. maddesi uyarınca hesaplanan altyapı katılım bedeline istinaden alınan teminat mektuplarının iadesi istemiyle 17/07/2020 tarihinde yapılan başvurunun zımnen reddine dair işlemin iptali istemiyle açılan davanın görev yönünden reddi yolundaki …
 
@@ -222,9 +252,13 @@ sayılı kararın, usul ve hukuka aykırı olduğu ileri sürülerek bozulması 
 
 ## Danıştay 6. D. 2023/1369 E., 2023/3202 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/988349400)
+
 DAVANIN KONUSU : 26/04/2013 tarih ve 28629 sayılı Resmi Gazete'de yayımlanan, Afyonkarahisar İli, Merkez İlçesi, Hacı Cafer, Hacı Eyüp, Hacı Nuh, Hacı Alioğlu, Mecidiye, Dairecep, Gündoğmuş ve Karamanoğlu Mahalleleri sınırları içerisinde bulunan ve karar eki kroki ile listede sınır ve koordinatları gösterilen alanların, 6306 sayılı Afet Riski Altındaki Alanların Dönüştürülmesi Hakkında Kanunun 2. maddesi uyarınca riskli alan ilan edilmesine ilişkin 11/03/2013 tarih ve 2013/4444 sayılı Bakanlar Kurulu kararı ile 17/05/2013 tarih ve 28650 sayılı Resmi Gazete'de yayımlanan, Afyonkarahisar İli, Merkez İlçe, Gökçe, Aksaraylı, Barbaros, Metli, Sümer, Nakilci, Bademli, Fakıpaşa, Hacı Mustafa, Hacı Abdurrahman ve Hacınasuh Mahalleleri sınırları içerisinde bulunan ve karar eki kroki ile listede sınır ve koordinatları gösterilen alanın, aynı Kanun maddesi uyarınca riskli alan ilan edilmesine ilişkin 17/04/2013 tarih ve 2013/4677 sayılı Bakanlar Kurulu kararının iptali istenilmektedir.
 
 ## Danıştay 13. D. 2023/1542 E., 2023/3039 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1025513100)
 
 İlk Derece Mahkemesi kararının özeti: …
 İdare Mahkemesi’nce verilen kararda; uyuşmazlık konusu taşınmazın mülkiyetinin Hazine'ye ait olduğu, …tarih ve …sayılı işlemle taşınmazın 6306 sayılı Kanun'un 3. maddesinin 3. fıkrası uyarınca Çevre ve Şehircilik Bakanlığı'na tahsis edildiği, Bakanlık Makamı'nın 03/06/2021 tarih ve 1039929 sayılı Olur'u ile Rezerv Yapı Alanı olarak belirlendiği, daha sonra Bakanlık Makamı'nın 21/06/2021 tarih ve 1153813 sayılı Olur'u ile de Rezerv Yapı Alanı olarak belirlenen dava konusu taşınmaz ile birlikte 110 adet taşınmazın 6306 sayılı Kanun'un 6/5-e maddesi uyarınca satışlarının açık artırmalı satış yöntemi ile yapılmasına, satıştan elde edilecek gelirin dönüşüm projeleri özel hesabına aktarılmasına karar verildiği, söz konusu taşınmazın bulunduğu alanın imar planında günübirlik turizm tesis alanı ve turizm tesis alanı olarak planlandığı, taşınmaz üzerindeki yapılar için alınan yapı kayıt belgelerinin Mersin Çevre ve Şehircilik İl Müdürlüğü tarafından 20/09/2021 tarihinde iptal edilerek kamu kurum ve kuruluşlarına söz konusu yapı kayıt belgeleri ile ilgili işlem tesis edilmemesi yönünde bildirimde bulunulduğu, 396 sayılı Milli Emlak Genel Tebliği'nin 4. maddesine göre özel kanun hükümleri
@@ -239,9 +273,13 @@ Bu itibarla, uyuşmazlık konusu taşınmazın bulunduğu alanın Rezerv Yapı A
 
 ## Danıştay 6. D. 2022/5668 E., 2023/2960 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/987424300)
+
 DAVACININ İDDİALARI : İdarenin kamu yararı gözeterek ve hizmet gereklerini ele alarak, her türlü işlem tesis etme hak ve yetkisine sahip olduğu, ancak bölgenin riskli alan ilan edildiğine ilişkin hiçbir ayrıntıya ve gerekçeye yer verilmeyen tarihsiz ve sayısız bir yazı tebliğ edildiği, bu durumun hak arama özgürlüğünü kısıtladığı, riskli alan çalışmaları hakkında da hiçbir bilgiye sahip olunmadığı, risk durumu netleştirilmeden alınan riskli alan kararının ise hakkaniyete ve yasaya aykırı olduğu ileri sürülerek, dava konusu işlemlerin iptal edilmesi gerektiği iddia edilmiştir.
 
 ## Danıştay 13. D. 2023/1464 E., 2023/2896 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1023564500)
 
 İlk Derece Mahkemesi kararının özeti: … İdare Mahkemesi'nce verilen kararda; uyuşmazlık konusu taşınmazın …tarih ve …sayılı işlem ile "Rezerv Yapı Alanı" ilan edildiği, …tarih ve …sayılı işlem ile dava konusu taşınmazın 6306 sayılı Afet Riski Altındaki Alanların Dönüştürülmesi Hakkında Kanun'un 6. maddesinin 5. fıkrasının (e) bendi uyarınca açık artırmalı satış yöntemiyle satışına karar verildiği, taşınmazın 21/09/2022 tarihinde ihaleye çıkarıldığı;
 
@@ -260,6 +298,8 @@ Anlaşmaya konu taşınmaz malın tüm hukukî ve fiili vasıfları ile satın a
 Bu itibarla, uyuşmazlık konusu taşınmazın bulunduğu alanın Rezerv Yapı Alanı olarak ilan edilmesine ilişkin davalı idarenin … tarih ve …sayılı işlemine karşı herhangi bir davanın açılıp açılmadığının araştırılması, dava açılmış ise bu davanın sonucu ile birlikte davacının yapı kayıt belgesinin iptaline yönelik işleme karşı açmış olduğu davanın sonucu beklenerek bir karar verilmesi gerektiği kanaatiyle çoğunluğun görüşüne katılmıyorum.
 
 ## Danıştay 6. D. 2021/2504 E., 2023/2591 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/926005300)
 
 İSTEMİN ÖZETİ: Manisa ili, Yunusemre ilçesi, ... Mahallesi, .. ada .. parsel sayılı taşınmazın maliki olan davacı tarafından, anılan taşınmazın bulunduğu ve riskli alan olarak ilan edilen alanda Çevre ve Şehircilik Bakanlığınca .... tarihli ... sayılı işlem ile onaylanan 3194 sayılı Kanunun 18. maddesi uyarınca tesis edilen parselasyon işlemi ile dayanağı Çevre ve Şehircilik Bakanlığınca ... tarihinde onaylanan 1/1000 ölçekli uygulama imar planın iptali istemiyle açılan davada, dava konusu işlemlerin iptali yolundaki Manisa ... İdare Mahkemesinin ... tarih ve E:..., K:... sayılı kararına karşı yapılan istinaf başvurusunun reddine dair .. Bölge İdare Mahkemesi ... İdari Dava Dairesince verilen ... tarih ve E:..., K:... sayılı kararın, usul ve hukuka aykırı olduğu ileri sürülerek bozulması istenilmektedir.
 

@@ -20,6 +20,8 @@ uyari: "Derleyenin seçtiği alıntılardır; kararın tamamı değildir. Künye
 
 ## Yargıtay 23. HD 2017/3267 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/386504900)
+
 Davacı vekili, asıl davada, taraflar arasında imzalanan arsa payı karşılığı inşaat sözleşmesi gereğince müvekkili yüklenicinin inşaata başladığını ancak idare mahkemesinin kararları sonucu konut sayısının düşürüldüğünü, davalı arsa sahibinin uyarlama yapılmasını kabul etmediğini ileri sürerek, süre uzatım ve ek mücbir sebep halinin oluştuğunun ve devam ettiğinin, işin 24.11.2011 tarihinde bitirilmesi gerektiği konusunda bir yükümlülüğün doğmadığının tespiti ile bu konudaki muarazanın meni, konut sayısında uyarlama yapılıncaya kadar geçecek sürenin süre uzatımı olarak tespiti ve bu konudaki muarazanın meni, davalının fesih ihtarının hüküm ve sonuç doğurmadığının tespitini; birleşen 2012/100 esas sayılı davada, davacı arsa sahibi vekili, taraflar arasında imzalanan protokolle inşaatın teslimi gereken tarihin 24.11.2011 olarak belirlendiği, inşaatın seviyesinin %60 olduğunu ileri sürerek, sözleşmenin feshi,inşaatın arsa sahibi kooperatifçe yapılmasına izin verilmesini ve müdahalenin menini; birleşen 2012/312 esas sayılı davada, davacı yüklenici vekili, taraflar arasındaki sözleşmelerde kanal ve yol katılım paylarının %20'sinin davalı arsa sahibince ödenmesi gerektiğini ileri sürerek,
 bu konuda yapılan icra takibine vaki itirazın iptali ile icra inkar tazminatının tahsilini talep ve dava etmişlerdir.
 
@@ -32,6 +34,8 @@ Kabule göre de, mahkemece hüküm fıkrasında, uyarlamanın, yüklenicinin ken
 SONUÇ: Yukarıda (1) bentte açıklanan nedenlerle, asıl davada davacı vekilinin temyiz itirazlarının reddi ile mahkemenin 21.11.2016 günlü tavzih talebinin reddine ilişkin kararının ONANMASINA …
 
 ## Yargıtay 23. HD 2016/228 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/236957200)
 
 Davacı vekili, taraflar arasında imzalanan arsa payı karşılığı inşaat sözleşmesi ve ek sözleşmelerde, davacı yükleniciye inşaatın aşamalarına göre bağımsız bölüm devrinin yapılması gerektiği, ancak ihtara rağmen 44 adet bağımsız bölümün satış yetkisinin verilmediğini ileri sürerek, sözleşmede düzenlenen cezai şartın tahsiline yönelik başlatılan icra takibine vaki itirazın iptalini talep ve dava etmiştir.
 
@@ -49,6 +53,8 @@ Gerçekten de, fesih halinde cezai şartın istenemeyeceği ortada olduğu gibi,
 SONUÇ: Yukarıda (1) numaralı bentte açıklanan nedenlerle, davalı vekilinin temyiz talebinin reddine, (2) numaralı bentte açıklanan nedenlerle, davacı vekilinin temyiz itirazlarının kabulü ile mahkeme kararının BOZULMASINA …
 
 ## Yargıtay 23. HD 2013/7583 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/511265600)
 
 Davacı vekili, müvekkili şirket ile davalıların da arasında bulunduğu arsa sahipleri arasında arsa payı karşılığı inşaat sözleşmeleri yapıldığını ve arsa sahiplerine ait parsellerin tevhit edildiğini, ilgili belediyesinden ....08.2007 tarihinde yapı ruhsatı alınarak inşaata başlandığını, ancak daha sonra belediye imar planının İdare Mahkemesi'nce iptal edildiğini, buna bağlı olarak inşaat ruhsatının da iptal edildiğini ve inşaatın durdurulduğunu, hali hazırda ... dükkanın ve ... dairenin kaba inşaatının tamamlandığını, fakat mevcut imar planına göre inşaat alanını genişletmenin mümkün olmadığını, davalıların, bu beklenmeyen hal sebebiyle, yeniden paylaşım yapılması hususunda anlaşmaya yanaşmadıklarını, imar durumundaki değişiklikler nedeniyle inşaatın sözleşmede öngörüldüğü şekilde yapılmasının mümkün olmadığını ileri sürerek, müvekkili ile davalılar arasındaki arsa payı karşılığı inşaat sözleşmesinin değişen şartlara uyarlanmasını ve hakkaniyet çerçevesinde davalılara verilmesi gereken daire, dükkan ya da nakdi miktarın belirlenmesini talep ve dava etmiştir.
 
@@ -69,6 +75,8 @@ TMK'nın 692. maddesi uyarınca, sözleşmenin feshi de "olağanüstü tasarruf"
 SONUÇ: Yukarıda açıklanan nedenlerle, davacı vekilinin temyiz itirazlarının kabulü ile hükmün, davacı yararına BOZULMASINA …
 
 ## Yargıtay 23. HD 2013/3260 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/488751000)
 
 Bu durumda, akdi ilişkiye dayalı bu ihtilafın 01.03.1994 tarihli arsa payı karşılığı inşaat sözleşmesinin paylaşıma ilişkin hükümleri ve proje değişikliği ile oluşan fiili duruma göre uyarlama yapılarak anlaşmazlığın çözümlenmesi gerekirken, taraflar arasında akdi ilişki yokmuşçasına, ihtilafın ortaklığın giderilmesi yolu ile çözülmesi gerektiğinden bahisle asıl davanın reddine karar verilmesi doğru olmamıştır.
 

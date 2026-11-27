@@ -22,6 +22,8 @@ uyari: "Derleyenin seçtiği alıntılardır; kararın tamamı değildir. Künye
 
 ## Yargıtay 15. HD 2020/2854 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/648275900)
+
 Davacı ... İnş. Taah.
 
 …
@@ -38,6 +40,8 @@ SONUÇ: Yukarıda 1. bentte açıklanan nedenlerle, Dairemizin 10.10.2019 gün, 
 
 ## Yargıtay 15. HD 2020/2819 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/648270200)
+
 Buna göre ilk başta onaylı mimari projeye ve ruhsata aykırılıklar ile eksik ve kusurlu işler barındıran inşaatın, yargılama sırasında mahkemece verilen yetki ve süre üzerine yüklenici tarafından onaylı mimari projeye ve ruhsata aykırılıklar ile eksik ve kusurlu işler giderilerek tamamlandığı ve 22.10.2015 tarihli yapı kullanma izin belgesinin alındığı anlaşılmış olup, bu durumda arsa sahibinin dava tarihi itibariyle davaya karşı çıkmakta haklı olması nedeniyle asıl davada harç, yargılama gideri ve vekâlet ücreti ile sorumlu tutulmaması gerekirken, davalı arsa sahininin ücreti vekâlet, yargılama gideri ve harçtan sorumlu tutulması doğru olmamıştır.
 
 Arsa sahibinin açtığı birleşen İstanbul Anadolu 4. Asliye Hukuk Mahkemesi 2012/816 Esas sayılı dosyasında ise, davalı yüklecinin sözleşmeye, ruhsata ve imara uygun bina yapmaması nedeniyle akdedilen sözleşmenin geriye etkili feshi ve tapunun eski hale iadesi talep edilmiştir. Dosya kapsamında aldırılan bilirkişi raporlarına göre binanın onaylı mimari projeye ve ruhsata aykırılıklar içerdiği, eksik ve kusurlu işlerin bulunduğu tespiti ile dosyada mevcut Pendik Belediyesi'nin 28.11.2013 tarihli yazısına göre 14.04.2006 tarihli inşaat ruhsat süresinin dolduğu ve inşaatta mimari projeye aykırılık bulunduğundan yapı hakkında yasal süreç başlatıldığı belirtildiğinden, birleşen dava tarihi itibariyle arsa sahibinin birleşen davayı açmakta haklı olduğu anlaşıldığı ve bu davanın açılmasından sonra esik ve kusurlar ile projeye aykırılık giderilip yasal hale getirildiğinden birleşen davada davalı yüklenici yararına vekalet ücretine hükmedilmemesi gerekirken, yazılı şekilde hüküm tesisi de usul ve yasaya aykırı olmuştur. Kararın belirtilen sebeplerle bozulması uygun görülmüştür.
@@ -45,6 +49,8 @@ Arsa sahibinin açtığı birleşen İstanbul Anadolu 4. Asliye Hukuk Mahkemesi 
 SONUÇ: Yukarıda 1. bentte yazılı nedenlerle asıl dava davacısı yüklenicinin tüm, davalı-birleşen dava davacısı arsa sahibinin diğer temyiz itirazlarının reddine, 2. bent uyarınca kabulü ile hükmün davalı-birleşen dava davacısı arsa sahibi yararına BOZULMASINA …
 
 ## Yargıtay 15. HD 2020/2691 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/647977400)
 
 Dava, arsa payı karşılığı inşaat yapım sözleşmesinden kaynaklanmakta olup, el atmanın önlenmesi, tapu kaydındaki kat karşılığı inşaat sözleşmesinin şerhinin terkini, ecrimisil ve maddi tazminat alacaklarının tahisili istemlerine ilişkindir.
 
@@ -59,6 +65,8 @@ Arsa payı karşılığı inşaat yapım sözleşmelerinde yüklenicinin temerr�
 SONUÇ: Yukarıda açıklanan nedenlerle tarafların temyiz itirazlarının kabulü ile... Bölge Adliye Mahkemesi 1. Hukuk Dairesi hükmünün taraflar yararına BOZULMASINA …
 
 ## Yargıtay 15. HD 2020/2688 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/647980700)
 
 Davacı vekili, davalılar arasında akdedilen arsa payı karşılığı inşaat sözleşmesi gereğince davalı yüklenici...'a isabet edecek 4 nolu bağımsız bölümün 16/02/2009 tarihli daire satış sözleşmesi ile müvekkiline satıldığını, müvekkilinin davalı ...'a 55.000,00 TL bedel ödeyerek 4 nolu bağımsız bölümü kaba inşaat halinde teslim aldığını, müvekkilinin daireyi tamamlamak için 60.000,00 TL masraf yaptığını, davalı arsa sahibinin tapu devrine yanaşmadığını ileri sürerek, dava konusu İstanbul ili, Pendik ilçesi, Dolayoba, Velibaba mevkii, 8432 parselde kayıtlı 4 nolu bağımsız bölümün davalı ... adına olan tapu kaydının iptâli ile ile davacı adına tesciline, mümkün olmadığı takdirde davalı yükleniciye ödenen satış bedeli ile davalı arsa sahibi adına kayıtlı gözüken 4 nolu daireye yapılan masrafın ticari faizi ile davalılardan müştereken ve müteselsilen tahsiline karar verilmesini talep etmiştir.
 
@@ -76,11 +84,15 @@ SONUÇ: Yukarıda açıklanan nedenlerle temyiz tiriazlarının kabulü ile hük
 
 ## Yargıtay 15. HD 2020/2445 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/600446800)
+
 Davacı arsa sahibi, davalı ... Uluslararası Nakliyat ve Hayvancılık Tarım Petrol Ürünleri İnşaat Malzemeleri İthalat İhracat Ltd. Şti. yüklenicidir. ... 1. Noterliği'nde imzalanan 23.11.2015 gün 13403 yevmiye nolu düzenleme şeklinde taşınmaz satış vaadi ve arsa payı karşılığı inşaat sözleşmesi ile davalı yüklenici, davacı arsa sahibine ait I... Mah. 2157 ada 10 parsel sayılı taşınmaz üzerinde kat karşılığı inşaat yapımını üstlenmiştir. Gelen tapu kayıtlarında inşaat yapılacak taşınmazın davacı adına tapuda kayıtlı iken, sözleşmenin imzalandığı 23.11.2015 tarihinde davalı yüklenici şirkete, onun tarafından 10.12.2015 tarihinde dava dışı ... ve 16.12.2015 tarihinde dava dışı ...'e satış yoluyla intikal ettiği ve en son 08.01.2016 tarihinde davalı ...'e devredildiği görülmektedir. Mahallinde yapılan keşifte davalı yüklenici tarafından sözleşme konusu arsada hiçbir inşaat faaliyeti yapılmadığı tespit edilmiştir. Sözleşmede inşaatın teslim süresi kararlaştırılmamıştır.
 Davacı tarafından arsa payı karşılığı inşaat yapım sözleşmesinin ifasını sağlamak üzere yükleniciye devredilen ve onun tarafından da 3. kişilere devredilen ve en son dava ... adına olan tapu kaydının iptâl ve tescili talep edildiğinden Dairemizin yerleşik içtihat ve uygulamalarında kabul edildiği gibi sözleşme nedeniyle devredilen tapu kaydının iptâl ve tescil istemi, sözleşmenin geriye etkili feshi talebini de kapsamaktadır. Tapu kaydının yükleniciye devrinden sonra dava dışı ... ve ...'e de tapu devirleri yapılmış olduğundan verilecek fesih ve iptâl kararı bunların da hukuki durumlarını etkileyecek olmasına rağmen, davada taraf olarak gösterilmemiş ve mahkemece davada taraf olmaları sağlanmamıştır.
 Bu durumda mahkemece davada taraf olmayıp, tapu kaydının iptâli halinde rücu ve diğer sebeplerle, taşınmazı yükleniciden ilk olarak devralan ... ile ondan devralan ...'in hukuki durumları etkileneceğinden bu şahıslar hakkında eldeki dava ile birleştirilmek üzere dava açmak üzere davacıya süre verilip, açılacak dava birleştirildikten sonra davacının tapu iptâl ve tescil talebi sözleşmenin geriye etkili feshi istemini de kapsadığından teslim süresi bulunmayan sözleşmede kararlaştırılan iş ve inşaatın gerekirse yeniden keşif yapılarak alınacak teknik bilirkişi raporuyla makul tamamlama ve teslim süresi hesaplattırılıp yüklenicinin temerrüdünün gerçekleşip gerçekleşmediği ve arsa payı karşılığı inşaat sözleşmenin fesih koşullarının oluşup oluşmadığı değerlendirilip fesih ve Dairemizin yerleşik içtihat ve uygulamaları ile Anayasa Mahkemesi'nin bu konudaki kararları da gözönünde tutularak davalı ... yönünden tapu iptâl tescil talebine ilişkin sonucuna uygun bir karar verilmesi gerekirken eksik inceleme ve yanlış değerlendirme ile davacının istinaf talebinin esastan reddi doğru olmamış, kararın bozulması uygun bulunmuştur.SONUÇ:
 
 ## Yargıtay 8. HD 2020/2353 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/588761500)
 
 Davacı vekili, vekil edeninin dava konusu 1 numaralı bağımsız bölümün maliki olduğunu, davalı tarafın sözkonusu taşınmazı 2006 yılından bu yana haksız olarak işgal ettiğini, davalı ile vekil edeni arasında kira ilişkisi bulunmadığını açıklayarak, davalının haksız işgaline son verilmesini ve dava tarihinden geriye yönelik 5 yıla ilişkin 10.000,00 TL ecrimisilin dava tarihinden itibaren işleyecek yasal faizi ile birlikte davalıdan alınmasına karar verilmesini istemiş, yargılama sırasında, talebini bilirkişi raporu doğrultusunda 570.551,89 TL’ye yükseltmiştir.
 
@@ -102,6 +114,8 @@ SONUÇ: Davacı vekilinin temyiz itirazlarının yukarıda (A-2) nolu bentte aç
 
 ## Yargıtay 15. HD 2020/2345 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/596334900)
+
 Dava, arsa payı karşılığı inşaat yapım sözleşmesinin ifası ile vekâletten azil nedeniyle verilen vekâlet yetkilerinin devam ettiğinin tesbitine, bu talepleri yerinde görülmez ise vekâletnamede geçen yetkilerin verilmesi istemine ilişkindir.
 
 …
@@ -113,11 +127,15 @@ sözleşmenin feshedilmediği gözden kaçırılarak ifa olanağını ortadan ka
 
 ## Yargıtay 15. HD 2020/2249 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/602351800)
+
 Bu durumda mahkemece, arsa payı karşılığı inşaat yapım sözleşmesi feshedilmemiş olup, yükleniciye verilen avansın iadesinin söz konusu olmadığı, bu halde, TMK’nın 1023. maddesi hükmünce tapu kaydında dava edilen bağımsız bölümün sözleşmeye göre arsa sahibine bırakılan bağımsız bölüm olduğuna dair bir şerhin bulunmaması sebebiyle, yüklenicinin borcu sebebiyle adına kayıtlı bağımsız bölüme ipotek şerhi konulan birleşen dosya davalısı ... Bankası A.Ş.’nin iyiniyetli olacağı ve yüklenici ile el ve işbirliği içerisinde bu yerin arsa sahibine kaldığını bilerek ipotek tesis ettirdiği yasal delillerle kanıtlanamadığından, ... Bankası A.Ş. aleyhine açılan birleşen davanın reddine karar verilmesi gerekirken sözleşmenin hukuken geçerli ve ayakta olduğu gözden kaçırılarak yanlış değerlendirme ile kabulü doğru olmamış, ... Bölge Adliye Mahkemesi 27. Hukuk Dairesi’nin 2019/891 Esas, 2019/1052 Karar sayılı kararının kaldırılarak ilk derece mahkemesi hükmünün birleşen dosya davalısı ... Bankası A.Ş. yararına bozulması uygun bulunmuştur.
 
 SONUÇ: Yukarıda açıklanan nedenlerle temyiz itirazlarının kabulü ile temyize konu Bölge Adliye Mahkemesi kararının HMK’nın 371. maddesi gereğince birleşen dosya yönünden kaldırılarak ilk derece mahkemesinin birleşen davadaki hükmünün davalısı ... Bankası A.Ş. yararına BOZULMASINA …
 
 ## Yargıtay 23. HD 2020/2109 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/590692500)
 
 Davacı vekili, müvekillerinin murisi ...’nin, 2007 yılında yoğun bakımda yattığı bir dönemde verdiği vekaletname ile kendi adına kayıtlı 764 ada 39 ve 40 nolu parsellerin 1/3’er hissesini davalıya devrettiğini, taraflar arasında adi yazılı olarak düzenlenen ayrı bir sözleşmede ise davalının boş olan 40 nolu parselde yapacağı inşaattan ...’ye 3 adet daire vereceğinin, inşaat tamamlanınca ...’nin vefat etmesi halinde 39 nolu parseldeki 1/3 hisseyi davacı ...’ye iade edeceğinin, davacının inşaata hiç başlamaması halinde ise 39 ve 40 nolu parsellerdeki hisseleri tümüyle iade edeceğinin kararlaştırıldığını, davalının inşaata hiç başlamadığını, sözleşmedeki koşulların yerine getirilmediğini ileri sürerek, anılan parsellerin tevhidi sonucu oluşan dava konusu 764 ada 56 nolu parselin 1/3 hissenin tapu kaydınını iptali ile hisseleri nispetinde davacılar adına tescilini talep ve dava etmiştir.
 
@@ -139,6 +157,8 @@ SONUÇ: Yukarıda (1) numaralı bentte açıklanan nedenlerle, taraf vekillerini
 
 ## Yargıtay 23. HD 2020/1489 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/579453900)
+
 Mahkemece iddia, savunma, benimsenen bilirkişi raporu ve tüm dosya kapsamına göre, inşaatın tamamlanma oranın %81.95 olduğu, yüklenicinin edimini süresinde yerine getirmediği ve bundan dolayı davacı arsa sahiplerinin davalı yükleniciyi direnime düşürdüğü, Yargıtay emsal kararlarına göre tamamlanma oranının %90'ın altında olması halinde arsa sahibinin sözleşmeden dönebileceğinin kabul edildiği, yani davacının sözleşmenin geriye etkili olarak feshini isteme hakkının olacağı, yine yükleniciden bağımsız bölüm satın alan ve birleşen davalardaki davalılar açısından ise arsa sahipleri olan davacıların yüklenici olan davalı şirkete geçirilen arsa payı kayıtlarının tescili yüklenici şirket açsından ayni hak doğuramayacağından, temlik Yargıtay emsal kararlarında da belirtildiği üzere avans niteliğinde olduğundan, birleşen dosyalardaki davalıların TMK 1023 mad. deki iyiniyet iddiasında bulunamayacağı gerekçesiyle, asıl ve birleşen davaların kabulü ile sözleşmenin feshine ve taşınmazın davalılar adına olan tapu kaydının iptali ile davacılar adına tapuya kayıt ve tesciline karar verilmiştir.
 
 …
@@ -155,6 +175,8 @@ Hukuk Dairesi ve Dairemizin, gerekse Yargıtay Hukuk Genel Kurulu'nun kararları
 SONUÇ: Yukarıda (1) numaralı bentte açıklanan nedenlerle asıl davada davalı ... Toplu Konut Taah. İnş. Malz. San. Tic. Ltd. Şti. ve birleşen 2014/141 Esas sayılı davada davalı ... vekilinin HUMK'nın 434/4. maddesi uyarınca kararı temyiz etmemiş sayılmasına, (2) numaralı bentte açıklanan nedenlerle, asli müdahil ... vekilinin temyiz isteminin süre yönünden REDDİNE, (3) numaralı bentte açıklanan nedenlerle, birleşen 2014/141 Esas sayılı davada bir kısım davalılar vekilinin temyiz itirazlarının kabulü ile hükmün BOZULMASINA …
 
 ## Yargıtay 15. HD 2020/1409 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/588530700)
 
 Dava, eser sözleşmesinin bir türü olan kat karşılığı inşaat sözleşmesinin feshi ve tazminat talebine ilişkindir.
 
@@ -173,6 +195,8 @@ SONUÇ: Yukarıda açıklanan nedenlerle davacının temyiz itirazlarının kabu
 
 ## Yargıtay 15. HD 2020/1390 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/585840500)
+
 Asıl ve birleşen davalar arsa payı karşılığı inşaat yapım sözleşmesinin feshi ve tapu iptâli ve tescil taleplerine ilişkindir. Mahkemece bozmaya uyularak asıl davanın ve birleşen 2017/333 Esas sayılı ve 2017/213 Esas sayılı davanın kabulüne, birleşen 2017/351 Esas sayılı davada ise davanın konusuz kalması nedeniyle esas hakkında karar verilmesine yer olmadığına dair verilen hüküm, asıl ve birleşen 2017/351 Esas sayılı davada davalılar Enver Çağlar ve ... vekili tarafından temyiz olunmuştur.1-Dosyadaki yazılara ve mahkemece uyulan bozma kararı gereğince inceleme yapılarak hüküm verilmiş olmasına, delillerin takdirinde bir isabetsizlik bulunmamasına ve bozmanın şümulü dışında kalarak kesinleşen cihetlere ait temyiz itirazlarının incelenmesi artık mümkün olmamasına göre davalılar vekilinin aşağıdaki bendin kapsamı dışında kalan diğer temyiz itirazları yerinde görülmemiş, reddi gerekmiştir.
 
 …
@@ -180,6 +204,8 @@ Asıl ve birleşen davalar arsa payı karşılığı inşaat yapım sözleşmesi
 SONUÇ: Yukarıda 1. bentte açıklanan nedenlerde davalılar ... ve ... vekilinin diğer temyiz itirazlarının reddine, 2. bent uyarınca kabulü ile hükmün temyiz eden davalılar yararına BOZULMASINA …
 
 ## Yargıtay 15. HD 2020/1293 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/585715700)
 
 Dava, kat karşılığı inşaat sözleşmesinin feshi istemine ilişkin olup, mahkemece yapılan yargılama sonunda davanın reddine dair verilen karar, taraf vekillerince temyiz edilmiştir.
 

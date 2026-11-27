@@ -22,12 +22,16 @@ uyari: "Derleyenin seçtiği alıntılardır; kararın tamamı değildir. Künye
 
 ## Yargıtay 18. HD 2006/5845 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/884671400)
+
 Yukarıda özetlenen dava dilekçesi içeriğinden ve tüm dosya kapsamından; davacı ... ...'in arsa sahibi ve davalı kooperatifin yüklenici sıfatıyla aralarında yaptıkları 30.12.1992 gün 20050 yevmiye sayılı "Düzenleme Şeklinde Gayrimenkul Satış Vaadi ve Daire Karşılığı İnşaat Sözleşmesi"nin tarafı oldukları, davacı ... ...'in de davalı kooperatifin üyesi bulunduğu ve belli bir dönem kooperatifte 2. başkan ve başkan olarak görev yaptığı, davada, davalı kooperatifin onaylı mimari projeye göre yapımını yüklendiği blok yapıları inşa ederken, dava dilekçesinde belirtilen projeye aykırı değişiklikleri yaptığı savıyla, bunların projeye uygun hale getirilmesinin istenildiği anlaşılmaktadır. Buna göre davacılar ile davalı arasındaki davanın konusunu oluşturan uyuşmazlık, Kat Mülkiyeti Yasası hükümlerinden değil, yüklenici yapı kooperatifi ile üyesi ve arsa sahibi arasındaki hukuki ilişkiden kaynaklanmaktadır.
 Saptanan bu olgu ve durum karşısında -bilirkişi tarafından belirlenen dava değeri de gözönünde tutularak- taraflar arasındaki uyuşmazlığa genel hükümler çerçevesinde Asliye Hukuk Mahkemesinde bakılmak üzere görevsizlik kararı verilmesi gerekirken, Sulh Hukuk Mahkemesince davanın görülüp işin esası hakkında hüküm kurulmuş olması doğru görülmemiştir.
 
 Bu itibarla yukarıda açıklanan esaslar gözönünde tutulmaksızın yazılı şekilde hüküm tesisi isabetsiz, temyiz itirazları bu nedenlerle yerinde olduğundan kabulü ile şimdilik diğer yönleri incelenmeksizin hükmün HUMK.nun 428.maddesi gereğince BOZULMASINA …
 
 ## Yargıtay 15. HD 2006/2844 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/859258500)
 
 Dava ve birleşen dava düzenleme şeklinde gayrimenkul satış vaadi ve kat karşılığı inşaat yapım sözleşmesi uyarınca tapu iptali ve tescil istemine ilişkindir.
 
@@ -86,6 +90,8 @@ Kooperatifi (arsa sahibi) ve davalı ...Kooperatifleri Birliği aleyhine, paylar
 
 ## İstanbul BAM 45. HD 2026/535 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1203358500)
+
 Sunulan istinaf sebeplerinin incelenmesi:Somut uyuşmazlıkta, dosyada yer alan bilgi ve belgelerden , davacı kooperatifin İstanbul ili Sarıyer ilçesi 380 ada 79 parselde kayıtlı taşınmazın maliki olduğu, iş bu taşınmaz üzerinde daire yapılıp kooperatif üyelerine tahsis işleminin yapılması amacıyla dava dışı müteahhit.... A.Ş. ile kat karşılığı inşaat sözleşmesi düzenlendiği ve inşaatın yapıldığı, tapu masrafı ile devir edilen taşınmazın KDV ödemelerinin alıcıya ait olmak üzere tapuda devir ve tescil işleminin yapıldığı anlaşılmaktadır.Yukarıda belirtilen davaya dayanak teşkil eden 16.06.2015 tarih ve 2015-A-2113/19 sayılı vergi inceleme raporunda davacının, davalıya satışını yaptığı yapı değerinin düşük gösterildiği ve aradaki farka isabet eden KDV nin vergi ...tarafından davacıya tarh edildiği anlaşılmaktadır.Uyuşmazlıkta, davacı vekili tarafından sunulan istinaf dilekçesinde yapılandırma yapılarak ödemelerin gerçekleştiği ileri sürülmüştür.Mahkeme tarafından iş bu ödeme belgelerinin dosya arasına eksiksiz kazandırılması için davacı vekiline süre verilmesi gerekmektedir. Aksi halde ise, ilerideki (müstakbel) bir yarar davanın açılması için yeterli değildir.
 Davanın açıldığı anda da , hukuki yarar bulunmalıdır. Bu konuda yani erken dava açılması ile ilgili olarak Yargıtay 23.Hukuk Dairesi'nin 04.05.2023 tarih ve 2022/829 E 2023/1652 K sayılı ilamında "...Somut olayda; davacı yanca, taraflar arasındaki hizmet alım sözleşmesine dayalı olarak, toplu iş sözleşmesinden doğan maaş farkı ve fer'ileri talep edilmiş olup, davacının bu tutarı işçilerine ödemediği hususunda tartışma bulunmamaktadır.
 Bu durumda mahkemece, işçilerine henüz ödeme yapmamış olan davacı alt yüklenicinin davası erken dava olarak değerlendirilerek, HMK'nın 114/1-h maddesi uyarınca hukuki yarar yokluğu nedeniyle usulden reddine karar verilmesi ayrıca hükmedilecek yargılama giderleri ile vekalet ücreti takdirinde dava şartı yokluğunun ön şart yokluğu sayılacağının dikkate alınması gerekirken, yanılgılı gerekçelere dayalı olarak hüküm kurulması doğru olmamıştır.'' belirtildiği üzere, muaccel olmayan (müeccel) alacak için dava açılamayacağı ve açılması durumunda ise, alacağın muaccel hale gelmesinden sonra yeniden dava edileceği göz önünde bulundurulmalı ve eğer ödeme yapılmadan davanın açıldığının veya yargılama aşamasında da ödemelerin yapılmadığının tespiti halinde , davanın esasına girilmeden erken açılan davanın hukuki yarar yokluğundan reddine karar verilmesi gerekmektedir.Ödeme belgeleri sunulması halinde ise; iş bu ödeme belgeleri ve ekleri ile Uyap sisteminde yer alan taraflar arasındaki uyuşmazlığa dayanak vergi mahkemeleri tarafından yapılan yargılamaya dava dosyası evrakları dosya arasına alınarak esasa dair inceleme yapılarak varılacak sonuç dairesinde karar verilmesi gerekmektedir …
@@ -96,6 +102,8 @@ Davacı vekilinin istinaf başvurusunun KABULÜ ile, İstanbul 7. Asliye Ticaret
 
 ## Ankara BAM 27. HD 2026/337 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1199915100)
+
 B blokta yapılan imalatların bedelini davalı müteahhitin ödeyeceğinin, A bloku da kooperatifin KKİS koşullara göre müvekkilinin yapacağı, bunun bedelini de yine asıl müteahhit kooperatifin ödeyeceğinin kararlaştırıldığını, sözleşme dışında bırakılan B blokta yapılan imalatların bedeli ile A blokta yapılan ve sözleşmeye göre yapılacak inşaatların bedeline karşılık 870.000,00 TL ve üç daire verilmesi, ayrıca tanzim edilecek faturaların KDV'sinin ödemesinin kararlaştırıldığı, bu tasfiyeden ve A blok inşaatın bitirilmesinden sonra müvekkili ile davalı kooperatifin 22.9.2009 tarihli inşaat sözleşmesini imzaladıklarını, bu sözleşmede B blokta yapılan işler, A blokta yapılan işler ve tanzim edilecek faturaların KDV’si ve üç daire karşılığı iş yapılacağını, A bloktaki işlerin sözleşme şartlarına göre davalıya teslim edildiğini ve bu nedenle kesin kabul tutanağı da imzalandığını, ancak müvekkiline ödenmesi gereken 870.000,00 TL + KDV' si ve üç dairenin çok az bir kısmı ( asıl yüklenici bu dairelerin bir kısmını kendisi sattığı)ödenmiş ama geri kalan kısmının halen ödenmediğini, bu bedellere karşılık ;
 42.000,00 TL+ 7.560.00TL KDV, 828.000,00TL+ 149.040,00TL KDV ki toplam 870.000,00TL + 156.600,00TL ki toplam 1.026.600,00 TL nakit para ve üç adette daire verilmesi gerektiği, bu daireleri de davalı satmış ve bir kısım bedelleri müvekkile vermişlerse de bir kısmının halen uhdelerinde kaldığını, müvekkilinin elinde bedelin ödendiğini içeren tahsilat makbuzları olmadığını, ancak müvekkilin bir kısmını aldığını, diğer kalan kısmın yaklaşık 2014 yılı başlarından beri ödenmediğini, 22.09.2009 tarihli sözleşmenin cezai şartlar bölümündeki 5. maddesinde kooperatif ödemeleri gösterilen tarihlerde ödemediği geç ödediği takdirde yapılan her geç ödeme için aylık %5 cezai şart ödemeyi kabul ve taahhüt ettiğini, bu nedenle iş bitiminde ödenmesi gereken parayı ödemediği için iş bitimi de kesin kabul tutanağında (22.8.2011 ) gösterildiğine göre bu tarihten itibaren her ay için %5 gecikme cezai uygulanmasını talep ettiklerini, 22.9.2009 tarihli inşaat sözleşmesinde 870.000,00TL nakit ödemenin 30 Ekim 2009, 30 Kasım.
 
@@ -104,6 +112,8 @@ B blokta yapılan imalatların bedelini davalı müteahhitin ödeyeceğinin, A b
 Taraf vekillerinin istinaf başvurularının HMK'nın 353/1-b.1 maddesi gereğince esastan reddine …
 
 ## İstanbul BAM 44. HD 2026/266 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1194516700)
 
 Davalı vekili cevap dilekçesinde özetle; Davalı aleyhine bono sebebiyle başlatılan takibe itiraz ettiğini, borca itiraz davasının görüldüğü İstanbul 17 İcra Hukuk Mahkemesinin 2019/595 kara sayılı ilamı ile itirazının reddedildiğini, davacının borçlu olmadığını ispatlayamadığını, davacının senet üzerindeki isim soy isim ve imzaya ilişkin itirazlarını da ispatlayamadığını, iddialarını ispatlayamayan davacının açtığı davanın usulden ve esastan reddini, davacı aleyhine %20 tazminata hükmedilmesini talep etmiştir.İlk derece mahkemesince yapılan yargılama sonunda; "...Davacının iddiasını doğrular nitelikte ATK imza incelemesi raporu sunulduğu, davacının davasında haklı olduğu, davalı yanın alacağını ispatlayamadığı kanaatine varılarak davanın kabulüne karar verilmiş, davalı yanın icra takibinde haksız olduğu, belge aslı üzerinde oynama bulunduğu bu durumda kötü niyetli hareket edildiğine kanaat getirilerek kötü niyet tazminatının kabulüne" karar verilmiştir.
 
@@ -118,6 +128,8 @@ Maddesine ve HMK Madde -190. Maddesine aykırı olarak tesis edildiğini, -Yarg�
 Usûl ve yasaya uygun İstanbul 12. Asliye Ticaret Mahkemesi'nin 05/10/2023 tarih ve 2021/167 E., 2023/743 K. sayılı kararına karşı davalı vekili tarafından yapılan istinaf talebinin 6100 Sayılı HMK'nın 353/1-b/1. maddesi gereğince ESASTAN REDDİNE …
 
 ## İstanbul BAM 45. HD 2025/1413 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1185706100)
 
 Davacı vekili ihtiyati tedbir talepli dilekçesi ile ; Davalı kooperatifin 07.05.2025 tarihli Genel Kurul toplantısında alınan 10, 11 ve 13 numaralı gündem maddelerindeki kararların öncelikle usul ve yasaya aykırı olması nedeniyle mutlak butlanla yok hükmünde sayılmasına ve butlanının tespiti veya iptali istemli dava açtıklarını, 07.05.2025 tarihli Genel Kurul Toplantısı'nda alınan tüm kararların yürütülmelerinin durdurulması şeklinde tedbir kararı verilmesini talep etmiştir.Mahkemenin 09/10/2025 tarihli ara kararı ile;
 "...07.05.2025 tarihli Genel Kurul Toplantısı'nda alınan tüm kararların yürütülmelerinin durdurulması için tedbir kararı verilmesini talep etmiş ise de; ihtiyati tedbir kararı verebilmek için hâkimin somut sebep göstermesi ve ihtiyati tedbir kararının haklılığını ortaya koyacak delil değerlendirmesi yapması ve yaklaşık ispat ölçüsüne yaklaşması gerekli olup haklılık konusunda yaklaşık ispat ölçüsü kriterine uyulmadığı, davanın niteliği gereği konunun yargılamayı gerektirdiği, dosyada henüz bilirkişi raporu alınmadığı, taraflarca açılan davalarla da bu dava bakımından bilirkişi kurulu tarafından etkisi irdelenmediği, davanın esasını çözer mahiyette tedbir kararı verilemeyeceği" gerekçesiyle ihtiyati tedbin talebinin reddine karar verilmiştir.Verilen karara karşı davacı vekilince istinaf edilmiş olup istinaf nedeni olarak;
@@ -139,6 +151,8 @@ Davacı vekilinin istinaf başvurusunun 6100 sayılı HMK'nın 353/1-b.1 maddesi
 
 ## Antalya BAM 11. HD 2025/1410 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1190233200)
+
 Mahkemece yukarıda yazılı gerekçeyle, davanın kısmen kabulüne karar verilmiştir.
 
 …
@@ -147,6 +161,8 @@ Mahkemece yukarıda yazılı gerekçeyle, davanın kısmen kabulüne karar veril
 karara bağlama yetkisi genel kurulda olup, genel kurulun bunu ana sözleşmenin 33/2. maddesinde belirtilen çoğunlukla, yani toplantı nisabı olarak ortakların 1/4'ünün katılımı ile yapılan toplantıda katılanların yarısından bir fazlasının olumlu oyu ile alabileceği, somut olayda 28 üyeli kooperatifte 17 üye katılımı ile toplantının yapıldığı ve 16 üyenin olumlu oyu ile karar alındığı, bu nedenle mantolama gideri için ödenmesi istenen ek inşaat bedeline dair kararın kanuna, kooperatifin amacına, ana sözleşmeye ve objektif iyi niyet kurallarına aykırı olmadığı anlaşıldığından davacının genel kurulun bu maddesine ilişkin iptal talebinin reddine karar verilmesinde de bir isabetsizlik bulunmamaktadır.
 
 ## Ankara BAM 27. HD 2025/1329 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1185325500)
 
 Davacı vekili: Taraflar arasında akdedilen dava dilekçesi ekinde sunulan Ankara 50.
 

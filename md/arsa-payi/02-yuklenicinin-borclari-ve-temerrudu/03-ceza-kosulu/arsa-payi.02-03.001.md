@@ -71,6 +71,8 @@ Bu durumda, karşı davacı yüklenicinin sözleşmenin 7. maddesine dayalı cez
 
 ## Yargıtay 6. HD 2026/43 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1207095300)
+
 Davacılar vekili dava dilekçesinde; davacı arsa sahipleri ile davalı yükleniciler arasında 31.10.2005 tarihinde Düzenleme Şeklinde Arsa Payı Karşılığı İnşaat ve Gayrimenkul Satış Vaadi Sözleşmesi imzalandığını, sözleşme kapsamında ... İli, .....
 
 …
@@ -87,6 +89,8 @@ Yukarıda (2) ve (3) numaralı bentlerde yazılı bulunan nedenlerle davalı yü
 
 ## Yargıtay 6. HD 2025/4434 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1200347300)
+
 Taraflar arasındaki sözleşmenin 29. maddesinde kararlaştırılan cezai şart TBK'nın 179/2. maddesi uyarınca ifaya ekli cezai şart niteliğinde olup, davacı alacaklının ifayı kabul ederken cezai şartı talep etme hakkını kullanacağı konusunda herhangi bir çekince ileri sürmemesi halinde cezai şartı talep etme hakkı ortadan kalkacaktır. Somut olayda, dosya kapsamındaki bilgi ve delillerden, birleşen davada davacı arsa sahiplerine düşen bağımsız bölümlerin teslim edildiği, teslim anında ifaya ekli cezai şart isteme hakkını saklı tuttuklarına dair ihtirazi kayıt ileri sürmedikleri anlaşılmakla, birleşen davada arsa sahiplerinin ifaya ekli cezai şart taleplerinin reddi gerekirken kabulü doğru olmamış, karar birleşen davada davalı yüklenici yararına bozulmuştur.
 
 …
@@ -96,6 +100,8 @@ Taraflar arasındaki sözleşmenin 29. maddesinde kararlaştırılan cezai şart
 …
 
 ## Yargıtay 6. HD 2025/1495 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1168074400)
 
 Davalı vekili cevap dilekçesinde; davacı tarafından iddia edilen sözleşmenin sahte bir sözleşme olduğunu, 30.05.2013 tarihli sözleşmede bulunan kaşe ve imzanın müvekkiline ait olmadığını, müvekkili ile davacı arasındaki müteahhit alt taşeron ilişkisinin kaynağının yalnızca 21.04.2013 tarihli arsa payı karşılığı inşaat sözleşmesi olduğunu, işbu sözleşme gereğinin de davacı ve taşınmaz sahibi annesi tarafından sözleşme gereğince yerine getirilmediğini, müvekkili tarafından taşınmaz üzerine HSBC lehine ipotek konulduğunun görüldüğünü, arsa payı karşılığı inşaat sözleşmesi gereğince yapılacak işlemlere engel teşkil edebilecek bu durumun ortadan kaldırılması için müvekkili tarafından davacının babası ...'e 116.000,00 TL ödendiğini, davacıdan kaynaklanan bu gibi engellerden dolayı arsanın, sözleşme tarihinden 5 ay sonra teslim alınabildiğini, yer tesliminin geç yapılmış olmasına rağmen müvekkilinin tüm gayret ve çabası ile inşaatın 2014 aralık ayında tam ve eksiksiz şekilde arsa sahibine teslim edildiğini, teslim edilen dükkan ve dairelerin kiraya verildiğini, davacının kötü niyetli olarak işbu davayı açtığını, müvekkili tarafından 21.04.2013 tarihli sözleşmenin 8. maddesine istinaden
 boş bir şekilde teminat senedi düzenlenerek davacıya verildiğini, davacının da işbu senedi anlaşmaya aykırı şekilde doldurarak ciro ettiğini ve akabinde müvekkiline karşı Düzce İcra Dairesi'nin 2019/5974 E. sayılı dosyası ile icra takibi başlatıldığını, icra takibine karşı Düzce İcra Hukuk Mahkemesi'nde takibin iptali istemli dava açıldığını, yapılan yargılama neticesinde davanın kabulü ile takibin iptaline karar verildiğini ve davalı tarafça davacı hakkında suç duyurusunda bulunulduğunu, davacının kötü niyetli olduğunu savunarak davanın reddini istemiştir.
@@ -110,6 +116,8 @@ Bu şekilde fiili teslim yapılması halinde en geç buna uygun fiili teslime ka
 Yukarıda (1) numaralı bentte açıklanan nedenlerle temyiz olunan, İlk Derece Mahkemesi kararına karşı istinaf başvurusunun esastan reddine ilişkin Bölge Adliye Mahkemesi kararının ORTADAN KALDIRILMASINA …
 
 ## Yargıtay 3. HD 2025/1210 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1149689900)
 
 Davacı vekili;davacı ile davalı yüklenici şirket arasında 24.12.2015 tarihinde düzenlenen sözleşme ile davalılar tarafından yapılan ... projesinden F blok 4 nolu BB ü 400.000,00 TL bedelle 24.12.2015 tarihinde satın aldığını, bedelin ödendiğini, bağımsız bölümün 13.01.2016 tarihinde tapu da davacı adına devredildiğini, davalı şirket ile arsa sahibi olan davalılar arasında kat karşılığı inşaat sözleşmesi bulunduğunu, 5. madde de arsa sahipleri ile müteaahhidin projede ortak olduğu ve satış gelirlerinin %50 oranında paylaşılacağının düzenlendiğini,1.03.2016 tarihinde inşaatın bitirilip teslim edilmesi gerekirken teslim edilmediğini, taşınmaz üzerinde bulunan ipoteğin kaldırılmadığını, eksik imalatın tamamlanması ve ipoteğin kaldırılması için davalılara 28.06.2016 tarihinde ihtar çekildiği halde arsa sahibi davalıların kendilerinin sorumluğunun bulunmadığını bildiridiklerini, ayıp nedeniyle sözleşmeden dönüldüğünü, sözleşmenin iptali ile ayıplı malın iadesine, satış bedeli olan 400.000,00 TL nin satım tarihinden itibaren ticari faizi ile birlikte davalılardan tahsiline karar verilmesi talep etmiştir.
 
@@ -127,6 +135,8 @@ Bunun yanında, sözleşmenin (17/5) maddesinde ekonomik kriz vb. sebeplerle rek
 İlk Derece Mahkemesi kararının aynı Kanun'un 371. maddesi uyarınca davalı arsa sahipleri yararına BOZULMASINA …
 
 ## Yargıtay 6. HD 2025/773 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1167179500)
 
 Davalı – karşı davacı vekili cevap dilekçesinde; taraflar arasındaki ... 6.
 
@@ -146,6 +156,8 @@ Yukarıda 2.1. bendinde açıklanan nedenlerle davacı-karşı davalının temyi
 
 ## Yargıtay 6. HD 2025/228 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1117264900)
+
 Davalı vekili cevap dilekçesinde özetle; taraflar arasında imzalanan sözleşmeden de anlaşılacağı üzere davacıya arsa karşılığında en üst katta dubleks daire teklif edildiğini, davacının bu anlaşmayı kabul ettiğini, dubleksin yüzölçümünün davacı ve müvekkilinin ortak kararı ile brüt 220 m² olarak belirlendiğini, dubleks daireye ilişkin projenin davacı tarafından kabul edildiğini, binanın yapımı aşamasında hiçbir zaman proje değişikliğine gidilmediğini, dubleks dairenin devredilmemiş olmasından müvekkilinin kusuru bulunmadığını, kendisinin devri teklif ettiğini, 1+1 dairede gerek sözleşmeye göre gerek projeye göre davacının bir hakkı bulunmadığını, cezai şart olarak belirlenen 50.000,00 TL'nin sözleşmeden vazgeçen veya sözleşmeyi ihlal eden tarafça ödeneceğini, müvekkilinin dava sürecine kadar sözleşmeyi ihlal etmediğini, bu haliyle cezai şartın ödenmesini kabulün mümkün olmadığını beyanla davanın reddine karar verilmesini talep etmiştir.
 
 İlk Derece Mahkemesince inşaatın tamamlandığı, yapı kullanma izin belgesinin alınmadığı, davalı yüklenici tarafından arsa sahibine dairenin teslimi gerekirken teslim işleminin yapılmadığı, bu durumda iskan ruhsatının alındığı tarihe kadar sözleşme ifa ile sonuçlanmış olmayacağından 8 no.lu bağımsız bölüm-dubleks mesken nitelikli taşınmazın tapu iptali ve tescil talebinin kabulü, sözleşmenin 1.maddesine göre "bu arsada yapılacak olan en üst kat dubleks dairenin verilmesi" ifadesi yer aldığı, sözleşmede her katta tek daire olacağına dair bir ibare bulunmadığı, yine katlardaki daire sayısına ilişkin başka bir ifade de yer almadığı, dubleks dairenin m²sinin sözleşme ekinde bulunan taslak projede yer almadığı, dubleks daire haricinde 1+1 dairenin de verileceğine dair taraflar arasında başka bir sözleşmenin bulunmadığı anlaşıldığından 1+1 mesken nitelikli 9 no.lu bağımsız bölüm taşınmazın tapu iptal tescil talebinin reddi, sözleşmenin sonunda "sözleşme imzalandığından itibaren tek taraflı fesih edilemez.
@@ -158,6 +170,8 @@ SONUÇ: Yukarıda açıklanan nedenlerle İlk Derece Mahkemesi kararı ile bu ka
 …
 
 ## Yargıtay 6. HD 2024/4278 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1116934600)
 
 Davacılar vekili dava dilekçesinde özetle; taraflar arasında imzalanan düzenleme şeklinde gayrimenkul satış vaadi ve arsa payı karşılığı inşaat yapım sözleşmesine göre, vaziyet planı ve uygulama projeleri gereği, inşaat ruhsatına göre yapılacak konutlardan %27’sinin anahtar teslimi olarak A Blokta 20 adet dairenin müvekkiline 2008 Aralık ayının son günü teslim edilmesi gerektiğini, sözleşmede inşaatın süresinde teslim edilmemesi halinde cezai şart ödenmesinin kararlaştırıldığını, sözleşmeye göre yükleniciye ait olan 75.645,44 TL yapı denetim bedeli ve 38.752,06 TL idari para cezasının davalı tarafından karşılanmadığını, davalının inşaat ruhsatı alınmasına rağmen sözleşmeye uygun olarak teslimi gereken daireleri süresinde teslim etmediğini belirterek, cezai şart olarak 10.000,00 USD, kira kaybı olarak10.000,00 TL, Gebze Belediyesine ödenen idari para cezası olarak 10.000,00 TL, yapı denetim firması ücreti için 5.000,00 TL, eksik işler sebebiyle 10.000,00 TL olmak üzere fazlaya ilişkin hakkını saklı tutarak toplam 53.000,00 TL'nin davalılardan tahsiline karar verilmesini talep etmiştir.
 
@@ -177,6 +191,8 @@ SONUÇ: Yukarıda 1. bentte açıklanan nedenlerle, davalılar vekilinin 2. bend
 
 ## Yargıtay 6. HD 2024/2325 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1095565600)
+
 Davacı vekili dava dilekçesinde özetle; arsa sahibi davalı ... ve diğer davalıların murisi ... ile yüklenici olan müvekkili arasında 27.05.2005 tarihinde imzalanan arsa payı karşılığı inşaat sözleşmesine göre müvekkiline %50 arsa payının devredilmesi gerektiğini, müvekkilinin binayı tamamlama edimini yerine getirdiğini, davalıların 8 yılı aşkındır binada oturduklarını, kat mülkiyetinin kurulması için 15.05.2009 tarihli ihtarname gönderdiklerini, davalıların işlem yapmaya yanaşmadıklarını, sözleşmede davalıların edimlerini yerine getirmemesi halinde cezai şart öngörüldüğünü ileri sürerek, tapuda davalı ... adına kayıtlı hissenin 16/800 hissesi, davalı ... adına kaytlı hissenin 8/800 hissesi ile diğer davalılar adına kayıtlı hisselerin ayrı ayrı 3/800 hissesinin iptali ile müvekkili adına kaydı ile şimdilik 1.000,00 TL cezai şartın tahsilini talep etmiştir.
 
 …
@@ -194,6 +210,8 @@ isteminin reddine karar verilmiştir.
 Davalılar vekillerinin Bölge Adliye Mahkemesi kararına yönelik temyiz itirazının kabulü ile Bölge Adliye Mahkemesi kararının hüküm fıkrasının 7 numaralı paragrafında yer alan “7.867,60 TL harcın davalılardan müştereken ve müteselsilen tahsili” ibaresinin çıkartılarak yerine “7.867,60 TL harcın davacıdan tahsili” ibaresinin yazılması, 9 numaralı paragrafın çıkartılarak yerine “Davacı tarafından yapılan yargılama giderlerinin davacı üzerinde bırakılmasına” ibaresinin yazılması, 10 numaralı paragrafın hükümden çıkartılarak yerine “Davacı lehine vekalet ücreti takdirine yer olmadığına” ibaresinin yazılması suretiyle hükmün DÜZELTİLEREK ONANMASINA …
 
 ## Yargıtay 6. HD 2024/1624 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1058593600)
 
 İlk derece Mahkemesince bozmaya uyularak yeniden yapılan yargılama sonucunda; davanın kısmen kabulüne karar verilmiştir.
 

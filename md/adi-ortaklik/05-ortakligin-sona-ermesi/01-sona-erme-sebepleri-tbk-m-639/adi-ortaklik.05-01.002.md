@@ -22,10 +22,14 @@ uyari: "Derleyenin seçtiği alıntılardır; kararın tamamı değildir. Künye
 
 ## Yargıtay 13. HD 2012/5603 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/749405500)
+
 Gorülüp ortaklığın aktif ve pasif bütun mal varlıgının belirlenip ortakların birbirleri ıle alacak verecek ve ortaklıktan dolayı olan ilişkilerinin kesilmesi yoluyla ortaklığın sona erdirilmesi malların paylaşılması ya da satış yoluyla elden çıkarılmasıdır.Ortaklık sözleşmesinde hüküm bulunduğu takdirde tasfiyenin bu sözleşmedeki hükümlere göre yapılması asıldır. Böyle bir hükmun bulunmaması halinde ise tasfiyenin bu defa BK'nun 539. maddesindeki sıra takip edilerek yapılması gerekir. Açıklanan bu hukuki olgular karşısında öncelikle ortaklığın sona erdiği tarih itibariyle aktif ve pasif mal varlığı belirlenmeli, ortaklığı yöneten ve idareci ortaktan ortaklık hesabını gosterir hesap istenilmeli, verilen hesapta uyuşmazlık cıktığı takdirde taraflardan delilleri sorularak toplanmalı, bu şekilde belirlenen mal varlığının ne şekilde tasfiye edilecegi taraflardan sorulmalı, tasfıyede anlastıkları takdirde ona göre karar verilmelidir.
 Taraflar tasfiye konusunda anlaşamadıkları takdirde, mahkeme tayin edeceği tasfiye memuru marifetiyle tespit edilen ortaklık mallarının mevcut olanların satılmasına şayet bu mallar mevcut değilse değerleri bilirkişi marifetiyle belirlenip, elde edilen gelirden veya malların belirlenen değerlerinden öncelikle ortaklığın borçları ödendikten sonra kalan kısmın taraflar arasında paylaştırılmasına karar verilmelidir.Mahkemece adi ortaklığın tasfiyesinden sonra davalının davacıya borçlu olup olmadığının belirlenerek sonucuna uygun karar verilmesi gerekirken yanlış değerlendirme ile yazılı şekilde hüküm tesisi usul ve yasaya aykırı olup, hükmün bozulması gerekir.
 
 ## Yargıtay 13. HD 2012/3471 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/519220500)
 
 Borçlar Kanununun adi ortaklığa ilişkin 520 ve onu izleyen maddeleri gereğince adi ortaklığın kurulabilmesi için yazılı şekil gerekli olmayıp, adi ortaklık sözleşmesi sözlü olarak da yapılabilir. Davacının iddiası ve davalının açıklamalarına göre, taraflar arasında 2004 yılı Ekim ayında sözlü olarak meyve fidancılığı, süs bitkileri üretimi ve satılması konularında ortaklık kurulmak üzere sözlü anlaşma yapılıp akabinde ortaklığın fiilen son bulduğu uyuşmazlık konusu değildir. Ortaklık son bulduğuna göre tasfiyenin de mahkemece bizzat yaptırılması gerekir. Ortaklığın feshi ile ortaklığın tasfiyesi ayrı ayrı hukuki işlemlerdir. BK.nun 538. maddesinde belirtildiği gibi tasfiye,bütün hesapların görülüp ortaklığın aktif ve pasif bütün mal varlığının belirlenip ortakların birbirleri ile alacak verecek ve 2011/8997 2012/3471 …
 
@@ -45,6 +49,8 @@ Kullanılacak malzeme ve ekipmanın işçilik kalitesinin sözleşme ve ekleri h
 kullanacağı ayrıntıları ile düzenlendiğini, Şartnamede bu hususları düzenleyen hükümlerden açıkça anlaşıldığı üzere, arsa sahiplerinden ... A.Ş'ye teslim edilen bağımsız bölümlerin ısınma ve soğutma tesisatı ilgili yapılan işler ayrıca ve ekstra işler olup, Adi Ortaklığın böyle bir sorumluluğu da bulunmadığını, buna karşı davacı şirket ilgili bağımsız bölümlerde bir kısım işler yaptığını ve yapılan işlere ait masrafın adi ortaklık sözleşmesi gereğince %40'dan müvekkili şirketin sorumlu olduğunu hukuka ve yasaya aykırı bir şekilde ileri sürdüğünü, davacı şirket tarafından ...
 
 ## İstanbul BAM 37. HD 2026/987 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1206908200)
 
 Davacının inanç sözleşmesinden kastettiği dava, adi ortaklı ilişkisi nedeniyle sağlanan kazançlardan, eşit hisseler/eşit hisselere yakın hisselerle elde edilen ancak tam hisse davalı kardeşler üzerinde gözüken mal varlığının, namı müstear iddiasına dayalı tapu iptal tescil/menkullerin teslimi veyahut bedellerinin tazminine ilişkindir. Bu türden iddialar, 05.02.1947 tarih, 20/6 sayılı İBK'ya göre sözleşmenin tarafları bakımından yazılı delille ispat edilebilir. Yine nam-ı müstear/inanç sözleşmesine dayalı talebin kabul görmemesi(veyahut yarışan hukuki sebep teşkil etmesi) halinde, adi ortaklık ilişkisinin ölümle sona ermesi nedeniyle, adi ortaklığa konu ticari faaliyet neticesi edinilen ancak davalı ortaklar üzerinde kayıtlı gözüken mal varlığının tasfiyesi talep edilmektedir.İddia olunan adi ortaklık sözleşmesine konu ticari faaliyette, davacının babası murisin tacir sıfatı bulunmaktadır. Ancak, BK'nın 639/2. madde uyarınca adi ortaklık ölümle sona ermiş olup davacı bakımından bu sözleşmeye konu ticari faaliyetin yürütülmesi söz konusu olmadığından ötürü davacının tacir sıfatı bulunmamaktadır.
 Davacı, murisin yerine geçerek onun halefi olarak işbu davayı açmamakta, adi ortaklığın ölümle sona ermesinden mütevellit tasfiyesini talep etmektedir. Bu durumda, halefiyete dayalı olarak açılmış tacirler arası nispi nitelikli ticari bir davanın da bulunmadığı, adi ortaklığın tasfiyesinin, BK'da düzenlendiği, namı müstear/inanç sözleşmesine dayalı taleplerin genel hükümlere tabi olduğu, uyuşmazlığın TTK'da düzenlenen ticari hükümlere göre çözümlenmeyeceği, tasfiye payına konu şirket hisselerinin varlığının, davayı mutlak veyahut nisbi ticari dava haline dönüştürmeyeceği nazara alındığında, davanın genel görevli mahkeme olan Asliye Hukuk mahkemesinde görülüp sonuçlandırılması gerekmektedir.
@@ -69,6 +75,8 @@ Zira hukuken ortadan kalkmış bir sözleşmedeki vade tarihinin yahut muacceliy
 
 ## İstanbul BAM 14. HD 2026/218 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1198917800)
+
 Dosya kapsamından, sözleşmede, davalı ve dava dışı ... ortaklığı ... Clup kaşesinin ve iki imzanın yer aldığı, bayilik bölgesi direkt satış noktası sözleşmesinin 10.09.2014 tarihinde imzalanmış olduğu, işletmeci olan adi ortaklık kaşe üzerinde üç adet imzanın yer aldığı, sözleşmenin 10.maddesinde; işletmecinin sözleşme ve eklerinde yer alan yükümlülüklerinden herhangi birine uymaması halinde şirketin ve/veya bayinin önceden kendisine uyarıda bulunması, önel tanıması, hüküm alması veya başka bir merasim uygulaması gerekmeksizin sözleşmeyi tek yanlı olarak fesih etmekte serbest ve yetkili olacağını ve hem de 30.000,00 TL tutarını cezai şart olarak şirket ve/veya bayiye derhal ve defaten ödemeyi kabul ve taahhüt edeceği, satış noktasında başka marka gazlı ürünlerin satılması halinin iş bu madde kapsamı dışında olduğu, bu durumda cezai şart hükmünün uygulanmayacağı hususuna yer verildiği, sözleşmenin davacı şirketin bayisi dava dışı ...
 
 AŞ şirketi tarafından davalı işletmeci ile imzalandığı, maktu sözleşmede davacı şirketin unvanının yer aldığı, sözleşmenin 3.maddesinde; işletmecinin haksız bir nedenle bayiye iade etmemek koşulu ile 3.500 kasa/koli miktarında ve özel hükümlerde belirtilen ürünün bayiden satın almak suretiyle müşterilerine satmayı planladığı, sözleşmenin herhangi bir süre sınırlaması olmaksızın iş bu satış miktarının tamamlanması ile birlikte kendiliğinden sona ereceğinin belirtildiği, sözleşmenin 1.maddesinde; işletmecinin sözleşmenin yürürlüğü süresince münhansıran şirketin bayi eli ile dağıtımını yaptığı ve ileride dağıtımını yapabileceği gazsız ürünler ile kullanım amaçları bakımından gazsız ürünler katagorisinde yer alan eş ürünleri bayiden satın almak suretiyle işlettiği satış noktasında müşterilerine yeniden satmayı fakat bu ürünleri rekabet halinde bulunabilecek olan bir başka firma tarafından sağlanan her türlü meşrubat, meyve suyu... vb ürünleri tedarik etmemeyi ve satmamayı kabul ve taahhüt ettiği, maddede anılan münhasırlığın yalnızca gazsız ürünler için geçerli olduğu ve 5 yıl süre ile sınırlı olduğunun belirtildiği, sözleşmenin 7.maddesinde, işletmecinin şirketin bayinin yazılı
@@ -81,6 +89,8 @@ Esas sayılı dosyasında 25.07.2018 tarihinde ilamsız icra takibi başlattığ
 
 ## Ankara BAM 24. HD 2026/38 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1193400600)
+
 Dava, taraflar arasındaki adi ortaklığın feshi ile tasfiyesi istemine ilişkindir.
 
 …
@@ -91,10 +101,14 @@ Ortak tarafından ileri sürülen sebebin, ortaklığın sona erdirilmesine olan
 
 ## İstanbul BAM 3. HD 2025/3087 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1185029400)
+
 İhtar keşide ederek işyerini terk etmek tahliye ve teslim sayılmadığı gibi esasen muhatap tarafından ticari dürüstlük ve iyiniyete aykırı davra- nılmıştır. Bu tutum aynı zamanda sözleşmenin haksız surette ihlal edilmesidir..208.000,00 TL lık alacağa gelince; 29.02.2016 tarih ve 371 no.lı fatura kapsamı emtialar muhatap tarafından devir ve teslim alınarak , 2016 yılı Şubat ayı Katma Değer Vergisi Beyannamesinde de beyan edilmiştir. Bunu dahi inkar etmek muhatabın kötüniyetini, sözleşmeyi haksız feshettiğini açıkça ortaya koymaktadır. ..." denilmekte alacağın ödenmesinin talep edildiğini, dolayısı ile takip dayanağı faturalara konu ürünlerin davalı/borçluya ticari mal olarak satıldığını, bu satışın taraflar arasındaki sair hukuki (sözleşmesel) ilişkinin dışında olduğunu, takip konusu mal bedelinin müvekkiline ödenmesinin gerektiğini, Müvekkili şirket alacağın tahsili amacı ile İstanbul 35.İcra Müd.nün ... E sy.lı dosyası ile ilamsız icra takibi başlatılmış ise de davalının haksız itirazı nedeniyle durduğunu beyanla;
 İtirazının iptali ile takibin devamına , haksız itiraz nedeni ile davalı/borçlunun % 20 ten az olmamak üzere icra inkar tazminatı ödemeye mahkum edilmesine, yargılama gideri ve vekalet ücretinin davalı/borçluya yüklenmesine karar verilmesini talep ve dava etmiştir.Davalı vekili cevap dilekçesinde: Beşiktaş 19. Noterliği'ne müracaatla, adi ortak sona ereceği ve çalışılan kliniğin müvekkili tarafından kullanımının son bulacağından dolayı Bilim Sk. No.5 Kat.2 ... Sarıyer/İSTANBUL adresinde tespit yapılmasını talep ettiklerini, Beşiktaş 19. Noterliği vasıtasıyla 25.11.2016 tarihinde 29831 yevmiye nolu tespit yapılarak tüm odaların içinde bulunan cihazlarla birlikte fotoğraflandığını, tespit sonrasında müvekkili çalışma mahallinden ayrıldığını ve bir daha uğramadığını, davacı faturadan dolayı alacaklı olduğunu iddia etmekle birlikte müvekkilinin davacıya borçlu olmadığını, faturanın tek taraflı olarak düzenlendiğini ve alacağın varlığını ispata elverişli olmadığını, taraflar arasındaki aynı ilişki kapsamında adi ortaklık ile ilgili olarak halen İstanbul 18.
 
 ## İstanbul BAM 3. HD 2025/2926 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1183356300)
 
 Bu husus davacı tarafından kabul edilmektedir.Davacı kendi adına yapılan ödemenin davalıya ödendiğine dair delil sunamamıştır." şeklindeki istinaf sebepleri ile kararın davalı aleyhine olan kısımlarının kaldırılmasına davanın tümden reddine ve kötüniyet tazminatının kabulüne karar verilmesi istenmiştir....nun 355. maddesi uyarınca, ileri sürülen istinaf sebepleri ile sınırlı olarak yapılan inceleme sonucunda; dava , menfi tesbit talebine ilişkindir.Mahkemece ,yargılama sırasında davanın dayanağı olan Küçükçekmece 1. İcra Müdürlüğünün ... Esas sayılı takip dosyası ve güncel kapak hesabı UYAP Bilişim Sistemi üzerinden celp edilmiş ; alacaklısının ..., borçluların ... ve ... ve Tarım Ürünleri Ltd. Şti. olduğu, alacaklının borçluların şirketine ortak olmak için gönderdiği paraların iadesi talebi borç sebebi gösterilerek, toplam 230.852,99-TL alacağın tahsili talebine ilişkin olduğu, dosyada 02/12/2022 tarihi itibariyle 169.243,19-TL tahsilat olduğu görülmüştür.
 Davada davalı taraf, adi ortaklık kurulacağı inancı ile masraflar yaptığını savunmaktadır.Davacı taraf adi ortaklık ilişkisinin varlığını kabul etmemektedir.Bilindiği üzere, adi ortaklık; iki yada daha fazla kişinin emeklerini ve mallarını ortak bir amaca erişmek üzere birleştirmeyi üstlendikleri sözleşmedir. (TBK. 620/1 md.) Diğer bir anlatımla, adi ortaklık; birbirini tanıyan, birbirlerinin kabiliyet ve şahsiyetlerine güvenen, eşit ve aynı durumda olan gerçek veya tüzel kişilerin, müşterek amacın gerçekleştirilmesini sağlayacak vasıtaları (sermaye paylarını veya emeklerini) ortaklığa getirme konusunda karşılıklı ve uygun irade beyanlarının birbirine ulaşmasıyla teşkil eden bir kişi topluluğudur.Adi ortaklık sözleşmesi yazılı yapılabileceği gibi sözlü de yapılabilir. İhtilaf halinde, bu ortaklığın var olduğunu ileri süren kişi, iddiasını, HMK'nın 200. md gereğince senetle ispat etmelidir. Her ne kadar adi ortaklık ilişkisi her hangi bir şekle bağlı değilse de, bu kural geçerlilik şekli bakımından söz konusu olup, ihtilaf çıktığında adi ortaklık sözleşmesinin varlığını ispat yükü, adi ortaklık ilişkisinin varlığını iddia edene düşer.
@@ -106,6 +120,8 @@ makinelerin akıbeti ve yapılan ödemelerin miktarları konularının 3 kişili
 
 ## İstanbul BAM 43. HD 2025/1787 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1188456300)
+
 Dava, reasürans sözleşmesi kapsamında alacak davasıdır.
 
 …
@@ -116,6 +132,8 @@ hükümde yer alan diğer şartların yerine getirilmiş olması halinde (ki dos
 
 ## İstanbul BAM 12. HD 2025/824 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1148009500)
+
 …
 
 : Dava, TTK m.1472 uyarınca makine kırılması sigorta poliçesi kapsamında davacı sigorta şirketi tarafından sigortalıya ödenen tazminatın zarara sebebiyet verdiği iddiasıyla sigortalı ve inşaat tüm riskler sigortacısı davalılardan rücuen tahsili istemine ilişkindir. TTK'nın 1472. maddesi uyarınca; sigortacının, sigortalının haklarına halefiyet hakkının gerçekleşebilmesi için sigortacının hukuken geçerli bir sigorta poliçesi teminatı kapsamında sigortacısına tazminat ödemiş olması ve sigortalının zarar sorumlusuna karşı dava hakkına sahip olması gerekir. Sigortacı; ancak, sigortalısının meydana gelen zarardan dolayı üçüncü kişilere karşı dava hakkı varsa bu hakka ödediği bedel oranında halef olacaktır.
@@ -124,6 +142,8 @@ Adi ortaklık ortaklığı oluşturan ortaklarca veya bunlardan biri tarafından
 Müzik ...A.Ş. yönünden süresinde istinaf harçları yatırılmadığından bahisle ek kararla istinaf başvurusunun yapılmamış sayılmasına karar verilmiş ise de bahsi geçen şirketin hüküm tarihinden önce yargılama sırasında 07/07/2021 tarihli genel kurul kararı ile terkin edildiği anlaşılmaktadır. Taraf ve dava ehliyeti dava şartı olup karar kesinleşinceye değin davanın her aşamasında re'sen dikkate alınması gerektiğinden, taraf teşkilindeki bu eksiklik re'sen incelenmiştir. Yine TBK'nın 513/1. maddesi gereğince tüzel kişiliğin sona ermesi ile vekalet de sona ermiştir. Davalı şirket hakkında açılan davaya devam edilebilmesi için, davalı şirketin tüzel kişiliğinin ihya edilmesi gerekmektedir.
 
 ## Konya BAM 6. HD 2025/488 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1151888600)
 
 Dava, fatura alacağının tahsili için başlatılan icra takibine vaki itirazın iptali istemine ilişkindir.
 

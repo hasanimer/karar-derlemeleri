@@ -24,20 +24,30 @@ Arsa payı karşılığı inşaat sözleşmesine konu taşınmazın, tapuda yük
 
 ## Yargıtay HGK 2025/563 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1175083800)
+
 Oysa haciz şahsi bir haktır ve haciz hakkı sahibi ... Türk Katılım Bankası A.Ş'nin alacağı TMK'nın 1023. maddesinde ayni hak sahibi iyiniyetli üçüncü kişi için düzenlenen korumadan faydalanamaz. Öte yandan haciz ancak haciz tarihinde gerçekten takip borçlusuna ait olan taşınmazlar üzerine konulabilir.
 
 ## Yargıtay 6. HD 2026/32 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1206986800)
 
 TMK’nın 992. maddesi hükmü gereğince, arsa sahibinin bozucu yenilik doğuran hakkını kullanarak sözleşmeden dönme anına kadar, mülkiyet hakkına sahip yüklenicinin tasarruf işleminde hiç bir hukuki sakatlık olmayacaktır. Arsa sahibi, sözleşmeden sonradan dönse bile “yolsuz tescil” iddiasıyla yükleniciden iyi niyetle ayni hak iktisap eden üçüncü kişiden tapu iptali ve tescil talep etme hakkı bulunmayacaktır.
 
 ## Yargıtay 6. HD 2025/4509 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1200678700)
+
 Anılan İçtihadı Birleştirme ve Dairemizin yeni içtihatları doğrultusunda Mahkemece yapılacak iş; davacı arsa sahiplerinin hükmü temyiz eden asıl davada davalı ...’in tapu sicilinde mülkiyeti devraldığı anda kötüniyetli olduğunun ispatı bakımından yani tapunun arsa payı karşılığı inşaat sözleşmesi gereğince yükleniciye devredildiğini ve sözleşmenin geriye etkili fesih koşullarının bulunduğunu bildiği veya bilmesi gerektiği hususunda ispata yarar delillerin ibrazının sağlanması, ibraz edilecek delillerin ile birlikte dosya arasında bulunan tüm bilgi ve belgeler birlikte incelenerek temyiz edenin mülkiyet hakkını kazanıp kazanamayacağı hususunun değerlendirilmesi ve sonucuna uygun karar verilmesidir.
 
 ## Yargıtay 6. HD 2025/3804 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1192391000)
+
 Bu durumda, dava konusu taşınmazı tapuda devralan davalı ...’in karine olarak iyiniyetli olduğu kabul edilmelidir. Davacı arsa sahiplerinin bu karinenin aksini yeterli ve inandırıcı delillerle ispatlayamadıkları, az yukarıda açıklandığı üzere, mahkeme gerekçesinde açıklanan hususların da davalı ...’in kötüniyetli olduğunu kabule yeterli olmadığı, sonuç olarak, davalı ...’in TMK’nın 1023. maddesi uyarınca, tapu sicilindeki kayda güvenerek iyiniyetle taşınmazı iktisap ettiği anlaşılmış olup, hakkında açılan davanın bu nedenle reddine karar verilmesi gerekirken, kabulü doğru olmamıştır.
 
 ## Yargıtay 6. HD 2025/2078 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1160105600)
 
 Ancak, kütükteki tescilin belgelerle çeliştiğini bilmesine ya da şüphelenmesine rağmen bunu incelemekten veya gerekli özeni göstermekten kaçınır ise, iyiniyet iddiasında bulunamaz. Üçüncü kişinin iyiniyetli olmadığını ispat etme yükü, iddia eden tarafa aittir.

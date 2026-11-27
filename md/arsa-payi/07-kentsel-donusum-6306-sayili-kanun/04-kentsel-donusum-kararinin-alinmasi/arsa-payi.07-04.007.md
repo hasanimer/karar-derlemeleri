@@ -21,6 +21,8 @@ uyari: "Derleyenin seçtiği alıntılardır; kararın tamamı değildir. Künye
 
 ## İstanbul BAM 45. HD 2023/1110 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/916815000)
+
 İLK DERECE MAHKEMESİ KARARI Mahkemece; "Hukuk Muhakemeleri Kanunu'nun 389/1. maddesi "Mevcut durumda meydana gelebilecek bir değişme nedeniyle hakkın elde edilmesinin önemli ölçüde zorlaşacağından ya da tamamen imkânsız hâle geleceğinden veya gecikme sebebiyle bir sakıncanın yahut ciddi bir zararın doğacağından endişe edilmesi hâllerinde, uyuşmazlık konusu hakkında ihtiyati tedbir kararı verilebilir." hükmünü içermektedir.
 
 …
@@ -38,6 +40,8 @@ H Ü K Ü M: Gerekçesi yukarıda izah edildiği üzere; 1-Davacılar vekilinin 
 
 ## İstanbul BAM 45. HD 2023/1028 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/911633300)
+
 İşbu taahhüde aykırı davranan ARSA SAHİBİ her bir bağımsız bölüm için yüklenici’ ye ilaveten 500.000 tl ( beşyüzbin tl) cezai şart ödemeyi taahhüt eder. Sözleşmeyi imzalayan ve İş takip vekaleti veren Kat Maliklerinin, sözleşmenin imzalanmasından sonra sözleşmeye aykırı her türlü iş ve işlemleri ve her türlü gecikmeye sebebiyet vermesi durumunda 300.000.00(ÜÇYÜZBİN) TL cezai şart ödemeyi kabul etmiştir.'' Kooperatif ana sözleşmesinin ilgili maddeleri şu şekildedir; Çağrı şekli; madde 28 Olağan ve olağanüstü toplantılara çağrı: taahhütlü mektupla, ayrıca gerektiğinde gazete ile gazete olmayan yerlerde mahalli örf ve adetle göre ilan yoluyla yapılır. Çağrının sadece yazılı olarak imza karşılığında yapılması da mümkündür. Çağrının, toplantı gününden en az 30 gün önce ve en çok iki ay içinde yapılması, toplantının gün ve saati ile yerinin ve gündem maddelerinin bildirilmesi zorunludur. Çağrıda birinci toplantıda çoğunluk sağlanamadığı takdirde yapılacak olan sonraki toplantıların tarihi saati ve yeri açıklanarak yeni bir bildirime gerek kalmaksızın bir defada ortaklara duyuru yapılabilir toplantılar arasında en 7 en fazla 30 gün süre bulunması gerekir.
 Sürelerin hesabında duyuru ve toplantı günleri hesaba katılmaz. Ana sözleşmenin değiştirilmesi söz konusu ise, yapılacak duyuruda değiştirilecek maddelerin numaralarının yazılması ile yetinilir. Görüşme ve karar nisabı; madde 33 Genel kurulun toplanabilmesi ve gündemdeki konuların görüşülebilmesi için kooperatifte kayıtlı ortakların en az 1/4 ünün şahsen veya temsilen toplantıda hazır bulunması şarttır. İlk ve müteakip toplantılarda aynı nisap aranır. Genel kurulda kararlar, ortakların en az 1/4'ünün hazır olması şartıyla oylama sırasındaki mevcudun yarıdan fazlasının oyu ile alınır.Ancak, kooperatifin dağılması, diğer bir kooperatifle birleşmesi veya ana sözleşmede değişiklik, yapılması ile ilgili kararlar ortaklar cetvelinde imzası bulunanların 2/3 çoğunluğu ile verilir.Kamu kuruluşlarından alınan kredi miktarının arttırılmasından yararlanmak üzere alınacak kararlarda, ikinci fıkra hükmü uygulanır. 1163 sayılı Kooperatifler Kanunu'nun 98. maddesi yollaması ile uygulanması gereken.
 
@@ -46,6 +50,8 @@ Sürelerin hesabında duyuru ve toplantı günleri hesaba katılmaz. Ana sözle�
 HÜKÜM:Gerekçesi Yukarıda Açıklandığı Üzere; 1-Asıl ve birleşen İstanbul Anadolu 4. Asliye Ticaret Mahkemesi 2023/32 esas sayılı dosya davacıları vekilinin istinaf başvurusunun KABULÜ ile İstanbul Anadolu 7. Asliye Ticaret Mahkemesi'nin 2023/35 Esas, 15/03/2023 Tarihli ara kararının KALDIRILMASINA ve DAİREMİZCE YENİDEN HÜKÜM TESİS EDİLMESİNE …
 
 ## İzmir BAM 20. HD 2023/480 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/881150500)
 
 Davacılar vekili dava dilekçesinde özetle; davalı kooperatifin ortağı olarak, 14/02/2016 tarihinde yapılan genel kurul toplantısına katılıp, gündemin 4, 5, 6, 7, 8 ve 9. maddelerinde alınan kararlarda olumsuz oy kullandıklarını, davalı kooperatif tarafından, ... İlçesi ... Ada ...
 
@@ -74,6 +80,8 @@ Maddesinde belirtilen karar nisabının sağlandığı, iptali talep edilen 9.ma
 
 ## İstanbul BAM 45. HD 2023/415 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/881867200)
+
 Kooperatif uzmanı ... tarafından düzenlenen 29.05.2018 tarihli raporda özetle; Davalı ... KYK'nin 30. 12.2010 tarihinde yapılan 2009 hesap yılı genel kurulunu 6. No'lu gündem maddesinde tapu alan üyelerin dışında kalan üyelerin tapularının arsa sahibinden kooperatife alınması veya kooperatif yönetimince belirtilecek üyelere arsa sahibi kooperatif tarafından tahsisen verilmesinin görüşüldüğü, tapu tahsisen verilmesinin oybirliğiyle kabul edildiği, davalılardan .... Kooperatifi'nin üst birlik olduğu ve diğer davalı ... KYK arasında birlik bağı bulunmayışı, nazara alındığında .... Kooperatifi yönünden ileri sürülen husumet itirazının yerinde olduğu, davalı ...... KYK'nin 11.01.2007 tarih ve 01 sayıda yönetim kurulu kararı ile davacıyı üyelikten ihraç ettiği, davacının içinde bulunduğu bir kısım ortaklar hakkındaki ihraç kararının genel kurul gündemine getirilerek görüşüldüğü ve kooperatifin 01.10.2007 tarihli genel kurul kararıyla davacı ve bir kısım üyelerin ihraçlarına yeniden karar verildiği ancak bu kararın tebliğ edildiğine dair bilgi ve belge bulunmadığı, davacının ihraç kararının iptalini kapsar şekilde Bakırköy 9.
 Asliye Ticaret Mahkemesi'nin 2021/154 E. sayılı dosyasında açılmamış sayılmasına dair verilen karar neticesinde davalı kooperatifin davacı hakkında aldığı ihraç kararın kesinleştiği ve davacının kooperatif üyesi olmadığının kabul edilmesi gerektiği, ihraç kararı kesinleşen kooperatif üyesi olmayan davacının çıkma payının tespiti gerektiği ve yapılan inceleme sonucunda ödeme makbuzlarına göre 57.985,51 TL'nin davacının ödediği ancak 2005 hesap yılı genel kurulunda üyelerden toplanmasına karar verilen 10.500,00 TL'lik ödemeyi yapmadığının kabul ve beyan edildiği," ortaklıktan çıkma durumunda geri iade alacağının 36 ay sonra ödenmesi yönündeki erteleme kararı gereğince (01.10.2007 tarihli olağanüstü genel kurul kararı) alacağın 01.11.2010 tarihinde muaccel olacağı davacının ayrıldığı yıl (2007) kesinleşen genel gider kalemlerinden 70.000,00 TL / 58 üye =1.206,90 TL miktarın davacı alacağından mahsup edilmesi sonucunda 56.778,10 TL tutarındaki geri iade alacağının tahsili gerektiği görüş ve tespitinde bulunulmuştur.
 
@@ -82,6 +90,8 @@ Asliye Ticaret Mahkemesi'nin 2021/154 E. sayılı dosyasında açılmamış say�
 H Ü K Ü M: Gerekçesi yukarıda izah edildiği üzere; 1-Davacı tarafın istinaf başvurusunun KABULÜNE,2-Bakırköy 5. Asliye Ticaret Mahkemesi'nin 2015/1167 Esas, 2018/1039 Karar sayılı ve 19/09/2018 tarihli kararının HMK'nin 353/1a.6 maddesi uyarınca KALDIRILMASINA …
 
 ## İstanbul BAM 15. HD 2023/62 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/864299700)
 
 AŞ'nin taşınmazda kiracıların bulunduğunu ve yapılarla ilgili riskli yapı kararları alınması gerektiğini sözleşmeyi imzalarken bilmekte olduğunu, sözleşmenin 14.maddesinde “Müteahhit, işbu sözleşmenin konu edindiği parsel üzerinde yer alan binaların 6306 sayılı 'Afet Riski Altındaki Alanların Dönüştürülmesi Hakkında Kanunun' hükümleri çerçevesinde, ilgili resmi kurumlar nezdinde girişimlerde bulunarak riskli yapı statüsüne alınması ile ilgili çalışma yürütecektir.
 Mezkur çalışmaları sonuçlandırması için müteahhitte işbu sözleşme ile tanınan süre 13/12/2014 tarihinde hitam eder.” binaların içinde kiracıların bulunuyor olması konsept projelerin seçilip, hazırlanmasına, bu konuda davacılarla görüşme yapılıp, karar alınmasına engel olmadığını, yoksa davalı taraf, kiracıların varlığını ve binaların durumunu bilinmesine rağmen sözleşmelere süreler konulmasına çekince koyar veya buna göre düzenlemeler yapması, en azından sürelerin işleyip işlemeyeceğine dair maddeye ek cümle konulmasını talep etmesinin bekleneceğini, yani taşınmazın geç teslim edilmesi, kiracıların geç tahliye edilmeleri nedeniyle davalının edimlerini yapamadığı şeklindeki savunmanın mantık dışı olduğunu, bir an aksi düşünülse dahi resmi kayıtlara göre 25/03/2015 tarihinde yıkım işleminin gerçekleşmesi karşısında, sözleşmede öngörüldüğü şekilde bu tarihten itibaren 60 gün içinde konsept projelerin hazırlanmadığı, onay için davacılarla görüşülmediği, teklif bile alınmadığı, -2.Proje çalışmaları- başlıklı sözleşmelerin 2.
@@ -92,6 +102,8 @@ Maddesi manasında çalışma yapılmadığı, bu konuda yazılı delil sunulmad
 HÜKÜM: Gerekçesi yukarıda açıklandığı üzere;1-Davacılar vekilinin istinaf başvurusunun KABULÜNE, 2-Bakırköy 1. Asliye Ticaret Mahkemesi'nin 28/11/2019 tarih, 2015/1101 Esas, 2019/1216 Karar sayılı kararının KALDIRILMASINA …
 
 ## İzmir BAM 11. HD 2022/1305 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/805302700)
 
 Dava, koperatif bina güçlendirme alacağının tahsili amacıyla başlatılan icra takibine davalıların itirazının iptali istemine ilişkin olup, ilk derece mahkemesince yukarıda yazılı gerekçeyle davanın kabulüne karar verilmiştir.
 
@@ -107,6 +119,8 @@ Davalılar vekilinin istinaf başvurusunun Hukuk Muhakemeleri Kanunu'nun 353/1-b
 
 ## İstanbul BAM 17. HD 2022/1257 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/822908900)
+
 İLK DERECE MAHKEMESİ KARARI Mahkemece, iddia, savunma ve bilirkişi raporuna göre; davacıların ret oyu kullanıp tutanağın sonunda muhalefet şerhini tutanağa yazdırdıkları, tutanağın 5. maddesinde kapalı otoparkların yapımı konusunda önceden yapılan üçlü protokolün işlemesine mani olan ve İstanbul Anadolu 2.
 
 …
@@ -118,6 +132,8 @@ Nolu blokların kat irtifakı ve/veya kat mülkiyeti tapularının alınması; b
 Maddesinde yer alan karar gereğince, 6 ortağın İstanbul Anadolu 2.Asliye Ticaret Mahkemesinde mevcut 2014/284 esas sayılı dosyasında verilen yürütmenin durdurulması kararının kaldırılması ve davanın geri çekilmesinin istendiği, hukuk düzeni içinde her şahsın dilediği davayı açmakta serbest olduğu, hiç kimsenin diğerini herhangi bir davayı açmaya zorlayamayacağı gibi hiç kimsede bir şahsın açtığı davadan feragat etmesi için zorlanamayacağı, gündemin aynı maddesinde 18/08/2008 tarihli üçlü protokolün 6'ncı maddesine göre yüklenici müteahhide 7'nci maddedeki fiyatlara uygun daire tapularının tahsis ve satış veya devir ve naklinin sağlanması için ....
 
 ## İstanbul BAM 17. HD 2022/838 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/782465300)
 
 Dava, tapu iptal ve tescil istemine ilişkindir.
 
@@ -131,6 +147,8 @@ Blok ... kat 14 nolu dairenin ... adına yazılı olduğu, İstanbul İli, Avcı
 HÜKÜM: Gerekçesi yukarıda açıklandığı üzere; 1- Davacı vekilinin, mahkemenin 2021/1074 Esas sayılı derdest dosyadaki 17.03.2022 tarihli ara karara karşı yapmış olduğu istinaf başvurusunun REDDİNE, 2- Davalı vekilinin mahkemenin 2021/1074 Esas sayılı derdest dosyadaki 17.03.2022 tarihli ara karara dair istinaf başvurusunun KABULÜNE; a) Davalı vekilinin 24.12.2021 tarihli ara karara karşı 6100 sayılı Hukuk Muhakemeleri Kanunun 394/4. fıkrası gereğince yapmış olduğu itirazının KABULÜNE, b) Mahkemenin 24.12.2021 tarihli ara kararının ve 17.03.2022 tarihli ara kararının KALDIRILMASINA …
 
 ## İstanbul BAM 45. HD 2021/520 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/657860200)
 
 Dava, kooperatif genel kurul kararının iptali istemine ilişkindir.
 

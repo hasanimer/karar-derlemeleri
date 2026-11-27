@@ -22,6 +22,8 @@ uyari: "Derleyenin seçtiği alıntılardır; kararın tamamı değildir. Künye
 
 ## Yargıtay 6. HD 2023/626 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/885940300)
+
 İlk Derece Mahkemesi kararı davacı-birleşen davada davalı ... vekilince duruşmasız, davalı-birleşen davada davacı ... vekilince duruşma istemli temyiz edilmekle; kesinlik, süre, temyiz şartı ve diğer usul eksiklikleri yönünden yapılan ön inceleme sonucunda, 31.01.2023 tarihinde duruşma yapılmasına ve duruşma gününün taraflara davetiye ile bildirilmesine karar verilmiştir..
 
 …
@@ -45,6 +47,8 @@ Asliye Hukuk Mahkemesinin 2018/109 Esas sayılı dosyası üzerinden sözleşmes
 
 ## Yargıtay 3. HD 2022/9041 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/854902700)
+
 Davacılar, hissedar oldukları taşınmazlarının bulunduğu bölgenin ...
 
 …
@@ -65,6 +69,8 @@ SONUÇ : Yukarıda bentlerde açıklanan nedenlerle, davacıların temyiz itiraz
 
 ## Yargıtay 6. HD 2022/5553 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/865027800)
+
 Mahkemece, iddia, savunma, benimsenen bilirkişi raporu ve tüm dosya kapsamına ve sözleşmeye göre inşaatın yapım süresinin ruhsat tarihinden itibaren 2 yıl olduğu, yine sözleşme uyarınca sözleşmeden sonra 2 yıl içerisinde inşaat ruhsatı alınmazsa tarafların karşılıklı olarak görüşerek durum değerlendirmesi yaparak gerekirse sözleşmeyi feshedebileceklerinin kararlaştırıldığı, yüklenicinin 5 yıllık süre içerisinde inşaata başlamadığı, dava açılmadan 1 ay önce yüklenici tarafından gönderilen ihtarnamenin dürüstlük kurallarına aykırı olduğu, yüklenicinin sözleşmenin başından itibaren arsanın imar durumunu bildiği ve basiretli tacir gibi davranması gerektiği, inşaattaki gecikmenin yüklenici kusurundan kaynaklandığı gerekçesi ile asıl davanın kabulüne, birleşen davanın reddine karar verilmiştir.
 
 …
@@ -76,6 +82,8 @@ Asıl dava, arsa payı karşılığı inşaat sözleşmesinin feshi, birleşen d
 Bu durumda, taraflar arasındaki sözleşme taliki şarta (sonradan yapılan imar düzenlemesinin iptal edilmesine) bağlı bir sözleşme olduğuna ve taliki şart gerçekleştiğine göre “baştan beri objektif imkânsızlık bulunmadığı” imar engeli ortadan kalktıktan kısa süre sonra yükleniciye verilen vekâletnameden azlin yapıldığı ve geriye etkili feshi için yeterli bir gecikmenin de bulunmadığı dikkate alındığında İstinaf Mahkemesi kararının onanması gerekirken bozulmasına karar verilesine muhalifim.
 
 ## Yargıtay 7. HD 2022/3228 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/782957800)
 
 Dava ve birleştirilen davalar önalım hakkına dayalı tapu iptal ve tescil istemine ilişkindir.
 
@@ -92,6 +100,8 @@ Davacı vekili tarafından açılan önalım hakkına dayalı tapu iptali ve tes
 
 ## Yargıtay 6. HD 2022/650 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/744504500)
+
 BK’nın 96 ve TBK’nın 112. maddesi hükümleri uyarınca işinin ehli olan ve basiretli bir tacir gibi hareket etmesi gereken yüklenici, imar planına, mimari projeye uygun hareket ederek fen ve sanat kurallarına uygun imalat yapmak durumundadır. Dolayısı ile basiretli tacir yükümlülüğüne aykırı davranarak imara aykırı olarak kapalı otopark taahhüdü veren yüklenicinin otopark fiilen yapılsa dahi yıkılmasına karar verilmesi nedeni ile sorumlu olacağı açıktır. Arsa sahipleri her ne kadar iskan almak için tadilat projesine onay vermişler ise de, bu durum değer kaybı haklarından vazgeçtikleri şeklinde yorumlanmamalıdır.
 
 Alınan bilirkişi raporları ve yapılan keşifler ile belediye tarafından onaylanan ve yüklenici tarafından imal edilen binanın bodrum katı hizasındaki 1b aksı ile arsa sınırı arasında kalan mahaldeki kapalı otopark alanının üst yapısının yıktırıldığı, 10 araçlık bu yerin bu işlem sebebiyle 10 araçlık otopark alanı haline geldiği, mevcut durumda 30 araçlık kapalı otopark, 15 araçlık açık otopark bulunduğu anlaşılmaktadır. Bu durumda ilk projede 40 daire için planlanan 45 araçlık kapalı otoparkın yerine 30 araçlık kapalı otopark yapıldığından her daireye 2 kapalı otopark yerine 1,5 araçlık kapalı otopark verildiği anlaşıldığından arsa sahiplerine düşecek her bir daire için yarım kapalı otopark değeri kadar değer kaybı olmuştur. Bu duruma göre hesaplama yapılarak asıl davanın bulunan miktar üzerinden kabulü gerekir iken yanlış değerlendirme ile davanın reddi hatalı olup kararın bozulmasını gerektirmiştir.
@@ -101,6 +111,8 @@ Alınan bilirkişi raporları ve yapılan keşifler ile belediye tarafından ona
 SONUÇ : Yukarıda 1. bentte açıklanan nedenlerle taraflar vekillerinin yerinde bulunmayan temyiz itirazlarının reddi ile birleşen davada verilen kararın ONANMASINA; asıl davada verilen karara ilişkin olarak …
 
 ## Yargıtay 5. HD 2021/11370 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/692646400)
 
 Dava, kamulaştırmasız el atılan taşınmaz bedelinin tahsili istemine ilişkindir.
 
@@ -114,6 +126,8 @@ sayılı ilamı ile ''Kamulaştırma Kanunu'nun Ek 1. maddesinin'' Bu süre içe
 Davalı idare vekilinin temyiz itirazları yerinde olduğundan Erzurum Bölge Adliye Mahkemesi 4. Hukuk Dairesinin hükmünün açıklanan nedenlerle HMK’nın 371. maddesi gereğince BOZULMASINA …
 
 ## Yargıtay 23. HD 2021/207 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/631434400)
 
 Davacı vekili, müvekkilinin davalı kooperatifin üyesi olduğunu, kooperatifin 17.06.2014 tarihinde yapılan genel kurulunda, mülkiyeti kooperatife ait olan taşınmazların 29.267 m²'lik kısmı ile ilgili olarak ... ve Gayrımenkul Memercilik Turizm İnş. Tic. Ltd.
 
@@ -135,6 +149,8 @@ SONUÇ: Yukarıda açıklanan nedenlerle, davalı ve müdahil ... ve Tur. İnş.
 
 ## Yargıtay 15. HD 2020/1682 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/589187200)
+
 Bu anlatımlar ışığında somut olay incelendiğinde; dairemizce yapılan karar düzeltme incelemesinde, mahkemece verilen karar “sözleşmenin yapıldığı tarihte yürürlükte bulunan imar planı ve mevzuatına göre sözleşme konusu taşınmazda kaç bodrum kat ve zemin üstleri dahil kaç daire inşaat yapılabileceği, yine sözleşme tarihi itibariyle belirlenecek yapılması mümkün olan bağımsız bölüm sayısına göre inşaat yapılan mahalde inşaatın niteliği, mevcut konumu, tarafların durumları ve menfaatler dengesi de gözetilerek paylaşımın hangi oranda yapılması gerektiği konusunda bilirkişi incelemesi yaptırılıp değerlendirilerek sonucuna göre karar verilip, asıl ve karşı davada tescili talep edilen en son bağımsız bölüm 18 nolu dairenin yükleniciye teslimi iskan koşuluna bağlandığından ve yapı kullanma izin belgesi karşı dava tarihinden sonra alındığından bu bağımsız bölüm ile ilgili arsa sahibinin vekâlet ücreti ve yargılama gideri ile sorumlu tutulmaması gerekir.” gerekçesi ile asıl ve karşı davaya yönelik olarak bozulmuştur.
 Bu durumda karşı davada verilen hüküm kesinleşmediğinden mahkemece karşı davada esasa ilişkin bir karar verilmesi gerekirken karar verilmesine yer olmadığına dair hüküm kurulması hatalı olmuştur. Ayrıca kesinleştiğinden bahisle hüküm kurulmayan karşı davada; 2. bodrum kat 3 nolu bağımsız bölümün davalı karşı davacı adına tapuda tesciline karar verilmişken, bozmadan sonra asıl davada kurulan hükümde aynı taşınmazın davacı karşı davalı adına tapuya tesciline karar verilerek infazda da tereddüt oluşturulmuştur. Bununla birlikte bozmada açıkça en son bağımsız bölüm 18 nolu dairenin yükleniciye teslimi iskan koşuluna bağlandığından ve yapı kullanma izin belgesi karşı dava tarihinden sonra alındığından bu bağımsız bölüm ile ilgili arsa sahibinin vekâlet ücreti ve yargılama gideri ile sorumlu tutulmaması gerektiği bildirilmesine rağmen karşı davada karar verilmesine yer olmadığı şeklinde hüküm kurularak uyulan bozma ilamının gereğinin yerine getirilmemesi ve usuli kazanılmış hak ilkesinin ihlal edilmesi de hatalı olmuştur.
 
@@ -143,6 +159,8 @@ Bu durumda karşı davada verilen hüküm kesinleşmediğinden mahkemece karşı
 SONUÇ: Yukarıda 1. bentte açıklanan nedenlerle davalı karşı davacının diğer temyiz itirazlarının reddine, 2. bent uyarınca kabulü ile hükmün davalı karşı davacı yararına BOZULMASINA …
 
 ## Yargıtay 15. HD 2020/1618 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/589154600)
 
 Davacı ... ile davalılar 1-... 2-... arasındaki davadan dolayı Ankara 21. Asliye Hukuk Mahkemesince verilen 26.06.2018 gün ve 2017/156 E.-2018/282 K. sayılı hükmü onayan Dairemizin 14.03.2019 gün ve 2018/4790 E.-20/19/1148 K. sayılı ilamı aleyhinde davalılar vekili tarafından karar düzeltilmesi isteğinde bulunulmuş ve karar düzeltme dilekçesinin süresi içinde verildiği anlaşılmış, eksiklik nedeniyle mahalline iade edilen dosya ikmâl edilerek gelmiş olmakla dosyadaki kağıtlar okundu gereği konuşulup düşünüldü:
 
@@ -160,6 +178,8 @@ SONUÇ: Yukarıda açıklanan nedenlerle davalıların karar düzeltme talepleri
 
 ## Yargıtay 15. HD 2020/662 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/574950900)
+
 Asıl ve birleşen dava kat karşılığı inşaat sözleşmesinden kaynaklanan tapu iptâl ve tescil, alacak taleplerine ilişkin olup mahkemece asıl davanın kısmen kabulüne, birleşen davanın reddine dair verilen kararın davacı-birleşen dosya davacısı tarafından temyizi üzerine Yargıtay 23. Hukuk Dairesi tarafından verilen 26.02.2019 tarih 2016/1932 Esas 2019/706 Karar sayılı onama ilamına karşı davacı-birleşen dosya davacısı tarafından karar düzeltme talebinde bulunulmuştur.Karar düzeltme talebinin kural olarak temyiz incelemesini yapan Yargıtay Hukuk Dairesince incelenmesi gerekmekte ise de; Yargıtay Büyük Genel Kurulu'nun 09.02.2018 gün 2018/1 sayılı işbölümü kararı ile arsa payı karşılığı inşaat yapım sözleşmesinden kaynaklanan ve 01.07.2016 tarihinden sonra temyiz ya da karar düzeltme talepli olarak Yargıtay'a gelen dosyalardaki temyiz ya da karar düzeltme taleplerini incelemek görevi Yargıtay 15. Hukuk Dairesi'ne verildiğinden karar düzeltme talebi Dairemizce incelenmiştir.
 
 Dosyadaki yazılara, mahkeme kararında belirtilip Yargıtay ilamında benimsenen gerektirici sebeplere göre ve özellikle taraflar arasında düzenlenen sözleşmenin 5. maddesinde “belediyenin vereceği imar durumuna göre taraflar oranları nispetinde daire alacaklardır” hükmünün bulunduğu 14. maddesinde de “imar değişikliği halinde yapılabilecek inşaat m2’de herhangi bir değişiklik halinde …
@@ -172,12 +192,16 @@ SONUÇ: Yukarıda 1. bentte açıklanan nedenlerle davacı-birleşen dosya daval
 
 ## Yargıtay 15. HD 2019/2342 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/507221300)
+
 Dosya kapsamı, yapılan yazışmalar ve alınan bilirkişi raporları ile taraflar arasındaki sözleşmenin imzalanmasından sonra imar durumundaki değişiklik sebebiyle proje ve ruhsat tadilatı yapılarak bir kat fazla ve altı dubleks daire inşaatının yapıldığı anlaşılmaktadır. Eser ve bunun bir türü olan arsa payı karşılığı inşaat yapım sözleşmelerinde teslimi gereken tarihin saptanmasında sözleşme dışı fazla imalât yapılması halinde yasal olup, iş sahibi yararına da olan bu fazla imalâtın işin yapım süresine etkisinin saptanarak eklenmesi gerektiği kabul edilmektedir.
 Sözleşmenin arsa sahibi ve müteahhidin müşterek beyanları başlıklı bölümünün 1. maddesinde kat sayısında artma veya azalma olması halinde sözleşme çerçevesinde arsa sahipleri ile yüklenici kooperatifin arsa üzerinde, %40 arsa sahiplerine %60 kooperatif-yükleniciye kalmak kaydıyla inşaat yapmak üzere anlaştıkları, imar durumu, kat sayısındaki artış veya azalışların nedeniyle bağımsız bölüm sayılarındaki azalış ve artışların taraflara aynı oranda yansıtılacağına dair hüküm, sözleşme dışı, imar durumundaki değişiklik sebebiyle fazladan yapılan bağımsız bölüm ve inşaatın yapım süresinin işin teslim süresine eklenmesine engel değildir.6100 sayılı HMK’nın 297/II. maddesi gereğince hükmün sonuç kısmında taleplerden her biri hakkında verilen hükümler, taraflara yüklenen borç ve tanınan hakların sıra numarası altında açık, şüphe ve tereddüt uyandırmayacak şekilde gösterilmesi gerekli ve zorunludur.
 Asıl davada kurulan hükümde gecikme bedeli ile ilgili faizin başlangıç tarihi, ihtarın tebliğ tarihi şeklinde yazılmış ise de ihtarın tebliğ tarihi gösterilmemiş, eksik imalât bedeliyle ilgili faizin başlangıç tarihi gösterilmemiş, fazladan yapılan daireler nedeniyle arsa sahipleri yararına hükmedilen imalât bedeli ile ilgili faizin başlangıç tarihi olarak belirtilen dava ve ıslah tarihleri hüküm kısmına yazılmamıştır.
 Hükmün bu haliyle infazında güçlükler olacağı gibi taraflara yüklenen borç ve tanınan haklar tereddüt uyandırmayacak şekilde gösterilmediğinden HMK’nın 297. maddesine uygun değildir.Bu durumda mahkemece hükme esas alınan raporu düzenleyen bilirkişi kurulundan, sözleşmenin imzalanmasından sonra imar durumundaki değişiklik nedeniyle proje tadilatı ve ruhsatı yapılıp alınarak inşaa edilen 6 dubleks daireden ibaret, bir kat fazla inşaat ve imalâtın inşaatın tamamlanma ve teslim süresine etkisi ve saptanacak bu süreye eklenmek suretiyle belirlenecek teslimi gereken tarihten gecikme tazminatı talep edilen tarihe kadar asıl davada arsa sahiplerinin paylarına düşen bağımsız bölümlerle ilgili istemekte haklı oldukları gecikme tazminatı miktarı konusunda gerekçeli ve denetime elverişli ek rapor alınıp değerlendirilerek asıl davada sonucuna uygun bir karar verilmesi, kurulacak hükümde faizin başlangıç tarihlerinin açık olarak gösterilmesi gerekirken eksik inceleme ve yanlış değerlendirme ile ve infazda tereddüt yaratacak şekilde hüküm kurulması doğru olmamış, kararın bozulması uygun bulunmuştur.
 
 ## Yargıtay 15. HD 2019/2034 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/500550500)
 
 Dava, arsa payı karşılığı inşaat yapım sözleşmesinden kaynaklanmış olup, inşaatın süresinde tamamlanıp teslim edilmemesi sebebiyle kararlaştırılan cezai şart alacağının tahsili istemine ilişkindir.
 
@@ -187,6 +211,8 @@ Buna göre Ağustos 2010 tarihinden önceki gecikilen dönem için işlemiş cez
 İmar durumu ve tasdikli projeye aykırı inşaattaki aykırılıklar yıkılarak ya da tadilat projesi yapılıp tasdik ettirilerek yasal hale getirilmeden sadece yapı kullanma izin belgesi verilmesi için belediyeye başvurulmuş olması yapı kullanma izin belgesinin alınması konusunda iyiniyetli bir davranış ve gösterilmiş bir gayret olarak değerlendirilip kabul edilemez.
 
 ## Yargıtay 14. HD 2019/1041 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/480833900)
 
 Dava, yüklenicinin temliki nedeniyle kazanılan kişisel hakka dayalı tapu iptali ve tescil, olmazsa tazminat ve cezai şartın tahsili isteğine ilişkindir.
 

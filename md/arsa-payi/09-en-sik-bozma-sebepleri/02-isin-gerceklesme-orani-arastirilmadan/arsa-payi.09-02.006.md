@@ -22,6 +22,8 @@ uyari: "Derleyenin seçtiği alıntılardır; kararın tamamı değildir. Künye
 
 ## Yargıtay 15. HD 2008/4508 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/858983500)
+
 Davacı arsa sahipleri kat karşılığı inşaat sözleşmesi gereğince davalı yüklenicilerin sözleşmede kararlaştırılan süre içerisinde bağımsız bölümleri bitirip teslim edemediklerini ve temerrüde düştüklerini ileri sürerek düzenleme şeklinde yapılan kat karşılığı inşaat sözleşmesinin feshi ile sözleşmenin 7. maddesinde düzenlenen ceza hükmü gereği yapımı gerçekleştirilen villa vasfındaki bağımsız bölümlerin davacılara teslimini talep etmişlerdir.
 
 Davalı yükleniciler, davacıların fesih talebinin haksız olduğunu, inşaatların %92 seviyesinde ikmâl edildiğini ileri sürerek davanın reddini savunmuşlar, mahkemece davalıların temerrüde düştüğü kabul edilerek kat karşılığı inşaat sözleşmesinin feshine, yapımı tamamlanan N1 nolu villa ile yapımı eksik bırakılan G1, H1, N2,K1, K2, I2, I1, E1 ve E2 nolu villaların davacılara teslimine dair verilen karar taraf vekillerince temyiz edilmiştir.
@@ -39,6 +41,8 @@ SONUÇ:Yukarıda (1.) bentte açıklanan nedenlerle tarafların sair temyiz itir
 
 ## Yargıtay 15. HD 2008/3514 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/858319500)
+
 Davacılar 1-... 2-... 3-... ile davalılar 1-......n 2-..
 
 …
@@ -51,6 +55,8 @@ müdahalelerinin önlenmesi talep edilmiştir. Mahkemece davanın reddine dair v
 
 ## Yargıtay 15. HD 2008/601 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/856334500)
+
 Dosyadaki yazılara ve mahkemece uyulan bozma kararı gereğince hüküm verilmiş olmasına, delillerin takdirinde bir isabetsizlik bulunmamasına ve bozmanın şümulü dışında kalarak kesinleşen cihetlere ait temyiz itirazlarının incelenmesi artık mümkün olmamasına göre davacı arsa sahibinin tüm, davalı yüklenicinin ise aşağıdaki bendin kapsamı dışında kalan sair temyiz itirazları yerinde görülmemiş, reddi gerekmiştir.
 
 Dairemizin hükmüne uyulan 13.01.2005 günlü bozma ilâmında davalı yüklenicinin sözleşmeyle üstlendiği inşaatı %54 seviyesindeyken terkettiği, bu nedenle davacı arsa sahibinin sözleşmeyi feshetmekte haklı olduğu, davalı yüklenicinin inşaata müdahalesinin önlenmesine karar verilmesi için yapılan işler bedelinin her yıl için yapılan imalât tutarları belirlenerek, yapıldığı yılların rayiçlerine göre iş bedelinin belirlenmesi gereğine değinilmiş, bozmaya uyularak, yaptırılan bilirkişi incelemesi sonucu davalı yüklenicinin yapmış olduğu iş bedeli 84.500.160.000 TL. olarak saptanmıştır. Mahkemece belirlenen iş tutarının davalı yükleniciye ödenmesi koşuluyla davalının inşaata müdahale ve muarazasının men’ine, inşaatın mevcut haliyle davacı arsa sahibine teslimine karar verilmesinde bir isabetsizlik bulunmamaktadır.
@@ -60,6 +66,8 @@ Dairemizin hükmüne uyulan 13.01.2005 günlü bozma ilâmında davalı yükleni
 SONUÇ:Yukarıda 1. bentte açıklanan nedenlerle davacı arsa sahibinin tüm, davalı yüklenicinin ise diğer temyiz itirazlarının reddine, 2. bentte açıklanan nedenlerle hükmün temyiz eden davalı yüklenici yararına BOZULMASINA …
 
 ## Yargıtay 15. HD 2007/7888 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/861292500)
 
 Temyize konu edilen davada, ilk yüklenici davacı şirket tarafından yapılan imalâtın bedeli talep edildiğinden, davacının inşaatı terkettiği zamandaki işin seviyesinin tesbiti ve hangi tarih itibariyle inşaat bedelinin hesap edilmesi gerektiği belirlenmelidir. Dosyadaki bilgilerden akdin 03.12.1997’de feshedildiği anlaşılmakta ise de fesih keyfiyetinin davacıya tebliğ edilmediği, ilk tesbit raporunun verildiği tarih itibariyle inşaatın seviyesinin %40 olarak belirtildiği, arsa sahiplerinin davalı şirkete 28.12.1998 tarihinde satış yaptıkları, satın alan şirketin 09.07.1999'da delil tesbiti yaptırdığı, bu raporda davacının yaptığı inşaatın seviyesinin %39.91 olduğu açıklanmıştır. Bu bilgilerin ışığında akdin fiilen 1999 yılı Temmuz ayında bozulduğu ve inşaata davalı şirketin devam ettiği ve terkedildiği tarih itibariyle inşaat seviyesinin %40 olduğunun kabul edilmesi gerekmektedir.
 O halde mahkemece akdin sona erdiği 1999 yılı mahalli rayiçleri ile inşaatın seviyesi %40 olarak kabul edilerek ve davacının eski binayı yıktığı, artezyen kuyusu açtığı ve duvar ördüğü anlaşılmakla bu bedellerin ve resmi mercilerden gerçekleştirilen işlemler varsa bunlar için yapılan ödemeler dikkate alınarak davacının hakettiği alacak miktarı saptanıp, davalı arsa sahiplerinden tahsiline karar verilmesi gerekirken inşaatın bedelinin davanın açıldığı 2003 rakamları ile hesaplanması ve seviyenin davacının %70 olduğuna dair kabulü de gözardı edilerek %83 olarak kabulü ile hüküm tesisi doğru olmamış, kararın davalı ... yararına bozulması uygun görülmüştür.
@@ -172,6 +180,8 @@ Davacılar vekilinin ... Asliye Ticaret Mahkemesi'nin 2023/683 Esas, 2024/365 Ka
 
 ## İstanbul BAM 17. HD 2026/151 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1193220700)
+
 Davacı vekili dava dilekçesi ile; davalı ... ve müteveffa ...'a ait arsa üzerinde davalı kooperatifin yapacağı kat karşılığı inşaat için müvekkili yapı denetim şirketi ile 19.03.2004 tarihinde yapı denetim hizmet sözleşmesi düzenlendiğini, 25.03.2004 tarihinde yapı ruhsatı alınması ile fiilen inşaatın başladığını ve müvekkili şirketin yapı denetim hizmeti vermeye devam ettiğini, hakedişlerinin ödenmemesi üzerine belediyeye yaptıkları başvuru sonucunda, .....
 
 …
@@ -184,6 +194,8 @@ Bu nedenle her ne kadar yapı denetim sözleşmesi davalı arsa malikleri taraf�
 Bu nedenle ilk derece mahkemesi kararı kaldırılarak davalı kooperatif yönünden davanın husumet yokluğu nedeniyle reddine karar verilmesi gerekir.Öte yandan davalı gerçek kişilerin istinaf başvurusunun yapılmamış sayılmasına karar verilmesi nedeniyle davalı gerçek kişiler aleyhine hükmedilen alacak tutarı yönünden davacı şirket lehine usuli kazanılmış hak doğduğu, bu nedenle davalı gerçek kişilerin % 90 oranında inşaat seviyesi üzerinden tespit edilen yapı denetim ücretinden sorumlu olduğu gözetildiğinde davalı gerçek kişiler yönünde davanın kabulü gerekmiştir.
 
 ## Sakarya BAM 5. HD 2025/752 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1151915700)
 
 Davalı vekili asıl davaya cevap dilekçesinde özetle;
 

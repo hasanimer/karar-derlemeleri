@@ -21,6 +21,8 @@ uyari: "Derleyenin seçtiği alıntılardır; kararın tamamı değildir. Künye
 
 ## İstanbul BAM 7. HD 2022/2122 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/815197000)
+
 Dava, yükleniciden temlik alınan taşınmaza ilişkin tapu iptali ve tescil, olmadığı takdirde alacak istemine ilişkindir.
 
 …
@@ -36,6 +38,8 @@ Hasılat paylaşımı yöntemini açıklamak gerekirse bu yöntemle yapılan sö
 
 ## Gaziantep BAM 11. HD 2022/1692 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/832083600)
+
 Dava, süresinde ibraz edilmeyen çekten kaynaklanan sebepsiz zenginleşme iddiasına dayalı alacak için başlatılan ilamsız icra takibine vaki itirazın iptali istemine ilişkindir.
 
 …
@@ -43,6 +47,8 @@ Dava, süresinde ibraz edilmeyen çekten kaynaklanan sebepsiz zenginleşme iddia
 Dava konusu çekte tüzel kişiliği haiz olmayan adi ortaklık lehtar gösterilmiş ise de, 6102 Sayılı TTK.nun 780.maddesinde çekin unsurları sayılırken lehtarın gösterilmesine yer verilmemiştir. Bu nedenle lehtar çekin zorunlu unsuru olmayıp, çekte lehtarın yazılı olup olmaması ya da gerçek veya tüzel kişiliğinin bulunup bulunmaması çek vasfını etkilemez. TTK.nun 785/3.maddesine göre ise kimin lehine düzenlendiği gösterilmemiş olan bir çek, hamiline yazılı çek hükmündedir.
 
 ## İstanbul BAM 3. HD 2022/1612 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/765427200)
 
 Blok ... nolu bağımsız bölümler davalı ... şirketi adına kayıtlı iken, şirketin müvekkil bankaya olan borçlarının teminatı olmak üzere, Bakırköy Tapu Müdürlüğü'nün 07/06/2021 tarih ve ... yevmiye sayılı işlemi ile 40.000.000,00 TL bedelle, 1. dereceden müvekkil Banka lehine F.B.K. süreli müşterek ipotek tesis edildiğini, davacının dilekçesinde bahsettiği ... blok ... nolu bağımsız bölüm ve diğer bağımsız bölümler üzerinde müvekkili bankanın ipoteğinin bulunmadığını, Davaya konu bağımsız bölümler üzerine ipotek tesisi öncesinde müvekkili banka tarafından 03/05/2021 tarihinde ekspertiz yapıldığInı, taşınmaz üzerinde ipotek konulmasına engel teşkil edecek herhangi bir durum tespit edilmediğini, o tarihlerde dahi davacı lehine veya davacının dilekçesinde iddia etmiş olduğu adi ortaklık adına tesis edilen şerh/beyan olmadığını, Bankanın taşınmazların elbirliği mülkiyetine konu olduğunu bildiğine dair iddianın davacı tarafça ispatlanması gerektiğini, dava dilekçesi ve eklerinde bu hususu ispata yarar delil sunulmadığını, Sözleşmelerin nispiliği ilkesi uyarınca, kat karşılığı inşaat sözleşmesinin, taraflarına nispi (şahsi-kişisel) hak sağladığını, TMK 1009. madde uyarınca tapuya şerh
 edilmedikçe yalnızca tarafları arasında hüküm ifade ettiğini ve 3.kişilere (Bankaya) karşı ileri sürülemediğini beyanla davanın reddini savunmuştur. ... Bankası A.Ş. vekili cevap dilekçesinde; Davacı şirket ve diğer davalı şirketten müteşekkil, ... A.ş Ve ... Tic. Ltd. Şti. adi ortaklığı ticari işletmesi'ne kredi sözleşmesi kapsamında kredi kullandırıldığını, bu borçların teminatı olarak dava konusu taşınmaz üzerinde müvekkili banka lehine iyi niyetli olarak ipotek tesis edildiğini, Söz konusu taşınmazın tapuda malik olarak görülen ... A.Ş. tarafından ... A.Ş. ve ... Ltd. Şti. Adi Ortaklığı Ticari İşletmesi adına kullanılacak tüm krediler için teminat olarak gösterildiğini beyanla davanın reddini savunmuştur. İlk Derece Mahkemesi'nce 18/01/2022 tarihli 15 nolu ara karar ile: "Davacı tarafın tedbir talebine ilişkin yapılan değerlendirmede; somut olayda davacı ile davalı ... A.Ş arasında ...
@@ -52,10 +58,14 @@ Bağımsız Bölüm ... ve ... Bağımsız Bölüm ... numaralı 3 adet taşınm
 
 ## İstanbul BAM 13. HD 2022/218 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/728210800)
+
 Adi Ortaklık şirketi temsil ve hesaptan para çekme yetkisi verildiğini, TBK'nın 637. Maddesinde Adi Ortaklıkta temsil hususu düzenlenmiş olup; "Kendi adına ve ortaklık hesabına bir üçüncü kişi ile işlemde bulunan ortak, bu kişiye karşı bizzat kendisi alacaklı ve borçlu olur. Ortaklardan biri, ortaklık veya bütün ortaklar adına bir üçüncü kişi ile işlem yaparsa, diğer ortaklar ancak temsile ilişkin hükümler uyarınca, bu kişinin alacaklısı veya borçlusu olurlar.Kendisine yönetim görevi verilen ortağın, ortaklığı veya bütün ortakları üçüncü kişilere karşı temsil etme yetkisi var sayılır. " şeklinde belirtildiğini, Dava dışı ...'e yukarıda belirtilen hüküm gereğince Adi Ortaklığı temsil ve yönetim görevi verilmiş olup, ... ortaklığı ve bütün ortakları 3. kişilere karşı temsil etme hususunda yetkili olduğunu, sözleşme ve TBK md. 637/III gereğince Adi Ortaklık yetkilisi ...'in davacıyı 3. kişilere karşı temsil etme yetkisi bulunmaktadır. Dava dışı ...
 Adi Ortaklık Sözleşmesi gereğince davacı hesabından para çekme yetkisine sahip olup, bu yetkiye istinaden davacı şirketin müvekkili banka nezdindeki hesabından dava dışı ...'ye havale yapıldığını, Ortaklık sözleşmesi ile kendisine kanunda belirtilen idare yetkisi tanınan kişi, ortak ya da üçüncü bir kişi olabileceğini, bu nedenle bu kişinin, TBK'nın 42. ve 46. maddeleri ile daha geniş anlamını bulan 637. maddesinde açıklanan ortaklığı temsil yetkisi olduğunun kabulü gerektiğini, Adi ortaklığın yönetimi ve temsili birbiriyle bağlantılı iki kavram olduğunu, temsil sadece yönetimin özel bir fonksiyonu olduğunu, temsil yetkisi ortaklardan birine veya her ikisine tanınabileceği gibi üçüncü bir kişiye de verilebileceğini, temsil yetkisi Yargıtay’ın yerleşmiş içtihatlarına göre zımnen, icazeten, temsil belgesi, adi ortaklık sözleşmesi veya ortaklık kararıyla verilebileceğini, ( Yargıtay 12.HD. 18.12.2014, E. 2014/31784, K. 2014/30762) Somut olayda da ...’e Ortak Girişim Sözleşmesi ile ortaklığı en geniş şekilde temsil ve ilzam yetkisi verildiğini, Türk Borçlar Kanunu md.
 
 ## Ankara BAM 21. HD 2022/214 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/739951100)
 
 Öncelikle dava dışı adi ortaklık niteliğindeki .....Ltd. Şti. &.....ltd. Şti. İş ortaklığını oluşturan ortaklar davacı ve davalı olarak işbu davada yer aldıklarından taraf teşkilinin sağlanmış olduğunun kabulü gerekmiştir. Dava dışı anılan adi ortaklığı oluşturan davacı ortak, noterlikçe düzenlenen adi ortaklık sözleşmesine göre dava dışı adi ortaklığın ortaklığı oluşturan şirketin yetkili temsilcilerinin müştereken imzası ile para çekmeye yetkili olduklarını, davacı şirketin bilgisi dışında dava dışı adi ortaklığın davalı banka nezdindeki hesabına yatırılan iş ortaklığının üstlendiği işe ait hak ediş bedellerinin 26.12.2017 ve 05.03.2018 tarihlerinde davalı ortağın hesabına usulsüz olarak havale edildiğini ileri sürmüş, davalı banka vekili ise işbu havale işlemlerinin anılan adi ortaklıkça vekaletname ile yetkili kılınan ... tarafından internet bankacılığı yolu ile gerçekleştirilmiş olması sebebiyle işlemlerin usulüne uygun olduğunu, kaldı ki davacı şirketin uzun süre bu işlemler karşısında sessiz kalması sebebiyle yapılan para transfer işlemlerini de benimsediğini, davalı şirket tarafından müvekkili bankanın bu işlemler sebebiyle ibra edildiğini savunmuştur.
 Gerçekten de dosya kapsamında yer alan Ankara 65. Noterliği'nce düzenlenen 10.10.2017 tarihli vekaletname incelendiğinde; dava dışı ...'un adi ortaklık adına banka hesabı açmaya, hesaplara para yatırmaya, her türlü belgeyi tanzim ve imzalamaya, tüm bu hususlarla ilgili yapılması gereken iş ve işlemleri yapmaya yetkili kılındığı görülmektedir. Ne var ki, vekaletnamede dava dışı ...'a adi ortaklık hesabından para çekmeye veya internet bankacılığı üzerinden işlem ve havale yapma konusunda yetki verilmediği açıktır. Bununla birlikte 16.10.2017 tarihli 4538362 form nolu kurumsal internet ve telefon şubesi başvuru formunun adi ortaklık adına ...ve ... tarafından imzalandığı, başvuru formunda kullanıcılar başlığı altında ...'un adı soyadı ve TC kimlik nosunun yazılı olduğu tespit edilmiştir. Başka bir anlatımla internet bankacılığı için dava dışı ... yetkilendirilmiştir. Buna karşılık davacı şirket yetkilisi ...vekili gerek bilirkişi raporuna itiraz dilekçesinde gerekse davacı .....Ltd. Şti.
@@ -65,6 +75,8 @@ Labıratuvarı tarafından düzenlenen 10.12.2020 tarihli grafoloji raporunda s�
 
 ## İstanbul BAM 12. HD 2021/793 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/661179600)
+
 …
 
 : İhtiyati haciz istemine dayanak senetlerin, borçlu şirketlerin teşkil ettiği adi ortaklık tarafından keşide edileerek imzaladığı , düzenleme (tanzim) tarihinin eksik olduğu anlaşılmaktadır.İhtiyati haciz kararı verilmesinin koşulları İİK'nın 257/1. maddesinde düzenlenmiş olup,, rehinle temin edilmemiş ve vadesi gelmiş bir para borcunun alacaklısı, borçlunun yedinde veya üçüncü şahısta olan taşınır ve taşınmaz mallarını ve alacaklariyle diğer haklarını ihtiyaten haczini talep edebilir.İhtiyati hacze İtiraz ise İİK'nın 265. Maddesinde düzenlenmiş olup;
@@ -72,9 +84,13 @@ Borçlu kendisi dinlenmeden verilen ihtiyatî haczin dayandığı sebeplere, mah
 
 ## İzmir BAM 14. HD 2021/431 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/639195000)
+
 Adi ortaklıkta, ortaklığın ayrı bir tüzel kişiliği bulunmadığından, adi ortaklığı oluşturan gerçek veya tüzel kişi şirketlerin birlikte dava açmak zorunda olduğu hususu Yargıtay 15. Hukuk Diresi'nin yerleşik içtihatları gereğidir. Davayı ortaklardan birinin açması halinde mahkemece davacıya diğer ortağın muvafakatini alması veya davacı adına vekil tarafından açılmış ise, diğer ortağın vekaletini sunması için süre vermesi gerekli ise de, iş bu dava dosyasında ortaklığı oluşturan şirketlerden bir tanesi tarafından açılmış bir dava bulunmayıp, adi ortaklık adına verilen vekaletnameye istinaden dava adi ortaklık adına açılmış bulunduğundan, sonradan diğer şirketin ilk açılan davaya muvafakat vermesi veya dava açan şirket vekiline, kendi şirketinin de vekalet vermek suretiyle taraf teşkilinin tamamlanması mümkün değildir.
 
 ## İstanbul BAM 3. HD 2020/994 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/599860300)
 
 Kaldı ki, Yerel Mahkeme tarafından teminat senedi olduğu kabul edilen 31.12.2011 tarihli bono dava konusu bile değilken bu yönde değerlendirmeler yapılması hatalı olmuştur. 31.12.2011 tarihli bono dava konusu bile olmadığından, teminat senedi vasıfları taşımadığından ve davacı tarafından söz konusu senedin teminat senedi olduğu yazılı olarak ispatlanamamış olduğundan , Mahkeme kararındaki bu gerekçenin karardan çıkartılarak Mahkeme kararının düzeltilmesi istenmiştir. ...nun 355. maddesi uyarınca, ileri sürülen istinaf sebepleri ile sınırlı olarak yapılan inceleme sonucunda; dava,inşaat ortaklığı (adi ortaklık) sebebiyle verildiği iddia edilen senetlerle ilgili olarak yapılan icra takiplerinde, davacıların menfi tesbit talebine ilişkindir Dosyadaki bilgi ve belgelere göre ,taraflar arasında uyuşmazlığı doğuran hukuki ilişkinin adi ortaklık sözleşmesinden kaynaklandığı,dava ve takip konusu bonoların ,adi ortaklık sözleşmeleri ve ilişkileri sebebiyle verilen senetler olduğu anlaşılmaktadır.
 
@@ -83,6 +99,8 @@ beyan ve talepte bulunmasına rağmen mahkemece bu talep değerlendirilmemiş,me
 
 ## İstanbul BAM 3. HD 2020/557 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/580960900)
+
 Davacının teminatsız olarak tedbir kararı verilmesi gerektiğine ilişkin istinaf sebeplerinin incelenmesiyle ; ,dava , taraflar arasında düzenlenen 19.09.2012 tarihli inşaat ortaklık sözleşmesinin fiilen ve tek taraflı sonlandırıldığı iddiası ile sözleşmenin ifa edilememesi nedeni ile uğranılan zararın tazmini istemine ilişkindir. Dosyadaki bilgi ve belgelere göre, dava konusu edilen 19/09/2012 tarihli inşaat ortaklık sözleşmesinde; sözleşme konusu inşaat işinde tarafların 1/3 hisse ile eşit oranda ortak oldukları, inşaat işinin resmi işlemlerinin davalı ... San. ve Tic. Ltd. Şti üzerinden yürütüleceği, inşaatın bitiminde gerçek kişi ortakların hisseleri oranında davalı şirketçe tapu devirlerinin yapılacağı kararlaştırılmıştır.Davalı ... San. Ve Tic. Ltd. Şti. ile dava dışı ... arasında , mülkiyeti ... ait olan ..., ...
 Mah. ... ada, ... parsel no.lu taşınmaz ile ilgili olarak 13.12.2013 tarihli kat karşılığı inşaat sözleşmesi düzenlendiği anlaşılmıştır.Taraflar arasında imzalanan 19/09/2012 tarihli sözleşme içeriğine göre, tarafların, birlikte inşaat yapımı hususunda anlaşmalarıyla bir adi ortaklık ilişkisinin kurulduğu; sözleşmedeki düzenleme ile ortakların ortaklıktaki hisse oranları ile kar payı alacağının (inşaatın bitiminde gerçek kişi ortakların hisseleri oranında tapu devri yapılacağı şeklinde ) kararlaştırıldığı anlaşılmaktadır.
 
@@ -90,5 +108,7 @@ Bu duruma göre, taraflar arasındaki ilişki, TBK 620 maddesi ve devamı maddel
 olmadığından, talep, usulüne uygun bir talep olmadığı gibi, 3. kişilerin haklarını kısıtlayıcı şekilde tedbir kararı da verilemeyeceğinden ,mahkemenin red kararında usul ve hukuka aykırılık görülmemiştir.Böylece ,davacının ara karar yönelik istinaf talebinin HMK 353/1-b-1 maddesi uyarınca reddine karar verilmesi gerekmiştir.
 
 ## İstanbul BAM 3. HD 2020/180 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/572341900)
 
 Şirketi tarafından ...'a devredilmiş, dosyaya ibraz edilen muvafaktanameye göre iş bu devre davalı muvafakat etmiştir.Dosyaya celp edilen tapu kayıtlarındaki devirler, ipotek ve haciz şerhleri, çekilen krediler hakkındaki banka cevapları ile yaklaşık ispata ilişkin kayıt ve belgelere göre, her ne kadar Adi Ortaklığın temsili 26/03/2013 tarihli Adi Ortaklık Sözleşmesi 5. maddesinde düzenlenmiş ve adi ortaklığı temsil yetkisi davalı ... Şirketine verilmiş ise de, devam eden adi ortaklığın fesih ve tasfiyesi davasının yargılama ve tasfiye sürecinde, adi ortaklığın malvarlığının korunması yönünden tedbir alınmasının adi ortaklığın ve taraf şirketlerin menfaatine olacağı, davacı ...'ın adi ortaklıktaki diğer davacı şirket hisselerini usulünce iktisap ettiği de gözetilerek, davacıların ihtiyati tedbir talebinin reddine dair 28/11/2019 tarihli ara karara yönelik istinaf başvurularının kabulü ile aşağıda yazılı olduğu şekilde tedir kararı verilmesi gerekmiştir.

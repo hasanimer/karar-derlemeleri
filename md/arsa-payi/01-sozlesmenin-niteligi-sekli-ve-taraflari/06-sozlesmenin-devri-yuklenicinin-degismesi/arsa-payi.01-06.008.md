@@ -21,6 +21,8 @@ uyari: "Derleyenin seçtiği alıntılardır; kararın tamamı değildir. Künye
 
 ## İstanbul BAM 15. HD 2022/551 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/749098800)
+
 Dava, eser sözleşmesi niteliğindeki imalat sözleşmesinden kaynaklanan yüklenici tarafından taşerona karşı eksik iş bedeli ve bu nedenle yapılan masrafın tahsili için yapılan icra takibine vaki itirazın iptali, takibin devamı ve icra inkar tazminatı talebine ilişkin olup, mahkemece davanın reddine dair verilen karara karşı davacı tarafça istinaf talebinde bulunulmuştur.
 
 …
@@ -33,6 +35,8 @@ O halde, yapılan bu açıklamalar ışığında mahkemece, gerek sözleşmenin 
 HÜKÜM: Gerekçesi yukarıda açıklandığı üzere; 1-Davacı vekilinin istinaf başvurusunun KABULÜNE, 2-İstanbul Anadolu 5. Asliye Ticaret Mahkemesi'nin 18/12/2018 tarih, 2016/410 Esas, 2018/1214 Karar sayılı kararının KALDIRILMASINA …
 
 ## İzmir BAM 14. HD 2022/415 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/739853100)
 
 Davacı avukatı tarafından verilen 29.07.2015 tarihli dava dilekçesinde özetle; taraflar arasında 11/11/2013 ve 27/05/2014 tarihli iki adet eser sözleşmesinin imzalandığını, bu sözleşmeler ile davalı yüklenicinin, müvekkilinin kat karşılığı yaptığı inşaatın “alüminyum doğramaları ile camlarının takılması” işini yüklendiğini, bu iş karşılığında müvekkilinin davalıya 275.000,00 TL ve 71.130,40 TL ödediğini, karşılığında davalıdan 185.000,00 TL ve 71.130,40 TL bedelli iki adet teminat senedini aldığını, davalının işleri zamanında yerine getirmemesi nedeniyle davalıya İzmir 11. Noterliği'nden 21/05/2015 tarihli, 7502 yevmiye numaralı ihtarnameyi gönderdiklerini ve süre verdiklerini, davalının bu ihtarname ile temerrüte düştüğünü, davalının işi tamamlamadığını ve “gecikmenin dış etmenlerden kaynaklandığını” bildiren Bornova 3.
 
@@ -49,6 +53,8 @@ Dairemizin yerleşik içtihat ve uygulamalarında, iş bedelinin tamamının yü
 İzmir 4. Asliye Ticaret Mahkemesi'nin 05.11.2019 tarih ve 2015/881 Esas, 2019/1187 Karar sayılı kararı, usul ve esas yönünden hukuka uygun bulunduğundan, davalı avukatının bu karara karşı yapmış olduğu istinaf kanun yoluna başvurusunun, 6100 sayılı HMK'nın 353/(1)-b-1. maddesi gereğince ESASTAN REDDİNE …
 
 ## Ankara BAM 27. HD 2022/255 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/740590500)
 
 Davacı vekili; müvekkilinin ... ilçesi 47624 ... 11 ... sayılı taşınmazdaki binaya ... cephe, cam giydirme ve dükkan doğramaları imalatı ve işçiliğini yaptığını, bu işlerin yapımı ve bedelinin ödenmesi için davalı ... ... Ltd.
 
@@ -70,6 +76,8 @@ Davacı vekilinin istinaf başvurusunun HMK'nun 353/1-b.1 maddesi gereğince ESA
 
 ## Diyarbakır BAM 4. HD 2022/188 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/726944200)
+
 Davacı vekili istinaf kanun yoluna başvuru dilekçesinde; dava dilekçesindeki iddialarını aynen tekrarla, yüklenicinin mal kaçıracağını, taşınmazların tamamını eksik bir şekilde bırakıp ortadan kaybolduğunu, müvekkilinin daha fazla mağdur edilmeden yerel mahkeme kararının ortadan kaldırılarak ihtiyati haciz talebinin kabul edilmesine karar verilmesini, fazlaya ilişkin hakları saklı kalmak kaydıyla şimdilik \*\*\* TL'lik kısım için borçluların menkul ve gayrimenkul malları ile üçüncü kişilerdeki hak ve alacaklarının öncelikle teminatsız bir şekilde kabul görmemesi halinde uygun bir teminat karşılığında ihtiyaten haczine kararı verilmesini talep ettiği anlaşılmıştır.
 
 …
@@ -83,6 +91,8 @@ bulunmadığı,ihtiyati haciz talep edenin iddialarının yargılamayı gerektir
 
 ## İstanbul BAM 15. HD 2021/1050 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/665834600)
+
 GEREĞİ GÖRÜŞÜLÜP DÜŞÜNÜLDÜ :
 Dava, taraflar arasında düzenlenen eser sözleşmesinden kaynaklanan ayıplı iş bedeli alacağı ile para cezasının tahsili talebine ilişkin olup, mahkemece davanın kısmen kabulüne dair verilen karara karşı, taraflarca istinaf başvurusunda bulunulmuştur.Davacı vekili, taraflar arasında imzalanan 20/01/2012 tarihli sözleşme ile müvekkiline ait lojistik deposu iş yerinin kimyasal atık su arıtma tesisi bölümünün tüm mühendislik hizmetleri, mekanik ekipman temin ve montaj sisteminin işletmeye alınması, eleman eğitimi ve tesisin kanun ve yönetmeliklere uygun olarak çalıştırılmasının davalı tarafından yüklenildiğini, ancak arıtma tesisinin gerektiği gibi çalışmaması nedeniyle atık suların depolarda biriktiğini, müvekkili tarafından üründeki eksik ve ayıbın davalı yana bildirilmesine rağmen hatanın giderilmediğini, bu eksik ve ayıp nedeniyle site tarafından müvekkili şirkete 10.160,00TL para cezası kesildiğini, bu bedelin müvekkili tarafından ödendiğini, arıtmadaki ayıp nedeniyle müvekkili şirket yönünden günlük 20 ton su kaybının yaşandığını, bu bedelin site tarafından müvekkili şirkete 3.510,00TL olarak fatura edildiğini, üründeki eksik ve ayıbın davalı yanca giderilmemesi nedeniyle
 parçaların dava dışı taşeron tarafından değiştirilmesi kapsamında 17.134,84TL masraf yapıldığını, yapılan masrafların davalının kusurundan kaynaklandığını, bu nedenle bu masraflardan davalının sorumlu olduğunu ileri sürerek müvekkilinin uğradığı zarar bedelinin tahsiline karar verilmesini talep ve dava etmiştir.Davalı adına dava dilekçesinde bildirilen adrese TK 35.madde gereğince tebligat yapılmıştır.Mahkemece, dosya kapsamında bulunan bilirkişi kök ve ek raporu hükme esas alınmak suretiyle, dava konusu davacıya ait atık su arıtma tesisinin davalı yanca 2012 yılında imal edildiği, tesisin ayıplı imal edilmesi nedeniyle aynı yıl sıkça arıza yaptığı, arızaların davalı yüklenici tarafından giderilmediği, bunun üzerine ayıbın dava dışı taşeron ...
@@ -93,6 +103,8 @@ HÜKÜM: Gerekçesi yukarıda açıklandığı üzere;1-Davalı vekilinin istina
 
 ## Ankara BAM 27. HD 2021/704 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/673163400)
+
 Kooperatifi adına kayıtlı olduğu,.... konutun yer aldığı, A bloğun imalatının % 45, B bloğun % 95, C bloğun % 70, D bloğun % 60, E bloğun imalatının gerçekleşme oranın %6 olarak takdir edildiği,.... nolu adalarda inşaat yapımına başlanmadığı parsellerin tümünün tapuda davalı kooperatif adına kayıtlı olduğu, davalı kooperatifin 08/11/2000 tarihinde davacı ile yaptığı sözleşmeyi feshettiği, sözleşmeyi Borçlar Kanunu'nun 369. maddesi ile fesh ettiğini bildirdiği, taraf iradelerinin birleşmesi nedeniyle sözleşmenin fesih sureti ile ortadan kalktığı, müteahhidin yaptığı bir takım hizmetler nedeni ile bedelinin tahsiline talep hakkı bulunduğunu, davalı yandan talep edebileceği toplam tazminat miktarının 2.778,000,00 TL olarak hesaplandığının bildirildiği, taraf vekillerinin itirazı üzerine bilirkişi kurulundan ek raporlar alındığı 11/10/2016 tarihli ek raporda, akdin davacı yanın kusurlu davranışı ile feshine sebebiyet verdiği, davalı arsa malikinden kar kaybı talebinde bulunmasının mümkün olmadığı, davalı kooperatifin sözleşmeyi BK 369.maddesine göre fesh ettikleri yönündeki beyanlarının bağlayıcı sonuç doğuracağı düşünüldüğünde davacı adına tesis edilen daireler dahil olarak feshin
 oluştuğu 2007 fiyatlarına göre 3.546.600,00 TL olacağı, davaya konu inşaatların davacı şirket tarafından değil dava dışı yüklenici kooperatiflerle taşeron şirketlerin akdettiği eser sözleşmeleri uyarınca gerçekleştirildiği, taşeron şirketlerin asıl iş (arsa) sahibi kooperatif ile akdi ilişkilerinin olmadığı bu nedenle davalı asıl iş sahibi kooperatife taşeron şirketlerce husumet yöneltilemeyeceği, mahkemenin aksi kanaatte olması durumunda davacının davalı arsa maliki kooperatiften yapım bedelini talep edebileceği düşünüldüğünde 2007 yılı fiyatları ile yapım bedeli tutarının 2.150.872,42 TL olacağının bildirildiği, 818 sayılı BK'nun 369. maddesi hükmünde "Yapılan şey; bitmezden evvel iş sahibi yapılmış olan kısmın bedelini vermek ve müteahhidin zarar ve ziyanı baligan mabelağ tazmin etmek şartıyla mukaveleyi fesh edebilir." düzenlemesine yer verildiği, 6098 sayılı TBK'nun 484.maddesinde de aynı düzenlemenin yer aldığı, tüm dosya kapsamı toplanan deliller alınan bilirkişi kök ve ek raporlarına göre, taraflar arasında ...
 
@@ -101,6 +113,8 @@ oluştuğu 2007 fiyatlarına göre 3.546.600,00 TL olacağı, davaya konu inşaa
 Ankara 5. Asliye Ticaret Mahkemesi'nin 23/11/2017 gün ve ... Karar sayılı kararının HMK'nın 353/1-a.4 ve 353/1-a.6 maddeleri gereğince kaldırılmasına …
 
 ## İstanbul BAM 14. HD 2021/155 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/634656900)
 
 İLK DERECE MAHKEMESİ KARARININ ÖZETİ İlk Derece Mahkemesince yapılan yargılama sonucunda; "...Davacı tarafça içeriği kabul edilmeyip itiraza uğrayan ve kök rapordaki tespitleri doğrulayan 24.04.2018 tarihli Protokol’de '2- Yetgil İnşaatın gayr'ıresmi ortağı ... ile ... (...) arasında varılan mutabakat sonucu, ...’ın alacağı olan 4.250.000,00 TL’den 1.050.000,00 TL ...ye ödenmiştir' denilerek, davacı ...’nin davalı ... firmasının gayriresmi ortağı olduğu kabul edilmiştir.
 
@@ -116,6 +130,8 @@ HÜKÜM : Gerekçesi yukarıda açıklandığı üzere;1-HMK'nın 353/1.b.1.madd
 
 ## İstanbul BAM 15. HD 2020/1335 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/616644300)
+
 Avcılar şubesine ait ... nolu 30/04/2017 keşide tarihli çekten dolayı davalıya bu çekin 11.629,68 TL'sinden dolayı borçlu olmadığının tespiti ile davacının bu kısım yönünden istirdat talebinin kabulüne, 11.629,68 TL'nin ödeme tarihi olan 30/04/2017 tarihinden itibaren işleyecek avans faizi ile birlikte davalıdan alınarak davacıya verilmesine, davacının fazlaya ilişkin menfi tespit ve isirdat talebinin reddine karar verilmiştir.Davacı vekili istinaf dilekçesiyle, isticvap davetiyesinin usulsüz tebliğ edildiğini, HMK nın 107/1. maddesi gerğince tüzel kişiler adına yetkili temsilcinin isticvab olunacağının kabul edilmesi karşısında yetkili temsilci yerine şirkete çıkarılan isticvap davetiyesinin usulsüz olduğunu, bilirkişinin tespit etmiş olduğu, ... nolu faturaya müvekkili tarafından 8 gün içinde itiraz ettiğine dair bir belgenin dosyada bulunmadığının ifade edildiğini, ancak bu faturanın müvekkili defterinde yer almadığının da tespit edildiğini, dosyadaki deliller ile müvekkiline teslim edilen kimi malların dava tarihinden sonra teslim edildiğinin sabit olduğunu, mahkemece gerekçeye esas alınan faturanın irsaliyeli fatura olduğu tespit edildikten sonra irsaliyeli faturada faturaya
 konu malların aynı anda teslim edilmesi gerekirken bizzat davalı tarafça da malların 04-05.05.2017 tarihinde teslim edildiğinin kabul edildiğini,davalı tarafça müvekkiline gönderilen cevabi ihtarnamede dahi bu faturaya dayanılmayarak özel siparişe dayalı mallar ile hak ediş bedeli denilerek 180.000,00 TL sinin ödenmesinin talep edildiğini, mahkemece isticvaba gidilmesinin hatalı olduğunu, mahkemece hükme esas alınan faturada her hangi bir imza yer almadığını, 04-05.05.2017 tarihli , teslim eden- teslim alan kaşesi ve imzası bulunan mal kalemlerine ilişkin ürün teslim belgesi yer aldığını belirterek, usul ve yasaya aykırı yerel mahkeme kararının kaldırılması için isitinaf kanun yoluna başvurmuştur.Uyuşmazlık, 6098 sayılı Türk Borçlar Kanunu'nun 470. ve devamı maddelerinde düzenlenen eser sözleşmesinden kaynaklanmaktadır. Davacı yüklenici, davalı ise taşerondur.Taraflar arasında bila tarihli ...
 
@@ -127,6 +143,8 @@ HÜKÜM: Gerekçesi yukarıda açıklandığı üzere;1-Davacı vekilinin istina
 
 ## İstanbul BAM 15. HD 2020/399 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/577138800)
+
 Davacı vekili, müvekkili ile davalı ... İnşaat Makine Turizm ve Taşımacılık San.Tic. A.Ş arasında 25/08/2017 tarihli taşeronluk sözleşmesi akdedildiğini, müvekkilinin bu sözleşme gereğince davalı ...in maliki olduğu İstanbul ili, Sancaktepe ilçesi, ...köyü,.. parselde kayıtlı bulunan tarla niteliğindeki taşınmazın temel kazı ve hafriyat işlemlerini yapma işini üstlendiğini, müvekkilinin sözleşme gereğince üzerine düşen tüm yükümlülüklerini yerine getirmesine rağmen alacağını alamadığını, davalı ...
 
 …
@@ -135,6 +153,8 @@ Taraflar yüklenici alacağının miktarında ve gösterilebilecek teminatta anl
 Yukarıda anılan Yargıtay kararında ve TMK'nın 895.maddesinde belirtildiği üzere davacı tarafça davalı yükleniciden olan alacağı mahkeme ilamına bağlanmadığı gibi, alacak davalı arsa sahibi tarafından da kabul edilmiş değildir.
 
 ## İstanbul BAM 15. HD 2018/108 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/394225300)
 
 Davalı vekili, müvekkilinin arsası üserine inşaat yapılmak üzere dava dışı ... Ltd.
 

@@ -22,6 +22,8 @@ uyari: "Derleyenin seçtiği alıntılardır; kararın tamamı değildir. Künye
 
 ## Yargıtay 3. HD 2014/15941 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/88503600)
+
 Davacı; davalı kooperatif ile aralarında düzenlenen sözleşme gereği tüm edimlerini yerine getirdiği halde, kooperatifin sözleşme hükümlerine aykırı davranarak taşınmazı diğer davalıya tapuda sattığını, iyi niyetli olduğunu ileri sürerek, 11 no'lu bağımsız bölümün MK.724.md.gereğince tapusunun iptali ile adına tescilini ya da kendisinin iyiniyetli olması ve davalıların kötüniyetli olması nedeniyle MK.723/2.md. gereğince zararının tespit edilerek, fazlaya ilişkin hakları saklı kalmak şartıyla 150.000,00 YTL tazminatın ve BK.gereğince 20.000,00 YTL manevi tazminatın yasal faizi ile birlikte tahsilini istemiştir.
 
 Davalı kooperatif ve diğer davalılar davanın reddini istemişlerdir.
@@ -38,6 +40,8 @@ Bu itibarla yukarıda açıklanan esaslar gözönünde tutulmaksızın yazılı 
 
 ## Yargıtay 3. HD 2014/12708 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/88449400)
+
 Davacı vekili dilekçesinde; davalılardan Adnan'ın yüklenici, diğer davalıların ise arsa sahibi olduklarını, davalıların aralarında kat karşılığı inşaat sözleşmesi yaptıklarını, davacının davalı yükleniciden kendine düşen dairelerden 3 adedini satın aldığını, ancak tapu devrinin gerçekleşmediğini beyan ederek, taşınmazların adına tapuya tesciline, bu mümkün olmadığı takdirde rayiç değerlerinin yasal faizi ile birlikte davalılardan tahsiline, ayrıca dairelerin belirtilen tarihte teslim edilmemesi nedeni ile uğranılan kira kaybı karşılığı şimdilik 20.000 TL'nin davalı yükleniciden tahsiline karar verilmesini talep ve dava etmiş, yargılama sırasında verdiği ıslah dilekçesi ile; taşınmazların 3.kişiye satılması neticesinde taşınmazların rayiç değerleri ile, kira kaybının davalılardan tahsiline karar verilmesini talep etmiştir.
 
 …
@@ -53,6 +57,8 @@ Dava konusu uyuşmazlık, geçersiz satış sözleşmesi nedeni ile verilenlerin
 Bu itibarla yukarıda açıklanan esaslar gözönünde tutulmaksızın yazılı şekilde hüküm tesisi isabetsiz, temyiz itirazları bu nedenlerle yerinde olduğundan kabulü ile hükmün HUMK.nun 428.maddesi gereğince BOZULMASINA …
 
 ## Yargıtay 23. HD 2014/8447 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/120147300)
 
 Davacılar vekili, davalı arsa sahibi S.S. E, Konut Yapı Kooperatifi ile yüklenici olan müvekkili D, Orm. Ürün.
 
@@ -76,6 +82,8 @@ SONUÇ: Yukarıda (1) numaralı bentte açıklanan nedenlerle, davalı S.S. E. K
 
 ## Yargıtay 23. HD 2014/7272 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/119682400)
+
 Davacı vekili, davalı arsa sahipleri ile dava dışı E.... Birlik İnşaat Ltd.
 
 …
@@ -94,6 +102,8 @@ Bunun yanında, arsa sahipleri ile, dava dışı yüklenici arasındaki 23.01.19
 SONUÇ: Yukarıda açıklanan nedenlerle davacı vekilinin karar düzeltme isteminin kabulü ile Dairemizin 28.02.2013 gün 2012/5977 Esas, 2013/1174 Karar sayılı bozma ilamının kaldırılmasına …
 
 ## Yargıtay 23. HD 2014/6538 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/118172000)
 
 Davalı .... Giyim A.Ş.
 
@@ -118,6 +128,8 @@ SONUÇ: Yukarıda (1) numaralı bentte açıklanan nedenlerle, asıl ve birleşe
 
 ## Yargıtay 23. HD 2014/6523 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/117748900)
+
 Davacı vekili, davalılar ile müvekkilinin üyesi bulunduğu dava dışı S.S..... Yapı Kooperatifi arasında arsa payı karşılığı inşaat sözleşmesi imzalandığını, kooperatifin inşaatı bitirmesinin ardından ferdileşmeye geçtiğini ve tüm üyelere tapularının dağıtıldığını, ancak kendisine halen ikamet etmekte olduğu 8 no'lu bağımsız bölümün tapusunun verilmediğini, kooperatif genel kurulunda tapusunun almayan üyelerin arsa sahiplerine müracaat etmesi yönünde karar alındığını, tapunun devri amacıyla davalı arsa sahiplerine yapılan sözlü ihtarlardan sonuç alınamadığını ileri sürerek, 8 no'lu bağımsız bölümün tapu kaydının iptali ile müvekkili adına tescilini talep ve dava etmiştir.
 
 Davalılar M.. U.., davalı ile yapılmış bir sözleşme bulunmadığını, arsa sahiplerinin muhatabının kooperatif olduğunu, davacının aktif husumet ehliyeti bulunmadığını, dava dışı yüklenici kooperatifin yol, çevre düzenlemesi gibi işleri tamamlamadığını savunarak, davanın reddini istemiştir.
@@ -137,6 +149,8 @@ SONUÇ:Yukarıda (1) numaralı bentte açıklanan nedenlerle, hükmün, re'sen B
 
 ## Yargıtay 8. HD 2014/6373 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/98558400)
+
 Davalı taraf, davacıların iddialarının yersiz olduğunu, 14.08.2003 tarihli protokolün davacı N..’in açacağı anlaşmalı boşanma davası için düzenlendiğini, bu koşulun gerçekleşmediğini, marketin (bakkal dükkanının) temliki nedeniyle davacının bir zararının olmadığını açıklayarak davanın reddini savunmuştur.
 
 Mahkemece, davacılardan N..’in tutunduğu 14.08.2003 tarihli protokolün bu kişinin davalı aleyhine anlaşmalı boşanma davası açmak amacıyla düzenlenmiş olduğunu, ne var ki, davacının böyle bir dava açmadığını ve protokolün Hakim tarafından onaylanmadığını, boşanma davasının davalı Kemal tarafından şiddetli geçimsizlik sebebine dayalı olarak açıldığını, bu hukuki sebep nedeniyle davanın davacının iddia ettiği gibi bir yükümlülük altına girmediğini, ayrıca davacı tarafın ortak işletilen market nedeniyle maddi bir zararının doğduğunu kanıtlayamadığı gerekçeleri ile davanın reddine karar verilmiştir.
@@ -151,6 +165,8 @@ Davacılar vekilinin temyiz itirazları açıklanan bu nedenle yerindedir. Kabul
 
 ## Yargıtay 23. HD 2014/6234 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/117913800)
+
 Mahkemece, davaların kabulüne ilişkin verilen karar Yargıtay 15.
 
 …
@@ -164,6 +180,8 @@ S.S. Zümrüt Yeşili Konut Yapı Kooperatifinin diğer temyiz itirazlarına gel
 davacı S.S. Z.. Yeşili Konut Yapı Kooperatifi vekilinin temyiz itirazlarının kabulü ile hükmün BOZULMASINA …
 
 ## Yargıtay 23. HD 2014/5025 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/117870500)
 
 Davacı vekili, müvekkili ile davalı yüklenici arasında imzalanan 26.05.2009 tarihli arsa payı karşılığı inşaat sözleşmesi uyarınca, inşaatın 25.06.2009 tarihinde müvekkiline teslim edilmesi ve en geç Eylül 2009 tarihi sonuna kadar da iskân ruhsatının alınması kararlaştırıldığı halde, davalının edimini yerine getirmediğini ileri sürerek, müvekkiline verilecek olan 33 konut için 25.06.2009 tarihinden dava tarihine kadar olan dönem için şimdilik 10.000,00 TL tazminatın aylık ve kademeli olarak % 10 gecikme faizi ile birlikte davalıdan tahsilini talep ve dava etmiş, 26.05.2011 tarihli ıslah dilekçesi ile dava değerini 160.261,20 TL'ye arttırmıştır.
 
@@ -185,6 +203,8 @@ SONUÇ: Yukarıda (1) numaralı bentte açıklanan nedenlerle, davalı vekilinin
 
 ## Yargıtay 15. HD 2014/1579 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/291687800)
+
 Davacı Tasfiye Halinde ... Konut Yapı Kooperatifi ile davalılar 1-... 2-... arasındaki davadan dolayı ...
 
 …
@@ -201,6 +221,8 @@ SONUÇ:Yukarıda 1. bentte açıklanan nedenlerle davacının diğer karar düze
 
 ## Yargıtay 15. HD 2014/998 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/105781300)
+
 Taraflar arasında imzalanan 08.06.1995 tarihli sözleşmenin 4. maddesinde, taşeronun iş bedelinin Bayındırlık ve İskan Bakanlığı birim fiyatlarına %5 eklenmesi suretiyle belirleneceğinin; 6. maddesinde, işin teslim süresi içerisinde iş sahibi kooperatifin iş bedelinin %95'ine tekabül eden kısmı ödemekle yükümlü olduğunun; 9. maddesinde, taşerona sözleşmede gösterilen formüle göre fiyat farkı verileceği ancak ayrıca malzeme fiyat farkı verilmeyeceğinin;14. maddesinde, tarafların akdi yükümlülüklerini yerine getirmeleri halinde sözleşmenin tek taraflı olarak feshedilemeyeceği, aksi halde karşı tarafa inşaat nihai maliyetinin %10'u oranında tazminat ödemesinin kararlaştırıldığı anlaşılmaktadır.
 
 İşin devamı sırasında taraflar tekrar bir araya gelerek 09.11.2000 tarihli ek sözleşmeyi imzalamışlardır. Anılan ek sözleşmenin başlığında bu sözleşmenin 08.06.1995 tarihli asıl sözleşmenin eki niteliğinde olduğu, bu sözleşmede düzenleme bulunmayan hallerde asıl sözleşme hükümlerinin uygulanmaya devam edileceği, yüklenici kooperatif ile arsa sahipleri arasındaki sözleşmeye eklenen ek düzenlemeler kapsamında arsa sahiplerine verilecek 31 adet bağımsız bölümün 31.12.2000, kooperatife teslim edilecek 31 adet dairenin ise 30.06.2001 tarihlerinde teslim edileceğinin kararlaştırıldığı, yüklenici tarafından arsa sahiplerine teslimi gereken 31 adet bağımsız bölümün eksik işler bedelinin 100.000,00 TL olduğu, bu bedelin yüklenici kooperatif tarafından taşerona ödeneceğinin ifade edildiği görülmektedir.
@@ -210,6 +232,8 @@ Taraflar arasında imzalanan 08.06.1995 tarihli sözleşmenin 4. maddesinde, ta�
 SONUÇ: Yukarıda açıklanan nedenlerle taraf vekillerinin temyiz itirazlarının kabulüyle hükmün taraflar yararına BOZULMASINA …
 
 ## Yargıtay 23. HD 2014/424 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/109918200)
 
 Davacı vekili, müvekkili şirket ile davalı yüklenici kooperatif arasında arsa payı karşılığı inşaat sözleşmesi imzalandığını, davalının sözleşmede kararlaştırılan sürede inşaatı tamamlayamaması üzerine mahkeme aracılığıyla yapılan tespitte eksik ve ayıplı iş bedelinin 57.890,00 TL olduğunun tespit edildiğini, ayrıca davalının geciken her ay için aylık 200 USD gecikme tazminatı ödemeyi kabul ve taahhüt ettiğini ileri sürerek, şimdilik 5.000,00 TL eksik ve ayıplı işler bedeli ile 5.000 USD gecikme tazminatının temerrüt ihtarnamesinin davacıya tebliğ tarihi olan 03.07.2006 tarihinden itibaren reeskont faizi ile birlikte davalıdan tahsilini talep ve dava etmiştir.
 
@@ -226,6 +250,8 @@ doğru olamıştır.
 SONUÇ: Yukarıda (1) no'lu bentte açıklanan nedenlerle re'sen, (2) no'lu bentte açıklanan nedenlerle davacı vekilinin temyiz itirazlarının kabulüyle hükmün davacı yararına BOZULMASINA …
 
 ## Yargıtay 13. HD 2013/21326 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/565184000)
 
 Davacı avukat olduğunu, davalı kooperatif ile 13.10.2009 günlü avukatlık ücret sözleşmesi düzenlendiğini, kooperatife karşı diğer arsa sahiplerinin açtığı davada ve kooperatifin arsa sahiplerine karşı açtığı davada kooperatif vekili olarak yer aldığını, ancak kooperatif ile arsa sahiplerinin dava dışında 16.7.2010 günlü protokolle sulh olmaları üzerine davaların takipsiz bırakılarak açılmamış sayılmasına karar verildiği, kendisinin haksız olarak 17.5.2011 tarihinde azledildiği, Avukatlık Kanununun 165.maddesine göre her iki tarafı sözleşme ve kanuni vekalet ücretinden müştereken ve müteselsilen sorumlu olduklarını belirterek 2009/325 esas sayılı dava dosyası nedeniyle ücreti vekalet alacağı için başlattığı icra takibine yapılan itirazın iptali ile icra inkar tazminatına hükmedilmesine, icra takibine konu olmayan 2010/126 esas sayılı dava dosyası nedeniyle ücreti vekalet alacağından dolayı 30.000 TL nin tahsiline karar verilmesini talep etmiş, 5.4.2012 tarihli ıslah dilekçesi ile fazlaya ilişkin hakları saklı kalarak, 2009/325 esas sayılı dava dosyası nedeniyle yasal ve sözleşme vekalet ücreti alacağına konu icra takibinin 50.058 TL üzerinden devamı ve % 40 icra inkar tazminatının
 tahsiline, 2010/126 esas sayılı dava nedeniyle ücreti vekalet alacağı için 6.670 TL sinin yasal vekalet ücreti olarak tahsiline, sözleşme vekalet ücretinin ise davalı kooperatife kazandırdığı menfaat esas alınarak bilirkişi tarafından hesaplanacak meblağın tahsiline karar verilmesini, istemiştir.

@@ -22,6 +22,8 @@ uyari: "Derleyenin seçtiği alıntılardır; kararın tamamı değildir. Künye
 
 ## Yargıtay 13. HD 2018/8155 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/451351100)
+
 Davacı, davalı arsa maliki ... ile davalı yüklenici ... arasında 14/12/1998 tarihinde düzenlenen kat karşılığı inşaat sözleşmesine dayalı olarak yüklenici davalıdan 21.11.2000 tarihli noterde düzenlenen satış vaadi sözleşmesi ile 32 nolu daireyi satın aldığını, taşınmazın fiili teslimi yapılarak taşınmaza yerleştiğini, ancak arsa maliki ile yüklenici arasındaki problem nedeniyle tapuyu alamadığını, tapuyu devralmayı beklerken tapu malikinin vefatı üzerine mirasçıları tarafından davalı ... . taşınmazın satıldığını,...'nın borcundan dolayı tapu kaydında hacizler bulunduğunu ve bu nedenle taşınmazın satışı aşamasına gelindiğini ileri sürerek, davalı ... . adına kayıtlı taşınmazın tapu kaydının iptali ile adına tesciline, mümkün olmazsa fazla hakları saklı kalarak dairenin rayiç bedeli 50.000,00 TL. ile, daire içine yaptırdığı masraflar bedeli 5.000,00 TL'nin faizi ile davalı müteahhit Kemal'den tahsiline karar verilmesini istemiş, ıslah ile talebini artırmıştır.
 
 Davalılar, davanın reddini savunmuşlardır.
@@ -34,6 +36,8 @@ Mahkemece, davalı yüklenici ... arsa maliklerine karşı edimlerini yerine get
 Sonuç olarak arsa malikleri hakkında gerek tapu iptali ve tescil ve gerekse rayiç bedel talebi reddedildiğine göre mahkemece, davada kendisini vekil ile temsil ettiren davalı arsa maliki ... mirasçısı ... lehine vekalet ücreti takdir edilmesinde bir isabetsizlik bulunmamaktadır.
 
 ## Yargıtay 15. HD 2018/3438 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/444540100)
 
 Dava, eser sözleşmesinin bir türü olan kat karşılığı inşaat sözleşmesinden kaynaklanan alacak davasıdır.
 
@@ -48,6 +52,8 @@ Alınan iki bilirkişi raporu arasında büyük oranda ve açık bir şekilde ç
 …
 
 ## Yargıtay 20. HD 2018/192 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/405333400)
 
 Davacılar vekili dava dilekçesinde; .... mahallesi, 366 ada 9 parselde tapuya kayıtlı taşınmaz üzerinde davacılar ile davalıların paydaş olduklarını, her bir bağımsız bölüme isabet eden hisse oranlarının, bağımsız bölümlerin kat irtifakının ve kat mülkiyetinin kurulduğu tarihteki değerleri, konumları, kullanım şekilleri ve alanları ile orantılı olarak tahsis edilmemiş olduğunu beyan ederek; arsa paylarındaki hataların giderilmesini, bağımsız bölümlere özgülenmiş mevcut arsa paylarının iptali ile arsa paylarının bağımsız bölümlerin değerleri ile orantılı olarak yeniden belirlenip özgülenerek tapuya tesciline karar verilmesini talep etmiştir.
 
@@ -66,6 +72,8 @@ Dava; ana taşınmazın bağımsız bölümlerine ait arsa paylarının değerle
 
 ## Yargıtay 13. HD 2017/11941 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/388141600)
+
 Davacı, davalı yükleniciler olan ..., İnşaat ... Tic. A.Ş., ....
 
 …
@@ -79,6 +87,8 @@ Mahkemece, tapu iptal ve tescil talebinin reddine, 10.000,00 TL'nin dava tarihin
 SONUÇ : Yukarıda açıklanan nedenlerle temyiz olunan hükmün davalı yararına BOZULMASINA …
 
 ## Yargıtay 23. HD 2015/8094 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/203033200)
 
 Davacı vekili, müvekkili ile davalılar ararsında arsa payı karşılığı inşaat sözleşmesi düzenlendiğini, sözleşmenin davalılar tarafından haksız olarak feshedildiğini, müvekkilinin sözleşme gereğince 650.000,00 TL harcama yaptığını ayrıca 10.000,00 TL kârdan yoksun kaldığını ileri sürerek, şimdilik 660.000,00 TL'nin faiziyle tahsilini istemiştir.
 
@@ -96,11 +106,15 @@ SONUÇ: Yukarıda açıklanan nedenlerle, davacı vekilinin temyiz itirazların�
 
 ## Yargıtay 3. HD 2012/16370 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/534979200)
+
 Dava dışı ... İnşaat ile davalı ... arasında 02.03.1998 tarihinde imzalanan kat karşılığı inşaat sözleşmesinin 7. maddesine göre; sözlşemenin uygulanmasından doğan ihtilafların çözümlenmesinde tarafların seçecekleri birer hakem ile bu hakemlerin seçeceği üçüncü bir hakemden oluşan heyetin yetkili olduğu düzenlenmiştir.Taraflar ve üçüncü kişiler arasında uyuşmazlık sözleşme hükmüne göre, hakem kurulu tarafından karara bağlanmıştır.
 Ancak bu sözleşmede hakem ücreti tayin ve tespit edilmediği gibi sonradan da belirlenmemiştir.Uyuşmazlığın tarafları ile hakemler arasında oluşan hukuki ilişki BK 386/2 maddesi uyarınca vekalet akdine dayanmaktadır.13.05.1964 tarih ve 1/3 İçtihadı Birleştirme Kararı'nda; hakemlerin kendi ücretlerini tayin ve tespit edemeyecekleri, hakemlik ücretinin akitle taraflarca belirtilmesi halinde bu ücretin hakemlerce alınacağı aksi halde hakemlerin emeklerinin karşılığı olan alacaklarının ödettirilmesi için genel hükümler uyarınca yetkili mahkemelere başvurarak karar almaları gerektiği hususu açıklanmıştır.Hal böyleyken; mahkemece, bilirkişi incelemesi yaptırılmak suretiyle davacı hakemlerin karara bağladıkları her bir dosya için harcadıkları emek ve mesai gözetilmek suretiyle belirlenecek hakem ücretine hükmedilmesi gerekirken, yazılı gerekçeyle yanılgılı şekilde hüküm tesisi doğru görülmemiş,bozmayı gerektirmiştir.Bu itibarla yukarıda açıklanan esaslar gözönünde tutulmaksızın yazılı şekilde hüküm tesisi isabetsiz, temyiz itirazları bu nedenlerle yerinde olduğundan kabulü ile hükmün HUMK.nun 428.maddesi gereğince BOZULMASINA ve peşin alınan temyiz harcının istek halinde temyiz edene
 iadesine, 28.06.2012 tarihinde oybirliğiyle karar verildi.
 
 ## Yargıtay 15. HD 2010/5521 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/775730900)
 
 Dava, arsa payı karşılığı inşaat yapım sözleşmesi uyarınca gecikme tazminatı alacağının tahsili istemine ilişkindir.
 
@@ -115,6 +129,8 @@ SONUÇ:Yukarıda açıklanan nedenlerle temyiz itirazlarının kabulü ile karar
 
 ## Yargıtay 15. HD 2010/4960 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/774725200)
+
 Taraflar arasında Antalya 2. Noterliğince düzenlenen 16.04.1993 gün ve 12477 yevmiye numaralı Düzenleme Suretiyle Gayrimenkul Satış Vaadi ve Daire Karşılığı İnşaat Sözleşmesinin 13/2. maddesi “Taraflar arasında bu sözleşmeden doğan ihtilâfların halli için taraflar tahkim usulünü kabul etmişlerdir. Bu yazılı tahkim şartını ifade eder. Taraflar arasında çıkacak ihtilâfların hallinde; taraflar kendi hakemlerini seçerler ve seçilen bu hakem üçüncü hakemi seçer ve bu hakem heyeti ihtilâfı çözer. Bu konuda Hukuk Usulü Muhakemeleri Kanunu'nun ilgili hükümleri uygulanır” hükmünü içermektedir. Sözleşmenin bu hükmünde kararlaştırılan hakem şartı iki tarafın arzularına tâbi olan hususlara ilişin olarak “kesin” niteliktedir. Ancak, sözleşmede kararlaştırılan tahkim şartına karşın; davacı mahkemede davasını açmış olduğu gibi; davalılar tarafından davacı aleyhine Antalya 1. Asliye Ticaret Mahkemesi'nin 2008/257 Esas sayısında kayıtlı, davalı ... tarafından davacı aleyhine Antalya 3. Asliye Ticaret Mahkemesi'nin 2008/118 Esas sayısında kayıtlı ve davalı ... tarafından davacı aleyhine Antalya 3. Asliye Ticaret Mahkemesi'nin 2008/135 Esas sayısında kayıtlı davalara açılmıştır.
 Görüldüğü üzere, davacı …
 
@@ -123,6 +139,8 @@ Görüldüğü üzere, davacı …
 SONUÇ: Yukarıda açıklanan sebeplerle davacının temyiz itirazlarının kabulüne, kararın davacı yararına BOZULMASINA …
 
 ## Yargıtay 15. HD 2010/1652 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/16953500)
 
 Taraflar arasında imzalanan 16.04.1993 tarihli 12477 yevmiye sayılı "Düzenleme Şeklinde Gayrimenkul Satış Vaadi ve Daire Karşılığı İnşaat Sözleşmesinin 13/2. maddesinde, sözleşmeden doğan ihtilafların halli için tahkim şartı kararlaştırılmasına karşın; davacı davasını mahkemede açmış olduğu gibi, davalı yüklenici şirket de aynı sözleşmeye dayanarak davacı M.Eyüp ile diğer arsa sahipleri hakkında açtığı Antalya Asliye Birinci Ticaret Mahkemesi'nin 2008/257 Esas sayılı davasında cezai şartın tahsilini talep etmiştir.
 
@@ -133,6 +151,8 @@ Görüldüğü üzere, davacı M.Eyüp tarafından açılan işbu temyize konu d
 Sonuç: Yukarıda açıklanan sebeplerle davacı vekilinin temyiz itirazlarının kabulüne ve kararın davacı yararına (BOZULMASINA)
 
 ## Yargıtay 15. HD 2009/7005 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/858455300)
 
 Dava, hakem tayini istemine ilişkindir.
 
@@ -160,12 +180,16 @@ SONUÇ:Yukarıda açıklanan sebeplerle davacı vekilinin temyiz itirazlarının
 
 ## Yargıtay 15. HD 2008/4439 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/857846100)
+
 Taraflar arasında biçimine uygun düzenlenen arsa payı karşılığı bina yapım sözleşmesinin uyuşmazlıklar başlıklı 20. maddesinde "... taraflar arasında ihtilaf çıktığı takdirde taraflar bir araya gelerek ihtilafı çözümleyemezler ise bu ihtilaf hakemde çözülür, Tahkim yeri ...'dir." hükmü yer almıştır. Bu haliyle tahkim anlaşmasının varlığı sabit olduğundan davacı hakem seçimi konusunda mahkemeye müracaat etmekte haklıdır (HUMK. 520 md). Ne var ki; davada hangi uyuşmazlık konusunda hakeme gidileceği açık seçik belirtilmiş değildir. Kamu düzenine ilişkin hususlarda hakeme gidilemez. Dairemizin yerleşen uygulaması da bu yöndedir. Ancak gerek kamu düzenini ilgilendiren gerekse yasalarda mahkemelerin görevleri dışında kalan, yalnızca tarafların iradelerine tabii konularda tahkime gidilebilir. O halde tahkimde götürülecek uyuşmazlığın açıkça ortaya konulması gerekir. Zira uyuşmazlığın niteliğine göre mahkemenin hakem seçimini yapacağı ve görevlendireceği açıktır. O halde, davacıdan hakeme götürülecek uyuşmazlık konularında açıklama yapmasının istenilmesi, böylece saptanacak uyuşmazlık konularına göre hakem seçimine gidilmesi gerekir.
 Her nekadar taraflar arasında mahkemede devam eden dava var ise de kamu düzenine ilişkin olduğu tartışmasız olan tapu iptal tescil davasının zorunlu olarak mahkemede görülmesi tarafların tahkim anlaşmasını değiştirerek mahkemenin görevli olduğunu kabul ettiklerinde iradelerin birleştiğinden söz edilemez. Az yukarda değinildiği gibi tapu iptal tescil davası kamu düzenini ilgilendirdiğinden mahkemelerin görevli olduğu uyuşmazlık konusu değildir. Tüm bu nedenlerle eksik incelemeye dayalı mahkeme kararı usul ve yasaya aykırı olmuş, kararın bozulması uygun bulunmuştur.
 
 SONUÇ: Yukarıda açıklanan nedenlerle mahkeme kararının BOZULMASINA …
 
 ## İstanbul BAM 15. HD 2026/219 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1197805200)
 
 Taraflar arasındaki uyuşmazlık, 6098 sayılı Türk Borçlar Kanunu 470 ve devamı maddelerinde düzenlenen eser sözleşmesinin bir türü olan kat karşılığı inşaat sözleşmesinden kaynaklanmaktadır. Davacı yüklenici, davalı ise arsa sahibidir.Dava, taraflar arasındaki 20.04.2002 tarihli ana sözleşme ve sonradan imzalanan ek sözleşmelerdeki daire paylaşımı düzenlemeleri ile ek sözleşmenin 3.1. Maddesinin a ve b bentleri gereğince, sözleşmeye konu taşınmazların bir kısmının davacı şirkete sözleşmesel bedel olarak devri gerektiği, taraflar arasında daha önce görülen hakem yargılaması neticesinde davalı aleyhine hüküm kurulmuş ise de hakem yargılamasına tapu iptali ve tescil talebinin konu edilmediği, davalı şirketin sözleşmelerdeki bu bağımsız bölüm devir yükümlülüğünü halen yerine getirmediği iddiasıyla, davacıya devri gereken ve teminat niteliğindeki taşınmazların tespitine, bu aşamada İstanbul ili, Sarıyer ilçesi, ..., ... ada, 3 parselde kayıtlı (eski no:
 1-3-9-10 yerine) 2-4-9-10 nolu dairelerin tapu kayıtlarının iptali ile davacı adına tesciline, bunun mümkün olmaması halinde bu tür taşınmazların güncel değerlerinin (şimdilik 400.000,00 TL) tespit edilerek davalıdan tahsiline karar verilmesi talebine ilişkin olup, bu kapsamda, dava konusu 4 adet bağımsız bölüm üzerine ihtiyati tedbir konulması da talep edilmiştir.
@@ -176,10 +200,14 @@ Açıklanan nedenlerle, 6100 sayılı HMK'nın 355. madde hükmü uyarınca isti
 
 ## İstanbul BAM 53. HD 2026/81 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1190539300)
+
 Somut olayda, tahkim yargılamasına konu uyuşmazlık davacı şirket ile dava dışı arsa malikleri arasında imzalanan kat karşılığı inşaat sözleşmesinden kaynaklanmaktadır. Kat karşılığı inşaat sözleşmesinin taraflardan birinin davacı şirket, diğerlerinin de gerçek kişi arsa sahipleri olduğu anlaşılmaktadır.
 Bir davanın ticari dava olarak Ticaret Mahkemesinde görülebilmesi için her iki tarafın tacir olması ve uyuşmazlığın da her iki tarafın ticari işletmesini ilgilendiren hususlardan doğmuş olması gerekir.Somut uyuşmazlığa konu dava mutlak ticari dava olmadığı gibi, hakem yargılamasına dayanak sözleşmenin taraflarından olan arsa maliklerinin de tacir olmaması nedeniyle mahkemece verilen görevsizlik kararı usul, yasa ve dosya kapsamına uygun olmuştur.Açıklanan nedenlerle, 6100 sayılı HMK'nın 355. madde hükmü uyarınca istinaf dilekçesinde belirtilen sebeplerle sınırlı olarak ve kamu düzeni gözetilerek yapılan istinaf incelemesi sonucunda, dosya kapsamına, kararın dayandığı delillerle yasaya uygun gerektirici nedenler ve ileri sürülen istinaf sebeplerine göre, mahkeme kararında usul ve esas yönünden yasaya aykırılık bulunmadığı anlaşılmakla, davacı vekilinin istinaf başvurusunun HMK'nın 353/1-b-1. bendi gereğince esastan reddine karar verilmesi gerekmiştir.
 
 ## İstanbul BAM 4. HD 2023/2934 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/944982300)
 
 …
 
@@ -189,6 +217,8 @@ Somut olayda, dava dışı arsa hissedarlarıyla imzalanan kat karşılığı in
 HÜKÜM: Gerekçesi yukarıda açıklandığı üzere; 1- Usül ve yasaya uygun İstanbul Anadolu 6. Asliye Ticaret Mahkemesi'nin 05/10/2021 tarih, 2021/59 Esas - 2021/1039 Karar sayılı kararına yönelik davacı vekilinin istinaf talebinin 6100 Sayılı HMK'nın 353/1-b/1. maddesi gereğince ESASTAN REDDİNE …
 
 ## İstanbul BAM 17. HD 2022/838 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/782465300)
 
 Dava, tapu iptal ve tescil istemine ilişkindir.
 

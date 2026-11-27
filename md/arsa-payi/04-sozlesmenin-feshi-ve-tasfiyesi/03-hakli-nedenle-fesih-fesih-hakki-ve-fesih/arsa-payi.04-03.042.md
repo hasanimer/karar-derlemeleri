@@ -22,6 +22,8 @@ uyari: "Derleyenin seçtiği alıntılardır; kararın tamamı değildir. Künye
 
 ## İzmir BAM 14. HD 2023/1141 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/915541700)
+
 Davacı vekili dava dilekçesinde özetle; Ayrıntıları açıklanan müvekkili kooperatif ve davalı yüklenici ... arasında gerçekleşen inşaat sözleşmesi çerçevesinde yapılan imalatların bedelinden çok fazla ödeme yapıldığını bildirerek, fazlaya ilişkin hakları saklı kalmak kaydıyla şimdilik 1.000,00 TL (1.000.000.000-eski TL)nin ödeme tarihinden itibaren işleyecek reeskont faizi ile birlikte davalı şirketten tahsiline karar verilmesini istemiştir.
 
 …
@@ -41,6 +43,8 @@ Karşıyaka Asliye Ticaret Mahkemesi'nin 2022/530 Esas sayılı asıl davası il
 
 ## Antalya BAM 7. HD 2023/930 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/940415500)
+
 Blok ... nolu ve ... nolu bağımsız bölümler için devam edilmesi gerektiği, davacının fazla imalat bedeli olarak talep ettiği imalatların, bilirkişi raporlarında belirlendiği üzere arsa sahibine ve müteahhide ait tüm bağımsız bölümlerde yapılan fazla imalatlar olduğu, Yargıtayın istikrarlı içtihatları ile benimsendiği üzere ortak alanlarda ve tam bağımsız bölümlerde yapılan fazla işlerin tüm tarafların yararına olacağı için buna ilişkin bedel talebinde bulunamayacağından, birleşen dosya davacısının fazla imalat bedeline ilişkin davasının reddine karar verilmesi gerektiği, düzenleme biçiminde gayrimenkul satış vaadi ve kat karşılığı inşaat sözleşmesinin 7. maddesinde "haklı bir sebebe dayanmaksızın sözleşmenin feshine sebep olan ve bu sözleşme şartlarına aykırı davranan taraf karşı tarafa ceza olarak 100.000,00 TL öder" şeklinde cezai şart hükmünün düzenlendiği, somut olayda sözleşmenin feshinin söz konusu olmadığı gibi, davalı arsa sahibinin sözleşmeye aykırı davranarak iş bitim evraklarını imzalamadığı, yeni istekler ileri sürerek işi sürüncemede bıraktığı, dürüstlük kuralına aykırı davranarak davacının edimini yerine getirmesine engel olduğu iddiası ile 100.000,00 TL cezai şart
 talep etmiş ise de, asıl dava gerekçesinde belirtildiği üzere yüklenicinin işi ayıplı ve eksik olarak imal ettiği, inşaatın yapım aşamasında ayıplı imalat ile ilgili olarak arsa sahibinin noter aracılığı ile gönderdiği ihtarnamelerin dosya içinde bulunduğu, yine sözleşmeye göre işin bitim tarihinin 15/01/2010 tarihi olduğu halde genel iskanın 15/06/2010 tarihinde alındığı, dolayısı ile davacının bu talebinin haksız olduğu anlaşılmakla reddine karar verilmesi gerektiği, sözleşmeye göre yüklenicinin toplam 22 mesken, 2 dükkan ve ...
 
@@ -49,6 +53,8 @@ talep etmiş ise de, asıl dava gerekçesinde belirtildiği üzere yüklenicinin
 Taraf vekillerinin ve fer'i müdahilin istinaf başvurularının AYRI AYRI ESASTAN REDDİNE …
 
 ## İstanbul BAM 15. HD 2023/764 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/916286200)
 
 Hukuk Dairesince eldeki davalarda bu yönde bir değerlendirme yapılarak binanın yasal statü kazanıp kazanmadığının tartışılması istendiğinden, iskan işlemleri yönünden de belediyece tereddüt oluştuğunu, Belediyece söz konusu Yapı Kayıt Belgesinin iskan ile aynı sonuçları doğurduğunu, bu yönü ile iskan alınmasına gerek olmadığı yönünde yerel mahkemeye yazılı olarak bilgi verdiğini, mahkemece bu hususların dikkate alınmayarak, Yapı Kayıt (iskan) belgesinin alınması açısından verilen sürelerin yeterli olduğu, bu bağlamda 04.12.2020 tarihli Ümraniye Belediyesinin yazısına istinaden tahkikata son vermesinin yasaya aykırı olduğunu, ıslah ve zamanaşımı açısından; davalıya usulüne uygun bir şekilde tebliğ edilmediğini, davalının Almanya ülkesinde ikamet ettiğini ve bu sebeple süresinde cevap dilekçesi sunulamadığını, oysa mahkemenin yurt içi giriş çıkış kayıtlarının belirtilen tarih açısından istenilmesi gerekirken bu yönde bir ara karar oluşturmayarak yasaya aykırı hareket ettiğini, mahkemece iskan alınması için kendilerine yeteri kadar süre tanınmadığını, bildirim yükümlülüğü, açık ayıp ve eserin teslimi açısından mahkemenin eksik inceleme yaptığını belirterek, mahkeme kararının
 kaldırılmasını, davanın reddine karar verilmesini talep etmiştir. Taraflar arasındaki uyuşmazlık, 6098 sayılı Türk Borçlar Kanunu 470 ve devamı maddelerinde düzenlenen eser sözleşmesinin bir türü olan kat karşılığı inşaat sözleşmesinden kaynaklanmaktadır. Davacı arsa sahibinden arsa satın alan, davalı ... İnşaat ve ... Şti. yüklenici, davalı ... bağımsız bölüm satın alan kişidir. Somut olayda, davalı ... Şti. ile dava dışı tasfiye halinde ... A.Ş. arasında Eyüp ... Noterliği'nin 22/04/1994 tarih ... yevmiye nolu düzenleme şeklinde kat karşılığı inşaat sözleşmesi düzenlenmiş olup, bilhare davalı ... İnşaat ve ... Şti. ile ... ve ...e vekaleten kendi adına asaleten ... arasında 15.01.2021 arihli ek sözleşme ile asıl sözleşmenin 8. Maddesi gereğince ... tarafından arsanın ...'e satıldığı, bilhare arsanın 60/100 hissesinin ..., ...'e satıldığı, asıl sözleşmenin 2. Maddesinin değiştirildiği, buna göre yükleniciye düşecek A blok %47 hissesinin yüklenici tarafından 3.
@@ -64,6 +70,8 @@ HÜKÜM: Gerekçesi yukarıda açıklandığı üzere; 1-Davalı vekilinin istin
 
 ## Ankara BAM 27. HD 2023/670 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/910274600)
+
 Davalı vekili özetle; “Yakutiye (Erzurum) Kentsel Dönüşüm” projesi 3. ve 8.
 
 …
@@ -76,10 +84,14 @@ Maddesinin uygulanma koşullarının bulunmadığını, 4735 sayılı Yasa'nın 
 
 ## İstanbul BAM 53. HD 2023/667 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/916393500)
+
 Dosya kapsamı değerlendirildiğinde, taraflar arasındaki 15/01/2017 tarihli sözleşmenin bartır karşılığı inşaat yapımına ilişkin olduğu ve davacı tarafın yüklenici, davalı tarafın taşeron olarak akdettikleri bu sözleşmede, davacının hak ediş oranları karşılığı davalı adına kayıtlı hisselerin davacı adına tescilinin düzenlendiği, davacının işbu davada sözleşmesel edimlerini yerine getirdiği hakediş oranlarının tespiti ile buna karşılık gelen hisselerin adına tescilini talep ettiği, ancak dava dilekçesinde yüklenicinin sözleşme gereği üzerine düşen yükümlülükleri yerine getirdiği belirtilmiş ise de, davalı iş sahibi tarafından bu iddianın kabul edilmediği, sözleşmenin 4. Maddesinde teslim süresi ve şeklinin, 6. Maddesinde ise yükleniciye iş karşılığında yapılacak tapu hisse devirlerinin miktar ve aşamalarının düzenlenmiş olduğu, davalı tarafça dosyaya sunulan davacı ile dava dışı ... Ltd.
 Şti. arasındaki davaya konu işe ilişkin 21/11/2018 tarihli "yüklenici sözleşmesi", yine bunlar arasında imzalanan 16/03/2019 tarihli "sözleşme devir protokolü" ve bu devre dair davacı ve davalı arasındaki aynı tarihli "muvafakatname" içeriği, davacı ve davalı arasında imzalanan ve davacı tarafça aşamalarda ve istinafta imzası inkar edilmeyen "sözleşmenin feshi ve ibraname" başlıklı belge içeriği, tüm bu belgelerde taraflar arasındaki bartır karşılığı inşaat yapımı sözleşmesinin 16.03.2019 tarihinden önceki yapılan imalatlar da dahil olmak üzere ... Ltd. Şti.'ye devir ve temlik edildiğinin, taraflar arasındaki 15/01/2017 tarihli sözleşmenin feshedildiğinin, feshedilen bu sözleşmeden dolayı davacı yüklenici şirketin davalı iş sahibi şirketten hiçbir hak ve alacağı olmadığının, bu fesihnameye kadar yapmış olduğu imalatların tüm bedellerini aldığının ve bu sözleşmeden dolayı ayni ve nakdi bir hak ve alacağının kalmadığının, davalı iş sahibini tamamen ve külliyen ibra ettiğininin açıkça belirtilmiş olması, istinaf dilekçesinde bu belgelerin davacıya zorla imzalatıldığına dair bir itiraz bulunmadığı göz önünde bulundurulduğunda, davacı vekilince ileri sürülen "davacının ...
 
 ## İstanbul BAM 17. HD 2023/628 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/900636500)
 
 Dava kooperatif üyeliğinden ihraç kararının iptali istemine ilişkindir.
 
@@ -93,6 +105,8 @@ Yapılan açıklamalar uyarınca, davacı tarafından üyeliğe girişte üyelik
 Düzenlemede, tarafların dava konusu olayla ilgili olarak uzmandan bilimsel mütalaa alabileceği, hakimin talep üzerine veya re’sen kendisinden rapor alınan uzman kişinin davet edilerek dinlenmesine karar verebileceği, uzman kişinin çağrıldığı duruşmaya geçerli bir özrü olmadan gelmezse hazırlamış olan raporun mahkemece değerlendirmeye tabi tutulamayacağı belirtilmiştir. Buna göre somut davada, 20/05/2019 tarihli mütalaanın alındığı uzman duruşmaya davet edilmemiş olup bu durumda HMK'nun 293/3 fıkrasındaki emredici düzenleme kapsamında sunulan mütalaa mahkemece değerlendirilemeyecektir.
 
 ## Ankara BAM 27. HD 2023/589 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/906852200)
 
 Davacı vekili; müvekkili ile davalılar arasında ... parsel sayılı taşınmaz (imardan önce ... ada) üzerine bina inşa edilmek üzere Yenimahalle 3. Noterliği’nin 17/08/1994 tarih ve 37974 yevmiye nolu, aynı noterliğin 23/08/1994 tarih ve 38984 yevmiye nolu kat karşılığı inşaat sözleşmeleri akdedildiğini ve sözleşmelerin tapuya şerh edildiğini, davalılardan ...… Ltd. Şti’nin müvekkili ile kat karşılığı inşaat sözleşmesi yapan arsa sahiplerinden daha sonra hisse satın alan şirket olup, satın alma nedeni ile sözleşmelere halef olduğunu, inşaatın bitme aşamasına gelmesine rağmen davalıların sözleşme gereğince vermeleri gereken tapu ferağlarını vermemeleri nedeniyle diğer arsa sahipleri aleyhine Ankara 7.
 
@@ -108,6 +122,8 @@ Kat karşılığı inşaat sözleşmeleri kapsamında, sözleşmenin feshi, söz
 
 ## İstanbul BAM 15. HD 2023/586 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/911863600)
+
 Nitekim Yargıtay Hukuk Genel Kurulu'nun birçok kararında da aynı hususlara işaret edilmiştir.O halde, mahkemece Anayasa'nın 141. maddesinin 3. fıkrası ile ona koşut düzenleme içeren HMK’nın 297. ve 26. maddelerindeki hükümler gözetilmek suretiyle, davacının talep ettiği tüm kalemler yönünden değerlendirme yapılıp olumlu veya olumsuz bir karar verilmesi ve talepler hakkında verilecek kararın gerekçesinin açıklanması suretiyle, yapılacak inceleme ve araştırma sonucuna uygun karar verilmesi gerekirken, dava dosyası ile birleşen İstanbul Anadolu 5.Asliye Ticaret Mahkemesinin 2015/845 esas sayılı dosyada; taraflar arasındaki 19.06.2012 tarihli sözleşmenin haklı sebeplerle feshi talepleri, yine aynı dosyada yer alan yüklenici tarafça devir temlik yapılmış olan 5 ve 6 nolu dairelerin tapu devirlerinin de yapıldığı dikkate alınarak inşaatta yüklenicinin alacağının tespiti ile davacı alacaklarının takas mahsup ile kalan borcun belirlenmesi, davalının el çektirilmesi ile tapudaki şerh ve beyanların kaldırılması talepleri hususunda mahkemece herhangi bir değerlendirme yapılmadan ve hüküm oluşturulmadan karar verilmesi hatalı olmuştur.Mahkeme dosyası ile birleşen İstanbul Anadolu 5.
 Asliye Ticaret Mahkemesinin 2015/845 esas sayılı dava dosyası ile sözleşmenin feshi talep edilmiştir. Kat karşılığı inşaat sözleşmelerinin feshinin talep edilmesi halinde sözleşmede yazılı bedel üzerinden nispi harcın hesaplanarak bulunacak miktarın 1/4'ünün peşin harç olarak yatırılması gerekmektedir. Birleşen dosyada sözleşmenin feshi talep edildiği halde sözleşme bedeli üzerinden peşin harç yatırılmamış, mahkemece de harç eksikliği tamamlattırılmamıştır. Yine mahkeme dosyası ile birleşen İstanbul Anadolu 3. Asliye Hukuk Mahkemesinin 2015/466 esas sayılı dosyasında davacı ... tarafından açılan davada mahkemece 610.000,00 TL bedelin tahsiline karar verilmiş olup, davacı tarafından yatırılması gereken peşin nispi harç 10.417,27 TL olmasına rağmen, davacı tarafından yargılama aşamasında peşin ve tamamlama harcı olarak 6.831,00 TL yatırılmış olması sebebiyle eksik harç tamamlatılmadan hüküm kurulmuştur.
 
@@ -117,17 +133,23 @@ HÜKÜM: Gerekçesi yukarıda açıklandığı üzere; 1-Taraf vekillerinin isti
 
 ## İstanbul BAM 15. HD 2023/180 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/863356100)
+
 A.Ş. tarafından haksız feshedildiğinin tespiti, geriye etkili feshin geçersizliği, sözleşmenin devam ettiğinin tespiti, sözleşmenin davacılar tarafından ileriye etkili olarak hükmen feshi, taşınmazın ve sözleşmenin tasfiyesi, banka ipoteklerinin fekki, ... parsel sayılı taşınmaz üzerinde yapılan ve satılamayan 104 adet bağımsız bölümlerden davacılar hissesine düşenlerin sözleşmedeki hisseleri oranında tapularının iptali ve davacılar adına tescili, yine ... parselde kat irtifakı kurulan 336 adet bağımsız bölümün tapusunun iptali ile davacılar adına tescili, ... parsel sayılı taşınmaz yönünden ise söz konusu parselin süresinde teslim edilmemiş olması ve bu nedenle bu parsel üzerine bağımsız bölümler inşa edilememesi nedeni ile uğranan kâr kaybı ile menfi ve müspet zararların ve masrafların tahsili talebinde bulunulduğu görülmektedir.
 Davacı adi ortaklık vekili istinafa konu ara kararın tesisine neden olan 06/12/2022 tarihli dilekçesinde, mahkemece safahatta ... parsel sayılı taşınmaz üzerine konulan ihtiyati tedbirin davalının satılamamış durumdaki bağımsız bölümlerden yararlanmasını, bunlardan kira /intifa gelirleri elde etmesini engeller mahiyette olmadığını belirterek TMK'nın 701. ve 702 . Maddeleri gereği el birliği mülkiyetine tabi olan dava konusu B blok 001 nolu lojistik depo ile 104 adet bağımsız bölümün tedbiren davalıdan alınarak yediemine tevdii edilmesini, bu şekilde muhafaza edilmesini, yediemine tevdi edilecek bu bağımsız bölümlerde intifa ve kiralama yapılması halinde elde edilecek gelirlerin açılacak bir tevdi mahalli hesabında toplanmasını ve davalı arsa sahibi şirketin ... parsel sayılı taşınmazdaki tüm bağımsız bölümleri üzerinde tasarrufi ve borçlandırıcı işlem tesis etmesinin durdurulmasına karar verilmesini talep etmiştir. İhtiyati tedbirin şartları 6100 Sayılı HMK'nın 389/1. maddesinde genel olarak düzenlenmiştir.
 Buna göre, mevcut durumda meydana gelebilecek değişme nedeniyle hakkın elde edilmesinin önemli ölçüde zorlaşacağından ya da tamamen imkânsız hale geleceğinden veya gecikme sebebiyle bir sakıncanın yahut ciddi bir zararın doğacağından endişe edilmesi hallerinde, uyuşmazlık konusu hakkında ihtiyati tedbir kararı verilebilir.
 
 ## İstanbul BAM 15. HD 2023/67 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/863652100)
+
 Noterliğinin 09/08/2022 tarih ... yevmiye no ile gönderilen sözleşmenin feshi ve bedelin iadesine ilişkin ihtarın açıkça yaklaşık ispata dayalı belgeler olduğunu belirterek yerel mahkeme ara kararının kaldırılması için istinaf kanun yoluna başvurmuştur. Uyuşmazlık, 6098 sayılı Türk Borçlar Kanunu'nun 470. ve devamı maddelerinde düzenlenen eser sözleşmesinin bir türü olan kat karşılığı inşaat sözleşmesinden kaynaklanmaktadır. Davacı yüklenici, davalı ise taşerondur. Taraflar arasında 09/03/2022 tarihli sözleşme imzalanmış olup, bu sözleşme ile davalı taşeron sıfatıyla davalı şirket tarafından teslim edilen kumaşlar ile 11.770 erkek softshell mont ve 10.980 bayan softshell mont üretimi yaparak 27/05/2022 tarihine kadar teslim etme işini üstlenmiştir. Somut uyuşmazlıkta, sözleşme davacı yanca temerrüt nedeniyle feshedilmiş olup, davacı ödediği iş bedelinin iadesini istemektedir. İhtiyati tedbirin şartları 6100 Sayılı HMK'nın 389/1. maddesinde genel olarak düzenlenmiştir.
 Buna göre, mevcut durumda meydana gelebilecek değişme nedeniyle hakkın elde edilmesinin önemli ölçüde zorlaşacağından ya da tamamen imkânsız hale geleceğinden veya gecikme sebebiyle bir sakıncanın yahut ciddi bir zararın doğacağından endişe edilmesi hallerinde, uyuşmazlık konusu hakkında ihtiyati tedbir kararı verilebilir. HMK'nın 390/3 maddesine göre, tedbir talep eden, öncelikle tedbir istemine ilişkin dilekçesinde dayandığı ihtiyati tedbir sebebini ve türünü açıkça belirtmek ve davanın esası yönünden kendisinin haklılığını yaklaşık olarak, yasal delillerle ispat etmek zorundadır. Buradaki ispatın ölçüsü, “yaklaşık ispat” kuralına göre belirlenir. Yaklaşık ispat kuralı uygulanırken, iddianın doğruluğunu kabul etmekle birlikte, aksinin mümkün olduğu ihtimalini de gözetmelidir. Bu nedenle, ihtiyati tedbire karar verilirken, talebin haksız olma ihtimali de dikkate alınarak talepte bulunandan kural olarak teminat alınır. Geçici hukuki koruma kapsamında olan ihtiyati tedbir kararı verirken hakim, asıl uyuşmazlığı çözecek içerikte bir karar vermemelidir.
 Bununla birlikte, ihtiyati tedbire karar verilirken tarafların çıkar dengesini ve ihtiyati tedbirin amacını hakimin gözetmesi gerekli ve zorunludur.
 
 ## İstanbul BAM 15. HD 2023/62 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/864299700)
 
 Yerel mahkeme ise gerekçesinde, taraflar arasında düzenlenen sözleşmenin 3.3 maddesinin sözleşmede bahsedilen sürelere müteahhitin kusuru olmaksızın resmi dairelerden kaynaklanan gecikmelerin sözleşmedeki sürelere ekleneceği, sözleşmenin 3.4 maddesinin ise, sözleşmedeki herhangi bir süre aşımının tek başına kısmen dahi olsa fesih sebebi olamayacağını düzenlediği; somut olayda işin davalının elinde olmayan sebeplerle uzamış olduğu ve ilgili kurumlar nezdinde yaşanan idari sorunlardan ileri geldiği, yapının inşasının sözleşmede taahhüt edilen sürede tamamlanamamasında yüklenicinin kusurundan söz edilemeyeceği, sözleşmedeki gecikmenin yapı ruhsat alınmasındaki gecikmeden kaynaklandığı, hakkaniyetli ve tarafların sözleşme ile tespit edilen iradesine uygun olan yapı izin ve ruhsatının alındığı tarihe kadar geçen sürenin taraflar arasındaki sözleşmenin 3.1 maddesinde öngörülen 30 aylık süreye ilave edilerek davalının ifasında gecikip gecikmediğinin tespitinin gerektiği, sözleşmede kararlaştırılan tarihin geçmesine rağmen, teslim için beklenmesi gereken objektif süre sonunda da şayet yüklenici borcunu ifa etmemişse, ancak o vakitte sözleşmenin feshinin haklı olup olmadığının
 değerlendirilmesinin uygun olacağı, inşaatın beklenen sürede başlayamamış olmasının sebebinin taşınmazın bulunduğu yer belediyesince yapı ruhsatlarının gecikmiş olması olduğu ve buradaki kusurun davalıya atfedilemeyeceği gibi söz konusu projelerin de sunulduğunun davalı delilleri, tanık anlatımları ve tüm dosya kapsamındaki belgelerden anlaşıldığı, bir an için süresinde sunulmasa dahi daha öncelikli olan taşınmazın konumu itibariyle hava mania ile ilgili resmi makamların imar uygulamalarının sonuçlandırılması gerektiğinden davalının sözleşmeyi feshe neden olacak bir fiili olarak nitelendirilmesi, davanın sözleşmenin bitim süresinden çok önce erken açıladığı anlaşıldığından, davacı iddiaları ve ileri sürülen sebeplerin yerinde görülmediği, sözleşmelerin 3.4.
@@ -142,6 +164,8 @@ Bu durumda, bilirkişiler tarafından, sözleşme tarihinden sonra taraflardan v
 HÜKÜM: Gerekçesi yukarıda açıklandığı üzere;1-Davacılar vekilinin istinaf başvurusunun KABULÜNE, 2-Bakırköy 1. Asliye Ticaret Mahkemesi'nin 28/11/2019 tarih, 2015/1101 Esas, 2019/1216 Karar sayılı kararının KALDIRILMASINA …
 
 ## İzmir BAM 14. HD 2023/59 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/853186400)
 
 Davacı iş sahibi ile davalı yüklenici bina mantolama işi nedeniyle eser sözleşmesi yaptıkları, davacı iş sahibi sözleşme nedeniyle yükleniciye toplamda 412.000,00 TL'lik, 7 adet bono verdiğini, buna rağmen yüklenicinin işi teslim etmediğinden, bir kısım senetleri de gösterip icra takibine giriştiğinden bahisle netice-i talebinde;
 

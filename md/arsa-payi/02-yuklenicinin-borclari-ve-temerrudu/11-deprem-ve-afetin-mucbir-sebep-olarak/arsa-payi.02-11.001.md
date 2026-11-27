@@ -20,6 +20,8 @@ uyari: "Derleyenin seçtiği alıntılardır; kararın tamamı değildir. Künye
 
 ## Yargıtay HGK 2013/65 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/52039400)
+
 Davalılar, davanın reddini dilemişlerdir.
 
 Mahkemece, asıl davanın aktif husumet ehliyeti nedeniyle reddine; birleşen davada ise, davalı T. aleyhine açılan davanın husumet nedeni ile reddine, diğer davalı aleyhine açılan davanın kabulüne karar verilmiş; hüküm, birleşen dosyanın davacıları ve davalı Belediye Başkanlığı tarafından temyiz edilmiştir.
@@ -42,6 +44,8 @@ S O N U Ç : Davalı Gölcük Belediye Başkanlığı vekilinin temyiz itirazlar
 
 ## Yargıtay 23. HD 2020/2367 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/590994100)
+
 Davacı kooperatif vekili, davalılar ..., ... ve ...’ın kooperatif yöneticisi oldukları dönemde, kooperatif inşaatlarının, yüklenici davalı ...’a yaptırıldığını, davalı ...’ın da teknik uygulama sorumlusu olduğunu, yapının 26 daire, 1 kapıcı dairesi ve 1 toplantı salonundan oluştuğunu, 23.10.2011 ve 09.11.2011 tarihlerinde meydana gelen depremler sonucunda, AFAD tarafından 14 daire için yıkım, kalan diğer bağımsız bölümler için ise orta hasar kararı verildiğini, bu nedenle oluşan toplam zararın en az 2.000.000,00 TL olduğunu, davalıların ortaya çıkan bu zarardan sorumlu olduklarını ileri sürerek, fazlaya ilişkin hakları saklı kalmak kaydıyla 100.000,00 TL’nin tahsilini talep ve dava etmiş, ıslah yoluyla talebini 2.150.000,00 TL’ye arttırmıştır.
 
 Davalı ... vekili, müvekkilinin, taşınmazı davacı kooperatife, kuruluşundan sonra tapuda devrettiğini, inşaatın yapımı aşamasında hiç bir katkısının bulunmadığını, deprem nedeniyle oluşan zarardan müvekkilinin sorumlu olmadığını savunarak, davanın reddini istemiştir.
@@ -55,6 +59,8 @@ SONUÇ: Yukarıda (1) numaralı bentte açıklanan nedenlerle davalılar vekille
 …
 
 ## Yargıtay 23. HD 2014/1652 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/111791600)
 
 Davacılar vekili, müvekkilinin arsa sahipleri ile davalı yüklenici M.. A.. arasında 03.10.1997 tarihinde arsa payı karşılığı inşaat sözleşmesi imzalandığını, sözleşme uyarınca inşaa edilecek 120 daireden 47 tanesinin müvekkiline, geri kalanın da yükleniciye ait olacağının kararlaştırıldığını, davalı M.. A..'nin sözleşmedeki yetkiye dayanarak sözleşmeyi diğer davalı kooperatife devrettiğini, ancak yüklenicinin edimlerini yerine getirmediğini, süresinde daireleri teslim etmediğini, eksik imalat yaptığını, bu nedenle iskan ruhsatı alınamadığını ileri sürerek, akdin feshine, fazlaya ilişkin hakları saklı kalmak üzere 10.000,00 TL kira bedeli, 10.000,00 TL eksik imalat bedelinin davalılardan müteselsilen tahsilini talep ve dava etmiştir.
 
@@ -71,6 +77,8 @@ Bunun yanında, sözleşmenin ifa süresi içinde deprem meydana geldiği, ancak
 SONUÇ:Yukarıda açıklanan nedenlerle, davalılar vekilinin karar düzeltme talebinin kabulü ile Dairemizin 07.05.2013 gün, 2013/749 E., 2013/2978 K. sayılı bozma ilamının kaldırılarak, mahkeme hükmünün ONANMASINA …
 
 ## Yargıtay 23. HD 2014/638 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/109455800)
 
 Davacı vekili, müvekkili ile davalı yüklenici arasında 16.08.2006 tarihinde arsa payı karşılığı inşaat sözleşmesi yapılarak tapuya şerh edildiğini, aradan dört yıl gibi uzun bir süre geçmesine rağmen davalının inşaata başlamadığını ve 20.10.2010 tarihine kadar inşaata başlaması için gönderilen ihtarnamenin de kasıtlı olarak tebliğ alınmadığını, zaten sözleşmenin gabin hükümlerinin uygulanmasını gerektirecek şekilde müvekkili aleyhine hükümler içerdiğini, inşaat sürelerinin tamamen keyfi ve uygulanamaz hükümlerden oluştuğunu, bu haliyle sözleşmenin müvekkili için çekilmez bir hal aldığını ileri sürerek, sözleşmenin feshi ile tapudaki şerhin kaldırılmasını talep ve dava etmiştir.
 
@@ -91,6 +99,8 @@ SONUÇ: Yukarıda açıklanan nedenlerle, davalı vekilinin temyiz itirazların�
 
 ## Yargıtay 23. HD 2013/2978 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/490007300)
+
 Davacılar vekili, davacılar ile davalı ... arasında imzalanan 03.....1997 tarihli arsa payı karşılığı inşaat sözleşmesi uyarınça ... adet parselde ... blok 120 daire yapılacağı, bu dairelerden 47 adedinin davacılara, kalanlarının davalı yükleniciye bırakılacağının kararlaştırıldığını, davalının sözleşmedeki yetkiye dayanarak sözleşmeyi diğer davalı kooperatife devrettiğini, ancak yüklenicinin sözleşmeye aykırı davranarak davacılara süresinde dairelerini teslim etmediklerini, eksik imalat nedeniyle iskân ruhsatı almadıklarını ileri sürerek, akdin feshini, fazlaya ilişkin hakları saklı kalmak kaydıyla şimdilik ....000,00 TL kira bedeli ile ....000,00 TL eksik imalat bedelinin davalılardan müştereken ve müteselsilen tahsilini talep ve dava etmiştir.
 
 Davalı-karşı davacı ... vekili, sözleşmenin imzalanmasından sonra 1999 yılında Yalova'da yaşanan büyük deprem nedeniyle yapılan imar değişikliğiyle bina kat sayısının düşürüldüğünü, davacılarla karşılıklı görüşmeleri neticesinde ... dairenin davacılara ... dairenin yükleniciye bırakılması hususunda mutabık kaldıklarını, davacı tarafa ... dairenin teslim edildiğini, akdin büyük bir kısmının ifa edildiğini, bu nedenle fesih istenemeyeceğini ileri sürerek, asıl davanın reddini, karşı dava olarak, 03.....1997 tarihli sözleşmede yüklenici adına tapuda devri gereken ancak bu güne kadar devredilmeyen 520 ada ... parsel, 519 ada ... parsel, 528 ada ... parsel sayılı taşınmazların tapusunun iptali ile müvekkili adına tescilini talep ve dava etmiştir.
@@ -104,6 +114,8 @@ Somut olayda, borçlu yüklenicinin temerrüdünden önce, ....08.1999 tarihinde
 SONUÇ: Yukarıda (...) numaralı bentte açıklanan nedenlerle, davacılar vekilinin diğer temyiz itirazlarının reddine, (...) numaralı bentte açıklanan nedenlerle, temyiz itirazlarının kabulü ile hükmün davacılar yararına BOZULMASINA …
 
 ## Yargıtay 23. HD 2012/3548 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/540019600)
 
 Davacı arsa sahibi mirasçıları vekili, müvekkillerinin murisi olan ...'in davalı yüklenici kooperatifle imzaladığı 13.05.1992 tarihli arsa payı karşılığı inşaat sözleşmesi gereğince kendi edimlerini yerine getirdiği halde, davalı kooperatifin kendilerine düşen bağımsız bölümlerini süresinde teslim etmeyerek temerrüde düştüğünü ileri sürerek, 45.328,00 TL gecikme tazminatı ile 9.735,55 TL eksik ve kusurlu işler bedeli olmak üzere toplam 55.000,00 TL'nin davalı yüklenici kooperatiften tahsilini talep ve dava etmiştir.
 
@@ -124,6 +136,8 @@ O halde, ilgili belediyeden 17.08.1999 tarihinde meydana gelen deprem nedeniyle 
 SONUÇ: Yukarıda 1. bentte açıklanan nedenlerle davalı kooperatif vekilinin diğer temyiz itirazlarının reddine, 2.,3., ve 4. bentlerde açıklanan nedenlerle, temyiz itirazlarının kabulü ile hükmün davalı kooperatif yararına BOZULMASINA …
 
 ## Yargıtay 15. HD 2009/5409 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/856095600)
 
 Taraflar arasındaki sözleşmede inşaatın en geç 01.03.1994 tarihinden itibaren 40 ay içinde tamamlanması kararlaştırılmıştır. Davalı süresinde inşaatın bitirilerek davacıların teslim aldığını savunmuş ise de, 02.12.2002 tarihinde mahallinde yapılan tesbitte inşaatların ruhsatlı projesine aykırı olarak zemin katlarındaki balkonların salona dahil edildiği, proje tadilatı gerektiği, ayrıca ufak tefek eksiklerinin de bulunduğu saptanmıştır. Bu haliyle inşaatların süresinde tamamlanarak teslime hazır hale getirilmediği ortadadır. Arsa sahibi davacıların sözleşmede kararlaştırılan kira kaybı istemleri haklı kabul edilmelidir. Nevar ki, inşaatın yörede meydana gelen deprem sırasında bağımsız bölümlerden birisinin davacıların yakınları tarafından kullanıldığı anlaşılmaktadır. Yine sözleşmenin 7. maddesinde inşaatın %60 seviyesine getirildiğinde 6. madde uyarınca konulan ipoteğin fek edileceği kabul edilmiştir.
 Davalı kooperatif inşaatın getirildiği seviyede ipoteğin kaldırılmasını arsa sahiplerinden istediği halde kaldırılmadığı durumda inşaatın gecikmesine sebebiyet vereceği, ayrıca arsa sahiplere atfedilebilecek bir engel durumunun kanıtlanması halinde inşaat süresini etkileyeceği kabul edilerek gecikme tazminatının hesaplatılması gerekir.

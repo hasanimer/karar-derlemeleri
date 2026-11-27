@@ -22,6 +22,8 @@ uyari: "Derleyenin seçtiği alıntılardır; kararın tamamı değildir. Künye
 
 ## Yargıtay 15. HD 2020/320 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/577871000)
+
 Davacılar vekili asıl davada, taraflar arasında imzalanan kat karşılığı inşaat sözleşmesi gereğince, eksik ve kusurlu işler bedeli ile gecikme tazminatının tahsili; birleşen davalarda diğer davacı arsa sahibi ... vekili de aynı sözleşme gereğince gecikme tazminatının tahsili istemiyle başlatılan icra takiplerine yapılan itirazların iptâli, takiplerin devamı ve icra inkâr tazminatına hükmedilmesini talep etmiş, mahkemece bozmaya uyularak yapılan yargılama sonunda asıl davada fazlaya ilişkin haklar saklı tutularak davanın kabulüne, birleşen dosyalarda da davaların kısmen kabulüne dair verilen karar, taraf vekillerince temyiz edilmiştir. Asıl ve birleşen dosyalarda davacılar arsa sahibi, davalı ise yüklenicidir.
 
 …
@@ -33,6 +35,8 @@ Yukarıda 1. bentte açıklanan nedenlerle asıl davada davacılar ..., ... ve .
 
 ## Yargıtay 15. HD 2020/193 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/571903300)
+
 Davacı davasında davalı ile aralarında kat karşılığı inşaat sözleşmesi yapıldığını, davalının kararlaştırılan sürede inşaatı bitirmediğini belirterek eksik ve hatalı işler bedeli ile kira mahrumiyet bedelinin davalıdan tahsiline karar verilmesini talep etmiş, davalı savunmasında inşaatın gecikme sebebinin mucbir sebeplerden kaynaklandığını, sözleşmede kararlaştırılan imalatlardan fazlasını yerine getirdiğini açıklayarak davanın reddine karar verilmesini istemiş, karşı davasında fazla imalatların bedelinin davacı-karşı davalıdan tahsilini istemiştir.
 
 Mahkemece, sözleşmeye konu gayrimenkul ile ilgili olarak imar planı hakkında verilen yürütmeyi durdurma kararı nedeniyle inşaatın durdurulduğu, inşaatın süresine bu sebebin eklenmesi gerektiği, bunun dışında yapı denetim firmasının geçici lisans iptali nedeni ile 13 aylık durdurma süresinin makul mazeret olarak sayılmayacağından inşaatın süresinde dikkate alınamayacağı gerekçesiyle eksik işler bedeli için 2.000,00 TL ile kira mahrumiyeti için 94.000,00 TL toplam 96.000,00 TL üzerinden davanın kabulüne karar verilmiştir.
@@ -42,6 +46,8 @@ Mahkemece, sözleşmeye konu gayrimenkul ile ilgili olarak imar planı hakkında
 SONUÇ: Yukarıda 1. bentte açıklanan nedenlerle davalı-karşı davacının diğer karar düzeltme taleplerinin reddine, 2. bent uyarınca davalı-karşı davacının karar düzeltme talebinin kabulü ile Yargıtay 23. Hukuk Dairesi tarafından verilen 04.12.2018 tarihli 2016/1527 Esas, 2018/5625 Karar sayılı onama ilamının kaldırılarak kararın BOZULMASINA …
 
 ## Yargıtay 15. HD 2020/110 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/580846600)
 
 İlk derece mahkemesince yapılan yargılama sonunda asıl davada davanın kısmen kabulü ile davaya konu 13 adet bağımsız bölüm tapusu yönünden dava konusuz kaldığından karar verilmesine yer olmadığına, davaya konu ... ili, ... ilçesi, ... Mahallesi, imarın 44558 ada 1 parselde 2377,94 m² ile 44928 ada 1 parselde 3787 m²'lik hisselerin davalı adına olan tapu kayıtlarının iptâli ile davacılar adına tesciline, 280.000,00 TL kira tazminatının davalıdan tahsiline; karşı davada davanın kısmen kabulüne, 01.10.2004 tarihli Ek ve Son Protokolün 2.2.b maddesinde öngörülen teminat ipoteğinin kaldırılmasına karar verilmiştir.
 
@@ -59,6 +65,8 @@ SONUÇ: Yukarıda 1. bentte açıklanan nedenlerle tarafların diğer temyiz iti
 
 ## Yargıtay 15. HD 2020/95 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/567057100)
+
 Dava, arsa payı karşılığı inşaat yapım sözleşmesinden kaynaklanan gecikme tazminatı alacağının tahsili için yapılan ilamsız icra takibine itirazın iptâli ve takibin devamı istemine ilişkindir.
 
 …
@@ -74,6 +82,8 @@ Bu durumda mahkemece, yapı kullanma izin belgesinin alınıp alınmadığı al�
 SONUÇ: Yukarıda 1. bentte açıklanan nedenlerle davacılar ve mirasçılarının diğer karar düzeltme taleplerinin reddine, 2. bent uyarınca kabulü ile Yargıtay 23. Hukuk Dairesi'nin 12.12.2018 gün, 2016/610 Esas, 2018/5779 Karar sayılı ilamının kaldırılarak ilk derece mahkemesi hükmünün değiştirilen bu gerekçeyle davalı yüklenici yararına BOZULMASINA …
 
 ## Yargıtay 15. HD 2019/5224 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/558534500)
 
 Dava, eser sözleşmesinden kaynaklanan alacak ile ilgili yapılan icra takibine itirazın iptâli talebine ilişkin olup, mahkemece davanın kısmen kabulüne dair verilen karar, taraf vekillerince temyiz edilmiştir.
 
@@ -93,6 +103,8 @@ SONUÇ: Yukarıda 1. bentte açıklanan nedenlerle davacının tüm temyiz itira
 
 ## Yargıtay 23. HD 2019/4906 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/551952000)
+
 Davacılar vekili, davacı arsa sahipleri ile davalı yüklenici arasında düzenleme şeklinde arsa payı karşılığı inşaat sözleşmesi ve ek protokoller imzalandığını ancak yüklenicinin sözleşme gereği edimlerini yerine getirmediğini öne sürerek davacılardan Ayşe'ye ait olan bağımsız bölüm yönünden tapu iptali ve tescil diğer davacılara ait bağımsız bölümlerin aynen teslimi ayrıca geç teslim nedeniyle gecikme tazminatı ile sözleşmede kararlaştırılan kira bedelinin tahsilini talep etmiş; aynen teslim talebi yönünden yargılama sırasında davayı atiye bırakmıştır.
 
 Davalı, davaya cevap vermemiştir.
@@ -106,6 +118,8 @@ Davacı ... tarafından TBK’nın 125/2.maddesi uyarınca ifa yerine geçen olu
 SONUÇ: Yukarıda (1) numaralı bentte açıklanan nedenlerle davacı ... vekilinin diğer temyiz itirazlarının reddine (2) numaralı bentlerde açıklanan nedenlerle, davacı ... vekilinin temyiz itirazlarının kabulü ile hükmün, davacı ... yararına BOZULMASINA …
 
 ## Yargıtay 15. HD 2019/4861 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/554440500)
 
 Davacı yüklenici ... Tic. Ltd.
 
@@ -122,6 +136,8 @@ SONUÇ: Yukarıda 1. bentte açıklanan nedenlerle ...Özel Mirasçılarının t
 
 ## Yargıtay 15. HD 2019/4821 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/555364100)
+
 2-... 4. Noterliği’nde 07.02.2005 gün 1706 yevmiye nolu arsa sahpileri ..., ... ile ilk yükleniciler ... ve ... arasında imzalanan ve diğer davalı şirkete devredilen düzenleme şeklinde gayrimenkul satış vaaadi ve kat karşılığı bina inşaat sözleşmesinin 5. maddesinde "inşaat zamanında teslim edilmediğinde, müteahhit arsa sahibine ayda 500 euro ceza ödemeyi kabul eder," şeklinde düzenleme yapılmıştır. Sözleşmenin bu maddesindeki düzenleme yapıldığı tarihte yürürlükte bulunan 818 sayılı BK’nın 158/II. maddesinde kararlaştırılan ifaya ekli cezai şart olup, sözleşmede aksine hüküm bulunmadıkça teslimde cezai şartın saklı tutulduğuna dair ihtirazî kayıt konulması zorunludur. Aksi halde cezai şart isteme hakkı düşer. Sözleşmede ihtirazî kayıtsız cezai şartın istenebileceğine dair bir hüküm bulunmadığı gibi bu maddedeki düzenlemenin cezai şart değil BK’nın 106/II. maddesinde ifade edilen gecikme tazminatı olduğuna dair açıklama bulunmamaktadır. Davacılar vekilinin dava dilekçesindeki açıklamalarından da davacılara inşaatın teslim tarihinin 27.08.2018 olduğu anlaşılmaktadır.
 Teslimden önce ya da teslim sırasında cezai şartı isteme hakkının saklı tutulduğu da ileri sürülüp, kanıtlanamamıştır.
 
@@ -132,6 +148,8 @@ Bu durumda mahkemece davacılar tarafından sözleşmenin 5. maddesine göre ist
 SONUÇ: Yukarıda 1. bentte açıklanan nedenlerle davalılar ... ve ... ... İnş. Tur. Tic. ve San. Ltd. Şti.’nin diğer karar düzeltme taleplerinin reddine, 2. bent uyarınca kabulüyle Dairemizin 22.11.2018 gün 2018/417 Esas, 2018/4640 Karar sayılı bozma ilamına ceza-i şartla ilgili yukarıda 2. bentte ilgili gerekçenin de ilave edilerek hükmün karar düzeltme talebinde bulunan davalılar ... ve ... ... İnş. Tur. Tic. ve San. Ltd. Şti. yararına BOZULMASINA …
 
 ## Yargıtay 15. HD 2019/4772 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/561149300)
 
 Dava, arsa payı karşılığı inşaat yapım sözleşmesinden kaynaklanmış olup, eksik ve kusurlu işlerin giderim bedeli ile geç teslim nedeniyle gecikme tazminatı alacağının tahsili istemine ilişkindir.
 
@@ -150,6 +168,8 @@ SONUÇ: Yukarıda 1. bentte açıklanan nedenlerle ..., ... ve ...'un karar düz
 
 ## Yargıtay 23. HD 2019/4444 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/547683100)
+
 Davacı vekili, taraflar arasında düzenlenen arsa payı karşılığı inşaat sözleşmesinde kararlaştırılan sürede eseri teslim etmeyen davalı yüklenicinin, 101 adet bağımsız bölüme ilişkin bir aylık gecikme tazminatı tutarı olan toplam 104.590,55 TL’nin tahsili amacıyla, aleyhinde başlatılan icra takibine haksız olarak itiraz ettiğini ileri sürerek, itirazın iptali ile %20 icra inkar tazminatının tahsilini talep ve dava etmiştir.
 
 Davalı vekili, fazladan yapılan imalatlar olduğunu, tadilat nedeniyle daire sayısının arttığını, iskan ruhsatı alınarak dairelerin süresinde teslim edildiğini savunarak, davanın reddini ve %20 kötüniyet tazminatının tahsilini istemiştir.
@@ -164,6 +184,8 @@ SONUÇ: Yukarıda (1) numaralı bentte açıklanan nedenlerle davalı vekilinin 
 
 ## Yargıtay 23. HD 2019/4321 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/685117500)
+
 Somut olayda asıl davada, davacı yüklenicinin sözleşmeden doğan haklarını teminat altına alabilmek amacıyla elde tutulan bağımsız bölüm veya bölümlerin, davacı yükleniciye verilmesi kararlaştırılan bağımsız bölümlerdeki eksik ve ayıplı işleri tamamlamadan veya eksik ve ayıplı işleri bedeli ile gecikme tazminatı ödenmeden, sözleşmeye uygun olarak teslim olgusunun gerçekleştiği kabul edilemeyeceğinden, davalı alt yüklenici tescile hak kazanamaz. Bu durumda mahkemece, sözleşme uyarınca davalı alt yüklenicinin eksik imalat bedeli ve ileride araştırılıp sonucuna göre gecikme tazminatına takdir edilmesi durumunda davacı yükleniciye ödenmesi koşulu ile karşı davada tescil hükmü kurulabileceği gibi bu bedellerin tamamı mahkeme veznesine depo edildikten sonra karşı davada tescil hükmü kurulması yani birlikte ifa kuralının gözetilmesi gerekir. Bu husus dikkate alınmadan yazılı şekilde eksik incelemeye dayalı olarak hüküm kurulması doğru olmamıştır.
 
 …
@@ -171,6 +193,8 @@ Somut olayda asıl davada, davacı yüklenicinin sözleşmeden doğan hakların�
 SONUÇ: Yukarıda (1) numaralı bentte açıklanan nedenlerle, birleşen davada davacı vekilinin temyiz itirazlarının reddine, (2-a) numaralı bentte açıklanan nedenlerle, asıl davada davacı-karşı davada davalı vekilinin diğer temyiz itirazlarının reddine, (2-b) numaralı bentte açıklanan nedenlerle, asıl davada davacı vekilinin temyiz itirazının kabulü ile hükmün asıl davada davacı yararına BOZULMASINA …
 
 ## Yargıtay 15. HD 2019/3707 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/538944100)
 
 Davalı, davacıların teslim tarihinden önce bağımsız bölümlere taşındıklarını ve kullanmış oldukları dairelerin kira bedellerini talep ettiklerini, sözleşmenin 6. maddesinde dairelerin kabul protokolünün dava dışı ... tarafından tanzim edileceğinin ve protokolünün mülk sahipleri, müteahhit ile tanzim eden tarafından imzalanacağının hüküm altına alındığını, dairelerin 07.03.2006 tarihli kabul protokolü ile teslim edildiğini ancak davacıların imzadan imtina ettiklerini belirterek davanın reddini talep etmiştir.
 
@@ -181,6 +205,8 @@ Arsa sahibi kendisine bırakılan bağımsız bölümler ile ilgili ancak bağı
 SONUÇ: Yukarıda 1. bentte açıklanan nedenlerle davalının diğer temyiz itirazlarının reddine, 2. bent uyarınca kabulü ile hükmün davalı yararına BOZULMASINA …
 
 ## Yargıtay 15. HD 2019/3063 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/514945800)
 
 Arsa payı karşılığı inşaat yapım sözleşmelerinde aksi kararlaştırılmış olmadıkça yüklenicinin edimini yerine getirdiğinin kabul edilebilmesi için inşaatı sözleşme ve ekleri, tasdikli proje ve ruhsatları ile imar mevzuatına uygun olarak tamamlayıp arsa sahipleri teslim etmesi zorunludur. Yükleniciyle arsa sahipleri arasında ... 7. Noterliği'nde imzalanan 9.11.2005 gün 338241 yevmiye nolu düzenlenme şeklinde taşınmaz satış vaadi ve kat karşılığı inşaat yapım sözleşmesinin 4. maddesinin devamında; inşaatın sözleşmeye uygun olarak eksiksiz tamamlanıp, genel iskân izni alınıp iş bitim kağıtları arsa sahibine verilmedikçe yükleniciye bağımsız bölüm tapusu verilmeyeceği kararlaştırılmıştır. Bu hükme göre genel yapı kullanma izin belgesi alma yükümlülüğü yükleniciye aittir. Yine sözleşmenin süre uzatımı ve cezai şart başlıklı maddesinin son cümlesinde; işin süresi içinde bitirilmemesi halinde yüklenici teslime kadar geçecek her ay için arsa sahiplerine isabet edecek her bağımsız bölüm için o günün rayiç kira bedeli kadar kira tazminatı ödemeyi kabul etmiştir.
 Dosya kapsamındaki belge ve tutanaklara göre ... ada ... parseldeki inşaatın 02.12.2008, ... ada ... parseldeki inşaatın 21.11.2008, ... ada ... parseldeki inşaatın 21.11.2008 tarihinde teslim edildiği arsa sahipleri ve vekilleri tarafından imzalanan iş bitirme tutanaklarından anlışmakta ise de; ... adı ... parselde genel yapı kullanma izin belgesinin arsa sahipleri talebiyle 15.04.2011 tarihinde ve arsa sahiplerine bırakılacak diğer bağımsız bölümlerin bulunduğu ... ada parseldeki genel yapı kullanma izin belgesinin 20.09.2011 tarihinde ve arsa sahiplerinin açtığı birleşen 2011/91 Esas sayılı dosyadaki davanın açıldığı 24.02.2011 tarihinden sonra alındığı anlaşılmaktadır.

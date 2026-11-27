@@ -22,6 +22,8 @@ uyari: "Derleyenin seçtiği alıntılardır; kararın tamamı değildir. Künye
 
 ## Danıştay 4. D. 2023/8534 E., 2023/5466 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1030827000)
+
 İlk Derece Mahkemesi kararının özeti: ...
 
 …
@@ -36,6 +38,8 @@ Temyize konu ... Bölge İdare Mahkemesi ... İdare Dava Dairesinin ... tarih ve
 
 ## Danıştay 6. D. 2021/504 E., 2023/4004 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/990672700)
+
 Davalı … Valiliği tarafından, öncelikle usule yönelik olarak davanın süresinde açılmadığı, esasa yönelik olarak ise; dava konusu satışa davet işleminin mevzuata ve usule uygun olarak tesis edildiği ve davanın reddi gerektiği savunulmuştur.
 
 …
@@ -47,6 +51,8 @@ Davalı … Valiliği tarafından, öncelikle usule yönelik olarak davanın sü
 Açıklanan nedenlerle, yukarıda belirtilen riskli yapıların bulunduğu parsellerde yapılacak uygulamaların ve bu uygulamalara rıza göstermeyen maliklerin arsa paylarının açık artırma usulü ile satışına ilişkin kurallarını düzenleyen, bu kuralların uygulanması için ise üçte iki çoğunluk kararını yeterli bulan dayanak Kanun ve dava konusu Yönetmelik hükümleri uyarınca üçte birde kalan maliklerin mülkiyet hakkına yapılacak müdahalenin orantılı olmadığı, 634 sayılı Kat Mülkiyeti Kanuna göre "anagayrimenkulün bakımı, korunması" gibi hususlarda dahi bu oranın beşte dört olduğu da dikkate alındığında mülkiyet hakkını, 634 sayılı Kanundan daha ciddi oranda sınırlayan, 6306 sayılı Kanunun Uygulama Yönetmeliği hükümlerinde maliklerin üçte iki çoğunluğunun kararıyla üçte birin mülkiyet hakkının orantılı olmayacak şekilde kısıtlanması suretiyle hakkın ihlaline sebep olunduğu anlaşıldığından dava konusu 6306 sayılı Kanunun Uygulama Yönetmeliğinin 15/A maddesinin 1.fıkrasının a, b, c ve ç bentleri ve 2.fıkrasına ilişkin düzenlemelerin iptaline karar verilmesi gerektiği kanaatiyle bu kısımlar yönünden Dairemizce verilen çoğunluk kararına katılmıyorum.
 
 ## Danıştay 6. D. 2023/215 E., 2023/2708 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/922505900)
 
 Bakılan davanın, İstanbul İli, Üsküdar İlçesi, …
 
@@ -80,6 +86,8 @@ sayılı kararı sonrası kesinleşen hükmün, yargılamanın yenilenmesi yoluy
 
 ## Danıştay 6. D. 2021/10336 E., 2023/2148 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/987796000)
+
 DAVALI İDARELERDEN … BAKANLIĞININ SAVUNMASI :
 
 …
@@ -104,6 +112,8 @@ aykırılık görülmediği gerekçesiyle kararın bu kısmının onanmasına ka
 
 ## Danıştay 6. D. 2021/6539 E., 2023/1879 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/987505400)
+
 İstanbul İli, Beşiktaş İlçesi, …
 
 …
@@ -120,6 +130,8 @@ Açıklanan nedenlerle, yukarıda belirtilen riskli yapıların bulunduğu parse
 
 ## Danıştay 6. D. 2021/3751 E., 2022/8927 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/872840600)
+
 Anılan riskli yapı tespiti üzerine, taşınmazın yeni maliki tarafından, bitişiğindeki …
 
 …
@@ -131,6 +143,8 @@ parsel sayılı taşınmazları da kapsayacak şekilde teklif edilen dava konusu
 Mahkeme kararına yönelik olarak yapılan istinaf başvurusunun kabulü ile anılan kararının kaldırılarak yukarıda özetlenen gerekçeyle dava konusu işlemin iptali yolundaki temyize konu … Bölge İdare Mahkemesi ... İdari Dava Dairesinin … tarih ve E:…, K:… sayılı kararının BOZULMASINA …
 
 ## Danıştay 6. D. 2022/681 E., 2022/8553 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/910789200)
 
 İSTEMİN ÖZETİ : 6306 sayılı Afet Riski Altındaki Alanların Dönüştürülmesi Hakkında Kanun uyarınca riskli yapı tespiti yapmak üzere lisanslandırılan davacı şirketin, …
 
@@ -176,6 +190,8 @@ Uyuşmazlıkta, idari yaptırımın tesis edildiği tarihte lehe hüküm bulunma
 
 ## Danıştay 6. D. 2022/6311 E., 2022/7963 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/909132800)
+
 İSTEMİN ÖZETİ : İstanbul İli, Beşiktaş İlçesi, …
 
 …
@@ -210,6 +226,8 @@ sayılı kararın, usul ve hukuka aykırı olduğu ileri sürülerek bozulması 
 
 ## Danıştay 6. D. 2020/5347 E., 2022/6573 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/846851000)
+
 İSTEMİN KONUSU : Davacıların paylı malik oldukları İstanbul ili, Kadıköy ilçesi, … mahallesi, … pafta, … ada, … parsel sayılı taşınmaz üzerinde bulunan yapının, 6306 sayılı Afet Riski Altındaki Alanların Dönüştürülmesi Hakkında Kanun uyarınca riskli yapı olarak belirlenmesine ilişkin işleme yapılan itiraz üzerine İstanbul VI nolu İtiraz Değerlendirme Heyetinin … tarih ve … sayılı müzakerelerin devamına yönelik kararı ile aynı heyetin … tarih ve … sayılı itirazın reddine yönelik kararının, bu işlemlerin dayanağı olduğu ileri sürülen 25/07/2014 tarih ve 29071 sayılı Resmi Gazetede yayımlanan Afet Riski Altındaki Alanların Dönüştürülmesi Hakkında Kanunun Uygulama Yönetmeliğinde Değişiklik Yapılmasına Dair Yönetmelik hükümlerinin ve 06/01/2007 tarih ve 26454 sayılı Resmi Gazete'de yayımlanan Deprem Bölgelerinde Yapılacak Binalar Hakkında Yönetmeliğin 7. Bölüm hükümlerinin iptali ile 25/07/2014 tarih ve 29071 sayılı Resmi Gazetede yayımlanan Yönetmelik maddelerinin dayanağı niteliğindeki 6306 sayılı Kanun hükümlerinin iptal istemiyle Anayasa Mahkemesine başvurulması istenilmiştir.
 
 DAVACILARIN İDDİALARI : Davacılar tarafından riskli yapı tespit işleminin usule uygun olarak tesis edilmediği ve anılan işlemin bütün kat maliklerine tebliğ edilmediği, tebligatı alan maliklerce İstanbul Teknik Üniversitesinden yapının durumuna ilişkin rapor alındığı, alınan raporda söz konusu yapılarının statik yönden sakıncalı bir durumunun olmadığının belirtildiği, anılan rapora istinaden yapıda güçlendirme yapılabileceğinden bahisle riskli yapı tespit işlemine karşı itiraz edildiği, itiraza ilişkin müzakerelerin lisanslı kuruluştan kaynaklanan eksiklik nedeniyle önce devamına karar verildiği, sonrasında ise itirazın reddedildiği, müzakerenin devamına yönelik kararda belirtilen eksikliklerin başka bir lisanslı kuruluşa tamamlattırılması gerekirken aynı kuruluşa tamamlattırıldığı, anılan ret kararın da ise güçlendirmeden bahsedilmediği, dava konusu Yönetmelik hükümlerinde de güçlendirmenin kısaca geçildiği, bu düzenlemede kamu yararının bulunmadığı ve hukuk devletine aykırı olduğu, ayrıca, 6306 sayılı Kanun ve Kanunun Uygulama Yönetmeliğinin riskli yapı tespitinde Deprem Bölgelerinde Yapılacak Binalar Hakkında Yönetmeliğin 7.
@@ -221,6 +239,8 @@ Posta gideri avansından artan tutarın ve davacılar tarafından fazladan yatı
 
 ## Danıştay 6. D. 2022/2994 E., 2022/6171 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/830635200)
+
 (10) Müdürlük, Bakanlık tarafından yetki devri yapılması durumunda İdare ve teknik heyetler tarafından riskli yapı tespit raporunda tespit edilen teknik inceleme eksikliklerinin tamamının, raporu düzenleyen kurum veya kuruluşa bildirildiği tarihten itibaren bu kurum ve kuruluşlarca otuz gün içinde düzeltilmesi zorunludur. Lisanslı kurum veya kuruluşun otuz günlük süre içerisinde gerekçeli talebi üzerine, bu kuruluşlara eksikliklerin giderilmesi için ek süre verilebilir.” denilmiştir.
 
 Yukarıda belirtilen Yönetmelik hükümlerinin incelenmesinden; 15/12/2012 tarih ve 28498 sayılı Resmi Gazete'de yayımlanan 6306 sayılı Afet Riski Altındaki Alanların Dönüştürülmesi Hakkında Kanun'un Uygulama Yönetmeliği'nin 7. maddesinin 6. fıkrasında riskli yapı tespitine karşı malikler veya kanunî temsilcilerince itiraz edilebileceği belirtilmişken, 21/06/2019 tarih ve 30808 sayılı Resmi Gazete'de yayımlanan 6306 sayılı Kanunun Uygulama Yönetmeliğinde Değişiklik Yapılmasına Dair Yönetmeliğin 5. maddesinin 6. fıkrasıyla değişikliğe gidilerek, riskli yapı tespitine karşı yapı malikleri veya kanunî temsilcilerince itiraz edilebileceği hüküm altına alınmıştır.
@@ -228,6 +248,8 @@ Yukarıda belirtilen Yönetmelik hükümlerinin incelenmesinden; 15/12/2012 tari
 Bu durumda; 21/06/2019 tarih ve 30808 sayılı Resmi Gazete'de yayımlanan 6306 sayılı Kanunun Uygulama Yönetmeliğinde Değişiklik Yapılmasına Dair Yönetmeliğin 5. maddesiyle birlikte, anılan madde ile değişikliğe gidilen 15/12/2012 tarih ve 28498 sayılı Resmi Gazete'de yayımlanan 6306 sayılı Afet Riski Altındaki Alanların Dönüştürülmesi Hakkında Kanun'un Uygulama Yönetmeliği'nin 7. maddesinin de iptalinin istenilip istenilmediği, ayrıca söz konusu maddelerin yalnızca (dava dilekçesinde bahsi geçen) malik/yapı maliklerinin itirazına ilişkin 6. fıkrasının mı yoksa maddenin bütün fıkralarının mı iptalinin istenilip istenilmediği hususunda tereddüt hasıl olmuştur.
 
 ## Danıştay 9. D. 2021/4073 E., 2022/5377 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/931002000)
 
 Bölge İdare Mahkemesi kararının özeti :Olayda; Çevre ve Şehircilik İl Müdürlüğü'nün …
 
@@ -242,6 +264,8 @@ sayılı yazısı ile dava konusu parselde yer alan taşınmazdaki yapının ris
 
 ## Danıştay 13. D. 2022/1577 E., 2022/2596 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/824434000)
+
 Mevzuatta riskli yapı tespitinin hukuka uygun sayılması için mahkeme kararı gerektiğine dair bir düzenleneme olmadığı gibi Yönetmeliğin 8. maddesinde riskli yapı tespitinin kesinleşmesi için, bu tespite karşı yapılan itirazın reddedilmesi veya riskli yapı tespitine itiraz edilmemesi şartlarından birisinin gerçekleşmesi yeterli görülmüştür.
 
 Somut uyuşmazlık bu kapsamda incelendiğinde davacının kiracı olduğu taşınmazın da aralarında bulunduğu taşınmazlar ile ilgili olarak bunların maliki olan Bergama Belediye Başkanlığı'nca riskli yapı incelemesi yapılmak üzere bir yapı denetim firmasına başvuruda bulunulduğu, yapıların riskli olduklarının tespiti üzerine İzmir Çevre, Şehircilik ve İklim Değişikliği İl Müdürlüğü'nün talebi doğrultusunda Bergama Tapu Müdürlüğü'nce taşınmazın tapu kaydına riskli yapı şerhinin konulduğu, Bergama Tapu Müdürlüğü'nün ...tarih ve ...yevmiye numaralı yazısı ile davalı idareye, riskli yapı tespitine karşı tebliğ tarihiden itibaren 15 gün içinde bizzat yahut kanunî temsilci tarafından itiraz etme hakkının bulunduğu, itiraz edilmediği takdirde altmış (60) günden az olmamak üzere belirlenecek olan süre içinde yapının yıktırılması gerektiği hususunun bildirildiği, fakat herhangi bir itirazda bulunulmadığı, bu şekilde riskli yapı kararının kesinleştiği ve bunun üzerine de hem mâlik hem de idare olarak yıkıma yetkili olan davalı tarafından uyuşmazlık konusu ihale marifetiyle yapıların yıkımına geçildiği anlaşılmaktadır.
@@ -251,6 +275,8 @@ Somut uyuşmazlık bu kapsamda incelendiğinde davacının kiracı olduğu taş�
 Bu kısım yönünden DAVANIN REDDİNE …
 
 ## Danıştay 6. D. 2021/5293 E., 2022/1333 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/762312000)
 
 İlk Derece Mahkemesi kararının özeti: .... İdare Mahkemesince verilen ...tarih ve E:..., K:...sayılı kararda; dava konusu Riskli Yapı Tespiti Lisans Belgesinin iptaline ilişkin ...tarih ve ...sayılı Olur işleminin, davacının fiilinin Yönetmelik kuralı kapsamında bulunmadığı gerekçesiyle iptaline, ...tarih ve ...sayılı Teknik Heyet kararı yönünden ise heyet kararındaki tespitlerin yerinde olduğu gerekçesiyle davanın reddine karar verilmiştir.
 
@@ -271,6 +297,8 @@ Davalı idare tarafından temyize konu kararın redde ilişkin kısmının onanm
 Bu itibarla; dava konusu Teknik Heyet kararı yönünden yapılan incelemede; bu işlem yönünden Mahkemece verilen davanın reddine dair karara karşı yapılan istinaf başvurunun reddine ilişkin karar hukuka ve usule uygun olduğundan …
 
 ## Danıştay 6. D. 2021/4077 E., 2022/1332 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/775837500)
 
 İSTEMİN ÖZETİ : Ankara İli, Çankaya İlçesi, …
 
@@ -312,6 +340,8 @@ sayılı kararın, usul ve hukuka aykırı olduğu ileri sürülerek bozulması 
 
 ## Danıştay 6. D. 2021/3138 E., 2022/1330 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/775839900)
+
 İSTEMİN ÖZETİ : İzmir İli, Torbalı İlçesi, ... Mahallesi, ... pafta, ... ada, ... parsel sayılı taşınmazda bulunan yapı hakkında düzenlenen riskli yapı tespitine ilişkin raporun İzmir Valiliği Çevre ve Şehircilik İl Müdürlüğünce incelenmesi neticesinde tespitin mevcut duruma uygun olmadığının anlaşılması ve davacıdan hatalı ve eksik hususların giderilmesinin istenilmesine rağmen, 6306 sayılı Kanunun Uygulama Yönetmeliği'nin 7/4. maddesinde yer alan 30 günlük süre içerisinde Riskli Yapı tespit raporunda bulunan hata ve eksikliklerin düzeltilmediğinden bahisle 6306 sayılı Kanunun Uygulama Yönetmeliği'nin 6/3-ç maddesi ile aynı Yönetmeliğin 6/3-d maddesi uyarınca davacının riskli yapı tespit lisansının iptal edilmesine ilişkin ... günlü, ... sayılı Çevre ve Şehircilik Bakanlığı Altyapı ve Kentsel Dönüşüm Hizmetleri Genel Müdürlüğünce tesis edilen işlemin iptali istemiyle açılan davada, dava konusu işlemin iptali yolundaki ... İdare Mahkemesinin ... tarih ve E:..., K:... sayılı kararına karşı yapılan istinaf başvurusunun reddine dair ... Bölge İdare Mahkemesi ...
 İdari Dava Dairesince verilen ... tarih ve E:..., K:... sayılı kararının Danıştay Altıncı Dairesinin 29/04/2019 tarih ve E:2019/9990, K:2019/3231 sayılı kararıyla bozulması üzerine bozma kararına uyularak, istinaf başvurusunun reddine dair, ... Bölge İdare Mahkemesi ... İdari Dava Dairesinin ... tarih ve E:..., K:... sayılı kararın, usul ve hukuka aykırı olduğu ileri sürülerek bozulması istenilmektedir.
 
@@ -320,6 +350,8 @@ sayılı kararın, usul ve hukuka aykırı olduğu ileri sürülerek bozulması 
 ... Bölge İdare Mahkemesi ... İdari Dava Dairesinin ... tarih ve E:..., K:... sayılı karar ve dayandığı gerekçe hukuk ve usule uygun olup bozulmasını gerektirecek bir sebep bulunmadığından, anılan kararın ONANMASINA …
 
 ## Danıştay 6. D. 2019/2536 E., 2022/1327 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/762295600)
 
 6306 sayılı Kanunun 3.maddesinde; "Riskli yapıların tespiti, Bakanlıkça hazırlanacak yönetmelikte belirlenen usul ve esaslar çerçevesinde masrafları kendilerine ait olmak üzere, öncelikle yapı malikleri veya kanuni temsilcileri tarafından, Bakanlıkça lisanslandırılan kurum ve kuruluşlara yaptırılır ve sonuç Bakanlığa veya İdareye bildirilir... Bakanlıkça veya İdarece yaptırılan riskli yapı tespitlerine karşı maliklerce veya kanuni temsilcilerince onbeş gün içinde itiraz edilebilir. Bu itirazlar, Bakanlığın talebi üzerine üniversitelerce, ilgili meslek disiplini öğretim üyeleri arasından görevlendirilecek dört ve Bakanlıkça, Bakanlıkta görevli üç kişinin iştiraki ile teşkil edilen teknik heyetler tarafından incelenip karara bağlanır," hükmüne yer verilmiştir.
 
@@ -330,6 +362,8 @@ sayılı kararın, usul ve hukuka aykırı olduğu ileri sürülerek bozulması 
 Açıklanan nedenlerle, yukarıda belirtilen riskli yapıların bulunduğu parsellerde yapılacak uygulamaların ve bu uygulamalara rıza göstermeyen maliklerin arsa paylarının açık artırma usulü ile satışına ilişkin kurallarını düzenleyen, bu kuralların uygulanması için ise üçte iki çoğunluk kararını yeterli bulan dayanak Kanun ve dava konusu Yönetmelik hükümleri uyarınca üçte birde kalan maliklerin mülkiyet hakkına yapılacak müdahalenin orantılı olmadığı, 634 sayılı Kat Mülkiyeti Kanuna göre "anagayrimenkulün bakımı, korunması" gibi hususlarda dahi bu oranın beşte dört olduğu da dikkate alındığında mülkiyet hakkını, 634 sayılı Kanundan daha ciddi oranda sınırlayan, 6306 sayılı Kanunun Uygulama Yönetmeliği hükümlerinde maliklerin üçte iki çoğunluğunun kararıyla üçte birin mülkiyet hakkının orantılı olmayacak şekilde kısıtlanması suretiyle hakkın ihlaline sebep olunduğu anlaşıldığından dava konusu düzenlemelerin iptaline karar verilmesi gerektiği kanaatiyle bu kısımlar yönünden Dairemizce verilen çoğunluk kararına katılmıyorum.
 
 ## Danıştay 6. D. 2020/8160 E., 2022/1324 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/776988400)
 
 En son anlaşma sağlanan malik ile imzalanan sözleşmenin tarihi, riskli yapı tespitinin kesinleşmesinden/riskli ve rezerv yapı alanı belirleme işleminden önceki bir tarih ise bir yıllık sürenin başlangıcında riskli yapı tespitinin kesinleştiği/riskli ve rezerv yapı alanının belirlendiği tarih esas alınır. En son anlaşma sağlanan malik ile imzalanan sözleşmenin tarihi riskli yapı tespitinin kesinleşmesinden/riskli ve rezerv yapı alanı belirleme işleminden sonraki bir tarih ise, en son anlaşma sağlanan malik ile imzalanan sözleşme tarihi esas alınarak hesaplama yapılır. Hisseleri oranında paydaşların en az üçte iki çoğunluğu ile karar alınan hallerde ise bir yıllık sürenin başlangıcı, en az üçte iki çoğunluk ile alınan karara katılmayanların hisselerinin satışından sonra tapuda yeni malik adına devir işleminin yapıldığı tarih esas alınarak hesap edilir. c) (a) bendinde belirtilen durumlardan birinin gerçekleşmesi halinde, sözleşmelerin feshi için hisseleri oranında maliklerin en az üçte iki çoğunluğu ile karar alınması gerekir. Fesih kararı alınması herhangi bir şekil şartına tabi değildir.
 Fesih iradesi, fesih konusunda maliklerin en az üçte iki çoğunlukla anlaştıklarına dair anlaşan maliklerce imzalı karar tutanağı, maliklerin en az üçte iki çoğunluğu tarafından verilen fesih talebine ilişkin dilekçe, maliklerin en az üçte iki çoğunluğunun başka bir müteahhitle anlaştıklarına dair sözleşme veya vekaletname örnekleri gibi sair belgeler ile ispatlanabilir. ç) Fesih müracaatı, alınan fesih kararı ve fesih gerekçesine göre, yeni yapının yapım işine başlanılmamış olmasının müteahhitten kaynaklandığına ilişkin bilgi ve belgeler veya en az altı aydır projenin bitirilmesini gerektirecek seviyede ekip ve ekipmanla inşai faaliyete devam edilmediğine dair bilgi ve belgeler ile birlikte yazılı olarak Müdürlüğe veya Bakanlıkça yetki devri yapılması durumunda İdareye yapılır. Müdürlük veya İdare, fesih müracaatını görevlendireceği eleman/elemanlar veya teşkil edeceği bir komisyon marifetiyle inceler. d) Fesih müracaatı üzerine, öncelikle müracaatın yukarıda (a), (b) ve (c) bendlerinde belirtilen hususlara uygun olarak yapılıp yapılmadığı incelenir.

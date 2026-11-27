@@ -21,6 +21,8 @@ uyari: "Derleyenin seçtiği alıntılardır; kararın tamamı değildir. Künye
 
 ## Yargıtay 15. HD 2012/203 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/474864000)
+
 Davada 8 nolu villadaki eksik iş bedeli talep edilmiştir. Sözleşmelerine göre davalının yapacağı inşaatta 8 adet villanın 4 arsa sahibine verileceği kabul edilmiştir. Davacı 8 adet villada 8 nolu olanın kendisine ait olduğunu ileri sürerek talepte bulunmuş, mahkemece tespit olunan eksik işlerin giderilme bedelinin 1/4’üne hükmedilmiştir. Oysa bu durumda davacıya mehil verilerek davada yer almayan diğer arsa sahiplerinden muvafakat alması için mehil verilmesi ve muvafakat verildiği takdirde mahkemece belirlenecek eksik işler bedelinin tamamına hükmedilmelidir. 1/4’üne hükmedilmesi doğru olmadığı gibi, mahkemece hükme esas alınan bilirkişi kurulu raporu ile tespit raporu arasında önemli derecede çelişki bulunduğu halde bu çelişki giderilmeden karar verilmesi de doğru görülmemiştir. Yine muaccel olmadığı gerekçesiyle kira alacağına ilişkin talebin reddedilmesi yerinde ise de kira bedeli için davalı yararına takdir olunacak vekâlet ücretinin maktu olması gerekirken nispi tarifeden hesaplanması da tarifeye aykırı olmuştur (HGK 25.05.2011 gün 2011/11-186 Esas-2011/352 Karar sayılı kararı).
 Bu durumda mahkemece yapılacak iş, raporlar arasındaki çelişkinin yeniden oluşturulacak bilirkişi kurulundan alınacak raporla giderilmesi, diğer arsa sahipleri muvafakat verdikleri takdirde arsa payı üzerinden indirim yapılmadan eksik iş bedeline hükmedilmesi vekâlet ücretinin de belirtilen şekilde hesaplanmasından ibarettir.
 
@@ -29,6 +31,8 @@ Bu durumda mahkemece yapılacak iş, raporlar arasındaki çelişkinin yeniden o
 SONUÇ:Yukarıda 1. bentte yazılı nedenlerle tarafların sair temyiz itirazlarının reddine, 2. bent uyarınca hükmün temyiz eden taraflar yararına BOZULMASINA …
 
 ## Yargıtay 15. HD 2009/5035 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/855375700)
 
 Yanlar arasındaki 15.07.1997 tarihli Kat Karşılığı İnşaat Sözleşmesi arsa sahibi tarafından açılan dava sonucu ... 1. Asliye Hukuk Mahkemesi’nin 2003/725 E, 2004/891 K. sayılı ve 20.12.2004 günlü kararı ile feshedilmiş, fesih kararı Yargıtay incelemesinden geçmek suretiyle 20.06.2006 tarihinde kesinleşmiştir. Kesinleşen dava dosyasında alınan 11.03.2004 günlü bilirkişi raporuna göre yüklenici tarafından yapılan binanın takviye yapılmadan kullanılması tehlikeli olup, binanın acilen boşaltılması gerekmektedir. Sözleşmeye göre zemin + 5 kat inşaat yapılacak olup sözleşme tarihindeki mevcut imar durumu 4 kat inşaata müsaittir. Ancak inşaat 9 kat olarak yapıldığından kaçak katlar yönünden inşaat mühürlenmiş ve ilgili belediyece yıkım kararı verilmiştir. Yargılama sırasında alınan bilirkişi raporunda bina statiğinin fen ve sanat kurallarına uygun olup olmadığı hususunda bir değerlendirme ve inceleme yer almamış, kaçak katlar hariç diğer katların tamamen fen ve sanat kurallarına uygun olarak yapıldığı varsayımı ile yapım bedeli hesaplanmıştır.
 İlgili belediyece daha sonra imar değişikliği ile kat adedinin artırılmış olması binanın tamamının fen ve sanat kurallarına uygun olarak yapıldığını göstermez.
@@ -41,6 +45,8 @@ SONUÇ: Yukarıda açıklanan nedenlerle yerel mahkeme kararının davalı yarar
 
 ## Yargıtay 15. HD 2009/3030 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/854654100)
+
 Davanın kabulüne gerekçe olarak; davalı yüklenicinin sözleşmede öngörülen süre içinde inşaat ruhsatını almaması, inşaata başlamaması, kısaca sözleşmeden doğan borçları yönünden temerrüde düşmesi gösterilmiştir. Sözleşmenin 5. maddesine göre yüklenici, sözleşmenin imzalanmasını takiben 0,80 olan imar durumunun 1,20’ye çıkarılması için imar plân tadili teklifi çalışmalarına başlayacak, 6. maddeye göre de Belediyenin yapacağı imar plân tadili uygulamasının yürürlüğe girmesini takiben proje tanzim, onay ve ruhsat işlemlerini ikmâl edecektir. İşin süresi, 6 ay imar parseli üzerinde yapılacak çalışmalar, 24 ay da yapım süresi olmak üzere toplam 30 ay olarak kararlaştırılmıştır. İmar Kanunu’na göre her türlü yapım işi ruhsat alınmasına bağlıdır. Ruhsat alınmadan inşaat yapılması mümkün değildir. Dosya kapsamından sözleşmenin imzalanmasından önce 19.10.1995’te onaylanan imar planının iptâli için İdare Mahkemesi’ne dava açıldığı, verilen kararın Danıştay’da karar düzeltme aşamasında olup henüz kesinleşmediği anlaşılmaktadır.
 İdarî Yargıdaki dava sonuçlanmadan yüklenicinin inşaat ruhsatı alıp alamayacağı, davanın sözleşme konusu parselleri kapsayıp kapsamadığı ve inşaatın yapımına engel mücbir sebep oluşturup oluşturmadığı mahkemece incelenmemiştir.
 
@@ -51,6 +57,8 @@ Mahkemece idare mahkemesindeki davanın inşaat ruhsatı alımını engelleyip e
 SONUÇ:Yukarıda açıklanan nedenlerle temyiz itirazlarının kabulü ile hükmün davalı yararına BOZULMASINA …
 
 ## Ankara BAM 27. HD 2025/1315 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1188590500)
 
 Davalı ... Belediyesi vekili; davaya yargı yolu, husumet ve işbölümü (görev) itirazları olduğunu, bu davada idari yargının görevli olduğunu, ...
 
@@ -65,6 +73,8 @@ almadığını, Yargıtay 15. HD'nin 20.03.2006 tarih ve 7960/1539 E/K sayılı 
 
 ## Ankara BAM 27. HD 2024/318 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1024978100)
+
 Mahkemece; davacı vekili tarafından sunulan 14/06/2021 tarihli ıslah dilekçesi ile 10.000,00 TL olan talebin 1.763.722,56 TL'ye çıkarılarak şimdilik bu miktarın temerrüt tarihinden itibaren işleyecek avans faizi ile birlikte davalıdan tahsilinin talep edildiği, alacağı temlik alan ... vekilinin vekaletname sunarak, verdiği dilekçe ile söz konusu alacağı temlik aldıklarını, tüm hakların müvekkiline geçtiğini beyan ettiği, duruşmada ise temliğe konu alacakla ilgili davanın kabulüne karar verilmesini talep ettiği, toplanan delillere göre davalı ile dava dışı Bakanlık arasında imzalanan sözleşme ile davalının imzalanan sözleşmede belirlenen işleri üstlendiği, daha sonra ise üstlenilen bu işlerin alt yüklenicilik sözleşmesi ile davacıya devredildiği, davacının söz konusu işleri yapıp teslim ettiği, yapılan işten yasal kesintinin düşülmesinden sonra davacının ıslah olunan miktar kadar alacağı temerrüt tarihinden itibaren işleyecek avans faizi ile birlikte davalıdan isteyebileceği gerekçesiyle davanın kabulüne karar verilmiştir.
 
 …
@@ -77,6 +87,8 @@ gerekçeli kararında davalı müvekkilinin tüm iddia ve savunmalarının tart�
 Ankara 10. Asliye Ticaret Mahkemesi'nin 16/03/2022 tarih ve 2019/341 Esas- 2022/183 Karar sayılı kararının HMK'nun 353/1-a.6 maddesi gereğince kaldırılmasına …
 
 ## Ankara BAM 21. HD 2023/1649 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/977680300)
 
 Davacı vekili dava dilekçesinde özetle; müvekkilinin %25 pay sahibi ve kurucu ortağı olduğu dava dışı ... Şirketi'nde davalının % 25 pay sahibi, kurucu ortağı ve müdürü olduğunu, şirketin 2008 yılından itibaren faaliyet halinde olduğunu, müvekkilinin şirketin borcunu teminat altına almak üzere ... parsel sayılı arsa niteliğindeki taşınmaz üzerinde dava dışı ...
 

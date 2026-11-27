@@ -21,6 +21,8 @@ uyari: "Derleyenin seçtiği alıntılardır; kararın tamamı değildir. Künye
 
 ## Yargıtay 20. HD 2017/8652 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/373457400)
+
 Dava, 19/10/2015 tarihli kat malikleri kurulu kararların iptali istemine ilişkindir.
 
 Dosya içindeki bilgi ve belgelerden, dava konusu 776 ada 33 parselde kat mülkiyeti kurulu olduğu, ana taşınmazda 15 bağımsız bölüm bulunduğu, 22.10.2014 tarihinde 6306 sayılı Kanuna göre "riskli yapıdır" şerhi konulduğu anlaşılmıştır. 19.10.2015 tarihli kat malikleri toplantısında alınan kararların 2/3 ten fazla bir çoğunlukla ile kabulü (riskli yapı olduğu kesinleşen taşınmazla ilgili uygulama konusunda şirketlerin teklifleri, karar katılmayan maliklere uygulama yönetmeliği 15/2 gereğince ihtarname gönderilmesine, süresi içerisinde ilgili şirketin teklifinin kabul edilmesi kabul edilmediği takdirde arsa payının açık arttırma sureti ile satılacağının bildirilmesi görüşülmüştür.) Arsa paylarının 2/3 çoğunluğu ile ... Gıda Turizm İnşaat Ltd. Şti. tarafından sunulan kat karşılığı inşaat yapmak üzere binanın yenilenmesi teklifinin 2/3'den fazla bir çoğunlukla kabulüne karar verildiği anlaşılmıştır.
@@ -31,6 +33,8 @@ Dosya içindeki bilgi ve belgelerden, dava konusu 776 ada 33 parselde kat mülki
 SONUÇ: Yukarıda açıklanan nedenlerle, davacı ... vekilinin temyiz itirazlarının kabulü ile hükmün BOZULMASINA …
 
 ## Yargıtay 1. HD 2017/3606 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/349845800)
 
 Davacı, mirasbırakanı ...’ın kayden 73802/380160 oranında paydaşı olduğu 139 ada 2 parsel sayılı taşınmazdaki payını davalı gelini ... ile birlikte hareket ederek mirastan mal kaçırma amacıyla ve muvazaalı şekilde ...’in eniştesi olan dava dışı ...’a 06/09/1989 tarihinde,dava dışı ...’in de 30/06/2009 tarihinde davalı ...’e satış göstermek suretiyle temlik ettiklerini, davalı ...’in sözkonusu taşınmazdaki payı kat karşılığı inşaat sözleşmesi ile bağımsız bölümlere dönüştürdüğünü ileri sürerek, davalı adına olan tapu kaydının 73802/380160 oranındaki payının iptali ile bu paya isabet eden kat irtifakına tabi bağımsız bölümlerin miras payı oranında adına tesciline karar verilmesini, aşamalardaki beyanında ise dava tarihinden sonra davalının bağımsız bölümleri yükleniciye temlik etmesi nedeniyle yüklenici ...’in davaya dahil edilmesini ve davaya bedel yönünden devam edilmesini istemiştir.
 
@@ -50,9 +54,13 @@ Davacı vekili ve davalı vekilinin temyiz itirazları yerindedir. Kabulü ile h
 
 ## Yargıtay 18. HD 2016/545 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/227531900)
+
 Düzeltilmesi istenilen Yargıtay ilamında davada iptali istenilen 20.12.2013 tarihli kat malikleri kurulu toplantısında anayapının üzerindeki binanın yıkılması ve yerine yapılacak yeni bina ile ilgili müteahhit firmanın belirlenmesi yönünde karar alındığı, davacının bu karara muhalif kaldığı, kararın niteliği itibariyle mülkiyet hakkına yönelik olması nedeniyle Kat Mülkiyeti Yasasının 45.maddesindeki tüm kat maliklerinin oybirliğini gerektirdiğinden, mahkemece 6306 sayılı Yasaya göre riskli bina olması nedeniyle 2/3 çoğunluk oyuyla karar alınması gerekirken bu çoğunluğun sağlanamadığı gerekçesiyle davanın kabulüyle 20.12.2013 tarihli kararın iptaline karar verilmişse de zaten kararda oybirliği şartı gerçekleşmemiş olmakla düzeltme dileğinde ileri sürülen sebepler HUMK.nun 440.
 
 ## Yargıtay 14. HD 2011/12627 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/557875700)
 
 Davacı, 24.12.1996, 21.04.1995 ve 27.12.1996 tarihli arsa payı karşılığı inşaat sözleşmeleri uyarınca yüklenici ...’a bırakılması kararlaştırılan 3 sayılı parsel üzerindeki binanın 3.kat 10 numaralı bağımsız bölümünü 01.02.2000 tarihli satış vaadi sözleşmesiyle temlik aldığını ileri sürerek davalılar adına olan payların iptali ile tescilini istemiştir.
 
@@ -67,6 +75,8 @@ Davalı yüklenici ... ile davalılardan ..., davaya yanıt vermemiş, diğer da
 SONUÇ: Temyiz olunan kararın yukarıda açıklanan nedenlerle BOZULMASINA …
 
 ## Yargıtay 14. HD 2009/10404 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/843553600)
 
 Davalı, 23 parsel sayılı taşınmazda 7 numaralı bağımsız bölümü kendisinin satın aldığını, sözleşmeye yanlışlıkla 5 numaralı bağımsız bölüm olarak yazıldığını, açılan davanın reddini savunmuştur.
 
@@ -90,6 +100,8 @@ sözcüklere bakılmaksızın, gerçek ve ortak iradeleri esas alınmalıdır. E
 
 ## Sakarya BAM 5. HD 2025/752 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1151915700)
+
 Davalı vekili asıl davaya cevap dilekçesinde özetle;
 
 …
@@ -99,6 +111,8 @@ Parsel sayılı taşınmazın 150.000,00-USD karşılığında yükleniciye devr
 Bu durumda mahkemece, mahallinde yeni oluşturulacak bilirkişi heyetiyle keşif ve bilirkişi incelemesi yapılarak, inşaatın seviyenin ve yüklenicinin edimlerini ne oranda ifa ettiğinin tespit edilmeli, ... ada ... parseldeki yapının zemin kat ve 1 katında yer alan tüm bağımsız bölümlerin, bu katlarda yer alan ortak alanlar da dahil olmak üzere parsel payının en az 2/3'üne tekabül eden parsel payının değerinin ve İstanbul ili, Üsküdar ilçesi, Arakıyecı Hacı Mehmet Mahallesi, ... ada ... parselin değerinin 49.285.763,20 USD içindeki değerlerinin ayrı ayrı belirlenmeli, sonucuna göre bir karar verilmesi gerekirken, eksik incelemeye dayalı olarak yazılı şekilde hüküm tesisi doğru olmamıştır.
 
 ## İstanbul BAM 45. HD 2023/1110 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/916815000)
 
 İLK DERECE MAHKEMESİ KARARI Mahkemece; "Hukuk Muhakemeleri Kanunu'nun 389/1. maddesi "Mevcut durumda meydana gelebilecek bir değişme nedeniyle hakkın elde edilmesinin önemli ölçüde zorlaşacağından ya da tamamen imkânsız hâle geleceğinden veya gecikme sebebiyle bir sakıncanın yahut ciddi bir zararın doğacağından endişe edilmesi hâllerinde, uyuşmazlık konusu hakkında ihtiyati tedbir kararı verilebilir." hükmünü içermektedir.
 

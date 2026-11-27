@@ -109,10 +109,14 @@ Somut olayda; taraflar arasında görülen ceza mahkemesi dosyasındaki maddi va
 
 ## İstanbul BAM 3. HD 2026/427 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1203271700)
+
 Sözkonusu kararın istinaf edilmesi üzerine ,Dairemizce yapılan istinaf incelemesi sonucunda verilen kararda ; Davacı taraf ,davalı ...'in 2005’ten önce ortaklıktan ayrılmasına karşın bankada işlem yapmayı sürdürdüğünü iddia etmiştir. Ancak davalılar reşit olmayan ... ve ...'in davalı ...’e bankadan para çekmesi için vekaletname vermelerinin sözkonusu olmadığı, davalı ... hakkında ayrıca “kendi adına” denilerek “davalı” gösterilmesinin, ortak olmayan bu davalı yönünden vekaletin kötüye kullanılması iddiasına dayalı olduğu, .böylece davada; adi ortaklık yanında ,vekaletin kötüye kullanılmasına ilişkin tazminat talebini içeren talep de bulunduğu anlaşılmaktadır.
 Bu bağlamda ,davalı ...'nın vekaleten bankadan çektiği paraların adi ortaklığa ait olduğu iddia edildiğine göre ,mahkemece öncelikli olarak bu talep yönünden davanın tefrik edilerek ayrı bir esasa kaydedilmesi ,adi ortaklığın alacaklı olduğu iddiası sebebiyle sözkonusu davada , adi ortaklık, 2005 yılından sonra davacı ..., ... ve ... arasında devam etmiş olduğundan zorunlu dava arkadaşlığı sözkonusu olduğundan tüm adi ortakların ,yani ... ve ...'in de davacı sıfatıyla yer almaları sağlanarak ,usulünce taraf teşkili sağlanarak , deliller celp ve değerlendirilerek sonucuna göre karar verilmesi gereklidir, şeklindeki gerekçe ile ,karar kaldırılmıştır.
 
 ## İstanbul BAM 43. HD 2026/417 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1204552500)
 
 …
 
@@ -128,6 +132,8 @@ Bu bağlamda limited şirketin kötü yönetilmesi; genel kurul toplantıların�
 
 ## İstanbul BAM 12. HD 2026/68 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1188897400)
+
 Dava, aldatma (hile) hukuksal nedenine dayalı olarak hisse devri sözleşmesinin iptaline, aksi takdirde hisselerin rayiç değerinin ödenmesi istemine ilişkindir.
 
 …
@@ -137,6 +143,8 @@ Davacılardan ... hisse devrinden önce müşterek yetkili müdür olarak görev
 
 ## İstanbul BAM 13. HD 2026/24 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1190290500)
+
 Bu açıklamalardan sonra somut olaya dönüldüğünde; her ne kadar Mahkemece, davalının alacak talebinin dayanağının, dava dışı şirket ortağı ile yapılmış hisse devrinden doğan alacak, masraf ve birlikte organize edilen işlerden doğan kar payı olduğu kabul edilmiş ise de, davalı tarafça böyle bir iddia ileri sürülmemiş, alacağın dayanağı, davacı şirketin kendisine yapacağı hisse devrine karşılık yapılan ödemeler olarak açıklanmış, Mahkemenin kabulünün aksine, kabin perdesi ve reklam için yapılan ödeme ile dava dışı ... ile yapılan işten elde edilen gelirin de hisse devir bedeli olduğu ve tamamının iadesinin gerektiği iddia edilmiştir. Dosyada mübrez banka dekontlarından davalının tüm ödemeleri davacı şirket yetkilisinin şahsi hesabına yaptığı anlaşılmıştır. Bilindiği üzere limited şirket hisse devrine ilişkin sözleşmelerin TTK'nın 595. maddesinde düzenlenen şekilde yapılması gerekir. Bu şekil şartına uygun olarak yapılmayan sözleşmeler geçersiz olup, böyle bir sözleşme uyarınca tarafların, sebepsiz zenginleşme hükümleri uyarınca verdiklerinin iadesini talep etmeleri mümkündür. Bir şirket hissesinin devrine ilişkin sözleşme ancak o hissenin maliki tarafından yapılabilir.
 Yani hisse devrine ilişkin sözleşmenin devreden tarafında şirketin ortağı olan gerçek veya tüzel kişi yer alır. Buna göre davalının tek ortaklı olan davacı şirketin hisselerini devralmak üzere yaptığını iddia ettiği sözleşmenin tarafının davacı şirket olması mümkün olmayıp, şirketin tek hissedarı olan ...olduğunun kabulü gerekir. Mahkemece davacı şirket yetkilisinin beyanına göre, taraflar arasında bir masraf ve kar ortaklığının bulunduğu kabul edilmiş ise de, bu ortaklığın kimler arasında olduğu ve hukuki niteliğinin ne olduğu açıklanmamıştır. Bu noktada davacı şirket yetkilisinin, kendisi ile davalı arasında bir ortaklık bulunduğu ve bu ortaklıktan doğan karın ve masrafın yarısının davalıya ait olduğuna dair ve davacı şirket ile davalı arasındaki hukuki ilişki konusunda herhangi bir beyan içermeyen yemininin usulüne uygun bir yemin olduğundan bahsedilmesi mümkün değildir. Bu yeminli beyandan, davacı şirket ile davalı arasında herhangi bir hukuki ilişki olup olmadığı anlaşılmamaktadır.
 Öte yandan davalı vekili istinaf dilekçesinde, davalının davacıya hisse devri için verdiği tüm para dışında bir de bu vaade güvenerek yaptığı harcamalar olduğunu, yine ... ile yapılan işten elde edilen gerçek karın bilirkişi marifeti ile belirlenmesi gerektiğini ileri sürmüştür.
@@ -144,6 +152,8 @@ Bu beyandan da, davalı ile davacı şirket yetkilisi arasında davacı şirketi
 üstlenilmediğinin kabulü halinde ise davacı şirketin pasif husumetinin ve geçerli bir icra takibinin bulunup bulunmadığının değerlendirilmesi ile sonucuna göre bir karar verilmesi gerekmektedir.
 
 ## Sakarya BAM 7. HD 2025/1508 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1172936300)
 
 Dava; menfi tespit istemine ilişkindir.
 

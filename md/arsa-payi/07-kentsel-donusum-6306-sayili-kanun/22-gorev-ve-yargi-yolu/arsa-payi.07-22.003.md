@@ -132,6 +132,8 @@ Temyize konu ... Bölge İdare Mahkemesi... İdare Dava Dairesinin ... tarih ve 
 
 ## Danıştay 2. D. 2025/3597 E., 2025/5353 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1201748400)
+
 Buna karşılık, sözü edilen takdir yetkisinin, ancak kamu yararı ve hizmet gerekleri göz ardı edilerek kullanıldığının kanıtlanması ya da idari yargı merciince saptanması halinde, sözü edilen bu durumun dava konusu idari işlemin neden ve amaç yönlerinden hukuka aykırılığı nedeniyle iptalini gerektireceği hususunun yerleşmiş yargısal içtihatlarla kabul edilmiş bulunduğunu da vurgulamak gerekir.
 
 …
@@ -139,6 +141,8 @@ Buna karşılık, sözü edilen takdir yetkisinin, ancak kamu yararı ve hizmet 
 Bu itibarla; temyize konu Bölge İdare Mahkemesi kararının bozulması gerektiği oyuyla, kararın onanmasına ilişkin çoğunluk kararına katılmıyorum.
 
 ## Danıştay 6. D. 2023/3661 E., 2025/4808 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1194849200)
 
 İlk Derece Mahkemesi kararının özeti: Temyize konu kararda; ... İdare Mahkemesinin ... tarihli ara kararıyla davalı idareden, dava konusu edilen Ankara Büyükşehir Belediye Meclisinin ... tarih ve ... sayılı kararının yürürlükte olup olmadığı ve dava konusu alanda Bakanlar Kurulunun 30/03/2018 tarih ve 11470 sayılı kararı ile 470 hektarlık alan için ...
 
@@ -152,13 +156,19 @@ Davanın yukarıda özetlenen gerekçeyle karar verilmesine yer olmadığına il
 
 ## Danıştay 4. D. 2025/226 E., 2025/4732 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1191224700)
+
 Karar veren Danıştay Dördüncü Dairesince, 2577 sayılı İdari Yargılama Usulü Kanunu'nun 15. maddesinin birinci fıkrasının (b) bendi uyarınca davanın süre aşımı nedeniyle reddi yolunda verilen Danıştay Dördüncü Dairesinin 22/02/2024 tarih ve E:2024/511, K:2024/1158 sayılı kararının, Danıştay İdari Dava Daireleri Kurulunun 02/10/2024 tarih ve E:2024/1384, K:2024/1842 sayılı kararıyla bozulması üzerine, bozma kararına uyularak, Tetkik Hakiminin açıklamaları dinlendikten ve dosyadaki belgeler incelendikten sonra gereği görüşüldü:
 
 ## Danıştay 4. D. 2023/11283 E., 2025/4714 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1189308100)
+
 Taraflara ait posta avansından varsa artan tutarın kararın kesinleşmesinden sonra talebi halinde ilgilisine iadesine, 5. 2577 Sayılı İdari Yargılama Usulü Kanununun 20/A-2-(g) maddesi uyarınca, bu kararın tebliğinden itibaren 15 gün içerisinde Danıştay İdari Dava Daireleri Kuruluna temyiz yolu açık olmak üzere, 23/09/2025 tarihinde oyçokluğuyla karar verildi.
 
 ## Danıştay 6. D. 2024/1173 E., 2025/4647 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1188690000)
 
 Davalı yanında müdahil tarafından, savunma verilmemiştir.
 
@@ -183,6 +193,8 @@ Yukarıda yer verilen düzenlemeler uyarınca, idari yargıda, hakimin reddinin 
 
 ## Danıştay 4. D. 2025/2768 E., 2025/4286 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1173888500)
+
 İlk Derece Mahkemesi kararının özeti: ...
 
 …
@@ -194,6 +206,8 @@ Yukarıda da belirtildiği üzere 2577 sayılı İdari Yargılama Usulü Kanunun
 Dosyanın incelemesinden; yapılan yargılama sonucu ... İdare Mahkemesinin ... tarih ve E:..., K:... sayılı kararıyla, davacının hissesinin değerinden daha düşük bir bedelle satışa çıkarıldığı gerekçesi ile dava konusu işlemin iptaline karar verildiği …
 
 ## Danıştay 6. D. 2023/6531 E., 2025/4189 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1187933900)
 
 Davacılar, dava dilekçesinde, hissedarı oldukları ... sayılı kadastral parselin bulunduğu alanda oluşturulan imar parsellerinin kendilerine tahsis edilmediği, büyük bölümü kadastral parsellerinin dışında olan alanda oluşturulan ... ada, ... sayılı imar parselinin tahsis edildiği, kadastral parsellerinin düz bir alan olmasına rağmen çok eğimli olan ve kot farkının 30 metreyi bulduğu kendilerine tahsis edilen bu imar parselinin eşdeğer olmadığı, tamamen kadastral parselleri içinde kalacak şekilde oluşturulan ... ada, ... sayılı ve kısmen kadastral parsellerinin olduğu yerde oluşturulan ... ada, ... sayılı imar parsellerinin dışarıdan getirilen kadastral parsel maliklerine tahsis edildiği, böylece daha değerli olan bu imar parsellerinin maliklerine rant sağlandığı, öte yandan kadastral parsellerinin olduğu yerde (... ada, ..., ... ve ... sayılı parsellerin yerine) müstakil bir imar parselinin oluşturularak kendilerine tahsis edilmesinin mümkün olduğu ileri sürülerek dava açmışlardır.
 
@@ -207,6 +221,8 @@ Dava konusu 24.01.2023 tarihli parselasyon işlemin onaylanmasından sonra İsta
 
 ## Danıştay 6. D. 2021/5829 E., 2025/4156 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1188069300)
+
 İlk Derece Mahkemesi kararının özeti: ... İdare Mahkemesince verilen ... tarih ve E:..., K:... sayılı kararda; yerinde yaptırılan keşif ve bilirkişi incelemesi sonucu düzenlenen rapor ile dosyadaki bilgi ve belgelerin birlikte değerlendirilmesinden, dava konusu parselasyon işleminin 3194 sayılı İmar Kanunu'nun 18.
 
 …
@@ -219,6 +235,8 @@ Davanın yukarıda özetlenen gerekçeyle reddine ilişkin Mahkeme kararına yö
 
 ## Danıştay 6. D. 2025/1339 E., 2025/4114 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1191586900)
+
 2577 sayılı İdari Yargılama Usulü Kanununun 27. maddesinin 2. fıkrasında ise, idari işlemin uygulanması halinde giderilmesi güç veya olanaksız zararların doğması ve idari işlemin açıkça hukuka aykırı olması koşullarının birlikte gerçekleşmesi durumunda yürütmenin durdurulmasına karar verileceği kuralı yer almıştır.
 
 …
@@ -227,6 +245,8 @@ Dava konusu işlemin uyuşmazlığa konu taşınmaz yönünden yönünden İPTAL
 
 ## Danıştay 6. D. 2022/2820 E., 2025/3920 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1191446800)
+
 2577 sayılı Kanun'a 6545 sayılı Kanunun 27. maddesiyle eklenen geçici 8. maddenin birinci fıkrasında ivedi yargılama usulü hariç olmak üzere bu Kanunla idari yargıda kanun yollarına ilişkin getirilen hükümlerin, 2576 sayılı Kanunun, bu Kanunla değişik 3. maddesine göre kurulan bölge idare mahkemelerinin tüm yurtta göreve başlayacakları tarihten sonra verilen kararlar hakkında uygulanacağı, bu tarihten önce verilmiş kararlar hakkında, kararın verildiği tarihte yürürlükte bulunan kanun yollarına ilişkin hükümlerin uygulanacağı belirtilmiştir. 07/11/2015 tarih ve 29525 sayılı Resmi Gazete'de yayımlanan "Bölge Adliye Mahkemeleri ve Bölge İdare Mahkemelerinin Tüm Yurtta Göreve Başlayacakları Tarihe İlişkin Karar" ile, Bölge İdare Mahkemelerinin 20/07/2016 tarihinde tüm yurtta görevlerine başlayacakları ilan edilmiş ve anılan tarihte Bölge İdare Mahkemeleri faaliyete başlamışlardır.
 
 …
@@ -234,6 +254,8 @@ Dava konusu işlemin uyuşmazlığa konu taşınmaz yönünden yönünden İPTAL
 Dava konusu işlemlerin yukarıda özetlenen gerekçeyle iptaline ilişkin Mahkeme kararına yönelik olarak yapılan istinaf başvurusunun parselasyon işlemine ilişkin kısmı yönünden reddi …
 
 ## Danıştay 6. D. 2024/3907 E., 2025/3806 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1191560000)
 
 Usul hukukunun en temel ilkelerinden biri olan "taleple bağlılık" ilkesi uyarınca, idari yargı mercilerinde açılan davalarda; İdare Mahkemelerinin, davacının istemi ile bağlı olduğu, istemi genişletecek veya daraltacak biçimde karar verilemeyeceği açıktır.
 

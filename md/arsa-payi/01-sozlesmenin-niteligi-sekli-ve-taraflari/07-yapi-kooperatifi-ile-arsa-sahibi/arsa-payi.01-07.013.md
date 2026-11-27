@@ -22,6 +22,8 @@ uyari: "Derleyenin seçtiği alıntılardır; kararın tamamı değildir. Künye
 
 ## Yargıtay 15. HD 2009/3366 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/854954500)
+
 Şu halde davaya esas alınan sözleşmenin okunabilir bir örneği temin edilerek öncelikle davacı ve onun yanında sözleşmede imzası olanların dışında inşaatın yapılacağı taşınmaz veya taşınmazlar üzerinde paydaş olan kişilerin tesbit edilmesi, daha sonra bu kişilerin davalı yüklenici kooperatif ile sözleşme yapıp yapmadıklarının, yapmadılarsa mevcut sözleşmeye muvafakat edip etmediklerinin araştırılması, yapılacak inceleme sonucu belirtilen koşulların bulunmadığının anlaşılması halinde sözleşme geçersiz olacağından davada sadece olumlu zarar niteliğinde tazminat istenmiş olmakla geçersiz sözleşmeye dayalı olarak bu tür zararların talep edilemeyeceği nazara alınıp, davanın reddi cihetine gidilmelidir.
 
 Yukarıda belirtilen koşulların varlığının saptanması, yani sözleşmenin geçerli ve halen ayakta olduğunun anlaşılması halinde ise davacı talebinin maddi ve yasal dayanakları gözönüne alınarak bir sonuca varılmalıdır. Konu bu yönden tetkik edildiğinde; 10.09.1999 günlü sözleşmenin 8. maddesinin (g) bendinde; yüklenici kooperatifin inşaatı temel atma tarihinden itibaren yirmidört ay içinde teslim etmesi kararlaştırılmış, 2. maddesinde; arsa sahibinin getireceği her 180 m2’lik arsasına karşılık 120 m2’lik brüt, 160 m2'lik arsasına karşılık 100 m2 brüt, 225 m2'lik arsasına karşılıkta 140 m2 brüt daire verileceği ifade edilmiş, bu ifade 8/g bendi kapsamında da tekrar edilmiştir.
@@ -34,6 +36,8 @@ SONUÇ:Yukarıda (1.) bendde açıklanan nedenlerle davalı vekilinin diğer tem
 
 ## Yargıtay 15. HD 2009/1534 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/855475300)
+
 Daire’miz bozma ilâmının IV. fıkrasında Hatice’ye ait daire ve ortak yerlerde eksik ve ayıplı imalât varsa tescilin bunların bedelinin ödenmesi şartına bağlanması gerektiği belirtilmiştir. Yanlar arasında Isparta 2. Noterliğinde düzenlenen 20.07.2001 gün 10956 yevmiye nolu düzenleme şeklinde gayrimenkul satış vaadi sözleşmesi ile 6.500 USD bedel karşılığı A Blok 4. kat arka bloktaki daireyi davalı-k.davacı ..., davacı-k.davalı kooperatiften satın almıştır. Aynı sözleşmede bu bedelden 5.000 USD’sinin alındığı, kalan 1.500 USD’sinin ödenmeyeceği, bunun karşılığında kooperatifin daire içinde yapılacak masraflara karışmayacağı, 1.500 USD’nin dairenin içerisinde yapılacak masrafları Hatice’nin yapmasından dolayı kendisine bırakıldığı kararlaştırılmıştır. Bu durumda kooperatifin sorumlu olacağı eksik ve kusurlu işlerin belirlenmesinde sözleşme hükümlerinin dikkate alınması zorunlu olduğundan ortak alanlardaki eksik ve kusurlu imalâtların davalı-karşı davacı arsa sahibinin hissesi oranında bedelinin ödenmesi koşuluyla kooperatif adına tescil kararı verilmelidir.
 
 …
@@ -41,6 +45,8 @@ Daire’miz bozma ilâmının IV. fıkrasında Hatice’ye ait daire ve ortak ye
 SONUÇ: Yukarıda (1.) bendde yazılı nedenlerle davacı-karşı davalı Kooperatifin diğer karar düzeltme taleplerinin reddine, (2.) bent uyarınca kabulü ile Daire’mizin 15.07.2008 gün 2007/6723 Esas 2008/4835 Karar sayılı ilâmının IV. fıkrası onbirinci satırında tescil olunmalıdır, kelimesinden sonra gelen “...’ye ait daire ve ortak yerlerde eksik ve ayıplı imalât varsa tescil bunların bedelinin ödenmesi şartına bağlanmalıdır." cümlesinin karardan çıkartılarak, yerine "Ortak yerlerde eksik ve ayıplı imalât varsa tescil bunların bedelinden davalı-k.davacı ...’nin hissesine isabet eden kısmının ödenmesi şartına bağlanmalıdır.” cümlesinin yazılmasına ve yerel mahkeme kararının diğer bozma sebeplerine ilaveten değişik bu gerekçeyle de BOZULMASINA …
 
 ## Yargıtay 15. HD 2009/761 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/853995900)
 
 Davacı İdris Niyazi Kıranoğlu davasında, Edremit 1. Noterliğince düzenleme şeklinde yapılan 17.02.1995 tarih ve 2951 yevmiye numaralı sözleşmenin geriye dönük olarak feshine ve 126.320,00 TL gecikme tazminatının davalı kooperatiften tahsiline karar verilmesini istemiş; davacı ...
 
@@ -53,6 +59,8 @@ Edremit 1. Noterliğince doğrudan düzenlenen 17.02.1995 tarih ve 2951 yevmiye 
 SONUÇ:Yukarıda (1.) bendde belirtilen nedenle taraf vekillerinin sair temyiz itirazlarının reddine, (2.) bendde gösterilen sebeple kararın taraflar yararına; (3.) bendde açıklanan sebeple de davacı-k.davalı arsa sahibi İdris Niyazi Kıranoğlu mirasçıları yararına BOZULMASINA …
 
 ## Yargıtay 15. HD 2009/695 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/853726100)
 
 Mahkemece, davalı yükleniciye ait alacağı kararlaştırılan (A) Blokdaki (2.) normal dairenin %47’sinin davacı arsa sahiplerine; %53’ünün davalı kooperatife ait olması gerektiğinin tespiti ile bu husustaki çekişmenin giderilmesine ve (78.750,00) YTL eksik ve kusurlu işler bedelinin, 16.06.2006 temerrüt tarihinden itibaren avans faiziyle davalıdan alınarak davacıya verilmesine; fazlaya ilişkin istemin reddine karar verilmiş, verilen karar taraf vekillerince temyiz edilmiştir.
 
@@ -68,6 +76,8 @@ Kaldı ki; resmi sözleşmenin, adi yazılı ya da sözlü sözleşme ile deği�
 SONUÇ:Yukarıda (1.) bendde belirtilen nedenlerle davacılar vekilinin tüm, davalı vekilinin sair temyiz itirazlarının reddine, (2.) bendde açıklanan sebeplerle davalı vekilinin diğer temyiz itirazlarının kabulüne ve kararın davalı yararına BOZULMASINA …
 
 ## Yargıtay 14. HD 2008/15884 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/856248800)
 
 Davacı, davalı arsa sahibi ... ile yüklenici ... İnşaat ve Ticaret Limited Şirketi arasında 15.02.1991 günlü arsa payı devri karşılığı inşaat yapım sözleşmesi bulunduğunu, yüklenilen işin sonradan diğer davalı S.S.Sahil Yalı Konut Yapı Kooperatifi’ne devredildiğini, kooperatifin üyesi olduğunu, çekilen kurada 24 numaralı bağımsız bölümün kendisine isabet ettiğini ancak, yüklenici ... Limited Şirketinin temsilcisi olan ...’nin arsa sahibinden sağladığı vekaletname ile 24 numaralı bağımsız bölümü dava dışı ... ’ya, bu kişinin de vekili olan ... eli ile davalı ...’e sattığını, yapılan satış işlemlerinin geçerli olmadığını ileri sürerek 24 numaralı bağımsız bölümün adına tescilini, olmadığı takdirde dava tarihindeki rayiç değerin tahsilini istemiştir.
 
@@ -86,6 +96,8 @@ SONUÇ: Yukarıda açıklanan nedenlerle, Dairemizin 18.07.2008 gün ve 2008/853
 
 ## Yargıtay 15. HD 2008/6543 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/857475500)
+
 Davacı 6285 ada 1 parsel üzerine inşaat yapılacak arsanın paydaşı olup sözleşme uyarınca kendisine 3 adet tam daire ile 1 adet dairenin %11 payının verilmesi gerekirken, davalı yüklenici kooperatifçe A Blok 1 nolu, D Blok 6 nolu daire dışında daire teslim edilmediğini, 3 ncü dairenin diğer davalılara teslim olunduğunu ileri sürerek C Blok 10 nolu dairenin kendisine ait olduğunun tespitini ve adına tapuya tescilini talep ve dava etmiştir.
 
 Davalı kooperatif cevabında sözkonusu dairenin önce davalılara tahsis edilmiş iken, yönetim kurulunun 17.11.2005 tarihli kararı ile işlemin iptâl edilerek davacı adına tahsis olunduğunu, paylaşımın arsa sahiplerinin kendi aralarında yapılması gerektiğini savunarak davanın reddini istemiş, diğer davalılar da iddianın yersiz olduğunu belirterek davanın reddini savunmuşlardır.
@@ -99,6 +111,8 @@ Diğer davalı ...’nin temyiz itirazlarına gelince; yanlar arasında imzalana
 SONUÇ:Yukarıda 1. bentte yazılı nedenlerle hükmün temyiz eden davalı ..., 2. bent uyarınca ise .... yararına BOZULMASINA …
 
 ## Yargıtay 15. HD 2008/6371 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/859363200)
 
 Davacı-birleşen davanın davalısı ... davasında; yanlar arasında 07.12.1987 tarihli sözleşme ile tarihsiz olarak yapılan ikinci sözleşme gereğince maliki bulunduğu ..., ..., ... mevkiinde bulunan (16) pafta numaralı ve (7242) parsel sayılı olarak tapuya tescilli taşınmaza inşaat yapmayı ve (16) daireli (B1 bloku) 31.12.1995 tarihinde teslimini yüklenmiş olmasına karşın davalı Kooperatifin teslim etmediğini ileri sürerek, sözleşmelerin geriye etkili olarak feshine karar verilmesini istemiştir.
 
@@ -120,6 +134,8 @@ SONUÇ:Yukarıda açıklanan sebeplerle davacı-birleşen davanın davalısı ..
 
 ## Yargıtay 15. HD 2008/4970 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/857502200)
+
 Mahkemece, davalılar ... ve ... hakkındaki davanın husumet yönünden reddine; davalı ... yönünden davanın kısmen kabulüyle (139.488,33 YTL) alacağın dava tarihinden itibaren yasal faiziyle birlikte bu davalıdan alınarak davacı kooperatife verilmesine; fazlaya ilişkin istemin reddine karar verilmiş ve verilen karar davacı vekilince temyiz edilmiştir.
 
 …
@@ -132,6 +148,8 @@ O halde, mahkemece bu hususlar gözden kaçırılarak 31.12.2003 tarihi itibariy
 SONUÇ: Yukarıda (1.) bentte belirtilen nedenle davacı vekilinin sair temyiz itirazlarının reddine, (2.) bentte açıklanan nedenlerle davacı vekilinin diğer temyiz itirazlarının kabulüne ve kararın davacı yararına BOZULMASINA …
 
 ## Yargıtay 15. HD 2008/4109 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/859434300)
 
 Davacı yüklenici, davalı kooperatif ile imzaladıkları 27.10.1997 tarihli kat karşılığı inşaat sözleşmesi uyarınca mülkiyeti koopetaife ait Ankara, Etimesgut İlçesi 46161 ada 1 parsel sayılı taşınmaz üzerine A-B-C-D bloklardan oluşan toplam 104 adet daire yapımını üstlendiğini, inşaatlar belirli bir aşamaya getirildikten sonra davalı kooperatifin kendisini vekâletten azlederek 13.11.2003 tarihinde sözleşmeyi feshettiğini, feshin hiçbir haklı nedene dayanmadığını ileri sürerek tesbit raporuna göre inşaatların yapım bedeli karşılığı şimdilik 500 milyar TL ile kazanç kaybı, malzeme bedeli, şantiye elektriği için yapılan masraf ve şantiye binası bedeli olmak üzere toplam 564.975.510.000 TL.nin fesih tarihinden itibaren avans faizi ile tahsilini istemiştir.
 
@@ -150,6 +168,8 @@ SONUÇ:Yukarıda 1. bentte yazılı nedenlerle davacı karşı davalının sair 
 
 ## Yargıtay 15. HD 2007/8251 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/860442500)
+
 Dava, arsa payı karşılığı inşaat yapım sözleşmesi uyarınca tapu iptâli ve tescil istemine ilişkindir.
 
 …
@@ -163,6 +183,8 @@ SONUÇ:Yukarıda açıklanan nedenlerle temyiz itirazlarının kabulü ile hükm
 
 ## Yargıtay 15. HD 2007/7853 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/861172700)
+
 Yapılacak iş; ... Mahallesi 25741 ada 2, 25760 ada 2 ve 6 numaralı parseller yönünden arsa sahipleri ile yüklenici şirket arasında yapılan sözleşmeler ile yüklenici şirket ile davacı kooperatif arasındaki sözleşme ve taahhütname ve yüklenici şirket ile davacı kooperatif arasındaki sözleşmenin alacağın temliki niteliğinde olduğu gözönüne alınarak, bilirkişiden gerekirse yerinde yeniden keşif yapılarak ek rapor alınmak suretiyle, davalı yüklenici şirketin tescil hakkı kazanıp kazanmadığının belirlenmesinden, davacının istemlerinin bunun sonucuna göre değerlendirilmesinden ve sonucuna göre karar verilmesinden ibarettir.
 
 …
@@ -171,6 +193,8 @@ SONUÇ:Yukarıda 1. bentte açıklanan nedenlerle davalı yüklenici şirketin t
 
 ## Yargıtay 15. HD 2007/7677 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/860615000)
+
 Dosyada bulunan 29.01.1996 tarihli kat karşılığı inşaat sözleşmesinin 8.maddesinde tapuların inşaatların kabası bittiğinde ipotek konulması kaydıyla kooperatife verileceği belirtilmiştir. Mahkemece arsa sahiplerine verilecek bağımsız bölümlerin bulundukları parselin tapu kaydına üst sınır teminat ipoteği (TMK’nın 851 ve 882.maddeleri) tesis edilmeden, arsa sahiplerine ait tapu kayıtlarının iptâl edilerek davacı yüklenici kooperatif adına tescil karar verilmesi doğru olmamıştır.
 
 …
@@ -178,6 +202,8 @@ Dosyada bulunan 29.01.1996 tarihli kat karşılığı inşaat sözleşmesinin 8.
 SONUÇ:Yukarıda 1.bentte açıklanan nedenlerle arsa sahiplerinin sair temyiz itirazlarının reddine, 2.bent uyarınca kararın arsa sahipleri yararına BOZULMASINA …
 
 ## Yargıtay 15. HD 2007/6976 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/859411400)
 
 Yüklenici davalı kooperatif, 2386 ada 4 parsel sayılı olarak tapuya kayıtlı taşınmaza az yukarıda belirtilen kat karşılığı inşaat sözleşmesi gereğince inşaat yapmayı yüklenmiştir. (4) parselin tapu kaydına göre, taşınmaza davacı ..., dava dışı ... ve ... “paylı mülkiyet şeklinde” malik bulunmaktadırlar. Paylı mülkiyete konu taşınmaza, olağan şekilde kullanmanın gerekli kıldığı ölçüyü aşan yapı işlerine girişilmesi, Medeni Yasa’nın 692. maddesi gereğince “olağanüstü tasarruf sayıldığından” oybirliği ile aksi kararlaştırılmış olmadıkça, bütün paydaşların kabulüne bağlıdır. Belirtilen nitelikte inşaat yapımına ilişkin sözleşmenin yapılması veya yapılan sözleşmenin feshi için dava açılması da “olağanüstü tasarruf” sayıldığından yine bütün paydaşların oybirliğiyle karar almalarını gerektirir.
 
@@ -188,6 +214,8 @@ Tüm paydaşlar tarafından kat karşılığı inşaat sözleşmesi yapıldığ�
 SONUÇ:Yukarıda açıklanan sebeple davacı vekilinin temyiz itirazlarının kabulüne ve kararın davacı yararına BOZULMASINA …
 
 ## Yargıtay 15. HD 2007/6703 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/861149300)
 
 Dava, arsa payı karşılığı inşaat yapım sözleşmesi uyarınca tapu iptâli ve tescil istemine ilişkindir.
 
@@ -201,6 +229,8 @@ SONUÇ:Yukarıda açıklanan nedenlerle temyiz itirazlarının kabulü ile hükm
 
 ## Yargıtay 15. HD 2007/5477 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/859454000)
+
 Mersin ...Noterliğinde düzenlenen 26.01.1989 tarihli Düzenleme Biçiminde Kat Karşılığı İnşaat Sözleşmesine göre davacılar arsa sahibi, davalı SS Madımak Yapı Kooperatifi ise yüklenicidir. Sözkonusu sözleşme ile davalı kooperatif davacıların da hissedar olduğu taşınmazlar üzerine toplam 84 adet konut inşa etmeyi üstlenmişler sözleşmede konutların paylaşım şekli de belirtilmiştir. Sözleşmedeki paylaşım şekline uygun olarak noterde düzenleme şeklinde kur’a zaptı tanzim edilmiş A1 Blok 8 nolu daire tapuya kooperatif üyelerinden ...’na isabet etmiştir. Tapunun oluşturulması sırasında bloklardaki numarataj değiştirildiğinden ...u’na isabet eden daire tapuya A1 Blok 7 nolu daire olarak işlenmiş davalılar ... ve... bu daireyi 03.08.1999 tarihinde tapu maliki ....’ndan iktisap etmişlerdir. A1 Blok 7 nolu daire tapuda davalılar adına kayıtlı ise de bu dairede fiilen davacılar ikamet etmektedir.
 Davacılar fiili durumun tapu kaydına uygun hale getirilmesini ve sözleşmeye göre kendilerine ait olan A1 Blok 7 nolu daire tapusunun iptâli ile adlarına tescilini talep ettiklerinden uyuşmazlık davacılar ile davalı kooperatif arasında akdedilen 26.01.1988 tarihli kat karşılığı inşaat sözleşmesinden kaynaklanmaktadır. Hal böyle iken, uyuşmazlığın sözleşme hükümleri de nazara alınarak işin esasına girilmek suretiyle çözümlenmesi yerine ihtilafın Kat Mülkiyeti Kanununun uygulanmasından kaynaklandığından bahisle görevsizlik kararı verilmesi doğru olmamıştır.
 
@@ -209,6 +239,8 @@ Davacılar fiili durumun tapu kaydına uygun hale getirilmesini ve sözleşmeye 
 SONUÇ:Yukarıda açıklanan nedenlerle yerel mahkeme kararının BOZULMASINA …
 
 ## Yargıtay 15. HD 2007/1398 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/858405200)
 
 28.08.1991 tarihli sözleşmenin 4.maddesi; “inşaat ruhsatı alındıktan sonra mal sahipleriyle ilgili gayrimenkulün tapusunu mal sahiplerine ait yerlerin tamamının teslimine kadar ipotek koydurarak vereceklerdir” hükmünü içermektedir. Sözleşmenin belirtilen bu hükmüne göre, yüklenici davacı kooperatifin, davalı arsa sahibinin sözleşme konusu taşınmazlardaki pay kayıtlarının iptâl ve tescilini isteyebilmesi için, ana sözleşme hükümleri gereğince verilmesi gereken bağımsız bölümleri sözleşme hükümlerine uygun olarak imâl edip tesliminden önce arsa sahibi yararına “teminat ipoteği” tesis edilmesi zorunludur. Diğer yandan, aynı sözleşmenin 5.maddesi uyarınca; arsa sahiplerine verilmesi gereken dairelerin tapu ve iskân ruhsatı masraflarının ödenmesini davacı kooperatif yüklenmiştir.
 

@@ -21,6 +21,8 @@ uyari: "Derleyenin seçtiği alıntılardır; kararın tamamı değildir. Künye
 
 ## Yargıtay HGK 2025/744 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1200901900)
+
 Davacılar vekili dava dilekçesinde; müvekkilleri ile davalı arasında 30.07.2012 tarihli arsa payı karşılığı inşaat sözleşmesi düzenlendiğini, sözleşmede inşaat süresinin ruhsat tarihinden itibaren on sekiz ay olarak belirlendiğini, inşaat ruhsatının 29.05.2013 tarihinde alındığını ve müvekkillerine isabet eden bağımsız bölümlerin on sekiz ayın sonunda en geç 29.11.2014 tarihinde teslim edilmesi gerektiğini, ancak davalının sözleşme tarihinden itibaren otuz yedi ay geçmesine rağmen müvekkilerine bağımsız bölümleri teslim etmediğini, sözleşmenin hukuki şartlar başlıklı 6. maddesine göre davalı yüklenicinin inşaat süresini aşarsa arsa sahiplerine kalacak olan on dokuz dairenin her biri için rayiç değer üzerinden kira ödemeyi kabul ve taahhüt ettiğini, müvekkillerinin davalıdan mahrum kalınan kira bedellerinin ödenmesi için talepte bulunmasına rağmen davalının ödeme yapmadığını, her bir müvekkiline düşen bağımsız bölüm başına aylık ortalama 700,00 TL üzerinden hesaplanmak üzere otuz yedi aylık kira bedelinin davalı tarafından ödenmesi gerektiğini ileri sürerek fazlaya ilişkin hakları saklı kalmak kaydıyla her bir müvekkil açısından şimdilik ayrı ayrı 10.000,00 TL olmak üzere toplam
 60.000,00 TL mahrum kalınan kira bedelinin yasal faiziyle birlikte davalıdan tahsiline karar verilmesini talep etmiş; 16.01.2019 havale ve harç tarihli ıslah dilekçesinde, davacı ... için 26.136,00 TL, ... için 39.204,00 TL, ... için 32.670,00 TL, ... için 52.272,00 TL, ... için 32.670,00 TL, ... için 39.204,00 TL olmak üzere toplam 222.156,00 TL gecikme tazminatının davalıdan tahsilini istemiştir.
 
@@ -38,6 +40,8 @@ Davalı vekilinin temyiz itirazlarının kabulü ile direnme kararının yukarı
 
 ## Yargıtay HGK 2022/180 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/762868100)
+
 Resmî geçerlilik şekline uygun olarak noterde re’sen düzenlenen ve taraflar için bağlayıcı olan kat karşılığı inşaat sözleşmesinin 23. maddesinde, inşaatın teslim süresi yirmi ay olarak belirlenmiş ve yüklenicinin bu sürede inşaatı noksansız olarak bitirip arsa sahiplerine ait bağımsız bölümleri teslim edeceği; 28. maddesinde, yüklenicinin iskân ruhsatını almakla yükümlü olduğu; 32. maddesinde ise, arsa sahiplerinin yapı denetim firmaları ile sözleşme imzalayacağı, yapı denetim ücretlerinin tamamının yükleniciye ait olacağı kararlaştırılmış; aşamalı tapu devri ile son iki adet dairenin satış yetkisinin binanın iskânı alındığında yükleniciye verileceği düzenlenmiştir.
 
 …
@@ -45,6 +49,8 @@ Resmî geçerlilik şekline uygun olarak noterde re’sen düzenlenen ve tarafla
 Asıl ve birleşen davada davacılar vekilinin temyiz itirazlarının kabulü ile direnme kararının yukarıda gösterilen değişik gerekçe ve nedenlerden dolayı, 6217 sayılı Kanun’un 30. maddesi ile 6100 sayılı Hukuk Muhakemeleri Kanunu’na eklenen “Geçici Madde 3” atfıyla uygulanmakta olan 1086 sayılı Hukuk Usulü Muhakemeleri Kanunu’nun 429. maddesi gereğince BOZULMASINA …
 
 ## Yargıtay HGK 2021/1702 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/726537900)
 
 Arsa payı karşılığı inşaat yapım sözleşmesinde yüklenici özen borcunun gereği olarak inşaatı sözleşme ve ekleri, tasdikli projesi, yapı ruhsatı ve imara uygun olarak yapıp süresi içinde teslim etmekle yükümlüdür. Yüklenicinin edimini zamanında, tam ve eksiksiz olarak ifa etmemesi hâlinde, arsa sahibi mülga BK’nın 106/2. (TBK m. 125) maddesine göre gecikme sebebiyle uğradığı zararlarına karşılık gecikme tazminatı isteyebilir. Gecikme tazminatı istenebilmesi için yüklenicinin borcunu ifada temerrüde düşmesi, arsa sahibinin ifanın gecikmesinden kaynaklanan zararının gerçekleşmesi ve zararın doğmasında yüklenicinin kusurlu olması gerekir.
 
@@ -55,6 +61,8 @@ Arsa sahibince istenebilecek tazminat, gecikme sebebiyle uğradığı tüm zarar
 Asıl ve birleşen davanın davalısı yüklenici vekilinin temyiz itirazlarının kabulü ile direnme kararının Özel Daire bozma kararında gösterilen nedenlerden dolayı, 6217 sayılı Kanun’un 30. maddesi ile 6100 sayılı Hukuk Muhakemeleri Kanunu’na eklenen “Geçici Madde 3” atfıyla uygulanmakta olan 1086 sayılı Hukuk Usulü Muhakemeleri Kanunu’nun 429. maddesi gereğince BOZULMASINA …
 
 ## Yargıtay HGK 2015/2331 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/112815200)
 
 Davalı kooperatif vekili, davacı yanın iddia ettiği gibi müvekkillerinin arsa sahibine 31 daire verilmesi taahhüdü olmadığını, fiilen kooperatife üye toplanamadığı veya üyelerin birçoğu ayrıldığı için 64 adet daire ve 6 adet dükkan inşa edilebileceğini, davacı adına her ne kadar kat irtifakı kurularak 31 adet daire tescil edilmişse de, yerinde böyle bir inşaat bulunmadığını, davacıların murisinin 12.8 dairesi olabileceğini, kaldı ki davacıların murisine 205.920,00 TL nakit ve gecikme karşılığı olarak bir adet daire de verdiklerini, davacıların dairelerinin bir iki lavabo dışında hazır olduğunu, haksız takibe de itiraz etmelerinin normal olduğunu savunarak, davanın reddini talep etmiştir.
 
@@ -86,6 +94,8 @@ Bu durumda mahkemece yapılması gereken iş, bilirkişi heyetinden ek rapor al�
 
 ## Yargıtay 6. HD 2025/2876 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1187816200)
+
 Her iki madde birlikte değerlendirildiğinde, davacının son üç bağımsız bölümü isteyebilmesi için iskân ruhsatını alması yeterli olmayıp, varsa diğer eksiklikleri de tamamlaması gerektiği, bu halde önce iki bağımsız bölümü alabileceği, son bağımsız bölümün ise kesin kabul işlemi yapıldığında verileceği anlaşılmaktadır. Davalı arsa sahipleri dava konusu olan 4 parsel, 7. kat, 16 numaralı bağımsız bölümün davacının sözlü talimatı üzerine 26.03.2003 tarihinde ...'a tapuda devredildiğini, diğer dava konusu bağımsız bölümlerin ise sözleşmenin 6/d maddesi uyarınca havuz tamamlanıp kesin kabul işlemi yapılmadığından davacıya verilemeyeceğini savunmuşlardır. Dairemizin bozma kararı doğrultusunda 16 numaralı bağımsız bölümün devredildiği ... dinlenmiş ve bağımsız bölümü davacı şirket yetkilisinden satın aldığını beyan etmiştir. Aynı gün yükleniciye verilecek iki adet bağımsız bölümün de tapuda arka arkaya yüklenicinin gösterdiği kişilere devredildiği dikkate alındığında tanık beyanı doğrultusunda bu daireye ilişkin bedel talebinin reddi doğrudur.
 Sözleşmenin 4 ve 6/d maddeleri uyarınca havuz inşaatını tamamlamayan ve sözleşme kapsamında kesin kabulü gerçekleştirmeyen davacıya diğer dairelerin verilmemesinde arsa sahipleri haklıdır. Zira karşılıklı edimleri içeren sözleşmelerde bir taraf kendi edimin yerine getirmeden karşı taraftan edimin ifasını isteyemez. İstemesi halinde TBK'nın 97. maddesi gereğince karşı tarafın ödemezlik itirazında bulunma hakkı vardır. Bu itibarla, asıl davada davacının gecikme tazminatı istemi kabul edilemez. İlk Derece Mahkemesince, davalı arsa sahiplerinin daireleri devretmemekte haklı olup olmadığı değerlendirilmeksizin, asıl davada davacının gecikme tazminatı talebinin kabulüne karar verilmesi doğru olmamıştır.
 
@@ -94,6 +104,8 @@ Sözleşmenin 4 ve 6/d maddeleri uyarınca havuz inşaatını tamamlamayan ve s�
 Yukarıda 2-3 ve 4 numaralı bentlerde açıklanan nedenlerle taraf vekillerinin asıl ve birleşen davalara ilişkin diğer temyiz itirazlarının kabulü ile, temyiz olunan mahkeme kararının BOZULMASINA …
 
 ## Yargıtay 6. HD 2025/2155 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1158544400)
 
 Davalılar vekilleri, davanın reddini istemişlerdir.
 
@@ -107,6 +119,8 @@ Bu birleşen davalarda arsa sahiplerince, yüklenici şirketin daireleri, sözle
 
 ## Yargıtay 6. HD 2024/4269 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1112021200)
+
 İlk derece mahkemesince, yüklenicinin edimini yerine getirmesine rağmen davalı arsa sahiplerinin bağımsız bölüm tapularını davacılara geçirmediği gerekçesi ile asıl davanın kabulüne, tapu iptali ve tescili talep edilen bir kısım taşınmazlar yargılama sırasında devredildiğinden bu taşınmazlar bakımından dava konusuz kaldığından karar verilmesine yer olmadığına, diğer bağımsız bölümler yönünden devir koşulları gerçekleştiği gerekçesi ile birleşen davanın kabulüne karar verilmiştir.
 
 …
@@ -119,6 +133,8 @@ SONUÇ: Yukarıda (1) no.lu bentte açıklanan nedenlerle asıl ve birleşen dav
 
 ## Yargıtay 6. HD 2024/4111 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1116930700)
+
 İlk Derece Mahkemesince; kat karşılığı inşaat sözleşmesinden kaynaklı tapu iptal ve tescil ve tazminat talepli davada, taraflar arasında düzenlenen arsa payı karşılığı inşaat sözleşmesinde ipotek bedelinin daire karşılığı kaldırılması hususunda hüküm bulunmadığı, resmi sözleşmenin aksine şartların kabul edilemeyeceği, sözleşmede kararlaştırılan ipotek kaldırma bedelinden davalı yüklenicinin sorumlu olduğu, ipotek bedelinin haricen ödendiği iddiasının ispat edilemediği, bu sebeple;
 100,00 TL ipotek kaldırma bedelinin dava tarihinden, 49.900,00 TL ipotek kaldırma bedelinin ıslah tarihi olan 28/01/2019 tarihinden işleyecek yasal faizi ile birlikte davalı ...'dan alınarak davacıya verilmesi gerektiği, davalı ... yönünden inşaatın teslim tarihi olan 04/10/2014 tarihinden, dava tarihine kadar A blok, 3,4 ve 5 no.lu bağımsız bölüm için gecikme tazminatından sorumluluğunun doğduğu, taşınmazın daha önceden teslim edildiği olgusunun ispatlanamadığı, davalı ... ve davalı ... tarafından eksik ve kusurlu işler bedelinin depo edildiği, bu sebeple bu davalılar yönünden tapu iptali ve tescil talebinin reddinin gerektiği, davacının kira alacağı talebinin, sözleşmenin geriye etkili feshi olanaklı olmadığından reddinin gerektiği, malvarlığına ilişkin davalarda, sözleşmeye aykırılığın, davacının kişilik haklarına saldırı niteliğinde değerlendirilemeyeceğinden manevi tazminat talebinin reddinin gerektiği gerekçeleriyle davanın kısmen kabulüne karar verilmiştir.
 
@@ -129,6 +145,8 @@ Kamu düzenine aykırılık hallerinin re'sen gözetildiği, istinaf nedenleriyl
 SONUÇ: Yukarıda açıklanan nedenlerle Bursa Bölge Adliye Mahkemesi 10. Hukuk Dairesi kararına ilişkin davacı vekili ve davalılar ..., Onaylı Emlak Otomotiv Limited Şirketi ile ..., ... ve İkbal Mühendislik Dekorasyon Limited Şirketi vekilinin tüm temyiz istemlerinin reddiyle usul ve kanuna uygun bulunan kararın ONANMASINA …
 
 ## Yargıtay 6. HD 2024/2325 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1095565600)
 
 Davacı vekili dava dilekçesinde özetle; arsa sahibi davalı ... ve diğer davalıların murisi ... ile yüklenici olan müvekkili arasında 27.05.2005 tarihinde imzalanan arsa payı karşılığı inşaat sözleşmesine göre müvekkiline %50 arsa payının devredilmesi gerektiğini, müvekkilinin binayı tamamlama edimini yerine getirdiğini, davalıların 8 yılı aşkındır binada oturduklarını, kat mülkiyetinin kurulması için 15.05.2009 tarihli ihtarname gönderdiklerini, davalıların işlem yapmaya yanaşmadıklarını, sözleşmede davalıların edimlerini yerine getirmemesi halinde cezai şart öngörüldüğünü ileri sürerek, tapuda davalı ... adına kayıtlı hissenin 16/800 hissesi, davalı ... adına kaytlı hissenin 8/800 hissesi ile diğer davalılar adına kayıtlı hisselerin ayrı ayrı 3/800 hissesinin iptali ile müvekkili adına kaydı ile şimdilik 1.000,00 TL cezai şartın tahsilini talep etmiştir.
 
@@ -148,6 +166,8 @@ Davalılar vekillerinin Bölge Adliye Mahkemesi kararına yönelik temyiz itiraz
 
 ## Yargıtay 6. HD 2024/1566 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1094649900)
+
 İlk Derece Mahkemesince; taraflar arasındaki arsa payı karşılığı inşaat sözleşmesine dayalı tapu iptali ve tescil ile gecikme tazminatının tahsili davasında, sözleşme uyarınca davacı arsa sahibine düşen 1 no.lu bağımsız bölüm tapusunun en geç 13.05.2016 tarihinde davacıya devredilmesi gerekirken, davalı ... adına tescil yapılmasının hukuka aykırı olduğu, davacı ile davalı ... arasında tescili gerektiren vekalet ilişkisi bulunmadığı gerekçesiyle, davanın kısmen kabulü ile 1 no.lu bağımsız bölümün davacı adına tesciline, toplam 23.158,32 TL gecikme tazminatının davalıdan tahsiline karar verilmiştir.
 
 …
@@ -155,6 +175,8 @@ Davalılar vekillerinin Bölge Adliye Mahkemesi kararına yönelik temyiz itiraz
 SONUÇ: Yukarıda açıklanan nedenlerle, Diyarbakır Bölge Adliye Mahkemesi 4. Hukuk Dairesi kararına ilişkin davalılar vekilinin tüm temyiz sebeplerinin reddiyle usul ve kanuna uygun bulunan hükmün ONANMASINA …
 
 ## Yargıtay 6. HD 2024/1470 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1094567100)
 
 İlk Derece Mahkemesince bozmaya uyularak yeniden yapılan yargılama sonucunda; asıl davanın kısmen kabulüne, karşı davanın kabulüne karar verilmiştir.
 
@@ -176,6 +198,8 @@ Yukarıda paragrafta açıklanan asıl dava davacıları-karşı dava davalılar
 
 ## Yargıtay 6. HD 2024/1221 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1083158700)
+
 İlk Derece Mahkemesi kararı asıl davada davacı-birleşen davada davalı ... vekilince duruşmalı olarak temyiz edilmekle; kesinlik, süre, temyiz şartı ve diğer usul eksiklikleri yönünden yapılan ön inceleme sonucunda, 30.04.2024 tarihinde duruşma yapılmasına ve duruşma gününün taraflara davetiye ile bildirilmesine karar verilmiştir.
 
 …
@@ -187,6 +211,8 @@ Bozma ilamına uyularak yapılan yargılama sonucunda; eksik ve ayıplı imalat 
 SONUÇ: Yukarıda açıklanan nedenlerle davacı ... vekilinin tüm temyiz sebeplerinin reddiyle usul ve kanuna uygun bulunan hükmün ONANMASINA …
 
 ## Yargıtay 6. HD 2024/1142 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1083309900)
 
 Davacı vekili; müvekkili ile davalı arasında arsa payı karşılığı inşaat sözleşmesi imzalandığını, sözleşmede müvekkiline 3 adet daire verileceğini, dairelerin 03.02.2017 tarihinde teslim edileceğini, edilemez ise her ay için kira ödeneceğinin kararlaştırıldığını, ancak davalının bağımsız bölümleri teslim etmediğini, bunun üzerine davalı aleyhine icra takibi başlatıldığını, davalının takibe haksız olarak itiraz ettiğini ileri sürerek, itirazın iptaline ve % 20'sinden az olmamak üzere davalı aleyhine icra inkar tazminatına hükmedilmesine karar verilmesini talep ve dava etmiştir.
 
@@ -210,6 +236,8 @@ Gecikme tazminatı kural olarak sözleşmede kararlaştırılan teslim tarihinde
 
 ## Yargıtay 6. HD 2023/4211 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/989771400)
+
 Davacılar vekili dava dilekçesinde; davacıların murisi ...ın da arasında bulunduğu arsa sahipleri ile davalı yüklenici firma arasında 07.06.2006 tarihinde arsa payı karşılığı inşaat sözleşmesi imzalandığını, sözleşmede davacıların murisi ...a 200 m² alana sahip 2 adet dükkanın tesliminin kararlaştırıldığını, davanın açıldığı günden bugüne kadar henüz dükkanları teslim etmediğini, sözleşme gereği her bir dükkan için aylık 1.500,00 TL kira tazminatının verilmesinin kararlaştırıldığını, 23.10.2010 tarihinden takip tarihi 16.05.2018 tarihine kadar toplam 218.250,00 TL kira tazminatının ödenmesi için Bursa 16. İcra Müdürlüğünün 2018/6280 E.
 
 …
@@ -226,6 +254,8 @@ Bu durumda 24.03.2010 tarihli ihtarnamenin, 24.10.2010-16.05.2018 tarihleri aras
 2\. bentte açıklanan nedenlerle, İlk Derece Mahkemesi kararına karşı istinaf başvurusunun esastan reddine ilişkin Bölge Adliye Mahkemesi kararının ORTADAN KALDIRILMASINA …
 
 ## Yargıtay 6. HD 2023/3825 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/990861500)
 
 Davacı arsa sahipleri vekili dava dilekçesinde özetle, taraflar arasında imzalanan 07.04.2006 tarihli arsa payı karşılığı inşaat sözleşmesine konu inşaatın bitirilmediğini ve dairelerin teslim edilmediğini, yapı denetim ücreti ödeme yükümlülüğünün davalıya ait olduğunu, eksik işler olduğuna dair delil tespiti yaptırıldığını, davalının davacılara düşen daireleri danışıklı şekilde sattığını ve kiraya verdiğini ileri sürerek, sözleşmenin ileriye etkili feshi ile yüklenicinin edimine göre devri gereken bağımsız bölümün tespitini, müdahalenin men'ini, fazlaya ilişkin hakları saklı kalmak kaydıyla ... için 5.000,00 TL, ... için 2.000,00 TL kira bedelinin ve sözleşmenin feshi nedeniyle 2.000,00 TL müspet zarar ve ayıplı işler bedelinin tahsilini talep ve dava etmiş, ıslah yoluyla talebini 658.648,75 TL'ye yükseltmiştir., …
 

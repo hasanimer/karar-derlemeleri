@@ -21,6 +21,8 @@ uyari: "Derleyenin seçtiği alıntılardır; kararın tamamı değildir. Künye
 
 ## Yargıtay 14. HD 2006/1235 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/851045300)
+
 Mahkemece, bina bitirilerek iskan ruhsatı alınmış hali ile arsa sahiplerine teslim edilmediğinden yüklenicilerin tescil istemiyle açtıkları davanın reddine, sözleşme 16.4.1999 tarihli ihtar ile feshedildiğinden bu tarihten sonra inşaatta eksikliklerin giderilmesi amacıyla yapılan harcamalar istenemeyeceğinden bu harcamalarla ilgili davanın reddine fesihten önce arsa sahibince ASKİ.ye yapılan harcama tutarı 272.201.400 liranın davacı ve karşı davalılardan tahsiline karar verilmiş, arsa sahiplerinin elatmasının önlenmesi ve geç teslimden ötürü kira kaybı zararı istemleri ile ilgili bir hüküm kurulmamış, hükmü taraflar temyiz etmiştir.
 
 …
@@ -33,6 +35,8 @@ Bu zarar alacaklının mal varlığının sözleşmeden dönmeden sonra içinde 
 SONUÇ: Yukarıda (1) bentte yazılı nedenlerle davacı-karşı davalının temyiz itirazlarının reddine, (2) bentte yazılı nedenlerle davalı karşı davacının temyiz itirazlarının kabulü ile hükmün BOZULMASINA …
 
 ## Kayseri BAM 4. HD 2026/228 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1195865000)
 
 Davalı vekil cevap dilekçesinde özetle:
 
@@ -60,6 +64,8 @@ Kayseri Asliye Ticaret 1.Mahkemesinin 2021/52 Esas, 2024/769 Karar sayılı kara
 
 ## Ankara BAM 27. HD 2025/639 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1147424500)
+
 Davalı vekili; “Yakutiye (Erzurum) Kentsel Dönüşüm” projesi 3. ve 8.
 
 …
@@ -74,6 +80,8 @@ Menfi zarar kavramına, sözleşmenin yapılmasına ilişkin giderler, sözleşm
 
 ## Ankara BAM 24. HD 2025/219 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1119604800)
+
 Davanın dayanağı olan icra takibine konu alacağın Ankara 1. Asliye Ticaret Mahkemesinin 2010/681 E. 2013/258 K. sayılı dosyası kapsamında yapılan yargılama sonucunda taleple bağlı kalınarak hükme bağlanan kar kaybı alacağının bakiye kısmına ilişkin olduğu, ancak takibe dayanak kılınan Ankara 1. Asliye Ticaret Mahkemesinin 2010/681 E. 2013/258 K. sayılı kararının Yargıtay 3. Hukuk Dairesinin 23/06/2014 tarihli ve 2014/10780 E. 2014/10005 K. sayılı kararı ile "..davacı yüklenici, sebepsiz zenginleşme hükümlerine göre dava tarihi itibariyle gerçekleştirdiği imalat bedelini isteyebilir. Yukarıda ayrıntılı olarak açıklandığı gibi, kâr kaybı müspet zarar kapsamındaki alacak kalemlerinden olup menfi zarar olarak nitelendirilemez ve akdin feshi halinde de istenmesi mümkün değildir. Mahkemece, yanılgılı değerlendirme ile imalat bedeli ile birlikte kar kaybına da hükmedilmesi doğru görülmemiştir" gerekçesiyle bozulduğu, bozma sonrasında Ankara 1.
 ATM'nin 2015/235 E. sayılı dosyasında yapılan yargılamada önceki kararda direnilmesine karar verildiği ancak Yargıtay Hukuk Genel Kurulunun, 28/09/2021 tarihli, 2017/3-2615 E., 2021/1102 K. sayılı ilamı ile "..davacının davalı yükleniciye gönderdiği 15/06/2010 tarihli ihtarname ile sözleşmenin ifa edilmesinin kendileri açısından imkânsız hâle geldiğini belirtip imalat bedelini talep etmesi nedeniyle sözleşmeyi geriye dönük olarak feshettiği, dolayısıyla müspet zararın istenemeyeceği, kâr mahrumiyetine ilişkin talebin reddi gerektiği" gerekçesiyle direnme kararının bozulmasına ve akabinde davacı tarafın karar düzeltme talebinin reddine karar verildiği dosya kapsamı ile sabittir.
 
@@ -85,6 +93,8 @@ Davacı vekilinin istinaf talebinin HMK.'nun 353/1/b-1.maddesi gereğince ESASTA
 
 ## İstanbul BAM 13. HD 2024/1595 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1078730700)
+
 Mahkemece 5 nolu duruşmanın 6 nolu ara kararı ile aynı duruşmada taraf delillerinin toplanması yönünde verilen kararların yerine getirilmesinden sonra keşif ve bilirkişi incelemesi hususunun değerlendirilmesine karar verildiği, HMK'nın 146. maddesi uyarınca Mahkemece, taraflarca gösterilmiş olan delillerin incelenmesinden sonra, davanın muhakeme ve hüküm için yeterli derecede aydınlandığının anlaşılması halinde tahkikatın bittiğinin taraflara bildirilebileceği, bu minvalde İlk derece mahkemesince keşif ve bilirkişi incelemesi yapılmaksızın toplanan delillerin uyuşmazlığın çözümü için yeterli görülmesi ile 6 nolu duruşmada tahkikatın tamamlandığının taraflara bildirilmesinde usul ve yasaya aykırılık bulunmadığı, davacıların İİK'nın 72. maddesi uyarınca çek nedeniyle borçlu olmadıklarının tespitine karar verilmesini talep ettikleri, davalının çeklerde ciranta veya hamil olmadığı, söz konusu çeklere dayalı olarak kambiyo hukukundan kaynaklanan bir talepte bulunamayacağı, çekte cirosu bulunan ...'ın davalı şirketin yönetim kurulu başkanı olmasının sonuca bir etkisinin olmadığı, çeklerdeki anılan kişiye ait cirolarının davalı şirket adına değil kendisi adına atıldığ, bu nedenlerle
 davalıya karşı menfi tespit talep edilemeyeceği ve Mahkemece verilen pasif husumet nedeniyle red kararının yerinde olduğu, tapulu taşınmazlarda mülkiyetin devrini öngören her türlü sözleşmenin resmi şekilde yapılmasının zorunlu olduğu, (TMK madde 706), 2644 sayılı Tapu Kanunu’nun 26. maddesine göre taşınmaz satışları için tapu sicil müdürü veya tapu sicil görevlilerinin yetkili oldukları, dava konusu taşınmaz satış sözleşmeleri resmi şekilde yapılmadıklarından geçersiz oldukları, geçersiz bir sözleşmeye dayalı olarak tarafların ancak sözleşmenin ifasını yahut ifa karşılığını isteyebilecekleri, taraflar geçersiz sözleşmeye dayalı hak ve borç iddiasında bulunamayacağından sözleşmedeki cezai şart veya sözleşmeye bağlı fer'i taleplerin de kabul edilemeyeceği, davacıların taleplerinin kira kaybından doğan gecikme tazminatı yani müspet zarar olduğu, müspet zararın, alacaklının malvarlığının temerrüde düşülmeden borcun ifa edilmesi halinde içinde bulunacağı durumla, gecikmeli ifa sonucunda içinde bulunduğu durum arasındaki farkı ifade ettiği, geçersiz bir sözleşmede temerrütten bahsedilemeyeceğinden müspet zararın tazmininin de talep edilemeyeceği, taraflar arasındaki sözleşmelerde
 davalının yüklenici değil satıcı olduğu, kat karşılığı inşaat sözleşmesinde yükleniciye (davalıya) ait olacağı kararlaştırılan bağımsız bölümlerin, yüklenici (davalı) tarafından adi yazılı sözleşmeyle davacılara satılmasının söz konusu olmadığı, bu nedenle istinaf dilekçesinde dayanılan Yargıtay içtihadının somut olaya uygulanamayacağı, davacının davalı tarafın sözleşmeden kaynaklı edimlerini ifa etmediğini beyan etmekle birlikte bir yandan da sözleşme konusu edimlerin ifa edilmiş olması nedeniyle sözleşmelerin geçersizliğinin ileri sürülmesinin dürüstlük kuralına aykırı olduğu iddiasında bulunmasının çelişkili davranış yasağına aykırı olduğu, karşılıklı edimlerin ifa edilmemiş olması nedeniyle sözleşmenin geçersizliğinin dürüstlük kuralına aykırı olmayacağı, bu sebeplerle Mahkemece kira kaybı taleplerinin reddine karar verilmesinde bir isabetsizlik bulunmadığı, davacı şirketler tarafından dava konusu edilen taşınmaz satış sözleşmelerinin ayrı sözleşmeler olduğu, yine davacıların her birinin menfi tespit talebine konu ettikleri çeklerin de ayrı çekler olduğu, Mahkemece de kabul edildiği üzere davacılar arasında zorunlu dava arkadaşlığının bulunmadığı, benzer vakıa ve hukuki
@@ -93,6 +103,8 @@ sebeplere dayandıkları, her bir davacı ile davalı arasındaki davaların ayr
 HÜKÜM :Yukarıda açıklanan nedenlerle; 1-Davacıların istinaf başvurusunun 6100 sayılı HMK'nın 353/1-b-1 maddesi gereğince ayrı ayrı ESASTAN REDDİNE …
 
 ## Antalya BAM 7. HD 2024/759 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1042879600)
 
 Noterliğinin 21.03.2008 tarih ... yevmiye nolu Gayrimenkul Satış Vaadi ve Kat Karşılığı İnşaat Sözleşmesi gereğince davalı arsa sahipleri tarafından yerine getirilmediği iddia edilen yapı denetim hizmet sözleşmesi, yapı ruhsatı ve arsanın içindeki eski binanın yıkılıp temizlenmesi edimlerine yönelik davacı yükleniciye nama ifaya izin ve masrafların tahsili davası olup, davacı vekili tarafından 16.02.2017 tarihli dilekçesi ile sözleşmeden dönme ve davacı yüklenici tarafından yapılan inşaat maliyeti nedeniyle 20.000,00.-TL tazminat ve yine sözleşmenin davalıların kusuru ile feshi nedeniyle haksız fesihten kaynaklanan 30.000,00.-TL kar mahrumiyetinin dava tarihinden itibaren ticari avans faizi ile birlikte tahsili davası; asıl dava ile birleşen Antalya 3.
 Asliye Ticaret Mahkemesinin ... esas sayılı davası ise ilk açıldığı hali ile davacı yüklenicinin kusuru nedeniyle sözleşmenin geriye etkili feshi davası olup, yargılama sırasında davalı-birleşen davacı arsa malikleri vekili tarafından fesih ve tazminat olarak ıslah edildiği, mahkemece yapılan yargılama, toplanan deliller, inşaat sözleşmesi, karşılıklı ihtarlar, belediye mühürleme tutanakları, mahallinde yapılan keşif ve alınan rapor ve ek raporlar birlikte değerlendirildiğinde, sözleşme gereği yapı ruhsatına ilişkin olarak yükümlülüğün arsa sahiplerinde olduğu veya arsa sahipleri tarafından davacı yükleniciye bu konuda vekaletname verilmesi gerektiği, her ne kadar BAM kaldırma kararında yüklenici tarafından ihtarname ile arsa sahiplerinin temerrüde düşürülmediği belirtilmiş ise de yüklenici tarafından Antalya 2. Noterliğinin 12/01/2012 tarih, ... yevmiye nolu ihtarnamesiyle arsa sahiplerine bu konuda ihtar çekildiği, arsa sahipleri tarafından kendilerine çekilen ihtardan sonra Antalya 1.
@@ -107,6 +119,8 @@ Davalı/ birleşen dosyada davacılar ..., ..., ... ve ... vekili Av. ..., daval
 
 ## İstanbul BAM 53. HD 2022/278 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/834512300)
+
 2019/385 E,4100 K), bu durumda, arsa sahibinin konusu imkânsız olan sözleşme sebebiyle fesih bildirimli ihtar çekmesinde, sözleşme zaten hükümsüz olduğundan, bir usulsüzlük olmadığı, davacı yüklenicinin sözleşmenin geçerli olduğunun tespiti ve müspet zararların tazmini talebinin de yerinde olmadığı, bu durumda yüklenicinin, ancak sebepsiz zenginleşme kuralları içinde menfi zararlarını isteyebileceği, bu doğrultuda davacılar vekiline, 12/03/2021 tarihli ara kararla ve 26/05/2021 tarihli celsede 2 nolu ara kararla dava tarihine kadar sözleşme sebebiyle yaptığı masrafları (dayanak belgeleri ile birlikte) sunması için 2 hafta süre verildiği, davacılar vekilinin de 10/06/2021 tarihli dilekçesi ile 10 kalem masraf saydığı ve ekine masrafların yapıldığını gösteren dekontlar sunduğu, dosya kapsamında davacı yüklenicinin yaptığı masrafların dekontlarla sabit olduğu, ilk 8 maddede sayılan belediyeye yatırılan kamulaştırma bedeli, taşınmaz için ödediği emlak vergisi, kadastro harcı, ödediği proje bedeli ve yapılan diğer masraflar toplamı olarak 110.402,06 TL’nin tahsilini isteyebileceği zira bu masrafların, davacının, sözleşme yapılmamış olsaydı cebinden çıkmayacak olan masraflar olup menfi
 zarar olduğu, son iki kalem noter ihtarname masrafı olup (85,83 TL ve 103,65 TL), bunların, arsa sahibinin feshine ve azilnamesine karşı cevabi ihtarnameler için yapılmış ihtarname masrafı olduğu, arsa sahibinin fesih ve azilname ihtarı, bu davada haklı görülmüş olmakla, davacının artık bunlara cevabi ihtar çekmek için yaptığı masrafın menfi zarar olarak kabul edilemeyeceği, TBK.nun 117. maddesine göre zenginleşmenin gerçekleştiği tarihte borçlunun temerrüde düşeceği, ancak sebepsiz zenginleşenin iyiniyetli olduğu hâllerde temerrüt için bildirim gerektiği, davacı tarafın geçersizde olsa, sözleşme kapsamında yaptığı ödemelerden dolayı davalı tarafın iyi niyetli olduğunun kabulü gerektiği ve kötü niyetli kabul edilemeyeceği, somut olayda bu şekilde bir ihtar olmadığından davacı yüklenicinin, yaptığı masrafları, dava tarihinden itibaren faizi ile talep edebileceği, davacı dava dilekçesinde ticari faiz talep etmiş ise de arsa sahibinin tacir olmaması, davanın mutlak veya nisbi ticari dava olmaması sebebiyle, yasal faize hükmedildiği, davacıların manevi tazminat istemleri bakımından da ticari itibarlarının zedelendiği veya kişilik değerlerine saldırıda bulunulduğu ispatlanmadığından,
 koşulları oluşmayan talebin reddi gerektiği gerekçesi ile;
@@ -116,6 +130,8 @@ koşulları oluşmayan talebin reddi gerektiği gerekçesi ile;
 HÜKÜM: Gerekçesi yukarıda açıklandığı üzere;1-Davacı vekilinin istinaf başvurusunun KABULÜNE, 2-İstanbul Anadolu 3. Asliye Ticaret Mahkemesi'nin 07/07/2021 tarih, 2010/98 Esas, 2021/895 Karar sayılı kararının KALDIRILMASINA …
 
 ## İstanbul BAM 7. HD 2022/262 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/724893800)
 
 İLK DERECE MAHKEMESİ KARARININ ÖZETİ: Mahkemece "Taraflar arasında aktedilen sözleşmeler taşınmaz satışına ilişkin olup, geçerlilik şartı olan resmi şekilde düzenlenmediği için geçersizdir. Sözleşme geçersiz olduğu için bu sözleşmede yer alan cezai şarta ilişkin hükümler de aynı şekilde geçersizdir.
 
@@ -136,6 +152,8 @@ Müspet zarardan borçlu edayı gereği gibi ve vaktinde yerine getirseydi alaca
 HÜKÜM: Gerekçesi yukarıda açıklandığı üzere; 1-Davacı vekilinin istinaf başvurusunun 6100 Sayılı Hukuk Muhakemeleri Kanunu'nun 353/1-a/6. maddesi gereğince ayrı ayrı KABULÜNE, 2-Bakırköy 6. Asliye Ticaret Mahkemesi'nin 21/01/2021 tarihli 2019/1021 Esas - 2021/65 Karar sayılı kararının KALDIRILMASINA …
 
 ## İstanbul BAM 17. HD 2019/629 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/486819800)
 
 GEREĞİ DÜŞÜNÜLDÜ: Dava, dava dışı arsa sahiplerinden ... ile .... A.Ş arasında, İstanbul .... Noterliğinin 27.08.2010 tarih ve ... yevmiye numaralı Düzenleme Şeklinde Satış Vaadi ve Arsa Payı Karşılığı İnşaat sözleşmesi akdedildiği, ... A.Ş.nin sözleşmeyle yüklendiği hak ve borçlarını diğer davalı ... A.Ş'ye devrettiği, arsa sahiplerinin de bu devre .... A.Ş'nin sorumluluğunun devamı şartıyla Bakırköy .... Noterliğince onayladıkları, sözleşmeye ... yetkilisi ... ve ... İnşaatın eski yetkilisi ... müşterek ve müteselsil kefil oldukları, davacı şirketin arsa sahiplerinden dava dışı.... payına düşen tüm bağımsız bölümleri temlik aldığı, sözleşmenin imza tarihi olan 27.08.2010 tarihinden itibaren yaklaşık 7 yıl geçmesine rağmen inşaatın yapı kullanma izninin halen alınmadığı, Büyükçekmece 5. Asliye Hukuk Mahkemesi 2017/12 D.İş sayılı dosyasıyla tespit yaptırıldığı, davalılar tarafından teslime ve birikmiş müspet zarara ilişkin hiçbir girişimde bulunulmadığı iddiasıyla müspet zarar olan mahrum kalınan kira bedelinin tahsili için Büyükçekmece .... İcra müdürlüğünün.... sayılı dosyasında başlatılan icra takibine itirazın iptali istemine ilişkindir.
 Uyuşmazlığa konu işlerin Kat karşılığı inşaat sözleşmesinden kaynaklandığı, zira tarafların asıl amacının inşai bir faaliyet olduğu, davacının temlikle sözleşmenin tarafı haline geldiği, Hâkimler ve Savcılar Kurulu Birinci Dairesinin 13/02/2018 tarih ve 208 sayılı kararı gereğince; eser sözleşmelerinden doğan uyuşmazlıklara ilişkin verilen kararların istinaf kanun yolu başvurusunu inceleme görevinin İstanbul Bölge Adliye Mahkemesi 15. Hukuk Dairelerine ait olduğu anlaşılmaktadır.Açıklanan nedenlerle; dairemizin İş bölümü yönünden görevsizliğine, dosyanın görevli ve iş bölümü bakımından yetkili olan İstanbul Bölge Adliye Mahkemesi 15. Hukuk Dairesine gönderilmesine karar verilmesi gerektiği 6100. Sayılı HMK'nın 352/1. Maddesi gereğince dosya üzerinde yapılan ön inceleme sonucunda karar vermek gerekmiş olup, aşağıdaki hüküm kurulmuştur.

@@ -29,6 +29,8 @@ Tapuda kayıtlı bir taşınmazın mülkiyetini devir borcu doğuran ve ancak ya
 
 ## Yargıtay HGK 2024/107 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1012700900)
+
 1\.
 
 …
@@ -44,6 +46,8 @@ Anılan düzenlemeler uyarınca tapulu taşınmazlarda mülkiyetin devrini öng�
 Asıl davada davacı- karşı davada davalı vekilinin temyiz itirazlarının kabulü ile direnme kararının Özel Daire bozma kararında gösterilen nedenlerden dolayı 6100 sayılı Kanun’un 371 inci maddesi gereğince BOZULMASINA …
 
 ## Yargıtay HGK 2024/76 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1038539000)
 
 Davacı vekili, müvekkilinin imzaladığı 17.03.2012 tarihli adi yazılı sözleşme gereğince davalının adına kayıtlı olan taşınmaz üzerinde inşa ettiği Atakum Rezidans Cumbalı Evler projesinden daire satın aldığını, sözleşme uyarınca 100.000,00 TL olarak belirlenen satış bedelinin 20.000,00 TL’sinin 19.03.2012 tarihinde peşin, 2.000,00 TL’sinin 08.05.2012 tarihinde senet karşılığı, 3.000,00 TL’sinin elden, kalan 75.000,00 TL’sinin davalının yönlendirmiş olduğu anlaşmalı banka olan Garanti Bankasından 08.05.2012 tarihinde kredi kullanılarak ödendiğini, müvekkilinin davalıya olan edimlerini bu şekilde yerine getirmesine karşın davalı tarafından inşaatın zamanında bitirilmediğini, fiili teslimin ancak 2013 yılının Nisan ayında gerçekleştiğini, elektrik aboneliği ile DASK poliçesi tanzim edildiğini, müvekkilinin hafta sonlarını bu evde geçirdiğini, ödemesini 2012 yılının beşinci ayında tamamlamış olduğu dairenin tapusunu istediği hâlde taşınmaz üzerinde bulunan hacizler nedeniyle alamadığını, tapulu taşınmazın mülkiyetinin devrini öngören her türlü sözleşmenin resmî şekilde yapılmasının geçerlilik koşulu olduğunu ancak Yargıtay İçtihadı Birleştirme Genel Kurulunun 30.09.1988 tarihli ve
 1987/2 Esas, 1988/2 Karar sayılı kararında da belirtildiği üzere müvekkili davacı ile davalı arasında tamamen ifa edilen sözleşme uyarınca müvekkilinin dava konusu 39 numaralı bağımsız bölümün tesciline hak kazandığını ileri sürerek davalı şirket adına kayıtlı olan tapunun iptali ile davacı adına tesciline karar verilmesini talep etmiştir.
@@ -64,6 +68,8 @@ Davacı vekilinin temyiz itirazlarının kabulü ile direnme kararının Özel D
 
 ## Yargıtay HGK 2022/909 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/790217600)
+
 4\.
 
 …
@@ -81,6 +87,8 @@ Arsa payı karşılığı inşaat yapım sözleşmesi, tapulu taşınmazın veya
 Davalı vekilinin temyiz itirazlarının kabulü ile, direnme kararının yukarıda belirtilen genişletilmiş gerekçe ve Özel Daire bozma kararında gösterilen nedenlerden dolayı, 6217 sayılı Kanun’un 30. maddesi ile 6100 sayılı Hukuk Muhakemeleri Kanunu’na eklenen “Geçici Madde 3” atfıyla uygulanmakta olan 1086 sayılı Hukuk Usulü Muhakemeleri Kanunu’nun 429. maddesi gereğince BOZULMASINA …
 
 ## Yargıtay HGK 2020/851 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/638481900)
 
 Davacı 12.06.2012 harç tarihli dava dilekçesinde; davalının 25 pafta 4436 parsel olarak tapuda kayıtlı gayrimenkulünü kat karşılığı inşaat sözleşmesi karşılığında S.S. Hasdeniz Yapı Kooperatifine inşaat yapması için verdiğini, müvekkilinin ise 23.12.1996 tarihinde 23 numaralı üye sıfatıyla kooperatif ortağı olduğunu, davalı arsa sahibi ile müvekkilinin 02.11.1999 tarihinde kendisine noter huzurunda çekilen kura neticesinde isabet eden 8. blok 1 nolu daire ile 2. blok 5 numaralı daireleri karşılıklı takas sözleşmesi imzalayarak takas ettiklerini, bu takas sonucu müvekkilinin ek ödemeler yaptığını, müvekkilinin 1999 tarihinde kaba inşaatı bitmiş vaziyette teslim aldığı dairesine 2002 yılında taşınarak o yıldan beri emlak vergisi, elektrik, su, telefon aboneliği bulunmakta olup borçlarını düzenli olarak ödediğini, davalı ile dava dışı S.S.
 
@@ -105,6 +113,8 @@ Sonuç itibariyle yerel mahkemenin Fethiye 1. Asliye Hukuk Mahkemesinin 2004/686
 
 ## Yargıtay HGK 2020/553 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/607561200)
+
 4\.
 
 …
@@ -120,6 +130,8 @@ Tapulu taşınmazlarda mülkiyetin devrini öngören sözleşmelerin resmî şek
 Mahkemece, davanın reddine karar verilmiş …
 
 ## Yargıtay HGK 2020/43 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/579532900)
 
 4\.
 
@@ -137,6 +149,8 @@ Davacı vekilinin temyiz itirazlarının kabulü ile direnme kararının Özel D
 
 ## Yargıtay HGK 2015/1433 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/115870000)
+
 Davalı vekili, arsa payı karşılığı bağımsız bölüm inşasının KDV gerektiren bir işlem olmadığını, sözleşme bedeli arsa payı şeklinde götürü olarak ödendiğinden ayrıca KDV istenemeyeceğini savunarak, davanın reddini istemiştir.
 
 Mahkemece, sözleşme gereğince arsa payı dışında herhangi bir bedel istenemeyeceği, sözleşmede aksine hükmün geçerli olmadığı, bilirkişi raporuna göre de bağımsız bölüm teslim işleminin KDV'ye tabi bulunmadığı gerekçesiyle, davanın reddine karar verilmiştir.
@@ -153,6 +167,8 @@ Nitekim davacı yüklenici şirket de Buna istinaden icra takibine konu yaptığ
 Konuya, 3065 sayılı Katma Değer Vergisi Kanunu açısından bakıldığında ise, 1/2 maddeye göre, ''her türlü mal ve hizmet ithalatı'' KDV'nin konusunu oluşturan işlemlerden sayılır. Yine aynı Yasanın 4. maddesi uyarınca ise, hizmet işlemleri, ''bir şeyi yapmak, işlemek, meydana getirmek, imal etmek, onarmak, temizlemek, muhafaza etmek, hazırlamak, değerlendirmek, kiralamak, bir şeyi yapmayı tahhüt etmek gibi şekillerde gerçekleşebilir. ''Bu hükümler doğrultusunda, Katma Değer Vergisinin eser sözleşmesi ilişkisini ve o mahiyetteki arsa payı karşılığı inşaat sözleşmelerini de içerdiği, yani eser bedelinin KDV'ye tabi olduğu görülmektedir.
 
 ## Yargıtay HGK 2013/65 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/52039400)
 
 Davalılar, davanın reddini dilemişlerdir.
 
@@ -180,6 +196,8 @@ S O N U Ç : Davalı Gölcük Belediye Başkanlığı vekilinin temyiz itirazlar
 
 ## Yargıtay HGK 2010/235 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/76842600)
+
 Mahkemece, davanın reddine karar verilmiş ve verilen karar davacılar vekilince temyiz edilmiştir.
 
 …
@@ -203,6 +221,8 @@ Tapulu taşınmazlarda mülkiyetin devrini öngören her türlü sözleşmelerin
 S O N U Ç: Yukarıda açıklanan nedenlerle davacı vekilinin temyiz itirazlarının reddi ile direnme kararının ONANMASINA …
 
 ## Yargıtay HGK 2007/49 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/16023500)
 
 Yanlar arasında Elmadağ Noterliğince doğrudan düzenlenen 16.1.1995 tarih ve 212 yevmiye numaralı "düzenleme şeklinde kat karşılığı inşaat sözleşmesi" yapılmış olup, davacılar arsa iş sahipleri, davalılar ise yüklenicidir. Bu sözleşme hükümleri gereğince; davalılar, inşaat ruhsatı tarihinden itibaren 40 ay içinde sözleşme koşullarına uygun olarak inşaatı yapıp arsa sahiplerine teslim etmeyi yüklenmişlerdir. Buna göre, yapımı yüklenilen inşaatın 30.9.1998 tarihinde teslimi gerekmektedir.
 

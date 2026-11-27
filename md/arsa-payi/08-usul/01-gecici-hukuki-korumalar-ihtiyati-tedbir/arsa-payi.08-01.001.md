@@ -21,6 +21,8 @@ uyari: "Derleyenin seçtiği alıntılardır; kararın tamamı değildir. Künye
 
 ## Yargıtay HGK 2023/867 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/963753100)
+
 İlk Derece Mahkemesince verilen kararın davacı vekili tarafından istinaf edilmesi üzerine, Bölge Adliye Mahkemesince istinaf başvurusunun esastan reddine karar verilmiştir.
 
 …
@@ -42,6 +44,8 @@ Bu durumda uyuşmazlığa konu davanın, haksız ihtiyatî tedbir nedeniyle tazm
 Yerel mahkeme, ilk ve direnme kararında, özetle dava konusu ipoteklerin Kanuna uygun olduğunu, tedbirin istenmesi ve konulmasında Kanuni hakkını kullanan taşerona kusur yüklenemeyeceğini; kaldı ki, taşeronun geçici ipotek şerhlerinin dışında, tapu kayıtları üzerinde özel ve kamu hacizleri ile bankaların ipoteklerinin bulunduğunu, anılan haciz ve ipotekler nedeniyle taşınmazları satmak istese bile satamayacağı, sonradan satılan taşınmazların rayiç değerin altında satıldığının ispat edilemediği, dolayısıyla davacının zararının tespitinin mümkün olmadığı belirtilerek davanın reddine karar vermiştir.
 
 ## Yargıtay HGK 2021/574 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/676672200)
 
 4\.
 
@@ -122,6 +126,8 @@ Temyiz olunan Bölge Adliye Mahkemesi kararının 6100 sayılı Hukuk Muhakemele
 
 ## Yargıtay 4. HD 2025/12510 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1191947100)
+
 Davalı vekili cevap dilekçesinde; haksız ve yersiz olarak açılan davanın öncelikle görev, yetki, husumet, zamanaşımı, derdestlik, tahkim, iş bölümü şartları açısından incelenerek bu yönlerden reddi aksi halde esastan reddi gerektiğini, Samsun 4.
 
 …
@@ -138,6 +144,8 @@ Taraf vekillerinin tüm temyiz itirazlarının reddi ile temyiz olunan Bölge Ad
 
 ## Yargıtay 6. HD 2025/2904 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1178121200)
+
 Davacı vekili dava dilekçesinde; davalılardan ... İnş. Gıda Oto.
 
 …
@@ -153,6 +161,8 @@ Somut olayda yargılama devam ederken dava konusu yapılan taşınmaz hakkında 
 İlk Derece Mahkemesi kararının BOZULMASINA …
 
 ## Yargıtay 7. HD 2024/3961 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1099964000)
 
 Davacılar vekili dava dilekçesinde; davacılar ile dava dışı yüklenici şirket arasında yapılan düzenleme şeklinde gayrimenkul ve kat karşılığı inşaat sözleşmesi gereğince dava konusu ... ili, ... ilçesi, ...ı Mahallesi, 42326 ada 6 parsel, 1-4-5-10-11-12-16-18 bağımsız bölüm numaralı taşınmazların tapularının 12.02.2016 tarihinde yükleniciye devredildiğini, yüklenicinin sözleşmeye aykırı davranması nedeniyle bu taşınmazların ... 5.
 
@@ -171,6 +181,8 @@ Davacıların temyiz itirazlarının açıklanan gerekçelerle kabulü ile temyi
 
 ## Yargıtay 6. HD 2024/3853 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1111889500)
+
 Davalı–karşı davacı ... ...., davacı yüklenicinin edimlerini yerine getirmediğini savunarak davanın reddini istemiş, karşı davada sözleşmenin feshi ile gecikme tazminatının karşı davalıdan tahsilini talep ve dava etmiştir.
 
 …
@@ -186,6 +198,8 @@ SONUÇ: Yukarıda açıklanan nedenlerle ilk derece mahkemesi kararı ile bu kar
 
 ## Yargıtay 6. HD 2024/3283 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1109195300)
+
 İlk derece mahkemesince, arsa payı karşılığı inşaat sözleşmesinden kaynaklanan tapu iptal tescil davasında yapılan yargılama sonucunda; asıl davanın kabulüne, birleşen davanın husumetten reddine karar verilmiştir.
 
 …
@@ -196,6 +210,8 @@ SONUÇ: Yukarıda açıklanan nedenlerle Konya Bölge Adliye Mahkemesi 5. Hukuk 
 
 ## Yargıtay 2. HD 2024/2450 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1040228400)
+
 Geçici hukuki korumalar hakkında verilen kararlar, 6100 sayılı Hukuk Muhakemeleri Kanunu'nun (6100 sayılı Kanun) 362 nci maddesinin irinci fıkrasının (f) bendi uyarınca temyiz edilemez. Temyize konu kararın kesin olması hâlinde anılan Kanun’un 366 ncı maddesi atfıyla aynı Kanun’un 352 nci maddesinin birinci fıkrasının (b) bendi uyarınca temyiz dilekçesinin reddine karar vermek gerekir.
 
 …
@@ -203,6 +219,8 @@ Geçici hukuki korumalar hakkında verilen kararlar, 6100 sayılı Hukuk Muhakem
 Davacı-davalı kadın ile temlik alanlar vekilinin dava değeri ve ıslah dilekçesine yönelik temyiz itirazlarının kabulü ile hükmün 2006/337 Esas sayılı dava (asıl dava) yönünden BOZULMASINA …
 
 ## Yargıtay 6. HD 2024/262 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/997492800)
 
 1\.
 
@@ -215,6 +233,8 @@ Her ne kadar davaya konu taşınmaz üzerinde ihtiyati tedbir ya da davalı oldu
 Temyiz olunan Bölge Adliye Mahkemesi kararının 6100 sayılı Kanun'un 370 inci maddesinin birinci fıkrası uyarınca ONANMASINA …
 
 ## Yargıtay 7. HD 2023/3904 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/979073500)
 
 Davacılar vekili dava dilekçesinde; Adana 14. Noterliğinin 23.07.1999 tarih ve 17942 yevmiye No.lu kat karşılığı inşaat sözleşmesine istinaden; davacı ...'in 28 No.lu daireyi 19.02.2000 tarihinde satın aldığını belirtilerek, bu daireye ... tarafından yapılan müdahalenin men'ine, ...'ın 11 No.lu daireyi 29.12.1999 tarihinde satın aldığı belirtilerek, bu daireye ... tarafından yapılan müdahalenin men'ine, ...'nın 22 No.lu daireyi 14.05.2001 tarihinde satın aldığını belirtilerek, bu daireye ... tarafından yapılan müdahalenin men'ine karar verilmesini, ayrıca her 3 davacı tarafından tüm davalılara yönelik 45.000,00 TL mahrum kalınan kira bedelinin munzam zarar olarak teslim tarihi olan 31.12.2002 tarihinden itibaren yasal faizi ile birlikte tahsiline karar verilmesini talep etmiştir.
 
@@ -232,6 +252,8 @@ Yukarıda IV-C-3-1.2 bentte açıklanan nedenlerle davacılar vekilinin, IV-C-3-
 
 ## Yargıtay 6. HD 2023/3461 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/985047100)
+
 Davacı vekili dava dilekçesinde özetle; davacı arsa sahibi ile davalı yüklenici arasında arsa payı karşılığı inşaat sözleşmesi imzalandığını, sözleşme uyarınca yüklenicinin dava konusu bağımsız bölümleri sözleşmede kararlaştırılan sürede teslim etmediğini, ayrıca bağımsız bölümlerde eksik ve ayıplı işler bulunduğunu, dava konusu taşınmazın iskan ruhsatının alınmadığını öne sürerek sözleşme gereği kararlaştırılan cezai şartın ve kira tazminatının tahsili ile iskân ruhsatı alınması amacıyla yükleniciye düşen bağımsız bölümün satışına izin verilmesini talep etmiştir.
 
 …
@@ -247,6 +269,8 @@ Bu açıklamalarla birlikte somut olay değerlendirildiğinde, yasa yolu başvur
 2\. 3 ve 4 no.lu paragraflarda açıklanan nedenlerle, davacı vekilinin temyiz itirazlarının kabulü ile hükmün BOZULMASINA …
 
 ## Yargıtay 7. HD 2023/2705 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/938445700)
 
 Davacılar vekili; müvekkillerinin 26/11/2011 tarihli daire satış sözleşmesi ile satın aldıkları davadışı 14 numaralı bağımsız bölüm karşılığında, kendi adlarına kayıtlı dava konusu 10 ada, 40 parseldeki 1 numaralı bağımsız bölümü peşinat olarak Yurtek İnşaat Taah. Turz. San. ve Tic.
 
@@ -264,6 +288,8 @@ Asliye Hukuk (Tüketici) Mahkemesinin 2012/572 Esas sayılı dosyasında açıla
 Temyiz olunan Bölge Adliye Mahkemesi kararının 6100 sayılı Kanun'un 370 inci maddesinin birinci fıkrası uyarınca ONANMASINA …
 
 ## Yargıtay 6. HD 2023/1386 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/900141400)
 
 Davacı vekili dava dilekçesinde; müvekkili ile davalı şirket arasında arsa payı karşılığı inşaat sözleşmesi düzenlendiğini, davalı yüklenici şirketin sözleşmede kararlaştırılan sürede işi tamamlayamadığını, sözleşmenin geriye etkili feshi için gönderdikleri ihtarnameye olumlu yanıt verdiğini, kendisine isabet eden 7 ve 8 no.lu bağımsız bölümleri tapuda diğer davalılara devrettiğini ileri sürerek, arsa payı karşılığı inşaat sözleşmesinin geriye etkili olarak feshini, müvekkiline isabet eden dört dairenin kira bedeli olarak şimdilik 104.000,00 TL’nin davalı şirketten tahsilini, diğer davalılar adına kayıtlı 7 ve 8 no.lu bağımsız bölümlerin tapu kayıtlarının iptali ile müvekkili adına tescilini talep ve dava etmiştir.
 
@@ -285,6 +311,8 @@ Temyiz olunan Bölge Adliye Mahkemesi kararının BOZULMASINA …
 
 ## Yargıtay 5. HD 2022/14504 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/829893600)
+
 Mahkemece, bozma kararına uyularak asıl davada Adapazarı Tapu Müdürlüğüne ve Sakarya 1. İcra Müdürlüğüne karşı açılan davaların pasif husumet yokluğu nedeniyle reddine, Hazine'ye yönelik davanın kabulüne, birleştirilen davanın ise kısmen kabulü ile asıl dava tarihinden itibaren işleyecek yasal faiziyle birlikte davalı Hazine'den alınarak davacılara ödenmesine karar verilmiş; hüküm, davalı Hazine vekili tarafından temyiz edilmiştir.
 
 Dosyanın incelenmesinden; davacılar ile dava dışı arsa maliklerinin yüklenici Ocak İnşaat Tur.Tic. San. Ltd. Şti. ile Sakarya 4. Noterliğinde 25.01.1994 tarih 02148 yevmiye nolu kat karşılığı inşaat sözleşmesi yaptıkları, karşılığında yükleniciye 5 daire verilmesinin kararlaştırıldığı, arsa sahiplerinin sözleşme uyarınca Sakarya İli, Yenicami Mahallesi 177 ada 92 parsel sayılı 590,68 m² yüzölçümlü kat irtifakı kurulu taşınmazdaki 1, 4, 10, 14 ve 16 nolu bağımsız bölümleri 17.11.1998 tarihinde yüklenici Ocak İnşaat Tur.Tic. San. Ltd. Şti.'ye devrettikleri, yüklenicinin taşınmaz üzerine iki ayrı bina inşa ettiği, 1, 4, 10, 14 ve 16 nolu bağımsız bölümlerin yer aldığı binanın 1999 depreminde yıkıldığı, diğer bağımsız bölümlere ilişkin binanın ise halen iskelet halinde olduğu, Süleyman Yamaç dışındaki arsa malikleri tarafından 25.01.1994 tarihli kat karşılığı inşaat sözleşmesinin feshi ve yükleniciye satılan arsa paylarının iptal edilip adlarına tescili istemiyle 01.02.2000 tarihinde dava açıldığı, Sakarya 2.
@@ -299,6 +327,8 @@ Davalı Hazine vekilinin temyiz itirazları yerinde olduğundan hükmün açıkl
 
 ## Yargıtay 5. HD 2022/6751 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/758014900)
+
 Gaziantep Bölge Adliye Mahkemesi 1. Hukuk Dairesi’nce, somut olayda Gaziantep Bölge Adliye Mahkemesi 14. Hukuk Dairesi’nce sadece geçici hukuki koruma niteliğindeki ihtiyati tedbir talebinin kabulü kararına yapılan itirazın reddine ilişkin ilk derece mahkemesince verilen karara yönelik inceleme yapıldığı, esas yönünden bir değerlendirme yapılmadığı, bu nedenle uyuşmazlığın Diyarbakır Bölge Adliye Mahkemesi 1. Hukuk Dairesi’nce görülüp sonuçlandırılması gerektiği gerekçesiyle Dairenin yetkisizliğine karar verilmiştir.
 
 6100 sayılı HMK'nın 22. maddesi uyarınca yetkili mahkemenin bir davaya bakmasına herhangi bir engel bulunduğu yahut iki mahkeme arasında yargı çevrelerinin sınırlarının belirlenmesinde tereddüt ortaya çıktığı takdirde, yetkili Mahkeme’nin tayininde, İlk Derece Mahkemeleri için Bölge Adliye Mahkemelerine, Bölge Adliye Mahkemeleri için Yargıtay’a başvurulur. Aynı Kanunu’nun 391/3. ve 394/5. maddelerinde ihtiyati tedbire dair belirtilen (İlk Derece) Mahkeme kararlarına karşı kanun yoluna başvurulabileceği öngörülmüş; bu kanun yolunun ne anlama geldiği ise HMK'nin 341/1. maddesinde ilk derece mahkemelerinden verilen ... ihtiyati tedbir ... taleplerinin reddi ve bu taleplerin kabulü hâlinde, itiraz üzerine verilecek kararlara karşı istinaf yoluna başvurulabilir hükmü ile istinaf olarak açıkça belirtilmiştir.
@@ -308,6 +338,8 @@ Gaziantep Bölge Adliye Mahkemesi 1. Hukuk Dairesi’nce, somut olayda Gaziantep
 sayılı kararıyla, davacının dava dilekçesine ekli olarak dosyaya sunduğu Ergani Noterliği'nin 10.06.2016 tarih, 5900 yevmiye numaralı düzenleme şeklinde taşınmaz satış vaadi ve arsa payı karşılığı inşaat sözleşmesinde yazılı Diyarbakır İli, Ergani İlçesi, Kemaliye Mahallesi, 1728 ada, 6 parsel nolu taşınmaz üzerinde yapılan binanın 7. katının uyuşmazlık konusunu teşkil ettiği tapu iptali ve tescili istemine ilişkin davayı ikame ettiği, gayrimenkulün 3. kişiye devri halinde HMK'nin 389. maddesinde yazılı olduğu haliyle hakkın elde edilmesinin önemli ölçüde zorlaşacağından ya da tamamen imkansız hale geleceğinden veya gecikme sebebiyle bir sakıncanın yahut ciddi bir zararın doğacağından endişe edilmesi halinin mevcudiyeti karşısında tedbir talebinin kabulünü gerektirir sair şartların oluştuğu gerekçesiyle Ergani Asliye Hukuk Mahkemesi’nin 01/08/2017 tarih 2017/725 Esas sayılı kararı usul ve esas yönünden hukuka uygun bulunduğundan davalı vekilinin istinaf başvurusunun 6100 sayılı Hukuk Muhakemeleri Kanunun 353/1-b/1 bendi uyarınca esastan reddine karar verilmiştir. Bu durumda uyuşmazlığın Gaziantep Bölge Adliye Mahkemesi 1. Hukuk Dairesi’nce görülüp sonuçlandırılması gerekmektedir.
 
 ## Yargıtay 1. HD 2021/3928 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/682124300)
 
 Feri müdahil Şirket, dava konusu taşınmazda kat karşılığı inşaat sözleşmesi uyarınca inşaata başladığını, ancak eldeki davada taşınmaz üzerine konulan ihtiyati tedbir nedeniyle mağdur olduğunu belirterek davaya müdahil olmak istediğini beyan etmiş ve davalılara isabet eden bağımsız bölümler üzerine tedbir konulmasını istemiştir.
 

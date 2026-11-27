@@ -21,6 +21,8 @@ uyari: "Derleyenin seçtiği alıntılardır; kararın tamamı değildir. Künye
 
 ## Antalya BAM 11. HD 2022/1727 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/834154200)
+
 Davacı vekili istinaf dilekçesinde özetle; Davacı vekili, takip konusu bonodaki imza müvekkiline ait ise de, bononun müvekkilinin iradesi dışında hile ile aldatılması sonucu imzalandığını, Antalya 3. Ağır Ceza Mahkemesinin ...
 
 …
@@ -39,6 +41,8 @@ Hukuk Dairesinin 11/07/2012 tarih, 2012/6338 Esas, 2012/11554 Karar sayılı ila
 Davacı vekilinin İlk Derece Mahkemesi kararına ilişkin istinaf başvurusunun ESASTAN REDDİNE …
 
 ## Antalya BAM 11. HD 2022/762 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/761800200)
 
 İLK DERECE MAHKEMESİ KARARININ ÖZETİ: Mahkemece, sözleşmede teminat amaçlı senet verileceğinden bahsedilse dahi senetlere unsurlarıyla atıf yapılmadığı ve senet metninde de teminat senedi olduğuna dair bir ibare bulunmadığı gerekçesiyle davacının talebinin reddine karar verilmiştir.
 
@@ -59,6 +63,8 @@ Bonoların teminat olarak verildiğinin ispat yükü senedin teminat senedi oldu
 2-6100 Sayılı HMK'nın 353/1-a-6. maddesi gereğince ANTALYA 1. ASLİYE TİCARET MAHKEMESİnin 23/09/2020 tarih ve ... Esas ....Karar sayılı kararının KALDIRILMASINA …
 
 ## İstanbul BAM 37. HD 2021/2194 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/715813100)
 
 Dava, kambiyo senetlerinden kaynaklanan menfi tespit istemine ilişkindir.
 

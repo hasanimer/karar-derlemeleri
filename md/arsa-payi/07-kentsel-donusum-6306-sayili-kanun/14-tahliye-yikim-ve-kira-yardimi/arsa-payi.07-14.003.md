@@ -22,6 +22,8 @@ uyari: "Derleyenin seçtiği alıntılardır; kararın tamamı değildir. Künye
 
 ## Danıştay 4. D. 2023/7923 E., 2023/6506 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1047546800)
+
 İlk Derece Mahkemesi kararının özeti: ... İdare Mahkemesince verilen … tarih ve E:…, K:… sayılı kararda; dava konusu işyerinin bulunduğu taşınmaz hakkında 6306 sayılı Kanun gereğince 16/01/2015 tarihinde riskli yapı kararı verildiği ve taşınmazın davacı tarafından yıkılarak yeniden inşa edilmeye başlanıldığı, davalı İdare tarafından ise, dava konusu yapının 6306 sayılı Afet Riski Altındaki Alanların Dönüştürülmesi Hakkındaki Kanun kapsamında "riskli yapı olarak" ilan edilmesi nedeniyle, ...
 
 …
@@ -37,6 +39,8 @@ birleştirilerek veya imar adası bazında uygulama yapılmasına, yeniden bina 
 Temyize konu … Bölge İdare Mahkemesi ... İdare Dava Dairesinin … tarih ve E:…, K:… sayılı kararının BOZULMASINA …
 
 ## Danıştay 4. D. 2023/12188 E., 2023/5755 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1063192600)
 
 İlk Derece Mahkemesi kararının özeti: Davacı tarafından, dava konusu …
 
@@ -106,9 +110,13 @@ Temyize konu ... İdare Mahkemesinin … tarih ve E:…, K:… sayılı kararın
 
 ## Danıştay 6. D. 2023/3146 E., 2023/4532 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/957502800)
+
 Bakılan davanın, İstanbul İli, Kadıköy İlçesi, ... Mahallesi, ... Ada, ... Parsel (Yeni ... Ada ... Parsel) sayılı taşınmaz üzerindeki yapının maliki olan davacı tarafından; 6306 sayılı Yasanın 6/A maddesi kapsamında taşınmazın 150 gün içerisinde tahliye edileceğine ve hazine adına tescil edileceğine yönelik ... tarih ve ... sayılı Bakan Olur'lu Çevre ve Şehircilik Bakanlığı Altyapı ve Kentsel Dönüşüm Hizmetleri Genel Müdürlüğü işleminin iptali istemiyle açıldığı, bu uyuşmazlıkla ilgili Bölge İdare Mahkemesi İdari Dava Dairesince yapılan istinaf incelemesi neticesinde verilen kesin nitelikli kararın temyiz edilmesinin, yukarıda anılan Kanun hükümleri kapsamında mümkün olmadığı sonucuna varılmıştır.
 
 ## Danıştay 9. D. 2023/2496 E., 2023/2726 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1017596600)
 
 Bölge İdare Mahkemesi ... Vergi Dava Dairesinin …
 
@@ -134,6 +142,8 @@ sayılı kararının temyizen incelenerek bozulması istenilmektedir.
 2577 sayılı İdari Yargılama Usulü Kanunu'nun 45. maddesinin 1. fıkrasında, idare ve vergi mahkemelerinin kararlarına karşı, başka kanunlarda farklı bir kanun yolu öngörülmüş olsa dahi, mahkemenin bulunduğu yargı çevresindeki bölge idare mahkemesine, kararın tebliğinden itibaren otuz gün içinde istinaf yoluna başvurulabileceği; 5. fıkrasında, bölge idare mahkemesinin, ilk inceleme üzerine verilen kararlara karşı yapılan istinaf başvurusunu haklı bulduğu, davaya görevsiz veya yetkisiz mahkeme yahut reddedilmiş veya yasaklanmış hâkim tarafından bakılmış olması hâllerinde, istinaf başvurusunun kabulü ile ilk derece mahkemesi kararının kaldırılmasına karar vererek dosyayı ilgili mahkemeye göndereceği …
 
 ## Danıştay 6. D. 2023/896 E., 2023/2197 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/922503700)
 
 İSTEMİN ÖZETİ: İstanbul İli, Beyoğlu İlçesi, …
 
@@ -179,6 +189,8 @@ Uyuşmazlıkta, tahliye ve yıkım işlemine konu yapının, davaya esas maddi b
 
 ## Danıştay 6. D. 2021/9597 E., 2023/1997 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/986131900)
+
 Davacılar tarafından, zımnen ret işleminin kesin ve yürütülebilir bir işlem olduğundan iptalinin gerektiği, bu kısım yönünden İstinaf Dairesi kararının bozulması gerektiği, yapının riskli yapı kapsamına alınmadan binadan tahliye edildikleri, belediyenin hizmet kusuru ile zararları arasındaki illiyet bağının devam ettiği hususları ileri sürülmektedir. Davalı idare tarafından, tahliye edilen yapının Şubat 2016 tarihi itibarıyla riskli yapı kapsamına alındığı, artık belediyelerinin zararlardan sorumlu tutulamayacağı, varsa belediyenin hizmet kusuru ile zarar arasındaki illiyet bağının kesildiği, davacıların haksız kazanç elde ettikleri hususları ileri sürülmektedir.
 
 …
@@ -194,6 +206,8 @@ Bunun yanında, dava konusu işlem ve tazminat istemi yönlerinden uyuşmazlığ
 Mahkeme kararına yönelik olarak yapılan istinaf başvurusunun kısmen kabulüne, kısmen reddine, İdare Mahkemesi kararının tazminat isteminin kabulü ile taleple bağlılık ilkesi gereğince ...-TL'nin idareye başvuru tarihi olan 22/02/2019 tarihinden itibaren işleyecek yasal faiziyle birlikte davacılara ödenmesine ilişkin kısmının onanmasına …
 
 ## Danıştay 6. D. 2022/8929 E., 2023/1209 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/947277800)
 
 İSTEMİN ÖZETİ : Kırşehir İli, Merkez İlçesi, …
 
@@ -233,6 +247,8 @@ sayılı kararın, usul ve hukuka aykırı olduğu ileri sürülerek bozulması 
 
 ## Danıştay 6. D. 2021/4625 E., 2022/10513 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/919220200)
+
 İSTEMİN ÖZETİ : Sivas İli, Merkez …
 
 …
@@ -256,6 +272,8 @@ sayılı kararın, usul ve hukuka aykırı olduğu ileri sürülerek bozulması 
 … İdare Mahkemesince verilen … tarih ve E:…, K:… sayılı karar ve dayandığı gerekçe hukuk ve usule uygun olup, bozulmasını gerektirecek bir sebep bulunmadığından, temyiz isteminin reddi ile anılan kararın ONANMASINA …
 
 ## Danıştay 6. D. 2022/2927 E., 2022/10193 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/919259500)
 
 İSTEMİN ÖZETİ : Bursa İli, Gemlik İlçesi, …
 
@@ -299,11 +317,15 @@ sayılı kararının usul ve hukuka aykırı olduğu ileri sürülerek bozulmas�
 
 ## Danıştay 6. D. 2022/6861 E., 2022/8929 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/913992500)
+
 6306 sayılı Afet Riski Altındaki Alanların Dönüştürülmesi Hakkında Kanunun 2. maddesinin 1. fıkrasının (d) bendinde, riskli yapı; riskli alan içinde veya dışında olup ekonomik ömrünü tamamlamış olan ya da yıkılma veya ağır hasar görme riski taşıdığı ilmi ve teknik verilere dayanılarak tespit edilen yapı şeklinde tanımlanmıştır.
 
 Aynı Kanun'un "Uygulama işlemleri" başlıklı 6. maddesinin 5. fıkrasının (a) bendinde, riskli alanlara, rezerv yapı alanlarına ve riskli yapıların bulunduğu taşınmazlara ilişkin her tür harita, plan, proje, arazi ve arsa düzenleme işlemleri ile toplulaştırma yapmaya Bakanlığın yetkili olduğu hüküm altına alınmış; aynı maddenin 6. fıkrasında; "Bakanlık, riskli alanlar, rezerv yapı alanları ve riskli yapıların bulunduğu parsellerdeki uygulamalarda faydalanılmak üzere, özel kanunlar ile öngörülen alanlara ilişkin olanlar da dahil, her tür ve ölçekteki planlama işlemlerine esas teşkil edecek standartları belirlemeye ve gerek görülmesi halinde bu standartları plan kararları ile tayin etmeye veya özel standartlar ihtiva eden planlar ve kentsel tasarım projeleri yapmaya, yaptırmaya ve onaylamaya yetkilidir." hükmüne yer verilmiştir.
 
 ## Danıştay 6. D. 2022/5597 E., 2022/7955 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/911663200)
 
 …
 
@@ -343,9 +365,13 @@ sayılı kararın, usul ve hukuka aykırı olduğu ileri sürülerek bozulması 
 
 ## Danıştay 8. D. 2020/6870 E., 2022/6800 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/938495600)
+
 13/2 maddesinde ise '' Yangın, deprem, sel, kentsel dönüşüm, sağlık sebepleri ve mahkeme tahliye kararı gibi hâllerden dolayı binayı ani olarak terk etmek zorunda kalan kurumlar, faaliyetlerine devam etmek istedikleri müstakil binanın, sağlam ve dayanıklı olduğuna ve yangına karşı gerekli önlemlerin alındığına dair rapor hariç diğer nakil şartları aranmaksızın öğrenci sayısına uygun başka bir binada valiliğin izniyle geçici olarak en fazla bir yıl faaliyetine devam edebilir.'' hükmü yer almaktadır.
 
 ## Danıştay 2. D. 2021/11212 E., 2022/6337 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/885791300)
 
 6306 sayılı Afet Riski Altındaki Alanların Dönüştürülmesi Hakkında Kanun'un, 1. maddesinde, afet riski altındaki alanlar ile bu alanlar dışındaki riskli yapıların bulunduğu arsa ve arazilerde, fen ve sanat norm ve standartlarına uygun, sağlıklı ve güvenli yaşama çevrelerini teşkil etmek üzere iyileştirme, tasfiye ve yenilemelere dair usul ve esasları belirlemek amacıyla hazırlandığı belirtildikten sonra; 2. maddesinin d bendinde, riskli alan içinde veya dışında olup ekonomik ömrünü tamamlamış olan ya da yıkılma veya ağır hasar görme riski taşıdığı ilmî ve teknik verilere dayanılarak tespit edilen yapılar riskli yapı olarak tanımlanmış, 3. maddesinde, riskli yapıların tespitinin, yönetmelikte belirlenen usul ve esaslar çerçevesinde, masrafları kendilerine ait olmak üzere, öncelikle yapı malikleri veya kanuni temsilcileri tarafından, Bakanlıkça lisanslandırılan kurum ve kuruluşlara yaptırılacağı ve sonucun Bakanlığa veya İdareye bildirileceği, Bakanlıkça veya İdarece yaptırılan riskli yapı tespitlerine karşı maliklerce veya kanuni temsilcilerince onbeş gün içinde itiraz edilebileceği; 4. maddesinde, uygulama sırasında Bakanlık, TOKİ veya İdare tarafından talep edilmesi hâlinde, hak
 sahiplerinin de görüşü alınarak, riskli alanlardaki yapılar ile riskli yapılara, elektrik, su ve doğal gaz verilmeyeceği ve verilen hizmetlerin kurum ve kuruluşlar tarafından durdurulacağı; 5. maddesinde, riskli yapıların yıktırılmasında ve bunların bulunduğu alanlardaki uygulamalarda, öncelikli olarak malikler ile anlaşma yoluna gidilmesinin esas olduğu; uygulamaya başlanmadan önce, riskli yapıların yıktırılması için, bu yapıların maliklerine 60 günden az olmamak üzere süre verileceği, bu süre içinde yapı, malik tarafından yıktırılmadığı takdirde, yapının idari makamlarca yıktırılacağı belirtilerek ve tekrar süre verilerek tebligatta bulunulacağı; verilen bu süre içinde de maliklerince yıktırma yoluna gidilmediği takdirde, bu yapıların insandan ve eşyadan tahliyesi ve yıktırma işlemleri, yıktırma masrafı ile gereken diğer yardım ve krediler öncelikle dönüşüm projeleri özel hesabından karşılanmak üzere, mahallî idarelerin de iştiraki ile mülki amirler tarafından yapılacağı hükme bağlanmıştır.
@@ -358,6 +384,8 @@ sahiplerinin de görüşü alınarak, riskli alanlardaki yapılar ile riskli yap
 
 ## Danıştay 9. D. 2019/4588 E., 2022/5616 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/917132100)
+
 Yukarıda yer verilen mevzuat hükümlerinin değerlendirilmesinden;6306 sayılı Kanun'un 7.maddesinin 9.fıkrası ile anılan Kanun uyarınca yapılan işlem, sözleşme, devir ve tesciller ile uygulamalara ilişkin yine maddede belirtilen vergi,harç ve ücretlere yönelik öngörülen istisna hükmü ile genel bir kural getirildiği,ancak 7.maddenin 10.fıkrasının ilk halinde, uygulamada bulunulan riskli alanlarda yeniden yapılan yapıların, yıkılan yapının önceki durumuyla eşdeğer olmaması haline yönelik olarak yani kullanım maksadı değişiklikleri ile yapı alanındaki artışlar için belediyelerce harç ve ücret farklarının alınacağı yönünde getirilen düzenleme ile dokuzuncu fıkraya istisna bir düzenleme getirildiği anlaşılmaktadır.
 
 6306 sayılı Kanun'un 7.maddesinin 10.fıkrasında 14/04/2016 tarihinde yapılan değişiklikle, rezerv yapı alanlarında ve riskli yapıların bulunduğu parsellerde uygulamada bulunulması durumunda da, yıkılan yapının önceki durumuyla eşdeğer olmaması haline yönelik olarak yani kullanım maksadı değişiklikleri ile yapı alanındaki artışlar için harç ve ücret farklarının alınacağı yönünde düzenleme yapılmıştır.Yine,anılan fıkrada 10/12/2018 tarihinden itibaren geçerli olan değişiklikle de,fonksiyon değişikliğine bakılmaksızın, mevcut inşaat alanının bir buçuk katına kadar olan yeni inşaat alanının istisna kapsamında olduğunun ve aşan kısım için belediyelerce harç ve ücret alınacağının hüküm altına alındığı görülmektedir.
@@ -368,6 +396,8 @@ Yukarıda yer verilen mevzuat hükümlerinin değerlendirilmesinden;6306 sayıl�
 
 ## Danıştay 9. D. 2020/740 E., 2022/5161 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/874621900)
+
 Dosyanın incelenmesinden, 6306 sayılı Kanun kapsamında riskli yapı niteliği bulunan binanın yıkılarak yerine inşa edilen yeni yapıya ilişkin olarak makine ve elektrikle ilgili harçlar başlığı altında tahakkuk ettirilen 361.664,11-TL tahakkukun ve elektrik harcı adı altında ödenen 30.791,08-TL ile asansör ruhsatı adı altında ödenen 11.760,00-TL'nin iadesi istemiyle yapılan başvurunun reddine dair işlemin iptali istemiyle işbu davanın açıldığı ve davalı tarafından, dava konusu tutarların 2464 sayılı Belediye Gelirleri Kanunu'nun 97. maddesine istinaden Kartal Belediye Meclisince çıkartılan tarife uyarınca tahakkuk ettirilen ve tahsil edilen ücretler olduğunun belirtildiği görülmüştür.
 
 …
@@ -375,6 +405,8 @@ Dosyanın incelenmesinden, 6306 sayılı Kanun kapsamında riskli yapı niteliğ
 … Bölge İdare Mahkemesi ... Vergi Dava Dairesinin … tarih ve E:…, K:… sayılı kararının BOZULMASINA …
 
 ## Danıştay 9. D. 2021/91 E., 2022/3996 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/857684000)
 
 Yukarıda yer verilen mevzuat hükümlerinin değerlendirilmesinden, gayrimenkullerin ivaz karşılığında devir ve iktisabının tapu harcına tabi olduğu, ancak 6306 sayılı Kanun uyarınca yapılacak devir ve tescillerin vergi ve harçtan müstesna olduğu, vergiden istisna olan işlemlerden vergi alınmasının ise mevzuda hata olduğu ve dava konusu taşınmazların satışına ilişkin ödenen tapu harcının istisna kapsamında değerlendirilmesi halinde olayda vergi hatası bulunduğunun da kabulü gerektiği sonucuna ulaşılmaktadır.
 
@@ -387,6 +419,8 @@ olması gerektiği sonucuna varılmıştır.
 
 ## Danıştay 6. D. 2019/15571 E., 2022/3150 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/787268100)
+
 7\. ve 8. maddelerinin, derelerden kum ve çakıl çıkarılmasına ilişkin herhangi bir yasak öngörülmemiş olması sebebiyle eksik düzenleme teşkil ettiği; "Mutlak koruma alanı" başlıklı 9. maddesinin 2. fıkrasında geçen "içme-kullanma suyu alma yapısını merkez alan, yarıçapı" ifadesinin, söz konusu alaların su kaynaklarının korunmasında en önemli alanlar olması sebebiyle, daha önce Su Kirliliği Kontrolü Yönetmeliğinde kabul edilen hukuki rejime uygun olarak bütünüyle kamulaştırılması gerektiğinden iptal edilmesi gerektiği; aynı maddenin 5. fıkrasında yer verilen "yıkılarak yeniden inşa edilebilir" ifadesinin mutlak koruma alanlarındaki riskli yapıların yıkılarak yeniden inşasına izin verilmesinin Yönetmeliğin amacına ve kamu yararına aykırı olması sebebiyle iptal edilmesi gerektiği; aynı maddenin 12. fıkrasında "veya iyi tarım uygulamalarına" ifadesinin, iyi tarım uygulamalarında suni gübre ve tarım ilaçlarının kullanılabiliyor olması sebebiyle hukuka aykırı olduğu; 13. fıkrasının ise, su kaynağına çok yakın olması sebebiyle bu alanlarda hayvancılık faaliyetlerine izin verilmesinin kaynağın kirlenmesine sebep olabileceği dikkate alınarak iptalinin gerektiği;
 "Kısa mesafeli koruma alanı" başlıklı 10. maddesinin 2. fıkrasında yer alan "yıkılarak yeniden inşa edilebilir" ifadesinin, bu alanlardaki riskli yapıların yıkılarak yeniden inşasına izin verilmesinin Yönetmeliğin amacına ve kamu yararına aykırı olması sebebiyle iptal edilmesi gerektiği; 4. fıkrasının ikinci cümlesinin, fıkranın ilk cümlesi ile çelişki oluşturduğu ve eşitlik ilkesine aykırılık teşkil ettiği, 6360 sayılı Kanun çerçevesinde köy statüsünde iken belediye sınırları içine alınarak mahalle statüsüne geçen kırsal yerleşim alanlarına yapılaşma izni verilmesinin hukuki açıdan savunulabilir hiçbir yanının olmadığı; 7. fıkrasında yer alan "her parselde" ifadesinin, 5403 sayılı Toprak Koruma ve Arazi Kullanımı Kanununun ilgili hükümleri dışında ifraza engel bir düzenleme mevcut olmadığından, parsel cephelerinin ifrazlarla bölündüğü durumlarda birim uzunluktaki cephede farklı sayılarda günübirlik tesis kurularak koruma alanındaki yapı yoğunluğunun artmasına neden olacağından iptali gerektiği;
 
@@ -395,6 +429,8 @@ olması gerektiği sonucuna varılmıştır.
 Yönetmeliğin 2., 3., 7., 8. ve 13. maddeleri; 4. maddesinin 1. fıkrasının (ı) bendi; 5. maddesinin 1. fıkrasının (c) bendi ile (e) bendinde yer alan "veya iyi tarım uygulamalarına" ifadesi; 6. maddesinin 5. fıkrasında yer alan "paydaşların" ifadesi; 9. maddesinin 2. ve 13. fıkraları ile 5. fıkrasında yer alan "yıkılarak yeniden inşa edilebilir" ifadesi; 10. maddesinin 4. fıkrasının ilk iki cümlesi, 2. fıkrasında yer alan "yeniden inşa edilebilir" ifadesi ile 8. fıkrasının ilk cümlesinde yer alan "ile bu madde kapsamında izin verilen yeni yapılardan" ifadesiyle aynı fıkranın son cümlesi dışındaki bölümü; 11. maddesinin 14. fıkrası ile 4. fıkrasının son cümlesi ve 7. fıkrasının ilk cümlesi; 12. maddesinin 13. fıkrası; 15. maddesinin 5. fıkrasında yer alan "Koruma planı yürürlüğe girmiş olan" ifadesi; geçici 1. maddesinin 1. fıkrasında yer alan "en geç bir yıl içerisinde" ifadesi ile 2. fıkrasında yer alan "en geç beş yıl içinde" ifadesi yönlerinden DAVANIN REDDİNE …
 
 ## Danıştay 13. D. 2022/1577 E., 2022/2596 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/824434000)
 
 Her ne kadar kiracı sıfatından kaynaklanan menfaat nedeniyle bazı durumlarda kiracının dava açma ehliyetinin bulunduğu kabul edilebilmekteyse de uyuşmazlık konusu olayda söz konusu yapı ile ilgili olarak hazırlanan riskli yapı tespit raporu, söz konusu taşınmazın riskli yapı olduğu ve yıkımının can güvenliği bakımından zorunluluk taşıdığı gibi hususlar dikkate alınarak malik belediye tarafından yıkımının gerçekleştirilmesi amacıyla dava konusu ihaleye çıkıldığı görülmektedir.
 

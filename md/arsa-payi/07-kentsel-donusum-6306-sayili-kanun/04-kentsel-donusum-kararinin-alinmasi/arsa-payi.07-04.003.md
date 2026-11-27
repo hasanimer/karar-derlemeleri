@@ -22,6 +22,8 @@ uyari: "Derleyenin seçtiği alıntılardır; kararın tamamı değildir. Künye
 
 ## Danıştay 4. D. 2024/577 E., 2024/1179 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1059579500)
+
 İSTEMİN ÖZETİ: 6306 sayılı Yasa gereğince yapılan arsa payı satış işlemi ile 6306 sayılı Kanunun Uygulama Yönetmeliğinin 15. maddesinin 2. fıkrasındaki "toplantı yapılması gerekmeksizin ve herhangi bir şekil şartına tabi olmaksızın" ibaresinin iptali istenilmiştir.
 
 DAVACILARIN İDDİALARI: Davacıların İstanbul İli, Kadıköy İlçesi, …
@@ -31,6 +33,8 @@ DAVACILARIN İDDİALARI: Davacıların İstanbul İli, Kadıköy İlçesi, …
 parselde bulunan ve riskli yapı kararı verilen binada 10/324 oranında arsa payı sahibi olduğu, taşınmaz hakkında riskli yapı kararı verilmesi sonrası kendilerine haber verilmeksizin toplanan kat malikleri kurulunda alınan karar gereğince, 6306 sayılı Yasa gereğince ancak usulsüz bir şekilde maliki bulundukları arsa paylarının satışının talep edildiği, bu satış işleminin ve dayanağı 6306 sayılı Kanunun 6/1 maddesinde yer almayıp da Uygulama Yönetmeliğinin 15/2 maddesine sonradan eklenen "toplantı yapılması gerekmeksizin ve herhangi bir şekil şartına tabi olmaksızın" ibaresinin Anayasanın temel ilkelerine açıkça aykırı olduğu gibi 634 sayılı Kat Mülkiyeti Kanununun toplantı usul ve koşullarını düzenleyen hükümleri ile ve 4721 sayılı Türk Medeni Kanununun paylı mülkiyete ilişkin hükümlerine de aykırı olduğu iddia edilerek, maliki oldukları arsa paylarının satışına ilişkin işlem ile 6306 sayılı Kanunun Uygulama Yönetmeliğinin 15. maddesinin 2. fıkrasındaki "toplantı yapılması gerekmeksizin ve herhangi bir şekil şartına tabi olmaksızın" ibaresinin iptali istenilmiştir.
 
 ## Danıştay 6. D. 2023/1430 E., 2024/986 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1030999000)
 
 İlk Derece Mahkemesi kararının özeti: ...
 
@@ -48,9 +52,13 @@ Dava konusu işlemin yukarıda özetlenen gerekçeyle iptaline ilişkin İdare M
 
 ## Danıştay 4. D. 2024/425 E., 2024/791 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1106893100)
+
 Olayda; 6306 sayılı Kanun ile 6306 sayılı Kanunun Uygulama Yönetmeliği'nde öngörülen düzenlemeler çerçevesinde alınan karara katılmayan arsa payı malikinin, arsa payının açık artırma usulü ile satışının, 2577 sayılı Kanun'un 20/A maddesinin birinci fıkrasının (a) bendi kapsamında düzenlenen "ihale işlemi" olarak değerlendirilemeyeceği ve bu kapsamda ivedi yargılama usulüne tabi bir ihaleden söz edilemeyeceğinden; uyuşmazlığın 2577 sayılı Kanun'un 45. maddesi gereğince öncelikle istinaf kanun yoluna tabi olduğu ve Kanun'un 16. maddesindeki tekemmüle ilişkin usul hükümlerinin de işletilmesi gerektiği sonucuna varılmıştır.
 
 ## Danıştay 6. D. 2019/21746 E., 2023/9779 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1047069400)
 
 Aynı Kanunun "Dönüşüm gelirleri" başlıklı 7. maddesinin 10. fıkrasının dava konusu işlem tarihinde yürürlükte olan ilk halinde "Gerçek kişilerce ve özel hukuk tüzel kişilerince uygulamada bulunulan riskli alanlardaki yapıların mevcut alanları için daha önce belediyelerce alınan harç ve ücretlere ilave olarak, sadece kullanım maksadı değişiklikleri ile yapı alanındaki artışlar için hesaplanan harç ve ücret farkları alınır." hükmüne yer verilmiştir.
 
@@ -62,6 +70,8 @@ Dava konusu işlemlerin iptali yolundaki İdare Mahkemesi kararına yönelik ola
 
 ## Danıştay 4. D. 2023/11467 E., 2023/6674 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1047118400)
+
 6306 sayılı Afet Riski Altındaki Alanların Dönüştürülmesi Hakkında Kanun'un 1. maddesinde; bu Kanun'un amacı, afet riski altındaki alanlar ile bu alanlar dışındaki riskli yapıların bulunduğu arsa ve arazilerde, fen ve sanat norm ve standartlarına uygun, sağlıklı ve güvenli yaşama çevrelerini teşkil etmek üzere iyileştirme, tasfiye ve yenilemelere dair usul ve esasları belirlemek olarak belirtilmiş; Kanunun 2. maddesinin birinci fıkrasının (ç) bendinde; Riskli alan: Zemin yapısı veya üzerindeki yapılaşma sebebiyle can ve mal kaybına yol açma riski taşıyan, Bakanlık veya İdare tarafından Afet ve Acil Durum Yönetimi Başkanlığının görüşü de alınarak belirlenen ve Bakanlığın teklifi üzerine Bakanlar Kurulunca kararlaştırılan alan olarak tanımlanmıştır.
 
 15/12/2012 tarih ve 28498 sayılı Resmi Gazete'de yayımlanan "Afet Riski Altındaki Alanların Dönüştürülmesi Hakkında Kanunun Uygulama Yönetmeliği" başlıklı Yönetmeliğin (25/07/2014 tarih ve 29071 sayılı Resmi Gazete’de yayımlanan Afet Riski Altındaki Alanların Dönüştürülmesi Hakkında Kanunun Uygulama Yönetmeliğinde Değişiklik Yapılmasına Dair Yönetmelik ile bahse konu Yönetmeliğin adı, "6306 sayılı Kanunun Uygulama Yönetmeliği" olarak değiştirilmiştir.) işlem tarihinde yürürlükteki haliyle, “Riskli alanın tespiti” başlıklı 5. maddesinin birinci fıkrasında, "Riskli alan;
@@ -71,6 +81,8 @@ Dava konusu işlemlerin iptali yolundaki İdare Mahkemesi kararına yönelik ola
 Dava konusu 03/06/2022 tarihli ve 5688 sayılı Cumhurbaşkanı Kararının davacıların maliki olduğu İzmir İli, Aliağa İlçesi, … pafta, … parsel ve … parsel sayılı taşınmazlara ilişkin kısmının İPTALİNE …
 
 ## Danıştay 4. D. 2023/7923 E., 2023/6506 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1047546800)
 
 İlk Derece Mahkemesi kararının özeti: ... İdare Mahkemesince verilen … tarih ve E:…, K:… sayılı kararda; dava konusu işyerinin bulunduğu taşınmaz hakkında 6306 sayılı Kanun gereğince 16/01/2015 tarihinde riskli yapı kararı verildiği ve taşınmazın davacı tarafından yıkılarak yeniden inşa edilmeye başlanıldığı, davalı İdare tarafından ise, dava konusu yapının 6306 sayılı Afet Riski Altındaki Alanların Dönüştürülmesi Hakkındaki Kanun kapsamında "riskli yapı olarak" ilan edilmesi nedeniyle, ...
 
@@ -88,6 +100,8 @@ Temyize konu … Bölge İdare Mahkemesi ... İdare Dava Dairesinin … tarih ve
 
 ## Danıştay 4. D. 2023/8534 E., 2023/5466 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1030827000)
+
 İlk Derece Mahkemesi kararının özeti: ...
 
 …
@@ -102,9 +116,13 @@ Temyize konu ... Bölge İdare Mahkemesi ... İdare Dava Dairesinin ... tarih ve
 
 ## Danıştay 4. D. 2023/12714 E., 2023/5142 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1023737900)
+
 Dosyanın incelenmesinden; davacı tarafından, dava dilekçesinin "konu" kısmında, Ek-3'deki işlem ile 6306 sayılı Kanunun Uygulama Yönetmeliğinin 15 ve 15A. maddelerindeki bazı düzenlemelerin iptalinin istenildiği, dava dilekçesinin "açıklamalar" kısmında ise davalı idare tarafından ... tarih ve ... sayılı açık artırma usulüyle satış işleminin yapılması başlıklı satış işlemi ile 6306 sayılı Kanunun Uygulama Yönetmeliğinin 15 ve 15A. maddelerindeki bazı hükümlerin iptali istenilerek 15.maddenin 2.fıkrasındaki "herhangi bir şekil şartına tabi olmaksızın" ibaresinin üzerinde durulduğu, ayrıca 15A maddesinin 4.bendinde yer aldığı belirtilen "Ancak, arsa payı satılacak maliklere tebligat yapılamamış olması veya bu maliklerin satışa izleyici olarak katılmaması satışın geçerliliğine etki etmez ve gıyaplarında yapılan satış işlemi geçerli olur." cümlesinin üzerinde durulduğu, dava dilekçesinin "sonuç" kısmında ise; ... tarih ve ... sayılı açık artırma usulüyle satış işleminin yapılması başlıklı satış işlemi 6306 sayılı Kanunun Uygulama Yönetmeliğinin yukarıda belirtilen düzenlemelerinin iptaline karar verilmesinin istenildiği görülmektedir.
 
 ## Danıştay 6. D. 2021/504 E., 2023/4004 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/990672700)
 
 Davalı … Valiliği tarafından, öncelikle usule yönelik olarak davanın süresinde açılmadığı, esasa yönelik olarak ise; dava konusu satışa davet işleminin mevzuata ve usule uygun olarak tesis edildiği ve davanın reddi gerektiği savunulmuştur.
 
@@ -127,6 +145,8 @@ sayılı Bursa Valiliği Çevre ve Şehircilik İl Müdürlüğü işleminin ipt
 Açıklanan nedenlerle, yukarıda belirtilen riskli yapıların bulunduğu parsellerde yapılacak uygulamaların ve bu uygulamalara rıza göstermeyen maliklerin arsa paylarının açık artırma usulü ile satışına ilişkin kurallarını düzenleyen, bu kuralların uygulanması için ise üçte iki çoğunluk kararını yeterli bulan dayanak Kanun ve dava konusu Yönetmelik hükümleri uyarınca üçte birde kalan maliklerin mülkiyet hakkına yapılacak müdahalenin orantılı olmadığı, 634 sayılı Kat Mülkiyeti Kanuna göre "anagayrimenkulün bakımı, korunması" gibi hususlarda dahi bu oranın beşte dört olduğu da dikkate alındığında mülkiyet hakkını, 634 sayılı Kanundan daha ciddi oranda sınırlayan, 6306 sayılı Kanunun Uygulama Yönetmeliği hükümlerinde maliklerin üçte iki çoğunluğunun kararıyla üçte birin mülkiyet hakkının orantılı olmayacak şekilde kısıtlanması suretiyle hakkın ihlaline sebep olunduğu anlaşıldığından dava konusu 6306 sayılı Kanunun Uygulama Yönetmeliğinin 15/A maddesinin 1.fıkrasının a, b, c ve ç bentleri ve 2.fıkrasına ilişkin düzenlemelerin iptaline karar verilmesi gerektiği kanaatiyle bu kısımlar yönünden Dairemizce verilen çoğunluk kararına katılmıyorum.
 
 ## Danıştay 6. D. 2021/10336 E., 2023/2148 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/987796000)
 
 …
 
@@ -166,11 +186,15 @@ sayılı işlemine ilişkin kısmının incelenmeksizin reddine, 6306 sayılı K
 
 ## Danıştay 6. D. 2020/5348 E., 2023/1905 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/987513900)
+
 Muğla İli, Bodrum İlçesi, … Mahallesi, … ada, … sayılı parseldeki taşınmazın riskli yapı olarak tespit edildiği, söz konusu taşınmazda kiracı olarak ticari işletmecilik yaptığı, uyuşmazlık konusu yapının ekonomik ömrünü tamamladığı, ağır hasarlı veya yıkılma riski taşıdığı hususlarının ilmi ve teknik verilere dayanarak tespit edilmesinin gerektiği, oysaki bu hususların tespiti için taşınmazın incelenmediği, davaya konu taşınmazın şiddetli bir depremde dahi hasar görmediği, tamamen sağlam ve bakımlı bir bina olduğu iddia edilerek, konusunda uzman kişilerce yerinde herhangi bir inceleme yapılmaksızın, binadan ilmi ve teknik incelemeyi sağlayacak örnek ve numuneler toplanmadan riskli yapı kararı verilmesinin yasaya ve hukuka aykırı olduğu belirtilmiştir.
 
 Afet Riski Altındaki Alanların Dönüştürülmesi Hakkında Kanunun Uygulama Yönetmeliğinin 7. maddesinin 5. fıkrasında, şahsi hak sahiplerine riskli yapı tespit kararının tebliğ edileceği belirtilmiş ise de, aynı maddenin 6. fıkrasında itiraz hakkı yalnızca "malik" veya "kanuni temsilcilere" tanındığı, bu durumun idarenin faaliyetinin hukuka uygunluk denetimini sınırlandırdığı, yapı maliki tarafından riskli yapı kararına itiraz edilmemesi halinde, hukuka aykırı tespit işleminin geçerlilik kazanacağı, yapı malikinin de rızasıyla evrak üzerinden tespit işlemi gerçekleştirileceği, riskli yapı tespit işlemine dayanarak tüm gerekleri yerine getiren kiracıların tahliyesine sebebiyet verileceği, can ve mal kayıplarının artacağı belirtilerek, anılan Yönetmeliğin 7. maddesinin 5. ve 6. fıkralarının iptali gerektiği ileri sürülmüştür.
 
 ## Danıştay 6. D. 2021/6539 E., 2023/1879 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/987505400)
 
 Taşınmazın 19 bağımsız bölümden oluştuğu, bunun 15 adedinin ...Bankası'na ait olduğu, ...Bankası paydaş çoğunluğunu gözetmeksizin kat malikleri toplantısından bir gün önce tek başına bir firma ile yapım sözleşmesi imzaladığı, yapım sözleşmesine göre yeni yapılacak taşınmazın tek bir bağımsız bölüm şeklinde tasarlandığı ve eski bağımsız bölüm maliklerine buradan hisse verileceği, taşınmazın ayrı bağımsız bölümler şeklinde tasarlanmaması nedeniyle mülkiyet hakkının çiğnendiği, arsa payının tespiti ve kat malikleri toplantısı hakkında adli yargıda dava açıldığı, daha önceden idare tarafından arsa payının satışı için verilen satış kararının ise taşınmaz bedelinin düşük olması nedeniyle Mahkeme kararıyla iptal edildiği, bu kez dava konusu taşınmaz için takdir edilen satış bedelinin ise kendilerine tebliğ edilmediği, satış bedelinin ne olduğu, yeni bir kıymet takdiri yapılıp yapılmadığını bilmediğini, bu nedenlerle satış işleminin iptali gerektiği, …
 
@@ -181,6 +205,8 @@ Satış işlemine dayanak olan 6306 sayılı Kanun'un Uygulama Yönetmeliği'nin
 Açıklanan nedenlerle, yukarıda belirtilen riskli yapıların bulunduğu parsellerde yapılacak uygulamaların ve bu uygulamalara rıza göstermeyen maliklerin arsa paylarının açık artırma usulü ile satışına ilişkin kurallarını düzenleyen, bu kuralların uygulanması için ise üçte iki çoğunluk kararını yeterli bulan dayanak Kanun ve dava konusu Yönetmelik hükümleri uyarınca üçte birde kalan maliklerin mülkiyet hakkına yapılacak müdahalenin orantılı olmadığı, 634 sayılı Kat Mülkiyeti Kanuna göre "anagayrimenkulün bakımı, korunması" gibi hususlarda dahi bu oranın beşte dört olduğu da dikkate alındığında mülkiyet hakkını, 634 sayılı Kanundan daha ciddi oranda sınırlayan, 6306 sayılı Kanunun Uygulama Yönetmeliği hükümlerinde maliklerin üçte iki çoğunluğunun kararıyla üçte birin mülkiyet hakkının orantılı olmayacak şekilde kısıtlanması suretiyle hakkın ihlaline sebep olunduğu anlaşıldığından, dava konusu işlemin ve Yönetmelik hükümlerinin iptaline karar verilmesi gerektiği oyuyla …
 
 ## Danıştay 9. D. 2021/2969 E., 2023/189 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/907797500)
 
 İlk Derece Mahkemesi kararının özeti: ...
 
@@ -193,6 +219,8 @@ DAVACININ İDDİALARI: Tesisat kontrol ısı yalıtım (iskan) ücretinin 6306 s
 … Bölge İdare Mahkemesi ... Vergi Dava Dairesinin … tarih ve E:…, K:… sayılı kararının BOZULMASINA …
 
 ## Danıştay 6. D. 2021/6992 E., 2022/11774 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/882106200)
 
 İlk Derece Mahkemesi kararının özeti: … İdare Mahkemesince verilen …tarih ve E:…, K:
 
@@ -210,6 +238,8 @@ Mahkeme kararına yönelik olarak yapılan istinaf başvurusunun kabulü ile an�
 
 ## Danıştay 6. D. 2020/9207 E., 2022/9362 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/858959500)
+
 Riskli alan ilanına ilişkin dava konusu Cumhurbaşkanı Kararının dayanak ve gerekçesi arasında 6306 sayılı Kanunun 2. maddesinin gösterilmiş olması nedeniyle, alandaki yapılardan, zemin yapısı bakımından risk teşkil eden yapıların riskli alan sınırı içerisine alınmasına hukuken herhangi bir engel bulunmamaktadır.
 
 Ancak; zemin yapısı bakımından risk teşkil eden yapıların riskli alan sınırı kapsamına alınabilmesi için bu yapılara ilişkin 6306 sayılı Kanunun Uygulama Yönetmeliğinin 5. maddesi uyarınca, Yönetmeliğin Ek-2'sinde yer alan "Riskli Yapıların Tespit Edilmesine İlişkin Esasların" Ek-A bölümü uyarınca; binalara ilişkin parametrelerin (yapısal sistem türü, kat adedi, görünen kalite, yumuşak kat, düşeyde düzensizlik, ağır çıkma, planda düzensizlik/burulma etkisi, kısa kolon etkisi, yapı nizamı/bitişik binalarla döşeme seviyeleri yapı nizamı, tabii zemin eğimi vb.) dikkate alınarak, yapıların bulunduğu yerdeki deprem tehlikesi ve yapının deprem performansını etkileyen yapısal özelliklerin saha çalışmaları sonucunda elde edilmesi ve yapısal sistem özelliklerine göre sınıflandırılmış tip binalar seçilerek bunların analizlerinin yapılması sonucunda bir korelasyon çıkarılıp genel yapı stoğunun riskinin belirlenmesi gerekmektedir.
@@ -225,15 +255,21 @@ Dava konusu 26/08/2020 tarihli, 2878 sayılı Cumhurbaşkanlığı Kararının M
 
 ## Danıştay 6. D. 2022/5928 E., 2022/9024 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/859753100)
+
 6306 sayılı Kanunun Uygulama Yönetmeliği'nin 7. maddesinin 6. fıkrasında ise; "Riskli yapı tespitine karşı yapı malikleri veya kanunî temsilcilerince on beş gün içinde riskli yapının bulunduğu yerdeki Müdürlüğe veya Bakanlıkça yetki devri yapılması durumunda İdareye verilecek bir dilekçe ile itiraz edilebilir. İtirazın süresi içerisinde ve yapı malikince veya kanuni temsilcilerince yapılıp yapılmadığı Müdürlükçe veya İdarece kontrol edilir. Süresi içinde yapılmayan itirazlar ile yapı malikince veya malikin vefat etmiş olması halinde mirasçılarınca yapılmayan itirazlar işleme alınmaz" denilmiştir.
 
 ## Danıştay 6. D. 2022/6861 E., 2022/8929 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/913992500)
 
 Aynı Kanun'un "Uygulama işlemleri" başlıklı 6. maddesinin 5. fıkrasının (a) bendinde, riskli alanlara, rezerv yapı alanlarına ve riskli yapıların bulunduğu taşınmazlara ilişkin her tür harita, plan, proje, arazi ve arsa düzenleme işlemleri ile toplulaştırma yapmaya Bakanlığın yetkili olduğu hüküm altına alınmış; aynı maddenin 6. fıkrasında; "Bakanlık, riskli alanlar, rezerv yapı alanları ve riskli yapıların bulunduğu parsellerdeki uygulamalarda faydalanılmak üzere, özel kanunlar ile öngörülen alanlara ilişkin olanlar da dahil, her tür ve ölçekteki planlama işlemlerine esas teşkil edecek standartları belirlemeye ve gerek görülmesi halinde bu standartları plan kararları ile tayin etmeye veya özel standartlar ihtiva eden planlar ve kentsel tasarım projeleri yapmaya, yaptırmaya ve onaylamaya yetkilidir." hükmüne yer verilmiştir.
 
 6306 sayılı Kanunun Uygulama Yönetmeliğinin 18. maddesinin 2. fıkrasının (a) bendinde; Bakanlığın, riskli alan ve rezerv yapı alanı ile riskli yapıların bulunduğu taşınmazlara ilişkin her tür ve ölçekteki planı resen yapmaya, yaptırmaya ve onaylamaya yetkili olduğu, kuralına yer verilmiştir.
 
 ## Danıştay 6. D. 2020/5347 E., 2022/6573 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/846851000)
 
 Davalı Çevre, Şehircilik ve İklim Değişikliği Bakanlığı tarafından; dava konusu uygulama işlemlerinde ve düzenleyici işlemlerde hukuka aykırılık bulunmadığı, lehlerine vekalet ücretine hükmedilerek davanın reddedilmesi gerektiği savunulmaktadır.
 

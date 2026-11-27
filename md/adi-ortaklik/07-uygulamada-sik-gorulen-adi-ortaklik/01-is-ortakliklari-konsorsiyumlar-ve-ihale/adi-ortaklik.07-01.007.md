@@ -22,12 +22,16 @@ uyari: "Derleyenin seçtiği alıntılardır; kararın tamamı değildir. Künye
 
 ## Ankara BAM 27. HD 2024/1001 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1096696500)
+
 Asıl davada davacı ... ile birleşen davada davalılar, yüklenici iş ortakları .... Şirketi ve ...
 (iş ortakları) arasında 17.05.2016 tarihli membranlı sulama göleti inşasına ilişkin birim fiyatlı eser sözleşmesi akdedildiği, ...'nin yazılı izni olmaksızın yüklenicinin hakediş ve alacaklarını temlik edemeyeceğinin, temlikin noter tarafından düzenlenmesi ve idare tarafından istenen kayıt ve şartları taşıması gerektiğinin (11.5) kararlaştırıldığı, 31.03.2018 tarihine kadar olan imalatlara ilişkin 4 numaralı hakedişin 11.06.2018 tarihinde onaylandığı, 17.089,631 m² membran imalatının bu hakedişe girdiği, 5 numaralı ve kesin hakedişin 30.12.2019 onay tarihli olduğu, işin geçici kabulünün 22.08.2019 tarihi itibar olunarak 14.10.2020 tarihinde yapıldığı, 26.10.2020 tarihinde onaylandığı, iş ortaklığının 23.08.2017 tarihli dilekçeyle 420.000 TL'nin ...'a temliki için ...'den onay istediği, ... yönetim kurulunun 19.09.2017 tarihinde 420.000 TL için temlike izin verdiği, iş ortaklığının 26.09.2017/7521 yevmiye numaralı temlikname ile gölet inşaatı nedeniyle 5 numaralı hakedişten ödenmek ve toplam 430.000 TL ile sınırlı olmak üzere hakediş alacağını ...'a temlik ettiği, temliknamede ...'nin de muhatap olarak gösterildiği, iş ortaklığı ile ... arasında 17.000 m² membranın 427.591,26 TL
 bedelle satışına ilişkin 27.09.2017 tarihli satın alma sipariş formu ile satış sözleşmesi ilişkisinin kurulduğu, sözleşmede ödemelerin temlikname ile yapılması ve geciken ödemeler için aylık %2 vade farkı ödenmesinin kararlaştırıldığı, ...'ın 16.08.2018 tarihinde ... ve iş ortaklığına karşı Ankara 7. İcra Müdürlüğünün 2018/10343 sayılı ilamsız icra takibini başlattığı, 430.000 TL asıl alacak, 42.729,04 TL işlemiş faiz ve 91.607,67 TL gecikme zammı olmak üzere toplam 564.336,71 TL'nin tahsilini talep ettiği, takip talebinde borçlular itibariyle sorumlu oldukları miktarlara ilişkin bir sınırlama, açıklama bulunmadığı anlaşılmıştır. Menfi tespit talepli davanın takip talebindeki toplam alacak miktarı üzerinden görülmesi gerektiğinden ...'nin takip talebinde yer alan asıl alacak, işlemiş faiz ve gecikme zammı için menfi tespit talep etmekte hukuki yararı bulunmaktadır. Birleşen davada ise, davacının iş ortaklığına faturalar karşılığı 427.591,26 TL bedelli mal satarak teslim ettiği ihtilafsızdır.
 Mahkemece 427.591,26 TL'den temlik edilen 420.000 TL mahsup edilmek suretiyle bakiye 7.591,26 TL yönünden birleşen davanın kısmen kabulüne karar verilmiş ise de, temlik nedeniyle ... tarafından ...'a ödenecek bedelin tespitiyle bakiyesi yönünden ve icra hukuku kuralları çerçevesinde icra takibi itibariyle hüküm kurulması gerekirken eksik inceleme ve hatalı değerlendirmeyle satış bedelinden ... tarafından temlikine onay verilen miktarının mahsubuyla yazılı şekilde hüküm tesisi dosya kapsamına, usul ve yasaya uygun bulunmadığından taraf vekillerinin diğer istinaf nedenleri incelenmeksizin, istinaf başvurularının kabulüne, mahkeme kararının HMK 353/1.a.6 madde gereğince kaldırılmasına, dosyanın mahkemesine gönderilmesine karar verilmiştir.
 
 ## İstanbul BAM 12. HD 2024/909 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1039080700)
 
 …
 
@@ -39,12 +43,16 @@ Ancak, adi ortak ...'nın iflas tasfiyesinin halen sürdüğü anlaşılmakla, a
 
 ## İstanbul BAM 53. HD 2024/842 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1051076200)
+
 GEREĞİ GÖRÜŞÜLÜP DÜŞÜNÜLDÜ: Davacı iş ortaklığı, davalı ile arasında arsa satışı karşılığı gelir paylaşım sözleşmesi düzenlendiğini belirterek, davalı tarafından yapılan feshin sonuç doğurmadığının ve ayakta olduğunun tespiti ile kabul edilmez ise haksız fesih sebebiyle uğranılan zararların tahsilini talep ve dava etmiştir. Davalı iş sahibi, İstanbul Anadolu 10. ATM 2023-352 değişik iş sayılı dosyasında fesihten sonra arsada bulunan yükleniciye ait şantiye sahasının boşaltılmasına ilişkin ihtiyati tedbir isteminde bulunmuş, mahkemece tedbir talebi kabul edilmiştir. Mahkemece verilen tedbir kararından sonra iş sahibi tarafından, davacı yükleniciye karşı esas davanın açıldığı görülmüş, bu dava ile birleştirildiği anlaşılmıştır. İş sahibi tarafından açılan birleşen davada, yüklenici tarafından sözleşmeye aykırı olarak yapılan işlemlerin tespiti ve müdahalenin önlenmesi talep edildiği görülmüştür.
 Mahkemenin istinafa esas 18.04.2024 tarihli ara kararında ; aleyhine tedbir istenilen iş ortaklığının sözleşme kapsamında projenin inşasında bir kısım işin yapılmasından sonra davalı adi ortaklığın ortakları arasındaki iç ilişkiden kaynaklı inşaai faaliyetlerin durmuş olması, dava dışı başka bir yüklenici sözleşmesinin yapılmasına aleyhine tedbir istenilen iş ortaklığının sebebiyet vermiş olması hususları dikkate alındığında davalı/birleşen davacının HMK'nın 390/3 maddesinde öngörülen yaklaşık ispat koşulunu sağladığı ve HMK'nın 389. maddesinde öngörülen tedbir şartları da mevcut olduğundan bununla birlikte dosya içine sunulan belge ve bilgilerden ihtiyati tedbirin şartları yönüyle herhangi bir değişiklik oluşmadığı, birleşen davanın açıldığı aşama itibariyle de mevcut olan şartların varlığını sürdürdüğü gerekçesiyle davalı yüklenicinin ihtiyati tedbir kararına itirazlarının reddine karar verilmiştir. Birleşen dosya davalılar vekilleri istinafında; ihtiyati tedbir kararının doğrudan dava sonucu sağlamaya yönelik olduğunu, tek taraflı feshin mümkün olmadığını taraflar arasındaki sözleşmenin ayakta olduğunu, bu nedenle kararın kaldırılmasını talep etmiştir.
 Asıl davada yüklenici; iş sahibi tarafından sözleşmenin haksız olarak feshedildiğinin tespiti, bunun mümkün olmaması halinde zarar talebinde bulunmuş, birleşen davada ise; iş sahibi yüklenici tarafından yapılan işlerin sözleşmeye aykırılığın tespiti ile meni müdahale talebinde bulunmuştur.Birleşen davada, iş sahibi, açtığı meni müdahale davasında geçici koruma olarak arsada bulunan yükleniciye ait şantiye sahasının boşaltılmasına ilişkin tedbir talep etmiş, mahkemece; kabul edilen ihtiyati tedbir talebine karşı yapılan itiraz reddedilmiştir.Dosyada yapılan değerledirme sonucuna göre, yaklaşık ispat kriterleri ile yargılama sırasında sunulacak delillere göre talep halinde ihtiyati tedbir şartları her zaman yeniden değerlendirilebileceği hususu da gözetilerek, tarafların fesih konusunda iradelerinin birleşmemiş olması, feshin haksız olduğunun tespitine yönelik davanın bulunması, iş sahibi tarafından açılan meni müdahale davasının, davacı lehine bu aşamada yaklaşık ispat koşullarını sağlamaması ve dava ile elde edilecek sonucun, tedbire konu olmaması hususları birlikte değerlendirildiğinde, mahkemece, tedbire yapılan itirazın kabulüne karar verilmesi gerekirken, reddine karar
 verilmesi doğru olmamıştır.
 
 ## Ankara BAM 27. HD 2024/827 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1075859300)
 
 Ortk İbraname Mutabakatı" açıklaması ile yapılan muhasebe kayıtları ile borç bakiyesinin kalmadığı..." hususunun bildirildiğini, her ne kadar davalı şirketler tarafından "934.606,90 TL tutarındaki temlikname" nedeni ile temlik borçlusundan herhangi bir tahsilat yapılmadığı iddia edilmekte ise de, her iki iş ortaklığı birlikte incelendiğinde, temlik alan ve temlik borçlusunun aynı ortaklık yapısına sahip, aynı hakim hissedarlar ve imza yetkililerinden ibaret olduğunun görüldüğünü, bu nedenle "934.606,90 TL tutarındaki temlikname" gereği nakit veya banka transferi gibi bir zaruretleri söz konusu olmadığını, zira temlik alan ve temlik borçlusu ticari defter ve kayıtları marifeti ile temliknamenin gereğini yerine getirecek durumda olduğunu, davalı şirketler tarafından sunulan cevap dilekçesinde, dava konusu 934.606,90 TL tutarındaki temlikname nedeni ile temlik borçlusundan herhangi bir tahsilat yapılmadığının iddia edildiğini, bu noktada, 934.606,90 TL tutarındaki temliknamede temlik borçlusu ve temlik alan olarak belirtilen İş Ortaklıkları'nın arasındaki organik bağ ve hukuki ilişki hakkında açıklama yapılması gerektiğini, 03/01/2013 tarihli 934.606,90 TL tutarlı temlikname ile
 müvekkili şirketin, ... - ...- ... İş Ortaklığı'ndan olan alacağını ... ...-... İş Ortaklığı'na temlik ettiğini, ... ve ... şirketleri ile ... ... ve ... şirketleri benzer ortaklık yapısında, ticari merkezleri ile imza yetkilileri aynı olan şirketler olup, gerçekten de ... ... ve Tic. Ltd. Şti. ile ... İnş. Kimya Ltd. Şti.'nin hakim hissedarı ve imza yetkilisi ... olmakla, bu durumun dosyada bulunan 31/03/2008 tarihli alt yüklenici sözleşmesinden de açıkça anlaşılacağını, bununla birlikte ... İnş. Mak. Tur. San. ve Tic. Ltd. Şti. ile ... İnş. San. Tic. Ltd. Şti.'nin hakim hissedarı ve imza yetkilisi de ... ... olmakla, yine 01/03/2008 tarihli sözleşmeden de bunun açıkça anlaşılacağını, 03/01/2013 tarihli temliknamen ile ...-...-... İş Ortaklığı'ndan olan alacakların ... ...-...
@@ -56,6 +64,8 @@ müvekkili şirketin, ... - ...- ... İş Ortaklığı'ndan olan alacağını ..
 
 ## Ankara BAM 27. HD 2024/460 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1038069100)
+
 İlk Derece Mahkemesince; "Dosyamıza sunulan her iki bilirkişi heyeti raporunda da davalı bankanın taraflar arasındaki sözleşmeyi haksız yere feshettiği kabul edilmiş ise de; sözkonusu tespit ve değerlendirmeye Mahkememiz’ce iştirak edilmemiştir. Toplanan deliller ile sabit olduğu üzere sözleşme konusu işin yapılacağı yer Eruh ilçesi olup sözleşmenin davalı tarafından feshi, Eruh Belediye Meclisi tarafından alınan ve yukarıda değinilen kanalizasyon inşaatı işinin feshine ilişkin karara dayalıdır.
 Bu durumda, davalı bankanın bilirkişi raporlarında kabul edilenin ve davacının iddiasının aksine sözleşmenin feshinde haksız ve kusurlu olduğunun hukuken mümkün değildir.Zira,dosyada mevcut 19/08/2014 tarihli tutanakta davacı iş ortaklığı yetkili temsilcisinin de imzası bulunmakta olup tutanakta sözleşme konusu işte 05/08/2014 tarihinde tespit edilen eksik ve kusurlu işlerin şantiye mahallinde incelemesinde eksik ve ayıpların giderildiği tespit edilerek kanalizasyon inşaatı işinin iptalini ve işin tasfiyesini Eruh belediyesinin talep ettiği açıkça belirtilmiştir.Bu durumda, dava dışı Eruh Belediye Meclisi kararı ile kanalizasyon inşaatı işinin iptali sonucunda davacı ve davalı yönünden 6098 sayılı TBK'nın 136.m. gereğince kusursuz ifa imkansızlığı doğmuş olup bu durum davalı idare yönünden sözleşme konusu borcu ifa imkanını ortadan kaldırdığı sabittir. Bu nedenle de, davacının davalıya karşı sözleşmenin feshinde kusurlu olmadığı sabittir. Davacı iş ortaklığı yüklenici olarak sözleşmenin feshinden kaynaklandığı ileri sürdüğü dava konusu maddi tazminat talebini davalıya karşı değil; koşulları mevcut ise; dava dışı Eruh Belediye Başkanlığına karşı ileri sürebilir.
 Diğer taraftan, dava konusu eser sözleşmesinin davacı tarafından feshi sonrasında taraflar arasında düzenlenen 14/10/2014 tarihli tasfiye kabul tutanağında yüklenici davacı tarafından yapılan ve yapılmayan imalat kalemleri ayrı ayrı belirtilmiş olup davacı tarafından davalı tarafından düzenlenen hak ediş raporlarına da davacının Yapım İşleri Genel Şartnamesinin 39 ve 40.m. çerçevesinde usulüne uygun olarak itiraz ettiğini davacı yüklenici kanıtlayamamıştır. Bu durumda, düzenlenen hak edişlerin de taraflar arasında mutabakat niteliğinde kabulü gerektiği tartışmasızdır. Davalı bankanın tek taraflı olarak feshettiği eser sözleşmesinin feshinde kusurlu olduğu kanıtlanamadığından, davacının kusurlu fesih nedeni ile talep edebileceği dava konusu müspet ve menfi zarar kalemlerinin tazminini talep etmesi açıkça hukuki dayanaktan yoksundur. Bu nedenle, davacının ıslah dilekçesine konu yukarıda değinilen maddi tazminat kalemleri yönünden davanın reddi gerektiği kanaatine varılmıştır. Diğer taraftan, davacının açıklama ve ıslah dilekçesinde iadesini talep ettiği 3 adet Banka Teminat Mektubunun iadesi talebi yönünden ise; iade talebinin dosyamızda değerlendirilmesi mümkün değildir.
@@ -63,6 +73,8 @@ Zira, isteme konu Banka Teminat Mektuplarının iadesi talebinde dava dilekçesi
 Açıklanan gerekçelerle; davacının ıslah talebine konu banka teminat mektuplarının iadesi istemi yönünden karar verilmesine yer olmadığına, davacının dava konusu maddi tazminat taleplerinin ise; haklılığı kanıtlanamadığından reddine dair aşağıdaki şekilde karar vermek "gerektiği gerekçesiyle "1-Davacının ıslah dilekçesinde talebine konu Banka Teminat Mektuplarının iadesi istemi yönünden KARAR VERİLMESİNE YER OLMADIĞINA, 2-Dava ve ıslah talebine konu diğer alacak kalemleri yönünden ise davanın REDDİNE" karar vermiştir.
 
 ## İzmir BAM 14. HD 2024/69 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/981800700)
 
 Dava, temlik ve eser sözleşmesinden alacak istemine ilişkindir.
 
@@ -76,6 +88,8 @@ bulunmadığı hususunda inceleme yaptırılması gerekirken yalnızca davalı .
 
 ## İstanbul BAM 3. HD 2023/2852 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/938952800)
+
 İcra Müdürlüğünün ... Esas sayılı dosyasına yapılan itirazın 105.000,00 TL asıl alacak yönünden iptali ile takibin bu miktar üzerinden devamına, takibe takip tarihinden itibaren 3095 sayılı kanunun 2. Maddesi uyarınca avans faizi uygulanmasına, 2-İİK 67/2.
 Maddesi uyarınca hükmedilen alacak bedeli olan 105.000,00 TL'nin %20'si oranında olmak üzere 21.000,00 TL icra inkar tazminatına hükmedilmesine, bunun davalıdan alınarak davacıya verilmesine, 3-Kalan kısımlar yönünden davanın REDDİNE, reddedilen kısımlar yönünden davacı aleyhine kötü niyet tazminatına hükmedilmesine yer olmadığına" karar vermiştir.Kararı davacı vekili ile davalı vekili istinaf etmiştir.Davacı vekili istinaf dilekçesinde; bilirkişi raporunda davacı lehine hesaplanan 105.000 TL'lik tutarın, davacı iş ortaklığı tarafından ... şirketine ödenen tutar olduğu,bu tutarın, davalı yanın, müvekkili iş ortaklığına dayatma yoluyla imzalattığı sözleşmeden kaynaklı 356.268,61 TL'lik tutar ile karıştırılmaması gerektiği,bunun fazladan masraf olduğu, davalının, müvekkillerinin üstlendiği yapım işine konu taşınmazlara, doğalgaz tesisatı bağlanması için sözleşmeden kaynaklanan edimlerini ifa etmediğini,bu nedenle müvekkili iş ortaklığınca edimini zamanında ifa etmeyen ve o zaman itibariyle ifa eylemlerine başlamayan davalı yanı temerrüde düşürme amacıyla gerekli bildirim yapıldığı,ancak mütemerrit davalının yapılan bildirime karşılık gerekli ifa eylemlerine girişmediğini, raporda,
 bilirkişi heyeti yalnızca ... firmasına 105.000 TL karşılığı yaptırılan doğal gaz alt yapı işleri için ödenen bedelin davalı yan tarafından tahsil edilen abone bağlantı bedellerinden finanse edilmesi gerektiği yönünde görüş beyan etmiş olsa da, davalı şirket ile müvekkili arasında akdedilen sözleşme konusu edim davalı tarafından ifa edilmediğinden mezkur raporun açıkça davalı yanın sebepsiz yere zenginleşmesine yol açtığını, davalı ... tarafından müvekkiline dayatılan sözleşme konusu edim için tahsil edilen bedelin müvekkil iş ortaklığı sözleşmeyi imzaladığı için iade edilmediğini, bu bedelin geri iade edilmemesinin TBK m.
@@ -83,6 +97,8 @@ bilirkişi heyeti yalnızca ... firmasına 105.000 TL karşılığı yaptırıla
 77'de düzenlenen sebepsiz zenginleşme hükümlerine açıkça aykırılık teşkil ettiğini,somut olaya bakıldığında müvekkili şirket, davalıyla arasında davalının gaz tekelini alinde bulundurması sebebiyle zorla akdetmiş olduğu sözleşmeden dolayı doğmuş olan asli borcunu ifa etmiş olmasına karşın davalı yanın taraflar arasındaki sözleşmeye aykırı olarak üzerine düşen edim borcunu haksız gerekçeler öne sürerek yerine getirmediğini, davalının sözleşmeden kaynaklanan edimini ifa etmeyerek sebepsiz yere zenginleştiğini,masraflarının karşılanmadığını,bilirkişi heyetinin faturaların toplam tutarı kadar davacı lehine hesaplama yapması gerektiğini, davalı ...'ın müvekkili iş ortaklığına dayattığı sözleşmeden kaynaklanan edimini yerine getirmediği ve müvekkili iş ortaklığı doğal gaz bağlantısı için gereken alt yapı işlerini, masrafı iş ortaklığı kasasından karşılanmak üzere alt yüklenici firmalarla sözleşme yaparak yerine getirdiğini,sonuç olarak davalı yanın sözleşme ile üstlendiği ve hatta ücretini müvekkili iş ortaklığından tahsil ettiği yapım işi gereğince yerine getirilmediği ve işbu durumun müvekkili iş ortaklığının alt yüklenici firma olan "... Ltd.
 
 ## Ankara BAM 21. HD 2023/1914 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/991991900)
 
 Dava, bankacılık işleminden kaynaklanan alacak talebine ilişkindir.
 
@@ -92,6 +108,8 @@ Hal böyle olunca, davacı ortaklardan birinin tek başına adi ortaklığa ait 
 ile davacılara verilmesine karar verilmesi gerekirken yazılı şekilde hüküm kurulması usul ve yasaya aykırı olduğundan davacı ... İnşaat Ltd. Şti vekilinin ve hükmün HMK.nun 297.maddesine aykırılık teşkil etmesi nedeniyle kamu düzeni gözetilerek davalı banka vekilinin istinaf itirazlarının kabulüne karar vermek gerekmiştir.
 
 ## İzmir BAM 14. HD 2023/1872 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/977838600)
 
 Dava, eser sözleşmesinden kaynaklanan bakiye alacağın tahsili için başlatılan takibe itirazın iptali istemine ilişkindir.
 
@@ -103,6 +121,8 @@ iş ortaklığı arasında geçerli bir eser sözleşmesi kurulduğunun ispat ed
 
 ## İstanbul BAM 3. HD 2023/1836 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/907220600)
+
 Dava, adi ortaklığın fesih/tasfiyesi talebine ilişkindir.
 
 …
@@ -112,6 +132,8 @@ Dosya kapsamına göre, taraflar arasında akdedilmiş ,hukuken geçerli "adi or
 
 ## Ankara BAM 21. HD 2023/1710 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/978220800)
+
 Dava; kasko sigorta poliçesinden kaynaklanan rücuen tazmin istemine ilişkindir.
 
 …
@@ -120,6 +142,8 @@ Anılan dosyada trafik bilirkişiden alınan 19/02/2020 tarihli raporda, yolun y
 (kasko sigortalı) aracın sürücüsünün kazanın oluşumunda kusurunun bulunmadığı belirtilmiştir.
 
 ## Diyarbakır BAM 6. HD 2023/1604 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/950372600)
 
 Dava, hizmet sözleşmesine dayalı fatura alacağının tahsili amacıyla başlatılan takibe vaki itirazın iptali istemine ilişkindir.
 

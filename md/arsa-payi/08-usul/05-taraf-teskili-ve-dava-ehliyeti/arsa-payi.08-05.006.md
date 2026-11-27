@@ -22,6 +22,8 @@ uyari: "Derleyenin seçtiği alıntılardır; kararın tamamı değildir. Künye
 
 ## Yargıtay 14. HD 2009/4056 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/850081100)
+
 Davacı yüklenici karşı davasında, taşınmazın öncesinin karşı davanın davalıları ..., ... ve ...’e ait olduğunu, bu kişilerle aralarında 15.07.2004 tarihli arsa payı karşılığı inşaat yapım sözleşmesi bulunduğunu, ancak bu kişilerin 14.06.2007 tarihinde taşınmazı asıl davanın davacıları (karşı davanın davalıları) ... ve ...’a tapudan sattığını, bu kişilerle yeni sözleşme yapma olanağı bulunmadığını, imar uygulamasıyla 1900 ada 14 parsel sayısını alan taşınmazın tapu kaydının tekrar eski malikleri adına tescilini, olmadığı takdirde yaptığı giderler karşılığı 60.000 lira ile kar kaybı mahrumiyeti zararlarının davalılardan tahsilini istemiştir.
 
 Mahkemece, arsa payı karşılığı inşaat yapım sözleşmesi şerhinin terkinine, karşı davanın kısmen kabulü ile bilirkişinin bulduğu yüklenici harcamaları toplamı 27.016 YTL.nin davalılardan Hamit ve Şerif’ten tahsiline karar verilmiştir.
@@ -35,6 +37,8 @@ Mahkemece, arsa payı karşılığı inşaat yapım sözleşmesi şerhinin terki
 SONUÇ: Hükmün yukarıda (2) no’lu bentte yazılan nedenlerle davacılar (karşı davalılar) ... ve ... ve (3) numaralı bentlerde açıklanan nedenlerle davalı ... yararına BOZULMASINA …
 
 ## Yargıtay 15. HD 2008/7769 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/858542500)
 
 Dava, yüklenicinin arsa payı karşılığı inşaat yapım sözleşmesi uyarınca üstlendiği işi eksik bırakması nedeniyle eksiklerin davalı nam ve hesabına tamamlanmasına izin ve yetki verilmesi, hesaplanacak eksik ve ayıpların giderilmesi giderlerinin tahsili istemlerine ilişkindir.
 
@@ -51,6 +55,8 @@ SONUÇ: Yukarıda (1.) bendde yazılı nedenlerle davalının diğer temyiz itir
 
 ## Yargıtay 15. HD 2008/3951 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/859404900)
+
 Davada taraf teşkili kamu düzenine ilişkin olup dava şartlarındandır. Bu nedenle adlarına kayıtlı olan tapuların iptâline karar verilen müdahiller hakkında da usulen dava açılması zorunludur. Dosyada bulunan tapu kaydına göre, müdahiller adlarına kayıtlı bağımsız bölümleri doğrudan davalı yüklenici şirketten satın almamışlardır. Gerçekten, yüklenici şirket tarafından;
 19 nolu daire, 18.06.2004 tarihinde dava dışı ....’na, bu kişi tarafından da 01.10.2004 tarihinde müdahil ....a, 21 nolu daire 17.05.2004 tarihinde dava dışı ...’e, bu kişi tarafından da 03.09.2004 tarihinde müdahil ...’e, 22 nolu daire 17.05.2004 tarihinde dava dışı ...e, onun tarafından 15.10.2004 tarihinde dava dışı Genson İnşaat Otomasyon Tekstil Gıda Turizm Sanayi ve Ticaret Limited Şirketine, bu şirket tarafından da 17.11.2004 tarihinde müdahil Baransel Saygı’ya, 24 ve 25 nolu dairelerden 24 nolu daire 30.07.2004 tarihinde, 25 nolu daire de 26.10.2004 tarihinde dava dışı ....’e, bu kişi tarafından da 24 nolu daire 23.09.2004 tarihinde 1/2’şer hisse itibariyle müdahiller... ve ....’na, 25 nolu daire ise 09.11.2004 tarihinde müdahil ....’e, 2 nolu daire 02.09.2005 tarihinde dava dışı...’e, bu kişi tarafından 16.09.2005 tarihinde ...a, ... tarafından da 27.09.2005 tarihinde müdahil ...e satılmıştır. Bu durumda yükleniciden ve yüklenicinin sattığı kişilerden bağımsız bölümleri satın alarak müdahillere devreden yukarıda isimleri yazılı …
 
@@ -60,6 +66,8 @@ SONUÇ:Yukarıda 1. bentte açıklanan nedenlerle davacıların tüm temyiz itir
 
 ## Yargıtay 18. HD 2007/8922 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/880433300)
+
 Davacı vekili dava dilekçesinde, Kat Mülkiyeti Yasasına aykırı olarak arsa payı verilip davalılar adına kat irtifakı tesisi ile tapuya tescil edilen ortak yer (bekçi evi) niteliğindeki taşınmazların arsa paylarının iptali ile ortak yer olarak tesciline karar verilmesini istemiş, mahkemece dava konusu edilen 15 ve 16 nolu bağımsız bölümlerin projede ortak yerlerden sayılan kapıcı dairesi yeri olarak belirlendiği, ortak yerlere tapuda arsa payı ayrılamayacağı ve özel mülkiyete konu edilemeyeceği gerekçesi ile tapularının iptali ile arsa paylarının yeniden düzenlenmesine karar verilmiştir.
 
 Arsa payının değiştirilmesi istemiyle açılan davanın sonunda dava konusu edilen bağımsız bölümün arsa payının değişmesi diğer bağımsız bölümlerin paylarında da artmaya ya da azalmaya neden olacağından ve bu durumun bütün kat maliklerinin hukukunu ilgilendirdiği ve husumetin kat maliklerinin tümüne yöneltilmesi ve buna göre taraf teşkilinin sağlanması gerektiği düşünülmeden yazılı şekilde karar verilmesi doğru görülmemiştir.
@@ -67,6 +75,8 @@ Arsa payının değiştirilmesi istemiyle açılan davanın sonunda dava konusu 
 Bu itibarla yukarıda açıklanan esaslar gözönünde tutulmaksızın yazılı şekilde hüküm tesisi isabetsiz, temyiz itirazları bu nedenlerle yerinde olduğundan kabulü ile şimdilik diğer yönleri incelenmeksizin hükmün HUMK.nun 428.maddesi gereğince BOZULMASINA …
 
 ## Yargıtay 15. HD 2007/7582 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/861062000)
 
 Dava, kat karşılığı inşaat sözleşmesi uyarınca eksik ve kusurlu işler bedelinin tahsili ve davalı yükleniciye bırakılan bağımsız bölümün satış yetkisinin verilmesi istemine ilişkindir.
 
@@ -146,6 +156,8 @@ Aydın Asliye Ticaret Mahkemesi'nin 09.07.2025 tarih ve 2024/464 Esas, 2025/483K
 
 ## İstanbul BAM 17. HD 2026/151 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1193220700)
+
 Davacı vekili dava dilekçesi ile; davalı ... ve müteveffa ...'a ait arsa üzerinde davalı kooperatifin yapacağı kat karşılığı inşaat için müvekkili yapı denetim şirketi ile 19.03.2004 tarihinde yapı denetim hizmet sözleşmesi düzenlendiğini, 25.03.2004 tarihinde yapı ruhsatı alınması ile fiilen inşaatın başladığını ve müvekkili şirketin yapı denetim hizmeti vermeye devam ettiğini, hakedişlerinin ödenmemesi üzerine belediyeye yaptıkları başvuru sonucunda, .....
 
 …
@@ -159,6 +171,8 @@ Bu nedenle ilk derece mahkemesi kararı kaldırılarak davalı kooperatif yönü
 
 ## Konya BAM 5. HD 2025/1778 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1185520300)
+
 Davalı - karşı davacı ........ Şirketi vekili davaya cevap ve karşı dava dilekçesinde özetle; müvekkili şirketin, davalı arsa sahibi ........
 
 …
@@ -171,6 +185,8 @@ Davacı şirket, davacı ile davalılar arasında adi ortaklık ilişkisini bulu
 Bu nedenle mahkemece asli talebin sözleşmenin geçersizliğinden reddi ve tali alacak talebi açısından ise ........ ve Ticaret A.Ş yönünden husumet nedeniyle reddine karar verilmesi doğru olmuştur.
 
 ## Antalya BAM 16. HD 2025/1456 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1189303100)
 
 Davacı vekili, davalılar ile kat karşılığı inşaat sözleşmesi yaptıklarını yaptıkları sözleşme ve protokol gereğince davalıların yapacakları bir kısım harcamalar için para ve senet verileceğinin kararlaştırıldığını verilen bu senedin teminat senedi olduğunu, senet verilmesine rağmen herhangi bir inşaat faaliyetinde bulunulmadığını buna rağmen senedin takibe konulduğunu öne sürmüş bu takipten borçlu olmadıklarının tespitini talep etmiştir.
 
@@ -198,6 +214,8 @@ Kabule göre de takipte ve bonoda davalı şirketin alacaklı olarak yer almamas
 
 ## Bursa BAM 14. HD 2025/1077 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1156921600)
+
 Davacı vekili, davalılardan ....
 
 …
@@ -223,6 +241,8 @@ Bu durumda tapu iptali talep edilen bağımsız bölümün davalılar adına kay
 Öte yandan, davacı tarafça davalı yüklenici ile imzalanan sözleşme kapsamında yükleniciye ödenen bedelin iadesi istendiğinden, davacı ile davalı şirket arasındaki hukuki ilişkinin niteliği, yüklenici ile davalı arsa malikleri arasındaki sözleşmesel ilişki dikkate alındığında davacı tarafça yüklenici şirkete ödenen bedelin sebepsiz zenginleşme hükümlerine göre arsa maliklerinden istenemeyeceği de açıktır.
 
 ## Sakarya BAM 5. HD 2025/955 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1151097900)
 
 Davacı ile davalı şirket ve dava dışı bazı şahısların Kocaeli 5. Noterliğinin 31/03/2017 tarih ... yevmiye nosu ile kat karşılığı inşaat sözleşmesi imzaladıklarını, sözleşmeye göre Kocaeli - İzmit İlçesi Karabaş Mah. ... Pafta ...
 

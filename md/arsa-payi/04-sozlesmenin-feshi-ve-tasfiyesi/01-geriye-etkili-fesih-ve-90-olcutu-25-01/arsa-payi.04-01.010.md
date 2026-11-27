@@ -51,6 +51,8 @@ Davacının asıl ve birleşen davalar yönünden İlk Derece Mahkemesi kararın
 
 ## İstanbul BAM 53. HD 2026/27 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1188703100)
+
 Davacı vekili istinaf dilekçesinde özetle; kaldırma karar gerekçesi karşılanmaksızın karar verildiği, cezai şartın tenkisine yönelik yeterli gerekçe olmadığı, bu konuda rapor alınması yoluna gidilmediği, indirim yapılırken davacı taraf yönünden hiç değerlendirme yapılmaksızın yalnızca davalının kayıtlı sermayesi dikkate alınarak karar verildiği, cezai şartın belirlenmesi aşamasında davalının cezai şarta sebebiyet verdiği sürenin de dikkate alınması gerektiği, sonuç olarak indirim oran ve miktarının dayanaksız olduğu, fiili teslim tarihine ilişkin de yanlış değerlendirme yapıldığı gerekçesiyle ilk derece mahkemesi kararının kaldırılması talep etmiştir.Davalı vekili istinaf dilekçesinde özetle; davacının öncelikle ipotek fek yükümlülüğünü yerine getirmesi gerektiği, ipotek fek yükümlülüğünün yerine getirilmemesinden kaynaklanan sürenin inşaat teslim süresine eklenmesi gerektiği, davalının temerrüde düştüğünün kabulü halinde dahi; davacı payına düşen taşınmazların davacı tarafından satılmış olması itibariyle kiradan kaynaklı tazminat talebinde bulunamayacağı gerekçesiyle ilk derece mahkemesinin kısmen kabul kararının kaldırılması talep etmiştir.
 
 …
@@ -67,12 +69,16 @@ BAKIRKÖY 1. ASLİYE TİCARET MAHKEMESİ'nin 17/10/2024 tarih, 2024/170 Esas, 20
 
 ## İstanbul BAM 15. HD 2025/1350 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1183495100)
+
 Bu itibarla, taraflarca düzenlenen sözleşme batıl olduğundan, taraflar için hüküm ifade etmeyecek ve nedensiz zenginleşme kuralları içinde taraflar, birbirlerine verdikleri şeyleri istirdat etmek hakkını haiz olacaklardır.Sözleşme kurulurken mevcut olan imkânsızlığın, geçici imkânsızlık niteliğinde olması yani imkânsızlığın ortadan kalkabilecek nitelikte olması halinde tarafların bu sözleşmeyle ne kadar süre bağlı kalacakları sorunu ortaya çıkar. Bu konudaki kural "ahde vefa, söze sadakat" ilkesi gereği tarafların sözleşmeyle bağlı tutulmasıdır. Ancak bazı özel durumlar vardır ki, tarafları o sözleşmeyle bağlı saymak hem onların ekonomik özgürlüklerini engeller, hem de bir başkası ile sözleşme yapma fırsatını ortadan kaldırır. Uygulamada, geçici imkânsızlık halinde tarafların o sözleşmeyle bağlı tutulma süresine "akde tahammül süresi" denilmektedir.
 Bu sürenin gerçekleşip gerçekleşmediğini de her somut olaya göre ve onun çerçevesinde değerlendirmek gerekir." Sözleşme geçerli biçimde kurulmuş olmasına rağmen geçici imkansızlığın sürmesi veya imkansızlık hali ortadan kalkmış olmasına rağmen taraflardan birinin tahammül süresinin dolması nedeniyle sözleşmeden dönmek istemesi halinde yapılması gereken iş sözleşmenin yapıldığı sırada geçersiz olduğunun tespitine karar vermek olmayıp sözleşmenin geriye etkili feshi (dönme) koşullarının gerçekleşip gerçekleşmediğini saptayarak bu konuda bir karar vermektir.Somut olayda; davaya konu taşınmazlara ilişkin kat karşılığı inşaat sözleşmesi 2006 yılında akdedilmiş ve inceleme tarihi 2025 yılında dahi henüz inşaata başlanmamıştır.
 
 Bu durumda davacı açısından "akde tahammül süresi" dolduğunun kabulü gerekir, her ne kadar Dairemizce önceki karar ile taraflar arasındaki sözleşmenin geçersizliğinin tespitine karar verilmiş ise de bu kez gerekçe ve hüküm arasındaki bu hüküm maddesindeki çelişki giderilerek ve Yargıtay bozmasının hükmün sadece bu kısmına yönelik usul bozması olduğu ve kararın; temyiz edenlerin diğer temyiz sebepleri incelenmeksizin bozulduğu da nazara alınmak sureti ile diğer hüküm maddeleri değiştirilmeksizin, hükümde sadece birleşen davaya ilişkin kısımda "sözleşmenin geriye etkili feshine " karar verilmiştirAçıklanan nedenlerle, yargıtay 6. Hukuk Dairesinin bozma ilamına uyularak aşağıdaki şekilde hüküm kurulmuştur.
 
 ## Ankara BAM 27. HD 2025/1324 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1185326800)
 
 Davacı vekili istinaf dilekçesinde özetle:
 Mahkeme kararında taraflar arasındaki davanın evveliyatının doğru irdelenmediğini ve işbu davanın ilk kez Asliye Hukuk Mahkemesinde açıldığı zaman; görevli mahkemenin Asliye Hukuk Mahkemesi olduğu ve arabuluculuk dava şartının o tarihte söz konusu olmadığının görülmediğini, Asliye Hukuk Mahkemesi kararının istinaf mahkemesince, görev yönünden kaldırılması kararında da keza arabuluculuk şartının bulunmadığı, dosyanın Asliye Ticaret Mahkemesine devrinden sonraki zamanlarda mevzuata arabuluculuk şartının girmesine karşın, işbu istinafa tabi kararı veren Asliye Ticaret Mahkemesi tarafından da arabuluculuk şartının aranmayarak, davanın davacı lehine karara bağlandığını, öte yandan istinaf kaldırma kararını müteakip, davanın yeni esasa kaydından ve duruşmadan önce eksik harcı ikmal ettiklerini ve dava şartı arabuluculuk kurumuna başvurularak anlaşmazlık son tutanağının da alınarak dosyaya sunulduğunu, taraf menfaati ve davada usul ekonomisi bakımından, davanın geçirmiş olduğu aşama dikkate alındığında mahkeme hükmünün hatalı olduğunu belirterek, kararın kaldırılmasına, taraflar arasında düzenlenen arsa payı karşılığı inşaat hakkı sözleşmesinin ileriye dönük olarak sona erdiğinin ve
@@ -87,6 +93,8 @@ Dairemizin 16.07.2024 tarihli kaldırma kararında da belirtildiği ve Yargıtay
 sayılı kararının HMK’nın 353/1-a.4-6 maddeleri gereğince kaldırılmasına …
 
 ## Tekirdağ BAM 4. HD 2025/1033 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1176052100)
 
 Davalı vekili vevap dilekçesinde özetle; önceden 2016'da başlayıp önceki müteahhidin iflası nedeniyle 4 yıldır atıl duran inşaatın davalı tarafından inşaatın zemin katı tamamlanmış ve kat irtifakı kurulmuş halde devralındığını, sözleşmenin akdinden sonra 1 ayda inşaat yapı ruhsatının alındığını, sonrasında taşınmazın tapu kaydındaki hacizler nedeniyle kat irtifakı bozulup tadilat proje onayının 2024 yılı Haziran ayında alınabildiğini, halihazırda inşaatın %70 seviyesinde olup, 6 ay içinde teslimin planlandığını, bu nedenle teslim süresinde belirsizlik olduğunu belirterek, davanın reddini savunmuştur.
 
@@ -109,6 +117,8 @@ Ayrıca, arsa payı karşılığı inşaat sözleşmesi yükleniciye kişisel ha
 Arsa payı karşılığı inşaat sözleşmesinin feshi, fesih nedenleri ve feshin sonucu, tasfiyenin ileri veya geri etkili olup olmayacağının sonuçları, arsa sahibinden veya yükleniciden bağımsız bölüm satın alan veya kendisine satış vaadinde bulunulan üçüncü kişiyi doğrudan etkiler. Feshin ileriye veya geriye etkili olması ayrımı, yüklenicinin yapımını yüklendiği inşaatı kısmen tamamlaması fakat temerüdü yüzünden teslim edememesi halinde tasfiyenin nasıl yapılacağı ile ilgilidir. Eğer feshin sonuçları geriye etkili olacaksa, sözleşme yokmuşcasına tasfiye edileceğinden, yüklenici inşaattan yapamadığı kısma orantılı arsa payı değil, sebepsiz zenginleşme hükümlerine göre imal ettiği inşaatın bedelini alabilir. Ancak, fesih ileriye etkili ise imalat oranına paralel arsa payının devri istenebilir. Bu husus 25/01/1984 tarihli ve 3/1 sayılı Yargıtay İçtihadı Birleştirme …
 
 ## İzmir BAM 17. HD 2025/850 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1155825800)
 
 Mahkemece yapılan açık yargılama sonucunda; ''...Davacı Tasfiye Halinde ...Ltd Şti İflas İdaresinin açtığı 25.04.2011 harç tarihli dava dilekçesinde; ...Ltd Şti ile .... Genel Müdürlüğü....
 
@@ -135,6 +145,8 @@ edilmediği, ihtilafın doğru olarak tanımlandığı, inceleme konusu kararın
 
 ## Sakarya BAM 5. HD 2025/398 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1125497100)
+
 Davalı vekili cevap dilekçesinde özetle;
 
 …
@@ -146,6 +158,8 @@ Dava, arsa payı karşılığı inşaat yapım sözleşmesinin geriye etkili fes
 Bu durumda sözleşme ile yapımı üstlenilen inşaatın süresinde tamamlanmadığı, bu halde 6098 sayılı TBK'nın 124/3. maddesindeki süre verilmeksizin ve ihtara gerek olmaksızın fesih koşulları gerçekleştiği ve davacı arsa sahibi 6098 sayılı TBK'nın 125/II. maddesindeki sözleşmeden dönme seçimlik hakkını tercih ettiğinden, mahkemece sözleşmenin geriye etkili olarak feshine karar verilmesi yerindedir. Her ne kadar davalı tarafça taşınmaz üzerinde takyidatlar olması ve davacının azilnamesi nedenleriyle davacının ifaya engel olduğu ileri sürülmüşse de, taşınmaz üzerinde takyidat olmasının ruhsat alımına ve inşaat yapımına engel teşkil etmediği, kaldı ki, davalının kendi lehine tapuya şerh koydurmuş olduğu, davacı azilnamesinin de ruhsat alımına dair makul sürenin hitamından çok sonra olduğundan bu nedenlerle davacıya kusur yüklenmesinin olanaklı olmadığından davalı tarafın bu yöndeki istinaf nedenleri yerinde görülmemiştir.
 
 ## Antalya BAM 7. HD 2025/327 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1132534600)
 
 Davalı vekili cevabında, taraflar arasında 05/11/2014 tarihinde noterde sözleşme yapıldığını, imar tadilatının 06/04/2016 tarihinde kesinleştiğini, bu süreçte davalının kusurlu olmadığını, ... belediyesince başvuru yapılmasına rağmen işlemlerin geciktirildiğini, davalının süresi içerisinde ruhsat başvurusu yaptığını ancak belediyenin ruhsat işlemlerini geç yaptığını, Antalya 1. Sulh Ceza Hakimliğinin 14/06/2017 tarih ve ...
 
@@ -159,10 +173,14 @@ Yerel mahkeme kararının esası incelenmeksizin ORTADAN KALDIRILMASINA ve davan
 
 ## İstanbul BAM 3. HD 2024/3042 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1085768000)
+
 Noterliği’nin 14.03.2019 Tarih ... yevmiye numaralı ihtarı ile “ sözleşmeden geçmişe etkili olarak döndüklerinin “bildirildiğini, Dönmeye ve Sözleşmenin sona erdirilmesine dair kabul beyanının ve arsa payı oranında kendilerine ödenmesi gereken 4.067.523,53.-TL cayma parası tutarının ödeneceği banka hesap bilgilerini müvekkiline 10 gün içinde ulaştırılması hususunun ihtar edildiğini ve davalı ... şirketinin bu ihtara cevaben Bakırköy ...
 Noterliği' nin 25.03.2019 Tarih ... yevmiye numaralı ihtarı ile dönme beyanlarını kabul etmediklerini, ancak 4.067.523,53 TL dönme cezası/cayma parası ödenmesi için hesap numarası bildirildiğini, cayma/dönme parası yanında menfi ve müspet zarar talep ettiklerini bildirdiklerini, sözleşmenin 6.4 maddesine göre, sözleşmeden dönme cezası/cayma parasının davalı ... şirketine, sözleşme akdi ile ödenmiş olduğunu, davalı ... şirketi payına düşen dönme cezası/cayma parasını ise mahkeme veznesine depo etmeye hazır bulunduklarını, sözleşmenin 6.3 Maddesine göre, “taraflardan biri tarafından inşaat ruhsatı başvurusuna kadar bu sözleşmenin 2.2.2 ve 2.4 maddesinde açıklanan istisnai haller dışında işbu sözleşmenin feshedilmesi durumunda fesheden taraf 7.000.000,- TL (Yedimilyon Türk Lirası) ceza ödemeyi kabul eder” hükmü düzenlendiğini, bunun, 6.1 Maddesine göre arsa sahiplerine başlangıçta ödenecek avans tutarı ile aynı olduğunu, davalı ... şirketine 04.10.2017 tarihinde 2.932.476,47 TL avans ödenmiş olduğunu, bunun dönme cezası/cayma parası olarak kabul edilmesi gerektiğini, mahkemece karar verilmesi ile ...
 
 ## İstanbul BAM 53. HD 2024/1173 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1090632300)
 
 GEREĞİ GÖRÜŞÜLÜP DÜŞÜNÜLDÜ: Davacı yüklenici, davalı arsa sahibi ile KKİS yaptıklarını, sözleşmenin mahkeme kararı ile feshedildiğini, feshedilmeden önce inşaatın %27 lik kısmının tamamlandığını belirterek inşaat faaliyetleri, imalat elektrik ve mekanik işler bedelinin tahsili ile taşınmaz üzerine ihtiyati tedbir konulmasını aksi halde ihtiyati hacze karar verilmesini talep ve dava etmiştir. Mahkemece verilen 26.06.2024 tarihli ara kararı ile yaklaşk ispat oluşmadı gerekçesiyle ihtiyati haciz talebinin reddine, taşınmaz uyuşmazlık konusu olmadığı gerekçesiyle ihtiyati tedbir talebinin reddine karar verildiği görülmüştür. Davacı vekili istinafında; taşınmaza yapılan giderler istendiğinden dava konusu olduğunu, davalı tarafından tespit yaptırıldığını ve bu orana davacının da itirazı olmadığına % 27 lik kısımda ihtilaf olmadığını, yaklaşık ispatın sağlandığını belirterek ihtiyatı haciz kararı verilerek kararın kaldırılmasını istemiştir. Taraflar arasındaki uyuşmazlık, 6098 sayılı Türk Borçlar Kanunu 470 ve devamı maddelerinde düzenlenen eser sözleşmesinin bir türü olan kat karşılığı inşaat sözleşmesinden kaynaklanmaktadır. Davacı yüklenici, davalı ise arsa sahibidir.
 Davacı yüklenici davalı arsa sahibi ile yapılan KKİS'nin mahkemesince geriye dönük olarak feshin edildiğini belirterek yaptığı imalatın bedelini talep etmiştir. İhtiyati tedbirin şartları 6100 Sayılı Hukuk Muhakemeleri Kanunu’nun 389/1. maddesinde genel olarak düzenlenmiştir. Bu yasa hükmüne göre, mevcut durumda meydana gelebilecek değişme nedeniyle hakkın elde edilmesinin önemli ölçüde zorlaşacağından ya da tamamen imkânsız hale geleceğinden veya gecikme sebebiyle bir sakıncanın yahut ciddi bir zararın doğacağından endişe edilmesi hallerinde, uyuşmazlık konusu hakkında ihtiyati tedbir kararı verilebilir. İhtiyati tedbirde asıl olan, ihtiyati tedbire esas bir hakkın varlığı ve bir ihtiyati tedbir sebebinin bulunmasıdır. Ayrıca HMK'nın 389. Maddesinde ihtiyati tedbirin ancak "dava konusu" üzerine konulabileceği belirtilmiştir. Yukarıda yapılan açıklama ve davacının talebi dikkate alındığında, dava konusu olmayan taşınmaza ilgili mahkemece ihtiyati tedbir talebinin reddine karar verilmesi usul, yasa ve dosya kapsamına uygun olmuştur. Davacı ayrıca ihtiyati haciz talebinde bulunmuştur.

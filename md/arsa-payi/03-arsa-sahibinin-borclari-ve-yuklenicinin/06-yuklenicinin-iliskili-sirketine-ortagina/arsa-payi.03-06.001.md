@@ -20,6 +20,8 @@ uyari: "Derleyenin seçtiği alıntılardır; kararın tamamı değildir. Künye
 
 ## Yargıtay HGK 2023/1136 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/976309900)
+
 İlk Derece Mahkemesince verilen kararın taraf vekilleri tarafından istinaf edilmesi üzerine, Bölge Adliye Mahkemesince taraf vekillerinin istinaf başvurularının ayrı ayrı kabulüne, İlk Derece Mahkemesi kararının kaldırılmasına, el atmanın önlenmesi, ecrimisil ve tazminat talebinin reddine, tapu kaydındaki şerhin terkini talebi hakkında karar verilmesine yer olmadığına, dava dilekçesinde talep edilen miktar üzerinden vekâlet ücretine karar verilmiştir.
 
 …
@@ -43,6 +45,8 @@ B) bendinde (§1-11) belirtilen nedenlerle davalı vekilinin temyiz itirazların
 
 ## Yargıtay 6. HD 2025/2944 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1179992900)
+
 Davacılar vekili dava dilekçesinde; müvekkillerinin, davalı yüklenici şirket ile arsa payı karşılığı inşaat sözleşmesi yapılması konusunda anlaşmaya vardıklarını, bu anlaşma kapsamındaki 103 ada 5 nolu parselin imar parseli olmaması nedeniyle, inşaat öncesi kanuni terklerin yapılması ve diğer tüm resmi işlemler için diğer davalı ...'a vekalet verdiklerini, imar işlemleri sonrası parselin 103 ada 10 ve 11 nolu parsel olarak imara uygun hale getirildiğini, davalıların 11 nolu parselden hiç bahsetmeden, müvekkilleri ile 10 nolu parsel için noterde resmi arsa payı karşılığı inşaat sözleşmesi düzenlediklerini, müvekkillerinin haberi olmadan 11 nolu parselin vekalet yetkisi kötüye kullanılarak yüklenici şirkete devredildiğini, taraflar arasında 11 nolu parsel için yapılmış bir anlaşma bulunmadığını, davalı şirkete yapılan devrin kötüniyetli ve hukuka aykırı olduğunu ileri sürerek, dava konusu 103 ada 11 nolu parselin tapu kaydının iptali ile müvekilleri adına tesciline karar verilmesini talep ve dava etmiştir.
 
 …
@@ -61,6 +65,8 @@ Dava kat karşılığı inşaat sözleşmesinden kaynaklanan tapu iptal tescil t
 
 ## Yargıtay 6. HD 2024/2896 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1142027200)
+
 Davalı ... vekili cevap dilekçesinde özetle; davalı ... ile davalı ... arasında gayrimenkul satışı yapıldığını, davacı ile davalı ... arasındaki sözleşmenin adi yazılı şekilde yapıldığını ve geçersiz olduğunu, bu sözleşmelerin davalı ...'nın ilgisinin bulunmadığını, harici yapılan satım sözleşmesinde içtihadı birleştirme kararına göre alıcının tüm borçlarını eda etmesi, satıcının da bağımsız bölümü teslim etmesi gerektiğini savunarak, davanın reddini istemiştir.
 
 …
@@ -78,6 +84,8 @@ SONUÇ: Yukarıda 1. bentte açıklanan nedenlerle davacı vekilinin diğer temy
 
 ## Yargıtay 6. HD 2023/3170 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/982668600)
+
 Mahkemece bozmaya uyularak yeniden yapılan yargılama sonucunda; davanın kısmen kabulüne karar verilmiştir.
 
 …
@@ -90,6 +98,8 @@ Avans niteliğindeki bu paylar, yüklenici temerrüde düştüğünde arsa sahib
 arsa payı karşılığı inşaat sözleşmesi yapılmış ve bu sözleşme gereğince arsa sahibi taşınmazı yükleniciye tapuda devretmiştir. Yüklenici kat irtifakı kurduktan sonra bir kısım bağımsız bölümleri davalılara tapuda satmıştır. Yüklenici, inşaatı yarım bırakarak inşaatı terk etmiştir. Temyiz eden davalı/üçüncü kişilerden, ... bağımsız bölümü icradan satın aldığını ve iyiniyetli olduğunu, ..., ... ve ... bağımsız bölümleri tapuya güvenerek iyiniyetli olarak yükleniciden satın aldıklarını, ... ve ... ise bağımsız bölümleri arsa sahibinden satın aldıklarını arsa sahibinin yüklenicinin elemanına verdiği vekâletle tapuda işlem yaptıklarını beyan etmişlerdir. Yükleniciden ve icradan satın alan davalılar yargılamanın tüm aşamalarında tapuya güvenerek taşınmazı satın aldıklarını iyi niyetli olduklarını belirterek davanın reddine karar verilmesi talep etmişlerdir. Tapu maliki üçüncü kişiler bütün haklı savunmalarına rağmen ilk derece mahkemesinin tapu iptali ve tescil yönünden davanın kabulüne karar vermesi TMK'nın 1023. maddesinde düzenlenen "tapuya ... ilkesine" aykırı olmuştur. Anılan ilkeye göre tapuya güvenen kişinin iyi niyetli olduğu karine olarak kabul edilir. Bu karinenin aksini …
 
 ## Yargıtay 6. HD 2023/1379 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/900245600)
 
 Davacı vekili dava dilekçesinde özetle; müvekkilleri ile dava dışı müteahhit ... arasında arsa payı karşılığında inşaat sözleşmesi imzalandığı ve ... ada 17 parsel sayılı taşınmazda inşa edilecek bağımsız bölümlerden kat mülkiyeti tesis olunduktan sonra 10 numaralı bağımsız bölüm olarak tescil olunan bağımsız bölümün müvekkilleri adına tescili şartı ile mülkiyeti dava dışı müteahhide inşaat hazır şekilde devredildiği, inşaatın tamamlanıp binanın kullanıma hazır olmasını müteakiben müvekkillerinin, sözleşme kapsamında hak sahibi bulundukları 10 numaralı bağımsız bölümün adlarının tescilini dava dışı müteahhitten talep ettiği, ancak sözleşme şartlarının tesisi zımnında dava safahatında haklarına düşen bağımsız bölümün davalı başkaca bir kişiye devredildiğini öğrenmelerini müteakiben tapu iptal ve tescile yönelik dava açtıklarını, neticede Kırıkkale 2.
 

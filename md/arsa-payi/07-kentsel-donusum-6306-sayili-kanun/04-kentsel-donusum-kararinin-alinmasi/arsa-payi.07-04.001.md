@@ -33,6 +33,8 @@ Davalı idare tarafından tahsil edilen ...-TL elektrik harcı ile ...-TL asans�
 
 ## Danıştay İDDK 2024/3037 E., 2025/1451 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1183267500)
+
 Davanın, 6306 sayılı Kanunun Uygulama Yönetmeliği'nin 15. maddesinin 2. fıkrasındaki "toplantı yapılması gerekmeksizin ve herhangi bir şekil şartına tabi olmaksızın" ibaresinin iptali istemi yönünden incelenmesinden;
 
 İptali istenen 6306 sayılı Kanunun Uygulama Yönetmeliği'nin 15. maddesinin 2. fıkrasındaki "toplantı yapılması gerekmeksizin ve herhangi bir şekil şartına tabi olmaksızın" ibaresinin 06/01/2023 tarih ve 32065 sayılı Resmi Gazete'de yayımlanan 6306 sayılı Kanunun Uygulama Yönetmeliğinde Değişiklik Yapılmasına Dair Yönetmeliğin 7. maddesiyle eklendiği, 21/05/2024 tarih ve 32552 sayılı Resmi Gazete'de yayımlanan 6306 sayılı Kanunun Uygulama Yönetmeliğinde Değişiklik Yapılmasına Dair Yönetmeliğin 10. maddesi ile anılan 15. maddenin değiştirildiği ve değişiklikte kat malikleri toplantısının yapılmasına ve herhangi bir şekil şartına tabi olup olmadığına ilişkin herhangi bir düzenlemeye yer verilmediğinin görüldüğü, …
@@ -53,6 +55,8 @@ Açıklanan nedenlerle, davacıların temyiz istemlerinin kabulü ile Daire kara
 
 ## Danıştay İDDK 2024/439 E., 2024/1201 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1138286300)
+
 6306 Sayılı Kanunun Uygulama Yönetmeliği'nin EK-2'sinde yer alan Riskli Yapıların Tespit Edilmesine İlişkin Esaslar'ın EK-A bölümünde yer alan Binaların Bölgesel Deprem Risk Dağılımını Belirlemek için Kullanılabilecek Basitleştirilmiş Yöntemler'in Kanun kapsamında belirli alanlarda önceliklerin ve riskli olabilecek binaların bölgesel dağılımının belirlenmesi amacıyla kullanılacağı, bölgesel risk durumunun tanımlanmasında kullanılacak yöntemlerin bilim ve tekniğin gereği istatistiksel olarak anlamlı sayıda bina ihtiva eden alanlarda uygulanabileceği, binaların taşıyıcı sistemine ait parametreler (yapısal sistem türü, kat adeti, ağır çıkmalar, planda düzensizlik/ burulma etkisi, düşeyde düzensizlik, vb.) dikkate alınarak yapıların bulunduğu yerdeki deprem tehlikesi ve yapının deprem performansını etkileyen yapısal özelliklerin saha çalışmaları sonucunda elde edilmesi ve yapısal sistem özelliklerine göre sınıflandırılmış tip binalar seçilerek bunların ayrıntılı analizlerinin yapılması sonucunda bir korelasyon çıkarılıp buna göre genel yapı stoku riskinin belirlenmesi gerektiği, …
 
 Dava dosyasındaki bilgi ve belgeler ile mahallinde yaptırılan keşif ve bilirkişi incelemesi sonucunda hazırlanan raporun birlikte değerlendirilmesinden;
@@ -65,6 +69,8 @@ Açıklanan nedenlerle, dava konusu işlemin iptali yolundaki Daire kararının 
 
 ## Danıştay İDDK 2023/408 E., 2024/364 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1062142500)
+
 6306 sayılı Kanunun Uygulama Yönetmeliği'nin 5. maddesinin 1. fıkrasında, "Riskli alan; a) Alanın, zemin yapısı veya üzerindeki yapılaşma sebebiyle can ve mal kaybına yol açma riski taşıdığına dair teknik raporu, b) Alan sınırları içerisinde 15/5/1959 tarihli ve 7269 sayılı Umumi Hayata Müessir Afetler Dolayısiyle Alınacak Tedbirlerle Yapılacak Yardımlara Dair Kanuna göre afete maruz bölge olarak kararlaştırılan alan olup olmadığına dair bilgi ve belgeyi, c) Alanın büyüklüğünü de içeren koordinatlı sınırlandırma haritasını, varsa uygulama imar planını, ç) Alanda bulunan kamuya ait taşınmazların listesini, d) Alanın uydu görüntüsünü veya ortofoto haritasını, e) Zemin yapısı sebebiyle riskli alan olarak tespit edilmek istenilmesi halinde yerbilimsel etüd raporunu, f) Bu fıkra uyarınca belirlenecek riskli alanlar için Ek-2’de yer alan Riskli Yapıların Tespit Edilmesine İlişkin Esasların EK-A bölümüne göre hazırlanan analiz ve raporu, g) Alanın özelliğine göre Bakanlıkça istenecek sair bilgi ve belgeleri, ihtiva edecek şekilde hazırlanmış olan dosyaya istinaden Bakanlıkça belirlenir ve karar alınmak üzere Cumhurbaşkanına sunulur." kuralı hükme bağlanmıştır.
 
 6306 sayılı Kanunun Uygulama Yönetmeliği'nin EK-2'sinde yer alan Riskli Yapıların Tespit Edilmesine İlişkin Esasların EK-A'sında Binaların Bölgesel Deprem Risk Dağılımını Belirlemek için Kullanılabilecek Basitleştirilmiş Yöntemler adı altında 6306 sayılı Kanun'un 2. maddesinin 1. fıkrasının (ç) bendi uyarınca riskli alan ilan edilirken bir alanda riskli olabilecek yapıların bölgesel dağılımının belirlenmesi ve önceliklendirme kararı verilmesi amacıyla kullanılabilecek yöntemler belirlenmiş; yine hem betonarme hem de yığma yapılar için ayrı ayrı "veri toplama formu" örnekleri düzenlenmiştir.
@@ -75,6 +81,8 @@ Dava konusu 26/08/2020 tarih ve 2878 sayılı Cumhurbaşkanı Kararının davac�
 
 ## Danıştay İDDK 2023/407 E., 2024/363 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1062035000)
+
 Yukarıda yer verilen mevzuat hükümleri ile keşif ve bilirkişi incelemesi sonucu düzenlenen raporun birlikte değerlendirilmesinden; Malatya ili, Doğanyol ilçesi, …
 Mahallesi sınırları içerisinde bulunan ve 26/08/2020 tarih ve 2878 sayılı Cumhurbaşkanı Kararına ekli kroki ile listede sınır ve koordinatları gösterilen alandaki yapıların can ve mal kaybına yol açma riski taşıdığını ortaya koyan, yukarıda belirtilen bilimsel verileri içeren yeterli düzeyde bir teknik incelemenin yapılmadığı, daha açık bir ifadeyle teknik raporun hasar tespit durumunu gösteren listesinde, teklif edilen riskli alanda yer alan yapıların yıkık, acil yıkılacak, ağır hasarlı, orta hasarlı, az hasarlı ve hasarsız yapılar olarak belirlendiği, açık/detaylı adres veya ada/parsel numarası verilmeden hasar tespit icmali düzenlendiği, hasarlı binaları farklı renklerde boyamak suretiyle hazırlanan haritalarla riskli yapıları tespit etme yönteminin seçildiği, ancak her türlü şüpheden uzak bilimsel veriler kullanılarak yıkılmış, acil yıkılacak ve ağır hasarlı yapılar haricindeki yapıların hasar durumlarının açıkça tespit edilmediği, başka bir ifadeyle alanda bulunan az hasarlı ve hasarsız yapılar 6306 sayılı Kanun'un 2/1-(ç) maddesi gereğince riskli alan sınırı içerisine dahil edilirken, anılan Kanunun Uygulama Yönetmeliği'nin 5. maddesi ve Ek-2'sinde yer alan "Riskli Yapıların
 Tespit Edilmesine İlişkin Esasların" Ek-A bölümünde belirtilen; binalara ilişkin parametrelerin (yapısal sistem türü, kat adedi, görünen kalite, yumuşak kat, düşeyde düzensizlik, ağır çıkma, planda düzensizlik/burulma etkisi, kısa kolon etkisi, yapı nizamı/bitişik binalarla döşeme seviyeleri yapı nizamı, tabii zemin eğimi vb.) dikkate alınmadığı, ayrıca alandaki deprem tehlikesi ve yapıların deprem performansını etkileyen yapısal özelliklerinin saha çalışmaları sonucunda elde edilmesi gerektiği gibi yapısal sistem özelliklerine göre sınıflandırılmış tip binalar seçilerek bunların analizlerinin yapılması sonucunda bir korelasyon çıkarılıp genel yapı stoğunun riskinin belirlenmesi gerekirken söz konusu araştırma ve incelemelerin yeterli seviyede yapılmadığı, ayrıca dava konusu işlem tarihinde içerisinde yapı bulunmayan bahçe nitelikli bazı taşınmazların da riskli alan kapsamına dahil edilerek üzerine sonradan deprem konutu yapıldığının görüldüğü, …
@@ -82,6 +90,8 @@ Tespit Edilmesine İlişkin Esasların" Ek-A bölümünde belirtilen; binalara i
 Bu itibarla, davacıların maliki oldukları yukarıda belirtilen yapıların, deprem hasar tespitinden bağımsız olarak 6306 sayılı Kanun ve Uygulama Yönetmeliği esasları uyarınca incelenerek “riskli/risksiz yapı” olduklarına ilişkin tespit yapılması gerektiği, dolayısıyla dava konusu işlemin dayanağı teknik raporun söz konusu yapıların can ve mal kaybına yol açma riski taşıdığını kanıtlayacak yeterlilikte olmadığı hususları dikkate alındığında, 6306 sayılı Kanun ve Uygulama Yönetmeliği'nin öngördüğü koşullarda detaylı bir teknik inceleme yapılmaksızın uyuşmazlığa konu yukarıda belirtilen taşınmazların 6306 sayılı Kanun'un 2. maddesine göre riskli alan kararı kapsamında yer almasına ilişkin Cumhurbaşkanı Kararının yukarıda adı geçen davacıların belirtilen taşınmazlarına ilişkin kısmında hukuka uyarlık görülmediği, …
 
 ## Danıştay İDDK 2023/2806 E., 2023/3386 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1058397000)
 
 Davalı idarelerden …
 
@@ -94,6 +104,8 @@ Bakanlığı tarafından, davacının dava açma ehliyeti bulunmadığı ve dava
 riskli yapılar dışında kalan yapılardan uygulama bütünlüğü bakımından Bakanlıkça gerekli görülenlerin yine 6306 sayılı Kanun’a tâbi olacağı, ancak, riskli olmayan yapılara ilişkin değerleme çalışmalarında yapının riskli olmadığının da gözetileceği..." şeklinde yeniden düzenlendiği, ancak bu yeni düzenlemenin de, Anayasa Mahkemesinin 15/11/2017 tarih ve E:2016/133, K:2017/155 sayılı kararıyla "Herhangi bir riski bulunmayan sağlam yapılar için uygulama bütünlüğü bakımından Bakanlıkça gerekli görülmesi halinde 6306 sayılı Kanun hükümlerinin uygulanması durumunda bu yapıların maliklerinin uğradığı zararların tamamının karşılanması sorumluluk hukukunun gereğidir. Uygulama alanındaki sağlam yapılara yönelik değer tespitinde yapının riskli olmadığının gözetilmesi de esasında bu amaca hizmet etmektedir. Bu itibarla Kanunun uygulanması için belirlenen alanların sınırları içinde olup riskli yapılar dışında kalan yapılar hakkında 6306 sayılı Kanun hükümlerinin uygulanması nedeniyle maliklerin mülkiyet hakkına yönelik kısıtlamaların, taşınmazın değer tespitinde yapının riskli olmadığının gözetilmesi suretiyle dengelendiği söylenemez..." gerekçesiyle iptaline karar verildiği görülmektedir.
 
 ## Danıştay İDDK 2022/1167 E., 2023/306 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/990677200)
 
 İzmir ili, Karşıyaka ilçesi, …
 
@@ -114,6 +126,8 @@ Davanın yukarıda özetlenen gerekçeyle reddine ilişkin Danıştay Altıncı 
 
 ## Danıştay İDDK 2022/1059 E., 2023/129 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/960945300)
+
 6306 sayılı Kanunun Uygulama Yönetmeliği'nin 7. maddesinin 3. fıkrasının, 21/06/2019 tarih ve 30808 sayılı Resmi Gazete'de yayımlanarak yürürlüğe giren Yönetmelik'in 5. maddesi ile değiştirildiği ve yeniden yapılan düzenlemede dava konusu edilen "tespit başvurusunda bulunan" ibaresinin kaldırıldığı, bu ibarenin yerine "maliklerden herhangi birinin talebi üzerine" ibaresinin getirildiği, dolayısıyla dava devam ederken idare tarafından resen değiştirildiği anlaşılan dava konusu Yönetmelik maddesi yönünden davanın konusuz kaldığı, …
 
 …
@@ -121,6 +135,8 @@ Davanın yukarıda özetlenen gerekçeyle reddine ilişkin Danıştay Altıncı 
 Dava hakkında yukarıda özetlenen gerekçeyle kısmen karar verilmesine yer olmadığına, kısmen dava konusu işlemin iptaline ilişkin Danıştay Altıncı Dairesinin 17/11/2021 tarih ve E:2019/17988 …
 
 ## Danıştay İDDK 2022/1480 E., 2022/2290 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/895751000)
 
 Riskli alan ilanının, 6306 sayılı Kanun'un 2. maddesine ya da Ek-1. maddesine dayalı olarak Cumhurbaşkanı kararı ile yapılabildiği, anılan Kanun'da, 2. maddeye dayanılarak yapılacak riskli alan ilanı ile Ek-1. maddeye dayanılarak yapılacak riskli alan ilanının farklı hükümlere tabi kılındığı, …
 
@@ -133,6 +149,8 @@ Uyuşmazlıkta ise, riskli alan ilanına ilişkin dava konusu Cumhurbaşkanı ka
 Açıklanan nedenlerle, temyiz isteminin kabulü ile temyize konu kararın bozulması ve dava konusu işlemin iptaline karar verilmesi gerektiği oyuyla …
 
 ## Danıştay İDDK 2021/3290 E., 2022/1885 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/810761100)
 
 Davacılar tarafından, hukuki el atma nedeniyle uğranıldığı ileri sürülen zararların tazmini istemiyle, ilk olarak, 31/07/2012 tarihinde, .... Asliye Hukuk Mahkemesinde açılan dava, anılan Mahkemenin ...tarih ve E:..., K:...sayılı kararıyla, idari yargı yerinin görevli olduğu gerekçesiyle usulden reddedilmiştir.
 
@@ -150,6 +168,8 @@ Davanın yukarıda özetlenen gerekçeyle kabulüne ilişkin .... İdare Mahkeme
 
 ## Danıştay İDDK 2022/437 E., 2022/994 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/800046800)
+
 İstanbul ili, Ümraniye ilçesi, ... Mahallesi sınırları içerisinde bulunan ve karara ekli kroki ile listede sınır ve koordinatları gösterilen alanın 6306 sayılı Kanunun 2. maddesi uyarınca riskli alan ilan edildiği; Ümraniye Belediye Başkanlığınca hazırlanan ve dava konusu işlemin dayanağını oluşturan gerekçe raporu ve teknik raporun incelenmesinden, 6,25 hektar büyüklüğündeki alanın 1. derece deprem bölgesi olduğu, alanda bulunan taşınmazların 6292 sayılı Kanun'un 2. maddesinin birinci fıkrasının (b) bendi uyarınca tapularının düzenlendiği ve sınır kapsamında 105 adet yapı bulunduğu, binaların %65'inin betonarme, geri kalan kısmının yığma yapı olduğu, yapıların %28'inin iki katlı, %14'ünün 3 katlı, %5'inin 4 katlı, %4'ünün 5 katlı ve yapım yıllarının 1980-2017 yılları arasında değiştiği, alandaki yapıların tamamının ruhsatsız olduğu, meri mevzuat hükümlerine göre yapılanma şartlarını ve çekme mesafelerini sağlamadığı, deprem yönetmeliğine aykırı şekilde mühendislik hizmeti almadıklarından imar mevzuatına aykırı olduğu, …
 
 6306 sayılı Kanun ve 6306 Sayılı Kanun'un Uygulama Yönetmeliği'nin 5. maddesinin ikinci fıkrasının (b) bendi uyarınca alanın, "Üzerindeki toplam yapı sayısının en az % 65’i imar mevzuatına aykırı olan veya yapı ruhsatı alınmaksızın inşa edilmiş olmakla birlikte sonradan yapı ve iskân ruhsatı alan yapılardan oluşan alanlardan" olduğu belirtilerek hazırlanan dosyanın Bakanlığa sunulması üzerine, İstanbul ili, Ümraniye ilçesi, ... Mahallesi sınırları içerisinde bulunan ve karara ekli kroki ile listede sınır ve koordinatları gösterilen alanın 6306 sayılı Kanunun 2. maddesi uyarınca riskli alan ilan edilmesine dair 03/11/2020 tarih ve 3164 sayılı Cumhurbaşkanı Kararının alındığı, …
@@ -162,6 +182,8 @@ Dava konusu işlemin yukarıda özetlenen gerekçeyle iptaline ilişkin Danışt
 
 ## Danıştay İDDK 2019/496 E., 2021/977 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/700206600)
+
 6306 sayılı Afet Riski Altındaki Alanların Dönüştürülmesi Hakkında Kanun'un dava konusu düzenlemenin tesis edildiği tarihte yürürlükte bulunan "Tahliye ve yıktırma" başlıklı 5. maddesinin 1. fıkrasında, "Riskli yapıların yıktırılmasında ve bunların bulunduğu alanlar ile riskli alanlar ve rezerv yapı alanlarındaki uygulamalarda, öncelikli olarak malikler ile anlaşma yoluna gidilmesi esastır. Anlaşma ile tahliye edilen yapıların maliklerine veya malik olmasalar bile kiracı veya sınırlı ayni hak sahibi olarak bu yapılarda ikamet edenlere veya bu yapılarda işyeri bulunanlara geçici konut veya işyeri tahsisi ya da kira yardımı yapılabilir." hükmü yer almıştır.
 
 6306 sayılı Kanunun Uygulama Yönetmeliğinin "Kira yardımı ve diğer yardımlar" başlıklı 16.maddesinde ise, anlaşma ile tahliye edilen uygulama alanındaki yapıların maliklerine tahliye tarihinden itibaren Bakanlıkça kararlaştırılacak aylık kira yardımı yapılabileceği kuralına yer verilmiştir.
@@ -173,6 +195,8 @@ Yukarıda yer verilen Yasa ve Yönetmelik maddelerinde, riskli yapıları anlaş
 Davanın yukarıda özetlenen gerekçeyle reddine ilişkin Danıştay Ondördüncü Dairesinin 17/10/2018 tarih ve E:2017/4395, K:2018/6170 sayılı kararının ONANMASINA …
 
 ## Danıştay İDDK 2020/1607 E., 2020/2027 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/639594600)
 
 Danıştay Ondördüncü Dairesinin 08/02/2018 tarih ve E:2017/2014 sayılı ara kararı üzerine;
 

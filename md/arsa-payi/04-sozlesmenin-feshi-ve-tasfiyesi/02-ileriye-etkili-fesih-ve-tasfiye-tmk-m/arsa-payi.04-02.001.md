@@ -167,6 +167,8 @@ Temyiz olunan Mahkeme kararının davacılar lehine BOZULMASINA …
 
 ## Yargıtay 6. HD 2026/263 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1207556000)
+
 Dairemizin yerleşik içtihatlarına göre, arsa payı karşılığı inşaat sözleşmesi ve temliken tescil sözleşmesinde taşınmaz devri kararlaştırılması durumunda, daha sonra tapuda satış gösterilse de, taşınmazın bu amaçla devredildiği anlaşılmaktadır. Taraflar arasındaki adi yazılı sözleşmede dava konusu taşınmazın başka bir daire karşılığı devredileceği kararlaştırılmış ve davacı tarafından bu amaçla yükleniciye vekalet verilmiştir. Yükleniciye dava konusu bağımsız bölümün devrine ilişkin verilen vekaletin adi yazılı harici satış sözleşmesindeki edimin ifası amacıyla yapıldığının kabulü gerekir.
 
 Diğer yönden her ne kadar adi yazılı sözleşmede kararlaştırılan ve yükleniciye edimin ifası amacıyla yapılan devir ve ödeme bedellerinin tahsili için icra takibinde bulunulmuş ve takip kesinleşmiş ise de, tahsil yapılmadığı sürece yukarıda belirtilen tapu iptal ve tescile ilişkin hakların kullanılmasına engel değildir. Zira her ikisinde de talep sözleşmenin yerine getirilmemesi nedeniyle TBK'nın 125. maddesinde yer alan dönme hakkına dayanmaktadır. Dönme hakkının gereği olarak bunlardan birisinin yerine getirilmesi ve tahsilat sağlanması halinde her zaman dikkate alınması ve mahsup edilmesi mümkündür. Bu hususlar dikkate alınarak, davalıların iyiniyetli olmadıkları da anlaşıldığından, tapu iptal ve tescil talebi yönünden davanın kabulüne karar verilmesi gerekirken, eksik inceleme ve değerlendirme ile davanın reddine karar verilmesi doğru olmamış, kararın bozulması gerekmiştir.
@@ -176,6 +178,8 @@ Diğer yönden her ne kadar adi yazılı sözleşmede kararlaştırılan ve yük
 İlk Derece Mahkemesi kararının BOZULMASINA …
 
 ## Yargıtay 6. HD 2025/4510 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1200679600)
 
 Davacı vekili dava dilekçesinde; davacı ile davalı yüklenici ... arasında düzenleme şeklinde arsa payı karşılığı inşaat sözleşmesi imzalandığını, sözleşme gereği yapılacak binadan 3 adet bağımsız bölümün davacı arsa sahibine verilmesinin kararlaştırıldığını, yüklenici tarafından sözleşme gereği edimlerin ifa edilmediğini, yükleniciye düşen bağımsız bölümlerden olan 1 no.lu bağımsız bölümün para karşılığında arsa sahibi tarafından satın alınıp önce eşinin akrabası olan kişiye daha sonra davacının eşine devredildiğini, bu bağımsız bölüm hakkında dava açıldığından elden çıkma ihtimali bulunduğunu öne sürerek arsa payı karşılığı inşaat sözleşmesinin geriye etkili feshi ile 1 no.lu bağımsız bölüm ile yüklenici tarafından satılan 6 no.lu bağımsız bölümün tapu kaydının iptali ile davacı adına tesciline karar verilmesini talep etmiştir.
 
@@ -198,6 +202,8 @@ Somut olayda, davacı arsa sahibi ile davalı yüklenici arasında 26.04.2016 ta
 
 ## Yargıtay 6. HD 2025/4344 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1199336200)
+
 İnşaatın tamamlanma oranı dikkate alındığında mahkemenin kabulünde olduğu gibi sözleşmenin geriye etkili fesih koşulları oluşmamış, ileriye etkili fesih koşulları oluşmuştur. İleriye etkili fesih halinde yüklenici gerçekleştirdiği imalât oranında arsa payı ya da bağımsız bölüm tapularına hak kazanır. Mahkemece ileriye etkili feshe karar verildiğinde tasfiyenin de yapılması gerekmektedir. Somut uyuşmazlıkta, taraflar arasındaki arsa payı karşılığı inşaat sözleşmesinde paylaşılacak bağımsız bölümler açıkça belirtilmemiş, sadece paylaşım oranı kararlaştırılmıştır. Davalı yüklenici, bir bağımsız bölüm haricindeki diğer bağımsız bölümleri tapuda üçüncü kişilere devretmiştir. Yargılama aşamasında davacı arsa sahipleri ile davalı yüklenici kendi aralarında anlaşarak ya da tek taraflı olarak bazı bağımsız bölüm numaralarını belirterek, bunların davalı üçüncü kişiler adına olan tapu kayıtlarının iptali ile davacı arsa sahiplerine adlarına tescilini talep etmiş, mahkemece bu talepler dikkate alınarak karar verilmiş ise de davalı üçüncü kişilerin hukuki durumunu etkileyecek şekilde, kötüniyetli olabilecek bu taleplerin dikkate alınarak hüküm kurulması doğru olmamıştır.
 
 …
@@ -205,6 +211,8 @@ Somut olayda, davacı arsa sahibi ile davalı yüklenici arasında 26.04.2016 ta
 Temyiz olunan Bölge Adliye Mahkemesi kararının BOZULMASINA …
 
 ## Yargıtay 6. HD 2025/3971 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1195406800)
 
 Davalılar vekilleri, davanın reddini istemişlerdir.
 
@@ -218,6 +226,8 @@ Dairemizin 22.05.2025 tarihli, 2024/2994 Esas, 2025/2155 Karar sayılı ilamın�
 
 ## Yargıtay 6. HD 2025/3874 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1193558300)
+
 Asli müdahil ... mirasçılarının temyizi bakımından ise asli müdahil ...’nın dava konusu 11 nolu bağımsız bölümü asıl davada yüklenici ...’tan 10.05.1996 tarihli.... Noterliğinde düzenlenen düzenleme şeklinde gayrimenkul satış vaadi sözleşmesi ile satın aldığı, asli müdahil ...’nın temliken tescil hükümlerine göre müdahale talebinde bulunduğu, yargılama aşamasında 21.04.2010 tarihli celsede asıl davada davacı yüklenici ...’ın 11 nolu bağımsız bölümü sözleşme ile ...'ya sattığını, parasını aldığını beyan ettiği, asıl davada davacı ...’in vefatından sonra mirasçıların mirası reddettiği ve terekeye temsilci atandığı, tereke temsilcisinin davayı takip etmemesi üzerine davanın açılmamış sayılmasına karar verildiği, yine yargılama sırasında asli müdahil ...’in temliken tescil hükümlerine göre haricen satın aldığı 11 nolu bağımsız bölümü kullandığının anlaşıldığı, her ne kadar yüklenici iskân ruhsatı alımına ilişkin yükümlülüğünü yerine getirmemiş ise de eksik ve kusurlu işler bedeli ile iskân bedeli depo edildiğine göre asli müdahil ... bakımından tapu iptali tescil talebinin kabulü gerekirken tapu iptal talebinin reddine karar verilmesi doğru olmamıştır.
 
 …
@@ -225,6 +235,8 @@ Asli müdahil ... mirasçılarının temyizi bakımından ise asli müdahil ...�
 Yukarıda (1) ve (2) numaralı bentte açıklanan nedenlerle birleşen davada davacı ... vekili ve asli müdahil ... mirasçılarının temyiz itirazlarının kabulü ile temyiz olunan mahkeme kararının BOZULMASINA …
 
 ## Yargıtay 6. HD 2025/3278 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1180257900)
 
 Davacı vekili dava dilekçesinde; davalı ... Belediyesi'nin maliki bulunduğu Konya ili ..... ilçesi .... Mahallesi 27108 ada 1 parselde kayıtlı taşınmazda konut yapımı için davalı ... ile diğer davalı şirket arasında 20.06.2006 tarihinde arsa payı karşılığı inşaat yapım sözleşmesi imzalandığını, sözleşmeye göre taşınmaz üzerine 512 adet daire yapılmasının ve %25'inin davalı ...
 
@@ -237,6 +249,8 @@ Davalı ...
 Temliken tescil davalarında temlik alan 3. kişinin arsa sahibi adına kayıtlı bağımsız bölüm yönünden tapu iptali ve tescil talebinde bulunabilmesi için Dairemiz yerleşik içtihatlarına göre satış bedelini yükleniciye ödemiş olması, bağımsız bölümü teslim almış, fiilen taşınması kullanıyor olması ve yüklenicinin arsa sahibine karşı edimlerini yerine getirmiş olması gerekir.
 
 ## Yargıtay 6. HD 2025/2639 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1202169600)
 
 Davacı vekili dava dilekçesinde; davalı .... Tic. Ltd.
 

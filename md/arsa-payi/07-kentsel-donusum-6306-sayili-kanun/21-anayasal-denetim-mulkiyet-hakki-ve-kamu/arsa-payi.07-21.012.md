@@ -21,6 +21,8 @@ uyari: "Derleyenin seçtiği alıntılardır; kararın tamamı değildir. Künye
 
 ## Danıştay 6. D. 2021/3236 E., 2021/9064 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/681577700)
+
 KARŞI TARAFIN SAVUNMASI :
 
 …
@@ -33,6 +35,8 @@ Dava konusu işlemin yukarıda özetlenen gerekçeyle iptaline ilişkin temyize 
 
 ## Danıştay 6. D. 2019/1208 E., 2021/8064 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/787196700)
+
 Anayasanın 125. maddesinin son fıkrasında, “İdare, kendi eylem ve işlemlerinden doğan zararı ödemekle yükümlüdür.” hükmü düzenlenmiştir. Bu suretle idarenin sorumluluğu “Anayasa prensibi” olarak kabul edilmiştir. Ancak Anayasada idarenin sorumluluğunun hangi esaslara göre belirleneceği belirtilmemiş, bu meselenin halli doktrin ve yargı kararlarına bırakılmıştır. Bugün idarenin sorumluluğu hizmet kusuru veya kusursuz sorumluluk ilkelerine dayandırılmaktadır. İster hizmet kusuru, ister kusursuz sorumluluk ilkelerine dayandırılsın, genel olarak idarenin tazmin borcunun doğabilmesi için bir zararın mevcudiyeti, zararla eylem arasında illiyet bağının bulunması zorunludur.
 
 …
@@ -40,6 +44,8 @@ Anayasanın 125. maddesinin son fıkrasında, “İdare, kendi eylem ve işlemle
 Temyize konu kararın, davaya konu taşınmazda bulunan 4. katın yapı bedelinin tazminine ilişkin kısmının ise BOZULMASINA …
 
 ## Danıştay 6. D. 2020/4026 E., 2021/7530 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/691676100)
 
 Riskli alan ve rezerv yapı alanı olarak belirlenen alanlar ile bu alanlar dışındaki riskli yapıların bulunduğu taşınmazlar 6306 sayılı Kanun hükümlerine tabi olduğundan, anılan Kanun'un uygulama alanının mikro ölçeğini "riskli yapı" kavramı oluşturmaktadır. Buna karşılık riskli yapıların dönüştürülmesi kapsamında üretilecek olan plan kararlarının ve projelerin bölgeyle bütünleşmesini sağlamaya, diğer bir ifade ile bütüncül planlama ilkesini hayata geçirmeye yönelik 6306 sayılı Kanunda herhangi bir düzenleme yer almamaktadır. Bu kapsamda riskli yapı tespit edilen taşınmazlara bitişik konumda olan ve üzerinde herhangi bir yapılaşma bulunmayan boş parsellerin hukuki durumu bakımından, 6306 sayılı Kanunun amacı, planlama ilkeleri ve somut olayın özellikleri çerçevesinde ayrıca bir değerlendirme yapılması gerekmektedir.
 
@@ -51,11 +57,15 @@ Kaldı ki, birbirlerini bütünleyen taşınmazlardan birisinin Çevre ve Şehir
 
 ## Danıştay 6. D. 2016/1831 E., 2021/6641 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/770438100)
+
 Plan Hükümleri Raporu’nun 8.2.10.4 sayılı maddesinde: "planda gösterilenler dışında lojistik merkez alanlarına ihtiyaç olması halinde, ilgili kurum ve kuruluş görüşlerine bağlı kalınarak, valilik koordinasyonunda yer seçimi yapılabilir. yer seçimi yapılan alanlara ilişkin imar planları bu planda değişikliğe gerek olmaksızın ilgili idaresince hazırlanır ve onaylanır.
 Onaylanan planlar sayısal ortamda veri tabanına işlenmek üzere bakanlığa gönderilir", kuralına yer verildiği, söz konusu düzenleme ile Mekansal Planlar Yönetmeliğinin 6.maddesi ile İmar Kanunu’nun 8. maddesi’nin “d” bendinde ve Mekansal Planlar Yönetmeliği’nin 6. maddesi’nin 2. bendinde açıkça söylenen alt kademe planların ancak üst kademe plan kararlarına uygun olarak hazırlanabileceği hükmünün yok sayıldığı, Lojistik Merkezler ve Organize Sanayi Bölgeleri gibi kullanımların çevrelerini olumlu veya olumsuz yönden etkileyebilme potansiyelleri olduğundan, çevre düzeni planları onaylanmadan, dolayısıyla bu tür alanlar ile etkileşimde olan arazi kullanımlarına ilişkin kararların çevre düzeni planlarında alınmadan (örneğin bu tür alanların olumsuz etkilerini azaltmaya yönelik getirilecek plan kararları, bölgede bu tür alanların yer alacak olmasından ötürü bölgenin gelecekte çekeceği/iteceği nüfus, buna ilişkin çevrede korunması gerekli doğal ve kültürel alanların olup olmadığı, bölgenin ne kadarlık bir kentsel gelişimi kaldırabileceği gibi konular), doğrudan yer seçimi yapılan lojistik merkez alanlarını imar planlarının onaylanmasına imkan tanımanın beraberinde kamu yararı ve doğal,
 kültürel ve tarihi değerlerin korunması adına son derece olumsuz sonuçların oluşumuna zemin hazırlayacağı, yeni lojistik merkez kararlarının alınması durumunda çevre düzeni planlarının değişikliğine gerek duymadan bu alanlara ilişkin imar planlarının onaylanmasına izin vermenin çevre düzeni planlarının amaçladığı kamu yararı ve doğal değerlerin korunması gibi ilkeleri yok saymak, bu alanların bölgesel ölçekte çevrelerine, ilişkili sektörlere etkilerinin bilincinde olmamak anlamını taşıdığı" tespit ve değerlendirmelerinde bulunulmuştur.
 
 ## Danıştay 6. D. 2017/3629 E., 2021/6375 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/685524600)
 
 DAVALI YANINDA MÜDAHİLLERİN İDDİALARI: Nükleer Santral yapımının Türkiye ve Rusya Hükümetleri arasında yapılan uluslararası anlaşmaya dayandığı, dava konusu planın nükleer santral ile ilgili kısmında şehircilik ilkeleri ile planlama esaslarına ve kamu yararına aykırılık bulunmadığı ileri sürülerek davanın reddine karar verilmesi gerektiği savunulmuştur.
 
@@ -74,6 +84,8 @@ Davacı tarafından, davaya konu çevre düzeni planının iptali istemiyle aç�
 
 ## Danıştay 9. D. 2018/6872 E., 2021/4234 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/697651000)
+
 Anayasanın 148. maddesinin 1. fıkrasında, Anayasa Mahkemesinin, kanunların, Cumhurbaşkanlığı kararnamelerinin, Türkiye Büyük Millet Meclisi İçtüzüğünün Anayasaya şekil ve esas bakımında uygunluğunu denetleyeceği ve bireysel başvuruları karara bağlayacağı düzenlenmiş; 152. maddesinde de bir davaya bakmakta olan mahkemenin, uygulanacak bir kanun veya Cumhurbaşkanlığı kararnamesinin hükümlerini Anayasaya aykırı görürse veya taraflardan birinin ileri sürdüğü aykırılık iddiasının ciddi olduğu kanısına varırsa, Anayasa Mahkemesinin bu konuda vereceği karara kadar davayı geri bırakacağı öngörülmüştür.
 
 …
@@ -81,6 +93,8 @@ Anayasanın 148. maddesinin 1. fıkrasında, Anayasa Mahkemesinin, kanunların, 
 Davanın yukarıda özetlenen gerekçeyle reddine ilişkin Vergi Mahkemesi kararına yönelik istinaf başvurusunun kabulü ile davanın kabulü yolundaki … Bölge İdare Mahkemesi ... Vergi Dava Dairesinin … tarih ve E:…, K:… sayılı kararının faize ilişkin kısmının BOZULMASINA …
 
 ## Danıştay 4. D. 2017/4268 E., 2021/1335 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/676891300)
 
 Dava, 01/12/2017 tarih ve 30257 sayılı Resmi Gazete'de yayımlanan Kurumlar Vergisi Genel Tebliği (Seri No:1)'nde Değişiklik Yapılmasına Dair Tebliğ (Seri No:13)'in iptali istemine ilişkindir.
 
@@ -91,9 +105,13 @@ Anayasa’nın 2. maddesinde, "Türkiye Cumhuriyeti, toplumun huzuru, millî day
 
 ## Danıştay 6. D. 2017/7571 E., 2021/1127 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/665808900)
+
 Yönetmelik çıkarma yetkisine sahip olan idarelerin, değişen koşulları gözeterek kamu hizmeti ve kamu yararının gereklerine göre, dayanılan yasa kuralına uygun olarak, daha önceki düzenlemelerle belirledikleri objektif hukuki durumları değiştirme, bu durumların kazanılmış hakların korunması ilkesine uygun olarak hukuksal sonuçlarını sürdürebilmesi için yeni koşullar öngörme konusunda yetkilerinin olduğu tartışmasızdır.
 
 ## Danıştay 6. D. 2017/4783 E., 2021/1096 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/663469900)
 
 Her türlü yapı ve mimari projenin eser niteliğine sahip olmadığı, bunların eser niteliğine sahip olabilmesi için özgün olması, bir başka ifadeyle, sahibinin hususiyetini taşıması gerektiği tartışmasızdır. Bu nedenle dava konusu kuralla özgün niteliği olmayan, dolayısıyla sahibine özgülenmesi ve eser olarak nitelendirilmesi mümkün bulunmayan yapılarda ve bunların mimari projelerinde yapılacak değişiklik ve revizyonlarda ilk müellifin görüşünün aranmayacağının düzenlenmesinde, fikri mülkiyet hakkına bir sınırlama getirilmediği ve düzenlemenin Devletin sanat faaliyetlerini ve sanatçıyı koruma görevine aykırı düşen bir yönünün bulunmadığı açıktır.
 
@@ -107,6 +125,8 @@ Açıklanan nedenlerle, Yönetmeliğin dava konusu maddesinin otoparka ilişkin 
 
 ## Danıştay 6. D. 2014/10295 E., 2020/14079 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/673462600)
+
 Her mekansal planının bir araştırma raporunun bulunması yasal bir zorunluluktur. Güncel verilerle hazırlanan Plan Araştırma Raporları olmadan hazırlanan çevre düzeni planlarında kamu yararı bağlamında en uygun kararların alınması beklenemez. Bu raporlar, her bir sektöre ve alt-sektöre ilişkin güncel bilgileri içerirler, bu (alt) sektörlere ilişkin olanaklar ve tehditleri ortaya koyarlar. Plan kararları bu olanaklar ve tehditler üzerine şekillenir. Bu yüzden en güncel veri tabanı üzerinden yapılan olanak ve tehdit analizleri kamu yararı bağlamında en doğru plan kararlarının alınması açısından son derece önemlidir. Davaya konu plan, güncel verilere dayalı bir Araştırma Raporu içermediğinden Mekansal Planlar Yönetmeliği’nin 8. maddesinin 9. bendine aykırıdır görüşündeyiz.
 
 …
@@ -115,10 +135,14 @@ Diğer kısımlar yönünden DAVANIN REDDİNE …
 
 ## Danıştay 6. D. 2019/17473 E., 2020/12030 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/644811400)
+
 09.05.1985 tarihli Resmi Gazete'de yayımlanarak yürürlüğe giren 3194 sayılı İmar Kanunu'nun 46 ve devamı maddeleriyle; 2960 sayılı Boğaziçi Kanununun bazı maddeleri değiştirilerek öngörünüm ve geri görünüm bölgelerinde yapılanma koşulları hakkında düzenlemelere yer verilmiş, geçici 7. maddesiyle de; İstanbul ve Çanakkale Boğazlarında 2981 sayılı imar affı kanununa göre başvurulan yapılar maddede sayılan koşulların yerine getirilmiş olması halinde af kapsamına alınmıştır.
 Anayasa Mahkemesinin 11.12.1986 günlü, E:1985/11, K:1986/29 sayılı kararı ile 3194 sayılı İmar Kanunu'nun bazı maddeleri yanında Kanunun öngörünüm bölgesinde bazı koşullarla yapılanma olanağı sağlayan 47. maddesinin 2960 sayılı Boğaziçi Kanununun 3. maddesinin (g) fıkrasını değiştiren hükmü ile Boğaziçi alanındaki yapıların af kapsamına alınmasını öngören geçici 7. maddesinin birinci fıkrası Anayasaya aykırı bulunarak iptal edilmiş, kararın geçici 7. maddeyle ilgili kısmında; boğazların bu madde ile af kapsamına alındığı, af kapsamına girecek bölgeler yönünden kıyı, sahil şeridi, öngörünüm, etkilenme ve geri görünüm bölgesi ayrımı yapılmadığı, Anayasanın 43. maddesi karşısında kıyı ve sahil şeridinde bulunan yapıların aftan yararlanmasının mümkün bulunmadığı vurgulanmıştır.
 
 ## Danıştay 6. D. 2016/1548 E., 2020/10861 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/782804100)
 
 Davacı tarafından, dava konusu planın; planlama esaslarına, şehircilik ilkelerine, yürürlükteki mevzuat hükümlerine aykırı olduğu, çevre düzeni planı revizyonuna ilişkin yeni bir jeolojik ve jeoteknik etüt raporu hazırlanmadan onaylandığı, parsel ölçeğinde planlama sınırlarının belirlenmesinin planlama esaslarına uygun olmadığı, planlama sürecinde gerekli kurum görüşlerinin bulunmadığı, plan notlarında yer alan genel hükümlerin 4.15 sayılı maddesinde tanımlanan bazı fonksiyonların planlamanın kademeli birlikteliği ilkesi kapsamında öncelikle üst ölçekli planlarda belirlenmesi gerekmekte iken planlamanın bütüncül yaklaşımı yok sayılarak sadece alt ölçekli planlarda belirlendiği, plan notlarının özel hükümler bölümü altında turizm tesis alanlarının yapılaşma koşullarının belirlendiği 5.2 sayılı maddesinde yer alan golf tesisi yapılması koşulunun doğal yaşamı bozacağı ve su kaynaklarının hızla tükenmesine neden olacağı, turizm açısından önemli bir merkez olan Çeşme İlçesinin doğal güzelliklerinin yok edilmesine sebep olacağından şehircilik ilkelerine ve kamu yararına aykırı olduğu ileri sürülerek iptali istenilmiştir.
 
@@ -133,9 +157,13 @@ Dava konusu işlemin yukarıda özetlenen gerekçeyle iptaline ilişkin temyize 
 
 ## Danıştay 6. D. 2019/536 E., 2020/10721 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/632895200)
+
 Davalı idarece davanın ehliyet yönünden reddi gerektiği ileri sürülmüşse de, Danıştay'ın süre gelen içtihatları ile çevre, tarihi ve kültürel değerlerin korunması gibi kamu yararını yakından ilgilendiren konularda dava açma hakkının daha geniş bir kapsamda ele alındığı ve bu gibi hallerde semt sakini olmanın dava açma ehliyeti için yeterli görüldüğünden ve davacı tarafından da dava konusu alanın yapılaşmaya açılmaması gereken önlemli alanlardan olduğu ancak dava konusu planla yapılaşmaya açıldığı ileri sürüldüğünden davacının bu iddiası kapsamında davayı açmakta semt sakini olarak menfaatinin etkilendiği kabul edilerek ehliyet itirazı yerinde görülmemiştir.
 
 ## Danıştay 5. D. 2017/6943 E., 2020/4485 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/796865500)
 
 Davacı tarafından, dava konusu işlemin savunması alınmadan tesis edildiği ileri sürülmekte ise de, bu eksikliğin yargılama süreci içinde giderilmesinin mümkün olması, 667 sayılı KHK'de öngörülen meslekten veya kamu görevinden çıkarmanın, adli suç veya disiplin suçu işlenmesi karşılığında uygulanan yaptırımlardan farklı olarak “olağanüstü tedbir” niteliğini taşıması ve davaya konu Hâkimler ve Savcılar Kurulu Genel Kurulu kararının, disiplin hukukuna ilişkin hükümlerin uygulanmasını gerektiren meslekten çıkarma cezası niteliğinde bulunmaması karşısında bu iddiaya itibar edilmemiştir.
 
@@ -150,6 +178,8 @@ Davacının bu kararlar nedeniyle yoksun kaldığı parasal haklarının iadesin
 
 ## Danıştay 2. D. 2019/3059 E., 2020/3499 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/645198800)
+
 …
 
 ... Bölge İdare Mahkemesi ...
@@ -162,11 +192,15 @@ gerekçeleriyle İstinaf başvurusunun reddine hükmedilmiştir.
 
 ## Danıştay 14. D. 2015/8136 E., 2017/3582 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/348125500)
+
 Bu durumda, yukarıda belirtilen mevzuat hükümleri uyarınca hisse satışının gerçekleştiği açık artırmaya sadece üçte iki çoğunluk ile anlaşan mülkiyet hakkına sahip paydaşların katılabileceği hükme bağlandığından, taşınmaz satış vaadi ve kat karşılığı inşaat sözleşmesiyle yapılacak işi üstlenen yüklenici şirketin bu paydaşlar adına açık artırmaya katılarak satışı yapılan hisseleri satın almasıyla sonuçlanan satışa ilişkin dava konusu işlemde hukuka uyarlık, Mahkemece verilen davanın reddi yolundaki kararda da hukuki isabet bulunmamaktaadır.
 
 Açıklanan nedenlerle; ...... İdare Mahkemesinin ... günlü, E:..., K:... sayılı kararının BOZULMASINA …
 
 ## Yargıtay HGK 2025/726 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1206075100)
 
 Davacı idare vekili dava dilekçesinde; davalı adına kayıtlı Balıkesir ili, Bandırma ilçesi, ... Mahallesi 136 parsel sayılı taşınmazın 3951, 70... ’lik bölümü ve 137 parsel sayılı taşınmazın 3955, 59... ’lik bölümü hakkında Enerji Piyasası Denetleme Kurulunca 29.01.2015 tarihinde kamu yararı kararı alındığını, Bakanlar Kurulunun 04.05.2015 tarihli ve 2015/7790 Karar sayılı kararı ile de acele kamulaştırma kararı verildiğini, Bandırma 1. Asliye Hukuk Mahkemesinin 04.11.2015 tarihli kararı ile taşınmazlara Hazine adına acele el konulmasına karar verildiğini ileri sürerek kamulaştırma bedelinin tespiti ile dava konusu taşınmazların Hazine adına tescilini talep etmiştir.
 
@@ -186,6 +220,8 @@ kamulaştırmanın iptali davalarında verilen kararların dava açmayan hisseda
 
 ## Yargıtay HGK 2024/506 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1104171800)
+
 Davacı vekili dava dilekçesinde; müvekkili ile davalı arasında 05.09.1986 tarihinde arsa payı karşılığı inşaat sözleşmesi düzenlendiğini, ancak davalının sözleşme konusu inşaatı projeye ve ruhsata uygun yapmadığı gibi süresinde de tamamlamadığını, sözleşmeye göre inşaatın bitirilmesi gereken tarihin üzerinden on yedi yıl geçtiği hâlde iskân ruhsatı alınarak kat mülkiyetine geçilmediğini, hâlihazırda binanın bitirilmesine ve yasal hâle getirilmesine olanak bulunmadığını ileri sürerek 05.09.1986 tarihli arsa payı karşılığı inşaat sözleşmesinin feshine karar verilmesini talep etmiştir.
 
 …
@@ -202,6 +238,8 @@ Yargıtay 3. Hukuk Dairesinin İçtihatlarında; 2023/188 Esas,1730 Karar sayıl
 
 ## Yargıtay HGK 2022/1278 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/846556100)
+
 Paylı mülkiyette, mülkiyet hakkına sahip birden ziyade kişi olmasına rağmen, belirlilik ilkesi gereğince eşya üzerinde tek bir mülkiyet hakkı mevcut bulunur. Eşya üzerindeki bu tek mülkiyet hakkı malikler arasında paylı mülkiyet birliği meydana getirir. Her paydaş mülkiyet hakkının belirli bir payına sahip olur. Paylı mülkiyet hukukî işlem, yetkili idari makamın işlemi, mahkeme kararı veya kanun gereği meydana gelir (Hukuk Genel Kurulunun 14.12.2021 tarihli ve 2017/4-2188 E., 2021/1667 K. sayılı kararı).
 
 …
@@ -209,6 +247,8 @@ Paylı mülkiyette, mülkiyet hakkına sahip birden ziyade kişi olmasına rağm
 Asıl davanın davalısı/birleşen davanın davacısı ... vekilinin temyiz itirazlarının kabulü ile direnme kararının Özel Daire bozma kararında gösterilen nedenlerden dolayı, 6217 sayılı Kanun’un 30. maddesi ile 6100 sayılı Hukuk Muhakemeleri Kanunu’na eklenen “Geçici Madde 3” atfıyla uygulanmakta olan 1086 sayılı Hukuk Usulü Muhakemeleri Kanunu’nun 429. maddesi gereğince BOZULMASINA …
 
 ## Yargıtay HGK 2022/42 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/750128600)
 
 Davacı vekili; ... Vadisi 4-5.
 

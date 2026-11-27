@@ -30,31 +30,45 @@ Bu durumda, davalı borçluların kefaletlerinin geçerli olması için eş rız
 
 ## Yargıtay 3. HD 2024/139 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1003097900)
+
 Dairece verilen 11.10.2017 tarihli ve 2016/2746 E., 2017/13708 K. sayılı ilamla; "...Bütün bu açıklamalar ışığında, davalı tarafın davacının hayvanlarının ve arazisinin bakım işini üstlendiğini, davacıyla hayvancılık yaptıklarını, hayvancılıktan her hangi bir kar elde edemediklerini, bütün masrafları kendisinin karşıladığını dilekçelerinde ve duruşmada beyan etmekle; taraflar arasında geçerli bir adi ortaklık ilişkisinin kurulduğunun kabulü zorunlu olup, uyuşmazlığın yukarıda açıklanan ve maddeler halinde belirtilen sıra ve yöntem izlenerek çözümlenmesi gerekirken bu şekilde bir inceleme ve değerlendirme yapılmadan, yanılgılı ve eksik inceleme ile hüküm tesisi doğru görülmemiş, bozmayı gerektirmiştir." gerekçesiyle, karar bozulmuştur.
 
 ## Yargıtay 3. HD 2023/3157 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/995838300)
 
 Dairemiz 07.05.2018 tarihli ve 2016/17574 E., 2018/4688 K. sayılı ilamıyla; davalının tüm, davacının sair temyiz itirazları reddedilerek, yasanın aradığı anlamda 5505 küpe numaralı hayvana ilişkin gerekçeli bir hükmün mevcut olmaması ve ortada denetlenebilecek gerekçeli bir karar bulunmamasının, inek bedellerinden satış ve kasaplık et bedeli düşülmek suretiyle davacıya iadesine karar verilmesi ve yine bu hususa ilişkin olarak da gerekçede herhangi bir açıklama yapılmamış olmasının, ayrıca dava konusu adi ortaklığın(hayvan ortaklığı) niteliğine göre, ortaklık süresince elde edilen süt geliri ve yapılan masrafların, resmi veriler esas alınmak suretiyle benzeri işletmelerin gelir ve giderleri göz önüne alınarak, yapılması gereken harcama ve maliyet bedelleri ile elde edilebilecek süt geliri miktarının konusunda uzman bilirkişi kurulundan rapor alınarak, yapılan masrafların elde edilen gelirden düşüldükten sonra davacı tarafın ortaklık nedeniyle herhangi bir alacağı olup olmadığının belirlenmesi ve sonucuna göre hüküm kurulması gerekirken, bu yönde bir inceleme yapılmaksızın davacının süt gelirine ilişkin talebini ispatlayamadığı gerekçesi ile işbu talebin reddine karar verilmesinin
 doğru görülmediği gerekçesiyle, kararın davacı yararına bozulmasına karar verilmiştir.
 
 ## Yargıtay 15. HD 2019/4285 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/549982900)
+
 Bu açıklamalar ışığında somut olayımıza gelince; yüklenici olarak ... Mühendislik İnşaat Nakliye Orman Ürünleri Hayvancılık ve Sanayi Ticaret Limited Şirketi ve... adi ortaklığının taraf ehliyeti yoktur. Bu nedenle, adi ortaklığı oluşturan kişilerin taraf olarak hep birlikte hareket etmeleri gerekir. Adi ortaklık tarafından açılacak davaların iştirak halinde mülkiyet hükümleri gereği bütün ortaklar tarafından birlikte açılması gerekir. Halbuki dava adi ortaklığı oluşturanlardan ... Mühendislik İnşaat Nakliye Orman Ürünleri Hayvancılık ve Sanayi Ticaret Limited Şirketi tarafından açılmıştır. Diğer adi ortağın davaya muvafakatı sağlanmaksızın davaya devam edilerek karar verilmesi doğru olmamıştır.
 
 ## Yargıtay 3. HD 2014/835 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/87986200)
 
 Bütün bu açıklamalar ışığında, taraflar arasında düzenlenen 2.4.2012 tarihli hayvan ortaklık sözleşmesi ile taraflar arasında geçerli bir adi ortaklık ilişkisinin kurulduğunun kabulü zorunlu olup, uyuşmazlığın yukarıda açıklanan ve maddeler halinde belirtilen sıra ve yöntem izlenerek çözümlenmesi gerekirken, mahkemece, değinilen bu yönler dikkate alınmadan eksik inceleme ve yanılgılı değerlendirme ile yazılı şekilde hüküm kurulması doğru görülmemiştir.
 
 ## Yargıtay 3. HD 2013/17500 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/263912200)
+
 Bu bağlamda, taraflar arasında tarımsal bir sözleşmenin yapıldığı, bu sözleşme ile davalıların üzüm bağını, davacının ise emeğini koyduğu ve elde edilecek karın (ürünün) yarı yarıya bölüşüleceği hususunda anlaştıkları sabit olduğundan, taraflar arasında 6098 sayılı Türk Borçlar Kanununun 620 ve devamı maddelerinde (818 sayılı BK.nun 520 ve devamı maddelerinde) düzenlenen adi ortaklık ilişkisinin mevcut olduğu açıktır.
 
 ## İstanbul BAM 45. HD 2026/119 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1195227900)
 
 Devir sözleşmesine konu alacağın ne zaman doğmuş kabul edileceği ise, Borçlar Kanunu hükümlerine göre belirleneceğinden, bu konuda bir değerlendirme yapabilmek için devir (temlik) sözleşmesinin konusunu teşkil eden alacağa dayanak teşkil eden hukuki işlemin incelenmesi gerekecektir. (bkz. Pekcanıtez/Erdönmez, Konkordato, shf:102) Somut davada, devredilen alacakların Kartepe Kent Meydanı Camii İkmal Yapım İşi nedeniyle oluşan hakediş alacağı olduğu anlaşılmakla, hak ediş alacağının doğum tarihi tespit edilerek İİK'nin 294/6 maddesi uyarınca iş bu alacağın konkordato kaynağı olarakgösterilip/gösterilmeyeceğine karar verilmesi gerekirken bu hususun göz ardı edildiği anlaşılmıştır. -Yapılan sermaye arttırımı ve yeni iş anlaşmalarına ilişkin bilgi ve belgeler mahkemeye sunulmuştur. Dosyada 29.10.2024 tarihli ...... Ltd Şti, 26/10/2024 tarihli dava dışı ...... Ltd Şti ve... ....... Ltd Şti tarafından sunulan iş desteğinin devam ettiğine dair (bir kısmı iş ortaklığına yönelik olmakla) yazılar ve ekinde yer alan yüklenici- iş bitirme belgeleri incelenmeli ve davacıların ön proje ve revize projede belirtilen ekonomik hedefler yönünden katkı sağlayıp/sağlamayacağı değerlendirilmelidir.
 Zira , e- posta yoluyla ibraz edilen bu beyanlar konkordato komiser heyeti tarafından 28.10.2024 tarihli raporda değerlendirilmiş ve 3 firmanın alt taşeron olarak şirkete iş sağlayacaklarına dair destek yazıları ve iş ortaklığının iş yapabilme kabiliyeti dikkate alındığında revize projenin başarıya ulaşma ihtimalinin olduğu değerlendirilmiştir.-... ada 9 parsel sayılı taşınmazın satışına ilişkin somut bir adım olmadığı değerlendirilerek bu taşınmazın satışından yaratılacak kaynağın elde edilemediği belirtilmiştir. Davacılar yönünden 06/02/2024 tarihinde 1 yıllık kesin mühlet kararı ve 06/02/2025 tarihinde konkordato taleplerinin reddine dair karar verilmiştir. Anılan tarla vasfındaki taşınmazın 21/01/2025 rapor tarihi itibariyle değeri 18.000.000,00 TL olarak takdir edilmiştir. Taşınmazın tarla vasfında olduğu ve mesken amaçlı kullanıldığı belirtilmiş ve bilirkişi tarafından sunulan raporda taşınmaz üzerinde 1 adet yapı, belgesiz depo ve çok sayıda meyve ağacı bulunduğu belirtilmiştir.
 
 ## Sakarya BAM 5. HD 2025/1108 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1157236100)
 
 Dava, sözleşmenin geçersizliği iddiasıyla bu kapsamda davalıya ödenen bedelin denkleştirici adalet ilkesi kapsamında tahsili talebine ilişkindir.
 
@@ -65,6 +79,8 @@ Maddesi ile “Mersa İnşaat Firması 640.000,00 TL ... ve ... adına, 160.000,
 Mersin Bölge Sulama Kooperatifler Birliğinin borulama sisteminin yapım işini yapmaya başladığı, iş sahibi birlik tarafından hakediş düzenlendiği ve bir miktar ödeme alındığı, dolayısıyla davalı tarafça 9/01/2020 tarihli sözleşmeden kaynaklı edimlerinin ifa edildiği anlaşıldığından davacının davalıdan alacağı bulunmadığı anlaşılmakla mahkemece davanın reddine dair verilen karar sonucu itibariyle yerinde görülmüştür.
 
 ## Ankara BAM 27. HD 2025/662 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1152051400)
 
 …
 
@@ -85,6 +101,8 @@ nun hüküm altına alındığı, müvekkilin adi ortaklık hesaplarından davac
 
 ## İstanbul BAM 3. HD 2025/225 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1109788900)
+
 Dava, İİK 67 maddesine dayalı itirazın iptali talebine ilişkindir.
 
 …
@@ -100,6 +118,8 @@ Sözleşmenin feshi halinde veya temlik verilmemesi halinde fatura bedellerinin 
 
 ## İstanbul BAM 3. HD 2024/3575 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1103135700)
+
 İş ortaklığına ait olduğu, …
 
 …
@@ -109,6 +129,8 @@ Her ne kadar davalı ... çekin davacı elinden kendi kusuruyla çıkması neden
 
 ## İstanbul BAM 3. HD 2024/2847 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1076633600)
+
 Yargılama aşamasında alınan 19/04/2022 bilirkişi raporunda; dava konusunun, taraflar arasında akdedilen 19.07.2016 tarihli Protokol gereğince adi ortalık payının devredilmesine rağmen devir gereği senetlerin iade edilmemesi nedeniyle davacı tarafın uğradığı zarara ilişkin şimdilik 100.000,00-TL'nin davalı yandan tahsili talebinden ibaret olduğu, davacının 2016-2017-2018-2019 yılları ticari defterlerinin lehine delil niteliğinin bulunduğu, davacının ticari defterlerine göre; davacı yanın incelenen ticari defterlerinde dava konusu senetlere ilişkin bir kaydın görülmediği, iş bu senetlere ilişkin arsa sahipleri ile olan ticari ilişkisini 236. diğer çeşitli alacaklar hesabında takip etmekte olduğu, davacı yanın ticari defterlerinde arsa sahiplerinden yapılan herhangi bir tahsilat kaydının da bulunmadığı, davalının 2016-2017-2018-2019-2020 yılları ticari defterlerinin lehine delil niteliğinin bulunduğu, davalının incelenen 2016-2017-2018-2019-2020 yıllarına ait ticari defterlerinde davaya konu edilen senetlere ilişkin bir muhasebe kaydının bulunmadığı, rapor içeriğinde sunulan tabloda yer verilen senetlere ilişkin davacının incelenen ticari defterlerinde, dava konusu senetlerin
 tahsilatına ilişkin bir kaydın görülmediği, yine davalı yanın incelenen ticari defterlerinde söz konusu senetlere ilişkin bir muhasebene kaydına rastlanılmadığı, söz konusu davaya konu protokolün 7. maddesinde yer alan arsa sahiplerinden alınan bu senetler, adi ortaklığın arsa sahipleri adına yapmış olduğu ve adi ortaklık hesaplarında 236 diğer çeşitli alacaklar hesabında takip ettiği harcamalar nedeniyle alınmış teminat senetleri olduğu kanaatine ulaşılabileceği, birinci İhtimal kabul edildiğinde: adi ortaklıkça yapılan harcamaların arsa sahiplerinden talep edilmesi sırasında davalı ... San. Tic. Ltd.
 
@@ -117,10 +139,14 @@ tahsilatına ilişkin bir kaydın görülmediği, yine davalı yanın incelenen 
 
 ## Ankara BAM 27. HD 2023/1318 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/977295500)
+
 Her ne kadar yüklenici İş Ortaklığınca çalışma alanında meydana gelen heyelan ve ağır kış şartları sebebiyle boru hattı güzergahında bulunan çeltik tarlalarında çalışma yapılamadığı, bu durumun mücbir sebep olup süre uzatımı verilmesi gerektirdiği gerekçesiyle sözleşmenin idarece kusurlu olarak tek taraflı feshedildiği ileri sürülmüş ve birleşik Ankara 4. Asliye Ticaret Mahkemesi'nin 2010/564 esas sayılı davada tazminat talep edilmiş ise de 01.07.2005 tarihli sözleşmenin 19. maddesine göre bu hallerin mücbir sebep olarak kabul edilemeyeceği, tüm dosya kapsamı, alınan 3. bilirkişi heyet raporu, uzman görüşü ve Ankara 9. İdare Mahkemesi'nin 2007/295 esas-2008/686 karar sayılı ve 31.03.2008 tarihli kesinleşmiş karar içeriği ile sabittir. Diğer yandan, yüklenici İş Ortaklığınca mücbir sebep halleri iddiasıyla sözleşmenin 19.2. maddesi anlamında belgeleri ile birlikte süresi içinde ve usulüne uygun süre uzatım talebi de yapılmamıştır. Bu durumda, sözleşmenin iş sahibi ... tarafından sözleşmeye aykırı olarak ve kusurlu bir şekilde tek taraflı feshedildiği kabul edilemez.
 Bu gerekçelerle yüklenici İş Ortaklığınca sözleşmenin haksız feshedildiği iddiası ile açtığı tazminat talebinin reddi gerekir. Aynı davada yüklenici İş Ortaklığınca sözleşmenin feshinden sonra teminat mektubunun irat kaydedildiği gerekçesiyle oluşan zararın tazmini talep edilmiş ise de 01.07.2005 tarihli sözleşmenin 26. maddesi, 27. maddesi ve 3.18. maddesi ve sözleşmenin iş sahibince haklı sebeplerle feshedildiği dikkate alındığında bu yöndeki talebin de reddi gerekir. Aynı davada yüklenici İş Ortaklığınca ihaleden yasaklılık kararı sebebiyle oluşan zararın tazmini de talep edilmiş ise de ihaleden yasaklılık kararının iptali talebiyle Ankara 9. İdare Mahkemesi'nin 2007/298 esas sayılı dosyası ile açılan davanın reddedildiği ve kararın kesinleştiği anlaşılmakla bu talebin de reddi gerektiği sonucuna varılmıştır. Her ne kadar iş sahibi ... tarafından birleşik Ankara 9.
 
 ## İstanbul BAM 15. HD 2023/1033 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/956158900)
 
 28.03.2014 tarihli hakediş ile 31.03.2014 tarihli 47.222,94-TL ve 10.101,83-TL bedelli olan iki fatura ve 04.04.2014 tarihli 64.092,12-TL'lik fatura tutarlarının ödenebileceği, 11.04.2014 tarihli hakediş ile geri kalan tüm fatura bedellerinin ödenebileceği, 28.05.2014 tarihli hakediş ile de tüm faturalarının ödenmiş olmasının gerekeceğinin belirlendiği, davalı tarafça her ne kadar yapılan işin kalitesi kapsamında hakedişlerden kesintiler yapıldığı yönünde beyanda bulunulmuş ise de dosya kapsamında davalı adi ortaklığı tarafından sunulan veya TCDD tarafından gönderilen belgeler içeriğinde eksik imalata ilişkin bilgi ve belge, kesinti nedeni ve kesintinin davacıya bildirilmesine ilişkin delil sunulmadığı, 03.12.2012-12.05.2014 tarihi arası 35 adet fatura içeren tablo sunulmuşsa da dava konusu edilen faturalar 31.03.2014-14.05.2014 tarihleri arasında 11 adet fatura olup beyana ek verilen tabloda bu faturaların bulunmadığı, taraflar arasında işin yapılmadığına ilişkin bir ihtilaf bulunmadığı, davaya konu alacak kesin hesap alacağı olmayıp, kesin hakediş yapılmadan yapılan kesintilerin uygunluğunun değerlendirilmesinin de mümkün olmadığı, davalı taraf ısrarla, davaya konu alacağın hak
 edişlere girdiği ve o hakedişlerin parasının ne zaman davalı şirkete ödendiğinin tespitinin biraz mesai ile gayet mümkün olduğu itirazında bulunmuş ise de; bilirkişi 3. Ek Heyet Raporunun 4, 5 ve 6. Sayfalarda açıkça anlatıldığı üzere davacının yaptığı işe ait pozun hangi miktarda hangi ay davalı ile idare arasında yapılan hangi hakedişe girdiğinin belirlenemediği; davalının dahi bu belirlemenin yapılabilmesi için bir somutlaştırma yapamadığı sadece "söz konusu davacı taraf hakedişinin içeriğinin T-9A tünele ilişkin metrakareler" olarak hesaplanan miktarların "...-...-... İş Ortaklığı'nın 16,18,19,20,21,22 nolu hakedişlerine girmiş" olduğu açıklaması gibi bir kaç örnek ile açıklamaya çalıştığı; bilirkişi kurulunun açıkça beyan ettiği gibi davalının hakediş sisteminin hakediş düzenleme ve takip yöntemlerinden çok farklı bir uygulama ile yapıldığı, davalının dayandığı BAM kararında da bahsedilen sözleşmenin 36.
@@ -129,6 +155,8 @@ Maddesi gereğince inceleme yapılması imkanının davalının sorumluluğunda 
 hakedişe girmesi gerektiği kanaati edinilmiş olup davacının davalı adi ortaklıktan ticari defterlerde tespit edilen takipten sonra-davadan önce 554.386,50-TL alacaklı olduğu, davadan sonra yapılan 200.000,00-TL tutarındaki ödemenin infazda dikkate alınacağı, davanın davalı adi ortaklığın defterlerinde davacı lehine tespit edilen alacak miktarı olan 554.386,50-TL üzerinden kabulüne, fazlaya ilişkin istemin reddine karar verilmesi gerektiği, icra inkar tazminatı yönünden; dava konusu alacağın önceden belirlenebilirlik, bilinebilirlik, hesap edilebilirlik vasfı ve dolayısıyla likit alacak niteliği taşıdığı, bu haliyle İİK'nın 67. maddesindeki koşulların gerçekleştiği görülmekle, davacının icra inkar tazminatının kabulü gerektiği gerekçeleriyle, kazanılmış hak dikkate alınarak davanın kısmen kabulü ile, İstanbul ... İcra dairesinin ... E.
 
 ## İstanbul BAM 15. HD 2023/777 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/913695300)
 
 Sözleşmenin 2. maddesinde davalı şirketlerin kurmuş olduğu ortaklık tarafından inşa edilen Bahçeşehir Projesi kapsamındaki yapıların ahşap malzeme ve işçilik tedarikinin davacı şirket tarafından sağlanacağı düzenlenmiş, sözleşmenin 8. maddesi ile sözleşme bedeli 9.800,000,00 TL + KDV olarak belirlenmiştir. Sözleşmede, sözleşme konusu işin başlama tarihi 04/01/2021, bitiş tarihi de 18/10/2021 olarak (geçici kabul tarihi) tanımlanmıştır.
 Davacı şirket vekili, işin başlama tarihinin 21/01/2021 tarihi olduğunu, müvekkili şirket tarafından şahit numune dairedeki ahşap işlerinin 30/04/2021 tarihinde, şahit numunenin bulunduğu kattaki şaft kapaklarının da 07/05/2021 tarihinde davalı şirket yetkililerinin onayına sunulduğunu ve davalı şirket yetkililerinin onayını müteakip şantiye sorumlularından onay imzası alınarak işe başlandığını, işin bitiş tarihi 18/10/2021 olarak kararlaştırılmazına karşın davalı şirketlerin işin başlama tarihi itibarı ile inşa ettiği daireleri imalat için müvekkili şirkete henüz teslim edemediklerini, davalı şirketlerce sözkonusu iş yerinin müvekkili şirkete 2021 yılı Mayıs ayında teslim edilebildiğini, bu hali ile müvekkili şirketin sözleşmenin ifasında geciktiğinden bahsedilemeyeceğini, müvekkili şirket tarafından verilen mal ve hizmetin karşılığı olarak keşide edilen faturaların davalıların sözleşme kapsamında devir ettikleri taşınmaz bedellerine ait faturaların mahsubundan sonra müvekkili şirketin davalılara ait iş ortaklığından 1.485.320,93 TL alacağı kaldığını ileri sürerek müvekkili şirketin davalı şirketlere ait iş ortaklığından sözleşme kapsamında hak ettiği ve davalıların devir borcu

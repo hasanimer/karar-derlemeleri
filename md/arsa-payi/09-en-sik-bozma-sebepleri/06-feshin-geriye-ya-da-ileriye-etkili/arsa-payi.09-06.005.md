@@ -21,6 +21,8 @@ uyari: "Derleyenin seçtiği alıntılardır; kararın tamamı değildir. Künye
 
 ## Yargıtay 15. HD 2008/3514 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/858319500)
+
 Davacılar 1-... 2-... 3-... ile davalılar 1-......n 2-..
 
 …
@@ -31,6 +33,8 @@ Fesih konusunda usulüne uygun olarak tashihi karar talebinde bulunulduğunun ka
 Sulh Hukuk Mahkemesi’nin 2001/22 Değişik ... dosyasında verilen bilirkişi raporunda arsa sahiplerine isabet eden bağımsız bölümlerdeki eksik ... seviyesinin %40 oranında olduğu, yaklaşık bir yıl sonra aynı mahkemenin 2002/09 Değişik ... sayılı dosyasında alınan raporda aradan bir yıl geçmesine rağmen seviyenin aynı olduğu açıklanmıştır. Ayrıca dava devam ederken davalılardan ...’nün yaptırmış olduğu tespitte inşaatın seviyesinin %73,14 olduğu açıklanmıştır. Tüm bu tespitler dikkate alındığında inşaatın gerçekleşme oranı itibariyle sözleşmenin ileriye etkili sonuç doğuracak şekilde feshine imkân bulunmamaktadır.
 
 ## Yargıtay 15. HD 2008/3514 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/858319500)
 
 Davacılar 1-... 2-... 3-... ile davalılar 1-......n 2-..
 
@@ -44,11 +48,15 @@ müdahalelerinin önlenmesi talep edilmiştir. Mahkemece davanın reddine dair v
 
 ## Yargıtay 15. HD 2008/3186 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/856796000)
+
 30 günlük süre içerisinde inşaat ruhsatını almamıştır. Bu şekilde davalı yüklenici kooperatifin temerrüde düştüğü tartışmasızdır. Davacıların tapu iptâli ve tescil istemleri aynı zamanda sözleşmenin geriye etkili olarak feshi istemini de içerdiğinden, davacılar tarafından davalı kooperatife devredilen tapu kaydının iptâli ile davacılar adlarına tesciline karar verilmesi gerekirken, yazılı şekilde davanın reddine karar verilmesi doğru olmamış, kararın bozulması gerekmiştir.
 
 SONUÇ:Yukarıda açıklanan nedenlerle kararın davacılar yararına BOZULMASINA …
 
 ## Yargıtay 15. HD 2007/6600 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/860443000)
 
 Dava, kat karşılığı inşaat sözleşmesinin feshi (dönme), tapu iptâli ve tescil istemlerine ilişkindir.
 
@@ -60,6 +68,8 @@ Hükümden sonra davacı vekili tarafından mahkemeye sunulan ve davalılardan .
 SONUÇ:Yukarıda 2.bentte açıklanan nedenle hükmün temyiz eden davacı yararına BOZULMASINA; 1.bent uyarınca da temyiz eden davalıların tüm temyiz itirazlarının reddine …
 
 ## Yargıtay 15. HD 2006/2469 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/859403300)
 
 Davacı arsa sahipleri, yüklenici davalının sözleşme gereğince yüklendiği edimini ifa etmediğini; inşaatı %22,6 seviyede terk ettiğini ileri sürerek; öncelikle sözleşmenin feshi ile davalı yükleniciye sözleşme gereği temlik olunan ve onun tarafından da diğer davalılara temlik edilen pay kayıtlarının iptaliyle davacılar adına tapuya tesciline, menfi zararlarının ödetilmesine; tapu iptali ve tescile karar verilememesi halinde de temlik olunan arsa payları bedelinin ödetilmesine karar verilmesini istemişlerdir.
 
@@ -73,6 +83,8 @@ Borçlar Kanunu’nun 162 ve izleyen maddeleri hükümleri uyarınca; yüklenici
 SONUÇ:Yukarda (1).bentte belirtilen nedenlerle davacıların sair temyiz itirazlarının reddine, (2).bentte açıklanan sebeplerle de temyiz itirazlarının kabulüne ve kararın davacılar yararına BOZULMASINA …
 
 ## Yargıtay 15. HD 2006/618 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/16164200)
 
 Davacı arsa sahibi ile davalı yüklenici Hüseyin arasında düzenleme şeklinde imzalanan 26.09.1996 tarihli kat karşılığı eser sözleşmesi uyarınca davacıya ait 20819 ve 20822 nolu iki adet parsel üzerine bina inşaatı yapımı kararlaştırılmış, bu sözleşme gereğince 20822 parseldeki tapu kayıtlarının bir bölümü davalı yükleniciye devredilmiştir. Yüklenici inşaatı tamamladığı halde 3. kişilere pay devri yaptığı iddiasıyla açılan ve birleştirilen dört davada tazminat, akdin feshi ve tapu kayıtlarının iptali talep edilmiştir.
 
@@ -120,6 +132,8 @@ Taraf vekillerinin istinaf başvurusunun KABULÜ ile, HMK’nın 353-(1)/a-6 mad
 
 ## Antalya BAM 7. HD 2025/327 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1132534600)
+
 Davalı vekili cevabında, taraflar arasında 05/11/2014 tarihinde noterde sözleşme yapıldığını, imar tadilatının 06/04/2016 tarihinde kesinleştiğini, bu süreçte davalının kusurlu olmadığını, ... belediyesince başvuru yapılmasına rağmen işlemlerin geciktirildiğini, davalının süresi içerisinde ruhsat başvurusu yaptığını ancak belediyenin ruhsat işlemlerini geç yaptığını, Antalya 1. Sulh Ceza Hakimliğinin 14/06/2017 tarih ve ...
 
 …
@@ -131,6 +145,8 @@ Davalı vekili cevabında, taraflar arasında 05/11/2014 tarihinde noterde sözl
 Yerel mahkeme kararının esası incelenmeksizin ORTADAN KALDIRILMASINA ve davanın yeniden görülmesi için dosyanın kararı veren mahkemeye GÖNDERİLMESİNE …
 
 ## İzmir BAM 14. HD 2023/47 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/851688400)
 
 Davacı vekili ıslah dilekçesinde ise; "... bloktaki 9 daireye karşılık gelen ... ada .. parseldeki arsa payının tapu kaydının iptali ile davacı adına tesciline ve haksız fesih nedeniyle mahrum kaldığı kârın tespit ve tahsiline karar verilmesini istemiştir.
 

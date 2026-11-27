@@ -22,6 +22,8 @@ uyari: "Derleyenin seçtiği alıntılardır; kararın tamamı değildir. Künye
 
 ## Yargıtay 14. HD 2010/1239 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/633328400)
+
 Davacı, dava ve birleşen davada, arsa payı karşılığı inşaat yapım sözleşmesi uyarınca yükleniciye bırakılması kararlaştırılan 9204 ada 19 parseldeki 2 numaralı bağımsız bölümün yükleniciden 03.03.1998 tarihli adi yazılı temlik sözleşmesi ile aldığını, dava konusu bağımsız bölümün Ankara 7. Asliye Hukuk Mahkemesinin 2002/516 Esas, 2005/108 Karar sayılı ilamı ile yüklenici adına tescil edildiğini ileri sürerek tapu iptali tescil ve haciz şerhlerinin kaldırılması isteminde bulunmuştur.
 
 …
@@ -41,6 +43,8 @@ Eldeki davada bu davanın açılmasından evvel arsa sahipleri tarafından Ankar
 SONUÇ: Yukarıda açıklanan nedenlerle temyiz olunan kararın BOZULMASINA …
 
 ## Yargıtay 14. HD 2009/8399 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/847328800)
 
 Dava, mülkiyet hakkına dayalı elatmanın önlenmesi istemine ilişkindir.
 
@@ -62,6 +66,8 @@ SONUÇ: Temyiz olunan kararın yukarıda açıklanan nedenlerle BOZULMASINA …
 
 ## Yargıtay 15. HD 2009/6638 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/856263700)
+
 Dava, arsa payı karşılığı inşaat yapım sözleşmesi uyarınca davacı arsa sahiplerine ait bağımsız bölümler ile ortak alanlardaki eksik ve kusurlu işler bedeliyle gecikme tazminatı alacaklarının tahsili istemlerine ilişkindir.
 
 …
@@ -74,6 +80,8 @@ Sözleşmeye göre, iskân harç ve masrafları arsa sahiplerine ait ise de; dav
 SONUÇ:Yukarıda açıklanan nedenlerle temyiz itirazlarının kabulü ile hükmün davacılar yararına BOZULMASINA …
 
 ## Yargıtay 14. HD 2009/6008 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/16966300)
 
 Dava ve birleştirilen dava, yüklenicinin temliki işlemine dayanan tapu iptali ve tescil istemine ilişkindir.
 
@@ -89,6 +97,8 @@ Sonuç: Yukarıda 1. bentte açıklanan nedenlerle davacı Münevver'in temyiz i
 
 ## Yargıtay 15. HD 2009/5035 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/855375700)
+
 Yanlar arasındaki 15.07.1997 tarihli Kat Karşılığı İnşaat Sözleşmesi arsa sahibi tarafından açılan dava sonucu ... 1. Asliye Hukuk Mahkemesi’nin 2003/725 E, 2004/891 K. sayılı ve 20.12.2004 günlü kararı ile feshedilmiş, fesih kararı Yargıtay incelemesinden geçmek suretiyle 20.06.2006 tarihinde kesinleşmiştir. Kesinleşen dava dosyasında alınan 11.03.2004 günlü bilirkişi raporuna göre yüklenici tarafından yapılan binanın takviye yapılmadan kullanılması tehlikeli olup, binanın acilen boşaltılması gerekmektedir. Sözleşmeye göre zemin + 5 kat inşaat yapılacak olup sözleşme tarihindeki mevcut imar durumu 4 kat inşaata müsaittir. Ancak inşaat 9 kat olarak yapıldığından kaçak katlar yönünden inşaat mühürlenmiş ve ilgili belediyece yıkım kararı verilmiştir. Yargılama sırasında alınan bilirkişi raporunda bina statiğinin fen ve sanat kurallarına uygun olup olmadığı hususunda bir değerlendirme ve inceleme yer almamış, kaçak katlar hariç diğer katların tamamen fen ve sanat kurallarına uygun olarak yapıldığı varsayımı ile yapım bedeli hesaplanmıştır.
 İlgili belediyece daha sonra imar değişikliği ile kat adedinin artırılmış olması binanın tamamının fen ve sanat kurallarına uygun olarak yapıldığını göstermez.
 
@@ -99,6 +109,8 @@ Mahkemece alınan bilirkişi raporu hüküm tesisine elverişli olmayıp yeniden
 SONUÇ: Yukarıda açıklanan nedenlerle yerel mahkeme kararının davalı yararına BOZULMASINA …
 
 ## Yargıtay 15. HD 2009/4216 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/856293000)
 
 Mahkemece, davacı-karşı davalının davasının kısmen kabulü ile 37.917,00 TL’nin dava tarihinden itibaren reeskont faiziyle birlikte davalı ...’dan tahsiline; karşı davanın ise, reddine karar verilmiş ve verilen karar davalı-karşı davacı vekilince temyiz edilmiştir.
 
@@ -115,6 +127,8 @@ SONUÇ:Yukarıda (1.) bendde belirtilen nedenlerle davalı-karşı davacı vekil
 
 ## Yargıtay 15. HD 2009/2293 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/854669100)
+
 Davalı arsa sahipleri vekili davacı yüklenici kooperatifin edimini tam olarak yerine getirmediğini, kooperatife satılan konutlar nedeniyle satış bedelinden alacakları olduğunu, oturma ruhsatlarının alınmadığını, konutların zamanında teslim edilmemesi nedeniyle gecikme tazminatı isteme haklarının olduğunu, 1859 parsele kooperatif tarafından inşaat yapılmadığını belirterek, tescil şartları oluşmadığından davanın reddini istemiştir. Ek sözleşmede yazılı olan 1859 parselin 30.01.1995 tarihli asıl sözleşmede yer almadığı, arsa sahipleriyle ilgisinin olmadığı belirlenmiştir.
 
 …
@@ -127,6 +141,8 @@ bilirkişiye hesap ettirilerek, bağımsız bölümlerle irtibat sağlanarak inf
 SONUÇ:Yukarıda 1. bendde yazılı nedenlerle arsa sahiplerinin sair temyiz itirazlarının reddine, 2. bent uyarınca kararın davalı arsa sahipleri yararına BOZULMASINA …
 
 ## Yargıtay 15. HD 2009/1163 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/854013400)
 
 Mahkemece, davanın konusuz kalması nedeni ile esas hakkında hüküm kurulmasına yer olmadığına karar verilmiş ve verilen karar davacı vekilince temyiz edilmiştir.
 
@@ -142,6 +158,8 @@ SONUÇ:Yukarıda belirtilen nedenlerle davacı vekilinin temyiz itirazlarının 
 
 ## Yargıtay 15. HD 2009/856 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/853631800)
+
 Davalı yükleniciler, davacıların kendilerine ait bağımsız bölümleri teslim aldıkları savunmasında bulunmuşlardır. Dosyada bulunan davacı ... ile davalı ...’nin imzalarını taşıyan 27.12.2004 tarihli belgeden davacı ...’ın kendisine ait meskenin anahtarını teslim aldığı anlaşılmaktadır. Diğer davacı ... yönünden teslim belgesi ise bulunmamaktadır. Davalılar, davacı ...’un kendisine ait daireyi 30.05.2003 tarihinde teslim alıp taşındığını, daha sonrada elektrik abonesi yaptırdığını beyan etmişlerdir. Dosyadaki FATSA Tedaş İşletme Müdürlüğü’ne ait belgeden ...’un 28.07.2003 tarihinde elektrik abonesi olduğu anlaşılmaktadır. Bu belge de davalı yüklenicilerin teslim savunmalarını doğrular niteliktedir. Her iki davacıya bağımsız bölümleri teslim edilmekle birlikte, davacıların bağımsız bölümleri tam ve eksiksiz olarak teslim aldıkları konusunda beyanları bulunmamaktadır. Dolayısıyla davacıların eksik ve kusurlu işlerin giderilme bedellerini isteme hakları bulunduğu sonucuna varılmaktadır.
 Açık ayıplı işlerin giderilme bedellerinin BK’nın 359. maddesine göre teslimden itibaren makul sürede yapılacak kontrol sonucunda ayıp ihbarı yapılması kaydıyla zamanaşımı süresi içinde istenmesi mümkündür. Gizli ayıplı işlerin giderilme bedelleri için BK’nın 362. maddesi uyarınca ayıbın öğrenildiği tarihte hemen ayıp ihbarında bulunulması kaydıyla, zamanaşımı süresince istekte bulunulabilir. Eksik işlerin giderilme bedelleri yönünden ise ihbarda bulunulmasına gerek olmaksızın zamanaşımı süresi içinde istemde bulunulması mümkündür.
 
@@ -153,6 +171,8 @@ SONUÇ:Yukarıda (1.) bendde açıklanan nedenlerle davacıların sair temyiz it
 
 ## Yargıtay 15. HD 2009/352 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/868771200)
+
 Dosyada bulunan 07.06.1994 tarihli kat karşılığı inşaat sözleşmesini arsa sahibi olarak imzalayan bazı kişilerin kendilerine ait bağımsız bölümlerin yüzölçümlerinin sözleşmeye göre eksik teslim edilmesi iddiasıyla açılan davanın Erzurum 1. Asliye Hukuk Mahkemesi’nin 2000/381 E. sayılı dosyası ile görüldüğü, bu dosyada dava açan arsa sahiplerinin bu konudaki iddialarının kabul edilerek tazminatın tahsiline karar verildiği, bu kararın Yargıtay denetiminden geçmek suretiyle kesinleştiği belirlenmiştir. Bu dosya taraflar yönünden kesin delil niteliğindedir.
 
 Dairemizin yerleşmiş uygulamasına göre arsa sahiplerine ait bağımsız bölümlerin yüzölçümlerinin sözleşmeye göre eksik yapılıp teslim edilmesi, eksik iş niteliğinde kabul edilmektedir. Eksik iş bedelinin bağımsız bölümlerin teslim edildiği tarihten itibaren zamanaşımı süresi doluncaya kadar istenmesi mümkündür. Ancak bu konudaki eksik iş bedelinin bağımsız bölümlerin arsa sahibine teslim edildiği tarih üzerine dava açılması için gerekli makul süre eklenerek bulunacak tarih itibariyle hesaplanması gerekir. Bu konudaki eksik iş miktarı hesaplanırken daire ve dükkânlar için inşaat ruhsatında yer alan yüzölçümün dikkate alınması ve teslim edilen bağımsız bölümler, daha küçük yapılmışsa sözleşmedeki düzenlemeler de dikkate alınarak bedelin hesaplattırılması ve karar altına alınması zorunludur.
@@ -163,6 +183,8 @@ SONUÇ: Yukarıda açıklanan nedenlerle kararın davacı arsa sahibi yararına 
 
 ## Yargıtay 15. HD 2008/7207 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/857274000)
+
 Taraflar arasındaki sözleşmede yapımı kararlaştırılan binanın iskan raporu alınmış olarak teslimi kabul edilmiştir. İskan raporu 21.01.2004 tarihinde alınarak bina davacıya teslim edilmiş, 04.05.2004 tarihli ihtarnamesiyle ayıpların giderilmesini davalıdan istemiştir. Kural olarak BK’nın 359. maddesi uyarınca imal olunan şeyin tesliminden sonra iş sahibi makul bir sürede derhal ayıpları yükleniciye bildirmeye mecburdur. Aksi halde eseri olduğu gibi kabul etmiş sayılır. Basit bir muayene ile görülebilecek (açık ayıp) kusurlardan dolayı yüklenicinin sorumluluğu kalmaz (BK’nın 362. mad.). Eser sözleşmelerinde ayıbın varlığının ihbar edildiği her türlü delille kanıtlanabilir. Kısaca ayıp ihbarı şekil koşuluna bağlı değildir. Daire’nin yerleşik uygulaması da bu yöndedir. Eldeki davada tesliminden uzun süre sonra gönderilen ihtarnameyle ayıp ihbarında bulunulduğuna dair mahkemenin kabulü yerinde ise de, davacı dava dilekçesindeki delilleri arasında tanık anlatımlarıyla da ayıpların süresinde ihbar edildiğini kanıtlamak istediğinden davacının bu istemi üzerinde durulmadan ayıp ihbarının süresinde yapılmadığının kabulü doğru olmamıştır.
 
 …
@@ -170,6 +192,8 @@ Taraflar arasındaki sözleşmede yapımı kararlaştırılan binanın iskan rap
 SONUÇ: Yukarıda (1.) bendde yazılı nedenlerle davacının temyiz itirazlarının reddine, (2.) bent uyarınca kabulü ile hükmün davacı yararına BOZULMASINA …
 
 ## Yargıtay 15. HD 2008/6079 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/859223100)
 
 Dava, arsa payı karşılığı inşaat yapım sözleşmesi uyarınca cezai şart, gecikme tazminatı ile dairelerin küçük yapılmasından kaynaklanan değer kaybı alacaklarının tahsili istemine ilişkindir.
 
@@ -187,6 +211,8 @@ SONUÇ: Yukarıda (1.) bentte yazılı nedenlerle davalının tüm, davacının 
 
 ## Yargıtay 15. HD 2008/4767 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/857440600)
+
 Dava kat karşılığı inşaat sözleşmesine dayalı tapu iptali ve tescil istemine ilişkindir.
 
 …
@@ -198,6 +224,8 @@ Taraflar arasında ... 2. Asliye Hukuk Mahkemesinde aynı konuda açılan davada
 SONUÇ: Yukarıda açıklanan nedenlerle kararın davalılar yararına BOZULMASINA …
 
 ## Yargıtay 15. HD 2008/2867 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/857481900)
 
 Mahkemece miras şirketine mümessil tayin ettirilerek asıl ve birleşen davanın kısmen kabulüne karar verilmiş, karar taraflar vekillerince temyiz edilmiştir.
 
@@ -212,6 +240,8 @@ SONUÇ:Yukarıda 1.bentte açıklanan nedenlerle tarafların diğer temyiz itira
 
 ## Yargıtay 15. HD 2008/2637 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/856916000)
+
 Dosya içerisine getirtilen ... 5. Asliye Hukuk Mahkemesi’nin 2006/16 D.iş tespit dosyasında seviye %45 olarak belirlenmiştir. Mahkemece de bu seviyeye göre davacı yüklenicilerin 4 adet bağımsız bölüm hak kazanmaları ve bunları da satmış olmaları nedeniyle davanın reddine karar verilmiştir. Dava 27.01.2006 tarihinde açılmış, ... 5. Asliye Hukuk Mahkemesi’nden tespit davanın açılmasından sonra 10.03.2006 tarihinde istenmiştir. Bir davanın açılmasından sonra, başka bir mahkemede tespit yaptırılması HUMK’nın 368 ve devamı maddelerine aykırılık teşkil eder. Böyle bir tespitin karara dayanak yapılması mümkün değildir. Ayrıca davacı yükleniciler, tespit dosyasına verdikleri dilekçe ile itirazlarını bildirmişler, bu şekilde tespit dosyasındaki bilirkişi raporunun da kesinleşmesini önlemişler, yargılama sırasında da itirazlarını tekrarlayıp, inşaatı tamamladıklarını iddia etmişlerdir. Mahkemece davacı yüklenicilerin itirazları dikkate alınmaksızın, keşif yapılıp bilirkişi raporu alınmadan usulsüz tespit dosyasındaki seviyeyle bağlı kalınarak davanın reddine karar verilmesi doğru olmamıştır.
 
 Yapılacak iş, imara aykırılık kamu düzenine ilişkin olup mahkemece resen araştırılması gerektiğinden, davacı yükleniciler tarafından dava konusu parsel üzerinde yapılan inşaatın imara ve projesine uygun olup olmadığının ilgili Belediye’den araştırılmasından, daha sonra da inşaatın bulunduğu yerde uzman bilirkişilerden oluşturulacak heyetle keşif yapılarak, davacılar tarafından yapılan inşaat yasal, diğer ifade ile imara ve projesine uygun şekilde yapılmış ise, davacıların itirazlar doğrultusunda seviye belirlenerek, davacıların hak ettikleri bağımsız bölüm sayısının ortaya çıkarılmasından, davacılar tarafından satıldığı anlaşılan 4 adet bağımsız bölüm dışında hak ettikleri bağımsız bölüm varsa bu konuda davanın kabul edilmesinden, davacılar tarafından yapılan inşaatı imara ve projesine aykırı ise bunun yasal hale gelip gelmeyeceğinin ilgili Belediye’den sorulmasından, yasal hale gelmesi mümkün ise davacılara uygun süre tanınmasından, gerekirse yasal hale getirilmesi için yetki verilmesinden, inşaatın imara ve projesine aykırı yapıldığı ve yasal hale getirilmesinin mümkün olmadığının anlaşılması durumunda veya inşaat yasal olsa dahi davacı yüklenicilerin seviye itibariyle sattıkları
@@ -222,6 +252,8 @@ Yapılacak iş, imara aykırılık kamu düzenine ilişkin olup mahkemece resen 
 SONUÇ:Yukarıda 1. bentte açıklanan nedenlerle davacılar vekilinin sair temyiz itirazlarının reddine, 2. bent gereğince kabulü ile temyiz eden davacılar yararına BOZULMASINA …
 
 ## Yargıtay 14. HD 2007/10659 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/852277900)
 
 Davacı, davalılardan ... ile yüklenici ... arasında noterde 27.12.1982 tarihinde düzenlenen arsa payı devri karşılığı inşaat yapım sözleşmesi uyarınca yükleniciye ait olan H Blok 11 numaralı daireyi yükleniciden satın aldığını bedelini ödediğini, uzun yıllardır kullanımında olduğunun davalılarca da bilindiğini belirterek tapu kaydının iptali ile adına tescili isteğinde bulunmuştur.
 
@@ -243,6 +275,8 @@ SONUÇ:Yukarıda açıklanan nedenlerle, davacının temyiz itirazlarının kabu
 
 ## Yargıtay 15. HD 2007/5713 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/859617200)
+
 Davacı arsa sahibinin dava tarihinden önce Biga Asliye Hukuk Mahkemesi’nin 2003/36 Değişik İş sayılı dosyası ile yaptırdığı tesbitte, inşaattaki eksik işlerin bedeli 45.244.582.000 lira olarak bulunmuştur. Dava açıldıktan sonra, yapılan yargılama sırasında alınan bilirkişi raporunda ise, eksik işlerin bedeli 1.326.620.000 lira olarak belirlenmiştir. Şu halde, davalı yüklenicinin eksik işlerin bir bölümünü temyize konu dava açıldıktan sonra tamamladığı anlaşılmaktadır. Tamamlanan eksik işler yönünden davalı yüklenici davanın açılmasına neden olduğundan davacı arsa sahibi yararına vekalet ücreti verilmesi gerekir. 2003/36 Değişik İş sayılı dosyadan alınan tesbit bilirkişi raporunda yazılı eksik işler arasında “6 duraklı küçük boy insan asansörü” ve “6 durakta otomatik asansör kapıları” da vardır. Yanlar arasında düzenlenmiş 31.07.1997 tarihli “Düzenleme Şeklinde Taşınmaz Mal Satış Vaadi ve Kat Karşılığı İnşaat Sözleşmesi”nde yüklenicinin asansör yapımına ilişkin bir yükümlülüğü bulunmamaktadır.
 Bu nedenle, tesbit bilirkişi raporunda yazılı eksik işler bedeli olan 45.244.582.000 liradan, asansör ve asansör kapılarına ilişkin eksik iş bedeli olarak belirlenen 20.484.000.000 lira ile temyize konu davada alınan bilirkişi raporunda saptanan eksik iş tutarı 1.326.620.000 liranın toplanması sonucu bulunan 21.810.620.000 liranın çıkarılması sonucu elde edilen 23.433.962.000 liranın, davanın açılmasından sonra tamamlanan eksik işler bedeli olarak kabulü gerekir. Mahkemece bu miktar üzerinden de davalı yararına vekalet ücreti verilmesi doğru olmamıştır. Davacı arsa sahibi yararına, hüküm altına alınan 12.900,00 YTL cezai şart bedeli ile 1.326,62 YTL eksik iş bedelinin toplamı olan 14.226,62 YTL.ya, davanın açılmasından sonra tamamlanan eksik işler bedeli 23.433,96 YTL.nın eklenmesi ile elde edilen 37.660,58 YTL üzerinden, davalı iş sahibi yararına da reddedilen 34.992,17 YTL üzerinden Avukatlık Asgari Ücret Tarifesi uyarınca belirlenecek vekalet ücretinin verilmesi gerekir.
 Yerel mahkeme kararının bu sebeple bozulması gerekirse de, davacının vekalet ücretine yönelik karar düzeltme isteminin kabulüyle Dairemizce verilen onama kararının kaldırılması ve mahkemece düşülen yanlışlığın giderilmesi yeniden yargılama yapılmasını gerektirmediğinden HUMK’nın 438/VII. maddesi uyarınca kararın düzeltilerek onanması uygun bulunmuştur.
@@ -250,6 +284,8 @@ Yerel mahkeme kararının bu sebeple bozulması gerekirse de, davacının vekale
 SONUÇ:Yukarıda açıklanan nedenlerle davacının karar düzeltme isteminin kabulüne ve Dairemizin 2006/2102 Esas, 2007/2079 Karar sayılı onama kararının kaldırılmasına …
 
 ## Yargıtay 15. HD 2007/5371 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/859288500)
 
 Dava, asa payı karşılığı inşaat yapım sözleşmesi uyarınca tapu iptâli ve tescil istemine ilişkindir.
 
@@ -264,6 +300,8 @@ Bu durumda mahkemece dava konusu taşınmazda yapılan inşaatla ilgili projeler
 SONUÇ:Yukarıda açıklanan temyiz itirazlarının kabulü ile hükmün davalı yararına BOZULMASINA …
 
 ## Yargıtay 15. HD 2007/2514 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/858571500)
 
 İnşaat sözleşmesine dayanılarak gizli ayıp nedeniyle yükleniciden bir talepte bulunabilmesi için, davanın, ya sözleşmenin tarafı olan arsa sahiplerince veya arsa sahiplerinin binanın eksik ve ayıplarına ilişkin şahsî haklarını temlik ettiği kişilerce açılması gerekir.
 

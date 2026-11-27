@@ -20,6 +20,8 @@ uyari: "Derleyenin seçtiği alıntılardır; kararın tamamı değildir. Künye
 
 ## Yargıtay HGK 2025/744 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1200901900)
+
 Yüklenicinin edimini zamanında, tam ve eksiksiz olarak ifa etmemesi hâlinde, arsa sahibi TBK'nın 125. maddesine göre gecikme sebebiyle uğradığı zararlarına karşılık gecikme tazminatı isteyebilir. Gecikme tazminatı istenebilmesi için yüklenicinin borcunu ifada temerrüde düşmesi, arsa sahibinin ifanın gecikmesinden kaynaklanan zararının gerçekleşmesi ve zararın doğmasında yüklenicinin kusurlu olması gerekir.
 
 ## Ankara BAM 27. HD 2026/654 K.

@@ -21,6 +21,8 @@ uyari: "Derleyenin seçtiği alıntılardır; kararın tamamı değildir. Künye
 
 ## Danıştay İDDK 2023/3171 E., 2025/746 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1171250600)
+
 İlk Derece Mahkemesi kararının özeti: ... İdare Mahkemesinin ... tarih ve E:..., K:... sayılı kararıyla; çoğunluk hissesi sahibi paydaşın yüklenici firmayla imzalamış olduğu kat karşılığı inşaat sözleşmesinin ihtarname ekinde davacılara gönderildiği, bununla birlikte süreç içerisinde davacıların sözleşmeyi imzalayarak idareye ibraz etmelerinin istenildiği ancak davacıların bu sözleşmeyi imzalayarak idareye ibraz etmedikleri görüldüğünden, 6306 Sayılı Kanunun Uygulama Yönetmeliği'nin 15/A maddesi kapsamında tesis edilen dava konusu işlemde hukuka aykırılık bulunmadığı gerekçesiyle davanın reddine karar verilmiştir.
 
 …
@@ -46,6 +48,8 @@ Uyuşmazlık konusu yapının, 6306 sayılı Kanun gereğince riskli yapı olara
 Açıklanan nedenlerle, dava konusu 6306 sayılı Kanun’un Uygulama Yönetmeliğinin 15/A maddesinin (4) nolu fıkrasının son cümlesinde ve bu düzenlemeye dayalı olarak davacıya arsa payının satış yeri ve zamanına ilişkin tebligat yapılmadan gerçekleştirilen satış işleminde hukuka uygunluk bulunmadığından, davacının temyiz isteminin kabulü ile temyize konu Daire kararının bozulmasına karar verilmesi gerektiği oyu ile karara katılmıyorum.
 
 ## Danıştay VDDK 2020/570 E., 2021/374 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/674632100)
 
 6306 sayılı Kanunun Uygulama Yönetmeliği'nin 16. maddesinde, inşa edilen yeni yapıların malikler tarafından üçüncü kişilere ilk satış işlemlerinin istisna kapsamında olduğu düzenlemesine yer verilmiş ise de kanunda öngörülmeyen istisnanın tebliğ, yönetmelik ve diğer alt düzenleyici işlemlerle öngörülemeyeceği, dolayısıyla anılan Yönetmelik hükmü dikkate alınmak suretiyle karar verilemeyeceği, Yönetmelik hükmünde dahi inşa edilen yeni yapıların, sadece ilgili kurum ve malikler tarafından üçüncü kişilere ilk satış işlemlerinin istisna kapsamında olduğu belirtilmiş olup müteahhitler tarafından üçüncü kişilere yapılan ilk satış işlemlerinin istisna olduğuna ilişkin herhangi bir düzenlemenin bulunmadığı iddia edilmiştir.
 
@@ -82,6 +86,8 @@ Planlı Alanlar İmar Yönetmeliğinin Geçici 3. maddesinin 5. fıkrası, "Bu f
 
 ## Danıştay 4. D. 2024/2992 E., 2025/2511 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1174921800)
+
 15/12/2012 tarih ve 28498 sayılı Resmi Gazete'de yayımlanan 6306 sayılı Kanunun Uygulama Yönetmeliği'nin dava konusu işlemin tesis edildiği tarihte yürürlükte bulunan 15. maddesinin ikinci fıkrasında "Riskli alanlar ve rezerv yapı alanlarında uygulama yapılan etapta veya adada, riskli yapılarda ise bu yapıların bulunduğu parsellerde; yapıların yıktırılmış olması şartı aranmaksızın ve yapının paydaşı olup olmadıkları gözetilmeksizin parsellerin tevhit edilmesine, münferit veya birleştirilerek veya imar adası bazında uygulama yapılmasına, ifraz, taksim, terk, ihdas ve tapuya tescil işlemlerine, yeniden bina yaptırılmasına, payların satışına, kat karşılığı veya hasılat paylaşımı ve diğer usuller ile yeniden değerlendirilmesine sahip oldukları hisseleri oranında paydaşların en az üçte iki çoğunluğu ile karar verilir. Bu karar anlaşma şartlarını ihtiva eden teklif ile birlikte karara katılmayanlara noter vasıtasıyla veya 7201 sayılı Kanuna göre tebliğ edilir.
 Bu tebliğde, on beş gün içinde kararın ve teklifin kabul edilmemesi halinde arsa paylarının, Bakanlıkça tespit edilecek veya ettirilecek rayiç değerden az olmamak üzere anlaşma sağlayan diğer paydaşlara açık artırma usulü ile satılacağı, paydaşlara satış gerçekleştirilemediği takdirde, riskli alanlar ve rezerv yapı alanlarında rayiç bedeli Bakanlıkça ödenmek kaydı ile tapuda Hazine adına resen tescil edileceği, riskli yapılarda ise anlaşma sağlayan diğer paydaşlara veya yapılan anlaşmaya uyularak işlem yapılmasını kabul etmek şartıyla üçüncü şahıslara satılacağı bildirilir.", 15. maddesinin üçüncü fıkrasında ise "Hisseleri oranında paydaşların en az üçte iki çoğunluğu ile alınan karara katılmayan maliklerin arsa payları; 15/A maddesinde belirtilen usule göre, arsa payı değeri üzerinden anlaşma sağlayan diğer paydaşlara açık artırma usulü ile satılır.
 Paydaşlara satış gerçekleştirilemediği takdirde, bu paylar riskli alanlar ve rezerv yapı alanlarında rayiç bedeli Bakanlıkça ödenmek kaydı ile tapuda Hazine adına resen tescil edilir ve en az üçte iki çoğunluk ile alınan karar çerçevesinde değerlendirilmek üzere Bakanlığa tahsis edilmiş sayılır veya Bakanlıkça uygun görülenler TOKİ’ye veya İdareye devredilir. Riskli yapılarda ise, anlaşma sağlayan paydaşlara veya anlaşma sağlayan paydaşların kararı ile yapılan anlaşmaya uyularak işlem yapılmasını kabul etmek şartıyla üçüncü şahıslara satış yapılıncaya kadar satış işlemi tekrarlanır." düzenlemeleri yer almaktadır.
@@ -94,6 +100,8 @@ Temyize konu ... Bölge İdare Mahkemesi ... İdare Dava Dairesinin ...4 tarih v
 
 ## Danıştay 9. D. 2022/4614 E., 2024/4285 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1159681600)
+
 Bu durumda, yukarıda da açıklandığı üzere 6306 sayılı Kanun kapsamında "riskli yapı" şerhi bulunan taşınmaz üzerinde gerçekleştirilen yapım işine ilişkin davacı ile asıl yüklenici iş ortaklığı arasında imzalanan alt yüklenici sözleşmesinin damga vergisinden istisna olması gerektiği sonucuna varılmış olup dava konusu alt yüklenici sözleşmesine ilişkin olarak ihtirazi kayıtla verilen damga vergisi beyannamesine istinaden tahakkuk ettirilip ödenen 3.239.556,40-TL damga vergisinin kaldırılması ve tecil faiziyle birlikte iadesi istemiyle açılan davanın reddine ilişkin Vergi Mahkemesi kararına yönelik davacının istinaf başvurusunu reddeden Bölge İdare Mahkemesi kararında hukuka uygunluk bulunmamaktadır.
 
 …
@@ -101,6 +109,8 @@ Bu durumda, yukarıda da açıklandığı üzere 6306 sayılı Kanun kapsamında
 ... Bölge İdare Mahkemesi ... Vergi Dava Dairesinin ... tarih ve E:..., K:... sayılı kararının BOZULMASINA …
 
 ## Danıştay 6. D. 2021/136 E., 2023/6287 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1008104600)
 
 Yukarıda yer verilen açıklamalar çerçevesinde dosyada bulunan bilgi ve belgelerin incelenmesinden, 06/02/2017 tarih ve 2017/9867 sayılı Bakanlar Kurulu kararıyla riskli alan ilan edilen alanda, 2/3 çoğunluğa sahip olan müdahil şirketin bu çoğunluk hakkına dayanarak, alandaki diğer taşınmazların, 6306 sayılı Kanun ve Uygulama Yönetmeliği gereği ihale yoluyla satışının sağlanması için gerekli girişimlerde bulunduğu, davacıların ise, taşınmazlarının ihale yoluyla satışına engel olmak ve olası bir hak kaybına uğramamak adına müdahil şirket ile arsa payı karşılığı inşaat sözleşmesi düzenlediklerini, mevcut durumun gerçek iradelerini yansıtmadığını, nitekim, sözleşmenin düzenlenmesinden 90 gün sonra sözleşme ile verilen vekâletnamelere ilişkin azilname düzenledikleri beyanında bulundukları anlaşılmaktadır. Ayrıca her ne kadar, davacılar ile müdahil şirket arasında düzenlenen arsa payı karşılığı inşaat sözleşmesinin 7. maddesinde;
 "İş bu sözleşmenin taraflarca imzalanmasının ardından arsanın mülkiyetinin tamamı yükleniciye devredilecektir." şeklinde düzenleme var ise de, UYAP sistemi üzerinde TAKBİS kayıtlarının incelenmesinden, sözleşmeye konu taşınmazların mülkiyetinin, davacılar tarafından yüklenici (müdahil) şirkete devredilmediği belirlenmiştir.
@@ -110,6 +120,8 @@ Yukarıda yer verilen açıklamalar çerçevesinde dosyada bulunan bilgi ve belg
 Yukarıda özetlenen gerekçeyle davanın ehliyet yönünden reddine ilişkin Mahkeme kararına yönelik olarak yapılan istinaf başvurusunun reddi yolundaki temyize konu … Bölge İdare Mahkemesi … İdari Dava Dairesinin … tarih ve E:… , K:… sayılı kararının BOZULMASINA …
 
 ## Danıştay 4. D. 2023/12188 E., 2023/5755 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1063192600)
 
 İlk Derece Mahkemesi kararının özeti: Davacı tarafından, dava konusu …
 
@@ -179,6 +191,8 @@ Temyize konu ... İdare Mahkemesinin … tarih ve E:…, K:… sayılı kararın
 
 ## Danıştay 6. D. 2022/8923 E., 2023/3634 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/989380300)
+
 İlk Derece Mahkemesi kararının özeti: … İdare Mahkemesince verilen … tarih ve E:…, K:
 
 … sayılı kararda; dava konusu işlemde hukuka aykırılık bulunmadığı gerekçesiyle davanın reddine karar verilmiştir.
@@ -194,6 +208,8 @@ Mahkeme kararına yönelik olarak yapılan davacıların istinaf başvuruların�
 …, K:… sayılı kararının BOZULMASINA …
 
 ## Danıştay 6. D. 2022/1114 E., 2022/2536 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/790034700)
 
 DAVALI İDARENİN SAVUNMASININ ÖZETİ : Temyiz isteminin reddi gerektiği savunulmaktadır.
 
@@ -211,6 +227,8 @@ sayılı İzmir Valiliği Çevre ve Şehircilik İl Müdürlüğü işleminin ip
 
 ## Danıştay 6. D. 2020/8160 E., 2022/1324 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/776988400)
+
 19.10.2019 günlü, 30923 sayılı Resmi Gazetede yayımlanarak yürürlüğe giren 6306 sayılı Kanunun Uygulama Yönetmeliğinde Değişiklik Yapılmasına Dair Yönetmeliğin 1. maddesiyle 6306 sayılı Kanunun Uygulama Yönetmeliğinin 13. maddesine eklenen dava konusu 11. fıkrada ise; "Uygulama alanında hak sahipleri ile müteahhit arasında imzalanmış olan gayrimenkul satış vaadi sözleşmeleri ile arsa payı karşılığı inşaat sözleşmelerinin feshi, hak sahiplerince aşağıda belirtilen şartlar dâhilinde talep edilebilir. a) Fesih hakkının kullanılabilmesi için; 1) Bütün maliklerle anlaşma sağlanmasından veya hisseleri oranında paydaşların en az üçte iki çoğunluğu ile karar alınıp bu karara katılmayanların hisselerinin satışından sonra müteahhitten kaynaklanan sebeplerle bir yıl içinde yeni yapının yapım işine başlanılmamış olması gerekir.
 Sözleşmelerin bu gerekçe ile fesih edilebilmesi için, sözleşme hükümlerine göre yapım işinin başlanılmasından önce hak sahiplerince yerine getirilmesi gereken edimler var ise bunların yerine getirilmiş olması, yapım işine başlanılmasına engel teşkil edecek bir yargı kararı, idare kararı, idare uygulaması veya benzeri geçerli bir gerekçe olmaması ve yapım işine müteahhitten kaynaklanan sebeplerle başlanılmamış olması gerekir. 2) Yapım işinin belirli bir seviyede durdurulmuş ve en az altı aydır projenin bitirilmesini gerektirecek seviyede ekip ve ekipmanla inşai faaliyete devam edilmiyor olması gerekir.
 Sözleşmelerin bu gerekçe ile feshedilebilmesi için, yapım işinin durdurulduğunun ve en az altı aydır projenin bitirilmesini gerektirecek seviyede ekip ve ekipmanla devam edilmediğinin, ilgili idarenin tespit, tutanak ve kayıtları, yapı denetimi sistemindeki kayıtlar, fotoğraflar, uydu görüntüleri vb. bilgi ve belgeler ile ortaya konulması gerekir. b) Yapım işine başlanılmayan bir yıllık sürenin başlangıcı, bütün maliklerle anlaşma sağlanan hallerde en son anlaşma sağlanan malik ile imzalanan sözleşmenin tarihinin, riskli yapılarda riskli yapı tespitinin kesinleşmesinden, riskli ve rezerv yapı alanlarında ise alan belirleme işleminden önce mi yoksa sonra mı olduğuna bakılarak belirlenir.
@@ -220,6 +238,8 @@ Sözleşmelerin bu gerekçe ile feshedilebilmesi için, yapım işinin durduruld
 Açıklanan nedenlerle, dava konusu düzenlemenin iptal edilmesi kanaatiyle Dairemizce verilen davanın reddine ilişkin çoğunluk kararına katılmıyoruz.
 
 ## Danıştay 6. D. 2019/20539 E., 2020/7699 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/636178300)
 
 DAVACININ İDDİALARI : 6306 sayılı Kanun kapsamında "Riskli Alan" ilan edilen Fikirtepe bölgesinde imzalanan kat karşılığı inşaat sözleşmeleri kapsamında yapılacak yapılara ilişkin olarak 6306 sayılı Kanunun 7.maddesinin 9. ve 10. fıkraları ile Yönetmeliğinin 16.maddesinin 9. fıkrası uyarınca altyapı katılım maliyetini ödeme yükümlülüğünden muaf olunduğu, muaf olduğu kanaatine varılmazsa Hazineye devredilen alanın hesaba katılarak brüt alan üzerinden değil net alan üzerinden altyapı katılım maliyetinden yükümlü olunması gerektiği nedenleriyle bölge idari dava dairesi kararının gerekçe yönünden bozulması gerektiği ileri sürülmektedir.
 

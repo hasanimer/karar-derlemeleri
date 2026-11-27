@@ -22,6 +22,8 @@ uyari: "Derleyenin seçtiği alıntılardır; kararın tamamı değildir. Künye
 
 ## Danıştay 6. D. 2021/8937 E., 2022/1074 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/787397400)
+
 İlk Derece Mahkemesi kararının özeti: ....
 
 …
@@ -36,6 +38,8 @@ Dava konusu işlemlerin yukarıda özetlenen gerekçeyle iptaline ilişkin İdar
 
 ## Danıştay 6. D. 2017/903 E., 2022/961 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/764281200)
+
 İlk Derece Mahkemesi kararının özeti: ... İdare Mahkemesince; davanın kabulüne, 765.000,00-TL kamulaştırmasız el atma bedelinin dava açma tarihinden (07.04.2014) itibaren işleyecek yasal faiziyle birlikte davacıya ödenmesine karar verilmiştir.
 
 …
@@ -47,6 +51,8 @@ Dava konusu işlemlerin yukarıda özetlenen gerekçeyle iptaline ilişkin İdar
 3194 sayılı İmar Kanunu ve ilgili mevzuat yönünden yapılacak değerlendirme sonrasında, tasarruf hakkının süresi belirsiz şekilde kısıtlanması nedeniyle idarenin kamulaştırmama işleminin iptaline karar verilmesi halinde …
 
 ## Danıştay 6. D. 2018/8883 E., 2022/956 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/758963800)
 
 Davacılar tarafından; uyuşmazlığın iptal davasının açıldığı tarihte yürürlükte bulunan mevzuata göre karar bağlanması gerektiği, aksini kabulün evrensel hukuk ilkelerine ve Anayasaya aykırılık teşkil edeceği, kararın redde ilişkin bölümünün bozulması gerektiği, harcın maktu olarak belirlenmesi gerektiği belirtilerek, karardaki kısmen redde ilişkin bölümün bozulması, kabule ilişkin bölümün nispi harçlar yönünden düzeltilerek onanması gerektiği ileri sürülmektedir.
 
@@ -65,6 +71,8 @@ Davanın yukarıda özetlenen gerekçeyle kısmen kabulüne, kısmen reddine ili
 
 ## Danıştay 6. D. 2019/19240 E., 2022/738 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/759189500)
+
 Bölge İdare Mahkemesi İdari Dava Dairesi kararının özeti: Dava konusu imar planlarında yapı yoğunluğuna ilişkin düzenlemenin plan paftasında yer almadığı, plan notuyla düzenlenmesi yoluna gidildiği, plan notuna göre 27.973 m²'si konut alanı için emsale dahil inşaat inşaat alanının 101.460 m² olarak öngörüldüğü, imar planında yapı yoğunluğuna ilişkin emsal değeri verilmeyerek belirsizlik oluştuğu, imar planlarının düzenleyici işlem özelliği gereği taşıması gereken belirlilik ilkesinden uzaklaştığı, bu yönüyle hukuka uyarlık taşımadığı; "Bloklar arasında H mesafesi aranmayacaktır" plan notu yönünden, Planlı Alanlar Tip İmar Yönetmeliğinin, yapılarda güneşlenme ve havalanma imkanı sağlamak üzere düzenlenen 25. maddesinde: "Uygulama İmar Planında aksine bir hüküm yoksa bu Yönetmeliğin 18 inci maddesindeki ölçülere uyulması kaydı ile bir parsele, birden fazla yapı yapılabilir.
 Ancak binalar arası mesafe her yapının yüksekliğine göre yaklaşma mesafeleri ayrı ayrı tespit edilip toplanmak suretiyle bulunur." kuralına yer verildiği, dava konusu planlara ait plan notlarının binalar arası H/2 mesafe şartını kaldıran plan notu, anılan Yönetmelikteki düzenlemeye aykırı olduğu, 2012 yılında onaylanan imar planlarının iptal kararının gerekçesinde de yer alan 1. bodrum katların ve 1. bodrum kat veya zemin katta yapılacak binaya ait sosyal tesis, bina yönetim ve toplantı odası, kapıcı dairesi gibi alanların emsal hesabına dahil edilmeyeceği yönündeki plan notlarının Planlı Alanlar Tip İmar Yönetmeliğinde verilen emsal tanımını değiştirici nitelikte olduğu gerekçesiyle iptali yolunda verilen yargı kararına karşın, dava konusu imar planlarının notlarında aynı içerikli düzenlemelere yer verildiği ve "A ile İşaretli Konut Alanında" başlıklı kısmında "Blokların zemin veya bodrum katlarına, binaya ait ait sosyal tesisler, bina yönetimi toplantı salonu, güvenlik, kapıcı daireleri, çocuk oyun alanları vb. yapılabilir. Bu alanlar ile 1.
 Bodrum kat emsal hesabına dahil edilmez." ve "B ile İşaretli Ticaret Alanında" başlıklı kısmın 1. maddesinde "Ticaret alanlarında ... 1. bodrum katlar emsal hesabına dahil edilmez." şeklinde yer almakta, ayrıca "Bloklar arasında H mesafesi aranmayacaktır" yolunda plan notunun da yer verildiği, Planlı Alanlar Tip İmar Yönetmeliği'nin 16. maddesinin 4. fıkrasında yer verilen düzenlemeyle çelişecek şekilde 1. bodrum katların, 1. bodrum kat veya zemin katta yapılacak binaya ait sosyal tesis, bina yönetim ve toplantı odası, kapıcı dairesi gibi alanların emsal hesabına dahil edilmeyeceği yönündeki plan notlarında hukuka uyarlık bulunmadığı sonucuna varılarak dava konusu 1/5000 ölçekli nazım ve 1/1000 ölçekli uygulama imar planlarında yapılan değişikliklerde yukarıda yer verilen gerekçelerle hukuka uyarlık görülmediğinden, dava konusu işlemi iptal eden istinafa konu mahkeme kararında sonucu itibariyle isabetsizlik görülmediği gerekçesiyle istinaf başvurusunun reddine karar verilmiştir.
@@ -74,6 +82,8 @@ Bodrum kat emsal hesabına dahil edilmez." ve "B ile İşaretli Ticaret Alanınd
 Dava konusu işlemin yukarıda özetlenen gerekçeyle iptaline ilişkin Mahkeme kararına yönelik olarak yapılan istinaf başvurusunun reddi yolundaki temyize konu … Bölge İdare Mahkemesi …. İdari Dava Dairesinin … tarih ve E:…
 
 ## Danıştay 6. D. 2016/2730 E., 2022/731 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/753880400)
 
 İlk Derece Mahkemesi kararının özeti:
 Temyize konu kararda; dava konusu kentsel dönüşüm sınırının belirlenmesinde, hangi kriterlerin dayanak alındığının belirlenebilmesi amacıyla Mahkemece yapılan ara kararı üzerine davalı idarece gönderilen dava konusu taşınmazların kapsamında yer aldığı kentsel dönüşüm ve gelişim projesi açıklama raporunda; bölgenin mevcut koşullarının tam anlamıyla ortaya konulmadığı, alandaki kentsel dönüşümün amacının bölgenin mevcut koşulları çerçevesinde açıklanmadığı, kentsel dönüşüm alanı sınırı tespit edilirken hangi kriter veya kriterlere uyulduğunun açık olmadığı, bunun yanında kentsel dönüşümle birlikte bu alanın için öngörülen kullanım kararlarının belirsiz olduğu, bu duruma göre; kentsel dönüşüm alanı sınırı tespit edilirken hangi kriter veya kriterlere uyulduğunun açık olmadığı ve sonrasında bu alanın, hangi kullanımlara dönüşeceğinin belirtilmediği gibi yargılamanın devamı sırasında da ara kararı ile sorulmasına rağmen bu hususlara ilişkin davalı idarece sunulan bilgi ve belgelerin bu konulara açıklık getirmememesi karşısında dava konusu işlemde hukuka ve mevzuata uyarlık bulunmadığı sonucuna varılarak dava konusu işlemin iptaline karar verilmiştir.
@@ -97,6 +107,8 @@ Dava konusu işlemin yukarıda özetlenen gerekçeyle iptaline ilişkin temyize 
 
 ## Danıştay 6. D. 2019/13468 E., 2022/657 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/759930400)
+
 İlk Derece Mahkemesi kararının özeti: … İdare Mahkemesince verilen … tarih ve E:… , K:
 
 … sayılı kararda; uyuşmazlıkta, davaya konu Meclis kararıyla, Ankara Büyükşehir Belediye Meclisi'nin … tarih ve … sayılı kararıyla onaylanan 1/1000 ölçekli uygulama imar planı değişikliğinin 23 sayılı plan notunda değişikliğe gidildiği ve bu plana ek bir plan notunun getirildiği, … tarih ve … sayılı karar ile onaylanan 1/1000 ölçekli uygulama imar planı değişikliğinin iptali istemiyle açılan davalarda Mahkemenin … tarih ve E:… , K:… sayılı kararı; … tarih ve E:… , K:… sayılı kararı; … tarih ve E:… , K:… sayılı kararı; … tarih ve E:… , K:… sayılı kararı ve … tarih ve E:… , K:… sayılı kararlarıyla 1/1000 ölçekli uygulama imar planı değişikliğini onaylayan … tarih ve … sayılı belediye meclisi kararının iptaline karar verildiği, bu durumda, Ankara Büyükşehir Belediye Meclisi'nin … tarih ve … sayılı kararıyla onaylanan 1/1000 ölçekli uygulama imar planı değişikliğinin Mahkemenin yukarıda belirtilen kararları ile iptal edildiği, dava konusu Ankara Büyükşehir Belediye Meclisi'nin … tarih ve … sayılı kararının ise, Mahkemece iptal edilen 1/1000 ölçekli planda bulunan 23 sayılı plan notunun değiştirilmesi ve ek olarak bir plan notu eklenmesi yönünde olduğu görülmekle, plan notlarının ancak
@@ -117,6 +129,8 @@ ayrılan eğitim, sağlık, dini, kültürel vb. sosyal ve teknik altyapı alanl
 Dava konusu işlemin yukarıda özetlenen gerekçeyle iptaline ilişkin Mahkeme kararına yönelik olarak yapılan istinaf başvurusunun reddi yolundaki temyize konu … Bölge İdare Mahkemesi … İdari Dava Dairesinin … tarih ve E:…
 
 ## Danıştay 6. D. 2021/5846 E., 2022/647 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/759936300)
 
 İSTEMİN ÖZETİ : Ankara ili, Çankaya ilçesi, …
 
@@ -170,6 +184,8 @@ sayılı kararının, usul ve hukuka aykırı olduğu ileri sürülerek bozulmas
 
 ## Danıştay 6. D. 2019/13177 E., 2022/641 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/757652700)
+
 İlk Derece Mahkemesi kararının özeti: … İdare Mahkemesince verilen … tarih ve E:…, K:
 
 … sayılı kararda; … İdare Mahkemesinin … tarih ve E:…, K:… sayılı kararıyla uyuşmazlık konusu parsele ilişkin 1/1000 ölçekli imar planı değişikliğinin hukuka aykırı bulunarak iptaline karar verildiğinden hukuka aykırılığı saptanan imar planı değişikliği dayanak alınarak hazırlanan dava konusu … sayılı parselasyon planında hukuka uyarlık bulunmadığı gerekçesiyle iptaline karar verilmiştir.
@@ -184,6 +200,8 @@ Dava konusu işlemin yukarıda özetlenen gerekçeyle iptaline ilişkin İdare M
 
 ## Danıştay 6. D. 2019/1333 E., 2022/635 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/753985100)
+
 İlk Derece Mahkemesi kararının özeti: ....
 
 …
@@ -196,6 +214,8 @@ Dava konusu işlemin yukarıda özetlenen gerekçeyle iptaline ilişkin Mahkeme 
 
 ## Danıştay 6. D. 2021/7002 E., 2022/627 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/754010100)
+
 İlk Derece Mahkemesi kararının özeti:.... İdare Mahkemesinin ...tarih ve E:..., K:...sayılı kararında; yaptırılan bilirkişi incelemesi sonucunda düzenlenen rapor dikkate alınarak, davalı idarece herhangi bir yasal dayanağı olmadığı halde avans ruhsat harcı olarak 19/08/2014 tarihinde tahsil edilen 1.500.000,00-TL tutarındaki bedelin; yapının tadilat projesi onayından sonra Eylül/2016 döneminde ruhsat ücretleri hesaplanıp tahsil edilirken hesaplama dışında tutulduğu, yatırılan diğer tutarlardan mahsup edilmediği anlaşıldığından, davacıya iadesi gerektiği sonucuna ulaşıldığı belirtilmiş ve davanın kabulüne karar verilmiştir.
 
 …
@@ -207,6 +227,8 @@ Dava konusu işlemin yukarıda özetlenen gerekçeyle iptaline ilişkin Mahkeme 
 Davanın yukarıda özetlenen gerekçeyle kabulüne ilişkin Mahkeme kararına yönelik olarak yapılan istinaf başvurusunun reddi yolundaki temyize konu ...Bölge İdare Mahkemesi .... İdari Dava Dairesinin ...tarih ve E:..., K:...sayılı kararının BOZULMASINA …
 
 ## Danıştay 6. D. 2019/15006 E., 2022/580 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/800095300)
 
 İlk Derece Mahkemesi kararının özeti: … İdare Mahkemesince verilen … tarih ve E:…, K:
 
@@ -228,6 +250,8 @@ Açıklanan nedenlerle, … Bölge İdare Mahkemesi … İdari Dava Dairesi kara
 
 ## Danıştay 6. D. 2018/7116 E., 2022/70 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/745579200)
+
 DANIŞTAY TETKİK HAKİMİ ... DÜŞÜNCESİ : 5393 sayılı Kanun uyarınca kentsel dönüşüm ve gelişim alanı ilan edilen bir bölgeye yönelik olarak kentsel dönüşüm ve gelişim alanı ilanı sonrasında proje hazırlanması ve anılan proje doğrultusunda imar planı değişikliklerinin yapılması gerektiği, söz konusu projeler ve mevcut imar planlarında öngörülen kullanım kararları dikkate alınarak öngörülen kullanım kararları doğrultusunda uygulama işlemlerinin tesis edilmesi gerektiği, kentsel dönüşüm ve gelişim alanı ilan edilmesinin tek başına kamulaştırma işlemi tesis edilmesine gerekçe olamayacağı, kabul edilen plan ve projelerde uyuşmazlığa konu taşınmazın yer aldığı fonksiyonların incelenerek kamulaştırma işlemlerinin hukuki denetiminin yapılmasının gerektiği açıktır.
 
 …
@@ -235,6 +259,8 @@ DANIŞTAY TETKİK HAKİMİ ... DÜŞÜNCESİ : 5393 sayılı Kanun uyarınca ken
 ...Bölge İdare Mahkemesi .... İdari Dava Dairesince verilen ...tarih ve E:..., K:...sayılı karar ve dayandığı gerekçe hukuk ve usule uygun olup bozulmasını gerektirecek bir sebep bulunmadığından, anılan kararın ONANMASINA …
 
 ## Danıştay 6. D. 2019/13749 E., 2021/14471 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/805004800)
 
 Bu doğrultuda, Danıştay Altıncı Dairesinin 30/11/2017 tarih ve E:2011/9112, K:2017/10269 sayılı, 30/11/2017 tarih ve E:2011/9113, K:2017/10271 sayılı, 30/11/2017 tarih ve E:2012/2472, K:2017/10272 sayılı, 30/11/2017 tarih ve E:2012/2974, K:2017/10273 sayılı, 30/11/2017 tarih ve E:2012/2976, K:2017/10274 sayılı, 30/11/2017 tarih ve E:2013/2072, K:2017/10275 sayılı, 30/11/2017 tarih ve E:2013/4832, K:2017/10270 sayılı, 06/11/2018 tarih ve E:2014/3595, K:2018/8855 sayılı kararları ile, yukarıda detaylarına yer verilen bilirkişi raporu hükme esas alınarak; dava konusu imar planlarında öngörülen yapılaşma koşulları nedeniyle A bölgesinde hava sirkülasyonunun olumsuz etkileneceği, Ankara ilinin mevcut hava kirliliği probleminin hem bölgede hem de kent genelinde artacağı, dolayısıyla kentin hava kalitesinin olumsuz yönde etkileneceği anlaşıldığından, anılan imar planları ile A bölgesinde öngörülen yapılaşma koşullarının bu yönüyle şehircilik ilkeleri, planlama esasları ve kamu yararına aykırı olduğu, B Bölgesi yönünden yapılan değerlendirmede, bu bölgenin jeolojik, hidrojeolojik, çevresel ve meteorolojik veriler bakımından uygun alan olmadığı, gerekli önlemler alınmaksızın yapılaşmaya
 açılmasının can ve mal güvenliği açısından büyük risk taşıdığı anlaşıldığından, dava konusu imar planlarının B Bölgesine ilişkin kısmında da hukuka uyarlık bulunmadığı, C Bölgesi yönünden yapılan değerlendirmede ise, içerisinde jeolojik ve jeoteknik veriler bakımından yerleşime uygun olmayan alanların yapılaşmasına olanak verilen kısmı hariç olmak üzere, alanın yapılaşmaya kapalı park ve rekreasyon alanı kullanımlarına ayrılması yönünden hukuka aykırılık bulunmadığı sonucuna varıldığından, dava konusu imar planlarının A ve B Bölgelerine ilişkin kısmı ile C bölgesinde yerleşime uygun olmayan alan notasyonu ile gösterilmesine rağmen yapılaşma öngörülen alanlar yönünden iptaline, diğer kısımlar yönünden davanın reddine karar verildiği, bu kararlar Danıştay İdari Dava Daireleri Kurulunun 06/11/2019 tarih ve E:2018/2327, K:2019/5053 sayılı, 06/11/2019 tarih ve E:2018/2547, K:2019/5054 sayılı, 06/11/2019 tarih ve E:2018/2559, K:2019/5055 sayılı, 06/11/2019 tarih ve E:2018/2575, K:2019/5057 sayılı, 06/11/2019 tarih ve E:2018/2567, K:2019/5056 sayılı, 06/11/2019 tarih ve E:2018/2253, K:2019/5052 sayılı kararları ile onanarak kesinleştiği" anlaşılmıştır.

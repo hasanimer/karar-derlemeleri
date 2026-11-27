@@ -20,6 +20,8 @@ uyari: "Derleyenin seçtiği alıntılardır; kararın tamamı değildir. Künye
 
 ## Yargıtay HGK 2022/1579 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/858914600)
+
 Dava, muris muvazaası hukuksal nedenine dayalı miras payı oranında tapu iptali ve tescil, olmadığı takdirde tenkis istemine ilişkindir.
 
 …
@@ -28,6 +30,8 @@ Türk Medeni Kanunu’nun 701. maddesinin 2. fıkrasında belirtildiği üzere, 
 İştirak hâlinde mülkiyet bulunduğundan ve mirasçılardan birinin feragati sonuç doğurmayacağından, uyuşmazlığın çözümünde, davacılardan ...’in Özel Dairenin ikinci bozma kararından sonra, karar düzeltme kararından önce vermiş olduğu 18.04.2018 havale tarihli feragat dilekçesine hukukî değer atfedilmemiştir.
 
 ## Yargıtay 1. HD 2026/1960 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1209408300)
 
 Dava, yolsuz tescil hukuki nedenine dayalı tapu iptali ve tescil, olmadığı takdirde bedel istemine ilişkindir.
 
@@ -44,6 +48,8 @@ Sözleşme dışı işlere ilişkin dava, adi ortaklardan birisi tarafından aç
 
 ## Yargıtay 7. HD 2024/3433 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1059285400)
+
 Dava, ölünceye kadar bakma akdine aykırılık nedeniyle tapu iptal ve tescil isteğine ilişkindir.
 
 …
@@ -53,6 +59,8 @@ O halde, elbirliği (iştirak) halinde mülkiyette, ortaklar arasında zorunlu d
 
 ## Yargıtay 3. HD 2022/9634 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/864595700)
+
 6100 sayılı Hukuk muhakemeleri kanunun 59. Maddesinde mecburi dava arkadaşlığı düzenlenmiştir. Buna göre maddi hukuka göre, bir hakkın birden fazla kimse tarafından birlikte kullanılması veya birden fazla kimseye karşı birlikte ileri sürülmesi ve tamamı hakkında tek hüküm verilmesi gereken hâllerde, mecburi dava arkadaşlığı vardır. 4721 sayılı Türk Medeni Kanunu'nun (TMK) 640/2. maddesine göre; “Mirasçılar terekeye elbirliği ile sahip olurlar ve sözleşme veya kanundan doğan temsil ya da yönetim yetkisi saklı kalmak üzere, terekeye ait bütün haklar üzerinde birlikte tasarruf ederler.” TMK m.701/1 . Maddesine göre ise "Kanun veya kanunda öngörülen sözleşmeler uyarınca oluşan topluluk dolayısıyla mallara birlikte malik olanların mülkiyeti, elbirliği mülkiyetidir." . Elbirliği mülkiyetinde ise TMK m. 702. Maddesindeki düzenlemeye göre ortakların hakları ve yükümlülükleri, topluluğu doğuran kanun veya sözleşme hükümleri ile belirlendiği gibi kanunda veya sözleşmede aksine bir hüküm bulunmadıkça, gerek yönetim, gerek tasarruf işlemleri için ortakların oybirliğiyle karar vermeleri gerekir. Elbirliği mülkiyet türünde malikler mülkiyet payları ayrılmadığından paydaş değil, ortaktır.
 Bu kural, yukarıda da belirtildiği üzere TMK’nin 701. maddesinde açıklanmıştır. Elbirliği (İştirak) halinde mülkiyetin bu özelliği itibariyle ortaklar arasında zorunlu dava arkadaşlığı bulunmaktadır.
 
@@ -60,6 +68,8 @@ Elbirliğini oluşturan ortaklardan her biri, topluluğa giren hakların korunma
 Ne var ki bu kural, uygulamada yumuşatılarak, 11.10.1982 tarih, 1982/3-2 sayılı İçtihadı Birleştirme Kararıyla bir ortağın tek başına dava açabileceği; ancak, davaya devam edebilmesi için öteki ortakların olurlarının alınması veya miras şirketine atanacak temsilci aracılığıyla davanın sürdürülmesi gerektiği kabul edilmiştir. Ortaklardan bir veya birkaçı tarafından dava açılması ve zorunlu dava arkadaşlığı nedeniyle birlikte dava açmaları gereken hallerde diğer ortakların davaya muvafakatinin sağlanması, muvafakatın temin edilememesi halinde ise taraf teşkili bakımından muvafakat vermeyen diğer ortak ya da ortaklar aleyhine asıl dava ile birleştirilmek üzere dava açtırılıp, açılacak davanın bu davayla birleştirilerek taraf teşkili sağlandıktan sonra işin esasının incelenmesi HMK m. 26/1 de düzenlenen usul ekonomisi ilkesi gereğidir.
 
 ## Yargıtay 3. HD 2020/1331 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/620562700)
 
 Dava; temsile yetkili ortak tarafından, adi ortaklık adına düzenlenen kambiyo senetleri nedeniyle, senetlerde imzası olmayan adi şirket ortağının, aleyhine kambiyo senetlerine özgü haciz yoluyla takip başlatan senet lehtarına karşı açtığı menfi tespit istemine ilişkindir.
 
@@ -71,14 +81,20 @@ Bu nedenle mahkemece; adi ortaklığın aktif husumet ehliyeti bulunmadığında
 
 ## Yargıtay 15. HD 2017/3776 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/375924700)
+
 Zeyilname-sözleşme başlıklı belgede davacıların temlik edeni ... Müh. İnş. Elek. Taah. Nak. Tur. İth. İhr. San. ve Tic. Ltd. Şti. ve dava dışı ihbar edilen...Yapı İnş. Turz. Teks. San. ve Tic. Ltd. Şti. arasındaki ilişki konusunda bir nitelendirme yapılmamakla birlikte bunlar inşaatın yapım ve tamamlanmasını birlikte üstlendikleri ve sorumluluk altına girdiklerinden ve 01.10.2010 tarihli sözleşmenin 9.4.1 maddesindeki, yüklenicinin iş sahibine olan borcunun bu sözleşmenin peşinatı sayılacağına dair hükmü ile birlikte değerlendirildiğinde, bu sözleşmede temlik eden ... Müh. İnş. Elek. Taah. Nak. Tur. İth. İhr. San. ve Tic. Ltd. Şti. ile dava dışı...Yapı İnş. Turz. Teks. San. ve Tic. Ltd. Şti. arasında iş ortaklığı ilişkisi bulunduğu anlaşılmaktadır. İş ortaklığı bir işin yapılması için birden fazla gerçek veya tüzel kişinin bir araya gelip emek, beceri ve sermayelerini geçici olarak birleştirmeleri olduğundan tüzel kişiliği bulunmamaktadır ve adi ortaklık hükümlerine tabidir.
 Adi ortaklıkta da ortaklardan birinin ya da haleflerinin tek başına dava açmaları ya da alacakları için icra takibi yapmaları mümkün olmadığından temlik alan davacıların tek başına dava açabilmeleri mümkün değildir. Adi ortaklıkta ortaklar arasında zorunlu dava arkadaşlığı vardır.
 
 ## Denizli BAM 4. HD 2025/2069 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1184180700)
+
 Bu durumda yerel mahkemece adi ortaklık ilişkisinin var olduğu kabul edilerek adi ortağın tek başına dava açamayacağı gerekçesi ile aktif husumet yokluğundan reddedilen iş bu davada, davacı ... ile dava dışı .... arasında adi ortaklık ilişkisinin bulunup bulunmadığı bir ön sorun olarak görülerek, ....Asliye Hukuk Mahkemesinin (Asliye Ticaret Mahkemesi Sıfatı İle) derdest olan .... Esas sayılı dava dosyası ile iş bu dosyanın aralarında fiili ve hukuki irtibat bulunması ve aynı sözleşmeden kaynaklanması nedeni ile birleştirilmesi ve iddia edilen adi ortaklık hususunun ve buna bağlı olarak davacının aktif husumet ehliyetinin bulunup bulunmadığı hususunun her iki dava dosyası incelenerek irdelenmesi gerekir iken, yazılı şekilde karar verilmesi isabetsiz olmuştur.
 
 ## İstanbul BAM 16. HD 2020/2061 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/609634100)
 
 …
 

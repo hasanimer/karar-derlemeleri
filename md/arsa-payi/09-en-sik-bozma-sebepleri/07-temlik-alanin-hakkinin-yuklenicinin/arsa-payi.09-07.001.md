@@ -41,6 +41,8 @@ Temyiz olunan, mahkeme kararının “Değerlendirme” bölümünün “1 inci,
 
 ## Yargıtay 6. HD 2025/1840 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1157449700)
+
 Davalılar ... ve ... vekili; davacının müvekkilleri ve diğer davalılar adına kayıtlı bulunan taşınmazlardaki tapu kaydının iptali ile kendi adına tescilini isteyerek davanın temelini dava dışı ...
 
 …
@@ -52,6 +54,8 @@ Davacı ile dava dışı ... Ltd. Şti. arasında arsa payı karşılığı inş
 İlk Derece Mahkemesi kararının BOZULMASINA …
 
 ## Yargıtay 6. HD 2023/2007 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/942769700)
 
 Davacı arsa sahibi vekili asıl dava dilekçesinde özetle; davacı ile davalılardan ... İnşaat Müh. Hiz.
 
@@ -69,6 +73,8 @@ Temyiz olunan Bölge Adliye Mahkemesi kararının 6100 sayılı Kanun'un 370 inc
 
 ## Yargıtay 15. HD 2021/422 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/642626800)
+
 Dava, yükleniciden temlik alınan kişisel hakka dayalı tapu iptali ve tescil, ikinci kademede tazminat istemine ilişkindir.
 
 …
@@ -81,6 +87,8 @@ Yukarıda açıklanan ilkeler ışığında somut olaya gelince; Davacı, daval�
 Bu durumda mahkemece zorunlu dava arkadaşı olan dava dışı arsa sahibinin; ayrıca tapu kaydında haciz alacaklısı olarak görünen üçüncü kişilerin davaya katılmaları sağlanarak, bildirdikleri taktirde dellileri de toplanarak çekişmenin esasının incelenmesi, davaya konu inşaatın kat karşılığı inşaat sözleşmesi hükümlerine göre tamamlanıp tamamlanmadığının, yüklenicinin edimini yerine getirip getirmediğinin araştırılması, öncelikle davacının kademeli istemlerinden tapu iptali, tescil isteminin, mümkün olmadığı taktirde bedel isteminin değerlendirilmesi, varılacak sonuca göre bir karar verilmesi gerekir.Taraf teşkili sağlanmaksızın, eksik inceleme ve araştırmayla yazılı şekilde hüküm kurulması doğru görülmemiş, hükmün bozulması gerekmiştir.SONUÇ:
 
 ## Yargıtay 15. HD 2017/2579 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/351580500)
 
 Davacılar 1-... (Muris) 2-... 3-...
 

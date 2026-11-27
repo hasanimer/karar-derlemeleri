@@ -22,6 +22,8 @@ uyari: "Derleyenin seçtiği alıntılardır; kararın tamamı değildir. Künye
 
 ## Yargıtay 13. HD 2020/3037 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/578535200)
+
 Davalı, usulüne uygun tebligata rağmen cevap dilekçesi sunmamıştır.
 
 Mahkemece, davanın reddine, dava konusu taşınmaz üzerinde karar kesinleşinceye kadar ihtiyati tedbir kararının devamına karar verilmiş; hüküm, davacı ve fer'i müdahil T.Vakıflar Bankası T.A.O. tarafından temyiz edilmiştir.
@@ -37,11 +39,15 @@ SONUÇ: Yukarıda 1. bentte açıklanan nedenlerle feri müdahilin temyiz dilek�
 
 ## Yargıtay 15. HD 2020/2881 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/613052600)
+
 Yargıtay bozmasına uyulmakla, bozmada belirtilen hususlar lehine olan taraf yararına usulî kazanılmış hak teşkil edeceğinden bozma uyarınca inceleme yapılıp karar verilmesi zorunlu hale gelir. Bozmadan sonra getirtilip incelenen ve sonuçlanan dosyalardan ... 2. Asliye Hukuk Mahkemesi’nin 2011/172 Esas 2011/659 Karar, 2011/649 Esas 2013/100 Karar, 2012/915 Esas 2014/283 Karar sayılı dosyaların taraflar arasındaki dava dışı 26.11.2007 tarih ve 18591 yevmiye nolu Düzenleme Şeklinde Gayrimenkul Satış Vaadi ve Kat Karşılığı İnşaat Sözleşmesi’nin yanında eldeki davada tartışılan 15.05.2009 tarih ve 06993 yevmiye nolu ... 3. Noterliği’nce Düzenleme Şeklinde Gayrımenkul Satış Vaadi ve Kat Karşılığı İnşaat Sözleşmesi’nden kaynaklanan kira tazminatı taleplerini de içerdiği anlaşılmakta olup, yüklenici şirket aleyhine verilip kesinleşen ve dava konusu sözleşmeden kaynaklanan alacaklar yönünden bunların ödenip ödenmediği araştırılıp, ödenmemiş ise bunlar davacıya depo ettirilip birlikte ifa suretiyle tescile karar verilmesi gerekirken yanlış değerlendirme sonucu yazılı şekilde hüküm tesis edilmesi doğru olmamıştır.
 
 SONUÇ: Yukarıda açıklanan nedenlerde hükmün temyiz eden davalı arsa sahibi ... yararına BOZULMASINA …
 
 ## Yargıtay 15. HD 2020/2595 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/600005800)
 
 Davacı şirket yüklenici, davalılar arsa sahipleridir. ... 3. Noterliği'nin 02.07.2012 gün 7782 yevmiye nolu Düzenleme Şeklinde Kat Karşılığı İnşaat Sözleşmesi taraflar arasında düzenlenip imzalanmıştır. Bu sözleşme ile davacı yüklenici, davalı arsa sahiplerine ait ... ili ... ilçe ... Mahallesi 1585 ada 3, 1586 ada 1, 1588 ada 1 parsel sayılı taşınmazlar üzerinde arsa payı karşılığı inşaat yapımını üstlenmiştir. Sözleşmenin 3. maddesinde bağımsız bölümlerin paylaşımı, 5. maddesinde inşaat seviyesine göre davacı yükleniciye aşamalı tapu payı devri kararlaştırılmıştır.
 Sözleşmenin 5-c maddesinde, devir hakkı kazanılmış tapulardan öncelikle devri yapılacak bağımsız bölümlerin hangileri olduğunu yüklenicinin belirleyeceği belirtildikten sonra, mal sahiplerinin (arsa sahipleri) gerekirse birbirlerine vekâlet vererek yükleniciye veya belirlediği 3. kişilere tapu masrafları yükleniciye ait olmak üzere tapu verme işlemlerini gerçekleştirmeyi taahhüt ettikleri, yüklenicinin sözleşmenin 5-a ve 5-b maddelerine göre hakettiği ve belirlediği tapu veya tapuları almak istediğinde bu isteğini yazılı olarak (mail yolu ile de olabilir) arsa sahiplerine bildireceği, arsa sahiplerinin bu yazı kendilerine ulaştığı tarihten sonraki 15 gün içinde tapu verme gün ve saatini belirleyip yükleniciye yazı ile (mail de olabilir) bildirecekleri, arsa sahiplerinden herhangi birinin mücbir sebep olmadan belirlenen gün ve saatte tapu verme işlemlerinin yapılmamasına veya gecikmesine herhangi bir şekilde engel olursa ilgili arsa sahibinin yükleniciye 250.000,00 TL tazminat ödemeyi kabul ettiği, ayrıca tapu verme gün ve saatini belirleme işi iş bu maddede belirtildiği şekilde 15 gün içinde yapılmazsa veya belirlenen gün ve saat yükleniciye yazılı olarak bildirilmezse her bir arsa
@@ -52,6 +58,8 @@ Bu durumda sözleşmenin 5-c maddesinde yüklenicinin yazılı talebi üzerine 1
 şartın niteliğinde yanılgıya düşülerek, ifanın da gerçekleşmiş olması sebebiyle seçimlik cezanın talep edilemeyeceği gerekçesiyle davanın reddi ve bölge adliye mahkemesince de istinaf başvurusunun reddi doğru olmamış, kararın bozulması uygun bulunmuştur.
 
 ## Yargıtay 15. HD 2020/1870 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/588729700)
 
 Davacı ... vekili dava dilekçesinde, İ... Cengiz Topel Geçidinde ve 1/2 payı ... ile diğer 1/2 payın sahibi ... mirasçıları üzerinde kayıtlı olan 70 ada 30 parsel (imar sonucu 5398 ada 1 parsel) sayılı arsa üzerine yapı yapılması konusunda davacı yüklenici ... ile davalılardan tapu kayıt malikleri ..., ..., ..., ..., ... ve ... arasında 01.11.1995 tarihli ve 1/2 pay sahibi ... ile de 25.10.1995 tarihli satış vaadini içeren kat karşılığı inşaat sözleşmesi yapıldığını, bu sözleşme uyarınca yüklenici davacının üzerine düşen edimleri yerine getirmiş olmasına karşın sözleşmede yükleniciye devri öngörülen 5-6-7-8-11-12 ve 14 nolu dairelerin ve 15 nolu dükkanın davalılar tarafından ferağının verilmediğini ileri sürerek dava konusu taşınmazda kat irtifakının kurulması ile sözü edilen bağımsız bölümlerin davacı adına tesciline karar verilmesi isteminde bulunmuştur.
 
@@ -71,6 +79,8 @@ Bu nedenle asli müdahil ... yüklenici ile yaptığı 24.09.1996 tarihli sözle
 SONUÇ: Yukarıda 1. bentte açıklanan nedenlerle kararın asli müdahil ... yararına bozulmasına …
 
 ## Yargıtay 15. HD 2020/1852 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/588945800)
 
 Dava, eser sözleşmesinin bir türü olan arsa payı karşılığı inşaat sözleşmesinden kaynaklanan tapu iptâli ve tescil istemine ilişkindir.
 
@@ -94,6 +104,8 @@ SONUÇ: Yukarıda açıklanan nedenlerle davacı tarafın temyiz isteminin kabul
 
 ## Yargıtay 20. HD 2020/687 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/573741800)
+
 Dava, kat karşılığı inşaat sözleşmesine dayalı olarak, dava dışı yüklenici tarafından yapılıp, davacılara harici olarak düzenlenen taşınmaz satış vaadi sözleşmesi ile satılan bağımsız bölümün tapusunun iptali ve tescil istemine ilişkindir.
 
 …
@@ -103,6 +115,8 @@ Kural, borç ilişkisinin sonucu olan edimin alacaklıya ifasıdır. Fakat hayat
 Bir tanımlama yapmak gerekirse; alacağın temliki, alacaklı ile onu devralan üçüncü şahıs arasında borçlunun rızasına ihtiyaç olmaksızın yapılabilen ve sadece kazandırıcı bir tasarruf işlemi niteliğini taşıyan şekle bağlı bir akittir. Borçlar Kanununun 163. maddesi hükmüne göre temlik sözleşmesi temlik edenle temlik alan arasında yazılı olarak yapılabilir. Ne var ki, alacağın temlikinde aranan yazılı şekil temlik sözleşmesinin resmi şekilde yapılmasına engel değildir. Nitekim uygulamada yükleniciden şahsi hakkını temlik alan üçüncü kişilerin temlik sözleşmesini adi yazılı satış sözleşmesi veya noterde düzenleme şeklinde taşınmaz satış vaadi sözleşmesi olarak yaptıkları görülmektedir. Dolayısıyla davacı, davalı arsa sahiplerine karşı dava dışı yüklenicinin haklarına sahip olmaktadır.
 
 ## Yargıtay 15. HD 2020/187 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/572007900)
 
 Dava, davalı arsa sahipleri ile yüklenici arasında imzalanan arsa payı karşılığı inşaat yapım sözleşmesi gereğince davalı yüklenici tarafından yapılan inşaatta yükleniciye isabet eden bağımsız bölümün satın alınması sebebiyle temliken tescil istemine ilişkindir.
 
@@ -115,6 +129,8 @@ Davanın dayanağı olan, ... 4. Noterliği’nin 22.10.2017 gün, 17879 yevmiye
 SONUÇ: Yukarıda açıklanan nedenlerle davacının karar düzeltme talebinin kabulü ile Yargıtay 23. Hukuk Dairesi’nin 04.02.2019 gün, 2016/7091 Esas, 2019/259 Karar sayılı bozma ilamının kaldırılarak yerel mahkeme hükmünün değişik bu gerekçe ile temyiz eden davalı arsa sahibi mirasçıları yararına BOZULMASINA …
 
 ## Yargıtay 15. HD 2019/4314 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/549933100)
 
 Davacı, davalılardan ...Ltd. Şti ile aralarında ... 3.
 
@@ -136,9 +152,13 @@ SONUÇ: Yukarıda açıklanan nedenlerle davacının karar düzeltme talebinin k
 
 ## Yargıtay 15. HD 2019/4212 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/541086200)
+
 Yargıtay ilamında belirtilen gerektirici nedenler karşısında ve özellikle taraflar arasında imzalanan 16.12.2012 tarihli ön protokol başlıklı sözleşmenin, 4. maddesine göre arsa sahiplerinin tamamıyla yapılacak kat karşılığı inşaat sözleşmesinin ön sözleşme, başka bir anlatımla arsa payı karşılığı inşaat yapım sözleşmesi vaadi niteliğinde olup, kat karşılığı inşaat yapım sözleşmelerinin tapuda pay devrini de içermeleri nedeniyle resmi şekilde yapılması ve ön sözleşmenin şeklinde TBK'nın 29/II. maddesi hükmünce ileride kurulacak sözleşmenin şekline bağlı olması ve adi yazılı şekilde yapması nedeniyle geçersiz olması nedeniyle geçersiz olan ön sözleşmenin devamını sağlayacak biçimde sözleşmenin feshinin geçersizliğine ve sözleşmenin devam ettiğinin tespitine karar verilmesinin mümkün bulunmamasına göre HUMK’nın 440.
 
 ## Yargıtay 23. HD 2019/3725 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/543237100)
 
 Davacılar vekili, müvekkili arsa sahipleri ile davalılardan yüklenici ... arasında 2417 ada, 2 parsel sayılı taşınmazda inşaat yapılması amacıyla arsa payı karşılığı inşaat sözleşmesi imzalandığını, sözleşme gereğince müvekkillerinin taşınmazdaki hisselerini davalı yükleniciye devrettiklerini, yüklenici davalının müvekkillerine 2. kattan bir daire vermeyi taahhüt ettiğini, davalı yüklenicinin işe başlamadığını ve sözleşmedeki edimini yerine getirmediğini ileri sürerek arsa payı karşılığı inşaat yapım sözleşmesinin feshine, davalı adına kayıtlı olan 2417 ada, 2 parsel sayılı taşınmazın tapu kaydının iptali ile müvekkilleri adına pay oranında tesciline karar verilmesini talep ve dava etmiştir.
 
@@ -160,6 +180,8 @@ SONUÇ: Yukarıda açıklanan nedenlerle, davacılar vekilinin temyiz itirazlar�
 
 ## Yargıtay 15. HD 2019/3672 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/539195900)
+
 Davacılar arsa sahipleri, davalı kooperatif yüklenicidir. Davalı yüklenici kooperatif ile davacılar ve dava dışı ... arasında 15.01.1997 tarihinde ... 17824 ada 4 parsel sayılı taşınmaz üzerinde kat karşılığı inşaat yapımı konusunda sözleşme imzalanmıştır. Sözleşme adi yazılı şekilde düzenlenmiş olup TMK 706, 818 sayılı BK 213, Noterlik Kanunu'nun 60 ve Tapu Kanunu'nun 26. maddeleri hükümleri gereğince noterde düzenleme şeklinde yapılmadığından geçersiz ise de; söz konusu sözleşme uyarınca davalı kooperatife tapuda pay devri yapıldığından ve bu halde sözleşmenin geçersizliğini ileri sürmek hakkın kötüye kullanılması niteliğinde olacağından sözleşme arsa sahipleri ile yüklenici arasında bağlayıcı hale gelmiştir.
 
 15.01.1997 tarihli sözleşmenin 4. sayfa 14. maddesinde diğer bağımsız bölümler yanında yapılacak inşaatta 3. kat dubleks dairenin 1/2'sinin davacı arsa sahibi ...'a 1/2'sinin de diğer davacı arsa sahibi ...'ya verileceği kararlaştırılmıştır. Davalı kooperatifin 17.11.2015 havale tarihli cevabi yazısı ve ekindeki belgeler ve mahkemece yapılan keşif sonrası düzenlenen 26.08.2016 tarihli inşaat mühendisi ve fen bilirkişi raporuna göre dava konusu olan kat irtifakına esas listede 15 nolu dubleks daire olarak gösterilen bağımsız bölümün sözleşmeye göre davacılara isabet eden ve verilmesi gereken bağımsız bölüm olup gerçek kişi davalılar tarafından kullanılmakta olduğu anlaşılmaktadır. Gerçek kişi davalılar ... ve ...'nın murisleri ... tarafından davalı kooperatif aleyhine ... 3. Asliye Hukuk (Ticaret) Mahkemesi'nde açılan dava sonucunda 2011/429 Esas 2012/332 Karar sayılı ilamda ...'nın kooperatif üyesi olduğunun tespitine karar verilmiş ve bu karar kesinleşmiştir.
@@ -170,6 +192,8 @@ Davalı kooperatifin diğer davalı gerçek kişilerin oturduğu bağımsız bö
 SONUÇ: Yukarıda açıklanan nedenlerle davacıların temyiz itirazlarının kabulü ile ... Bölge Adliye Mahkemesi 27. Hukuk Dairesi'nin kararının kaldırılarak ilk derece mahkemesi hükmünün davacılar yararına BOZULMASINA …
 
 ## Yargıtay 15. HD 2019/3610 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/538779900)
 
 Davacı yüklenici vekili, taraflar arasında ...2.
 

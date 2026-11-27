@@ -22,6 +22,8 @@ uyari: "Derleyenin seçtiği alıntılardır; kararın tamamı değildir. Künye
 
 ## İstanbul BAM 12. HD 2025/1791 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1183949700)
+
 Dava; davacının ortağı olduğu davalı anonim şirketin haklı nedenle feshi talebine ilişkindir.
 
 TTK.nın 531. maddesi; "... Haklı sebeplerin varlığında, sermayenin en az onda birini ve halka açık şirketlerde yirmide birini temsil eden payların sahipleri, şirketin merkezinin bulunduğu yerdeki asliye ticaret mahkemesinden şirketin feshine karar verilmesini isteyebilirler. Mahkeme, fesih yerine, davacı pay sahiplerine, paylarının karar tarihine en yakın tarihteki gerçek değerlerinin ödenip davacı pay sahiplerinin şirketten çıkarılmalarına veya duruma uygun düşen ve kabul edilebilir diğer bir çözüme karar verebilir." hükmünü haizdir.Haklı sebep TTK'da tam olarak tanımlanmamıştır. Her somut olayda haklı sebep bulunup bulunmadığı, ortağın kişisel özellikleri ve şirketin yapısı da göz önünde bulundurulmak suretiyle ayrı ayrı incelenmesi gerekir.
@@ -34,6 +36,8 @@ Sayılı sorumluluk davası derdest olup, bahsi geçen davada alınan bilirkişi
 Davacı vekilinin istinaf başvurusunun HMK'nun 353(1)b-1 maddesi uyarınca ESASTAN REDDİNE …
 
 ## Konya BAM 5. HD 2025/1620 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1179544400)
 
 Davalı ... vekili cevap dilekçesinde özetle; taraflar arasında herhangi bir yazılı sözleşme ve aleyhlerinde kanıt olmadan mahkemece doğrudan doğruya taşınmaza ihtiyati tedbir kararı verildiğini, tedbir kararı verilmesi için gerekli koşulların bulunmadığını, verilen tedbir kararı ile müvekkilinin mülkiyet hakkının zedelendiğini, davanın hukuki dayanağının net şekilde ortaya koyulmadığını, davacı tarafın işlerin tamamlanmış olmasına rağmen sanki hiç iş yapılmamış gibi eldeki davayı açarak sebepsiz zenginleşmeye çalıştığını, ispat yükünün davacı tarafta olduğunu, taraflar arasında tapuda yapılmış bir resmi akit işleminin var olduğunu, bu temlik işlemine esas satış akit tablosunun aksiliğinin ancak sahtelik halinde ileri sürülebileceğini, davacı tarafın bu yönde bir itirazının bulunmadığını, taraflar arasındaki bağımsız bölümün devrine ilişkin resmi akit tablosunda bedelin ödenmemesi halinde taşınmazın eski malike geri döneceğine dair herhangi bir ihtirazı kayıt ya da şerhin mevcut olmadığını, kabul anlamına gelmemek üzere bir an için taşınmazın bedelinin ödenmediği kabul edilse dahi tapu iptal ve tescil işleminin reddinin gerektiğinden bahisle öncelikle ihtiyati tedbire yaptıkları
 itirazlarının kabulü ile tedbir kararının kaldırılmasına, davanın usulden ve esastan ayrı ayrı reddine, tüm yargılama giderleri ve vekalet ücretinin karşı tarafa yükletilmesine karar verilmesini talep etmiştir.
@@ -51,6 +55,8 @@ Dava, eser sözleşmesinin feshi ile sözleşme kapsamında devredilen taşınma
 Belirtmek gerekir ki; eser sözleşmesinin haklı nedenle feshedilip feshedilmediği hususu önem arz etmeksizin yüklenici tarafça yapılan iş kısmı bedeli ; iş sahibince de fazla yapılan iş bedelinin iadesi her zaman talep edilebilir. Eldeki davada davacı yüklenici, taşeronu olan davalı alt yükleniciden fazla ödeme mahiyetinde olduğunu belirterek tapu devrinin iadesini talep etmektedir.
 
 ## Sakarya BAM 5. HD 2025/1587 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1177476800)
 
 Davalı-Karşı Davacı Jod Otomotiv Tekstil Gıda İnşaat İthalat İhracat San ve Tic. Ltd.
 
@@ -72,6 +78,8 @@ Bilindiği üzere arsa payı karşılığı inşaat sözleşmesi tapuda pay devr
 
 ## İstanbul BAM 14. HD 2025/1549 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1179608600)
+
 Davacı vekili, dava dilekçesinde özetle; davalılar ... ... ve ... ile davacının, taşınmaz alım satımıyla uğraştığını davalı şirketin ortakları olduğunu, davalı ... ...’ın 10 yıl süreyle şirketin müdürlüğüne seçildiğini ve davalının görevi süresince zarar açıkladığını, bunun üzerine davacının Esenyurt Bacabaşı mevkinde bulunan ... ada 12 nolu parseli şirkete devir etiğini ve inşaatın bütün maliyetini üstlenerek 12 daire ve 2 dükkan yapılmasını sağladığını, davalı ... ...’ın 7 daireyi satarak küçük bir miktarını iade edip şirketi atıl bıraktığını, bu davalının ve çocuklarının yurt dışında okudukları için İstanbul’dan ayrılıp zamanını yurt dışında geçirmeye başlaması nedeniyle yapılan genel kurulda davacı ile davalı ...’ın müdürlük görevini üstlendiğini, kalan dairelerden bir adetinin dairenin ...’in sattığını, diğer daireler ve 2 dükkanı da davacının sattığını, bu hali ile şirketin davacıya borçlandığını, verilen paraları alamadığını, şirketin sermayesini yitirdiği için çalışan personelin parasını, kira, elektrik, su, doğal gaz giderlerini ve vergiyi ödeyemediğini, durumu düzeltilmesi için yapılacak genel kurullara diğer ortakların katılmadıklarını, şirketin devamlı şekilde kar
 sağlayamadığını, kuruluş gayesinin imkansız hale geldiğini, ortaklar arasında ciddi geçimsizlikler bulunduğunu, ortaklardan ... ...’ın daha önce 18 adet bağımsız bölümü satarak İstanbul’dan uzaklaştığını, ortakların geçimsizlikleri nedeniyle şirketin tasfiyesinin kendisine kaldığını ileri sürerek, davalı şirketin fesih ve tasfiyesine karar verilmesini talep ve dava etmiştir.
 
@@ -89,6 +97,8 @@ Bununla birlikte ortaklık anlayışını ortadan kaldıran, bireysel çıkarlar
 HMK'nın 353/1.a.6 maddesi uyarınca, ilk derece mahkemesinin istinafa konu kararının kaldırılmasına …
 
 ## İstanbul BAM 45. HD 2025/1485 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1185749800)
 
 Davacı vekili dava dilekçesinde özetle; taraflar arasındaki 20/07/2016 tarihli ...Bakım ve Yumurta Üretim Sözleşmesi gereği davalı yüklenicinin edimlerini üretim dönemlerinde tam ve eksiksiz olarak ifa edemeyeceğini beyan etmesi, üretim dönemi içinde fazla hayvan ölümüne sebebiyet verilmesi ve az yumurta teslim edilmesi üzerine işbu sözleşmenin ve taraflar arasında daha önce yapılmış 12/10/2016 tarihli Yemeklik Yumurta Tasnif ve Paketleme Sözleşmesi'nin tarafların müşterek mutabakatı ile 30/06/2017 tarihli fesih protokolü kapsamında feshedildiğini, sözleşmeye aykırı bakım ve üretim yapılması nedeniyle davalı yüklenici tarafa hak ediş ve ceza bedeli olarak toplam 351.593,59 TL + KDV tahakkuk ettirildiğini ancak yapılan ihtara rağmen bedelin ödenmediğini ileri sürerek dilekçesinde bildirdiği diğer nedenlerle 351.593,59 TL + KDV alacağın davalıdan tahsiline karar verilmesini talep ve dava etmiştir.
 
@@ -111,12 +121,16 @@ Davalı vekilinin istinaf başvurusunun KABULÜ ile İstanbul 11. Asliye Ticaret
 
 ## İstanbul BAM 15. HD 2025/1350 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1183495100)
+
 Bu itibarla, taraflarca düzenlenen sözleşme batıl olduğundan, taraflar için hüküm ifade etmeyecek ve nedensiz zenginleşme kuralları içinde taraflar, birbirlerine verdikleri şeyleri istirdat etmek hakkını haiz olacaklardır.Sözleşme kurulurken mevcut olan imkânsızlığın, geçici imkânsızlık niteliğinde olması yani imkânsızlığın ortadan kalkabilecek nitelikte olması halinde tarafların bu sözleşmeyle ne kadar süre bağlı kalacakları sorunu ortaya çıkar. Bu konudaki kural "ahde vefa, söze sadakat" ilkesi gereği tarafların sözleşmeyle bağlı tutulmasıdır. Ancak bazı özel durumlar vardır ki, tarafları o sözleşmeyle bağlı saymak hem onların ekonomik özgürlüklerini engeller, hem de bir başkası ile sözleşme yapma fırsatını ortadan kaldırır. Uygulamada, geçici imkânsızlık halinde tarafların o sözleşmeyle bağlı tutulma süresine "akde tahammül süresi" denilmektedir.
 Bu sürenin gerçekleşip gerçekleşmediğini de her somut olaya göre ve onun çerçevesinde değerlendirmek gerekir." Sözleşme geçerli biçimde kurulmuş olmasına rağmen geçici imkansızlığın sürmesi veya imkansızlık hali ortadan kalkmış olmasına rağmen taraflardan birinin tahammül süresinin dolması nedeniyle sözleşmeden dönmek istemesi halinde yapılması gereken iş sözleşmenin yapıldığı sırada geçersiz olduğunun tespitine karar vermek olmayıp sözleşmenin geriye etkili feshi (dönme) koşullarının gerçekleşip gerçekleşmediğini saptayarak bu konuda bir karar vermektir.Somut olayda; davaya konu taşınmazlara ilişkin kat karşılığı inşaat sözleşmesi 2006 yılında akdedilmiş ve inceleme tarihi 2025 yılında dahi henüz inşaata başlanmamıştır.
 
 Bu durumda davacı açısından "akde tahammül süresi" dolduğunun kabulü gerekir, her ne kadar Dairemizce önceki karar ile taraflar arasındaki sözleşmenin geçersizliğinin tespitine karar verilmiş ise de bu kez gerekçe ve hüküm arasındaki bu hüküm maddesindeki çelişki giderilerek ve Yargıtay bozmasının hükmün sadece bu kısmına yönelik usul bozması olduğu ve kararın; temyiz edenlerin diğer temyiz sebepleri incelenmeksizin bozulduğu da nazara alınmak sureti ile diğer hüküm maddeleri değiştirilmeksizin, hükümde sadece birleşen davaya ilişkin kısımda "sözleşmenin geriye etkili feshine " karar verilmiştirAçıklanan nedenlerle, yargıtay 6. Hukuk Dairesinin bozma ilamına uyularak aşağıdaki şekilde hüküm kurulmuştur.
 
 ## Denizli BAM 4. HD 2025/1051 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1160022200)
 
 Davacı vekili ihtiyati tedbir talepli dava dilekçesinde özetle;
 Müvekkilleri, ..... ortak ve pay sahiplerinden olduğunu, ... tarihinde Kooperatifin Olağanüstü Genel Kurul Toplantısı.... adresinde gerçekleştiğini, ....İdare Mahkemesi'nin 14/01/2021 tarih ve ..... sayılı kararı ile... bölgesindeki imar planları durdurulduğunu, dosyanın halen Danıştay'da derdest olması nedeniyle, imar izni bulunmayan bu bölgede inşaat yapılması mümkün olmadığını, Kooperatif yönetimi 30/10/2022 tarihinden beri defalarca olağan ve olağanüstü genel kurullar düzenleyerek aleyhine sonuçlanmış mahkeme kararlarına ve yürütmenin durdurulması kararına rağmen ısrarla ve kötü niyetli olarak ...bölgesindeki Kooperatif'e ait parseller üzerinde anlaştığı yükleniciler ile birlikte hukuka, genel kurul iptal kararlarına ve hatta yürütmenin durdurulması kararına aykırı olarak Kooperatif'i fahiş derecede zarara uğratacak şekilde inşaat yapma çabasına giriştiğini, 03/11/2024 tarihinde gerçekleştirilen Genel Kurul Toplantısı’nda aşağıda detaylıca belirteceği tarafınca art arda açılan genel kurul iptal davaları sonucundaki yerel mahkemelerin verdiği kabul kararlarındaki gerekçeler yok sayılarak kamu düzenine, hukuka, ahlaka ve dürüstlük kuralına aykırı şekilde karar alınmaya ve işlem
@@ -137,6 +151,8 @@ Gündemin 6. Maddesinin; "...İptal edilen... imar planında ... parselimizin i�
 Davacılar... vekilinin istinaf başvurusunun KABULÜ İLE, ... Asliye Ticaret Mahkemesi'nin ... Esas sayılı dosyasında verilen 02/01/2025 tarihli ara kararın HMK'nın 353/1-b.2. maddesi gereğince düzeltilerek aşağıdaki şekilde yeniden karar verilmek üzere KALDIRILMASINA …
 
 ## Kayseri BAM 4. HD 2025/1044 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1171531000)
 
 Davalı vekili cevap dilekçesinde özetle;
 
@@ -160,6 +176,8 @@ Sözleşmenin feshedilmediği ve eksik teslim hususunun da kanıtlanamadığı h
 Davalı vekilinin istinaf başvurusunun ESASTAN REDDİNE …
 
 ## İstanbul BAM 14. HD 2025/1005 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1154767500)
 
 Davada terditli olarak, cezai şart faturalarının kabul edilmemesi halinde haksız fesih nedeniyle uğranılan zararların tazmini talep edilmiştir.Bu durumda taraflar arasındaki sözleşmenin değerlendirilerek, sözleşmedeki düzenlemelerin fesih yasağı anlamına gelip gelmediği ve davalının sözleşmeyi feshetme imkânı bulunup bulunmadığının değerlendirilmesi gerekmektedir.Sözleşmenin 3. maddesine göre protokol hükümleri öncelikli olarak uygulanacak olup, buna göre enerji tedarikinin 01.01.2018 tarihinden 31.12.2018 tarihine kadar devam edecektir. Sözleşme ve/veya protokollerin süresinden önce sona ermesi ve fesih başlıklı 14. maddesinde sözleşmenin feshedilebileceği halleri düzenlemiştir. Sözleşmenin 14.1 maddesinin a-f bentlerindeki hallerden birinin gerçekleşmesi halinde kendiliğinden sona ereceği kabul edilmiştir. Sözleşmenin 14.2 maddesinin a-c bentlerindeki hallerden birinin gerçekleşmesi halinde tek taraflı ve haklı nedenle fesih imkanı tanınmıştır. sözleşmenin 14.3 maddesinde belirlenen durumda haklı nedenle fesih sebeplerini tespit edilmiştir.
 Sözleşmenin 14.4 maddesinde, "Taraflardan herhangi birinin yukarıdaki hükümler dışında bir sebeple Protokol'ü ve/veya sözleşmeyi aksi protokolde öngörülmedikçe Protokolde belirlenmiş olan süreden evvel feshetme hakkı bulunmamaktadır. Sözleşmenin ve/veya protokolün bu madde kapsamında fesih edilmesi halinde sözleşmenin feshine sebebiyet veren taraf, diğer tarafa madde 15 hükümleri uyarınca hesaplanacak fesih tazminatı ödeyecektir " hükmü bulunmaktadır. Sözleşmenin 14.6 maddesi ise, "Taraflar arasında karşılıklı olarak onaylanmış geçerli ve yürürlükte olan herhangi bir Protokol ya da Protokollerin bulunması halinde sözleşmenin fesihi tüm Protokollerin sona erdiği tarihte hüküm ve sonuçlarını doğrulacaktır." hükmünü içermektedir.İlk derece mahkemesince sözleşmenin 14. maddesinde belirlenen hususlar dışında fesih nedeni olamayacağı, bu nedenle sözleşmenin 31.12.2018 tarihine kadar ayakta kalacağı kabul edilerek hüküm kurulmuştur.

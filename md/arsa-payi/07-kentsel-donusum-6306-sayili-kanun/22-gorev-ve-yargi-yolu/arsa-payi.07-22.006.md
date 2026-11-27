@@ -22,6 +22,8 @@ uyari: "Derleyenin seçtiği alıntılardır; kararın tamamı değildir. Künye
 
 ## Danıştay 13. D. 2024/2918 E., 2024/4735 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1122497000)
+
 2577 sayılı İdari Yargılama Usulü Kanunu'nun 24. maddesinin (f) bendinde, kararlarda yargılama giderleri ve hangi tarafa yükletildiğinin belirtileceği; 31. maddesinde, yargılama giderleri hususunda Hukuk Usulü Muhakemeleri Kanunu hükümlerinin uygulanacağı kurala bağlanmış; anılan madde ile atıfta bulunulan 6100 sayılı Hukuk Muhakemeleri Kanunu'nun "Yargılama giderlerinin kapsamı" başlıklı 323. maddesinin (ğ) bendinde, "vekille takip edilen davalarda kanun gereğince takdir olunacak vekalet ücreti" yargılama giderleri arasında sayılmış; "Yargılama giderlerinden sorumluluk" başlıklı 326. maddesinin 1. fıkrasında, yargılama giderlerinin aleyhine hüküm verilen taraftan alınmasına karar verileceği; "Esastan sonuçlanmayan davada yargılama gideri" başlıklı 331. maddesinin 1. fıkrasında, davanın konusuz kalması sebebiyle davanın esası hakkında bir karar verilmesine gerek bulunmayan hallerde, hakimin, davanın açıldığı tarihteki haklılık durumuna göre yargılama giderlerini takdir ve hükmedeceği; "Yargılama giderlerine hükmedilmesi" başlıklı 332. maddesinde, yargılama giderlerine mahkemece re'sen hükmedileceği;
 "Adli yardımla ertelenen yargılama giderlerinin tahsil" başlıklı 339. maddesinin 1. fıkrasında, adli yardım kararından dolayı ertelenen tüm yargılama giderleri ile Devletçe ödenen avansların dava sonunda haksız çıkan kişiden tahsil olunacağı kurala bağlanmıştır.
 
@@ -31,9 +33,13 @@ uyari: "Derleyenin seçtiği alıntılardır; kararın tamamı değildir. Künye
 
 ## Danıştay 6. D. 2024/3410 E., 2024/4642 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1085084500)
+
 2577 sayılı İdari Yargılama Usulü Kanununun "İdari davaların açılması" başlıklı 3. maddesinin 2. fıkrasının (b) bendinde, dava dilekçelerinde davanın konusu ve sebepleri ile dayandığı delillerin gösterileceği; 14. maddesinin üçüncü fıkrasında, dilekçelerin sırayla a) görev ve yetki, b) idari merci tecavüzü, c) ehliyet, d) idari davaya konu olacak kesin ve yürütülmesi gereken bir işlem olup olmadığı, e) süre aşımı, f) husumet, g) 3. ve 5. maddelere uygun olup olmadıkları yönlerinden inceleneceği belirtilmiş; 15. maddenin 1. fıkrasının (d) bendinde, dilekçelerde 14. maddenin 3/g bendine aykırılık görülmesi halinde otuz gün içinde 3 ve 5. maddelere uygun şekilde düzenlemek veya noksanları tamamlamak üzere dilekçenin reddine karar verileceği, 5. fıkrasında ise, 1. fıkrasının (d) bendine göre dilekçenin reddedilmesi üzerine yeniden verilen dilekçelerde aynı yanlışlıklar yapıldığı takdirde davanın reddedileceği, hükme bağlanmıştır.
 
 ## Danıştay 9. D. 2024/4801 E., 2024/4641 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1166943900)
 
 DANIŞTAY TETKİK HÂKİMİ ...'IN DÜŞÜNCESİ:
 Dosyanın incelenmesinden, Eti Maden İşletmeleri Genel Müdürlüğünce “Turbojenaratör Sistemlerinin Kurulumu ve Enerji Altyapısı Modernizasyonu Yapım İşi”nin davacıya ihale edildiği, davacı tarafından anılan işe ilişkin ihale kararı ve ihale sözleşmesi nedeniyle damga vergisi ödenmesinden sonra “Turbojenaratör Sistemlerinin Kurulumu ve Enerji Altyapısı Modernizasyonu Yapım İşi” kapsamında düzenlenen kağıtlar -ihale kararı ve sözleşme- nedeniyle damga vergisi alınmasının 6446 sayılı Kanun'un geçici 4/1. maddesi uyarınca vergilendirme hatalarından mevzuda hataya dayandığı ileri sürülerek yapılan düzeltme şikayet başvurusunun ihale konusu iş kapsamında düzenlenen kağıtlara 6446 sayılı Kanun'un geçici 4/1. maddesinde belirtilen şartlar sağlanmadığından istisna uygulamasının mümkün olmadığından bahisle reddi üzerine, işlemin iptali ile ödenen tutarın tecil faizi ile birlikte iadesi istemiyle davanın açıldığı, davacı tarafından dava dilekçesinde ve düzeltme şikayet başvurusu dilekçesinde talebinin dayanağı maddi vakıaların gösterildiği, dilekçelerin netice-i talep kısmında ise istenilen hukuki koruma türünün gösterildiği, bu suretle dava dilekçesinin 2577 sayılı İdari Yargılama Usulü
@@ -48,17 +54,25 @@ Bu bağlamda, örneğin kentsel dönüşüm ve gelişim alanı, rezerv yapı ala
 
 ## Danıştay 7. D. 2022/2032 E., 2024/4610 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1189663500)
+
 3\. 2577 sayılı İdari Yargılama Usulü Kanunu'nun 50. maddesi uyarınca, bu kararın taraflara tebliği ve bir örneğinin de Bölge İdare Mahkemesine gönderilmesini teminen dosyanın ilk derece Mahkemesine gönderilmesine, 12/11/2024 tarihinde kesin olarak oyçokluğuyla karar verildi.
 
 ## Danıştay 4. D. 2023/11061 E., 2024/3713 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1089719300)
 
 2577 sayılı İdari Yargılama Usulü Kanununun 26. Maddesinde; dava esnasında ölüm veya herhangi bir nedenle tarafların kişilik ve niteliğinde değişiklik olursa, davayı takip hakkı kendisine geçenin başvurmasına kadar, dosyanın işlemden kaldırılmasına ilgili mahkemece karar verileceği; yalnız öleni ilgilendiren davalara ait dilekçelerin iptal edileceği, davacının gösterdiği adrese tebligat yapılmaması halinde yeni adresin bildirilmesine kadar dava dosyasının işlemden kaldırılacağı ve varsa yürütmeni durdurulması kararının kendiliğinden hükümsüz kalacağı, dosyanın işlemden kaldırıldığı tarihten başlayarak bir yıl içinde yeni adres bildirilmek suretiyle yeniden işleme konulması istenmediği takdirde, davanın açılmamış sayılmasına karar verileceği, dosyanın işlemden kaldırılmasına ve davanın açılmamış sayılmasına dair kararların diğer tarafa tebliğ edileceği kurala bağlanmıştır.
 
 ## Danıştay 4. D. 2024/1941 E., 2024/3712 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1089912200)
+
 2577 sayılı İdari Yargılama Usulü Kanunu'nun 3. maddesinde; idari davaların, Danıştay, idare mahkemesi ve vergi mahkemesi başkanlıklarına hitaben yazılmış imzalı dilekçelerle açılacağı; dilekçelerde; tarafların ve varsa vekillerinin veya temsilcilerinin ad ve soyadları veya unvanları ve adreslerinin, davanın konusu ve sebepleri ile dayandığı delillerin, davaya konu olan idari işlemin yazılı bildirim tarihinin vergi, resim, harç benzeri mali yükümler ve bunların zam ve cezalarına ilişkin davalarla tam yargı davalarında uyuşmazlık konusu miktarın, vergi davalarında davanın ilgili bulunduğu verginin veya vergi cezasının nevi ve yılının, tebliğ edilen ihbarnamenin tarihi ve numarası varsa hesap numarasının gösterileceği; ayrıca dava konusu kararın ve belgelerin asılları veya örneklerinin dava dilekçesine ekleneceği, dilekçeler ile bunlara ekli evrakın örneklerinin karşı taraf sayısından bir fazla olacağı düzenlenmiştir.
 
 ## Danıştay 6. D. 2020/5857 E., 2024/3365 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1072350300)
 
 İlk Derece Mahkemesi kararının özeti: ...
 
@@ -76,6 +90,8 @@ Dava konusu işlemin yukarıda özetlenen gerekçeyle iptaline ilişkin Mahkeme 
 
 ## Danıştay 13. D. 2023/1096 E., 2024/3104 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1106466600)
+
 İlk Derece Mahkemesi kararının özeti: ...İdare Mahkemesi'nce verilen kararda; ... tarihinde Hazine adına tescil edilen ... ili, ... ilçesi, ... Mahallesi'nde bulunan ... ada, ... parsel sayılı 9.115,00 metrekarelik taşınmazda, 28/11/2018 tarihli mahalli incelemede, taşınmazın 01/11/2017 tarihinden itibaren davacı kooperatif tarafından halı saha olarak kullanılmak suretiyle işgal edildiğinin tespit edildiği, davacı kooperatifin bilahare ilgili taşınmaz hakkında yapı kayıt belgesi aldığı ve 25/07/2019 tarihinde söz konusu belgeden kaynaklı satın alma talebinde bulunduğu, davacı kooperatif tarafından yapılan başvurunun davalı idarece zımnen reddedilmesi üzerine, ...
 
 …
@@ -88,9 +104,13 @@ DAVA KONUSU İŞLEMİN İPTALİNE …
 
 ## Danıştay 4. D. 2024/1526 E., 2024/2926 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1151179500)
+
 DÜŞÜNCESİ : Bölge İdare Mahkemesi kararının, 2577 sayılı İdari Yargılama Usulü Kanunu'nun 46. maddesinde sınırlı sayıda sayılan temyize tabi kararlar arasında yer almadığı görüldüğünden, anılan Kanun'un 48. maddesinin altıncı ve yedinci fıkraları uyarınca temyiz isteminin incelenmeksizin reddine karar verilmesi gerektiği düşünülmektedir.
 
 ## Danıştay 6. D. 2020/5904 E., 2024/2887 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1129591100)
 
 Nitekim 3194 sayılı Kanunun 18.maddesinin 3.fıkrasına eklenen hükümden önce Anayasa Mahkemesi yukarıda belirtilen kararında, kapanan ya da açığa çıkan yol veya yol parçalarının kamu malı niteliğini kaybederek idarenin özel malı haline geleceği ve kamu mallarına ilişkin korumanın ortadan kalkacağı, bu nedenle 21.maddede açığa çıkan bu taşınmazların tapu sicilinin sağladığı güvenceden yararlanabilmesi için tapu siciline tescilinin öngörüldüğü, idarenin, İmar Kanununun 18.maddesi gereği parsellerin yeniden düzenlenmesinde, eski yol parçalarını özel kişilerin arsaları ile birleştirebileceği, eğer yeniden kamu yararına tahsis edilmezse, idarenin özel hukuk rejimi çerçevesinde bu mallara tasarruf edebileceği, gerekirse satabileceği, Anayasa'nın 125. maddesine göre, idarenin her türlü eylem ve işlemlerine karşı yargı yolunun olduğu, idarenin keyfi uygulamalara sapması halinde buna karşı adli ve idari yargıda dava açılabileceği, sonuç olarak Tapu Kanununun 21.maddenin Anayasa'ya aykırı olmadığı, ancak idarenin yeni bir kararla bu taşınmazları kamu yararına tahsis ederek kamu malına da dönüştürebileceği vurgulanmıştır.
 
@@ -99,6 +119,8 @@ Nitekim 3194 sayılı Kanunun 18.maddesinin 3.fıkrasına eklenen hükümden ön
 Açıklanan gerekçelerle Yönetmeliğin 14. maddesinin 2. fıkrasındaki "b)...kamuya ait kreş alanları", "e) Kent meydanı, kent parkı, spor alanı" ve "g) Teknik altyapı alanı, kamuya ait trafo alanı", ibareleri ile Yönetmeliğin 26.maddesinin "Düzenleme alanının büyüklüğü, parsel maliki ve parsellerdeki hissedar sayısının çokluğu, bu kişilerin bulundukları yer itibarıyla birebir tebligat yapılamaması ya da adres kayıt sisteminde kayıtlı olduğu yerde bulunmaması gibi nedenlerle karşılaşılacak zorluklar dikkate alınarak parselasyon planlarının bir ay müddetle ilgili belediyede ya da valilikte askıya çıkarılması, internet sitesinde yayımlanması, belediye duyurusu, gazete ve benzeri mutat vasıtalarla da duyurulması..." kısmı yönünden davanın reddine karar verilmesi gerektiğinden belirtilen kısımlar yönünden Dairemiz çoğunluk kararına katılmıyorum.
 
 ## Danıştay 6. D. 2024/682 E., 2024/2841 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1148858600)
 
 2577 sayılı İdari Yargılama Usulü Kanununun 46. Maddesinde; Danıştay dava dairelerinin nihai kararları ile bölge idare mahkemelerinin imar planları ve parselasyon işlemlerinden kaynaklanan davalar hakkında verdikleri kararlar, başka kanunlarda aksine hüküm bulunsa dahi Danıştay'da, kararın tebliğinden itibaren otuz gün içinde temyiz edilebileceği"; 48. maddesinin altıncı fıkrasında; temyizin kanuni süre geçtikten sonra yapılması veya kesin bir karar hakkında olması halinde de kararı veren merciin temyiz isteminin reddine karar vereceği, yedinci fıkrasında ise, temyizin kanuni süre içinde yapılmadığı veya kesin bir karar hakkında olduğunun anlaşıldığı hâllerde, 2. ve 6. fıkralarda sözü edilen kararların dosyanın gönderildiği Danıştay'ın ilgili dairesi ve kurulunca, kesin olarak verileceği hükmü yer almıştır.
 
@@ -109,6 +131,8 @@ Açıklanan gerekçelerle Yönetmeliğin 14. maddesinin 2. fıkrasındaki "b)...
 Davalı yanında müdahilin temyiz isteminin REDDİNE, ... Bölge İdare Mahkemesi ... İdari Dava Dairesince verilen ... tarih ve E:..., K:... sayılı karar ve dayandığı gerekçe hukuk ve usule uygun olup bozulmasını gerektirecek bir sebep bulunmadığından, anılan kararın müdahil yönünden ONANMASINA …
 
 ## Danıştay 3. D. 2023/3099 E., 2024/2435 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1072304000)
 
 DAVALI İDARENİN SAVUNMASI:
 İdarenin kesin ve yürütülmesi zorunlu idari işlemlerine karşı iptal davası açılabileceği, idari davaya konu olabilecek düzenleyici bir işlemden söz edilebilmesi için o işlemin, genel ve objektif kurallar koyan nitelikte olması gerektiği, yasal düzenlemeleri açıklayan tebliğin idari davaya konu edilebilecek düzenleyici işlem olarak nitelendirilmeyeceği, 5359 sayılı Cumhurbaşkanı Kararı'na aykırı bir hususun tebliğde düzenlenmediği, açıklayıcı mahiyette hususlara yer verildiği, davanın süreaşımı nedeniyle reddi gerektiği, Cumhurbaşkanı Kararının 10. maddesinde 01/04/2022 tarihinden önce yapı ruhsatı alınan konutlarda eski hükümlerin uygulanmaya devam olunacağı, bu tarihten önce yapı ruhsatı alınmış veya kamu kurum ve kuruluşları ile bunların iştirakleri tarafından ihalesi yapılmış projeler kapsamında inşa edilen konutlar için bu kararın 1. ve 4. maddelerde kaldırılan veya değiştirilen hükümlerin uygulanacağının devam edileceğinin düzenlendiği, Katma Değer Vergisi Genel Uygulama Tebliğinin III/b-2.1.3 bölümünde, konut teslimlerinde 150 metrekare net alanın Planlı Alanlar İmar Yönetmeliğine göre hesaplanacağının belirtildiği, yapı ruhsatı 01/04/2022 tarihinden sonra alınan konutlara
@@ -121,9 +145,13 @@ Buna göre, dava konusu Tebliğin kesin ve yürütülebilir işlem niteliği ta�
 
 ## Danıştay 6. D. 2019/1497 E., 2024/2352 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1072295100)
+
 2577 sayılı İdari Yargılama Usulü Kanununun 27. maddesinin ikinci fıkrasında, Danıştay veya idari mahkemelerin, idari işlemin uygulanması halinde telafisi güç veya imkânsız zararların doğması ve idari işlemin açıkça hukuka aykırı olması şartlarının birlikte gerçekleşmesi durumunda, davalı idarenin savunması alındıktan veya savunma süresi geçtikten sonra gerekçe göstererek yürütmenin durdurulmasına karar verebilecekleri, uygulanmakla etkisi tükenecek olan idari işlemlerin yürütülmesinin, savunma alındıktan sonra yeniden karar verilmek üzere, idarenin savunması alınmaksızın da durdurulabileceği, yürütmenin durdurulması kararlarında idari işlemin hangi gerekçelerle hukuka açıkça aykırı olduğu ve işlemin uygulanması halinde doğacak telafisi güç veya imkânsız zararların neler olduğunun belirtilmesinin zorunlu olduğu, sadece ilgili kanun veya Cumhurbaşkanlığı kararnamesi hükmünün iptali istemiyle Anayasa Mahkemesine başvurulduğu gerekçesiyle yürütmenin durdurulması kararı verilemeyeceği belirtilmiştir.
 
 ## Danıştay 13. D. 2022/3763 E., 2024/2294 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1107623700)
 
 …
 
@@ -136,6 +164,8 @@ hükümlerinin uygulanacağı, dolayısıyla Tarım ve Orman Bakanlığı yazıs
 Dava konusu işlemlerin İPTALİNE …
 
 ## Danıştay 4. D. 2023/13288 E., 2024/2020 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1135940600)
 
 İlk Derece Mahkemesi kararının özeti: ...İdare Mahkemesince verilen...tarih ve E:..., K:... sayılı kararda; birinci malikler toplantısında (27/09/2021 tarihli toplantıda) usulüne uygun şekilde maliklerin tamamına davetiye gönderilmeden paylı mülkiyete tabi yapıda/parselde, üçte iki çoğunluk kararına katılmayan davacının hisselerinin, açık artırma usûlü ile satılmasına ilişkin işlemde hukuka ve mevzuata uyarlık bulunmadığı gerekçesiyle, dava konusu işlemin iptaline karar verilmiştir.
 
@@ -152,6 +182,8 @@ Karar veren Danıştay Dördüncü Dairesince, dosyanın tekemmül ettiği gör�
 Öte yandan; dava konusu işlemin tesis edilmesinden sonra 06/01/2023 tarih ve 32065 sayılı Resmi Gazete'de yayımlanan 6306 sayılı Kanunun Uygulama Yönetmeliği'nde Değişiklik Yapılmasına Dair Yönetmelik'in 7. maddesiyle, 6306 sayılı Kanunun Uygulama Yönetmeliği'nin 15/2. maddesinin birinci cümlesine eklenen "toplantı yapılması gerekmeksizin ve herhangi bir şekil şartına tabi olmaksızın" ibaresi eklenmiş; anılan ibarenin iptali istemiyle açılan davada; Danıştay İdari Dava Daireleri Kurulunun 20/09/2023 tarih ve YD İtiraz No: 2023/693 sayılı kararı ile, Danıştay Altıncı Dairesince verilen yürütmenin durdurulması isteminin reddine ilişkin 07/06/2023 tarih ve E:2023/505 sayılı kararın kaldırılmasına ve yukarıda yer verilen "toplantı yapılması gerekmeksizin ve herhangi bir şekil şartına tabi olmaksızın" ibaresinin …
 
 ## Danıştay 4. D. 2023/11571 E., 2024/2018 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1068045100)
 
 Davalı … Bakanlığı tarafından, usule ilişkin olarak davanın süre aşımı nedeniyle reddi gerektiği; esas ilişkin olarak ise, iptali istenilen Yönetmelik kuralının üst normlara uygun olduğu, ayrıca, satış sırasında payı satılacak malik tarafından pey sürülmesi, satış bedeline itiraz edilmesi gibi hususlar mevzuat gereği mümkün olmadığından payı satılacak malikin satış ihalesine katılıp katılmamasının satış işlemini de etkilemeyeceği dikkate alındığında, anılan kuralın hizmet gereklerine ve kamu yararına da uygun olduğu savunulmuştur.
 
@@ -195,9 +227,13 @@ Bu durumda; davacının arsa payının, 30/09/2021 tarihinde yapılan açık art
 
 ## Danıştay 9. D. 2024/359 E., 2024/1982 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1127308300)
+
 2577 sayılı İdari Yargılama Usulü Kanunu'nun (6545 sayılı Kanunla değişik) 45. maddesinin 1. fıkrasında, idare ve vergi mahkemelerinin kararlarına karşı, başka kanunlarda aksine hüküm bulunsa dahi, mahkemenin bulunduğu yargı çevresindeki bölge idare mahkemesine, kararın tebliğinden itibaren otuz gün içinde istinaf yoluna başvurulabileceği; 5. fıkrasında, bölge idare mahkemesinin, ilk inceleme üzerine verilen kararlara karşı yapılan istinaf başvurusunu haklı bulduğu, davaya görevsiz veya yetkisiz mahkeme yahut reddedilmiş veya yasaklanmış hâkim tarafından bakılmış olması hâllerinde, istinaf başvurusunun kabulü ile ilk derece mahkemesi kararının kaldırılmasına karar vererek dosyayı ilgili mahkemeye göndereceği ve bölge idare mahkemesinin bu fıkra uyarınca verdiği kararların kesin olduğu; 6. fıkrasında ise, bölge idare mahkemelerinin 46. maddeye göre temyize açık olmayan kararlarının kesin olduğu düzenlenmiştir.
 
 ## Danıştay 8. D. 2020/7059 E., 2024/1879 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1069901600)
 
 2577 sayılı İdari Yargılama Usulü Kanunu'nun 'Temyiz' başlıklı 46. maddesinin 1. fıkrasında, Danıştay dava dairelerinin nihai kararlarının Danıştay'da temyiz edilebileceği; 2575 sayılı Danıştay Kanunu'nun 'İdari ve vergi dava daireleri kurullarının görevleri' başlıklı 38. maddesinde, İdari Dava Daireleri Kurulunca idari dava dairelerinden ilk derece mahkemesi olarak verilen kararların temyizen inceleneceği; 2577 sayılı Kanun'un 'Temyiz incelemesi üzerine verilecek kararlar' başlıklı 49. maddesinin 4. fıkrasında da, Danıştayın ilk derece mahkemesi olarak baktığı davaların temyizen incelenmesinde bu madde ile ısrar hariç 50. madde hükümlerinin kıyasen uygulanacağı kurala bağlanmıştır.
 
@@ -206,6 +242,8 @@ Bu durumda; davacının arsa payının, 30/09/2021 tarihinde yapılan açık art
 Anılan düzenlemelerle her ne kadar sondaj hizmetinin sadece jeoloji mühendisliği mesleğine münhasır kılındığı; zemin laboratuvarı hizmetinin ve kaya ve zemin mekaniği laboratuvar deneylerinin ise sadece odaya tescili büro/şirketler tarafından gerçekleştirilmesinin zorunlu olduğu, aksi halde jeoteknik etüt raporlarının odada işlem görmeyeceği belirtilmek suretiyle bu hususta yalnız jeoloji mühendislerinin yetkili olduğunun belirtildiği, bu haliyle Genelgeyle dayanağı Yönetmeliği aşar şekilde düzenleme yapıldığı gerekçesi ile söz konusu düzenlemelerin iptaline karar verilmiş ise de; 6235 sayılı Kanunun yukarıda yer verilen hükümleri gereği davalı TMMOB Jeoloji Mühendisleri Odasının aynı Kanunun 2. maddesinde belirtilen amaç doğrultusunda yalnızca Odayı ilgilendiren kısım ile görevli olduğu …
 
 ## Danıştay 4. D. 2024/433 E., 2024/1601 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1063023000)
 
 …
 
@@ -222,6 +260,8 @@ sayılı işleminin iptali yolunda kesinleşmiş bir idari yargı kararı bulund
 Bu nedenle, temyiz isteminin kabulüne, … İdare Mahkemesinin … tarih ve E:… , K:… sayılı kararının bozulmasına …
 
 ## Danıştay 13. D. 2023/3831 E., 2024/1365 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1083780400)
 
 2577 sayılı İdari Yargılama Usulü Kanunu'nun 2. maddesinin 1. fıkrasının (a) bendinde; iptal davaları "idarî işlemler hakkında yetki, şekil, sebep, konu ve maksat yönlerinden biri ile hukuka aykırı olduklarından dolayı iptalleri için menfaatleri ihlâl edilenler tarafından açılan" davalar olarak tanımlanmakta; doktrin ve içtihatlarla "menfaat" kavramının davacı ile iptalini istediği idarî işlem arasındaki ilgiyi ifade ettiği belirtilmekte ve idarî işlem ile dava açan kişi arasında meşru, güncel ve ciddî bir alâka söz konusu ise davada menfaat bağının bulunduğu kabul edilmekte; bunun dışında ayrıca subjektif bir hakkın ihlâl edilmesi şartı aranmamaktadır. Sözü edilen menfaat ilişkisinin varlığı ve sınırları her olayda yargı yerince ihtilâfın niteliğine göre belirlenmektedir.
 

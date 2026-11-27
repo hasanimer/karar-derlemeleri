@@ -22,6 +22,8 @@ uyari: "Derleyenin seçtiği alıntılardır; kararın tamamı değildir. Künye
 
 ## İstanbul BAM 15. HD 2023/770 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/916451000)
+
 İnşaat San.Tic.Ltd.Şti. arasında gayrimenkul satış vaadi ve kat karşılığı inşat yapım sözleşmesinden kaynaklanan edimlerin ifası bakımından davacının temerrüde düşmesi, vermesi gereken tapuları vermemesi, daha önce verdiği fakat yönetim değişimden kaynaklanan her yıl ve yeni yönetim seçiminden sonra yenilenmesi gerektiği halde yenilenmeyen vekaletname ve ödenmeyen borçları nedeni ile temerrüde düşmesi ve borçlarını yerine getirmek yerine akdin feshi davası ikame etmesi ve bu davasının ise taraflar arasında devam ederken, vekaletnameyi yenileyeceği taahhüdü nedeni ile dava hakkında karar verilmeye yer olmadığına ilişkin İstanbul 4.Asliye Ticaret Mahkemesi’nin 2002/687 Esas Nolu dosyasında karar verilmiş ve temyiz sonrasında karar kesinleştiğini, kesinleşen karara rağmen davacı kooperatifin vekaletnameyi vermediğini, davacının temerrüdü nedeni ile durma aşamasına gelen inşaat meydana gelen 17 Ağustos 1999 depremi sonrasında değişen imar mevzuatı nedeni ile bekleme durumunda kaldığını, Bakırköy 7.Asliye Ticaret Mahkemesine 2011/535 esas nolu dosyası ile sözleşmenin uyarlanması talepli dava açıldığını ancak mahkeme tarafından daanın reddine karar verdiğini, bu karar beklenmeden mahkeme
 tarafından karar verildiğini, ancak Yargıtay 15. Hukuk Dairesinin 2018/697 Esas,2018/2914 Karar nolu 05.07.2018 tarihli kararı ile bozulduğunu, bozma kararı gereğince bütün kusurun kooperatif yönetiminde olduğunu, yaptıkları iş karşılığında daire alan ve satış suretiyle daire alan bütün kişileri mağdur ettiğini, müteahhit firma tarafından yıllar öncesinden ödenmeyen alacakların tahsili için takibe konulan ve kesinleşen icra dosyasında kooperatif adına kayıtlı taşınmaz üzerine haciz konulmak suretiyle ihaleye çıkartıldığını, alacağına karşılık 12 adet bağımsız bölüm müteahhit adına alınmış olduğunu, davacı kooperatifin akdin feshi talepli dava açtığını, taraflar arasında yapılan görüşmeler neticesinde ... ada ... parselde ... blok ... adet, ... blok 30 adet olmak üzere toplam 60 adet kat irtifaklı bağımsız bölümün kentsel dönüşüm çerçevesinde 30.07.2013 tarihinde ...
 
@@ -30,6 +32,8 @@ Asliye Ticaret Mahkemesinin 2017/98 esas sayısı ile ikame ettiği tapu iptali 
 dayalı 06.08.2001 tarihinde kendilerine geçe 2015 yılına kadar aile konutu olarak içinde oturdukları dairelerin tapuların iptaline karar verilmesinin haksızlık olduğunu, mahkeme kararının hukuka aykırı olduğunu, davacının imar rantı elde etme çabasına pirim vermiş olduğunu, mahkeme tarafından dosyaya sunulan bir kısım delillerin dikkate alınmadığını, dava konusu 2 numaralı parselde 11. Katın kolonları atılıp ve kalıbı yapıldığı sırada 1999 yılında 17 Ağustos depremi olduğunu, İstanbul 4.
 
 ## Ankara BAM 27. HD 2023/682 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/909222700)
 
 Davacı vekili: Müvekkili şirket ile ... adi ortaklığı arasında ticari ilişki bulunduğunu, adi otaklığın yeni unvanının ... A.Ş olduğunu, müvekkili şirket tarafından davalı yararına "... Riskli Alanda Kentsel Tasarım Projesi, 3 Boyutlu Görsellerin Hazırlanması ve Mimari Uygulama Projeleri Yapımı" işinin üstlenildiğini, bu kapsamda 20/01/2014 tarihli ve 236.000,00 TL bedelli faturanın düzenlendiğini, faturaya süresi içinde itiraz edilmeksizin kesinleştiğini, müvekkilinin söz konusu işi tam ve eksiksiz olarak yerine getirmesine rağmen alacağının 136.000,00 TL’lik kısmının tahsil edilemediğini, borcun ödenmesi için davalıya gönderilen 23.11.2017 tarihli ihtarnamenin sonuçsuz kaldığını, alacağın tahsili için davalı aleyhine Ankara 14.
 
@@ -48,6 +52,8 @@ Davacı vekilinin istinaf başvurusunun HMK'nın 353/1-b.1 maddesi gereğince es
 
 ## İzmir BAM 22. HD 2023/340 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/865576500)
+
 Davalı ...
 
 …
@@ -65,6 +71,8 @@ Bornova 3. Noterliğinin 07.09.2017 tarih ve 30542 yevmiye numaralı ''Düzenlem
 Asıl davada davalı-karşı davacı / birleşen davada davacı .... Şti. vekilinin istinaf başvurusunun Hukuk Muhakemeleri Kanunu'nun 353/1-b-1 maddesi uyarınca ESASTAN REDDİNE …
 
 ## Antalya BAM 11. HD 2023/294 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/867098800)
 
 Davacı vekili dilekçesinde özetle; davalıların murisi ....’nin tahliyesi üzerine müvekkiline 08/06/2018 tarihinde yedi emin olarak teslim edilen menkul malların 23/03/2018-23/05/2018 tarihleri arasındaki yedi emin ücretinin ödenmediğini, tahsili için Antalya 9. İcra Müdürlüğü'nün ... Esas sayılı dosyası üzerinden girişilen icra takibi- ne itiraz edildiğini belirterek; itirazın iptaline ve %20 den az olmamak kaydıyla icra inkar tazminatına hükmedilmesine karar verilmesini talep etmiştir.
 
@@ -88,6 +96,8 @@ Davalı vekilinin İlk Derece Mahkemesi kararına ilişkin istinaf başvurusunun
 
 ## Sakarya BAM 7. HD 2023/72 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/856523700)
+
 Davacı vekili dava dilekçesinde özetle; davalı tarafından aleyhine Gölcük İcra Müdürlüğü'nün 2021/605 Esas sayılı dosyası ile kambiyo senetlerine özgü haciz yolu ile icra takibi yapıldığını, takibin dayanağının 07.11.2020 tarihli senet olduğunu, yanında ücretli işçi olarak çalıştığı Ensar İnşaat sahibi ...' nın inşaat yapıp sattığını, davacıya güvendiği için yapılan inşaatlardaki mesken ve işyerlerini satmak üzere kat karşılığı inşaat yaptığı davalı alacaklının kat irtifakı kurulan, Değirmendere Atatürk Mahallesinde yapılan inşaatta 1+1 meskenin satışı için tarafına Gölcük 1.
 
 …
@@ -104,6 +114,8 @@ Gölcük 1. Noterliği' nin 21.04.2016 tarih 02949 numaralı düzenleme şeklind
 
 ## İstanbul BAM 15. HD 2023/62 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/864299700)
+
 Sözleşmenin imzalanmasından itibaren işlemeye başlayacak ilk 6 ay proje tasdik süreci olacak, kat'i inşaat ruhsatı alınmasından itibaren 30 ayda inşaat teslim edilecektir." denilmekte ise de sözleşmelerin çeşitli hükümlerinde 3.1. maddede öngörülen sürelerin uzamasına yönelik hükümlere yer verilmiş olduğunu, sözleşmenin 3.2. maddesinde "İşbu sözleşmede bahsedilen süreler mücbir sebep hallerinde işlemez.", 3.3. maddesinde "Müteahhit kusuru olmaksızın resmi dairelerden (ilgili bakanlıklar, İstanbul Büyükşehir Belediyesi, İlçe Belediyeleri, ..., ..., ..., ..., ..., ..., ...
 
 A.Ş. vb.) kaynaklanan idari gecikmeler süreye ilave olunur.", 3.5. maddesinde "Bahsedilen süreler ancak inşaatla ve gerektiğinde pazarlama ve satışla alakalı vekaletnamelerin geçerli ve yeterli bir şekilde düzenlenip müteahhit tarafa tevdii ile başlar.", 3.6. maddesinde "Müteahhit tarafa işin süresi boyunca tevdi edilmesi lazım gelen ve işle alakalı olan vekaletname, muvafakatname, feragatname ve yetki evrakının tevdiindeki geciikmeler işin süresine ilave olunur.", 15.3. maddesinde "Yer teslimindeki gecikme, işbu sözleşmedeki işi ikmal süresi ve sözleşme süresine ilave edilecektir." hükümlerinin yer aldığını, yüklenicinin yükümlülüklerinin ifa zamanı belirlenirken söz konusu olabilecek mücbir sebep halleri, resmi dairelerden kaynaklanan idari gecikmeler arsa sahipleri tarafından gerekli vekaletnamelerin verilmesindeki gecikme ve yer teslimindeki gecikme söz konusu olduğunda bu sürelerin yüklenicinin edimi için sözleşmenin 3.1. maddesinde belirlenen sürelere eklenmesi ve yüklenicinin temerrüde düşüp düşmediğinin belirlenmesi gerekmekte olduğu, sözleşmede niteliği gereğince yüklenici üstlendiği işi kendisine duyulan güvene uygun olarak sadakat ve özenle yapmak, iş sahibine zarar
@@ -115,6 +127,8 @@ objektif süre sonunda da şayet yüklenici borcunu ifa etmemişse, ancak o vaki
 HÜKÜM: Gerekçesi yukarıda açıklandığı üzere;1-Davacılar vekilinin istinaf başvurusunun KABULÜNE, 2-Bakırköy 1. Asliye Ticaret Mahkemesi'nin 28/11/2019 tarih, 2015/1101 Esas, 2019/1216 Karar sayılı kararının KALDIRILMASINA …
 
 ## Konya BAM 5. HD 2022/1755 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/872355400)
 
 Davalı ... vekili davaya cevap dilekçesinde özetle; davacı şirket tarafından 15/01/2016 tarihinde Konya ... Noterliğinde ...
 
@@ -133,6 +147,8 @@ Noterliğinde 15/01/2016 tarihinde ... yevmiye sayılı vekaletname düzenlediğ
 
 ## Adana BAM 6. HD 2022/1676 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/843574400)
+
 DAVALI VEKİLİ CEVAP DİLEKÇESİNDE ÖZETLE: İşbu davanın taraflar arasında bulunan ... 18.
 
 …
@@ -144,6 +160,8 @@ Yine taraflar arasında imzalanan ek sözleşmenin 7. maddesinde "bu sözleşme 
 Vergi mevzuatı gereğince, davacı arsa sahibi tarafından ödenmesi gerekse de, tarafların özgür iradeleri ile imzalanan sözleşmede, müteahhidin sorumlu olacağını kararlaştırıldığından, arsa sahibi davacının sözleşmeye dayalı olarak doğan KDV'yi yükleniciden talep hakkı yerindedir (Yargıtay 15. Hukuk Dairesinin 28/11/2019 tarihli, 2019/337 Esas, 2019/4918 Karar sayılı kararı).
 
 ## İzmir BAM 14. HD 2022/1363 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/816997500)
 
 Davacı vekili yargılama sırasındaki yazılı ve sözlü beyanlarında özetle; "Taraflar arasındaki gayrimenkul satış ve borçlanma sözleşmesi gereğince; ... İli, ... İlçesi, ... ada, ... parsel zemin kat 28 nolu bağımsız bölüm (Ek 19 nolu deposu ile birlikte) 1.100.000 TL (KDV dahil) bedel karşılığında, davalı tarafından yapılarak satışının kararlaştırıldığı ancak davacı tüm satış bedelini ödediği halde, davalının süresinde edimine yerine getirmediği, davacının sözleşmesi gereğince gecikme tazminatına hak kazandığı, bu konuda yapılan icra takibine itiraz edildiği" iddiası ile davayı açmıştır.
 
@@ -163,6 +181,8 @@ Dava, yükleniciden haricen satın alınan bağımsız bölüme ilişkin tazmina
 
 ## Ankara BAM 31. HD 2022/1265 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/844867400)
+
 Davacı vekili; taraflar arasında alt yüklenici sözleşmesi imzalandığını, sözleşme gereğince ... ait olan sözleşmede belirtilen işe başlanılıp 03/11/2020 tarihinde eksiksiz şekilde işin tamamlandığını, tüm edimlerin yerine getirildiğini, yapılan iş edimleri karşılığında davalı kooperatife ait D tipi 22 nolu villanın mülkiyetinin Alt Yüklenici Sözleşmesine istinaden müvekkile devrinin talep edildiğini, ancak henüz devir işleminin gerçekleşmediğini ileri sürerek, davanın kabulüne, davalı adına kayıtlı ... nolu villanın tapu iptali ve müvekkil adına tescil edilmesini talep ve dava etmiştir.
 
 …
@@ -181,6 +201,8 @@ Bu durumda mahkemece şahsi hak temlikinin adi yazılı sözleşme ile yapılmas
 Somut uyuşmazlıkta davacı taşeron ile davalı yüklenici arasındaki sözleşme "alacağın temliki" mahiyetinde olup, bu sözleşmenin geçerli olması için TBK 183 maddesi uyarınca yazılı şekilde yapılması yeterlidir. Bu itibarla "Tam Yüklenici Sözleşmesi" ile davalı şirket tarafından davacıya verilmesi taahhüt edilen davaya konu taşınmazın tapusunun iptali ve davacı adına tescilinin istenmesine hukuki bir engel yoktur. Mahkemece işin esasına girilerek tarafların iddia ve savunmaları irdelenip, bildirdikleri toplanarak, hasıl olacak sonuç doğrultusunda hüküm kurulması gerekirken, somut olaya uygun düşmeyen gerekçe ile davanın reddine karar verilmesi hatalı olmuştur.
 
 ## Ankara BAM 27. HD 2022/255 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/740590500)
 
 Davacı vekili; müvekkilinin ... ilçesi 47624 ... 11 ... sayılı taşınmazdaki binaya ... cephe, cam giydirme ve dükkan doğramaları imalatı ve işçiliğini yaptığını, bu işlerin yapımı ve bedelinin ödenmesi için davalı ... ... Ltd.
 

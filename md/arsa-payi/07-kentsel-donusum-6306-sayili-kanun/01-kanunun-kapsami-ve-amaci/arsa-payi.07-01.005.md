@@ -22,6 +22,8 @@ uyari: "Derleyenin seçtiği alıntılardır; kararın tamamı değildir. Künye
 
 ## Danıştay 6. D. 2022/8199 E., 2022/10013 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/867139000)
+
 DAVANIN KONUSU : Ankara İli, Mamak İlçesi, …
 
 Mahallesi sınırları içerisinde bulunan …
@@ -31,6 +33,8 @@ Mahallesi sınırları içerisinde bulunan …
 parsel numaralı, 6306 sayılı Afet Riski Altındaki Alanların Dönüştürülmesi Hakkında Kanun kapsamına giren özel mülkiyete konu taşınmazların, üzerlerindeki yapılarla birlikte, proje alanındaki imar mevzuatına aykırı, ruhsatsız, iskânsız ve afet riski taşıyan, genel asayiş ve güvenlik yönünden sakıncalı yapıların tasfiye edilerek ulaşım ve altyapısıyla birlikte fen ve sanat kurallarına uygun, sağlıklı ve güvenli yaşam alanlarının oluşturulması amacıyla 2942 sayılı Kamulaştırma Kanununun 27 nci maddesi gereğince Mamak Belediye Başkanlığı tarafından acele kamulaştırılmasına ilişkin 05/10/2022 tarihli Resmi Gazete'de yayımlanan 04/10/2022 tarih, 6170 karar sayılı Cumhurbaşkanı kararının iptali istenilmektedir.
 
 ## Danıştay 6. D. 2021/2476 E., 2022/9765 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/863904100)
 
 DANIŞTAY SAVCISI …
 
@@ -51,12 +55,16 @@ Dava konusu işlemin uyuşmazlığa konu parsele ilişkin kısmının İPTALİNE
 
 ## Danıştay 6. D. 2018/8848 E., 2022/8947 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/859134700)
+
 Şehitkamil Belediyesi tarafından da dava konusu olan İpekyolu II. Etap Kentsel Dönüşüm ve Gelişim Proje Alanının belirlenmesinin gerekçelerinden biri olarak alanda yer alan yapıların genel olarak yığma yapı olup deprem yönetmeliğine aykırı, statik açıdan bütünlük arz etmeyen, aynı zamanda insan yaşamı için tehlike arz eden yapı niteliği taşımakta olduğu, mevzuat ve yönetmelik hükümlerine göre inşa edilmediği de belirtilmiştir. Bu durumun varlığı dava konusu alanın büyük bir bölümünde yıkım tamamlanmış olmasına rağmen, alanın çeperinde yer alan ve hava fotoğraflarından da anlaşılacağı gibi alan ile benzer özellikler gösteren konut alanlarında da keşif sırasında görülmüştür. Yapı güvenliği açısından sakınca teşkil eden yapılardan birinin de davacı konutu olduğunu belirtmek gerekir. Zaman içinde ihtiyaca göre yeni katlar eklenerek yapıldığı anlaşılan yapının..., üst katlarda düşey eksende taşıyıcı kolonların süreklilik göstermemesi, buna ek olarak, yatay eksende alt katlarda kirişlerin süreksizliği ve üst katların kirişlerden tamamen yoksun olması yapı güvenliği açısından sorunludur.
 Yapının düşeyde ve yatayda gösterdiği düzensizlik, maruz kalabileceği kuvvetler karşısında (örneğin deprem) düşey ve yatay etkileri aktaramayacağı için zarar görme olasılığını yüksek hale getirmektedir.
 
 ...Özetlemek gerekirse, dava konusu parselin de yer aldığı İpekyolu II. Etap Kentsel Dönüşüm ve Gelişim Alanı ilgili yasa maddesinde yer alan “eskiyen kent kısımlarının yeniden inşası ve deprem riskine karşı tedbirler almak” amaçları doğrultusunda dönüşüme konu olabilecek bir alan niteliği taşımaktadır.
 
 ## Danıştay 6. D. 2022/6861 E., 2022/8929 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/913992500)
 
 Yukarıda detaylarına yer verilen yasal düzenlemeler uyarınca, 6306 sayılı Kanun kapsamında Çevre, Şehircilik ve İklim Değişikliği Bakanlığının plan yapma yetkisinin "riskli yapı" olarak ilan edilen …
 
@@ -70,6 +78,8 @@ parsel sayılı taşınmazlara ilişkin nazım imar planı değişikliğini yapm
 
 ## Danıştay 6. D. 2022/5211 E., 2022/8551 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/857114400)
+
 Görülmekte olan tam yargı davası, iki ayrı kategoride toplanması mümkün olan idari tasarruflar nedeniyle açılmış bulunmaktadır. Olayda, söz konusu taşınmazla ilgili 6306 sayılı Kanun kapsamında cins değişikliğinin yapılmaması, İmar mevzuatı kapsamında ise yapı denetim sözleşmesinin onaylanması, yapı ruhsatı verilmesi ve yapı kullanma izin belgesi düzenlenmesinin, yetkili idari makamların tek taraflı irade açıklamasıyla sonuç doğuran kesin ve yürütülmesi zorunlu idari işlem niteliğini taşıdığı gibi bu işlemlerin icrası aşamasında ise, idarenin gerekli inceleme ve denetimi yapmaması nedeniyle aynı zamanda idari eylem niteliği de taşımaktadır.
 
 …
@@ -78,6 +88,8 @@ Davanın yukarıda özetlenen gerekçeyle süre aşımı nedeniyle reddine iliş
 
 ## Danıştay 6. D. 2019/555 E., 2022/7388 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/810129000)
+
 Bu durumda, 2023 Başkent Ankara Nazım İmar Planında öngörülen Kentsel Dönüşüm ve Gelişim Alanları Ana Planı yapılmadan ve alanın plansız gelişen, fiziki ve sosyal çevre koşulları sağlıksız ya da afet riski olan bölgeleri kapsadığına ya da bu kapsamdaki hangi alanların dönüştürülmesi amacıyla tesis edildiği nesnel, teknik ve bilimsel veri, tespit ve analizlerle ortaya konulamayan dava konusu kentsel dönüşüm ve gelişim proje alanı sınırının belirlenmesine ilişkin işlemde hukuka uyarlık görülmediğinden karar düzeltme isteminin kabulüyle mahkeme kararının bozulması gerektiği düşünülmektedir.
 
 …
@@ -85,6 +97,8 @@ Bu durumda, 2023 Başkent Ankara Nazım İmar Planında öngörülen Kentsel Dö
 Davanın reddi yolunda ... İdare Mahkemesince verilen ... tarihli, E:..., K:... sayılı kararın davacılar tarafından temyiz edilmesi üzerine Dairemizin 18/09/2018 tarihli, E:2016/1362, K:2018/6863 sayılı kararı ile onandığı, davalı Ankara Büyükşehir Belediye Başkanlığı tarafından bu kez lehine olan bu karara karşı kararın düzeltilmesinin istenildiği ancak davanın reddi yolundaki kararın onanmasına ilişkin kararın düzeltilmesinde davalı idarenin hukuki yararı bulunmadığı anlaşıldığından istemin incelenmesine olanak bulunmamaktadır.
 
 ## Danıştay 6. D. 2021/1938 E., 2022/6723 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/880713700)
 
 İSTEMİN ÖZETİ : Kocaeli ili, Gebze ilçesi, …
 
@@ -122,6 +136,8 @@ sayılı kararın, usul ve hukuka aykırı olduğu ileri sürülerek bozulması 
 
 ## Danıştay 6. D. 2021/1677 E., 2022/6722 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/880714400)
+
 İSTEMİN ÖZETİ : Kocaeli İli, Gebze İlçesi, …
 
 …
@@ -156,6 +172,8 @@ sayılı kararın, usul ve hukuka aykırı olduğu ileri sürülerek bozulması 
 
 ## Danıştay 6. D. 2022/2962 E., 2022/6607 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/878985300)
+
 Bakılan davanın, Ankara İli, Çankaya İlçesi, …
 
 …
@@ -168,6 +186,8 @@ sayılı Toplu Konut İdaresi Başkanlığı işleminin iptali istemiyle açıld
 
 ## Danıştay 6. D. 2022/2994 E., 2022/6171 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/830635200)
+
 Dosyanın incelenmesinden; davacılar tarafından, hissedarı oldukları İzmir İli, Gaziemir İlçesi, …
 
 …
@@ -178,6 +198,8 @@ Resmi Gazete'de yayımlanan anılan Yönetmelikte Değişiklik Yapılmasına Dai
 15/12/2012 tarih ve 28498 sayılı Resmi Gazete'de yayımlanan 6306 sayılı Afet Riski Altındaki Alanların Dönüştürülmesi Hakkında Kanun'un Uygulama Yönetmeliği'nin "Riskli yapıların tespiti ve itiraz" başlıklı 7. maddesinde …
 
 ## Danıştay 9. D. 2021/1837 E., 2022/4001 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/908725000)
 
 İlk Derece Mahkemesi kararının özeti: ...
 
@@ -197,6 +219,8 @@ Davanın yukarıda özetlenen gerekçeyle kısmen kabulü, kısmen ehliyet yön�
 
 ## Danıştay 6. D. 2019/14335 E., 2022/3807 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/801133600)
+
 Bu doğrultuda, uyuşmazlık konusu taşınmazların içinde yer aldığı imar adasının bütünü konut alanı kullanımında kalmakta iken; imar adası içindeki tek bir parsele ticaret, ticaret+konut işlevleri getirilmesinin teknik gerekçesinin belirsiz olduğu, kamu yararını zorunlu kılan bilimsel ve nesnel gerekçelerin ortaya konulamadığı, her ne kadar dava konusu nazım imar planlarına ait plan açıklama raporlarında; depreme dayanıksız riskli yapıların dönüşümünün sağlanabilmesi için yapı sahiplerini teşvik etmek amacıyla taşınmazlara ticaret işlevi getirildiği ve bölgenin ticaret gereksiniminin karşılanmasının amaçlandığı şeklinde yüzeysel ifadelere yer verilerek, söz konusu kullanım kararının gerekçesi açıklanmaya çalışılmış ise de; bütüncül mekan kurgusu oluşturmaktan uzak şekilde ve herhangi bir etüt ve analize dayanmaksızın tek bir parsele özgü şekilde ticaret+ konut kullanımı getirilmesinin, depreme dayanıksız yapı stoğunun yenilenmesi ve kentsel yaşam kalitesinin artırılmasının amaçlandığı 6306 sayılı Kanun kapsamında yapılan imar planı değişikliğinin gerekçesini ortaya koymaya yeterli olduğunun kabul edilmesi mümkün değildir.
 Kaldı ki üst 1/25.000 ölçekli nazım imar planı kararları gözetilmeksizin getirilen ticaret işlevinin planlama hiyerarşisine de uygun olmadığı anlaşılmaktadır.
 
@@ -208,9 +232,13 @@ Dava konusu işlemin yukarıda özetlenen gerekçeyle iptaline ilişkin Mahkeme 
 
 ## Danıştay 6. D. 2020/10800 E., 2022/1325 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/764715300)
+
 6306 sayılı Afet Riski Altındaki Alanların Dönüştürülmesi Hakkındaki Kanun kapsamında kalan alanlarda yapılan inşaatlara ilişkin olarak imzalanan kat karşılığı inşaat sözleşmelerinin feshi konusunda kat malikleri tarafından alınan kararlara istinaden idareye başvurulması durumunda, idare tarafından, 6306 sayılı Kanun ve bu Kanunun Uygulama Yönetmeliğinde belirtilen usul ve esaslar çerçevesinde başlanmış olan inşaatların en az altı aydan beri devam etmediğinin tespit edilmesi üzerine, inşaatın devam etmeme nedenlerinin ve bu nedenlerin müteahhitten kaynaklanıp kaynaklanmadığının araştırılması ve inşaatın devamının müteahhitten kaynaklandığının belirlenmesi ve de inşaatın devamının sağlanamaması halinde sözleşmenin feshine karar verilebileceği açıktır.
 
 ## Danıştay 9. D. 2019/5374 E., 2022/1029 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/798997700)
 
 Yukarıda yer verilen mevzuat hükümlerinin değerlendirilmesinden, gayrimenkullerin ivaz karşılığında devir ve iktisabının tapu harcına tabi olduğu, ancak 6306 sayılı Kanun uyarınca yapılacak devir ve tescillerin vergi ve harçtan müstesna olduğu, vergiden istisna olan işlemlerden vergi alınmasının ise mevzuda hata olduğu ve dava konusu taşınmazların satışına ilişkin ödenen tapu harcının istisna kapsamında değerlendirilmesi halinde olayda vergi hatası bulunduğunun da kabulü gerektiği sonucuna ulaşılmaktadır.
 
@@ -221,6 +249,8 @@ Olayda; dava konusu tapu harcının, Yüreğir Belediye Başkanlığı'nın mül
 2\. ... Bölge İdare Mahkemesi ... Vergi Dava Dairesinin ... tarih ve E:..., K:... sayılı kararının BOZULMASINA …
 
 ## Danıştay 6. D. 2016/2730 E., 2022/731 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/753880400)
 
 İlk Derece Mahkemesi kararının özeti:
 Temyize konu kararda; dava konusu kentsel dönüşüm sınırının belirlenmesinde, hangi kriterlerin dayanak alındığının belirlenebilmesi amacıyla Mahkemece yapılan ara kararı üzerine davalı idarece gönderilen dava konusu taşınmazların kapsamında yer aldığı kentsel dönüşüm ve gelişim projesi açıklama raporunda; bölgenin mevcut koşullarının tam anlamıyla ortaya konulmadığı, alandaki kentsel dönüşümün amacının bölgenin mevcut koşulları çerçevesinde açıklanmadığı, kentsel dönüşüm alanı sınırı tespit edilirken hangi kriter veya kriterlere uyulduğunun açık olmadığı, bunun yanında kentsel dönüşümle birlikte bu alanın için öngörülen kullanım kararlarının belirsiz olduğu, bu duruma göre; kentsel dönüşüm alanı sınırı tespit edilirken hangi kriter veya kriterlere uyulduğunun açık olmadığı ve sonrasında bu alanın, hangi kullanımlara dönüşeceğinin belirtilmediği gibi yargılamanın devamı sırasında da ara kararı ile sorulmasına rağmen bu hususlara ilişkin davalı idarece sunulan bilgi ve belgelerin bu konulara açıklık getirmememesi karşısında dava konusu işlemde hukuka ve mevzuata uyarlık bulunmadığı sonucuna varılarak dava konusu işlemin iptaline karar verilmiştir.
@@ -239,6 +269,8 @@ Dava konusu işlemin yukarıda özetlenen gerekçeyle iptaline ilişkin temyize 
 
 ## Danıştay 6. D. 2021/7002 E., 2022/627 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/754010100)
+
 Dava konusu istem: İstanbul İli, Bakırköy İlçesi, ...pafta, ...ada, ...parsel sayılı taşınmazda riskli alan kapsamında olduğundan bahisle 6306 sayılı Afet Riski Altındaki Alanların Dönüştürülmesi Hakkında Kanun uyarınca inşa edilen yapıdan dolayı davacıdan 19/08/2014 tarihinde 1.500.000,00-TL tutarında avans nitelikli tadilat ruhsat harcı tahsil edilmesinden sonra davacının yeni ruhsat almak için yaptığı başvuru üzerine, davalı idare tarafından 02/09/2016 tarihinde 343.945,00-TL teknik eleman-mimari proje ve statik proje tasdik ücreti, 05/09/2016 tarihinde 2.104.126-TL muayene ücreti, 07/09/2016 tarihinde ise 1.077.965,00-TL yeni yapı tadilat inşaat harcı tahakkuk ettirilerek tahsil edilmesi üzerine, tahsil edilen ilk ödemenin sonraki ücretlerden mahsup edilmesi gerekirken edilmediği ileri sürülerek 1.500.000,00 TL'nin yasal faizi ile iadesine karar verilmesi istemiyle görülmekte olan dava açılmıştır.
 
 …
@@ -246,6 +278,8 @@ Dava konusu istem: İstanbul İli, Bakırköy İlçesi, ...pafta, ...ada, ...par
 Davanın yukarıda özetlenen gerekçeyle kabulüne ilişkin Mahkeme kararına yönelik olarak yapılan istinaf başvurusunun reddi yolundaki temyize konu ...Bölge İdare Mahkemesi .... İdari Dava Dairesinin ...tarih ve E:..., K:...sayılı kararının BOZULMASINA …
 
 ## Danıştay 6. D. 2019/13097 E., 2021/12683 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/723897400)
 
 16/02/2019 tarihli, 30688 sayılı Resmi Gazetede yayımlanan 6306 sayılı Kanunun Uygulama Yönetmeliğinde Değişiklik Yapılmasına Dair Yönetmeliğin kapsam başlıklı 1. maddesinde; bu esasların, 16/5/2012 tarihli 6306 sayılı Afet Riski Altındaki Alanların Dönüştürülmesi Hakkında Kanun kapsamında Riskli Binaların tespit edilmesinde kullanılacak kuralları içerdiği, bulunduğu coğrafi nokta için Bölüm 2’de tanımlanan deprem tehlikesi altında yıkılma veya ağır hasar görme riski yüksek olan binanın Riskli Bina olarak tanımlandığı, riskli binanın tespiti için uygulanacak değerlendirme kurallarının bu esaslarda verildiği belirtilmiştir. Yönetmeliğin iptal istemine konu "Deprem Tehlikesi" başlıklı 2.3 maddesinde "Riskli yapı tespitlerinde yapının bulunduğu zemin sınıfı, zemin etüdü ile belirlenecektir.
 Sahada zemin etüdü yapılmasına olanak olmayan durumlarda (bitişik nizamlı binalarda yeterli çalışma alanının bulunmaması, altyapı şebeke sistemlerinin yoğun olması, yeraltı ulaşım ağının bulunması, vb.) ise zemin sınıfı, yapının bulunduğu zeminde daha önce yapılmış olan zemin etütlerine göre veya yapının bulunduğu zemin özelliklerini temsil eden en yakın bölgede daha önce yapılmış veya yeni yapılacak olan zemin etütlerine göre belirlenecektir" kuralı getirilmiştir. Davacı tarafından zemin sınıfının sismik, elekrik, mikrotremör vb jeofizik çalışmalarla belirleneceğine ilişkin ölçümler her parselde uygulanabilecekken sadece sondaj yönteminin öngörüldüğü, deprem yönetmeliğinde öngörülen üç farklı parametreye göre yerel zemin sınıfının belirlenmesi gerektiği iddia edilmekte ise de; Yönetmeliğin 2.4. maddesinde zemin sınıfına göre üç farklı yöntem önerildiği, ayrı ayrı üç parametre ve parametre aralıklarına yer verildiği, yönetmeliğin esasen zemin etüdünü zorunlu kılmış olması karşısında bu etüdün uygulama yönteminin ayrıntısına yer verilmemesi eksik düzenleme olarak görülmemiştir.
@@ -257,6 +291,8 @@ Dava Konusu Yönetmeliğin EK-2'sinde yer alan Riskli Yapıların Tespit Edilmes
 
 ## Danıştay 6. D. 2020/791 E., 2021/12572 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/725366300)
+
 DAVANIN KONUSU : Trabzon İli, Of İlçesi, ... Mahallesi, ... ada, ... parsel sayılı taşınmazın kentsel dönüşüm çalışmaları kapsamında yapımı planlanan millet bahçesi projesinin uygulamaya geçirilmesi amacıyla Of Belediye Başkanlığı tarafından 2942 sayılı Kamulaştırma Kanununun 27. maddesi uyarınca acele kamulaştırılmasına ilişkin 04/10/2019 tarih ve 30908 sayılı Resmi Gazete'de yayımlanan 03/10/2019 tarih ve 1597 sayılı Cumhurbaşkanı Kararının iptali istenilmektedir.
 
 …
@@ -264,6 +300,8 @@ DAVANIN KONUSU : Trabzon İli, Of İlçesi, ... Mahallesi, ... ada, ... parsel s
 Bu durumda; proje alanının afet anında kentin toplanma alanı olarak kullanılmasının amaçlandığı, olağan kamulaştırma usulü uygulandığı takdirde sürecin uzayacağı, olası afet durumunda mevcut durumun risk oluşturacağı, bölge bütünlüğünde işlem tesisinin zorunlu olduğu, bahse konu alanda ikamet eden vatandaşlar için yapılmak istenen millet bahçesi projesinde yukarıda ayrıntılı olarak belirtilen gerekçeyle kamu yararının varlığı da açık olup, projenin bütünselliği kapsamında davaya konu projenin bir an önce tamamlanmasında acelelik halinin bulunduğu sonucuna varıldığından, taşınmaza el konulmasına imkan veren dava konusu Cumhurbaşkanı kararında hukuka aykırılık bulunmadığından davanın reddine karar verilmesi gerektiği düşüncesiyle çoğunluk kararına katılmıyorum.
 
 ## Danıştay 6. D. 2018/6004 E., 2021/11681 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/706387400)
 
 İSTEMİN ÖZETİ : Kuzey Ankara Girişi Kentsel Dönüşüm Projesi kapsamında yapılan sözleşme sonucu sözleşmenin ekindeki kıymet takdir raporunda yapı bedelinin 12.737,00-TL olarak tespit edilmesine rağmen bu miktarın %10'u olan 1.274,00-TL'nin ödendiği, ödenmeyen 11.463,00-TL'nin ödenmesi istemiyle yaptıkları 07/05/2014 tarihli başvurunun zımnen reddine ilişkin işlem ile bu işlemin dayanağı olan Ankara Büyükşehir Belediye Başkanlığı'nın …
 
@@ -293,6 +331,8 @@ sayılı kararın, usul ve hukuka aykırı olduğu ileri sürülerek bozulması 
 
 ## Danıştay 6. D. 2020/956 E., 2021/11638 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/717887100)
+
 Mülkiyet hakkı yalnızca kamu yararının mevcut olduğu durumlarda kanunla sınırlanabilir. 6306 sayılı Afet Riski Altındaki Alanların Dönüştürülmesi Hakkında Kanun kapsamında da kanunda sayılan idarelerce mülkiyet hakkına sınırlama getirilebilecektir. Ancak, bu yetkinin kullanımında da kamu yararını ilgilendiren durumun açık ve somut bir şekilde ortaya konulması gerekmektedir.
 
 Bir alanın zemin veya üzerindeki yapılaşma sebebiyle can ve mal kaybına yol açma riski taşıması sebebiyle "Riskli Alan" olarak ilan edilebilmesi için mutlaka zemin ve yapıların fiili durumları incelendikten sonra hazırlanacak teknik bir rapor ile ortaya konulması; üzerindeki toplam yapı sayısının en az %65’i imar mevzuatına aykırı olan veya yapı ruhsatı alınmaksızın inşa edilmiş olmakla birlikte sonradan yapı ve iskân ruhsatı alan yapılardan oluşan alanlarda ise uygulama bütünlüğü gözetilmek suretiyle belirtilen şartların oluştuğunun açık ve somut şekilde ortaya konulması gerekmektedir.
@@ -303,6 +343,8 @@ Dava konusu, Sinop İli, Boyabat İlçesi, … Mahallesi sınırları içerisind
 
 ## Danıştay 6. D. 2020/9871 E., 2021/10346 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/697407600)
+
 DAVANIN KONUSU : 6306 sayılı Kanun uyarınca 24/12/2012 tarihli, 2012/4099 sayılı Bakanlar Kurulu kararı ile ilan edilen riskli alan kararı kapsamında kalan İstanbul İli, Gaziosmanpaşa İlçesinde bulunan taşınmazların, Gaziosmanpaşa Belediye Başkanlığı tarafından 2942 sayılı Kamulaştırma Kanununun 27. maddesi uyarınca acele kamulaştırılmasına ilişkin 10/04/2016 tarih ve 29680 sayılı Resmi Gazete'de yayımlanan 14/03/2016 tarihli, 2016/8598 sayılı Bakanlar Kurulu kararının, ... Mahallesi, ... ada, ... parsel sayılı taşınmaz yönünden iptali istenilmektedir.
 
 …
@@ -310,6 +352,8 @@ DAVANIN KONUSU : 6306 sayılı Kanun uyarınca 24/12/2012 tarihli, 2012/4099 say
 Bu durumda; 24/12/2012 tarihli, 2012/4099 sayılı Bakanlar Kurulu Kararının ... ada, ... parsel sayılı taşınmaza ilişkin kısmın yürürlükte olması ve dava konusu acele kamulaştırma kararının riskli alan kararına dayanılarak tesis edilmiş olması karşısında, riskli alan olarak ilan edilen bölgede gerçekleştirilecek projelerde, acelelik hali bulunduğundan dava konusu acele kamulaştırma kararında hukuka aykırılık bulunmadığı gerekçesiyle davanın reddine karar verilmesi gerektiği düşüncesiyle …
 
 ## Danıştay 6. D. 2020/11357 E., 2021/10336 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/706416900)
 
 DAVANIN KONUSU : 6306 sayılı Kanun uyarınca 23/10/2019 tarih ve 1694 sayılı Cumhurbaşkanı Kararı ile ilan edilen riskli alan kararı kapsamında kalan Ankara İli, Altındağ İlçesi, …
 
@@ -324,6 +368,8 @@ parsel sayılı taşınmaz yönünden iptali istenilmektedir.
 Bu durumda, davacılara ait taşınmazın da aralarında bulunduğu taşınmazların 2942 sayılı Kamulaştırma Kanununun 27. maddesi uyarınca acele kamulaştırılmasına ilişkin dava konusu işlemde hukuka uyarlık bulunmadığından dava konusu işlemin iptaline karar verilmesi gerektiği düşüncesiyle aksi yöndeki Dairemizin çoğunluk kararına katılmıyorum.
 
 ## Danıştay 6. D. 2018/3374 E., 2021/10168 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/704524000)
 
 DANIŞTAY TETKİK HAKİMİ …
 

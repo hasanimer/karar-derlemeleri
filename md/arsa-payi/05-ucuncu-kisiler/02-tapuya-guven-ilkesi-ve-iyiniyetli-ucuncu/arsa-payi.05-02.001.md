@@ -60,9 +60,13 @@ Davacı vekilinin temyiz itirazlarının kabulü ile direnme kararının yukarı
 
 ## Yargıtay HGK 2025/563 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1175083800)
+
 Oysa haciz şahsi bir haktır ve haciz hakkı sahibi ... Türk Katılım Bankası A.Ş'nin alacağı TMK'nın 1023. maddesinde ayni hak sahibi iyiniyetli üçüncü kişi için düzenlenen korumadan faydalanamaz. Öte yandan haciz ancak haciz tarihinde gerçekten takip borçlusuna ait olan taşınmazlar üzerine konulabilir.
 
 ## Yargıtay HGK 2024/107 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1012700900)
 
 1\.
 
@@ -84,6 +88,8 @@ Asıl davada davacı- karşı davada davalı vekilinin temyiz itirazlarının ka
 
 ## Yargıtay HGK 2023/1082 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/978429300)
+
 Davacı vekili dava dilekçesinde; davalılar ..., ... ve dava dışı arsa sahiplerinin ... ili ... ilçesi, 31201 ada 4 parselde bulunan arsa için ... 4.
 
 …
@@ -99,6 +105,8 @@ Belirtmek gerekir ki, düzenlenen arsa payı karşılığı inşaat sözleşmesi
 Yukarıda açıkladığım nedenlerle mahkemece davanın reddine karar verilmesi ispat yükü kurallarına uygun olup direnme hükmünün onanması gerektiği görüşünde olduğumdan özel daire kararı gibi bozma yönünde oluşan değerli çoğunluk görüşüne katılamıyorum.
 
 ## Yargıtay HGK 2022/909 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/790217600)
 
 4\.
 
@@ -118,6 +126,8 @@ Davalı vekilinin temyiz itirazlarının kabulü ile, direnme kararının yukar�
 
 ## Yargıtay HGK 2022/180 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/762868100)
+
 Nama ifa yüklenici açısından tazminat niteliğinde olmasına rağmen, arsa sahibinin ifa menfaatini sözleşmedeki şartlara uygun olarak sağladığından arsa sahibi yönünden aynen ifa niteliğindedir. Nama ifa, sözleşmenin aynen ifası kapsamında olduğundan, nama ifaya izin davası açılmış olsa dahi sözleşme feshedilmediği ve sözleşmeden dönülmediği için arsa sahibi nama ifa ya da nama ifaya izin talebiyle birlikte mülga BK’nın 106/2. maddesinde öngörülen gecikme tazminatı ile şayet sözleşmede kararlaştırılmış ise, ifaya ekli cezaî şartı da kararın kesinleşmesinden itibaren nama ifanın yapılabileceği makul sürenin sonuna kadar isteyebilecektir.
 
 Arsa payı karşılığı inşaat sözleşmelerinde, arsa sahibi mahkemeden istediği nama ifaya izin talebinde; yapacağı işlerin karşılığı paranın avans olarak depo edilmesini; iskân ruhsatı (yapı kullanma izin belgesi) alma yetkisi yükleniciye bırakılmışsa bu yetkinin arsa sahibine verilmesini; giderlerin yüklenici tarafından depo edilmesi mümkün değilse, yükleniciye bırakılan bağımsız bölümlerin veya yüklenici adına bağımsız bölüm yoksa yükleniciden bağımsız bölüm satın alan üçüncü kişiler adına kayıtlı bağımsız bölümlerin satılarak giderlerinin karşılanmasına karar verilmesini talep etmelidir.
@@ -127,6 +137,8 @@ Arsa payı karşılığı inşaat sözleşmelerinde, arsa sahibi mahkemeden iste
 Asıl ve birleşen davada davacılar vekilinin temyiz itirazlarının kabulü ile direnme kararının yukarıda gösterilen değişik gerekçe ve nedenlerden dolayı, 6217 sayılı Kanun’un 30. maddesi ile 6100 sayılı Hukuk Muhakemeleri Kanunu’na eklenen “Geçici Madde 3” atfıyla uygulanmakta olan 1086 sayılı Hukuk Usulü Muhakemeleri Kanunu’nun 429. maddesi gereğince BOZULMASINA …
 
 ## Yargıtay HGK 2017/1435 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/386876800)
 
 Mahkemece; asıl davada tapu iptali ve tescil isteminin reddine, tazminat isteminin kabulüne, birleştirilen davanın ise kabulüne karar verilmiştir.
 
@@ -145,6 +157,8 @@ Düzenlenen arsa payı karşılığı inşaat sözleşmesi ile yüklenici arsa p
 SONUÇ: Davacı ... vekilinin temyiz itirazlarının kabulü ile direnme kararının Özel Daire bozma kararında gösterilen nedenlerden dolayı BOZULMASINA …
 
 ## Yargıtay HGK 2016/181 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/185670100)
 
 Davalılar, davanın reddini savunmuşlardır.
 
@@ -170,6 +184,8 @@ SONUÇ: Davacı vekilinin temyiz itirazlarının reddi ile direnme kararının y
 
 ## Yargıtay HGK 2005/419 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/76814300)
+
 Davalı, davanın reddini savunmuştur.
 
 Mahkemece davanın kabulüne karar verilmiş, hükmü davalı vekili temyiz etmiştir.
@@ -183,6 +199,8 @@ Kural olarak arsa maliki ile yüklenici arasında kat karşılığı inşaat yap
 S O N U Ç :Davalı vekilinin temyiz itirazlarının kabulü ile, direnme kararının Özel Daire bozma kararında gösterilen nedenlerden dolayı H.U.M.K.nun 429.maddesi gereğince BOZULMASINA …
 
 ## Yargıtay HGK 2001/330 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/16635800)
 
 Kural olarak yüklenici ile arsa sahibi arasında kat karşılığı inşaat yapılması hususunda sözleşme düzenlendiğinde ve sözleşme koşulları yerine getirildiğinde yüklenici kişisel hak kazanır.Yüklenici bu kişisel hakka dayanarak arsa sahibinden sözleşme uyarınca kendisine bırakılan bağımsız bölümlerin mülkiyetlerinin adına nakledilmesini isteyebilir veyahutta Borçlar Yasasının 162 ve izleyen maddeleri uyarınca yazılı olmak koşulu ile arsa sahibinin rıza ve muvafakatını almaya gerek görmeden sözkonusu kişisel hakkını üçüncü kişilere temlik edebilir.Üçüncü kişi de gerek sözleştiği yükleniciye ve gerekse arsa sahibine karşı temellük ettiği bu kişisel hakkı ileri sürme olanağına sahiptir.Bu nedenledir ki, kendisine satılan bağımsız bölüm veya bölümlerin mülkiyetlerinin adına nakledilmesini isteyebilir.Yüklenici veya ondan bağımsız bölüm satın alan kişinin tescil isteyebilmeleri için yüklenicinin edimini eksiksiz yerine getirmiş olması gerekir.Eğer yüklenici edimlerini tamamen yerine getirmemiş ise ve bu noksan bıraktığı işler de pek az bir boyutta bulunur.Bir başka anlatımla arsa sahipleri tarafından tahammülü mümkün ölcülerde eksiklik kalırsa; bu eksikliklerin tamamlanması veya tutarının
 para olarak ödenmesi suretiyle noksanlığın karşılanması hallerinde bağımsız bölüm alan bu kişi veya kişilerin tescil isteme haklarının varlığı kabul edilebilir.
@@ -241,6 +259,8 @@ Yukarıda 2. bentte açıklanan nedenlerle davacı vekilinin temyiz sebeplerinin
 
 ## Yargıtay 6. HD 2026/32 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1206986800)
+
 Davacı vekili dava dilekçesinde; müvekkilleri ile dava dışı müteahhit .... arasında ... 3. Noterliği'nin 08.03.2006 tarih ve ... yevmiye numaralı arsa payı karşılığı inşaat sözleşmesi ve ...
 
 …
@@ -257,6 +277,8 @@ TMK’nın 992. maddesi hükmü gereğince, arsa sahibinin bozucu yenilik doğur
 
 ## Yargıtay 6. HD 2025/4509 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1200678700)
+
 Anılan İçtihadı Birleştirme ve Dairemizin yeni içtihatları doğrultusunda Mahkemece yapılacak iş; davacı arsa sahiplerinin hükmü temyiz eden asıl davada davalı ...’in tapu sicilinde mülkiyeti devraldığı anda kötüniyetli olduğunun ispatı bakımından yani tapunun arsa payı karşılığı inşaat sözleşmesi gereğince yükleniciye devredildiğini ve sözleşmenin geriye etkili fesih koşullarının bulunduğunu bildiği veya bilmesi gerektiği hususunda ispata yarar delillerin ibrazının sağlanması, ibraz edilecek delillerin ile birlikte dosya arasında bulunan tüm bilgi ve belgeler birlikte incelenerek temyiz edenin mülkiyet hakkını kazanıp kazanamayacağı hususunun değerlendirilmesi ve sonucuna uygun karar verilmesidir.
 
 …
@@ -264,6 +286,8 @@ Anılan İçtihadı Birleştirme ve Dairemizin yeni içtihatları doğrultusunda
 Yukarıda (1), ve (3) numaralı bentlerde açıklanan sebeplerle, asıl davada davalılar ... ve ... A.Ş. vekillerinin, temyiz itirazlarının kabulü ile mahkeme kararının, adı geçen davalılar yararına BOZULMASINA …
 
 ## Yargıtay 6. HD 2025/4433 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1200342800)
 
 Davacı vekili dava dilekçesinde; davalılar ..., ..., ... ve ...'ın murisi ile davacı (temlik alan) yüklenici kooperatif arasındaki arsa payı karşılığı inşaat sözleşmesi uyarınca, davacı kooperatife isabet eden F blok 23 nolu bağımsız bölüm ile aynı blok 16 nolu bağımsız bölümün 1/2 hissesinin, mahkeme kararı ile kooperatif adına tesciline karar verildiğini ve kararın kesinleştiğini, ancak bu karardan önce, davalı ...'ın borcundan dolayı taşınmazların tapu kaydına, davalı alacaklı ... lehine hacizler konulduğunu, mülkiyet hakkı karşısında söz konusu hacizlerin geçerliliğinin kalmadığını ileri sürerek, anılan bağımsız bölümlerin davacı kooperatife ait olduğunun tespiti ile tapu kaydındaki hacizlerin ve diğer tüm kısıtlamaların kaldırılmasına karar verilmesini talep ve dava etmiştir.
 

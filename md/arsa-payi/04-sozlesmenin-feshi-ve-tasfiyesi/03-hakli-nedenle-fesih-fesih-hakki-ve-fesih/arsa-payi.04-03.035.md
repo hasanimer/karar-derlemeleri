@@ -22,6 +22,8 @@ uyari: "Derleyenin seçtiği alıntılardır; kararın tamamı değildir. Künye
 
 ## Yargıtay 15. HD 2006/3450 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/859501000)
+
 Borçlar Kanunu’nun 360/I. maddesine göre, yapılan şey iş sahibinin kullanamayacağı ve nispet kaidesine göre kabule icbar edilemeyecek derecede kusurlu ve mukavele şartlarına muhalif olursa, iş sahibi o şeyi kabulden imtina edebilir. Somut olayda mahkemece yapılan binanın projesine ve sözleşmeye uygun şekilde yapılmadığı, arsa sahipleri tarafından kabul edilemeyecek derecede ayıplı olduğu gerekçesi ile sözleşmenin feshine karar verilmiştir. Bu sonuca varılırken binanın güçlendirme maliyetinin toplam maliyetin %60’ına varması da dikkate alınmıştır. Dosyadaki bilgilerin ve raporların değerlendirilmesinden, davalı yüklenici ... tarafından sözleşme şartlarına uygun kabul edilebilecek nitelikte yasal inşaat yapılmadığı, bu nedenle iskân ruhsatı da alınamadığı, davacı arsa sahiplerinin BK.nun 360/I. maddesi uyarınca bu eseri kabule zorlanamayacakları sonucuna varılmaktadır. Bu durumda davacılar arsa sahipleri ve davalı yüklenici ... arasındaki gayrimenkul satış vaadi ve daire karşılığı inşaat sözleşmesinin geriye etkili olarak feshine karar verilmesi gerekir.
 Mahkemece yüklenici ... tarafından yapılan binanın arsa sahipleri tarafından kabul edilemeyecek derecede ayıplı olduğu kabul edildiği halde, arsa sahipleri ile yüklenici arasındaki gayrimenkul satış vaadi ve daire karşılığı inşaat sözleşmesinin geriye etkili yerine, geleceğe yönelik (ileriye etkili) olarak feshine karar verilmesi doğru olmamıştır.
 
@@ -30,6 +32,8 @@ Bu dosya ile birleştirilmesine karar verilen Elazığ 3. Asliye Hukuk Mahkemesi
 SONUÇ:Yukarıda 1. bentte açıklanan nedenlerle davacı arsa sahipleri ile birleşen davanın davacısı ... ...’in sair, diğer temyiz eden tarafların tüm temyiz itirazlarının reddine, 2. bent uyarınca temyiz olunan kararın davacı arsa sahipleri yararına, 3. bent uyarınca birleşen davanın davacısı ... ... yararına BOZULMASINA …
 
 ## Yargıtay 15. HD 2006/2639 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/859169500)
 
 2001 tarihinden itibaren 3,5 yıl içinde inşaatları tamamlayıp davalıya teslim edecektir. Dairemizin 27.12.2004 tarihli bozma ilamında belirtildiği üzere davacı yükleniciler sözleşmede kararlaştırılmasına rağmen sözleşmeye uygun şekilde ruhsat almadan inşaata başladıklarından sözleşmenin feshinde kusurludurlar. Feshi müteakip davacılar talebi ile mahallinde yaptırılan tesbite göre 12 adet parsel üzerine 26 adet meskeni kapsayacak şekilde inşaat yapımı planlanarak toplam 6 adet konutun inşaatına başlanmış, işin fesih tarihine kadar %5, 78 oranında ikmal edildiği belirlenmiştir. Dairemizin bozma ilamında inşaatın imara ve sözleşmeye uygun olup olmadığı, uygun hale getirilmesinin mümkün bulunup bulunmadığı, davalı arsa sahibinin işine yarayacak inşaat varsa bunun fesih tarihi itibariyle değerine hükmedilmesi gerektiği belirtilmiş, mahkemece bozmaya uyularak bilirkişi kurulundan 28.7.2005 tarihli rapor alınmıştır. Bilirkişi raporunda yapımına başlanan ancak yarım bırakılan binaların betonarme tabliyeli ve yığma olarak yapılmakta olduğu saptanmış ve bunun sözleşmeye uygun olduğu vurgulanmıştır. Yukarıda da değinildiği üzere sözleşmede öngörülen betonarme bina yapımıdır.
 Sözleşmede sadece betonarme ibaresinin yazılı olması karkas ifadesine yer verilmemiş bulunması nedeniyle bilirkişi kurulu betonarme tabliyeli ve yığma olarak yapılan bu binaların sözleşmeye uygun olduğunu belirtmişler ise de, davalı raporun bu kısmına teknik yönleri de içerir şekilde itiraz etmiş, yapılan binaların yığma olduğunu, betonarme yapılmaması nedeniyle sözleşmeye uygun olmadığını ileri sürmüş bulunmasına rağmen bu konuda bilirkişilerden ek rapor alınmadığı gibi ayrı bir bilirkişi incelemesi yaptırılması yoluna gidilmemiştir. Öncelikle davalı itirazları da nazara alınarak yapılan inşaatların niteliği itibariyle sözleşmeye uygun olup olmadığının kesin olarak saptanması gerekir. Yükleniciler tarafından sözleşmede betonarme inşaat yapılması kararlaştırıldığı halde sözleşme tarihinden önce alınan ve arsa sahibi adına olan ruhsata dayalı olarak yığma bina yapılmış olması halinde davalı sözleşmeye aykırı olarak yapılan bu işi nefaset kesilmesi yoluyla da olsa kabule zorlanamaz.
@@ -42,6 +46,8 @@ SONUÇ:Yukarıda (1).bentte yazılı nedenlerle davalının diğer temyiz itiraz
 …
 
 ## Yargıtay 15. HD 2006/2469 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/859403300)
 
 Davacı arsa sahipleri, yüklenici davalının sözleşme gereğince yüklendiği edimini ifa etmediğini; inşaatı %22,6 seviyede terk ettiğini ileri sürerek; öncelikle sözleşmenin feshi ile davalı yükleniciye sözleşme gereği temlik olunan ve onun tarafından da diğer davalılara temlik edilen pay kayıtlarının iptaliyle davacılar adına tapuya tesciline, menfi zararlarının ödetilmesine; tapu iptali ve tescile karar verilememesi halinde de temlik olunan arsa payları bedelinin ödetilmesine karar verilmesini istemişlerdir.
 
@@ -56,6 +62,8 @@ SONUÇ:Yukarda (1).bentte belirtilen nedenlerle davacıların sair temyiz itiraz
 
 ## Yargıtay 14. HD 2006/1235 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/851045300)
+
 Mahkemece, bina bitirilerek iskan ruhsatı alınmış hali ile arsa sahiplerine teslim edilmediğinden yüklenicilerin tescil istemiyle açtıkları davanın reddine, sözleşme 16.4.1999 tarihli ihtar ile feshedildiğinden bu tarihten sonra inşaatta eksikliklerin giderilmesi amacıyla yapılan harcamalar istenemeyeceğinden bu harcamalarla ilgili davanın reddine fesihten önce arsa sahibince ASKİ.ye yapılan harcama tutarı 272.201.400 liranın davacı ve karşı davalılardan tahsiline karar verilmiş, arsa sahiplerinin elatmasının önlenmesi ve geç teslimden ötürü kira kaybı zararı istemleri ile ilgili bir hüküm kurulmamış, hükmü taraflar temyiz etmiştir.
 
 …
@@ -68,6 +76,8 @@ Bu zarar alacaklının mal varlığının sözleşmeden dönmeden sonra içinde 
 SONUÇ: Yukarıda (1) bentte yazılı nedenlerle davacı-karşı davalının temyiz itirazlarının reddine, (2) bentte yazılı nedenlerle davalı karşı davacının temyiz itirazlarının kabulü ile hükmün BOZULMASINA …
 
 ## Yargıtay 15. HD 2005/4441 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/16436200)
 
 Dava, arsa payı karşılığı inşaat yapım sözleşmesinin feshi nedeniyle imalat bedelinin tahsili istemine ilişkindir.
 
@@ -82,6 +92,8 @@ Dosyadaki bilirkişi kurulu rapor ve ek raporları ile K......Belediye Başkanl�
 Sonuç: Yukarıda yazılı nedenlerle temyiz itirazlarının kabulü ile kararın davacı yararına (BOZULMASINA)
 
 ## Yargıtay 6. HD 2004/4978 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/16375100)
 
 Dava önalım hakkı nedeniyle payın iptali ve tescile ilişkindir.
 
@@ -98,6 +110,8 @@ Olayımızda; Davacı ve kardeşi ile Turan Günay, Burhan Günay, Selahattin Ak
 SONUÇ : Yukarıda açıklanan nedenle temyiz itirazlarının kabulü ile HUMK.nun 428. maddesi uyarınca hükmün BOZULMASINA ve istek halinde peşin alınan temyiz harcının temyiz edene iadesine …
 
 ## Yargıtay 15. HD 2003/2228 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/16312100)
 
 Kural olarak istisna (eser) sözleşmelerinin geçerliliği şekil koşuluna bağlı değildir. Sözlü olarak da istisna (eser) sözleşmesi bağıtlanabilir. Ancak bedel olarak taşınmaz mülkiyetinin devrini öngören istisna (eser) sözleşmeleri, mülkiyetinin nakli borcunu içerdikleri için resmi biçimde (MK eski 634 md. yeni 706 md, MK. 213. md, Tapu Kanunu 26. mad. Noterlik Kanununun 60. mad.) yapılmış olmadıkça geçerlilik kazanmazlar (BK. 11/11.md.). Edimlerin ifasından sonra, taraflardan birinin, sözleşmenin şeklen geçersizliğini ileri sürmesi iyiniyetle bağdaşmaz (MK. 2.md.) Somut olayda, taraflar arasında yapılan kat karşılığı inşaat sözleşmeleri yukarda açıklanan şekle uygun yapılmadığından geçersizdir. Tapuda pay devri yapılarak geçerlilik de kazandırılmamıştır. inşaatın seviyesi (%47) itibariyle, edinimin ifasından da sözedilemez.
 
@@ -181,6 +195,8 @@ Projesiyle ilgili esas sözleşmenin yapılması ve bunun dışında davalının
 Belediyesi Kentsel Dönüşüm Projesi İşi Sözleşmesinde, sabit hizmet bedelinin çalışmalar için sözleşmenin imzasından itibaren 30 gün içinde ilk çeyrek kısmının ödeneceği ve her dönem başında bir önceki dönem harcamalarına ilişkin KDV'nin kesileceği ve bir önceki döneme ait KDV tutarıyla yeni başlayacak döneme ilişkin ek 3'te yer alan harcama bütçesi kadar ödemenin fatura tarihinden itibaren 7 gün içinde yapılacağı ve ödeme yapılmasından sonra davacının, davalıya ödeme miktarınca teminat vereceğinin kararlaştırıldığı, sözleşmesinin 4. maddesinde, kentsel dönüşüm müşavirlik işleri ve sorumlulukların belirtildiği, buna göre; davacının sorumluluğunda bulunan tüm işlerin yerine getirildiği ve bu kapsamda davacı tarafından 08/05/2015 tarihinde KDV dahil 384.157,26 TL ve 287.774,86 TL olmak üzere toplam 671.932,12 TL bedelli iki faturanın düzenlendiği, iki faturanın KDV hariç değerinin ise 569.454,36 TL olduğu, faturaların her iki tarafın ticari defter ve kayıtlarında bulunduğu ve 569.454,36 TL'nin davacıya ödendiği ve bu miktarda ... A.Ş. ...
 
 ## Denizli BAM 4. HD 2026/962 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1205963100)
 
 Taraflar arasında resmi şekilde yapılmış arsa payı karşılığı inşaat sözleşmesi ilişkisi kurulmuş olup, sözleşmenin feshine ilişkin taraf iradelerinin buluşmaması halinde fesih mahkeme kararıyla neticelendirilecektir. İhtiyati tedbir talep eden taraf her ne kadar sözleşmeyi haklı sebeple feshettiğini belirtmekte ise de, tarafların iradesinin fesih hususunda birleştiğine dair dosya kapsamında bir delil bulunmadığından, talep tarihi itibariyle ve yargılama aşamasında sözleşme ilişkisi varlığını devam ettirmektedir. Halen varlığı devam eden sözleşme kapsamında yüklenicinin dava konusu taşınmazdan çıkarılması ve inşai her türlü faaliyete son verilmesi, yapılan yargılama sonucunda oluşacak mahkeme hükmünü peşinen elde etmeye matuf olduğu gibi, davacı tarafın iddiaları ve sözleşmenin feshi koşullarının oluşup oluşmadığı hususu bu aşamada yargılamayı gerektirmekte olup, ihtiyati tedbir talebinin reddine karar verilmesinde bir isabetsizlik bulunmamaktadır.
 

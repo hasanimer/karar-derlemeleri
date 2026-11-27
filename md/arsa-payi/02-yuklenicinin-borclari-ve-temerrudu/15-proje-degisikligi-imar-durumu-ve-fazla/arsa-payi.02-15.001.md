@@ -38,6 +38,8 @@ Asıl davada davalı-karşı ve birleşen davada davacı vekilinin temyiz itiraz
 
 ## Yargıtay HGK 2023/412 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/905167300)
+
 İlk Derece Mahkemesince verilen kararın davalılar vekilleri tarafından istinaf edilmesi üzerine, Bölge Adliye Mahkemesince davalı ...Ş. vekilinin vekâlet ücretine yönelik istinaf talebinin reddine, davalı ... Yapı End.
 
 …
@@ -59,6 +61,8 @@ A.Ş.’ye karşı davasının kabulü ile, sözleşmenin geçersizliğinin tesp
 Davacı vekilinin temyiz itirazlarının kabulü ile direnme kararının Özel Daire bozma kararında gösterilen nedenlerden dolayı 6100 sayılı Kanun’un 371 inci maddesi gereğince BOZULMASINA …
 
 ## Yargıtay HGK 2022/1714 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/862978500)
 
 Davalı ...
 
@@ -102,6 +106,8 @@ Davacı vekilinin yerinde görülmeyen tüm temyiz itirazlarının reddiyle usul
 
 ## Yargıtay 6. HD 2025/3385 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1181931900)
+
 Davacı vekili dava dilekçesinde; taraflar arasında düzenlenen 19.02.2016 tarihli arsa payı karşılığı inşaat sözleşmesinde, davalı yüklenici tarafından sözleşmenin düzenlenmesinden itibaren 9 ay içinde inşaat ruhsatının alınmaması halinde arsa sahibinin sözleşmeyi feshetmekte serbest olduğunun düzenlendiğini, davalı yüklenicinin bu sürede inşaat ruhsatını alamadığını, bu nedenle davacı arsa sahibinin maddi zarara uğradığını ileri sürerek, arsa payı karşılığı inşaat sözleşmesinden dönme ve fazlaya ilişki hakları saklı kalmak kaydıyla dönme nedeniyle uğranılan zararların tazminine karar verilmesini talep ve dava etmiştir.
 
 …
@@ -122,6 +128,8 @@ Sözleşmenin feshi başlıklı 7/g maddesinde ise “İşbu sözleşmenin imzal
 
 ## Yargıtay 6. HD 2025/109 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1123331100)
+
 Taraflar arasında harici olarak imzalanan 07.12.2001 günlü ek protokolün; 1. maddesinde, “Müteahhit arsa ve inşaatla ilgili olarak Belediye, Valilik ve diğer merciler nezdinde arsa sahibi adına gerekli olan işlemler için başvurmayı inşaat plan ve tadilatlarını yaparak iskân ruhsatını almayı, iskân talebi reddedilirse yetkili idare mahkemesinde iskân ruhsatı temin için dava açmayı, inşaatların teslimi için her türlü işi takip etmeyi ve sonuçlandırmayı kabul ve taahhüt etmektedir. Müteahhit en geç 31.12.2003 tarihine kadar hangi nedenle olursa olsun iskân iznini alamadığı takdirde arsa sahibine 40.000 USD tazminat ödemekle yükümlü olacaktır” hükmü öngörülmüş, 3. maddesinde ise müteahhit tarafından iskân ruhsatının alınması amacı ile yükleniciye isabet eden bazı bağımsız bölümler üzerinde ipotek tesis edileceği düzenlenmiştir. Aydın 2. İdare Mahkemesi'nin 1997/1670 Esas sayılı dava dosyasında ise, imar planının iptaline ilişkin karar Danıştay'ca 13.02.2001 günü onanmıştır. Görülüyor ki, davalı yüklenici imar planının iptal edildiğini bilerek, yukarıda anılan ek protokolü imzalamıştır.
 Her ne kadar resmi şekilde yapılan sözleşmeleri değiştiren veya ek düzenlemeler getiren sözleşmelerin de resmi şekilde yapılması gerekir ise de, taraflarca ek protokol gereğince yüklenicinin bağımsız bölümlerine ipotek tesis edilerek, sözleşme uygulanmaya başlandığından artık geçersizliğinin ileri sürülmesi iyiniyet kurallarına uygun düşmeyecektir. O halde, mevcut durumu bilerek ek protokolü imzalayan davalı yüklenicinin taahhüdünü yerine getirmemesi nedeniyle sorumlu olduğunun kabulü zorunludur. Bununla birlikte, mahkemece, ifa imkansızlığı nedeniyle dava reddedilmiş ise de, inşaata ilişkin iskân izinlerinin 03.04.2013 günü alındığı, yani ifanın imkansız olmadığı da açıktır.Yukarıda açıklanan nedenlerle, davanın kabulü yerine, yazılı gerekçelerle reddine karar verilmesi hatalı olmuş, kararın bozulması gerekmiştir" gerekçesiyle karar bozulmuştur.
 
@@ -130,6 +138,8 @@ Her ne kadar resmi şekilde yapılan sözleşmeleri değiştiren veya ek düzenl
 SONUÇ: Yukarıda açıklanan nedenlerle, İlk Derece Mahkemesi kararına ilişkin davalı vekilinin tüm temyiz sebeplerinin reddiyle usul ve kanuna uygun bulunan kararın ONANMASINA …
 
 ## Yargıtay 6. HD 2024/4441 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1122665700)
 
 İlk Derece Mahkemesince, dava konusu Adana ili, ........ ilçesi, ........... Mahallesi, 9081 Ada 2 Parselde kayıtlı taşınmazın sözleşmeden sonra çevresindeki parseller ile tevhit edilerek Adana ili, ........ ilçesi, .........
 
@@ -142,6 +152,8 @@ Kamu düzenine aykırılık hallerinin re'sen gözetildiği, istinaf nedenleriyl
 Gaziantep Bölge Adliye Mahkemesi 3. Hukuk Dairesi kararına ilişkin davalı .... vekilinin tüm temyiz istemlerinin reddiyle usul ve kanuna uygun bulunan kararın ONANMASINA …
 
 ## Yargıtay 3. HD 2024/3602 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1107660400)
 
 …
 
@@ -156,6 +168,8 @@ Temyiz olunan Bölge Adliye Mahkemesi kararının, 6100 sayılı Hukuk Muhakemel
 
 ## Yargıtay 6. HD 2024/892 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1058575500)
+
 Mahkemece bozma ilamına uyularak yapılan yargılamada; taraflar arasındaki sözleşmede dava konusu parsel üzerinde yapılacak inşaat ile ilgili enerji nakil hattının kaldırılması ve kaldırılmaması şeklinde alternatifli düzenleme yapıldığı, temyiz aşamasında enerji nakil hattının kaldırıldığı, sözleşmeye göre enerji nakil hattının kaldırılması halinde yapılacak olan 3. normal katın dubleks yapılacağının kararlaştırıldığı, ... Belediyesi İmar Müdürlüğü'nün cevabi yazısı ile, ...
 
 …
@@ -165,6 +179,8 @@ Kamu düzenine aykırılık halleri ile uyulan bozma ilamının içeriği ve usu
 SONUÇ: Yukarıda açıklanan nedenlerle Bakırköy 15. Asliye Hukuk Mahkemesinin kararına ilişkin, davalı vekilinin tüm temyiz itirazlarının reddiyle usul ve kanuna uygun bulunan hükmün ONANMASINA …
 
 ## Yargıtay 6. HD 2023/2356 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/928571100)
 
 Davacı vekili dava dilekçesinde; müvekkili ile davalı yüklenici arasında imzalanan Bodrum 5. Noterliği’nin 22/03/2013 tarihli kat karşılığı inşaat sözleşmesine göre yüklenicinin sözleşmede taahhüt ettiği inşaat alanından daha fazlasını 01/06/2013 tarihinde Resmi Gazetede yayınlanan Planlı Alanlar Tip İmar Yönetmeliğinde yapılan değişiklikten faydalanarak yaptığını, ilave inşaat hakkının %25 olduğunu, ancak sözleşmede imar durumunda daha yüksek bir inşaat izni verildiği takdirde arsa payına göre maliklere hisse verileceğinin kararlaştırılmış olmasına karşın müvekkiline artıştan hisse verilmediğini, müvekkiline verilmesi gereken arsa payı hissesine karşılık gelen alacaklarının davalıdan tahsiline karar verilmesini talep etmiştir.
 
@@ -181,6 +197,8 @@ Kat dahil) bu metraj dışında kalan katlar ve çatı arasının da taahhüdün
 Temyiz olunan Bölge Adliye Mahkemesi kararının 6100 sayılı Kanunun 370 nci maddesinin birinci fıkrası uyarınca BOZULMASINA …
 
 ## Yargıtay 6. HD 2023/777 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/894422500)
 
 Davacı vekili dava dilekçesinde özetle; taraflar arasında 12.05.2008 tarihli sözleşme imzalandığını, ruhsatların 17.07.2008 tarihinde alındığını, sözleşme ve eki uygulama projesine uygun imalat yapılırken davalı tarafından onaylı proje ve ruhsatlara aykırı bir kısım imalatlar ile sözleşme ve eki teknik şartnamede yer almayan ancak proje ve ruhsatlara aykırılık arz etmeyen bir kısım ilave işlerin daha yapılmasının talep edildiğini, müvekkilinin gerçekleştirdiği bu imalatların ruhsat ve eklerine aykırı olduğundan, hakedişlere yansıtılamadığını, müvekkilinin idarenin talimatı ile ve yapı denetim şirketinin onayı ile proje tadilatı gerektiren sözleşme dışı imalat yanında proje ve ruhsat tadilatı gerektirmeyen sözleşme dışı imalatları sözleşme süreci içerisinde gerçekleştirdiğini, sözleşme dışı imalatların projeye aykırı olan kısmının kesin hesaba davalı tarafın isteği üzerine katılmadığını, kesin hesaba katılmayan projeye aykırı olarak yaptırılan imalatların tadil projesinin 05.03.2010 tarihinde onaylandığını, bu alanların denetim şirketinin gözetiminde idarenin talimatı ile oluşturulmasına rağmen mimari projede yer almadığını, müvekkilinin gerçekleştirdiği sözleşme dışı imalatlar
 nedeni ile vekaletsiz iş görme hükümlerine göre talep hakkı olduğunu, ileri sürerek fazlaya ilişkin haklar saklı kalmak kaydı ile 500.000,00 TL'nin 18.08.2010 tarihinden itibaren avans faizi ile birlikte ödenmesini talep etmiştir.

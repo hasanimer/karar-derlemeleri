@@ -22,6 +22,8 @@ uyari: "Derleyenin seçtiği alıntılardır; kararın tamamı değildir. Künye
 
 ## Yargıtay 15. HD 2008/6371 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/859363200)
+
 Davacı-birleşen davanın davalısı ... davasında; yanlar arasında 07.12.1987 tarihli sözleşme ile tarihsiz olarak yapılan ikinci sözleşme gereğince maliki bulunduğu ..., ..., ... mevkiinde bulunan (16) pafta numaralı ve (7242) parsel sayılı olarak tapuya tescilli taşınmaza inşaat yapmayı ve (16) daireli (B1 bloku) 31.12.1995 tarihinde teslimini yüklenmiş olmasına karşın davalı Kooperatifin teslim etmediğini ileri sürerek, sözleşmelerin geriye etkili olarak feshine karar verilmesini istemiştir.
 
 …
@@ -41,6 +43,8 @@ Kooperatifin sözleşmeler gereğince tapu kaydının devrini isteyebilmesi içi
 SONUÇ:Yukarıda açıklanan sebeplerle davacı-birleşen davanın davalısı ... vekilinin temyiz itirazlarının kabulüne ve kararın bu davacı-davalı yararına BOZULMASINA …
 
 ## Yargıtay 15. HD 2008/5527 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/858113200)
 
 Davacı arsa sahibi vekili asıl davada, taraflar arasındaki 03.07.1995 tarihi sözleşme kapsamında fazlaya ilişkin haklarını saklı tutarak 4.160.000.000 TL. kira tazminatı ile yine taraflar arasındaki 19.02.2001 tarihli ek sözleşmeye dayalı 20 milyar TL (20.000,00 YTL) cezai şart alacağı talep etmiş, 24.12.2005 harç tarihli dilekçesiyle kira tazminatı istemini 16.680.000.000 TL olarak ıslah etmiştir.
 
@@ -62,6 +66,8 @@ SONUÇ: Yukarıda 1. bendde açıklanan nedenlerle davacı arsa sahibi vekilinin
 
 ## Yargıtay 15. HD 2007/8251 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/860442500)
+
 Dava, arsa payı karşılığı inşaat yapım sözleşmesi uyarınca tapu iptâli ve tescil istemine ilişkindir.
 
 …
@@ -75,6 +81,8 @@ SONUÇ:Yukarıda açıklanan nedenlerle temyiz itirazlarının kabulü ile hükm
 
 ## Yargıtay 15. HD 2007/7359 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/860375400)
+
 Davacılar tarafından eldeki temyize konu dava açılmadan önce 02.04.2002 tarihinde davalılara gönderilen ihtarnamede, Kat Karşılığı İnşaat Sözleşmesinin tek taraflı olarak feshedildiği bildirilmiştir. Az yukarıda açıklandığı gibi, Kat Karşılığı İnşaat Sözleşmesi arsa payının devrini içermesi nedeniyle karşı tarafın kabulü yoksa, tek taraflı feshedilemez, feshe hakim karar verir. Mahkemece fesihle ilgili taraf iradelerinin birleşip birleşmediği araştırılmamış, fesih konusunda tarafların beyanları alınmamıştır.
 
 …
@@ -87,6 +95,8 @@ SONUÇ:Yukarıda 1.bentte açıklanan nedenlerle davacıların temyiz itirazlar�
 
 ## Yargıtay 15. HD 2006/6400 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/16215300)
+
 Öte yandan, 06.04.2002 tarihli ve taraflar arasında adi yazılı şekilde yapılan ek protokolün 10. maddesinde, yüklenici davalının 15.08.2002 tarihinde binanın iskânını almış vaziyette binayı tam ve sözleşme koşullarına göre teslim etmediği takdirde, geciktiği her ay için 5000 Euro cezai şartı davacı arsa sahibine ödemeyi yüklenici davalının kabul ettiği hükme bağlanmıştır. BK'nın 12. maddesi hükmü gereğince; borcun > …
 
 \> içeriğini genişleten veya yasal şekle bağlı olarak yapılmış sözleşmede var olan herhangi bir kaydı kaldırılan veya değiştiren, sözleşmeden doğan borçları ağırlaştıran sözleşmelerin de asıl sözleşmenin yapıldığı şekle uygun olarak yapılması zorunludur. Az yukarıda açıklandığı üzere, yanlar arasında zorunlu şekil koşuluna uygun olarak noterce doğrudan düzenleme şeklinde yapılan kat karşılığı inşaat sözleşmesin 4. maddesi hükmüyle kararlaştırılan "ifaya ekli ceza" tutarı, yanlarca adi yazılı şekilde yapılan 16.04.2002 tarihli ek sözleşmenin 10. maddesi hükmü ile artırılmış ise de, BK'nın 12. maddesi hükmü gereğince, yüklenicinin sorumluluğunu ağırlaştıran bu ek sözleşme, asıl sözleşmenin tabi olduğu zorunlu şekil koşuluna uygun olarak yapılmış olmadığından davalı yükleniciyi bağlayıcı değildir. Saptanan ve hukuksal durum bu olunca da; mahkemece reddi yerine davası kabul edilerek 16.04.2002 tarihli ek sözleşmenin 10. maddesi hükmüne dayanarak 533,5 Euro'nun davalıdan alınarak davacıya verilmesine karar verilmesi doğru olmamış ve kararın açıklanan bu sebeplerle bozulması gerekmiştir.
@@ -94,6 +104,8 @@ SONUÇ:Yukarıda 1.bentte açıklanan nedenlerle davacıların temyiz itirazlar�
 Sonuç: Yukarıda (1.) bentte belirtilen nedenlerle davalının sair temyiz itirazlarının reddine, (2.) bentte açıklanan sebeplerle temyiz olunan kararın davalı yararına (BOZULMASINA)
 
 ## Yargıtay 15. HD 2006/3761 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/859833700)
 
 Yüklenicilerce 5804 ada 12 numaralı parsele yanlar arasındaki Kat Karşılığı İnşaat Sözleşmesi gereğince inşaat yapıldığı ve kat irtifaklı tapu kayıtlarının oluşturulduğu dosya kapsamındaki tapu kayıtlarına göre sabit bulunduğu gibi, bu husus yanlar arasında da uyuşmazlık konusu değildir. 01.05.1991 tarihli Kat Karşılığı inşaat Sözleşmesinin tüm hükümleri ve bu kapsamda 11. maddesi hükmü birlikte değerlendirildiğinde imar mevzuatının konut inşaatı yapımına olanak verdiği davalılara ait taşınmazda inşaat yapılmasının ve yanlarca %50 oranına göre paylaşılmasının kararlaştırılmış olduğu sonucuna varılmaktadır. Az yukarıda açıklandığı üzere; 5804 ada 12 parsele sözleşme hükümleri gereğince inşaat yapılmış ve yanlarca paylaşılmış bulunmaktadır. Dava konusu 5804 ada ve 11 parsel sayılı taşınmaza sözleşme konusu inşaatların yapılması olanaklı olmadığına göre ve dolayısıyla taraflar arasındaki Kat Karşılığı İnşaat Sözleşmesinin konusunu taşınmaz olduğu ileri sürülemeyeceğinden, davacı yüklenicinin 11 parsel sayılı taşınmaz üzerinde mülkiyet ... bulunmamaktadır.
 
@@ -104,6 +116,8 @@ Kabule göre de; yükleniciler arasında adi ortaklık ilişkisi bulunduğu; ort
 SONUÇ:Yukarıda açıklanan sebeplerle temyiz eden davalıların temyiz itirazlarının kabulüne ve kararın davalılar yararına BOZULMASINA …
 
 ## Yargıtay 15. HD 2006/3053 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/859339300)
 
 Sözleşmenin 2. maddesinde, inşaat müteahhitleri de, inşaatı 05.03.1990 tarih ve 11216 yevmiye nolu asıl sözleşme ile bu sözleşme hükümlerine uygun olarak yapmayı, arsa sahiplerinden başkaca bir hak talebinde bulunmamayı kabul ve taahhüt etmişler, 5. maddede , ... A.Ş. tüm haklarını ...’e devretmiş, arsa sahipleriyle ... A.Ş. birbirlerinin zimmetlerini ibra etmiştir. Düzenleme Şeklinde Ek Sözleşme başlıklı Mersin 5. Noterliğince düzenlenen 30.06.1995 gün ve 27120 yevmiye nolu sözleşme arsa sahipleriyle ... (müteahhit) arasında yapılmış, ekli krokide gösterilen paylaşım şekli itibariyle davaya konu (7), (15), (3), (6), (11), (19), (22), (23) nolu bağımsız bölümler müteahhide, (9) ve (17) nolu bölümler ise arsa sahibine aittir. Kat irtifakı listesinde yer alan 43 bağımsız bölümün tümü arsa malikleri adına yazılmıştır. Buraya kadar açıklaması yapılan asıl ve ek sözleşmeler, Belediye Encümen kararı, tüm inşaat ruhsatları, tapu kayıtları birlikte değerlendirildiğinde tarafların ilk sözleşmeden itibaren inşaat yoğunluğunu bilerek paylaşım yaptıkları ve inşaat süresini kararlaştırdıkları açık seçik görülmektedir.
 Yoğunluğun baştan itibaren bilinmesine rağmen yüklenici ek sözleşmede ilave süre talebinde bulunmadığı gibi binayı ilk sözleşmeye uygun tamamlamayı taahhüt etmiştir. Esasen alınan ilk ruhsatta 720 m2’nin tevhidiyle oluşan 1735 parsele ilişkindir. Bu nedenle yoğunluk nedeniyle inşaat alanı büyüdüğünden …

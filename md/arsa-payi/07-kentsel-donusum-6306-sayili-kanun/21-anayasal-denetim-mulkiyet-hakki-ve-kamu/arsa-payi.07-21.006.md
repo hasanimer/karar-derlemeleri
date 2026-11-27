@@ -22,6 +22,8 @@ uyari: "Derleyenin seçtiği alıntılardır; kararın tamamı değildir. Künye
 
 ## Danıştay 4. D. 2023/11588 E., 2024/7646 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1138748200)
+
 DAVANIN KONUSU : Davacı şirketin de hissedarı olduğu ... İli, ... İlçesi, ... Mahallesi, ... ada, ... parsel sayılı taşınmazda bulunan bina hakkında 6306 sayılı Kanun gereğince riskli yapı kararı verilmesi üzerine, kat malikleri kurulu kararına katılmayan davacının hissesinin 18/05/2023 tarihinde satışına ilişkin ... Valiliği işlemi ile anılan Kanunun Uygulama Yönetmeliği'nin 15. maddesinin 2. fıkrasındaki "herhangi bir şekil şartına tabi olmaksızın" ibaresinin, 15. maddenin 3. fıkrasında geçen "arsa payı değeri üzerinden anlaşma sağlayan diğer paydaşlara açık artırma usulü ile satılır" ibaresinin, 15/A maddesinin 4. fıkrasında geçen "Ancak, arsa yapı satılacak maliklere tebligat yapılamamış olması veya bu maliklerin satışa izleyici olarak katılmaması satışın geçerliliğine etki etmez ve gıyaplarında yapılan satış işlemi geçerli olur" ibaresinin ve 15/A maddesinin 6. fıkrasında geçen "Yapılacak ilk satışa en az üçte iki çoğunluk ile anlaşan paydaşlar dışında herhangi bir katılamaz" ibaresinin iptali istenilmiştir.
 
 DAVACININ İDDİALARI : Davacı şirketin de hissedarı olduğu ... İli, ... İlçesi, ...
@@ -34,6 +36,8 @@ Davacının hissesinin ... tarihinde satışına ilişkin ... Valiliği işlemi 
 
 ## Danıştay 6. D. 2018/5259 E., 2024/7589 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1131019200)
+
 DAVALININ SAVUNMASI :Davacının dava açma ehliyetinin bulunmadığı, Anayasanın 56., 65., 166. maddeleri uyarınca kamu yararı gözetilerek uyuşmazlık konusu tebliğin kabul edildiği, düzenlemenin bir imar affı niteliğinde olmadığı, afet risklerine hazırlık kapsamında ruhsatsız ve/veya ruhsat eklerine aykırı yapıların tespiti amacıyla kayıt altına alınmasınınn amaçlandığı, yapı kayıt belgesinin yapının yeniden yapılması veya alanda kentsel dönüşüm uygulamasına kadar geçerli olacağı dolayısı ile de bir kazanılmış hak iddia edilemeyeceği, dava konusu edilen ibarelerin dayanak geçici 16. maddeye uygun olduğu, Tebliğin 10. maddesinin 2. fıkrasında yer alan "...ve yanlış beyanda..." ifadesi ise, 20.09.2018 tarihinde Resmi Gazetede yayımlanan değişiklik ile madde metninden çıkarıldığı, son olarak tebliğ kapsamında yaklaşık 54.000 başvurunun yapıldığı da dikkate alınarak davanın reddi gerektiği savunulmaktadır.
 
 …
@@ -41,6 +45,8 @@ DAVALININ SAVUNMASI :Davacının dava açma ehliyetinin bulunmadığı, Anayasan
 Bu durumda; yapı kayıt belgesi düzenlenemeyecek yapılar hakkında verilen yapı kayıt belgesinin iptal edilmesi durumunda, 3194 sayılı Kanunun geçici 16/2. maddesi uyarınca ödenen yapı kayıt belgesi bedelinin iade edilmemesine yönelik getirilen, dayanak Kanun maddesinde verilen yetkiye dayalı olarak hazırlanan ve bu kapsamda Kanunda yapılan düzenlemenin koşul ve sonuçlarını açıklayan dava konusu Tebliğ hükmünün, kanun koyucu tarafından idareye tanınan düzenleme yetkisine dayalı olarak hazırlandığı, normlar hiyerarşisine ve dayanağı Kanun maddesine uygun olduğu sonucuna ulaşıldığından, ilgili Tebliğin 8. maddesinin 2. fıkrasında yer alan "Yapı Kayıt Belgesi bedeli olarak yatırılmış olan bedel iade edilmez" ibaresi yönünden de davanın reddine karar verilmesi gerektiği oyuyla Dairemiz kararına katılmıyoruz.
 
 ## Danıştay 6. D. 2020/10764 E., 2024/6694 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1113759200)
 
 İlk Derece Mahkemesi kararının özeti: ...
 
@@ -55,6 +61,8 @@ Dava konusu işlemin yukarıda özetlenen gerekçeyle iptaline ilişkin Mahkeme 
 
 ## Danıştay 3. D. 2024/1172 E., 2024/5561 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1136382900)
+
 Yine aynı kararda, usuli kazanılmış hak ilkesini hukuki güvenliği sağlama ve kamu yararını gerçekleştirme amacıyla kanun hükmü niteliğine kavuşturan kanun koyucunun, yukarıda belirtilen meşru amaçlarla ve hukuk devleti ilkesiyle bağdaşmayacak şekilde yargılamanın hakkaniyet, hukukun üstünlüğü gibi ilkelerin görmezden gelinerek ya da temel hak ve özgürlükler ihlal edilerek sonuçlandırılması yolunda bir iradesinin varlığından söz etmenin mümkün olmadığı ifade edilmiştir.
 
 Avrupa İnsan Hakları Mahkemesi'ne göre mülkiyet hakkını güvence altına alan Avrupa İnsan Hakları Sözleşmesi'ne Ek 1 No'lu Protokolün 1. maddesinin ilk ve en önemli koşulu, kamu makamları tarafından mülkiyet hakkına yapılan herhangi bir müdahalenin hukuka dayalı olması gerekliliğidir. (Iatridis/Yunanistan \[BD], B. No: 31107/96, 25/3/1999, §58) Hukuka dayalı olma ölçütü, iç hukukta uygulanan kanun hükümlerinin yeterli derecede erişilebilir, belirli ve öngörülebilir olmasını içermektedir. (Beyeler/İtalya \[BD], B. No:33202/96, 5/1/2000, §109; Hentrich/Fransa, B. No:13616/88, 22/9/1994 §42, Spaček/Çek Cumhuriyeti, B. No:26449/95, 9/11/1999, §56-61; Anayasa Mahkemesi Recep Tarhan, Afife Tarhan B. No:2014/1546, 2/2/2017, §62)
@@ -65,6 +73,8 @@ Temyize konu Vergi Dava Dairesi kararının BOZULMASINA …
 
 ## Danıştay 6. D. 2021/10108 E., 2024/5502 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1108892200)
+
 Anayasanın 40. maddesinin ikinci fıkrasında; Devletin, işlemlerinde, ilgili kişilerin hangi kanun yolları ve mercilere başvuracağını ve sürelerini belirtmek zorunda olduğu hükme bağlanmış, 125. maddesinin üçüncü fıkrasında da; 40. maddedeki düzenlemenin devamı niteliğinde, "İdari işlemlere karşı açılacak davalarda süre, yazılı bildirim tarihinden başlar." hükmüne yer verilmiştir.
 
 …
@@ -73,6 +83,8 @@ Anayasanın 40. maddesinin ikinci fıkrasında; Devletin, işlemlerinde, ilgili 
 
 ## Danıştay 9. D. 2022/3378 E., 2024/4661 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1131499900)
+
 Anayasa'nın 153. maddesinde, Anayasa Mahkemesi kararlarının kesin olduğu, iptal kararlarının gerekçesi yazılmadan açıklanamayacağı, Anayasa Mahkemesinin, bir kanun veya Cumhurbaşkanlığı kararnamesinin tamamını veya bir hükmünü iptal ederken, kanun koyucu gibi hareketle, yeni bir uygulamaya yol açacak biçimde hüküm tesis edemeyeceği, kanun, Cumhurbaşkanlığı kararnamesi veya Türkiye Büyük Millet Meclisi İçtüzüğü ya da bunların hükümlerinin, iptal kararlarının Resmî Gazete'de yayımlandığı tarihte yürürlükten kalkacağı, gereken hallerde, Anayasa Mahkemesinin, iptal hükmünün yürürlüğe gireceği tarihi ayrıca kararlaştırabileceği, bu tarihin, kararın Resmî Gazete'de yayımlandığı günden başlayarak bir yılı geçemeyeceği, iptal kararının yürürlüğe girişinin ertelendiği durumlarda, Türkiye Büyük Millet Meclisinin, iptal kararının ortaya çıkardığı hukuki boşluğu dolduracak kanun teklifini, öncelikle görüşüp karara bağlayacağı, iptal kararlarının geriye yürümeyeceği, Anayasa Mahkemesi kararlarının Resmî Gazete'de hemen yayımlanacağı ve yasama, yürütme ve yargı organlarını, idare makamlarını, gerçek ve tüzelkişileri bağlayacağı düzenlenmiştir.
 
 …
@@ -80,6 +92,8 @@ Anayasa'nın 153. maddesinde, Anayasa Mahkemesi kararlarının kesin olduğu, ip
 2.... Bölge İdare Mahkemesi ... Vergi Dava Dairesinin ... tarih ve E:... , K:... sayılı kararının BOZULMASINA …
 
 ## Danıştay 9. D. 2024/4801 E., 2024/4641 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1166943900)
 
 6446 sayılı Kanun'un geçici 4/1. maddesi uyarınca, üretim lisansına konu üretim tesisleriyle ilgili yapılan işlemlerin damga vergisinden istisna tutulabilmesi için tesisin 31/12/2020 tarihine kadar ilk defa işletmeye girecek tesis niteliğinde olması gerektiği nazara alındığında davacının 26/03/2021 tarihli ihale sözleşmesi ile yapımını üstlendiği üretim lisansına konu üretim tesisinin 27/12/2023 tarihinde tamamlanacak olması nedeniyle 31/12/2020 tarihine kadar işletmeye alınacak tesis niteliğinde bulunmaması karşısında üstlenilen işe ait düzenlenen kağıtlara ilişkin olarak 6446 sayılı Kanun'un geçici 4/1. maddesi yönünden istisna şartlarının oluşmadığı anlaşılmakta ise de olayda, Kalkınma Bakanlığı'nca yayımlanan cari yıl yatırım programında ... yatırım projesi kodu ile Eti Maden İşletmeleri Genel Müdürlüğünün imalat-kimya sektörü yatırımları arasında yer alan ve idari şartnamede ihalesine katılımın yerli ve yabancı tüm isteklilere açık olduğu belirtilen ihale konusu işin 6728 sayılı Kanunun 27. maddesi ile değişik 488 sayılı Kanununun Ek 2. maddesinde sayılı damga vergisinden istisna edilen döviz kazandırıcı faaliyetler arasında sayılı işlerden olduğu, ancak işin vergi resim harç
 belgesine bağlanmadığı, işin vergi resim harç istisna belgesine bağlanmasına engel olan 488 sayılı Damga Vergisi Kanunu'nun Ek 2. maddesinde yer alan "... ve yabancı firmalarca da teklif verilen" ibaresinin iptali istemiyle yapılan başvuru üzerine verilen Anayasa Mahkemesinin 24/12/2020 tarih ve E:2020/15, K:2020/78 sayılı kararı ile mülkiyet hakkına müdahale içeren normun, hukuki öngörülebilirlik ve belirlilik unsurlarını ihtiva etmediği tespitinde bulunularak, anılan maddede geçen ... ve yabancı firmalarca da teklif verilen" ibaresinin iptaline karar verildiği görülmektedir.
@@ -94,9 +108,13 @@ Zira iptal kararının yürürlüğe girmesiyle normu ileriye yurutmenin, bu nor
 
 ## Danıştay 6. D. 2021/8727 E., 2024/4524 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1109007600)
+
 Bu nedenle dava konusu plan değişikliğinin yerinde keşif ve bilirkişi incelemesi yaptırılmak suretiyle şehircilik ilkeleri ,planlama esasları ve kamu yararına uygun olup olmadığının incelettirilmesi suretiyle uyuşmazlığın esası hakkında bir karar verilmesi gerektiği düşünülmektedir.
 
 ## Danıştay 6. D. 2021/3267 E., 2024/2925 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1075630600)
 
 Davacı tarafından; dava dosyasına sunulan bilirkişi raporunda, kamu müdahalesi anlamındaki kentsel tasarım projesi düzenlenmesi işleminden vazgeçilmesi üzerine şehircilik ilkeleri ve planlama esasları ile kamu yararı uyarınca inşaata elverişli parsel oluşturulmasına olanak sağlayacak yeni plan kararları verilmediği anlaşıldığından dava konusu plan revizyonu ve ... sayılı parselasyon işleminde parsel oluşturulması ile planlama ve uygulama yönlerinden imar mevzuatı hükümlerine, şehircilik ilkelerine, planlama esaslarına ve kamu yararına uygunluk olmadığı yönünde tespitlere yer verildiği, yapılaşmaya elverişli olmayan parsel üretilmesine yönelik parselasyon işleminin dava konusu plan karlarından kaynaklandığı, dava konusu planların şehircilik ilkelerine, planlama esaslarına ve kamu yararına aykırı olduğu ileri sürülmektedir.
 
@@ -106,6 +124,8 @@ Dava konusu işlemin yukarıda özetlenen gerekçeyle iptali yolundaki İdare Ma
 
 ## Danıştay 6. D. 2020/5904 E., 2024/2887 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1129591100)
+
 Nitekim 3194 sayılı Kanunun 18.maddesinin 3.fıkrasına eklenen hükümden önce Anayasa Mahkemesi yukarıda belirtilen kararında, kapanan ya da açığa çıkan yol veya yol parçalarının kamu malı niteliğini kaybederek idarenin özel malı haline geleceği ve kamu mallarına ilişkin korumanın ortadan kalkacağı, bu nedenle 21.maddede açığa çıkan bu taşınmazların tapu sicilinin sağladığı güvenceden yararlanabilmesi için tapu siciline tescilinin öngörüldüğü, idarenin, İmar Kanununun 18.maddesi gereği parsellerin yeniden düzenlenmesinde, eski yol parçalarını özel kişilerin arsaları ile birleştirebileceği, eğer yeniden kamu yararına tahsis edilmezse, idarenin özel hukuk rejimi çerçevesinde bu mallara tasarruf edebileceği, gerekirse satabileceği, Anayasa'nın 125. maddesine göre, idarenin her türlü eylem ve işlemlerine karşı yargı yolunun olduğu, idarenin keyfi uygulamalara sapması halinde buna karşı adli ve idari yargıda dava açılabileceği, sonuç olarak Tapu Kanununun 21.maddenin Anayasa'ya aykırı olmadığı, ancak idarenin yeni bir kararla bu taşınmazları kamu yararına tahsis ederek kamu malına da dönüştürebileceği vurgulanmıştır.
 
 …
@@ -113,6 +133,8 @@ Nitekim 3194 sayılı Kanunun 18.maddesinin 3.fıkrasına eklenen hükümden ön
 Açıklanan gerekçelerle Yönetmeliğin 14. maddesinin 2. fıkrasındaki "b)...kamuya ait kreş alanları", "e) Kent meydanı, kent parkı, spor alanı" ve "g) Teknik altyapı alanı, kamuya ait trafo alanı", ibareleri ile Yönetmeliğin 26.maddesinin "Düzenleme alanının büyüklüğü, parsel maliki ve parsellerdeki hissedar sayısının çokluğu, bu kişilerin bulundukları yer itibarıyla birebir tebligat yapılamaması ya da adres kayıt sisteminde kayıtlı olduğu yerde bulunmaması gibi nedenlerle karşılaşılacak zorluklar dikkate alınarak parselasyon planlarının bir ay müddetle ilgili belediyede ya da valilikte askıya çıkarılması, internet sitesinde yayımlanması, belediye duyurusu, gazete ve benzeri mutat vasıtalarla da duyurulması..." kısmı yönünden davanın reddine karar verilmesi gerektiğinden belirtilen kısımlar yönünden Dairemiz çoğunluk kararına katılmıyorum.
 
 ## Danıştay 3. D. 2023/3099 E., 2024/2435 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1072304000)
 
 DAVALI İDARENİN SAVUNMASI:
 İdarenin kesin ve yürütülmesi zorunlu idari işlemlerine karşı iptal davası açılabileceği, idari davaya konu olabilecek düzenleyici bir işlemden söz edilebilmesi için o işlemin, genel ve objektif kurallar koyan nitelikte olması gerektiği, yasal düzenlemeleri açıklayan tebliğin idari davaya konu edilebilecek düzenleyici işlem olarak nitelendirilmeyeceği, 5359 sayılı Cumhurbaşkanı Kararı'na aykırı bir hususun tebliğde düzenlenmediği, açıklayıcı mahiyette hususlara yer verildiği, davanın süreaşımı nedeniyle reddi gerektiği, Cumhurbaşkanı Kararının 10. maddesinde 01/04/2022 tarihinden önce yapı ruhsatı alınan konutlarda eski hükümlerin uygulanmaya devam olunacağı, bu tarihten önce yapı ruhsatı alınmış veya kamu kurum ve kuruluşları ile bunların iştirakleri tarafından ihalesi yapılmış projeler kapsamında inşa edilen konutlar için bu kararın 1. ve 4. maddelerde kaldırılan veya değiştirilen hükümlerin uygulanacağının devam edileceğinin düzenlendiği, Katma Değer Vergisi Genel Uygulama Tebliğinin III/b-2.1.3 bölümünde, konut teslimlerinde 150 metrekare net alanın Planlı Alanlar İmar Yönetmeliğine göre hesaplanacağının belirtildiği, yapı ruhsatı 01/04/2022 tarihinden sonra alınan konutlara
@@ -128,6 +150,8 @@ Anayasanın 2. maddesinde belirtilen "hukuk devleti ilkesi" ile bunun alt ilkele
 
 ## Danıştay 6. D. 2019/1497 E., 2024/2352 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1072295100)
+
 Davacı ise parsel bazında bir değişiklik talep etmektedir. Bu nedenle davacının talebi alt ölçekli planlama çalışmaları doğrultusunda imar planlarında belirlenebilecek kararlar niteliğinde olduğundan dava konusu planın ölçeği gereği düzenlenemeyecek bir konudur.
 
 …
@@ -136,10 +160,14 @@ Davacı ise parsel bazında bir değişiklik talep etmektedir. Bu nedenle davac�
 
 ## Danıştay 13. D. 2024/1248 E., 2024/2097 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1086225700)
+
 Davacı şirket tarafından, Yönetmelik ve eklerinin Anayasa'nın 10. maddesi ile 4734 sayılı Kanun'un 5. maddesine aykırı olduğu, söz konusu düzenlemeler kapsamında ... ihale kayıt numaralı 'Antalya Side Yeni Müze Proje Yapımı'; ... ihale kayıt numaralı '... Mahallesi ...
 Sayılı Parsel ve Çevresini Kapsayan Riskli Alanda Yürütülen Kentsel Dönüşüm Çalışmaları Kapsamında Hazırlanan Mimari Avan Proje Doğrultusunda Mimarlık ve Mühendislik Uygulama Projelerinin Hazırlanması Hizmet Alım İşi'; ... ihale kayıt numaralı '03Bölge Müdürlüğü Tesisleri Proje Yapımı' danışmanlık hizmet işi ihalelerinde, şirketlerinin tekliflerinin değerlendirme dışı bırakıldığı veya işi alamayacak şekilde puan verildiği, hukuka aykırı Yönetmelik ve ekinde yer alan düzenlemeler nedeniyle ülke genelindeki diğer ihalelere teklif verilemediği ileri sürülerek Yönetmeliğin ve eklerinin iptali istemiyle bakılan dava açılmış ise de, Yönetmelik 04/03/2009 tarihli Resmî Gazete'de yayımlanarak 05/03/2009 tarihinde yürürlüğe girdiğinden, dava açma süresinin ve davanın konusunun tespiti bakımından, davacı şirket tarafından, hangi uygulama işleminin/işlemlerinin tesis edilmesi üzerine işbu davanın açıldığının, uygulama işlemi/işlemleriyle ilgili olarak Yönetmeliğin hangi maddelerinin/fıkralarının/ibarelerinin ve/veya hangi eklerinin hangi maddelerinin/fıkralarının/ibarelerinin iptalinin istendiğinin açıkça ortaya konulamadığının görüldüğü;
 
 ## Danıştay 4. D. 2023/11571 E., 2024/2018 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1068045100)
 
 DAVANIN KONUSU : Ankara ili, Çankaya ilçesi, … Mahallesi, … ada, … parsel sayılı taşınmazda bulunan yapının 6306 sayılı Kanun kapsamında "riskli yapı" olarak tespit edilerek yıkılması sonrasında, davacının arsa payının, 30/09/2021 tarihinde yapılan açık artırma sonucunda, paydaşlardan …'na 640.000,00-TL bedel ile satıldığı hususunun Çankaya Tapu Müdürlüğüne bildirilmesine ilişkin Ankara Valiliği Çevre, Şehircilik ve İklim Değişikliği İl Müdürlüğünün … tarih ve … sayılı işlemi ve bu işlemin dayanağı 6306 sayılı Kanunun Uygulama Yönetmeliği'nin 19/10/2019 sayılı, 30923 sayılı Resmi Gazete'de yayımlanan değişiklikle yürürlüğe giren 15/A maddesinin 4. fıkrasının son cümlesi olan "Ancak arsa payı satılacak maliklere tebligat yapılamamış olması veya bu maliklerin satışa izleyici olarak katılmaması satışın geçerliliğine etki etmez ve gıyaplarında yapılan satış işlemi geçerli olur." hükmünün iptali istenilmektedir.
 
@@ -155,6 +183,8 @@ Bu durumda; davacının arsa payının, 30/09/2021 tarihinde yapılan açık art
 
 ## Danıştay 4. D. 2024/525 E., 2024/2016 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1135956300)
+
 İlk Derece Mahkemesi kararının özeti: ...
 
 …
@@ -167,6 +197,8 @@ Temyize konu ... Bölge İdare Mahkemesi ...İdare Dava Dairesinin ... tarih ve 
 
 ## Danıştay 8. D. 2020/7059 E., 2024/1879 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1069901600)
+
 Anayasa'nın 124. maddesinde "Cumhurbaşkanı, bakanlıklar ve kamu tüzel kişileri, kendi görev alanlarını ilgilendiren kanunların ve tüzüklerin uygulanmasını sağlamak üzere ve bunlara aykırı olmamak şartıyla, yönetmelikler çıkarabilirler. Hangi yönetmeliklerin Resmi Gazete'de yayımlanacağı kanunda belirtilir." hükmüne; 135. maddesinde ise "Kamu kurumu niteliğindeki meslek kuruluşları ve üst kuruluşları; belli bir mesleğe mensup olanların müşterek ihtiyaçlarını karşılamak, mesleki faaliyetlerini kolaylaştırmak, mesleğin genel menfaatlere uygun olarak gelişmesini sağlamak, meslek mensuplarının birbirleri ile ve halk ile olan ilişkilerinde dürüstlüğü ve güveni hakim kılmak üzere meslek disiplini ve ahlakını korumak maksadı ile kanunla kurulan ve organları kendi üyeleri tarafından kanunda gösterilen usullere göre yargı gözetimi altında, gizli oyla seçilen kamu tüzel kişilikleridir." düzenlemesine yer verilmiştir.
 
 …
@@ -174,6 +206,8 @@ Anayasa'nın 124. maddesinde "Cumhurbaşkanı, bakanlıklar ve kamu tüzel kişi
 Anılan düzenlemelerle her ne kadar sondaj hizmetinin sadece jeoloji mühendisliği mesleğine münhasır kılındığı; zemin laboratuvarı hizmetinin ve kaya ve zemin mekaniği laboratuvar deneylerinin ise sadece odaya tescili büro/şirketler tarafından gerçekleştirilmesinin zorunlu olduğu, aksi halde jeoteknik etüt raporlarının odada işlem görmeyeceği belirtilmek suretiyle bu hususta yalnız jeoloji mühendislerinin yetkili olduğunun belirtildiği, bu haliyle Genelgeyle dayanağı Yönetmeliği aşar şekilde düzenleme yapıldığı gerekçesi ile söz konusu düzenlemelerin iptaline karar verilmiş ise de; 6235 sayılı Kanunun yukarıda yer verilen hükümleri gereği davalı TMMOB Jeoloji Mühendisleri Odasının aynı Kanunun 2. maddesinde belirtilen amaç doğrultusunda yalnızca Odayı ilgilendiren kısım ile görevli olduğu …
 
 ## Danıştay 6. D. 2023/8789 E., 2024/1684 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1058064000)
 
 Davalı Kahramanmaraş Büyükşehir Belediye Başkanlığı tarafından; temyiz edilen kararda bozma nedenlerinden hiçbirisi bulunmadığından, usul ve kanuna uygun olan kararın onanması gerektiği savunulmaktadır.
 
@@ -186,6 +220,8 @@ Türkiye Cumhuriyeti Anayasasının 2. maddesinde, Türkiye Cumhuriyetinin Hukuk
 Davanın yukarıda özetlenen gerekçeyle ehliyet yönünden reddine ilişkin Mahkeme kararına yönelik olarak yapılan istinaf başvurusunun reddi yolundaki temyize konu … Bölge İdare Mahkemesi ... İdari Dava Dairesinin … tarih ve E:…, K:… sayılı kararının BOZULMASINA …
 
 ## Danıştay 6. D. 2021/10206 E., 2024/1540 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1047291900)
 
 DAVACILARIN İDDİALARI : Davacıların maliki olduğu İstanbul ili, Bahçelievler ilçesi,
 
@@ -208,6 +244,8 @@ Bölge İdare Mahkemesi …
 Dosyanın incelenmesinden; İstanbul ili, Bahçelievler ilçesi, … Mahallesi, … pafta, … ada, … parsel sayılı mülkiyeti davacılara (yapı kayıt belgesi alındığı tarihte muris …'e) ait ve imar planında "park" alanında kalan taşınmazın üzerindeki birbirine bitişik halde bulunan yapılar için her bir parselde kalan kısım için hepsi 18.09.2018 tarihli olmak üzere 4 ayrı yapı kayıt belgesi düzenlendiği, ancak Çevre ve Şehircilik İl Müdürlüğü görevlilerince yapı yerinde 11/10/2018 tarihinde yapılan incelemede yapılan tamir ve tadilat ile yapının taşıyıcı kaidelerinin değiştirildiği ve bu inşai faaliyetin basit onarım olmadığı tespiti üzerine tesis edilen İstanbul Valiliği Çevre ve Şehircilik İl Müdürlüğünün … tarih ve … sayılı işlemiyle; … ada, … ve … sayılı parseller için düzenlenen yapı kayıt belgelerinin iptal edildiği, yapı kayıt belgelerinin iptaline ilişkin işlemlerin iptali talebiyle açılan davalarda İstanbul Bölge İdare Mahkemesi Beşinci Dava Dairesince "kesinleşmiş planlar neticesinde sosyal donatı alanı olarak belirlenmiş taşınmaz üzerinde bulunan yapılar hakkında Yapı Kayıt Belgesi düzenlenemeyeceğinden …
 
 ## Danıştay 6. D. 2020/3113 E., 2024/1210 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1052832500)
 
 Bu doğrultuda, dava konusu uygulama imar planıyla getirilmek istenilen minimum parsel çekme mesafesinin imar mevzuatına, planlama hiyerarşisine, şehircilik ilkelerine, planlama tekniklerine ve kamu yararına uygunluğu hususlarının, taraflarca ileri sürülen iddialar da göz önünde bulundurulmak suretiyle, gerekli görülmesi halinde alanında uzman bilirkişilerden oluşturulacak bilirkişi heyeti aracılığıyla mahallinde keşif ve bilirkişi incelemesi yaptırılması suretiyle incelenmesi, bu inceleme sonucunda elde edilecek sonuca göre yeniden bir karar verilmesi gerekmektedir.
 

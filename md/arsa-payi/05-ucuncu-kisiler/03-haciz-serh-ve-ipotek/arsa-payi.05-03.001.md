@@ -21,6 +21,8 @@ uyari: "Derleyenin seçtiği alıntılardır; kararın tamamı değildir. Künye
 
 ## Yargıtay HGK 2025/645 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1196614200)
+
 1\.
 
 …
@@ -81,6 +83,8 @@ Bu durumda, bilirkişi raporunda da tespit edildiği üzere, Ağustos 2017 tarih
 
 ## Yargıtay 6. HD 2025/4434 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1200347300)
+
 Öte yandan, sözleşmenin 28/c. maddesinde taşınmazın tapu kaydındaki takyidatların kaldırılması yükümlülüğünün arsa sahibine ait olduğu, bu hususun yer tesliminin ön şartı olduğu, sözleşme imzalanmış olsa dahi sözleşme süresinin, arsa sahibi tarafından bu yükümlülük yerine getirilmesi anında başlayacağı düzenlenmiş ise de yapı ruhsatının alınmış olması, inşaatın ipoteklerin kaldırıldığı tarihe kadar belirli bir seviyeye getirilmiş olması ve ipoteklerin inşaatın başlamasına ya da devamına engel olduğuna dair yüklenici tarafından arsa sahiplerine TBK’nın 472/2. maddesinde belirtilen ihbar yükümlülüğü kapsamında ihtar gönderilmemiş olması olguları nazara alındığında, yüklenici tarafın iş süresinin ipoteklerin kaldırıldığı tarihten itibaren başlaması gerektiğine dair temyiz itirazları yerinde görülmemiştir.
 
 Bu açıklamalara, tarafların iddia, savunma ve dayandıkları belgelere, uyuşmazlığın hukuki nitelendirilmesi ile uygulanması gereken hukuk kurallarına, dava şartlarına, yargılamaya hâkim olan ilkelere, ispat kurallarına ve temyiz olunan kararda belirtilen gerekçelere göre, katılma yoluyla birleşen 2021/139 Esas sayılı davada davacı arsa sahiplerinin ve asıl ve birleşen 2021/378 Esas sayılı davada davacı yüklenici tarafın tüm, birleşen 2021/139 Esas sayılı davada davalı yüklenici tarafın aşağıdaki bendin kapsamı dışında kalan diğer temyiz itirazları yerinde görülmemiştir.
@@ -92,6 +96,8 @@ Bu açıklamalara, tarafların iddia, savunma ve dayandıkları belgelere, uyuş
 …
 
 ## Yargıtay 6. HD 2025/4433 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1200342800)
 
 Davacı vekili dava dilekçesinde; davalılar ..., ..., ... ve ...'ın murisi ile davacı (temlik alan) yüklenici kooperatif arasındaki arsa payı karşılığı inşaat sözleşmesi uyarınca, davacı kooperatife isabet eden F blok 23 nolu bağımsız bölüm ile aynı blok 16 nolu bağımsız bölümün 1/2 hissesinin, mahkeme kararı ile kooperatif adına tesciline karar verildiğini ve kararın kesinleştiğini, ancak bu karardan önce, davalı ...'ın borcundan dolayı taşınmazların tapu kaydına, davalı alacaklı ... lehine hacizler konulduğunu, mülkiyet hakkı karşısında söz konusu hacizlerin geçerliliğinin kalmadığını ileri sürerek, anılan bağımsız bölümlerin davacı kooperatife ait olduğunun tespiti ile tapu kaydındaki hacizlerin ve diğer tüm kısıtlamaların kaldırılmasına karar verilmesini talep ve dava etmiştir.
 
@@ -111,6 +117,8 @@ Temyiz olunan Bölge Adliye Mahkemesi kararının BOZULMASINA …
 
 ## Yargıtay 6. HD 2025/2631 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1188011100)
+
 Davacılar vekili dava dilekçesinde; davacı arsa maliklerinin taşınmaz üzerinde dört blok halinde çok katlı bina yapmak üzere dava dışı yüklenici ... ile ... Noterliği'nin 08.03.20 06... yevmiye numaralı sözleşme ile ....
 
 …
@@ -129,6 +137,8 @@ Anılan İçtihadı Birleştirme ve Dairemizin yeni içtihatları doğrultusunda
 
 ## Yargıtay 6. HD 2025/21 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1120739400)
+
 İlk Derece Mahkemesince, arsa payı karşılığı inşaat sözleşmesi uyarınca, dava dışı yüklenici şirketin borçları nedeniyle, davalı alacaklı banka lehine tesis edilen ipoteklerin fekki istemiyle açılan dava sonucunda, dava dışı yükleniciye devredilen tapuların avans niteliğinde olduğu, gerçek malikin davacı arsa sahibi olduğu, davalı banka lehine tesis edilen ipoteğin fekki gerektiği gerekçesiyle, davanın kabulüne karar verilmiştir.
 
 …
@@ -138,6 +148,8 @@ Kamu düzenine aykırılık hallerinin re'sen gözetildiği, istinaf nedenleriyl
 SONUÇ: Yukarıda açıklanan nedenlerle, Ankara Bölge Adliye Mahkemesi 27. Hukuk Dairesi kararına ilişkin, davacı vekilinin tüm temyiz itirazlarının reddiyle usul ve kanuna uygun bulunan kararın ONANMASINA …
 
 ## Yargıtay 6. HD 2024/340 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1004158900)
 
 Davacı arsa sahipleri vekili dava dilekçesinde özetle; müvekkili arsa sahipleri ile davalı yüklenici şirket arasında imzalanan ... 4. Noterliği'nin 11/05/2016 tarihli 10275 yevmiye numaralı arsa payı karşılığı inşaat sözleşmesi uyarınca davalı yüklenicinin ... ili, ... ilçesi, ...
 
@@ -159,6 +171,8 @@ Bu nedenle temyize gelen davalı ... yönünden kararın bozulmasına karar verm
 
 ## Yargıtay 6. HD 2024/219 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1003575100)
+
 Davacılar vekili dava dilekçesinde özetle; müvekkilleri arsa sahipleri ile davalı yüklenici şirket arasında 08/05/2017 tarihinde adli yazılı şekilde "Kat Karşılığı İnşaat Yapım Sözleşmesi" imzalandığını, 11/05/2017 tarihinde müvekkillerinin sözleşmenin kendilerine yüklediği edimi yerine getirdikleri ve adlarına kayıtlı olan taşınmazı davalı ... İnş. San.ve Tic.
 
 …
@@ -175,6 +189,8 @@ Yükleniciden pay devralan veya arsa sahibi tarafından avans olarak yükleniciy
 Temyiz olunan Bölge Adliye Mahkemesi kararının 6100 sayılı Kanunun 370 nci maddesinin birinci fıkrası uyarınca ONANMASINA …
 
 ## Yargıtay 6. HD 2023/3557 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/985116600)
 
 Davacılar vekili dava dilekçesinde; arsa sahibi müvekkilleri ile davalılardan Nuran Özen, ... ve Nuran Özen Kale İnşaat arasında Kocaeli 7. Noterliği’nin 29/11/2013 tarihli kat karşılığı inşaat ana sözleşmesi ve yine aynı noterliğin 15/04/2015 tarihli ek sözleşmesi imzalandığını, sözleşmeye göre inşaat süresinin ruhsat tarihinden itibaren 12 ay olarak kararlaştırılmasına rağmen inşaatın halen bitmediğini, yüklenicilere düşen bağımsız bölümlerin talimat ile diğer davalılara devredildiğini, taraflar arasındaki kat karşılığı inşaat sözleşmelerinin feshi, diğer davalılara devredilen bağımsız bölüm tapularının iptali ile müvekkilleri adına takyidatlardan ari olarak tescilini, ayrıca gecikmeden kaynaklanan tazminatın davalı yüklenicilerden tahsiline karar verilmesini talep etmiştir.
 
@@ -196,6 +212,8 @@ Temyiz olunan Bölge Adliye Mahkemesi kararının 6100 sayılı Kanunun 370 nci 
 
 ## Yargıtay 6. HD 2023/3550 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/985108800)
+
 Davacı vekili dava dilekçesinde; müvekkilleri ile davalı yüklenici arasında Karşıyaka 2.Noterliğinin 17/08/2011 tarih ve 30913 yevmiye numaralı kat karşılığı inşaat sözleşmesi imzalandığını, sözleşmeye göre inşaat sürsinin ruhsat tarihinden itibaren iki yıl olarak kararlaştırıldığını ancak aradan geçen altı senede herhangi bir inşaat çalışması bulunmadığını, davalıya gönderilen ihtarname ile verilen sürede sözleşmenin gereği yerine getirilmediğinden sözleşmenin feshedildiğini, taraflar arasındaki kat karşılığı inşaat sözleşmesinin feshinin tespiti ile tapudaki sözleşme şerhinin terkinini talep etmiştir.
 
 …
@@ -214,6 +232,8 @@ Temyiz olunan Bölge Adliye Mahkemesi kararının 6100 sayılı Kanunun 370 nci 
 
 ## Yargıtay 6. HD 2023/3481 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/985060300)
+
 Davalı ... ve Kale Vergi Dairesi vekili cevap dilekçesinde özetle; müvekkili tarafından dava dışı ...Anadolu İnşaat Taahhüt Mühendislik Kont. İth.
 
 …
@@ -226,6 +246,8 @@ Asliye Hukuk Mahkemesinin 2008/244 Esas ve 2013/34 Karar sayılı ilamı ile ars
 10 numaralı bendin hüküm fıkrasından çıkarılması, izleyen bent numaralarının teselsül ettirilmesine, hükmün değiştirilmiş bu şekliyle DÜZELTİLEREK ONANMASINA …
 
 ## Yargıtay 6. HD 2023/1191 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/906247300)
 
 Davacılar vekili dava dilekçesinde; davacı müvekkilleri ile davalı ... Isı Sistemleri Mimarlık İnş. Ltd.
 

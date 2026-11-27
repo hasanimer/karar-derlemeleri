@@ -22,6 +22,8 @@ uyari: "Derleyenin seçtiği alıntılardır; kararın tamamı değildir. Künye
 
 ## Ankara BAM 27. HD 2025/1329 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1185325500)
+
 Davacı vekili: Taraflar arasında akdedilen dava dilekçesi ekinde sunulan Ankara 50.
 
 …
@@ -42,6 +44,8 @@ Davacı vekilinin istinaf başvurusunun HMK'nın 353/1-b.1 maddesi gereğince es
 
 ## İstanbul BAM 15. HD 2025/699 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1156760400)
+
 Noteri 18/03/2011 tarih ve ... yevmiye nolu Düzenleme Şeklindeki Gayrimenkul Satış Vaadi ve Kat Karşılığı İnşaat Sözleşmesineden ödeme talebinin Büyükçekmece 4.AHM.nin 2013/378 esas sayılı dosyasında kabul edilmesi halinde bu sözleşme kapsamında davalı ... Yapı ...Tic. Aşye 18/03/2011 tarihinde yapılan 1.000.000 USD ödemenin ticari avans ile birlikte davacıya iadesine karar verilmesini talep ve dava etmiştir. Davalı ... Yapı A.Ş ; banka havalesi ile gönderilen meblağın hangi amaçla gönderildiğine dair 18/03/2011 tarihli banka havalesinde de bir açıklama olmadığını, yapılan ödemenin sözleşmeye ilişkin olması halinde bu sözleşmenin feshi ile ilgili davada verilen kararın kesinleşmesi halinde böyle bir alacağın iadesinin bahis konusu olacağını, aksi takdirde sözleşme ayakta kaldığı süreç içinde böyle bir alacağın muaccel olamayacağı cihetle talep edilmesinin hukuken mümkün olamayacağı, talep edilen 1.000.000 USD tutarındaki alacak dava tarihi itibariyle muaccel hale gelmiş bir alacak olmadığından dava konusu edilemeyeceği cihetle davanın reddine, Büyükçekmece 4. AHM.
 Dosyasının sonucunun beklenilmesine, sözleşmenin 11/5-son maddesi gereğince gönderilen 1.000.000 USD nin maddi ve manevi kayıplarının karşılığı olarak sayılmasına ve bu davanın reddine karar verilmesini talep etmiştir.Birleşen Büyükçekmece 2. Asliye Hukuk Mahkemesi'nin 2016/335 esas sayılı dosyasında davacılar vekili; İstanbul İli, Büyükçekmece ilçesi, ... mahallesinde kain ve tapu sicilinin ... ada, ... ve ... parselleri (ifrazen ... parsel) aynı yerde kain ve tapu sicilinin ... parsel nosunda tescilli taşınmazların davacıların tapulu mülkü iken taraflar arasında Bakırköy ...
 
@@ -58,6 +62,8 @@ HÜKÜM:Gerekçesi yukarıda açıklandığı üzere;A)1-Asıl davada davalı ve
 
 ## Ankara BAM 27. HD 2025/529 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1143978900)
+
 Davalı vekili cevap ve karşı dava dilekçesinde özetle; taraflar arasında imzalanan sözleşme kapsamında tek parselde A, B, C, D ve E blokdan ibaret inşaatta A ve B bloklar yükleniciye, C, D ve E blokların kooperatife özgülendiğini, sözleşme hükümlerine göre yapılacak olan toplam kapalı inşaatın %51 hissesinin kooperatifin, %49 hissesinin de yüklenicinin olacağı, yüklenicinin kooperatife ait bağımsız bölümlerin iskan alınmış bir vaziyette teslim edeceğini kararlaştırıldığını, davacı yüklenicinin iskan ruhsatını almadığını, davacı yüklenicinin işbu davanın konusu olan B blok 1,9 ve 13 no'lu bağımsız bölümleri haricen 3. kişilere sattığını, taşınmazı satın alan 3. kişilerce müvekkili kooperatife karşı açılan tapu iptal ve tescil davalarının reddedilerek müvekkili lehine sonuçlandığını ve kesinleştiğini, davacı yüklenicinin davaya konu edilen B blok 13 no'lu dairenin kooperatif adına alınan tapu kaydının bu defa da iptali ile kendi adına tesciline karar verilmesi istemli açılan davanın yüklenicinin sözleşmeden kaynaklı edimlerini yerine getirmemesi nedeniyle davanın reddine karar verildiğini ayrıca yüklenicinin E blokun geç teslimi dolayısıyla müvekkili tarafından açılan tazminat
 davasında gecikme tazminatına mahkum edildiğini, davacı yüklenicinin belediyeye olan kanal katılım payı borcu ve muhtelif vergi borçları nedeniyle kooperatifin bütün daire tapuları üzerine şerh konulduğunu, üyelerin daire satışlarının uzun süre engellendiğini, bahse konu borçları müvekkili yapılandırarak yüklenici namına ödediğini, kooperatif genel kurulunda alınan kararla B blok 42 no'lu daire satılarak yüklenicinin borcuna mahsup edildiğini, taraflar arasında 26.07.2006 tarihinde F blok için "Ek Paylaşım Protokolü" yapılarak anılan blokta bulunan daireler için ayrı bir paylaşım planı ve yüklenicinin müvekkili kooperatife 62.000,00 USD vermesi kararlaştırılmışsa da, protokol noterde resen düzenleme şeklinde yapılmadığından geçersiz olup müvekkilinin protokol ile bağlı olmadığını, davacı yüklenicinin işbu dava açılana kadar tüm bloklar için iskan ruhsatı alamamasının, F blok için ise proje tadilatı yaparak kat irtifakı kuramamasının nedeninin müvekkilinin vekaletname vermemesi ya da iptal etmesi değil, paylaşımda kendisine bırakılan A ve B bloklarda fazla inşaat yapması, müvekkile ait C,D ve E bloklarında imara aykırılıklar bulunması, F blokun ise 3194 sayılı İmar Kanunu'nun 32.
 maddesine aykırı olarak yapı ruhsatı alınmadan kaçak olarak inşa edilmesinden kaynaklandığını, müvekkilinin elinde ferağ vermediği dört adet bağımsız bölüm bulunduğunu, müvekkilinin davacıya su borcu bulunmadığını, yapı kayıt belgesinin iskan ruhsatı olmadığını geçici bir belge olduğunu bildirerek davanın reddi gerektiğini savunmuş, karşı davasında ise fiilen yerinde yapılan kapalı inşaat alanının sözleşmede belirtilen hisse oranlarına göre paylaşılmasını teminen, inşaatta kullanılan toplam kapalı alanının belirlenerek müvekkile düşen kısmın ve buna bağlı olarak müvekkilinin davacı yükleniciden talep edebilecek kapalı inşaat alanının tespitine karar verilmesini talep etmiştir.
@@ -73,6 +79,8 @@ Ankara 5. Asliye Ticaret Mahkemesi'nin 24.02.2023 tarih,2022/621 Esas-2023/96 Ka
 
 ## Adana BAM 6. HD 2025/471 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1129111900)
+
 Davalı ...'nin verdiği cevap dilekçesinde özetle; dava konusu taşınmazlarda hissedar olmadığını, kendisine ait olan hisselerini, ...'in müşterilerine inşaat yarım kalmasın diye sattığını, sattığı kişileri tanımadığını, hepsinin müteahhit ...'in müşterisi olduğunu belirterek, davacının davasının reddine karar verilmesini talep etmiştir.
 
 …
@@ -81,10 +89,14 @@ Taraflar arasında imzalanan Adana 10. Noterliği'nin 4 Ekim 2007 tarih ve ... s
 
 ## İstanbul BAM 3. HD 2024/2391 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1073806400)
+
 21\. maddede ihale sonucunda onaylanması; 22. maddede ihale sonucunu bildirilmesi; 23 maddede sözleşmeye davet ve ihalenin sözleşmeye bağlanması usullerinin gösterildiği; bir başka anlatımla, uyuşmazlığa esas imar durumu ve veya inşaat alanı yönünden özel bir düzenleme yer almadığı; Sözleşme Tasarısı'na atıflar bulunduğu; Yönetmelik Hükümleri Yürürlüğe Girmeden Evvel Davacıların Yapı Ruhsatı Almasının Mümkün Olup Olmadığının Aynı Yönetmelik'in “Yürürlükten Kaldırılan Yönetmelik” Başlıklı 70.Maddesi,“Yürürlük” Başlıklı 71.Maddesi Ve Yönetmelik'in Geçici 3.Maddesi Hükümlerine Göre Değerlendirme;a) Mevzuat Yönünden;
 Bölge Adliye Mahkemesi'nin kaldırma kararında bahsi geçen Yönetmeliğin ilgili hükümleri aşağıda gösterildiği;“Yürürlükten Kaldırılan Yönetmelik” kenar başlıklı 70. madde:“2/11/1985 tarihli ve 18916 mükerrer sayılı Resmi Gazete'de yayımlanan Planlı Alanlar Tip İmar Yönetmeliği 1/10/2017 tarihinde yürürlükten kalkar.”“Mevcut Yapı Ruhsatı Başvuruları” kenar başlıklı geçici 3. madde:“ 22/5/2014 tarihinden önce yapı ruhsatı almaya yönelik olarak işlemlere başlanılmış olan ve bu maddenin yürürlüğe girdiği tarihten önce veya sonra yapılan yapı ruhsatı başvuruları, 1/10/2017 tarihine kadar sonuçlandırılmak kaydıyla, başvuru sahibinin talebine bağlı olarak, ilgili işlem tarihinde » 30/5/2013 tarihi ve sonrasında yürürlükte olan Yönetmeliğin hükümlerine göre neticelendirilir. Ancak, bu madde hiçbir şekilde bu Yönetmelik hükümlerinin karma kullanımı ve yapının planla belirlenen kat adedini artırmak amacıyla uygulanamaz ve bu amaçla yapıruhsatı düzenlenemez.Kat karşılığı ve hasılat paylaşımı modelleri hariç olmak üzere,kamu kurum ve kuruluşlarınca bu.
 
 ## İstanbul BAM 15. HD 2024/1270 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1102506500)
 
 A.1 maddesi ile ... ve ... bu protokol tarihinde sözleşme dışına çıkarılan 3 parsel üzerindeki hafriyat toprağının kaldırılması bedelinin 764.640,00 TL. olduğu konusunda mutabık kaldıklarını, Belediye tarafından iade edilecek bedelinde 698.000,00 TL. olduğu hususlarında mutabık kaldıklarını, sözleşme dışına çıkarılan 3 parseldeki arsa için Belediye'ye ... tarafından ödenmiş olan 698.000,00 TL. tutarındaki bedelin arsa üzerindeki hafriyat toprağının kaldırılması karşılığında ... tarafından yapılacak inşaat nedeniyle belediyeye ödenmesi gereken resmi bedellerden mahsup edilmesi konusunda anlaştıklarını, protokolün 4.A.2 maddesi uyarınca ... bu protokolün 4.B maddesi gereğince ... tarafından yapılması gereken işlemlerin yapılmasından itibaren en geç 3 ay içinde belediyeye inşaat ruhsatı için başvurmayı kabul ettiğinin hüküm altına alındığını, ... tarafından 4 B maddesinde belirtilen hususların yerine getirilmemesi nedeniyle, ... adına müvekkili şirket bu süreler geçtikten sonra zorunlu olarak 02.12.2011 tarihinde ruhsat başvurusu yaptığını, her hangi bir mahsuplaşma yapılmadan 1.129.638,40 TL. masraf yaparak ruhsat aldığını, protokolün 4 B maddesi uyarınca ... protokolün imzası
 tarihinden 15 iş günü içinde mimari, statik, elektrik, mekanik ve peysaj projelerinin ... tarafından tadil edilmesine proje müelliflerinin muvafakatini alacağını, 4B 2 maddesinde arsanın mevcut inşaat ruhsatındaki yapı denetim firmasınca müteahhit değişikliği bildirimini yaparak belediyece onaylanmasını sağlayacağını, 4 B.3 maddesince Esenyurt Belediyesine daha önce ödemiş olduğu harç ve diğer bedellerin yapılacak ruhsat tadilatı sonucu ...
@@ -94,6 +106,8 @@ Maddesi kapsamında ... hafriyat toprağını kaldırdığını ve protokolün b
 İhbar olunan ... şirketi ise, dava konusu 3 parsel ifraz edilmeden önce, 1 parsel olup, 1 parsele ilişkin davalı arsa sahibi Kapital şirketi ile Kat karşılığı inşaat sözleşmesi yapan yüklenicidir.
 
 ## İstanbul BAM 53. HD 2024/1137 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1086788000)
 
 İnşaat firması olduğunu, davanın husumet yokluğu nedeniyle reddi gerektiğini, yine davacının sunduğu temlik sözleşmesinin ilgili maddesine göre tapular devredilmezse davacının tüm zararının yüklenici tarafından karşılayacağının hüküm altına alındığını, davacının tapu iptal davası açtığını, reddine karar verildiği ve kesinleştiğini, davacının oluşan bir zararı varsa sözleşmesinin tarafı olan yükleniciden talep etmesi gerektiğini, aynı konuda kesinleşmiş hüküm bulunduğunu, hukuki yarar yokluğundan davanın reddi gerektiğini, davacının iş bu davanın konusu ile aynı gayrimenkuller için (1 ve 4 nolu bağımsız bölümlerin tapu ile ve tescili) Bakırköy 2 Asliye Ticaret Mahkemesi'nin 2015/175 E.
 Sayılı dosya ile dava açtığını, ve davasının red edilerek, Yargıtay denetiminde de geçerek kesinleştiğini, kesinleşen karara göre 1 ve 4 nolu bağımsız bölümlerin tapu iptal taleplerinin red edildiğini, davacının bu sefer bu dava ile tapuları değil paralarını istediğini, yani davalarının konusunun aynı olduğunu, kesinleşmiş mahkeme kararı varken iş bu davanın açılmasının mümkün olmadığını, kesinleşmiş bir konuda tekrar dava açılamayacağını, yüklenicinin binayı proje ve imar mevzuatına aykırı inşa ettiğinin, edimini yerine getirmediğinin mahkeme kararları ile sabit olduğunu, edimini yerine getirmeyen yüklenicinin alacak talep edemeyeceği gibi gerçekte davacıya yapılmış usule uygun bir temlik ve bu temlik karşılığı ödenen bir para da olmadığını belirterek davanın reddine karar verilmesini talep etmiştir. Mahkemece; davacı her ne kadar dava dışı ... İnşaat şirketinden temlik alınan İstanbul İli, Beylikdüzü İlçesi, ... Ada, ... Parsel sayılı taşınmazdaki 1 ve 4 no.lu bağımsız bölümlerin piyasa rayiç bedellerinin bilirkişi marifetiyle ve rapor tarihi itibarıyla tespiti sonucu davacının davalıdan olan alacağının belirlenmesi, Bakırköy 4.
@@ -111,6 +125,8 @@ HÜKÜM: Gerekçesi yukarıda açıklandığı üzere;A)1-Davacı vekilinin isti
 …
 
 ## Antalya BAM 7. HD 2024/787 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1047216600)
 
 Davacı vekili açtığı dava ile, davalı yüklenici ... ile diğer davalılar arsa sahipleri arasında arsa sahiplerine ait ... mahallesi, ... ada ... parseldeki taşınmaza ilişkin noterde kat karşılığı inşaat sözleşmesi düzenlendiğini, davalı yüklenicinin yapacağı inşaat karşılığı 36 adet bağımsız bölüm alacağını, davacı ile davalı yüklenici arasında inşaatın PVC pencere kapı doğrama işlerini davacı tarafından 308.000 euro bedelle yapılması konusunda anlaşma sağlandığını, yüklenici tarafından davacıya çek verildiğini, bir kısım çeklerin karşılıksız çıktığını, Antalya 4. İcra Dairesinin ...
 
@@ -132,6 +148,8 @@ Davalı ... vekili cevabında, asıl dava dosyasında verdiği cevap dilekçesiy
 Yerel mahkeme kararının esası incelenmeksizin ORTADAN KALDIRILMASINA ve davanın yeniden görülmesi için dosyanın kararı veren mahkemeye GÖNDERİLMESİNE …
 
 ## Ankara BAM 22. HD 2024/711 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1038045200)
 
 Dava, itirazın iptali istemine ilişkindir.
 

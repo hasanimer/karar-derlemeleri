@@ -21,6 +21,8 @@ uyari: "Derleyenin seçtiği alıntılardır; kararın tamamı değildir. Künye
 
 ## Yargıtay HGK 2021/1102 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/709860800)
+
 4\.
 
 …
@@ -85,6 +87,8 @@ Taraflar arasında hasılat paylaşım esasına dayalı 11.07.2016 tarihli arsa 
 
 ## Yargıtay 3. HD 2025/2781 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1157465300)
+
 Davacı asıl; davalı yüklenici şirket ve davalı arsa sahibi ... arasında Ankara İli Etimesgut İlçesi ... Mahallesi 46658 ada 1 parselde kayıtlı bulunan arsaya yönelik .... Noterliğinin 14.10.2011 tarihli ve ... yevmiye numaralı "Düzenleme Şeklinde Kat Karşılığı İnşaat ve Satış Vaadi Sözleşmesi" akdedildiğini, bilahare ....
 
 …
@@ -99,6 +103,8 @@ Sözleşme, özetlenen bu hükümleriyle birlikte bir bütün olarak değerlendi
 Bu durumda, Bölge Adliye Mahkemesince; arsa maliki davalı ... ile davacı arasında sözleşme ilişkisinin bulunmadığı, bu nedenle davacı tarafından arsa maliki olan davalıya husumet yöneltilemeyeceği gözetilerek, davanın davalı ... yönünden husumet yokluğundan reddine karar verilmesi gerekirken, davalılar arasındaki sözleşme maddelerinin yorumlanmasında maddi yanılgıya dayalı Dairemiz bozma kararına uyularak davanın davalı arsa sahibi yönünden kabulüne karar verilmesi, doğru görülmemiş bozmayı gerektirmiştir.
 
 ## Yargıtay 6. HD 2025/2079 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1160085800)
 
 Davacı vekili dava dilekçesinde; taraflar arasında İstanbul ili, ... ilçesi, ... Köyü, ....mevkiinde kain ... pafta, ... parselde kayıtlı 15.320 m², ve ... pafta, ... parselde kayıtlı 11.869 m² arsa vasıflı gayrimenkuller ile ilgili olarak "Düzenleme Şeklinde Hasılat Paylaşımlı Arsa Payı Karşılığı Bina Yapımı ve Satış Vaadi Ön Anlaşması" yapıldığını, sözleşme gereği müvekkilinin davalı şirkete toplam 350.000,00 USD ödeme yaptığını, 10.000,00 USD'nin şirket muhasebe sorumlusu ....'a belge karşılığı teslim edildiğini, bakiye 250.000,00 USD'nin banka aracılığı ile şirket hesabına gönderildiğini, davalının sözleşmeyi arsa sahibi sıfatıyla imzaladığını, ancak daha sonra arsa sahiplerinin dava dışı .... ve ..... San. ve Tic.
 
@@ -117,6 +123,8 @@ Tarafların ileride yapacakları asıl sözleşme "Düzenleme Şeklinde Hasılat
 İlk Derece Mahkemesi kararının BOZULMASINA …
 
 ## Yargıtay 7. HD 2025/123 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1130135600)
 
 Davacı vekili asıl ve birleştirilen dosyaya sunduğu dava dilekçelerinde; yüklenici ... Gıda Pazarlama İnşaat Turizm Taahhüt Tic. ve San. Ltd.
 
@@ -139,6 +147,8 @@ Temyiz olunan Bölge Adliye Mahkemesi kararının 6100 sayılı Kanun'un 370 inc
 
 ## Yargıtay 6. HD 2024/3637 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1109123700)
+
 Davalı iş sahibi vekili cevap dilekçesinde özetle; arsa payı karşılığı gelir paylaşımı işini üstlenen dava dışı yüklenici adi ortaklığın işi tamamlamada temerrüde düştüğünü, işi bitiremeyeceğini müvekkil şirkete bildirdiğini, masrafları daha sonra elde edeceği kendi hasılat payından mahsup edilmek üzere nam-ı hesap komisyonu kurularak tamamlattırılmasını müvekkili şirketten talep ettiğini, müvekkili şirketin kabulü ile nama ifa sürecinin başladığını, bu süreç içerisinde yüklenicinin ödemekle ve tamamlamakla yükümlü olduğu sözleşme konusu işle ilgili tüm giderlerin sözleşme gereği yükleniciye düşen hasılattan mahsup edilmek üzere nama ifa çerçevesinde müvekkili şirket tarafından karşılandığını, dava tarihi itibariyle dava dışı yüklenicinin müvekkili şirkete 74.252.266,90 TL borçlu iken müvekkili şirket tarafından temlik alacaklısı davacı tarafa temlik alacağı ödemesinin mümkün olmadığını, zira nama ifa dikkate alındığında yüklenici firmanın temlike konu doğmuş alacağının bulunmadığını, ayrıca projede kesin hesap ve kesin kabullerin yapılmadığını, kesin kabul tarihine kadar yüklenicinin borç tutarında artış olmasının yüksek ihtimal dahilinde olduğunu, davacı bankanın yüklenicinin
 ihale dokümanı ve sözleşme hükümlerini yerine getirmek üzere vermek zorunda olduğu toplam 30.393.000,00 TL kesin ve süresiz teminat mektubu bedelini müvekkili şirkete ödemeyi garanti ettiğini, 2017 Şubat ayında dava dışı yüklenicinin müvekkili şirkete 136.277.543,53 TL borçlu iken davacı bankadan teminat mektuplarının paraya çevrilmesinin talep edildiğini, bankanın talebi kabul etmediğini, bunun üzerine davacı bankaya karşı İstanbul 11.
 
@@ -153,6 +163,8 @@ Bu durumda mahkemece, iş bu dava tarihi itibariyle dava dışı yüklenicinin g
 SONUÇ: Yukarıda açıklanan nedenlerle davalı vekilinin temyiz itirazlarının kabulü ile ilk derece mahkemesi kararı ile bu karara karşı yapılan istinaf başvurusunun esastan reddine ilişkin kararın usul ve yasaya aykırı olması nedeniyle HMK'nın 373/1. maddesi gereğince İstanbul Bölge Adliye Mahkemesi 3. Hukuk Dairesi kararı KALDIRILARAK; İstanbul Anadolu 3. Asliye Ticaret Mahkemesi’nin 2021/753 Esas …
 
 ## Yargıtay 6. HD 2024/1935 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1086020200)
 
 2\.
 
@@ -177,6 +189,8 @@ Sonucu itibarıyla doğru olan Bölge Adliye Mahkemesi kararının re'sen gerek�
 
 ## Yargıtay 3. HD 2023/3256 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/982031100)
+
 Davacılar vekili, müvekkillerinin hissedar oldukları taşınmazlarının bulunduğu bölgenin ...
 
 …
@@ -191,6 +205,8 @@ metrekarelik hissesine karşılık, aynı proje alanı içinde TOKİ tarafından
 gerekirken, teslim yapılmış gibi eksik ve ayıp işlerden dolayı davanın kabulüne karar verilmiş olmasının usul ve yasaya aykırı olduğu, proje kapsamında alanda yapılacak inşaat ve konut sayısının başlangıçta belirtilmediği, hak sahiplerine konut alanında yapılacak olan inşaat sayısına göre ilave bir hak tanınmadığı, bu durumda, Muvafakat Senedinin 2.3.1 maddesinde taşınmaz sahiplerinin arsa büyüklüklerine göre konut sözleşmesi yapma esasları belirlendiğine ve davacılar da bu sözleşme ile bağlı olduklarına göre; mahkemece, bu talepler yönünden davanın reddine karar verilmesi gerektiği belirtilerek Mahkeme kararı bozulmuştur.
 
 ## Yargıtay 3. HD 2023/2756 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1002613800)
 
 Davacı; dava dışı ... ... Konut San.
 

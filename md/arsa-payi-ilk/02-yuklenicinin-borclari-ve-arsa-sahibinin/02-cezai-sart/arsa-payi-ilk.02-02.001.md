@@ -24,8 +24,12 @@ Arsa payı devri karşılığı eser sözleşmesinin feshine mahkeme karar verec
 
 ## Yargıtay 6. HD 2026/43 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1207095300)
+
 Somut uyuşmazlıkta kararlaştırılan cezai şart ifanın geciktirilmesi halinde ifaya ekli olarak kararlaştırılan bir şart olup sözleşmenin geriye etkili feshi halinde ifadan vazgeçildiğinden gecikme cezası istenemeyecektir.
 
 ## İstanbul BAM 53. HD 2026/27 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1188703100)
 
 Bu konuda ölçüye esas olacak şekilde gerekmesi halinde aynı bilirkişi heyetinden ek rapor alınarak dayanağı ve gerekçesi belirtilerek indirim uygulanması gerekir. Mahkemece herhangi bir dayanak gösterilmeden, gerekçe belirtilmeden cezai şarttan indirim yapılması uygun olmamıştır.İstinaf dilekçesine göre de; davacı arsa sahibi, mahkemece verilen karardan sonra uyuşmazlığa konu sözleşmenin feshi için davası açtığını ileri sürdüğünden, sözleşmenin feshi davasındaki talep göz önüne alındığında fesih davasının sonucunun bu davayı etkileyip etkilemeyeceğinin de değerlendirilmesi gerekir.Açıklanan nedenlerle, taraf vekillerinin istinaf taleplerinin kabulü ile usul ve yasaya uygun bulunmayan yerel mahkeme kararının 6100 sayılı HMK'nın 353/1-a-6 maddesi gereğince kaldırılarak yukarıda açıklanan şekilde inceleme ve araştırma yapıldıktan sonra oluşacak uygun sonuç dairesinde bir karar verilmesi için dosyanın yerel mahkemesine gönderilmesine karar verilmesi gerekmiştir." şeklinde gerekçe ile ilk derece mahkemesi kararının kaldırılmasına karar verilmiştir.

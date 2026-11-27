@@ -35,22 +35,32 @@ Muvazaadan bahis olan Borçlar Kanununun on sekizinci maddesi hükmüne göre mu
 
 ## Yargıtay HGK 2025/231 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1152395200)
+
 Kural olarak üçüncü kişiler muvazaalı işlem nedeniyle hakları zarara uğratıldığı takdirde tek taraflı veya çok taraflı olan bu hukuki işlemlerin geçersizliğini ileri sürebilir. Çünkü muvazaalı bir hukuki işlem ile üçüncü kişilere zarar verilmesi onlara karşı işlenmiş bir haksız eylem niteliğindedir. Ancak genel usul kuralı gereğince her davada olduğu gibi anılan bu davada da davacının hukuki yararının bulunması zorunludur. Başka bir anlatım ile üçüncü kişinin muvazaalı işlem ile haklarının zarar uğratıldığının benimsenebilmesi için onun muvazaalı işlemde bulunandan alacaklı olması ve muvazaalı işlemin alacağının ödenmesini önlemek amacıyla yapılmış bulunması gerekmektedir. Zira davacının bu davadaki amacı alacağını tahsil edebilmek için muvazaa nedeniyle temelde geçersiz olan işlemin hükümsüzlüğünü sağlamaktır.
 
 ## Yargıtay HGK 2024/220 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1055533400)
 
 Davanın açıldığı tarihte yürürlükte bulunan 818 sayılı Borçlar Kanunu’nun (BK) 18 inci \[6098 sayılı Türk Borçlar Kanunu’nun (TBK) 19 uncu] maddesinde; “Bir akdin şekil ve şartlarını tayininde, iki tarafın gerek sehven gerek akitteki hakiki maksatlarını gizlemek için kullandıkları tabirlere ve isimlere bakılmıyarak, onların hakiki ve müşterek maksatlarını aramak lazımdır. Tahriri borç ikrarına istinat ile alacaklı sıfatını iktisabeden başkasına karşı, borçlu tarafından muvazaa iddiası dermeyan olunamaz.” hükmü ile genel muvazaa kurumu düzenlenmiştir. Bilindiği üzere “tarafların üçüncü kişileri aldatmak amacı ile gerçek durumu onlardan gizleyerek kendi gerçek iradelerine uymayan ve kendi aralarında geçerli olmayan bir hususta anlaşmalarına” muvazaa ve bu şekilde yapılan işlemlere de “muvazaalı işlemler” denilir. Başka bir anlatımla muvazaa;
 “açıklanan beyanlarının gerçek maksatlarına uymadıklarını bildikleri hâlde, tarafların kastettikleri durumdan başka bir ilişkide kendilerini anlaşmış gibi göstermeleri hâli (7.10.1953 tarihli ve 1953/8 Esas, 1953 Karar sayılı Yargıtay İçtihadı Birleştirme Kararı), tarafların üçüncü kişileri aldatmak amacıyla kendi gerçek iradelerine uymayan haksız eylem niteliğinde anlaşmalarıdır.” Muvazaalı bir hukuki işlemden bahsedebilmek için; tarafların iradeleri ile beyanları arasında isteyerek oluşturulmuş bir uygunsuzluk, üçüncü kişileri aldatmak (muvazaa) niyeti, taraflar arasında gizli işlemi yaratan muvazaa sözleşmesi bulunmalıdır.
 
 ## Yargıtay HGK 2023/985 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/962467500)
+
 BK'nun 19.maddesinde anlamını bulan muvazaa, tarafların 3. kişileri aldatmak amacı ile ve fakat kendi gerçek iradelerine uygun olmayan ve aralarında hüküm ve sonuç doğurmayan bir görünüş yaratmak hususunda anlaşmalarıdır şeklinde tanımlanabilir. Tarafların görünüşte yaptıkları işlemle, iradelerinin birleştiği işlem birbirinden farklılık taşıdığı durumlarda muvazaanın söz konusu olduğu kabul edilmelidir. Kural olarak üçüncü kişiler muvazaa nedeniyle zarara uğradıkları takdirde tek taraflı ve çok taraflı hukuki muamelelerin geçersizliğini ileri sürebilirler. Çünkü muvazaalı bir işlem ile üçüncü kişinin zarar görmesi ona karşı işlenmiş bir haksız eşlem niteliğindedir. Ancak, üçüncü kişilerin muvazaalı işlem ile zarar gördüklerinin benimsenebilmesi için onun işlemi yapandan alacağının bulunması ve alacağın ödenmesini önlemek için muvazaalı işlemin yapılmış olması gerekir.
 
 ## Yargıtay HGK 2015/1544 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/115304700)
+
 Bu noktada öncelikle, muvazaa kavramı üzerinde durulmasında yarar vardır. İrade ve beyan arasında bilerek yaratılan uyumsuzluk şeklinde tanımlanan muvazaa, pozitif hukukumuzda Borçlar Kanunu’nun 18. maddesinde düzenlenmiştir.Mülga 818 sayılı Borçlar Kanunu’nun 18. maddesinde “bir aktin şekil ve şartlarını tayinde, iki tarafın gerek sehven, gerek akitteki hakiki maksatlarını gizlemek için kullandıkları tabirlere ve isimlere bakılmayarak, onların hakiki ve müşterek maksatlarını aramak lazımdır” ifadeleri mevcut olup, daha çok sözleşmenin yorumuyla ilgili olduğundan, öğreti ve uygulamada muvazaa kapsamlı olarak incelenmiş ve belirli kurallara bağlanmıştır.(Benzer hükme de 6098 sayılı TBK’nın 19. maddesinde yer verilmiştir.)…
 
 ## Yargıtay HGK 2015/1524 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/115293200)
 
 Öncelikle, muvazaa kavramı üzerinde durulmasında yarar vardır. İrade ve beyan arasında bilerek yaratılan uyumsuzluk şeklinde tanımlanan muvazaa, pozitif hukukumuzda mülga 818 sayılı Borçlar Kanunu’nun 18. maddesinde düzenlenmiştir. Borçlar Kanunu’nun 18. maddesinde “bir aktin şekil ve şartlarını tayinde, iki tarafın gerek sehven, gerek akitteki hakiki maksatlarını gizlemek için kullandıkları tabirlere ve isimlere bakılmayarak, onların hakiki ve müşterek maksatlarını aramak lazımdır” ifadeleri mevcut olup, daha çok sözleşmenin yorumuyla ilgili olduğundan, öğreti ve uygulamada muvazaa kapsamlı olarak incelenmiş ve belirli kurallara bağlanmıştır.(Benzer hükmede 6098 sayılı TBK’nun 19. maddesinde yer verilmiştir.)…
 
@@ -60,13 +70,19 @@ Muvazaa hukuksal kavram olarak TBK'nın 19. maddesinde düzenlenmekte olup, anı
 
 ## Yargıtay 10. HD 2024/8995 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1083285100)
+
 Muvazaalı sözleşmeler yapıldıkları andan itibaren geçersiz olduğundan kural olarak taraflar arasında herhangi bir hüküm ve sonuç doğurmazlar. Bu nedene dayalı olarak açılan dava sonucunda mahkemece verilecek kararlar yenilik doğurucu değil açıklayıcı niteliktedir. Hükümsüzlüğe bağlanan bu sonuç muvazaalı sözleşmenin taraflarına ilişkindir. Kural olarak üçüncü kişiler muvazaalı işlem nedeniyle hakları zarara uğratıldığı takdirde tek taraflı veya çok taraflı olan bu hukukî işlemlerin geçersizliğini ileri sürebilir. Çünkü muvazaalı bir hukukî işlem ile üçüncü kişilere zarar verilmesi onlara karşı işlenmiş bir haksız eylem niteliğindedir.
 
 ## Yargıtay 17. HD 2020/6917 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/645995800)
+
 Yüzeysel bakıldığında iptal davaları ile muvazaa davaları arasında bir benzerlik görülmekte ise de bu benzerlik her iki davanın güttüğü amaçtan öte gitmemektedir. İİK'nin 277. maddesinde sözü edilen iptal davaları borçlu tarafından geçerli olarak yapılmış bazı tasarrufların hükümsüz kılınması için açılırken, muvazaa davası borçlunun yaptığı tasarrufi işlemlerin gerçekte hiç yapılmamış olduğunu tespit ettirmeyi amaçlar. Kural olarak muvazaa nedeniyle hakları ihlal olunan ve zarar gören 3.kişiler tek taraflı veya çok taraflı hukuki işlemlerin geçersizliğini ileri sürebilirler. 3.kişinin danışıklı işlem ile hakkının zarar gördüğünün benimsenebilmesi için onun danışıklı işlemde bulunandan bir alacağının var olması ve bu alacağın ödenmesinin önlemek amacıyla danışıklı bir işlem yapılması gerekir. Davacının bu davadaki amacı alacağını tahsil edebilmek için muvazaa nedeniyle temelde geçersiz olan işlemin hükümsüzlüğünü sağlamaktır. Muvazaaya dayalı davalarda davacının icra takibine geçmesi ve aciz belgesi almasına gerek yoktur. Çünkü yukarıda açıklandığı gibi İİK'nun 277 ve izleyen maddelerinde iptal davasına konu tasarruflar özünde geçerli…
 
 ## Yargıtay 1. HD 2018/193 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/402070800)
 
 Öte yandan, muvazaanın varlığını iddia eden taraf veya bunların ardılı (halefi) sıfatı ile hareket eden, başka bir anlatımla sözleşmenin yanlarından birine teb'an dava açan kişi TMK'nin 6. maddesi gereğince bu iddiasını ispat etmek zorundadır. Senede bağlı bir sözleşmeye karşı muvazaa iddiası, 6100 s. Hukuk Muhakemeleri Kanunu'nun (HMK) 200, ve 201. (1086 s. Hukuk Usulü Muhakemeleri Kanununun (HUMK) 288 ve 290.) maddelerinde belirtildiği üzere ancak yazılı delille kanıtlanabilir. Sözleşme aynı Kanunun 203. (HUMK'nun 293.) maddesinde sözü edilen yakın akrabalar arasında yapılmış olsa dahi, muvazaanın yazılı delille ispat edilmesi gerekir. Böyle bir sözleşmenin resmi şekilde yapılması halinde bile olayın özelliği itibariyle adi yazılı delilin yeterli olacağı öğretide ve kararlılık kazanmış yargısal içtihatlarda ortaklaşa kabul edilmiştir. İşte bu görüşten hareketle, 5.2.1947 tarihli 20/6 sayılı İçtihatları Birleştirme Kararında taraf muvazaası ve takma ad (namı-müstear) davalarında iddianın ancak yazılı delille kanıtlanabileceği kabul edilmiştir.
 

@@ -21,6 +21,8 @@ uyari: "Derleyenin seçtiği alıntılardır; kararın tamamı değildir. Künye
 
 ## İstanbul BAM 17. HD 2020/1591 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/587257500)
+
 Dava, "İnşaat Tüm Riskler Sigorta Poliçesi" kapsamında hasar bedelinin tahsili istemine ilişkindir.
 
 …
@@ -38,10 +40,14 @@ harcamasının 3.858.879,88 TL'ye ulaştığını belirtmişlerdir. İnşaat Sig
 
 ## İstanbul BAM 7. HD 2020/1229 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/597117700)
+
 GEREĞİ DÜŞÜNÜLDÜ: Dava, taraflar arasında noterlikte düzenlenen Düzenleme Şeklinde Taşınmaz Satış Vaadi ve Kat Karşılığı İnşaat Sözleşmesi gereği davalıların üstlendikleri yükümlülükleri yerine getirmemeleri nedeni ile sözleşmenin haklı nedenle feshinin tespiti ile açılacak alacak davasına kadar davalı şirkete devredilen bağımsız bölümlerin üçüncü kişilere devrine yönelik ihtiyati tedbir istemine ilişkindir. Dairemizin görev alanı HSK'nun 01/09/2020 tarihli kararında belirtilen işlerle sınırlıdır. 01/09/2020 tarihli İstanbul Bölge Adliye Mahkemesi Hukuk Daireleri ve Ceza Daireleri arasındaki iş bölümü kararı gereğince "Arsa, arsa payı ya da kat karşılığı inşaat sözleşmelerinden kaynaklanan davalar nedeniyle verilen hüküm ve kararlar" İstanbul Bölge Adliye Mahkemesi 15. Hukuk Dairesinin görev alanındadır. İstanbul Bölge Adliye Mahkemesi Hukuk Daireleri arasındaki iş bölümünü düzenleyen 01/09/2020 tarihli kararı ve davanın açıklanan niteliği gereğince istinaf başvurusunu inceleme görevi İstanbul Bölge Adliye Mahkemesi 15.
 Hukuk Dairesine ait olduğu, iş bölümü kararı gereğince dairemizin açıkça görevli olmadığı anlaşılmakla, dava dosyanın iş bölümü bakımından görevli İstanbul Bölge Adliye Mahkemesi 15. Hukuk Dairesi'ne gönderilmesine karar verilmesi gerektiği kanaatine varılmış ve açıklanan nedenlerle aşağıdaki hüküm kurulmuştur.
 
 ## İstanbul BAM 15. HD 2020/399 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/577138800)
 
 Davacı vekili, müvekkili ile davalı ... İnşaat Makine Turizm ve Taşımacılık San.Tic. A.Ş arasında 25/08/2017 tarihli taşeronluk sözleşmesi akdedildiğini, müvekkilinin bu sözleşme gereğince davalı ...in maliki olduğu İstanbul ili, Sancaktepe ilçesi, ...köyü,.. parselde kayıtlı bulunan tarla niteliğindeki taşınmazın temel kazı ve hafriyat işlemlerini yapma işini üstlendiğini, müvekkilinin sözleşme gereğince üzerine düşen tüm yükümlülüklerini yerine getirmesine rağmen alacağını alamadığını, davalı ...
 
@@ -57,6 +63,8 @@ Yukarıda anılan Yargıtay kararında ve TMK'nın 895.maddesinde belirtildiği 
 
 ## İstanbul BAM 13. HD 2019/892 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/514046400)
+
 Örneğin müvekkilin oğlu, eşi, annesi veya ortağı olduğu şirketin, tellalın bulduğu üçüncü kişi ile esas sözleşmeyi akdettiği hallerde de tellal, tellallık ücretine hak kazanır Mevcut tellallık sözleşmesinin 4. maddesine göre de "Alıcının kendisi ve/veya yasal ilişki ve irtibatlı bulundukları, kurulmuş/kurulacak kooperatif şirket, konsorsiyum gibi gerçek/tüzel kişilerin dahi almaları veya bu doğrultuda anlaşmalar yapmaları halinde dahi yukarıda belirtilen komisyon ücretinin ALICI tarafından ödeneceği kabul ve taahhüt edilmiştir” şeklinde tespit yapıldığını, Yerel mahkeme tarafından alınan bilirkişinin raporunda dosya içerisinde yer almadığını ifade ettiği ancak dosyada mevcut olan ve bilirkişiler tarafından raporda değerlendirilmeyen belgeler; a-Üsküdar .... Noterliğinin 29.01.2010 tarih ve ... yevmiye numaralı “Düzenleme Şeklinde Taşınmaz Mal Satış Vaadi Ve Kat Karşılığı İnşaat Sözleşmesi’ne ek Ek Tadil Ve Devir Sözleşmesi” incelendiğinde davalı ... Kat Karşılığı İnşaat Sözleşmesini önce ortağı olduğu .... San. Tic. A.Ş. adına düzenlediği daha sonra bu sözleşme ile kardeşleri adına kurdukları .... Tic.
 A.Ş. ye devir etmiş davalı ... ayrıca kendisi de bu sözleşmeye ... müşterek ve müteselsil kefildir” yazdırdığını, iş bu sözleşmenin eki 19.07.2007 tarihli ... yev. sayılı sözleşmeye ek tadil sözleşmesi’ incelendiğinde sözleşmenin 1 nolu bendine devir eden taraf ...San. Tic. A.Ş. 5 nolu bendinde ise davalılar “ ... ve ....San.Ve Tic. Ltd. Şti.” kefil olduğu, kefil olan davalılar iş bu sözleşmede müteahhidin iş bu sözleşmeden kaynaklanan bütün hukuki mali yükümlülüklerine kefil olduklarını, kefalet bu sözleşme yürürlükte kaldığı sürece devam ettiğini, b-Üsküdar .... Noterliğinin 22.06.2009 tarih ve ... yevmiye numaralı “Düzenleme Şeklinde Taşınmaz Mal Satış Vaadi Ve Kat Karşılığı İnşaat Sözleşmesi’ne Ek Ek Devir Sözleşmesi, Muvaffakatname Ve İbranamesi” incelendiğinde devir eden ... San. Tic. A.Ş. şirket yetkilisinin davalı ... olduğu iş bu sözleşmenin ... pafta ... parsel ( tevhit sonrası yeni kayıt ile ... pafta ... parsele) ait olduğunun görüldüğünü, c-Üsküdar ....
 
@@ -65,6 +73,8 @@ A.Ş. ye devir etmiş davalı ... ayrıca kendisi de bu sözleşmeye ... müşte
 HÜKÜM : Yukarıda açıklanan nedenlerle; 1-Davacının istinaf başvurusunun 6100 sayılı HMK' nun 353/1-b1 maddesi gereğince ESASTAN REDDİNE …
 
 ## İstanbul BAM 13. HD 2018/1241 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/457410800)
 
 Davalı ... vekili cevap dilekçesi ile, öncelikle davanın taraflarının tacir olmadığını, davaya konu alacağın kat karşılığı inşaat sözleşmesinden kaynaklandığını görevsizlik kararı verilerek dosyanın Kocaeli Asliye Hukuk Mahkemelerine gönderilmesi gerektiğini, davacı tarafından belirsiz alacak davası açılamayacağını, protokole göre taraflar arasında adi ortaklık kurulduğunu adi ortaklığın nasıl sona ereceğinin Borçlar Kanununuda düzenlendiğini, adi ortaklık sona ermeden hesaplaşma yapılamayacağını, protokolün 18. maddesi gereğince 30/09/2012 tarihinden sonra ... Residence projesine ait ...Ltd.
 

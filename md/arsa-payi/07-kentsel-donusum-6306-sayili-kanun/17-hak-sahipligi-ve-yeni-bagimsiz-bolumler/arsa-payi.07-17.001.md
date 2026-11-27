@@ -41,6 +41,8 @@ Dosyanın incelenmesinden; davanın, 6306 sayılı Kanunun uygulaması sırasın
 
 ## Danıştay 9. D. 2023/6370 E., 2024/2942 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1082024600)
+
 Vergi değeri" başlıklı 29. maddesinin a) bendinde, arsa ve araziler için, 213 sayılı Vergi Usul Kanununun asgari ölçüde birim değer tespitine ilişkin hükümlerine göre takdir komisyonlarınca arsalar için her mahalle ve arsa sayılacak parsellenmemiş arazide her köy için cadde, sokak veya değer bakımından farklı bölgeler (turistik bölgelerdeki cadde, sokak veya değer bakımından farklı olanlar ilgili valilerce tespit edilecek pafta, ada veya parseller), arazide her il veya ilçe için arazinin cinsi (kıraç, taban, sulak) itibarıyla takdir olunan birim değerlere göre, b) bendinde, binalar için, Maliye ve Bayındırlık ve İskan bakanlıklarınca müştereken tespit ve ilân edilecek bina metrekare normal inşaat maliyetleri ile (a) bendinde belirtilen esaslara göre bulunacak arsa veya arsa payı değeri esas alınarak 31 inci madde uyarınca hazırlanmış bulunan tüzük hükümlerinden yararlanılmak suretiyle, vergi değerinin hesaplanacağı belirtilmiştir.
 
 …
@@ -48,6 +50,8 @@ Vergi değeri" başlıklı 29. maddesinin a) bendinde, arsa ve araziler için, 2
 2\. ... Bölge İdare Mahkemesi ... Vergi Dava Dairesinin ... tarih ve E:..., K:... sayılı kararının BOZULMASINA …
 
 ## Danıştay 6. D. 2020/5323 E., 2023/3561 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/989379000)
 
 İlk Derece Mahkemesi kararının özeti: ... İdare Mahkemesince verilen ... tarih ve E:..., K:... sayılı kararda; 6306 sayılı Kanunun Uygulama Yönetmeliğinin 15.
 
@@ -63,6 +67,8 @@ Davanın yukarıda özetlenen gerekçeyle ehliyet yönünden reddine ilişkin Ma
 
 ## Danıştay 6. D. 2018/6611 E., 2023/2497 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/990672500)
+
 Karabağlar Bölgesinde 540 hektarlık riskli alan bulunduğu, dava konusu plan değişikliği ile alanın 30 hektarlık kısmının kentsel yerleşik alan, 101 hektarlık kısmının ise kentsel gelişme alanı olarak tanımlandığı kentsel yerleşik alan olarak belirlenen 30 hektarlık alanın fiilen yapılaşmış olması nedeniyle Karabağlar Belediye Başkanlığı ile İzmir Büyükşehir Belediye Başkanlığı tarafından kentsel yerleşik alan olarak belirlenmesi yönünde talepte bulunulduğu, park ve yeşil alan kararının korunmasının yüksek kamulaştırma bedelleri anlamına geleceği öte yandan 101 hektarlık kentsel gelişme alanı yönündeki kullanım değişikliği kararının ise dava konusu planın onaylandığı tarihte yürürlükte olan 1/100.000 ölçekli Çevre Düzeni Planının 7.28 sayılı plan notuna atıfta bulunarak 6306 sayılı Afet Riski Altındaki Alanların Dönüştürülmesi Hakkında Kanuna tabi alanlara ilişkin uygulamaların plan notu uyarınca ilgili idaresince değerlendirildiği, çevre düzeni planında düzenleme yapılmasına gerek olmaksızın riskli alan olarak tanımlanan bölgeye ilişkin alt ölçekli planların onaylandığı sosyal ve teknik altyapı alanlarının azaltılarak donatı dengesinin bozulması veya eşdeğer alan ayrılması
 konularının Mekansal Planlar Yapım Yönetmeliği gereği imar planlarına ilişkin olduğu; Çevre Düzeni Planı için eşdeğer alan ayırma zorunluluğunun söz konusu olmadığı kentsel yerleşik alanlar veya kentsel gelişme alanlarının tamamının konut alanı veya yapılaşmaya açılacak alan olarak planlanacağı anlamına gelmediği, kentsel yerleşme alanlarında yeşil alanların ve sosyal donatı alanlarının da yer alabileceğinin Çevre Düzeni Planı plan notlarının 8.1.1.3 sayılı maddesinde belirtildiği savunulmuştur.
 
@@ -71,6 +77,8 @@ konularının Mekansal Planlar Yapım Yönetmeliği gereği imar planlarına ili
 Dava konusu plan değişikliğinin Karabağlar ilçesinde öngörülen 101 ha.lık kentsel gelişme alanı kullanımına ilişkin kısmının İPTALİNE …
 
 ## Danıştay 6. D. 2021/6539 E., 2023/1879 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/987505400)
 
 Davacı tarafından, İstanbul ili, Beşiktaş ilçesi, …
 
@@ -106,6 +114,8 @@ Açıklanan nedenlerle, yukarıda belirtilen riskli yapıların bulunduğu parse
 
 ## Danıştay 6. D. 2020/3754 E., 2022/5719 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/787409300)
+
 İlk Derece Mahkemesi kararının özeti:
 
 …
@@ -128,12 +138,16 @@ Dava konusu işlemlerin iptaline ilişkin Mahkeme kararına yönelik olarak yap�
 
 ## Danıştay 6. D. 2020/10800 E., 2022/1325 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/764715300)
+
 6306 sayılı Afet Riski Altındaki Alanların Dönüştürülmesi Hakkındaki Kanunun "Uygulama işlemleri" başlıklı 6.maddesinin 14.fıkrasında; "Bu Kanun kapsamındaki alanlarda ve parsellerde; oy birliği ile anlaşma sağlanmasından veya hisseleri oranında paydaşların en az üçte iki çoğunluğu ile karar alınıp bu karara katılmayanların hisselerinin satışından sonra müteahhitten kaynaklanan sebeplerle, bir yıl içinde yeni yapının yapım işine başlanmamış veya yapım işi belirli bir seviyede durdurulmuş ve en az altı aydır projenin bitirilmesini gerektirecek seviyede ekip ve ekipmanla inşai faaliyete devam edilmiyor ise, yapılan sözleşmelerin feshi için hisseleri oranında maliklerin en az üçte iki çoğunluğu ile karar alınabilir. Bu karar ile birlikte Bakanlığa başvurularak yeni yapının yapım işine başlanıp başlanmadığının veya yapım işinin projenin bitirilmesini gerektirecek seviyedeki ekip ve ekipmanla devam edip etmediğinin tespiti istenir. Bakanlıkça; belirtilen durumların tespit edilmesi hâlinde, müteahhide otuz gün süre verilerek işe başlaması veya devam etmesi gerektiği, aksi takdirde bu sürenin bitim tarihi itibarıyla sözleşmelerin resen feshedileceği ihtar edilir.
 Bu ihtara rağmen işe başlanmaması veya devam edilmemesi durumunda, ayrıca ihtar çekmeye gerek kalmaksızın otuz günlük sürenin bittiği tarih itibarıyla hak sahipleri ile müteahhit arasında imzalanmış olan gayrimenkul satış vaadi sözleşmeleri ile arsa payı karşılığı inşaat sözleşmeleri ilgililerinin muvafakati aranmaksızın resen feshedilmiş sayılır. Fesih sonrasında, taşınmazların siciline şerh edilmiş olan gayrimenkul satış vaadi sözleşmeleri ile arsa payı karşılığı inşaat sözleşmeleri maliklerin veya Bakanlığın talebi üzerine terkin edilir. Fesih tarihine kadar yapılmış olan işler, devrolunan hisseler, yapılan ödemeler ve diğer hususlarda genel hukuk hükümleri uygulanır. Fesih tarihine kadar müteahhit tarafından hak sahiplerine yapılan kira yardımı ödemeleri hak sahiplerinden geri talep edilemez." hükmüne yer verilmiştir.
 
 6306 sayılı Kanunun Uygulama Yönetmeliğinin "Uygulama alanında hak sahipliği ve diğer uygulamalar" başlıklı 13.maddesinin 11.fıkrasında; "Uygulama alanında hak sahipleri ile müteahhit arasında imzalanmış olan gayrimenkul satış vaadi sözleşmeleri ile arsa payı karşılığı inşaat sözleşmelerinin feshi, hak sahiplerince aşağıda belirtilen şartlar dâhilinde talep edilebilir.
 
 ## Danıştay 6. D. 2020/9548 E., 2021/11656 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/731853900)
 
 Uyuşmazlıkta ise, riskli alan ilanına ilişkin dava konusu Cumhurbaşkanı kararının dayanağının, karar metninde de belirtildiği üzere, 6306 sayılı Kanun'un hem 2. maddesi hem de ek-1. maddesinin birinci fıkrasının (b) bendi olduğu anlaşılmaktadır.
 
@@ -147,6 +161,8 @@ Davacılardan, … ve … açısından DAVANIN EHLİYET YÖNÜNDEN REDDİNE, di�
 
 ## Danıştay 6. D. 2020/9871 E., 2021/10346 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/697407600)
+
 Dosyanın incelenmesinden, dava konusu taşınmazın içinde bulunduğu alanın 24.12.2012 tarihli, 2012/4099 sayılı Bakanlar Kurulu kararıyla riskli alan ilan edildiği, Gaziosmanpaşa Belediye Başkanlığının ... tarihli, ... sayılı yazısı ile İçişleri Bakanlığı Mahalli İdareler Genel Müdürlüğünden; Gaziosmapaşa İlçesi sınırları içerisinde riskli alan ilan edilen yazı eki listedeki ada parsel bilgisi belirtilen taşınmazların; 2942 sayılı Kamulaştırma Kanununun 27. maddesi uyarınca acele kamulaştırma işlemlerine başlanılması için Bakanlar Kurulu kararı alınmasının talep edildiği, İçişleri Bakanlığının ... tarihli, ... sayılı yazısı üzerine dava konusu 14/03/2016 tarihli 2016/8598 sayılı Bakanlar Kurulu kararının alındığı, ara kararına Gaziosmanpaşa Belediye Başkanlığı Kentsel Tasarım Müdürlüğü tarafından verilen yanıtta " dava konusu işlemin dayanağı olan riskli alan ilanına ilişkin Bakanlar Kurulu Kararının mahalle bazında iptali istemiyle Danıştay Ondördüncü Dairesinde açılan davalarda Danıştay Ondördüncü Dairesinin 17.02.2016 tarihli, E:2015/5053, K:2016/974; E:2016/5079, K:2016/976; E:2015/5082, K:2016/977;
 E:2015/5170, K:2016/975 vb. sayılı kararlarıyla; dava konusu alanın riskli alan ilan edilebilmesi için 6306 sayılı Yasanın ve Uygulama Yönetmeliğinin öngördüğü koşulların detaylı bir teknik rapor ile oluşturulmadığı gerekçesiyle riskli alan kararının iptaline karar verilmesi üzerine, söz konusu alanda 6306 sayılı Yasa kapsamında yapılacak anlaşma- uzlaşma, tahliye çalışmalarının durdurulduğu, taşınmaz üzerinde bulunan yapılarda yıkım yapılmadığı, henüz taşınmazın bulunduğu alanda arazi ve hak sahipliği tespit çalışmalarının devam ettiği, dava konusu taşınmazın kamulaştırılması ile ilgili kamu yararı kararının alınmadığı ve kamulaştırmayla ilgili bedel tespiti, tapu iptali ve tescili amacıyla idarelerince Asliye Hukuk Mahkemesinde dava açılmadığı, arazi ve hak sahipliği tespit çalışmaları tamamlandığında 6306 sayılı Yasa kapsamında anlaşma-uzlaşma süreci ve ardından tahliye çalışmalarının başlayacağı, 6306 sayılı Kanun kapsamında yürütülen uygulamaların aciliyeti sebebiyle dava konusu acele kamulaştırma kararının alındığı" hususunun belirtildiği , Danıştay Ondördüncü Dairesinin yukarıda belirtilen iptal kararlarının sırasıyla Danıştay İdari Dava Daireleri Kurulunun 20.10.2016
 tarihli, E:2016/2102, K:2016/2713; 20.09.2016 tarihli, E:2016/2106, K:2016/2616; E:2016/2613, K:2016/2618; E:2016/2105, K:2016/2615 sayılı kararlarıyla, "sadece davacılara ait taşınmazlar yönünden hüküm ifade edeceği tabiidir" açıklamasıyla onandığı anlaşılmaktadır.
@@ -159,6 +175,8 @@ Bu durumda; 24/12/2012 tarihli, 2012/4099 sayılı Bakanlar Kurulu Kararının .
 
 ## Danıştay 6. D. 2019/15508 E., 2021/10122 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/704494200)
+
 6306 sayılı Afet Riski Altındaki Alanların Dönüştürülmesi Hakkında Kanunun 6. maddesinin 5. fıkrasında, "riskli yapılara, rezerv yapı alanlarına ve riskli yapıların bulunduğu taşınmazlara ilişkin her tür harita, plan, proje, arazi ve arsa düzenleme işlemleri ile toplulaştırma yapmaya, bu alanlarda bulunan taşınmazları satın almaya, ön alım hakkını kullanmaya, bağımsız bölümler de dâhil olmak üzere taşınmazları trampaya, taşınmaz mülkiyetini veya imar haklarını başka bir alana aktarmaya Çevre ve Şehircilik Bakanlığının yetkili olduğu" belirtilmiş, bu Kanunun 11. maddesinde ise "Altyapı ve Kentsel Dönüşüm Hizmetleri Genel Müdürlüğünün görevleri başlığı altında, "Dönüşüm, yenileme ve transfer alanlarının belirlenmesi, dönüşüm alanı ilan edilen alanlardaki yapıların tespiti ile arsa ve arazi düzenleme ve değerleme iş ve işlemlerinin yapılmasını sağlamak; dönüşüm uygulamalarında hak sahipliği, uzlaşma, gerektiğinde acele kamulaştırma, paylı mülkiyete ayırma, birleştirme, finansman düzenlemelerinde bulunma, dönüşüm alanları içindeki gayrimenkullerin değer tespitlerini yapma ve Bakanlıkça belirlenen esaslar ve proje çerçevesinde hak sahipleri ile anlaşmalar sağlama, gerektiğinde yapı
 ruhsatı ve yapı kullanma izni verme, kat mülkiyeti tesisi, tescili ve imar hakkı transferi ile ilgili iş ve işlemleri yürütmek." hükmü getirilmiş olup; 648 sayılı Çevre ve Şehircilik Bakanlığının Teşkilat ve Görevleri Hakkında Kanun Hükmünde Kararname ile Bazı Kanun ve Kanun Hükmünde Kararnamelerde Değişiklik Yapılmasına Dair Kanun Hükmünde Kararnamenin 4. maddesi ile "e) 2. maddenin birinci fıkrasının (h) bendinde belirtilen konularla ilgili olarak 285 sayılı Toplu Konut Kanununun ek 7. maddesi çerçevesinde uygulama yapmak veya yaptırmak, bu uygulamalara yönelik olarak kentsel dönüşüm, yenileme ve transfer alanları geliştirmek, bu alanların her ölçekteki imar planı ve imar uygulamalarını, kentsel tasarım projelerini yapmak, yaptırmak ve onaylamak, bu çerçevede paylı mülkiyetleri ayırmak, birleştirmek, arsa ve arazi düzenlemeleri yapmak, imar hakkı transfer etmek kamulaştırma ve gerektiğinde usulüne uygun olarak acele kamulaştırma yoluna gitmek, yapı ruhsatı ve yapı kullanma izinlerini vermek ve kat mülkiyeti tesis ve tescilini sağlamak." hükmü yer almaktadır.
 
@@ -168,6 +186,8 @@ Açıklanan nedenlerle, ... İdare Mahkemesinin ... tarih ve E: ..., K: ... say�
 
 ## Danıştay 6. D. 2020/4898 E., 2020/8237 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/629281700)
+
 DAVALI İDARELERİN SAVUNMALARININ ÖZETİ : Dava konusu işlemin usul ve yasaya uygun olduğu, davanın reddine karar verilmesi gerektiği savunulmaktadır.
 
 …
@@ -176,6 +196,8 @@ DAVALI İDARELERİN SAVUNMALARININ ÖZETİ : Dava konusu işlemin usul ve yasaya
 Kanun kapsamında yapılacak bu uygulamalara ilişkin iş ve işlemlerde ilgili kurum maliklere yardımcı olmakla yükümlüdür. Malikler, riskli yapının yıktırılmasından sonra arsa haline gelen taşınmazda ortaklığın giderilmesi için Türk Medeni Kanunu hükümlerine göre dava açabilirler. Ancak, ortaklığın giderilmesi için dava açılmış olması, Kanun kapsamında hisseleri oranında maliklerin en az üçte iki çoğunluğu ile karar alınmasına ve bu karara göre işlem yapılmasına engel teşkil etmez." düzenlemesine yer verilmiştir.
 
 ## Yargıtay 6. HD 2025/4230 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1198747200)
 
 Öte yandan, arsa sahibinin yükleniciye devrettiği tapunun avans tapu olduğunun kabulü de mümkün değildir. Zira “avans tapu” kavramının Türk Medeni Kanunu ve Türk Eşya Hukuku sisteminde yerinin bulunmadığı, Doktrinde de belirtildiği gibi, arsa sahibinin yükleniciye tapu devrinin avans tapu kavramıyla açıklanamayacağı, zira tapu devrinin şarta bağlanamayacağı; dolayısıyla, yüklenici adına kayıtlı olan arsa hissesi veya bağımsız bölümün üçüncü kişiye satılmasının geçerli olduğu kabul edilmelidir.
 
@@ -188,6 +210,8 @@ Arsa sahibinin yükleniciye tapuyu devretmesi, yolsuz tescil olarak da değerlen
 İlk Derece Mahkemesi kararının, asıl ve birleşen davada davalı ...Ş. lehine BOZULMASINA …
 
 ## Yargıtay 13. HD 2017/10720 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/387646900)
 
 Davacı, hak sahibi olduğu tapu tahsis belgeli yapının bulunduğu bölgenin, davalı ... meclisinin 14/01/2005 tarih ve 215 sayılı kararı ile ... Vadisi 4. ve 5. Etapları Kentsel Dönüşüm ve Gelişim Proje Alanı olarak ilan edildiğini, 22.3.2007 tarihinde belediye ile Tapu Tahsis Belgeli Tesis Sözleşmesi imzaladığını, bu sözleşmeye uygun olarak arsasını belediyeye verdiğini, gecekondunun elektrik ve su aboneliklerini iptal ettirdiğini, kiraya çıktığını, yeni verilecek daire karşılığı belediyeye borçlandığını, belediyece yıkımın da yapıldığını, şimdiye kadar geçen sürede taksitlerini ödediğini, projenin ...
 
@@ -204,6 +228,8 @@ Her ne kadar mahkemece dava tarihi itibariyle analiz raporundaki yapı ve enkaz 
 SONUÇ: Yukarıda birinci bentte açıklanan nedenlerle davalının sair temyiz itirazlarının reddine, ikinci ve üçüncü bentteki nedenlerle kararın davalı yararına BOZULMASINA …
 
 ## Yargıtay 15. HD 2012/1786 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/477238700)
 
 Yanlar arasındaki ... 9. Noterliği’nin 05.02.1999 gün ve 02129 yevmiye nolu Düzenleme Şeklinde Kat Karşılığı İnşaat ve Satış Vaadi Sözleşmesi ve bu sözleşmeye ek olarak aynı tarihli adi yazılı ek sözleşme yapılmıştır. Ek sözleşmede yüklenicinin …
 
@@ -225,9 +251,13 @@ Sunulan yazışmalarda; ...'ın söz konusu sözleşmelerden kaynaklı hak sahip
 
 ## İstanbul BAM 53. HD 2024/1176 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1090651800)
+
 12\. maddesinde "(1) Taşınmaz üzerindeki ayni hakka ilişkin veya ayni hak sahipliğinde değişikliğe yol açabilecek davalar ile taşınmazın zilyetliğine yahut alıkoyma hakkına ilişkin davalarda, taşınmazın bulunduğu yer mahkemesi kesin yetkilidir.(2) İrtifak haklarına ilişkin davalar, üzerinde irtifak hakkı kurulan taşınmazın bulunduğu yer mahkemesinde açılır. (3) Bu davalar, birden fazla taşınmaza ilişkinse, taşınmazlardan birinin bulunduğu yerde, diğerleri hakkında da açılabilir." denilmektedir. Somut olayda; davacı arsa sahibinin malik olarak mülkiyet hakkına dayalı haksız kullanım nedeni ile el atmanın önlenmesi talebi ile dava açtığı, el atmanın önlenmesi talebinin taşınmazın aynına ilişkin olduğu, HMK; 12. maddesi gereğince taşınmazın bulunduğu yer mahkemesinin yetkili olduğu, söz konusu yetkinin kesin yetki olduğu, mahkemece yargılamanın her aşamasında resen dikkate alınması gerektiği, böylece mahkeme kararı usul ve yasaya uygun olduğu anlaşıldığından, davacı vekilinin istinaf başvurusunun esastan reddine karar vermek gerekmiştir.
 
 ## İstanbul BAM 17. HD 2022/796 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/785415300)
 
 Davacı vekili istinaf nedenler olarak; müvekkili şirketin iflasına karar verildiğini, kararın usul ve yasaya aykırı olduğunu, 29/09/2021 tarihli bilirkişi raporunun hükmü esas alındığını, bilirkişi raporunda borca batıklık tespitinin Yargıtay karar ve içtihatlarına aykırı olarak yapıldığını, borca batıklık hesaplamasının 31/12/2020 tarihli kaydi ve rayiç bilanço hesaplarına göre yapıldığını, söz konusu tarihten itibaren yaşanan değer artışlarının hesaba katılmadığını, aradan geçen sürede şirket aktiflerinin yüksek oranda lehe değiştiğinin izahtan vareste olduğunu, ülkede değişen ekonomik koşullar karşısında müvekkile ait duran mal varlıkları değerinin yeniden tespitinin zorunlu olduğunu, 08/01/2021 tarihli rayiç değer toplamının 7.543.455,00 TL olarak tespit edildiğini, rapor tarihinde USD efektif satış kurunun 7.3733 TL iken iflas tarihi itibariyle efektif satış kurunun 13.6485 TL olduğunu, kur farkının yaklaşık iki katı oranında arttığını, şirket aktiflerinin değerini doğrudan artırıcı ekonomik gelişmeler dikkate alındığında kaydı ve rayiç bilanço hesabına dayanan 28/09/2019 tarihli bilirkişi raporuna göre iflas erteleme talebinin reddedilerek iflas kararının verilmesinin usul ve
 yasaya aykırı olduğunu iddia ederek, kararın kaldırılmasını ve iflas erteleme talebinin kabulüne karar verilmesini istemiştir.

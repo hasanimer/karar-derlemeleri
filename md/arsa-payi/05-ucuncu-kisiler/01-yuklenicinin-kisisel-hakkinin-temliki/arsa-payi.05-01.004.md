@@ -22,6 +22,8 @@ uyari: "Derleyenin seçtiği alıntılardır; kararın tamamı değildir. Künye
 
 ## Yargıtay 7. HD 2023/50 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/884167500)
+
 Davalı vekili cevap dilekçesinde; dosyaya sunulan gayrimenkul satış sözleşmesindeki imzanın müvekkili şirket yetkilisine ait olmadığını, davacının gerçekleri gizleyerek mahkemeyi yanıltmakta ve bundan menfaat sağlamaya çalışmakta olduğunu, müvekkili şirket yetkilisinin Almanya'daki işlerinin yoğunluğu sebebiyle kendisine güven telkin eden...'ın Türkiye'deki işlerin takibini yapması için ortağı ve yetkilisi olduğu şirket ile kendi şahsi işleri için ...Noterliği'nde 10/06/2015 ve 23/09/2014 tarihlerinde vekaletname ile yetilendirdiklerini, 2017 yılı Ocak ayında hesaplarını inceleyen müvekkilinin yapılan bir takım ödemelerden şüphelendiğini ve ...
 
 …
@@ -33,6 +35,8 @@ Davalı vekili cevap dilekçesinde; dosyaya sunulan gayrimenkul satış sözleş
 İlk Derece Mahkemesi kararının BOZULMASINA …
 
 ## Yargıtay 1. HD 2022/6594 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/851214500)
 
 Davacı, ... ada .... numaralı parselin sahibi iken dava dışı ..... İnş. Paz.
 
@@ -49,6 +53,8 @@ Davalılar, dava konusu daireleri tapu siciline güvenerek yüklenici olan.....'
 (V/3.3.2.) ve (V/3.3.3.) no.lu paragraflarda açıklanan nedenlerle; davacı vekilinin yerinde görülen temyiz itirazlarının kabulü ile 6100 sayılı Hukuk Muhakemeleri Kanunu'nun 373/1. maddesi uyarınca İstanbul Bölge Adliye Mahkemesi 1. Hukuk Dairesi kararının ORTADAN KALDIRILMASINA …
 
 ## Yargıtay 6. HD 2022/3558 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/790944500)
 
 Davalı ... vekili cevap dilekçesinde özetle, taşınmazların uzun süredir dava dışı belediye adına kayıtlı olduğunu, ihale yoluyla davalı ... tarafından belediyeden satın alındığını, ...'nün bir süre sonra taşınmazı dava dışı Ateşhan Mühendislik Sanayi ve Ticaret Ltd. Şti. ile Engin Ateş'e iki eşit hisse olarak satıp, tapudan devrettiğini, bu kişilerden de müteahhitlik yapan müvekkili Cengiz'in bir miktar para bir miktar da kat karşılığı inşaat sözleşmesi şartları dahilinde dava konusu taşınmazı satın aldığını ve tapuda adına tescil ettirdiğini belirterek, davanın reddini savunmuştur.
 
@@ -68,6 +74,8 @@ SONUÇ: Yukarıda (1) numaralı bentte açıklanan nedenlerle davalı ... vekili
 
 ## Yargıtay 6. HD 2022/1659 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/772575000)
+
 Davacılar vekili dava dilekçesinde özetle; davacı yüklenici şirket ile davalı arsa sahipleri arasında 06.06.1995 tarihinde düzenlenen arsa payı karşılığı inşaat sözleşmesi uyarınca, yükleniciye isabet eden bir kısım bağımsız bölümlerin diğer davacılara satıldığını, inşaatın tamamlanmasına rağmen yükleniciye ait bağımsız bölümlerin verilmediğini ileri sürerek, dava konusu 1, 4 ve 8 no.lu bağımsız bölümlerin davacı ... adına, 11 ve 12 no.lu bağımsız bölümlerin ise davalı ... adına tapuya tesciline karar verilmesini talep etmiş, 01.06.2002 tarihli ıslah dilekçesi ile, tapu iptaline karar verilmemesi halinde, binanın tamamlanan kısmının bayındırlık birim fiyatlarına göre belirlenen değerinin payları oranında tahsiline karar verilmesini istemiştir.
 
 Davalı ... vekili cevap dilekçesinde özetle, sözleşme uyarınca bağımsız bölümlerin süresinde bitirilerek teslim edilmediğini, inşaatın %75'inin tamamlandığı için sözleşmenin geriye etkili olarak feshedildiğini, yüklenicinin hakettiği bağımsız bölümleri diğer davacılara satamayacağını savunarak, davanın reddini istemiştir.
@@ -86,6 +94,8 @@ Mahkemece davacılar lehine davalı ...’dan ayrı ayrı bu miktarların tahsil
 SONUÇ : Yukarıda 1. bentte açıklanan nedenlerle davalı ...’ın tüm, davacılar Hükümdar ve ...’in diğer temyiz itirazlarının reddine, kararın 2. bent uyarınca davacılar ... ve ... yararına BOZULMASINA …
 
 ## Yargıtay 6. HD 2022/624 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/739765000)
 
 Davacılar vekili, müvekili Tevrat’ın davalı şirketten, adi yazılı sözleşmeyle, 620 ada 5 parselde kayıtlı 7 ve 8 nolu dubleks daireleri aldığını ve 57.512,00 TL nakit 140.000,00 bedelli müvekkili ... Adına olan gayrimenkulünü devretmek suretiyle edimlerini yerine getirdiklerini,binanın kaba inşaatını tamamlayan ve bir kısım ince işçiliklerini yapan davalı şirketin arsa maliki olan davalı ... ile yaptığı arsa payı karşılığı inşaat sözleşmesini bila bedel feshetmesinin hayatın olağan akışına aykırı olduğunu ileri sürerek,davalı ... adına olan tapu kaydının iptali ile müvekkili ... adına tesciline, bu talep yerinde görülmezse davalı ... adına kayıtlı olan taşınmazın tapu kaydının iptali ile müvekkili ... adına tesciline, bu talepte yerinde görülmezse müvekkillerin sözleşme gereği ödedikleri bedellerin tespiti ile tahsiline karar verilmesini talep ve dava etmiştir.
 
@@ -107,6 +117,8 @@ SONUÇ:Yukarıda açıklanan nedenlerle davacılar vekilinin diğer temyiz itira
 
 ## Yargıtay 6. HD 2022/504 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/736951500)
+
 Dava, eser sözleşmesinin bir türü olan arsa payı karşılığı inşaat sözleşmesine ve hileye dayalı tapu iptal tescil davasıdır.
 
 Davacı davasında, davacı ile dava dışı ... Ltd. Şti. arasında 2013 yılında davacıya ait 7794 parsel sayılı taşınmazda inşaat yapılması konusunda kat karşılığı inşaat sözleşmesi yapıldığını, sözleşme gereği 2. kat tamamlanınca davacı şirket temsilcisinin isteği doğrultusunda dava konusu 1 ve 3 numaralı bağımsız bölümlerin davalı ...'e devredildiğini, daha sonradan şirketin inşaatı yarım bıraktığını ileri sürerek dava konusu bağımsız bölümlerin tapu kayıtlarının iptaline yönelik karar verilmesini talep ve dava etmiştir.
@@ -124,6 +136,8 @@ SONUÇ: Yukarıda (1) numaralı bentte açıklanan nedenlerle Adana Bölge Adliy
 
 ## Yargıtay 3. HD 2021/9648 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/715254100)
+
 Davacı, davalılar ile aralarında ..., ...,...
 
 …
@@ -140,9 +154,13 @@ SONUÇ: Yukarıda birinci bentte açıklanan nedenlerle davacının sair temyiz 
 
 ## Yargıtay 15. HD 2021/2796 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/671284000)
+
 Yargıtay ilamında belirtilen gerektirici nedenler karşısında ve özellikle arsa payı karşılığı inşaat sözleşmesinde yüklenicinin sözleşmeye, fen ve sanat kurallarına uygun eksiksiz ifada bulunması, edimlerini tam olarak yerine getirmesi halinde veya yükleniciden bağımsız bölümü temlik alan 3. kişi yüklenici yerine geçerek edimleri tamamlamış ise bağımsız bölümün tapusunun tesciline hak kazanacağından arsa sahiplerinin de tescil konusundaki edimlerini yerine getirmesi gerekir. Somut olayda, davacı yükleniciden taşınmaz temlik alan 3. kişinin, yükleniciden yer alan diğer 3. kişilerle beraber arsa sahiplerine düşen bağımsız bölümlerin ve ortak alanların inşaatını tamamladıklarını, eksikliklerin giderildiğini ve iskan ruhsatı aldıklarını iddia etmiş olduğu anlaşılmaktadır. Eldeki bu hüküm kesin hüküm teşkil etmediğinden 3. kişi davacının ifayı tamamladıktan sonra her zaman tapu iptal tescil talebinin tabi bulunmasına göre HUMK’nın 440.
 
 ## Yargıtay 15. HD 2021/2784 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/671300400)
 
 Ayrıca dairemizin yerleşik içtihatları çerçevesinde yükleniciden bağımsız bölüm temlik alan 3. kişilerin durumu yüklenicinin edimlerini yerine getirip getirmemesine bağlı olarak değişecektir. Yüklenicinin kat karşılığı inşaat sözleşmesi uyarınca edimlerini yerine getirmiş olması halinde 3. kişiler arsa sahiplerinden hak iddia edebilceklerdir. Bu nedenledir ki müdahillerin ve yüklenicilerin taleplerinin birlikte görülüp değerlendirilmesi gerekir.
 
@@ -151,6 +169,8 @@ Ayrıca dairemizin yerleşik içtihatları çerçevesinde yükleniciden bağıms
 SONUÇ: Yukarıda 1. bentte açıklanan nedenlerle davacı ... vekili ile birleşen dosya davacı ... mirasçıları vekilinin tüm temyiz itirazlarının reddine, 2. bent uyarınca asli müdahiller vekili, 3. bent uyarınca davalı ... vekili ile davalı ... vekilinin temyiz itirazlarının kabulü ile hükmün asli müdahiller ile davalı ... ve davalı ... yararına BOZULMASINA …
 
 ## Yargıtay 15. HD 2021/2700 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/671293000)
 
 Davacı davasında, müvekkilinin davalılardan ... ile ... Mahallesi Nato Yolu 328 ada 119 parsel sayılı taşınmaza ilişkin ... Noterliğinin 20/11/2016 tarihli 08114 yevmiye numaralı kat karşılığı inşaat sözleşmesi imzaladıklarını, ancak tapu kaydında satış olarak gösterildiğini ve davalının bu davranışında kötü niyetli olarak hareket ettiğini, söz konusu taşınmazın diğer davalı ... adına 27/03/2014 tarihinde satış suretiyle tescil edildiğini bu durumun hukukun genel ilkelerine aykırı olduğunu ileri sürerek, taşınmazın kendisine teslimi ile tapuda devredilen hissenin adına tesciline karar verilmesini talep ve dava etmiştir.
 
@@ -173,6 +193,8 @@ SONUÇ: Yukarıda açıklanan nedenlerle temyiz itirazlarının kabulü ile hük
 
 ## Yargıtay 6. HD 2021/2325 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/720744900)
+
 Davacı, asıl ve birleşen davada davalılardan arsa sahibi ... ile diğer davalı yapı müteahhidi ... arasında Beyoğlu .... Noterliğinin 06/05/2011 tarih ve 10994 yevmiye no.lu "Düzenleme Şeklinde Gayrimenkul Satış Vaadi ve Kat Karşılığı İnşaat Sözleşmesi"imzalandığını, davalı yapı müteahhidi ile arasında 17/07/2011 tarihinde davaya konu dairenin satımı konusunda adi yazılı şekilde satış sözleşmesi düzenlendiğini, sözleşmede belirtilen 70.000,00 TL'yi nakden ödediğini, bakiye sözleşme bedeli olan 65.000,00 TL'yi de dairenin teslim tarihi olan 28/02/2014 tarihinde ödeyeceğini taahhüt ettiğini, bakiye bedeli ödemek kaydıyla 4 no.lu dairenin adına kayıt ve tescilini istemiştir.
 
 Davalı arsa maliki ... cevabında, davacı ile diğer davalı müteahhit arasındaki sözleşmeden haberdar olmadıklarını, dava konusu 4 no.lu dairenin davalı müteahidin muvafakat talebi ile dava dışı ...'a 18.06.2014 tarihinde tapu devrini satış sureti ile yapıldığını ifade ederek davanın reddini savunmuştur.
@@ -189,6 +211,8 @@ SONUÇ: Yukarıda açıklanan nedenlerle davacı vekilinin temyiz itirazlarını
 
 ## Yargıtay 15. HD 2021/2071 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/663902500)
+
 Davacılar vekili, müvekkilleri ile bir kısım davalılar arasında arsa payı karşılığı inşaat sözleşmesi imzaladıklarını, müvekkillerinin inşaat yapımını eksiksiz bir şekilde tamamladıklarını ve davalılara teslim ettiklerini, teslime rağmen davalılar tarafından müvekkillerine düşen taşınmazların tapuda devrinin gerçekleşmediğini ileri sürerek sözleşme doğrultusunda kat mülkiyeti kurulmak sureti ile davalılara ait olan tapu kaydının iptali ile müvekkilleri ve davalılara düşen bağımsız bölümlerin arsa paylarının belirtilerek tapuya kayıt ve tesciline, olmadığı taktirde davalıların kendilerine düşen bağımsız bölüm üzerindeki arsa payları baki kalarak sözleşme gereği müvekkillerine düşen bağımsız bölümlere isabet eden arsa paylarının iptaline ve müvekkilleri adına kayıt ve tesciline karar verilmesini talep ve dava etmiştir.Mahkemece iddia, savunma, bilirkişi raporu ve tüm dosya kapsamına göre, davalı ...'nun sözleşmede taraf olmadığı, sözleşmede taraf olan ...’dan pay satın aldığı, pay satın alırken dava konusu sözleşmedeki haklarını temlik aldığına ilişkin temliknameyi dosyaya sunmadığı, davalı ...’nun sözleşmeye göre eksik işlerin giderilmesini davacı yükleniciden birlikte ifa kuralı
 gereğince talep edemeyeceği, diğer davalı arsa sahiplerinin de davayı kabul ettiği gerekçesiyle davanın kabulüne karar verilmiştir.Kararın davalı ... vekili tarafından temyiz edilmesi sonucunda, Yargıtay 23.
 
@@ -202,6 +226,8 @@ Bu özelliğiyle ibra, borcu sona erdiren sebeplerden birini oluşturmaktadır.S
 SONUÇ: Yukarıda açıklanan nedenlerle davacı vekilinin karar düzeltme isteminin kabulü ile Yargıtay 23. Hukuk Dairesi’nin 2016/2022 Esas – 2019/230 Karar ve 31.01.2019 karar tarihli bozma ilamının kaldırılarak hükmün ONANMASINA …
 
 ## Yargıtay 15. HD 2021/1561 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/653752300)
 
 Dava, yükleniciden bağımsız bölüm satın alan tarafından arsa sahibi ve yüklenici aleyhine temliken tescil nedeniyle açılmış olup, bağımsız bölüme isabet eden arsa payının tapu kaydının iptâli ve tescili talebine ilişkindir.
 

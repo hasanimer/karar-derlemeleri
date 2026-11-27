@@ -21,6 +21,8 @@ uyari: "Derleyenin seçtiği alıntılardır; kararın tamamı değildir. Künye
 
 ## İstanbul BAM 17. HD 2022/1593 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/847924700)
+
 Dava, kooperatif aidat alacağının tahsili istemine ilişkindir.
 
 …
@@ -37,6 +39,8 @@ Dava dışı ... Ticaret Ltd. Şti.'ni temsilen ..., davacı kooperatifi temsile
 H Ü K Ü M: Gerekçesi yukarıda izah edildiği üzere;1-Davalı vekilinin istinaf başvurusunun esasa ilişkin sebepler incelenmeksizin KABULÜNE,2-İstanbul Anadolu 5. Asliye Ticaret Mahkemesinin 2014/107 Esas, 2020/132 Karar ve 18/02/2020 tarihli kararının HMK'nun 353/1a.6 maddesi uyarınca KALDIRILMASINA …
 
 ## İstanbul BAM 15. HD 2020/1624 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/625259400)
 
 Davacı iş sahibi tarafından açılan birleşen davada gecikme nedeniyle mahrum kaldığı kira bedeli, eksik iş bedelinin tahsiline karar verilmesi talep edilmiş ve dosyalar birleştirilerek yapılan yargılamada mahkemece son bilirkişi raporu hükme esas alınarak, davalının ıslaha karşı yaptığı zamanaşımı defi reddedilerek ve 43.321,02 m² inşaatın %95 oranında bitirildiği kabul edilerek sözleşmedeki 570,00 Euro/m² birim fiyat üzerinden 10.701.443,07 Euro iş bedeli ve 4.191.664,13 Euro tazminat alacağına hükmederek, birleşen davanın reddine karar verilmiştir.Dava ve karar tarihinde yürürlükte bulunan 6100 sayılı HMK'nın 107/1. maddesinde; davanın açıldığı tarihte alacağın miktarını yahut değerini tam ve kesin olarak belirleyebilmesinin kendisinden beklenemeyeceği veya bunun imkansız olduğu hallerde, alacaklı, hukuki ilişkiyi ve asgari bir miktar ya da değeri belirtmek suretiyle belirsiz alacak davası açabilir hükmüne yer verilmiştir.
 Davacının dava dilekçesinde açıkladığı olaylar ve talepleri dikkate alındığında; davacının dava tarihi itibarıyla alacağının miktarını tam ve kesin olarak belirleyebilecek durumda olup, davacının dava dilekçesinde alacağını kısmi dava olarak belirtmesinde ve mahkemece kısmi alacak davası olarak nitelendirilmesinde bir isabetsizlik yoktur. Davacının aynı hukuki ilişkiden kaynaklanan alacağının veya hakkının tümünü değil, belirli bir kısmını talep ederek açtığı kısmi dava, 6100 sayılı HMK'nın 109. maddesinde düzenlenmiş olup, maddenin 1. fıkrasında “Talep konusunun niteliği itibariyle bölünebilir olduğu durumlarda, sadece bir kısmı da dava yoluyla ileri sürülebilir” hükmüne, 6644 sayılı Kanun'un 4. maddesiyle yürürlükten kaldırılan ancak dava tarihinde yürürlükte olan 2. fıkrasında ise; “Talep konusunun miktarı, taraflar arasında tartışmasız veya açıkça belirli ise kısmi dava açılamaz” hükmüne yer verilmiştir. Bu düzenlemelere göre, kısmi dava açılabilmesi için; talep konusunun niteliği itibariyle bölünebilir olması ve talep konusunun miktarının taraflar arasında tartışmalı bulunması veya açıkça belirli olmaması gerekir.

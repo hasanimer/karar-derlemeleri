@@ -21,9 +21,13 @@ uyari: "Derleyenin seçtiği alıntılardır; kararın tamamı değildir. Künye
 
 ## Danıştay VDDK 2023/7 E., 2024/2 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1055060100)
+
 Mevzuatta yer alan müteahhit kavramının, kentsel dönüşümü gerçekleştiren kişi ya da kurumu ifade ettiği anlaşılmaktadır. Buna göre bir şirketin maliki olduğu arsa üzerine bina inşa etmek suretiyle müteahhitlik de yapabileceği ve bu yolla belirtilen istisnadan faydalanabileceği açıktır.
 
 ## Danıştay 4. D. 2024/659 E., 2025/1499 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1152375200)
 
 İlk Derece Mahkemesi kararının özeti: ... İdare Mahkemesince verilen ... tarih ve E:..., K:... sayılı kararda; davacının arsa payının m²'sinin 9.500,00 TL'den satılmasına karşın, aynı taşınmazla ilgili açılan başka bir davada ...
 
@@ -40,6 +44,8 @@ Temyize konu ... Bölge İdare Mahkemesi ... İdare Dava Dairesinin ... tarih ve
 
 ## Danıştay 4. D. 2023/11472 E., 2023/5928 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1042907200)
+
 DÜŞÜNCESİ : Dava konusu, uygulama işleminin, yürütmenin durdurulması kararı uyarınca icra edilmeyip sonrasında yeniden işlem tesis edildiği, daha sonrasında ise davacının yükleniciyle sözleşme imzaladığı anlaşıldığından, düzenleyici işlemin ise; 21.06.2019 tarihli Yönetmelik değişikliğiyle değiştirildiği anlaşıldığından konusu kalmayan dava hakkında karar verilmesine yer olmadığına karar verilmesi gerektiği düşünülmektedir.
 
 …
@@ -48,6 +54,8 @@ Dava konusu uygulama işlemi niteliğindeki İstanbul Valiliği Çevre ve Şehir
 
 ## Danıştay 6. D. 2021/10559 E., 2021/14405 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/746678100)
+
 Öncelikle usule ilişkin olarak, dava dilekçesinin 2577 sayılı Kanunun 5. maddesine uygun olarak düzenlenmeden açıldığı, davacıların yükleniciyle anlaşma sağladığından davadan beklenen hukuki menfaatlerinin ortadan kalktığı ve dava açma ehliyetlerinin olmadığı ileri sürülmüştür.
 
 …
@@ -55,6 +63,8 @@ Dava konusu uygulama işlemi niteliğindeki İstanbul Valiliği Çevre ve Şehir
 Daha önce davanın reddine ilişkin kısım nedeniyle davalı idareler lehine vekalet ücretine hükmedildiği görüldüğünden davalı idareler lehine yeniden vekalet ücretine hükmedilmemesine …
 
 ## Danıştay 6. D. 2019/769 E., 2020/7446 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/621125700)
 
 İlk Derece Mahkemesi kararının özeti: ...
 
@@ -72,6 +82,8 @@ Dava konusu işlemin yukarıda özetlenen gerekçeyle kısmen iptaline …
 
 ## Yargıtay HGK 2022/180 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/762868100)
+
 Taraflarca imzalanan kat karşılığı inşaat sözleşmesinin 32. maddesinde yapı denetim ücretlerinin tamamından yüklenicinin sorumlu olacağı kararlaştırılmış ise de, yukarıda açıklanan Kanun hükümlerinden de anlaşılacağı üzere yapı denetim hizmet sözleşmesi, arsa sahipleri ile dava dışı İrem 1 Yapı Denetim Ltd. Şti. arasında imzalanmış ve arsa sahipleri bu sözleşme gereğince, hizmet bedelini yapı denetim şirketine ödemeyi taahhüt etmişlerdir.
 
 Arsa payı karşılığı inşaat sözleşmesinde yapı denetim hizmet bedelinin yüklenici tarafından üstlenilmesine rağmen ödenmemesi hâlinde, binanın sözleşme ve ekleri ile mevzuata uygun şekilde tamamlanması için gereken herhangi bir masraftan söz edilemeyeceğinden, yapı denetim hizmet bedelinin arsa sahiplerince ödenmesi durumu yüklenici namına ifa olarak kabul edilemez. Yapı denetim hizmet sözleşmesinin tarafı olan arsa sahipleri, bu sözleşme gereğince edimlerini ifa ederek yapı denetim ücretini ödedikten sonra, yüklenici ile aralarındaki kat karşılığı inşaat sözleşmesi kapsamında “sözleşmelerin nisbiliği ilkesi” gereğince ödedikleri bedelin rücu’en tahsilini talep edebilirler.
@@ -81,6 +93,8 @@ Arsa payı karşılığı inşaat sözleşmesinde yapı denetim hizmet bedelinin
 Asıl ve birleşen davada davacılar vekilinin temyiz itirazlarının kabulü ile direnme kararının yukarıda gösterilen değişik gerekçe ve nedenlerden dolayı, 6217 sayılı Kanun’un 30. maddesi ile 6100 sayılı Hukuk Muhakemeleri Kanunu’na eklenen “Geçici Madde 3” atfıyla uygulanmakta olan 1086 sayılı Hukuk Usulü Muhakemeleri Kanunu’nun 429. maddesi gereğince BOZULMASINA …
 
 ## Yargıtay HGK 2017/1435 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/386876800)
 
 Mahkemece; asıl davada tapu iptali ve tescil isteminin reddine, tazminat isteminin kabulüne, birleştirilen davanın ise kabulüne karar verilmiştir.
 
@@ -100,6 +114,8 @@ Asıl olan yüklenicinin hak iddiasında bulunan üçüncü kişilere yaptığı
 SONUÇ: Davacı ... vekilinin temyiz itirazlarının kabulü ile direnme kararının Özel Daire bozma kararında gösterilen nedenlerden dolayı BOZULMASINA …
 
 ## Yargıtay HGK 2014/1058 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/255326300)
 
 Mahkemece davanın genel mahkemelerde görülmesi gerektiği belirtilerek mahkemenin görevsizliğine karar verilmiştir.
 
@@ -121,6 +137,8 @@ S O N U Ç : Davacılar vekilinin temyiz itirazlarının kabulü ile, direnme ka
 
 ## Yargıtay HGK 2009/561 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/77076400)
+
 Davalı, davanın reddini savunmuştur.
 
 Mahkemece, 26 parsel sayılı taşınmazdaki davalının 73/236 payının iptali ile bunun 12/236 payının davacı adına tesciline karar verilmiştir.
@@ -141,6 +159,8 @@ S O N U Ç : Davalı vekilinin temyiz itirazlarının kabulü ile direnme karar�
 
 ## Yargıtay HGK 2008/748 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/16749400)
+
 Dava konusu dairenin dosyada mevcut protokole göre dava dışı müteahhit Nevzat Akdoğan’ın talimatıyla devredildiği anlaşılmaktadır. Davanın sonucu kendisini de etkileyeceğinden mahkemece öncelikle müteahhit hakkında ayrıca dava açılarak bu dava ile birleştirilmesi ve sonucuna göre karar verilmesi gerekirken bu husus üzerinde durulmadan davanın sonuçlandırılması yerinde görülmediğinden kararın bozulması uygun bulunmuştur...) gerekçesiyle bozularak dosya yerine geri çevrilmekle yeniden yapılan yargılama sonunda; mahkemece önceki kararda direnilmiştir.
 
 …
@@ -148,6 +168,8 @@ Dava konusu dairenin dosyada mevcut protokole göre dava dışı müteahhit Nevz
 S O N U Ç : Davalı vekilinin temyiz itirazlarının reddi ile direnme kararının yukarıda gösterilen nedenlerden dolayı ONANMASINA …
 
 ## Yargıtay HGK 2005/563 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/76949700)
 
 Davacı, yükleniciden satış vaadi sözleşmesi ile satın aldığı B blok 9 numaralı bağımsız bölümün adına tescilini istemiştir.
 
@@ -232,6 +254,8 @@ Bu bağımsız bölümler yönünden yukarıda açıklanan Dairemizin uygulamas�
 
 ## Yargıtay 6. HD 2026/19 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1206939800)
+
 Davacı vekili dava dilekçesinde; müvekkil ile davalı yüklenici şirket arasında yapılan arsa payı karşılığı inşaat sözleşmesi gereğince arsa malikine ait taşınmazda yapılacak inşaattan 1 adet bağımsız bölümün müvekkile verileceğini, müvekkili ile davalı yüklenici şirket arasında yapılan tarihsiz satış vaadi sözleşmesi ile kararlaştırılan dairenin 3. kat, 16 no.lu bağımsız bölüm olduğunu, müvekkile ait olduğu kararlaştırılan bağımsız bölümün üzerinde davalı T. ...
 
 …
@@ -248,6 +272,8 @@ Temyiz olunan Bölge Adliye Mahkemesi kararının BOZULMASINA …
 
 ## Yargıtay 6. HD 2025/3135 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1182994400)
+
 Tüm bu hususlar birlikte değerlendirildiğinde, daha sonra fazla imalat yapılmasının bu olguyu ortadan kaldırmayacağı bu haliyle asıl davada davacı yüklenicinin iskân alma yükümlülüğünü yerine getirdiği anlaşılmakla asıl davadaki talebin kabulü gerektiği ancak birleşen davada da davacı arsa sahiplerinin talepleri dikkate alındığında TBK'nın 97. maddesi ve Dairemizin yerleşik içtihatları dikkate alınarak birlikte ifaya karar verilmesi gerekmektedir.
 
 …
@@ -255,6 +281,8 @@ Tüm bu hususlar birlikte değerlendirildiğinde, daha sonra fazla imalat yapıl
 Yukarıda (2) no.lu bentte açıklanan nedenlerle, asıl davada davacı-birleşen davada davalı vekilinin asıl davaya yönelik karar düzeltme talebinin KABULÜ ile Dairemizin 19.03.2025 tarihli, 2025/102 Esas, 2025/1120 Karar sayılı onama ilamı KALDIRILARAK yerel mahkeme kararının BOZULMASINA …
 
 ## Yargıtay 6. HD 2025/2186 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1160195700)
 
 Davacı vekili dava dilekçesinde; davacının yöneticisi olduğu İzmir ili, .... ilçesi, .... Mahallesi, ... Sokak No ... adresinde bulunan binanın arsa sahipleri ile davalı yüklenici arasında arsa payı karşılığı inşaat sözleşmesi bulunduğu, bu sözleşme gereği binayı inşa eden davalının binada eksik ve ayıplı işler bıraktığı, bu eksik ve ayıplı işlerin delil tespiti sonucu bilirkişilerce saptandığını, şimdilik 600.000,00 TL eksik ve ayıplı işler bedelinin davalı yüklenici şirketten tahsilini talep etmiştir.
 
@@ -274,6 +302,8 @@ Temyiz olunan Bölge Adliye Mahkemesi kararının 6100 sayılı HMK'nın 370/1 h
 
 ## Yargıtay 6. HD 2025/1861 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1158538100)
+
 Mahkemece bozmaya uyularak verilen karar asıl ve birleşen davalarda davacı vekilince duruşmalı olarak temyiz edilmekle; kesinlik, süre, temyiz şartı ve diğer usul eksiklikleri yönünden yapılan ön inceleme sonucunda, 06.05.2025 tarihinde duruşma yapılmasına ve duruşma gününün taraflara davetiye ile bildirilmesine karar verilmiştir.
 
 …
@@ -289,6 +319,8 @@ Her ne kadar dava konusu bağımsız bölümün sözleşme ile yükleniciye bır
 Temyiz olunan Mahkeme kararına karşı asıl davada davacı vekilinin temyiz itirazının kabulü ile sonucu itibarıyla doğru olan Yerel Mahkeme kararının gerekçesinin değiştirilerek hükmün DÜZELTİLEREK ONANMASINA …
 
 ## Yargıtay 6. HD 2025/1840 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1157449700)
 
 Davalılar ... ve ... vekili; davacının müvekkilleri ve diğer davalılar adına kayıtlı bulunan taşınmazlardaki tapu kaydının iptali ile kendi adına tescilini isteyerek davanın temelini dava dışı ...
 

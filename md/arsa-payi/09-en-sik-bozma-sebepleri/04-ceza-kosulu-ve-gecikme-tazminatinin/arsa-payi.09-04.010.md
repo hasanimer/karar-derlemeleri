@@ -22,11 +22,15 @@ uyari: "Derleyenin seçtiği alıntılardır; kararın tamamı değildir. Künye
 
 ## Yargıtay 15. HD 2012/3443 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/765605900)
+
 Taraflar arasındaki sözleşmenin 7. maddesinde, arsa sahibine ait dükkanın 30.07.2007 tarihinde teslimi, 9. maddesinde kullanma ruhsatının müteahhit tarafından alınacağı, 14. maddesinde ise süresinde bağımsız bölümlerin teslim edilmemesi halinde her ay için 750,00 TL kira ile 750,00 TL cezai şartın ödeneceği hükümlerine yer verilmiştir. Buna göre, cezanın iskân koşuluna bağlı olmadığı anlaşılmaktadır. Davacıya 08.10.2008 tarihli tutanak ile dükkan teslim edildiğine göre bu tarihe kadar davacının gecikme tazminatı ve cezai şart isteminin kabulüne karar verilmesi gerekirken, sözleşmenin hukuki yorumunda yanılgıya düşülerek iskân alınmadığından bahisle dava tarihine kadar tazminat ve cezai şart isteminin kabulü usul ve yasaya aykırı olmuş, bozulması uygun bulunmuştur.
 
 SONUÇ:Yukarıda 1. bentte açıklanan nedenlerle davalının diğer temyiz itirazlarının reddine, 2. bent uyarınca hükmün davalı yararına BOZULMASINA …
 
 ## Yargıtay 15. HD 2012/2996 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/732623500)
 
 Gecikme tazminatı isteminin dayanağını 16.02.2006 günlü, Düzenleme Şeklinde Kat Karşılığı İnşaat Sözleşmesi oluşturmaktadır. Bu durumda karar altına alınan gecikme tazminatına dava tarihinden önceki bir tarihten itibaren faiz yürütülebilmesi için, davacının davalı yükleniciyi miktar belirtir ve ödeme ister ihtarname veya yazı göndererek temerrüde düşürmesi gerekir.
 
@@ -38,6 +42,8 @@ SONUÇ: Yukarıda 1. bentte açıklanan nedenlerle davalı yüklenicinin sair te
 
 ## Yargıtay 15. HD 2012/621 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/475272400)
+
 Davalı tarafından davaya verilen cevapta akdin feshedildiği bildirilmiş, bu davada da fesih tarihine kadar yapılan imalâtın bedelini istemek suretiyle akdin feshi hususunda tarafların iradeleri dava tarihi itibariyle birleşmiştir. Bu durumda davacının yaptığı tüm imalâtın fesih tarihindeki mahalli rayiçlerden bedeli saptanarak yine dava tarihi itibariyle davacıya önceden devredilen dairenin rayiç bedeli saptanan tüm imalât bedelinden düşülerek sonuca varılmalıdır. Davalı arsa sahibi akdi feshettiğinden kira kaybı da müspet zararlardan olup davacı alacağından düşülmeyeceğinden kira alacağı mahsup edilmeden dava sonuçlandırılmalıdır. Ayrıca tespit tarihinde davalının temerrüdü gerçekleşmemiş olup davalıya gönderdiği 30.11.2007 tarihli ihtarnamenin tebliğ edildiği 03.12.2007 tarihinden faizin başlatılması gerekirken faize tespit tarihinden hükmedilmesi de doğru olmamıştır.
 
 …
@@ -46,12 +52,16 @@ SONUÇ: Yukarıda 1. bentte yazılı nedenlerle tarafların sair temyiz itirazla
 
 ## Yargıtay 15. HD 2012/106 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/473851900)
+
 Taraflar arasındaki sözleşmenin (N) maddesinde 42 adet arsanın %50’sinin sözleşmeden hemen sonra yüklenici şirkete devredilmesi kararlaştırılmıştır. Sözleşmenin bu maddesine göre 21 adet arsanın yüklenici şirkete devredilmesi için kesin bir vade kararlaştırılmadığı sonucuna varılmaktadır. Sözleşmede sürenin tapu devrinden itibaren başlayacağı konusunda bir düzenleme de bulunmamaktadır. Davalı yüklenici şirket sözleşmenin (N) maddesindeki düzenlemeye dayanarak, 21 adet arsanın tapu kaydının yüklenici şirkete tapuda devredilmesini ister bir ihtarname veya yazıyı kooperatife göndermemiştir. Davacı kooperatif temerrüde düşmeden 18.09.2009 tarihinde tapu devirlerini yapmıştır.
 Davacı kooperatif davalı şirket tarafından temerrüde düşürülmeden arsa devirlerini yaparak edimini yerine getirdiğine göre işin esası incelenerek, keşif yapılarak konunun uzmanı bilirkişiden istenebilecek gecikme tazminatı miktarı konusunda rapor alınıp, sonucuna göre değerlendirme yapılıp karar verilmesi gerekirken, davacı kooperatifin temerrüde düşürülmediği gözden kaçırılarak, davacı kooperatifin öncelikli edimini yerine getirmediği gerekçesiyle davanın reddine karar verilmesi doğru olmamış, kararın bozulması gerekmiştir.
 
 SONUÇ:Yukarıda açıklanan nedenlerle kararın davacı arsa sahibi kooperatif yararına BOZULMASINA …
 
 ## Yargıtay 15. HD 2011/8003 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/661211000)
 
 Dava, şahsi hakka dayalı tapu iptâli ve tescil, olmadığı takdirde satış bedelinin iadesi ve cezai şart alacağının tahsili istemlerine ilişkindir.
 
@@ -67,6 +77,8 @@ SONUÇ:Yukarıda 1. bentte açıklanan nedenlerle davacının diğer karar düze
 
 ## Yargıtay 15. HD 2011/7513 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/660768600)
+
 Dava, arsa payı karşılığı inşaat yapım sözleşmesi gereğince gecikme tazminatı alacağının tahsili istemine ilişkindir.
 
 …
@@ -78,6 +90,8 @@ Buna göre 2794 ada 39 parselde ruhsat tarihine 18 aylık inşaat süresi ve 6 a
 maddesine yanlış anlam verilerek davanın reddi doğru olmamış, kararın bozulması uygun bulunmuştur.SONUÇ:Yukarıda açıklanan nedenlerle temyiz itirazlarının kabulü ile hükmün davacı yararına BOZULMASINA, ödediği temyiz peşin harcının istek halinde temyiz eden davacıya geri verilmesine, 14.12.2011 gününde oybirliğiyle karar verildi.
 
 ## Yargıtay 15. HD 2011/7507 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/660758300)
 
 Dava, eser sözleşmesinden kaynaklanan gecikme tazminatı istemine ilişkindir.
 
@@ -92,11 +106,15 @@ SONUÇ: Yukarıda açıklanan nedenlerle kararın taraflar yararına BOZULMASINA
 
 ## Yargıtay 15. HD 2011/7290 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/489514000)
+
 07.10.1996 tarih ve 26685 yevmiye nolu sözleşmede arsa sahibine isabet edecek 10 adet villadan 5 adedinin 1997 yılı yazı sezonuna teslim edileceği, 11, 12, 13 nolu villaların ise yaz sezonuna yetişmemesi halinde yüklenicinin kendi villalarını tamamlayamaması halinde 1999 sezonunda teslim edileceği kararlaştırılmıştır. Bu durumda 11, 12 ve 13 nolu villaların teslim tarihinin 1999 sezonu olarak tesliminin kararlaştırıldığı ve bu tarih itibariyle yüklenicinin kendi inşaatlarını tamamlayamadığı ve sözleşmede teslimin 1999'a sarkması halinde bu villalar için gecikme tazminatı alınacağına dair sözleşmede bir hüküm bulunmadığından mahkemece 11, 12 ve 13 nolu villalar için talep olunan gecikme tazminatının 1999 yaz sezonundan itibaren hesaplanması gerekirken bu villalar bakımından da 1997 yaz sezonundan başlayarak kira hesaplaması doğru olmamış, kararın belirtilen nedenlerle bozulması gerekmiştir.
 
 SONUÇ: Yukarıda 1. bentte yazılı nedenlerle sair temyiz itirazlarının reddine, 2. bent uyarınca hükmün temyiz eden davacılar ve birleşen davanın davalıları ... ile Mimarlık ve Dekorasyon A.Ş. yararına BOZULMASINA …
 
 ## Yargıtay 15. HD 2011/6626 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/765005900)
 
 Dava, arsa payı karşılığı inşaat yapım sözleşmesi uyarınca gecikme tazminatı alacağının tahsili istemine ilişkindir.
 
@@ -108,6 +126,8 @@ SONUÇ:Yukarıda açıklanan nedenlerle temyiz itirazlarının kabulü ile hük�
 
 ## Yargıtay 15. HD 2011/6574 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/764906900)
+
 Sözleşme 28.08.2002 tarihinde yapıldığına göre, süre sonu 28.10.2004 tarihine isabet etmektedir. Yüklenici tarafından iskân ruhsatının alınmadığı anlaşılmaktadır. Bu durumda davacı arsa sahibinin gecikme tazminatı isteme hakkının doğduğu sonucuna varılmaktadır. Mahkemece 28.10.2004 tarihiyle dava tarihi arasındaki dönem için davacı arsa sahibinin istek miktarı da dikkate alınarak gecikme tazminatının davalı yükleniciden tahsiline karar verilmesi gerekirken, yazılı şeklide istemin reddine karar verilmesi doğru olmamıştır.
 
 Davacı arsa sahibi kusurlu işlerin giderilme bedeli hakkında da istemde bulunmuştur. Mahkemece davacı arsa sahibi tarafından dava konusu yapılan kusurların açık ayıp niteliğinde bulunması ve davacı arsa sahibi tarafından teslimden itibaren ayıp ihbarında bulunulmaması nedeniyle bu istemin reddine karar verilmiştir. Taraflar arasındaki sözleşmenin 4. maddesindeki düzenleme dikkate alındığında, iskân ruhsatını almamış olan yüklenicinin daireyi davacı arsa sahibine yasal olarak teslim ettiğini kabul etmek mümkün değildir. Bu durumda ayıp ihbarı için sürenin başladığından sözedilemez. Mahkemece davacı arsa sahibinin kusurlu işlerin giderilmesi bedeli hakkındaki isteminin de değerlendirilip, bu konuda da istek miktarı dikkate alınmak suretiyle davanın kabulüne karar verilmesi gerekirken, yazılı şekilde bu istemin reddine karar verilmesi de hatalı olmuştur.
@@ -117,6 +137,8 @@ Davacı arsa sahibi kusurlu işlerin giderilme bedeli hakkında da istemde bulun
 SONUÇ: Yukarıda 1. bentte açıklanan nedenlerle davalı yüklenicinin tüm, davacı arsa sahibinin sair temyiz itirazlarının reddine, 2. ve 3. bentler uyarınca kararın davacı arsa sahibi yararına BOZULMASINA …
 
 ## Yargıtay 15. HD 2011/5182 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/764125800)
 
 Dava 29.01.1996 gün 4295 yevmiye numaralı kat karşılığı inşaat sözleşmesinin 3-b maddesine dayanılarak gecikme tazminatı istemiyle açılmıştır. Sözleşmenin 3-b maddesinde gecikme halinde rayiç kira bedeli kadar aylık tazminat ödenmesi kararlaştırılmıştır. Mahkemece asıl alacak yanında 9.324,62 TL faizin de davalı kooperatiften tahsiline karar verilmiştir. Karar altına alınan faizin dayanağı 30.03.2009 tarihli bilirkişi raporudur. Bilirkişi raporunun incelenmesinden, taraflar arasında kira sözleşmesi varmış gibi faiz hesabı yapıldığı belirlenmiştir. Taraflar arasında kira sözleşmesi olmayıp, kat karşılığı inşaat sözleşmesi ilişkisi bulunduğuna ve istenilen tazminat gecikme tazminatı olduğuna göre, bilirkişi raporunda hesaplandığı şekilde her ayın kira bedeline ödenmesi gereken tarihlerden itibaren faiz hesaplanması doğru olmamıştır.
 
@@ -129,6 +151,8 @@ SONUÇ:Yukarıda 1. bentte açıklanan nedenlerle davalı yüklenici kooperatifi
 …
 
 ## Yargıtay 15. HD 2011/2505 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/765284900)
 
 Davalı ... dosyanın Dairemizde bulunduğu aşamada 21.06.2010 tarihinde havale edilen dilekçesinde ek proje yaptırdığını, binanın yasal hale geldiğini savunmuş, projesini de dilekçesine eklemiştir.
 
@@ -144,6 +168,8 @@ SONUÇ:Yukarıda açıklanan nedenlerle kararın davalı yüklenici yararına BO
 
 ## Yargıtay 15. HD 2011/496 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/508201800)
+
 Arsa sahibi birleşen davasında gecikme tazminatı isteminde bulunmuştur. Mahkemece 01.11.2007 tarihinde davacı yüklenici tarafından ihtarnamenin gönderildiği 23.01.2008 tarihine kadar olan dönem için gecikme tazminatı karar altına alınmıştır. Arsa sahibi ... yüklenici tarafından gönderilen 23.01.2008 tarihli ihtarnameye verdiği 06.02.2008 tarihli cevabında yüklenicinin edimlerini tam olarak yerine getirmediğini ileri sürmüştür. Dosya içerisindeki iş bitirme tutanağı başlıklı belge içeriğinden, inşaatın bitim tarihinin 14.05.2008 olduğu anlaşılmaktadır. Bu belge arsa sahibinin beyanlarını doğrulamaktadır. Arsa sahibi tarafından gecikme tazminatı istemli karşı dava 03.04.2008 tarihinde açıldığına göre ve karşı dava tarihi iş bitirme tutanağında yazılı olan bitim tarihinden önce olduğundan 01.11.2007 tarihi ile karşı davanın açılış tarihi olan 03.04.2008 tarihi arasındaki dönem için gecikme tazminatının hesaplattırılıp tahsiline karar verilmesi gerekirken, gecikme tazminatının 23.01.2008 tarihine kadar karar altına alınması da hatalı olmuştur.
 
 …
@@ -152,11 +178,15 @@ SONUÇ:Yukarıda 1. bentte açıklanan nedenlerle davalı karşı davacının sa
 
 ## Yargıtay 15. HD 2010/7017 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/778076800)
+
 Eser sözleşmelerinde işin sözleşmeye, fen ve sanat kurallarına uygun olarak bitirilip teslim edildiğini yüklenici kanıtlamak zorundadır. Davalı yükleniciler 17.08.1999 depreminden önce inşaatın teslim edildiğini usulen kanıtlayamadıklarından davacıların sözleşmeye göre almaları gereken 20 daire 4 dükkan yönünden son olarak teslimi kararlaştırılan 31.12.1997 tarihinden 17.08.1999 tarihine kadar rayiç kira bedeli üzerinden gecikme tazminatına hükmedilmesi gerekirken Vergi Dairesince tanzim edilen yoklama fişine göre binanın 1997 yılında tamamlandığı bu nedenle kira tazminatı talep edilemiyeceği gerekçesi ile davanın reddine karar verilmesi doğru olmamış, kararın açıklanan bu nedenlerle bozulması gerekmiştir.
 
 SONUÇ:Yukarıda 1. bentte yazılı nedenlerle davacıların diğer temyiz itirazlarının reddine, 2. bentte açıklanan nedenlerle hükmün temyiz eden davacılar yararına BOZULMASINA …
 
 ## Yargıtay 15. HD 2010/6770 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/778270500)
 
 Davalı yüklenici cevap dilekçesinde sözleşme dışı fazla imalâtlar yaptığını savunarak bununla ilgili Ankara 11. Asliye Hukuk Mahkemesi'nde 2007/35 değişik iş sayılı dosyasında delil tesbiti yaptırdığını savunmuştur.
 
@@ -170,6 +200,8 @@ SONUÇ: Yukarıda 1. bentte açıklanan sebeplerle davalı-birleşen dosya davac
 
 ## Yargıtay 15. HD 2010/6691 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/778106900)
+
 Dava, arsa payı karşılığı inşaat yapım sözleşmesi uyarınca gecikme tazminatı alacağının tahsili istemine ilişkindir.
 
 …
@@ -181,6 +213,8 @@ Bu durumda mahkemece davalı yükleniciye kendi iradesi dışında inşaat ruhsa
 SONUÇ:Yukarıda 1. bentte açıklanan nedenlerle davalının diğer temyiz itirazlarının reddine, 2. bent uyarınca kabulü ile hükmün davalı yararına BOZULMASINA …
 
 ## Yargıtay 14. HD 2010/5686 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/768584300)
 
 Dava, yüklenicinin temliki işlemine dayalı tapu iptali ve tescil istemine ilişkindir.
 
@@ -200,6 +234,8 @@ SONUÇ: Yukarıda 1.bentte açıklanan nedenlerle davacının bütün temyiz iti
 
 ## Yargıtay 15. HD 2010/4549 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/775102000)
+
 Dava, arsa payı karşılığı inşaat yapım sözleşmesinin yüklenici kooperatifin temerrüdü sebebiyle feshi, sözleşme konusu taşınmazların teslimi ve sözleşmede kararlaştırılan maktu cezanın tahsili istemine ilişkindir.
 
 …
@@ -210,6 +246,8 @@ Tokat 2. Noterliği'nde davacılar ile davalı kooperatif arasında düzenlenen 
 SONUÇ: Yukarıda açıklanan nedenlerle temyiz itirazlarının kabulüyle hükmün davalı kooperatif yararına BOZULMASINA …
 
 ## Yargıtay 15. HD 2010/2982 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/774353900)
 
 Dava, arsa payı karşılığı inşaat yapım sözleşmesinden kaynaklanmış olup gecikme tazminatı ve eksik işler bedelinin tahsili istemine ilişkindir.
 

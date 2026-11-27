@@ -20,4 +20,6 @@ uyari: "Derleyenin seçtiği alıntılardır; kararın tamamı değildir. Künye
 
 ## Yargıtay HGK 2023/1136 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/976309900)
+
 Dava dilekçesinde tazminat talebi olarak 200.000,00 TL talep edildiği dikkate alındığında davacı tarafından sözleşmenin feshedildiği belirtilen 28.02.2013 tarihinden itibaren aylık 60.000,00 TL olmak üzere dava tarihinden sonrasını kapsayacak şekilde toplamda seksen ay üzerinden ecrimisil talebinde bulunulduğu, bu durumda davacının dava tarihinden sonraki dönem içinde kalan ecrimisil talebi erken açılan dava niteliğinde olup, dava tarihinden sonraki döneme ilişkin ecrimisil talebinde bulunmasında hukuki yararının bulunmadığı anlaşılmaktadır.

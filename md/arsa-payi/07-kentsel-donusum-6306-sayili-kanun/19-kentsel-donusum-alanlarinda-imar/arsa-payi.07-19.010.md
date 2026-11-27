@@ -22,6 +22,8 @@ uyari: "Derleyenin seçtiği alıntılardır; kararın tamamı değildir. Künye
 
 ## Danıştay 6. D. 2021/10432 E., 2023/7686 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1044681400)
+
 İlk Derece Mahkemesi kararının özeti: ...
 
 …
@@ -36,6 +38,8 @@ Bu iş bölümü uyarınca "Ruhsat-İzin, İfraz ve tevhid, İmar planı-İmar d
 Davanın yukarıda özetlenen gerekçeyle reddine ilişkin Mahkeme kararına yönelik olarak yapılan istinaf başvurusunun reddi yolundaki temyize konu ... Bölge İdare Mahkemesi ... İdari Dava Dairesinin ... tarih ve E:... , K:... sayılı kararının BOZULMASINA …
 
 ## Danıştay 6. D. 2023/1471 E., 2023/7597 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1026182800)
 
 İlk Derece Mahkemesi kararının özeti:k ...
 
@@ -53,6 +57,8 @@ Davanın yukarıda özetlenen gerekçeyle reddine ilişkin Mahkeme kararına yö
 
 ## Danıştay 8. D. 2021/1032 E., 2023/7168 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1048327600)
+
 İlk Derece Mahkemesi kararının özeti: ...
 
 …
@@ -65,6 +71,8 @@ Bu bakımdan, her ne kadar uyuşmazlık konusu alana ilişkin işlemin tesis edi
 
 ## Danıştay 6. D. 2023/4248 E., 2023/7120 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1021884400)
+
 Olayda önceki imar planı kararları doğrultusunda ve usulüne uygun olarak alınan ruhsat ve eki projelere göre bütünüyle yasal olarak inşa edilmiş yapılar bulunmaktadır. Bu kapsamda Anayasanın amir hükümleri ile tanımlanan, korunması gereken mülkiyet hakkının kapsamına giren bir hak bulunduğu hususunda duraksama bulunmamaktadır. Burada üzerinde durulması gereken söz konusu mülkiyet hakkının sınırlanmasının yasal koşullarının gerçekleşip gerçekleşmediğidir. Bilindiği üzere mülkiyet hakkı kanunla (belirli, öngörülebilir açık ve kesin) meşru bir amacı gerçekleştirmek amacıyla orantılı bir biçimde sınırlandırılabilir. Yasal gereklilikler yerine getirilerek inşa edilen bir yapı nedeniyle sahip olunan mülkiyet hakkının kullanımı yönünden getirilecek her kısıtlamanın da yine belirtilen bu koşullara uygun olması gerekmektedir.
 
 …
@@ -72,6 +80,8 @@ Olayda önceki imar planı kararları doğrultusunda ve usulüne uygun olarak al
 Öte yandan, davalı idare tarafından deprem, afet gibi kentsel risk faktörlerine karşın eskimiş yapıların yenilenemediği, can ve mal emniyetini sağlayabilmek, yapıları depreme uygun hale getirmek ve bunu yaparken de mevcut nüfusu mağdur etmemek adına plan notu değişikliğinin zorunluluk teşkil ettiği, can ve mal emniyeti açısından plan notu değişikliğinin kamu yararına uygun olduğu ileri sürülmüş ise de, deprem gibi afet risklerini bertaraf etmek adına eskimiş yapıların bir an önce yenilenmesi için imar planlarında değişikliğe gitmek bakımından kamu yararına uygun bir amaç teşkil etse de, söz konusu amacın plan notu değişikliği ile plan bütünlüğünün bozulmasına ve plan ana kararlarının göz ardı edilmesine haklı gerekçe olamayacağı …
 
 ## Danıştay 6. D. 2020/2238 E., 2023/6868 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1021136200)
 
 Diğer taraftan büyükşehir belediye sınırları içerisinde yer alan riskli alanlara, rezerv yapı alanlarına ve riskli yapıların bulunduğu taşınmazlara ilişkin imar planlarının yapılması ve onaylanmasında özel kanun olan 6306 sayılı Kanun'un uygulaması gerektiğinden, söz konusu taşınmazlara/alanlara ilişkin imar planlarını yapma ve onaylama yetkisi Çevre ve Şehircilik Bakanlığına geçmekte, ancak Bakanlık, sahip olduğu bu yetkisini belediyelere devredebilmektedir.
 
@@ -86,12 +96,16 @@ Dava konusu işlemin iptaline ilişkin Mahkeme kararına yönelik olarak yapıla
 
 ## Danıştay 6. D. 2021/7565 E., 2023/6779 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1022296900)
+
 1- 3194 sayılı İmar Yasasının 8. ve Ek-8.maddelerinin; imar planlarının ve plan değişikliklerinin hazırlanması ve yürürlüğe konulması ile koşul ve kısıtlarına ilişkin genel kuralları emredici şekilde hüküm altına aldığı açıktır. Aynı Yasanın salt Ek-3.maddesine göre imar planlaması yapılması halinde, 8., ve Ek-8. maddelerin göz ardı edilmesi ve "idarenin imar mevzuatındaki kısıtlamaların dışında tutulması" sonucunu doğuracaktır. Yukarıda belirtilen Anayasa Mahkemesi kararının gerekçeleri dikkate alındığında, imar planlarının hazırlanması ve yürürlüğe konulmasına ilişkin esasları belirleyen 8.maddenin ve genel düzenlemeler içeren Ek-8.maddenin öncelikli olarak uygulanması gerektiği tabiidir. Nitekim Ek-3.maddede, söz konusu 8. ve Ek-8.maddede düzenlenen genel hükümlerin uygulanmayacağına ilişkin bir ibare de yer almamaktadır.
 Hal böyle iken, Ek-3.maddeye göre ilgili kuruluşlardan gerekli görüş alınarak Çevre İmar bütünlüğünü bozmayacak şekilde yapılan plan değişikliklerinin, plan değişikliği için gerekli kriterlerin sağlanması bakımından yeterli olduğu varsayımı üzerine işlem tesis edilmesinde başta eşitlik, hukuk devleti, yasaların genelliği olmak üzere Anayasal ilkelere ve hukuka uyarlık bulunmamaktadır.
 
 Yine, 3194 sayılı İmar Yasasının Ek-8 maddesinde; parsel bazında; nüfusu, yapı yoğunluğunu, kat adedini, bina yüksekliğini arttıran imar planı değişikliklerinin yapılamayacağının kurala bağlanmasına rağmen, dava konusu işlem parsel bazında ve daha önce hiç yapılaşma olmayan ve hatta 1/25.000 ölçekli 2023 Başkent Ankara Nazım İmar Planında "ağaçlandırılacak alan" lejantı ile gösterilerek yapılaşması yasaklanan bir alanda yapılmıştır.
 
 ## Danıştay 4. D. 2023/11048 E., 2023/6675 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1047517200)
 
 DAVANIN KONUSU: İzmir İli, Aliağa İlçesi, … ve … Mahalleleri sınırları içerisinde bulunan ve ekli kroki ile listede sınır ve koordinatları gösterilen alanın 6306 sayılı Afet Riski Altındaki Alanların Dönüştürülmesi Hakkındaki Kanunun 2. maddesi uyarınca riskli alan ilan edilmesine ilişkin 04/06/2022 tarih ve 31856 sayılı Resmi Gazete'de yayımlanan 03/06/2022 tarihli ve 5688 sayılı Cumhurbaşkanı Kararının iptali istenilmektedir.
 
@@ -105,6 +119,8 @@ Dava konusu 03/06/2022 tarihli ve 5688 sayılı Cumhurbaşkanı Kararının İPT
 
 ## Danıştay 4. D. 2023/11467 E., 2023/6674 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1047118400)
+
 Uyuşmazlığın çözümünün teknik bilgiyi gerektirmesi nedeniyle Danıştay Altıncı Dairesince mahallinde yapılan keşif ve bilirkişi incelemesi sonucu bilirkişilerce düzenlenerek Daireye ibraz edilen bilirkişi raporu, bu rapora yapılan itrazlar ile dava dosyasındaki bilgi ve belgelerin birlikte değerlendirilmesinden; alanın 6306 sayılı Kanun'un 2. maddesi uyarınca, üzerindeki yapılaşma sebebiyle can ve mal kaybına yol açma riski taşıdığından bahisle riskli alan ilan edildiği, alandaki toplam 33 adet binadan, tescilli, idari tesis, prefabrik ve metruk yapılar çıkarıldıktan sonra kalan 20 betonarme, 3 yığma binanın Uygulama Yönetmeliği'nin eki Riskli Yapıların Tespit Edilmesine İlişkin Esaslar uyarınca, EK-A da belirtilen binaların bölgesel deprem risk dağılımını belirlemek için basitleştirilmiş yöntem uygulanmak suretiyle tespit edilen 5 betonarme binaya ayrıntılı risk analizinin yapıldığı, yığma yapılara ilişkin olarak ise Yönetmelikte belirtilen şekilde risk tespiti yapılmadığı, 6306 Sayılı Kanun kapsamında belirli alanlarda önceliklerin ve riskli olabilecek binaların bölgesel dağılımının belirlenmesi amacıyla EK-A düzenlenen basitleştirilmiş yöntemlerin, genel yapı stoku riskinin
 belirlenmesi amacıyla bilim ve tekniğin gereği istatistiksel olarak anlamlı sayıda bina ihtiva eden alanlarda uygulanabileceği, dava konusu alan üzerindeki bina sayısı dikkate alındığında ise genel yapı stokunun riskinin belirlenmesi için istatistiksel olarak anlamlı sayıda bina ihtiva etmediği, alandaki tüm yapıların risk tespitinin yapılması gerektiği sonucuna varıldığından anılan hususlara uyulmadan dava konusu riskli alan tespitinde hukuka uyarlık bulunmamıştır.
 
@@ -117,6 +133,8 @@ Dava konusu 03/06/2022 tarihli ve 5688 sayılı Cumhurbaşkanı Kararının dava
 
 ## Danıştay 6. D. 2021/136 E., 2023/6287 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1008104600)
+
 Bu durumda, 1/1000 ölçekli uygulama imar planı değişikliğinin iptali istemiyle açılan davada, davacıların dava açma ehliyetlerinin bulunduğu sonucuna ulaşıldığından, işin esasına girilerek bir karar verilmesi gerekirken davanın ehliyet yönünden reddi yolunda verilen Bölge İdare Mahkemesi kararında isabet görülmemiştir.
 
 …
@@ -125,9 +143,13 @@ Yukarıda özetlenen gerekçeyle davanın ehliyet yönünden reddine ilişkin Ma
 
 ## Danıştay 6. D. 2021/10117 E., 2023/5021 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/998473500)
+
 Sit alanlarında bölgeye ilişkin koruma amaçlı imar planları ile belirlenen kullanım kararları doğrultusunda uygulama yapılması mümkün olup, bu alanlarda 5366 sayılı Kanunun uygulanması suretiyle yenileme alanı ilan edilmesi durumunda da, bölgeye ilişkin koruma amaçlı imar planı varsa bu plan doğrultusunda, yoksa koruma amaçlı imar planı yapılarak buna uygun olarak yenileme projelerinin hazırlanması ve söz konusu projeler ve koruma amaçlı imar planlarında öngörülen kullanım kararları doğrultusunda kamulaştırma işlemi de dahil olmak üzere uygulama işlemlerinin tesis edilmesi gerektiği açıktır.
 
 ## Danıştay 6. D. 2021/1646 E., 2023/4211 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/976869300)
 
 DAVALI YUNUSEMRE BELEDİYE BAŞKANLIĞININ SAVUNMASININ ÖZETİ: Temyiz edilen kararda davacı tarafından ileri sürülen bozma nedenlerinden hiçbirisi bulunmadığından davacının temyiz isteminin reddi gerektiği savunulmaktadır.
 
@@ -143,6 +165,8 @@ DANIŞTAY TETKİK HAKİMİ …
 
 ## Danıştay 6. D. 2021/446 E., 2023/3657 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/990452800)
+
 Öte yandan, niteliği itibarıyla bölge parkının tüm kente hizmet edecek türde bir kullanım kararı olması ve trafik yaratma potansiyeline sahip olması nedeniyle yer seçiminin öncelikle üst ölçekli ve kent bütününe yönelik çevre düzeni planlarında ve/veya nazım imar planlarında yapılması gerekmektedir. Nitekim 1/25.000 ölçekli 2023 Başkent Ankara Nazım İmar Planında, uyuşmazlık konusu alanın kent/bölge düzeyinde hizmet vermesi amacıyla değil, vadi tabanları ve dere yataklarının oluşturduğu yeşil alan sisteminin bir parçası olarak açık yeşil alan kullanımına ayrıldığı anlaşıldığından, üst ölçekli planda öngörülmeyen kent düzeyinde kullanım kararının 1/5000 ölçekli nazım imar planı değişikliği ile getirilmesi planların kademeli birlikteliği ilkesine aykırılık oluşturmaktadır.
 
 …
@@ -150,6 +174,8 @@ DANIŞTAY TETKİK HAKİMİ …
 Davanın yukarıda özetlenen gerekçeyle reddine ilişkin Mahkeme kararına yönelik olarak yapılan istinaf başvurusunun reddi yolundaki temyize konu … Bölge İdare Mahkemesi …. İdari Dava Dairesinin … tarih ve E:…, K:… sayılı kararının BOZULMASINA …
 
 ## Danıştay 6. D. 2022/6611 E., 2023/3633 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/976197300)
 
 Yukarıda anılan alan, …
 
@@ -170,6 +196,8 @@ sayılı kararlarıyla onaylanmıştır.
 … İdare Mahkemesince verilen … tarih ve E:… , K:… sayılı karar ve dayandığı gerekçe hukuk ve usule uygun olup, bozulmasını gerektirecek bir sebep bulunmadığından, temyiz isteminin reddi ile anılan kararın ONANMASINA …
 
 ## Danıştay 6. D. 2022/6595 E., 2023/3632 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/976186300)
 
 Bakılan davada ise, uyuşmazlık konusu taşınmazların …
 
@@ -194,6 +222,8 @@ gerekçesiyle dava konusu 1/25.000 ve 1/5000 ölçekli nazım imar planlarında 
 … İdare Mahkemesince verilen … tarih ve E:… , K:… sayılı karar ve dayandığı gerekçe hukuk ve usule uygun olup, bozulmasını gerektirecek bir sebep bulunmadığından, temyiz isteminin reddi ile anılan kararın ONANMASINA …
 
 ## Danıştay 6. D. 2022/6215 E., 2023/3631 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/976151500)
 
 İdare Mahkemesince verilen …
 
@@ -223,6 +253,8 @@ sayılı kararda, dosyadaki bilgi ve belgeler ile yerinde yaptırılan keşif ve
 
 ## Danıştay 6. D. 2020/5323 E., 2023/3561 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/989379000)
+
 İlk Derece Mahkemesi kararının özeti: ... İdare Mahkemesince verilen ... tarih ve E:..., K:... sayılı kararda; 6306 sayılı Kanunun Uygulama Yönetmeliğinin 15.
 
 …
@@ -244,6 +276,8 @@ Davanın yukarıda özetlenen gerekçeyle ehliyet yönünden reddine ilişkin Ma
 …
 
 ## Danıştay 6. D. 2022/6312 E., 2023/3548 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/976196700)
 
 İSTEMİN ÖZETİ : Bakanlar Kurulu'nca riskli alan ilan edilen İstanbul-Kadıköy İlçesi, Fikirtepe ve çevresine ait 1/1000 ölçekli uygulama imar plan notları kapsamında brüt alanlar üzerinden 3194 sayılı İmar Kanununun 23. maddesi uyarınca hesaplanan altyapı katılım bedeline istinaden alınan teminat mektuplarının iadesi istemiyle 17/07/2020 tarihinde yapılan başvurunun zımnen reddine dair işlemin iptali istemiyle açılan davanın görev yönünden reddi yolundaki …
 
@@ -272,6 +306,8 @@ sayılı kararın, usul ve hukuka aykırı olduğu ileri sürülerek bozulması 
 … Bölge İdare Mahkemesi … İdari Dava Dairesince verilen … tarih ve E:… , K:… sayılı karar ve dayandığı gerekçe hukuk ve usule uygun olup bozulmasını gerektirecek bir sebep bulunmadığından, anılan kararın ONANMASINA …
 
 ## Danıştay 6. D. 2022/2589 E., 2023/3507 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/994971900)
 
 2942 sayılı Kanun hükümleri uyarınca, kamu yararının gerektirdiği hallerde gerçek ve özel hukuk tüzelkişilerinin mülkiyetinde bulunan taşınmaz mallar Devlet ve kamu tüzelkişilerince kamulaştırılabilecek olup, kamulaştırma yapılabilmesi için ya ilgili idare tarafından kamu yararı kararının alınması, ya da onaylı imar planı veya ilgili Bakanlıklarca onaylı özel plan ve projesine göre yapılacak bir hizmet olması gerekmektedir.
 

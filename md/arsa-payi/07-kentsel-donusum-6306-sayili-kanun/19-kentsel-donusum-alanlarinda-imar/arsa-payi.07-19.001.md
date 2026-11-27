@@ -111,6 +111,8 @@ Dava konusu işlemin iptali ile ödenen ... TL tutarın davacılara iadesine ili
 
 ## Danıştay İDDK 2023/1646 E., 2025/711 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1164314000)
+
 Davalı idarelerce gerek yapı ruhsatı hizmet bedeli gerekse banka teminat mektubunun, yapı ruhsatı düzenlenmesi istemiyle yaptığı başvuru üzerine davacı şirketten şifahi olarak istendiği, dava dilekçesinde tarih ve sayısı verilerek iptali istenen davalı idarelere ait yazıların davacı şirket tarafından verilen dilekçelere cevap niteliğinde ya da bu dilekçelere ilişkin iç yazışma niteliğinde olduklarının görüldüğü, bu itibarla, dava konusunun bireysel işlemler yönünden; "davacıdan 4.272.996,31 TL yapı ruhsatı hizmet bedeli ve bu bedelin peşin ödenmeyen kısmına karşılık banka teminat mektubu istenmesine ilişkin işlemler" şeklinde kurulması gerektiği, …
 
 …
@@ -127,6 +129,8 @@ Dava konusu Çevre ve Şehircilik Bakanlığı Döner Sermaye İşletmesi Müdü
 
 ## Danıştay İDDK 2024/2836 E., 2025/297 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1149725200)
+
 Davalı yanında müdahil tarafından; çevre düzeni planlarının leke plan olduğu, 1/1000 ölçekli uygulama imar planları gibi değerlendirilemeyeceği, deniz kaplumbağalarının korunmasına yönelik gerekli önlemlerin alındığı, kararın onanması gerektiği savunulmaktadır.
 
 …
@@ -141,6 +145,8 @@ Davanın yukarıda özetlenen gerekçeyle reddine ilişkin Danıştay Altıncı 
 
 ## Danıştay İDDK 2024/1667 E., 2025/251 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1160342000)
+
 Planların kademeli birlikteliği ilkesi çerçevesinde, her alt ölçekli planlama kademesinin bir üst ölçeğin ana kararlarını korumakla birlikte üst ölçektekinden daha fazla bilgi ve ayrıntı içerdiği bilinmekle birlikte, üst ölçekli planların; yoğunluğu belirlemeye ve alanda yapılacak uygulamaları gerçekleştirmeye daha yaklaşan, alt ölçekli imar planlarını yönlendirici bir tarafının bulunduğunu, dava konusu çevre düzeni planına göre taşınmazın "orman alanında" bırakılmasının, daha sonra onaylanacak olan 1/5000 ölçekli nazım ve 1/1000 ölçekli uygulama imar planlarında, taşınmazda yapılaşmaya yönelik fonksiyonlar verilmesi planların kademeli birlikteliği ilkesini zedeleyerek, plan hiyerarşisini bozacağından, dava konusu işlemde hukuka uyarlık bulunmadığı gerekçesiyle, …
 
 …
@@ -148,6 +154,8 @@ Planların kademeli birlikteliği ilkesi çerçevesinde, her alt ölçekli planl
 Bu itibarla, temyiz isteminin reddi ile Daire kararının belirtilen gerekçe ile onanmasına karar verilmesi gerektiği oyuyla …
 
 ## Danıştay İDDK 2024/1173 E., 2025/231 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1159393900)
 
 3194 sayılı Kanun'un 37. maddesinde, imar planlarında, planlamaya konu edilen beldenin ve bölgenin şartları ile müstakbel ihtiyaçlar göz önünde tutularak gereken otopark yerlerinin ayrılacağının düzenlendiği, aynı Kanun'un 18. maddesinde ise otopark alanlarının düzenleme ortaklık payı hesabına konu alanlar arasında sayıldığı, bu kapsamda, imar planları bakımından otopark ihtiyacının, planlama alanındaki yapı ve nüfus yoğunluğu ile doğrudan ilişkili olup, imar planında yapılan bölgesel değişiklikler veya kapsamlı revizyonlar ile nüfus yoğunluğunda artışa gidilmesi halinde ilave yahut yeni nüfusun ihtiyacı olan donatı alanları kapsamında otopark alanı miktarının da arttırılması gerektiği, …
 
@@ -164,6 +172,8 @@ Uyuşmazlık konusu olayda; imar planına askı süresi içinde itiraz edildiği
 Açıklanan nedenlerle, temyize konu ısrar kararının bozulmasına karar verilmesi gerektiği oyu ile karara katılmıyoruz.
 
 ## Danıştay İDDK 2024/725 E., 2024/3369 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1197115900)
 
 İlk Derece Mahkemesi kararının özeti: ...
 

@@ -21,6 +21,8 @@ uyari: "Derleyenin seçtiği alıntılardır; kararın tamamı değildir. Künye
 
 ## Yargıtay 3. HD 2019/8655 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/562335500)
+
 Davacılar; kendilerine ait bağımsız bölümlerin de bulunduğu binanın kentsel dönüşüm kapsamında yıkılarak yeniden inşa edildiğini, bu kapsamda 02/04/2014 tarih ve 07745 yevmiye numarası ile kayıtlı düzenleme şeklinde satış vaadi ve arsa payı karşılığı inşaat sözleşmesinin imzalandığını; sözleşme uyarınca "eski daire maliklerinin oturduğu dairenin yerini alacağının, katlardaki daire paylaşımının ise eşite yakın metrakarelerde yapılacağının" kararlaştırıldığını; binaya ait yapı kullanım izin belgesinin 31/12/2015 tarihinde alındığını, dairelerin teslimiyle birlikte bağımsız bölümler arasında gerek metrekare gerekse oda sayısı bakımından eşitsizlik meydana getirildiğini, önceden ise aynı katta bulunan dairelerin, metrekare, oda sayısı ve diğer unsurlar yönünden birebir aynı olduğunu; yeni bina için hazırlanan 26/11/2015 tarihli değerlendirme raporu ile eski daire maliklerine ait dairelerin aynı oranda değerlenmediğinin görüldüğünü, bu orantısız değerlendirme nedeniyle bağımsız bölüm maliklerinden davalıların sebepsiz zenginleştiklerini; davaya konu binada keşif ve bilirkişi incelemesi yaptırılması suretiyle hangi dairede ne miktarda sebepsiz değer artışı olduğunun tespit
 edilebileceğini, davalıların tespit edilecek bedelden sorumlu olduklarını ileri sürerek; fazlaya ilişkin hakları saklı kalmak kaydıyla, şimdilik 1.200,00 TL nin davalıların her birinden sorumlu oldukları miktarla sınırlı olmak üzere faiziyle birlikte tahsiline karar verilmesini talep ve dava etmişlerdir.
 
@@ -46,6 +48,8 @@ SONUÇ: Yukarıda açıklanan nedenlerle 6100 sayılı HMK'nın 373/1 maddesi uy
 
 ## Yargıtay 8. HD 2019/3492 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/512337100)
+
 Mahkemece; Yargıtay yerleşik içtihatlarına göre, kaçak olarak inşa edilmiş bir bina ile ilgili olarak, kal dışında istemde bulunulamayacağı, kaçak olarak inşa edilen bir yapının kimsenin mülkiyetinde olamayacağı, İmar Yasasına aykırılık söz konusu olduğundan, hukuki yararın söz konusu olsa bile mülkiyetin aidiyetinin tespiti istenemeyeceği, davacılar tarafından satış vaadi sözleşmesine dayalı olarak, dava konusu binadaki satın alınan dairelerin, satın alan kişilere aidiyeti talep edilmiş olup, bina üzerinde hak iddia edenlerin her biri açısından paylarına karşılık düşen bir daire bulunup bulunmadığının araştırıldığı; pay sahibi olarak gözüküp, binada kullandığı bağımsız bölüm bulunmayan hissedar olduğu, dairelerin tüm paydaşların paylarını karşılamadığı; fiili, rızai paylaşım ve kullanım şeklinin ispatlanamadığı gerekçesiyle asıl ve birleşen davanın reddine karar verilmiştir.
 
 …
@@ -55,6 +59,8 @@ Mahkemece; Yargıtay yerleşik içtihatlarına göre, kaçak olarak inşa edilmi
 SONUÇ: Yukarıda 2. bentte açıklanan nedenlerle hükmün 1086 sayılı HUMK'un 438/son fıkrası gereğince gerekçesinin değiştirilerek ve DÜZELTİLEREK ONANMASINA …
 
 ## Yargıtay 8. HD 2019/3435 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/645838600)
 
 Davacı vekili, dava konusu 9 parsel sayılı taşınmaza ilişkin olarak, davalılar murisi ve diğer davalı yükleniciler arasında kat karşılığı inşaat sözleşmesi bulunduğunu ve bu sözleşmeye göre yükleniciler üzerinde kalan dairelerden 9 nolu dairenin vekil edeni tarafından satın alındığını, taşınmazda henüz kat irtifakının kurulmadığını belirterek dava konusu 9 parsel sayılı taşınmaz üzerinde bulunan 9 nolu dairenin mülkiyetinin vekil edenine aidiyetinin tespitine karar verilmesini istemiştir.
 
@@ -74,6 +80,8 @@ Bu nedenle bir kısım davalılar vekilinin temyiz itirazları yerinde olduğund
 
 ## Yargıtay 20. HD 2019/1191 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/492177400)
+
 Davacı vekili dava dilekçesinde; dava konusu ... ili, ... ilçesi, ... mahallesi, 1119 ada, 257 parselde tapuya kayıtlı anataşınmazdaki ... Apartmanının kat maliklerince 07.08.2013 tarihinde usul ve yasaya aykırı olarak kat malikleri kurulu toplantısı yapılarak kararlar alındığını, toplantı çağrısının yetkililerce yapılmadığını ve süresinde tebliğ edilmediğini, binanın yeniden yapılmasına ilişkin alınan kararın kanuna aykırı olduğunu, binanın yıkılıp yeniden yapılması için Kat Mülkiyeti Kanununun 45. maddesi gereğince oy birliği ile karar alınması gerektiğini belirterek, 07.08.2013 tarihli kat malikleri kurulu toplantısının ve bu toplantıda alınan kararların iptaline karar verilmesini talep etmiştir.
 
 …
@@ -83,6 +91,8 @@ Dosya içindeki bilgi ve belgelerden; dava konusu 257 sayılı parselde kat mül
 SONUÇ: Yukarıda açıklanan nedenlerle; davalılardan ... ve ... vekili ile ... vekilinin temyiz itirazlarının kabulü ile hükmün BOZULMASINA …
 
 ## Yargıtay 2. HD 2018/13387 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/464415600)
 
 Dava, tapu kütüğündeki “Aile konutu" şerhinin terkini isteğine ilişkindir.
 
@@ -94,6 +104,8 @@ O halde, taşınmazın sırf kentsel dönüşüm alanında kalıyor olması, şe
 SONUÇ: Temyiz edilen hükmün yukarıda gösterilen sebeple BOZULMASINA …
 
 ## Yargıtay 8. HD 2018/12189 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/422841000)
 
 Davacı vekili, davacıların 28.05.2012 tarihinde vefat eden ... mirasçıları olduğunu, ...’ın davalılar ile kardeş olup hepsinin kök muris ... mirasçısı olduğunu, ...’ın Almanya’da uzun yıllar çalıştıktan sonra Türkiye’ye dönünce kendisine 2 katlı yığma bir ev yaptığını, sonra bu evin ...’a ait 6742 parsel sayılı taşınmazda kaldığını öğrendiğini, 6742 parseldeki binanın vergilerini davacılar murisinin yatırdığını, elektrik, su abonelikleri ile ödemenin davacılar tarafından yapıldığını belirterek 6742 parsel sayılı taşınmazdaki 2 katlı bina ile tüm müştemilatın muris ... tarafından yapıldığının tespitine karar verilmesini talep etmiştir …
 
@@ -109,6 +121,8 @@ SONUÇ: Davaya konu taşınmaz hakkında ortaklığın giderilmesi davası, kent
 
 ## Yargıtay 20. HD 2018/6604 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/449452600)
+
 Somut olayda ise 6306 sayılı Kanunun 6. maddesi ve uygulama yönetmeliğinin 15. maddesine göre yukarıda belirtilen türde bir karar alınmış değildir. Zira dava konusu karar, henüz yıkım ve kat mülkiyetinin terkini işlemleri yapılmadan, taşınmaz kat mülkiyeti hükümlerine tabi iken alınan tipik kat malikleri kurulu kararıdır. Bu tür kararlara karşı açılacak davalarda görevli mahkeme ise 634 sayılı Kanun gereği sulh hukuk mahkemesidir. Bu nedenle mahkemenin görevsizliğine, kararın kesinleşme tarihinden itibaren iki haftalık süre içerisinde mahkemeye başvurulması halinde dosyanın yetkili ve görevli ... ... Nöbetçi Sulh Hukuk Mahkemesine gönderilmesine karar verilmiş, hüküm davalı vekili tarafından istinaf edilmiş olup ... Bölge Adliye Mahkemesi 2.
 Hukuk Dairesi 16/01/2018 tarih, 2017/1317 Esas - 2018/44 Karar sayılı ilamıyla “Somut olayda dava konusu taşınmaz üzerindeki davaya konu kat malikleri kurul kararlarının alındığı tarihte yapının mevcut olduğu, kat mülkiyetinin kurulu bulunduğu ve halende yapının yıkılmadığı dikkate alındığında binanın yıkılarak yeniden yapılması yönünde alınan kararların Kat Mülkiyeti Kanununun 45. maddesi gereğince tüm kat maliklerinin oybirliği ile verecekleri kararla mümkündür. Tüm bu açıklamalar ışığında somut olayda 6306 sayılı Kanun hükümleri değil 634 sayılı Kanun hükümleri uygulama alanı bulacaktır. Kat Mülkiyeti Kanununun Ek-1. maddesi hükmüne göre bu yasadan doğan her türlü anlaşmazlığın değerine bakılmaksızın sulh hukuk mahkemesinde çözümlenmesi gerekir. Dolayısıyla mahkemece dava dilekçesinin görev yönünden reddine karar verilmesinde bir isabetsizlik olmadığı gerekçesiyle davalı vekillinin ... ... 25.
 Asliye Hukuk Mahkemesinin 15/06/2017 tarih ve 2017/242 Esas, 2017/244 Karar sayılı ilamına yönelen istinaf başvurusunun HMK'nın 353/1.b.1. maddesi gereği esastan reddine karar verilmiş, hüküm davalı vekili tarafından temyiz yoluna götürülmüştür.2018/1580 - 6604 Dava, kat malikleri genel kurul kararının iptali istemine ilişkindir.
@@ -119,6 +133,8 @@ Somut olayda Kat Mülkiyeti Kanununun uygulanması gerektiği anlaşılmakla 634
 
 ## Yargıtay 20. HD 2018/3233 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/424762600)
+
 Mahkemece, davacı her ne kadar kat malikleri kurulu kararının .... maddesinin iptalini istemiş ise de dava konusu binanın iptali istenen kararda belirtildiği üzere yıkıldığı böylelikle yargılamanın devam etmesi halinde eski hale getirilmesi mümkün olamayacağından ve bu sebeple davanın konusu olmadığından karar verilmesine yer olmadığına karar verilmiş, hüküm davacılardan ... tarafından temyiz edilmiştir.
 
 Dosya içindeki bilgi ve belgelerden, dava konusu 5477 sayılı parselde kat mülkiyeti kurulu olduğu, 07.....2013 tarihinde 6306 sayılı Kanuna göre "riskli yapıdır" şerhi konulduğu anlaşılmıştır. 6306 sayılı Kanunun 6. maddesinin .... fıkrasına göre, üzerindeki bina yıkılarak arsa haline gelen taşınmazlarda daha önce kurulmuş olan kat irtifakı veya kat mülkiyeti, ilgililerin muvafakatları aranmaksızın bakanlığın talebi üzerine ilgili tapu müdürlüğünce re'sen terkin edilerek malikleri adına payları oranında tescil edilir. Bu parsellerin malikleri tarafından değerlendirilmesi esastır. Bu çerçevede parsellerin tevhit edilmesine, münferit veya birleştirilerek veya imar adası bazında uygulama yapılmasına, yeniden bina yaptırılmasına, payların satışına, kat karşılığı veya hasılat paylaşımı ve diğer usuller ile yeniden değerlendirilmesine sahip oldukları hisseleri oranında paydaşların en az üçte iki çoğunluğu ile karar verilir.
@@ -127,6 +143,8 @@ Bu hüküm anataşınmaz üzerinde yapının yıkılıp kat mülkiyetinin veya k
 SONUÇ: Yukarıda açıklanan nedenlerle; davacılardan ...'in temyiz itirazlarının kabulü ile hükmün BOZULMASINA …
 
 ## Yargıtay 8. HD 2017/17121 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/389545200)
 
 Davacı vekili, davaya konu 21 parsel sayılı taşınmaz üzerindeki 4 nolu yapının vekil edeni tarafından yapıldığını, davalılardan ... ve ... tarafından vekil edeni aleyhine ecrimisil davası açıldığını açıklayarak, davaya konu 4 nolu yapının vekil edenine ait olduğunun tespiti ile taşınmazın tapu sicilinin beyanlar hanesine işlenmesine karar verilmesini istemiştir.
 
@@ -141,6 +159,8 @@ Her ne kadar, Mahkeme tarafından, Daire'nin bozma ilamı doğrultusunda, davaya
 SONUÇ: Açıklanan nedenlerle, davacı vekilinin temyiz itirazları yerinde olduğundan kabulü ile Yerel Mahkeme hükmünün 6100 sayılı HMK'nun Geçici 3. maddesi yollamasıyla 1086 sayılı HUMK'nun 428. maddesi uyarınca BOZULMASINA …
 
 ## Yargıtay 8. HD 2017/11443 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/368634700)
 
 Davacı vekili, vekil edenine ait taşınmazın karşısında bulunan taşınmazın yaklaşık 35 yıl önce vekil edenine devredildiğini, vekil edeni tarafından ıslah edilerek meyve ağaçları dikildiğini ancak idare tarafından başlatılan yol çalışmaları nedeniyle kamulaştırma kapsamında kaldığını açıklayarak, yaklaşık 1000 m2 taşınmaz üzerinde bulunan ağaçların vekil edenine ait olduğunun tespitine karar verilmesini istemiştir.
 
@@ -158,6 +178,8 @@ SONUÇ: Yukarıda açıklanan nedenlerle davalı ... vekilinin temyiz itirazlar�
 
 ## Yargıtay 8. HD 2017/9001 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/350887700)
+
 Davacılar vekili; dava konusu 472 parselin belirtilen kısımlarının davacı taraflarca davalıdan 28.03.2005 tarihinde satın aldıklarını, taşınmazın üzerinde ipotek olması sebebi ile tapuda devir yapılmadığını, davacıların satın aldıkları tarihten bu yana taşınmaza ev, ahır gibi yapılar yaptıklarını, davalı hakkında icra takiplerinin olduğunu, taşınmazın her an satışa çıkabileceğini, taşınmazın satılması halinde davacılara ait eklentilerinde satılacağını, bu sebeple dava açmakta hukuki yararlarının olduğunu belirterek taşınmaz üzerindeki yapılar, eklentiler, ağaç ve sairlerin aidiyetinin tespitine karar verilmesini talep etmişlerdir.
 
 …
@@ -172,6 +194,8 @@ SONUÇ: Dosya kapsamından taraflar arasında görülen bir ortaklığın gideri
 
 ## Yargıtay 8. HD 2017/601 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/294852700)
+
 Davacı vekili, taraflar arasındaki ortaklığın giderilmesi davasına konu... ada...parsel sayılı taşınmazda 306 m2 kargir dükkanın vekil edeni tarafından satın alındığını açıklayarak, mülkiyetinin vekil edenine ait olduğunun tespitine karar verilmesini istemiştir.
 
 …
@@ -182,6 +206,8 @@ SONUÇ: Açıklanan nedenle davacı vekilinin temyiz itirazlarının kabulü ile
 
 ## Yargıtay 8. HD 2015/3624 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/155404200)
+
 Mahkemece, davanın kabulüne, 228 parsel sayılı taşınmazda fen bilirkişinin 05.11.2012 havale tarihli raporuna ekli krokide A harfi ile gösterilen kısımda, ziraatci bilirkişinin 08.02.2013 havale tarihli ek raporunda ve inşaatçı bilirkişinin 26.11.2012 havale tarihli raporunda bulunan muhdesatların mülkiyetlerinin davacı ...'ye ait olduğunun tespiti ile tapu kütüğü beyanlar hanesine tesciline karar verilmiş, karar davalı hazine vekili, davalı ...Genel Müdürlüğü vekili ve davalı ... ... ve diğerlerinin vekili tarafından ayrı, ayrı temyiz edilmiştir.
 
 …
@@ -191,6 +217,8 @@ Hal böyle olunca; dava konusu taşınmaz hakkında yapılan bir kamulaştırma 
 Davalı ... Genel Müdürlüğü vekilinin temyiz itirazları açıklanan bu nedenlerle yerinde olduğundan kabulü ile Yerel Mahkeme hükmünün 6100 sayılı HMK'nun Geçici 3. maddesi yollamasıyla 1086 sayılı HUMK'nun 428. maddesi uyarınca BOZULMASINA …
 
 ## Yargıtay 8. HD 2015/1609 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/153990100)
 
 Davacılar vekili, davacının 1970 yılında ... adresinde bir gecekondu satın alıp üzerine bina yaptırmaya başladığını, inşaatın 10 yılda bitirildiğini, davalılar ve çocukların binada oturmaya başladıklarını, tapu tahsis belgesi almak için başvuru yapıp 26.06.1983 tarihinde 2.000 TL yatırdığını, davalı oğullarının 1983-1984 yıllarında tapuda 7654 ada 12 parselde kayıtlı bu arsa üzerinde kendilerine ait gecekondu varmış gibi tapu tahsis belgesi aldıklarını öğrendiğini, bu belgenin iptalinin sağlanması için taşınmazın davacıya aidiyetinin tespiti bakımından davayı açtıklarını, davalının oğullarının bina yapımına katkılarının olmasının davacının ileride mülkiyete dönüşecek üstün zilyetlik hakkını kazandırmayacağını ileri sürerek, ... ait arsa üzerine yapılmış bulunan binanın davacıya aidiyetine karar verilmesini istemiştir.
 
@@ -207,6 +235,8 @@ Taraflar arasında ortaklığın giderilmesi davası bulunmadığı gibi kamula�
 Davalılar vekilinin temyiz itirazları bu bakımdan yerinde olduğundan kabulü ile hükmün açıklanan nedenlerle 6100 sayılı HMK'nun Geçici 3. maddesi yollamasıyla 1086 sayılı HUMK'nun 428. maddesi uyarınca BOZULMASINA …
 
 ## Yargıtay 18. HD 2014/9250 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/106846500)
 
 Davacı dava dilekçesinde, üzerinde yapı bulunan ve tarafların paydaş olduğu ... ada ... parsel sayılı taşınmazın aynen taksiminin mümkün olmadığını ileri sürerek ortaklığın satış yoluyla giderilmesini istemiş, dava açıldığı tarihte paydaş olan davalılar ise aynen taksimin mümkün olduğundan bahisle bu durum gözetilerek ve kat mülkiyeti kurulmak suretiyle paydaşlığın giderilmesine karar verilmesini istemişler, yapılan yargılama sonucunda Şişli 1. Sulh Hukuk Mahkemesi'nin 09.11.2004 tarih, 2003/1336 Esas-2004/1567 Karar sayılı kararı ile taşınmazın satış yoluyla ortaklığının giderilmesine karar verilmiştir.
 

@@ -22,6 +22,8 @@ uyari: "Derleyenin seçtiği alıntılardır; kararın tamamı değildir. Künye
 
 ## Yargıtay 15. HD 2008/7626 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/858417000)
+
 Dava, arsa payı karşılığı inşaat yapım sözleşmesi uyarınca gecikme tazminatı alacağının tahsili istemine ilişkindir.
 
 …
@@ -32,6 +34,8 @@ Bu durumda ihtarnamenin keşide edildiği 18.06.2004 tarihine kadar davacının 
 SONUÇ:Yukarıda (1.) bendde yazılı nedenlerle davalının diğer temyiz itirazlarının reddine, (2.) bent uyarınca kabulüyle hükmün davalı yararına BOZULMASINA …
 
 ## Yargıtay 15. HD 2008/6201 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/859331500)
 
 Davacı yüklenici tarafından davalı arsa sahibi aleyhine açılan davada, 11.11.1998 tarihli kat karşılığı inşaat sözleşmesi gereği yükleniciye ait olan bağımsız bölümlerin adına tescili ile sözleşmenin 12. maddesine dayanarak cezai şart talep etmiş, mahkemece davanın kabulüne dair verilen karar davalı arsa sahibi ... tarafından temyiz edilmiştir.
 
@@ -45,6 +49,8 @@ Sözü edilen bu ihtarname içeriğinden davacı yüklenicinin dükkanları söz
 SONUÇ:Yukarıda 1. bentte yazılı nedenlerle davalı ...’nin diğer temyiz itirazlarının reddine, 2. bent uyarınca hükmün temyiz eden davalı ... yararına BOZULMASINA …
 
 ## Yargıtay 15. HD 2008/6079 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/859223100)
 
 Dava, arsa payı karşılığı inşaat yapım sözleşmesi uyarınca cezai şart, gecikme tazminatı ile dairelerin küçük yapılmasından kaynaklanan değer kaybı alacaklarının tahsili istemine ilişkindir.
 
@@ -61,6 +67,8 @@ SONUÇ: Yukarıda (1.) bentte yazılı nedenlerle davalının tüm, davacının 
 
 ## Yargıtay 15. HD 2008/5659 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/858142400)
+
 Dava arsa payı karşılığı inşaat yapım sözleşmesine dayalı tapu iptal ve tescil karşı dava ise eksik ve kusurlu iş bedeli ile gecikme tazminatı istemine ilişkindir.
 
 …
@@ -72,6 +80,8 @@ Bu durumda mahkemece tefrik edilen karşı davanın sonucu beklenilerek hükmedi
 SONUÇ: Yukarıda 1. bendde yazılı nedenlerle diğer temyiz itirazlarının reddine, 2. bend uyarınca kabulüyle hükmün temyiz eden davalı yararına BOZULMASINA …
 
 ## Yargıtay 15. HD 2008/4157 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/859397200)
 
 Dava, arsa payı karşılığı inşaat yapım sözleşmesi uyarınca cezai şart, gecikme tazminatı, munzam zarar, eksik ve ayıplı işler bedelinin tahsili istemine ilişkindir.
 
@@ -89,6 +99,8 @@ SONUÇ: Yukarıda 1. bente yazılı nedenlerle tarafların diğer temyiz itirazl
 
 ## Yargıtay 15. HD 2008/2867 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/857481900)
+
 Mahkemece miras şirketine mümessil tayin ettirilerek asıl ve birleşen davanın kısmen kabulüne karar verilmiş, karar taraflar vekillerince temyiz edilmiştir.
 
 …
@@ -102,6 +114,8 @@ SONUÇ:Yukarıda 1.bentte açıklanan nedenlerle tarafların diğer temyiz itira
 
 ## Yargıtay 15. HD 2008/1605 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/856821400)
+
 Davacı arsa sahibi Kat Karşılığı İnşaat Sözleşmesine dayanarak kendisine ait 3 adet bağımsız bölümün süresinde teslim edilmemiş olması nedeniyle ilk davanın açıldığı, 20.07.2003 tarihinden iş bu dava tarihine kadar geçen sürenin gecikme cezasının tahsiline karar verilmesini istemiş, mahkemece davanın kısmen kabulüne dair verilen karar davalı tarafından temyiz edilmiştir.
 
 …
@@ -111,6 +125,8 @@ Davacı arsa sahibine ait 3 adet bağımsız bölümün 20.07.2005 tarihine kada
 SONUÇ:Yukarıda 1.bentte yazılı nedenlerle davalının diğer temyiz itirazlarının reddine, 2.bent uyarınca hükmün davalı yararına BOZULMASINA …
 
 ## Yargıtay 15. HD 2008/1559 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/16858900)
 
 Dava, arsa payı karşılığı inşaat yapım sözleşmesi uyarınca gecikme tazminatı, eksik işler bedeli, dairelerin ebatlanndaki farklılık nedeniyle değer kaybı, proje harici ve tadilat projesi ile ilave olarak yapılıp yükleniciye kalan bağımsız bölümdeki değer artışı sebebiyle alacak ve A bloktaki kalorifer kazanıyla ilgili edimin ifası istemlerine ilişkindir.
 
@@ -126,6 +142,8 @@ Sonuç: Yukarıda (1.) bentte açıklanan nedenlerle davalının diğer temyiz i
 
 ## Yargıtay 15. HD 2007/7085 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/859576800)
+
 Taraflar arasındaki 23.06.1998 tarihli kat karşılığı ek inşaat sözleşmesi 7344 ada 2 parsel numaralı taşınmaz üzerine yapılacak 10 daireye ilişkindir. Sözkonusu sözleşmenin dördüncü maddesinde belirtilen cezai şart BK’nın 158/II.maddesinde düzenlenen ifaya ekli ceza niteliğindedir. Sözleşmede belirtilen bloktaki 10 adet daire tamamlanıp, davacı arsa sahibi kooperatife teslim edilmemiştir. BK'nın 106.maddesindeki düzenleme dikkate alındığında, teslim sözkonusu olmadığından cezai şart yönünden zamanaşımı henüz başlamamıştır. Sözleşmede kararlaştırılan üç aylık cezayı davacı sözleşmedeki cezalı sürenin sonunda isteyebilir. Ancak bu hakkını o tarihte kullanmak zorunda değildir. Davacı ifayı isteme iradesini sürdürdüğüne ve teslim sözkonusu olmadığına göre zamanaşımının dolduğundan sözedilemez. Bu durumda mahkemece 23.06.1998 tarihli sözleşmede belirtilen cezai şart istemi yönünden davalı tarafın zamanaşımı def'inin reddi ile işin esası incelenip bir karar verilmesi gerekirken 30.09.1999 tarihi zamanaşımına başlangıç yapılarak bu sözleşme yönünden de zamanaşımı nedeniyle davanın reddine karar verilmesi doğru olmamış kararın bozulması gerekmiştir.
 
 SONUÇ:Yukarıda 1.bentte açıklanan nedenlerle davacının sair temyiz itirazlarının reddine, 2.bend uyarınca kararın temyiz eden davacı iş sahibi kooperatif yararına BOZULMASINA
@@ -133,6 +151,8 @@ SONUÇ:Yukarıda 1.bentte açıklanan nedenlerle davacının sair temyiz itirazl
 …
 
 ## Yargıtay 15. HD 2007/2927 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/858493000)
 
 Dava, arsa payı karşılığı inşaat yapım sözleşmesi uyarınca gecikme tazminatının tahsili istemine ilişkindir.
 
@@ -148,6 +168,8 @@ SONUÇ:Yukarıda 1.bentte yazılı nedenlerle davalının diğer temyiz itirazla
 
 ## Yargıtay 15. HD 2007/2889 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/858440100)
+
 Dava ve karşılık dava eser sözleşmesinden kaynaklanan alacak istemine ilişkin olup, mahkemece asıl davanın kısmen kabulü, karşılık davada ise mahsup işlemi yapıldığından karar verilmesine yer olmadığına dair verilen karar taraf vekillerince temyiz edilmiştir.
 
 …
@@ -157,6 +179,8 @@ Kat karşılığı inşaat sözleşmesi gayrimenkul devrini de içerdiğinden fe
 SONUÇ:Yukarıda yazılı nedenlerden dolayı 1.bent uyarınca davalı-k.davacının tüm, davacı-k.davalının sair temyiz itirazlarının reddine 2.bent uyarınca kararın davacı-k.davalı yüklenici yararına BOZULMASINA …
 
 ## Yargıtay 15. HD 2007/2500 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/858645800)
 
 Dava, arsa payı karşılığı inşaat yapım sözleşmesi uyarınca gecikme tazminatı alacağının tahsili istemine ilişkindir.
 
@@ -170,6 +194,8 @@ SONUÇ:Yukarıda açıklanan nedenlerle temyiz itirazlarının kabulü ile hükm
 
 ## Yargıtay 15. HD 2006/7657 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/865316600)
+
 Kural olarak arsa sahibi davacı yüklenicinin temerrüdü halinde Borçlar Yasası’nın 106. maddesi hükmünde düzenlenen seçimlik haklarından birisi olan “sözleşmenin ifası ile birlikte olumlu zarar kapsamında gecikme tazminatı” isteyebilir. Somut olayda da davacı, yüklenici davalının borçlu temerrüdüne düşmesi sonucu gecikme tazminatı olarak kira tazminatı ödetilmesini istemiştir. Ancak, sözleşme konusu 13 parselde yapılan inşaatın zemin katındaki 2 adet dükkan taraflar arasında yapılan ve kapsamının doğruluğu kabul edilen 07.02.1997 tarihli protokol ile 07.02.1997 tarihinde yüklenici davalı tarafından davacı arsa sahibine fiilen teslim edilmiştir. Yanlar arasındaki sözleşme, hükümlerine göre davacıya teslimi gereken bağımsız bölümlerin teslimi anahtar teslimi şartına bağlı olmadığı gibi; bu dükkanları eylemli olarak tasarruf edemediğini ve buna yüklenici davalının sözleşmeye aykırı eylem ve işlemlerinin sebep olduğunu davacı arsa sahibi yasal delillerle kanıtlayamamıştır.
 Davacının eylemli egemenliğine teslim edilen iki dükkan için 07.02.1997 olan teslim tarihine kadarki süre için gecikme tazminatı belirlenip hükmedilmesi gerekirken, mahkemece yukarıda açıklanan hususlar gözden kaçırılarak 31.07.2000 tarihine kadarki süre için kira tazminatına hükmedilmesi doğru olmamıştır.
 
@@ -180,6 +206,8 @@ Davacının eylemli egemenliğine teslim edilen iki dükkan için 07.02.1997 ola
 SONUÇ:Yukarıda(1.) bentte belirtilen nedenlerle davalının sair temyiz itirazlarının reddine; (2) bentte açıklanan sebeplerle davalının temyiz itirazlarının kabulüne ve kararın davalı yararına BOZULMASINA …
 
 ## Yargıtay 15. HD 2006/4883 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/859770200)
 
 Davacı arsa sahibi 26.06.1992 tarihli kat karşılığı inşaat sözleşmesi gereği kendisine teslimi gereken 3 adet daire için, dairelerin sözleşme gereği teslimi gereken 28.08.1996 tarihinden başlamak üzere 2 daire için dava tarihine kadar, 1 daire için ise teslimin gerçekleştiği 23.07.2000 tarihine kadar kira tazminatı olarak 8.575.000.000 TL.nın yasal faiziyle birlikte tahsilini istemiştir.
 
@@ -203,6 +231,8 @@ atmanın önlenmesi olduğu görülmüş ise de;
 delil sunmadığı anlaşıldığından mahkemece menfi ve müspet zarar taleplerinin reddinin yerinde olduğu, davacı yan yüklenicinin yapmış olduğu inşaatın maliyetinin kendi alacağından mahsubunu talep etmişi ise de davalı yanın cevap dilekçesi sunarak; bu konuda mahsup talebinde bulunmadığı gibi, mahkemece davacının menfi ve müspet zarar talepleri reddedildiğinden, yüklenicinin inşaat maliyetinin mahsup edileceği bir alacağında bulunmaması karşısında ;davacının bu yöndeki istinaf talebinin yerinde olmadığı anlaşıldığından; mahkemece, davacının sözleşmenin feshi talebinin kabulüne , menfi ve müspet zarara ilişkin tazminat taleplerinin reddine karar verilmesi isabetli olmuştur. Açıklanan nedenlerle, 6100 sayılı HMK'nın 355. madde hükmü uyarınca istinaf dilekçesinde belirtilen sebeplerle sınırlı olarak ve kamu düzeni gözetilerek yapılan istinaf incelemesi sonucunda, dosya kapsamına, kararın dayandığı delillerle yasaya uygun gerektirici nedenler ve ileri sürülen istinaf sebeplerine göre, mahkeme kararında usul ve esas yönünden yasaya aykırılık bulunmadığı anlaşılmakla,davacı vekilinin istinaf başvurusunun HMK'nın 353/1-b-1. bendi gereğince esastan reddine karar verilmesi gerekmiştir.
 
 ## Antalya BAM 7. HD 2026/326 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1207597000)
 
 Davacı vekili açtığı dava ile, davacı yüklenici ile davalı arasında yapılan yazılı sözleşme ile davalıya ait Denizli ... köyü ... parsel sayılı taşınmazın bulunduğu alanda ...
 

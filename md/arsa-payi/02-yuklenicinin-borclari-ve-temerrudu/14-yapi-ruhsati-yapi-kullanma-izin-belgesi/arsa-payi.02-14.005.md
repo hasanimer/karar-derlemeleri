@@ -22,6 +22,8 @@ uyari: "Derleyenin seçtiği alıntılardır; kararın tamamı değildir. Künye
 
 ## Yargıtay 6. HD 2023/4109 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/989754500)
+
 İlk Derece Mahkemesince bozmaya uyularak yeniden yapılan yargılama sonucunda; davanın kısmen kabulüne karar verilmiştir.
 
 …
@@ -48,6 +50,8 @@ Temyiz olunan Mahkeme kararının BOZULMASINA …
 
 ## Yargıtay 6. HD 2023/3923 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/989567800)
+
 Mahkemece bozmaya uyularak yeniden yapılan yargılama sonucunda; davanın kabulüne karar verilmiştir.
 
 …
@@ -66,6 +70,8 @@ Somut uyuşmazlıkta, mahallinde yapılan keşif sonucu düzenlenen raporda, dav
 
 ## Yargıtay 6. HD 2023/3752 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/989413200)
+
 Davalı arsa sahipleri ..., , ..., ..., ... vekili cevap dilekçesinde özetle; dava konusu edilen iskan alma yükümlülüğünün davalı müteahhitlere ait olduğunu, arsa sahibi olarak müvekkillerinin dava açılmasına sebebiyet vermedikleri için davalı olarak davanın müvekkillerine yöneltilmesinin hukuka aykırı olduğunu, 15 numaralı bağımsız bölümün sözleşmeye göre yükleniciye düşen bir daire olmadığını, davalı yüklenicilerin paylarına düşen ve yüklenicilere devredilmeyen bağımsız bölüm bulunmadığını, yüklenici müteahhidin sözleşme koşullarını uygulamadığını, davalı yüklenicilerin sözleşmeye göre paylarına düşen bağımsız bölümleri aldıklarını, sözleşme hükümleri uyarınca arsa sahibi olan müvekkillerinden ...'ün kendi adına asaleten ..., Belgin Okay, ..., ... adlarına vekaleten hisseleri oranında yeni kat ilavesi yapılmak suretiyle paylaşıma dahil edilmeyen bağımsız bölümlerin bedeli, gecikme tazminatı, inşaatın bağımsız bölümlerinde ve ortak alanlarda sözleşme gereği yapılması gereken ama eksik ve kusurlu bırakılan işlerin düzeltilmesi ve tamamlanması adına ifa yerine kaim olmak üzere yüklenicilerden bedelin tahsili için Ankara 9.
 
 …
@@ -81,6 +87,8 @@ Açıklanan nedenlerle; nama ifa suretiyle davacı arsa sahipleri tarafından ya
 2.2, 3, 4, 5, 6 no.lu paragraflarda açıklanan nedenlerle, bir kısım davalı arsa sahipleri ..., ..., ..., ..., ... vekilinin diğer temyiz itirazlarının kabulü ile hükmün BOZULMASINA …
 
 ## Yargıtay 6. HD 2023/3280 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/982854400)
 
 Davacı vekili dava dilekçesinde özetle; müvekkilinin davalılardan müteahhit ...'den dava konusu B blok 3.kat 11 numaralı daireyi, Elazığ 1. Noterliğinde düzenlenen "Satış Vaadi Sözleşmesi" ile 03/03/2017 tarihinde satın aldığını, inşaatın tamamlandığını, bağımsız bölümlerde oturulmaya başlandığını, davalılar arsa sahibi ve yüklenici arasında çıkan uyuşmazlık yüzünden müvekkiline isabet eden bağımsız bölümün tapusunun verilmediğini belirterek davalılardan arsa sahibine adına kayıtlı tapu kaydının iptali ile müvekkili adına tapuya kayıt ve tesciline karar verilmesini talep etmiştir.
 
@@ -104,6 +112,8 @@ Dava, yükleniciden bağımsız bölüm satın alan davacının temliken tescil 
 
 ## Yargıtay 6. HD 2023/1675 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/924696200)
+
 Davacılar vekili dava dilekçesinde; taraflar arasında Ümraniye 2.
 
 …
@@ -119,6 +129,8 @@ Davacıların murisi ile davalı arasında imzalanan 28.03.2012 tarihli kat kar�
 Temyiz olunan Bölge Adliye Mahkemesi kararının 6100 sayılı Kanunun 370 nci maddesinin birinci fıkrası uyarınca ONANMASINA …
 
 ## Yargıtay 6. HD 2023/1570 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/904873800)
 
 Davacı vekili, müvekkili ile davalı ... arasında 30/09/1994 tarihli arsa payı karşılığı inşaat sözleşmesi yapıldığını ve bu sözleşmeye göre müvekkiline düşen bodrum kat 1 no.lu bağımsız bölüm ile 9 no.lu bağımsız bölümün verilmediğini, 1 no.lu bağımsız bölümün ... adına kayıtlı olduğunu, 9 no.lu bağımsız bölümün ise muvazaalı olarak diğer davalı ...’e devredildiğini ileri sürerek 1 ve 9 no.lu bağımsız bölümlerin davalılar adına olan tapu kaydının iptali ile müvekkili adına tesciline mümkün olmaması halinde fazlaya ilişkin hakkı kalmak üzere toplam 10.000 TL’nin tahsiline karar verilmesini talep ve dava etmiştir.
 
@@ -138,6 +150,8 @@ Açıklanan sebeplerle; davacı ve davalı ...’in karar düzeltme taleplerinin
 
 ## Yargıtay 3. HD 2023/1420 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/935865300)
+
 Davalı; davacının edimlerini yerine getirmeden talepte bulunmasının haksız olduğunu, daire anahtarlarının haksız olarak ele geçirildiğini ve daire içindeki eksikliklerin birilmesinin bizzat davacı tarafça engellendiğini savunarak davanın reddini istemiştir.
 
 …
@@ -147,6 +161,8 @@ Aynı Kanun'un Geçici 16 ncı maddesinin birinci fıkrası; "Afet risklerine ha
 ) uyarınca alınmış yıkım kararları ile tahsil edilemeyen idari para cezaları iptal edilir." onuncu fıkrası ise; " Yapı Kayıt Belgesi, yapının yeniden yapılmasına veya kentsel dönüşüm uygulamasına kadar geçerlidir. Yapı Kayıt Belgesi düzenlenen yapıların yenilenmesi durumunda yürürlükte olan imar mevzuatı hükümleri uygulanır. Yapının depreme dayanıklılığı hususu malikin sorumluluğundadır." şeklinde düzenlenmiştir.
 
 ## Yargıtay 6. HD 2023/1387 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/900178800)
 
 Davacı vekili dava dilekçesinde; taraflar arasında 09.10.2014 tarihinde arsa payı karşılığı inşaat sözleşmesi düzenlendiğini, yapı ruhsatı alma yükümlülüğü davalı yüklenicilere ait olmasına rağmen makul sürede yapı ruhsatı alınmadığını, belediyeye sundukları projenin Zeytinlik alanlarıyla ilgili mevzuata aykırı olması nedeniyle kabul edilmediğini, bu nedenle davalı tarafa bir ihtarname gönderilerek sözleşmeyle bağlı kalınmayacağının bildirildiğini, davalıların ihtara rağmen kötüniyetli olarak sözleşmeyi tapuya şerh ettirdiklerini ileri sürerek, arsa payı karşılığı inşaat sözleşmesinin geriye etkili olarak feshini, taşınmaza yönelik elatmanın önlenmesini, tapudaki sözleşme şerhinin terkinini ve 20.000,00 TL manevi tazminatın davalılardan tahsilini talep ve dava etmiştir.
 
@@ -163,6 +179,8 @@ Davalı ... vekili cevap dilekçesinde; belediyenin bildirdiği eksiklikler tama
 Temyiz olunan Bölge Adliye Mahkemesi kararının BOZULMASINA …
 
 ## Yargıtay 6. HD 2023/1151 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/897240300)
 
 Mahkemece bozmaya uyularak yeniden yapılan yargılama sonucunda; davanın kabulüne karar verilmiştir.
 
@@ -188,6 +206,8 @@ Bozmadan sonra davacıların bedel yönünden terditli olarak alacak talebini ı
 
 ## Yargıtay 6. HD 2023/1150 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/890987500)
+
 İlk Derece Mahkemesince bozmaya uyularak yeniden yapılan yargılama sonucunda; asıl ve birleşen 2009/268 esaslı davalar hakkında ret kararı, birleşen 2010/154 esaslı davada davanın açılmamış sayılmasına karar verilmiştir.
 
 …
@@ -205,6 +225,8 @@ Asıl ve birleşen (2009/268 E) sayılı davada davacılar vekilinin yerinde gö
 
 ## Yargıtay 6. HD 2023/1056 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/894473100)
+
 Davacı yüklenici vekili dava dilekçesinde; tarafların düzenlenme şeklinde kat karşılığı inşaat sözleşmesi yaptıklarını, sözleşmeye göre A Bloktan arsa karşılığı toplam 9 dairenin davacı tarafından davalıya teslim edildiğini, kalan dairelerin tamamının davacı tarafından satıldığını ve tapuların davalı tarafından verildiğini, üzerine düşen edimi yerine getirmesine rağmen davalının halen sözleşmeye aykırı olarak son kalan 10 no.lu daireyi üzerinde tuttuğunu ileri sürerek, davalı adına kayıtlı bulunan D Blok 10 no.lu dairenin tapu kaydının iptali ile davacı adına tapuya tesciline karar verilmesini talep ve dava etmiştir.
 
 …
@@ -221,6 +243,8 @@ Bu durumda mahkemece arsa payı karşılığı inşaat sözleşmesi uyarınca y�
 İlk Derece Mahkemesi kararının BOZULMASINA …
 
 ## Yargıtay 6. HD 2023/777 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/894422500)
 
 Davacı vekili dava dilekçesinde özetle; taraflar arasında 12.05.2008 tarihli sözleşme imzalandığını, ruhsatların 17.07.2008 tarihinde alındığını, sözleşme ve eki uygulama projesine uygun imalat yapılırken davalı tarafından onaylı proje ve ruhsatlara aykırı bir kısım imalatlar ile sözleşme ve eki teknik şartnamede yer almayan ancak proje ve ruhsatlara aykırılık arz etmeyen bir kısım ilave işlerin daha yapılmasının talep edildiğini, müvekkilinin gerçekleştirdiği bu imalatların ruhsat ve eklerine aykırı olduğundan, hakedişlere yansıtılamadığını, müvekkilinin idarenin talimatı ile ve yapı denetim şirketinin onayı ile proje tadilatı gerektiren sözleşme dışı imalat yanında proje ve ruhsat tadilatı gerektirmeyen sözleşme dışı imalatları sözleşme süreci içerisinde gerçekleştirdiğini, sözleşme dışı imalatların projeye aykırı olan kısmının kesin hesaba davalı tarafın isteği üzerine katılmadığını, kesin hesaba katılmayan projeye aykırı olarak yaptırılan imalatların tadil projesinin 05.03.2010 tarihinde onaylandığını, bu alanların denetim şirketinin gözetiminde idarenin talimatı ile oluşturulmasına rağmen mimari projede yer almadığını, müvekkilinin gerçekleştirdiği sözleşme dışı imalatlar
 nedeni ile vekaletsiz iş görme hükümlerine göre talep hakkı olduğunu, ileri sürerek fazlaya ilişkin haklar saklı kalmak kaydı ile 500.000,00 TL'nin 18.08.2010 tarihinden itibaren avans faizi ile birlikte ödenmesini talep etmiştir.

@@ -32,6 +32,8 @@ Temyiz olunan Mahkeme kararının asıl davada davacı-asli müdahale talebinde 
 
 ## Yargıtay 6. HD 2024/3403 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1109041000)
+
 İlk derece mahkemesince, tapu kaydındaki arsa payı karşılığı inşaat sözleşmesine dair şerhin kaldırılması istemine dair davada, davacı ve davalıların murisi arasında düzenlenen arsa payı karşılığı inşaat sözleşmesinde şerh için bir süre kararlaştırılmadığı gibi sözleşmenin feshine ilişkin taraf iradeleri birleşmediği ve fesih olgusunun bir mahkeme kararı ile kesinleşmediği, bu nedenle dava konusu taşınmazlarda bulunan arsa payı karşılığı inşaat sözleşmesi şerhinin terkininin istenilemeyeceğinden davanın reddine, davalı ... yönünden ise sözleşmenin davacı ve davalıların murisi arasında akdedildiği, murisin vefatı ile birlikte mirasçılarının sözleşmenin tarafı olduğu, Gebze 2.
 
 …
@@ -42,6 +44,8 @@ yerinde görülmemiştir.
 SONUÇ: Yukarıda açıklanan nedenlerle Sakarya Bölge Adliye Mahkemesi 5. Hukuk Dairesi kararına ilişkin davacı vekilinin tüm temyiz istemlerinin reddiyle usul ve kanuna uygun bulunan kararın ONANMASINA …
 
 ## Yargıtay 15. HD 2019/116 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/477978400)
 
 Davacı vekili, İİK'nın 94/2. maddesi gereği, müvekkilinin alacağı nedeniyle, davalı arsa sahibi ile davalı yükleniciler ... ve ... arasında düzenlenen arsa payı karşılığı inşaat sözleşmesi gereği, davalı arsa sahibi adına kayıtlı C Blok 4, 6, 10 no'lu bağımsız bölümlerin yüklenici ... adına tapuya tescilini talep etmiştir. Davalı arsa sahibi vekili ise 10 no'lu dairenin eksik-ayıplı işler ve daha önce kesinleşen mahkeme kararı gereği müvekkilinin uhdesinde kalacağını, 4 ve 6 nolu daireler için dava açılmadan önce davalı yüklenici ...’a her türlü tasarruf için vekâlet ile yetki verildiğini, müvekkilinin atfı kabil bir kusuru bulunmadığını savunarak, davanın reddini istemiştir. Mahkemece 4 ve 6 nolu …
 
@@ -55,6 +59,8 @@ SONUÇ: Yukarıda 1. bentte açıklanan nedenlerle taraf vekillerinin sair temyi
 
 ## Yargıtay 15. HD 2012/4688 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/525827100)
+
 Mahkemece asıl dava yönünden davanın kabulü ile davalı tarafından davacıya verilen vekâletin geçerli olduğunun, davalının davacıyı vekillikten azletmekte haksız olduğunun tespiti ile sözleşmenin tapu kütüğüne şerhine, birleşen davaların ise reddine karar verilmiş, karar davalı ve karşı davacı iş sahibi kooperatif tarafından temyiz edilmiştir.
 
 …
@@ -65,6 +71,8 @@ Azlin haksız olduğunun kabulü halinde vekâletin geçerli olduğuna karar ver
 SONUÇ:Yukarıda 1. bentte yazılı nedenlerle davalı ve karşı davacı iş sahibi kooperatifin diğer temyiz itirazlarının reddine, 2. bentte açıklanan nedenlerle yerel mahkeme kararının hüküm fıkrası 1. bendinde yer alan “davalı tarafından davacıya verilen vekâletin geçerli olduğunun” cümlesinin hüküm fıkrasından çıkarılmasına, hükmün değiştirilmiş bu şekli ile DÜZELTİLEREK ONANMASINA …
 
 ## Yargıtay 15. HD 2008/137 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/857468600)
 
 Davada kat karşılığı inşaat sözleşmesi uyarınca gecikme tazminatının tahsili istenmiştir. Davalı ruhsat alınması için verilen vekâletnameden azledilmeleri nedeniyle inşaatı süresinde tamamlayamadıkları gibi davacı tapu devri yapmadığından Rize Sulh Hukuk Mahkemesi’nin 1999/683 Esas sayılı dosyasında dava açtıklarını savunmuştur. Karşılıklı taahhütleri içeren inşaat sözleşmelerinde kendi edimini yerine getirmeyen taraf karşı taraftan edimini yerine getirmesini isteyemez (BK.81.md.). İnşaatın gecikmesinde davacının tapu devri yapmayarak edimini yerine getirmediği sabit olduğu takdirde davalı geciken süreden sorumlu kabul edilemeyeceğinden açılan tapu iptâli ve tescil davasının eldeki davayla bağlantılı olduğu ortadadır. Bu nedenle her iki davanın birleştirilerek sonucuna göre hükme varılması gerekirken bu husus üzerinde durulmadan hükme varılması doğru olmamış, kararın bozulması uygun bulunmuştur (HUMK.45.md.).
 
@@ -85,6 +93,8 @@ Ankara 3. Asliye Ticaret Mahkemesinin 05/12/2024 gün ve 2023/468 E-2024/898 K s
 
 ## İstanbul BAM 45. HD 2024/1665 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1099419400)
+
 İnşaat yetkilisi ... tarafından sunulan beyan ile Büyükçekmece ... Noterliği'nin 05/06/2017 tarih ve ... yevmiye no.lu vekaletnamesi ile vekil tayin edilen ...'nin vekaletnamedeki tüm yetkilerden azledildiği hususunda düzenlenmiştir. Söz konusu azilname Esenyurt Tapu Müdürlüğüne ve Esenyurt Belediye Başkanlığına aynı tarihte ibraz edilmiştir. Dava dosyaları; 1-Bakırköy 4. Asliye Ticaret Mahkemesi'nin 2015/868 E. sayılı dosyası; asıl davanın ... San. Ve Tic. Ltd. Şti. ve ... San. Ve Tic. Ltd. Şti. tarafından, ...Ve ... San. Ve Tic. Ltd. Şti.'ne karşı taraflar arasında 21/03/2012 tarihli taşınmaz satış vaadi ve kat karşılığı inşaat sözleşmesi uyarınca inşaatın yapılmasının engellendiği, paylaşma işleminin yapılmadığı iddiası ile sözleşmenin ifası ve imara aykırılıkların giderilebilmesi yönünden plan tadilatı, ruhsat işlemleri, kat irtifakının kurulması hususlarında kendilerine tek taraflı yetki verilmesi, bu husustaki taleplerinin kabul edilmemesi halinde 21/03/2012 tarihli taşınmaz satış vaadi ve kat karşılığı inşaat sözleşmesinden kaynaklanan iki tarafın yetkilerinin kayyıma devredilmesi istemiyle dava açılmıştır. Birleşen dava ise; ... Ve ... San. Ve Tic. Ltd. Şti. tarafından, ...
 San. Ve Tic. Ltd. Şti. ve ... Gıda Ve Turz. San. Ve Tic. Ltd. Şti.'ne karşı 21/03/2012 tarihli düzenleme şeklinde gayrimenkul satış vaadi ve kat karşılığı inşaat sözleşmesinin ve ek sözleşmelerin yapının yasal hale getirilmesinin mümkün olmaması nedeniyle geriye etkili olarak feshi, davalı tarafa devredilen Esenyurt İlçesi, ... ada ... nolu parseldeki tapu kaydının iptali ile ... adına tescili, binanın kal'i ve menfi zararların tazmini istemiyle dava açılmıştır. Mahkemece yapılan yargılama neticesinde 17/01/2018 tarih ve 2018/42 K. sayılı kararı ile; -Asıl davanın kısmen kabulü ile taraflar arasındaki Büyükçekmece ...
 
@@ -96,6 +106,8 @@ Asliye Hukuk Mahkemesi'nin 2018/434 E. Sayılı dosyası; davacı ... Sanayi Ve 
 H Ü K Ü M: Gerekçesi yukarıda izah edildiği üzere; 1- Asıl dosya davacısı ... San. Ve Tic. Ltd. Şti., birleşen dosya davalıları ... San. Ve Tic. Ltd. Şti., ... ve ... vekilinin, asıl ve birleşen dava yönünden istinaf başvurusunun ayrı ayrı KABULÜ ile Bakırköy 3. Asliye Ticaret Mahkemesi'nin 2020/332 E. 2022/370 K. sayılı 06/04/2022 tarihli kararının 6100 sayılı HMK'nın 353/1.a.6 maddesi uyarınca KALDIRILMASINA …
 
 ## İstanbul BAM 53. HD 2022/278 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/834512300)
 
 Uyuşmazlık söz konusu feshin haksız olup olmadığından kaynaklanmaktadır.Anılan Kat karşılığı inşaat sözleşmesinden önce inşaat işlerinin takip edilmesi amacıyla arsa sahibi tarafından davacı yükleniciye 25/09/2006 tarihli (arsa sahibine ait Kadıköy ilçesi, ... mah. ... pafta, ... ada ... parsel sayılı taşınmazla ilgili, mevcut binayı yıktırma, yerine inşaat yapma amacıyla her türlü imar, ruhsat işlemleri, plan, proje evrakları tanzim etme, sunma vs için özel yetki vermiştir.) özel vekaletname verilmiştir. Dosyada mevcut plan ve krokilerden de anlaşılacağı üzere arsa sahibine ait 25 parsel sayılı taşınmazın 4,47,48,49,50 parsel sayılı taşınmazlarla çevrili olduğu, yola mahrecinin olmadığı bellidir. Buna göre sözleşmeye konu taşınmazın imar planı kapsamında olduğu ancak yola mahrecinin bulunmaması nedeniyle imar uygulaması yapılamayacağı belediye yazısından anlaşılmaktadır.Sözleşme yapıldığı sırada imar durumu nedeniyle sözleşmenin konusu tamamen imkansız olmayıp, yapılan sözleşme geçerlidir. Ancak taşınmazın yola mahreci bulunmaması nedeniyle imar uygulaması yapılması mümkün olmayıp buna göre yola mahrecinin olması şartı ile sözleşmenin konusu geçici imkansızdır.
 Sözleşme imzalandıktan yaklaşık iki yıl sonra 21/05/2009 tarihinde arsa sahibi tarafından feshedilmiş, davacılar vekaletten azledilmiştir.Taraflar, sözleşmede bu durumu, inşaat ruhsatının alınmasından önce yapılması gereken işleri öngörmüş olup bunların bir kısmı giderilmeden imar uygulamasının yapılması, inşaat ruhsatının alınması mümkün değildir. Ancak bu eksiklikler giderildikten sonra imar uygulaması yapılarak ruhsat alınabilecektir.

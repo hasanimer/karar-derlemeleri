@@ -22,10 +22,14 @@ uyari: "Derleyenin seçtiği alıntılardır; kararın tamamı değildir. Künye
 
 ## İstanbul BAM 15. HD 2023/65 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/863355100)
+
 Şti. aleyhine yürütmüş olduğu işlemlerin dosya kapsamı ile herhangi bir ilgisi olmadığından, mahkeme tarafından kurulan, davalıdan sebepsiz zenginleşme hükümleri çerçevesinde talepte bulunulamayacağı ve pasif husumet yöneltilemeyeceği yönündeki kararın haksız ve hukuka aykırı olduğunu, dava konusu sözleşme kapsamında bu husustan yararlanan ve fayda sağlayanın açıkça davalı kooperatif şirketi olduğunu belirterek yerel mahkeme ara kararının kaldırılması için istinaf kanun yoluna başvurmuştur. Uyuşmazlık, 6098 sayılı Türk Borçlar Kanunu'nun 470. ve devamı maddelerinde düzenlenen eser sözleşmesinden kaynaklanmaktadır. Davacı taşeron, davalı ise arsa sahibidir. Davalı arsa sahibi ile dava dışı ... San Ve Tic Ltd Şti arasında, Kartal ... Noterliğince düzenlenen ... yevmiye numaralı taşınmaz mal satış vaadi ve kat karşıılığı inşaat sözleşmesi akdedilmiş, akabinde bu sözleşmedeki hükümlerin ifası amacıyla dava dışı yüklenici ... San Ve Tic. Ltd. Şti. ile davacı arasında, inşa edilen taşınmazda PVC kapı, doğrama ve cam işini yapmayı üstlenmiştir.
 Karşılıklı edimleri içeren eser sözleşmelerinde yüklenicinin görevi eseri sözleşmesine, amacına ve tekniğine uygun tamamlayarak teslim etmek; iş sahibinin görevi ise, sözleşmede kararlaştırılan yükümlülükler varsa bunların yerine getirilmesiyle eserin bedelini ödemekten ibarettir. Kural olarak eser sözleşmesi ilişkisinin kurulması herhangi bir şekil şartına tabi olmayıp, tarafların "icap" ve "kabul" iradelerinin birleşmesiyle sözleşme ilişkisi kurulur. Şekil şartı, sözleşmenin geçerlilik şartı olmayıp, ispat şartıdır ( bkz. Yargıtay (Kapatılan) 15 Hukuk Dairesi'nin 25/09/2018 tarih, 2018/3698 Esas, 2018/3394 Karar sayılı kararı). Eser sözleşmesi ilişkisinin varlığı kural olarak yazılı veya kesin delillerle ispatlanmalıdır. 4721 sayılı TMK’nın “İspat yükü” başlıklı 6. maddesi “Kanunda aksine bir hüküm bulunmadıkça, taraflardan her biri, hakkını dayandırdığı olguların varlığını ispatla yükümlüdür.” hükmünü amirdir.
 
 ## Konya BAM 6. HD 2022/1827 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/830594200)
 
 Davalı arsa sahibi ... Kooperatifi, taşınmazların halen tapuda arsa cinsi ile tapuda kayıtlı olduğu yüklenicinin edimini yerine getirmediğini beyanla görev ve esas yönünden davanın reddini savunmuştur.
 
@@ -47,6 +51,8 @@ Davalı vekilinin istinaf talebinin KABULÜ ile; Konya ... Asliye Ticaret Mahkem
 
 ## İstanbul BAM 45. HD 2022/1313 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/843027800)
+
 İLK DERECE MAHKEMESİ KARARI Mahkemece, " davacının arsa sahibi olmayan ancak yüklenici konumunda bulunan ... 'nin üyesi olduğu, söz konusu kooperatif tarafından dava konusu bağımsız bölümün kendi üyesine tahsis edildiği, söz konusu tahsisin alacağın temliki olarak değerlendirileceği, yüklenici olan kooperatifin arsa sahibi olan ...'ne karşı KKİS kapsamında tüm edimlerini yerine getirmediği, nitekim sözleşmenin 4/a maddesi gereğince arsa sahibine ait blok ve dairelerin iskana hazır hale getirilmesi yükümlülüğünün yüklenici kooperatife ait olduğu, bu kapsamda yapılan araştırmada taşınmazın iskanının alınmadığı, iskanının alınması için otopark ve yeşil alanların düzenlenip ayrıca her daireye bir otopark yeri tahsis edilmesinin gerektiği, ayrıca yapı kullanma izin belgesinin alınabilmesi için ilgili belediyeye toplam 1.841.619-TL ödeme yapılması gerektiği, yüklenici olan kooperatifin ayrıca SGK'ya toplam 269.934,11-TL borcu bulunduğu, bu bağlamda davalı kooperatifin arsa sahibine karşı olan tüm yükümlülüklerini yerine getirmediğinden davacının arsa sahibine yönelik olarak tapu iptal ve tescil talebinde bulunamayacağı (Yargıtay 23.HD 2016/1953 esas 2017/2740 karar sayılı ilamında da
 belirtildiği üzere) " gerekçesiyle davanın reddine karar verilmiştir.
 
@@ -66,6 +72,8 @@ H Ü K Ü M: Gerekçesi yukarıda izah edildiği üzere; 1-Davacı vekilinin ist
 
 ## İstanbul BAM 17. HD 2022/799 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/785382500)
+
 Davalı vekili cevap dilekçesinde özetle; davacının taşeronu olduğu işi tamamlamadığını, yapılan işinde sözleşme ve şartnamelere uygun olmadığını, işin ... Bölge Müdürlüğünce kabul edilmediğini, iflas İdaresi tarafından Sivas 2.
 
 …
@@ -81,6 +89,8 @@ BK'nın 359/I. maddesine göre açık ayıplarda bildirimin “işlerin mutad ce
 İş sayılı dosyasında tespit ettirdiği, davacının sözleşmeler gereğince toplam imalatının 210.137.20TL + 147.652.32TL + 75.908.83TL = 433.698.35 TL olduğu, davalının imalatlar sebebi ile usulüne uygun ayıp ihbarında bulunduğu konusunda ispat vasıtası getirilemediği, davacının kabulünde bulunan 180.797,00 TL + KDV tahsilat mahsup edildiğinde, davacının müflis şirketten iflas tarihi itibari ile 298.423,59 TL alacaklı olduğu, bu durumda mahkemece tesis edilen kararda usul ve yasaya aykırılık bulunmadığı anlaşılmakla tarafların istinaf başvurularının reddine dair aşağıdaki hüküm kurulmuştur.
 
 ## İstanbul BAM 43. HD 2022/447 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/760778300)
 
 Dava, simsarlık sözleşmesi gereğince hak edilen ücret alacağının tahsili için başlatılan icra takiplerine vaki itirazın iptali istemine ilişkindir.
 
@@ -103,6 +113,8 @@ HÜKÜM:Yukarıda açıklanan nedenlerle: Asıl ve birleşen davanın davalı ve
 
 ## İzmir BAM 14. HD 2022/415 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/739853100)
+
 Davacı avukatı tarafından verilen 29.07.2015 tarihli dava dilekçesinde özetle; taraflar arasında 11/11/2013 ve 27/05/2014 tarihli iki adet eser sözleşmesinin imzalandığını, bu sözleşmeler ile davalı yüklenicinin, müvekkilinin kat karşılığı yaptığı inşaatın “alüminyum doğramaları ile camlarının takılması” işini yüklendiğini, bu iş karşılığında müvekkilinin davalıya 275.000,00 TL ve 71.130,40 TL ödediğini, karşılığında davalıdan 185.000,00 TL ve 71.130,40 TL bedelli iki adet teminat senedini aldığını, davalının işleri zamanında yerine getirmemesi nedeniyle davalıya İzmir 11. Noterliği'nden 21/05/2015 tarihli, 7502 yevmiye numaralı ihtarnameyi gönderdiklerini ve süre verdiklerini, davalının bu ihtarname ile temerrüte düştüğünü, davalının işi tamamlamadığını ve “gecikmenin dış etmenlerden kaynaklandığını” bildiren Bornova 3.
 
 …
@@ -119,6 +131,8 @@ Eser sözleşmesinde ayıba dair hükümler, 6098 sayılı TBK'nın 474-478. mad
 
 ## İstanbul BAM 53. HD 2022/380 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/841395600)
+
 Karşılıklı edimleri içeren eser sözleşmelerinde yüklenicinin görevi eseri sözleşmesine, amacına ve tekniğine uygun tamamlayarak teslim etmek; iş sahibinin görevi ise, sözleşmede kararlaştırılan yükümlülükler varsa bunların yerine getirilmesiyle eserin bedelini ödemekten ibarettir. Kural olarak eser sözleşmesi ilişkisinin kurulması herhangi bir şekil şartına tabi olmayıp, tarafların "icap" ve "kabul" iradelerinin birleşmesiyle sözleşme ilişkisi kurulur. Şekil şartı, sözleşmenin geçerlilik şartı olmayıp, ispat şartıdır. (Yargıtay 15 Hukuk Dairesinin 25/09/2018 tarih,2018/3698 Esas, 2018/3394 karar sayılı kararı) 4721 sayılı TMK’nın “İspat yükü” başlıklı 6. maddesi “Kanunda aksine bir hüküm bulunmadıkça, taraflardan her biri, hakkını dayandırdığı olguların varlığını ispatla yükümlüdür.” hükmünü amirdir.
 Somut olayda, davacı yüklenici davalı iş sahibine yaptığını iddia ettiği "11.09.2013 tarihli riskli yapı tespit raporunun hazırlanması" işinin bedelini talep etmiş ise de, davalı iş sahibi vekili sunmuş olduğu cevap dilekçesi ve aşamalardaki beyanlarıyla davacı ile akdî ilişkiyi inkâr ettiğinden, taraflar arasında sözlü akdî ilişkinin kurulduğunu ispat külfeti davacı yüklenici üzerinde kalmaktadır.Dosya kapsamına sunulan deliller bir arada değerlendirildiğinde, davacı tarafça davaya konu icra takibine dayanak olarak sunulan; üzerinde davalı şirket kaşesi bulunan ve davacı ...
 
@@ -133,6 +147,8 @@ HÜKÜM: Gerekçesi yukarıda açıklandığı üzere;A)1- Davacı vekilinin ist
 
 ## İstanbul BAM 15. HD 2021/2477 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/716129000)
+
 GEREĞİ GÖRÜŞÜLÜP DÜŞÜNÜLDÜ: Dava, kat karşılığı inşaat sözleşmesinden kaynaklanan kira kazancı kaybı alacağı ile eksik imalat bedeli alacağının tahsili talebine ilişkin olup; mahkemece, davanın kısmen kabulüne dair verilen karar davalılardan ... A.Ş vekili tarafından usulünce istinaf edilmiştir. Davacı, ihbar olunan arsa sahibi ... İnşaat ... Şirketi ile davalılardan ... Şirketi arasında imzalanan kat karşılığı inşaat sözleşmesini arsa sahibinden hak ve yükümlülükleri ile birlikte temlik aldığını iddia eden kişi, davalı ... Şirketi yüklenici, davalı ... ise inşaatı tamamlamak üzere yapım işini yükleniciden devralan kişidir. Davacı, davaya konu 9 adet bağımsız bölümü dava dışı arsa sahibinden satın alan ...'den satın aldığını ve bu nedenle arsa sahibinin halefi haline geldiğini belirterek bağımsız bölümlerin halen dahi teslim edilmediğini ve eksik imalat bulunduğunu belirterek her bir bağımsız bölüm yönünden kira kaybı alacağı ile eksik işler bedelini talep etmiştir. Davalılardan .... Şirketi cevap vermemiş, diğer davalı ...
 A.Ş vekili ise gerek davacının gerekse müvekkilinin sözleşmenin tarafı olmadığını, sözleşmenin tapuya şerh edilmediğini, davayı kendisine satış yapan kişiye yöneltilmesi gerektiğini, davacının sözleşmenin halefi olmadığını, kendisinin de zarar gördüğünü belirterek davanın reddini talep etmiştir. Mahkemece, bilirkişi raporu, davacı ile arsa sahibi ... İnşaat şirketi arasında yapılan davaya konu kat karşılığı inşaat sözleşmesinin devrine dair 05.05.2011 tarihli devir ve temlik sözleşmesi ile yine işbu sözleşmenin arsa sahibinin onayı ile davalı yüklenici ... şirketi tarafınddan diğer davalı ... şirketine 18.12.2009 tarihli protokolle devredilmiş olması, davalı devralan ... şirketinin inşaatın kendisi tarafından yapıldığına ilişkin kabulü birlikte değerlendirilerek işin eksik ve geç ifa edildiği belirtilerek davanın kısmen kabulü ile 120.016,66 TL kira kazanç kaybı ve 259.200,00 TL eksik imalat bedeli olmak üzere toplam 379.216,66 TL'nin davalardan tahsili ile davacıya ödenmesine dair verilen karar davalı ... şirketi vekilince istinaf edilmiştir. Davalı ... Gayrimenkul ...
 
@@ -142,12 +158,16 @@ HÜKÜM: Gerekçesi yukarıda açıklandığı üzere;1-Davacı vekilinin istina
 
 ## İstanbul BAM 15. HD 2021/2288 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/712260500)
+
 Kişiye yaptırıldığı belirlenen eksik ve ayıplı işlerin sözleşmeye konu toplam işe oranı tespit edilmek suretiyle, fiziki oran yöntemine göre yapılması gerekmektedir.Davacı yüklenici davaya konu takiple bakiye bedel (daire bedeli) talebinde bulunmuş, davalı iş sahibi ortaklık cevabında davanın reddini istemiş, birleşen davada ise, işin eksik ve ayıplı yapıldığını ve süresinde de teslim edilmediğini ileri sürerek eksik işler bedelinin tahsilini istemiştir.Mahkemece sözleşmenin götürü bedel olarak düzenlendiği hususu göz ardı edilerek sonuca gidilmiştir.Eser sözleşmesinde yüklenicinin sözleşme bedeline hak kazanabilmesi için işi, sözleşme ve varsa eklerine fen ve sanat kanalına, iş sahibinin ondan beklediği amaca uygun olarak tamamlanıp eksiksiz ve ayıpsız olarak kararlaştırılan yer ve zamanda iş sahibine teslim etmesi gerekir. İş sahibinin de eksik ve ayıplı işler bedelini talep edebilmesi için iş bedelini ödemiş olması gerekir. Aksi halde olsa olsa ve varsa fazla ödemesini isteyebilir.İki tarafa borç yükleyen eser sözleşmesinde birlikte ifa kuralı gereği öncelikli edimini yerine getirmeyen taraf karşı yandan borcun yerine getirilmesini isteyemez.
 (TBK m.97)O halde, hesaplamaların fiziki yönteme göre yapılması ve birlikte ifa kuralı da gözetilerek her bir dava yönünden ayrı ayrı kendi içinde karara bağlanması gerekir.Açıklanan nedenlerle, taraf vekillerinin asıl davaya ilişkin istinaf başvurularının reddine, birleşen davaya ilişkin istinaf başvurularının ise sadece yukarıda açıklanan sebeple kısmen kabulü ile usul ve yasaya uygun bulunmayan yerel mahkeme kararının 6100 sayılı HMK'nın 353/1-a-6 maddesi gereğince kaldırılarak yukarıda açıklanan şekilde inceleme ve araştırma yapıldıktan sonra oluşacak uygun sonuç dairesinde bir karar verilmesi için dosyanın yerel mahkemesine gönderilmesine karar verilmesi gerekmiştir.
 
 HÜKÜM: Gerekçesi yukarıda açıklandığı üzere;1-Taraf vekillerinin asıl davaya ilişkin istinaf başvurularının REDDİNE,2-Taraf vekillerinin birleşen davaya ilişkin istinaf başvurularının KISMEN KABULÜNE,2-Bakırköy 6. Asliye Ticaret Mahkemesi'nin 29/04/2021 tarih, 2021/262 Esas, 2021/450 Karar sayılı kararının KALDIRILMASINA …
 
 ## İstanbul BAM 15. HD 2021/1328 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/669725500)
 
 A.Ş. tarafından daha önce diğer davalılar ile yapılan 30.12.2011 tarihli Sözleşme ve 22.04.2013 tarihli Ek Sözleşmeye bağlı kalınacağı, sözleşmelerin gereklerini ifa edileceğini içeren taahhütname verildiğini, akdedilen müşavirlik sözleşmelerine göre ... tarafından kentsel dönüşüm proje alanında hak sahipleri ile belirlenen hak sahipliği modeline göre yapılan tüm sözleşmelere uygun olarak müteahhit şirket tarafından belirlenen süre içerisinde tamamlanan bağımsız birimlerin eksiksiz olarak hak sahiplerine devir ve teslim edileceğini, ayrıca müteahhit firmalarla akdedilen sözleşmelere göre hak sahipleri ile yapılan sözleşmede bulunan sorumlulukların yükleniciler ve/veya yüklenicilerin içinde olacağı ortaklığa ait olacağını, bahsi geçen kentsel dönüşüm çalışmalarının Ekim/2017 itibarı ile sona erdiğini, inşası tamamlanan dairelerin gerek bölgedeki hak sahiplerine gerekse müteahhit firmadan haricen satın alım gerçekleştiren 3. şahıslara teslim edilmeye başlandığını, ancak hak sahiplerine teslim edilmesi gereken dairelerin hak sahipleri ile yapılan anlaşmalara aykırı olduğu, dairelerin ayıplı olarak, yanlış dairelerin teslim edildiği veya hiç teslim yapılmadığı gibi hususlar ile hak
 sahipleri tarafından müvekkili şirkete ihtarnameler gönderilmeye, BİMER/CİMER şikayetleri yapılmaya, müvekkili şirket aleyhine davalar açılmaya başlandığını, davalıların yerine getirmemiş olduğu yükümlülüklerinden kaynaklı olarak hak sahipleri tarafından eksik, ayıplı ifa vb. nedenlerle müvekkili şirket aleyhine hali hazırda toplamda 8 adet dava açıldığını, bu davalardan hak sahibi ... tarafından açılan tazminat davasında Gaziosmanpaşa 2 Asliye Hukuk Mahkemesinin 03.07.2020 tarih, 2018/120 E. 2020/261 K. sayılı kararı ile davacıya net 85 m2 daire teslim edilmesi gerektiği halde 72,03 m2 daire tescil ettirildiğinden 77.820,00 TL ve dava tarihine kadar mahrum kaldığı 5.525,05TL kira bedeli ile yargılama giderleri ve vekalet ücretinin ödenmesine karar verildiğini, söz konusu ilama dayalı olarak davacı tarafından Gaziosmanpaşa ... İcra Müd. ...

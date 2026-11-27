@@ -37,6 +37,8 @@ Yukarıda (2) numaralı bentte açıklanan nedenlerle temyiz olunan Bölge Adliy
 
 ## Yargıtay 6. HD 2026/180 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1207372500)
+
 Mahkemece bozmaya uyularak verilen karar, davalı ... İnşaat Oto.
 
 …
@@ -58,6 +60,8 @@ Davalı yüklenici ile davalı arsa malikleri arasında mecburi dava arkadaşlı
 Davalılar ..., ..., ..., ... ve ... vekili ile davalı ... İnşaat ... Ltd. Şti. vekilinin yerinde görülmeyen tüm temyiz itirazlarının reddi ile usul ve kanuna uygun olan kararın ONANMASINA …
 
 ## Yargıtay 23. HD 2019/1879 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/506267700)
 
 …
 

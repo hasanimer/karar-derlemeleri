@@ -40,6 +40,8 @@ Asıl ve birleşen davada davacı ... mirasçıları vekilinin temyiz itirazlar�
 
 ## Yargıtay HGK 2025/664 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1196638900)
+
 Davalı vekili cevap dilekçesinde; davacıya daire verilmesi taahhüt edilen H bloğun 62... parsel içinde bulunduğunu, davacının taleplerini netleştirip hangi ada, parsel ve bağımsız bölüm için tapu iptali davası açtığını açıklığa kavuşturması gerektiğini, sözleşme süresi dolmadığından kira alacağının muaccel hâle gelmediğini ve kira talep edilemeyeceğini, sözleşme gereğince inşaat ve yapım işlerinin devam ettiğini, inşaat teslim süresinin ruhsat tarihinden itibaren başlayacağını, davacıya verilecek dairenin bulunduğu H blok için ise henüz ruhsat alınmadığından davacının taleplerinin dayanağının bulunmadığını, Zonguldak İdare Mahkemesinin 2018/306 Esas, 2019/422 Karar sayılı kararı gereğince Kozlu Belediyesinin uygulama ve nazım imar planları iptal edildiğinden inşaatın 24.05.2019 tarihinde durdurulduğunu, yeni imar düzenlemesi yapılana kadar ruhsat verilmediğini, davacının dairesinin konum olarak ruhsatı alınan B blokta kaldığını, B blokta da ruhsat alım tarihinden itibaren otuz altı aylık sürenin dolmadığını, davanın süreden reddine karar verilmesi gerektiğini, B bloktaki dairelerin kat irtifak tapularının hazır olduğunu, bu nedenle müvekkilinin, davacının talep etmesi hâlinde B
 Blok 1.
 
@@ -61,6 +63,8 @@ Davacı vekilinin temyiz itirazlarının kabulü ile direnme kararının yukarı
 
 ## Yargıtay HGK 2023/1072 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/976335200)
+
 Davacılar vekili dava dilekçesinde; müvekkilleri ile davalı şirket arasında arsa payı karşılığı inşaat sözleşmesi ve ek sözleşmenin düzenlendiğini, ancak binanın süresinde teslim edilmemesi nedeniyle 07.12.2010 tarihinde sözleşmelerin geriye etkili şekilde feshi hususunda tarafların anlaştığını ve fesih tarihine kadar yüklenicinin hak etmediği ancak üçüncü kişilere sattığı bağımsız bölümlerin müvekkili arsa sahiplerine devri kararlaştırıldığı hâlde davalı yüklenicinin anılan bağımsız bölümleri iade etmediğini ve diğer davalı ...’a muvazaalı şekilde sattığını ileri sürerek 8 ve 12 No.lu bağımsız bölümlerin tapu kaydının iptali ile müvekkilleri adına tesciline, tescilin mümkün olmaması hâlinde bedelinin davalılardan müştereken ve müteselsilen tahsiline karar verilmesini talep etmiştir.
 
 …
@@ -80,6 +84,8 @@ Davalı ... vekilinin temyiz itirazlarının kabulü ile direnme kararının Öz
 
 ## Yargıtay HGK 2017/1435 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/386876800)
+
 Mahkemece; asıl davada tapu iptali ve tescil isteminin reddine, tazminat isteminin kabulüne, birleştirilen davanın ise kabulüne karar verilmiştir.
 
 …
@@ -97,6 +103,8 @@ Düzenlenen arsa payı karşılığı inşaat sözleşmesi ile yüklenici arsa p
 SONUÇ: Davacı ... vekilinin temyiz itirazlarının kabulü ile direnme kararının Özel Daire bozma kararında gösterilen nedenlerden dolayı BOZULMASINA …
 
 ## Yargıtay HGK 2015/2685 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/329636600)
 
 Davacı, davalı arsa sahibi ... ile davalı yüklenici Yoral Ltd. Şti. arasında düzenlenen arsa payı karşılığı inşaat sözleşmesi uyarınca, yükleniciye bırakılması kararlaştırılan 2 parsel sayılı taşınmazda inşa edilen 10 no'lu bağımsız bölümü yükleniciden harici satış sözleşmesiyle temlik aldığını ileri sürerek bağımsız bölümün tapu kaydının iptali ile adına tesciline karar verilmesini istemiştir.
 
@@ -121,6 +129,8 @@ Yapılan bu genel açıklamalardan sonra, somut olaya gelince; davacı, davalı 
 SONUÇ: Davacı vekili ile davalı ... Ltd.Şti. vekilinin temyiz itirazlarının kabulü ile, direnme kararının yukarıda gösterilen değişik gerekçe ve nedenlerden dolayı BOZULMASINA …
 
 ## Yargıtay HGK 2005/73 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/76588700)
 
 Davacılar, arsa maliki ile yüklenici Seyit Bilge arasında düzenlenen eser sözleşmesi uyarınca yükleniciye bırakılan 14(11) numaralı bağımsız bölümü 25.07.1998 tarihli satış protokolü ile aldıklarını, bedelini ödediklerini taşınmazın kat karşılığı inşaat sözleşmesinin düzenlenmesinden sonra yüklenici ve arsa maliklerinin oluşturduğu kooperatife devredildiğini binanın tamamlanmasından sonra ise tasfiye halindeki kooperatif yetkililerince 14 numaralı bağımsız bölümün F.E.e 250 milyon TL’ye satıldığını, arsa maliki ve eser sözleşmesinin tarafı olan F. E.'in bu bağımsız bölümün kendilerine ait olduğunu bildiğini ileri sürerek tapu kaydının iptali ile paylı olarak adlarına tescilini, tescil isteği kabul edilmediği takdirde ödemiş oldukları 57.237. DM.nin dövize uygulanacak yasal faizi ile birlikte davalılardan alınması isteğinde bulunmuşlardır.
 
@@ -215,6 +225,8 @@ Temyiz olunan Mahkeme kararının BOZULMASINA …
 
 ## Yargıtay 6. HD 2025/4354 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1199462000)
+
 Davalı vekili, cevap dilekçesinde özetle, sözleşme uyarınca dairelerin tamamının anahtar teslimi olarak bitirilmesi gerektiğini, ancak yüklenicinin edimini tam olarak yerine getirmeyerek 3 daireyi inşaat halinde teslim ettiğini, eksik ve kusurlu işler bulunduğunu, tapudaki bağımsız bölüm numaraları ile kapı numaralarının birbirinden farklı olduğunu belirterek davanın reddini savunmuştur.
 
 …
@@ -232,6 +244,8 @@ Yukarıda açıklanan nedenlerle taraf vekillerinin temyiz itirazlarının kabul
 
 ## Yargıtay 6. HD 2025/4344 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1199336200)
+
 Bir önceki bentlerde belirtilen şekilde asıl ve birleşen davalarda davacı arsa sahiplerinin sözleşme uyarınca adlarına tescili gereken bağımsız bölüm sayısının kısmen ya da hiç karşılanamadığı takdirde davalı yükleniciden en son bağımsız bölüm satın alan üçüncü kişiden başlanarak geriye doğru satışlar dikkate alınarak davacı arsa sahiplerinin sözleşme uyarınca almaları gereken bağımsız bölüm sayısının tamamlanması için tapu iptal ve tescile karar verilmesi gerekir.
 
 …
@@ -239,6 +253,8 @@ Bir önceki bentlerde belirtilen şekilde asıl ve birleşen davalarda davacı a
 Temyiz olunan Bölge Adliye Mahkemesi kararının BOZULMASINA …
 
 ## Yargıtay 6. HD 2025/3872 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1193665800)
 
 Davacı vekili dava dilekçesinde; davacının davalı yüklenici ... İnşaat Şirketi'nden alacaklı olduğunu ve takip başlattığını, ancak borçlunun yeterli malı olmadığını, davalı yüklenici ile diğer davalı arsa sahipleri arasında arsa payı karşılığı inşaat sözleşmesi olduğunu, davalı yüklenicinin edimlerini yerine getirmesine rağmen mal kaçırmak amacı ile kendisine düşen bağımsız bölümleri tapuda tescil ettirmediğini ileri sürerek yükleniciye isabet eden 20... numaralı parsellerdeki, 2-4-6-8 ve 10 numaralı bağımsız bölümlerin tapu iptali ve tesciline mümkün olmadığı takdirde iş bedelinin arsa sahibi davalılardan tahsiline karar verilmesini talep ve dava etmiştir.
 
@@ -257,6 +273,8 @@ Davalı ... ve ... vekili, davalıların arsa sahipleri olduklarını, diğer da
 Somut olayda, davacı, davalı yükleniciden alacağını tahsil için icra takibi başlattığını, haczedilecek mal bulunamadığından alacağını tahsil edemediğini bu nedenle davalı yüklenici ile arsa sahipleri arasındaki arsa payı karşılığı inşaat sözleşmesine konu ve sözleşme gereğince yüklenicinin hak ettiği 2,4,6,8 ve 10 no.lu bağımsız bölümlerin, arsa sahipleri adına olan tapularının İİK’nın 94. maddesi gereğince iptali ile yüklenici adına tesciline karar verilmesini talep etmiştir. İlk Derece Mahkemesi davanın reddine karar vermiş …
 
 ## Yargıtay 6. HD 2025/3806 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1192394000)
 
 Davacı vekili dava dilekçesinde; müvekkilinin, müşterek malik olduğu bir taşınmaz için davalı yüklenici ... ile 11.01.2018 tarihinde arsa payı karşılığı inşaat sözleşmesi düzenlediklerini, ayrıca bu sözleşmeye göre inşa edilecek binadan, yükleniciye düşen 3. kat 14 nolu bağımsız bölümü de 15.04.2018 tarihli harici satım sözleşmesi ile yükleniciden satın aldığını ve bedelini ödediğini, davalı yüklenicinin inşaatı bitirip daireyi teslim etmesine rağmen tapusunu devretmediğini, tapuyu muvazaalı olarak diğer davalı ...'a devrettiğini ileri sürerek, dava konusu bağımsız bölümün tapu kaydının iptali ile davacı adına tesciline, bu talebin kabul edilmemesi halinde bağımsız bölümün bedeli yönünden 10.000,00 TL'nin davalılardan tahsiline karar verilmesini talep ve dava etmiştir.
 

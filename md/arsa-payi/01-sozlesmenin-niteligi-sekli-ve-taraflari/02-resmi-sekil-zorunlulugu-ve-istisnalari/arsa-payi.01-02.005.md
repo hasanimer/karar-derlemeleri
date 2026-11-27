@@ -22,6 +22,8 @@ uyari: "Derleyenin seçtiği alıntılardır; kararın tamamı değildir. Künye
 
 ## Yargıtay 23. HD 2019/3510 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/539411800)
+
 Arsa payı karşılığı inşaat sözleşmeleri resmi şekilde yapılmadıkça geçerli olmaz, ek sözleşmeler de aynı usule tabidir. Somut olayda davacı arsa sahipleriyle davalı kooperatif arasında imzalanan 21.08.2000 tarihli protokol ek sözleşme niteliğinde olduğundan ve taraflara ek yükümlülükler getirdiğinden ancak resmi şekilde yapılmadığından geçersizdir. Bu nedenle esas sözleşmede olmayıp bu sözleşmeyle kararlaştırılan imalatları yüklenici yapmak zorunda değildir. Mahkemece gereksiz ek sözleşme ile kararlaştırılan işlerin eksikliğinden bahisle yüklenici aleyhine hüküm kurulması doğru görülmemiştir.
 
 …
@@ -29,6 +31,8 @@ Arsa payı karşılığı inşaat sözleşmeleri resmi şekilde yapılmadıkça 
 SONUÇ: Yukarıda (1) ve (2) numaralı bentte açıklanan nedenlerle davalı kooperatif vekilinin temyiz itirazlarının kabulü ile hükmün davalı yararına BOZULMASINA …
 
 ## Yargıtay 15. HD 2019/2836 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/514924700)
 
 Davacı M.. B.. ile davalı H.. Ç..
 
@@ -52,6 +56,8 @@ SONUÇ: Yukarıda açıklanan nedenlerle davacının karar düzeltme taleplerini
 
 ## Yargıtay 14. HD 2019/2835 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/524999600)
+
 Dava, önalım hakkına dayalı tapu iptali ve tescil isteğine ilişkindir.
 
 …
@@ -72,12 +78,16 @@ SONUÇ: Yukarıda açıklanan nedenlerle davalı vekilinin temyiz itirazlarını
 
 ## Yargıtay 15. HD 2019/2084 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/503456900)
+
 Nama ifaya izin ve giderim bedellerini karşılamak için satışa izin ve yetki verilmesi davalarında, nama ifa giderlerini karşılamak üzere satışına izin verilecek bağımsız bölüm, bölümler, parsel ya da arsa payının aleyhine nama ifa talep edilen yüklenici adına kayıtlı ya da, arsa payı karşılığı inşaat yapım sözleşmesi gereğince yükleniciye devredileceği kararlaştırılan ve hakettiği bağımsız bölüm-bölümler, parsel ya da arsa payı olmalıdır. Arsa sahipleri ile yüklenici arasında 30.04.2002 gün 9918 yevmiye nolu düzenleme şeklinde kat karşılığı inşaat sözleşmesine ek olarak,... 20. Noterliği'nde imzaladıkları 29.09.2005 gün 26410 yevmiye nolu düzenleme şeklinde düzeltme beyannamesinin 3. maddesi ile sözleşme konusu parsellerden ... ilçesi ...mahallesi 879 ada 1 parselin davalı yükleniciye bırakıldığı kararlaştırılmış olmakla birlikte, dava devam ederken bu parselin tamamı davacı arsa sahiplerince 28.02.2012 tarihinde tapuda ...'a satılarak devredilmiş olup, onun üzerinde kayıtlıdır.
 Yüklenici tarafından bu parselle ilgili tapu kaydının iptâli ve tescil davası açılarak arsa sahipleri ya da yüklenici adına kayıt düzeltilmediğine göre yükleniciye ait olmayan parselin satılarak nama ifaya izin suretiyle eksik ve kusurlu işlerin giderim bedelini karşılamak üzere harcanması ve bu şekilde kurulan hükmün infazı mümkün değildir.
 Varsa yüklenici adına kayıtlı sözleşme gereği devredilen bağımsız bölüm veya parseller ile hakettiği halde arsa sahiplerince kendisine devredilmeyen parsel ve bağımsız bölümlerin tesbit ile nama ifa suretiyle yapılmasına izin verilecek eksik ve kusurlu iş ve imalâtların giderim bedelini karşılayacak kadarının satışına izin verilmesi gerekir.Bu durumda mahkemece yapılması gereken iş ... dava devam ederken HMK'nın 125/2. maddesine göre devraldığı parsel ve bağımsız bölümlerle ilgili arsa sahipleri yerine geçerek davacı sıfatını kazandığından vekiline 2. karar ve bozma ilamı tebliğ edilip taraf teşkili sağlandıktan sonra hükme esas alınan raporu düzenleyen bilirkişi kurulundan devralan davacı ...'ın arsa sahiplerine ait olup, devraldığı bağımsız bölümler ve ortak alanlarla ilgili nama ifa suretiyle isteyebileceği eksik ve kusurlar ile giderim bedelleri konusunda, ilk karara karşı harcını tamamlayarak temyiz yoluna başvurmaması ve onama kararına karşı karar düzeltme talebinde bulunmaması sebebiyle yapı kullanma izin belgesi giderleri, sigorta primleri ve vergi borçları dışında gerekçeli ve denetime elverişli ek rapor alınıp 879 ada 1 parsel, yüklenici adına tapuda kayıtlı olmadığından
 kat karşılığı inşaat sözleşmesi gereği yükleniciye devredilip halen onun adına kayıtlı olan ya da hakettiği halde arsa sahiplerince yükleniciye devredilmeyen parsel ya da bağımsız bölümler varsa bunların değerlerinin keşif yapılarak alınacak bilirkişi raporu ile tesbit ettirildikten sonra davacı arsa sahipleri ve devralan davacı ...'ın nama ifa yapmalarına izin verilen eksik ve kusurlu işler ile yapacakları harcamaların nelerden ibaret olduğu ve bunların yapılması için tahsili gereken avans niteliğinde miktarlar gösterilerek nama ifaya izin verilmesi ve yükleniciye ait ya da hakettiği halde arsa sahipleri üzerinde bulunan parsel veya bağımsız bölüm-bölümlerin giderleri karşılayacak kadarının satışına izin ve yetki verilmesinden ibaret olmalıdır.Mahkemece bu hususlar üzerinde durulmadan eksik inceleme ve yanılgılı değerlendirme ile yazılı şekilde hüküm tesisi doğru olmamış, kararın bozulması uygun bulunmuştur.SONUÇ: Yukarıda 1. bentte açıklanan nedenlerle davacı arsa sahipleri ... ve ... ile davalı yüklenici kooperatifin diğer temyiz itirazlarının reddine, 2.
 
 ## Yargıtay 13. HD 2019/1736 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/499935500)
 
 Davacı ... 3017 ada 2 parselde davalılardan ... adına kayıtlı arsa üzerinde müteahhit ... tarafından inşa edilen binanın 5. Kat 9 nolu dairesini ...
 
@@ -93,6 +103,8 @@ Hal böyle olunca, mahkemenin bu yönü gözardı ederek yazılı şekilde hük�
 SONUÇ: Yukarıda açıklanan nedenlerle davalı ... vekilinin Karar Düzeltme talebinin kabulü ile, 06.04.2017 tarih ve 2015/40646 - 2017/4103 sayılı ilamının kaldırılmasına ve mahkeme kararının davalı ... yararına BOZULMASINA …
 
 ## Yargıtay 14. HD 2019/1694 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/492586600)
 
 Dava, yüklenici davalıdan (aynı zamanda yapsatçı) temlik alınan kişisel hakka dayalı tapu iptali ve tescil istemine ilişkindir.
 
@@ -116,9 +128,13 @@ SONUÇ: Yukarıda açıklanan nedenlerle davacı vekilinin temyiz itirazlarını
 
 ## Yargıtay 15. HD 2019/1422 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/502479000)
+
 Asıl ve birleşen 2013/613 Esas ve 2014/411 Esas sayılı dosyalar davacısı arsa sahipleri ... ve ... yüklenici davalı ... arasında noterde düzenlenen 28.12.2006 gün ve 37731 yevmiye numaralı "Düzenleme Şeklinde Gayrimenkul Satış Vaadi ve Kat Karşılığı İnşaat Sözleşmesi"'nin 10. maddesinde "Müteahit ..., bu sözleşme ile üstlendiği inşaatı yapma ve teslim etme görevini ve sözleşmeden doğan tüm hak ve hukukuki yükümlülüklerini arsa sahiplerinin yazılı izni olmadan 3. kişi ve kuruluşlara devir ve temlik edemez." hükmüne yer verilerek yükleniciye sözleşmeyi devir yasağı konulmuş ise de, aynı maddenin son cümlesinde yüklenici ...'in kendisinin de ortağı olacağı ve inşaat tamamlanana kadar içinde bulunması şartıyla …
 
 ## Yargıtay 15. HD 2019/1138 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/489962100)
 
 Türk Medeni Kanunu'nun 692. maddesi hükmünce paylı malın özgülendiği amacın değiştirilmesi, korumanın veya olağan şekilde kullanmanın gerekli kıldığı ölçüyü aşan yapı işlerine girişilmesi veya paylı malın tamamı üzerinde tasarruf işlemlerinin yapılması, oybirliği ile aksi kararlaştırılmış olmadıkça, bütün paydaşların kabulüne bağlıdır. Paylı mülkiyet şeklinde malik olunan taşınmaz üzerinde arsa payı karşılığı inşaat yapılması da olağan şekilde kullanmanın gerekli kıldığı ölçüyü aşan yapı işlerinden olduğu ve aksi de kararlaştırılmadığından bütün paydaşların kabulüne bağlıdır.
 Asıl ve birleşen dava davacıları ve diğer bir kısım arsa sahipleri ile yüklenici şirket arasında düzenleme şeklinde gayrimenkul satış vaadi ve kat karşılığı inşaat yapım sözleşmeleri düzenlenmiş ise de tüm paydan arsa sahipleri ile yapılmış sözleşmeler bulunmadığı gibi diğer arsa sahipleri imzalanan sözleşmelere katılmadıklarından sözleşmeler düzenledikleri tarih itibariyle geçersiz ise de; asıl ve birleşen dava davacıları ve dava dışı sözleşme imzalayan bir kısım arsa sahiplerinin yüklenici şirket yetkilisi ve avukatına verdikleri ortaklığın giderilmesi davası açma yetkisini de içeren genel vekâletnameye dayanarak açılan ortaklığın giderilmesi davası sonucunda ortaklığın satış yoluyla giderilmesine dair kararın infazı üzerine sözleşme imzalamayan ve katılmayan dava dışı arsa sahiplerinin payları kalmadığından kat karşılığı inşaat yapım sözleşmeleri tüm arsa sahipleri ile yapılmış duruma ve bunun sonucu geçerli hale gelmiştir.
@@ -129,6 +145,8 @@ Ancak izaleyi şuyu satış memurluğunun yaptığı ihale yolu ile satış sonu
 SONUÇ: Yukarıda 1. bentte açıklanan nedenlerle asıl ve birleşen dosya davacıları ile ... mirasçılarının diğer karar düzeltme taleplerinin reddine, 2. bent uyarınca kabulü ile Yargıtay 23. Hukuk Dairesi'nin 01.06.2017 gün 2016/2537 Esas 2017/1641 Karar sayılı onama ilamının yüklenici şirket yönünden kaldırılarak hükmün asıl ve birleşen dosya davacıları ve ... mirasçıları yararına BOZULMASINA …
 
 ## Yargıtay 15. HD 2019/1111 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/487708000)
 
 Davacı arsa sahibi vekili 13.05.2003 tarihli beyan dilekçesinin 1. maddesinde mutfak dolaplarının davalı tarafından yaptırıldığı, ancak tüm eksikliklerin müvekkil tarafından yaptırıldığını beyan etmiştir. Mutfak dolaplarındaki eksilerin arsa sahibince tamamlandığını ileri sürmesine rağmen bunu kanıtlayacak yasal deliller sunmamıştır. Bilirkişi raporlarında saptanan eksik imalâtlar arasındaki asansörün davalı yüklenici tarafından tamamlandığına dair davacının söz konusu dilekçede beyanı olmayıp aksine asansörün davacı tarafça yaptırıldığına dair beyanı vardır.
 
@@ -145,6 +163,8 @@ SONUÇ: Yukarıda 1. bentte açıklanan nedenlerle asıl ve birleşen dosya dava
 
 ## Yargıtay 15. HD 2019/991 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/491545400)
+
 Dava, kat karşılığı inşaat ve satış vaadi sözleşmesinden kaynaklanan tapu iptâli ve tescil istemine ilişkin olup.
 
 …
@@ -158,6 +178,8 @@ SONUÇ: Yukarıda 1. bentte açıklanan nedenlerle tarafların diğer temyiz iti
 
 ## Yargıtay 15. HD 2019/686 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/479668300)
+
 Adi yazılı olup imzalandığı tarihte yürürlükte bulunan 818 sayılı BK'nın 213, TMK'nın 706, Tapu Kanunu'nun 26 ve Noterlik Kanunu'nun 60. maddesine göre noterlikçe düzenleme şeklinde yapılmamış olması sebebiyle geçersiz olmakla birlikte, ifa ile sonuçlandığı gibi tapuda pay devri yapılmış olması sebebiple geçersiz olduğunun ileri sürülmesi hakkın kötüye kullanımı sayılacak olan 14.10.2009 tarihli kat karşılığı inşaat yapım sözleşmesi dava dışı arsa sahipleri ile davalı kooperatifler arasında imzalanmıştır.
 
 …
@@ -165,6 +187,8 @@ Adi yazılı olup imzalandığı tarihte yürürlükte bulunan 818 sayılı BK'n
 SONUÇ: Yukarıda açıklanan nedenlerle temyiz itirazlarının kabulü ile hükmün temyiz eden davalı ... Başkanlığı yararına BOZULMASINA …
 
 ## Yargıtay 15. HD 2019/386 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/479042000)
 
 Dava, eser sözleşmesinin bir türü olan kat karşılığı inşaat sözleşmesinden kaynaklanan fazla ödenen bedelin iadesi talebine ilişkindir.
 
@@ -182,6 +206,8 @@ SONUÇ: Yukarıda açıklanan nedenlerle temyiz olunan hükmün taraflar yararı
 
 ## Yargıtay 15. HD 2019/373 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/478885600)
+
 Öte yandan 11.05.2007 gün 15234 yevmiye nolu düzenleme şeklinde kat karşılığı inşaat sözleşmesinin yapılacak iş ve işin konusu başlıklı 1. maddesinde iş mülkiyeti arsa sahiplerine ait olan ve aşağıda ayrıntılı bilgileri bulunan 2 adet 10 kütle parsellerde konut yapım işidir. Daireler 4 daire üzerinde yapılacaktır, denildikten sonra sözleşmeye konu parseller 931 ada 3 ve 941 ada 1 parsel olarak gösterilmiştir. Sözleşmenin 2. maddesinde de arsa sahiplerine verilecek dairelerin 931 ada 3 parselde zemin kat hariç 1. kattan başlamak üzere 28 daire olduğu kararlaştırılmış, sözleşmenin 2-a maddesinde geri kalan dairelerin yükleniciye ait olacağı kabul edilmiştir. Noterde düzenleme şeklinde yapılan sözleşme ve sözleşmenin arsa sahiplerinin kurduğu şirkete devrine ilişkin 21.11.2011 tarihli ek sözleşmede 931 ada 3 ve 941 ada 1 parselde yapılacak dükkan ile ilgili hiçbir bir düzenleme bulunmamaktadır. Getirtilen tapu kaydına göre 931 ada 3 parsel 49 numaralı zemin kattaki bağımsız bölüm daire olmayıp depolu fırın (dükkan) olarak arsa sahibi şirket adına tescilli olduğu anlaşılmaktadır.
 
 Asıl ve ek arsa payı karşılığı inşaat yapım ve devir sözleşmelerinde iki blokta yapılacak inşaatların konut yapımına ilişkin olduğu, her katta dört daire yapılacağı, dairelerin ne şekilde inşaa edileceği ve gecikme halinde uygulanacak cezai şart ile ilgili düzenlemeler bulunmakla birlikte, 931 ada 3 parselin zemin katında depolu fırın yapılacağına dair düzenleme olmayıp bu parselde zeminde yapılması kararlaştırılan daire ya da daireler dışında depolu fırın yapıldığı anlaşılmaktadır. Zemin katta daire olarak yapılması düşünülen bağımsız bölümün ya da bölümlerin proje ve inşaat sırasında depolu fırın olarak yapılmış olması, iş değişikliği veya fazla imalât niteliğinde olup bunun paylaşım oranına ve depolu fırından arsa sahibinin pay alıp almayacağına dair sözleşme ve ek sözleşmede bir hüküm bulunmamaktadır. Dairemiz uygulamalarında ve içtihatlarında yapılan ilave bağımsız bölüm ile daire yerine dükkan yapılmasına arsa sahibinin bilgisi olup engel olmamak suretiyle icazet vermiş sayıldığı …
@@ -192,6 +218,8 @@ SONUÇ: Yukarıda 1. bentte açıklanan nedenlerle davalı-birleşen dosya davac
 
 ## Yargıtay 15. HD 2018/4917 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/464209100)
+
 …
 
 ... 5. Noterliği'nin 02.03.2016 gün 1396 yevmiye nolu Düzenleme Şeklinde Taşınmaz Satış Vaadi ve Arsa Payı Karşılığı İnşaat Yapım Sözleşmesi arsa sahiplerinden davacı ... ve yüklenici şirket arasında imzalanmıştır. Getirtilen tapu kaydına göre sözleşme konusu ... ilçesi ...2684 ada 2 parsel sayılı taşınmazda davacı dışında ... adında 3 tane daha paydaş olup bunlar arasında paylı mülkiyet şeklinde kayıtlıdır. Türk Medeni Kanunu'nun 692. maddesi hükmünce paylı malın özgülendiği amacın değiştirilmesi; korumanın veya olağan şekilde kullanmanın gerekli kıldığı ölçüyü aşan yapı işlerine girişilmesi veya paylı malın tamamı üzerinde tasarruf işlemlerinin yapılması oybirliğiyle aksi kararlaştırılmış olmadıkça bütün paydaşların kabulüne bağlıdır. Bu maddede yapılan düzenleme emredici bir hüküm olup yargılamanın her aşamasında görevi gereği mahkemeler ve Yargıtay tarafından da gözetilir. Kanunda öngörülen dışında söz konusu işlerin yapılması konusunda paydaşlarca oybirliğiyle yapılan bir anlaşma bulunmamaktadır.
@@ -201,6 +229,8 @@ SONUÇ: Yukarıda 1. bentte açıklanan nedenlerle davalı-birleşen dosya davac
 SONUÇ: Yukarıda açıklanan nedenlerle ... Bölge Adliye Mahkemesi 14. Hukuk Dairesinin 14.05.2018 tarih 2018/623 Esas 2018/572 Karar sayılı istinaf başvurusunun esastan reddine dair kararının kaldırılarak yerel mahkeme hükmünün davacı yararına BOZULMASINA …
 
 ## Yargıtay 23. HD 2018/3783 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/430756400)
 
 Davacılar vekili, bir kısım arsa sahipleriyle davalı arsa payı karşılığı inşaat sözleşmesi imzalandığını, sözleşme uyarınca müvekkili muris ..... mirasçılarının hissesine dairenin ve davacıların hissesine dükkanların sözleşme uyarınca verilmesi gereken %... tapu kaydının verilmediği ileri sürülmüş ve ........2014 tarihli ıslah dilekçesiyle, müvekkilleri ..., Yakup, ..., ..., ...., ...'ya verilmeyen bir daire bedeli olarak 132.000 TL ve tüm davacılara verilmesi gereken dükkan payına ilişkin olarak paylarına karşılık gelen 135.231,00 TLnin müvekkillerine ödenmesini talep etmiştir.
 
@@ -218,6 +248,8 @@ SONUÇ: Yukarıda (...) numaralı bentte açıklanan nedenlerle, davalı vekilin
 
 ## Yargıtay 23. HD 2018/3646 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/430651200)
+
 Mahkemece iddia, savunma ve tüm dosya kapsamına göre, davacının dava konusu taşınmazdaki hissesini .../03/2009 tarih ... yevmiye No.lu satış işlemi ile davalılardan ... ile ... Yapı İnşaat Ltd.
 
 …
@@ -234,6 +266,8 @@ SONUÇ: Yukarıda açıklanan nedenlerle, davacı vekilinin temyiz itirazların�
 
 ## Yargıtay 15. HD 2018/3056 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/432589900)
+
 Yüklenici kooperatifin 16.06.2007 tarihinde yapılan 2016 yılı olağın genel kurul toplantı tutanağının gündem başlıklı bölümünün 5. maddesi 2. paragrafında öneri üzerine arsa sahiplerine verilecek 5885 ada 13 parseldeki B blok zemin kat kuzey dairenin verilmesine yönetim kurulu yetkili kılınmış ise de, genel kurulca verilen bu yetkiden sonra 5885 ada 13 parseldeki B blok zemin kat kuzey dairenin arsa sahiplerine bağış, satış gibi nedenlerle devri ile ilgili tapuda herhangi bir resmi işlem yapılmamış, satış vaadi sözleşmesi düzenlenmemiştir. Bunların dışında tüm arsa sahipleri ile yüklenici arasında arsa payı karşılığı inşaat sözleşmesi'nin B blok 2 nolu bağımsız bölüm yönünden değiştirilmesine yönelik noterde tadil sözleşmesi de düzenlenip imzalanmamıştır.
 
 Söz konusu genel kurul kararında bahsedilen bağımsız bölüm tapuda kayıtlı olup genel kurul kararının alındığı tarihte yürürlükte 818 sayılı Borçlar Kanunu'nun 213, Türk Medeni Kanunu'nun 706, Tapu Kanunu'nun 26 ve Noterlik Kanunu'nun 60. maddeleri uyarınca tapulu taşınmazların devri ya da devrinin taahhüdünün resmi şekilde yapılması zorunlu olup, resmi şekilde yapılmadığından geçersiz olduğu gibi alınan bu kararın kat karşılığı inşaat yapım sözleşmesindeki paylaşımın değiştirilmesi işlemi olduğu kabul edilse dahi, yüklenici kooperatif bu işlemle kendisi ve üyelerinin durumunu ağırlaştıracak bir işlem yapmış olacağından, tadil sözleşmesinin de 818 sayılı Borçlar Kanunu'nun 12. maddesi gereğince resmi şekilde yapılması zorunlu olduğu ve resmi şekilde yapılmadığından geçersizdir.
@@ -243,6 +277,8 @@ Söz konusu genel kurul kararında bahsedilen bağımsız bölüm tapuda kayıtl
 SONUÇ: Yukarıda 1. bentte açıklanan nedenlerle arsa sahipleri ..., ..., ..., ..., ... ve ...'nın tüm, yüklenici kooperatifin diğer temyiz itirazları reddine, 2. bent uyarınca kabulü ile hükmün birleşen 2009/470 Esas sayılı dosya davalısı asıl ve diğer birleşen dosyalar davacısı kooperatif yararına BOZULMASINA …
 
 ## Yargıtay 23. HD 2018/2929 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/421659800)
 
 Davacılar vekili, taraflar arasında imzalanan kat karşılığı inşaat yapım sözleşmesi hükümlerince davalının 4 Parsel üzerine bina inşa ettiğini, davacılara isabet eden taşınmaz tapusunu devretmediği gibi 2 Parsel sayılı taşınmaz üzerine ise sözleşmeden itibaren 7 yıldan fazla zaman geçmesine rağmen hiçbir inşaat yapmadığını ileri sürerek, dava konusu 2 ve 4 nolu Parsel numarada kayıtlı taşınmazların davalı adına olan tapusunun iptali ile davacılar adına önceki payları oranında tapuya kayıt ve tesciline karar verilmesini talep ve dava etmiştir.
 

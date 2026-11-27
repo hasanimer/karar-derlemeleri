@@ -26,8 +26,12 @@ bozulmasına karar verilmiştir.
 
 ## Yargıtay 6. HD 2026/32 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1206986800)
+
 Ani edimli sözleşmenin kural olarak geriye etkili feshi ve tasfiyesi mümkündür. Geriye etkili fesihte sözleşmenin tarafları verdiklerini sebepsiz zenginleşme kurallarına göre geri isteyebilirler.
 
 ## Yargıtay 6. HD 2025/857 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1144870700)
 
 Davacı yüklenici yargılama sırasında verdiği dilekçelerde ve temyiz dilekçesinde, mimari projeler için 1.500.000,00 TL masraf yaptığını, dava konusu taşınmazlara ait emlak vergilerini davalı arsa sahibi kooperatif adına dava dışı belediyeye ödediğini ileri sürmüştür. Yüklenicinin proje için yaptığı giderlerin ve emlak vergisi ödemelerine ilişkin isteminin sebepsiz zenginleşme hükümlerince menfi zarar kapsamında değerlendirilmesi gerekir. Bu durumda da, arsa sahibinin faydasına olması ve arsa sahibinin projelerden yararlandığının belirlenmesi halinde, yüklenicinin fesih tarihine kadar yaptığı projelerin giderlerinin ve davacı yüklenicinin davalı adına ödediğini iddia ettiği emlak vergilerinin ve ayrıca -varsa- davalı arsa sahibinin yararına olacak diğer masrafların asıl dava kapsamında hüküm altına alınması gerekir.

@@ -41,6 +41,8 @@ Direnme kararının Özel Daire bozma kararında belirtilen ve yukarıda açıkl
 
 ## Yargıtay HGK 2022/1399 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/847922600)
+
 Davalı muris ... vekili cevap dilekçesinde; taraflar arasında imzalanan sözleşmeler gereğince paylaşımın %32 oranında müvekkiline, %68 oranında ise kooperatife ait olmak üzere belirlendiğini, ayrıca A bloğun zemin katındaki dükkânların müvekkiline verilmesi gerektiğini, ancak kooperatifin fazla daire alabilmek için inşaatlardaki kat sayısını yükselttiğini, müvekkiline teslim etmesi gereken dükkânların teslim edilmediğini, hâlen iskânın alınmadığını belirterek davanın reddini savunmuştur.
 
 …
@@ -58,6 +60,8 @@ Bu sözleşmenin imzalanmasından sonra davacı kooperatif ile davalıların mur
 Davalı ... dışındaki diğer davalılar vekilinin temyiz itirazlarının kabulü ile direnme kararının Özel Daire bozma kararında gösterilen nedenlerden dolayı 6217 sayılı Kanun’un 30. maddesi ile 6100 sayılı Hukuk Muhakemeleri Kanunu’na eklenen “Geçici Madde 3” atfıyla uygulanmakta olan 1086 sayılı Hukuk Usulü Muhakemeleri Kanunu'nun 429. maddesi gereğince BOZULMASINA …
 
 ## Yargıtay HGK 2020/851 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/638481900)
 
 Davacı 12.06.2012 harç tarihli dava dilekçesinde; davalının 25 pafta 4436 parsel olarak tapuda kayıtlı gayrimenkulünü kat karşılığı inşaat sözleşmesi karşılığında S.S. Hasdeniz Yapı Kooperatifine inşaat yapması için verdiğini, müvekkilinin ise 23.12.1996 tarihinde 23 numaralı üye sıfatıyla kooperatif ortağı olduğunu, davalı arsa sahibi ile müvekkilinin 02.11.1999 tarihinde kendisine noter huzurunda çekilen kura neticesinde isabet eden 8. blok 1 nolu daire ile 2. blok 5 numaralı daireleri karşılıklı takas sözleşmesi imzalayarak takas ettiklerini, bu takas sonucu müvekkilinin ek ödemeler yaptığını, müvekkilinin 1999 tarihinde kaba inşaatı bitmiş vaziyette teslim aldığı dairesine 2002 yılında taşınarak o yıldan beri emlak vergisi, elektrik, su, telefon aboneliği bulunmakta olup borçlarını düzenli olarak ödediğini, davalı ile dava dışı S.S.
 
@@ -83,6 +87,8 @@ Sonuç itibariyle yerel mahkemenin Fethiye 1. Asliye Hukuk Mahkemesinin 2004/686
 
 ## Yargıtay HGK 2019/1421 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/579475600)
+
 Davalı, takas sözleşmesini inkar etmediğini, davacının üyesi bulunduğu yüklenici kooperatif ile arasında kendisinin arsa sahibi sıfatıyla hareket ettiği hukuki ihtilaf olduğunu, kooperatifin inşaatı plan, proje ve sözleşme esaslarına göre bitirmediğini, davacının mensubu olduğu kooperatifin edimini tam ve eksiksiz yerine getirmesi halinde davacının tapusunu vermeye hazır olduğunu, dava dışı kooperatif ile aralarında Fethiye 1. Asliye Hukuk Mahkemesinin 2004/686 Esas sayılı davasının devam ettiğini belirterek davanın reddini savunmuştur.
 
 Mahkemece, davanın kabulüne, 4436 parsel 2. Blok 5 no'lu bağımsız bölümün davalı adına olan tapu kaydının iptaliyle davacı adına tesciline karar verilmiştir.
@@ -100,6 +106,8 @@ Açılan davalarda kat karşılığı inşaat sözleşmesinin feshi yönünde bi
 
 ## Yargıtay HGK 2014/443 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/84021900)
+
 Dava, gecikme tazminatı istemine ilişkindir.
 
 …
@@ -113,6 +121,8 @@ Görüşmeler sırasında; davalı/karşı davacıların arsa maliki olarak dava
 S O N U Ç : Davalı/karşı davacılar vekilinin temyiz itirazlarının kabulü ile, direnme kararının Özel Daire bozma kararında gösterilen nedenlerden dolayı, 6100 Sayılı Hukuk Muhakemeleri Kanununun geçici 3.maddesinin atfı dikkate alınarak HUMK.nun 429.maddesi gereğince usulden BOZULMASINA …
 
 ## Yargıtay HGK 2009/471 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/77000200)
 
 Davalı kooperatif, davalı yüklenici şirketin sözleşmeden kaynaklanan edimlerini yerine getirmediğini, inşaatın mevcut hali ile davacının kooperatiften bir istekte bulunamayacağını, davada görevli mahkemenin de Asliye Ticaret Mahkemesi olduğunu savunarak, davanın reddini dilemiş, diğer davalı ise davaya cevap vermemiştir..
 
@@ -128,6 +138,8 @@ Bu nedenle mahkemece işin esası incelenerek, sonucuna göre karar verilmesi ge
 S O N U Ç : Davacı vekilinin temyiz itirazlarının reddi ile, direnme kararının yukarıda açıklanan nedenlerle ONANMASINA …
 
 ## Yargıtay HGK 2005/589 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/76969500)
 
 Dava dışı şahıslar H. U. ile N. B. ve H.M.İ..' e ait taşınmazlarda yapılacak inşaatlar için yine dava dışı F. O.O..'nun tek imza ile temsile yetkili olduğu ... Ltd. Ştİ. arasında yapılan kat karşılığı inşaat sözleşmeleri gereğince kurulan kooperatif adına yapılacak dairelerin satışı ...Ltd. Şti. tarafindan yapılmaya başlanmıştır. Davacı ile T...Ltd. Şti. arasında 25.2.1998 tarihinde yapılan satış vaadi sözleşmesi ile davacının sahibi olduğu İzmir' deki dairesine karşılık yapılacak kooperatif inşaatından üç dairenin davacıya verilmesi kararlaştırılmıştır. Davacı dairesinin satışı için F.O. O..'nun isteği ile onun akrabası olan F. C. G...’e 25.2.1998 tarihinde vekâletname vermiş, vekil 6.3.1998 tarihli Resmi Satış Sözleşmesi ile davacının dairesini ... Yapı AŞ'ni temsilen F. O. O...na satmıştır. Davacının dairesinin satışı sonrası daire üzerine ... Ltd. Şti'nin Yapı Kredi Bankasına olan borcu nedeniyle ipotek uygulanmıştır. 1998 tarihinde yapılan kooperatif genel kurulundan her üyeden satın aldığı daireye göre onikişer adet değişen miktarlı bonolar alınmış, bonolar şirket sahibi F.O.
 O..'na, onun tarafından da bir kısmı bankalara olan borçların teminatı olarak rehin cirosu ile bankalara teslim edilmiştir. Ancak,inşaatlar kararlaştırılan zamanda başlamayınca 158 ve 159 nolu parsel malikleri 16.10.1997 tarihli Kat Karşılığı İnşaat Sözleşmesini 30.11.1998 tarihinde feshetmişlerdir. Bu arada kooperatif üyelerine bankalara teslim edilen senetlerden dolayı ödeme bildirimleri , gönderilmeye başlanılmıştır. Davalı, dava dışı F.O. O.. tarafından bankalara ve M. İ..' e teslim edilen senetlerin vekâletine sahip olduğu G. G..e temlik edilmesini sağlamıştır. Davalı, F. O. O..'nun temsilcisi olduğu T...Ltd. Şti, H.M. İ.ve G. G..'in vekilidir. Davalı, davacının dairesini T....AŞ'yi temsilen F.O.O..'ndan 17.8.1999 tarihinde ihtiyati haciz ve İİK. 150/c maddesi şerhi ile satın almış, daha sonra da davacıya satış vaadi sözleşmesi ile kooperatif inşaatı yapılacak olan 158 nolu parselin yarı hissesini 10.11.1999 tarihinde Nusret Balcı'dan almıştır. Davalı T....AŞ'yi temsilen F.O. O..'ndan aldığı davacının dairesini kısa süre sonra 24.1 1.1999 tarihinde Y. E. G..'a satmıştır. Dava dışı F.O. O..'nun kooperatifin parasını dolandırmak suçundan İzmir 2.
@@ -151,6 +163,8 @@ Söz konusu taahhütlerden sonra davalı arsa sahibi S.S. ... Konut Yapı Kooper
 
 ## Yargıtay 6. HD 2025/4233 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1198752600)
+
 Davacı vekili dava dilekçesinde; müvekkili ile davalı yüklenici kooperatif arasında düzenlenen 30.05.2005 tarihli arsa payı karşılığı inşaat sözleşmesi ekindeki krokide müvekkiline isabet eden yola cepheli B blok 5 nolu dairenin, sözleşmeye aykırı olarak düzenlenen numaralandırma işlemleri sebebiyle, kura ile B blok 8 nolu daire olarak kooperatif üyesi diğer davalı ... adına tahsis ve tescil edildiğini, müvekkili adına tapuda tescil edilen B blok 5 nolu dairenin ise arsa payı karşılığı inşaat sözleşmesinde belirtilen yola cepheli daire olmadığını, dolayısıyla her iki dairenin tapuda değiştirilemesi gerektiğini ileri sürerek, B blok 8 nolu dairenin müvekkili adına, B blok 5 nolu dairenin ise davalı ... adına tesciline karar verilmesini talep ve dava etmiştir.
 
 …
@@ -171,6 +185,8 @@ karar verilmesi doğru olmamıştır.
 
 ## Yargıtay 6. HD 2025/3863 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1193509800)
+
 Davacı vekili asıl ve birleşen davalarda dava dilekçesinde; davacının İzmir ili, ... ilçesi, ... Mahallesi, ... ada, 1 parselde kayıtlı taşınmazın maliki olduğunu, asıl ve birleşen davalarda davalı olan ..., ..., ...'un ise müvekkili ile dava dışı yüklenici arasında akdedilen arsa payı karşılığı inşaat sözleşmesine dayanarak, davacının rızası olmadan, yükleniciyle yaptıkları temlik işlemi akabinde inşaat vasfındaki daireleri yükleniciden teslim aldıklarını, gerek bizzat gerekse de üçüncü kişilere kiraya vererek halihazırda kullandıklarını, anılan arsa payı karşılığı inşaat sözleşmesinin İzmir 2.
 
 …
@@ -182,6 +198,8 @@ Tarafların iddia, savunma ve dayandıkları belgelere, uyuşmazlığın hukuki 
 (2) numaralı bendinin hükümden çıkarılarak yerine “2- Alınması gereken 72.717,01 TL TL ilam harcından başlangıçta alınan 3.305,23 TL peşin harç ile 21.636,46 TL tamamlama harcı olmak üzere toplam 24.941,69TL harcın mahsubu ile bakiye 47.775,32 TL ilam harcının davalıdan tahsili ile hazineye irat kaydına,"cümlesinin yazılması, yine birleşen İzmir 10. Asliye Hukuk Mahkemesi’nin 2022/141 Esas sayılı dosyasına ilişkin olarak hüküm fıkrasının (2) numaralı fıkrasının hükümden çıkarılarak yerine “2- Alınması gereken 72.717,01 TL ilam harcından başlangıçta alınan 3.305,23 TL peşin harç ile 21.636,46 TL tamamlama harcı olmak üzere toplam 24.941,69 TL harcın mahsubu ile bakiye 47.775,32 TL karar ve ilam harcının davalı ...'dan tahsili ile Hazineye irat kaydına,” cümlesinin yazılması, hüküm fıkrasının "A) Asıl Dava Yönünden" başlıklı kısmının 5. bendinde yer alan “164.840,00 TL” ibaresinin çıkartılarak yerine “133.161,20 TL” ibaresinin, yine birleşen İzmir 10. Asliye Hukuk Mahkemesi’nin 2022/141 Esas sayılı dosyasına ilişkin olarak hüküm fıkrasının 5.bendinde yer alan “164.840,00 TL” ibaresinin çıkartılarak yerine “133.161,20 TL” ibaresinin yazılması suretiyle hükmün DÜZELTİLEREK ONANMASINA …
 
 ## Yargıtay 6. HD 2025/3629 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1184045900)
 
 Davalı ... vekili müvekkilinin kooperatifin kurucu üyelerinden olduğunu, 1996 yılında kooperatifin kuruluşu aşamasında kooperatife girdiğini ve yaklaşık 7 ay sonra da kooperatiften tamamen ayrıldığını, müvekkilinin hiçbir zaman denetçi olmadığını, kooperatifle ilgili hiçbir karar ve tutanakta imzasının bulunmadığını savunarak davanın reddini istemiştir.
 
@@ -198,6 +216,8 @@ Mahkemece, yukarıda açıklandığı şekilde, birleşen 2005/205 E. sayılı d
 İlk Derece Mahkemesi kararının BOZULMASINA …
 
 ## Yargıtay 6. HD 2025/3167 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1184237500)
 
 Mahkemece bozmaya uyularak verilen karar, asıl davada asli müdahil ... vekili, asıl ve birleşen 2010/172 Esas sayılı davalarda davacı Müflis ... Konut Yapı Kooperatifi iflas idaresi vekili, birleşen 2009/117 Esas sayılı davada davacı ...
 

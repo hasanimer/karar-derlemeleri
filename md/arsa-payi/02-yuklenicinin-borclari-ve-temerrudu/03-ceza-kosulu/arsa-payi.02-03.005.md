@@ -22,6 +22,8 @@ uyari: "Derleyenin seçtiği alıntılardır; kararın tamamı değildir. Künye
 
 ## Yargıtay 15. HD 2012/1134 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/491366800)
+
 Tarafların murisleri arasında düzenlenen 10.06.1998 tarihli sözleşmenin 13. maddesinde, inşaatın ruhsat tarihinden itibaren 48 aylık sürede tamamlanacağı, mücbir sebeplerin varlığı halinde 6 ay mühlet verileceği, gecikme halinde daireler için emsal kira bedelinin ödeneceği kararlaştırılmıştır. Davada, sürede teslim edilmeyen daire ve dükkanlar için kira bedeli istenmektedir. BK'nın 96. maddesince, alacaklı hakkını kısmen veya tamamen istifa edemediği taktirde borçlu kendisine hiçbir kusurun isnat edilemeyeceğini ispat etmedikçe bundan mütevellit zararı tazmine mecburdur. Sözleşmeye konu inşaatın sürede tamamlamadığı iddiası ile gecikme tazminatı istenildiğine göre sözleşmede gecikme tazminatına ilişkin düzenleme olmasa dahi yüklenici kusuru nedeniyle gecikme var ise tazminatla sorumludur. Sözleşmede cezai şarttan söz edilmediğinden davada BK'nın 158. maddesi hükmünün uygulama yeri de bulunmamaktadır. Kaldı ki arsa sahibi gecikmeden doğan dükkanlara ilişkin zararını ve cezayı aşan zararını her zaman isteyebilir (BK. 159 md). O halde mahkemece yapılması gereken iş, taraflar arasında görülen ... 2. Asliye Hukuk Mahkemesi'nin 1999/629 Esas 2000/355 Karar, 3.
 Asliye Hukuk Mahkemesi'nin 2006/465 Esas 2007/57 Karar sayılı ilâmları ile 05.07.2001 tarihli ibraname …
 
@@ -30,6 +32,8 @@ Asliye Hukuk Mahkemesi'nin 2006/465 Esas 2007/57 Karar sayılı ilâmları ile 0
 SONUÇ: Yukarıda açıklanan gerekçelerle hükmün temyiz eden davacı Gülümser Gürler yararına BOZULMASINA …
 
 ## Yargıtay 15. HD 2011/8003 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/661211000)
 
 Dava, şahsi hakka dayalı tapu iptâli ve tescil, olmadığı takdirde satış bedelinin iadesi ve cezai şart alacağının tahsili istemlerine ilişkindir.
 
@@ -45,6 +49,8 @@ SONUÇ:Yukarıda 1. bentte açıklanan nedenlerle davacının diğer karar düze
 
 ## Yargıtay 15. HD 2011/4537 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/764735100)
+
 Dava, arsa payı karşılığı inşaat yapım sözleşmelerinin feshi ve sözleşmede kararlaştırılan cezai şart alacağının tahsili ile şerhin terkini istemlerine ilişkindir.
 
 …
@@ -56,6 +62,8 @@ SONUÇ:Yukarıda 1. bentte açıklanan nedenlerle davalıların temyiz itirazlar
 
 ## Yargıtay 15. HD 2011/3076 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/764481100)
+
 Yanlar arasındaki arsa payı karşılığı inşaat sözleşmesinin XIII. maddesi hükmünde, Borçlar Kanunu'nun 158/II. maddesinde tanımlanan “ifaya ekli ceza koşulu” düzenlenmiştir. HUMK'nın 75 ve 76. maddeleri hükümleri ile 04.06.1958 tarih ve 15/6 sayılı Yargıtay İçtihadı Birleştirme Kararı gereğince, maddi olayları açıklama görevi taraflara; maddi olayın nitelendirilmesi ve uygulanması gereken yasa hükümlerinin belirlenerek uygulanması hakime ait bir görevdir.
 
 Dava dilekçesi sözleşme kapsamı ve tarafların açıklamaları birlikte değerlendirildiğinde; yüklenicinin davacıya ait dört adet bağımsız bölümün davacıya tesliminde borçlu temerrüdüne düşmesi sebebiyle arsa payı karşılığı inşaat sözleşmesinin XIII. maddesinde, her bağımsız bölüm için ayrı ayrı aylık 500,00 Euro olarak kararlaştırılan ifaya ekli ceza niteliğindeki alacağın tahsilinin istendiği sonucuna varılmaktadır. O halde; mahkemece, doğru olarak hesaplanan ve davada istenen 20.000,00 Euronun Borçlar Kanunu'nun değişik 83/II. maddesi gereğince ödeme tarihindeki Türk Lirası karşılığının davalıdan tahsiline karar verilmesi gerekirken; hüküm fıkrasında yabancı para tutarı ile Türk Lirası karşılığının gösterilmesi ve yabancı paraya reeskont faizi uygulanması HUMK'nın 388 ve 389. maddeleri hükümlerine aykırı olmuştur. Kararın bu sebeple bozulması gerekirken; mahkemece düşülen bu yanlışlığın düzeltilmesi yeniden yargılamayı gerektirmediğinden HUMK'nın 438/VII. maddesi gereğince kararın düzeltilerek onanması uygun görülmüştür.
@@ -63,6 +71,8 @@ Dava dilekçesi sözleşme kapsamı ve tarafların açıklamaları birlikte değ
 SONUÇ:Yukarıda 1. bentte belirtilen nedenlerle davalı vekilinin sair temyiz itirazlarının reddine, 2. bentte açıklanan sebeplerle kararın hüküm fıkrasının “20.000 Euronun (38.900,00 TL) ödeme tarihindeki en yüksek TL karşılığının dava tarihinden itibaren işleyecek reeskont faiziyle birlikte davalıdan alınarak davacıya verilmesine” içerikli ikinci paragrafının hüküm fıkrasından çıkarılmasına ve yerine “20.000,00 Euronun dava tarihinden itibaren geçerli olmak ve değişen oranlar da gözetilmek suretiyle 3095 sayılı Yasanın 4/a maddesi gereğince Devlet Bankalarının Euro ile açılmış bir yıl vadeli mevduat hesabına ödediği en yüksek faiz oranı uygulanarak ödeme tarihindeki Türk Lirası karşılığının davalıdan alınarak davacıya verilmesine” cümlesinin yazılmasına ve kararın değiştirilmiş bu şekliyle DÜZELTİLEREK ONANMASINA …
 
 ## Yargıtay 15. HD 2010/4549 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/775102000)
 
 Dava, arsa payı karşılığı inşaat yapım sözleşmesinin yüklenici kooperatifin temerrüdü sebebiyle feshi, sözleşme konusu taşınmazların teslimi ve sözleşmede kararlaştırılan maktu cezanın tahsili istemine ilişkindir.
 
@@ -75,6 +85,8 @@ SONUÇ: Yukarıda açıklanan nedenlerle temyiz itirazlarının kabulüyle hükm
 
 ## Yargıtay 15. HD 2010/3165 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/774569000)
+
 Taraflar arasında düzenlenen 16.09.1996 tarihli sözleşmenin 10. maddesinde inşaatın süresinde bitirilememesi halinde arsa sahibine düşen bağımsız bölüm başına aylık 500 DM cezai şartın ödenmesi kararlaştırılmıştır. Kararlaştırılan bu cezai şart Borçlar Kanunu'nun 158/II. maddesi uyarınca ifaya ekli ceza niteliğinde olup, anılan Yasanın 159. maddesince arsa sahibi cezai şart miktarından daha fazla zarara uğradığı takdirde bunu da …
 
 …
@@ -82,6 +94,8 @@ Taraflar arasında düzenlenen 16.09.1996 tarihli sözleşmenin 10. maddesinde i
 SONUÇ: Yukarıda 1. bentte açıklanan nedenlerle tarafların sair temyiz itirazlarının reddine, 2. bent uyarınca kararın taraflar yararına, 3. bent uyarınca yüklenici yararına BOZULMASINA …
 
 ## Yargıtay 15. HD 2010/3090 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/776347200)
 
 Dava, kat karşılığı inşaat sözleşmesi uyarınca cezai şartın tahsili istemine ilişkindir.
 
@@ -94,6 +108,8 @@ SONUÇ: Yukarıda açıklanan nedenlerle, davalı kooperatif vekilinin temyiz it
 
 ## Yargıtay 15. HD 2010/1036 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/775188900)
+
 Davacı vekili, A...Mahallesinde bulunan ve 41932 ada, (7) parsel sayılı tapulu taşınmazın maliki ... ile Altındağ 4. Noterliği’nce doğrudan düzenlenen 12.03.2004 tarih ve 05188 yevmiye numaralı; aynı ada (8) parsel sayılı tapulu taşınmazın maliki davalı ... ile de aynı Noterlikçe doğrudan düzenlenen 11.05.2004 tarih ve 10154 yevmiye numaralı Arsa Payı Karşılığı İnşaat Sözleşmeleri yapıldığını; davacı şirketin yüklenici, davalıların ise arsa sahipleri olduklarını; ancak, davalıların kusurlu olarak sözleşmeden döndüklerini ileri sürerek, 11.05.2004 tarihli sözleşmenin 6. maddesi gereğince, 58.740,00 TL ceza şartı alacağının ve 1.260,00 TL kâr kaybından kaynaklanan maddi tazminatın davalılardan tahsiline karar verilmesini istemiştir.
 
 …
@@ -105,6 +121,8 @@ SONUÇ:Yukarıda (1.) bendde belirtilen nedenlerle davalılar vekillerinin sair 
 
 ## Yargıtay 15. HD 2010/352 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/773301400)
+
 Bilirkişiler tarafından hesaplanan 33.029,16 TL kira kaybı 18.11.2005 ile 18.05.2006 tarihleri arasındaki dönem içindir. Davacılar bu davada 30.07.2005 tarihine kadar istekte bulunduklarına göre, bu tarihten sonraki dönem için hesaplama yapan bilirkişi raporuna dayanılarak kira isteminin kısmen kabulüne karar verilmesi HUMK’nın 74. maddesine aykırı olduğu gibi, yukarıdaki bendde açıklandığı üzere davacıların cezai şartı aşan zararlarının bulunmadığı dikkate alınmaksızın bu istemin kısmen kabulüne karar verilmesi de hatalı olmuştur.
 
 Bilirkişiler tarafından eksik ve kusurlu işlerin giderilme bedelleri 410.855,00 TL olarak hesaplanmıştır. Taraflar arasındaki 21.03.2005 tarihli ek sözleşmenin 3/d maddesindeki iki adet villanın kararlaştırılan tarihte işlerin tamamlanmaması durumunda arsa sahiplerine bırakılacağına dair düzenleme cezai şart niteliğindedir. Ek sözleşmede 23.06.1997 tarihli kat karşılığı inşaat sözleşmesi hükümleri saklı tutulduğuna ve davacılar da ana sözleşmeye dayanarak cezai şart isteminde bulunduklarına göre, ayrıca 21.03.2005 tarihli ek sözleşmeye dayanılarak mükerrer şekilde cezai şart isteminde bulunamazlar. Bu nedenle bilirkişiler tarafından 410.815,00 TL olarak belirlenen eksik ve kusurlu işlerin giderilme bedellerinin tamamının tahsiline karar verilmesi gerekirken, yükleniciye ait iki adet villanın arsa sahiplerine bırakıldığının kabulü ile bu villaların imalât bedelleri düşülmek suretiyle, kalan miktarın eksik ve kusurlu işlerin giderilme bedeli olarak tahsiline karar verilmesi de yanlış olmuştur.
@@ -114,6 +132,8 @@ Bilirkişiler tarafından eksik ve kusurlu işlerin giderilme bedelleri 410.855,
 SONUÇ: Yukarıda 1. bendde belirtilen nedenlerle tarafların sair temyiz itirazlarının reddine, kararın 2. bent uyarınca arsa sahipleri, 3. bent uyarınca yüklenici şirket, 4. bent uyarınca da taraflar yararına BOZULMASINA …
 
 ## Yargıtay 15. HD 2009/4260 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/856457100)
 
 Dava, kat karşılığı inşaat sözleşmesi uyarınca bağımsız bölüm devirleri yapılmadığından sözleşmede kararlaştırılan cezai şartın tahsili istemine ilişkindir.
 
@@ -127,12 +147,16 @@ SONUÇ: Yukarıda açıklanan nedenlerle davalı vekilinin temyiz itirazlarını
 
 ## Yargıtay 15. HD 2009/2189 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/854606200)
+
 Taraflar arasındaki sözleşmenin 9. maddesi uyarınca yüklenici şirketin inşaatı 31.12.2005 tarihine kadar tamamlayarak teslim etmesi, aksi takdirde altı ay süreyle sınırlı olmak üzere arsa sahibine her ay için 2.000 Dolar cezai şartın ödenmesi kararlaştırılmış, davacı arsa sahibi vekilince açılan davada 31.12.2005 tarihinden itibaren sekiz aylık süre için 2.000 Dolar x 8 ay = 16.000 Dolar karşılığı 35.404,00 YTL’nin tahsili istenmiştir. Ancak taraflar arasında düzenlenen 06.11.2006 tarihli ve imzası inkâr edilmeyen “mutabakat” isimli anlaşma ile yetkili olduğu anlaşılan arsa sahibi vekilince yükleniciye 01.01.2007 tarihine kadar eski haklar da saklı tutulmaksızın ilave süre verildiği görülmüştür. Bu durumda arsa sahibince ancak 01.01.2007 tarihinden sonraki dönem için yasal koşullar gerçekleştiği takdirde cezai şart talep edilebilmesi mümkündür. Oysa davadaki talep konusu dönem belirtilen tarihten önceki döneme ilişkin bulunduğundan ve Hakim HUMK 74. maddesi gereğince taleple bağlı olduğundan eldeki davanın reddi gerekir.
 Şu halde değinilen hususlar dikkate alınmaksızın arsa sahibince yüklenici şirkete verilen süre uzatımı gözden kaçırılarak yazılı şekilde karar verilmesi doğru olmamış bozmayı gerektirmiştir.
 
 SONUÇ: Temyiz olunan hükmün yukarıda açıklanan nedenlerle temyiz eden davalılar yararına BOZULMASINA …
 
 ## Yargıtay 15. HD 2009/870 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/853644400)
 
 Yanlar arasındaki 15.05.1996 tarihli kat karşılığı inşaat sözleşmesine göre inşaatın sözleşmenin imzalanmasını müteakip en geç 36 ay zarfında bitirilip teslimi gerekmektedir. Davacı dairesi süresinde teslim edilmediği takdirde sözleşmeye göre her geçen ay için 500 DM cezai şart ödeneceği kabul ve taahhüt edilmiştir. Sözleşme tarihinden itibaren 36 aylık ifa süresi 16.05.1999 tarihinde sona ermekte olup sözleşme dışı işler nedeniyle 5 aylık sürenin de ilâvesiyle teslim tarihi 16.10.1999 iken tapunun kooperatife geç devredilmesi nedeniyle ayrıca 7 aylık sürenin teslim süresine eklenmesi doğru olmamıştır. Sözleşmenin 2. maddesinde en geç 31.05.1996 tarihine kadar tapunun kooperatife devredileceği yazılı ise de kooperatif tarafından tapunun devri talep edilmediğinden ve davacı arsa sahibi tapu devriyle ilgili olarak temerrüde düşürülmediğinden 7 aylık süre sözleşmenin ifa süresine eklenerek teslim tarihinin 16.05.2000 olarak belirlenmesi doğru olmamış, 16.10.1999 tarihinden fiili teslim tarihi olan 30.06.2002 tarihine kadar geçen süre için BK’nın 161/son maddesi de gözetilerek cezai şarta hükmedilmesi yönünden kararın bozulması gerekmiştir.
 
@@ -141,6 +165,8 @@ Yanlar arasındaki 15.05.1996 tarihli kat karşılığı inşaat sözleşmesine 
 SONUÇ:Yukarıda 1. bendde yazılı nedenlerle davalı ve karşı davacı yüklenicinin tüm, davacı ve karşı davalı arsa sahibinin sair temyiz itirazlarının reddine, 2 ve 3. bentlerde açıklanan nedenlerle hükmün temyiz eden davacı ve karşı davalı arsa sahibi yararına BOZULMASINA …
 
 ## Yargıtay 15. HD 2008/6201 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/859331500)
 
 Davacı yüklenici tarafından davalı arsa sahibi aleyhine açılan davada, 11.11.1998 tarihli kat karşılığı inşaat sözleşmesi gereği yükleniciye ait olan bağımsız bölümlerin adına tescili ile sözleşmenin 12. maddesine dayanarak cezai şart talep etmiş, mahkemece davanın kabulüne dair verilen karar davalı arsa sahibi ... tarafından temyiz edilmiştir.
 
@@ -154,6 +180,8 @@ Sözü edilen bu ihtarname içeriğinden davacı yüklenicinin dükkanları söz
 SONUÇ:Yukarıda 1. bentte yazılı nedenlerle davalı ...’nin diğer temyiz itirazlarının reddine, 2. bent uyarınca hükmün temyiz eden davalı ... yararına BOZULMASINA …
 
 ## Yargıtay 15. HD 2008/6079 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/859223100)
 
 Dava, arsa payı karşılığı inşaat yapım sözleşmesi uyarınca cezai şart, gecikme tazminatı ile dairelerin küçük yapılmasından kaynaklanan değer kaybı alacaklarının tahsili istemine ilişkindir.
 
@@ -172,12 +200,16 @@ SONUÇ: Yukarıda (1.) bentte yazılı nedenlerle davalının tüm, davacının 
 
 ## Yargıtay 15. HD 2008/2434 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/856731700)
+
 Davacı ... murisi olan ... ile davalı yüklenici arasında aktedilen 12.03.1992 tarihli Düzenleme Şeklinde Gayrimenkul Satış Vaadi ve Daire Karşılığı İnşaat Mukavelesine göre inşaat 36 aylık süre içinde bitirilip teslim edilmezse arsa sahibine verilecek olan bağımsız bölümler için her geçen ay beher daire başına 2.000.000 TL’yi ödemeyi kooperatif kabul ve taahhüt etmiştir. Arsa sahibine ait bağımsız bölümlerin kararlaştırılan sürede bitirilip teslim edilemediği uyuşmazlık konusu değildir. Gecikme halinde her ay için daire başına 2.000.000 lira ödeneceğini öngören sözleşmenin 24.maddesi hükmü daha önce taraflar arasında görülen ve sonuçlanan ... 2.Asliye Hukuk Mahkemesinin 2003/907 Esas-1253 Karar sayılı dosyasında ceza koşulu olarak nitelendirilmiş ve BK’nın 159/II.maddesi uyarınca cezayı aşan zarar karşılığı bağımsız bölümlerin rayiç kira bedeli üzerinden gecikme tazminatına hükmedilmiş ve karar Daire’mizce onanarak kesinleşmiştir.
 Kesinleşen dava dosyasında sözleşmenin 24.maddesinde kararlaştırılan tazminat ceza koşulu olarak benimsendiğinden ve buna göre kurulan hüküm Daire’mizce onanarak kesinleştiğinden, işbu dava nedeniyle 14.04.2000 tarihinden 26.07.2000 tarihine kadar geçen 3 aylık süre için bilirkişi kurulu raporunda rayiç bedel esasına göre hesaplanan 7.110,00 YTL’nin hüküm altına alınması gerekirken maktu kira bedeli kararlaştırıldığının kabulü suretiyle yazılı şekilde hüküm kurulması doğru olmadığı gibi davacıların eksik imalâtın giderim masrafı adı altında talep ettikleri 994.996.000 TL. yönünden olumlu veya olumsuz bir hüküm kurulmamış olması da doğru görülmemiş, karar bu nedenlerle bozmayı gerektirmiştir.
 
 SONUÇ:Yukarıda 1.bentte yazılı nedenlerle davalının temyiz itirazlarının reddine, 2.bent uyarınca hükmün temyiz eden davacılar yararına BOZULMASINA …
 
 ## Yargıtay 15. HD 2008/1387 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/16756900)
 
 Davacı arsa sahibi 06.12.1996 tarihli Kat Karşılığı İnşaat Sözleşmesine dayanarak noksan ve kusurlu işler bedeli ile gecikme cezasının tahsilini istemiş, mahkemece ıslah talebi de gözetilerek davanın kısmen kabulüne dair verilen karar davalı kooperatif tarafından temyiz edilmiştir.
 
@@ -189,6 +221,8 @@ SONUÇ:Yukarıda 1.bentte yazılı nedenlerle davalının diğer temyiz itirazla
 
 ## Yargıtay 15. HD 2007/7085 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/859576800)
+
 Taraflar arasındaki 23.06.1998 tarihli kat karşılığı ek inşaat sözleşmesi 7344 ada 2 parsel numaralı taşınmaz üzerine yapılacak 10 daireye ilişkindir. Sözkonusu sözleşmenin dördüncü maddesinde belirtilen cezai şart BK’nın 158/II.maddesinde düzenlenen ifaya ekli ceza niteliğindedir. Sözleşmede belirtilen bloktaki 10 adet daire tamamlanıp, davacı arsa sahibi kooperatife teslim edilmemiştir. BK'nın 106.maddesindeki düzenleme dikkate alındığında, teslim sözkonusu olmadığından cezai şart yönünden zamanaşımı henüz başlamamıştır. Sözleşmede kararlaştırılan üç aylık cezayı davacı sözleşmedeki cezalı sürenin sonunda isteyebilir. Ancak bu hakkını o tarihte kullanmak zorunda değildir. Davacı ifayı isteme iradesini sürdürdüğüne ve teslim sözkonusu olmadığına göre zamanaşımının dolduğundan sözedilemez. Bu durumda mahkemece 23.06.1998 tarihli sözleşmede belirtilen cezai şart istemi yönünden davalı tarafın zamanaşımı def'inin reddi ile işin esası incelenip bir karar verilmesi gerekirken 30.09.1999 tarihi zamanaşımına başlangıç yapılarak bu sözleşme yönünden de zamanaşımı nedeniyle davanın reddine karar verilmesi doğru olmamış kararın bozulması gerekmiştir.
 
 SONUÇ:Yukarıda 1.bentte açıklanan nedenlerle davacının sair temyiz itirazlarının reddine, 2.bend uyarınca kararın temyiz eden davacı iş sahibi kooperatif yararına BOZULMASINA
@@ -196,6 +230,8 @@ SONUÇ:Yukarıda 1.bentte açıklanan nedenlerle davacının sair temyiz itirazl
 …
 
 ## Yargıtay 15. HD 2006/6400 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/16215300)
 
 Yanlar arasında imzalanan ve Antalya Birinci Noterliği'nce doğrudan düzenlenen 22.03.2001 tarihli ve 7064 yevmiye nolu "Düzenleme Biçiminde Gayrimenkul Satış Vaadi ve Kat Karşılığı İnşaat Sözleşmesi" gereğince, davalı yüklenici, davacı arsa sahibinin kayden maliki bulunduğu (2) parsel sayılı taşınmazına inşaat yapmayı ve her katta 2 dubleks daire olmak üzere toplam yapılacak 2 dubleks ve 2 tripleks dairelerin 2 ve 3 nolu bağımsız bölümlerini en geç 31.12.2001 tarihinde davacı arsa sahibine teslim etmeyi yüklenmiştir. Aynı sözleşmenin 4. maddesi hükmünde ise, inşaatın belirlenen teslim süresi içinde arsa sahibine teslim edilmemesi halinde, mal sahibi davacıya her bir bağımsız bölümü için gecikilen her ay 500 DM ceza koşulunun yüklenici tarafından ödeneceği kararlaştırılmıştır. Yanlarca kararlaştırılan bu ceza koşulu, BK'nın 158/11. maddesi gereğince "ifaya ekli ceza" niteliğindedir.
 
@@ -206,6 +242,8 @@ Yanlar arasında imzalanan ve Antalya Birinci Noterliği'nce doğrudan düzenlen
 Sonuç: Yukarıda (1.) bentte belirtilen nedenlerle davalının sair temyiz itirazlarının reddine, (2.) bentte açıklanan sebeplerle temyiz olunan kararın davalı yararına (BOZULMASINA)
 
 ## Yargıtay 15. HD 2006/4723 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/860618600)
 
 Yanlar arasındaki 21.05.1993 tarihli sözleşmenin “Taahhüdün yerine getirilmemesi” başlıklı 19. maddesinde “kooperatif iş bu sözleşme ve eklerinden doğan keyfiyetlerini yerine getirmediğinde, inşaatı hiç yapmadığında, yarım bıraktığında veya sözleşme hükümlerine uymadığında yer sahiplerine 5.000.000.000 TL. cezai şart ödemeyi kabul ve taahhüt eder” hükmü yazılıdır. Görülüyor ki,bu maddede de belirlenen ceza, BK.nun 158/I. maddesinde düzenlenen seçimlik cezadır. BK.nun 158/I. maddesi gereğince, aksine sözleşmede hüküm bulunmadığından alacaklı ya akdin icrasını veya cezanın ödetilmesini isteyebilir. Somut olayda davacı arsa sahibi eksik ve kusurlu işler bedelini istemekle sözleşmenin ifasını istemiş olduğundan, ayrıca seçimlik cezayı davalıdan talep edemez. O halde, bu yön gözönünde bulundurulmadan, hakemlerce cezai şarta ilişkin isteğin reddi yerine, yazılı olduğu şekilde bu isteğinde kabulü doğru olmamış, bozmayı gerektirmiştir.
 

@@ -21,6 +21,8 @@ uyari: "Derleyenin seçtiği alıntılardır; kararın tamamı değildir. Künye
 
 ## Yargıtay 5. HD 2025/10997 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1176078900)
+
 Mahkemece bozmaya uyularak yeniden yapılan yargılama sonucunda; davanın kabulüne karar verilmiştir.
 
 …
@@ -40,6 +42,8 @@ Yargıtay (Kapatılan) 20. Hukuk Dairesince yapılan temyiz incelemesi sonucunda
 Davalı ...'ın temyiz itirazlarının kabulü ile temyiz olunan kararın BOZULMASINA …
 
 ## Yargıtay 5. HD 2025/8771 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1171161100)
 
 İlk Derece Mahkemesince bozmaya uyularak yeniden yapılan yargılama sonucunda; davanın kabulüne karar verilmiştir.
 
@@ -61,6 +65,8 @@ Davalılar ... vd. vekilinin yerinde görülmeyen tüm temyiz itirazlarının re
 
 ## Yargıtay 5. HD 2023/8407 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/973338300)
+
 Davacı vekili dava dilekçesinde; ana gayrimenkulde bulunan bağımsız bölümlere, değerleriyle doğru orantılı arsa payı verilmediğini Mahkemece yeni arsa paylarının belirlenerek tapuya tesciline karar verilmesini talep etmiştir.
 
 …
@@ -78,6 +84,8 @@ Davacı vekilinin yerinde bulunmayan temyiz itirazlarının reddiyle usûl ve ka
 
 ## Yargıtay 5. HD 2022/5803 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/757097200)
+
 Davacılar vekili, arsa paylarının yeniden düzenlenmesini istemiştir. Mahkemece davanın kabulüne karar verilmiş, davalı ... vd. vekili kararı temyiz etmiştir.
 
 Dava, bağımsız bölümlere özgülenen arsa paylarının yeniden düzenlenmesi istemine ilişkindir.
@@ -90,6 +98,8 @@ Davalı ... vd. vekilinin temyiz itirazlarının kabulü ile hükmün HUMK’un 
 
 ## Yargıtay 20. HD 2019/1198 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/494553600)
+
 Mahkemece davanın kabulüne karar verilmiş, kararın bir kısım davalılar vekili ve ... tarafından temyizi üzerine Yargıtay 18.
 
 …
@@ -100,6 +110,8 @@ SONUÇ: Yukarıda açıklanan nedenlerle; temyiz itirazlarının kabulü ile hü
 
 ## Yargıtay 20. HD 2019/1056 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/482045100)
+
 Dava, 15 nolu bağımsız bölümün davacılar adına tapuya tescili ve arsa payının yeniden belirlenerek tapuya tescili istemine ilişkindir.
 
 Dosya içerisindeki bilgi ve belgelerin incelenmesinde; davacılardan ... dışındaki diğer davacıların dava konusu ana taşınmazda malik oldukları ve arsa payının düzeltilmesini talep ettikleri anlaşılmakla tasdikli röleve projesi ile anataşınmazın çatı katına 15 nolu bağımsız bölüm ilave edildiği, davacıların tapuda kayıtlı arsa paylarının düşürülerek düşürülen payın dava konusu bağımsız bölüme verildiği ve taşınmazın fiili durumunun da bu şekilde olduğu beyan edilmiş olmakla mahkemece öncelikle anataşınmaza ait geçerli olan tasdikli proje tespit edilerek iddia edildiği üzere geçerli röleve projesi olup olmadığı araştırılarak ve konusunda uzman bilirkişiden rapor aldırılarak anataşınmaza ait yönetim planının ilgili hükümleri de dikkate alınmak suretiyle tarafların delilleri toplanarak, taşınmazın fiili durumu hakkında çatı katında 15 nolu bağımsız bölümün olup olmadığının tespiti amacıyla tanık vs. dinlenmek suretiyle de oluşacak sonuca göre karar verilmesi gerekirken yazılı şekilde karar verilmesi ve davacıların dava dilekçesindeki talepleri birden fazla olup mahkemece her bir talep hakkında hüküm kurulması gerekirken yazılı şeklide hüküm kurulmasının talepleri tek tek karşılama
@@ -108,6 +120,8 @@ ilkesine aykırı olması doğru görülmemiştir.
 SONUÇ: Yukarıda açıklanan nedenlerle; davacılar vekilinin temyiz itirazlarının kabulü ile hükmün BOZULMASINA …
 
 ## Yargıtay 20. HD 2019/839 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/483424300)
 
 Dava, bağımsız bölümlere özgülenen arsa paylarının düzeltilmesi istemine ilişkindir.
 
@@ -124,17 +138,23 @@ SONUÇ: Yukarıda açıklanan nedenlerle; bir kısım dahili davalılar vekilini
 
 ## Yargıtay 20. HD 2018/8331 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/470302100)
+
 634 sayılı Kat Mülkiyeti Kanunundan kaynaklanan; kat irtifakının terkini ve arsa paylarının düzeltilmesi istemli olarak dava açma hakkı yalnız kat maliklerine tanınmış bir hak olup, davacı ... müdürlüğünün temyiz incelemesine konu edilen eldeki dava yönünden aktif husumet ehliyeti bulunmamaktadır. Mahkemece davaya, anılan Kanun uyarınca bakıldığına göre, davacı idarenin bu kanun uyarınca aktif husumet ehliyetinin olmadığı dikkate alınarak davanın reddine karar verilmesi gerekirken, yazılı şekilde karar verilmesi bozmayı gerektirmiştir.
 
 SONUÇ: Yukarıdaki açıklanan nedenlerle temyiz itirazlarının kabulü ile hükmün BOZULMASINA …
 
 ## Yargıtay 20. HD 2018/7017 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/465062300)
+
 Anataşınmazda kat irtifakı veya kat mülkiyeti kurulurken arsa paylarının düzenlenmesi sırasında bu düzenlemeye katılan kat maliki veya maliklerinin sonradan arsa paylarının düzeltilmesini istemekte iyiniyetli olmadıkları ve ayrıca arsa paylarının düzeltilmesini isteyen kat malikinin bu isteminde korunmaya değer bir hukuki yararının bulunmadığı ve Türk Medeni Kanununun 2. maddesi gereğince bu durumun iyiniyet kurallarıyla bağdaşmadığı aşikardır.
 
 Somut olayda...'in arsa paylarının düzeltilmesine dair açacağı dava, Türk Medeni Kanununun 2. maddesi gereğince iyiniyet kuralları ile bağdaşmayacağı gibi... bu bağımsız bölümü oğluna devrettiğinde oğlu davacı ...'in de açacağı davanın iyi niyet kuralları ile bağdaşmayacağı anlaşılmıştır. Her ne kadar apartman yönetim kurulu kararı ile davacının bu davayı açtığı belirtilse de bu davayı açma hakkın yöneticilik sıfatı ile değil kat maliki olmasından kaynaklandığı da açık olup yerinde olmayan bütün temyiz itirazlarının reddiyle usul ve kanuna uygun olan Bölge Adliye Mahkemesi hükmünün HMK'nın 370/1. maddesi gereğince ONANMASINA …
 
 ## Yargıtay 20. HD 2018/6931 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/461997100)
 
 …
 
@@ -148,6 +168,8 @@ mimari proje yaptırıldığı ancak 1988 tarihinde yapılan projenin belediyece
 Dosyadaki yazılara, kararın dayandığı delillerle yasaya uygun gerektirici nedenlere ve HMK'nın 355. maddesindeki kamu düzenine aykırılık halleri resen gözetilmek üzere istinaf incelemesinin, istinaf dilekçesinde belirtilen sebeplerle sınırlı olarak yapılacağı kuralına uygun biçimde inceleme yapılıp karar verilmiş ve verilen kararda bir isabetsizlik görülmemiş olmasına göre yerinde olmayan bütün temyiz itirazlarının reddiyle usul ve kanuna uygun olan hükmün HMK'nın 370/1. maddesi gereğince ONANMASINA …
 
 ## Yargıtay 20. HD 2018/6805 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/466568600)
 
 Davacılar vekili dava dilekçesinde özetle; davacıların, ... ili, ... ilçesi, ... mahallesi, 7835 parsel sayılı taşınmazda, ... ... varisleri ile 163/203 pay ve 20/203'er payın müşterek malikleri olduklarını, davacı ...'nın ana taşınmazdaki 1. normal kat, 2 nolu bağımsız bölümü muris ... ... 'ten satın alan dava dışı ... isimli şahıstan satın aldığını, bu daireye tekabül eden arsa payının 20/203 olarak belirlendiğini, bu hissenin devrinin hatalı gerçekleştiğini, davacı ...'nın daireyi satın aldıktan sonra oturmaya başladığını, bu daireyi kullanmaya başladığı dönemde murisin itiraz etmediğini, murisin vefatından sonra varislerinin de itiraz etmediğini, davacı ...'nın arsa payının düzeltilmesine ilişkin talebine davalıların muvafakat etmediklerini, aynı şekilde diğer davalı ...'ün de aynı binadaki zemin kat 1 nolu bağımsız bölümü davalıların murisi ... ... 'ten satın aldığını ve arsa payının 20/203 olarak belirlediğini, arsa payının düzeltilmesi talebine davalıların muvafakat etmediklerini beyan ederek; dava konusu ... mahallesi, 7835 sayılı parsel üzerindeki binada müvekkili ...'ya ait 1. normal kat 2 nolu daireye isabet eden davalı hisselerinin iptali ile bu daireye tekabül eden
 arsa payının, davacı ... adına tesciline; yine davacı ...'e ait zemin kat 1 nolu daireye isabet eden davalı hisselerinin iptali ile bu daireye tekabül eden arsa payının müvekkili ... adına tesciline karar verilmesi talep etmiştir.
@@ -163,6 +185,8 @@ SONUÇ: Temyiz olunan kararın yukarıda açıklanan nedenlerle; 6100 sayılı H
 
 ## Yargıtay 20. HD 2018/5627 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/445818200)
+
 Bu durumda, arsa paylarının yeniden düzenlenmesi için taşınmazda sonradan bağımsız bölüm edinen kişilerin dava açabilecekleri ilkesi kabul edilse dahi arsa paylarının düzenlenmesi sırasında bu düzenlemeye katılan kat maliklerinin sonradan dava açması halinde, bunun Türk Medenî Kanununun 2. maddesi gereğince iyiniyet kuralları ile bağdaşmayacağı anlaşılmaktadır.
 
 …
@@ -170,6 +194,8 @@ Bu durumda, arsa paylarının yeniden düzenlenmesi için taşınmazda sonradan 
 işlemlere katıldığı tespit edildiğinden davacının arsa paylarının düzeltilmesini istemekte iyiniyetli sayılmayacağı ve bu davayı açmakta korunmaya değer hukuki yararı bulunmadığı anlaşıldığından mahkemece yazılı şekilde karar verilmesinde isabetsizlik bulunmayıp yerinde görülmeyen temyiz itirazlarının reddi ile usule ve kanuna uygun olan hükmün ONANMASINA …
 
 ## Yargıtay 20. HD 2018/1774 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/419150200)
 
 Anataşınmazda arsa payı tahsisli ancak fiilen bulunmayan (alacaklı) davalıya ait bağımsız bölümün arsa payının iptali ile arsa paylarının yeniden düzenlenerek tesciline ve iptal edilen arsa yapı bedelinin tespitiyle bağımsız bölümlere özgülenen oranda arsa payı bedelinin tahsiline ilişkin davada, (alacaklı) davalının arsa payının iptali ile bedelinin tespitine ve bağımsız bölümlere isabet eden oranda arsa payı bedellerinin bağımsız bölüm maliklerinden tahsiline karar verildiği ve hükmün kesinleştiği, uyuşmazlığın kat mülkiyetinden kaynaklanması nedeniyle davada maktu vekalet ücretine hükmedildiği, (alacaklı) davalı tarafından hükmedilerek kesinleşen arsa payı karşılığı bedelin tahsili için icra takibi yapıldığı, takipte 550,00 TL mahkeme vekalet ücretinin istenmediği, takip dosyasında icra müdürlüğünce nispi vekalet ücreti hesaplandığı, (borçlu) davacılar tarafından hükmedilen arsa payı karşılığı bedelin tahsiline ilişkin icra takibine maktu vekalet ücreti uygulanması gerektiğinin tespiti davası açıldığı ve davanın reddedildiği, hükmün davacılar vekilince temyiz edildiği, uyuşmazlığın hükmedilen ve kesinleşen arsa payı karşılığı bir kısım tazminat alacağının tahsiline yönelik takip
 vekalet ücreti olduğu halde, uyuşmazlığın kat mülkiyetinden kaynaklandığı ve hükümde vekalet ücretinin maktu olduğu, maktu vekalet ücreti dışındaki taleplerin reddine karar verilmesi gerektiği, ayrıca hükümde bulunmayan “550,00.-TL vekalet ücreti takdir edilmesi” ifadesine yer verilmek suretiyle hükmün bozulmasına karar verildiği anlaşılmaktadır.
@@ -180,6 +206,8 @@ SONUÇ: Yukarıda açıklanan nedenlerle davalı vekilinin karar düzeltme istem
 
 ## Yargıtay 20. HD 2018/154 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/404743500)
+
 Mahkemece davacının açtığı davanın tapuda kayıtlı olan arsa paylarının değiştirilmesi talebini içerdiği buna göre bir nevi tapu iptali ve tescili davası olduğu HMK'nın 2. maddesi gereğincede dava konusunun değer ve miktarına bakılmaksızın malvarlığına ilişkin davalara bakmakla görevli olan mahkemelerin asliye hukuk mahkemeleri olduğu gerekçesiyle dava dilekçesinin usulden görev yönünden reddine, mahkemenin görevsizliğine karar verilmiş, hüküm davacılar vekili tarafından temyiz edilmiştir.
 
 Dava konusu uyuşmazlık, arsa payının düzeltilmesi istemine ilişkindir.
@@ -189,6 +217,8 @@ Dosyadaki bilgi ve belgelerin incelenmesinden; 634 sayılı Kanunun Ek-1. maddes
 SONUÇ: Yukarıda açıklanan nedenlerle; davacıların temyiz itirazlarının kabulü ile hükmün BOZULMASINA …
 
 ## Yargıtay 20. HD 2017/10114 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/388804500)
 
 Davacı asıl dava dilekçesi ile müvekkilinin davalı kooperatifin üyesi olduğunu, ... ili, ... ilçesi, ...mahallesinde bulunan kooperatife ait parseller üzerine davalı kooperatifçe yaptırılan yapıda ferdileşmenin yapılıp üyelerin bağımsız bölümlerinin belli olduğunu bu kapsamda müvekkilinin dükkan niteliğinde 7 adet bağımsız bölümün sahibi olduğunu, ancak arsa paylarının ferdileşmenin yapıldığı tarihteki bağımsız bölümlerin gerçek değerine göre yapılmadığı gibi, müvekkilinin de dahil olduğu ... grubuna ait ortak alana yeni bina yapıldığını, ayrıca kapalı alan içerisine de iki adet dükkan yapıldığını, buraların ...
 
@@ -202,11 +232,15 @@ SONUÇ: Yukarıda açıklanan nedenlerle temyiz itirazlarının kabulü ile hük
 
 ## Yargıtay 20. HD 2017/4194 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/359465200)
+
 Dosya içerisindeki bilgi ve belgelerin incelenmesi sonucu; eklentinin ve müştemilatın bağımsız bölüm olduğu için Kat Mülkiyeti Kanununun 24/ 2 maddesi gereğince arsa paylarının düzeltilmesi ve maliklerinin oybirliği ile karar vermeleri gerektiği anlaşılmakla, dosya içerisinde bulunan muvafakatnamenin bu hususu içermediği tespit edilmiş olup, mahkemenin bağımsız bölüm maliklerinin iradesi yerine geçerek onay vermiş sayılmalarına karar verilmesi mümkün olmadığından mahkeme kararının yerinde olduğu anlaşılmıştır.
 
 Dosyadaki yazılara, kararın dayandığı kanıtlar ile yasal gerektirici nedenlere göre, yerinde görülmeyen temyiz itirazlarının reddi ile usule ve kanuna uygun olan hükmün ONANMASINA …
 
 ## Yargıtay 20. HD 2017/3125 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/360562700)
 
 Davacı, davaya konu ve kat mülkiyetine tabi anataşınmazda arsa paylarının hatalı olarak tespit edildiğini ileri sürerek yeniden düzenlenmesini istemiş; mahkemece, davanın kabulüne karar verilmiştir.
 
@@ -218,6 +252,8 @@ SONUÇ: Yukarıda açıklanan nedenlerle; temyiz itirazlarının kabulü ile hü
 
 ## Yargıtay 20. HD 2017/72 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/318799700)
+
 Dava, kat mülkiyeti kurulu taşınmazın arsa pay oranlarının düzeltilmesi istemine ilişkindir.
 
 …
@@ -226,9 +262,13 @@ Dava, kat mülkiyeti kurulu taşınmazın arsa pay oranlarının düzeltilmesi i
 
 ## Yargıtay 18. HD 2015/4681 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/403277300)
+
 Tapudaki arsa paylarının iptali ile yeniden düzenlenen arsa paylarının tapuya tesciline karar verilmesi gerekirken sadece arsa paylarının düzeltilmesine karar verilmiş olması doğru görülmemiş ise de bu yanılgının giderilmesi yeniden yargılama yapılmasını gerektirmediğinden gerekçeli kararın (1) nolu hüküm fıkrasının sonunda yer alan "düzeltilmesine" ibaresinden sonra gelmek üzere "yeniden düzenlenen bu arsa paylarının tapuya tesciline" ibaresi yazılmak suretiyle 6100 sayılı HMK.ya 6217 sayılı Kanunla eklenen Geçici 3. madde gözetilerek HUMK.nun 438.
 
 ## Yargıtay 18. HD 2013/13325 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/795853300)
 
 Davacı, davaya konu ve kat mülkiyetine tabi taşınmazda arsa paylarının hatalı tespit edildiğini belirterek arsa paylarının yeniden belirlenmesini, davalı tarafından ortak yerlere yapılan el atmanın önlenmesi ve eski hale getirilmesini istemiş, mahkemece davanın kabulüne karar verilmiştir.
 
@@ -243,6 +283,8 @@ Bu itibarla yukarıda açıklanan esaslar gözönünde tutulmaksızın yazılı 
 
 ## Yargıtay 18. HD 2011/4119 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/803566300)
+
 Davacı vekili dava dilekçesinde, davacı ve davalıya ait bağımsız bölümlerin arsa paylarının belirlenmesinde hata yapıldığını ileri sürerek B Blok 9 nolu bağımsız bölümün arsa payının 26/612, 10 nolu bağımsız bölümün arsa payının 15/612 olarak düzeltilmesini istemiştir. Mahkemece B Blok 9 nolu bağımsız bölümün arsa payının 26/612, 10 nolu bağımsız bölümün arsa payının 15/612 olduğunun tespitine, arsa payının düzeltilmesine yönelik davanın reddine karar verilmiştir.
 
 Kat Mülkiyeti Yasası'nın 3. maddesinin ikinci fıkrasında arsa paylarının bağımsız bölümlerin payları ile oranlı olarak tahsis edilmediği hallerde, her kat malikinin arsa paylarının yeniden düzenlenmesi için mahkemeye başvurabileceği hükmüne yer verilmiştir. Yerinde yapılan keşif sonucu düzenlenen bilirkişi kurulu raporunda sadece davacı ve davalıya ait bağımsız bölümlerin arsa paylarının düzenlenmesinde hata yapıldığı belirlenmiş olup mahkemece de bu bilirkişi raporuna itibar edildiğine göre davacıya ait B blok 9 nolu bağımsız bölümün 15/612 olan arsa payının 26/612 ve davalıya ait B blok 10 nolu bağımsız bölümün 26/612 olan arsa payının da 15/612 olarak düzeltilerek tapuya tesciline karar verilmesi gerekirken, yerinde olmayan gerekçelerle tapuda arsa payının düzeltilmesi isteminin reddine ve B Blok 9 nolu bağımsız bölümün arsa payının 26/612, 10 nolu bağımsız bölümün arsa payının 15/612 olarak tespitine karar verilmesi doğru görülmemiştir.
@@ -250,5 +292,7 @@ Kat Mülkiyeti Yasası'nın 3. maddesinin ikinci fıkrasında arsa paylarının 
 Bu itibarla yukarıda açıklanan esaslar gözönünde tutulmaksızın yazılı şekilde hüküm tesisi isabetsiz, temyiz itirazları bu nedenlerle yerinde olduğundan kabulü ile hükmün HUMK.nun 428.maddesi gereğince BOZULMASINA …
 
 ## Yargıtay 18. HD 2008/13221 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/877765400)
 
 İçtihat Metni"Davacı ... ile davalı ... vd. aralarındaki Kat Mülkiyeti Yasasının 44. maddesi gereğince arsa paylarının yeniden düzenlenmesi davasına dair Küçükçekmece 2. Sulh Hukuk Mahkemesinden verilen 15.12.2006 günlü ve 2005/1587-2006/1826 sayılı hükmün onanması hakkında Dairece verilen 28.4.2008 günlü ve 2008/4298-5078 sayılı ilama karşı davacı vekili tarafından karar düzeltme isteminde bulunulmuştur.

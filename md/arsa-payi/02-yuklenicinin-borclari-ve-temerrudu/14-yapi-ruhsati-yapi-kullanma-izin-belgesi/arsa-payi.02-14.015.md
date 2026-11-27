@@ -22,6 +22,8 @@ uyari: "Derleyenin seçtiği alıntılardır; kararın tamamı değildir. Künye
 
 ## Yargıtay 23. HD 2014/4413 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/115034500)
+
 Mahkemece uyulmasına karar verilen bozma ilamı sonrası alınan 02.07.2013 tarihli bilirkişi kurulu raporu ve tüm dosya kapsamına göre; asıl davada davacı yüklenicinin işin hangi tarihte teslime hazır hale geldiğini ispatlayamadığı, 4708 sayılı Yasa gereği inşaatı denetleyen yetkili yapı denetim firmasınca düzenlenip imzalanan ve Kartal Belediye Başkanlığı teknik elemanları tarafından mahallinde yapılan tetkikin ardından Kartal Belediye Başkanlığı'nca da onaylanıp kesinleşen iş bitirme tutanağında inşaatın bitim tarihi olarak 27.03.2009 tarihi kabul edildiğinden bu tarihin iş bitim tarihi olarak kabul edildiği, buna göre asıl davada davalının kira yoksunluğu tazminatı olarak 43.500,00 TL, eksik ve kusurlu işler dolayısıyla 33.120,00 TL olmak üzere toplam 76.620,00 TL talep edebileceği, asıl davada davacı yüklenicinin teminat mektubunun paraya çevrildiği 10.02.2009 tarihi itibareyle 123.380,00 TL alacaklı olduğu gerekçesiyle, asıl davanın kısmen kabulü ile 123.380,00 TL'nin 10.02.2009 tarihinden itibaren işleyecek reeskont faizi ile birlikte davalıdan tahsiline, asıl dava ve karşı davada talep edilen tespit giderleri ile ilgili daha önce verilen karar kesinleşmiş olduğundan bu yönde
 tekrar hüküm kurulmasına yer olmadığına karar verilmiştir.
 
@@ -32,6 +34,8 @@ Bu durumda mahkemece, 27.04.2009 tarihli tespit raporu da eklenerek bu eksiklikl
 SONUÇ: Yukarıda (1) numaralı bentte açıklanan nedenlerle, asıl davada davalı vekilinin diğer temyiz itirazlarının reddine, (2) numaralı bentte açıklanan nedenlerle, temyiz itirazlarının kabulü ile hükmün, asıl davada davalı yararına BOZULMASINA …
 
 ## Yargıtay 23. HD 2014/2984 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/113433700)
 
 Davacı vekili, yüklenici olan müvekkili ile arsa sahibi olan davalılar arasında, düzenlenen 10.11.2005 tarihli gayrimenkul satış vaadi içerikli daire karşılığı inşaat yapım sözleşmesinin 13. maddesinde "Dairelerin tapu masrafları, elektrik, su, doğalgaz abone katılım payları, deprem sigortaları, veraset ve intikal ilişik kesme belgeleri daire sahiplerine ait olacaktır.” hükmünün düzenlendiğini, bu hüküm gereğince davalılar tarafından karşılanması gereken tapu masrafları, veraset ve intikal ilişik kesme harçları olarak 2.557,50 TL'nin, 4708 sayılı Kanun gereğince davalılarca ödenmesi gereken yapı denetim hizmet bedelinin, bu bedelin davalılarca ödenmemesi sebebiyle encümen tarafından 07.01.2008 tarihli kararla 1.000,00 TL müvekkili, 1.000,00 TL davalılar hakkında verilen cezanın müvekkilince ödendiğini, bu ödemelerin davalılar tarafından müvekkiline geri ödenmediğini ileri sürerek, şimdilik 34.244,45 TL'nin ödeme tarihlerinden itibaren işleyecek faizi ile birlikte davalılardan müştereken ve müteselsilen tahsiline karar verilmesini talep ve dava etmiştir.
 
@@ -46,6 +50,8 @@ SONUÇ: Yukarıda (1) numaralı bentte açıklanan nedenlerle, davalı S.. A.. v
 …
 
 ## Yargıtay 23. HD 2014/2980 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/113425100)
 
 Davacılar vekili, müvekkillerinin murisi ile davalı yüklenici arasında 01.04.2005 tarihinde imzalanan arsa payı karşılığı inşaat sözleşmesinde belirlenen sürede inşaatın bitirilmemesi üzerine yapılan ek sözleşme ile, uğranılan zararlar ve kira gelirinden mahrumiyet nedeniyle yüklenicinin 20.000,00 TL ödeyeceğinin ve en geç 15.03.2011 tarihine kadar iskân ruhsatının alınacağının kararlaştırıldığını, ancak iskân ruhsatının belirlenen bu sürede de alınmadığını, ayrıca binanın ortak alanlarında bir takım eksik ve kusurlu imalatlar bulunduğunu ileri sürerek, fazlaya ilişkin haklarını saklı tutarak, ortak alanlardaki eksik ve kusurlu imalatlar için 3.000,00 TL, gecikme nedeniyle tazmin edilmesi taahhüt edilen zararlar için 5.000,00 TL olmak üzere, toplam 8.000,00 TL'nin davalıdan tahsilini, davalı tarafından yarım bırakılan işlerin müvekkillerince tamamlanması ve iskân ruhsatının alınması için yetki verilmesini, yapılacak masrafların sözleşmeye göre yükleniciye bırakılması öngörülen 1 ve 6 nolu dairelerin satışından karşılanmasını, bu dairelerin satışı konusunda müvekkillerine ayrıca yetki verilmesini talep ve dava etmiş, 13.06.2013 tarihli ıslah dilekçesiyle gecikme tazminatı talebini
 22.240,00 TL'ye arttırdıklarını, bilirkişi kurulunca 11.000,00 TL olarak belirlenen eksik ve ayıplı imalat bedeli ile ilgili 3.000,00 TL olarak talep ettikleri masrafların da yükleniciye ait dairelerin satışına izin verilerek karşılanması şeklinde ıslah ettiklerini açıklamıştır.
@@ -65,6 +71,8 @@ SONUÇ: Yukarıda (1) numaralı bentte açıklanan nedenlerle, taraf vekillerini
 
 ## Yargıtay 23. HD 2014/1915 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/112567100)
+
 Eser sözleşmelerinde işin teslimini kanıtlama yükümlülüğü yükleniciye aittir. Somut olayda, taraflar arasında düzenlenen 26.10.2004 tarihli arsa payı karşılığı inşaat sözleşmesinin 13. maddesinde, inşaatın teslim süresinin, ruhsat tarihinden itibaren 24 ay olduğu, 18/h maddesinde ise teslimin iskân şartına bağlandığı anlaşılmaktadır. Sözleşmeye göre, inşaat ruhsatı 23.06.2005 tarihinde alındığından, teslimin 23.06.2007 tarihinde yapılması gereklidir. Dava konusu edilen bağımsız bölüm için doğalgaz aboneliğinin 23.09.2008 tarihinde yapıldığı, binanın iskân ruhsatının ise dava tarihinden sonra 12.01.2012 tarihinde alındığı anlaşılmaktadır. Karşı davada davacı arsa malikince 19 numaralı dükkan niteliğindeki bağımsız bölümde yüklenicinin işçilerinin kalması nedeniyle teslim edilemediği ileri sürüldüğüne ve yüklenici tarafından da aksinin savunularak kanıtlanmış olmamasına göre mahkemece, inşaatın teslimi gereken tarih 23.06.2007 ile doğalgaz abonelik (fiili teslim) tarihi olan 23.09.2008 tarihine kadar 1 yıl 3 aylık dönem için bilirkişiler tarafından …
 
 …
@@ -72,6 +80,8 @@ Eser sözleşmelerinde işin teslimini kanıtlama yükümlülüğü yükleniciye
 SONUÇ: Yukarıda (1) numaralı bentte açıklanan nedenlerle, karşı davada davalı yüklenici vekilinin ve asıl davada davalı-birleşen davada davacı arsa maliki vekilinin temyiz itirazlarının reddine, (2) numaralı bentte yazılı nedenlerle, karşı davada davacı arsa maliki vekilinin temyiz itirazlarının kabulü ile kararın karşı davada davacı arsa maliki yararına BOZULMASINA …
 
 ## Yargıtay 23. HD 2014/1371 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/111142400)
 
 Davalı M. .Y.. vekili, müvekkili ve diğer arsa sahibi dava dışı Ş..
 
@@ -83,6 +93,8 @@ Taraflar arasında akdedilen 10.05.2006 tarihli 16275 yevmiye numaralı arsa pay
 SONUÇ:Yukarıda (1) nolu bentte açıklanan nedenlerle asıl davada davacı-birleşen davada davalı yüklenici şirket vekilinin tüm, asıl davada davalı-birleşen davanın davada davacı arsa sahibi M. .Y.. vekilinin diğer temyiz itirazlarının reddine, (2) nolu bentte açıklanan nedenlerle asıl davada davalı-birleşen davada davacı arsa sahibi M. Y.. vekilinin temyiz itirazlarının kabulü ile hükmün adı geçen yararına BOZULMASINA …
 
 ## Yargıtay 13. HD 2013/29268 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/523356700)
 
 Davacı, davalılar adına kayıtlı arsa üzerine yapılacak binanın denetimi için tarafların 23/08/2007 tarihli ve 24 ay süreli yapı denetim hizmet sözleşmesi imzaladıklarını, yapı denetim hizmetinin sözleşmeye uygun verilmesine rağmen davalıların ödeme yapmadıklarını, toplamda 24.189,40 TL tutarında bir alacağının bulunduğunu temerrüt tarihinden itibaren işleyecek ticari faizle birlikte alacağın hüküm altına alınmasını talep etmiştir.
 
@@ -98,6 +110,8 @@ SONUÇ: Yukarıda açıklanan nedenlerle hükmün davacı yararına BOZULMASINA 
 
 ## Yargıtay 13. HD 2013/27879 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/508616300)
+
 Davacı, yapı denetçisi olan davalının hissedarı bulunduğu taşınmaz üzerinde yapılan binanın denetimi için 15.05.2007 tarihinde dava dışı yüklenici ile yapı denetim hizmet sözleşmesi akdedildiğini, ancak kendilerinin yüklenici ile imzaladıkları kat karşılığı inşaat sözleşmesine göre yapı denetim giderinden yüklenicinin sorumlu olduğunu, davalının sözleşme bedelinin ödenmediğini ileri sürerek hakkında takip yaptığını ileri sürerek kesinleşen takip nedeni ile borçlu olmadığının tespitini talep ve dava etmiştir.
 
 Davalı, arsa sahipleri ile yüklenici arasındaki ilişkinin içi ilişki olup kendilerini ilgilendirmediğini yasa gereği arsa sahiplerinin sorumlu olduğunu belirterek davanın reddini dilemiştir.
@@ -110,6 +124,8 @@ Davacının, yapı denetimi hizmetinin davalı dışında başka bir firma taraf
 SONUÇ:Yukarıda açıklanan nedenlerle; temyiz olunan kararın davalı yararına BOZULMASINA …
 
 ## Yargıtay 23. HD 2013/8249 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/83915400)
 
 Davacı vekili, davalı şirket hakkında başlatılan icra takiplerinin kesinleştiğini, davalılar arasında imzalanan arsa payı karşılığı inşaat sözleşmesi gereğince, inşaat tamamlandığı halde, davalı yüklenici şirketin hak ettiği bağımsız bölümlerin tapularının, alacaklılardan mal kaçırmak amacıyla, arsa sahipleri tarafından yükleniciye devredilmediğini ileri sürerek, İİK'nın 94/2. maddesi gereğince aldığı yetki belgelerine dayanarak, dava konusu bağımsız bölümlerin tapu kayıtlarının iptal edilerek, davalı şirket adına tescilini talep ve dava etmiştir.
 
@@ -127,6 +143,8 @@ SONUÇ: Yukarıda açıklanan nedenlerle, davalılar Yıldız ve Saliha vekilini
 
 ## Yargıtay 23. HD 2013/8049 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/525558500)
+
 Davacılar vekili, davalı yükleniciler ile davacılar arasında imzalanan arsa payı karşılığı inşaat sözleşmesi gereğince, davalı yüklenici tarafın, inşaatı tamamlamadan bıraktığını, 3. kişilere bağımsız bölüm sattığı halde inşaatı terk ettiklerini ileri sürerek, eksik işlerin yükleniciler nam ve hesabına yaptırılmasına izin verilmesini, masrafın karşılanması için yüklenicilere isabet eden bağımsız bölümlerin satışına izin verilmesini, gecikme nedeniyle sözleşmede kararlaştırılan cezai şartın tahsilini talep ve dava etmiştir.
 
 Davalılar Mehmet ve ... vekili, bu davalıların sözleşmeden doğan hak ve borçlarını davalı ...'e temlik ettiklerini, davalı ... Dabis vekili, davalının sözleşmede taraf olmadığını, davalı ... vekili ise davacıların ayıplı arsa teslim ettiğini, davacıların hakedilen bağımsız bölümlerin devrini yapmadıklarını, cezai şartın seçimlik ceza olup, aynen ifa ile birlikte istenemeyeceğini savunarak, davanın reddini istemişlerdir.
@@ -143,6 +161,8 @@ SONUÇ:Yukarıda (1) numaralı bentte açıklanan nedenlerle, davalılardan Mehm
 
 ## Yargıtay 23. HD 2013/7981 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/525035500)
+
 Davalılar vekili, müvekkillerinin iskân ruhsatı için gerekli tüm harcamaları yaptığını, sözleşme gereğince iskân masraflarından yüklenicinin sorumlu olduğunu savunarak, davanın reddini istemiştir.
 
 …
@@ -156,6 +176,8 @@ Birleşen davada, iskân ruhsatı alınabilmesi için arsa sahipleri tarafından
 SONUÇ: Yukarıda (1) numaralı bentte açıklanan nedenlerle, birleşen davada davalı ... Harita Ltd. Şti. vekilinin birleşen davaya yönelik temyiz itirazlarının reddine, (2) numaralı bentte açıklanan nedenlerle, asıl davada taraf vekillerinin temyiz itirazlarının kabulü ile hükmün, taraflar, (3) numaralı bentte açıklanan nedenlerle, asıl davada davalı arsa sahipleri vekilinin temyiz itirazlarının kabulü ile hükmün, asıl davada davalı arsa sahipleri, (4) numaralı bentte açıklanan nedenlerle, birleşen davada davacı arsa sahipleri vekilinin temyiz itirazlarının kabulü ile hükmün, birleşen davada davacı arsa sahipleri yararına BOZULMASINA …
 
 ## Yargıtay 23. HD 2013/7815 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/526483600)
 
 Davacı vekili, taraflar arasında imzalanan arsa payı karşılığı inşaat sözleşmesi gereğince, davacı yüklenici tarafın, inşaatı tamamladığını ve kesin kabulünün yapıldığını ileri sürerek, yükleniciye isabet eden dava konusu bağımsız bölümlerin devrinin yapılması ve devri yapılmayan iki adet daire için gecikme tazminatının ve fazladan yapılan imalat bedelinin tahsilini talep ve dava etmiş; davalı kooperatif, birleşen davasında, yüklenici şirketin inşaatı süresinde teslim etmediğini, eksik ve ayıplı olarak işten el çektiğini ve ödemesi gereken cins tashihi ve alt yapı katılım bedellerini onun adına arsa sahibi kooperatifin ödediğini ileri sürerek, gecikme cezası, eksik ve kusurlu işbedeli ile cins tashihi ve alt yapı katılım bedellerinin davacı birleşen davada davalı yüklenici şirketten tahsilini talep ve dava etmiştir.
 
@@ -177,6 +199,8 @@ SONUÇ:Yukarıda (1) numaralı bentte açıklanan nedenlerle, taraf vekillerinin
 
 ## Yargıtay 23. HD 2013/6685 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/508411400)
+
 Mahkemece, iddia, savunma, benimsenen bilirkişi raporu ve tüm dosya kapsamına göre; sözleşme gereği yapılacak inşaatın iskân ruhsatı alınmak suretiyle teslimi gerektiği ve dava tarihi itibariyle de iskân ruhsatının alınmamış olduğu, bu bağlamda sözleşmeye uygun bir teslimin yapılmış olduğundan bahsedilemeyeceği, sözleşme konusu inşaatta eksik işler bırakıldığı, bir kısım işlerin sözleşmeye uygun olarak yapılmadığı, sözleşmede olmadığı halde bir takım işlerin de fazladan yapıldığı, arsa payı karşılığı inşaat sözleşmesinde yapı ruhsatının alınması, projenin çizdirilmesi, projeye belediyece şerh düşülmesi hususlarının arsa maliklerinin bilgi ve kontrolünde yapıldığı ve o aşamada arsa maliklerince herhangi bir itiraza uğramadığı için alana ilişkin bu eksikliğin rıza dahilinde olduğu gerekçesiyle, asıl davanın kabulüne; birleşen 2009/521 Esas davanın kabulü ile dava konusu inşaatın bilirkişilerce belirlenen eksikliklerinin tamamlanması, düzeltilmesi mümkün olan kusurlu imalatların yüklenicinin nam ve hesabına ikmal edilmesi için, davacılara ifa izni verilmesine, ifa bedeli olarak da 42.890,00 TL'nin, davalıdan tahsiline; birleşen 2009/585 Esas sayılı davanın kısmen kabulü ile ....567,00
 TL'nin davalıdan tahsiline; birleşen 2009/552 Esas sayılı davanın kabulü ile ....700,00 TL'nin davalılardan tahsiline karar verilmiştir.
 
@@ -194,6 +218,8 @@ SONUÇ: Yukarıda (...) numaralı bentte açıklanan nedenlerle, 2009/585 E say�
 
 ## Yargıtay 23. HD 2013/4880 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/496354100)
+
 Davacı vekili, arsa sahibi müvekkili ile yüklenici davalı arasında ....02.2002 tarihinde arsa payı karşılığı inşaat sözleşmesi yapıldığını, sözleşme gereğince müvekkiline isabet eden bağımsız bölümlerin ....03.2004 tarihinde iskân izni alınarak teslim edilmesi gerekirken iskân izninin alınmadığını ileri sürerek, iskân izni alınması için gereken eksikliklerin tespiti ile bu işlerin davalı adına yapılabilmesi için ifaya izin ile birlikte sözleşmeye göre davalıya isabet eden iki dükkanın satışına yetki verilmesine karar verilmesini talep ve dava etmiş, ıslah dilekçesiyle, bilirkişi raporuna göre, davalının bağımsız bölümlerin anahtar teslimi şeklindeki borcunu ifa etmesi için 132.649,06 TL ödemesi gerektiğini, bu miktar için davalıya devredilmeyen dükkanların satışına izin verilmesini talep etmiştir.
 
 Davalı vekili, müvekkilinin, davacıya isabet eden bağımsız bölümleri eksiksiz olarak davacıya teslim ettiğini, davacının bu yerleri kullandığını savunarak, davanın reddini istemiştir.
@@ -207,6 +233,8 @@ Kaldı ki, iskân almanın yüklenicinin yükümlülüğünde olması halinde da
 SONUÇ :Yukarıda (...) numaralı bentte açıklanan nedenlerle, davalı vekilinin diğer temyiz itirazlarının reddine, (...) numaralı bentte açıklanan nedenlere, temyiz itirazlarının kabulü ile kararın davalı yararına BOZULMASINA …
 
 ## Yargıtay 14. HD 2013/4417 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/688463000)
 
 Davalı arsa maliki ... Konut Yapı Kooperatifi, dava konusu 645 ada 7 parsel numaralı arsada 64 konutluk 6 no’lu bloğun yerini, ilk önce birlik ortağı olan...
 

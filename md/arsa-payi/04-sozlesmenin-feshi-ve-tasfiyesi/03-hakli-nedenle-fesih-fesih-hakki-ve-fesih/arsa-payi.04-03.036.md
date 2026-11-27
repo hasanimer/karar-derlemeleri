@@ -85,6 +85,8 @@ Aydın Asliye Ticaret Mahkemesi'nin 09.07.2025 tarih ve 2024/464 Esas, 2025/483K
 
 ## Kayseri BAM 4. HD 2026/387 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1200791100)
+
 Davalı vekili cevap dilekçesinde; davacı şirket ile müvekkili kooperatif arasında imzalanan sözleşmenin halen yürürlükte olduğunu ve devam ettiğini, davacı şirket ile karşılıklı olarak Kayseri 2. Noterliği ... tarihli ... yevmiye numaralı Düzenleme Şeklinde Kat Karşılığı İnşaat Yapım Sözleşmesi ile Kayseri ... ...
 
 …
@@ -108,6 +110,8 @@ Bu durumda; mahkemece, sözleşmenin feshi isteminin hukuki yarar yokluğu neden
 
 ## İstanbul BAM 44. HD 2026/319 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1196150100)
+
 Davalı vekili cevap dilekçesinde özetle;
 
 …
@@ -124,6 +128,8 @@ Usûl ve yasaya uygun İstanbul Anadolu 8. Asliye Ticaret Mahkemesinin 01/11/202
 
 ## İstanbul BAM 15. HD 2026/305 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1199682500)
+
 Davalı, taraflar arasında akdedilen dış cephe işleri yüklenici sözleşmeleri kapsamında davacının işi süresinde ve sözleşmeye uygun olarak teslim etmediği, gecikme nedeniyle sözleşmesel ceza ve kira zararının doğduğu, yapılan ödemelerin mahsup edilmesi gerektiği, talep edilen alacak miktarının çelişkili ve likit olmadığı, bu nedenle icra inkâr tazminatı şartlarının oluşmadığı ileri sürülerek davanın reddi ile davacı aleyhine kötü niyet tazminatına hükmedilmesi talep edilmiştir. Mahkeme, taraflar arasında imzalanan 11.10.2013 tarihli...ve 10.06.2014 tarihli ...
 Dış Cephe İşleri Yüklenici Sözleşmeleri kapsamında davacı yüklenicinin üstlendiği imalatları gerçekleştirdiği, yapılan teknik ve mali bilirkişi incelemeleri sonucunda davacının toplam 561.169,03 USD hakediş alacağı bulunduğu, davalı tarafından yapılan 348.706,32 USD tutarındaki ödemelerin mahsubu ile bakiye 212.462,71 USD alacağın kaldığı, usulüne uygun ihtar ile temerrüt gerçekleştiği ve icra takibinin TL üzerinden yapılmış olması nedeniyle takip tarihindeki kur esas alınarak 592.770,96 TL asıl alacak ve 1.165,24 TL işlemiş faiz olmak üzere toplam 593.936,20 TL yönünden itirazın iptaline ve takibin devamına karar verilmesi gerektiği, davalının gecikmeye dayalı cezai şart ve kira zararı savunmasının sözleşme dışı ilave işler ve malzeme teminine ilişkin yazışmalar karşısında yerinde görülmediği, ancak bilirkişi hesaplarıyla belirlenen miktarı aşan fazlaya ilişkin istemlerin ispatlanamadığı anlaşıldığından bu kısım yönünden davanın reddine, alacak belirlenebilir nitelikte olduğundan hükmolunan asıl alacak üzerinden %20 oranında icra inkâr tazminatına hükmedilmesine karar verilmiştir.Taraflar arasında, 10.06.2014 tarihli iş sözleşmesi ve 11.10.2013 tarihli sözleşmeler imzalanmış olup,
 sözleşmenin tarafları Yüklenici: .... Şti. ile İşveren: ... .............
@@ -135,6 +141,8 @@ taraflı feshetme yetkisi tanındığı, fesih halinde yapılan imalatların öl
 Davalı işveren tarafından 24.06.2015 tarihli cevap ihtarı ile, ... projesi yönünden bakiye borcun 18.653 USD olduğunu önceki beyanlarda kabul ettiklerini, 25.606,37 USD talebinin çelişkili olduğunu belirtmiş; ... projesinde ise işin 20.10.2014 tarihinde tamamlanması gerekirken gecikildiğini, geçici kabul bildiriminde bulunulmadığını, sözleşmenin ceza maddesi uyarınca gecikme nedeniyle azami %10 oranında 39.530,44 USD cezai şart doğduğunu, ayrıca yaklaşık 50.000 TL hasar gideri ile 312.000 TL kira zararı oluştuğunu, bu nedenle talep edilen 285.175,61 USD bakiye alacağı kabul etmediklerini bildirmiştir. Davacı ihtarında toplam 310.781,98 USD talep etmiştir. Davalı, ... 18.653 USD kabul beyanı dışında kalan kısmı reddetmiş; ... projesi yönünden ise cezai şart, hasar ve kira zararını ileri sürerek bakiye alacağı kabul etmemiştir.Dava konusu, İstanbul ...... İcra Müdürlüğü’nün ... Esas sayılı dosyasında alacaklı .... Şti. tarafından borçlu ... .....
 
 ## Ankara BAM 27. HD 2026/271 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1198699900)
 
 Hukuk Dairesi'nin yerleşik içtihat ve uygulamalarında kar kaybının kesinti yöntemine göre hesaplanacağı, buna göre dönme zamanında yapılmayan işin yapılmaması sebebiyle yüklenicinin kurtulduğu giderler ile kalan sürede başka bir iş yaparak kazandığı veya kazanmaktan kaçındığı yararların düşülmesi suretiyle kaybın hesaplanacağı, hükme esas alınması uygun bulunan 13/11/2023 tarihli ikinci bilirkişi heyet raporu ile de ortaya konulduğu üzere, davalı tarafından öncelikle ikmal edilmesi gereken işlerin yapılmadığı gibi davacıya ödenmesi kararlaştırılan peşinatların da ödenmediği ve sözleşmenin feshinde davacıya izafe edilebilecek bir kusurun olmadığı anlaşılmış, bu hususlar nazara alındığında sözleşmenin davalı tarafından tek taraflı feshinin haklı nedene dayanmadığı görülmekle davacının davalıdan müspet zarar talep etmekte haklı olduğu sonuç ve kanaatine varıldığı, bu kabule göre müspet zarara dair kesinti yöntemine göre bir hesaplama yapılması için öncelikle inşaatın fesih anındaki seviyesinin belirlenmesinin gerektiği, mahallinde yapılan keşif sırasında inşaatın tamamlandığı tespit edildiğinden bu şekilde inşaatın fesih anındaki seviyesinin belirlenmesinin mümkün olmadığı, bu nedenle
 ilgili belediyeden fesih tarihine ilişkin seviye tespit tutanakları ekleriyle birlikte getirtilerek tarafların sözleşmenin feshi sürecindeki karşılıklı beyan ve kabulleri de nazara alınmak suretiyle bir belirleme yapılması gerektiği, mahkemece yapılan yargılama sırasında alınan bilirkişi raporlarında işin fesih anındaki seviyesine göre iş bedeline dair farklı sonuçlara ulaşıldığı görülmüş olmakla beraber 13/11/2023 tarihli ikinci bilirkişi heyet raporunda bu konuda taraflar arasındaki sözleşmenin birim fiyatlı olduğu hususunun göz önüne alındığı, tarafların işin seviyesine dair karşılıklı kabul ve beyanlarının gerekçeli ve denetime elverişli şekilde değerlendirildiği görülmekle mahkemece de benimsenerek bu raporun hükme esas alındığı ve neticeten davacı tarafından fesih anında yapıldığı kanıtlanan iş bedelinin 269.500,00TL kadar olduğu, davacı tarafından yapılamayan 300.750,00TL miktarlı işin yapılmaması sebebiyle yüklenicinin kurtulduğu giderler ile kalan sürede başka bir iş yaparak kazandığı veya kazanmaktan kaçındığı yararlar nazara alındığında davacının 22.556,25TL kadar müspet zararının söz konusu olacağı sonuç ve kanaatine varılarak, davacının bu miktardaki müspet zarar maddi

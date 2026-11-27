@@ -24,8 +24,12 @@ Bu durumda mahkemece; davacı yüklenici tarafından 30.10.2017 tarihinde kısmi
 
 ## Yargıtay HGK 2025/608 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1180534500)
+
 Az yukarıda açıklandığı üzere TMK'nın 2. maddesine göre bir hakkın açıkça kötüye kullanılması hukuk düzenince korunmaz. Somut olayda davacının taşınmazı iskâna uygun hâle getirmek için üzerine düşen tüm yükümlülükleri yerine getirmesine karşılık arsa sahiplerinin iskâna engel olan son katı yaptıkları ve kullanmaya devam ettikleri, yapı kullanma izin belgesinin alınmasına dürüstlük kuralına aykırı bu davranışlarıyla engel oldukları ve haklarını kötüye kullandıkları anlaşılmaktadır.
 
 ## Yargıtay HGK 2024/506 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1104171800)
 
 Yapı kayıt belgesi Kanunla yeni bir durum yaratarak yapıyı yasal hâle getiren yeni bir hukuki olgu meydana getirmiş, binanın yasal olmamasına bağlanan hukuki ve cezai yaptırımları ortadan kaldırmak suretiyle bu tür yapılara yapı kullanma izin belgesinin sahip olduğu tüm olanakları sağlayan hukuki bir statü kazandırmıştır. Ancak, bir yapının yapı kullanma iznine (iskân ruhsatına) sahip olması ile yapı kayıt belgesine sahip olması arasında piyasada bir değer düşüklüğü varsa bu değer ile sözleşmeye göre eksik ve ayıplı işlerin bedelinden yüklenici sorumlu tutulmalıdır.

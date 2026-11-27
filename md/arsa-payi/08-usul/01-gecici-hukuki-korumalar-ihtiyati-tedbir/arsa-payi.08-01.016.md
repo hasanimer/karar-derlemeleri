@@ -22,6 +22,8 @@ uyari: "Derleyenin seçtiği alıntılardır; kararın tamamı değildir. Künye
 
 ## İstanbul BAM 45. HD 2022/1362 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/836026100)
+
 Mah. ... parsel ... blok ... numaralı bağımsız bölüm davalı arsa sahipleri tarafından izale-i şüyu çekişmesine dahil edilerek icra memurluğu aracılığıyla satılma riski içerisinde olduğundan satış, cebri satış, üçüncü sahışlara devir ve temlikinin önlenmesi açısından tapu kaydına öncelikle teminatsız ihtiyadi tedbir konulmasına, taleplerinin kabul edilmemesi halinde, dava konusu taşınmaza davalıdır şerhi konulmasına karar verilmesini talep etmiştir.Mahkemenin 09/06/2022 tarihli ara kararı ile "Eldeki tapu iptal tescil davasına konu dava incelendiğinde, izale-i şuyu davası sonucunda taşınmazın icra yoluyla satışının engellenmesi yönünde tedbir kararı verilemeyeceği görülmekle bu talebin reddine, taşınmazın rızaen 3.kişilere devrinin önlenmesine ilişkin tedbir talebinin kabulüne, davacı tarafça taşınmaz değerinin bildirilmediği görülmekle bu aşamada teminat miktarı olarak 250.000,00 TL belirlenmesine, davalıdır şerhinin mahiyet itibariyle ihtiyati tedbir olmadığı, Türk Medeni Kanunun 1010.maddesinde düzenlendiği görülmekle davalıdır şerhi talebinin kabulüne karar verilmiştir.Verilen ara karara karşı davacı vekili tarafından dava dilekçesindeki nedenler tekrarlanarak ve ayrıca takdir
 edilen teminat miktarın çok yüksek olduğu belirtilerek istinaf yasa yoluna başvurulmuştur.Dava, kooperatif üyeliğinden kaynaklı tapu iptal tescil istemine ilişkin olup uyuşmazlığın, davaya konu bağımsız bölümünün, izale-i şuyu davası sonucunda taşınmazın cebri icra yoluyla satışının tedbiren durdurulması istemine ilişkindir.Geçici hukuki korumaların bir türü olan ihtiyati tedbirin şartları 6100 sayılı HMK'nun 389 uncu maddesinde düzenlenmiş olup, anılan düzenleme "Mevcut durumda meydana gelebilecek bir değişme nedeniyle hakkın elde edilmesinin önemli ölçüde zorlaşacağından ya da tamamen imkânsız hâle geleceğinden veya gecikme sebebiyle bir sakıncanın yahut ciddi bir zararın doğacağından endişe edilmesi hâllerinde, uyuşmazlık konusu hakkında ihtiyati tedbir kararı verilebilir." hükmünü haizdir.
 
@@ -34,6 +36,8 @@ HÜKÜM:Gerekçesi Yukarıda Açıklandığı Üzere;1-Davacı vekilinin istinaf
 
 ## İstanbul BAM 15. HD 2022/1247 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/782302900)
+
 A.Ş.'ye satış işlemi ile devir ve temlik edildiği, ihtiyati tedbire konu edilen bu taşınmazların mülkiyetinin uyuşmazlık konusu olduğu, HMK'nın 389/1. maddesi uyarınca mevcut durumda meydana gelebilecek bir değişme halinde hakkın elde edilmesinin önemli derecede zorlaşması ya da tamamen imkansız hale gelmesi ya da gecikme nedeniyle bir sakıncanın yahut ciddi bir zararın doğacağından endişe duyulması halinde uyuşmazlık hakkında ihtiyati tedbir kararı verilebileceği, bu nedenle uyuşmazlık konusu olan taşınmazların üçüncü kişilere devir ve temlikinin önlenmesi yönündeki ihtiyati tedbir talebinin kabulünün gerektiği, ancak HMK'nın 392.maddesi uyarınca ihtiyati tedbir kararı veren mahkemenin kural olarak karşı tarafın muhtemel zararlarını teminat altına alacak bir teminat göstermesinin zorunlu olduğu, tarafların haklılığının yapılacak yargılama sonucunda ortaya çıkacağından HMK'nın 392.maddesinde düzenlenen teminat istisnalarının dosyada uygulanma yeri bulunmadığı, ihtiyati tedbir talep eden tarafından taşınmazın değeri yapılacak yargılama sırasında tespit edileceği belirtilerek şimdilik 2.000.000,00 TL üzerinden tedbir istenmiş ise de; gerek taraflar arasındaki protokollerden, gerekse
 dosyaya sunulan tapu kayıtlarından, taşınmazların davalı tarafa 182.388.500,00 TL karşılığında devir ve temlik edildiği anlaşıldığından resmi senet niteliğindeki tapu kaydındaki değer nazara alınarak bu değer üzerinden % 10 teminat alınması gerektiği kanaatine varıldığı, ihtiyati tedbir talep eden tarafça ayrıca ihtiyati tedbire konu edilen taşınmazlar üzerinde üçüncü kişiler lehine ipotek ve sair ayni hak tesis edilmesinin önlenmesi yönünde de ihtiyati tedbir kararı verilmesi talep edilmiş ise de; bu hususun üçüncü kişilerin maddi hukukuna ilişkin olduğu anlaşıldığından dava dosyasında taraf olmayan üçüncü kişiler aleyhine ihtiyati tedbir kararı verilemeyeceği gerekçesiyle, ihtiyati tedbir talebinin kısmen kabulü ile; İstanbul ili, Pendik ilçesi, ... Mah., ... Ada, ... parsel (eski İstanbul İli, Pendik İlçesi, ... Mah. ... ada, ... ve ... parsel) de kayıtlı taşınmazın karşı taraf ...
 
@@ -43,6 +47,8 @@ olup; talebin resmî belgeye veya başkaca kesin bir delile dayanması, yahut du
 
 ## Ankara BAM 27. HD 2022/1203 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/842753000)
+
 Kat karşılığı inşaat sözleşmesinden kaynaklanan ipoteğin fekki talepli davada mahkemece verilen ihtiyati tedbire itirazın reddine dair ara kararına karşı süresi içinde birleşen davada davalı ...A.Ş. vekilince istinaf kanun yoluna başvurulması üzerine yapılan incelemede;
 
 …
@@ -50,6 +56,8 @@ Kat karşılığı inşaat sözleşmesinden kaynaklanan ipoteğin fekki talepli 
 1-) İhtiyati tedbire itiraz eden birleşen davada davalı ...A.Ş. vekilinin istinaf başvurusunun HMK 353/1.b.1 madde gereğince esastan reddine …
 
 ## İstanbul BAM 15. HD 2022/1199 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/782687600)
 
 Ruhsat Öncesi maliyet Keşif" nin bir taahhüt olamayacağı, yapılan inşaat için rayiç bedel belirlenebilmesi için dosyasında hakedişlerin bulunmadığı, dosyadaki belgelerin iki tarafça imzalanmadığı, sadece gerçekleştiği iddia edilen maliyetler olduğu, bu evraklarla rayiç bedel hesabı yapılmasının mümkün olmadığı, sözleşmesinde inşaatın yapılmasına karşılık sadece 50.000,00 TL bedel alınacağı ve müteahhitlik karı talep edilemeyeceğinin düzenlendiği ve 50.000,00 TL inşaat yapım bedelinin sözleşme sırasında ödendiği belirtilmiş ise de; tarafların defter kayıtlarında böyle bir ödemenin görünmediği, tarafların defter kayıtlarına göre inşaata ait aylık yapılacak ödemenin 2016 yılı Eylül ayına kadar yapıldığı, sonrasında ödeme yapılmadığı, yapılan ödemenin toplamda stopaj dahil 9.085,370,00 TL olduğu, yapılan gözlemlerden kazık imalatlarının kısmen uygulandığı, ancak proje ile birebir uyumlu olduğunun söylenemeyeceği, imalatın üstünden geçen sürede şev stabilitesinde problem yaşandığına dair bilgi bulunmadığı, bu halde geçici iksa sismeninin görevini layıkıyla yaptığının söylemeyeceği ve taraflar arasındaki alacak borç ilişkisinin değerlendirilebilmesi için hakediş hesapları detaylarının
 dosyaya sunulması gerektiği belirtilmiştir. Davacı yanca dosyaya delil olarak sunulan ve İ.Ü. Medeni Hukuk Anabilim Dalı öğretim üyesi Prof.Dr. ... tarafından hazırlanan mütalaada; sözleşmenin 5. ve 6.1. Maddeleri gereğince sözleşmenin götürü bedel olarak kabul edilemeyeceği, yaklaşık bedel kararlaştırıldığı, sözleşmenin bedelinin 8.maddesi uyarınca ödenen 50.000,00 TL'nin yanı sıra yüklenicinin yaptığı inşaat masraflarından oluştuğu, yapılan keşif değerinin nihai bedel olarak kabul edilemeyeceği, yaklaşık bedelin hesaplamasında sözleşmenin 5. ve 6.1. düzenlemeleri ile TBK'nın 481.
@@ -59,6 +67,8 @@ Yapılan bu açıklamalar ışığında somut olayda, mahkemece sözleşmenin 6.
 
 ## İstanbul BAM 3. HD 2022/1162 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/747679700)
+
 Adi Ortaklığı adına kayıtlı 47 adet taşınmaz bulunduğu tespit edildiğini, bu taşınmazların davalı tarafından ortaklık zararına muvazaalı bir şekilde 3. kişilere devrinin önlenmesi için ihtiyati tedbir kararı verilmesini talep ettiklerini, daha önce ortaklık adına kayıtlı olup 3. kişilere devredilen 198 adet taşınmazla ilgili tapu iptali tescil davası açma haklarını saklı tuttuklarını, aksi halde, davalı tarafça temsil yetkisinin kötüye kullanılması suretiyle ortaklığın malvarlığının hileli işlemlerle azaltılması, ortaklığın telafisi güç zararlara uğraması söz konusu olacağını, bu nedenle ortaklık adına kayıtlı bulunan taşınmazlarla takdiren teminatsız olarak ihtiyati tedbir konulmasını talep ettiklerini beyanla müvekkilleri ile davalı arasında 26.03.2013 tarihli adi ortaklık sözleşmesi ile kurulan...
 İnşaat Adi Ortaklığı'nın feshine ve tasfiyesine, müvekkillerinin katılım payının ve adi ortaklığın mal varlığından müvekkillerin %50 hissesine düşen kar payının müvekkillere ödenmesine, fazlaya ilişkin haklarımız saklı kalmak ve ileride arttırılmak üzere şimdilik her bir müvekkil için ayrı ayrı 10.000'er TL katılım payı ve 10.000'er TL kar payı olmak üzere 40.000 TL'nin işleyecek faiziyle davalıdan tahsiline, yargılama giderleri ve vekalet ücretinin davalı tarafa yükletilmesine karar verilmesini talep ve dava etmiştir.
 
@@ -67,6 +77,8 @@ Adi Ortaklığı adına kayıtlı 47 adet taşınmaz bulunduğu tespit edildiği
 çek hesabı açma ve çek keşide etme, tapu müdürlüğü nezdindeki işlemleri yapma gibi çok önemli ve mali sonuçlar doğuran yetkiler davalı tarafa verildiğini, davalı tarafın bu temsil yetkisini kötüye kullandığını ve hileli işlemler tesis ederek ortaklığı zarara uğrattığını, taraflarınca Sarıyer Tapu Müdürlüğü'nde yapılan incelemede kat karşılığı inşaat sözleşmesi gereği ortaklığa devredilen taşınmazlardan 198 tanesinin davalı tarafından temsil yetkisi kötüye kullanılarak 3. kişilere satılmış olduğunu tespit ettiklerini, davalının bu taşınmazları muvazaalı olarak akrabalarına, tanıdıklarına düşük bedelle sattığı müvekkil tarafından öğrenildiğini, davalının kendi çıkarına tesis ettiği bu muvazaalı ve kötüniyetli işlemlerle ortaklığı ciddi şekilde zarara uğrattığını, tüm bu durumların sona ermesi için öncelikle davalının yönetim yetkisinin ivedilikle sınırlandırılmasını ve akabinde kaldırılmasına karar verilmesini talep ve dava etmiştir. Mahkemece yapılan yargılama sonunda ; 1- Davacı ... Ltd. Şti.'nin HMK 114/1-d maddesindeki taraf ehliyetine sahip olma dava şartı yokluğundan HMK 115/2 maddesi uyarınca bu davacı tarafından açılan ASIL ve BİRLEŞEN DAVANIN AYRI AYRI USULDEN REDDİNE …
 
 ## Samsun BAM 5. HD 2022/1137 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/794232300)
 
 Davacı vekili dava dilekçesinde özetle; müteahhit olan müvekkili ile arsa sahibi ....arasında .... İli .... Mah. ..Ada ve ...nolu parselde bulunan taşınmaz üzerine zemin hariç ...katlı ve bodrum katta dükkan deposu olan zemin katta... dükkan, zemin üstü diğer normal katta, her katta iki daire olmak üzere altı bağımsız bölümden oluşan bina inşa etmek üzere ...
 
@@ -83,6 +95,8 @@ HMK'nun 399. maddesinde; "Lehine ihtiyati tedbir kararı verilen taraf, ihtiyati
 Davacı vekilinin istinaf başvurusunun 6100 sayılı HMK'nun 353/1-b.1 maddesi gereğince ESASTAN REDDİNE …
 
 ## Ankara BAM 21. HD 2022/1069 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/815560600)
 
 Davacı vekili dava dilekçesinde özetle; müvekkilinin davalılar ... ve ... Ticaret Limited Şirketi arasında 17/01/2013 tarihli karma sözleşme yapıldığını, ... parsel sayılı taşınmazdaki 11 no'lu villanın satış sözleşmesini imzaladıklarını, arsa sahibine ferağını vermesi yönünde noter aracılığıyla ihtarname çekildiğini, ferağın davalı ... Ticaret Limited Şirketi'ne verilmesi üzerine Kayseri 1.
 
@@ -108,6 +122,8 @@ Yargıtay 23. Hukuk Dairesinin 11/04/2018 tarih 2015/9717 Esas 2018/2723 Kararı
 
 ## İstanbul BAM 3. HD 2022/1041 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/744219000)
+
 Maddesine göre; ‘… dökümü yapılan 35 taşınmaz ve toplamda 3.232,15 metrekare ile ilgili düzenleme şeklinde kat karşılığı inşaat ve satış vaadi sözleşmesi imzalandıktan sonra taşın- mazları ...'nın ortaklarına bilgi vermek ve bu sözleşme şartlarına uygun olarak ve imzalanan tüm söz- leşmeler ile aynı şartlarda yeni malik ile düzenleme şeklinde kat karşılığı inşaat ve satış vaadi sözleşmesi imzalanması şartı ile satabileceği, bağışlayabileceği, takas yapabileceği veya mülkiyeti devreden her hangi bir tasarruf işlemi yapabileceği , bu şarta aykırı olarak ve taşınmazlar üzerinde inşaatın başla- masına engel olacak şekilde herhangi bir işlem yapılması halinde ..., ..., ... ve ...’in ...’ya sözleşme bedeli kadar olan net 12.000,000 TL cezai şartı müşterek ve müteselsilen hiçbir ihtara gerek kalmaksızın ödeyecektir. Taraflar tacir olduklarından cezai şartın fahiş olduğu iddialarında bulunamayacaklardır." denildiğini, Davalı ... Ltd Şti ile gerçek kişi diğer davalıların protokolün bu hükmüne aykırı davrandıklarını, müvekkiline bilgi vermeden taşınmazları bölünme suretiyle davalı ...’ye devir ettiklerini, Beyoğlu ... Noterliği’nin 19 Temmuz 2016 tarih ve ... yevmiye nolu “Protokol 7.
 Maddesi ile, ... uhdesinde bulunan toplam değeri 2.033.000 TL bedelli senetleri iade etmesi gerekir iken etmediklerini ,bundan doğan zararların tazmini için İstanbul 20. Asliye Ticaret Mahkemesi 2020/ 436 Esas sayılı dosya ile dava açıldığını, davalı yanın protokolün 7. Maddesini de ihlal ettiğini, cezai şart alacağının temelinin oluştuğunu, 1380 ad 3 parseldeki taşınmazların kat karşılığı inşaat yapılacak yerlerden olmayıp ... tarafından bedeli ödenerek dava dışı ... isimli kişiden satın alındığını ve ... bu yerdeki haklarını ...'ya devretmesine rağmen bu yerlerin müvekkiline teslim edilmediğini beyanla yer bedelinin tazminini talep ettiklerini beyanla, Fazlaya dair hakları saklı kalmak kaydıyla şimdilik, Beyoğlu ... Noterliği’nin 19/07/2016 tarih ... nolu protokolün 8.maddesinin ihlali nedeniyle 100.000,00 TL ve protokolün 5.
 
@@ -122,6 +138,8 @@ Fek masrafları ... tarafından ödenecektir. " denildiğini, Dosyaya celp edile
 
 ## İstanbul BAM 43. HD 2022/1030 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/807620300)
+
 Taraflar arasında çekişmeli olan şey veya yargılama konusunu oluşturan hak, aynı zamanda tedbirin konusu hakkı da oluşturacaktır. İstinafa konu eldeki dava dosyasında; üzerine ihtiyati tedbir konulması talep edilen taşınmaz hakkında İstanbul 18. Asliye Ticaret Mahkemesi'nde görülmekte olan 2017/662 E., 2020/513 K. sayılı bir dava bulunmaktadır. Bahsi geçen dava dosyasına ilişkin yargılamada ,istinafa konu eldeki dava dosyasında üzerine tedbir konulan taşınmaz hakkında zaten önceden verilmiş tedbir kararı bulunmakla, davanın hale derdest olduğu anlaşılmaktadır. Dava dilekçesine konu edilen ve istinaf başvurusunda da talep edilen husus, bahsi geçen tedbir kararının devamı mahiyetinde karar verilmesine ilişkindir. Buna rağmen ilk derece mahkemesince İstanbul l 8. Asliye Ticaret Mahkemesi'nde görülmekte olan 2017/662 E., 2020/513 K. sayılı dosyasında söz konusu tedbir kararının halen mevcut olduğu yönünde ara kararına geçirilecek bir tespitle birlikte talebin reddedilmesi gerekirken, talep konuşu taşınmaz hakkında hukuka aykırı şekilde yeniden tedbir kararı verilerek, ihtiyati tedbir kararına itiraz reddedilmiştir.
 Kanun hükmü, tedbirin sadece dava konusu olan şey hakkında verilebileceğini düzenlemiştir. Davanın konusu olmayan mal varlığı hakkında tedbir kararı verilemez. Para alacağı için açılan davada, mal varlığı üzerine tedbir konulamaz. Koşulları varsa, ihtiyati haciz hükümlerinden yararlanılabilir. Yargıtayın emsal içtihadında da durum bu yöndedir ( Yargıtay 19. HD. 2012/16760 E-2013/3136 K.sayılı, 19/02/2013 tarihli kararı). Yine, Yargıtay 21.HD.'nin E. 2015/5842, K. 2015/8588 sayılı, 20.4.2015tarihli kararında belirtildiği üzere: "...Amaç bakımından ihtiyati tedbir, aynı uyuşmazlık konusu olan taşınır veya taşınmaz malların devrinin önlenmesi, dava sonuna kadar aynen muhafaza edilmesi veya bir tehlike yahut zararın önlenmesi amacıyla HUMK'un 101 vd., HMK'nın 389 vd. maddelerinde öngörülen durumlarda başvurulan bir yol olduğu halde, ihtiyati haciz, bir alacağın tahsilini temine yarayan bir vasıtadır.
 
@@ -131,6 +149,8 @@ HÜKÜM: Yukarıda açıklanan nedenlerle: İhtiyati tedbire itiraz eden davalı
 
 ## İstanbul BAM 15. HD 2022/889 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/761942800)
+
 Noterliği aracılığı ile düzenlenen 18.11.2016 tarih ... yevmiye numaralı Düzenleme Şeklinde Taşınmaz Satış Vaadi ve Arsa Payı Karşılığı İnşaat Sözleşmesi (“Sözleşme”) akdedildiği, Sözleşme uyarınca en geç 30.01.2020 tarihinde de Taşınmazda inşa edilecek yapıların tamamlanarak davacıya teslim edilmesi gerekmekteyken davanın ikame edildiği tarih itibarıyla halen yapıların teslim edilmeyerek davalının temerrüde düştüğünü, 30.01.2020 tarihinden itibaren, gecikme tazminatı olarak şimdilik 6.500.000.-TL toplam rayiç kira bedelinin, gecikme tazminatı olarak ödenmesi gereken aylardan itibaren hesaplanacak ticari faizi ile davacıya ödenmesi gerektiğini, davacının yapıların teslim edileceğine güvenerek 166 ve 169 numaralı bağımsız bölümler için ödediği “Site Yönetim Kurulum Bedeli” ve “Site Ortak Alan Abonelik Bedeli” olmak üzere toplam 14.373,17 TL’nin ödeme tarihinden itibaren işleyecek ticari faiz ile davacıya ödenmesi talep edildiğini, davadaki talebi gecikme tazminatına ilişkin olduğundan, temerrüdün başlangıç tarihi ile birlikte temerrüdün sona erdiği tarih de önem arz ettiğini, davacı şirketin dilekçe teatisi aşaması tamamlanmadan önce bilirkişi incelemesi yapılmasında hukuki
 yararının bulunduğunu, mahkemenin, davacı şirketin delil tespit raporunun yeterli olduğu kanaatindeyse, söz konusu raporlar doğrultusunda davalının temerrüde düştüğünü, ihtiyati haciz sebebinin var olduğunu da kabul etmesi gerektiğini, davacının haklı olduğu ve gecikme tazminatına hak kazandığı delil tespit raporları ile sabit iken, ihtiyati haciz talebinin reddi sebebiyle davacının zarara uğrayacağının aşikar olduğunu, davacı şirketin haklılığı delil tespit raporları ile de sabit olduğunu, ihtiyati haciz talebinin reddine ilişkin kararın istinaf incelemesi neticesinde ortadan kaldırılmasını ve öncelikle teminatsız olarak, aksi yönde bir kanaat olur ise teminat karşılığında davalı'nın borca yeter tutarda taşınır, taşınmaz malları, banka hesapları ile üçüncü kişi nezdindeki hak ve alacaklarına ihtiyati haciz konulmasına karar verilmesini talep etmiştir.
 
@@ -139,6 +159,8 @@ yararının bulunduğunu, mahkemenin, davacı şirketin delil tespit raporunun y
 HÜKÜM: Gerekçesi yukarıda açıklandığı üzere; 1-Davacı vekilinin istinaf başvurusunun KISMEN KABULÜNE, 2-Bakırköy 3. Asliye Ticaret Mahkemesi'nin 17/02/2022 tarih, 2021/972 Esas sayılı ara kararının KALDIRILMASINA …
 
 ## Ankara BAM 21. HD 2022/850 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/784508300)
 
 İlk derece mahkemesince duruşma açılarak yapılan inceleme sonunda; davalı anonim şirketin fesih ve tasfiyesi istemiyle açılan işbu davada yönetim boşluğunun bulunduğu, müdürün azli, müdür aleyhine açılmış sorumluluk davası bulunmadığı, şirket mal varlığının dolayısıyla davacının bir ihtimal çıkma payının korunmasına yönelik mahkemenin alabileceği tedbirlerin kanuna uygun olması gerektiği, TTK'nın 531. Madde metninde ve devamında TTK 636/4 kapsamında mahkemeye gerekli tedbirleri alma yönünde bir kural da konulmadığı, Kaldı ki limited şirket yönünden verilen kayyum tayinine ilişkin kararı Yargıtay 11.
 

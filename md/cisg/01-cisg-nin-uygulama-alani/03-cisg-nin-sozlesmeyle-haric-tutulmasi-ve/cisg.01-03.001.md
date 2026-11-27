@@ -20,8 +20,12 @@ uyari: "Derleyenin seçtiği alıntılardır; kararın tamamı değildir. Künye
 
 ## İstanbul BAM 13. HD 2024/1230 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1048333300)
+
 Dolayısıyla işbu yetki şartı uyarınca huzurdaki davada Alman Mahkemelerinin yetkili olduğu ve sözleşmenin Uygulanacak Hukuk başlıklı 13.2. Maddesinde ise;''Bu Sözleşme ve taraflarının yasal ilişkileri, Milletlerarası Mal Satımına İlişkin Sözleşmeler Hakkında Birleşmiş Milletler Antlaşması hariç olmak üzere, Federal Almanya Cumhuriyeti yasalarına tabi olacaktır, '' hükmünün düzenlendiği, görülmektedir. Davacının sigortalısı ile davalılar arasında yabancılık unsuru taşıyan satım sözleşmesi mevcut olup, bu ilişkiden doğan uyuşmazlıkların yabancı bir devlet mahkemesinde görülmesi konusunda tarafların anlaşması mümkündür. Davada münhasır yetki veya kamu düzeni sözkonusu değildir.
 
 ## İstanbul BAM 14. HD 2021/1248 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/699598400)
 
 Özel Marka Üretim Sözleşmesinin eki niteliğinde olan ''Ote Genel Şart ve Koşulları'' isimli belgenin incelenmesinde; ''XXI Tabi Olunan Hukuk ve İhtilaflar'' başlıklı maddede Viyana Satış Anlaşmasının uygulanmasının açıkça hariç tutulduğu görülmektedir. Dolayısıyla ayıba ilişkin değerlendirmeler TTK hükümleri doğrultusunda yapılacaktır.

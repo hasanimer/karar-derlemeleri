@@ -22,6 +22,8 @@ uyari: "Derleyenin seçtiği alıntılardır; kararın tamamı değildir. Künye
 
 ## Yargıtay 15. HD 2010/2749 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/774283000)
+
 Birleşen 2007/33 Esas sayılı davada 01.02.2002 teslimi gereken tarihten asıl davada talep edilen kira tazminat dönemi başlangıcı 06.09.2002 tarihine kadar saklı tutulan gecikme tazminatı da talep edilmiş olup, davacı arsa sahibine kalan ve teslim edilmeyen bağımsız bölüm sayısı üç olduğundan mahkemece gecikilen 7 ay 5 günlük süre için üç bağımsız bölümün sözleşmede kararlaştırılan maktu gecikme tazminatı hesaplanıp tahsiline karar verilmesi gerekirken sadece bir daire için hesaplama yapılarak birleşen davada daha az miktarda gecikme tazminatına (kira alacağına) hükmedilmesi doğru olmamıştır.
 
 Eksik ve kusurlu işler bedelinin Daire'mizin yerleşik uygulamalarında inşaatın teslimi tarihinden kontrol ve muayene ile dava açılması için gerekli makul bir sürenin geçmesinden sonraki rayiç değerlere göre hesaplanması gerektiği kabul edilmektedir (BK'nın 98. maddesi yollamasıyla 44. maddesine göre). Eldeki davada davacı arsa sahibine bırakılan bağımsız bölümlerin daha önce kendisine fiilen teslim edildiği yasal delillerle kanıtlanamadığından hukuken teslimin yapı kullanma izin belgesinin alındığı 05.01.2004 tarihinde yapıldığının kabulü gerekir. Bu durumda eksik ve kusurlu işler bedelinin iskân ruhsatının alındığı 2004 yılı mahalli piyasa rayiçlerine göre saptanması gereklidir. Bunun miktarı da 2. bilirkişi kurulunun 3. ek raporunda 10.500,00 TL hesaplandığından eksik -kusurlu işlerle ilgili istemin bu miktar üzerinden değerlendirilmesi gerekirken yanlış değerlendirme ile uzatılan teslimi gereken 01.02.2002 tarihine göre hesaplama yapan bilirkişi raporuna itibar edilerek yazılı şekilde karar verilmesi de isabetsiz olmuştur.
@@ -31,6 +33,8 @@ Eksik ve kusurlu işler bedelinin Daire'mizin yerleşik uygulamalarında inşaat
 SONUÇ:Yukarıda 1. bentte açıklanan nedenlerle davalı-karşı davacı ve birleşen dosya davalısı yüklenicinin tüm, davacı-karşı davalı ve birleşen dosya davacısı arsa sahibinin diğer temyiz itirazlarının reddine, 2. bent uyarınca kabulü ile hükmün davacı-karşı davalı ve birleşen dosya davacısı arsa sahibi yararına BOZULMASINA …
 
 ## Yargıtay 15. HD 2010/1228 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/773716400)
 
 Dava, arsa payı karşılığı inşaat yapım sözleşmesi uyarınca gecikme tazminatı alacağının tahsili istemine ilişkindir.
 
@@ -45,6 +49,8 @@ SONUÇ:Yukarıda açıklanan nedenlerle temyiz itirazlarının kabulü ile hükm
 
 ## Yargıtay 15. HD 2010/1036 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/775188900)
+
 Davacı vekili, A...Mahallesinde bulunan ve 41932 ada, (7) parsel sayılı tapulu taşınmazın maliki ... ile Altındağ 4. Noterliği’nce doğrudan düzenlenen 12.03.2004 tarih ve 05188 yevmiye numaralı; aynı ada (8) parsel sayılı tapulu taşınmazın maliki davalı ... ile de aynı Noterlikçe doğrudan düzenlenen 11.05.2004 tarih ve 10154 yevmiye numaralı Arsa Payı Karşılığı İnşaat Sözleşmeleri yapıldığını; davacı şirketin yüklenici, davalıların ise arsa sahipleri olduklarını; ancak, davalıların kusurlu olarak sözleşmeden döndüklerini ileri sürerek, 11.05.2004 tarihli sözleşmenin 6. maddesi gereğince, 58.740,00 TL ceza şartı alacağının ve 1.260,00 TL kâr kaybından kaynaklanan maddi tazminatın davalılardan tahsiline karar verilmesini istemiştir.
 
 …
@@ -55,6 +61,8 @@ Nevar ki, hükme dayanak alınan bilirkişi raporunda; davacı tarafından yapı
 SONUÇ:Yukarıda (1.) bendde belirtilen nedenlerle davalılar vekillerinin sair temyiz itirazlarının reddine; (2.) bendde açıklanan sebeplerle diğer temyiz itirazlarının kabulüne ve kararın davalılar yararına BOZULMASINA …
 
 ## Yargıtay 15. HD 2010/838 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/774628500)
 
 Dava, adi yazılı şekilde yapılmış olmasına rağmen tapuda pay devri suretiyle geçerli hale gelen kat karşılığı inşaat yapım sözleşmesi uyarınca gecikmeden kaynaklanan tazminat alacağının tahsili istemine ilişkindir.
 
@@ -68,6 +76,8 @@ SONUÇ:Yukarıda açıklanan nedenlerle temyiz itirazlarının kabulü ile hükm
 
 ## Yargıtay 15. HD 2010/509 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/773696900)
+
 Dava, arsa payı karşılığı inşaat yapım sözleşmesi uyarınca gecikme tazminatı alacağının tahsili istemine ilişkindir.
 
 …
@@ -78,6 +88,8 @@ SONUÇ: Yukarıda (1.) bendde açıklanan nedenlerle davalının diğer temyiz i
 
 ## Yargıtay 15. HD 2010/352 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/773301400)
+
 Bilirkişiler tarafından hesaplanan 33.029,16 TL kira kaybı 18.11.2005 ile 18.05.2006 tarihleri arasındaki dönem içindir. Davacılar bu davada 30.07.2005 tarihine kadar istekte bulunduklarına göre, bu tarihten sonraki dönem için hesaplama yapan bilirkişi raporuna dayanılarak kira isteminin kısmen kabulüne karar verilmesi HUMK’nın 74. maddesine aykırı olduğu gibi, yukarıdaki bendde açıklandığı üzere davacıların cezai şartı aşan zararlarının bulunmadığı dikkate alınmaksızın bu istemin kısmen kabulüne karar verilmesi de hatalı olmuştur.
 
 Bilirkişiler tarafından eksik ve kusurlu işlerin giderilme bedelleri 410.855,00 TL olarak hesaplanmıştır. Taraflar arasındaki 21.03.2005 tarihli ek sözleşmenin 3/d maddesindeki iki adet villanın kararlaştırılan tarihte işlerin tamamlanmaması durumunda arsa sahiplerine bırakılacağına dair düzenleme cezai şart niteliğindedir. Ek sözleşmede 23.06.1997 tarihli kat karşılığı inşaat sözleşmesi hükümleri saklı tutulduğuna ve davacılar da ana sözleşmeye dayanarak cezai şart isteminde bulunduklarına göre, ayrıca 21.03.2005 tarihli ek sözleşmeye dayanılarak mükerrer şekilde cezai şart isteminde bulunamazlar. Bu nedenle bilirkişiler tarafından 410.815,00 TL olarak belirlenen eksik ve kusurlu işlerin giderilme bedellerinin tamamının tahsiline karar verilmesi gerekirken, yükleniciye ait iki adet villanın arsa sahiplerine bırakıldığının kabulü ile bu villaların imalât bedelleri düşülmek suretiyle, kalan miktarın eksik ve kusurlu işlerin giderilme bedeli olarak tahsiline karar verilmesi de yanlış olmuştur.
@@ -87,6 +99,8 @@ Bilirkişiler tarafından eksik ve kusurlu işlerin giderilme bedelleri 410.855,
 SONUÇ: Yukarıda 1. bendde belirtilen nedenlerle tarafların sair temyiz itirazlarının reddine, kararın 2. bent uyarınca arsa sahipleri, 3. bent uyarınca yüklenici şirket, 4. bent uyarınca da taraflar yararına BOZULMASINA …
 
 ## Yargıtay 15. HD 2009/7015 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/858464900)
 
 Yanlar arasında ... Noterliği'nde düzenlenen 23.06.1999 gün 2677 yevmiye nolu Düzenleme Şeklinde Kat Karşılığı Gayrimenkul Satış Vaadi ve İnşaat Sözleşmesinin 1. maddesinde arsa üzerinde A ve B blok adı altında her katta dört daire olmak üzere iki adet apartman yapılacağı, 3. maddesinde 8 adet dairenin arsa sahibine ait olacağı kararlaştırılarak arsa sahibine verilecek daireler belirlenmiş, blokların zemin artı beş katlı yapılması halinde arsa sahibine 9 daire verilmesi kabul edilmiştir. Bilirkişi raporlarından dava konusu arsa üzerinde 4 blok halinde inşaat yapıldığı anlaşılmaktadır. Arsa payı karşılığı inşaat yapım sözleşmelerinde sözleşmede öngörülmeyen, fiilen fazladan yapılmış bölüm varsa bu bağımsız bölüm-bölümlerin de sözleşmedeki paylaşım oranına uygun olarak dağıtılması gerekir. Sözleşmenin 3. maddesinde iki blok halinde yapılacak inşaatın zemin + 4 kat ya da zemin + 5 kat olmasına göre paylaşım düzenlemesi yapılmakla birlikte daha fazla blok ve sayıda inşaat yapılması halinde uygulanacak paylaşım biçimi düzenlenmemiştir.
 Fazladan yapılan bağımsız bölümlerin yasal olması halinde bu bölümlerde aksi kararlaştırılmadıkça arsa sahibi ve yüklenicinin hak sahibi olacağı da izahtan verestedir.
@@ -99,12 +113,16 @@ SONUÇ: Yukarıda (1.) bendde açıklanan nedenlerle tarafların diğer temyiz i
 
 ## Yargıtay 15. HD 2009/6813 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/16909400)
+
 Taraflar arasında imzalanan 16.05.2003 tarihli kat karşılığı inşaat sözleşmesinin 10. maddesinde, inşaat süresinin ruhsat tarihinden itibaren 24 ay olduğu, bu sürede iskân ruhsatı alınmadığı takdirde yüklenicinin, arsa sahiplerine rayiç kira ödeyeceği kararlaştırılmıştır. Aynı sözleşmenin 18. maddesinde ise, yükleniciye gösterilen aşamalarda satış yetkisinin verilmemesi durumunda geçen sürenin inşaat süresine ilave edileceği kabul edilmiştir. Eldeki davada, inşaatın süresinde tamamlanmadığından bahisle kira kaybının ödenmesi istenmişse de, yüklenici, tapu devri yapılmadığından dava açmak zorunda kaldığını, verilen hüküm uyarınca dairelerini alabildiğini belirterek gecikmede davacıların kusurlu olduğunu savunmuştur. Gerçekten, Ankara 21. Asliye Hukuk Mahkemesi’nde, aynı sözleşmede yer alan arsa sahiplerinden Yusuf Işık aleyhinde açılan dava sonunda, iki adet bağımsız bölümün tesciline karar verilmiş ve bu karar 31.01.2008 tarihinde kesinleşmiştir.
 Her ne kadar, açılan tescil davasında işbu davanın davacıları yer almamakta ise de, aynı sözleşmenin tarafı olan arsa sahiplerinden birisinin edimini yerine getirmeyerek yükleniciye pay devrinin gerçekleştirilememesi durumunda, sözleşmenin 18. maddesi uyarınca geciken süre kadar ilave süre isteminde yüklenicinin haklı olduğu kabul edilmelidir. Buna göre de, tapuların tesciline dair ilâmının kesinleşme tarihi gözetildiğinde davacıların bu davadaki gecikme tazminatı istemleri kabul edilemeyeceğinden, davanın tümüyle reddine karar verilmesi gerekirken, yazılı gerekçe ile kabul edilmesi doğru olmadığından karar bozulmalıdır.
 
 SONUÇ:Yukarıda açıklanan sebeplerle davalı vekilinin temyiz itirazlarının kabulü ile hükmün davalı yararına BOZULMASINA …
 
 ## Yargıtay 15. HD 2009/6681 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/16910000)
 
 Dava, arsa payı karşılığı inşaat yapım sözleşmesi uyarınca gecikme tazminatı alacağının tahsili istemine ilişkindir.
 
@@ -119,6 +137,8 @@ SONUÇ:Yukarıda açıklanan nedenlerle temyiz itirazlarının kabulü ile hükm
 
 ## Yargıtay 15. HD 2009/6175 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/855130400)
+
 Dava, arsa payı karşılığı inşaat yapım sözleşmesi uyarınca arsa sahiplerine isabet eden bağımsız bölümlerle ortak alanlardaki eksik işler bedeli ve gecikme tazminatı alacaklarının tahsili istemlerine ilişkindir.
 
 …
@@ -132,17 +152,23 @@ SONUÇ: Yukarıda (1.) bendde açıklanan nedenlerle davalının diğer temyiz i
 
 ## Yargıtay 15. HD 2009/5725 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/854881200)
+
 Düzenleme şeklindeki 03.01.2005 tarihli kat karşılığı inşaat sözleşmesinin “Hukuki Şartlar” bölümünün 2. maddesinde inşaatın ruhsat tarihinden itibaren 18 ayda bitirileceği, 3. maddesinde ise inşaat süresinde bitirilmezse yüklenicinin rayiç kira bedeli üzerinden davacıya kira bedeli ödeyeceği düzenlemelerine yer verilmiştir. İnşaat ruhsatının 09.06.2005 tarihinde alındığı tarafların kabulündedir. Bu durumda inşaat süresi 19.12.2006 tarihinde dolmaktadır. Davacı arsa sahibi dairesini 16.06.2007 tarihinde kiraya verdiğine göre, bu tarihte dairenin davacıya teslim edildiği kabul edilerek, bilirkişilerce hesaplanan gecikme tazminatı ve davacı tarafın bu konudaki istek miktarı da dikkate alınarak gecikme tazminatının karar altına alınması gerekirken, sözleşmedeki düzenlemenin cezai şarta ilişkin olduğu düşüncesiyle yazılı şekilde davanın bu bölümünün reddine karar verilmesi doğru olmamış, kararın bozulması gerekmiştir.
 
 SONUÇ: Yukarıda (1.) bendde açıklanan nedenlerle davacı arsa sahibinin sair temyiz itirazlarının reddine, (2.) bent uyarınca kararın davacı yararına BOZULMASINA …
 
 ## Yargıtay 15. HD 2009/5252 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/855372300)
+
 Arsa sahiplerinden ... ile 09.05.2005 tarihinde yapılan kat karşılığı inşaat sözleşmesi uyarınca gecikme tazminatının tahsiline karar verilmiş ise de, adı geçen arsa sahibi aleyhine ... 1. Sulh Hukuk Mahkemesi’nin 2006/778 Esas ve yine ... 2. Sulh Hukuk Mahkemesi’nin 2007/552 Esas sayılı dosyalarında açılan şufa davası sonucu, 26323 ada 2 parselde ... adına kayıtlı 94/2400 hissenin iptâli ile davacıları adına tapuya tesciline karar verilmiş, karar derecaattan geçmek suretiyle 05.05.2009 tarihinde kesinleşmiştir. Böylece adı geçene ait tapu payı tümüyle iptâl edilmekle sözleşmenin dayanağı kalmadığından davacı ile imzalanan kat karşılığı inşaat sözleşmesi uyarınca yüklenicinin inşaat yapma ve teslim yükümlülüğünden sözedilemez. Başka anlatımla yüklenicinin inşaatı tamamlaması durumunda davacıdan arsa payı devri yapamayacağı, böylece kendi edimini yerine getirmeyen tarafın karşı taraftan edimini yerine getirmesini isteyemeyeceğinden (BK. 81. madde) gecikme tazminatı isteminin tümüyle reddine karar verilmesi gerekirken bu husus üzerinde durulmadan kısmen kabul kararı verilmesi usul ve yasaya aykırı olmuş, kararın bozulması gerekmiştir.
 
 SONUÇ:Yukarıda 1. bendde açıklanan nedenlerle davacı ve karşı davalı yüklenici kooperatifin sair temyiz itirazlarının reddine, 2. bent uyarınca hükmün davacı-k.davalı yararına BOZULMASINA …
 
 ## Yargıtay 15. HD 2009/4529 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/854779100)
 
 Sözleşmesine göre 30.11.2005 tarihinden itibaren yüklenici her ay için kira tazminatı ödemekle yükümlü bulunmakta ve 25.12.2006’ya kadar teslimin gerçekleşmediği anlaşılmakta ise de davacı arsa sahiplerinin dava dışı Üçgen Yapı Denetim firması ile imzaladıkları yapı denetim sözleşmesini 04.04.2006 tarihinde feshetmeleri ve belediyeye vâki ihbar üzerine yapılan incelemede yapı denetim sözleşmesinin mevcut olmaması ve mevcut inşaat ruhsatında arsa maliklerinden...ün muvafakatının bulunmaması sebebiyle inşaatın durdurulduğu 11.07.2006 tarihli yapı tatil tutanağından anlaşılmaktadır. Belirlenen bu eksikliklerin arsa sahiplerince giderilmesi gerekirken 25.12.2006’ya kadar yeni bir denetim sözleşmesi yapılmadığı gibi inşaat ruhsatı da alınmamıştır. Davalı yükleniciden, inşaat ruhsatı bulunmadığından bu aşamada inşaata devam etmesi istenemeyeceğinden mahkemece 30.11.2005 ile inşaatın durdurulduğu 11.07.2006 tarihleri arasında geçen dönem için gecikme tazminatına hükmedilmesi gerekirken bu tarihten sonraki dönem için yüklenicinin sorumlu tutulması doğru bulunmamış, kararın davalı yüklenici şirket yararına bozulması gerekmiştir.
 
@@ -151,6 +177,8 @@ Davalı ...’in temyiz itirazlarına gelince; adı geçen davalının davacıla
 SONUÇ: Yukarıda (1.) bendde yazılı nedenlerle davalı şirketin diğer temyiz itirazlarının reddine, (2.) bent gereğince hükmün temyiz eden davalı şirket, (3.) bent uyarınca ise davalı ... yararına BOZULMASINA …
 
 ## Yargıtay 15. HD 2009/4033 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/856189200)
 
 Dava, arsa payı karşılığı yapım sözleşmesi uyarınca gecikme tazminatı alacağının tahsili istemine ilişkindir.
 
@@ -170,6 +198,8 @@ SONUÇ:Yukarıda (1.) bendde yazılı nedenlerle davacının tüm, davalının d
 
 ## Yargıtay 15. HD 2009/3643 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/854865400)
+
 Dava, kat karşılığı inşaat sözleşmesine dayalı, eksik iş ve gecikme tazminatı istemlerine ilişkin olup, mahkemece davanın kabulüne dair verilen karar taraf vekillerince temyiz edilmiştir.
 
 …
@@ -184,6 +214,8 @@ SONUÇ:Yukarıda 1. bendde açıklanan nedenlerle davacının tüm, davalının 
 
 ## Yargıtay 15. HD 2009/3280 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/854912400)
+
 Mahkemece de kararın gerekçe kısmında arsa sahipleriyle davalı yüklenici kooperatif arasında akdî ilişkinin varlığı kabul edilmiş, ancak geç teslim halinde tazminat ödeneceğine ilişkin düzenleme bulunmadığından davanın reddine karar verilmiştir. Arsa payı devri karşılığı inşaat sözleşmelerinde gecikme tazminatı ödenmesine ilişkin herhangi bir düzenleme yer almasa dahi, arsa sahiplerinin istekleri halinde mahalli rayiçlere uygun gecikme tazminatının verilmesi Dairemizce kabul edilmektedir.
 
 …
@@ -193,6 +225,8 @@ Bu durumda, davacı arsa sahibinin davası incelenip yerinde uzman bilirkişi ar
 SONUÇ:Yukarıda açıklanan nedenlerle kararın temyiz eden davacı yararına BOZULMASINA …
 
 ## Yargıtay 15. HD 2009/2935 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/854576500)
 
 Davacı, dava dilekçesi ve bilahare verdiği açıklama dilekçesinde de belirttiği üzere, sözleşme gereği kendisine isabet eden fiili durumda 1. normal kattaki 3 nolu dairenin, sözleşmeye uygun şekilde teslimini, bunun mümkün olmaması halinde dava tarihindeki rayiç bedelinin tahsilini ve ayrıca gecikme nedeniyle tazminat ödetilmesini istemiş, mahkemece; yapılan inşaatın projesiz, ruhsatsız, yani kaçak olduğu, yasal hale getirilmesinin de mümkün bulunmadığı, bu nedenle teslim, nefaset farkı vb. taleplerin dinlenemeyeceği, ancak gecikme yüzünden oluşan kira kaybına hükmedilebileceği gerekçesiyle diğer taleplerin reddine, belirlenen kira kaybının ise tahsiline karar verilmiş, verilen karar davacı vekilince temyiz edilmiştir.
 
@@ -206,6 +240,8 @@ SONUÇ:Yukarıda açıklanan nedenlerle hükmün temyiz eden davacı yararına B
 
 ## Yargıtay 15. HD 2009/2224 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/854021300)
+
 Dava, arsa payı karşılığı inşaat yapım sözleşmesinin feshi, eksik işler bedeli ile gecikme tazminatı alacaklarının tahsili istemlerine ilişkindir.
 
 …
@@ -218,11 +254,15 @@ SONUÇ: Yukarıda (1.) bendde yazılı nedenlerle davalıların diğer temyiz it
 
 ## Yargıtay 15. HD 2009/898 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/853662300)
+
 Davada cezai şart istemiyle birlikte sözleşmenin feshi istemi de yer almıştır. Dava tarihi itibariyle kat karşılığı inşaat sözleşmesinin içeriği gözetildiğinde ve cezai şart tutarı da ilave edildiğinde herhalûkarda Sulh Hukuk Mahkemesi’nin görev sınırının üzerinde kalacağı ortadadır. Bu nedenle mahkemece görevsizlik kararı verilerek bu nedenle dava dilekçesinin reddine karar verilmesi, talep halinde dosyanın Asliye Hukuk Mahkemesine gönderilmesi gerekirken, uyuşmazlığın esası incelenerek hüküm tesis edilmesi doğru olmamış, bozulması uygun bulunmuştur.
 
 SONUÇ:Yukarıda açıklanan nedenlerle davalı-karşı davacının temyiz istemlerinin kabulü ile hükmün BOZULMASINA …
 
 ## Yargıtay 15. HD 2009/467 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/853918800)
 
 Davacı ve dava dışı arsa sahipleriyle yüklenici kooperatif arasında imzalanan 21.04.1995 tarihli daire karşılığı inşaat sözleşmesinin 8. maddesinde belirtilen her daire için aylık 200 DM gecikme tazminatı 1 yıllık süre için geçerlidir. Taraflar arasındaki daire karşılığı inşaat sözleşmesi fesih edilmediğine göre bu düzenleme arsa sahibinin daha sonraki aylar için gecikme tazminatı istemesini engelleyici nitelikte değildir. Ancak 1 yıllık süreden sonraki aylar için gecikme tazminatının, sözleşmede gecikme tazminatı miktarı belirlenmediğinden, emsal rayiçlere göre Türk Lirası cinsinden bilirkişi aracılığıyla hesaplanması gerekir.
 

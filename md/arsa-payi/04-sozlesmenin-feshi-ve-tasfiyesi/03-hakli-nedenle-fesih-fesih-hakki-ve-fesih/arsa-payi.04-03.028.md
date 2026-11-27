@@ -22,6 +22,8 @@ uyari: "Derleyenin seçtiği alıntılardır; kararın tamamı değildir. Künye
 
 ## Yargıtay 15. HD 2012/595 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/473143800)
+
 Dava ve birleşen dava BK'nın 355 ve devamı maddelerinde düzenlenen eser sözleşmesinden kaynaklanan alacak istemine ilişkindir.
 
 …
@@ -39,6 +41,8 @@ SONUÇ:Yukarıda 1. bentte yazılı nedenlerle davalının sair temyiz itirazlar
 
 ## Yargıtay 15. HD 2012/351 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/475975500)
+
 Davada arsa sahiplerince 01.03.2007 tarihinde kat karşılığı inşaat sözleşmesinin haksız olarak feshedildiği ileri sürülerek noter onayı, tapu şerhi ve proje çizimleri nedeniyle yapılan 71.857,00 TL ve açıklama yapılmaksızın 75.000,00 TL menfi zarar talep edilmiştir. Menfi (olumsuz) zarar sözleşmenin karşı tarafça yerine getireleceğine olan güvenin boşa çıkması nedeniyle uğranılan eylemli zarardır. Yasal dayanağı da BK'nın 106/II. maddesidir. Dolayısıyla karşı tarafın malvarlığına girsin veya girmesin sözleşme nedeniyle alacaklının cebinden ve yasal olarak çıkan paradır. Menfi zarar borçlunun direnimi sonucu borç yerine
 
 …
@@ -49,6 +53,8 @@ SONUÇ: Yukarıda 1. bentte açıklanan nedenlerle tarafların sair temyiz itira
 
 ## Yargıtay 15. HD 2012/350 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/17247800)
+
 Bilindiği üzere BK'nın 369. maddesinde, eserin tamamlanmasından önceki bir aşamada iş sahibinin, yapılmış işlerin bedelini vermek ve yüklenicinin zarar ve ziyanını baliğan mabelağ (ferah ferah, bol bol) tazmin etmek şartı ile herhangi bir gerekçe göstermeksizin sözleşmeyi feshedebileceği öngörülmüştür. Anılan yasa hükmüne göre, yüklenici zararı hesaplanırken BK'nın 325. maddesinde ifade edilen kesinti yöntemi değil, toplama yöntemi uygulanır. Bu yöntemde, yüklenicinin fesih tarihine kadar yaptığı giderlere (olumsuz zarar), şayet eser tamamlanmış olsaydı o tarihte elde edeceği net kar (olumlu zarar) eklenerek toplam zarar miktarı bulunur. Nitekim BK'nın 369. maddesi uyarınca yapılan fesih sonucu yüklenicinin olumlu ve olumsuz tüm zararlarını en üst düzeyde isteyebileceği muhtelif Yargıtay kararlarında ifade edilmiş bulunmaktadır (Y.15.HD.10.04.1989 T., 2592/1833 sy., 16.10.1989 T., 1623/4247 sy.,).
 Bunun yanında arsa payı karşılığı inşaat sözleşmeleri, tapuda pay devri edimi de içerdikleri için kural olarak ancak taraf iradelerinin birleşmesi ile ya da mahkeme kararı ile feshedilebilirlerse de BK'nın 369. maddesi uyarınca gerçekleştirilen fesih işlemlerinde, fesih iradesinin karşı tarafa ulaşmasıyla bozucu yenilik doğuran hak sonuçlarını doğurur ve sözleşme ilişkisi sona erer. Bu itibarla da yüklenicinin tazminat alacağı hesabı anılan tarihteki rayiçler üzerinden yapılır.
 
@@ -58,6 +64,8 @@ SONUÇ: Yukarıda 1.bentte açıklanan nedenlerle asıl davada davacı, birleşe
 
 ## Yargıtay 15. HD 2012/261 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/475051400)
+
 TMK'nın 692. maddesi dikkate alındığında, sözleşmenin feshi için açılan davanın tüm paydaşlar tarafından açılması, paydaşlardan bir kısmının fesih davası açması durumunda diğer paydaşların da davaya muvafakatlarının sağlanması veya davanın tarafı olmalarının temin edilmesi zorunludur. Somut olayda her ne kadar arsa paydaşlarının ayrı sözleşmeleri varsa da, inşaatın aynı parsele yapılacak olması ve fesih kararının tüm paydaşların haklarını etkilemesi dikkate alındığında, bu kuralın uygulanmasında zorunluluk bulunmaktadır.
 
 …
@@ -65,6 +73,8 @@ TMK'nın 692. maddesi dikkate alındığında, sözleşmenin feshi için açıla
 SONUÇ: Yukarıda açıklanan nedenlerle kararın temyiz eden davacılar yararına BOZULMASINA …
 
 ## Yargıtay 15. HD 2012/203 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/474864000)
 
 Davada 8 nolu villadaki eksik iş bedeli talep edilmiştir. Sözleşmelerine göre davalının yapacağı inşaatta 8 adet villanın 4 arsa sahibine verileceği kabul edilmiştir. Davacı 8 adet villada 8 nolu olanın kendisine ait olduğunu ileri sürerek talepte bulunmuş, mahkemece tespit olunan eksik işlerin giderilme bedelinin 1/4’üne hükmedilmiştir. Oysa bu durumda davacıya mehil verilerek davada yer almayan diğer arsa sahiplerinden muvafakat alması için mehil verilmesi ve muvafakat verildiği takdirde mahkemece belirlenecek eksik işler bedelinin tamamına hükmedilmelidir. 1/4’üne hükmedilmesi doğru olmadığı gibi, mahkemece hükme esas alınan bilirkişi kurulu raporu ile tespit raporu arasında önemli derecede çelişki bulunduğu halde bu çelişki giderilmeden karar verilmesi de doğru görülmemiştir. Yine muaccel olmadığı gerekçesiyle kira alacağına ilişkin talebin reddedilmesi yerinde ise de kira bedeli için davalı yararına takdir olunacak vekâlet ücretinin maktu olması gerekirken nispi tarifeden hesaplanması da tarifeye aykırı olmuştur (HGK 25.05.2011 gün 2011/11-186 Esas-2011/352 Karar sayılı kararı).
 Bu durumda mahkemece yapılacak iş, raporlar arasındaki çelişkinin yeniden oluşturulacak bilirkişi kurulundan alınacak raporla giderilmesi, diğer arsa sahipleri muvafakat verdikleri takdirde arsa payı üzerinden indirim yapılmadan eksik iş bedeline hükmedilmesi vekâlet ücretinin de belirtilen şekilde hesaplanmasından ibarettir.
@@ -75,6 +85,8 @@ SONUÇ:Yukarıda 1. bentte yazılı nedenlerle tarafların sair temyiz itirazlar
 
 ## Yargıtay 15. HD 2011/8116 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/660797300)
+
 Dava, kat karşılığı inşaat sözleşmesinden kaynaklanan kira kaybı talebine ilişkindir.
 
 …
@@ -84,11 +96,15 @@ Taraflar arasında düzenlenen sözleşmenin 5. maddesinde inşaatın temel ruhs
 
 ## Yargıtay 15. HD 2011/8056 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/661037100)
+
 Davacılar 08.05.2007 tarihinde imzaladıkları kat karşılığı inşaat sözleşmesinden bir gün sonra davalı yüklenicilere gönderdikleri ... 3. Noterliği'nin 09.05.2007 tarihli ihtarnamesi ile sözleşmeyi feshettiklerini bildirdiklerine ve yükleniciler tarafından da 24.03.2008 tarihinde açılan karşı davada sözleşmenin feshi nedeniyle maddi ve manevi tazminat isteminde bulunduklarına göre, tarafların iradelerinin sözleşmenin feshi konusunda uyuştuğu sonucuna varılmaktadır. Tarafların iradeleri 08.05.2007 tarihli sözleşmenin feshi konusunda birleştiğinden, mahkemece sözleşmenin feshedildiğinin tesbitine karar verilmesiyle yetinilmesi gerekir.Mahkeme kararında 08.05.2007 tarihli sözleşmenin davacı arsa sahipleri tarafından geçerli bir nedene dayanmaksızın ve yasal şartları gerçekleşmeksizin feshedildiğinden sözedilmiş, karar arsa sahipleri tarafından temyiz edilmemiştir. Mahkemenin bu belirlemesine göre davalı yüklenicilerin fesih davası yönünden yargılama gideri ve vekâlet ücreti ile sorumlu tutulmaları doğru olmamıştır.
 Kararın bu nedenlerle bozulması gerekir ise de, bu yanlışlıkların giderilmesi yeniden yargılama yapılmasını gerektirmediğinden, 6100 Sayılı HMK'nın geçici 3. maddesi yollamasıyla 1086 Sayılı HUMK'nın 438/VII. ve son maddeleri uyarınca kararın düzeltilerek onanması uygun bulunmuştur.SONUÇ:Yukarıda 1. bentte açıklanan nedenlerle davalılar ve karşı davanın davacıları yüklenicilerin sair temyiz itirazlarının reddine, 2. bent uyarınca kararın hüküm fıkrasında yer alan “iş bu davanın kısmen kabulü ile taraflar arasında akdedilmiş bulunan 08.05.2007 tarihli ... 3. Noterliği'nin 22571 yevmiye numaralı kat karşılığı inşaat ve gayrimenkul satış vaadi sözleşmesinin davalılarca geçerli bir nedene dayanmaksızın ve yasal şartları gerçekleşmeksizin fesih edildiği, ancak bunun dönme niteliğinde olması sebebiyle bu sözleşmenin sona ermiş bulunduğunun tesbitine, fazlaya dair (sözleşmenin feshi yönünden) talebin reddine,” kelime, tarih ve rakamlarının karardan çıkarılmasına, yerine “Taraflar arasındaki ... 3.
 Noterliği'nin 08.05.2007 tarih 22571 yevmiye numaralı kat karşılığı inşaat sözleşmesinin arsa sahiplerinin geçerli bir nedene dayanmayan fesih bildirimleri ve yüklenicilerin de açtıkları karşı dava ile sonuç itibariyle fesih bildirimini kabul etmiş olmaları dikkate alınarak sözleşmenin fesih edildiğinin tesbitine” kelimelerinin yazılmasına, ayrıca kararın hüküm fıkrası son paragrafında yer alan “kendisini vekille temsil ettiren davacılar vekili için bu dava nedeniyle 1,200,00 TL nisbi” ve “5.150,00” rakam ve kelimelerinin karardan çıkarılmasına, 5.150,00 rakamının yerine “3.950,00” rakamının yazılmasına, kararın değiştirilmiş bu şekliyle DÜZELTİLEREK ONANMASINA, ödediği temyiz peşin harcının istek halinde temyiz eden davalı-k.davacılar ...ve ...'a geri verilmesine, 28.12.2011 gününde oybirliğiyle karar verildi.
 
 ## Yargıtay 15. HD 2011/7097 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/489266500)
 
 Arsa payı karşılığı inşaat yapım sözleşmeleri mülkiyeti devir borcu yüklediğinden bu sözleşmelerin tek taraflı olarak gönderilen ihtarname ile feshi mümkün değildir. Feshin gerçekleşebilmesi için tarafların fesih konusunda anlaşmaları ya da mahkemece feshe karar verilmesi gerekir. Somut olayda davacı arsa sahiplerinin gönderdiği fesih ihtarı davalı yüklenici tarafından kabul edilmeyip feshe karşı çıkıldığından ihtarın ulaştığı tarihte …
 
@@ -98,11 +114,15 @@ SONUÇ:Yukarıda 1. bentte yazılı nedenlerle davalının sair temyiz itirazlar
 
 ## Yargıtay 15. HD 2011/6942 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/766284100)
+
 Taraflar arasındaki inşaat yapım sözleşmesi, az yukarıda değinildiği üzere arsa sahibi tarafından feshedilmiştir. Her ne kadar karşı davada kira kaybının tahsiline karar verilmesi istenmiş ve mahkemece de kabul edilmiş ise de mahrum kalınan kira kaybı olumlu zarar niteliğinde olup, sözleşmeyi fesheden taraf, ancak BK’nın 106-108. maddeleri uyarınca akdin ifa edilmemesi nedeniyle sözleşme yapılmasaydı uğramayacağı zararları, kısaca olumsuz zararlarını isteyebilir. Kuşkusuz aksi, sözleşmede kararlaştırılabilir. Ancak, sözleşmede kuralın aksine ilişkin bir hüküm bulunmadığından, davalı ve karşı davacının olumlu zarar niteliğindeki kira kaybına ilişkin karşı davasındaki istemin tümüyle reddine karar verilmelidir. Bu husus gözetilmeksizin karşı davanın da kabulüne yönelik hüküm kurulması usul ve yasaya aykırı olmuş, kararın bozulması uygun bulunmuştur.
 
 SONUÇ:Yukarıda 1. bentte açıklanan sebeplere, davacı-k.davalı vekilinin sair temyiz itirazlarının reddine, 2. bent uyarınca kabulü ile hükmün temyiz eden davacı ve karşı davalı yararına BOZULMASINA …
 
 ## Yargıtay 15. HD 2011/6860 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/765229900)
 
 Dava, arsa payı karşılığı inşaat yapım sözleşmesinin feshi nedeniyle uğranılan maddi ve manevi zararların giderilmesi istemine ilişkindir.
 
@@ -115,6 +135,8 @@ Bu durumda mahkemece öncelikle davacı tarafa talep ettikleri 25.000,00 TL madd
 SONUÇ: Yukarıda 1. bentte açıklanan nedenlerle davalının diğer temyiz itirazlarının reddine, 2. bent uyarınca kabulü ile hükmün davalı yararına BOZULMASINA …
 
 ## Yargıtay 15. HD 2011/6306 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/765109500)
 
 Davalı, sözleşmeye uygun edimlerini ifa etmeyen davacının ekonomik yetersizliği nedeniyle de feshin haklı olduğunu, feshe karşı tazminat davası açmakla feshi benimsediğinin kabulü gerektiğini, BK'nın 369. maddesine göre tazminat istenemeyeceğini belirterek davanın reddini savunmuştur.
 
@@ -131,6 +153,8 @@ SONUÇ:Yukarıda 1. bentte açıklanan nedenlerle tarafların diğer temyiz itir
 
 ## Yargıtay 15. HD 2011/6143 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/765162600)
+
 Arsa payı karşılığı inşaat yapım sözleşmeleri eser ve satış vaadi sözleşmelerinden oluşan karma nitelikli akitlerden olup satış vaadini de içerdiğinden tek taraflı irade beyanı ile feshi mümkün değildir. Dairemizin kararlılık gösteren içtihatlarında bu tip sözleşmelerin tarafların iradelerinin birleşmesi halinde ya da haklı sebeplerin bulunması durumunda mahkemenin vereceği fesih kararı ile sona ereceği kabul edilmektedir. Davacı fesih iradesini açıklamış ise de davalı cevabında hatta temyiz dilekçesinde dahi davacının fesih iradesini kabul etmemiş, sözleşmenin ayakta olduğunu savunmuştur. Karşı davadaki taleplerini de feshin varlığını kabul anlamına gelmemek üzere ileri sürdüğünden karşı dava ile fesih iradelerinin birleştiğinin kabulüne de olanak bulunmamaktadır. Bu durumda davacı yüklenici ancak davalı karşı davacı arsa sahibinin kusuru ile ya da imkânsızlık hukuki nedenine dayanarak sözleşmeyi feshedebilir. Somut olayda imkânsızlık bulunduğu ileri sürülüp kanıtlanmamıştır.
 
 …
@@ -138,6 +162,8 @@ Arsa payı karşılığı inşaat yapım sözleşmeleri eser ve satış vaadi s�
 SONUÇ: Yukarıda 1. bentte yazılı nedenlerle davalı-karşı davacının diğer temyiz itirazlarının reddine, 2. bent uyarınca kabulü ile asıl dava yönünden hükmün davalı-karşı davacı arsa sahibi yararına BOZULMASINA …
 
 ## Yargıtay 15. HD 2011/5999 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/765781800)
 
 Dava, arsa payı karşılığı inşaat sözleşmesinin feshi nedeniyle tapu iptâli tescil, sözleşmenin feshedilememesi halinde dairenin geç tesliminden dolayı gecikme tazminatı alacaklarının tahsili istemine ilişkindir.
 
@@ -152,11 +178,15 @@ SONUÇ: Yukarıda açıklanan nedenlerle temyiz itirazlarının kabulüyle karar
 
 ## Yargıtay 15. HD 2011/5574 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/764185900)
+
 05.04.1996 tarihli kat karşılığı inşaat sözleşmesinde davacılar yanında ayrıca arsa sahibi sıfatıyla, ... , ... , ... , ... , ... de yer almıştır. İnşaat yapımı kararlaştırılan ... ilçe ... Mah. 1900 Ada 4-5-6 nolu parsellerin, sözleşme tarihinde adı geçenlerin pay sahibi oldukları da getirtilen tapu kaydından anlaşılmaktadır. Türk Medeni Kanunu'nun 692. maddesi hükmünce, paylı malın tamamı üzerinde tasarruf işlemlerinin yapılması, oybirliğiyle, aksi kararlaştırılmış olmadıkça bütün paydaşların kabulüne bağlıdır. Davada, sözleşmenin feshi istenildiğine göre, gerek sözleşmenin tarafı olan gerekse tapuda paydaş bulunan tüm maliklerin davada yer alması zorunludur. O halde mahkemece yapılması gereken iş, diğer paydaşların davaya muvafakatlerinin alınması, muvafakat etmedikleri takdirde ayrı bir dava açılarak, bu dava ile birleştirilmesi, böylece tüm maliklerin davada yer alması tamamlandıktan sonra uyuşmazlığın esasının incelenmesi, aksi halde davanın reddine karar verilmesinden ibarettir. Bu hususlar üzerinde durulmadan eksik taraf teşkili ile sözleşmenin feshedilmesi usul ve yasaya aykırı olmuş, kararın bozulması uygun bulunmuştur.
 
 SONUÇ: Yukarıda açıklanan nedenlerle, davalının temyiz itirazlarının kabulü ile hükmün davalı yararına BOZULMASINA …
 
 ## Yargıtay 15. HD 2011/4537 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/764735100)
 
 Dava, arsa payı karşılığı inşaat yapım sözleşmelerinin feshi ve sözleşmede kararlaştırılan cezai şart alacağının tahsili ile şerhin terkini istemlerine ilişkindir.
 
@@ -169,6 +199,8 @@ SONUÇ:Yukarıda 1. bentte açıklanan nedenlerle davalıların temyiz itirazlar
 
 ## Yargıtay 14. HD 2011/3730 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/759905200)
+
 Dava, yüklenicinin temliki işlemine dayalı tapu iptali ve tescil istemine ilişkindir.
 
 …
@@ -180,6 +212,8 @@ Yukarıda bahsedildiği üzere işin davalı yüklenici ... tarafından bırakı
 SONUÇ: Yukarıda 1.bentte açıklanan nedenlerle hükmün temyiz eden arsa sahipleri yararına BOZULMASINA …
 
 ## Yargıtay 15. HD 2011/2679 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/763965900)
 
 Mahkemece, ... İnş.
 
@@ -194,6 +228,8 @@ Arsa sahibi ... tarafından İzmir 27. Noterliği aracılığıyla gönderilen v
 SONUÇ: Yukarıda 1. bentte açıklanan nedenlerle Av. ... tarafından sunulan 11.11.2010 tarihli temyiz dilekçesinin reddine, 2. bentte açıklanan sebeplerle asli müdahiller ..., ..., ... ve ... vekillerinin tüm, davalı-davacı ... vekilinin ise sair temyiz itirazlarının reddine, 3. bentte açıklanan nedenlerle de davalı-davacı ... vekilinin diğer temyiz itirazlarının kabulüne ve kararın anılan bu davalı yararına BOZULMASINA …
 
 ## Yargıtay 15. HD 2011/2549 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/765271700)
 
 Dava, arsa payı karşılığı inşaat yapım sözleşmesi şerhinin terkini istemine ilişkindir.
 
@@ -211,6 +247,8 @@ SONUÇ: Yukarıda 1. ve 2. bentte açıklanan nedenlerle temyiz itirazlarının 
 
 ## Yargıtay 15. HD 2011/2400 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/765620400)
+
 Davacı yükleniciler asıl davalarında taraflar arasında düzenlenen arsa payı karşılığı inşaat sözleşmesinin feshi nedeniyle yaptıkları imalât ve arsa sahibi yararına gerçekleştirdikleri diğer işlerin bedelini, birleşen davalarında da bir kısım istek kalemlerine ait fazla haklarının tahsilini talep etmişler, davalı arsa sahibi; davanın reddini savunmuş, mahkemece; asıl davanın kısmen kabulüne, birleşen davanın ise zamanaşımı nedeniyle reddine dair verilen karar taraf vekillerince temyiz edilmiştir.
 
 …
@@ -224,6 +262,8 @@ BK'nın 126/IV. maddesi uyarınca eser sözleşmelerinde zamanaşımı süresi k
 SONUÇ: Yukarıda 1. bentte açıklanan nedenlerle taraf vekillerinin diğer temyiz itirazlarının reddine, kararın 2. bent uyarınca davacılar, 3. bent uyarınca da davalı yararına BOZULMASINA …
 
 ## Yargıtay 15. HD 2011/2398 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/765630300)
 
 Dava, arsa payı karşılığı inşaat yapım sözleşmesinin feshi, kat irtifâkının iptâli ile tapu iptâli ve tescil istemlerine ilişkindir.
 

@@ -35,6 +35,8 @@ Mahkemece, davacı tarafından dava dilekçesi ve 18/05/2026 tarihli dilekçe ek
 
 ## İstanbul BAM 3. HD 2026/853 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1202826500)
+
 Müvekkilinin alacağının teminat altına alınması için HMK’nın 389 vd maddelerine göre davalının tespit edilecek makine, araç ve taşınmazlarının kaydına ihtiyati tedbir konulmasına, muhakeme masrafları ile ücreti vekaletin davalıya tahmiline karar verilmesini talep ve dava etmiştir.
 
 ## İstanbul BAM 15. HD 2026/829 K.
@@ -46,6 +48,8 @@ Delil tespiti istenebilmesi için hukuki yararın varlığı gerekir. Kanunda a�
 Mevcut yasal düzenlemeler karşısında, delil tespitinin bir dava niteliğinde olmaması ve kesin bir hüküm oluşturmaması sebebiyle tek başına istinaf kanun yoluna tabi değildir.Delil tespiti istemleri hakkındaki kararlar geçici hukuki koruma kararı niteliğinde olduklarından nihai karar olarak nitelendirilmeleri mümkün değildir. Kaldı ki kanun koyucu, HMK' nın 400. ve devamı maddelerinde düzenlenen delil tespiti istemleri hakkında verilen kararlar yönünden başvurulabilecek herhangi bir kanun yolu da öngörmemiştir.
 
 ## Konya BAM 5. HD 2026/794 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1205348800)
 
 Davacı vekili istinaf başvuru dilekçesinde özetle, dosyada bulunan mevcut deliller, yazılı eser sözleşmesi, Konya ... Sulh Hukuk Mahkemesi ... D.iş sayılı dosyasında yapılan tespitler, davalının sözleşme gereği vermeyi vaadettiği daireleri vermemesi ve sözleşme gereği davacıdan aldığı senetleri de tahsil etmesi birlikte değerlendirildiğinde yaklaşık ispatın fazlası ile sağlandığını belirterek, inşaatçı ipoteği tesisi ihtiyati tedbir ve ihtiyati haciz taleplerinin reddine ilişkin 10.03.2026 tarihli ara kararının kaldırılarak talep doğrultusunda yeniden karar verilmesini istemiştir.
 
@@ -75,6 +79,8 @@ Maddenin birinci fıkrasına göre, ihtiyati haciz isteyebilmek için, alacağı
 
 ## Gaziantep BAM 11. HD 2026/706 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1207979400)
+
 Dairemizce yapılan inceleme sonucunda; dosyadaki belgelere, kararın dayandığı delillere, duruşma sürecini yansıtan tutanaklara ve gerekçe içeriğine göre, mahkemece taraflar arasındaki uyuşmazlığın somut olayın özelliklerine uygun olarak belirlendiği, yargılamanın HMK'da belirtilen usullere uygun olarak yürütüldüğü, taraflarca gösterilen hükme etki edecek delillerin usulüne uygun olarak toplandığı, delillerin takdirinde ve yasa kurallarının olaya uygulanmasında bir isabetsizlik görülmediği, kararda kamu düzenine aykırı herhangi bir husus bulunmadığı, 2004 sayılı İİK'nın 257 ve devamı maddeleri uyarınca ihtiyati haciz kararı verilebilmesi için alacağın yaklaşık olarak ispatlanması gerektiği, dosyaya sunulan belgeler itibariyle henüz bu ispatın sağlanamadığı bu sebeple kararın usul ve esas yönünden hukuka uygun olduğu anlaşıldığından talep eden vekilinin istinaf başvurusunun esastan reddine karar verilmiştir.
 
 ## İstanbul BAM 15. HD 2026/697 K.
@@ -93,6 +99,8 @@ geçerlilik şekline (resmî şekle) uyulmadan yapılması, bu ek sözleşmeyi k
 
 ## Gaziantep BAM 11. HD 2026/643 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1203627900)
+
 2004 sayılı İİK m. 257'ye göre ihtiyati haciz kararı verilebilmesi için alacağın yaklaşık olarak ispatlanmış olması gerekmektedir. Davacı alacağın yaklaşık olarak ispat edildiğine kanıt olarak faturayı göstermiştir. Fatura tek başına malın teslim edildiğinin kabulü için yeterli değildir.. Bu nedenle mahkemenin verdiği kararda usul ve yasaya aykırı bir yön bulunmamaktadır.
 
 ## İstanbul BAM 53. HD 2026/640 K.
@@ -105,6 +113,8 @@ vekaletnameye dayalı olarak sözleşmenin ifasına yönelik bir kısım iş ve 
 Dosya kapsamına, iddianın ileri sürülüş biçimine, davanın ve sözleşmenin niteliğine göre; bu aşamada, talep eden lehine ihtiyati haciz kararı verilmesini gerektirir rehinle temin edilmemiş muayyen ve muaccel bir alacağın varlığına yeterli yaklaşık ispat ölçüsünde bilgi ve belge bulunmadığının anlaşılmasına göre mahkemece ihtiyati haciz talebinin reddine dair verilen karar usul, yasa ve dosya kapsamına uygun olduğundan davacı vekilinin istinaf talebinin reddine karar verilmesi gerekmiştir.Açıklanan nedenlerle, 6100 sayılı HMK'nın 355. madde hükmü uyarınca istinaf dilekçesinde belirtilen sebeplerle sınırlı olarak ve kamu düzeni gözetilerek yapılan istinaf incelemesi sonucunda, dosya kapsamına, kararın dayandığı delillerle yasaya uygun gerektirici nedenler ve ileri sürülen istinaf sebeplerine göre, mahkeme ara kararında usul ve esas yönünden yasaya aykırılık bulunmadığı anlaşılmakla, davacı vekilinin istinaf başvurusunun HMK'nın 353/1-b-1. bendi gereğince esastan reddine karar verilmesi gerekmiştir.
 
 ## Adana BAM 6. HD 2026/634 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1198164900)
 
 Davacı vekili istinaf dilekçesine karşı beyanında; HMK.397. Maddesi kapsamında süre şartının yerine getirildiğini, maddeye göre, ihtiyati tedbir kararının uygulanmasının talep edildiği tarihten itibaren iki hafta içinde esas davanın açılması gerektiğini, somut olayda, arabuluculuğa başvuru yapıldığını, uyuşmazlığın arabuluculuğa tabi olduğunu, arabuluculuk süreci devam ederken esas davanın açılmasının mümkün olmadığını, zorunlu arabuluculuk sürecinin dava şartı olduğunu, arabuluculuk süreci tamamlanmadan dava açılması mümkün olmadığından, HMK.397.maddeisndeki sürenin işlemediğini, derdestlik iddiasının yerinde olmadığını, yaklaşık ispatın gerçekleştiğini, kararın onanmasına karar verilmesini talep etmiştir.
 
@@ -146,11 +156,15 @@ Davalının tedbire itirazının kabulü ile 30.05.2025 tarihli ara kararın KAL
 
 ## Erzurum BAM 3. HD 2026/586 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1202073500)
+
 Dava, konkordato istemine ilişkin olup, istinafa konu uyuşmazlık 03/02/2026 tarihli dava konusu taşınmazların konkordato komiseri nezaretinde satışına izin verilmesine dair ara kararın kaldırılması istemine ilişkindir.
 
 İlk derece mahkemesince 03/02/2026 tarihli ara kararla ihtiyati tedbir talebinin kabulüne karar verildiği, karara karşı ilgili kişi ... ... Plastik Mekanik Lojistik İnşaat Taahhüt Sanayi ve Ticaret Limited Şirketi vekili tarafından itiraz edildiği, mahkemece 06/03/2026 tarihli istinaf başvurusunun değerlendirilmesi kararı ile verilen kararın kesin nitelikte olduğundan bahisle HMK'nın 346/1. maddesi uyarınca istinaf başvurusunun reddine karar verildiği, bu karar karşı ilgili kişi ... ... Plastik Mekanik Lojistik İnşaat Taahhüt Sanayi ve Ticaret Limited Şirketi vekili tarafından istinaf başvurusunda bulunulduğu anlaşılmıştır.
 
 ## İstanbul BAM 45. HD 2026/428 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1199677600)
 
 Asliye Ticaret Mahkemesinin 2021/1120 E., sayılı dosyasının 19/01/2026 tarihli ara kararında açıkça 19372 sayılı Parselde yer alan ''... nolu bağımsız bölüm'' üzerine tedbir konulmasına karar verilmiş olup, Avcılar Tapu Müdürlüğü tarafından böyle bir bağımsız bölüm olmadığı gerekçesiyle takdiren 19372 sayılı parsel üzerinde yer alan tüm paylara şerh konulmuş olması hukuka aykırı ve hatalı olduğunu belirterek verilen ihtiyati tedbir kararının istinaf incelemesi neticesinde kaldırılmasını, 19372 parselde yer alan paylarının tümüne konulan tedbirinin kaldırılmaması halinde yalnızca davacı yanın arsa payının üzerine tedbir konulmasını ve bu hususların gereğinin yerine getirilmesi için Avcılar Tapu Müdürlüğüne müzekkere yazılmasını talep etmiştir.Dava; kooperatif üyeliğinden kaynaklanan tapu iptal tescil istemine ilişkin olup uyuşmazlık; davaya konu taşınmazın üçüncü kişilere devir ve temlikinin önlemesine yönelik verilen ihtiyati tedbir şartlarının oluşup oluşmadığı noktasındadır.6100 Sayılı HMK'nın "İstinaf yoluna başvurulabilen kararlar" başlıklı 341'inci maddesine göre, "İlk derece mahkemelerinden verilen nihai kararlar ile ihtiyati tedbir, ihtiyati haciz taleplerinin reddi ve bu
 taleplerin kabulü halinde, itiraz üzerine verilecek kararlara karşı istinaf yoluna başvurulabilir.” Söz konusu maddenin gerekçesinde de değinildiği üzere, ihtiyati tedbir ve ihtiyati hacze ilişkin geçici hukukî koruma taleplerinin kabulü hâlinde itiraz imkânı bulunduğundan, önce bu yola (itiraz) başvurulması gerekli olup, ancak itiraz üzerine verilecek kararlara karşı istinaf kanun yoluna başvurulması mümkündür. Nitekim HMK'nın 389 ve devamı maddelerinde de ihtiyati tedbir konusu düzenlenmiş olup, aynı Kanun'un 394/1. maddesinde "karşı taraf dinlenmeden verilmiş olan ihtiyati tedbir kararlarına itiraz edilebilir" denilmek suretiyle, bu durumda öncelikle kararı veren mahkemeye itiraz yolu öngörülmüştür.HMK'nın 394/4.maddesinde, ihtiyati tedbir kararına karşı itiraz başlığı altında "İtiraz dilekçeyle yapılır. İtiraz eden, itiraz sebeplerini açıkça göstermek ve itirazının dayanağı olan tüm delilleri dilekçesine eklemek zorundadır.
@@ -158,6 +172,8 @@ taleplerin kabulü halinde, itiraz üzerine verilecek kararlara karşı istinaf 
 Mahkeme, ilgilileri dinlemek üzere davet eder; gelmedikleri takdirde dosya üzerinden inceleme yaparak kararını verir. İtiraz üzerine mahkeme, tedbir kararını değiştirebilir veya kaldırabilir.", 394/5.maddesinde de, "İtiraz hakkında verilen karara karşı, kanun yoluna başvurulabilir. Bu başvuru öncelikle incelenir ve kesin olarak karara bağlanır." düzenlemesi mevcuttur.Dava konusu somut olayda davalı tarafından gıyabında verilen ihtiyati tedbir kararı doğrudan doğruya istinaf edilmiştir. İhtiyati tedbir kararına karşı itiraz yolu mümkün olup, ihtiyati tedbirin kabulü halinde aleyhine ihtiyati tedbir verilen tarafın itiraz hakkını kullanmadan doğrudan doğruya tedbir kararını istinaf konusu etmesi hukuken mümkün olmayıp bu karara karşı istinaf yolu kapalı bulunmaktadır. Davalı taraf ihtiyati tedbire itiraz üzerine bu itirazın reddi halinde kanun yoluna müracaat edebilecekken dava konusu somut olayda doğrudan doğruya ihtiyati tedbir kararının aleyhine ihtiyati tedbire hükmolunan davalı tarafça kanun yoluna müracaat hakkı bulunmamaktadır.
 
 ## Sakarya BAM 5. HD 2026/377 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1197573000)
 
 İlk Derece Mahkemesince, talep eden vekilinin ihtiyati tedbir talebinin kabulü ile davaya konu ... Ada, 6 Parselde kayıtlı arsa vasfındaki taşınmazın teminat karşılığında üçüncü kişilere devir temlikinin önlenmesi amacıyla ihtiyati tedbir konulmasına karar verilmiş, bu karara karşı karşı taraf vekilince itiraz yoluna başvurulmuş, duruşmalı yapılan incelemede itirazın reddine karar verilmiş, bunun üzerine karşı taraf vekilince istinaf yasa yoluna başvurulmuştur.
 
@@ -169,10 +185,14 @@ Diğer taraftan, ihtiyati tedbir talebinin kabul edilebilmesi bakımından HMK'n
 
 ## Konya BAM 6. HD 2026/355 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1201867500)
+
 İlk derece mahkemesinin 03/12/2025 tarihli yüze karşı verilen ara kararı ile tedbirin değiştirilmesine karar verildiği, bu karara karşı davalılar ...... ile ...'in 10/12/2025 tarihli dilekçeleri ile itiraz ettikleri, davalıların bu talebinin istinaf dilekçesi mahiyetinde olduğu, ilk derece mahkemesince dosyanın istinaf incelemesi yapılmak üzere Bölge Adliye Mahkemesi'ne gönderilmesi gerekirken 31/12/2025 tarihli itirazı değerlendirmesine ilişkin kararının yok hükmünde olduğu, davalıların 10/12/2025 ve 26/01/2026 tarihli dilekçelerindeki istinaf taleplerinin 03/12/2025 tarihli ara kararına yönelik olduğu değerlendirilerek yapılan incelemede; Hukuk Muhakemeleri Kanununun 395 ve 396. maddeleri gereğince; durum ve koşulların değişmesi sebebiyle ihtiyati tedbirin değiştirilmesi veya kaldırılmasına ilişkin kararlara karşı HMK 394. maddenin 3. ve 4. fıkralarının kıyas yolu ile uygulanacağı belirtilmesine rağmen kanun yoluna başvurulabileceği belirtilen aynı maddenin 5. fıkrasının uygulanacağı belirtilmediğinden kanun koyucunun bu tür kararlara karşı istinaf kanun yolunun kapalı olduğunu amaçladığı ve bu düşünceyi destekleyen Yargıtay 11. Hukuk Dairesi'nin ... E. ...
 K. sayılı kararındaki düşünceler dairemizce de benimsendiğinden davalıların ilk derece mahkemesince verilen 03/12/2025 tarihli ara kararına karşı istinaf yoluna başvurmaları yasal olarak mümkün olmadığı sonuç ve kanaatiyle davalılar ...... ile ...'in istinaf yoluna başvuru dilekçelerinin HMK 396 ve 346. maddeleri gereğince reddine ilişkin aşağıdaki şekilde hüküm kurulmuştur.
 
 ## İstanbul BAM 15. HD 2026/289 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1201081200)
 
 Ayrıca, nitelikleri itibariyle kat karşılığı inşaat sözleşmelerinin tek taraflı irade beyanı ile feshedilmeleri mümkün olmayıp, ancak taraf iradelerinin fesihte birleşmesi veya mahkeme kararıyla feshedilebilirler. Arsa sahiplerinin sözleşmeye konu taşınmazı/hissesini üçüncü kişiye devretmesi veya yeni bir yüklenici ile kat karşılığı inşaat sözleşmesi yapmaları da önceki yüklenici ile yapılan sözleşmeyi kendiliğinden sona erdirmeyecektir.
 Buna göre, kat karşılığı inşaat sözleşmelerinde zamanaşımı süresi kural olarak işin tesliminden itibaren başlayacak olup, sözleşmenin feshi halinde fesih tarihinden, sözleşmenin mahkeme kararı ile feshedilmiş olması halinde ise kararın kesinleştiği tarihten itibaren başlayacaktır.Bu açıklamalara göre, somut olayda uyuşmazlık eser sözleşmesinin bir türü olan kat karşılığı inşaat sözleşmesinden kaynaklandığından ve sözleşmenin geçersizliğine veya feshine dayalı değil, ifasına yönelik olarak taleplerde bulunulduğundan, Mahkemece, yukarıda belirtilen açıklamalar ve süreler esas alınıp davanın zamanaşımına uğrayıp uğramadığının değerlendirilmesi, dosya kapsamına göre sözleşmenin ifa ile sonuçlanmadığı anlaşılmakla, davaya konu kat karşılığı inşaat sözleşmesinin taraf iradelerinin birleşmesiyle veya mahkeme kararıyla feshedilip edilmediği araştırılarak, böyle bir durumun söz konusu olmaması halinde davanın esası hakkında usulüne uygun bir değerlendirme yapılarak neticesine göre bir karar verilmesi gerekirken, yazılı olduğu şekilde eksik ve hatalı değerlendirme ile davanın zamanaşımı def'i nedeniyle reddine karar verilmesi usul ve yasaya aykırı olmuştur.

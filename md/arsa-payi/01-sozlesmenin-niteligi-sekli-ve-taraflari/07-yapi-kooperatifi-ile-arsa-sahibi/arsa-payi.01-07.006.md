@@ -22,6 +22,8 @@ uyari: "Derleyenin seçtiği alıntılardır; kararın tamamı değildir. Künye
 
 ## Yargıtay 14. HD 2018/7650 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/473455800)
+
 Davacı vekili, davalılar arasında yapılan 18.01.1993 tarihli arsa payı karşılığı inşaat sözleşmesi gereğince davalılardan yükleniciye bırakılan 4 adet bağımsız bölümün 11.11.2005 ve 21.02.2006 tarihli satış vaadi sözleşmeleriyle müvekkiline satışının vaat edildiğini belirterek ... iptali ve müvekkili adına tescilini, olmadığı taktirde tazminat istemiştir.
 
 Davalılar vekilleri, davanın reddini savunmuşlardır.
@@ -38,6 +40,8 @@ SONUÇ: Yukarıda açıklanan nedenlerle temyiz itirazlarının kabulü ile hük
 
 ## Yargıtay 23. HD 2018/5764 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/466969600)
+
 Davacı vekili, davalı ...n üyesi olan müvekkilinin A-1 blok 13 no.lu dairenin üyelik hak ve hisselerinin tamamını 05.11.2005 tarihinde elde ettiğini ancak söz konusu taşınmazın davalı ... adına kayıtlı olduğunu öğrendiğini ileri sürerek, A-1 blok 13 no.lu taşınmazın tapu kaydının iptali ile müvekkili adına tesciline karar verilmesini talep ve dava etmiştir.
 
 Davalı ... vekili davanın Tüketici Mahkemesinde görülmesi gerektiğinden görevsizlik kararı verilmesi gerektiğini, müvekkilinin kooperatif üyesi olmadığını iyi niyetli olarak taşınmazın devir alındığını savunarak davanın reddini istemiştir.
@@ -52,6 +56,8 @@ Bu nedenle davalı arsa sahibi ... tarafından diğer davalı ...'ye yapılan sa
 SONUÇ: Yukarıda açıklanan nedenlerle davalılar ... ve ... vekillerinin temyiz itirazlarının kabulü ile hükmün temyiz eden davalılar yararına BOZULMASINA …
 
 ## Yargıtay 23. HD 2018/3987 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/433969400)
 
 Davacı vekili, müvekkili kooperatif ile arsa sahipleri davalı ... ve dava dışı Şükrü Kaplan arasında 28.04.2000 tarihinde arsa payı karşılığı inşaat sözleşmesi düzenlendiğini, sözleşmeden kaynaklanan edimlerini yerine getirmiş olmasına rağmen, müvekkiline düşen dairelerin tapularının devredilmediğini ileri sürerek, 6,7,8,9 ve 10 nolu bağımsız bölümlerden 3 tanesinin müvekkiline ait olduğunun tespitini, tespit edilenlerin müvekkili adına tescilini talep ve dava etmiştir.
 
@@ -69,6 +75,8 @@ SONUÇ:Yukarıda (1) numaralı bentte açıklanan nedenlerle, davacı vekilinin 
 
 ## Yargıtay 14. HD 2018/3230 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/421898100)
+
 Davalı arsa sahibi ... Kooperatifi, taşınmazların halen tapuda arsa cinsi ile tapuda kayıtlı olduğu yüklenicinin edimini yerine getirmediğini beyanla görev ve esas yönünden davanın reddini savunmuştur.
 
 …
@@ -82,6 +90,8 @@ Kooperatifi tarafından davacının kooperatife B tipi tercihli üye olarak kayd
 SONUÇ: Yukarıda (1) numaralı bentte açıklanan nedenle davacı ve birleştirilen dosyanın davalısı ... vekilinin temyiz itirazlarının reddine; (2) numaralı bent uyarınca davacı ... vekilinin temyiz itirazının kabulü ile hükmün BOZULMASINA …
 
 ## Yargıtay 23. HD 2018/3001 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/426625600)
 
 Davacı vekili, arsa sahibi müvekkili ile davalı kooperatif arasında imzalanan arsa payı karşılığı inşaat sözleşmesine göre davalı kooperatifin edimini eksik yaptığını ve sözleşmeye göre paylaşıma aykırı davranarak...... parselde kayıtlı taşınmaz üzerindeki 2. ada a blok 5 nolu daireyi davalı ... adına muvazaalı olarak herhangi bir bedel alınmaksızın devrettiğini ileri sürerek, dava konusu taşınmazın tapu iptalini ve müvekkili adına ... adına olan tapu kaydının iptali ile davacı adına tapuya tescilini, talebinin reddi halinde ise fazlaya ilişkin hakları saklı kalmak kaydıyla 10.000,00 tl'nin 13.11.2012 temerrüt tarihinden tahsil tarihine kadar temerrüt faiziyle birlikte davalılardan müştereken ve müteselsilen tahsilini talep ve dava etmiştir.
 
@@ -103,6 +113,8 @@ SONUÇ: Yukarıda açıklanan nedenlerle, davacı vekilinin temyiz itirazların�
 
 ## Yargıtay 23. HD 2018/574 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/410100100)
+
 Davacılar vekili; davalı kooperatif hakkında yapılan icra takibi nedeniyle 7453 ada 3 parselde kayıtlı taşınmazın üzerine haciz şerhi konulduğunu, taşınmazın satışa çıkarıldığını, müvekkili ... tarafından alındığını müvekkili ile davalı kooperatif arasında yapılan gayrimenkul satış vaadi ve kat karşılığı inşaat sözleşmesi gereğince müvekkiline verilmesi gereken A blok 3. Kat 15 no'lu daireyi davacı ...'a, A blok 2. Kat 11 no'lu daireyi davacı ...'e noterde sattığını, müvekkillerinin belirtilen dairelere zilyet olmalarına rağmen kat irtifakı ve kat mülkiyeti kurulmadığından bağımsız bölümlerin tapularını alamadıklarını, dava konusu taşınmazın icra dosyasında satışının talep edildiğini ileri sürerek, dava konusu ettikleri dairelerin davacılara ait olduğunun tespitine karar verilmesini talep ve dava etmiştir.
 
 Davalılar vekilleri, duruşmada davanın reddini istemişlerdir.
@@ -118,6 +130,8 @@ Davacılar tapu iptal ve tescil talebinde bulunmamış, dava konusu bağımsız 
 SONUÇ: Yukarıda açıklanan nedenlerle, hükmün davacılar yararına BOZULMASINA …
 
 ## Yargıtay 14. HD 2017/8434 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/392154800)
 
 Dava, tahsis hakkına dayalı haksız elatmanın önlenmesi ve ecrimisil istemlerine ilişkindir.
 
@@ -135,6 +149,8 @@ SONUÇ: Yukarıda açıklanan nedenlerle Dairemizin 29.03.2016 tarih, 2016/876 E
 
 ## Yargıtay 23. HD 2017/3638 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/387302400)
+
 Mahkemece, iddia, savunma, benimsenen bilirkişi raporu ve dosya kapsamına göre, sözleşmenin ifa edilememesinde yüklenici kooperatifin kusurlu bulunduğu gerekçesiyle, asıl davanın kısmen kabulü ile sözleşmenin geriye etkili olarak feshine, 477.671,00 TL tutarındaki imalat bedelinin davalı arsa sahiplerinden tahsiline, yoksun kalınan kar payına ilişkin istemin reddine, birleşen 2014/109 E. sayılı davanın reddine, birleşen 2009/347 E. sayılı davanın kısmen kabulü ile 22.451,62 TL’nin davalı kooperatiften tahsiline karar verilmiştir.
 
 …
@@ -148,6 +164,8 @@ Sözleşmeye göre işin 24.04.1998 tarihi itibariyle teslimi gerekmekte olup, y
 SONUÇ: Yukarıda (1) numaralı bentte açıklanan nedenlerle, birleşen 2014/109 E. sayılı dava davacı kooperatif vekilinin tüm, asıl ve birleşen 2009/347 E. sayılı davalarda taraf vekillerinin diğer temyiz itirazlarının reddine, (2-a) numaralı bentte açıklanan nedenlerle asıl davada davalılar vekilinin, (2-b) numaralı bentte açıklanan nedenlerle asıl davada davacı vekilinin ve (2-c) numaralı bentte açıklanan nedenlerle taraf vekillerinin diğer temyiz itirazlarının kabulü ile hükmün, taraflar yararına BOZULMASINA …
 
 ## Yargıtay 23. HD 2017/1921 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/351724000)
 
 Mahkemece, Yargıtay 15. Hukuk Dairesi’nin 22.11.2007 tarih ve 239 E.
 
@@ -163,6 +181,8 @@ SONUÇ: Yukarıda (1) numaralı bentte açıklanan nedenlerle, asıl ve birleşe
 
 ## Yargıtay 23. HD 2017/380 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/303025000)
+
 Mahkemece iddia, savunma, bilirkişi raporu ve dosya kapsamına göre, birleştirilen davalardan kooperatifin iddiasının, kooperatif genel kurulu kararı olmaksızın kooperatif ortağının vekalet görevini kötüye kullanması neticesinde gerçekleşen satışlara dayandırdığı; şirketin ise; kooperatifin arsa sahipleri ile yaptığı sözleşmeye istinaden kooperatif ile şirket arasındaki sözleşmeyi dayanak yaptığı anlaşılmakla, somut olayda kooperatif hukuku ve Ticaret Kanunu hükümleri uygulanacağından; ayrıca taraflar arasında ... 4.
 
 …
@@ -172,6 +192,8 @@ Asıl davanın vekalet görevinin kötüye kullanılarak kooperatife ait taşın
 SONUÇ: Yukarıda açıklanan nedenlerle, asıl dava davacı-birleşen davalarda davalı kooperatif vekilinin temyiz itirazının kabulü ile hükmün BOZULMASINA …
 
 ## Yargıtay 23. HD 2017/313 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/301664700)
 
 Mahkemece, birleşen 2011/86, 2010/965, 2011/514 esas sayılı davaların reddine; arsa payı karşılığı inşaat sözleşmesinin kooperatife temlik edildiği, inşaatın kooperatifçe yapıldığı, yapı kullanma izni alınmadığı ancak halen arsa sahipleri üzerinde teminat dairelerinin bulunduğu, kooperatife isabet eden dairelerin ilk yüklenici ve onun talimatıyla diğer davalılara satıldığı, bu satışların kooperatif açısından geçersiz olduğu, davalı üçüncü kişilerin iyiniyet iddiasında bulunamayacakları gerekçesiyle, asıl ve birleşen diğer davaların kabulüne karar verilmiştir.
 
@@ -186,6 +208,8 @@ SONUÇ: Yukarıda (1) numaralı bentte açıklanan nedenlerle; davalılar ... ve
 
 ## Yargıtay 20. HD 2016/11054 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/284069100)
+
 Dava, eser sözleşmesinden kaynaklanan alacak istemine ilişkindir.
 
 …
@@ -193,6 +217,8 @@ Dava, eser sözleşmesinden kaynaklanan alacak istemine ilişkindir.
 6102 sayılı TTK'nın 19. maddesine göre; "1) Bir tacirin borçlarının ticari olması asıldır. Ancak, gerçek kişi olan bir tacir, işlemi yaptığı anda bunun ticari işletmesiyle ilgili olmadığını diğer tarafa açıkça bildirdiği veya işin ticari sayılmasına durum elverişli olmadığı takdirde borç adi sayılır. 2) Taraflardan yalnız biri için ticari iş niteliğinde olan sözleşmeler, Kanunda aksine hüküm bulunmadıkça, diğeri için de ticari iş sayılır." şeklinde yasal düzenleme mevcut olup; somut olayda, davacı kooperatifin arsa sahibi; davalı kooperatifin ise yüklenici sıfatıyla kat karşılığı inşaat ve gayrımenkul satış vaadi sözleşmesi imzaladığı, sözleşmeye aykırılık nedeniyle ifaya izin ve alacak davası açıldığı anlaşılmakla; uyuşmazlık 1163 sayılı Kooperatifler Kanunundan kaynaklanmadığından, davanın HMK'nın 2. maddesi uyarınca genel hükümlere göre asliye hukuk mahkemesinde görülüp sonuçlandırılması gerekmektedir.
 
 ## Yargıtay 14. HD 2016/10539 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/330760200)
 
 Dava, yüklenicinin temlikine dayalı tapu iptali ve tescil istemine ilişkindir.
 
@@ -214,6 +240,8 @@ SONUÇ: Yukarıda (1) numaralı bentte açıklanan nedenlerle davacı vekili ve 
 
 ## Yargıtay 23. HD 2016/5059 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/280759000)
+
 Davacı vekili, müvekkilinin, davalı ....üyeliğini dava dışı kardeşi H....devraldığını, kur'a ile.... tahsis edilen... dairenin tapusunun, bir kısım davalıların murisi yüklenici....tarafından kooperatife devredilmediğini ve bu dairenin muvazaalı olarak davalı ...'a satıldığını, daha sonra yapılan kur'a çekimi ile müvekkiline C blok 6 no'lu dairenin tahsis ve tapuda tescil edildiğini, ancak bu kez de, ....taşınmaz satış vaadi sözleşmesi ile daire satın alan dava dışı....tarafından açılan dava sonucunda, bu bağımsız bölümün de adı geçen kişi adına tesciline karar verildiğini, yüklenici.... muvazaalı işlemleri nedeniyle müvekkilinin mağdur olduğunu, aleyhine açılan davalar sonucunda yargılama giderlerine mahkum edildiğini, çeşitli kira ve taşınma masrafları yapmak zorunda kaldığını ileri sürerek, ... dairenin bedelinin ve müvekkilinin uğradığı diğer tüm zararlarına karşılık fazlaya ilişkin hakları saklı kalmak kaydıyla 50.000,00 TL'nin davalılardan müştereken ve müteselsilen tahsilini talep ve dava etmiş, ıslah yoluyla talebini 64.900,00 TL'ye artırmıştır.
 
 Davalı ... vekili, müvekkilinin... daireyi ....satın aldığını, aradan 10 yıl geçtikten sonra bu davayı açan davacının, böylelikle müvekkilinin iyiniyetli olduğunu zımnen kabul etmiş bulunduğunu, öte yandan, davacının bu daireye ilişkin hakkından feragat ederek ikinci bir kuraya girdiğini ve kendisine C blok 6 nolu dairenin dairenin tahsis edildiğini, davanın hak düşürücü süre geçtikten sonra açıldığını, davacının talebini kooperatife yöneltmesi gerektiğini savunarak, davanın reddini istemiştir.
@@ -234,6 +262,8 @@ SONUÇ: Yukarıda açıklanan nedenlerle, davalı ... vekilinin temyiz itirazlar
 
 ## Yargıtay 23. HD 2016/4150 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/246295000)
+
 Mahkemece, iddia, savunma ve dosya kapsamına göre, taraflarca imzalanan “TAAHHÜTNAME” başlıklı belgelerde süresi içerisinde dairelerin teslim edilmemesi halinde arsa sahibi davacıya 150.000,00 TL ödeme yapılacağının taahhüt edildiği, davacı ile dava dışı kooperatif arasındaki arsa payı karşılığı inşaat sözleşmesi yasal düzenlemelere uygun olarak noterde düzenleme şeklinde tanzim edilmiş ise de, bu sözleşmeyi tadil eden, yüklenici açısından sözleşme koşullarını ağırlaştırıcı nitelik taşıyan “TAAHHÜTNAME” başlıklı belgelerin adi yazılı şekilde düzenlendiği, bu haliyle TBK'nın 13. maddesine aykırı olarak tanzim edilen bu belgelerin geçerli olmadığı, bu belgelere dayalı olarak başlatılan icra takiplerinin yasal dayanağının bulunmadığı gerekçesiyle, asıl ve birleşen davaların reddine karar verilmiştir.
 
 …
@@ -246,6 +276,8 @@ SONUÇ:Yukarıda (1) numaralı bentte açıklanan nedenlerle, asıl ve birleşen
 
 ## Yargıtay 15. HD 2016/2211 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/194823500)
+
 Davacı yüklenici ile davalı kooperatifi temsilen kooperatif yönetim kurulu arasında tarihsiz, mülkiyeti davalı kooperatife ait Kartal İlçesi sınırları içersinde bulunan .. ada 4 ve 7 parsellerin imar planlarında gerekli tadilatları yaparak imara açılması konusunda sözleşme imzalanmıştır. Davacı sözleşmenin yüklenicisi, davalı ise iş sahibi konumundadır. Sözleşmenin "ödemeler" başlıklı 6. maddesinde iş bedelinin nasıl ödeneceği kararlaştırılmış olup, maddede aynen "İmar plan tadilatının, ... tarafından yapılıp sonuçlandırılmasından ve durumun yazılı olarak Kooperatife iletildiği tarihten itibaren 6 (altı) ay içerisinde sözleşme konusu arsanın yapılan bu işlerin takibinin bedeli olarak satış bedelinin %25 (yüzde yirmi beş) verecektir. Ya da kooperatif bu süre içinde bu arsayı ya kendisi ya da başkalarına yaptırması halinde toplam inşaat alanının %10'unun ...'a ait olduğunu dikkate alarak Kat Karşılığı İnşaat Sözleşmesi yapabilicektir." şeklindedir. Sözleşmenin 7. maddesinde ise ceza-i hükümler düzenlenmiştir.
 Davacı yüklenici de, üzerine düşen edimleri yerine getirmesine karşın vekillikten azledilmek suretiyle sözleşmenin davalı tarafından haksız feshedildiğini ileri sürerek ceza-i şartın tahsilini istemiştir. Az yukarda sözü edilen sözleşmenin iş bedeline ilişkin 6. maddesinin ikinci cümlesi yani kooperatife ait arsanın inşaat alanının %10'unun davacıya ait olduğu düşünülerek kat karşılığı inşaat sözleşmesi yapılması gerektiğine dair hükmü, sözleşmenin geçerli kabul edilmesi halinde davacı iş bedelini talep ederken toplam inşaat alanının %10'unun adına tescilini talep hakkı doğuracağından, sözleşme, gayrimenkul mülkiyetini nakil borcu doğuran bir sözleşmedir. Bu nitelikdeki bir sözleşmenin geçerli olabilmesi için, sözleşmenin resmi şekilde yapılması zorunludur. Kaldı ki, sözleşmeyi imzalayan yönetim kuruluna kooperatifin taşınmazları üzerinde tasarruf hakkı veren bir genel kurul kararı da dosyaya sunulamamıştır. Şu halde bu sözleşmenin geçerliliğinden söz edilemez. Geçersiz bir sözleşmede yer alan ceza-i şart da geçersiz olacağından davacı sözleşmede yer alan ceza-i şartın tahsilini isteyemez.
 
@@ -255,8 +287,12 @@ SONUÇ: Yukarıda 1. bentte açıklanan sebeplerle davacı vekilinin tüm temyiz
 
 ## Yargıtay 23. HD 2016/1311 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/175466000)
+
 2-830 ada 4 parsel sayılı taşınmaz malikleri ile davalı kooperatif arasında yapılan varsa tüm arsa payı karşılığı inşaat sözleşmeleri ile protokol veya anlaşma niteliğindeki diğer belgelerin birlikte gönderilmesi, için dosyanın mahalline geri çevrilmesi gerekmiştir.
 
 ## Yargıtay 15. HD 2016/428 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/241786400)
 
 Yanlar arasındaki uyuşmazlık dava dışı arsa sahibi ile davalı kooperatif arasında imzalanan arsa payı karşılığı inşaat yapım sözleşmesinden kaynaklanmış olup, dava dışı arsa sahibinden bağımsız bölüm satın alan davacı arsa sahibinden aldığı temliknameye istinaden sözleşme gereğince eksiklerin giderim bedelini talep ettiğinden, kararın temyizen incelenmesi görevi Dairemize ait olmayıp, Yargıtay Yüksek 23. Hukuk Dairesi'nin görev alanında kalmaktadır. 11.04.2015 günlü Resmi Gazete'de yayımlanarak yürürlüğe giren 6644 sayılı Yargıtay Kanunu ile Hukuk Muhakemeleri Kanunu'nda Değişiklik Yapılması Hakkındaki Kanun'un 2. maddesi ile 2797 sayılı Kanun'un 60. maddesinde yapılan değişiklik uyarınca mahkeme kararının temyizen incelenmesinde görevli Dairenin belirlenmesi için dosyanın Hukuk İşbölümü İnceleme Kurulu'na gönderilmesi gerekmektedir.

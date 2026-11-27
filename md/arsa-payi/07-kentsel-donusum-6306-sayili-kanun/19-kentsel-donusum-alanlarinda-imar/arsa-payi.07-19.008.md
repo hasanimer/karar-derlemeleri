@@ -22,6 +22,8 @@ uyari: "Derleyenin seçtiği alıntılardır; kararın tamamı değildir. Künye
 
 ## Danıştay 6. D. 2023/6451 E., 2024/3565 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1072349500)
+
 DAVALI … BELEDİYE BAŞKANLIĞI'NIN SAVUNMASI : Savunma verilmemiştir.
 
 …
@@ -44,6 +46,8 @@ Dava konusu, Trabzon ili, Çaykara ilçesi, Uzungöl/Yenimahalle mahallesi, Göl
 
 ## Danıştay 6. D. 2020/5969 E., 2024/3516 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1162565800)
+
 Davalı yanında müdahil ... Yapı San. ve Tic.
 
 …
@@ -56,6 +60,8 @@ yaptırılan keşif ve bilirkişi incelemesi sonucu düzenlenen rapor ile dosyad
 
 ## Danıştay 13. D. 2024/105 E., 2024/3474 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1174956100)
+
 KARŞI TARAFIN SAVUNMASI: Davalı idare tarafından, söz konusu taşınmazın bulunduğu alanın imar planı içerisinde yer aldığı, 12/12/2014 tarihi itibarıyla tescil dışı alanın tescil edilmesi suretiyle Hazine adına kaydedildiği, davacı ile yapılan herhangi bir kira sözleşmesinin bulunmadığı, davacının Kanun'da yer alan şartları sağlamadığı belirtilerek istemin reddi gerektiği savunulmuştur.
 
 …
@@ -63,6 +69,8 @@ KARŞI TARAFIN SAVUNMASI: Davalı idare tarafından, söz konusu taşınmazın b
 Davanın yukarıda özetlenen gerekçeyle reddi yolundaki ... İdare Mahkemesinin ... tarih ve E:..., K:... sayılı temyize konu kararında, 2577 sayılı İdari Yargılama Usulü Kanunu'nun 49. maddesinde sayılan bozma nedenlerinden hiçbirisi bulunmadığından anılan Mahkeme kararının ONANMASINA …
 
 ## Danıştay 13. D. 2024/1554 E., 2024/3285 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1107624200)
 
 Mahkeme'ce 12/01/2024 tarihli ara karar ile Çumra Kaymakamlığı'ndan (Milli Emlak Şefliği) dava konusu Konya ili, Çumra ilçesi, ... Mahallesi ... ada ... parsel sayılı taşınmaza ilişkin ecrimisil işlem dosyası istenmiş, Çumra Kaymakamlığı'nca 17/01/2024 tarihli yazı ile ... Mahallesi ... ada ... parsel sayılı taşınmaza ilişkin ecrimisil tahakkuku bulunmadığı yönünde cevap verilmiştir. Ancak davacı tarafından 05/02/2024 kayıt tarihli dilekçe ile söz konusu taşınmazda imar/parselasyon uygulaması yapıldığı, imar/parselasyon öncesi parsel numarasının ... olduğunun bildirilmesi üzerine Mahkeme'ce 26/01/2024 tarihli ara kararı ile bu kez ... Mahallesi ... parsel sayılı taşınmaza ilişkin kayıtlar davacıdan ve ilgili idarelerden istenmiştir. Söz konusu ara kararı cevabından ... parselin 6360 sayılı Kanun gereği tüzelkişiliği sona eren Karkın Belediyesi döneminde ifraz işlemi ile üç parçaya ayrıldığı anlaşılmış, Çumra Kaymakamlığı tarafından sunulan ... sayılı parsele ilişkin muhtelif tarihli ecrimisil ihbarnamelerinden ise taşınmaz üzerinde kerpiç ev ve avlu olduğu, işgalin veya tasarrufun 06/09/1989'da başladığı, ... oğulları ..., ..., ... ve ... ile ... oğlu ...
 (davacı) adına ecrimisil ihbarnameleri düzenlenmiş olduğu tespit edilmiştir.
@@ -72,6 +80,8 @@ Mahkeme'ce 12/01/2024 tarihli ara karar ile Çumra Kaymakamlığı'ndan (Milli E
 DAVA KONUSU İŞLEMİN İPTALİNE …
 
 ## Danıştay 6. D. 2023/2469 E., 2024/3031 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1072536800)
 
 …
 
@@ -83,6 +93,8 @@ Dava konusu 28/10/2022 tarih ve 31997 sayılı Resmi Gazetede yayımlanan 27/10/
 
 ## Danıştay 6. D. 2023/7482 E., 2024/3021 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1072539700)
+
 İSTEMİN KONUSU : Malatya ili, Battalgazi ilçesi sınırları içerisinde bulunan ve ekli listede ada ve parsel numaraları belirtilen taşınmazların bölgede yürütülen kentsel dönüşüm ve gelişim projesi kapsamında kapsamında Malatya Büyükşehir Belediye Başkanlığı tarafından 2942 sayılı Kamulaştırma Kanununun 27. maddesi gereğince acele kamulaştırılmasına ilişkin 31/10/2018 tarih ve 30581 sayılı Resmi Gazetede yayımlanan 30/10/2018 tarih ve 260 sayılı Cumhurbaşkanlığı kararının Malatya ili, Battalgazi ilçesi, … Mahallesi, … ada, … parsel (eski … ada, … parsel) sayılı taşınmaz yönünden iptali istenilmektedir.
 
 DAVACILARIN İDDİALARI : Acele kamulaştırma kararı alınmasında hukuki yarar bulunmadığı, acele kamulaştırma şartlarının oluşmadığı, dava konusu Cumhurbaşkanlığı kararında geçen Dernek Mahallesinde parselasyon işlemi yapıldığı, bu nedenle Cumhurbaşkanlığı kararının bu aşamada uygunlaması imkanının bulunmadığı, dava konusu taşınmaz üzerindeki bina için yıkım kararı verileceği, mülkiyet hakkının ihlal edildiği belirtilerek dava konusu acele kamulaştırma kararının iptali gerektiği ileri sürülmektedir.
@@ -93,9 +105,13 @@ Dava konusu işlemin uyuşmazlığa konu taşınmaza ilişkin kısmının İPTAL
 
 ## Danıştay 4. D. 2024/1330 E., 2024/2914 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1071412600)
+
 DAVACININ İDDİALARI : Dava konusu işlemden nazım imar planı değişikliği ile haberdar olunduğu, nazım imar planının değiştirilmesi için gerekli idareye başvurulduğu, öte yandan davacının tüm mal varlığının dava konusu alanda bulunduğu, yapılacak uygulamalar ile davacının taşınmazının bulunduğu yerler turizm alanı olarak ilan edileceği veya başka başka yerlerden taşınmaz verileceği, davacının ise gerek yaşı gerekse de tecrübesi itibarıyla bu durumu etkin bir şekilde kullanamayacağı için mülkiyet hakkının zarar göreceği, riskli alan sınırındaki bazı parsellerin alana dahil edilmediği, çünkü bu durumda alandaki riskli yapı oranının %50'nin altına düşeceği, bu durumun ise hukuken açıklanmasının mümkün olmadığı, hem riskli alan kararı hem de yapılacak planlamanın ise şehircilik ve riskli yapıların iyileştirmesine hizmet etmediği, çünkü kat yükseklikleri artırılarak, bölgede yeşil donatı alanı açılması, yumuşak zemindeki bölgede birçok riski de beraberinde getirdiği iddia edilerek, dava konusu işlemin iptali talep edilmiştir.
 
 ## Danıştay 6. D. 2020/5904 E., 2024/2887 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1129591100)
 
 DANIŞTAY SAVCISI...
 DÜŞÜNCESİ :Dava, 22/02/2020 tarih ve 31047 sayılı Resmi Gazete'de yayımlanan Arazi ve Arsa Düzenlemeleri Hakkında Yönetmeliğin, 4. maddesinin 1. fıkrasının (p) bendindeki " ... bunun dışında kamusal ihtiyaçlara göre ortaya çıkacak imar planı kararıyla belirlenen diğer umumi ve kamu hizmet alanları..." ibaresinin, 5. maddesinin 1. fıkrasındaki "...bu Yönetmelikteki öncelik sırasına göre..." ibaresinin, 5. maddesinin 7. fıkrasının, 6. maddesinin 4. fıkrasındaki "...Bu süre idarenin onayıyla 5 'er yıllık periyotlar halinde uzatılabilir..." ibaresinin, 7. maddesinin 2. fıkrasının (b) bendindeki "Düzenleme alanının büyük bir kısmı yapılaşmış olsa dahi..." ibaresinin, 11. maddesinin 2. ve 3. fıkralarında yer alan "...kişi ya da..." ibarelerinin, 12. maddesinin 1. fıkrasının, 14. maddesinin 1. fıkrasındaki "...bölgenin ihtiyacı olan..." ibaresinin, 14. maddesinin 2. fıkrasındaki "Düzenleme ortaklık paylarının aşağıdaki öncelik sırasına göre alınması esastır", "b) kamuya ait kreş alanları", "e) Kent meydanı, kent parkı, spor alanı", "g) teknik altyapı alanı, kamuya ait trafo alanı","ı) Diğer umumi ve kamu hizmeti alanları." ibarelerinin, 14. maddesinin 4. fıkrasının, 14. maddesinin 8.
@@ -107,6 +123,8 @@ Açıklanan gerekçelerle Yönetmeliğin 14. maddesinin 2. fıkrasındaki "b)...
 
 ## Danıştay 6. D. 2024/597 E., 2024/2845 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1158884400)
+
 İSTEMİN ÖZETİ: Mülkiyeti davacıya ait İstanbul İli, Kadıköy İlçesi, ... Mahallesi, ... ada, ... parsel sayılı (Eski ... pafta, ... ada, ... parsel sayılı) taşınmazı da kapsayan alanda, İstanbul İli, Kadıköy İlçesi, Fikirtepe ve Çevresi Riskli Alanı 1. Etabına ilişkin 3194 sayılı İmar Kanununun 18. maddesi hükümleri uyarınca hazırlanan ve Çevre ve Şehircilik Bakanlığının ... tarih ve ... sayılı Oluru ile onaylanan parselasyon işleminin iptali ve söz konusu işlem nedeniyle uğranıldığı ileri sürülen zarara karşılık 50.000-TL manevi tazminata hükmedilmesi istemiyle açılan davada; dava konusu parselasyon işleminin iptali, 50.000-TL manevi tazminat istemine yönelik kısmı bakımından; davanın reddi yolundaki ... İdare Mahkemesinin ... tarih ve E:..., K:... sayılı kararının; "iptale" ilişkin kısmına davalı idare tarafından, "redde" ilişkin kısmına davacı tarafından yapılan istinaf başvurusunun reddine dair ... Bölge İdare Mahkemesi ... İdari Dava Dairesince verilen ... tarih ve E:..., K:... sayılı kararın, davacı ile davalı idarece aleyhe olan kısımlarının usul ve hukuka aykırı olduğu ileri sürülerek bozulması istenilmektedir.
 
 …
@@ -115,6 +133,8 @@ Açıklanan gerekçelerle Yönetmeliğin 14. maddesinin 2. fıkrasındaki "b)...
 
 ## Danıştay 6. D. 2024/682 E., 2024/2841 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1148858600)
+
 2577 sayılı İdari Yargılama Usulü Kanununun 46. Maddesinde; Danıştay dava dairelerinin nihai kararları ile bölge idare mahkemelerinin imar planları ve parselasyon işlemlerinden kaynaklanan davalar hakkında verdikleri kararlar, başka kanunlarda aksine hüküm bulunsa dahi Danıştay'da, kararın tebliğinden itibaren otuz gün içinde temyiz edilebileceği"; 48. maddesinin altıncı fıkrasında; temyizin kanuni süre geçtikten sonra yapılması veya kesin bir karar hakkında olması halinde de kararı veren merciin temyiz isteminin reddine karar vereceği, yedinci fıkrasında ise, temyizin kanuni süre içinde yapılmadığı veya kesin bir karar hakkında olduğunun anlaşıldığı hâllerde, 2. ve 6. fıkralarda sözü edilen kararların dosyanın gönderildiği Danıştay'ın ilgili dairesi ve kurulunca, kesin olarak verileceği hükmü yer almıştır.
 
 …
@@ -122,6 +142,8 @@ Açıklanan gerekçelerle Yönetmeliğin 14. maddesinin 2. fıkrasındaki "b)...
 Davalı yanında müdahilin temyiz isteminin REDDİNE, ... Bölge İdare Mahkemesi ... İdari Dava Dairesince verilen ... tarih ve E:..., K:... sayılı karar ve dayandığı gerekçe hukuk ve usule uygun olup bozulmasını gerektirecek bir sebep bulunmadığından, anılan kararın müdahil yönünden ONANMASINA …
 
 ## Danıştay 6. D. 2019/17234 E., 2024/2694 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1069402100)
 
 İlk Derece Mahkemesi kararının özeti: … İdare Mahkemesince verilen … tarihli, E:…, K:… sayılı kararda;yerinde yaptırılan keşif ve bilirkişi incelemesi üzerine düzenlenen rapor ile dosyadaki bilgi ve belgelerin birlikte değerlendirilmesinden, bölgenin fiziksel çevresiyle olan ilişkisi, niteliği ve yer seçimi itibarıyla kentin gelişme yön ve potansiyelleri ile uyumlu olan ve planlama esasları ile şehircilik ilkelerine uygun olan dava konusu işlemlerde hukuka ve mevzuata aykırılık görülmediği gerekçesiyle davanın reddine karar verilmiştir.
 
@@ -136,6 +158,8 @@ Mahkeme kararına yönelik olarak yapılan istinaf başvurusunun kabulü ile an�
 
 ## Danıştay 6. D. 2019/1497 E., 2024/2352 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1072295100)
+
 Davacı ise parsel bazında bir değişiklik talep etmektedir. Bu nedenle davacının talebi alt ölçekli planlama çalışmaları doğrultusunda imar planlarında belirlenebilecek kararlar niteliğinde olduğundan dava konusu planın ölçeği gereği düzenlenemeyecek bir konudur.
 
 …
@@ -145,6 +169,8 @@ Davacı ise parsel bazında bir değişiklik talep etmektedir. Bu nedenle davac�
 
 ## Danıştay 6. D. 2021/6573 E., 2024/2309 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1062265800)
+
 Samsun kent merkezinde, perakende ticaret faaliyetlerinin yoğun olduğu merkezi iş alanı bölgesinde yer alan ve doğuda Atatürk Bulvarı (Ordu-Sinop Karayolu), Cumhuriyet Caddesi ve raylı sistem hattının, batıda Gazi Caddesinin, güneyde Osmaniye Caddesinin arasında kalan bir kısım alanın yayalaştırılarak, bu alanda meydan ve bu meydanla bütünleşecek rekreasyon alanları, sosyal donatı alanları, yeraltı otoparkı ve yaya köprüleri oluşturulmak üzere ilk olarak Samsun Büyükşehir Belediye Meclisinin 14.12.2020 tarih ve 430 sayılı kararı ile Samsun ili, İlkadım ilçesi sınırlarında, 1/5000 ölçekli nazım imar planının ... sayılı paftasında, 1/1000 ölçekli uygulama imar planının ... sayılı paftasında kalan yaklaşık 4,07 hektar büyüklüğündeki alanın 5393 sayılı Belediye Kanunun 73. maddesi uyarınca kentsel dönüşüm ve gelişim proje alanı olarak belirlenmesine karar verilmiş ve bu proje alan sınırı mevcut imar planlarına işlenmiştir.
 
 …
@@ -153,6 +179,8 @@ Kentsel dönüşüm ve gelişim proje alanı ilan edilmesine ilişkin 22.04.2021
 
 ## Danıştay 8. D. 2020/7059 E., 2024/1879 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1069901600)
+
 Yukarıda yer verilen düzenlemelere göre, serbest jeoloji mühendislerinin maden, petrol, doğalgaz, jeotermal kaynakların aranması, işletilmesi ile mühendislik yapılarına (tünel, kanal, barınak v.b) ve imar planlarına yönelik olarak jeolojik etüt ve sondaj hizmetleri yapabileceği açık olup sondaj hizmetleri, jeoloji mühendislerinin temel çalışma alanlarından birini oluşturduğundan düzenlemede belirtilen sondajların mutlak surette jeoloji mühendisinin nezaretinde yapılması ve sondaj loglarının nezareti yapan jeoloji mühendisi tarafından imzalanması gerektiğine yönelik düzenlemede üst hukuk normlarına aykırılık görülmemiştir.
 
 …
@@ -160,6 +188,8 @@ Yukarıda yer verilen düzenlemelere göre, serbest jeoloji mühendislerinin mad
 Anılan düzenlemelerle her ne kadar sondaj hizmetinin sadece jeoloji mühendisliği mesleğine münhasır kılındığı; zemin laboratuvarı hizmetinin ve kaya ve zemin mekaniği laboratuvar deneylerinin ise sadece odaya tescili büro/şirketler tarafından gerçekleştirilmesinin zorunlu olduğu, aksi halde jeoteknik etüt raporlarının odada işlem görmeyeceği belirtilmek suretiyle bu hususta yalnız jeoloji mühendislerinin yetkili olduğunun belirtildiği, bu haliyle Genelgeyle dayanağı Yönetmeliği aşar şekilde düzenleme yapıldığı gerekçesi ile söz konusu düzenlemelerin iptaline karar verilmiş ise de; 6235 sayılı Kanunun yukarıda yer verilen hükümleri gereği davalı TMMOB Jeoloji Mühendisleri Odasının aynı Kanunun 2. maddesinde belirtilen amaç doğrultusunda yalnızca Odayı ilgilendiren kısım ile görevli olduğu …
 
 ## Danıştay 6. D. 2023/8789 E., 2024/1684 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1058064000)
 
 Davalı Kahramanmaraş Büyükşehir Belediye Başkanlığı tarafından; temyiz edilen kararda bozma nedenlerinden hiçbirisi bulunmadığından, usul ve kanuna uygun olan kararın onanması gerektiği savunulmaktadır.
 
@@ -178,6 +208,8 @@ Davanın yukarıda özetlenen gerekçeyle ehliyet yönünden reddine ilişkin Ma
 
 ## Danıştay 6. D. 2023/1331 E., 2024/1493 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1055049600)
+
 İlk Derece Mahkemesi kararının özeti: ...
 
 …
@@ -194,6 +226,8 @@ Mahkeme kararına yönelik olarak yapılan istinaf başvurusunun kabulü ile an�
 
 ## Danıştay 6. D. 2020/3113 E., 2024/1210 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1052832500)
+
 " hükmüne yer verilmiş, 5. maddesinin işlem tarihinde yürürlükte olan şeklinde, nazım imar planı; varsa bölge veya çevre düzeni planlarına uygun olarak halihazır haritalar üzerine, yine varsa kadastral durumu işlenmiş olarak çizilen ve arazi parçalarının; genel kullanış biçimlerini, başlıca bölge tiplerini, bölgelerin gelecekteki nüfus yoğunluklarını, gerektiğinde yapı yoğunluğunu, çeşitli yerleşme alanlarının gelişme yön ve büyüklükleri ile ilkelerini, ulaşım sistemlerini ve problemlerinin çözümü gibi hususları göstermek ve uygulama imar planlarının hazırlanmasına esas olmak üzere düzenlenen, detaylı bir raporla açıklanan ve raporuyla beraber bütün olan plan, uygulama imar planı ise; tasdikli halihazır haritalar üzerine varsa kadastral durumu işlenmiş olarak nazım imar planı esaslarına göre çizilen ve çeşitli bölgelerin yapı adalarını, bunların yoğunluk ve düzenini, yolları ve uygulama için gerekli imar uygulama programlarına esas olacak uygulama etaplarını ve diğer bilgileri ayrıntıları ile gösteren plan olarak tanımlanmıştır.
 
 Aynı Kanunun "Plan Kademeleri" başlıklı 6. maddesinde; planların, kapsadıkları alan ve amaçları açısından "Bölge Planları" ve "İmar Planları", imar planlarının ise, "Nazım İmar Planları" ve "Uygulama İmar Planları" olarak hazırlanacağı, Anılan Yasanın 8.maddesinde ise alt ölçekli planların üst ölçekli planlarda belirlenen planlama ana ilkelerine, stratejilerine ve kararlarına uyumlu olması zorunluluğu getirildiği, 8/b. maddesinde ise; imar planının, nazım imar planı ve uygulama imar planından meydana geldiği, mevcut ise bölge planı ve çevre düzeni plan kararlarına uygunluğunun sağlanarak, belediye sınırları içinde kalan yerlerin nazım ve uygulama imar planlarının ilgili belediyece yapılacağı ve yaptırılacağı düzenlemesine yer verilmiştir.
@@ -203,6 +237,8 @@ Aynı Kanunun "Plan Kademeleri" başlıklı 6. maddesinde; planların, kapsadık
 Dava konusu işlemin yukarıda özetlenen gerekçeyle iptaline ilişkin Mahkeme kararına yönelik olarak yapılan istinaf başvurusunun reddi yolundaki temyize konu … Bölge İdare Mahkemesi ... İdari Dava Dairesinin … tarih ve E:…
 
 ## Danıştay 6. D. 2023/8326 E., 2024/1142 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1052558000)
 
 Bölge İdare Mahkemesi İdari Dava Dairesi kararının özeti: İdari Dava Dairesince verilen kararda; davacı şirket tarafından …
 

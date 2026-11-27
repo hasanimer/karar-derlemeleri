@@ -22,6 +22,8 @@ uyari: "Derleyenin seçtiği alıntılardır; kararın tamamı değildir. Künye
 
 ## Yargıtay 6. HD 2022/4853 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/839525200)
+
 İlk derece mahkemesince, yapı ruhsatının verilmesinden yaklaşık 23 ay sonra yapılan keşifte dava konusu taşınmazın boş arsa olduğu, üzerinde herhangi bir inşaat faaliyeti bulunmadığı, yüklenici firma dışındaki diğer davalıların da kayden oluşturulan ancak fiziken bulunmayan bağımsız bölümlerden taşınmaz satın almış oldukları görülse de yapılan satış işlemlerinde davalı yüklenici firma yetkilisi ...'un vekil olarak işlemleri yürüttüğü, davacı tarafından diğer davalılara yapılmış gerçek bir satış olmadığı gibi davacının satış işlemlerine karşılık aldığı herhangi bir para bulunmadığı gerekçesiyle, davanın kabulüne karar verilmiştir.
 
 …
@@ -36,6 +38,8 @@ Somut olayda, 12.10.2015 tarihli düzenleme şeklinde taşınmaz satış vaadi v
 SONUÇ: Yukarıda (1) numaralı bentte açıklanan nedenlerle, Bursa Bölge Adliye Mahkemesi 10. Hukuk Dairesinin 15.09.2021 tarih ve 2021/55 E., 2021/1289K. sayılı kararının kaldırılarak, ilk derece mahkemesi kararının BOZULMASINA …
 
 ## Yargıtay 3. HD 2021/10735 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/719571300)
 
 Davacı; davalı ... ile inşaat yapımı hususunda adi ortaklık ilişkisi kurduğunu, ortaklık nedeniyle davalıya 240.000 TL tutarında ödemede bulunduğunu, daha sonra aralarında çıkan anlaşmazlık nedeniyle ortaklığın sona erdiğini, 24/03/2007 tarihli sözleşme ile ortaklık hissesine karşılık yapılacak olan inşaattan dört adet daire ve 10.000 Euro paranın kendisine verileceğinin kararlaştırıldığını, ancak üç adet dairenin devrinin yapıldığını, taahhüt edilen 2. kat 5 nolu dairenin tapusunun verilmediği gibi 10.000 Euro’nun da ödenmediğini ileri sürerek; davaya konu 2. kat 5 nolu dairenin değerinin tespiti ile fazlaya ilişkin hakları saklı kalmak üzere, şimdilik 5 nolu daire bedeli olarak 2.800 TL’nin dava tarihinden itibaren işleyecek yasal faiziyle birlikte, 10.000 Euro’nun ise aynen dava tarihinden itibaren döviz alacaklarına uygulanacak faizi ile birlikte, olmadığı takdirde ödeme tarihindeki kur üzerinden dava tarihi itibariyle işleyecek yasal faiziyle birlikte davalıdan tahsilini talep etmiş, 20/06/2014 tarihli ıslah dilekçesi ile 5 nolu daire yönünden talebini 130.192 TL’ye yükseltmiştir.
 
@@ -52,6 +56,8 @@ SONUÇ : Yukarıda birinci bentte açıklanan nedenlerle taraf vekillerinin diğ
 
 ## Yargıtay 14. HD 2019/8426 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/605362100)
+
 Dava, yüklenicinin temliki işlemine dayalı tapu iptali ve tescil mümkün olmadığı takdirde tazminat talebine ilişkindir.
 
 Davalılar vekili, dava konusu sözleşmede müvekkili davalı ...’ın müteselsil kefil sıfatıyla anılmasına rağmen kendisini borçlandıracak hiçbir imzasının bulunmadığını, bu nedenle davalı ...’ın taraf sıfatı olmadığını, dava konusu bağımsız bölüm müvekkilleri adına kayıtlı olmadığından cebren tescil talebinin yerinde olmadığını, davanın reddini savunmuştur.
@@ -67,6 +73,8 @@ SONUÇ: Yukarıda açıklanan nedenlerle davacılar vekilinin temyiz itirazları
 
 ## Yargıtay 15. HD 2019/3556 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/545836700)
+
 Bu durumda mahkemece; öncelikle ... Belediyesi Mali Hizmetler Müdürlüğü'nün 10.09.2014 gün, 11320 sayılı ve 25.12.2015 gün, 21553 sayılı yazı suretli eklenip yazı cevapları arasındaki farklılığın nedeninin sorulup açıklattırılması ve borçların hangi tarihte, kimin tarafından ödendiği ve hacizlerin kimin tarafından kaldırıldığı da sorulup tesbit edildikleri ve ilgili belge suretleri getirttirildikten sonra konusunda uzman yeniden mali müşavir ve teknik bilirkişilerden oluşacak bilirkişi kurulundan asıl dava davacısı yüklenicinin tapu devrini talep ettiği tarihler itibarı ile sözleşmenin 5. maddesindeki aşamalı devre göre tapu devrini istemeye hak kazanıp kazanmadığı, ne kadarına hak kazandığı, arsa sahibinin devre karşı çıkmakta haklı olup olmadığı ve yüklenicinin hak kazandığı bağımsız bölüm sayısına göre dairelerin devir yetkisini kazandığı tarih itibariyle rayiç değeri ile bunun 1/5'i miktarı ve yine sözleşmenin "6.a" maddesine göre 5. maddesine ilaveten arsa sahibinin tapu devrinde gecikmesi nedeni ile ceza istemekte haklı olup olmadığı ve bunun devre hak kazandığı tarihteki bir dairenin rayiç değerine göre 1/4 miktarının ne olduğu;
 
 Arsa sahibi tarafından açılan birleşen davadaki eksik ve kusurlu işler ve nama ifaya izin talebine ilişkin olarak, ayıplı işlerin giderim bedeli ile ilgili olan nama ifa ve izin talep edilebileceğinden arsa sahibine bırakılan bağımsız bölümler ve ortak alanlardaki eksik ve kusurlu işlerin nelerden ibaret olduğu, bunların birleşen dava tarihine göre mahalli piyasa rayiçleri ile giderim bedeli, satışa izin ve yetki verilmesi istenilen yükleniciye isabet eden bağımsız bölümlerin raporun düzenleneceği tarih itibari ile mahalli piyasa rayiçlerine göre bedeli konusunda gerekçeli ve denetime elverişli rapor alınıp asıl davada daha önce hesaplanan 198.879,00 TL ilave iş bedeli alacağı ile cezai şart konusunda ve akdî faizin sözleşmenin "6.a" maddesine göre istenebilecek ceza için uygulanabileceği de gözetilerek asıl dava sonucuna uygun bir karar verilmesi, birleşen davada da nama ifaya izin talep edilen eksik ve kusurlu işlerin talep de dikkate alınarak teker teker nelerden ibaret olduğu, bunların tamamlanması ve giderilmesi için yapılması gereken masrafların avans olarak da olsa miktarının kararın hüküm fıkrasında gösterilmesi, satışa izin ve yetki verilmesi talep edilen yükleniciye ait
@@ -75,6 +83,8 @@ bağımsız bölümlerden eksik ve kusurlu işlerin giderimi için avans olarak 
 SONUÇ: Yukarıda 1. bentte açıklanan nedenlerle davalı-birleşen dosya davacısı arsa sahibinin diğer temyiz itirazlarının reddine, 2. bent uyarınca kabulü ile hükmün arsa sahibi kooperatif yararına BOZULMASINA …
 
 ## Yargıtay 3. HD 2018/9727 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/467947500)
 
 Davacılar;
 İngiliz vatandaşı olup, ingilterede ikamet ettiklerini, Türkiye'de ev almak amacıyla davalı ile 597 Ada 1 Parsel de kayıtlı bulunan taşınmazın üzerine inşaa edilecek gayrimenkullerin alım satımı konusunda anlaştıklarını, 05.06.2007 tarihinde de taraflar arasında harici taşınmaz satım sözleşmesi imzalandığını, davaya konu taşınmazların bedelinin 130.000 ... olarak kararlaştırıldığını, sözleşmede kararlaştırıldığı şekilde 26.02.2007 tarihinde 2000 ... ve 18.06.2007 tarihinde 128.000 ... ödemenin yapıldığını, davalının yapılan sözleşme hükümlerine uymadığını ileri sürerek sebepsiz zenginleşme hükümleri gereğince davacılar tarafından ödenilen taşınmazların bedelini iade edilirken denkleştirici adalet kuralı çerçevesinde alım gücünün ilk ödeme tarihindeki alım gücüne ulaştırılarak ödeme tarihinden itibaren faizi ile birlikte davalıdan tahsilini talep ve dava etmişlerdir.Davalı; talebin zamanaşımına uğradığını, dava dışı arsa sahibi ile yapılan Kat Karşılığı inşaat sözleşmesi gereği inşa edilecek taşınmazın satışı konusunda davacı taraf ile sözleşme yapıldığını, davalıya 2.000 ... dışında başkaca ödeme yapılmadığını, 128.000 ...'lık ödemenin kendilerine yapılmadığını, kendilerine husumet
@@ -90,6 +100,8 @@ Türk Borçlar Kanunu'nun 184. maddesinde, alacağın temliki sözleşmesinin ge
 Bu durumda mahkemece, dava tarihi itibari ile dava konusu taşınmazların rayiç bedeli ve denkleştirici adalet ilkesine göre ne miktarda talepte bulunabileceği belirlenerek rayiç değer miktarı, denkleştirici adalet ilkesine göre belirlenecek miktardan az ise rayiç değere göre, denkleştirici adalet ilkesine göre belirlenecek miktardan fazla ise davalının kazanılmış hakkıda gözetilerek denkleştirici adalet ilkesine göre belirlenecek miktara karar verilmesi gerekirken yanılgılı değerlendirme ile taraflar arasındaki sözleşmenin harici satım sözleşmesi olarak kabul edilip yazılı şekilde hüküm tesisi doğru görülmemiş, bozmayı gerektirmiştir.SONUÇ: Yukarıda birinci bendde açıklanan nedenle davalı tarafın sair temyiz itirazlarının reddine, ikinci bendde açıklanan nederlerle hükmün HUMK'nun 428.
 
 ## Yargıtay 23. HD 2018/4820 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/447678700)
 
 Davacılar vekili, müvekkili yüklenici ... ile davalı arsa sahibi arasında düzenlenen arsa payı karşılığı inşaat sözleşmesi uyarınca, müvekkilinin sözleşmeden kaynaklanan edimlerini yerine getirmesine rağmen, davalının bir kısım bağımsız bölümlerin tapularını devretmediğini, bu bağımsız bölümlerden 45 parsel ... no’lu bağımsız bölümün davacı ...’ya, ... no’lu bağımsız bölümün davacı ...’a, ...
 
@@ -109,6 +121,8 @@ SONUÇ: Yukarıda (...) numaralı bentte açıklanan nedenlerle davalı vekilini
 
 ## Yargıtay 20. HD 2018/4323 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/429338300)
+
 Mahkemece dava konusu taşınmazda davacıların arsa payı % 25 olmasına rağmen, yeni yapılacak inşaattan % 0.75 (0.0075) pay teklif edildiği, davacıların taşınmazın % 0.75 değerinde bağımsız bölümü kabul edip etmeme teklifi ve kabul edilmediği takdirde hissesinin satışa çıkarılması baskısı ile karşı karşıya bırakılmış bulundukları, davalılar tarafından davacıların ya sözleşmeyi kabul ya da paylarının satışına katlanma durumunda bırakmaya zorlayan karar ve sözleşme hükümlerinin davacıların mülkiyet hakkına yönelik ağır bir müdahale olduğu gerekçesiyle sözleşmede yer alan edimler arasında davacılar aleyhine aşırı oransızlık olduğunun tespitine, dava konusu yapılan sözleşmede yer verilen edimler arasında aşırı bir oransızlık bulunduğundan bunu ortadan kaldıracak hak sahiplerine ve müteahhite verilecek pay oranlarının taraflarca tespitinin gerektiği gerekçesiyle de Hak sahibi ve müteahhite verilecek pay oranlarının tespiti ile ilgili talebin reddine karar verilmiş, hüküm taraflar vekillerince temyiz edilmiştir.
 
 6306 sayılı Afet Riski Altındaki Alanların Dönüştürülmesi Hakkında Kanunun 3. maddesi ile riskli yapıların tespitinin, Bakanlıkça hazırlanacak yönetmelikte belirlenen usul ve esaslar çerçevesinde masrafları kendilerine ait olmak üzere, öncelikle yapı malikleri veya kanuni temsilcileri tarafından, Bakanlıkça lisanslandırılan kurum ve kuruluşlara yaptırılacağı ve sonucun Bakanlığa veya İdareye bildirileceği, Bakanlığın, riskli yapıların tespitini süre vererek maliklerden veya kanuni temsilcilerinden isteyebileceği, verilen süre içinde yaptırılmadığı takdirde, tespitler Bakanlıkça veya İdarece yapılacağı veya yaptırılacağı, Bakanlığın belirlediği alanlardaki riskli yapıların tespitini süre vererek İdareden de isteyebileceği, Bakanlıkça veya İdarece yaptırılan riskli yapı tespitlerine karşı maliklerce veya kanuni temsilcilerince onbeş gün içinde itiraz edilebileceği, bu itirazların, Bakanlığın talebi üzerine üniversitelerce, ilgili meslek disiplini öğretim üyeleri arasından görevlendirilecek dört ve Bakanlıkça, Bakanlıkta görevli üç kişinin iştiraki ile teşkil edilen teknik heyetler tarafından incelenip karara bağlanacağı, 6. maddesi ile de üzerindeki bina yıkılarak arsa haline gelen
@@ -121,6 +135,8 @@ tebliğde, onbeş gün içinde kararın ve teklifin kabul edilmemesi halinde ars
 SONUÇ: Yukarıda açıklanan nedenlerle temyiz itirazlarının kabulü ile hükmün BOZULMASINA …
 
 ## Yargıtay 13. HD 2016/14806 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/240603800)
 
 Davacı, yüklenici olan davalı ...‘nın, arsa maliki diğer davalı ile yaptığı kat karşılığı inşaat sözleşmeleri uyarınca yükleniciye isabet eden 3 ve 4 nolu daireyi 8.9.1989 tarihli sözleşme ile yükleniciden satın alıp bedelini ödediğini, davalı arsa malikinin yüklenici aleyhine açtığı kat karşılığı inşaat sözleşmesinin feshi ve tapu iptal tescil davası sonunda, arsa maliki lehine çıkan ve kesinleşen mahkeme kararı ile kat karşılığı inşaat sözleşmesinin iptal edildiğini, davalı yüklenicinin edimini yerine getiremediğinden satın aldığı dairelerin rayiç değerlerinin tespit edilerek, fazla hakları saklı kalmak kaydıyla şimdilik 100.000 TL'nin faizi ile davalılardan tahsilini istemiş; birleşen dosya davacısı ise yine aynı yüklenici davalı ...'dan bir adet bağımsız bölüm satın aldığını ve bedelini ödediğini, kat karşılığı inşaat sözleşmesinin iptali ile davalı yüklenicinin edimini yerine getiremediğinden fazlaya ilişkin hakları saklı kalmak kaydıyla 60.000 TL'nin davalı ...'dan tahsilini istemiştir.
 
@@ -138,6 +154,8 @@ Asıl ve birleşen davada davacılar, yüklenici davalı ...‘nın, arsa maliki
 SONUÇ: Yukarıda birinci bentte açıklanan nedenlerle davalının sair temyiz itirazlarının reddine, ikinci bentte açıklanan nedenlerle hüküm fıkrasının birinci ve ikinci bendinde yer alan “30/12/2000” tarihinin hükümden çıkarılarak yerine “dava” sözcüğünün yazılmasına, kararın değiştirilen ve düzeltilen bu şekliyle ONANMASINA …
 
 ## Yargıtay 6. HD 2016/1687 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/209132800)
 
 Dava kiracı olduğunun tesbiti istemine ilişkindir.
 

@@ -22,6 +22,8 @@ uyari: "Derleyenin seçtiği alıntılardır; kararın tamamı değildir. Künye
 
 ## Ankara BAM 21. HD 2025/1004 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1172788500)
+
 Davalı vekili cevap dilekçesinde özetle; davacı tarafın, davaya konu talepleri zamanaşımına uğradığından, zamanaşımı def'inde bulunduklarını, davacı tarafın, şirketin bu borçlarından haberdar olmasına karşılık, uzun süredir şirketin borçları sebebi ile bir ödeme yapmadığını, şirketin çekmiş olduğu krediler için ...'in şahsi malvarlığı teminat olarak gösterilmesi sebebi ile bu kredilerin ödemesinin ... tarafından yapıldığını, davacının şirkete olan borcunun 750.000,00TL üzerinde olduğunu, şirket kayıtları incelendiğinde de görüleceği üzere, ... tarafından şirkete, yapılan inşaatlar için ödemiş olduğu bir bedel bulunmadığını, davacının iddialarının aksine bu ortaklıktan fazlası ile karlı çıkan, bütün borçları davalıya bırakan davacı taraf olduğunu, davayı haksız ve kötüniyetli olarak, baskı unsuru kurmak için açtığını belirterek, davanın reddine karar verilmesini talep etmiştir.
 
 …
@@ -46,6 +48,8 @@ Ankara Batı Asliye Ticaret Mahkemesi'nin 05/10/2022 tarih 2022/678 Esas 2022/85
 
 ## Erzurum BAM 1. HD 2025/956 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1152872200)
+
 Davacı Vekili İddia ve Beyanlarında Özetle; müvekkili arsa sahibi ile davalı yüklenici arasında 03.04.2017 tarihinde kat karşılığı inşaat ve gayrimenkul sözleşmesi akdedildiğini, bu sözleşmeye göre davalı yüklenicinin, müvekkiline ait ... ili, ... ilçesi, ...
 
 …
@@ -69,6 +73,8 @@ Davacı ve davalı vekilinin Erzurum Asliye Ticaret Mahkemesinin 2021/322 Esas, 
 
 ## İstanbul BAM 45. HD 2025/815 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1159969400)
+
 Riskli bina tespitinin kesinleşmesinden sonra bu binaların yıktırılması için maliklere 60 günden az olmamak üzere süre verildiği, bu süre içinde riskli binaların yıktırılıp yıktırılmadığı kontrol edileceği, yıktırılmamış ise 30 günden az olmak üzere ek süre verileceği ve verilen bu süreler içinde maliklerce riskli yapılar yıktırılmaz ise, yıktırma işlemleri mahalli idarelerin de iştiraki ile mülki amirler tarafından gerçekleştirileceği, Riskli olarak tespit edilen ve itiraz süreci sonunda riskli olduğu kesinleşen binaların yıktırılması Kanunun emredici hükmü olduğu, Yıkım konusunda maliklerce herhangi bir karar alınmasına veya anlaşma sağlanmasına gerek olmadığı, 30.03.2017 tarihinde itiraz sonrası kesinleşen Yıkım Kararı davacıya tebliğ edildiği, tahliye süresi 60 gün + 30 gün ek süre dikkate alındığında; en son riskli yapının 30.06.2017 tarihinde tahliye edilmiş olması gerektiği, Yangın olduğu hususunda kolluk kuvvetlerinde hazırlanan tutanağın 06.09.2017 tarihli ve Yangın Raporunun da 13.09.2017 tarihli olduğu görülmekle; davacı tarafın riskli yapıyı KANUN GEREĞİ en son 30.06.2017 de tahliye etmesi gerekirken, etmediği- Kanuni süre dolduktan yaklaşık 70 gün sonra iddia edilen
 yangın olayının gerçekleştiği, Kanuni süre ile sınırlı olan ve edinimini yerine getirmeyen davacı sigortalının; davaya konu sigortasının talep edilen yangın ve hırsızlık nedenleri ile teminat altında olduğundan söz edilemeyeceği, davalı sigorta şirketinin sorumluluğunun doğmadığı, ...Kesinleşen yıkım kararının tebliğinin 30.03.2017'de davacıya yapıldığı ve 31.03.2017'de poliçe düzenlendiği, yıkım kararı öğrenildikten sonra poliçe yaptırıldığı ve 3 sene boyunca sigortalanmayan işyerinin kentsel dönüşüm kararı ile sigorta teminatı altına alındığı, yıkım kararı alınan bir işyeri için; bir başka değişle tahliyesi zorunlu hale gelen bir işyeri için; işyeri ikame tazmiantı ve/veya iş durması tazminatı talep edilmesinin mümkün olmadığı,Sigortalı davacının sanki sigortalı değilmiş gibi alması gereken tüm önlem ve koruma tedbirlerini meydana gelebilecek rizikolara karşılık almadığı, taşınma / tahliye kararı dahilinde boşaltılması gerektiği ancak boşaltılmadığı ve sigortalının sorumluluklarının yerine getirmemesi nedeniyle hasarların meydana geldiği poliçeden hasar talebinde bulunduğu, (iyiniyet prensibinin hukuki takdirinin Yüce Mahkemeye ait olduğu), Yangın olayının ne zaman ve nasıl
 gerçekleştiği ve nasıl söndürüldüğüne dair bir belge bulunmadığı, Hırsızlık (yağmalama) olma ihtimaline karşı da gereken önlemlerin alınmadığı, Poliçede bulunan kayıtlar dahilinde; sigortalı mahalde alarm ve kamera sisteminin bulunduğu (sigorta poliçesinde teminat altına alındığı) ancak alarm sisteminin ister yangın ister hırsızlık (yağmalama) olaylarında çalışıp vermiş olduğu sinyaller ve raporlara istinaden bir belgenin dosya kapsamında bulunmadığı, ayrıca kamera kayıtlarının da davacının davasını ispatlar belgeler arasında olmadığı..." nedenleriyle davalının sorumlu olmadığı yönünde kanaat bildirilmiştir.
@@ -78,6 +84,8 @@ gerçekleştiği ve nasıl söndürüldüğüne dair bir belge bulunmadığı, H
 H Ü K Ü M:Gerekçesi yukarıda izah edildiği üzere;1-Davalı tarafın istinaf başvurusunun 6100 sayılı HMK'nın 353/1.b.1 maddesi uyarınca ESASTAN REDDİNE …
 
 ## Denizli BAM 4. HD 2025/723 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1150453400)
 
 Davacı vekili dava dilekçesinde; davalı şirket yetkilisi davalı ...'ın şirket menfaati aleyhine işlemler yapması, şirkete ait daireleri çeşitli yollarla devir çabası içinde olması ve şirketi de gerçek olmayan şekilde borçlandırma ve şirket içini boşaltma ihtimali de bulunmakla Davalı ....'ın TTK 636/3 gereği şirketin feshini talep etme ve bu süreçte şirket malvarlığının zarar görmemesi için TTK 636/4 gereği şirkete tedbiren yönetim kayyımı atanmasına, mümkün olmaması halinde davalı ....'ın tapuda, noterliklerde şirket adına alım-satım, devir işlemi yapma yetkisinin tedbiren kısıtlanmasına ve bu işlerin hakimin iznine bağlanmasına, ....Siciline ....no ile kayıtlı ....Tic. Ltd.
 
@@ -95,6 +103,8 @@ Dava, şirketin feshi inceleme konusu talep ise ihtiyati tedbir istemine ilişki
 
 ## İstanbul BAM 44. HD 2025/618 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1142746800)
+
 HMK'nın 355. Maddesi gereği, kamu düzenine aykırılık teşkil eden hususlar hariç tutularak, istinaf neden ve gerekçeleri ile sınırlı olmak üzere yapılan incelemede; Dava, İİK'nın 67.maddesine dayalı olarak açılan itirazın iptali davasıdır. Dava, Silivri 2.Asliye Hukuk Mahkemesinin 2021/1 E. Sayılı dosyası ile açılmış mahkemenin 2021/234 K. sayılı kararı ile görevsizlik kararı verilmiştir. Davacı vekili, davalı ile aralarında taşınmaz satış vaadi ve arsa payı karşılığı inşaat sözleşmesi imzalandığını, sözleşmeye konu taşınmazlar üzerinde ipotek bulunduğundan, söz konusu ipoteklerin kaldırılmasını sağlamak üzere davalıya çek verildiğini, çeklerin tahsil edildiğini, söz konusu ipoteklerin kaldırılmadığını, taşınmazların da kendilerine teslim edilmediğini, çek bedellerinin ödenmediğini iddia ederek çek bedellerinin tahsili amacıyla ilamsız takip başlatıldığını beyanla itirazın iptalini talep etmiştir. karşılığı olan alacağına ilişkin başlattığı icra takibinin iptalini talep etmiştir. Davalı, çeklerin kendilerine borca karşılık verildiğini, aralarında ödünç sözleşmesi bulunduğu kanaati oluşması halinde ise alacağın zaman aşımına uğramış olduğunu savunarak davanın reddini talep etmiştir.
 Mahkemece davanın reddine ilişkin karar verilmiş, davacı vekili istinaf talep etmiştir. Davalı vekili 21/07/2022 günlü dilekçesi ile müvekkili lehine alacak miktarının %20'den az olmamak üzere kötü niyet tazminat hükmedilmesi ile ilgili HMK m.305/A uyarınca hükmün tamamlatılmasını talep etmiş olup, .22/07/2022 tarihli ek karar ile davalı vekilinin kötü niyet tazminat talebinin yasal şartlarının oluşmadığından reddine karar verilmiştir. Davalı vekili ek kararı istinaf etmiş ise de , 30/09/2022 tarihli ek karar ile , verilen kesin sürede istinaf harçlarını yatırmadığından 22/07/2022 günlü ek kararına karşı yapmış olduğu 10/08/2022 günlü istinaf başvurusunun HMK m.344/1 uyarınca yapılmamış sayılmasına karar verilmiştir.
 
@@ -111,6 +121,8 @@ HÜKÜM: Gerekçesi yukarıda açıklandığı üzere; 1-Usûl ve yasaya uygun B
 
 ## İstanbul BAM 53. HD 2025/476 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1152079800)
+
 Noterliği nezdinde düzenleme şeklinde imzalanan gayrimenkul satış vaadi ve kat karşılığı inşaat sözleşmesinin hükümsüz olduğunun tespitine hükmedilmiş, davacının kâr kaybı talepleri reddedilmiş, ancak davacının yaptığı giderler kapsamında 110.402,06 TL’nin dava tarihinden itibaren işleyecek yasal faiziyle birlikte, davalılardan miras payları oranında tahsil edilerek davacı şirkete ödenmesine, fazlaya ilişkin kısmın ise reddine karar verilmiş; ayrıca davacı şirket ile davacı ...’in talep ettiği manevi tazminat taleplerinin ayrı ayrı reddine karar verilmiş olup, bu hükme karşı taraf vekilleri istinaf yoluna başvurmuştur.Verilen karar Dairemizin 2022/1838E., 2022/278K.sayılı ilamı ile, taraflar arasında 25.04.2007 tarihli noter onaylı kat karşılığı inşaat sözleşmesinin imzalandığı ve bu sözleşmenin arsa sahibi tarafından 21.05.2009 tarihinde feshedildiği sabit olup, uyuşmazlık bu feshin haklı olup olmadığından kaynaklandığı, yapılan değerlendirmede, sözleşme konusu taşınmazın yola mahrecinin bulunmaması nedeniyle ruhsat alınamamasının sözleşmenin konusunu baştan geçersiz hale getirmediği, sadece geçici bir ifa imkânsızlığına yol açtığı, bu nedenle yaklaşık iki yıl içinde yapılan
 feshin sözleşmeye tanınan makul tahammül süresi içinde gerçekleştiği söylenemeyeceği, ayrıca yargılama sırasında söz konusu imkânsızlığın ortadan kalktığı , dolayısıyla mahkemenin sözleşmeyi hükümsüz sayması hukuka uygun olmadığı, arsa sahibinin sözleşmeyi geriye etkili şekilde haksız olarak feshettiği , bu durumda, davacının yalnızca yaptığı masrafları değil, aynı zamanda sözleşmenin geçerli olduğuna güvenerek uğradığı kâr kaybı gibi müspet zararlarını da talep edebileceği dikkate alınarak, mahkemece terditli olarak ileri sürülen tazminat talepleri yönünden herhangi bir değerlendirme yapılmamasının isabetsiz olduğu gerekçesiyle kaldırılmıştır.Kaldırma ilamından sonra açılan birleşen davada davacı yüklenici yatırdığını iddia ettiği kamulaştırma bedelinin iadesini talep etmiş, davalı arsa sahipleri ise davanın reddini istemiştir. Mahkemece birleşen davanın görev nedeniyle usulden reddine karar verilmiştir.
 
@@ -119,6 +131,8 @@ feshin sözleşmeye tanınan makul tahammül süresi içinde gerçekleştiği s�
 HÜKÜM: Gerekçesi yukarıda açıklandığı üzere;1-Taraf vekillerinin istinaf başvurularının KABULÜNE, 2-İSTANBUL ANADOLU 3. ASLİYE TİCARET MAHKEMESİ'nin 22/05/2024 tarih, 2023/23 Esas, 2024/411 Karar sayılı kararının KALDIRILMASINA …
 
 ## Sakarya BAM 5. HD 2025/398 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1125497100)
 
 Davalı vekili cevap dilekçesinde özetle;
 
@@ -131,6 +145,8 @@ Dava, arsa payı karşılığı inşaat yapım sözleşmesinin geriye etkili fes
 Bu durumda sözleşme ile yapımı üstlenilen inşaatın süresinde tamamlanmadığı, bu halde 6098 sayılı TBK'nın 124/3. maddesindeki süre verilmeksizin ve ihtara gerek olmaksızın fesih koşulları gerçekleştiği ve davacı arsa sahibi 6098 sayılı TBK'nın 125/II. maddesindeki sözleşmeden dönme seçimlik hakkını tercih ettiğinden, mahkemece sözleşmenin geriye etkili olarak feshine karar verilmesi yerindedir. Her ne kadar davalı tarafça taşınmaz üzerinde takyidatlar olması ve davacının azilnamesi nedenleriyle davacının ifaya engel olduğu ileri sürülmüşse de, taşınmaz üzerinde takyidat olmasının ruhsat alımına ve inşaat yapımına engel teşkil etmediği, kaldı ki, davalının kendi lehine tapuya şerh koydurmuş olduğu, davacı azilnamesinin de ruhsat alımına dair makul sürenin hitamından çok sonra olduğundan bu nedenlerle davacıya kusur yüklenmesinin olanaklı olmadığından davalı tarafın bu yöndeki istinaf nedenleri yerinde görülmemiştir.
 
 ## İstanbul BAM 7. HD 2024/2209 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1086641600)
 
 İLK DERECE MAHKEMESİ KARARI:İstanbul Anadolu 10. Asliye Ticaret Mahkemesinin 2023/166 esas ve 2023/485 karar sayılı 23/05/2023 tarihli kararı ile; davacının davasının kabulüne " ... numaralı bağımsız bölümün tapu kaydına Kartal ...
 
@@ -145,6 +161,8 @@ A.Ş' nin istinaf talebi hakkında HMK 353/1-a-3.-6. Maddeleri uyarınca duruşm
 HÜKÜM:Gerekçesi yukarıda izah edildiği üzere:1- Davalı .... A.Ş ve davalılar ... Ortaklığı, .... A.Ş, .... A.Ş vekillerinin istinaf başvurularının kabulü ile İstanbul Anadolu 10. Asliye Ticaret Mahkemesi'nin 23/05/2023 tarih, 2023/166 Esas- 2023/485 Karar sayılı kararının 6100 Sayılı Hukuk Muhakemeleri Kanunu'nun 353/1-a-3.-6. Maddeleri gereğince KALDIRILMASINA …
 
 ## Sakarya BAM 5. HD 2024/1687 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1087457300)
 
 Davacı vekili istinaf dilekçesinde özetle; Yerel Mahkemece verilen ihtiyati tedbir isteminin reddine ilişkin kararın hatalı olduğunu, inşaat yapım işinin davalılardan kaynaklanan nedenlerle müvekkili tarafından gerçekleştirilemediğini, davalıların bahse konu sözleşmelerinin ayakta ve yürürlükte oldu halde dava dilekçesinin 4.ve 5. Sıralarında davalı olarak gösterilen firmalarla yeniden sözleşme yaptıklarını, sözleşmelerin yapılmasından dolayı müvekkilinin elde edeceği maddi varlıkların önü kesilerek mağduriyetine nedensellik verildiğini, yerel mahkemece ihtiyati tedbir talebinin reddedilerek hak aramanın önünün kesildiğini, bu nedenle verilen kararın kaldırılmasını talep etmiştir.
 

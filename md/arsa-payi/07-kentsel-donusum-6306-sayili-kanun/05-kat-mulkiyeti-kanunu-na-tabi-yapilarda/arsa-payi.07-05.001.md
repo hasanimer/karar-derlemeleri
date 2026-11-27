@@ -20,6 +20,8 @@ uyari: "Derleyenin seçtiği alıntılardır; kararın tamamı değildir. Künye
 
 ## Danıştay İDDK 2024/3037 E., 2025/1451 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1183267500)
+
 Davacıların bağımsız bölüm maliki olduğu İstanbul ili, Kadıköy ilçesi, ... Mahallesi, ... ada, ... parselde bulunan bina hakkında 6306 sayılı Kanun gereğince riskli yapı kararı verilmesi üzerine, kat malikleri kurulu kararına katılmayan davacıların arsa paylarının satış işlemlerinin durdurulması talebiyle yapılan başvuruların reddine dair Kadıköy Belediye Başkanlığının 06/03/2024 ve 12/03/2024 tarihli işlemlerinin ve 6306 sayılı Kanunun Uygulama Yönetmeliği'nin 15. maddesinin 2. fıkrasındaki "toplantı yapılması gerekmeksizin ve herhangi bir şekil şartına tabi olmaksızın" ibaresinin iptali istemiyle temyizen incelenen dava açılmıştır.
 
 …
@@ -49,6 +51,8 @@ Temyize konu ... Bölge İdare Mahkemesi ... İdare Dava Dairesinin ... tarih ve
 
 ## Danıştay 4. D. 2023/11588 E., 2024/7646 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1138748200)
+
 DAVANIN KONUSU : Davacı şirketin de hissedarı olduğu ... İli, ... İlçesi, ... Mahallesi, ... ada, ... parsel sayılı taşınmazda bulunan bina hakkında 6306 sayılı Kanun gereğince riskli yapı kararı verilmesi üzerine, kat malikleri kurulu kararına katılmayan davacının hissesinin 18/05/2023 tarihinde satışına ilişkin ... Valiliği işlemi ile anılan Kanunun Uygulama Yönetmeliği'nin 15. maddesinin 2. fıkrasındaki "herhangi bir şekil şartına tabi olmaksızın" ibaresinin, 15. maddenin 3. fıkrasında geçen "arsa payı değeri üzerinden anlaşma sağlayan diğer paydaşlara açık artırma usulü ile satılır" ibaresinin, 15/A maddesinin 4. fıkrasında geçen "Ancak, arsa yapı satılacak maliklere tebligat yapılamamış olması veya bu maliklerin satışa izleyici olarak katılmaması satışın geçerliliğine etki etmez ve gıyaplarında yapılan satış işlemi geçerli olur" ibaresinin ve 15/A maddesinin 6. fıkrasında geçen "Yapılacak ilk satışa en az üçte iki çoğunluk ile anlaşan paydaşlar dışında herhangi bir katılamaz" ibaresinin iptali istenilmiştir.
 
 DAVACININ İDDİALARI : Davacı şirketin de hissedarı olduğu ... İli, ... İlçesi, ...
@@ -61,9 +65,13 @@ Davacının hissesinin ... tarihinde satışına ilişkin ... Valiliği işlemi 
 
 ## Danıştay 4. D. 2024/1376 E., 2024/5925 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1178644400)
+
 Dosyanın incelenmesinden; davanın, İstanbul İli, Bahçelievler İlçesi, ... Mahallesi, ... pafta, ... ada, ... parsel sayılı taşınmazda bulunan ve davacının da bağımsız bölüm maliki olduğu binanın 6306 sayılı Kanun kapsamında riskli yapı olarak tespit edilmesi sonrasında, (Bahçelievler Belediye Başkanlığının ... tarih ve ... sayılı işlemiyle bildirilen) yapılan kat malikleri toplantısında alınan karara katılmayan davacının arsa payının 18/10/2021 tarihinde yapılacak satışının iptali istemiyle açıldığı, iptal isteminin ise satış işlemine dayanak alınan kat malikleri kurulu toplantısına davet edilmedikleri ve karara katılmaları için kendilerine yapılan tebliğ işlemlerinin usulsüz olduğu iddialarına dayandırıldığı, dava konusu işlemde satışa ilişkin bedel belirtilmediği görüldüğünden, bakılan uyuşmazlığın 2577 İdari Yargılama Usulü Kanunu'nun 46. maddesinde sayılan temyiz edilebilir uyuşmazlıklar arasında yer almadığı anlaşılmıştır.
 
 ## Danıştay 4. D. 2023/7923 E., 2023/6506 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1047546800)
 
 İlk Derece Mahkemesi kararının özeti: ... İdare Mahkemesince verilen … tarih ve E:…, K:… sayılı kararda; dava konusu işyerinin bulunduğu taşınmaz hakkında 6306 sayılı Kanun gereğince 16/01/2015 tarihinde riskli yapı kararı verildiği ve taşınmazın davacı tarafından yıkılarak yeniden inşa edilmeye başlanıldığı, davalı İdare tarafından ise, dava konusu yapının 6306 sayılı Afet Riski Altındaki Alanların Dönüştürülmesi Hakkındaki Kanun kapsamında "riskli yapı olarak" ilan edilmesi nedeniyle, ...
 
@@ -77,6 +85,8 @@ Temyize konu … Bölge İdare Mahkemesi ... İdare Dava Dairesinin … tarih ve
 
 ## Danıştay 14. D. 2016/8636 E., 2017/1089 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/338462300)
+
 6306 sayılı Kanunun Uygulama Yönetmeliğinin 15.maddesinin 2.fıkrasında "Riskli yapılarda, Kanunun 6 ncı maddesinin birinci fıkrası uyarınca, parsellerin tevhit edilmesine, münferit veya birleştirilerek veya imar adası bazında uygulama yapılmasına, yeniden bina yaptırılmasına, payların satışına, kat karşılığı veya hasılat paylaşımı ve diğer usuller ile yeniden değerlendirilmesine bütün maliklerce oybirliği ile karar verilememiş ise, riskli yapının değeri, Sermaye Piyasası Kuruluna kayıtlı olarak faaliyet gösteren lisanslı değerleme kuruluşlarına tespit ettirilir ve maliklerden birinin istemi üzerine, (Mülga ibare:RG-25/7/2014-29071) (…) bütün malikler toplantıya çağrılır. Toplantıda yürütülecek uygulamalar konusunda riskli yapının değeri de gözetilerek bütün maliklerce oybirliği ile anlaşmaya çalışılır. Oybirliği ile anlaşma sağlanamaması halinde yapılacak uygulamaya sahip oldukları hisseleri oranında paydaşların en az üçte iki çoğunluğu ile karar verilir. Bu karar tutanağa bağlanır ve karara katılan maliklerce imzalanır.
 Bu karar, karara katılmayanlara ve toplantıya iştirak etmeyenlere noter vasıtasıyla tebliğ edilir ve bu tebliğde, onbeş gün içinde bu kararın kabul edilmemesi halinde bağımsız bölümlerine ilişkin arsa paylarının, Bakanlıkça tespit edilecek veya ettirilecek rayiç değerden az olmamak üzere anlaşma sağlayan diğer paydaşlara açık artırma usulü ile satılacağı, paydaşlara satış gerçekleştirilemediği takdirde, bu payların, rayiç bedeli Bakanlıkça ödenmek kaydı ile tapuda Hazine adına resen tescil edileceği bildirilir." hükmüne, 3.fıkrasında "Anlaşmaya katılmayan maliklerin bağımsız bölümlerine ilişkin arsa payları; 15/A maddesinde belirtilen usule göre, arsa payı değeri üzerinden anlaşma sağlayan diğer paydaşlara açık artırma usulü ile satılır." hükümlerine, 15/A maddesinde ise açık artırmayla satışın usulüne ilişkin kurallara yer verilmiştir.
 
@@ -88,6 +98,8 @@ kararının kaldırılması üzerine üçüncü kez, İdare tarafından davacın
 Açıklanan nedenlerle; ...... İdare Mahkemesinin ... günlü, E:..., K:... sayılı kararının BOZULMASINA …
 
 ## Yargıtay 5. HD 2025/7778 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1198703000)
 
 Davacı vekili istinaf dilekçesinde özetle; mahkemenin kararının usul ve yasalara aykırı olduğunu, mahkeme gerekçesinin davayı karşılamadığını, 2/3 çoğunluk ile karar alınabilmesi, hakkaniyete aykırı kararlar alınabileceği anlamına gelmediğini, mahkemenin davalı kat maliklerinin 2/3 çoğunlukla karar alma haklarını kullanırken dürüstlük kuralına uyup uymadıklarını ve haklarını kötüye kullanıp kullanmadığını gözetmek zorunda olduğunu, davacınında dairesinin olduğu apartmanın, komşu parselde devam eden inşaat sırasında zarar görmesi üzerine, binanın oturulamaz hale geldiğini ve davacı da dahil tüm kat malikleri bir araya gelerek binanın yıkılarak yeniden yapılması hususunda mutabakata vardıklarını, ardından gerçekleştirilen genel kurulda diğer malikler tarafından hazırlanan paylaşım krokisinden, paylaşımın arsa paylarına ve hakkaniyete uygun olmadığı, kendisi ve karşı komşusu dışında tüm maliklerin metrekare ve cehpe sayılarını muhafaza ederken, kendi dairesinin teras alanının iptal edildiğini, bir cephesinin azaltıldığını, metrekaresinde küçülme olduğu gerekçesi ile paylaşım krokisinin belirlendiği genel kuruldaki kararlara itiraz ederek huzurdaki davayı açtığını, davanın arsa
 paylarının düzeltilmesi davası olmadığını, mahkeme karar nisabında 6306 sayılı Kanun'un uygulanması gerektiğini ileri sürerek 634 sayılı Kanun'da düzenlenen oybirliği yerine 2/3 çoğunluğun yeterli olduğunu belirtmiş olup oysa emsal Yargıtay kararlarında 634 sayılı Kanun'un uygulanması gerektiğine işaret edildiğini kararın kaldırılması gerektiğini talep etmiştir.
@@ -101,6 +113,8 @@ Kat mülkiyetli ana gayrimenkulün tapu kaydına 05.11.2015 tarihinde 6306 sayı
 İlk Derece Mahkemesi kararının BOZULMASINA …
 
 ## Yargıtay 3. HD 2025/2288 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1162840500)
 
 Davacı vekili; İstanbul ili, ... ilçesi, ... mahallesi, ... pafta, ... parselde yer alan ... yüklenici müteahhit davalı tarafından yapıldığını, müteahhit firmanın bağımsız bölümleri kat maliklerine sattığını, davalı inşaat firması tarafından yapılan dairelerin ve ortak alanların anahtar teslim olarak eksiksiz bir şekilde yapılmasının taahhüt edildiğini, yapılan sözleşmelerde dairelerin eksiksiz ve iskanı alınmış bir şekilde teslim edileceğinin taahhüt edildiğini ancak yüklenici firma tarafından kat maliklerine gösterilen katalog, maket ve dijital ortamda oluşturulan kayıtların fiili durumla örtüşmediğini ileri sürerek; site ortak alanlarındaki açık ve gizli ayıplı imalatların, eksikliklerin ve projeye aykırılıkların tespitini, eksikliklerin ve hatalı imalat ve işçiliklerden kaynaklanan zararların tazminini, belirsiz alacak davası uyarınca tazminat isteklerinin incelenmesine, toplanacak delillere göre tazminat hesabı yaptırılarak dava tarihinden itibaren işleyecek yasal faizi ile birlikte davalıdan tahsiline karar verilmesini talep etmiştir.
 
@@ -121,6 +135,8 @@ Apartman yönetimlerinin tüzel kişiliği bulunmadığından, kural olarak apar
 
 ## Yargıtay 5. HD 2024/209 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1016814800)
+
 Davacı vekili dava dilekçesinde özetle; Kat Mülkiyetine tabi İstanbul ili, Kadıköy ilçesi, ... Mahallesi, 3167 ada 82 parsel sayılı taşınmazda 2 ve 3 numaralı dükkanların maliki olduğunu, ana taşınmazın riskli yapı olduğundan yıkılmasına yönelik kat malikleri kurulunca karar alındığını, yeniden bina yapılması için karar alındığını, kararın yerinde olmadığını, binanın güçlendirilmesinin mümkün olduğunu, güçlendirme için yöneticiye yetki verilebileceğini iddia ederek kat malikleri kurulu kararının iptalini, binanın güçlendirilmesinin mümkün olduğunun tespitini, güçlendirme projesi çizilmesini, taşınmazın yola kaymış olması durumunda yola bırakılacak kısmın belirlenerek terkin edilmesi gerektiğini, bu işlemler için kendilerine yetki verilmesini, güçlendirme için gerekli bedelin belirlenmesini, bankaya depo edilmesini ve yargılama sürecinde tedbir kararı verilmesini talep ve dava etmiştir.
 
 …
@@ -133,6 +149,8 @@ Davacı, bir kısım davalılar vekili ve dahili davalı ... vekillerinin temyiz
 
 ## Yargıtay 5. HD 2021/8602 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/686605800)
+
 Mahkemece davanın reddine karar verilmiş, davacılar vekili istinaf başvurusunda bulunmuştur.... Bölge Adliye Mahkemesi 36.
 
 …
@@ -142,6 +160,8 @@ Mahkemece 03.02.2016 tarihli kat malikleri kurulu kararlarının iptali istemini
 Davacı vekilinin 03.02.2016 tarihli toplantı kararlarının iptali istemi yönünden temyiz itirazlarının kabulü ile... Bölge Adliye Mahkemesi 36. Hukuk Dairesinin 24/02/2021 tarih ve 2018/2648 E.- 2021/346 K. sayılı kararının 03.02.2016 tarihli toplantı kararlarının iptali istemi yönünden KALDIRILMASINA …
 
 ## Yargıtay 5. HD 2021/6030 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/688698700)
 
 Mahkemece, davacının maliki bulunduğu 5 ve 13 numaralı bağımsız bölümleri dava devam ederken davalı ... tarafından 6306 sayılı Kanun ile iktisap edildiğinden dava konusuz kaldığı gerekçesiyle davanın reddine karar verilmiş, hüküm, davacı vekili tarafından temyiz edilmiştir. Yargıtay (kapatılan) 20.
 
@@ -158,6 +178,8 @@ Davacı vekilinin kararın düzeltilmesi isteminin kabulü ile Yargıtay (kapat�
 
 ## Yargıtay 20. HD 2019/2310 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/504654800)
+
 Mahkemece çağrıda yapılan usulsüzlükten dolayı toplantıya katılamama durumu gerçekleşmediğinden bu nedene dayalı olarak iptal istemi iyiniyet kurallarına aykırı olup, davacının hukuki yararı bulunmadığından iptale ilişkin talebin reddi gerektiği gerekçesiyle birleşen davanın reddine, asıl dava da ise davacının yönetici seçilmesine ilişkin müdahale istemi yeni yönetici seçilmesi nedeni ile konusuz kaldığından esas hakkında karar verilmesine yer olmadığına, eski yöneticinin KMK 36. maddede belirtilen "defterin, her takvim yılının bitmesinden başlayarak bir ay içinde yönetici tarafından notere kapattırılması mecburidir." hükmüne rağmen kanuni gerekleri yerine getirmediği gerekçesiyle de dava açıldığında yönetici olan ...'in KMK 33. madde delaleti ile 36. maddesinin son fıkrası gereğince 1.200,00.-TL idari para cezası ile cezalandırılmasına karar verilmiş, hüküm davacı tarafından temyiz edilmiştir.
 
 …
@@ -168,6 +190,8 @@ kaldığından esas hakkında karar verilmesine yer olmadığına karar verilmes
 SONUÇ: Yukarıda açıklanan nedenlerle; temyiz itirazlarının kabulü ile hükmün BOZULMASINA …
 
 ## Yargıtay 23. HD 2018/206 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/405289700)
 
 Davacı vekili, müvekkili site yönetiminin bulunduğu binayı arsa payı karşılığı inşaat sözleşmesi gereğince davalının inşa ettiğini, inşaatta veksik ve kusurlu işler bulunduğunu ileri sürerek, bunların bedelinin tahsilini talep ve dava etmiştir.
 
@@ -186,12 +210,16 @@ SONUÇ: Yukarıda açıklanan nedenlerle davalı vekilinin temyiz itirazlarını
 
 ## Yargıtay 20. HD 2017/10145 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/388925400)
+
 Dosyanın incelenmesinde; anataşınmazın yönetim planında apartman ismi ile ilgili bir düzenlenmenin bulunmadığı ve kat malikleri kurulunca bir kararda alınmadığı, 23.08.2006 tarihli kat karşılığı inşaat sözleşmesinde "inşaat bittikten sonra apartmana... Apartmanı isminin konulacağı"nın kararlaştırıldığı, belediye başkanlığının ise apartman ismine dair tescil belgesi bulunmadığını bildirdiği anlaşılmaktadır.Dosyadaki yazılara, kararın dayandığı kanıtlarla yasal gerektirici sebeplere ve özellikle kanıtların takdirinde bir isabetsizlik görülmemesine göre sair temyiz itirazları yerinde değildir.Ancak; Kat Mülkiyeti Kanununun 27. maddesinde, anagayrimenkulün kat malikleri kurulunca yönetileceği ve yönetim tarzının kanunların emredici hükümlerine aykırı olmamak kaydı ile bu kurul tarafından kararlaştırılacağı, 28. maddesinde ise yönetim planının bütün kat maliklerini bağlayan bir sözleşme olduğu ve yönetim planında hüküm bulunmayan hallerde anagayrimenkulün yönetiminden doğacak anlaşmazlıkların bu kanuna ve genel hükümlere göre karara bağlanacağı düzenlenmiştir.
 Somut olayda, açıklanan yasal düzenlemeler dikkate alındığında, müteahhit ile arsa sahipleri arasındaki apartmanın isminin belirlenmesi hususundaki sözleşme hükmünün kat maliklerini bağlamayacağı, kat malikleri kurulunun toplanarak bu konuda her zaman karar alabileceği, mahkemenin ise kat maliklerinin yerine geçerek karar veremeyeceği düşünülmeksizin, apartman isminin değiştirilmesine karar verilmesi doğru görülmemiştir.
 
 SONUÇ: Yukarıda açıklanan nedenlerle; davalılardan ... Apartmanı Yönetiminin temyiz itirazlarının kabulü ile hükmün BOZULMASINA …
 
 ## Yargıtay 23. HD 2016/1487 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/232206200)
 
 Davacı vekili, müvekkili yüklenici ile davalı arsa sahibi arasında düzenleme şeklinde arsa payı karşılığı inşaat sözleşmesi imzalandığını, sözleşme uyarınca müvekkili şirket tarafından inşaa edilecek 14 bağımsız bölümden 9 tanesinin müvekkili şirkete 5 tanesinin davalı arsa sahibine ait olacağının kararlaştırıldığını, müvekkilinin üzerine düşen edimleri yerine getirip inşaatı %100 oranında tamamladığını ve ...tarihinde yapı kullanma izin belgesinin alındığını ve apartmanın kat malikleri kurulunun ... tarihinde toplandığını, bu tarihten ...tarihine kadar taşınmazın bakımı, korunması için yapılan tüm giderlerin müvekkili tarafından karşılandığını, ortak alanlar için su, elektrik, doğalgaz abonelik ve kullanım giderlerinin, bahçe bakım ve temizlik giderlerinin müvekkili tarafından karşılandığını, oysa davalının kendisine ait olan 5 adet bağımsız bölüm için ortak giderlere katılma yükümlülüğü bulunduğunu, bu bedelin de ...
 
@@ -213,6 +241,8 @@ SONUÇ: Yukarıda açıklanan sebeplerle davalı vekilinin karar düzeltme istem
 
 ## Yargıtay 18. HD 2014/3448 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/106770300)
+
 Davacılar vekili dava dilekçesinde, davalının arsa payının bir kısmının karşılıksız olduğunu bildirerek fazlalığın iptali ile arsa paylarının orantılı olarak davacılar adına tesciline karar verilmesini istemiştir. Mahkemece davanın kabulüne karar verilmiştir.
 
 …
@@ -223,6 +253,8 @@ Bu itibarla yukarıda açıklanan esaslar gözönünde tutulmaksızın yazılı 
 
 ## Yargıtay 18. HD 2013/13812 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/797471800)
+
 Davacı dava dilekçesinde, site yönetiminin oybirliği ile çatı katına güneş enerjisi sisteminin kurulamayacağına dair 01.07.2012 tarih ve 4 sayılı kararına rağmen davalının, çatı katına güneş enerjisi sistemi kurduğunu belirterek, davalının haksız müdahalesinin önlenmesine, bina çatısına kurulmuş olan güneş enerjisinin sökülmesine karar verilmesini talep etmiş, mahkemece davanın kabulüne karar verilmiştir.
 
 634 sayılı Kat Mülkiyeti Kanunu'nun 4/c maddesine göre, çatılar ortak yerlerden olup, her bir bağımsız bölüm maliki arsa payı oranında ortak yerlerden yararlanma hakkına sahiptir. Kat malikleri kurulunca bağımsız bölüm maliklerinin mülkiyet hakkının kullanılmasını ortadan kaldırmaya, sınırlandırmaya veya güçleştirmeye yönelik karar alınamaz.
@@ -232,6 +264,8 @@ Bu nedenle, bilirkişi kurulunca ana yapının çatısında her bir bağımsız 
 Bu itibarla yukarıda açıklanan esaslar gözönünde tutulmaksızın yazılı şekilde hüküm tesisi isabetsiz, temyiz itirazları bu nedenlerle yerinde olduğundan kabulü ile hükmün HUMK.nun 428.maddesi gereğince BOZULMASINA …
 
 ## İstanbul BAM 45. HD 2024/780 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1044160500)
 
 Dava ve taraf ehliyeti kamu düzenine ilişkin olup, mahkemece re’sen göz önünde tutulması gereken hususlardandır.
 

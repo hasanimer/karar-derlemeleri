@@ -21,6 +21,8 @@ uyari: "Derleyenin seçtiği alıntılardır; kararın tamamı değildir. Künye
 
 ## Yargıtay 15. HD 2009/7107 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/859480400)
+
 Mahkemece, ... tarafından açılan tapu iptâli tescili ile ... tarafından açılan davanın reddine karar verilmiş ve verilen karar davalı-k.davacı ... vekilince temyiz edilmiştir.
 
 …
@@ -35,6 +37,8 @@ SONUÇ: Yukarıda (1.) bendde belirtilen nedenlerle davalı-birleşen davanın d
 
 ## Yargıtay 15. HD 2009/5665 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/854982800)
+
 Davacı ve birleşen dosya davacısı yüklenici, mahkemenin ifaya izin verilmesine ilişkin ilk kararından sonra inşaata devam ederek %99 seviyesinde tamamladığını ileri sürerek ileriye etkili fesih ve tasfiye isteminde bulunmuş, davalı yanca bu konuda açıkça bir beyanda bulunulmamıştır. Mahkemece de bu savunma araştırılmadan, ilk karar kesinleşmeden yapılan imalâta ilişkin tazminatın sebepsiz zenginleşme hükümlerine göre istenebileceği gerekçesiyle reddedilmiştir. Gerçekten de yerel mahkemenin 24.02.2005 gün 1999/630 Esas, 2005/135 Karar sayılı ilâmıyla hüküm tarihinden itibaren yükleniciye BK’nın 97. maddesi uyarınca inşaatı tamamlaması için 24 aylık süre ve ifaya izin verilmiş, gerek bozmadan önceki yargılamada gerekse bozmadan sonra inşaat ihtiyati tedbir yoluyla durdurulmamıştır. İki tarafa borç yükleyen sözleşme türlerinden eser sözleşmesinin feshi kural olarak geriye etkili sonuç doğurur. 25.01.1984 gün 1983/3 Esas, 1984/1 Karar sayılı İçtihadı Birleştirme Kararı gereğince olayın niteliği ve özelliğinin haklı olduğu durumlarda, TMK’nın 2. maddesi gözetilerek sözleşmenin feshinin ileriye etkili sonuç doğuracağı kabul edilebilir.
 Bu halde yüklenici inşaatı getirdiği seviyeye göre hakettiği bağımsız bölümlerin ileriye etkili fesih ve tasfiyeye gidilerek kendisine verilmesini isteyebilir.
 
@@ -44,6 +48,8 @@ değerlendirme sonucu yazılı şekilde hüküm tesisi doğru olmamış, kararı
 SONUÇ: Yukarıda (1.) bendde açıklanan nedenlerle davacı birleşen karşı davalının diğer temyiz itirazlarının reddine, (2.) bent uyarınca kabulü ile hükmün davacı birleşen dosya davalısı yüklenici yararına BOZULMASINA …
 
 ## Yargıtay 15. HD 2009/1499 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/855463000)
 
 Davacı arsa sahibi kat karşılığı inşaat sözleşmesi uyarınca, davalının, dava konusu binaya kesin iskân almasına, aksi halde sözleşmenin ileriye dönük sonuç doğuracak şekilde iptâl edilerek arsa sahibi üzerinde teminat olarak bulunan 20 numaralı bağımsız bölümün satılarak binadaki eksikliklerin yaptırılması ve projeye aykırı kısımların yıktırılarak iskân ruhsatı alınması konusunda arsa sahibine yetki verilmesini istemiştir.
 
@@ -58,6 +64,8 @@ Asliye Hukuk Mahkemesi’nde açılan dava sonucu bina ortak yerlerindeki eksikl
 SONUÇ: Yukarıda açıklanan nedenlerle hükmün temyiz eden davalı yararına BOZULMASINA …
 
 ## Yargıtay 15. HD 2008/6371 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/859363200)
 
 Davacı-birleşen davanın davalısı ... davasında; yanlar arasında 07.12.1987 tarihli sözleşme ile tarihsiz olarak yapılan ikinci sözleşme gereğince maliki bulunduğu ..., ..., ... mevkiinde bulunan (16) pafta numaralı ve (7242) parsel sayılı olarak tapuya tescilli taşınmaza inşaat yapmayı ve (16) daireli (B1 bloku) 31.12.1995 tarihinde teslimini yüklenmiş olmasına karşın davalı Kooperatifin teslim etmediğini ileri sürerek, sözleşmelerin geriye etkili olarak feshine karar verilmesini istemiştir.
 
@@ -75,6 +83,8 @@ SONUÇ:Yukarıda açıklanan sebeplerle davacı-birleşen davanın davalısı ..
 
 ## Yargıtay 15. HD 2007/4672 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/860111200)
+
 Dava, kat karşılığı inşaat sözleşmesinin feshi ve davalıların vâki elatmalarının önlenmeleri istemlerine ilişkindir.
 
 16.02.2004 tarihli bilirkişi raporuna göre; binanın genel olarak %90 seviyesinde tamamlandığı, davacı arsa sahibine ait üç adet bağımsız bölümün de tamamlanma oranının %97 seviyesinde olduğu anlaşılmıştır. Davalı yüklenici ise, inşaatın daha sonra tamamlandığını savunmuştur. Kat karşılığı inşaat sözleşmelerinin tek taraflı feshi mümkün değildir. Davalının feshe karşı çıkması halinde, feshe ancak mahkemece karar verilebilir. %90 ve üzerindeki tamamlama oranı, sözleşmenin Yargıtay İçtihadı Birleştirme Kararı uyarınca ileriye etkili feshini gerektirir. Bu bakımdan, mahkemenin geriye etkili şekilde feshin tesbitine ve elatmanın önlenmesine karar vermesi doğru olmamıştır. Bu durumda mahkemece yapılması gereken iş; davalı yüklenicinin sonradan inşaatı tamamladığına ilişkin savunması gözönünde bulundurularak, keşif icrasından, tamamlama oranının %90’da kaldığının tesbiti halinde sözleşmenin ileriye etkili feshine ve elatanların durumunun da bu orana göre değerlendirilmesinden; inşaatın %100 tamamlanması ve anahtar teslimi kapsamında olan iskân ruhsatının alındığının anlaşılması halinde ise davanın reddine karar verilmesinden ibarettir. Karar açıklanan nedenlerle bozulmalıdır.
@@ -82,6 +92,8 @@ Dava, kat karşılığı inşaat sözleşmesinin feshi ve davalıların vâki el
 SONUÇ:Yukarıda açıklanan nedenlerle kararın temyiz eden yüklenici yararına BOZULMASINA …
 
 ## İstanbul BAM 53. HD 2026/27 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1188703100)
 
 Davacı vekili istinaf dilekçesinde özetle; kaldırma karar gerekçesi karşılanmaksızın karar verildiği, cezai şartın tenkisine yönelik yeterli gerekçe olmadığı, bu konuda rapor alınması yoluna gidilmediği, indirim yapılırken davacı taraf yönünden hiç değerlendirme yapılmaksızın yalnızca davalının kayıtlı sermayesi dikkate alınarak karar verildiği, cezai şartın belirlenmesi aşamasında davalının cezai şarta sebebiyet verdiği sürenin de dikkate alınması gerektiği, sonuç olarak indirim oran ve miktarının dayanaksız olduğu, fiili teslim tarihine ilişkin de yanlış değerlendirme yapıldığı gerekçesiyle ilk derece mahkemesi kararının kaldırılması talep etmiştir.Davalı vekili istinaf dilekçesinde özetle; davacının öncelikle ipotek fek yükümlülüğünü yerine getirmesi gerektiği, ipotek fek yükümlülüğünün yerine getirilmemesinden kaynaklanan sürenin inşaat teslim süresine eklenmesi gerektiği, davalının temerrüde düştüğünün kabulü halinde dahi; davacı payına düşen taşınmazların davacı tarafından satılmış olması itibariyle kiradan kaynaklı tazminat talebinde bulunamayacağı gerekçesiyle ilk derece mahkemesinin kısmen kabul kararının kaldırılması talep etmiştir.
 
@@ -112,6 +124,8 @@ Davacı vekili dava konusu taşınmazlar hakkında ihtiyati tedbir kararı veril
 
 ## Sakarya BAM 5. HD 2025/398 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1125497100)
+
 Davalı vekili cevap dilekçesinde özetle;
 
 …
@@ -121,6 +135,8 @@ Yargıtay İçtihadı Birleştirme Büyük Genel Kurulu’nun 25.01.1984 tarih 3
 …
 
 ## İzmir BAM 14. HD 2023/1433 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/944606200)
 
 Davacı vekili dava dilekçesinde özetle; "Taraflar arasındaki 09/07/2018 tarihli eser sözleşmesi gereğince; ... İli, ... İlçesi, ...
 

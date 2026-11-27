@@ -20,13 +20,19 @@ uyari: "Derleyenin seçtiği alıntılardır; kararın tamamı değildir. Künye
 
 ## Yargıtay 11. HD 2023/4322 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/956723500)
+
 Ancak, dosyada mevcut belgelere göre, davaya konu hasarlı karavanlar ile ilgili olarak, dava tarihinden önce başvurulan arabuluculuk sonucu düzenlenen 29.07.2019 tarihli tutanakta, davalının, ayıplı satımı kabul edip gereğini yerine getireceği belirtilmiştir. Bu durumda ayıp ihbar sürelerine davacının uymamış olması, davalının açık kabulü karşısında dikkate alınabilecek bir husus değildir. Mahkemece, bu tutanak kapsamında davalının karavanlarının ayıplı olduğunun kabulü ile davacının isteyebileceği tazminat tutarının belirlenmesi gerekirken bu konuda araştırma yapılmaksızın yazılı gerekçe ile davanın reddine ve davacı istinaf başvurusunun reddine karar verilmesi doğru olmamış, hükmün bu nedenle davacı yararına bozulması gerekmiştir.
 
 ## Yargıtay 11. HD 2023/739 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/912135500)
+
 Milletlerarası Mal Satımına İlişkin Sözleşmeler Hakkında Birleşmiş Milletler Antlaşması'nın (CISG) 39 uncu maddesinde alıcının bir sözleşmeye aykırılık saptadığı veya saptaması gerektiği tarihten itibaren makul bir süre içinde satıcıya, sözleşmeye aykırılığı türünü de belirterek bildirmezse, bu sözleşmeye aykırılığa dayanma hakkını kaybedeceği; 40 ıncı maddesinde ise sözleşmeye aykırılığın satıcının bildiği veya bilmemesinin mümkün olmadığı ve alıcıya açıklamadığı olgulara dayanması halinde satıcının 38 ve 39 uncu madde hükümlerine dayanamayacağı düzenlenmiştir. Yani makul süre içinde ayıp ihbarı yapılması gerekmekle birlikte, satıcı anılan Sözleşmenin 40 ıncı maddesindeki hallerin varlığı halinde ihbarın makul sürede yapılmadığını iddia edemeyecektir. 2. Bölge Adliye Mahkemesince 01.11.2012 tarihli ''bu laboratuvarların doğru analiz yaptığına inanmıyoruz, sadece gümrükten geçirmek içindir, onun metodları bunun için iyi değil ve hakikaten bu analizi yapmış olduklarına inanmıyoruz '' şeklindeki elektronik postanın ayıp ihbarı olarak kabul edilemeyeceği belirtilmiştir.
 
 ## Yargıtay 11. HD 2020/5806 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/632436900)
 
 Milletlerarası Mal Satımına İlişkin Sözleşmeler Hakkında Birleşmiş Milletler Antlaşması’nın 38.maddesinde de alıcıya şartların elverdiği ölçüde malları en kısa sürede muayene etmek ve ettirmek yükümlülüğü getirmiş olmasına ve 39.maddeye göre makul süre içinde satıcıya durumu bildirmemesi halinde sözleşmeye aykırılığa dayanma hakkını da kaybedecek olmasına göre…
 
@@ -36,5 +42,7 @@ Milletlerarası Mal Satımına İlişkin Sözleşmeler Hakkında Birleşmiş Mil
 39/1 deki şartlara uygun ihbar yapıldığı, ard arda teslimli satış sözleşmelerinin de satılan da sürekli ayıba rastlanması halinde alıcının tekrar tekrar satıcıya bildirimde bulunması gerekmediği, davacı alıcıya daha sonra teslim edilen diğer partilerde de aynı duruma rastlandığı, satıcının CISG m.
 
 ## Adana BAM 9. HD 2026/390 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1196723400)
 
 Milletlerarası Mal Satımına İlişkin Sözleşmeler Hakkında Birleşmiş Milletler Antlaşması'nın (CISG) 39 uncu maddesinde alıcının bir sözleşmeye aykırılık saptadığı veya saptaması gerektiği tarihten itibaren makul bir süre içinde satıcıya, sözleşmeye aykırılığı türünü de belirterek bildirmezse, bu sözleşmeye aykırılığa dayanma hakkını kaybedeceği; 40 ıncı maddesinde ise sözleşmeye aykırılığın satıcının bildiği veya bilmemesinin mümkün olmadığı ve alıcıya açıklamadığı olgulara dayanması halinde satıcının 38 ve 39 uncu madde hükümlerine dayanamayacağı düzenlenmiştir. Yani makul süre içinde ayıp ihbarı yapılması gerekmekle birlikte, satıcı anılan Sözleşmenin 40 ıncı maddesindeki hallerin varlığı halinde ihbarın makul sürede yapılmadığını iddia edemeyecektir.

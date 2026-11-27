@@ -22,6 +22,8 @@ uyari: "Derleyenin seçtiği alıntılardır; kararın tamamı değildir. Künye
 
 ## Danıştay 8. D. 2022/2092 E., 2024/1250 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1066537100)
+
 Davacı tarafından, bu defa 2022 yılı Tarifesinin hazırlık çalışmalarına başlanıldığı süreçte hem Türkiye Barolar Birliğine hem de Adalet Bakanlığına 01.09.2021 tarihli başvuruları ile yukarıda belirtilen hususların Tarife çalışmaları kapsamında dikkate alınması ve 2022 yılı Tarifesinin belirtilen hususlara uygun olarak düzenlenmesi talebinde bulunulmuştur.
 
 …
@@ -34,6 +36,8 @@ Davacı tarafından, bu defa 2022 yılı Tarifesinin hazırlık çalışmaların
 İdari davalarda ve vergi davalarında davanın kazanılması halinde, avukatlık ücretinin toplamında herhangi bir değişiklik olmaksızın, müdahilin, müdahil olduğu kişi ile vekalet ücreti üzerinde eşit hak kazanacağı; dava kazanılmazsa (ve karşı taraf kendisini vekil ile temsil ettiriyorsa) eşit olarak buna katlanacağı; ancak müdahil sayısının üç ve üzerinde olduğu ve bunların ayrı avukatlar tarafından temsil edildiği bir durum söz konusu olursa, avukatlık ücretinin %50 fazlasına hükmedileceğine dair ve İdari davalarda ve vergi davalarında mahkeme mahalli dışında keşif icra edilen davaların, vekalet ücreti bakımından duruşmalı davalar gibi değerlendirilmesi; bir dosyada hem mahkeme mahalli dışında icra edilen keşif hem de duruşma bulunmakta ise duruşmalı davalarda hükmedilen avukatlık ücretinin %50 fazlasına hükmedileceğine dair Tarifede düzenleme yapılması istemiyle yapılan 01.09.2021 tarihli başvurunun zımnen reddine ilişkin Türkiye Barolar Birliği işleminin iptali istemi ile 20.11.2021 tarih ve 31665 sayılı Resmi Gazete'de yayımlanarak yürürlüğe giren 2022 yılı Avukatlık Asgari Ücret Tarifesinde getirilen tekliflere dair düzenleme yapılmaması yönünden, DAVANIN REDDİNE …
 
 ## Danıştay 10. D. 2020/2300 E., 2024/1209 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1133950700)
 
 İlk Derece Mahkemesi kararının özeti: ... İdare Mahkemesinin ... tarih ve E:..., K:... sayılı kararıyla; dava konusu işlemlerin iptaline karar verilmiştir.
 
@@ -51,6 +55,8 @@ Dava konusu işlemlerin iptaline ilişkin ... İdare Mahkemesi kararına yöneli
 
 ## Danıştay 13. D. 2023/2608 E., 2024/1191 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1098211500)
+
 2577 sayılı İdari Yargılama Usulü Kanunu'nun "Kapsam ve nitelik" başlıklı 1. maddesinin ilk fıkrasında, "Danıştay, bölge idare mahkemeleri, idare mahkemeleri ve vergi mahkemelerinin görevine giren uyuşmazlıkların çözümü, bu Kanun'da gösterilen usûllere tâbidir." kuralına yer verilmiştir.
 
 …
@@ -59,6 +65,8 @@ Açıklanan nedenlerle, ihalenin iptali isteminden kaynaklanan davanın görüm 
 
 ## Danıştay 6. D. 2023/8326 E., 2024/1142 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1052558000)
+
 HUKUKİ DEĞERLENDİRME: İdarenin hukuka aykırı işlem ve eylemlerine karşı yargı merciine başvurulmasını belirli bir süreyle sınırlandıran ve idari yargıda hak düşürücü nitelikte olan dava açma süresinin, aynı zamanda Anayasa ile güvence altına alınan mahkemeye erişim hakkı ve hak arama hürriyetiyle de doğrudan ilişkili olması karşısında, anılan temel hak ve hürriyetlerin kullanımını sınırlandırıcı katılıkta yorumlanmaması gerektiği gibi usul hükümlerini etkisiz hale getirecek esneklikte de yorumlanmaması, her bir somut olayın oluşu ve özellikleri gözetilerek konunun ele alınması gerekmektedir.
 
 …
@@ -66,6 +74,8 @@ HUKUKİ DEĞERLENDİRME: İdarenin hukuka aykırı işlem ve eylemlerine karşı
 Dava konusu işlemin iptaline ilişkin Mahkeme kararına yönelik olarak yapılan istinaf başvurusunun kabulü ile anılan kararının kaldırılarak yukarıda özetlenen gerekçeyle davanın süre aşımı nedeniyle reddi yolundaki temyize konu …Bölge İdare Mahkemesi … İdari Dava Dairesince verilen …tarih ve E:…
 
 ## Danıştay 6. D. 2022/9216 E., 2024/1037 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1052430500)
 
 İlk Derece Mahkemesi kararının özeti: … İdare Mahkemesince verilen … tarih ve E:… , K:
 
@@ -82,6 +92,8 @@ Dava konusu işlemin yukarıda özetlenen gerekçeyle iptaline ilişkin İdare M
 
 ## Danıştay 4. D. 2023/14027 E., 2024/991 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1108920500)
+
 Bölge İdare Mahkemesi kararının özeti: Bölge İdare Mahkemesince;
 6306 sayılı Kanuna 04/07/2019 tarihinde eklenen 6/A maddesi ile kentsel dönüşüm uygulamalarının hak sahiplerinden herhangi bir muvafakat alınmaksızın re'sen yapılması imkanı getirildiği, buna göre yıkılacak derecede riskli olan yapıların bulunduğu alanlar ile kendiliğinden çöken veya zemin kayması, heyelan, su baskını, kaya düşmesi, yangın, patlama gibi sebeplerle ağır hasar gören veya ağır hasar görme riski bulunan yapıların bulunduğu alanlarda dönüşüm uygulamalarının maliklerin ve ilgililerin muvafakati aranmaksızın Bakanlıkça re'sen yapılmasının mümkün kılındığı, bu kapsamda, uygulamaların hızlı ve kesintiye uğramadan yürütülebilmesi için, riskli yapı tespiti, bu tespite itiraz, tahliye iş ve işlemlerinin yapılacağı süreler ile tapuda, belediyelerde ve diğer idareler nezdinde yapılacak iş, işlem ve diğer uygulamaların maliklerin ve ilgililerin muvafakatı aranmadan Bakanlıkça re'sen yapılmasına, kamu kurum ve kuruluşlarına ait olanlar da dahil olmak üzere taşınmazların Hazine adına tescil edilmesine ve yeni yapılar için kat irtifakı veya kat mülkiyetinin, hak sahiplerine haklarına karşılık gelecek bağımsız bölümlerin devri yapılıncaya kadar Hazine adına kurulmasına imkan
 sağlandığının açık olduğu, davacılara ait yapının da içinde bulunduğu uyuşmazlığa konu alanda mevcut yapılaşmanın hasarlı ve riskli binalardan oluşan dokusu ile can ve mal güvenliğinin temini için ivedilikle uygulamaya geçilmesinin gerekliliği kapsamında, uygulamaların 6306 sayılı Kanun'un 6/A maddesi uyarınca re'sen yapılması hususunda Bakanlık Olur işleminin tesis edilmesinde, deprem neticesinde yaşanan afet sebebiyle kendiliğinden çöken, ağır hasar gören veya ağır hasar görme riski bulunan yapılar ile riskli yapılardan oluşan bu alanın içinde kalan davacıların maliki olduğu taşınmazın teknik raporlar ve hasar tespit çalışmaları neticesinde acil yıkılacak yapı olarak belirlenmesi nedeniyle, bu özel durumu olan alanda çalışmaların davalı idare tarafından re'sen yürütülmesi yolunda işlem tesis edilmesinde kamu yararına ve hukuka aykırılık bulunmadığı sonucuna varılmış ve İdare Mahkemesince verilen davanın reddi yolundaki kararda belirtilen gerekçelere bu gerekçenin de ilavesi suretiyle İdare Mahkemesi kararında isabetsizlik görülmediği belirtilerek, istinaf başvurusunun yukarıda belirtilen gerekçenin eklenmesi suretiyle reddine karar verilmiştir.
@@ -92,9 +104,13 @@ Temyize konu … Bölge İdare Mahkemesi ... İdare Dava Dairesinin … tarih ve
 
 ## Danıştay 6. D. 2023/3918 E., 2024/884 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1062948800)
+
 14/04/2023 tarihli Resmi Gazete'de yayımlanan dava konusu işleme karşı, 2577 sayılı İdari Yargılama Usulü Kanununun 8. maddesinde yer alan; sürenin tatil gününü izleyen çalışma gününün bitimine kadar uzayacağı hükmü uyarınca, bakılan davada otuz günlük dava açma süresinin son günü olan 14/05/2023 tarihinin resmi tatil gününe rastlaması sebebiyle, dava açma süresinin ilk çalışma günü olan 15/05/2023 tarihi bitimine kadar uzadığı, davacı tarafından otuz günlük yasal dava açma süresi içinde 15/05/2023 tarihinde dava açıldığından, davalı idarelerin davada süre aşımı bulunduğu yönündeki itirazı yerinde görülmemiştir.
 
 ## Danıştay 9. D. 2023/1765 E., 2024/854 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1057096100)
 
 İlk Derece Mahkemesi kararının özeti: … Vergi Mahkemesinin … tarih ve E:… , K:… sayılı kararıyla; dava konusu vergilendirme işleme ilişkin uyuşmazlık herhangi bir kuşku ya da hukuki tartışmaya meydan bırakmayacak şekilde açık bir vergi hatası kapsamında olmadığı, hukuki bir ihtilaf niteliğinde olduğu ve ileri sürülen iddiaların vergilendirme işlemine karşı süresinde açılacak davada incelenecek mahiyette bulunduğu, diğer bir ifadeyle ihtilafın çözümünün maddi olayların ve mevzuatın birlikte değerlendirilmesi ve yorumunu gerektirdiği, 213 sayılı Vergi Usul Kanununda öngörülen düzeltme-şikayet başvuru yolu izlenmek suretiyle tesis ettirilen olumsuz işleme karşı açılan davanın reddi gerektiği, dava konusu zımni ret işleminde hukuka aykırılık görülmediği gerekçesiyle davanın reddine karar verilmiştir.
 
@@ -112,6 +128,8 @@ Davacı tarafından, "İstanbul İli, Zeytinburnu İlçesi, … Mahallesi Kentse
 
 ## Danıştay 13. D. 2024/98 E., 2024/561 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1072301300)
+
 Davalı Kamu İhale Kurumu tarafından, Kurumun 4734 sayılı Kanun'a göre gerçekleştirilen ihalelere ilişkin olarak ihalenin başlangıcından sözleşmenin imzalanmasına kadar olan süre içerisinde idarece yapılan işlemlerin anılan Kanun ve ilgili mevzuat hükümlerine göre uygun olup olmadığını inceleme ve işlem tesis etme görevinin bulunduğu, bunun dışında gelir getirici faaliyet kapsamında yapılan ihalelere yönelik olarak inceleme yapma ve işlem tesis etme görev ve yetkisinin bulunmadığı, tesis edilen işlemde hukuka aykırılık bulunmadığı belirtilerek istemin reddi gerektiği savunulmuştur.
 
 …
@@ -125,6 +143,8 @@ Davacı tarafından Antalya Çevre, Şehircilik ve İklim Değişikliği İl Mü
 2577 sayılı İdari Yargılama Usulü Kanunu'nun 7. maddesinin 1. fıkrasında, dava açma süresinin özel kanunlarında ayrı süre gösterilmeyen hâllerde idare mahkemelerinde "altmış gün" olduğu belirtilmiş; aynı maddenin 2. fıkrasında, dava açma süresinin idarî uyuşmazlıklarda, yazılı bildirimin yapıldığı; 4. fıkrasında ise ilanı gereken düzenleyici işlemlerde dava süresinin ilan tarihini izleyen günden itibaren başlayacağı; 8. maddesinin 3. fıkrasında, Bu Kanun'da yazılı sürelerin bitmesi çalışmaya ara verme zamanına rastlarsa bu sürelerin, ara vermenin sona erdiği günü izleyen tarihten itibaren yedi gün uzamış sayılacağı; 11. maddesinde, ilgililer tarafından idari dava açılmadan önce idari işlemin kaldırılmasının, geri alınmasının, değiştirilmesinin veya yeni bir işlem yapılmasının üst makamdan, üst makam yoksa işlemi yapmış olan makamdan, idari dava açma süresinde istenebileceği, bu başvurunun işlemeye başlamış olan idari dava açma süresini durduracağı kurala bağlanmıştır.
 
 ## Danıştay 6. D. 2022/3174 E., 2024/557 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1052401600)
 
 İdare Mahkemesinin …
 
@@ -160,6 +180,8 @@ sayılı Küçükçekmece Belediye Meclisi kararının iptali istemiyle bakılan
 
 ## Danıştay 4. D. 2023/11221 E., 2024/402 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1055115000)
+
 2577 sayılı İdari Yargılama Usulü Kanunu'nun, 4577 sayılı Kanun'la değişik 2. maddesinde; idari işlemler hakkında yetki, şekil, sebep, konu ve maksat yönlerinden biri ile hukuka aykırı olduklarından dolayı iptalleri için menfaatleri ihlal edilenler tarafından açılan davalar "iptal davası" olarak tanımlanmış olup, bu davalar idarenin hukuka uygun davranmasını sağlayan en önemli araçlardandır.
 
 …
@@ -167,6 +189,8 @@ sayılı Küçükçekmece Belediye Meclisi kararının iptali istemiyle bakılan
 Aynı Kanun'un 14. maddesinde de; dava dilekçelerinin ehliyet yönünden inceleneceği ve 15/1-b maddesinde; bu hususta Kanuna aykırılık görülmesi halinde davanın reddine karar verileceği hükmü düzenlenmiştir.
 
 ## Danıştay 6. D. 2019/21746 E., 2023/9779 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1047069400)
 
 İlk Derece Mahkemesi kararının özeti: ... İdare Mahkemesince verilen … tarih ve E:…, K:… sayılı kararda; dava konusu ... tarih ve ... sayılı İzmir Büyükşehir Belediye Başkanlığı İmar Denetim Dairesi Başkanlığı işlemi yönünden;
 6306 sayılı Kanunun 7. maddesinin 10. fıkrası ile riskli yapıların bulunduğu parsellerde, gerçek kişilerce ve özel hukuk tüzel kişilerince uygulamada bulunulması halinde yapı ruhsatı alınması aşamasında alınacak harç ve ücretlerin, Kanun'da getirilen istisna gereği sadece kullanım maksadı değişiklikleri ile yapı alanındaki artışlar için, bu artış veya değişiklik ile sınırlı olarak hesaplanan harç ve ücret farklarını kapsayacağı, davalı idarece aksi yönde yapılan yorum ile düzenlemelerde ifade edilen ''riskli alanlardaki yapıların mevcut alanları için daha önce belediyelerce alınan harç ve ücretlere ilave olarak'' ifadesinin, işlemlerin belediyeler tarafından daha önce alınması gereken harç ve ücretlerin tahsili şartına bağlandığı sonucunu ortaya çıkarmayacağı, anılan Kanunda, riskli yapı kapsamına girmeden önce alınan yapı ruhsatı ve yapı kullanma izni açısından tahsil edilmesi gereken harç ve ücretler hakkında, tahsil edilmiş ya da tahsil edilmemiş şeklinde bir ayrıma yer verilmediği, sadece riskli yapı tespitinden sonraki dönemde yapılacak iş ve işlemler hakkında kurallar getirildiği dikkate alındığında, tesis edilen işlemde hukuka, mevzuata ve 6306 sayılı Kanunun amacına uyarlık
@@ -184,6 +208,8 @@ Dava konusu işlemlerin iptali yolundaki İdare Mahkemesi kararına yönelik ola
 
 ## Danıştay 6. D. 2019/21980 E., 2023/9778 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1047525300)
+
 İlk Derece Mahkemesi kararının özeti:
 
 …
@@ -200,6 +226,8 @@ Davanın yukarıda özetlenen gerekçeyle reddine ilişkin İdare Mahkemesi kara
 
 ## Danıştay 6. D. 2023/5822 E., 2023/9739 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1106370000)
+
 2577 sayılı İdari Yargılama Usulü Kanununun 46. maddesinde; Danıştay dava daireleri ile idare ve vergi mahkemelerinin nihai kararlarına karşı tebliğ tarihini izleyen otuz gün içinde Danıştayda temyiz yoluna başvurulabileceği, 49. maddesinin 3. fıkrasında; kararların kısmen onaylanması ve kısmen bozulması hallerinde kesinleşen kısmın Danıştay kararında belirtileceği kurala bağlanmış olup, temyiz yoluna, aleyhine karar verilen taraflarca başvurulabileceği açıktır.
 
 …
@@ -208,6 +236,8 @@ Açıklanan nedenlerle, ... İdare Mahkemesinin ... tarihli, E:..., K:... sayıl
 
 ## Danıştay 10. D. 2023/6067 E., 2023/9234 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1083216600)
+
 Davacı ... vekili Av. ... tarafından, Mersin ili, Akdeniz ilçesi, ... Mahallesi Rezerv Yapı Alanı Kentsel Dönüşüm Projesi kapsamında 06/04/2023 tarihinde gerçekleştirilen TOKİ Konutları 2. Kura Çekimi işleminin, hukuka ve mevzuata aykırı olduğu, taşınmazının kentsel dönüşüm kapsamına alındığı, bu kapsamda birçok daire ve dükkan inşa edildiği, yapılan ikinci kura çekiminde sadece zemin ve en üst katların kuraya dahil edildiği, hak sahipleri arasında ayrımcılık yapıldığı ileri sürülerek yürütmesinin durdurulması ve iptali istemiyle Çevre, Şehircilik ve İklim Değişikliği Bakanlığına ve Toplu Konut İdaresi Başkanlığına karşı açılan davada, Mersin 1.
 
 …
@@ -215,6 +245,8 @@ Davacı ... vekili Av. ... tarafından, Mersin ili, Akdeniz ilçesi, ... Mahalle
 2577 sayılı İdari Yargılama Usulü Kanunu'nun 32. maddesinin 1. fıkrasında; göreve ilişkin hükümler saklı kalmak şartıyla bu Kanunda veya özel kanunlarda yetkili idare mahkemesinin gösterilmemiş olması halinde, yetkili idare mahkemesinin, dava konusu idari işlemi veya idari sözleşmeyi yapan idari merciin bulunduğu yerdeki idare mahkemesi olduğu kurala bağlanmıştır.
 
 ## Danıştay 6. D. 2021/4131 E., 2023/8564 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1043566700)
 
 Davacı tarafından haksız olarak ödendiği ileri sürülen bedelin iadesi istemiyle 06/05/2020 tarihinde davalı idareye yapılan başvurunun zımnen reddi üzerine görülmekte olan dava açılmıştır.
 
@@ -229,6 +261,8 @@ Davanın yukarıda özetlenen gerekçeyle süre aşımı nedeniyle reddine iliş
 
 ## Danıştay 4. D. 2023/13867 E., 2023/7187 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1084627300)
+
 2577 sayılı İdari Yargılama Usulü Kanunu'nun 54. maddesinde, Danıştay Dava Daireleri ve İdari veya Vergi Dava Daireleri Kurullarının temyiz üzerine verdikleri kararlar ile Bölge İdare Mahkemelerinin itiraz üzerine verdikleri kararlar hakkında, bir defaya mahsus olmak üzere kararın tebliğ tarihini izleyen onbeş gün içinde taraflarca karar düzeltme yoluna başvurabileceğine ilişkin ön görülen hüküm, 28/06/2014 tarih ve 29044 sayılı Resmi Gazetede yayımlanan 6545 sayılı Kanun'un 103. maddesiyle yürürlükten kaldırılmış, aynı Kanunla eklenen geçici 8. maddede, ivedi yargılama usulü hariç olmak üzere, 6545 sayılı Kanunla getirilen kanun yollarına ilişkin hükümlerin, 2576 sayılı Kanun'un, anılan Kanunla değişik 3. maddesine göre kurulan bölge idare mahkemelerinin tüm yurtta göreve başlayacakları tarihten sonra verilen kararlar hakkında uygulanacağı; bu tarihten önce verilmiş kararlar hakkında, kararın verildiği tarihte yürürlükte bulunan kanun yollarına ilişkin hükümlerin uygulanacağı hükmüne yer verilmiştir.
 
 …
@@ -238,6 +272,8 @@ Dosyanın incelenmesinden; davacı tarafından İstanbul İli, Kadıköy İlçes
 …
 
 ## Danıştay 8. D. 2021/1032 E., 2023/7168 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1048327600)
 
 İlk Derece Mahkemesi kararının özeti: ... İdare Mahkemesince verilen …
 
@@ -251,14 +287,20 @@ sayılı kararda; dava konusu taşınmazın bulunduğu bölgenin 2/B kapsamında
 
 ## Danıştay 6. D. 2019/11852 E., 2023/6845 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1021633200)
+
 2577 sayılı İdari Yargılama Usulü Kanunu'nun "Dava açma süresi" başlıklı 7. maddesinde, dava açma süresinin, özel kanunlarında ayrı süre gösterilmeyen hallerde Danıştayda ve idare mahkemelerinde 60 gün olduğu belirtilmiş; aynı maddenin 4. fıkrasında, "İlanı gereken düzenleyici işlemlerde dava süresi, ilan tarihini izleyen günden itibaren başlar. Ancak bu işlemlerin uygulanması üzerine ilgililer, düzenleyici işlem veya uygulanan işlem yahut her ikisi aleyhine birden dava açabilirler. Düzenleyici işlemin iptal edilmemiş olması bu düzenlemeye dayalı işlemin iptaline engel olmaz." hükmüne; dava konusu plan değişikliğinin onaylandığı tarihte yürürlükte olan haliyle "Üst makamlara başvurma" başlıklı 11. maddesinde ise; "1. İlgililer tarafından idari dava açılmadan önce, idari işlemin kaldırılması, geri alınması, değiştirilmesi veya yeni bir işlem yapılması üst makamdan, üst makam yoksa işlemi yapmış olan makamdan, idari dava açma süresi içinde istenebilir. Bu başvurma, işlemeye başlamış olan idari dava açma süresini durdurur. 2. Altmış gün içinde bir cevap verilmezse istek reddedilmiş sayılır. 3.
 İsteğin reddedilmesi veya reddedilmiş sayılması halinde dava açma süresi yeniden işlemeye başlar ve başvurma tarihine kadar geçmiş süre de hesaba katılır." kurallarına yer verilmiştir.
 
 ## Danıştay 4. D. 2023/11466 E., 2023/6673 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1047118300)
+
 6\. 2577 sayılı İdari Yargılama Usulü Kanunu'nun 20/A-2-(g) maddesi uyarınca bu kararın tebliğ tarihini izleyen onbeş (15) gün içinde Danıştay İdari Dava Daireleri Kurulu nezdinde temyiz yolu açık olmak üzere, 30/11/2023 tarihinde oybirliğiyle karar verildi.
 
 ## Danıştay 4. D. 2023/12151 E., 2023/6502 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1093251900)
 
 İlk Derece Mahkemesi kararının özeti: ...
 

@@ -22,6 +22,8 @@ uyari: "Derleyenin seçtiği alıntılardır; kararın tamamı değildir. Künye
 
 ## Yargıtay 13. HD 2011/14630 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/762066600)
+
 Davacı,15.12.2004 tarihindeki taahhütnameye güvenerek 17127 ada, 19 parsel, zemin kat 1. no.lu meskeni davalı ...’dan 32.000,00 TL’na satın aldığını ve bedelini ödediğini, tapu masraflarından başka Hiçbir ödeme yapmamasının satış sözleşmesinde yazıldığını, ...’nın kooperatifteki payını 15.12.2004 tarihli kooperatif kararı ile devrettiğini,...'nın daireyi ...'den aldığını,...'in ...
 
 …
@@ -38,6 +40,8 @@ SONUÇ : 1.bentte açıklanan nedenlerle davalı ...'nın tüm,davacının diğe
 
 ## Yargıtay 14. HD 2011/12961 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/558705500)
+
 Davalı, 01.07.2007 tarihine kadar olan döneme ait kira bedellerinin ödendiğini, davacının veraset ve intikal vergisini ödemediği için iskan ruhsatının alınamadığını savunarak davanın reddini istemiştir.
 
 Mahkemece; davacı arsa sahibinin gerekli harç ve ödemeleri yapmadığından iskan ruhsatı alımının geciktiği, davacının kusurlu olduğu, bu nedenle 6 aylık gecikmeden dolayı kira kaybı tazminatı istenemeyeceği gerekçesiyle davanın reddine karar verilmiştir.
@@ -52,6 +56,8 @@ SONUÇ: Yukarıda açıklanan nedenlerle davalı vekilinin temyiz isteminin kabu
 
 ## Yargıtay 15. HD 2011/6641 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/766580300)
+
 Öte yandan sözleşmenin 11/2. maddesinde sözleşme tarihinden itibaren inşaatın yapılacağı parselin arsa emlak vergisinin yüklenici firmaya ait olduğu kararlaştırıldığı, davacı talep ettiği emlak vergilerini kendisinin ödediğini iddia ettiği, inşaatın imara aykırı ve kaçak olması sözleşmenin geçerli ve henüz feshedilmemiş olması sebebiyle sözleşmenin bu hükmünün uygulanmasına engel teşkil etmeyeceğinden, mahkemece sözleşmenin imzalandığı tarihten sonra yapıldığı ileri sürülen emlak vergisi ödemelerinin kim tarafından yapıldığının gerekirse davacı tarafça her türlü delil denilmek suretiyle yemin deliline de dayanıldığından bu konuda yemin teklif etme hakkı olduğu da hatırlatılarak saptanmak suretiyle bu alacak kalemi ile ilgili istemin değerlendirilip sonucuna uygun bir karar verilmesi gerekirken yanlış değerlendirme ile bu talebin reddi de usul ve yasaya aykırı olmuştur.
 
 …
@@ -60,10 +66,14 @@ SONUÇ:Yukarıda 1. bentte açıklanan nedenlerle davalı-karşı davacının t�
 
 ## Yargıtay 15. HD 2010/97 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/658968600)
+
 Davaya konu teşkil eden yeniden inşa olunacak bina vs. tesisler tescil harcının muhatabı arsa sahipleridir. Bu nedenle vergi dairesi tarafından harç arsa sahipleri adına tahakkuk ettirilmiş, arsa sahiplerinden davacı ... tarafından vergi dairesine ödenmiştir. Dava dışı yüklenici şirket ile arsa sahipleri arasındaki 30.06.2004 tarihli kat karşılığı inşaat sözleşmesinin C.3 ve F maddelerinde sadece veraset ve intikâl vergisinin arsa sahipleri tarafından ödeneceği düzenlemesine yer verilmiştir. Sözleşmedeki bu düzenlemeden veraset ve intikâl vergisi dışındaki tüm giderlerin yüklenici şirket tarafından karşılanacağı sonucuna varılmaktadır. Davacı arsa sahibinin ödediği yeniden inşa olunacak bina ve sair tesisleri tescil harcını öncelikle yüklenici şirketten sözleşme hükümleri uyarınca istemesi gerekir. Davacının yüklenici şirkete başvurmadan ve hakkında dava açmadan ödediği harcın payına düşen kısmını davalıdan istemesi mümkün değildir.
 Bu nedenle davanın reddine karar verilmesi gerekirken, kabulü doğru olmamış, kararın bozulması gerekmiştir.SONUÇ:Yukarıda açıklanan nedenlerle kararın davalı yararına BOZULMASINA, fazla alınan temyiz peşin harcının istek halinde temyiz eden davalıya geri verilmesine, 19.01.2010 gününde oybirliğiyle karar verildi.
 
 ## Yargıtay 14. HD 2009/14543 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/850636900)
 
 Davacılar yüklenicinin temliki sebebiyle 5400 ada 10 ve 11 sayılı parseller iken tevhit sonucu 12 parsel numarasını alan zemin üzerine yapılan binanın 20, 21 ve 22 numaralı bağımsız bölümlerinin davalı arsa sahipleri adına olan kayıtların iptali ile ayrı ayrı adlarına tescilini istemişlerdir.
 
@@ -79,6 +89,8 @@ SONUÇ: Temyiz olunan kararın yukarıda açıklanan nedenlerle BOZULMASINA …
 
 ## Yargıtay 15. HD 2008/6858 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/857822500)
+
 Mahkemece, davanın reddine karar verilmiş ve verilen karar, davacı vekilince temyiz edilmiştir.
 
 Davanın reddine yönelik olarak mahkemece verilen 08.03.2005 tarih 2004/127 E- ve 2005/66 K sayılı önceki hüküm; Daire’mizin 17.04.2006 gün, 2005/3125 E ve 2006/2265 K. sayılı ilâmı ile bozulmuş ve mahkemece bozma ilâmına uyulmuştur. Bozma ilâmında; sözleşmenin (5.) maddesi hükmü gereğince, sözleşme konusu taşınmazla ilgili tüm vergilerin yüklenici davalı tarafından ödeneceğinin kabul edilmiş olduğu açıklanmıştır. Yanlar arasındaki sözleşmenin (5.) maddesi hükmünde; yüklenicinin sözleşme konusu inşaatı yaparak tesliminden sonra dahi iskân ruhsatının alınmasına kadar emlak vergisi dahil tüm vergilerin davalı yüklenici tarafından ödeneceği, taraflarca kararlaştırılmıştır. 1319 Sayılı Emlak Vergisi Kanunu’nun 3. maddesi gereğince, bina vergisini, binanın malikinin veya varsa intifa hakkı sahibinin veyahut her ikisi de yoksa binaya malik gibi tasarruf edenlerin ödemesi gerekir ise de; belirtilen bu mükelleflerin emlak vergisi borcunun, başka bir kimse ve bu kapsamda yüklenici tarafından kişisel borç doğurmaya elverişli başka bir sözleşme ile borçlanması olanaklıdır.
@@ -88,6 +100,8 @@ Davanın reddine yönelik olarak mahkemece verilen 08.03.2005 tarih 2004/127 E- 
 SONUÇ: Yukarıda açıklanan sebeplerle, davacı vekilinin temyiz itirazlarının kabulüne ve kararın davacı yararına BOZULMASINA …
 
 ## Yargıtay 15. HD 2008/2682 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/16832400)
 
 Somut olayda inşaat yapılması kararlaştırılan davalıya ait arsa üzerinde davalıya ait gecekondu bulunduğu ve sözleşme tarihinde tapu kaydında ipotek şerhi olduğu anlaşılmaktadır. Yüklenici 04.12.2003 tarihli ihtarla ipoteğin kaldırılmasını talep etmiş, 09.12.2003 günü ipotek terkin edilmiş, yüklenici 26.03.2004 tarihinde plan ve projeleri belediyeye tasdik ettirdikten sonra 30.04.2004 tarihli ihtarla inşaata başlayabilmek için arsa üzerindeki gecekondunun yıkılmasını talep etmiş, gecekondu yıkılmadığı gibi 04.05.2004 tarihinde arsa sahibi, yüklenici ve temsilcisini vekaletten azletmiştir. Belediye yazısından da, elektrik ve su abonelikleri iptal edilmeden gecekondunun yıkım ruhsatının ve gecekondu yıkılmadan da inşaat yapım ruhsatının verilmesinin mümkün olmadığı anlaşılmaktadır.
 
@@ -112,6 +126,8 @@ A.Ş.' nin Adi Ortaklığın eski hissedarı olması sebebiyle Adi Ortaklıktan 
 
 ## İstanbul BAM 45. HD 2026/535 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1203358500)
+
 Sunulan istinaf sebeplerinin incelenmesi:Somut uyuşmazlıkta, dosyada yer alan bilgi ve belgelerden , davacı kooperatifin İstanbul ili Sarıyer ilçesi 380 ada 79 parselde kayıtlı taşınmazın maliki olduğu, iş bu taşınmaz üzerinde daire yapılıp kooperatif üyelerine tahsis işleminin yapılması amacıyla dava dışı müteahhit.... A.Ş. ile kat karşılığı inşaat sözleşmesi düzenlendiği ve inşaatın yapıldığı, tapu masrafı ile devir edilen taşınmazın KDV ödemelerinin alıcıya ait olmak üzere tapuda devir ve tescil işleminin yapıldığı anlaşılmaktadır.Yukarıda belirtilen davaya dayanak teşkil eden 16.06.2015 tarih ve 2015-A-2113/19 sayılı vergi inceleme raporunda davacının, davalıya satışını yaptığı yapı değerinin düşük gösterildiği ve aradaki farka isabet eden KDV nin vergi ...tarafından davacıya tarh edildiği anlaşılmaktadır.Uyuşmazlıkta, davacı vekili tarafından sunulan istinaf dilekçesinde yapılandırma yapılarak ödemelerin gerçekleştiği ileri sürülmüştür.Mahkeme tarafından iş bu ödeme belgelerinin dosya arasına eksiksiz kazandırılması için davacı vekiline süre verilmesi gerekmektedir. Aksi halde ise, ilerideki (müstakbel) bir yarar davanın açılması için yeterli değildir.
 Davanın açıldığı anda da , hukuki yarar bulunmalıdır. Bu konuda yani erken dava açılması ile ilgili olarak Yargıtay 23.Hukuk Dairesi'nin 04.05.2023 tarih ve 2022/829 E 2023/1652 K sayılı ilamında "...Somut olayda; davacı yanca, taraflar arasındaki hizmet alım sözleşmesine dayalı olarak, toplu iş sözleşmesinden doğan maaş farkı ve fer'ileri talep edilmiş olup, davacının bu tutarı işçilerine ödemediği hususunda tartışma bulunmamaktadır.
 Bu durumda mahkemece, işçilerine henüz ödeme yapmamış olan davacı alt yüklenicinin davası erken dava olarak değerlendirilerek, HMK'nın 114/1-h maddesi uyarınca hukuki yarar yokluğu nedeniyle usulden reddine karar verilmesi ayrıca hükmedilecek yargılama giderleri ile vekalet ücreti takdirinde dava şartı yokluğunun ön şart yokluğu sayılacağının dikkate alınması gerekirken, yanılgılı gerekçelere dayalı olarak hüküm kurulması doğru olmamıştır.'' belirtildiği üzere, muaccel olmayan (müeccel) alacak için dava açılamayacağı ve açılması durumunda ise, alacağın muaccel hale gelmesinden sonra yeniden dava edileceği göz önünde bulundurulmalı ve eğer ödeme yapılmadan davanın açıldığının veya yargılama aşamasında da ödemelerin yapılmadığının tespiti halinde , davanın esasına girilmeden erken açılan davanın hukuki yarar yokluğundan reddine karar verilmesi gerekmektedir.Ödeme belgeleri sunulması halinde ise; iş bu ödeme belgeleri ve ekleri ile Uyap sisteminde yer alan taraflar arasındaki uyuşmazlığa dayanak vergi mahkemeleri tarafından yapılan yargılamaya dava dosyası evrakları dosya arasına alınarak esasa dair inceleme yapılarak varılacak sonuç dairesinde karar verilmesi gerekmektedir …
@@ -121,6 +137,8 @@ Bu durumda mahkemece, işçilerine henüz ödeme yapmamış olan davacı alt yü
 Davacı vekilinin istinaf başvurusunun KABULÜ ile, İstanbul 7. Asliye Ticaret Mahkemesi'nin 17/11/2021 tarihli ve 2018/518 Esas - 2021/911 Karar sayılı kararının 6100 sayılı HMK'nun 353/1.a.6 maddesi uyarınca KALDIRILMASINA …
 
 ## Ankara BAM 27. HD 2026/386 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1205054100)
 
 Yapı Ruhsatı tarihinden sonra arsayla ilgili vergi, resim harç ve her türlü borçların ödeme yükümlülüğü davalıya ait bulunmaktadır." denildiği, sözleşmeye göre doğrusunun, "Yapı Ruhsatı öncesi arsa ile ilgili tüm vergi, harç ve her türlü borçlar Arsa Sahibine (davalıya), Yapı Ruhsatı tarihinden sonra ise Yüklenici firmaya (davacıya) ait olacaktır." olması gerektiği, bu düzeltmeden sonra davacının dilekçesinin bu bölümünde yer alan alacak iddialarının haksız olduğu, sözleşmenin 13.1.2. maddesinde yer alan "elektrik, su, doğalgaz saatleri ve tüm abonelikler, depozitolar, güvence bedelleri bağımsız bölüm sahiplerine ait olacağı" düzenlendiği, doğalgaz, elektrik ve su tüketim faturalarının davacı yanca ödenmiş olduğu hususunda ispatın davacıya ait olduğu, yatırıldığı iddia edilen 19.410,00 TL tutarı ile arka sayfadaki tabloda yer alan tutarlar arasında "tutarsızlık" bulunduğu, dava dilekçesinde "değer arttırıcı imalat" olarak yer bulan imalat kalemlerinin imalatında müvekkilin talebi olmadığı gibi üstelik onayının da alınmadığı, sözleşmesinin "Arsa Sahibinin Hakları" başlığı taşıyan 13.2. maddesinin 1. fıkrasında "Arsa sahibi inşaatın yapımıyla ilgili her ne ad altında olursa olsun
 dolaylı ve direkt olarak Yüklenici firmaya hiçbir bedel ödemeyecektir." hükmü gereğince, yüklenicinin bu konuda bir talep hakkı olmadığı, yine sözleşmenim 13.2. maddesinin 3. fıkrası "Arsa sahipleri, yüklenici firmanın sözleşme yükümlülükleri, fenni şartname ve mahal listelerinde belirtilen malzemelerle yapacağı örnek daireye onay verdikten sonra; Yüklenici firma bütün bağımsız bölümleri aynı malzeme, kalite ve işçilikle imar edecektir.
@@ -134,6 +152,8 @@ Ankara Batı Asliye Ticaret Mahkemesinin 05/07/2024 gün ve 2020/306 Esas, 2024/
 
 ## Ankara BAM 27. HD 2026/337 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1199915100)
+
 B blokta yapılan imalatların bedelini davalı müteahhitin ödeyeceğinin, A bloku da kooperatifin KKİS koşullara göre müvekkilinin yapacağı, bunun bedelini de yine asıl müteahhit kooperatifin ödeyeceğinin kararlaştırıldığını, sözleşme dışında bırakılan B blokta yapılan imalatların bedeli ile A blokta yapılan ve sözleşmeye göre yapılacak inşaatların bedeline karşılık 870.000,00 TL ve üç daire verilmesi, ayrıca tanzim edilecek faturaların KDV'sinin ödemesinin kararlaştırıldığı, bu tasfiyeden ve A blok inşaatın bitirilmesinden sonra müvekkili ile davalı kooperatifin 22.9.2009 tarihli inşaat sözleşmesini imzaladıklarını, bu sözleşmede B blokta yapılan işler, A blokta yapılan işler ve tanzim edilecek faturaların KDV’si ve üç daire karşılığı iş yapılacağını, A bloktaki işlerin sözleşme şartlarına göre davalıya teslim edildiğini ve bu nedenle kesin kabul tutanağı da imzalandığını, ancak müvekkiline ödenmesi gereken 870.000,00 TL + KDV' si ve üç dairenin çok az bir kısmı ( asıl yüklenici bu dairelerin bir kısmını kendisi sattığı)ödenmiş ama geri kalan kısmının halen ödenmediğini, bu bedellere karşılık ;
 42.000,00 TL+ 7.560.00TL KDV, 828.000,00TL+ 149.040,00TL KDV ki toplam 870.000,00TL + 156.600,00TL ki toplam 1.026.600,00 TL nakit para ve üç adette daire verilmesi gerektiği, bu daireleri de davalı satmış ve bir kısım bedelleri müvekkile vermişlerse de bir kısmının halen uhdelerinde kaldığını, müvekkilinin elinde bedelin ödendiğini içeren tahsilat makbuzları olmadığını, ancak müvekkilin bir kısmını aldığını, diğer kalan kısmın yaklaşık 2014 yılı başlarından beri ödenmediğini, 22.09.2009 tarihli sözleşmenin cezai şartlar bölümündeki 5. maddesinde kooperatif ödemeleri gösterilen tarihlerde ödemediği geç ödediği takdirde yapılan her geç ödeme için aylık %5 cezai şart ödemeyi kabul ve taahhüt ettiğini, bu nedenle iş bitiminde ödenmesi gereken parayı ödemediği için iş bitimi de kesin kabul tutanağında (22.8.2011 ) gösterildiğine göre bu tarihten itibaren her ay için %5 gecikme cezai uygulanmasını talep ettiklerini, 22.9.2009 tarihli inşaat sözleşmesinde 870.000,00TL nakit ödemenin 30 Ekim 2009, 30 Kasım.
 
@@ -146,6 +166,8 @@ Taraf vekillerinin istinaf başvurularının HMK'nın 353/1-b.1 maddesi gereğin
 
 ## İstanbul BAM 15. HD 2026/143 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1194725500)
+
 Davalı vekili; davacıların kötü niyetli olduğunu, davacıların ikinci sözleşmenin tarihrinde tahrifat yaptıklarını, iş bitirme tarihinin 28.10.2018 tarihi olduğunu, mahkemeyi yanıltmaya çalıştıklarını, ruhsat alınması ve proje işinin davacının sorumluluğunda olmasına rağmen yerine getirmediklerini, davacılar proje ve ruhsatın alınacağı sözlenerek kaçak inşaat yaptırılmaya çalıştıklarını, inşaat için 885.625,00TL harcama yaptıklarını, bunun bir kısmının devlete ödenen vergiler ve davacıya kesilen faturalar olduğunu, belgeli harcama miktarının KDV hariç 595.779,48 TL olduğunu, ayrıca inşaat alanında 150.000,00TL bedelinde malzemesi kaldığını, ruhsat alınmadığı için inşaatın bitmediğini, ikinci sözleşme ile belirlenen ilave işleri yaptıklarını, inşaatın inşaat yapılmamasından davacının kusurlu olduğunu, davacıdan alınan tüm ödemelerin işe harcandığını, davacının bir zararının da olmadığını, Çatalca Sulh Hukuk Mahkemesinin tespit dosyasındaki raporun hatalı olduğunu beyanla davanın reddini talep etmiştir.
 
 …
@@ -155,6 +177,8 @@ Dairemiz kaldırma kararında, inşaat kaçak nitelikte olduğundan imalat bedel
 Bununla birlikte, davacının iade talep edebileceği miktar bilinebilir olmadığı gibi mahkemece bilirkişi raporu ile belirlendiğinden icra inkar tazminatına hükmedilmiş olması hatalı olmuştur. Ayrıca davacının menfi zarar talebine ilişkin davanın dosyada sunulan deliller itibariyle reddine karar verilmiş olması doğru olmuştur.
 
 ## İstanbul BAM 15. HD 2026/142 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1195871100)
 
 Dava; Asıl dava ve birleşen dava, kat karşılığı inşaat sözleşmesinden kaynaklı ayıptan kaynaklı onarım aksi halde tazminat talebine ilişkin olup, davanın kısmen kabulüne dair karara karşı taraf vekillerince istinaf yoluna başvurulmuştur.
 
@@ -173,6 +197,8 @@ ettiği ayıplı ve eksik üretim ile ilgili davalı tarafa herhangi bir fatura 
 BAKIRKÖY .... ASLİYE TİCARET MAHKEMESİ'nin .../11/2023 tarih, 2018/... Esas, 2023/..... Karar sayılı kararının KALDIRILMASINA …
 
 ## İzmir BAM 14. HD 2025/1123 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1167162900)
 
 Davacı ile aralarında Dikili Noterliğinin 06/03/2017 tarih 1852 yevmiye numaralı düzenleme şeklindeki akti ile kat karşılığı inşaat sözleşmesi yaptıklarını, bu sözleşmeye istinaden davacının tüm işleri bitirdiği iddiasıyla ve 14 numaralı bağımsız bölümü kendisine vermedikleri gerekçesiyle aleyhine tapu iptal ve tescil olmadığı takdirde sebepsiz zenginleşme hükümlerine göre taşınmaz bedelini talep ettiğini, kendisine gelen görevsizliğe dair iş bu kararla öğrendiğini, kendisine bu konuda herhangi bir dava dilekçesi v.s tebliğ yapılmadığını, harç, yetki v.s ilk itirazlarla davanın esasına ilişkin cevap verme hakkını saklı tutarak iş bu dosyayı görev yönünden istinaf ettiğini, …
 

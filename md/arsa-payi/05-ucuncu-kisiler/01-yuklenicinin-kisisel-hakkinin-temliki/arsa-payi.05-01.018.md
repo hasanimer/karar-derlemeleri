@@ -21,10 +21,14 @@ uyari: "Derleyenin seçtiği alıntılardır; kararın tamamı değildir. Künye
 
 ## İstanbul BAM 15. HD 2021/2188 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/706957600)
+
 Şirket' nin tapu kaydındaki kat karşılığı inşaat sözleşmesi şerhinin terkinine ilişkin ihtiyati tedbir talebinin reddine, yine davacı arsa sahibinin davalı yüklenici şirketin müdahalesinin men' ine ilişkin ihtiyati tedbir talebinin sözleşmenin uygulanması aşamasına ilişkin olup, tarafların yükümlülüklerini yerine getirip getirmedikleri, sözleşmeye aykırılıkların bulunup bulunmadığı, bu kapsamda birbirlerinden talepte bulunup bulunamayacakları bu davanın konusu olmayacağı gerekçesiyle reddine karar verilmiştir. Birleşen Bakırköy 7. Asliye Ticaret Mahkemesi'nin 2020/207 Esas sayılı dosyasından; 3 Parsel'de kayıtlı bulunan arsanın üçüncü şahıslara devir ve temlikinin önlenmesi için ihtiyati tedbir kararı verilmesi talebinin reddine, Birleşen Bakırköy 7. Asliye Ticaret Mahkemesi'nin 2020/23 Esas sayılı dosyasından; taşınmaz üzerine "davalıdır" şerhi konulmasına karar verilmiş, 25/09/2020 tarihli ara karar ile de; davacı vekilinin taşınmaz üzerine ihtiyati tedbir konulması talebinin reddine karar verilmiş, Birleşen Büyükçekmece 2. Asliye Hukuk Mahkemesi’nin 2019/164 Esas sayılı dosyasından; teminat karşılığında ...
 Blok üzerine ihtiyati tedbir konulmuş, 2020/23 Esas sayılı davada tedbirin devamına, Birleşen Bakırköy 2. Asliye Hukuk Mahkemesi ' nin 2020/218 Esas sayılı dosyasından; 05/05/2020 tarihli, tensip tutanağının 6 nolu ara kararı ile, davacı vekilinin davalının taşınmazlarının 3. şahıslara devir ve temlikinin önlenmesine ilişkin talebinin kabulü ile, takdiren teminatsız olarak ihtiyati tedbir kararı verilmesine, bunun mümkün görülmemesi halinde İstanbul İli, Büyükçekmece İlçesi, ... Pafta ... Ada ... Parselde kayıtlı 8.363,14 m2 yüzölçümlü arsa niteliğinde ki taşınmazın tamamına "davalıdır" şerhi konulmasına ilişkin talebinin reddine karar verilmiştir. Birleşen davalılar .. Ltd. Şti. İle ... A.Ş. vekili, birleşen Bakırköy 7. Asliye Ticaret Mahkemesi'nin 2020/23 Esas Sayılı dosyası ile taşınmazın tümü üzerinde tesis edilen ihtiyati tedbirin kaldırılması ile yine daha önce birleşen Bakırköy 7.Asliye Ticaret Mahkemesi'nin 2020/207 Esas sayılı dosyasının tensip zaptı ile taşınmaz üzerinde tesis edilen "davalıdır" şerhinin kaldırılmasını talep etmiştir.
 
 ## İstanbul BAM 46. HD 2021/1619 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/680445700)
 
 …
 
@@ -37,6 +41,8 @@ sonra TMK 2 .maddeye göre geçersizliği ileri sürmesi mümkün değildir. (Ya
 
 ## İstanbul BAM 17. HD 2021/1019 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/683054700)
+
 Dava, kooperatif üyesinin açmış olduğu tapu iptali ve tescili olmadığı takdirde taşınmaz bedelinin tahsili istemine ilişkindir.
 
 …
@@ -48,6 +54,8 @@ Ltd.Şti arasında yapıldığı, sözleşmede ...’nin müşterek ve mütesels
 HÜKÜM: Gerekçesi yukarıda açıklandığı üzere, 1- Davacı vekilinin istinaf başvurusunun esasa dair hususlar incelenmeksizin KABULÜNE, 2- İstanbul Anadolu 3. Asliye Ticaret Mahkemesinin 2016/1080 Esas, 2020/1134 Karar ve 29.12.2020 tarihli kararının KALDIRILMASINA …
 
 ## İstanbul BAM 15. HD 2019/69 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/465273700)
 
 Dava, ayıp ve eksik işler bedelinin tahsili talebine ilişkin olup; mahkemece, davanın kısmen kabulüne dair verilen karar taraf vekillerince süresinde ve usulünce istinaf edilmiştir.
 
@@ -62,6 +70,8 @@ Davada talep eksik ve ayıplı işler bedelinin tahsili talebine ilişkindir. Es
 İş sahibi inşaat veya kat karşılığı inşaat sözleşmelerine dayanarak eser sözleşmesi kapsamında eksik ve ayıplı işlerin bulunması halinde bedelini talep edebilir. Bağımsız bölümün eksik veya ayıplı olarak satılması halinde iş sahibi satıştan sonra dahi sözleşmeye dayanarak eksik ve ayıplı işler bedelini talep eder. Meğerki alacağını usulünce temlik etmiş olmasın. Yine, gizli ayıp niteliğindeki kusurlu işler bedelinin de sonradan ortaya çıkmış olması nedeniyle satıştan sonra talep etmesinde de hukuki bir engel yoktur. Temlik söz konusu olmadıkça, bu hak satın alan 3. kişiye geçmez.
 
 ## İstanbul BAM 17. HD 2018/1917 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/453036200)
 
 Davacı vekili dava dilekçesinde özetle; müvekkilinin, kat karşılığı inşaat sözleşmesi ile inşaat yapım işini üstlenen ...
 

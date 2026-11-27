@@ -22,6 +22,8 @@ uyari: "Derleyenin seçtiği alıntılardır; kararın tamamı değildir. Künye
 
 ## Yargıtay 6. HD 2022/6016 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/862841300)
+
 Davalılar davanın reddini savunmuştur.
 
 Mahkemece yapılan yargılama sonunda; inşaatın %85 oranında tamamlanması nedeniyle sözleşmenin feshinin hakkaniyetli olmadığı, arsa niteliğindeki taşınmaz üzerinde %85 oranında bitmiş inşaat olması nedeniyle tapunun önceki hale dönüştürülmesinin de mümkün olmaması nedeniyle davanın reddine karar verilmiştir.
@@ -42,6 +44,8 @@ Yukarıda arz - izah edilen ve resen gözetilecek nedenlerle; Konya 3. Asliye Hu
 
 ## Yargıtay 7. HD 2022/4988 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/819941700)
+
 Davacı asil, dilekçesinde, Beyoğlu 26. Noterliği’nin 03.05.2004 tarih, 06518 yevmiye numaralı gayrimenkul satış vaadi sözleşmesiyle dava konusu daireyi satın aldığını, 22.05.2007’de taşınmaz maliki tarafından davalıya arsa hissesi olarak devredildiğini, davacının davalı olan eşinde hiçbir vekaletinin ve imzasının olmadığını, kira bedelini davalının aldığını, tarafların arasındaki boşanma davasının devam ettiğini, evin tamamının çalışma hayatının ürünü olduğunu, satıştan itibaren 10 yıl geçmediğini, satışın geçersiz olduğunu, hakkı olan evi geri istediğini belirterek tapu kaydının iptaline, bu güne kadar alınan kira bedellerinin tarafına ödenmesine, davanın masraflarının davalıya yükletilmesine karar verilmesini talep etmiştir.
 
 …
@@ -59,6 +63,8 @@ Arsa payı karşılığı inşaat yapım sözleşmelerinde arsa sahiplerinin tem
 SONUÇ: Yukarıda açıklanan nedenlerle ve HMK'nın 371. maddesi uyarınca İstanbul Bölge Adliye Mahkemesi 7. Hukuk Dairesi kararının BOZULMASINA …
 
 ## Yargıtay 3. HD 2022/3480 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/779288100)
 
 Davacılar; Bakırköy 36.
 
@@ -81,6 +87,8 @@ SONUÇ: Yukarıda birinci bentte açıklanan nedenlerle davalılar vekilinin tü
 
 ## Yargıtay 15. HD 2021/2700 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/671293000)
+
 Davacı davasında, müvekkilinin davalılardan ... ile ... Mahallesi Nato Yolu 328 ada 119 parsel sayılı taşınmaza ilişkin ... Noterliğinin 20/11/2016 tarihli 08114 yevmiye numaralı kat karşılığı inşaat sözleşmesi imzaladıklarını, ancak tapu kaydında satış olarak gösterildiğini ve davalının bu davranışında kötü niyetli olarak hareket ettiğini, söz konusu taşınmazın diğer davalı ... adına 27/03/2014 tarihinde satış suretiyle tescil edildiğini bu durumun hukukun genel ilkelerine aykırı olduğunu ileri sürerek, taşınmazın kendisine teslimi ile tapuda devredilen hissenin adına tesciline karar verilmesini talep ve dava etmiştir.
 
 Davalı ... vekili, müvekkilinin tapu kaydında hiçbir sınırlayıcı kayıt olmaması sebebiyle dava konusu taşınmazın mülkiyetini kazanmış olduğunu, devletin sorumluluğu altında tutulan aleniyet ve itimat nitelikleri taşıyan tapu kütüğündeki bir kayda dayanarak malik görünen bir şahıstan taşınmaz malı kazanan kimsenin iyi niyetinin ve iktisabının korunmasının esas kural olduğunu, taşınmaz malı iktisap edenin iyi niyetli olduğunun kabulünün esas karine olduğunu, bunun aksini iddia eden daha doğrusu alıcının kötü niyetle hareket ettiğini iddia eden kişinin bu durumu ispatlaması gerektiğini, davacının öncelikle kendi isteği ve arzusuyla şirkete devrettiği taşınmazın tescilinin sonradan neden ve nasıl yolsuz tescil haline geldiğini sonrasında ise müvekkilinin kötü niyetli olduğunu ve sicile güven ilkesinden faydalanamayacağını ispat etmesi gerektiğini savunarak davanın reddine karar verilmesini talep etmiştir.
@@ -102,6 +110,8 @@ SONUÇ: Yukarıda açıklanan nedenlerle temyiz itirazlarının kabulü ile hük
 
 ## Yargıtay 15. HD 2021/2071 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/663902500)
+
 Davacılar vekili, müvekkilleri ile bir kısım davalılar arasında arsa payı karşılığı inşaat sözleşmesi imzaladıklarını, müvekkillerinin inşaat yapımını eksiksiz bir şekilde tamamladıklarını ve davalılara teslim ettiklerini, teslime rağmen davalılar tarafından müvekkillerine düşen taşınmazların tapuda devrinin gerçekleşmediğini ileri sürerek sözleşme doğrultusunda kat mülkiyeti kurulmak sureti ile davalılara ait olan tapu kaydının iptali ile müvekkilleri ve davalılara düşen bağımsız bölümlerin arsa paylarının belirtilerek tapuya kayıt ve tesciline, olmadığı taktirde davalıların kendilerine düşen bağımsız bölüm üzerindeki arsa payları baki kalarak sözleşme gereği müvekkillerine düşen bağımsız bölümlere isabet eden arsa paylarının iptaline ve müvekkilleri adına kayıt ve tesciline karar verilmesini talep ve dava etmiştir.Mahkemece iddia, savunma, bilirkişi raporu ve tüm dosya kapsamına göre, davalı ...'nun sözleşmede taraf olmadığı, sözleşmede taraf olan ...’dan pay satın aldığı, pay satın alırken dava konusu sözleşmedeki haklarını temlik aldığına ilişkin temliknameyi dosyaya sunmadığı, davalı ...’nun sözleşmeye göre eksik işlerin giderilmesini davacı yükleniciden birlikte ifa kuralı
 gereğince talep edemeyeceği, diğer davalı arsa sahiplerinin de davayı kabul ettiği gerekçesiyle davanın kabulüne karar verilmiştir.Kararın davalı ... vekili tarafından temyiz edilmesi sonucunda, Yargıtay 23.
 
@@ -115,6 +125,8 @@ Bu özelliğiyle ibra, borcu sona erdiren sebeplerden birini oluşturmaktadır.S
 SONUÇ: Yukarıda açıklanan nedenlerle davacı vekilinin karar düzeltme isteminin kabulü ile Yargıtay 23. Hukuk Dairesi’nin 2016/2022 Esas – 2019/230 Karar ve 31.01.2019 karar tarihli bozma ilamının kaldırılarak hükmün ONANMASINA …
 
 ## Yargıtay 15. HD 2020/1982 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/589183000)
 
 Davacı ... ile davalılar 1-... 2-Asya Katılım Bankası A.Ş. 3-Bank Pozitif Kredi ve Kalkınma Bankası A.Ş.
 
@@ -131,6 +143,8 @@ Kat karşılığı sözleşmelerde arsa sahiplerinin de edimlerini tam ve eksiks
 SONUÇ: Yukarıda açıklanan nedenlerle davalılar Kuzu Toplu Konut İnş. A.Ş. ile ...'ün karar düzeltme taleplerinin kabulü ile Yargıtay 23. Hukuk Dairesi tarafından verilen 05.07.2018 tarihli 2015/8942 Esas 2018/3994 Karar sayılı onama ilamının kaldırılarak kararın BOZULMASINA …
 
 ## Yargıtay 15. HD 2020/1870 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/588729700)
 
 Davacı ... vekili dava dilekçesinde, İ... Cengiz Topel Geçidinde ve 1/2 payı ... ile diğer 1/2 payın sahibi ... mirasçıları üzerinde kayıtlı olan 70 ada 30 parsel (imar sonucu 5398 ada 1 parsel) sayılı arsa üzerine yapı yapılması konusunda davacı yüklenici ... ile davalılardan tapu kayıt malikleri ..., ..., ..., ..., ... ve ... arasında 01.11.1995 tarihli ve 1/2 pay sahibi ... ile de 25.10.1995 tarihli satış vaadini içeren kat karşılığı inşaat sözleşmesi yapıldığını, bu sözleşme uyarınca yüklenici davacının üzerine düşen edimleri yerine getirmiş olmasına karşın sözleşmede yükleniciye devri öngörülen 5-6-7-8-11-12 ve 14 nolu dairelerin ve 15 nolu dükkanın davalılar tarafından ferağının verilmediğini ileri sürerek dava konusu taşınmazda kat irtifakının kurulması ile sözü edilen bağımsız bölümlerin davacı adına tesciline karar verilmesi isteminde bulunmuştur.
 
@@ -151,6 +165,8 @@ SONUÇ: Yukarıda 1. bentte açıklanan nedenlerle kararın asli müdahil ... ya
 
 ## Yargıtay 15. HD 2020/1298 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/585722200)
+
 Davacı ... davasında 23.07.1998 tarihli gayrımenkul satış vaadi sözleşmesi ile davalı şirketin inşa ettiği ... isimli iş merkezinin 1. katında bulunan ve 10/6474 arsa paylı, 258 nolu bağımsız bölümü satın aldığını, iş merkezinin 15.03.2012 tarihi itibariyle hizmete açıldığını, satın aldığı iş yerinin kendisine teslim edilmediği gibi davalı tarafından kiraya verildiğini belirterek ...ili, Kültür Mahallesi 11 ada 29 parselde kayıtlı taşınmaz üzerinde davalı adına olan bağımsız bölümlerden ifayı gerçekleştirecek şekilde bir bağımsız bölüme ait irtifak payının adına tesciline, ifa mümkün olmadığı takdirde satın almış olduğu bağımsız bölümün rayiç bedelinin belirlenerek bu bedelin 500,00 TL'sinin iş merkezinin faaliyete geçtiği tarih olan 15.03.2012 tarihinden itibaren işleyecek avans faizi ile birlikte tahsiline, iş merkezinin faaliyete geçtiği tarih ile dava tarihi arasında yoksun kaldığı kira bedelinin şimdilik 500,00 TL'sinin dava tarihinden itibaren işleyecek avans faizi ile birlikte tahsiline, taleplerinin kabul görmediği takdirde satış bedeli olarak ödenen 57.500 Alman markı karşılığı 28.750,00 Euro'nun satın alınan dükkanın rayiç değerine oranlanarak ödeme tarihinden itibaren
 işleyecek avans faizi ile birlikte davalıdan tahsiline karar verilmesini istemiştir.
 
@@ -169,6 +185,8 @@ SONUÇ: Yukarıda açıklanan nedenlerle temyiz olunan Bölge Adliye Mahkemesi k
 
 ## Yargıtay 23. HD 2020/1262 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/588560700)
+
 Davalı vekili, davacı ile yüklenici arasındaki sözleşmenin davalıları bağlamayacağından bahisle davanın reddini dilemiştir.
 
 Mahkemece iddia, savunma ve tüm dosya kapsamına göre; davacı ile dava dışı yüklenici arasındaki sözleşmenin adi yazılı olduğundan bahisle tapu devri sonucu doğurmayacağı gerekçesiyle davanın reddine karar verilmiştir.
@@ -184,6 +202,8 @@ Burada yüklenicinin eser sözleşmesinden kaynaklanan borçlarının neler oldu
 SONUÇ: Yukarıda açıklanan nedenlerle, davacı vekilinin temyiz itirazlarının kabulü ile hükmün davacı yararına BOZULMASINA …
 
 ## Yargıtay 15. HD 2020/830 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/648072000)
 
 Davacı davasında davalı ile aralarında 03.12.2002 tarihli arsa payı karşılığı inşaat sözleşmesi düzenlendiğini, davalı arsa sahiplerinin sözleşmeye göre kendisine isabet eden 4 numaralı bağımsız bölümü bilgisi dışında üçüncü kişiye sattıklarını, ancak satış bedelinin kendisine ödenmediğini ileri sürerek daire bedelinden 15.000,00 TL'nin davalılardan tahsiline karar verilmesini istemiş, yargılama sırasında talebini ıslah ederek 65.000,00 TL’ye çıkarmıştır.
 

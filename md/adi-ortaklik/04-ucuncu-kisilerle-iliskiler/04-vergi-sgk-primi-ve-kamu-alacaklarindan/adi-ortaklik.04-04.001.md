@@ -21,6 +21,8 @@ uyari: "Derleyenin seçtiği alıntılardır; kararın tamamı değildir. Künye
 
 ## Yargıtay HGK 2025/118 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1131874600)
+
 …
 
 ...Somut olayda, Sosyal Güvenlik Kurumu ve adi ortaklığı oluşturan davalı şirketlere karşı yöneltilen husumetle açılan iş kazasının varlığının tespitine yönelik davanın yargılama aşamasında Kurum’un iş kazasının varlığını kabul eden inceleme(tahkikat) raporuna istinaden ve Kurum kabulü gözetilerek İstanbul Anadolu 21. İş Mahkemesi’nin 25/05/2016 tarih ve 2015/300 Esas, 2016/489 Karar sayılı kararı ile davanın konusuz kaldığından bahisle esas hakkında hüküm kurulmasına yer olmadığına karar verilmiş, anılan kararın o dosyanın davalısı Sosyal Güvenlik Kurumu tarafından temyiz edilmesi üzerine ilk derece mahkemesi kararı Yargıtay (kapatılan) 21. Hukuk Dairesi’nin 26/04/2018 tarih ve 2016/19332 Esas, 2018/4388 Karar sayılı kararı ile onanmıştır.
@@ -29,15 +31,21 @@ Davanın konusuz kaldığına dair anılan karar davacı hak sahipleri ve Sosyal
 
 ## Yargıtay 3. HD 2025/4518 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1189120500)
+
 Bu durumda, taraflarca imzalandığı kabul edilen adi ortaklık sözleşmesinde; adi ortaklığın yönetimi ve üçüncü kişilere karşı temsilinin ortaklardan davacı ... olduğunun kararlaştırıldığı gözetildiğinde, adi ortaklık konusu olan kebap, lahmacun ve pide perakende satışına ilişkin iş yerinin davacı adına kayıtlı olmasından ve davalı ...'in işletmede işçi olarak çalışır gözükmesinden taraflar arasındaki adi ortaklığın faaliyete geçirilmediği sonucuna ulaşılması doğru görülmemiştir. Kaldı ki, davacı tarafından davalıya 20 12... tarihlerinde de banka havalesi ile para gönderildiği görülmekle, aralarında SGK kaydından önce de iş ilişki olduğu anlaşılmıştır. Mahkemece alınan bilirkişi raporlarında da zaten işletmenin bulunduğu, faaliyete geçtiği ve SGK ve vergi dairesine borcu olduğu tespit edilmiştir.
 
 Bu durumda, davalının sigortasının feshedildiği 28.03.2017 tarihi itibariyle ile ortaklık sözleşmesinin son bulduğu, diğer bir anlatımla davaya konu ortaklığın 6098 sayılı Kanunun 639. maddesinin birinci fıkrası uyarınca sona erdiği sabit olduğundan, İlk Derece Mahkemesince; ortaklık ilişkisinin tasfiye aşamasına girdiği gözetilerek, ortaklar arasındaki ilişkinin tamamen sona erdirilmesine yönelik işlemlerin yapılması kanuni bir zorunluluktur.
 
 ## Yargıtay 3. HD 2023/2925 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/984090600)
+
 Sözü edilen adi ortaklık sözleşmesinde; leasing davalı adına tahsis edildiği için vergi dairesine işletme sahibi olarak kaydı yapıldığı, her türlü vergi, muhtasar vesair unvan altındaki masrafların ortaklık tarafından karşılanacağı, ortaklığın tüm masrafları düştükten sonra karın eşit şekilde paylaşılacağı ve traktör ile balya makinelerinin borcu ödendikten sonra mülkiyetlerinin yarısının davacı üzerine geçirileceği kararlaştırılmıştır. Mahkemece uyulan bozma ilamında da, tasfiye yapılırken davacının dava dışı satıcı firmaya yaptığı 45.000,00 TL'lik ödemenin sözleşmenin üçüncü maddesi kapsamında adi ortaklığa verilen borç mahiyetinde olduğunun gözetilmesi gerektiği belirtilmiştir.
 
 ## Yargıtay 6. HD 2023/1959 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/942743300)
 
 2.3. Adi ortaklıkta, aksine bir hüküm yer almadığı sürece, idareci ortağın yapacağı işlemler, diğer ortakları da bağlar. İdareci ortağın hukuki statüsü BK'nun 449. maddesinde düzenlenen ticari mümessile benzer nitelikler taşır. Bu itibarla ticari mümessilin özel bir yetki aranmaksızın kambiyo taahhüdünde bulunma yetkisine haiz olduğu kabul edilmektedir (HGK.nun 29.01.2009 tarih 2008/12825¬2009/32 sayılı kararında da açıklanan ilkeler benimsenmiştir.).
 
@@ -47,11 +55,15 @@ Sözü edilen adi ortaklık sözleşmesinde; leasing davalı adına tahsis edild
 
 ## Yargıtay 3. HD 2021/3494 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/665320400)
+
 Diğer taraftan borçlunun üçüncü kişilerdeki mal, alacak ve diğer haklarının haczi 6183 sayılı yasanın 79. maddesi çerçevesinde mümkün kılınmıştır. Bu hükümle, üçüncü kişiye haciz bildirisi tebliğ edilmek suretiyle söz konusu mal, alacak ve hakların haczine imkân tanınmış, tebliğ edilen haciz bildirisine üçüncü kişinin itiraz yolu açık tutulmuştur. Kendisine haciz bildirisi gönderilen kimsenin, bu haciz bildirisine itiraz etmemesi halinde, mal elinde ve borç zimmetinde sayılır sayılır. Üçüncü kişinin bildiriye süresi içinde itiraz etmesi halinde, usulüne uygun bir haczin varlığından bahsedilemez.
 
 O halde mahkemece; 6183 sayılı yasanın 79. maddesindeki koşulları taşımayan haciz yazısı ile anılan maddedeki sonuçların doğmayacağı ve borç üçüncü kişinin zimmetinde sayılamayacağından, haciz baskısı altında olmayan davalı belediyenin, adi ortaklığa ait alacağı 6183 sayılı Kanun gereği haciz bildirisi gönderen Kuruma ödeme mükellefiyeti bulunmadığı gözetilerek davalı belediye yönünden davanın kabulüne karar verilmesi gerekirken, yanılgılı değerlendirme ile yazılı şekilde karar verilmesi doğru görülmemiş, bozmayı gerektirmiştir.
 
 ## Yargıtay 3. HD 2021/500 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/655890900)
 
 Dava, anaokulu işletilmesine yönelik adi ortaklığın fesih ve tasfiyesi istemine ilişkindir.
 
@@ -61,6 +73,8 @@ Adi ortaklık sözleşmesinin 6. maddesinde; ortaklığın temsilinin üç ortak
 
 ## Yargıtay 3. HD 2016/3895 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/211504800)
+
 Dava, adi ortaklıktan kaynaklanan kâr payı alacağı istemine ilişkindir.
 
 …
@@ -69,14 +83,20 @@ Tarafların itirazı üzerine düzenlenen 26.07.2013 tarihli bilirkişi kurulu r
 
 ## Yargıtay 3. HD 2014/6530 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/88282300)
+
 Adi ortaklık, 6102 sayılı Türk Ticaret Kanunu kapsamında yer alan ortaklıkların aksine tüzel kişiliğe haiz değildir. Tüzel kişiliği olmadığından, adi ortaklık, üçüncü kişilerle ilişkilerinde bağımsız bir varlığa sahip değildir. Dolayısıyla adi ortaklık kendi adına hak ve borç ilzam edemez, davacı ve davalı olamaz. Ortaklık aleyhine açılmak istenen davalar tüm ortaklar aleyhine, ortaklık lehine açılacak davalar da tüm ortakların katılımı ile açılmalıdır. Diğer taraftan, ticari faaliyet gerçekleştirebilmek ve fatura kesebilmek için adi ortaklık ortaklarının vergi dairesine başvuruda bulunup vergi numarası almaları gerekir. Her ne kadar adi ortaklığın kendisi şekil şartına tabi değil ise de ispat kolaylığını sağlamak bakımından adi ortaklık sözleşmeleri yazılı yapılmaktadır.
 
 ## Yargıtay 3. HD 2012/25265 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/483453000)
 
 Taraflar arasında, adi ortaklık sözleşmesi bulunduğu anlaşılmaktadır.Davacılar, davalının hissesine düşen vergi borcunu ödemek suretiyle vekaletsiz olarak davalıyı borçtan kurtarmıştır. Öyle olunca burada sebepsiz zenginleşmedeki bir yıllık zamanaşımı değil, vekaletsiz iş görmedeki on yıllık zamanaşımının göz önünde tutulması gerekir. Dava tarihi itibariyle ödemelere ilişkin olarak zamanaşımı gerçekleşmemiştir.Bu bağlamda; vergi borcu sorumlusu olarak tarh edilen vergi ve ferilerini ödeyen davacının davalının açık ve varsayılı oluru bulunmaksızın kendi insiyatifi ile ödeyen davacının adi ortakların her birinin aksine bir hüküm yoksa ortaklığı temsil edecek olmalarına (BK.
 525, TBK. 625) göre vergi borcunun ödenmesi sebebiyle vekaletsiz iş görme hükümlerinin uygulanması sebebiyle tahsili gerekeceğinden aynı yasanın 410, TBK.nun 526-527. maddeleri gereğince sorumluluğunun varlığı düşünülmelidir.Mahkemece işin esası bu doğrultuda ve belirtilen hukuki sebebe göre incelenip sonucuna uygun bir karar verilmesi gerekirken yazılı gerekçe ile davanın reddi usul ve yasaya aykırı olup bozma nedenidir.Bu itibarla yukarıda açıklanan esaslar gözönünde tutulmaksızın yazılı şekilde hüküm tesisi isabetsiz, temyiz itirazları bu nedenlerle yerinde olduğundan kabulü ile hükmün HUMK.nun 428.
 
 ## Yargıtay 13. HD 2012/14693 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/748117400)
 
 Ortaklığın aktif ve pasif bütün mal varlığının belirlenip, ortakların birbirleri ile alacak verecek ve ortaklıktan dolayı bütün mal varlığının belirlenip ortakların birbirleri ile alacak verecek ve ortaklıktan dolayı olan ilişkilerinin kesilmesi yoluyla ortaklığın sona erdirilmesi, malların paylaşılması yada satış yoluyla elden çıkarılmasıdır. Ortaklık sözleşmesinde hüküm bulunduğu takdirde tasfiyenin sözleşmedeki hükümlere göre yapılması asıldır. Böyle bir hükmün bulunmaması halinde ise tasfiyenin bu defa BK.'nun 539. maddesindeki sıra takip edilerek yapılması gerekir. Somut uyuşmazlıkta adi ortaklık adına davacı tarafından tahsil edilen ortaklık geliri (hakedişler) kesinleşen mahkeme kararı ile belirlenip yarısının davalının hakkı olduğu kesinleştiğine göre, gerçektende adi ortaklığın yapmış olduğu masrafın yarısından da davalının sorumlu olduğunun kabulü zorunludur. Bu bağlamda yönetici ortak olduğu anlaşılan davacının yaptığı gerçek masrafların yapıldıkları tarihteki değerlerinin yarısından davalı şirketin sorumlu olduğu kabul edilmelidir.
 Ne varki gerek davacının ve gerekse bilirkişilerin hesaplamaya esas aldığı vergi denetim raporunda belirtilen masraf miktarının kabul edilmesi olanaksızdır. Her şeyden önce vergi denetim raporu davacı şirketin kayıtları esas alınarak düzenlendiği gibi, rapor vergi mevzuatı uyarınca düzenlendiğinden hesaplamaya esas alınamaz. Bu itibarla mahallinde konusunda uzman bilirkişi heyetince keşif yapılarak adi ortaklık konusunu oluşturan işin yapımı için yapılması gereken masraf miktarının yapıldıkları tarih itibariyle belirlenmesi gerekir. Öte yandan İzmir 3. Asliye Hukuk mahmemesince alınan ve diğer bilirkişi raporlarınada esas teşkil eden 30.9.2002 tarihli bilirkişi kurulu raporunda eldeki dosyanın davalısı Türdeş Ltd. Şti. tarafından da bir takım masrafların ve ödemelerin yapıldığı belirtilmesine rağmen, davadaki talep sadece alınan hakedişlerin yarısının bedelinin tahsiline ilişkin olduğu için yapılan masrafların ne miktar olduğu ve bu bağlamda tarafların hissesine ne kadar masraf miktarı düştüğü belirlenmeksizin sadece alınan hakediş bedeli belirlenerek rapor düzenlenmez, mahkemecede bu yönde karar verilmiştir.
@@ -84,13 +104,19 @@ Verilen karar tasfiyeye yönelik bir karar olmadığı için 30.9.2002 tarihli b
 
 ## Yargıtay 17. HD 2012/10222 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/788284200)
+
 Somut olayda dava konusu 19.3.2009 tarihli haciz borçlunun huzurunda yapılmış ve mahcuzlara ait faturalar borçlu adına düzenlenmiştir. Bu durumda İİK 97/a maddesindeki mülkiyet karinesi borçlu dolayısıyla alacaklı lehine olup karine aksinin davacı 3.kişi tarafından kesin ve güçlü delillerle ispatlanması gereklidir. Davacı 3.kişi vekili dava dilekçesinde davacı ile davalı borçlu arasında adi ortaklık bulunduğunu hacizden önce adi ortaklığın feshedildiğini ve mahcuzların müvekkiline bırakıldığını iddia etmiş ise de bu husus yani adi ortaklığın varlığı ve feshi kesin ve güçlü delillerle ispatlanamadığı gibi dosya içerisinden vergi kayıtlarından davacı 3.kişinin hacizden sonra 3.4.2009 tarihinde haciz adresi dışında mermer işine başladığı 20.8.2010 tarihinde bu işi terk ettiği, davalı borçlunun ise 15.6.1999 tarihinden beri çay ocağı işleticiliğinden dolayı vergi mükellefi olduğu anlaşılmaktadır. O halde davanın reddine karar verilmesi gerekirken dosya kapsamı ve mevcut delil durumuna uygun düşmeyen gerekçeyle davanın kabulü isabetli görülmemiştir.
 
 ## Yargıtay 19. HD 2011/13369 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/815917800)
+
 Osmaniye Defterdarlığı Vergi Dairesi Müdürlüğü’nün 12.05.2010 tarihli cevabi müzekkeresinde “... Ticaret Adi Ortaklığı” adı altında bir mükellefiyet kaydının bulunduğu ve ortaklarından birinin de ... vergi nolu ... olduğu anlaşılmıştır. Öte yandan takibe dayanak yapılan fatuların da “... Ticaret-...-...” adına ve adı geçen adi ortaklığın da vergi nosu belirtilerek düzenlendiği görülmüştür. Bu durumda davacı ... yönünden davanın pasif husumet yokluğundan reddine karar verilmesi doğru değildir. Öte yandan adi ortaklık ticari işletme hükmünde olup yasal faize hükmedilmesi de isabetsizdir.
 
 ## Yargıtay 13. HD 2007/8450 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/840493200)
 
 Dosyaya sunulan 28.5.2004 tarihli işletme ve ortaklık sözleşmesi başlıklı belgede,davacı ,... İplik firmasının sahibi olan davalı ve dava dışı ... Tekstil Kadife Dokuma Sanayi ve Ticaret Limited Şirketi adına ortakları ... ve ... ... bir araya gelerek,bu şirkete ait ait fabrikanın işletilmesi konusunda ortaklık sözleşmesi düzenledikleri anlaşılmaktadır.Sözleşmenin temel unsurlarını kısaca özetlemek gerekirse;maddi sıkıntı içindeki ... Tekstil Şirketine ait fabrikanın ortaklarca işletileceği,davalı ...’ın işletmeye hammadde temin edeceği,üretilen mamullerin ihracatı ve yurt içi satışından elde edilen karın öncelikle ... Tekstilin borçları olarak 2. maddede dört kalem olarak sayılan,davalı ...’e olan cari hesaptaki borç,vergi dairesi borcu,SSK borcu,işletmenin kira borcunun ödenmesi,kalan firma karının ortaklar arasında eşit olarak paylaştırılacağı,davalının bu kardan ayda 10.000 Amerikan Doları olmak üzere her ay alacaklarına mahsuben alması ve yine aylık 2000 Amerikan Doları maaş ödenmesi,davacı ...’in ise ... Tekstilin ve önceki iflas eden firma olan ...
 Tekstilin borçları bitine kadar kar payı istemeyeceği,davacı ...’in 30.6.2004 tarihine kadar ödenmesi gereken 25 milyar şahsi vergi borcu ile 15.8.2004 vadeli 35 milyarlık hatır çeki borcunun firma tarafından ödenmesi kararlaştırılmıştır.Sözleşmenin 5.maddesinde davalının hammadde temin edememesi nedeniyle oluşacak zararın,riskin ortak bölüşümü amacıyla davacının ,diğer davacı eşine ait Ulus’taki daire üzerine 150 milyarlık veya 100.000 Amerikan Doları değerinde haciz konulmasına muvafakat edilmesi ,bu haczin gerçekleşmesini teminen teminat senedi …
@@ -109,9 +135,13 @@ Tüm dosya kapsamından, olayda; tarafların iş ortaklığı beyannamesi ile ..
 
 ## İstanbul BAM 12. HD 2026/777 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1205035700)
+
 İtiraz eden ... ise 2018 yılında adi ortaklık hissesini, diğer ortağa devir ederek bu devrin İzmir Ticaret Siciline, Vergi Dairesine bildirdiği, ancak mersis kayıtlarında teknik nedenlerle devrin işlenemediğine ilişkin belgeler sunulmuştur. Bu halde; itiraz eden borçlunun çek borcundan sorumlu tutulup tutulamayacağı yargılamayı gerektirmekte olup; kambiyo senedindeki borçtan sorumlu olmanın ihtiyati haciz aşamasında da dikkate alınması gerektiği, adı geçen yönünden borç ikrarını havi bir belge olup olmadığı yargılama neticesi belirleneceğinden itirazın kabulü gerekirken reddine karar verilmesi yerinde görülmemiş,adı geçenin istinaf başvurusunun kabulüne, ek kararın kaldırılarak adı geçen borçlu bakımından ihtiyati haciz kararının kaldırılmasına karar verilmiştir.
 
 ## Adana BAM 9. HD 2026/443 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1199952900)
 
 Dava, Tarımsal Üretim Sözleşmesinden Kaynaklanan Alacak istemine ilişkindir.
 
@@ -123,15 +153,21 @@ Asliye Hukuk Mahkemesi'nin mi, yoksa Asliye Ticaret Mahkemesi'nin mi görevli ol
 
 ## Ankara BAM 21. HD 2026/300 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1201579600)
+
 22/08/2022 tarihli kök ve 24/11/2022 tarihli ek bilirkişi raporlarında özetle; Kamu İhale Kanunu'nun 13. maddesinde ihale ihale makamının işle ilgili her hangi bir eksiklik kalmadığında SGK kurumundan ilişkisizlik belgesi isteyeceği, SGK, Vergi v.b. kamuya ve çalışanlara olan borçlar ödendikten sonra teminatın iade edileceğinin öngörüldüğü, nitekim davalı idarenin SGK ve Vergi Daireleri ile yazışmalar yaptığı, oralardan gelen borçları teminat mektubundan ödediği, bu ödemelerden sonra kalan paranın iş ortaklığının 3. kişilere olan borçları dolasıyla Konya 4. İcra Müdürlüğüne neden aktarıldığına dair bir delil sunulmadığı, Konya 4.
 İcra Hukuk Mahkemesi’nin 2018/932 E. sayılı dosyada bu aktarımı reddettiği ve paranın geri gönderilmesine hükmettiği, teminat mektubunun 1.800.000,00 TL tutarında olduğu, davalının cevap dilekçesi ile 337.700,25 TL vergi ve SGK ödemesi yaptığını bildirdiği, teminat mektubundan bu tutarın mahsubu neticesinde 1.462.299,75 TL kaldığı, davacının da resmi kurumlara yapılan ödemelerden kalan 1.460.086,12 TL tutarın tahsilini talep ettiği, Denizli İl Sağlık Müdürlüğünün 21/03/2019 tarihli Ankara İl Sağlık Müdürlüğüne hitaben yazısında nakde çevrilen teminat mektubundan kalan 1.471.464,64 TL için tevdi mahalli talepli hukuki sürecin başlatıldığını bildirdiği, ancak davalının Denizli 3. Sulh Hukuk Mahkemesinde tevdi mahalli belirlenmesi talebinde vergi ve SGK borcu olarak 462.233,34 TL ödendiğini bildirerek kalan 1.337.766,66 TL için tevdi mahalli talebinde bulunulduğu, nakde çevrilen teminat mektubundan davacının alacağının 1.337.766,66 TL olduğu bildirilmiştir.
 
 ## İstanbul BAM 15. HD 2026/104 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1194730600)
+
 20.04.2022 tarihli bilirkişi ek raporunda, ...'in vergi dairesi beyanlarında (BA formu) ...'dan 400.000 TL + KDV (472.000 TL) tutarında alış faturası beyan ettiği tespit edilmiş. Çek tutarlarının beyan edilen fatura bedelleri ile uyumlu olduğu kanaatine varılmıştır.02.12.2022 tarihli bilirkişi ek raporunda, davacı (ve ... ile birlikte) tarafından davalı ...'e ipotek ve senet dahil edilirse 436.000,00 EURO, 670.000,00 USD ve 1.000.000,00-TL ödeme yapıldığını, dahil edilmezse 436.000,00 EURO ve 360.000,00 USD ödeme kaynaklı alacağı olduğu, davalıların ...'ya 472.000.00 TL ödeme yapmış olabileceği, işlemiş faiz hesaplamaları yapıldığı ve ipotek/senet dahil edilirse davacının toplamda 731.690,78 -EUR, 410.198,59 - USD ve 1.010.610.00 TL işlemiş faizden kaynaklı tazminat alacağı olabileceği kanaatine ulaşıldığı, ancak demonte kasa ve İran fabrika kar mahrumiyeti/munzam zarar hesaplamaları için yeterli bilgi ve belge bulunmadığın dan yapılamadığı beyan edilmiştir.
 02.06.2024 tarihli bilirkişi raporunda, taraflar arasındaki ilişkinin ......... projesi için komisyonculuk sözleşmesi, demonte ........projesi için ise adi ortaklık ilişkisi olarak değerlendirilebileceği, komisyonculuk kapsamında ödenen bedellerin davalı adına yapılan masraflar düşüldükten sonra sebepsiz zenginleşme hükümleri uyarınca iadesi gerektiği, adi ortaklık ilişkisinin amacın imkansız hale gelmesiyle sona erdiği ve tasfiye edilmesi gerektiği, davacının taahhüt ettiği 125.000 Euro'nun katılma payı olarak değerlendirilebileceği ve ödenmişse iadesi gerektiği, ancak her iki proje için kar mahrumiyeti hesaplamasının mümkün olmadığı, davacı tarafından 407.324,73 EURO ve 360.000 USD, ... ...tarafından 89.419,00 EURO, 310.000 USD, 1.000.000 TL olmak üzere toplamda 496.743,43 EURO, 670.000 USD ve 1.000.000 TL ödeme yapıldığı, davalı tarafından davacıya 50.000 Euro ödendiği, davacı alacak bakiyesinin iki seçenekli hesaplandığı, 1. Seçenek (Davalı masrafları düşülmeden): 446.743,73 Euro, 670.000 Usd, 1.000.000 TL. 2.
 
 ## Gaziantep BAM 4. HD 2025/1967 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1167501100)
 
 Dava; adi ortaklığın tasfiyesi ve alacak istemine ilişkindir.
 
@@ -143,14 +179,20 @@ Merci tayini için Dairemize gelen dosyanın incelenmesinde; HMK'nın 2. maddesi
 
 ## Sakarya BAM 7. HD 2025/1879 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1182039700)
+
 Eldeki davada; davacı ... ile davalı ... arasında Gebze 3. Noterliğinin 19/03/2021 tarihli ve 7966 yevmiye numaralı iş ortaklığı sözleşmesinin imzalandığı, sözleşmeye göre davacının %51 pilot ortağı olarak belirlendiği, ikamet amaçlı olmayan binaların inşaat işlerinin yapılması amacıyla tarafların sözleşmeyi imzaladıkları ve iştirak oranlarına göre kar ve zarara ortak olduklarının ve adi ortaklığın ortakların müşterek imzası ile veya iki firmanın belirlediği ortak vekillerin müşterek imzası ile vekalet verdiği kişiler tarafından temsil edileceğinin sözleşmeye dercedildiği, adi ortaklık sözleşmesinin Gebze 3. Noterliğinin 19/03/2021 tarihli ve ... yevmiye numaralı iş ortaklığı düzeltme beyannamesi ile adi ortaklık sözleşmesinin 7. maddesinde "iş ortaklığının idaresi, vergi, SGK, iş talebi, hakediş vb. Yazışmaları, sözleşmeleri imzalamaya ortakların müşterek imzası ile veya iki firmanın belirlediği ortak vekillerin müşterek imzası ile vekalet verdiği kişiler yetkilidir." şeklinde değişiklik yapıldığı görülmüştür.
 
 ## İstanbul BAM 17. HD 2025/1543 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1183699000)
 
 Maddesinde; "29/6/1956 tarihli ve 6762 sayılı Türk Ticaret Kanunu hükümlerine tâbi şirketlerin nevilerinin değişmesi, birleşmesi veya diğer bir şirkete katılması durumunda, bu hususların ticaret siciline tesciline ilişkin ilân tarihini; adi şirketlerde şirkete yeni ortak alınması durumunda ise en geç yeni ortağın alındığı tarihi takip eden on gün içinde, işyeri bildirgesi ile Kuruma bildirilmek zorundadır." düzenlemesine yer verilmiştir. Dosya kapsamında yer alan ticaret sicil kayıtlarına göre davacı şirketin tür değişikliği kararı aldığı ve yapılan tür değişikliğini 07/01/2015 tarihli Ticaret Sicil Gazetesi'nde ilan ettirdiği anlaşılmıştır. Bu kapsamda 5510 sayılı Kanunun 11/3 maddesine göre davacının en son 19/01/2015 tarihine kadar işyeri bildirgesi ile ilgili kurumlara başvuruda bulunması gerektiği anlaşılmıştır. Dosya kapsamına göre, davacının 5510 sayılı Kanunun 11. Maddesinde öngörülen nevi değişikliği ile ilgili işyeri bildirgesini yasal süresi dışında vermesi nedeniyle İzmit, Bağcılar ve Çiğli SGK il Müdürlüğü tarafından 5510 sayılı Kanunun 102. Maddesi gereği idari para cezası uygulanmıştır.6098 Sayılı TBK.
 49 maddesi gereğince kusurlu ve hukuka aykırı bir fiille başkasına zarar veren bu zararı gidermekle yükümlüdür. 50/1.fıkrası gereğince zarar gören zararını ve zarar verenin kusurunu ispat yükü altındadır.Somut davada davacı vekili, yapılan tür değişikliği nedeniyle bağlı olduğu Sosyal Güvenlik Merkezlerine yapılacak bildirim için Çalışma ve Sosyal Güvenlik Bakanlığı'na bağlı Alo 170 Çağrı Merkezi'nden bilgi alındığını, Çağrı Merkezi hizmetinin davalı şirket tarafından verildiğini, Çağrı Merkezi'nin hatalı yönlendirmesi nedeniyle müvekkilinin zarara uğradığını iddia ederek, kesilen ceza tutarlarının davalıdan tahsilini talep etmektedir.Davalı şirket ile dava dışı SGK arasında Alo 170 İletişim Merkezinin kurularak hizmete alınmasına ilişkin Ortak İletişim Merkezi Hizmet alım sözleşmesi imzalandığı uyuşmazlık konusu değildir.5510 sayılı yasanın 11.
 
 ## Tekirdağ BAM 4. HD 2025/1277 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1190555600)
 
 Dava; davaya konusu ödeme yeri, ödeme tarihi ve düzenleme tarihi bulunmayan senetten dolayı icra takibinden önce açılan davacının davalıya borçlu olmadığının tespiti istemine yönelik menfi tespit davasıdır.
 

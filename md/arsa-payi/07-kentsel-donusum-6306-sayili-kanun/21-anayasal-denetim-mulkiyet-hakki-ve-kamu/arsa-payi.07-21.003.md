@@ -22,6 +22,8 @@ uyari: "Derleyenin seçtiği alıntılardır; kararın tamamı değildir. Künye
 
 ## Danıştay İDDK 2021/3795 E., 2022/636 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/804411900)
+
 Davacı tarafından, temyize konu kararın, davanın reddine dair kısmın bozulması gerektiği, ileri sürülmektedir.
 
 …
@@ -42,6 +44,8 @@ Açıklanan nedenlerle, davalıların temyiz istemlerinin reddi ile dava konusu 
 
 ## Danıştay İDDK 2021/3627 E., 2022/385 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/780561900)
+
 Anayasa'nın 13. ve 35. madde hükümleri uyarınca mülkiyet hakkının kamu yararı amacıyla Anayasa'ya uygun olarak kanunla sınırlandırılması mümkündür. Bu hükümlerden hareketle bir taşınmaz üzerindeki mülkiyet hakkının kamulaştırma yolu ile kaldırılması (mülkiyetin el değiştirmesi); ancak, kamu yararının karşılanması zorunluluğunun özel mülkiyet hakkının korunmasından üstün tutulması şartına bağlıdır.
 
 …
@@ -49,6 +53,8 @@ Anayasa'nın 13. ve 35. madde hükümleri uyarınca mülkiyet hakkının kamu ya
 Öte yandan, Danıştay Ondördüncü Dairesinin muhtelif kararları ile dava konusu işlemin dayanağı olan belirtilen alana dair riskli alan kararlarının iptaline karar verildiği ve bu kararların Kurulumuzca "sadece davacılara ait taşınmazlar yönünden hüküm ifade edeceği tabiidir" açıklamasıyla onandığı anlaşılmaktadır.
 
 ## Danıştay İDDK 2021/2707 E., 2022/384 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/794375500)
 
 Bu çerçevede Yasada belirtilen teknik ve hukuki süreç sonunda riskli yapı olarak tespit edilen binaların yıkımı ve tahliyesi konusunda anlaşmaya varan yapıların maliklerine kira yardımı yapılmasına karar verildiği, kira yardımının ne kadar ve ne zaman yapılacağı gibi detaylara ilişkin Kanunda açık bir düzenleme olmamakla birlikte, Uygulama Yönetmeliğinde bu hususlar hakkında ayrıntıya yer verilerek, kira yardımı talebinin süresine ilişkin olarak, söz konusu başvurunun tahliye tarihinden itibaren en geç bir yıl içinde ilgili kuruma yapılması gerektiğinin belirtildiği, …
 
@@ -59,6 +65,8 @@ Bilindiği üzere Anayasanın 124. maddesine dayanılarak Cumhurbaşkanı, bakan
 Davanın yukarıda özetlenen gerekçeyle reddine ilişkin Danıştay Altıncı Dairesinin 27/04/2021 tarih ve E:2019/2571, K:2021/6207 sayılı kararının ONANMASINA …
 
 ## Danıştay İDDK 2021/3927 E., 2022/120 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/785905800)
 
 DANIŞTAY TETKİK HÂKİMİ ...'IN DÜŞÜNCESİ : 6306 sayılı Afet Riski Altındaki Alanların Dönüştürülmesi Hakkında Kanun'un 6. maddesinin ikinci fıkrasında; bu Kanun'a göre gerçekleştirilen uygulamalar kapsamında, idareye verilen özel acele kamulaştırma yetkisinin, idarenin, şartlarının oluşması halinde, 2942 sayılı Kamulaştırma Kanunu'nun 27. maddesi çerçevesinde acele kamulaştırma kararı almasına engel bir düzenleme olarak görülemeyeceği açıktır.
 
@@ -72,6 +80,8 @@ Açıklanan nedenlerle, davacıların temyiz istemlerinin kabulü ile davanın r
 
 ## Danıştay İDDK 2021/2320 E., 2021/2269 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/733931800)
+
 Ülkemizin taraf olduğu Avrupa İnsan Hakları Sözleşmesinin Ek 1 Nolu Protokolüyle de mülkiyet hakkı bir insan hakkı olarak kabul edilmiş ve bu hakkın orantılılık ilkesi çerçevesinde kamu yararı gözetilerek sınırlandırılabileceği ifade edilmiştir. Buna göre, bir taşınmaz üzerindeki mülkiyet hakkının kamulaştırma yolu ile kaldırılması (mülkiyetin el değiştirmesi) kamu yararının karşılanması zorunluluğunun özel mülkiyet hakkının korunmasından üstün tutulması şartına bağlıdır. Bu çerçevede, 2942 sayılı Yasanın 27. maddesi incelendiğinde, kamulaştırma işlemlerinde öngörülen yöntemlerin bir kısmının uygulanmayarak taşınmaza acele el konulabilmesi yolu istisnai olarak başvurulabilecek bir yöntem olarak düzenlendiğinden, madde hükmü ile üç durumda acele kamulaştırma yolu ile taşınmaza el konulmasına olanak tanınmıştır.
 
 Bu koşullardan ikisi Milli Müdafaa Mükellefiyeti Kanununun uygulanmasında yurt savunması ihtiyacına veya özel kanunlarda öngörülen olağanüstü durumlarda gerekli olması halleri şeklinde açıkça sayılmak suretiyle üstün kamu yararının ve kamu düzeninin korunmasının gerçekleştirilmesi amacıyla acele kamulaştırma yoluna gidilebileceği belirtilmiştir. Bu kapsamda üçüncü koşul olan aceleliğine Bakanlar Kurulunca karar verilebilmesi için de kamu yararı ve kamu düzenine ilişkin olma halinin maddede yer alan diğer iki koşula paralel nitelik taşıması gerekmektedir.
@@ -82,6 +92,8 @@ Açıklanan nedenlerle, davacının temyiz isteminin kabulü ile davanın reddi 
 
 ## Danıştay VDDK 2021/1194 E., 2021/1762 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/728273500)
+
 Anayasası'nın 73. maddesinde yer alan düzenlemeyle maddede belirtilen hallerde Cumhurbaşkanına devredilen yetki haricinde kamu gücüne dayanarak tahsil edilen vergi, resim, harç ve benzeri mali yükümlülüklerin, kanunla düzenlenmesi zorunluluğu getirilmiştir. Bu zorunluluk verginin kanuniliği ilkesi olarak tanımlanmakta olup bu ilke uyarınca verginin yükümlüsü, konusu, vergiyi doğuran olay, matrah, oran, tarh, tahakkuk, tahsil, zamanaşımı, muafiyet ve istisna gibi vergilendirmenin temel ögelerinin kanun ile belirlenmesi gerekir. Bununla birlikte, vergilendirmenin temel ögeleri ile ilgili olmaması şartıyla, ayrıntılara ve teknik konulara ilişkin olarak Maliye Bakanlığınca açıklayıcı ve tamamlayıcı nitelikte düzenleyici işlem yapılabilir.
 
 …
@@ -89,6 +101,8 @@ Anayasası'nın 73. maddesinde yer alan düzenlemeyle maddede belirtilen hallerd
 Danıştay Dördüncü Dairesinin 02/03/2021 tarih ve E:2017/4268, K:2021/1335 sayılı kararının BOZULMASINA …
 
 ## Danıştay İDDK 2021/1436 E., 2021/1606 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/717527700)
 
 Davacı tarafından Tebliğin dava konusu 6. ve 7. maddeleri ile tüm alanların yapılaşmaya açıldığı ileri sürülmüş ise de yukarıda açıklandığı üzere, 3194 sayılı Kanunun Geçici 16. maddesi ve dava konusu Tebliğ ile Anayasa ve özel kanunlarla korunan, yapılaşma yasağı veya kısıtlaması getirilen alanlarda 31/12/2017 tarihinden önce yapılan mevzuata aykırı yapıların kayıt altına alınmasının hedeflendiği, anılan tarihten sonra tespit edilen mevzuata aykırı yapılar açısından uygulanmasının da söz konusu olmadığı, ayrıca düzenlemeler ile bu alanlarda yeni yapılaşmaya izin verilmediği açık olduğundan, davacının bu iddiasının yerinde görülmediği ve anılan düzenlemelerde dayanağı Yasa maddesine, mevzuata ve kamu yararına aykırılık bulunmadığı gerekçesiyle davanın reddine karar verilmiştir.
 
@@ -99,11 +113,15 @@ Bu nedenle, Boğaziçi sahil şeridi yönünden itiraz konusu imar affına iliş
 
 ## Danıştay İDDK 2019/2841 E., 2021/1574 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/718872200)
+
 Davacı tarafından, dava konusu Yönetmeliğin 5/2-(b) maddesinin; dayanağı olan 6306 sayılı Kanunun Ek 1.maddesinin 1.fıkrasının (b) bendi ile aynı doğrultuda düzenlendiği, dayanağı Kanun maddesinin mülkiyet hakkını ölçüsüz ihlal etmesi nedeniyle Anayasaya aykırı olduğu, dolayısıyla dava konusu düzenlemenin de hukuka aykırı olduğu, aynı Yönetmeliğin 5/1.maddesinde aranılan teknik raporun anılan maddenin 2.fıkrasında riskli alan ilanı sırasında aranmadığı, aynı maddenin 3. ve 4.fıkralarında ise;
 1.maddede belirtilen bilgi ve belgeler ibaresinin kaldırılması sonucunda can ve mal güvenliği bakımından teknik inceleme yapılamayacağı, Yönetmeliğin 15.maddesinin 2. ve 7. fıkrasının, dayanağı 6306 sayılı Kanunun 6/1.maddesine uygun olarak düzenlendiği, dayanağı Kanun maddesinin mülkiyet hakkını ölçüsüz ihlali nedeniyle Anayasaya aykırı olduğundan bahisle anılan Yönetmelik maddelerinin de hukuka aykırı olduğu, aynı maddenin 13.fıkrasındaki "mimari proje ile yönetim planında malik imzası aranmaz" cümlesinin 634 sayılı Kat Mülkiyet Kanununa aykırı olduğu, Yönetmeliğin 15/A maddesinin 1.fıkrasının (b) bendinde ve 3.fıkrasında yapılan değişiklikle satış işleminin maliklere ulaşılamaması halinde nasıl tebliğ edileceğine ilişkin belirsizlik oluştuğu, maddenin eski halinde satışa ilişkin işlemin tebliğinin maliklerin mernis adresine yapılacağı belirtilmişken, yeni halinde bu şartın kaldırıldığı, malikten habersiz satışın yapılabilmesinin söz konusu olduğu, bu durumun mülkiyet hakkının Yönetmelikle sınırlanması sonucunu doğurduğu ve hukuka aykırı olduğu, Yönetmeliğin 7/9.maddesinde belirtilen tescilli kültür varlıklarının hiçbir şekilde riskli yapı ilan edilip yıkılamayacağı, anılan
 fıkranın Anayasanın 63.maddesine ve 2863 sayılı Kültür ve Tabiat Varlıklarını Koruma Kanununa aykırı olduğu ileri sürülmektedir.
 
 ## Danıştay İDDK 2019/2842 E., 2021/1573 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/718867400)
 
 Davacı tarafından, dava konusu Yönetmeliğin 1.maddesi ile 6306 sayılı Kanunun Uygulama Yönetmeliğinin 4.maddesinin 1.fıkrasına eklenen (ç) ve (d) bendinde belirtilen "gözlemsel veriler" ibaresinin rezerv yapı alanının tespitinde yetersiz kaldığı, yer biliminin gerektirdiği her türlü jeolojik etüd incelemesi neticesinde belirlenmesi gerektiği, incelemenin hangi idare tarafından yapılacağının da belirli olmadığı, Yönetmeliğin 5.maddesinin 2.,3., ve 4.fıkralarında yapılan değişiklikle riskli alan tespitine ilişkin kamu düzeni ve kamu güvenliğinin bozulması ve kaçak yapılaşma gibi Kanunda yer alan teknik tanımlamaya aykırı terimler kullanıldığı, Bakanlığın herhangi bir inceleme yapmadan dosyayının uygunluğunu değerlendiren sadece yazışmaları yapan kurum haline getirildiği, riskli alan tespitine ilişkin keyfi uygulamaların yolunun açıldığı, Yönetmeliğin 6.maddesinin 2., 3., 4., 5., 6. ve 7. fıkraları ile aynı maddeye eklenen 8., 11., 12., 13. ve 14. fıkralarında; riskli alan ve riskli yapı tespiti yapmak için lisanslandırılan kurum ve kuruluşların mesleki sorumluluğuna, belge geçerlilik süresine dair şekil şartları kaldırıldığı için bu kuruluşların keyfi işlemler yapmasının önünün
 açıldığı, sorumluluk sınırlarının belirsiz bir hal aldığı, Bakanlığın suç duyurusunda bulunma hakkının da kaldırıldığı, Bakanlığın denetim yetkisinin kaldırılmasının onun asli vazifesi olan kolluk görevinden vazgeçtiği anlamını taşıdığı, bu hususun ise hukuk devleti ilkesine aykırı olduğu, lisansı iptal edilen kurum ve kuruluşun elindeki işleri tamamlayana kadar faaliyetine devam edebilecek olmasının ise hukuka aykırı olduğu, Yönetmeliğin 7. maddesinde "statik bakımdan yapı bütünlüğü bozulmuş olan yapı" ibaresinin teknik bir gerekçe şeklinde Yönetmelikte yazılmış olmasının Kanunun özüne aykırı olduğu, riskli yapı tespitine ilişkin başvurunun malikler yanında idare veya TOKİ tarafından da yapılabiliyor olmasının geleneksel ve tarihi yapılarda kötü niyetli uygulamalara yol açacağı ve mülkiyet hakkına açıkça aykırı olduğu, tarihi nitelikli riskli yapılara ilişkin kararın Koruma Bölge Kurullarına bırakılmasının uzmanlık alanı olmayan konuda onları karar almaya zorlamak olacağından bu konuda daha özel kriterler belirlenmesi gerektiği, Yönetmeliğin 15.maddesinin 2., 3., 7., 8. ve 10. fıkraları ile 9. fıkranın birinci cümlesinin ve aynı maddeye eklenen 13.fıkrasının ise; anlaşmayan pay
@@ -115,6 +133,8 @@ Yukarıda özetlenen gerekçeyle dava konusu Yönetmeliğin 3.maddesi ile 6306 s
 
 ## Danıştay İDDK 2021/1948 E., 2021/1555 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/716651800)
+
 Bu doğrultuda, anlaşmama iradesi gösteren maliklerin süreci uzatmalarını önlemek amacıyla acele kamulaştırma kararı alınmasında kamu yararı bulunduğundan, 2942 sayılı Kamulaştırma Kanunu'nun 27. maddesinde belirtilen acele kamulaştırma şartının gerçekleştiği sonucuna varıldığı, …
 
 …
@@ -122,6 +142,8 @@ Bu doğrultuda, anlaşmama iradesi gösteren maliklerin süreci uzatmalarını �
 Açıklanan nedenlerle, davacının temyiz isteminin kabulü ile davanın reddi yolundaki Daire kararının kaldırılarak, dava konusu işlemin ... parsel sayılı taşınmaz yönünden iptaline karar verilmesi gerektiği oyuyla …
 
 ## Danıştay İDDK 2021/1908 E., 2021/1515 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/716170100)
 
 Ancak; anılan ruhsatlı ve iskânlı yapıların riskli alan sınırı kapsamına alınabilmesi için bu yapılara ilişkin 6306 sayılı Kanunun Uygulama Yönetmeliği'nin 5. maddesi uyarınca, Yönetmeliğin Ek-2'sinde yer alan "Riskli Yapıların Tespit Edilmesine İlişkin Esasların" Ek-A bölümü uyarınca; binalara ilişkin parametrelerin (yapısal sistem türü, kat adedi, görünen kalite, yumuşak kat, düşeyde düzensizlik, ağır çıkma, planda düzensizlik/burulma etkisi, kısa kolon etkisi, yapı nizamı/bitişik binalarla döşeme seviyeleri yapı nizamı, tabii zemin eğimi vb.) dikkate alınarak, yapıların bulunduğu yerdeki deprem tehlikesi ve yapının deprem performansını etkileyen yapısal özelliklerin saha çalışmaları sonucunda elde edilmesi ve yapısal sistem özelliklerine göre sınıflandırılmış tip binalar seçilerek bunların analizlerinin yapılması sonucunda bir korelasyon çıkarılıp genel yapı stoğu riskinin belirlenmesi gerektiği, …
 
@@ -136,6 +158,8 @@ Açıklanan nedenlerle, temyiz istemlerinin kabulü ile dava konusu işlemin mü
 
 ## Danıştay İDDK 2021/1179 E., 2021/1308 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/683568900)
+
 Özel mülkiyet hakkının korunması gereken temel insan hakları arasında öngörüldüğü, Anayasa ve uluslararası sözleşmelerde mülkiyet hakkını korumaya yönelik düzenlemelere yer verildiği, bu düzenlemelerde, mülkiyet hakkına müdahalelerin olabileceğinin belirtildiği, ancak bu müdahalelerde kamu yararı gerekçesi, kanuni düzenleme gereği ve ölçülülük ya da orantılılık gibi uluslararası hukukun genel ilkelerinin varlığının dikkate alınması gerektiği, aksi durumda müdahalenin mülkiyet hakkı ihlaline neden olacağının kabul edildiği, nitekim Anayasa Mahkemesi kararları ve Avrupa İnsan Hakları Mahkemesi içtihatlarıyla da bu hususların açıkça ortaya konulduğu, …
 
 Bu açıdan, kamu gücü kullanılarak özel mülkiyetteki taşınmazların kamu eline geçirilmesini ifade etmesi anlamında kamulaştırmanın yargısal incelemesinde, mülkiyet hakkına söz konusu müdahalede yukarıda yer alan hükümler çerçevesinde kamu yararının varlığının, kanuni düzenleme gereğinin ve orantılılık noktasında adil dengenin sağlanıp sağlanmadığının değerlendirilmesi gerektiği, …
@@ -146,6 +170,8 @@ Açıklanan nedenlerle, davacının temyiz isteminin kabulü ile davanın reddi 
 
 ## Danıştay İDDK 2020/2341 E., 2021/973 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/790108700)
+
 Davacı tarafından, karayolları ile havaalanları kullanımlarının nerede olmaması gerektiği konularında 3.5.16 sayılı plan hükmünün yetersiz olduğu iddia edilmekte ise de; bilirkişi raporundaki tespitler de göz önünde bulundurulduğunda, çevre düzeni planının kapsadığı geniş coğrafi bölgelerin nerelerinde karayolu ve havalimanı gibi ulaşım altyapısına yönelik yatırım kararlarının yapılamayacağının belirlenmesinin olanaklı olmadığı, plan uygulama hükümlerinde, bu yönde bir hususa yer verilmesinin planlama ilkeleri ile bağdaşmadığı, böyle yatırım projeleri gündeme geldiğinde çevre düzeni planında değişiklik yapılarak karar verilmesi gerektiği, …
 
 …
@@ -153,6 +179,8 @@ Davacı tarafından, karayolları ile havaalanları kullanımlarının nerede ol
 Kent ölçeğinin ötesinde havza ve bölge için etkileri olabilecek ve kamu yararı açık olan ulaşım, baraj vb. yatırım kararlarında her ne kadar 1/100.000 ölçekli çevre düzeni planı değişikliği zorunlu tutulmadan imar planı çalışmalarının ve ÇED süreçlerinin devam edebileceği belirtilmiş ise de; bu durumun bir zorunluluk oluşturmadığı ve Bakanlıkça, davacının da ileri sürdüğü üzere, bölgesel etkiye neden olabilecek yatırımlar için de 1/100.000 ölçekli çevre düzeni planı değişikliğinin yapılması yönünde karar verilebildiği, gelişmelerin kontrol altında tutularak planlı bir şekilde gerçekleştirilmesinin sağlanabildiği, kaldı ki dava konusu planda “enerji üretim tesisleri”nin bu kapsam dışında tutularak, 3.5.18.1 sayılı plan uygulama hükmü kapsamında, yenilenebilir enerji kaynaklarına dayalı olmayan enerji üretim tesisleri için çevre düzeni planı değişikliği koşulunun aranmasına yönelik düzenleme yapıldığı savunulmaktadır.
 
 ## Danıştay İDDK 2020/229 E., 2021/730 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/692756700)
 
 'ın, "dava konusu Yönetmeliğin dayanağı olan 6831 sayılı Orman Kanunu'nun 17. maddesinin 3. fıkrasındaki "eğitim" ibaresinin Anayasa'ya aykırı olduğundan bahisle iptali istemiyle Anayasa Mahkemesine başvurulması gerektiği" yolundaki oylarına karşılık, ibarenin Anayasa'ya aykırı olmadığına; üye …
 
@@ -168,6 +196,8 @@ Davanın yukarıda özetlenen gerekçeyle reddine ilişkin Danıştay Sekizinci 
 
 ## Danıştay İDDK 2021/240 E., 2021/514 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/673635600)
+
 Anayasa'nın 2. maddesinde belirtilen hukuk devleti, eylem ve işlemleri hukuka uygun, insan haklarına dayanan, bu hak ve özgürlükleri koruyup güçlendiren, her alanda eşitliği gözeten, adaletli bir hukuk düzeni kurup sürdürmekle kendisini yükümlü sayan, hukuk güvenliğini sağlayan, bütün etkinliklerinde hukuka ve Anayasa'ya uyan, işlem ve eylemleri bağımsız yargı denetimine bağlı olan devlettir. Anayasa'da, Türkiye Cumhuriyeti'nin demokratik hukuk devleti niteliği vurgulanırken, devletin tüm eylem ve işlemlerinin yargı denetimine bağlı olması amaçlanmıştır. Yargı denetimi, hukuk devletinin "olmazsa olmaz" koşuludur.
 
 …
@@ -175,6 +205,8 @@ Anayasa'nın 2. maddesinde belirtilen hukuk devleti, eylem ve işlemleri hukuka 
 Davanın yukarıda özetlenen gerekçeyle ehliyet yönünden reddine ilişkin Danıştay Altıncı Dairesinin temyize konu 24/09/2020 tarih ve E:2020/4898, K:2020/8237 sayılı kararının BOZULMASINA …
 
 ## Danıştay İDDK 2020/1642 E., 2020/2758 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/641433300)
 
 2709 sayılı Türkiye Cumhuriyeti Anayasası'nın, "Temel hak ve hürriyetlerin sınırlanması" başlıklı 13 ve "Mülkiyet hakkı" başlıklı 35. maddelerine, 20/03/1952 tarihinde kabul edilen İnsan Haklarının ve Temel Özgürlüklerinin Korunmasına İlişkin Sözleşme'nin, Türkiye tarafından 19/03/1954 tarihinde onaylan Ek-1 Nolu Protokol'ün "Mülkiyetin Korunması" başlıklı 1. maddesine, 6306 sayılı Afet Riski Altındaki Alanların Dönüştürülmesi Hakkında Kanun'un işlem tarihinde yürürlükte olan 2. maddesinin 1. fıkrasının (ç) bendi ile Ek-1. maddesine ve Afet Riski Altındaki Alanların Dönüştürülmesi Hakkında Kanunun Uygulama Yönetmeliği'nin işlem tarihinde yürürlükte olan “Riskli alanın tespiti” başlıklı 5. maddesine yer verildikten sonra, …
 
@@ -184,9 +216,13 @@ Davanın yukarıda özetlenen gerekçeyle reddine ilişkin Danıştay Altıncı 
 
 ## Danıştay İDDK 2019/1945 E., 2020/1971 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/789496400)
+
 Plan değişikliği ile sonradan kamusal kullanıma ayrılmasına karşın, sonuçta taşınmaz üzerinde önceki imar planı kararları doğrultusunda ve usulüne uygun olarak alınan ruhsat ve eki projelere göre bütünüyle yasal olarak inşa edilmiş arza tabi bir yapının bulunduğu, bu yönüyle, yasal olduğu sürece ister seviye tespitinden önce, isterse seviye tespitinden sonra imal edilsin, ortada Anayasa'nın amir hükümleri ile tanımlanan, mülkiyet hakkının korunması çerçevesinde Kamulaştırma Kanunu gereği bedeli ödenmesi gereken bir hak bulunduğu, mülkiyet hakkının açıkça ihlali niteliğindeki düzenlemenin bu kısmında hukuka uyarlık bulunmadığı, …
 
 ## Danıştay İDDK 2020/1838 E., 2020/1568 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/617762500)
 
 Davalı idarelerden tarafından, savunma verilmemiştir.
 

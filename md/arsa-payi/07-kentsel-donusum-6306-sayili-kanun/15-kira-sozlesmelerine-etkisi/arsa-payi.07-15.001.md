@@ -20,6 +20,8 @@ uyari: "Derleyenin seçtiği alıntılardır; kararın tamamı değildir. Künye
 
 ## Danıştay İDDK 2021/2702 E., 2022/621 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/804405200)
+
 6306 sayılı Kanun ve anılan Kanunun Uygulama Yönetmeliği hükümlerine yer verildikten sonra, mevzuatta belirtilen teknik ve hukuki süreç sonunda riskli yapı olarak tespit edilen binaların yıkımı ve tahliyesi konusunda anlaşmaya varan yapıların maliklerine, malik olmasalar bile kiracı veya sınırlı ayni hak sahiplerine geçici konut veya işyeri tahsisi ya da kira yardımından yararlanma imkanı getirildiği, ancak bu yardımlardan yararlanabilmek için söz konusu kişilerin yıkılmadan önce yapılarda fiilen ikamet etmeleri gerektiğinin anlaşıldığı, …
 
 …
@@ -36,6 +38,8 @@ DAVANIN KONUSU :Düzce İli, Merkez İlçe, ... Mahallesi, ... ada, ... parsel s
 
 ## Danıştay 6. D. 2020/5348 E., 2023/1905 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/987513900)
+
 Muğla İli, Bodrum İlçesi, …
 
 …
@@ -47,6 +51,8 @@ parsel sayılı taşınmaz üzerinde yer alan, davacının kiracı olarak ticari
 sayılı kararıyla alınan riskli yapı tespit işlemi ve riskli yapı tespitine dayanak tüm idari işlemler ile Afet Riski Altındaki Alanların Dönüştürülmesi Hakkında Kanunun Uygulama Yönetmeliği'nin 7. maddesinin 5. ve 6. fıkralarının iptali istemiyle açılan davanın ehliyet yönünden reddi yolundaki Danıştay Ondördüncü Dairesinin 06/03/2019 günlü, E:2019/830, K:2019/1617 sayılı kararının Danıştay İdari Dava Daireleri Kurulunun 09/12/2019 günlü, E:2019/1375, K:2019/6317 sayılı kararıyla bozulduğu anlaşıldığından, bozma kararı uyarınca işin esası incelendi:
 
 ## Danıştay 6. D. 2022/8076 E., 2022/9480 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/915431500)
 
 …
 
@@ -82,6 +88,8 @@ Uyuşmazlıkta; tahliye ve yıkımına karar verilen binanın davaya esas maddi 
 
 ## Danıştay 13. D. 2022/1577 E., 2022/2596 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/824434000)
+
 Her ne kadar kiracı sıfatından kaynaklanan menfaat nedeniyle bazı durumlarda kiracının dava açma ehliyetinin bulunduğu kabul edilebilmekteyse de uyuşmazlık konusu olayda söz konusu yapı ile ilgili olarak hazırlanan riskli yapı tespit raporu, söz konusu taşınmazın riskli yapı olduğu ve yıkımının can güvenliği bakımından zorunluluk taşıdığı gibi hususlar dikkate alınarak malik belediye tarafından yıkımının gerçekleştirilmesi amacıyla dava konusu ihaleye çıkıldığı görülmektedir.
 
 Bu durumda riskli yapının yıkılması gibi telafisi olmayan ve taşınmazın esaslı unsurlarını ilgilendiren bir konuda karar alma yetkisi bulunmayan kiracının, malikin taşınmaz üzerindeki tasarruf yetki ve iradesinin hilafına olacak şekilde, riskli yapının tespiti yıkmı amacıyla düzenlediği ihalenin iptali hususunda da dava açma ehliyetinin bulunduğunun kabulünün ve bu nedenle ehliyet yönünden reddi gereken davanın esasının incelenmesinin hukuken mümkün olmadığı" yolundaki usule ilişkin ayrışık oyuna karşılık, davacının bakılan davayı açmakta ehliyetli olduğuna oyçokluğu ile karar verilerek gereği görüşüldü:
@@ -92,6 +100,8 @@ Bu kısım yönünden DAVANIN REDDİNE …
 
 ## Danıştay 6. D. 2021/6350 E., 2021/8837 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/694788800)
+
 İSTEMİN ÖZETİ : İstanbul İli, Kağıthane İlçesi, ... Mahallesi, ... ada, ..., ..., ... ve ... parsel sayılı taşınmazlar üzerinde bulunan ve davacının kiracısı olduğu binaların riskli yapı olarak tespit edilmesine ilişkin işleminin, söz konusu işlemin geri alınması talebi ile davacı vekili tarafından Kağıthane Belediye Başkanlığına yapılan ... tarih ve ... kayıt numaralı itirazın zımnen reddedilmesine ilişkin işlemin iptali istemiyle açılan davada; ... İdare Mahkemesinin ... tarih ve E: ..., K: ... sayılı davanın ehliyet yönünden reddine ilişkin kararına karşı yapılan istinaf başvurusunun kesin olarak reddine ilişkin ... Bölge İdare Mahkemesi ... İdari Dava Dairesince verilen ... tarih ve E: ..., K: ... sayılı kararın temyiz edilmesi üzerine, 2577 sayılı İdari Yargılama Usulü Kanun'un 48/6. maddesi uyarınca verilen temyiz isteminin reddine ilişkin anılan Bölge İdare Mahkemesi İdari Dava Dairesinin ... tarihli, E: ..., K: ..., Temyiz No: ... sayılı kararın, usul ve hukuka aykırı olduğu ileri sürülerek bozulması istenilmektedir.
 
 …
@@ -99,6 +109,8 @@ Bu kısım yönünden DAVANIN REDDİNE …
 ... Bölge İdare Mahkemesi ... İdari Dava Dairesince verilen ... tarihli, E: ... , K: ... , Temyiz No: ... sayılı karar ve dayandığı gerekçe hukuk ve usule uygun olup bozulmasını gerektirecek bir sebep bulunmadığından, anılan kararın ONANMASINA …
 
 ## Danıştay 6. D. 2020/3451 E., 2021/8817 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/680557000)
 
 Dava Konusu 6306 sayılı Kanunun Uygulama Yönetmeliğinin 16/4.maddesi ve 2017 yılı Kira Yardımı Uygulamaları Kılavuzunun 5.6. maddesinin incelenmesi:
 

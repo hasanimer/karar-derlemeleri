@@ -21,9 +21,13 @@ uyari: "Derleyenin seçtiği alıntılardır; kararın tamamı değildir. Künye
 
 ## Adana BAM 9. HD 2022/1706 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/854230300)
+
 Birleşen davada davacı, hem adi ortaklık niteliğindeki Anamur'da kurulan temsilcilik için verdiği sermaye payını hem de davalı şirketin OSGB şubesinde SGK'lı olarak çalıştığı döneme ilişkin işçilik alacağı niteliğindeki prim alacaklarını talep etmektedir. Bu durumda mahkemece birleşen davadaki işçilik alacakları talebi yönünden mahkemenin görevli olmadığı nazara alınıp, bu talep yönünden dosya tefrik edilip görevsizlik kararı verilmesi gerekirken esas yönünden inceleme yapılıp karar verilmesi doğru olmamıştır.
 
 ## İstanbul BAM 3. HD 2021/2787 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/699757400)
 
 Bu sebeple ,mahkemece davada görevli olup olmadığının usulünce araştırılması, taraflardan bu yönde bilgi alınması,ilgili Vergi Dairesine davacının vergi mükellefi olup olmadığı ,beyan ettiği matrah,tuttuğu defterler, vergi matrahına göre Bakanlar Kurulunca ilan edilen miktarlar itibarıyla tacir niteliğinde olup olmadığı ,Ticaret Odasından tacir kaydı bulunup bulunmadığı,buna göre davanın ticari dava niteliğinde olup olmadığı ve davada mahkemenin görevli olup olmadığının tesbiti ile ,mahkeme görevli olduğu takdirde yargılamaya devam edilmesi ,aksi takdirde genel mahkeme Asliye Hukuk Mahkemesi görevli olduğundan görevsizlik-dava şartı nedeniyle davanın usulden reddine karar verilmesi gerekirken esas yönünden karar verilmesi , usul ve hukuka aykırı bulunmuştur.
 Mahkemenin davada görevli olduğu tesbit edildiği takdirde ise ; yukarıda da açıklandığı üzere,dava, adi ortaklık sözleşmesine dayanılarak arsa sahibi 3.kişi ile yapılan kat karşılığı inşaat sözleşmesince imar edilen inşaatın tüm masraf ve giderlerinin davacı tarafından karşılandığı iddiasına dayanılarak taraflar arasındaki sözleşme gereği yarı yarıya sorumlu olması gereken davalının bu gider ve masrafların kendisine düşen miktarını ödemediği gerekçesiyle tahsili için başlatılan icra takibine yönelik itirazın iptali talebine ilişkindir. Tarafların Üsküdar ...Noterliği 03.03.2014 Tarihli Adi Ortaklık Sözleşmesiyle "... Mah. ... Cad. ... Sok. No.... Ümraniye-İstanbul" adresinde mukim ... adi ortaklığını kurdukları, ortaklığın bir süre devam ettiği, alınan bilirkişi kurulu raporunun Mali İnceleme bölümünde, söz konusu inşaata ait yapılan masraf ve elde edilen gelirlerle ilgili herhangi bir tespit yapılamadığı beyan edilmiştir.
@@ -34,6 +38,8 @@ Tasfiye görevlisine ödenecek ücret, sözleşmede buna ilişkin bir hüküm ve
 
 ## Konya BAM 6. HD 2021/2248 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/739541000)
+
 Dava, adi ortaklığın fesih ve tasfiyesi istemine ilişkindir.
 
 …
@@ -42,16 +48,22 @@ Bu açıklamalar ışığında somut olayın incelenmesinde, davaya konu uyuşma
 
 ## Adana BAM 4. HD 2021/1564 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/699760600)
+
 Somut olayda, davacının adi ortaklıktan doğan alacak talebinde bulunduğu ve Kulu Vergi Dairesi'nin .... tarihli yazısına göre de dava tarihinden önce ticareti terk ettiği anlaşıldığından, uyuşmazlığın her iki tarafı da tacir değildir ve adi ortaklığa ilişkin hükümler de Türk Borçlar Kanunu'nda düzenlenmiştir. Bu durumda mutlak ya da nispi ticari dava söz konusu olmadığına göre davanın genel hükümlere göre asliye hukuk mahkemesinde görülüp sonuçlandırılması gerekmektedir.
 
 Yargıtay 3. Hukuk Dairesi, ..... E. ..... K. Sayılı ilamı ile "davaya konu uyuşmazlığın adi ortaklıktan kaynaklanan alacağa ilişkin olduğu, bu haliyle davacının TTK hükümlerine göre, adi ortaklığa konu sözleşmelerde dikkate alınması suretiyle tacir sıfatına haiz olup olmadığının araştırılarak, tacir olması halinde uyuşmazlığın çözümünün yukarıdaki yasa hükümleri de gözetildiğinde Asliye Ticaret Mahkemesi'nin görevi içinde olduğu, tacir sıfatını haiz olmadığında ise uyuşmazlığın 6502 sayılı Kanun kapsamında kalmadığından Asliye Hukuk Mahkemesi olarak davanın görülmesi gerekir. O halde mahkemece, davanın taraflarının tacir olup olmamasına göre uyuşmazlıkta Asliye Ticaret Mahkemesi'nin görevli olması halinde davaya devam edilmesi, değilse Asliye Hukuk Mahkemesinin görevli olması nedeniyle görevsizlik kararı verilmesi gerekirken" şeklinde aynı hususu belirtmiştir.
 
 ## İstanbul BAM 3. HD 2020/2011 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/620182500)
+
 Görev itirazı yapılmamış olsa bile re'sen mahkeme, ilk önce görevli olup olmadığını inceleyip karara bağlamalıdır.Buna göre mahkemece, taraflar arasındaki uyuşmazlığın TBK'da düzenlenen adi ortaklık ilişkisinden kaynaklı olduğu, tarafların TTK'da düzenlendiği gibi tacir sıfatını taşımadığından, adi ortaklığın konusunun ticari gelir elde etmek olması, davayı kendiliğinden ticari dava haline getirmeyeceği ve TTK'da ön görülen, tarafların her ikisinin de tacir olması koşulunun davada oluşmadığı, uyuşmazlığın çözümünde genel mahkeme olan Asliye Hukuk Mahkemesinin görevli olduğu gözetilerek, görevsizlik kararı verilmesi gerekirken denetimden geçmeden kesinleşen görevsizlik kararı üzerine dosyanın gönderilmesi sonucu tarafların tacir olup olmadığı araştırılmaksızın işin esasının incelenerek karar verilmesi usul ve hukuka uygun değildir.Açıklanan nedenlerle, davacının sair istinaf itirazları incelenmeksizin, tarafların, tacir mi esnaf mı olduğu saptanmadan, buna dair araştırma yapılmadan, vergi kayıtları, vergi matrahları, ticaret sicil ve esnaf oda kayıtları getirtilmeden, hangi usule göre defter tuttuğu araştırılmadan, Bakanlar Kurulu'nca çıkartılan, esnaf-tacir arası ayırıma dair
 kararnamedeki gelir sınırı dosyaya alınmadan ve bu deliller toplanıp karar yerinde tartışılmadan verilen karar, usul ve hukuka uygun bulunmamış, bu nedenle bunlar toplanıp kararda tartışılarak, eğer tacir niteliğinde ise esasın bu halde incelenmesi, esnaf niteliğinde ise genel mahkemeler görevli olduğundan Asliye Hukuk Mahkemesince davaya devam edilmesine karar verilmesi gerekirken yazılı şekilde karar verilmesi nedeniyle davacının istinaf başvurusunun kabulüne, kararın HMK 353/1-a-3 maddesi uyarınca kaldırılması ile dosyanın ilk derece mahkemesine geri gönderilmesine karar verilmesi gerekmiştir.
 
 ## İstanbul BAM 3. HD 2020/206 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/577316100)
 
 Yargılama sırasında getirtilerek incelenen İstanbul 45. Asliye Ticaret mahkemesinin 2012/152 E sayılı dosyasında ise adi ortaklığın tasfiyesi ve alacak istemli açılan davanın yargılamasının yapıldığı görülmüştür. Bilindiği üzere, adi ortaklık; iki yada daha fazla kişinin emeklerini ve mallarını ortak bir amaca erişmek üzere birleştirmeyi üstlendikleri sözleşmedir. (TBK. 620/1 md.) Diğer bir anlatımla, adi ortaklık; birbirini tanıyan, birbirlerinin kabiliyet ve şahsiyetlerine güvenen, eşit ve aynı durumda olan gerçek veya tüzelkişilerin, müşterek amacın gerçekleştirilmesini sağlayacak vasıtaları (sermaye paylarını veya emeklerini) ortaklığa getirme konusunda karşılıklı ve uygun irade beyanlarının birbirine ulaşmasıyla teşkil eden bir kişi topluluğudur. TBK 626. maddesinde rekabet yasağı düzenlenmiştir. Eldeki dava, 6102 sayılı Türk Ticaret Kanunu’nun yürürlüğe girdiği 01.07.2012 tarihinden sonra açılmıştır.
 6102 sayılı Türk Ticaret Kanunu’nun 4. maddesine göre; bir davanın ticari dava sayılması için uyuşmazlık konusu işin, taraflarının her ikisinin birden ticari işletmesiyle ilgili olması ya da tarafların tacir olup olmadıklarına veya işin tarafların ticari işletmesiyle ilgili olup olmamasına bakılmaksızın Türk Ticaret Kanunu veya diğer kanunlarda o davaya Asliye Ticaret Mahkemesi'nin bakacağı yönünde düzenleme olmalıdır.Yine, 6102 sayılı Türk Ticaret Kanunu'nun 19/2. maddesi uyarınca, taraflardan biri için ticari iş sayılan bir işin diğeri için de ticari iş sayılması, davanın niteliğini ticari hale getirmeyecektir. Zira, Türk Ticaret Kanunu, kanun gereği ticari dava sayılan davalar haricinde, ticari davayı ticari iş esasına göre değil, ticari işletme esasına göre belirlemiştir. 6335 sayılı Kanun'un 2. maddesi ile değişik 6102 sayılı Türk Ticaret Kanunu'nun 5. maddesi uyarınca, ticari davalar Asliye Ticaret Mahkemelerince görülerek karara bağlanır.

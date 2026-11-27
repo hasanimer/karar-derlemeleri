@@ -22,6 +22,8 @@ uyari: "Derleyenin seçtiği alıntılardır; kararın tamamı değildir. Künye
 
 ## Yargıtay 13. HD 2009/9289 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/832963100)
+
 Davacı, 17.03.1997 tarihli gayrimenkul satış vaadi sözleşmesi ile müteahhit olan davalıdan arsa sahibi ile yaptığı sözleşmeyle davalıya kalan 3 adet daire satın aldığını, bedelini ödediğini, daha sonra davalı ile 04.03.1998 tarihinde adi şekilde daire alım ve inşaat sözleşmesi yaparak inşaatın teslim süresinin yeniden belirlendiğini, buna göre 01.04.1998 tarihinden itibaren 18 ay içinde tesliminin taahhüt edildiğini, davalının inşaatı yapmadan terk ettiğini, 22.09.2004 tarihli ihtar ile sözleşmenin feshi ve zararının tazminini istediğini, ancak davalının tazmin etmediğini ileri sürerek sözleşmenin feshi nedeniyle uğradığı zarara karşılık fazlaya ilişkin hakları saklı kalmak kaydıyla 60.000YTL tazminatın faiziyle birlikte davalıdan tahsilini istemiş, ıslah dilekçesiyle talebini 135.000YTL’ye yükseltmiştir.
 
 Davalı, arsa sahibinin vefat etmesi üzerine mirasçılar ile görüşmeler yaparken iki adet deprem meydana geldiğini, depremden sonra belediyenin tüm inşaat ruhsatlarını iptal ettiğini, bu nedenle inşaatı süresinde bitiremediğini, daha sonra da arsa sahipleri tarafından inşaat yapım sözleşmesinin feshedildiğini, kusuru olmadığını savunarak davanın reddini dilemiştir.
@@ -38,6 +40,8 @@ Davacı edimini yerine getirdiği halde davalı edimini yerine getirmemiştir. B
 SONUÇ:Yukarıda birinci bentte açıklanan nedenlerle tarafların 2. ve 3. bentlerin kapsamı dışında kalan sair temyiz itirazlarının reddine,ikinci bentte açıklanan nedenlerle kararın davacı yararına,üçüncü bentte açıklanan nedenlerle davalı yararına BOZULMASINA …
 
 ## Yargıtay 13. HD 2009/8350 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/834364300)
 
 Davacı, davalıların murisi ...z'e ait taşınmaz üzerinde davalı yüklenici ... ile 19.1.1995 tarihli noterden kat karşılığı inşaat sözleşmesinin yapıldığını, kendisinin yükleniciye düşen 1 nolu daireyi 23.1 1996 tarihli harici sözleşme ile satın aldığını, parasını peşin olarak ödediğini, yüklenicinin inşaatı % 71 seviyesinde iken bırakıp yurt dışına gittiğini, yükleniciden satın alan 10 kişinin arsa sahiplerinin de bilgisi ve rızasıyla bu binayı tamamlayıp arsa sahiplerine düşen 6 daireyi teslim ettiklerini, diğer 8 kişiye ait taşınmazların tapuda devirlerinin yapılmış olmasına rağmen kendisi dahil iki kişiye devrin yapılmadığını, açtığı tapu iptali tescil davasının reddedilip kesinleştiğini ileri sürerek dairenin rayiç değeri olan 50.000,00 YTL nin davalılardan müştereken ve müteselsilen tahsiline karar verilmesini istemiştir.
 
@@ -56,6 +60,8 @@ SONUÇ: Yukarıda 1.bentte açıklanan nedenlerden dolayı davacının sair temy
 
 ## Yargıtay 14. HD 2009/8022 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/845790300)
+
 Dava, yüklenicinin temliki işlemine dayalı tapu iptali ve tescil ikinci kademedeki istek tazminat taleplerine ilişkindir.
 
 …
@@ -72,6 +78,8 @@ SONUÇ:Yukarıda açıklanan nedenlerle temyiz olunan hükmün BOZULMASINA …
 
 ## Yargıtay 15. HD 2009/3366 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/854954500)
+
 Yukarıda özetlenen hukuksal çerçeve ve maddi olgular dahilinde uyuşmazlığa dönülürse; taraflar arasında düzenlenen 10.09.1999 günlü sözleşmede işin süresi temel atma tarihinden itibaren 24 ay olarak kararlaştırılmasına ve 2000 yılında imar parselleri tapuya tescil edilerek yapılaşma açısından herhangi bir yasal engel kalmamasına rağmen davalı yüklenici kooperatifin makul sürede işe başlamadığı, belediyeden gelen yazı cevaplarına göre başladığı inşaatı da ruhsatsız-kaçak şekilde devam ettirdiği, aradan geçen pek uzun zamanın artık davacının katlanabileceği tahammül sınırlarını aştığı, bu suretle davalının sözleşme ile yüklendiği edim borcunu ifada temerrüde düştüğü ve temerrüde düşmesinde herhangi bir kusuru olmadığını kanıtlayamadığı, keza bu süreçte davacının da herhangi bir kusurunun olmadığı anlaşılmakla davacı ifa yerine geçen olumlu zararının tahsilini istemekte haklıdır. Ne var ki, mahkemece, oluşan bu zararın tesbiti için bilirkişi heyetinden alınan raporda, hesaplama dava tarihi esas alınarak yapıldığı gibi yapı açısından birim fiyatlar, arsa içinse rayiç değer baz alındığından ve toplamı üzerinden bedel belirlendiğinden bu raporun hükme dayanak yapılması mümkün değildir.
 Bu nedenle HUMK’nın 284. maddesi hükmünce bilirkişi heyetinden yeniden ek rapor alınarak, yargılama sırasında edimin yerine getirilmesi gereken tarih olarak belirlenen ve davacı yanca da karşı çıkılmayan 06.07.2002 tarihi itibariyle davacıya verilmesi gereken üç dairenin bitmiş haldeki rayiç değerleri tesbit ettirilmeli ve davacının da sözleşme ile devretmeyi yüklendiği taşınmaz payının davalı …
 
@@ -80,6 +88,8 @@ Bu nedenle HUMK’nın 284. maddesi hükmünce bilirkişi heyetinden yeniden ek 
 SONUÇ:Yukarıda (1.) bendde açıklanan nedenlerle davalı vekilinin diğer temyiz itirazlarının reddinde, (2.) bent uyarınca hükmün temyiz eden davalı yararına BOZULMASINA …
 
 ## Yargıtay 13. HD 2008/1146 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/834571000)
 
 Davacı, davalı yüklenicinin dava dışı arsa sahipleri ile yaptığı kat karşılığı inşaat sözleşmesi gereği 45042 ada 9 parselde yapacağı binadan davalıya düşen 6 nolu daireyi 1.3.2004 tarihli sözleşme ile 30.000.00 YTL. bedelle satın aldığını, satış bedeline karşılık 14.000.00 YTL.si peşin 8.000 YTl.si taksitler halinde olmak üzere toplam 22.000.000 YTl. ödediğini, davalının daireyi kararlaştırılan tarihte teslim etmediği gibi 3. kişiye satıp tapuda devir ettiğini, 30.000.00 YTL.ye alınan dairenin bugünkü değerinin yaklaşık 45.000.00 YTL. olduğunu belirterek 22.000.00 YTL.nın ödeme tarihi olan 1.3.2004 tarihinden reeskont faizi ile tahsiline, yoksun kalınan karının (zararının) tesbit edilerek giderilmesini istemiş, 26.4.2007 tarihli ıslah dilekçesi ile yoksun kalınan kardan (zarardan) yargılama aşamasında tahsil ettiği 20.680.00 YTl.nın mahsubu ile kalan 2.653.24 YTL.nın faizi ile tahsiline karar verilmesini istemiştir.
 
@@ -95,6 +105,8 @@ SONUÇ: Yukarıda (1) nolu bentte açıklanan nedenle davacının sair temyiz it
 
 ## Yargıtay 15. HD 2007/7031 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/859439900)
+
 Dava, kat karşılığı inşaat sözleşmesi uyarınca tapuda yapılan satışlardan doğan vergi cezasının tahsili istemine ilişkindir.
 
 …
@@ -106,6 +118,8 @@ Somut olayda, davacı arsa sahibinin üçüncü şahıslara sattığı arsa payl
 SONUÇ:Yukarıda açıklanan nedenlerle davacı vekilinin temyiz itirazlarının kabulü ile hükmün davacı yararına BOZULMASINA …
 
 ## Yargıtay 13. HD 2006/15804 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/845738100)
 
 Davacı, yüklenici olan davalıdan 22.2.1999 tarihli noter satış vaadi sözleşmesi ile satın aldığı dairenin bedelini ödediğini, kaba inşaat olarak 1.12.1999 tarihinde bitirilip teslimi gerekirken davalının edimini yerine getirmediğini, arsa sahiplerinin açtığı dava sonucu 4.6.2002 tarihinde yüklenici ile yapılan kat karşılığı inşaat sözleşmesinin fesh edildiğini,davalının edimini ifa imkanının ortadan kalktığını ileri sürerek, rayiç değer ile geç teslim nedeniyle oluşan kira kaybı için fazlasını saklı tutarak 10 000 000 000 TL nin davalıdan faizi ile tahsiline karar verilmesini istemiştir.
 
@@ -132,6 +146,8 @@ Konkordato talep eden vekilinin istinaf başvurusunun 6100 sayılı Kanunun 353/
 
 ## Antalya BAM 7. HD 2026/326 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1207597000)
+
 Davacı vekili açtığı dava ile, davacı yüklenici ile davalı arasında yapılan yazılı sözleşme ile davalıya ait Denizli ... köyü ... parsel sayılı taşınmazın bulunduğu alanda ...
 
 …
@@ -148,6 +164,8 @@ Taraflar arasındaki uyuşmazlık, istinaf ilamında vurgulandığı üzere TBK 
 Davacı vekilinin istinaf başvurusunun ESASTAN REDDİNE …
 
 ## Kayseri BAM 4. HD 2026/228 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1195865000)
 
 Davalı vekil cevap dilekçesinde özetle:
 
@@ -175,6 +193,8 @@ Kayseri Asliye Ticaret 1.Mahkemesinin 2021/52 Esas, 2024/769 Karar sayılı kara
 
 ## İstanbul BAM 45. HD 2025/1334 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1183207700)
+
 Dönem enflasyon muhasebe hesaplamalarının 17.11.2024 tarihinde beyan edileceği, 3. Dönem vergi beyannamesinde şirket tarafından mali tablolara yansıtılma çalışmalarının devam ettiğini, şirket aktifinde bulunan 40/1000 arsa paylı 18 nolu meskenin rayiç bedelinin 11.500.000TL, 40/1000 arsa paylı 19 nolu meskenin rayiç bedelini 15.500.000TL olduğu, şirket adına kayıtlı 15 adet aracın 1 tanesi hariç tamamının rehinli olduğu, şirkete ait araçlardan 34 YSC 33 plaka sayılı 2007 model Mıtsubıshı markalı araç üzerinde rehin bulunmadığı, şirket adına kayıtlı tüm araçların rayiç değerlerinin toplamının 169.150.000TL olduğu, şirket adına kayıtlı demirbaşların rayiç değerlerinin toplamının 1.392.600TL olduğu, borçlu ...'in malvarlığını gösterir belgelerin sunulmamış olduğu, borçlu ...'in borçlu şirketten 80.000TL tutarında huzur hakkı aldığı, ön projede sunulan kaynakların şirket tarafından sunulan kaynaklarla aynı olduğu, mali verilerin 3. Dönem enflasyon maliye hesaplamalarının 17.11.2024 tarihinde beyan edilerek 3.
 Dönem geçici vergi beyannamesinde mali tablolara yansıtılması sürecinin devam ettiği, borçluların konkordato projelerinde revizyonlar yapılabileceği, borçluların ticari faaliyetlerini takip edilmesine ihtiyaç bulunduğu, bu nedenle İİK 284/4 maddesi uyarınca borçluların geçici mühletin uzatılması imkanından faydalandırılmasının uygun olacağı,"şeklinde kanaat bildirilmiştir.Geçici komiser heyeti tarafından sunulan 17.11.2024 tarihli raporunda:"...31.10.2024 tarihli raporda şirket kasasından yapılan tahsilat ifadesiyle şirket ortağı tarafından şirkete kaynak oluşturulduğunun kastedildiği, şirketin rayiç değerler esasına göre özvarlık tutarının +77.025.783,17TL olduğu, borçlu şirket ile ...Otomotiv Gıda Anonim Şirketi arasında Edirne 1.
 
@@ -183,6 +203,8 @@ Dönem geçici vergi beyannamesinde mali tablolara yansıtılması sürecinin de
 Konkordato talep eden vekilinin istinaf başvurusunun KABULÜ ile İstanbul 1. Asliye Ticaret Mahkemesi'nin 2024/516 E. 2024/860 K. sayılı 21/11/2024 tarihli kararının 6100 sayılı HMK'nın 353/1.a.6 maddesi uyarınca KALDIRILMASINA …
 
 ## İstanbul BAM 45. HD 2025/731 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1152062200)
 
 6/1 düzenlemesi gereğince hisseleri oranında paydaşların salt çoğunluğu ile alınan karara katılmayanların arsa payları, başkanlıkça rayiç değeri tespit ettirilerek ve bu değerden az olmamak üzere anlaşma sağlayan diğer paydaşlara açık artırma usulü ile satılacağından ihtiyati tedbir kararı verilmemesi halinde müvekkilinin haklarına kavuşmasının imkansız hale geleceğini beyan ederek, kararın kaldırılmasını ve ihtiyati tedbir kararı verilmesini talep etmiştir. İhtiyati tedbir, HMK'da "Geçici Hukuki Korumalar" başlığı altında 389-399 maddeleri arasında düzenlenmiştir.
 Geçici hukuki korumalardan biri olan ihtiyati tedbir; kesin hükme kadar devam eden yargılama boyunca, davacı veya davalının (dava konusu ile ilgili olarak) hukuki durumunda meydana gelebilecek zararlara karşı öngörülmüş, geçici nitelikte geniş veya sınırlı olabilen hukuki korumadır.6100 sayılı HMK'nın 389/1 maddesinde "Mevcut durumda meydana gelebilecek bir değişme nedeniyle hakkın elde edilmesinin önemli ölçüde zorlaşacağından ya da tamamen imkânsız hâle geleceğinden veya gecikme sebebiyle bir sakıncanın yahut ciddi bir zararın doğacağından endişe edilmesi hâllerinde, uyuşmazlık konusu hakkında ihtiyati tedbir kararı verilebilir.'', HMK'nın 390/1 maddesinde "İhtiyati tedbir, dava açılmadan önce, esas hakkında görevli ve yetkili olan mahkemeden; dava açıldıktan sonra ise ancak asıl davanın görüldüğü mahkemeden talep edilir.", HMK'nın 390/3 maddesinde "Tedbir talep eden taraf, dilekçesinde dayandığı ihtiyati tedbir sebebini ve türünü açıkça belirtmek ve davanın esası yönünden kendisinin haklılığını yaklaşık olarak ispat etmek zorundadır'', HMK'nın 391/1 maddesinde "Mahkeme, tedbire konu olan mal veya hakkın muhafaza altına alınması veya bir yediemine tevdii ya da bir şeyin yapılması
@@ -193,6 +215,8 @@ veya yapılmaması gibi, sakıncayı ortadan kaldıracak veya zararı engelleyec
 K A R A R; Gerekçesi yukarıda izah edildiği üzere; 1-İhtiyati tedbir talep eden davacı vekilinin istinaf başvurusunun 6100 sayılı HMK'nın 353/1.b.2 bendi uyarınca KABULÜ ile Bakırköy 7. Asliye Ticaret Mahkemesi'nin 2022/413 E. (derdest) sayılı 05/05/2025 tarihli kararının KALDIRILMASINA ve YENİDEN KARAR VERİLEREK; 2-6100 sayılı HMK'nun 389. vd maddeleri gereğince koşulları oluştuğundan …
 
 ## İstanbul BAM 17. HD 2025/188 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1118548000)
 
 Ayrıca bu husus dışında, kooperatifin 29/06/2002 tarihli 2001 hesap yılı olağan genel kurulu toplantısında, kooperatifin elinde bulunan boş dairelerin iş karşılığında 37.000.000.000 TL'den az olmamak şartıyla yeni üye alınması konusunun görüşüldüğü ve bu konuda işlem yapmak üzere yönetim kuruluna oybirliği ile yetki verildiği ve yine kooperatifin 22/03/2003 tarihinde yapılan 2002 hesap yılı olağan genel kurulu toplantısında, kooperatife ait boş dairelerin 2003 yılı içerisinde değerlendirilebilmesi için yönetim kuruluna en az 33.000.000.000 TL karşılığında üye kaydı yoluyla değerlendirilmesi hususunda yetki verilmesine oybiriliği ile karar verildiğinin anlaşılmasına göre bu bedellerin o tarihe kadar yapılmış olan inşaatın her dairesi için bedeli gösteren somut bir fiyat olduğunu kabul etmek gerekir. Ayrıca davalı ..., arsa sahibi adına kat irtifak tapuları çıkarılırken kooperatif üzerine çıkması gereken tapuları kendi üzerine çıkartarak daireleri piyasaya olan borçlar sebebiyle değerinin çok altında fiyatlarla sattığını savcılık soruşturmasında da ifade etmiştir.
 Buna karşılık davalılar ..., ... ve ... tapuda adlarına kayıtlı dava konusu daireler için daha fazla bedel ödediklerini usulüne uygun delillerle ispat edememişlerdir.Davalı ... tapuda adına kayıtlı olan daireyi doğrudan davalı ...'den değil, dava dışı ...'dan 22/09/2004 tarihinde 8.000.000.000 TL bedelle satın almış olup dinlenen tanık anlatımlarına göre bu tarih itibariyle dairenin bitmiş halde olduğu da anlaşılmaktadır. Alınan bilirkişi raporu ile davalı ...'in iktisap tarihi itibariyle söz konusu dairenin rayiç değerinin 106.000,00 YTL olduğu tespit edildiğine göre iktisap tarihindeki satış ve rayiç değerler arasında ciddi derecede fahiş bir fark bulunmaktadır. Hayatın olağan akışına göre hiçbir kimsenin iktisap tarihindeki değerinin çok altında bir miktara taşınmazını satması düşünülemeyeceğinden davalı ...'in bu hususu gözeterek tapu kaydından kuşkulanması ve daha detaylı bir inceleme yapması gerekirdi. Aksi taktirde iyiniyetli kabul edilmesi mümkün değildir.

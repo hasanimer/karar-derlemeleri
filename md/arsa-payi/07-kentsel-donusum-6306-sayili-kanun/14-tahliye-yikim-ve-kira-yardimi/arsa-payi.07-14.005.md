@@ -21,6 +21,8 @@ uyari: "Derleyenin seçtiği alıntılardır; kararın tamamı değildir. Künye
 
 ## Yargıtay 5. HD 2021/12532 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/700594800)
+
 Mahkemece davanın kabulü ile ..., ... l.Bölge .... pafta 30-31 ada, 1297 parsel, 32 sayılı taşınmazın ...Ticaret Turizm Gıda ve İnş.San.Ltd.Şti.'ne ait 100/4800 arsa paylı A-22/1-2 nolu ikiz villanın deprem açısından ciddi risk taşıdığı anlaşıldığından yıkılarak yeniden yasal mevzuata uygun olarak inşaatı için izin verilmesine karar verilmiş, karar, davalılar ... vd. vekili tarafından temyiz edilmiştir.
 
 …
@@ -35,6 +37,8 @@ Davalılar ... vd. vekilinin temyiz itirazlarının kabulü ile hükmün HUMK'un
 
 ## Yargıtay 15. HD 2018/2526 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/429732600)
+
 Davacılar 1-... 2-... 3-... ile davalılar 1-...
 
 …
@@ -47,6 +51,8 @@ SONUÇ: Yukarıda açıklanan nedenlerle davalıların karar düzeltme talebinin
 
 ## Yargıtay 8. HD 2018/1881 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/407436200)
+
 Davacılar dava dilekçesinde adreslerinin tespitini istemiş; mahkemece, adli yargı yolunun görevsiz olmasından bahisle davanın usulden reddine dair verilen karar davacılar tarafından temyiz edilmiştir.
 
 6306 Sayılı Afet Riski Altındaki Alanların Dönüştürülmesi Hakkında Kanun'un Uygulama Yönetmeliği'nin; 7. maddesinde, riskli yapıların, Riskli Yapıların Tespit Edilmesine İlişkin Esaslara göre tespit edileceği, 8. maddesinde, altmış günden az olmamak üzere süre verilerek riskli yapıların tahliyesi ve yıktırılmasının yapı maliklerinden isteneceği, 16. maddesinde de, riskli yapı olması nedeniyle anlaşma ile tahliye edilen uygulama alanındaki yapıların maliklerine tahliye tarihinden itibaren, Bakanlıkça kararlaştırılacak aylık kira yardımı yapılabileceği, hükme bağlanmıştır.
@@ -57,6 +63,8 @@ SONUÇ: Yukarıda açıklanan esaslar gözönünde tutulmaksızın yazılı şek
 
 ## Yargıtay 20. HD 2015/12612 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/399678700)
+
 Dava, sözleşmenin, değişen ekonomik koşullara uyarlanması istemine ilişkindir.
 
 …
@@ -64,6 +72,8 @@ Dava, sözleşmenin, değişen ekonomik koşullara uyarlanması istemine ilişki
 Somut olayda, davacının, davalılarla kentsel dönüşüm sözleşmesi yaptıklarını bu sözleşme gereğince, davalılar tarafından kendisine kira yardımı ödendiği, ancak ödenen kira yardımının, piyasa rayiç kira bedelleri altında kaldığı, sözleşmenin yapıldığı sıradaki koşulların aleyhine değiştiği iddiası ile kira bedelinin yeni koşullara uyarlanması istemiyle dava açtığı, davacı ve davalılar arasında kentsel dönüşüm ve gelişim projesi muvafakat senedi adı altında davacıya ait ve bir kısım başka taşınmazlarda yapılacak inşaat sonucunda, davacıya verilecek taşınmaza ilişkin sözleşme düzenlendiği ve davacıya ait taşınmazın teslim alındığı, taraflar arasında düzenlenmiş bir kira sözleşmesi bulunmadığı, davalılarca davacının hissesine isabet eden hisseye göre davalıya kira yardımı yapıldığı anlaşılmaktadır.
 
 ## Yargıtay 5. HD 2015/9865 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/141037200)
 
 Dava, tapu tahsis belgeli gecekonduya ve zeminine kamulaştırmasız el atıldığı iddiası ile tazminat, zemin yönünden tazminat talebinin uygun bulunmaması halinde 2981 sayılı Yasa hükümleri uyarınca ödenen bedelin iadesi istemine ilişkindir.
 
@@ -78,6 +88,8 @@ Belediyesinin sorumluluğunda bulunan bu proje kapsamında bölgede yıkım çal
 Davacı vekilinin temyiz itirazları yerinde olduğundan hükmün açıklanan nedenlerle H.U.M.K.nun 428. maddesi gereğince BOZULMASINA …
 
 ## Kayseri BAM 4. HD 2025/1044 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1171531000)
 
 Davalı vekili cevap dilekçesinde özetle;
 
@@ -100,6 +112,8 @@ Davalı vekilinin istinaf başvurusunun ESASTAN REDDİNE …
 
 ## İstanbul BAM 45. HD 2025/815 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1159969400)
+
 Riskli bina tespitinin kesinleşmesinden sonra bu binaların yıktırılması için maliklere 60 günden az olmamak üzere süre verildiği, bu süre içinde riskli binaların yıktırılıp yıktırılmadığı kontrol edileceği, yıktırılmamış ise 30 günden az olmak üzere ek süre verileceği ve verilen bu süreler içinde maliklerce riskli yapılar yıktırılmaz ise, yıktırma işlemleri mahalli idarelerin de iştiraki ile mülki amirler tarafından gerçekleştirileceği, Riskli olarak tespit edilen ve itiraz süreci sonunda riskli olduğu kesinleşen binaların yıktırılması Kanunun emredici hükmü olduğu, Yıkım konusunda maliklerce herhangi bir karar alınmasına veya anlaşma sağlanmasına gerek olmadığı, 30.03.2017 tarihinde itiraz sonrası kesinleşen Yıkım Kararı davacıya tebliğ edildiği, tahliye süresi 60 gün + 30 gün ek süre dikkate alındığında; en son riskli yapının 30.06.2017 tarihinde tahliye edilmiş olması gerektiği, Yangın olduğu hususunda kolluk kuvvetlerinde hazırlanan tutanağın 06.09.2017 tarihli ve Yangın Raporunun da 13.09.2017 tarihli olduğu görülmekle; davacı tarafın riskli yapıyı KANUN GEREĞİ en son 30.06.2017 de tahliye etmesi gerekirken, etmediği- Kanuni süre dolduktan yaklaşık 70 gün sonra iddia edilen
 yangın olayının gerçekleştiği, Kanuni süre ile sınırlı olan ve edinimini yerine getirmeyen davacı sigortalının; davaya konu sigortasının talep edilen yangın ve hırsızlık nedenleri ile teminat altında olduğundan söz edilemeyeceği, davalı sigorta şirketinin sorumluluğunun doğmadığı, ...Kesinleşen yıkım kararının tebliğinin 30.03.2017'de davacıya yapıldığı ve 31.03.2017'de poliçe düzenlendiği, yıkım kararı öğrenildikten sonra poliçe yaptırıldığı ve 3 sene boyunca sigortalanmayan işyerinin kentsel dönüşüm kararı ile sigorta teminatı altına alındığı, yıkım kararı alınan bir işyeri için; bir başka değişle tahliyesi zorunlu hale gelen bir işyeri için; işyeri ikame tazmiantı ve/veya iş durması tazminatı talep edilmesinin mümkün olmadığı,Sigortalı davacının sanki sigortalı değilmiş gibi alması gereken tüm önlem ve koruma tedbirlerini meydana gelebilecek rizikolara karşılık almadığı, taşınma / tahliye kararı dahilinde boşaltılması gerektiği ancak boşaltılmadığı ve sigortalının sorumluluklarının yerine getirmemesi nedeniyle hasarların meydana geldiği poliçeden hasar talebinde bulunduğu, (iyiniyet prensibinin hukuki takdirinin Yüce Mahkemeye ait olduğu), Yangın olayının ne zaman ve nasıl
 gerçekleştiği ve nasıl söndürüldüğüne dair bir belge bulunmadığı, Hırsızlık (yağmalama) olma ihtimaline karşı da gereken önlemlerin alınmadığı, Poliçede bulunan kayıtlar dahilinde; sigortalı mahalde alarm ve kamera sisteminin bulunduğu (sigorta poliçesinde teminat altına alındığı) ancak alarm sisteminin ister yangın ister hırsızlık (yağmalama) olaylarında çalışıp vermiş olduğu sinyaller ve raporlara istinaden bir belgenin dosya kapsamında bulunmadığı, ayrıca kamera kayıtlarının da davacının davasını ispatlar belgeler arasında olmadığı..." nedenleriyle davalının sorumlu olmadığı yönünde kanaat bildirilmiştir.
@@ -109,6 +123,8 @@ gerçekleştiği ve nasıl söndürüldüğüne dair bir belge bulunmadığı, H
 H Ü K Ü M:Gerekçesi yukarıda izah edildiği üzere;1-Davalı tarafın istinaf başvurusunun 6100 sayılı HMK'nın 353/1.b.1 maddesi uyarınca ESASTAN REDDİNE …
 
 ## İstanbul BAM 14. HD 2024/1244 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1066611100)
 
 Dava, iddianın ileri sürülüş biçimine göre TTK'nın 391. maddesi uyarınca davalı şirket yönetim kurulu kararlarının batıl (geçersiz) olduğunun tespiti talebine; istinaf, 05.07.2024 (07.07.2024) tarihli ara karara ilişkindir. İlk derece mahkemesince yapılan yargılama sırasında yönetim kurulu kararı nedeniyle yapılan yıkım iş ve işlemlerinin durdurulması ve bina içindeki yıkıma ilişkin döküm işlemleri konusunda ihtiyati tedbir kararı verilmesi taleplerinin reddine dair verilen 05.07.2024 (07.07.2024) tarihli ara karar verilmiş; bu ara karara davacı vekilince, yasal süresi içinde istinaf başvurusunda bulunulmuştur. İstinaf incelemesi, HMK'nın 355. maddesi uyarınca, ileri sürülen istinaf başvuru nedenleriyle ve kamu düzenine aykırılık yönüyle sınırlı olarak yapılmıştır.
 İlk derece mahkemesinde 06.12.2023 tarihinde davanın açılması üzerine mahkemenin 2023/795 Esas sayılı dosyası üzerinde yürütülen yargılama sırasında mahkemece 05.02.2024 tarihli ve 2023/848 Karar sayılı kararı ile dava şartı yokluğu sebebiyle davanın reddine karar verilmiş, bu kararın ihtiyati tedbir talepli olarak istinaf edilmesi üzerine Dairemizin 02.05.2024 tarih ve 2024/601 Esas, 2024/690 Karar sayılı kararı ile ilk derece mahkemesinin davanın reddi kararı HMK'nın 353/1.a.4 maddesi uyarınca kaldırılmış, davacının ihtiyati tedbir talebinin ise yaklaşık ispatın sağlanamadığı gerekçesiyle reddine karar verilmiştir. Dairemizin kaldırma kararı üzerine mahkemece, 2024/359 Esas sayılı dava dosyası üzerinden yeniden yargılamaya başlanmış, davacı vekilince yeniden ihtiyati tedbir talebinde bulunulmuş, mahkemece 05.07.2024 (07.07.2024) tarihli ara karar ile bu talebin reddine karar verilmiştir. Davacı vekili, riskli yapı kararına dayanılarak davalı tarafından ...
@@ -124,6 +140,8 @@ KARAR; Yukarıda açıklanan gerekçelerle; 1-HMK'nın 353/1.b.1 ve 391/3. madde
 
 ## İstanbul BAM 45. HD 2024/1151 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1064905900)
+
 Asliye Hukuk Mahkemesi'nin 2023/65 Esas sayılı dosyasında alınan emsal bilirkişi raporunda satış vaadi sözleşmesi kurulsa dahi ifa imkansızlığı bulunduğu ve bu ifa imkansızlığından vaat borçlusunun sorumlu olmadığı yönünde değerlendirme yapıldığını, Afet Riski Altındaki Alanların Dönüştürülmesi Hakkında Kanun'un "Uygulamaların Resen Yapılması" başlıklı 6.a maddesinde, riskli yapı ve alanların bulunduğu yerlerde Kentsel Dönüşüm uygulamalarının Bakanlıkça resen yapılabileceği, Bakanlıkça resen kentsel dönüşüm uygulaması yapılacak yerlerdeki satış vaadi ve arsa payı karşılığı inşaat sözleşmelerinin kentsel dönüşümün Bakanlıkça yürütülmesine karar verilmesinden itibaren taraf veya ilgili muvafakati aranmaksızın fesh edilmiş sayılacağı, bu durumda sözleşme taraflarının kira yardımı haricinde birbirlerine yaptıkları ödemeleri genel hükümlere göre talep edebileceği hususlarının düzenlendiğini, dava konusu olayda gayrimenkulün bulunduğu binanın kentsel dönüşüm alanı içinde kaldığını, davacıya Tuzla Belediye Başkanlığı tarafından Afet Riski Altındaki Alanların Dönüştürülmesi Hakkında Mevzuat gereği yıkım ve binaları boşaltma tebligatı gönderildiğini, taraflar arasında geçerli bir satış
 vaadi sözleşmesi kurulsa da mevcut durumda Afet Riski Altındaki Alanların Dönüştürülmesi Hakkında Kanun'un 6. Maddesi kapsamında sözleşme feshedilmiş sayılacağından edimin imkansız hale geldiğini, davacının ihtiyati tedbir için taraf sıfatı ve husumetinin olmadığını, müvekkilleri ile davacı arasında hukuki bir işlem olmadığı gibi davacının kooperatif üyesi olup olmadığının dahi bilinmediğini, müvekkillerine karşı işbu dava ve taleplerin yöneltilemeyeceğini, muhatabın kooperatif olduğunu, yine müvekkillerine de ancak kooperatif tarafından dava açılabileceğini, davacının Kooperatif yönetimine karşı yükümlülüğünü yerine getirip getirmediği belirsiz olup Kooperatifin ise müvekkillerine karşı yüklenmiş olduğu yükümlülükleri yerine getirmediğini, inşaatların müvekkilleri tarafından tamamlandığını, davacının tedbir istemi İstanbul Anadolu 3. Asliye Hukuk Mahkemesi'nin 2013/432 E.
 
@@ -132,6 +150,8 @@ vaadi sözleşmesi kurulsa da mevcut durumda Afet Riski Altındaki Alanların D�
 H Ü K Ü M: Gerekçesi yukarıda izah edildiği üzere; 1-Bir kısım davalılar vekilinin istinaf başvurusunun KABULÜ ile İstanbul Anadolu 5. Asliye Ticaret Mahkemesi'nin 2024/24 Esas (derdest) sayılı 20/03/2024 tarihli ara kararının 6100 sayılı HMK'nın 353/1.a.6 maddesi uyarınca KALDIRILMASINA …
 
 ## İstanbul BAM 13. HD 2024/812 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1035790000)
 
 Dava; davacının davalı bankadan kullandığı kredinin banka muameleleri vergisinden istisna olmasına rağmen banka tarafından haksız vergi tahsilatı yapıldığı iddiasına dayalı olup, kredi taksitleri içerisinde tahsil edilen BSMV tutarlarının iadesi istemine ilişkindir.
 
@@ -149,6 +169,8 @@ HÜKÜM: Yukarıda açıklanan nedenlerle; 1-Davacının istinaf başvurusunun 6
 
 ## İstanbul BAM 44. HD 2024/806 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1023470300)
+
 Ancak taşınmaz maliki eser üzerinde değişiklik yapmadan önce eser sahibinin iznini almakla yükümlü ise de, imar mevzuatı veya yapı güvenliği nedeniyle yapılması zorunlu değişiklikler için kamu düzeni ve menfaati gereği ve kullanım için zaruri olan değişiklikler için eser sahibinin izninin alınmasına gerek yoktur. Davalı vekili, ana taşınmazın 6306 Yasa ve Uygulama Yönetmeliği gereği "riskli yapı" olarak tespit edildiğini, ana taşınmazda bu tespitten sonra yapılacak işlemlerin , zorunlu işlemler olduğunu, yıkılmasına ya da güçlendirilmesine karar verecek, ruhsat işlemlerini yapacak makamların idari merciler olduğunu, mimari proje müellifi olan davalının davaya konu edilen taşınmaza ilişkin olarak “güçlendirme projesine ve ruhsatına" izin verip vermeme yetkisine sahip olmadığını beyan etmiştir. İstanbul Bölge İdare Mahkemesi 6.İdare Dava Dairesinin 2020/941 esas- 17.8.2020 tarihli ilamında özetle ; Davacı ( ...) tarafından, Davalılar BEŞİKTAŞ BELEDİYE BAŞKANLIĞI ve İSTANBUL VALİLİĞİ aleyhine açılan yürütmenin durdurulması istemli davada; “ ... İli, ... İlçesi, ...
 Mahallesi, ... pafta, ... ada, ... parselde bulunan paydaşı olduğu taşınmazın riskli yapı olduğundan bahisle tahliye edilmesine ilişkin Beşiktaş Belediyesi Başkanlığı'nın 18.02.2019 tarih ve E.1263-2066 sayılı işlemi ile işleme dayanak alınan 23.01.2019 tarih ve E.8129 sayılı Çevre ve Şehircilik İl Müdürlüğü itiraz ret kararının iptali ve yürütmenin durdurulması istemiyle açılan davada; yürütmenin durdurulması isteminin reddine ilişkin İstanbul 5. İdare Mahkemesinin 07/07/2020 tarih ve E:2019/1505 sayılı kararının; İstanbul 14.
 
@@ -161,6 +183,8 @@ Sonuç olarak , dosya kapsamında iddia ve savunmaya, saptanan dava niteliğine 
 HÜKÜM: Gerekçesi yukarıda açıklandığı üzere;1-Usûl ve yasaya uygun İstanbul 1. Fikrî ve Sınaî Haklar Hukuk Mahkemesi'nin 08/06/2021 tarih ve 2020/168 E., 2021/259 K. sayılı kararına karşı davacı vekili tarafından yapılan istinaf talebinin 6100 Sayılı HMK'nın 353/1-b/1. maddesi gereğince ESASTAN REDDİNE …
 
 ## İstanbul BAM 17. HD 2022/838 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/782465300)
 
 Dava, tapu iptal ve tescil istemine ilişkindir.
 

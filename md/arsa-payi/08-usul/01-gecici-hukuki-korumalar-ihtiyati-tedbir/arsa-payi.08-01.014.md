@@ -22,6 +22,8 @@ uyari: "Derleyenin seçtiği alıntılardır; kararın tamamı değildir. Künye
 
 ## İstanbul BAM 7. HD 2023/1402 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/904496900)
+
 Dava, inançlı işleme dayalı tapu iptal tescil, takyidatlardan kaynaklı alacak, terditli olarak raiç bedel istemine ilişkindir.
 
 …
@@ -38,6 +40,8 @@ HÜKÜM:Gerekçesi yukarıda izah edildiği üzere: 1-İstanbul Anadolu 11. Asli
 
 ## Bursa BAM 5. HD 2023/1333 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/943426200)
+
 Bu açıklamalar doğrultusunda; mahkemece davacının tedbir talebinin ihtiyati tedbir şartları çerçevesinde değerlendirilmemiş olması doğru olmadığı gibi yukarıda anılan yasa hükümlerinin talep doğrultusunda tartışılmamış olması da uygun görülmemiştir. Çünkü yasadaki özel düzenlemenin, ihtiyati tedbir şartlarına göre değerlendirilmesi talebi karşılayacak nitelikte olacaktır. Diğer yandan, HMK 390.maddedeki ispat yaklaşık ispattır. İkinci alacaklılar toplantısına, davacının alacak talebi ile sınırlı şekilde ve oy kullanmaksızın katılmasına izin verilmesinde bir usulsüzlük olmayacağı gibi işin esası ile ilgili karar verilmiş anlamına da gelmeyecektir. Çünkü yukarıda ifade edildiği üzere, İİK 235.maddede ki belirtilen 302. madde bir anlamda buna engel olmaktadır. Diğer bir husus ise de geçici hukuki koruma niteliğindeki tedbir kararı verilebilmesi için işin yargılamayı gerektirip gerektirmediği hususunun tartışılması yerinde değildir ve düzenlemenin amacına uygun düşmemektedir.
 
 …
@@ -45,6 +49,8 @@ Bu açıklamalar doğrultusunda; mahkemece davacının tedbir talebinin ihtiyati
 Davacı vekilinin istinaf kanun yolu başvurusunun 6100 sayılı HMK 353/1-b-1 maddesi gereğince ESASTAN REDDİNE …
 
 ## İstanbul BAM 3. HD 2023/1288 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/886814100)
 
 Mahkemece 10/10/2022 tarihli ara karar ile özetle; bilirkişi raporunun tasfiye heyetine tevdii ile beyanda bulunmak üzere süre verilmesine, tasfiye heyetinin dilekçesinin taraf vekillerine tebliği ile beyanda bulunduklarında veya bir haftalık kesin sürenin bitiminde tasfiye heyetinin piyasa koşulları güncellenerek satış fiyat listesi üzerinden, satış işlemlerini gerçekleştirmek için yetki verilmesinin ara karar ile değerlendirilmesine, davacı vekilinin davalı şirkete devredilen 29 taşınmaz için tahsil edilen bedelleri yönünden heyet görüşünün istenilmesine, İBAM 3. Hukuk Dairesinin 2021/2823 E. 3564 K sayılı ilamıyla adi ortaklığa ait taşınmazların satışının usulüne uygun yürütüldüğü belirtildiğinden satışların iptal talebinin reddine karar verilmiş, bilahare dosya üzerinden buna bağlı kararların verildiği görülmüştür. Mahkemece istinafa konu 10/10/2022 tarihli ara kararda davanın adi ortaklığın tasfiyesi niteliğinde olduğu ve tasfiye heyetinin oluşturulduğu, ara kararlarda belirtildiği üzere ortaklığın mal varlığının satış ve nakde çevirme işlemlerine devam edildiği ve tasfiye işlemlerinin tamamlanmadığından bahisle ihtiyati haciz talebinin reddine karar verilmiştir.
 HMK'nun "İstinaf Yoluna Başvurulabilen Kararlar " başlıklı 341 .maddesinde "nihai kararlar ve ihtiyati tedbir ve ihtiyati haciz taleplerinin reddi kararları, karşı tarafın yüzüne karşı verilen ihtiyati tedbir ve ihtiyati haciz kararları, karşı tarafın yokluğunda verilen ihtiyati tedbir ve ihtiyati haciz kararlarına karşı yapılan itiraz üzerine verilen kararlara" şeklinde düzenlenmiştir. Eldeki dava yukarıda açıklandığı üzere karma sözleşme niteliğindeki sözleşmeye dayalı açılmış, mahkemece uyuşmazlığın adi ortaklığın fesih ve tasfiyesi hükümlerine göre çözümlenmesine ilişkin tespiti sonrası taraflarca tasfiye heyetin konusunda anlaşamayacaklarını beyan etmeleri üzerine resen tasfiye heyeti atanarak işlemlere devam edilmektedir. Tasfiye heyetinin işlemlerinin yukarıda alıntılanan HMK'nın 341. Maddesi kapsamında istinaf edilebilen kararlardan olmadığı anlaşılmaktadır. İstinafa gelen son karar ihtiyati haciz talebine ilişkindir.
@@ -54,6 +60,8 @@ Bu bağlamda tasfiyenin son aşamasında öncelikle ortaklığın borçları öd
 
 ## Ankara BAM 27. HD 2023/1129 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/968161100)
+
 Davacı vekili; davalı ile müvekkili arasında 17/05/2013 tarihli düzenleme şeklinde kat karşılığı inşaat sözleşmesi imzalandığını, bu sözleşme uyarınca müvekkilinin yükümlülüklerini ağır surette ihlal ettiğini, bu aşamadan sonra sözleşmeye konu ifanın gerçekleşmesinin mümkün olmadığını, davalının haklı nedene dayalı fesih hakkının doğduğunu belirterek Ankara 18 Asliye Hukuk Mahkemesi'nin 2017/4 E sayılı dosyası ile açtığı davada 10918 yevmiye nolu sözleşmenin feshinin tespitine karar verilmesini talep ettiğini, yapılan yargılamada davanın reddine karar verildiğini, kararın temyiz edildiğini ve ilk derece mahkemesinin kararının onandığını, kararın tebliği sonrasında müvekkili firmanın işe devam etmesi için vekaletname verilmesi hususunda davalı tarafa ihtarnameler gönderildiğini, herhangi bir cevap verilmediğini, davalı tarafça Ankara 32.
 
 …
@@ -61,6 +69,8 @@ Davacı vekili; davalı ile müvekkili arasında 17/05/2013 tarihli düzenleme �
 Noterliğinin 10918 yevmiye numaralı Düzenleme Şeklindeki Taşınmaz Mal Satış Vaadi ve Kat Karşılığı İnşaat Sözleşmesi'nin davalı tarafça eylemli olarak gerçekleştirilen feshin (sözleşmeden dönme) haksızlığının tespiti ile haksız fesih sebebi ile kar payı alacaklarından fazlaya ilişkin haklar saklı kalmak kaydıyla şimdilik 1.000,00 TL'nin dava tarihinden itibaren işleyecek olan avans faizleri ile birlikte davalıdan tahsilini, davalı tarafça müvekkili şirketin hakkını elde etmesini engellemek amacı ile davalı kooperatifin 91863 ada, 4 parsel ve uyap üzerinden sorgulanacak malvarlıklarına dava sonucunda verilecek kararın kesinleşmesine kadar geçecek olan sürede 3. kişilere devrinin engellenmesi amacıyla uygun görülecek şekilde ihtiyati tedbir veya ihtiyati haciz kararı verilmesine ve kayıtlara şerh edilmesine karar verilmesini, yargılama giderleri ve vekalet ücretinin davalıdan alınarak müvekkiline verilmesine karar verilmesini talep ve dava etmiştir.
 
 ## Ankara BAM 21. HD 2023/1126 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/932477400)
 
 Mahkemece, alınan bilirkişi raporunda davalı şirket müdürünün yapmış olduğu bir takım işlemlerin açıklamaya muhtaç olduğu, buradan hareketle davalının şirket müdürü sıfatıyla yaptığı işlemlerle yaptığı ödemelerin şirkete zarar verdiği, hatta bir kısım ödemelerin kendine yaptığı ve yine açıklamaya muhtaç bir şekilde davalının şirket nezdinde alacaklı olduğunun bildirildiği gerekçesiyle davacının kayyım atanmasına yönelik tedbir talebinin kabulüne, dava dışı ...ni temsilen ...'in kayyım olarak atanmasına, görev süresinin karar verilinceye kadar devamına, kayyıma mahkeme yazı işleri müdürü aracılığıyla tebligat yapılarak tebliğ tarihinden itibaren göreve başlanmasının sağlanmasına, kayyıma görevi süresince aylık 3.000,00 TL ücret takdirine, ücretinin davacı tarafından karşılanarak ödenmesine karar verilmiştir.
 
@@ -70,6 +80,8 @@ Olayların anlatımı taraflara, hukuki nitelendirme ise hakime aittir. İhtiyat
 
 ## Sakarya BAM 5. HD 2023/1002 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/916495000)
+
 6100 sayılı HMK.nın 389.maddesinde "mevcut durumda meydana gelebilecek bir değişme nedeniyle hakkın elde edilmesinin önemli ölçüde zorlaşacağından ya da tamamen imkansız hale geleceğinden veya gecikme sebebiyle bir sakıncanın yahut ciddi bir zararın doğacağından endişe edilmesi hallerinde, uyuşmazlık konusu hakkında ihtiyati tedbir kararı verilebilir" şeklinde şartları belirtildikten sonra takip eden maddelerde bu konudaki talep, verilecek karar ve içereceği hususlar, teminat, kararın uygulanması gibi sair hususlarda yapılması gerekli usul ve prosedür açıklanmıştır.
 
 6100 Sayılı HMK.nun 394. maddesine göre karşı taraf dinlenmeden verilen ihtiyati tedbir kararına karşı itiraz edilebilir. Bu itiraz, tedbir uygulaması sırasında haberdar olunmuşsa, uygulama tarihinden, tedbir yoklukta uygulanmışsa, uygulamaya ilişkin tutanağın tebliğinden itibaren 1 hafta içinde tedbiri veren mahkemeye yapılır. İtiraz üzerine mahkeme ilgilileri dinlemek üzere davet eder. İtiraz üzerine mahkeme tedbir kararını değiştirebilir veya kaldırabilir. İtiraz hakkında verilen karara karşı kanun yoluna başvurulabilir. HMK.nun 396. maddesine göre ise, durum ve koşulların değiştiği sabit olursa, talep üzerine ihtiyati tedbirin değiştirilmesine veya kaldırılmasına teminat aranmaksızın karar verilebilir. İtiraza ilişkin 394. maddenin 3. ve 4. fıkrası kıyas yoluyla uygulanır.
@@ -77,6 +89,8 @@ Olayların anlatımı taraflara, hukuki nitelendirme ise hakime aittir. İhtiyat
 Buna göre , somut davada , dava kat karşılığı inşaat sözleşmesinden kaynaklı tapu iptal ve tescil davası olup, dava konusu taşınmazın aynına ilişkin olması, tedbirin konulmaması halinde dava konusunun üçüncü kişilere devri ile yeni ihtilafların oluşma ihtimali bulunduğu, öte yandan, davacının dilekçesinde ileri sürdüğü vakıalar ve bunların ispatı için gösterdiği göre iddianın tam ispatı gerekmediğinden yaklaşık ispat koşulunun da oluştuğu, netice olarak, davanın niteliği nazara alındığında HMK'nın 389. Maddesi koşullarının oluştuğu anlaşıldığından mahkemece yüzde onbeşi oranında gösterilecek teminat mukabilinde dava konusu taşınmazlar hakkında ihtiyati tedbir kararı verilmesi yerinde olup davalının istinafında isabet bulunmamaktadır, …
 
 ## Antalya BAM 7. HD 2023/695 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/911600600)
 
 Davacı vekili tarafından açılan dava ile, taraflar arasında 18/08/2020 tarihli ana yüklenici sözleşmesi imzalandığını, davacının ... ilçesi, ... mah. .... ada .... parseldeki taşınmazın anahtar teslim yapım işini üstlendiğini, davacıya hakedişi gereği verilmesi gereken bağımsız bölümler bulunduğunu, davacının sözleşme imzalandığında %25 olan seviyeyi %85'e ulaştırdığını, işlerin eksik olmasında dahi sözleşmeye göre inşaat seviyesine göre bağımsız bölüm tapusunun verilmesi gerektiğini, işin tamamına yakınının tamamlandığını ileri sürerek ... mah. .... ada .... parseldeki ..... nolu bağımsız bölümler üzerine 28.000 Euro karşılığı teminatsız ihtiyati haciz konulmasına, bu bağımsız bölümlerin tapusunun iptaliyle davacı adına tesciline, .... ada .... parselde bulunan tüm taşınmazlar üzerine teminatsız ihtiyati tedbir konulmasına, tescil talebinin kabul edilmemesi halinde bağımsız bölümlerin piyasa rayicine uygun bedeli belirlenerek fazlaya ilişkin hakları saklı kalarak 28.000 Euro'nun, dövizle ödeme kabul edilmemesi halinde 518.988,40 TL'nin davalıdan tahsiline karar verilmesini talep ve dava etmiştir.
 
@@ -98,6 +112,8 @@ Yerel mahkeme ara kararının esası incelenmeksizin ORTADAN KALDIRILMASINA ve i
 
 ## İstanbul BAM 14. HD 2023/681 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/883533400)
+
 Mutlak muvazaa hâlinde görünürdeki muvazaalı sözleşme, TBK'nın 19. maddesi uyarınca kesin olarak hükümsüzdür. Nispi muvazaada ise taraflar aslında başka bir sözleşme yapmak istemektedir; ancak dış dünyaya karşı başka bir sözleşme yapmış gibi davranırlar. Bu durumda görünürdeki muvazaalı sözleşme kesin olarak hükümsüzdür. Gizlenen sözleşmenin geçerliliği ise yasal şekil şartının mevcudiyetine bağlıdır (Tanım için bknz: Yargıtay HGK'nun 2020/1-633 E- 2022/1579 K sayılı, 24.11.2022 tarihli emsal kararı). Bu hukuki açıklamaya göre somut olaydaki iddiaya baktığımızda, davacılar vekilinin muvazaa iddiası, mutlak muvazaa niteliğindedir. Oysa somut olayda davalı ... ile ...- ... Adi Ortaklığını oluşturan şirketler arasında, kat karşılığı inşaat sözleşmelerinin devri konusunda açık bir irade mevcuttur. Sözleşmeler gerçekten devredilmiştir. Bu devir işlemleri, TBK'nın 205. maddesi anlamında sözleşmenin devri niteliğinde olup, arsa maliklerinin de noterden onayları alınarak devir işlemleri gerçekleştirilmiştir.
 Davalı ...'ın, kat karşılığı inşaat sözleşmelerini devrettiği tarih itibariyle bu projeyi yapacak ekonomik yeterliliğinin bulunmadığının tespit edilmiş olması da dikkate alındığında, davalı ...Şirketi'nin ortağı ve yetkilisinin, davalı ... yetkilisiyle baba- oğul olması ya da ... ortakları arasında husumet ve başka bir davanın bulunması yahut şirket ortağının başka bir davada tazminata mahkum olması muvazaayı ispata yeterli görülmemiştir. Nitekim bu devir işlemlerini takiben ...- ... Adi Ortaklığı tarafından inşaata başlanmış, tamamlanma aşamasına getirilmiş, bağımsız bölüm tapuları oluşturulmuş, kat karşılığı inşaat sözleşmelerindeki edimler büyük oranda yerine getirilmiş, davalı adi ortaklığı oluşturan şirketler adına tapu devirleri gerçekleşmiştir. Bu durumda tarafların devir iradesinin gerçek olduğu anlaşılmakta olup davalılar arasında mutlak muvazaa bulunduğundan söz edilemeyeceği kanaatine varılmıştır. Taraflarca gizlenen başka bir sözleşme söz konusu olmadığından nispi muvazaa da söz konusu değildir. Davalı ... tarafından kat kaşılığı inşaat sözleşmelerinin ...- ... Adi Ortaklığına devri karşılığında ... tarafından devir bedeli alındığı anlaşılmaktadır.
 
@@ -109,6 +125,8 @@ Bilirkişi heyet raporunda ve Mali Müşavir ... tarafından düzenlenen uzman r
 HÜKÜM: Gerekçesi yukarıda açıklandığı üzere; 1-HMK'nın 353/1.b.1 maddesi uyarınca, davacılar vekilinin ve davalılar ... Yapı ve ... İnşaat şirketleri vekilinin istinaf başvurularının ayrı ayrı esastan reddine …
 
 ## Ankara BAM 27. HD 2023/676 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/903973100)
 
 Davacı vekili: Taraflar arasında Ankara 54.
 
@@ -130,6 +148,8 @@ HMK'nın 389/1. maddesi uyarınca, mevcut durumda meydana gelebilecek değişme 
 
 ## Antalya BAM 7. HD 2023/674 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/911562000)
+
 Davacı vekili tarafından, davacı yüklenici ile davalı arsa sahipleri arasında düzenlenen kat karşılığı inşaat sözleşmesi ve ek sözleşme gereğince, davalıların tapu devir edimlerini yerine getirmediği iddiasıyla açılmış tapu iptali tescil davasında, davalılardan muris ....mirasçıları ... ve .... vekili, dava konusu .... numaralı bağımsız bölümün üzerindeki ihtiyati tedbir kararının kaldırılmasını ve davacı tarafın işgalinin önlenmesi amacıyla ihtiyati tedbir kararı verilmesini istemiştir.
 
 …
@@ -142,9 +162,13 @@ Davalı ... Mirasçıları ... ve ... vekilinin ihtiyati tedbir kararı verilmes
 
 ## İstanbul BAM 15. HD 2023/626 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/910744800)
+
 Mah. ... ada, ... parselde bulunan ..., ..., ..., ..., ..., ..., ..., ..., ..., ..., ..., ..., ..., ..., ..., ... ve ... nolu bağımsız bölümlerin 3.kişilere devrinin önlenmesi yönünde ihtiyati tedbir konulmasına, HMK 393/1 maddesi uyarınca teminat yatırılmak suretiyle ihtiyati tedbirin uygulanması iş bu ara kararın tefhiminden itibaren 1 hafta içinde talep edilmediği takdirde ihtiyati tedbir kararının kendiliğinden kalkacağı hususunda davacı tarafın uyarılmasına, süresinde talep halinde (teminat yatırılmak suretiyle) ilgili tapu sicil müdürlüğüne yazı yazılmasına karar verilmiştir. Davalı ...
 
 ## İstanbul BAM 15. HD 2023/576 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/899210700)
 
 GEREĞİ GÖRÜŞÜLÜP DÜŞÜNÜLDÜ: Dava; terditli olarak taraflar arasında düzenlenen eser sözleşmesinden kaynaklanan tapu iptal ve tescil, mümkün olmadığı taktirde tazminat talebine ilişkin olup; mahkemece davacı vekilinin ihtiyati tedbir ve ihtiyati haciz taleplerinin reddine dair verilen karara karşı davacı vekilince istinaf talebinde bulunulmuştur. Davacı vekili, davalı şirket ile dava dışı arsa sahipleri arasında arasında 02/07/2020 tarihinde Beyoğlu ... Noterliği'nde ... yevmiye numaralı düzenleme şeklinde taşınmaz satış vaadi ve arsa payı karşılığı inşaat sözleşmesi imzalandığını, bu sözleşme ile davalı şirketin İstanbul İli, Esenyurt İlçesi, ... Mahallesi, ... Ada, ... Parselde bulunan arsada konut inşaatı yapma işini üstlendiğini, akabinde taraflar arasında da 15/07/2020 tarihinde aynı parselde bulunan konut inşaatının "ince iş imalatlarının yapılması işi" konulu bir sözleşme imzalandığını, davacı müvekkilinin bu sözleşmeye göre davalı yüklenicinin taşeronu olduğunu, sözleşmede 11.500.000 TL bedelli ve 2.830.000,00 TL bedelli olmak üzere iki grup iş bulunduğunu, ödeme şeklinin sözleşmenin 3.
 Maddesinin 3.3 maddesinde " işin tutarı kadar projeden (%100) daire Barter olacaktır" şeklinde düzenlendiğini, yapılacak işin hak edişe göre tespit edileceğini, tescil edilecek dairelerin de yapılan işe göre belirleneceğini, ne kadar iş biterse ona denk gelen daire tapularının davacı adına tescil edileceğini, nitekim sözleşmenin 10.12 maddesinde "ilk hak ediş ödemesi 90 gün sonra barter daire tapuları verilecektir" yazılarak tapuların yapılan iş kadar verileceğinin kararlaştırıldığını, taraflar arasındaki sözleşmenin "Ödemeler" başlıklı 10. Maddesinde, bu işlerin ödemesinin ne şekilde yapılacağının belirtildiğini, sözleşmeye göre işin bedelinin; inşaa edilen inşaattaki, davalı asıl yüklenicinin arsa sahipleri ile imzaladığı Beyoğlu ... Noterliği'nin 02/07/2020 tarih ve ... yevmiye nolu sözleşmeye göre hak edeceği tapulardan m2 esasına göre davacı şirkete tapu devri yapması ile olacağını, aynı sözleşmenin 10.9 nolu maddesinde "Hakediş bedeli olarak verilecek dairelerin m2 birim fiyatları Birim Fiyat Tablo 1 için 3.000,00 TL' dir.
@@ -158,6 +182,8 @@ maddede taşerona yani davacıya "sözleşme uyarınca ödemeyi projeden %100 da
 kabul ve taahhüt etmiştir." şeklinde düzenleme yapılmış, bu protokol tanıklar huzurunda firma yetkilileri tarafından imzalanmıştır. O halde yapılan bu açıklamalar ışığında mahkemece dosyanın geldiği aşama ve protokol hükümleri gereğince olayda HMK'nın 389 ve devamı maddelerinde düzenlenen ihtiyati tedbir kararı verilmesini gerektirir yaklaşık ispat koşulunun oluşmadığı gerekçesiyle davacı vekilinin ihtiyati tedbir talebinin reddine karar verilmesi isabetli olmuştur. Açıklanan nedenlerle; 6100 sayılı HMK'nın 355. madde hükmü uyarınca istinaf dilekçesinde belirtilen sebeplerle sınırlı olarak ve kamu düzeni gözetilerek yapılan istinaf incelemesi sonucunda, tarafların iddia ve savunmaları ile tüm dosya kapsamına göre, davacı vekilinin ihtiyati tedbir talebinin reddine ilişkin mahkeme ara kararında, ileri sürülen istinaf sebeplerine göre usul ve esas yönünden yasaya aykırılık bulunmadığı, yaklaşık ispat kriterleri ile yargılama sırasında sunulacak delillere göre talep halinde ihtiyati tedbir şartlarının her zaman yeniden değerlendirilebileceği göz önüne alındığında, davacı vekilinin istinaf başvurusunun HMK'nın 353/1-b-1. bendi gereğince esastan reddine karar verilmesi gerekmektedir.
 
 ## Gaziantep BAM 3. HD 2023/496 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/977907200)
 
 Davalı vekili cevap dilekçesinde özetle; davacının edimini süresinde yerine getirmediğini, ....... tarihinde örnek daire dikkate alınarak ...... D.
 

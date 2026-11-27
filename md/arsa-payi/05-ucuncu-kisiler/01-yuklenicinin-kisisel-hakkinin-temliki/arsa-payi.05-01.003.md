@@ -22,6 +22,8 @@ uyari: "Derleyenin seçtiği alıntılardır; kararın tamamı değildir. Künye
 
 ## Yargıtay 3. HD 2024/476 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1025003800)
+
 Davalı ...'a usulüne uygun tebligat çıkartılmış, ancak davaya cevap vermemiştir.
 
 …
@@ -38,6 +40,8 @@ Temyiz olunan Bölge Adliye Mahkemesi kararının 6100 sayılı Hukuk Muhakemele
 
 ## Yargıtay 7. HD 2023/6399 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1109279200)
+
 Davalı ...
 
 …
@@ -47,9 +51,13 @@ Bölge Adliye Mahkemesi gerekçeli kararında; ''....Davacının dava konusu ba�
 
 ## Yargıtay 7. HD 2023/4721 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/950909300)
+
 2797 sayılı Yargıtay Kanunu’nun (2797 sayılı Kanun) 40 ıncı ve Yargıtay İç Yönetmeliği’nin 18 ... maddeleri uyarınca yapılan ön incelemede; dava konusu uyuşmazlığın temelinin ve temyizin kapsamının, arsa sahipleri ile yüklenici arasında imzalanan kat karşılığı inşaat sözleşmesi gereği yüklenicinin 13.07.2015 tarihinde kat karşılığı temlik suretiyle paydaş olduğu taşınmazda, davacı tüketici ile yüklenici arasında düzenlenen adi yazılı satış sözleşmesi gereği yüklenicinin temlikine dayalı tapu iptali ve tescil mümkün olmadığı takdirde tazminat istemine ilişkin olduğu anlaşılmıştır.
 
 ## Yargıtay 7. HD 2023/4037 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/979112200)
 
 Davacı vekili dava dilekçesinde; müvekkilinin Hocacihan Mahallesi 16118 ada 1 parsel sayılı taşınmazın paydaşı olduğunu, paydaşlarından ...’in 200/2025 payını ve ...’in 200/20205 payını 01.12.2017 tarihli 56885 yevmiye sayılı işlemle davalı Gayrimenkul Taşımacılık Otomotiv Gıda İnşaat Sanayi ve Ticaret Limited Şirketi'ne sattıklarını ileri sürerek yasal önalım hakkı nedeniyle bu paylara ilişkin tapu kaydının iptali ile adına tesciline karar verilmesini talep etmiştir.
 
@@ -71,6 +79,8 @@ Arsa payı karşılığı inşaat sözleşmeleri, arsa sahibi veya sahipleri ile
 
 ## Yargıtay 6. HD 2023/3729 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/989412600)
+
 İlk Derece Mahkemesi kararı asıl ve birleşen dosyalarda davacılar vekili tarafından duruşma istemli temyiz edilmekle; kesinlik, süre, temyiz şartı ve diğer usul eksiklikleri yönünden yapılan ön inceleme sonucunda, 07.11.2023 tarihinde duruşma yapılmasına ve duruşma gününün taraflara davetiye ile bildirilmesine karar verilmiştir.
 
 …
@@ -85,6 +95,8 @@ Temyiz olunan Mahkeme kararının BOZULMASINA …
 
 ## Yargıtay 6. HD 2023/3695 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1019171500)
+
 3.1.Arsa payı devri karşılığı inşaat yapım sözleşmeleri taraflarına karşılıklı hak ve borçlar yükler. Buradaki öncelikli borç arsa sahibine aittir. Her türlü ayıptan ari olarak üzerine inşaat yapılacak arsayı teslim etmek arsa sahibinin öncelikli borcudur. Arsa sahibi ayrıca, yüklenicinin karşı edimi olan inşaat yapmak borcunu ifa etmesinden sonra yükleniciye, sözleşmeye uygun arsa veya kurulmuşsa kat irtifak tapusunu devretmelidir. Buna karşılık yüklenicinin temel borcu bir bina meydana getirmektir. Bina inşasından maksat, o yapının sözleşmeye, fen kurallarına ve amacına uygun imal edilmesidir. Şayet yüklenici, bu nitelikleri taşıyan bir bina meydana getirmişse, sözleşmede ayrık hüküm varsa sözleşmesine, aksi halde eserin tesliminden sonra arsa sahibinden sözleşme ile devri kararlaştırılan arsa payı devrini veya bağımsız bölümlerin adına tescilini isteyebilir. Kuşkusuz, yüklenicinin arsa sahibine karşı teslimden sonra da ayıba karşı tekeffül borcu devam eder.
 
 Arsa payı devri karşılığı inşaat yapım sözleşmesinin yüklenicisi olan taraf, sözleşmede aksine hüküm yoksa teslim borcunu (B.K.m.364) yerine getirdiğinde arsa sahibine karşı kazandığı kişisel hakkını (bağımsız bölüm tapusunun devrini) doğrudan ondan isteyebileceği gibi Borçlar Kanununun 162.maddesi hükmünden yararlanarak yine aksine sözleşme hükmü yoksa arsa sahibinin rızası gerekmeden üçüncü kişilere yazılı olmak koşuluyla (B.K.m.163) devir ve temlik edebilir.Yüklenicinin kişisel hakkını temellük eden üçüncü kişide alacağın temliki hükümlerinden yararlanarak bu hakkını arsa sahibine karşı ileri sürebilir. Zira, alacağı devralan kişi evvelki alacaklının yerine geçer. Borçludan ifayı istemek gerektiğinde de borçluyu ifaya zorlamak artık onun hakkı olur. Ancak, bu tür davalarda yükleniciden temellük edilen kişisel hakka dayanılarak ifanın arsa sahibinden istenmesi halinde mahkemece, yüklenicinin sözleşmesine göre gerçekte neyi istemeye hak kazandığı yönü üzerinde durulmalıdır. Çünkü, yüklenici üçüncü kişiye ancak arsa sahibinden, neyi hak kazanmışsa onu temlik edebilir. Gerçekten, temlik sözleşmesinin konusu bir borç ilişkisinden doğmuş olan alacak ne ise odur.
@@ -96,6 +108,8 @@ Arsa payı devri karşılığı inşaat yapım sözleşmesinin yüklenicisi olan
 İlk Derece Mahkemesi kararının asıl ve birleşen davada davacılar yararına BOZULMASINA …
 
 ## Yargıtay 7. HD 2023/3521 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/926836600)
 
 Davacı vekili; davacı ile davalı .... İnşaat Turizm arasında 11/02/2015 tarihinde 8068 ada, 1 parsel sayılı taşınmaz D Blok 8 numaralı bağımsız bölümün 210.000,00 TL bedelle müvekkiline satılması için anlaştıklarını, binanın yapımının tamamlandığı 2015 yılından bu yana davacının söz konusu taşınmazda ikamet ettiğini, yüklenici ile müvekkili arasında yapılan sözleşme kapsamında davalı .....
 
@@ -117,6 +131,8 @@ Ayrıca yükleniciye bırakılan bağımsız bölüm yüklenicinin temlik ettiğ
 
 ## Yargıtay 6. HD 2023/3432 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/985044700)
+
 Davacılar vekili asıl dava dosyasına konu dava dilekçesinde özetle; arsa sahibi müvekkilleri ile müteahhit Cemalettin Tutaş-Tuztaş İnşaat Taah. Arasında Sivas Merkez Kılavuz Mah.
 
 …
@@ -133,6 +149,8 @@ Yukarıda açıklandığı üzere tapuya ... ilkesinin istisnası, Dairemizin ye
 İlk Derece Mahkemesi kararının BOZULMASINA …
 
 ## Yargıtay 6. HD 2023/3215 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/982844300)
 
 İlk Derece Mahkemesi kararı davalı ... vekilince duruşmalı, davacı vekilince duruşmasız olarak temyiz edilmekle; kesinlik, süre, temyiz şartı ve diğer usul eksiklikleri yönünden yapılan ön inceleme sonucunda, 19.09.2023 tarihinde duruşma yapılmasına ve duruşma gününün taraflara davetiye ile bildirilmesine karar verilmiştir.
 
@@ -156,6 +174,8 @@ Yukarıda (2 ) no.lu bentte açıklanan nedenlerle davalı ... vekilinin temyiz 
 
 ## Yargıtay 6. HD 2023/2602 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/925897300)
+
 Davacı vekili dava dilekçesinde; müvekkilleri ile davalılardan .... San. ve Tic. A.Ş. arasında Zeytinburnu ....
 
 …
@@ -173,6 +193,8 @@ Sözleşmenin tarafların ortak iradesiyle sona ermediği sabit olduğuna göre,
 Netice itibariyle, İmar Kanununa eklenen geçici 16. madde ile getirilen düzenlemenin, arsa payı karşılığı inşaat yapım sözleşmelerinde kararlaştırılan edimlerin ifasına bir etkisi bulunmamakta olup, yapı kayıt belgesinin alınması yüklenicinin iskan ruhsatı alma yükümlülüğünü ortadan kaldırmamaktadır.
 
 ## Yargıtay 6. HD 2023/2211 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/919427800)
 
 Davacı vekili dava dilekçesinde; davacının, dava dışı arsa sahibinin avukatı olduğunu, dava dışı arsa sahibi ile davalı yükleniciler arasında kat karşılığı inşaat sözleşmesinden sonra bir araya gelerek 31.01.2014 tarihli sulh ve kat karşılığı inşaat sözleşmesinin tadili konulu sözleşme imzalandığını, bu sözleşmeye göre dava dışı arsa sahibine düşecek 8,9 ve 13 no.lu bağımsız bölümlerin davacıya satıldığını, ancak bu dairelerin sözleşmede belirtilen nitelikte yapılmadığını ve zamanında teslim edilmediğini beyan ederek şimdilik 10.000,00 TL kira kaybı ve bağımsız bölümlerin sözleşme şartlarına aykırı imal edilmesi sebebiyle şimdilik 200.000,00 TL'nin davalılardan müştereken ve müteselsilen tahsiline karar verilmesini talep etmiştir.
 
@@ -192,6 +214,8 @@ Temyiz olunan Bölge Adliye Mahkemesi kararının 6100 sayılı Kanunun 370 nci 
 
 ## Yargıtay 6. HD 2023/1417 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/908272800)
+
 Davacı vekili dava dilekçesinde; davalı ... tarafından kat karşılığı inşaat sözleşmesi gereğince yapımı üstlenilen ... ilçesi Tece köyü 2 pafta 105 ada 105 parselde kayıtlı taşınmaz üzerindeki binada, kat irtifakına göre B Blok 10. Katta 20 numaralı mesken nitelikli bağımsız bölümün müvekkiline satıldığı ve parasının ödendiğini, noterde düzenlenen satış vaadi sözleşmesine göre 02.01.2010 günü tapuda ferağ işleminin gerçekleştirilmesi gerekmesine rağmen yapılmadığını beyanla, tapu kaydının iptali ile müvekkili adına tescilini talep etmiştir.
 
 …
@@ -207,6 +231,8 @@ Arsa payı karşılığı inşaat yapım sözleşmesinin yüklenicisi olan taraf
 Temyiz olunan Mahkeme kararının ONANMASINA …
 
 ## Yargıtay 6. HD 2023/1151 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/897240300)
 
 Mahkemece bozmaya uyularak yeniden yapılan yargılama sonucunda; davanın kabulüne karar verilmiştir.
 
@@ -233,6 +259,8 @@ Burada yüklenicinin eser sözleşmesinden kaynaklanan borçlarının neler oldu
 (2)no.lu bentte açıklanan nedenlerle bir kısım davalılar vekilinin temyiz itirazlarının kabulü ile hükmün BOZULMASINA …
 
 ## Yargıtay 6. HD 2023/838 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/885282400)
 
 Davacı vekili dava dilekçesinde özetle; davacı ile davalı yüklenici şirket arasında 28/12/2018 tarihinde adi yazılı şekilde davalının yapacağı inşaatın 9. kat Güney-Doğu-Kuzey cepheli 1+1 dairenin 90.000,00 TL bedel karşılığında satımı konusunda sözleşme yapıldığını, satış bedelinin ödendiğini, ancak bağımsız bölümün tapu devrinin yapılmadığını iddia ederek, söz konusu bağımsız bölümün davacı adına tapuya kayıt ve tesciline, bu talep uygun görülmez ise rayiç bedelinin tespit edilerek tahsiline, rayiç bedel belli olmadığı takdirde satış bedelinin satış sözleşmesinin düzenlenme tarihinden itibaren yasal faizi ile birlikte günümüz değerine güncellenerek davalıdan tahsiline karar verilmesini talep etmiştir.
 

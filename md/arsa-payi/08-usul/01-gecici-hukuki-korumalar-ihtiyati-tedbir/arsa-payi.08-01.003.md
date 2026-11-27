@@ -22,6 +22,8 @@ uyari: "Derleyenin seçtiği alıntılardır; kararın tamamı değildir. Künye
 
 ## Yargıtay 4. HD 2015/6302 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/157021900)
+
 Dava, haksız ihtiyati tedbir nedeniyle maddi ve manevi tazminat istemine ilişkindir.
 
 …
@@ -41,6 +43,8 @@ SONUÇ: Temyiz edilen kararın, yukarıda gösterilen nedenlerle BOZULMASINA ve 
 
 ## Yargıtay 23. HD 2015/5704 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/118987300)
+
 Talep konusu olayda İİK'nın 257. maddesinde düzenlenen ihtiyati haciz koşullarının gerçekleştiği açıktır. İhtiyati haciz isteyen alacaklı mahkeme kararına dayanmıştır. İhtiyati haciz talebi henüz mahkeme kararı kesinleşmeden önce yapılmış, temyiz öncesi kararda 12.700,00 TL olarak hükmedilen vekalet ücreti, Yargıtay kararında 5.700,00 TL olarak düzeltilerek karar düzeltme aşamasından da geçmek suretiyle hüküm kesinleşmiştir. Bu durumda itirazı inceleyen mahkemece, 12.700,00 TL vekalet ücreti yerine 5.700,00 TL kabul edilerek, ilk karar düzeltilmek suretiyle 14.361,70 TL üzerinden ihtiyati haciz kararı verilmesi gerekirken, hatalı değerlendirme ile ihtiyati haczin tümden kaldırılmasına karar verilmesi doğru olmamış, kararın bu nedenle bozulması uygun görülmüştür.
 
 SONUÇ: Yukarıda açıklanan nedenlerle; ihtiyati haciz isteyen S.. T.. vekilinin temyiz itirazlarının kabulüyle, ihtiyati haczin kaldırılmasına dair Ankara 2. Asliye Hukuk Mahkemesi'nce verilen 03.02.2015 tarih ve 2015/8 D. İş sayılı ek kararın BOZULMASINA
@@ -48,6 +52,8 @@ SONUÇ: Yukarıda açıklanan nedenlerle; ihtiyati haciz isteyen S.. T.. vekilin
 …
 
 ## Yargıtay 14. HD 2015/2711 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/177577200)
 
 Dava, arsa sahibi ile yüklenici arasındaki arsa payı karşılığı inşaat sözleşmesi gereğince yükleniciden bağımsız bölüm temlik alan davacının taşınmazın üzerindeki takyidatlar kaldırılarak tapu iptali ve tescil, ikinci kademedeki istek ise tazminat taleplerine ilişkindir.
 
@@ -67,9 +73,13 @@ SONUÇ: Yukarıda açıklanan nedenlerle davacı vekilinin temyiz itirazlarını
 
 ## Yargıtay 15. HD 2015/2227 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/182642500)
+
 İçtihat Metni"İhtiyati haciz isteyen (davalı) ... ile karşı taraf (davacı) ... arasındaki davadan dolayı ... Asliye Hukuk Hakimliğince verilen 03.02.2015 gün ve 2015/8 D.iş sayılı hükmün Yargıtayca incelenmesi davacı vekili tarafından istenilmekle dosyadaki kağıtlar okundu gereği konuşulup düşünüldü:
 
 ## Yargıtay 23. HD 2015/1655 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/200202900)
 
 Mahkemece, dosya üzerinde yapılan inceleme sonucunda; arsa sahibi olan ihtiyati tedbir talep edenlerin 6502 sayılı yasa kapsamında tüketici sıfatı taşımadıkları ve taraflar ileri sürmese dahi görevle ilgili düzenlemelerin yargılamanın her aşamasında re'sen gözetileceği gerekçesiyle, mahkemenin görevsizliğine karar verilmiştir.
 
@@ -86,11 +96,15 @@ SONUÇ:Yukarıda (1) numaralı bentte açıklanan nedenlerle, ihtiyati tedbir is
 
 ## Yargıtay 2. HD 2014/22221 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/292592800)
+
 Davacı kadın, davalı eşi adına kayıtlı olup, aile konutu olan taşınmazın kentsel dönüşüm projesi kapsamında yıkıldığını, aralarında görülmekte olan boşanma davası nedeniyle; bu taşınmazla ilgili apartman toplantılarına katılma ve müteahhit ile sözleşme yapmak için ihtiyati tedbir yoluyla kendisine yetki verilmesini istemiş; mahkemece talep reddedilmiştir.
 
 Yargıtay İçtihadı Birleştirme (Hukuk) Genel Kurulunca 21.02.2014 tarihinde 2013/1 esas, 2014/1 karar sayı ile ihtiyati tedbir talebinin reddi veya bu taleplerin kabulü halinde itiraz üzerine verilen kararlara karşı istinaf kanun yolu denetimini yapacak olan Bölge Adliye Mahkemeleri göreve başlayıncaya kadar temyiz yolunun kapalı olduğuna karar verilmiştir. İçtihadı Birleştirme Kararı benzer hukuki konularda adliye mahkemeleri, Yargıtay Daireleri ve Genel Kurulları bağlar (Yargıtay K.m.45/5) ve ilişkin olduğu kesinleşmiş kararları etkilemez ise de görülmekte olan (derdest) bütün işlere etkilidir. Bu bakımdan anılan İçtihadı Birleştirme Kararı uyarınca kararın temyizi kabil değildir. Temyiz talebinin bu sebeple reddine karar vermek gerekmiştir.
 
 ## Yargıtay 17. HD 2014/10758 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/364653800)
 
 Davacı vekili, davalı ...den alacaklı olduklarını, ancak borçlu şirketin alacaklılardan mal kaçırmak amacı ile diğer davalı ile aralarındaki kat karşılığı inşaat sözleşmesi ve gayrımenkul satış vaadi sözleşmesini feshettiklerini öne sürerek B.K.nın 19. maddesi uyarınca fesih işleminin iptali ve sözleşmedeki mal varlıkları üzerine ihtiyati tedbir tedbir konulmasını talep etmiştir.
 
@@ -102,6 +116,8 @@ HUMK'nin uygulanmaya devam edilecek hükümleri, 5236 sayılı Kanunla yapılan 
 
 ## Yargıtay 23. HD 2014/7014 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/119999600)
+
 Davacı D.. A.. vekili, davalı Belediye'nin, müvekkili bankanın vermiş olduğu kredinin kefili bulunduğunu, asıl borçlunun krediyi ödememesi üzerine kredi hesaplarının kat edildiği, diğer davalı E.. A.. ile davalı Belediye arasında arsa payı karşılığı ticaret merkezi yapılması konusunda sözleşme yapıldığını, yüklenici şirketin, alacaklılardan mal kaçırmak amacıyla sözleşme gereği kendisine düşen yerlerin tapularını almaktan kaçındığını ileri sürerek, şirkete isabet eden fakat davalı Belediye adına kayıtlı olan bağımsız bölümlerin tapularının iptali ile şirket adına kayıt ve tescilini talep ve dava etmiş; bağımsız bölümler üzerinde ihtiyati haciz uygulanmasını talep etmiştir.
 
 Mahkemece, 01.08.2013 tarihli tensip zaptı ile talebin kabulü ile 1.026.000,00 TL alacak miktarı üzerinden dava dilekçesinde sayılan taşınmazların ihtiyaten haczine karar verilmiştir.
@@ -111,6 +127,8 @@ Mahkemece, 01.08.2013 tarihli tensip zaptı ile talebin kabulü ile 1.026.000,00
 İİK 'nın 258/son ve 265/son maddeleri uyarınca, ihtiyati haciz talebinin reddi üzerine verilen kararlar ile ihtiyati hacze itiraz üzerine verilen kararlara karşı temyiz yolu açık olup, ihtiyati haciz talebinin kabulü kararı aleyhine İİK'nın 265/1. maddesi uyarınca sadece itiraz yolu açıktır. Mahkemece, itiraz üzerine aynı Kanun'un 265/4. maddesi uyarınca inceleme yapılarak karar verilmelidir. Bu nedenle mahkemece, temyiz isteminin, ihtiyati haciz talebinin kabulü kararının temyizi kabil olmadığı gerekçesiyle, HUMK'nın 432/4. maddesi uyarınca reddine karar verilmesi gerekirken, dosyanın temyiz incelemesi yapılmak üzere Yargıtay'a gönderilmesi doğru olmamış, temyiz isteminin reddi kararı 01.06.1990 gün ve 1989/3 Esas, 1990/4 karar sayılı İçtihadı Birleştirme Kararı uyarınca Yargıtay tarafından da verilebileceğinden, ihtiyati hacze itiraz eden davalı vekilinin temyiz isteminin reddine karar vermek gerekmiştir.
 
 ## Yargıtay 23. HD 2014/5864 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/119918100)
 
 Davacı vekili, taraflar arasındaki arsa payı karşılığı inşaat sözleşmesi gereğince davacı yüklenicinin edimini yerine getirerek inşaatı bitirdiğini, sözleşmeye göre binadaki B Blok 1, 12, ve 13 nolu meskenlerin davacıya verilmesi gerektiğini, ancak bu dairelerin davacıya devredilmediği gibi tapudan üçüncü şahıslara satışının yapıldığını ileri sürerek, dava konusu bu üç bağımsız bölümün bedellerinin tespiti ile davacıya ödenmesini talep ve dava etmiştir.
 
@@ -131,6 +149,8 @@ SONUÇ:Yukarıda (1) nolu bentte açıklanan nedenlerle, davacı vekilinin temyi
 
 ## Yargıtay 23. HD 2014/4345 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/114645500)
+
 Davacı vekili, müvekkili ile davalı yükleniciler arasında 19.06.1994 tarihinde arsa payı karşılığı inşaat sözleşmesi imzalandığını ve sözleşmeye aykırı imalat yapıldığından 2004 yılında sözleşmenin sona erdirildiğini ileri sürerek, yapılan inşaatın güçlendirilmesi ve eksik imalatın davacı tarafından tamamlanması için harcanılan masraflara mahsuben fazlaya ilişkin hakları saklı kalmak kaydıyla 350.000,00 TL'nin davalılardan faiziyle birlikte tahsilini ve dava tarihinden önce Konya 2. Asliye Hukuk Mahkemesi'nin 2008/97 D.İş-E. ve 96 D.İş-K. sayılı kararıyla davalı A.. B..'in yedi adet taşınmazına konulan ihtiyati haczin devamına karar verilmesini talep ve dava etmiştir.
 
 Davalı T.. Ö.. vekili, müvekkilinin inşaatın fenni mesulü olarak görevini özenle yerine getirdiğini ve sözleşmenin de tarafı olmadığını savunarak, davanın reddini istemiştir.
@@ -150,6 +170,8 @@ SONUÇ: Yukarıda açıklanan nedenlerle, ihtiyati haciz talep eden-davacı veki
 
 ## Yargıtay 23. HD 2014/4163 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/114308600)
+
 Mahkemece, iddia, savunma, toplanan deliller ve tüm dosya içeriğine göre; davalı arsa sahipleri murisi ile davacı yüklenici arasında 29.03.1995 tarihli sözleşme imzalandığı, inşaat ruhsatının 24.09.1996 tarihinde alındığı, ancak taşınmazın kıyı kenar çizgisi içinde kaldığı için Maliye tarafından 29.11.1996 tarihinde tapu iptali, müdahalenin önlenmesi ve kâl davası açıldığı ve yapılan yargılama sonunda davanın kabulüne karar verilip, muris adına olan tapu kaydının iptaline, müdahalenin önlenmesine ve taşınmaz üzerindeki yapıların kaldırılmasına karar verilip, kararın 13.12.2004 tarihinde kesinleştiği, sözleşmenin imzalanmasından sonra meydana gelen ifa imkansızlığı nedeni ile tapuya tescilinin mümkün olmadığı, bu durumun mahkeme kararına dayandığı için arsa maliklerine yüklenecek bir kusurun bulunmadığı, tapu kaydına 10.12.1996 tarihinde ihtiyati tedbir kararı konulduğu, davacı yüklenicinin bu hususu bilmesi gerektiği, davacının inşaata devam etmesi sonucu oluşan zarardan davalılara atfedilecek bir kusurun bulunmadığı gerekçesi ile davanın reddine karar verilmiştir.
 
 …
@@ -162,6 +184,8 @@ SONUÇ: Yukarıda açıklanan nedenlerle, davacı vekilinin temyiz itirazların�
 
 ## Yargıtay 19. HD 2014/2615 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/106907800)
+
 Davalı vekili, takibe konu senedin teminat senedi olmadığını, davacıya verdiği para karşılığında senedi aldığını savunarak davanın reddini ve davacı aleyhine tazminata hükmedilmesini istemiştir.
 
 Mahkemece toplanan delillere göre; taraflar arasındaki sözleşmede takibe konu senedin teminat senedi olduğuna ilişkin bir hükmün bulunmadığı, davacının da iddiasıyla ilgili yazılı bir delil sunmadığı, davalı asilin senedin teminat senedi olmadığına ilişkin yemin ettiği, dolayısıyla davacının iddiasını ispatlayamadığı gerekçesiyle davanın reddine karar verilmiş, hüküm davalı vekili tarafından temyiz edilmiştir.
@@ -173,6 +197,8 @@ Somut olayda davacı tarafın talebi üzerine ihtiyati tedbir kararı verilmiş 
 SONUÇ: Yukarıda açıklanan nedenlerle davalı vekilinin temyiz itirazının kabulü ile hükmün BOZULMASINA …
 
 ## Yargıtay 23. HD 2014/179 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/109102400)
 
 Davacı vekili, müvekkili ile davalı E.. K.. 22 parsel sayılı taşınmazın tamamının maliki iken 09.05.2006 tarihinde, arsa payı karşılığı inşaat sözleşmesi yapılarak, imal edilecek beş dairenin müvekkiline, bir dairenin ise arsa sahibi E..
 
@@ -200,6 +226,8 @@ SONUÇ :Yukarıda (1) numaralı bentte açıklanan nednelerle, davacı vekilinin
 
 ## Yargıtay 14. HD 2013/15947 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/659370800)
+
 Davacı vekili tarafından, davalılar aleyhine 27.01.2009 gününde verilen dilekçe ile yüklenicinin temlikine ve muvazaa iddiasına dayalı tapu iptali ve tescil olmazsa tazminat istenmesi üzerine yapılan muhakeme sonunda; tapu iptali ve tescil isteminin reddine, tazminat isteminin davalı ... İnşaat yönünden kabulüne dair verilen 16.01.2013 günlü hükmün Yargıtayca, duruşmalı olarak incelenmesi davacı ... vekili tarafından istenilmekle, tayin olunan 26.11.2013 günü için yapılan tebligat üzerine temyiz eden davacı vekili Av. ... ile karşı taraftan davalı ... Yapı Turizm ve ... vekili Av. ... geldiler.
 
 …
@@ -220,6 +248,8 @@ SONUÇ: Yukarıda açıklanan nedenlerle davacı vekilinin temyiz itirazlarını
 
 ## Yargıtay 11. HD 2013/12296 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/454037300)
+
 Davacı vekili, müvekkili şirketin tek malvarlığı olan 1270 nolu taşınmazın dönemin yönetim kurulu ve denetçileri olan davalılar ve davalı şirkete hukuka aykırı olarak değerinin çok altında muvazaalı olarak satıldığını, bu satış karşılığında şirket kasasına para girişi olmadığını, şirketin fiilen içinin boşaltıldığını, aynı taşınmaz ile ilgili olarak ortaklarca 2012/150 E. sayılı dosyada da tapu iptali davası açılıp derdest olduğunu, davalılar ... ve ... ’ın davalı şirket ile kat karşılığı inşaat sözleşmesi imzaladığını, 111 adet dairenin davalı şirkete verildiğini, dava konusu taşınmazların iyiniyetli üçüncü kişilere satılması ihtimali bulunduğunu ileri sürerek, davalılar adına yapılan usulsüz taşınmaz tescillerinin iptalini, davacı şirket adına tescilini, dava konusu taşınmazlar üzerine teminatsız olarak tedbir konulmasını, taşınmazların satılması ihtimaline binaen şimdilik 224.000 TL’nın tazminat olarak ödenmesine karar verilmesini talep ve dava etmiştir.
 
 Davalılar vekilleri, davanın ve tedbir talebinin reddini istemişlerdir.
@@ -231,6 +261,8 @@ Mahkemece, Dairemiz bozma ilamına uyularak dava konusu taşınmazın tevhit ve 
 6100 sayılı HMK'nın 396. maddesinde durum ve koşulların değişmesi nedeniyle tedbirin kaldırılmasının istenebileceği ve itiraza ilişkin 394. maddenin 3. ve 4. fıkrasının kıyas yoluyla uygulanacağı belirlenmiştir. İtiraza ilişkin olarak kıyas yoluyla uygulanacağı belirtilen fıkralar arasında 394. maddenin 5. fıkrasının yer almaması ve kanun yolunun da bu fıkrada düzenlenmiş bulunması nedeniyle, durum ve koşulların değişmesi sebebiyle ihtiyati tedbir kararının kaldırılması talebinin mahkemece kabulü kararına karşı temyiz yolu açık bulunmamaktadır. Bu itibarla, ihtiyati tedbir isteyen davacı vekilinin temyiz isteminin reddine karar vermek gerekmiştir.
 
 ## Yargıtay 23. HD 2013/8266 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/526187000)
 
 Davacılar vekili asıl davada, arsa sahibi müvekkilleri ile yüklenici vekili arasında arsa payı karşılığı inşaat sözleşmesi akdedildiğini, davalının edimlerini tam olarak ve zamanında yerine getirmediğini ileri sürerek, inşaatı geç teslim edilmesi nedeniyle yapı ruhsatı tarihi ile teslim edilmesi gereken tarih arasındaki dönem için 86.000,00 TL kira kaybı alacağının, yapı ruhsatı 2,5 yıl geç alındığından 60.000,00 TL zararın, sözleşme kapsamında davalının davacılara vermesi gereken 70.000,00 USD karşılığı 91.000,00 TL’nin, yapı projeye ve sözleşmeye uygun olarak inşa edilmediğinden oluşan 350.000,00 TL değer kaybı zararının, davalı ile sözleşme yapılması nedeniyle uğranılan 150.000,00 TL menfi zararının ve geç teslimden kaynaklanan 63.000,00 TL munzam zararın davalıdan tahsiline karar verilmesini talep ve dava etmiş; ıslah dilekçesi ile 70.000,00 USD karşılığı 91.000,00 TL’nin, 173.754,00 TL kira kaybı alacağı ile temerrüt nedeniyle oluşan 205.429,00 TL işlemiş avans faizinin, faiz talebi kabul edilmezse denkleştirici adalet ilkesi gereğince 173.754,00 TL kira kaybının güncel değeri 300.511,41 TL’nin tahsilini istemiş; birleşen davada, 01.09.1998 tarihinde teslim gerçekleşmediğinden
 davalının temerrüde düştüğünü, asıl dava ile 2005 yılı mart ayına kadar kira kaybının istenildiğini, taşınmazın 05.06.2007’de 3. bir kişiye devredildiğini ileri sürerek, asıl dava tarihinden taşınmazın devir tarihi olan 05.06.2007’ye kadar olan dönem için mahrum kalınan kira kaybı bedeli 10.000,00 TL’nin davalıdan tahsilini talep ve dava etmiş; ıslah işlemiyle talep miktarını yükselterek 94.094,00 TL’nin davalından tahsilini istemiştir.
@@ -248,6 +280,8 @@ Ayrıca HMK’nun 389/1. ( HUMK’nun 101/b.1 ) maddesi gereğince, uyuşmazlık
 SONUÇ: Yukarıda (1) numaralı bentte açıklanan nedenlerle taraf vekillerinin diğer temyiz itirazlarının reddine, (2) numaralı bentte açıklanan nedenlerle, diğer temyiz itirazlarının kabulü ile hükmün, taraflar yararına BOZULMASINA …
 
 ## Yargıtay 23. HD 2013/4195 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/491849700)
 
 Mahkemece, işbu dosya ile birleşen 2012/451 E. sayılı dosyada, ....08.2012 tarihli tensip ara kararı ile, ....000,00 TL teminat karşılığında dava konusu taşınmaz üzerine ihtiyati tedbir konulmasına karar verilmiştir.
 

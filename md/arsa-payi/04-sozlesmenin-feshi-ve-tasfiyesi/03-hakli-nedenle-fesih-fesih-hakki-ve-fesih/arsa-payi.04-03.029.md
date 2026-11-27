@@ -22,6 +22,8 @@ uyari: "Derleyenin seçtiği alıntılardır; kararın tamamı değildir. Künye
 
 ## Yargıtay 14. HD 2011/2206 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/761260900)
+
 Dava, yüklenicinin temliki işlemine dayalı tapu iptali tescil, ikinci kademedeki istek ise satış vaadine konu bağımsız bölümün rayiç değerinin tahsili talebine ilişkindir.
 
 Davalı arsa sahibi, davacı ile akdi bir ilişkisi olmadığını, yüklenici ile yapılan sözleşmede eserin 31.07.2006 tarihine kadar tamamlanmaması durumunda kendisine fesih yetkisi verildiğini, açılan davanın reddini savunmuştur.
@@ -40,6 +42,8 @@ SONUÇ: Temyiz olunan kararın yukarıda açıklanan nedenlerle BOZULMASINA …
 
 ## Yargıtay 15. HD 2011/2100 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/765273600)
+
 Diğer yandan, 22.05.1998 tarihli kat karşılığı inşaat sözleşmesi ile üzerine inşaat yapılması kararlaştırılan ... ili ... mahallesi ... pafta, ... ada ... parsel sayılı taşınmazda ... Belediyesinin de 513/2400 oranında hissedar olduğu ve belediye ile davalı yüklenici şirket arasında 30.04.1998 tarihinde ayrıca bir kat karşılığı inşaat sözleşmesi düzenlendiği dosya kapsamından anlaşılmaktadır. Tapuda hissedar olan dava dışı ... Belediye Başkanlığı'nın da davada taraf olması gerekir ise de, anılan belediye tarafından yüklenici şirket aleyhine 26.12.2001 tarihinde, 30.04.1998 tarihli sözleşmenin feshi istemiyle ... Asliye Ticaret Mahkemesinde açılan davada, sözleşmenin feshine karar verilip, verilen karar da kesinleştiğinden, ... Belediye Başkanlığı'nın temyize konu eldeki davada ayrıca taraf olmasına gerek bulunmamaktadır.
 
 O halde mahkemece yapılacak iş, 22.05.1998 tarihli kat karşılığı inşaat sözleşmesini arsa sahibi olarak imzalayan ve 19.02.2001 tarihinde vefat ettiği dosyada bulunan Eskişehir 3. Sulh Hukuk Mahkemesi'nin 25.02.2008 tarihli veraset ilâmından anlaşılan ... 'in mirasçısı ... ile arsa sahibi ...'un ve ayrıca taşınmazdaki zemin kat 1 nolu bağımsız bölümü davalı ...'e devreden ...'nın Türk Medeni Kanununun 692/I. maddesine göre davaya muvafakatlerini sağlamak, bu mümkün olmadığı taktirde adı geçenler hakkında bu dava ile birleştirilmek üzere dava açmak için davacıya süre verilip, bu davanın tarafı olmalarını temin etmek, bu şekilde taraf teşkili yapıldıktan sonra işin esasını incelemekten ibarettir.
@@ -49,6 +53,8 @@ O halde mahkemece yapılacak iş, 22.05.1998 tarihli kat karşılığı inşaat 
 SONUÇ: Yukarıda açıklanan nedenlerle kararın BOZULMASINA …
 
 ## Yargıtay 15. HD 2011/2040 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/17070500)
 
 Dava, arsa payı karşılığı inşaat yapım sözleşmesinin feshi, menfi zarar, fesih edilemeyen süreyle ilgili gecikme cezası alacağı ile men'i müdahale istemlerine ilişkindir.
 
@@ -63,6 +69,8 @@ SONUÇ: Yukarıda 1. bentte açıklanan nedenlerle davacının diğer temyiz iti
 
 ## Yargıtay 15. HD 2011/769 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/507923900)
+
 İstısna (eser) sözleşmelerinin bir türü olan kat karşılığı inşaat sözleşmelerinde yüklenicinin kendi kusuruyla işi muayyen bir zamanda bitirmeyerek temerrüde düşmesi nedeniyle iş sahibi tarafından sözleşmenin feshi halinde, uyuşmazlığın kural olarak Borçlar Kanunu'nun 106-108. maddeleri hükümleri çerçevesinde çözümlenmesi gerekeceğine, ancak, olayın niteliği ve özelliğinin haklı gösterdiği durumlarda, Medeni Kanunun 2. maddesi hükmü gözetilerek sözleşmenin ileriye etkili sonuç doğuracağına; 25.01.1984 gün ve 3/1 sayılı İçtihadı Birleştirme Kararıyla, karar verilmiştir. Burada feshin geriye ve ileriye etkili olmasının sonuçları üzerinde durulmasında yarar vardır. Bilindiği üzere fesih, sözleşme ilişkisini sona erdirmeye yönelik, bozucu yenilik doğuran bir haktır. Feshin geriye etkili olması durumunda, sözleşme hiç yapılmamış (yok) farzedilerek hüküm doğuracağından taraflar karşılıklı olarak birbirlerine verdiklerini sebepsiz zenginleşme hükümlerince geri …
 
 …
@@ -70,6 +78,8 @@ SONUÇ: Yukarıda 1. bentte açıklanan nedenlerle davacının diğer temyiz iti
 SONUÇ: Yukarıda 1. bentte açıklanan nedenlerle tarafların sair temyiz itirazlarının reddine, 2. bent uyarınca tarafların temyiz itirazlarının kabulüyle kararın taraflar yararına BOZULMASINA …
 
 ## Yargıtay 15. HD 2011/495 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/507464700)
 
 Kat karşılığı inşaat sözleşmesi nedeniyle yükleniciye devredilen veya yüklenici tarafından da üçüncü kişilere devredilen tapu paylarının iptâli davası açılması durumunda kat karşılığı inşaat sözleşmesinin feshi açıkça dava konusu yapılmasa dahi, arsa sahibi tarafından devredilen tapu payının iptâli ve adına tescili isteminin sözleşmenin feshini de içerdiği Dairemizce kural olarak kabul edilmektedir.
 
@@ -80,6 +90,8 @@ Somut olayda, davacı arsa sahibi tarafından yüklenici aleyhine açılan sözl
 SONUÇ:Yukarıda açıklanan nedenlerle kararın birleşen davacı yönünden temyiz eden davalılar yararına BOZULMASINA …
 
 ## Yargıtay 15. HD 2011/309 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/489090800)
 
 Dosya içerisine getirtilen belediye işlem dosyasından 522 ada 206 parsel numaralı taşınmaz üzerine yapılan inşaatın ruhsatsız olduğu, kaçak inşaat niteliğinde bulunduğu anlaşılmaktadır. Dosyaya rapor veren İnşaat Mühendisi Kısmet Gürsel'de raporunda inşaatın ruhsatsız olması nedeniyle 3194 Sayılı İmar Kanunu'na aykırı olarak yapıldığını, ruhsata bağlanmasının mümkün olmadığını açıklamıştır. Davalı yüklenici tarafından yapılan inşaat ruhsatsız olup kaçak inşaat durumunda bulunduğundan, ruhsata bağlanması da mümkün olmadığından bu nitelikteki bir inşaatın ekonomik değerinin olmadığı açıktır. Davalı yüklenicinin kat karşılığı inşaat sözleşmesi gereği sözleşmede kendisine verilmesi kararlaştırılan bağımsız bölümlere hak kazanabilmesi için inşaatı imara, projesine uygun ve ruhsatlı olarak yapması zorunludur. Mahkemece inşaatın ruhsatsız olması ve ruhsata bağlanmasının mümkün olmaması dikkate alınarak sözleşmenin geriye etkili olarak feshine ve yüklenici adına devredilen ve halen adına kayıtlı olan tapu payının iptâline davacı arsa sahibi adına tesciline karar verilmiştir.
 Yüklenicinin arsa sahibinden devraldığı 20/100 payın 16/100 payını diğer davalılar olan üçüncü kişilere tapuda devrettiği anlaşılmaktadır. Yüklenici dışındaki davalıların hak sahibi olabilmeleri için yüklenicinin edimini yasal şekilde ve tam olarak yerine getirmesi zorunludur. Yükleniciye devredilen pay avans niteliğinde olduğundan yüklenicinin edimini yerine getirmediği durumlarda ondan pay devralan üçüncü kişilerin hak sahibi olmaları mümkün değildir. Böyle bir durumda üçüncü kişilerin iyiniyetlerine değer verilmesi de mümkün bulunmamaktadır.
@@ -92,6 +104,8 @@ sahibi yararına BOZULMASINA …
 
 ## Yargıtay 15. HD 2011/285 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/489226000)
+
 Dava, arsa payı karşılığı inşaat yapım sözleşmesi ve ek sözleşmenin feshine, davacı kooperatifin acz içinde bulunduğunun tespitine ve davacı tarafından yapılan konut inşaatlarının fiziki gerçekleşme seviyesinin belirlenmesi istemlerine ilişkindir.
 
 …
@@ -101,6 +115,8 @@ Bu halde mahkemece davacı yüklenicinin aczi sözleşmenin feshini gerektiren y
 SONUÇ:Yukarıda açıklanan nedenlerle temyiz itirazlarının kabulü ile hükmün davalı yararına BOZULMASINA …
 
 ## Yargıtay 15. HD 2011/196 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/489166800)
 
 Davacı vekili 27.11.2006 tarihli ıslah dilekçesi ile müvekkilinin payına düşen 3 adet dairenin arsa sahipleri adına olan tapu kayıtlarının iptâli ile müvekkili adına tescilini istemiş, ıslah harcını da 08.05.2009 tarihinde yatırmıştır.
 
@@ -116,6 +132,8 @@ SONUÇ:Yukarıda 1. bentte belirtilen nedenlerle davalı ve birleşen davada dav
 
 ## Yargıtay 15. HD 2011/94 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/489256600)
+
 İİK'nın 94. maddesi uyarınca açılan davaların kabul edilebilmesi için yüklenicinin arsa sahiplerinden yaptığı işe karşılık almadığı ayni hakkının bulunması zorunludur. Somut olayda yüklenici şirket ile arsa sahipleri arasındaki kat karşılığı inşaat sözleşmesinin geriye etkili olarak feshedilmesinden sonra 30.09.2006 tarihli ibraname düzenlenmiş, yüklenicinin üçüncü kişilere sattığı 8 ve 9 numaralı bağımsız bölümler dışında arsa sahiplerinden herhangi bir alacak hakkının kalmadığı kabul edilmiştir. Kat karşılığı inşaat sözleşmesinin geriye etkili olarak feshedilmesinden sonra düzenlenen 30.09.2006 tarihli ibraname dikkate alındığında dava dışı yüklenici şirketin davaya konu teşkil eden bağımsız bölümler üzerinde herhangi bir hakkının kalmadığı sonucuna varılmaktadır. Arsa sahipleri 8 ve 9 numaralı bağımsız bölümleri yüklenici şirkete bırakmakla yüklenici şirket tarafından yapılan imalâtın bedelini ödediklerine göre, arsa sahiplerinin sebepsiz zenginleşmelerinden de sözedilmesi mümkün değildir.
 
 …
@@ -123,6 +141,8 @@ SONUÇ:Yukarıda 1. bentte belirtilen nedenlerle davalı ve birleşen davada dav
 SONUÇ: Yukarıda açıklanan nedenlerle kararın davalı arsa sahipleri yararına BOZULMASINA …
 
 ## Yargıtay 3. HD 2010/12035 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/965960200)
 
 Davacı vekili dilekçesinde; 12 parsel sayılı taşınmaz üzerinde inşa edilen bodrum, zemin ve 3 normal kattan oluşan binada tarafların paydaş olduğunu, ancak binayı fiilen taksim ederek kullanmakta olan davalıların, davacının kullanma ve yararlanma hakkına rıza göstermediklerini, kaldı ki daire sayısının azlığı nedeni ile tüm paydaşların birlikte kullanımının mümkün olmadığını, bu sebeple davacının açtığı ortaklığın giderilmesi davasının sonuçlanmak üzere olduğunu ileri sürerek; ortaklığın giderilmesi davasının açıldığı tarih olan 14.01.2004 tarihi ile dava tarihi arasındaki dönem için fazlaya ilişkin hakları saklı kalmak kaydıyla ecrimisil bedeli olarak şimdilik 10.000 TL. nin tahakkuk tarihinden itibaren işleyecek yasal faizi ile birlikte tahsilini talep ve dava etmiştir.
 
@@ -140,6 +160,8 @@ Bu itibarla yukarıda açıklanan esaslar gözönünde tutulmaksızın yazılı 
 
 ## Yargıtay 3. HD 2010/10483 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/966059200)
+
 Davalılar davanın reddini dilemişlerdir.
 
 …
@@ -156,6 +178,8 @@ Dava konusu binanın toplam alanının önceki kesinleşen kat karşılığı in
 Bu itibarla yukarıda açıklanan esaslar gözönünde tutulmaksızın yazılı şekilde hüküm tesisi isabetsiz, temyiz itirazları bu nedenlerle yerinde olduğundan kabulü ile hükmün HUMK.nun 428. maddesi gereğince BOZULMASINA ve peşin alınan temyiz harcının istek halinde temyiz edene iadesine …
 
 ## Yargıtay 14. HD 2010/8449 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/769224500)
 
 Dava, taşınmaz satış vaadi sözleşmesine dayalı tapu iptali ve tescil, ikinci kademedeki ve ıslah yoluyla artırılan istek satış vaadine konu taşınmaz bedelinin tahsili istemlerine ilişkindir.
 
@@ -175,6 +199,8 @@ SONUÇ:Yukarıda 1. bentte açıklanan nedenlerle hükmün davacı yararına BOZ
 
 ## Yargıtay 15. HD 2010/7282 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/778137000)
+
 Somut olayda, davacılar ile davalı yüklenici ... arasındaki 30.07.2001 tarihli kat karşılığı inşaat sözleşmesinin yüklenicinin temerrüdü nedeniyle geriye etkili feshine karar verildiğine ve bu karar davacılar ile davalı yüklenici ... tarafından temyiz edilmeksizin kesinleştiğine göre, gerek davalı yüklenicinin ve gerekse onun talimatıyla ve elinde bulunan arsa sahiplerine ait vekâletname ile yaptığı satış sonucu devralan kişilerin malik olmaları ve Medeni Kanunun 1023. maddesindeki iyiniyet kuralından faydalanmaları mümkün değildir.
 
 Bu durumda kat karşılığı inşaat sözleşmesinin geriye etkili olarak feshine karar verilmiş olması dikkate alınmak suretiyle davacıların tapu iptâli ve tescil istemlerinin de kabulüne karar verilmesi gerekirken, Medeni Kanunun 1023. maddesi gerekçe yapılarak ve davalılar ... ile ...'nin iyiniyetli malik olduklarından sözedilerek, tapu iptâli ve tescil isteminin reddine karar verilmesi doğru olmamış, kararın bozulması gerekmiştir.
@@ -182,6 +208,8 @@ Bu durumda kat karşılığı inşaat sözleşmesinin geriye etkili olarak feshi
 SONUÇ: Yukarıda açıklanan nedenlerle kararın tapu iptâli tescil istemlerinin reddine ilişkin bölümünün davacı arsa sahipleri yararına BOZULMASINA …
 
 ## Yargıtay 14. HD 2010/7104 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/768834600)
 
 Dava ve birleştirilen dava, davalı arsa sahipleri ile davalı yüklenici arasında düzenlenen arsa payı karşılığı inşaat sözleşmesine dayalı tapu iptali ve tescil isteğine ilişkindir.
 
@@ -203,6 +231,8 @@ SONUÇ: Yukarıda davalıların temyiz itirazlarının yukarıda (1). bentte yaz
 
 ## Yargıtay 15. HD 2010/6481 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/779461600)
+
 Dava, arsa payı karşılığı inşaat yapım sözleşmesinin feshi ile bu sözleşme uyarınca davalılara intikâl etmiş olan tapu kayıtlarının iptâli, davacı adına tescili, bu talep kabul edilmezse eksik işler bedelinin tahsili istemine ilişkindir.
 
 …
@@ -214,6 +244,8 @@ Yüklenicinin sözleşme gereği bağımsız bölümlere hak kazanabilmesi inşa
 SONUÇ:Yukarıda açıklanan nedenlerle temyiz itirazlarının kabulüyle hükmün davacı yararına BOZULMASINA …
 
 ## Yargıtay 15. HD 2010/6017 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/777236400)
 
 Davalılar sözleşmenin haklı nedenlerle feshedildiğini, kaldıki bir kısım bağımsız bölümlerin de davacı tarafından satıldığından hakedilen bedel bulunmadığını belirterek davanın reddini savunmuştur.
 
@@ -230,6 +262,8 @@ Arsa payı karşılığı inşaat yapım sözleşmeleri tapulu taşınmazın tam
 Bu durumda sözleşme ile kurulan akdi ilişki devam ettiği, dosya kapsamına göre davacı yüklenici lehine tapu tescil koşullarının gerçekleşmediği anlaşıldığından davanın tümden reddi gerektiği görüşünde olduğumdan, sayın çoğunluğun diğer arsa sahibinin davaya katılıp feshe muvafakat edip etmediğinin tesbiti ve imalât bedelinin dava tarihine göre belirlenmesi gerektiğine dair bozma kararına katılamıyorum.
 
 ## Yargıtay 14. HD 2010/5623 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/768665600)
 
 Davacı, davalılar arasında 19.11.2002 günlü arsa payı karşılığı inşaat sözleşmesi bulunduğunu, bu sözleşme uyarınca yükleniciye bırakılması kararlaştırılan 5 numaralı bağımsız bölümün yüklenici tarafından 09.06.2004 tarihinde kendisine temlik ve teslim edildiğini, taşınmazın halen arsa sahibi ... adına tapuda kayıtlı olduğunu, kaydın iptali ile adına tescilini istemiştir.
 
@@ -251,11 +285,15 @@ SONUÇ; Temyiz olunan kararın yukarıda açıklanan nedenlerle BOZULMASINA …
 
 ## Yargıtay 15. HD 2010/5071 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/775084300)
+
 Eser sözleşmesi kapsamındaki arsa payı karşılığı inşaat sözleşmesinin tarafı olan yüklenici, sözleşme gereğince yapımını yüklendiği inşaattaki bağımsız bölümleri arsa sahibi veya sahiplerine teslim etmemesi; başka bir anlatımla, “teslimde temerrüdünün” gerçekleşmesi durumunda ve sözleşmenin geriye etkili feshi halinde sözleşme konusu bağımsız bölüm ya da bölümler için istenen gecikme tazminatı kapsamındaki kira tazminatı “olumlu zarar”dır ve sözleşmenin geriye etkili feshinde belirtilen olumlu zarar istenemez. Mahkemece, dava konusu maddi tazminatın, bu nitelikte olumlu zarar olduğunun nitelendirilmesi doğru olmamıştır. Çünkü, yukarıda açıklandığı şekilde; dava konusu maddi tazminat, menfi zarar niteliğindedir. Bu sebeplerle, taleple bağlı kalınarak, 5.000,00 TL menfi zarar niteliğindeki maddi tazminatın davalıdan alınarak, davacılara verilmesi gerekirken; mahkemece, yazılı gerekçelerle buna ilişkin davanın reddine de karar verilmesi doğru olmamış, kararın bozulması gerekmiştir.
 
 SONUÇ:Yukarıda 1. bentte belirtilen nedenlerle davacılar vekilinin sair temyiz itirazlarının reddine, 2. bentte açıklanan sebeplerle kararın davacılar yararına BOZULMASINA …
 
 ## Yargıtay 15. HD 2010/4857 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/775188300)
 
 Davada sözleşmenin feshiyle birlikte müspet zarar kapsamındaki eksik işler bedeli ile, gecikme tazminatı da talep edilmiştir. Davalıya yapılan tebligat usulüne uygun olduğundan buna yönelik temyiz itirazları yerinde değildir. Sözleşmede fesih halinde dahi ödeneceğinin kararlaştırılmaması sebebiyle geriye etkili fesih halinde gecikme tazminatı ve eksik iş bedeli istenemeyeceğinden davacıya davasının sözleşmenin feshi mi, yoksa eksik işler bedeli ile gecikme tazminatı alacaklarına yönelik mi olduğunun açıklattırılması davanın gecikme tazminatı ve eksik iş bedeline ait olduğunun bildirilmesi halinde fesih isteminin reddedilerek diğer alacak kalemlerinin hüküm altına alınması, davanın sözleşmenin feshine ilişkin olduğunun beyan edilmesi halinde, davacı arsa sahibince inşaatın devamı ihtiyati tedbir yoluyla durdurulmadığı ve davalı yüklenici tarafından davadan sonra ve hatta kararın tebliğe çıkartılmasından önce inşaata devam edilerek tamamlandığı iddia edildiğinden yüklenici tarafından arsa sahibi aleyhine açılan Kuşadası 2.
 Asliye Hukuk Mahkemesi'nin bozmadan önce 2004/175 esasına kayıtlı olarak açılan tapu iptâli ve tescil davası da eldeki dava ile birleştirilerek, inşaatın sözleşme ve ekleri, tasdikli proje ve ruhsatına göre tamamlanıp tamamlanmadığı, tamamlanmışsa kimin tarafından tamamlandığı, inşaatın gerçekleşme oranı uzman bilirkişiler kurulu marifetiyle mahallinde keşif yapılmak suretiyle alınacak raporla tespit ettirilerek davacının feshin ileri ya da geriye yönelik olarak talep edildiğine dair alınacak beyanı ile 25.01.2004 gün ve 3-1 sayılı İçtihadı Birleştirme …

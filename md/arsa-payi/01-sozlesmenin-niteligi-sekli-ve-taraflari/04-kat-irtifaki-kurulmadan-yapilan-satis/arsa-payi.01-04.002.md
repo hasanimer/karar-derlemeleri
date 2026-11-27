@@ -82,6 +82,8 @@ Davacılar vekilinin değinilen yönlerden yerinde görülen temyiz itirazların
 
 ## Yargıtay 5. HD 2025/14996 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1194589800)
+
 Mahkemece bozma ilamına uyularak yeniden yapılan yargılama sonucunda davanın kabulüne karar verilmiştir.
 
 …
@@ -98,6 +100,8 @@ Konut Yapı Kooperatifi adına tapuya tescil edildiği, bilahare satış yoluyla
 Davalı Hazine vekilinin temyiz itirazlarının kısmen kabulü ile Mahkeme kararının hüküm fıkrasının 1 numaralı bendinde yer alan ''200.000,00'' sayısının hükümden çıkartılarak yerine ''173.460,00'' sayısının yazılması suretiyle DÜZELTİLEREK ONANMASINA …
 
 ## Yargıtay 5. HD 2025/7305 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1198297500)
 
 İlk Derece Mahkemesince bozmaya uyularak yeniden yapılan yargılama sonucunda; davanın reddine karar verilmiştir.
 
@@ -119,6 +123,8 @@ Davacılar vekilinin temyiz itirazlarının kabulü ile temyiz olunan, İlk Dere
 
 ## Yargıtay 5. HD 2025/5587 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1154403900)
+
 İlk Derece Mahkemesince bozmaya uyularak yeniden yapılan yargılama sonucunda; davanın kabulüne karar verilmiştir.
 
 …
@@ -139,6 +145,8 @@ Davalılar vekilinin temyiz itirazlarının reddi ile usul ve kanuna uygun olan 
 
 ## Yargıtay 1. HD 2025/3956 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1182500700)
+
 Hal böyle olunca; önceki bozma kararında da belirtildiği üzere, Mahkemece varsa bağımsız bölümlerin dağılımına dair kat karşılığı inşaat sözleşmesine ek tadil sözleşmesinin ve kat irtifakı tesisine dair belgelerin mercinden sorularak dosya arasına alınması, 3 kişilik bilirkişi kurulu oluşturularak kat karşılığı inşaat sözleşmesi ile davalılar ... ve .. payına isabet eden bağımsız bölümlerin denetime açık bilirkişi raporu ile tespit edilmesi, bundan sonra 25.02.1997 tarihli ölünceye kadar bakma akdi ile temlik edilen taşınmazlar yönünden muris adına ölüm tarihi itibariyle başkaca taşınmaz olup olmadığının araştırılması, var ise bunların değerinin de keşfen saptanarak temlikin makul oran içinde kalıp kalmadığının belirlenmesi, toplanan ve toplanacak tüm delillerin yukarıda belirtilen ilkeler uyarınca değerlendirilerek muris ... temliklerdeki gerçek irade ve amacının duraksamaya yer vermeyecek şekilde açıklığa kavuşturulması gerekirken anılan sözleşme ile davalılara isabet adan bağımsız bölümler tespit edilmeden noksan soruşturma ile yetinilip yazılı şekilde karar verilmiş olması doğru değildir.
 
 …
@@ -146,6 +154,8 @@ Hal böyle olunca; önceki bozma kararında da belirtildiği üzere, Mahkemece v
 Asıl ve birleştirilen davalarda davalıların temyiz itirazlarının kabulü ile, hükmün (6100 sayılı Yasa'nın geçici 3.maddesi yollaması ile) 1086 sayılı HUMK'un 428.maddesi gereğince BOZULMASINA …
 
 ## Yargıtay 5. HD 2025/3505 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1142600100)
 
 İlk Derece Mahkemesince bozma kararına uyularak yeniden yapılan yargılama sonunda davanın reddine karar verilmiştir.
 
@@ -167,6 +177,8 @@ Davacılar vekilinin yerinde görülmeyen tüm temyiz itirazlarının reddi ile 
 
 ## Yargıtay 6. HD 2025/2650 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1202156600)
+
 Davalı ...
 
 …
@@ -179,6 +191,8 @@ Diğer yandan, dava konusu taşınmaz üzerinden son tapu maliki üzerine kat ir
 3\. bentte açıklanan nedenlerle, davalı ...ve Turizm San. Ltd. Şti. vekili ve davalı ... Bankası vekilinin temyiz itirazlarının kabulü ile kararın bu davalılar yararına BOZULMASINA …
 
 ## Yargıtay 6. HD 2025/2575 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1187688100)
 
 Davacı arsa sahibi vekili dava dilekçesinde özetle; müvekkili ile davalı ... ve dava dışı yüklenici ... arasında Ankara ili, .... ilçesi, ... Mahallesi, 264 30... no.lu imar parselinde yer alan taşınmaz için ...
 
@@ -198,6 +212,8 @@ Ancak yargılama aşamasında alınan bilirkişi raporuna göre sözleşme uyar�
 
 ## Yargıtay 6. HD 2025/2475 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1187551700)
+
 Mahkemece bozmaya uyularak verilen karar davalı ... vekili tarafından duruşmalı olarak temyiz edilmiş olmakla; kesinlik, süre, temyiz şartı ve diğer usul eksiklikleri yönünden yapılan ön inceleme sonucunda, 23.06.2025 tarihinde duruşma yapılmasına ve duruşma gününün taraflara davetiye ile bildirilmesine karar verilmiştir.
 
 …
@@ -214,6 +230,8 @@ Temyiz olunan Mahkeme kararının davalı ... İnşaat Emlak ... A.Ş. yararına
 
 ## Yargıtay 6. HD 2025/2456 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1186947200)
+
 Şu halde, mahkemece, öncelikle güncel tapu kayıtları getirtilerek taşınmazdaki son maliklerin tespit edilmesinin ardından yeni bir bilirkişi heyeti oluşturulmalı, arsa sahipleri tarafından ayrı davalarda gecikme tazminatı talep edildiği dikkate alınarak, tescil talebinin kabul edilebilmesi için arsa sahiplerinin alacak ve tazminat haklarının belirlenip, bunların ödenmesinin birlikte ifa kuralı gereğince zorunlu olması karşısında, halen derdest ise anılan dosya ile eldeki dosyanın birleştirilmesi, arsa sahiplerinin herhangi bir alacak ve tazminat hakları o dosyada hüküm altına alındığı takdirde ödenmesi koşuluyla tescil talebinin kabulünün düşünülmesi; tescil kararı verilirken inşaattaki tüm yasal bağımsız bölümler belirlenerek ve bu bölümlere ilişkin arsa payları da bilirkişi marifetiyle hesaplatılarak bağımsız bölümlerle bağlantılı şekilde kat irtifakına esas proje ile liste hazırlatılıp buna göre ileride kat irtifakı tesisi halinde buna esas olacak suretle tespit hükmü yanında halen taşınmaz üzerinde kat irtifakı kurulu olmadığından pay tesciline karar verilmelidir …
 
 …
@@ -221,6 +239,8 @@ Temyiz olunan Mahkeme kararının davalı ... İnşaat Emlak ... A.Ş. yararına
 Temyiz olunan Mahkeme kararının diğer temyiz eden davalılar lehine BOZULMASINA …
 
 ## Yargıtay 6. HD 2025/2455 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1186946900)
 
 Davacı vekili dava dilekçesinde; müvekkili kooperatif ile davalıların murisi ...'e vekaleten ... arasında Kartal 10. Noterliği'nin 04.10.19 96... yevmiye numaralı gayrimenkul satış vaadi ve arsa payı kat karşılığı inşaat sözleşmesi akdedildiğini, müvekkili kooperatif tarafından arsa sahiplerine yapımı ve teslimi taahhüt edilen dairelerin tamamı teslim edilmiş olmasına rağmen, arsa sahipleri tarafından tapu devir işlemi yerine getirilmediğini ileri sürerek, arsa tapularının tapu kayıtlarının iptali ile müvekkili kooperatif tüzel kişiliği adına tesciline karar verilmesini talep etmiştir.
 

@@ -21,9 +21,13 @@ uyari: "Derleyenin seçtiği alıntılardır; kararın tamamı değildir. Künye
 
 ## Ankara BAM 27. HD 2021/1111 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/711160100)
+
 Adi ortaklığı oluşturan davacı şirketler arasında zorunlu dava arkadaşlığı bulunmakta olup, zorunlu dava arkadaşlarının davada birlikte hareket etmek zorunluluğu olduğundan mahkemece verilen karara ilişkin davacılar tarafından yapılacak istinaf başvurusunun incelemesinin yapılabilmesi için hükmün adi ortaklığı oluşturan ve aralarında mecburi dava arkadaşlığı bulunan davacılar tarafından birlikte istinaf edilmesi veya Dairemizce verilen geri çevirme kararlarında belirtildiği üzere birinin yaptığı istinaf başvurusunu diğer adi ortağın muvafakat etmesi gerekmektedir. Bu kapsamda Dairemizce eksikliğin giderilmesi yönünde verilen geri çevirme kararlarının bulunduğu ve bu eksikliğin tamamlanamadığı anlaşılmakla adi ortaklığı oluşturan ...'nin istinaf başvurusunun HMK.'nın 352. maddesi gereğince usulden reddine karar verilmesi gerekmiştir.
 
 ## Bursa BAM 7. HD 2021/233 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/739909500)
 
 Dava, eser sözleşmesinden kaynaklanan bakiye alacağın tahsili istemine ilişkindir.
 
@@ -34,20 +38,28 @@ Davayı takip eden vekil, adi ortaklığı oluşturan şirketlerden sadece ... �
 
 ## İstanbul BAM 15. HD 2021/2 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/626663200)
+
 Sulh Hukuk Mahkemesi'nin 2012/80 Değişik İş sayılı dosyasından yaptırılan bilirkişi incelemesinde, arızaların davalının iddia ettiğinin aksine garanti kapsamında olmadığının tespit edildiğini ileri sürerek sözleşmeye istinaden davalı tarafından geçici kabul işlemleri gerçekleştirilen 2 adet fener bakım ve transfer botunun kesin kabulünün hükmen tespitine, 6098 Sayılı TBK'nın sebepsiz zenginleşme hükümleri uyarınca müvekkili şirketin hak edişlerinden kesilen 20.000,00 Euronun temerrüt tarihiden itibaren işleyecek ticari faizi ile birlikte davalıdan tahsiline ve sözleşme kapsamında müvekkilinden alınan 30.03.2010 tarihli 64.200,00 Euro bedelli teminat mektubunun müvekkiline iadesine karar verilmesini talep ve dava etmiştir. Davalı vekili, öncelikle davacı tarafın bu dava ile ileri sürdüğü talepler konusunda müvekkili kuruluşa husumet yöneltme ehliyeti bulunmadığını, davacı tarafın taleplerinin müvekkili kuruluş ile davacı şirketin de içinde yer aldığı ...Ltd. Şti./ ...Ltd.Şti.
 İş Ortaklığı arasında 07.04.2010 tarihinde imzalanan sözleşmeye dayandığını, iş ortaklıkların ayrı bir tüzel kişiliği olmadığından, taraf olunan davalarda ortakların hep birlikte hareket etmeleri gerektiğini, dava konusu botların kesin kabul prosedürünün sözleşmenin 35.5.maddesinde" garanti süresi 2 yıldır.
 
 ## İstanbul BAM 15. HD 2020/1002 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/601828100)
 
 GEREĞİ GÖRÜŞÜLÜP DÜŞÜNÜLDÜ : Dava, bir kısım inşaat işleri yapım işini konu alan eser sözleşmesine dayalı menfi tespit-istirdat talebine ilişkindir.Mahkemece, davanın reddine dair verilen karar davacı yüklenici vekili tarafından usulünce istinaf edilmiştir.Davaya konu İstanbul ... İcra Dairesi'nin ... Esas sayılı icra takibi ile davalı alacaklı ... Şirketi tarafından borçlu .... girişimi aleyhine 01.11.2013 tarihli taşeron sözleşmesine dayalı olarak bakiye 49.836,43 TL iş bedeli alacağının tahsili amacıyla ilamsız icra takibi yapıldığı, takibe ortaklardan Kar İnşaat ... Şirketi tarafından itiraz edildiği ve ancak diğer ortak ... Şirketi tarafından borca itiraz edilmediği ve bu şirket tarafından işbu eldeki menfi tesbit davasının açıldığı, davanın istirdata dönüştüğü anlaşılmaktadır. Takip dayanağı sözleşmenin ... ve ... ortak girişimi tarafından imzalandığı ve takibin de bu ortak girişimi oluşturan şirketler ayrı ayrı belirtilmek suretiyle ortak girişim aleyhine yapıldığı halde eldeki davanın sadece ortaklardan .... Şirketi tarafından açıldığı anlaşılmaktadır.
 Ortak girişim adi ortaklık niteliğinde olup, adi ortaklık tüzel kişiliği olmayan, iştirak halinde mülkiyet esaslarının geçerli olduğu bir oluşumdur. Bu nedenle ortaklar arasında zorunlu dava arkadaşlığı vardır. Davanın ortakların tümüne ve ortakların tamamı tarafından birlikte açılması zorunludur. Yapılan açıklamalar ışığında somut olaya bakıldığında, davanın ortak girişimi oluşturan şirketlerden ... İnşaat tarafından açıldığı, diğer ortak ... şirketinin davada temsil edilmediği anlaşılmaktadır. Ortaklığın niteliği gereği diğer ortak ... şirketinin de bu davada davacı sıfatı ile yer olması gerektiğinden öncelikle bu ortağın davaya muvafakatinin alınması, olmadığı takdirde aleyhine dava açılmak suretiyle bu davayla birleştirilerek davada temsilinin sağlanması gerekir.
 
 ## İstanbul BAM 13. HD 2019/1736 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/552556100)
+
 İncelenen belgelerden de, adi ortaklığın, davalı şirketten yeminli mali müşavirlik raporunda belirtilen tutarda mal ve hizmet satın aldığı anlaşılmaktadır.KDV iadesi alacağının adi ortaklığa ait olduğu, davanın ise ortaklardan biri tarafından açıldığı, oysa zorunlu dava arkadaşlığı olduğu için hepsinin birlikte dava açması gerektiği, davacının ise adi ortaklık ile ilgili bir iadeyi tek başına talep ettiği, kendi hissesi oranında bile talepte bulunmadığı anlaşılmakla aktif dava ehliyetinin bulunmadığı, Kurumlar vergisi mükellefleri arasında sayılan iş ortaklıkları, 5520 Sayılı Kurumlar Vergisi Kanunu'nun 2 inci maddesinin yedinci fıkrasında; aynı maddenin diğer fıkralarında yazılı kurumların kendi aralarında veya şahıs ortaklıkları ya da gerçek kişilerle, belli bir işin birlikte yapılmasını ortaklaşa yüklenmek ve kazancını paylaşmak amacıyla kurdukları ortaklıklardan bu şekilde mükellefiyet tesis edilmesini talep edenler şeklinde tanımlanmıştır.İstanbul Vergi Dairesi Başkanlığı Mükellef Hizmetleri Usul Grup Müdürlüğü tarafından verilen 06/01/2012 tarihli ve B.07.1.GİB.4.34.19.02-019.01.12.-55 sayılı özelgede;
 İş ortaklıklarında, katma değer vergisi mükellefiyetinin ortaklardan ayrı olarak tesis ettirilmesi; defter tutma, belge düzenleme, muhafaza ve ibraz ile beyanname verme ve vergi ödeme gibi ödevlerin de ortaklardan ayrı olarak yerine getirilmesi gerekmektedirdenmektedir.
 
 ## İstanbul BAM 16. HD 2019/1331 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/508995900)
 
 …
 
@@ -55,6 +67,8 @@ Ortak girişim adi ortaklık niteliğinde olup, adi ortaklık tüzel kişiliği 
 Bu durumda mahkemece davacı vekiline adi ortaklığa kayyım atanması için dava açması hususunda yetki ve mehil verilmesi gerekirken bu imkan tanınmadan yazılı şekilde karar verilmesi usul ve yasaya aykırıdır. Hal böyle olunca davacı vekilinin istinaf talebinin kabulüne karar vermek gerekmiş ve aşağıdaki şekilde hüküm kurulmuştur.
 
 ## İstanbul BAM 14. HD 2018/1161 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/479639300)
 
 Dosya kapsamında bulunan Ankara .... Noterliği’nin 13.06.2011 tarih, ... yevmiye nolu genel vekaletnamesinde, davalı banka adına Av..... dahili olduğu avukatlara genel vekaletname verilmiş olduğu, işbu davanın da adı geçen vekil tarafından yürütüldüğü, ilk derece mahkemesinin gerekçeli kararının da bu vekile tebliğ edilmiş olduğu görülmüştür. Davalı banka adına vekili Av. ... ilk derece mahkemesine hitaben, UYAP sisteminde kayıtlı olan Av. ... kurumdan ayrıldığından UYAP kaydının silinmesi ve hak kaybına sebebiyet verilmemesi için tebligatların tarafına yapılması istemli 02.11.2017 tarihli dilekçesinin yanısıra istinaf başvurusunun da davalı banka adına bu vekil tarafından yapılmış olduğu gözetildiğinde, harç ikmaline ilişkin muhtıranın tebliğinin usulüne uygun olmadığının ve öğrenme tarihine göre de harç ikmalinin süresi içinde tamamlandığının kabulü ile, Dairemizin 13.09.2018 tarih, 2018/1236 Esas-2018/796 Karar sayılı kararının, maddi hata sebebiyle kaldırılarak davalının istinaf başvurusunun, ilk istinaf dilekçesi kapsamında incelemesi gerekmiştir.2-HMK.'nın 355. maddesi uyarınca, davalı bankanın istinaf nedenleri ve kamu düzeni yönüyle sınırlı olmak üzere yapılan incelemede;
 Dava, ticari kredi kapsamında davalı banka tarafından “ komisyon “ adı altında yapılan kesintilerin iadesi istemine ilişkindir.Dava dilekçesinde, davacılar olarak .... ve .... gösterilmiş ve davacılar vekili olarak ... adına vekaletname sunulduğu görülmüştür. Nitekim, dosya kapsamında bulunan genel kredi sözleşmesinde kredi lehtarı kısmında “....” adi ortaklığı olduğu ve yine kredi ödemelerine ilişkin banka tahsilat makbuzlarında bu ismin geçtiği görülmüştür.Davacılar vekilinin dava dilekçesinde de kredinin adi ortaklık adına kullanılmış olduğu belirtilmiş olmasına, davacı adi ortaklığın tüzel kişiliği bulunmadığından adi ortaklığı oluşturan tüm ortaklar tarafından birlikte dava açılması gerekirken adi ortaklığı ve yalnızca diğer ortak ... adına dava açılması usule ve yasaya aykırıdır. Ayrıca, dava dilekçesinde davacı olarak gösterilen ve karar başlığında da davacı olarak gösterilen "...İ" ibaresiyle ne kastedildiği anlaşılmaktadır. Bu bir gerçek kişi ismi olmadığı gibi tüzel kişi şirket de olmadığı anlaşılmaktadır. Bu nedenle gerek adi ortaklığın, gerekse davacı olarak gösterilen .... taraf ve dava ehliyeti yoktur.

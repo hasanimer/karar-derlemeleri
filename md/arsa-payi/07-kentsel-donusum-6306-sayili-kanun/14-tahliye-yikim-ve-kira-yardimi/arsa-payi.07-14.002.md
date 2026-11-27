@@ -22,17 +22,23 @@ uyari: "Derleyenin seçtiği alıntılardır; kararın tamamı değildir. Künye
 
 ## Danıştay 4. D. 2023/11265 E., 2025/4675 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1189309400)
+
 DAVANIN KONUSU : Hatay ili, Antakya ilçesinde bulunan ve ekli kroki ile listede sınır ve koordinatları gösterilen alanların 6306 sayılı Afet Riski Altındaki Alanların Dönüştürülmesi Hakkında Kanunun 2. maddesi uyarınca riskli alan ilan edilmesine ilişkin 05/04/2023 tarihli, 32154 sayılı Resmi Gazete'de yayımlanan 04/04/2023 tarihli ve 7033 sayılı Cumhurbaşkanı kararının iptali istenilmektedir.
 
 DAVACININ İDDİALARI : Dava konusu riskli alan kapsamında bulunan ve maliki olduğu taşınmazların 06/02/2023 tarihinde meydana gelen deprem afetinde yıkıma uğramadığı, söz konusu yapıların imar mevzuatına ve günün koşullarına göre inşa edildiği, ancak deprem öncesinde idarenin yeterli düzeyde koruyucu ve önleyici tedbirleri almadığı, depremden sonra ise Antakya ilçe merkezinde yaklaşık 307 hektar yüz ölçümünde çok geniş bir alanı kapsayan bölgenin 6306 sayılı Kanunun 2,maddesi uyarınca riskli alan ilan edildiği, bu kararın bilimsel araştırma yapılmaksızın ve jeolojik veri ortaya konulmaksızın alındığı, dava konusu işlemin dayandığı Yasa maddesinin sadece riskli alan tanımından ibaret olduğu, bu yönüyle de dava konusu işlemin sebep ve şekil yönlerinden hukuka aykırı olduğu, ayrıca riskli alan kapsamında kalan bölgenin tarihi ve kültürel altyapısının bulunduğu, kent hukuku ve imar hukuku bağlamında dava konusu kararın iptali gerektiği, mülkiyet hakkının, konut dokunulmazlığının açıkça ihlal edildiği belirtilerek maliki olduğu taşınmazları da kapsayan dava konusu riskli alan kararının hukuka aykırı olduğu ileri sürülmektedir.
 
 ## Danıştay 4. D. 2023/11178 E., 2025/4661 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1189317200)
+
 DAVANIN KONUSU : Hatay ili, Antakya ilçesinde bulunan ve ekli kroki ile listede sınır ve koordinatları gösterilen alanların 6306 sayılı Afet Riski Altındaki Alanların Dönüştürülmesi Hakkında Kanunun 2. maddesi uyarınca riskli alan ilan edilmesine ilişkin 05/04/2023 tarihli, 32154 sayılı Resmi Gazete'de yayımlanan 04/04/2023 tarihli ve 7033 sayılı Cumhurbaşkanı kararının iptali istenilmektedir.
 
 DAVACININ İDDİALARI : Maliki bulunduğu taşınmazın depremde yıkıma uğramadığı, imar mevzuatına ve günün koşullarına göre inşa edildiği, dava konusu riskli alan kararının bilimsel veriler olmaksızın 6306 sayılı Kanun ve Kanunun Uygulama Yönetmeliğinde belirtilen kriterlere uyulmadan yürürlüğe konulduğundan hukuka aykırı olduğu, emsal yargı kararlarına göre dava konusu işlemin de iptal edilmesi gerektiği, riskli alanı kapsayan bölgenin 1.derece arkeolojik sit alanı olduğu, Anayasada yer verilen mülkiyet hakkına, çalışma ve sözleşme hürriyetine ve temel hak ve özgürlüklerin sınırlandırılmasına ilişkin maddeye açıkça aykırı olduğu, ayrıca işlemin yetki, şekil, sebep, konu ve maksat yönlerinden de hukuka aykırı olduğu ileri sürülmektedir.
 
 ## Danıştay 4. D. 2025/2768 E., 2025/4286 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1173888500)
 
 İlk Derece Mahkemesi kararının özeti: ...
 
@@ -50,6 +56,8 @@ Dosyanın incelemesinden; yapılan yargılama sonucu ... İdare Mahkemesinin ...
 
 ## Danıştay 4. D. 2023/11292 E., 2025/3279 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1185826700)
+
 DAVANIN KONUSU : Hatay ili, Antakya ilçesinde bulunan ve ekli kroki ile listede sınır ve koordinatları gösterilen alanların 6306 sayılı Afet Riski Altındaki Alanların Dönüştürülmesi Hakkında Kanunun 2. maddesi uyarınca riskli alan ilan edilmesine ilişkin 05/04/2023 tarihli, 32154 sayılı Resmi Gazete'de yayımlanan 04/04/2023 tarihli ve 7033 sayılı Cumhurbaşkanı kararının iptali istenilmektedir.
 
 DAVACININ İDDİALARI :
@@ -57,6 +65,8 @@ Dava konusu riskli alan sınırları içerisinde kalan bölgede 1/2 hisse ile ma
 işlemin iptali istenilmektedir.
 
 ## Danıştay 4. D. 2023/11210 E., 2025/3275 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1186701200)
 
 6306 sayılı Kanunun genel gerekçesinde " Anayasanın 56 ncı maddesi; herkesin sağlıklı, dengeli ve güvenli bir çevrede yaşama hakkına sahip bulunduğunu hükme bağlamakta ve Devlete bu hususta görevler yüklemektedir. Yine Anayasanın 23 üncü maddesine göre Devlet, “sosyal ve ekonomik gelişmeyi sağlamak, sağlıklı ve düzenli kentleşmeyi gerçekleştirmek” ile görevlidir. Bilindiği üzere, Ülkemizin çok mühim bir kısmı, başta deprem olmak üzere tabiî afetlerin riski altındadır. Buna rağmen, mevcut yapıların büyük bir kısmının muhtemel afetlere karşı dayanıklı olmadıkları ve orta şiddetteki bir depremde bile ağır derecede hasar görüp yıkıldıkları, bundan dolayı sosyo-ekonomik problemlerin yaşandığı ve Devletin beklenmedik bir anda büyük malî külfetler ile karşı karşıya kaldığı bilinmektedir. Onbinlerce insanın ölümüne ve çok yüksek malî kayıplara sebebiyet veren ve 1999 yılında Marmara Bölgesinde vuku bulan büyük deprem felâketleri, müteakip depremler ve en son olarak 2011 yılında Van’da meydana gelen deprem ile bu gerçek acı bir şekilde ortaya çıkmıştır. Ülkemizin bazı yerleri ve buralardaki yerleşim merkezleri hâlen çok yüksek deprem riski altındadır.
 Örneğin, İstanbul’un yakın bir zaman içinde çok şiddetli bir depremle karşı karşıya kalacağı, bu hususta ihtisas sahibi bilim adamlarınca ifade edilmektedir. Bazı yerleşim merkezlerinin jeolojik durumu ve zemin özellikleri ise, buralarda iskânın tehlikeler arz ettiğini ve afet riski altında bulunan bu yerleşim merkezlerinin bir an önce bulundukları yerlerde dönüştürülerek buralardaki iskânın yeniden düzenlenmesini ve hatta bunların başka yerlere nakledilmesini zarurî kılmaktadır. Yürürlükteki 7269 sayılı Umumi Hayata Müessir Afetler Dolayısiyle Alınacak Tedbirlerle Yapılacak Yardımlara Dair Kanun, afet tehlikesine maruz kalmış veya kalması muhtemel bölgelerin tespit edilip “afete maruz bölge” olarak ilân edilmesini öngörmekte ve böylece “afete maruz bölge” olarak ilân edilen yerlerdeki meskenlerin ve işyerlerinin afet tehlikesinden masun yerlere nakledilmesi, bahsedilen Kanundaki usûl ve esaslara göre yürütülmektedir.
@@ -67,12 +77,16 @@ Diğer taraftan, riskli alanların dönüştürülmesine ilişkin uygulamalar i�
 
 ## Danıştay 4. D. 2023/11059 E., 2025/3258 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1186753600)
+
 DAVANIN KONUSU: Hatay ili, Antakya ilçesinde bulunan ve ekli kroki ile listede sınır ve koordinatları gösterilen alanların 6306 sayılı Afet Riski Altındaki Alanların Dönüştürülmesi Hakkında Kanunun 2. maddesi uyarınca riskli alan ilan edilmesine ilişkin 05/04/2023 tarihli, 32154 sayılı Resmi Gazete'de yayımlanan 04/04/2023 tarihli ve 7033 sayılı Cumhurbaşkanı kararının iptali istenilmektedir.
 
 DAVACININ İDDİALARI :
 Dava konusu riskli alan sınırları içerisinde kalan bölgede işyerinin bulunduğu, 06/02/2023 tarihli Kahramanmaraş ve 20/02/2023 Hatay depremlerinde Antakya ilçesi ve çevresinin çok büyük yıkıma maruz kaldığı, hayatını devam ettirdiği bölgede hiçbir bilimsel çalışma yapılmadan 307 hektarlık bir alanın riskli alan ilan edildiği, söz konusu kararın 6306 sayılı Kanunun 2,maddesi ve Uygulama Yönetmeliğinin 5.maddesi ve Ek-2.maddesindeki usul ve kurallara aykırı olduğu, her hangi bir teknik analiz raporu veya bilimsel etüd raporu hazırlanmadan uygulama işlemlerine başlanıldığı, bölgede bulunan yapı stoku sayısal olarak tespit edilmeden alanın zemin yapısı konusunda yeterince araştırma ve değerlendirme yapılmadan tesis edildiği, riskli alan kararının kapsadığı bölgenin Kentsel ve Arkeolojik Sit alanı olduğu, dolayısıyla Kültür ve Turizm Bakanlığı tarafından korunan bölgenin bu Bakanlığın yetkisinden çıkarılarak dava konusu karar ile Çevre, Şehircilik ve İklim Değişikliği Bakanlığına devredilmesinin 6306 sayılı Kanunun amacına uygun olmadığı, dava konusu işlemin kamu yararı amacı gözetilmeden düzenlendiği ve hukuka aykırı olduğu belirtilerek iptali gerektiği ileri sürülmektedir.
 
 ## Danıştay 6. D. 2022/7953 E., 2025/3108 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1191452400)
 
 DAVALI ...
 
@@ -91,6 +105,8 @@ DAVALI ...
 Olayda dava konusu uyuşmazlığın 6306 sayılı Afet Riski Altındaki Alanların Dönüştürülmesi Hakkında Kanun uyarınca riskli alan ilan edilen bölgede kalan taşınmazla ilgili kira yardımı ödemesi talebinden kaynaklandığı, kira yardımına konu taşınmazın ise Mardin ili, Nusaybin ilçesinde bulunduğu ve taşınmazlar ile ilgili uyuşmazlıklarda özel yetki kuralının getiriliş amacının uyuşmazlığın kaynağı olan taşınmazlara kolayca erişilebilmesi olduğu göz önüne alındığında, işbu uyuşmazlığın görüm ve çözümünün, özel yetki kuralını düzenleyen 2577 sayılı Kanun'un 34. maddesinin 1. fıkrası uyarınca, taşınmazın bulunduğu yer idare mahkemesi olan Mardin İdare Mahkemesinin yetkisinde olduğu sonucuna varılmaktadır.
 
 ## Danıştay 6. D. 2023/7743 E., 2025/2761 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1184817300)
 
 DAVALININ SAVUNMASI :
 Otopark Yönetmeliğinin 4. maddesinin 1. inci fıkrasının (e) bendinde açıklanan şartlarda otopark ihtiyacının kısmen veya tamamen parselinde karşılanmasının mümkün olmadığı durumlarda karşılanamayan otopark miktarının aynı fıkranın (f) bendinde yer alan sıra dahilinde karşılanacağına ilişkin genel düzenleme bulunduğu, dava konusu değişiklikle, bu genel esasa, riskli yapı tespiti yapılarak yıkılan binalar bakımından istisna bir hükmün getirildiği, bu binalarda yaşayanlar mağdur edilmeden bir an önce evlerinde oturmaları için otopark ihtiyacının karşılanabilmesine yönelik çözümler üretilmesinin amaçlandığı, 6306 sayılı Kanunun uygulanmasını kolaylaştırıcı bir düzenleme olması nedeniyle 6306 sayılı Kanunun kapsamı ile sınırlı olacak şekilde riskli yapılara yönelik düzenlemeler içermesinin normlar hiyerarşisinin gereği olduğu, risksiz yapıların imar mevzuatı ve planlama hukukunun genel hükümlerine göre işlem görmesi gerektiği, riskli yapının, risksiz yapılarla kıyaslandığında can ve mal güvenliğinin sağlanmasını teminen yıkılmaları ve yeniden yapılmalarının zorunluluk olduğundan dönüşümü kolaylaştırıcı düzenlemeler yapılmasının 6306 sayılı Kanunun amacına uygun olduğu, bu nedenle
@@ -114,6 +130,8 @@ Dosyanın ve Dairemizin E:2023/622 esas sayılı dosyasının birlikte incelenme
 
 ## Danıştay 4. D. 2023/12100 E., 2024/7654 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1138459700)
+
 İlk Derece Mahkemesi kararının özeti: ... İdare Mahkemesinin... tarih ve E:...
 
 …
@@ -126,6 +144,8 @@ Temyize konu ... Bölge İdare Mahkemesi ...İdare Dava Dairesinin ... tarih ve 
 
 ## Danıştay 9. D. 2022/4614 E., 2024/4285 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1159681600)
+
 Yukarıda yer verilen mevzuat hükümlerinin değerlendirilmesinden, 6306 sayılı Kanunun amacının afet riski altındaki alanlar ile bu alanlar dışındaki riskli yapıların bulunduğu arsa ve arazilerde sağlıklı ve güvenli yaşama çevreleri oluşturmak olduğu, düzenlemede binaların değil arsa ve arazilerin esas alındığı, Kanun kapsamında yapılacak olan işlem, sözleşme, devir ve tescillerle ilgili de vergi ve harç istisnası getirildiği görülmektedir.Bu kapsamda, vergi ve harç istisnasına ilişkin düzenlemenin amacının riskli yapıların yıkılarak yerine standartlara uygun yeni binaların yapılmasını teşvik etmek, mükelleflere bir takım vergisel kolaylıklar sağlayarak motivasyon oluşturmak ve dönüşüm sürecini hızlandırmak olduğu sonucuna ulaşılmaktadır.6306 sayılı Kanun kapsamında tespit edilen "riskli yapıların" yıkım ve inşaat işini yürütmekte olan müteahhidin, sözleşme ile yükümlendiği işi ve mukaveleyi bir başka müteahhide yani alt yükleniciye devretmesi halinde bu devre ilişkin işleme, anılan Kanun kapsamında damga vergisi ve harç istisnası uygulanmaması, doğrudan doğruya işlemin tarafları olan müteahhit ve alt yükleniciye, dolaylı olarak da riskli yapı sahibine bir külfet
 yükleyecektir.Kanunun 1.maddesinde tanımlanan amacı ile Kanun kapsamında yer alan uygulamalara ilişkin vergi ve harç istisnasına ilişkin Yasal düzenlemeler birlikte değerlendirildiğinde yıkım ve inşaat işini yürütmekte olan müteahhidin sözleşme ile yükümlendiği işi ve mukaveleyi bir başka müteahhide devretmesine ilişkin riskli yapıların yıkım ve inşasına yönelik işlemlere de damga vergisi ve harç istisnası uygulanması gerektiği sonucuna ulaşılmıştır.
 
@@ -135,6 +155,8 @@ yükleyecektir.Kanunun 1.maddesinde tanımlanan amacı ile Kanun kapsamında yer
 
 ## Danıştay 9. D. 2023/464 E., 2024/4122 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1161995700)
+
 İSTEMİN KONUSU : Davacı şirket tarafından,İstanbul İli, Bakırköy İlçesi, ... Ada, ... parselde yer alan ve 6306 sayılı Kanun kapsamında riskli yapı niteliği bulunan binanın yıkılarak yerine inşa edilen yapıya ilişkin olarak davalı idareye ödenen bina inşaat harcı ile zemin açma ve toprak hafriyat harcının iadesi talebiyle yapılan başvurunun zımnen reddine dair işlemin iptali ve ödenen toplam 440.059,00-TL'nin ödeme tarihinden itibaren işleyecek tecil faiziyle birlikte iadesi istemiyle açılan davayı, riskli yapının yıkılarak yerine yeniden yapılan binanın 6306 sayılı Kanunun 7/9. maddesi uyarınca her türlü harçtan muaf olduğu, dava konusu işlemde hukuka uyarlık bulunmadığı gerekçesiyle kabul eden... Vergi Mahkemesinin ... tarih ve E:..., K:... sayılı kararına karşı davalı idare tarafından yapılan istinaf başvurusunu reddeden ... Bölge İdare Mahkemesi ... Vergi Dava Dairesinin... tarih ve E:..., K:... sayılı kararının temyizen incelenerek bozulması istenilmektedir.
 
 …
@@ -142,6 +164,8 @@ yükleyecektir.Kanunun 1.maddesinde tanımlanan amacı ile Kanun kapsamında yer
 İleri sürülen iddialar temyize konu Bölge İdare Mahkemesi kararının bozulmasını sağlayacak durumda bulunmadığından, temyiz isteminin reddine ve kararın onanmasına …
 
 ## Danıştay 4. D. 2023/11464 E., 2024/2884 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1093250200)
 
 DAVALI İDARELERİN SAVUNMALARI : Davalı idareler tarafından, usule ilişkin olarak davacının dava açmakta menfaatinin olmadığını ve davanın süresinde açılmadığını, esasa ilişkin olarak ise dava konusu Bakanlar Kurulu kararının 6306 sayılı Afet Riski Altındaki Alanların Dönüştürülmesi Hakkında Kanunun 2. maddesine ve ilgili yönetmeliğe uygun olduğu, hukuka aykırılık bulunmadığı savunulmaktadır.
 
@@ -154,6 +178,8 @@ DAVALI İDARELERİN SAVUNMALARI : Davalı idareler tarafından, usule ilişkin o
 Dava konusu 11/02/2015 tarih ve 2015/7284 sayılı Bakanlar Kurulu kararının davacının maliki olduğu Konya İli, Meram İlçesi, ... Mahallesi,... ada, ..., ... , ... , ... ve ... parsel sayılı taşınmazlara ilişkin kısmının İPTALİNE …
 
 ## Danıştay 4. D. 2023/11571 E., 2024/2018 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1068045100)
 
 Davalı … Bakanlığı tarafından, usule ilişkin olarak davanın süre aşımı nedeniyle reddi gerektiği; esas ilişkin olarak ise, iptali istenilen Yönetmelik kuralının üst normlara uygun olduğu, ayrıca, satış sırasında payı satılacak malik tarafından pey sürülmesi, satış bedeline itiraz edilmesi gibi hususlar mevzuat gereği mümkün olmadığından payı satılacak malikin satış ihalesine katılıp katılmamasının satış işlemini de etkilemeyeceği dikkate alındığında, anılan kuralın hizmet gereklerine ve kamu yararına da uygun olduğu savunulmuştur.
 
@@ -172,6 +198,8 @@ Satışın yapılacağı yer ve zaman satışı izlemek üzere arsa payı satıl
 Bu durumda; davacının arsa payının, 30/09/2021 tarihinde yapılan açık artırma sonucunda, paydaşlardan …'na 640.000,00-TL bedel ile satıldığı hususunun Çankaya Tapu Müdürlüğüne bildirilmesine ilişkin Ankara Valiliği Çevre, Şehircilik ve İklim Değişikliği İl Müdürlüğünün … tarih ve … sayılı işleminin dayanağı niteliğindeki Ankara Valiliği Çevre, Şehircilik ve İklim Değişikliği İl Müdürlüğünün … tarih ve … sayılı işleminin kesinleşen idari yargı kararı uyarınca iptaline hükmedildiği göz önüne alındığında; davacının arsa payının satışına yönelik işlemde de hukuka uyarlık bulunmadığı sonucuna varıldığından; anılan işlemin iptaline karar verilmesi gerektiği görüşüyle …
 
 ## Danıştay 4. D. 2023/7762 E., 2024/1205 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1059664400)
 
 İlk Derece Mahkemesi kararının özeti: … İdare Mahkemesince verilen … tarih ve E:… , K:
 
@@ -199,11 +227,15 @@ Temyize konu … Bölge İdare Mahkemesi … İdare Dava Dairesinin … tarih ve
 
 ## Danıştay 4. D. 2023/11463 E., 2024/1174 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1061476100)
+
 15/12/2012 tarih ve 28498 sayılı Resmi Gazete'de yayımlanarak yürürlüğe giren 6306 sayılı Kanunun Uygulama Yönetmeliği'nin "Kira yardımı ve Diğer Yardımlar" başlıklı 16. maddesinin 4. bendinde "Kira yardımı başvuruları ; tahliye tarihinden itibaren bir yıl veya riskli yapının yıktırıldığı tarihten itibaren üç ay içinde, Bakanlıkça belirlenecek bilgi ve belgelere istinaden riskli alan veya rezerv yapı alanlarında ilgili kuruma, riskli yapılarda ise Müdürlüğe veya Bakanlıkça yetki devri yapılması durumunda İdareye yapılır. " düzenlemesine yer verilmiştir.
 
 6306 sayılı Afet Riski Atındaki Alanların Dönüştürülmesi Hakkında Kanun'un 5. maddesi ile 6306 sayılı Kanunun Uygulama Yönetmeliği'nin 16. maddesi hükümleri kapsamında riskli yapılarda kira yardımı yapılmasının usul ve esaslarını düzenlemek amacıyla çıkarılan Kira Yardımı Kılavuzunun " Kira yardımı başvurularında gözetilecek hususlar" başlıklı 9. maddesinin 17. fıkrasında "Aynı bağımsız bölüm üzerinde hissedar olanlar, kira yardımı haklarını noterden verecekleri muvafakatname/feragatname ile diğer hissedarlara devredebilir.Verilecek muvafakatnamede/feragatnamede "söz konusu bağımsız bölümden dolayı alınacak kira yardımı hakkından diğer hissedar lehine feragat edildiğinin, 6306 sayılı Kanun kapsamından Bakanlıktan hiçbir hak ve talepte bulunulmayacağının ve faiz desteğinden de yararlanılmayacağının" açıkça belirtilmesi gerekir "düzenlemesine yer verilmiştir.
 
 ## Danıştay 6. D. 2019/21746 E., 2023/9779 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1047069400)
 
 İşlem tarihi itibariyle yürürlükte olan 6306 sayılı Kanunun 7. maddesinin 9. fıkrasında riskli yapı tespiti kapsamında yıkılarak yeniden yapılacak olan yapılar bakımından, yapıların mevcut alanları için daha önce belediyelerce alınan harç ve ücretlere ilave olarak, sadece kullanım maksadı değişiklikleri ile yapı alanındaki artışlar için hesaplanan harç ve ücret farklarının alınacağı hükme bağlanmıştır. Söz konusu madde metninde geçen "alınan" ifadesinin, "tahsil edilen" şeklinde yorumlanması mümkün olmadığından, yapı ruhsatı ve yapı kullanma izni bulunan yapılar için belediyelerce daha önceden alınan harç ve ücretlerin tahsil edilip edilmediğine bakılmaksızın sadece kullanım maksadı değişiklikleri ile yapı alanındaki artışlar için hesaplanan harç ve ücret farklarının alınması zorunludur.
 

@@ -22,6 +22,8 @@ uyari: "Derleyenin seçtiği alıntılardır; kararın tamamı değildir. Künye
 
 ## İzmir BAM 14. HD 2023/693 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/888366900)
+
 Davacı avukatı tarafından verilen 29.01.2016 tarihli dava dilekçesinde özetle; Müvekkilinin ... İli ... İlçesi ...
 
 …
@@ -34,6 +36,8 @@ Hukuk Dairesi'nin 15.02.2011 tarih ve 2009/5700 Esas, 2011/823 Karar sayılı i�
 İzmir 6.İcra Müdürlüğü'nün 2015/19176 Esas sayılı dosyasıyla davacı borçlu ... aleyhine başlatılmış olan icra takibinin İPTALİNE …
 
 ## İzmir BAM 22. HD 2023/340 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/865576500)
 
 Davalı ...
 
@@ -50,6 +54,8 @@ Bornova 3. Noterliğinin 07.09.2017 tarih ve 30542 yevmiye numaralı ''Düzenlem
 Asıl davada davalı-karşı davacı / birleşen davada davacı .... Şti. vekilinin istinaf başvurusunun Hukuk Muhakemeleri Kanunu'nun 353/1-b-1 maddesi uyarınca ESASTAN REDDİNE …
 
 ## İstanbul BAM 7. HD 2022/2852 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/848494200)
 
 İLK DERECE MAHKEMESİ KARARININ ÖZETİ: Mahkemece " davacının tapu iptali ve tescil talebinin reddine, davacının taşınmaz bedeli yönünden talebinin kabulü ile; 3.959.947,14TL'nin dava tarihinden itibaren işleyecek avans faizi ile birlikte davalı ... A.Ş.'den alınarak davacıya verilmesine, davalı ...yönünden davanın reddine karar vermek gerekmiş" şeklinde karar verilmiştir.
 
@@ -71,6 +77,8 @@ HÜKÜM:Gerekçesi yukarıda izah edildiği üzere; 1-Davacı vekilinin istinaf 
 
 ## İstanbul BAM 3. HD 2022/1612 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/765427200)
+
 Dava, adi ortaklık nedeniyle tapu kaydının iptali , adi ortaklar adına elbirliği mülkiyetini tesis ve tescili talebine ilişkindir.
 
 …
@@ -79,6 +87,8 @@ Yevmiye Numarası ile "Düzenleme Şeklinde Kat Karşılığı İnşaat Sözleş
 Talep, resmî belgeye, başkaca kesin bir delile dayanıyor yahut durum ve koşullar gerektiriyorsa, mahkeme gerekçesini açıkça belirtmek şartıyla teminat alınmamasına da karar verebilir. Adli yardımdan yararlanan kimsenin teminat göstermesi gerekmez. (2) Asıl davaya ilişkin hükmün kesinleşmesinden veya ihtiyati tedbir kararının kalkmasından itibaren bir ay içinde tazminat davasının açılmaması üzerine teminat iade edilir" hükmüne yer verilmiştir. Eldeki dava ,tapu iptali ve tescil, ipoteğin terkini taleplerine ilişkin olup dava değeri 8.500.000,00 TL olarak gösterilmiştir. İlk derece mahkemesince davalı ...
 
 ## İstanbul BAM 17. HD 2022/1494 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/839910800)
 
 Bu açıklamalardan sonra, usulüne uygun şekilde toplantı ve karar nisabı sağlanarak alınan genel kurulun 8. gündem maddesine konu karara yönelik ileri sürülen istinaf sebeplerinin yerinde olmadığı sonucuna varılmıştır. Genel kurulun 9 nolu gündem maddesi ile, yüklenici ... Turizm İnşaat Gayrimenkul Yatırım Ticaret Anonim Şirketi ile düzenlenen İstanbul Beşiktaş .... Noterliği'nin 18.8.2014 tarih ve ... Sayılı Düzenleme Şeklinde Arsa payı Karşılığı İnşaat ve Gayrimenkul Satış Vaadi Sözleşmesinin 18 ret oyuna karşılık 100 kabul oyu ile kabulü yönünde karar alındığı görülmüştür. Yukarıda safahati özetlenen Bakırköy 2. Asliye Ticaret Mahkemesinin 2014/1005 Esas sayılı dosyasında, kooperatifin 17.06.2014 tarihinde yapılan genel kurulunda mülkiyeti kooperatife ait olan taşınmazların 29.267 m²'lik kısmı ile ilgili olarak ... Gayrımenkul Mermercilik Turizm İnş. Tic. Ltd.
 Şti. ile ipotek ve teminat karşılığı olmak üzere 244 adet, net alanı 62 m², yaklaşık brüt 75 m², toplam genel brüt alanı yaklaşık 85 m² olan 1+1 dairenin kooperatife verilmesi karşılığını içeren arsa payı karşılığı inşaat sözleşmesi yapılması için yönetim kuruluna verilen yetkinin Kooperatifler Kanunu'nun emredici nitelikteki 42/2. maddesinin 6 ve 7. bentlerine aykırı olduğu ileri sürülerek 17.06.2014 tarihli genel kurul kararının 10 ve 11. gündem maddelerinin mutlak butlan ile batıl olduğunun tespitine, talebin kabul görmemesi halinde iptaline karar verilmesi talep ve dava edilmiştir. Eldeki davada ise genel kurulun 9 nolu gündem maddesi ile, 17.06.2014 tarihli genel kurulda asgari pay oranının, yüklenici firmaya bırakılacak azami arsa pay oranın yazılmaması, ayrıca bir arsaya ihtiyaç olup olmadığının belirtilmemiş olması yönündeki eksiklerin giderilmesinin kararlaştırıldığı anlaşılmıştır. Öncelikle, 17/06/2014 tarihli genel kurulda, yönetim kuruluna ... Gayrımenkul Mermercilik Turizm İnş. Tic. Ltd. Şti. ile kooperatife ait olan taşınmazlar ile ilgili arsa payı karşılığı inşaat sözleşmesi yapılması için yetki verilmişken yönetim kurulunun, genel kurulda yetkilendirilmediği ...
@@ -92,6 +102,8 @@ Yönetim kurulu tarafından, genel kurulca kararlaştırılması gereken sözle�
 Şti. ile kat karşılığı inşaat sözleşmesi yapma yetkisi verilmesine rağmen yönetim kurulunun 18/08/2014 tarihli kararı ile, farklı bir yüklenici olan ... Turz. İnş. Gayr. Yatırım Tic.
 
 ## Sakarya BAM 5. HD 2022/1015 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/786145800)
 
 Davalı vekili cevap dilekçesinde özetle; Görevsizlik kararı verilmesini, en nihayetinde hukuki dayanaktan yoksun davanın reddine, yargılama giderleri ve vekalet ücretinin davacı üzerinde bırakılmasına karar verilmesini talep etmiştir.
 
@@ -110,6 +122,8 @@ Birleştirme Büyük Genel Kurulunun 30.09.1985 tarihli ve 1987/2 E., 1988/2 K. 
 
 ## Konya BAM 5. HD 2022/259 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/740664700)
+
 Davacı vekili dava dilekçesinde özetle; davacı şirketin, inşaat sektöründe faaliyet gösteren davalı şirketten 30/06/2016 tarihinde Konya İli Selçuklu İlçesi Sille Mahallesi ... ada ... parsel sayılı taşınmazları bedelini ödeyerek tapuda yapılan satış işlemi ile satın aldığını ancak Konya .... Asliye Hukuk Mahkemesi'nin ... Esas sayılı dosyasında taşınmazları davalı şirkete devreden önceki malikleri tarafından arsa payı karşılığı inşaat sözleşmesinin feshi ve taşınmazların tapularının iptali için dava açıldığını, davanın kabulü halinde davacının taşınmazlarının elinden gideceğini ve davacının zarar uğrayacağını, davalının davacı aleyhine sebepsiz zenginleşmiş olacağını ileri sürerek, taşınmazlar için ödenen bedelden şimdilik şimdilik 10.000 TLnin 30.06.2018 tarihinden itibaren ticari faizi ile birlikte davalıdan tahsilini talep ve dava etmiştir.
 
 Davalı davaya cevap vermemiştir.
@@ -121,6 +135,8 @@ Bu itibarla ilk derece mahkememsinin 6100 sayılı HMK'nın 114/1-h 115/2. madde
 
 ## İstanbul BAM 15. HD 2021/808 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/652306300)
+
 Sözleşme gereğince, yeni yapılacak binada zemin kat, 5 nolu bağımsız bölüm ile, 2.normal kat, 15 ve 19 nolu bağımsız bölümlerin davalı ...'a verileceği belirlenmiştir. Sözleşmenin "işin süresi, başlama ve teslim tarihi" başlıklı 13.maddesinde, yüklenicinin sözleşmenin imzalandığı tarihten itibaren 18 ay içerisinde inşaat ruhsatını alacağı, şayet tevhit olmaz ise, bu sözleşmeye 12 ay daha süre ekleneceği, inşaat ruhsatı alındığında yüklenicinin en geç 30 gün içinde fiilen inşaata başlayacağı, inşaatın fiilen başlamasından itibaren 24 ay içinde dairelerin anahtar teslim olarak arsa sahiplerine teslim edileceği düzenlenmiştir. Dosyada bulunan tapu kayıtlarına göre, ... parsel sayılı taşınmazın malikleri; ..., ..., ..., ..., ..., ..., ... ve ..., ... parsel sayılı taşınmazın malikleri ise, ..., ..., ... ve ...'tır. Davalılar arasında 08/11/2016 tarihinde Zeytinburnu ... Noterliğinde ... yevmiye sayılı düzenleme şeklinde satış vaadi ve arsa payı karşılığı inşaat sözleşmesi imzalanmıştır.
 Davalı şirket bu sözleşme ile dava konusu ... parsel sayılı taşınmaz ile bitişiğindeki ..., ..., ... ve ... parsel sayılı parsellerde bulunan taşınmazları da kapsar şekilde 6306 sayılı Yasa hükümlerinden de faydalanmak suretiyle binalar yapıp teslim etme işini üstlenmiştir. Dosyada yer alan Güngören Belediyesi İmar ve Şehircilik Müdürlüğünce gönderilen cevabi yazıda; eski ..., ..., ..., ..., ... ve ... sayılı parsellerin tevhidi sonucu ortaya çıkan ... ada, ... sayılı parsel sayıl taşınmaz üzerindeki; ... blok için 20/07/2017 tarihinde 87 bağımsız bölüme ve ... bloktaki 81 bağımsız bölüme yönelik 30/06/2017 tarihinde, ... Bloktaki 55 adet bağımsız bölüme yönelik 30/06/2017 tarihinde yapı ruhsatlarının alındığı, ... ada ... sayılı parsel üzerine 28/05/2014 tarihi itibariyle ... sayılı ve ... sayılı parsellerdeki eski yapılar için "riskli yapı" şerhinin işlendiği 20/06/2016 tarihinde, ... ve ... parsel üzerindeki binaların yıkıldığına ilişkin formların doldurulduğu belirtilmiştir.
 
@@ -128,6 +144,8 @@ Türk Medeni Kanunu'nun 692. maddesine göre, paylı mülkiyetin özgülendiği 
 Bu durumda mahkemenin, davalılar arasında imzalanan sözleşmede taraf olmayan davacının bu sözleşmenin feshini isteyemeyeceğinden bu talebinin aktif husumet yokluğu nedeniyle reddinin gerektiği ve davacı ile davalı arasında imzalanan arsa payı karşılığı inşaat sözleşmesinin tüm arsa sahiplerinin katılımıyla yapılmamış olması nedeniyle geçersiz olduğu ve sonradan diğer arsa sahiplerinin muvafakatı sağlanmak ya da ayrı bir arsa payı karşılığı inşaat sözleşmesi yapılmak suretiyle geçerli hale getirilmediğinden davacı yüklenicinin, geçersiz sözleşmenin ifa edileceğine duyduğu güven ile iyi niyetle yaptığı ve davalılar tarafından yararlanılan giderlerin sebepsiz zenginleşme hükümleri kapsamında davalı arsa sahibinden talep edebileceği yönündeki tespiti isabetli bulunmuştur. Bu tespit gereğince ispat yükü kendisinde olan davacı şirket, taşınmazlara ilişkin riskli yapı başvurularının kendisi tarafından yapıldığını ileri sürmüş ise de dosyaya bu iddiasını ispatlar bir delil ibraz edememiştir. Dosya kapsamında bulunan 02/07/2015 tarihli, ... nolu riskli bina inceleme tespit raporunu yaptıran malikin ... olduğu görülmektedir.
 
 ## İstanbul BAM 45. HD 2021/713 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/672217200)
 
 Bu TMK 706, TBK 237, Tapu Kanunun 26 ve Noterlik Kanunu Madde 60 ve 89 da belirtilen emredici kuralın gereğidir.Tüketicinin konutun inşaatı tarihinde ya da proje aşamasında olmasına rağmen taksitler halinde bedelini yüklenici veya satıcıya ödemeyi yükümlendiği ve uygulamada daha çok maketten satış yani proje üzerinden yapılan konut satışı olarak ifade edilen sözleşme türü ön ödemeli konut satışı sözleşmesidir. İş bu sözleşmenin tanımı TKHK madde 40/1 de yapılmıştır. Ön ödemeli konut satış sözleşmesi, tüketicinin bir taşınmazın satış bedelini önceden peşin veya taksitte ödemeyi, satıcının da bedelinin tamamen veya kısmen ödenmesinden sonra taşınmazı tüketiciye devir veya teslim etmeyi üstlendiği, noterde düzenleme şeklinde yapılan sözleşmedir (AYDOĞDU , s.270).Taraflar arasında ön ödemeli satış sözleşmesinde, tüketicinin asli edimi sözleşmede kararlaştırılan satış bedelinin peşin veya taksitler halinde satıcıya ödemektir. Buna karşılık satıcının asli edimin sözleşmeleri kararlaştırılan konutun iskanı alınmış şekilde tüketiciye teslim etmektir.
 Burada ortada henüz bir konut olmadığı halde tüketici satış bedelinin peşin veya taksitler halinde satıcıya ödemeye başlar (İLHAN KARA, 6502 sayılı Tüketicinin Korunması Hakkında Kanuna göre hazırlanmış Tüketici Hukuku s.895)Yukarıdaki tanımlardan da anlaşılacağı üzere iş bu sözleşme türü tam 2 tarafa borç yükleyen ivazlı bir sözleşmedir. Ön ödemeli konut satış sözleşmesinin unsurları ise;-Tüketicinin satış bedelinin peşin ya da taksitle ödemeyi taahhüt etmesi-Satıcının konutun teslim etmeyi taahhüt etmesi -Teslimin ödemeler başladıktan sonra yapılması -Sözleşmenin resmi şekilde yapılması Bu tür sözleşmelerin TKHK m.41/1 uyarınca tapu siciline tescil edilmesi ve satış vaadi sözleşmeleri ise noter de düzenleme şeklinde yapılması zorunlu olup öngörülen resmi şekilde yapılmaması halinde yapılan sözleşme geçersiz kabul edilmektedir.
@@ -137,6 +155,8 @@ Burada ortada henüz bir konut olmadığı halde tüketici satış bedelinin pe�
 HÜKÜM:Yukarıda açıklandığı üzere; 1-Davalı vekilinin istinaf başvurusunun KABULÜNE,2-İstanbul Anadolu 2. Asliye Ticaret Mahkemesi'nin 2018/421 E. 2020/885 K. sayılı 23/12/2020 tarihli kararının 6100 sayılı HMK'nun 353/1.b.2 maddesi uyarınca KALDIRILMASINA ve YENİDEN HÜKÜM TESİSİNE …
 
 ## İstanbul BAM 7. HD 2021/532 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/644238900)
 
 Dava, gayrimenkul satış vaadi sözleşmesinden (yüklenicinin temlikinden) kaynaklanan tapu iptali ve tescil, ceza-i şart, kira alacağı olmadığı taktirde rayiç değerin tahsili istemine ilişkindir.
 
@@ -153,6 +173,8 @@ Kararı uyarınca davacının, davalının yapsatçı sıfatıyla inşa etmekte 
 HÜKÜM: Gerekçesi yukarıda açıklandığı üzere; 1-Davacı vekilinin istinaf başvurusunun 6100 Sayılı Hukuk Muhakemeleri Kanunu'nun 353/1-a/6. maddesi gereğince KISMEN KABUL, KISMEN REDDİNE, 2-Bakırköy 2.Asliye Ticaret Mahkemesi'nin 04/07/2018 tarih, 2015/26 Esas 2018/6710 Karar sayılı kararının KALDIRILMASINA …
 
 ## İstanbul BAM 45. HD 2021/521 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/665325000)
 
 Düzenleme Şeklinde Gayrimenkul Satış Vaadi ve Kat Karşılığı İnşaat Sözleşmesi; Davalı Öz Gürtepe ... Koop. İle dava dışı ... LTD. Şti. adına ... arasında Büyükçekmece Noterliği vasıtasıyla 31.03.1995 tarihli ve ... yevmiye numaralı sözleşme yapılmıştır. Buna göre, 2. No'lu maddede; arsa sahibinin maliki ve mutasarrufu bulunduğu İstanbul ili Büyükçekmece ilçesi Gürpınar belediyesi ... mevkii kain tapuda ...
 Ada ... parsel de kayıtlı arazi üzerinde tasdikli yerleşim planına göre 94 konutluk ve 2,3,4,5,6,7,9,10 no lu 64 konutluk 10 bloktan oluşan toplam ... konutun ... hissesine tekabül eden 438 adet dairesini yüklenici ve önce satış vaadi bu sözleşmelerdeki aşamalarda kat'i satılıp devredilmesi karşılığında yüklenici tarafından söz konusu taşınmazın üzerine iş bu sözleşme ve ekli projede belirtilen evsafta ... adet daire inşa edilip bunlardan ... hisseye tekabül eden ... adet dairesinin arsa sahibine geri kalan ... hisseye isabet eden 438 adet dairesinin de yükleniciye tahsisinden ibaret olduğu, 10. maddesinde ise; birlik tarafından hazırlanıp arsa sahibince kabul edilmiş olan sözleşmenin eki niteliğindeki taahhütname ve arsa satış sözleşmesinin getirilen müeyyideler (arsa bedeli ile ilgili olanlar hariç) yüklenici tarafından kabul edilmiş sayılacağı belirtilmiş ve bu sözleşme uyarınca kooperatife düşecek dairelerin satımı konusunda ... Şti.'ne yetki verilmiştir.

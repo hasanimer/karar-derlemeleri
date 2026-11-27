@@ -21,10 +21,14 @@ uyari: "Derleyenin seçtiği alıntılardır; kararın tamamı değildir. Künye
 
 ## İstanbul BAM 3. HD 2020/557 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/580960900)
+
 Bu duruma göre, taraflar arasındaki ilişki, TBK 620 maddesi ve devamı maddeleri kapsamında, bir adi ortaklık ilişkisi olup,sözleşme içeriğine taraflarca itiraz edilmemektedir.Dosyadaki bilgi ve belgelere göre ,davacının bu aşamaya kadar adi ortaklığa herhangi bir katılım payı ödediğine ilişkin iddiasının bulunmadığı, diğer ortaklarca kendisinden bu yönde herhangi bir talepte de bulunulmadığı ,dosya kapsamına göre inşaatların davalı şirketçe yapılmaya başlandığı, adi ortaklığın tasfiyesinin sonucu olarak ,davacının tasfiye payının usulünce yapılacak tasfiye sonucunda belirleneceği,bu aşamada HMK nun 392. maddesinde düzenlendiği üzere, tedbir kararının teminatsız verilmesini gerektirecek durum ve koşullar (halin icabı) yönünden ,davacı lehine değerlendirilecek bir hususun bulunmadığı anlaşılmakla ,tedbirin kararda yazılı miktardaki teminat karşılığı verilmesinde usul ve hukuka aykırılık görülmemiştir.Davacı tarafın , "3. kişilerin cebri icra işlemlerinden etkilenilmemesi adına İHTİYATİ HACİZ zımnında" tedbir kararı verilmesi şeklindeki reddedilen talebe ilişkin istinaf sebebinin incelenmesiyle ,yasalarımızda,"ihtiyati haciz zımnında ihtiyati tedbir" şeklinde bir düzenleme
 olmadığından, talep, usulüne uygun bir talep olmadığı gibi, 3. kişilerin haklarını kısıtlayıcı şekilde tedbir kararı da verilemeyeceğinden ,mahkemenin red kararında usul ve hukuka aykırılık görülmemiştir.Böylece ,davacının ara karar yönelik istinaf talebinin HMK 353/1-b-1 maddesi uyarınca reddine karar verilmesi gerekmiştir.
 
 ## İstanbul BAM 13. HD 2020/474 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/577522300)
 
 Bakırköy 2. Asliye Ticaret Mahkemesi' nin 06/02/2020 tarih ve 2020/100 Esas ihtiyati tedbir talebinin reddine dair ara karar karşı istinaf kanun yoluna başvurulması üzerine dosyanın İstanbul Bölge Adliye Mahkemesi 17. Hukuk Dairesi' ne gönderildiği, bu daire tarafından verilen 26/03/2020 tarih ve 2020/928 Esas - 2020/837 Karar sayılı görevsizlik kararı üzerine de dosyanın dairemize gönderildiği anlaşılmış olmakla; incelendi.
 
@@ -34,6 +38,8 @@ Hukuk Dairesi' nin görevsizlik kararında davalı banka ile dava dışı arsa s
 
 ## İstanbul BAM 16. HD 2020/289 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/572475700)
+
 …
 
 : Dava, finansal kiralama konusu malın iadesi davasıdır. Dairemiz önüne gelen uyuşmazlık ihtiyati tedbire itirazın kabulü kararına yöneliktir. Davacı ile davalı arasında finansal kiralama sözleşmesi mevcut olup davacı taraf, davalının finansal kiralama bedellerini ödemede temerrüde düştüğünü iddia ederek eldeki davayı açmıştır. İşbu dava açılmadan önce İstanbul 6.Asliye Ticaret Mahkemesi'nce finansal kiralama konusu asansörlerin teminatsız olarak davacı yana ihtiyati tedbir yoluyla teslimine karar verilmiştir. Söz konusu asansörlerin bulunduğu bina ve apartman yönetimi tarafından işbu ihtiyati tedbir kararına itiraz edilmiştir. Mahkemece verilen ara karar üzerine yapılan keşif sonucu bilirkişi raporu alınmıştır. Her ne kadar mevzuatımızda hukukçu bilirkişi atanması doğru değilse de, rapor içeriğindeki tespitler dikkate alındığında, finansal kiralama konusu asansörlerin bulundukları binanın mütemmim cüzü haline geldikleri anlaşılmaktadır. Öte yandan bilirkişi raporunda asansörlerin sökülmesinin mümkün olduğu belirtilmiş ise de, rapor içeriğinden söküm işleminin binaya zarar vereceği ve masraflı olacağı anlaşılmaktadır.
@@ -42,6 +48,8 @@ Ayrıca asansörlerin kurulu bulunduğu binaların iskanları alınmış olup fi
 HÜKÜM: Yukarıda açıklanan nedenlerle; 1-Davacı vekilinin istinaf talebinin HMK'nun 353/1-b-1 maddesi uyarınca ESASTAN REDDİNE …
 
 ## İstanbul BAM 45. HD 2020/261 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/615646000)
 
 Maddesi uyarınca iflas muhafaza tedbiri konulmasına karar verilmesi taleplerinin reddine, Karara karşı istinaf kanun yolunun açık olduğunun ihtarına, ara kararın istinaf edilmesi halinde ara kararın karar formatında yazılarak dosyanın bir örneğinin İstanbul BAM ilgili Hukuk Dairesine gönderilmesine ve kararın bir suretinin taraflara tebliğine," karar verilmiştir. Verilen ara karara karşı reddedilen kısım yönünden davacı vekili tarafından 17/02/2020 tarihinde istinaf yasa yoluna başvurulmuş olup istinaf nedenleri olarak; İİK 159. Maddesi uyarınca istenilen tedbir talebinin reddine karar verilmiş olması usul ve yasaya aykırı olduğunu, ileride telafisi güç ve imkansız zararlara yol açabileceği ve ayrıca red kararı verilirken de gerekçesi gösterilmediği belirtilerek tedbir talebinin kabulüne karar verilmesini talep etmiştir.
 Davalı vekilince de ara karara karşı kabul edilen kısım yönünden 19/02/2020 tarihinde istinaf yasa yoluna başvurulmuş olup istinaf nedenleri olarak; müvekkilin savunması alınmadan verilen tedbir kararının usul ve yasaya aykırı olduğunu, ilam ile takip edilen borç esasen bulunmadığını, bunları delillendiren dosya ve belgeler mevcut olduğunu, davacı müflis şirket, davalı müvekkil ile evvelce aralarında yapmış oldukları sözleşme gereğince 40 adet bağımsız bölümü tapuda arsa payı ile birlikte devir almış olmakla haksız kazanç elde ettiğini zira, devraldığı tapular kadar dahi bir imalat gerçekleştirmemiş olduğundan esasen kooperatif karşı taraftan alacaklı olduğunu, bu durum Gebze 5.
@@ -55,10 +63,14 @@ Anılan madde uyarınca, mahkemece verilen ihtiyati tedbir kararına karşı tar
 
 ## İstanbul BAM 17. HD 2019/2284 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/555106600)
+
 Öte yandan Türk Medeni Kanunu'nun 403/2. maddesinde, kayyımın, belirli işleri görmek veya malvarlığını yönetmek için atanacağı, 426. maddesinde vesayet makamının, aşağıda yazılı olan veya kanunda gösterilen diğer hallerde ilgilisinin isteği üzerine veya re'sen temsil kayyımı atayacağı, kayyım atamasının yasal temsilcinin görevini yerine getirmesine bir engel olmayacağı, 427. maddesinde ise bir tüzel kişi gerekli organlardan yoksun kalmış ve yönetimi başka yoldan sağlanamamışsa kayyım atanacağı düzenlenmiştir. Somut olayda, davacının, hakkını tehdit eden yakın bir tehlike nedeniyle ivedi bir koruma ihtiyacı içinde bulunmadığı gibi yapı kooperatifleri üyelerine konut yada iş yeri edindirmek amacıyla bir araya gelmiş kişilerden oluşmuş tüzel varlıklar olup kooperatifin yönetim kurulunun oluşumu, işleyişi, görevden alınması, öncelikle kooperatifin iç yapısı içinde genel kurulda halledilmesi gereken konular olup yargı organları ancak yasanın öngördüğü hallerle, organ boşluğu gibi sınırlı olarak kooperatif yönetimine kayyım atayabileceği öngörülmüştür.
 Ayrıca davaya konu uyuşmazlığı esastan çözer nitelikte ihtiyati tedbir kararı verilemeyeceği, buna göre Yargıtay uygulamalarında kabul edildiği ve HMK'nun 391. maddesinin gerekçesinde açıklandığı üzere "dava sonunda elde edilecek faydayı sağlayacak şekilde" başka bir deyişle "davanın ve uyuşmazlığın esasını halleder şekilde" ihtiyati tedbir kararı verilmesi de doğru değildir.Sonuç olarak davacının ileri sürdüğü iddialar bakımından, davalı kooperatife tedbiren yönetim kayyımı atanması talebine yönelik verilen red kararına karşı yapılan istinaf başvurusunun reddine karar verilmiştir …
 
 ## İstanbul BAM 3. HD 2019/1990 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/558796200)
 
 Şti. üzerinden yürütüleceği, iş bitiminde hissedarların hisse oranında tapu devirleri yapılacağının düzenlendiği,bu itibarla taşınmazın tevhit işlemi yapılarak davalı şirket adına tescil edildiği, ancak inşaatın henüz tamamlanmadığı, kat irtifakı tesis edildiği, taraflar arasındaki inşaat ortaklık sözleşmesinin taraflarca feshedilmediği, ortaklık sözleşmesinde kararlaştırıldığı şekilde resmi işlemlerin davalı şirket üzerinden yürütüldüğü, davalı tarafça inşaat giderleri talep edilmemiş olmasının sözleşmenin feshedildiği anlamına gelmeyeceği gibi, davacı tarafça da sözleşmenin fesih edilmemiş olduğu, davacının dava açmakta hukuki yararı bulunmadığı gerekçesi ile davanın reddine karar verilmiştir.Sözkonusu kararı davacı vekili istinaf etmiş olup,mahkemenin maddi olayın hukuki tesbit ve nitelemesinde hataya düştüğü,taraflar arasında inşaat ortaklık sözleşmesi mevcut ise de, davacının ortaklık dışında tutulduğunu, bilgisi dışında ve sözleşmeye aykırı olarak bir takım iş ve işlemlerin yapıldığını,bu husustaki ihtarlarına cevap verilmeyerek inşaat faaliyetinin devam ettirildiğini, ortaklık sözleşmesinin böylece davalı taraflarca fiilen ve tek taraflı olarak sonlandırıldığını, davacının
 zararının giderilmesi için adi ortaklığın tasfiyesini beklemek zorunda bırakılamayacağını, bu hususta oluşan zararların tazmini için açılan davada hukuki yararın bulunduğunu, aksi gerekçe ile verilen kararın hukuka aykırı olduğunu beyanla kararın kaldırılmasını, ortaklığa isabet eden bağımsız bölümler üzerine ipotek ve haciz şerhleri konulması sebebiyle eşit olarak dağıtılacak taşınmazların takyidatlandırılmasının ,davacının alacak veya mülkiyet hakkını tehlikeye düşürdüğünü beyanla, davacı da dahil gerçek kişi ortaklara devrolunacak bağımsız bölümlerin 3. kişilere devrinin önler mahiyette ve yine 3. kişilerin cebri icra işlemlerinden etkilenmememsini temin için ihtiyati haciz zımnında ihtiyati tedbir kararı verilmesi istenmiştir.HMK'nun 355. maddesi uyarınca istinaf sebepleriyle sınırlı olarak yapılan inceleme sonucunda dava , taraflar arasında düzenlenen 19.09.2012 tarihli inşaat ortaklık sözleşmesinin fiilen ve tek taraflı sonlandırıldığı iddiası ile sözleşmenin ifa edilememesi nedeni ile uğranılan zararın tazmini istemine ilişkindir.Dava konusu edilen 19/09/2012 tarihli inşaat ortaklık sözleşmesinde; sözleşme konusu inşaat işinde tarafların 1/3 hisse ile eşit oranda ortak
@@ -74,6 +86,8 @@ K A R A R : Yukarıda açıklanan nedenlerle;Davacının istinaf başvurusunun k
 
 ## İstanbul BAM 15. HD 2019/1504 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/547741100)
+
 ATM'nin 2019/495 d.iş sayılı dosyasından yapılan tespit akabinde İTÜ İnşaat Fakültesi öğretim üyelerinden oluşan bilirkişiler tarafından hazırlanan 09/07/2019 tarihli heyet raporu gereğince karşı tarafa tebligat yapılmaksızın inşaat sahasındaki çökme ve kayma tehlikesinin bir an evvel giderilmesi, komşu parsellerde bulunan evlerde yaşayanların CAN ve mal güvenliğinin sağlanması için, inşaatın su basman seviyesinin tamamlanması ve zemin kat taban betonunun atılmasına kadar yapılması zorunlu işlemlere münhasır olmak üzere arsa sahibine bu işlemleri yapmak ve/veya 3. kişilere yaptırmak üzere izin ve yetki verilmesini için ihtiyati tedbir kararı verilmesini, mahkemenin talep dilekçesindeki açıklamaları tamamen farklı bir sahaya taşıdığını belirterek mahkeme kararının kaldırılması için istinaf kanun yoluna başvurmuştur.Taraflar arasında imzalanan Beşiktaş .... Noterliği 09/07/2015 tarih, ... yevmiye numaları Düzenleme Şeklinde Arsa Payı Karşılığı Gayrimenkul Satış Vaadi Ve Hasılat Paylaşımı Kat Karşılığı İnşaat Sözleşmesi gereğince yüklenici ... Sanayi ve Tic.
 A.Ş. 'nin, talep eden ... maliki olduğu ... ili, ... mahallesi, ... ada, ... parsel sayılı arsaya imar uygulaması yapılması, imar uygulaması sonucu oluşacak ada ve parseller üzerinde arsa sahibinin uygun göreceği konsept ve detay proje uyarınca tüm giderleri yüklenici şirket tarafından karşılanmak üzere mağaza, dükkan ve konut için plan ve projelerin hazırlanması, ilgili belediye ve idarelerden gerekli onayların alınması, sözleşme ve ekleri doğrultusunda her türlü iç ve dış teknik alt yapı ve cins tahsislerinin yapılması, iskan ruhsatları ile kat mülkiyeti tapularının alınması, arsa sahibine gelir payının ödenmesi ve proje çerçevesinde inşa edilecek inşaatların anahtar teslimi tamamlanması yükümlülüğünü üstlendiği, yüklenicinin inşaat ruhsat tarihinden itibaren 30 ay içerisinde inşaatı tamamlamayı taahhüt ettiği kararlaştırılmıştır. Nama ifa TBK'nın 125/1.maddesi kapsamında arsa sahibinin ifa menfaatini sözleşmedeki şartlara uygun olarak sağladığında aynen ifa niteliğindedir. Bu nedenle arsa sahibi nama ifa talep ettiğinde aynı zamanda sözleşmenin aynen ifasını ve tasfiyesini de talep etmiş kabul edilir.
 
@@ -84,17 +98,25 @@ HÜKÜM: Gerekçesi yukarıda açıklandığı üzere;1-Talep eden vekilinin ist
 
 ## İstanbul BAM 14. HD 2019/1401 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/538295600)
+
 Her ne kadar istinaf incelemesi için dosya Dairemize gönderilmiş ise de, inceleme konusu ilk derece mahkemesi ihtiyati haciz kararına konu temel uyuşmazlık, kat karşılığı inşaat sözleşmesinden kaynaklı olması nedeniyle, Hakimler ve Savcılar Kurulunun 13.02.2018 gün ve 208 sayılı iş bölümü kararına göre istinaf talebini inceleme görevi İstanbul Bölge Adliye Mahkemesi 15. Hukuk Dairesine ait olduğundan, dava dosyasının görevli daireye gönderilmesine dair aşağıdaki karar verilmiştir.
 
 ## İstanbul BAM 3. HD 2019/1259 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/515353700)
 
 Davacının ihtiyati tedbir isteminin kabulü ile İstanbul ili, Maltepe ilçesi,... nolu bağımsız bölümdeki taşınmazların tapu kayıtları üzerine, (taşınmazların davalı adına kayıtlı olması halinde) taşınmaz sayısı ve muhtemel değerleri dikkate alınarak, HMK 392 ve HMK’nun 87. maddesine göre nakit veya kesin ve süresiz banka teminatı olarak 211.000,00 TL teminatın davacı tarafça yatırılması kaydıyla dava sonuna kadar başkalarına devir ve temliklerinin önlenmesi için ihtiyati tedbir kararı verilmesine, …
 
 ## İstanbul BAM 15. HD 2019/1019 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/522621700)
+
 Somut olayda; davacı tarafça davalıya ait taşınmaz üzerine geçici tescil şerhi işlenmesi ve üçüncü kişilere devrinin önlenmesi için ihtiyati tedbir kararı verilmesi istenilmiştir. Yukarıdaki açıklamalar göz önüne alındığında, davacı tarafından yaklaşık ispat şartının tam olarak yerine getirilmediği anlaşılmaktadır. Mahkemece her zaman delillerin değerlendirilip HMK'nın 389 ve devamı maddelerindeki şartlar göz önüne alınarak tedbir hususunda bir karar verilebileceğinden ihtiyati tedbir talebinin bu aşamada reddine karar verilmesi yerinde olmuştur.
 
 ## İstanbul BAM 15. HD 2019/1016 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/522618800)
 
 Davalı ...nin diğer taraflar arasında imzalanan sözleşmelere taraf olmaması, mahkemece ihtiyati tedbir koşullarının bulunmadığının kabul edilmesi, ... AŞ ile davacı RMS şirketi arasında imzalanan Gayrimenkul Satış Vaadi ve Borçlanma Sözleşmesi'nin 3/XVİ maddesinde bu iş nedeniyle ... AŞ'nin sorumlu olmadığının kabul edilmiş olması ve yaklaşık ispat kriterleri bir arada değerlendirildiğinde, dava konusu taşınmaz üzerine tedbir konulması talebinin reddine karar verilmesi usul ve yasaya uygun ise de, aynı gerekçeyle taşınmaz üzerine davalıdır şerhi konulmasına yönelik karar da hatalı olmuştur.
 
@@ -104,9 +126,13 @@ HÜKÜM: Gerekçesi açıklandığı üzere;1-Davalı .... vekilinin istinaf ba�
 
 ## Konya BAM 6. HD 2019/188 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/690978500)
+
 İhtiyati haciz kararına itiraz ve temyizi düzenleyen İİK'nın 265. Maddesinde ise; (Değişik birinci fıkra: 17/7/2003-4949/63 md.) Borçlu kendisi dinlenmeden verilen ihti-yatî haczin dayandığı sebeplere, mahkemenin yetkisine ve teminata karşı; huzuriyle yapılan hacizlerde haczin tatbiki, aksi hâlde haciz tutanağının kendisine tebliği tarihinden itibaren yedi gün içinde mahkemeye müracaatla itiraz edebilir.
 
 ## Konya BAM 5. HD 2019/79 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/688745600)
 
 Davacı vekili dava dilekçesinde özetle; davalı şirketin yüklenici olduğu ... isimli yapının yapılması işinde yüklenici, davacının ise bu inşaatın duş teknesi yapımına ilişkin alt yüklenici olduğu ve alacağını tahsil edemediği iddiasıyla 4721 sayılı TMK'nın 893/3 ve 895. maddeleri uyarınca yapı alacaklısı olarak ipotek hakkının geçici tescilini talep ve dava etmiştir.
 
@@ -118,9 +144,13 @@ Davalı ... vekilinin cevap dilekçesinde özetle; Dosya ile birleşen Konya ...
 
 ## İstanbul BAM 13. HD 2019/51 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/461057800)
+
 Teminatın ilk derece mahkeme veznesine yatırılmasına, teminat yatırıldığında ihtiyati tedbir kararının üçüncü kişi ... Hizmetleri AŞ ne tebliğine, ... " karar verilerek dosyanın İlk Derece Mahkemesi' ne gönderilmesi üzerine devam edilen yargılama sırasında verilen 07/06/2018 tarih ve 2017/1059 Esas sayılı, davacılar vekilinin tedbir isteminin yasal koşulları oluşmadığından reddine ilişkin olarak verilen ara karara karşı davacılar vekili tarafından istinaf kanun yoluna başvurulduğu anlaşılmıştır.
 
 ## İstanbul BAM 17. HD 2018/869 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/405551800)
 
 Davacılar vekili 20/06/2017 tarihli dava dilekçesi ile 21/05/2017 tarihli Kooperatif Genel Kurul toplantısında alınan kararların iptali talebiyle açtığı davada genel kurulunun 6. gündem maddesinde yer alan "....tahliye taahhütnameleri düzenlemeye kooperatif adına yönetim kuruluna yetki verilmesi" maddesinin uygulanması halinde mağduriyetlere sebebiyet verebileceği, ileride telafisi mümkün olmayan zararların meydana geleceğinden, tahliyeler gerçekleşirse mahkememizce verilecek kararın konusuz kalacağı anlaşıldığından kooperatif yönetim kuruluna verilen bu madde kapsamında yetki itibariyle "Tahliye Taahhütnameleri Düzenlemeye" ilişkin kararın ihtiyati tedbir yoluyla uygulanmasının durdurulmasını talep etmiş, mahkemece 04/12/2017 tarihli ara kararla talep kabul edilerek bu maddenin uygulanmaması için ihtiyati tedbir kararı verilmiş, davalı vekilinin itirazının 14/12/2017 tarihli duruşmada reddi üzerine yasal süre içerisinde istinaf yoluna başvurulmuştur.
 
@@ -133,6 +163,8 @@ Davalı kooperatifin, 21/05/2017 tarihli Olağan Genel Kurul Toplantısının 6.
 Bakırköy 6. Asliye Ticaret Mahkemesinin 04/12/2017 Tarih ve 2017/581 E. . Sayılı İhtiyati Tedbir Ara Kararı ile bu karara karşı davalı vekili tarafından yapılan itirazın reddine ilişkin 10/01/2018 tarihli kararların ayrı ayrı KALDIRILMASINA …
 
 ## İstanbul BAM 15. HD 2018/391 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/401813300)
 
 Davacılar vekili dilekçesinde; taraflar arasında akdedilmiş olan arsa payı karşılığı inşaat sözleşmesi kapsamında davalıların edimlerini yerine getirmemiş olması nedeniyle uğranılan zararın tazminini talep etmiş, ayrıca dilekçesinde sözleşme konusu taşınmaz üzerindeki davalılara ait hisseler üzerine ihtiyati tedbir konulması talebinde bulunmuştur.
 

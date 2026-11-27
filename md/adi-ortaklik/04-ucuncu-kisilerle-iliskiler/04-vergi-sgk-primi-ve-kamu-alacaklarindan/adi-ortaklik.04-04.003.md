@@ -21,10 +21,14 @@ uyari: "Derleyenin seçtiği alıntılardır; kararın tamamı değildir. Künye
 
 ## İstanbul BAM 3. HD 2021/1830 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/663904500)
+
 Dosya kapsamında tacir araştırması yönünden yapılmış bir araştırma bulunmadığı görül- mektedir.Buna göre mahkemece;Öncelikle, davada davacı ve davalı tarafın vergi kayıtları, vergi matrahları, ticaret sicil ve esnaf oda kayıtlarının celbi, Bakanlar Kurulu'nca çıkartılan, esnaf-tacir arası ayırıma dair kararnamedeki gelir sınırının dosyaya alınması ile tarafların "tacir" ve/veya " esnaf" olup olmadıkları, işletmelerinin esnaf işletmesi kapsamında kalıp kalmadığı, hangi usule göre defter tuttukları, davanın ticari işletmeleri ile ilgili olup olmadığı, TTK 4 ve 5.md gereğince, ticaret mahkemesi sıfatıyla faaliyet gösteren mahke- menin iş bu uyuşmazlığın çözümünde görevli olup olmadığının, yani göreve ilişkin dava şartının bulunup bulunmadığının tespiti gerekmektedir.
 Mahkemenin görevli olduğunun tespiti halinde; yargılamaya devam olunarak, davacının sermaye payı ödemesine ilişkin banka kayıtları da dahil taraflarca gösterilen tüm delillerin celbi, gümrük kayıtları vs tüm delillere göre davacı ve davalı arasında BK 620 vd md anlamında "adi ortaklık" ilişki- sinin mevcut olup olmadığının net olarak tespiti için gümrük konusunda uzman bilirkişinin de dahil olduğu bilirkişi kurulundan rapor aldırılması, adi ortaklık ilişkisinin mevcut olduğunun tespiti halinde de adi ortaklığın fesih ve tasfiye usulü uygulanarak davacının adi ortaklıktan kaynaklanan alacağının belirlenmesi gerekmektedir.Mahkemece gümrük kayıtlarının celp edildiği, verilen ara karar üzerine gümrük konusun- da atanan bilirkişi ücretinin davacı tarafça yatırıldığı, ancak gerekçe belirtilmeksizin rapor alınmasına ilişkin ara kararın yerine getirilmediği anlaşılmaktadır.Açıklanan nedenlerle, davacının istinaf başvurusunun kabulüne, ilk derece mahkemesi ka- rarının kaldırılmasına, HMK 353/1-a-6 md gereğince tespit edilen eksiklikler yeniden yargılama gerek- tirdiğinden dosyanın ilk derece mahkemesine gönderilmesine karar verilmesi gerekmiştir.
 
 ## İstanbul BAM 13. HD 2021/1764 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/715309600)
 
 Dava, sigorta prim alacağının tahsili için başlatılan takibe yapılan itirazın iptali istemine ilişkindir.
 
@@ -40,6 +44,8 @@ Enerji…Ltd.Şti.’nin iş ortaklığının ortaklık nam ve hesabına hareket
 
 ## İzmir BAM 14. HD 2021/1572 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/707274100)
+
 Dava, eser sözleşmesinden kaynaklanan itirazın iptali davasıdır.
 
 …
@@ -49,11 +55,15 @@ Belirtilen eksikliklerin giderilmesi için davacı vekilinin istinaf istemlerini
 
 ## Adana BAM 4. HD 2021/1564 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/699760600)
+
 Somut olayda, davacının adi ortaklıktan doğan alacak talebinde bulunduğu ve Kulu Vergi Dairesi'nin .... tarihli yazısına göre de dava tarihinden önce ticareti terk ettiği anlaşıldığından, uyuşmazlığın her iki tarafı da tacir değildir ve adi ortaklığa ilişkin hükümler de Türk Borçlar Kanunu'nda düzenlenmiştir. Bu durumda mutlak ya da nispi ticari dava söz konusu olmadığına göre davanın genel hükümlere göre asliye hukuk mahkemesinde görülüp sonuçlandırılması gerekmektedir.
 
 Yargıtay 3. Hukuk Dairesi, ..... E. ..... K. Sayılı ilamı ile "davaya konu uyuşmazlığın adi ortaklıktan kaynaklanan alacağa ilişkin olduğu, bu haliyle davacının TTK hükümlerine göre, adi ortaklığa konu sözleşmelerde dikkate alınması suretiyle tacir sıfatına haiz olup olmadığının araştırılarak, tacir olması halinde uyuşmazlığın çözümünün yukarıdaki yasa hükümleri de gözetildiğinde Asliye Ticaret Mahkemesi'nin görevi içinde olduğu, tacir sıfatını haiz olmadığında ise uyuşmazlığın 6502 sayılı Kanun kapsamında kalmadığından Asliye Hukuk Mahkemesi olarak davanın görülmesi gerekir. O halde mahkemece, davanın taraflarının tacir olup olmamasına göre uyuşmazlıkta Asliye Ticaret Mahkemesi'nin görevli olması halinde davaya devam edilmesi, değilse Asliye Hukuk Mahkemesinin görevli olması nedeniyle görevsizlik kararı verilmesi gerekirken" şeklinde aynı hususu belirtmiştir.
 
 ## İstanbul BAM 12. HD 2021/853 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/668750400)
 
 Ağır Ceza Mahkemesinde yargılanarak mahkumiyetine karar verilen ... eylemleri suç teşkil etse dahi , davacı ... ile birlikte kurdukları ...
 Adi Ortaklığında yarı yarıya ortak oldukları, davacı şirket ile ... aynı yerde faaliyet gösterdikleri, davacılar ... ve ...'nun diğer davacı şirketin münferit imza ile yetkili temsilcileri oldukları, İstanbul Vergi Dairesi Başkanlığınca verilen 29.11.2010 tarihli yazı cevabında 2004 yılından 2009 yılına kadar vergi beyannamelerinin gönderildiği, davacı tacir olup 3 yıldan fazla bir süre boyunca hesaplarının kontrolünü yapmamasının, davacılar ile davalı banka arasında süregelen talimatla ödemelerin yapılmasının ticari hayatın olağan akışına aykırı olduğu, sahte işlemlerle çekilen para ve çeklerin şirketin gerçek alacaklılarına da ödemeler yapıldığı birlikte değerlendirildiğinde yapılan işlemlerde davacıların ağır ihmalleri bulunduğu ,zararların davacıların ortağı ve çalışanı tarafından yapılan işlemlerden kaynaklandığı anlaşılmaktadır.İstanbul Anadolu 8.Ağır Ceza Mahkemesinin 2009/185 esas 2015/439 karar sayılı kararlı dosyasında sanık şirket çalışanı ve davacının ortağı sanığın kabul ve ikrarı uyarınca sahte imzalı talimatların dolandırıcılık-sahtecilik suçlarından cezalandırılmasını gerektirecek şekilde hileyle sağlanmış olduğunun da tespit edilmesi karşısında davacının kendi
@@ -61,16 +71,22 @@ Adi Ortaklığında yarı yarıya ortak oldukları, davacı şirket ile ... ayn�
 
 ## Ankara BAM 27. HD 2021/510 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/658333500)
+
 İcra Müdürlüğü'nün....sayılı takip dosyasına istinaden 10/04/2018 tarihinde itirazın iptali davası açılmış olduğu, ön inceleme duruşma tarihinin 13/02/2019 gününe atılı bulunduğu, bu tespitler gözönünde bulunudurularak mahkemece yargılamanın geldiği aşama gözönüne alınarak yargılamaya devamla hüküm kurulduğu, tüm dosya kapsamı ve deliller, tarafların beyanları, sözleşmeler kapsamı, faturalar, ticari defter ve kayıtlar, mahkemece yaptırılan 29/09/2017 tarihli bilirkişi incelemesi kapsamı hep birlikte gözönünde bulundurulduğunda, taraflar arasında 10/10/2013, 08/01/2014 ve 05/01/2014 tarihli eser sözleşmeleri bulunduğu, davacı taşeron tarafından gerçekleştirilen imalatlar nedeniyle bakiye alacaklarının bulunduğunun ileri sürüldüğü, davalı tarafça ise kesilen fatura tutarından daha fazla miktarda ödeme yapıldığının savunulduğu, yapılan inceleme ve tespitlere göre davacının varsa bakiye alacağının belirlenebilmesi için davacı tarafından gerçekleştirildiği anlaşılan bu üç sözleşme kapsamındaki işlerin toplam bedellerinden davalı tarafından yapılan ödemelerin düşülmesi gerektiği, işlerin tamamlanmış olduğunun tarafların kabulünde olduğu, davacı tarafından işin geçte olsa tamamlandığının
 belirtildiği, davalı tarafından da davacı şirket tarafından yürütülen işin 12/10/2014 tarihinde sona erdiğinin, davalı iş ortaklığı tarafından 24/10/2014 tarihli yazı ile ....gönderildiği, davacı ile davalı arasında gerçekleştirilen sözleşmelerden otomatik sulama işine ait sözleşmenin götürü bedelli olduğu ve işin bitirilmesi nedeniyle davacı alacağının götürü bedel üzerinden değerlendirilmesi gerektiği, bu bedele tarafların üzerinde anlaşmış oldukları ekstra imalat bedeli olan 30.317,50 TL'nın eklenmesi ile baskı beton ve akrilik kaplama işlerinde birim fiyatlar üzerinden yapılan hesaplamaya göre davacı alacağının değerlendirilmesi gerekeceği, davacı tarafından yapımı tamamlanan iş bedeline faturası sunulan ve defter kayıtlarına geçen 03/04/2014 tarihli .... sayılı fatura karşılığı 1.533,95 TL malzeme bedelinin eklenmesi gerektiği, davacı alacağının yapılan işler karşılığında 1.047.865,05 TL olarak hesaplandığı, davalının davacıya ve davacı adına SGK'ya ve vergi dairesine taraflar arasındaki sözleşme kapsamında yapmış olduğu ödemeler toplamının 819.184,94 TL olduğu, bu durumda davacının icra takip tarihi itibariyle talep etmekte haklı olduğu alacak tutarının aradaki fark olan
 228.680,11 TL olduğu ve icra takip dosyasında davalının 228.680,11 TL asıl alacağa vaki itirazın iptali gerektiği, alacak davanın niteliği gereği likit olmadığından icra inkar tazminatına hükmedilemeyeceği gerekçesiyle, davanın kısmen kabulüne, davalının Ankara 14.
 
 ## İstanbul BAM 3. HD 2020/2011 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/620182500)
+
 Görev itirazı yapılmamış olsa bile re'sen mahkeme, ilk önce görevli olup olmadığını inceleyip karara bağlamalıdır.Buna göre mahkemece, taraflar arasındaki uyuşmazlığın TBK'da düzenlenen adi ortaklık ilişkisinden kaynaklı olduğu, tarafların TTK'da düzenlendiği gibi tacir sıfatını taşımadığından, adi ortaklığın konusunun ticari gelir elde etmek olması, davayı kendiliğinden ticari dava haline getirmeyeceği ve TTK'da ön görülen, tarafların her ikisinin de tacir olması koşulunun davada oluşmadığı, uyuşmazlığın çözümünde genel mahkeme olan Asliye Hukuk Mahkemesinin görevli olduğu gözetilerek, görevsizlik kararı verilmesi gerekirken denetimden geçmeden kesinleşen görevsizlik kararı üzerine dosyanın gönderilmesi sonucu tarafların tacir olup olmadığı araştırılmaksızın işin esasının incelenerek karar verilmesi usul ve hukuka uygun değildir.Açıklanan nedenlerle, davacının sair istinaf itirazları incelenmeksizin, tarafların, tacir mi esnaf mı olduğu saptanmadan, buna dair araştırma yapılmadan, vergi kayıtları, vergi matrahları, ticaret sicil ve esnaf oda kayıtları getirtilmeden, hangi usule göre defter tuttuğu araştırılmadan, Bakanlar Kurulu'nca çıkartılan, esnaf-tacir arası ayırıma dair
 kararnamedeki gelir sınırı dosyaya alınmadan ve bu deliller toplanıp karar yerinde tartışılmadan verilen karar, usul ve hukuka uygun bulunmamış, bu nedenle bunlar toplanıp kararda tartışılarak, eğer tacir niteliğinde ise esasın bu halde incelenmesi, esnaf niteliğinde ise genel mahkemeler görevli olduğundan Asliye Hukuk Mahkemesince davaya devam edilmesine karar verilmesi gerekirken yazılı şekilde karar verilmesi nedeniyle davacının istinaf başvurusunun kabulüne, kararın HMK 353/1-a-3 maddesi uyarınca kaldırılması ile dosyanın ilk derece mahkemesine geri gönderilmesine karar verilmesi gerekmiştir.
 
 ## İstanbul BAM 3. HD 2020/988 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/603365000)
 
 Her ne kadar sözleşmelerde bitiş tarihi 05/05/2019 tarihi olarak düzenlenmiş ise de ,Rekabet Kurulunun 12.03.2009 tarihli genel duyurusu ve Kurul kararları ile 18/09/2005 tarihinden sonra yapılan sözleşmeler bakımından sözleşme süresi ne olursa olsun yapıldıkları tarihten itibaren ilk beş yıllık süre boyunca muafiyetten yararlanılacağı, taraflar arasında yürürlükte olduğu kabul edilen 24/12/2008 tarihli sözleşmenin ,yukarıda açıklanan 5 yıllık süreye göre bitim tarihinin 24/12/2013 olduğu,ancak sözleşmenin fesih tarihi 28/05/2013 olmakla, sözleşmenin bitim tarihinden 6 ay erken feshedildiği anlaşılmaktadır. Anılan sözleşme fesih ile sonlandırıldığından ,bu durumda Türk Borçlar Kanununun 642. madde ve devamı hükümlerine göre tasfiye işlemi gerçekleştirilmelidir.
 Ortaklık için yapılan tüm giderler, kar, zarar durumu değerlendirilmeden, ortaklığın dava tarihi itibariyle gerçek alacak ve borç miktarı tesbit edilmeden; davanın sonuçlandırılması doğru görülmemiştir.Bu durumda mahkemece, taraflar arasındaki uyuşmazlığın; adi ortaklığın tasfiyesi hükümleri (TBK'nun 620 ve devamı maddeleri) gereğince ve 642. maddelerindeki tasfiye hükümlerinin somut olaya uygulanması suretiyle çözümlenmesi gerekmektedir. Mahkemece ,04/05/2017 tarihli celsede taraflar arasındaki "adi ortaklık kurulduğu ihtimali nazara alınarak " şeklindeki niteleleme ile , bilirkişilerden ... tasfiye memuru olarak atanmış, tasfiye bilançosunun tasfiye memurunca hazırlanması istenmiştir.Aralarında ,tasfiye memurunun da bulunduğu bilirkişi kurulunun ,hesaplamalar ve tasfiyeyi de kapsar şekilde hazırlanan ek raporunun, Dairemizce de usulüne uygun ve denetime elverişli olduğu anlaşılmakla , bilirkişi raporu-tasfiye bilançosunun hükme esas alınmasnda usul ve hukuka aykırılık görülmemiştir.
@@ -80,10 +96,14 @@ Birleşen dava yönünden ileri sürülen taraf istinaflarının incelenmesiyle 
 
 ## İstanbul BAM 13. HD 2019/1736 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/552556100)
+
 İncelenen belgelerden de, adi ortaklığın, davalı şirketten yeminli mali müşavirlik raporunda belirtilen tutarda mal ve hizmet satın aldığı anlaşılmaktadır.KDV iadesi alacağının adi ortaklığa ait olduğu, davanın ise ortaklardan biri tarafından açıldığı, oysa zorunlu dava arkadaşlığı olduğu için hepsinin birlikte dava açması gerektiği, davacının ise adi ortaklık ile ilgili bir iadeyi tek başına talep ettiği, kendi hissesi oranında bile talepte bulunmadığı anlaşılmakla aktif dava ehliyetinin bulunmadığı, Kurumlar vergisi mükellefleri arasında sayılan iş ortaklıkları, 5520 Sayılı Kurumlar Vergisi Kanunu'nun 2 inci maddesinin yedinci fıkrasında; aynı maddenin diğer fıkralarında yazılı kurumların kendi aralarında veya şahıs ortaklıkları ya da gerçek kişilerle, belli bir işin birlikte yapılmasını ortaklaşa yüklenmek ve kazancını paylaşmak amacıyla kurdukları ortaklıklardan bu şekilde mükellefiyet tesis edilmesini talep edenler şeklinde tanımlanmıştır.İstanbul Vergi Dairesi Başkanlığı Mükellef Hizmetleri Usul Grup Müdürlüğü tarafından verilen 06/01/2012 tarihli ve B.07.1.GİB.4.34.19.02-019.01.12.-55 sayılı özelgede;
 İş ortaklıklarında, katma değer vergisi mükellefiyetinin ortaklardan ayrı olarak tesis ettirilmesi; defter tutma, belge düzenleme, muhafaza ve ibraz ile beyanname verme ve vergi ödeme gibi ödevlerin de ortaklardan ayrı olarak yerine getirilmesi gerekmektedirdenmektedir.
 
 ## İstanbul BAM 3. HD 2019/1526 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/541324300)
 
 TTK gereği taraflardan biri tacir ise ve dava konusu iş ticari iş ise bu durumda görevli mahkemenin Asliye Ticaret Mahkemeleri olduğunun belirtildiği, bu nedenle mahkemenin görevli olduğunu beyanla , hukuka aykırı olan ilk derece mahkemesi kararının kaldırılması gerektiğini ileri sürmüştür.Dava,kentsel dönüşüme girecek binaları bulup, yasal prosedürleri tamamlayıp inşaat yapımı ve karın paylaşımına dair adi ortaklık iddiasına dayanmaktadır.Adi ortaklık müesesesi Türk Borçlar Kanunu'nda düzenlenmektedir.Yapılan incelemede; bilindiği üzere, adi ortaklık; iki yada daha fazla kişinin emeklerini ve mallarını ortak bir amaca erişmek üzere birleştirmeyi üstlendikleri sözleşmedir. (TBK. 620/1 md.) Diğer bir anlatımla, adi ortaklık; birbirini tanıyan, birbirlerinin kabiliyet ve şahsiyetlerine güvenen, eşit ve aynı durumda olan gerçek veya tüzel kişilerin, müşterek amacın gerçekleştirilmesini sağlayacak vasıtaları (sermaye paylarını veya emeklerini) ortaklığa getirme konusunda karşılıklı ve uygun irade beyanlarının birbirine ulaşmasıyla teşkil eden bir kişi topluluğudur.Eldeki dava, 6102 sayılı Türk Ticaret Kanunu’nun yürürlüğe girdiği 01.07.2012 tarihinden sonra açılmıştır.
 6102 sayılı Türk Ticaret Kanunu’nun 4. maddesine göre; bir davanın ticari dava sayılması için uyuşmazlık konusu işin, taraflarının her ikisinin birden ticari işletmesiyle ilgili olması ya da tarafların tacir olup olmadıklarına veya işin tarafların ticari işletmesiyle ilgili olup olmamasına bakılmaksızın Türk Ticaret Kanunu veya diğer kanunlarda o davaya Asliye Ticaret Mahkemesi'nin bakacağı yönünde düzenleme olmalıdır. Yine, 6102 Sayılı Türk Ticaret Kanunu'nun 19/2. maddesi uyarınca, taraflardan biri için ticari iş sayılan bir işin diğeri için de ticari iş sayılması, davanın niteliğini ticari hale getirmeyecektir. Zira, Türk Ticaret Kanunu, kanun gereği ticari dava sayılan davalar haricinde, ticari davayı ticari iş esasına göre değil, ticari işletme esasına göre belirlemiştir. 6335 sayılı Kanun'un 2. maddesi ile değişik 6102 Sayılı Türk Ticaret Kanunu'nun 5. maddesi uyarınca, ticari davalar Asliye Ticaret Mahkemelerince görülerek karara bağlanır.
@@ -92,6 +112,8 @@ Diğer taraftan aynı madde gereğince, Asliye Ticaret Mahkemeleri ile diğer hu
 Hal böyle olunca, TTK 5.maddesi uyarınca ticari dava için, tarafların her ikisinin de tacir olması koşulunun oluşmadığı, davanın TTK 4.maddesinde sayılan mutlak ticari dava niteliğinde olmadığı anlaşılmakla, mahkemece ,davanın ticari dava niteliğinde bulunmadığı gözetilerek, davada görevli mahkeme Asliye Hukuk Mahkemesi olduğundan, görevsizlik nedeniyle davanın usulden reddine karar verilmiş olmasında, usul ve hukuka aykırılık bulunmadığından, davacı ve davalı tarafın yerinde görülmeyen istinaf talebinin reddine karar verilmesi gerekmiştir.
 
 ## İstanbul BAM 37. HD 2018/353 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/424374900)
 
 Dava, adi ortaklık sözleşmesinden kaynaklanan alacağın tahsili istemiyle başlatılan takibe itirazın iptali talebine ilişkindir.
 

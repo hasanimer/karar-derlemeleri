@@ -22,6 +22,8 @@ uyari: "Derleyenin seçtiği alıntılardır; kararın tamamı değildir. Künye
 
 ## İstanbul BAM 15. HD 2026/305 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1199682500)
+
 Davalı, taraflar arasında akdedilen dış cephe işleri yüklenici sözleşmeleri kapsamında davacının işi süresinde ve sözleşmeye uygun olarak teslim etmediği, gecikme nedeniyle sözleşmesel ceza ve kira zararının doğduğu, yapılan ödemelerin mahsup edilmesi gerektiği, talep edilen alacak miktarının çelişkili ve likit olmadığı, bu nedenle icra inkâr tazminatı şartlarının oluşmadığı ileri sürülerek davanın reddi ile davacı aleyhine kötü niyet tazminatına hükmedilmesi talep edilmiştir. Mahkeme, taraflar arasında imzalanan 11.10.2013 tarihli...ve 10.06.2014 tarihli ...
 Dış Cephe İşleri Yüklenici Sözleşmeleri kapsamında davacı yüklenicinin üstlendiği imalatları gerçekleştirdiği, yapılan teknik ve mali bilirkişi incelemeleri sonucunda davacının toplam 561.169,03 USD hakediş alacağı bulunduğu, davalı tarafından yapılan 348.706,32 USD tutarındaki ödemelerin mahsubu ile bakiye 212.462,71 USD alacağın kaldığı, usulüne uygun ihtar ile temerrüt gerçekleştiği ve icra takibinin TL üzerinden yapılmış olması nedeniyle takip tarihindeki kur esas alınarak 592.770,96 TL asıl alacak ve 1.165,24 TL işlemiş faiz olmak üzere toplam 593.936,20 TL yönünden itirazın iptaline ve takibin devamına karar verilmesi gerektiği, davalının gecikmeye dayalı cezai şart ve kira zararı savunmasının sözleşme dışı ilave işler ve malzeme teminine ilişkin yazışmalar karşısında yerinde görülmediği, ancak bilirkişi hesaplarıyla belirlenen miktarı aşan fazlaya ilişkin istemlerin ispatlanamadığı anlaşıldığından bu kısım yönünden davanın reddine, alacak belirlenebilir nitelikte olduğundan hükmolunan asıl alacak üzerinden %20 oranında icra inkâr tazminatına hükmedilmesine karar verilmiştir.Taraflar arasında, 10.06.2014 tarihli iş sözleşmesi ve 11.10.2013 tarihli sözleşmeler imzalanmış olup,
 sözleşmenin tarafları Yüklenici: .... Şti. ile İşveren: ... .............
@@ -33,6 +35,8 @@ taraflı feshetme yetkisi tanındığı, fesih halinde yapılan imalatların öl
 Davalı işveren tarafından 24.06.2015 tarihli cevap ihtarı ile, ... projesi yönünden bakiye borcun 18.653 USD olduğunu önceki beyanlarda kabul ettiklerini, 25.606,37 USD talebinin çelişkili olduğunu belirtmiş; ... projesinde ise işin 20.10.2014 tarihinde tamamlanması gerekirken gecikildiğini, geçici kabul bildiriminde bulunulmadığını, sözleşmenin ceza maddesi uyarınca gecikme nedeniyle azami %10 oranında 39.530,44 USD cezai şart doğduğunu, ayrıca yaklaşık 50.000 TL hasar gideri ile 312.000 TL kira zararı oluştuğunu, bu nedenle talep edilen 285.175,61 USD bakiye alacağı kabul etmediklerini bildirmiştir. Davacı ihtarında toplam 310.781,98 USD talep etmiştir. Davalı, ... 18.653 USD kabul beyanı dışında kalan kısmı reddetmiş; ... projesi yönünden ise cezai şart, hasar ve kira zararını ileri sürerek bakiye alacağı kabul etmemiştir.Dava konusu, İstanbul ...... İcra Müdürlüğü’nün ... Esas sayılı dosyasında alacaklı .... Şti. tarafından borçlu ... .....
 
 ## İstanbul BAM 43. HD 2026/194 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1201559000)
 
 Ancak arsa payı karşılığı inşaat yapım sözleşmeleri uyarınca yüklenicinin ve temlik suretiyle onun alacaklarına halef olan tapu payı ya da bağımsız bölüm temlik alan 3. kişinin tapu payı ya da bağımsız bölüme hak kazanabilmesi için yüklenicinin, sözleşme gereği arsa sahibine karşı üstlendiği inşaat yapma edimini sözleşme ve ekleri, tasdikli proje ve ruhsatı ile imar mevzuatına uygun olarak tamamlayıp teslim etmiş olması zorunludur.Davacı tarafından sunulan, davalı tarafından kabul edilmeyen 10.11.2017 tarihli Taşınmaz Satış Vaadi Sözleşmesi'ne göre, davalı, Tekirdağ İli, Çerkezköy İlçesi, ...
 
@@ -49,6 +53,8 @@ Davacı vekilinin istinaf başvurusunun HMK'nın 353(1)b-1 maddesi uyarınca ESA
 
 ## İstanbul BAM 15. HD 2026/158 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1194686200)
+
 Taraflar arasında sözleşme ilişkisi, sözlü, yazılı olarak kabul edilsin veya fiyat teklifleri ile sözleşme ilişkisi kurulmuş olduğu kabul edilmesi halinde dahi, işin ne kadar sürede tamamlanacağı hususunda bir düzenleme ve tarafların kabulü bulunmamaktadır. Eser sözleşmeleri (arsa payı karşılığı inşaat gibi istisnalar hariç) kural olarak hiçbir şekil şartına tabi değildir; sözlü olarak da kurulabilir. Şekil bir geçerlilik şartı değil, ispat şartıdır,. Taraflar işin yapılması ve bedel ödenmesi konusunda anlaşmışlarsa sözleşme geçerlidir.Taraflar arasında işe başlama ve bitirme tarihi belirlenmemişse ve bu husus ispat edilemiyorsa, işin yapım süresinin, işin niteliği, kapsamı ve o işin normal tempoda yürütülmesi halinde ne kadar sürede bitirileceği esas alınarak belirlenmesi gerekir. Bu süreye "makul süre" denir. Yüklenici, işe başlama tarihinden itibaren hesaplanacak bu makul sürede işi tamamlayıp teslim etmek zorundadır.Kesin vade bulunmayan hallerde, borcun muaccel olması (makul sürenin dolması) yetmez; iş sahibinin yükleniciye bir ihtar (uyarı) göndererek ifayı talep etmesi ve onu temerrüde düşürmesi şarttır.
 İhtarsız temerrüt oluşmaz, dolayısıyla tazminat hakkı doğmaz Davalı-karşı davalı vekili, davacı-karşı davalı tarafa; Beyoğlu ...... Noterliğinin ...08.2015 tarih ...yevmiye numaralı ihtarnamesi ile, edimin tam ve eksiksiz olarak derhal bitirilmesi ihtar olarak istenmiştir. Borcun ifa edileceği gün sözleşmede kesin olarak belirlenmemişse, borçlu ancak alacaklının ihtarı ile temerrüde düşer. "Derhal ifa" talebini içeren bir ihtarname, borçluyu (yükleniciyi) temerrüde düşürmek için geçerli ve yeterlidir. İhtarda mutlaka "10 gün içinde" veya "30 gün içinde" gibi sayısal bir süre belirtilmesi şart değildir. "Derhal", "hemen", "süratle" gibi ifadeler, ifanın talep edildiğini ve borçlunun direnim (temerrüt) haline sokulduğunu gösterir. Ancak, Doktrine ve uygulamaya göre; ihtarda "derhal" denilmişse veya süre belirtilmemişse, bu ifade yükleniciye "işin niteliğine göre objektif olarak bitirilmesi gereken makul sürenin (uygun sürenin)" tanındığı şeklinde yorumlanır. Derhal bitiriniz demekle iş derhal bitirilmez.
 
@@ -61,6 +67,8 @@ Kabule göre, asıl davada mahkemece davanın reddine, davalının talebi itibar
 
 ## İstanbul BAM 13. HD 2024/1595 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1078730700)
+
 Mahkemece taşınmazlar başında keşif ve bilirkişi incelemesi yapılması yönünde karar verilmesine rağmen bu hususlar yerine getirilmeden hüküm verilmesinin usule aykırı olduğu, her ne kadar dava konusu çeklerde davalının cirosu yok ise de, çeklerin davalıya tesliminden sonra beyaz ciro ile şirket yönetim kurulu başkanına teslim edildikleri, zira çeklerde cirosu bulunan ...'ın davalı şirketin yönetim kurulu başkanı olduğu, davacılar tarafından çeklerin davalıya verildiğinin sözleşme ile de sabit olduğu, davalının da bu durumu kabul ettiği, bu nedenlerle davalının sorumluluktan kurtulamayacağı, Mahkemenin pasif husumet nedeniyle menfi tespit talebinin reddi kararının hatalı olduğu, her ne kadar taşınmaz satış sözleşmesi adi yazılı şekilde yapılmış ise de, Yargıtay kararları ile bazı durumlarda bu tür sözleşmelerin geçerli kabul edildiği, sözleşmedeki edimler ifa edildikten sonra geçersizliğin ileri sürülmesinin dürüstlük kuralına aykırı olduğu, bu nedenle Mahkemenin kira kaybı talebini reddetmesinin de hatalı olduğu, taraflar arasındaki uyuşmazlığın aynı sözleşmelerden kaynaklanması karşısında Mahkemece altı ayrı vekalet ücretine hükmedilemeyeceği ve bu sebeplerle kararın kaldırılması
 gerektiğine ilişkindir. Dosyadaki belgelere, duruşma sürecini yansıtan tutanaklar ve gerekçe içeriğine göre;
 
@@ -72,6 +80,8 @@ sebeplere dayandıkları, her bir davacı ile davalı arasındaki davaların ayr
 HÜKÜM :Yukarıda açıklanan nedenlerle; 1-Davacıların istinaf başvurusunun 6100 sayılı HMK'nın 353/1-b-1 maddesi gereğince ayrı ayrı ESASTAN REDDİNE …
 
 ## Ankara BAM 22. HD 2024/866 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1043199700)
 
 Davalı kooperatif yargılama katılmadığı gibi cevap da vermemiştir.
 
@@ -95,6 +105,8 @@ Davalı kooperatifin garantör sıfatı ile imzaladığı taraflar arasında dü
 devredilmiş olmasının, sözleşmedeki haklarını ayrıca temlik etmediğinden, devam eden sözleşme ilişkisi kapsamında, malzeme temini karşılığında karşı edim olarak süresi içinde teslim edilmeyen taşınmazlar nedeniyle yükleniciden ve garantör arsa malikinden ifaya ekli cezai şart isteme hakkını ortadan kaldırmayacağı anlaşılmakla yazılı şekilde davanın kabulüne karar verilmesinde bir isabetsizlik görülmemiştir.
 
 ## Antalya BAM 7. HD 2024/575 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1033440200)
 
 Davalı şirket cevap dilekçesi sunmamış olup, duruşmalara katılan tasfiye memuru ..., inşaat işleriyle ilgilenen ortağın ... olduğunu, yapılan inşaatla ilgili bilgi sahibi olmadığını, arsa sahibinin satılan bağımsız bölümlerde tapu vermeyle ilgili problem yarattığını bildiğini beyan etmiştir.
 

@@ -22,6 +22,8 @@ uyari: "Derleyenin seçtiği alıntılardır; kararın tamamı değildir. Künye
 
 ## İzmir BAM 14. HD 2023/402 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/875500500)
+
 Davacı vekili tarafından verilen ihtiyati tedbir talepli dava dilekçesinde özetle;
 Davalılar arasında tapu devri yapılan ... ili ... ilçesi ... mah. ... mevkii ... parselde kayıtlı şu an içinde yapı bulunan taşınmaza ilişkin yapılan düzenleme şeklinde taşınmaz satış vaadi ve arsa payı karşılığı inşaat sözleşmesi ile iki villa yapımı konusunda davalı şirketle anlaştıklarını, müvekkilinin sözleşme göre üzerine düşen tüm yükümlülüklerini yerine getirdiğini, davalı şirkete ise düşen yapıların teslim edildiğini, ... parselde yapılan ve sözleşme gereği müvekkiline düşen taşınmazın davalı şirket tarafından devir ve tesliminin yapılmadığını, davalı ... adına 24.10.2018 tarihinde devir yapıldığını, taşınmazın ...'a devrinin muvazaalı olduğunu, her iki davalının da müvekkilinden mal kaçırma kastı içinde bulunduğunu, öncelikle teminatsız olarak ihtiyati tedbir veya ihtiyati haciz şerhlerinin işlenmesine, dava neticesinde ... parselde yapılan muvazaalı devir işleminin iptali ile eski malik davalı şirket adına geri tesciline, akabinde müvekkiline devri vaad edilen taşınmazdaki yapının müvekkili adına tesciline karar verilmesini, bunun mümkün olmaması halinde bedeli ve zararlarının faiziyle birlikte müvekkiline ödenmesine karar verilmesi isteğinde bulunmuştur.
 
@@ -31,6 +33,8 @@ Somut uyuşmazlıkta; İhtiyati tedbir kararı süresinde infaz için teminat ya
 
 ## İzmir BAM 17. HD 2023/372 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/870456600)
+
 Davacı vekili istinaf dilekçesinde özetle; müvekkilinin davalı ile aralarındaki sözleşme gereği tüm ödemeleri yaptığını ancak, davalının sözleşme konusu taşınmazı üçüncü bir şahsa tekrar sattığını, alacağın muaccel hale geldiğini, uzlaşma çabalarının herhangi bir sonuç vermediğini, alacağın da rehin verilmek suretiyle teminat altına alınmadığı da göz önünde bulundurularak yerel mahkemenin ihtiyati haciz taleplerinin reddine ilişkin 22.12.2022 tarihli ara kararının kaldırılmasını istinaf başvuru sebebi olarak ileri sürmüştür.
 
 …
@@ -39,10 +43,14 @@ Davacı vekili istinaf dilekçesinde özetle; müvekkilinin davalı ile araları
 
 ## İstanbul BAM 53. HD 2023/355 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/890571500)
+
 GEREĞİ GÖRÜŞÜLÜP DÜŞÜNÜLDÜ: Talep, kat karşılığı inşaat sözleşmesine dayalı, sözleşmede aşamalı devir öngörüldüğü, devredilmesi kararlaştırılan arsa payının devredilmediğinden bahisle devri gereken arsa payının tapu kaydının iptali ile davacı adına tescili, sözleşmenin gecikmesine karşı tarafın sebep olduğundan bahisle gecikme nedeniyle uğranılan zararın, kar kaybının tahsili davasında taşınmaz üzerine ihtiyati tedbir konulması istemine ilişkin olup, ilk derece mahkemesince 11/04/2022 tarihli ara kararla talebin kabulü ile dava konusu olan İstanbul İli, Büyükçekmece İlçesi, ... Mahallesi, ... Ada .. ve ... Parsel sayılı bağımsız bölümün tapu kaydı üzerine 3. kişilere devir ve temlikinin önlenmesi için ihtiyati tedbir konulmasına karar verilmiş, bu ara kararına davalının itiraz etmesi üzerine, tedbire itirazın reddine karar verilmiş, bu ara kararın istinaf edilmesi üzerine, dairemizin 11/10/2022 tarih 2022/1924 -149 E.K.
 Sayılı kararı ile davalı vekilinin istinaf talebinin kabulü ile tedbire itirazın reddine dair mahkeme kararının HMK 353/1-a6 maddesi ile kaldırılmasına, davalının tedbirde ölçülülük ve teminat karşılığı tedbirin değiştirilmesi talepleri konusunda da inceleme yapılarak ve taleple bağlılık ilkesi ile HMK'nın 389. Maddesinde belirtilen ancak uyuşmazlık konusunda tedbir kararı verilebileceğine dair düzenlemesi de dikkate alınarak davalının tedbire itirazlarının değerlendirilerek ve gerekçesi de belirtilmek suretiyle oluşacak kanaate göre her bir itiraz ve talep hakkında karar verilmek üzere dosyanın yerel mahkemesine gönderilmesine karar verilmiş, dairemizin kaldırma kararı sonrasında ilk derece mahkemesince 09/11/2022 tarihli ara kararı ile - Davacının tapu iptal ve tescile konu İHTİYATİ TEDBİR talebinin KABULÜ ile; Dava konusu olan İstanbul İli Büyükçekmece İlçesi ... Mahallesi ... Ada ... ve ...
 
 ## İstanbul BAM 3. HD 2023/326 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/857280200)
 
 Dava adi ortaklık nedeniyle alacak ve talep ise ihtiyati haciz ve ihtiyati tedbir hususuna ilişkindir.
 
@@ -53,6 +61,8 @@ Somut davada ihtiyati tedbir ve ihtiyati haciz talebinin reddine ilişkin mahkem
 Bu itibarla, ilk derece mahkemesince ihtiyati tedbir ve ihtiyati haciz talebinin reddine dair verilen kararda mahkemenin vakıa ve hukuki değerlendirmesi bakımından usul ve esas yönünden yasaya aykırı bir durum bulunmamasına göre davacıların istinaf başvurusunun HMK 353/1-b-1 maddesi uyarınca reddine karar verilmesi gerekmiştir.
 
 ## İzmir BAM 11. HD 2023/299 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/868813400)
 
 Mahkemece, 06.07.2022 tarihinde dosya üzerinden yapılan inceleme neticesinde, davacı tarafın ihtiyati tedbir talebini yaklaşık ispat çerçevesinde ispatladığı, İzmir 4. Asliye Ticaret Mahkemesinin 2022/131 D.İş sayılı dosyası ile kurulan ihtiyati tedbir kararının içeriğinin benimsendiği gerekçesiyle ihtiyati tedbirin aynen devamına, değişik iş dosyasına yatırılan teminat yeterli görülmekle, dosyaya aktarılması için mahkemesine yazı yazılmasına karar verilmiştir.
 
@@ -68,6 +78,8 @@ HMK'nın 394/2. maddesinde "İhtiyati tedbirin uygulanması sırasında karşı 
 
 ## İzmir BAM 17. HD 2023/129 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/853773600)
+
 Geçici hukuki koruma tedbirlerinin amacı, yargı organları önünde hak arayan kişilerin nihai olarak elde etmeyi umdukları haklarına erişimi kolaylaştırmaktır. Bu amacın gerçekleşmesi için, elde edilmesi umulan hakların yada onların konularının ortadan kalkması, yok olması, değiştirilmesi gibi olasılıkların bertaraf edilmesi gerekir. Elde edilmesi umulan hakka kavuşulmasını kolaylaştırıcı tedbirler hak arama özgürlüğünü, adil yargılama hakkını ve hukuk devleti ilkesini de yakından ilgilendirir.(TC Anayasası m.36, HMK m.33) ihtiyati haciz istekleri değerlendirilirken geçici hukuki koruma tedbirlerinin açıklanan bu amacının gözden uzak tutulmaması gerekir.
 
 İİK'nın 257/1. maddesinde "Rehinle temin edilmemiş ve vadesi gelmiş bir para borcunun alacaklısı, borçlunun yedinde veya üçüncü şahısta olan taşınır ve taşınmaz mallarını ve alacaklarıyla diğer haklarını ihtiyaten haczettirebilir." denilmiştir. Aynı kanunun 258/1. maddesine göre ihtiyati haciz kararı verilebilmesi için mahkemenin alacağın varlığı hakkında kanaat edinmiş olması yeterlidir. Mahkemenin alacağın varlığına kanaat getirmesinden anlaşılması gereken alacağın usul hukuku kurallarına göre kesin bir şekilde ispat edilmesi değildir.
@@ -78,6 +90,8 @@ Geçici hukuki koruma tedbirlerinin amacı, yargı organları önünde hak araya
 
 ## İstanbul BAM 15. HD 2023/67 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/863652100)
+
 Noterliğinin 09/08/2022 tarih ... yevmiye no ile gönderilen sözleşmenin feshi ve bedelin iadesine ilişkin ihtarın açıkça yaklaşık ispata dayalı belgeler olduğunu belirterek yerel mahkeme ara kararının kaldırılması için istinaf kanun yoluna başvurmuştur. Uyuşmazlık, 6098 sayılı Türk Borçlar Kanunu'nun 470. ve devamı maddelerinde düzenlenen eser sözleşmesinin bir türü olan kat karşılığı inşaat sözleşmesinden kaynaklanmaktadır. Davacı yüklenici, davalı ise taşerondur. Taraflar arasında 09/03/2022 tarihli sözleşme imzalanmış olup, bu sözleşme ile davalı taşeron sıfatıyla davalı şirket tarafından teslim edilen kumaşlar ile 11.770 erkek softshell mont ve 10.980 bayan softshell mont üretimi yaparak 27/05/2022 tarihine kadar teslim etme işini üstlenmiştir. Somut uyuşmazlıkta, sözleşme davacı yanca temerrüt nedeniyle feshedilmiş olup, davacı ödediği iş bedelinin iadesini istemektedir. İhtiyati tedbirin şartları 6100 Sayılı HMK'nın 389/1. maddesinde genel olarak düzenlenmiştir.
 Buna göre, mevcut durumda meydana gelebilecek değişme nedeniyle hakkın elde edilmesinin önemli ölçüde zorlaşacağından ya da tamamen imkânsız hale geleceğinden veya gecikme sebebiyle bir sakıncanın yahut ciddi bir zararın doğacağından endişe edilmesi hallerinde, uyuşmazlık konusu hakkında ihtiyati tedbir kararı verilebilir. HMK'nın 390/3 maddesine göre, tedbir talep eden, öncelikle tedbir istemine ilişkin dilekçesinde dayandığı ihtiyati tedbir sebebini ve türünü açıkça belirtmek ve davanın esası yönünden kendisinin haklılığını yaklaşık olarak, yasal delillerle ispat etmek zorundadır. Buradaki ispatın ölçüsü, “yaklaşık ispat” kuralına göre belirlenir. Yaklaşık ispat kuralı uygulanırken, iddianın doğruluğunu kabul etmekle birlikte, aksinin mümkün olduğu ihtimalini de gözetmelidir. Bu nedenle, ihtiyati tedbire karar verilirken, talebin haksız olma ihtimali de dikkate alınarak talepte bulunandan kural olarak teminat alınır. Geçici hukuki koruma kapsamında olan ihtiyati tedbir kararı verirken hakim, asıl uyuşmazlığı çözecek içerikte bir karar vermemelidir.
 Bununla birlikte, ihtiyati tedbire karar verilirken tarafların çıkar dengesini ve ihtiyati tedbirin amacını hakimin gözetmesi gerekli ve zorunludur.
@@ -87,6 +101,8 @@ Maddesinde de; ihtiyati haciz talep eden tarafın, öncelikle dilekçesinde daya
 
 ## Samsun BAM 1. HD 2022/3198 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/841599600)
+
 İlk derece mahkemesince davalılar vekilinin ihtiyati tedbire itirazının reddine dair ara karar verilmiş, ara karara karşı davalı vekili tarafından süresinde istinaf başvurusunda bulunulmuştur.
 
 …
@@ -94,6 +110,8 @@ Maddesinde de; ihtiyati haciz talep eden tarafın, öncelikle dilekçesinde daya
 Dosya içeriğine, toplanan delillere, davaya konu taşınmaz üzerine 3. Kişilere devrinin önlenmesi açısından HMK 389 ve devamı maddeleri uyarınca ihtiyati tedbir konmuş olmasına, hükmün dayandığı yasal ve hukuksal gerekçeye ve delillerin taktirinde ve değerlendirilmesinde bir isabetsizlik bulunmamasına göre, ilk derece mahkemesince yapılan değerlendirme sonucu mevcut delil durumuna göre verilen ihtiyati tedbir talebinin kabulüne yönelik yapılan itirazın reddine dair ara karar verilmesinde ve hükmün fer'ilerinde usul ve esas yönünden yasaya aykırı bir durum bulunmadığı anlaşılmakla, davalı vekilinin istinaf başvurusunun Hukuk Muhakemeleri Kanununun 353/1-b.1 maddesi gereğince esastan reddine karar verilmesi gerektiği sonuç ve kanaatine varılmış, aşağıdaki şekilde hüküm kurulmuştur.
 
 ## İstanbul BAM 3. HD 2022/2033 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/781737400)
 
 İlk Derece Mahkemesi tarafından 04/11/2021 tarihli ara kararla; " İhtiyati tedbir talebine konu taşınmazla ilgili UYAP üzerinden alınan tapu kaydının incelenmesinde; taşınmazın .../... hissesinin ... A.Ş. Adına, .../.. hissesinin ise Çevre ve Şehircilik Bakanlığı Toplu Konut İdaresi Başkanlığı (TOKİ) adına kayıtlı olduğu anlaşılmıştır. HMK'nun 389.maddesinde; '' Mevcut durumda meydana gelebilecek bir değişme nedeniyle hakkın elde edilmesinin önemli ölçüde zorlaşacağından ya da tamamen imkânsız hâle geleceğinden veya gecikme sebebiyle bir sakıncanın yahut ciddi bir zararın doğacağından endişe edilmesi hâllerinde, uyuşmazlık konusu hakkında ihtiyati tedbir kararı verilebilir.'' düzenlemesi nazara alınarak davacı tarafın tedbir talebi yerinde görülerek aşağıdaki şekilde karar verilmiştir. " gerekçeleriyle 1-İhtiyati Tedbir talebinin kabulü ilex davaya konu İstanbul İli, Tuzla İlçesi, ... Mahallesi, ... pafta, ... Ada, ... nolu parsel de bulunan 260.489,41 m2 miktarlı taşınmazdaki davalı TOKİ'nin .../... PAYI ÜZERİNE 3.KİŞİLERE DEVİR VE TEMLİKİNİN ÖNLENMESİ BAKIMINDAN İHTİYATİ TEDBİR KONULMASINA, 2-Davacı üzerine kayıtlı İstanbul, Tuzla, ..., ...
 Pafta, ... parsel nolu 22.125,00 m2 alanlı parsel nitelikli taşınmazın nitelikleri, değeri belirli olmadığı gibi hisseli olması nedeniyle teminat olarak kabulü talebinin reddine karar verilmiştir. Karara karşı davacı tarafça teminata ilişkin olarak, davalı tarafından ise ihtiyati tedbire itiraz edilmiş, mahkemece duruşmalı olarak yapılan inceleme sonunda; "Davacı vekilinin ihtiyati tedbire itiraz dilekçesinden sonra mahkememize vermiş olduğu 23/11/2021 tarihli dilekçesi ile; 04/11/2021 tarihli tedbir kararında belirlenen 5.862.000,00 TL. tutarındaki teminat mektubunu sunduklarını, dava konusu taşınmazın hissesine ilişkin verilen tedbir kararının infaz edilmesini talep ettiği ve mahkememizce kararın infazı için Tuzla tapu müdürlüğüne yazı yazıldığı, Tuzla Tapu müdürlüğünün 28/11/2021 tarihli cevabi yazıları ile tedbir kararımız doğrultusunda ihtiyati tedbir tesisi işleminin yapıldığı bildirilmiştir.
@@ -106,6 +124,8 @@ Ada, ... nolu parselin 1/4 payının davalı TOKİ üzerine olan tapusunun iptal
 K A R A R: Yukarıda açıklanan nedenlerle; Davalı Toplu Konut İdaresi Başkanlığı'nın istinaf talebinin kabulüyle HMK 353/1-b-2 maddesi gereğince 18/05/2022 tarihli ara kararın kaldırılarak yeniden ara karar hakkında; Davalının ihtiyati tedbir kararına itirazının kabulüyle ihtiyati tedbir kararının kaldırılmasına …
 
 ## Antalya BAM 11. HD 2022/1813 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/846532000)
 
 Davalı cevap dilekçesinde özetle; davalı şirketin feshi talebi ile açılan davada dava- nın müvekkili ...'a ihbarı dışındaki diğer kişelere ihbarına ilişkin talebin yersiz olduğunu, müvekkili ...'un yeni müdür seçilene kadar müdürlük görevinin devam ettiğini, müvekkili ... in bu şirket kurulmadan önce de ticari faaliyetlerde bulunduğunu, davacının belirttiği sözleşmeye konu taşınmazın müvekkili ... in bu dönemde imzalanan sözleşmeye konu olduğunu, müvekkilinin başka faaliyetlerinin de olduğunu, davacının mü- vekkili hakkındaki şirket hesaplarını şahsi hesapları gibi kullandığı iddiasının da doğru olma- dığını, davalı şirketin müvekkilinin şahsi gayretiyle bu güne kadar geldiğini, süreçte davalı şirket için müvekkilinin harcamalar yaptığını, davacının iddia ettiğinin aksine şirket geliri ile yanlızca müvekkili adına bir taşınmaz alınmadığını aynı zamanda davacı adına da taşınmaz alındığını, müvekkilinin 21/10/2020 Tarihli sözleşmeye uygun olarak sözleşmede belirtilen taşınmazları fiilen davacıya devrettiğini sözleşmeye davacının uymadığını, bu taşınmazların imar problemleri sebebi ile müvekkilinin de üzerine alamadığı taşınmazlar olduğunu, tedbir talebinin haksız olduğunu, davacının
 üzerine tedbir konulmasını istediği araçlardan .... ve ....plakalı araçların gerçekte şirket ortağından ayrılan diğer kardeşleri ...'a payına karşılık devredilmesi kararlaştırılan araçlar olduğunu, .... plakalı traktörü de fiilen davacının kullandığını belirterek; şirketin feshine ilişkin davanın reddine, davacının şirketten çıkartılmasına karar verilmesini talep etmiştir.
@@ -124,6 +144,8 @@ HMK.'nun 389. Maddesinde "... uyuşmazlık konusu hakkında ihtiyati tedbir kara
 
 ## İstanbul BAM 3. HD 2022/1612 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/765427200)
+
 6100 sayılı HMK'nun 355 md gereğince, istinaf sebepleri ile sınırlı olarak yapılan incelemeye göre; Dava, adi ortaklık nedeniyle tapu kaydının iptali , adi ortaklar adına elbirliği mülkiyetini tesis ve tescili talebine ilişkindir. Davacı dava konusu taşınmazların adi ortaklık adına tapuda elbirliği mülkiyeti şeklinde kayıtlı olması gerekirken taraflar arasındaki anlaşmaya aykırı olarak sadece davalı tarafa adına tescil edildiğini beyanla dava konusu taşınmazlar üzerine tedbir tesisini talep etmiştir. Mahkemece 32 adet taşınmazın davalı ... A.Ş adına tescil edildiği, davalı şirket tarafından dava konusu ... Pafta ... Ada ... Parsel üzerinde kayıtlı ana taşınmazın ... Bağımsız Bölüm ..., ... Bağımsız Bölüm ... ve ... Bağımsız Bölüm ... numaralı 3 adet taşınmazın ...'a devredildiği ve bir kısım taşınmazlar üzerinde ise ipotek tesis edildiği tespit edilerek " HMK'nun 389 vd.md. uyarınca dava konusu taşınmazlardan davalı ...
 A.Ş adına kayıtlı olanların devir ve ayni hak tesisi konusunda devir ve temliklinin önlenmesi bakımından takdiren teminatsız olarak ihtiyati tedbir konulmasına, davalı ... adına olan üç adet taşınmaz yönünden ise takdiren 500.000,00TL nakdi teminat yada kesin ve süresiz olmak kaydı ile teminat mektubu mukabili karşılığında "DAVALIDIR" şerhi konulmasına" karar verilmiştir. Davalı taraf "ihtiyati tedbir" ve "davalıdır" şerhine ilişkin şartlarının oluşmadığını iddia etmekte ayrıca teminat yönünden itiraz etmektedir. İhtiyati tedbir yönünden; İhtiyati tedbirin şartları 6100 sayılı HMK 389/1. maddesinde genel olarak düzenlenmiştir. Buna göre, mevcut durumda meydana gelebilecek değişme nedeniyle hakkın elde edilmesinin önemli ölçüde zorlaşacağından ya da tamamen imkânsız hale geleceğinden veya gecikme sebebiyle bir sakıncanın yahut ciddi bir zararın doğacağından endişe edilmesi hallerinde, uyuşmazlık konusu hakkında ihtiyati tedbir kararı verilebilir.
 HMK'nın 390/3 maddesine göre, tedbir talep eden, öncelikle tedbir istemine ilişkin di- lekçesinde dayandığı ihtiyati tedbir sebebini ve türünü açıkça belirtmek ve davanın esası yönünden kendisinin haklılığını yaklaşık olarak, yasal delillerle ispat etmek zorundadır.
@@ -136,6 +158,8 @@ Talep, resmî belgeye, başkaca kesin bir delile dayanıyor yahut durum ve koşu
 
 ## Konya BAM 5. HD 2022/1435 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/826303900)
+
 Davacı vekili dava dilekçesinde özetle; Davalı yüklenici ... ile diğer davalı ... arasında arsa payı karşılığı inşaat sözleşmesi olduğunu, davalı yüklenici tarafından kendisine satılan 2 adet taşınmazın tapusunun, davalı arsa sahibinin sözleşmenin geriye etkili fesh talebiyle açtığı dava neticesinde tapusunun iptal edildiğini ileri sürerek, taşınmazların dava tarihindeki rayiç bedelinin şimdilik 20.000 TL'sinin avans faizi ile birlikte davalılardan müteselsilen tahsilini, ayrıca ihtiyati tedbir ve ihtiyati haciz kararı verilmesini talep etmiştir.
 
 …
@@ -143,6 +167,8 @@ Davacı vekili dava dilekçesinde özetle; Davalı yüklenici ... ile diğer dav
 Eldeki dava da, davacı, davalı yükleniciden satın aldığı 2 adet taşınmaz için dava açtığı, ancak davasının tacir olmadığı gibi uyuşmazlığın mutlak ticari davalardan olmadığı, davacının 2 adet taşınmaz satın aldığından tüketici vasfında da olmadığı nazara alındığında ilk derece mahkemesince asliye hukuk mahkemesi görevli olduğundan ihtiyati tedbir talebinin görev yönünden reddi ile görevsizlik kararı verilmesi yerine yazılı gerekçeyle ihtiyati tedbir talebinin reddie karar verilmesi yerinde olmadığından davacı vekilinin istinaf başvurusunun kabulü ile 6100 sayılı HMK'nın 353/1-b-2. maddesi gereğince ilk derece mahkemesi kararının kaldırılmasına, davacı vekilinin ihtiyati tedbir talebinin görev yönünden usulden reddine karar verilmesi gerekmiş, aşağıdaki şekilde hüküm kurulmuştur.
 
 ## İstanbul BAM 17. HD 2022/1396 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/828309100)
 
 Sİ VE HUKUKİ NİTELENDİRME: Dava, kooperatif üyeliğinden kaynaklanan tapu iptal ve tescil talebine ilişkindir. Uyuşmazlık, dava konusu taşınmaz üzerine teminatsız olarak "davalıdır" şerhi konulması talebinin reddine ilişkin Mahkeme kararının yerinde olup olmadığı ile teminatsız olarak "davalıdır" şerhi konulmasının usul ve yasaya uygun olup olmadığı noktasında toplanmıştır. Geçici hukuki korumaların bir türü olan ihtiyati tedbirin şartları 6100 sayılı HMK'nun 389 uncu maddesinde düzenlenmiş olup, anılan düzenleme "Mevcut durumda meydana gelebilecek bir değişme nedeniyle hakkın elde edilmesinin önemli ölçüde zorlaşacağından ya da tamamen imkânsız hâle geleceğinden veya gecikme sebebiyle bir sakıncanın yahut ciddi bir zararın doğacağından endişe edilmesi hâllerinde uyuşmazlık konusu hakkında ihtiyati tedbir kararı verilebilir." hükmünü haizdir.
 Anılan hükümde de açıkça belirtildiği üzere, ihtiyati tedbir kararı, bir hakkın elde edilmesinin önemli ölçüde zorlaşacağından ya da tamamen imkânsız hâle geleceğinden veya gecikme sebebiyle bir sakıncanın yahut ciddi bir zararın doğacağından endişe edilmesi hâllerinde, uyuşmazlık konusu hakkında uygulanacak geçici bir hukuki korumadır.İhtiyati tedbir verilebilmesinin en önemli şartlarında biri, ihtiyati tedbir sebebinin mevcut olmasıdır. Kanunda bu husus genel olarak düzenlenmiş, hâkime oldukça geniş bir takdir alanı bırakılmıştır.(m. 389/1). Kanun, burada "mevcut durumda meydana gelebilecek bir değişme nedeniyle hakkın elde edilmesinin önemli ölçüde zorlaşacağından ya da tamamen imkânsız hale geleceğinden veya gecikme sebebiyle bir sakıncanın yahut ciddi bir zararın doğacağından" söz etmektedir. Bu hüküm dikkate alındığında, mevcut durumun değişmesi hâlinde, hakkın elde edilmesinin önemli ölçüde zorlaşması, hakkın elde edilmesinin tamamen imkânsız hâle gelmesi, gecikme sebebiyle bir sakıncanın yahut ciddi bir zararın doğması tehlikesi varsa, ihtiyati tedbir sebebi var kabul edilecektir.

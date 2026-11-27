@@ -22,6 +22,8 @@ uyari: "Derleyenin seçtiği alıntılardır; kararın tamamı değildir. Künye
 
 ## Yargıtay 15. HD 2011/5999 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/765781800)
+
 Dava, arsa payı karşılığı inşaat sözleşmesinin feshi nedeniyle tapu iptâli tescil, sözleşmenin feshedilememesi halinde dairenin geç tesliminden dolayı gecikme tazminatı alacaklarının tahsili istemine ilişkindir.
 
 …
@@ -35,11 +37,15 @@ SONUÇ: Yukarıda açıklanan nedenlerle temyiz itirazlarının kabulüyle karar
 
 ## Yargıtay 15. HD 2011/5574 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/764185900)
+
 05.04.1996 tarihli kat karşılığı inşaat sözleşmesinde davacılar yanında ayrıca arsa sahibi sıfatıyla, ... , ... , ... , ... , ... de yer almıştır. İnşaat yapımı kararlaştırılan ... ilçe ... Mah. 1900 Ada 4-5-6 nolu parsellerin, sözleşme tarihinde adı geçenlerin pay sahibi oldukları da getirtilen tapu kaydından anlaşılmaktadır. Türk Medeni Kanunu'nun 692. maddesi hükmünce, paylı malın tamamı üzerinde tasarruf işlemlerinin yapılması, oybirliğiyle, aksi kararlaştırılmış olmadıkça bütün paydaşların kabulüne bağlıdır. Davada, sözleşmenin feshi istenildiğine göre, gerek sözleşmenin tarafı olan gerekse tapuda paydaş bulunan tüm maliklerin davada yer alması zorunludur. O halde mahkemece yapılması gereken iş, diğer paydaşların davaya muvafakatlerinin alınması, muvafakat etmedikleri takdirde ayrı bir dava açılarak, bu dava ile birleştirilmesi, böylece tüm maliklerin davada yer alması tamamlandıktan sonra uyuşmazlığın esasının incelenmesi, aksi halde davanın reddine karar verilmesinden ibarettir. Bu hususlar üzerinde durulmadan eksik taraf teşkili ile sözleşmenin feshedilmesi usul ve yasaya aykırı olmuş, kararın bozulması uygun bulunmuştur.
 
 SONUÇ: Yukarıda açıklanan nedenlerle, davalının temyiz itirazlarının kabulü ile hükmün davalı yararına BOZULMASINA …
 
 ## Yargıtay 14. HD 2010/7904 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/769048200)
 
 Dava, yüklenicinin satış vaadi nedenine dayalı tapu iptali ve tescil istemine ilişkindir.
 
@@ -55,6 +61,8 @@ SONUÇ: Yukarıda açıklanan nedenlerle temyiz olunan hükmün BOZULMASINA …
 
 ## Yargıtay 15. HD 2010/7136 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/778353000)
+
 Kat karşılığı inşaat sözleşmesinin 4. maddesinde inşaatın anahtar teslimi suretiyle bitirileceği kabul edilmiştir. “Anahtar teslimi” ibaresi iskân ruhsatının alınmasını da içerir. Sözleşmenin 12. maddesinde “kooperatife kalan dairelerin tapu devir işlemleri, arsa sahiplerine ait bağımsız bölümler tamamlanıp tesliminden sonra yapılacaktır.” düzenlemesine yer verilmiştir. Dosyada bulunan 24.12.2002 tarihli noter teslim zaptından arsa sahiplerinin kendilerine ait 296 ada 4 parsel üzerindeki F blokta bulunan 14 adet bağımsız bölümün anahtarını teslim aldıkları anlaşılmaktadır. Dosya içerisinde bulunan Samsun 2. Asliye Hukuk Mahkemesi’nin 2004/946 E.-2005/72 K. sayılı dava dosyasıyla, Samsun 3. Asliye Hukuk Mahkemesi’nin 2003/224 E.-2004/921 K. sayılı dava dosyalarının incelenmesinden, davalı dahil tüm arsa sahiplerinin gecikme tazminatı ve ayıplı işlerin giderilme bedeli isteklerinin karar altına alındığı, bu dosyaların kararlarının kesinleştiği belirlenmiştir.
 
 Davalıyla diğer arsa sahiplerinin ve yüklenici kooperatifin imzaladığı 18.08.1995 tarihli sözleşmede iskân ruhsatı alma yükümlülüğünün davacı kooperatifte olduğu tartışmasızdır. Davacı kooperatifin iskân ruhsatını almadığı anlaşılmaktadır. Bu durumda davacı kooperatif diğer arsa sahipleriyle anlaşmış olsa dahi, davalı arsa sahibi iskân ruhsatı alınana kadar yeterli sayıda bağımsız bölümün satış yetkisini davacı kooperatife vermemekte haklıdır. Ancak, davalı arsa sahibinin adına kayıtlı ve davacı kooperatife ait olduğu uyuşmazlık konusu olmayan bağımsız bölümlerin tamamının satış yetkisini vermemesi, noter teslim tutanağıyla kendilerine ait bağımsız bölümleri teslim almış olmaları da dikkate alındığında, iyiniyet kurallarıyla bağdaşmaz. Mahkemece bu şekilde değerlendirme yapılıp, hüküm oluşturulması gerekirken, davacı kooperatifin davasının tamamen reddine karar verilmesi doğru olmamıştır.
@@ -64,6 +72,8 @@ Davalıyla diğer arsa sahiplerinin ve yüklenici kooperatifin imzaladığı 18.
 SONUÇ:Yukarıda açıklanan nedenle kararın temyiz eden davacı kooperatif yararına BOZULMASINA …
 
 ## Yargıtay 15. HD 2010/4549 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/775102000)
 
 Dava, arsa payı karşılığı inşaat yapım sözleşmesinin yüklenici kooperatifin temerrüdü sebebiyle feshi, sözleşme konusu taşınmazların teslimi ve sözleşmede kararlaştırılan maktu cezanın tahsili istemine ilişkindir.
 
@@ -76,6 +86,8 @@ SONUÇ: Yukarıda açıklanan nedenlerle temyiz itirazlarının kabulüyle hükm
 
 ## Yargıtay 15. HD 2010/3755 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/777482500)
+
 Az yukarıda belirtilen arsa payı karşılığı inşaat sözleşmesi, ... ve ... tarafından imzalanmamış ise de; kat irtifakı, 27.04.1994 tarihinde taşınmazın tüm malikleri yani arsa sahibi davacılar adına tesis olunmuş ve davacılar tarafından yükleniciye verilmesi gereken bağımsız bölümlerle irtifaklı arsa payları yüklenici ...'e verilen vekaletnameye dayalı olarak davalılara satılmıştır. Ayrıca, ... ve Necla ... da arsa payı karşılığı inşaat sözleşmesini imzalayan diğer davacılarla birlikte dava açmışlardır. Belirtilen bu hususlar, ... ve ...'in imzalarının bulunmadığı arsa payı karşılığı inşaat sözleşmesine onay verdiklerini göstermektedir. Davacıların müşterek paydaş olmaları durumunda Türk Medeni Kanunu'nun 692. maddesi uyarınca paydaşların; el birliği mülkiyeti halinde de aynı Kanun'un 702. maddesi gereğince, arsa payı karşılığı inşaat sözleşmesinin yapılmasında ortakların iradeleri birleşmiş olduğu gibi, olağanüstü tasarruflardan sayılan arsa payı karşılığı inşaat sözleşmesinin feshi davasında da “oy birliği” sağlanmış olmaktadır.
 Hukuk Usulü Muhakemeleri Kanunu'nun 75 ve 76. maddeleri hükümleri ve 04.06.1958 gün ve 15/6 sayılı Yargıtay İçtihadı Birleştirme Kararı gereğince, maddi olayları açıklamak taraflara, hukuki niteleme ise hakime ait bir görevdir. Davada yüklenici ...'in arsa payı karşılığı inşaat sözleşmesi gereğince yüklendiği ediminin ifasında “borçlu temerrüdüne” düşmüş bulunması sebebiyle arsa payı karşılığı inşaat sözleşmesinin geriye etkili sonuç doğurur şekilde feshinin istendiği açıklıkla anlaşılmaktadır. Tüm davacıların 23.12.1992 tarihli arsa payı karşılığı inşaat sözleşmesinin geriye etkili sonuç doğurur şekilde feshine karar verilmesi istemine ilişkin davalarının kabulü gerekirken; davacılar Necla Sözer ile ...'nın sözleşmenin feshine karar verilmesi istemlerinin reddine karar verilmesi doğru olmadığı gibi; tapu iptâli ve tescili davalarının da reddi doğru olmamıştır.
 
@@ -87,6 +99,8 @@ SONUÇ: Yukarıda 1. bentte belirtilen nedenlerle davalılar ... ile ... ve ...'
 
 ## Yargıtay 15. HD 2010/3407 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/775766200)
+
 Tekirdağ 2. Noterliğince düzenleme şeklinde yapılan 30.07.1998 gün ve 12462 yevmiye nolu sözleşmede arsa sahibi olarak davalı ile dava dışı ... ve yüklenici olarak da davacı şirket yer almıştır. Dava konusu taşınmazda henüz kat irtifakı tesis edilmemiş olup, iptâl ve tescil talep edilen bağımsız bölümler de sadece aleyhine dava açılan Nihal adına da tapuda kayıtlı değildir. Yüklenicinin sözleşme gereği kararlaştırılan bağımsız bölümlere hak kazanabilmesi için sözleşmenin tarafı olan tüm arsa sahiplerine karşı edimini yerine getirdiğini kanıtlamak zorunda olup bunun tesbit ve değerlendirilebilmesi için diğer arsa sahibi Recep'in de davada yer alması gerekir. Bu durumda mahkemece öncelikle ...'ün davaya katılması sağlanarak taraf teşkili yapıldıktan sonra işin esası incelenmesi gerekirken kamu düzenine ilişkin bulunan taraf teşkili hususu gözden kaçırılarak davaya devam edilerek esas hakkında hüküm kurulması doğru olmamıştır.
 
 Arsa payı karşılığı inşaat yapım sözleşmeleri taraflara karşılıklı borçlar yükleyen tam iki yanlı sözleşmelerdendir. Yüklenicinin bu sözleşme uyarınca kararlaştırılan tapu payına hak kazanabilmesi için; inşaatı sözleşme ve eklerine, fen ve sanat kaidelerine, tasdikli projesi ve ruhsatı ile imar mevzuatına uygun olarak tamamlayıp arsa sahiplerine ait bağımsız bölümleri teslim etmesi gerekir. Somut olayda, bu yönde herhangi bir araştırma yapılmamıştır.
@@ -97,6 +111,8 @@ SONUÇ: Yukarıda 1. bentte açıklanan nedenlerle davacının diğer temyiz iti
 
 ## Yargıtay 15. HD 2010/939 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/774760800)
+
 TMK’nın 692. maddesi uyarınca, arsa payı devri karşılığı inşaat sözleşmelerinin feshi davasında sözleşmede imzaları bulunan gerçek ve tüzel kişilerin davanın tarafı olması veya davaya muvafakat bildirmesi zorunludur. Dosyada bulunan 14.05.1997 tarihli daire karşılığı inşaat sözleşmesini arsa sahibi olarak davacı dışında ..., ... ve ... ...’da imzalamıştır. Dosyada bulunan Şişli 4. Sulh Hukuk Mahkemesi’nin 06.01.2000 tarihli veraset belgesinden sözleşmeyi imzalayanlardan ... ile ...’in vefat ettikleri, tek mirasçılarının davacı olduğu anlaşılmaktadır. Ancak sözleşmeyi arsa sahibi olarak imzalayan ... ... davanın tarafı olmadığı gibi, davaya muvafakatı da sağlanmamıştır.
 
 Bir davada, işin esasının incelenebilmesi için taraf teşkili yapılması zorunludur. Taraf teşkili yapılması kamu düzenine ilişkin olduğundan mahkemelerce resen dikkate alınması gerekir. Somut olayda, sözleşmede arsa sahibi olarak imzası bulunan ... ...’ın davanın tarafı olması sağlanmadan veya davaya muvafakatı alınmadan, diğer bir ifadeyle taraf teşkili tamamlanmadan işin esasının incelenmesi ve karar oluşturulması doğru olmamıştır.
@@ -106,6 +122,8 @@ Bir davada, işin esasının incelenebilmesi için taraf teşkili yapılması zo
 SONUÇ: Davalı ...’in karar düzeltme isteminin kabulüne, Dairemizin 05.03.2009 gün 2008/929 E. 2009/1216 K. sayılı bozma ilâmının ortadan kaldırılmasına …
 
 ## Yargıtay 14. HD 2009/6289 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/842614100)
 
 Davalı, savunmada bulunmamıştır.
 
@@ -121,6 +139,8 @@ SONUÇ: Temyiz olunan kararın yukarıda açıklanan nedenle BOZULMASINA …
 
 ## Yargıtay 15. HD 2009/6088 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/855324000)
+
 Dava konusu Esentepe Mahallesi 1708 ada 104 parsel numaralı taşınmaza 12 adet bağımsız bölüm yapıldığına göre, bu bağımsız bölümlerin tüm arsa sahipleriyle yüklenici kooperatif arasında yapılan sözleşmeler, diğer parsel üzerine inşaat yapılmasından vazgeçilmiş olması ve vazgeçilen parselden yüklenici kooperatife tapu payı devredilmemiş olması ile mahalli rayiçler değerlendirilmek suretiyle bilirkişi görüşü alınarak taraflar arasında yapılan bağımsız bölümler yönünden paylaşımın belirlenmesi ve bunun sonucuna uygun şekilde arsa sahipleri tarafından açılan davaların değerlendirilip sonuçlandırılması gerekirken, arsa sahipleri ..., ..., ..., ... ve ... tarafından açılan davaların reddine, diğer arsa sahibi ... tarafından açılan ve bu dava ile birleştirilen dava dosyasının tefrikine karar verilmesi doğru olmamıştır.
 
 Yüklenici kooperatif tarafından açılan ve bu dosya ile birleştirilmesine karar verilen 2007/180 Esas sayılı dava dosyasında yüklenici kooperatif üzerine inşaat yapılmayan Sütlüce Mahallesi 7369 ada 8 parsel numaralı taşınmaz için yapılan giderlerin tahsilini istemiş, mahkemece yüklenici kooperatifin birleşen davasının kabulüne karar verilmiştir. Birleşen dosya içerisindeki Dairemizin 22.10.2007 günlü bozma ilâmında, yüklenici şirketin yaptığı imalâtın ve harcamaların arsa sahiplerinin yararına olup olmadığının araştırılmasının gereğine değinilmiştir. Bu dosyada alınan 28.01.2009 tarihli bilirkişi raporunda bilirkişiler tarafından Sütlüce Mahallesi 7369 ada 8 parsel için yapılan giderlerin arsa sahiplerinin faydalanacağı giderler olmadığı bildirilmiştir. Bilirkişilerin bu görüşleri, arsa sahiplerinin ıslah beyanlarına rağmen yüklenici kooperatif tarafından Sütlüce Mahallesi 7369 ada 8 parsel üzerine kooperatifin kendi iradesiyle herhangi bir inşaat yapmamış olması dikkate alındığında, kooperatifin birleşen davasının reddine karar verilmesi gerekirken, kabulüne karar verilmesi hatalı olmuştur.
@@ -130,6 +150,8 @@ Yüklenici kooperatif tarafından açılan ve bu dosya ile birleştirilmesine ka
 SONUÇ:Yukarıda açıklanan nedenlerle kararın temyiz eden davacılar yararına BOZULMASINA …
 
 ## Yargıtay 15. HD 2009/6045 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/855307900)
 
 Mahkemece ikinci bozma ilâmına uyularak yapılan yargılama sonucu arsa sahibi tarafından açılan fesih davasının ve tapu iptâli ve tescil ile ilgili davanın reddine, üçüncü kişi ... tarafından açılan ve birleştirilen davanın ise kabulüne karar verilmiş, karar davacı ve karşı davalı arsa sahibi tarafından temyiz edilmiştir.
 
@@ -142,12 +164,16 @@ SONUÇ: Yukarıda açıklanan nedenlerle temyiz olunan kararın davacı ve karş
 
 ## Yargıtay 15. HD 2009/5180 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/856432500)
+
 Dosyada bulunan 01.05.2002 tarihli düzenleme şeklinde kat karşılığı inşaat sözleşmesi arsa sahibi olarak, davacı ... dışında ..., ... , ..., ..., ..., ..., ... ve ... tarafından imzalanmıştır. Arsa sahiplerinden ... dışındakilerin tapudaki paylarını 28.12.2005 ve 31.12.2005 tarihlerinde davacı ...’a devrettikleri anlaşılmaktadır. ... dışındaki arsa sahiplerinin sözleşmeden doğan haklarını davacı ...’a devrettiklerine ilişkin bir belge dosyada bulunmamaktadır. Dairemizin yerleşmiş uygulamasına göre tapu kaydındaki payın devri sözleşmedeki hakların devri olarak yorumlanamaz. TMK’nın 692. maddesi uyarınca arsa payı devri karşılığı inşaat sözleşmesinin, sözleşmenin tarafı olan tüm arsa sahiplerince açılması gerekir. Bu şartın gerçekleşmemesi durumunda, sözleşmenin tarafı olan diğer arsa paydaşlarının davaya muvafakatlarının sağlanması, bu da mümkün olmazsa sözleşmede imzası olan arsa sahipleri haklarında fesih davası açılarak davanın tarafı olmalarının sağlanması, bu şekilde taraf teşkili yapıldıktan sonra işin esasının incelenmesi gerekir.
 Mahkemece bu kurala uyulmadan sözleşmenin tarafı olan diğer kişilerin davaya muvafakatları veya davada taraf olmaları sağlanmadan, işin esası incelenmek suretiyle yazılı şekilde hüküm kurulması doğru olmamış, kararın bozulması gerekmiştir.
 
 SONUÇ:Yukarıda açıklanan nedenlerle kararın BOZULMASINA …
 
 ## Yargıtay 15. HD 2008/7503 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/858060200)
 
 Davacı yükleniciler ile tüm arsa sahipleri arasında imzalanan 30.10.2000 tarihli Kat Karşılığı İnşaat Sözleşmesinde yüklenicilerle arsa sahiplerine ait olacak bağımsız bölümler belirlenmiş, bodrum katta otopark harici depo çıkar ise yüklenicilere ait olacağı kararlaştırılmıştır. Sözleşmenin 44. maddesinde bodrum katın çift bodrum olabileceği, otopark dışında kalan bölümleri yüklenicilerin istediği şekilde değerlendirebilecekleri düzenlemesine yer verilmiştir. İnşaatın projesinden ve bilirkişi raporundan bodrumun 2 katlı olarak yapıldığı, 2. bodrumda otopark, sığınak ve su deposunun yer aldığı, 1. bodrum katta ise davaya konu teşkil eden 12 nolu bağımsız bölümün bulunduğu anlaşılmaktadır. Projesine göre 12 numaralı bağımsız bölüm pide salonudur.
 Taraflar arasındaki sözleşmenin paylaşım bölümünde bodrum katta otopark harici depo çıkarsa yüklenicilere ait olacağının kararlaştırılması, sözleşmenin 44. maddesinde ise bodrumun 2 katlı olarak yapılabileceğinin kabul edilmesi ve otopark dışında kalan bölümlerin yüklenicilerin istedikleri şekilde değerlendirebileceklerinin kabul edilmesi nedeniyle 1. bodrum katta bulunan dava konusu 12 numaralı bağımsız bölümün yüklenicilere ait olduğunu kabul etmek zorunludur. Davalılar dışındaki arsa sahipleri 12 numaralı bağımsız bölümdeki paylarını bu durumu kabul ederek yüklenicilere devretmişlerdir.
@@ -158,6 +184,8 @@ SONUÇ:Yukarıda açıklanan nedenlerle kararın temyiz eden davacılar yararın
 
 ## Yargıtay 18. HD 2007/8922 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/880433300)
+
 Davacı vekili dava dilekçesinde, Kat Mülkiyeti Yasasına aykırı olarak arsa payı verilip davalılar adına kat irtifakı tesisi ile tapuya tescil edilen ortak yer (bekçi evi) niteliğindeki taşınmazların arsa paylarının iptali ile ortak yer olarak tesciline karar verilmesini istemiş, mahkemece dava konusu edilen 15 ve 16 nolu bağımsız bölümlerin projede ortak yerlerden sayılan kapıcı dairesi yeri olarak belirlendiği, ortak yerlere tapuda arsa payı ayrılamayacağı ve özel mülkiyete konu edilemeyeceği gerekçesi ile tapularının iptali ile arsa paylarının yeniden düzenlenmesine karar verilmiştir.
 
 Arsa payının değiştirilmesi istemiyle açılan davanın sonunda dava konusu edilen bağımsız bölümün arsa payının değişmesi diğer bağımsız bölümlerin paylarında da artmaya ya da azalmaya neden olacağından ve bu durumun bütün kat maliklerinin hukukunu ilgilendirdiği ve husumetin kat maliklerinin tümüne yöneltilmesi ve buna göre taraf teşkilinin sağlanması gerektiği düşünülmeden yazılı şekilde karar verilmesi doğru görülmemiştir.
@@ -165,6 +193,8 @@ Arsa payının değiştirilmesi istemiyle açılan davanın sonunda dava konusu 
 Bu itibarla yukarıda açıklanan esaslar gözönünde tutulmaksızın yazılı şekilde hüküm tesisi isabetsiz, temyiz itirazları bu nedenlerle yerinde olduğundan kabulü ile şimdilik diğer yönleri incelenmeksizin hükmün HUMK.nun 428.maddesi gereğince BOZULMASINA …
 
 ## Yargıtay 15. HD 2007/6317 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/859761800)
 
 Dava arsa payı karşılığı inşaat yapım sözleşmesinin feshi nedeniyle men-i müdahale ve ecrimil istemlerine ilişkindir.
 
@@ -182,6 +212,8 @@ SONUÇ:Yukarıda açıklanan nedenlerle temyiz itirazlarının kabulü ile hükm
 
 ## Yargıtay 15. HD 2007/4213 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/862575800)
+
 Davacı ... ile davalılar 1-... 2-... 3-...
 
 …
@@ -194,6 +226,8 @@ O halde, diğer paydaşlar ...ve..., davalı yüklenici ile “kat karşılığ�
 SONUÇ:Yukarıda (1.) bentte belirtilen nedenle davacı tarafın tüm, davalılar vekilinin sair karar düzeltme isteminin reddine, (2.) bentte açıklanan sebeplerle davalılar vekilinin karar düzeltme taleplerinin kabulüne ve açıklanan bozma sebeplerinin, Dairemizin 2005/5899 Esas ve 2006/6756 Karar sayılı bozma ilamına ilavesiyle yerel mahkeme kararının bu sebeplerle de BOZULMASINA …
 
 ## Yargıtay 15. HD 2007/2550 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/16113400)
 
 Davacılar vekili, davacılar ve dava dışı diğer arsa sahibi paydaşlar ile davalı yüklenici şirket arasında yapılan ve Kadıköy 2.Noterliği'nce doğrudan düzenlenen 03.06.1988 tarih ve 38236 yevmiye numaralı "Düzenleme Şeklinde Gayrimenkul Satış Vaadi ve İnşaat Mukavelesi" başlıklı sözleşme hükümleri gereğince, Yalova-Taşköprü Köyünde bulunan 8, 9 ve 10 parsel sayılı ve bu parsellerin tevhidi sonucu oluşan 1511 parsel sayılı taşınmaza, sözleşmede yazılı koşullarla inşaat yapmayı ve yine sözleşmede kararlaştırılan bağımsız bölümlere arsa sahiplerine teslim etmeyi yüklendiğini, yanlar arasındaki sözleşme uyarınca inşaat yapılacak taşınmazın 660/1000 payının davalıya kayden temliki yapıldığı halde yüklendiği edimini ifa etmediğini ileri sürerek, yanlar arasındaki kat karşılığı inşaat sözleşmesinin feshine ve davalıya devredilen tüm bağımsız bölüm irtifak kayıtlarının iptaliyle davacılar adına tapuya tesciline karar verilmesini istemiştir.
 
@@ -213,6 +247,8 @@ Diğer yandan, dosya kapsamındaki tapu kayıtlarından inşaat yapılması kara
 SONUÇ:Yukarıda açıklanan sebeplerle davacılar vekilinin temyiz itirazlarının kabulü ve kararın davacılar yararına BOZULMASINA …
 
 ## Yargıtay 15. HD 2006/3775 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/859805000)
 
 Az yukarda da açıklandığı üzere, yüklenici davacının yanlar arasındaki 11.12.1992 günlü sözleşmenin 5. maddesi gereğince kat irtifakı tesisini sağladıktan sonra (A) Bloktaki 1, 2 ve 4 nolu bağımsız bölümlerin adına tescilini istemesi gerekmektedir. Kat irtifakı tesisi işlemlerinin yapılabilmesi için de, 634 sayılı Kat Mülkiyet Yasasının 14 ve bu maddenin yollamasıyla 12. maddesi hükmünde öngörülen yasal koşulların yerine getirilmesi zorunludur. Bu kapsamda, öncelikle arsa malikinin veya bütün paydaşların kat irtifakı kurulması ve tapu siciline tescil edilmesi için ilgili tapu sicil müdürlüğüne yazılı olarak başvuruda bulunması gerekmektedir. Yanlar arasındaki sözleşmeler gereğince kat irtifakının tesis ettirme yükümlülüğü davacı yükleniciye ait olduğuna göre, buna yönelik işlemlerin yürütülebilmesi ve tamamlanabilmesi için tüm paydaşlarca yükleniciye yetki verilmesi; bu işlemlerin tamamlanması amacına yönelik yetkiyi içerir vekaletname verilmemesi durumunda ise, tüm paydaşların davaya katılımının sağlanması ile kendisine yetki verilmesini yüklenici davacının mahkemeden istemesi zorunlu bulunmaktadır.
 O halde, dava dışı paydaşlardan kat irtifakı tesisi işlemlerini tamamlayabilme yetkisini içeren vekaletname verilmemesi durumunda o paydaşların, davacı tarafından davaya katılımlarının sağlanması ve haklı sebeplerle bulunmaması durumunda da mahkemece davacı yükleniciye bu yönde yetki verilmesi gerekmektedir.

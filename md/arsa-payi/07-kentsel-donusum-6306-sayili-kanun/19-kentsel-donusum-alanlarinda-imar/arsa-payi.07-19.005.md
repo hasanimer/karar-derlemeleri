@@ -22,6 +22,8 @@ uyari: "Derleyenin seçtiği alıntılardır; kararın tamamı değildir. Künye
 
 ## Danıştay 9. D. 2025/1308 E., 2025/3587 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1206411700)
+
 İlk Derece Mahkemesi kararının özeti: ...
 
 …
@@ -37,6 +39,8 @@ aktarılacağı kurala bağlanmıştır.
 ... Bölge İdare Mahkemesi ... Vergi Dava Dairesinin ... tarih ve E:..., K:... sayılı kararının BOZULMASINA …
 
 ## Danıştay 6. D. 2022/2567 E., 2025/3477 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1188034100)
 
 Yukarıda yer verilen mevzuat hükümlerinin birlikte değerlendirilmesinden, İdare Mahkemesince verilen kararın tarihi itibarıyla 2577 sayılı Kanun hükümleri uyarınca öncelikle istinaf kanun yolu öngörülmüş olmakla birlikte, 5233 sayılı Kanunun Geçici 6. maddesinde "riskli alan ve bu alanların dönüştürülmesi için kullanılacak rezerv yapı alanlarına ilişkin Çevre ve Şehircilik Bakanlığınca onaylanan imar planları ve parselasyon planları"na karşı açılan davalar için özel bir yargılama usulü benimsenmiş olup, buna göre idare mahkemelerince verilen kararlara karşı on beş gün içinde temyiz yoluna gidilebileceği açıkça düzenlenmiştir.
 
@@ -60,6 +64,8 @@ Dava konusu işlemin yukarıda özetlenen gerekçeyle iptaline ilişkin Mahkeme 
 
 ## Danıştay 6. D. 2022/9380 E., 2025/3382 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1183706800)
+
 3194 sayılı İmar Kanunu'nun "Tanımlar" başlıklı 5. maddesinde, nazım imar planı, "varsa bölge planlarının mekâna ilişkin genel ilkelerine ve varsa çevre düzeni planlarına uygun olarak halihazır haritalar üzerine, yine varsa kadastral durumu işlenmiş olarak çizilen ve arazi parçalarının; genel kullanış biçimlerini, yerleşme alanlarının gelişme yön ve büyüklüklerini, nüfus yoğunlukları ve eşiklerini, ulaşım sistemlerini göstermek ve uygulama imar planlarının hazırlanmasına esas olmak üzere düzenlenen, plan hükümleri ve raporuyla beraber bütün olan plan" şeklinde; uygulama imar planı, "tasdikli halihazır haritalar üzerine varsa kadastral durumu işlenmiş olarak nazım imar planı esaslarına göre çizilen ve çeşitli bölgelerin yapı adalarını, bunların yoğunluk ve düzenini, yolları ve uygulama için gerekli imar uygulama programlarına esas olacak uygulama etaplarını ve diğer bilgileri ayrıntıları ile gösteren plan" şeklinde tanımlanmış; "Mekânsal planlama kademeleri" başlıklı 6. maddesinin 1. fıkrasında, "Mekânsal planlar, kapsadıkları alan ve amaçları açısından Mekânsal Strateji Planlarına uygun olarak; “Çevre Düzeni Planları” ve “İmar Planları” kademelerinden oluşur.
 İmar planları ise nazım imar planı ve uygulama imar planı olarak hazırlanır. Her plan bir üst kademedeki plana uygun olarak hazırlanır." hükmüne yer verilmiştir.
 
@@ -73,6 +79,8 @@ Dava konusu işlemin yukarıda özetlenen gerekçeyle iptaline ilişkin Mahkeme 
 
 ## Danıştay 4. D. 2023/11302 E., 2025/3280 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1187334500)
+
 6306 sayılı Kanunun Uygulama Yönetmeliği'nin 5. maddesinin 1. fıkrasında, "Riskli alan; a) Alanın, zemin yapısı veya üzerindeki yapılaşma sebebiyle can ve mal kaybına yol açma riski taşıdığına dair teknik raporu, b) Alan sınırları içerisinde 15/5/1959 tarihli ve 7269 sayılı Umumi Hayata Müessir Afetler Dolayısiyle Alınacak Tedbirlerle Yapılacak Yardımlara Dair Kanuna göre afete maruz bölge olarak kararlaştırılan alan olup olmadığına dair bilgi ve belgeyi, c) Alanın büyüklüğünü de içeren koordinatlı sınırlandırma haritasını, varsa uygulama imar planını, ç) Alanda bulunan kamuya ait taşınmazların listesini, d) Alanın uydu görüntüsünü veya ortofoto haritasını, e) Zemin yapısı sebebiyle riskli alan olarak tespit edilmek istenilmesi halinde yerbilimsel etüd raporunu, f) Bu fıkra uyarınca belirlenecek riskli alanlar için Ek-2’de yer alan Riskli Yapıların Tespit Edilmesine İlişkin Esasların EK-A bölümüne göre hazırlanan analiz ve raporu, g) Alanın özelliğine göre Bakanlıkça istenecek sair bilgi ve belgeleri, ihtiva edecek şekilde hazırlanmış olan dosyaya istinaden Bakanlıkça belirlenir ve karar alınmak üzere Cumhurbaşkanına sunulur." kuralı yer almaktadır.
 
 Dosyanın incelenmesinden; davalı idare tarafından yapılan savunmada, dava konusu riskli alan kararının temel dayanağı ve teknik gerekçesinin, deprem sonrası yapılan hasar tespit çalışmaları olduğu, hasar tespit çalışmalarının, niteliksel bir yaklaşım ile teknik açıdan binaların risk seviyesi açısından yapılan bir sınıflandırma olduğu gözetilerek ayrıca alanda bulunan yapılar için yapısal performans analizinin yapılmadığı, riskli alanı da kapsayan 21/02/2018 tarihli "İmar Planına Esas Mikrobölgeleme Etüt Raporu"nun bulunduğu belirtilmiş, yukarıda yer verilen mevzuat hükmü gereğince, alandaki deprem tehlikesi ve yapıların deprem performansını etkileyen yapısal özellikler saha çalışmaları sonucunda elde edilerek, yapısal sistem özelliklerine göre sınıflandırılmış tip binalar seçilerek bunların analizlerinin yapılması sonucunda bir korelasyon çıkarılıp genel yapı stoğunun riskinin belirlenmesine yönelik teknik rapor düzenlenmemiş ise de, dava konusu işlemin dayanağını oluşturan raporda; söz konusu alanın 307 hektar büyüklüğe sahip olduğu, bölgede meydana gelen depremden ötürü mevcut yapıların büyük bir kısmının yıkık, acil yıkılacak ve ağır hasarlı olması sebebiyle 6306 sayılı
@@ -81,6 +89,8 @@ Derece Arkeolojik Sit Alanı ve Kentsel Sit Alanında kaldığı, alan içerisin
 planına esas jeolojik etüd çalışmaların mevcut olduğu ya da ayrıca yapılacağı hususları da dikkate alındığında, yapı stoğu ve zemin yapısı üzerinde anılan Yönetmelikte belirtilen nitelikte teknik raporun düzenlenmemiş olması, bu konuda bilirkişi incelemesi yapılmasını gerektirmediği gibi dava konusu işlemi de hukuka aykırı hale getirmeyeceği sonucuna ulaşılmıştır.
 
 ## Danıştay 6. D. 2022/7953 E., 2025/3108 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1191452400)
 
 DAVALI ...
 
@@ -103,6 +113,8 @@ Temyize konu ... Bölge İdare Mahkemesi ... İdare Dava Dairesinin ... tarih ve
 
 ## Danıştay 6. D. 2024/6414 E., 2025/2771 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1187555300)
+
 Davacı tarafından dava konusu çevre düzeni planının İzmir İli, Torbalı İlçesi, ... Mahallesine ait kısmının planlaması yapılırken bölgesel gelişmelerin dikkate alınmadığı ,planlama yapılırken eşitlik ilkesine aykırı davranıldığı ,1985 yılına ait yerleşik alan haritasının esas alındığı ,1985 sonrasına ait gelişmeler ve bölgesel dinamiklerin dikkate alınmadığı iddialarıyla bakılmakta olan dava açılmıştır.
 
 …
@@ -115,6 +127,8 @@ Alt ölçekli planlarda, yerleşmenin sahip olduğu geleneksel doku ve yapılaş
 
 ## Danıştay 6. D. 2023/7743 E., 2025/2761 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1184817300)
+
 3194 sayılı İmar Kanununun "Otoparklar" başlıklı 37. maddesinde, "İmar planlarının tanziminde planlanan beldenin ve bölgenin şartları ile müstakbel ihtiyaçlar gözönünde tutularak lüzumlu otopark yerleri ayrılır. Otopark ihtiyacı bulunan bina ve tesislere lüzumlu otopark yeri tefrik edilmedikçe yapı izni, otopark tesis edilmedikçe de kullanma izni verilmez. Kullanma izni alındıktan sonra otopark yeri, plana ve yönetmelik hükümlerine aykırı olarak başka maksatlara tahsis edilemez. Bu fıkra hükmüne aykırı hareket edildiği takdirde ilgili idarece yapılacak tebligat üzerine en geç üç ay içerisinde bu aykırılık giderilir. Mülk sahibi tebligata rağmen müddeti içerisinde gerekli düzeltmeyi yapmaz ise, belediye encümeni veya il idare kurulu kararı ile bu hizmet ilgili idarece yapılır ve masrafı mal sahibinden tahsil edilir.
 (Ek fıkra:4/7/2019-7181/11 md.) Yapılaşmamış parseller, parsel maliklerinin muvafakati, araç giriş ve çıkışlarının trafiği aksatmaması ve ilgili idaresinden izin alınmak kaydıyla, zemini geçirimli malzeme ile kaplanarak ve gerekli işaretlemeler yapılarak, yapı kapsamına girmeyecek şekilde açık otopark olarak işletilebilir." hükmüne, "Yönetmelik" başlıklı 44. maddesinde ise "(...) III - Otopark ayrılması gereken bina ve tesisler ile diğer hususlar Bakanlıkça çıkarılacak yönetmelikte tespit edilir. Otopark yapılmasını gerektiren bina ve tesislerin neler olduğu, otopark ihtiyacının miktar, ölçü ve diğer şartları ile bu ihtiyacın nasıl tespit olunup giderileceği ise, bu yönetmelikte belirtilir." hükmüne yer verilmiştir.
 
@@ -125,6 +139,8 @@ Alt ölçekli planlarda, yerleşmenin sahip olduğu geleneksel doku ve yapılaş
 Dava konusu 12/08/2023 tarih ve 32277 sayılı Resmi Gazetede yayımlanan Otopark Yönetmeliğinde Değişiklik Yapılmasına Dair Yönetmeliğin 1. maddesinin 2. fıkrası ile Otopark Yönetmeliğinin 4. maddesine eklenen 2. fıkranın İPTALİNE …
 
 ## Danıştay 6. D. 2023/3671 E., 2025/2679 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1163774200)
 
 İlk Derece Mahkemesi kararının özeti: ...
 
@@ -156,6 +172,8 @@ Davanın yukarıda özetlenen gerekçeyle reddine ilişkin Mahkeme kararına yö
 ... Bölge İdare Mahkemesi ... İdari Dava Dairesince verilen ... tarih ve E:..., K:...sayılı karar ve dayandığı gerekçe hukuk ve usule uygun olup bozulmasını gerektirecek bir sebep bulunmadığından, anılan kararın ONANMASINA …
 
 ## Danıştay 4. D. 2024/2992 E., 2025/2511 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1174921800)
 
 Uyuşmazlıkta; öncelikle, davacının arsa payının açık artırma ile satışının yapılacağına dair Kadıköy Belediye Başkanlığı Emlak ve İstimlak Müdürlüğünün ... tarihli, E-... sayılı işleminin, anlaşma sağlayan ve açık artırmaya katılma hakkı bulunan diğer maliklerin adreslerine taahhütlü posta yoluyla veya 7201 sayılı Kanun'a göre tebliğ edilip edilmediği hususu ile açık artırma sonucu taşınmazı satın alan KİPTAŞ İstanbul Konut İmar Plan Turizm Ulaşım Sanayi ve Ticaret Anonim Şirketinin, belirtilen tarih itibarıyla uyuşmazlık konusu taşınmazda maliki bulunduğu herhangi bir taşınmazın bulunup bulunmadığının araştırılması; sonrasında ise, 22/02/2023 tarihinde yapılan açık artırma ile satış sonucunda 3.204.000,00-TL bedel karşılığında davacının arsa payını satın alan KİPTAŞ İstanbul Konut İmar Plan Turizm Ulaşım Sanayi ve Ticaret Anonim Şirketine yapılan satışın;
 "rayiç değerden az olmamak üzere anlaşma sağlayan diğer paydaşlara açık artırma usulü ile satışın gerçekleştirilememesi durumuna istinaden anlaşma sağlayan paydaşların kararı ile yapılan anlaşmaya uyularak işlem yapılmasını kabul etmek şartıyla üçüncü şahsa yapılan bir satış" kapsamında mı olduğu; yoksa "üçte iki çoğunluk sağlayan hissedarlar arasında bir açık artırma ile satış işlemi" mahiyetinde mi olduğu hususunun (varsa bu duruma ilişkin bilgi ve belgelerin getirtilerek) açıklığa kavuşturulması ve belirtilen durumlar değerlendirildikten sonra bir karar verilmesi gerekirken; yalnızca taşınmazın rayiç bedelinin tespitine yönelik yaptırılan keşif sonucunda düzenlenen bilirkişi raporu değerlendirilmek suretiyle davanın reddi yolunda verilen İdare Mahkemesi kararına karşı yapılan istinaf başvurusunun reddine ilişkin Bölge İdare Mahkemesi İdare Dava Dairesi kararında hukuki isabet görülmemiştir.

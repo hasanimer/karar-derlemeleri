@@ -22,6 +22,8 @@ uyari: "Derleyenin seçtiği alıntılardır; kararın tamamı değildir. Künye
 
 ## İstanbul BAM 3. HD 2024/1129 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1018716700)
+
 Maddede yer alan Makbuz Senedinde bulunması gereken unsurları içermediğini, basiretli bir tacirin bu şekilde 100.000.Amerikan Doları ödediğini kabul etmenni hukuken olanaksız olduğunu belirterek, davanın reddi ile haksız olarak açılan dava sebebiyle müvekkili lehine %20 oranından az olmamak üzere İcra Tazminatına hükmedilmesine karar verilmesini talep etmiştir.Dosyadaki bilgi ve belgelere göre ; Taraflar arasında İstanbul ili, Sarıyer ilçesi, ... Köyü, ... Çiftliği mevkiinde kain ... pafta, ... parselde kayıtlı 15.320 m2, İstanbul ili, Sarıyer ilçesi, ... Köyü, ...
 Çiftliği mevkiinde kain ... pafta, ... parselde kayıtlı 11.869 m2 arsa vasıflı gayrimenkuller ile ilgili olarak düzenleme şeklinde hasılat paylaşımlı arsa payı karşılığı bina yapımı ve satış vaadi ön anlaşması yapıldığı ve davacı şirket (Yüklenici) ile davalı şirket (Arsa Sahibi) arasında 11.07.2008 tarihli EK SÖZLEŞME NO.l başlıklı Sözleşmenin 1 nolu maddesi ,Yüklenicinin (davacı şirketin) Arsa Sahibine (davalı şirkete) yapacağı ödemeler konusunda: a- Yüklenici , sözleşmeyi imzalama esnasında kaparo olarak 100.000 USD Arsa Sahibine, hasılat paylarına mahsuben ödeyecektir.b- Yüklenici, sözleşmeyi imzaladıktan sonra, Arsa Sahibine, müstakbel hasılat paylarına mahsuben, 900.000 USD bedelli 21 Ağustos 2008 vadeli teminat çeki verecektir.
 Teminat çeki vadesinden 2 gün önce, Yüklenici tarafından verilecek aynı tutarda bloke çek ile değiştirilecektir.Yüklenici a ve b bendindeki yükümlülüklerini yerine getirdikten sonra, taraflar Düzenleme Şeklinde Hasılat Paylaşımlı Arsa Payı Karşılığı Bina Yapımı ve Satış Vaadi Sözleşmesini noter huzurunda imzalayacaklardır.Yüklenici, inşaat ruhsatı alındığında ya da en geç 5 ay içinde alıp Arsa Sahibine 1.000.000 USD daha avans karşılığı teminat çeki verecek ve vadesinde ödeme yaparak teminat çekini iade alacaktır.Yüklenici (davacı şirket), en geç 1 sene içinde ya da konut satışlarına başlandığında Arsa Sahibine (davalı şirkete) 1.000.000 USD tutarlı teminat çeki verecek ve vadesinde nakden ödeyerek teminat çekini iade alacaktır.
@@ -38,6 +40,8 @@ daha sonra noterde yapılacağı protokolde belirtilmiştir.Dosyaya ibraz edilen
 
 ## Ankara BAM 22. HD 2024/866 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1043199700)
+
 Davalı kooperatif yargılama katılmadığı gibi cevap da vermemiştir.
 
 …
@@ -52,6 +56,8 @@ Gecikme tazminatı kural olarak sözleşmede kararlaştırılan teslim tarihinde
 
 ## Antalya BAM 7. HD 2024/758 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1047189800)
+
 3.4. İş sahibi, eserin tesliminden sonra işlerin olağan akışına göre imkan bulur bulmaz eseri gözden geçirmek ve açık ayıpları uygun bir süre içerisinde (TBK'nın 474. md.), gizli ayıpları da gecikmeksizin yükleniciye bildirmek zorundadır. (TBK'nın 477. md.)Usulüne uygun olarak bildirimde bulunmak şartıyla iş sahibi TBK 475. maddesinde düzenlenen seçimlik haklardan birini kullanabilir. İş sahibi, teslim aldığı eseri gözden geçirmediği veya gözden geçirdikten sonra gördüğü ayıbı yükleniciye bildirmediği taktirde, yasanın ayıptan dolayı kendisine tanıdığı seçimlik hakları kaybeder.
 
 …
@@ -61,6 +67,8 @@ Yerel mahkeme kararının esası incelenmeksizin tümüyle ORTADAN KALDIRILMASIN
 …
 
 ## Ankara BAM 27. HD 2024/274 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1018658600)
 
 Davacı vekili: Taraflar arasında Ankara 54.
 
@@ -82,6 +90,8 @@ Ankara 14. Asliye Ticaret Mahkemesi'nin 26.10.2023 gün ve 2023/210 E., 2023/615
 
 ## İstanbul BAM 53. HD 2024/11 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/992340400)
+
 Söz konusu davada verilen karar davalı arsa sahibinin istinafı üzerine İstanbul BAM 15. HD'ne istinaf nicelemesi için gönderilmiş olup istinaf incelemesi henüz yapılmamıştır.İlk derece mahkemesince her ne kadar gerekçeli kararında "Öte yandan Sözleşmenin 11. maddesi uyarınca arsa sahibinin müteahhite vereceği %95 ipotek fekini yapmaması durumunda arsa sahibinin edimini yerine getirip getirmediği meselesi bakımından ise TBK m. 97 düzenlemesi, bir sözleşmeden doğan bütün borçlar bakımından değil, ancak birbirinin karşılığını teşkil eden edimler bakımından uygulanabilir; -aynı sözleşme içinde yer almakla beraber, aralarında değişim ilişkisi bulunmayan edimler ve yan borçlar için ödemezlik def’i kullanma imkânı yoktur- (M. Kemal Oğuzman / M. Turgut Öz: Borçlar Hukuku Genel Hükümler Cilt-1, 14. bası, İstanbul 2016, N. 1095).
 Dolayısıyla davalının, kendi edimlerinin karşılığını teşkil etmeyen bu borcun ifa edilmediği gerekçesiyle teslim borcunun veya muaccel olmuş yan borçlarının ifasından kaçınması mümkün görülmediğinden davalının bu yöndeki ve savunmaları yerinde görülmemiş konuyla ilgili de mahkememizce dosya tefrik dilerek karar verilmiştir." gerekçesi ile, davalı yüklenicinin, davacı arsa sahibinin ipotek fek edimini yerine getirmediğinden bahisle gecikme nedeniyle sözleşmede öngörülen cezai şartın istenemeyeceğine ilişkin savunması reddedilmiş ise de, davaya konu sözleşmede, taraflarca yükleniciye ait olması kararlaştırılan bağımsız bölümler, avans olarak işin başında yüklenici adına tapuya kat irtifakından tescil edilmiş olup, bu bağımsız bölümler üzerine davacı arsa sahibi lehine ipotek tesis edilmiştir. Sözleşmede inşaatın tamamlanma aşamasına göre ipoteklerin fekki düzenlenmiş, davalı yüklenici ihtara rağmen davacı arsa sahibinin sözleşmede öngörülen ipotek feklerini yerine getirmediğini, işin gecikmesine bunun neden olduğunu da savunmuş olmasına ve tefrikine karar verilen davada yüklenici ipoteğin fekkini talep etmiş olmasına göre taraflar arasındaki sözleşmenin 11.
 
@@ -93,6 +103,8 @@ Mahkemece cezai şarttan ekonomik mahva neden olacağı gerekçesi ile indirim y
 HÜKÜM: Gerekçesi yukarıda açıklandığı üzere; 1-Taraf vekillerinin istinaf başvurularının KABULÜNE, 2-Bakırköy 1. Asliye Ticaret Mahkemesi'nin 14/10/2021 tarih, 2016/275 Esas, 2021/968 Karar sayılı kararının KALDIRILMASINA …
 
 ## İzmir BAM 14. HD 2023/1433 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/944606200)
 
 Davacı vekili dava dilekçesinde özetle; "Taraflar arasındaki 09/07/2018 tarihli eser sözleşmesi gereğince; ... İli, ... İlçesi, ...
 
@@ -112,6 +124,8 @@ Yerleşik yargı uygulamalarına göre; eser sözleşmelerinde eksik ve ayıp ka
 
 ## İstanbul BAM 15. HD 2023/770 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/916451000)
+
 İnşaat San.Tic.Ltd.Şti. arasında gayrimenkul satış vaadi ve kat karşılığı inşat yapım sözleşmesinden kaynaklanan edimlerin ifası bakımından davacının temerrüde düşmesi, vermesi gereken tapuları vermemesi, daha önce verdiği fakat yönetim değişimden kaynaklanan her yıl ve yeni yönetim seçiminden sonra yenilenmesi gerektiği halde yenilenmeyen vekaletname ve ödenmeyen borçları nedeni ile temerrüde düşmesi ve borçlarını yerine getirmek yerine akdin feshi davası ikame etmesi ve bu davasının ise taraflar arasında devam ederken, vekaletnameyi yenileyeceği taahhüdü nedeni ile dava hakkında karar verilmeye yer olmadığına ilişkin İstanbul 4.Asliye Ticaret Mahkemesi’nin 2002/687 Esas Nolu dosyasında karar verilmiş ve temyiz sonrasında karar kesinleştiğini, kesinleşen karara rağmen davacı kooperatifin vekaletnameyi vermediğini, davacının temerrüdü nedeni ile durma aşamasına gelen inşaat meydana gelen 17 Ağustos 1999 depremi sonrasında değişen imar mevzuatı nedeni ile bekleme durumunda kaldığını, Bakırköy 7.Asliye Ticaret Mahkemesine 2011/535 esas nolu dosyası ile sözleşmenin uyarlanması talepli dava açıldığını ancak mahkeme tarafından daanın reddine karar verdiğini, bu karar beklenmeden mahkeme
 tarafından karar verildiğini, ancak Yargıtay 15. Hukuk Dairesinin 2018/697 Esas,2018/2914 Karar nolu 05.07.2018 tarihli kararı ile bozulduğunu, bozma kararı gereğince bütün kusurun kooperatif yönetiminde olduğunu, yaptıkları iş karşılığında daire alan ve satış suretiyle daire alan bütün kişileri mağdur ettiğini, müteahhit firma tarafından yıllar öncesinden ödenmeyen alacakların tahsili için takibe konulan ve kesinleşen icra dosyasında kooperatif adına kayıtlı taşınmaz üzerine haciz konulmak suretiyle ihaleye çıkartıldığını, alacağına karşılık 12 adet bağımsız bölüm müteahhit adına alınmış olduğunu, davacı kooperatifin akdin feshi talepli dava açtığını, taraflar arasında yapılan görüşmeler neticesinde ... ada ... parselde ... blok ... adet, ... blok 30 adet olmak üzere toplam 60 adet kat irtifaklı bağımsız bölümün kentsel dönüşüm çerçevesinde 30.07.2013 tarihinde ...
 
@@ -121,11 +135,15 @@ dayalı 06.08.2001 tarihinde kendilerine geçe 2015 yılına kadar aile konutu o
 
 ## İstanbul BAM 3. HD 2022/2042 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/784089800)
+
 Ayrıca taraflar arasındaki 16/07/2013 tarihli sözleşmede davacı tarafça yapılan 500.000 TL teminat ödemesinin , imzalanan ek sözleşme no: 1 başlıklı protokolün diğer hususlar başlıklı maddesi 4.
 Fıkrasında ise açıkça teminat iadesi yönünden ifraz işlemlerinin yapılması koşuluna bağlandığı, davacı bu işlemleri süresinde yapmadığından yine sözleşe hükümleri gereği ifraz işlemlerinin davalı arsa sahibi tarafından yapılacağı,ayrıca yapılan masrafların davacıya ait teminat tutarından mahsubu ile bu işlemlerin bitmesi durumunda 3 gün içerisinde teminat tutarının iade edileceğinin protokolde açıkça belirlendiği,ifraz işlemlerinin davalı tarafça 17/03/2017 tarihinde tamamlanarak ifraz masraf tutarının 244.019,00 TL olarak bildirildiği,yine sözleşme gereği 3 günlük sürede teminatın iadesi gerektiğinden, ödeme tarihi olan 17/03/2017 ile 3 günlük ödeme süresi sonrası sözleşmede de açıklandığı şekliyle davalının bakiye teminat tutarının ödemedeki temerrüdünün 20/03/2017 tarihinde gerçekleştiği,bu nedenle davacının davalıdan 500.00,000 TL-244.019,00 TL = 255.981,00 TL bakiye teminat alacağı kaldığı,temerrüt tarihi itibarıyla takip tarihine kadar işlemiş avans faiz tutarının 94.909,33 TL olduğu ,bu hesaplamada usule aykırılık bulunmadığı görülmüştür.
 Bu doğrultuda davacının verdiği teminat tutarının iadesinin ifraz şartına bağlı olduğu,davacının ifraz işlemlerini yapmadığı,ancak davalı tarafça ifraz işlemlerinin yapılması sonrası davalının yaptığı bu ifraz masraflarını davacının teminat tutarından düştüğü,teminat iade şartının ifraz ödemesi sonunda 3 için içinde ödeneceğinin yine sözleşme hükmüne dayandığı,sözleşmede muacceliyet şartının açıkça belirlendiği,bu nedenle davacının bakiye teminat tutarının hiçbir şekilde cari hesap alacağına konu edilemeyeceği belirlenmiştir. Takibe konu alacak likit ve belirlenebilir nitelikte olduğundan,davada icra inkar tazminatı koşulları oluşmuştur. Bunun yanısıra alınan bilirkişi raporu ilk seçeneği taraf,mahkeme ve Yargıtay denetimine elverişli bulunduğundan,davada yeni bir bilirkişi incelemesi yapılmasının davaya katkısı olmayacağı da düşünülmelidir.
 
 ## İstanbul BAM 17. HD 2022/1353 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/828786000)
 
 Asliye Hukuk Mahkemesinin 2021/138 Esas sayılı dosyasının incelenmesinde, işbu davanın davacısı tarafından davalısına karşı açılan davada taraflar arasında imzalanan sözleşme ve protokoller kapsamında yapılacak binanın tamamlanmasının ardından taşınmazın 2/3 hissesinin inşaat maliyet bedeli olarak davalıya devredileceği, 1/3 hissesinin de davacıya ait olacağının kararlaştırıldığı, davalının ödeme güçlüğü çekmesi sebebiyle taşınmazın tamamı üzerinde ipotek tesis ettirmek istediği, ancak bankanın, krediye teminat olarak ipotek edeceği taşınmazın tamamının davalı adına tescilli bir taşınmaz olması gerektiği şartını koştuğunu bildirmesi sebebiyle devir tarihinden iki hafta sonra taşınmazın davacıya iade edilmesi, her hangi bir sebeple taşınmazın iki haftadan daha uzun sürede iade edilmesi halinde her gün için günlük 5.000 USD cezai şart ödenmesi koşuluyla 07/09/2021 tarihli sözleşmenin imzalandığı, davalının krediyi alıp kullanmasına rağmen taşınmazın davacıya ait olan hisselerini iade etmediği ve üzerinde bulunan ipoteği de kaldırmadığından bahisle taşınmazın tapu kaydının 1/3 hissesinin iptali ile taşınmazın 1/3 hissesinin davacı adına tesciline, dava konusu taşınmazın davacıya iade
 edilmesi gereken iki haftalık sürenin bitiminden itibaren başlatılarak davacı adına tescil tarihine kadar doğmuş ve doğacak olan cezai şart alacaklarının temerrüt faizi ile birlikte davalıdan alınarak davacıya ödenmesine karar verilmesinin talep edildiği, davanın 15/06/2021 tarihinde açıldığı anlaşılmıştır. Gebze 5.
@@ -142,6 +160,8 @@ H Ü K Ü M: Gerekçesi yukarıda izah edildiği üzere; 1-Davacı vekilinin ist
 
 ## İstanbul BAM 15. HD 2022/889 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/761942800)
+
 Noterliği aracılığı ile düzenlenen 18.11.2016 tarih ... yevmiye numaralı Düzenleme Şeklinde Taşınmaz Satış Vaadi ve Arsa Payı Karşılığı İnşaat Sözleşmesi (“Sözleşme”) akdedildiği, Sözleşme uyarınca en geç 30.01.2020 tarihinde de Taşınmazda inşa edilecek yapıların tamamlanarak davacıya teslim edilmesi gerekmekteyken davanın ikame edildiği tarih itibarıyla halen yapıların teslim edilmeyerek davalının temerrüde düştüğünü, 30.01.2020 tarihinden itibaren, gecikme tazminatı olarak şimdilik 6.500.000.-TL toplam rayiç kira bedelinin, gecikme tazminatı olarak ödenmesi gereken aylardan itibaren hesaplanacak ticari faizi ile davacıya ödenmesi gerektiğini, davacının yapıların teslim edileceğine güvenerek 166 ve 169 numaralı bağımsız bölümler için ödediği “Site Yönetim Kurulum Bedeli” ve “Site Ortak Alan Abonelik Bedeli” olmak üzere toplam 14.373,17 TL’nin ödeme tarihinden itibaren işleyecek ticari faiz ile davacıya ödenmesi talep edildiğini, davadaki talebi gecikme tazminatına ilişkin olduğundan, temerrüdün başlangıç tarihi ile birlikte temerrüdün sona erdiği tarih de önem arz ettiğini, davacı şirketin dilekçe teatisi aşaması tamamlanmadan önce bilirkişi incelemesi yapılmasında hukuki
 yararının bulunduğunu, mahkemenin, davacı şirketin delil tespit raporunun yeterli olduğu kanaatindeyse, söz konusu raporlar doğrultusunda davalının temerrüde düştüğünü, ihtiyati haciz sebebinin var olduğunu da kabul etmesi gerektiğini, davacının haklı olduğu ve gecikme tazminatına hak kazandığı delil tespit raporları ile sabit iken, ihtiyati haciz talebinin reddi sebebiyle davacının zarara uğrayacağının aşikar olduğunu, davacı şirketin haklılığı delil tespit raporları ile de sabit olduğunu, ihtiyati haciz talebinin reddine ilişkin kararın istinaf incelemesi neticesinde ortadan kaldırılmasını ve öncelikle teminatsız olarak, aksi yönde bir kanaat olur ise teminat karşılığında davalı'nın borca yeter tutarda taşınır, taşınmaz malları, banka hesapları ile üçüncü kişi nezdindeki hak ve alacaklarına ihtiyati haciz konulmasına karar verilmesini talep etmiştir.
 
@@ -150,6 +170,8 @@ yararının bulunduğunu, mahkemenin, davacı şirketin delil tespit raporunun y
 HÜKÜM: Gerekçesi yukarıda açıklandığı üzere; 1-Davacı vekilinin istinaf başvurusunun KISMEN KABULÜNE, 2-Bakırköy 3. Asliye Ticaret Mahkemesi'nin 17/02/2022 tarih, 2021/972 Esas sayılı ara kararının KALDIRILMASINA …
 
 ## İstanbul BAM 15. HD 2022/188 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/729615500)
 
 Olumlu zarar kapsamındaki eksik işler bedeli ve kira kaybı tazminatını talep edemez. Bu durumda tasfiyenin sebepsiz zenginleşme hükümlerine göre yapılarak sonucuna göre karar verilmesi gerekirken, davacının olumlu zarar kapsamındaki taleplerinin kabulüne karar verilmesi hatalı olmuştur. Birleşen davada da birleşen dava davacısı yüklenici, sözleşmenin feshi nedeniyle imalat bedelini ve kar kaybı zararını talep etmiştir. Mahkemece sözleşmenin feshinde yüklenicinin işi kusuru ile süresinde tamamlayıp teslim etmediğine yönelik kabulü doğru olup, yüklenici temerrüdünde kusurlu olduğundan kar kaybı zararını talep edemeyecek ise de imalat bedeli kusura bağlı olmadığından sözleşmeden dönme halinde TBK'nın 125/son maddesine göre imalat bedelini talep edebileceğinden yüklenicinin imalat bedelinin sebepsiz zenginleşme hükümlerine göre belirlenip hükmedilmesi gerekir.
 Bu nedenle birleşen dava yönünden imalat bedeline ilişkin talebinde reddine karar verilmesi hatalı olmuştur.Açıklanan nedenlerle, asıl dava davalı, birleşen dava davacı vekilinin istinaf talebinin kabulü ile usul ve yasaya uygun bulunmayan yerel mahkeme kararının 6100 sayılı HMK'nın 353/1-a-6 maddesi gereğince kaldırılarak yukarıda açıklanan şekilde inceleme ve araştırma yapıldıktan sonra oluşacak uygun sonuç dairesinde bir karar verilmesi için dosyanın yerel mahkemesine gönderilmesine karar verilmesi gerekmiştir.

@@ -22,6 +22,8 @@ uyari: "Derleyenin seçtiği alıntılardır; kararın tamamı değildir. Künye
 
 ## Yargıtay 20. HD 2018/6591 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/449207200)
+
 Mahkemece;
 1966 yılında kat mülkiyeti kurulan dava konusu taşınmazda bu tarihte bağımsız bölümlerin değerinde ve dolayısıyla arsa paylarının tespitinde dikkate alınmayan ve arsa payları arasında orantısızlığa yol açan somut ve haklı nedenlerin varlığı bakımından kat mülkiyetinin kurulduğu tarih dikkate alındığında aradan geçen sürede taşınmazda arsa paylarına herhangi bir itiraz olmadığı, bağımsız bölümlerin kat mülkiyetinin kurulduğu tarihteki değerlerinin itibariyle, tapu sicilinde kayıtlı arsa paylarında düzeltilmesi gereken bir yanlışlık olduğu konusunda yasal ve bilimsel delillerin davacı tarafından sunulamadığı, alınan bilirkişi raporu kapsamına göre de davada paylar bakımından küçük oranda sayılabilecek saptamaların bildirilmesine rağmen 6306 Kanun çerçevesinde yapılan işlemler bakımından mahkemece TMK'nın 2. hükmüne aykırı bir düzeltme hükmünün 3. şahısların munzam zararlarını artırıcı sonuçlar doğurabileceği açık olmakla bilirkişi raporuyla açık seçik ve her türlü somut verilerin ortaya konulamadığı, soyut ve genel ifadeli bilirkişi raporunun hükme esas alınamayacağı açık olmakla yasal koşulları oluşmayan ve kanıtlanamayan davanın reddine karar verilmiş, hüküm davacı vekili
 tarafından istinaf edilmiştir.
@@ -35,6 +37,8 @@ Dava, arsa paylarının düzeltilmesi istemine ilişkindir.
 Dosya içerisindeki bilgi ve belgelerin incelenmesinde; davaya konu anataşınmazda kat irtifakının 18.03.1966 tarihinde kurulduğu anlaşılmıştır. Her ne kadar dosyada mevcut bilirkişi raporunda anataşınmazda kat irtifakının kurulduğu 18.03.1966 tarih dikkate alınarak davacının arsa payının 550/13500 iken 552/13500 olarak değişmesi gerektiği tespit edilmişse de bahsedilen maddeden de anlaşılacağı üzere somut olayda belirlenen hususların arsa paylarını değiştirecek nitelikte olmadığı dolayısıyla 634 sayılı Kat Mülkiyeti Kanununun 3. maddesindeki yasal koşulların gerçekleşmediği tespit edilmiştir. Ayrıca, uyuşmazlık konusu dava maktu vekalet ücretine tabi olup davalıların ayrı vekilleri olduğu anlaşılmakla vekalet ücreti konusunda hukuka aykırılık bulunmamaktadır. Tüm bu nedenlerle bölge adliye mahkemesince yazılı şekilde karar verilmesinde isabetsizlik bulunmayıp yerinde olmayan tüm temyiz itirazlarının reddiyle usul ve kanuna uygun olan hükmün HMK 370/1.
 
 ## Yargıtay 23. HD 2018/5524 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/469783200)
 
 Davacılar vekili, arsa sahibi müvekkili ile davalı arasındaki 02.....2006 tarihli arsa payı karşılığı inşaat sözleşmesi bukunduğunu, davalı yüklenicinin sözleşmedeki paylaşım oranına aykırı olarak kendi lehine inşaat alanı oluşturacak şekilde proje tadilatları yaptığını ve fazla imalat elde ettiğini ileri sürerek, şimdilik ....000,00 TL'nin dava tarihinden itibaren işleyecek avans faizi ile birlikte davalıdan tahsiline karar verilmesini talep ve dava etmiş, yargılama sırasında talebini miktar itibariyle ıslah etmiştir.
 
@@ -54,6 +58,8 @@ SONUÇ: Yukarıda (...) numaralı bentte açıklanan nedenlerle davacı vekilini
 
 ## Yargıtay 15. HD 2018/4395 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/463286900)
+
 Dava kat karşılığı inşaat sözleşmesinden kaynaklanan tapu iptâl tescil talebine ilişkin olup mahkemece davanın reddine dair verilen karar, davacı tarafından temyiz edilmiştir.
 
 Davacı davasında davalı ile aralarında 01.09.2010 tarihli Kat Karşılığı İnşaat Sözleşmesi düzenlendiğini, davalının kendilerinden aldığı vekaletname ile inşaat yapılacak arsanın tümünü kendi adına tescil ettirdiğini, aradan geçen süreye rağmen inşaatın tamamlanmadığını belirterek sözleşmeye göre kendisine ait olması gereken 20 nolu dairenin ve bir dairenin %13 hissesinin tespiti ile adına tesciline karar verilmesini talep etmiştir. Davalı yargılamaya katılmamıştır.
@@ -69,6 +75,8 @@ SONUÇ: Yukarıda açıklanan nedenlerle kararın temyiz eden davacı yararına 
 
 ## Yargıtay 23. HD 2018/3823 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/430901000)
+
 Mahkemece, iddia savunma bilirkişi raporu ve dosya kapsamına göre yüklenici kooperatif tarafından A blokta arsa sahiplerine verilmesi gereken dairelerin kullanılabilecek durumda olduğu, B bloğun tamamlandığı ve iskan edildiği bu durumda kat irtifakının bozulup yeniden kurulması gerekmediği, sözleşmenin ....
 
 …
@@ -79,6 +87,8 @@ Eğer tapu kayıtlarının iptaline karar verilecek ise de kurulacak kat irtifak
 SONUÇ: Yukarıda açıklanan nedenlerle asıl davada davacı-birleşen davada davalı vekilinin temyiz itirazlarının kabulü ile hükmün asıl davada davacı-birleşen davada davalı yararına BOZULMASINA …
 
 ## Yargıtay 15. HD 2018/2972 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/432406800)
 
 Dava, arsa payı karşılığı inşaat yapım sözleşmesinden kaynaklanmış olup, sözleşme konusu taşınmazda kat irtifakı tesisi ile yüklenicinin edimini yerine getirmiş olması nedeniyle tapu iptâli ve tescil istemine ilişkindir.
 
@@ -94,6 +104,8 @@ düzenlenen denetime elverişli olmayan ve infazda tereddüt yaratacak bilirkiş
 SONUÇ: Yukarıda 1. bentte açıklanan nedenlerle temyiz eden davalıların diğer temyiz itirazlarının reddine, 2. bent uyarınca kabulüyle hükmün ... dışında temyiz eden diğer davalılar yararına BOZULMASINA …
 
 ## Yargıtay 23. HD 2018/2836 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/421576900)
 
 Davacı vekili, taraflar arasında düzenlenen arsa payı karşılığı inşaat sözleşmesinde, arsa sahibi müvekkiline brüt 145 m² büyüklüğünde bir daire teslim edileceğinin kararlaştırıldığını, teslim edilen dairenin bu büyüklükte olmadığını, eksik teslim yapıldığını ileri sürerek, fazlaya ilişkin hakları saklı kalmak kaydıyla, 5.000,00 TL eksik iş bedelinin davalıdan tahsilini talep ve dava etmiş, ıslah yoluyla talebini 10.640,00 TL’ye arttırmıştır.
 
@@ -111,6 +123,8 @@ SONUÇ: Yukarıda (1) numaralı bentte açıklanan nedenlerle davalı vekilinin 
 
 ## Yargıtay 20. HD 2018/2670 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/422081200)
+
 Mahkemece; ... ili, Merkez ilçesi, ... mahallesi 1137 ada 1 ve 1137 ada 2 parsel sayılı taşınmazlar üzerinde tevhiden tapuda 1137 ada 22 sayılı parselin oluşturulduğu, arsa sahiplerinin ilgili parseller üzerinde yapılacak yapı ile ilgili tüm yetkilerini usûlüne uygun düzenlenmiş vekaletname ile ...'a devrettikleri, ...'ın da kendisine verilen yetkilerden bir kısmını usûlüne uygun vekaletname ile müteahhit ... ...oğlu'na devrettiği, bu vekaletnamenin incelenmesinde, içeriğinde, "dava konusu taşınmazlarla ilgili olarak 634 sayılı Kat Mülkiyeti Kanunu hükümleri gereğince dilediği şekil ve koşullarda kat irtifakı ve kat mülkiyeti tesisine, dilediği arsa payı üzerinde dilediği bağımsız bölümü arsa sahipleri adına seçmeye" ilişkin yetkiler barındırdığının anlaşıldığı, bu vekaletnameye göre ... ...oğlu tarafından kat irtifakının kurulduğu, işlemlerin usulüne uygun verilen vekaletname uyarınca yapılmış olduğu gerekçesiyle; davanın reddine, dava dilekçesinde davacı olarak gösterilen ...'ya ait dava açma yetkisini içerir vekaletname sunulmadığından yargılama giderlerinden davacı sıfatı bulunmayan ...'nun sorumlu olmadığına karar verilmiş, hüküm davacılar vekili tarafından temyiz edilmiştir.
 
 …
@@ -120,6 +134,8 @@ Dava; arsa paylarının miras oranlarına göre yeniden belirlenerek, miras payl
 İncelenen dosya kapsamına, kararın dayandığı gerekçeye göre; tarafların murislerinden kalan taşınmaz üzerinde yapılacak yapı ve bu yapıda kurulacak kat irtifakı ile ilgili olarak, usulüne uygun düzenlenmiş 02.11.2012 tarihli düzenleme şeklindeki vekaletname ile müteahhit ... ...oğlu'na yetki verdikleri ve tapuya sunulan bağımsız bölümlere ait arsa payı dağılım listesinin taraflarca imzalandığı, kat irtifakının bu listeye göre kurulduğu anlaşılmakla, aksi durumun da herhangi eş değer bir belge ile ispat edilemediği de dikkate alınarak, yazılı olduğu şekilde mahkemece ret hükmü kurulmasında bir isabetsizlik bulunmadığına göre, yerinde görülmeyen temyiz itirazlarının reddi ile usul ve kanuna uygun olan hükmün ONANMASINA, aşağıda yazılı onama harcının temyiz edenlere yükletilmesine 05/04/2018 günü oy birliği ile karar verildi.
 
 ## Yargıtay 20. HD 2018/426 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/404856600)
 
 Dava, Kat Mülkiyeti Kanunundan kaynaklanan arsa payının düzenlenmesi istemine ilişkindir.
 
@@ -131,6 +147,8 @@ SONUÇ: Yukarıda açıklanan nedenlerle, davacı vekilinin temyiz itirazların�
 
 ## Yargıtay 20. HD 2017/10332 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/389032500)
+
 Dava, arsa paylarının düzeltilmesi istemine ilişkindir.
 
 Kat Mülkiyeti Kanununun 3. maddesine göre, bağımsız bölümlere özgülenmiş arsa paylarının, kat irtifakının veya kat mülkiyetinin kurulduğu tarihteki değerleri ile oranlı olup olmadığının açıkça saptanması gerekir. Bu inceleme yapılırken bağımsız bölümlerden her birine özgülenen arsa payının o bölümlerin değerinde sonradan oluşan çoğalma veya azalmanın dikkate alınmaması, her bir bağımsız bölümün değerlerinin ve dolayısıyla özgülenmesi gereken arsa paylarının belirlenmesinde bağımsız bölümlerin nev'i, konumu (cephesi, katı v.s) ile büyüklüklerinin gözönünde tutulması, buna göre dava konusu edilen bağımsız bölümlerin tapuda yazılı arsa payları ile saptanan arsa payları arasında bir oransızlık bulunması halinde davanın kabulü gerekir. Dosya kapsamından; 31.03.1977 olan kat irtifakına geçiş tarihinde bağımsız bölümlerin değerinde ve dolayısıyla arsa paylarının tespitinde dikkate alınmayan bu nedenle arsa payları arasında orantısızlığa yol açan somut ve haklı nedenler ortaya konulmadığı gibi, kat irtifakının kurulduğu tarihten bu yana geçen uzun süre içerisinde arsa paylarına karşı bir itiraz da ileri sürülmemiştir.
@@ -141,12 +159,16 @@ SONUÇ: Yukarıda açıklanan nedenlerle; temyiz itirazlarının kabulü ile hü
 
 ## Yargıtay 20. HD 2017/8825 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/385036500)
+
 Dava, bağımsız bölümlere özgülenen arsa paylarının yeniden düzenlenmesi istemine ilişkindir.
 
 634 sayılı Kat Mülkiyeti Kanununun 3. maddesi hükmüne göre; "kat mülkiyeti, bu mülkiyete konu olan ana yapının bağımsız bölümlerinden her birine kat irtifakının kurulduğu tarihte, doğrudan doğruya kat mülkiyetine geçilme halinde ise bu tarihteki değeri ile oranlı olarak tahsis edilen arsa payının ortak mülkiyet esaslarına göre açıkça gösterilmesi suretiyle kurulur. 634 sayılı Kanunun Ek 1. maddesi “Bu kanunun uygulanmasından doğacak her türlü anlaşmazlıklar sulh hukuk mahkemelerinde çözümlenir” hükmünü içermektedir.
 Dava konusu taşınmazda arsa paylarının düzeltilmesi talep edilmiş olup, 634 sayılı Kanunun 3. maddesi çerçevesinde çözümü gereken dosyada işin esasına girilerek, taşınmazların tapu kayıtları celp edilip, toplu yapı yönetim planı örneğinin tapu müdürlüğünden, eğer dava konusu site tek parselden oluşuyorsa sulh hukuk mahkemesi, birden çok parselden oluşuyorsa, toplu yapı yönetimine geçilip geçilmediği hususunun araştırılması, toplu yapıya geçilmemiş ise asliye hukuk mahkemesinin görevli olacağı, toplu yapıya geçilmiş ise sulh hukuk mahkemesinin görevli olacağı hususlarının değerlendirilerek sonuca göre karar verilmesi gerekirken, mahkemece başka nedenlere dayanılarak tüketici mahkemesinin görevli olduğuna dair yazılı şekilde hüküm tesis edilmesi usûl ve kanuna aykırı olduğundan hükmün BOZULMASINA, temyiz harcının istek halinde iadesine 02/11/2017 günü oy birliği ile karar verildi.
 
 ## Yargıtay 20. HD 2017/8776 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/378420800)
 
 Mahkemece arsa paylarının düzeltilmesi istemine ilişkin davacılar tarafından açılan 7/8/2014 tarihli ... İli, Merkez ...
 
@@ -167,6 +189,8 @@ SONUÇ: Yukarıda açıklanan nedenlerle; davacılar vekilinin karar düzeltme i
 
 ## Yargıtay 20. HD 2017/6865 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/367654900)
+
 Davacılar vekıli dava dilekçesinde; müvekkillerinin "" adresindeki apartman vasıflı gayri menkul içerisinde daireler satın aldıklarını, müvekkillerinden ...’in, kredi kullanarak aldığı daireyi, kredi kullanarak satmak istediğinde evin kredi kullandırmaya uygun olmadığı söylendiğini, nedenini sorduğunda ise tapu kaydının hatalı olduğu iddia edildiğini, bunun üzerine belediye ve tapu müdürlüğünde yaptığı araştırmalarda tapuda mevcut kat irtifakının, belediye tarafından onaylı projeden farklı düzenlendiğini tespit ettiğini, yapılan şikayet sonucunda ise müvekkilinin haklı olduğu ve işlemin soruşturma gerektirdiği tespit edilerek görevli memurlar hakkında soruşturma izni verilerek suç duyurusunda bulunulduğunu, bu açıklamalar neticesinde, mimari projeye aykırı olarak kurulan kat irtifakının iptali ve fiili kullanım şeklinde yeniden tashihini talep etme zorunluluğu doğduğunu belirterek, fazlaya ilişkin dava ve talep hakları saklı kalmak koşulu ile anataşınmazın yapı izin ruhsatı ve mimari projesine aykırı olarak tapuya tescil edilerek, kuruları kat irtifakının iptali ile fiili kullanım durumum göre projeye uygun halde yeniden tesisi istenilmiş, mahkemece; davalı ... müdürlüğünün davaya
 konu taşınmazda kat maliki olmadığı, arsa payı düzeltilmesine ilişkin davada taraf sıfatının bulunmadığı, her ne kadar kat irtifakı tesis işleminde projeye aykırı olarak irtifak tesisi yapılmış ise de; bunun davanın tapu müdürlüğüne yöneltilmesini gerektirmeyeceği gözönüne alınarak husumet yönünden bu davalı hakkındaki davanın reddine, 23/09/2013 tarihli 2013/36 Karar sayılı soruşturma izin kararı ile hakkında soruşturma izni verildiği, tapuda tescili yapılan kat irtifakı tesis işleminin taşınmazın tapu tasdikli mimari projesi ile uyumlu olmadığı, mimari projede depo+sığınak olarak gösterilen kısım için tapuda bodrum kat 1 nolu bağımsız bölüm olarak ve dubleks konut vasfı ile kat irtifakı tesis edildiği, ve ... adlarına tescil edildiği anlaşılmakla, mimari projeye aykırı olarak …
 
@@ -180,6 +204,8 @@ görülmemiştir.
 SONUÇ: Bu itibarla yukarıda açıklanan esaslar gözönünde tutulmaksızın yazılı şekilde hüküm tesisi isabetsiz, temyiz itirazları bu nedenlerle yerinde olduğundan kabulü ile hükmün BOZULMASINA …
 
 ## Yargıtay 23. HD 2017/3470 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/379754500)
 
 Davalı vekili, dava konusu 6-17-18-19 no'lu bağımsız bölümlerin başkaları adına tescilliyken kendilerine satıldığını bu nedenle davacının aktif husumet ehliyeti bulunmadığını ve taraflar arasında 17-18-19 no'lu bağımsız bölümlerin davalı tarafından davacıya verilecek malzeme karşılığı devredileceği veya devredildiği hususunda da anlaşma olmadığından davanın reddini dilemiştir.
 
@@ -195,6 +221,8 @@ Ayni haklar, illete bağlı bir işlem sonucu doğar, değişir veya son bulur. 
 
 ## Yargıtay 20. HD 2017/72 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/318799700)
+
 Dava, kat mülkiyeti kurulu taşınmazın arsa pay oranlarının düzeltilmesi istemine ilişkindir.
 
 …
@@ -202,6 +230,8 @@ Dava, kat mülkiyeti kurulu taşınmazın arsa pay oranlarının düzeltilmesi i
 634 sayılı Kat Mülkiyeti Kanununun 3. maddesine göre, arsa paylarının bağımsız bölümlerin değerleri ile oranlı olarak tahsis edilmediği hallerde her kat maliki veya kat irtifakı sahibi arsa paylarının yeniden düzenlenmesi için mahkemeye başvurabilir. Dava konusu yerde kat mülkiyetli veya kat irtifaklı bağımsız bölümlerden bahsedilemeyeceğine göre uyuşmazlığa Kat Mülkiyeti Kanununun 3. maddesini uygulamak mümkün değildir. Çünkü ortada değerleri belirlenecek bağımsız bölümler bulunmamaktadır. Arsa paylarının yeniden düzenlenmesine ilişkin davalar anayapının kat irtifakı veya kat mülkiyeti statüsünü koruduğu sürece açılabilir.
 
 ## Yargıtay 18. HD 2016/11493 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/276795500)
 
 634 sayılı Kat Mülkiyeti Kanununun 49. maddesinde, kat irtifakının, buna konu olan arsanın tamamiyle yok olması veya üzerinde yapı yapılamıyacak hale gelmesi veya kamulaştırılması ile kendiliğinden sona ereceği kat irtifakına konu olan arsa üzerinde bu irtifakın kurulması sırasında verilen plana göre beş yıl içinde yapı yapılmazsa maliklerden birinin istemi üzerine, sulh hakimi, gerektiğinde ilgilileri de dinleyerek, duruma göre kat irtifakının sona ermesine veya belli bir süre için uzatılmasına karar vereceği; 3. maddesinde ise, arsa paylarının bağımsız bölümlerin payları ile oranlı olarak tahsis edilmediği hallerde, her kat maliki veya kat irtifakı sahibinin, arsa paylarının yeniden düzenlenmesi için mahkemeye başvurabileceği hükme bağlanmıştır.
 

@@ -22,6 +22,8 @@ uyari: "Derleyenin seçtiği alıntılardır; kararın tamamı değildir. Künye
 
 ## Yargıtay 6. HD 2021/974 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/707324500)
+
 Davacı vekili, davalı ile aralarında daire karşılığı taşeronluk sözleşmesi bulunduğunu, davalının haksız yere sözleşmeyi feshettiğini ileri sürerek imalatın seviyesine göre hakettiği bedelin tahsilini; birleşen 2008/333 esas sayılı davada, davacı vekili, davalıya, yaptığı imalat seviyesine göre hak ettiğinden daha fazla daire verildiğini ve diğer davalılara muvazaalı olarak devredildiğini ileri sürerek, fazladan verilen dairelerin tapusunun iptali ile davacı adına tescilini; birleşen 2008/448 esas sayılı davada, davacı vekili, davacının davalıdan daire satın aldığını ancak dairelerin halen teslim edilmediğini ileri sürerek, gecikme tazminatı ve eksik işler bedelinin tahsilini talep ve dava etmişlerdir.
 
 …
@@ -38,6 +40,8 @@ SONUÇ: Yukarıda (1) numaralı bentte açıklanan nedenlerle, davalı yüklenic
 
 ## Yargıtay 15. HD 2021/549 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/648415500)
+
 Dava, yükleniciden temlik alınan şahsi hakka dayalı tapu iptali ve tescil talebine ilişkindir.
 
 …
@@ -53,6 +57,8 @@ Bu sebeple davada öncelikle yüklenici ve diğer arsa sahiplerinin de yer olmas
 
 ## Yargıtay 15. HD 2021/422 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/642626800)
+
 Dava, yükleniciden temlik alınan kişisel hakka dayalı tapu iptali ve tescil, ikinci kademede tazminat istemine ilişkindir.
 
 …
@@ -66,6 +72,8 @@ Bu durumda mahkemece zorunlu dava arkadaşı olan dava dışı arsa sahibinin; a
 
 ## Yargıtay 15. HD 2021/218 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/642683800)
+
 Arsa payı karşılığı inşaat yapım sözleşmelerinde arsa sahiplerinin temel borcu, üzerine bina yapılacak arsayı hukuki ayıptan ari olarak yükleniciye teslim etmek, yüklenicinin temel borcu ise, arsa sahiplerine ait arazi üzerinde imara, tasdikli ruhsat ve projesine, sözleşmeye, fen ve sanat kurallarına uygun bir yapı meydana getirerek arsa sahiplerine teslim etmektir. Diğer taraftan arsa payı karşılığı inşaat yapım sözleşmelerinde meydana getirilen esere karşılık yükleniciye eser bedeli, yapının bağımsız bölümlerindeki devri kararlaştırılan arsa paylarının temliki suretiyle ödenir. Yüklenici hak kazanacağı bağımsız bölümlerin tapusunu doğrudan arsa sahiplerinden talep edebileceği gibi şahsi hakkını üçüncü kişilere de devredebilir. Sözleşme tarihinde yürürlükte bulunan 818 sayılı mülga Borçlar Kanunu'nun 162. maddesi hükmünce sözleşmede yasaklanmadığı veya işin mahiyetinden aksi anlaşılmadığı sürece yüklenici, üçüncü kişilere yasanın 163. maddesi gereği yazılı olmak koşuluyla şahsi hakkı devredebilir.
 Arsa payı karşılığı inşaat yapım sözleşmelerinden kaynaklanan bu tür uyuşmazlıklarda yükleniciden şahsi hakkını temlik alan üçüncü kişinin satışa ilişkin iddiasını yükleniciye karşı, temellük edilen şahsi hakkın kazanıldığı iddiasını ise arsa sahiplerine karşı ispat etmesi gerekir. Çünkü tescile ancak yüklenicinin arsa sahiplerine karşı edimlerini bütünüyle yerine getirmesi halinde karar verilebilir.
 Görülecek davada ise aralarında zorunlu dava arkadaşlığı bulunması sebebiyle yüklenici ve arsa sahiplerinin davadaki varlığı ayrı ayrı düşünülemez.Dosya kapsamına göre, davalı arsa sahibi ... ile davalı yüklenici ... arasında 09.03.2005 tarihinde resmi şekilde kat karşılığı inşaat sözleşmesi düzenlendiği, bu sözleşme ile davalı yüklenicinin daha önce kaba inşaatı tamamlanmış inşaatta ince işlerin yapımını anahtar teslimi olarak üstlendiği, sözleşmede davalı yüklenicinin kendisine düşen bağımsız bölümleri ancak yabancı uyruklu kişilere satılabileceğinin kararlaştırıldığı, davalı yüklenicinin kendisine ait olacak 33 Nolu bağımsız bölümü ilk kez 29.08.2005 tarihli “inşaat sözleşmesi” başlıklı sözleşme ile asıl davada davacı ...’a sattığı, ardından aynı bağımsız bölümü 14.05.2007 tarihli sözleşme ile birleşen dosya davacılarına sattığı, davalı arsa sahibi tarafından davalı yüklenici aleyhine Ankara 6 AHM 2009/368 E sayılı dosyada eksik, kusurlu imalatlar ile gecikme tazminatı alacaklarına karşılık olarak davalı yükleniciye ait eldeki davanın konusu olan 33 Nolu bağımsız bölümde dahil olmak üzere yükleniciye düşecek bağımsız bölümlerin satışına izin verilmesi talebiyle dava açıldığı,
@@ -75,6 +83,8 @@ Olayda asıl ve birleşen davada konut satış sözleşmesiyle bağımsız böl�
 SONUÇ: Yukarıda açıklanan nedenlerle asıl dava davacı vekili ile birleşen dava davacılar vekilinin karar düzeltme isteminin kabulü ile Yargıtay 23. Hukuk Dairesi’nin 26.09.2019 tarih ve 2016/5089 Esas, 2019/3869 Karar sayılı bozma ilamının kaldırılarak hükmün ONANMASINA …
 
 ## Yargıtay 15. HD 2021/26 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/630886400)
 
 Davacı taraf beyanında özetle; davalılar ile aralarında 24.06.1996 günü düzenlenen müteahhitlik sözleşmesi gereğince konut yapımı karşılığı eser ücretinin %14 olarak belirlendiğini, bu bedelin %7’si nakit %7’sinin ise 10 adet bağımsız bölüm verilerek ödeneceğini, yüklenicinin kendisine bırakılan 2 adet bağımsız bölümü davacıların murisi ...’e 18.08.1998 tarihli satış sözleşmesiyle sattığını,murisin bedeli ödediğini,yapılan kura çekimi ile taşınmazların belirlendiğini, tarafına bırakılan taşınmazların davalı kooperatif tarafından üçüncü kişilere satılacağı yönünde duyum aldıklarını ileri sürerek, 1 parsel sayılı taşınmazdaki 4. kat 15 ve 18 numaralı bağımsız bölümlerin davacılara ait olduğunun tespitini,kooperatif kayıtlarının düzeltilmesini ve tapularında bu duruma göre düzenlenmesini talep etmiştir.
 
@@ -87,6 +97,8 @@ Dava konusu olayda, arsa sahibi davada taraf olarak yer almadığı gibi yüklen
 SONUÇ: Yukarıda açıklanan nedenlerle davalı kooperatif vekilinin karar düzeltme isteminin kabulü ile Yargıtay 23. Hukuk Dairesi’nin 25.09.2018 tarih ve 2016/771 Esas., 2018/4318 Karar sayılı onama ilamının kaldırılarak hükmün davalı yararına BOZULMASINA …
 
 ## Yargıtay 3. HD 2020/6509 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/614865000)
 
 Davacı; davalının, dava dışı ... ile yapmış olduğu gayrimenkul satış vaadi sözleşmesi ile inşaat yapmayı yüklendiğini, yapılacak inşaatın maliyetlerinin karşılanması ve davalıya düşecek olan bağımsız bölümlerin paylaşılması için davalı ve dava dışı ... ile imzaladığı 14/04/2006 tarihli sözleşme ile adi ortaklık kurulduğunu, bu nedenle gerek kendi adına gerekse ortağı bulunduğu ...
 
@@ -106,6 +118,8 @@ SONUÇ: Yukarıda birinci bentte açıklanan nedenlerle davalının bütün, dah
 
 ## Yargıtay 15. HD 2020/3157 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/635388500)
+
 Dava arsa payı karşılığı inşaat yapım sözleşmesinden kaynaklanan tapu iptâli ve tescil talebine ilişkin olup, davacı yüklenici davalı ise arsa sahibidir.
 
 …
@@ -122,6 +136,8 @@ Bu halde tadilat proje ve ruhsat ile bağımsız bölüm haline getirilen yerde 
 SONUÇ: Yukarıda açıklanan nedenlerle davalının temyiz itirazlarının kabulü ile hükmün davalı yararına BOZULMASINA …
 
 ## Yargıtay 15. HD 2020/3035 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/647870400)
 
 Dava, kat karşılığı inşaat sözleşmesinden kaynaklanan tapu iptâl ve tescil istemine ilişkindir.
 
@@ -140,6 +156,8 @@ SONUÇ: Yukarıda açıklanan nedenlerle Bölge Adliye Mahkemesi Hukuk Dairesi k
 
 ## Yargıtay 15. HD 2020/2847 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/648264000)
+
 Dava, arsa payı karşılığı inşaat yapım sözleşmesinden kaynaklanmakta olup, tapu iptâli ve tescil, menfi tespit ve alacağın tahsili istemine ilişkindir.
 
 …
@@ -154,6 +172,8 @@ eklerine göre bağımsız bölümlerin arsa payları hesaplattırılmadan, payl
 SONUÇ: Yukarıda 1. bentte açıklanan nedenlerle davalının diğer temyiz itirazlarının reddine, 2. bent uyarınca kabulü ile hükmün davalı yararınca BOZULMASINA …
 
 ## Yargıtay 23. HD 2020/2109 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/590692500)
 
 Davacı vekili, müvekillerinin murisi ...’nin, 2007 yılında yoğun bakımda yattığı bir dönemde verdiği vekaletname ile kendi adına kayıtlı 764 ada 39 ve 40 nolu parsellerin 1/3’er hissesini davalıya devrettiğini, taraflar arasında adi yazılı olarak düzenlenen ayrı bir sözleşmede ise davalının boş olan 40 nolu parselde yapacağı inşaattan ...’ye 3 adet daire vereceğinin, inşaat tamamlanınca ...’nin vefat etmesi halinde 39 nolu parseldeki 1/3 hisseyi davacı ...’ye iade edeceğinin, davacının inşaata hiç başlamaması halinde ise 39 ve 40 nolu parsellerdeki hisseleri tümüyle iade edeceğinin kararlaştırıldığını, davalının inşaata hiç başlamadığını, sözleşmedeki koşulların yerine getirilmediğini ileri sürerek, anılan parsellerin tevhidi sonucu oluşan dava konusu 764 ada 56 nolu parselin 1/3 hissenin tapu kaydınını iptali ile hisseleri nispetinde davacılar adına tescilini talep ve dava etmiştir.
 

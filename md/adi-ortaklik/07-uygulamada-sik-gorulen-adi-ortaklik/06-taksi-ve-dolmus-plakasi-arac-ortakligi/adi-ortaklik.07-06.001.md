@@ -20,9 +20,13 @@ uyari: "Derleyenin seçtiği alıntılardır; kararın tamamı değildir. Künye
 
 ## Yargıtay HGK 2025/367 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1163332800)
+
 İcra ve İflas Kanunu'nun 94/1. maddesinde "taksim edilmemiş bir miras hissesi ile iştirak halinde tasarruf edilen bir mal hissesi" denilmekte ise de bütün elbirliği mülkiyeti paylarının haczi İİK'nın 94/1. maddesine göre olur. Örneğin adi ortaklık payı da İİK'nın 94/1. maddesine göre haczedilir (Baki Kuru, İstinaf Sistemine Göre Yazılmış İcra ve İflas Hukuku, 6. Bası, Ankara, 2021, s.174).
 
 ## Yargıtay 11. HD 2023/3394 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/933215700)
 
 Dairemizin 25.04.2017 tarih, 2015/14745 E., 2017/2416 K. sayılı ilamı ile “taraflar arasında düzenlenen Ticari Ortaklık Payı Devir Sözleşmesidir başlıklı sözleşmeyle davacı ... TGM Madencilik San. A.Ş. ile yapmış olduğu adi ortaklıktaki ortaklık payını 200.000,00 TL bedel mukabilinde davalıya devrettiği, devredilen ortaklık payı bedelinin 4 eşit taksitle ödenmesi ve ödemeden sonra ortaklıktaki tüm hak ve borçların devralana devir ve temlik edileceğinin kararlaştırıldığı, sözleşmenin 3-b maddesine göre ödemelerin vadesinde ve belirtilen miktarda yapılması halinde devir eden ...'nun adi ortaklıktaki payı sona erip tüm hak ve borçların davalı ...'a devir ve temlik edilmiş olacağı, bu işlemin tamamlanması için de davacının noterden bir istifa beyanı göndereceği, ne var ki dava dışı diğer adi ortak TGM Madencilik San.
 A.Ş. tarafından adi ortaklığın 19.03.2013 tarihinde davacı ...'nun adi ortaklık payı bedelini sözleşmeye uygun olarak ödememesi nedeniyle feshedildiği, davacının, bu fesih nedeniyle dava açtığını, feshe karşı çıktığını da iddia etmediği, fesih tarihine kadar davalının, davacının beyanına göre ilk taksitten 37.712,32 TL ödediği, 2., 3. ve 4. taksitleri ise ödemediği, bu durumda, adi ortaklık payının devir borcunun doğmasından önce adi ortaklığın feshedilip davacının devredebileceği bir pay da kalmadığından davacının devir bedelinin tahsilini istemesinin mümkün bulunmadığı, davalının, TGM Madencilik San. A.Ş.'nin yönetim kurulu başkanı olması, TGM Madencilik San. A.Ş. ile davacı arasındaki adi ortaklık sözleşmesinin davacının 300.000,00 USD olan pay bedelini ödememesi nedeniyle sözleşmenin feshine etkili bulunmadığı gibi bu davaya da etkisinin bulunmadığı, bu durumda, davacının TGM Madencilik San.
@@ -30,25 +34,37 @@ A.Ş.'ye ödemesi gereken ortaklık payını ödememesi nedeniyle aralarındaki 
 
 ## Yargıtay 12. HD 2017/14891 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/383314000)
+
 Ortaklık geliri henüz taksim edilmeden onun üzerinde bütün ortakların iştirak halinde mülkiyet hakları bulunduğundan (HGK'nun 10.04.1991 gün ve 1991/13-76 E. 1991/199 K. sayılı ilamı) henüz adi ortaklığa ait kazancın ortaklar arasında taksim edilmediği veya ortaklığın tasfiyesi halinde borçlu ortağa isabet edecek tasfiye payının belirlenmediği bir aşamada, adi ortaklığın yaptığı işin karşılığında üçüncü kişiden alacağının haczi mümkün değildir (Hukuk Genel Kurulu’nun 03.04.2013 gün ve E: 2012/12-863, K: 2013/432, 10.12.2014 gün ve E: 2013/12-1233 K: 2014/1014 sayılı ilamları).
 
 ## Yargıtay 12. HD 2016/6011 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/216912800)
 
 Öte yandan, Hukuk Genel Kurulu'nun 10.12.2014 tarih ve 2013/12-1233 E., 2014/1014 K. sayılı ilamında da; henüz adi ortaklığa ait kazancın ortaklar arasında taksim edilmediği veya ortaklığın tasfiyesi halinde borçlu ortağa isabet edecek tasfiye payının belirlenmediği bir aşamada, adi ortaklığın, yaptığı işin karşılığında üçüncü kişiden olan alacağının haczinin mümkün olmadığı benimsenmiştir. Ayrıca, anılan kararda, ortaklık geliri henüz taksim edilmeden, onun üzerinde, bütün ortakların iştirak halinde mülkiyet haklarının bulunduğu açıkça vurgulanmıştır.
 
 ## Yargıtay 3. HD 2013/11056 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/260549700)
+
 Bütün bu açıklamalar ışığında, taraflar arasında, şehir içi otobüs hattı işletilmesi konusunda bir adi ortaklık ilişkisinin bulunduğunun kabul edilerek; uyuşmazlığın, yukarıda açıklanan ve maddeler halinde belirtilen sıra ve yöntem izlenerek çözüme kavuşturulması gerekmektedir.
 
 ## Yargıtay 11. HD 2011/17668 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1039378700)
 
 Adi şirketin tasfiyesi usulü BK.’nun 538 ve devamı maddelerinde düzenlenmiş olup, buna göre taraflar arasında adi şirket sözleşmesinin bulunduğu hallerde, tasfiyenin mevcut malların taksimi suretiyle gerçekleştirileceği belirlenmiştir. Öte yandan yerleşik Yargıtay uygulaması gereğince de, taksimin mümkün olmaması halinde mevcut malların satılması suretiyle elde edilen gelirin paylaştırılması yoluna gidilmesi gerekmektedir. Bu durumda, mahkemece, taraflar arasındaki adi şirket ilişkisinin değinilen şekilde tasfiyesi gerekirken yukarıda açıklanan şekilde, adi şirketin malvarlığının belirlenen değerin yarısının davalıdan tahsili suretiyle tasfiye hükmünün kurulması doğru görülmemiş, kararın bu nedenle bozulması gerekmiştir.
 
 ## İzmir BAM 17. HD 2024/222 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/992534200)
+
 İlk derece mahkemesi tarafından alınan 25/09/2023 tarihli bilirkişi raporunda ;konkordatonun tasdiki kararından hareketle davalının davacı yana 2.820.000.TL olan borcunun % 90 ına tekabül eden 2.538.000.TL sının her biri 126.900.TL den 20 eşit taksitte ödenmesinin kararlaştırılmasına rağmen dava tarihi olan 21.12.2022 tarihine kadar yapılması gereken (8 taksit olarak kabul edilmiştir) ödemeler toplamının asgaride (126.900.TL x 8 =) 1.015.200.TL olması gerekir iken yapılan ödemelerin 356.730,91.TL sı olduğu dolayısıyla davalının dava tarihi itibarıyla davacı yana yapması gereken ödeme yükümlülüğünü 658.469,09.TL eksiği ile yerine getirmiş olduğunun belirtildiği; kayyım raporlarının incelemesinde ; davalı tarafça davacı ... - ... Adi Ortaklığı ' na 20//09/2022 tarihli taksit olarak 25.893,45 TL , 20/12/2022 tarihli taksit olarak 25.893,45 TL, 20/03/2023 tarihli taksit olarak 25.893,45 TL ödendiği , ödenmesi gereken her bir taksit tutarının ise 126.900,00 TL olduğu belirlendiği görülmüştür.
 
 ## İstanbul BAM 9. HD 2023/1561 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/947728500)
 
 Yerel Mahkeme tarafından eksik ve hatalı inceleme yapıldığını, kendisinin kontrolünde bulunan ağır araçların hafriyat alanında hareketlerinin daha zor olduğunu, diğer araçların çalışma alanına daha kontrollü giriş yapılması gerektiğini, kendisinin kusurlu olmadığını, kusurlu olduğunu asla kabul etmemekle birlikte bir anlığına düşünülse dahi işleten sıfatıyla bağlı bulunduğu kurumun sorumlu tutulması gerekirken şirket yönünde husumet nedeni ile davanın reddine karar verilip tam kusurlu olduğunun kabulünün açıkça hukuka ve hakkaniyete aykırı olup somut olayda istihdam edenlerin Mahkemece gözetilmesi gerektiğini, işletenin kendisine yükletilmiş olan özen gösterme yükümlülüğünü yerine getirmediği ve zararın bu yüzden meydana geldiğinin kabul edilmesi gerektiğini belirterek istinaf yasa yoluna başvurmuştur. Dava, maddi hasarlı trafik kazası nedeniyle sigorta şirketi tarafından ödenen hasar bedelinin istemine ilişkin olup istinaf açısından uyuşmazlık konusu HMK'nın 355. maddesine göre kamu düzeni ve istinaf nedenleri ile sınırlı olmak üzere İlk Derece Mahkemesince verilen kararın usul, yasa ve dosya içeriğine uygun olup olmadığıdır.
 Dosya kapsamından, 24/07/2017 tarihinde davacı tarafa sigortalı dava dışı araç sürücüsünün yönetimindeki ... plakalı kamyon ile İstanbul Yeni Havalimanı inşaat alanında duraklama alanında durduğu sırada aracının ön kısımlarına geri manevra halinde bulunan davalı sürücü ...'ün yönetimindeki 706-748 kapı numaralı ... plakalı kamyonun arka kısımları ile çarpması neticesinde meydana gelen kaza nedeniyle sigortalı aracın hasar bedelinin rücuen kusurlu araç sürücüsü ve işletenden kasko poliçesi kapsamında tahsili talep edildiği anlaşılmaktadır. Dosya kapsamından hükme esas alınan kusur ve hasar raporunun istinaf talep eden davalı ...'e HMK 281. maddesi gereğince ihtarat içeren tebligat ile tebliğ edildiği halde davalının süresi içerisinde rapora itiraz etmediği anlaşılmaktadır.
@@ -61,10 +77,14 @@ Adi Ortaklığı Ticari İşletmesi ortaklığına karşı açılmış olan dava
 
 ## İstanbul BAM 45. HD 2023/1318 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/952637100)
+
 Şti ile 5188 sayılı yasa kapsamında Özel Güvenlik Hizmeti Sözleşmesi yaptığı ancak varlıklarının korunması yönünde şantiye alanında verilecek hizmet ile ilgili valilik makamından güvenlik izin belgesi almadığı, ... adına çalışan personellerin gerçek anlamda güvenlikçi mi yoksa vasıfsız personeller mi olduğu yönünde denetimini yapmadığı, ... adına güvenlik görevlisi olmayan ... isimli personelin şantiyede çalışmasını kabul ettiği, sözleşmenin "Genel Esaslar" başlıklı maddesinin, e) bendinde; "Özel Güvenlik Personeline tahsis edilecek olan Ziyaretçi Defleri, Denetleme Defteri, Devir Teslim Defteri, Araç Kayıt Defteri, Olay Tutanak Defteri ve Ziyaretçi Kartları İŞGÖREN tarafından temin edilecektir." maddesini ihlal ederek, şantiye alanına giriş çıkış, kontrol, kayıt işlemlerinin yapılmasını denetlemediği, şantiye alanında risk teşkil eden faktörleri ve alınmış olan tedbirler ile ilgili denetim yapmadığı, mallarının korunmasında basiretli bir tüccar gibi davranmadığı yönü ile şantiye alanında meydana gelen hırsızlık olayında taktiri mahkemeye ait olarak dava dışı sigortalının % 30 oranında kusurlu olduğu" yönünde görüş ve kanaat bildirilmiştir. Somut olay incelendiğinde;
 29/03/2017 günü sigortalı şantiye alanına plakası tespit edilemeyen siyah renkli ... araç ile giriş yapan şahıslarca, sigortalı şantiye alanındaki taşeron şirketlere ait konteynır kapısının kilidi kırılmak suretiyle hilti ve matkaplardan oluşan muhtelif sayıda inşaat malzemelerin çalındığı, çalınan emtialar nedeniyle hasar bedeli olarak davacı sigorta şirketi tarafından sigortalısına 19/07/2017 tarihinde 68.367,00 TL ödeme yapıldığı, sigortalı iş yerinde güvenlik hizmeti veren davalı şirketin güvenlik ve gözetim hizmetini yerine getirmediği, hizmet sırasında gerekli dikkat ve özeni göstermediği, hırsızlık olayından sorumlu olduğu iddiası ile hasarın rücuen tahsili amacı ile iş bu davanın açıldığı, davalı şirket ile işveren Dava dışı ... Adi Ortaklığı arasında 01/01/2017 tarihli bir yıl süreli Özel Güvenlik Hizmet Sözleşmesi imzalandığı dosya kapsamı ile sabittir.
 
 ## İstanbul BAM 3. HD 2021/2695 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/696324300)
 
 Pafta;..., ADA;...,PARSEL;... 'de kayıtlı gayrimenkulün ihtiyati tedbir konulmaması sonucunda satılarak paraya çevrilmiş olduğunu belirterek, hem ihtiyati tedbir hem de ihtiyati haciz kararı verilmesini talep ettiklerini ,zira hakkın elde edilmesinin davalının mal kaçırma iradesinin ortaya çıkmasıyla neredeyse imkansız hale geldiğinin açık olduğu, ,dosyada noter onaylı adi ortaklık sözleşmesi bulunduğu, tarafların imzalarını ve şahit imzalarını havi sözleşmede gayrimenkulün ortaklık malı olduğu açıkça ortada olduğu, dosyaya ortaklığa ait banka hesap hareketlerinin de sunulduğu, bu delillere rağmen davalıya adeta mal kaçırması için fırsat verilecek şekilde hüküm kurulduğu, 25.08.2021 tarihinde yeniden talepte bulunularak ara karardan rücu edilmesi, ön incelemenin yakın bir tarihe verilmesi ihtiyati haciz ve ihtiyati tedbir taleplerinin değerlendirilmesi taleplerinin de reddedildiği, kararda davalı şirketin mal kaçırdığı veya mal kaçırmaya teşebbüs ettiği yönünde delil sunamadıklarının belirtildiği, ortaklık mallarının davalı adına olduğu ve kardeş oldukları için davalının ortaklık mallarını devrettiğini davacının bildiği, ancak mal kaçırma hususunu belgeleme imkanının tapu
 kayıtlarının ilgilisi dışında hiç kimseye verilmemesi nedeni ile mümkün olmadığı, bu durumun ancak mahkeme tarafından tapuya sorularak ve araştırılarak ortaya çıkabileceği, Mahkemeye tapu bilgileri ve plaka bilgilerinin verildiği, yazılacak yazı ile ortaklık mallarının devredildiği ortaya çıkacağı, ortaklık adına açılan ortak hesaba ait hesap dökümü incelendiğinde davalının hesaptan neredeyse para çeken tek kişi olduğu, payından daha fazla kısmı aldığının ortaya çıkacakğı, ihtiyati tedbir ve ihtiyati haciz taleplerinin reddi kararının kaldırılması istenmiştir. ...nun 355. maddesi uyarınca, ileri sürülen istinaf sebepleri ile sınırlı olarak yapılan inceleme sonucunda ;ilk derece mahkemesinde derdest bulunan dava ,adi ortaklığın feshi ve tasfiyesi talebine ilişkindir. Dosyadaki bilgi ve belgelere göre ; taraflar arasında ( dava dışı 3. drtak ile) adi ortaklık sözleşmesi imzalanmıştır. Davacı vekili, 16.08.2021 tarihli dilekçelerinde ortaklığa ait ... Plakalı ... Minbüs, ...
@@ -74,6 +94,8 @@ No'lu hesapla ilgili olarak denetim kayyumu tayin edilmesinin tarafların hak ve
 
 ## İstanbul BAM 9. HD 2021/1884 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/704223400)
+
 Sigorta A.Ş.'nin davada davalı sıfatına haiz olmakla, davanın davalı ... yönünden esasına girilerek hüküm kurulması yönünden hukuki bir engel olmadığını, ara karar gereği beyan dilekçesinin sunulmuş olduğu belirtilmiş olmasına ve dilekçenin içeriğinden Mahkeme'nin ara kararının ikmali doğrultusunda ilgili dilekçenin mahkemeye sunulmuş olduğu anlaşılır olmasına rağmen, anılan dilekçede sehven davanın ihbarı yönünde açıklamalara yer verilmiş olması sebebiyle, verilen önel içerisinde davanın davalı adi ortaklığı oluşturan tüzel kişilere yöneltilmediği sonucunun çıkarılarak davanın açılmamış sayılması yönünde hüküm kurulmasının hukuka aykırılık teşkil etmekte olduğunu, hasar bedeli olan 50.000,00 TL, 10.07.2017 tarihinde ödenmiş olduğunu ve bunun neticesinde meydana gelen trafik kazasında tam kusuru bulunan davalı ... Adi Ortaklığı Ticari İşletmesi ve davalının sigortacısı konumundaki diğer davalı ... Sigorta A.Ş.'ye, dava konusu olay sebebiyle müştereken ve müteselsilen sorumlulukları bulunması nedeniyle rücu imkânlarının doğmuş olduğunu belirterek istinaf yasa yoluna başvurulmuştur.
 Dava, maddi hasarlı trafik kazası nedeniyle sigorta şirketi tarafından ödenen hasar bedelinin tahsili istemine ilişkin olup istinaf açısından uyuşmazlık konusu HMK'nın 355. maddesine göre kamu düzeni ve istinaf nedenleri ile sınırlı olmak üzere İlk Derece Mahkemesince verilen kararın usul, yasa ve dosya içeriğine uygun olup olmadığıdır. 01.05.2017 tarihinde, davacı sigorta şirketine ... numaralı Maksimum Kasko Poliçesi ile dava dışı ... Limited Şirketi adına sigortalı ... plakalı araç ile davalı ... Adi Ortaklığı Ticari İşletmesi'nin maliki olduğu ve diğer davalı ... Sigorta A.Ş.'ye sigortalı ... no'lu kamyonun Arnavutköy Mevkii 3. Havalimanı şantiyesi içerisinde döküm alanında seyri halindeyken çarpışması neticesinde maddi hasarlı trafik kazası meydana geldiği, davacı tarafından hasar tutarı 50.000,00 TL'nin, 10.07.2017 tarihinde dava dışı sigortalı araçta onarımı gerçekleştiren teknik servisin hesabına geçildiği, halefiyete dayanılarak bu davanın açıldığı anlaşılmıştır. Davalı ...
 
@@ -81,6 +103,8 @@ Adi Ortaklığı Ticari İşletmesi'nin tüzel kişiliği bulunmadığından Mah
 A.Ş.' nin işbu huzurdaki davaya dahil edilmesi gerekmekle, taraf sıfatına haiz, davalı adi ortaklığı oluşturan tüzel kişilere işbu huzurdaki davanın ihbarını ve ihbar olunan tüzel kişilerin davaya dahil edilmesini talep etmekteyiz." denilmiş olmakla ifade karışıklığı yapıldığı anlaşılmaktadır. Talep sonucunun açık olmaması durumunda, HMK’nın 31. maddesine göre mahkemece, davacıya talep sonucunun açıklattırılması gerekir. Bu hükümde, “hakim, uyuşmazlığın aydınlatılmasının zorunlu kıldığı durumlarda maddi veya hukuki açıdan belirsiz yahut çelişki gördüğü hususlar hakkında, taraflara açıklama yaptırabilir, soru sorabilir, delil gösterilmesini isteyebilir” denilmekte ise de bunu sadece hakime tanınan bir yetki şeklinde değil, aynı zamanda hakime verilen bir ödev olarak anlamak gerekir.
 
 ## İstanbul BAM 13. HD 2021/1764 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/715309600)
 
 Dava, sigorta prim alacağının tahsili için başlatılan takibe yapılan itirazın iptali istemine ilişkindir.
 
@@ -95,6 +119,8 @@ Akabinde yüklenici tarafın 28/06/2006 tarih... sayılı yazısı ile poliçeni
 Enerji…Ltd.Şti.’nin iş ortaklığının ortaklık nam ve hesabına hareket etmeye tam yetkili pilot ortağı olduğu da dikkate alındığında, bu yazı ile sigorta ettiren iş ortaklığınca ...zeyilnamenin zımnen kabul edilmekte olduğu sonuç ve kanaatine varılmıştır. Davacı tarafça sigorta prim ödemesine ilişkin ödeme belgesi sunulmamış ise de, dava dışı ...
 
 ## İstanbul BAM 3. HD 2020/738 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/590357500)
 
 Dosyadaki bilgi ,belge ve taraf beyanlarına göre, taraflar arasında bir adi ortaklık kurulduğu, dosyadaki araç satın almaya ilişkin fatura örneği ile araç kiralandığına ilişkin fatura örneğine göre ; ortaklık sözlemesi kapsamında davalı ... şirketi adına alınan aracın,kullanımı için davacı ...'na verildiği, ancak bu aracın davacıdan bir süre sonra oyçokluğu ile alınan ortaklar kurulu kararı ile alındığı ve sonuçta 3. kişiye satıldığı anlaşılmaktadır.
 Davacı sözkonusu aracın kendisinden geri alınması nedeniyle araç kiralayıp, masraf yaptığını ileri sürerek bunun tahsilini talep etmiş ise de, taraflar arasındaki Adi Ortaklık Sözleşmesi'nin 5. maddesine göre ortaklığın "ortakların oy birliği ile yönetileceği ve ortakların müşterek imzası ile borçlandırıcı işlem yapabilecekleri" şeklinde düzenleme yapıldığı, davacının tek başına ortaklık adına araç kiralayıp borçlandırıcı işlem yapma yetkisinin bulunmadığı ve adi ortaklık ortaklarının bu yönde almış oldukları bir karar bulunmadığından, bilirkişi raporunda aksi yöndeki görüşe itibar edilmeyerek, davacının davalılardan araç kiralama için ödediği bedeli isteyemeyeceği şeklindeki mahkeme gerekçesi ve bu sebeple bu talebin reddine karar verilmesinde,sözleşme hükümleri dikkate alındığında usul ve hukuka aykırılık görülmemiştir.

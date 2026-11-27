@@ -22,6 +22,8 @@ uyari: "Derleyenin seçtiği alıntılardır; kararın tamamı değildir. Künye
 
 ## Yargıtay 3. HD 2021/999 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/651847700)
+
 Davacı, Kuzey Ankara Kentsel Dönüşüm projesi kapsamında kalan mülkiyeti kendisine ait Keçiören ilçesi, ... Mahallesi ada 32292, parsel 3 B Blok 3 nolu bağımsız bölümün, daire karşılığında davalıya devredilmesi konusunda, 24/05/2010 tarihli Apartmanlar İmarlı Arsa ve Tesis Sözleşmesi imzalandığını; kendisine sözleşme tarihinde geçerli olan Çevre ve Şehircilik Bakanlığı birim fiyatlarına göre yapı bedeli ödenmesi gerekirken yalnızca ortak alan hisse bedeli olarak 8.232,06 TL'nin mahsuplaşmaya dahil edildiğini iddia ederek; Kamulaştırma Kanunu'nun 11. maddesine göre yapının tamamının değerine karşılık şimdilik 10.000,00 TL alacağın dava tarihinden itibaren işleyecek faizi ile birlikte davalıdan tahsiline karar verilmesini talep etmiş, ıslah dilekçesi ile alacağını 45.441,10 TL’na yükseltmiştir.
 
 Davalı, davanın reddini dilemiştir.
@@ -35,6 +37,8 @@ Her ne kadar, mahkemece; yerin tapulu olduğu gözetilerek karar verilmesinde is
 SONUÇ: Yukarıda birinci bentte açıklanan nedenlerle davalının sair temyiz itirazlarının reddine, ikinci bentte açıklanan nedenlerle temyiz olunan kararın davalı yararına BOZULMASINA …
 
 ## Yargıtay 11. HD 2020/3457 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/587606600)
 
 Davacılar vekili, temsilcisi olarak hareket ettiği küçükler ile annelerinin davalının müdürlük yaptığı limitet şirkete miras yoluyla ortak olduklarını, küçüklerin dedelerinin kayyım olarak atandığını, dava dışı bu kayyımın görevini ifa etmediğini, şirketin dolayısıyla davacıların zarara uğradığını, kayyımın azli ve kendisinin kayyım atanması istemli dava açtığını, anılan bu davada davalı aleyhine sorumluluk davası açılması için yetki verildiğini, bu amaçla dava dışı şirkete ait taşınmazlar üzerine tedbir kararı konulduğunu, tarafların ortak olduğu şirketin davacı küçüklerin murisinin hayatta olduğu dönemde kat karşılığı inşaat sözleşmesi imzalayarak yüklenici sıfatını aldığını, kayıtların düzenli tutulmadığını, daire satışlarının gerçek bedeli yansıtmadığını, davalının satışları rayicin altında gösterip aradaki farkı uhtesinde tuttuğunu, şirketi zarara uğrattığını, müdürlük görevini kötüye kullandığını ileri sürerek ve ıslah isteminde bulunarak, davalının müdürlükten azline, sorumluluğunun tespitiyle şimdilik 400.000.00 TL tazminatın Türkan Yapı Haf.
 
@@ -58,6 +62,8 @@ SONUÇ: Yukarıda (1) numaralı bentte açıklanan nedenlerle asıl davaya yöne
 
 ## Yargıtay 15. HD 2020/3124 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/623834200)
+
 Davacı, davalı arsa sahipleri ... ve Sevim Işık ile davalı yüklenici ... arasında 11.01.1996 tarihli kat karşılığı inşaat sözleşmesi imzalandığını, imzalanan bu sözleşmeye göre davalı yükleniciye düşen 8 nolu bağımsız bölümün 23.06.1999 tarihli gayrimenkul satış vaadi sözleşmesi ile kendisine satıldığını, binanın bitirilip tesliminden sonra dava dışı arsa sahibi Sevim Işık tarafından bağımsız bölümdeki 44/590 payın 15.04.2002 tarihinde tapuda müvekkiline devredilerek ferağının verildiğini, ancak diğer hissedar Halil Sude’nin ferağ vermeye yanaşmadığını, bilahare Halil Sude’nin ölümüyle de işin sürüncemede kaldığını ileri sürerek, Antalya ili, Muratpaşa ilçesi, Sedir Mahallesi, 3167 ada, 15 parselde kayıtlı taşınmazın muris ... adına kayıtlı bulunan 20/64 hissesinin tapu kaydının iptâli ile adına tesciline karar verilmesini talep etmiştir.
 
 …
@@ -75,11 +81,15 @@ SONUÇ: Yukarıda açıklanan nedenlerle temyiz itirazlarının kabulü ile hük
 
 ## Yargıtay 15. HD 2020/2993 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/613384200)
+
 Bu durumda mahkemece ... Belediye Başkanlığı’ndan, 03.06.2015 tarihli bilirkişi raporuna göre, fiziki olarak tamamlanmış olup, oturulduğu bildirilen yapıya, yapı kullanma izin belgesi verilmesinin mümkün olup olmadığı, verilmesi mümkün ise bunun koşulları ve yapılması gereken işlemlerin nelerden ibaret olduğu sorulup, bundan sonra, belediyeden gelecek yazı cevabına göre davacıya bağımsız bölüm satın aldığı inşaatın tamamına yapı kullanma izin belgesini alması için belediye ve diğer kurum ve kuruluşlarda arsa sahibi ve yüklenicinin yapmak zorunda olduğu iş ve işlemleri yapmak üzere yetki ve bu işlemleri tamamlamak üzere makul süre verilip, sonucuna göre bir karar verilmesi gerekirken, süre verilmesine rağmen yetki verilmeden ve sonuçları da açıklanmadan davacının yüklenici namına yapı kullanma izin belgesi alma yükümlülüğünü yerine getirmediği gerekçesiyle davanın reddi doğru olmamış, kararın bozulması uygun bulunmuştur.
 
 SONUÇ: Yukarıda açıklanan nedenlerle temyiz itirazlarının kabulü ile hükmün davacı yararına BOZULMASINA …
 
 ## Yargıtay 15. HD 2020/2767 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/648280100)
 
 Dava arsa payı karşılığı inşaat yapı sözleşmesine dayalı tapu iptâli ve tescil, bunun mümkün olmaması halinde bedelinin tahsili istemine ilişkindir.
 
@@ -94,6 +104,8 @@ Arsa payı karşılığı inşaat yapım sözleşmelerinde arsa sahibinin borcu 
 SONUÇ: Yukarıda açıklanan nedenlerle temyiz itirazlarının kabulü ile İstanbul Bölge Adliye Mahkemesi 15. Hukuk Dairesi’nin hükmünün davacı yararına BOZULMASINA …
 
 ## Yargıtay 15. HD 2020/2695 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/647992500)
 
 Dava, arsa payı karşılığı inşaat yapım sözleşmesi uyarınca davacı yükleniciye bırakılıp da devredilmeyen bağımsız bölüme ait davalı adına olan tapu kaydının iptâli ile davacı adına tapuya kayıt ve tescili istemine ilişkindir.
 
@@ -112,6 +124,8 @@ SONUÇ: Yukarıda açıklanan nedenlerle temyiz itirazlarının kabulü ile ...B
 
 ## Yargıtay 15. HD 2020/2434 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/596323300)
+
 Dosyadaki yazılara ve mahkemece uyulan bozma kararı gereğince inceleme yapılarak hüküm verilmiş olmasına, delillerin takdirinde bir isabetsizlik bulunmamasına ve bozmanın şümulü dışında kalarak kesinleşen cihetlere ait temyiz itirazlarının incelenmesinin artık mümkün olmamasına göre asli müdahil ...’ın aşağıdaki bendin kapsamı dışında kalan diğer temyiz itirazları yerinde görülmemiş, reddi gerekmiştir.2-4708 sayılı Yapı Denetim Kanunu’nun 2/1. maddesine göre yapı denetim hizmeti yapı sahibi veya vekili ile yapı denetim kuruluşu arasında akdedilen yapı denetim hizmet sözleşmesi ükümlerine göre yürütülür. Kanunun emredici hükmüne göre yapı sahibi, inşaat sözleşmesi yaptığı yükleniciyi bu iş için vekil tayin edemeyecektir. Kural olarak da sözleşmenin tarafı olduğundan Yapı Denetim Kanunu’nun 8/5. maddesi hükmü gereğince yapı denetim hizmet bedelinden yapı sahibi sorumludur. Ancak arsa sahibi (yapı sahibi) ile yüklenici arasındaki sözleşmede özel hüküm bulunması halinde, yapı denetim hizmet bedelini ödeyen arsa-yapı sahibi ödediği bu bedeli yükleniciden talep edebilecektir.
 
 …
@@ -119,6 +133,8 @@ Dosyadaki yazılara ve mahkemece uyulan bozma kararı gereğince inceleme yapıl
 SONUÇ: Yukarıda 1. bentte açıklanan nedenlerle asli müdahil ...’ın diğer temyiz itirazlarının reddine, 2. bent uyarınca kabulü ile hükmün asli müdahil ... yararına BOZULMASINA …
 
 ## Yargıtay 15. HD 2020/1611 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/589158600)
 
 Davacı ... ile davalı ... (...) ...arasındaki davadan dolayı Ankara 16. Asliye Hukuk Hakimliğince verilen 23.12.2015 gün ve 2014/129 E.-2015/653 K. sayılı hükmü onayan 23.
 
@@ -137,6 +153,8 @@ SONUÇ: Yukarıda 1. bentte açıklanan nedenlerle davalının diğer karar düz
 
 ## Yargıtay 15. HD 2020/245 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/572841000)
+
 Davacı yüklenici asıl davasında arsa payı karşılığı inşaat sözleşmesi ile üstlendiği edimlerini yerine getirdiğinden sözleşme konusu taşınmazdaki 4-5 ve 17 nolu bağımsız bölümlerin tapu kayıtlarının iptâli ve adına tescilini, mümkün olmadığı takdirde rayiç değerlerinin tespit ve tahsiline karar verilmesini talep ve dava etmiştir. Yargılama aşamasında gündeme gelen ve bilirkişi raporunda yükleniciye ait olacağı belirtilen 7 nolu bağımsız bölümün tesciliyle ilgili dava olmadığı gibi aidiyeti de ihtilâflı olduğundan yüklenicinin sözleşme ile üstlendiği edimi ifa etmesi ve o bağımsız bölüm yönünden de tapu iptâl ve tescile hak kazanması halinde 7 nolu bağımsız bölümle ilgili ayrıca bir talepte bulunup ayrı bir dava açması mümkün olduğundan, eldeki davada 7 nolu bağımsız bölümle ilgili karar verilmemiştir.Yüklenici şirket ile arsa sahipleri arasında ... 1.
 
 …
@@ -149,6 +167,8 @@ koşulu ile Borçlar Kanunun 97. maddesi hükmünce birlikte ifa sureti ile 17. 
 Yerel mahkeme hükmünün bu gerekçe ve 17 nolu bağımsız bölüm yönünden bozulması gerekirken onandığı, bu kez yapılan incelemede anlaşıldığından asıl dava davacısı yüklenicinin karar düzeltme talebinin kabulü uygun görülmüştür.
 
 ## Yargıtay 15. HD 2020/205 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/580830900)
 
 Dava, eser sözleşmesi niteliğindeki kat karşılığı inşaat sözleşmesinden kaynaklanan tazminat istemine ilişkindir.
 
@@ -166,6 +186,8 @@ SONUÇ: Yukarıda açıklanan nedenlerle temyiz itirazlarının kabulü ile Böl
 
 ## Yargıtay 15. HD 2020/193 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/571903300)
+
 Davacı davasında davalı ile aralarında kat karşılığı inşaat sözleşmesi yapıldığını, davalının kararlaştırılan sürede inşaatı bitirmediğini belirterek eksik ve hatalı işler bedeli ile kira mahrumiyet bedelinin davalıdan tahsiline karar verilmesini talep etmiş, davalı savunmasında inşaatın gecikme sebebinin mucbir sebeplerden kaynaklandığını, sözleşmede kararlaştırılan imalatlardan fazlasını yerine getirdiğini açıklayarak davanın reddine karar verilmesini istemiş, karşı davasında fazla imalatların bedelinin davacı-karşı davalıdan tahsilini istemiştir.
 
 Mahkemece, sözleşmeye konu gayrimenkul ile ilgili olarak imar planı hakkında verilen yürütmeyi durdurma kararı nedeniyle inşaatın durdurulduğu, inşaatın süresine bu sebebin eklenmesi gerektiği, bunun dışında yapı denetim firmasının geçici lisans iptali nedeni ile 13 aylık durdurma süresinin makul mazeret olarak sayılmayacağından inşaatın süresinde dikkate alınamayacağı gerekçesiyle eksik işler bedeli için 2.000,00 TL ile kira mahrumiyeti için 94.000,00 TL toplam 96.000,00 TL üzerinden davanın kabulüne karar verilmiştir.
@@ -175,6 +197,8 @@ Mahkemece, sözleşmeye konu gayrimenkul ile ilgili olarak imar planı hakkında
 SONUÇ: Yukarıda 1. bentte açıklanan nedenlerle davalı-karşı davacının diğer karar düzeltme taleplerinin reddine, 2. bent uyarınca davalı-karşı davacının karar düzeltme talebinin kabulü ile Yargıtay 23. Hukuk Dairesi tarafından verilen 04.12.2018 tarihli 2016/1527 Esas, 2018/5625 Karar sayılı onama ilamının kaldırılarak kararın BOZULMASINA …
 
 ## Yargıtay 15. HD 2020/187 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/572007900)
 
 Dava, davalı arsa sahipleri ile yüklenici arasında imzalanan arsa payı karşılığı inşaat yapım sözleşmesi gereğince davalı yüklenici tarafından yapılan inşaatta yükleniciye isabet eden bağımsız bölümün satın alınması sebebiyle temliken tescil istemine ilişkindir.
 
@@ -187,6 +211,8 @@ Davanın dayanağı olan, ... 4. Noterliği’nin 22.10.2017 gün, 17879 yevmiye
 SONUÇ: Yukarıda açıklanan nedenlerle davacının karar düzeltme talebinin kabulü ile Yargıtay 23. Hukuk Dairesi’nin 04.02.2019 gün, 2016/7091 Esas, 2019/259 Karar sayılı bozma ilamının kaldırılarak yerel mahkeme hükmünün değişik bu gerekçe ile temyiz eden davalı arsa sahibi mirasçıları yararına BOZULMASINA …
 
 ## Yargıtay 15. HD 2020/181 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/580844600)
 
 Dava, kat karşılığı inşaat sözleşmesinden kaynaklanan sözleşmenin feshi, mahrum kalınan kira bedelinin ve uğranılan zararın tahsili istemlerine ilişkindir.
 

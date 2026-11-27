@@ -20,6 +20,8 @@ uyari: "Derleyenin seçtiği alıntılardır; kararın tamamı değildir. Künye
 
 ## Ankara BAM 31. HD, 2023/90 E., 2025/206 K., 04.03.2025
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1126672000)
+
 Taraflar arasında düzenlenen Sözleşme Genel Şartlarının, "Uyuşmazlıkların Çözümü" başlıklı 6. Maddesinin 6/1. Fıkrasında söz konusu sözleşme kapsamında ortaya çıkacak uyuşmazlıkların taraflarca karşılıklı çözülememesi durumda hakeme havale edileceğinin yer aldığı ve davalı yanın da cevap dilekçesinde tahkim ilk itirazında bulunduğu anlaşılmaktadır. Bu maddedeki düzenleme sözleşme içerisinde yapıldığından tahkim şartı niteliğindedir.
 
 Somut olaya gelince, davalı yan, süresinde verdiği cevap dilekçesinde tahkim ilk itirazında bulunmuş ancak mahkemece davalı yanın bu ilk itirazı hakkında yukarıda belirtilen yasal düzenleme ve Yargıtay içtihatları doğrultusunda bir inceleme ve değerlendirme yapılmadan ve bu itirazın reddine karar verilmeden davanın esası hakkında inceleme yapılmış olduğundan mahkemece tahkim ilk itirazın değerlendirilmeden karar verilmiş olması sebebi ile davalı yanın buna ilişkin istinaf sebebinin kabulü gerekmiştir. ( Yargıtay Kapatılan 15.H.D.'nin 2019/3450 Esas 2020/1932 Karar sayılı ilamı)

@@ -21,6 +21,8 @@ uyari: "Derleyenin seçtiği alıntılardır; kararın tamamı değildir. Künye
 
 ## İstanbul BAM 15. HD 2023/272 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/881366400)
+
 Sulh Hukuk Mahkemesinin 23/01/2013 tarihli 2012/463 Esas 2013/54 sayılı dosyasında davacı ...'ın kısıtlandığı, ...'ın vasi olarak atandığı, İstanbul Dördüncü Adli Tıp İhtisas Kurumunun 28/06/2017 tarihli raporunda davacı ...'ın senedin imzalandığı tarih olan 06/05/2011 tarihinde fiil ehliyetine sahip olmadığının tespit edildiği, taraflar arasında kat karşılığı inşaat yapımı ön protokolü yapıldığı, her en kadar senette malen kaydı bulunsa da yapılan ön protokole göre işbu senedin teminat senedi olarak verildiğinin kabulü gerektiği, ayrıca senette çift vade olduğu, bu nedenle kambiyo vasfını kaybettiği ancak yazılı delil başlangıcı olarak değerlendirilmesi gerektiği, zira taraflar arasında yapılan kat karşılığı inşaat sözleşmesi ön protokolünde dava konusu senede atıf yapıldığı, yazılı delil başlangıcı olan senetteki teminat koşulunun gerçekleştiğinin ispat yükünün davalıya ait olduğu, davalının davaya konu taşınmazın vergilerin yapılandırma işlemlerinin yapıldığını ve yapılandırma çerçevesinde 06/09/2011 tarihinde davalı şirket hesabından Zeytinburnu Belediyesi hesabına 100.251,00-TL' ödenmiş olduğu, davalı şirket ortağının ... hesabından 29/06/2011 ve 20/07/2011 tarihlerinde
 25.062,51 TL'lik iki ödemenin yapıldığı, yapılan bu ödemelerin tarih ve tutarlarının Zeytinburnu Belediye Başkanlığı kayıtları ile uyumlu olduğu, her ne kadar ödemlerde açıkça protokolde veya senede atıf yapılmamış ise de ödemlerin protokol kapsamında yapıldığı kabul edilerek ön protokolde sözleşme yapılmadığı takdirde yapılan harcamaların iade edileceğinin taraflarca kararlaştırıldığı, teminat koşulunun sağlandığı, davalının adi senede konu alacağını ispatladığı, ancak davacı ... yönünden senedin imzalandığı tarihte fiil ehliyeti olmadığından menfi tespit talebinin kabulü gerektiği, diğer davacılar yönünden ise takibe konu senet bedelinden dolayı borçlu oldukları kabul edilerek bu davacılar yönünden davanın reddine, tarafların tazminat taleplerinin de reddine karar verilmiştir.Davacılar vekili istinaf dilekçesiyle, yerel mahkemenin 21/10/2019 tarih ve 2014/1400 E.
 
@@ -29,6 +31,8 @@ Sulh Hukuk Mahkemesinin 23/01/2013 tarihli 2012/463 Esas 2013/54 sayılı dosyas
 HÜKÜM: Gerekçesi yukarıda açıklandığı üzere;A)1- Davacılar vekilinin istinaf talebinin KABULÜNE 2-Davalılar vekilinin istinaf talebinin REDDİNE, 3-İstanbul 14. Asliye Ticaret Mahkemesi'nin 21/10/2019 tarih ve 2014/1400 Esas, 2019/1034 Karar sayılı kararının KALDIRILMASINA …
 
 ## İstanbul BAM 15. HD 2023/162 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/871385800)
 
 Dava; eser sözleşmesinden kaynaklanan hakediş alacağının tahsili için girişilen icra takibine itirazın iptali talebine ilişkin olup, mahkemece davanın kısmen kabülüne dair verilen karara karşı taraflarca istinaf talebinde bulunulmuştur.
 
@@ -42,6 +46,8 @@ Bu düzenlemeye göre, tapuda yapılacak masraflar ve diğer belirtilen giderler
 HÜKÜM: Gerekçesi yukarıda açıklandığı üzere;1-Taraf vekillerinin istinaf başvurusunun KISMEN KABULÜNE, 2-İstanbul 12. Asliye Ticaret Mahkemesi'nin 11/04/2022 tarih, 2013/297 Esas, 2022/364 Karar sayılı kararının KALDIRILMASINA …
 
 ## İzmir BAM 22. HD 2022/169 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/723640200)
 
 Davacı vekili istinaf dilekçesinde özetle; mahkemece verilen kararın usul ve yasaya aykırı olduğunu, şirket müdürü tarafından yapılan işlem ve sonuçların limited şirket ortaklarını doğrudan ilgilendirmesi ve zarara uğramalarına neden olması halinde, ortakların münferit olarak dava açma hakları bulunduğunu, şirket temsilciliğine 2015 yılında 5 yıllığına ...'in atandığını, sözleşmelerin yapıldığı dönemde ...'in temsilci olduğunu, müvekkilinin şirket ortağı olması nedeniyle dava açmakta hukuki yararı bulunduğunu, zira ...
 
@@ -63,6 +69,8 @@ Somut olayda; davacı, ortağı olduğu şirketin davalı yüklenici şirket ile
 
 ## İstanbul BAM 15. HD 2021/2454 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/719163500)
+
 İcra Müdürlüğü'nün ... esas sayılı takip dosyasında davalının yaptığı itirazın kısmen iptali ile takibin 1.386.796,09 TL asıl alacak ve bu alacağa takip tarihinden itibaren işleyecek avans faizi yürütülmek suretiyle devamına, fazlaya ilişkin istemin reddine, kabul edilen asıl alacağın % 20'si oranında icra inkar tazminatına hükmedilmesine, davalıdan tahsiline, Birleşen İstanbul 5.Asliye Ticaret Mahkemesi'nin 2015/1083 Esas, 2017/804 Karar sayılı dava dosyası yönünden açılan davanın reddine karar verilmiştir.
 Asıl davada davalı-birleşen davada davacı vekili istinaf dilekçesiyle, asıl ve birleşen dava yönünden istinaf itirazlarında bulunmuş ise de, asıl davada davacı şirket yetkilisi tarafından asıl davadan feragat edildiğinden asıl dava yönünden istinaf itirazlarının değerlendirilmesine gerek olmadığı anlaşılmış, birleşen dava yönünden; taraflarınca alacak davası açıldığı halde, mahkemece sanki tapu iptali ve tescil davası açılmış gibi değerlendirilerek hüküm kurulduğunu, böylece yanlış degerlendirme neticesinde; birleşen alacak davası yönünden hiç hüküm kurulmadığını, bunun da usul hükümlerine aykırılık teşkil ettiğini, birleşen davada rededilen davanın alacak davası olduğunu, alacak kaleminin taşarönluk sözleşmesine bağlı olarak taşeronun yani karşı yanın alacağının inşaatın %100 tamamlamasına bağlı olarak oluştuğunu, yapılan ödemenin inşaat bitmeden gayrimenkul devri ve nakdi ödemeyle yapılmışsa; ya inşaatın tamamının bitimindeki gayri menkul değerlerinin hesaplanması gerektiğini, ya da devir tarihindeki hak edişinin oranlanarak alacak- borcun belirlenmenin gerektiğini, mahkeme tarafından bu hususun hiç incelenmediğini, çünkü davalarının alacak davası olmasına rağmen tapu tescili ve
 iptali gibi yorumlanarak hüküm kurulduğunu, alacak davalarının ise hiç incelenmediğini belirterek yerel mahkeme kararının kaldırılması için istinaf kanun yoluna başvurmuştur. Uyuşmazlık, 6098 sayılı Türk Borçlar Kanunu'nun 470. ve devamı maddelerinde düzenlenen eser sözleşmesinden kaynaklanmaktadır. Davacı yüklenici, davalı iş sahibidir.
@@ -76,6 +84,8 @@ Maddelerinde hüküm fıkrasında nelerin yer alacağı açıklanmış ve 297/so
 HÜKÜM: Gerekçesi yukarıda açıklandığı üzere; 1-Asıl davada davalı-birleşen davada davacı vekilinin istinaf başvurusunun esasa ilişkin sebepler incelenmeksizin usul yönünden KABULÜNE, 2-İstanbul 7. Asliye Ticaret Mahkemesi'nin 10/06/2021 tarih, 2015/871 Esas, 2021/490 Karar sayılı kararının KALDIRILMASINA …
 
 ## İstanbul BAM 15. HD 2021/1972 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/699277500)
 
 Esas sayılı dosyasındaki taleple ilgili taşınmaz satış taleplerinin olduğu, Bağcılar Belediye Başkanlığının 03.09.1997 tarih ve 3937 sayılı Encümen kararı ile ... ada ... parsel ifraz edilerek ... ada ... ve ... sayılı parseller oluşturulduğu, mahallinde keşif yaparak oluşturulan bilirkişi heyetinden 09/02/2016 tarihli kök rapor ve 28/02/2017 tarihli ek rapor dosyaya ibraz edildiği, bilirkişi heyetinin taşınmaz üzerinde herhangi bir yapı bulunmadığı, önceden açılan davalar ve sunulan deliller dikkate alındığında ... ada ... parsel üzerindeki inşaatın gerçekleşme oranının %38 olduğu, ... ada ... parselde ise dosyadaki bilgilere göre önceki temel durumunun %0.1 oranında inşaat gerçekleşmesi olduğu, mevcut durum ve şartlarda inşaatın devam etmesinin ve tamamlanmasının imkansız olduğu, her iki parseldeki daha önce yapılıp yıkılan inşaatın değerinin 922.031,50-TL değerinde olduğu, faydalı, kullanılabilir bir imalat bulunmadığı, davacı kooperatif tarafından ticari defterlere göre davalı şirkete 75.000,00 Alman Markı ve 240,00 TL ödeme yapılmış olduğu, inşaat için de 346,00 TL harcama olduğu, aralarındaki sözleşmeler dikkate alındığında esas sözleşmenin ifası değerlendirilerek karşılıklı
 olarak yeni sözleşmelerin yapılmış olduğu, önceki sözleşmelerdeki haklarının saklı tutulmaması halinde önceki sözleşmelere dayanılmasının mümkün olmadığı, imar durumu ve sonradan çıkan deprem yönetmeliği dikkate alındığında sözleşmenin ifasının imkansız olduğu, emredici hükümlere aykırı olan sözleşmelerin TBK'nun 27. maddesi gereğince hukuki imkansızlık sebebiyle hükümsüz sayılacağı, sözleşmenin ifasızlığı sonradan ortaya çıktığından TBK'nun 136. maddesi gereğince her iki tarafın sözleşme gereğince aldıklarını iade etme yükümlülüklerini bulunduğu, buna göre yüklenicinin üzerine almış olduğu arsa paylarını iade yükümlülüğü olduğu, sözleşme konusu taşınmazdan daire alan üçüncü kişilerin iyi niyetli sayılamayacağı, zira inşaatın tamamlanmamış durumu bilinerek dairelerin alınmış olduğu, davanın açıldığı tarih, dava konusu fiil ve işlemlerin gerçekleştiği tarih dikkate alındığında 6101 sayılı yasanın 1 ve devamı maddeleri de göz önünde bulundurulduğunda 818 sayılı Borçlar Kanunu'nun dava konusu uyuşmazlıkta uygulanacağı, arsa payı karşılığı inşaat sözleşmelerinde yüklenicinin işi muayyen bir zamanda bitirmeyerek temerrüde düşmesi nedeniyle iş sahibi tarafından sözleşmenin feshinin talep
@@ -91,6 +101,8 @@ HÜKÜM: Gerekçesi yukarıda açıklandığı üzere; 1-Taraf vekilinin istinaf
 
 ## İstanbul BAM 14. HD 2021/558 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/652587100)
+
 Alıcı tarafından bu şekilde bir kontrol yapılmadan payın devir alınmış olması, payı devredenin kötü niyetli olduğu veya alıcının iradesini bozduğu şeklinde yorumlanamaz. Pay devirinden sonraki tarihlerde, davacı şirketçe yeni arsa payı karşılığı inşaat sözleşmesinin düzenlendiği sırada veya dava tarihine kadar, davacılar tarafından irade sakatlığına ilişkin herhangi bir ihtar veya ihbar gönderilmemiştir. Bu tür iddialar ilk olarak dava ve şikayet dilekçesiyle ileri sürülmüş ise de irade hata veya yanılmaya ilişkin bir kanıt sunulmamıştır. Pay devri sözleşmesi doğrudan davacı ile payını devir aldığı şirket ortağı arasında yapılmış olması nedeniyle somut olayda, TBK'nın temsile ilişkin 47. maddesinin uygulama olanağı bulunmamaktadır. İlk sözleşmeyi yapan şirket ile payı devir alınan şirket arasındaki arsa payı karşılığı inşaat sözleşmesinin devrinde de yetkisiz temsil bulunmamaktadır. Sözleşme şirketlerin yetkili temsilcileriyle yapılmıştır. Devir sözleşmesi veya sözleşmeye katılmanın şekil şartlarına uyulmaması yetkisiz temsil olarak değerlendirilemez.
 Devir ve katılmaya ilişkin TBK'nın 205 veya 206. maddelerine uyulmamasından kaynaklanan bir zararın bulunması halinde bu zararın davacılar tarafından talep edilemeyeceği, ancak sözleşmenin tarafı olan şirketçe talep edilebileceği anlaşılmaktadır.
 
@@ -99,6 +111,8 @@ Devir ve katılmaya ilişkin TBK'nın 205 veya 206. maddelerine uyulmamasından 
 HÜKÜM: Gerekçesi yukarıda açıklandığı üzere;1-HMK'nın 353/1.b.1. maddesi uyarınca, davacılar vekilinin istinaf başvurusunun esastan reddine …
 
 ## İstanbul BAM 15. HD 2018/515 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/404918200)
 
 Davacı vekili; müvekkilinin, davalı yüklenici şirket ile dava dışı arsa sahipleri tarafından imzalanan 17/02/2011 tarihli kat karşılığı inşaat sözleşmesine konu arsayı 18/04/2014 tarihinde satın aldığını, sözleşme hükümlerine göre inşaatın toplam 18 ayda tamamlanıp anahtar teslimi şeklinde yapılıp teslimi gerektiği halde belirlenen sürede inşaata başlanıp süresinde teslim edilmediğini belirterek sözleşmenin geriye etkili olarak feshi ile müsbet ve menfi zararının tahsilini talep etmiştir.
 

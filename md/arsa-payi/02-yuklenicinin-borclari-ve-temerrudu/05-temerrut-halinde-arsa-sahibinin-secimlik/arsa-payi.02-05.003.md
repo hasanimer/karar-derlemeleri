@@ -22,6 +22,8 @@ uyari: "Derleyenin seçtiği alıntılardır; kararın tamamı değildir. Künye
 
 ## Yargıtay 6. HD 2024/1347 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1094310700)
+
 İlk Derece Mahkemesince, arsa sahibi ile yüklenici arasındaki arsa payı karşılığı inşaat sözleşmesi gereğince yükleniciden bağımsız bölüm temlik alan davacının tapu iptali ve tescili, ikinci kademede tazminat davasında yapılan yargılama sonucunda; davanın tapu iptal tescil yönünden reddine, davacının terditli olarak açmış olduğu alacak davasında davalılar ... ve ... hakkında husumet yönünden davanın reddine, davacının terditli olarak açmış olduğu alacak davasında davalı Grup Hanehan İnşaat yönünden davanın kısmen kabulü ile 219.170,00 TL'nin dava tarihinden itibaren işleyecek yasal faizi ile birlikte davalı Grup Hanehan İnşaat'tan alınarak davacıya verilmesine karar verilmiştir.
 
 …
@@ -34,6 +36,8 @@ Noterliği’nde 01.05.2006 gün ve 14104 yevmiye ile düzenlenen vekaletnamede,
 SONUÇ: Yukarıda açıklanan nedenlerle Ankara Bölge Adliye Mahkemesi 17. Hukuk Dairesi kararına ilişkin davacı vekilinin tüm temyiz sebeplerinin reddiyle usul ve kanuna uygun bulunan hükmün ONANMASINA …
 
 ## Yargıtay 6. HD 2024/1142 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1083309900)
 
 Davacı vekili; müvekkili ile davalı arasında arsa payı karşılığı inşaat sözleşmesi imzalandığını, sözleşmede müvekkiline 3 adet daire verileceğini, dairelerin 03.02.2017 tarihinde teslim edileceğini, edilemez ise her ay için kira ödeneceğinin kararlaştırıldığını, ancak davalının bağımsız bölümleri teslim etmediğini, bunun üzerine davalı aleyhine icra takibi başlatıldığını, davalının takibe haksız olarak itiraz ettiğini ileri sürerek, itirazın iptaline ve % 20'sinden az olmamak üzere davalı aleyhine icra inkar tazminatına hükmedilmesine karar verilmesini talep ve dava etmiştir.
 
@@ -57,6 +61,8 @@ Gecikme tazminatı kural olarak sözleşmede kararlaştırılan teslim tarihinde
 
 ## Yargıtay 6. HD 2024/1009 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1085025000)
+
 Davacı vekili dava dilekçesinde özetle; müvekkili kooperatif ile davalı arsa sahipleri arasında düzenleme şeklinde gayrimenkul satış vaadi ve kat karşılığı inşaat sözleşmesi imzaladığını, sözleşme hükümlerine göre arsa sahiplerinin arsayı müvekkili kooperatife 1 ay içinde devretmesi gerekirken devir yapılmadığını, davalıların başka bir yüklenici ile yeni bir sözleşme imzaladıklarını, davalıların müvekkili kooperatif ile sözleşme imzaladıkları arsanın üzerine başka müteahhit tarafından bina inşa edildiğini, sözleşmenin ifası açısından hukuki ve fiili imkansızlık ortaya çıktığını, imkansızlığın davalıların kusuru ve sözleşmeye aykırılığı ile ortaya çıktığını, bu nedenle müvekkilinin zararını karşılamakla yükümlü olduklarını ileri sürerek, sözleşmenin ifasının davalıların kusuru ile imkansız hale geldiğinin tespiti ile şimdilik 10.000,00 TL tazminatın dava tarihinden itibaren işleyecek yasal faizi ile birlikte davalılardan müştereken ve müteselsilen tahsiline karar verilmesini talep etmiştir.
 
 …
@@ -73,6 +79,8 @@ Davacı vekilinin temyiz itirazlarının kısmen kabulü ile; Temyiz olunan, İl
 
 ## Yargıtay 6. HD 2024/755 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1024872300)
+
 Davalı davaya cevap vermemiş, davalı vekili duruşmadaki beyanında tüzel kişinin iflas ertelemesi ile ilgili dava açtığını, tedbir kararı verildiğini ve yönetimin kayyıma verildiğini beyanla davanın reddini istemiştir.
 
 …
@@ -88,6 +96,8 @@ Davacı vekili temyiz dilekçesinde özetle; müvekkilinin arsa payı karşılı
 Davacı vekilinin karar düzeltme talebinin KABULÜ ile Dairemizin 13.11.2023 tarihli ve 2022/4201 Esas, 2023/3805 Karar sayılı onama ilamı KALDIRILARAK yerel mahkeme kararının temyiz eden davacı yararına BOZULMASINA …
 
 ## Yargıtay 6. HD 2024/525 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1008257100)
 
 Davacı vekili dava dilekçesinde özetle; davacılar ile davalının ... ili, ... ilçesi, ... Mahallesi, 1055 ada 16 parsel sayılı taşınmaz için ... 8.
 
@@ -111,6 +121,8 @@ Asıl ve birleşen dosya davacıları ile asıl dosya davalısı ile birleşen d
 
 ## Yargıtay 6. HD 2023/4211 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/989771400)
+
 Davacılar vekili dava dilekçesinde; davacıların murisi ...ın da arasında bulunduğu arsa sahipleri ile davalı yüklenici firma arasında 07.06.2006 tarihinde arsa payı karşılığı inşaat sözleşmesi imzalandığını, sözleşmede davacıların murisi ...a 200 m² alana sahip 2 adet dükkanın tesliminin kararlaştırıldığını, davanın açıldığı günden bugüne kadar henüz dükkanları teslim etmediğini, sözleşme gereği her bir dükkan için aylık 1.500,00 TL kira tazminatının verilmesinin kararlaştırıldığını, 23.10.2010 tarihinden takip tarihi 16.05.2018 tarihine kadar toplam 218.250,00 TL kira tazminatının ödenmesi için Bursa 16. İcra Müdürlüğünün 2018/6280 E.
 
 …
@@ -127,6 +139,8 @@ Bu durumda 24.03.2010 tarihli ihtarnamenin, 24.10.2010-16.05.2018 tarihleri aras
 2\. bentte açıklanan nedenlerle, İlk Derece Mahkemesi kararına karşı istinaf başvurusunun esastan reddine ilişkin Bölge Adliye Mahkemesi kararının ORTADAN KALDIRILMASINA …
 
 ## Yargıtay 6. HD 2023/3011 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/958338900)
 
 Davacılar vekili dava dilekçesinde; müvekkillerinin murisi yüklenicinin davalı arsa sahibi ile imzaladığı arsa payı karşılığı inşaat sözleşmesinden kaynaklanan edimlerini yerine getirdiğini, binanın iskan ruhsatını aldığını ancak davalının müvekkiline düşen dükkan ve dairelerin tapularını vermediğini, müvekkilinin zarara uğradığını ileri sürerek, müvekkiline düşen 3 daire ve 1 dükkan ile dükkana ait deponun tapu kayıtlarının iptâli ile müvekkilleri adına tescilini, fazlaya ilişkin hakları saklı kalmak kaydıyla 5.000,00 TL tazminatın davalıdan tahsilini talep ve dava etmiştir.
 
@@ -146,6 +160,8 @@ Davacılar vekilinin yerinde görülmeyen tüm temyiz itirazlarının reddi ile 
 
 ## Yargıtay 6. HD 2023/1257 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/906292200)
+
 Davalı-karşı davacı arsa sahibi ... vekili karşı dava-cevap dilekçesinde özetle; davacı ile davalılar arasında imzalanan sözleşmeye göre yüklenicinin inşaatı 12 ayda yapıp teslim edeceğini, yine sözleşme hükümlerine göre yüklenicinin inşaatı sözleşme hükümlerine göre süresinde teslim edemez ise günlük 150 USD gecikme tazminatı ve temerrüde düşerse de 50.000,00 TL maktu ceza ödeyeceğini, yüklenicinin sözleşme ile üstlendiği edimini yerine getirmediğini, uyuşmazlık konusu inşaatı 26.05.2007 tarihinde tamamlayıp süresinde ve projesine uygun olarak tamamlayıp teslim etmediğini, inşaatı natamam, kaçak bir şekilde bıraktığını, inşaatın tamamlanmaması üzerine ... 35.
 
 …
@@ -160,6 +176,8 @@ Bu durumda edimini ifa etmeyen tarafın karşı taraftan edimin ifasını talep 
 Davacı-Karşı Davalı vekilinin yerinde görülmeyen tüm temyiz itirazlarının reddi ile usul ve kanuna uygun olan kararın ONANMASINA …
 
 ## Yargıtay 7. HD 2023/1098 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/897401900)
 
 İlk Derece Mahkemesince bozmaya uyularak yeniden yapılan yargılama sonucunda; davanın konusuz kaldığından davanın esası hakkında karar verilmesine yer olmadığına, terditli alacak yönünden açılan davanın kısmen kabul kısmen reddine, manevi tazminat isteğinin kabulüne karar verilmiştir.
 
@@ -180,6 +198,8 @@ Mahkemece, davacının ancak ödemiş olduğu bedeli ve zararlarını talep etme
 Temyiz olunan Mahkeme kararının BOZULMASINA …
 
 ## Yargıtay 6. HD 2023/1057 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/897442700)
 
 Davalı vekili cevap dilekçesinde özetle; taraflar arasındaki sözleşmenin 01/12/2020 tarihinde sona ermediğini, sözleşmede kararlaştırılan ek sürelerde inşaatların bitirilmesinin fazlası ile mümkün olduğunu, ayrıca sözleşmeden sonra Kozlu Belediyesi tarafından imar planlarının müteaddit defalar iptal edildiğini, inşaat ruhsatının yenilenmesi gerektiğini, inşaat imalatları (yapımı) durdurulması nedeniyle geçen süre yanında, Kozlu Belediye Başkanlığının ÇED raporu aldırılmasına karar verilmiş olması nedeniyle geçen 6 aylık süre, pandemi döneminde geçen süre gibi sürelerin eklenmesi gerektiğini, bu sürelerin dolmasına kadar bağımsız bölümlerin bulunduğu blokların her halükarda bitirilebileceğini, ayrıca inşaatın da bu kadar sürede bitirilmesine hiç bir engel bulunmadığını, delil tespiti talebi sonucunda, sözleşme incelenmeden inşaatın süresi içerisinde bitirilemeyeceği yönündeki bilirkişilerin raporu sözleşme hükümlerine açıkça aykırı olmakla delil niteliği taşımadığını, bu nedenle, sözleşmede belirlenen ek süre içerisinde inşaatın tamamlanıp tamamlanmayacağını ilişkin yeniden uzman bilirkişi marifetiyle keşif yapılması gerektiğini, sözleşmede kararlaştırılan inşaatın bitiş süresinin
 01.12.2020 tarihinden itibaren en az 30 ay daha uzaması söz konusu iken, sözleşmenin feshi şartları bu nedenle oluşmadığından sözleşmenin geriye etkili olarak feshi taleplerinin haksız ve mesnetsiz olduğunu belirterek haksız ve mesnetsiz davanın reddine, yargılama giderleri ve vekillik ücretinin davacılara yükletilmesine karar verilmesini talep etmiştir.

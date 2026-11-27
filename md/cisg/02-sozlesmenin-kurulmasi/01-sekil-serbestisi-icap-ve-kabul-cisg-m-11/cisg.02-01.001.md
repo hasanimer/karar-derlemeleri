@@ -20,4 +20,6 @@ uyari: "Derleyenin seçtiği alıntılardır; kararın tamamı değildir. Künye
 
 ## İstanbul BAM 13. HD 2021/340 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/646338000)
+
 Sözleşmelerin kurulması için gereken icap (öneri) ve kabul TBK'nın 3 vd maddelerinde özel olarak düzenlenmiştir. 07/04/2010 tarihli resmi gazetede yayınlanarak yürürlüğe giren, Milletlerarası Mal Satımına İlişkin Sözleşmeler Hakkında Birleşmiş Milletler Antlaşmasının 8 ve 11. Maddesinde, sözleşme kurulması yönünde şekil açısından aynı ilkeler benimsenmiş, icap ve kabul beyanı konusunda TBK hükümlerine uygun şekilde 14 vd maddelerinde düzenleme yapılmıştır.

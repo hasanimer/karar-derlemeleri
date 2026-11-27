@@ -21,26 +21,38 @@ uyari: "Derleyenin seçtiği alıntılardır; kararın tamamı değildir. Künye
 
 ## Yargıtay HGK 2021/613 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/686733500)
+
 Diğer taraftan adi ortakların, ortaklık çerçevesinde borçlanmaları TBK’nın 638. maddesinin 3. fıkrasında düzenlenmiştir. Her bir ortak ortaklık ilişkisi çerçevesinde üstlendikleri borçtan şahsen, sınırsız ve müteselsilen sorumludur. Bunun aksi de kararlaştırılabilir. Müteselsil sorumluluğun bulunduğu durumda ise TBK'nın 163. maddesinin 1. fıkrası gereğince alacaklı, borcun tamamının veya bir kısmının ifasını dilerse borçluların hepsinden, dilerse yalnız birinden isteyebilir.
 
 ## Yargıtay HGK 2019/344 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/510784900)
+
 TBK'nun 638. maddesinin ikinci fıkrasında "ortaklık sözleşmesinde aksine bir hüküm bulunmadıkça, bir ortağın alacaklıları, haklarını ancak o ortağın tasfiyedeki payı üzerinde kullanabilirler", üçüncü fıkrasında ise "ortaklar, birlikte veya bir temsilci aracılığı ile, bir üçüncü kişiye karşı, ortaklık ilişkisi çerçevesinde üstlendikleri borçlardan, aksi kararlaştırılmamışsa müteselsilen sorumlu olurlar" düzenlemesi yer almaktadır. TBK'nın 163. maddesinin birinci fıkrası gereğince müteselsil sorumluluğun bulunduğu durumda ise alacaklı, borcun tamamının veya bir kısmının ifasını, dilerse borçluların hepsinden, dilerse yalnız birinden isteyebilir .
 
 ## Yargıtay 11. HD 2024/7728 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1089750400)
 
 Bölge Adliye Mahkemesince, istinaf istemi olarak adi ortaklığın feshine ilişkin açılan davanın bekletici mesele yapılması gerektiğinin belirtildiği, oysaki Yargıtay ilamlarında muvafakate ilişkin hususlarda süre verilmesi gerektiğinin belirtildiği, adi ortaklığın, faktoring sözleşmesi ile ortaklık adına bono düzenlendiği, bu durumda takip konusu borç, ortağın şahsi borcu olmayıp, adi ortaklığın borcu olup, adi ortaklığın borcu nedeniyle ortaklar müteselsilen sorumlu oldukları ve ortaklığın mal varlığı el birliğiyle idare edildiğine göre, birlikte sorumluluk gereği davanın da birlikte açılması gerektiği, davacı taraf her ne kadar adi ortaklığın feshine ilişkin dava dosyasının bekletici mesele yapılmasını talep etmiş ise de, husumet dava şartlarından olup, feshin sonucunun beklenilmesi Yargıtay ilamında belirtilen muvafakat koşuluna ilişkin olmadığından, tamamlanabilir dava şartı niteliğinde de olmadığından, tamamlanamayan şart yerine getirilemiyorsa o zaman dava artık baştan itibaren usulsüz bir dava niteliğine bürünecek olup, davanın iş davayı takip yetkisi ve aktif husumet ehliyeti bulunmadığından HMK 114/1-d ve 115/2 maddeleri gereğince davanın usulden reddine karar vermesinde
 bir isabetsizlik bulunmadığı gerekçesiyle davacı vekilinin istinaf başvurusunun esastan reddine karar verilmiş, karar davacı vekilince temyiz edilmiştir.
 
 ## Yargıtay 6. HD 2023/670 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/884896800)
+
 Davalı ... Yapı San. ve Tic. Ltd. Şti.nin dava konusu olan işin yapımında davacı ...'in alt taşeron olarak üstlendiği mekanik tesisat işlerinin asıl yüklenicisi olan ... ile iş ortaklığının bulunduğu, işin asıl yüklenicisi sıfatıyla ... ile taşeronluk sözleşmesi akdedildiği, TBK'nun 637/3 maddesine göre ... aynı zamanda adi ortaklığı temsile de yetkili olduğu, ... 15/05/2013 tarihli taşeronluk sözleşmesi uyarınca davacı ...'e olan borçlarından ... perdeyi kaldırma teorisi uyarınca sorumlu olmasının sonucu olarak TBK'nun 638/3. maddesinde yer alan "ortaklar birlikte veya bir temsilci aracılığı ile bir üçüncü kişiye karşı ortaklık ilişkisi çerçevesinde üstlendikleri borçlardan aksi kararlaştırılmamışsa müteselsilen sorumlu olurlar" hükmü uyarınca ... ile birlikte ... Yapının da davacıya karşı müteselsilen sorumluluğunun bulunduğu gerekçesiyle davalıların müştereken ve müteselsilen sorumlu tutularak kısmen kabul kararı verilmiştir.
 
 ## Yargıtay 6. HD 2022/2666 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/771776900)
+
 Mahkemece davalılar arasında adi ortaklık ilişkisi mevcut olduğu göz önünde bulundurularak, adi ortaklığın borcu nedeniyle ortakların müteselsilen sorumlu oldukları, birlikte sorumluluk gereği adi ortaklığı teşkil eden şirketler hakkında müteselsilen hüküm kurulması gerekirken bu davalılar yönünden her birinin borçların 1/3’inden sorumlu olduğuna karar verilmesi doğru görülmemiş, hükmün bu nedenle bozulması gerekmiş ise de, yapılan yanlışlığın düzeltilmesi yeniden yargılamayı gerektirmediğinden, hükmün HUMK'nın 438/7. maddesi uyarınca düzeltilerek onanması gerekmiştir.
 
 ## Yargıtay 15. HD 2021/1347 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/657978100)
 
 Her ne kadar Dairemizin 2019/718 Esas, 2019/4935 Karar ve 02.12.2019 tarihli düzeltilerek onama ilamında ... Alüminyum İnş. San. ve Tic. Ltd. Şti. dışındaki diğer davalılar hakkında dava taraf sıfatı yokluğundan (pasif husumet yokluğundan) reddedilmekle, vekille temsil edilen bu davalılar yararına hükmedilecek vekâlet ücreti karar tarihindeki Avukatlık Asgari Ücret Tarifesi 7/2. maddesi gereğince ikinci kısım ikinci bölümde belirtilen yazılı miktarları geçemeyeceğinden, davalılar lehine 1.980,00 TL maktu vekâlet ücreti tayini gerekirken nispi vekâlet ücreti takdiri doğru olmadığı belirtilmiş ise de; mahkeme gerekçesinde; ...Yatırım ve İşletme A.Ş’ye ait iş yerinin alt işverenlerinin de ... Alüminyım Ltd. Şti ile müştereken ve müteselsilen sorumlu olduğu fakat konsorsiyum ...
 Adi Ortaklığı’nın ayrı bir tüzel kişiliği olmadığı, davanın adi ortaklığı oluşturan şirket tüzel kişilerine karşı açılması gerektiği, diğer ortakların dahili dava yolu ile davaya dahil edilemeyeceklerinden haklarındaki davanın reddine, adi ortaklık hakkında açılan davanın husumetten reddine karar verildiği anlaşılmıştır.Taraf sıfatı, bir başka deyişle husumet ehliyeti, dava konusu hak ile kişiler arasında ki ilişkiyi ifade eder. Sıfat, bir maddi hukuk ilişkisinde tarafların o hak ile ilişkisinin olup olmadığının belirlenmesi anlamına gelir. Davacı sıfatı, dava konusu hakkın sahibini, davalı sıfatı ise dava konusu hakkın yükümlüsünü belirler. Uygulamada davacı sıfatı, aktif husumeti, davalı sıfatı ise pasif husumeti karşılayacak şekilde değerlendirilmektedir. Dava konusu şey üzerinde kim ya da kimler hak sahibi ise davayı bu kişi veya kişilerin açması ve kime karşı hukuki koruma isteniyor ise o kişi veya kişilere davanın yöneltilmesi gerekir. Bir kimsenin davacı veya davalı sıfatına sahip olup olmadığı, tıpkı hakkın mevcut olup olmadığının tayininde olduğu gibi maddi hukuka göre belirlenir.
@@ -49,19 +61,27 @@ Yatırım ve İşletme A.Ş ile dahili davalılar hakkındaki davanın husumette
 
 ## Yargıtay 19. HD 2019/5159 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/559000200)
+
 TBK'nun 638/3 maddesi gereğince adi ortaklığın tüzel kişiliği olmayıp adi ortaklığı oluşturan gerçek kişilerin borçtan müteselsilen sorumlu olmalarına rağmen, davalı bankanın adi ortaklığı ayrı bir tüzel kişi kabul ederek adi ortaklığı oluşturan gerçek kişilerin kredi sözleşmesine ayrıca kefil olarak imzasını almıştır. Kredi borcunun zamanında ödenmemesi üzerine bu borçtan dolayı davalı bankaya karşı müteselsilen sorumlu olan davalı ... bankaya borcunu ödemiş, ancak kanuna aykırı şekilde sanki kefil olarak ödeme yapmış gibi davacıların murisine ait taşınmaz üzerindeki ipotek hakkını davalı bankaya yaptığı ödemesi oranında devir almıştır. İpoteğin kalan kısmı da davalı banka lehine devam etmektedir. Davacılar davalı bankaya olan borç ve kredi ilişkisi sona erdiği için ipoteğin fekkini istemişlerdir. Davalı bankanın kredi ilişkisinin bitmesi ve kredi borcunun ödenmesi nedeniyle ipoteği fek etmesi ve asıl borçlu tarafından yapılan ödeme üzerine ipotek hakkını asıl borçluya devretmemesi gerekirken, hukuka aykırı olarak hem devir yapmış ve hem de ipoteği fek etmemiştir. Davalı ... ise borcu asıl borçlu olarak ödediği için yaptığı ödeme nedeniyle ipotek hakkını devralamaz.
 Bu itibarla davacıların davası yerinde olup, ilk derece mahkemesinin davayı kabulü de isabetlidir. Bu nedenle istinaf mahkemesince davalıların istinaf taleplerinin esastan reddi gerekirken kabulü ile ilk derece mahkemesinin kararının kaldırılması ve yazılı şekilde karar verilmesi doğru olmamış, hükmün bozulması gerekmiştir.
 
 ## Yargıtay 19. HD 2018/5569 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/461912600)
 
 Dava adi ortaklardan biri tarafından adi ortaklık alacaklısına yönelik açılmış menfi tespit ve istirdat davasıdır. TBK’unun 638/3 maddesi “ ortaklar , birlikte veya bir temsilci aracılığıyla bir üçüncü kişiye karşı, ortaklık ilişkisi çerçevesinde üstlendikleri borçlardan , aksı kararlaştırılmamışsa müteselsilen sorumlu olurlar.” hükmünü amirdir.Davacı adi ortaklığın borçlarından dolayı şahsen ve müteselsilen sorumlu olduğuna göre kendisi tarafından bu sorumluluk kapsamında adi ortaklığın borcundan daha fazla ödeme yapıldığı iddiasıyla tek başına dava açabilir. Diğer taraftan TBK ‘unun 637/1. maddesi gereğince, “kendi adına ve ortaklık hesabına bir üçüncü kişi ile işlemde bulunan ortak , bu kişiye bizzat kendisi alacaklı ve borçlu olur. “hükmü de bulunmaktadır .Bu bakımdan ... 2.
 İcra Müdürlüğü’nün 2015-6371 Esas sayılı takip dosyası getirtilip incelenmeden burda yapılan ödemeler saptanmadan davacı tarafından davalıya adi ortaklık adına şahsen yaptığı ödeme olup olmadığı saptanmadan yazılı şekilde hüküm kurulması doğru olmamıştır.Yapılması gereken iş yukarıda da belirtildiği üzere davacının adi ortaklık adına adi ortaklığın toplam borcunu aşan şahsi ödemesi olup olmadığının tespiti varsa bunu davacının yukarıdaki TBK ‘unu hükümleri çerçevesinde isteyebileceği üzerinde durularak işin esasına girmektir.Ancak davacının adi ortaklığın borcunu aşan şahsi ödemesi yoksa o zaman tüm ortakların birlikte dava açması gerektiği kabul edilmelidir. Mahkemece yanılgılı gerekçelerle davacının dava açma yetkisinin olmadığı kabul edilerek davalının istinaf başvurusunun reddi doğru olmamış bozmayı gerektirmiştir.
 
 ## Yargıtay 3. HD 2017/8945 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/353487500)
+
 818 sayılı önceki BK'nun 534.maddesi; "Şirketin iktisap ettiği veya şirkete devredilen şeyler, alacaklar ve ayni haklar şirket mukavelesi dairesinde müştereken şeriklere ait olur. Şirket mukavelesinde diğer bir hüküm bulunmadıkça bir şerikin alacaklıları haklarını ancak o şerikin tasfiyedeki hissesi üzerinde kullanabilirler. Hilafı mukavele edilmiş olmadıkça, şerikler, birlikte yahut bir mümessil vasıtasiyle üçüncü şahsa karşı deruhde etmiş oldukları borçlardan müteselsilen mes'ul olurlar." hükmünü içermekte olup; aynı husus yeni yürürlüğe giren 6098 sayılı TBK'nun 638.maddesinde de; "Ortaklık için edinilen veya ortaklığa devredilen şeyler, alacaklar ve ayni haklar, ortaklık sözleşmesi çerçevesinde elbirliği hâlinde bütün ortaklara ait olur. Ortaklık sözleşmesinde aksine bir hüküm bulunmadıkça, bir ortağın alacaklıları, haklarını ancak o ortağın tasfiyedeki payı üzerinde kullanabilirler. Ortaklar, birlikte veya bir temsilci aracılığı ile, bir üçüncü kişiye karşı, ortaklık ilişkisi çerçevesinde üstlendikleri borçlardan, aksi kararlaştırılmamışsa müteselsilen sorumlu olurlar." şeklinde ve önceki kanun hükümlerine paralel şekilde düzenlenmiştir.
 
 ## Yargıtay 4. HD 2015/8777 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/165609100)
 
 Dava, haksız fiilden kaynaklanan maddi zararın ödetilmesi istemine ilişkindir.
 
@@ -72,18 +92,26 @@ Davalı ..., ... - ... iş ortaklığının ortağı olup, 21/02/2011 tarihinde 
 
 ## Yargıtay 23. HD 2015/3906 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/201671000)
+
 Davalılar .... ile ....'nin biraraya gelip kurdukları ortak girişimin hukuki niteliği, dava tarihinde yürürlükte olan BK’nın 520. vd. madde hükümlerinde düzenlenen adi ortaklık olup, adi ortaklığın tüzel kişiliği olmadığı gibi, dava ve taraf ehliyeti de yoktur. Borçlar Kanunu’nun 530. ( TBK 630) maddesinde düzenlendiği üzere, adi ortaklık sözleşmesinde bir hüküm mevcut olmadıkça, adi ortaklığı idare eden ortak ile diğer ortaklar arasındaki ilişkiler, vekâlet hükümlerine tâbidir. Özel bir yetkiyi haiz olmadıkça vekilin, önemli işlemlerden olan davayı açamayacağı BK’nın 388. (TBK 504.) maddesi hükmü gereğidir. Adi ortaklık, iştirak halinde mülkiyet kurallarına tâbi olduğu için, davaların, Türk Medeni Kanunu’nun 702. ve BK’nın 534. ( TBK 638.) maddeleri gereğince bütün ortaklar tarafından birlikte açılması gerekir. Adi ortaklığın davacı olduğu hallerde adi ortaklığı oluşturan ortaklar arasında zorunlu dava arkadaşlığı bulunduğundan, davanın ortaklar tarafından birlikte açılması, sadece biri tarafından açılan davanın hemen reddedilmemesi, diğer ortağın HMK'nın 59. ve 60. madde hükümleri gözetilerek, davaya dahil edilmesi için davacı yana önel verilerek taraf teşkili sağlanması gerekir.
 Adi ortaklığa karşı açılacak davaların konusunu taşınır ve taşınmaz malların oluşturması halinde, BK’nın 534. ( TBK 638.) madde hükmü nedeniyle davanın, aralarında zorunlu dava arkadaşlığı bulunan tüm ortaklara karşı açılması gerekir ise de, davanın konusu para alacağı ise, ortaklardan her biri borçtan müteselsil sorumlu olduklarından, alacaklı müteselsil borçlulardan birini dahi tercih edebilir.
 
 ## Yargıtay 19. HD 2013/1339 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/253464500)
+
 Bu durumda davalı ile dava dışı ... arasında dershane işletmeciliği konusunda adi ortaklık oluşturulduğunun kabulü gerekir. Adi ortakların her biri ortaklığın borcundan müteselsilen sorumludur. Mahkemece açıklanan bu yönler gözetilerek bir karar verilmesi gerekirken, yazılı şekilde aslı sunulamayan ve davacı tarafından kabul edilmeyen fotokopi belge ve tanık beyanına dayanılarak yazılı şekilde hüküm kurulması doğru görülmemiştir.
 
 ## Yargıtay 12. HD 2008/1945 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/72220000)
+
 B.K.nun 534/3. maddesinde ise; yetkili mümessil tarafından şirket nam ve hesabına borçlanılan borçtan şeriklerin, yalnız şirketteki hisseleriyle değil bütün malları ile müteselsilen sorumlu oldukları açıklanmıştır.Müştekiler vekilinin yargılama aşamasında açıkladığı gibi, Sadri Şener'in borçlu şirketlerinin ve adi ortaklığın, yetkilisi ve temsilcisi olduğunun kabul edilmiş bulunmasına, imzaların inkar edilmemiş olmasına, …
 
 ## Yargıtay 12. HD 2007/6537 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/72766700)
 
 B.K.nun 534/3. maddesinde ise; yetkili mümessil tarafından şirket nam ve hesabına borçlanılan borçtan şeriklerin, yalnız şirketteki hisseleriyle değil bütün malları ile müteselsilen sorumlu oldukları açıklanmıştır. Mahkemece yukarıda açıklanan kurallar doğrultusunda inceleme yapılarak adi ortaklık adına borcun kabulü açısından oluşacak sonuca göre bir karar vermek gerekirken eksik inceleme ile yazılı şekilde takibin iptaline karar verilmesi isabetsizdir.
 
@@ -102,10 +130,14 @@ Noterliğinde akdedilen 19.06.2014 tarihli sözleşme ile dava konusu taşınmaz
 
 ## İstanbul BAM 3. HD 2025/2941 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1182878200)
+
 Adi ortaklıkta ,ortakların 3. kişilere karşı sorumluluğu TBK 638. maddede düzenlenmiştir.Adi ortaklıkta ,ortaklar arasında müteselsil borçluluk durumu mevcuttur.Müteselsil borçluların alacaklıya karşı dış ilişkide borcun tamamından sorumlu olmaları ,iç ilişkide sözkonusu olmayıp,borcun tamamını ifa eden müteselsil bir borçlu diğer borçlulara rücu hakkına sahiptir.Adi ortaklık sözleşmesinde borcun nasıl paylaşılacağına ilişkin düzenleme olup olmadığı değerlendirilmelidir.Sözleşmede düzenleme yoksa ve ayrıca bu konuda bir anlaşıma yapılmamışsa,ortakla borcu eşit olarak paylaşacaklardır.TBK 167/2 maddesi uyarınca iç ilişkide kendisine düşen paydan fazlasını ödeyen borçlu diğer müteselsil borçlulara rücu hakkına sahiptir.Mahkemece ,taraflar arasındaki iş ortaklığı sözleşmesi, vergi ve defter kayıtlarından; taraflar arasında bir adi ortaklık sözleşmesinin bulunduğu, bu ortaklık kapsamında iş yapıldığı, dava konusu senedin de adi ortaklık konusu iş nedeniyle düzenlenip verildiği,takibe konu alacak davacı ile davalının oluşturduğu adi ortaklığın borcuna ilişkin olduğu, adi ortaklığı ortağı olan davalı yerine de davacının ödeme yaptığı anlaşıldığından takip tarihi itibariyle 31/10/2014
 vade tarihli 340.541,00 TL bedelli senetten dolayı davacının davalıdan 181.655,00 TL alacaklı olduğu şeklindeki kabul ve takdirinde hata bulunmamaktadır.Böylece ,mahkemece verilen kararda maddi vakıa ve hukuki denetim yönlerinden usul ve hukuka aykırılık bulunmadığı anlaşılmakla, davalı tarafın istinaf talebinin reddine karar verilmesi gerekmiştir.
 
 ## İstanbul BAM 14. HD 2025/1876 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1184647200)
 
 Dava, sigorta hasar bedelinin rücuen tahsili amacı ile başlatılan icra takibine karşı itirazın iptali istemine ilişkindir.
 
@@ -120,10 +152,14 @@ Davalılar meydana gelen zarara ilişkin olarak müteselsil sorumludurlar. Kendi
 
 ## İstanbul BAM 44. HD 2025/1634 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1184188900)
+
 İle ilişkiden dolayı alacaklı olduğunu, ... İnşaatın da davacı adi ortaklığın müteselsil kefili olduğunu savunduğundan bu bir takas savunması olup, süresinde ileri sürülmemiş, davacı tarafça bu yeni savunmaya açık muvafakat verilmediğinden, takas defi savunmanın genişletilmesi niteliğinde olduğundan dikkate alınmamıştır. Kaldı ki, davalı tarafından, ... İnşaatın davacı adi ortaklığın müteselsil kefili olduğu ve davalıya borcu bulunduğu, mahsubun bu nedenle yapıldığı beyan edilmesine rağmen; ... inşaattan olan alacağın bir başka deyimle kefilin şahsi borcunun kefalet verilenden tahsil edilmesinin yasal bir dayanağının bulunmadığı açıktır. Sonuç olarak; davalının iddia ettiği üzere ... şirketinin adi ortaklığın kefili olduğu durumda kefilin şahsi borcunun adi ortaklık alacağından tahsil edilmesi yerinde olmadığı gibi adi ortaklığın ... şirketinin kefili olması ihtimalinde ise ... firmasının bakiye borcu olduğuna dair delil ibraz edilmediği gibi adi ortaklığın kefaletten kaynaklı borcu için takas defi süresinde ileri sürülmemiştir.
 Tüm bu nedenlerle mahkemece 11/05/2020 tarihli ihtarnameye göre 25.000,00 TL asıl alacak için takip tarihinde talep edilebilecek işlemiş avans faizi tutarının 304,96 TL olabileceği dikkate alınarak davalının İstanbul 31. İcra Müdürlüğünün... E.sayılı takip dosyasına itirazının kısmen iptaline yönelik kararında bir isabetsizlik bulunmadığı, istinaf talebinin reddi gerektiği kanaatine varılmıştır.
 
 ## İstanbul BAM 3. HD 2025/1078 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1142074100)
 
 Şti.'ye aktarılması için bankaya talimat verdiğine ilişkin dosya kapsamında delil bulunmadığı, müvekkili tarafından talimat verilmiş olsa dahi protokol hükümlerine göre ve ilgili bedelin müvekkilinin uhdesinde bulunmadığı gerçeği karşısında müvekkilinin davaya konu alacaktan müştereken ve müteselsilen sorumlu olduğuna karar verilmesinin hukuka aykırı olduğu, davaya dayanak teşkil eden protokolde, yalnızca imza tarihi itibariyle beklenen KDV iadesinin ne şekilde paylaşılacağının belirlendiği, Adi Ortaklığın bazı giderlerinin ne şekilde ve kimler tarafından ödeneceğinin kararlaştırıldığı, KDV iadesi geldikten sonra hangi ödemelerin yapılacağının düzenlendiği ve nihayetinde kalan bedelin ne şekilde paylaşılacağının düzenlendiği, hatta, protokolün 5.maddesinde, inşaatla ilgili bundan sonra bir ödeme olursa, bunun diğer davalı ile davacı tarafından yarı yarıya karşılanacağı kararlaştırılmış denildiğini ,hal böyleyken, müvekkilinin , gelen KDV iadesinin Adi Ortaklık banka hesabından diğer davalının banka hesabına gönderilmesi hususunda bankaya talimat vermiş olmasının -kabul anlamına gelmemek kaydıyla talimat verdiği kabul edilse dahi-;
 Adi Ortaklık iş ve işlemlerinin görülmesi, protokolde de yer alan bir kısım ödeme ve giderlerin yerine getirilmesini sağlamaya yönelik olduğunun ortada olduğu, nitekim verilen talimatın , taraflar arasında akdedilen Adi Ortaklık Sözleşmesinin yönetim ve temsile ilişkin hükümlerine de aykırılık teşkil etmediği, çift imza ile yönetim ve temsilin söz konusu olduğu Adi Ortaklığın, aksi düşünce ile fiilen ve hukuken idare edilebilmesinin mümkün olmadığı, ayrıca ; diğer davalının banka hesabının bulunduğu ...

@@ -21,6 +21,8 @@ uyari: "Derleyenin seçtiği alıntılardır; kararın tamamı değildir. Künye
 
 ## Danıştay 13. D. 2022/1483 E., 2022/4836 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/881525600)
+
 Davalı Ankara Büyükşehir Belediyesi …Proje İnşaat Taahhüt Asfalt Sanayi ve Ticaret A.Ş. tarafından, ihaleye konu alanların 26/01/2013 tarihli Bakanlar Kurulu kararı ile bölgenin planlama ya da altyapı hizmetlerinin yetersiz kalması, imar mevzuatına aykırı yapılaşma bulunması vb. sebepleriyle afet riskli alan ve rezerv yapı alanı ilan edildiği, bölgedeki dönüşüm uygulamalarının 6306 sayılı Kanun uyarınca yapılmasının zorunlu hâle geldiği, hem 6306 sayılı Kanun hem de 4734 sayılı Kanun uyarınca ihale konusu işlerin 4734 sayılı Kanun'un 21/b maddesinde sayılan işlerden olduğunun tespit edildiği, anılan maddede yapı veya can ve mal güvenliğinin sağlanması açısından ivedilikle yapılması gerekliliği idarece belirlenen hâllerde ya da idarece önceden öngörülemeyen olaylar veya savunma ve güvenlikle ilgili özel durumların varlığında, idarelere bu usulün tercihinde takdir yetkisi tanındığı, özel kanun niteliğindeki 6306 sayılı Kanun'un Ek-1. maddesi ile pazarlık usulünün uygulanacağı getirilmişken mahkemece bu hususun göz ardı edildiği, ilan yapılmasının zorunlu olmadığı, ihalede 8 firmanın doküman aldığı, ihalenin usulüne uygun olarak gerçekleştirildiği, Mahkemece yerindelik denetimi
 yasağının ihlâl edildiği, benzer ihalelerin iptali istemiyle açılan davalarda aksi yönde kararlar verildiği, davacının davayı açmakta menfaatinin olmadığı, Kocaeli'ne kayıtlı davacı tarafından ne kamu ihalelerine girmeye ehil olduğuna, ne de bunu sağlasa dahi Ankara'da böyle bir işi yapabileceğine dair delil sunulmamış olup menfaat unsurunun ispat edilemediği, ihaleye ait İdari Şartname'de yeterlik kriterlerinin belirlendiği, toplam ciroya ve iş deneyim belgesine ilişkin şartları tam olarak sağladığını ispat etmesi gerekmekte iken Mahkemece bu konuda herhangi bir inceleme yapılmadan dosyanın esasına girildiği, yaptığı araştırma sonucunda davacının 2010 yılından sonra hiçbir toplu konut yapım işlerini üstlenmediğinin anlaşıldığı, 2018 yılında iflas erteleme talebinde bulunduğu, benzer davalarda davanın ehliyet yönünden reddine karar verildiği, Belediyece hak sahiplerine kira yardımı yapıldığı, kamunun bütçesinden milyonlarca lira çıktığı, inşaat maliyetlerindeki yüzde 60 ila 80'e varan artışlar karşısında projenin durdurulmasının kendisi ile yüklenicinin ekonomik mahvına sebep olacağı;
 
@@ -36,6 +38,8 @@ Karar veren Danıştay Onüçüncü ve Altıncı Dairelerince, 2575 sayılı Dan
 
 ## Danıştay 6. D. 2020/1632 E., 2022/4703 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/789511100)
+
 Bu nedenle, salt yapı sahibinin beyanına göre düzenlenen Yapı Kayıt Belgesinin varlığı nedeniyle, yıkım kararının açıkça hukuka aykırı olduğu yolunda verilen İdare Mahkemesi kararında hukuki isabet bulunmadığından, yıkım kararı hakkında işin esası yönünden yukarıda belirtilen durum dikkate alınarak karar verilmesi gerekmektedir.
 
 …
@@ -43,6 +47,8 @@ Bu nedenle, salt yapı sahibinin beyanına göre düzenlenen Yapı Kayıt Belges
 Dava konusu işlemin yukarıda özetlenen gerekçeyle iptaline ilişkin temyize konu … İdare Mahkemesinin … tarih ve E:…
 
 ## Danıştay 13. D. 2022/1577 E., 2022/2596 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/824434000)
 
 Somut uyuşmazlık bu kapsamda incelendiğinde davacının kiracı olduğu taşınmazın da aralarında bulunduğu taşınmazlar ile ilgili olarak bunların maliki olan Bergama Belediye Başkanlığı'nca riskli yapı incelemesi yapılmak üzere bir yapı denetim firmasına başvuruda bulunulduğu, yapıların riskli olduklarının tespiti üzerine İzmir Çevre, Şehircilik ve İklim Değişikliği İl Müdürlüğü'nün talebi doğrultusunda Bergama Tapu Müdürlüğü'nce taşınmazın tapu kaydına riskli yapı şerhinin konulduğu, Bergama Tapu Müdürlüğü'nün ...tarih ve ...yevmiye numaralı yazısı ile davalı idareye, riskli yapı tespitine karşı tebliğ tarihiden itibaren 15 gün içinde bizzat yahut kanunî temsilci tarafından itiraz etme hakkının bulunduğu, itiraz edilmediği takdirde altmış (60) günden az olmamak üzere belirlenecek olan süre içinde yapının yıktırılması gerektiği hususunun bildirildiği, fakat herhangi bir itirazda bulunulmadığı, bu şekilde riskli yapı kararının kesinleştiği ve bunun üzerine de hem mâlik hem de idare olarak yıkıma yetkili olan davalı tarafından uyuşmazlık konusu ihale marifetiyle yapıların yıkımına geçildiği anlaşılmaktadır.
 
@@ -53,6 +59,8 @@ Bu itibarla dava konusu ihalenin dayanağı riskli yapı tespiti işlemi hukuken
 Bu kısım yönünden DAVANIN REDDİNE …
 
 ## Danıştay 6. D. 2021/8220 E., 2022/991 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/760891600)
 
 İdare Mahkemesince verilen …
 
@@ -66,6 +74,8 @@ TL yürütmenin durdurulması harcının talep halinde davacılara iadesine, 257
 
 ## Danıştay 6. D. 2021/11046 E., 2022/613 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/753141900)
+
 Karar veren Danıştay Altıncı Dairesince, 2577 sayılı İdari Yargılama Usulü Kanununun 17/2. maddesi uyarınca duruşma yapılmasına gerek görülmeyerek, yürütmenin durdurulması istemi hakkında karar verilmeksizin, Tetkik Hakiminin açıklamaları dinlendikten ve dosyadaki belgeler incelendikten sonra işin gereği görüşüldü:
 
 …
@@ -73,6 +83,8 @@ Karar veren Danıştay Altıncı Dairesince, 2577 sayılı İdari Yargılama Usu
 … Bölge İdare Mahkemesi … İdari Dava Dairesince verilen … tarih ve E:…, K:…, Temyiz No:… sayılı karar ve dayandığı gerekçe hukuk ve usule uygun olup bozulmasını gerektirecek bir sebep bulunmadığından, anılan kararın ONANMASINA …
 
 ## Danıştay 6. D. 2017/3629 E., 2021/6375 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/685524600)
 
 DAVALI YANINDA MÜDAHİLLERİN İDDİALARI: Nükleer Santral yapımının Türkiye ve Rusya Hükümetleri arasında yapılan uluslararası anlaşmaya dayandığı, dava konusu planın nükleer santral ile ilgili kısmında şehircilik ilkeleri ile planlama esaslarına ve kamu yararına aykırılık bulunmadığı ileri sürülerek davanın reddine karar verilmesi gerektiği savunulmuştur.
 
@@ -90,6 +102,8 @@ Diğer taraftan, ilan edilmiş turizm merkezlerinin plana işlenmesi yasal zorun
 
 ## Danıştay 6. D. 2021/231 E., 2021/5276 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/682396300)
+
 Karar veren Danıştay Altıncı Dairesince, Tetkik Hakiminin açıklamaları dinlendikten ve dosyadaki belgeler incelendikten sonra, dosya tekemmül ettiğinden yürütmenin durdurulması istemi hakkında ayrıca bir karar verilmeksizin, uyuşmazlığın 6306 sayılı Kanun ve anılan Kanunun Uygulama Yönetmeliği kapsamında yapılan arsa payı satış işleminden kaynaklandığı, davacı tarafından arsa payının düşük bedel ile satışının yapıldığı ileri sürülerek satış işleminin iptalinin istenildiği, arsa paylarının ise toplamda 3.103.750,00TL'ye satıldığı görüldüğünden 2577 sayılı İdari Yargılama Usulü Kanunu'nun 46. maddesinin 1. fıkrasının (b) bendi uyarınca, Bölge İdare Mahkemesi ... İdari Dava Dairesince işin esası yönünden verilen karara karşı temyiz yolunun açık olduğu anlaşılmakla, kararın istinaf incelemesi üzerine kesinleştiği gerekçesiyle davacıların temyiz isteminin reddi yolunda ... Bölge İdare Mahkemesi ... İdari Dava Dairesince verilen ... tarihli, E: ..., K: ..., Temyiz No: ... sayılı kararın "kesin" kısmı kaldırılarak, işin gereği görüşüldü:
 
 …
@@ -99,6 +113,8 @@ Açıklanan nedenlerle; istinaf başvurusunun reddi yolunda verilen ... Bölge �
 …
 
 ## Danıştay 6. D. 2017/5976 E., 2020/8179 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/782662900)
 
 İlk Derece Mahkemesi kararının özeti: ...
 
@@ -111,6 +127,8 @@ Pendik Belediye Başkanlığı: Riskli alan ilanını ilişkin olarak açılan d
 3\. ... Bölge İdare Mahkemesi ... İdari Dava Dairesinin ... tarih ve E:..., K:... sayılı kararının davalı İstanbul Büyükşehir Belediye Başkanlığının hasım mevkiine alınması ile aleyhine yargılama giderleri ve vekalet ücreti hükmedilmesine ilişkin kısmının 2577 sayılı Kanunun 49. maddesi uyarınca BOZULMASINA …
 
 ## Danıştay 13. D. 2018/2908 E., 2020/276 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/585881700)
 
 TMMOB Şehir Plancıları Odası (... Şubesi), TMMOB Mimarlar Odası (... Büyükkent Şubesi) ve TMMOB İnşaat Mühendisleri Odası (... Şubesi) tarafından ... Kruvaziyer Liman Alanına İlişkin Nazım İmar Planı ve Koruma Amaçlı İmar Planının onaylanmasına ilişkin ÖYK'nın 22/10/2012 tarih ve 2012/160 sayılı kararının iptali ve yürütmenin durdurulması istemiyle 01/02/2013 tarihinde Danıştay Altıncı Dairesinde açılan davada, anılan Dairenin 23/09/2013 tarih ve E:2013/821 sayılı kararıyla yürütmenin durdurulması isteminin reddine karar verilmiş, bu karara karşı davacılar tarafından itiraz edilmesi üzerine Danıştay İdari Dava Daireleri Kurulu'nun 17/04/2014 tarih ve YD İtiraz No:
 2013/894 sayılı kararıyla, "yerinde yaptırılacak keşif ve bilirkişi incelemesi sonucunda yürütmenin durdurulması istemi hakkında yeniden bir karar verilmek üzere itirazın kabulüne ve yürütmenin durdurulması isteminin reddine ilişkin kararın kaldırılmasına" karar verilmiş, bu karar ÖİB'ye 08/10/2014 tarihinde tebliğ edilmiş, bu karar sonucunda Danıştay Altıncı Dairesinin 14/10/2014 tarihli kararıyla, yerinde keşif ve bilirkişi incelemesi yaptırılıp, bilirkişi raporu alındıktan sonra konu hakkında yeniden bir karar verilinceye kadar yürütmenin durdurulması isteminin kabulüne karar verilmiş, ayrıca yine aynı tarihli ara kararı ile davacı şirketin davalı idare yanında davaya katılma istemi de kabul edilmiştir. Sözleşmenin 13. maddesinde "Türk resmi makamlarının, yükümlülüklerin yerine getirilmesini geciktiren vaya imkansız kılan kararları, eylem ve işlemleri" mücbir sebep halleri arasında sayılmış, yine aynı maddede, bir olayın mücbir sebep olarak kabulü için olayın gerçekleştiği andan itibaren 5 (beş) iş günü içerisinde TDİ'ye bildirilmiş olması gerektiği öngörülmüştür.

@@ -22,6 +22,8 @@ uyari: "Derleyenin seçtiği alıntılardır; kararın tamamı değildir. Künye
 
 ## Danıştay İDDK 2020/1952 E., 2020/2029 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/636169700)
+
 Dava dosyanın incelenmesinden; dava konusu Cumhurbaşkanı Kararının dayanağını oluşturan teknik raporun ekindeki dava konusu alanda bulunan yapıların alan bilgileri, tapu bilgileri, imar durumu, yapı ruhsatı ve yapı kullanma izin belgesi bilgilerini içeren yapı ruhsat bilgileri tablosundaki yapı sayısı ile sonuç kısmındaki yapı sayısının birbiriyle uyumlu olmadığı, listedeki yapı sayısının 393 olduğu, sonuç kısmında ise 381 olduğunun belirtildiği, yapılara ilişkin ruhsat, yapı kullanma izni vs. belgelerin dosyaya sunulmadığı, davalı idare tarafından aradaki farkın … ada, … ve … numaralı parsellerde bulunan 3 adet yapının sehven bağımsız birimler de dahil edilerek 15 yapı olarak açıklandığı, ancak dayanak bilgi ve belgelerin dosyaya sunulmadığı, tabloda anılan parseller üzerinde gösterilen 15 adet yapının farklı tarihlerde düzenlenen ayrı ruhsatlarının bulunduğu, listedeki çok sayıda parselin üzerinde birden fazla ruhsatlı yapının bulunduğu, ayrıca …
 Belediye Başkanlığının 11/01/2018 tarih ve 940 sayılı yazısının ekinde dava konusu alanda bulunan 381 adet yapıya ilişkin hazırlanan listede, davalı idarenin sunduğu yapı ruhsat bilgileri tablosundaki … ada, … ve … numaralı parsellerin yer almadığı, dava konusu işlemin dayanağını oluşturan teknik raporun ekindeki yapı değerlendirme formunda belirtilen yapılara ilişkin olarak; ada ve parsel numaraları, yapı sayıları ve ruhsat bilgilerinin birbiri ile ve dosyadaki diğer bilgi ve belgelerle uyumlu olmadığı, 6306 sayılı Kanunun Ek-1. maddesinde yer alan, üzerindeki toplam yapı sayısının en az %65’i imar mevzuatına aykırı olan veya yapı ruhsatı alınmaksızın inşa edilmiş olmakla birlikte sonradan yapı ve iskân ruhsatı alan yapılardan oluştuğu hususunun açık ve somut şekilde ortaya konulamadığının anlaşıldığı, …
 
@@ -138,6 +140,8 @@ Davanın yukarıda özetlenen gerekçeyle reddine ilişkin İdare Mahkemesi kara
 
 ## Danıştay 6. D. 2022/8585 E., 2025/5375 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1202388700)
+
 İlk Derece Mahkemesi kararının özeti: ...
 
 …
@@ -151,6 +155,8 @@ Planlı Alanlar İmar Yönetmeliği'nin "Tanımlar" başlıklı 4. maddesinin 1.
 Temyize konu kararın ... ada, ... parsel sayılı taşınmaza getirilen ''ticaret alanı'' kullanımına ilişkin kısmı yönünden de onanmasına karar verilmesi gerektiği oyu ile Dairemiz kararının bozmaya ilişkin kısmına katılmıyoruz.
 
 ## Danıştay 6. D. 2023/8822 E., 2025/5354 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1202467600)
 
 İlk Derece Mahkemesi kararının özeti: ...
 

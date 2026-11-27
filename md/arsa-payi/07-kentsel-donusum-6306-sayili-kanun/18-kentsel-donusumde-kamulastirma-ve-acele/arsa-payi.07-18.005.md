@@ -21,6 +21,8 @@ uyari: "Derleyenin seçtiği alıntılardır; kararın tamamı değildir. Künye
 
 ## Danıştay 6. D. 2019/16858 E., 2021/12684 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/725313200)
+
 Davacı tarafından; 6306 sayılı Kanun'un 1. maddesinin, 2. maddesinin (d) bendinin, 3. maddesinin 1, 4 ve 5. fıkrasının, 4. maddesinin 3. fıkrasının, 5. maddesinin 1, 3 ve 4. fıkrasının, 6. maddesinin 1. ve 2. fıkrasının Anayasaya aykırı olduğu ileri sürülmüş ise de; Anayasaya aykırılık iddialarına itibar edilmemiştir.
 
 …
@@ -38,6 +40,8 @@ Açıklanan nedenlerle, yukarıda belirtilen riskli yapıların bulunduğu parse
 
 ## Danıştay 6. D. 2019/15508 E., 2021/10122 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/704494200)
+
 6306 sayılı Afet Riski Altındaki Alanların Dönüştürülmesi Hakkında Kanunun 6. maddesinin 5. fıkrasında, "riskli yapılara, rezerv yapı alanlarına ve riskli yapıların bulunduğu taşınmazlara ilişkin her tür harita, plan, proje, arazi ve arsa düzenleme işlemleri ile toplulaştırma yapmaya, bu alanlarda bulunan taşınmazları satın almaya, ön alım hakkını kullanmaya, bağımsız bölümler de dâhil olmak üzere taşınmazları trampaya, taşınmaz mülkiyetini veya imar haklarını başka bir alana aktarmaya Çevre ve Şehircilik Bakanlığının yetkili olduğu" belirtilmiş, bu Kanunun 11. maddesinde ise "Altyapı ve Kentsel Dönüşüm Hizmetleri Genel Müdürlüğünün görevleri başlığı altında, "Dönüşüm, yenileme ve transfer alanlarının belirlenmesi, dönüşüm alanı ilan edilen alanlardaki yapıların tespiti ile arsa ve arazi düzenleme ve değerleme iş ve işlemlerinin yapılmasını sağlamak; dönüşüm uygulamalarında hak sahipliği, uzlaşma, gerektiğinde acele kamulaştırma, paylı mülkiyete ayırma, birleştirme, finansman düzenlemelerinde bulunma, dönüşüm alanları içindeki gayrimenkullerin değer tespitlerini yapma ve Bakanlıkça belirlenen esaslar ve proje çerçevesinde hak sahipleri ile anlaşmalar sağlama, gerektiğinde yapı
 ruhsatı ve yapı kullanma izni verme, kat mülkiyeti tesisi, tescili ve imar hakkı transferi ile ilgili iş ve işlemleri yürütmek." hükmü getirilmiş olup; 648 sayılı Çevre ve Şehircilik Bakanlığının Teşkilat ve Görevleri Hakkında Kanun Hükmünde Kararname ile Bazı Kanun ve Kanun Hükmünde Kararnamelerde Değişiklik Yapılmasına Dair Kanun Hükmünde Kararnamenin 4. maddesi ile "e) 2. maddenin birinci fıkrasının (h) bendinde belirtilen konularla ilgili olarak 285 sayılı Toplu Konut Kanununun ek 7. maddesi çerçevesinde uygulama yapmak veya yaptırmak, bu uygulamalara yönelik olarak kentsel dönüşüm, yenileme ve transfer alanları geliştirmek, bu alanların her ölçekteki imar planı ve imar uygulamalarını, kentsel tasarım projelerini yapmak, yaptırmak ve onaylamak, bu çerçevede paylı mülkiyetleri ayırmak, birleştirmek, arsa ve arazi düzenlemeleri yapmak, imar hakkı transfer etmek kamulaştırma ve gerektiğinde usulüne uygun olarak acele kamulaştırma yoluna gitmek, yapı ruhsatı ve yapı kullanma izinlerini vermek ve kat mülkiyeti tesis ve tescilini sağlamak." hükmü yer almaktadır.
 
@@ -49,11 +53,15 @@ Açıklanan nedenlerle, ... İdare Mahkemesinin ... tarih ve E: ..., K: ... say�
 
 ## Danıştay 6. D. 2021/4557 E., 2021/7279 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/678257800)
+
 Dosyanın incelenmesinden, Rami Kışlasının (İstanbul) bölgede yürütülen kentsel dönüşüm çalışmaları kapsamında müze olarak düzenlenecek olması nedeniyle, Rami esnafı için Toplu Konut İdaresi Başkanlığının (TOKİ) iştirakiyle İstanbul İli, Başakşehir İlçesi, …
 
 Mahallesinde inşa edilmekte olan çarşının ulaşım sistemine bağlanarak çevresiyle bütünlük arz edecek şekilde tamamlanması amacıyla ihtiyaç duyulan ve ekli harita ile listede sınır ve koordinatları gösterilen sahada yer alan özel mülkiyete konu taşınmazların, 2942 sayılı Kamulaştırma Kanunu'nun 27. maddesi uyarınca TOKİ tarafından acele kamulaştırılmasına ilişkin 06/02/2021 tarih ve 31387 sayılı Resmi Gazete'de yayınlanan 05/02/2021 tarih ve 3509 sayılı Cumhurbaşkanı Kararının ve bu karar dayanak alınarak yapılan tüm işlemlerin davacıların maliki olduğu taşınmaza ilişkin kısmının iptal edilmesinin talep edildiği; buna karşın dava konusu acele kamulaştırma kararı dayanak alınarak yapılan ve iptali talep edilen diğer işlemlerin dava dilekçesinde açıkça belirtilmediği görüldüğünden; dava dilekçesi bu haliyle 2577 sayılı Kanun'un 3. maddesine uygun bulunmamıştır.
 
 ## Danıştay 13. D. 2021/4946 E., 2021/4479 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/881144200)
 
 Bu itibarla, uyuşmazlığın, 2577 sayılı Kanun'un 34. maddesinin birinci fıkrası kapsamında imar, kamulaştırma, yıkım, işgal, tahsis, ruhsat ve iskân gibi taşınmaz mallarla ilgili mevzuatın uygulanmasına veya taşınmaza bağlı hak kapsamında bulunan bir işleme yönelik olmadığı; taşınmaz hukukuna ilişkin herhangi bir kuralla ilgili olmaksızın, davalı idarece Aydın ili, Didim ilçesi, …
 
@@ -62,6 +70,8 @@ Bu itibarla, uyuşmazlığın, 2577 sayılı Kanun'un 34. maddesinin birinci fı
 parselde bulunan taşınmazın 16/09/2021 tarihinde yapılan müzayede kapsamında gerçekleştirilen ihalesinin iptali, yatırmış olduğu 600.000-TL geçici teminatın yasal faiziyle birlikte iadesi, bu talep kabul edilmediği takdirde geçici teminatın %3'ün üzerinde kalan kısmının yasal faiziyle birlikte iadesi istemine yönelik olduğu anlaşıldığından, uyuşmazlığın çözümünde 2577 sayılı Kanun'un 32. maddesinin birinci fıkrası kapsamındaki genel yetki kuralı uyarınca, dava konusu işlemi tesis eden idarî merci olan Çevre ve Şehircilik Bakanlığı'nın bulunduğu yerdeki Ankara İdare Mahkemesi'nin yetkili olduğu sonucuna varılmıştır.
 
 ## Danıştay 6. D. 2021/2475 E., 2021/4457 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/678126900)
 
 Öte yandan, 05/02/2021 tarih ve 3509 sayılı Cumhurbaşkanı Kararının davacının maliki olduğu İstanbul İli, Başakşehir İlçesi, …
 
@@ -79,6 +89,8 @@ parsel sayılı taşınmazın anılan kamulaştırma haritasında yer almadığ�
 
 ## Danıştay 6. D. 2019/1770 E., 2021/3089 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/670088500)
+
 İSTEMİN ÖZETİ : İstanbul İli, Kadıköy İlçesi, ... Mahallesi, ... pafta, ... ada, ... parsel sayılı taşınmaz üzerinde yer alan yapının A blok 2. Kat 6 no'lu, B blok zemin kat 1 no'lu, B blok 1.
 Kat 3 no'lu bağımsız bölümlerinin, 2013/4749 sayılı Bakanlar Kurulu Kararı ile "Riskli Alan" olarak ilan edilen alandaki anlaşma sağlanamayan taşınmazların, projenin yürütülmesi amacıyla üzerindeki yapılarla beraber Hazine adına kamulaştırılmasında kamu yararı olduğu ve bu taşınmazların 6306 sayılı Kanunun 6. maddesinin 2. fıkrası uyarınca, 2942 sayılı Kamulaştırma Kanununa göre kamulaştırılması veya gerek görülmesi halinde anılan Kanunun 27. maddesine istinaden acele kamulaştırılmasına ilişkin ... tarih ve ... sayılı Çevre ve Şehircilik Bakanlığı işleminin ve anlaşma sağlanamadığı takdirde anılan taşınmazların acele kamulaştırma işlemlerine başlanılacağının bildirilmesine ilişkin ... tarih ve ... sayılı İstanbul Valiliği Çevre ve Şehircilik İl Müdürlüğü işleminin iptali istemiyle açılan davada; davanın incelenmeksizin reddi yolundaki İdare Mahkemesi kararının Danıştay Altıncı Dairesinin 16/12/2016 tarih ve E:2016/6511, K:2016/8918 sayılı kararıyla bozulması üzerine, bozma kararına uyularak, dava konusu ... tarih ve ... sayılı işlemin iptali, dava konusu ... tarih ve ... sayılı işlem yönünden konusu kalmayan dava hakkında karar verilmesine yer olmadığı yolunda ...
 İdare Mahkemesince verilen ... tarih ve E: ..., K: ... sayılı kararın usul ve hukuka aykırı olduğu ileri sürülerek bozulması istenilmektedir.
@@ -88,6 +100,8 @@ Kat 3 no'lu bağımsız bölümlerinin, 2013/4749 sayılı Bakanlar Kurulu Karar
 ... İdare Mahkemesince verilen ... tarih ve E: ..., K: ... sayılı karar ve dayandığı gerekçe hukuk ve usule uygun olup, bozulmasını gerektirecek bir sebep bulunmadığından, temyiz isteminin reddi ile anılan kararın ONANMASINA …
 
 ## Danıştay 6. D. 2017/4840 E., 2021/1114 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/673466900)
 
 2942 sayılı Kamulaştırma Kanununun 3.maddesinin verdiği yetkiye istinaden, idarelerin, kanunlarla yapmak yükümlülüğünde bulundukları kamu hizmetlerinin veya teşebbüslerinin yürütülmesi için gerekli olan taşınmaz malları kural olarak bedelini nakden ve peşin ödemek suretiyle kamulaştırmaları mümkündür. Arsa ve arazi mülkiyeti kamulaştırmalarında, arza bağlı olan yapı ve diğer muhdesatın da doğal olarak kamulaştırılması söz konusu olduğundan, idareler yönünden çoğu zaman kamusal kullanıma özgülenemeyecek muhdesat için gereksiz kamulaştırma maliyeti doğmaktadır. Bu nedenle, plan değişikliği suretiyle kamusal alan kullanımı getirilen ve kamulaştırma kararı alınan mekansal alanlarda, yapılaşması tamamlanmayan, inşa faaliyetleri henüz devam eden yapılar için öncelikle seviye tespitinin yapılarak, inşaatın durdurulması kamusal maliyetin yersiz olarak artışının ve kaynak israfının önlenmesi açısından olumludur.
 
@@ -99,11 +113,15 @@ Kat 3 no'lu bağımsız bölümlerinin, 2013/4749 sayılı Bakanlar Kurulu Karar
 
 ## Danıştay 6. D. 2020/4759 E., 2020/11046 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/633564000)
+
 DAVANIN KONUSU : Ankara İli, … İlçesi, … Mahallesi sınırları içinde kroki ile listede gösterilen taşınmazların, bölgedeki sağlıksız yapılaşmanın çözümüne yönelik projenin ivedilikle hayata geçirilmesi amacıyla 2942 sayılı Kamulaştırma Kanununun 27.maddesi uyarınca Toplu Konut İdaresi Başkanlığı tarafından acele kamulaştırılmasına ilişkin 21.04.2020 tarih ve 31106 sayılı Resmi Gazete'de yayımlanan … tarih ve … sayılı Cumhurbaşkanı Kararının iptali istenilmektedir.
 
 DAVACININ İDDİALARI : Acele kamulaştırma kararının alınabilmesi için gerekli olan acelelik halinin ve olağanüstü koşulların somut olayda gerçekleşmediği, söz konusu bölgenin yenileme alanı sınırları içerisinde kaldığı ve 5366 sayılı Kanun uyarınca zorunlu olduğu halde bölgedeki taşınmaz malikleri ile anlaşma usulünün denenmediği, anılan yerde yürürlüğe giren koruma amaçlı imar planlarına karşı açılan davalarda iptal kararı verildiği, bölgede yürürlükte bir imar planı olmadığı dolayısıyla acele kamulaştırma için gerekli yasal şartların oluşmadığı ileri sürülmüştür.
 
 ## Danıştay 14. D. 2015/8136 E., 2017/3582 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/348125500)
 
 4721 sayılı Türk Medeni Kanununun 705.maddesinde; taşınmaz mülkiyetinin tescille kazanılacağı, ancak miras, mahkeme kararı, cebri icra, işgal, kamulaştırma halleri ile kanunda öngörülen diğer hallerde mülkiyetin tescilden önce kazanılacağı hükme bağlanmıştır.
 
@@ -113,9 +131,13 @@ Açıklanan nedenlerle; ...... İdare Mahkemesinin ... günlü, E:..., K:... say
 
 ## Danıştay 14. D. 2016/11479 E., 2017/2029 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/354598600)
+
 Davanın Özeti : İli, ilçesinde ilan edilen riskli alan sınırları içerisinde bulunan taşınmazların 2942 sayılı Kamulaştırma Kanununun 27. maddesine göre acele kamulaştırılmasına ilişkin 21/03/2016 günlü, 2016/8659 sayılı Bakanlar Kurulu kararının dayanağı olan İli, İlçesinde bulunan ve ekli kroki ile listede sınır ve koordinatları gösterilen alanın 6306 sayılı Afet Riski Altındaki Alanların Dönüştürülmesi Hakkında Kanunun 2. maddesine göre riskli alan ilan edilmesine ilişkin 04/11/2012 günlü, 2012/28457 sayılı Resmi Gazetede yayımlanan 22/10/2012 günlü, 2012/3900 sayılı Bakanlar Kurulu kararının; 6306 sayılı Kanun ve uygulama yönetmeliği uyarınca bir bölgenin riskli alan ilan edilebilmesi için bu durumun açık ve somut şekilde ortaya konulması gerektiği, korunması gereken bir alan olduğundan riskli alan uygulamasına konu edilemeyeceği, Anayasada güvence altına alınan konut hakkı ve yerinden yönetim ilkelerine ve hukuka aykırı olduğu ileri sürülerek iptali istenilmektedir.
 
 ## Danıştay 6. D. 2008/353 E., 2008/2371 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/18322700)
 
 2942 sayılı Kamulaştırma Kanunu'nun 7. maddesinde, "Kamulaştırmayı yapacak idare, kamulaştırma veya kamulaştırma yolu ile üzerinde irtifak hakkı kurulacak taşınmaz malların veya kaynakların sınırını, yüzölçümünü ve cinsini gösterir ölçekli planını yapar veya yaptırır, kamulaştırılan taşınmaz malın sahiplerini, tapu kaydı yoksa zilyetlerini ve bunların adreslerini, tapu, vergi ve nüfus kayıtları üzerinden veya ayrıca haricen yaptıracağı araştırma ile belgelere bağlamak suretiyle tespit ettirir. " hükmü yer almış, aynı Kanunun 8.maddesinde ise, idarelerin bu Kanuna göre tapuda kayıtlı olan taşınmaz mallar hakkında yapacağı kamulaştırmalarda satın alma usulünü öncelikle uygulamalarının esas olduğu, hükme bağlanmıştır.
 
@@ -124,6 +146,8 @@ Davanın Özeti : İli, ilçesinde ilan edilen riskli alan sınırları içerisi
 Açıklanan nedenlerle ... İdare Mahkemesinin ... günlü, E:..., K:... sayılı kararının BOZULMASINA …
 
 ## Yargıtay HGK 2025/726 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1206075100)
 
 Davacı idare vekili dava dilekçesinde; davalı adına kayıtlı Balıkesir ili, Bandırma ilçesi, ... Mahallesi 136 parsel sayılı taşınmazın 3951, 70... ’lik bölümü ve 137 parsel sayılı taşınmazın 3955, 59... ’lik bölümü hakkında Enerji Piyasası Denetleme Kurulunca 29.01.2015 tarihinde kamu yararı kararı alındığını, Bakanlar Kurulunun 04.05.2015 tarihli ve 2015/7790 Karar sayılı kararı ile de acele kamulaştırma kararı verildiğini, Bandırma 1. Asliye Hukuk Mahkemesinin 04.11.2015 tarihli kararı ile taşınmazlara Hazine adına acele el konulmasına karar verildiğini ileri sürerek kamulaştırma bedelinin tespiti ile dava konusu taşınmazların Hazine adına tescilini talep etmiştir.
 
@@ -145,6 +169,8 @@ kamulaştırmanın iptali davalarında verilen kararların dava açmayan hisseda
 
 ## Yargıtay HGK 2021/1391 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/724673200)
+
 4\.
 
 …
@@ -165,6 +191,8 @@ Kamulaştırma işlemlerinin yürütülmesinde il özel idareleri ve belediyeler
 Davalı ... vekilinin temyiz itirazlarının kabulü ile direnme kararının Özel Daire bozma kararında gösterilen nedenlerden dolayı 6217 sayılı Kanun’un 30. maddesi ile 6100 sayılı Hukuk Muhakemeleri Kanunu’na eklenen “Geçici Madde 3” atfıyla uygulanmakta olan 1086 sayılı Hukuk Usulü Muhakemeleri Kanunu’nun 429. maddesi gereğince BOZULMASINA …
 
 ## Yargıtay HGK 2019/304 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/510724600)
 
 Davalı, davanın reddini dilemiştir.
 
@@ -192,6 +220,8 @@ SONUÇ: Yukarıda açıklanan nedenlerle davacı vekilinin temyiz itirazlarını
 
 ## Yargıtay HGK 2007/951 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/76869200)
+
 Mahkemece davanın kısmen karar verilmiş, hüküm davalı idare vekilince temyiz edilmiştir.
 
 …
@@ -203,6 +233,8 @@ Kamulaştırmasız el atma nedenine dayalı tazminat davalarında bedele hükmol
 Tüm bu somut ve hukuki olgular karşısında idarenin davranışının fiili (eylemli) ve hukuki bir kamulaştırma niteliğinde bulunduğu görüşünde olduğumdan, direnme kararının ONANMASINA karar verilmesi gerekirken …
 
 ## Yargıtay HGK 2006/774 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/77157900)
 
 Davacı vekili;müvekkili idare tarafından inşa ve yapım ihalesi gerçekleştirilen “Gebze-Haydarpaşa, Sirkeci-Halkalı Banliyö Hattının İyileştirilmesi ve Demiryolu Boğaz Tüp Geçiş İnşaatı (Marmaray) Projesi” nedeniyle, davalıya ait .. ilçesi ...mahallesi, ... ada .. parsel sayılı 484 m2 yüzölçümündeki taşınmazın 126.73 m2 lik bölümünün kamulaştırılması nedeniyle, davalı taşınmaz malikine önerilen kamulaştırma bedelinde uzlaşmaya varılamadığını ileri sürerek, taşınmazın kamulaştırılan 126.73 m2 lik bölümü ile üzerinde bulunan muhtesatın kamulaştırma bedelinin tespitine ve mülkiyetinin Hazine adına tesciline karar verilmesini talep ve dava etmiştir.
 

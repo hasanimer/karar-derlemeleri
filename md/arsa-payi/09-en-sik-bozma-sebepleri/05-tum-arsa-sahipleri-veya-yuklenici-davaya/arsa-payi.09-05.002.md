@@ -22,6 +22,8 @@ uyari: "Derleyenin seçtiği alıntılardır; kararın tamamı değildir. Künye
 
 ## Yargıtay 6. HD 2024/501 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1006404300)
+
 Davacı vekili dava dilekçesinde; davalılar arasında 04.01.2006 ve 30.03.2006 tarihlerinde imzalanan arsa payı karşılığı inşaat sözleşmesine istinaden müvekkilinin davalı yükleniciden 15.12.2007 tarihli dava konusu bağımsız bölümü satın aldığını, sözleşmeye göre 30.11.2008 tarihinde teslimi kararlaştırılan taşınmazın halen tapudan devrinin yapılmadığını, diğer tüm bağımsız bölümlerin şahsi hakka istinaden müvekkili ile aynı durumda olan 3. kişilere devredildiğini, arsa malikinin müvekkiline verilecek taşınmazı kiraya verdiğini, inşaatın tamamlanma oranının %99 olduğunu, davalı arsa sahibin ödediği tutar olsa bile taşınmazın kiraya verilmesi nedeniyle elde ettiği kiradan bu tutarı fazlasıyla elde ettiğini, eksik ... bedeli varsa müvekkilinin arsa payı oranınca depo edileceğini ileri sürerek, B blok 6. kat 14 no.lu bağımsız bölümün müvekkili adına tescilini, eksik ... bedeli varsa tespiti ile kira bedelinden mahsubunu, eksik ... bedeli depo ettirilirse davalı yükleniciden tahsilini talep etmiştir.
 
 …
@@ -42,6 +44,8 @@ Bu durumda mahkemece, taraf teşkili sağlanıp, öncelikle ilgili Belediye Baş
 
 ## Yargıtay 6. HD 2023/3551 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/985111000)
+
 Davacı vekili dava dilekçesinde; müvekkilinin Adana İli, Yüreğir İlçesi, Cumhuriyet Mahallesi 11386 ada 18 parselin hissedarı ve üzerindeki iki yapının maliki olduğunu, davalı yüklenici ...Gayrimenkul Ltd. Şti. ile Adana 11. Noterliği’nin 10/09/2014 tarih ve 26961 yevmiye numaralı kat karşılığı sözleşmesi imzaladığını, inşaatın bitim süresinin ruhsat tarihinden itibaren 24 ay olarak kararlaştırıldığını, ancak inşaata başlanması için ruhsat başvurusunun dahi yapılmadığını, müvekkilince keşide edilen ihtarnamenin adresin terk edilmiş olması nedeni ile tebliğ edilemediğini, taraflar arasındaki kat karşılığı inşaat sözleşmesinin feshine karar verilmesini talep etmiştir.
 
 …
@@ -60,6 +64,8 @@ Temyiz olunan Bölge Adliye Mahkemesi kararının 6100 sayılı Kanunun 370 nci 
 
 ## Yargıtay 6. HD 2023/1146 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/891119600)
+
 Davacı vekili dava dilekçesinde özetle; Ankara ili, Yenimahalle ilçesi, Kayalar Mahallesi, 61264 ada, 4 parsel sayılı taşınmaza inşa edilecek bina için davalı ile Ankara 63.Noterliğinin 14/06/2012 tarih ve 15586 yevmiye numaralı düzenleme şeklinde gayrimenkul satış vaadi ve kat karşılığı inşaat sözleşmesi yapıldığını, davalı tarafın belirlenen süre içerisinde inşaat ruhsatını alamadığını, davalıya ihtarname çekilerek süre verildiğini, davalının temerrüdü nedeniyle taraflar arasındaki sözleşmenin geriye etkili olarak feshine karar verilmesini talep etmiştir.
 
 …
@@ -75,6 +81,8 @@ Bölge Adliye Mahkemesinin yukarıda tarih ve sayısı belirtilen kararında, da
 Davacılar vekilinin Bölge Adliye Mahkemesi kararına yönelik temyiz itirazının kabulü ile Bölge Adliye Mahkemesi kararının hüküm fıkrasının 5 numaralı bendinde yer alan “Taraflar lehine vekalet ücreti takdirine yer olmadığına,” ibaresinin çıkartılarak yerine “Davacılar kendilerini vekil ile temsil ettirdiğinden AAÜT gereğince hesaplanan 7.817,5 TL vekalet ücretinin davalıdan alınarak davacılara verilmesine,” ibaresinin yazılması suretiyle DÜZELTİLEREK ONANMASINA …
 
 ## Yargıtay 6. HD 2023/1105 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/886948300)
 
 Davalı kayyım vekili cevap dilekçesinde; ... İnş.
 
@@ -95,6 +103,8 @@ Temyiz olunan Bölge Adliye Mahkemesi kararının 6100 sayılı Kanunun 370 nci 
 
 ## Yargıtay 6. HD 2023/258 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/866462600)
+
 Davacı vekili dava dilekçesinde özetle; davalı arsa sahibi ile ... ili, ... ilçesi, ... Mahallesi, ... mevkii 325 ada 58 parselde inşaat yapmak üzere arsa payı karşılığı inşaat yapım sözleşmesi imzaladıklarını, ancak bu taşınmazın üzerinde arsa sahiplerinden davalı ...-... Grup İnşaat lehine kat karşılığı inşaat şerhi bulunduğunu, bu şerhten dolayı taşınmazda işlem yapamadığını, inşaatı da kendisinin tamamladığını belirterek tapu, kaydında bulunan şerhin terkinini ve kendisi ile yapılan arsa payı karşılığı sözleşmenin tesciline karar verilmesini talep etmiştir.
 
 …
@@ -107,6 +117,8 @@ Davacının talebi, davalı arsa sahibi, aynı zamanda bir önceki yüklenici ol
 İlk Derece Mahkemesi 2021/49 E., 2021/468 karar sayılı kararının BOZULMASINA …
 
 ## Yargıtay 6. HD 2022/5749 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/859570800)
 
 Mahkemece bozma ilamlarına uyarak yapılan yargılama sonucunda; asıl davanın kısmen kabulü ile 1998 ve 2004 tarihli arsa payı karşılığı inşaat sözleşmelerin feshine, tazminat talebinin reddine, birleşen 2008/213 Esas sayılı davada; 10.000,00 TL imalat bedelinin tahsiline, birleşen 2019/354 Esas sayılı davada eser sözleşmesinden kaynaklanan bakiye iş bedeli 61.801,01 TL’nin tahsiline, birleşen 2019/336 Eas sayılı davada; tapu iptal tescil talebinin reddine, 90.000,00 TL rayiç bedelinin tahsiline, birleşen 2011/361 Esas sayılı davada; 1998 ve 2004 tarihli arsa payı karşılığı inşaat sözleşmelere yönelik taleplerin derdestlik nedeni ile reddine, 2008 tarihli arsa payı karşılığı inşaat sözleşmesine yönelik talebin esastan reddine, birleşen 2016/433 Esas sayılı davada 67.500,00 TL’nin tahsiline karar verilmiştir.
 
@@ -123,6 +135,8 @@ SONUÇ: Yukarıda açıklanan nedenlerle temyiz itirazlarının kabulü ile hük
 
 ## Yargıtay 6. HD 2022/5086 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/840605900)
+
 Somut olayda, yüklenici ile kat maliki hissedarlar arasında Kadıköy 4. Noterliğinin 18/08/2011 ve 11/10/2011 tarihli ve Ankara 17. Noterliği 31/10/2011 tarihli kat karşılığı inşaat sözleşmeleri imzalandığı, sözleşme tarihlerinde 13 kat maliki hissedardan, toplamda 11 kat maliki hissedar ile sözleşme imzalandığı anlaşılmıştır. Paylı mülkiyete tabi taşınmazlarda kat karşılığı inşaat sözleşmesinin geçerli olabilmesi için tüm paydaşlarla yüklenicinin sözleşme yapmış olması gerekmekte olup, sözleşme tarihinde tüm paydaşlarla sözleşme imzalanmadığı görüldüğünden imzalanan kat karşılığı inşaat sözleşmelerinin geçersiz olduğu anlaşılmıştır. Geçersiz sözleşmelerin feshi istenemez ise de, çoğun içinde azın da bulunduğu ilkesinden hareket edilerek fesih talebinin geçersizliğinin tespiti olarak kabulü mümkündür.
 
 İmza tarihlerinde geçersiz olduğu anlaşılan kat karşılığı inşaat sözleşmelerinin, sözleşme tarihlerinden sonra 16/05/2012 tarihinde yürürlüğe giren 6306 sayılı Afet Riski Altındaki Alanların Dönüştürülmesi Hakkındaki Kanun ile getirilen düzenlemeler ile geçerli hale gelmesi mümkün değildir. Sözleşmelerin imza tarihinde yapının riskli yapı olduğuna ilişkin bir tespitin bulunmadığı, İstanbul Teknik Üniversitesinden kat maliki hissedarların başvurusu ile alınan 12/12/2011 tarihli raporun ise, dosya kapsamındaki Çevre Şehircilik İl Müdürlüğünün 16/08/2012 tarihli yazısı ile ilgili yönetmelik uyarınca deprem performans analizine uygun olmadığı, yapının riskli olduğuna dair şerhin tapuya 14/11/2012 tarihinde tescil edildiği, kaldı ki, 6306 sayılı Kanun ile riskli yapıların dönüştürülmesi için gerekli görülen 2/3 çoğunluk bakımından ise kanunun yürürlük tarihinden sonra 2/3 oranında paydaşın bir araya gelerek 6306 sayılı Kanuna uygun ortak bir karar almadığı anlaşılmıştır.
@@ -133,6 +147,8 @@ Bu hali ile 6306 sayılı Kanunun yürürlük tarihinden önce sözleşmeyi tüm
 SONUÇ: Yukarıda açıklanan nedenlerle, asıl dava davacıları birleşen dava davalıları ..., ..., ..., ..., ..., ..., ... vekilinin temyiz itirazlarının kabulü ile hükmün temyiz edenler yararına BOZULMASINA …
 
 ## Yargıtay 6. HD 2022/3957 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/819229800)
 
 Davacılar vekili dava dilekçesinde özetle; müvekkilleri ile davalılar ... ve ...’un da aralarında olduğu arsa sahipleri ile davalı ... Ltd. Şti. arasında 09.08.1995 tarihli arsa payı karşılığı inşaat sözleşmesi imzalandığını, arsa sahiplerinin farklı parsellerdeki taşınmazlarının birleştirilerek tek parsel oluşturulduğunu, sözleşme gereğince inşaat ruhsatının alınmasından itibaren 30 ay içerisine tamamlanması gereken inşaatın tamamlanmadığını, bir kısım davalıların arsa sahiplerinden pay satın aldıklarını, taşınmaz üzerinde kat irtifakı tesis edildiğinden ortaklığın giderilmesini isteyemediklerini, sözleşmede arsa sahibi olan .....,....,....,...., ve...’nın kat irtifakı maliki olmadıklarını ileri sürerek anılan sözleşmenin feshine ve kat irtifakının sona ermesine karar verilmesini talep ve dava etmiştir.
 
@@ -148,6 +164,8 @@ farklı olan geriye ya da ileriye etkili olup olmadığı hususunda bir karar ve
 SONUÇ: Yukarıda açıklanan nedenle davacılar vekili ile dahili davalı TMSF vekilinin temyiz itirazının kabulü ile hükmün davacılar ile dahili davalı TMSF yararına BOZULMASINA …
 
 ## Yargıtay 6. HD 2022/3722 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/790924500)
 
 Dava, yükleniciden temlik alınan kişisel hakka dayalı tapu iptali ve tescil istemine ilişkindir.
 
@@ -167,6 +185,8 @@ SONUÇ: Yukarıda açıklanan nedenlerle davacı vekilinin temyiz itirazlarını
 
 ## Yargıtay 6. HD 2022/1588 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/759098400)
+
 Davacı vekili, müvekkili ile davalı şirket arasında 10.11.1997 tarihli arsa payı karşılığı inşaat sözleşmesi imzalandığını bu sözleşmenin 02.06.2005 tarihli ek sözleşme ile tadil edildiğini ve sözleşmeye konu taşınmazda (B) blok, 3 kat 11 no.lu bağımsız bölümün müvekkiline ait olacağı konusunda anlaştıklarını ve davalı şirketin sözleşmeleri davalı kooperatife devrettiğini dava konusu taşınmaz için açılan ortaklığın giderilmesi davasında davalıların gerekli dikkat ve özeni göstermediğini bu süreç içerisinde inşaatla ilgili faaliyet olmadığını ifa imkansızlığının olduğunu ileri sürerek 02.06.2005 tarihli ek sözleşmenin feshini talep ve dava etmiştir. Davacı vekili 04.02.2013 tarihli ıslah dilekçesi ile 10.11.1997 tarihli arsa payı karşılığı inşaat sözleşmesinin feshini de dava ve talep etmiştir.
 
 Davalı ... İnşaat Ltd.
@@ -184,6 +204,8 @@ Bu durumda mahkemece, davacı taraftan diğer arsa maliklerinin imzaladığı ar
 SONUÇ: Yukarıda açıklanan nedenlerle davacı vekilinin temyiz itirazlarının kabulü ile hükmün davacı yararına BOZULMASINA …
 
 ## Yargıtay 7. HD 2022/1008 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/737759100)
 
 Davacı vekili, ...,... 8 ada, 1 parselde kayıtlı belediye adına tescilli taşınmazın 2886 sayılı Yasa gereği yapılan ihale ile ... A.Ş.'ye kat karşılığı inşaat yapılmak üzere ihale edildiğini, müvekkilinin dava dışı ...
 
@@ -207,6 +229,8 @@ SONUÇ: Yukarıda açıklanan nedenlerle davacı vekilinin temyiz itirazlarını
 
 ## Yargıtay 6. HD 2022/504 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/736951500)
+
 Dava, eser sözleşmesinin bir türü olan arsa payı karşılığı inşaat sözleşmesine ve hileye dayalı tapu iptal tescil davasıdır.
 
 Davacı davasında, davacı ile dava dışı ... Ltd. Şti. arasında 2013 yılında davacıya ait 7794 parsel sayılı taşınmazda inşaat yapılması konusunda kat karşılığı inşaat sözleşmesi yapıldığını, sözleşme gereği 2. kat tamamlanınca davacı şirket temsilcisinin isteği doğrultusunda dava konusu 1 ve 3 numaralı bağımsız bölümlerin davalı ...'e devredildiğini, daha sonradan şirketin inşaatı yarım bıraktığını ileri sürerek dava konusu bağımsız bölümlerin tapu kayıtlarının iptaline yönelik karar verilmesini talep ve dava etmiştir.
@@ -223,6 +247,8 @@ Bu durumda mahkemece davacı tarafa yüklenici hakkında dava açtırılıp, aç
 SONUÇ: Yukarıda (1) numaralı bentte açıklanan nedenlerle Adana Bölge Adliye Mahkemesi 1. Hukuk Dairesinin 15.06.2020 T. ve 2020/82 E., 2020/643 Karar sayılı kararının resen BOZULMASINA …
 
 ## Yargıtay 6. HD 2021/2436 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/721433700)
 
 Davacı vekili, davalı yüklenici ... ile diğer davalı arsa sahipleri arasında 05.03.1996 tarihli kat karşılığı inşaat sözleşmesi düzenlendiğini, sözleşme uyarınca inşaatın tamamlandığını, davalı yükleniciye verilmesi kararlaştırılan zemin katta bulunan 15 no’lu dükkanı 28.07.2000 tarihli satış vaadi sözleşmesiyle davalı yükleniciden satın aldığını, ancak davalı arsa sahiplerinin kasıtlı olarak bağımsız bölümün tapusunu müvekkiline devretmediklerini ileri sürerek, davalı arsa sahipleri adına olan tapu kaydının iptali ile müvekkili adına tesciline karar verilmesini talep ve dava etmiştir.
 

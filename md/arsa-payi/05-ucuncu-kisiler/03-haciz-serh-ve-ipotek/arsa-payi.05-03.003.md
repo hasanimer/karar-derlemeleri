@@ -21,6 +21,8 @@ uyari: "Derleyenin seçtiği alıntılardır; kararın tamamı değildir. Künye
 
 ## Yargıtay 23. HD 2012/4521 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/540141800)
+
 Davacı vekili, müvekkili ile davalı yüklenici arasında ... 4. Noterliği'nde düzenleme şeklinde kat karşılığı inşaat sözleşmesi imzalandığını, sözleşmedeki özel koşul nedeniyle yüklenicinin sözleşmeyi tapu siciline şerh verdiğini, esasen yüklenicinin kendisine ait olacak bağımsız bölümler üzerine koydurması gereken bu şerhin müvekkiline ait olacak bağımsız bölümler üzerine de konulmuş olmasının sözleşmeye ve şerhin amacına aykırı olduğunu, noterden ihtarname göndererek davalıdan şerhin kaldırılmasını istediğini ancak sonuç alamadığını ileri sürerek, ..., ... ilçesi ...
 
 …
@@ -39,11 +41,15 @@ SONUÇ: Yukarıda açıklanan nedenlerle, davalı vekilinin temyiz itirazların�
 
 ## Yargıtay 15. HD 2012/4294 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/765715000)
+
 Arsa payı karşılığı inşaat sözleşmesi uyarınca yükleniciye devri yapılan 30/393 payın üzerine davalı ...'nin Şişli 6. İcra Müdürlüğü'nün 1999/7437 sayılı dosyasında yaptığı takip sonucu haciz şerhi konulmuş, eldeki davada sözleşmenin feshi istemiyle birlikte yükleniciye devredilen bu miktar payın iptâline karar verilmesi istenmiş, mahkemece de fesih ile tapu iptâli isteminin kabulüne karar verilmiştir. O halde yüklenicinin edimini sözleşmeye uygun ifa etmeyerek temerrüde düştüğü ve avans niteliğinde verilen tapu payının da iptâliyle arsa sahibi davacılar adına tesciline karar verildiğine göre pay üzerine davalı ... tarafından konulan haciz şerhinin de kaldırılması gerekirken bu husus gözden kaçırılarak hüküm kurulması usul ve yasaya aykırı olmuş, kararın bozulması uygun bulunmuştur.
 
 SONUÇ: Yukarıda 1. bentte açıklanan nedenlerle davalı ...'nin tüm, davacıların sair temyiz itirazlarının reddine, 2. bent uyarınca kabulü ile hükmün davacılar yararına BOZULMASINA …
 
 ## Yargıtay 15. HD 2011/3203 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/17143300)
 
 Dava, arsa payı karşılığı inşaat yapım sözleşmesi uyarınca dava dışı yükleniciye devredilen bağımsız bölümler üzerine yüklenicinin borcu sebebiyle konulan haciz şerhinin yüklenicinin temerrüdü sonucu sözleşmenin feshedilmiş ve tapu kayıtlarının iptal edilerek arsa sahipleri adına feshine karar verilmiş olması nedeniyle terkini istemine ilişkindir.
 
@@ -56,6 +62,8 @@ Bu durumda haciz şerhinin konulduğu tarih itibariyle dava konusu taşınmazlar
 Sonuç: Yukarıda açıklanan nedenlerle temyiz itirazlarının kabulü ile hükmün davacılar yararına (BOZULMASINA)
 
 ## Yargıtay 15. HD 2010/5570 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/777761200)
 
 31 daire 4 dükkanın gecikme tazminatına hükmedilmiş ve bu karar talep miktarına göre Dairemizce onaylanmıştır. Dolayısıyla belirtilen miktar dışındaki kısım için gerek bağımsız bölüm adedi ve gerekse miktar yönünden kesinleşmiş bir karardan sözedilmesi mümkün değildir. Davalı cevabında davacının 32 daire ve 1 adet dükkan için talepte bulunabileceğini belirtmiştir. Sözleşmesinde ise 33 bağımsız bölümden bahsedilmiştir. Bu nedenle mahkemece öncelikle davacının kaç adet daire, kaç adet dükkan için gecikme tazminatı isteyebileceği saptanmalı, icra takibinden önce bağımsız bölümlerin fiilen davacıya teslim edilip edilmediği belirlenip teslim yoksa 01.01.2000 ile 31.05.2002 tarihleri arasındaki dönem için gecikme tazminatına hükmedilmeli, 31.05.2002 tarihinden önce teslim davalı tarafından kanıtlanırsa o tarihe kadar hesaplanacak miktar hüküm altına alınmalıdır. Hükümde alacağa uygulanacak faiz reeskont (yasal) olarak gösterilmiş olup, faizin icra takibinden 01.05.2005'e kadar reeskont, bu tarihten sonra da yine icra müdürlüğünce sorulup belirlenecek reeskont oranında uygulanacağı ortadadır. Hüküm bu sebeplerle davacı arsa sahibi yararına bozulmalıdır.
 
@@ -82,6 +90,8 @@ Ancak davanın başlangıcındaki haklılık durumuna göre davacı, davalı koo
 
 ## İstanbul BAM 7. HD 2025/1310 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1144056100)
+
 İLK DERECE MAHKEMESİ KARARI: İstanbul Anadolu 10. Asliye Ticaret Mahkemesinin 2020/470 esas ve 2021/946 karar sayılı 16/12/2021 tarihli kararı ile; davacının tapu iptali ve tescil davasının reddine , terditli bedel davasının kabulüne " 450.013,00 TL' nin ıslah tarihi olan 17/06/2021 tarihinden itibaren yasal faizi ile davalı ...
 
 …
@@ -101,6 +111,8 @@ Maddesi uyarınca duruşma yapmaksızın kesin olmak üzere karar vermek gerekti
 HÜKÜM: Gerekçesi yukarıda açıklandığı üzere; 1-Davacı vekilinin istinaf başvurusunun 6100 Sayılı Hukuk Muhakemeleri Kanunu'nun 353/1-a/4.-6. maddesi gereğince KABULÜNE,2-İstanbul Anadolu 10. Asliye Ticaret Mahkemesi'nin 16/12/2021 tarih, 2020/470 esas 2021/946 karar sayılı kararının KALDIRILMASINA …
 
 ## Gaziantep BAM 17. HD 2024/987 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1078846100)
 
 Davalı taraf kendisine usulüne uygun tebligat yapılmasına rağmen yasal süresi içerisinde cevap dilekçesi sunmamıştır.
 

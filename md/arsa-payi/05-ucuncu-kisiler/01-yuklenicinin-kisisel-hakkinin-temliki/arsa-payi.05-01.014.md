@@ -22,6 +22,8 @@ uyari: "Derleyenin seçtiği alıntılardır; kararın tamamı değildir. Künye
 
 ## Yargıtay 14. HD 2011/3551 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/759344700)
+
 Davacı, 1366 ada 5 sayılı parsel üzerindeki yapının 18 numaralı bağımsız bölümünü dava dışı yüklenici ... Ltd.Şti.’den satın aldığını, yüklenici aleyhine aynı yer tüketici mahkemesinin 2009/138 esasında tapu iptal ve tescil davası açtığını, açılan davanın derdest olduğunu, kendisine arsa sahipleri aleyhine de dava açmak üzere mehil verildiğini, her iki dosyanın birleştirilmesini ve tapu kaydının iptali ile adına tesciline karar verilmesini istemiştir.
 
 Davalılar, dava konusu 18 numaralı bağımsız bölümün yüklenici şirket adına tapuda kayıtlı olduğunu, taraf sıfatları bulunmadığını, davanın reddini savunmuştur.
@@ -38,6 +40,8 @@ Bu bakımdan, yüklenici aleyhine açılan dava dosyası ile birleştirilmek üz
 SONUÇ: Temyiz olunan kararın yukarıda açıklanan nedenlerle BOZULMASINA …
 
 ## Yargıtay 14. HD 2011/2495 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/760337500)
 
 Davacı vekili tarafından, davalılar aleyhine 09.05.1996 gününde verilen dilekçe ile kişisel hakka ve muvazaa iddiasına dayalı tapu iptali ve tescil istenmesi üzerine bozmaya uyularak yapılan muhakeme sonunda; davanın kabulüne dair verilen 26.05.2010 günlü hükmün Yargıtayca, duruşmalı olarak incelenmesi davalı ... vekili tarafından istenilmekle, tayin olunan 01.03.2011 günü için yapılan tebligat üzerine temyiz eden davalı vekili Av.... ile karşı taraftan davacı vekili Av.... geldiler. Açık duruşmaya başlandı. Süresinde olduğu anlaşılan temyiz dilekçesinin kabulüne karar verildikten sonra gelenlerin sözlü açıklamaları dinlendi, duruşmanın bittiği bildirildi.
 
@@ -61,6 +65,8 @@ SONUÇ: Yukarıda açıklanan nedenlerle temyiz olunan kararın BOZULMASINA …
 
 ## Yargıtay 17. HD 2011/2180 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/604659800)
+
 Dava, kat karşılığı inşaat sözleşmesine dayalı olarak yüklenici tarafından yapılıp davacıya satılan konut için açılan tapu iptali ve tescili istemine ilişkindir.
 
 …
@@ -68,6 +74,8 @@ Dava, kat karşılığı inşaat sözleşmesine dayalı olarak yüklenici taraf�
 Her ne kadar konut satışının resmi şekilde yapılması gerekli ise de, (TMK’nun 706., BK’nun, 213. ve Noterlik Yasasının 89. md.) arsa payı devri karşılığı yapılan inşaat sözleşmesi bunun istisnası olup, somut olayda, oturmak amacı ile konut satın alan kişi ile yüklenici arasında düzenlenen sözleşme, BK’nun 162. maddesi hükmüne göre alacağın temliki mahiyetinde olup, 4077 Sayılı Yasa kapsamında bulunduğu anlaşılmıştır.
 
 ## Yargıtay 14. HD 2011/2102 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/761291600)
 
 Davalı arsa maliki, yüklenicinin sözleşmeden kaynaklanan edimlerini yerine getirmediği gibi ruhsata aykırı kaçak kat inşa ettiğini, davacının tescil isteğinin koşullarının oluşmadığını belirterek davanın reddini savunmuştur.
 
@@ -85,6 +93,8 @@ SONUÇ: Temyiz olunan kararın yukarıda açıklanan nedenlerle BOZULMASINA …
 
 ## Yargıtay 14. HD 2010/12913 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/773019300)
+
 Davalı yüklenici iddianın yerinde olduğunu bildirmiş, davalı arsa sahipleri ise yüklenicinin edimlerini yerine getirmediğini, yapının kendilerin tarafından tamamlandığını, davanın reddini savunmuştur.
 
 …
@@ -96,6 +106,8 @@ Yapılan keşif sonucu bilirkişi tarafından düzenlenen 20.09.2005 tarihli rap
 SONUÇ: Temyiz olunan kararın yukarıda açıklanan nedenlerle BOZULMASINA …
 
 ## Yargıtay 14. HD 2010/12330 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/770900400)
 
 Dava, yüklenicinin adi yazılı temliki işlemine dayalı tapu iptali ve tescil, ikinci kademedeki talep ise sözleşmenin adem-i ifasından kaynaklanan tazminat istemlerine ilişkindir.
 
@@ -115,6 +127,8 @@ SONUÇ: Temyiz olunan kararın yukarıda açıklanan nedenlerle BOZULMASINA …
 
 ## Yargıtay 14. HD 2010/11285 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/770724700)
+
 Davalı, savunmada bulunmamıştır.
 
 …
@@ -129,6 +143,8 @@ O yüzden mahkemece tarafların isticvabı suretiyle 26.07.2007 tarihinde yükle
 SONUÇ:Yukarıda açıklanan nedenlerle temyiz olunan hükmün BOZULMASINA …
 
 ## Yargıtay 14. HD 2010/10120 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/654857300)
 
 Dava, yüklenicinin temlik işlemine dayalı tapu iptali ve tescil istemine ilişkindir.
 
@@ -145,6 +161,8 @@ Davada davacının dayandığı 20.5.1999 tarihli taşınmaz satış vaadi sözl
 SONUÇ: Yukarıda 1 numaralı bentte açıklanan nedenlerle davacının diğer temyiz itirazlarının reddine hükmüm 2 bent gereğince davacı yararına BOZULMASINA …
 
 ## Yargıtay 14. HD 2010/9831 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/769597700)
 
 Dava, arsa sahibi ile yüklenici arasındaki arsa payı karşılığı inşaat sözleşmesi uyarınca yükleniciye bırakılması kararlaştırılan üç adet bağımsız bölümün satın alındığı iddiasına dayalı tapu iptali ve tescil, kademeli olarak ise tazminat isteğine ilişkindir.
 
@@ -167,6 +185,8 @@ SONUÇ: Temyiz itirazlarının yukarıda açıklanan nedenlerle kabulü ile hük
 
 ## Yargıtay 14. HD 2010/9505 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/769594500)
+
 Dava, yüklenicinin temliki işlemine dayalı tapu iptali ve tescil istemine ilişkindir.
 
 Davalılar Menderes ve ..., çekişme konusu 8 numaralı bağımsız bölümü tapu ile yükleniciden satın aldıklarını, açılan davanın reddini savunmuştur.
@@ -180,6 +200,8 @@ Davada 08.10,1996 tarihli taşınmaz satış vaadi sözleşmesine dayanılmışt
 SONUÇ: Temyiz olunan kararın yukarıda açıklanan nedenlerle BOZULMASINA …
 
 ## Yargıtay 14. HD 2010/8867 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/646249200)
 
 Davacı yüklenici ... ise, 27.06.1997 günlü arsa payı karşılığı inşaat sözleşmesi uyarınca tüm edimlerini yerine getirdiğini, kendisine verilmesi kararlaştırılan 3.kat (9) numaralı bağımsız bölüm ile 1 ve 2 bağımsız bölüm numaralı garajların tapu kaydının iptalini, adına tescilini talep etmiştir.
 
@@ -195,6 +217,8 @@ Kaldı ki, 27.06.1997 günlü arsa payı karşılığı inşaat sözleşmesinin 
 SONUÇ: Temyiz olunan kararın yukarıda açıklanan nedenlerle davalı ... yararına BOZULMASINA …
 
 ## Yargıtay 14. HD 2010/7459 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/768971800)
 
 Dava, tapu iptali ve tescil isteğine ilişkindir.
 
@@ -214,6 +238,8 @@ SONUÇ: Yukarıda açıklanan nedenlerle, davacının temyiz itirazlarının kab
 
 ## Yargıtay 14. HD 2010/7098 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/768593400)
+
 Dava, yüklenicinin temliki işlemine dayalı tapu iptali ve tescil istemine ilişkindir.
 
 Davalı yüklenici savunmada bulunmamış, davalı arsa sahibi inşaatın tamamlanmadığını, kendisi tarafından ikmal edildiğini, yüklenici tarafından edim yerine getirilmediğinden davanın reddini savunmuştur.
@@ -230,6 +256,8 @@ Gerçekten Borçlar Kanununun 167.maddesine göre, “Borçlu temlike vakıf old
 SONUÇ: Temyiz olunan kararın yukarıda 1 numaralı bentte açıklanan nedenlerle davalı arsa sahibinin diğer temyiz itirazlarının reddine, 2 numaralı bent gereğince hükmün BOZULMASINA …
 
 ## Yargıtay 14. HD 2010/5864 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/768810400)
 
 Dava, yüklenicinin temliki işlemine dayalı tapu iptali ve tescil isteğine ilişkindir.
 
@@ -249,6 +277,8 @@ SONUÇ: Temyiz olunan kararın yukarıda açıklanan nedenlerle BOZULMASINA …
 
 ## Yargıtay 14. HD 2010/5686 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/768584300)
+
 Dava, yüklenicinin temliki işlemine dayalı tapu iptali ve tescil istemine ilişkindir.
 
 …
@@ -266,6 +296,8 @@ Gerçekten, 19.10.2004 tarihli sözleşmenin 6.maddesinde yer alan teslimin en g
 SONUÇ: Yukarıda 1.bentte açıklanan nedenlerle davacının bütün temyiz itirazlarının reddine hükmün 2.bent uyarınca davalı arsa sahibi yararına BOZULMASINA …
 
 ## Yargıtay 14. HD 2010/5623 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/768665600)
 
 Davacı, davalılar arasında 19.11.2002 günlü arsa payı karşılığı inşaat sözleşmesi bulunduğunu, bu sözleşme uyarınca yükleniciye bırakılması kararlaştırılan 5 numaralı bağımsız bölümün yüklenici tarafından 09.06.2004 tarihinde kendisine temlik ve teslim edildiğini, taşınmazın halen arsa sahibi ... adına tapuda kayıtlı olduğunu, kaydın iptali ile adına tescilini istemiştir.
 
@@ -286,6 +318,8 @@ Ayrıca yine davalı arsa sahibi tarafından 09.06.2004 günlü temlik sözleşm
 SONUÇ; Temyiz olunan kararın yukarıda açıklanan nedenlerle BOZULMASINA …
 
 ## Yargıtay 15. HD 2010/4818 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/16972900)
 
 Davacılar ise, miras bırakanın 27.11.2002 tarihinde vefat ettiğini; rahatsızlığı zamanında evinden alınıp notere götürüldüğünü; saf ve temiz dini duygularının istismar edildiğini, rahatsızlığı ve saflığından yararlanarak ve gerçek dışı vaatlerde bulunarak 07.08.2001 tarihli sözleşmenin yüklenici tarafından imzalattırıldığını ve ayrıca aynı tarihli ve 37671 yevmiye numaralı "Düzenleme Şeklinde Vekaletname" de alınarak murisin 100/245 hissesinin 40/245 oranındaki kısmını da sattığını; sözleşme ve vekaletname kapsamlarını yargılama sırasında öğrendiklerini ve miras bırakanı ve dolayısıyla kendilerini, fesih ve ibra sözleşmesinin ve vekaletnamenin bağlayıcı olmadığını ileri sürmüşler ve gösterdikleri tanıkların bilgileri de mahkemece alınmıştır.
 

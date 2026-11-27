@@ -22,6 +22,8 @@ uyari: "Derleyenin seçtiği alıntılardır; kararın tamamı değildir. Künye
 
 ## Danıştay 6. D. 2019/20847 E., 2022/1175 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/762874500)
+
 Anayasa'nın "Tarım, hayvancılık ve bu üretim dallarında çalışanların korunması" başlıklı 45. maddesinde; Devletin, tarım arazileri ile çayır ve mer'aların amaç dışı kullanılmasını ve tahribini önlemek ödevi olduğu; "Tarih, kültür ve tabiat varlıklarının korunması" başlıklı 63. maddesinde; "Devlet, tarih, kültür ve tabiat varlıklarının ve değerlerinin korunmasını sağlar, bu amaçla destekleyici ve teşvik edici tedbirleri alır. Bu varlıklar ve değerlerden özel mülkiyet konusu olanlara getirilecek sınırlamalar ve bu nedenle hak sahiplerine yapılacak yardımlar ve tanınacak muafiyetler kanunla düzenlenir." hükümlerine yer verilmiş; "Ormanların Korunması ve Geliştirilmesi" başlıklı 169. maddesinde de, Devlet ormanlarının mülkiyetinin devrolunamayacağı; bu ormanların zamanaşımı ile mülk edinilemeyeceği ve kamu yararı dışında irtifak hakkına konu olamayacağı; ormanlara zarar verebilecek hiçbir faaliyet ve eyleme müsaade edilemeyeceği belirtilmiştir.
 
 Anayasa Mahkemesince 3086 sayılı Kıyı Yasası'na ilişkin olarak verilen 25.2.1986 günlü, Esas: 1985/1, K: 1986/4 sayılı kararda, kamunun yararlanmasına öncelik tanınan kıyıda mevzuata aykırı yapıların af kapsamına alınmasının Anayasa'ya aykırı olduğu sonucuna varılmış; 3194 sayılı İmar Kanunu'nun geçici 7. maddesiyle;
@@ -36,6 +38,8 @@ Kamuya açık olmayan özel yapılanmaları yasaklayan Anayasa'nın, sahil şeri
 Bu durumda; dava konusu "Yapı Kayıt Belgesi Verilmesine İlişkin Usul ve Esaslar" başlıklı Tebliğ'in 5. maddesinin, ikinci fıkrasının, (a) bendinin iptaline karar verilmesi gerektiği oyu ile …
 
 ## Danıştay 6. D. 2021/8937 E., 2022/1074 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/787397400)
 
 İlk Derece Mahkemesi kararının özeti: ....
 
@@ -54,6 +58,8 @@ Dava konusu işlemlerin yukarıda özetlenen gerekçeyle iptaline ilişkin İdar
 
 ## Danıştay 6. D. 2016/2730 E., 2022/731 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/753880400)
+
 İlk Derece Mahkemesi kararının özeti:
 Temyize konu kararda; dava konusu kentsel dönüşüm sınırının belirlenmesinde, hangi kriterlerin dayanak alındığının belirlenebilmesi amacıyla Mahkemece yapılan ara kararı üzerine davalı idarece gönderilen dava konusu taşınmazların kapsamında yer aldığı kentsel dönüşüm ve gelişim projesi açıklama raporunda; bölgenin mevcut koşullarının tam anlamıyla ortaya konulmadığı, alandaki kentsel dönüşümün amacının bölgenin mevcut koşulları çerçevesinde açıklanmadığı, kentsel dönüşüm alanı sınırı tespit edilirken hangi kriter veya kriterlere uyulduğunun açık olmadığı, bunun yanında kentsel dönüşümle birlikte bu alanın için öngörülen kullanım kararlarının belirsiz olduğu, bu duruma göre; kentsel dönüşüm alanı sınırı tespit edilirken hangi kriter veya kriterlere uyulduğunun açık olmadığı ve sonrasında bu alanın, hangi kullanımlara dönüşeceğinin belirtilmediği gibi yargılamanın devamı sırasında da ara kararı ile sorulmasına rağmen bu hususlara ilişkin davalı idarece sunulan bilgi ve belgelerin bu konulara açıklık getirmememesi karşısında dava konusu işlemde hukuka ve mevzuata uyarlık bulunmadığı sonucuna varılarak dava konusu işlemin iptaline karar verilmiştir.
 
@@ -68,6 +74,8 @@ Yukarıya alıntılanan 2023 Başkent Ankara 1/25000 ölçekli Nazım İmar Plan
 Dava konusu işlemin yukarıda özetlenen gerekçeyle iptaline ilişkin temyize konu …. İdare Mahkemesinin … tarih ve E:…
 
 ## Danıştay 6. D. 2019/13468 E., 2022/657 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/759930400)
 
 İlk Derece Mahkemesi kararının özeti: … İdare Mahkemesince verilen … tarih ve E:… , K:
 
@@ -88,6 +96,8 @@ Dava konusu işlemin yukarıda özetlenen gerekçeyle iptaline ilişkin Mahkeme 
 
 ## Danıştay 6. D. 2019/13177 E., 2022/641 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/757652700)
+
 İlk Derece Mahkemesi kararının özeti: … İdare Mahkemesince verilen … tarih ve E:…, K:
 
 … sayılı kararda; … İdare Mahkemesinin … tarih ve E:…, K:… sayılı kararıyla uyuşmazlık konusu parsele ilişkin 1/1000 ölçekli imar planı değişikliğinin hukuka aykırı bulunarak iptaline karar verildiğinden hukuka aykırılığı saptanan imar planı değişikliği dayanak alınarak hazırlanan dava konusu … sayılı parselasyon planında hukuka uyarlık bulunmadığı gerekçesiyle iptaline karar verilmiştir.
@@ -101,6 +111,8 @@ Parselasyon işleminin mülkiyet hakkını doğrudan ilgilendiren bireysel işle
 Dava konusu işlemin yukarıda özetlenen gerekçeyle iptaline ilişkin İdare Mahkemesi kararına yönelik olarak yapılan istinaf başvurusunun reddi yolundaki temyize konu … Bölge İdare Mahkemesi ... İdari Dava Dairesinin … tarih ve E:…
 
 ## Danıştay 6. D. 2021/8165 E., 2021/14772 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/750718200)
 
 İlk Derece Mahkemesi kararının özeti: … İdare Mahkemesince verilen … tarih ve E:… , K:
 
@@ -120,6 +132,8 @@ Mahkeme kararına yönelik olarak yapılan istinaf başvurusunun kabulü ile an�
 
 ## Danıştay 6. D. 2019/17319 E., 2021/13335 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/731056400)
+
 2709 sayılı Türkiye Cumhuriyeti Anayasasının "Kamu yararı" ana başlığı altında kıyılardan yararlanma hakkını düzenleyen 43. maddesinde: "Kıyılar, Devletin hüküm ve tasarrufu altındadır. Deniz, göl ve akarsu kıyılarıyla, deniz ve göllerin kıyılarını çevreleyen sahil şeritlerinden yararlanmada öncelikle kamu yararı gözetilir. Kıyılarla sahil şeritlerinin, kullanılış amaçlarına göre derinliği ve kişilerin bu yerlerden yararlanma imkan ve şartları kanunla düzenlenir." hükmü yer almıştır. Anayasanın anılan hükmüyle kıyılardan yararlanmak için kıyı alanının belirlenmesi yeterli görülmemiş, kıyıların kara yönünde devamı olan ve onu çevreleyen sahil şeridinden yararlanmada öncelikle kamu yararının gözetilmesi gerektiği belirtilmiş, bu alanların kullanılış amaçlarına göre derinliğinin ve kişilerin bu yerlerden yararlanma olanak ve koşullarının yasayla düzenlenmesi öngörülmüştür.
 
 …
@@ -127,6 +141,8 @@ Mahkeme kararına yönelik olarak yapılan istinaf başvurusunun kabulü ile an�
 Açıklanan nedenlerle, … İdare Mahkemesince verilen … tarihli, E:… , K:… sayılı kararın taşınmazların kısmen genel yeşil alan fonksiyonuna ilişkin kısım yönünden BOZULMASINA …
 
 ## Danıştay 6. D. 2019/13097 E., 2021/12683 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/723897400)
 
 16/02/2019 tarihli, 30688 sayılı Resmi Gazetede yayımlanan 6306 sayılı Kanunun Uygulama Yönetmeliğinde Değişiklik Yapılmasına Dair Yönetmeliğin kapsam başlıklı 1. maddesinde; bu esasların, 16/5/2012 tarihli 6306 sayılı Afet Riski Altındaki Alanların Dönüştürülmesi Hakkında Kanun kapsamında Riskli Binaların tespit edilmesinde kullanılacak kuralları içerdiği, bulunduğu coğrafi nokta için Bölüm 2’de tanımlanan deprem tehlikesi altında yıkılma veya ağır hasar görme riski yüksek olan binanın Riskli Bina olarak tanımlandığı, riskli binanın tespiti için uygulanacak değerlendirme kurallarının bu esaslarda verildiği belirtilmiştir. Yönetmeliğin iptal istemine konu "Deprem Tehlikesi" başlıklı 2.3 maddesinde "Riskli yapı tespitlerinde yapının bulunduğu zemin sınıfı, zemin etüdü ile belirlenecektir.
 Sahada zemin etüdü yapılmasına olanak olmayan durumlarda (bitişik nizamlı binalarda yeterli çalışma alanının bulunmaması, altyapı şebeke sistemlerinin yoğun olması, yeraltı ulaşım ağının bulunması, vb.) ise zemin sınıfı, yapının bulunduğu zeminde daha önce yapılmış olan zemin etütlerine göre veya yapının bulunduğu zemin özelliklerini temsil eden en yakın bölgede daha önce yapılmış veya yeni yapılacak olan zemin etütlerine göre belirlenecektir" kuralı getirilmiştir. Davacı tarafından zemin sınıfının sismik, elekrik, mikrotremör vb jeofizik çalışmalarla belirleneceğine ilişkin ölçümler her parselde uygulanabilecekken sadece sondaj yönteminin öngörüldüğü, deprem yönetmeliğinde öngörülen üç farklı parametreye göre yerel zemin sınıfının belirlenmesi gerektiği iddia edilmekte ise de; Yönetmeliğin 2.4. maddesinde zemin sınıfına göre üç farklı yöntem önerildiği, ayrı ayrı üç parametre ve parametre aralıklarına yer verildiği, yönetmeliğin esasen zemin etüdünü zorunlu kılmış olması karşısında bu etüdün uygulama yönteminin ayrıntısına yer verilmemesi eksik düzenleme olarak görülmemiştir.
@@ -140,6 +156,8 @@ Dava Konusu Yönetmeliğin EK-2'sinde yer alan Riskli Yapıların Tespit Edilmes
 
 ## Danıştay 6. D. 2014/10352 E., 2021/11916 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/798284500)
+
 Orman Kanununun 2. maddesinin (b) bendine konu olan alanlar için "yerleşim alanı" taleplerinin çevre düzeni planında değişiklik gerekmeksizin alt ölçekli planlarda değerlendirilebileceğinin tariflendiği, ancak anılan plan hükmünde belirtilen bu hususun, plan bütünlüğünü bozacak nitelikte, parçacı plan yaklaşımını ortaya çıkaracağı ve ayrıca 3194 sayılı İmar Kanunu ve ilgili yönetmeliklerine de aykırı olduğu iddiası yönünden; dava konusu Çevre Düzeni Planının 7.44 sayılı plan hükmünde, Orman Kanununun 2. maddesinin (B) bendine konu olan alanlarda, sanayi alanı amaçlı kullanım talepleri dışında kalan “yerleşim alanı” taleplerinin, bu planın nüfus kabulleri ve alansal büyüklükleri aşılmamak kaydıyla çevre düzeni planında değişiklik yapılmaksızın, alt ölçekli planlarda değerlendirileceğinin öngörüldüğü, davalı idarece, bahse konu yatırımlardaki alt ölçekli planların, bu planda değişikliğe gerek kalmaksızın, ancak Çevre Düzeni Planının 8.1.1.3 sayılı yerleşik alanlara ilişkin plan hükmü kapsamında yapılabileceği belirtilmiş ise de, dava konusu plan hükmünde böyle bir husus belirtilmediği gibi, üst ölçekteki hangi kullanımda kalan alanlarda bu maddenin uygulanacağına ilişkin net ve
 belirli bir ifadenin de yer almadığı , bu planın nüfus kabulleri ve alansal büyüklükleri aşılmamak kaydıyla denilmek suretiyle, yerleşik alan kullanımından bahsedildiği değerlendirilebilir ise de, söz konusu plan hükmünün içeriğinde buna ilişkin açık ve net bir belirlemenin bulunmadığının görüldüğü, dava konusu planın 7.44 sayılı plan hükmünün açık ve net olmadığı, muğlaklık içerdiği, söz konusu düzenlemenin bu haliyle hukuki belirlilik ilkesine aykırı olduğu sonucuna varıldığından İzmir-Manisa Planlama Bölgesi 1/100.000 ölçekli Çevre Düzeni Planının 7.44 sayılı plan uygulama hükmüne ilişkin kısmı yönünden şehircilik ilkeleri ,planlama esasları ve kamu yararına uyarlık bulunmadığı, dava konusu Çevre Düzeni Planının 8.18.3.2 sayılı plan hükmü yönünden dava konusu plan hükmünde, limanların yetersiz olması durumu tespitinin ne şekilde yapılacağı, ayrıca maksimum ne kadar bir alanın ayrılabileceğinin belirtilmediği, bu tespitlerin yapılmasındaki belirsizlik ve alt ölçekli planlar hazırlanırken üst ölçekli plana aykırılık teşkil edebileceği hususları göz önüne alınarak, liman gerisi hizmet alanına ilişkin ihtiyaçların tespit edilerek bu alanların çevre düzeni planı üzerinde plan kararı
 getirilmek suretiyle gösterilmesi gerektiği iddiası yönünden, dava konusu Çevre Düzeni Planının 8.18.3.2 sayılı plan uygulama hükmü uyarınca, liman alanı olarak planlanan alanların liman gerisi kullanım açısından yetersiz olması durumunda, bu planın ilkeleri ve ilgili mevzuatla çelişmemek koşuluyla, bu planda hangi kullanımda kaldığına bakılmaksızın, alt ölçekli planlarda liman alanlarına bitişik liman geri sahası olarak planlanabileceği ,Çevre düzeni planının niteliği göz önünde bulundurulduğunda, liman ve liman geri sahası kullanımı kararının, çevresel etkilere yönelik alt ölçekli planları yönlendirmesi beklenen ilke ve stratejilerin oluşturulması ve koruma-kullanma dengesinin sağlanması açısından, üst ölçekli çevre düzeni planı kapsamında ele alınması gerektiği , dava konusu Çevre Düzeni Planının lejantında da liman ve liman geri sahası gösteriminin yer aldığı, çevre düzeni planı değişikliğini gerektirecek nitelikte ve büyüklükte bir liman ve liman geri sahası alanının, üst ölçekteki planda değişiklik yapılmaksızın doğrudan alt ölçekli planda belirlenmesinin, planların kademeli birlikteliği ilkesine aykırılık oluşturacağı gibi alt ölçekli planları yönlendirecek ilke ve
@@ -151,9 +169,13 @@ Dairemizce, 1/100.000 ölçekli Çevre düzeni planlarına yönelik açılan dav
 
 ## Danıştay 6. D. 2016/4761 E., 2021/11912 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/730226300)
+
 DAVACININ İDDİALARI : Dava konusu İzmir-Manisa Planlama Bölgesi 1/100.000 ölçekli Çevre Düzeni Planının, aşağıda ayrıntısı yazılı itirazlar ile şehircilik ilkeleri, planlama esasları ve kamu yararına aykırı olduğundan iptali gerektiği iddia edilmektedir.
 
 ## Danıştay 6. D. 2018/6506 E., 2021/11398 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/787142500)
 
 Bölge İdare Mahkemesi İdari Dava Dairesi kararının özeti :
 İdare Mahkemesi kararına dayanak alınan bilirkişi raporunda çevrede boş parseller varken davacıya ait yapılı parselin sosyal donatı alanına ayrılmasının eleştirildiği, ancak, söz konusu boş parsellerin hangisi olduğu, dava konusu imar planı ile hangi kullanıma ayrıldığı, konumu, geometrisi ya da boyutu itibari plan bütünlüğüne uygun olup olmadığı yolunda bir değerlendirmede bulunulmadığı, soyut anlatımlarla yetinildiği, dava konusu nazım imar planı paftası incelendiğinde, sosyal ve teknik altyapı alanlarının plan bütünlüğü içerisinde mekansal alana denk dağılımının sağlanması için gayret sarfedildiğinin görüldüğü, doğrusal ve zincir tasarımın ise hem planlama alanına hizmet etmek üzere üretilen sosyal donatı alanlarının işlevselliğini artırmak hem de bu alanlara erişimi kolaylaştırmak adına kurgusal olarak doğru bir plan kararı olduğu, uygulama imar planının yapım aşamasında belirlenecek alt derece taşıt ve yaya yollarının belirlenmesinde nirengi noktası alınması beklenen söz konusu sosyal donatı ve teknik altyapı kurgusunun, büyük parsellerden teşekkül etmesi beklenen yapı adalarında yaya geçirgenliğini artıracağı, mekansal alanın bir bütün olarak yeniden ele alındığı dönüşüm
@@ -166,6 +188,8 @@ Açıklanan nedenlerle, ... Bölge İdare Mahkemesi ... İdari Dava Dairesince v
 
 ## Danıştay 6. D. 2019/17351 E., 2021/11057 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/718760900)
+
 6306 sayılı Kanunun amacının rant için yatırım değil, depreme dayanıklı yapı inşa edilmesi olduğu, ortaklığın giderilmesi davası açılması hakkı tanınmasının, 6306 sayılı Kanundaki kat maliklerinin mülkiyet hakkının korunmasına dair tüm hükümleri devre dışı bıraktığı, ortaklığın giderilmesinin müteahhitlerce tercih edileceği, 6306 sayılı Kanunun getirdiği yeniden inşaata katılma hakkı uygulamasının fiilen ortadan kalkacağı, 6306 sayılı Kanunun 6. maddesi uyarınca, parsellerin malikleri tarafından değerlendirilmesinin esas olduğu, iptali istenen Yönetmelik maddesi ile özel yasa varken genel yasa uygulanmasının evrensel hukuk ilkelerine ve Hukuk Muhakemeleri Kanununa aykırı olduğu, 6306 sayılı Kanunda ortaklığın giderilmesine dair bir düzenleme bulunmadığı, Yönetmelik hükmünün dürüstlük kuralının açıkça ihlali sonucunu doğuracağı, mülkiyet hakkına sınırlama getirdiği, Anayasa'ya göre bu sınırlamanın ancak kanunla getirilebileceği, Yönetmelik ile ortaklığın giderilmesi davası hakkı verilmesinin Anayasa’ya aykırı olduğu ileri sürülmektedir.
 
 …
@@ -173,6 +197,8 @@ Açıklanan nedenlerle, ... Bölge İdare Mahkemesi ... İdari Dava Dairesince v
 1\. 21.06.2019 tarih ve 30808 Sayılı Resmi Gazete'de yayımlanarak yürürlüğe giren 6306 Sayılı Kanunun Uygulama Yönetmeliğinde Değişiklik Yapılmasına Dair Yönetmeliğin 10. maddesi ile 15.12.2012 tarihli ve 28498 Sayılı Resmi Gazete'de yayımlanan 6306 Sayılı Kanunun Uygulama Yönetmeliği'nin 15. maddesinin birinci fıkrasının sonuna eklenen “Malikler, riskli yapının yıktırılmasından sonra arsa haline gelen taşınmazda ortaklığın giderilmesi için Türk Medeni Kanunu hükümlerine göre dava açabilirler. Ancak, ortaklığın giderilmesi için dava açılmış olması, Kanun kapsamında hisseleri oranında maliklerin en az üçte iki çoğunluğu ile karar alınmasına ve bu karara göre işlem yapılmasına engel teşkil etmez.” ibaresinin İPTALİNE …
 
 ## Danıştay 6. D. 2017/4782 E., 2021/10174 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/704660600)
 
 Davacı tarafından;
 1/100.000 ölçekli çevre düzeni planında termik santral gibi büyük sanayi yatırımları için Filyos Vadisi bölgesi ayrılmışken ekolojik açıdan korunma, tarım ve turizme dayalı bir gelişme öngörülen bölgede bahse konu termik santral projesi için 1/100.000 ölçekli çevre düzeni planı değişikliği yapılmasının kamu yararına aykırılık teşkil ettiği, termik santral için öngörülen alanın kent merkezine yaklaşık 4 km mesafede olduğu, söz konusu termik santralin başta Amasra ve yakın çevresinde olmak üzere ciddi ekolojik tahribatlara neden olacağı, bu ekolojik tahribatın bölge ekonomisinin büyük oranda dayandığı tarım ve turizm sektörünü olumsuz etkileyeceği, parçacıl nitelikte yapılan değişiklikle 1/100.000 ölçekli çevre düzeni planı bütünlüğünün bozulduğu, söz konusu planlama faaliyeti yürütülürken kamu kurum ve kuruluşları tarafından verilen görüşlerin dikkate alınmadığı, gerek plan notu gerekse plan açıklama raporunda termik santralin inşa edileceği alanın yer seçiminde hangi kriterlere dikkat edildiği, bu alanın hangi bilimsel değerlendirmelere göre planlandığı yönünde veri bulunmadığı, orman alanı niteliğinde olan tarım ve turizme dayalı gelişmenin önerildiği doğal karakteri büyük oranda

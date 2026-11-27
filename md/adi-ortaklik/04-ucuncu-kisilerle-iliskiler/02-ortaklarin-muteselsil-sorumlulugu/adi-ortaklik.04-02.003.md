@@ -22,6 +22,8 @@ uyari: "Derleyenin seçtiği alıntılardır; kararın tamamı değildir. Künye
 
 ## İstanbul BAM 13. HD 2024/76 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/994398000)
+
 Bank gibi çeşitli bankalara ait POS gelirleri bulunduğu, ... pos cihazından peşin alışverişler yapıldığı ve bu alışverişlerin genellikle 200 TL ve altında yapılan POS çekimleri olduğu, ödemelerin, bizatihi davalının satışlarına mı yoksa davacı şirketin mal satışlarına mı ilişkin olduğu hususunda bir kayıt bulunmadığı, Davacının defterinde, 2018 yılında, POS cihazından tahsil edilip de davalının hesabına alacak kaydedilen tahsilat miktarının 102.327.48 TL olduğu, Bu durumda davacının, bu tutarın üzerinde, kendi mal satışları için, POS cihazından tahsilat yapıldığı halde, hesabına alacak kayıt edilmediğini ispat etmesi gerekeceği, Ne var ki davacının , bu hususta bir belgeyi dosyaya sunmadığı, Açıklanan bu nedenle davacının takip tarihi itibariyle Adi ortaklıktan 134.385.33 TL alacağın bulunduğu, kanat ve sonucuna varıldığı, Davacı vekili, adi ortaklığın tüzel kişiliğinin olmaması sebebiyle, adi ortaklığın borcunun tahsilini davalı/...'dan talep ettiği, Davalı/... ile davadışı/... arasında akdedilmiş olan Adi Ortaklık Sözleşmesinin 6 nolu maddesi hükmüne göre, Ortaklığın dışarıya karşı temsil ve ilzamına, banka haricinde her iki ortak münferiden yetkili olduğu, bu hükme göre, adi
 ortaklığın ortaklarından herhangi bir birinin adi ortaklık adına yapmış olduğu, banka işlemi dışındaki İşlemlerin adi ortaklığı bağlayacağı, (TBK.md.637/f.2). Bu işlemler nedeniyle adi ortaklığın üçüncü kişilere karşı yüklendiği borçlardan, ortakların müteselsilen sorumlu olacağı, (TBK.md.638/f.3).Buna göre, davalı/... da adi ortaklığın davacı şirkete karşı yüklenmiş olduğu borçlardan, diğer ortak davadışı/... ile birlikte müteselsilen sorumlu olduğu, Bu nedenle de adi ortaklıktan alacaklı olan davacı şirket, adi ortaklığın borcunu dilediği ortaktan talep etme hakkına sahip olduğu, Dilerse alacağının tamamını davalı/... talep eder, dilerse davadışı/...'dan talep edebileceği, Pek tabi ki ortaklardan birinin takip sonucunda adi ortaklığın işbu borcunun tamamını ödediği takdirde, ödediği kısmın kendi %50'lik payından fazlasına tekabül eden kısmının (fazla ödemiş olduğu %50'lik kısmın) rücuen tahsilini diğer ortaktan talep edebileceğine ilişkin kanaat bildirmişlerdir.
 
@@ -29,6 +31,8 @@ Bilirkişi raporu taraflara tebliğ edilmiş tarafların itirazı sonucu dosya e
 Adi Ortaklığı adına ... tarafından imzalanan ve yukarıda açıklanmış olan belgelerin, diğer ortak davalı/...'ya da bağlayacağı düşünülmektedir. Davalı itirazında, 15.01.2018 tarihli 12.000 TL ve 23.03.2018 tarihli 12.793 TL ödemenin hesaba yansıtılmadığını ileri sürmekte ise de, mutabakat sağlanan muavin defter protokolünde her iki ödemenin de davalı lehine kayıtlarda bulunduğunun anlaşıldığı, gerek muavin defter protokol kaydı ve gerekse mutabakat mektubundaki kabul beyanı dikkate alındığı takdirde, davacının, takip tarihi itibariyle davalı şirketten ve dolayısıyla da, davalı şirket ortağı davalı/...'dan 242.966.46 TL alacağı olduğu, davalı/... davadışı/... adına dava dışı/... ödediğini iddia ettiği 75.000 TL'nin bu dava ile bir ilgisi bulunmadığı, bu ödeme iddiasının adi ortaklığın tasfiyesi halinde değerlendirilmesi gerektiği, sonucuna varıldığı kanaati belirtilmiştir. Davacı, Anadolu .... İcra Müdürlüğü'nün ... E sayılı dosyası üzerinden, ...
 
 ## İstanbul BAM 9. HD 2024/4 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/993575400)
 
 Dava, maddi hasarlı trafik kazası nedeniyle sigorta şirketi tarafından ödenen hasar bedelinin istemine ilişkin olup istinaf açısından uyuşmazlık konusu HMK'nın 355.
 
@@ -39,6 +43,8 @@ Zarar gören davacı, TBK'nın 61., 162 ve 163. maddesi gereğince müteselsil s
 
 ## Diyarbakır BAM 6. HD 2023/1604 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/950372600)
+
 Dava, hizmet sözleşmesine dayalı fatura alacağının tahsili amacıyla başlatılan takibe vaki itirazın iptali istemine ilişkindir.
 
 …
@@ -46,6 +52,8 @@ Dava, hizmet sözleşmesine dayalı fatura alacağının tahsili amacıyla başl
 Adi ortaklık iki ya da daha fazla gerçek ya da tüzel kişinin ortak bir amaca ulaşmak için emek, sermaye ve mallarını birleştirdikleri bir ortaklıktır. 6098 sayılı Türk Borçlar Kanunu'nun 620 ve devamı maddelerinde düzenlenen adi ortaklığın taraf ehliyeti yoktur. Bu nedenle, adî ortaklığa ilişkin davalarda, adi ortaklığı oluşturan kişilerin taraf olarak hep birlikte hareket etmeleri gerekir. Adî ortaklık tarafından açılacak davaların elbirliği halinde mülkiyet hükümleri gereği bütün ortaklar tarafından birlikte açılması gerekir. Adî ortaklığa karşı açılacak davalar yönünden ise; ikili bir ayrım yapmak gerekecektir. Davanın konusu paradan başka bir şey ise davanın bütün ortaklara karşı birlikte açılması (mecburi dava arkadaşlığı), davanın konusu para ise; ortaklar bu borçtan müteselsil sorumlu bulunduklarından ortaklardan biri, bazıları yada tümüne karşı (ihtiyari dava arkadaşlığı) dava açılabilecektir. Adi ortaklık aleyhine dava açılamayacağı gibi icra takibi de yapılamaz. Bu nedenle icra takibinin ortaklara karşı yapılması gerekir. Ancak yine bir para borcu söz konusu ise ortaklar borçtan müteselsilen sorumlu olduklarından ortaklardan biri hakkında takip yapılması mümkündür.
 
 ## İzmir BAM 17. HD 2023/1158 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/913037100)
 
 Dava, satış noktası sözleşmesinin ihlal edilmesi nedeniyle münhasır satış bedeli ve reklam bedeli ile cari hesap alacağının tahsili için yapılan icra takibine vaki itirazın iptali istemine ilişkindir.
 
@@ -56,10 +64,14 @@ gereğince sözleşme altında imzası olan davalıların müşterek müteselsil
 
 ## İstanbul BAM 3. HD 2023/976 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/878895700)
+
 Noterliğinin 09.09.2016 tarih ... yevmiye numaralı ihtarnamesi gönderildiğini ,ancak bu güne kadar müvekkiline bir ödeme yapılmadığını, bu nedenle müvekkilinin davalılara yapmış olduğu ödemelerinin iadesi, devri yapılan şubelerdeki demirbaş satışlarından elde edilen gelir ve kar payı alacağı için iş bu davayı açtıklarını, müvekkili tarafından davalılara yapılan finansman desteği ödemelerin, ödeme tarihinden itibaren işleyecek reeskont avans faizi ile birlikte davalılardan müştereken ve müteselsilen tahsiline, müvekkilin şubelerin devri ve ortaklığın ticari işleyişi nedeniyle elde edeceği, bu güne kadar ödenmeyen kazanç karının işleyecek reeskont avans faizi ile birlikte davalılardan müştereken ve müteselsilen tahsiline, alacağın teminat altına alınması ve müvekkilinin telafisi imkansız zarara uğramaması adına, davalıların araç, gayrimenkul, ticari sicil kayıtları ve 3. şahıslardaki hak ve alacaklarına tedbir konulmasına karar verilmesini talep ve dava etmiştir.
 Davacı 22/10/2019 tarihli ıslah dilekçesinde; taleplerini 374.300,00-TL artırarak ödenen 384.300,00-TL'nin ödeme tarihinden itibaren işleyecek reeskont avans faizi ile birlikte davalılardan müştereken ve müteselsilen tahsilini talep ederek ıslah harcını da yatırmıştır. Davalı vekili cevap dilekçesinde; müvekkili ... Gıda Ltd. Şti. ile davacı ... arasında imzalanan 06.02.2013 tarihli Şube Ortaklık Sözleşmesi” uyarınca, taraflar arasında 6098 sayılı Türk Borçlar Kanunu'nda ifade bulduğu üzere bir “adi ortaklık” kurulmuş olup, davalıya gönderilen ..ç no.lu ihtarnamede yer alan tüm iddialar aşağıda açıklanan nedenlerle asılsız ve hukuka aykırı olduğunu ,taraflar arasında akdedilen sözleşmenin başlığından ve sözleşmenin konusu başlıklı 2. maddesinde da açıkça anlaşılacağı üzere sadece ... Cd. No:...
 
 ## İstanbul BAM 7. HD 2023/912 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/887809200)
 
 Dava, yükleniciden temlik alınan taşınmazlara ilişkin tapu iptali ve tescil, olmadığı takdirde alacak istemine ilişkindir.
 
@@ -73,6 +85,8 @@ Asliye Ticaret Mahkemesinin 2019/515 Esas sayılı dosyası davalı vekilinin de
 
 ## İstanbul BAM 45. HD 2023/247 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/877160000)
+
 Ancak takip talebinde dayandığı alacak sebebini ıslah yoluyla değiştirmesi mümkün değildir. Dava açıp takip talebinde dayandığı sebebi değiştirmek istiyorsa ıslah yoluyla hem itirazın iptali davasını alacak davasına hem de alacak sebebini birlikte değiştirmesi gerekir. Bu husus itirazın iptali davasının dayandığı ''takipten ayrılmamanın'' ve davanın hukuki niteliğinin bir sonucudur (Mahmut Coşkun, İtirazın İptali Menfi Tespit ve İstirdat, Tasarrufun İptali Davaları, Seçkin Yayınevi, 6. Baskı, s:254) ''Dava, itirazın iptali davasıdır. İcra takibiyle sıkı sıkıya bağlıdır. Dava konusu icra takip dosyasında 29.06.2005 tarihli ve 19346 yevmiye sayılı Finansal Kiralama Sözleşmesi alacak dayanağı olarak gösterilmiştir. Uyuşmazlığın takip dosyasında belirtilen sözleşmeye konu alacakla sınırlı olmak üzere çözümlenmesi gerekir.
 Islah ile dahi olsa itirazın iptali davalarında müddeabih artırılamaz, takibe konu edilmeyen kısımla ilgili talepte bulunulamayacağı düşünülmeksizin yazılı şekilde hüküm kurulması yerinde görülmemiştir. '' (Yargıtay 19.HD 30.11.2011 T.3405/14956) Mahkemece yapılan yargılama sonucunda davanın reddine dair karar verilmiş olup davacı vekilince istinaf yasa yoluna başvurulmuştur. Davaya konu somut olayda, davalı ile dava dışı ... tarafından adi ortaklık sözleşmesi düzenlendiği yukarıda belirtilmiştir. İş bu nedenle adi ortaklık uyarınca temsil konusu üzerinde durulması gerekmektedir. Adi Ortaklık Sözleşmesi: 6098 sayılı TBK'nin 620.maddesinde adi ortaklık sözleşmesi iki ya da daha fazla kişinin emeklerini ve mallarını ortak bir amaca erişmek üzere birleştirmeyi üstlendikleri sözleşmeler olarak tanımlanmıştır. Ancak adi ortaklık 6102 sayılı Türk Ticaret Kanunu kapsamında yer alan ortaklıklardan farklı olarak taraf ve dava ehliyeti olmadığı gibi tüzel kişiliği haiz değildir. Bu nedenle adi ortaklığa ilişkin davalarda, adi ortaklığı oluşturan kişilerin taraf olarak hep birlikte hareket etmeleri zorunludur.
 Adi ortaklık tarafından açılacak davaların, el birliği mülkiyeti kuralları gereğince bütün ortaklar tarafından birlikte açılması gerekir.
@@ -82,9 +96,13 @@ Bütün ortaklar tarafından açılacak dava, adi ortaklık adına değil ortakl
 
 ## İstanbul BAM 16. HD 2023/82 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/861829800)
+
 Ortaklığı" olarak adi ortaklık şeklinde faaliyet sürdürdükleri de dikkate alındığında maddi ve manevi tazminattan birlikte sorumlu tutulmaları gerekirken ayrı ayrı sorumluluklarına hükmedilmesi yerinde görülmemiştir.Açıklanan nedenle davalılar vekilinin istinaf isteminin kısmen kabulüne, HMK 353/1.b.2 maddesi gereğince kazanılmış haklar korunarak Dairemizce yeniden hüküm kurulmasına karar verilmiştir.
 
 ## İstanbul BAM 3. HD 2022/2577 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/811696100)
 
 İnşaat ile arasında imzalanan bu Protokole dayalı olarak 24/04/2013 tarihli Adi Ortaklıktaki %50 hissesinin %40'nı müvekkillerimize devrettiğine dair iddiasının tamamen gerçek dışı olduğunu, Yine, mezkür Raporun 3.sayfasının 6.paragrafında aynen; ".... ilerleyen süreçte ...'ın %40 hissesini ...'e devredeceği konusunda tarafların anlaştığı, daha sonra da henüz bu devir karşılığı bedel ödenmeden Adi Ortaklığa 2 ortağın daha alındığı tespit edilmektedir." şeklindeki görüşü de yanlış görüşünün devamı mahiyetinde olduğunu, Görüldüğü üzere, bilirkişi'nin tüm raporunu üzerinde temellendirdiği "bu protokol ihale işi için %50-%50 oranında kurulan iş ortaklığı için imzalanacak adi ortaklık sözleşmesinden önce akdedilmiş olmalıdır." görüşü kesinlikle somut olaya ve tüm dosya içeriğine aykırı olduğunu, davacı ile müvekkilleri arasında akd ve tanzim edilen 13.01.2014 tarihli ... adi ortaklık sözleşmesi ile yeni bir adi ortaklık kurulduğunu, 24/04/2013 tarihli adi ortaklıktaki %50 hissesinin devri veya bu adi ortaklığın devamı niteliğinde bir adi ortaklık sözleşmesinin yapılmadığının en büyük göstergesi; İstanbul ... noterliği'nin 13.01.2014 tarih ve ... yevmiye numaralı ...
 İnşaat iş Ortaklığı adi ortaklığı sözleşmesinin hükümleri olduğunu, zira, sözleşmenin 2.md.sinde; “bu taahhüt ve paylaşım ortakların kendi aralarında ileri sürebilecekleri bir husus olup, S.S.
@@ -97,6 +115,8 @@ Adi Ortaklık Sözleşmesinde, daha önceki Adi Ortaklık Sözleşmesi'ne atıf 
 
 ## İstanbul BAM 7. HD 2022/2122 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/815197000)
+
 Dava, yükleniciden temlik alınan taşınmaza ilişkin tapu iptali ve tescil, olmadığı takdirde alacak istemine ilişkindir.
 
 …
@@ -108,6 +128,8 @@ Bu itibarla, İDM değerlendirmesinde, taraflar arasında gelir paylaşımlı in
 Davacı ile davalı ... arasındaki sözleşme uyarınca davacı taraf üstlenmiş olduğu ödeme yükümlülüğünü tam ve gereği gibi yerine getirdiğinden, davalı ...’nın sözleşmeye konu gayrimenkulü her türlü kayıttan ari olarak davacıya devretme yükümlülüğünün doğduğu, İDM'ce devre konu gayrimenkulün malikinin diğer davalı ... olması nedeniyle davalı ...’ın devri yapmasının hukuken mümkün olmaması gerekçesi ile terditli açılan dava nedeniyle sözleşmeye aykırılıktan bedel iadesi talebinin kabulüne karar verilmiş ise de, yukarıdaki açıklamalar gereğince davalıların adi ortak olarak müştereken ve müteselsilen sorumlu oldukları, tescilin yasal şartlarının da oluştuğu anlaşılmakla, öncelikli tapu iptal ve tescil talebinin kabulüne karar verilmesi gerekirken terditli bedel talebinin kabulüne karar verilmesi de isabetsiz bulunmuştur. Dairemizin 18/06/2020 tarih 2020/742 E 2020/762 Karar sayılı kararı bu dosya ile aynı mahiyette olup, davalılar arasında adi ortaklık ilişkisi olduğu ve müştereken ve müteselsilen sorumlu olduklarına ilişkin değerlendirme ile verilen karar Yargıtay 6.Hukuk Dairesinin 12/10/2021 tarih 2020/970 E 2021/764 Karar sayılı ile onanmıştır.
 
 ## Ankara BAM 21. HD 2022/970 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/783998500)
 
 Dava konusu Ankara 28. İcra Müdürlüğü'nün 2014/2741 E. sy. icra takip dosyasında; davacı banka davalı müşterek borçlu ve müteselsil kefil aleyhine başlattığı ilamsız icra takibinde nakdi kredi alacağının yanı sıra 90 adet çek yaprağının garanti bedeli olan 100.800,00 TL'nin depo edilmesini talep etmiş, yargılamada alınan bilirkişi raporuyla belirlenen 5 adet çek yaprağı sebebiyle ilk derece mahkemesince asıl ve birleşen davada asıl borçlu iş ortaklığını oluşturan davalı şirketlerin 5 adet çek sebebiyle depo taleplerinin kabulüne, asıl davanın davalısı-kefil yönünden kredi sözleşmesinde bu yönde açık hüküm bulunmadığından talebin reddine karar verilmiştir. Davalının müteselsil kefil sıfatıyla ve 250.000,00 TL kefalet limitiyle imzasının bulunduğu dava ve takip konusu 24.06.2009 tarihli genel kredi sözleşmesinde davalı kefilin çek depo bedelinden sorumlu olacağına dair açık bir hüküm bulunmamaktadır.
 Davacı vekili her ne kadar işbu sözleşmenin 13.2.c maddesi ile sorumlu tutulması gerektiğini iddia etmişse de bu sözleşmede "bankanın gayrinakdi kredilerle ilgili nakit depo ve/veya teminat talep hakkı" başlığı altında müşteri lehine düzenlenen teminat mektubu, garanti, kontrgaranti veya ithalat akreditifleri, ithalat kabul veya aval kredileri ile banka veya muhabirlerince kabul edilen veya aval verilen poliçeler nedeniyle bankanın sorumlu olduğu tutarın müşteri tarafından depo edilmesi talebini düzenlediği anlaşılmakla, işbu madde çek yaprağından doğan garanti bedelinin depo edilmesine dair bir hüküm içermediği gibi düzenleme kapsamının de esasen müşteriye yani asıl borçlu olan iş ortaklığına ilişkin olup davalı kefilin sorumlu olacağına dair açık bir hükme yer verilmemiştir. Gayrinakdi kredilerin nakde dönüşme riski nedeniyle bedelinin bankaya nakit olarak depo edilmesi talebi ilave teminat borcuna dayanmakta olup bu sorumluluk sadece kredi müşterisine aittir. Nitekim Yargıtay 19.

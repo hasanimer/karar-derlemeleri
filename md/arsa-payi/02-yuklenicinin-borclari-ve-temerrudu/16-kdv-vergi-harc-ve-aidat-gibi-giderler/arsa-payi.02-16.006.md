@@ -21,6 +21,8 @@ uyari: "Derleyenin seçtiği alıntılardır; kararın tamamı değildir. Künye
 
 ## İstanbul BAM 17. HD 2022/1593 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/847924700)
+
 Dava, kooperatif aidat alacağının tahsili istemine ilişkindir.
 
 …
@@ -41,6 +43,8 @@ H Ü K Ü M: Gerekçesi yukarıda izah edildiği üzere;1-Davalı vekilinin isti
 
 ## İstanbul BAM 17. HD 2022/1494 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/839910800)
+
 Sözleşmenin 3. maddesinde, ana amacın, kooperatif tarafından yükleniciye teslim edilen arsalar üzerine 244 adet bağımsız bölümün yapılmasının olmadığı, ana amacın, kooperatife ve üçüncü kişilere ait arsaların tevhid/ifraz edilmesi ile oluşacak karma büyük proje arsaları üzerinde 244 adet bağımsız bölümün yapılması olduğu, proje alanı içindeki aynı zamanda kooperatif üyesi olan arsa/ünite sahipleriyle işbu ünitelerin alımı hususunda 750.000 USD üzerinden anlaşmaya varıldığı, her bir bağımsız bölümün 250.000 USD bedelle alımının garanti edildiği, sonradan emsal değerinde (2.00) artış olması veya emsal hesabında dikkate alınan net arsa alanının (23.886 m2) büyümesi durumunda elde edilecek net kapalı inşaat alanından arsa sahibine %38 oranında ek m2 tahsisine gidileceği, aleyhte olan durumların mücbir sebepler dışında arsa sahibine yansıtılmayacağı; sözleşmenin 4.1. maddesinde, bağımsız bölümlerin her birinin net alanının en az 62 m² olacağı, brüt alanın her biri için 75 m², genel brüt alanın ise 85 m² olduğu, projelendirme aşamasında bu verilerden faydalanılarak ve belirtilen net kullanım alanını sağlayarak arsa sahibine bağımsız bölümün teslim edileceği; sözleşmenin 8. maddesinde,
 işin bedelinin yükleniciye bu sözleşmede tarif edildiği süre ve şartlarda devredilecek arsadan ibaret olduğu, kendisine başkaca bir bedel ödenmeyeceği, arsa sahiplerinin, yükleniciye verilecek arsa hacminde mücbir olmayan hiçbir sebep ve şarttan dolayı, inşaatın yapımı ile ilgili başkaca bir bedel veya teknik şartname dışındaki talepleri haricinde maliyet farkı ödemeyeceği, yüklenicinin yapılan işin değerinin kendine bırakılan arsa değerinden fazla olduğunu iddia edemeyeceği gibi arsa sahibinin de belirlenen paylaşım şekline karşılık sahip olacağı 244 adet bağımsız bölümün değerinin daha düşük olduğunu iddia edemeyeceği, arsa sahibinin 244 adet bağımsız bölüm dışında yükleniciden hiçbir hisse ve hak talep etmeyeceği ve yapılan paylaşıma da itiraz etmeyeceği, sözleşmenin 9. maddesinde, her türlü mülkiyete mülkiyete ilişkin vesair hukuki engellerin kaldırılması koşulu ile yüklenicinin, imar planlarının belediyece onaylanıp ifraz ve(ya) tevhit işlemlerinin tapuya tescilinden ve tüm projelerin onaylanıp yapı ruhsatının alınmasından sonra 6 ay içinde inşaata başlayarak 60 ayda inşaatı tamamlamayı ve iskan ruhsatına hazır hale getirmeyi taahhüt etiği, sözleşmenin 37. maddesinde, sözleşme
 konusu arsanın emlak rayiç değerinin 244.407,00 TL olduğu; sözleşmenin 39.1.1. maddesinde, arsa sahibinin işin devamı sırasında yürüteceği özlük işlerini ve aynı zamanda bu sözleşme konusu işin denetimi için görevlendireceği kurumun hizmet bedelini kapsayan taraflarca toplam 2.000.000 USD bedelli bir bütçe hazırlanacağı, bu bağlamda sözleşmenin imza aşamasında 500.000 USD bedelin yüklenici tarafından arsa sahibine ödeneceği, yüklenicinin, hazırlanacak bu bütçe doğrultusunda yıllık olarak belirlenecek bu tutarları bütçede belirlenen tarih aralıklarında arsa sahibine ödeyeceği, arsa sahibinin işbu bütçe toplam bedelini sözleşmenin 39.1.2. maddesinde belirtilen mahsuplaşma faturasında arsa bedeli ile birlikte yansıtacağı; sözleşmenin 39.1.2. maddesinde, arsa hisse devri ve inşaat maliyet faturası ile ortaya çıkacak KDV'nin ödenmesi sözleşme hükümleri doğrultusunda işin bitimi veya iskan aşamasında, yüklenicinin 244 adet imal edilecek bağımsız bölüme isabet eden inşaat faturasını KDV ile birlikte arsa sahibine, arsa sahibinin de yüklenicinin alacağı arsaya isabet eden aynı bedelli arsa faturasını KDV ile birlikte yükleniciye keseceği ve mahsuplaşılacağı, sözleşmenin geçici 2.
@@ -50,6 +54,8 @@ Somut olayda, davalı kooperatife ait taşınmazın, müstakil tapusu olan tek b
 fiili ödeme tarihinin baz alınarak ödeneceğinin taahhüt edildiği, SPK onaylı ...
 
 ## İzmir BAM 11. HD 2022/1411 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/814727600)
 
 Davacı kooperatif imalatın sözleşmeye uygun olmadığını, eksik ve ayıplı olduğunu ileri sürmektedir. Eldeki dava dosyası kapsamında düzenlenen bilirkişi ek ve kök raporlarında davalı yüklenci tarafından yapılan imalatının sözleşmeye aykırı olduğu, mevcut hali ile eksik ve ayıplı imalat bulunduğu tespit edilmiştir. Her ne kadar; davalı tarafından 30/06/2000 tarihli tutanak içeriğine göre edimlerin eksiksiz yerine getirildiği savunulmuş ise de fiili durumun tutanak içeriğine uygun düşmemesi ve iddianın ileri sürülüş şekline göre kooperatif yöneticileri ve yüklenici tarafından yapılan iş ve işlemlerin kooperatifi zararlandırmaya yönelik olup ceza dava dosyasına konu edilmesi dikkate alındığında, davalının bu savunmasına itibar edilmemesinde usul ve yasaya aykırı bir yön bulunmadığından, davalının bu konuya ilişkin istinaf talebi yerinde görülmemiştir.
 
@@ -69,6 +75,8 @@ Asıl ve birleşen davalarda davacı ve davalı kooperatif vekili, asıl ve birl
 
 ## İstanbul BAM 17. HD 2022/799 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/785382500)
+
 Davalı vekili cevap dilekçesinde özetle; davacının taşeronu olduğu işi tamamlamadığını, yapılan işinde sözleşme ve şartnamelere uygun olmadığını, işin ... Bölge Müdürlüğünce kabul edilmediğini, iflas İdaresi tarafından Sivas 2.
 
 …
@@ -81,6 +89,8 @@ Davacı vekili istinaf nedenleri olarak, istinaf talebinde bulunan İflas İdare
 Maddesine göre işin (malzeme+işçilik) fiyatının 300.000,00-TL + KDV olduğu, sözleşmenin 5.maddesinde bu işle ilgili ödemenin işveren tarafından yapılmakta olan İzmir Konak'da bulunan kat karşılığı inşaattan B Blok 3 kat 8 nolu daire ile, yine İşveren tarafından Antalya’da yapılacak olan kat karşılığı inşaattan 1 daire( yeri, kat nosu ve daire nosu daha sonra belirlenecektir) olarak ödeneceğinin belirtildiği, 18.06.2007 tarihli sözleşmenin, işverenin taahhüdü altında bulunan Sivas Gök Medrese 2006-2007 yılı metrajda belirtilen çini onarımı işlerini kapsadığı, sözleşmenin 4. Maddesine göre işin (malzeme+işçilik) fiyatının 215.797,00-TL+KDV olarak belirlendiği, 10.10.2008 tarihli sözleşmenin, işverenin taahhüdü altında bulunan Sivas Gök Medrese 2006-2008 yılı onarım işlerinde taş ve mermer temizlik işlerini kapsadığı, sözleşmenin 4. Maddesine göre işin (malzeme+işçilik) fiyatının 100.000,00-TL+KDV olarak belirlendiği, müflis şirketin iş bedeli olarak daire verildiği yönünde bir iddiasının bulunmadığı anlaşılmaktadır.Davacı tarafından yaptırılan Sivas 2 Sulh Hukuk Mahkemesinin 2009/75 D. İş sayılı tespit dosyasına sunulan 06.08.2009 tarihli bilirkişi heyet raporunda;
 
 ## İstanbul BAM 15. HD 2022/551 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/749098800)
 
 Dava, eser sözleşmesi niteliğindeki imalat sözleşmesinden kaynaklanan yüklenici tarafından taşerona karşı eksik iş bedeli ve bu nedenle yapılan masrafın tahsili için yapılan icra takibine vaki itirazın iptali, takibin devamı ve icra inkar tazminatı talebine ilişkin olup, mahkemece davanın reddine dair verilen karara karşı davacı tarafça istinaf talebinde bulunulmuştur.
 
@@ -101,6 +111,8 @@ HÜKÜM: Gerekçesi yukarıda açıklandığı üzere; 1-Davacı vekilinin istin
 
 ## İstanbul BAM 15. HD 2021/2288 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/712260500)
+
 Yukarıda açıklandığı üzere, sözleşmenin 4. maddesi uyarınca davalı-birleşen davacı iş sahipleri, öncelikli edimleri olan, devretmeyi taahhüt ettikleri daireyi davacı-birleşen davalı yükleniciye süresinde devretmediklerinden, yüklenicinin teslim borcunu zamanında yerine getirmemesi sebebiyle borçlu temerrüdü hükümlerinden yararlanamayacak ve bu sebeple talepte bulunamayacaklarından, birleşen davadaki, dairelerin satış fiyatlarındaki davalının gecikmesinden kaynaklı oluştuğu iddia edilen zarar talebinin reddine karar verilmiş olması yerinde görülmüştür. Birleşen davada talep edilen, davacı-birleşen davalı çalışanları için ödendiği iddia edilen 8.000,00-TL SSK primi talebinin reddine karar verilmesine ilişkin olarak, kaldırma kararımız sonrasında verilen yeni karara ilişkin sunulan istinaf dilekçelerinde bir istinaf itirazı bulunmamaktadır. 22/11/2016 tarihli bilirkişi heyeti raporunda ve yapılan itirazlar üzerine alınan 11/09/2017 tarihli 2.
 Ek raporda yapılan açıklama ve tespitler göz önünde bulundurulduğunda, davacı-birleşen davacının eksik fatura düzenlemesinden dolayı davalı-birleşen davacının 7.092,00-TL KDV zararı oluştuğu anlaşıldığından, birleşen davada buna dair talep edilen 7.000,00-TL tazminatın kabulüne karar verilmiş olması yerinde görülmüştür. Taraflar arasında düzenlenen sözleşmede imalâtın bedeli 510.000,00 TL + KDV olarak kararlaştırılmıştır. Bu haliyle sözleşmedeki bedel sözleşme tarihi itibariyle yürürlükte olan 818 sayılı BK'nın 365. maddesinde (6098 sayılı TBK’nın 480.) tanımlanan götürü bedeldir. Götürü bedelli işlerde, yüklenicinin hak ettiği iş bedelinin saptanması yada iş sahibinin ödemesinin fazla olup olmadığının belirlenmesi için gerçekleştirilen imalâtın eksik ve kusurlar da dikkate alınarak tüm işe oranının tespiti, bulunacak bu oranın toplam iş bedeline uygulanarak hak edilen bedelin saptanması ve bulunacak bu rakamdan kanıtlanan ödemeler düşülerek hesaplanması gerekmektedir.
 
@@ -110,6 +122,8 @@ HÜKÜM: Gerekçesi yukarıda açıklandığı üzere;1-Taraf vekillerinin asıl
 
 ## İstanbul BAM 3. HD 2021/1840 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/663398600)
+
 Noterliği'nden keşide ettikleri 11/01/2021 tarih ve ... yevmiye nolu ihtarname ile reddettiklerini ve bu alacağa dayalı haksız takibe itiraz ettiklerini, Taraflar arasında akdedilen Emanet Usulü İnşaat Yapımı Taahhüt Sözleşmesi'nin "Sözleşmenin Konusu" başlıklı 2. Maddesinin; "İşverenin maliki bulunduğu tapunun İstanbul ili, ... ilçesi, ... Mahallesi, ... Ada, ... nolu parse- linde kain 51.156,02 m2 alanlı arsa üzerinde işverenin uygun göreceği proje uyarınca tüm giderleri yüklenici tarafından karşılanmak üzere tarafların mutabakatına uygun olarak hazırlanacak projesindeki daire ve dükkanlardan müteşekkil bina ve tüm sosyal alanlarının, donatı alanlarının, peyzaj düzenlemesi v.b. tüm ameliyelerin anahtar teslim esasına göre Teknik Şartnamede belirtilen vasıflara uygun olarak emanet usulü ile imalatını içermektedir. Yüklenici öngörüsüne göre; parsel üzerinde yapılacak inşaatın satılabilir brüt alanı 75.000 m2 civarındadır.Bu baptan olmak üzere sözleşme eki Teknik Şartname doğrultusunda aşağıdaki iş ve işlemler YÜKLENİCİ tarafından yapılacaktır.
 Buna göre; - Parsellerin tevhidinin yapılması, gerekli jeoteknik etüd raporu, plan ve projelerin hazırlanması, ilgili belediye ve idarelerden onaylarının ve her türlü ruhsatlarının alınması ile onaylı projelerine göre bağımsız bölümler, sosyal donatı yapıları ile açık ve kapalı otopark inşaatlarının; arsa içi ve dışı her türlü teknik alt yapısı, çevre tanzimi ve peyzaj işlerinin yapılması,- Satılacak konutların inşaat ruhsatlarının alınması, …
 
@@ -117,6 +131,8 @@ Buna göre; - Parsellerin tevhidinin yapılması, gerekli jeoteknik etüd raporu
 Ancak yükleniciye daire satışlarına bağlı olarak ödeme yapılacağından, dairelerin pazarlanması ve satışları konusunda işveren ile birlikte hareket etmek, azami gayreti göstermek zorundadır.8.2. Yüklenici, inşaat için gerekli olan her türlü malzeme ve ekipmanı kendi imkânları ile tedarik ederek ve işçi çalıştırarak inşaat yapımını sürdürecek olup malzeme ve işçilik giderleri karşılığında satış bedelinin % 52’sine (KDV dâhil) isabet eden miktarını işveren adına fatura edecektir. Bu şekilde oluşan bedel yükleniciye fatura karşılığı nakden ödenecektir:Yüklenici hak ediş bedelleri daireler satıldıkça ve yapılacak tahsilâtlardan ödenecek olup, ödenecek tutarlar üzerinden işveren tarafından % 3 oranında Gelir Vergisi kesintisi yapılacaktır. 8.3. Yüklenici, satışların yetersiz olduğunu ileri sürerek inşaatı durduramaz, kendi kaynakları ile işi kesintisiz olarak devam ettirmek zorundadır." düzenlemesini içerdiğini,Bu madde kapsamında davacı tarafa sözleşmenin 2.
 
 ## İstanbul BAM 17. HD 2021/157 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/627399700)
 
 LTD ŞTİ olduğunun görüldüğü, 6306 sayılı Afet Riski Altındaki Alanların Dönüştürülmesi Hakkındaki Kanunun 3.maddesinde, riskli yapıların tespitinin bakanlıkça hazırlanacak yönetmelikte belirlenen usul ve esaslar çerçevesinde masrafları kendilerine ait olmak üzere öncelikle yapı malikleri veya kanuni temsilcileri tarafından bakanlıkça lisanslandırılan kurum ve kuruluşlara yaptırılır ve sonucun bakanlığa ve idareye bildirilir hükmünün yer aldığı, sonuç olarak taraf defterlerinde herhangi bir kaydın bulunmadığı, Çevre ve Şehircilik İl Müdürlüğü cevabı yazısında 24 parselde yer alan taşınmaza ait riskli yapı tespit raporunun davacı şirket tarafından düzenlendiği, taraflar arasında imzalanmış yazılı bir sözleşmenin varlığına dair bir iddia ve delilin bulunmadığı, KDV dahil 5.900,00 TL hizmet bedelinin neye göre hesaplandığının belli olmadığı, 2013 yılı birim fiyat listesine göre hesaplanan riskli yapı tespit rapor ücretinin KDV dahil 800,00 TL olduğu, mahkeme tarafından T.C.
 Çevre ve Şehircilik Bakanlığı Döner Sermaye İşletme Müdürlüğünce belirlenen 2013 yılı birim fiyat listesine göre hesaplanan ücretin davalıya verilen hizmet bedeli olarak kabul edilmesi halinde davacının takip tarihi itibariyle KDV dahil 1,043,00 TL tutarında davalıdan alacaklı olduğu, işlemiş faiz tutarının yerinde bulunmadığı belirtilmiştir.Davacı vekili rapora karşı beyan dilekçesinde; aleyhe olan hususları kabul etmediklerini, bedel hakkında yapılan tespitlerde hesaplara katılmadıklarını, ek rapor alınmasını talep ettiklerini belirtmiştir.Davalı vekili bilirkişi raporuna karşı beyan dilekçesinde; tüm dilekçelerinde belirmiş oldukları üzere müvekkili şirketin davacı ile hiçbir ticari ilişkisinin bulunmadığını, müvekkili şirketin davaya konu ticari işin sağlanması için dava dışı ... ile anlaştığını, hizmeti de yine aynı kişiden aldığını belirterek, davanın reddini istemiştir.Bilirkişi raporu dosya kapsamına uygun, yeterli ve gerekçelidir.Her iki taraf tacirdir. 6102 sayılı yasanın 18.maddesinde; tacir olmanın hükümleri düzenlenmiş, ikinci fıkrada, her tacirin ticaretine ait bütün faaliyetlerde basiretli bir iş adamı gibi hareket etmesi gerektiği belirtilmiştir.
@@ -127,6 +143,8 @@ HÜKÜM: Gerekçesi yukarıda açıklandığı üzere;1-Davacı vekilinin istina
 
 ## İstanbul BAM 15. HD 2020/1321 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/613662200)
+
 Köyü ... ada ... parsel sayılı kat irtifaklı taşınmazda bulunan B1 Blok 1, 2 ve 11 bağımsız bölüm nolu taşınmazlar ile E blokta 2, 3, 12, 13, 14, 15,16,17 ve 18 bağımsız bölüm nolu taşınmazların tapu kayıtlarının iptali ile davacı adına tapuya tesciline karar verilmiştir.Davalı vekili istinaf dilekçesinde, cevap dilekçesini tekrarla birlikte, ... ve ... abonelik ödemelerinden bahsetmiş, elektrik aboneliğine ve ipoteklerin kaldırılmamasına ilişkin ödemezlik def'inden bahsetmemiş, yerel mahkeme kararının kaldırılmasına karar verilmesini istemiştir. Dava, kat karşılığı inşaat sözleşmesinden kaynaklı olarak, sonradan meydana gelen imar artışı nedeniyle, artan daire sayısında davacı arsa sahibinin payına düşenlerin tapusunun iptali ve davacı adına tescili talebine ilişkindir.
 Davalı tarafça, imar artışı nedeniyle yeni bağımsız bölümlerin meydana geldiği iddiasına ve hükümde davacı tarafa verilen bağımsız bölümlere ilişkin olarak bir itirazda bulunulmamış, davacının bir takım yükümlülüklerini yerine getirmediğinden payına düşen bu bağımsız bölümleri ödemezlik def'i kapsamında devirden kaçındığını belirtmiştir.Davalı vekilini istinaf dilekçesine konu ettiği ödemezlik def'ileri değerlendirildiğinde; taraflar arasında imzalanan Bakırköy .... Noterliği'nin 30/09/2010 tarih ve ... yevmiye sayılı düzenleme şeklinde gayrimenkul satış vaadi ve kat karşılığı inşaat sözleşmesinin 9. maddesinde, arsa üzerine dökülmüş hafriyat toprağının davacı şirkete arsanın satışını yapan ... A.Ş. tarafından kaldırılacağı, kaldırmaması halinde mevcut toprağı yüklenicinin taşıttıracağı ve buna ilişkin masrafları ... A.Ş.'den talep edeceği, davacı arsa sahibi şirketin .... A.Ş. ile yapmış olduğu protokolün hafriyat toprağının kaldırılması işi hakkındaki maddesinin takibini yükleniciye devrettiği, belirtilmiştir.
 Buna göre davalı yüklenicinin hafriyat kaldırma işinden davacının sorumlu olduğuna ilişkin ödemezlik def'i yerinde değildir.Aynı sözleşmenin 5. maddesinin 1. bendindeki, sözleşmeye konu inşaatın yapımı ile ilgili bütün masrafların (malzeme, işçilik vs. tüm giderler) yüklenici tarafından karşılanacağı;
@@ -135,6 +153,8 @@ Buna göre davalı yüklenicinin hafriyat kaldırma işinden davacının sorumlu
 Tüm bu hususlar bir arada değerlendirildiğinde, davalının ödemezlik def'inin yerinde olmadığı sonucuna varıldığından mahkemece davanın kabulüne dair verilen karar yerinde olmuştur.
 
 ## İstanbul BAM 15. HD 2019/150 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/471701200)
 
 Dava, eksik ödendiği ileri sürülen şerefiye bedelinin tahsili istemine ilişkindir.
 

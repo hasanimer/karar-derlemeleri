@@ -22,6 +22,8 @@ uyari: "Derleyenin seçtiği alıntılardır; kararın tamamı değildir. Künye
 
 ## Denizli BAM 4. HD 2026/21 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1187013600)
+
 Somut olayda; dosya kapsamında taraflar arasındaki adi ortaklık ilişkisine dair yazılı bir sözleşme ibraz edilmediği; davacının adi ortaklıktan kaynaklı alacağını icra yolu ile talebi ve itiraz üzerine itirazın iptali davası açmasının fesih iradesi olarak değerlendirildiği ve re'sen tasfiye memuru atanmasına karar verildiği, Yerel Mahkemenin bu yöndeki değerlendirmesinde isabetsizlik bulunmadığı; mahkemece tasfiye için tarafların mutabık olarak bir tasfiye memuru bildirmemeleri üzerine resen bir tasfiye memuru atandığı, tasfiye memuru tarafından 4 adet ara rapor, 1 adet de nihai rapor sunulduğu; fakat tasfiye memurunca yapılan işlerin ve sunulan nihai raporun uyuşmazlığı çözecek nitelikte olmadığı, tasfiye memurunca sunulan 23/09/2024 tarihli nihai raporda taraflar arasındaki alacak-borç durumlarının net olarak bilirkişilerce tespit edilememiş olması ve her iki dosya içeriğinin çok yoğun ve karmaşık olmasından dolayı adi ortaklığın tasfiye işlemlerinin sonuçlandırılamadığının belirtildiği anlaşılmaktadır.
 
 O halde, mahkemece öncelikle, 23/09/2024 tarihli tasfiye memuru raporunun sonuç kısmında belirtilen hususlarda çerçevenin çizilmesi için taraflar arasındaki adi ortaklığın sınırları ve şartlarına, taraflar arasındaki ortaklığa konu edilen ihale ve işlerin nelerden ibaret olduğuna ve hangi kurumlar ile yapıldığına, hangi işteki tahsilatın hangi ortak tarafından yapıldığına, ortakların yaptıkları işten elde edilen kazançtan hangi oranda pay alacağına, ortakların her bir işteki katkısının çeşidi ve miktarına ilişkin HMK 31. Maddesi anlamında taraflara, açıklama yapılması ve varsa delillerini sunmaları imkanı verilerek;
@@ -30,6 +32,8 @@ Taraflar arasındaki ortaklığa konu edilen ihale ve işlerin tespit edildikten
 işleminin (TMK'nın 634. vd. maddelerinde düzenlenen resmi tasfiye işlemi kıyasen uygulanmak suretiyle) gerçekleştirilmesi, bu mallar mevcut değilse değerlerinin bilirkişi marifetiyle tespiti, üçüncü ve son aşamada ise; yukarıdaki işlemler sonucu oluşan değerden, öncelikle ortaklığın borçlarının ödenmesi ve ortaklardan her birinin, ortaklığa verdiği avanslar ile ortaklık için yaptığı giderler ve katılım payının geri verilmesi, bundan sonra bir şey artarsa, bu kazanç veya (ortaklığın, borçlar, giderler ve avanslar ödendikten sonra kalan varlığı, ortakların koydukları katılım paylarının geri verilmesine yetmezse) zarar da belirlenerek ortaklara paylaştırılmak üzere son bilançonun düzenlenmesi, hasıl olacak sonuç dairesinde karar tesisi gerekirken, yazılı şekilde karar tesisi isabetsiz olmuştur.
 
 ## İstanbul BAM 14. HD 2025/2078 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1188090400)
 
 Her iki dosyadaki davaların farklı hukuki nedenlerle zarardan sorumlu oldukları, kusur oranının rücu ilişkisinde önemli olduğu, bu davada davalılar arasındaki rücu ilişkisinin değerlendirilmesine gerek olmadığı anlaşılmaktadır.Mahkemece alınan bilirkişi raporu, yapılan tespit ve değerlendirmeler, dosya kapsamındaki belgeler ve fotoğraflar eksper raporuyla örtüşmektedir. İtiraz üzerine alınan 21.06.2021 tarihli ek kurul raporunda da tarafların itirazları denetime elverişli ve ayrıntılı şekilde değerlendirilmiştir. Mahkemece HMK'nın 282. maddesi uyarınca bilirkişi raporu diğer deliller ile birlikte serbestçe değerlendirilerek ve dosya kapsamına uygun gerekçe oluşturularak karar verilmiştir. Her ne kadar görevsiz mahkemede yapılan işlemlerin sonradan tekrarlanmadığı ileri sürülerek istinaf başvurusunda bulunulmuş ise de davanın açıldığı Gaziosmanpaşa 5.
 Asliye Hukuk Mahkemesince 05.09.2019 tarihinde görevsizlik kararı verildiği, bu tarihe kadar sadece dilekçelerin teatisi aşamasının tamamlandığı, bunun dışında tekrarlanması gereken bir usul işlemi yapılmadığı, birleşen dava yönünden dilekçelerin teatisi aşamasının ayrıca yapıldığı ve her iki dosya bakımından deliller ortaklaşa toplanarak hasar dosyasının istendiği ve bilirkişi raporunun alındığı görülmüştür. İlk derece mahkemesince oluşturulan hükmün infazı kabildir. Asıl dava bakımından birden fazla takip borçlusu bulunması nedeniyle asıl davanın hüküm fıkrasında hangi takip borçlusunun borçlu olduğunun ayrıca vurgulandığı görülmüştür. Birleşen dava bakımından ise adi ortaklığın ortağı olan tüm borçluların birlikte ve müteselsilen borçtan sorumlu olmaları karşısında birleşen dava bakımından her bir borçlunun adının yeniden zikredilmesine gerek bulunmamaktadır.Takip talebinde talep edilen faiz oranı gösterilmiş olup, davalılarca faiz oranına veya 3095 sayılı Kanun'un 4/a maddesinin uygulanmasına ilişkin açık bir istinaf başvurusu ileri sürülmemiştir.
@@ -40,9 +44,13 @@ AŞ vekilinin, icra inkâr tazminatına ilişkin istinaf başvurusunun değerlen
 
 ## Denizli BAM 4. HD 2025/2069 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1184180700)
+
 Bu durumda yerel mahkemece adi ortaklık ilişkisinin var olduğu kabul edilerek adi ortağın tek başına dava açamayacağı gerekçesi ile aktif husumet yokluğundan reddedilen iş bu davada, davacı ... ile dava dışı .... arasında adi ortaklık ilişkisinin bulunup bulunmadığı bir ön sorun olarak görülerek, ....Asliye Hukuk Mahkemesinin (Asliye Ticaret Mahkemesi Sıfatı İle) derdest olan .... Esas sayılı dava dosyası ile iş bu dosyanın aralarında fiili ve hukuki irtibat bulunması ve aynı sözleşmeden kaynaklanması nedeni ile birleştirilmesi ve iddia edilen adi ortaklık hususunun ve buna bağlı olarak davacının aktif husumet ehliyetinin bulunup bulunmadığı hususunun her iki dava dosyası incelenerek irdelenmesi gerekir iken, yazılı şekilde karar verilmesi isabetsiz olmuştur.
 
 ## İstanbul BAM 13. HD 2025/1670 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1180279900)
 
 Dava; davacı tarafından davalıya verilen dava konusu çekler ve nakit paradan dolayı davacının davalıya borçlu olmadığının tespitine ve ödenen bedelin istirdadına karar verilmesi talebine ilişkindir.
 
@@ -53,12 +61,16 @@ Dosya arasında bulunan 28/06/2019 tarihli ve 01/07/2019 tarihli Protokoller dik
 
 ## İstanbul BAM 17. HD 2025/1307 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1180650300)
+
 Şti.'de olabileceğinin söylenmesi üzerine bu şirketin yetkilisi ... ile iletişime geçilerek e-mail ile iş ortaklığının ticari defter ve kayıtlarının istendiği, e-mail cevabında ise iş ortaklığına ait sadece envanter Defterinin 2014-2015 yılı noter tasdik kapak sayfalarının olduğunun belirtildiği, bu nedenlerle iş ortaklığına ait ticari defter kayıtlarına ulaşılamadığından takip konusu faturaların kayıtlı olup olmadığının incelenemediği bildirilmiştir.Dosya kapsamında yer alan davacı şirket ile davalı ... ... Konut A.Ş. (Eski ünvanı: ... Elekt. Cih. Dağ. Nak. İnş. Tic. ve San. Ltd. Şti.) ve ... Yapı Sis. San. ve Tic. Ltd. Şti. iş ortaklığı arasında akdedilen iş sağlığı ve güvenliği hizmetleri sözleşmesi uyarınca davacı verdiği hizmete karşılık dava konusu icra takibinin dayanağı olan her biri 3.068,00 TL bedelli, 2015 yılı Ağustos, Eylül, Ekim aylarına ilişkin 3 adet faturayı düzenlediğini ileri sürmüş olup davalı ise fatura konusu hizmetleri almadığını savunmuştur.Sözleşmede ... ... Konut A.Ş. (Eski ünvanı: ... Elekt. Cih. Dağ. Nak. İnş. Tic. ve San. Ltd. Şti.) ve ... Yapı Sis. San. ve Tic. Ltd. Şti. iş ortaklığı kaşesi üzerine tek imza atıldığı görülmüştür.
 Dairemizce davalı vekiline çıkarılan muhtıra ile, iş ortaklığına ait adi ortaklık sözleşmesinin bulunup bulunmadığı hususunda açıklama yapılması, var ise gönderilmesi için süre verilmiştir. Davalı vekili 09/10/2025 tarihli beyan dilekçesi ile, müvekkilinin elinde böyle bir sözleşmenin olmadığını, iş ortaklığının yönetiminin tamamiyle dava dışı ... Yapı Sis. San. ve Tic. Ltd. Şti.'ye ait olduğunu ve iş ortaklığına ait işlerin bu şirket tarafından yürütüldüğünü belirtmiştir.Somut olayda, iş ortaklığının idaresi ve temsili bakımından ortakların tek yada birlikte yahut başka şekilde hareket etmesi gerektiğine yönelik dosya kapsamında bir delil bulunmamaktadır. Sözleşme iş ortaklığı kaşesi üzerine atılan tek imza ile imzalanmış olup iş ortaklığının, ortakların tek başına atacağı imzalarıyla borç altına sokulabileceği hususu sabit olmadığından sözleşmenin iş ortaklığını bağlamayacağının kabulü gerekir.
 
 Öte yandan imzaya yönelik ayrıca ve açıkça itiraz etmediğinden sözleşmenin davalı yönünden geçerli olduğu kabul edilse bile davalının incelenen ve usulüne uygun tutulan ticari defterlerinde davacı adına herhangi bir kaydın olmadığı, fatura konusu hizmetin sunulduğunun mevcut delil durumu ve dosya kapsamı ile ispatlanamadığı nazara alındığında Mahkemece davanın reddine karar verilmesinde bir isabetsizlik bulunmayıp davacı vekilinin istinaf başvurusu yerinde görülmemiştir.Açıklanan nedenler ile ilk derece mahkemesinin kararında hukuka aykırılık görülmediğinden, davacı vekilinin istinaf başvurusunun HMK'nun 353/1-b.1 bendi gereğince esastan reddine karar verilmesine dair aşağıdaki hüküm kurulmuştur.
 
 ## İstanbul BAM 45. HD 2025/1227 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1182816400)
 
 Dava, hizmet sözleşmesinden kaynaklanan alacak istemine ilişkindir.
 
@@ -70,6 +82,8 @@ Yani sabit bedel veya hahediş bedeli hangisi yüksek ise o geçerli orur, düş
 vekilinin istinaf başvurusunun 6100 sayılı Kanun'un 353 üncü maddesinin birinci fıkrasının (b) bendinin (1) numaralı alt bendi uyarınca esastan reddine karar vermek gerekmiştir.İhbar olunan bbbve Eğitim Hizmetleri İnşaat A.Ş. vekilinin istinaf talebi değerlendirildiğinde ise; 6100 sayılı HMK'nun 61. maddesinde davanın ihbarı düzenlenmiş olup, davanın ihbarı, ihbar olunanı davanın tarafı haline getirmeyecektir. İhbar olunan şirketin dosyada taraf sıfatı bulunmamaktadır. Bu durumda davada taraf sıfatı olmayan, hakkında hüküm kurulmayan ihbar olunanın istinaf hakkı bulunmadığı için istinaf dilekçesinin HMK'nın 352/1.ç maddesi uyarınca usulden reddine dair aşağıdaki şekilde karar verilmiştir.
 
 ## Ankara BAM 27. HD 2025/1211 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1182424300)
 
 Dava, eser sözleşmesinden kaynaklı bakiye hakediş alacağı ile sözleşmenin haksız feshedildiği iddiasına dayalı kar kaybı alacağının tahsili istemine ilişkindir.
 
@@ -83,6 +97,8 @@ Taraflar arasında 03.12.2016 tarihli "Hastane, Şeyhli ve Kurtköy İstasyonlar
 
 ## İzmir BAM 11. HD 2025/788 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1143866100)
+
 Dava, limited şirket hisse devir sözleşmesinden kaynaklı payın devrinin şirket kayıtlarına işlenmesi istemine ilişkin olup, ilk derece mahkemesince yukarıda yazılı gerekçeyle davalı ortak ve temsilcisi aleyhine açılan davanın pasif husumet yokluğu nedeniyle usulden reddine, davalı şirket aleyhine açılan davanın kabulüne, karar verilmiştir.
 
 …
@@ -92,6 +108,8 @@ Toplanan tüm deliller ile hukuki ve maddi vakıalar karşısında; ilk derece m
 devre onayının olmadığını bildirmesinin tek başına sonuç doğurmayacak olmasına, onayın TTK m. 616/1-9 uyarınca genel kurulun devredilemez yetkileri arasında bulunmasına, 3 aylık sürenin geçmesiyle zımmen onay verilmiş ve paylar devralana geçmiş sayılacak olmasına, bu çerçevede davalı tarafın tescilden kaçınmakta haklı olmadığının anlaşılmasına, mahkemece tescili emreder nitelikte karar vermesine ( Yargıtay 11. HD'nin 30.03.2022 tarih ve 2021/428 E. 2022/2613 K.), tarafların iddia ve savunmaları ile dayandıkları belgelere, uyuşmazlığa uygulanması gereken hukuk kuralları ile hukuki ilişkinin doğru nitelendirilmesine, hükmün dairemizce de benimsenmiş bulunan yasal ve hukuksal gerekçeleriyle dayanağı maddî delillere ve özellikle bu delillerin takdirinde bir isabetsizlik görülmemesine göre, ilk derece mahkemesince verilen kararda bir hukuka aykırılık bulunmamakla, istinaf itirazları yerinde değildir.
 
 ## İstanbul BAM 15. HD 2025/777 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1159327400)
 
 Dava; taraflar arasında düzenlenen eser sözleşmesinden kaynaklanan asıl davada alacak , birleşen davada itirazın iptali talebine ilişkin olup; mahkemece asıl davanın kabulü ve birleşen davanın reddine dair verilen karara taraf vekillerince istinaf talebinde bulunulmuştur.
 
@@ -105,11 +123,15 @@ köprü, hafriyat, taş işleri, üst yapı işlerini yapmak üzere davalılarla
 
 ## İstanbul BAM 53. HD 2025/704 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1158421700)
+
 Dosya kapsamı ve özellikle avukat ... ile avukat ...’a verilen, 27.07.2017 tarihli Eyüp ... Noterliği’nin ... yevmiye numaralı vekâletnamesi birlikte değerlendirildiğinde, dava konusu sözleşmeyi imzalayan davacı iş ortaklığı ile bu adi ortaklığı oluşturan şirketlerin aynı olduğu, dolayısıyla taraf ve temsilde herhangi bir yanılma bulunmadığı, dosyada aksini gösteren herhangi bir bilgi veya belgeye de rastlanmadığı anlaşılmaktadır.
 Bu itibarla, davalı vekilinin bu hususa ilişkin istinaf itirazları yerinde görülmemiştir.Tüm bu açıklamalar doğrultusunda, mahkemece yapılması gereken işlem; son alınan ek rapor ile aynı heyetten alınan çoğunluk görüşüne dayalı kök rapor arasında çelişki bulunması, ayrıca her iki bilirkişi raporunun da hüküm kurmaya ve yargısal denetime elverişli nitelikte olmaması hususları da dikkate alınarak, dosyada konusunda uzman yeni bir bilirkişi heyeti oluşturulması ile gerek görülmesi halinde, keşif de yapılmak suretiyle mahallinde inceleme yapılarak, davalı yüklenici ile diğer davalı TOKİ arasında düzenlenen ihaleye ilişkin tüm ihale dosyası evrakları celbedilerek dosyaya kazandırılması ile davalı tarafça dosyaya sunulan 15.01.2020 tarihli uzman görüşü de değerlendirilip, yukarıda ayrıntılı olarak açıklanan hususlar çerçevesinde teknik ve hukuki açıdan kapsamlı bir değerlendirme yapılmalı ve denetime açık, hüküm kurmaya elverişli bir bilirkişi raporu alınmalıdır.Bu çerçevede yapılacak değerlendirme sonucuna göre hüküm kurulması gerekirken, eksik inceleme ile karar verilmiş olması usul ve yasaya aykırı bulunduğundan, ilk derece mahkemesi kararının kaldırılmasına karar verilmesi
 gerekmiştir.Açıklanan nedenlerle, taraf vekillerinin istinaf taleplerinin kabulü ile usul ve yasaya uygun bulunmayan yerel mahkeme kararının 6100 sayılı HMK'nın 353/1-a-6 maddesi gereğince kaldırılarak yukarıda açıklanan şekilde inceleme ve araştırma yapıldıktan sonra oluşacak uygun sonuç dairesinde bir karar verilmesi için dosyanın yerel mahkemesine gönderilmesine karar verilmesi gerekmiştir.
 
 ## İstanbul BAM 15. HD 2025/472 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1145714400)
 
 Yansıtma faturanın kabulü ile davanın reddi gerektiğini , yetki hususunda eksik inceleme yapıldığını , öncelikle icra dairesinin yetkisi araştırılmalı sonra esasa girilmesi gerektiğini , yetkisiz icra müdürlüğünde takip yapılmışsa itirazın iptali davası açılamayacağından davanın reddine karar verilmesi gerektiğini , davacı ile müvekkili şirketler arasında bağ ve münasebet bulunmadığını , davanın dava dışı ... Ortaklığına yöneltilmesi gerektiğini , müvekkillerine husumet yöneltilemeyeceğini ,davacının kaza nedeniyle vermiş olduğu zarar göz önüne alındığında talep edebileceği bir alacağının olmadığını ,alacağın likit bir alacak niteliğine haiz olmadığını , icra inkar tazminatının reddine karar verilmesi gerektiğini belirterek yerel mahkemenin kararının kaldırılmasına karar verilmesini talep etmiştir.Taraflar arasındaki uyuşmazlık Türk Borçlar Kanunun 470 ve devamı maddelerinde düzenlenen eser sözleşmesinden kaynaklanan itiraz davası olup , davacı taşeron , davalılar ise yüklenici olan dava dışı adi ortaklığın ortaklarıdır.
 Davacı taşeron vekili dava dilekçesinde Marmara Otoyolu ile ilgili olarak15.06.2019 tarihli Kesim 1 Toprak İşleri taşeronluk sözleşmesinin dava dışı ...Adi Ortaklığı ile imzaladığını , ortaklarının mesul olduğunu bu sebeple onlara dava açıldığını , cari hesaptan kaynaklı faturaya dayalı 149.778,14 TL. asıl alacağı için icra takibi yaptığını , davalı tarafından yapılan itirazın iptalini talep etmiştir. Davalı vekili husumet itirazı yaparak , dava dışı ... Adi Ortaklığına dava açılması gerektiğini ,ayrıca davacının şoförü kamyonla kaza yaparak müvekkillerine zarar verdiğini , kaza sebebiyle yenileme çalışması yaparak müvekkillerinin zarara uğradığını belirterek davanın reddini talep etmiştir. Yerel mahkeme taraf defterlerine göre davacının , davalıdan 149.778,14 TL alacaklı olduğunun tespit edildiğini , davalının delilleri zamanında sunmadığını belirterek davalının zarar iddiasını ispatlayamadığını belirterek davanın 149.778,14 TL. üzerinden kabulüne karar vermiştir.Taraflar arasındaki sözleşmenin 31.

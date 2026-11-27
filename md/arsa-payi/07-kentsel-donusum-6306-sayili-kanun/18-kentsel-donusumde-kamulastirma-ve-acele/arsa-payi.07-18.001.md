@@ -88,6 +88,8 @@ TOKİ'nin kamulaştırma yetkisinin bulunduğu ve kanundaki usullere uygun olmak
 
 ## Danıştay İDDK 2025/3186 E., 2025/3127 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1203393500)
+
 2942 sayılı Kamulaştırma Kanunu'nun 27. maddesinde; 3634 sayılı Milli Müdafaa Mükellefiyeti Kanunu'nun uygulanmasında yurt savunması ihtiyacına veya aceleliğine Cumhurbaşkanınca karar alınacak hallerde veya özel kanunlarla öngörülen olağanüstü durumlarda gerekli olan taşınmaz malların kamulaştırılmasında kıymet takdiri dışındaki işlemler sonradan tamamlanmak üzere ilgili idarenin istemi ile mahkemece, yedi gün içinde o taşınmaz malın 10. madde esasları dairesinde ve 15. madde uyarınca seçilecek bilirkişilerce tespit edilecek değeri, idare tarafından mal sahibi adına 10. maddeye göre yapılacak davetiye ve ilanda belirtilen bankaya yatırılarak o taşınmaz mala el konulabileceği, bu Kanun'un 3. maddesinin ikinci fıkrasında belirtilen hallerde yapılacak kamulaştırmalarda yatırılacak miktarın, ödenecek ilk taksit bedeli olduğu düzenlemesine yer verilmiştir.
 
 …
@@ -95,6 +97,8 @@ TOKİ'nin kamulaştırma yetkisinin bulunduğu ve kanundaki usullere uygun olmak
 Bu durumda, dava konusu işlemde hukuka aykırılık, işlemin uyuşmazlığa konu taşınmaz yönünden iptali yolundaki Daire kararında ise hukuki isabet bulunmadığından, davalı idarelerin temyiz istemlerinin kabulü ile Daire kararının bozulması ve davanın reddine karar verilmesi gerektiği oyuyla …
 
 ## Danıştay İDDK 2025/424 E., 2025/1728 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1184100600)
 
 Acele kamulaştırma usulü, olağan kamulaştırmada malik lehine getirilen usule ilişkin güvenceleri bertaraf etmemekte; yalnızca bu usullerin işletilmesinden önce idareye, kamulaştırılacak taşınmaza el koyma imkânı tanımaktadır. Taşınmaza el konulduktan sonra idare tarafından öncelikle satın alma yolunun işletilmesi, bunun mümkün olamaması durumunda ise Asliye Hukuk Mahkemesinde bedel tespiti ve tescil davası açılması gerekmektedir. Kamulaştırılmasına karar verilen taşınmaza acele olarak ihtiyaç duyulması halinde, 2942 sayılı Kanun'un 27. maddesi uyarınca kamulaştırma acele usulle yapılmaktadır.
 
@@ -119,6 +123,8 @@ Açıklanan nedenlerle, davacıların temyiz istemlerinin kabulü ile Daire kara
 
 ## Danıştay İDDK 2024/1970 E., 2024/2727 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1130121900)
+
 2942 sayılı Kamulaştırma Kanunu'nun 3. maddesinin 1. fıkrasında; idarelerin kanunlarla yapmak yükümlülüğünde bulundukları kamu hizmetlerinin veya teşebbüslerinin yürütülmesi için gerekli olan taşınmaz malları, kaynakları ve irtifak haklarını, bedellerini ödemek suretiyle kamulaştırabileceği düzenlenmiş; 5. maddesi ile kamulaştırma yapılabilmesi kamu yararı kararı alınması şartına bağlanmış; 5. maddede düzenlenen mercilerce verilen kamu yararı kararlarının onay mercilerinin düzenlendiği 6. maddesinin son fıkrasında da, onaylı imar planına veya ilgili bakanlıklarca onaylı özel plan ve projesine göre yapılacak hizmetler için kamu yararı kararı alınmasına gerek olmaksızın, yetkili icra organınca kamulaştırma işlemine başlanıldığını gösteren bir kararın alınması yeterli görülmüştür.
 
 …
@@ -127,6 +133,8 @@ Açıklanan nedenlerle, davacıların temyiz istemlerinin kabulü ile Daire kara
 
 ## Danıştay İDDK 2024/598 E., 2024/1957 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1158444200)
+
 DANIŞTAY TETKİK HÂKİMİ ...'UN DÜŞÜNCESİ : Acele kamulaştırma kararının hukuka aykırı bulunarak yargı kararıyla iptal edilmesi nedeniyle hukuka aykırı bulunan işlemin uygulanmasından doğan zararların tazmini gerektiğinden, uyuşmazlığa konu taşınmazın acele kamulaştırma kararına dayanılarak verilen acele el koyma kararı üzerine erken tahliye edilmesi nedeniyle, davacının uğradığı zararların tazmini gerektiği sonucuna varıldığından, davacının temyiz isteminin kabulü ile Daire kararının bozulması gerektiği düşünülmektedir.
 
 …
@@ -134,6 +142,8 @@ DANIŞTAY TETKİK HÂKİMİ ...'UN DÜŞÜNCESİ : Acele kamulaştırma kararın
 Dosyanın incelenmesinden, mülga Bakanlar Kurulu tarafından verilen acele kamulaştırma kararı ve sonrasında ... Asliye Hukuk Mahkemesince verilen acele el koyma kararı üzerine davacının uyuşmazlığa konu taşınmazdan 25/07/2017 tarihinde tahliye edildiği, davalı idare tarafından açılan bedel tespiti ve taşınmazın idare adına tescili istemli davada ... Asliye Hukuk Mahkemesinin ... tarih ve E:..., K:... sayılı kararıyla taşınmazın davalı idare adına tesciline kesin olarak hükmedildiği, bununla beraber, davacı tarafından acele kamulaştırma işleminin iptali istemiyle açılan davada, Danıştay Altıncı Dairesinin 11/12/2017 tarih ve E:2016/13830, K:2017/10498 sayılı kararıyla işlemin iptaline karar verildiği …
 
 ## Danıştay İDDK 2024/452 E., 2024/1026 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1071371700)
 
 2942 sayılı Kamulaştırma Kanunu'nun 6. maddesinin 3. fıkrasında; onaylı imar planına veya ilgili bakanlıklarca onaylı özel plan ve projesine göre yapılacak hizmetler için ayrıca kamu yararı kararı alınmasına ve onaylanmasına gerek olmadığı, bu durumlarda yetkili icra organınca kamulaştırma işlemine başlanıldığını gösteren bir karar alınacağı;
 "Satın alma usulü" başlıklı 8. maddesinde; idarelerin, bu Kanuna göre, tapuda kayıtlı olan taşınmaz mallar hakkında yapacağı kamulaştırmalarda satın alma usulünü öncelikle uygulamalarının esas olduğu, anlaşma olmaması veya ferağ verilmemesi halinde bu Kanunun 10. maddesine göre işlem yapılacağı, "Kamulaştırma bedelinin mahkemece tespiti ve taşınmaz malın idare adına tescili" başlıklı 10. maddesinde de; kamulaştırmanın satın alma usulü ile yapılamaması halinde idarenin, 7. maddeye göre topladığı bilgi ve belgelerle, 8. madde uyarınca yaptırmış olduğu bedel tespiti ve bu husustaki diğer bilgi ve belgeleri bir dilekçeye ekleyerek taşınmaz malın bulunduğu yer asliye hukuk mahkemesine müracaat ederek, taşınmaz malın kamulaştırma bedelinin tespitiyle, bu bedelin, peşin veya kamulaştırma, 3. maddenin ikinci fıkrasına göre yapılmış ise taksitle ödenmesi karşılığında, idare adına tesciline karar verilmesini isteyeceği hükme bağlanmıştır.
@@ -146,6 +156,8 @@ Bu durumda, dava konusu işlemde hukuka aykırılık, işlemin iptali yolundaki 
 
 ## Danıştay VDDK 2023/746 E., 2024/876 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1087696000)
+
 775 sayılı Gecekondu Kanunu'nun 33. maddesinin birinci fıkrasında bu kanun hükümlerine dayanılarak yapılan ivazlı veya ivazsız devir, temlik, kamulaştırma, alım, satım, kira, geri alma, geri verme, ifraz, tevhit, tescil, cins değişikliği, rehin tesis ve terkini, ıslah, değişiklik, onarım, inşa ve ikmal gibi her türlü işlemler, sözleşmeler, beyannameler ve benzerlerinin tasarruf bonosundan ve her türlü vergi, resim ve harçtan muaf olduğu belirtilmiştir.
 
 …
@@ -153,6 +165,8 @@ Bu durumda, dava konusu işlemde hukuka aykırılık, işlemin iptali yolundaki 
 2- ... Bölge İdare Mahkemesi .... Vergi Dava Dairesinin ... tarih ve E:..., K:... sayılı ısrar kararının BOZULMASINA …
 
 ## Danıştay İDDK 2022/3815 E., 2023/137 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/881946300)
 
 Bu açıklamalar çerçevesinde, uyuşmazlıkta, dava konusu edilen riskli alan ilanına ilişkin Bakanlar Kurulu kararı davacıya tebliğ edilmediğinden, bu işleme karşı öğrenme tarihinden itibaren 60 günlük genel dava açma süresi içerisinde dava açılabileceğinin kabulü gerekmektedir.
 
@@ -168,6 +182,8 @@ Davanın süre aşımı nedeniyle reddine ilişkin Danıştay Altıncı Dairesin
 
 ## Danıştay İDDK 2022/2256 E., 2022/2717 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/854142800)
+
 Daha sonra, 06/07/2020 tarihli belediye meclisi kararı ile, yapılaşmaya açılması planlanan alanın 15,38 hektarlık kısmı, dikili tarım arazisi vasfında olduğundan, bu kısım açısından tarım dışı kullanım izni alınmasına yönelik kamu yararı kararı alındığı, ... tarih ve ... sayılı belediye meclisi kararı ile, 5393 sayılı Kanun'un 69. maddesine dayalı olarak, konut üretimi yapılması amacıyla, Çamlıhemşin ilçesi, ...
 Mahallesi, ... ada, ...,...,...,...,...,...,...,...,...,...,...,...,...,...,... ,...,...,...,...,...,...,...,... ve ... parsel sayılı taşınmazların kamulaştırılmasına, bu kapsamda TOKİ ile protokol yapılmasına ve kamulaştırma işlemlerinin Belediye tarafından yürütülmesi için acele kamulaştırma kararı alınmasına yönelik müracaatların yapılması için belediye başkanına yetki verildiği ve bu karar doğrultusunda teknik rapor hazırlandığı, son olarak ... tarih ve ... sayılı Çamlıhemşin Belediye Encümeni kararı ile de, 5393 sayılı Kanun'un 69. maddesi ile Belediyelerin Arsa, Konut ve İşyeri Üretimi, Tahsisi, Kiralaması ve Satışına Dair Genel Yönetmeliğin 5. ve 6. maddelerine istinaden, taşınmazların, imar düzenlemesi yapılarak üretilmek üzere kamulaştırılmasına karar verildiği anlaşılmaktadır.
 
@@ -176,6 +192,8 @@ Mahallesi, ... ada, ...,...,...,...,...,...,...,...,...,...,...,...,...,...,... 
 Bu durumda; gerek doğal sit alanı olan Çamlıhemşin ilçesinin konut, turizm ticaret ve cami ihtiyacının bir bütün halinde karşılanarak şehircilik ve planlama esaslarına uygun düzenli, sağlıklı ve planlı kentleşme ile yapılaşmanın kişilerin sağlıklı ve dengeli bir çevrede yaşama hakları üzerinde olumlu etkileri olduğundan kamu yararının bulunduğu, gerekse henüz yapılaşma bulunmayan davaya konu alanda, projenin bir an önce yapılmasında acelelik halinin olduğu gözetildiğinde, imar planının onaylandığı tarihte dava konusu acele kamulaştırma kararının hukuka uygun hale geldiği ve davaya konu projenin bir an önce yapılmasının kamu yararına olacağı değerlendirildiğinden, temyiz istemlerinin kabulü ile temyize konu kararın iptale ilişkin kısmının bozulmasına ve dava konusu Cumhurbaşkanı Kararının ... ada …
 
 ## Danıştay İDDK 2021/3290 E., 2022/1885 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/810761100)
 
 Davacılar tarafından, hukuki el atma nedeniyle uğranıldığı ileri sürülen zararların tazmini istemiyle, ilk olarak, 31/07/2012 tarihinde, .... Asliye Hukuk Mahkemesinde açılan dava, anılan Mahkemenin ...tarih ve E:..., K:...sayılı kararıyla, idari yargı yerinin görevli olduğu gerekçesiyle usulden reddedilmiştir.
 
@@ -191,11 +209,15 @@ Davanın yukarıda özetlenen gerekçeyle kabulüne ilişkin .... İdare Mahkeme
 
 ## Danıştay İDDK 2021/3808 E., 2022/130 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/739109100)
+
 2942 sayılı Kanun'un 3. maddesinin ikinci fıkrası ile, Cumhurbaşkanınca kabul olunan, büyük enerji ve sulama projeleri ile iskan projelerinin gerçekleştirilmesi, yeni ormanların yetiştirilmesi, kıyıların korunması ve turizm amacıyla yapılacak kamulaştırmalarda, kamulaştırma yöntemi konusunda özel bir düzenleme getirildiğinden, Cumhurbaşkanınca kabul olunan bu tür projelerin gerçekleştirilmesinin, acelelik kapsamında görülmesi gerektiği, …
 
 6306 sayılı Kanun'un, afet riski altındaki alanlar ile bu alanlar dışındaki riskli yapıların bulunduğu arsa ve arazilerde, fen ve sanat norm ve standartlarına uygun, sağlıklı ve güvenli yaşama çevrelerini teşkil etmek üzere iyileştirme, tasfiye ve yenilemelere dair usul ve esasları belirlemek olarak belirtilen genel amacı çerçevesinde, "Rezerv Yapı Alanı"na yönelik ilanların, iskan projesi niteliği taşıdığı açık olduğundan, bu bölgelerde gerçekleştirilecek projelerde, acelelik halinin bulunduğunun kabulü gerektiği, …
 
 ## Danıştay İDDK 2021/3653 E., 2022/129 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/793164500)
 
 Öte yandan, Dairelerinin 16/12/2019 tarih ve E:2019/21497 sayılı ile 06/05/2020 tarih ve E:2019/21497 sayılı ara kararları ile taraflara ve ilgili idarelere, acele kamulaştırılmasına karar verilen söz konusu taşınmazlardan her biri için acelelik durumuna gerekçe teşkil edecek herhangi bir somut nitelikte tespit yapılıp yapılmadığı, dava konusu acele kamulaştırma kararının dayanağı olan 1/1000 ölçekli uygulama imar planı değişikliğine ve millet bahçesi projesine karşı dava açılıp açılmadığı, 2942 sayılı Kanun'un 8. maddesinde öngörülen satın alma usulünün uygulanıp uygulanmadığı, bahse konu alanda kentsel dönüşüm ve gelişim alanı ile riskli alan ilanları yapılıp yapılmadığı, 2942 sayılı Kamulaştırma Kanunu'nun 10. ve 27. maddeleri kapsamında mezkur taşınmaza acele el konulmasına ve kamulaştırılmasına yönelik olarak Asliye Hukuk Mahkemesinde acele el koyma ve bedel tespit ve tescil davaları açılıp açılmadığı hususları sorularak, konuya ilişkin bilgi ve belgelerin istenilmesine karar verildiği, …
 
@@ -204,6 +226,8 @@ Davanın yukarıda özetlenen gerekçeyle kabulüne ilişkin .... İdare Mahkeme
 Açıklanan nedenlerle, davacının temyiz isteminin kabulü ile davanın reddi yolunda verilen temyize konu Daire kararının bozularak, acele kamulaştırmaya ilişkin dava konusu Cumhurbaşkanı Kararının, …ada, …parsel sayılı taşınmaz yönünden iptaline karar verilmesi gerektiği oyuyla …
 
 ## Danıştay İDDK 2021/3927 E., 2022/120 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/785905800)
 
 DANIŞTAY TETKİK HÂKİMİ ...'IN DÜŞÜNCESİ : 6306 sayılı Afet Riski Altındaki Alanların Dönüştürülmesi Hakkında Kanun'un 6. maddesinin ikinci fıkrasında; bu Kanun'a göre gerçekleştirilen uygulamalar kapsamında, idareye verilen özel acele kamulaştırma yetkisinin, idarenin, şartlarının oluşması halinde, 2942 sayılı Kamulaştırma Kanunu'nun 27. maddesi çerçevesinde acele kamulaştırma kararı almasına engel bir düzenleme olarak görülemeyeceği açıktır.
 

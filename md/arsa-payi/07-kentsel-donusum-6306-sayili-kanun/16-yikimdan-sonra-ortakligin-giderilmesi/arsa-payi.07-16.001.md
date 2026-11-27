@@ -36,6 +36,8 @@ Açıklanan nedenlerle, dava konusu 6306 sayılı Kanun’un Uygulama Yönetmeli
 
 ## Danıştay İDDK 2023/1562 E., 2023/2562 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1086902600)
+
 Davacılar tarafından, dava konusu Bakanlar Kurulu kararından ... Sulh Hukuk Mahkemesinin E:... sayılı dosyasında açılan ortaklığın giderilmesi davasındaki 29/06/2021 tarihli duruşmada haberdar olunduğu belirtildiğinden, 29/06/2021 tarihi öğrenme tarihi olarak dikkate alındığında, Bakanlar Kurulu kararına karşı bu tarihten itibaren 6306 sayılı Kanun'un 6/9. maddesinde belirtilen 30 günlük dava açma süresinin son gününün çalışmaya ara vermeye denk gelmesi nedeniyle 07/09/2021 tarihine kadar dava açabilme imkânı olduğundan, dilekçe ret kararı ile sonuçlanan... İdare Mahkemesinin E:... sayılı dosyasında 01/09/2021 tarihinde açılan davada süre aşımı bulunmadığı sonucuna varıldığı, …
 
 …
@@ -43,6 +45,8 @@ Davacılar tarafından, dava konusu Bakanlar Kurulu kararından ... Sulh Hukuk M
 Açıklanan nedenlerle davalı idarelerin temyiz istemlerinin kabulü ile temyize konu kararın bozulması ve davanın reddine karar verilmesi gerektiği oyuyla karara katılmıyorum.
 
 ## Danıştay İDDK 2022/158 E., 2022/1787 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/807386100)
 
 Bununla birlikte, Daire kararında uyuşmazlık konusu düzenlemenin hukuka aykırı olduğu ifade edilirken "... dava konusu Yönetmelik değişikliğinin, dayanağı 6306 sayılı Kanuna aykırı olduğu, yeniden inşa sürecinde geçici bir durum olan re'sen arsa paylı mülkiyetin kurulması aşamasında, genel kanun olan 4721 sayılı Türk Medeni Kanununun 698. maddesi uyarınca -6306 sayılı Kanunun uygulanması ile ortaya çıkan bu geçici durumda- ortaklığın giderilmesi davası açılması imkanı getirilerek maliklere seçimlik hak tanınması ve uygulamada bu yolun sıkça tercih edilme ihtimali dikkate alındığında, sürecin sonraki aşamalarında, diğer malikler aleyhine özel kanun olan 6306 sayılı Kanunun devre dışı bırakılmasına sebep olunacağı gibi, söz konu Yönetmelik değişikliğinin dayanağı olan 6306 sayılı Kanunun bu şekilde bir neticeyi amaçlamadığı açık olduğundan, davaya konu Yönetmelik değişikliğinde hukuka uyarlık bulunmadığı, ..." gerekçesine yer verilerek; dava konusu Yönetmelik değişikliği ile 6306 sayılı Kanun kapsamındaki uygulamalarda taşınmaz maliklerine ortaklığın giderilmesi davası açma konusunda yeni bir imkan tanındığı ve 6306 sayılı Kanun kapsamında uygulama yapılırken ortaklığın giderilmesi
 davası açılmasının mümkün olmadığının belirtildiği görülmektedir.
@@ -55,11 +59,15 @@ Dava konusu işlemin iptaline ilişkin Danıştay Altıncı Dairesinin temyize k
 
 ## Danıştay 4. D. 2024/517 E., 2024/7644 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1140750900)
+
 DAVANIN KONUSU : 6306 sayılı Kanunun Uygulama Yönetmeliği'nin 15. maddesinin 2. fıkrasında yer alan parsellerin tevhit edilmesini de içeren karar alma yeter sayısına ilişkin "paydaşların en az üçte iki çoğunluğu ile karar verilir" kısmının iptali istenilmiştir.
 
 DAVACININ İDDİALARI : Kendisinin de bağımsız bölüm maliki olduğu İstanbul İli, Üsküdar İlçesi, ... Caddesi, ... ada, ... parsel sayılı taşınmazda bulunan bina hakkında riskli yapı kararı verildiği ve binanın yıkımından sonra arsa haline gelen taşınmazın davacının görüşü ve rızası alınmadan komşu 1 parselde bulunan taşınmazla tevhit edildiği, tevhit işlemi ile sahip olunan bağımsız bölümün manzarası ve cephesinin değiştiği, bu nedenle zarara uğranıldığı, tevhit işlemine karşı ... İdare Mahkemesinin E:... sayılı dosyası ile dava açıldığı, tevhit işleminin kat maliklerinin 2/3'ünün onayı ile gerçekleştirildiği, 6306 sayılı Kanunda her ne kadar tevhit kararının 2/3 çoğunlukla alınabileceği öngörülmüş ise de karar alma çoğunluğunun 6306 sayılı Kanunun amacına aykırı bir şekilde ekonomik menfaatlere konu olmasının kabul edilemeyeceği, Yönetmelik hükmü incelendiğinde azınlıkta kalan kişilere hiçbir yetki verilmediği, çoğunluğun belirlediği kişi ile sözleşme yapmayan hissedarların paylarının satılmasına karar verilebileceği, bu durumun azlığın Anayasa ile güvence altına alınan mülkiyet hakkını ihlal ettiği ileri sürülmüştür.
 
 ## Danıştay 6. D. 2022/5211 E., 2022/8551 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/857114400)
 
 İlk Derece Mahkemesi kararının özeti: ... İdare Mahkemesince verilen …
 
@@ -85,6 +93,8 @@ Davanın yukarıda özetlenen gerekçeyle süre aşımı nedeniyle reddine iliş
 
 ## Danıştay 6. D. 2019/17796 E., 2021/11061 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/717084700)
+
 Davacılar tarafından, 6306 kapsamında ilerleyen bir süreçte, maliklerden birine ortaklığın giderilmesi hakkının tanınmasının, Türk Medeni Kanununun 698. maddesinin 3. fıkrasına aykırı olacağı, Anayasa ve Avrupa İnsan Hakları Sözleşmesi ile güvence altına alınan mülkiyet hakkının açık bir ihlali olacağı, Yargıtay ve Bölge Adliye Mahkemelerinin yerleşik içtihatlarıyla kentsel dönüşüm alanında bulunan arsada ortaklığın giderilmesinin istenemeyeceğine hükmedildiği, dava konusu düzenlemenin normlar hiyerarşisine aykırı olduğu ileri sürülmektedir.
 
 …
@@ -103,6 +113,8 @@ Dava konusu Yönetmelik düzenlemesi ile idarenin savunmaları bir arada değerl
 
 ## Danıştay 6. D. 2019/17351 E., 2021/11057 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/718760900)
+
 6306 sayılı Kanunun amacının rant için yatırım değil, depreme dayanıklı yapı inşa edilmesi olduğu, ortaklığın giderilmesi davası açılması hakkı tanınmasının, 6306 sayılı Kanundaki kat maliklerinin mülkiyet hakkının korunmasına dair tüm hükümleri devre dışı bıraktığı, ortaklığın giderilmesinin müteahhitlerce tercih edileceği, 6306 sayılı Kanunun getirdiği yeniden inşaata katılma hakkı uygulamasının fiilen ortadan kalkacağı, 6306 sayılı Kanunun 6. maddesi uyarınca, parsellerin malikleri tarafından değerlendirilmesinin esas olduğu, iptali istenen Yönetmelik maddesi ile özel yasa varken genel yasa uygulanmasının evrensel hukuk ilkelerine ve Hukuk Muhakemeleri Kanununa aykırı olduğu, 6306 sayılı Kanunda ortaklığın giderilmesine dair bir düzenleme bulunmadığı, Yönetmelik hükmünün dürüstlük kuralının açıkça ihlali sonucunu doğuracağı, mülkiyet hakkına sınırlama getirdiği, Anayasa'ya göre bu sınırlamanın ancak kanunla getirilebileceği, Yönetmelik ile ortaklığın giderilmesi davası hakkı verilmesinin Anayasa’ya aykırı olduğu ileri sürülmektedir.
 
 …
@@ -110,6 +122,8 @@ Dava konusu Yönetmelik düzenlemesi ile idarenin savunmaları bir arada değerl
 1\. 21.06.2019 tarih ve 30808 Sayılı Resmi Gazete'de yayımlanarak yürürlüğe giren 6306 Sayılı Kanunun Uygulama Yönetmeliğinde Değişiklik Yapılmasına Dair Yönetmeliğin 10. maddesi ile 15.12.2012 tarihli ve 28498 Sayılı Resmi Gazete'de yayımlanan 6306 Sayılı Kanunun Uygulama Yönetmeliği'nin 15. maddesinin birinci fıkrasının sonuna eklenen “Malikler, riskli yapının yıktırılmasından sonra arsa haline gelen taşınmazda ortaklığın giderilmesi için Türk Medeni Kanunu hükümlerine göre dava açabilirler. Ancak, ortaklığın giderilmesi için dava açılmış olması, Kanun kapsamında hisseleri oranında maliklerin en az üçte iki çoğunluğu ile karar alınmasına ve bu karara göre işlem yapılmasına engel teşkil etmez.” ibaresinin İPTALİNE …
 
 ## Danıştay 14. D. 2016/7694 E., 2017/1078 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/310068300)
 
 İstemin Özeti :...İli, ...
 İlçesi, ... ada ... parsel sayılı taşınmaz üzerinde bulunan binanın 6306 sayılı Kanuna göre 31.10.2012 tarihinde riskli yapı olarak tespit edilerek maliki tarafından yıkılmasından sonra söz konusu parselde yeniden yapım için üçte iki pay çoğunluğunu tek başına elinde bulunduran malik müdahilin tek başına aldığı karara katılmayan davacının taşınmazdaki payının açık artırma usulü ile satışının 01.10.2015 tarihinde gerçekleştirileceğine ilişkin Çevre ve Şehircilik İl Müdürlüğü'nün 10.09.2015 gün ve 66070440/502.03-E.5714 sayılı işleminin iptali istemiyle açılan davada; davacının hisseli maliki olduğu arazideki hissedarlardan yalnızca birine () ait olan yapının riskli yapı kapsamına girdiği ve 6306 sayılı Kanun kapsamında hisse satış sürecinin başlamasında riskli yapı olarak söz konusu yapının esas alındığı, davacının da aralarında bulunduğu arazinin diğer hissedarlarının arazi üzerinde herhangi bir yapılarının bulunmadığı, 6306 sayılı Kanun'un lafzi ve ruhu ile değerlendirilmesi neticesinde; hisseli bir arazide yine hisseli olarak malik olunan bir yapının riskli yapı olarak ilan edilmesi ve yıkılması sonrasında maliklerin ne şekilde yeniden o arazide inşa sürecine başlayabileceklerini
@@ -121,6 +135,8 @@ düzenleyen ortaklığın giderilmesi hükümlerini ihtiva ettiği, ortaklığı
 İdare ve vergi mahkemeleri tarafından verilen kararların temyiz yolu ile incelenerek bozulabilmeleri 2577 sayılı İdari Yargılama Usulü Kanununun 49. maddesinde belirtilen nedenlerden birinin bulunması halinde mümkündür. Yukarıda tarih ve sayısı belirtilen Mahkeme kararı ve dayandığı gerekçe, hukuk ve usule uygun olup, bozulmasını gerektirecek bir sebep de bulunmadığından, temyiz isteminin reddi ile anılan kararın ONANMASINA …
 
 ## Yargıtay HGK 2023/1075 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/978390100)
 
 Davacılar vekili dava dilekçesinde; davalılar vekili tarafından açılan ortaklığın giderilmesi davasında dava konusu ... ili, ... ilçesi, 5834 ada 3 parsel sayılı taşınmaz üzerinde yer alan binanın ..., ..., ... ... ve ... ... tarafından murisin hiçbir katkısı olmaksızın inşa edildiği iddiasına ilişkin olarak dava açmak üzere 20 günlük kesin süre verildiğini, dava konusu taşınmazın 1960 yılında müvekkilleri ... ve ... ve diğer müvekkillerinin murisi ... ve ... ... ile payını daha sonra kardeşlerine devretmiş olan ... ... tarafından inşa edildiğini, davacıların murisi ...'nun taşınmaz üzerinde ne zilyetlik ne de mülkiyet hakkı bulunmadığını ileri sürerek ... ili, ... ilçesi, 5834 ada 3 parsel sayılı taşınmaz üzerinde yer alan binanın müvekkillerine aidiyetine karar verilmesini talep etmiştir.
 
@@ -134,6 +150,8 @@ anlaşılmaktadır. Şöyle ki, az yukarıda da, açıklandığı üzere, dava k
 Davacılar vekilinin temyiz itirazlarının kabulü ile direnme kararının Özel Daire bozma kararında gösterilen nedenlerden dolayı 6100 sayılı Kanun’un 371 inci maddesi gereğince BOZULMASINA …
 
 ## Yargıtay 7. HD 2025/5372 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1196327900)
 
 Davacı vekili dava dilekçesinde; müvekkilinin, davalı ... ile yaptığı sözlü anlaşma gereği davalıya ait olan 2 96... parsel sayılı taşınmaza ceviz, dut ve badem ağaçları diktiğini ve sulama için gerekli tüm donatıları sağladığını, dava konusu parselin ... barajı projesi kamulaştırma sahasında kalması üzerine davalı ...'ın ... Su İşleri Kamulaştırma Birimince kamulaştırma bedeli için verilen teklife olumlu yanıt verdiğini belirterek davacı tarafça meyadana getirilen muhdesatın davacıya ait olduğunun tespitine ve tapuya şerhine karar verilmesini talep etmiştir.
 
@@ -150,6 +168,8 @@ Dava; muhdesat aidiyetinin tespiti istemine ilişkindir.
 Davacı tarafın, Bölge Adliye Mahkemesi kararına yönelik temyiz itirazının kabulü ile Bölge Adliye Mahkemesi kararının gerekçesinin DÜZELTİLEREK ONANMASINA …
 
 ## Yargıtay 7. HD 2023/4931 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/980525400)
 
 Davacı vekili; İstanbul ili, ... ilçesi, 1159 ada 4 parselde kayıtlı taşınmazı Üsküdar Noterliğinin 02.11.1977 tarihli satış vaadi sözleşmesiyle ... ...'dan müvekkilinin satın aldığını, üzerindeki iki gecekondudan birinde kendisi ve çocuklarının yaşadığını, diğer gecekonduyu kullanan davalıların tapuyu hangi usulle aldıklarının bilinmediğini, bu işlemlerde muvazaa olduğunu ileri sürerek, taşınmaz üzerindeki muhdesatın müvekkiline aidiyetinin tespitini, davalılar adına olan tapu kaydının iptalini ve davacı adına tescilini talep etmiştir.
 
@@ -168,6 +188,8 @@ Temyiz olunan Bölge Adliye Mahkemesi kararının 6100 ... Kanun'un 370 inci mad
 
 ## Yargıtay 7. HD 2023/17 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/883636200)
+
 Davacı vekili, müvekkilinin ... Köyü 1066 parsel sayılı taşınmazın 2/4 payı oranında tapu kayıt maliki olduğunu, müvekkilinin babası ...'ün 2010 yılında vefat ettiğini, davacının bu tarihte küçük olduğunu, taşınmazın 2/4 payının kök murisi adına kayıtlı olsa da bu parselde üzerinde yer alan ev, motopomp pompası islim damının müvekkili tarafından yaptırıldığını, ağaçların yine müvekkili tarafından dikilip yetiştirildiğini belirterek, dava konusu taşınmazdaki muhdesatların davacıya ait olduğunun tespitine karar verilmesini talep etmiştir.
 
 …
@@ -183,6 +205,8 @@ Somut olayda; öğretide ve Yargıtayın devamlılık gösteren uygulamalarında
 Açıklanan nedenlerle, davalılardan ... ve ... vekilinin temyiz itirazlarının kabulü ile hükmün BOZULMASINA …
 
 ## Yargıtay 8. HD 2021/4417 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/683161300)
 
 Davalı; davacının annesi olduğunu, dava konusu taşınmaz hissesini satın aldığında dava konusu yapılan akaryakıt ve LPG istasyonunun kendi hissesi içerisinde kaldığını, dava konusu akaryakıt ve LPG istasyonunun Halk Bank ipoteğinin bulunduğu kısımda olmadığını, ING bank ipoteğinin birleşmeden önceki 34 ada 19 parsel üzerinde kurulu bulunduğunu beyanla davanın reddini savunmuştur.
 
@@ -200,6 +224,8 @@ O halde Mahkemece, az yukarıda muhdesat tespiti davalarına yönelik hukuki yar
 SONUÇ: Yukarıda açıklanan nedenlerle davacı vekili ve müdahil banka vekilinin temyiz itirazlarının incelenmesinde, Samsun Bölge Adliye Mahkemesi 1. Hukuk Dairesi kararının yukarıda yazılı nedenlerle 5311 sayılı Kanun ile değişik İİK’nın 364/2. maddesi göndermesiyle uygulanması gereken 6100 sayılı HMK’nin 373/1. maddeleri uyarınca KALDIRILMASINA …
 
 ## Yargıtay 7. HD 2021/4071 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/724843900)
 
 Davacı vekili 10.03.2016 tarihli dava dilekçesinde; dava konusu Zonguldak ili, Devrek ilçesi, 120 ada 5 parsel sayılı 22.553,87 metrekare yüzölçümlü taşınmazın 2011 yılında davalı ve dava dışı paydaşların mülkiyetinde iken müvekkilinin 120 ada 5 parsel sayılı taşınmazda büyükbaş hayvan çiftliği yapmak üzere davalı ile anlaştığını, taraflar arasında 01.03.2011 tarihli kira sözleşmesi ve anlaşma senedi başlıklı adi yazılı bir sözleşme yapıldığını, anılan bu sözleşme ile kiralanan 120 ada 5 parsel sayılı taşınmazın 4000 metrekarelik kısmına davacı tarafından çiftlik yapılacağı, davacı kiracının kira, ifraz ve devir bedeli olarak 50.000,00 TL'yi kiraya veren davalıya ödediği, ödenen bu bedel ile davalının dava konusu taşınmazın diğer paydaşlarından paylarını satın alacağı, davalının tek malik olması durumunda 4000 metrekarelik kısmı ifraz ederek davacıya temlik edeceği, bu temlik için ayrıca bir bedel istenmeyeceği, diğer hissedarlardan paylarının devir alınamaması halinde ise ödenen 50.000,00 TL'nin ise 49 yıllık kira bedeli olarak kabul edileceği hususlarında anlaşma sağlandığını, davalının 06.10.2015 tarihi itibariyle dava konusu taşınmazda tek malik olması üzerine davacının ifraz
 krokisi hazırlattığını ancak davalının ifraza yanaşmadığını, davacının kazı ve yapı çalışmaları için yaklaşık 400.000,00 TL harcama yaptığını, yapının yıkılmasının fahiş zarar meydana getireceğini iddia ederek 120 ada 5 parsel sayılı taşınmazda çiftlik ve zorunlu kullanım alanı olan 4.000,48 metrekarelik kısmın ifraz edilerek davacı adına tescilini, 2. kademede çiftlik ve yapıların davacıya aidiyetinin tespiti ile tapunun beyanlar hanesine şerh edilmesini dava ve talep etmiştir.
@@ -219,6 +245,8 @@ Davalı vekili, davacının iddialarının gerçek dışı olduğunu, anılan ç
 SONUÇ: Yukarıda (1.) bentte açıklanan nedenlerle davacı vekilinin sair temyiz itirazlarının REDDİNE; (2.) bentte açıklanan nedenlerle davacı vekilinin temyiz itirazlarının kabulü ile Sakarya Bölge Adliye Mahkemesi 1. Hukuk Dairesinin 01.07.2020 tarih ve 2020/474 Esas, 2020/504 sayılı Kararının KALDIRILMASINA …
 
 ## Yargıtay 8. HD 2021/1258 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/655123100)
 
 Davalılar davaya cevap vermemişlerdir.
 

@@ -22,6 +22,8 @@ uyari: "Derleyenin seçtiği alıntılardır; kararın tamamı değildir. Künye
 
 ## Yargıtay 15. HD 2011/3265 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/766455400)
+
 Mahkemece asıl dava bakımından kurulan hükmün 8 nolu bendinde “bakiye 2.025,00 TL harcın davalı-karşı davacılardan alınmasına”, 9 nolu bendinde “toplam 4.512, 00 TL yargılama giderinin kabul ve ret durumu dikkate alınarak 1.850,00 TL'sinin davalı-karşı davacılardan müteselsilen alınmasına, bakiyesinin davacı-karşı davalı üzerinde bırakılmasına”, 10 nolu bendinde de “9.800,00 TL vekâlet ücretinin davalı-karşı davacılardan alınarak davacı-karşı davalıya verilmesine” karar verilmiştir.
 
 HUMK’nın 416. maddesine göre yargılama giderlerini peşin olarak ödeyen taraf haklı çıkarsa bu giderler diğer tarafa yüklenir. HUMK’nın 417. maddesine göre de yasal olarak belirlenmiş durumlardan başka yargılama giderlerinin aleyhine hüküm verilen taraftan alınmasına karar verilir. Davada iki taraftan her biri kısmen haklı çıkarsa mahkeme yargılama giderini aralarında belirlediği şekilde paylaştırır. Kurallar bu şekilde olmakla birlikte, hiç kimse kendi kusuruna dayanarak bir hak iddiasında bulunamayacağından kendi kusuru ile dava açılmasına sebebiyet verenler davada kısmen veya tamamen haklı çıksalar dahi yargılama giderlerinin tamamından sorumlu tutulur. Bu durumda yargılama giderleri karşı tarafa yükletilemez. Dosya kapsamına göre somut olayda; kat irtifakı arsa sahiplerinden alınan vekaletnameye istinaden yüklenici ... tarafından kurulmuştur. Sözleşme hükümlerine ve ekindeki krokiye göre 6 ve 7 nolu daireler arsa sahiplerine ait olduğundan bu dairelerin arsa sahipleri adına tespit ve tescili gerekirken yüklenici bu daireleri kendi adına tespit ve tescil ettirmiş, daha sonra 15.11.2005 tarihinde de dava dışı üçüncü kişilere satarak tapularını devretmiştir.
@@ -33,6 +35,8 @@ Davanın açılmasına arsa sahipleri sebebiyet vermediğinden, aksine sözleşm
 SONUÇ:Yukarıda 1. bentte yazılı nedenlerle davacı-karşı davalı ...'ın tüm, davalı-karşı davacı ... ve ...'ın sair temyiz itirazlarının reddine, 2. ve 3. bentler uyarınca kabulüyle hüküm fıkrasının 8, 9, 19 ve 21 nolu bentlerinin tamamen karardan çıkartılmasına, 8 nolu bendin yerine “Harçlar Kanunu uyarınca alınması gereken 6.210,00 TL karar harcından dava açılırken peşin alınan 405,00 TL ve 16.06.2008 tarihli makbuzla alınan 3.780,00 TL olmak üzere toplam 4.185,00 TL'nin mahsup edilerek kalan 2.025,00 TL harcın davacı-karşı davalı ...'tan alınarak hazineye gelir yazılmasına”, 9 nolu bendin yerine “Davacı ve karşı davalı ... tarafından yapılmış olan giderlerin tamamının üzerinde bırakılmasına”, 10 nolu bendin yerine “Davacı ve karşı davalı ... yararına vekalet ücreti takdirine yer olmadığına”, 19 nolu bendin yerine “450,00 TL maktu vekalet ücretinin davalı-karşı davacı ...'dan alınarak davacı-karşı davalı ...'a verilmesine”, 21 nolu bendin yerine “450,00 TL maktu vekalet ücretinin davalı-karşı davacı ...'dan alınarak davacı-karşı davalı ...'a verilmesine” cümlelerinin yazılmasına, kararın değiştirilmiş bu şekli ile DÜZELTİLEREK ONANMASINA …
 
 ## Yargıtay 15. HD 2011/3243 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/766500000)
 
 Dava, tapudaki haciz şerhinin iptali istemine ilişkindir.
 
@@ -46,6 +50,8 @@ SONUÇ:Yukarıda açıklanan nedenlerle davacılar vekilinin temyiz itirazların
 
 ## Yargıtay 15. HD 2011/3203 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/17143300)
+
 Dava, arsa payı karşılığı inşaat yapım sözleşmesi uyarınca dava dışı yükleniciye devredilen bağımsız bölümler üzerine yüklenicinin borcu sebebiyle konulan haciz şerhinin yüklenicinin temerrüdü sonucu sözleşmenin feshedilmiş ve tapu kayıtlarının iptal edilerek arsa sahipleri adına feshine karar verilmiş olması nedeniyle terkini istemine ilişkindir.
 
 …
@@ -58,6 +64,8 @@ Sonuç: Yukarıda açıklanan nedenlerle temyiz itirazlarının kabulü ile hük
 
 ## Yargıtay 15. HD 2011/1017 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/765549100)
+
 İmzalanan “Kat Karşılığı Sözleşme” başlıklı belge ile davacı yüklenici davalı arsa sahibine ait taşınmaz üzerinde arsa payı karşılığı inşaat yapımını üstlenmiştir. Bu tip sözleşmeler tapuda pay devri taahhüdünü de içerdiğinden BK'nın 213., TMK'nın 706/I., Tapu Kanunu'nun 26 ve Noterlik Kanunu'nun 60. maddeleri hükmünce geçerlilikleri resmî şekilde yapılmış olması koşuluna bağlıdır. Sözkonusu sözleşme adî yazılı şekilde yapıldığından geçersizdir. Sözleşmenin yapılmasından sonra tapuda pay devri yapılmadığı ve yüklenici tarafından edimi tamamen ya da önemli oranda ifa edilmediğinden 30.09.1988 gün 1987/2 Esas 1988/2 Karar sayılı İçtihadı Birleştirme Kararı uyarınca geçerli hale de gelmemiştir. Sözleşmenin geçersizliği halinde sözleşme uyarınca tarafların talepte bulunmaları mümkün olmadığından bu sözleşmenin feshine dahi gerek olmayıp ancak taraflar birbirlerine verdiklerini sebepsiz zenginleşme hükümlerine göre diğer taraftan talep edebilirler. Bu halde yüklenici varsa gerçekleştirdiği imalât bedelini, inşaatın iş sahibinin yararına ve yasal olması koşuluyla arsa sahibinden isteyebilir.
 Bunun miktarı da gerçekleştirilen imalâtın yapıldığı yıl mahalli piyasa rayiçlerine göre belirlenecek bedelidir.
 
@@ -66,6 +74,8 @@ Bunun miktarı da gerçekleştirilen imalâtın yapıldığı yıl mahalli piyas
 SONUÇ:Yukarıda açıklanan nedenlerle temyiz itirazlarının kabulüyle hükmün davalılar yararına BOZULMASINA …
 
 ## Yargıtay 15. HD 2011/846 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/766561400)
 
 Dava, BK'nın 355 ve devamı maddelerinde tanımlanan eser sözleşmesinden kaynaklanan eksik iş bedeli, alacak ve gecikme tazminatı istemine ilişkindir.
 
@@ -85,6 +95,8 @@ SONUÇ:Yukarıda açıklanan nedenlerle kararın temyiz eden davalı yararına B
 
 ## Yargıtay 15. HD 2011/411 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/506860900)
+
 Dava, arsa payı karşılığı inşaat yapım sözleşmesi uyarınca tapu iptâli ve tescil, bu talebin kabul edilmemesi halinde bağımsız bölümlere karşılık gelen arsa payının tespit edilerek payları oranında arsa sahipleri ve kooperatif adına tapuya kayıt ve tescili istemine ilişkindir.
 
 …
@@ -98,6 +110,8 @@ Arsa payı karşılığı inşaat yapım sözleşmeleri tapuda pay devrini de i�
 SONUÇ: Yukarıda 1. bentte açıklanan nedenlerle davalılar...ve ...'ın tüm temyiz itirazlarının reddine, 2. bent uyarınca davacının temyiz itirazlarının kabulü ile hükmün davacı yararına BOZULMASINA …
 
 ## Yargıtay 3. HD 2010/21956 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/981496900)
 
 Mahkemece , daha önceden görülen ve davacının taşınmazın elinden gitmesine sebep olan tapu iptal ve tescil davasının yargılaması sırasında davacının iyi niyetli olmadığı hususu kesinleşmiş mahkeme kararı ile sabit olduğu,bu nedenle de iyi niyetli olmayan davacının ödediğini geri isteyemeyeceği gerekçesi ile davanın reddine karar verilmiştir.
 
@@ -113,6 +127,8 @@ Bu itibarla yukarıda açıklanan esaslar gözönünde tutulmaksızın yazılı 
 
 ## Yargıtay 15. HD 2010/5834 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/778359900)
+
 Dava, arsa payı karşılığı inşaat yapım sözleşmesinin feshi ile tapu iptâli ve tescil istemine ilişkindir.
 
 …
@@ -126,6 +142,8 @@ Bu durumda mahkemece öncelikle davacıya sözleşmeyi arsa sahibi sıfatıyla i
 SONUÇ: Yukarıda 1. bentte açıklanan nedenlerle davalılar ... , ... ve ...'ün tüm, davacının diğer temyiz itirazlarının reddine, 2. bent uyarınca kabulü ile hükmün davacı yararına BOZULMASINA …
 
 ## Yargıtay 15. HD 2010/1703 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/774275200)
 
 Davacı ... ile davalılar 1-... 2-... 3-...
 
@@ -148,6 +166,8 @@ SONUÇ:Yukarıda 1. bentte açıklanan nedenlerle davacının diğer karar düze
 
 ## Yargıtay 15. HD 2010/1585 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/773836400)
+
 Dava, arsa payı karşılığı inşaat sözleşmesi uyarınca gecikme tazminatı alacağının tahsili istemine ilişkindir.
 
 …
@@ -159,6 +179,8 @@ SONUÇ: Yukarıda açıklanan nedenlerle kararın temyiz eden davalı yüklenici
 
 ## Yargıtay 15. HD 2010/939 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/774760800)
+
 TMK’nın 692. maddesi uyarınca, arsa payı devri karşılığı inşaat sözleşmelerinin feshi davasında sözleşmede imzaları bulunan gerçek ve tüzel kişilerin davanın tarafı olması veya davaya muvafakat bildirmesi zorunludur. Dosyada bulunan 14.05.1997 tarihli daire karşılığı inşaat sözleşmesini arsa sahibi olarak davacı dışında ..., ... ve ... ...’da imzalamıştır. Dosyada bulunan Şişli 4. Sulh Hukuk Mahkemesi’nin 06.01.2000 tarihli veraset belgesinden sözleşmeyi imzalayanlardan ... ile ...’in vefat ettikleri, tek mirasçılarının davacı olduğu anlaşılmaktadır. Ancak sözleşmeyi arsa sahibi olarak imzalayan ... ... davanın tarafı olmadığı gibi, davaya muvafakatı da sağlanmamıştır.
 
 Bir davada, işin esasının incelenebilmesi için taraf teşkili yapılması zorunludur. Taraf teşkili yapılması kamu düzenine ilişkin olduğundan mahkemelerce resen dikkate alınması gerekir. Somut olayda, sözleşmede arsa sahibi olarak imzası bulunan ... ...’ın davanın tarafı olması sağlanmadan veya davaya muvafakatı alınmadan, diğer bir ifadeyle taraf teşkili tamamlanmadan işin esasının incelenmesi ve karar oluşturulması doğru olmamıştır.
@@ -168,6 +190,8 @@ Bir davada, işin esasının incelenebilmesi için taraf teşkili yapılması zo
 SONUÇ: Davalı ...’in karar düzeltme isteminin kabulüne, Dairemizin 05.03.2009 gün 2008/929 E. 2009/1216 K. sayılı bozma ilâmının ortadan kaldırılmasına …
 
 ## Yargıtay 15. HD 2010/240 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/773339200)
 
 Davacılar ve dava dışı arsa sahipleriyle yüklenici ... arasındaki 08.08.2003 tarihli kat karşılığı inşaat sözleşmesinin 16. maddesinde paylaşımın %50 olacağı kabul edilmiş, arsa sahiplerinin yükleniciden alacağı dairelerin daha sonra belirlenmesi kararlaştırılmıştır. Proje ve inşaat ruhsatından dava konusu taşınmaz üzerine 7 adet daire ve 2 adet dükkan yapılmasına izin verildiği anlaşılmaktadır. Davacılar ile davalı yüklenici arasında 03.10.2005 tarihinde adi nitelikte “Ek Protokol” başlıklı belge düzenlenmiştir.
 
@@ -181,6 +205,8 @@ SONUÇ: Yukarıda 1. bendde yazılı nedenlerle davalı yüklenicinin sair temyi
 
 ## Yargıtay 15. HD 2009/6892 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/858369800)
+
 Dava, arsa payı karşılığı inşaat yapım sözleşmesinin tapudaki şerhinin terkini istemine ilişkindir.
 
 …
@@ -193,12 +219,16 @@ SONUÇ: Yukarıda açıklanan nedenlerle temyiz itirazlarının kabulüyle hükm
 
 ## Yargıtay 15. HD 2009/6813 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/16909400)
+
 Taraflar arasında imzalanan 16.05.2003 tarihli kat karşılığı inşaat sözleşmesinin 10. maddesinde, inşaat süresinin ruhsat tarihinden itibaren 24 ay olduğu, bu sürede iskân ruhsatı alınmadığı takdirde yüklenicinin, arsa sahiplerine rayiç kira ödeyeceği kararlaştırılmıştır. Aynı sözleşmenin 18. maddesinde ise, yükleniciye gösterilen aşamalarda satış yetkisinin verilmemesi durumunda geçen sürenin inşaat süresine ilave edileceği kabul edilmiştir. Eldeki davada, inşaatın süresinde tamamlanmadığından bahisle kira kaybının ödenmesi istenmişse de, yüklenici, tapu devri yapılmadığından dava açmak zorunda kaldığını, verilen hüküm uyarınca dairelerini alabildiğini belirterek gecikmede davacıların kusurlu olduğunu savunmuştur. Gerçekten, Ankara 21. Asliye Hukuk Mahkemesi’nde, aynı sözleşmede yer alan arsa sahiplerinden Yusuf Işık aleyhinde açılan dava sonunda, iki adet bağımsız bölümün tesciline karar verilmiş ve bu karar 31.01.2008 tarihinde kesinleşmiştir.
 Her ne kadar, açılan tescil davasında işbu davanın davacıları yer almamakta ise de, aynı sözleşmenin tarafı olan arsa sahiplerinden birisinin edimini yerine getirmeyerek yükleniciye pay devrinin gerçekleştirilememesi durumunda, sözleşmenin 18. maddesi uyarınca geciken süre kadar ilave süre isteminde yüklenicinin haklı olduğu kabul edilmelidir. Buna göre de, tapuların tesciline dair ilâmının kesinleşme tarihi gözetildiğinde davacıların bu davadaki gecikme tazminatı istemleri kabul edilemeyeceğinden, davanın tümüyle reddine karar verilmesi gerekirken, yazılı gerekçe ile kabul edilmesi doğru olmadığından karar bozulmalıdır.
 
 SONUÇ:Yukarıda açıklanan sebeplerle davalı vekilinin temyiz itirazlarının kabulü ile hükmün davalı yararına BOZULMASINA …
 
 ## Yargıtay 15. HD 2009/6671 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/856316000)
 
 Arsa payı karşılığı inşaat yapım sözleşmeleri tapuda pay devri yapılmasını da gerektirdiğinden BK’nın 213, TMK’nın 706, Tapu Kanunu’nun 26 ve Noterlik Kanunu’nun 60. maddeleri uyarınca resmi şekilde yapılmaları zorunludur. Bu husus geçerlilik şartı olup her zaman ileri sürülebileceği gibi mahkemece de kendiliğinden gözönünde tutulur. Eldeki davanın dayanağı olan sözleşme, adi yazılı şekilde düzenlendiği gibi taraflar edimlerini önemli oranda ifa etmedikleri ve tapuda pay devri de yapılmadığından geçersizdir. Sözleşmenin geçersizliği halinde de taraflar sözleşmenin yerine getirilmesini isteyemeyeceklerinden ancak sebepsiz zenginleşme hükümlerine göre verdiklerini ve arsa sahibinin yararına olan imalât bedellerini yapıldıkları yıl serbest piyasa rayiçlerine göre talep edebilirler.
 
@@ -208,6 +238,8 @@ SONUÇ:Yukarıda açıklanan nedenlerle temyiz itirazlarının kabulü ile hükm
 
 ## Yargıtay 15. HD 2009/6515 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/856113800)
+
 Arsa payı devri karşılığı inşaat sözleşmeleri tapuda pay devrini içerdiğinden TMK 706, BK’nın 213, Tapu Kanunu’nun 26, Noterlik Kanunu’nun 60. maddesi uyarınca noterde düzenleme şeklinde yapılmaları zorunludur. Sözleşmelerin noterde düzenleme şeklinde yapılması geçerlilik şartıdır. Noterde düzenleme şeklinde yapılmayan arsa payı devri karşılığı inşaat sözleşmeleri kural olarak geçersiz ise de, inşaatın tamamlanması veya yükleniciye tapuda pay devri yapılması durumunda tarafları bağlayıcı hale geldiği kabul edilmektedir. Dairemizin yerleşmiş uygulaması bu doğrultudadır.
 
 …
@@ -216,12 +248,16 @@ SONUÇ: Yukarıda açıklanan nedenlerle kararın davalı yüklenici Belediye ya
 
 ## Yargıtay 15. HD 2009/5180 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/856432500)
+
 Dosyada bulunan 01.05.2002 tarihli düzenleme şeklinde kat karşılığı inşaat sözleşmesi arsa sahibi olarak, davacı ... dışında ..., ... , ..., ..., ..., ..., ... ve ... tarafından imzalanmıştır. Arsa sahiplerinden ... dışındakilerin tapudaki paylarını 28.12.2005 ve 31.12.2005 tarihlerinde davacı ...’a devrettikleri anlaşılmaktadır. ... dışındaki arsa sahiplerinin sözleşmeden doğan haklarını davacı ...’a devrettiklerine ilişkin bir belge dosyada bulunmamaktadır. Dairemizin yerleşmiş uygulamasına göre tapu kaydındaki payın devri sözleşmedeki hakların devri olarak yorumlanamaz. TMK’nın 692. maddesi uyarınca arsa payı devri karşılığı inşaat sözleşmesinin, sözleşmenin tarafı olan tüm arsa sahiplerince açılması gerekir. Bu şartın gerçekleşmemesi durumunda, sözleşmenin tarafı olan diğer arsa paydaşlarının davaya muvafakatlarının sağlanması, bu da mümkün olmazsa sözleşmede imzası olan arsa sahipleri haklarında fesih davası açılarak davanın tarafı olmalarının sağlanması, bu şekilde taraf teşkili yapıldıktan sonra işin esasının incelenmesi gerekir.
 Mahkemece bu kurala uyulmadan sözleşmenin tarafı olan diğer kişilerin davaya muvafakatları veya davada taraf olmaları sağlanmadan, işin esası incelenmek suretiyle yazılı şekilde hüküm kurulması doğru olmamış, kararın bozulması gerekmiştir.
 
 SONUÇ:Yukarıda açıklanan nedenlerle kararın BOZULMASINA …
 
 ## Yargıtay 15. HD 2009/4308 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/856512500)
 
 …
 
@@ -232,6 +268,8 @@ SONUÇ:Yukarıda açıklanan nedenlerle kararın BOZULMASINA …
 SONUÇ: Yukarıda açıklanan nedenlerle hükmün temyiz eden davacı ve karşı davalı arsa sahibi yararına BOZULMASINA …
 
 ## Yargıtay 15. HD 2009/4033 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/856189200)
 
 Dava, arsa payı karşılığı yapım sözleşmesi uyarınca gecikme tazminatı alacağının tahsili istemine ilişkindir.
 

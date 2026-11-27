@@ -22,16 +22,22 @@ uyari: "Derleyenin seçtiği alıntılardır; kararın tamamı değildir. Künye
 
 ## Yargıtay 6. HD 2022/2685 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/790825100)
+
 İş bu nedenle mahkemece yapılacak iş; davacı ..., davalı ... tarafından adi ortaklık ilişkisi için yapıldığı savunulan masraf kalemlerinin bu ilişki için yapılmadığını iddia etmiş olup, bu iddiasına dayanak olan mahkeme dosyalarının ilgili yer mahkemelerinden getirtilmesi, yine davacı tarafından davalı ... tarafından üçüncü kişilere devredilen bir kısım bağımsız bölümlerin aralarında imzalanan arsa payı karşılığı inşaat sözleşmeleri ile ilgili olmayıp davalının üçüncü kişilerle imzaladığı sözleşmeler ile ilgisi olduğu iddia edildiğinden ve buna dair dosyada sözleşme ve protokol örnekleri olduğundan buna dair iddialarının irdelenmesi, ayrıca icra dosyasına davalı tarafından yapılmış haricen bir ödeme varsa buna dair ödeme belgelerinin dosyaya kazandırılması, icra dosyasının akibeti hakkında bilgi alınması, davalı tarafından adi ortaklık için yapıldığı belirtilen 800.000,00 TL’lik ödemeye dair belgelerin Kayseri 2.
 Asliye Hukuk Mahkemesinin 2009/556 Esas sayılı dosyasında olduğu belirtildiğinden bu dosyanın da ilgili mahkemesinden istenmesinden sonra dosyanın alanında uzman 2 mali müşavir ve bir hukukçu bilirkişi kuruluna tevdi ile Yargıtay denetimine elverişli, önceki bilirkişi raporlarını da irdeleyecek şekilde rapor alınması, tarafların itirazları olduğu takdirde bu itirazları giderir şekilde ek rapor alınması, raporlar arasında çelişki olduğu takdirde gerekirse üçüncü bilirkişi kurulundan rapor alınarak sonuca gidilmesinden ibaret olmalıdır.
 
 ## Yargıtay 3. HD 2021/1499 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/653568300)
 
 Sözleşmenin hasılatın paylaşımı başlıklı 16 ncı maddesinde; konutların reklam lansman ve tüm tanıtım ve pazarlama giderlerinin yapımcıya ait olacağı, konutların satışından elde edilecek hasılatın %77’si yapımcıya %23’ü arsa maliklerine ait olacağı kararlaştırılmış, yine sözleşmenin 16/7. maddesinde; yüklenici bir hafta içinde ödemeyi yapmazsa %10 cezai şart ödeyeceği kararlaştırılmıştır. Dolayısıyla bu sözleşmeler olağan bir kat karşılığı inşaat sözleşmesi olmayıp, hasılat paylaşımlı bir adi ortaklık sözleşmesidir. Bu nedenle, arsa malikleri, davalı şirketin, onlardan aldığı sözleşme yapma yetkisine dayanarak, davacılara sattığı konutu teslim edememesinden dolayı, davalı şirket ile birlikte davacıya karşı müteselsilen sorumludurlar (HGK’nın 24/04/2013 tarihli ve 2012/13-798 E. 2013/568 K. sayılı kararı da bu yöndedir).
 
 Bu halde, davacının, davalı-arsa malikleri ile ... Konut A.Ş. arasında düzenlenmiş olan sözleşmeler ile, davacı ile ... Konut A.Ş. arasında düzenlenmiş olan 31/07/2006 tarihli adi yazılı sözleşme hükümlerine göre; davalı-arsa sahipleri aleyhine dava açmasında ve husumet yöneltmesinde bir usulsüzlük bulunmadığından mahkemece işin esası hakkında bir karar verilmesi gerekirken, yanılgılı gerekçeler ile husumetten red kararı verilmesi doğru değildir.
 
 ## Yargıtay 15. HD 2020/3185 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/636349500)
 
 Mahkemece bozmadan sonra yapılan yargılama aşamasında İnşaat Mühendisi, Sayıştay Emekli Uzman Denetçisi/Yeminli Mali Müşavir ve Hukukçudan oluşan bilirkişi heyetinin düzenlediği ve hükme esas alınan 20.05.2015 tarihli bilirkişi kurulu raporunda söz konusu malzemeleri iş sahibinin doğrudan kendisinin temin ettiği, temin edilen bu ekipmanın iş sahibi idarenin kendi malı olduğu hususu dikkate alındığında zararının söz konusu olmadığı, mekanik teçhizatın bir kısmını yüklenici iş ortaklığının kullandığı, kalan malzemelerin de sözleşmenin feshinden sonra işin tamamlanması için yeniden yapılan ihale kapsamında ikinci yüklenici tarafından kullanıldığı ve davacı iş sahibinin teslim edilmeyen malzemeden dolayı alacağının kalmadığı belirtilmiştir.
 Bilirkişi heyetinin 20/05/2015 tarihli bu raporuna karşı iş sahibi tarafından ayrıntılı biçimde ve teknik mahiyette itiraz edilmesine rağmen, mahkemece 6100 sayılı Hukuk Muhakemeleri Kanunu'nun "Bilirkişiye başvurulmasını gerektiren hâller" başlıklı 266. maddesinde düzenlenen mahkemenin çözümü hukuk dışında, özel veya teknik bilgiyi gerektiren hâllerde, taraflardan birinin talebi üzerine yahut kendiliğinden, bilirkişinin oy ve görüşünün alınmasına karar vereceğine, Aynı Kanun'un "Bilirkişi raporuna itiraz" başlığı altındaki 281/2. maddesi gereğince mahkemenin bilirkişi raporunda görülen eksiklik yahut belirsizliğin tamamlanması veya açıklığa kavuşturulmasını sağlamak için bilirkişiden, yeni sorular düzenlemek suretiyle ek rapor alabileceğine ilişkin yasa maddeleri gözetilerek itirazları karşılayacak şekilde bilirkişi heyetinden ek rapor alınmadığı gibi, iş sahibi ESKİ Genel Müdürlüğü’nün rapora itirazlarının neden kabul edilmediği de kararın gerekçesinde denetime elverişli biçimde açıklanmamıştır.
@@ -43,9 +49,13 @@ Bu davada kurulan hükümle ilgili davalı iş sahibinin diğer temyiz itirazlar
 
 ## Yargıtay 3. HD 2019/6466 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/535558300)
+
 O halde, mahkemece; tarafların ödeme ve harcamalara yönelik ikrarları da dikkate alınarak, davacı tarafından yapılan harcamalara ilişkin sunulan fatura içeriklerinin adi ortaklık kapsamında yürütülen inşaat yapım işi kapsamında kullanılıp kullanılmadığının belirlenmesi amacıyla uzman mühendis bilirkişi heyetinden alınacak rapor doğrultusunda denetlenmesinin ardından oluşacak sonuca göre karar verilmesi gerekirken, yazılı şekilde hüküm tesisi isabetsiz olup, bozmayı gerektirmiştir.
 
 ## Yargıtay 20. HD 2019/312 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/478502700)
 
 Dava, tapu iptali ve tescil istemine ilişkindir.
 
@@ -56,6 +66,8 @@ Söz konusu bu davada dosyamız davacısının daireyi satın aldığını ve y�
 
 ## Yargıtay 15. HD 2019/110 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/477961500)
+
 Bu durumda mahkemece işin tamamlanıp teslimi için kesin vade kararlaştırılmış olup, davacı taşeronun kesin vadede işi tamamlayıp teslim etmemesi sebebiyle BK'nın 107/3 ve 106/II. maddeleri hükümleri gereğince davalı yükleniciler BK'nın 106/I. maddesine göre yeniden süre vermeden sözleşmeyi fesihte haklı olduğu, sözleşmede haklı fesih halinde kesin teminatın irat kaydedileceğine dair bir hüküm olmaması, davalı yükleniciler gecikme cezasının tahsili için kesin teminatı irat kaydettiklerini ileri sürmüş iseler de;
 BK 158/II. maddesinde düzenlenen ifaya ekli ceza niteliğindeki sözleşmenin 8. maddesindeki cezanın fesih halinde dahi istenebileceğine dair sözleşmede hüküm bulunmayıp sözleşmenin feshi sonucu bu cezayı isteme hakları düştüğü ve davalı yüklenici iş ortaklığı gecikme cezası karşılığı kesin teminatı irat kaydetmekte haklı olmadığından sözleşmenin 7/II. maddesindeki kesin teminatın iadesi koşullarının gerçekleşip gerçekleşmediği araştırılıp teminatın iadesiyle ilgili sonucuna uygun bir karar verilmesi gerekirken, yanlış değerlendirme ile fesihte her iki tarafın kusurlu kabul edilmesi ve eksik inceleme ile irat kaydedilen teminat mektup bedelinin istirdadına hükmedilmesi doğru olmamıştır.
 
@@ -64,9 +76,13 @@ Bu halde davacı defterlerinde yer almayan davalı defterlerindeki ihtilaflı ol
 
 ## Yargıtay 15. HD 2018/2923 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/433018300)
+
 Sözleşme 17.04.2009 tarihini taşınmakta olup, tarafları ... ve ...'dır. ... dava dışı olup, yediemin sıfatıyla imzalamıştır. Sözleşme “düzenleme şekilde inşaat, sorumluluk devri ve yedieminlik sözleşmesi” başlığını taşımakta olup, muhtelif tarihlerde imzalanan kat karşılığı inşaat sözleşmeleriyle ilgilidir. Bahsi geçen kat karşılığı inşaat sözleşmeleri ... ve ... tarafından imzalanmış, ancak 17.04.2009 tarihli sözleşmeyle sözleşmenin devrinin ...'ya yapılacağı kararlaştırılmıştır. Sözleşme adi şekilde yapılmış olup, 22.06.2009 tarihli ek protokol ile 2 aylık ek süre verilip, süre bitiminde kat irtifakı kurularak 7 dairenin ... tarafından...'a devri kararlaştırılmıştır. Her iki sözleşme ve temel alınan kat karşılığı inşaat sözleşmeleri uyarınca taraflar arasında adi ortaklık ilişkisi kurulduğu uyuşmazlık konusu değildir. Adi ortaklık mülga 818 sayılı BK'nın 520 ve devamı maddelerinde düzenlenmiş olup, esasında sözleşmenin resmi şekilde yapılması yada yazılı olması konusunda bir düzenleme bulunmamaktadır. Ne var ki, Mahkeme'nin kararında da belirtildiği üzere tapu devrini içerdiğinden resmi şekilde yapılması Tapu Kanunu 26, BK'nın 213 ve TMK'nın 706.
 
 ## Yargıtay 15. HD 2018/1573 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/421342400)
 
 Dava, eser sözleşmesinden kaynaklanmakta olup, sözleşmenin feshi nedeniyle ödenmeyen iş bedeli, fazla imalât bedeli, haksız yapılan kesinti, zeyilname gereğince davalıların ödemekle yükümlü oldukları sigorta, stopaj ve ücretlerin tahsili, el konulan malzeme bedellerinin tazmini istemlerine ilişkindir.
 
@@ -82,16 +98,22 @@ değerlendirme ile yazılı şekilde hüküm tesisi doğru olmamış, kararın b
 
 ## Yargıtay 3. HD 2017/16369 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/387259000)
+
 Eldeki davada; kat karşılığı inşaat sözleşmesi ile inşaatın yapılıp tamamlandığı ve taraflar arasındaki ortaklığın fiilen son bulduğu uyuşmazlık konusu değildir. Ortaklık son bulduğuna göre tasfiyenin de mahkemece bizzat yaptırılması gerekir. Ortaklığın feshi ile ortaklığın tasfiyesi ayrı ayrı hukuki işlemlerdir.
 
 Bu durumda, mahkemece; 01.07.2012 tarihinde yürürlüğe giren 6098 sayılı Türk Borçlar Kanununun 620 ve devamı maddelerinde düzenlenen adi ortaklık hükümleri dikkate alınmalı, Türk Borçlar Kanununun 642.madde ve devamı hükümlerine göre tasfiye işlemi gerçekleştirilmelidir. Zira, 6101 sayılı Türk Borçlar Kanununun Yürürlüğü ve Uygulama Şekli Hakkında Kanunun 1.maddesine göre; Türk Borçlar Kanununun yürürlüğe girdiği tarihten önceki fiil ve işlemlere, bunların hukuken bağlayıcı olup olmadıklarına ve sonuçlarına, bu fiil ve işlemler hangi kanun yürürlükte iken gerçekleşmişse, kural olarak o kanun hükümleri uygulanır. Ancak, Türk Borçlar Kanununun yürürlüğe girmesinden sonra bu fiil ve işlemlere ilişkin olarak gerçekleşecek temerrüt, sona erme ve tasfiye, Türk Borçlar Kanunu hükümlerine tabidir.
 
 ## Yargıtay 12. HD 2016/25063 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/330207400)
+
 Alacaklı ... İnş. Nakliyat Taahhüt Mad. Petrol ve Petrol Ürünleri Gıda Turizm ve Torna San. Ltd.Şti. tarafından borçlu .... İnşaat Ticaret ve San.Ltd. Şti. aleyhine kambiyo senetlerine mahsus haciz yolu ile takibe geçildiği, icra takip dosyasında ... Bölge Müdürlüğü’ne İİK'nun 78. maddesine göre düzenlenip gönderilen haciz müzekkeresi ile borçlu .... İnşaat Ticaret ve San.Ltd. Şti ile taşeron sözleşmesi bulunan .... İnş. Ltd. Şti. Ve ... AŞ. aracılığıyla yapılacak ödemelere haciz şerhi konulduğunun bildirildiği, İllerbankasının 30.06.2015 tarihli cevabi yazısında “borçlu ........Ltd. Şti.'nin ... Mak. Müt. Mad. Ve Müh. San ve Tic. AŞ-... Proje İnş. Ve Müş. Ltd. Şti. iş ortaklığının alt yüklenicisi olduğu, iş ortaklığının 24.06.2015 tarihinde tahakkuk eden hakedişinden ilgili haciz müzekkeresi gereği bakiye 64.625,46 TL bloke edildiğinin bildirildiği, şikayetçi üçüncü kişi ... Mak. Müt. Mad. Ve Müh. San. ve Tic. AŞ-... Proje İnş. Ve Müş. Ltd. Şti. iş ortaklığı adına izafeten ... Mak. Müt. Mad. Ve Müh. San. ve Tic.
 AŞ'nin haczin kaldırılması istemiyle icra mahkemesine şikayet yoluyla başvurduğu, mahkemece şikayetin kabulü ile haciz müzekekrelerinin iptaline karar verildiği anlaşılmaktadır.
 
 ## Yargıtay 20. HD 2016/5792 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/231603700)
 
 Dava, adi ortaklık ve kat karşılığı inşaat sözleşmesinden doğan alacağın tahsili istemine ilişkindir.
 
@@ -103,11 +125,15 @@ Türk Ticaret Kanununun 4. maddesinde, bu Kanundan doğan hukuk davalarının ti
 
 ## Yargıtay 3. HD 2015/20843 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/205048000)
+
 Bu bilgiler ışığında somut olaya bakıldığında ise;ortaklığa konu ... ili,... ilçesi, 3500 parsel numaralı taşınmazda yapılan 3 adet blok halindeki inşaattaki ortaklığın tasfiye edilebilmesi için öncelikle mal varlığının tespiti zorunludur.
 3500 parsel sayılı taşınmazda inşa edilen 3 adet blokta ortaklığa ne kadar daire kaldığı ve bunlardan ne kadarının satıldığı ve satılacağı tespit edilmelidir.Bu nedenle öncelikle idareci olarak ...'dan hesap istenmeli,hesap listesinin verilmemesi halinde yönetici ortağın hesap vermekten kaçındığı kabul edilmeli, hesap listesinin üzerinde uyuşmazlık çıkması halinde taraflardan delilleri sorularak toplanmalı, 3500 parsel numaralı taşınmazdaki ortaklığa dair tüm gelir gider hesabı çıkarıldıktan sonra konusunda uzman bilirkişi ya da bilirkişi kurulu aracılığıyla verilen hesap listesinin sunulan belgeler ile inşaatta yapılan imalatlarla uyumlu olup olmadığı belirlenerek denetimi sağlanmalı, tarafların yapılan masraflar ve satılan bağımsız bölümlerin satışı konusunda uyuşamadıklarının tespiti halinde ise, inşaat maliyetinin Bayındırlık ve İskan Bakanlığı'nın birim fiyatlarına göre değil, yapıldığı tarihteki olağan rayice göre tespit edilerek, davaya konu taşınmazda dava dışı arsa sahibi ...'a verilen daireler dışında, 3.kişilere satılan dairelerin satış tarihindeki rayiç değerleri ile satılmayan dairelerin de karar tarihine en yakın tarihlerdeki değerleri belirlenerek davaya konu 3500
 nolu taşınmazdaki 3 adet blok halinde inşa edilen inşaata ilişkin ortaklığın aktif ve pasifi belirlenerek, ortakların her birinin ortaklığa verdiği avanslarla, ortaklık için yapmış oldukları masraflar ve vermiş oldukları sermaye iade edildikten sonra paylaştırılması gereken miktar belirlenmeli ve yukarıda açıklanan tasfiye hükümleri de değerlendirilerek tasfiye gerçekleştirilmelidir. Mahkemece yukarıda ifade edilen yasa hükümleri nazara alınmadan, eksik ve yetersiz bilirkişi raporu hükme esas alınmak suretiyle hüküm tesisi yoluna gidilmesi doğru görülmemiş, bozmayı gerektirmiştir.
 
 ## Yargıtay 3. HD 2014/10005 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/88446600)
 
 Yukarıda yapılan açıklamalar ışığında taraflarca akdedilen 17.03.2008 tarihli sözleşme hükümleri birlikte değerlendirildiğinde; tarafların yükümlülüklerini düzenleyen 4. madde ile işin yürütülmesi sırasında ortaya çıkacak zararlardan yüklenicinin sorumlu olduğu, ayrıca bağımsız bölümlerin 3. kişilere satışı için gereken vekaletname ve yetki belgelerinin arsa sahibi tarafından yükleniciye verileceği, hasılatın paylaşımını düzenleyen 5. maddede bağımsız bölümlerin tamamının satış ve pazarlama işlemlerinin yüklenici tarafından gerçekleştirileceği, satıştan elde edilecek olan hasılattan arsa sahibinin payına düşen meblağın en az ne kadar olacağının taraflar arasında yapılacak ayrı bir protokolle belirleneceği ve işin tamamlanmasını müteakip bir yıllık süre içerisinde bağımsız bölümlerin satılamaması halinde, kalan bölümlerin fiziki paylaşımına gidileceğinin kararlaştırıldığı, buna göre sözleşme maddelerinin hep birlikte yorumlanmasından taraflarca akdedilen sözleşmenin müşterek amaç ve müşterek amaç için birlikte çaba unsurunu içermemesi nedeniyle adi ortaklık sözleşmesi olmadığı, diğer bir anlatımla “Ayni Paylaşım Koşulunu İçeren Gelir Paylaşımlı İnşaat Sözleşmesi” olduğu ve buna
 bağlı olarak uyuşmazlıkta eser sözleşmesi hükümlerinin uygulanması gerektiği anlaşılmaktadır.
@@ -116,14 +142,20 @@ Bu durumda; mahkemece yapılan hukuki nitelendirmenin yerinde olmasına (HMK.md.
 
 ## Yargıtay 23. HD 2014/8225 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/119132500)
+
 Öte yandan, dava konusu sözleşmede yüklenici olarak dava dışı S.İnş. Taah. ve Tic. Ltd. Şti.'de yer almaktadır. Sözleşmede yükleniciler ile ilgili ayrı ayrı yükümlülükler düzenlenmediğine göre, birlikte arsa payı karşılığı inşaat yapmayı taahhüt eden bu kişilerin adi ortaklık niteliğiyle sözleşmeyi imzaladıkları anlaşılmaktadır. Adi ortaklığın tüzel kişiliği olmadığı gibi, dava ve taraf ehliyeti de yoktur. TBK'nın 630. maddesinde düzenlendiği üzere, adi ortaklık sözleşmesinde bir hüküm mevcut olmadıkça, adi ortaklığı idare eden ortak ile diğer ortaklar arasındaki ilişkiler, vekâlet hükümlerine tâbidir. Özel bir yetkiyi haiz olmadıkça vekilin, önemli işlemlerden olan davayı açamayacağı TBK'nın 504. maddesi hükmü gereğidir. Adi ortaklık, iştirak kurallarına tâbi olduğu için, davaların, Türk Medeni Kanunu’nun 702. ve TBK'nın 638. maddeleri gereğince bütün ortaklar tarafından birlikte açılması gerekir.
 Ancak, tek ortak tarafından davanın açılmış olması halinde, davacıya diğer ortakların davaya katılması veya onaylarının alınıp, kendisine temsil yetkisini vermelerini sağlamak üzere uygun süre verilmesi, taraf teşkili sağlanması durumunda, uyuşmazlığın esasının incelenmesine geçilebilir (YHGK’nın 17.01.1990 tarih ve 13-457 E., 2 K., Yargıtay 15. H.D. 18.10.1990 tarih ve 469 E., 4198 K., Dairemizin 30.04.2014 tarih ve 1087 E., 3356 K. sayılı ilamları bu yöndedir.) Özetle açıklanan bu hukuksal sebeplerle, davada taraf teşkili sağlanmadan, yanılgılı gerekçeye dayalı olarak yazılı şekilde hüküm kurulması da doğru olmamıştır.
 
 ## Yargıtay 3. HD 2013/7989 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/257763600)
+
 Bütün bu açıklamalar ışığında, taraflar arasında düzenlenen 04.07.2001 tarihli villa sitesi inşaatı ortaklık sözleşmesi taraflar arasında geçerli bir adi ortaklık ilişkisinin kurulduğunun kabulü zorunlu olup, uyuşmazlığın yukarıda açıklanan ve maddeler halinde belirtilen sıra ve yöntem izlenerek çözümlenmesi gerekirken, mahkemece, değinilen bu yönler dikkate alınmadan eksik inceleme ve yanılgılı değerlendirme ile yazılı şekilde hüküm kurulması doğru görülmemiştir.
 
 ## Yargıtay 3. HD 2012/16355 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/535110700)
 
 …
 
@@ -132,10 +164,14 @@ Ortaklar, ortaklık borçlarından alacaklılara karşı doğrudan doğruya ve s
 
 ## Yargıtay 13. HD 2012/9699 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/759639800)
+
 Davacı ... ile davalı ve dava dışı şahıslar arasında imzalanan 4.6.2001 tarihli protokol ile mülkiyeti davalıya ait olan 3626 ada 3 parsel üzerinde inşaat yapılması bazı dairelerin davalıya diğer dairelerin ise ortaklara bırakılmasının ve inşaatın davalı tarafından yapılmasının kararlaştırıldığı, üyelerin dairelerin bedelini aidatlar halinde ödeyeceğinin belirlendiği, 24.4.2002 tarihli protokol ile de davacı ...’nın adi ortaklığa üye olduğu anlaşılmaktadır. Öte yandan davacıların her ikisinin de kendilerine ait olacağı kararlaştırılan dairelere karşılık bir takım ödemelerde bulunduğu, ödemelerin tamamlandığından bahisle dairelerin adlarına tescilini istedikleri, davalının ise esasen davacıların tescil taleplerine karşı koymadığı ve ancak dairelerin maliyet bedellerinin tahsilinden sonra ortaya çıkan fark bedelinin kendisine ödenmesini istediği anlaşılmakta olup, uyuşmazlık böyle bir fark bedelin oluşup oluşmadı, oluşmuş ise davacıların bu bedelden sorumlu olup olmadıkları noktasında toplanmaktadır. Hemen Belirtmek gerekir ki taraflar arasındaki ilişki ... ortaklığı olarak vasıflandırılan adi ortaklık şeklindedir.
 Adi ortaklığın amacı da kooperatif örgütlenmesine benzeyen bir şekilde üyelerin ödeyecekleri aidatlar karşılığında inşaatın tamamlanmasının ve bağlamda her bir üyeye (adi ortağa) kararlaştırılan dairenin verilmesinin sağlanmasıdır. Üyenin (adi ortağın) kararlaştırılan dairenin sahibi olabilmesi içinde sözleşmede belirlenen şekilde dairenin maliyetini ödemesi gerekir. Ortakların (üyelerin) dairenin maliyet bedelini ödemeden dairenin sahibi olması, adi ortaklığın amacına ve hukuki yapısına aykırı bir durum oluşturduğu gibi sebepsiz zenginleşmeye de yol açan niteliktedir Bu itibarla, davacıların kendilerine ait olması kararlaştırılan dairelerin tapularının kendi adlarına tescilini isteyebilmeleri için öncelikle kendilerinin ödemeleri gereken maliyet fark bedellerini ödemeleri zorunludur. Mahkemece değinilen bu yön gösterilerek dosya kapsamında ve alınan bilirkişi raporlarına göre belirlenecek bedelin depo edilmesi için davacılara makul 2011/10052 2012/9699 …
 
 ## Yargıtay 13. HD 2010/13111 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/773525700)
 
 Dava dışı Adalet Bakanlığı'nın Maltepe Cezaevi inşaatı için düzenlediği ihaleyi davalının kazandığı ve akabinde inşaatın yapımı için davanın tarafları arasında 21.3.2005 tarihli sözleşme ile adi ortaklık oluşturulduğu hususu ihtilafsızdır. Sözleşmenin 1.maddesinde işin %60'ının davalı ...'a, %40'ının eşit şekilde olmak üzere davacılara ait olacağı , işin yapımıyla ilgili giderler düşüldükten sonra kalan karın ortaklar arasında hisseleri oranında paylaştırılacağı kararlaştırılmıştır. Mahkemece, alınan bilirkişi raporu ve ek raporu benimsenerek adi ortaklık sözleşmesinin feshine karar verilmiştir. BK.nun 538.maddesinde belirtildiği gibi tasfiye, bütün hesapların görülüp, ortaklığın aktif ve pasif bütün malvarlığının belirlenip, ortakların birbirleri ile alacak verecek ve ortaklıktan doğan tüm ilişkilerinin kesilmesi yoluyla ortaklığın sona erdirilmesi, malların paylaşılması ya da satış yoluyla elden çıkarılmasıdır. Ortaklık sözleşmesinde hüküm bulunduğu takdirde tasfiyenin sözleşmedeki hükümlere göre yapılması asıldır.
 Mahkemece adi ortaklığın hesap ve belgeleri taraflardan ve özellikle yönetici ortak olduğu anlaşılan davalıdan istenerek ve dava dışı Adalet Bakanlığı'ndan inşaata ilişkin belgelerin bir kısmı temin edilerek bilirkişilerden rapor ve ek rapor aldırılarak karar verilmiş ise de, bilirkişilerin inşaata ait maliyet bedelini hesaplarken davalının ihale aşamasında verdiği fiyat teklifini esas alarak hesaplama yaptıkları anlaşılmaktadır. Oysaki az yukarıda belirtildiği üzere BK.nun 538.maddesi uyarınca ortaklığın hüküm aktif ve pasiflerinin duraksamaya yer vermeyecek şekilde belirlenmesi zorunlu olup, bu bağlamda cezaevi inşaatı için adi ortaklıkça yapılan gerçek harcamanın ve maliyetin belirlenmesi gerekir. İnşaatın gerçek 2010/1039-13111 …

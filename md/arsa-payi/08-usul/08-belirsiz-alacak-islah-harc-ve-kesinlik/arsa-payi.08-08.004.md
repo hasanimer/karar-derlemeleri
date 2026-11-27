@@ -21,6 +21,8 @@ uyari: "Derleyenin seçtiği alıntılardır; kararın tamamı değildir. Künye
 
 ## Adana BAM 9. HD 2026/304 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1197181200)
+
 Dava, icra takibine yapılan itirazın iptali istemine ilişkindir.
 
 Davacı tarafından, taraflar arasında Yapı Denetim Hizmet Sözleşmesi imzalandığı, sözleşmedeki tüm edimlerin yerine getirildiği, ancak, sözleşmede yapı sahibi olarak anılacak olan davalının, yapılan ihtara rağmen yapı denetimi hizmet bedelini zamanında ödemediği, bu hususta başlatılan icra takibine yapılan itirazın haksız olduğu iddia edilmiş, davalı ise, sözleşmenin yapı sahibi ile yapı denetim kuruluşu arasında yapılacağına dair sözleşmedeki açık ve emredici düzenlemeye aykırı olarak, sözleşmenin müteahhit ile yapıldığını, müteahhidin yapı sahibi veya yapı sahibinin vekili olmadığını, yapılan inşaata ilişkin arsa sahipleri ile noterde yapılan taşınmaz satış vaadi ve arsa payı karşılığı inşaat sözleşmesi olup, bu sözleşmede de yapı denetim hizmet bedelinin taraflarınca ödeneceğinin belirtilmediğini,18/12/2015 tarihinde yapı sahibi olduğunu, ancak, davacı tarafından sunulan sözleşmelerin, bu tarihten önce, 05/06/2015 ve 06/11/2015 tarihinde yapıldığını, sözleşmelerin geçerli olması halinde, ancak yapı sahibi olduğu kısım kadar sorumluluğunun olduğunu belirterek davanın reddini savunmuş, mahkemece yazılı gerekçe ile davanın kısmen kabulüne karar verilmiştir.
@@ -33,6 +35,8 @@ olduğu, davalı tarafından sözleşmelerin geçersiz olduğu savunulmuş ise d
 davanın kısmen kabulüne karar verilmiş olması usul ve yasaya uygun ise de, mahkemece, kısmen kabulüne karar verilen davada, karar tarihindeki Avukatlık Asgari Ücret Tarifesi'nin 13/1. maddesi dikkate alınarak reddedilen (124.734,96.TL) kısım yönünden, davalı lehine (19.710,24.TL) nispi vekalet ücretine hükmedilmesi gerekirken, maktu vekalet ücretine hükmedilmiş olması usul ve yasaya aykırı olup, davalı vekilinin bu yöndeki istinaf sebebinde haklı olduğu anlaşılmıştır.
 
 ## İstanbul BAM 7. HD 2025/1310 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1144056100)
 
 İLK DERECE MAHKEMESİ KARARI: İstanbul Anadolu 10. Asliye Ticaret Mahkemesinin 2020/470 esas ve 2021/946 karar sayılı 16/12/2021 tarihli kararı ile; davacının tapu iptali ve tescil davasının reddine , terditli bedel davasının kabulüne " 450.013,00 TL' nin ıslah tarihi olan 17/06/2021 tarihinden itibaren yasal faizi ile davalı ...
 
@@ -54,6 +58,8 @@ HÜKÜM: Gerekçesi yukarıda açıklandığı üzere; 1-Davacı vekilinin istin
 
 ## İstanbul BAM 53. HD 2024/1137 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1086788000)
+
 Sözleşmeye göre yükleniciye verilmesi kararlaştırılan 1 ve 4 nolu bağımsız bölümlerin harici satış sözleşmesi ile davacıya temlik edildiği iddiası ile söz konusu dava açılmış olup, KKİS mahkeme kararı ile geçmişe etkili feshedildiğinden yüklenicinin dava konusu bağımsız bölümleri hak etmediği anlaşılmakla alacağı temlik aldığını iddia eden davacıda bağımsız bölümlerin tapusunu talep edemeyeceği gibi bunların bedellerini de sebepsiz zenginleşme hükümlerine göre de talep edemez. İlk derece mahkemesince bu gerekçe ile davanın reddine karar verilmesi gerekirken, hukuki yarar yokluğu nedeniyle reddine karar verilmesi hatalı olmuştur.
 Bu nedenle mahkeme kararı gerekçe yönünden hatalı olduğundan kararın kaldırılmasına ve gerekçenin düzeltilerek yeniden davanın esasatan reddine karar verilmesi gerekmiş, buna göre vekalet ücreti yeni karara göre değerlendirileceğinden davacı vekilinin vekalet ücretine yönelik istinaf sebebi inceleme konusu yapılmamıştır.Açıklanan nedenlerle, davacı vekilinin istinaf talebinin gerekçeye yönelik olarak kısmen kabulü ile, yerel mahkeme kararının HMK'nın 353/1-b-2. bendi gereğince kaldırılarak davanın esastan reddine, dava esastan reddedildiğinden ve istinafa gelenin sıfatına ve dairemizce verilen karara göre usuli kazanılmış haklarda gözetilerek AAÜT 13. Maddesine göre davalı yararına ilk derece mahkemesince verilen kararda belirtilen vekalet ücretine hükmedilmesine dair yeniden esas hakkında karar verilmesi gerekmiştir.
 
@@ -62,6 +68,8 @@ HÜKÜM: Gerekçesi yukarıda açıklandığı üzere;A)1-Davacı vekilinin isti
 …
 
 ## İstanbul BAM 53. HD 2024/10 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/992341000)
 
 Maddesi incelendiğinde, hükmün sadece imalat faaliyetini düzenlediğini, arsa sahibinin taşınmaz devrine ilişkin bir KDV sorumluluğunun müvekkiline yüklenmediğini, kısa karar ile hükmün çelişkili olduğunu, mahkemenin 15/04/20201 tarihinde kısa karar ile kurduğu hüküm ile, gerekçeli karardaki hükmün birbirine uygun olmadığını, bu uyumsuzluğun HMK 304. maddesine göre tashih edilmesinin hukuken hatalı olduğunu belirterek istinaf kanun yoluna başvurmuştur. Dava; KKİS'den kaynaklı sözleşme taraflarınca karşılıklı düzenlenen faturalardan kaynaklanan KDV alacağının tahsili istemine ilişkin olup, davacı arsa sahibi davalı ise yüklenicidir.
 Davacı arsa sahibi, taraflar arasında 30/09/2010 tarihli KKİS imzalandığını, anlaşma gereğince sözleşmeye konu 535 adet bağımsız bölümün anahtarlarının 27/11/2017 tarihinde müvekkiline teslim edildiğini, davalı yüklenicinin teslim ettiği bu bağımsız bölümler için 91.792.050 TL + %1 KDV 917.920,50 TL toplam 92.709.970,50 TL bedelli fatura düzenlediğini, iş bu faturanın tebliğ alınmasından sonra taraflar arasındaki sözleşmeye ve KDV kanuna uygun olarak eş zamanlı müvekkilinin de arsa bedeli için 91.792.050 TL +%18 KDV 16.522.569 TL toplam 108.314.619 TL bedelli fatura düzenlediğini, işin niteliği gereği, davalı yüklenicinin KDV oranını %1 olarak, müvekkilinin ise kanuna uygun olarak KDV oranını %18 olarak fatura düzenlediklerini, her iki faturanın mahsubu sonrasında müvekkilinin KDV alacağı olduğunu, taraflar arasında imzalanan sözleşmenin 20.
@@ -78,6 +86,8 @@ HÜKÜM: Gerekçesi yukarıda açıklandığı üzere; A)1-Davalı vekilinin ist
 
 ## İstanbul BAM 14. HD 2023/2132 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/988220400)
+
 Nitekim 6762 sayılı TTK’nın 338. maddesinde, yönetim kurulu üyelerinin kusur ve sorumluluklarının bulunmadığını ispat etmedikleri takdirde zarardan sorumlu oldukları düzenlenmiştir. Dolayısıyla yönetim kurulu üyelerinin sorumlulukları anılan yasa maddelerine göre belirlenmelidir.Bu ilke ve açıklamalar ışığında somut olaya bakıldığında: davalıların davacı bankanın yöneticileri oldukları dönemde gerçekleştirilen sözleşme, ek protokoller ile yapılan projeler kapsamında gerçekleştirilen soruşturma ve düzenlenen raporlar neticesinde zarara uğradığı iddiası ile iş bu dava açılmıştır. Dosya üzerinde birden fazla bilirkişi heyetince alınan raporlarda davacı bankanın muhasebe kayıtlarına göre dava konusu edilen ... Projesinden bankanın kâr elde etmiş olduğu anlaşılmıştır. Davacı banka tarafından teras alanlarının bedelinin tespit olunacak birim fiyatla ödenmesi yerine götürü bedel hesabına dâhil edilerek ödenmesinden dolayı zararın gerçekleştiği iddia edilmiş ise de söz konusu yapılan işlemlerde zararın meydana geldiği davacı tarafça ispat edilememiştir.
 Bilirkişi heyet raporlarında ayrıntılı şekilde yer verildiği üzere soruşturma raporlarındaki teknik açıklamalarda yer verilen hususların davaların sorumluluğunu ve herhangi bir zararı ispatlar nitelikte olmadığı anlaşılmaktadır. Diğer taraftan, teras katların ek protokol ile inşaat alanına katılmasınında herhangi bir zarara neden olmadığı, bankanın projenin tamamından dolayı kâr elde etmiş olduğu tespit edilmiştir. Banka tarafından inşaat üretimine ilişkin olarak gerçekleştirilen faaliyet aşamasında dava dışı yüklenici firmanın düzenlemiş olduğu hakedişlere dair ödemelerin gerçekleştirilmesi aşamasından önce, teknik elemanlarca yapılan işlemlerin sahada tespit edilerek denetlenmesi gerektiği de aşikardır. Davacı banka tarafından fazla ve haksız ödeme yapıldığı iddia edilen dava dışı yüklenici firmaya karşı istirdat davası açılmamıştır. Ayıp ve eksik işler nedeniyle dava açılmıştır. Söz konusu davada firmaya fazladan yapıldığı iddia edilen ödemeye dair bir tespite rastlanılmadığı gibi akside iddia edilmemektedir.
 
@@ -90,6 +100,8 @@ Hüküm tarihinde yürürlükte bulunan AAÜT'nin genel hükümlerinde yer alan 
 HÜKÜM: Yukarıda açıklanan gerekçelerle; 1-HMK'nın 353/1.b.1. maddesi uyarınca, davacı vekilinin ve davalılar ... ile ... vekilinin istinaf başvurularının ayrı ayrı esastan reddine …
 
 ## Antalya BAM 7. HD 2023/930 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/940415500)
 
 Davacı/ birleşen dosya davalı vekili, asıl davada, eksik inceleme neticesinde cezai şart taleplerinin reddine karar verilmesinin hatalı olduğu, davacının zararının talep edilen cezai şarttan fazla olduğu, asıl davada, eksik ve ayıplı imalat bedelleri ile değer kaybından kaynaklanan taleplerinin zamanaşımı nedeniyle reddine karar verilmesinin hatalı olduğu, somut olaya uygulanması gereken 10 yıllık zamanaşımı süresinin dolmadığı, sözleşmenin ifa ve fesih edilmemiş olması, açılan davanın belirsiz alacak davası olması nedeniyle zamanaşımı süresinin işlemeye başlamadığı ve sürenin işletilemeyeceği, birleşen davada, davacı yüklenici tapu hak etmediği için tapunun bedelini de talep edemeyeceğinden ... blok ... nolu bağımsız bölüm yönünden açılan davanın reddi yerine ayırma kararı verilmesinin hatalı olduğu, yargılama giderlerinin kabul/ ret oranına göre paylaştırılmasının doğru olmadığı, yapılan masrafların taraflarına ödenmesi gerektiği, birleşen davada reddedilen talepler için lehlerine ayrı ayrı vekalet ücretine hükmedilmesi gerekirken, toptan tek vekalet ücretine hükmedilmesinin hukuka aykırı olduğu, yüklenicinin sözleşmede belirlenen ücrete hak kazanmaması nedeniyle hapis hakkı
 kullandıkları paylar yönünden ücret indirimi veya takas / mahsup yapılmasını talep ettikleri gibi nedenlerle kararı istinaf etmiştir.
@@ -108,6 +120,8 @@ Taraf vekillerinin ve fer'i müdahilin istinaf başvurularının AYRI AYRI ESAST
 
 ## İstanbul BAM 15. HD 2023/162 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/871385800)
+
 Dava; eser sözleşmesinden kaynaklanan hakediş alacağının tahsili için girişilen icra takibine itirazın iptali talebine ilişkin olup, mahkemece davanın kısmen kabülüne dair verilen karara karşı taraflarca istinaf talebinde bulunulmuştur.
 
 …
@@ -125,6 +139,8 @@ HÜKÜM: Gerekçesi yukarıda açıklandığı üzere;1-Taraf vekillerinin istin
 
 ## İstanbul BAM 15. HD 2021/2288 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/712260500)
+
 Yukarıda açıklandığı üzere, sözleşmenin 4. maddesi uyarınca davalı-birleşen davacı iş sahipleri, öncelikli edimleri olan, devretmeyi taahhüt ettikleri daireyi davacı-birleşen davalı yükleniciye süresinde devretmediklerinden, yüklenicinin teslim borcunu zamanında yerine getirmemesi sebebiyle borçlu temerrüdü hükümlerinden yararlanamayacak ve bu sebeple talepte bulunamayacaklarından, birleşen davadaki, dairelerin satış fiyatlarındaki davalının gecikmesinden kaynaklı oluştuğu iddia edilen zarar talebinin reddine karar verilmiş olması yerinde görülmüştür. Birleşen davada talep edilen, davacı-birleşen davalı çalışanları için ödendiği iddia edilen 8.000,00-TL SSK primi talebinin reddine karar verilmesine ilişkin olarak, kaldırma kararımız sonrasında verilen yeni karara ilişkin sunulan istinaf dilekçelerinde bir istinaf itirazı bulunmamaktadır. 22/11/2016 tarihli bilirkişi heyeti raporunda ve yapılan itirazlar üzerine alınan 11/09/2017 tarihli 2.
 Ek raporda yapılan açıklama ve tespitler göz önünde bulundurulduğunda, davacı-birleşen davacının eksik fatura düzenlemesinden dolayı davalı-birleşen davacının 7.092,00-TL KDV zararı oluştuğu anlaşıldığından, birleşen davada buna dair talep edilen 7.000,00-TL tazminatın kabulüne karar verilmiş olması yerinde görülmüştür. Taraflar arasında düzenlenen sözleşmede imalâtın bedeli 510.000,00 TL + KDV olarak kararlaştırılmıştır. Bu haliyle sözleşmedeki bedel sözleşme tarihi itibariyle yürürlükte olan 818 sayılı BK'nın 365. maddesinde (6098 sayılı TBK’nın 480.) tanımlanan götürü bedeldir. Götürü bedelli işlerde, yüklenicinin hak ettiği iş bedelinin saptanması yada iş sahibinin ödemesinin fazla olup olmadığının belirlenmesi için gerçekleştirilen imalâtın eksik ve kusurlar da dikkate alınarak tüm işe oranının tespiti, bulunacak bu oranın toplam iş bedeline uygulanarak hak edilen bedelin saptanması ve bulunacak bu rakamdan kanıtlanan ödemeler düşülerek hesaplanması gerekmektedir.
 
@@ -137,6 +153,8 @@ Kişiye yaptırıldığı belirlenen eksik ve ayıplı işlerin sözleşmeye kon
 HÜKÜM: Gerekçesi yukarıda açıklandığı üzere;1-Taraf vekillerinin asıl davaya ilişkin istinaf başvurularının REDDİNE,2-Taraf vekillerinin birleşen davaya ilişkin istinaf başvurularının KISMEN KABULÜNE,2-Bakırköy 6. Asliye Ticaret Mahkemesi'nin 29/04/2021 tarih, 2021/262 Esas, 2021/450 Karar sayılı kararının KALDIRILMASINA …
 
 ## İzmir BAM 14. HD 2021/465 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/642476800)
 
 Davacı şirket yetkilisi tarafından verilen 17.05.2019 tarihli dava dilekçesinde özetle; davalı şirket ile aralarında 24/03/2017 tarihinde kat karşılığı inşaat sözleşmesi akdedildiğini, sözleşmeye göre ... ili, ... İlçesi, ...
 
@@ -159,6 +177,8 @@ Her iki taraf tacir olmakla HMK 18/2 maddesindeki şartlar da sağlandığından
 …
 
 ## İstanbul BAM 3. HD 2020/917 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/596124900)
 
 Öte yandan, ıslah, tahkikatın sona ermesine kadar yapılabilir. (HMK. md.177/1).Konu ile ilgili HMK hükümleri ve emsal içtihatlar dikkate alındığında,14/06/2017 tarihli celsede,mahkemece "tahkikatın sona erdirilerek sözlü yargılamaya geçilmesi şeklindeki tesbit ile tahkikat o celse sona ermiştir. Sonraki celsede taraf vekilleri sözlü yargılama günün tebliğ edilmediği itirazında da bulunmadıkları gibi,mahkemece ,duruşmanın ertelenmesine dair ara karar oluşturulması dahi ,tahkikatın bittiği soncunu değiştirmemektedir. Bu sebeple ıslah dilekçesi tahkikatın bitirilmesinden sonra verilmiş olmakla,davacı tarafın bu husustaki istinaf sebebi yerinde görülmemiştir.
 Alınan kök ve hükme dayanak yapılan ek bilirkişi raporunda, ilave işlerin yüklenici kusurundan kaynaklanmadığı ve tamamından davalının sorumlu olduğu belirtilmesine rağmen mahkemece resen sözleşmenin hasılat paylaşımı sözleşmesi olması ve sözleşmesel oranlar gereği davalı idarenin %22 oranında sorumlu olması gereği üzerine mahkemenin kendi yaptığı hesaplama sonrası ilave ek maliyet tutarının 123.284,98 TL olarak hesaplanmasının ve davacının ilave maliyet olarak dava dilekçesinde sadece 100.000,00 TL talep etmesi,diğer 4000.000,00 TLlık talebin bedel indirim vs başka taleplere ilişkin olması ve yerinde görülmeyerek buna dair davanın ispatlanamadığı ,ayrıca ilave talebe dair ıslah talebi de reddedilmekle, davanın ilave maliyet açısından kısmen kabulüne karar verilmesi karşısında,mahkemenin hükme dayanak ek bilirkişi raporu ve ilave maliyetteki sözleşmesel sorumluluk oranının sözleşmenin bizzat mahkemece yorumlanıp değerlendirilmesi sonucu,mahkemenin kararı usul ve hukuka uygun bulunmuştur.Yeni bir bilirkişi incelemesinin davaya katkı sağlamayacağı da açıktır.

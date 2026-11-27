@@ -36,6 +36,8 @@ Temyize konu ... Bölge İdare Mahkemesi... İdare Dava Dairesinin ... tarih ve 
 
 ## Danıştay 9. D. 2025/1308 E., 2025/3587 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1206411700)
+
 İlk Derece Mahkemesi kararının özeti: ...
 
 …
@@ -49,6 +51,8 @@ iptali yolundaki Vergi Mahkemesi kararında sonucu itibarıyla yasal isabetsizli
 ... Bölge İdare Mahkemesi ... Vergi Dava Dairesinin ... tarih ve E:..., K:... sayılı kararının BOZULMASINA …
 
 ## Danıştay 4. D. 2024/2992 E., 2025/2511 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1174921800)
 
 İstanbul ili, Kadıköy ilçesi, ... Mahallesi, ... ada, ... parsel sayılı taşınmazda bulunan binanın, 6306 sayılı Afet Riski Altındaki Alanların Dönüştürülmesi Hakkında Kanun uyarınca riskli yapı olarak belirlenmesini müteakip, binanın yıkılması sonrasında yeniden yapılacak binaya ilişkin olarak üçte iki üzerinde paydaş çoğunluğu ile alınan karara katılmayan davacının arsa payının, 6306 sayılı Kanun'un 6. maddesi ile 6306 sayılı Kanunun Uygulama Yönetmeliği'nin 15/A maddesinin 8. fıkrası uyarınca 22/02/2023 tarihinde yapılan açık artırma ile satışı sonucunda, KİPTAŞ İstanbul Konut İmar Plan Turizm Ulaşım Sanayi ve Ticaret Anonim Şirketine 3.204.000,00-TL bedel karşılığında satılmıştır.Bunun üzerine bakılan dava açılmştır.
 
@@ -84,6 +88,8 @@ Temyize konu ... Bölge İdare Mahkemesi ... İdari Dava Dairesinin ... tarih ve
 
 ## Danıştay 13. D. 2024/3489 E., 2025/898 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1162902900)
+
 Dosya içerisinde yer alan tüm bilgi ve belgeler incelendiğinde, Denizli Devlet Hastanesinin deprem analiz sonuçlarına göre riskli yapı olarak tespit edildiği, alınan karot numuneleri sonucu beton dayanım oranlarının göçme sınırı altında 5-9 MPa aralığında olduğu ve binaların ivedilikle boşaltılarak yıkılması gerektiği, binaların boşaltılması durumunda bölgede sağlık hizmetini sunacak bir tesis kalmayacağından, ivedilikle yeni sağlık tesislerine ihtiyaç bulunduğunun anlaşıldığı, Denizli Şehir Hastanesinin yüksek teknolojik donanım gerektiren sismik izolasyon sistemlerine sahip, elektrik ve mekanik anlamda yüksek teknolojili akıllı bina sistemleri ile donatılacak yapılardan olduğu, bu açıdan ihale konusu işin yapım tekniği açısından özellik arz eden işlerden olduğu, ihalenin pazarlık usulüyle yapılabilmesi için Kanun'da öngörülen durumların uyuşmazlık konusu olayda meydana geldiği, dava konusu ihale için yaklaşık maliyetin idare tarafından 13.633.876.032,48 TL olarak belirlendiği, ihaleye 4 firmanın katıldığı, ihalenin 11.999.995.000,00 TL bedel ile yaklaşık maliyetin altında en avantajlı teklifi veren müdahil şirketlerin oluşturduğu iş ortaklığı üzerinde kaldığı, ihalede açıklık,
 rekabet, kaynakların verimli kullanılması ilkelerine riayet edildiği, ihale edilen işin ivedi olarak gerçekleştirilmesini gerekli kılan nedenlerin bulunduğu anlaşıldığından 4734 sayılı Kanun'un 21/b maddesinde belirtilen şartların oluştuğu, söz konusu ihalenin pazarlık usulü ile gerçekleştirilmesi yönünde tesis edilen dava konusu işlemde hukuka aykırılık bulunmadığı sonucuna varılmıştır.
 
@@ -93,6 +99,8 @@ Davanın reddi yolundaki ... İdare Mahkemesinin ... tarih ve E:..., K:... sayı
 
 ## Danıştay 4. D. 2024/410 E., 2024/7653 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1153125000)
+
 Davalı tarafından; idarelerinin herhangi bir kusurunun bulunmadığı, bilirkişi raporunun hükme esas alınamayacağı, davaya konu alanın riskli alan ilan edilen alanda kaldığı, idarelerine iletilen teklif riskli alan dosyasında, alanda 261 yapı bulunduğu ve bu yapıların içerisinde 6306 sayılı Kanun kapsamında Riskli Yapı tespiti yapılmış, raporları onaylanmış ve tapuya şerh edilmiş 150 adet Riskli Yapı yer aldığı ve diğer yapıların da benzer nitelikte olduğunun vurgulandığı, devam eden süreçte 191 adet riskli yapı tespiti yapıldığı, dava konusu işlem ile alakalı sürecin ilgili Belediyesince yürütüldüğü, tazmini gerektirir bir husus bulunmadığı, diğer davalı idare vekilinin duruşmaya katılmadığı, lehlerine verilen vekalet ücretinin hatalı belirlendiği belirtilerek, re'sen gözetilecek sebeplerle temyize konu kararın bozulması gerektiği ileri sürülmektedir.
 
 …
@@ -101,11 +109,15 @@ Temyize konu ... Bölge İdare Mahkemesi ... İdare Dava Dairesinin ... tarih ve
 
 ## Danıştay 4. D. 2024/881 E., 2024/2029 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1136746500)
+
 Dosyanın incelenmesinden; 6306 sayılı Afet Riski Altındaki Alanların Dönüştürülmesi Hakkında Kanun kapsamında riskli yapı tespiti yapmak üzere lisanslandırılan davacı şirket tarafından riskli yapı tespiti yapılan Trabzon İli, Vakfıkebir İlçesi, ... Mahallesi, ... ada, ... parselde bulunan yapıya ilişkin riskli yapı tespit dosyasındaki eksikliklerin mevzuatta belirlenen süre içerisinde düzeltilmediğinden bahisle, anılan şirkete 6306 sayılı Kanunun 3. maddesinin 8. fıkrasının (a-1) bendi uyarınca yazılı olarak uyarı cezası verilmesine ilişkin Çevre ve Şehircilik Bakanlığı Altyapı ve Kentsel Dönüşüm Hizmetleri Genel Müdürlüğünün ... tarih ve ... sayılı işleminin tesis edilmesi üzerine, bakılmakta olan davanın açıldığı anlaşılmıştır.
 
 Bu durumda; uyuşmazlığın Trabzon İlinde bulunan yapı hakkında riskli yapı tespiti sonucu verilen uyarı cezasına ilişkin işlemden kaynaklandığı, davanın görüm ve çözümünde 2577 sayılı Kanunun 34/1. maddesi uyarınca taşınmazın bulunduğu yer idare mahkemesi olan Trabzon İdare Mahkemesi'nin yetkili olduğu anlaşılmıştır.
 
 ## Danıştay 4. D. 2023/13780 E., 2024/1815 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1059625900)
 
 Bölge İdare Mahkemesi ... İdare Dava Dairesinin …
 
@@ -154,9 +166,13 @@ Temyize konu … Bölge İdare Mahkemesi ... İdare Dava Dairesinin … tarih ve
 
 ## Danıştay 4. D. 2023/11463 E., 2024/1174 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1061476100)
+
 6306 sayılı Kanun uyarınca riskli yapı olarak tespit ve ilan edildiği belirtilen Gaziantep ili, Şehitkamil ilçesi, ... Mahallesi, ... ada, ... parsel sayılı taşınmazın yıkılmasından sonra, davacı ... ve dava dışı ..., ... , ... ve ... adına vekaleten (kendi adına asaleten) Av. ... tarafındani Kira Yardımı Esasları'nın 9. maddesinin on yedinci fıkrası uyarınca hazırlanan muvafakatname/feragatnamenin elektronik imza ile imzalanarak Gaziantep Valiliğine sunulmasına karşın, başvuranların kira yardımından feragat edebilmesinin ve bu konuda diğer hissedarlara kira yardımından yararlanma konusunda muvafakat vermesinin, 6306 sayılı Afet Riski Altındaki Alanların Dönüştürülmesi Hakkında Kanun kapsamında riskli yapılarda yapılacak kira yardımının usul ve esaslarını düzenleyen (2019 yılı) Çevre ve Şehircilik Bakanlığınca hazırlanan Kira Yardım Kılavuzu'nun 9. maddesinin on yedinci fıkrası uyarınca noterden verecekleri muvafakatname/feragatnameyi zorunlu kıldığının davacıya bildirildiği belirtilmektedir.
 
 ## Danıştay 6. D. 2019/21746 E., 2023/9779 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1047069400)
 
 İlk Derece Mahkemesi kararının özeti: ... İdare Mahkemesince verilen …
 
@@ -176,6 +192,8 @@ Dava konusu işlemlerin iptali yolundaki İdare Mahkemesi kararına yönelik ola
 
 ## Danıştay 6. D. 2020/2238 E., 2023/6868 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1021136200)
+
 Diğer taraftan büyükşehir belediye sınırları içerisinde yer alan riskli alanlara, rezerv yapı alanlarına ve riskli yapıların bulunduğu taşınmazlara ilişkin imar planlarının yapılması ve onaylanmasında özel kanun olan 6306 sayılı Kanun'un uygulaması gerektiğinden, söz konusu taşınmazlara/alanlara ilişkin imar planlarını yapma ve onaylama yetkisi Çevre ve Şehircilik Bakanlığına geçmekte, ancak Bakanlık, sahip olduğu bu yetkisini belediyelere devredebilmektedir.
 
 Bu açıklamalar doğrultusunda riskli alanlara, rezerv yapı alanlarına ve riskli yapıların bulunduğu taşınmazlara ilişkin imar planlarının yapılması ve onaylanması yetkisinin Çevre ve Şehircilik Bakanlığına ait olduğu ve Bakanlığın sahip olduğu bu yetkisini belediyelere devredebileceği açık olmakla birlikte, Bakanlığın söz konusu yetkisinin varlığından söz edilebilmesi için mutlaka bir alanın dava konusu işlemin tesis edildiği tarih itibariyle Bakanlar Kurulu (6306 sayılı Kanun'un 2. maddesinin 1. fıkrasının (ç) bendinde 02/07/2018 tarihli, 700 sayılı Kanun Hükmünde Kararname'nin 196. maddesi ile yapılan değişiklik sonrasında Cumhurbaşkanı) kararı ile riskli alan ilan edilmesi veya Çevre ve Şehircilik Bakanlığınca rezerv yapı alanı tespit edilmesi ya da riskli alan içinde veya dışında kalan herhangi bir taşınmaz üzerindeki yapılara ilişkin 6306 sayılı Kanun'un 3. maddesinde düzenlenen prosedürler işletilerek Bakanlıkça lisanslandırılan kurum ve kuruluşlarca riskli yapı tespitinin yapılmış olması gerekmektedir.
@@ -188,6 +206,8 @@ Uyuşmazlıkta, 6306 sayılı Kanun'un 6. maddesinin 12. fıkrası uyarınca Bak
 Dava konusu işlemin iptaline ilişkin Mahkeme kararına yönelik olarak yapılan istinaf başvurusunun reddi yolundaki temyize konu … Bölge İdare Mahkemesi ... İdari Dava Dairesinin … tarih ve E:…
 
 ## Danıştay 4. D. 2023/7923 E., 2023/6506 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1047546800)
 
 İlk Derece Mahkemesi kararının özeti: ... İdare Mahkemesince verilen … tarih ve E:…, K:… sayılı kararda; dava konusu işyerinin bulunduğu taşınmaz hakkında 6306 sayılı Kanun gereğince 16/01/2015 tarihinde riskli yapı kararı verildiği ve taşınmazın davacı tarafından yıkılarak yeniden inşa edilmeye başlanıldığı, davalı İdare tarafından ise, dava konusu yapının 6306 sayılı Afet Riski Altındaki Alanların Dönüştürülmesi Hakkındaki Kanun kapsamında "riskli yapı olarak" ilan edilmesi nedeniyle, ...
 
@@ -204,6 +224,8 @@ birleştirilerek veya imar adası bazında uygulama yapılmasına, yeniden bina 
 Temyize konu … Bölge İdare Mahkemesi ... İdare Dava Dairesinin … tarih ve E:…, K:… sayılı kararının BOZULMASINA …
 
 ## Danıştay 6. D. 2023/1015 E., 2023/6206 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1011140500)
 
 İSTEMİN ÖZETİ: Konya İli, Meram İlçesi, …
 
@@ -236,6 +258,8 @@ sayılı kararın, usul ve hukuka aykırı olduğu ileri sürülerek bozulması 
 … Bölge İdare Mahkemesi ... İdari Dava Dairesince verilen … tarih ve E:… sayılı karar ve dayandığı gerekçe hukuk ve usule uygun olup bozulmasını gerektirecek bir sebep bulunmadığından, anılan kararın ONANMASINA …
 
 ## Danıştay 4. D. 2023/12188 E., 2023/5755 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1063192600)
 
 İlk Derece Mahkemesi kararının özeti: Davacı tarafından, dava konusu …
 

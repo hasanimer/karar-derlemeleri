@@ -22,6 +22,8 @@ uyari: "Derleyenin seçtiği alıntılardır; kararın tamamı değildir. Künye
 
 ## Danıştay 4. D. 2023/11167 E., 2025/4771 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1189316600)
+
 MÜDAHİLİN SAVUNMASI : Kültür ve Turizm Bakanlığı tarafından;
 Anayasanın 63. maddesinin birinci fıkrasında tarih, kültür ve tabiat varlıklarının ve değerlerinin korunmasını sağlamak, bu amaçla destekleyici ve teşvik edici tedbirleri almak görevlerinin Devlete verildiği, anılan maddenin ikinci fıkrasında ise bu varlıklar ve değerlerden özel mülkiyet konusu olanlara getirilecek sınırlamalar ve bu nedenle hak sahiplerine yapılacak yardımlar ve tanınacak muafiyetlerin Kanunla düzenleneceğinin hüküm altına alındığı, bu doğrultuda yürürlüğe giren 2863 sayılı Kültür ve Tabiat Varlıklarını Koruma Kanunu ile ülkemizde bulunan kültür varlıklarını tespit ve koruma yetkisi ile görevinin Kültür ve Turizm Bakanlığına verildiği, yine anılan Kanun ile kültür varlıklarının korunması amacıyla imar planı yapılmasının zorunlu hale getirildiği, koruma amaçlı imar planlarının ise 3194 sayılı İmar Kanunu ve ilgili mevzuatı ile hazırlanan imar planlarından farklı olup, özel nitelikteki alanlarda yapılıyor olması nedeniyle daha detaylı bir araştırma ve analiz gerektiren mekânsal düzenlemeler olduğu, riskli alan ilanına konu Antakya'nın kültürel ve tarihi nitelikleri dolayısıyla yeniden ihyası için kurumsal altyapı, kapasite ve tecrübesi nedeniyle Kültür ve Turizm
 Bakanlığının koordinatörlüğünün bir gereklilik olduğu, alandaki kültür varlıklarının 6306 sayılı Kanun yerine 5366 sayılı Kanun kapsamında korunmasının sağlanması gerektiği yönünde görüş var ise de; 5366 sayılı Kanunun "yıpranan ve özelliğini kaybetmeye yüz tutmuş kültür varlıklarını ihya etmek" amacını taşıdığı;
@@ -30,12 +32,16 @@ uygulanabilir olmadığı, diğer yandan, 6306 sayılı Kanunun, riskli alan ila
 
 ## Danıştay 6. D. 2022/4483 E., 2025/4679 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1203678300)
+
 Mekansal Planlar Yapım Yönetmeliği'nin 4.maddesinin 1.fıkrasının (c) bendinde, "Çevre düzeni planı:
 Varsa mekânsal strateji planlarının hedef ve strateji kararlarına uygun olarak orman, akarsu, göl ve tarım arazileri gibi temel coğrafi verilerin gösterildiği, kentsel ve kırsal yerleşim, gelişme alanları, sanayi, tarım, turizm, ulaşım, enerji gibi sektörlere ilişkin genel arazi kullanım kararlarını belirleyen, yerleşme ve sektörler arasında ilişkiler ile koruma-kullanma dengesini sağlayan 1/50.000 veya 1/100.000 ölçekteki haritalar üzerinde ölçeğine uygun gösterim kullanılarak bölge, havza veya il düzeyinde hazırlanabilen, plan notları ve raporuyla bir bütün olarak yapılan planı ifade eder." kuralı, 19. maddesinin 1.fıkrasında, "Çevre düzeni planları hazırlanırken; a) Varsa mekânsal strateji planlarına uygunluğun sağlanması, b) Yeni gelişmeler ve bölgesel dinamiklerin dikkate alınması, c) İlgili kamu kurum ve kuruluşlarının mekânsal kararları etkileyecek nitelikteki bölge planı, strateji planı ve belgesi, sektörel yatırım kararlarının dikkate alınarak değerlendirilmesi, ç) Sürdürülebilir kalkınma amacına uygun olarak ekolojik ve ekonomik kararların bir arada değerlendirilmesi, d) Tarihi, kültürel yapı ile orman alanları, tarım arazileri, su kaynakları ve kıyı gibi doğal yapı ve
 peyzajın korunması ve geliştirilmesi, e) Doğal yapının, ekolojik dengenin ve ekosistemin sürekliliğinin korunması amacıyla arazi kullanım bütünlüğünün sağlanması, f) Ulaşım ağının arazi kullanım kararlarıyla birlikte ele alınması suretiyle imar planlarında güzergahı netleştirilecek yolların güzergah ve yönünün genel olarak belirlenmesi, g) Çevre sorunlarına neden olan kaynaklara yönelik önleyici strateji ve politikaların belirlenerek arazi kullanım kararlarının oluşturulması, ğ) İmar planlarına esas olacak şematik ve grafik dil kullanılarak arazi kullanım kararları ile koruma ve gelişmenin sağlanması, h) Afet tehlikelerine ilişkin mevcut raporlar ve jeolojik etütler dikkate alınarak afet risklerini azaltıcı önerilerin dikkate alınması esastır." kuralı, aynı maddenin 2.fıkrasında, "Çevre düzeni planlarının hazırlanması sürecinde, planlama alanı sınırları kapsamında aşağıda genel başlıklar halinde belirtilen konular ile diğer konularda ilgili kurum ve kuruluşlardan veriler elde edilir; bu veriler kapsamında analiz, etüt ve araştırmalar yapılır: a) Sınırlar. b) İdari ve bölgesel yapı. c) Fiziksel ve doğal yapı. ç) Sit ve diğer koruma alanları, hassas alanlar, doğal karakteri korunacak
 alanlar. d) Ekonomik yapı. e) Sektörel gelişmeler ve istihdam. f) Demografik ve toplumsal yapı. g) Kentsel ve kırsal yerleşme alanları ve arazi kullanımı. ğ) Altyapı sistemleri. h) Yeşil ve açık alan kullanımları. ı) Ulaşım sistemleri. i) Afete maruz ve riskli alanlar. j) Askeri alanlar, askeri yasak bölgeler ve güvenlik bölgeleri. k) Planlama alanına yönelik bölgesel ölçekli kamu projeleri ve yatırım kararları. l) Her tür ve ölçekteki plan, program ve stratejiler. m) Göller, barajlar, akarsular, taşkın alanları, yeraltı ve yüzeysel su kaynakları ve benzeri hidrolojik, hidrojeolojik alanlar. n) Çevre sorunları ve etkilenen alanlar." kuralı, 4.fıkrasında, "Plan hazırlık sürecinde ihtiyaç duyulan veri, bilgi ve belgeler; ilgili veriyi hazırlamakla sorumlu kurum ve kuruluşlardan, bilimsel çalışmalardan ve uzmanlarca arazide yapılacak çalışmalardan elde edilir." kuralı, 20. maddesinin 1.fıkrasında, "Çevre düzeni planının ihtiyaca cevap vermediği hallerde veya planın vizyonu, amacı, hedefleri, stratejileri, ilke ve politikaları açısından plan ana kararlarını, sürekliliğini, bütünlüğünü etkilemesi halinde çevre düzeni planı bütününde revizyon yapılır.
 
 ## Danıştay 6. D. 2025/145 E., 2025/4650 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1188946800)
 
 Anılan rezerv yapı alanı ilanı sonrasında da ... yerleşkesini kapsayan ve davacılara ait taşınmazların bitişiğinde ve komşuluğunda bulunan ... ada, ... parsel ve ..., ..., ..., ..., ..., ..., ..., ..., ..., ..., ..., ..., ..., ..., ..., ..., ..., ..., ... ve ... parsel sayılı taşınmazlar ile bir kısım tescil harici alana ilişkin olarak 1/5000 ölçekli nazım imar planı ile 1/1000 ölçekli uygulama imar planı Çevre, Şehircilik ve İklim Değişikliği Bakanlığı tarafından 06.04.2022 tarihinde onaylanmış ve 06/04/2022 - 05/05/2022 tarihleri arasında askıya çıkarılmıştır. Söz konusu planlarda da anılan taşınmazlara "kısmen gelişme konut alanı (E:0,30, E:0,80, E:1,00, E:1,10), kısmen ticaret-konut alanı (E:0,80), kısmen ticaret alanı (E:0,50), kısmen park alanı, kısmen İSKİ hizmet alanı, kısmen yol" fonksiyonu getirilmiş, yaklaşık 150.000 m2 inşaat alanı ve 2800 kişilik nüfus öngörülmüştür. Anılan imar planlarına karşı ... yerleşkesi içerisinde ilk imar planından itibaren konut alanında kalan ve içerisinde davacıların da yer aldığı ..., ..., ..., ..., ..., ..., ..., ..., ..., ..., ..., ..., ..., ..., ..., ..., ..., ..., ... parsel sayılı komşu taşınmaz malikleri tarafından açılan davada, ...
 İdare Mahkemesince ... tarih ve E:..., K:... sayılı kararıyla;
@@ -47,6 +53,8 @@ Davanın yukarıda özetlenen gerekçeyle kısmen karar verilmesine yer olmadı�
 …
 
 ## Danıştay 6. D. 2022/7309 E., 2025/4190 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1202932500)
 
 …
 
@@ -64,6 +72,8 @@ Dava konusu ...tarihli, ... sayılı Karabağlar Kaymakamlığı Tapu Müdürlü
 
 ## Danıştay 6. D. 2023/6531 E., 2025/4189 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1187933900)
+
 Davacılar, dava dilekçesinde, hissedarı oldukları ... sayılı kadastral parselin bulunduğu alanda oluşturulan imar parsellerinin kendilerine tahsis edilmediği, büyük bölümü kadastral parsellerinin dışında olan alanda oluşturulan ... ada, ... sayılı imar parselinin tahsis edildiği, kadastral parsellerinin düz bir alan olmasına rağmen çok eğimli olan ve kot farkının 30 metreyi bulduğu kendilerine tahsis edilen bu imar parselinin eşdeğer olmadığı, tamamen kadastral parselleri içinde kalacak şekilde oluşturulan ... ada, ... sayılı ve kısmen kadastral parsellerinin olduğu yerde oluşturulan ... ada, ... sayılı imar parsellerinin dışarıdan getirilen kadastral parsel maliklerine tahsis edildiği, böylece daha değerli olan bu imar parsellerinin maliklerine rant sağlandığı, öte yandan kadastral parsellerinin olduğu yerde (... ada, ..., ... ve ... sayılı parsellerin yerine) müstakil bir imar parselinin oluşturularak kendilerine tahsis edilmesinin mümkün olduğu ileri sürülerek dava açmışlardır.
 
 Davalı idare tarafından, parselasyon işleminin ilk defa 14.10.2022 tarihli işlemle onaylandığı, itirazlar nedeniyle gerekli düzeltmelerin yapılarak yeniden hazırlanan parselasyon işleminin 24.01.2023 tarihinde yeniden onaylandığı, İstanbul Kadastro Müdürlüğünce teknik kontrollerin yapıldığı ve bazı eksik ve hataların tespit edildiği, bu doğrultuda yeniden hazırlanan parselasyon işleminin 27.10.2023 tarihinde onaylandığı, ancak ... ada, ... sayılı imar parselinin alanının hatalı olması nedeniyle 21.11.2023 tarihli işlem ile 14.10.2022 tarihli, 24.01.2023 tarihli, 27.10.2023 tarihli parselasyon işlemlerinin iptal edilerek parselasyon işleminin yeniden onaylandığı belirtildiğinden, davacılara tahsis edilen imar parsellerine ilişkin olarak bir değişiklik yapılıp yapılmadığının anlaşılabilmesi için Danıştay Başsavcılığının istem yazısının davalı idareye tebliğ edildiği, davalı idarenin 17.02.2025 tarihli cevabından, 24.01.2023 ve 21.11.2023 tarihli parselasyon işlemlerine ilişkin düzenleme sınırının aynı olduğu, ... ada, ... sayılı imar parselinin alanının hatalı olması nedeniyle düzenleme ortaklık payı oranının değiştiği, bu nedenle dağıtım miktarında farklılık olmakla birlikte
@@ -77,6 +87,8 @@ Dava konusu 24.01.2023 tarihli parselasyon işlemin onaylanmasından sonra İsta
 
 ## Danıştay 6. D. 2022/390 E., 2025/4185 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1191419000)
+
 DANIŞTAY TETKİK HAKİMİ ...'IN DÜŞÜNCESİ : Mekansal Planlanlar Yapım Yönetmeliğinin "Genel planlama esasları" başlıklı 7. maddesinde: "Bu Yönetmeliğe göre hazırlanacak her tür ve ölçekteki mekânsal planlar aşağıda yer alan planlama ilke ve esaslarına, planların hazırlanması ile ilgili standartlara, gösterim tekniklerine ve tanımlara uygun olarak yapılır: a) Planlar, kamu yararı amacıyla yapılır. b)Planlar; pafta, gösterim, plan notları ve plan raporu ile bir bütündür." "hükmüne, "Gösterim (lejand) teknikleri" "başlıklı 10. maddesinde; "(1) Her türlü mekânsal plan, kendi kademesinin ve yapılış amacının gerektirdiği çizim ve gösterim tekniğine göre hazırlanır.(2) Planlar, Bakanlıkça belirlenen ve EK-1 Gösterimler başlığı altında yer alan EK-1a Ortak Gösterimler, EK-1b Mekânsal Strateji Planları Gösterimleri, EK-1c Çevre Düzeni Planı Gösterimleri, EK-1ç Nazım İmar Planı Gösterimleri, EK-1d Uygulama İmar Planı Gösterimleri ve EK-1e Detay Kataloğuna uygun olarak hazırlanır.
 (3) Gösterim listesine ilişkin teklif niteliğinde olan, öznitelikler ve kodlamalar ile planların özelliği gereği ihtiyaç duyulacak gösterim tür ve tipi Bakanlıkça değerlendirilerek uygun görülen gösterimler, Bakanlığın internet sayfasında ilan edilir. Bakanlıkça ilan edilmeyen gösterim planlarda uygulanamaz." hükmüne yer verilmiştir.
 
@@ -86,6 +98,8 @@ Bu nedenle davanın reddine karar verilmesi gerekirken plandaki lejant gösterim
 
 ## Danıştay 6. D. 2022/2820 E., 2025/3920 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1191446800)
+
 MADDİ OLAY : Mardin İli, Nusaybin İlçesi, ... Mahallesi, ... parsel sayılı taşınmazın bulunduğu alanda 3194 sayılı İmar Kanunun 18. maddesi uyarınca parselasyon yapılmasına ilişkin Mardin Büyükşehir Belediye Encümeninin ... tarih ve... sayılı (674 sayılı KHK'nın 38. Maddesi ile 5393 sayılı Kanunun 45. Maddesine eklenen ek fıkra gereğince) kararı ile bu kararın dayanağı Mardin Büyükşehir Belediye Encümeninin ... tarihli, ... sayılı kararı ile kabul edilen 1/5000 ölçekli revizyon nazım imar planı ve 1/1000 ölçekli revizyon uygulama imar planına yapılan itirazların değerlendirildiği Mardin Büyükşehir Belediye Encümeninin ... tarih ve .../... sayılı (674 sayılı KHK'nın 38. Maddesi ile 5393 sayılı Kanunun 45. Maddesine eklenen ek fıkra gereğince) kararının taşınmaza ilişkin kısmının iptaline karar verilmesi istemiyle bakılmakta olan dava açılmıştır.
 
 …
@@ -93,6 +107,8 @@ MADDİ OLAY : Mardin İli, Nusaybin İlçesi, ... Mahallesi, ... parsel sayılı
 Dava konusu işlemlerin yukarıda özetlenen gerekçeyle iptaline ilişkin Mahkeme kararına yönelik olarak yapılan istinaf başvurusunun parselasyon işlemine ilişkin kısmı yönünden reddi …
 
 ## Danıştay 6. D. 2024/3907 E., 2025/3806 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1191560000)
 
 14.06.2014 tarih ve 29030 sayılı Resmi Gazete'de yayımlanarak yürürlüğe giren Mekansal Planlar Yapım Yönetmeliğinin 'Mekânsal planlama kademeleri ve ilişkileri başlıklı 6.maddesinde; "... (2) Mekânsal planlar, plan kademelenmesine uygun olarak hazırlanır. Her plan, planlar arası kademeli birliktelik ilkesi uyarınca yürürlükteki üst kademe planların kararlarına uygun olmak, raporu ile bütün oluşturmak ve bir alt kademedeki planı yönlendirmek zorundadır. (3) Arazi kullanım ve yapılaşmada sadece mekânsal strateji planları, çevre düzeni planları ve imar planları kararlarına uyulur. (...)" hükmüne, 'Genel planlama esasları' başlıklı 7. maddesinde; "(1) Bu Yönetmeliğe göre hazırlanacak her tür ve ölçekteki mekânsal planlar aşağıda yer alan planlama ilke ve esaslarına, planların hazırlanması ile ilgili standartlara, gösterim tekniklerine ve tanımlara uygun olarak yapılır: b) Planlar; pafta, gösterim, plan notları ve plan raporu ile bir bütündür." hükmüne, 'Araştırma ve analiz' başlıklı 8. maddesinde;
 "(1) Mekânsal planların, plan değişiklilerinin, revizyon ve ilavelerin hazırlanması sürecinde, kamu kurum ve kuruluşları veya plan müelliflerince planın türüne ve kademesine göre bu Yönetmelikte genel başlıklar halinde belirtilen konularda ilgili kurum ve kuruluşlardan veri, görüş ve öneriler elde edilerek gerekli analiz, etüt, araştırma ve çalışmalar yapılır." hükmüne, 'Plan raporu' başlıklı 9.maddesinde; "(1) Mekânsal planlara ilişkin, kendi kademesine göre ve yapılış amacının gerektirdiği açıklamaları içeren bir plan raporu hazırlanır. (2) Plan raporunda, planın türü, ölçeği, kapsamı ve özelliğine göre; vizyon, amaç, hedefler ve stratejiler belirlenerek, koruma-kullanma esasları, alan kullanım kararları, yoğunluk ve yapılaşmaya ilişkin konularda planlama esasları ve uygulama ilkeleri, eylem planları, açık ve yeşil alan sistemi, ulaşım, erişilebilirlik ve mekânın etkin kullanılması, gerektiğinde koruma, sağlıklaştırma ve yenileme program, alan ve projelerinin etaplama esasları, alan kullanım dağılımı tablosu gibi hususlarda açıklamalara yer verilir. ...
@@ -106,6 +122,8 @@ Dava konusu işlemlerin yukarıda özetlenen gerekçeyle iptaline ilişkin Mahke
 Davanın yukarıda özetlenen gerekçeyle reddine ilişkin Mahkeme kararına yönelik olarak yapılan istinaf başvurusunun reddi yolundaki temyize konu ... Bölge İdare Mahkemesi .... İdari Dava Dairesinin ... tarih ve E:..., K:...sayılı kararının BOZULMASINA …
 
 ## Danıştay 6. D. 2019/12045 E., 2025/3758 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1191416700)
 
 Davacı tarafından İzmir- Manisa Planlama Bölgesi 1/100.000 ölçekli Çevre Düzeni Planında genel olarak 1/25.000 ölçekli Çevre Düzeni Planı kararlarının göz önüne alınması gerektiği ileri sürülmüş ise de, dava konusu planın üst ölçekli çevre düzeni planı olması ve plan kademelenmesi açısından alt ölçekli planları yönlendirebilecek yeni ve farklı stratejik mekansal kararlar üretilebilecek nitelikte olması nedeniyle 1/25.000 ölçekli plan ile tamamıyla örtüşmesi ve her kararında bu plana uygun olması gibi bir zorunluluk bulunmadığından davacının bu iddiasına itibar edilmemiştir.
 
@@ -123,6 +141,8 @@ v.b. alanların yer alabileceği, kentsel yerleşme alanlarında organize sanayi
 Dava konusu planın diğer kısımlarına yönelik DAVANIN REDDİNE …
 
 ## Danıştay 6. D. 2021/5718 E., 2025/3732 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1191444900)
 
 Aynı Kanunun, 5. maddesinde, nazım imar planı; varsa bölge planlarının mekâna ilişkin genel ilkelerine ve varsa çevre düzeni planlarına uygun olarak halihazır haritalar üzerine, yine varsa kadastral durumu işlenmiş olarak çizilen ve arazi parçalarının; genel kullanış biçimlerini, yerleşme alanlarının gelişme yön ve büyüklüklerini, nüfus yoğunlukları ve eşiklerini, ulaşım sistemlerini göstermek ve uygulama imar planlarının hazırlanmasına esas olmak üzere düzenlenen, plan hükümleri ve raporuyla beraber bütün olan plan olarak tanımlanmış, çevre düzeni planı, varsa mekansal strateji planlarının hedef ve stratejilerine uygun olarak yerleşim, gelişme alanları ve sektörlere ilişkin alt ölçekli planlarını yönlendiren genel arazi kullanım kararları çerçevesinde ilke ve kriterleri belirleyen bölge, havza veya il bütününde hazırlanan, plan hükümleri ve raporuyla bir bütün olan plan olarak tanımlanmış, 8. maddesinin 1. fıkrasında; planların tanımlaması yapılarak, planlar bölge planı, çevre düzeni planı, nazım imar planı ve uygulama imar planı olarak kademelendirilmiş ve alt ölçekli planların üst ölçekli planlarda belirlenen planlama ana ilkelerine, stratejilerine ve kararlarına uyumlu olması
 zorunluluğu getirilmiştir.

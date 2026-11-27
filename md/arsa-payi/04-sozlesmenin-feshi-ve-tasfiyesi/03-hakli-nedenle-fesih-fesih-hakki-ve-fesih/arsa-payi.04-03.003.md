@@ -22,6 +22,8 @@ uyari: "Derleyenin seçtiği alıntılardır; kararın tamamı değildir. Künye
 
 ## Yargıtay 6. HD 2025/3824 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1192478400)
+
 Davacı vekili dava dilekçesinde; 5747 sayılı Kanun ile ... Belediyesine bağlanan ...
 
 …
@@ -38,6 +40,8 @@ Temyiz olunan Bölge Adliye Mahkemesi kararının 6100 sayılı HMK'nın 370/1 h
 
 ## Yargıtay 6. HD 2025/3680 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1184856000)
+
 Davalı ... vekili temyiz dilekçesinde; müteveffa yüklenicinin hem mirasçısı hem de taşınmazdan iyiniyetle hak iktisap eden 3. kişi konumunda olduğunu, kendi adına kayıtlı bağımsız bölümleri cebri icradan satın alan davalı ...’den satın aldığını, tapu siciline güvenerek hareket eden iyiniyetli 3. kişi olduğunu beyan etmiştir.
 
 …
@@ -52,6 +56,8 @@ TMK’nın 3. maddesine göre, tapuya güvendiğini, iyiniyetli olduğunu beyan 
 (2 -a ve 4 ) numaları bentlerde açıklanan nedenlerle davalı tapu malikleri ve mirasçıları ...,...,..., ..., ..., ..., ..., ..., ..., ..., ..., ..., ..., ..., ..., ..., ..., ..., ... ve ...’in temyiz itirazlarının kabulü ile hükmün temyiz eden bu davalılar lehine olacak şekilde ve infazı kabil hüküm kurulması için re’sen BOZULMASINA …
 
 ## Yargıtay 6. HD 2025/3385 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1181931900)
 
 Davacı vekili dava dilekçesinde; taraflar arasında düzenlenen 19.02.2016 tarihli arsa payı karşılığı inşaat sözleşmesinde, davalı yüklenici tarafından sözleşmenin düzenlenmesinden itibaren 9 ay içinde inşaat ruhsatının alınmaması halinde arsa sahibinin sözleşmeyi feshetmekte serbest olduğunun düzenlendiğini, davalı yüklenicinin bu sürede inşaat ruhsatını alamadığını, bu nedenle davacı arsa sahibinin maddi zarara uğradığını ileri sürerek, arsa payı karşılığı inşaat sözleşmesinden dönme ve fazlaya ilişki hakları saklı kalmak kaydıyla dönme nedeniyle uğranılan zararların tazminine karar verilmesini talep ve dava etmiştir.
 
@@ -71,6 +77,8 @@ Sözleşmenin feshi başlıklı 7/g maddesinde ise “İşbu sözleşmenin imzal
 
 ## Yargıtay 6. HD 2025/3041 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1178225100)
+
 Davacı vekili dava dilekçesinde; müvekkili ile davalılardan yüklenici ... arasında arsa payı karşılığı inşaat sözleşmesi imzalandığını, sözleşmede inşaatın yüklenici tarafından inşaat ruhsatının alınmasından itibaren 18 ay içerisinde sözleşme hükümlerine göre bitirilip teslim edileceğinin, bu sürenin üzerinden 6 ay geçtiği takdirde bağımsız bölüm veya bölümler teslim edilmez ise arsa sahibinin sözleşmeyi tek taraflı olarak feshedebileceğinin kararlaştırıldığını, davalı yüklenicinin sözleşmede kararlaştırılan süre dolmasına rağmen inşaatı teslim etmediğini, ...
 
 …
@@ -87,6 +95,8 @@ Temyiz olunan Bölge Adliye Mahkemesi kararının BOZULMASINA …
 
 ## Yargıtay 6. HD 2025/2650 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1202156600)
+
 Davalı ...
 
 …
@@ -99,6 +109,8 @@ Diğer yandan, dava konusu taşınmaz üzerinden son tapu maliki üzerine kat ir
 3\. bentte açıklanan nedenlerle, davalı ...ve Turizm San. Ltd. Şti. vekili ve davalı ... Bankası vekilinin temyiz itirazlarının kabulü ile kararın bu davalılar yararına BOZULMASINA …
 
 ## Yargıtay 6. HD 2025/2416 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1186936500)
 
 Davacı vekili dava dilekçesinde; davacının hissedarı olduğu taşınmaza davalı tarafından bina yapımı için taraflar arasında 02.06.2016 tarihinde arsa payı karşılığı inşaat sözleşmesi yapıldığını ve davalının taşınmazdaki hissedarların tamamıyla sözleşme yaptıktan sonra 36 içinde inşaatı ruhsatını alacağının ve ruhsat tarihinden itibaren de 36 ay içinde inşaatı teslim edeceğinin kararlaştırıldığını ancak 6 yıla yakın bir süre geçmiş olmasına rağmen davalının halen inşaat ruhsatını dahi almadığını, edimlerini yerine getirmesinin mümkün olmadığını ileri sürerek arsa payı karşılığı inşaat sözleşmesinin geriye etkili olarak feshini, müvekkili arsa sahiplerinin uğramış oldukları menfi zararın tahsilini talep etmiştir.
 
@@ -115,6 +127,8 @@ Dava, arsa payı karşılığı inşaat sözleşmesinin geriye etkili olarak fes
 Temyiz olunan Bölge Adliye Mahkemesi kararının BOZULMASINA …
 
 ## Yargıtay 6. HD 2025/2319 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1160526700)
 
 Davalı arsa sahipleri vekili asıl davaya karşı cevap dilekçesinde özetle; yüklenicinin sözleşmeden kaynaklanan sorumluluklarını yerine getirmediğini, E blokun yapılacağı yapının yüklenici tarafından yıkılması gerektiğini, E blokun en son yapılacağı hususunun yüklenicinin de kabulünde olduğunu, ruhsat alınmasındaki gecikmenin sorumluluğunun yüklenicide olduğunu, belediye tarafından inşaat mühürlendikten sonra yüklenicinin inşaata devam etmesi nedeniyle suç duyurusunda bulunduklarını belirterek davanın reddini talep etmiştir.
 
@@ -134,6 +148,8 @@ geçecek bedel ile sözleşmesine göre yapılan imalât sebebiyle yükleniciye 
 
 ## Yargıtay 6. HD 2025/2183 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1160269800)
+
 Davacı vekili dava dilekçesinde; davalı yüklenici ... San. ve Tic. Ltd.
 
 …
@@ -151,6 +167,8 @@ Davacı taraf ile davalı şirket arasında arsa payı karşılığı inşaat s�
 Davacı vekilinin karar düzeltme talebinin KABULÜ ile Dairemizin 20.11.2024 tarih ve 2024/23 Esas, 2024/4220 Karar sayılı onama ilamı KALDIRILARAK yerel mahkeme kararının davacı yararına BOZULMASINA …
 
 ## Yargıtay 7. HD 2025/1976 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1163422900)
 
 Davacı vekili dava dilekçesinde özetle; dava konusu 948 ada 1 parsel sayılı taşınmaz üzerinde yer alan 14 numaralı bağımsız bölümün davacıya ait olup davalı tarafından 13.09.2013 tarihinden beri haksız şekilde işgal edildiğini ve 18.09.2019 tarihli ihtarnameye rağmen müdahalenin sonlandırılmadığını belirterek davalının haksız el atmasının önlenmesine ve ecrimisile karar verilmesini talep etmiştir.
 
@@ -172,6 +190,8 @@ Temyiz olunan Bölge Adliye Mahkemesi kararının BOZULMASINA …
 
 ## Yargıtay 6. HD 2025/1850 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1156779300)
+
 Davacılar ... ve ... davalılardan .... San. Ltd.
 
 …
@@ -192,6 +212,8 @@ Temyiz olunan Bölge Adliye Mahkemesi kararının 6100 sayılı HMK'nın 370/1 h
 
 ## Yargıtay 6. HD 2025/1378 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1152003200)
+
 Taraflar arasında Ankara 63. Noterliği'nin 10/06/2010 tarihli ve 11862 yevmiye no'lu düzenleme şeklinde kat karşılığı inşaat ve gayrimenkul satış vaadi sözleşmesi imzalanmıştır. Sözleşmenin ‘işin süresi’ başlıklı 4. maddesinde ‘ Yüklenicinin temerrüdü halinde arsa malikinin işin özelliğine göre sözleşmenin feshi dahil yasal hakları saklıdır. Sözleşmenin feshi halinde arsa malikinin her türlü müspet ve menfi zararlarının birlikte ve aynı anda talep ve tahsil hakkının varlığı taraflarca peşinen kabul edilmiştir.’ hükmü düzenlenmiştir. Yine sözleşmenin ‘gecikme cezaları’ başlıklı 12. maddesinde ‘ Arsa malikinin, sözleşmeyi yasaların öngördüğü haklı nedenle fesh etmesi halinde, BK'nın 106. ve devamı maddelerindeki dava ve talep hakları yanında, feshin niteliği ‘geriye etkili olsa dahi’ yükleniciden, müspet, menfi ve munzam bilumum zararlarını talep etme hakkı vardır’ hükmü düzenlenmiştir.
 
 …
@@ -199,6 +221,8 @@ Taraflar arasında Ankara 63. Noterliği'nin 10/06/2010 tarihli ve 11862 yevmiye
 Asıl davada davacı/ birleşen davada davalı kooperatif vekilinin temyiz itirazlarının kabulüyle kararın BOZULMASINA …
 
 ## Yargıtay 6. HD 2025/857 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1144870700)
 
 Davalı-karşı davacı vekili, cevap ve karşı dava dilekçesinde; sözleşmenin 6.1 maddesine göre altı ay içinde inşaat ile ilgili avan, mimari ve diğer tüm projeleri karşı tarafın hazırlaması ve arsa sahibi olarak müvekkillerinin olurunu alması gerektiğini, yine sözleşmenin 6.2 maddesinde de, altı ay içinde yapı-denetim firmasının denetim onayının alınarak inşaat ruhsatının alınmasının kararlaştırıldığını, bu on iki aylık süreye imar planı değişikliklerinden doğacak sürenin de dahil olduğunu, on iki ay içinde inşaat ruhsatı alınmaması halinde sözleşmenin fesholunacağını ve yüklenicinin hiçbir hak talebinde bulunamayacağını, ruhsat alındıktan sonra 60 ay içinde tüm işlerin yapılacağının kararlaştırıldığını, taraflar arasındaki kat karşılığı inşaat sözleşmesinden yaklaşık 7 ay önce de 22.08.2015 tarihli ön protokolün yapıldığını ve bu ön protokol ile de davacı yükleniciye ilgili tüm yerlerde gerekli araştırma ve işlemleri yapmak için yetki ve izin verildiğini, buna göre de sözleşme ve teknik şartnamenin hazırlandığını, yine mimari avan projenin çizildiğini, bu aşamada karşı tarafın yol kodu ya da imar durumunu tespit edip müvekkili kooperatife bildirmemesinde yüklenicinin kusurlu
 olduğunu, müvekkilinin üzerine düşen yükümlülüğü yerine getirdiğini, talebine bağlı olarak davacıya süre uzatımı da verildiğini, ancak verilen sürede de davacının yükümlülüğünü yerine getirmediğini, bu nedenlerle 29.05.2017 tarihinde noter ihtarı ile sözleşmenin fesih edildiğini belirterek, fesih sözleşmeye ve yasaya uygun olduğundan asıl davanın reddine karar verilmesini talep etmiş, karşı davada ise, davacının sözleşme gereği yerine getirmesi gereken yükümlülüklerini zamanında yerine getirmediğini, mimari projenin olmazsa olmaz eklerini dahi onaylatmadığını, sözleşmenin 6. maddesinde sözleşme tarihinden itibaren ruhsat alımı için verilen 12 aylık süreye ve ek olarak verilen 2 aylık süreye rağmen inşaat ruhsatlarını alamadığını, müvekkili kooperatif tarafından 29.05.2017 tarihli ihtarname ile sözleşmeden dönme hakkının kullanıldığını, başka bir anlatımla sözleşmenin feshedildiğini, ancak, arsa payı karşılığı inşaat sözleşmeleri iki yanlı sözleşmeler olduğundan sözleşmenin müvekkili tarafından haklı nedenlerle feshedildiğinin mahkeme tarafından tespitinin gerektiğini, sözleşmedeki yükümlülüklerin yerine getirilmemesi nedeniyle doğan tüm zarar ve ziyanın tazmini yönündeki talep ve
@@ -218,6 +242,8 @@ Temyiz olunan Bölge Adliye Mahkemesi kararının taraflar yararına BOZULMASINA
 
 ## Yargıtay 6. HD 2025/555 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1145721900)
+
 Davalı yüklenici şirket davaya cevap vermemiştir.
 
 …
@@ -232,6 +258,8 @@ Arsa payı karşılığı inşaat sözleşmesinin ileriye etkili feshedilmiş ol
 İlk Derece Mahkemesi kararının BOZULMASINA …
 
 ## Yargıtay 6. HD 2025/424 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1142621500)
 
 Davacılar vekili dava dilekçesinde; müvekkillerinin muris ... ile davalı yüklenici arasında 29.05.2014 tarihli arsa payı karşılığı inşaat sözleşmesi imzalandığını, sözleşmede yapı ruhsatından sonra 12 ay içerisinde teslimin kararlaştırıldığını, yapı ruhsatının 12.08.2014 tarihinde alındığını, şirketin süresi içinde inşaatı bitirip teslim edemediğini, davalı yükleniciye 18.08.2015 tarihli ihtarname ile 60 günlük sürede inşaatın tamamlanması, aksi halde inşaattan el çektirileceği ihtarının gönderildiğini, davalı şirketin ek sürede de inşaatı tamamlamadan inşaatı terk ettiğini, Muğla 1. Asliye Hukuk Mahkemesi’nin 2015/140 D.
 
@@ -249,6 +277,8 @@ Medeni Kanun'un 2. maddesi hükmü gözetilerek, sözleşmenin feshinin (sürekl
 İlk Derece Mahkemesi kararının BOZULMASINA …
 
 ## Yargıtay 6. HD 2025/189 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1123431100)
 
 İlk Derece Mahkemesince; arsa payı karşılığı inşaat sözleşmesinin geriye etkili feshi ve tapu iptal tescil davasında, davalı ...'ın, dava konusu ... Mahallesi 900 ada 24 parsel üzerinde sözleşme tarihinden itibaren iki yıllık süre içerisinde 30.03.2020 tarihine kadar bina inşa etmesi gerekirken inşaata hiç başlamadığı, mevcut durum itibariyle davaya konu taşınmaz üzerinde herhangi bir yapı bulunmadığı, yüklenici olan davalı ...'ın temerrüde düştüğü, taşınmazı diğer davalı şirkete devrederek sözleşmenin ifasını imkansız hale getirdiği, müteahhidin sözleşmedeki edimini yerine getirmediği için tapuda gerçek hak sahipliğini kazanamadığı, yükleniciden taşınmaz satın alan üçüncü kişilerin iyiniyet iddiasının dinlenemez olduğu gerekçesiyle davanın kabulüne karar verilmiştir.
 

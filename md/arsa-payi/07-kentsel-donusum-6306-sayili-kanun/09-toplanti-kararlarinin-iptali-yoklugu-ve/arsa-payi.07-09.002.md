@@ -21,6 +21,8 @@ uyari: "Derleyenin seçtiği alıntılardır; kararın tamamı değildir. Künye
 
 ## Yargıtay 23. HD 2017/1760 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/352841400)
+
 Davacı vekili, arsa sahibi müvekkilleri ile davalı arasında 14.07.2006 tarihinde arsa payı karşılığı inşaat sözleşmesi düzenlendiğini, sözleşme gereğince davalının bağımsız bölümleri süresinde teslim etmediğini ve bağımsız bölümlerde eksik imâlatlar bulunduğunu, ihtarnameye rağmen teslimin yapılmadığını, eksik imalâtların tamamlanmadığını ve talep edilen gecikme tazminatının ödenmediğini, ayrıca davalı tarafça müvekkillerine ait parsele taşan inşaat yapıldığını, bunun bedelinin de tazmini gerektiğini ileri sürerek, 49.000,00 TL kira tazminatı, 50.000,00 TL eksik işler tazminatı ve 1.000,00 TL taşkın inşaat tazminatı olmak üzere 100.000,00 TL'nin ihtarnameye göre reeskont faiziyle tahsiline karar verilmesini talep ve dava etmiş, 04.12.2014 havale tarihli ıslah dilekçesiyle, kira tazminatı talebini 349.000,00 TL, eksik imalât tazminatı talebini ise 51.000,00 TL arttırarak, toplam 500.000,00 TL'nin tahsilini istemiştir.
 
 Davalı vekili, davacı ...'ın arsa payı karşılığı inşaat sözleşmesinin tarafı olmadığını, davacılardan ..., ... ve ...'ın bağımsız bölümlerini üçüncü kişilere devrettiklerini, bu nedenle kira tazminatı ve eksik imalât bedeli talep edemeyeceklerini, imar planının 14.03.2008 tarihinde kesinleştiğini, teslim süresinin de bu tarihten başladığını, daha sonra imar planının İdare Mahkemesi'nce iptaline karar verildiğini, bu nedenle inşaata devam edilemediğini, iptal kararının mücbir sebep olduğunu, müvekkili yönünden teslim süresine ilişkin sözleşme maddesinin uygulanamaz olduğunu, davacılardan ... ve ...'a 60.000,00 TL ödenerek 21 aylık ek süre alındığını, bu nedenle davanın reddi gerektiğini, aksi kanaat halinde bu bedelin takas ve mahsubu gerektiğini savunarak, davanın reddini istemiştir.
@@ -37,6 +39,8 @@ SONUÇ:Yukarıda (1) numaralı bentte açıklanan nedenlerle, hükmün re'sen BO
 
 ## Yargıtay 20. HD 2015/12443 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/135716900)
+
 Dava, kat malikleri kurulu kararının iptali istemine ilişkindir.
 
 …
@@ -49,6 +53,8 @@ Somut olayda davacılar, Kadıköy İlçesi, Fenerbahçe Mh., 566 ada 73 sayıl�
 
 ## Yargıtay 5. HD 2014/28079 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/96727200)
+
 Mahkemece, davanın kabulüne karar verilmiş; hüküm, taraf vekillerince temyiz edilmiştir.
 
 …
@@ -60,6 +66,8 @@ Dosyada bulunan kanıt ve belgelere göre, davalı A.. Ş.. tarafından davacı 
 Davalı vekilinin temyiz itirazları yerinde olduğundan hükmün açıklanan nedenle HUMK’nun 428.maddesi gereğince BOZULMASINA …
 
 ## Yargıtay 14. HD 2011/6882 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/766361500)
 
 Davacı, 1243 ada 181 parsel sayılı taşınmazda 3. Blok 13 ve 14 no'lu işyerlerini mütahit firma ... - ... İnşaat Taahhüt San.
 
@@ -79,6 +87,8 @@ SONUÇ: Yukarıda açıklanan nedenlerle temyiz olunan hükmün BOZULMASINA …
 
 ## Yargıtay 15. HD 2008/393 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/856894800)
+
 Kat Karşılığı İnşaat Sözleşmeleri karşılıklı edimleri içerdiğinden ve iş sahibi tarafından yükleniciye tapu devri vaad edildiğinden noterde düzenleme şeklinde yapılması gerekir (TMK. md. 706, BK. md 213, Noterlik K. md. 60, Tapu Kanunu Md. 26). Bu husus sözleşmelerin geçerli olması için zorunludur. İşin tamamlanması ve yükleniciye tapu devri yapılması hallerinde de, noterde düzenleme şeklinde yapılmayan sözleşmenin geçerli hale geldiği kabul edilmektedir.
 
 Somut olayda dosyada bulunan taraflar arasındaki kat karşılığı inşaat sözleşmesi noterde düzenleme şeklinde yapılmamıştır. Sözleşmenin sadece noterde tasdik ettirildiği anlaşılmaktadır. İnşaat yüklenici tarafından tamamlanmadığı gibi yükleniciye tapu devri de yapılmamıştır. Bu yönler dikkate alındığında taraflar arasında geçerli bir sözleşmenin bulunmadığı açıktır. Yapılan sözleşme yok hükmündedir. Taraflar arasındaki sözleşmenin yok hükmünde olması durumunda tarafların sebepsiz zenginleşme hükümlerine göre verdiklerini geri alabilirler.
@@ -88,6 +98,8 @@ Somut olayda dosyada bulunan taraflar arasındaki kat karşılığı inşaat sö
 SONUÇ:Yukarıda açıklanan sebeplerle temyiz olunan kararın davalı yararına BOZULMASINA …
 
 ## Yargıtay 15. HD 2007/7213 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/860269900)
 
 Davacı vekili, davada; müvekkillerinin mirasbırakanı ile davalı kooperatif arasında Beyoğlu .... Noterliği’nce doğrudan düzenlenen 06.08.1996 tarih ve 18728 yevmiye numaralı “Gayrimenkul Satış Vaadi ve Kat Karşılığı İnşaat Sözleşmesi” yapıldığını; sözleşme gereğince verilmesi gereken bağımsız bölümlerin verilmediğini ileri sürerek sözleşme konusu (72) numaralı parsele davalının elatmasının önlenmesine ve 18.03.2004 ilâ 15.06.2005 tarihleri arasındaki süre için (6.000,00) YTL ecrimisilin tahsilini istemiştir.
 
@@ -105,11 +117,15 @@ aykırılığın devamı anlamına geleceğinden kamu düzenine ilişkin ve re�
 
 ## İstanbul BAM 17. HD 2025/904 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1157411000)
+
 Somut uyuşmazlıkta, işbu eldeki dava yasal bir aylık hak düşürücü süre içerisinde açılmadığından iptal talebine konu edilebileceği belirtilen gündemin 2, 5, 7, 8, 9, 11. maddelerine yönelik iptal nedenleri üzerinde durulması gerekmese de davacı davasını yokluk ve mutlak butlan iddiasına da dayandırdığından bu hususa yönelik iddiaların incelenerek kararların yokluk yada butlanını gerektirir bir halin bulunup bulunmadığının tespiti gerekir."...Kooperatif genel kurul kararlarını sakatlayan hukuka aykırılıklar bakımından kararlar; yoklukla malul, mutlak butlanla malul ve iptal edilebilir kararlar olarak üçe ayrılmaktadır.
 Emredici kurallara aykırı kararlar bakımından kararın şekil ve kurucu unsurları bakımından emredici kurallara aykırılık halinde (örneğin, toplantı ve karar yeter sayılarının bulunmaması) yokluk yaptırımı ile karşı karşıya kalacağı, maddi-öze ilişkin kanunun emredici kurallarına aykırılık halinde ise (örneğin, kararın ahlaka ve adaba aykırı olması, konusunun imkansız olması, kesin hükme ve kanunun emredici madde hukuk kurallarına aykırı olması) alınan kararların mutlak butlanla malul olacağı, kişisel hakları ilgilendiren kanunun emredici olmayan hükümleri ile ana sözleşme ve iyiniyet kurallarına aykırı kararların ise iptal edilebilir kararlar olduğu öğreti ve yargı kararlarında kabul edilmektedir..." (Yargıtay 6. Hukuk Dairesinin 2022/4092 Esas 2023/4002 Karar sayılı ilamı).Somut olayda, davacının mutlak butlan iddiaları, yüklenici firma tarafından yapıların ayıplı ve ruhsatsız olarak yapılmasına rağmen kooperatif yönetimlerinin danışıklı hareket ederek ödeme yapılmasına yönelik alınan kararlar ile yüklenici firmaya haksız menfaat sağlandığına noktalarında toplanmaktadır.
 Ancak bu iddialar kapsamında dava konusu genel kurul gündeminin 2, 5, 7, 8, 9, 11. maddeleri ile alınan kararların içerikleri dikkate alındığında kararlarda yoklukla ve mutlak butlanla malul olmasını gerektirir bir durum bulunmamaktadır. Ayrıca davacı tarafından ileri sürülen hususlar, bu anlamda zarara sebebiyet verdiği iddia edilen yöneticilere karşı açılacak sorumluluk davasında incelenip değerlendirilebilecek niteliktedir.
 
 ## İstanbul BAM 45. HD 2024/916 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1050805100)
 
 Dava, davalı kooperatifin 02/04/2017 tarihli olağan genel kurulunda alınan 9 nolu kararın mutlak butlanla iptali istemine ilişkindir.
 
@@ -127,6 +143,8 @@ H Ü K Ü M:Gerekçesi yukarıda izah edildiği üzere,1-Davacılar ... ve ... v
 
 ## İstanbul BAM 44. HD 2024/806 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1023470300)
+
 Sulh Hukuk Mahkemesinin 2017/489 nolu dosyasında dava konusu taşınmazın güçlendirilebilir olduğu yolunda bilirkişi raporu alındığı, söz konusu rapor ile huzurdaki davada alınan rapor arasında çelişkilerin olduğu iddialarıyla itirazen incelenerek kaldırılması ve yürütmenin durdurulmasına karar verilmesi istenilmektedir...Dayandığı hukuki ve kanuni nedenler karşısında, itiraz istemine konu edilen mahkeme kararı Dairemizce de uygun görülmüş olup, itiraz istemine ilişkin dilekçede ileri sürülen iddialar sözü edilen yürütmenin durdurulması isteminin reddi yolundaki kararın kaldırılmasını gerektirecek nitelikte bulunmadığından itirazın reddine, dosyanın mahkemesine iadesine, 17/08/2020 tarihinde kesin olarak, oybirliğiyle karar verildi.” şeklindedir. Bu kararda yürürtmenin durdurulması işleminin reddi kararı kesinleşmiştir. İstanbul 5. İdare Mahkemesinin 27/10/2020 tarih ve 2019/1505 Esas ve 2020/1447 K.
 Sayılı davanın reddine ilişkin kararının istinaf incelemesi sonunda İstanbul Bölge İdare Mahkemesi 6.İdare Dava Dairesinin 2021/141 esas ve 2021/512 karar sayılı 17.03.2021 tarihli ilamı ile, dava konusu yapının "riskli yapı" niteliğinde olduğu görülmekle anılan tespite yapılan itirazın reddine ve taşınmazın tahliyesine ilişkin dava konusu işlemlerde hukuka aykırılık bulunmadığı gerekçesiyle davanın reddine karar veren İstanbul 5. İdare Mahkemesinin 27/10/2020 tarih ve E:2019/1505 K:2020/1447 sayılı kararına yönelik İstinaf talebinin reddine kesin olarak karar verilmiştir. O halde davacı taşınmazın riskli yapı olarak tespit edilmesi neticesi , tahliyesi ve yıkımı işlemlerinin iptali ve yürütmesinin durdurulması istemi ile belediye ve valilik aleyhine idari yargıda dava açmış ve davası kesin olarak reddedilmiş olup, taşınmazın yıkımı kararı yönündeki idari kararlar kesinleşmiştir.
 
@@ -136,6 +154,8 @@ Sonuç olarak , dosya kapsamında iddia ve savunmaya, saptanan dava niteliğine 
 HÜKÜM: Gerekçesi yukarıda açıklandığı üzere;1-Usûl ve yasaya uygun İstanbul 1. Fikrî ve Sınaî Haklar Hukuk Mahkemesi'nin 08/06/2021 tarih ve 2020/168 E., 2021/259 K. sayılı kararına karşı davacı vekili tarafından yapılan istinaf talebinin 6100 Sayılı HMK'nın 353/1-b/1. maddesi gereğince ESASTAN REDDİNE …
 
 ## İstanbul BAM 45. HD 2024/732 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1029905100)
 
 Dava, genel kurul kararının iptali istemine ilişkindir.
 
@@ -153,6 +173,8 @@ H Ü K Ü M: Gerekçesi yukarıda izah edildiği üzere; 1-Davalı tarafın isti
 
 ## İstanbul BAM 17. HD 2022/1547 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/843617600)
+
 İLK DERECE MAHKEMESİ KARARI Mahkemece, iddia, savunma ve bilirkişi raporuna göre; davalı kooperatifin 30.12.1992 tarihinde yapılan ve hazirun cetvelinde kayıtlı (11) ortağın tamamının katıldığı 1985 ile 1991 yıllarına ait Genel kurul toplantısında kooperatif amacının gerçekleştirdiği gerekçesi ile tasfiye kararının alındığı, 17.01.2016 tarihli olağan genel kurul toplantısında tasfiye yönetim kurulu asil üyeliğine seçilen ... ve yedek üyeliğe seçilen ...'ın ortaklar pay defterinde kayıtlı ortak bulunduğu, İstanbul İli, Küçükçekmece İlçesi, ... Mahallesi, ...
 
 …
@@ -161,6 +183,8 @@ Mad 9 bendinde düzenlendiği üzere sadece Gayrimekulün satışının görüş
 Maddesine uygun olarak arsa konumundaki parsellerin tevhidine genel kurulca karar verilmiş olması karşısında alınan kararın tasfiye amacı ile bağdaşmayacak bir yönünün bulunmadığı, alınan kararın taşınmaz satışı ile genel kurulun devredilemez yetkisinin yönetim kuruluna devrine yönelik olmaması nedeniyle alınan kararın kanun ana sözleşme ve objektif iyi niyet ilkelerine aykırı olmadığı gibi butlan niteliğinin de bulunmadığı, iptali talep edilen 6,7,9 ve 10 nolu kararların 1163 sayılı kanun ve ana sözleşmeye uygun olarak alındığı gibi butlan şartlarının bulunmadığı belirtilmiştir. 1163 Sayılı Kooperatifler Kanunu'nun 42. maddesinin 6. bendi ve anasözleşmenin 23. maddesinin 9.bendince gayrimenkul alımında ve satımında takip edilecek usul ile alınacak gayrimenkulün niteliğini, yerini ve azami fiyatını, satılacak gayrimenkulün asgari fiyatını belirlemek yetkisi genel kurula verilmiştir.
 
 ## İstanbul BAM 17. HD 2022/1161 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/819766200)
 
 Davacı vekili Bakırköy Tüketici Mahkemesi'ne sunduğu dava dilekçesinde özetle; davalılar ... Kooperatifi ve ... Ltd.
 
@@ -172,6 +196,8 @@ hesaplandığında Kooperatifler Kanunu'nun 17. Maddesine göre ödenen paranın
 H Ü K Ü M: Gerekçesi yukarıda izah edildiği üzere; 1-Davacı tarafın istinaf başvurusunun KABULÜNE,2-Bakırköy 1. Asliye Ticaret Mahkemesi'nin 2014/317 Esas, 2018/326 Karar ve 07/05/2018 tarihli kararının KALDIRILMASINA …
 
 ## İstanbul BAM 17. HD 2022/221 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/736688300)
 
 İLK DERECE MAHKEMESİ KARARI İstanbul 6. Tüketici Mahkemesince 29/03/2012 tarih, 2012/266- 2012/ 113 karar sayılı kararı ile görevli mahkemenin ticaret mahkemesi olduğu gerekçesi ile görevsizlik kararı verilmiş, karar davalı ... tarafından temyiz edilmiş, karar Yargıtay 23.
 

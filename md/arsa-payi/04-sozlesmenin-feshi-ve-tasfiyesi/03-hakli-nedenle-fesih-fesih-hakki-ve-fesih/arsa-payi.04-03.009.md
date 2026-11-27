@@ -22,6 +22,8 @@ uyari: "Derleyenin seçtiği alıntılardır; kararın tamamı değildir. Künye
 
 ## Yargıtay 6. HD 2022/2390 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/769393100)
+
 Bu anlatımlar ışığında somut olay değerlendirildiğinde, taraflar arasındaki 18.11.2004 tarihli sözleşmenin 11. maddesindeki, ‘’taraflardan birinin haksız yere vazgeçmesi veya sözleşmede yazılı hükümlere uymaması veya yükümlülüklerini yerine getirmemesi halinde bina için müteahhit tarafından harcanan belgeli giderlerin beş katını karşı tarafa ceza-i şart olarak ödemekle yükümlü olduğu,’’ düzenlemesinin, davacı yükleniciye ya da arsa sahiplerine bu bedeli ödeyerek ifadan kaçınma hakkı sonucunu doğuran bir düzenleme olmadığı, somut olayda davacı yüklenicinin de bu bedeli ödeyerek ifadan kaçınma ve fesih talebinde de bulunmadığı gözetildiğinde yerel mahkemece, söz konusu düzenlemenin dönme cezası olduğu kabul edilerek cezai şart alacağı talebinin kabulüne karar vermesi doğru olmamıştır.
 
 Yanlar arasındaki 18.11.2004 tarihli sözleşmenin 11. maddesinde, ‘’taraflardan birinin haksız yere vazgeçmesi veya sözleşmede yazılı hükümlere uymaması veya yükümlülüklerini yerine getirmemesi halinde bina için müteahhit tarafından harcanan belgeli giderlerin beş katını karşı tarafa cezai şart olarak ödemekle yükümlü olduğu,’’ kabul edilmiştir. Söz konusu maddede yapılan bu düzenleme akdin icra edilmemesi ya da natamam icra edilmesi halinde ödemek üzere kararlaştırıldığından sözleşmenin imzalandığı tarihte yürürlükte bulunan 818 sayılı Borçlar Kanunu'nun 158/I. ve dava tarihi itibariyle yürürlüğe girmiş bulunan 6098 sayılı Türk Borçlar Kanunu'nun 179/I. maddesinde düzenlenen seçimlik cezadır. Söz konusu Borçlar Kanunu'nun 158/I. maddesindeki aksine sözleşme olmadıkça alacaklının ancak akdin icrasını veya cezanın tediyesini isteyebileceğine dair düzenlemeye göre, bu cezanın istenebilmesi için sözleşmenin feshedilmemiş, ancak ifa talep edilmeyip seçimlik olarak kararlaştırılan ceza-i şartın talep edilmiş olması gerekmektedir. Dairemizin yerleşik içtihat ve uygulamaları da aksi kararlaştırılmadıkça fesih halinde seçimlik cezanın istenemeyeceği yönündedir.
@@ -34,6 +36,8 @@ SONUÇ: Yukarıda 1. bentte açıklanan nedenlerle karar düzeltme talebinde bul
 …
 
 ## Yargıtay 6. HD 2022/2322 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/762398200)
 
 Davacı vekili dava dilekçesinde özetle; davacı şirket tarafından yapılması düşünülen Antalya Kundu projesindeki bir kısım imalatla ilgili olarak davalı yükleniciye 07.04.2015 tarihinde 20.000-USD gönderildiğini, söz konusu imalatın yapılmaması üzerine davalı yükleniciden ihtarname ile iadesinin talep edildiğini, ancak davalının talebe olumsuz yanıt vermesi üzerine alacağın tahsili amacıyla icra takibi başlatıldığını, davalının itirazı üzerine takibin durduğunu ileri sürerek itirazın iptaline, takibin devamına ve icra inkar tazminatına karar verilmesini talep etmiştir.
 
@@ -53,6 +57,8 @@ SONUÇ : Yukarıda açıklanan nedenlerle davalının temyiz itirazlarının kab
 
 ## Yargıtay 6. HD 2022/1588 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/759098400)
+
 Davacı vekili, müvekkili ile davalı şirket arasında 10.11.1997 tarihli arsa payı karşılığı inşaat sözleşmesi imzalandığını bu sözleşmenin 02.06.2005 tarihli ek sözleşme ile tadil edildiğini ve sözleşmeye konu taşınmazda (B) blok, 3 kat 11 no.lu bağımsız bölümün müvekkiline ait olacağı konusunda anlaştıklarını ve davalı şirketin sözleşmeleri davalı kooperatife devrettiğini dava konusu taşınmaz için açılan ortaklığın giderilmesi davasında davalıların gerekli dikkat ve özeni göstermediğini bu süreç içerisinde inşaatla ilgili faaliyet olmadığını ifa imkansızlığının olduğunu ileri sürerek 02.06.2005 tarihli ek sözleşmenin feshini talep ve dava etmiştir. Davacı vekili 04.02.2013 tarihli ıslah dilekçesi ile 10.11.1997 tarihli arsa payı karşılığı inşaat sözleşmesinin feshini de dava ve talep etmiştir.
 
 Davalı ... İnşaat Ltd.
@@ -70,6 +76,8 @@ Bu durumda mahkemece, davacı taraftan diğer arsa maliklerinin imzaladığı ar
 SONUÇ: Yukarıda açıklanan nedenlerle davacı vekilinin temyiz itirazlarının kabulü ile hükmün davacı yararına BOZULMASINA …
 
 ## Yargıtay 6. HD 2022/1108 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/740737400)
 
 Dava, davacı arsa sahipleri tarafından açılan arsa payı karşılığı inşaat sözleşmesinin feshine ve yapılan inşaatın yıkılmasına, davalı tarafa ait tapu kayıtlarının iptali ile kira tazminatı talebine ilişkindir.
 
@@ -91,6 +99,8 @@ Bu amaçla, Şişli Belediye Başkanlığından, dosya kapsamına sunulan tadila
 SONUÇ: Yukarıda 1. bentte açıklanan nedenlerle davacılar vekilinin tüm temyiz itirazlarının reddine, 2. bent kapsamında ... vekilinin temyiz itirazlarının kabulüne, 3. bent kapsamı ile temyiz eden davalılar ..., ..., ..., ... İnş Turizm Taş. Gıda Ot. San. Tic. Ltd. Şti., ..., ..., ...’in temyiz itirazlarının kabulü ile hükmün temyiz eden davalılar lehine BOZULMASINA …
 
 ## Yargıtay 6. HD 2022/305 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/743490700)
 
 Davacılar vekili dava dilekçesinde özetle; müvekkilleri ile davalılardan ... Yapı Müh. Ltd.
 
@@ -114,6 +124,8 @@ SONUÇ: Yukarıda 1. bentte açıklanan nedenlerle davacının tüm temyiz itira
 
 ## Yargıtay 6. HD 2022/113 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/733211900)
+
 Sözleşme tarihinde yürürlükte bulunan 818 Sayılı Borçlar Kanunu'nun 358/I maddesinde “Müteahhit, işe zamanında başlamaz veya mukavele şartlarına muhalif olarak işi tehir eder yahut iş sahibinin kusuru olmaksızın vaki olan teehhür bütün tahminlere nazaran müteahhidin işi muayyen zamanda bitirmesine imkan vermeyecek derecede olursa, iş sahibi teslim için tayin edilen zamanı beklemeye mecbur olmaksızın akdi feshedebilir” düzenlemesine yer verilmiştir. Bu maddede ifa zamanından önce sözleşmeden dönme hakkı doğuran durumlar sayılmış; işe başlamada gecikme, iş görme faaliyetinin yavaş yürümesi ve ertelenmesi, kararlaştırılan tarihe kadar eserin tamamlanamayacağının anlaşılması hallerinde iş sahibinin sözleşmede kararlaştırılan teslim süresini beklemeden akdi feshedebileceği öngörülmüştür. İşe başlamada gecikilmesi ve bu gecikmenin iş sahibine isnadı mümkün nedenlerden ya da yüklenicinin iradesi dışında gerçekleşen ve öngörülmesi mümkün olmayan nedenlerden kaynaklanmaması halinde iş sahibi sözleşmede kararlaştırılan teslim süresini beklemeden akdi feshedebilir.
 
 Asıl dava 17/12/2014 tarihinde işin bitirilme süresi henüz gelmeden açılmış olup, davadaki fesih isteği 818 sayılı Borçlar Kanunu’nun 358/1 (Türk Borçlar Kanunu’nun 473/1) maddesi uyarınca erken fesih talebi niteliğindedir. İlk derece mahkemesince inşaatın sözleşme uyarınca teslimi gereken 01/02/2015 tarihinden 9 ay sonra 06/11/2015 tarihinde yapılan keşif sonucu düzenlenen bilirkişi raporunda inşaatın tamamlanma oranının %43.5 olduğu tespit edilmiş olup, inşaatın kalan sürede bitirilip teslim edilemeyeceği açıktır. Bu itibarla, somut olayda asıl dava bakımından erken fesih şartlarının oluştuğu ortadadır. Kaldı ki, 05/03/2008 tarihli arsa payı devri karşılığı inşaat sözleşmesini kendi adına asaleten, ... adına vekaleten ... imzalamış olup, ... asıl davanın davacısı, ... ise birleşen davanın davacısıdır. Sözleşmeyi arsa sahibi olarak imzalayan ... birleşen davada fesih isteminin kabulüne karar verildiği halde, diğer arsa sahibi ...’un aynı sözleşmeye dayalı olarak asıl davadaki sözleşmenin feshi isteminin reddine karar verilmiş olması doğru olmamıştır.
@@ -123,6 +135,8 @@ Asıl dava 17/12/2014 tarihinde işin bitirilme süresi henüz gelmeden açılm�
 SONUÇ: Yukarıda 1. bentte açıklanan nedenlerle davacılar vekilinin diğer temyiz itirazlarının reddine, 2. bentte açıklanan nedenlerle temyize konu Bölge Adliye Mahkemesi kararının 6100 sayılı HMK’nın 371. maddesi gereğince BOZULMASINA …
 
 ## Yargıtay 6. HD 2022/50 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/733185100)
 
 Davacı vekili, müvekkili ile davalı yüklenici arasında Sivas 2.
 
@@ -143,6 +157,8 @@ SONUÇ: Yukarıda yazılı nedenlerle davacı mirasçıları vekilinin temyiz it
 
 ## Yargıtay 3. HD 2022/3 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/748093600)
+
 Davacılar; davalılardan...nun maliki bulundukları taşınmaz ile ilgili olarak dava dışı ... isimli yükleniciler ile Bakırköy ..., Noterliğince düzenlenen 15/11/1995 tarihli ve 58726 yevmiye nolu Kat Karşılığı İnşaat Sözleşmesini imzaladıklarını, bu sözleşme gereği taşınmazın 88/128 payının yüklenicilere devredildiğini, yüklenicilerin de imkanlarının kısıtlı olması nedeniyle aldıkları payı davalı ...’e intikal ettirdiklerini, bu intikal sonrasında davalı ...’in inşaatı % 62 oranında bitirecek konuma geldiğini ancak maddi imkansızlık nedeniyle el çektiğini, el çekmeden önce bu taşınmaz üzerinde yapılan inşaatta kain toplam 8 daireden 3 tanesinin davalı ... tarafından ayrı ayrı satışı yapılarak her bir davacıya 10/128 pay olarak intikalinin sağlandığını, davalılar ...ve ..., tarafından Bakırköy 5.
 
 …
@@ -156,6 +172,8 @@ Hal böyle olunca mahkemece; kat karşılığı inşaat sözleşmesinin geriye e
 SONUÇ:Yukarıda birinci bentte açıklanan nedenlerle davacıların davalılardan...ya yönelik tüm, ...’e yönelik sair temyiz itirazlarının reddine, ikinci bentte açıklanan nedenlerle hükmün HUMK’nın 428. maddesi gereğince davacılar yararına BOZULMASINA …
 
 ## Yargıtay 15. HD 2021/3148 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/671279300)
 
 Davacı vekili dava dilekçesinde özetle; taraflar arasında Bakırköy 15. Noterliği’nin 01.10.2004 tarih ve 37799 nolu arsa payı karşılığı inşaat sözleşmesi imzalandığını, sözleşme uyarınca İstanbul ili, Bakırköy ilçesi, 1. Bölge, Şevketiye Mah.
 
@@ -178,6 +196,8 @@ SONUÇ: Yukarıda 1. bentte açıklanan nedenlerle davalının diğer temyiz iti
 
 ## Yargıtay 15. HD 2021/2850 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/671539800)
+
 Davacılar vekili, müvekkillerinin arsa sahibi davalılarla 31.08.2005 tarihli arsa payı karşılığı inşaat sözleşmesini imzaladıklarını ve edimlerini yerine getirdiklerini, ancak davalılardan kaynaklanan sebeplerle inşaat ruhsatını alamadıklarını, davalıların da kendilerinin verdikleri vekaletnameden azlettiklerini, bu arada davalı arsa sahiplerinin başka bir yükleniciyle sözleşme imzaladığını ileri sürerek, uğranılan maddi zarar karşılığı olarak şimdilik 20.000,00 TL'nin davalılardan tahsilini talep ve dava etmiş, bozma sonrasında 18.09.2013 tarihli ıslah dilekçesiyle talebini 73.880,73 TL olarak artırmıştır.
 
 Davalı arsa sahipleri, davacıların sözleşme imzaladıktan sonra hiçbir işlem yapmadıklarını, bu konuda çektikleri ihtarın da sonuçsuz kaldığını savunarak, davanın reddini istemişler, ıslah edilen miktarın zamanaşımına uğradığını savunmuşlardır.
@@ -191,6 +211,8 @@ Eser sözleşmelerinde zamanaşımı 5 yıl olup, feshedilen sözleşmeden kayna
 SONUÇ: Yukarıda 1. bentte açıklanan nedenlerle taraf vekillerinin 2., 3. ve 4. bentler kapsamı dışında kalan sair temyiz itirazlarının reddine, 2., 3. ve 4. bentte açıklanan nedenlerle taraf vekillerinin temyiz itirazlarının kabulü ile hükmün taraflar yararına BOZULMASINA …
 
 ## Yargıtay 15. HD 2021/2700 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/671293000)
 
 Davacı davasında, müvekkilinin davalılardan ... ile ... Mahallesi Nato Yolu 328 ada 119 parsel sayılı taşınmaza ilişkin ... Noterliğinin 20/11/2016 tarihli 08114 yevmiye numaralı kat karşılığı inşaat sözleşmesi imzaladıklarını, ancak tapu kaydında satış olarak gösterildiğini ve davalının bu davranışında kötü niyetli olarak hareket ettiğini, söz konusu taşınmazın diğer davalı ... adına 27/03/2014 tarihinde satış suretiyle tescil edildiğini bu durumun hukukun genel ilkelerine aykırı olduğunu ileri sürerek, taşınmazın kendisine teslimi ile tapuda devredilen hissenin adına tesciline karar verilmesini talep ve dava etmiştir.
 

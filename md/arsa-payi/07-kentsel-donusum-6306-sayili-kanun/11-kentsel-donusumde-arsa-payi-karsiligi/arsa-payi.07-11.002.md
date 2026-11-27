@@ -31,6 +31,8 @@ Bu itibarla, 6306 sayılı Yasa gereği, riskli yapı statüsündeki ana taşın
 
 ## Yargıtay 6. HD 2025/2088 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1157205100)
+
 Davacılar vekili dava dilekçesinde; davacı arsa sahipleri ile davalı yüklenici arasında 18.02.2022 tarihli arsa payı karşılığı inşaat sözleşmesi imzalandığını, sözleşmenin imzalanmasından sonra yaptıkları araştırmada, davalının müteahhitlik belgesinin bu işi yapmaya yeterli olmadığını tespit ettiklerini, ayrıca tanzim edilen projedeki paylaşımda arsa sahiplerinin payı azaltılarak davalı payının %57.91'e yükseltilmiş olduğunu gördüklerini, dava tarihine kadar inşaata ilişkin olarak hiçbir işlem yapılmadığını da dikkate aldıklarında müvekkillerinin davalı hakkındaki güvenlerinin sarsılmış olduğunu ileri sürerek, sözleşmenin geriye etkili feshini, arsa zilyetliğinin müvekkillerine iadesini, dava konusu gayrimenkul üzerine 30.05.2022 tarihinde konulan arsa payı karşılığı inşaat sözleşmesi şerhinin terkinini talep ve dava etmiştir.
 
 …
@@ -46,6 +48,8 @@ Somut olayda; taraflar arasında 18.02.2022 tarihinde arsa payı karşılığı 
 İlk Derece Mahkemesi kararının BOZULMASINA …
 
 ## Yargıtay 6. HD 2024/2272 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1086219500)
 
 Davacı vekili dava dilekçesinde özetle; Hatay İli, ..., 1.... Mahallesinde bulunan ...
 
@@ -64,6 +68,8 @@ Arsa sahibi ya da arsa sahiplerinin edimi, sözleşme uyarınca tapulu ya da tap
 
 ## Yargıtay 6. HD 2023/2018 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/922326400)
+
 Davacı vekili dava dilekçesinde özetle; davacı ... ve dava dışı arsa sahipleri ile davalı yüklenici arasında Bornova 4.
 
 …
@@ -80,6 +86,8 @@ Bu tespitlere göre davaya konu binaların temel üstü vizesi alınamadığınd
 
 ## Yargıtay 15. HD 2021/58 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/632092700)
+
 Dava eser sözleşmesinden kaynaklanan alacak istemine ilişkindir.
 
 …
@@ -94,6 +102,8 @@ SONUÇ: Yukarıda açıklanan nedenlerle davalılar vekillerinin temyiz itirazla
 
 ## Yargıtay 15. HD 2020/2494 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/600414100)
+
 Dava, arsa payı karşılığı inşaat sözleşmesi gereğince devri gereken bağımsız bölümlerin tapularının iptâli ile davacılar adına tescili ve temerrüt sebebiyle tazminat istemlerine ilişkindir.
 
 …
@@ -107,6 +117,8 @@ Arsa payı karşılığı inşaat sözleşmelerinde yüklenicinin ediminin ifas�
 ibraz edilmiş olduğu, mahkemece de 3194 sayılı Kanun'a eklenen geçici 16. madde dikkate alınarak, kaçak yapının geçici olarak da olsa yasal hale geldiği kabul edilerek davanın kabulüne karar verilmiştir.Yukarıda detaylı olarak açıklandığı üzere, yapı kayıt belgesi alınması, idare tarafından kaçak yapının kullanılmasına imkân tanırken, imara ilişkin mer'i mevzuatta bir değişiklik yapmadığından, iskân alınmayan/alınamayan yapının yasal hale geldiğini kabul etmek mümkün değildir. Diğer yönden, taraflar arasındaki sözleşmede iskân alınması kararlaştırılmış olup, yüklenici tarafından edimin ifası ancak iskân alınarak taşınmazın teslimi ile mümkün olabilir. Yapı kayıt belgesi alınmış olup olmamasının karşılıklı edimlerin ifasına bir etkisi bulunmamaktadır. Buna durumda mahkemece yapılması gereken iş, hükmüne uyulan Yargıtay 23. Hukuk Dairesi'nin 10.05.2016 tarihli bozma ilamında belirtildiği şekilde inceleme yapılarak sonucuna göre karar verilmesi gerekirken eksik inceleme ve hatalı değerlendirme ile karar verilmesi doğru olmamış, kararın bu nedenle bozulması gerekmiştir.SONUÇ: Yukarıda açıklanan nedenlerle davalı tarafın temyiz isteminin kabulü ile hükmün davalı yararına BOZULMASINA …
 
 ## Yargıtay 3. HD 2019/8655 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/562335500)
 
 Davacılar; kendilerine ait bağımsız bölümlerin de bulunduğu binanın kentsel dönüşüm kapsamında yıkılarak yeniden inşa edildiğini, bu kapsamda 02/04/2014 tarih ve 07745 yevmiye numarası ile kayıtlı düzenleme şeklinde satış vaadi ve arsa payı karşılığı inşaat sözleşmesinin imzalandığını; sözleşme uyarınca "eski daire maliklerinin oturduğu dairenin yerini alacağının, katlardaki daire paylaşımının ise eşite yakın metrakarelerde yapılacağının" kararlaştırıldığını; binaya ait yapı kullanım izin belgesinin 31/12/2015 tarihinde alındığını, dairelerin teslimiyle birlikte bağımsız bölümler arasında gerek metrekare gerekse oda sayısı bakımından eşitsizlik meydana getirildiğini, önceden ise aynı katta bulunan dairelerin, metrekare, oda sayısı ve diğer unsurlar yönünden birebir aynı olduğunu; yeni bina için hazırlanan 26/11/2015 tarihli değerlendirme raporu ile eski daire maliklerine ait dairelerin aynı oranda değerlenmediğinin görüldüğünü, bu orantısız değerlendirme nedeniyle bağımsız bölüm maliklerinden davalıların sebepsiz zenginleştiklerini; davaya konu binada keşif ve bilirkişi incelemesi yaptırılması suretiyle hangi dairede ne miktarda sebepsiz değer artışı olduğunun tespit
 edilebileceğini, davalıların tespit edilecek bedelden sorumlu olduklarını ileri sürerek; fazlaya ilişkin hakları saklı kalmak kaydıyla, şimdilik 1.200,00 TL nin davalıların her birinden sorumlu oldukları miktarla sınırlı olmak üzere faiziyle birlikte tahsiline karar verilmesini talep ve dava etmişlerdir.
@@ -132,6 +144,8 @@ SONUÇ: Yukarıda açıklanan nedenlerle 6100 sayılı HMK'nın 373/1 maddesi uy
 
 ## Yargıtay 15. HD 2019/3824 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/541796700)
+
 Dava, kat karşılığı inşaat sözleşmesinden kaynaklanan değer kaybı alacağının tahsili istemine ilişkin olup, mahkemece davanın kısmen kabulüne dair verilen karar, taraf vekillerince temyiz edilmiştir.
 
 …
@@ -142,6 +156,8 @@ edebilirler.Mahkemece mimar bilirkişiden alınan 15.08.2017 tarihli 1. raporda 
 yapıldığı, sözleşmedeki paylaşım planına göre davacının bir üst kattan daire alma imkânının olmadığı, yıkılan binada davacının kullandığı dairenin 1 metre kotunda olduğu, mevcut binada ise 2,76 metre kotunda olduğu davacının yıkılan binadaki kullanımından daha yüksekde yer aldığı, sözleşmede dairenin kot seviyesi ya da üst kat çıkmaları ile ilgili bir durumun tanımlanmadığı, teslim edilen dairenin sözleşmeye aykırı olmadığı ancak dairenin 1 metre kotunda inşa edilmiş olması durumunda daire içi kullanım rahatlığının artacağı, dışarıdan evin içinin görünme imkânının azalacağı ve mahremiyetin korunmasının kolaylaşacağı, dairenin kotlu olarak inşa edilmesi durumunda oluşacak değer farkının %5 oranında 17.500,00 TL olacağı belirtilmiştir.
 
 ## Yargıtay 3. HD 2014/10005 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/88446600)
 
 Davacı vekili dilekçesinde; müvekkili (yüklenici) şirket ile davalı (arsa sahibi) şirketin, önce 27.11.2007 tarihli protokolü, sonrasında ise 17.03.2008 tarihli Düzenleme Şeklinde Gayrimenkul Satış Vaadi ve Hasılat Paylaşımı Şeklinde Arsa Payı Karşılığı Yapım Sözleşmesini imzaladıklarını, bu sözleşmelere göre, müvekkili şirketin, davalı şirkete ait Karakusunlar mahallesinde kain 9014 ada 2 parsel sayılı arsası üzerine yaklaşık 460-480 arası konut yapımı işini yüklendiğini ve arsa sahibinin Büyükşehir Belediyesinden aldığı ruhsat gereğince de işe başladığını, ancak davalı şirketin sözleşme hükümlerine aykırı olarak arsanın tapu kaydına bankalardan aldığı borç karşılığında ipotek koydurduğunu, arsanın imar planının iptal edildiğinden haberdar olan davalı şirketin bu durumu müvekkili şirkete bildirmediğini, ayrıca davalı şirketin sözleşme ile kararlaştırılan satış yetkisine havi vekaletname verme ve hafriyatı tamamlama yükümlülüklerini yerine getirmediği gibi hasılatın paylaşımına ilişkin protokolü yapmaktan da kaçındığını, bu nedenle inşaatı durduran müvekkili şirketin ihtarname keşide ederek davalı şirketi uyardığını ve yapılan işin bedelini talep ettiğini, davalı şirketin ise
 cevabi ihtarnamesi ile imalat bedelini ödemeyeceğini bildirdiğini ileri sürerek; fiili ve hukuki imkansızlıklar nedeniyle inşaat yapılamaz hale geldiğinden ve müvekkili şirketçe sözleşme feshedilmediğinden, fazlaya ilişkin hakları saklı kalmak üzere, yapılan iş bedeli olan 2.997.000 TL ve mahrum kalınan kar kaybı olan 3.000.000 TL nin 16.06.2010 tarihinden itibaren ticari faizi ile birlikte davalıdan tahsilihe karar verilmesini talep etmiştir.
@@ -163,6 +179,8 @@ Ancak, fesih iradesinin açık bir irade beyanı ile karşı tarafa bildirilmesi
 Bu itibarla yukarıda açıklanan esaslar gözönünde tutulmaksızın yazılı şekilde hüküm tesisi isabetsiz, temyiz itirazları bu nedenlerle yerinde olduğundan kabulü ile hükmün HUMK. nun 428. maddesi gereğince BOZULMASINA …
 
 ## Yargıtay 5. HD 2012/25685 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/627804200)
 
 Dava, kamulaştırmasız el atılan taşınmaz bedelinin tahsili istemine ilişkindir.
 

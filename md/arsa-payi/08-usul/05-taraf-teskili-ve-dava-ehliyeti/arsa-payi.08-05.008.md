@@ -21,6 +21,8 @@ uyari: "Derleyenin seçtiği alıntılardır; kararın tamamı değildir. Künye
 
 ## İstanbul BAM 15. HD 2020/689 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/585895700)
+
 Kural olarak eser sözleşmesi ilişkisinin kurulması herhangi bir şekil şartına tabi olmayıp, tarafların "icap" ve "kabul" iradelerinin birleşmesiyle sözleşme ilişkisi kurulur. Şekil şartı, sözleşmenin geçerlilik şartı olmayıp, ispat şartıdır. (Yargıtay 15 Hukuk Dairesinin 25/09/2018 tarih,2018/3698 Esas, 2018/3394 karar sayılı kararı) 4721 sayılı TMK’nın “İspat yükü” başlıklı 6. maddesi “Kanunda aksine bir hüküm bulunmadıkça, taraflardan her biri, hakkını dayandırdığı olguların varlığını ispatla yükümlüdür.” hükmünü amirdir. Somut olayda, davacı yüklenici şirket, eksik iş bedelini her iki davalı şirketten talep etmiş ise de, davalı ... Ltd. Şti. akdî ilişkiyi inkâr ettiğinden, akdî ilişkinin kurulduğunu ispat külfeti davacı yüklenici üzerinde kalmaktadır. Davacı, akdî ilişkiyi kanıtlamak zorundadır. Davacı taraf, iddiasını, 6100 sayılı HMK'nın “Senetle ispat zorunluluğu” başlıklı 200. maddesi “(1) Bir hakkın doğumu, düşürülmesi, devri, değiştirilmesi, yenilenmesi, ertelenmesi, ikrarı ve itfası amacıyla yapılan hukuki işlemlerin, yapıldıkları zamanki miktar veya değerleri ikibinbeşyüz Türk Lirasını geçtiği takdirde senetle ispat olunması gerekir.
 Bu hukuki işlemlerin miktar veya değeri ödeme veya borçtan kurtarma gibi bir nedenle ikibinbeşyüz Türk Lirasından aşağı düşse bile senetsiz ispat olunamaz. (2) Bu madde uyarınca senetle ispatı gereken hususlarda birinci fıkradaki düzenleme hatırlatılarak karşı tarafın açık muvafakati hâlinde tanık dinlenebilir.” hükmü gereği müddeabihin miktarına göre senetle ispat etmek zorundadır. Davacı tarafça bu konuda dosyaya yazılı bir delil ibraz edilememiştir. Bilirkişi raporunda camların üzerinde ... Ltd. Şti.'nin isminin yazılı olduğu belirlenmiş ise de, bu durum davalı şirketin sözleşme gereğince sorumluluğunu gerektirmez. Bu durum, davalılar arasındaki iç ilişkiyi ilgilendirmektedir. Davalı ... Ltd. Şti., diğer taraflar arasında imzalanan yazılı sözleşmede taraf değildir. Bu nedenle, yerel mahkemece davalı ... Ltd.
 
@@ -31,6 +33,8 @@ Bu hukuki işlemlerin miktar veya değeri ödeme veya borçtan kurtarma gibi bir
 HÜKÜM: Gerekçesi yukarıda açıklandığı üzere; A)1-Davalı ...Ltd.Şti. vekilinin istinaf talebinin KABULÜNE, 2-İstanbul Anadolu 5. Asliye Ticaret Mahkemesi'nin 28/05/2019 tarih ve 2018/884 Esas, 2019/685 Karar sayılı kararının KALDIRILMASINA …
 
 ## İstanbul BAM 17. HD 2019/1055 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/509575100)
 
 İLK DERECE MAHKEMESİ KARARI:Mahkemece, dosyaya sunulan belge ve kayıtlarla birlikte bilirkişi heyetinin düzenlemiş olduğu 23/01/2012 tarihli bilirkişi raporlarında, davacıların davalı ...Yapı Kooperatifi ortağı oldukları, davacıların diğer davalılar ile herhangi bir akdi ilişkilerinin bulunmadığı, davalı...yönünden tescil ve alacak taleplerinin davanın erken açılması nedeniyle henüz doğurmadığına ilişkin beyanın yeterli görülerek hükme esas alındığı, her ne kadar yargılama aşamasında İstanbul Anadolu 9.
 

@@ -57,6 +57,8 @@ Davalılar vekilinin temyiz itirazlarının kabulü ile direnme kararının yuka
 
 ## Yargıtay HGK 2023/412 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/905167300)
+
 İlk Derece Mahkemesince verilen kararın davalılar vekilleri tarafından istinaf edilmesi üzerine, Bölge Adliye Mahkemesince davalı ...Ş. vekilinin vekâlet ücretine yönelik istinaf talebinin reddine, davalı ... Yapı End.
 
 …
@@ -83,6 +85,8 @@ Davacı vekilinin temyiz itirazlarının kabulü ile direnme kararının Özel D
 
 ## Yargıtay HGK 2021/441 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/686457300)
+
 Davacılar vekili 23.12.2011, 26.03.2013 ve 08.05.2013 havale tarihli dilekçelerinde ise; dava konusunun dairelerdeki eksiklikler ile eksik imalat bedelinin tahsili ya da tapu iptali ve tescil olmadığını, sadece dairelerin davacılara teslimi meselesi olduğunu, davada arsa payı karşılığı inşaat sözleşmesi gereğince davalı tarafından yapımı üstlenilen ve davacılara teslimi gereken bağımsız bölümlerin yapı kullanma izin belgesi ile veya oturma ruhsatı alınması için gerekli belgelerle birlikte kendilerine teslim edilmesini talep ettiklerini, dava değerinin 2.740.000TL olarak belirlendiğini ve noksan harcı yatırdıklarını belirtmiştir.
 
 …
@@ -107,6 +111,8 @@ BK'nın ‘‘İfanın tarzı’’ başlıklı 81. maddesinde (TBK m.97) "Müte
 Davalı vekilinin temyiz itirazlarının kabulü ile direnme kararının Özel Daire bozma kararında gösterilen nedenlerden dolayı, 6217 sayılı Kanun’un 30. maddesi ile 6100 sayılı Hukuk Muhakemeleri Kanunu’na eklenen “Geçici Madde 3” atfıyla uygulanmakta olan 1086 sayılı Hukuk Usulü Muhakemeleri Kanunu’nun 429. maddesi gereğince BOZULMASINA …
 
 ## Yargıtay HGK 2019/1368 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/579209500)
 
 6100 sayılı HMK'nın 362/(1)-a maddesi uyarınca karar tarihi itibariyle arttırılan miktar da dikkate alınarak miktar veya değeri 47.500,00 TL'nin (bu tutar dahil) geçmeyen davalara ilişkin Bölge Adliye Mahkemesi kararları kesin ise de; davacının feshini talep ettiği arsa payı karşılığı inşaat yapım sözleşmesine göre harca esas değeri 18.223,23 TL olup iadesini talep ettiği daire bedel farkı da ıslahla arttırılan 46.000,00 TL'lik miktar eklendiğinde 63.223,23 TL'ye ulaştığı ve bu miktar itibariyle verilen Bölge Adliye Mahkemesi kararı temyizi kabil olduğundan İzmir Bölge Adliye Mahkemesi 14. Hukuk Dairesi'nin 19.06.2018 gün 2018/625 Esas 2018/572 Karar sayılı temyiz dilekçesinin reddine dair ek kararın kaldırılmasına karar verip, temyiz itirazlarının esastan incelenmesine geçilmiştir.
 
@@ -144,6 +150,8 @@ Temyiz olunan Mahkeme kararının asıl davada davacı-asli müdahale talebinde 
 
 ## Yargıtay 4. HD 2025/9821 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1174979500)
+
 Davalı vekili cevap dilekçesinde; mahkemenin yetkili olmadığını, Ümraniye Asliye Hukuk Mahkemesinin yetkili olduğunu, zamanaşımı, görev, husumet itirazları olduğunu belirterek davanın reddini istemiştir.
 
 …
@@ -172,6 +180,8 @@ Anılan İçtihadı Birleştirme kararı, Dairemizin yeni içtihatları ve yapı
 
 ## Yargıtay 6. HD 2025/2475 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1187551700)
+
 Mahkemece bozmaya uyularak verilen karar davalı ... vekili tarafından duruşmalı olarak temyiz edilmiş olmakla; kesinlik, süre, temyiz şartı ve diğer usul eksiklikleri yönünden yapılan ön inceleme sonucunda, 23.06.2025 tarihinde duruşma yapılmasına ve duruşma gününün taraflara davetiye ile bildirilmesine karar verilmiştir.
 
 …
@@ -187,6 +197,8 @@ Sözleşmenin imzalandığı sırada dava dışı ... Belediyesi’ne ait hisse 
 Temyiz olunan Mahkeme kararının davalı ... İnşaat Emlak ... A.Ş. yararına BOZULMASINA …
 
 ## Yargıtay 6. HD 2025/224 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1135665600)
 
 Davacılar vekili dava dilekçesinde özetle; hissedar oldukları 4434 ada, 4 ve 5 parsellerdeki taşınmazlar ile ilgili olarak, davalı yüklenici şirket ile arsa payı karşılığı inşaat sözleşmesi imzalandığını, iş bu sözleşme mucibince yüklenici firmanın toplam 6 katlı bir bina inşa edeceği ve davalı firma tarafından dava konusu sözleşmeden hemen sonra ruhsata başvurulacağı ve inşaata başlandıktan sonra mücbir sebepler hariç 18 ay içinde de iskan alınmış olarak daireler tamamlanıp teslim edileceğini, davalı yüklenicinin bu süre zarfı içerisinde haksız ve kötü niyetli olarak hiçbir gerekçe göstermeksizin, inşaat ruhsatının alınıp inşaata başlanmasını, aksi durumda işbu sözleşmenin feshedileceği ihtarına rağmen ruhsata başvurmadığını belirterek arsa payı inşaat sözleşmesinin feshinde haklı olduklarının tespitine, fesih nedeniyle davacıların maruz kaldığı zararların tespit edilerek davalıdan alınıp davacılara verilmesine, el atmanın önlenmesine karar verilmesini talep etmiştir.
 
@@ -208,6 +220,8 @@ SONUÇ: Yukarıda açıklanan nedenlerle ... 21. Asliye Hukuk Mahkemesince veril
 
 ## Yargıtay 6. HD 2023/3688 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/989399100)
+
 İlk Derece Mahkemesi kararı müdahil ... vekilince duruşmasız, asıl davada davalılar-birleşen davada davacılar ... ve ... vekillerince duruşmalı olarak temyiz edilmekle; kesinlik, süre, temyiz şartı ve diğer usul eksiklikleri yönünden yapılan ön inceleme sonucunda, 06.11.2023 tarihinde duruşma yapılmasına ve duruşma gününün taraflara davetiye ile bildirilmesine karar verilmiştir.
 
 …
@@ -228,6 +242,8 @@ Temyiz olunan Mahkeme kararının BOZULMASINA …
 
 ## Yargıtay 6. HD 2023/3551 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/985111000)
+
 Davacı vekili dava dilekçesinde; müvekkilinin Adana İli, Yüreğir İlçesi, Cumhuriyet Mahallesi 11386 ada 18 parselin hissedarı ve üzerindeki iki yapının maliki olduğunu, davalı yüklenici ...Gayrimenkul Ltd. Şti. ile Adana 11. Noterliği’nin 10/09/2014 tarih ve 26961 yevmiye numaralı kat karşılığı sözleşmesi imzaladığını, inşaatın bitim süresinin ruhsat tarihinden itibaren 24 ay olarak kararlaştırıldığını, ancak inşaata başlanması için ruhsat başvurusunun dahi yapılmadığını, müvekkilince keşide edilen ihtarnamenin adresin terk edilmiş olması nedeni ile tebliğ edilemediğini, taraflar arasındaki kat karşılığı inşaat sözleşmesinin feshine karar verilmesini talep etmiştir.
 
 …
@@ -245,6 +261,8 @@ olmasının yerinde olmadığı gerekçesiyle davalı ...Gayrimenkul Yat. İnş.
 Temyiz olunan Bölge Adliye Mahkemesi kararının 6100 sayılı Kanunun 370 nci maddesinin birinci fıkrası uyarınca ONANMASINA …
 
 ## Yargıtay 6. HD 2023/258 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/866462600)
 
 Davacı vekili dava dilekçesinde özetle; davalı arsa sahibi ile ... ili, ... ilçesi, ... Mahallesi, ... mevkii 325 ada 58 parselde inşaat yapmak üzere arsa payı karşılığı inşaat yapım sözleşmesi imzaladıklarını, ancak bu taşınmazın üzerinde arsa sahiplerinden davalı ...-... Grup İnşaat lehine kat karşılığı inşaat şerhi bulunduğunu, bu şerhten dolayı taşınmazda işlem yapamadığını, inşaatı da kendisinin tamamladığını belirterek tapu, kaydında bulunan şerhin terkinini ve kendisi ile yapılan arsa payı karşılığı sözleşmenin tesciline karar verilmesini talep etmiştir.
 

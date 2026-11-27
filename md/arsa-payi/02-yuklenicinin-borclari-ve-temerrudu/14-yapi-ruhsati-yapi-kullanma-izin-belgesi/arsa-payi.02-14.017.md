@@ -22,6 +22,8 @@ uyari: "Derleyenin seçtiği alıntılardır; kararın tamamı değildir. Künye
 
 ## Yargıtay 15. HD 2012/6575 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/523973100)
+
 Mahkemece inşaat yapılan bölgede 17.08.1999 tarihinde meydana gelen deprem nedeniyle inşaatlardaki durmanın, mevzuat ve plan değişikliklerinin tarafların iradelerini aşan zorunlu fiili ve hukuki mücbir sebep olduğu, mücbir sebep nedeniyle sözleşmedeki cezai şart niteliğindeki kira taleplerinin ve daire bedeli taleplerinin yerinde olmadığı, davalının inşaatı mücbir sebep nedeniyle ikinci iş programında uygun sürede ve ruhsatına uygun vasıfta tamamlamış olmakla ortada eksik ve geç teslimden söz edilemeyeceği gerekçesi ile her iki davanın da reddine karar verilmiştir.
 
 …
@@ -35,6 +37,8 @@ SONUÇ: Yukarıda 1. bentte açıklanan nedenlerle davacının sair temyiz itira
 
 ## Yargıtay 15. HD 2012/5955 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/525183300)
+
 Hükme esas alınan bilirkişi kurulu rapor ve ek raporu ile mahkemenin kabulüne göre davacı yüklenicinin inşaata 20.09.2007 tarihinde onaylanan proje ile başladığı ancak imalâtı onaylanan projeye uygun yapmadığı, hatta sonradan yaptırdığı onaysız tadilat projesine aykırı olarak girişteki daireleri dükkan yaptığı ve zemindeki dükkanı mesken hale getirdiği anlaşılmaktadır. İlgili belediye davalı arsa sahiplerine hitaben yazdığı 11.02.2010 tarihli yazısında yeni bir mimari proje çizilip belediyeden onanması ve ruhsata bağlanması gerektiğini bildirmiş, mahkemeye hitaben gönderdiği 08.10.2009 tarihli yazısında, iskânın alınmadığı, evrak eksikliklerinin olduğu, bunlar giderildikten sonra inceleme yapılarak binanın iskâna hazır olup olmadığı hususunun tespit edileceği bilgisi verilmiştir.
 Kat karşılığı inşaat sözleşmesinden kaynaklanan uyuşmazlıklarda ihtilâfın devamının önlenmesi için inşaatın projeye aykırı yapılması halinde bu projeye aykırılığın inşaat yıkılmaksızın tadilat projesi ya da inşaatta kismî tadilat yapılarak giderilmesinin mümkün olup olmadığının araştırılması, mümkün ise bu konuda yükleniciye yetki ve makul süre verilerek bu noksanlıkların tamamlanması gerektiği kabul edilmektedir.
 
@@ -43,6 +47,8 @@ Bu durumda mahkemece öncelikle bilirkişi kurulunun rapor ve ek raporları ile 
 SONUÇ:Yukarıda açıklanan nedenlerle temyiz itirazlarının kabulü ile hükmün davacı yararına BOZULMASINA …
 
 ## Yargıtay 15. HD 2012/5297 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/763184700)
 
 Mahmutlar Belediyesi'nce 14.03.2006 tarihli tutanak ile inşaatın durdurulduğu anlaşılmaktadır. Bu tutanağa göre inşaatın durdurulma nedeni bina dayanımlarının standartların altında çıkmasıdır. Mahmutlar Belediye'sinin dosya içerisinde bulunan 28.08.2009 tarihli yazısından imara aykırılıkların proje tadilatı ile giderilebileceği bildirilmiştir. Bilirkişiler tarafından düzenlenen raparlarda da inşaatların tadilat ve güçlendirme projeleri ile düzeltilebileceği görüşlerine yer verilmiştir. Bu işlemlerin yapılabilmesi için arsa sahiplerinin davacı yüklenici kooperatife vekâletname vermesi zorunludur. Arsa sahipleri tarafından bu vekâletname yüklenici kooperatife verilmemiştir. Arsa sahipleri tarafından 19.12.1995 tarihli Kat Karşılığı İnşaat Sözleşmesi feshedilmemiş olup, halen geçerliliğini korumaktadır.
 
@@ -53,6 +59,8 @@ Mahkemece, davacı yüklenici kooperatifin bu isteminin kabul edilmesi gerekirke
 SONUÇ:Yukarıda 1. bentte açıklanan nedenlerle davacı yüklenici kooperatifin sair temyiz itirazlarının reddine, 2. bent uyarınca kararın davacı yüklenici kooperatif yararına BOZULMASINA …
 
 ## Yargıtay 15. HD 2012/5215 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/763077400)
 
 Davacı kooperatif vekili bu davada davalı yüklenici ...'nün fesihnamedeki yükümlülüklerini yerine getirmediğini belirterek, eksikliklerin tamamlanması ve iskân ruhsatının alınması için 9 ve 21 numaralı bağımsız bölümlerinin satışlarına izin verilmesini istemiştir.
 
@@ -69,6 +77,8 @@ Yapılacak iş; bilirkişiler tarafından düzenlenen raporlar dikkate alınarak
 SONUÇ:Yukarıda açıklanan nedenlerle kararın davacı ... Kooperatif yararına BOZULMASINA …
 
 ## Yargıtay 23. HD 2012/4874 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/549642500)
 
 Davacı-karşı davalı vekili, müvekkili ve davalı arsa sahibi arasında arsa payı karşılığı inşaat yapım ve satış vaadi sözleşmesi yapıldığını, sözleşme gereğince su basman seviyesine kadar inşaatının yaptırıldığını, davacının, davalıya gönderdiği imar bilgi formunun mal sahibine verilebileceği bu suretle inşaatın ruhsatın alınması konusundaki ihtarnameye karşılık, davalının sözleşmeyi fesh ettiğini bildirdiğini, sözleşmenin haksız olarak fesh edilmesi nedeniyle müvekkilinin zarara uğradığını ileri sürerek, davacının yapmış olduğu işler bedeli ile mahrum kalınan kâr bedeli olmak üzere toplam 20.000,00 TL' nin davalıdan tahsilini talep ve dava etmiştir.
 
@@ -90,6 +100,8 @@ SONUÇ:Yukarıda (1) no'lu bentte açıklanan nedenlerle davalı vekilinin temyi
 
 ## Yargıtay 23. HD 2012/4709 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/108100900)
+
 Davacı arsa sahibi vekili, müvekkilinin davalı yükleniciyle 07.05.2002 tarihli arsa payı karşılığı inşaat sözleşmesi imzaladığını ve sözleşmede, inşaatın teslim tarihine kadar tüm masraf ve iskan harçlarının davalı yüklenici tarafından ödeneceğinin kararlaştırıldığını, buna rağmen davalının iskan ruhsatı için gerekli masrafları ödemediğini, bu konuda yaptığı icra takibine ise haksız olarak itiraz ettiğini ileri sürerek, itirazın iptalini talep ve dava etmiştir.
 
 Davalı yüklenici, sözleşme gereğince davacı arsa sahibinin kendi bağımsız bölümlerinin iskan harçlarını ödemesi gerektiğini savunarak, davanın reddini istemiştir.
@@ -104,6 +116,8 @@ SONUÇ:Yukarıda açıklanan nedenlerle temyiz olunan hükmün temyiz eden daval
 
 ## Yargıtay 15. HD 2012/4476 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/766285400)
+
 Diğer yandan, Güngören Belediyesi Encümenince verilen 09.01.1997 tarihli ve 46; 16.06.1997 tarihli ve 750 ve 751 sayılı kararları ile ekindeki Yapı Tatil Tutanakları birlikte incelendiğinde; yapı ruhsatına aykırı olarak, az yukarıda belirtilen mahkeme hükmünde gösterilen arsa payı karşılığı inşaat sözleşmesine, yapı ruhsatına ve onaylı mimari projesine ve 3194 Sayılı İmar Yasası hükümlerine aykırı olan yapıların dışında, ikinci bodrum katın tam kata dönüştürüldüğü ve yola doğru da 2 metre büyüme yapıldığının tespit olunduğu anlaşılmaktadır. 3194 Sayılı İmar Yasası’nın 21. maddesi hükmü gereğince, anılan Yasa’nın 26. maddesindeki istisnalar hariç, bütün yapılar için ilgili yerel idareden, somut olayda ise, Belediye Başkanlığından yapı ruhsatı alınması zorunludur. Yapı ruhsatına tamamen aykırı yapılan yapılar tümden; kısmen aykırı olarak yapılan yapılar ise kısmi olarak “kaçak” yapı sayılır. Bu durumda, İmar Kanunu’nun 32. maddesi gereğince kaçak yapı ya da kısmı için yapı tatil tutanağı düzenlenir ve yıkımına Belediye Encümeni’nce karar verilir. 42. maddesi hükmü gereğince de yapı sahibine ceza yaptırımı uygulanır. Somut olayda da, az yukarıda açıklandığı üzere;
 Belediye Encümenince “kaçak” olan kısımlar için yıkım kararı verilmiş ve ceza yaptırımı da uygulanmıştır.
 
@@ -112,6 +126,8 @@ Belediye Encümenince “kaçak” olan kısımlar için yıkım kararı verilmi
 SONUÇ:Yukarıda 1. bentte belirtilen nedenlerle davalıların sair temyiz itirazlarının reddine, 2. bentte açıklanan sebeplerle davalıların diğer temyiz itirazlarının kabulüne ve kararın davalılar yararına BOZULMASINA …
 
 ## Yargıtay 23. HD 2012/4245 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/541518500)
 
 Davacı alacaklı, davalı yüklenici ...'nın diğer davalılarla imzaladığı 04.02.2005 tarihli arsa payı karşılığı inşaat sözleşmesi gereğince 4493 ada, 18 parseldeki inşaatı yaptığını, kendisinin davalı yüklenici hakkında başlattığı icra takibinin derdest olduğunu, yüklenicinin arsa payı karşılığı inşaat sözleşmesi gereğince tapularını hakettiği taşınmazları üzerine kaydettirmediğini ileri sürerek, İİK'nun 94. maddesi uyarınca E blok 5 ve 8 no'lu bağımsız bölümler ile, D blok 7 no'lu bağımsız bölümlerin davalı ... adına kayıt ve tescilini talep ve dava etmiş, sonrasında D blok 7 no'lu bağımsız bölümle ilgili davasından feragat etmiştir.
 
@@ -131,6 +147,8 @@ SONUÇ:Yukarıda açıklanan nedenlerle kararın davalılar ... ve ... yararına
 
 ## Yargıtay 15. HD 2012/4166 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/765564300)
+
 Dava, Borçlar Yasası’nın 355 ve devamı maddelerinde düzenlenen eser sözleşmesinden kaynaklanan nama ifaya izin istemine ilişkindir.
 
 …
@@ -143,6 +161,8 @@ SONUÇ:Yukarıda 1. bentte yazılı nedenlerle davalının sair temyiz itirazlar
 
 ## Yargıtay 15. HD 2012/4165 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/765546200)
+
 Ankara ili Çankaya ilçesi Kırkkonaklar tapunun ada no ... parsel no 3'de kayıtlı taşınmaz arsa davalı ... ile dava dışı ...'a aittir. Davacı yüklenici Genel İnş.Ltd.Şti. ile dava dışı ... İnşaat Turz.San.ve Tic.Ltd.Şti. bu yere inşaat yapım işini üstlenmişlerdir. Taraflar arasında Ankara 14'ncü Noterliği'nde 09.03.2004 tarih 03262 sayılı Düzenleme Şeklinde Gayrimenkul Satış Vaadi ve Kat Karşılığı İnşaat Sözleşmesi düzenlenmiştir. Sözleşme uyarınca Çankaya Belediyesi İmar Müdürlüğü'nün vereceği imar durumu ve onaylı inşaat projesine göre sözleşme hükümleri ve eki teknik şartname esasları dahilinde kat karşılığı sistemi ile inşaatın yapılacağı %50'sinin arsa maliklerine, %50'sinin yüklenicilere ait olacağı, sözleşmenin yapıldığı günden itibaren dört aylık süre içerisinde proje çizimi ve inşaat ruhsatının alınacağı bundan sonra yirmi ayda inşaatın bitirileceği iskân izninin alınıp teslim edileceği bir kat ilavesi ya da kot ilavesi olması halinde hisseler nispetinde yüklenici ile arsa malikleri arasında paylaşılacağı hususu kararlaştırılmıştır.
 
 …
@@ -152,6 +172,8 @@ SONUÇ:Yukarıda yazılı nedenlerle kararın temyiz eden davalı yararına BOZU
 …
 
 ## Yargıtay 23. HD 2012/3685 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/539308200)
 
 Davacı arsa sahibi vekili, müvekkili ile davalı yüklenici arasında 07.04.2009 tarihli arsa payı karşılığı inşaat sözleşmesi imzalandığını, ancak davalının sözleşmedeki edimlerini tam olarak yerine getirmediğini, binanın çevre düzeninin eksik olduğunu, alt kattaki kalorifer petekleri ve 3 adet güneş enerjisinin takılmadığını, banyo aksesuarlarının vb. eksik olduğunu, yaptırdığı tespitle 22.980,00 TL'lik eksik ve kusurlu işler bedelinin saptandığını ileri sürerek, bu miktardan şimdilik 8.000,00 TL'nin davalıdan tahsilini talep ve dava etmiş, fazla hakları saklı tutmuştur.
 
@@ -169,6 +191,8 @@ SONUÇ: Yukarıda 1. bentte açıklanan nedenlerle davalının diğer temyiz iti
 
 ## Yargıtay 15. HD 2012/2959 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/526608400)
+
 TMK'nın 692. maddesi hükmü gereğince, paylı taşınmaz malın özgülendiği amacın değiştirilmesi, korumanın veya olağan şekilde kullanmanın gerekli kıldığı ölçüyü aşan yapı işlerine girişilmesi veya paylı malın tamamı üzerinde tasarruf işleminin yapılması, bütün paydaşların kabulüne bağlıdır. Dava dışı ve 647 ada 1 numaralı parselde müşterek paydaş olan ... Belediye Başkanlığı'nca, 20.09.2002 tarihli arsa payı karşılığı inşaat sözleşmesine onay verilmediği gibi; yüklenici ... ile bu belediye arasında da ayrıca arsa payı karşılığı inşaat sözleşmesi de yapılmamıştır. O halde, 20.09.2002 tarihli ve 10092 yevmiye numaralı arsa payı karşılığı inşaat sözleşmesinin geçerli olabilmesi için TMK'nın 692. maddesi hükmünde öngörülen koşullar gerçekleşmemiştir. Bu yasal nedenle, sözü edilen arsa payı karşılığı inşaat sözleşmesi yanlarını bağlayıcı değildir.
 
 20.09.2002 tarihli sözleşmenin 14. maddesi; “müteahhit iş bu sözleşmeye konu olan bloklar için inşaat ruhsatını, bu mukavelenin imzalandığı tarihten itibaren azami 4 ay içinde alacaktır. Müteahhit 4 ay içinde inşaat ruhsatı alamadığı takdirde mal sahipleri iş bu mukaveleyi feshetmek hakkına sahip olacaklar ve fesih tarihine kadar müteahhidin yapmış olduğu bütün masraflar müteahhidin uhdesinde kalacaktır.” hükmünü içermektedir. Sözleşmenin bu hükmü BK'nın 158/son maddesi hükmü gereğince “dönme cezası” niteliğindedir.
@@ -181,6 +205,8 @@ SONUÇ: Yukarıda 1. bentte belirtilen nedenlerle davacı vekilinin temyiz itira
 
 ## Yargıtay 15. HD 2012/2703 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/732297400)
+
 Arsa payı karşılığı inşaat sözleşmesinin “özel şartlar” bölümünün 1. maddesi gereğince, arsa sahiplerinin binası bitip iskâna hazır hale getirilmiş olması durumunda, davacı yükleniciye ait bağımsız bölümlerin tapularının arsa sahiplerince, kayden intikâlinin sağlanması gerekmektedir. Dosya kapsamındaki Adana 2. Asliye Hukuk Mahkemesi’nin 2003/1010 Esas ve 2004/1611 Karar sayılı ve verilen kesinleşme kaydına göre 06.10.2008 tarihinde kesinleşen hükmünde C bloktaki tüm eksik işler bedelinin 8.536,73 TL olduğu kabul edilerek ve birlikte ifa kuralı uygulanarak bu miktardaki eksik iş bedelinin, hükmün kesinleşmesinden sonra arsa sahiplerine ödenmesine ve dava konusu bağımsız bölümlerin tapu kayıtlarının iptâli ile davacı kooperatif adına tesciline karar verilmiştir. Mahkemece, Adana 2. Asliye Hukuk Mahkemesi’nce verilen sözü edilen karar ve bağlı dosyası kapsamı getirtilerek incelenmemiştir. Adana 2. Asliye Hukuk Mahkemesi’nin 2003/1010 Esas ve 2004/1611 Karar sayılı hükmün kesinleşmiş ise, yüklenici tarafından yüklenilen edimin ifa edildiğinin ve dolayısıyla arsa sahiplerinin karşı edimlerinin yerine getirilmesini yüklenicinin isteyebileceğinin kabulü gerekir.
 Mahkemece yüklenici tarafından iskân ruhsatının alınmadığı gerekçesiyle davanın reddi doğru olmamıştır. Çünkü, yüklenici kooperatif arsa sahiplerine ait binanın tamamlanıp iskâna hazır hale getirilmesi durumunda arsa payı karşılığı inşaat sözleşmesi gereğince kendisine verilmesi kararlaştırılan taşınmazların adına tescilini isteyebilecektir.
 
@@ -190,6 +216,8 @@ SONUÇ:Yukarıda açıklanan sebeplerle davacı vekilinin temyiz itirazlarının
 
 ## Yargıtay 15. HD 2012/2664 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/732389500)
+
 Karşılıklı edimleri içeren kat karşılığı inşaat sözleşmelerinde aslolan, sözleşmenin tam olarak ifası olup, yüklenicinin borcu, inşaatı sözleşme ve eklerine, tasdikli ruhsatına, düzenlenen plan ve projesine uygun şekilde tamamlayıp sözleşmede kararlaştırılmış ise iskân iznini de alarak teslim etmektir. Dairelerin teslimi iskâna bağlanmış ise yüklenici iskânı almadığı sürece temerrütten kurtulamayacağı gibi tapu devri yapılması veya arsa sahibinin binada oturmuş olması bile yükleniciyi ibra anlamına gelmez (Emsal Yarg.15 HD 2003/1739 E 2003/5138 K 31.10.2003 tarih). Somut olayda da sözleşmede yüklenici davacı inşaatı anahtar teslimi yani iskânı alınmış olarak teslimi üstlendiğine göre kira kaybının da cezalı süre bitim tarihi olan 15.03.1999 tarihinden iskânın alındığı tarih olan 11.02.2005 tarihine kadar hesaplanması gerekirken idarece düzenlenen ve teslim belgesi niteliği bulunmayan 08.08.2000 tarihli tutanak tarihine kadar kira bedeline hükmedilmesi hatalıdır. Kararın bu nedenle davalı karşı davacı arsa sahibi yararına bozulması gerekmiştir.
 
 …
@@ -197,6 +225,8 @@ Karşılıklı edimleri içeren kat karşılığı inşaat sözleşmelerinde asl
 SONUÇ: Yukarıda 1. bentte açıklanan nedenlerle tarafların sair temyiz itirazlarının reddine, 3. bentte açıklanan sebeplerle kararın temyiz eden davacı karşı davalı yararına, 2.bentte açıklanan nedenlerle davalı karşı davacı yararına BOZULMASINA …
 
 ## Yargıtay 15. HD 2012/2494 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/516339600)
 
 01.02.2005 tarihli arsa payı karşılığı inşaat sözleşmesini ... ve ... arsa sahibi sıfatlarıyla; davacı ... yüklenici sıfatıyla imzalamışlardı. Arsa payı karşılığı inşaat sözleşmesinin düzenlendiği tarih itibariyle sözleşme konusu 3 numaralı parselin 275/603 payının ..., 275/603 payının ... ve 53/603 payının da ... Belediyesi adına tescilli olduğu tapu kaydından anlaşılmaktadır. Ancak, müşterek paydaş olan ... Belediyesi ile yüklenici davacı arasında arsa payı karşılığı inşaat sözleşmesi yapılmadığı gibi; diğer paydaşlarla yapılan arsa payı karşılığı inşaat sözleşmesine de Belediye katılmamıştır. Buna karşın, somut olayda 3194 Sayılı İmar Kanunu'nun 21. maddesi hükmü gereğince, davalı ...'ce 17.11.2005 tarihli yapı ruhsatı verilmiştir. 3194 Sayılı İmar Yasası'nın 22. maddesi hükmünde ise, yapı ruhsatı alınması koşulları gösterilmiş olup; yapı ruhsatı almak için Belediye'ye yapı sahipleri veya yasal vekillerince dilekçe ile başvurulması, tapu kaydı ile mimari, statik, elektrik ve tesisat projeleri ile resim ve hesaplarının röperli veya yoksa ebatlı krokisinin eklenmesi gereklidir.
 Oysa, sözleşme konusu 3 numaralı parselin ... ve ... adlarına olan payları, 23.03.1996 tarihinde Belediye'ce yapılan tahsis sonucu tescil edilmiştir. Ne var ki, ... 7. İdare Mahkemesi'nce verilen ve kesinleşen 30.04.1997 tarih 1996/1202 E ve 1997/428 K sayılı kararla, tahsis işlemi iptâl edilmiş ve 22.12.2005 tarihinde de ... ve ...'nin payları, tekrar ... Belediyesi adına tescil olunmuştur. Davada da, az yukarıda açıklandığı üzere; Belediye'nin İmar Yasası'na aykırı olarak yapı ruhsatını vermesi sonucu inşaatın yapıldığı, yapı ruhsatının verilmemesi durumunda davacının, maddi zararlarının gerçekleşmeyeceği ileri sürülmektedir. 6100 Sayılı HMK'nın 33. maddesi hükmü ile 04.06.1958 gün ve 15/6 Sayılı Yargıtay İçtihadı Birleştirme Kararı gereğince, maddi olayları açıklamak taraflara ileri sürülen olayları hukuken nitelemek ve uygulanacak kanun hükmünü tespit etmek hakime ait bir görevdir. 2577 sayılı İdari Yargılama Usulü Kanunu'nun 2. maddesi hükmüne göre idari işlem ve eylemlerden dolayı zarar görenler tarafından açılacak tam yargı davalarının idari yargı yerinde görülmesi gerekir.
@@ -208,12 +238,16 @@ SONUÇ: Yukarıda 1. bentte belirtilen nedenlerle davacı vekilinin sair temyiz 
 
 ## Yargıtay 15. HD 2012/2423 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/515896300)
+
 Taraflar arasındaki 19.03.2008 günlü Düzenleme Şeklinde Kat Karşılığı İnşaat ve Satış Vaadi Sözleşmesine göre; teminat olarak tutulacak 1 adet bağımsız bölümün satış yetkisi inşaat tamamen bitirilip iskân ruhsatı alındıktan sonra verilecektir. Davaya konu olan zemin kat 10 nolu bağımsız bölüm sözleşme gereği yüklenici şirkete ait olan son bağımsız bölümdür. Dava 30.06.2009 tarihinde açılmış, genel iskân ruhsatı dava tarihinden sonra 15.02.2011 tarihinde alınmıştır. Dava tarihi itibariyle davacı şirketin teminat olarak tutulan son bağımsız bölümün tescilini isteme hakkı doğmadığından, davalının davanın açılmasına sebebiyet verdiği kabul edilemez.
 Yapı kullanma izin belgesi dava tarihinden sonra alındığından 10 nolu bağımsız bölümün tapu kaydının iptâl ile davacı adına tesciline karar verilmesi doğru ise de, davalı, davanın açılmasına sebebiyet vermediğinden mahkeme masrafı ve vekâlet ücretiyle sorumlu tutulmaması gerekirken, masraf ve vekâlet ücretinin davalı arsa sahibine yükletilmesi doğru görülmemiş, kararın bu yönden bozulması gerekmiş ise de bu yanlışlığın giderilmesi yeniden yargılamayı gerektirmediğinden 6100 Sayılı HMK’nın geçici 3. maddesi yollamasıyla 1086 Sayılı HUMK’nın 438/VII. maddesi uyarınca düzeltilerek onanması uygun görülmüştür.
 
 SONUÇ:Yukarıda 1. bentte yazılı nedenlerle davalı-arsa sahibinin diğer temyiz itirazlarının reddine, 2. bent uyarınca mahkeme kararı hüküm fıkrası 3 ve 4. bentlerinin tamamı itibarıyla hüküm fıkrasından çıkarılmasına, yerine bir bent halinde “davalı, davanın açılmasına sebebiyet vermediğinden davacı yararına vekâlet ücreti tayinine yer olmadığına, davacı tarafından yapılan yargılama giderlerinin kendi üzerinde bırakılmasına” cümlesinin yazılmasına, hükmün değiştirilmiş bu şekliyle DÜZELTİLEREK ONANMASINA …
 
 ## Yargıtay 15. HD 2012/2321 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/516412800)
 
 Davalı, sözleşmeden farklı değişikliklerin tarafların birlikte aldıkları kararlara göre yapıldığını, davacıların bağımsız bölümlerinin teslim edildiğini, bir kısmını da kiraya verdiklerini, davacılara ait bağımsız bölümlerde de genişleme yapıldığını belirterek davanın reddini savunmuştur.
 

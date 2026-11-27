@@ -28,6 +28,8 @@ Ancak, olayın niteliği ve özelliğinin (uyuşmazlığa 106-108. maddeler hük
 
 ## Yargıtay HGK 2021/724 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/686444800)
+
 İleriye etkili fesihte yüklenici, inşaatı getirebildiği seviyeye göre tapu payı almaya hak kazanmakta, arsa sahibi de geriye etkili feshin aksine varsa, ifaya ekli cezayı ve ifanın gecikmesine bağlı zararlarını (BK.96. md.) yükleniciden isteyebilmektedir. Bu nedenlerle fesih isteme tarihinde inşaatın getirildiği seviyenin tespiti gerekmektedir. Teknik bir konu olan seviye tespiti, 6100 sayılı Hukuk Muhakemeleri Kanunu’nun (HMK) 266. madde hükmüne göre uzman bilirkişiler tarafından saptanacaktır. Yine ileriye etkili fesihte tasfiye sonucunun da kararda açık olarak gösterilmesi ve yeni uyuşmazlıklara neden olunmadan taraflara aidiyeti gereken payların (bağımsız bölümlerin) HMK'nın 297 ve devamı maddeleri hükmünce infazda tereddüt yaratmayacak biçimde belirlenmesi zorunludur.
 
 ## Yargıtay 6. HD 2026/1637 K.
@@ -37,17 +39,25 @@ Bir örnek verilmek gerekirse; işi tamamlasaydı yüklenici 10 adet bağımsız
 
 ## Yargıtay 6. HD 2025/2639 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1202169600)
+
 Eser sözleşmelerinde sözleşmenin feshi kural olarak geriye etkili sonuç doğurur. Geriye etkili fesih halinde sözleşmeden baştan itibaren dönüldüğünden, taraflar verdiklerini sebepsiz zenginleşme hükümlerine göre birbirlerinden talep edebilir ve sözleşme ile karşılıklı olarak üstlendikleri edimlerini ifadan kurtulur. Ancak ani edimli bir sözleşme olmasına rağmen alacaklı bu nitelikteki sözleşmeyi kendi iradesiyle ileriye etkili olarak da feshedebilir. Dairemiz uygulamalarında sözleşmenin ileriye etkili feshi için, arsa sahiplerine ve yükleniciye verilecek tüm bağımsız bölümler dahil olmak üzere, sözleşmeye konu tüm imalatın gerçekleşme seviyesinin % 90 veya üzerinde olması gerekir ise de; arsa sahiplerinin daha düşük olan imalat seviyesine rağmen sözleşmeyi ileriye etkili olarak feshetmeleri de mümkün ve geçerlidir.
 
 ## Yargıtay 23. HD 2015/2836 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/203948600)
 
 Diğer anlatımla, ileriye etkili fesihte yüklenici, inşaatı getirebildiği seviyeye göre tapu payı almaya hak kazanmakta, arsa sahibi de geriye etkili feshin aksine, ifaya ekli cezayı ve ifanın gecikmesine bağlı gecikme ( kira ) tazminatını ( Dava tarihi itibariyle yürürlükte olan TBK'nın 112.md.) yükleniciden isteyebilmektedir. İleriye etkili fesihte cezai şart istenebilir. Ancak, seçimlik cezanın durumu buna müsait değildir. İleriye etkili fesih bir bakıma sözleşmenin ifası demek olduğundan alacaklının akdin icrasını (akdin ifasını) istemek dışında cezanın tediyesini talebe yetkisi yoktur. Zira, tasfiye 25.01.1984 tarihli İçtihadı Birleştirme Kararı uyarınca hakim tarafından yapılmaktadır. Kural bu olmakla birlikte TBK'nın 179/1. maddesindeki "aksi sözleşmeden anlaşılmadıkça" şeklindeki hükümden tarafların aksine sözleşme yapabilecekleri, böyle bir sözleşme varsa fesih ileriye etkili olsa bile, alacaklının ayrıca seçimlik cezayı da isteyebileceği sonucuna ulaşılmaktadır.
 
 ## Yargıtay 23. HD 2014/3297 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/114241200)
+
 Burada feshin geriye ve ileriye etkili olmasının sonuçları üzerinde durulmasında yarar vardır. Bilindiği üzere fesih, sözleşme ilişkisini sona erdirmeye yönelik, bozucu yenilik doğuran bir haktır. Feshin geriye etkili olması durumunda, sözleşme hiç yapılmamış (yok) farzedilerek hüküm doğuracağından taraflar karşılıklı olarak birbirlerine verdiklerini sebepsiz zenginleşme hükümlerince geri alabilir. Örneğin, avans niteliğinde bir miktar arsa payı devredilmiş ise arsa payının adına tescili arsa sahibince; yasaya uygun bir kısım imalât gerçekleşmiş ise bunun bedeli de yüklenici tarafça istenebilir. Oysa, ileriye etkili fesihte sonuç farklıdır. Burada arsa sahibi, yüklenicinin gerçekleştirdiği inşaat oranında arsa payını devretmekle yükümlü olmakla beraber yüklenicinin kusuru nedeniyle uğradığı zararların ödenmesini de ister. Ancak, gerek Dairemiz, gerekse Hukuk Genel Kurulu Kararları'nda, akdin ileriye etkili feshedilebilmesi için inşaat seviyesi % 90 ve üzeri orana ulaşmış olmalıdır. Mahkemece ileriye etkili feshin sonuçlarının da hüküm yerinde gösterilip açıklanması, tasfiyenin gerçekleştirilmesi ve uyuşmazlığın giderilmesi gerekmektedir.
 
 ## Yargıtay 15. HD 2011/3284 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/766542600)
 
 Kural olarak, BK'nın 355 ve devamı maddelerinde düzenlenen eser sözleşmelerinin bir türü olan arsa payı karşılığı inşaat sözleşmelerinde kısmi ifadan sözedilemez ise de, 25.01.1984 gün ve 3/1 Sayılı Yargıtay İçtihadı Birleştirme Büyük Genel Kurulu Kararında, müteahhidin kendi kusuruyla işi muayyen zamanda bitirmeyerek temerrüde düşmesi nedeniyle sözleşmenin iş sahibi tarafından feshi halinde, uyuşmazlığın BK'nın 106-108. maddelerine göre çözümleneceğine, ancak, olayın niteliği ve özelliğinin haklı gösterdiği durumlarda, Medeni Kanun'un 2. maddesi hükmü gözetilerek, sözleşmenin ileriye etkili sonuç doğuracağına karar verilmiştir. Burada yüklenicinin ileriye etkili fesih sonuçlarından yararlanabilmesi için inşaatın en az %90 ve üzeri seviyeye getirilmiş olması zorunludur. Gerek Dairemizin, gerekse Hukuk Genel Kurulu'nun uygulamaları bu doğrultudadır. Hemen belirtilmelidir ki, ileriye etkili fesihte müteahhit, inşaatı getirebildiği seviyeye göre tapu payı almaya hak kazanmakta, arsa sahibi de geriye etkili feshin aksine, ifaya ekli cezayı ve ifanın gecikmesine bağlı zararlarını (BK.96. md.) müteahhitten isteyebilmektedir.
 Bu nedenlerle fesih isteme tarihinde inşaatın getirildiği seviyenin tesbiti çok önem arzetmektedir. Kuşkusuz teknik bir konu olan seviye tesbiti HUMK'nın 275. madde hükmünce uzman bilirkişiler tarafından saptanacaktır. Yine ileriye etkili fesihte tasfiye sonucunun da kararda açık seçik gösterilmesi ve yeni uyuşmazlıklara neden olunmadan taraflara aidiyeti gereken payların (bağımsız bölümlerin) HUMK'nın 388 ve 389. maddeleri hükmünce infazda tereddüt yaratmayacak biçimde belirlenmesi zorunludur.
@@ -58,5 +68,7 @@ Yerleşik yargı kararları gereğince; kat karşılığı inşaat sözleşmeler
 Davacı vekili dava konusu taşınmazlar hakkında ihtiyati tedbir kararı verilmesini istemiş ise de inşaatın tamamlanma durumu, yargılamanın geldiği aşama, toplanan deliller birlikte değerlendirildiğinde, fesihte tarafların kusuru, feshin ileriye mi geriye mi yönelik olacağı belirleneceğinden tazminat tutarı açısından şu aşamada yaklaşık ispat koşulunu sağlamadığı, yargılamanın ilerleyen aşamalarında da tedbir talebinin mahkemece değerlendirilebileceği kanaatiyle ihtiyati tedbir isteminin reddine dair verilen karar dairemizce isabetli görülmüştür.
 
 ## Sakarya BAM 5. HD 2025/955 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1151097900)
 
 Yargıtay 6. H.D. 26/04/2023 tarih ve 2022/1627 E.-2023/1528 K. Sayılı emsal kararında; arsa payı karşılığı inşaat sözleşmelerinde yüklenici temerrüdü halinde inşaatın imalat seviyesine göre sözleşmenin geriye etkili feshini talep edebilecek olan davacı arsa sahiplerinin sözleşmenin ileriye etkili feshini talep ettiği durumlarda, imalat seviyesine bakılmadan akdin ileriye etkili feshini, sözleşmenin tasfiyesini ve teslimi gereken tarihten ileriye etkili feshin talep edildiği tarihe kadar koşulları gerçekleşmişse gecikme tazminatı ile kendisine ait bağımsız bölümlerin tespitini talep edebileceği içtihad edinilmiştir.

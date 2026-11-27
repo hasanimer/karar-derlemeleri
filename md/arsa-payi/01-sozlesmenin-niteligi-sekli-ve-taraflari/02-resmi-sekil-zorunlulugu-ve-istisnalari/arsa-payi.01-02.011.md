@@ -22,6 +22,8 @@ uyari: "Derleyenin seçtiği alıntılardır; kararın tamamı değildir. Künye
 
 ## Yargıtay 15. HD 2006/3834 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/860033700)
+
 Davacı yüklenici 07.05.1998 tarihli düzenleme şeklinde kat karşılığı inşaat sözleşmesi gereği kendisine ait olan 6 no’lu parseldeki 1 no’lu bağımsız bölümün adına tescilini, 3 ve 5 no’lu bağımsız bölümlerin ise arsa sahibi tarafından 3. kişiye satılmış olması nedeniyle bedele karşılık şimdilik 2.000.000.000 TL.nin tahsiline karar verilmesini istemiş, fazlaya dair haklarını saklı tuttuğundan ayrıca 8.000.000.000 TL.nin tahsili için açmış olduğu dava, bu dava ile birleştirilmiştir.
 
 …
@@ -111,6 +113,8 @@ Davalı davanın reddini talep etmiştir.
 
 ## İstanbul BAM 3. HD 2026/623 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1196658900)
+
 Davacı, ... ..... Noterliği'nin..... yevmiye nolu Taşınmaz Vaadi ve Arsa Payı Kat Karşılığı İnşaat Sözleşmesi akdedildiğini,sözleşmeden kaynaklanan edimini yerine getirdiğini, ancak vergi incelemesi sonucu düzenlenen 16.12.2020 tarihli raporda " taşınmazların üçüncü kişilere satışına iliş- kin faturaların davacı tarafça düzenlenmesi gerektiği, satış hasılatının % 48'inin arsa sahibine , % 52'sinin davacıya ait olması gerektiği, davalının kendi payına düşen %48 için arsa payı faturası kesmesi gerektiğini, ancak kesmediği"nin tespit edildiğini, davalının bu eylemleri nedeniyle usulsüzlük cezası kesildiğini, KDV iadesinden kaynaklı 33.000.000 TL ve fazladan ödenen 13.595.000 TL zararın mevcut olduğunu, fazla ödenen 13.595,021 TL KDV tutarının davalıdan tahsili için icra takibi başlattıklarını, ancak borçlunun haksız itirazı nedeniyle takibin durduğundan bahisle itirazın iptalini istemiştir.
 
 …
@@ -126,6 +130,8 @@ kapsamında ele alınsa dahi söz konusu serbesti uyarınca akdedilen sözleşme
 
 ## İstanbul BAM 44. HD 2026/319 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1196150100)
+
 Davalı vekili cevap dilekçesinde özetle;
 
 …
@@ -139,6 +145,8 @@ Usûl ve yasaya uygun İstanbul Anadolu 8. Asliye Ticaret Mahkemesinin 01/11/202
 
 ## Adana BAM 9. HD 2026/304 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1197181200)
+
 Dava, icra takibine yapılan itirazın iptali istemine ilişkindir.
 
 Davacı tarafından, taraflar arasında Yapı Denetim Hizmet Sözleşmesi imzalandığı, sözleşmedeki tüm edimlerin yerine getirildiği, ancak, sözleşmede yapı sahibi olarak anılacak olan davalının, yapılan ihtara rağmen yapı denetimi hizmet bedelini zamanında ödemediği, bu hususta başlatılan icra takibine yapılan itirazın haksız olduğu iddia edilmiş, davalı ise, sözleşmenin yapı sahibi ile yapı denetim kuruluşu arasında yapılacağına dair sözleşmedeki açık ve emredici düzenlemeye aykırı olarak, sözleşmenin müteahhit ile yapıldığını, müteahhidin yapı sahibi veya yapı sahibinin vekili olmadığını, yapılan inşaata ilişkin arsa sahipleri ile noterde yapılan taşınmaz satış vaadi ve arsa payı karşılığı inşaat sözleşmesi olup, bu sözleşmede de yapı denetim hizmet bedelinin taraflarınca ödeneceğinin belirtilmediğini,18/12/2015 tarihinde yapı sahibi olduğunu, ancak, davacı tarafından sunulan sözleşmelerin, bu tarihten önce, 05/06/2015 ve 06/11/2015 tarihinde yapıldığını, sözleşmelerin geçerli olması halinde, ancak yapı sahibi olduğu kısım kadar sorumluluğunun olduğunu belirterek davanın reddini savunmuş, mahkemece yazılı gerekçe ile davanın kısmen kabulüne karar verilmiştir.
@@ -151,6 +159,8 @@ olduğu, davalı tarafından sözleşmelerin geçersiz olduğu savunulmuş ise d
 davanın kısmen kabulüne karar verilmiş olması usul ve yasaya uygun ise de, mahkemece, kısmen kabulüne karar verilen davada, karar tarihindeki Avukatlık Asgari Ücret Tarifesi'nin 13/1. maddesi dikkate alınarak reddedilen (124.734,96.TL) kısım yönünden, davalı lehine (19.710,24.TL) nispi vekalet ücretine hükmedilmesi gerekirken, maktu vekalet ücretine hükmedilmiş olması usul ve yasaya aykırı olup, davalı vekilinin bu yöndeki istinaf sebebinde haklı olduğu anlaşılmıştır.
 
 ## Kayseri BAM 4. HD 2026/6 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1186667400)
 
 Davalı ... vekili cevap dilekçesinden özetle; davacıya arabuluculuk anlaşmama tutanağının aslını sunması için 1 haftalık kesin süre verilmesini, sunmadığı takdirde davanın usulden reddedilmesi gerektiğini, müvekkili yönünden davanın tefrik edilerek husumet yönünden reddedilmesi gerektiğini, taşınmazın kooperatifin talimatı uyarınca ...'a devredildiğini, yüklenici kooperatifin KKİS ile üstlendiği edimleri yerine getirmediğinin Kayseri 7. Asliye Hukuk Mahkemesinin 2020/11 D.iş Esas sayılı dosyası üzerinden tespit edildiğini, kooperatife bu konuda Kayseri 7.
 

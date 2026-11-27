@@ -37,6 +37,8 @@ Yukarıda (2) numaralı bentlerde açıklanan nedenlerle temyiz olunan İlk Dere
 
 ## Yargıtay 6. HD 2025/4436 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1200366400)
+
 Hükme esas alınan bilirkişi raporunda da açıklandığı üzere, 1975 yılında yürürlüğe giren “Afet Bölgelerinde Yapılacak Yapılar Hakkında Yönetmelik” çerçevesinde yapılan statik hesaplara ve betonarme projelere göre 1995 yılında ruhsatlandırılmış olan binada, “2019 - Riskli Yapı Tespit Esasları” ve “2018 Türkiye Bina Deprem Yönetmeliği” esasları dahilinde tekrar statik çözümlemeler yapılarak binanın statiği ve kullanılan betonun kalitesi hakkında olumsuz görüş verilmesi ve yapıyı inşa eden yükleniciye kusur atfedilmesi mümkün değildir. 1975 tarihli Deprem Yönetmeliğinin yürürlükte olduğu sırada bu yönetmelik hükümleri çerçevesinde inşa edilen binada, yüklenicinin yapım ve teslimden sonra meydana gelen gelişmeleri bilmesi ve öngörmesi kendisinden beklenemeyeceğinden, sonradan yürürlüğe girip yüklenicinin sorumluluklarını arttıran aleyhe hükümlerin yükleniciye uygulanamayacağı açıktır.
 Bu nedenle, yüklenicinin sorumluluğu ve özen borcunun, binanın yapımı ve teslimi sırasında yürürlükte bulunan 1975 yılı Deprem Yönetmeliği ve o tarihte yürürlükte olan diğer mevzuata göre değerlendirilmesi gerekmekte olup, mahkemece, bu hususlar nazar alınıp, asıl davada davacı-birleşen davada davalı yüklenici şirketin sözleşme uyarınca üzerine düşen edimleri yerine getirdiği, böylelikle kendisine isabet eden bağımsız bölümlerin tapularına hak kazandığı sonucuna varılarak, asıl ve birleşen davada yazılı şekilde karar verilmesi doğru olmuştur.
 
@@ -45,6 +47,8 @@ Bu nedenle, yüklenicinin sorumluluğu ve özen borcunun, binanın yapımı ve t
 Temyiz olunan Bölge Adliye Mahkemesi kararının HMK'nın 370/1 hükmü uyarınca ONANMASINA …
 
 ## Yargıtay 4. HD 2024/11959 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1145755100)
 
 Davalı vekili cevap dilekçesinde; davacı sigortalının davalıya yaptığı 29.10.2019 tarihli hasar ihbarı üzerine davalı tarafından 03.11.2019 tarihinde bina ekspertiz çalışması yaptırıldığını, hazırlanan ekspertiz raporunda davacının bodrum katındaki taşınmazının kolon ve kirişlerinde korozyona bağlı deformasyonların bulunduğu, hasar icmalinin sadece depremden kaynaklı hasarlar dikkate alınarak tanzim edildiği, sigortalı konutun ortak alan dış cephe ve merdiven kovasında sıva çatlakları, bodrum kat kolonlarında hasar olduğu, sigortalı konut bağımsız bölümde salon ve bir odada duvar çatlağı hasarlı bulunduğunun belirtildiğini, yapılan kısmi hasar tespitleri neticesinde konut içi dekoratif hasar için 4.514,40 TL, bağımsız bölüme dahil edilen ortak alan için 2.599,42 TL hasarın tespit edildiği, hesaplanan tutardan 1.424,00 TL muafiyet düşülerek davacı sigortalıya 5.689,82 TL ödeme yapıldığını, binanın yapısal sorunları ve mevcut yönetmeliklere uygun olmaması nedeniyle binadaki hasarın zorunlu deprem sigortası kapsamında olmadığını, riskli yapı kararı ile meydana gelen deprem arasında nedensellik ilişkisinin bulunmadığını, Jeoloji bölümünden seçilecek bilirkişi heyetinden davaya konu
 yerde keşif yapılmak suretiyle rapor alınması, rizikonun yapının yapım eksikliğinden mi yoksa deprem nedeniyle mi meydana geldiğinin tespit edilmesi, zararın zorunlu deprem sigortası kapsamında bulunup bulunmadığının belirlenmesi gerektiğini belirterek davanın reddine karar verilmesini istemiştir.
@@ -61,6 +65,8 @@ Dosya kapsamında, davacının taşınmazının bulunduğu anayapıda taşınmaz
 Yukarıda açıklanan nedenlerle davacı vekilinin temyiz itirazlarının kabulü ile temyiz olunan İtiraz Hakem Heyeti kararının BOZULMASINA …
 
 ## Yargıtay 5. HD 2024/9430 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1120927200)
 
 Davalılar vekili cevap dilekçesinde özetle; davacıların davasının haksız ve kötü niyetli olduğunu, davacıların daha önce de ihtiyati tedbir talepli olarak Adana 4.
 
@@ -79,6 +85,8 @@ projesinin aynen uygulanması ile bu binanın yıkılıp yerine yenisinin yapıl
 
 ## Yargıtay 6. HD 2024/4061 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1111940200)
+
 Davacı vekili, müvekkili arsa sahibi ile dava dışı yüklenici kooperatif arasında düzenlenen arsa payı karşılığı inşaat sözleşmesinin İzmir 2. Asliye Ticaret Mahkemesi’nin 26.05.2021 tarihli, 2018/1098 Esas, 2021/458 Karar sayılı ilâmıyla geriye etkili şekilde feshedilmiş ve bu karar kesinleşmiş olduğundan, dava konusu bağımsız bölümü yükleniciden temlik almış olan davalının daireye haksız el atmasının önlenmesini talep etmiştir.
 
 Davalı vekili, yıkım kararının iptali için açılan dava derdest olduğundan sonucunun beklenmesi gerektiğini, dava dışı kooperatifin yapılan konutları üyelerine teslim ettiğini, müvekkilinin de bedelini ödeyerek daireyi satın aldığını, Anayasa Mahkemesi bireysel başvurusunun bekletici mesele yapılması gerektiğini savunarak, davanın reddini istemiştir.
@@ -95,6 +103,8 @@ SONUÇ: Yukarıda 1. bentte açıklanan nedenlerle davalı vekilinin 2. bendin k
 
 ## Yargıtay 4. HD 2024/3323 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1063319400)
+
 Davacı vekili dava dilekçesinde; davalı tarafından Zorunlu Deprem Sigortası (ZDS) ile teminat altına alınan ........, Mahallesi, ......., Caddesi, Çoban Sokak, .......,Sitesi B Blok No:3/10 Küçükçekmece/İstanbul adresinde bulunan taşınmazın 26.09.2019 tarihinde meydana gelen depremde hasar gördüğünü, 20.02.2020 tarihinde Çevre ve Şehircilik Bakanlığı İstanbul Altyapı ve Kentsel Dönüşüm Müdürlüğü tarafından yıkım kararı alındığını ve yıkımın gerçekleştiğini, davalıya başvuru yapılmasına rağmen zararın giderilmediğini belirterek 6100 sayılı Hukuk Muhakemeleri Kanunu'nun (6100 sayılı Kanun) 107 nci maddesi gereğince 6.000,00 TL tazminatın davalının temerrüde düştüğü 22.01.2021 tarihinden itibaren işleyecek avans faizi ile birlikte davalıdan tahsilini talep etmiştir. Davacı vekili bedel arttırım dilekçesi ile dava değerini 65.415,00 TL'ye yükseltmiştir.
 
 …
@@ -110,6 +120,8 @@ Davalı vekili cevap dilekçesinde; davacı tarafından usulüne uygun hasar ihb
 Değerlendirme bölümünün (1) numaralı bendinde açıklanan sebeplerle davalı vekilinin temyiz itirazlarınında kabulü ile temyiz olunan İtiraz Hakem Heyeti kararının BOZULMASINA …
 
 ## Yargıtay 4. HD 2023/7968 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/948142400)
 
 Davacı vekili dava dilekçesinde; 26.09.2019 tarihinde meydana gelen 5,8 büyüklüğündeki deprem nedeniyle davacıya ait konutun ağır hasar gördüğünü, riskli ... olduğunun yetkili kurumca saptanıp tahliyesine karar verildiğini, davalıya yapılan başvuru üzerine 167,37 TL tazminat ödendiğini ancak zararın tamamen karşılanmadığını belirterek ve belirsiz alacak davası olarak fazlaya ilişkin hakları saklı kalmak kaydıyla 40.001,00 TL tazminatın davalıdan tahsilini talep etmiştir. Talebini bedel artırım dilekçesiyle 69.608 TL'ye artırmıştır.
 
@@ -130,6 +142,8 @@ Değerlendirme bölümünün (2) numaralı bendinde açıklanan sebeplerle daval
 
 ## Yargıtay 6. HD 2023/1259 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/906299600)
+
 Davalı-karşı davacı-birleşen davalı Kooperatif vekili cevap dilekçesinde; akdin feshinin usule uygun ve geçerli bir nedene dayanmadığını, taşınmazın işgal edilmiş olduğu yolundaki iddianın hukuki dayanaktan yoksun olduğunu, kooperatif ile müteahhit ... arasındaki inşaat yapım sözleşmesinin feshi yoluna gidilmesinin davacıyı ilgilendiren bir husus olmadığını, davacının taraf olmadığı ... ... ile yapılan sözleşmenin 13. maddesinde kooperatifin söz konusu inşaatı ihale usulü ile yaptırabileceği gibi emanet usulü ile de yaptırabileceğinin hüküm altına alındığını, ayrıca ... ... adına olan elektrik aboneliği sözleşmesine istinaden elektrik idaresine müracaatta bulunup inşaatın elektriğini kestirmesi nedeniyle inşaatın gecikmesine davacı mülk sahibinin sebep olduğunu, ayrıca sözleşmede belirtilen 30 aylık teslim süresinin dolmadığını, yaptırılan tespitte inşaatın süresinde tamamlanabileceğinin belirtildiğini, buna rağmen sözleşmenin feshi cihetine gidilmesinin kabul edilemez olduğunu beyanla davanın reddine karar verilmesini talep etmiştir.
 
 …
@@ -141,6 +155,8 @@ Arsa sahibinin gerek tespit raporlarının düzenlenmesi gerekse yargılama aşa
 Davacı-karşı davalı-birleşen dava davacı vekili ve davalı-karşı davacı-birleşen dava davalı yüklenici kooperatif vekilinin yerinde görülmeyen tüm temyiz itirazlarının reddi ile usul ve kanuna uygun olan kararın ONANMASINA …
 
 ## Yargıtay 4. HD 2022/5999 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/785582400)
 
 Davacı vekili, 24/01/2020 tarihinde Elazığı-Silivrice'de meydana gelen deprem sonrası müvekkilinin taşınmazının kullanılamaz hale geldiğini, binanın yıkıldığını belirterek, 89.496,57 TL ile 1.000,00 TL ekspertiz rapor ücretinin riziko tarihinden itibaren avans faizi ile birlikte davalıdan tahsiline karar verilmesini talep etmiştir …
 
@@ -160,6 +176,8 @@ SONUÇ: Yukarıda açıklanan nedenlerle davalı vekilinin temyiz itirazının k
 
 ## Yargıtay 15. HD 2019/3962 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/537549100)
+
 Yargıtay bozmasından sonra bozma ilamı gereğince bozmadan önce rapor düzenleyen bilirkişi kurulmadan 23.07.2015, 29.04.2016 ve 28.12.2016 tarihli ek raporlar alınmış ise de; ek raporlar birbirinden farklı olup çelişki giderilemediği ve taraflarca da itiraz edildiğinden mahkemece hükme yeterli görülmemiştir. Mahkemece bunun üzerine yeniden oluşturulan üç kişilik bilirkişi kuruluna inceleme yaptırılarak 21.04.2017 tarihli rapor ile itiraz üzerine 16.05.2017, 06.02.2015 ve 05.04.2018 tarihli ek raporlar alınmış ve 16.05.2017 tarihli ek rapora itibar edilerek dava sonuçlandırılmıştır.
 Söz konusu ek raporda imalât bedelleri feshin kesinleştiği tarihteki mahalli piyasa rayiçleri ile değil yapı yaklaşık birim maliyetleri hakkındaki tebliğe göre hesaplandığı gibi H/2 çekme mesafesine aykırılığın giderim ve deprem yönetmeliğine uygun hale getirme bedeli de mahalli piyasa rayiçlerine göre belirlenmediği ve özellikle depremle ilgili tahlil ve analiz bedellerinin yatırılmış olması halinde yargılama giderine dahil edilmesi mümkün olmakla birlikte yönetmeliğe uygun hale getirme bedeline dahil edilmesinin mümkün olmamasına rağmen söz konusu ek raporda analiz bedelinin inşaatın deprem yönetmeliğine uygun hale getirilme bedeline katılıp yüklenici alacağından mahsup edilmiş olması sebebiyle 16.05.2017 tarihli ek raporun bozma ilamına uygun ve hükme yeterli olduğunun kabulü mümkün değildir.
 
@@ -168,6 +186,8 @@ Bu durumda mahkemece yapılması gereken iş, HMK'nın 281/3. maddesi gereğince
 Mahkemece bu hususlar üzerinde durulmadan yetersiz bilirkişi ek raporuna itibar edilerek asıl davanın kısmen kabulü ve karar başlığında tarafları gösterilerek birleşen davanın müdahalenin meni davası olduğu belirtilmesine rağmen, hüküm fıkrasında birleşen dava yönünden herhangi bir hüküm kurulmamış olması doğru olmamış, kararın bozulması uygun bulunmuştur.SONUÇ: Yukarıda 1. bentte açıklanan nedenlerle yüklenici ve arsa sahiplerinin diğer temyiz itirazlarının reddine, 2. bent uyarınca kabulü ile hükmün arsa sahipleri ile yüklenici yararına BOZULMASINA …
 
 ## Yargıtay 15. HD 2019/86 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/477823400)
 
 Biçimine uygun olarak düzenlenmemiş olması sebebiyle geçersiz olmakla birlikte taraflar arasında imzalanan 14.07.2003 tarihli sözleşmenin 1. maddesinde A ve B blokta oluşan inşaatın 14.03.1996 tarihinde 1-33 ruhsat numarası ile yapı ruhsatı alınmış olup, A blokun temel ve ... katı (subasman kotu), B blokun ise ..., zemin ve 5. kata kadar olan B. A karkas bölümün mülk sahibi tarafından tamamlandığı kabul edilmiş ve inşaatın bu seviyeden sonraki kısmının yüklenici tarafından tamamlanacağı kararlaştırılmıştır. Bu haliyle bir kısım imalât arsa sahibi tarafından yapıldığı ve yüklenici tarafından ikmâl inşatının yapılması üstlenildiğine göre yüklenicinin gerçekleştirdiği imalâtın yapıldığı tarihlerdeki mahalli piyasa rayiçleri ile ve arsa sahibinin yaptığı kısım haricindeki imalâtla sınırlı olarak hesaplanması, piyasa rayicinin içerisinde yüklenici kârı ve KDV de bulunacağından bunların ayrıca piyasa rayicine katılmaması gerekir.
 
@@ -180,6 +200,8 @@ Yine dosya kapsamı ve alınan bilirkişi raporlarına göre inşaatın yükleni
 SONUÇ: Yukarıda 1. bentte açıklanan nedenlerle yüklenici ve arsa sahibi vekillerinin diğer temyiz itirazlarının reddine, 2. bent uyarınca kabulü ile hükmün temyiz eden taraflar yararına BOZULMASINA …
 
 ## Yargıtay 20. HD 2018/7306 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/465036000)
 
 Davacı vekili dava dilekçesinde özetle; davacının "... ili,... ilçesi, İnönü mahallesi 442 ada 102 parselde" kayıtlı 5 nolu dükkan niteliğindeki bağımsız bölümün maliki olduğunu, davalının ise diğer bağımsız bölümlerin maliki olduğunu, anılı taşınmaz üzerine, Çevre ve Şehircilik Bakanlığı ... Altyapı ve Kentsel Dönüşüm Müdürlüğü tarafindan, 28.01.2014 tarihinde "riskli yapı" şerhi işlendiğini, güçlendirme yapılıp yapılmaması hususunda Çevre ve Şehircilik İl Müdürlüğü'ne de başvurulduğunu, verilen cevapta ...
 
@@ -196,6 +218,8 @@ Dava konusu uyuşmazlık, 6306 sayılı Kanun gereği güçlendirmenin mümkün 
 SONUÇ: Yukarıda açıklanan nedenlerle; davacının temyiz itirazlarının kabulü ile hükmün BOZULMASINA …
 
 ## Yargıtay 20. HD 2018/3403 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/426096200)
 
 Davacılar vekili 16.04.2014 tarihli dilekçe ile; ... 2. Asliye Hukuk Mahkemesinin 2007/334 E-2007/407 K. sayılı ilamıyla ... ili ...ilçesi ...
 

@@ -21,6 +21,8 @@ uyari: "Derleyenin seçtiği alıntılardır; kararın tamamı değildir. Künye
 
 ## Yargıtay 6. HD 2025/2226 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1160328300)
+
 Davacı şirket yetkilisi dava dilekçesinde; davacı yüklenici ile davalı arsa sahibi arasında 09.08.2011 tarihinde arsa payı karşılığı inşaat sözleşmesi imzalandığını, inşaat süresinin 12 ay olduğunu, komşu arsa sahibinin yaptığı taşkın inşaat nedeniyle davalının uzun süre inşaat izni alamadığını, belediye ile yapılan görüşmeler sonucunda sorunun davacı yüklenici tarafından çözüme kavuşturulduğunu, işlemler sırasında bir kısım ödemelerin ve haciz baskısı nedeniyle icra ödemesinin yapıldığını, işlemlerin yapılmaya devam ettiği sırada davalı arsa sahibinin 23.12.2013 tarihinde gönderdiği ihtarname ile sözleşmeyi feshettiğini bildirdiğini, sözleşmenin feshinin haksız olduğunu, haksız fesih nedeniyle davalı arsa sahibinin yapılan masrafları ödemesinin gerektiğini, sözleşme imzalanmasından sonra davalı arsa sahibine kira ödemelerinin yapıldığını, haksız fesih nedeniyle ön görülen kârdan da mahrum kaldıklarını belirterek 90.000,00 TL masraf ile 20.000,00 TL yoksun kalınan kârın davalıdan alınmasına karar verilmesini talep etmiştir.
 
 …
@@ -37,6 +39,8 @@ Temyiz olunan mahkeme kararının BOZULMASINA …
 
 ## Yargıtay 6. HD 2025/2049 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1163328000)
+
 Mahkemece bozma ilamına uyularak verilen karar davacı vekili tarafından duruşmalı olarak temyiz edilmekle; kesinlik, süre, temyiz şartı ve diğer usul eksiklikleri yönünden yapılan ön inceleme sonucunda, 15.05.2025 tarihinde duruşma yapılmasına ve duruşma gününün taraflara davetiye ile bildirilmesine karar verilmiştir.
 
 …
@@ -49,6 +53,8 @@ Alacaklı, borçlu borcunu zamanında gerçekleştirmiş olsaydı hangi ekonomik
 Mahkeme kararının BOZULMASINA …
 
 ## Yargıtay 6. HD 2025/1249 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1161834000)
 
 1\.
 
@@ -70,6 +76,8 @@ Temyiz olunan Bölge Adliye Mahkemesi kararının BOZULMASINA …
 
 ## Yargıtay 6. HD 2024/5148 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1127049300)
+
 İlk Derece Mahkemesince, tazminat davasında, davacı ile davalı yüklenici arasında imzalanan arsa payı karşılığı inşaat sözleşmesi uyarınca teslim günü olarak kararlaştırılan 11.11.2007 tarihinden, sözleşmenin feshi ve tapu iptal ve tescil istemlerine ilişkin açılan davanın kabulüne dair verilen kararın kesinleşme tarihi olan 21.03.2014 tarihine kadar 7 daire için emsal kira bedelinden uğranılan kazanç kaybı ve inşaatın bu sürede yapılamaması nedeniyle uğradığı zararların tazmini yani olumlu zarar talebinde bulunulmuş ise de; davacılar ile dosya davalılarından ... arasında yapılan kat karşılığı inşaat sözleşmesinin davacıların açtığı dava sonucunda fesh edildiği, olumlu zarar niteliğindeki gecikme tazminatının sözleşmenin feshi halinde dahi istenebileceğine ilişkin taraflar arasındaki sözleşmede bir hüküm de bulunmadığı gerekçesiyle davanın reddine karar verilmiştir.
 
 …
@@ -83,6 +91,8 @@ Mahkemece, sözleşmenin feshi halinde müspet zararın istenemeyeceği gerekçe
 
 ## Yargıtay 6. HD 2024/5096 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1123516800)
+
 İlk Derece Mahkemesince, kat karşılığı inşaat sözleşmesinin davalı yüklenici tarafından yerine getirilmemesi nedeniyle açılan sözleşmede belirlenen kira yardımı ve ceza-i şart alacağı davasında davalı yüklenicinin edimini yerine getirmediği gerekçesiyle, davanın kabulüne karar verilmiştir.
 
 …
@@ -92,6 +102,8 @@ Kamu düzenine aykırılık hallerinin re'sen gözetildiği, istinaf nedenleriyl
 SONUÇ: Yukarıda açıklanan nedenlerle İstanbul Bölge Adliye Mahkemesi 15. Hukuk Dairesi kararına ilişkin davacı vekilinin tüm temyiz istemlerinin reddiyle usul ve kanuna uygun bulunan kararın ONANMASINA …
 
 ## Yargıtay 3. HD 2024/3630 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1138367400)
 
 Davacı vekili; müvekkilinin 16.08.2013 tarihli sözleşme ile Kayseri İli Kocasinan İlçesi ... Mah. 2771 ada 2 nolu parselde yapılacak binanın 5. kat kuzey batı cepheli 140m2 lik dairesini 102.500,00 TL ye satışı konusunda dava dışı müteahhit ...
 
@@ -109,6 +121,8 @@ Temyiz olunan Bölge Adliye Mahkemesi kararının 6100 sayılı Kanun'un 371 inc
 
 ## Yargıtay 7. HD 2024/1238 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1044659900)
+
 Davacı vekili dava dilekçesinde; müvekkili ile davalı arasında 17.10.2014 tarihli konut satış sözleşmesi imzalandığını, sözleşme uyarınca müvekkilinin 250.000,00 TL ödediğini, davalı şirketin edimini yerine getirmediğini, dava konusu taşınmazın tapu kaydının iptali ile müvekkili adına tesciline, olmadığı takdirde rayiç değerinin dava tarihinden itibaren işletilecek ticari faizi ile davalıdan tahsiline karar verilmesini talep etmiştir.
 
 …
@@ -125,6 +139,8 @@ Temyiz olunan Bölge Adliye Mahkemesi kararının 6100 sayılı Kanun'un 370 inc
 
 ## Yargıtay 6. HD 2023/2012 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/929964500)
+
 2.5.Son olarak birleşen Çankırı 1. Asliye Hukuk Mahkemesi 2012/272 Esas sayılı dosyasında arsa sahibi davacı geç teslimden doğan kira mahrumiyetinin tazminini istemiş, mahkemece istem kabul edilerek 10.000,00 TL kira tazminatının ödenmesine karar verilmiştir. Müsbet zarar, akdin hiç veya gereği gibi ifa edilmemesinden doğan zarar olup binaların bitirilmiş olması halinde getirmesi beklenen kira geliri kaybı, geciken ifa nedeniyle ifaya bağlı ceza, seçimlik ceza, eksik işler bedeli, kâr kaybı, gecikme tazminatı gibi talepler müspet zarar kapsamındaki alacak kalemleridir. Sözleşmeden haklı olarak dönen taraf, temerrüde düşmekte kusurlu olan taraftan dava tarihi itibariyle yürürlükte bulunan BK’nın 108. maddesi uyarınca ancak menfi zararını talep edebilecektir. Somut olaydaki gibi sözleşmenin feshini isteyen tarafın, sözleşmede aksi kararlaştırılmadıkça müspet zarar kapsamındaki gecikme (kira) tazminatı isteme hakkı bulunmamaktadır. Bu durumda mahkemece birleşen 2012/272 Esas sayılı dosyada, sözleşmenin feshine karar verilmiş olması karşısında kira tazminatı talebinin reddine karar verilmesi gerekirken davanın kabulü yerinde olmamış açıklanan sebeplerle hüküm bozulmuştur.
 
 …
@@ -132,6 +148,8 @@ Temyiz olunan Bölge Adliye Mahkemesi kararının 6100 sayılı Kanun'un 370 inc
 (2.4) (2.5) no.lu paragraflarda açıklanan nedenlerle, bir kısım davalılar vekillerinin diğer temyiz itirazlarının kabulü ile hükmün BOZULMASINA …
 
 ## Yargıtay 6. HD 2022/3004 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/781016900)
 
 Arsa payı karşılığı inşaat sözleşmeleri bedel olarak taşınmaz mal mülkiyetinin geçirimi borcunu içerdiğinden, TMK'nın 706, Borçlar Kanunu'nun 213, Noterlik Kanunu'nun 60 ve Tapu Kanunu'nun 26. maddeleri uyarınca resmi şekle bağlı tutulmuştur. Başka bir anlatımla, arsa payı karşılığı inşaat sözleşmelerinin geçerliliği, bu sözleşmelerin noterde "düzenleme" şeklinde yapılmasına bağlıdır. Öte yandan, arsa payı karşılığı inşaat yapım sözleşmeleri eser ve satış vaadi sözleşmelerinden oluşan karma nitelikli akitlerden olup, satış vaadini (arsa payının devrini) de içerdiğinden, tek taraflı irade beyanı ile feshi mümkün değildir. Dairemizin kararlılık gösteren içtihatlarında bu tip sözleşmelerin tarafların iradelerinin birleşmesi halinde ya da haklı sebeplerin bulunması durumunda mahkemenin vereceği fesih kararı ile sona ereceği kabul edilmektedir. Dolayısıyla bu sözleşmelerden dönmek isteyen tarafın, eğer karşı taraf dönmeyi kabul etmiyor ve karşı çıkıyorsa, hakimin kararına ihtiyacı vardır, yani mahkemede açacağı "Sözleşmenin feshi" davası sonunda feshi (dönme) kararı ile sözleşmeden dönebilir.
 Mahkeme, önce fesih isteyenin haklı olup olmadığını tartışır; haklı ise feshe karar verir, aksi halde davayı reddederek sözleşmeyi yürürlükte tutar. Bir başka anlatımla, arsa payı devri karşılığı inşaat sözleşmelerinin feshi, taraf iradeleri fesihte birleşmediği sürece ancak mahkeme kararı ile mümkün olmaktadır.
@@ -145,6 +163,8 @@ Feshin geriye etkili olması durumunda, sözleşme hiç yapılmamış (yok) farz
 SONUÇ:Yukarıda açıklanan nedenlerle tarafların temyiz itirazlarının kabulü ile hükmün, taraflar yararına BOZULMASINA …
 
 ## Yargıtay 13. HD 2020/3199 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/582606200)
 
 Davacı, davalılardan ...'ın ... Noterliğinin 07.03.1996 tarihli Gayrimenkul Satış Vaadi ve Kat Karşılığı İnşaat Sözleşmesi ile almış olduğu ... ili ... ilçesi Merkez Mahallesi 70 Ada 22 parselde bulunan 2.kat 15 nolu daireyi diğer davalı ... ...'a ... Noterliğinin 23.08.1996 tarihli sözleşme ile satma vaadinde bulunduğunu, davalı ... ...'ın da bu satış vaadine istinaden ...
 
@@ -166,6 +186,8 @@ SONUÇ: Yukarıda 1.bentte açıklanan nedenlerle temyiz olunan kararın BOZULMA
 
 ## Yargıtay 15. HD 2019/5243 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/555918300)
+
 Asıl dosya davalısı ...’nın temyiz itirazları ile ilgili olarak; davacı yüklenici ile davalı arasında düzenlenen ... 5. Noterliği’nin 08.02.2012 tarih, 4332 sayılı Düzenleme Şeklinde Gayrimenkul Satış Vaadi ve Kat Karşılığı İnşaat Sözleşmesinde sözleşme tarihi itibariyle tapu sicilinde inşaat yapılmasını engelleyecek herhangi bir şerh olmadığı, davalı ...’nın eşinin açtığı boşanma davasında aldığı ihtiyati tedbir kararı ve bunun sonucu sözleşmenin imzalanmasından sonraki tarihte tapu kaydına koydurduğu aile konutu şerhinin taşınmazın şerhli olarak devri, inşaat yapılması ve yapılacak inşaatta arsa sahibine kalacak bağımsız bölümlerin aile konutu şerhi ile arsa sahibi adına tescili mümkün olup, inşaat yapılmasına engel değildir. Engel olduğu kabul edilse dahi sonradan ortaya çıkan bu imkânsızlıkta davalı ...’nın dava dışı eşiyle anlaşarak tapu siciline aile konutu şerhi koydurduğu somut ve yasal delillerle kanıtlanamadığından imkânsızlıkta kusurlu kabul edilmesi mümkün değildir.
 
 Bunun sonucu olarak asıl davada davalı ...’nın imkânsızlık ve sözleşmenin ifa edilmemesinde kusurlu bulunmaması nedeniyle kanıtlanan menfi zararların hüküm altına alınması, hüküm altına alınacak miktara davacı yüklenici şirketin tacir ve işin ticari işletmesi ile ilgili ticari iş olması nedeniyle 3095 sayılı Kanunui Faiz ve Temerrüt Faizine İlişkin Kanun’un 2/II. maddesi uyarınca ticari faiz uygulanması, davacının terditli talep olarak menfi ve müspet zararlarını istemesi, davalının da davadan önce fesih iradesini ... 11. Noterliği’nin 16.08.2013 tarih ve 14419 yevmiye numaralı ihtarnamesini göndererek açıklaması nedeniyle fesih iradelerinin açılan asıl dava ile birleştiği gözetilerek sözleşmenin şimdiki gibi geriye etkili …
@@ -175,6 +197,8 @@ Bunun sonucu olarak asıl davada davalı ...’nın imkânsızlık ve sözleşme
 SONUÇ: Yukarıda 1. bentte açıklanan nedenlerle davacı-birleşen dosyalarda davalı yüklenici şirket ile asıl dosya davalısı ...’nın diğer temyiz itirazlarının reddine, 2. bent uyarınca kabulü ile hükmün asıl davada taraflar, birleşen davalarda davalı yüklenici şirket yararına BOZULMASINA …
 
 ## Yargıtay 23. HD 2019/5121 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/554586200)
 
 Davacılar vekili, müvekkilerinin, murisleri adına tapu tahsis belgesi ile tahsis edilen taşınmaz için davalı ile 28.05.1993 tarihinde, arsa payı karşılığı inşaat sözleşmesi yaptıkları zannıyla bir sözleşme düzenlediklerini, fakat daha sonra, noterde yapılan bu sözleşmenin taşınmaz satış vaadi sözleşmesi olduğunu gördüklerini, davalının hiç bir bedel ödemeden söz konusu sözleşmeye dayalı olarak taşınmazı belediye üzerinden kendi adına tescil ettirdiğini, işbu davadan önce hile nedenine dayalı olarak açtıkları tapu iptal ve tescil davasının, 1 yıllık hak düşürücü sürenin geçmiş olması nedeniyle reddedildiğini, davalı yüklenicinin o davada müvekkillerine birer daire vermeyi taahhüt ettiğini kabul ettiğini ve ruhsat alamadığı için binayı yapamadığını beyan ettiğini, aradan çok uzun süre geçtiğinden yüklenicinin edimini yerine getirme ihtimalinin kalmadığını, müvekkillerine devri taahhüt edilen 3 adet dairenin bedelinin ve kira bedelinin ödenmesi gerektiğini ileri sürerek, 3 dairenin bedeli için 450.000,00 TL, en az 5 yıllık kira bedeli için 95.000,00 TL olmak üzere toplam 545.000,00 TL’nin davalıdan tahsilini talep ve dava etmiş, ıslah yoluyla daire bedeli talebini 570.000,00 TL’ye
 arttırmıştır.
@@ -193,6 +217,8 @@ SONUÇ: Yukarıda (1) numaralı bentte açıklanan nedenlerle davalı vekilinin 
 
 ## Yargıtay 23. HD 2019/4459 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/546947600)
+
 Arsa payı karşılığı inşaat sözleşmelerinde, inşaatın kararlaştırılan tarihte tesliminin gerçekleştirilememesi durumunda yüklenici borçlu temerrüde düşer ve arsa sahibinin BK'nın 106/2. (TBK m. 125/2) maddesince seçimlik hakları doğar. Somut olayda davacılar arsa sahipleri dava dilekçesinde hem sözleşmenin feshini talep etmişler hem de geç teslim nedeniyle kira tazminatı talebinde bulunmuşlardır. Borçlar Kanunu'nun 106. (TBK m. 125) maddesindeki seçimlik hakkını fesih doğrultusunda kullanan tarafın müspet zarar kapsamında kalan gecikmeden ötürü kira tazminatı talep edemeyeceği gibi davacılar yargılama aşamasında taşınmazlarını yüklenici şirket yetkilisine devrettiklerinden sözleşmenin ifasından vazgeçmişlerdir. Bu durumda kira tazminatı isteyemezler.
 
 Öte yandan ecrimisille ilgili olarak davalı yüklenicinin de tapuda hissedar olduğu bu durumda paydaşlar intifadan men edilmedikçe birbirlerinden ecrimisil isteyemeceğinden davacı arsa sahiplerince yükleniciye gönderilen 07.12.2004, 14.03.2005 ve 15.03.2005 tarihli ihtarnameler değerlendirilerek intifadan men ihtarının tebliğ edildiği tarihten sonrası için intifadan men koşulu gerçekleşmiş sayılacağından intifadan men tarihi itibariyle ecrimisil hesaplanıp hüküm altına alınması gerekirken istemin tümüyle kabulü doğru olmamıştır.
@@ -200,6 +226,8 @@ Arsa payı karşılığı inşaat sözleşmelerinde, inşaatın kararlaştırıl
 SONUÇ: Yukarıda (1) numaralı bentte açıklanan nedenlerle asıl ve birleşen davada davacılar vekilinin tüm, birleşen davada davalı vekilinin diğer temyiz itirazlarının reddine, (2) numaralı bentte açıklanan nedenlerle birleşen davada davalı vekilinin (1) numaralı bent dışındaki temyiz itirazlarının kabulü ile hükmün birleşen davada davalı yararına BOZULMASINA …
 
 ## Yargıtay 15. HD 2018/4190 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/454574300)
 
 Davacı vekili; müvekkillerinin ... ili Merkez Atatürk Mahallesi ... ada ... parselde kayıtlı binanın zemin katında bulunan iş yerinin malikleri olduğunu, davacılar ile davalı yüklenici arasında ... 1. Noterliği'nin 31.10.2008 tarih ve 26447 yevmiye numarası ile Taşınmaz Mal Satış Vaadi ve Kat Karşılığı İnşaat Sözleşmesi yapıldığını, inşaatın sözleşme tarihinden itibaren 420 gün içinde bitirileceği, aksi halde günlük 200,00 TL cezai şart ödenmesinin kararlaştırıldığını, ...
 

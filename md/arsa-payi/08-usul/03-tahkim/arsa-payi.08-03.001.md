@@ -41,6 +41,8 @@ Davacı vekilinin temyiz itirazlarının kabulü ile direnme kararının yukarı
 
 ## Yargıtay HGK 2023/1136 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/976309900)
+
 İlk Derece Mahkemesince verilen kararın taraf vekilleri tarafından istinaf edilmesi üzerine, Bölge Adliye Mahkemesince taraf vekillerinin istinaf başvurularının ayrı ayrı kabulüne, İlk Derece Mahkemesi kararının kaldırılmasına, el atmanın önlenmesi, ecrimisil ve tazminat talebinin reddine, tapu kaydındaki şerhin terkini talebi hakkında karar verilmesine yer olmadığına, dava dilekçesinde talep edilen miktar üzerinden vekâlet ücretine karar verilmiştir.
 
 …
@@ -60,6 +62,8 @@ Bu durumda mahkemece kesinleşen hakem kararı ile taraflar arasındaki sözleş
 B) bendinde (§1-11) belirtilen nedenlerle davalı vekilinin temyiz itirazlarının kabulü ile direnme kararının yukarıda belirtilen değişik gerekçe ve nedenlerden dolayı 6100 sayılı Kanun’un 371 inci maddesi gereğince BOZULMASINA …
 
 ## Yargıtay HGK 2008/751 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/77006600)
 
 Dava, kat karşılığı inşaat sözleşmesi uyarınca dava dışı yükleniciye bırakılan ve onun talimatıyla üçüncü kişi tarafından temlik alınan bağımsız bölüme ait tapu kaydının, sözleşmesinin feshedilmesi nedeniyle iptali ve davacı adına tescili isteğine ilişkindir.
 
@@ -115,6 +119,8 @@ Temyiz olunan Bölge Adliye Mahkemesi kararının 6100 sayılı Hukuk Muhakemele
 
 ## Yargıtay 6. HD 2025/2452 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1186946000)
+
 Davacı vekili dava dilekçesinde; davalı yüklenici ... ile 24.01.2014 tarihinde arsa payı karşılığı inşaat sözleşmesi düzenlediklerini, diğer davalı ...'ın sözleşmede müteselsil kefil olarak yer aldığını, yüklenicinin inşaatı sözleşmeye ve projesine aykırı inşa ettiğini, sözleşmede kararlaştırılan sürenin dolduğunu, yükleniciye 5 adet villanın tapusunun devredildiğini, yüklenicinin edimlerini yerine getirmediğini ileri sürerek, arsa payı karşılığı inşaat sözleşmesinin feshine, uğradığı zararların tespiti ile davalılardan tahsiline, davalı tarafa devredilen 5 adet bağımsız bölümün tapu kaydının iptali ile kendi adına tesciline karar verilmesini talep ve dava etmiştir.
 
 …
@@ -131,6 +137,8 @@ Bilindiği üzere 6100 sayılı Hukuk Muhakemeleri Kanunu’nun 65. maddesi ve y
 
 ## Yargıtay 6. HD 2025/1854 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1158539100)
+
 Miktar veya değeri kesinlik sınırını geçmeyen davalara ilişkin nihai kararlar, 6100 sayılı Hukuk Muhakemeleri Kanunu'nun 362 nci maddesi uyarınca temyiz edilemez. Temyize konu edilen miktarın kesinlik sınırının altında kalması hâlinde anılan Kanun’un 366 ncı maddesi atfıyla aynı Kanun’un 352 nci maddesinin birinci fıkrasının (b) bendi uyarınca temyiz isteminin reddine karar vermek gerekir. Dosya içeriğine göre, birleşen davada temyiz istemi yönünden, arsa sahibi lehine hükmedilen 173.009,36 TL ile reddedilen 26.990,64 TL (talep olunan 200.000,00 TL'den geriye kalan) olup, Bölge Adliye Mahkemesinin karar tarihi itibari ile kesinlik sınırı olan 378.290,00 TL’nin altında kaldığından tarafların temyiz isteminin birleşen dava yönünden miktar itibarıyla reddine karar vermek gerekmiştir.
 
 …
@@ -138,6 +146,8 @@ Miktar veya değeri kesinlik sınırını geçmeyen davalara ilişkin nihai kara
 Asıl dava yönünden, davacı tarafın Bölge Adliye Mahkemesi kararına yönelik temyiz itirazının kabulü ile, Bursa Bölge Adliye Mahkemesi 10. Hukuk Dairesi’nin 21.02.2024 tarihli, 2023/1808 Esas, 2024/419 Karar sayılı kararının, hüküm fıkrasının "A)ASIL DAVA (BURSA 7. AHM'NİN 2016/316)" başlıklı paragrafının (3-4-5) numaralı bentlerinde yeralan ifadelerin hükümden çıkarılarak yerine,"3-Harçlar Kanunu gereğince alınması gereken 76.710,54 TL karar ve ilam harcından, peşin olarak alınan 1.707,75 TL ile tamamlama harcı olarak alınan 17.469,88 TL harç toplamı 19.177,63 TL'nin mahsubu ile bakiye 57.532,91 TL harcın davalıdan tahsiline, 4-Davacı tarafından yapılan 3.057,30 TL yargılama gideri ile peşin ve tamamlama harcı olarak alınan toplam 19.177,63 TL harcın davalıdan alınarak davacıya verilmesine, 5-Karar tarihinde yürürlükte bulunan Avukatlık Asgari Ücret Tarifesi uyarınca kendisini vekille temsil ettiren davacı yararına hesaplanan 153.527,45TL vekâlet ücretinin davalıdan alınarak davacıya verilmesine" ibarelerinin yazılması suretiyle DÜZELTİLEREK ONANMASINA …
 
 ## Yargıtay 6. HD 2025/1310 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1157450400)
 
 Davacılar vekili dava dilekçesinde; müvekkilleri ile davalı yükleniciler ... ve ... arasında Yenimahalle 3.
 
@@ -157,6 +167,8 @@ Yukarıda 2. bentte açıklanan sebeplerle davalı-karşı davacı ... vekilinin
 
 ## Yargıtay 6. HD 2024/1196 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1083187100)
+
 Davalı vekili cevap dilekçesinde; davacının edimini yerine getirmediğini iskanları eksik bağımsız bölüm ve blokların bulunduğunu belirterek davanın reddini istemiştir.
 
 …
@@ -173,6 +185,8 @@ Temyiz olunan 01/02/2024 tarih 2023/384 Esas ve 2024/57 Karar sayılı İlk Dere
 
 ## Yargıtay 7. HD 2023/1747 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/898719500)
+
 Davalı Asaş Alüminyum Sanayi ve Ticaret Anonim Şirketi vekili; ipoteğin kaldırılması için davacı şirket tarafından hiçbir neden öne sürülmediğini, ipotek hakkının devamının kanun gereği olduğunu, huzurdaki davanın reddine karar verilmesi gerektiğini savunmuştur.
 
 …
@@ -185,10 +199,14 @@ Bölge Adliye Mahkemesi kararının 6100 sayılı Hukuk Muhakemeleri Kanunu'nun 
 
 ## Yargıtay 1. HD 2023/1345 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/892263300)
+
 Kararın davalı tarafından istinaf edilmesi üzerine, Bölge Adliye Mahkemesince, muvazaa hukuksal nedenine dayalı olarak açılan davalarda dava değerinin, taşınmaz ya da taşınmazların belirlenen değerinin davayı açan mirasçı ya da mirasçıların, miras paylarına isabet eden değer olduğu, Kat Karşılığı İnşaat Sözleşmesi hükümleri gereğince davalıya zemin kat 2 no.lu dairenin 30/100 hissesinin tahsis edildiğinin dosya içeriği ile sabit olduğu, hükme dayanak yapılan bilirkişi raporunda taşınmazın tamamının değerinin 221.812,87-TL, davalının 30/100 hissesinin değerinin 66.543,86-TL olarak belirlendiği, davacı vekilinin dava dilekçesinde davacının miras payına isabet eden bedelin tahsilini talep ettiği, bu durumda davalıya tahsis edilen 30/100 hissenin değeri üzerinden (66.543,86-TL) davacının 1/5 miras payı karşılığının (13.308,77-TL) hüküm altına alınması gerekirken, payın tamamının değerinin tahsiline karar verilmesinin hatalı olduğu gerekçesiyle 6100 sayılı Hukuk Muhakemeleri Kanunu'nun 353/1-b/2 maddesi uyarınca davalının istinaf talebinin kısmen esastan kabulüne, İlk Derece Mahkemesi kararının kaldırılmasına, 6100 sayılı Hukuk Muhakemeleri Kanunu'nun 353/1-b/2 maddesi uyarınca
 düzelterek yeniden esas hakkında kararla; 13.308,77-TL taşınmaz bedeli ile 21.419,82-TL ecrimisil bedelinin (toplam: 34.728,59-TL) 28.03.2016 ıslah tarihinden itibaren işletilecek yasal faiziyle birlikte davalıdan alınarak davacıya verilmesine, fazlaya ilişkin talebin ( 93.398,61-TL ) reddine karar verilmiştir.
 
 ## Yargıtay 5. HD 2022/17236 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/848201700)
 
 Mahkemece yargılamanın yenilenmesi talebinin reddine karar verilmiş, hükmün davacı ... tarafından istinaf edilmesi üzerine Gaziantep Bölge Adliye Mahkemesi 4. Hukuk Dairesinin 2021/323 Esas, 2022/403 Karar sayılı ilâmı ile davacı ...'in istinaf başvurusunun esastan reddine karar verilmiştir.
 
@@ -201,6 +219,8 @@ Mahkemece yargılamanın yenilenmesi talebinin reddine karar verilmiş, hükmün
 Dosyadaki yazılar, kararın dayandığı deliller ile yasal gerektirici nedenler ve HMK'nın 355. maddesindeki kamu düzenine aykırılık halleri resen gözetilmek üzere istinaf incelemesinin, istinaf dilekçesinde belirtilen sebeplerle sınırlı olarak yapılacağı kuralına uygun biçimde inceleme yapılıp karar verilmiş ve verilen kararda bir isabetsizlik görülmemiş olmasına göre yerinde olmayan bütün temyiz itirazlarının reddi ile usul ve yasaya uygun hükmün HMK'nın 370/1. maddesi gereğince ONANMASINA …
 
 ## Yargıtay 6. HD 2022/5347 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/850550400)
 
 Davacı vekili, davalı arsa sahipleri ile dava dışı ... arasında 13.07.1995 tarihinde düzenlenen arsa payı karşılığı inşaat sözleşmesinin yüklenici tarafından 21.07.1995 tarihinde müvekkiline devredildiğini, sözleşme uyarınca müvekkilinin arsa sahiplerine düşecek olan B bloğu tamamen bitirdiğini, üyeleriyle yaşadığı sorunlar nedeniyle kendisine ait binayı tamamlayamayan müvekkilinin binayı tamamlamak istediğinde müvekkiline ait birçok bağımsız bölümün davalı şirket adına devredildiğini tespit ettiğini ileri sürerek, A blokta bulunan tüm tapuların iptali ile müvekkili adına tesciline, mümkün olmaması halinde şimdilik 1.000.000,00 TL'nin davalılardan tahsiline karar verilmesini talep ve dava etmiştir.
 
@@ -220,13 +240,19 @@ SONUÇ: Yukarıda (1) numaralı bentte açıklanan nedenlerle davacı-birleşen 
 
 ## Yargıtay 6. HD 2021/2518 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/720645400)
+
 İş bu nedenle mahkemece, eksik yatırılan 5.476,02 TL nispi temyiz harcının davalı-karşı davacı arsa sahibi tarafından önceden yatırılan harçlardan mahsup edilmiş ise, buna dair evrakların dosya arasına kazandırılması, mahsup edilmemiş ise, 6100 sayılı Hukuk Muhakemeleri Kanunu'nun geçici 3. maddesi yollamasıyla 1086 sayılı Hukuk Usulü Muhakemeleri Kanunu'nun 434/III. maddesindeki prosedüre göre davalı-karşı davacı vekiline 5.476,02 TL eksik temyiz karar harcının ikmâli için mahkeme mührü, hakimin sicil ve imzasını taşıyan usulüne uygun biçimde düzenlenmiş muhtıra çıkartılması, muhtıra gereğinin yerine getirilerek noksan harcın süresinde yatırılması halinde, dosyanın incelenmek üzere Dairemize gönderilmesi, harcın yatırılmaması durumunda ise, mahkemesince HUMK'nın 434/son maddesi uyarınca bir karar verilmesi için dosyanın mahalline geri çevrilmesi gerekmiştir.
 
 ## Yargıtay 15. HD 2020/2236 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/602306300)
+
 492 sayılı Harçlar Kanunu'nun 32. maddesi uyarınca yargı işlemlerinden alınacak harçlar ödenmedikçe müteakip işlemler yapılamayacağından, mahkemece 6100 sayılı Hukuk Muhakemeleri Kanunu'nun 366/1. maddesi yollaması ile HMK 344/1. maddesindeki prosedüre göre asıl davada davalılar-birleşen davada ve birleşen dava içerisindeki karşı davada davalı yüklenici vekili Av. ...'e, birleşen davada ve birleşen dava içerisindeki karşı davada noksan olan 218,50'şer TL toplamda 437,00 TL tutarında (2 adet) temyiz yoluna başvurma harcını tamamlaması için meşruhatlı davetiye çıkarılması, harç tamamlanır ise sayman mutemedi alındısı da eklenerek temyiz incelemesi yapılmak üzere Dairemize gönderilmesi için dosyanın mahalline GERİ ÇEVRİLMESİNE, 10.07.2020 gününde oybirliğiyle karar verildi.
 
 ## Yargıtay 20. HD 2019/1592 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/492337800)
 
 Mahkemece davalının apartmanın çatısında yapılan hizmet bedelini ödememesi üzerine hakkında ... 20.
 

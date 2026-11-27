@@ -137,6 +137,8 @@ Bu durumda, mahkemece gerekirse mahallinde yeniden keşif ve bilirkişi inceleme
 
 ## Yargıtay 6. HD 2026/288 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1207655700)
+
 Davacı vekili dava dilekçesinde; davacı yüklenici ile davalıların murisi ..... arasında 12.05.2014 tarihinde düzenleme şeklinde taşınmaz satış vaadi ve arsa payı karşılığı inşaat sözleşmesi imzalandığını, aynı tarihte şirket yetkilisine işlemler hususunda vekaletname verildiğini, sözleşme konusu taşınmazın % 40'ının kamuya bırakılacağını, kalan kısmın ise % 63'ününün davacı yükleniciye ait olacağını, noter ödemesi ile arsa sahibinin emlak vergisi borcunun davacı yüklenici tarafından ödendiğini, arsanın uygun olmadığını, 14.10.2016 tarihli revizyonu ile uygun hale geldiğini ancak arsa sahibinin ölümü üzerine mirasçıların azilname gönderdiklerini, sözleşme konusu taşınmaza imar transfer hakkının tanındığını belirterek haksız azil nedeniyle imar transfer hakkının sözleşme kapsamında % 63 kısmının davacıya verilmesine, aksi takdirde aynı miktara yönelik şimdilik 10.000,00 TL ticari kârın ve sözleşme gereği yapılan 11.421,80 TL noter masraflarının davalılardan alınarak davacıya ödenmesine karar verilmesini talep etmiştir.
 
 …
@@ -155,6 +157,8 @@ yapılmasını gerektirmediğinden, 6100 sayılı Hukuk Muhakemeleri Kanunu’nu
 
 ## Yargıtay 6. HD 2026/263 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1207556000)
+
 Dairemizin yerleşik içtihatlarına göre, arsa payı karşılığı inşaat sözleşmesi ve temliken tescil sözleşmesinde taşınmaz devri kararlaştırılması durumunda, daha sonra tapuda satış gösterilse de, taşınmazın bu amaçla devredildiği anlaşılmaktadır. Taraflar arasındaki adi yazılı sözleşmede dava konusu taşınmazın başka bir daire karşılığı devredileceği kararlaştırılmış ve davacı tarafından bu amaçla yükleniciye vekalet verilmiştir. Yükleniciye dava konusu bağımsız bölümün devrine ilişkin verilen vekaletin adi yazılı harici satış sözleşmesindeki edimin ifası amacıyla yapıldığının kabulü gerekir.
 
 Diğer yönden her ne kadar adi yazılı sözleşmede kararlaştırılan ve yükleniciye edimin ifası amacıyla yapılan devir ve ödeme bedellerinin tahsili için icra takibinde bulunulmuş ve takip kesinleşmiş ise de, tahsil yapılmadığı sürece yukarıda belirtilen tapu iptal ve tescile ilişkin hakların kullanılmasına engel değildir. Zira her ikisinde de talep sözleşmenin yerine getirilmemesi nedeniyle TBK'nın 125. maddesinde yer alan dönme hakkına dayanmaktadır. Dönme hakkının gereği olarak bunlardan birisinin yerine getirilmesi ve tahsilat sağlanması halinde her zaman dikkate alınması ve mahsup edilmesi mümkündür. Bu hususlar dikkate alınarak, davalıların iyiniyetli olmadıkları da anlaşıldığından, tapu iptal ve tescil talebi yönünden davanın kabulüne karar verilmesi gerekirken, eksik inceleme ve değerlendirme ile davanın reddine karar verilmesi doğru olmamış, kararın bozulması gerekmiştir.
@@ -164,6 +168,8 @@ Diğer yönden her ne kadar adi yazılı sözleşmede kararlaştırılan ve yük
 İlk Derece Mahkemesi kararının BOZULMASINA …
 
 ## Yargıtay 6. HD 2026/65 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1207092300)
 
 1\.
 
@@ -183,6 +189,8 @@ Birleşen dosyada ise asıl davada da sözleşmenin geriye etkili feshinin talep
 (2) ve (3) no.lu maddelerde belirtilen nedenlerle davacılar vekilinin birleşen davaya yönelik temyiz itirazlarının kabulü ile temyiz olunan Bölge Adliye Mahkemesi kararının BOZULMASINA …
 
 ## Yargıtay 4. HD 2025/9821 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1174979500)
 
 Davalı vekili cevap dilekçesinde; mahkemenin yetkili olmadığını, Ümraniye Asliye Hukuk Mahkemesinin yetkili olduğunu, zamanaşımı, görev, husumet itirazları olduğunu belirterek davanın reddini istemiştir.
 
@@ -206,6 +214,8 @@ Yukarıda (2) numaralı bentte açıklanan nedenlerle davacı vekilinin temyiz i
 
 ## Yargıtay 5. HD 2025/8771 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1171161100)
+
 İlk Derece Mahkemesince bozmaya uyularak yeniden yapılan yargılama sonucunda; davanın kabulüne karar verilmiştir.
 
 …
@@ -226,6 +236,8 @@ Davalılar ... vd. vekilinin yerinde görülmeyen tüm temyiz itirazlarının re
 
 ## Yargıtay 6. HD 2025/4413 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1200212900)
+
 Davacı yüklenici vekili asıl dava dilekçesinde özetle; taraflar arasındaki arsa payı karşılığı inşaat sözleşmesinin mahkeme kararı ile feshedildiğini, fesihte davacı yüklenicinin kusurunun bulunmadığını, yüklenicinin sözleşme feshine kadar birçok harcama yaptığını ve davalı arsa sahiplerinin bu harcamalardan sebepsiz zenginleştiğini belirterek şimdilik 100.000,00 TL’nin tahsiline karar verilmesini talep etmiş, 13.03.2024 tarihli talep artırım dilekçesi ile alacağını 145.347,98 TL’ye çıkarmıştır.
 
 …
@@ -241,6 +253,8 @@ Somut uyuşmazlıkta, taraflar arasındaki arsa payı karşılığı inşaat sö
 Karşı davaya ilişkin kararın ONANMASINA …
 
 ## Yargıtay 6. HD 2025/4361 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1199506200)
 
 Davacılar vekili dava dilekçesinde; taraflar arasında düzenlenen 30.04.2002 tarihli asıl ve 29.09.2005 tarihli ek arsa payı karşılığı inşaat sözleşmesi uyarınca müvekkiline ait 8 bağımsız bölümün en son 28.02.2008 tarihinde teslimi gerekirken teslim edilmediğini ileri sürerek, BK'nın 97. maddesine göre nama ifaya izin ve satış yetkisi verilmesini talep etmiştir.
 
@@ -262,6 +276,8 @@ Kararın karar düzeltme talep eden davalı yararına BOZULMASINA …
 
 ## Yargıtay 6. HD 2025/4344 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1199336200)
+
 İnşaatın tamamlanma oranı dikkate alındığında mahkemenin kabulünde olduğu gibi sözleşmenin geriye etkili fesih koşulları oluşmamış, ileriye etkili fesih koşulları oluşmuştur. İleriye etkili fesih halinde yüklenici gerçekleştirdiği imalât oranında arsa payı ya da bağımsız bölüm tapularına hak kazanır. Mahkemece ileriye etkili feshe karar verildiğinde tasfiyenin de yapılması gerekmektedir. Somut uyuşmazlıkta, taraflar arasındaki arsa payı karşılığı inşaat sözleşmesinde paylaşılacak bağımsız bölümler açıkça belirtilmemiş, sadece paylaşım oranı kararlaştırılmıştır. Davalı yüklenici, bir bağımsız bölüm haricindeki diğer bağımsız bölümleri tapuda üçüncü kişilere devretmiştir. Yargılama aşamasında davacı arsa sahipleri ile davalı yüklenici kendi aralarında anlaşarak ya da tek taraflı olarak bazı bağımsız bölüm numaralarını belirterek, bunların davalı üçüncü kişiler adına olan tapu kayıtlarının iptali ile davacı arsa sahiplerine adlarına tescilini talep etmiş, mahkemece bu talepler dikkate alınarak karar verilmiş ise de davalı üçüncü kişilerin hukuki durumunu etkileyecek şekilde, kötüniyetli olabilecek bu taleplerin dikkate alınarak hüküm kurulması doğru olmamıştır.
 
 …
@@ -269,6 +285,8 @@ Kararın karar düzeltme talep eden davalı yararına BOZULMASINA …
 Temyiz olunan Bölge Adliye Mahkemesi kararının BOZULMASINA …
 
 ## Yargıtay 6. HD 2025/3971 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1195406800)
 
 Davalılar vekilleri, davanın reddini istemişlerdir.
 

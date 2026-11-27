@@ -22,6 +22,8 @@ uyari: "Derleyenin seçtiği alıntılardır; kararın tamamı değildir. Künye
 
 ## Antalya BAM 16. HD 2025/91 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1122519000)
+
 Davacı vekili, müvekkilinin davalı kooperatiften ... ada ... parsel ... blok ... nolu bağımsız bölümü inşaat tamamlanıncaya kadar kendisinden bir daha ücret alınmayacak şekilde peşin ve tek ödemeli olarak satın aldığını, davalı kooperatif ile diğer davalılardan ..., ..., ..., ..., ..., ... ve ... ile davalı kooperatif arasında kat karşılığı inşaat sözleşmesi yapıldığını, davalı kooperatifin tek ödemeli olarak müvekkilinin kendisinden satın aldığı bu yeri davalı arsa malikleri ile birlikte diğer davalı ... isimli kişiye sattığını belirterek, dava konusu ... ada ... parsel ... blok ... nolu bağımsız bölümü davalılar adına kaydının iptali ile müvekkili adına tapuya tesciline karar verilmesini, bu olmadığı taktirde taşınmazın keşif yolu ile belirlenecek değerinin davalılardan tahsiline karar verilmesini talep etmiştir.
 
 …
@@ -33,6 +35,8 @@ Mahkemece yazılı gerekçeyle, asıl davada, davalı önceki malik ... ile birl
 Kural olarak, arsa malikleri ile kooperatif arasında yapılan sözleşmede (Antalya 2. Noterliği'nin 14/05/1993 gün ... yevmiye sayılı düzenleme şeklinde gayrimenkul satış vaadi ve kat karşılığı inşaat sözleşmesi) davacı ortak taraf olmadığından ve arsa maliklerince davacı ortağa karşı bağımsız bir taahhüt altına girilmediğinden, davacının arsa sahiplerine karşı doğrudan dava açması mümkün değildir. Bu nedenle davalı arsa sahiplerine açılan davanın pasif husumet yokluğu sebebiyle reddedilmesi gerekirken, yanılgılı değerlendirme ile satışın haksız olduğu gerekçesiyle davanın kabulüne karar verilmesi hatalı olmuştur. Diğer taraftan, arsa sahiplerinden olan davalı ..., yargılama sırasında vefat etmiş olup, mirasçıları davaya dahil edilmiş, mirasçılardan ...'nın süresi içerisinde mirası reddettiği mahkeme kararı ile sabit olmasına rağmen bu kişinin davada husumetinin zaten bulunmadığının gözetilmemesi yerinde değildir. Açıklanan sebeplerle davalı arsa malikleri vekillerinin istinaf başvuruları ayrı ayrı kabul edilmiştir.
 
 ## Antalya BAM 11. HD 2024/1706 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1113673100)
 
 Davalılar ... ve ... Şti.vekili, müvekkillerine husumet yöneltilmesinin hukuken mümkün olmadığını, kim tarafından temsil edilerek işbu sözleşmeye imza atıldığının belirsiz olduğunu, müvekkillerinin taraf sıfatının olmadığını, davanın reddini talep etmiştir.
 
@@ -61,6 +65,8 @@ Bu husus Yargıtay 13. Hukuk Dairesinin 27/06/2018 tarih ... E. ... K. Sayılı 
 
 ## Gaziantep BAM 17. HD 2024/987 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1078846100)
+
 Davalı taraf kendisine usulüne uygun tebligat yapılmasına rağmen yasal süresi içerisinde cevap dilekçesi sunmamıştır.
 
 …
@@ -78,6 +84,8 @@ Davalı taraf kendisine usulüne uygun tebligat yapılmasına rağmen yasal sür
 Davalı vekilinin istinaf başvurusunun kabulü ile,....... Esas ve 2021/35 Karar sayılı kararının HMK'nın 353/1-a,6. maddesi gereğince KALDIRILMASINA …
 
 ## Antalya BAM 7. HD 2024/575 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1033440200)
 
 Davalı şirket cevap dilekçesi sunmamış olup, duruşmalara katılan tasfiye memuru ..., inşaat işleriyle ilgilenen ortağın ... olduğunu, yapılan inşaatla ilgili bilgi sahibi olmadığını, arsa sahibinin satılan bağımsız bölümlerde tapu vermeyle ilgili problem yarattığını bildiğini beyan etmiştir.
 
@@ -97,10 +105,14 @@ Yerel mahkeme kararının esası incelenmeksizin ORTADAN KALDIRILMASINA ve davan
 
 ## Ankara BAM 27. HD 2024/410 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1031987600)
+
 İlk Derece Mahkemesince; "Taraf sıfatı, bir başka deyişle husumet ehliyeti, dava konusu hak ile kişiler arasındaki ilişkiyi ifade eder. Sıfat, bir maddi hukuk ilişkisinde tarafların o hak ile ilişkisinin olup olmadığının belirlenmesi anlamına gelir. Davacı sıfatı, dava konusu hakkın sahibini, davalı sıfatı ise dava konusu hakkın yükümlüsünü belirler. Uygulamada davacı sıfatı, aktif husumeti, davalı sıfatı ise pasif husumeti karşılayacak şekilde değerlendirilmektedir. Dava konusu şey üzerinde kim ya da kimler hak sahibi ise, davayı bu kişi veya kişilerin açması ve kime karşı hukuki koruma isteniyor ise o kişi veya kişilere davanın yöneltilmesi gerekir. Bir kimsenin davacı veya davalı sıfatına sahip olup olmadığı tıpkı hakkın mevcut olup olmadığının tayininde olduğu gibi maddi hukuka göre belirlenir. Taraf sıfatının bu anlamda önemli özelliği ise, def'i değil itiraz niteliğinde olması nedeniyle taraflarca süreye ve davanın aşamasına bakılmaksızın her zaman ileri sürülebileceği ve taraflar ileri sürmemiş olsalar bile mahkemece re'sen nazara alınmasıdır.
 14.01.2011 tarihli Düzenleme Şeklinde Gayrimenkul Satış Vaadi ile Villa Karşılığı İnşaat Sözleşmesinin dava dışı Yüklenici SS Ihlamurkent Havuzlu Villalar KYK ile davalı arasında akdedildiği, 01.03.2011 tarihli İnşaat Yapım Sözleşmesinin davacı ile dava dışı Yüklenici SS Ihlamurkent Havuzlu Villalar KYK ile akdedildiği anlaşılmaktadır. Dosya kapsamına alınan mutabakat tutanağının taraflar ve dava dışı kooperatif tarafından imzalandığı, mutabakat konusunun sözleşmenin 7. Maddesi kapsamında (madde 7: yüklenici kooperatif, sözlşemenin imza tarihinden itibaren 45 gün içinde taahhüdü altındaki işi, yeri ile İş kanunu, Çalışma Bakanlığı ile Sosyal Sigortalar Kurumunun ilgili bölge müdürlüklerine bildirmek mecburiyetindedir. Yüklenici kooperatif, işveren kooperatifin SSK'dan aldığı ... İşyeri numarasına çalıştıracağı işçileri bildirmek zorundadır) iş yeri ihbar işlemlerinin düzenlenmesine ilişkin olduğu, dolayısıyla davacı ile davalı arasında dava konusu talepler kapsamında akdedilen bir sözleşme bulunmadığı anlaşılmaktadır.
 
 ## İstanbul BAM 15. HD 2023/1451 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/988321100)
 
 GEREĞİ GÖRÜŞÜLÜP DÜŞÜNÜLDÜ: Dava; eser sözleşmesinden kaynaklanan maddi ve manevi tazminat talebine ilişkin olup, mahkemece davanın davalı şirket yönünden reddine, diğer davalılar yönünden ise pasif husumet yokluğundan reddine dair verilen karara karşı davacı yanca istinaf talebinde bulunulmuştur.
 Davacı vekili, davalı şirket ile aralarında 06/12/2013 tarihli müşavirlik sözleşmesi yapıldığını, bu sözleşmeye göre davacının Bakanlar Kurulunun 24/12/2012 tarihli kararnamesi ile riskli alan olarak ilan edilen Gaziosmanpaşa ilçesinde bulunan ve sözleşmenin eki listede yer alan ada/parsel nosu belirtilen taşınmazlara yönelik kentsel dönüşümü esas alan gayrimenkullere ilişkin hak sahipleri ile gayrimenkul satış vaadi ve kat karşılığı inşaat sözleşmesi imzalayacağını ve sözleşmeleri müşavirlik hizmet sözleşmesi içeriğindeki maddelere göre davalıya yüklenici olarak devredileceğinin kararlaştırıldığını, ancak sözleşmenin ihlal edildiğini, davalının kusurlu davranışları sebebi ile sözleşmenin ifasının ve işbirliğinin imkansız hale geldiğini, davalı gerçek kişilerin sorumluluklarından dolayı tüzel kişilik perdesinin kaldırılarak sorumluluklarının tespiti gerektiğini, sözleşme kapsamında yapılan masrafların ve zararların tespiti ile bu sözleşme nedeni ile kaçırılan başka sözleşme fırsatları nedeni ile uğradıkları kar mahrumiyetleri ve çalışamadıkları süreler boyunca uğranılan maddi manevi zararlarına ilişkin üçüncü kişilere ödenen tazminat ve cezalar dahil olmak üzere fazlaya ilişkin
@@ -111,6 +123,8 @@ hakları saklı kalmak kaydı ile şimdilik 50.000,00 TL maddi tazminatın sözl
 edimlerini yapmama hakkı bulunmasına rağmen edimlerini yerine getirdiklerini, ancak Kadıköy ... Noterliğinin 17/06/2016 tarihli ve ... yevmiye nolu ihtarnamesi ile hiçbir haklı gerekçe göstermeksizin ve yapılan ödemeleri iade etmeden, maddi ve manevi zararlarını tazmin etmeden sözleşmenin 5.2.10 maddesine rağmen müşavirlik sözleşmesini tek taraflı olarak feshettiğini, fesih ihtarına karşı olarak Bakırköy ... Noterliğinin 24/06/2016 tarih ... yevmiye nolu ihtarnamesi ile fesih ihtarının sözleşmeye, hukuka ve gerçeklere aykırı olduğunu bildirdiklerini, sözleşmeye aykırı fesih bildiriminin 3 gün içerisinde geri alınmasının feshin geçersizliğinin müvekkili şirkete bildirilmesinin, aksi takdirde feshin haksız olacağının bildirilmesine karşın davacının herhangi bir bildirimde bulunmadığını, davacı ... şirketinin müşavirlik sözleşmesine tümüyle aykırı davrandığını, 5.1.16 maddesine göre 1 yıllık süre içerisinde sözleşmedeki edimlerini yerine getirmediğini, sözleşmeye istinaden ödenen 2.770.000 USD nin iadesi için İstanbul 14. Asliye Ticaret Mahkemesinin 2016/1137 Esas sayılı dosyası ile dava açıldığını belirterek, davanın reddine karar verilmesini talep etmiştir. Diğer davalılar vekili …
 
 ## İzmir BAM 14. HD 2023/1225 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/929997500)
 
 Davacı yüklenici şirket "... İli, ... İlçesi, ...
 
@@ -125,6 +139,8 @@ esasını çözümler şekilde ihtiyati tedbir kararı verilemeyeceğinden bahis
 İzmir 1. Asliye Ticaret Mahkemesi'nin 14.09.2022 tarih ve 2022/650 Esas, 2022/691 Karar sayılı kararının 6100 Sayılı HMK'nın 353/(1)-a-4. ve 6. maddeleri gereğince KALDIRILMASINA …
 
 ## Antalya BAM 7. HD 2023/752 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/915307700)
 
 Davacı vekili açtığı dava ile, davacı şirketin dava dışı arsa sahipleriyle kat karşılığı inşaat sözleşmesi yaptığını, sözleşmeye göre ...
 
@@ -144,6 +160,8 @@ Yerel mahkeme kararının esası incelenmeksizin ORTADAN KALDIRILMASINA ve davan
 
 ## Ankara BAM 27. HD 2023/589 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/906852200)
+
 Davacı vekili; müvekkili ile davalılar arasında ... parsel sayılı taşınmaz (imardan önce ... ada) üzerine bina inşa edilmek üzere Yenimahalle 3. Noterliği’nin 17/08/1994 tarih ve 37974 yevmiye nolu, aynı noterliğin 23/08/1994 tarih ve 38984 yevmiye nolu kat karşılığı inşaat sözleşmeleri akdedildiğini ve sözleşmelerin tapuya şerh edildiğini, davalılardan ...… Ltd. Şti’nin müvekkili ile kat karşılığı inşaat sözleşmesi yapan arsa sahiplerinden daha sonra hisse satın alan şirket olup, satın alma nedeni ile sözleşmelere halef olduğunu, inşaatın bitme aşamasına gelmesine rağmen davalıların sözleşme gereğince vermeleri gereken tapu ferağlarını vermemeleri nedeniyle diğer arsa sahipleri aleyhine Ankara 7.
 
 …
@@ -160,6 +178,8 @@ Asliye Ticaret Mahkemesi'ndeki 2006/228 Esas sayılı dosyası ile yetki talebin
 yönünden aktif husumet yokluğundan reddine, bunlar dışında kalan davacılar yönünden ise kira tazminatı talebinin reddine, eksik ve ayıplı iş nedeniyle 23.073,00 TL bedelin kabulüne, yine 822,12 m² ticaret alanının arsa sahiplerine verilmesi gerektiğinin tespitine, birleşen Ankara 4. Asliye Ticaret Mahkemesi'nin 2008/526 ve Ankara 3. Asliye Ticaret Mahkemesi'nin 2008/699 esas sayılı davaların ise reddine karar verilmiş, karara karşı yukarıda belirtildiği üzere yüklenici kooperatif vekili, bir kısım arsa sahipleri vekili ile davalı ... ve davalı ... vekilince istinaf başvurusunda bulunulmuştur.
 
 ## Ankara BAM 27. HD 2022/255 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/740590500)
 
 Davacı vekili; müvekkilinin ... ilçesi 47624 ... 11 ... sayılı taşınmazdaki binaya ... cephe, cam giydirme ve dükkan doğramaları imalatı ve işçiliğini yaptığını, bu işlerin yapımı ve bedelinin ödenmesi için davalı ... ... Ltd.
 
@@ -180,6 +200,8 @@ Davalı ... ... .... davaya süresinde cevap vermemiş, duruşmalara katılmamı
 Davacı vekilinin istinaf başvurusunun HMK'nun 353/1-b.1 maddesi gereğince ESASTAN REDDİNE …
 
 ## İstanbul BAM 45. HD 2021/999 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/696786000)
 
 İLK DERECE MAHKEMESİ KARARI Mahkemece ''... davacılar tarafından davalı ... dışındaki davalılar aleyhine açmış olduğu davanın, iş bu davalılar ile davacılar arasında herhangi bir akdi ilişki bulunmadığı, söz konusu davalılar tarafından davacılara yönelik herhangi bir taahhüdün söz konusu olmadığı, bu nedenlerle bu davalılar yönünden açılan davanın pasif husumet nedeniyle reddine; davacılar tarafından ortağı bulundukları ... ile ortaklık ilişkilerinin halen devam ettiği, ortağı oldukları kooperatifin hak kazandığı herhangi bir taşınmaz bulunmadığı, davacılar dışındaki diğer ortaklara tahsis ve tescil edilen herhangi bir bağımsız bölüm olmadığı, bu bağlamda davacıların üyesi bulundukları ...'dan adlarına bağımsız bölüm tahsis veya tescili; olmadığı taktirde taşınmazların bedelini talep edemeyecekleri, bu kapsamda kooperatif üyeleri arasında eşit işlem kuralına aykırı bir durumun da söz konusu olmadığı dikkate alınarak davalı ... aleyhine açılan davanın da sübuta ermediğinden reddine'' dair karar verilmiştir.
 

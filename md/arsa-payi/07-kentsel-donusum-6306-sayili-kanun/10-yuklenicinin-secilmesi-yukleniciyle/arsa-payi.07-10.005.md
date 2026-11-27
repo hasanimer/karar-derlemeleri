@@ -22,6 +22,8 @@ uyari: "Derleyenin seçtiği alıntılardır; kararın tamamı değildir. Künye
 
 ## Yargıtay 15. HD 2018/2926 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/432802100)
+
 Davacı vekili müvekkili ile davalılar arasında mülkiyeti davalılara ait ... ili ... ilçesi 12127 ada 10 parseldeki arsaya 9 bloktan oluşan konut inşaatı yapılmak üzere ... Noterliği'nin 01.07.2008 tarih ve 14849 yevmiye nolu düzenleme şeklinde Gayrimenkul Satış Vaadi ve Kat Karşılığı İnşaat Sözleşmesi yapıldığını, sözleşmenin 8. maddesi uyarınca müvekkiline verilen vekaletnamenin azil nedeniyle kullanılamadığından, bitme seviyesine getirilen inşaatın yapı kullanma izin belgesinin alınamadığını,bu sebeple; ... Belediyesi tarafından istenen; tadilat projesinin onaylanması, ilave yapı ruhsatı verilmesi gibi işlemleri arsa sahipleri adına yapmak üzere müvekkiline izin ve yetki verilmesini istemiştir.
 
 Davalılar vekili cevap dilekçesinde, inşaatın projeye ve sözleşmeye uygun yapılmadığından yıkım kararı bulunduğunu, tadilat projesiyle eksiklerin tamamlanmasının mümkün olmadığını, verilen sürede teslim edilmediğini, temerrüde düşen yüklenicinin nama ifa isteyemeyeceğini ileri sürerek davanın reddini savunmuştur.
@@ -37,6 +39,8 @@ SONUÇ: Yukarıda açıklanan nedenlerle kararın davacı yararına BOZULMASINA 
 
 ## Yargıtay 15. HD 2018/2368 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/428228000)
+
 Dava kat karşılığı inşaat sözleşmesine aykırılık nedeniyle arsa sahibi tarafından açılan tapu iptâl tescil istemine ilişkindir.
 
 …
@@ -50,6 +54,8 @@ Yukarıda yapılan açıklama ve sözü edilen kurallarla birlikte somut olay de
 SONUÇ: Yukarıda yazılı nedenlerle davalılar vekilinin temyiz itirazlarının kabulü ile hükmün temyiz eden davalılar yararına BOZULMASINA …
 
 ## Yargıtay 14. HD 2017/8114 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/384115700)
 
 Dava, yüklenicinin temliki işlemi nedenine dayalı tapu iptali ve tescil istemine ilişkindir.
 
@@ -69,9 +75,13 @@ SONUÇ: Yukarıda açıklanan nedenlerle temyiz olunan kararın BOZULMASINA …
 
 ## Yargıtay 20. HD 2017/5264 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/351390600)
+
 Tüm dosya kapsamı değerlendirildiğinde, davacının 6502 sayılı Kanunda belirtilen “Tüketici” tanımına girmediği, arsasını değerlendirme amacının olduğu ve davacı arsa sahibi ile yükleniciden daire satın alan davalılar arasında sözleşme olmadığı anlaşılmakla, Tüketicinin Korunması Hakkında Kanun kapsamında bulunmayan uyuşmazlığın HMK'nın 2. maddesi uyarınca genel hükümlere göre ... 25. Asliye Hukuk Mahkemesinde görülüp sonuçlandırılması gerekmektedir.
 
 ## Yargıtay 14. HD 2017/3051 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/361465700)
 
 Dava, yükleniciden temlik alınan bağımsız bölüme ilişkin tapu iptali ve tescil mümkün olmaması halinde tazminat istemine ilişkindir.
 
@@ -89,6 +99,8 @@ SONUÇ: Yukarıda açıklanan nedenlerle davacının temyiz talebinin kabulü il
 
 ## Yargıtay 15. HD 2017/479 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/317887200)
+
 Mahkemece dava sıfat yokluğundan bir başka deyişle akdî ilişkinin kurulduğunun ispatlanamaması nedeniyle reddine karar verilmiştir. Herşeyden önce taraf sıfatı kavramının açıklanması gerekir.
 
 …
@@ -96,6 +108,8 @@ Mahkemece dava sıfat yokluğundan bir başka deyişle akdî ilişkinin kuruldu�
 Davalı yüklenici şirket temsilcisi olduğu dosya kapsamından anlaşılan ...'ın adlî bir olay nedeniyle yürütülen soruşturma sırasında ...Polis Merkezi'nde verdiği 12.02.2014 tarihli ifadesinde “...2013 yılı Mayıs ayları sonuna doğru ... isimli şahsa yaptıkları inşaatın asansör işlerini verdik. Bu şahısla anlaşmamız daire karşılığı idi yani bedel olarak daire verilecektik. Asansör işinin tahmini %60’ını bitirdiler...” demiştir. Bu beyan ikrar niteliğinde midir? Değil midir? Bu konunun tartışılması gerekmektedir. Mahkemece bu beyan ikrar niteliğinde sayılmamış ve akdî ilişkinin kurulduğu ispat edilemediği kabul edilerek dava reddedilmiştir.
 
 ## Yargıtay 20. HD 2016/12509 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/282551600)
 
 Dava, taraflar arasında düzenlenen yapı denetimi hizmet sözleşmesi uyarınca ödenecek olan hakedişlerin davalılar tarafından ödenmediği iddiasıyla başlatılan icra takibine vaki itirazın iptali istemine ilişkindir.
 
@@ -105,6 +119,8 @@ Dosya kapsamından, arsa sahibi olan davalılar ile dava dışı müteahhit aras
 
 ## Yargıtay 20. HD 2016/11063 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/284108700)
+
 Dava, taraflar arasında yapılan sözleşmenin davacının mağduriyetine yolaçması nedeniyle mahkemece uyarlanması istemine ilişkindir.
 
 …
@@ -112,6 +128,8 @@ Dava, taraflar arasında yapılan sözleşmenin davacının mağduriyetine yola�
 Davacı ve davalının 6502 sayılı Kanun kapsamındaki tüketici tanımına uymadığı, taraflar arasında tüketici işlemi bulunmayıp, genel hükümler uyarınca çözümlenecek arsa sahibi ile yüklenici arasında eser sözleşmesinden kaynaklanan dava niteliğinde olduğu anlaşıldığından, uyuşmazlığın asliye hukuk mahkemesinde çözümlenmesi gerekmektedir.
 
 ## Yargıtay 14. HD 2016/7497 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/272200000)
 
 Davacı, davalı yüklenici ile davalı arsa malikleri arasında ... tarihinde düzenlenen kat karşılığı inşaat sözleşmesi uyarınca yükleniciye bırakılan ...bölümü davalı yükleniciden 10/10/2005 tarihli harici satış sözleşmesi ile temlik aldığını ileri sürerek, taşınmazın adına tescilini istemiştir.
 
@@ -131,6 +149,8 @@ SONUÇ:Yukarıda açıklanan nedenlerle davalılar vekillerinin temyiz itirazlar
 
 ## Yargıtay 23. HD 2016/4633 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/279382700)
+
 Mahkemece, iddia, savunma, benimsenen bilirkişi raporu ve dosya kapsamına göre; 31.12.2012 tarihli teslim tutanağında arsa sahibinin “İnşaatı anlaşma şartlarına göre ve süresinde eksiksiz olarak teslim aldım.” şeklinde imzalı beyanının bulunduğu, inşaatın sözleşmeye ve projesine uygun yapıldığı, yapı kullanma izin belgesinin alındığı, böylelikle sözleşmeden kaynaklanan edimlerini yerine getiren yüklenicinin kendisine verilmesi gereken bağımsız bölümlerin tapularına hak kazandığı gerekçesiyle, asıl davanın reddine, karşı davanın kabulü ile dava konusu bağımsız bölümlerin davacı yüklenici adına tesciline karar verilmiştir.
 
 …
@@ -146,6 +166,8 @@ SONUÇ: Yukarıda (1) numaralı bentte açıklanan nedenlerle, asıl davada dava
 
 ## Yargıtay 1. HD 2016/4107 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/228442800)
+
 Dava, bağımsız bölüme elatmanın önlenmesi ve ecrimisil isteklerine ilişkindir.
 
 Davacılar, kayden maliki oldukları 7 nolu bağımsız bölümü davalının haksız olarak kullandığını ileri sürerek elatmanın önlenmesi ve ecrimisile karar verilmesini istemişlerdir.
@@ -160,6 +182,8 @@ Somut olaya gelince; davacı yan ile dava dışı yüklenici arasında kat karş
 
 ## Yargıtay 20. HD 2016/3662 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/231938000)
+
 Dava, menfi tespit istemine ilişkindir.
 
 …
@@ -167,6 +191,8 @@ Dava, menfi tespit istemine ilişkindir.
 Buna göre davacının 4077 sayılı Kanunda belirtilen “Tüketici” tanımına girdiği, davalı yüklenici şirketin ise “satıcı” konumunda olduğu ve uyuşmazlığın bir tüketici işlemi olan taşınmaz satış sözleşmesinden kaynaklandığı anlaşılmakla, 4077 sayılı Kanun kapsamındaki uyuşmazlığın tüketici mahkemesinde görülüp sonuçlandırılması gerekmektedir.
 
 ## Yargıtay 23. HD 2016/3541 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/237683000)
 
 Davacı yüklenici vekili, arsa sahipleriyle düzenlenin arsa payı karşılığı inşaat sözleşmesi gereğince müvekkilinin edimlerini yerine getirmesine rağmen müvekkiline verilmesi gereken....parseldeki dairelerin devrinin yapılmadığını ileri sürerek, davacıya devri gereken 3 no'lu dairenin 1/2'si ve 1 no'lu dairenin tamamının davacı adına tapuda devir ve tesciline, bunun mümkün olmaması halinde uğranılan zararın bedel olarak tahsiline karar verilmesini talep ve dava etmiş, ıslah dilekçesinde ise ... mirasçıları adına kayıtlı olan 2 no'lu dairenin 1/2'sinin davacı adına tesciline, dahili davalı ...'a satışı yapılan 3 no'lu daire yönünden ise 123.500,00 TL'nin davalılardan tahsiline karar verilmesini istemiştir.
 
@@ -184,6 +210,8 @@ SONUÇ : Yukarıda (1) numaralı bentte açıklanan nedenlerle davacı vekilinin
 
 ## Yargıtay 23. HD 2016/1298 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/246280400)
+
 Davacı yüklenici vekili, taraflar arasındaki arsa payı karşılığı inşaat sözleşmesi gereği zemin kat 2 no'lu dükkan ile 2. kat 5 ve 6 no'lu dairelerin anahtar teslimi olarak davalılara verilmesinin kararlaştırıldığını, 6 no'lu daire ve aradaki farkın ödenmesi karşılığında üst kattaki dubleks dairelerden birinin davalılara verildiğini, davalıların asansör bedelinden kendilerine düşen ödemeyi de yapmadığını, dubleks dairenin malzeme ve işçiliğinin müvekkilince karşılandığını, tüm bağımsız bölümlerin zamanında teslim edildiğini ileri sürerek, asansör yapım bedeli olarak 4.000,00 TL ve iki daire arasındaki fark bedeli olarak 6.000,00 TL olmak üzere toplam 10.000,00 TL'nin tahsilini istemiş, ıslah dilekçesiyle de dava değerini 28.474,00 TL artırarak 38.474,00 TL'ye çıkarmıştır.
 
 …
@@ -200,6 +228,8 @@ Hesaplatılacak bu değer farkının yüklenicinin oluşan bu artı değerden an
 SONUÇ : Yukarıda (1) numaralı bentte açıklanan nedenlerle davalı ve karşı davacıların diğer temyiz itirazlarının reddine, (2) numaralı bent uyarınca hükmün kabulü ile, hükmün temyiz eden davalı ve karşı davada davacılar yararına BOZULMASINA …
 
 ## Yargıtay 23. HD 2016/368 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/236690200)
 
 Davacı vekili, müvekkili arsa sahibi ile davalı yüklenici arasında 27.03.2008 tarihli arsa payı karşılığı inşaat sözleşmesi bulunduğunu, bu sözleşme uyarınca müvekkiline isabet eden dairelerin dava dışı ...'e satıldığını, bu kişinin açtığı dava sonunda gizli ayıplı imalat nedenine dayalı olarak 15.300,00 TL ödemek durumunda kaldıklarını ileri sürerek, anılan meblağın rucüen tahsiline karar verilmesini talep ve dava etmiştir.
 
@@ -219,6 +249,8 @@ SONUÇ: Yukarıda açıklanan nedenlerle, davalı vekilinin temyiz itirazların�
 
 ## Yargıtay 4. HD 2015/6303 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/157174700)
+
 Dava, haksız haciz nedeniyle maddi ve manevi tazminat istemine istemine ilişkindir.
 
 …
@@ -232,6 +264,8 @@ Dosya kapsamından, davacı tarafından, dava dışı yüklenici aleyhine, Asliy
 SONUÇ: Yukarıda gösterilen nedenlerle; HUMK’un 440-442 maddeleri gereğince karar düzeltme isteminin kabulüne, Dairemizin 03/12/2014 gün 2013/17995 esas, 2014/16517 karar sayılı bozma kararının kaldırılmasına …
 
 ## Yargıtay 23. HD 2015/4693 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/202383700)
 
 Mahkemece, tüm dosya kapsamı ve bilirkişi raporuna göre, asıl dava yönünden, yüklenicinin inşaatı tamamlayıp oturulabilir hale getirmesine rağmen iskan ruhsatının alınamadığı, davalı arsa sahiplerinin de daireleri teslim alarak iskan ruhsatı alınmadan dairelerine oturmaya başladıkları, sözleşmenin 2. ve 5/b maddesine göre, davacının 1, 2, 4, 8 ve 9 no'lu dairelerin tapu kaydının iptali ile kendi adına tescilini talepte haklı olduğunun 2 ve 3. raporlarda teyit edildiği, sözleşmenin 5/b maddesi gereğince iskan ruhsatı alınmadığından 10 no'lu işyerinin tapu kaydının iptali talebinde haksız olduğu, karşı dava yönünden ise, TBK'nın 179/2. maddesi uyarınca inşaatın teslimi anında cezai şart isteme hakkını saklı tutmadığı, yüklenicinin taşınmazı 06.06.1994 gününden önce süresinde teslim ettiği, arsa sahiplerinin itirazının bulunmayıp sadece iskan alınmadığı yönündeki itirazları bulunduğu ve fiilen oturmakta oldukları gerekçeleriyle, asıl davada dava konusu 1, 2, 4, 8.
 

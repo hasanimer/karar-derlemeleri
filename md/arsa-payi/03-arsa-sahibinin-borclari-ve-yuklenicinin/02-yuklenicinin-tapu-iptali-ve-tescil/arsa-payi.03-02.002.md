@@ -22,6 +22,8 @@ uyari: "Derleyenin seçtiği alıntılardır; kararın tamamı değildir. Künye
 
 ## Yargıtay 6. HD 2025/2650 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1202156600)
+
 Davalı ...
 
 …
@@ -36,6 +38,8 @@ Somut olayda, mahkemece, davalı ...ve Turizm San. Ltd. Şti. hakkındaki tapu i
 3\. bentte açıklanan nedenlerle, davalı ...ve Turizm San. Ltd. Şti. vekili ve davalı ... Bankası vekilinin temyiz itirazlarının kabulü ile kararın bu davalılar yararına BOZULMASINA …
 
 ## Yargıtay 6. HD 2025/2575 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1187688100)
 
 Davacı arsa sahibi vekili dava dilekçesinde özetle; müvekkili ile davalı ... ve dava dışı yüklenici ... arasında Ankara ili, .... ilçesi, ... Mahallesi, 264 30... no.lu imar parselinde yer alan taşınmaz için ...
 
@@ -55,6 +59,8 @@ Ancak yargılama aşamasında alınan bilirkişi raporuna göre sözleşme uyar�
 
 ## Yargıtay 7. HD 2025/2444 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1168458000)
+
 Davacı vekili dava dilekçesinde; müvekkilinin davalı Şirketle yaptığı 30.05.2017 tarihli harici sözleşme sonrasında davalı ... Yapım İnş. ve Tic. Ltd.
 
 …
@@ -70,6 +76,8 @@ Davalı vekili cevap dilekçesinde; müvekkilinin 2016 yılında eşi ile birlik
 İlk Derece Mahkemesi kararının BOZULMASINA …
 
 ## Yargıtay 6. HD 2025/2345 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1186874700)
 
 Davacılar vekili dava dilekçesinde; davaya konu Eskişehir ili,... ilçesi, .... Mahallesi, 146 26... ve 12 no'lu parsellerin tevhit sonrası 27 no'lu parsel olduğunu, taşınmaz üzerine inşaat yapılacağı ve Sözleşmenin 5. maddesine göre inşaat süresinin ruhsat alındıktan sonra 18 ay olarak belirlendiğini, süre sonunda inşaata hiç başlanmamış olması sebebi ile yükleniciye Eskişehir 7.
 
@@ -89,6 +97,8 @@ Anılan İçtihadı Birleştirme ve Dairemizin yeni içtihatları doğrultusunda
 
 ## Yargıtay 6. HD 2025/1973 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1160036800)
+
 Davacı vekili dava dilekçesinde; müvekkilinin Samsun İli, .... İlçesi, .... Mah., ... ada, ... parsel kat:1 7 numaralı taşınmaz ve 30.000,00 TL para karşılığı, davalı yüklenici ...'den dava konusu Samsun İli, ....
 
 …
@@ -104,6 +114,8 @@ Yargıtay Büyük Genel Kurulu'nun 30.09.1988 tarihli ve 1987/2 E., 1988/2 K. sa
 İlk Derece Mahkemesi kararının BOZULMASINA …
 
 ## Yargıtay 6. HD 2025/1750 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1168210200)
 
 İlk Derece Mahkemesince bozmaya uyularak verilen kararı asli müdahil ... vekilince duruşmalı, davalı vekili ile asli müdahil ... vekilince duruşmasız olarak temyiz edilmekle; kesinlik, süre, temyiz şartı ve diğer usul eksiklikleri yönünden yapılan ön inceleme sonucunda, 29.04.2025 tarihinde duruşma yapılmasına ve duruşma gününün taraflara davetiye ile bildirilmesine karar verilmiştir.
 
@@ -127,6 +139,8 @@ Somut olayda, tapu iptali ile tescili istenilen bağımsız bölümlerin yer ald
 
 ## Yargıtay 6. HD 2025/287 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1121428200)
+
 Davacı vekili dava dilekçesinde özetle; davalıya ait olan arsa üzerine inşaat yapılması için davalı ile dava dışı ... İnş. Enerji Elek.
 
 …
@@ -143,6 +157,8 @@ Temyiz olunan Bölge Adliye Mahkemesi kararının BOZULMASINA …
 
 ## Yargıtay 6. HD 2025/236 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1131512900)
+
 İlk Derece Mahkemesince, yüklenicilerin sözleşme gereğince edimlerini süresinde yerine getirmediği, noterde düzenleme şeklinde yapılmış fesihname ile yüklenici ve arsa maliklerinin kat karşılığı inşaat sözleşmesini fesih ve ibra ettikleri, davalı yüklenicilerin kendi edimini yerine getirmeden davalı arsa maliklerinden edimlerini yerine getirmesini talep edemeyeceğinden onun yerine geçerek alacaklısı sıfatıyla davacının da tescil isteme hakkının bulunmadığı, tescil hakkı bulunmadığından tescili talep edilen taşınmazların bedelinin tahsilini de talep edemeyeceği, her ne kadar davacı taraf fesih ve ibrayı konu edinen sözleşmenin muvazaalı olduğunu iddia etmişse de, terditli talebini açıkça tescili talep edilen taşınmazların bedeline hasrettiği, yüklenici tarafından sarfedilen malzemenin değerine ve bu malzeme ve emek sebebiyle oluşan alacağına yani kar kaybına ve menfi zarara dayandırmadığı, bu durumda muvazaanın varlığı kabul edilse bile sonuca etkili olmayacağı gerekçesiyle davanın reddine karar verilmiştir.
 
 …
@@ -154,6 +170,8 @@ Temyiz olunan Bölge Adliye Mahkemesi kararının BOZULMASINA …
 2-) ( 3.2.) bentte açıklanan nedenlerle, temyiz olunan, İlk Derece Mahkemesi kararına karşı istinaf başvurusunun esastan reddine ilişkin Bölge Adliye Mahkemesi kararının ORTADAN KALDIRILMASINA …
 
 ## Yargıtay 6. HD 2024/4370 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1115124200)
 
 Davacı asıl davada, arsa sahiplerini davalı göstererek dava dışı yükleniciden 26 numaralı daireyi 22.09.2006 tarihinde 110.000,00 TL bedelle satın almak üzere dava dışı yüklenici ile anlaşmaya varıldığını, 2009 yılı itibariyle binada ikamet edilmeye başlandığını, dairenin teslim edildiğini, davalı ile dava dışı yüklenici arasındaki sözleşme hükümleri gereğince, inşaat iskân seviyesine geldiğinde davalının uhdesinde "sadece iki daireyi" tutabileceğinin kararlaştırılmış olmasına rağmen 26 numaralı daire dahil altı adet dairenin haksız şekilde arsa sahiplerince ellerinde tutulduğunu belirterek 26 numaralı dairenin tapu kaydının iptali ile davacı adına tesciline, birleşen davada ise taraf teşkili sağlanmak üzere yüklenici davalı olarak gösterilip asıl dava dilekçesindeki iddialar ileri sürülerek tapu iptal tescil, mümkün olmaması halinde ödenen bedelin iadesine karar verilmesini talep etmiştir.
 
@@ -173,6 +191,8 @@ SONUÇ: Yukarıda açıklanan nedenlerle asıl ve birleşen dosya davacısının
 
 ## Yargıtay 7. HD 2024/3143 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1053752900)
+
 Davacı vekili; müvekkillerinin murisinin paydaşı olduğu dükkanın davalı tarafından işgal edildiğini belirterek elatmanın önlenmesi ve ecrimisil talep etmiştir.
 
 …
@@ -190,6 +210,8 @@ Temyiz olunan Bölge Adliye Mahkemesi kararının 6100 sayılı Kanun'un 370 inc
 
 ## Yargıtay 6. HD 2024/2672 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1094176100)
+
 İlk Derece Mahkemesince, yükleniciden temlik alınan şahsi hakka dayalı tapu iptali ve tescil istemli davada davacının davalı arsa maliki ve davalı ... ile sözleşme ilişkisinin bulunmadığı, ödediği bedeli akidi olan davalı yüklenici ...’dan talep edebileceği gerekçesiyle davanın kısmen kabulüne, tapu iptali ve tescil isteminin reddine, davalılar ... ve ... yönünden husumet yokluğu nedeniyle davanın reddine, 150.000,00 TL'nin dava tarihinden itibaren işleyecek yasal faizi ile birlikte davalı ...'dan alınarak davacıya verilmesine karar verilmiştir.
 
 …
@@ -205,6 +227,8 @@ Yukarıda 5.2. bentte açıklanan nedenlerle davalı ... vekilinin temyiz itiraz
 
 ## Yargıtay 6. HD 2024/2624 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1085925000)
+
 Davalı arsa sahibi vekili, yüklenicinin sözleşmeden doğan edimini tam olarak ifa etmediğini, iskan ruhsatının kendileri tarafından alındığını, dava konusu bağımsız bölümün dava dışı...’ya devri konusunda yüklenici ile anlaştıklarını, davanın reddine karar verilmesi gerektiğini belirtmiş, diğer davalı yükleniciler davaya herhangi bir cevap vermemişlerdir.
 
 İlk derece mahkemesince tescil talebinin reddine, davalı arsa sahibi yönünden alacak talebinin reddine, diğer davalı yüklenicilere ilişkin alacak talebi yönünden davanın kısmen kabulüne karar verilmiştir.
@@ -216,6 +240,8 @@ Yükleniciden bağımsız bölüm tapu kaydı temlik alan kişiler tapu iptal ve
 SONUÇ: Yukarıda açıklanan nedenlerle Didim (Yenihisar) 2. Asliye Hukuk Mahkemesi'nce verilen karar usul ve yasaya aykırı olduğundan davalı vekilinin temyiz sebeplerinin kabulü ile hükmün davalı lehine BOZULMASINA …
 
 ## Yargıtay 6. HD 2024/2365 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1085289000)
 
 Davacı vekili dava dilekçesinde özetle; davacı kurumun prim alacakları nedeniyle borçlu Yüksekoba İnş. San. ve Tic. Ltd.
 

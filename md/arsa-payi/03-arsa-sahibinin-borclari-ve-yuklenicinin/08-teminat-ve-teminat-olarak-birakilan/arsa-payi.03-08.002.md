@@ -22,6 +22,8 @@ uyari: "Derleyenin seçtiği alıntılardır; kararın tamamı değildir. Künye
 
 ## Yargıtay 15. HD 2012/8160 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/517300400)
+
 Yanlar arasındaki uyuşmazlık genel olarak yüklenicinin eksik ve kusurlu bıraktığı işler ile ödemediği vergi ve prim borçlarına karşılık ne miktar dairenin belediye uhdesinde teminat olarak tutulması gerektiği konusunda toplanmaktadır.
 
 Hükmüne uyulan bozma ilâmında yüklenicinin eksik ve ayıplı bıraktığı imalâtın bedelinin keşif tarihi itibariyle saptanması, sözleşme konusu inşaatla ilgili ... ve diğer borçları varsa araştırılarak miktarının belirlenmesi, karşılayacak miktarda bağımsız bölümün davalı belediyece teminat olarak tutulması, yükleniciye ait kalan bağımsız bölümler yönünden ise tapu iptâli ve tescil davasının kabul edilmesi gereğine değinilmiştir. Mahkemece bozma sonrası alınan 08.08.2011 tarihli asıl, 26.01.2012 ve 06.04.2012 tarihli ek raporlarda yüklenicinin inşaatı %84,97 seviyede bıraktığı, bu seviyeye göre eksik ve kusurlu işler bedelinin 280.660,84 TL olduğu, asli müdahil ve diğer daire sahiplerince inşaata devam olunarak %3,63 seviyede 57.656,23 TL'lik daha imalât yapıldığı, inşaatın seviyesinin % 88,60'a çıkarıldığı bildirilmiştir. Mahkemece 280.660,84 TL eksik ve kusurlu işler bedelinden, 57.656,23 TL sonradan tamamlanan işler bedeli düşülerek sonuçta eksik ve kusurlu işler bedeli 223.004,61 TL belirlenmiş, bu miktara ...
@@ -34,12 +36,16 @@ SONUÇ: Yukarıda 1. bentte yazılı nedenlerle asli müdahil vekilinin tüm, da
 
 ## Yargıtay 15. HD 2012/2423 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/515896300)
+
 Taraflar arasındaki 19.03.2008 günlü Düzenleme Şeklinde Kat Karşılığı İnşaat ve Satış Vaadi Sözleşmesine göre; teminat olarak tutulacak 1 adet bağımsız bölümün satış yetkisi inşaat tamamen bitirilip iskân ruhsatı alındıktan sonra verilecektir. Davaya konu olan zemin kat 10 nolu bağımsız bölüm sözleşme gereği yüklenici şirkete ait olan son bağımsız bölümdür. Dava 30.06.2009 tarihinde açılmış, genel iskân ruhsatı dava tarihinden sonra 15.02.2011 tarihinde alınmıştır. Dava tarihi itibariyle davacı şirketin teminat olarak tutulan son bağımsız bölümün tescilini isteme hakkı doğmadığından, davalının davanın açılmasına sebebiyet verdiği kabul edilemez.
 Yapı kullanma izin belgesi dava tarihinden sonra alındığından 10 nolu bağımsız bölümün tapu kaydının iptâl ile davacı adına tesciline karar verilmesi doğru ise de, davalı, davanın açılmasına sebebiyet vermediğinden mahkeme masrafı ve vekâlet ücretiyle sorumlu tutulmaması gerekirken, masraf ve vekâlet ücretinin davalı arsa sahibine yükletilmesi doğru görülmemiş, kararın bu yönden bozulması gerekmiş ise de bu yanlışlığın giderilmesi yeniden yargılamayı gerektirmediğinden 6100 Sayılı HMK’nın geçici 3. maddesi yollamasıyla 1086 Sayılı HUMK’nın 438/VII. maddesi uyarınca düzeltilerek onanması uygun görülmüştür.
 
 SONUÇ:Yukarıda 1. bentte yazılı nedenlerle davalı-arsa sahibinin diğer temyiz itirazlarının reddine, 2. bent uyarınca mahkeme kararı hüküm fıkrası 3 ve 4. bentlerinin tamamı itibarıyla hüküm fıkrasından çıkarılmasına, yerine bir bent halinde “davalı, davanın açılmasına sebebiyet vermediğinden davacı yararına vekâlet ücreti tayinine yer olmadığına, davacı tarafından yapılan yargılama giderlerinin kendi üzerinde bırakılmasına” cümlesinin yazılmasına, hükmün değiştirilmiş bu şekliyle DÜZELTİLEREK ONANMASINA …
 
 ## Yargıtay 15. HD 2011/6674 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/766165700)
 
 Davacı vekili, yanlar arasındaki arsa payı karşılığı inşaat sözleşmesine konu taşınmaza fazladan yapılan bodrum kattaki bir dairenin yüklenici tarafından satılması sebebiyle şimdilik bu satış bedelinden 7.250,00 TL'nin, inşaatın zamanında teslim edilmemesi nedeniyle 750,00 TL kira bedelinin, eksik işler bedelinden 1.000,00 TL'nin, iskân izni alınmaması ve kat mülkiyeti tapusu verilmemesi nedeniyle 1.000,00 TL'nin toplamı olan 10.000,00 TL maddi tazminatın davalıdan tahsiline karar verilmesini istemiştir.
 
@@ -54,6 +60,8 @@ SONUÇ: Yukarıda 1. bentte belirtilen nedenlerle davalı vekilinin sair temyiz 
 
 ## Yargıtay 15. HD 2010/6846 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/778291200)
+
 Dava, yüklenicinin arsa payı karşılığı inşaat yapım sözleşmesi uyarınca edimlerini ifa etmiş olması sebebiyle kendisine ait taşınmaz üzerine konulan ipoteğin kaldırılması istemine ilişkindir.
 
 …
@@ -66,6 +74,8 @@ Sözleşmenin 3. maddesinde inşaat yapılacak parsellere tecavüzü menetme yü
 SONUÇ:Yukarıda 1. bentte açıklanan nedenlerle davalıların diğer temyiz itirazlarının reddine, 2. bent uyarınca kabulü ile hükmün temyiz eden davalılar yararına BOZULMASINA …
 
 ## Yargıtay 15. HD 2009/5539 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/855272300)
 
 Davacı, daha önce dava dışı ...... ve ... ile yapılan sözleşmenin feshedildiğini, bu kişilere 670.000 Amerikan Doları ödemeyi taahhüt ettiğini, bu konuda aleyhinde icra takibine girişilmesi sonucunda dava dışı ... İnşaat Turizm Sanayi ve Ticaret Ltd.
 
@@ -83,6 +93,8 @@ SONUÇ: Yukarıda açıklanan sebeplerle hükmün temyiz eden davacı ve birleş
 
 ## Yargıtay 15. HD 2008/6079 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/859223100)
+
 Dava, arsa payı karşılığı inşaat yapım sözleşmesi uyarınca cezai şart, gecikme tazminatı ile dairelerin küçük yapılmasından kaynaklanan değer kaybı alacaklarının tahsili istemine ilişkindir.
 
 …
@@ -97,6 +109,8 @@ SONUÇ: Yukarıda (1.) bentte yazılı nedenlerle davalının tüm, davacının 
 
 ## Yargıtay 13. HD 2007/6518 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/839801400)
+
 Davacı,davalı arsa sahiplerinden 31.1.2000 tarihli harici sözleşme ile 22 parselde yapılmakta olan binadan 4.kattaki daireyi ,4.kat dairenin yapılamaması halinde 3.kattaki daireyi davalılardan satın aldığını satış bedeli olarak 7750 USD ve 4500 USD lık teminat senedi verdiğini ,ancak davalıların tapu devrini vermediklerini davalıların sözleşmeye aykırı davranmaları nedeniyle 7750 USD “ın tahsili ile 4500 USD lık teminat senedinin iptalini istemiştir.
 
 Davalılar ,dairelerin teslim edilememesinde tüm kusurun yüklenicide olduğunu belirterek davanın reddini savunmuşlardır.
@@ -109,6 +123,8 @@ Sözleşme geçersiz olduguna göre davacı, davalılara ödediği anlaşılan 7
 SONUÇ:Yukarıda açıklanan nedenlerle kararın temyiz eden davacı yararına BOZULMASINA …
 
 ## Yargıtay 15. HD 2007/5456 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/16732200)
 
 Davalı reddini savunmuş, birleşen davasında, davacı tarafından takibe konulan 10.000.000.000 TL. tutarındaki bono nedeniyle borçlu olmadığının tesbitiyle, iptâline karar verilmesini istemiştir.
 
@@ -129,6 +145,8 @@ incelenmesinde, davalının Burhaniye ...Noterliğine ait 15/07/2014 tarihli ve 
 
 ## İstanbul BAM 53. HD 2024/562 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1035862500)
+
 Söz konusu protokolde belirtilen senedin tutarının, takibe konu bonodaki tutar ile uyuşmasına karşın protokolde, herhangi bir senedin düzenlenerek davalı alacaklıya verildiğine ilişkin bir açıklama bulunmadığı gibi protokolde verilecek bononun düzenleme tarihi, ödeme tarihi ya da numarası gibi ayırt edici herhangi bir bilgiye de yer verilmemiştir.Buna göre, davacı yanca bononun teminat amacıyla verildiğine ilişkin protokolde, takibe konu bonoya açıkça gönderme yapılmamış olması, bonunun ödeme ve düzenleme tarihleri gibi ayırıcı bilgilerin yer almaması, öte yandan davacı yüklenici tarafından protokolde davalıya verileceği belirtilen bononun alacaklıya teslim edildiğine ilişkin her hangi bir belge sunulmamış olması hususları birlikte değerlendirildiğinde; mahkemece, takibe konu bononun teminat senedi olarak verildiğinin ispatlanamadığı gerekçesine dayalı olarak davanın reddine karar verilmesi gerekirken aksi yönde davanın kabulü doğru olmamıştır.
 
 …
@@ -136,6 +154,8 @@ Söz konusu protokolde belirtilen senedin tutarının, takibe konu bonodaki tuta
 HÜKÜM: Gerekçesi yukarıda açıklandığı üzere; A)1-Davalı vekilinin istinaf talebinin KABULÜNE, 2-İstanbul Anadolu 2. Asliye Ticaret Mahkemesi'nin 13.12.2023 tarih ve 2021/848 Esas, 2023/964 Karar sayılı kararının KALDIRILMASINA …
 
 ## İstanbul BAM 17. HD 2024/273 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1011994000)
 
 Dava, kooperatif genel kurul kararının iptali istemine ilişkindir.
 
@@ -145,6 +165,8 @@ Bunun dışında, teminat olarak tutulan dairelerin, edimlerini yerine getirmesi
 
 ## İstanbul BAM 12. HD 2023/1972 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/973737400)
+
 Hukukumuzda banka teminat mektupları konusunda açık bir düzenleme bulunmamakta, 6098 sayılı TBK’nın 128. maddesinde düzenlenen üçüncü kişinin fiilini üstlenme kapsamında bir tür garanti sözleşmesi olarak değerlendirilmektedir. Garanti veren banka, muhatabın ödeme talebi halinde ancak zamanaşımı, sahtelik gibi kendisine ait olan def’ileri ileri sürebilir veya teminatın ödenmemesi hususunda mahkemece verilen bir tedbir kararının bulunması halinde ödemekten kaçınabilir. Bu durumların söz konusu olmaması halinde ise, banka ancak ödeme talebinin hakkın kötüye kullanılması mahiyetinde olduğuna dair elinde likit delil bulunması halinde ödeme talebini reddedebilir. Likit delil ile kastedilen ise, bankanın yorumunu eklemeden ödeme talebinin dürüstlük kuralına aykırılığını ortaya koyan delildir. Banka ödeme talebini aldığında durumu derhal lehdara bildirmelidir ki, lehdar talebin haksızlığına ilişkin kendi elindeki likit delilleri bankaya ibraz edebilsin.
 İlk talepte ödeme kaydını içeren teminat mektuplarında ise risk banka üzerinde değil, lehdar üzerinde olduğundan ödeme talebi halinde esasa ilişkin inceleme yapılmaksızın ödeme yapılması gerekir.Teminat türlerinden olan avans teminat mektubunun amacı, iş sahibinin işin süresinde bitirilmesi için yükleniciye avans olarak verdiği miktarın geri alınmasını garanti altına almaktır. Yani, avans teminat mektuplarının konusu, müteahhide veya imalatçıya verilecek avansları bir bankanın garanti etmesidir. Müteahhidin hak ediş bedelleri, daha önce alınan avansa mahsup edilerek avans karşılığının ifa edilmesi sağlanır.
 
@@ -153,6 +175,8 @@ Hukukumuzda banka teminat mektupları konusunda açık bir düzenleme bulunmamak
 HÜKÜM : Yukarıda açıklanan nedenlerle: 1-Davacı ve Davalı vekilinin istinaf başvurusunun kabulüne, İstanbul 5. Asliye Ticaret Mahkemesi'nin 30/01/2020 Tarih 2016/1197 Esas - 2020/88 Karar sayılı kararının HMK m.353(1)b-2 gereği KALDIRILMASINA; "Davanın kısmen kabulüne …
 
 ## İstanbul BAM 14. HD 2023/1580 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/951568400)
 
 Dosya kapsamındaki bilgi ve belgelerin incelenmesinde; dava dışı yüklenici adi ortaklığın davacıya gönderdiği 18.04.2016 tarihli yazısında, projeyi finanse edemediğini, projenin namı hesap komisyonu kurularak ve müvekkilince destek sağlanması suretiyle projenin tamamlanmasının, ayrıca nama ifa sürecinde masrafların bağımsız bölüm satışlarından karşılanmasının, bunun yetmemesi ve eksik kalması halinde ise verilen teminat mektuplarının kullanılmasının talep edildiği, davacı şirketin 29.04.2016 yönetim kurulu kararı ile inşaatın kalan kısmının nama ifa komisyonu marifetiyle yaptırılmasına, işin tamamlanması için 189.098.823,32 TL gerektiğine, bunun da yüklenicinin payına düşen 189.357.619,05 TL hak edişinden karşılanmasına, şayet yetmezse banka teminat mektuplarının nakde çevrilmesine karar verildiği, daha sonra davalının 21.02.2017 tarihli yönetim kurulu kararı ile de bloktaki bağımsız bölümlere el konulmasına, döviz kurundaki ve maliyetlerdeki artış sebebiyle işin tamamlanması için 247.776.680,69 TL gerektiğine, bunun yüklenicinin payına düşen 192.176.675,75 TL'den karşılanmasına, ayrıca yüklenicinin verdiği 34.891.696 TL'lik banka teminat mektuplarının nakde çevrilmesine karar
 verildiği, devam eden süreçte yüklenici adi ortaklığın hakim ortağı ... Ltd. Şti.'nin 22.02.2017 tarihli mahkeme kararı ile iflasına karar verildiği, davacı şirketin 23.02.2017 tarihli yazısı ile yüklenicinin taahhüdünü sözleşme hükümlerine göre yerine getirememesinden dolayı nakte çevrilmesine karar verildiği belirtilerek davalıdan 23.02.2017 tarihli yazı ile 20 adet teminat mektubunun nakte çevrilmesinin ve bedelin ödenmesinin talep edildiği, 24.02.2017 tarihinde teminat mektuplarının davalı tarafından teslim alındığı, ancak ödeme yapılmadığı, davacı tarafından 27.02.2017 tarihinde icra takibi başlatıldığı, takibe itiraz üzerine 10.10.2017 tarihinde eldeki davanın açıldığı anlaşılmaktadır. Davaya konu teminat mektuplarının, ihale konusu İstanbul Ümraniye birinci etap arsa satışı karşılığı gelir paylaşımı işini taahhüt eden yüklenici adi ortaklığa dahil olan ... Ltd.
@@ -168,6 +192,8 @@ Bu düzenleme çerçevesinde banka teminat mektubu, banka tarafından üçüncü
 HÜKÜM:Yukarıda açıklanan gerekçelerle; Davacı ve davalı vekillerinin istinaf başvurularının ayrı ayrı esastan reddine; HMK'nın 33 …
 
 ## İstanbul BAM 15. HD 2023/1389 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/986975800)
 
 GEREĞİ GÖRÜŞÜLÜP DÜŞÜNÜLDÜ: Dava; kat karşılığı inşaat sözleşmesinden kaynaklanan ipoteğin terkini talebine ilişkin olup, mahkemece davanın kısmen kabulüne dair verilen karara karşı davalı yanca istinaf talebinde bulunulmuştur. Davacı vekili, müvekkili ile davacı arasında 30/09/2010 tarihinde imzalanan Bakırköy ... Noterliği'nin ... yevmiye nolu “Düzenleme Şeklinde Gayrimenkul Satış Vaadi Ve Kat Karşılığı İnşaat Sözleşmesi" ile taraflar İstanbul ili, Esenyurt ilçesi, ... ada, ... nolu parselde kayıtlı olan ve davalının arsa sahibi olduğu yerde müvekkili firma tarafından kat karşılığı inşaat yapılması konusunda anlaşmaya varıldığını, sözleşme, arsa sahibi lehine inşaat teminat ipoteği kararlaştırıldığını ve müteahhit olan müvekkili şirkete ait olan taşınmazlar üzerine ipotek tesis edildiğini; sözleşmenin 11. maddesinin inşaat teminat ipoteği kurulması ve kaldırılması koşullarını düzenlediğini, bu madde hükmünün ilk üç bendine göre davalı üzerine düşen edimi yerine getirmiş olduğundan, inşaatın gelmiş olduğu seviye de dikkate alınarak tapu kayıtlarında davalı lehine konulan ipoteklerin fekkinin Bakırköy 3.
 Asliye Ticaret Mahkemesi'nin 2017/161 Esas sayılı dosyası ile talep edildiği ve yargılamanın devam ettiği, gelinen noktada ise inşaatın tamamlandığı, dairelerin davalıya teslim edildiği, aynı maddenin son üç bendi hükmüne göre ise; "D-Asansör, iç kapı, iç boyalar, parkeler, dış kapılar, mutfak dolapları takılmasından sonra %15 oranında bağımsız bölüm veya hisse üzerindeki ipoteği,", "E- Tüm bağımsız bölümlerin anahtar teslimi ve çevre düzenlenmesinden sonra %15 oranında bağımsız bölüm veya hisse üzerindeki ipoteği,", "F-İskan işlemi tamamlandıktan sonra %5 oranında bağımsız bölüm veya hisse üzerindeki ipoteği fek edeceği," arsa sahipleri yukarıdaki şartların gerçekleşmesinden itibaren 15 gün içerisinde ve pürüzsüz ve takyidatsız olarak, tapu ferağ takririni vereceklerini, gelinen aşamalarda, söz konusu madde düzenlemesine göre D ve E bentlerindeki aşamaların fiziken tamamlandığını, müvekkili firma tarafından taraflar arasındaki kat karşılığı inşaat sözleşmesinin uygun olarak yapımını tamamladığını, ...

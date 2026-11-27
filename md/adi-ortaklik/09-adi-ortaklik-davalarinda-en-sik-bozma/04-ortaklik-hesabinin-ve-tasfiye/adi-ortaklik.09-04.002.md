@@ -22,15 +22,21 @@ uyari: "Derleyenin seçtiği alıntılardır; kararın tamamı değildir. Künye
 
 ## Yargıtay 11. HD 2023/1939 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/931171700)
+
 Bu durumda, davalı iş ortaklığının ticari defterlerinin de incelenmesi gerekmektedir. O nedenle ortaklığa ilişkin defterlerin iş ortağı Myk Kara İnşaat San. Tic. Ltd. Şti. uhdesinde olduğu anlaşıldığından, davalı defterleri ibraz etmesi veya yerini bildirmesi durumunda bilirkişi marifetiyle inceleme yapılması, davalı iş ortaklığının ticari defterlerinin eksiksiz ve usulüne uygun tutulmuş, açılış ve kapanış onayları yapılmış ise ve iş ortaklığının defterlerinde ilgili hususta hiç bir ticari kayıt bulunmadığı veya davacının defter kayıtlarına aykırı olması halinde davacının ticari defterleri tek başına delil olamayacağından, bu kez davacı tarafından dava konusu mallara ilişkin ibraz edilen sevk irsaliyelerinde teslim alan kişilerin davalılar çalışanı olup olmadığının tespiti ile sonucuna göre bir karar verilmesi gerekirken, sadece davacı defter ve belgeleri üzerinde yaptırılan incelemeye istinaden düzenlenen rapora ve Myk Kara İnşaat San. Tic. Ltd.
 Şti.’ne çıkarılan ihtaratta iş ortaklığına ait ticari defterlerin ibrazı denilmemesi nedeniyle, 6100 sayılı Kanun’un 222 nci maddesinin ikinci ve üçüncü fıkralarına uygun düzenlenmeyen ihtarata göre eksik inceleme ile karar verilmesi doğru olmamıştır.
 
 ## Yargıtay 3. HD 2023/1900 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/968053700)
+
 Hal böyle olunca, Mahkemece; yukarıda açıklanan maddi ve hukuki olgular çerçevesinde, iddiaya konu adi ortaklık ilişkisinin varlığının 6100 sayılı Kanun'un 200 üncü maddesinde belirtilen parasal sınır dikkate alındığında kesin delille ispatı gerektiği, davacı tarafça delil olarak dayanılan ve dosyaya ibraz edilen belgenin davalının eli ürünü olduğunun tespit edilmesi halinde, işbu belge delil başlangıcı olarak kabul edilip bu yönde tanık dinlenebileceği dikkate alınarak, öncelikle söz konusu belge aslı üzerindeki yazıların davalıya ait olup olmadığının tespiti hususunda, 6100 sayılı Kanun'un 171 inci maddesi gereğince davalıya isticvap davetiyesi çıkartılması, davalı tarafın davete uyması ancak yazıyı kabul etmemesi halinde belgedeki yazının kendisine oturarak ve ayakta yazdırılması, ayrıca resmi kurum ve kuruluşlardan davalının el yazısının bulunduğu belgeler saptanıp getirtilerek uzman bilirkişi kurulundan delil olarak dayanılan belgedeki yazıların davalıya ait olup olmadığı yönünde taraf, mahkeme ve Yargıtay denetimine elverişli rapor alınması, daha sonra toplanan deliller ile birlikte değerlendirilerek sonucuna uygun bir karar verilmesi gerekirken; eksik inceleme ve yanılgılı
 değerlendirme ile yazılı şekilde hüküm tesisi usul ve kanuna aykırı olup, bozmayı gerektirmiştir.
 
 ## Yargıtay 3. HD 2022/9210 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/864843600)
 
 Kural olarak elde edilen kar veya zararın paylaştırılması bakımından, ortaklar arasında eşitlik ilkesi geçerlidir. Nitekim TBK’nın “Kazanç ve zarara katılma” başlıklı 623. maddesinde; “ Sözleşmede aksi kararlaştırılmamışsa, her ortağın kazanç ve zarardaki payı, katılım payının değerine ve niteliğine bakılmaksızın eşittir. Sözleşmede ortakların kazanç veya zarara katılım paylarından biri belirlenmişse bu belirleme, diğerindeki payı da ifade eder. Bir ortağın zarara katılmaksızın yalnız kazanca katılacağına ilişkin anlaşma, ancak katılma payı olarak yalnızca emeğini koymuş olan ortak için geçerlidir.” şeklinde düzenlene yapılmıştır.
 
@@ -42,21 +48,29 @@ Hal böyle olunca, ilk derece mahkemesince; yukarıda açıklanan maddi ve hukuk
 
 ## Yargıtay 3. HD 2022/9201 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/866336300)
+
 Diğer yandan; ortaklık sözleşmesiyle aynı zamanda ortaklık malvarlığına dahil olan değerlerin (gayrimenkul satış vaadi ve kat karşılığı inşaat sözleşmesi uyarınca davalı yüklenici ortağa bırakılacak olan daireler) ortaklar arasında paylaşılmasına yönelik düzenleme de yapılmış olup; ortaklığın tasfiyesine yönelik taşınmazların devri ile ilgili işbu düzenlemenin resmi şekilde yapılması zorunlu değildir. Resmi şekilde düzenleme şartı, ancak tapulu bir taşınmazın mülkiyetinin katılım payı (sermaye) olarak ortaklığa konulması halinde aranmaktadır.
 
 Hal böyle olunca, ilk derece mahkemesince; yukarıda açıklanan maddi ve hukuki olgular çerçevesinde, taraflar arasında kurulan adi ortaklığın ortaklık amacının gerçekleşmesiyle birlikte kendiliğinden sona ererek tasfiye aşamasına girdiği, ortaklığın tasfiyesi kapsamında davacının, ortaklık malvarlığına dahil olan davalı adına kayıtlı taşınmazların tapu kayıtlarının payı oranında (½) iptali ile adına kayıt ve tescilini isteyebileceği dikkate alınıp, ortaklığın sona erdiği tarih itibariyle aktif ve pasif değerlerinin hesaplanması suretiyle, tasfiye memurundan tasfiye işlemine dair sonuç bilanço alınıp, hasıl olacak sonuca göre bir karar verilmesi gerekirken; eksik inceleme ve yanılgılı değerlendirme ile yetersiz tasfiye raporu benimsenerek yazılı şekilde hüküm tesisi doğru görülmemiş, bozmayı gerektirmiştir.
 
 ## Yargıtay 3. HD 2022/6829 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/862346000)
+
 Hükmüne uyulan bozma ilamında; adi ortaklığın tasfiyesine ilişkin ilk aşamada; ortaklığın sona erdiği tarih itibariyle ortaklığın tüm mal varlığı (aktif ve pasifi ile birlikte) belirlenmesi, yönetici ve idareci ortaktan ortaklık hesabını gösterir hesap istenmesi, verilen hesapta uyuşmazlık çıktığı takdirde, taraflardan delilleri sorularak toplanması, tasfiye memurunun belirlediği malvarlığı bilançosunun taraflara tebliğ edilmesi, tarafların bu husustaki itirazları da karşılanıp, toplanacak delillere göre değerlendirilmesi gerektiği açıkça ifade edilmesine rağmen, tasfiye işleminin bozma ilamında belirtilen sıra ve yönteme göre yapılmadığı; taraflar arasında akdedilen 27/01/2010 tarihli ortaklık sözleşmesi ile asıl ve birleşen davalı vekilinin aşamalarda ileri sürdüğü ve cevap dilekçesinde de dayandığı 2009 tarihli protokol hükümlerinin birlikte değerlendirilmediği, ortaklığa konu olan dava dışı belediyeden alınan ihale işine ilişkin olarak Antakya Belediyesinden dosyaya kazandırılan yazı cevabında ilgili ihale dosyasının Büyükşehir Belediyesinden istenilmesi gerektiği belirtilmesine rağmen söz konusu ihale dosyası dosyaya alınmadan bilirkişilerce tasfiye raporunun düzenlendiği,
 yine aşamalarda asıl ve birleşen dosya davalı vekilince ortaklığa ait olduğu ve tasfiyede hesaba katılması gerektiğini iddia ettiği araçlara ilişkin belediyeden ve ilgili kurumlardan etraflıca araştırma yapılmadan, buna ilişkin kayıtlar dosyaya alınmadan hazırlanan tasfiye raporuna göre değerlendirme yapılarak karar verilmiş olması usul ve kanuna aykırı olup bozmayı gerektirmiştir.
 
 ## Yargıtay 3. HD 2022/6682 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/815115700)
+
 Dava dosyası incelendiğinde, dosyada kat karşılığı inşaat sözleşmesinin ya da taraflar arasında imzalanmış bir sözleşmenin bulunmadığı, tapu kayıtlarının incelenmesinde dava konusu taşınmazın değişik oranlarda paylarla davalılar adına kayıtlıyken, 04/02/2014 tarihinde davacı adına satış ve tescil edildiği anlaşılmaktadır. Yine dosyada bulunan ... Belediye Başkanlığı İmar ve Şehircilik Müdürlüğü’nün gönderdiği işlem dosyasında yer alan yapı ruhsatına göre yapı sahibi ve müteahhidinin ... İnş.Tur.San. Ve Tic. A.Ş. ve ortakları Bahçeşehir Adi Ortaklığı olduğu, ‘’ortakları’’ ibaresinde kimlerin yer aldığının açıkça anlaşılamadığı görülmüştür. Mahkemece, öncelikle ‘’ortakları’’ ibaresinde gerçek şahıs ...’ın da yer alıp almadığının tespit edilmesi ve ...’ın müteaahit olan ortaklığı oluşturanlardan biri olduğunun görülmesi halinde bu davalıya da husumet yöneltilebileceğinin kabul edilmesi gerekirken, bu hususun değerlendirilmemiş olması doğru değildir.
 Yine mahkemece, ...’ın müteahhit ortaklıkta yer almadığının tespit edilmesi durumunda ise taraflardan sorularak kat karşılığı inşaat sözleşmesinin ve davacı ile davalılar arasında imzalanmış bir sözleşme varsa bunun getirtilmesi, sözleşme kapsamında davacıya devredilen bağımsız bölümün müteahhit ya da arsa maliki sıfatıyla ...’a düşmesi kararlaştırılan yerlerden olup olmadığının tespit edilmesi ve ...’a ait olacağı kararlaştırılan yerlerden ise yine bu davalının da sorumlu olduğunun kabul edilmesi, bu ihtimallerin hiçbirinin mevcut olmaması durumunda ise davalı ... yönünden pasif husumet yokluğundan davanın reddine karar verilmesi gerekirken, eksik incelemeyle gerekli araştırmalar yapılmaksızın davalı ... yönünden davanın pasif husumet yokluğundan reddine karar verilmiş olması usul ve yasaya aykırı olup bozmayı gerektirmiştir.
 
 ## Yargıtay 3. HD 2022/3725 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/791347100)
 
 …
 
@@ -64,6 +78,8 @@ Yine mahkemece, ...’ın müteahhit ortaklıkta yer almadığının tespit edil
 Davalı-karşı davacı karşı davalı yönetici ortağın sözleşmeye aykırı davrandığını ileri sürmektedir. Gerçekten davacı-karşı davalının sözleşmeye aykırı davranması halinde(örneğin adi şirketin kasasında 3. şahıslara olan borcu ödemeye yetecek miktarda para olmasına rağmen bu borcu ödemeyerek iş yerine hacze gelinmesine sebep olunması gibi) davalı-karşı davacının sözleşmeyi süresinden önce feshedilebileceğinin kabulü gerekir. Mahkemece, taraflardan bu yönde delilleri ve karşı delilleri toplanarak ve yukarıda belirtilen hususlarda gerekirse konusunda uzman bilirkişi veya kurulu aracılığı ile inceleme yaptırılmak suretiyle de davalı-karşı davacının sözleşmeyi feshetmesinin haklı sebeplere dayanıp dayanmadığı belirlenmeli, sözleşmenin feshi gerektiğinin kabul edilmesi halinde BK'nın 538. maddesi gözetilerek ve uygulanacak fesih ve tasfiyeye karar verilmelidir. Mahkemenin değinilen bu yönü göz ardı ederek yazılı şekilde karar vermiş olması usul ve yasaya aykırıdır...”gerekçesiyle bozulmuştur.
 
 ## Yargıtay 3. HD 2021/5167 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/690045100)
 
 Dava; adi ortaklık sözleşmesinden kaynaklı alacak talebine ilişkindir.
 
@@ -74,6 +90,8 @@ Hal böyle olunca, mahkemece; adi ortaklığın tasfiyesi için öncelikle, orta
 
 ## Yargıtay 6. HD 2021/995 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/700841400)
+
 Dava, taraflar arasındaki eser sözleşmesinden kaynaklanan bakiye iş bedeli alacağının tahsili istemine ilişkindir.
 
 …
@@ -82,6 +100,8 @@ Mahkeme gerekçesinde hem alınan ek bilirkişi raporu doğrultusunda davalı ta
 maddesi uyarınca gerekçesi düzeltilerek onanması uygun bulunmuştur.
 
 ## Yargıtay 15. HD 2020/3185 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/636349500)
 
 Mahkemece bozmadan sonra yapılan yargılama aşamasında İnşaat Mühendisi, Sayıştay Emekli Uzman Denetçisi/Yeminli Mali Müşavir ve Hukukçudan oluşan bilirkişi heyetinin düzenlediği ve hükme esas alınan 20.05.2015 tarihli bilirkişi kurulu raporunda söz konusu malzemeleri iş sahibinin doğrudan kendisinin temin ettiği, temin edilen bu ekipmanın iş sahibi idarenin kendi malı olduğu hususu dikkate alındığında zararının söz konusu olmadığı, mekanik teçhizatın bir kısmını yüklenici iş ortaklığının kullandığı, kalan malzemelerin de sözleşmenin feshinden sonra işin tamamlanması için yeniden yapılan ihale kapsamında ikinci yüklenici tarafından kullanıldığı ve davacı iş sahibinin teslim edilmeyen malzemeden dolayı alacağının kalmadığı belirtilmiştir.
 Bilirkişi heyetinin 20/05/2015 tarihli bu raporuna karşı iş sahibi tarafından ayrıntılı biçimde ve teknik mahiyette itiraz edilmesine rağmen, mahkemece 6100 sayılı Hukuk Muhakemeleri Kanunu'nun "Bilirkişiye başvurulmasını gerektiren hâller" başlıklı 266. maddesinde düzenlenen mahkemenin çözümü hukuk dışında, özel veya teknik bilgiyi gerektiren hâllerde, taraflardan birinin talebi üzerine yahut kendiliğinden, bilirkişinin oy ve görüşünün alınmasına karar vereceğine, Aynı Kanun'un "Bilirkişi raporuna itiraz" başlığı altındaki 281/2. maddesi gereğince mahkemenin bilirkişi raporunda görülen eksiklik yahut belirsizliğin tamamlanması veya açıklığa kavuşturulmasını sağlamak için bilirkişiden, yeni sorular düzenlemek suretiyle ek rapor alabileceğine ilişkin yasa maddeleri gözetilerek itirazları karşılayacak şekilde bilirkişi heyetinden ek rapor alınmadığı gibi, iş sahibi ESKİ Genel Müdürlüğü’nün rapora itirazlarının neden kabul edilmediği de kararın gerekçesinde denetime elverişli biçimde açıklanmamıştır.
@@ -93,9 +113,13 @@ Bu davada kurulan hükümle ilgili davalı iş sahibinin diğer temyiz itirazlar
 
 ## Yargıtay 3. HD 2020/2571 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/627217300)
+
 Adi ortaklık sözleşmesinde, idareci ortağın hesap vermesi gerekmekte, verilen hesaba ilişkin taraflar arasında uyuşma olmaması halinde uyuşulmayan hususların idareci ortak tarafından ispatı gerekmektedir. Yapılan açıklamalar ışığında somut olayda mahkemece yapılması gereken dosyanın içinde kokoreç işletmecisinin de bulunduğu 3 kişilik uzman bilirkişi heyetine tevdi ile; işletme defterinin usulüne uygun olup olmadığının belirlenip davacı tarafça itiraz edilen işletme defterinin dayanağı olan belge ve faturaların ibrazının sağlanması, yönetici ortak olan davalıdan yapılan tüm iş ve harcamalarla ilgili hesap listesinin istenilmesi, hesap listesinin verilmemesi halinde yönetici ortağın hesap vermekten kaçınmış sayılacağının kabul edilmesi, hesap listesi verilmesi halinde, defter kayıtları ve diğer belgelerle uyumlu olup olmadığının belirlenmesi, özellikle aynı konudaki emsal işletmenin aynı dönemdeki kazanç durumunun da araştırılması konusunda Yargıtay ve taraf denetimine elverişli rapor alınmak suretiyle sonucuna göre karar verilmesi gerekirken itiraza uğrayan rapor esas alınarak karar verilmesi doğru görülmemiş, kararın bozulmasına karar verilmiştir.
 
 ## Yargıtay 3. HD 2020/1331 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/620562700)
 
 Dava; temsile yetkili ortak tarafından, adi ortaklık adına düzenlenen kambiyo senetleri nedeniyle, senetlerde imzası olmayan adi şirket ortağının, aleyhine kambiyo senetlerine özgü haciz yoluyla takip başlatan senet lehtarına karşı açtığı menfi tespit istemine ilişkindir.
 
@@ -107,14 +131,20 @@ Bu nedenle mahkemece; adi ortaklığın aktif husumet ehliyeti bulunmadığında
 
 ## Yargıtay 3. HD 2019/10110 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/569012500)
+
 Hal böyle olunca, mahkemece; yukarıda açıklanan maddi ve hukuki olgular çerçevesinde, taraflar arasında düzenlenen 30/06/2011 tarihli yazılı sözleşme ile adi ortaklık ilişkisinin kurulduğunun sabit olduğu, dış ilişkide ise davacının gizli ortak olarak yer aldığı, sözleşme içeriğinden ve tüm dosya kapsamından davalı şirketin idareci ortak olduğu, eldeki davanın kar payı alacağı istemiyle açıldığı , davacının, ortaklığın feshini istemeden elde edilen kardan payının ödenmesini talep edebileceği, idareci ortağın ortaklıkla ilgili hesap vermekle yükümlü olduğu dikkate alınarak ; öncelikle davalı şirketten hesap istenmesi, davalı idareci ortağın hesap vermekten kaçınması veya verdiği hesabın davacı ortak tarafından kabul edilmemesi durumunda, ortaklığa ilişkin tüm gelir ve gider belgeleri taraflara ibraz ettirilerek, şirketin kar ve zarar durumunun tespiti noktasında, seçilecek konusunda uzman bilirkişi aracılığıyla dosya üzerinden ve gerekiyorsa yerinde inceleme yapılarak, şirketin kar veya zarar edip etmediğinin, ortaklık sözleşmesindeki pay oranları da göz önünde bulundurularak miktarının belirlenmesi suretiyle, hasıl olacak sonuca göre bir karar verilmesi gerekirken; bu husus göz
 ardı edilerek, eksik inceleme ve yanılgılı değerlendirme ile yazılı şekilde hüküm tesisi doğru görülmemiş, bozmayı gerektirmiştir.
 
 ## Yargıtay 3. HD 2019/6466 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/535558300)
+
 O halde, mahkemece; tarafların ödeme ve harcamalara yönelik ikrarları da dikkate alınarak, davacı tarafından yapılan harcamalara ilişkin sunulan fatura içeriklerinin adi ortaklık kapsamında yürütülen inşaat yapım işi kapsamında kullanılıp kullanılmadığının belirlenmesi amacıyla uzman mühendis bilirkişi heyetinden alınacak rapor doğrultusunda denetlenmesinin ardından oluşacak sonuca göre karar verilmesi gerekirken, yazılı şekilde hüküm tesisi isabetsiz olup, bozmayı gerektirmiştir.
 
 ## Yargıtay 15. HD 2019/1559 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/500144700)
 
 Bu durumda mahkemece; öncelikle 492 sayılı Harçlar Kanununun 30., 32. maddeleri uyarınca asıl dosya davacısına noksan yatırılan 26.174,31 TL harcı tamamlamak üzere bir sonraki celseye kadar süre verilerek tamamlanması halinde yargılamaya devam edilmesi, ikmal edilmemesi durumunda 30. maddenin son cümlesi uyarınca 6100 sayılı HMK’nın 150. maddesi gereğince yatırılmayan kısım yönünden işlem yapılması, bu husus tamamlandığında ise ... 6.
 Asliye Hukuk Mahkemesi'nin 2003/584 Esas sayılı dosyası da celp edilip, sözleşmenin 16/D maddesi ile birlikte değerlendirilerek yüklenici adi ortaklık tarafından 16/D maddesinde belirtilen şekilde önceki yüklenicilere hak ve alacaklarının ödenmiş olup olmadığı veya ödenmiş sayılıp sayılmayacağı, söz konusu madde gereğince arsa sahiplerinin 60 adet bağımsız bölümün tapu devrini vermekten kaçınmakta haklı olup olmadıkları değerlendirilip, karşı davada talep edilen günlük 1.000,00 ... doları ifaya ekli cezai şart fahiş olmadığından tenkis edilmeksizin, ancak arsa sahipleri yapı kullanma izin belgesi alınmamasına rağmen kendilerine ait bağımsız bölümleri fiilen teslim almış ve oturmak ya da başkalarına kiraya vermek sureti ile ekonomik yarar sağlamış olmaları ve yine kendilerine ait bağımsız bölümleri 3. kişilere satarak tapuda devretmiş olmaları halinde, oturmak, kiraya vermek suretiyle ekonomik yarar sağladıkları ve bağımsız bölümleri sattıktan sonraki dönem içim gecikme cezası isteyemeyecekleri göz önünde tutulup varsa ve kanıtlanmışsa fiilen teslim edilip oturulan, kiraya verilen ve satılan bağımsız bölümler yönünden tarihlerine göre ve 177 bağımsız bölüm için günlük 1.000,00 ...
@@ -124,13 +154,19 @@ Yerel mahkeme kararının 23. Hukuk Dairesi'nin bozma ilamının 2 ve 3. bendini
 
 ## Yargıtay 3. HD 2018/9723 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/466662400)
+
 Buna göre, mahkemece; adi ortaklığın tasfiyesine ilişkin Türk Borçlar Kanununun 642 ve devamı maddelerindeki hükümler de dikkate alınarak, taraflar arasında 1998 ila 2006 yılları arasında devam eden hayvancılık ortaklığı konusunda uzman veteriner hekimler ile mali müşavirden oluşturulacak bilirkişi kurulundan rapor aldırılması ve ulaşılacak sonuca göre uyuşmazlığın esası hakkında bir karar verilmesi gerekirken, konusunda uzman olmayan bilirkişi tarafından yanılgılı değerlendirme ile hazırlanan rapor esas alınmak suretiyle yazılı şekilde karar verilmiş olması doğru görülmemiş, bozmayı gerektirmiştir....
 
 ## Yargıtay 3. HD 2018/7461 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/429987500)
+
 Hal böyle olunca, mahkemece; yeniden oluşturulacak tasfiye kurulundan, ortaklık hesabını gösteren belgelerin de incelenmesi suretiyle ortaklığın sona erdiği 17.06.2004 tarihindeki malvarlığı bilançosunu gösterir rapor alınması, sonrasında mal varlığının aktifinin (işletmedeki sabit tesisler vb), pasifini (borçları) karşılayıp karşılamadığının belirlenmesi, aktifin pasifi karşılamaması halinde zararın ortaklar arasında paylaştırılması suretiyle davalı ortağın payına düşen borç miktarının, aksi halde ise ortaklığın borçlarının mahsubu ile geriye kalan miktarın paylaştırılması suretiyle davalı ortağın tasfiye payının belirlenmesi ve ulaşılacak sonuca göre, uyuşmazlığın esası hakkında karar verilmesi gerekirken, hüküm vermeye yeterli olmayan tasfiye kurulu raporları esas alınarak yazılı şekilde karar verilmiş olması doğru görülmemiştir.
 
 ## Yargıtay 15. HD 2018/5240 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/466956500)
 
 Dava, adi ortaklıktan kaynaklanan kâr payı alacağı ve manevi tazminat istemine ilişkindir.
 
@@ -143,10 +179,14 @@ Bu halde, koşulları oluşmayan manevi tazminat isteminin reddi yerine yanlış
 
 ## Yargıtay 3. HD 2018/4751 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/422098300)
+
 Birinci aşamada; ortaklığın tüm malvarlığı (aktif ve pasifi ile birlikte) belirlenmeli, yönetici ve idareci ortak olan davacıdan ortaklık hesabını gösterir hesap istenmeli, verilen hesapta uyuşmazlık çıktığı takdirde, taraflardan delilleri sorularak toplanmalı, tasfiye memurunun belirlediği malvarlığı bilançosu taraflara tebliğ edilmeli, bu husustaki itirazları da karşılanıp, toplanacak delillere göre değerlendirilmelidir.İkinci aşamada; ortaklığın malvarlığına ilişkin satış ve nakte çevirme işlemi (TMK'nun 634. vd. maddelerinde düzenlenen resmi tasfiye işlemi kıyasen uygulanmak suretiyle) gerçekleştirilmeli, şayet bu mallar mevcut değilse, değerleri bilirkişi marifetiyle saptanmalıdır.Üçüncü ve son aşamada ise; yukarıdaki işlemler sonucu oluşan değerden, öncelikle ortaklığın borçları ödenmeli ve ortaklardan herbirinin, ortaklığa verdiği avanslar ile ortaklık için yaptığı giderler ve katılım payı geri verilmeli, bundan sonra bir şey artarsa, bu kazanç veya (ortaklığın, borçlar, giderler ve avanslar ödendikten sonra kalan varlığı, ortakların koydukları katılım paylarının geri verilmesine yetmezse) zarar da belirlenerek ortaklara paylaştırılmak üzere son bilanço düzenlenmelidir.
 
 Bu aşamalardan sonra ise; tasfiye memurunun yaptığı tasfiye işleminin sonuç bilançosuna göre hakim, (HMK'nun 297.maddesi uyarınca) tarafların hak ve yükümlülüklerini saptayıp, tasfiye işlemini sonlandırmalı ve bu doğrultuda hüküm oluşturmalıdır.Bütün bu açıklamalar ışığında, mahkemece, taraflar arasındaki adi ortaklığın varlığının ispat edildiği ve ortaklık konusu işte gerçekleştirildiği dikkate alınarak uyuşmazlığın yukarıda açıklanan ve maddeler halinde belirtilen sıra ve yöntem izlenerek çözümlenmesi gerekirken TRT Bütçe (Bölüm hesapları iki çekim günü üzerinden) başlıklı belgede davacıya verilecek ücretin belirlendiği bütçe planlaması doğrultusunda bölüm başı ücreti belirlenerek 30 bölüm üzerinden hesaplama yapan bilirkişi raporu doğrultusunda yazılı şekilde hüküm tesisi doğru görülmemiş, bozmayı gerektirmiştir.SONUÇ: Yukarıda birinci bendde açıklanan nedenlerle davalı vekilinin sair temyiz itirazlarının reddine, ikinci bendde açıklanan nedenlerle hükmün HUMK.nun 428.
 
 ## Yargıtay 3. HD 2018/557 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/404354400)
 
 Hal böyle olunca, mahkemece; taraflar arasındaki açık ortaklığın gizli ortaklığa dönüşmüş olduğunun davacı tarafça ispat edildiği gözetilerek, adi ortaklığın devam ettiğinin tespitine, davalı tarafın zamanaşımı defi nedeniyle davanın açıldığı 16.04.2012 tarihinden geriye doğru beş yıllık dönem için (bilirkişi aracılığı ile) belirlenecek kar payının davalıdan tahsiline karar verilmesi gerekirken, yanılgılı değerlendirme ile istemin tümden reddine karar verilmesi doğru görülmemiş, bozmayı gerektirmiştir.

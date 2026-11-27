@@ -21,6 +21,8 @@ uyari: "Derleyenin seçtiği alıntılardır; kararın tamamı değildir. Künye
 
 ## Yargıtay 3. HD 2026/85 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1195764000)
+
 Davacılar vekili; davalı ... İnş.Taah. Ltd.
 
 …
@@ -36,6 +38,8 @@ Davalı ... vekili; açılan davanın haksız olduğunu ve müvekkili yönünden
 Temyiz olunan Mahkeme kararının 6100 sayılı Hukuk Muhakemeleri Kanunu'nun Geçici 3. maddesi atfıyla 1086 sayılı Hukuk Usulü Muhakemeleri Kanunu'nun (1086 sayılı Kanun) 428. maddesi uyarınca davacılar yararına BOZULMASINA …
 
 ## Yargıtay 6. HD 2025/3946 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1194078200)
 
 Davacılar vekili dava dilekçesinde; taraflar arasında 19.04.2010 tarihli gayrimenkul satış vaadi ve arsa payı karşılığı inşaat sözleşmesi imzalandığını ve davalı tarafın bu sözleşmeye uygun olarak süresinde ve evsafına uygun olarak edimini ifa etmediğini, müteahhidin sözleşmeye aykırı imalatlarının, mimari projeye göre yapılmadığı gibi halen teslim edilmediğini, yarım bırakıldığını, bu haliyle yapılan sözleşmeye aykırı imalat ve zamanında yapılamayan ve teslim edilmeyen inşaat sebebi ile müvekkillerinin mağdur olduğunu, yüklenicinin sözleşmede belirtilen ve kendisinin taahhüt ettiği vasıflara aykırı olarak bağımsız bölümleri ve ortak yerleri çok düşük nitelikte malzeme ve işçilikle yaptığından bu zararın belirlenmesi üzerine arttırılmak üzere 5.000,00 TL alacağın davalıdan alınıp davacılara verilmesine, tespit edilecek bedele dava tarihinden itibaren yasal faiz uygulanmasına, sözleşme gereği müvekkillerine verilmesi gereken her bir bağımsız bölüm için teslim süresinin dolduğu tarihten itibaren şimdilik 10.000,00 TL kira alacağının 20.09.2012 tarihinden itibaren yasal faizi ile tahsiliyle, sözleşme gereği %50'si müvekkillerine ait olan otopark kazancının 5 yıldır tahsil edilip
 davacılara ödenmeyen kısmının civardaki emsal otoparklara göre hesaplanarak fazlaya ilişkin hakları saklı kalmak üzere zararın belirlenmesine, 5.000,00 TL bedelin davalıdan alınıp davacılara verilmesine, alacağa dava tarihinden itibaren yasal faiz uygulanmasına karar verilmesini talep etmiş, davacılar vekili 22.12.2021 tarihli ıslah dilekçesi ile talebini 353.225,57 TL’ye ıslah ederek alacağın geç teslim edilen daireler için talep edilen 235.845,69 TL yönünden ihtarnamenin tebliğ tarihi olan 20.09.2012 tarihinden itibaren yasal faizi ile diğer alacaklar yönünden ise dava tarihinden itibaren işleyecek yasal faizleriyle birlikte davalıdan alınarak hisseleri oranında davacılara verilmesini talep etmiştir.
@@ -53,6 +57,8 @@ Dairemiz 2022/4867 Esas, 2023/4194 Karar, 12.12.2023 tarihli bozma ilamı ile �
 (2) numaralı bentte açıklanan sebeplerle davacılar ..., ..., ..., ... vekili ve davacılar ..., ..., ..., ..., ..., ..., ..., ... vekilinin temyiz itirazlarının kabulü ile temyiz olunan İlk Derece Mahkemesi kararının davacılar yararına BOZULMASINA …
 
 ## Yargıtay 6. HD 2025/2997 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1182987700)
 
 Davalı vekili cevap dilekçesinde; ihale aşamasında dava konusu iş kapsamında, ihale dokümanları arasındaki çelişkinin giderilmesini teminen zeyilname düzenlendiğini, buna göre, İnşaat İşleri Mahal Listeleri ile İhale Eki Uygulama Projeleri arasında aşağıda yer alan çelişkilerin tespit edildiği belirtilerek, İnşaat işleri Mahal Listesinde "Salon-Yemek Salonu", "Odalar-Yatak Odaları-Soyunma", "Koridor" mahallerinde döşeme kaplaması olarak Laminat Parke Yer Kaplaması (Özel 1) imalatı yapılması tarif edilmekte iken, ihale eki uygulama projelerinde ise bahsi geçen mahallerde döşeme kaplaması imalatı olarak Lamine Parke Rabıta Yer Kaplaması (özel 49) imalatı yapılmasının tarif edildiğinden bahisle, belirtilen imalatların yapılmasında, inşaat işleri mahal listelerinin mi yoksa uygulama projelerinin mi geçerli olduğu hakkında, ihale dosyasına açıklık getirilmesinin istenildiğini, müvekkili idare tarafından anılan zeyilnameye herhangi bir karışıklığa yer verilmeyecek şekilde "söz konusu imalatlara ilişkin Uygulama Projeleri geçerlidir” denilmek suretiyle cevap verilerek henüz ihale aşamasında ihtilaf konusu çelişkinin giderildiğini, ayrıca, "söz konusu işte uygulama projeleri ve mahal
 listeleri arasında çelişki olan her imalat kaleminde, uygulama projelerinde belirtilen imalatların geçerli olduğu ve yapılacak iş ve işlemlerde bu durumun gözetilmesi” hususunun müşavir firma aracılığı ile yüklenici firmaya bildirildiğini, imalat değişiklik talebinin buna göre düzeltilmesinin istendiğini, götürü bedel sözleşmesi olan işlerde hakedişler, pursantaj oranlarına göre ilerleme oranında ödendiğinden, dava konusu işin 05.11.2017 tarihli 18 nolu hakediş ve devamındaki hakedişlerde, salon odalar ve koridor mahalleri için pursantaj sayfasında belirtilen "halı kaplama, lamine parke, laminat kaplama işleri” imalatının iş ilerlemesi oranında belirlendiğini, salon odalar ve koridor mahallerinde lamine parke yerine laminat parke imalatının yapılmasına 18 nolu hakedişten önce karar verildiğini, bu durumun davacı tarafından da bilindiğini, hakedişlerdeki ödemelerin değiştirilen imalat üzerinden iş ilerlemesi oranında yapıldığını, hakedişlerdeki pursantaj sayfasında döşeme kaplaması olarak "halı, lamine, laminat,” şeklinde her türlü döşeme kaplamasının isimlendirildiğini, dava konusu ihtilaf kapsamında yer alan imalat öncesi sürece ilişkin, 2015/179652 ihale kayıt numaralı dava
@@ -73,6 +79,8 @@ Salon, odalar ve koridor mahallerinde, uygulama projesinde lamine parke rabıta 
 İlk Derece Mahkemesi kararının BOZULMASINA …
 
 ## Yargıtay 6. HD 2024/822 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1058062500)
 
 Davalı vekili cevap dilekçesinde özetle; davalılar ile davacı yüklenici şirketi temsilen şirket ortağı ve münferit imza yetkilisi ... arasında mülkiyeti müvekkillerine ait olan taşınmazlar üzerine inşaat yapılması amacıyla kat karşılığı inşaat sözleşmesinin akdedildiğini, sözleşme gereği davacı yüklenici şirketten olan alacaklara ilişkin karşı dava talep haklarını saklı tuttuklarını, müvekkillerinin davacı şirketin maddi zorluk içerisine düşmemesi amacıyla sözleşme gereği edimlerini yerine getirmemiş olmasına ve borç muaccel olmamasına karşın teminat olan taşınmazı davacı müteahhit firmadan satın alan dava dışı 3. kişiye devrettiğini, ...
 
@@ -95,6 +103,8 @@ Bu hükümler karşısında yüklenicinin edimini ifa edebilmesi için anahtar t
 
 ## Yargıtay 6. HD 2023/165 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/871454400)
+
 Davalı vekili cevap dilekçesinde özetle; davacının sözleşme hükümlerini yerine getirmemiş olması nedeniyle ödeme yapılmamış olduğunu, özel teknik şartnamenin 11. maddesinde işlerin tamamlanıp idareye teslimi, idarenin ve TOKİ'nin kontrolü ve onayından sonra belirtilen iş kalemlerindeki puantaj oranlarına göre hakediş ödemeleri yapılacağının düzenlenmiş olduğunu, TOKİ tarafından yapılan iş ve işlemlerin onaylanmamış olduğunu, davacının TOKİ onayından geçmeyen iş ve işlemlere dayalı olarak alacak talebinde bulunduğunu, idarenin davacıya daha önce birtakım ödemeler yapmasının davacının haklı olduğu anlamına gelmediği gibi davacının sorumluluğunu da ortadan kaldırmadığını belirterek haksız ve kötü niyetli icra takibi başlatıldığını, bu nedenlerle haksız ve yersiz davanın reddine, davacı aleyhine haksız ve kötü niyetli icra takibi nedeniyle takip miktarı üzerinden %20'den aşağı olmamak üzere kötü niyet tazminatına hükmedilmesine karar verilmesini talep etmiştir.
 
 …
@@ -112,6 +122,8 @@ Dairemizin Sayın çoğunluğu, taraflar arasındaki sözleşmenin 11. maddesine
 
 ## Yargıtay 3. HD 2022/6885 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/821525300)
+
 Davacı; sahibi olduğu daireyi dava dışı Kemal isimli şahsa harici satış sözleşmesi ile 07/06/2011 tarihinde 170.000 TL bedel karşılığında sattığını, satış bedelinin bir bölümünün iş karşılığında, geriye kalan bölümünün ise nakit olarak ödeneceğinin kararlaştırıldığını; daha sonra, 31/03/2013 tarihinde dairenin, Kemal isimli kişiden davalı tarafından 33.680TL bakiye borç ile devraldığını, tapusunun kardeşi üzerine devredildiğini ve teslim edildiğini; ayrıca, davalının 21/03/2013 tarihli harici satış sözleşmesi gereğince ödemesi gereken 2.286TL iskan bedelini ödemediğini, bunun üzerine davalı hakkında 35.966TL alacak için icra takibi başlatıldığını, davalının kötü niyetli olarak itiraz ederek takibi durdurduğunu ileri sürerek; itirazın iptali ile takibin devamına ve icra inkar tazminatına hükmedilmesine karar verilmesini talep etmiştir.
 
 Davalı, davanın reddini dilemiştir.
@@ -128,6 +140,8 @@ SONUÇ: Yukarıda açıklanan nedenlerle hükmün HUMK'nın 428. maddesi gereği
 
 ## Yargıtay 15. HD 2020/111 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/567007100)
+
 Dava, eser sözleşmesi niteliğindeki kat karşılığı inşaat sözleşmesinden kaynaklanan tazminat istemine ilişkindir.
 
 Davacı taraf talebinde özetle; davalılarla aralarında 13.02.2014 tarih ve 03443 yevmiye nolu Kat Karşılığı İnşaat Sözleşmesi düzenlendiği sözleşme gereğince kendisine teslim edilecek dükkanların asgari yüksekliğinin dört metreden az olmayacağının kararlaştırıldığını, dükkanlardan çatıya kadar baca yapılmasının, kapalı otoparka kadar asansörün inmesinin, kombi dışında ek olarak merkezi ısıtma sisteminin yapılmasının kararlaştırılmasına rağmen bunların yerine getirilmediğini, sözleşmenin 3. 5. maddesi gereğince sözleşmeye aykırı ifa durumunda 500.000 USD ceza kararlaştırıldığını belirterek davalılardan tahsiline karar verilmesini talep etmiştir.
@@ -142,6 +156,8 @@ SONUÇ: Yukarıda açıklanan nedenlerle temyiz itirazlarının kabulüyle hükm
 
 ## Yargıtay 15. HD 2018/2798 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/431516300)
+
 Davacılar 1-... 2-... 3-...
 
 …
@@ -154,6 +170,8 @@ Sözleşmede, arsa sahibine kalacak bağımsız bölümlerin yükleniciye bırak
 SONUÇ: Yukarıda 1. bentte açıklanan nedenlerle davacı-birleşen dosya davalısı arsa sahipleri ile bağımsız bölüm maliklerinin tüm, davalı-birleşen dosya davacısı yüklenicinin diğer karar düzeltme taleplerinin reddine, 2. bent uyarınca kabulü ile Yargıtay 23. Hukuk Dairesi'nin 28.06.2016 gün 2015/6099 Esas 2016/4077 karar sayılı bozma ilâmının 2. numaralı bendinden sonra gelmek üzere 2-a. maddesinin yukarıda açıklanan şekilde ilave edilmesine ve bozma ilâmının 3-a maddesinin yukarıda açıklanan şekilde bozma metninden çıkarılmasına bu şekilde kısmen değiştirilerek BOZULMASINA …
 
 ## Yargıtay 15. HD 2018/2636 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/429634500)
 
 Davacı .... ile davalılar 1-... 2-... 3-... arasındaki davadan dolayı ...
 
@@ -168,6 +186,8 @@ SONUÇ: Yukarıda 1. bentte açıklanan nedenlerle davacının diğer karar düz
 
 ## Yargıtay 15. HD 2017/2784 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/353703800)
+
 Davacı şirket ile davalı kooperatif arasında imzalanan 60 dairelik kaloriferli ve asansörlü konut inşaatı anahtar teslimi mahal listesidir başlıklı belge ve eki inşaat sözleşmesinin fiyat ve ödemeler başlıklı 2. sayfasının 1. maddesinde; İnşaat maliyetinin Bayındırlık Bakanlığı birim fiyat analizleri esas alınarak, serbest piyasa KDV dahil fiyatları ile %25 müteahhitlik kârı ile hesaplanacaktır denilmek suretiyle imalât bedelinin hesaplama yöntemi gösterilmiştir.
 
 …
@@ -175,6 +195,8 @@ Davacı şirket ile davalı kooperatif arasında imzalanan 60 dairelik kalorifer
 SONUÇ: Yukarıda 1. bentte açıklanan nedenlerle davacı şirketin tüm, davalı kooperatifin diğer temyiz itirazlarının reddine, 2. bent uyarınca kabulü ile hükmün davalı kooperatif yararına BOZULMASINA …
 
 ## Yargıtay 7. HD 2016/14018 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/236516600)
 
 Davacı Sendika vekili, davalı Bakanlık tarafından 26 Haziran 2015 tarih ve 29398 sayılı Resmi Gazete'de yayımlanan 2015/65 sayılı işkolu tespit kararı ile davalı şirketlerin oluşturduğu ortak girişimin ... Ağız ve Diş Sağlığı Merkezi işyerinde yürüttüğü temizlik işlerinin 17 numaralı Sağlık ve Sosyal Hizmetler İşkoluna girdiğinin tespit edildiğini, bu tespitin hatalı olduğunu, zira 6356 sayılı Kanun'un 4 üncü maddesine dayanılarak çıkarılan İşkolları Yönetmeliği'ne göre temizlik hizmetlerinin 20 numaralı Genel İşler İşkoluna girdiğini, aslında işkolu tespit kararında da yapılan işlerin temizlik işi olduğunun kabul ve tespit edildiğini iddia ederek, davalı Bakanlığın 26 Haziran 2015 tarih ve 29398 sayılı Resmi Gazete'de yayımlanan 2015/65 sayılı işkolu tespit kararının iptali ile davalı şirketlerin oluşturduğu ortak girişimin ...
 
@@ -194,6 +216,8 @@ dezenfeksiyon, hastane ve bölüm bazlı temizlik konuları ile 6331 sayılı İ
 SONUÇ: Temyiz olunan kararın yukarıda yazılı nedenlerden BOZULMASINA …
 
 ## Yargıtay 23. HD 2015/6341 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/118932300)
 
 Davacı vekili, müvekkili ile davalı yüklenici arasında imzalanan 22.02.2007 tarihli arsa payı karşılığı inşaat sözleşmesinde, müvekkiline düşen 3 ve 4. katlardaki dairelerin inşaat ruhsatı alındığı tarihten itibaren 1 yıl içerisinde teslim edileceğinin kararlaştırıldığını, inşaat ruhsatının 10.10.2008 tarihinde alınmış olması nedeniyle teslimin en geç 10.10.2009 tarihinde yapılması gerektiğini, ancak teslimin bu tarihte gerçekleşmediğini, bunun üzerine sözleşmeden kaynaklanan toplam 57.700,00 TL kira bedeli ve cezai şart alacağının tahsili amacıyla aleyhinde başlatılan icra takibine karşı davalının haksız yere itiraz ettiğini ileri sürerek, itirazın iptali ile %40 icra inkâr tazminatının tahsilini talep ve dava etmiştir.
 

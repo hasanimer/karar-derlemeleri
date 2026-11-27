@@ -21,6 +21,8 @@ uyari: "Derleyenin seçtiği alıntılardır; kararın tamamı değildir. Künye
 
 ## İstanbul BAM 53. HD 2024/1333 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1094916000)
+
 GEREĞİ GÖRÜŞÜLÜP DÜŞÜNÜLDÜ: Dava, arsa pay karşılığı inşaat yapım sözleşmesinin feshi, düşük nitelikli malzeme ve işçilik nedeniyle uğranılan zararın tahsili, cezai şart, gecikme tazminatı ile eksik ve kusurlu işler nedeniyle uğranılan zararın tahsili, davalının inşaattan el çektirilmesi talebine ilişkindir. Uyuşmazlık, 6098 sayılı Yasanın 470 ve devamı maddelerinde düzenlenen eser sözleşmesinin bir türü olan KKİS'den kaynaklanmaktadır. Davacı arsa sahibi, davalı şirket ise yüklenicidir. Mahkemece, davacı arsa sahibinin ticari ve mesleki amaçlarla hareket etmemesi nedeniyle tüketici sıfatına haiz olduğu belirtilerek Tüketici Mahkemesine görevsizlik kararı verilmiştir. Kat karşılığı inşaat yapım sözleşmelerinde arsa sahibinin amacı arsasını değerlendirmek olup, sözleşmenin niteliği, özellikleri ve hacmi dikkate alındığında davacı arsa malikini tüketici saymak doğru değildir. Eser sözleşmesi Türk Ticaret Kanunu'nda düzenlenen hususlardan olmadığı gibi, davacı da tacir olmadığından mahkemece Asliye Hukuk Mahkemesine görevsizlik kararı verilmesi gerekirken, yanılgılı değerlendirmeyle Tüketici Mahkemesine görevsizlik kararı verilmesi hatalı olmuştur.
 O halde, mahkemece Asliye Hukuk mahkemesine görevsizlik kararı verilmesi gerekirken Tüketici mahkemesine verilen görevsizlik kararı usul, yasa ve dosya kapsamına aykırı olduğundan kararın kaldırılması gerekmiştir.
 
@@ -29,6 +31,8 @@ O halde, mahkemece Asliye Hukuk mahkemesine görevsizlik kararı verilmesi gerek
 HÜKÜM: Gerekçesi yukarıda açıklandığı üzere; 1-Davalı vekilinin istinaf başvurusunun KABULÜNE, 2-BAKIRKÖY 4. ASLİYE TİCARET MAHKEMESİ'nin 09/07/2024 tarih, 2024/245 Esas, 2024/567 Karar sayılı kararının KALDIRILMASINA …
 
 ## Antalya BAM 7. HD 2024/571 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1033496800)
 
 Davacı/ karşı davalı kooperatif vekili, davacı/ karşı davalı kooperatifin arsa sahipleri ile arasındaki sözleşme uyarınca edimlerini yerine getirerek, genel iskanı almak suretiyle teslimi gerçekleştirdiği, kooperatifin üyelerinin talepleri doğrultusunda yapmış olduğu farklı imalatların arsa sahiplerine düşen bağımsız bölümlere yapılmadığını iddia ederek, değer farkı talep edilmesinin sözleşmeye dayalı hiç bir dayanağının bulunmadığı, arsa sahiplerinin inşaat ruhsatını yenilemeye yanaşmamaları nedeniyle genel iskanın alınmasının geciktiği, yapılan keşif sırasında hiç bir eksiklik görülmediği halde, delil tespit dosyasındaki itiraz ettikleri rapora istinaden bu rapor esas alınarak, maddi gerçeğe ve yasaya aykırı tespitlerde bulunulduğu, eksik inceleme ve araştırma neticesinde hüküm kurulduğu, yapılan değerlendirmelerin dosya kapsamına ve somut gerçeğe aykırı olduğu, yaptıkları fazla imalatların ortak alanlarla ilgili olduğu ve yüklenicinin de bu imalatlardan yararlandığı gerekçesiyle, tespit edilen fazla imalat bedeline yönelik taleplerinin reddine karar verilmesinin yerinde olduğu, bilirkişi raporunun hükme esas alınamayacağı, eksik ve ayıplı imalatın söz konusu olmadığı, kabul
 anlamına gelmemek üzere belirlenen eksik iş bedelinin en fazla 1/2 bağımsız bölüm değerine karşılık gelmesi itibarıyla, arsa sahibinin alacağına karşılık 1/2 adet bağımsız bölümü uhdesinde tutması mümkünken, 12 adet bağımsız bölümün tapusunu yıllarca adeta rehin almasının hakkın suistimali niteliğinde olduğu, bu husus gözden kaçırılarak yargılama giderleri ve vekalet ücretine lehlerine hükmedilmemesinin usule, yasaya ve hakkaniyete aykırı olduğu, karşı dava dilekçesinde talep edilmeyen eksik ve ayıplı iş alacaklarının karşı davada hüküm altına alınmasının hatalı olduğu, birleşen dava davacısı olan şirketle aralarında adi ortaklık sözleşmesi bulunduğu, davalı şirketin inşaata herhangi bir finansman katkısının olmadığı, aleyhlerine verilen mahkeme ilamına dayalı olarak ödemeler kooperatif tarafından yapılmasına rağmen, şirket tarafından kendilerine herhangi bir ödeme yapılmadığı, bu nedenle birleşen dosyadaki davacı şirketin tapu talep etme hakkının bulunmadığı, şirket adına tescile karar verilmesinin hatalı olduğu, aralarındaki adi ortaklığın feshi ve tasfiyesi amacıyla açılan ve derdest olan davanın, bu dava yönünden bekletici mesele yapılması, aksi görüş halinde birleşen davanın
@@ -47,6 +51,8 @@ Davalı / karşı davacı ... vekili, yüklenici davacıların kat karşılığ�
 Yerel mahkemenin, Antalya 2.Asliye Ticaret Mahkemesinin ... Esas sayılı dosyası ve Antalya 5.Asliye Hukuk Mahkemesinin ... Esas sayılı dosyası üzerinden açılan davalarda verdiği kararların esası incelenmeksizin ORTADAN KALDIRILMASINA ve davanın yeniden görülmesi için dosyanın kararı veren mahkemeye GÖNDERİLMESİNE …
 
 ## İzmir BAM 14. HD 2023/1433 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/944606200)
 
 Davacı vekili dava dilekçesinde özetle; "Taraflar arasındaki 09/07/2018 tarihli eser sözleşmesi gereğince; ... İli, ... İlçesi, ...
 
@@ -68,11 +74,15 @@ Ayrıca; yerleşik yargı uygulamalarında, sözleşmeye göre yapılması gerek
 
 ## İstanbul BAM 15. HD 2023/185 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/872147300)
+
 Sözleşmenin 9.20 maddesinde; sözleşme sonrası arsanın mevcut imar durumu 2.5 emsalde emsal transferi uygulaması ile 5 emsale çıkarılacağı, emsal transferi için yapılacak harcamaların tamamının yüklenici tarafça ödeneceğinin kabul ve taahhüt edildiği, emsal transferi sonrası arsaya yapılacak inşaatın satılabilir toplam inşaat alanın kanopiler dahil 30.000 metrekareden az olamayacağı, arsa sahibiyle yapılan anlaşma gereğince asgari inşaat alanının 30.000 metrekare inşaat üzerinde olduğu, toplam inşaat alanının 30.000 metrekareden az olması durumunda arsa sahibinin bu durumdan etkilenmeyeceği, fakat inşaat alanı 30.000 metrekarenin üzerinde olması durumunda bu artış hisseleri oranında paylaşılacağı belirlenmiştir.
 07/01/2016 tarihli ek protokolün 2.maddesi ile, sözleşmenin 3.5.maddesinde düzenlenen cezai şart miktarı 16.000.000 TL olarak değiştirilmiş olup, sözleşme tarihinden itibaren sözleşmede belirtilen sürede inşaat bitirilip teslim edilmez ise arsa sahibinin bu bedeli sözleşme imzası ve devamı aşamasında sözleşme gereğince yükleniciler tarafından kendisine ödünç olarak verilen bedellerden mahsup edeceği, iş bu cezai şartın yüklenicinin edimini hiç yerine getirmemesi halinde ödeneceği, yüklenici edimini yerine getirmiş ancak ifada gecikmiş ise, sözleşmede ifada gecikme süresinin ana sözleşmede belirtilen inşaat bitirilip teslim tarihinden sonra en fazla 6 ay olacağı, ana sözleşmede ifada gecikmenin hukuki sonuçları düzenlenmiş olmakla ayrıca bu cezai şartın 6 ay boyunca ödenmeyeceği fakat 6 ayın sonunda inşaat halen bitirilmeyip ana sözleşmeye göre teslim edilmemesi durumunda cezai şartın alınan ödünç tutardan mahsup edileceği düzenlenmiştir.
 Dosyada bulunan tapu kayıtlarından inşaatın tamamında 496 adet mesken ile 32 adet ticari bağımsız bölüm yapıldığı, bu bağımsız bölümlerden 96 adet mesken niteliğindeki bağımsız bölüm ile 5 adet ticari nitelikteki bağımsız bölümün davacı şirket adına kayıtlı olduğu anlaşılmaktadır.
 
 ## İstanbul BAM 15. HD 2022/1427 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/805818100)
 
 07/01/2016 tarihli ek protokolün "Sözleşmenin 3.5.maddesinde düzenlenmiş cezai şart miktarı 16.000.000 TL olarak değiştirilmiş olup, sözleşme tarihinden itibaren sözleşmede belirtilen sürede inşaat bitirilip teslim edilmez ise arsa sahibi bu bedeli sözleşme imzası ve devamı aşamasında sözleşme gereğince yükleniciler tarafından kendisine ödünç olarak verilen bedellerden mahsup edileceği, iş bu cezai şart yüklenicinin edimini hiç yerine getirmemesi halinde ödeneceği, yüklenici edimini yerine getirmiş ancak ifada gecikmiş ise sözleşmede ifada gecikme süresi bu süre ana sözleşmede belirtilen inşaat bitirilip teslim tarihinden sonra en fazla 6 ay olacağı ana sözleşmede ifada gecikmenin hukuki sonuçları düzenlenmiş olmakla ayrıca bu cezai şart 6 ay boyunca ödenmeyeceği fakat 6 ayın sonunda inşaat halen bitirilmeyip ana sözleşmeye göre teslim edilmemesi durumunda cezai şart alınan ödünç tutardan mahsup edileceği" nin düzenlendiği, Büyükçekmece ... Noterliği'nin 09/03/2016 tarih, ... ve ... yevmiye numaralı tutanakta ... ada, ... ve ... parsel sayılı yerlerin arsa sahipleri ... Ve ...
 AŞ. tarafından yüklenici adi ortaklık yetkilisine inşaat yapımı için teslim edildiğinin tutanak altına alındığı, Esenyurt Belediye Başkanlığınca ... ada, ... ve ... parsel sayılı yerlere ait 18/11/2016 tarihli yapı ruhsatı verildiğinin görüldüğü, böylece yüklenici tarafından taahhüt edilen sürenin aşıldığı, yapı ruhsatını en geç 19/04/2016 tarihine kadar alınmış olması gerekirken 18/11/2016 tarihinde 7 ay gecikmeyle alındığı, sözleşmenin 6.3.maddesi ve ek protokol gereğince inşaatın 19/10/2018 tarihinde tamamlanmış ve teslim edilmiş olması gerektiği halde, keşif günü inşai faaliyetlerin halen devam etmekte olduğu, yüklenicinin 19/10/2019 tarihinde tamamlaması ve teslim etmesi gerektiğinden ek protokolün 2.maddesi gereğince 16.000.000TL'lik cezai şartın yerine getirilmesinin mümkün olduğunun ve 14/05/2019 tarihi itibariyle inşaatın %50'sinin tamamlandığının belirlendiği anlaşılmaktadır Dosya kapsamında bulunan ve mali müşavir ..., inşaat mühendisleri ... ile ... ve hukukçu Prof.Dr. ...
@@ -85,6 +95,8 @@ Maddelerindeki ödemelerin yapılacak inşaata ilişkin olduğu, 3.5.maddede dü
 HÜKÜM: Gerekçesi yukarıda açıklandığı üzere; Asıl davada;1-Davalılar vekilinin istinaf başvurusunun KABULÜNE, 2-Bakırköy 3. Asliye Ticaret Mahkemesi'nin 26/05/2022 tarih, 2019/964 Esas sayılı "davalılar vekilinin ihtiyati tedbir kararının kaldırılmasına ilişkin talebin reddine" dair ara kararının KALDIRILMASINA …
 
 ## İstanbul BAM 12. HD 2020/1221 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/615813700)
 
 …
 

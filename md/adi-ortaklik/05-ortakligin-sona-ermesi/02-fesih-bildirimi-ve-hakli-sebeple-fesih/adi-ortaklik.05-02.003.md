@@ -22,6 +22,8 @@ uyari: "Derleyenin seçtiği alıntılardır; kararın tamamı değildir. Künye
 
 ## Ankara BAM 27. HD 2025/662 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1152051400)
+
 …
 
 davacının 421.334,95 TL+KDV olmak üzere 497.175,24 TL fiilen yerine getirdiği iş tutarı olduğu, bu miktardan davalılarca yapılan ödemelerin ve davacı adına SGK ya yapılan ödemelerin mahsubu sonucu davacının bakiye 27.302,06 TL bakiye iş alacağının bulunduğu
@@ -41,6 +43,8 @@ nun hüküm altına alındığı, müvekkilin adi ortaklık hesaplarından davac
 
 ## İzmir BAM 11. HD 2025/196 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1118245800)
+
 Dava, itirazın iptali istemine ilişkin olup, ilk derece mahkemesince yukarıda yazılı gerekçeyle davanın kısmen kabulüne, fazlaya ilişkin talebin reddine karar verilmiştir.
 
 …
@@ -51,6 +55,8 @@ Nitekim, İDM tarafından, taraflar arasındaki hukuki ilişkini adi ortalık ol
 
 ## İstanbul BAM 13. HD 2025/82 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1117725200)
+
 Anonim Şirketi'nin ortaklığından oluştuğunu, müvekkili adi ortaklık ile dava dışı borçlu ... arasında imzalanan "Tekirdağ Kapaklı Lonca Sanayi Merkezleri Cephe İşleri Sözleşmesi" uyarınca Lonca Sanayi Merkezi Projesi'nin ilk etabından oluşan 2 blokun "Alüminyum pencere ve Alüminyum kapı yapılması, Kompozit Panel Cephe Kaplama" işlerinin yapılması, her türlü malzeme, işçilik, genel gider, yüklenici kari dahil, mimari ve uygulama projeleri, teknik şartnameler, talimatlar, standartlar ve yönetmelikle uygun olarak yapılması hususunda sözleşme akdedildiğini, taraflar arasında akdedilen sözleşme gereğince işe başlama tarihi ise sözleşmenin 8.1.maddesinde düzenlenmiş olup işe başlama süresi müvekkil tarafından yer teslimi yapılmasıyla başlanması kararlaştırıldığını, yine taraflar arasında akdedilen sözleşme gereğince işin bedeli 15.000.000-TL (OnbeşMilyon) + KDV olarak belirlendiğini, iş bu bedelin 10.000.000-TL (OnMilyon) tutarı avans, kalan bakiye ise hak edişe istinaden yapılması kararlaştırıldığını, avans olarak müvekkili, ...'ne, 750.000-TL nakit (banka hesabına) toplam 9.000.000-TL tutarında keşide tarihleri farklı olan müvekkil adi ortaklığın yine müvekkil ortakları tarafından
 keşide edilen çeklerle ödendiğini, müvekkillerinin sözleşme gereğince tüm yükümlülüklerini yerine getirmiş, yer teslimi yaptığını, avans ödemelerini sözleşme gereğince teslim ettiğini, müvekkillerinin saha ekibi tarafından ...'ne, işe başlanması hususunda terkinlerde bulunulmuş olsa da ... tarafından sözleşmede taahhüt ettiği yükümlülüğünde olan hiç bir işe başlamadığı tespit edilmiştir. Müvekkillerce iş bu durum ...'ne bildirilmiş ... ise müvekkilleri oyalamaktan öteye geçmediğini, ...'nin sözleşmeye aykırı hareket etmesi müvekkillerce telafisi güç zararlar doğmasına sebebiyet verdiğini ve sözleşmenin feshi konusunda ... ile görüşmüş ve taraflar arasında akdedilen "Tekirdağ Kapaklı Lonca Sanayi Merkezleri Cephe İşleri Sözleşmesi" ...'nin sözleşmeye aykırı davranmasından dolayı feshedildiğini, fesih taraflarca protokole bağlandığını, fesih protokolü gereğince dava dışı ...
 
@@ -58,6 +64,8 @@ Yapı almış olduğu 750.000-TL nakit, 4.000.000-TL tutarındaki ödenmiş çek
 Esas sayılı dosyasından uygulanarak ihtiyati hacizler işlenilmiş ve esasa geçildiğini, bahse konu çekte bahse konu uyuşmazlık kapsamında olduğunu, takibe konu ... Bankası Beylikdüzü Şubesine ait, ... Seri Nolu, 15/10/2024 Keşide Tarihli, 1.000.000-TL Bedelli Çekten kaynaklı müvekkillerin borcu bulunmadığını, takibe konu çek, yukarıda belirtildiği üzere sözleşme feshi protokolü gereğince dava dışı borçlu ... tarafından müvekkillere teslim edilmesi gerekirken kötü niyetli olarak ve açılan menfi tespit davasından verilen tedbir kararının etkisiz kılmak amacıyla alacaklı ...'ne cirolandığını, takibe konu çek; 30/09/2024 tarihli fesih protokolüne rağmen, dava dışı ... yapı tarafından Alacaklıya cirolanmış olduğunu, çekin ciro silsilesinde kopukluk olduğu, dava dışı ... Yapı'nın ilgili çeki kötü niyetle Alacaklıya ciroladığı, Alacaklının yetkili ve iyi niyetli hamil olmadığı mevcut somut deliller ile sabit olduğunu, alacaklı ..., 05/09/2023 tarihinde ... Mah. ... Sk. No: ... İç Kapı No: ...
 
 ## İstanbul BAM 3. HD 2024/2280 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1063786600)
 
 Asliye Ticaret Mahkemesinin 2024/146 Esas sayılı dosyasında ise duruşma açılmaksızın 19/02/2024 tarihinde görevsizlik kararı verilmekle dava dosyasına bakmakla görevli olan mahkemenin Büyükçekmece Asliye Hukuk Mahkemesi olduğuna karar verildiğini,ortaya çıkan olumsuz görev uyuşmazlığı sebebiyle yargılamanın salahiyeti için görevli ve yetkili mahkemenin İstanbul Bölge Adliye Mahkemesi tarafından tespit edilmesi gerektiğini belirterek kararı istinaf ettiklerini beyan etmiştir. 6100 sayılı HMK'nun 355 md gereğince, istinaf sebepleri ile sınırlı olarak yapılan incelemeye göre; Dava, adi ortaklıktan kaynaklı kar payı tespit ve tahsili ile adi ortaklığın fesih ve tasfiye talebine yöneliktir. Büyükçekmece Asliye Hukuk Mahkemesi tarafından görevli mahkemenin Bakırköy Asliye Ticaret Mahkemesi olduğundan bahisle görevsizlik kararı verildiği,Bakırköy Asliye Ticaret Mahkemesi tarafından ise karşı görevsizlik kararı verildiği,karşı görevsizlik kararının davacı tarafça istinaf edildiği anlaşılmıştır. Davalı ... ile diğer davalı ...'nın diğer davalı davalı ... Dış Ticaret Limited Şirketinin kurucusu ve ortağı olduğu,davacıların da tacir olup olmadıklarının araştırıldığı görülmüştür.
 Büyükçekmece 6. Asliye Hukuk Mahkemesinin 2023/55 Esas sayılı dosyasında; ..., ... tarafından davalı ..., ... ve ... Dış Ticaret Limited Şirketi aleyhine alacak istemli açılan davada, davacı ...'nun ve davalı ... Limited şirketinin tacir ve ticari şirket olup her iki tarafın da tacir olduğu dolayısıyla davanın nisbi ticari dava niteliği taşıdığı, adi ortaklık iddiasının limited şirket üzerinden elde edilen kazancın paylaşılmasına ilişkin olduğu ve nisbi ticari dava niteliği taşıdığı gerekçesi ile davnın görevsizlik nedeniyle usulden reddine ve dosyanın görevli ve yetkili olan Bakırköy Asliye Ticaret Mahkemesine gönderilmesine karar verilmiş isede,davadaki tarafların tamamının tacir olmadığı,davalı ... ile diğer davalı ...'nın diğer davalı davalı ... Dış Ticaret Limited Şirketinin kurucusu ve ortağı olduğu belirlenmiştir. Dava, adi ortaklığın fesih ve tasfiyesi taleplerine ilişkindir.
@@ -67,6 +75,8 @@ Yine, 6102 Sayılı Türk Ticaret Kanunu'nun 19/2. maddesi uyarınca, taraflarda
 
 ## Ankara BAM 13. HD 2024/977 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1042427400)
+
 Dava, adi ortaklığın feshi ve tasfiyesi istemlerine ilişkindir.
 
 …
@@ -74,6 +84,8 @@ Dava, adi ortaklığın feshi ve tasfiyesi istemlerine ilişkindir.
 Ankara Batı Asliye Ticaret Mahkemesi ise; iş bu davada tarafların tacir olmadığı gibi dava, adi ortaklığın fesih ve davası olup TTK 'nın 4/1c maddesindeki davalardan da olmadığı, bu haliyle davanın görüm ve çözüm yerinin Asliye Hukuk Mahkemesi olduğu gerekçesiyle görevsizlik kararı vermiştir.
 
 ## İzmir BAM 11. HD 2024/759 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1017106600)
 
 Dava, TTK'nun 638 maddesi gereğince haklı sebeplere dayalı olarak şirket ortaklığından çıkma ve dağıtılmayan şirket net dönem karları ve gayrimenkullerin davacıya düşen kısmının parasal karşılığının tahsili istemine ilişkin olup, ilk derece mahkemesince yukarıda yazılı gerekçeyle davanın reddine karar verilmiştir.
 
@@ -85,20 +97,28 @@ Limited şirketler için yasada haklı nedenler açıkça belirtilmemiş ise de,
 
 ## İstanbul BAM 13. HD 2024/257 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/995074200)
+
 Şirket yönetim organının belirleyeceği bağımsız denetçi veya yeminli mali müşavirler tarafından şirket varlıklarının değerini ve bu değerin borç ve yükümlülükleri karşılamak için yeterli olup olmadığını, şirketin mali durumunu, ortaklık yapısı ile piyasa koşulları ve şirketin diğer sorunları hakkındaki tespitini içeren mali durum raporu hazırlanır. Bu rapor şirket yönetim organı tarafından da hazırlanabilir. Hazırlanan rapor, görüşü ile birlikte şirket yönetimi tarafından Bakana sunulur. Mali durum, ortaklık yapısı, piyasa koşulları veya diğer sebepler nedeniyle şirketin mevcut halinin sürdürülebilir olmaması halinde şirketin, şirket varlıklarının veya malvarlığı değerlerinin satılmasına veya feshi ile tasfiyesine Bakan tarafından karar verilebilir. (2) Bakan tarafından satış veya fesih ile tasfiyeye karar verilmesi durumunda yönetim organınca gerekli işlemler yapılır.Fon Kurulu'nun 21/12/2018 tarih ve 2018/696 sayılı kararı incelendiğinde;''....Adi Ortaklığı (%40) ve ... Anonim Şirketi (%22,50) hisselerinin önerge ekinde sunulan taşınmazların ... Tic. A Ş. ve .... Tic. A Ş. Adına tapuda tescili ve diğer şartlar dahilinde ... ve ...
 Gruplarına devredilmesinin yararlı uygun olacağı, ... Anonim Şirketi ,... A.Ş. Ve ... A.Ş. Tarafından önerge ekinde sunulan taşınmazların ... A.Ş. Ve ... A.Ş.ye ait :-... Adi Ortaklığındaki %40 oranındaki,-... AŞ.deki %22,50 oranındaki Hisselerin (... Ticaret A.Ş. Ve ... Ticaret A.Ş.nin Vadistanbul projesinde sahip oldukları hisselerin ) ... Anonim Şirketi ve ... A.Ş. Ne devredilmesi hususunda şirketlerin yönetim kurullarına izin verilmesine karar verilmiştir,'' şeklinde karar alındığı ve kayyım heyetinin bu karara istinaden davalılara hisse satış ve devrini yaptığı anlaşılmıştır.TTK.nun 408. maddesinde genel kurulun devredilemez görev ve yetkilerinin arasında, Önemli miktarda şirket varlığının toptan satışına ilişkin karar alınmasının bulunduğu açıkça düzenlenmiştir. İstinafa konu davada genel kurula ait bu yetki ve görev anılan düzenlemeler uyarınca Tasarruf Mevduatı Sigorta Fonu Fon Kurulununca verildiği gözetildiğinde;
 
 ## İstanbul BAM 3. HD 2023/3306 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/953821300)
 
 Buna göre, dava tarihindeki tarifeye göre dava değerin üzerinden nispi karar harcı alınması gerekirken tevzi formu ve harç tahsilat makbuzunun tetkikinde, sadece 59,30 TL maktu karar harcı alındığı , eksik harç tamamlanmadan davanın karar bağlandığı anlaşıl- maktadır.İlk derece mahkemesince eksik harcın ikmali yönünden bu hususta davacıya kesin süre verilip ihtarat yapılması ve sonucuna göre hüküm tesisi gerekirken, eksik harç tamamlanmadan yargılamaya devam olunması usul ve yasaya aykırı bulunmuştur. B-Esasa ilişkin olarak; Dosya içeriğine göre; taraflar arasında davalının yüklenicisi olduğu inşaata davacı tarafça sermaye yatırılması karşılığında davacının davalı tarafın inşaattan elde edeceğe kar payına % 50 oranında ortak olması hususunda ortaklık ilişkisi kurulduğu anlaşılmaktadır. Bilahare taraflar arasındaki anlaşmazlık nedeniyle davacı tarafça , davalı aleyhine Büyükçekmece 3. Asliye Hukuk Mahkemesi'nde 2021/340 E.
 Sayılı fesih ve tasfiye davasının açıldığı ve davanın henüz derdest olduğu, ayrıca ortaklığın tasfiyesi ile ilgili olarak dava konusu anlaşmanın yapıldığı anlaşılmaktadır.İş bu dosyaya konu tasfiye anlaşmasının, adi ortaklığın fesih ve tasfiyesine konu davanın da sonucunu etkileyip etkilemeyeceği, aralarındaki bağlantı nedeniyle davaların birleştirilip birleştirilmeyeceği, davacı tarafça yapılan ödemelerin dava konusu senet veya davalının istinaf dilekçesinde belirtilen Büyükçekmece 2. Asliye Hukuk mahkemesi'nin 2021/345 Esas sayılı dosyası kapsamında yapılmış ödemeler olup olmadığının değerlendirilmesi, hasıl olacak sonuç dairesinde karar tesisi gerekirken eksik inceleme ile yazılı şekilde karar tesisi usul ve yasaya aykırı bulunmuştur.Açıklanan nedenlerle; davacının istinaf başvurusunun HMK 352/1-b, 346 gereğince süre yönünden reddine, davalının istinaf başvurusunun kabulü ile kararın HMK 353/1-a-4-6, 355 maddesi uyarınca kaldırılmasına, yeniden yargılama yapılmak üzere dosyanın ilk derece mahkemesine geri gönderilmesine karar verilmesi gerekmiştir.
 
 ## İstanbul BAM 3. HD 2023/1836 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/907220600)
+
 HARÇLAR İLE İLGİLİ OLARAK; Dava, adi ortaklığın fesih/tasfiyesi talebine ilişkindir. Yargıtay 3. Hukuk Dairesi'nin 2016/654 E., 2016/2215 K. Tarihli, 18.02.2016 tarihli ilamında "...mahkemece, tarafların .... adı ile birlikte işlettikleri adi ortaklığın tasfiyesine, mal varlığının esa- sını işletmede tasfiye sırasında mevcut nakit ve nakit gibi tedavülü olan altından oluştuğu tespit edilen adi ortaklığın son mevcudunun değeri olan ... TL'nin 1/2'si olan... TL'nin davalı dan tahsili ile davacıya verilmesine" karar verilmiştir. Dava konusu hakkın değerinin para ile ölçülebilen haklardan olduğu açıktır. Dava, 492 sayılı harçlar Yasasının 16.maddesi ile 1 sayılı tarifedeki nisbi esas üzerinden harca tabidir. Bu nedenle dava değeri üzerinden hesaplanacak nisbi karar ve ilam harcının 1/4'ü anılan Yasanın 28.maddesi uyarınca peşin olarak alınıp tamamlandıktan sonra yargılamaya devam olunması gerekir.
 Hal böyle olunca mahkemece, yargı işlemlerinden alınacak harçlar ödenmedikçe sonraki işlemlerin yapılamayacağını öngören Harçlar Kanunu 32.maddeye aykırı olarak, başlangıçta dava açılması sürecinde alınan harçla yetinilerek davaya eksik harçla bakılması ve hüküm verilmesi doğru görülmemiştir." denilerek kararın bozulmasına karar verilmiştir. Somut olayda, davacı sadece fesih ve tasfiye talebinde bulunmuş mahkemece de bu yönde karar verilmiştir. Sermaye, kar payı vs alacak talebi ile bu yönde bir hüküm de yoktur. Bu durumda davanın maktu harca tabi olduğu değerlendirilmiştir.
 
 ## Ankara BAM 27. HD 2023/1318 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/977295500)
 
 İlk derece mahkemesince; Alınan bilirkişi raporları ve tüm dosya kapsamına göre; ... ile ... İnşaat A.Ş. ve ... A.Ş.'den oluşan İş Ortaklığı arasında Türkiye-Yunanistan Doğalgaz Boru Hattı Projesi Faz-1 Kara Kısmının Yapımı İşi için 01.07.2005 tarihli sözleşmenin imzalandığı, sözleşme kapsamında yer tesliminin 08.07.2005 tarihinde yapılarak yüklenici İş Ortaklığınca işe başlandığı, çalışmalar devam ederken sözleşmenin iş sahibi ... tarafından tek taraflı olarak 07.11.2006 tarihinde feshedildiği, yüklenici İş Ortaklığının işin yapımı sırasında iş programının gerisinde kaldığı, taahhütlerini yerine getirmediği, işin ilerlemesi konusunda gerekli ivmenin yakalanamadığı, sözleşme ile belirlenen teslim süresi üzerinden 1 aydan daha fazla süre geçmesine rağmen işin, sadece hakediş bazında fesih tarihi itibariyle %54,45 oranında gerçekleştirilebildiği, yüklenici iş Ortaklığının mali acz içinde bulunduğu, işin Avrupa Yakası kısmına hiç başlanmadığı, yüklenici İş Ortaklığının temerrüde düştüğü anlaşılmaktadır.
 Taraflar arasında düzenlenen 01.07.2005 tarihli sözleşmenin 26. maddesi, 27. maddesi, 3.18. maddesi, 4735 sayılı Kamu İhale Sözleşmeleri Kanununun 19,20 ve 21. maddeleri ile YİGŞ'nin 47/2. maddeleri dikkate alındığında iş sahibi ... tarafından sözleşmenin haklı sebeplerle feshedildiğinin kabulü gerekir. Sözleşme, iş sahibi ... tarafından sözleşme hükümleri ve ekleri kapsamında haklı sebeplerle tek taraflı olarak feshedilmekle, 01.07.2005 tarihli sözleşmenin 3.18. maddesi 5. fıkrasına göre yüklenici İş Ortaklığının kesin teminat ve ek kesin teminatların gelir kaydedilerek kesin hesabın genel hükümlere göre yapılması gerekmektedir. İş sahibi ...'ın sözleşmeyi haklı sebeplerle tek taraflı olarak feshettiği ve kusursuz olduğu dikkate alındığında fesih tarihinde yürürlükte bulunan 818 sayılı Borçlar Kanunu'nun 108/2. maddesine göre iş sahibi ...'ın sözleşmenin haklı sebepten feshinden doğan menfi zararını talep edebilecektir. İş sahibi ...'ın sözleşme feshinden doğan menfi zararının ise 6.567.255,48 TL olduğu, tüm dosya kapsamı ve özellikle 3. bilirkişi heyetince sunulan 13/09/2017 tarihli ek bilirkişi raporu ile sabittir.
@@ -108,6 +128,8 @@ Bu gerekçelerle yüklenici İş Ortaklığınca sözleşmenin haksız feshedild
 
 ## İstanbul BAM 15. HD 2023/897 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/931794700)
+
 Noterliği’nin 08/09/2022 tarih ve ... yevmiye numaralı tespit tutanağı) göz önünde bulundurulduğunda, yüklenici iş ortaklığının işi yürütmede gecikmeye girmiş olması seebiyle işi zamanında gerektiği gibi teslim edemeyeceğinin açık olduğunu, halihazırda işe başlamada gecikmeye girmiş olmaları, covid-19 pandemisi ve inşaat sektöründe ekonomik dalgalanmalar dikkate alınarak iyi niyetlerle yükleniciye bir defaya mahsus süre verilmişse de yüklenici iş ortaklığının mevcut durumda işi bitiremeyeceğinin açık hale geldiğini, bu nedenlerle İzmir Konak Karma Projesi Arsa Satışı Karşılığı Gelir Paylaşımı İşi Sözleşmesinin müvekkili şirket tarafından haklı nedenle feshedildiğini ve fesih ihbarnamesinin yüklenici adi ortaklık ve ortaklarına Beşiktaş 26. Noterliği'nin 13/09/2022 tarih ve ...yevmiye numaralı ihtarname ile bildirildiğini, İzmir 2.
 Asliye Ticaret Mahkemesi'nin 2022/202 D.İş sayılı dosyası ile delil tespiti taleplerinin kabul edildiğini ve inşaatın geldiği seviyenin tespit ettirildiğini, gelinen noktada proje sahasında geçici iksa imalatlarının belli seviyede yapılmış olması ve müvekkili şirketin kurumsal itibarı açısından bir an evvel projenin kaldığı yerden devam edebilmesi adına yeniden proje inşasına başlanması gerektiğini, bu kapsamda müvekkili şirketin, projeyi yeniden ihaleye açtığını ve yeni yüklenici ile sözleşme imzaladığını, halen Adi Ortaklığın pilot ortağı olan İlk İnşaat'a ait malzeme ve iş ekipmanlarının sahayı işgal ettiğini, yine İlk İnşaat'ın güvenlik ve satış ofisi çalışanlarının sahadaki mevcudiyetini koruduğunu, sözleşmenin feshedildiği Eylül 2022 ayından itibaren müvekkil şirket tarafından defaetle şantiye sahasının boşaltılması ikazında bulunulmuşsa da (Üsküdar 17.
 
@@ -116,6 +138,8 @@ Projesi'nin şantiye sahasının boşaltılmasına yönelik olarak ihtiyati tedb
 teminat alınmamasına da karar verebileceği, somut olayda aleyhine tedbir istenilen iş ortaklığının sözleşme kapsamında projenin inşasında bir kısım işin yapılmasından sonra davalı adi ortaklığın ortakları arasındaki iç ilişkiden kaynaklı inşaai faaliyetlerin durmuş olması, sözleşmenin bu nedenle feshedilmiş olması, dava dışı başka bir yüklenici sözleşmesinin yapılmasına aleyhine tedbir istenilen iş ortaklığının sebebiyet vermiş olması hususları hep bir arada değerlendirildiğinde teminat alınmasına yer olmadığı vicdani kanaatine ulaşıldığı gerekçesiyle taraflar arasında 05/01/2018 tarihinde "İzmir Konak Karma Projesi Arsa Satışı Karşılığı Gelir Paylaşımı İşi Sözleşmesi" kapsamında;
 
 ## Ankara BAM 27. HD 2023/828 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/918271500)
 
 İlk Derece Mahkemesince;
 "...taraflar arasında yukarıda özellikleri belirtilen sözleşmenin imzalandığı, sözleşmenin 31/10/2016 tarihinde işçi ücretlerinin ödenmemesi, işçilerin çalışmasının engellenmesi, sözleşme hükümlerinin ihlal edilmesi, bağlı işlerin gecikmesine neden olunması gerekçeleri ile davalıların oluşturduğu iş ortaklığı tarafından gönderilen ihtarname ile feshedildiği, davalıların oluşturduğu iş ortaklığı tarafından sözleşmenin feshine gerekçe olarak gösterilen hususlara ilişkin olarak davacıya yapıldığı belirtilen yazılı ve sözlü uyarılara ilişkin herhangi bir bilgi veya belgenin dosya kapsamına sunulmadığı, Toplu Konut İdaresi Başkanlığı tarafından davalıların oluşturduğu iş ortaklığı ile imzalanan ana sözleşme kapsamında uygulanan ceza veya gecikme veya sair nedenlerle hak edişten kesinti yapılmasını gerektiren bir durumun bulunmadığının bildirildiği, davalıların oluşturduğu iş ortaklığı tarafından sözleşme konusu işe ilişkin olarak meydana gelen gecikme sonucunda ortaya çıkan eksiklerin ve varsa ayıpların giderilmesi hususunda sözleşmenin 16. maddesi uyarınca süre verilmesi gerekirken fesih öncesinde buna ilişkin olarak yapılan herhangi bir bildirimin bulunmadığı, açıklanan nedenlerle

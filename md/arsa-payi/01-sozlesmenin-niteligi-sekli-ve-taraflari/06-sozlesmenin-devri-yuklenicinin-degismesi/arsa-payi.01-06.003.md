@@ -22,6 +22,8 @@ uyari: "Derleyenin seçtiği alıntılardır; kararın tamamı değildir. Künye
 
 ## Yargıtay 15. HD 2018/3741 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/454460700)
+
 492 sayılı Harçlar Kanunu’nun 4 sayılı tarifesi 20-a maddesine göre, taşınmazların beyan edilen devir ve iktisap bedellerinden az olmamak üzere emlak vergisi değeri üzerinden devreden ve devralan tarafından ayrı ayrı olmak üzere binde 20 oranında tapu harcı alınacağı düzenlenmiştir. ... Tapu Sicil Müdürlüğü tarafından 04.12.2013 tarihinde verilen cevapta, tescile zorlama kararında bahsi geçen 95 adet bağımsız bölümlerin SS ... Konut Yapı Kooperatifi adına tescilinde 2013 emlak değerinden Harçlar Kanunu 4 sayılı tarifenin 20-a pozisyonuna göre 185.633,40 TL tapu harcı ile 16.625,00 TL döner sermaye harcının malik tarafa, 185.633,40 TL’nin yüklenici tarafa Harçlar Kanunu 4 sayılı tarifenin 20-a pozisyonunda belirtildiği şekilde harç tahakkuk ettirildiği belirtilmiş, söz konusu toplam 387.891,80 TL’nin davacı taşeron tarafından ödendiği anlaşılmıştır.
 Harçlar Kanunu uyarınca taşınmazların tapu devirlerinde tapu harçlarının devreden ve devralan tarafından ayrı ayrı ödeneceği düzenlenmiş ise de, taraflar arasında akdedilen 21.08.2003 tarihli sözleşmenin “Teknik Şartname” bölümünün 11. maddesinde arsa sahiplerinin inşaat bitiminde kendi dairelerinin tapu masraflarını kendilerinin karşılayacağı düzenlenmiş olup, bunun tersi anlamından da davacı taşeronun da kendi dairelerinin tapu masraflarını kendisinin karşılayacağı anlamı çıkmaktadır. İş bu durumda sözleşme ve mahkeme kararı uyarınca davacı taşerona verilmesi gereken 95 adet bağımsız bölümün tapu masraflarının karşılanması davacı taşerona ait olduğu anlaşıldığından …
 
@@ -31,10 +33,14 @@ SONUÇ: Yukarıda açıklanan nedenlerle kararın davalılar yararına BOZULMASI
 
 ## Yargıtay 15. HD 2018/3178 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/446486100)
+
 Davacı gerek asıl gerek birleşen dosyada, davalı-birleşen dosya davalısı arsa sahibine aralarındaki kat karşılığı inşaat sözleşmesine dayanarak dava açmış ise de, davacının ... 5. Noterliği 14.06.2012 tarih ve 13950 yevmiye numaralı devir sözleşmesi ile arsa sahibi ile imzaladığı sözleşmeden doğan hak ve yükümlülüklerini davalı ... İnş. Mim. Tic. Ltd. Şti’ye devrettiği, davalı-birleşen dosya davalısı arsa sahibinin de bu devre muvafakat verdiği anlaşılmaktadır. 6098 sayılı Türk Borçlar Kanunu 205. maddesine göre sözleşmenin devri, bir sözleşmenin hak ve borçlarıyla birlikte bir başkasına devredilmesini ifade eder. Sözleşmenin devrinde üç taraf bulunmaktadır. Bunlar, sözleşmeyi devreden, sözleşmeyi devralan ve sözleşmede kalandır. Sözleşmeyi devreden, bu sözleşmeye ilişkin taraf olması sıfatını terk etmekte, onun yerine üçüncü bir kişi sözleşmeye dâhil olmaktadır. Burada dikkat edilmesi gereken nokta, sözleşmeyi devralanın sözleşmeyi devreden yerine sözleşme ilişkisine tüm hak ve yükümlülükleri kapsar biçimde girmesidir.
 Somut uyuşmazlığımızda da, davacı-birleşen dosya davacısı yüklenici devir sözleşmesi ile davalı-birleşen dosya davalısı arsa sahibi ile imzaladığı kat karşılığı inşaat sözleşmesinin tarafı olma sıfatını kaybetmiştir. Bir subjektif hakkı dava etme yetkisi yani dava hakkı kural olarak o hakkın sahibine ait olup, usul hukukunda bu durum aktif dava ehliyeti olarak adlandırılmaktadır. Davacı-birleşen dosya davacısı yüklenici kat karşılığı inşaat sözleşmesinden kaynaklanan hak ve yükümlülüklerini davalı devralan yükleniciye devretmekle sözleşmenin tarafı olmaktan çıkmış olup sözleşmenin nispiliği ilkesi uyarınca sözleşmeden kaynaklanan haklarını kaybettiği için bunun usul hukukuna yansıması olan aktif dava ehliyetini de kaybettiğinden davalı-birleşen dosya davalısı arsa sahibine karşı dava açamaz. Mahkemece davalı-birleşen dosya davalısı arsa sahibi bakımından davacının aktif dava ehliyeti bulunmadığından açılan her iki davanın reddine karar verilmesi gerekirken, kabulüne karar verilmesi doğru olmamış, kararın belirtilen nedenlerle bozulması uygun bulunmuştur.SONUÇ:
 
 ## Yargıtay 3. HD 2018/3030 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/419753900)
 
 Davacı; davalı ile 15.11.2004 tarihinde alt yüklenicilik sözleşmesini imzaladığını, davalının dava dışı arsa sahibi ile yapmış olduğu kat karşılığı inşaat sözleşmesinde inşaatın 1 bodrum ve 1 tam kat olarak yapımının kararlaştırıldığını, ancak proje aşamasında 1 bodrum ve 2 tam kat olarak projelendirildiğini, bu fark nedeniyle 311 ada 1 parselde 1.000.000 USD'lik fazladan iş yaptığını, davalının sözleşmenin 5. maddesinin L bendi ile fazladan yapmış olduğu imalatın bedelinin 1.000.000 USD olduğunu kabul ettiğini, ancak gönderilen iki ihtarnameyle temerrüde düşürülen davalının sözleşme ile kararlaştırılan imalat bedelini ödemediğini ileri sürerek; fazlaya ilişkin hakkı saklı kalmak üzere, şimdilik 100.000 USD alacağın ticari faizi ile birlikte davalıdan tahsilini talep etmiş; 01.10.2010 tarihli ıslah dilekçesi ile talebini 1.000.000 USD'ye artırmıştır.
 
@@ -50,9 +56,13 @@ SONUÇ: Yukarıda birinci bendde açıklanan nedenlerle davalı tarafın sair te
 
 ## Yargıtay 15. HD 2018/1022 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/415358700)
+
 Yanlar arasında Kat Karşılığı İnşaat Sözleşmesi mevcut olmayıp, taraflar arasındaki uyuşmazlık tacirler arası sözleşmenin devrinden kaynaklanmakta olup tarafların sıfatına ve uyuşmazlığın niteliğine göre, kararın temyizen inceleme görevi Dairemize ait olmayıp, Yargıtay Yüksek 19. Hukuk Dairesi'nin görev alınında kalmaktadır. Bu nedenle dosyanın temyiz incelemesi yapmakla görevli Yargıtay Yüksek 19. Hukuk Dairesi'ne gönderilmesi gerekmektedir.
 
 ## Yargıtay 15. HD 2017/3748 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/376264900)
 
 Davalı kooperatif, duruşmalara katılmamış, davalı ... cevap dilekçesi ve savunmalarında bağımsız bölümü kooperatiften satın almadığı kendisi ve satın aldığı kişinin sözleşme ve kooperatifle ilgisinin bulunmadığını, iyiniyetli olduğunu ileri sürerek hakkındaki davanın esas ve husumet yönünden reddini istemiştir.
 
@@ -68,9 +78,13 @@ SONUÇ: Yukarıda açıklanan nedenlerle temyiz itirazlarının kabulü ile hük
 
 ## Yargıtay 20. HD 2017/775 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/302564500)
+
 Davacı taşeron (alt yüklenici) ile davalı yüklenicinin tacir olması ve uyuşmazlığın her iki tarafın ticari işletmesini ilgilendirmesi nedeniyle, ticari dava niteliğinde olduğu anlaşıldığından uyuşmazlığın, asliye ticaret mahkemesinde görülüp sonuçlandırılması gerekmektedir.
 
 ## Yargıtay 15. HD 2017/522 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/297093100)
 
 Davacı yüklenici vekili; davalı arsa sahipleri ile diğer davlı ... ... ... Kooperatifi arasında gayrımenkul satış vaadi ve kat karşılığı inşaat sözleşmesi düzenlendiğini, yüklenici kooperatifin diğer davalı .... İnş. ....
 
@@ -84,9 +98,13 @@ SONUÇ: Yukarıda açıklanan nedenlerle kararın temyiz eden davacı yararına 
 
 ## Yargıtay 20. HD 2016/9976 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/278679500)
+
 Somut olayda davacı tüketici sıfatına sahip ise de davalının yüklenici, alt yüklenici sıfatının bulunmadığı, ticari veya mesleki faaliyeti kapsamında tüketiciye hizmet sunan kişi olmadığı anlaşıldığından davanın genel hükümlere göre dava tarihinde yürürlükte bulunan HUMK'nın 8. maddesi uyarınca asliye hukuk mahkemesinde görülüp sonuçlandırılması gerekmektedir.
 
 ## Yargıtay 14. HD 2016/8081 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/276040200)
 
 Davacı vekili, 1809 ada 1 parsel sayılı taşınmazın arsa malikinin .... Vakfı olduğunu, arsa maliki vakıf ile diğer davalı ... 4.
 
@@ -106,6 +124,8 @@ SONUÇ: Yukarıda açıklanan nedenle davacı vekilinin temyiz itirazlarının k
 
 ## Yargıtay 14. HD 2016/5121 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/228041500)
+
 Dava, yüklenicinin (taşeronun) temliki nedeniyle kazanılan şahsi hakka dayalı tapu iptali ve tescil, mümkün olmadığı takdirde tazminat isteğine ilişkindir.
 
 Davalı şirket vekili, davalı taşeronun kendisine düşen edimleri yerine getirmediğini, davalı ile yapılan iş sözleşmelerinin karşılıklı olarak feshedildiğinden davanın reddini savunmuştur.
@@ -122,6 +142,8 @@ SONUÇ: Yukarıda açıklanan nedenlerle davacılar vekilinin temyiz itirazları
 
 ## Yargıtay 15. HD 2016/2437 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/194956800)
+
 Taraflar arasındaki uyuşmazlık, 4721 sayılı Türk Medeni Kanunu'nun 893 ve devamı maddelerinde düzenlenen yapı alacaklısı ipoteği (inşaatçı ipoteği) tesciline ilişkindir.TMK'nın 893/3. maddesinde “Bir taşınmaz üzerinde yapılan yapı veya diğer işlerde malzeme vererek veya vermeden emek sarf ettikleri için malzeme ve emek karşılığı olarak malik veya yükleniciden alacaklı olan alt yüklenici veya zanaatkarlar”ın kanuni ipotek haklarının olduğu ve bunun tescilini isteyebilecekleri, 895. maddesinde de zanaatkarların ve yüklenicilerin kanuni ipotek haklarının çalışmayı veya malzeme vermeyi yüklendikleri andan başlayarak tapu kütüğüne tescil olunabileceği, tescilin yüklenilen işin tamamlanmasından başlayarak üç ay içinde yapılmış olması gerektiği, tescilin yapılması için alacağın malik tarafından kabul edilmiş veya mahkemece karara bağlanmış olmasının şart olduğu, malik yeterli güvence gösterirse tescil istenemeyeceği düzenlenmiştir.Bu hükümler ile bir taşınmaz üzerinde yapılan kalıcı nitelikteki bir yapıya malzeme ve emek vererek veya sadece emek vererek katkıda bulunan, bu suretle taşınmaz malikinin malvarlığında değer artışı sağlayan yapı alacaklılarına kanuni ipotek hakkı tanınmıştır.
 Yapı alacağı, yalnız emek ile veya hem emek hem malzeme ile yapıya katkıda bulunma nedeniyle doğmuş alacağı; yapı alacaklıları ise, bir yapının inşasında, onarılmasında, genişletilmesi ve değiştirilmesinde eser sözleşmesine bağlı olarak çalışan yüklenicileri, alt yüklenicileri ve zanaatkarları ifade etmektedir.Yapı alacaklılarının ilk grubunu taşınmaz maliki ile aralarında eser sözleşmesi ilişkisi bulunan yükleniciler ve zanaatkarlar oluşturmaktadır. Taşınmaz maliki, yüklenici ve zanaatkarların kendisinden olan yapı alacaklarından sözleşme ilişkisi yanında kanun gereği de sorumlu tutularak bu kimselere ipotek vermekle yükümlü kılınmıştır. Yapı alacaklılarının ikinci grubunu ise taşınmaz maliki ile aralarında doğrudan bir sözleşme ilişkisi bulunmayan alt yüklenici ve zanaatkarlar oluşturmaktadır. Bu kişilerin akdî ilişkisi taşınmaz maliki ile eser sözleşmesi imzalamış olan asıl yüklenicilerdir. Bu kişiler yapım işini ayrı bir eser sözleşmesiyle yükleniciye karşı taahhüt etmişlerdir.
 
@@ -129,6 +151,8 @@ Aralarında doğrudan bir eser sözleşmesi olmadığı halde taşınmaz maliki,
 Malik dışındaki davalıların davada taraf sıfatı (pasif husumet ehliyetleri)bulunmamaktadır.Somut olayda mahkemece, asli müdahil ... ile arsa sahiplerinin sözleşmesi bulunmadığı, taşeron olarak elektrik işlerini ifa eden asli müdahilin alacağını yükleniciye karşı ileri sürebileceği gerekçesiyle asli müdahilin kanuni ipotek tesisine dair istemi asıl ve birleşen dosyaların davacısı arsa sahipleri yönünden sıfat yokluğundan reddedilmiştir. Mahkemece yapı alacaklısı ipoteğinin yasal koşullarının oluşup oluşmadığı, davanın 3 aylık hak düşürücü süre içinde açılıp açılmadığı ve malikin yeterli güvence gösterip göstermediği hususlarında herhangi bir değerlendirme yapılmamıştır. Yukarıda ayrıntılı biçimde açıklandığı üzere, taşınmaz maliki ile alt yüklenici arasında doğrudan eser sözleşmesi ilişkisi bulunmasa bile taşınmaz maliki, alt yüklenicinin yükleniciden olan yapı alacaklarından kanun gereği sorumlu olup ona ipotek vermekle yükümlüdür (4721 sayılı TMK m. 893/3 ve 895).
 
 ## Yargıtay 14. HD 2015/6015 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/135924400)
 
 Mahkemece tescil isteğinin reddine, A...Y.. Ltd.
 
@@ -144,6 +168,8 @@ SONUÇ: Yukarıda yazılı nedenlerle davacı vekilinin karar düzeltme istemini
 
 ## Yargıtay 15. HD 2015/2759 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/183871800)
+
 İcra İflas Kanunu'nun 94. maddesinin II. fıkrasında “Borçlunun reddetmediği miras veya başka bir sebeple iktisap eyleyip henüz tapuya veya gemi siciline tescil ettiremediği mülkiyet veya diğer ayni hakların borçlu namına tescili alacaklı tarafından istenebilir. Bu talep üzerine icra dairesi alacaklının bu muameleyi takip edebileceğini tapu veya gemi sicili dairesinde ve icabında mahkemeye bildirir” hükmü getirilmiştir. Az yukarıda davacının davadaki talebi İcra İflas Kanunu'nun 94/II. maddesinde düzenlenen yüklenici adına tapu iptâl ve tescil istemine ilişkin olduğundan davacı alacaklının yüklenici aleyhine yaptığı takibin sonuçsuz kalması halinde dava açması ve husumeti arsa sahiplerine yöneltmesi mümkündür.
 
 Bu durumda mahkemece davacı taşerona İcra İflas Kanunu'nun 94/II. maddesi uyarıca yüklenici hakkında yapılan takibin semeresiz kalması sebebi ile arsa sahipleri aleyhine tapu iptâli ve tescili davası açmak ve takip etmek üzerine icra dosyasından alacağı yetki belgesini ibraz etmek üzere süre verilip bu şekilde dava ön şartı tamamlattırıldıktan sonra işin esasına girilerek taraf delilleri toplanıp sonucuna uygun bir karar verilmesi gerekirken belirtilen hususlar üzerinde durulmadan eksik inceleme ve yanlış değerlendirme ile davanın usulden reddi doğru olmamış, kararın bozulması uygun bulunmuştur.
@@ -151,6 +177,8 @@ Bu durumda mahkemece davacı taşerona İcra İflas Kanunu'nun 94/II. maddesi uy
 SONUÇ:Yukarıda açıklanan nedenlerle temyiz itirazlarının kabulü ile hükmün temyiz eden davacı yararına BOZULMASINA …
 
 ## Yargıtay 23. HD 2015/2438 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/205221600)
 
 Davacılar vekili, arsa sahibi davalılar ile yüklenici olan davalı... arasında 09.06.1995 tarihinde arsa payı karşılığı inşaat sözleşmesi düzenlediğini, yüklenici kooperatifin bir kısım inşaat imalat işlerinin yapımını sözleşme ile alt yüklenici davalı ...'a devrettiğini, imalat karşılığında davalı ...'a bırakılan peşin ödemeli 11 üyelik için müvekkillerinin nakdi ödeme yaptığını,...a devredilen üyeliklerden 3 üyeliğin müvekkili ... adına, kalan 8 üyeliğin diğer müvekkili ... adına temliken alındığını, inşaat devam etmediği gibi arsa paylarının dava dışı kişilere devredildiğini, davalı kooperatifin üyelik kayıtlarını inkâr ederek davacıları genel kurul toplantılarına davet etmediğini ileri sürerek, fazlaya ilişkin hakları saklı kalmak kaydıyla 45736 ada 4 parsel sayılı taşınmaz üzerinde oluşturulacak 6 ve 12 nolu bağımsız bölümler, 5 parsel sayılı taşınmaz üzerinde oluşturulacak 2, 3, 5, 7, 8 nolu bağımsız bölümler ile aynı yerdeki 6 nolu parsel üzerindeki 2 nolu bağımsız bölümlerde davacı ...'ün 8 adet sabit ve peşin ödemeli üyelik hakkı olduğunun, aynı yerdeki 5 nolu parseldeki 6, 9, 12 nolu bağımsız bölümlerde davacı ...'ün 3 adet peşin ve sabit ödemeli üyelik hakkı bulunduğunun
 tespitini, inşaat tamamlanınca söz konusu bağımsız bölümlerin müvekkilleri adına tapuya kayıt ve tescilini talep ve dava etmiştir.
@@ -164,6 +192,8 @@ Davacıların 11 üyeliğin devir alınmasına dayalı olarak kooperatif üyesi 
 SONUÇ: Yukarıda açıklanan nedenle, davalı kooperatif vekili, davalı ... vekili ile davacılar vekilinin temyiz itirazlarının reddi ile hükmün HUMK'nın 438/son maddesi uyarınca gerekçesi kısmen değiştirilerek ONANMASINA …
 
 ## Yargıtay 23. HD 2015/1356 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/199805000)
 
 Davacı vekili, müvekkili ile davalılardan ... arasında 24.07.1996 tarihli arsa payı karşılığı inşaat sözleşmesi bulunduğunu, sözleşme gereğince davacının arsasının 250/357 hissesinin davalıya devredileceği, inşaat ruhsatının alınmasından itibaren 18 ayda anahtar teslimi imal edileceğinin kararlaştırıldığını, davalı ...'ün müvekkilinden devraldığı hisseyi diğer davalı kardeşi ...'e devrettiğini, davalılardan ...'ün ise taşınmazda davacıya isabet eden zemin kattaki daireyi diğer davalı ...'a devrettiğini, zamanında teslimin yapılmaması nedenine dayalı olarak açılan davalarda, davacıya ait bağımsız bölümlerin 16.10.1998 tarihinde teslim edilmesi gerektiğinin ve davacıya isabet eden bağımsız bölümlere vaki müdahalenin önlenmesine karar verildiğini, bu karar doğrultusunda zemin kattaki dairenin 04.11.2009 tarihinde teslim alındığını, yapılan inşaatın projeye aykırı imal edildiğini, iskân ruhsatının alınmadığını, ileri sürerek, sözleşmenin feshine, davalılardan ... adına olan tapunun 88/357 hisse ile davalılardan ... adına olan 18/357 hissenin iptali ile davacı adına tescilinine, zemin kattaki konutun geriye doğru 5 yıllık ecrimisil bedeli karşılığı şimdilik 15.000,00 TL'nin temerrüt
 faiziyle tahsiline karar verilmesini istemiş, 16.11.2011 tarihli dilekçeyle, davalı ... hissesinin ...'e devredildiğini, tapu iptali ve tescili istemine ilişkin olarak davaya bu kişi yönünden devam etmek istediklerini belirtmiş, 15.10.2012 tarihli ıslah dilekçesiyle, ecrimisil istemini 21.312,00 TL'ye çıkartmış, 07.05.2013 tarihli oturumda tapu iptaline ilişkin istemini atiye terk etmiştir.
@@ -182,6 +212,8 @@ SONUÇ:Yukarıda (1) numaralı bentte açıklanan nedenlerle, davalılar Nuretti
 
 ## Yargıtay 17. HD 2014/15816 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/373183600)
+
 Dava, alacak istemine ilişkindir.
 
 …
@@ -189,6 +221,8 @@ Dava, alacak istemine ilişkindir.
 Somut olayda uyuşmazlık, davacı alt yüklenici( taşeron şirket) ile davalı yüklenici (kooperatif) arasında imzalanan sözleşme uyarınca davalı kooperatifin dava dışı arsa sahipleri ile yaptığı kat karşılığı inşaat sözleşmesi ile üstlendiği beton, çelik işçiliklerini yaptığı halde ücretinin tam olarak ödenmediği iddiasıyla davalıdan alacak istemine ilişkindir. Uyuşmazlığın her iki tarafının tacir olduğu ve davanın her iki tarafın ticari işletmesi ile ilgili olduğu anlaşıldığından, uyuşmazlığın Asliye Ticaret Mahkemesinde görülüp sonuçlandırılması gerekmektedir.
 
 ## Yargıtay 14. HD 2014/14931 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/105939600)
 
 Dava, yüklenicinin temlikine dayalı tapu iptali ve tescil istemine ilişkindir.
 
@@ -204,6 +238,8 @@ SONUÇ: Yukarıda (1) numaralı bentte yazılı nedenle davalı S.. N..’un sü
 
 ## Yargıtay 14. HD 2014/13047 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/105811500)
+
 Dava, yüklenicinin (taşeronun) temlik işlemine dayalı tapu iptali ve tescil istemine ilişkindir.
 
 Mahkemece, davanın reddine karar verilmiştir.
@@ -217,5 +253,7 @@ Somut olayda; tüketici davacı, davalı yüklenici E.. Elektrik Makine İnşaat
 SONUÇ: Temyiz olunan kararın yukarıda açıklanan nedenlerle BOZULMASINA …
 
 ## Yargıtay 14. HD 2014/2246 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/365409700)
 
 Uyuşmazlığın çözümünde öncelikle temel ilişkideki arsa sahibi Albayrak İnşaat ve Limited Şirketi ile ilk yüklenici Solar Limited Şirketi ve ilk yüklenici ile alt yüklenici (taşeron) arasındaki adi yazılı kat karşılığı inşaat sözleşmelerinden kaynaklanan uyuşmazlıkların irdelenmesi gerektiği, birleştirilen davanın da bu uyuşmazlığın çözümüne bağlı olması nedeniyle, 2797 sayılı Yargıtay Kanununun 14/son maddesi gereğince 01.03.2013 tarihinde yürürlüğe giren Yargıtay Büyük Genel Kurulunun Hukuk Dairelerinin iş bölümünü düzenleyen 21.01.2013 tarihli ve 2013/1 sayılı Kararı uyarınca ve davanın açıklanan niteliği itibariyle temyiz inceleme görevi Yargıtay 23. Hukuk Dairesine ait bulunmaktadır.

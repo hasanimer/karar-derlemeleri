@@ -22,6 +22,8 @@ uyari: "Derleyenin seçtiği alıntılardır; kararın tamamı değildir. Künye
 
 ## Danıştay 6. D. 2023/6274 E., 2025/2456 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1164515500)
+
 İlk Derece Mahkemesi kararının özeti:...
 
 …
@@ -39,6 +41,8 @@ Mahkeme kararına yönelik olarak yapılan istinaf başvurusunun kabulü ile an�
 
 ## Danıştay 6. D. 2024/6600 E., 2025/2185 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1161417200)
+
 Rezerv yapı alanı olarak ilan edilen bir alanın statüsünün değişeceğinin ve rezerv yapı alanı olarak ilan edildikten sonra alanda yapılan imar planı değişikliğinin istisnai bir dayanağı ve planlama sürecine tabi olduğundan, dayanağı rezerv yapı alanı kararı olmayan bir imar planı gibi değerlendirilemeyeceğinin kabulü gerekmektedir.
 
 …
@@ -54,6 +58,8 @@ Dava konusu işlemin yukarıda özetlenen gerekçeyle iptaline ilişkin Mahkeme 
 Açıklanan nedenlerle, dava konusu işlemin iptaline ilişkin İdare Mahkemesi kararına karşı yapılan istinaf başvurusunun kabulü ile anılan kararın kaldırılmasına ve davanın reddine dair Bölge İdare Mahkemesi İdari Dava Dairesi kararının bozulması gerektiği oyuyla Dairemizin kararına katılmıyorum.
 
 ## Danıştay 6. D. 2024/1988 E., 2025/1956 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1152324500)
 
 3194 sayılı İmar Kanununun 18 Mayıs 2018 tarihli ve 30425 sayılı Resmî Gazetede yayımlanarak yürürlüğe giren 7143 sayılı Vergi ve Diğer Bazı Alacakların Yeniden Yapılandırılması ile Bazı Kanunlarda Değişiklik Yapılmasına İlişkin Kanunun 16. maddesi ile eklenen geçici 16. maddesinin birinci fıkrasında; "Afet risklerine hazırlık kapsamında ruhsatsız veya ruhsat ve eklerine aykırı yapıların kayıt altına alınması ve imar barışının sağlanması amacıyla, 31/12/2017 tarihinden önce yapılmış yapılar için Çevre ve Şehircilik Bakanlığı ve yetkilendireceği kurum ve kuruluşlara 31/10/2018 tarihine kadar başvurulması, bu maddedeki şartların yerine getirilmesi ve 31/12/2018 tarihine kadar kayıt bedelinin ödenmesi halinde Yapı Kayıt Belgesi verilebilir. Başvuruya konu yapının ve arsasının mülkiyet durumu, yapı sınıf ve grubu ve diğer hususlar Bakanlık tarafından hazırlanan Yapı Kayıt Sistemine yapı sahibinin beyanına göre kaydedilir." hükmüne, dördüncü fıkrasında ise;
 "Yapı Kayıt Belgesi verilen yapılarla ilgili bu Kanun uyarınca alınmış yıkım kararları ile tahsil edilemeyen idari para cezaları iptal edilir." hükmüne, aynı madddenin dokuzuncu fıkrasında "Üçüncü kişilere ait özel mülkiyete konu taşınmazlarda bulunan yapılar ile Hazineye ait sosyal donatı için tahsisli araziler üzerinde bulunan yapılar bu madde hükümlerinden yararlandırılmaz."; onuncu fıkrasında "Yapı Kayıt Belgesi, yapının yeniden yapılmasına veya kentsel dönüşüm uygulamasına kadar geçerlidir. Yapı Kayıt Belgesi düzenlenen yapıların yenilenmesi durumunda yürürlükte olan imar mevzuatı hükümleri uygulanır..."; onbirinci fıkrasında ise, "Bu madde hükümleri, 18/11/1983 tarihli ve 2960 sayılı Boğaziçi Kanununda tanımlanan Boğaziçi sahil şeridi ve öngörünüm bölgesi içinde ekli kroki ile listede sınır ve koordinatları gösterilen alan ile İstanbul tarihi yarımada içinde ekli kroki ile listede sınır ve koordinatları gösterilen alanlarda ve ayrıca 19/6/2014 tarihli ve 6546 sayılı Çanakkale Savaşları Gelibolu Tarihi Alan Başkanlığı Kurulması Hakkında Kanunun 2 nci maddesinin birinci fıkrasının (e) bendinde belirlenmiş Tarihi Alanda uygulanmaz." hükmüne yer verilmiştir.
@@ -83,6 +89,8 @@ yakın çevresinin geçmişteki plan değişiklikleriyle yapılaşma koşulları
 
 ## Danıştay 13. D. 2024/1617 E., 2025/1587 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1176775700)
+
 Dosyanın incelenmesinden, İstanbul ili, Kağıthane ilçesi, ... Mahallesinde bulunan mülkiyeti Hazineye ait ... ada, ... parsel sayılı 223 metrekare yüz ölçümüne sahip arsa niteliğindeki taşınmaz hakkında ... tarih ve ... yevmiye numarasıyla Şişli ilçesi, ... Mahallesi, ... Sokak, No:... adresinde bulunan 301,50 metre kare alanı işgal eden tek katlı yığma konut için ... adına Tapu Tahsis Belgesi düzenlendiği, ... tarih ve ... sayılı İstanbul Valiliği (Defterdarlık Avrupa Yakası Milli Emlak Dairesi Başkanlığı) işlemiyle, "Kağıthane ilçesi, Hamidiye Mahallesinde bulunan ... Dy ... pafta, ... ada, ... parsel sayılı, 116,00 metrekare yüz ölçümlü, tamamı Hazine adına kayıtlı taşınmaz malın üzerinde bulunan eski "... Sokak No:...
 Kağıthane" adresindeki yığma tek katlı konuta ait tapu tahsis belgesi mevcut olduğundan 2981 sayılı Yasa kapsamında değerlendirilmek üzere idaremizce inceleme yapılmış olup, inceleme sonucunda, taşınmaz malın, 19/08/1975 tasdik tarihli Kağıthane ilçesi İmar Planında "Ağaçlanacak (İskan edilemez)" alanında kaldığı Kağıthane Belediye Başkanlığından alınan ...tarih ve ... sayılı yazıdan anlaşılmıştır. ... söz konusu taşınmaz malın tapu kaydı üzerinde şayet şahıs adına tahsis şerhi mevcut ise re'sen terkin edilerek, taşınmazın şerhler ve beyanlar hanesini de gösteren son tapu kaydının" gönderilmesinin Kağıthane Tapu Sicil Müdürlüğünden istenildiği, Defterdarlık Avrupa Yakası Milli Emlak Dairesi Başkanlığının ...tarih ve ... sayılı işlemiyle ... adına düzenlenmiş olan tapu tahsis belgesinin tapu kütüğüne işlenen tahsis şerhinin terkin edilerek neticesinden bilgi verilmesinin aynı günlü yazı ile Kağıthane Tapu Sicil Müdürlüğünden istenildiği, tapu tahsis belgesinin herhangi bir hukuki geçerliliği bulunmadığının davacı ...'a bildirildiği, ... ada ... parsel sayılı taşınmaz için ... tarih ve ... sayılı Taşınmaz Tespit Tutanağı düzenlendiği, tutanakta arsanın 223 metrekare olduğu, taşınmaz
 mahallinde yapılan araştırmada, söz konusu parselin bir kısmına çit çekildiğinin görüldüğü, çit çekilen alanda sebze ekildiğinin dava dışı B.H. isimli kişi tarafından beyan edildiği, tutanağa "taşınmazın bakiyesi yeşil alan dahilinde kalmaktadır" şeklinde not düşüldüğü, tutanakta işgale konu alanın bahçe olarak nitelendirildiği ve bu alanın yüz ölçümünün 115 metrekare olduğu, 11/12/2014 tarihinde ... ada ... parsel sayılı taşınmaz için yeniden Taşınmaz Tespit Tutanağı düzenlendiği, bu kez söz konusu alanın detaylarına yönelik herhangi bir bilgiye yer verilmeden "Boş işgalsiz" şeklinde not alındığı, davaya konu ... ada, ... parsel sayılı taşınmazın 28/05/2021 tarihinde gerçekleştirilen ihaleye esas bilgi formunda "16/06/2007 tasdik tarihli 1/1000 ölçekli Kağıthane 1. Etap Uygulama İmar Planında - B1-3 (blok nizam 3 kat) lejantlı konut alanında kalmaktadır. Kısmen yola terki bulunmaktadır" ve "Bahçe olarak kullanılmaktadır." şeklinde notların yer aldığı, yine ihaleye hazırlık mahiyetinde milli emlak uzmanı tarafından bilgi notunda taşınmazın fiili durumunun "İdaremizce mahallinde yapılan 01/02/2021 tarihli tespitte;
@@ -106,6 +114,8 @@ planlarda belirlenen gelişme konut alanlarının büyük kısmının henüz bo�
 
 ## Danıştay 6. D. 2024/867 E., 2025/1499 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1153643400)
+
 Mekansal Planlar Yapım Yönetmeliği'nin 4. maddesinin "Tanımlar" başlıklı 1. fıkrasının c) bendinde, "Çevre düzeni planı: Varsa mekânsal strateji planlarının hedef ve strateji kararlarına uygun olarak orman, akarsu, göl ve tarım arazileri gibi temel coğrafi verilerin gösterildiği, kentsel ve kırsal yerleşim, gelişme alanları, sanayi, tarım, turizm, ulaşım, enerji gibi sektörlere ilişkin genel arazi kullanım kararlarını belirleyen, yerleşme ve sektörler arasında ilişkiler ile koruma-kullanma dengesini sağlayan 1/50.000 veya 1/100.000 ölçekteki haritalar üzerinde ölçeğine uygun gösterim kullanılarak bölge, havza veya il düzeyinde hazırlanabilen, plan notları ve raporuyla bir bütün olarak yapılan planı, (...) ifade eder." tanımına, yine aynı Yönetmelik'in 26. maddesinde, "İmar planı değişikliği; plan ana kararlarını, sürekliliğini, bütünlüğünü, sosyal ve teknik altyapı dengesini bozmayacak nitelikte, kamu yaran amaçlı, teknik ve nesnel gerekçelere dayanılarak yapılır." hükmüne yer verilmiştir.
 
 3194 sayılı Kanun'un 9. maddesinin 2. fıkrasında, "Belediye hudutları ve mücavir alanlar içerisinde bulunan ve özelleştirme programına alınmış kuruluşlara ait arsa ve arazilerin, ilgili kuruluşlardan gerekli görüş, (Belediye) alınarak çevre imar bütünlüğünü bozmayacak imar tadilatları ve mevzi imar planlarının ve buna uygun imar durumlarının Başbakanlık Özelleştirme İdaresi Başkanlığınca hazırlanarak Özelleştirme Yüksek Kurulunca onaylanmak suretiyle yürürlüğe girer ve ilgili Belediyeler bu arsa ve arazilerin imar fonksiyonlarını 5 yıl değiştiremezler.
@@ -120,6 +130,8 @@ Mekansal Planlar Yapım Yönetmeliği'nin 4. maddesinin "Tanımlar" başlıklı 
 Dava konusu mülkiyeti hazineye ait, Ankara ili, Gölbaşı ilçesi, ... Mahallesi, ... ve ... sayılı parsel sayılı taşınmazlara ilişkin Hazine ve Maliye Bakanlığı Özelleştirme İdaresi Başkanlığı tarafından hazırlanarak 17.11.2023 tarih ve 7807 sayılı Cumhurbaşkanlığı Kararı ile onaylanan 1/5000 ölçekli nazım imar planı değişikliği ile 1/1000 ölçekli uygulama imar planı değişikliğinin İPTALİNE …
 
 ## Danıştay 4. D. 2025/1432 E., 2025/1305 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1151696600)
 
 6306 sayılı Kanunun Uygulama Yönetmeliğinin 16. maddesinin 9. fıkrasında; Kanun kapsamındaki vergi, harç ve ücret muafiyetleri, uygulama alanındaki mevcut yapıların imar mevzuatına uygun olup olmadığına bakılmaksızın, Kanunun 7. maddesinin dokuzuncu ve onuncu fıkraları ile bu maddenin on ila on ikinci fıkralarında belirtilen şartlar dahilinde uygulanacağı hükmüne yer verilmiş, 12. fıkrasında ise; Kanunun 7. maddesinin dokuzuncu ve onuncu fıkralarında belirtilen şartlar dahilinde alınmaması gereken harç, vergi ve ücretler arasında, 2464 sayılı Belediye Gelirleri Kanununun 79., mükerrer 79., 80. ve ek 1. maddeleri uyarınca belediyelerce alınan harçlar ile riskli olarak tespit edilen yapı ile bu yapının yerine yapılacak yeni yapıya ilişkin olarak belediye meclisi kararı ile belirlenen ve alınan her türlü ücretler de sayılmıştır.
 
@@ -140,6 +152,8 @@ Bu durumda; davalı idare tarafından tahsil edilen 30.791,08 TL elektrik harcı
 
 ## Danıştay 6. D. 2024/2015 E., 2025/1070 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1206165400)
+
 İSTEMİN ÖZETİ: Ankara ili, Çankaya ilçesi, ... Mahallesi, ... ada ... ve ... sayılı, ... ada ... sayılı, ... ada ... sayılı ve ... ada ... sayılı parsellerin bulunduğu alanın Kentsel Dönüşüm Gelişim Proje Alanı (KDGPA) olarak ilan edilmesine, 1/25000 ve 1/5000 ölçekli nazım ve 1/1000 ölçekli uygulama imar planı değişikliğinin kabul edilmesine dair Ankara Büyükşehir Belediye Meclisinin ... tarih ve ... sayılı kararının iptali yolundaki ... İdare Mahkemesinin ... tarih ve E:..., K... sayılı kararına karşı yapılan istinaf başvurusunun, Kentsel Dönüşüm Gelişim Proje Alanı ilanına ilişkin kısım ile 1/25.000 ölçekli nazım imar planı değişikliğine ilişkin kısım yönünden istinaf başvurusunun kabulü dava konusu işlemin bu kısımlarının iptaline dair mahkeme kararının kaldırılmasına, davanın bu kısımlarının reddine, 1/5000 ölçekli nazım ve 1/1000 ölçekli uygulama imar planı değişikliğine ilişkin kısımlarına yönelik istinaf başvurusunun değişik gerekçelerle reddine dair ... Bölge İdare Mahkemesi ....
 İdari Dava Dairesinin ... tarih ve E:..., K... sayılı kararının, parsellerin kentsel dönüşüm ve gelişim proje alanı olarak belirlenmesi ile parsele yönelik 1/25.000 ölçekli nazım imar planı değişikliği yönünden açıklama eklenmek suretiyle onanmasına, 1/5000 ölçekli nazım ve 1/1000 ölçekli uygulama imar planı değişiklikleri yönünden bozulmasına dair Danıştay Altıncı Dairesinin 07/02/2022 tarihli ve E:2021/8937, K:2022/1074 sayılı bozma kararına uyularak, davalı idarenin istinaf başvurusunun kabulü ile anılan mahkeme kararının kaldırılmasına, 2577 sayılı yasanın 45/4 maddesi uyarınca esastan incelenen davanın reddine dair ... Bölge İdare Mahkemesi .... İdari Dava Dairesince verilen... tarih ve E:..., K:... sayılı kararın, usul ve hukuka aykırı olduğu ileri sürülerek bozulması istenilmektedir.
 
@@ -148,6 +162,8 @@ Bu durumda; davalı idare tarafından tahsil edilen 30.791,08 TL elektrik harcı
 ... Bölge İdare Mahkemesi .... İdari Dava Dairesince verilen ... tarih ve E:... K:... sayılı karar ve dayandığı gerekçe hukuk ve usule uygun olup bozulmasını gerektirecek bir sebep bulunmadığından, 2577 sayılı İdari Yargılama Usulü Kanununun 50. maddesinin 4. fıkrası uyarınca yapılan temyiz incelemesi sonucunda, temyiz isteminin reddi ile anılan kararın ONANMASINA …
 
 ## Danıştay 6. D. 2023/5169 E., 2025/577 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1161767400)
 
 3194 sayılı İmar Kanununun 18. maddesinin üçüncü paragrafında "park"ların da bulunduğu bazı sosyal donatı alanlarının öncelikle parselasyon işlemi sırasında belirlenecek düzenleme ortaklık payı ile kamuya geçmesi hedeflenmiş, diğer taraftan sosyal altyapı niteliğinde olan bu kullanımların öngörülen hizmetler dışında başka maksatlar için kullanımı amir hükümle yasaklanmıştır. Elbette söz konusu yasak, yalnız düzenleme ortaklık payından elde edilen sosyal donatı alanları için değil, mekansal kullanımı plan kararı ile belirlenen tüm sosyal alt yapı alanları için geçerli olduğunun, 3194 sayılı İmar Kanununun 3. maddesi gereği kabulü gerekmektedir. Nihayetinde Mekansal Planlar Yapım Yönetmeliği eliyle sosyal ve teknik alt yapı alanları için sayısal standartlar da belirlenmiş olup planlama alanı içerisinde yer alan bu kullanımların zeminde fiilen varlığını koruması esastır.
 
@@ -165,6 +181,8 @@ Açıklanan nedenlerle, Planlı Alanlar İmar Yönetmeliğinin 19. maddesinin 1.
 ... Bölge İdare Mahkemesi ... İdari Dava Dairesince verilen ... tarih ve E:..., K:... sayılı karar ve dayandığı gerekçe hukuk ve usule uygun olup bozulmasını gerektirecek bir sebep bulunmadığından, anılan kararın ONANMASINA …
 
 ## Danıştay 6. D. 2021/433 E., 2025/74 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1139575400)
 
 İlk Derece Mahkemesi kararının özeti: Temyize konu kararda; yerinde yaptırılan keşif ve bilirkişi incelemesi sonucu düzenlenen rapor ile dosyadaki bilgi ve belgelerin birlikte değerlendirilmesinden, parsele önerilen fonksiyonun alanın arazi içindeki konumu, üst ölçekli planlara uygunluğu ve afet riskinin bertaraf edilebilmesi için ekonomik olanaklar sunması ve çevrenin sağlıklılaştırılması açısından olumlu olduğu, dava konusu işlemde davaya konu parsel yönünden şehircilik ilkeleri planlama esasları ve teknikleri ile kamu yararı açısından hukuka aykırılık bulunmadığı sonucuna varıldığı gerekçesiyle davanın reddine karar verilmiştir.
 

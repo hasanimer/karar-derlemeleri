@@ -38,6 +38,8 @@ Kayseri 2. Asliye Ticaret Mahkemesi'nin 2026/451 Esas sayılı, 17/06/2026 tarih
 
 ## İzmir BAM 14. HD 2023/1433 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/944606200)
+
 Davacı vekili dava dilekçesinde özetle; "Taraflar arasındaki 09/07/2018 tarihli eser sözleşmesi gereğince; ... İli, ... İlçesi, ...
 
 …
@@ -58,6 +60,8 @@ Eser sözleşmesi KDV dahil 1.364.000 TL miktarlı götürü bedelli olduğu hal
 İzmir 6. Asliye Ticaret Mahkemesi'nin 09/06/2022 tarih ve 2020/100 Esas, 2022/510 Karar sayılı kararının, 6100 Sayılı HMK'nın 353/(1)-a/4-6.maddeleri gereğince KALDIRILMASINA …
 
 ## İstanbul BAM 15. HD 2023/512 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/895964000)
 
 Şti tarafından yapılan bu hukuka aykırılık ve hakkın ihlali nedeniyle, davacı şirket maddi manevi büyük zarara uğramış olup, bu zararın halen daha artarak devam ettiğini, sözleşme kapsamında arsa sahipleri tarafından akdin 6.16 maddesi uyarınca arsa paylarının yarısının yüklenicilere devredileceği kararlaştırılmış olmakla birlikte, madde 10.1 kapsamında ise arsa sahiplerinin uhdesinde kalacak hisseler dışındaki arsa paylarının, işin yapılmasıyla yüklenici şirketlere devredilmesinin vaad edildiğini, davalıların sözleşmenin ilgili maddelerine aykırı davranarak devri gerçekleştirdiğini ve davacı şirketin sözleşme dışına itilerek zarara uğratıldığını, arsa sahiplerinin diğer yüklenici ... Turizm ve Dış Ticaret Ltd. Şti’ne, davacı şirketin sözleşme gereği hakkı olan paylar da dahil payları tümden devir etmesi nedeniylie taraflar arasında akdedilen 15.07.2015 tarihli sözleşmenin 19. maddesinde yer alan hükmü de ihlal ettiğinin ortada olduğunu belirterek, fazlaya ilişkin hakları saklı kalması kaydıyla, şimdilik her bir davalı için, her birinden ayrı ayrı olmak üzere 10.000,00 TL, toplamda 160.000.00 TL'nin davalılardan tahsiline karar verilmesini talep ve dava etmiştir.
 Davalı ... ve ... vekili, davacı tarafından açılan dava yasal süresi içeresinde açılmamış olduğundan davaya karşı zaman aşımı defi itirazının bulunduğunu, huzurdaki davayı açmadan önce dava şartı arabuluculuğa müracaat etmesi gerekirken dava dilekçesinden de anlaşıldığı üzere dava şartı arabuluculuğa müracaat etmeden huzurdaki davayı ikame eden davacının davasının reddi gerektiğini, yine davacının dava dilekçesinde ileri sürmüş olduğu alacağın temliki iddiasına ilişkin ne dava dilekçesinde nede eklerinde herhangi bir delil sunmadığını, bu neden ile de davacının davasında asıl dayandığı husus olan temlik iddiasına ilişkin herhangi bir delil bulunmadığından davanın husumet yokluğundan da reddi gerektiğini belirterek, davanın reddine karar verilmesini istemiştir.

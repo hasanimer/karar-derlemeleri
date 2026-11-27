@@ -22,6 +22,8 @@ uyari: "Derleyenin seçtiği alıntılardır; kararın tamamı değildir. Künye
 
 ## Danıştay 4. D. 2023/11167 E., 2025/4771 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1189316600)
+
 MÜDAHİLİN SAVUNMASI : Kültür ve Turizm Bakanlığı tarafından;
 Anayasanın 63. maddesinin birinci fıkrasında tarih, kültür ve tabiat varlıklarının ve değerlerinin korunmasını sağlamak, bu amaçla destekleyici ve teşvik edici tedbirleri almak görevlerinin Devlete verildiği, anılan maddenin ikinci fıkrasında ise bu varlıklar ve değerlerden özel mülkiyet konusu olanlara getirilecek sınırlamalar ve bu nedenle hak sahiplerine yapılacak yardımlar ve tanınacak muafiyetlerin Kanunla düzenleneceğinin hüküm altına alındığı, bu doğrultuda yürürlüğe giren 2863 sayılı Kültür ve Tabiat Varlıklarını Koruma Kanunu ile ülkemizde bulunan kültür varlıklarını tespit ve koruma yetkisi ile görevinin Kültür ve Turizm Bakanlığına verildiği, yine anılan Kanun ile kültür varlıklarının korunması amacıyla imar planı yapılmasının zorunlu hale getirildiği, koruma amaçlı imar planlarının ise 3194 sayılı İmar Kanunu ve ilgili mevzuatı ile hazırlanan imar planlarından farklı olup, özel nitelikteki alanlarda yapılıyor olması nedeniyle daha detaylı bir araştırma ve analiz gerektiren mekânsal düzenlemeler olduğu, riskli alan ilanına konu Antakya'nın kültürel ve tarihi nitelikleri dolayısıyla yeniden ihyası için kurumsal altyapı, kapasite ve tecrübesi nedeniyle Kültür ve Turizm
 Bakanlığının koordinatörlüğünün bir gereklilik olduğu, alandaki kültür varlıklarının 6306 sayılı Kanun yerine 5366 sayılı Kanun kapsamında korunmasının sağlanması gerektiği yönünde görüş var ise de; 5366 sayılı Kanunun "yıpranan ve özelliğini kaybetmeye yüz tutmuş kültür varlıklarını ihya etmek" amacını taşıdığı;
@@ -39,6 +41,8 @@ No'lu daireler nedeniyle 20/09/2017 tarihinde katma değer vergisi tahsil edildi
 
 ## Danıştay 6. D. 2025/1339 E., 2025/4114 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1191586900)
+
 DAVANIN KONUSU: Niğde İli, Merkez İlçe sınırları içerisinde bulunan ve ekli listede kamulaştırma bilgileri yer alan taşınmazların, bölgede yürütülen kentsel dönüşüm ve gelişim projesi kapsamında Niğde Belediye Başkanlığı tarafından 2942 sayılı Kamulaştırma Kanununun 27. maddesi uyarınca acele kamulaştırılmasına ilişkin 09/12/2021 tarihli ve 31684 sayılı Resmi Gazetede yayımlanan, 08/12/2021 tarih ve 4896 sayılı Cumhurbaşkanlığı Kararının, Niğde ili, Merkez ilçesi, ... Mahallesi, ... ada, ... parsel sayılı taşınmaz yönünden iptali istenilmektedir.
 
 …
@@ -47,6 +51,8 @@ Dava konusu işlemin uyuşmazlığa konu taşınmaz yönünden yönünden İPTAL
 
 ## Danıştay 4. D. 2025/1512 E., 2025/3948 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1175061700)
+
 Bu durumda; davacıdan otopark ücretinin tahsil edildiği tarihten önce, 6306 sayılı Kanun ve Uygulama Yönetmeliğinde riskli yapıların dönüştürülmesi sırasında ilgililere yüklenen bir takım vergi, resim, harç gibi mali yükümlülüklere getirilen istisnalar kapsamından otopark ücretinin çıkarıldığı ve otopark ücretinin mevzuatta belirtilen diğer istisnalara da konu olamayacağı anlaşıldığından, davanın reddine karar verilmesi gerekirken, İdare Mahkemesince verilen iptal kararına karşı yapılan istinaf başvurusunun reddine dair temyize konu kararda hukuki isabet görülmemiştir.
 
 …
@@ -54,6 +60,8 @@ Bu durumda; davacıdan otopark ücretinin tahsil edildiği tarihten önce, 6306 
 Temyize konu ... Bölge İdare Mahkemesi ... İdare Dava Dairesinin... tarih ve E:..., K:... sayılı kararının BOZULMASINA …
 
 ## Danıştay 6. D. 2022/2820 E., 2025/3920 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1191446800)
 
 Yukarıda yer verilen mevzuat hükümlerinin birlikte değerlendirilmesinden, İdare Mahkemesince verilen kararın tarihi itibarıyla 2577 sayılı Kanun hükümleri uyarınca öncelikle istinaf kanun yolu öngörülmüş olmakla birlikte, 5233 sayılı Kanunun Geçici 6. maddesinde "riskli alan ve bu alanların dönüştürülmesi için kullanılacak rezerv yapı alanlarına ilişkin Çevre ve Şehircilik Bakanlığınca onaylanan imar planları ve parselasyon planlarına" karşı açılan davalar için özel bir yargılama usulü benimsenmiş olup, buna göre idare mahkemelerince verilen kararlara karşı on beş gün içinde temyiz yoluna gidilebileceği açıkça düzenlenmiştir.
 
@@ -64,6 +72,8 @@ Mardin İli, Nusaybin İlçesi, ..., ..., ..., ..., ..., ..., ..., ... ve ... Ma
 Dava konusu işlemlerin yukarıda özetlenen gerekçeyle iptaline ilişkin Mahkeme kararına yönelik olarak yapılan istinaf başvurusunun parselasyon işlemine ilişkin kısmı yönünden reddi …
 
 ## Danıştay 9. D. 2025/1308 E., 2025/3587 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1206411700)
 
 İlk Derece Mahkemesi kararının özeti: ...
 
@@ -88,6 +98,8 @@ Mahallesi, ... ada, ... parsel ile ... ada, ..., ... ve .... parsel sayılı ta�
 
 ## Danıştay 6. D. 2022/7953 E., 2025/3108 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1191452400)
+
 İSTEMİN KONUS : Niğde ili, ... Mahallesi, ... ada, ... parsel sayılı taşınmaz üzerinde yapılmak istenilen inşaata ilişkin olarak parselinde karşılanamayan 37 araçlık otopark alanına karşılık 817.700,00-TL otopark ücreti ödenmesi gerektiğine yönelik ... tarih ve ... sayılı Niğde Belediye Encümeni kararı ile bu kararın dayanağı olduğu ileri sürülen 21/06/2019 tarih ve 30808 sayılı Resmi Gazetede yayımlanan 6306 sayılı Kanun Uygulama Yönetmeliğinde Değişiklik Yapılmasına Dair Yönetmeliğin (6306 sayılı Kanun Uygulama Yönetmeliğinin 16. maddesinin 12. fıkrasında değişiklik yapılmasına ilişkin) 12. maddesinin 9. fıkrasının iptali istenilmektedir.
 
 DAVACININ İDDİALARI :
@@ -99,9 +111,13 @@ Davacı tarafından, yapının riskli yapı tespiti yapılarak yıkılan bir yap
 
 ## Danıştay 4. D. 2024/2471 E., 2025/3102 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1183344100)
+
 DAVACININ İDDİALARI : UNESCO Dünya miras listesinde bulunan Kapadokya Bölgesi sınırları içerisinde, Nevşehir Kalesi ve çevresinde Nevşehir Belediyesi tarafından kentsel dönüşüm çalışmaları kapsamında koruma mevzuatına aykırı işlemler yapıldığı, 5366 sayılı Kanunun 1. maddesindeki düzenleme uyarınca parsel ölçeğinde yenileme projeleri yapılması gerekirken, oldukça geniş bir alanın yenileme alanı olarak belirlenmesinin Kanunun amacına aykırı olduğu, Kanunda öngörülen yıpranmışlık ve özelliğini kaybetmişlik niteliğinin parsel bazında aranması ve parsellerin bu yönde etüdünün yapılarak, yenileme alanı ilan edilmesini gerektirecek hukuki ve bilimsel gerekçelerin bu etütlerle açıklığa kavuşturulması, idarenin bu yönde etüt yapıp yapmadığını ortaya koyması gerektiği belirtilmektedir.
 
 ## Danıştay 6. D. 2021/2214 E., 2025/3001 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1183501300)
 
 İlk Derece Mahkemesi kararının özeti: ...
 
@@ -117,6 +133,8 @@ Davanın yukarıda özetlenen gerekçeyle reddine ilişkin Mahkeme kararına yö
 
 ## Danıştay 6. D. 2024/2377 E., 2025/2498 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1166667600)
+
 İSTEMİN KONUSU :Karabük ilinde yürütülen kentsel dönüşüm ve gelişim projesi kapsamında ekli listede belirtilen taşınmazların Karabük Belediye Başkanlığı tarafından 2942 sayılı Kamulaştırma Kanununun 27. maddesi gereğince acele kamulaştırılmasına ilişkin 25/01/2013 tarih ve 28539 sayılı Resmi Gazetede yayımlanan 11.01.2013 tarihli, 2013/4203 sayılı (Bakanlar Kurulu) Cumhurbaşkanlığı kararının Karabük ili, Merkez, ... Köyü, ... ada, ... parsel sayılı taşınmaz yönünden iptali istenilmektedir.
 
 …
@@ -124,6 +142,8 @@ Davanın yukarıda özetlenen gerekçeyle reddine ilişkin Mahkeme kararına yö
 Dava konusu işlemin davacıya ait Karabük ili, Merkez, ... Köyü, ... ada, ... parsel sayılı taşınmaz yönünden İPTALİNE …
 
 ## Danıştay 9. D. 2024/6565 E., 2025/1710 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1162442300)
 
 İSTEMİN KONUSU : Toplu Konut İdaresi Başkanlığınca ihalesi gerçekleştirilen ... ihale kayıt numaralı "Zonguldak İli, Merkez İlçesi, ... TTK Lojmanları ve Çevresi 2. Etap Kentsel Dönüşüm ve Gelişim Projesi 369 Adet Konut ve 2 Adet Büfe İnşaatları ile Altyapı Ve Çevre Düzenlemesi İşi"nin yıllara sari inşaat işi olduğundan bahisle anılan iş kapsamında yapılan 7 ve 8 nolu hak ediş ödemeleri üzerinden tevkif edilen kurumlar (stopaj) vergisinin kaldırılması ve tevkif suretiyle ödenen verginin hesaplanacak tecil faiziyle birlikte iadesi istemiyle açılan davayı; 5520 sayılı Kurumlar Vergisi Kanunu'nun ''İstisnalar'' başlıklı 5. maddesinde bu kazançların kurumlar vergisinden müstesna olduğuna dair açık bir düzenleme olmadığı ve 775 sayılı Gecekondu Kanunu'nun 33. maddesinde düzenlenen muafiyetin kurumlar vergisini kapsamadığından, dava konusu işlemde hukuka aykırılık bulunmadığı gerekçesiyle reddeden ...
 Vergi Mahkemesinin ... tarih ve E:..., K:... sayılı kararına karşı davacı tarafından yapılan istinaf başvurusunun reddine, yargılama giderlerinin istinaf başvurusunda bulunanın üzerinde bırakılmasına, davacıdan 427,60-TL'den az olmamak üzere hüküm altına alınan tutarın binde 4,55'i oranında nispi karar harcının alınmasına hükmeden ... Bölge İdare Mahkemesi ... Vergi Dava Dairesinin ... tarih ve E:..., K:... sayılı kararının, temyizen incelenerek bozulması istenilmektedir.
@@ -133,6 +153,8 @@ Vergi Mahkemesinin ... tarih ve E:..., K:... sayılı kararına karşı davacı 
 2\. ... Bölge İdare Mahkemesi ... Vergi Dava Dairesinin ... tarih ve E:..., K:... sayılı kararının yukarıda belirtildiği şekilde düzeltilerek ONANMASINA …
 
 ## Danıştay 4. D. 2023/13474 E., 2025/724 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1205972800)
 
 DAVALININ SAVUNMASI : Öncelikle davanın ehliyet ve süre aşımı yönünden reddi gerektiği; esasa ilişkin olarak ise;
 6306 sayılı Kanunun Uygulama Yönetmeliğinde yapılan değişiklik ile söz konusu Yönetmeliğin 4. maddesinin 1. fıkranın (ç) bendinin başına "Yeni yerleşim alanı olarak kullanılmak üzere belirlenecek rezerv yapı alanlarında" ifadesi eklenmek suretiyle söz konusu gözlemsel verilere dayanılarak hazırlanacak raporun, sadece yeni yerleşim yeri olarak belirlenecek olan rezerv alanlarında istenmesinin hükme bağlandığı, bugüne kadar 6306 sayılı Kanun kapsamında yürütülen çalışmalarda; gözlemsel verilere dayanılarak hazırlanacak gerekçe raporuna sadece yeni yerleşim alanı olarak kullanılmak üzere belirlenecek rezerv yapı alanlarında ihtiyaç olduğu, söz konusu hükümde sayılan diğer amaçlar doğrultusunda rezerv yapı alanı belirlenmesi halinde böyle bir rapora ihtiyaç olmadığı anlaşıldığından, iptali talep edilen Yönetmelik maddesi hükmü ile rezerv yapı alanı tespiti için istenecek belgelerden, "gözlemsel verilere dayanılarak hazırlanacak gerekçe raporunun sadece yeni yerleşim alanı olarak kullanılmak üzere belirlenecek rezerv yapı alanlarında isteneceğine ilişkin bir düzenleme yapıldığı, bu sebeple, dava dilekçesinde yer alan "yapılan değişiklik ile getirilen kriterin hiçbir bilimsel esasa
@@ -145,6 +167,8 @@ katılımcının yedi gün içinde satış bedelini banka hesabına yatırması 
 
 ## Danıştay 4. D. 2024/150 E., 2025/109 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1204109800)
+
 İlk Derece Mahkemesi kararının özeti:... İdare Mahkemesince verilen... tarih ve E:... K:... sayılı kararda; iş yeri açma ve çalışma ruhsatı verilmesi talebiyle davalı idareye yapılan başvurunun, iş yerinin riskli alan sınırları içerisinde kaldığı gerekçesi ile reddolunduğu, uyuşmazlık konusu işyeri ile aynı bölgede faaliyet gösteren mevcut başkaca işyerleri ile ilgili olarak kentsel dönüşüm kapsamında davalı idarece herhangi bir tahliye işlemi tesis edildiği yönünde dava dosyasına bilgi ya da belge sunulmadığı anlaşıldığından, söz konusu yerde davacının iş yeri açma ve çalışma ruhsatı verilmesi yönündeki talebinin, İşyeri Açma ve Çalışma Ruhsatlarına İlişkin Yönetmelikte belirtilen şartları taşıyıp taşımadığı yönünden değerlendirilmek suretiyle neticelendirilmesi gerekirken, bölgede kentsel dönüşüm projesi başladığı ve iş yerinin bu proje kapsamında riskli alan sınırları içerisinde kaldığı gerekçesiyle davacının talebinin reddedilmesinde hukuka ve mevzuata uyarlık bulunmadığı sonucuna varılmıştır. Belirtilen gerekçelerle dava konusu işlemin iptaline karar verilmiştir.
 
 …
@@ -152,6 +176,8 @@ katılımcının yedi gün içinde satış bedelini banka hesabına yatırması 
 Temyize konu ... Bölge İdare Mahkemesi ... İdare Dava Dairesinin ... tarih ve E:..., K:... sayılı kararının ONANMASINA …
 
 ## Danıştay 9. D. 2024/6792 E., 2025/18 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1143192400)
 
 Bu durumda, 6306 sayılı Kanun kapsamında üzerinde riskli yapı şerhi bulunan dava konusu taşınmazın (... sayılı parselin tamamına dava konusu satış işlemi sonrası riskli yapı şerhi konulmasının taşınmazın riskli yapı niteliğini değiştirmeyeceği de dikkate alınarak) anılan Kanunun uyuşmazlık döneminde yürürlükte bulunan 7/9. maddesinin (a) bendi uyarınca dönüşüme tabi tutulmadan önceki ilk satışının tapu harcından istisna olduğu sonucuna varıldığından davanın kabulü yolundaki Vergi Mahkemesine karşı davalı tarafından yapılan istinaf başvurusunu kabul edip, kararı kaldırarak,davayı yukarıda belirtilen gerekçeyle reddeden Bölge İdare Mahkemesi kararında hukuka uyarlık bulunmamaktadır.
 
@@ -161,9 +187,13 @@ Bu durumda, 6306 sayılı Kanun kapsamında üzerinde riskli yapı şerhi buluna
 
 ## Danıştay 4. D. 2024/517 E., 2024/7644 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1140750900)
+
 DAVALININ SAVUNMASI : Davacının da bağımsız bölüm maliki olduğu bina hakkında 6306 sayılı Kanun kapsamında riskli yapı kararı alındığı, Kanunun önceki halinde karar alma çoğunluğu kat maliklerinin 2/3'ü olsa da 6306 sayılı Kanunun 6. maddesinde 09/11/203 tarihinde yapılan değişiklik ile riskli yapı kararı sonrasında parsellerin tevhit edilmesine, münferit veya birleştirilerek veya imar adası bazında uygulama yapılmasına, ifraz, terk, ihdas ve tapuya tescil işlemlerine, yeniden bina yaptırılmasına, payların satışına, kat karşılığı veya hasılat paylaşımı ve diğer usuller ile yeniden değerlendirilmesine, kat maliklerinin kararına katılmayan hissedarların paylarının satışına vb. hususlarda kat maliklerinin salt çoğunluğu ile karar verilebileceği, Yönetmelik hükmünün de bu doğrultuda değiştirileceği, yapılan düzenlemenin üst hukuk normlarının tanıdığı yetki çerçevesinde hizmetin gerekleri ile kamu yararı bakımından hukuka uygun olarak yapıldığı belirtilerek, haksız ve mesnetsiz olarak açılan davanın reddi gerektiği savunulmuştur.
 
 ## Danıştay 6. D. 2023/4699 E., 2024/6496 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1117325600)
 
 DAVANIN KONUSU :Trabzon ili, Dernekpazarı ilçesi sınırları içerisinde bulunan ve ekli listede ada ve parsel numaraları belirtilen taşınmazların bölgede yürütülen kentsel dönüşüm ve gelişim projesi kapsamında Trabzon Büyükşehir Belediye Başkanlığı tarafından 2942 sayılı Kamulaştırma Kanununun 27. maddesi gereğince acele kamulaştırılmasına ilişkin 12/05/2023 tarih ve 32188 sayılı Resmi Gazetede yayımlanan 11/05/2023 tarih ve 7273 sayılı Cumhurbaşkanlığı kararının Trabzon ili, Dernekpazarı ilçesi, ... Mahallesi, ... ada, ... ve ... parsel sayılı taşınmazlar yönünden iptali istenilmektedir.
 
@@ -172,6 +202,8 @@ DAVANIN KONUSU :Trabzon ili, Dernekpazarı ilçesi sınırları içerisinde bulu
 Dava konusu işlemin uyuşmazlığa konu taşınmazlara ilişkin kısmının İPTALİNE …
 
 ## Danıştay 9. D. 2024/2576 E., 2024/6432 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1177388900)
 
 İSTEMİN KONUSU: Davacı tarafından, 6306 sayılı Afet Riski Altındaki Alanların Dönüştürülmesi Hakkında Kanun kapsamında Konya İli, Selçuklu İlçesi, ...
 Mahallesi, ... ada, ...parselde bulunan taşınmaz üzerine inşa edilen bağımsız bölümlerin 2014 ila 2017 yılları arasındaki üçüncü kişilere satışı nedeniyle ödenen 177.335,00TL'lik tapu harcının iadesi istemiyle yapılan düzeltme-şikayet başvurusunun zımnen reddi yolundaki işlemin iptali ve tahsil edilen tutarın faiziyle birlikte iadesi istemiyle açılan davayı, davacı müteahhit firma tarafından üçüncü kişilere yapılan devirlerin istisna hükmü kapsamında değerlendirilmesine yasal olarak imkan bulunmadığı gerekçesiyle reddeden Vergi Mahkemesi kararına yönelik davacı tarafından yapılan istinaf başvurusunu, davacı tarafından ileri sürülen iddiaların, 213 sayılı Kanun'un 117 ve 118. maddesinde yazılı hesap ve vergilendirme hataları sayılabilecek nitelikte olmadığı gerekçesiyle reddeden Bölge İdare Mahkemesi kararının Danıştay Dokuzuncu Dairesince bozulması üzerine, bozma kararına uymayıp ilk kararında ısrar eden Bölge İdare Mahkemesi kararının Vergi Dava Daireleri Kurulu tarafından, dava konusu taşınmazların satışına ilişkin ödenen tapu harçlarının istisna kapsamında olduğundan ve vergiden istisna olan işlemlerden vergi alınmasının mevzuda hata olarak değerlendirilmesi gerektiği
@@ -183,6 +215,8 @@ gerekçesiyle verilen bozma kararına uyarak, davacı istinaf başvurusunu yenid
 
 ## Danıştay 9. D. 2024/3009 E., 2024/6352 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1137558300)
+
 Olayda; davacı ile taşınmaz malikleri arasında imzalanan taşınmaz satış vaadi ve arsa payı karşılığı inşaat sözleşmelerinin riskli yapı niteliği taşıyan taşınmazların yıkılarak yeniden inşası amacına yönelik olduğu, bu itibarla sözleşmelerin 6306 sayılı Kanun kapsamında riskli yapıların bulunduğu alanlarda fen ve sanat norm ve standartlarına uygun, sağlıklı ve güvenli yaşam çevreleri teşkil etmek amacına hizmet ettiği ve bu Kanun kapsamında düzenlenen sözleşmeler olduğu, bu durumda anılan Kanunun 7.maddesinin 9.fıkrası uyarınca vergi ve harçtan müstesna olduğu anlaşılmaktadır.Yine, sözleşmelerin imzalandığı tarihte tapuda "riskli yapı" şerhinin bulunmamasının ve daha sonra konulmasının yapının riskli olduğu gerçeğini değiştirmeyeceği açıktır.
 
 …
@@ -190,6 +224,8 @@ Olayda; davacı ile taşınmaz malikleri arasında imzalanan taşınmaz satış 
 ... Bölge İdare Mahkemesi...Vergi Dava Dairesinin ... tarih ve E:..., K:... sayılı kararının BOZULMASINA …
 
 ## Danıştay 6. D. 2021/10108 E., 2024/5502 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1108892200)
 
 MADDİ OLAY : Şırnak ili, Cizre ilçesi, ..., ... , ... , ..., ..., ..., ..., ... ve ...
 Mahalleleri sınırları içerisinde kalan yaklaşık 483,13 hektarlık alanın 6306 sayılı Kanun kapsamında 30.05.2016 tarih ve 2016/8860 sayılı Bakanlar Kurulu Kararı ile "riskli alan" ilan edildiği, 01.06.2016 tarih ve 29729 sayılı Resmi Gazete'de yayımlandığı, riskli alan olarak belirlenen alanda yapılan 1/1000 ölçekli uygulama imar planı ile 1/5000 ölçekli nazım imar planı 21.11.2016 tarihinde Şırnak Valiliği ilan panosunda ve internet sitesinde 15 gün süre ile ilan edilip 06.12.2016 tarihinde askıdan indirildiği, 3194 sayılı İmar Kanununun 18.maddesi uyarınca yapılan parselasyon işleminin ise 07.02.2017 tarihinde Şırnak Valiliği ilan panosunda ve internet sitesinde 15 gün süre ile ilan edilip 22.02.2018 tarihinde askıdan indirildiği, söz konusu parselasyon planına süresi içerisinde 3 itiraz yapıldığı, davacı tarafından da 19.02.2018 tarihinde itiraz edildiği, söz konusu itirazların ... tarih ve ... sayılı işlem ile reddedildiği, bu işlemin davacıya bildirilmemesi üzerine davacı tarafından 11.04.2018 tarihli dilekçesi ile Şırnak Çevre ve Şehircilik Müdürlüğüne başvurularak anılan itirazın akıbetinin sorulduğu, bu başvuruya cevaben 12.04.2018 tarihinde tebliğ edilen ... tarih ve ...
@@ -200,6 +236,8 @@ sayılı işlem ile itirazının reddedildiğinin davacıya bildirildiği, davac
 2\. 5233 sayılı Terör ve Terörle Mücadeleden Doğan Zararların Karşılanması Hakkında Kanun'un Geçici 6. maddesinde öngörülen yargılama usulü uyarınca temyizen incelenen davanın süre aşımı nedeniyle reddine ilişkin temyize konu ... İdare Mahkemesinin ... tarih ve E:..., K:... sayılı kararının BOZULMASINA …
 
 ## Danıştay 9. D. 2023/184 E., 2024/5305 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1112359600)
 
 İlk Derece Mahkemesi kararının özeti: ...Vergi Mahkemesinin ... tarih ve E:..., K:... sayılı kararıyla; uyuşmazlıkta, davacı şirket tarafından üzerinde riskli yapı şerhi bulunan taşınmazların dönüşüm uygulamalarının gerçekleştirilerek yeni yapılar inşa edildiği ve bağımsız bölümlerden bir kısmının üçüncü kişilere "ilk satışının" yapıldığı anlaşıldığından, dava konusu satış işlemleri 6306 sayılı Kanun'un olay tarihinde yürürlükte olan hali gereğince harçtan muaf tutulmuş olup davacıdan tapu harcı tahsil edilmesinde hukuka uyarlık bulunmadığı gerekçesiyle davanın kabulüne, dava konusu işlemin iptaline, ödenen tapu harcının tahsil tarihinden itibaren işleyecek tecil faizi ile birlikte iadesine karar verilmiştir.
 

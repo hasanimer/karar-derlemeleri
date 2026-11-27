@@ -22,6 +22,8 @@ uyari: "Derleyenin seçtiği alıntılardır; kararın tamamı değildir. Künye
 
 ## Danıştay 6. D. 2019/12045 E., 2025/3758 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1191416700)
+
 Davacı tarafından İzmir- Manisa Planlama Bölgesi 1/100.000 ölçekli Çevre Düzeni Planında genel olarak 1/25.000 ölçekli Çevre Düzeni Planı kararlarının göz önüne alınması gerektiği ileri sürülmüş ise de, dava konusu planın üst ölçekli çevre düzeni planı olması ve plan kademelenmesi açısından alt ölçekli planları yönlendirebilecek yeni ve farklı stratejik mekansal kararlar üretilebilecek nitelikte olması nedeniyle 1/25.000 ölçekli plan ile tamamıyla örtüşmesi ve her kararında bu plana uygun olması gibi bir zorunluluk bulunmadığından davacının bu iddiasına itibar edilmemiştir.
 
 …
@@ -35,6 +37,8 @@ Kemalpaşa İlçesi ... Mahallesinde, Kuruderenin kuzeydoğusunda 16/11/2015 tar
 Dava konusu planın diğer kısımlarına yönelik DAVANIN REDDİNE …
 
 ## Danıştay 9. D. 2025/1308 E., 2025/3587 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1206411700)
 
 İlk Derece Mahkemesi kararının özeti: ...
 
@@ -56,6 +60,8 @@ Açıklanan nedenlerle, ... İdare Mahkemesinin ... tarih ve E:..., K:... sayıl
 
 ## Danıştay 4. D. 2023/11204 E., 2025/3317 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1185172500)
+
 DÜŞÜNCESİ : Dava, Hatay İli, Antakya İlçesinde bulunan ve ekli kroki ile listede sınır ve koordinatları gösterilen alanların 6306 sayılı Afet Riski Altındaki Alanların Dönüştürülmesi Hakkında Kanunun 2. maddesi uyarınca riskli alan ilan edilmesine ilişkin 05.04.2023 tarihli, 32154 sayılı Resmi Gazete'de yayımlanan 04.04.2023 tarihli ve 7033 sayılı Cumhurbaşkanı kararının, anılan alanda taşınmazı bulunan davacı tarafından, iptali istemiyle açılmıştır.
 
 Anayasa'nın 13. maddesinde, "Temel hak ve hürriyetler, özlerine dokunulmaksızın yalnızca Anayasanın ilgili maddelerinde belirtilen sebeplere bağlı olarak ve ancak kanunla sınırlanabilir. Bu sınırlamalar, Anayasanın sözüne ve ruhuna, demokratik toplum düzeninin ve lâik Cumhuriyetin gereklerine ve ölçülülük ilkesine aykırı olamaz." hükmü, 35. maddesinde, "Herkes, mülkiyet ve miras haklarına sahiptir. Bu haklar, ancak kamu yararı amacıyla, kanunla sınırlanabilir. Mülkiyet hakkının kullanılması toplum yararına aykırı olamaz." hükmü, 46. maddesinde, "Devlet ve kamu tüzel kişileri; kamu yararının gerektirdiği hallerde, gerçek karşılıklarını peşin ödemek şartıyla, özel mülkiyette bulunan taşınmaz malların tamamını veya bir kısmını, kanunla gösterilen esas ve usullere göre, kamulaştırmaya ve bunlar üzerinde idarî irtifaklar kurmaya yetkilidir." hükmü, 63. maddesinde, "Devlet, tarih, kültür ve tabiat varlıklarının ve değerlerinin korunmasını sağlar, bu amaçla destekleyici ve teşvik edici tedbirleri alır.
@@ -67,11 +73,15 @@ Uygulama yapılacak alanın sınırları uygulama bütünlüğü gözetilerek be
 
 ## Danıştay 4. D. 2023/11302 E., 2025/3280 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1187334500)
+
 Anayasamızın 56. maddesinde; çevreyi geliştirmek, çevre sağlığını korumak ve çevre kirlenmesini önlemek Devletin ve vatandaşların ödevi olarak belirtilmiş, 57. maddesinde; şehirlerin özelliklerini ve çevre şartlarını gözeten bir planlama çerçevesinde, konut ihtiyacını karşılayacak tedbirleri almanın da Devletin görevi olduğu belirtilmiş, 23. maddesinde ise; sosyal ve ekonomik gelişmeyi sağlamak, sağlıklı ve düzenli kentleşmeyi gerçekleştirmek ve kamu mallarını korumak amacıyla yerleşme ve seyahat hürriyetinin Kanunla sınırlanabileceği, hüküm altına alınmıştır.
 
 6306 sayılı Kanunun 1. maddesinde; Bu Kanunun amacının, afet riski altındaki alanlar ile bu alanlar dışındaki riskli yapıların bulunduğu arsa ve arazilerde, fen ve sanat norm ve standartlarına uygun, sağlıklı ve güvenli yaşama çevrelerini teşkil etmek üzere iyileştirme, tasfiye ve yenilemelere dair usul ve esasları belirlemek olduğu, Ek Madde 1 (a) bendinde; kamu düzeni veya güvenliğinin olağan hayatı durduracak veya kesintiye uğratacak şekilde bozulduğu yerlerde; planlama ya da altyapı hizmetleri yetersiz olan veya imar mevzuatına aykırı yapılaşma bulunan yahut yapı ya da altyapısı hasarlı olan alanların, fen ve sanat norm ve standartlarına uygun, sağlıklı ve güvenli yaşama çevrelerini teşkil etmek, sağlık, eğitim ve ulaşım gibi kamu hizmetlerinin düzenli bir şekilde yürütülmesini sağlamak amacıyla, Cumhurbaşkanınca riskli alan olarak kararlaştırılabileceği, hüküm altına alınmış, 2. maddesinin "ç" bendinde ise riskli alan; zemin yapısı veya üzerindeki yapılaşma sebebiyle can ve mal kaybına yol açma riski taşıyan, Cumhurbaşkanınca kararlaştırılan alan olarak tanımlanmıştır.
 
 ## Danıştay 6. D. 2024/7247 E., 2025/2940 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1183631600)
 
 Davalı İdarece, 2016 yılında planda yapılan değişikliklerle davacının itirazı üzerine, nüfus projeksiyonlarında yeniden düzenleme yapıldığı, dava konusu plan değişikliği kapsamında yeni gelişme ve bölgesel dinamikler dikkate alınarak güncel nüfus verileri ile planlama bölgesinde yer alan tüm illerin nüfus projeksiyonların yeniden hesaplandığı, bu doğrultuda plan açıklama raporunun 4.6 nüfus bölümünde de yer aldığı üzere, nüfus projeksiyonlarının; 2007, 2011 ve 2015 yılları Adrese Dayalı Nüfus Kayıt Sistemi (ADNKS) sonuçları üzerinden aritmetik, üssel ve bileşik faiz yöntemlerinin ortalaması alınarak hesaplandığı, hesaplama sonucunda elde edilen verilerin 24/06/2011 onaylı ÇDP açıklama raporunda belirtilmiş olan nüfus kabulleri ile karşılaştırıldığı, bu karşılaştırma sonucunda; nüfus projeksiyonlarının 24/06/2011 onaylı ÇDP kabullerine göre nüfusu yükselen yerleşmelerin nüfus kriterlerinin yeniden düzenlendiği savunulmaktadır.
 
@@ -84,6 +94,8 @@ Anayasa'nın 138. maddesinin son fıkrası ile 2577 sayılı Kanun'un 28. maddes
 Sonuç itibariyle dava kısmen ret, kısmen iptal ile sonuçlandığından ödemede ve tahsilde tekerrüre sebebiyet vermemek üzere Dairemizin 27/05/2021 tarih ve E:2017/4844, K:2021/7163 sayılı kararında hükmedilen yargılama giderlerinin kaldırılmasına …
 
 ## Danıştay 6. D. 2023/7743 E., 2025/2761 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1184817300)
 
 Anayasa'nın 10. maddesinde belirtilen "kanun önünde eşitlik ilkesi" ise hukuksal durumları aynı olanlar için söz konusudur. Bu ilke ile eylemli değil, hukuksal eşitlik öngörülmüştür. Eşitlik ilkesinin amacı, aynı durumda bulunan kişilerin kanunlar karşısında aynı işleme bağlı tutulmalarını sağlamak, ayrım yapılmasını ve ayrıcalık tanınmasını önlemektir. Bu ilkeyle, aynı durumda bulunan kimi kişi ve topluluklara ayrı kurallar uygulanarak kanun karşısında eşitliğin ihlâli yasaklanmıştır.
 
@@ -99,6 +111,8 @@ Dava konusu 12/08/2023 tarih ve 32277 sayılı Resmi Gazetede yayımlanan Otopar
 
 ## Danıştay 6. D. 2024/7815 E., 2025/2589 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1162845800)
+
 Anayasanın 35. maddesinde; "Herkes, mülkiyet ve miras haklarına sahiptir. Bu haklar, ancak kamu yararı amacıyla, kanunla sınırlanabilir. Mülkiyet hakkının kullanılması toplum yararına aykırı olamaz." hükmü yer almaktadır.
 
 Avrupa İnsan Hakları Sözleşmesinin Ek 1 No.lu Protokolünün "Mülkiyetin korunması" başlıklı 1. maddesinde: "Her gerçek ve tüzel kişinin mal ve mülk dokunulmazlığına saygı gösterilmesini isteme hakkı vardır. Herhangi bir kimse, ancak kamu yararı sebebiyle ve yasada öngörülen koşullara ve uluslararası hukukun genel ilkelerine uygun olarak mal ve mülkünden yoksun bırakılabilir. Yukarıdaki hükümler, devletlerin, mülkiyetin kamu yararına uygun olarak kullanılmasını düzenlemek veya vergilerin ya da başka katkıların veya para cezalarının ödenmesini sağlamak için gerekli gördükleri yasaları uygulama konusunda sahip oldukları hakka halel getirmez." hükmüne yer verilmiştir.
@@ -109,6 +123,8 @@ Avrupa İnsan Hakları Sözleşmesinin Ek 1 No.lu Protokolünün "Mülkiyetin ko
 
 ## Danıştay 6. D. 2024/2377 E., 2025/2498 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1166667600)
+
 Olağan kamulaştırma sürecinde; kamu yararının gerektirdiği hallerde gerçek ve özel hukuk tüzelkişilerinin mülkiyetinde bulunan taşınmaz mallar kamulaştırılırken, öncelikle yeterli ödenek ayrıldıktan sonra, Kanun'un 5. ve 6. maddelerinde belirlenen mercilerce kamu yararı kararı alınır. Kamulaştırmayı gerçekleştirecek idarece, sırasıyla, aynı Kanun'un 7. maddesinde ayrıntısı belirlendiği üzere taşınmaza ilişkin ölçekli plan yapılır, taşınmazın maliki belirlenir, vergi beyan ve değeri tespit edilir ve tapuya kamulaştırma şerhi verilmesinin ardından Kanun'un 8. maddesine göre idarenin satın alma usulünü, karşılıklı anlaşmaya dayalı olarak denemesi gerekir. Bu yolla anlaşmaya varılamaması halinde, Kanun'un 10. maddesine göre idarenin ilgili belgelerle birlikte taşınmazın bulunduğu yer asliye hukuk mahkemesinde kamulaştırma bedelinin tespiti ve taşınmazın idare adına tescilini sağlamak amacıyla dava açması gerekir ve ancak mahkemece tescil kararı verildikten sonra idare, kamulaştırmaya konu taşınmaz üzerinde tasarruf edebilir hale gelir.
 
 …
@@ -117,6 +133,8 @@ Dava konusu işlemin davacıya ait Karabük ili, Merkez, ... Köyü, ... ada, ..
 
 ## Danıştay 4. D. 2025/1903 E., 2025/2147 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1161385800)
+
 2709 sayılı Türkiye Cumhuriyeti Anayasası'nın 125. maddesinin 1. fıkrasında idarenin her türlü eylem ve işlemlerine karşı yargı yolunun açık olduğu belirtilmiş, son fıkrasında ise, idarenin kendi eylem ve işlemlerinden doğan zararları ödemekle yükümlü olduğu hükmüne yer verilmiştir.
 
 …
@@ -124,6 +142,8 @@ Dava konusu işlemin davacıya ait Karabük ili, Merkez, ... Köyü, ... ada, ..
 Temyize konu ... Bölge İdare Mahkemesi ... İdare Dava Dairesinin ... tarih ve E:..., K:... sayılı kararının temyize konu kısmının BOZULMASINA …
 
 ## Danıştay 6. D. 2024/1094 E., 2025/1858 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1161713400)
 
 Anayasanın 124. maddesinde, Cumhurbaşkanı, bakanlıklar ve kamu tüzelkişilerinin, kendi görev alanlarını ilgilendiren kanunların ve Cumhurbaşkanlığı kararnamelerinin uygulanmasını sağlamak üzere ve bunlara aykırı olmamak şartıyla, yönetmelikler çıkarabileceği hükmüne yer verilmiş, buna göre, idari teşkilat yapısı içinde yer alan Bakanlıklar ile diğer kamu kurum ve kuruluşları, görev alanlarına ilişkin olarak ve yönetmelik, yönerge, tebliğ, genelge ve talimat gibi çeşitli adlar altında düzenleme yapabilmektedirler. Normlar hiyerarşisine göre kanundan sonra gelen yönetmelik, genelge, tebliğ, talimat gibi düzenlemelerin ancak kanunda verilmiş olan hakkın kullanılmasının açıklanması ile ilgili olacağı, bu metinlerde kanun ile verilmiş olan hakkı genişletici veya daraltıcı mahiyette ve bu normları aşar nitelikte hükümlere yer verilemeyeceği hukukun genel ilkelerindendir.
 
@@ -153,6 +173,8 @@ Diğer açılardan DAVANIN REDDİNE …
 
 ## Danıştay 6. D. 2024/867 E., 2025/1499 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1153643400)
+
 Anayasa'nın 138. maddesinin son fıkrasında, "Yasama ve yürütme organları ile idare, mahkeme kararlarına uymak zorundadır; bu organlar ve idare, mahkeme kararlarını hiçbir suretle değiştiremez ve bunların yerine getirilmesini geciktiremez." hükmü yer almaktadır.
 
 …
@@ -160,6 +182,8 @@ Anayasa'nın 138. maddesinin son fıkrasında, "Yasama ve yürütme organları i
 Dava konusu mülkiyeti hazineye ait, Ankara ili, Gölbaşı ilçesi, ... Mahallesi, ... ve ... sayılı parsel sayılı taşınmazlara ilişkin Hazine ve Maliye Bakanlığı Özelleştirme İdaresi Başkanlığı tarafından hazırlanarak 17.11.2023 tarih ve 7807 sayılı Cumhurbaşkanlığı Kararı ile onaylanan 1/5000 ölçekli nazım imar planı değişikliği ile 1/1000 ölçekli uygulama imar planı değişikliğinin İPTALİNE …
 
 ## Danıştay 13. D. 2024/525 E., 2025/1458 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1164762400)
 
 Davacı tarafından, Maliye Hazinesinin maliki olduğu ve tapuda İstanbul ili, Sarıyer ilçesi, ... Mahallesi, ...parsel sayılı taşınmaz üzerinde, murisinin zilyetliğinde konut, kömürlük, bahçe, müştemilat olmak üzere, sair yapılar hakkında 3194 sayılı İmar Kanunu'nun Geçici 16. maddesi doğrultusunda, 27/10/2018 tarihli yapı kayıt belgesi düzenlendiği, daha öncesinde de murisi tarafından bu taşınmaz için ecrimisil ödenilerek zilyetliğinde bulunduğu, söz konusu meşru zilyetliği nedeniyle doğan hak ve yükümlülüklerini eksiksiz yerine getirdiği, dava konusu taşınmaz için 31/12/2022 tarihli dilekçe ile başvurularak İmar Kanunu'nun Geçici 16/7. maddesi uyarınca tarafına satış talebinde bulunulduğu, idarenin bu konuda bağlı yetki içinde olmasına rağmen henüz talebinin yerine getirilmediği, İstanbul Valiliğine yapılan satın alma talebinin zımnen reddine ilişkin işlemin iptali istemiyle ...
 
@@ -169,12 +193,16 @@ Zira Anayasa'nın 47. maddesinin 2. fıkrası uyarınca özelleştirmeye ilişki
 
 ## Danıştay 6. D. 2023/4977 E., 2025/716 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1153903700)
+
 Bu kapsamda İnşaat Mühendisleri Odasının Serbest çalışan İnşaat mühendislerinin etkinliklerini denetlemek ve serbest inşaat mühendisliği hizmetinin esaslarını, mesleki deneyim, kapasite ve yeterlilik açısından değerlendirmekle görevli olduğu açıktır." şeklinde vurgulandığı, ayrıca Anayasa Mahkemesi'nin 29.11.2012 tarih ve E:2011/100 K:2012/191 sayılı kararında da meslek kuruluşlarının görev ve yetkileri "Meslek kuruluşlarının özerkliği, merkezi idareden bağımsız olarak karar ve yürütme organlarını seçebilme, ilgili mesleki faaliyetlerle sınırlı olmak üzere üyelerini ve örgütlerini bağlayıcı karar alma ve uygulama, meslek mensuplarının uyacağı ilke ve kuralları belirleme ve üyeleri hakkında disiplin tedbirleri uygulama hak ve yetkisini içermektedir." denmek suretiyle açıklandığı, Anayasa Mahkemesi'nin değerlendirmesine göre; meslek odalarının idari özerkliğe sahip olduğu, meslek odalarının, mimar ve mühendislerin mesleki faaliyetlerini icra ederken uyacağı kuralları belirleyeceği, meslek odalarının mesleki faaliyetlerle sınırlı olmak üzere üyelerini ve örgütlerini bağlayıcı karar alma ve uygulama, meslek mensuplarının uyacağı ilke ve kuralları belirleme ve üyeleri hakkında disiplin
 tedbirleri uygulama hak ve yetkisine sahip olduğu, üye sicillerini tutma yetki ve görevinin meslek odalarına ait olduğu, Bakanlığın mesleğin icrasına ilişkin kurallar belirleme yetkisi bulunmadığı, sadece istatistiki veri için kayıt tutabileceği, Anayasa Mahkemesi kararında da belirtildiği üzere meslek mensuplarının uyacağı ilke ve kuralları belirleme yetkisinin odaya ait olduğu, bu yetkiye müdahale edilemeyeceği, doğrudan inşaat mühendisliği mesleği ve meslek mensuplarıyla ilgili bir konuda düzenleme yapma, mühendislik mesleğine dair yeterliliğin ölçümü ve belgelendirilmesinin Anayasa'nın 135. maddesi gereği odanın yetki ve görev alanındayken Çevre, Şehircilik ve İklim Değişikliği Bakanlığınca, yetkisiz bir biçimde mesleğin ifasına ilişkin sınırlama getiren düzenlemenin Anayasanın 135. maddesi ve 6235 sayılı TMMOB Kanuna, Anayasa Mahkemesi ve Danıştay kararlarına aykırı olduğu, mühendisliğin bilgi ve deneyim mesleği olduğu, mühendislikte yetkilendirmenin bu temel kritere göre yapılması gerektiği, meslek yaşının tek başına deneyimin göstergesi olmadığı, bilginin göstergesi olarak da ölçüt olarak alınması mümkün olmadığı, bilgi ve deneyimin tespiti için ölçme/değerlendirme
 yöntemlerinin zorunlu olduğu, düzenlemede yer alan binaların kat adetine göre tasnif edilmesinin bilim ve teknik ile ilgisi olmayan bir yöntem olduğu, bir binada kat adeti ne olursa olsun, o binanın nitelikli bir mühendislik projesine ihtiyaç duyacağı, ülkemizdeki konut üretiminin % 70'inin bu türlü yapıların oluşturduğu, riskli yapı stokunun da büyük bir çoğunluğunun da bunlardan oluştuğu, idarenin bu düzenleme ile bu ölçekteki yapılaşmaya gözardı ettiği, zemin+5 kata sahip olup da kullanım amacı açısından büyük önem arz eden (kamuya açık yapılar) veya özel mühendislik çözümleri gerektirecek taşıyıcı sisteme sahip olan, yani mühendislik bilgisi, deneyimi ve becerisi gerektirecek yapıların da idare tarafından yapılan bu düzenlemenin dışında bırakıldığı, ilgili düzenlemede akademik uzmanlıkların (yüksek lisans, doktora vb.) meslek icrası açısından önceliklendirilmesinin bilimsel ve teknik anlamada anlaşılır olmadığı, özellikle imar ve yapılaşma gibi bütünüyle uygulamayla ilgili bir alanda adeta akademik bir kariyere yönelik ölçütler belirlenmesinin öngörülen faaliyetin niteliği ile bağdaşmadığı, bu durumun can ve mal güvenliği bakımından risk oluşturması dolayısıyla kamu yararına
 aykırı olduğu, bilimsel ve teknik esaslara da uygun olmadığı ileri sürülerek iptali istenilmektedir.
 
 ## Danıştay 6. D. 2020/7832 E., 2025/586 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1161792700)
 
 DAVALI YANINDA MÜDAHİLİN İDDİALARI: Mezitli Küçük Sanayi Sitesi yapımının bölge halkının, sanayi esnafının ve şehrin önemli bir sorunu ve ihtiyacı olduğu ve acilen çözülmesinde açık kamu yararı bulunduğu, davaya konu 1/100.000 ölçekli çevre düzeni planının hazırlanmasının, onaylanmasının ve bu plan ile getirilen kullanımların yasal mevzuata ve hukuka uygun olduğu, 1/100.000 çevre düzeni planını değişikliği teklifinin Mersin Büyükşehir Belediye Meclisi'nin ... tarih ve ... sayılı kararı ile onaylandığı, askı süresinde yapılan itirazların reddedilerek planın kesinleştiği, görülen davanın ise dava açma süresi geçirildikten sonra açıldığı hususlarının birlikte değerlendirilerek davanın reddine karar verilmesi gerektiği ileri sürülmektedir.
 
@@ -183,6 +211,8 @@ DAVALI YANINDA MÜDAHİLİN İDDİALARI: Mezitli Küçük Sanayi Sitesi yapımı
 Dava konusu 19/02/2020 tarihinde onaylanan Mersin-Adana Planlama Bölgesi 1/100.000 ölçekli Revizyon Çevre Düzeni Planı Değişikliğinin anılan parsele yönelik kısmının İPTALİNE …
 
 ## Danıştay 6. D. 2022/7933 E., 2025/580 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1145647500)
 
 Söz konusu Yönetmeliğin 26.maddesinde, İmar planı değişikliklerinin plan ana kararlarını, sürekliliğini, bütünlüğünü, sosyal ve teknik altyapı dengesini bozmayacak nitelikte, kamu yararı amaçlı, teknik ve nesnel gerekçelere dayanılarak yapılacağı, yürürlükteki imar planlarında öngörülen sosyal ve teknik altyapı standartlarını düşüren plan değişikliği yapılamayacağı, bu alanların kaldırılması, küçültülmesi veya yerinin değiştirilmesine dair plan değişikliklerinin zorunluluk olmadıkça yapılamayacağı, zorunlu hallerde böyle bir değişiklik yapılabilmesi için ise imar planında yer alan yol hariç sosyal ve teknik altyapı alanlarının ve kamuya ait sosyal ve kültürel tesis alanlarının kaldırılabilmesi veya küçültülmesi ancak bu tesislerin hitap ettiği hizmet etki alanı içinde eşdeğer yeni bir alanın ayrılması suretiyle yapılabileceği, eşdeğer alanın ayrılmasında yüzölçümü ve konum özelliklerinin korunacağı nüfus yoğunluğunun artırılmasına dair imar planı değişikliklerinde, artan nüfusun ihtiyacı olan sosyal ve teknik altyapı alanları standartlara uygun olarak plan değişikliğine konu alana hizmet vermek üzere ayrılacağı, yoğunluk artıran veya kentsel ulaşım sistemini etkileyen imar plan
 değişikliklerinde, kentsel teknik altyapıya yönelik etkilerin belirlenmesi ve gerekli önlemlerin alınması amacıyla ayrıca kentsel teknik altyapı etki değerlendirmesi raporu, analizi hazırlanacağı kurallarına yer verilmiştir.
@@ -193,6 +223,8 @@ Dava konusu İstanbul İli, Kartal İlçesi, ... Mahallesi, ... ada, ... parsel 
 
 ## Danıştay 6. D. 2023/5169 E., 2025/577 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1161767400)
+
 Davalı idare tarafından, dava konusu düzenleme ile Mimari Estetik Komisyonlarının yapısında değişikliğe gidilerek mimar üye sayısının en az 2 olacak ve komisyon başkanının en az 5 yıl deneyimli veya mimarlık ana bilim dalında tezli lisansüstü öğrenim görmüş bir mimar olması şartının getirildiği, böylelikle Komisyonda daha nitelikli değerlendirme yapılmasının amaçlandığı, düzenleme ile daha sağlıklı kararlar alınmasının sağlanacağı, mimarlık formasyonunu haiz bir mimarın özgün fikir ifade eden proje değerlendirmesini yapabilmesi gerektiği, düzenleme üniversitede eğitimini aldıkları konularda mimarların kendilerini geliştirmelerini, eğitimin uygulamalara da yansımasını ve dolayısıyla mimari projelere kalite getirmeyi de hedeflediği, Komisyon başkanı olabilmek için getirilen şartlarla, mesleki anlamda daha nitelikli kararlar alınmasının amaçlandığı, komisyon başkanında aranması gereken asgari nitelikler belirlenerek, komisyon marifetiyle alınacak kararlarda, hem akademik uzmanlık hem de mesleki bilgi birikimi ve deneyimin yeterliliğinin amaçlandığı, Yönetmeliğin 66. maddesinin 3194 sayılı İmar Kanunu'nun 8. maddesinin 1. fıkrasının (j) bendi ile uyumlu olduğu ve bu bendin Anayasa'ya
 aykırılığı iddiasıyla iptali istemiyle yapılan başvuru neticesinde Anayasa Mahkemesinin 04/12/2014 tarih ve E:2013/114, K:2014/184 sayılı kararı ile (j) bendinin Anayasa'ya aykırı olmadığına ve iptal isteminin reddine karar verildiği, dava konusu düzenlemede imar mevzuatına aykırılık bulunmadığının karara bağlandığı, özel kanunlar kapsamında kalan alanlarda yapılacaklar hariç olmak üzere; yerleşme ve yapılaşmaların mimari estetik değerinin arttırılarak şehirlere kimlik kazandırılması amacıyla nüfusu 50 binden fazla olan belediyelerde yapılacak umumun kullanımına mahsus olan; resmi binalar, ibadet yerleri, eğitim, sağlık tesisleri, kültürel binalar, eğlence yapıları, konaklama amaçlı binalar, alışveriş merkezleri, ulaştırma istasyonları, iş hanı, büro, pasaj, çarşı gibi ticari yapılar ile merkezi iş alanları ve idaresince bu kapsamda olduğu değerlendirilen yapılarla sınırlı olmak üzere, hazırlanan mimari projelerin yöresel mimariye uygun olarak tasarlanması, yapının kullanım fonksiyonunu azami ölçüde yansıtacak mimari öğeler içermesi, giriş cephelerinin binanın kullanım fonksiyonunu öne çıkaran, kolay algılanabilir şekilde tasarlanması ve bu amaçla bina ön cephelerinde cephe ve çatı
 ile uyumlu olacak şekilde sundurma, portik veya kolonad/sütun benzeri tasarımlarla girişin vurgulanması, cephe tasarımına derinlik kazandırılması, ön bahçelerinde teras, merdiven, rampa ve kot farkı gibi düzenlemeler ile davetkâr bir etki sağlanması açısından incelemekle sınırlı olduğu, amacın yapıların kullanım fonksiyonu ve sokak silüeti açısından uyumlu tasarlanması olduğu, maddede belirtilen yapılar ve inceleme konuları ile sınırlı olmak kaydıyla komisyonun projede değişiklik istemesinin mümkün olduğu, düzenlemede gerek yapılar gerekse incelenecek konuların sınırları net bir şekilde çizildiği, bu kapsamda 3194 sayılı Kanun ile mimari estetik komisyonuna verilen yetkinin sınırları eklenen 13 ve 14. fıkralar ile netleştirildiği, düzenlemenin ayrıca özellikle harap olmuş şehirlerin yeniden inşasında bölgeye kimlik kazandırılmasına, niteliğin arttırılmasına, yerin fiziki, tarihi ve kültürel özellikleriyle bütünlük arzeden çevresel bağlamın tesisine, varsa mevcut estetik değerlerin korunmasına, yöre mimarisinin yaşatılmasına, canlandırılmasına ve ihyasına katkı sağlayacağı savunulmaktadır.
@@ -202,6 +234,8 @@ ile uyumlu olacak şekilde sundurma, portik veya kolonad/sütun benzeri tasarım
 Açıklanan nedenlerle, Planlı Alanlar İmar Yönetmeliğinin 19. maddesinin 1. fıkrasının (c) bendinin 5 ve 6. alt bentlerinde yer alan " %5'i" ibaresinin yukarıda yer verilen gerekçeyle iptaline karar verilmesi gerektiğinden Dairemiz kararının bu kısmına katılmıyorum.
 
 ## Danıştay 13. D. 2024/3354 E., 2025/150 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1152344500)
 
 Anayasa'nın 125. maddesi uyarınca, kural olarak, idarenin tüm işlem ve eylemleri yargının hukuka uygunluk denetimine tabi olup, idarenin kesin ve yürütülmesi gereken hukuka aykırı bir işleminden menfaati ihlal edilen kişiler, işleme karşı dava açma süresi içerisinde ve işlemi ile ilgili idareyi hasım göstererek, doğrudan görevli ve yetkili idari yargı yerinde dava açabilirler. Bununla birlikte kanun koyucu, kanunda özel olarak belirtilen istisnai hallerde, idari işlemi tesis eden makamdan farklı bir makama veya farklı bir idareye başvuruda bulunulmasını zorunlu kılabilir. Kanunda böyle bir zorunluluğun bulunmasına karşın, idari yargı yerlerinde doğrudan dava açılması halinde, davanın esası incelenemez ve 2577 sayılı Kanun'un 15. maddesinin üçüncü fıkrası uyarınca dosyanın görevli idari merciine tevdiine karar verilmesi gerekmektedir.
 

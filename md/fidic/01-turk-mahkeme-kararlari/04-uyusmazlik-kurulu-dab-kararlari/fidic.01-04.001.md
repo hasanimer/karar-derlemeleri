@@ -20,6 +20,8 @@ uyari: "Derleyenin seçtiği alıntılardır; kararın tamamı değildir. Künye
 
 ## Ankara BAM 21. HD, 2023/447 E., 2025/1321 K., 19.11.2025
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1182233300)
+
 Uyuşmazlık Kurulu'nun "Sözleşmenin feshi sonrası, işverenin kesin teminatını yükleniciye iade edememesi hususunda yüklenicinin müracatına/başvuruya ilişkin uyuşmazlık kararı" başlıklı 17/12/2014 tarihli kararının tercümesi incelendiğinde de özetle, yüklenici olan davacı firmanın, işverene sözleşme koşullarına uygun olarak 14 gün süreli bildirim yayınlayarak fesih bildiriminde bulunduğu, yine sözleşmeye göre fesih bildirisinin yürürlüğe girmesinden sonra (02/09/2014) işveren tarafından derhal teminatın yükleniciye iade edilmesi gerektiğinin ifade edildiği, ancak buna rağmen teminatın iade edilmemesi üzerine, yüklenici konumundaki davacı firma tarafından Uyuşmazlık Kurulu'na teminatın iadesi için 25/09/2014 tarihinde başvuru yapıldığı; taraflar arasında yapılan müzakerelerde, işverenin feshin geçerliliği konusunda yüklenici davacı ve Uyuşmazlık Kurulu ile ihtilafta bulunduğu, Uyuşmazlık Kurulu'nun ise yüklenici tarafından feshin geçerliliği konusunun taraflar arasındaki bir ihtilaf konusu olduğunu, feshin geçerliliği konusunun kendi yetkisinin dışında olduğunu, ancak tarafların sözleşmede kesin teminat başvurusu konusunda Uyuşmazlık Kurulu'nun yetki alanında olduğunu kabul
 ettiklerini ve taraflarına yapılan başvurunun kesin teminatın yükleniciye iadesi hususunda olduğunu, (yukarıdaki bölümde değinilen) sözleşmenin 20.4 fıkrası hükümleri ve 16.4 (a) bendinin hükümleri uyarınca işverenin, feshin yürürlüğe girmesi üzerine kesin teminatı derhal yükleniciye iade etmesi hususunda karar aldığı anlaşılmaktadır.
 

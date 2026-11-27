@@ -21,6 +21,8 @@ uyari: "Derleyenin seçtiği alıntılardır; kararın tamamı değildir. Künye
 
 ## Yargıtay HGK 2023/412 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/905167300)
+
 İlk Derece Mahkemesince verilen kararın davalılar vekilleri tarafından istinaf edilmesi üzerine, Bölge Adliye Mahkemesince davalı ...Ş. vekilinin vekâlet ücretine yönelik istinaf talebinin reddine, davalı ... Yapı End.
 
 …
@@ -47,6 +49,8 @@ Davacı vekilinin temyiz itirazlarının kabulü ile direnme kararının Özel D
 
 ## Yargıtay HGK 2021/420 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/686388300)
+
 Davalı muris ... vekili cevap dilekçesinde; taraflar arasında imzalanan sözleşmeler gereği paylaşımın %32 oranda müvekkiline, %68 oranda ise kooperatife ait olmak üzere belirlendiğini, ayrıca A bloğun zemin katındaki dükkânların müvekkiline verilmesi gerektiğini, ancak kooperatifin fazla daire alabilmek için inşaatlardaki kat sayısını yükselttiğini, müvekkiline teslim etmesi gereken dükkânların teslim edilmediğini, hâlen iskânın alınmadığını belirterek davanın reddini istemiştir.
 
 …
@@ -63,6 +67,8 @@ arsa paylarını davacı tarafa devretmesi gerektiği, infazda kolaylık olması
 Davalı ... dışındaki davalılar vekilinin temyiz itirazlarının kabulü ile direnme kararının yukarıda gösterilen nedenlerden dolayı usulden BOZULMASINA …
 
 ## Yargıtay HGK 2009/221 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/76773100)
 
 Arsa payı devri karşılığı inşaat yapım sözleşmesinde birden fazla arsa sahibi varsa, feshin birlikte istenmesi zorunlu bulunmasına (TMK. md. 692). 24.07.1997 tarihli arsa payı devri karşılığı inşaat yapım sözleşmesinde arsa sahibi muris Hasan Hüseyin Keskinkılınç’dan başka, dava dışı kardeşi muris S.. K...ç’ın da taraf olması nedeniyle, sözleşmenin feshi talebi yönünden açılan davaya S.. mirasçılarının onaylarının alınması, bu mümkün olmadığı takdirde, S.. mirasçıları aleyhinde dava açılıp, bu dava ile birleştirilmesi yönünden süre verilmesine ve bu şekilde taraf teşkili sağlandıktan sonra işin esasına girilmesi gerekir. Bu itirbarla Hukuk Genel Kurulu’nca da benimsenen Özel Daire bozma kararına uyulmak gerekirken, önceki kararda direnilmesi usul ve yasaya aykırı olduğundan direnme kararı bozulmalıdır.
 
@@ -104,6 +110,8 @@ Davalı ... vekilinin yerinde görülmeyen temyiz itirazlarının reddi ile usul
 
 ## Yargıtay 6. HD 2026/273 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1207648200)
+
 Davacı vekili dava dilekçesinde; müvekkili ile davalı arasında 20.03.2003 tarihli kat karşılığı inşaat sözleşmesi düzenlendiğini ve müvekkiline ait 124 m²'lik arsa içerisindeki evin verilmesi karşılığında 118 pafta, 6 30... numaralı parselde 100 m²'lik zemin daire verilmesinin ve yıkılan evi karşılığında kira bedeli ödenmesinin kararlaştırıldığını, 703 numaralı üye kimlik numarası verildiğini, arsa dışında ayrıca müvekkili tarafından bugüne kadar ödemeler yapıldığını, ancak davalı tarafça bugüne kadar dairesinin tapusunun verilmediğini ve 19.000,00 TL daha ödeme yapılmasının istendiğini ileri sürerek, 118 pafta, 630 ada, 7 numaralı parselde bulunan 100 m²'lik zemin dairelerden bir adedinin tapu kaydının iptali ile müvekkili adına tesciline; mümkün olmadığı takdirde fazlaya ilişkin hakları saklı kalmak kaydı ile 10.000,00 TL evin bugünkü değeri karşılığının yasal faizi ile davalıdan tahsiline; müvekkiline ait evin yıkıldığı tarihten itibaren belirlenecek kira yardım parasının yasal faizi ile davalıdan tahsiline karar verilmesini talep etmiştir.
 
 …
@@ -121,6 +129,8 @@ Temyiz olunan İlk Derece Mahkemesi kararının BOZULMASINA …
 
 ## Yargıtay 6. HD 2025/2206 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1160198500)
+
 Davacı vekili dava dilekçesinde; müvekkilinin ... ada, ... parselde bulunan taşınmazın hissedarlarından olduğunu, müvekkili ile davalı ... İnş. Ltd.
 
 …
@@ -134,6 +144,8 @@ Mahkemece yapılacak iş, davacı ile yüklenici arasında akdedilen 02.12.2003 
 Temyiz olunan Bölge Adliye Mahkemesi kararının BOZULMASINA …
 
 ## Yargıtay 6. HD 2025/790 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1152978300)
 
 Davacı vekili dava dilekçesinde; dava dışı ilk yüklenici ile davalılar arasında düzenlenen kat karşılığı inşaat sözleşmesinin müvekkiline devredildiğini ve müvekkilinin yüklenici konumuna geldiğini, müvekkili ile davalılar arasında düzenlenen inşaat tamamlama sözleşmesi gereğince müvekkilinin edimlerini yerine getirdiği halde sözleşme gereğince müvekkiline isabet eden dairelerin devredilmediğini ileri sürerek, sözleşme gereği müvekkiline düşen bağımsız bölümlerin tapu kayıtlarının iptali ile müvekkili adına tesciline, mümkün olmadığı takdirde bağımsız bölümlerin dava tarihindeki rayiç değerlerinin davalılardan tahsiline karar verilmesini talep etmiştir.
 
@@ -152,6 +164,8 @@ Temyiz olunan Bölge Adliye Mahkemesi kararının BOZULMASINA …
 
 ## Yargıtay 6. HD 2024/5080 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1123273200)
+
 İlk derece mahkemesince iddia, savunma ve tüm dosya kapsamına göre, paydaş olarak malik bulunduğu arsa yönünden kat irtifakı kurulması ve cins tashihi isteminde bulunma hakkına haiz davalı arsa sahibinin yerine geçmek suretiyle, davacı yükleniciye yetki verilemeyeceğinden davacının davasının reddine karar verilmiştir.
 
 …
@@ -161,6 +175,8 @@ Bunun yanında davacının, kat irtifakının tesisi ile birlikte oluşacak bağ
 SONUÇ: Yukarıda açıklanan nedenlerle İlk Derece Mahkemesi kararı ile bu karara karşı yapılan istinaf başvurusunun esastan reddine ilişkin kararın usul ve yasaya aykırı olması nedeniyle HMK. 'nın 373/1. maddesi gereğince Kayseri Bölge Adliye Mahkemesi 4. Hukuk Dairesi kararı KALDIRILARAK; Kayseri 3. Asliye Hukuk Mahkemesi' nin 04.10.2022 tarih …
 
 ## Yargıtay 6. HD 2024/3938 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1111859900)
 
 İlk Derece Mahkemesince; yüklenici temlikine dayalı tapu iptali ve tescil davasından dolayı yapılan yargılama sonunda davanın kabulüne karar verilmiştir.
 
@@ -176,6 +192,8 @@ SONUÇ : Yukarıda 3-a bendinde açıklanan nedenlerle, ilk derece mahkemesi kar
 
 ## Yargıtay 6. HD 2024/3292 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1109064100)
+
 Davacı yüklenici kooperatif vekili dava dilekçesinde özetle; taraflar arasında düzenlenen arsa payı karşılığı inşaat sözleşmesine göre davacı yüklenicinin Hatay ili, ... ilçesi, ...Mah., ... Mıntıkası, 13 parsel sayılı taşınmaz üzerine inşaat yapılması işini üstlendiğini, söz konusu parselin ifraz ile 10 parsele ayrıldığını, 1294, 1296 ve 1300 parsel sayılı taşınmazlar üzerinde sosyal tesisler bulunduğunu, sözleşme uyarınca dava konusu parsellerin mülkiyetinin davacıya ait olacağının taahhüt edildiğini belirterek, 1294, 1296 ve 1300 parsel sayılı taşınmazların davalılar adına olan tapu kayıtlarının iptali ile davacı adına tapuya tesciline karar verilmesini talep etmiştir.
 
 Davalı arsa sahipleri ..., ..., ..., ..., ... vekilleri cevap dilekçelerinde özetle; sözleşmenin 6. maddesinde “yüzme havuzu, yollar, trafo, arıtma tesisi, çevre düzenini ikinci taraf yapacaktır.
@@ -190,6 +208,8 @@ SONUÇ : Yukarıda 1. bentte açıklanan nedenlerle, taraflar vekillerinin diğe
 
 ## Yargıtay 6. HD 2024/2599 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1085801100)
+
 İlk derece mahkemesince, arsa payı karşılığı inşaat sözleşmesinden kaynaklanan nama ifaya izin davasında yapılan yargılama sonucunda; davanın kabulü ile ... 5.
 
 …
@@ -200,6 +220,8 @@ Hukuk Dairesi'nin 2014/6214 Esas, 2015/7306 Karar sayılı ve 13.11.2015 tarihli
 SONUÇ: Yukarıda açıklanan nedenlerle İstanbul Bölge Adliye Mahkemesi 53. Hukuk Dairesi kararına ilişkin davacı arsa sahibi ve davalı yüklenici mirasçıları vekillerinin tüm temyiz sebeplerinin reddiyle usul ve kanuna uygun bulunan hükmün ONANMASINA …
 
 ## Yargıtay 6. HD 2024/543 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1008734200)
 
 İlk Derece Mahkemesince onamaya uyularak görevli mahkemece yeniden yapılan yargılama sonucunda; davanın kabulüne karar verilmiştir.
 

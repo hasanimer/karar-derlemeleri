@@ -40,6 +40,8 @@ Sonuç itibariyle davanın reddine karar verildiğinden ayrıntısı aşağıda 
 
 ## Danıştay 8. D. 2021/7999 E., 2025/5878 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1182174200)
+
 İlk Derece Mahkemesi kararının özeti:...
 
 …
@@ -102,6 +104,8 @@ Davanın yukarıda özetlenen gerekçeyle reddine ilişkin İdare Mahkemesi kara
 
 ## Danıştay 8. D. 2022/6536 E., 2025/5468 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1170388200)
+
 DAVALI İDARENİN SAVUNMASI :
 Sunulan hizmetin kalitesini artırmaya yönelik olarak Özel Öğretim Kurumları Standartlar Yönergesinde çeşitli düzenlemeler yapıldığı, 01/01/2015 tarihinden önce açılan kurumlar yönünden getirilen istisnaların artık amacına ulaştığı, ayrıca bu kurumlarda öğrenci, kursiyer ya da özel gereksinimli bireylere verilen hizmet kalitesinde ciddi farklılaşmaların ortaya çıktığı, bu nedenle 01/08/2022 tarih ve 54426063 sayılı Makam Oluru ile değişiklik yapıldığı, Milli Eğitim Bakanlığı Özel Öğretim Kurumları Yönetmeliği’nin 11/I(ç) maddesinde 05/07/2014 tarihinde yapılan değişiklik ile özel eğitim ve rehabilitasyon merkezlerinin bahçesi bulunan müstakil binalarda açılma zorunluluğunun getirildiği, anılan değişikliğe uygun olarak Mülga 16/07/2014 tarihli Standartlar Yönergesinde de değişikliğe gidilerek Yönergenin yürürlüğe girdiği tarihten önce kurum açma izni ile işyeri açma ve çalışma ruhsatı alan özel eğitim ve rehabilitasyon merkezlerinin kontenjan değişikliğine yol açacak yerleşim planı değişikliğinde kurum binalarının Yönergenin 23/A ve 24. maddelerine uygun hale getirmeleri gerektiği yolunda Geçici 6. madde düzenlemesinin bulunduğu, Mülga Yönergenin 23/A maddesinde ise özel eğitim ve
 rehabilitasyon merkezlerinin bahçesi bulunan ve müstakil binada açılacağının hüküm altına alındığı, yine 24. maddesinde bu merkezlerde bulunması gereken bölümlerin düzenlendiği, anılan düzenlemeler mevcut kurumlar yönünden derhal uygulanmayarak kurumların kontenjan değişikliğine yol açacak yerleşim planı değişikliği yapmaları şartına başlandığı, düzenlemenin sadece özel eğitim ve rehabilitasyon merkezlerine yönelik değil tüm özel öğretim kurumlarına yönelik olduğu, bu kurumlarda sunulan hizmetin iyileştirilmesi, başta fiziksel standartlar olmak üzere niteliklerin yükseltilmesine yönelik yapılan değişikliğin kurumların özel teşebbüs hürriyetleri yanında bireylerin eğitim hakkını da korumaya yönelik olduğu, Bakanlığın, özel öğretim kurumlarında verilen eğitimler karşılığı anılan kurumlara ödeme yaptığı da dikkate alındığında, istenilen standartlarda hizmet sunulmasını bekleme ve bu yolda düzenleme yapmasının normal olduğu, ayrıca düzenlemenin bütün kurumlar yönünden sonuç doğurmadığı, sadece kontenjan artırımına yol açacak yerleşim planı değişikliği yapan kurumlar yönünden sonuç doğurduğu, hizmetin kalitesinin artırılmasının amaçlandığı, bu yolda geçiş sürecine özgü olarak 01/01/2015
@@ -116,6 +120,8 @@ Anayasa'nın 124. maddesinde, kamu tüzel kişilerinin, kendi görev alanların�
 1\. 01/08/2022 tarih ve 54426063 sayılı Bakan Oluru ile yürürlüğe giren Özel Öğretim Kurumları Standartlar Yönergesinde Değişiklik Yapılmasına Dair Yönerge'nin 4. maddesi'nin özel eğitim ve rehabilitasyon merkezleri yönünden İPTALİNE …
 
 ## Danıştay 2. D. 2025/3597 E., 2025/5353 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1201748400)
 
 Buna karşılık, sözü edilen takdir yetkisinin, ancak kamu yararı ve hizmet gerekleri göz ardı edilerek kullanıldığının kanıtlanması ya da idari yargı merciince saptanması halinde, sözü edilen bu durumun dava konusu idari işlemin neden ve amaç yönlerinden hukuka aykırılığı nedeniyle iptalini gerektireceği hususunun yerleşmiş yargısal içtihatlarla kabul edilmiş bulunduğunu da vurgulamak gerekir.
 
@@ -132,6 +138,8 @@ DAVACININ İDDİALARI :
 
 ## Danıştay 4. D. 2023/11167 E., 2025/4771 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1189316600)
+
 2709 sayılı Türkiye Cumhuriyeti Anayasasının İkinci Kısmında Temel Hak ve Ödevlerin düzenlendiği, Birinci Bölümünde ise Genel Hükümlerin belirlendiği, bu bölümde yer alan "Temel Hak ve Hürriyetlerin Sınırlanması" başlıklı 4709 sayılı Yasa ile değişik 13. maddesinde: "Temel hak ve hürriyetler, özlerine dokunulmaksızın yalnızca Anayasanın ilgili maddelerinde belirtilen sebeplere bağlı olarak ve ancak kanunla sınırlanabilir. Bu sınırlamalar, Anayasanın sözüne ve ruhuna, demokratik toplum düzeninin ve lâik Cumhuriyetin gereklerine ve ölçülülük ilkesine aykırı olamaz.", İkinci Bölümde Kişinin Hakları ve Ödevleri arasında yer verilen "mülkiyet hakkı" 35. maddesinde sayılmış ve bu hak "Herkes, mülkiyet ve miras haklarına sahiptir. Bu haklar, ancak kamu yararı amacıyla, kanunla sınırlanabilir. Mülkiyet hakkının kullanılması toplum yararına aykırı olamaz" şeklinde düzenlenmiştir.
 
 6306 sayılı Afet Riski Altındaki Alanların Dönüştürülmesi Hakkında Kanun'un "Amaç" başlıklı 1. maddesinde, bu Kanunun amacının; afet riski altındaki alanlar ile bu alanlar dışındaki riskli yapıların bulunduğu arsa ve arazilerde, fen ve sanat norm ve standartlarına uygun, sağlıklı ve güvenli yaşama çevrelerini teşkil etmek üzere iyileştirme, tasfiye ve yenilemelere dair usul ve esasları belirlemek olduğu belirtilmiştir. Aynı Kanun'un 2. maddesinin birinci fıkrasının (ç) bendinde, "Riskli alan"; zemin yapısı veya üzerindeki yapılaşma sebebiyle can ve mal kaybına yol açma riski taşıyan, Cumhurbaşkanınca kararlaştırılan alan olarak tanımlanmış; "Uygulamaların resen yapılması" başlıklı 6/A maddesinin 1. fıkrasında, "Yıkılacak derecede riskli olan yapıların bulunduğu alanlar ile kendiliğinden çöken veya zeminin kayması, heyelan, su baskını, kaya düşmesi, yangın, patlama gibi sebeplerle ağır hasar gören veya ağır hasar görme riski bulunan yapıların bulunduğu alanlarda dönüşüm uygulamaları maliklerin ve ilgililerin muvafakati aranmaksızın Başkanlıkça resen yapılabilir veya yaptırılabilir.
@@ -140,6 +148,8 @@ Uygulama yapılacak alanın sınırları uygulama bütünlüğü gözetilerek be
 
 ## Danıştay 4. D. 2023/12690 E., 2025/4769 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1188926800)
+
 MÜDAHİLİN SAVUNMASI : Kültür ve Turizm Bakanlığı tarafından;
 Anayasanın 63. maddesinin birinci fıkrasında tarih, kültür ve tabiat varlıklarının ve değerlerinin korunmasını sağlamak, bu amaçla destekleyici ve teşvik edici tedbirleri almak görevlerinin Devlete verildiği, anılan maddenin ikinci fıkrasında ise bu varlıklar ve değerlerden özel mülkiyet konusu olanlara getirilecek sınırlamalar ve bu nedenle hak sahiplerine yapılacak yardımlar ve tanınacak muafiyetlerin Kanunla düzenleneceğinin hüküm altına alındığı, bu doğrultuda yürürlüğe giren 2863 sayılı Kültür ve Tabiat Varlıklarını Koruma Kanunu ile ülkemizde bulunan kültür varlıklarını tespit ve koruma yetkisi ile görevinin Kültür ve Turizm Bakanlığına verildiği, yine anılan Kanun ile kültür varlıklarının korunması amacıyla imar planı yapılmasının zorunlu hale getirildiği, koruma amaçlı imar planlarının ise 3194 sayılı İmar Kanunu ve ilgili mevzuatı ile hazırlanan imar planlarından farklı olup, özel nitelikteki alanlarda yapılıyor olması nedeniyle daha detaylı bir araştırma ve analiz gerektiren mekânsal düzenlemeler olduğu, riskli alan ilanına konu Antakya'nın kültürel ve tarihi nitelikleri dolayısıyla yeniden ihyası için kurumsal altyapı, kapasite ve tecrübesi nedeniyle Kültür ve Turizm
 Bakanlığının koordinatörlüğünün bir gereklilik olduğu, alandaki kültür varlıklarının 6306 sayılı Kanun yerine 5366 sayılı Kanun kapsamında korunmasının sağlanması gerektiği yönünde görüş var ise de; 5366 sayılı Kanunun "yıpranan ve özelliğini kaybetmeye yüz tutmuş kültür varlıklarını ihya etmek" amacını taşıdığı;
@@ -147,6 +157,8 @@ Bakanlığının koordinatörlüğünün bir gereklilik olduğu, alandaki kült�
 uygulanabilir olmadığı, diğer yandan, 6306 sayılı Kanunun, riskli alan ilan edilen yerler için her türlü harita, plan, proje vb. düzenleme yapma yetkisini ve bu yetkiyi başka Bakanlıklara devretme yetkisini Çevre, Şehircilik ve İklim Değişikliği Bakanlığına tanıdığı, böylelikle 5366 sayılı Kanunun yetki verdiği yerel idaredeki kısıtlı imkanlardan ziyade Bakanlıklar eliyle depremin etkilerinin ivedilikle ortadan kaldırılması ve kültürel varlıkların ihyası için 6306 sayılı Kanunun bir gereklilik olduğu, 6306 sayılı Kanunun 9. maddesi uyarınca, kültürel varlıkların bulunduğu bölgede riskli alan ilan edilmesi ve alanda uygulama yapılabilmesi hakkında Kültür ve Turizm Bakanlığının olumlu görüşünün de bulunduğu, bu nedenlerle; riskli alan ilan edilmesi sürecinde mevzuata aykırı bir hususun bulunmadığı, Antakya Tarihi Kent Merkezinin 6306 sayılı Kanun kapsamına alınmasının 2863 sayılı Kanun kapsamında kalan sit alanlarının, tescilli taşınmaz kültür varlıklarının korunması ve ihyası açısından olumlu ve yerinde bir yaklaşım olduğu, davanın reddine karar verilmesi gerektiği belirtilmiştir.
 
 ## Danıştay 6. D. 2024/1173 E., 2025/4647 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1188690000)
 
 Davalı yanında müdahil tarafından, savunma verilmemiştir.
 
@@ -160,9 +172,13 @@ Dava konusu işlemin iptaline ilişkin Mahkeme kararına yönelik olarak yapıla
 
 ## Danıştay 8. D. 2022/7913 E., 2025/4551 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1183065600)
+
 Anayasa'nın 125. maddesinin 4. fıkrasında, yargı yetkisinin, idarî eylem ve işlemlerin hukuka uygunluğunun denetimi ile sınırlı olduğu, hiçbir surette yerindelik denetimi şeklinde kullanılamayacağı, yürütme görevinin kanunlarda gösterilen şekil ve esaslara uygun olarak yerine getirilmesini kısıtlayacak, idari eylem ve işlem niteliğinde veya takdir yetkisini kaldıracak biçimde yargı kararı verilemeyeceği ifade edilmiş; 2577 sayılı İdari Yargılama Usulü Kanunu'nun 2. maddesinin 2. fıkrasında da benzer kurala yer verilmiştir.
 
 ## Danıştay 6. D. 2022/390 E., 2025/4185 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1191419000)
 
 Şehir imar planı ana kararlarını bozucu nitelikte ve kamu yararına aykırı olarak dava konusu plan değişikliği yapıldığı iddiasıyla taşınmazın bulunduğu alanda idarî ve malî özerkliğe sahip kamu tüzel kişisi niteliğindeki büyükşehir belediyesinin, uyuşmazlığa konu imar planlarını uygulamak ve bu imar planlarının şehir imar planlarıyla uyumunu sağlamakla görevli olması nedeniyle bu planların iptali istemiyle dava açmakta kişisel, meşrû ve güncel bir menfaatinin bulunduğu sonucuna varıldığından davalı idarenin ehliyet itirazı yerinde görülmemiştir.
 
@@ -171,6 +187,8 @@ Anayasa'nın 125. maddesinin 4. fıkrasında, yargı yetkisinin, idarî eylem ve
 Bu nedenle davanın reddine karar verilmesi gerekirken plandaki lejant gösterimi bakımından iptaline ilişkin dairemiz kararının anılan kısmına katılmıyorum.
 
 ## Danıştay 8. D. 2022/2663 E., 2025/3843 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1166669400)
 
 Yangın, deprem, sel, kentsel dönüşüm, sağlık sebepleri ve mahkeme tahliye kararı gibi hâllerden dolayı binayı ani olarak terk etme durumunda kalan kurumlardan özel ilkokul, ortaokul ve ortaöğretim okullarının geçici olarak nakillerinin yapılacağı binalar için bahçe alanı her bir öğrenci için 2 m² den az olmamak kaydıyla en az 500 m² oyun bahçesi şartının 02 Eylül 2021 tarihine kadar uygulanmaması, ayrıca Koronavirüs (Covid-19) salgını sürecinde yeterli sayıda öğrenci veya kursiyer kaydı yapamaması nedeniyle eğitim ve öğretim faaliyetine aynı Yönetmeliğin 19/B maddesinin birinci fıkrasının hükmü gereği iki yıl ara vermiş olan kurumların da 02 Eylül 2021 tarihine kadar milli eğitim müdürlüğüne başvurmaları şartıyla ve kurum açma izni veren makamca mazeretlerinin uygun görülmesi halinde bu kurumların bir yıl daha eğitim ve öğretim faaliyetine ara vermesi uygun görülmüştür." hususlarına yer verilmiştir.
 

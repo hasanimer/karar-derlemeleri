@@ -22,6 +22,8 @@ uyari: "Derleyenin seçtiği alıntılardır; kararın tamamı değildir. Künye
 
 ## Yargıtay 6. HD 2024/1470 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1094567100)
+
 İlk Derece Mahkemesince bozmaya uyularak yeniden yapılan yargılama sonucunda; asıl davanın kısmen kabulüne, karşı davanın kabulüne karar verilmiştir.
 
 …
@@ -43,6 +45,8 @@ Yukarıda paragrafta açıklanan asıl dava davacıları-karşı dava davalılar
 
 ## Yargıtay 6. HD 2023/2804 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/951120600)
+
 Davacı vekili dava dilekçesinde özetle; davalı müteahhit ... ile davalı arsa sahibi ... arasında Elazığ .... Noterliğinin 25/01/2017 tarihli 1180 yevmiye numaralı Düzenleme Şeklinde Satış Vaadi ve Kat Karşılığı İnşaat Sözleşmesi imzalandığını, sözleşmeye göre davalı müteahhite isabet eden C Blok 3.
 
 …
@@ -61,6 +65,8 @@ Temyiz olunan Bölge Adliye Mahkemesi kararının 6100 sayılı Kanunun 370 nci 
 
 ## Yargıtay 6. HD 2023/2207 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/921083600)
+
 İlk Derece Mahkemesi kararı davalılar ..., ..., S.S. ... Motorlu Taşıyıcılar Kooperatifi, ...
 
 …
@@ -76,6 +82,8 @@ Aydın 3. Noterliğinin 03.06.1996 tarih ve 10789 yevmiye no.lu Düzenleme Şekl
 Temyiz olunan Mahkeme kararının BOZULMASINA …
 
 ## Yargıtay 6. HD 2023/2007 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/942769700)
 
 Davacı arsa sahibi vekili asıl dava dilekçesinde özetle; davacı ile davalılardan ... İnşaat Müh. Hiz.
 
@@ -93,6 +101,8 @@ Temyiz olunan Bölge Adliye Mahkemesi kararının 6100 sayılı Kanun'un 370 inc
 
 ## Yargıtay 3. HD 2023/1443 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/964742200)
+
 Davacı; davalı şirketten 11.07.2016 tarihinde harici satış sözleşmesi ile daire satın aldığını ve kendisinden toplamda takip konusu yapılan 19.325 USD tutarında ödeme alındığını, inşaatın bitmesinin mümkün olmayacağı ve dairenin kendisine teslim edilmeyeceği kanaatına varınca şirket yetkilileri ile görüştüğünü, yaptığı ödemelerin kendisine iade edilmesini istediğini; ancak bir netice elde edemediğini, davalıların aldıkları ödemenin kapora olduğunu iddia ettiklerini, sözleşmenin hukuken geçersiz olduğunu ileri sürerek; borçlular aleyhine başlatmış olduğu takibe vaki haksız itirazların iptali ile takibin devamına, lehine icra inkar tazminatına karar verilmesini talep etmiştir.
 
 …
@@ -109,6 +119,8 @@ Davalı tarafın temyiz itirazının kısmen kabulü ile Bölge Adliye Mahkemesi
 
 ## Yargıtay 6. HD 2023/682 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/885347200)
+
 Davacı vekili dava dilekçesinde özetle; ... ili, ... ilçesi, ... mahallesinde bulunan 2988 ada, 16 parsel sayılı, 428.00 m2 yüzölçümlü "arsa" vasıflı taşınmazın 1211/2814 hisesinin 08/11/2013, 15/11/2013 ve 30/05/2014 tarihlerinde toplam 408.000,00 TL bedel karşığında satın alınmak sureti ile davalı şirket adına tescil edildiğinin ... Tapu Sicil Müdürlüğünün 25/06/2014 tarih, 2796 sayılı ve 03/07/2014 tarih, 106.01 sayılı yazılarından anlaşıldığını, müvekkili idarece kanuni şuf'a hakkı kullanılmak suretiyle dava konusu parselin 1211/2814 hissesinin davalı adına olan tapu kaydının iptali ile vakıf adına tescilinin sağlanması için ... 20.
 
 …
@@ -124,6 +136,8 @@ Türk Medeni Kanunu'nun 706, 818 sayılı Borçlar Kanunun 213, Tapu Kanunu'nun 
 Temyiz olunan Bölge Adliye Mahkemesi kararının 6100 sayılı Kanun'un 370 inci maddesinin birinci fıkrası uyarınca ONANMASINA …
 
 ## Yargıtay 3. HD 2022/9201 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/866336300)
 
 Davacı; ....
 
@@ -144,6 +158,8 @@ Diğer yandan; ortaklık sözleşmesiyle aynı zamanda ortaklık malvarlığına
 SONUÇ: Yukarıda (1) numaralı bentte açıklanan nedenlerle taraf vekillerinin sair temyiz itirazlarının REDDİNE, (2) ve (3) numaralı bentte açıklanan nedenlerle 6100 sayılı HMK'nın 373 üncü maddesinin birinci fıkrası uyarınca temyiz olunan bölge adliye mahkemesi kararının KALDIRILMASINA …
 
 ## Yargıtay 3. HD 2022/2407 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/749104000)
 
 Davacı yüklenici birleşen ek davada; asıl davaya terditli olarak asıl davada belirsiz alacak davasına ilişkin talepleri kabul edilmez ise fazlası saklı 1.000.000,00 TL ek alacağın 11/11/2014 temerrüt tarihinden işleyecek ticari faizi ile davalılardan tahsiline karar verilmesini talep etmiştir.
 
@@ -170,6 +186,8 @@ SONUÇ: Yukarıda 1 nolu bentte açıklanan nedenlerle davalı-birleşen davada,
 
 ## Yargıtay 7. HD 2022/1271 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/749733500)
+
 Dava, Türk Borçlar Kanununun 129’uncu maddesine dayalı tapu iptali ve tescil, ikinci kademede tazminat istemine ilişkindir.
 
 Davacı vekili, davalı yüklenici ... ile diğer davalıların murisi arsa sahibi ... arasında 19.10.1999 tarihinde yapılan adi yazılı arsa payı karşılığı inşaat sözleşmesi ile 490, 494, 496 ve 473 parsel sayılı taşınmazlar üzerine yapılacak 45 adet dubleks daireden iki adet dairenin müvekkili derneğe verileceğinin kararlaştırdığını, sözleşmeye göre arsa sahiplerine düşen 11 adet daireden 8 ve 10 numaralı dairelerin müvekkiline teslim edildiğini ve yıllardır müvekkili tarafından kullanıldığını, arsa sahibi ...’ın 28.03.1996 tarihinde ölmesi üzerine, 17.04.1996 tarihinde davalı yüklenici ile diğer davalılar arasında ilk sözleşmeyi kabul eden ek sözleşme düzenlendiğini belirterek, dava konusu 702 parsel sayılı taşınmazda bulunan ve müvekkiline teslim edilen dairelere tekabül eden 1/6’şar arsa payının müvekkili adına tesciline, bu taleplerinin ifasının mümkün olmaması halinde ise dairelerin keşfen tespit edilecek bedellerinin dava tarihinden itibaren işleyecek yasal faizi ile birlikte davalılardan tahsiline karar verilmesini talep etmiştir.
@@ -190,6 +208,8 @@ Sayılan bu istisnai durumlar sözleşmelerin geçerlilik şartı olup, bu şeki
 SONUÇ: Yukarıda (1) numaralı bentte açıklanan nedenlerle davacı vekilinin tüm, davalı ... vekilinin sair temyiz itirazlarının REDDİNE, (2) numaralı bentte açıklanan nedenlerle davalı ... vekilinin temyiz itirazlarının kabulüyle hükmün BOZULMASINA …
 
 ## Yargıtay 8. HD 2021/4909 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/684154400)
 
 Davacı vekili, davalının haksız işgalinde bulundurduğu 5 no.lu daire için Aralık 2012-Temmuz 2013 dönemine ait toplam sekiz aylık ecrimisil alacağının tahsili amacıyla başlatılan icra takibine davalı borçlunu haksız yere itiraz ettiğini belirterek itirazın iptaline, takibin devamına, %20'den aşağı olmamak üzere icra inkar tazminatına hükmedilmesini talep etmiştir.
 
@@ -212,6 +232,8 @@ SONUÇ: Yukarıda açıklanan nedenlerle davacı vekilinin temyiz itirazlarını
 
 ## Yargıtay 7. HD 2021/1935 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/740426400)
+
 Dava, satış vaadi sözleşmesine dayalı tapu iptali ve tescil; ikinci kademede tazminat istemine ilişkindir.
 
 …
@@ -229,6 +251,8 @@ Mahkemece, asıl ve birleştirilen davaların, zamanaşımı nedeniyle reddine d
 SONUÇ: Yukarıda açıklanan nedenlerle davacılar vekilinin temyiz itirazlarının kabulü ile hükmün BOZULMASINA …
 
 ## Yargıtay 6. HD 2021/1018 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/713271100)
 
 Davacı vekili; müvekkili ile davalı yüklenici ... arasında düzenlenen 23.12.1997 tarihli satış vaadi sözleşmesi ile iki adet dairenin 30.07.1998 tarihinde müvekkiline teslim edilmesinin kararlaştırıldığını, diğer davalı arsa maliklerinin davalı yükleniciye tapu devri yapmadıklarını ileri sürerek; iki adet dairenin müvekkili adına tapuya tesciline karar verilmesini talep ve dava etmiştir.
 
@@ -248,6 +272,8 @@ SONUÇ: Yukarıda açıklanan nedenlerle, davalılardan ....mirasçıları ..., 
 
 ## Yargıtay 15. HD 2021/58 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/632092700)
+
 Dava eser sözleşmesinden kaynaklanan alacak istemine ilişkindir.
 
 …
@@ -264,6 +290,8 @@ O halde mahkemece davalı ... ... Gayrımenkul Yatırım ve Kentsel Dönüşüm 
 SONUÇ: Yukarıda açıklanan nedenlerle davalılar vekillerinin temyiz itirazlarının kabulü ile hükmün davalılar yararına BOZULMASINA …
 
 ## Yargıtay 15. HD 2020/3071 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/622573400)
 
 Davacı dava dilekçesinde, davalılar arasında yapılan kat karşılığı inşaat yapım sözleşmesi gereğince yüklenici ... tarafından yapılan inşaatta yükleniciye düşecek bağımsız bölümlerden birisini 29.05.1997 gün 2481 yevmiye nolu satış vaadi sözleşmesi ile yükleniciden satın aldığı, sözleşmeye göre inşaat bitiminde kura ile 8 daireden bir tanesinin kendisine verileceğinin kararlaştırıldığı, bedelini ödediği buna rağmen tapu devrinin yapılmadığını ileri sürerek ... ilçesi ... Mahallesi ... ada ... parsel üzerinde yapılan inşaatın 8. dairesinin teslimine ve bu bağımsız bölümün tapuda adına tesciline karar verilmesini talep ve dava etmiştir. Yargılama aşamasında davacının hangi bağımsız bölümün tapu kaydının iptâl ve tescilini istediğine dair bir açıklama dilekçesi bulunmadığı gibi mahkemece de bu husus davacıya açıklattırılmamıştır.
 

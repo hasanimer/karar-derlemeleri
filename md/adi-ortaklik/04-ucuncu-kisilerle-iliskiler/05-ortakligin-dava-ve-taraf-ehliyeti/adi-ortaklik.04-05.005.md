@@ -22,6 +22,8 @@ uyari: "Derleyenin seçtiği alıntılardır; kararın tamamı değildir. Künye
 
 ## İstanbul BAM 15. HD 2025/472 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1145714400)
+
 Yansıtma faturanın kabulü ile davanın reddi gerektiğini , yetki hususunda eksik inceleme yapıldığını , öncelikle icra dairesinin yetkisi araştırılmalı sonra esasa girilmesi gerektiğini , yetkisiz icra müdürlüğünde takip yapılmışsa itirazın iptali davası açılamayacağından davanın reddine karar verilmesi gerektiğini , davacı ile müvekkili şirketler arasında bağ ve münasebet bulunmadığını , davanın dava dışı ... Ortaklığına yöneltilmesi gerektiğini , müvekkillerine husumet yöneltilemeyeceğini ,davacının kaza nedeniyle vermiş olduğu zarar göz önüne alındığında talep edebileceği bir alacağının olmadığını ,alacağın likit bir alacak niteliğine haiz olmadığını , icra inkar tazminatının reddine karar verilmesi gerektiğini belirterek yerel mahkemenin kararının kaldırılmasına karar verilmesini talep etmiştir.Taraflar arasındaki uyuşmazlık Türk Borçlar Kanunun 470 ve devamı maddelerinde düzenlenen eser sözleşmesinden kaynaklanan itiraz davası olup , davacı taşeron , davalılar ise yüklenici olan dava dışı adi ortaklığın ortaklarıdır.
 Davacı taşeron vekili dava dilekçesinde Marmara Otoyolu ile ilgili olarak15.06.2019 tarihli Kesim 1 Toprak İşleri taşeronluk sözleşmesinin dava dışı ...Adi Ortaklığı ile imzaladığını , ortaklarının mesul olduğunu bu sebeple onlara dava açıldığını , cari hesaptan kaynaklı faturaya dayalı 149.778,14 TL. asıl alacağı için icra takibi yaptığını , davalı tarafından yapılan itirazın iptalini talep etmiştir. Davalı vekili husumet itirazı yaparak , dava dışı ... Adi Ortaklığına dava açılması gerektiğini ,ayrıca davacının şoförü kamyonla kaza yaparak müvekkillerine zarar verdiğini , kaza sebebiyle yenileme çalışması yaparak müvekkillerinin zarara uğradığını belirterek davanın reddini talep etmiştir. Yerel mahkeme taraf defterlerine göre davacının , davalıdan 149.778,14 TL alacaklı olduğunun tespit edildiğini , davalının delilleri zamanında sunmadığını belirterek davalının zarar iddiasını ispatlayamadığını belirterek davanın 149.778,14 TL. üzerinden kabulüne karar vermiştir.Taraflar arasındaki sözleşmenin 31.
 
@@ -29,6 +31,8 @@ Maddesine göre sözleşmeden doğacak uyuşmazlıklarda İstanbul /Çağlayan M
 Sözleşmenin 8.3.1 maddesi gereğince müteahhit taşeron namına yapmış olduğu ödemeleri veya kira bedellerini , yemek ve yatakhane bedellerini hak edişten düşeceğinin düzenlendiği anlaşılmıştır.Davalılar vekiline davacının şoförünün gerçekleştirdiği kaza sebebiyle müvekkillerinin uğradığı zarara ilişkin delillerin sunması için süre verilerek , söz konusu deliller dosya kapsamında toplanarak , ayrıca keşif yapılarak davacının yaptığı işin bedelinin bulunması için bilirkişiden ek rapor alınarak , bu tutardan davalıların davacıya iş sebebiyle yaptığı ödemeler ile kaza sebebiyle davalıların davacı taraf sebebiyle yaptığı ödemeler tespit edilip , davacının alacağından mahsup edilerek sonucuna göre bir karar vermek gerekirken , yerel mahkeme eksik ve hatalı değerlendirmelere dayanarak karar verdiği anlaşıldığından , davalı vekilinin istinaf talebinin kısmen kabulüne karar verilmiştir.
 
 ## Sakarya BAM 5. HD 2025/448 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1125501600)
 
 Dava; eser sözleşmesinden kaynaklı alacağa ilişkin icra takibine vaki itirazın iptali ve icra inkar tazminatı istemine ilişkindir.
 
@@ -38,6 +42,8 @@ Bu durumda mahkemece, 6100 sayılı HMK'nun 31., 119/1-e-ğ ve 194 maddeleri hü
 
 ## İstanbul BAM 53. HD 2025/284 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1132740000)
+
 Maddeleri gereğince bu faturalara dayalı olarak talepte bulunulamayacağını, 27.11.2014 tarihli ve KDV dahil 1.298.000-TL'lik faturanın da böyle bir fatura olduğunu, böyle bir hakedişin var olmadığının tüm bilirkişilerce/heyetlerce belirlendiğini belirtmiş, taraflar arasındaki borç-alacak ilişkisinin belirlenme usulüne ve sonuç olarak davacının hak kazandığı bedelin KDV dahil 10.133.538,68-TL olarak dikkate alınması gerektiğine ilişkin asıl davaya ilişkin istinafındaki ayrıntılı itirazlarını tekrar etmiş, bu bedel dikkate alındığında ve davacıya (taşerona) yapılan 14.597.893,86-TL'lik ödeme gözetildiğinde birleşen davanın kabulüne karar verilmesi gerektiğini belirterek, kararın kaldırılarak birleşen davanın kabulüne karar verilmesini, aksi halde dosyanın aynı yargı çevresi içerisinde başka bir mahkemeye gönderilmesine karar verilmesini talep etmiştir. Davalı-birleşen davacı ... İnş. ve Taah. A.Ş. Vekili; Asıl davaya yönelik istinafında; Asıl davanın "iş ortaklığı" aleyhine açılmış olması nedeniyle pasif husumet yokluğundan reddi gerektiğini, davacı yanca müvekkiline ya da diğer adi ortaklık şirketine karşı yöneltilmiş bir husumet bulunmadığını, ...
 Makine Şirketinin adi ortaklığı temsilen cevap dilekçesi verdiğinin kabul edilemeyeceğini, müvekkili şirket tarafından ... Şirketine bu yönde verilen bir yetki bulunmadığını, kaldı ki ...
 
@@ -45,6 +51,8 @@ Makine Şirketince verilen cevapta da sadece husumet itirazında bulunulduğunu,
 çalışma dikkate alınarak belirlenen KDV dahil 10.133.538,68-TL iş bedelinin dikkate alınması gerektiğini, bunun aksine bir şekilde belirlenen bedel dikkate alınarak asıl davanın kabulüne karar verilmiş olmasının hatalı olduğunu, Birleşen davaya yönelik istinafında; Aynı değerlendirmeler doğrultusunda birleşen dava bakımında da davacı-birleşen davalının hak ettiği iş bedelinin 10.133.538,68-TL olarak dikkate alınması gerekirken 14.597.893,86-TL olarak dikkate alınmasının hatalı olduğunu, ayrıca adi ortaklığın fazladan yaptığı ödemeler yönünden müvekkili şirketin ticari defter ve kayıtları incelenmeksizin eksik inceleme ile karar verildiğini belirterek, kararın asıl ve birleşen davalar bakımından kaldırılarak, asıl davanın reddine, birleşen davanın kabulüne karar verilmesini talep etmiştir. Davacı-birleşen davalı vekili istinafında;
 
 ## İstanbul BAM 3. HD 2024/2711 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1073428500)
 
 Davacılar ile Davalı ... arasında hisseleri devredilen dava dışı ..... Şti (.... Kimyasalları ...- .... .... Limited Şirketi) şirketinde adi ortaklık ilişkisi bulunduğunun tespiti ile taraflar arasındaki adi ortaklığın fesih ve tasfiyesini,Davacıların adi ortaklıktan kaynaklanan alacaklarının tasfiye memuru tarafından hesaplanmasını ve ticari faizi ile birlikte davalıdan tahsilini,Yargılama gideri ile vekalet ücretinin davalıya yüklenmesini talep ve dava etmiştir.Davalı davaya cevap vermemiştir.1.İlk Derece Mahkemesi'nce 2018/548 E., 2019/123 K.
 Nolu 30.01.2019 tar. ilamda:"Türk Hukuk sisteminde bir ticari şirkete ancak kanunun öngördüğü şekilde ortak olunabi- leceği, bir ticari şirket içinde adi ortaklığın söz konusu olamayacağı, ancak bir ticari şirketin de aralarında bulunduğu gerçek veya tüzel kişiden oluşan iki ya da daha fazla kişi tarafından belirli bir amaç için adi ortalık oluşturulabileceği, oysa davacıların, dava dışı limited şirket ile değil, dava dışı limited şirketin içinde adi ortak olduklarını ileri sürdükleri, diğer yandan bir an, davacıların davalı şirkette adi ortak oldukları iddiaları kabul edilse bile, davacıların fesih ve tasfiye talepleri nedeniyle tasfiyenin TBK'ya göre mi, yoksa limited şirketlerin tasfiyesi şeklini düzenleyen TTK hükümlerine göre mi yapılacağının duraksamaya yol açacağı, Zira, TTK ve TBK'nın fesih ve tasfiye nedenleri ve şeklinin birbirinden farklı olduğu, bir limited şirketin adi ortaklık gibi tasfiyeye tabi tutulmasının hukuken mümkün olmadığı, diğer yandan limited şirketin fesih ve tasfiyesinin talep edildiği davada husumetin bu şirkete yöneltilmesi gerektiği, oysa eldeki davada husumetin fesihi istenen şirkete yöneltilmediği, davacılar dava dışı şirket ile bir adi ortaklık
@@ -55,11 +63,15 @@ Bu ortaklık türünde, gerek sermaye olarak getirilen değerler, gerekse işlem
 
 ## İstanbul BAM 13. HD 2024/2072 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1106440900)
+
 Anonim şirketlerde fesih davası hakkının kullanılması açısından haklı sebeblere örnek olarak; genel kurulun olağan toplantısının sürekli şekilde yapılamaması, azınlık pay sahiplerinin bilgi alma ve inceleme haklarının kullanımının devamlı şekilde ihlal edilmesi, çoğunluğun gücünü sistematik olarak ve azınlığın haklı menfaatlerini ihlal edecek şekilde kullanması, azınlık pay sahiplerine finansal açıdan ağır zararlar verilmesi, şirket kar etmesine rağmen, hiç kar payı dağıtılmaması veya yıllara veya yıllara göre azalan oranda kar payı dağıtılarak, azınlık pay sahiplerinin mali haklarının ağır ve sürekli biçimde ihlal edilmesi gibi durumlar örnek gösterilebilir.
 Davacılar vekili, davalı şirketin ortakları olan davacılar ile dava dışı ortakların akraba olduğunu, ortaklar arasında husumet bulunduğunu, dava dışı ortağın davacılar hakkında yargılaması devam eden ... soruşturması kapsamında davacılar aleyhine ... üyesiymişler gibi beyanda bulunması sebebiyle husumetin arttığını davacılar için ortaklığı devam ettirmelerinin imkansız olduğunu, sebeple şirketin haklı sebeple feshine karar verilmesini, davalı şirket ortakları olan fer'i müdahiller vekili, davacı iddialarının kabul edilemeyeceğini, haklı sebeple fesih koşullarının oluşmadığını, davacının iddia ettiği olayların olduğunu ve kendi kusuru olmadığını ispat etmesi gerektiğini, davanın reddine karar verilmesini, davalı şirkete atanan kayyım, haklı sebeple fesih koşullarının oluşmadığını, şirketin işleyişinde herhangi bir sıkıntı olmadığını, davanın reddine karar verilmesini talep etmiştir.
 Asıl ve birleşen davada davacılar vekili, şirket ortakları arasında husumet bulunduğu hususunun Mahkemece de kabul edilmesine ve bu husumete rağmen ortaklığın devamının ve bu duruma katlanılmasının davacı ortaklardan beklenmesinin gerçekçi ve hukuki bir yaklaşım olmamasına rağmen Mahkemece bu hususun gözetilmemesinin usul ve yasaya aykırı olduğu gerekçesi ile istinaf başvurusunda bulunulmuştur.
 
 ## Adana BAM 9. HD 2024/1254 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1045394600)
 
 Dava; kambiyo senedinden kaynaklanan menfi tespit istemine ilişkindir.
 
@@ -70,6 +82,8 @@ Bu nedenle ilk derece mahkemesince davacı vekiline, diğer adi ortak hakların�
 
 ## Ankara BAM 27. HD 2024/1068 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1105647300)
+
 Dava, eser sözleşmesinden kaynaklanan menfi tespit istemine ilişkin olup mahkemece davanın kabulüne dair verilen karara karşı taraf vekillerince istinaf kanun yoluna başvurulmuştur.
 
 …
@@ -78,6 +92,8 @@ Mahkemesince taraflar arasındaki sözleşme, düzenlenen hakedişler ve dayanak
 Şti. ile oluşturduğu adi ortaklıkla davalı arasındaki sözleşme kapsamında fazla ödeme iddiasına dayalı davalı tarafça çıkartılan muaraza ve talep edilen bedele ilişkin menfi tespit istemi olmakla, adi ortakları oluşturan şirketlerin birlikte taraf olarak yer alıp almayacağı hususunun da değerlendirilmesi gerekirken taraf teşkili yönünden hiçbir değerlendirme yapılmaksızın yargılamaya devamla hüküm kurulması doğru olmamıştır.
 
 ## İstanbul BAM 17. HD 2024/338 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1009559500)
 
 Taraf ehliyeti, medenî hukuktaki hak ehliyetinin usul hukukunda büründüğü şekildir. Tüzel kişiler kanuna göre kuruluş işlemlerinin tamamlanması ile hak ehliyetini kazanırlar. Dava ehliyeti ise medenî hukuktaki fiil ehliyetinin usul hukukunda büründüğü şekildir. Fiil ehliyeti kişinin kendi fiilleriyle hak edinebilme ve borç altına girebilme ehliyetidir. Tüzel kişiler, kanuna ve kuruluş belgelerine göre gerekli organlara sahip olmakla, fiil ehliyetini kazanırlar. "Sıfat ise, dava konusu sübjektif hak ( dava hakkı ) ile taraflar arasındaki ilişkidir. Taraf ehliyeti ve davayı takip yetkisi, davanın taraflarının kişilikleriyle ilgili olduğu halde, taraf sıfatı dava konusu sübjektif hakka ilişkindir... Bir sübjektif hakkı dava etme yetkisi kural olarak o hakkın sahibine aittir. Bu nedenle, o hakka ilişkin bir davada davacı olma sıfatıda o hakkın sahibine aittir... Bir sübjektif hak kendisinden davalı olarak istenebilecek olan kişi, o hakka uymakla yükümlü (borçlu) olan kişidir ( davalı sıfatı, pasif husumet )".
 
@@ -88,9 +104,13 @@ Sözleşmelerin nisbiliği ilkesi gereğince, sözleşme, ancak tarafları aras�
 
 ## İstanbul BAM 13. HD 2024/276 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1005954900)
+
 Tic. Ltd. Şti. tarafından, aralarında hiçbir sözleşme ve hukuki bağ bulunmayan müvekkili ...’a karşı, adi ortaklık iddiası dermeyan edilerek ikâme edilmiş olup, görülen dava bakımından davacı ile ... arasındaki sözleşmenin nisbilik ilkesi gereği sadece tarafları bağladığı bu nedenle müvekkilinin pasif husumet yokluğu nedeniyle sorumluluğunun bulunmadığının bilirkişilerce açıkça tespit edildiğini, söz konusu raporda; öncelikle, davacı ile davalılardan ... şirketi arasında herhangi bir hukuki ilişki bulunmadığından, bir başka deyişle ... Şirketinin davacıya karşı herhangi bir ifa taahhüdü bulunmadığından, davacı ile davalı ... arasındaki sözleşme, sözleşmelerin nisbiliği ilkesi gereği, sadece tarafları bağladığından, davalılardan ... şirketi pasif husumet ehliyetinin bulunmadığının kabulü gerektiğinin, ancak borçlunun 3. Kişiye karşı olan itiraz ve defilerini, yukarıda ifade ettiğimiz üzere, sözleşmenin nisbiliği ilkesi gereği, sözleşmenin tarafı olan kişiye ileri sürmesinin olanaksız olduğunu, davalı ... şirketi, Diğer davalı ...
 
 ## İstanbul BAM 15. HD 2024/267 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1014493500)
 
 Bankası tarafından ipotek konulduğunu, konulan ipoteğin fekkine ilişkin birleşen Bakırköy 7. ATM nin 2016/392 esas sayılı dosyası ile ilgili olarak verilen kararın hatalı olduğunu, taşınmazların sözleşmenin geçersizliği nedeniyle sözleşme kapsamında davacıya iadesi gereken nitelikte olmadığını, davacının taşınmazı ile ilgili ilgisi bulunmadığını, mahkemece usul ve yasaya aykırı olarak ipoteklerin fekkine karar verdiğini, davacının istinaf taleplerinin reddine karar verilmesini talep etmiştir. Uyuşmazlık, 6098 sayılı Türk Borçlar Kanunu'nun 470. ve devamı maddelerinde düzenlenen eser sözleşmesinden kaynaklanmaktadır. Davacı arsa maliki, davalılardan ...Tic. A.Ş. Ve Ortakları Zeytinburnu Adi Ortaklığı yüklenici, davalı ... sözleşmeye konu arsanın 150/2 m2 sinin maliki, diğer davalı ... Bankası ise ipotek alacaklısıdır. Davacı ile davalı yüklenici adi ortaklık arasında Bakırköy ...
 Noterliğinin 21/02/2006 tarih ... yevmiye nolu Düzenleme Şeklinde Akdedilen Satış Vaadi İçerikli Kat Karşılığı İnşaat Sözleşmesi ile 30/04/2009 tarih ... yevmiye nolu düzenleme şeklinde akdedilen Gayrimenkul Satış Vaadi ve Kat Karşılığı İnşaat Sözleşmesine Ek Sözleşme akdedilmiştir.Davacı arsa maliki, davalı yüklenici adi ortaklık ile yapılan kat karşılığı inşaat sözleşmesi ve ek sözleşmenin feshini, bu sözleşmeye dayalı avans niteliğinde yükleniciye verilen tapudaki hisselerin iptali ile adına tescili, taşınmazı kullanamamasından kaynaklı tazminat, ayrıca bedeli karşılığında yüklenicinin kat karşılığı inşaat sözleşmesinin yapılacağı arazilerdeki davalı ...'ye ait hisselerin yüklenici tarafından ihale ile kendi adlarına satın alınmasından kaynaklı bedeli karşılığında bu taşınmazların tapusunun iptali ile adlarına tescili ile davalı banka tarafından yükleniciye kullandırılan kredilerden kaynaklı yükleniciye avans olarak devredilen hisselerdeki ipoteğin terkini için asıl ve birleşen davalarda talepte bulunmuştur.
@@ -104,15 +124,21 @@ Davalı yüklenici adi ortaklık ise ...'den alınan taşınmaz hisseleri üzeri
 
 ## Ankara BAM 27. HD 2023/1318 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/977295500)
+
 Asliye Ticaret Mahkemesi'nin 2006/628 esas-2007/117 karar ve 09.04.2007 tarihli kararının incelenmesinde, yüklenici İş Ortaklığını oluşturan ... A.Ş. tarafından davalılar ... İnşaat A.Ş. ve ... aleyhine sözleşmede belirlenen sürede işe başlanmış olmasına rağmen, davalılardan karşılaşılan engellerin ortadan kaldırılmaması nedeniyle oluşan zararın tazmini talebi ile dava açıldığı, davanın feragat sebebiyle reddine karar verildiği anlaşılmaktadır. Yüklenici Adi Ortaklığı oluşturan şirketlerin ... A.Ş. ve ... İnşaat A.Ş. olduğu, sözleşmeden kaynaklanan uyuşmazlıklarla ilgili aralarında mecburi dava arkadaşlığı bulunduğu tüm dosya kapsamıyla sabittir. Mecburi dava arkadaşlığında hakkın esasına ilişkin Adi Ortaklığı oluşturan şirketlerden birisinin feragati hukuki sonuç doğurmaz. Bu sebeple bu yöndeki beyanlara itibar edilmemiştir. Her ne kadar; yüklenici İş Ortaklığını oluşturan ... A.Ş. ve ... İnşaat A.Ş. tarafından sunulan iki ayrı 02.11.2017 tarihli dilekçe ile talep sonuçları arttırılmış ve talep arttırım dilekçeleri sunulmuş ise de, davalı taraflar arasındaki uyuşmazlık ... ile ... İnşaat A.Ş. ve ...
 A.Ş.'den oluşan İş Ortaklığı arasında Türkiye-Yunanistan Doğalgaz Boru Hattı Projesi Faz-1 Kara Kısmının Yapımı İşi için 01.07.2005 tarihli sözleşmeden kaynaklandığı, sözleşmenin eser sözleşmesi olduğu, tüm dosya kapsamı ile sabittir. Eser sözleşmesinden kaynaklanan tazminat ve alacak talepli uyuşmazlıklardan davanın açıldığı tarihte talep sonucunun miktarının tam ve kesin olarak belirlenmesi her zaman imkan dahilindedir. Bu sebeple davanın belirsiz alacak davası olarak görülmesi mümkün değildir. Davanın belirsiz alacak davası olmadığı dikkate alındığında sunulan dilekçeler ancak ıslah dilekçesi olarak değerlendirilebilir. Adı geçen İş Ortaklığını oluşturan davacı şirketler tarafından yargılamanın önceki aşamalarında ıslah dilekçesi sunulmuştur. Bilindiği gibi, HMK'nun 176/2. maddesi gereğince aynı davada taraflar ancak bir kez ıslah yoluna başvurabilirler. Bu durumda İş Ortaklığını oluşturan ... A.Ş. ve ... İnşaat A.Ş. tarafından sunulan 02.11.2017 tarihli dilekçeler ıslah dilekçesi olarak da kabul edilemez.
 
 ## İstanbul BAM 13. HD 2023/1140 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1044565100)
+
 İtalya'dan Türkmenistan'a taşınan dava konusu emtianın, dava dışı ... şirketi ile dava dışı sigortalı ... şirketinin oluşturduğu konsorsiyum ile Türkmengazı Devlet Teşebbüsü arasında akdedilen sözleşme uyarınca ... inşaat sahasında kullanılmak üzere Türkmenistan'a gönderildiği, dosya arasında bulunan davacının sigortalısı dava dışı ... İNŞAAT SAN. VE TİC. AŞ. ile davalı ... HİZMETLERİ LTD.ŞTİ. Arasında 12/02/2016 tarihli NAKLİYE VE İTHALAT GÜMRÜK OPERASYON HİZMETLERİ SÖZLEŞMESİ başlıklı sözleşme uyarınca davalının akdi taşıyıcı olarak tüm taşıma sürecini üstlendiği, bu nedenle davalının pasif husumet ehliyetinin bulunduğu, davacının sigorta sözleşmesine dayanarak ödemesi gereken sigorta tazminatını 04/05/2017 tarihinde sigortalısına ödediği, dolayısıyla dava dışı sigortalısının haklarına TTK m. 1472 uyarınca halef olduğu görülmekle, davacının aktif husumet ehliyetinin bulunduğu anlaşılmıştır. Dosyada mevcut dava dışı ...
 Ltd. tarafından davalı ...'a hitaben düzenlenmiş olan ve davalının "hasarlı malla ilgili ihtarı aldığı" beyanını içeren belgede bir tarih yer almadığından, Kanunda belirtildiği şekilde hasar ihbarının 3 gün içinde yapılıp yapılmadığı denetlenemediğinden, bu belge TTK m. 1185/1. Madde gereği geçerli bir hasar ihbarı olarak kabul edilemeyeceği, dosya içeriğinde hasarın TTK. 1185/1. maddesine uygun şekilde davalı taşıyana ihbar edildiğine veya TTK. 1185/2. maddeye uygun olarak tarafların katılımıyla mahkemece inceleme yapıldığına dair bir belge ya da bilgi bulunmadığından, bu durumda TTK m.
 
 ## İstanbul BAM 43. HD 2023/808 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/936364500)
 
 …
 

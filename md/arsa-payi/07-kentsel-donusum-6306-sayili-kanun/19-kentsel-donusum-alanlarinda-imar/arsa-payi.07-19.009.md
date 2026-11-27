@@ -22,6 +22,8 @@ uyari: "Derleyenin seçtiği alıntılardır; kararın tamamı değildir. Künye
 
 ## Danıştay 13. D. 2023/2297 E., 2024/1126 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1132367600)
+
 İlk Derece Mahkemesi kararının özeti: ...
 
 …
@@ -38,6 +40,8 @@ Davanın yukarıda özetlenen gerekçeyle reddi yolundaki ... İdare Mahkemesi'n
 
 ## Danıştay 6. D. 2022/9229 E., 2024/1044 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1113583700)
+
 İSTEMİN ÖZETİ: 6306 sayılı Kanunun 2. maddesi uyarınca rezerv yapı alanı olarak belirlenen Ankara ili, ... ilçesi, ... Mahallesi, ... sayılı parsele yönelik 3194 sayılı İmar Kanununun 18. maddesi uyarınca parselasyon yapılmasına ilişkin ... tarih ve ... sayılı işlemin iptali istemiyle açılan davada; dava konusu işlemin iptali yolundaki...İdare Mahkemesinin ... tarihli, E:..., K:... sayılı kararına karşı yapılan istinaf başvurusunun kabulüne, idare mahkemesi kararının kaldırılmasına, davanın ehliyet yönünden reddine dair ... Bölge İdare Mahkemesi ... İdari Dava Dairesince verilen ... tarihli, E:..., K:... sayılı kararın, usul ve hukuka aykırı olduğu ileri sürülerek bozulması istenilmektedir.
 
 …
@@ -45,6 +49,8 @@ Davanın yukarıda özetlenen gerekçeyle reddi yolundaki ... İdare Mahkemesi'n
 ... Bölge İdare Mahkemesi ... İdari Dava Dairesince verilen...tarihli, E:..., K:... sayılı karar ve dayandığı gerekçe hukuk ve usule uygun olup bozulmasını gerektirecek bir sebep bulunmadığından, anılan kararın ONANMASINA …
 
 ## Danıştay 6. D. 2022/9216 E., 2024/1037 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1052430500)
 
 İlk Derece Mahkemesi kararının özeti: … İdare Mahkemesince verilen … tarih ve E:… , K:
 
@@ -60,6 +66,8 @@ yapı alanı olarak belirlenen parsele yönelik imar planının onaylanması iş
 Dava konusu işlemin yukarıda özetlenen gerekçeyle iptaline ilişkin İdare Mahkemesi kararına yönelik olarak yapılan istinaf başvurusunun reddi yolundaki temyize konu ... Bölge İdare Mahkemesi ... İdari Dava Dairesince verilen ... tarih ve E:...
 
 ## Danıştay 9. D. 2023/1765 E., 2024/854 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1057096100)
 
 İlk Derece Mahkemesi kararının özeti: … Vergi Mahkemesinin … tarih ve E:… , K:… sayılı kararıyla; dava konusu vergilendirme işleme ilişkin uyuşmazlık herhangi bir kuşku ya da hukuki tartışmaya meydan bırakmayacak şekilde açık bir vergi hatası kapsamında olmadığı, hukuki bir ihtilaf niteliğinde olduğu ve ileri sürülen iddiaların vergilendirme işlemine karşı süresinde açılacak davada incelenecek mahiyette bulunduğu, diğer bir ifadeyle ihtilafın çözümünün maddi olayların ve mevzuatın birlikte değerlendirilmesi ve yorumunu gerektirdiği, 213 sayılı Vergi Usul Kanununda öngörülen düzeltme-şikayet başvuru yolu izlenmek suretiyle tesis ettirilen olumsuz işleme karşı açılan davanın reddi gerektiği, dava konusu zımni ret işleminde hukuka aykırılık görülmediği gerekçesiyle davanın reddine karar verilmiştir.
 
@@ -85,6 +93,8 @@ Mahallesi Kentsel Dönüşüm Alanı Üzerine Arsa Payı (Kat) Karşılığı İ
 
 ## Danıştay 4. D. 2023/7647 E., 2024/627 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1053935300)
+
 İlk Derece Mahkemesi kararının özeti: … İdare Mahkemesince verilen … tarih ve E:… , K:
 
 … sayılı kararda; dosyadaki bilgi ve belgelerin incelenmesinden, davacı tarafından maliki olduğu Kayseri İli, Kocasinan İlçesi, …
@@ -101,6 +111,8 @@ Temyize konu … Bölge İdare Mahkemesi … İdari Dava Dairesinin … tarih ve
 
 ## Danıştay 6. D. 2022/7660 E., 2024/128 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1047061400)
+
 Bölge İdare Mahkemesi İdari Dava Dairesi kararının özeti:
 İdari Dava Dairesince verilen kararda; davaya konu planlama alanında sağlıklı, güvenli ve nitelikli yaşam çevresinin oluşturulmasının, yeterli kentsel altyapıya ve ulaşım olanaklarına erişimin sağlanmasının, sosyal donatı mekanlarının arttırılmasının, kamu hizmetlerine erişim olanaklarının geliştirilmesinin, ıslah imar planları ile çözülemeyen, ruhsatsız ve çarpık yapılaşmadan kaynaklanan sorunların çözümlenmesinin, sosyal ve fiziki yönden sağlıklı bir çevre oluşturulmasının, kentleşmenin kontrollü gelişiminin sağlanması ve gelişmelerin sürdürülebilir kılınmasının gerekli ve zorunlu olduğu ve ayrıca 3194 sayılı Yasanın emredici hükümleri gereğince nazım imar planı bulunmayan alanda 1/5000 ölçekli planın hazırlanmasında, bu plana dayalı olarak ve planlama hiyerarşisi kapsamında uygulama imar planının yürürlüğe konulmasında yasal gereklilik bulunduğu, dava konusu plana ilişkin hukuka uygunluk incelemesinin davacının iddiaları çerçevesinde ve her bir hukuka aykırılık iddiasının ayrı ayrı tartışılması suretiyle yapıldığı, nazım imar planı ve plan değişikliğinin ilçe belediyesince hazırlanarak büyükşehir belediyesine sunulduğu, bu nedenle müellifliğinin yasal dayanağının bulunmadığı
 iddiası yönünden;davaya konu planın Yasa gereği yetkili olan İzmir Büyükşehir Belediye Meclisi tarafından kabul edildiği ve yasal sürece uygun biçimde yürürlüğe konulduğu görüldüğünden, planın hazırlık aşamasında ilçe belediyesi tarafından çalışma yapılmış olmasının imar planının iptalini gerektirmeyeceği dava konusu planda nüfus artışı öngörülmesinin 1/25.000 ölçekli İzmir Büyükşehir Bütünü Çevre Düzeni Planı plan hükümlerinin genel hükümler başlıklı 6. maddesine aykırı olduğu; plan açıklama raporunda hangi bilimsel/teknik gerekçe ile planlama alanında nüfus artışı öngörüldüğünün açıklanmadığı iddiası yönünden; uyuşmazlığa konu alanda çeşitli tarihlerde nazım imar planı olmaksızın yürürlüğe konulmuş olan ve bir bölümü ıslah imar planı niteliğini taşıyan yürürlükteki 1/1000 ölçekli uygulama imar planlarında ortalama nüfus projeksiyonunun 62437 kişi olarak hesaplandığı, 1/5000 ölçekli planda ise 2030 yılı hedef nüfusunun 72830 kişi olarak öngörüldüğü ve plan kullanım kararlarının dağılımının bu hedef nüfus esas alınarak belirlendiği, davaya konu planın açıklama raporunda, nüfus kabullerine ilişkin çalışmalarda Konak İlçesinin tamamı üzerinden nüfus projeksiyon değerinin
@@ -115,6 +127,8 @@ Maddesinin 1/f bendine uygun olarak, 12 metreden daha geniş yollardan cephe ala
 Anılan sebep planın tamamına etki eden ve yeniden plan değişikliği yapılmasını gerektiren bir durum olduğu için planın tamamının iptaline karar verilmesi gerektiğinden temyize konu idari dava dairesi kararının tamamının bozulması gerektiği oyuyla Dairemizin idari dava dairesi kararının onanmasına ilişkin kısmına katılmıyorum.
 
 ## Danıştay 6. D. 2020/5287 E., 2023/10214 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1047311900)
 
 İlk Derece Mahkemesi kararının özeti: ….
 
@@ -132,6 +146,8 @@ Dava konusu işlemin yukarıda özetlenen gerekçeyle iptaline ilişkin …
 
 ## Danıştay 6. D. 2023/7298 E., 2023/9915 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1047810800)
+
 İlk Derece Mahkemesi kararının özeti: …. İdare Mahkemesince verilen … tarih ve E:…, K:
 
 … sayılı kararda; Ankara ili, Çankaya ilçesi, Dikmen Vadisi KDGPA Son Etap 2.
@@ -147,6 +163,8 @@ Bu itibarla, Bölge İdare Mahkemesi İdari Dava Dairesince dava konusu imar pla
 Davanın yukarıda özetlenen gerekçeyle süre aşımı nedeniyle reddine ilişkin Mahkeme kararına yönelik olarak yapılan istinaf başvurusunun reddi yolundaki temyize konu … Bölge İdare Mahkemesi …. İdari Dava Dairesinin … tarih ve E:…, K:… sayılı kararının BOZULMASINA …
 
 ## Danıştay 6. D. 2019/12803 E., 2023/9320 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1043560900)
 
 Ankara Büyükşehir Belediye Meclisinin …
 
@@ -184,6 +202,8 @@ Davanın yukarıda özetlenen gerekçeyle reddine yönelik olarak yapılan istin
 
 ## Danıştay 6. D. 2022/4919 E., 2023/9224 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1045091100)
+
 İlk Derece Mahkemesi kararının özeti: ...
 
 …
@@ -195,6 +215,8 @@ Bu durumda, dava konusu taşınmazların bulunduğu alanda riskli alan ilanı ol
 Dava konusu işlemin yukarıda özetlenen gerekçeyle iptaline ilişkin Mahkeme kararına yönelik olarak yapılan istinaf başvurusunun reddi yolundaki temyize konu … Bölge İdare Mahkemesi ... İdari Dava Dairesinin … tarih ve E:…
 
 ## Danıştay 6. D. 2022/8126 E., 2023/8429 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1043559600)
 
 Dosyanın UYAP kayıtlarıyla birlikte incelenmesinden, uyuşmazlığa konu taşınmazın da yer aldığı Diyarbakır İli, Sur İlçesi, Suriçi bölgesinin … günlü, … sayılı Diyarbakır Kültür ve Tabiat Varlıklarını Koruma Bölge Kurulu kararı ile kentsel sit alanı ilan edildiği, ancak zaman içerisinde ruhsatsız yapılaşmalar, geleneksel yapıların yıkılması ve tahribi sonucu bölgenin tarihi kent özelliğini kaybettiği, mevcut yapı stokunun can ve mal güvenliği açısından risk oluşturduğu, bu yapıların aynı zamanda tescilli kültür varlığı değeri taşıyan yapıları da olumsuz etkileyerek tarihi yapı ve dokunun bozulmasına ve çöküntü haline gelmesine neden olduğunun saptanması üzerine Çevre ve Şehircilik Bakanlığı Altyapı ve Kentsel Dönüşüm Hizmetleri Genel Müdürlüğü tarafından hazırlanan teknik rapora dayanılarak 22.10.2012 günlü, 2012/3900 sayılı Bakanlar Kurulu kararı ile 6306 sayılı Afet Riski Altındaki Alanların Dönüştürülmesi Hakkında Kanunun 2. maddesi uyarınca bölgenin riskli alan olarak ilan edildiği, 2015 yılında Diyarbakır Kalesi ve Hevsel bahçeleri kültürel peyzajının Dünya Mirası olarak tescillendiği;
 
@@ -223,6 +245,8 @@ parselinde kayıtlı tescilli taşınmazın bitişiğinde inşa edilecek yeni ya
 
 ## Danıştay 6. D. 2022/7716 E., 2023/7900 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1034912900)
+
 İlk Derece Mahkemesi kararının özeti: ... İdare Mahkemesince verilen … tarih ve E:…, K:… sayılı kararda; dava konusu edilen 1/1000 ölçekli uygulama imar planı ve plan hükümlerinin (notlarının) 29/03/2018 tarihinde düzenlenen tutanak ile bir ay süreyle belediye binasının ikinci katında bulunan ilan panosunda askıya çıkarılarak ilan edildiği, ayrıca keyfiyetin, 29/03/2018 tarihli yazı ile … Mahallesi, … Mahallesi ve … Mahallesi muhtarlıklarına da bildirildiği, ilan süresi içerisinde davacılar tarafından herhangi bir itirazda bulunulmadığı, davanın ise 06/11/2021 tarihinde açıldığı, dava konusu belediye meclis kararına karşı ilan süresi içerisinde itiraz edilerek alınacak cevap üzerine 60 gün içerisinde ya da son ilan tarihi olan 30/04/2018 tarihinden itibaren 60 gün içerisinde açılması gerekirken belirtilen sürelerden sonra açılan davanın süre aşımı nedeniyle incelenemeyeceği gerekçesiyle reddine karar verilmiştir.
 
 Bölge İdare Mahkemesi İdari Dava Dairesi kararının özeti:
@@ -242,6 +266,8 @@ sayılı dosyasına kayden açılan bedel tespiti ve tescil davasında, meşruha
 Davanın yukarıda özetlenen gerekçeyle davanın süre aşımı nedeniyle reddine ilişkin Mahkeme kararına yönelik olarak yapılan istinaf başvurusunun reddi yolundaki temyize konu … Bölge İdare Mahkemesi ... İdari Dava Dairesinin … tarih ve E:…, K:… sayılı kararının BOZULMASINA …
 
 ## Danıştay 6. D. 2023/5 E., 2023/7712 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1026985100)
 
 İlk Derece Mahkemesi kararının özeti:
 Temyize konu kararda; riskli alan olarak belirlenen dava konusu taşınmazı da kapsayan alana ilişkin uygulama ve nazım imar planları ile parselasyon işleminin on beş gün süreyle ilan edildiği, askı süresinde plana karşı itiraz bulunmadığından ötürü 17/10/2019 tarihli makam oluru ile kesinleştiği, bu tarihi takip eden günden itibaren 15 gün içerisinde dava açılması gerektiği halde bu tarih geçirildikten uzunca bir süre sonra 27/02/2022 tarihinde açılan davanın süre aşımı nedeniyle esasını incelemeye olanak bulunmadığı, öte yandan; davacı tarafından yapılan 17/12/2021 tarihli başvuru ile yeni bir imar uygulaması yapılması talebinde bulunulduğu, Şırnak Valiliği Çevre, Şehircilik ve İklim Değişikliği İl Müdürlüğünün ... tarih ve ... sayılı yazısı ile talebin reddi yönünde görüş bildirilmesi üzerine işbu davanın açıldığı görülmekte ise de, dava dilekçesinde yeniden imar uygulaması yapılmasına yönelik talebin reddine yönelik işlemin iptalinin istenilmediği gibi dilekçenin konu ve açıklamalar kısmında yalnızca ... tarih ve ... sayılı bakanlık oluru ile onaylanan revizyon imar planının iptaline yönelik taleplerde bulunulduğu görüldüğünden anılan başvuru üzerine açılan davanın bu yönüyle de

@@ -22,6 +22,8 @@ uyari: "Derleyenin seçtiği alıntılardır; kararın tamamı değildir. Künye
 
 ## Yargıtay 23. HD 2013/4306 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/493460000)
+
 Davacılar vekili, asıl ve birleşen davalarda taraflar arasındaki arsa payı karşılığı inşaat sözleşmesi gereğince davalı yüklenicinin edimlerini süresinde yerine getirmediğini ileri sürerek, üç adet villadaki eksik, kusurlu işbedelinin ve kira tazminatının tahsilini; hiç inşaata başlanılmayan taşınmaz yönünden ise sözleşmenin feshi ile tapunun davacılar adına tescilini talep ve dava etmiştir.
 
 Davalı vekili, davaların reddini savunmuş; birleşen davasında ise sözleşme dışı ... yaptığını ve arsa sahiplerinin ödemesi gereken masrafları yüklenicinin ödediğini ileri sürerek, tahsilini talep ve dava etmiştir.
@@ -38,6 +40,8 @@ SONUÇ:Yukarıda (...) numaralı bentte açıklanan nedenlerle, davalı-birleşe
 
 ## Yargıtay 15. HD 2013/4268 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/258764500)
+
 Taraflar arasında düzenlenen 05.01.2006 tarihli Düzenleme Şeklinde Gayrimenkul Satış Vaadi ve Kat Karşılığı İnşaat Sözleşmesine göre mülkiyeti davacıya ait olan ... İli, ... İlçesi ... Köyü 2617 parsel sayılı taşınmaz üzerinde plân ve projesine uygun olarak inşaat yapılacak, bir kısım bağımsız bölümler davacı arsa sahiplerine teslim edilecektir. Sözleşmenin 1/c bendine göre 2610 ve 2611 parsel numaralarında kayıtlı gayrimenkuller bilahare yüklenici tarafından satın alındığında davacı arsa sahibine ait 2617 parsel nolu taşınmaz ile tevhid edilecek, alınan yeni parsellerle ilgili olarak taraflar daha sonra iş bu sözleşmeye ek sözleşmeyi tanzim edeceklerdir. Sözleşmenin inşaat süresini düzenleyen 2/c maddesi hükmüne göre de, temel vizesinin tasdikinden itibaren 24 ay sonunda inşaat tamamen bitirilerek teslim edilecektir. Sözleşme 05.01.2006 tarihinde imzalanmış olup ... İlçesi ... Belediye Başkanlığı'ndan alınan 01.12.2009 tarihli yazı cevabına göre 2617 parsele inşaat ruhsatı talebinde bulunulmamış ve inşaat ruhsatı alınmamıştır.
 Sözleşmede 2617 parsel ile 2610 ve 2611 parsellerin tevhit işlemi yapılarak yeni parselin oluşacağı ve bu şekilde sözleşmeye konu parselin yola cephesi sağlanarak taşınmazın üzerine inşaat yapımına elverişli hale geleceği anlaşılmakta olup, davalı yüklenici 16.01.2007 tarihinde 2610 parsel maliklerinden bir kısmı ile düzenleme şeklinde gayrimenkul satış vaadi sözleşmesi imzalanmış ise de, parsel maliklerinden bir kısmının ... 1. Sulh Hukuk Mahkemesi’nde 2006/1108 Esas numaralı dosyası ile 2610 parsel yönünden ortaklığın giderilmesi davası açılmış, dava 16.09.2008 tarihinde HUMK’nın …
 
@@ -46,6 +50,8 @@ Sözleşmede 2617 parsel ile 2610 ve 2611 parsellerin tevhit işlemi yapılarak 
 SONUÇ:Yukarıda açıklanan nedenlerle yerel mahkeme kararının BOZULMASINA …
 
 ## Yargıtay 23. HD 2013/4078 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/493381200)
 
 Mahkemece, sözleşmenin feshi talebinin kabulü ile tapu iptal ve tescil talebinin reddine dair verilen kararın tapu iptal ve tescil talebi yönünden bozulması üzerine, bir kısım davalılara karşı açılan davanın pasif husumet nedeniyle reddine; diğer davalılar için ise kabulü ile davalılar adına olan tapu kayıtlarının iptali ile davacılar adına tesciline karar verilmiştir.
 
@@ -63,6 +69,8 @@ SONUÇ:Yukarıda (...) numaralı bentte açıklanan nedenlerle davalı ... vekil
 
 ## Yargıtay 23. HD 2013/4037 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/491790500)
+
 Davacılar vekili, müvekillerinin murisi arsa sahipleri... ve dava dışı diğer arsa sahipleri ....,.... ile davalı kooperatif arasında ....05.1996 tarihinde "Düzenleme Şeklinde Gayrimenkul Satış Vaadi ve Daire Karşılığı İnşaat Sözleşmesi" imzalandığını, sözleşme uyarınca 01.09.1996 tarihinde inşaat ruhsatının alınması ve inşaatın ... ay içinde bitirilmesi gerektiğini ve inşaa edilecek tripleks villalardan ... tanesinin müvekkilinin murisine ait olacağını, geri kalan ... tanesinin ise yüklenicinin hissesine düştüğünü, ancak davalı yüklenicinin ... villadan ... tanesinin yapımına hiç başlamadığını, yapılan inşaatın ruhsatsız ve kaçak olduğunu, inşaatın yasal hale getirilmesinin mümkün olmadığını ileri sürerek, sözleşmenin geriye etkili feshi ile binaların kal'ine karar verilmesini talep ve dava etmiştir.
 
 Davalı kooperatif, davacılara verilmesi gereken binaların %90 oranında tamamlandığını ve davacıların, villaları ihtirazi kayıt öne sürmeden teslim aldıklarını, bu konuda müvekkili kooperatif ile davacıların murisi arasında ....05.2002 tarihinde yazılı anlaşma yapıldığını, sözleşme uyarınca ... adet villanın ... tanesinin tamamlanıp, teslim edildiğini, geri kalan ... villa için de ....02.2003 tarihine kadar ek süre alındığını ve bu dairelerdeki eksik işler nedeniyle sürenin kararlaştırıldığını, sözleşmenin geriye etkili olarak feshi talebinin haksız olduğunu savunarak, davanın reddini istemiştir.
@@ -76,6 +84,8 @@ Taraflar arasındaki uyuşmazlık ....05.1996 tarihli "Düzenleme Şeklinde Gayr
 SONUÇ: Yukarıda açıklanan nedenlerle, davalı kooperatif vekilinin temyiz itirazalının kabulü ile hükmün BOZULMASINA …
 
 ## Yargıtay 23. HD 2013/3983 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/490985700)
 
 Davacı vekili, taraflar arasında imzalanan ....06.2008 tarihli arsa payı karşılığı inşaat sözleşmesi uyarınca davalı yüklenicinin kararlaştırılan ... aylık sürede inşaata başlamaması ve verilen ek ... aylık sürede de inşaat yapmaması üzerine arsa sahibi davacı tarafından ....04.2009 tarihinde vekaletten azledildiğini ileri sürerek, taraflar arasındaki sözleşmenin feshini, tapuya verilen satış vaadi şerhinin terkinini, sözleşmenin 36. maddesi gereği davacıya isabet etmesi kararlaştırılan bir dükkan için aylığı ....000 USD ile beş adet daire için aylık toplam ....500 USD cezai şart tazminatının dava tarihinden itibaren işleyecek yasal faiziyle davalılardan müştereken ve müteselsilen tahsilini talep ve dava etmiş, ....09.2012 tarihli duruşmada davalı ...'a yönelik davasından feragat ettğini bildirmiştir.
 
@@ -97,6 +107,8 @@ SONUÇ: Yukarıda (...) numaralı bentte açıklanan nedenlerle, davalı şirket
 
 ## Yargıtay 23. HD 2013/3240 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/488722200)
+
 Davacı vekili, müvekkili arsa sahibi ile davalı yüklenici ... Eko İnşaat Ltd. Şti. arasında ........2005 tarihinde "Gayrimenkul Satış Vaadi ve İnşaat Sözleşmesi" imzalandığını, ancak dava tarihi itibariyle yapı ruhsatının henüz alınmadığını, inşaatın % 45,90 seviyesinde imal edilmiş halde olduğunu, davalı yüklenicinin inşaatı tamamlamasının mümkün bulunmadığını ve sözleşmenin müvekkili açısından katlanamaz hale geldiğini ileri sürerek, dava konusu sözleşmenin feshine, davalıya devredilen payın inşaat değerinin tenkisi ile bakiye kısmının iptaline ve müvekkili adına tesciline, sözleşme uyarınca gecikme tazminatı, satış ve kira bedelinden yoksun kalınan kâr nedeniyle fazlaya ilişkin hakları saklı kalmak üzere 60.000,00 TL tazminatın tahsiline karar verilmesini talep ve dava etmiştir.
 
 Davalı yüklenici ... Ltd.
@@ -113,6 +125,8 @@ SONUÇ: Yukarıda (...) no'lu bentte açıklanan nedenlerle, davalı yüklenici 
 
 ## Yargıtay 23. HD 2013/3051 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/490294000)
+
 Ne var ki, 05/05/2010 günlü sözleşmenin “cezai şartlar ile fesihe ve yetkiye ilişkin şartlar” bölümünün ikinci maddesinde yüklenici kooperatifin teslim şartlarında belirtilen arsa sahibinin 1502 parsel B Bloktan hak ettiği ikinci ... adet daireyi ( ...,...,...,... numaralı daireler) sözleşme imzalandıktan itibaren ... yıl içinde teslim etmez ise ... bu sözleşmenin feshedilerek, hiçbir ihtara gerek kalmaksızın taraflar arasında düzenlenen ilk sözleşme olan ... .... Noterliğinin .../04/1995 tarih ve ... yevmiye numaralı arsa payı karşılığı inşaat sözleşmesinin uygulanacağı kararlaştırılmıştır.
 
 Yukarıda belirtildiği üzere 05.05.2010 tarihli sözleşmede fesih halinde taraflar arasındaki hukuki ilişkiye uygulanacak sözleşmenin ....04.1995 tarihli sözleşme olduğu kararlaştırılmış, oysa davacı yanca uygulanması istenen sözleşme bu sözleşme değil, .../.../1998 tarihli sözleşmedir. Davanın bu gerekçe ile reddi gerekirken,aynı sonuca yazılı gerekçelerle varılması isabetsiz ise de, sonucu itibariyle isabetli görülen kararın, HUMK'nın 438/son maddesi hükmü uyarınca değişik gerekçe ile onanmasına karar verilmiştir.
@@ -123,6 +137,8 @@ SONUÇ: Yukarıda açıklanan nedenle, davacı vekilinin temyiz itirazlarının 
 
 ## Yargıtay 23. HD 2013/3049 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/490287700)
+
 …
 
 ...-Taraflar arasında düzenlenen ....05.2006 tarihli ve arsa payı devrini öngören inşaat sözleşmesi adi yazılı olarak düzenlenmiştir. Arsa payı devri yükümlülüğünü öngören bu tip sözleşmelerin TMK'nın 706, Borçlar Kanunu'nun 213, Noterlik Kanunu'nun 60 ve Tapu Kanunu'nun .... maddeleri uyarınca resmi şekilde düzenlenmeleri geçerlilik şartıdır. Bunun yanında somut olayda , tapu devri yapılmadığı gibi işin getirildiği fiziki seviye itibarıyla da ... İçtihadı Birleştirme Büyük Genel Kurulu’nun ....09.1988 tarih, 1987/...-1988/... sayılı kararı uyarınca sözleşmenin bağlayıcı olduğunun kabulü de mümkün değildir.Şu halde ortada geçerli bir sözleşme bulunmadığından sözleşmenin geçersizliğinin tespitine karar verilmesi gerekirken, arsa payı karşılığı inşaat sözleşmelerinin ancak taraf iradelerinin birleşmesi ya da mahkeme kararı ile feshi mümkün olduğu halde mahkemece davacı tarafından ....05.2006 tarihli sözleşmenin feshedildiğinin tespitine karar verilmesi usul ve yasaya aykırı ise de, anılan yanlışlığın giderilmesi yeniden yargılama yapılmasını gerektirmediğinden, hükmün HUMK’nun 438/.... maddesi uyarınca aşağıdaki şekilde düzeltilerek onanmasına karar vermek gerekmiştir …
@@ -130,6 +146,8 @@ SONUÇ: Yukarıda açıklanan nedenle, davacı vekilinin temyiz itirazlarının 
 SONUÇ: Yukarıda (...) numaralı bentte açıklanan nedenlerle, davalı - karşı davacı vekilinin diğer temyiz itirazlarının reddine, (...) numaralı bentte açıklanan nedenlerle, davalı - karşı davacı vekilinin temyiz itirazının kabulü ile kararın hüküm bölümünün .... bendinin 1a kısmındaki “davacı tarafından fesih edildiğinin tespitine” ibaresinin çıkarılarak, “geçersizliğinin tespitine” ibaresinin eklenmesine; hükmün bu şekilde düzeltilerek ONANMASINA …
 
 ## Yargıtay 23. HD 2013/2862 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/487004600)
 
 Mahkemece, asıl davanın kabulüne, karşı davanın kısmen kabulüne karar verilmiştir.
 
@@ -144,6 +162,8 @@ Karşı davada, yüklenici tarafça yapılan imalatın ve masrafların bedeli ta
 SONUÇ : Yukarıda (...) numaralı bentte açıklanan nedenlerle, taraf vekillerinin sair temyiz itirazlarının reddine, (...) numaralı bentte açıklanan nedenlerle taraf vekillerinin temyiz itirazlarının kabulü ile hükmün taraflar yararına BOZULMASINA …
 
 ## Yargıtay 23. HD 2013/2582 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/486095200)
 
 Davacı vekili, davalı ... ile davacı arasında yapılan arsa payı karşılığı inşaat sözleşmesi gereğince inşaata başladığını ancak arsanın diğer davalılara devredilmesi nedeniyle sözleşmenin ifasının imkansız hale geldiğini ileri sürerek, yaptığı imalat bedelinin tahsilini talep ve dava etmiştir.
 
@@ -161,11 +181,15 @@ SONUÇ: Yukarıda (...) numaralı bentte açıklanan nedenlerle, davalı ... ve 
 
 ## Yargıtay 23. HD 2013/2099 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/483798100)
+
 Kabule göre de, yanlar arasında imzalanan sözleşmenin .... maddesinde “ bu anlaşma arsa sahibi / yüklenici tarafından bozulduğu takdirde, arsa sahibine/ müteahite o mevkiide, aynı mahal şartlarında yapılmış bir dairenin rayiç bedeli kadar şartı ceza ödeyecekleri” kararlaştırılmış olup,bu hüküm dönme cezası olarak nitelendirildiğinde sözleşmeden dönen taraf davacı olduğu için dönme cezası istenemez.Seçimlik ceza olarak nitelendirildiğinde ise davacı taraf sözleşmeyi feshettiğinden cezai şartın davalıdan tahsili mümkün değildir. Bu nedenle mahkemece asıl davada cezai şartın tahsili isteminin reddi yerine kabulüne karar verilmesi yerinde olmadığından, karar bozulmalıdır.
 
 SONUÇ: Yukarıda (...) no’lu bentte açıklanan nedenlerle asıl davada davalılar-karşı davada davacılar vekilinin diğer temyiz itirazlarının reddine, (...) no’lu bentte açıklanan nedenlerle asıl davada davalılar-karşı davada davacılar vekilinin temyiz itirazlarının kabulü ile hükmün BOZULMASINA …
 
 ## Yargıtay 23. HD 2013/2078 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/482995000)
 
 Davacı vekili, taraflar arasında imzalanan ....07.2006 tarihli arsa payı karşılığı inşaat sözleşmesinin ....09.2009 tarihli ihtarname ile feshedildiğini, bu süre içerisinde davalı yüklenici tarafından davacı ve müştereklerine ait arsa üzerinde bulunan iki katlı evin de yıktırıldığını ileri sürerek, yıkılan evden dolayı davacının hissesine düşen kira kaybı bedeli ....325,00 TL ve yıkılan evin değerinden davacının hissesine düşen ....860,00 TL olmak üzere toplam ....185,00 TL'nin yıkım tarihinden itibaren işleyecek yasal faiziyle davalıdan tahsilini talep ve dava etmiştir.
 
@@ -185,6 +209,8 @@ SONUÇ : Yukarıda açıklanan nedenlerle davacı vekilinin temyiz itirazların�
 
 ## Yargıtay 15. HD 2013/1748 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/256003800)
+
 Elbirliği ya da müşterek mülkiyet şeklinde mülkiyete konu taşınmaz mallar üzerinde inşaat yapılması için arsa payı karşılığı inşaat sözleşmelerinin de tüm ortakların ya da müşterek paydaşların katılımıyla yapılması zorunludur. Kural bu olmakla birlikte, bazı ortak ya da müşterek paydaşlar tarafından yapılan sözleşmelere, diğer ortak ya da paydaşların onay vermeleri durumunda da arsa payı karşılığı inşaat sözleşmesi geçerli ve bağlayıcı olur.
 
 Somut olayda ise; sözü edilen arsa payı karşılığı inşaat sözleşmesi ile ek sözleşme, sözleşme konusu müşterek mülkiyete konu olan parsellerdeki davacıların miras bırakanı olan ...'nin payları hakkında yapılmıştır. Taşınmazların tümü hakkında arsa payı karşılığı inşaat sözleşmelerinin yapıldığına ilişkin dosya kapsamında yeterli bilgi ve belge bulunmamaktadır. Ancak, getirtilerek incelenen Samsun 3.Asliye Hukuk Mahkemesinin 2005/615 Esas ve 2008/5 Karar sayılı dosyası kapsamından aynı davalılar hakkında ve yine aynı tapulu taşınmazlara ilişkin olarak yapılan ve İstanbul 14.Noterliğince düzenlenen 08.07.1997 tarihli ve 14688 yevmiye numaralı arsa payı karşılığı inşaat sözleşmesi ile bu sözleşmeye ek olarak düzenlenen 11.09.1998 tarihli ve 24076 yevmiye numaralı sözleşmenin feshi istemiyle, .... tarafından dava açıldığı anlaşılmıştır.
@@ -196,6 +222,8 @@ SONUÇ: Yukarıda açıklanan sebeplerle davalıların temyiz itirazlarının ka
 
 ## Yargıtay 15. HD 2013/1265 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/258131000)
+
 Davacıların murisi ...., dava tarihinden önce 02.05.2003 tarihli ihtarla sözleşmeyi tek taraflı olarak feshettiğini yüklenici ....’ya bildirmiş, dava dışı yüklenici .... bu ihtara 23.07.2003 tarihinde verdiği cevabında sözleşme konusu arsanın muvafakatı dışında ....’ya teslim edildiğini inşaatların da .... tarafından yapıldığını, bu nedenle fiili olarak yürürlüğe girmeyen sözleşmenin feshine bir diyeceği olmadığını bildirmiştir. Asıl ve ek sözleşmelerin tümünde yüklenici sıfatıyla .... yer almış, 06.11.1992 tarihli asıl sözleşmenin 9. maddesinde mal sahibinin iş bu sözleşmenin tanzim ve imzası ile birlikte müteahhit ...., .... ve K. ....’ya geniş kapsamlı vekâletname vereceği hükme bağlanmıştır. Düzenleme şeklinde yapılan kat karşılığı inşaat sözleşmelerinin feshi için taraf iradelerinin feshi konusunda birleşmesi veya mahkeme kararının varlığı zorunludur. Yüklenici ...., 23.07.2003 tarihli cevabi …
 
 …
@@ -203,6 +231,8 @@ Davacıların murisi ...., dava tarihinden önce 02.05.2003 tarihli ihtarla söz
 SONUÇ:Yukarıda açıklanan nedenlerle yerel mahkeme kararının BOZULMASINA …
 
 ## Yargıtay 15. HD 2013/1057 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/255759100)
 
 Dava, Borçlar Yasası’nın 355 ve devamı maddelerinde düzenlenen eser sözleşmesinin bir türünü oluşturan düzenleme şeklinde gayrimenkul satış vaadi ve kat karşılığı inşaat sözleşmesinden kaynaklanan sözleşmenin ileriye dönük olarak feshi istemine ilişkindir.
 
@@ -217,6 +247,8 @@ TMK'nın 692. maddesi gereğince sözleşmenin feshi için açılan davanın tü
 SONUÇ: Yukarıda açıklanan nedenlerle davalı vekilinin temyiz itirazlarının kabulü ile kararın davalı yararına BOZULMASINA …
 
 ## Yargıtay 23. HD 2013/929 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/474243000)
 
 Davacı vekili, müvekkilinin dava dışı başka bir yüklenici ile yaptığı arsa payı karşılığı inşaat sözleşmesi gereğince yapılacak inşaatın uzun süre başlamaması üzerine, davalı yüklenici ile 05.05.2006 tarihinde yeni bir arsa payı karşılığı inşaat sözleşmesi yapıldığını, bu sözleşmede müvekkilin ilk yüklenici ile yaptığı sözleşmenin feshi nedeniyle doğabilecek her türlü tazminatın ve mahkeme masrafının davalı tarafından karşılanacağının düzenlendiğini, davacının, davalıya güvenerek, davalının avukatına vekalet verdiğini, bu vekaletname ile ilk yükleniciyle yapılan sözleşmenin feshi için dava açıldığını, ilk yüklenicinin de haksız fesih nedeniyle karşı dava açtığını, karşı davada mahkemece, müvekkil aleyhine yaklaşık ....500.000,00 TL tazminata karar verildiğini, bu durumun, davalı ve avukatı tarafından, karar ... aşamasına gelene dek gizlendiğini, en sonunda, davalının, kararın temyiz edildiğini ve lehe bozulabilmesi için yapılan anlaşmanın hemen feshedilip ve fesihnamenin ...'daki dosyaya sunulması gerektiği hususunda davacıyı hile ve desise ile kandırması sonucu ........2010 tarihli düzenleme şeklindeki fesihnamenin imzalanarak 05.05.2006 tarihli sözleşmenin karşılıklı olarak
 feshedildiğini ileri sürerek, fesihnamenin hükümsüzlüğüne ve iptaline karar verilmesini talep ve dava etmiştir.

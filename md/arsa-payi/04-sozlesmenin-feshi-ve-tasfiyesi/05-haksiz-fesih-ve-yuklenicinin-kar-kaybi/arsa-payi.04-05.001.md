@@ -21,6 +21,8 @@ uyari: "Derleyenin seçtiği alıntılardır; kararın tamamı değildir. Künye
 
 ## Yargıtay HGK 2023/118 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/897478600)
+
 İlk Derece Mahkemesince verilen kararın taraf vekilleri tarafından istinaf edilmesi üzerine, Bölge Adliye Mahkemesince davacı karşı davalı vekilinin istinaf başvurusunun esastan reddine, davalı karşı davacılar vekilinin asıl davaya yönelik istinaf başvurusunun usulden reddine, karşı davaya ilişkin istinaf başvurusunun kabulüne, İlk Derece Mahkemesinin kararının kaldırılmasına, asıl davanın kısmen kabulü ile davanın menfi zararla sınırlı olarak kısmen kabulüne, müspet zarar talebinin reddine, karşı davanın kabulü ile taraflar arasında düzenlenen arsa payı karşılığı inşaat sözleşmesinin geriye etkili olarak feshine karar verilmiştir.
 
 …
@@ -37,6 +39,8 @@ Davacı karşı davalı vekilinin temyiz itirazlarının kabulü ile direnme kar
 
 ## Yargıtay 6. HD 2025/4282 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1199188300)
+
 Müspet zarar kapsamında kâr kaybı, kârdan mahrum kalma karşılığı meydana gelen zarardır ve sözleşmeyi kusuruyla fesheden taraftan istenir.
 
 …
@@ -44,6 +48,8 @@ Müspet zarar kapsamında kâr kaybı, kârdan mahrum kalma karşılığı meyda
 Yukarıda (2) numaralı bentte açıklanan nedenlerle davacı vekilinin karar düzeltme isteminin kabulüyle Dairemizin 03.07.2025 tarihli 2024/2956 Esas, 2025/2749 Karar sayılı onama ilamı KALDIRILARAK yerel mahkeme kararının BOZULMASINA …
 
 ## Yargıtay 6. HD 2025/2319 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1160526700)
 
 Davalı arsa sahipleri vekili asıl davaya karşı cevap dilekçesinde özetle; yüklenicinin sözleşmeden kaynaklanan sorumluluklarını yerine getirmediğini, E blokun yapılacağı yapının yüklenici tarafından yıkılması gerektiğini, E blokun en son yapılacağı hususunun yüklenicinin de kabulünde olduğunu, ruhsat alınmasındaki gecikmenin sorumluluğunun yüklenicide olduğunu, belediye tarafından inşaat mühürlendikten sonra yüklenicinin inşaata devam etmesi nedeniyle suç duyurusunda bulunduklarını belirterek davanın reddini talep etmiştir.
 
@@ -60,6 +66,8 @@ Davacı yüklenici bu talebini de belirsiz alacak olduğunu iddia etmiş ise de,
 
 ## Yargıtay 6. HD 2024/5148 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1127049300)
+
 İlk Derece Mahkemesince, tazminat davasında, davacı ile davalı yüklenici arasında imzalanan arsa payı karşılığı inşaat sözleşmesi uyarınca teslim günü olarak kararlaştırılan 11.11.2007 tarihinden, sözleşmenin feshi ve tapu iptal ve tescil istemlerine ilişkin açılan davanın kabulüne dair verilen kararın kesinleşme tarihi olan 21.03.2014 tarihine kadar 7 daire için emsal kira bedelinden uğranılan kazanç kaybı ve inşaatın bu sürede yapılamaması nedeniyle uğradığı zararların tazmini yani olumlu zarar talebinde bulunulmuş ise de; davacılar ile dosya davalılarından ... arasında yapılan kat karşılığı inşaat sözleşmesinin davacıların açtığı dava sonucunda fesh edildiği, olumlu zarar niteliğindeki gecikme tazminatının sözleşmenin feshi halinde dahi istenebileceğine ilişkin taraflar arasındaki sözleşmede bir hüküm de bulunmadığı gerekçesiyle davanın reddine karar verilmiştir.
 
 …
@@ -73,6 +81,8 @@ Mahkemece, sözleşmenin feshi halinde müspet zararın istenemeyeceği gerekçe
 
 ## Yargıtay 6. HD 2024/5096 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1123516800)
+
 İlk Derece Mahkemesince, kat karşılığı inşaat sözleşmesinin davalı yüklenici tarafından yerine getirilmemesi nedeniyle açılan sözleşmede belirlenen kira yardımı ve ceza-i şart alacağı davasında davalı yüklenicinin edimini yerine getirmediği gerekçesiyle, davanın kabulüne karar verilmiştir.
 
 …
@@ -82,6 +92,8 @@ Kamu düzenine aykırılık hallerinin re'sen gözetildiği, istinaf nedenleriyl
 SONUÇ: Yukarıda açıklanan nedenlerle İstanbul Bölge Adliye Mahkemesi 15. Hukuk Dairesi kararına ilişkin davacı vekilinin tüm temyiz istemlerinin reddiyle usul ve kanuna uygun bulunan kararın ONANMASINA …
 
 ## Yargıtay 6. HD 2024/4115 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1121104600)
 
 Davalı vekili cevap dilekçesinde; davacı şirketin sözleşmeden sonra hiç bir çalışma yapmadığını, tapu harçları ve proje masraflarını da ödemediğinden iki ay beklediklerini, sonradan davacının inşaatı yapacak maddi durumunun olmadığını öğrendiklerini bu nedenle sözleşmeyi haklı feshettiklerini belirterek, davanın reddine karar verilmesini istemiştir.
 
@@ -96,6 +108,8 @@ Dairemizin 2019/909 esas, 2019/3685 karar ve 30.09.2019 tarihli bozma ilâmında
 SONUÇ: Yukarıda açıklanan nedenlerle Yalova 1. Asliye Hukuk Mahkemesi'nce verilen karar usul ve yasaya aykırı olduğundan davacı vekilinin temyiz sebeplerinin kabulü ile kararın davacı yararına BOZULMASINA …
 
 ## Yargıtay 6. HD 2024/2903 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1091952000)
 
 Davalı arsa sahipleri vekili cevap dilekçesinde özetle; müvekkillerinin kentsel dönüşüme dair bir talepleri olmadığını, davacının binanın kentsel dönüşüm kapsamında yapılmasını istediğini, davacı daha önce de bina yaptığından dolayı kentsel dönüşümün kaç ay süreceğini basiretli tacir olarak bilmesi gerektiğini, tapu kayıtları incelendiğinde 24.04.2015 tarihinde dava konusu yere riskli yapı şerhi işlendiğini, riskli yapı şerhi işlendikten sonra davacının belediyeye ruhsat için başvurmasını gerektirecek engel olmamasına rağmen, ruhsat başvurusunun da zamanında yapılmadığını, davacının evin yıktırılmasına karışmayacağını belirtmesi üzerine müvekkilinin taşınmaz üzerindeki evi hemen yıktırıp davacıya teslim ettiğini, gecikmenin tamamen davacının işe zamanında başlamaması ile ilgili olduğunu, yapılan hiçbir masraf olmadığını belirterek, davanın reddine karar verilmesini talep etmiştir.
 
@@ -112,6 +126,8 @@ Davalı arsa sahipleri vekili cevap dilekçesinde özetle; müvekkillerinin kent
 SONUÇ: Yukarıda 1. bentte açıklanan nedenlerle, davacı yüklenici vekilinin diğer temyiz itirazlarının reddine, 2. bentte açıklanan nedenlerle, davacının diğer temyiz itirazlarının kabulü ile ilk derece mahkemesi kararı ile bu karara karşı yapılan istinaf başvurusunun esastan reddine ilişkin kararın usul ve yasaya aykırı olması nedeniyle HMK'nın 373/1. maddesi gereğince Samsun Bölge Adliye Mahkemesi 1. Hukuk Dairesi kararı KALDIRILARAK; ... 2. Asliye Hukuk Mahkemesi’nin 2016/322 Esas …
 
 ## Yargıtay 6. HD 2023/2588 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/925949000)
 
 Davalılar ..., ... ve ... vekili cevap dilekçesi ile; inşaat ruhsatının 4 ay gibi kısa bir sürede alınma imkanının olmadığını, inşaatın bitirilme tarihi olarak davacı tarafın ileri sürdüğü zaman diliminin kabulünün mümkün olmadığını, murisin sözleşmenin imzalanmasından kısa bir süre sonra rahatsızlandığını ve vefat ettiğini, TBK 486. maddesine göre sözleşmenin tarafı ...'un vefat tarihi itibari ile sözleşmenin kendiliğinden sona erdiğini, sözleşmede iş bu sözleşme mirasçılar için de geçerlidir ifadesi yer almış olsa da Yargıtay içtihatlarına göre bu şartın geçerli olmadığını, davacının davasına dayanak yaptığı sözleşmenin muris ...'ın ölüm tarihi olan 30/10/2014'te son bulduğundan bu tarih itibariyle şartları oluşmayan cezai şartın talep edilmesinin hukuken mümkün olmadığını, mirasçılardan cezai şart ve benzeri bir hususun talep edilebilmesi için muris ...'ın ölüm tarihinde o hakkın doğmuş olması gerektiğini, sözleşmenin son bulduğu murisin ölüm tarihinde yükleniciye verilen inşaatı yapma süresi dolmadığından herhangi bir gecikmeden bahsedilemeyeceğini ve murisin ölümü ile sözleşmenin yasa gereği kendiliğinden son bulacağından sözleşmeden cayma diye bir eylemin söz konusu
 olmadığını belirterek davanın reddini talep etmiştir.
@@ -130,6 +146,8 @@ değiştirilmek suretiyle DÜZELTİLEREK ONANMASINA …
 
 ## Yargıtay 6. HD 2023/2012 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/929964500)
+
 2.5.Son olarak birleşen Çankırı 1. Asliye Hukuk Mahkemesi 2012/272 Esas sayılı dosyasında arsa sahibi davacı geç teslimden doğan kira mahrumiyetinin tazminini istemiş, mahkemece istem kabul edilerek 10.000,00 TL kira tazminatının ödenmesine karar verilmiştir. Müsbet zarar, akdin hiç veya gereği gibi ifa edilmemesinden doğan zarar olup binaların bitirilmiş olması halinde getirmesi beklenen kira geliri kaybı, geciken ifa nedeniyle ifaya bağlı ceza, seçimlik ceza, eksik işler bedeli, kâr kaybı, gecikme tazminatı gibi talepler müspet zarar kapsamındaki alacak kalemleridir. Sözleşmeden haklı olarak dönen taraf, temerrüde düşmekte kusurlu olan taraftan dava tarihi itibariyle yürürlükte bulunan BK’nın 108. maddesi uyarınca ancak menfi zararını talep edebilecektir. Somut olaydaki gibi sözleşmenin feshini isteyen tarafın, sözleşmede aksi kararlaştırılmadıkça müspet zarar kapsamındaki gecikme (kira) tazminatı isteme hakkı bulunmamaktadır. Bu durumda mahkemece birleşen 2012/272 Esas sayılı dosyada, sözleşmenin feshine karar verilmiş olması karşısında kira tazminatı talebinin reddine karar verilmesi gerekirken davanın kabulü yerinde olmamış açıklanan sebeplerle hüküm bozulmuştur.
 
 …
@@ -137,6 +155,8 @@ değiştirilmek suretiyle DÜZELTİLEREK ONANMASINA …
 (2.4) (2.5) no.lu paragraflarda açıklanan nedenlerle, bir kısım davalılar vekillerinin diğer temyiz itirazlarının kabulü ile hükmün BOZULMASINA …
 
 ## Yargıtay 6. HD 2022/3050 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/791026900)
 
 Eser sözleşmelerinde sona erme üzerine, her iki tarafında talep edebileceği tasfiyenin dayanağı, TBK’nın 125/III maddesidir. Bu maddeye göre sözleşmeden dönme halinde taraflar karşılıklı olarak ifa yükümlülüğünden kurtulur ve daha önce ifa ettikleri edimleri geri isteyebilirler. Sözleşmenin fesih ya da dönme suretiyle sona ermesi halinde geriye etkili sonuç doğuracağı yani, sözleşme hiç yapılmamış gibi başa dönüleceğinden, taraflar sözleşme ile üstlendikleri borçlarını ifa etme yükümlülüğünden kurtulacakları gibi, daha önce ifa ettikleri edimleri, sebepsiz zenginleşme hükümlerine göre isteyebileceklerdir. Dairemizin yerleşmiş içtihatlarına (15. HD, 06.12.2006 gün, 2006/4522 esas, 2006/7157 karar, 15. HD 26.05.2016 gün, 2016/1062 esas, 2016/3002 karar, 15. HD 01.06.2016 gün, 2015/5760 esas, 2016/3130 karar) göre fesihte taraflar birlikte kusurlu olmaları halinde müspet zarar kapsamında kâr kaybı, gecikme nedenli cezai şart istenmesi ve iş sahibi tarafından da teminat mektubunun irat kaydedilmesi mümkün değildir.
 Her iki taraf kusurlu ise (ortak kusur) birbirlerinden tazminat talebinde bulunamazlar ve sadece birbirlerinin mal varlıklarına kazandırdıkları artı değeri sebepsiz zenginleşme hükümlerine göre talep edebilirler. Başka bir anlatım ile sözleşmenin haklı ya da haksız olarak feshedilmesi halinde sözleşme geriye etkili sonuç doğuracağından yani, sözleşme hiç yapılmamış gibi başa dönüleceğinden sözleşmenin feshinde kusurlu olsa bile davalı birleşen dosya davacısı sebepsiz zenginleşme hükümlerine göre ifa ettiğini kanıtladığı edimlerin bedelini talep etmekte haklıdır. Bu halde; yüklenicinin sözleşme nedenleriyle yaptığı faydalı ve zaruri masrafların mahkemece tespit edilmesi gerekir.
@@ -146,6 +166,8 @@ Her iki taraf kusurlu ise (ortak kusur) birbirlerinden tazminat talebinde buluna
 SONUÇ:Yukarıda 1. bentte açıklanan nedenlerle; dosyadaki yazılara, kararın dayandığı delillerle yasaya uygun gerektirici nedenlere ve HMK 355. maddedeki kamu düzenine aykırılık halleri resen gözetilmek üzere istinaf incelemesinin, istinaf dilekçesinde belirtilen sebeplerle sınırlı olarak yapılacağı kuralına uygun biçimde inceleme yapılıp karar verilmiş ve verilen kararda bir isabetsizlik görülmemiş olmasına göre davalı birleşen dosya davacısının asıl davaya yönelik yapılan bütün temyiz itirazlarının reddiyle usul ve yasaya uygun olan hükmün ONANMASINA …
 
 ## Yargıtay 13. HD 2020/3199 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/582606200)
 
 Davacı, davalılardan ...'ın ... Noterliğinin 07.03.1996 tarihli Gayrimenkul Satış Vaadi ve Kat Karşılığı İnşaat Sözleşmesi ile almış olduğu ... ili ... ilçesi Merkez Mahallesi 70 Ada 22 parselde bulunan 2.kat 15 nolu daireyi diğer davalı ... ...'a ... Noterliğinin 23.08.1996 tarihli sözleşme ile satma vaadinde bulunduğunu, davalı ... ...'ın da bu satış vaadine istinaden ...
 
@@ -166,6 +188,8 @@ SONUÇ: Yukarıda 1.bentte açıklanan nedenlerle temyiz olunan kararın BOZULMA
 …
 
 ## Yargıtay 14. HD 2019/8493 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/593096400)
 
 Dava, yükleniciden temlik alınan bağımsız bölüme ilişkin tapu iptali ve tescil istemine ilişkindir.
 
@@ -191,6 +215,8 @@ SONUÇ: Yukarıda açıklanan nedenlerle temyiz itirazlarının kabulü ile hük
 
 ## Yargıtay 15. HD 2019/3695 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/539226700)
+
 Davacı davasında davalı arsa sahibi ile aralarında düzenlenen 29.01.2016 tarihli düzenleme şeklinde arsa payı karşılığı inşaat sözleşmesine göre sözleşmeden hemen sonra Kadastro Müdürlüğüne başvurarak ada parsel bazında düzeltim yaptırdıklarını, düzeltim tamamlandıktan sonra taşınmazın eğiminin %45 civarında olması sebebi ile bu yer için özel ön proje geliştirdiklerini, ön projenin Yalova Belediyesi İmar Müdürlüğü'nün görüşüne sunulduğunu, bu aşamada iken davalının 24.04.2016 tarihli ihtarnameyi göndererek sözleşmeyi feshettiğini, davalının fesih sebebi olarak ileri sürdüğü iddiaların mesnetsiz olduğunu, davalının sözleşmeyi haksız feshetmesi sonucu kazanç kaybına uğradıklarını belirterek fazlaya ilişkin hakları saklı kalmak kaydıyla şimdilik 50.000,00 TL tazminatın davalıdan tahsiline karar verilmesini istemiştir.
 
 Davalı savunmasında davacı şirketin sözleşmeden sonra hiç bir çalışma yapmadığını, tapu harçları ve proje masraflarını da ödemediğinden iki ay beklediklerini, sonradan davacının inşaatı yapacak maddi durumunun olmadığını öğrendiklerini bu nedenle sözleşmeyi haklı feshettiklerini belirterek davanın reddine karar verilmesini istemiştir.
@@ -208,6 +234,8 @@ Bu durumda davacı yüklenicinin müspet zarar kapsamında “kazanç kaybını�
 SONUÇ: Yukarıda açıklanan nedenlerle temyize konu Bölge Adliye Mahkemesi kararının HMK 371. maddesi gereğince BOZULMASINA …
 
 ## Yargıtay 15. HD 2019/44 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/477646400)
 
 Davacı, taraflar arasında ...
 

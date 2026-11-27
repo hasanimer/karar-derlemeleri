@@ -44,6 +44,8 @@ Davanın reddi yolundaki Mahkeme kararına yönelik olarak yapılan istinaf baş
 
 ## Danıştay 4. D. 2024/2644 E., 2024/6175 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1179662400)
+
 İlk Derece Mahkemesi kararının özeti: ...
 
 …
@@ -65,6 +67,8 @@ Temyize konu ... Bölge İdare Mahkemesi .... İdare Dava Dairesinin ... tarih v
 
 ## Danıştay 4. D. 2023/11571 E., 2024/2018 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1068045100)
+
 Davalı … Bakanlığı tarafından, usule ilişkin olarak davanın süre aşımı nedeniyle reddi gerektiği; esas ilişkin olarak ise, iptali istenilen Yönetmelik kuralının üst normlara uygun olduğu, ayrıca, satış sırasında payı satılacak malik tarafından pey sürülmesi, satış bedeline itiraz edilmesi gibi hususlar mevzuat gereği mümkün olmadığından payı satılacak malikin satış ihalesine katılıp katılmamasının satış işlemini de etkilemeyeceği dikkate alındığında, anılan kuralın hizmet gereklerine ve kamu yararına da uygun olduğu savunulmuştur.
 
 …
@@ -82,6 +86,8 @@ Dava konusu Yönetmeliğin 15. maddesinin 4. fıkrasının iptali istenilen son 
 Bu durumda; davacının arsa payının, 30/09/2021 tarihinde yapılan açık artırma sonucunda, paydaşlardan …'na 640.000,00-TL bedel ile satıldığı hususunun Çankaya Tapu Müdürlüğüne bildirilmesine ilişkin Ankara Valiliği Çevre, Şehircilik ve İklim Değişikliği İl Müdürlüğünün … tarih ve … sayılı işleminin dayanağı niteliğindeki Ankara Valiliği Çevre, Şehircilik ve İklim Değişikliği İl Müdürlüğünün … tarih ve … sayılı işleminin kesinleşen idari yargı kararı uyarınca iptaline hükmedildiği göz önüne alındığında; davacının arsa payının satışına yönelik işlemde de hukuka uyarlık bulunmadığı sonucuna varıldığından; anılan işlemin iptaline karar verilmesi gerektiği görüşüyle …
 
 ## Yargıtay HGK 2020/668 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/615802800)
 
 Davacı kooperatif vekilinin temyiz itirazlarının reddi ile, taraflar arasında imzalanan 18.03.1993 tarihli arsa payı karşılığı inşaat sözleşmesinin 21.10.1997 tarihinde, 01.08.1996 ve 01.04.1997 tarihli sözleşmelerden doğan haklar saklı kalarak karşılıklı feshedildiği ve yanların birbirlerini ibra ettikleri, davacı kooperatif tarafından arsa sahibine gönderilen 23.06.1999 tarihli fesih yazısında da 01.08.1996 ve 01.04.1997 tarihli protokollerin feshedildiğinin bildirildiği, davacının fesih hakkını kullanarak hem sözleşmelerden hem de Bodrum Asliye Hukuk Mahkemesinin 1994/761 E. sayılı dosyasından kaynaklanan haklarından vazgeçmiş sayıldığı, seçimini sözleşmenin bozulması yönünde kullanan davacının ancak olumsuz zararlarını isteyebileceği, feshettiği sözleşmelere dayanarak ayın talebinde bulunamayacağı, bu nedenle davanın reddi gerekirken kısmen kabulünün doğru olmadığı gerekçesiyle kararın...İnşaat Turizm San.
 
@@ -135,6 +141,8 @@ Taraflar arasında imzalanan kat karşılığı inşaat sözleşmesinin 5-3. mad
 
 ## Yargıtay 6. HD 2022/6043 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/860100700)
+
 Davacı vekili, müvekkili ile davalılardan ... ve ... arasında imzalanan 24.11.2000 tarihli arsa payı karşılığı inşaat sözleşmesi imzalanıp diğer davalıların sözleşmeye muvafakat ettiklerini, müvekkilinin sözleşmeye konu arsada Meram Belediyesine ait hisseyi satın aldığını, sözleşme gereği arsa üzerine yapılacak inşaatın %50'sinin arsa sahiplerine %50'sinin yüklenici olarak müvekkiline ait olacağının kararlaştırıldığını, bu durumda müvekkilinin payına 237 m² inşaat alanı isabet ettiği halde sadece 136.5 m²'lik kısmın tapusunun ferağının verildiğini ileri sürerek, eksik kalan 101 m²'lik kısmın davalılar adına olan tapu kaydının iptali ile müvekkili adına tescilini ve Meram Belediyesinden satın aldığı 32/505 hisseye tekabül eden 67.70 m²'lik kısmın bedelinin davalılardan tahsiline karar verilmesini talep ve dava etmiştir.
 
 Davalılar ayrı ayrı davanın reddini istemiştir.
@@ -154,6 +162,8 @@ Yukarıda da açıklandığı üzere, bir binayı inşa eden ve inşaat faaliyet
 SONUÇ: Yukarıda açıklanan nedenlerle bir kısım davalılar vekilinin temyiz itirazlarının kabulü ile hükmün davalılar yararına BOZULMASINA …
 
 ## Yargıtay 7. HD 2021/1935 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/740426400)
 
 Dava, satış vaadi sözleşmesine dayalı tapu iptali ve tescil; ikinci kademede tazminat istemine ilişkindir.
 
@@ -175,6 +185,8 @@ SONUÇ: Yukarıda açıklanan nedenlerle davacılar vekilinin temyiz itirazları
 
 ## Yargıtay 20. HD 2018/6590 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/445638400)
+
 Davacılar vekili dava dilekçesinde, 228 ada 2 parselde bulunan kat irtifaklı taşınmazın idare mahkemesi kararına göre üst katı yıkılacağından 228 ada 2 parselde kurulu bulunan kat irtifakının iptali ile mahkemece maliklerin arsa payı oranlarına göre yeni bir kat irtifakı ve malikler listesi oluşturulmasına karar verilmesini talep etmiştir.
 
 …
@@ -184,6 +196,8 @@ Mahkemece, dava konusu 228 ada 2 parsel sayılı taşınmazda dava açıldığı
 İncelenen dosya kapsamına, kararın dayandığı gerekçeye ve dava konusu uyuşmazlığın Kat Mülkiyeti Kanununun 5. maddesinde düzenlenen anagayrimenkulde, kat mülkiyetine bağlanmamış veya lehine kat irtifakı kurulmamış arsa payı bırakılamaz kuralından kaynaklanması nedeniyle davanın kabulü yönünde hüküm kurulduğuna göre, yerinde görülmeyen temyiz itirazlarının reddi ile usul ve kanuna uygun olan hükmün ONANMASINA, aşağıda yazılı onama harcının davacılar ve davalılara ayrı ayrı yükletilmesine18/10/2018 günü oy birliğiyle karar verildi.
 
 ## Yargıtay 20. HD 2017/7897 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/382392400)
 
 Mahkemece davacı ...'in söz konusu kat irtifakına esas liste beyanında imzasının olmadığı, söz konusu paylaşım şeklinin davacı tarafından kabul edilmediği görülmekle anılan taksim şekline itibar edilme imkanı bulunmadığından her bir bağımsız bölümün ayrı ayrı değerlendirilmesi gerekmekle pay ve paydaş sayısı itibariyle ivaz eklense dahi tek tek taksimlerinin mümkün olmadığı gerekçesi ile davanın kabulü ile ortaklığın satış suretiyle giderilmesine karar verilmiş, hüküm davalı ...ve arkadaşları vekili tarafından temyiz edilmiştir.
 

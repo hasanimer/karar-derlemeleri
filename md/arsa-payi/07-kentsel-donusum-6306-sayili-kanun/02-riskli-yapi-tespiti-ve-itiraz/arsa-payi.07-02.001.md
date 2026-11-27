@@ -58,11 +58,15 @@ Açıklanan nedenlerle, dava konusu 6306 sayılı Kanun’un Uygulama Yönetmeli
 
 ## Danıştay İDDK 2024/1173 E., 2025/231 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1159393900)
+
 Davaya konu Yönetmelik maddesinin 6306 sayılı Kanun'un 7. maddesinin 9. ve 10. fıkralarına atıf yaptığı ve anılan fıkralarda yer verilen şartlar dahilinde alınmaması gerektiği belirtilen Harçlar Kanunu, Belediye Gelirleri Kanunu, Damga Vergisi Kanunu, Veraset ve İntikal Vergisi Kanunu, Gider Vergileri Kanunu uyarınca alınan harç, vergi ve ücretler ile döner sermaye ücretlerini kapsadığı, …
 
 Görülmekte olan uyuşmazlıkta ise riskli yapı tespiti yapılan bir yapının özel hukuk tüzel kişileri eli ile dönüşüme tabi tutulması söz konusu olduğundan, uyuşmazlığın çözümlenmesinde uygulanacak olan Kanun hükmünün 6306 sayılı Kanun'un 7. maddesinin 10. fıkrası olduğu, bununla birlikte, davacıdan otopark ücreti ödemesinin talep edilmesi yani davacı adına bireysel bir uygulama işlemi tesis edilmesi üzerine uygulama işleminin ve dayanağı olduğu ileri sürülen Yönetmelik hükmünün iptali istemiyle dava açıldığı, …
 
 ## Danıştay İDDK 2024/1811 E., 2024/2834 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1191678800)
 
 Dosyada yer alan bilgi ve belgelerin birlikte değerlendirilmesinden; mevzuatta riskli yapı tespitinin çok katı ve ayrıntılı kurallara bağlanmış olduğu, Riskli Yapıların Tespit Edilmesine İlişkin Esaslar'a göre alandaki her bina açısından düzenlenmesi gereken hızlı değerlendirme formlarının (betonarme ve yığma binalar açısından ayrı ayrı belirlenen veri toplama formu) hazırlanmadığı; riskli alan kararı alınan bölgenin bütünüyle temsil edilmesini sağlayacak yapılar arasından, doğru bir örnekleme seçim yöntemi ile belirlenen binalar üzerinde, anılan Esaslar'da yer alan koşulların birebir yerine getirilmesi, tüm parametrelerin hesaplanması ve her binaya ilişkin formların hazırlanması suretiyle riskli alan kararı alınması gerekirken, tüm bu hususlar yerine getirilmeksizin tesis edilen dava konusu işlemde mevzuata ve hukuka uyarlık bulunmadığı sonucuna ulaşıldığı gerekçesiyle dava konusu Bakanlar Kurulu kararının davacılara ait taşınmaza ilişkin kısmının iptaline karar verilmiştir.
 
@@ -71,6 +75,8 @@ Dosyada yer alan bilgi ve belgelerin birlikte değerlendirilmesinden; mevzuatta 
 Açıklanan nedenlerle, temyiz istemlerinin kabulü ile temyize konu Daire kararının bozulması ve davanın reddine karar verilmesi gerektiği oyuyla …
 
 ## Danıştay İDDK 2022/1041 E., 2023/305 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/990343700)
 
 6306 sayılı Afet Riski Altındaki Alanların Dönüştürülmesi Hakkında Kanun'un 3.maddesinde, riskli yapıların tespitinin, Bakanlıkça hazırlanacak yönetmelikte belirlenen usul ve esaslar çerçevesinde masrafları kendilerine ait olmak üzere, öncelikle yapı malikleri veya kanuni temsilcileri tarafından, Bakanlıkça lisanslandırılan kurum ve kuruluşlara yaptırılacağı ve sonucun Bakanlığa veya İdareye bildirileceği hükmünün yer aldığı, …
 
@@ -83,6 +89,8 @@ Açıklanan nedenlerle, temyiz istemlerinin kabulü ile temyize konu Daire karar
 Davanın yukarıda özetlenen gerekçeyle reddine ilişkin Danıştay Altıncı Dairesinin temyize konu 17/11/2021 tarih ve E:2019/17902, K:2021/12687 sayılı kararının ONANMASINA …
 
 ## Danıştay İDDK 2022/1381 E., 2023/304 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/990342800)
 
 Davacı tarafından; riskli alan tespitlerinde zemin yapısının çok önemli olduğu dikkate alındığında, yapılan değişikliğin kamu yararına ve hizmet gereklerine uygun olmadığının ileri sürüldüğü, …
 
@@ -102,6 +110,8 @@ Davanın yukarıda özetlenen gerekçeyle kısmen reddine, kısmen dava konusu d
 
 ## Danıştay İDDK 2022/1284 E., 2023/303 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/990343500)
+
 Riskli yapı tespitini yapacak kurum ve kuruluşlara ilişkin usul ve esasları düzenleme yetkisinin dayanak Kanun ile Bakanlığa verildiği, bu yetki kapsamında dava konusu Yönetmelik kurallarında değişiklik yapıldığı, dava konusu Yönetmelik'in 6.maddesinin 2.fıkrasında yer alan "başarı belgesi almaları ve bu hususları belgelendirmeleri" ibaresinin yapılan değişiklikle "başarı belgesi almaya hak kazanmış olmaları" şeklinde düzenlendiği, aynı maddenin 4/(d) bendinde ise riskli yapı tespitinde görev alacak mühendislerin, 2. fıkrada sayılan şartları sağladıklarına ilişkin belgeler ile elektronik imza edinmiş olduklarına dair yazılı beyanlarının arandığının görüldüğü, …
 
 …
@@ -110,11 +120,15 @@ Açıklanan nedenlerle, 21/06/2019 tarih ve 30808 sayılı Resmi Gazete'de yayı
 
 ## Danıştay İDDK 2022/940 E., 2023/302 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/990343100)
+
 6306 sayılı Afet Riski Altındaki Alanların Dönüştürülmesi Hakkında Kanun'un 1., 2.ve 3. maddeleri ile 8. maddesinin 7. fıkrasına yer verilerek, …
 
 6306 sayılı Kanunun Uygulama Yönetmeliği'nin 7/1.maddesinde; riskli yapıların, Ek-2’de yer alan Riskli Yapıların Tespit Edilmesine İlişkin Esaslara göre tespit edileceği kuralının yer aldığı, 10/7. maddesinde ise, teknik heyetin, itiraz dilekçesinde gösterilen itiraz sebebi ile bağlı olmaksızın riskli yapı tespit raporunun teknik yönden bütün unsurları ile Ek-2’de yer alan Riskli Yapıların Tespit Edilmesine İlişkin Esaslara uygun olarak hazırlanıp hazırlanmadığını inceleyeceğinin belirtildiği, …
 
 ## Danıştay İDDK 2022/1040 E., 2023/301 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/992810600)
 
 Davacılar tarafından, Yönetmelik'in 6. maddesinin 2. fıkrasındaki lisanslandırılan kurum ve kuruluşlarda riskli yapı tespitinde görev alacak mühendislerin, Bakanlıkça veya Bakanlıkça uygun görülen kurum ve kuruluşlarca düzenlenecek eğitim programlarına katılmaları, eğitim sonunda yapılacak yazılı sınavda yüz üzerinden en az yetmiş puan alarak başarı belgesi almış olmalarına ilişkin kuralda yer alan "yüz üzerinden en az yetmiş puan alarak" ibaresinin riskli yapı tespitlerine en az %30 oranında başarısızlık olarak yansıyacağı ve mülkiyet hakkını bu oranda sınırlayacağının iddia edildiği, …
 
@@ -132,6 +146,8 @@ Dava hakkında yukarıda özetlenen gerekçeyle kısmen karar verilmesine yer ol
 
 ## Danıştay İDDK 2022/158 E., 2022/1787 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/807386100)
+
 Dava konusu Yönetmelik değişikliğinin, dayanağı 6306 sayılı Kanuna aykırı olduğu, yeniden inşa sürecinde geçici bir durum olan re'sen arsa paylı mülkiyetin kurulması aşamasında, genel kanun olan 4721 sayılı Türk Medeni Kanununun 698. maddesi uyarınca - 6306 sayılı Kanunun uygulanması ile ortaya çıkan bu geçici durumda- ortaklığın giderilmesi davası açılması imkanı getirilerek maliklere seçimlik hak tanınması ve uygulamada bu yolun sıkça tercih edilme ihtimali dikkate alındığında, sürecin sonraki aşamalarında, diğer malikler aleyhine özel kanun olan 6306 sayılı Kanunun devre dışı bırakılmasına sebep olunacağı gibi, söz konu Yönetmelik değişikliğinin dayanağı olan 6306 sayılı Kanunun bu şekilde bir neticeyi amaçlamadığı açık olduğundan, davaya konu Yönetmelik değişikliğinde hukuka uyarlık bulunmadığı, …
 
 Ayrıca; 6306 sayılı Kanun ile başlayan riskli yapı tespiti, yıkım ve yeniden inşa sürecindeki tüm uygulama işlemlerinin 6306 sayılı Kanunda belirlenen usuller çerçevesinde yürütülmesi gerekirken, sürecin 6306 sayılı Kanunda düzenlenmeyen ortaklığın giderilmesi davası ile çözümlenmesine yönelik düzenlemenin, ortaklığın giderilmesi davası açmayan diğer maliklerin mülkiyet hakkının sınırlanması neticesini doğuracağı ve Anayasanın 35. maddesi uyarınca Yönetmelik ile bu şekilde bir düzenleme yapılması hukuken mümkün bulunmadığından, dava konusu Yönetmelik değişikliğinde bu yönden de hukuka uyarlık görülmediği gerekçesiyle dava konusu ibarenin iptaline karar verilmiştir.
@@ -142,6 +158,8 @@ Dava konusu işlemin iptaline ilişkin Danıştay Altıncı Dairesinin temyize k
 
 ## Danıştay İDDK 2022/504 E., 2022/996 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/799622700)
+
 Davalılar tarafından, 6306 sayılı Kanun'da iki türlü uygulama öngörüldüğü, bunlardan birincisinin her yapı için riskli yapı tespiti yapılarak bina veya parsel bazında uygulama yapmak, ikincisinin ise geniş alanda zemin yapısı veya üzerindeki yapılaşma nedeniyle, bölgenin özellikleri değerlendirilerek hazırlanacak teknik rapora istinaden riskli alan ilan edilmesi olduğu, uyuşmazlığa konu alandaki yapıların tamamının ruhsatsız yapı olduğundan, bu nedenle 6306 sayılı Kanun'un EK-1. maddesinin birinci fıkrasının (b) bendi gereğince alanın riskli alan ilan edildiği, işlemde hukuka aykırılık olmadığı ileri sürülmektedir.
 
 …
@@ -149,6 +167,8 @@ Davalılar tarafından, 6306 sayılı Kanun'da iki türlü uygulama öngörüld�
 Dava konusu işlemin yukarıda özetlenen gerekçeyle iptaline ilişkin Danıştay Altıncı Dairesinin temyize konu 17/11/2021 tarih ve E:2020/10914 …
 
 ## Danıştay İDDK 2021/2707 E., 2022/384 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/794375500)
 
 Bu çerçevede Yasada belirtilen teknik ve hukuki süreç sonunda riskli yapı olarak tespit edilen binaların yıkımı ve tahliyesi konusunda anlaşmaya varan yapıların maliklerine kira yardımı yapılmasına karar verildiği, kira yardımının ne kadar ve ne zaman yapılacağı gibi detaylara ilişkin Kanunda açık bir düzenleme olmamakla birlikte, Uygulama Yönetmeliğinde bu hususlar hakkında ayrıntıya yer verilerek, kira yardımı talebinin süresine ilişkin olarak, söz konusu başvurunun tahliye tarihinden itibaren en geç bir yıl içinde ilgili kuruma yapılması gerektiğinin belirtildiği, …
 
@@ -160,6 +180,8 @@ Davanın yukarıda özetlenen gerekçeyle reddine ilişkin Danıştay Altıncı 
 
 ## Danıştay İDDK 2019/1187 E., 2021/1577 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/786974000)
+
 Bu durumda; riskli yapı tespiti işlemine karşı yapılan itirazın Çevre ve Şehircilik Bakanlığı Teknik Heyetince açıkça reddi ya da cevap verilmeyerek reddi yolunda bir işlem oluşmadan, diğer bir anlatımla Yönetmeliğin 8.maddesinin 1.fıkrası uyarınca riskli yapı tespitinin kesinleşmesi beklenilmeden, dolayısıyla ortada idari davaya konu edilebilecek kesin ve yürütülebilir bir işlem tesis edilmeden açılan davanın bu aşamada vaktinden önce açılmış dava niteliğinde olduğu ve usul hükümleri uyarınca uyuşmazlığın incelenmesine olanak bulunmadığı sonucuna varıldığı, …
 
 …
@@ -167,6 +189,8 @@ Bu durumda; riskli yapı tespiti işlemine karşı yapılan itirazın Çevre ve 
 Anılan kararın davanın, Zeytinburnu Belediye Başkanlığı İmar ve Şehircilik Müdürlüğünün ... tarih ve ... sayılı işlemine ilişkin kısmının incelenmeksizin reddine, 6306 sayılı Kanunun Uygulama Yönetmeliğinin 3.maddesinin 1.fıkrasının (g) bendine ilişkin kısmının süre aşımı yönünden reddine ilişkin kısımlarının BOZULMASINA …
 
 ## Danıştay İDDK 2019/2652 E., 2021/1575 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/718873600)
 
 Davacı iddialarının incelenmesinden değişiklik Yönetmeliğin 5/1 maddesiyle değiştirilen asıl Yönetmeliğin 8/2 (a) bedi yönünden inceleme yapılmasına karar verildiği, …
 
@@ -179,6 +203,8 @@ Beşiktaş Belediye Başkanlığının ... tarih ve ... sayılı yıkıma ilişk
 Yukarıda özetlenen gerekçeyle dava konusu işlemlerin iptaline …
 
 ## Danıştay İDDK 2019/2842 E., 2021/1573 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/718867400)
 
 Davacı tarafından, dava konusu Yönetmeliğin 1.maddesi ile 6306 sayılı Kanunun Uygulama Yönetmeliğinin 4.maddesinin 1.fıkrasına eklenen (ç) ve (d) bendinde belirtilen "gözlemsel veriler" ibaresinin rezerv yapı alanının tespitinde yetersiz kaldığı, yer biliminin gerektirdiği her türlü jeolojik etüd incelemesi neticesinde belirlenmesi gerektiği, incelemenin hangi idare tarafından yapılacağının da belirli olmadığı, Yönetmeliğin 5.maddesinin 2.,3., ve 4.fıkralarında yapılan değişiklikle riskli alan tespitine ilişkin kamu düzeni ve kamu güvenliğinin bozulması ve kaçak yapılaşma gibi Kanunda yer alan teknik tanımlamaya aykırı terimler kullanıldığı, Bakanlığın herhangi bir inceleme yapmadan dosyayının uygunluğunu değerlendiren sadece yazışmaları yapan kurum haline getirildiği, riskli alan tespitine ilişkin keyfi uygulamaların yolunun açıldığı, Yönetmeliğin 6.maddesinin 2., 3., 4., 5., 6. ve 7. fıkraları ile aynı maddeye eklenen 8., 11., 12., 13. ve 14. fıkralarında; riskli alan ve riskli yapı tespiti yapmak için lisanslandırılan kurum ve kuruluşların mesleki sorumluluğuna, belge geçerlilik süresine dair şekil şartları kaldırıldığı için bu kuruluşların keyfi işlemler yapmasının önünün
 açıldığı, sorumluluk sınırlarının belirsiz bir hal aldığı, Bakanlığın suç duyurusunda bulunma hakkının da kaldırıldığı, Bakanlığın denetim yetkisinin kaldırılmasının onun asli vazifesi olan kolluk görevinden vazgeçtiği anlamını taşıdığı, bu hususun ise hukuk devleti ilkesine aykırı olduğu, lisansı iptal edilen kurum ve kuruluşun elindeki işleri tamamlayana kadar faaliyetine devam edebilecek olmasının ise hukuka aykırı olduğu, Yönetmeliğin 7. maddesinde "statik bakımdan yapı bütünlüğü bozulmuş olan yapı" ibaresinin teknik bir gerekçe şeklinde Yönetmelikte yazılmış olmasının Kanunun özüne aykırı olduğu, riskli yapı tespitine ilişkin başvurunun malikler yanında idare veya TOKİ tarafından da yapılabiliyor olmasının geleneksel ve tarihi yapılarda kötü niyetli uygulamalara yol açacağı ve mülkiyet hakkına açıkça aykırı olduğu, tarihi nitelikli riskli yapılara ilişkin kararın Koruma Bölge Kurullarına bırakılmasının uzmanlık alanı olmayan konuda onları karar almaya zorlamak olacağından bu konuda daha özel kriterler belirlenmesi gerektiği, Yönetmeliğin 15.maddesinin 2., 3., 7., 8. ve 10. fıkraları ile 9. fıkranın birinci cümlesinin ve aynı maddeye eklenen 13.fıkrasının ise; anlaşmayan pay

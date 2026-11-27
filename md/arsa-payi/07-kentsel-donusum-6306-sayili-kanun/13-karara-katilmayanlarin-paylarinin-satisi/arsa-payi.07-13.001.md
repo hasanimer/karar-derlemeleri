@@ -36,6 +36,8 @@ Yapılan temyiz istemi Ondördüncü Daire tarafından 4/7/2017 tarihinde kabul 
 
 ## Danıştay İDDK 2025/1557 E., 2025/1866 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1189314100)
+
 5393 sayılı Kanun'da, kentsel dönüşüm ve gelişim proje alanlarında bulunan yapıların boşaltılması, yıkımı ve kamulaştırılmasında anlaşma yolunun esas olduğu belirtildiğinden anlaşma sağlanamayan durumlarda kamulaştırma yapılması ve bu halde de kamulaştırmanın 2942 sayılı Kanun 27. maddesi uyarınca gerçekleştirilebilmesi için ise acele kamulaştırmanın koşullarının gerçekleşmiş olduğunun açıkça ortaya konulması gerektiği,
 
 …
@@ -85,6 +87,8 @@ Yapılan yargılama sonucunda (yukarıda detaylı şekilde anlatıldığı üzer
 
 ## Danıştay 4. D. 2025/2768 E., 2025/4286 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1173888500)
+
 İlk Derece Mahkemesi kararının özeti: ...
 
 …
@@ -100,6 +104,8 @@ Bu durumda; davacının arsa payının idare tarafından 6.994.800,00 TL'ye sat�
 Dosyanın incelemesinden; yapılan yargılama sonucu ... İdare Mahkemesinin ... tarih ve E:..., K:... sayılı kararıyla, davacının hissesinin değerinden daha düşük bir bedelle satışa çıkarıldığı gerekçesi ile dava konusu işlemin iptaline karar verildiği …
 
 ## Danıştay 4. D. 2025/1981 E., 2025/3361 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1173182900)
 
 İlk Derece Mahkemesi kararının özeti: ... İdare Mahkemesince verilen ... tarih ve E:..., K:... sayılı kararda; dosyada bulunan bilgi ve belgeler ile yaptırılan keşif sonucunda düzenlenen bilirkişi kök ve ek raporlarının birlikte değerlendirilmesinden; dava konusu arsa pay satış işleminin dayanağı olan 16/01/2023 tarihli bedel tespit raporu uyarınca davacının arsa değerinin 43.287,83-TL/m2, hisse bedelinin ise 1.593.857,90-TL olarak tespit edildiği; ilk yapılan 17/01/2023 tarihli ihalede tek talipli olan dava dışı E.
 
@@ -117,6 +123,8 @@ Bağcılar Belediye Başkanlığının ... tarih ve ... sayılı işleminin ipta
 Bu durumda; 6306 sayılı Kanun kapsamında yıkımı yapılan taşınmazın arsa payının resmi kayıtlardaki nitelik ve özellikleri, mimari özelliği, altyapı ve ulaşım olanakları, konumu, mevkii, civardaki emsallar ve sair özellikler dikkate alınarak hazırlanan ve satışa dayanak oluşturan gayrimenkul değerleme raporunda yeterli tespit ve gerekçelere yer verildiği, ayrıca dava konusu satışın diğer bütün paydaşlara açık olduğu, bu nedenle rekabet ortamının oluştuğu, birim fiyatın belirlenmesi ve ihale sürecinde mevzuata aykırı bir sürecin işletildiğine ve rekabetin engellendiğine yönelik bir iddianın bulunmadığı hususları göz önüne alındığında; davanın reddine karar verilmesi gerekirken …
 
 ## Danıştay 4. D. 2024/2992 E., 2025/2511 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1174921800)
 
 15/12/2012 tarih ve 28498 sayılı Resmi Gazete'de yayımlanan 6306 sayılı Kanunun Uygulama Yönetmeliği'nin dava konusu işlemin tesis edildiği tarihte yürürlükte bulunan 15. maddesinin ikinci fıkrasında "Riskli alanlar ve rezerv yapı alanlarında uygulama yapılan etapta veya adada, riskli yapılarda ise bu yapıların bulunduğu parsellerde; yapıların yıktırılmış olması şartı aranmaksızın ve yapının paydaşı olup olmadıkları gözetilmeksizin parsellerin tevhit edilmesine, münferit veya birleştirilerek veya imar adası bazında uygulama yapılmasına, ifraz, taksim, terk, ihdas ve tapuya tescil işlemlerine, yeniden bina yaptırılmasına, payların satışına, kat karşılığı veya hasılat paylaşımı ve diğer usuller ile yeniden değerlendirilmesine sahip oldukları hisseleri oranında paydaşların en az üçte iki çoğunluğu ile karar verilir. Bu karar anlaşma şartlarını ihtiva eden teklif ile birlikte karara katılmayanlara noter vasıtasıyla veya 7201 sayılı Kanuna göre tebliğ edilir.
 Bu tebliğde, on beş gün içinde kararın ve teklifin kabul edilmemesi halinde arsa paylarının, Bakanlıkça tespit edilecek veya ettirilecek rayiç değerden az olmamak üzere anlaşma sağlayan diğer paydaşlara açık artırma usulü ile satılacağı, paydaşlara satış gerçekleştirilemediği takdirde, riskli alanlar ve rezerv yapı alanlarında rayiç bedeli Bakanlıkça ödenmek kaydı ile tapuda Hazine adına resen tescil edileceği, riskli yapılarda ise anlaşma sağlayan diğer paydaşlara veya yapılan anlaşmaya uyularak işlem yapılmasını kabul etmek şartıyla üçüncü şahıslara satılacağı bildirilir.", 15. maddesinin üçüncü fıkrasında ise "Hisseleri oranında paydaşların en az üçte iki çoğunluğu ile alınan karara katılmayan maliklerin arsa payları; 15/A maddesinde belirtilen usule göre, arsa payı değeri üzerinden anlaşma sağlayan diğer paydaşlara açık artırma usulü ile satılır.
@@ -151,6 +159,8 @@ Temyize konu ... Bölge İdare Mahkemesi ... İdare Dava Dairesinin ... tarih ve
 
 ## Danıştay 4. D. 2023/13474 E., 2025/724 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1205972800)
+
 DAVANIN KONUSU : 24/08/2023 tarih ve 32289 sayılı Resmi Gazete'de yayımlanan 6306 sayılı Afet Riski Altındaki Alanların Dönüştürülmesi Hakkında Kanunun Uygulama Yönetmeliğinde Değişiklik Yapılmasına Dair Yönetmelik'in 1. maddesi ile değiştirilen anılan Yönetmeliğin 4. maddesinin birinci fıkrasının (ç) bendinin ve 24/08/2023 tarih ve 32289 sayılı Resmi Gazete'de yayımlanan 6306 sayılı Afet Riski Altındaki Alanların Dönüştürülmesi Hakkında Kanunun Uygulama Yönetmeliğinde Değişiklik Yapılmasına Dair Yönetmelik'in 2. maddesi ile değiştirilen anılan Yönetmeliğin 15/A maddesinin sekizinci, ondördüncü ve onbeşinci fıkralarının iptali talep edilmiştir.
 
 DAVACININ İDDİALARI : Yönetmeliğin 1. maddesi ile "Rezerv yapı alanının tespiti" başlıklı 4. maddenin 1. fıkrasının (ç) bendi;
@@ -163,8 +173,12 @@ yerleşim alanı olarak belirlenebileceği, tamamen keyfi uygulamaların önün�
 
 ## Danıştay 4. D. 2024/301 E., 2025/593 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1205496700)
+
 Bu hukuki durum karşısında; 6306 sayılı Kanun uyarınca açık artırma ile paydaşlar arasında gerçekleştirilen açık artırma sonucu en yüksek verilen teklif sonucu gerçekleştirilen satışa göre 348.500,00-TL (hükme esas alınan bilirkişi raporunda yer verilen değerlemeye göre 511.520,00-TL) olduğu, dolayısıyla dava konusu tutarın, 2023 yılı için belirlenen 581.000,00-TL'lik temyiz sınırının altında kaldığı dikkate alındığında, işbu davaya ilişkin olarak verilen İdare Mahkemesi kararına yönelik istinaf başvurusunun reddine ilişkin Bölge İdare Mahkemesi kararının bozulması istemiyle yapılan temyiz isteminin incelenmesine olanak bulunmadığı gibi; ... Bölge İdare Mahkemesi ... İdare Dava Dairesince temyiz yolu açık olmak üzere karar verilmiş olması, kanunen temyiz yolu öngörülmeyen davada ilgilisine temyiz hakkı vermeyeceğinden, davalı idarenin temyiz isteminin de incelenemeyeceğinin kabulü gerekmektedir.
 
 ## Danıştay 4. D. 2024/3996 E., 2024/7970 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1194005700)
 
 Bu hukuki durum karşısında; 6306 sayılı Kanun uyarınca açık artırma ile satış öncesi belirlenen rayiç değere göre davacının arsa payına ilişkin tutarın 240.247,46-TL (hükme esas alınan bilirkişi raporunda yer verilen değerlemeye göre 308.343,29-TL, paydaşlar arasında gerçekleştirilen açık artırma sonucu en yüksek verilen teklife göre 435.000,00-TL, paydaşlar arasında en yüksek teklif verenin, verilen süre içinde bedeli yatırmaması üzerine, teklif verenler arasında yatırılan ve dolayısıyla satışın gerçekleştiği tutara göre ise 283.333,34-TL) olduğu, dolayısıyla dava konusu tutarın, 2024 yılı için belirlenen temyiz sınırının altında kaldığı dikkate alındığında, işbu davaya ilişkin olarak verilen İdare Mahkemesi kararına yönelik istinaf başvurusunun reddine ilişkin Bölge İdare Mahkemesi kararının bozulması istemiyle yapılan temyiz isteminin incelenmesine olanak bulunmamaktadır.

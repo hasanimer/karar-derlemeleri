@@ -21,6 +21,8 @@ uyari: "Derleyenin seçtiği alıntılardır; kararın tamamı değildir. Künye
 
 ## İstanbul BAM 43. HD 2025/1393 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1182905400)
+
 Davalı vekili cevap dilekçesinde özetle; davacı yanın sözleşme gereği yükümlülüklerini gereği gibi yerine getiremediğini, bu sebepler taraflarınca davalar açıldığını, birincisinin lehlerine sonuçlandığını, diğerinin ise lehlerine ilerlemekte olduğunu, davacı yanın açtığı davanın kötüniyetli olduğunu, davacının taraflar arasında aktedilen sözleşmelerin geçersiz olduğuna yönelik iddialarının haksızlığının mahkeme kararları ile sabit hale geldiğini, davacının geçersiz olarak gördüğü sözleşmelerden dolayı hak iddia etmesinin kötüniyetli olduğunu, davacının kendisinin de kabul etmiş olduğu üzere taşınmazların iskanının 01/07/2015 tarihinde alınabildiğini, meydana gelen zararların telafisi amacıyla davacı tarafın talebi ile tarafların biraraya gelerek 17/11/2012 tarihinde ek sözleşme yaparak davacı şirketin müvekkili şirkete tazminat ödemesine karar verildiğini, müvekkili şirkete 9 aylık kira tutarında gecikme tazminatı ödemeyi taahhüt ettiğini, bu sözleşme ile taşınmazların teslim tarihinin bu kez de 15/01/2013 belirlendiğini, buna rağmen süresinde teslim edilmediğini, taşınmazların iskanlarının alınmasının 01/07/2015 tarihini bulduğunu, davacının bu davayı ikame etmesindeki amacın
 Bakırköy 6.Asliye Ticaret Mahkemesinin 2020/5 ve 2.Asliye Ticaret Mahkemesinin 2018/254 esas sayılı dosyalarında hükmedilen tazminatlar nedeniyle uğradığı zararı telafi etme çabası olduğunu, talep etmedikleri alacaklara ilişkin olarak da dava açacaklarını, taşınmazların belirtilen tarihte müvekkiline teslim edilmesinin mümkün olmadığını, bu yöndeki beyanlarının gerçeği yansıtmadığını, taraflar arasında aktedilen sözleşmenin 5.1 maddesinde belirtildiği şekilde dış tesisatın tamamlanmadığını, taşınması satın alan kişiye bu yönde müdahale hakkı tanımadığını, taşınmazların bu sebeple kiraya verilememiş olması nedeniyle maddi kayıp yaşadıklarını, taşınmazların tam anlamıyla işlevsel hale gelmesinin 2019 yılını bulduğunu, sözleşme konusu taşınmazların değerinin 09/06/2020 tarihli işyeri açma ve çalışma ruhsatlarına ilişkin yönetmelikte değişiklik yaşanmasına dair yönetmelik sonucunda ciddi oranda artış yaşandığını, satış tarihindeki değerinin güncel değerinin altında olan taşınmazlar için talep edilen cezai şart tutarının fahiş olduğunu, açılan davalar sonucunda alınan bilirkişi raporları ile davacının sözleşmenin ifasında temerrüde düştüğü ve ayıplı ifada bulunduğunun sabit olduğunu,
 aktedilen sözleşme incelendiğinde satın alınan taşınmazlarda sergilenecek olan araçların markasına istinaden taahhütte bulunulmadığını, yalnızca Pazar payından bahsedildiğini, davacının muvazaalı şekilde bölünmeye uğradığını belirterek davanın reddini talep etmiştir.Davacı vekili cevaba cevap dilekçesinde özetle; davacının sözleşme yükümlülüklerine uymadığını, taşınmazların neredeyse tamamını 2020 yılına kadar boş tuttuğunu, devamında ise 2.el alım satımı yapan galerilere, servis ve oto kuaförlerine kiraya verildiğini, davacı alıcının yükümlülüklerine uymayarak AVM’nin değer kazanmasına engel olduğunu, davalı tarafa sözleşme konusu tüm tapuların devredildiğini, ana yapının kullanma izninin 01/07/2015 tarihinde alındığını, bilgilendirme mektubunun 13/09/2013 günü gönderildiğini, kötüniyet iddiasının mesnedsiz olduğunu, cezai şartın fahiş olduğu ileri sürülmüş ise de tacirin tenkis talebinde bulunamayacağını, davaların birleştirilerek görülmesinde fayda bulunduğunu belirterek davanın kabulüne ve dosyanın Bakırköy 2.Asliye Ticaret Mahkemesinin 2018/254 esas sayılı dosyası ile birleştirilmesine karar verilmesini talep etmiştir.
@@ -45,6 +47,8 @@ Davacı vekilinin istinaf başvurusunun HMK'nın 353(1)b-1 maddesi uyarınca ESA
 
 ## İstanbul BAM 15. HD 2025/1350 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1183495100)
+
 Asliye Ticaret Mahkemesi'nin 2015/819 esas sayılı dosyası ile birleştirilerek, ipoteklerin kaldırılmasına karar verilmesini talep ve dava etmiştir.Asıl ve birleşen davalar davalı yüklenici şirketler vekili cevap dilekçesinde; taraflar arasında düzenlenen sözleşme ile arsa sahibi davacı adına kayıtlı olan 8138184/... hissenin yapılacak olan inşaata karşılık davacı yüklenicilere devredildiğini, ek sözleşme ile kararlaştırılan şartlarda taşınmazlar dava dışı ... adına kayıtlı olan 53 no'lu parselin 10351,04 m²'sine tekabül eden hisse ile 5723632/... hissesi ile aynı yerde bulunan 55423 m² miktarlı 54 no'lu parselde ... adına kayıtlı .../... paya tekabül eden 152 m² ile birlikte toplam 10503,04 m²'nin davalı yükleniciler tarafından ...’den ihale ile satın alındığını, satım bedeli olarak 17.000.000,00 TL ödeme yapıldığını;
 21.02.2006 tarihli sözleşmenin bır kısım maddelerinin satın alma bedelinin ödenmesi halinde geçerli olacağının ve bu bedelin Euro karşılığı 11.250.000,00 Euro olarak ödenmesinin kararlaştırıldığını, davacı tarafından yalnızca 6.780.000,00 Euro'sunun ödendiğini, bakiye kalan 4.470.000,00 Euro ödenmesi gereken 31.12.2009 tarihine kadar ödenmediğinden ödenen kısmın davacıya iade edildiğini; dolayısıyla ...’den satın alınan taşınmaz hisselerinin davalılara ait olduğunu, sözleşme gereği davacının taşınmazdaki hisseleri üzerinde bulunan takyidatları kaldırması gerektiği halde kaldırmadığını, hem bu nedenle hem de imar durumundaki sorunlardan dolayı imar durumunun çıkartılıp inşaata başlanılamadığını, davacının kusurlu olduğundan inşaata başlanılması ile ilgili ihtarname çekip 3 ay süre vermesinin doğru olmadığını, ruhsat alınmasında davacının arsa payı üzerinde bulunan takyidatları ve dava dışı idarenin imar uygulamalarından kaynaklanan nedenlerle inşaat ruhsatına müracaat etmesine rağmen ruhsat alım sürecinin devam ettiğini, davalılara atfedilecek kusur ve ihmal olmadığını ileri sürerek davanın reddini istemiştir.Asıl davada davalı ... vekili cevap dilekçesinde; davacı ile dava dışı ...
 İnşaat AŞ ve ...
@@ -54,6 +58,8 @@ Bankası A.Ş. vekili cevap dilekçesinde; tapu kayıtlarına göre ipotek konul
 
 ## Konya BAM 6. HD 2024/1508 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1071145100)
+
 Dava, kooperatif genel kurul kararının iptali talebine ilişkindir.
 
 …
@@ -62,6 +68,8 @@ Dairemizce yapılan inceleme sonucunda; Dosyadaki belgelere, kararın dayandığ
 Maddesinin e, g, h maddeleri ile alınan daire bedellerini ödeyenlere kat irtifakı tapusunun verilmesi, kooperatif yönetiminin eski yapımcı firmanın yapım yetkisinin iptal edilerek inşaat eksikliklerinin tamamlanması konusunda yetkili kılınmasına ve şerefiye paylarının belirlenmesine ilişkin kararların batıl sayılmasını gerektiren herhangi bir yönünün bulunmadığı, iptale tabi kararlardan olduğu ve iptalinin de 1 aylık hak düşürücü süre içerisinde istenmediği bu nedenle mahkemece bu kararlar yönünden davanın reddine karar verilmesinde usul ve yasaya aykırı bir yön bulunmadığı, buna göre davacı tarafça ileri sürülen istinaf nedenlerinin yerinde olmadığı, mahkemece delillerin takdirinde ve yasa kurallarının olaya uygulanmasında bir isabetsizlik görülmediği, davanın reddine ilişkin kararda kamu düzenine aykırı herhangi bir husus bulunmadığı, kararın usul ve esas yönünden hukuka uygun olduğu anlaşıldığından davacı vekilinin istinaf başvurusunun 6100 sayılı HMK'nın 353/1-b-1 maddesi uyarınca esastan reddi gerektiği sonuç ve kanaatiyle aşağıdaki şekilde hüküm kurulmuştur.
 
 ## Antalya BAM 7. HD 2024/332 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1012505900)
 
 Davacı vekili tarafından, davalı yükleniciden haricen satın aldığı ve kat karşılığı inşaat sözleşmesi nedeni ile inşaatı yapılan bağımsız bölüm hakkında açtığı tapu iptali ve tescil/ olmadığı takdirde bedel istemli davada ilgili bağımsız bölümün üçüncü kişilere devir ve temlikinin önlenmesi için tapu kaydına ihtiyati tedbir konulmasını talep etmiştir.
 
@@ -74,6 +82,8 @@ Davacı vekili tarafından, davalı yükleniciden haricen satın aldığı ve ka
 Yerel mahkeme kararının esası incelenmeksizin ORTADAN KALDIRILMASINA ve itirazın yeniden değerlendirilmesi için dosyanın kararı veren mahkemeye GÖNDERİLMESİNE …
 
 ## Adana BAM 6. HD 2023/632 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/908413400)
 
 Davacı vekili 04/11/2021 tarihli dilekçesinde; nama ifa talebinden vazgeçtiklerini, davaya tazminat davası olarak devam ettiklerini, davanın değerini 141.945,74 TL’ye çıkartıp harcı ikmal ettiklerini beyan etmiş, 24/01/2022 tarihli celsede aynı beyanlarını tekrarlamıştır.
 
@@ -88,6 +98,8 @@ DAVALI ...
 İnşaat Mühendisi ... tarafından hazırlanan 28/04/2010 tarihli ek bilirkişi raporunda; arsa sahibinin eksik işler bedeli olarak 48.701,07 TL talep edebileceği, ayrıca SGK tarafından bildirilecek asgari işçilik bedeli ile genel iskanın alınması için gerekli masrafların da bu miktara eklenmesi gerektiği, fazla yapılan imalatların 15.817,00 TL olduğu, …
 
 ## İstanbul BAM 7. HD 2022/2122 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/815197000)
 
 İLK DERECE MAHKEMESİ KARARININ ÖZETİ: Yerel Mahkemece 06/07/2022 tarihli karar ile ..."1-Davacının tapu iptali ve tescil talebinin REDDİNE, 2-Davacının taşınmaz bedeli yönünden talebinin KABULÜ ile taleple bağlı kalınarak; 3.780.000,00TL'nin dava tarihinden itibaren işleyecek avans faizi ile birlikte davalı ... A.Ş.'den alınarak davacıya verilmesine, 3-Davalı ...
 
@@ -108,6 +120,8 @@ HÜKÜM:Gerekçesi yukarıda izah edildiği üzere; 1-Davacı vekilinin istinaf 
 
 ## İstanbul BAM 17. HD 2022/1494 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/839910800)
+
 6306 sayılı Afet Riski Altındaki Alanların Dönüştürülmesi Hakkında Kanun ve gerekse 3194 sayılı İmar Kanunu ve İmar Yönetmelikleri kapsamında yapılacak imar uygulaması gereği tevhit, terkin terk, ifraz, 18 vs gibi uygulamalarının yapılması, kooperatife ait parsellerin gerek görülmesi halinde diğer parsellerle birleştirilmesi (tevhidi) ve bu kapsamda gerek görülen diğer iş ve işlemlerin yapılması, kat irtifakı ve kat mülkiyetinin kurulması, toplu yapı site yönetim planının tapuya tescil edilmesi ve buna bağlı tüm konularında yönetim kuruluna yetki verilmesi konularında görüşülmesi ve onaylanması maddesinde gerekli açıklamalarda bulunuldu. Yapılan oylamada ...Anonim Şirketi ile yapılan kat karşılığı inşaat sözleşmesine konu olan arsaların; (Gayrimenkul) ilişkin olarak;
 Alanların Dönüştürülmesi Hakkında kanun ve 3194 sayılı İmar Kanunu ve İmar Yönetmelikleri kapsamında yapılacak 18. madde uygulaması kapsamında, ilgili Çevre ve Şehircilik Bakanlığı, Tapu ve Kadastro Müdürlüğü, Belediyeler ve Lihkab'tan tüm işlemler için röperli kroki, çap, tapu kayıtları, imar durumu, istikamet rölevesi ve ilgili her türlü fenni evrak, bilgi ve dokümanların alınmasına ve gerekli işlemlerin yapılmasına, elektrik idareleri, ..., ..., ..., ..., mimar ve mühendis odaları velhasıl alakalı tüm resmi kurum ve dairelerde gerekli işlemlerin yapılmasına, her ölçekte imar planları yapmaya, yaptırmaya, Plan Tadilatı talebinde bulunmaya ve ilgili kurumlarda iş takiplerini yapmaya, parselasyon, ifraz ve tevhid, yola ve diğer kamu yararına terki gereken kısımları bedelli veya bedelsiz terk etmeye, trampa yapmaya, Çevre ve Şehircilik Bakanlığı ile ilgili birimleri, Belediye, Kadastro ve Tapu Daireleri ve diğer Kamu Kurum ve Kuruluşları nezdinde olabilecek her türlü işlemleri takip ve neticelendirmeye, kat irtifakı ve kat mülkiyetinin kurulması, toplu yapı site yönetim planının tapuya tescil edilmesi konularında yönetim kuruluna 18 ret oyuna karşılık 105 kabul oyu ve oy çokluğuyla
 yetki verildi. Madde 12 - 2015 yılı çalışma programı ve tahmini bütçe Mali Müşavir Mesut İncedal tarafından okundu. a-Yönetim ve denetim kurulu huzur hakkının belirlenmesi maddesi görüşmeye açıldı.
@@ -118,6 +132,8 @@ alınmıştır. Bilirkişi heyeti tarafından sunulan 20/03/2017 tarihli raporda
 A.Ş'den almış olduğu 500.000,00 USD'nin Türk Lirasına çevrilmeyen 413.966,02 USD'sinin davalı Kooperatifin döviz hesabında mevcut olduğu, toplantı ve kararlarının iptaline yönelik toplantı ve karar nisaplarının …
 
 ## İstanbul BAM 17. HD 2022/1257 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/822908900)
 
 İLK DERECE MAHKEMESİ KARARI Mahkemece, iddia, savunma ve bilirkişi raporuna göre; davacıların ret oyu kullanıp tutanağın sonunda muhalefet şerhini tutanağa yazdırdıkları, tutanağın 5. maddesinde kapalı otoparkların yapımı konusunda önceden yapılan üçlü protokolün işlemesine mani olan ve İstanbul Anadolu 2.
 
@@ -134,6 +150,8 @@ kooperatif uygulamalarına ters olduğu, Genel kurulun hangi işlemin yapılaca�
 
 ## Ankara BAM 21. HD 2022/1171 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/816019100)
+
 Davalılar vekili cevap dilekçesinde özetle; açılan davayı kabul etmediklerini, müvekkillerinden ...'in 19.09.2017 tarihli Genel kurul kararı ile dava şirket müdürü olarak yetkili kılındığını, şirketin faaliyet konusu olan kat karşılığı inşaat işi kapsamında şirkete ait olması gereken bağımsız bölümlerin usulsüz şekilde davalılar adına tescil edildiği iddiasının doğru olmadığını, davacının her seferinde şirket menfaatinin önüne geçip kendi çıkarlarını düşünerek davalar açtığını, 19.09.2017 tarihli genel kurul kararının yok hükmünde olduğunun tespitine ilişkin Ankara 2.Ticaret Mahkemesinin 2018/56 esas sayılı dosyası ile verilen kararın henüz kesinleşmediğini şirketin 2012 yılından beri içinde bulunduğu maddi sıkıntılar nedeniyle taşınmazların iskan izinlerinin alınamadığını, SGK prim borçlarının ödenemediğini, müvekkillerinin şahsi mal ve paraları ile şirketi idame ettirmeye çalıştıklarını belirterek davanın reddine karar verilmesini istemiştir.
 
 …
@@ -149,6 +167,8 @@ Sözleşmeye konu 41024 ada 38 ve 39 no'lu parsellerin tevhit edilmek suretiyle 
 Davalı ... vekilinin istinaf başvurusunun HMK'nın 353/(1)-b.1 maddesi gereğince ESASTAN REDDİNE …
 
 ## İstanbul BAM 15. HD 2022/792 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/749730800)
 
 GEREĞİ GÖRÜŞÜLÜP DÜŞÜNÜLDÜ: Dava, taraflar arasında imzalanan Çorlu ... Noterliği'nin 26/03/2018 tarih ve ... yevmiye sayılı düzenleme şeklinde taşınmaz satış vaadi ve arsa payı karşılığı inşaat sözleşmesi ve bu sözleşme ekinde yer alan "protokol" başlıklı ek sözleşme gereğince, kat irtifakı kurulmak suretiyle 01/10/2018 günü sonrası sözleşmedeki paylaşım tablosuna göre davalı arsa sahibi tarafından davacı yüklenicinin tapularının verilmesi ve dükkan kısmına ilişkin olarak davacı tarafından yapılacak masrafların yanında davacının emek ve mesaisine karşılık olarak 250.000,00 TL ödenmesi gerektiği halde, davalı arsa sahibinin davaya ve sözleşmeye konu arsa üzerine ipotek tesis etmesi, kat irtifakını sadece kendi adına kurmuş olması, ek protokol gereği yükleniciye ödenmesi gereken dükkanların inşaat bedellerini ve yüklenicinin kazanç bedelini ödenmemiş olması nedeni ile sözleşmeye aykırı davrandığı iddiasıyla, davaya konu kat karşılığı inşaat sözleşmesinin dönme suretiyle feshine, ek protokol gereğince dükkanlara ilişkin ödenmesi gereken şimdilik 10.000,00 TL'nin, kat karşılığı inşaat sözleşmesinin 10.
 Maddesi gereğince davalının sözleşmeye aykırı hareket etmesi nedeniyle 01.10.2012 tarihinden itibaren hesaplanmak üzere günlük 100,00 TL'den şimdilik 10.000,00 TL'nin, inşaata bugüne kadar yapılan masraflara ilişkin olarak şimdilik 10.000,00 TL'nin, fesih nedeniyle oluşan zararlarına ve kar kaybına ilişkin olarak şimdilik 10.000,00 TL'nin davalıdan tahsili talebine ilişkin olup, bu kapsamda, dava ve sözleşme konusu taşınamaz üzerine ihtiyati tedbir konulması talep edilmiştir. Mahkemece 10/06/2021 tarihli ara kararla, tedbir istenen taşınmazın uyuşmazlık konusu olmadığı gerekçesiyle tedbir talebinin reddine karar verilmiştir. Davacı vekili istinafında, dava dilekçesindeki anlatım ve iddialarını tekrar ederek, davanın kat kaşılığı inşaat sözleşmesi ile inşa edilen binayı konu aldığını, tedbir taleplerinin bu yapı ile ilgili olduğunu, sundukları delillere göre haklı çıkma ihtimallerinin çok kuvvetli olduğunu, davalının en önemli mal varlığının bu taşınmaz olduğunu, tedbir konulmaması halinde dava sonunda hükmedilecek meblağın tahsilatının semeresiz kalacağını belirterek, söz konusu ara kararın bozulmasını talep etmiştir.

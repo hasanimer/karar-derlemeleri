@@ -21,6 +21,8 @@ uyari: "Derleyenin seçtiği alıntılardır; kararın tamamı değildir. Künye
 
 ## İzmir BAM 20. HD 2025/134 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1124684300)
+
 Davacı şirket (yetkili temsilcisi ...) birleştirilen 2015/477 Esas sayılı dosyada dava dilekçesinde özetle; davalı ...'in şirkete ait olan ... plakalı 2011 model ... markalı otomobili tek ortağı olduğu diğer davalı ... San. ve Tic. Ltd.
 
 …
@@ -38,6 +40,8 @@ Davacı/davalı ... vekili ve davalı/davacı ... vekilinin istinaf itirazların
 
 ## İstanbul BAM 7. HD 2024/2682 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1095665700)
+
 İLK DERECE MAHKEMESİ KARARININ ÖZETİ:İlk derece mahkemesince "Davacı tarafın terditli talebinin bedel iadesi yönünden KISMEN KABULÜ İLE, 689.857,99 TL'nin davalılardan ... Şti.'den dava tarihinden itibaren işleyecek yasal faizi ile birlikte tahsil edilerek davacı tarafa iadesine, 2-Diğer davalılar ...
 
 …
@@ -48,6 +52,8 @@ tarihinde ulaştığı değeri istediği kabul edilmelidir.Yukarıda açıkland�
 HÜKÜM:Gerekçesi yukarıda açıklandığı üzere;1-Davalılar vekilinin istinaf başvuru sebep ve gerekçeleri incelenmeksizin kamu düzenine aykırılık yönünden istinaf başvurusunun 6100 Sayılı Hukuk Muhakemeleri Kanunu'nun 353/1-a/4. maddesi gereğince KABULÜNE, 2- Bakırköy 6. Asliye Ticaret Mahkemesi'nin 04/05/2023 tarih, 2022/219 Esas, 2023/403 Karar sayılı kararının KALDIRILMASINA …
 
 ## İzmir BAM 14. HD 2024/1540 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1081244200)
 
 Davacı vekili tarafından verilen dava dilekçesinde özetle; Davalı ... Kooperatifi ile müvekkili arasında aktedilen tamamlama işine ait sözleşme, 30.06.2017 tarihli teknik şartname ve 07.08.2017 tarihli teknik şartname, 02/10/2017 tarihli işyeri teslim tutanağı ile ..., ..., ... Mahallesi ...
 
@@ -73,6 +79,8 @@ Muğla Asliye Ticaret Mahkemesi'nin 06.12.2023 tarih ve 2021/9 Esas, 2023/891 Ka
 
 ## Konya BAM 6. HD 2024/1356 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1060777100)
+
 İLK DERECE MAHKEMESİ KARARININ ÖZETİ: İlk derece mahkemesince; "… Davacının terditli taleplerinden olan tapu iptal ve tescil talebi yönünden Mahkememizce yapılan değerlendirmede; Mahkememizde görülmekte olan iş bu davanın tarafları ve konularının aynı olduğu Konya .. Asliye Ticaret Mahkemesinin ...
 
 …
@@ -90,6 +98,8 @@ Karar sayılı dosyasından alınan bilirkişi raporlarında davacıya devredile
 
 ## İstanbul BAM 45. HD 2022/1313 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/843027800)
+
 İLK DERECE MAHKEMESİ KARARI Mahkemece, " davacının arsa sahibi olmayan ancak yüklenici konumunda bulunan ... 'nin üyesi olduğu, söz konusu kooperatif tarafından dava konusu bağımsız bölümün kendi üyesine tahsis edildiği, söz konusu tahsisin alacağın temliki olarak değerlendirileceği, yüklenici olan kooperatifin arsa sahibi olan ...'ne karşı KKİS kapsamında tüm edimlerini yerine getirmediği, nitekim sözleşmenin 4/a maddesi gereğince arsa sahibine ait blok ve dairelerin iskana hazır hale getirilmesi yükümlülüğünün yüklenici kooperatife ait olduğu, bu kapsamda yapılan araştırmada taşınmazın iskanının alınmadığı, iskanının alınması için otopark ve yeşil alanların düzenlenip ayrıca her daireye bir otopark yeri tahsis edilmesinin gerektiği, ayrıca yapı kullanma izin belgesinin alınabilmesi için ilgili belediyeye toplam 1.841.619-TL ödeme yapılması gerektiği, yüklenici olan kooperatifin ayrıca SGK'ya toplam 269.934,11-TL borcu bulunduğu, bu bağlamda davalı kooperatifin arsa sahibine karşı olan tüm yükümlülüklerini yerine getirmediğinden davacının arsa sahibine yönelik olarak tapu iptal ve tescil talebinde bulunamayacağı (Yargıtay 23.HD 2016/1953 esas 2017/2740 karar sayılı ilamında da
 belirtildiği üzere) " gerekçesiyle davanın reddine karar verilmiştir.
 
@@ -106,6 +116,8 @@ Dolayısıyla, yazılı şekilde düzenlenmiş olması şartıyla, yüklenici, a
 H Ü K Ü M: Gerekçesi yukarıda izah edildiği üzere; 1-Davacı vekilinin istinaf başvurusunun KABULÜ ile Bakırköy 5. Asliye Ticaret Mahkemesinin 2016/839 E. 2019/426 K. Sayılı 10/04/2019 tarihli kararının 6100 sayılı HMK'nun 353/1.a.6 maddesi uyarınca KALDIRILMASINA …
 
 ## İstanbul BAM 17. HD 2022/796 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/785415300)
 
 Davacı vekili istinaf nedenler olarak; müvekkili şirketin iflasına karar verildiğini, kararın usul ve yasaya aykırı olduğunu, 29/09/2021 tarihli bilirkişi raporunun hükmü esas alındığını, bilirkişi raporunda borca batıklık tespitinin Yargıtay karar ve içtihatlarına aykırı olarak yapıldığını, borca batıklık hesaplamasının 31/12/2020 tarihli kaydi ve rayiç bilanço hesaplarına göre yapıldığını, söz konusu tarihten itibaren yaşanan değer artışlarının hesaba katılmadığını, aradan geçen sürede şirket aktiflerinin yüksek oranda lehe değiştiğinin izahtan vareste olduğunu, ülkede değişen ekonomik koşullar karşısında müvekkile ait duran mal varlıkları değerinin yeniden tespitinin zorunlu olduğunu, 08/01/2021 tarihli rayiç değer toplamının 7.543.455,00 TL olarak tespit edildiğini, rapor tarihinde USD efektif satış kurunun 7.3733 TL iken iflas tarihi itibariyle efektif satış kurunun 13.6485 TL olduğunu, kur farkının yaklaşık iki katı oranında arttığını, şirket aktiflerinin değerini doğrudan artırıcı ekonomik gelişmeler dikkate alındığında kaydı ve rayiç bilanço hesabına dayanan 28/09/2019 tarihli bilirkişi raporuna göre iflas erteleme talebinin reddedilerek iflas kararının verilmesinin usul ve
 yasaya aykırı olduğunu iddia ederek, kararın kaldırılmasını ve iflas erteleme talebinin kabulüne karar verilmesini istemiştir.

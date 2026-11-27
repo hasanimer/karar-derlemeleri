@@ -22,6 +22,8 @@ uyari: "Derleyenin seçtiği alıntılardır; kararın tamamı değildir. Künye
 
 ## Yargıtay 6. HD 2023/2588 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/925949000)
+
 Davalılar ..., ... ve ... vekili cevap dilekçesi ile; inşaat ruhsatının 4 ay gibi kısa bir sürede alınma imkanının olmadığını, inşaatın bitirilme tarihi olarak davacı tarafın ileri sürdüğü zaman diliminin kabulünün mümkün olmadığını, murisin sözleşmenin imzalanmasından kısa bir süre sonra rahatsızlandığını ve vefat ettiğini, TBK 486. maddesine göre sözleşmenin tarafı ...'un vefat tarihi itibari ile sözleşmenin kendiliğinden sona erdiğini, sözleşmede iş bu sözleşme mirasçılar için de geçerlidir ifadesi yer almış olsa da Yargıtay içtihatlarına göre bu şartın geçerli olmadığını, davacının davasına dayanak yaptığı sözleşmenin muris ...'ın ölüm tarihi olan 30/10/2014'te son bulduğundan bu tarih itibariyle şartları oluşmayan cezai şartın talep edilmesinin hukuken mümkün olmadığını, mirasçılardan cezai şart ve benzeri bir hususun talep edilebilmesi için muris ...'ın ölüm tarihinde o hakkın doğmuş olması gerektiğini, sözleşmenin son bulduğu murisin ölüm tarihinde yükleniciye verilen inşaatı yapma süresi dolmadığından herhangi bir gecikmeden bahsedilemeyeceğini ve murisin ölümü ile sözleşmenin yasa gereği kendiliğinden son bulacağından sözleşmeden cayma diye bir eylemin söz konusu
 olmadığını belirterek davanın reddini talep etmiştir.
 
@@ -39,6 +41,8 @@ değiştirilmek suretiyle DÜZELTİLEREK ONANMASINA …
 
 ## Yargıtay 6. HD 2023/1169 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/904201400)
+
 Davalılar Taşgrup Otomotiv İnşaat San. Tic.
 
 …
@@ -51,6 +55,8 @@ Dolayısıyla davalı yüklenici sözleşmeden kaynaklı edimlerini yerine getir
 Temyiz olunan Bölge Adliye Mahkemesi kararının 6100 sayılı Kanun'un 370 inci maddesinin birinci fıkrası uyarınca ONANMASINA …
 
 ## Yargıtay 6. HD 2023/265 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/873131100)
 
 Davacı vekili dava dilekçesinde; müvekkillerinin düzenleme şeklinde taşınmaz satış vaadi ve arsa payı karşılığı inşaat sözleşmesi imzaladıklarını, müvekkillerine ait taşınmazların gerek mevcut durumu, gerekse tevhit ifraz sonrası oluşmuş veya oluşacak yeni tapu kayıtları üzerinde bir binayı inşa etmek koşuluyla davalı şirkete satış vaadi verildiğini, davalı şirketin sözü edilen taşınmaz üzerinde binayı plan ve projesine uygun olarak yapmayı taahhüt ettiğini, sözleşmeye göre sözleşme tarihinden itibaren en geç 24 ay içinde inşaatın sözleşmeye uygun, iskan edilebilir halde arsa sahibi müvekkillere teslim edilmesi gerekirken inşaatın bitirilememiş olduğu ve davalı şirketin inşaatı kaba seviyede terk ettiğini, müvekkillerin zararının arttığını belirterek imzalanan Samsun 2.
 
@@ -68,6 +74,8 @@ Dosya arasına alınan Samsun 2. Noterliğinin 03.11.2016 tarih ve 30931 yevmiye
 Temyiz olunan Bölge Adliye Mahkemesi kararının 6100 sayılı Kanun'un 370 nci maddesinin birinci fıkrası uyarınca ONANMASINA …
 
 ## Yargıtay 6. HD 2022/5774 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/865047000)
 
 Davacı vekili, davacı arsa sahibi davalı yüklenici ... arasında Düzenleme Şeklinde Gayrimenkul Satış Vaadi ve Kat Karşılığı İnşaat Satış Sözleşmesi imzaladığını ancak yüklenicinin sözleşme gereği yükümlülüklerini yerine getirmediğini inşaatın tamamlanma seviyesinin %58 olduğunun tespit edildiğini ileri sürerek dava konusu taşınmaza ilişkin davalı ile yapılan sözleşmesinin geriye etkili olarak feshine, dava konusu taşınmazdaki tüm bağımsız bölümlerin tapu kayıtlarının ve mevcut takyidatların iptali ile müvekkili adına tesciline karar verilmesini talep ve dava etmiştir.
 
@@ -92,6 +100,8 @@ SONUÇ: Yukarıda açıklanan nedenlerle, bir kısım davalılar vekilinin temyi
 
 ## Yargıtay 6. HD 2022/4387 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/819224600)
+
 Davacı kooperatif ile davalı arsa sahipleri arasında 23.08.1989 tarihinde arsa payı karşılığı inşaat sözleşmesi düzenlenmiştir. Arsa sahipleri tarafından, yüklenici kooperatifin sözleşmede kararlaştırılan sürede edimlerini yerine getirmediği ileri sürülerek, sözleşmenin geriye etkili olarak feshi ve tapuların iadesi istemiyle açılan davada, Eyüp 2. Asliye Hukuk Mahkemesinin 16.12.2005 tarih ve 2004/396 E., 2005/507 K. sayılı ilamıyla, arsa payı karşılığı inşaat sözleşmesinin geriye etkili olarak feshine, yüklenici kooperatif adına kayıtlı dava konusu bağımsız bölümlerin davacı arsa sahipleri adına tesciline karar verilmiştir.
 
 …
@@ -109,6 +119,8 @@ Ancak yüklenici ısrarla bütün kanun yollarını denemiş, hatta yargılaman�
 
 ## Yargıtay 6. HD 2022/3491 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/791452500)
+
 Davalı SS.Sağlık Şifa KYK vekili özetle; müvekkili ile davacı kooperatif arasında hiçbir hukuki ilişki bulunmadığını, inşaatların sözleşmenin feshi nedeniyle değil belediyenin inşaatları mühürleme kararı nedeniyle durduğunu, yüklenici inşaatı tadilat projelerine de aykırı yaptığından ruhsata bağlanamadığını savunarak davanın reddini istemiştir.
 
 …
@@ -125,6 +137,8 @@ SONUÇ: Yukarıda 1. bentte açıklanan nedenlerle davalı-birleşen davacı ...
 
 ## Yargıtay 6. HD 2022/1968 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/774416700)
+
 Kat karşılığı inşaat sözleşmelerinde, edimin süresinde yerine getirilmemesi durumunda kural olarak sözleşmenin geriye etkili olarak feshine karar verilmesi istenebilir. Sözleşmenin feshi ise ancak mahkeme kararıyla mümkün olur. Bunun istisnası tarafların fesih konusunda iradelerinin birleşmesidir. Dava konusu olayda, taraf iradeleri birleşmediğinden feshin mahkeme aracılığı ile talep edildiği anlaşılmaktadır.
 
 Türk Medeni Kanunu'nun 692. maddesi gereğince; paylı mülkiyetin özgülendiği amacın değiştirilmesi, korumanın veya olağan şekilde kullanmanın gerekli kıldığı ölçüyü aşan yapı işlerine girişilmesi veya paylı malın tamamı üzerinde tasarruf işlerinin yapılması, oybirliği ile aksi kararlaştırılmadıkça, bütün paydaşların kabulüne bağlıdır. 634 sayılı Kat Mülkiyeti Kanunu'nun 15. maddesine göre kat malikleri kendilerine ait bağımsız bölümler üzerinde tek başına maliklere tanınan hak ve yetkilere sahip ise de; aynı Kanun'un 16/I. maddesi gereğince ana gayrımenkulün bütün ortak yerlerine arsa payları oranında ortak mülkiyet hükümlerine göre malik olurlar. Yine aynı Yasa'nın 45. maddesi gereğince temliki tasarruflar ve önemli işlerin bütün kat maliklerinin oybirliği ile verecekleri karar üzerine yapılması mümkündür.
@@ -134,6 +148,8 @@ Türk Medeni Kanunu'nun 692. maddesi gereğince; paylı mülkiyetin özgülendi�
 SONUÇ: Yukarıda 1. bentte açıklanan nedenlerle Silivri 2. Asliye Hukuk Mahkemesi’nin 19.02.2020 tarihli ek kararının kaldırılmasına …
 
 ## Yargıtay 6. HD 2022/1554 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/759236900)
 
 Mahkemece, tüm arsa sahiplerinin davaya dahil edilerek, taraf teşkilinin sağlanması yönündeki bozmaya uyularak yapılan yargılama sonucunda, iddia, savunma, benimsenen bilirkişi raporu ve dosya kapsamına göre, arsa üzerinde, arsa sahiplerinin halen kullandığı yıkılması gereken eski bir bina bulunduğu, yüklenici tarafından gönderilen ihtarlara rağmen, bir grup arsa sahibinin bu eski binayı tahliye etmedikleri, böylelikle arsa sahiplerinin arsanın teslim yükümlülüğünü yerine getirmedikleri, ayrıca işlemlerin yapılabilmesi için verdikleri vekaletten yükleniciyi azlettikleri, davacıların fesih talebinin yüklenicinin temerrüdüne dayandığı, açıklanan nedenlerle, inşaatın arsa sahiplerinden kaynaklanan nedenlerle yapılamadığının ortaya çıktığı, davalı yüklenicinin feshi kabul etmediği, davacı arsa sahiplerinin fesih taleplerinin haklı olmadığı gerekçesiyle, asıl ve birleşen davaların reddine karar verilmiştir.
 
@@ -148,6 +164,8 @@ Bu durumda, davacı arsa sahipleri yönünden makul bekleme süresi dolduğu gib
 SONUÇ: Yukarıda açıklanan nedenlerle, asıl ve birleşen davalarda davacılar ...,...... ve ... vekilinin temyiz itirazlarının kabulü ile hükmün, adı geçen davacılar yararına BOZULMASINA …
 
 ## Yargıtay 6. HD 2022/50 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/733185100)
 
 Davacı vekili, müvekkili ile davalı yüklenici arasında Sivas 2.
 
@@ -168,6 +186,8 @@ SONUÇ: Yukarıda yazılı nedenlerle davacı mirasçıları vekilinin temyiz it
 
 ## Yargıtay 15. HD 2021/2492 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/671284200)
+
 Eser sözleşmesi, karşılıklı edimleri içeren bir iş görme akdîdir. Yüklenicinin edimi, eseri meydana getirmek ve iş sahibine teslim etmek, iş sahibinin karşı edimi ise teslim edilen eserin bedelini ödemektir. Bedel, nakti olarak belirlenebileceği gibi nakit yerine geçecek şekilde altın ya da taşınmaz olarak da kararlaştırılabilir. Nakit bedel karşılığı eser sözleşmeleri yönünden ise sınırlayıcı istisnai bir kural bulunmadığından mahkeme kararına gerek olmaksızın tek taraflı irade beyanı ile sözleşmeden dönme mümkündür. Hukuk Genel Kurulu'nun 08.11.2006 tarih 2006/15-702 Esas, 2006/691 Karar sayılı kararı ve Dairemizin 04.06.1998 tarih 1998/513 Esas, 1998/2377 Karar sayılı kararında da bedel karşılığı eser sözleşmesinden dönme için tek taraflı irade beyanının yeterli olduğu benimsenmiştir. Eser sözleşmesinin bir türü olan “arsa payı karşılığı inşaat sözleşmesi” ise bazı özellikler taşıyan bir “Karma Sözleşme” sayılmaktadır. Bu tür sözleşmelerde yüklenicinin borcu, inşaatı yapıp teslim etmek; arsa sahibinin borcu ise, bedel olarak arsa payının veya arsanın mülkiyetini kayden yükleniciye geçirmektir. Bu tür sözleşmelerde iki sözleşme iç içedir:
 Birisi, hiçbir şekle bağlı olmayan “İnşaat Sözleşmesi” diğeri ise, TMK.’nun 706, Borçlar Kanunu’nun 213, Tapu Kanunu’nun 26. ve Noterlik Kanunu’nun 60. maddesi hükümleri gereğince, resmi biçimde yapılması gereken “tapulu taşınmaz veya tapulu taşınmaz payının mülkiyetini nakil borcu doğuran sözleşmedir”.
 
@@ -176,6 +196,8 @@ Birisi, hiçbir şekle bağlı olmayan “İnşaat Sözleşmesi” diğeri ise, 
 SONUÇ:Yukarıda açıklanan nedenlerle kararın temyiz eden davalılar yararına BOZULMASINA …
 
 ## Yargıtay 15. HD 2021/2348 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/666959800)
 
 Davacı vekili asıl davada, davalılardan yüklenici ... ile davacı arsa sahibi arasında imzalanan 11/08/2006 tarihli düzenleme şeklinde arsa payı karşılığı inşaat sözleşmesi gereğince davacıya ait 155 ada 4 parselde kayıtlı arsa üzerine 4 bloktan oluşan 80 dairelik inşaat yapılarak 25 adet dairenin davacıya verileceğinin kararlaştırıldığını, davalı yüklenicinin müvekkilinin iradesini fesada uğratarak aldığı vekaletname ile davacıya ait taşınmazı diğer davalı kooperatife devrettiğini, arsanın ifrazı sonucu oluşan parsel üzerine bir blok inşa ettiğini ve iyiniyetli olmayan diğer davalılara bağımsız bölümleri devrettiğini, ancak müvekkiline hiçbir daire vermediğini, diğer blokların da yapılmadığını ve inşaatın süresinde tamamlanmadığını belirterek, vekalet görevinin kötüye kullanılması nedeniyle davalılar adına kayıtlı tapuların iptali ile davacı adına tescili, olmadığı takdirde dairelerin rayiç değerinin tahsili, dairelerin süresinde tamamlanmaması nedeniyle kira tazminatı ve manevi tazminat istemlerinde bulunmuş; 02/10/2015 tarihli ıslah dilekçesi ile davacı ile davalılardan ... arasında imzalanan ...
 
@@ -192,6 +214,8 @@ Arsa payı karşılığı inşaat sözleşmesinin geriye etkili feshi ile tapunu
 SONUÇ: Yukarıda 1. bentte açıklanan nedenlerle bir kısım davalılar vekilinin sair temyiz itirazlarının reddine, 2. bentte açıklanan nedenlerle hükmün temyiz eden bir kısım davalılar yararına BOZULMASINA …
 
 ## Yargıtay 15. HD 2020/3015 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/622285200)
 
 Arsa sahipleri, edimini ifa etmeyen ve temerrüde düşen yüklenici ile aralarında var olan arsa payı karşılığı inşaat yapım sözleşmesinden dönseler (fesih etseler) dahi, kendilerinin dönmeden önce üçüncü kişiye satış suretiyle devrettikleri tapu payının geri verilmesini bu kişiden talep etmeleri mümkün değildir. Çünkü satın alan kişi, tasarruf yetkisi olan arsa sahibinden bağımsız bölüm satın aldığından tescil işlemi yolsuz değildir. Tapuda devir işlemi arsa sahibince yapıldığından karine de arsa sahibinin kendisine ait bağımsız bölümü satmış olmasıdır. Ancak bu karinenin aksinin ispatı mümkün olup, arsa sahibi tapudaki satış akit tablosunun aksini, yani tapuda devrettiği bağımsız bölümün kat karşılığı inşaat sözleşmesi ya da ek sözleşme ile dava dışı yükleniciye bırakıldığını ve bu bağımsız bölümün yüklenici tarafından satılmış olup onun istek ve talimatıyla tapuda devrin kendisi tarafından yapıldığını yasal delillerle kanıtlayabilir.
 Dairemiz uygulamalarında, uygulamada tapu masrafından kurtulmak düşüncesiyle yüklenicilerin kendi adlarına intikâl yaptırmadan arsa sahibi üzerinden devir yaptırdıkları bilindiğinden arsa sahibinin resmi akit tablosunun aksini ispat külfeti kolaylaştırılarak yüklenici ile 3. kişi arasında bağımsız bölümün temlikine ilişkin adi yazılı sözleşme ya da yüklenicinin arsa sahibine yaptığı yazılı bir talimat bulunup bunların isticvap edilerek yüklenici tarafından ya da belge tanıklarınca doğrulanması ile kanıtlanabileceği kabul edilmektedir (Yargıtay 15. Hukuk Dairesi’nin 03.12.2018 gün 2018/2201 Esas 2018/4792 Karar sayılı ilamı).

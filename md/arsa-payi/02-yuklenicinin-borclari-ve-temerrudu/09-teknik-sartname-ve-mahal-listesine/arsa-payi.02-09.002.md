@@ -22,6 +22,8 @@ uyari: "Derleyenin seçtiği alıntılardır; kararın tamamı değildir. Künye
 
 ## Yargıtay 23. HD 2015/4886 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/203227800)
+
 Davacılar vekili, müvekkilleri ile davalı yüklenici şirket arasında 15.03.2007 tarihinde imzalanan arsa payı karşılığı inşaat sözleşmesinde, işin inşaat ruhsatının alınmasını takip eden ilk iş gününden itibaren 16 ay içerisinde teslim edileceğinin kararlaştırıldığını, aksi halde, davalının müvekkillerine düşen iki daire için aylık 500'er Euro ve zemindeki dükkanın %50'si için aylık 1.000 Euro kira tazminatı ödemeyi taahhüt ettiğini, binanın sözleşmede kararlaştırılan sürede tam ve eksiksiz olarak teslim edilmediğini,...
 
 …
@@ -40,6 +42,8 @@ Ayrıca, sözleşmenin "Teknik Şartname ve İnşaat Mahal Listesi" başlıklı 
 SONUÇ: Yukarıda (1) numaralı bentte açıklanan nedenlerle taraf vekillerinin diğer temyiz itirazlarının reddine, (2) numaralı bentte açıklanan nedenlerle davacılar vekilinin, (3) numaralı bentte açıklanan nedenlerle davalı vekilinin, temyiz itirazlarının kabulü ile hükmün, taraflar yararına BOZULMASINA …
 
 ## Yargıtay 23. HD 2015/4875 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/203189500)
 
 Davacı vekili, taraflar arasında düzenlenen ... 1. Noterliği'nin 02.09.2011 tarih ve 6970 yevmiye nolu düzenleme şeklinde arsa payı karşılığı inşaat sözleşmesi ile, davalıya ait ...
 
@@ -62,6 +66,8 @@ SONUÇ : Yukarıda açıklanan nedenlerle, hükmün temyiz eden davacı yararın
 
 ## Yargıtay 23. HD 2014/8201 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/119157900)
+
 Davacılar vekili, müvekkili C.. S.. ile davalı şirketin 06.03.2007 tarihinde arsa payı karşılığı inşaat sözleşmesi imzaladığını, davalı yüklenicinin sözleşmeden kaynaklanan edimlerini tam olarak yerine getirmediğini, inşaatın devamı süresince ödenmesi gereken kira bedellerini ödemediğini, müvekkili arsa sahibi C.. S.. ile kat maliki olan diğer müvekkillerinin dairelerinde ve bina ortak alanlarında bir takım eksik ve ayıplı işler bulunduğunu ileri sürerek, fazlaya ilişkin hakları saklı kalmak kaydıyla, müvekkili C..
 
 …
@@ -83,11 +89,15 @@ SONUÇ: Yukarıda (1) numaralı bentte açıklanan nedenlerle davacılar vekilin
 
 ## Yargıtay 15. HD 2014/3036 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/105727600)
+
 Az yukarıda da belirtildiği gibi, teknik şartnamenin 8. maddesinde yüklenici tarafından idareye verilen plan ve teknik evrakların yeterli düzeyde bulunmaması halinde yükleniciye geri verileceği kararlaştırılmasına rağmen teknik şartnamenin 7.3 maddesinde belirtilen kısma ilişkin iş yükleniciye iade edilmediğinden idarece kabul edildiği sonucuna varılmaktadır. Teknik şartnamenin 7.4 ve 7.5 maddelerinde belirtilen kısımlardaki işlerin ise yüklenici tarafından yerine getirilmediği dosya kapsamından anlaşılmaktadır. O halde teknik şartnamenin 9.3 maddesi gereğince idarece yükleniciye ödenmesi gereken miktar sözleşme bedelinin % 20'si olan 10.620,00 TL olup ödenmediği anlaşılan bu miktar yönünden davanın kabulü gerekirken yanılgılı değerlendirmeyle davacı yüklenici tarafından işin tamamının ifa edildiği kabul edilerek ödenmeyen tüm iş bedelinin hüküm altına alınması doğru olmamış kararın bu sebeplerle bozulması uygun bulunmuştur.
 
 SONUÇ:Yukarıda 1. bentte açıklanan nedenlerle davalının sair temyiz itirazlarının reddine, 2. bent uyarınca kabulüyle hükmün davalı yararına BOZULMASINA …
 
 ## Yargıtay 19. HD 2013/14968 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/527798300)
 
 Davalı vekili; müvekkili ile dava dışı ... arasında kat karşılığı inşaat sözleşmesi yapıldığını, bu sözleşme gereği ...'a verilecek bağımsız bölümlerin sözleşmede belirtilen şekilde devredilebilmesi amacıyla kendisine vekaletname verildiğini, ...'ın vekaletnameyi kötüye kullanarak kendisine verilen dava konusu bağımsız bölümü davacıya vekil sıfatıyla sattığını,ancak müvekkilinin bu satıştan elde edilen meblağda bir payı olmadığını, dolayısıyla müvekkiline husumet yöneltilemeyeceğini savunarak davanın reddini istemiştir.
 
@@ -96,6 +106,8 @@ Mahkemece toplanan delillere göre; taraflar arasında düzenlenen protokol ve e
 Dosyadaki yazılara kararın dayandığı delillerle gerektirici sebeplere, delillerin takdirinde bir isabetsizlik bulunmamasına göre, davalı vekilinin yerinde görülmeyen bütün temyiz itirazlarının reddiyle usul ve kanuna uygun bulunan hükmün ONANMASINA …
 
 ## Yargıtay 15. HD 2012/4630 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/524676200)
 
 Taraflarca dayanılan 18.06.2004 tarihli sözleşmede inşaat ruhsatı alındıktan sonra 18 ay sonunda dairelerin teslim edileceği düzenlemesine yer verilmiştir. Dava konusu 419 ada 17 parselin inşaat ruhsatı 23.02.2005 tarihinde alınmıştır. Bu tarihe 18 aylık inşaat yapım süresi eklendiğinde davacıya ait bağımsız bölümlerin teslim edilmeleri gereken tarih 23.08.2006 olarak hesaplanmaktadır. Davalı yüklenici şirket tarafından iskân ruhsatı (yapı kullanma izin belgesi) 05.10.2006 tarihinde alınmıştır. İskân ruhsatının alınmış olması, aksi bir düzenleme sözkonusu olmadığına göre, inşaatın bitimi ve teslim tarihi kabul edilmelidir. Bu durumda davacı arsa sahibinin gecikme tazminatı isteyebileceği süre 23.08.2006 tarihi ile 05.10.2006 tarihleri arasındaki dönemdir. Mahkemece bu dönem için gecikme tazminatının hesaplattırılıp karar altına alınması gerekir iken, iskân ruhsatının alındığı tarihten sonraki dönem için gecikme tazminatının karar altına alınması doğru olmamıştır.
 
@@ -107,6 +119,8 @@ SONUÇ:Yukarıda 2., 3. ve 4. bentlerde yazılı nedenlerle kararın taraflar ya
 
 ## Yargıtay 15. HD 2012/1183 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/656239500)
+
 Davanın dayanağını ... 38. Noterliği’nin 13.05.1999 gün ve 13138 yevmiye numaralı düzenleme şeklinde kat karşılığı inşaat sözleşmesi oluşturmaktadır. Bu sözleşme davalı şirket ile sözleşmede isimleri yazılı olan arsa sahibi 34 kişi arasında imzalanmıştır. Dava, ... Evleri A Blok Yöneticiliği adına yönetici ... tarafından açılmıştır. Davacı blok yöneticisi vekili davanın açılmasından önce davalı şirkete ihtarname göndererek 13.05.1999 günlü sözleşme eki özel teknik şartnamedeki eksikliklerin giderilmesini istemiştir. Bu ihtarnamede davanın dayanağını 13.05.1999 günlü düzenleme şeklinde kat karşılığı inşaat sözleşmesi ve eki özel teknik şartname olduğunu göstermektedir. Davalı şirket vekili, davacı apartman yöneticisinin bu davayı açamayacağını, aktif husumet ehliyetinin bulunmadığını savunmuş, mahkemece 27.04.2006 günlü oturum ara kararıyla yöneticinin aynı zamanda kat maliki olması gerekçesiyle husumet itirazının reddine karar verilmiştir.Bu davanın açılması için yöneticiye genel olarak yetki verildiği anlaşılmaktadır.
 Apartman yöneticisi verilen yetkiye dayanarak ancak 634 Sayılı Kat Mülkiyeti Kanunu’nun 35. maddesinde verilen görevlerle sınırlı olarak ve bu Kanun uygulanmasından doğan alacaklar için dava açabilir. Bunun dışında apartman yöneticisinin kat karşılığı inşaat sözleşmesine dayanarak dava açması mümkün değildir. Bu nitelikte açılmış bir davada, apartman yöneticisi aynı zamanda kat maliki ise ve kat karşılığı inşaat sözleşmesine göre dava açma hakkı mevcutsa, dava açabileceğinden davacı yönetici tarafından açılan davanın bu kapsamda değerlendirilmesi gerekir.Aktif ve pasif husumet dava şartlarından olup, mahkemece re’sen dikkate alınması zorunludur. Ayrıca bu davada davalı şirket vekili tarafından husumet itirazında bulunulmuş, bu itiraz mahkemece yöneticinin kat maliki olduğu gerekçesiyle reddedilmiştir.Mahkemece, husumet itirazının red gerekçesi dikkate alınmadan ve davacı apartman yöneticisinin tüm apartman malikleri adına dava açamayacağı düşünülmeden yöneticinin kat maliki olduğu araştırılmadan davanın esası incelenerek tamamı yönünden hüküm kurulması doğru olmamıştır.
 Yapılacak iş, yönetici ... ’ın kat maliki olup olmadığının araştırılmasından, kat maliki ise 13.05.1999 günlü kat karşılığı inşaat sözleşmesi uyarınca dava açma hakkının bulunup bulunmadığının değerlendirilmesinden, bu şartları taşıyor ise sadece ... yönünden payı dikkate alınarak hüküm oluşturulmasından, apartman yönetimi olarak kat karşılığı inşaat sözleşmesine dayanarak dava açması mümkün olamayacağından, apartman yönetimi adına açılan davanın aktif husumet yokluğu nedeniyle reddedilmesinden ibarettir.Kararın bu nedenlerle bozulması gerekmiştir.
@@ -114,6 +128,8 @@ Yapılacak iş, yönetici ... ’ın kat maliki olup olmadığının araştırı
 SONUÇ:Yukarıda açıklanan nedenlerle kararın davalı şirket yararına BOZULMASINA …
 
 ## Yargıtay 15. HD 2010/487 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/773617000)
 
 Mahkemece tüm tapu kayıtlarının iptâline ve davacı adına tapuya tesciline karar verilmiş ise de, davacının 21.02.1997 tarihli Belediye Meclis Kararı ve ekindeki teklif şartnamede belirtilen edimini tamamen yerine getirmediği, inşaatın %95 seviyesinde bulunduğu anlaşılmaktadır. Davacı yüklenicinin tapuların tamamına hak kazanabilmesi için eseri anlaşma ve teknik şartname ve daha sonra encümen kararlarına uygun biçimde tamamlaması gerekmektedir. Çünkü BK’nın 364. maddesi uyarınca yüklenici eseri teslim ettikten sonra bedele tamamen hak kazanır. Dava konusu olayda eserin tamamlanmadığı anlaşıldığı gibi davacının SSK’ya borcu olup olmadığı ve tapu kayıtları üzerinde davacı adına haciz uygulanıp uygulanmadığı da araştırılmamıştır. Davalı inşaatta mevcut eksik ve ayıplı imalât ve davalının sorumlu tutulabileceği masraflar tutarında tapu vermekten imtina etmekte haklı olduğundan, mahkemece yapılacak keşif ile inşaattaki noksan ve ayıplı imalâtın keşif tarihi itibariyle saptanması, varsa SSK ve diğer borçları da belirlenerek bu …
 
@@ -123,6 +139,8 @@ SONUÇ: Yukarıda 1. bendde yazılı nedenlerle davalının sair temyiz itirazla
 
 ## Yargıtay 15. HD 2009/5254 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/855380700)
+
 Taraflar arasında imzalanan 13.06.2003 tarihli sözleşmenin 1. maddesi uyarınca 2 nolu dükkanın %50’si ile 13 nolu dairenin davalı ... ’e; 3, 4 nolu dükkanlar ile 7, 10, 11, 15 nolu dairelerin davalı ...’e verilmesi kararlaştırılmıştır. Davada binanın ortak yerlerine ve davalılara ait bağımsız bölümlere sözleşme dışı yapılan imalât farkı ile davalılar namına yapılan ödemelerin tahsili istenmiştir. Hükme dayanak bilirkişi raporunda sözleşme eki teknik şartname ile fiilen yapılan imalâtlar değeri karşılaştırılmadan, kısaca yapılması gereken imalât bedeli gösterilmeden farklı yapılan imalâtın bedeli hesaplanarak ve ayrıca ...’e 6. kat verilmesi gerekirken 4. kattan daire verilmesi nedeniyle kat farkı hesabı yapılarak yüklenici alacağına katılmıştır. Oysa sözleşmede davalılara verilmesi gereken bağımsız bölümler belirlenmiştir. Yüklenici buna göre teslimle yükümlüdür. Bu nedenle sözleşme dışına çıkan bilirkişi raporuyla bağlı kalınarak hüküm kurulması doğru olmadığı gibi teknik şartnamesi uyarınca yapılması gereken imalât ile fiili yapılan imalâtın farkı gösterilerek hesap yapılması gerekirken, sadece fazla imalât hesaplanması ile yetinilmesi de doğru olmamıştır.
 
 …
@@ -131,6 +149,8 @@ SONUÇ: Yukarıda açıklanan nedenlerle davalılar vekilinin temyiz itirazları
 
 ## Yargıtay 15. HD 2009/3980 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/856161800)
+
 Yanlar arasındaki 31.07.1996 tarihli kat karşılığı satış vaadi ve inşaat yapım sözleşmesinin eki mahiyetinde olan teknik şartnamenin 19. maddesinde, “su saatleri arsa sahipleri tarafından alınacaktır”, 21. maddesinde, “elektrik tesisatı projesine uygun olarak TSE belgeli malzeme kullanılarak yapılacak elektrik sayaçları arsa sahipleri tarafından takılacaktır” düzenlemeleri getirilmiştir. Bu hükümlere göre yüklenici tarafından imali gerçekleştirilen taşınmazlarda kullanılacak elektrik ve su sayaçları bedelleri ile elektrik aboneliği bedelinin davalı arsa sahipleri tarafından üstlenileceği kabul edilmiştir. Sözleşme hükümleri tarafları bağlayıcı niteliktedir. ...Asliye Ticaret Mahkemesi’nin 2003/1182 esas numaralı davası aşamasında 19.03.2004 tarihinde imzalanan Sulh Sözleşmesi hükümleri yukarıda açıklanan asıl sözleşme eki olan teknik şartname hükümlerini değiştirici nitelikte değildir. Mahkemenin ret kararı doğru olmamıştır.
 
 …
@@ -138,6 +158,8 @@ Yanlar arasındaki 31.07.1996 tarihli kat karşılığı satış vaadi ve inşaa
 SONUÇ:Yukarıda açıklanan nedenlerle davacının temyiz itirazlarının kabulüne, mahkeme kararının davacı yararına BOZULMASINA …
 
 ## Yargıtay 15. HD 2008/1810 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/857245500)
 
 Yanlar arasında imzalanan sözleşmenin teknik şartlar bölümünde arsa sahibine ait dairelerde yapılacak imalâtta hangi cins malzeme kullanılacağı belirtilmiştir. Yüklenici imalâtı teknik şartnameye uygun malzemeyle yapıp teslim etmek zorundadır. Teknik şartnamede gösterilen malzeme ve işçilik dışında değişik bir şekilde yapılan imalât arsa sahibi yönünden zorunlu, faydalı ve daha değerli ise bu imalât sözleşme dışı kabul edilip bedelinin, BK’nın 410 ve devamı maddeleri uyarınca vekâletsiz iş görme hükümlerine göre istenmesi mümkündür. Teknik Şartnamenin 10 ve 11. maddelerinde gösterilen imalât ile …
 

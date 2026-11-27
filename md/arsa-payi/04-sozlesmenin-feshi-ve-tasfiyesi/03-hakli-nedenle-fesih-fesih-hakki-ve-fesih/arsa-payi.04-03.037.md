@@ -22,6 +22,8 @@ uyari: "Derleyenin seçtiği alıntılardır; kararın tamamı değildir. Künye
 
 ## İzmir BAM 14. HD 2026/210 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1196868600)
+
 Davacı vekili dava dilekçesinde özetle; "Taraflar arasındaki 09/07/2018 tarihli eser sözleşmesi gereğince; ... İli,... İlçesi, ...Mahalle, ... ada ... parsel sayılı taşınmaz üzerinde yapılacak 32 adet villanın bir kısım inşaat işlerinin davalı şirket tarafından yapılmasının kararlaştırıldığı, işin 30/09/2018 tarihinde teslim edilmesi gerekirken halen tamamlanıp teslim edilmediği, gecikme olduğu, ayrıca yapılan işlerde de sözleşmeye aykırı olarak eksik ve ayıplı imalat bulunduğu" iddiası ile sözleşmenin (21.Maddesi gereği) haklı nedenle feshedildiğinin tespitine, gecikme nedeniyle sözleşmenin 10.
 
 …
@@ -43,6 +45,8 @@ Kaldırma sonrası denetime ve hüküm kurmaya elverişli bir şekilde düzenlen
 
 ## İstanbul BAM 15. HD 2026/158 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1194686200)
+
 Taraflar arasında sözleşme ilişkisi, sözlü, yazılı olarak kabul edilsin veya fiyat teklifleri ile sözleşme ilişkisi kurulmuş olduğu kabul edilmesi halinde dahi, işin ne kadar sürede tamamlanacağı hususunda bir düzenleme ve tarafların kabulü bulunmamaktadır. Eser sözleşmeleri (arsa payı karşılığı inşaat gibi istisnalar hariç) kural olarak hiçbir şekil şartına tabi değildir; sözlü olarak da kurulabilir. Şekil bir geçerlilik şartı değil, ispat şartıdır,. Taraflar işin yapılması ve bedel ödenmesi konusunda anlaşmışlarsa sözleşme geçerlidir.Taraflar arasında işe başlama ve bitirme tarihi belirlenmemişse ve bu husus ispat edilemiyorsa, işin yapım süresinin, işin niteliği, kapsamı ve o işin normal tempoda yürütülmesi halinde ne kadar sürede bitirileceği esas alınarak belirlenmesi gerekir. Bu süreye "makul süre" denir. Yüklenici, işe başlama tarihinden itibaren hesaplanacak bu makul sürede işi tamamlayıp teslim etmek zorundadır.Kesin vade bulunmayan hallerde, borcun muaccel olması (makul sürenin dolması) yetmez; iş sahibinin yükleniciye bir ihtar (uyarı) göndererek ifayı talep etmesi ve onu temerrüde düşürmesi şarttır.
 İhtarsız temerrüt oluşmaz, dolayısıyla tazminat hakkı doğmaz Davalı-karşı davalı vekili, davacı-karşı davalı tarafa; Beyoğlu ...... Noterliğinin ...08.2015 tarih ...yevmiye numaralı ihtarnamesi ile, edimin tam ve eksiksiz olarak derhal bitirilmesi ihtar olarak istenmiştir. Borcun ifa edileceği gün sözleşmede kesin olarak belirlenmemişse, borçlu ancak alacaklının ihtarı ile temerrüde düşer. "Derhal ifa" talebini içeren bir ihtarname, borçluyu (yükleniciyi) temerrüde düşürmek için geçerli ve yeterlidir. İhtarda mutlaka "10 gün içinde" veya "30 gün içinde" gibi sayısal bir süre belirtilmesi şart değildir. "Derhal", "hemen", "süratle" gibi ifadeler, ifanın talep edildiğini ve borçlunun direnim (temerrüt) haline sokulduğunu gösterir. Ancak, Doktrine ve uygulamaya göre; ihtarda "derhal" denilmişse veya süre belirtilmemişse, bu ifade yükleniciye "işin niteliğine göre objektif olarak bitirilmesi gereken makul sürenin (uygun sürenin)" tanındığı şeklinde yorumlanır. Derhal bitiriniz demekle iş derhal bitirilmez.
 
@@ -54,6 +58,8 @@ Kabule göre, asıl davada mahkemece davanın reddine, davalının talebi itibar
 İSTANBUL ... ASLİYE TİCARET MAHKEMESİ'nin .../10/2021 tarih, 2016/... Esas, 2021/... Karar sayılı kararının KALDIRILMASINA …
 
 ## İstanbul BAM 15. HD 2026/116 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1193002100)
 
 Davacı ... vekili dava dilekçesi ile ; davacı ... şirketi ile arsa sahibi dava dışı ......... Koop. İle kat karşılığı inşaat sözleşmesi yapıldığını ve davaya konu ... konut projesine başlandığını, bu kapsamda davalı ... şirketi ile B/1 ve B2 Blok mekanik tesisat işlerine ilişkin 23/03/2007 tarihli sözleşme imzalandıklarını, bu sözleşmeden sonra ek protokol ile de sözleşme konusu bloklarda arsa sahiplerine ait dairelerin mekanik tesisat işlerinin de davalı ... tarafından üstlenildiğini, davalının bu sözleşme hükümleri gereği alacak iddiası ile davacı aleyhine Üsküdar ....
 
@@ -69,9 +75,13 @@ Yüklenicinin eksik ve kusurlarını tamamlamasını takiben Komisyon işi yerin
 
 ## Ankara BAM 21. HD 2026/114 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1194739800)
+
 Yine TTK'nın 636/(4) maddesinde de; "Fesih davası açıldığında mahkeme taraflardan birinin istemi üzerine gerekli önlemleri alabilir." hükmüne yer verilmiştir. Haklı sebeple fesih davasındaki ihtiyati tedbirler kural olarak dava açan ortağın haklarının ve şirket mal varlığının korunmasını amaçlar. Bu bağlamda mahkemenin ihtiyati tedbire hükmederken, orantılılık ve ölçülülük ilkesinin yanı sıra hem ortaklığın hem de dava açan ortağın menfaatlerini de gözeterek uygun bir tedbire hükmetmesi gerekir. Kuşkusuz mahkeme ortaklığın feshine neden olacak veya bu sonucu doğuracak nitelikte tedbirlere hükmedemez. Aksi halde davanın sonunda elde edilebilecek sonuç peşinen ihtiyati tedbir kararıyla elde edilmiş olur. (Bkz. Yıldırım, Ali Haydar : 6102 sayılı Yeni Türk Ticaret Kanunu'na göre Limited Ortaklığın Haklı Sebeple Feshi, Bursa, 2013 s.438-440.)
 
 ## İstanbul BAM 14. HD 2026/42 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1190262900)
 
 Davacı vekili, istinaf başvuru dilekçesinde özetle;Müvekkilinin emlak komisyonculuğu yaptığını, davacı ile davalı firma ve firma yetkilileri arasında ... parsel sayılı taşınmazla ilgili olarak 01.12.2018 tarihli gayrimenkulün satın alınması hakkında alıcı ile emlak komisyoncusu arasında komisyon akdinin imzalandığını, sözleşme ile müvekkilinin ... numaralı arsa sahipleri ile alıcı arasında 14 dairelik kat karşılığı sözleşmesi kurulmasına aracılık etmeyi üstlendiğini, bu aracılık işlemi neticesinde müvekkiline 200.000,00 TL komisyon ücreti ödeneceğinin açıkça kararlaştırıldığını, davalı firma ile dava dışı arsa sahipleri arasında ... 2.
 
@@ -88,6 +98,8 @@ Ayrıca buradaki yazıl şekil şartı, ispat şartı olmayıp geçerlilik şart
 HMK'nın 353/1.b.1. maddesi uyarınca, davacı vekilinin istinaf başvurusunun esastan reddine …
 
 ## İstanbul BAM 53. HD 2026/27 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1188703100)
 
 Davacı vekili istinaf dilekçesinde özetle; kaldırma karar gerekçesi karşılanmaksızın karar verildiği, cezai şartın tenkisine yönelik yeterli gerekçe olmadığı, bu konuda rapor alınması yoluna gidilmediği, indirim yapılırken davacı taraf yönünden hiç değerlendirme yapılmaksızın yalnızca davalının kayıtlı sermayesi dikkate alınarak karar verildiği, cezai şartın belirlenmesi aşamasında davalının cezai şarta sebebiyet verdiği sürenin de dikkate alınması gerektiği, sonuç olarak indirim oran ve miktarının dayanaksız olduğu, fiili teslim tarihine ilişkin de yanlış değerlendirme yapıldığı gerekçesiyle ilk derece mahkemesi kararının kaldırılması talep etmiştir.Davalı vekili istinaf dilekçesinde özetle; davacının öncelikle ipotek fek yükümlülüğünü yerine getirmesi gerektiği, ipotek fek yükümlülüğünün yerine getirilmemesinden kaynaklanan sürenin inşaat teslim süresine eklenmesi gerektiği, davalının temerrüde düştüğünün kabulü halinde dahi; davacı payına düşen taşınmazların davacı tarafından satılmış olması itibariyle kiradan kaynaklı tazminat talebinde bulunamayacağı gerekçesiyle ilk derece mahkemesinin kısmen kabul kararının kaldırılması talep etmiştir.
 
@@ -117,6 +129,8 @@ Yerleşik yargı kararları gereğince; kat karşılığı inşaat sözleşmeler
 Davacı vekili dava konusu taşınmazlar hakkında ihtiyati tedbir kararı verilmesini istemiş ise de inşaatın tamamlanma durumu, yargılamanın geldiği aşama, toplanan deliller birlikte değerlendirildiğinde, fesihte tarafların kusuru, feshin ileriye mi geriye mi yönelik olacağı belirleneceğinden tazminat tutarı açısından şu aşamada yaklaşık ispat koşulunu sağlamadığı, yargılamanın ilerleyen aşamalarında da tedbir talebinin mahkemece değerlendirilebileceği kanaatiyle ihtiyati tedbir isteminin reddine dair verilen karar dairemizce isabetli görülmüştür.
 
 ## Erzurum BAM 1. HD 2025/1932 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1183855100)
 
 Davacı vekili dava dilekçesinde özetle; Müvekkili ile davalı arasında süt sağım tesisi için otomatik sağım sistemi kurulması konusunda anlaşmaya vardıklarını, anlaşma kapsamında protokol düzenlendiğini, Erzurum ...
 

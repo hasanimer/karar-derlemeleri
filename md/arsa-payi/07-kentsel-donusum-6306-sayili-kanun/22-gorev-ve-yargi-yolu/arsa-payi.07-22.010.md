@@ -22,6 +22,8 @@ uyari: "Derleyenin seçtiği alıntılardır; kararın tamamı değildir. Künye
 
 ## Danıştay 6. D. 2019/2536 E., 2022/1327 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/762295600)
+
 Davanın, 6306 sayılı Kanunun Uygulama Yönetmeliğinin 15. maddesinin 2. fıkrasında yer alan "bu değerde gözetilerek oybirliğiyle anlaşmaya çalışılır" ibaresinin ve aynı Yönetmeliğin 15/A maddesinin 11. fıkrasında yer alan "yapılan sözleşmeyi ve yapılacak uygulamaların gerektirdiği diğer bölgeleri" ibaresi ile "şartsız ve şerhsiz" ibaresine ilişkin kısmına gelince;
 
 2577 sayılı İdari Yargılama Usulü Kanununun, "Dava Açma Süresi" başlıklı 7. maddesinin 1. fıkrasında; dava açma süresinin özel kanunlarda ayrı süre gösterilmeyen hallerde Danıştayda ve idare mahkemelerinde altmış gün olduğu, yine aynı maddenin 4. fıkrasında; ilanı gerektiren düzenleyici işlemlerde dava süresinin, ilan tarihini izleyen günden itibaren başlayacağı, ancak bu işlemlerin uygulanması üzerine ilgililerin düzenleyici işlem veya uygulanan işlemi yahut her ikisi aleyhine birden dava açabileceği, 8. maddesinin 1. fıkrasında; sürelerin tebliğ, yayın veya ilan tarihini izleyen günden itibaren işlemeye başlayacağı, 14. maddesinin 3/e bendinde ise; dava dilekçelerinin süre aşımı yönünden inceleneceği, 6. fıkrasında da; ilk incelemeye ilişkin hususların tespit edilmesi halinde davanın her safhasında 15. madde hükümlerinin uygulanacağı kurala bağlanmıştır.
@@ -32,9 +34,13 @@ Açıklanan nedenlerle, yukarıda belirtilen riskli yapıların bulunduğu parse
 
 ## Danıştay 6. D. 2022/703 E., 2022/1319 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/764422500)
+
 2577 sayılı İdari Yargılama Usulü Kanununun 15. maddesinin 1. fıkrasının (a) bendinde; dava dilekçeleri üzerine yapılan ilk inceleme sonunda; idari yargının görevli olduğu konularda, görevli veya yetkili olmayan mahkemeye açılan davanın görev veya yetki yönünden reddedilerek, dava dosyasının görevli veya yetkili mahkemeye gönderilmesine karar verileceği, hüküm altına alınmış bulunmaktadır.
 
 ## Danıştay 6. D. 2022/703 E., 2022/1319 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/764422500)
 
 Dosyanın incelenmesinden;
 
@@ -60,6 +66,8 @@ esasına kayıtlı dava dosyasının açıldığı, anılan dosyaya ilişkin ten
 
 ## Danıştay 2. D. 2021/18187 E., 2022/1035 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/765476500)
+
 2577 sayılı İdari Yargılama Usulü Kanunu'nun 14. maddesinin 3/f bendinde, dava dilekçelerinin husumet yönünden inceleneceği; 15. maddesinin 1/c bendinde de, 14. maddenin 3/f bendine göre, davanın hasım gösterilmeden veya yanlış hasım gösterilerek açılması halinde, dava dilekçesinin tespit edilecek gerçek hasma tebliğine karar verileceği kurala bağlanmıştır.
 
 …
@@ -67,6 +75,8 @@ esasına kayıtlı dava dosyasının açıldığı, anılan dosyaya ilişkin ten
 2\. ...Bölge İdare Mahkemesi .... İdari Dava Dairesince verilen ...günlü, E:..., K:...sayılı kararın, 2577 sayılı İdari Yargılama Usulü Kanunu'nun temyize konu kararın verildiği tarih itibarıyla yürürlükte olan haliyle 49. maddesinin 2/c fıkrası uyarınca BOZULMASINA …
 
 ## Danıştay 6. D. 2017/903 E., 2022/961 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/764281200)
 
 İlk Derece Mahkemesi kararının özeti: ... İdare Mahkemesince; davanın kabulüne, 765.000,00-TL kamulaştırmasız el atma bedelinin dava açma tarihinden (07.04.2014) itibaren işleyecek yasal faiziyle birlikte davacıya ödenmesine karar verilmiştir.
 
@@ -79,6 +89,8 @@ Hukuki el atma nedeniyle açılan tam yargı davaları, adli yargıdaki fiili el
 3194 sayılı İmar Kanunu ve ilgili mevzuat yönünden yapılacak değerlendirme sonrasında, tasarruf hakkının süresi belirsiz şekilde kısıtlanması nedeniyle idarenin kamulaştırmama işleminin iptaline karar verilmesi halinde …
 
 ## Danıştay 6. D. 2016/2730 E., 2022/731 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/753880400)
 
 İlk Derece Mahkemesi kararının özeti:
 Temyize konu kararda; dava konusu kentsel dönüşüm sınırının belirlenmesinde, hangi kriterlerin dayanak alındığının belirlenebilmesi amacıyla Mahkemece yapılan ara kararı üzerine davalı idarece gönderilen dava konusu taşınmazların kapsamında yer aldığı kentsel dönüşüm ve gelişim projesi açıklama raporunda; bölgenin mevcut koşullarının tam anlamıyla ortaya konulmadığı, alandaki kentsel dönüşümün amacının bölgenin mevcut koşulları çerçevesinde açıklanmadığı, kentsel dönüşüm alanı sınırı tespit edilirken hangi kriter veya kriterlere uyulduğunun açık olmadığı, bunun yanında kentsel dönüşümle birlikte bu alanın için öngörülen kullanım kararlarının belirsiz olduğu, bu duruma göre; kentsel dönüşüm alanı sınırı tespit edilirken hangi kriter veya kriterlere uyulduğunun açık olmadığı ve sonrasında bu alanın, hangi kullanımlara dönüşeceğinin belirtilmediği gibi yargılamanın devamı sırasında da ara kararı ile sorulmasına rağmen bu hususlara ilişkin davalı idarece sunulan bilgi ve belgelerin bu konulara açıklık getirmememesi karşısında dava konusu işlemde hukuka ve mevzuata uyarlık bulunmadığı sonucuna varılarak dava konusu işlemin iptaline karar verilmiştir.
@@ -95,6 +107,8 @@ Dava konusu işlemin yukarıda özetlenen gerekçeyle iptaline ilişkin temyize 
 
 ## Danıştay 6. D. 2019/13744 E., 2022/651 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/815513300)
+
 Bölge İdare Mahkemesi …
 
 …
@@ -110,6 +124,8 @@ Açıklanan nedenlerle, …
 Dava konusu işlemlerin iptali yolunda İdare Mahkemesince verilen karara yapılan istinaf başvurusunun, parsellerin kentsel dönüşüm ve gelişim proje alanı olarak belirlenmesi ile parsellere yönelik 1/25.000 ölçekli nazım imar planı değişikliği yönünden istinaf istemlerinin kabulüne, kararın bu kısımlarının kaldırılmasına …
 
 ## Danıştay 6. D. 2021/5846 E., 2022/647 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/759936300)
 
 Bölge İdare Mahkemesi …
 
@@ -147,6 +163,8 @@ sayılı kararıyla kabul edilerek, İdare Mahkemesi kararı kaldırılarak, dav
 
 ## Danıştay 6. D. 2018/9541 E., 2022/638 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/793127200)
+
 Bölge İdare Mahkemesi …
 
 Bölge İdare Mahkemesi …
@@ -177,6 +195,8 @@ Dava konusu parselin kentsel dönüşüm ve gelişim proje alanı olarak belirle
 
 ## Danıştay 6. D. 2021/7002 E., 2022/627 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/754010100)
+
 İlk Derece Mahkemesi kararının özeti:.... İdare Mahkemesinin ...tarih ve E:..., K:...sayılı kararında; yaptırılan bilirkişi incelemesi sonucunda düzenlenen rapor dikkate alınarak, davalı idarece herhangi bir yasal dayanağı olmadığı halde avans ruhsat harcı olarak 19/08/2014 tarihinde tahsil edilen 1.500.000,00-TL tutarındaki bedelin; yapının tadilat projesi onayından sonra Eylül/2016 döneminde ruhsat ücretleri hesaplanıp tahsil edilirken hesaplama dışında tutulduğu, yatırılan diğer tutarlardan mahsup edilmediği anlaşıldığından, davacıya iadesi gerektiği sonucuna ulaşıldığı belirtilmiş ve davanın kabulüne karar verilmiştir.
 
 …
@@ -188,6 +208,8 @@ Bu bakımdan; bir uyuşmazlığın vergi mahkemelerinin görev alanına girdiği
 Davanın yukarıda özetlenen gerekçeyle kabulüne ilişkin Mahkeme kararına yönelik olarak yapılan istinaf başvurusunun reddi yolundaki temyize konu ...Bölge İdare Mahkemesi .... İdari Dava Dairesinin ...tarih ve E:..., K:...sayılı kararının BOZULMASINA …
 
 ## Danıştay 6. D. 2019/18023 E., 2022/598 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/757818200)
 
 Bölge İdare Mahkemesi …
 
@@ -229,6 +251,8 @@ Mahkeme kararına yönelik olarak yapılan istinaf başvurusunun kabulü ile an�
 
 ## Danıştay 6. D. 2019/15006 E., 2022/580 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/800095300)
+
 İlk Derece Mahkemesi kararının özeti: … İdare Mahkemesince verilen … tarih ve E:…, K:
 
 … sayılı kararda; kentsel dönüşüm ve gelişim proje alanında kaldığı anlaşılan planlamaya konu alanda, artan nüfusun ihtiyacı olan sosyal ve teknik altyapı alanlarının standartlarına uygun olarak ve bu alana hizmet vermek üzere ayrılması ve artan yoğunluğun kentsel teknik altyapı ve ulaşım sistemine etkilerine yönelik önlemlerin alınmasını teminen değerlendirme raporu ve analizinin hazırlanması kaydıyla yoğunluk artırıcı plan değişikliği yapılmasına hukuki engel bulunmamakla birlikte, 1/5000 ölçekli nazım imar planı değişikliğine ilişkin işbu dava dosyası ile aynı alana yönelik 1/1000 ölçekli uygulama imar planı değişikliğine karşı açılan dava dosyalarının birlikte incelenmesinden, planlanan alanda ayrılan sosyal ve teknik altyapı alanının; gerek 1/1000 ölçekli plan açıklama raporunda öngörülen 4 kişilik aile büyüklüğü oranına göre hesaplanan standart miktarın, gerekse Türkiye İstatistik Kurumunca ilan edilen 2013 yılına ilişkin Çankaya İlçesi aile büyüklüğü olan 2,75 oranına göre hesaplanan standart miktarın da hayli altında kaldığı anlaşıldığı gerekçesiyle dava konusu işlemin iptaline karar verilmiştir.
@@ -249,6 +273,8 @@ Açıklanan nedenlerle, … Bölge İdare Mahkemesi … İdari Dava Dairesi kara
 
 ## Danıştay 6. D. 2018/3490 E., 2022/562 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/770670000)
+
 Bu nedenle, idari yargının temel bir ilkesi olarak, iptal kararı sonucunda idari işlem yapıldığı ilk tarihten itibaren ortadan kalkar. İptal kararları, konusu idari işlem olması nedeniyle kanun hükümlerinden farklı olarak, geriye yürümekte ve böylece idari işlem baştan itibaren hiç yapılmamış sayılmaktadır. İptal kararlarının geriye yürümesi, diğer bir deyişle iptal edilen işlemin tesisinden önceki hukuki durumun geri gelmesi sonucunu doğuran özelliği nedeniyle, iptal edilen idari kararlar esas alınarak yapılan işlemler yok sayıldığına göre idarenin kendiliğinden gerekli düzeltmeleri yapması gerekmektedir.
 
 …
@@ -256,6 +282,8 @@ Bu nedenle, idari yargının temel bir ilkesi olarak, iptal kararı sonucunda id
 Dava konusu işlemin yukarıda özetlenen gerekçeyle iptaline ilişkin Mahkeme kararına yönelik olarak yapılan istinaf başvurusunun gerekçe eklenmek suretiyle reddi yolundaki temyize konu ... Bölge İdare Mahkemesi ... İdari Dava Dairesinin ... tarih ve E:...
 
 ## Danıştay 8. D. 2022/279 E., 2022/222 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/755986700)
 
 İlk Derece Mahkemesi kararının özeti: …İdare Mahkemesince verilen …tarih ve E:…, K:…
 
@@ -267,6 +295,8 @@ sayılı kararda; davacı Kooperatife ait taşınmazın bulunduğu alanın daha 
 
 ## Danıştay 6. D. 2018/7116 E., 2022/70 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/745579200)
+
 Bu itibarla, İdare Mahkemesince, uyuşmazlığa konu kentsel dönüşüm alanına yönelik olarak proje hazırlanıp hazırlanmadığı, imar planı değişikliği yapılıp yapılmadığı araştırıldıktan sonra davaya konu taşınmazın söz konusu proje veya imar planında hangi kullanımda olduğu da dikkate alınarak dayanağı plan veya projeye uygun olup olmadığı değerlendirilerek yukarıda belirtilen ilkeler çerçevesinde kamulaştırma işleminin hukuki denetiminin yapılması gerektiğinden, mahallinde yapılacak keşif ve bilirkişi incelemesi suretiyle karar verilmesi gerekirken, eksik incelemeye dayalı verilen davanın reddi yolundaki mahkeme kararının bozulması gerektiği düşünülmektedir.
 
 …
@@ -274,6 +304,8 @@ Bu itibarla, İdare Mahkemesince, uyuşmazlığa konu kentsel dönüşüm alanı
 ...Bölge İdare Mahkemesi .... İdari Dava Dairesince verilen ...tarih ve E:..., K:...sayılı karar ve dayandığı gerekçe hukuk ve usule uygun olup bozulmasını gerektirecek bir sebep bulunmadığından, anılan kararın ONANMASINA …
 
 ## Danıştay 6. D. 2021/8165 E., 2021/14772 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/750718200)
 
 İlk Derece Mahkemesi kararının özeti: … İdare Mahkemesince verilen … tarih ve E:… , K:
 
@@ -294,6 +326,8 @@ Mahkeme kararına yönelik olarak yapılan istinaf başvurusunun kabulü ile an�
 
 ## Danıştay 6. D. 2021/5555 E., 2021/14713 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/747106600)
+
 İlk Derece Mahkemesi kararının özeti: ….
 
 …
@@ -312,6 +346,8 @@ Davanın yukarıda özetlenen gerekçeyle kabulüne ilişkin Mahkeme kararına y
 
 ## Danıştay 6. D. 2021/3502 E., 2021/13298 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/726862400)
+
 2577 sayılı İdari Yargılama Usulü Kanunu'nun 46. maddesinin 1. fıkrasında; Danıştay dava daireleri kararlarına karşı Danıştay'da temyiz yoluna başvurulabileceği, 2575 sayılı Danıştay Kanunu'nun 38. maddesinde; İdari Dava Daireleri Kurulunca idari dava dairelerinden ilk derece mahkemesi olarak verilen kararların temyizen inceleneceği öngörülmüş olup 2577 sayılı Kanunun 49. maddesinin 4. fıkrasında ise Danıştay dava dairelerinin ilk derece mahkemesi olarak verdiği kararların temyizen bozulması halinde ısrar olanağı tanınmamıştır.
 
 …
@@ -319,6 +355,8 @@ Davanın yukarıda özetlenen gerekçeyle kabulüne ilişkin Mahkeme kararına y
 Dava konusu Yönetmeliğin 12. maddesi ile değiştirilen PATİY'nin 14. maddesinin birinci fıkrasının 3. bendinin (a) alt bendinde yer alan "anaokulu ve kreş" ibaresinin İPTALİNE …
 
 ## Danıştay 6. D. 2021/10084 E., 2021/13049 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/723937500)
 
 Davacı ... tarafından, İstanbul İli, Bahçelievler İlçesi, ... Mahallesi, ... pafta, ... ada, ... parsel sayılı taşınmaz üzerinde bulunan davacının bağımsız bölüm maliki olduğu yapının, 6306 sayılı Afet Riski Altındaki Alanların Dönüştürülmesi Hakkında Kanun hükümleri uyarınca riskli yapı olarak tespitine ilişkin işleme karşı yapılan itirazın reddine ilişkin ... tarih ve ... sayılı İstanbul 6 Numaralı İtiraz Değerlendirme Heyeti kararının iptali istemiyle Bahçelievler Belediye Başkanlığı ve İstanbul Valiliğine karşı açılan davada; davanın reddine ilişkin ... İdare Mahkemesinin ... tarih ve E:..., K:... sayılı kararına karşı yapılan istinaf başvurusunun ...
 
@@ -328,6 +366,8 @@ Yukarıda yer verilen düzenlemeler uyarınca, idari yargıda, hakimin reddinin 
 
 ## Danıştay 6. D. 2019/17902 E., 2021/12687 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/743607700)
+
 DAVANIN_KONUSU : 21/06/2019 tarih ve 30808 sayılı Resmi Gazete'de yayımlanan 6306 sayılı Kanunun Uygulama Yönetmeliğinde Değişiklik Yapılmasına Dair Yönetmeliğin 4. maddesiyle değiştirilen Yönetmeliğin 6.maddesinin 13. fıkrasındaki "Lisanslı kurum ve kuruluşlarda riskli yapı tespitinde görev alacak mühendislerin katılacağı eğitim ve sınav Bakanlığın belirlediği usul ve esaslar çerçevesinde Bakanlıkça yapılır veya yaptırılır. Eğitim programlarına katılıp başarı belgesi almayan inşaat mühendisleri riskli yapı tespitinde görev alamaz." ibaresinin iptali istenilmektedir.
 
 …
@@ -335,6 +375,8 @@ DAVANIN_KONUSU : 21/06/2019 tarih ve 30808 sayılı Resmi Gazete'de yayımlanan 
 Açıklanan nedenlerle, dava konusu düzenlemenin dayanağı 6306 sayılı Afet Riski Alanların Dönüştürülmesi Hakkında Kanunun 1.maddesinde belirtilen "... afet riski altındaki alanlar ile bu alanlar dışındaki riskli yapıların bulunduğu arsa ve arazilerde, fen ve sanat norm ve standartlarına uygun, sağlıklı ve güvenli yaşama çevrelerini teşkil etmek ..." amacına ve kamu yararına netice itibarıyla hukuka aykırı olduğu kanaatiyle iptaline karar verilmesi gerekirken Dairemizce verilen davanın reddi yolundaki çoğunluk görüşüne katılmıyoruz.
 
 ## Danıştay 6. D. 2019/16858 E., 2021/12684 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/725313200)
 
 Davacı tarafından; 6306 sayılı Kanun'un 1. maddesinin, 2. maddesinin (d) bendinin, 3. maddesinin 1, 4 ve 5. fıkrasının, 4. maddesinin 3. fıkrasının, 5. maddesinin 1, 3 ve 4. fıkrasının, 6. maddesinin 1. ve 2. fıkrasının Anayasaya aykırı olduğu ileri sürülmüş ise de; Anayasaya aykırılık iddialarına itibar edilmemiştir.
 
@@ -347,6 +389,8 @@ Riskli yapıların tespitinde görev alacak kurum ve kuruluşlar başlığı alt
 Açıklanan nedenlerle, yukarıda belirtilen riskli yapıların bulunduğu parsellerde yapılacak uygulamaların ve bu uygulamalara rıza göstermeyen maliklerin arsa paylarının açık artırma usulü ile satışına ilişkin kurallarını düzenleyen, bu kuralların uygulanması için ise üçte iki çoğunluk kararını yeterli bulan dayanak Kanun ve dava konusu Yönetmelik hükümleri uyarınca üçte birde kalan maliklerin mülkiyet hakkına yapılacak müdahalenin orantılı olmadığı, 634 sayılı Kat Mülkiyeti Kanuna göre "anagayrimenkulün bakımı, korunması" gibi hususlarda dahi bu oranın beşte dört olduğu da dikkate alındığında mülkiyet hakkını, 634 sayılı Kanundan daha ciddi oranda sınırlayan, 6306 sayılı Kanunun Uygulama Yönetmeliği hükümlerinde maliklerin üçte iki çoğunluğunun kararıyla üçte birin mülkiyet hakkının orantılı olmayacak şekilde kısıtlanması suretiyle hakkın ihlaline sebep olunduğu anlaşıldığından dava konusu düzenlemelerin iptaline karar verilmesi gerektiği kanaatiyle bu kısımlar yönünden Dairemizce verilen çoğunluk kararına katılmıyorum.
 
 ## Danıştay 6. D. 2021/6683 E., 2021/12505 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/720159300)
 
 İlk Derece Mahkemesi kararının özeti: … İdare Mahkemesince verilen … tarih ve E:…, K:
 
@@ -363,6 +407,8 @@ Davanın yukarıda özetlenen gerekçeyle kısmen kabulüne ilişkin Mahkeme kar
 …, K:… sayılı kararın kaldırılarak, davanın süre aşımı nedeniyle reddi yolunda verilen … Bölge İdare Mahkemesi … İdari Dava Dairesinin … tarih ve E:…, K:… sayılı kararının BOZULMASINA …
 
 ## Danıştay 6. D. 2018/9041 E., 2021/12014 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/750530200)
 
 İlk Derece Mahkemesi kararının özeti: … İdare Mahkemesince verilen … tarih ve E:…, K:
 

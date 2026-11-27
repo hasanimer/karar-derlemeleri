@@ -25,6 +25,8 @@ uyari: "Derleyenin seçtiği alıntılardır; kararın tamamı değildir. Künye
 
 ## Yargıtay HGK 2025/512 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1178749300)
+
 Davacılar vekili dava dilekçesinde; müvekkillerinin İzmir ili Konak ilçesi ...
 
 …
@@ -40,6 +42,8 @@ Anılan maddede kat mülkiyeti veya kat irtifakının, bu mülkiyete konu olan a
 Davacılar vekili ve davalı ... vekilinin temyiz itirazlarının kabulü ile direnme kararının Özel Daire bozma kararında gösterilen nedenlerden dolayı 6100 sayılı Kanun'un 371. maddesi gereğince BOZULMASINA …
 
 ## Yargıtay HGK 2022/643 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/792161100)
 
 Davacı vekili 28.10.2011 tarihinde harçlandırdığı ıslah dilekçesinde; mahkemece yapılan keşif sonucu alınan 07.07.2011 tarihli bilirkişi heyeti raporunda dava konusu yedi adet dairenin toplam bedeli 751.740TL hesaplandığından fazlaya ilişkin haklarını saklı tutarak dava değerini bu tutar üzerinden ıslah etmiş, 555.000TL’nin davanın ikame edildiği tarihten, bakiye 196.740TL’nin ise ıslah tarihinden itibaren işleyecek yasal faizi ile birlikte davalılardan müştereken ve müteselsilen tahsiline karar verilmesini talep etmiştir.
 
@@ -59,6 +63,8 @@ Davacı vekilinin temyiz itirazlarının kabulü ile direnme kararının yukarı
 
 ## Yargıtay HGK 2021/420 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/686388300)
+
 Davalı muris ... vekili cevap dilekçesinde; taraflar arasında imzalanan sözleşmeler gereği paylaşımın %32 oranda müvekkiline, %68 oranda ise kooperatife ait olmak üzere belirlendiğini, ayrıca A bloğun zemin katındaki dükkânların müvekkiline verilmesi gerektiğini, ancak kooperatifin fazla daire alabilmek için inşaatlardaki kat sayısını yükselttiğini, müvekkiline teslim etmesi gereken dükkânların teslim edilmediğini, hâlen iskânın alınmadığını belirterek davanın reddini istemiştir.
 
 …
@@ -75,6 +81,8 @@ arsa paylarını davacı tarafa devretmesi gerektiği, infazda kolaylık olması
 Davalı ... dışındaki davalılar vekilinin temyiz itirazlarının kabulü ile direnme kararının yukarıda gösterilen nedenlerden dolayı usulden BOZULMASINA …
 
 ## Yargıtay HGK 2016/181 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/185670100)
 
 Davalılar, davanın reddini savunmuşlardır.
 
@@ -101,6 +109,8 @@ SONUÇ: Davacı vekilinin temyiz itirazlarının reddi ile direnme kararının y
 
 ## Yargıtay HGK 2014/391 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/84000800)
+
 Dava, hata hukuksal nedenine dayalı tapu iptali ve tescil istemine ilişkindir.
 
 Davacılar vekili, davacıların paylı mülkiyetle maliki oldukları 7970 ada 3 parsel nolu taşınmazda dava dışı şirketle kat karşılığı inşaat sözleşmesi yapıldığını, sözleşmeye göre 4, 7 ve 14 nolu bağımsız bölümlerin davalı ile birlikte davacılara verilmesinin kararlaştırıldığını, ancak tapu kayıtları oluşturulurken tapu paylarının gözetilmediğini, 14 nolu bölümde davacı Ethem adına hiç pay oluşturulmadığını ileri sürerek, her üç bağımsız bölüm üzerinde arsa payları oranında hisse sahibi olacak şekilde tapu iptali ve tescil istemiştir.
@@ -120,6 +130,8 @@ O halde, mahkemece uzman bilirkişiye denetime elverişli rapor düzenlettirilme
 Bu nedenle, yerel mahkemenin direnme kararı usul ve yasaya uygun olup, onanması gerekirken, bozulmasına dair sayın çoğunluğun değerli görüşüne katılamıyorum.
 
 ## Yargıtay HGK 2008/678 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/16750200)
 
 Hal böyle olunca azli bilen veya bilmesi gereken yüklenici şirketin yetkili temsilcisi Z.. T..’ın yaptığı paylaşımlı kat irtifakı listesi davacı arsa sahibini temsile yetkili olmaması nedeniyle geçersizdir. Bu durumda mahkemece dava konusu taşınmazda yapılan ve arsa sahiplerine kalan A bloklardaki tüm bağımsız bölüm sahipleri belirlenip davada yer almayanlar varsa bunlar davaya katılarak A.. 8.Sulh Hukuk Mahkemesinin 2003/1403 Esas sayılı dosyasında alınan bilirkişi raporu ile bu dosyada alınan rapor arasındaki çelişkide gerekirse yeniden oluşturulacak bilirkişi kurulu marifetiyle mahallinde keşif yapılarak alınacak raporla giderildikten sonra davanın sonuçlandırılması gerekir.
 

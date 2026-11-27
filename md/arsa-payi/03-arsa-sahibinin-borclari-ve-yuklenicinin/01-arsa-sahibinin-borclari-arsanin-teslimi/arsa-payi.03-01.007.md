@@ -22,6 +22,8 @@ uyari: "Derleyenin seçtiği alıntılardır; kararın tamamı değildir. Künye
 
 ## Yargıtay 15. HD 2019/2479 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/518684300)
+
 Mahkemece yapılan yargılama neticesinde, davanın kabulü ile; sözleşmenin feshi ile davalı adına kayıtlı tapu kaydının iptâli ve davacılar adına payları oranında tesciline karar verilmiş, verilen kararın istinaf edilmesi üzerine ... Bölge Adliye Mahkemesi 15.
 
 …
@@ -41,6 +43,8 @@ edimin ifa edilmesi hususunda gereği yerine getirilmemiştir. Yapı kayıt belg
 
 ## Yargıtay 15. HD 2019/1723 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/500032900)
+
 Dava, sözleşmenin kısmen feshi, cezai şart ve kurulan kat irtifakının iptâli istemlerine ilişkin olup, ilk derece mahkemesi tarafından yapılan yargılama sonunda davanın reddine dair verilen kararın davacılar tarafından istinaf edilmesi sonucunda Antalya Bölge Adliye Mahkemesi 7.
 
 …
@@ -52,6 +56,8 @@ TMK’nın 692. maddesi gereğince, paylı taşınmaz malın özgülendiği amac
 SONUÇ: Yukarıda açıklanan nedenlerle davacı vekilinin temyiz itirazının kabulü ile hükmün temyiz eden davacı yararına BOZULMASINA …
 
 ## Yargıtay 23. HD 2019/1507 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/509742600)
 
 Davacı vekili, taraflar arasında düzenlenen ....01.2007 tarihli arsa payı karşılığı inşaat sözleşmesinde müvekkiline verilecek daire ve dükkanların belirlendiğini ....03.2010 tarihli sözleşmede ise eserin en geç ........2010 tarihine kadar teslim edileceğinin aksi takdirde yüklenicilerin 40.000,00 TL cezai şart ödeyeceğinin kararlaştırıldığını, halen teslimin gerçekleşmediğini arsa payı oranına göre dava tarihi itibariyle müvekkiline toplam 243.226,00 TL ceza koşulu ödenmesi gerektiğini ileri sürerek anılan meblağın davalılardan tahsilini talep ve dava etmiştir.
 
@@ -77,6 +83,8 @@ SONUÇ: Yukarıda (...) numaralı bentte açıklanan nedenlerle, davacı vekilin
 
 ## Yargıtay 15. HD 2019/1102 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/487259100)
+
 Dava, arsa payı karşığı inşaat yapım sözleşmesi gereğince yüklenicinin edimini yerine getirmemesi ve muvazalı tapu devri yapılması sebebiyle tapu iptâli ve tescil, mümkün olmaması halinde değerinin tahsili istemine ilişkindir.
 
 …
@@ -88,6 +96,8 @@ Bu durumda mahkemece, bozmaya uyulduğu ve bozmada belirtilen hususlar lehine ol
 SONUÇ: Yukarıda açıklanan nedenlerle temyiz itirazlarının kabulüyle hükmün temyiz eden davalı ... yararına BOZULMASINA …
 
 ## Yargıtay 23. HD 2019/955 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/495512900)
 
 Davacılar vekili, müvekkilleri ile davalı şirket arasında arsa payı karşılığı inşaat sözleşmesi imzalandığını, yüklenicinin üstlenmiş olduğu inşaat yapım işinin süresinde yerine getirilmediğini ileri sürerek müvekkillerine isabet eden bağımsız bölümler için fazlaya dair hakları saklı kalmak şartı ile 25.500,00 TL kira kaybı, yüklenicinin sözleşme ve ruhsata aykırı imalatları ile noksan ve ayıplı yapmış olduğu imalatlar için 20.000,00 TL nin ihtar tarihi olan 31.08.2010 tarihinden itibaren yasal faizi ile birlikte 1 ve 2 no'lu davalılardan müştereken ve müteselsilen tahsiline karar verilmesini talep ve dava etmiştir.
 
@@ -109,6 +119,8 @@ SONUÇ: Yukarıda (1) numaralı bentte açıklanan nedenlerle, davacılar vekili
 
 ## Yargıtay 15. HD 2019/543 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/479382100)
+
 Dava, arsa payı karşılığı inşaat yapım sözleşmesi uyarınca davalı arsa sahibine verilen bağımsız bölümün büyük olması nedeniyle fazla imalât iddiasıyla alacak istemine ilişkindir.
 
 …
@@ -120,6 +132,8 @@ Adi yazılı olarak düzenlenmiş olması sebebiyle geçersiz ise de tapuda pay 
 SONUÇ: Yukarıda 1. bentte açıklanan nedenlerle davacının temyiz itirazlarının reddine, 2. bent uyarınca davalının temyiz itirazlarının kabulüyle hükmün davalı yararına BOZULMASINA …
 
 ## Yargıtay 3. HD 2019/282 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/478112900)
 
 Davacı; davaya konu taşınmazda kiracı iken davalıların taşınmazın riskli yapı olması nedeniyle tahliye edilmesini talep ettiğini, 6306 sayılı yasa uyarınca taşınmazı geçici olarak tahliye ettiğini, inşaat bitince taşınmazı yeniden kiralamak istediklerini ancak davalıların bir cevap vermeden taşınmazı 3. kişiye kiraladığını, 6100 sayılı Türk Borçlar Kanunun 355. maddesinin kıyas yolu ile uygulanması gerektiğini ileri sürerek, şimdilik 5.000 TL tazminatın tahsiline karar verilmesini istemiştir.
 
@@ -135,6 +149,8 @@ SONUÇ: Yukarıda açıklanan esaslar gözönünde tutulmaksızın yazılı şek
 
 ## Yargıtay 23. HD 2019/62 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/478832400)
+
 Mahkemece bozma ilamına uyularak, keşif yapılıp, bilirkişi raporu ve ek rapor alınmak suretiyle 24.09.2014 tarih ve 2007/449 Esas, 2014/409 Karar sayılı kararı ile davalı yüklenici şirketin sözleşmedeki edimini yerine getirmediği, davaya konu binayı ilk projeye aykırı inşa ettiği, bunun üzerine iskan izni almak amacıyla tadilât projesi hazırlanmasına rağmen tadilât projesine uygun olarak binadaki aykırılıkları gideremediği, dosyada alınan tüm bilirkişi raporları ile dava konusu binanın projeye, tadilât projesine, imar mevzuatına ve deprem yönetmeliğine aykırı yapılmış kaçak bir bina olduğundan mevcut haliyle iskan ruhsatı almasının mümkün olmadığı, kaçak bina konumunda olan binanın yıkımı zorunlu olduğundan binanın arsa sahibi olan davacıların malvarlığında artı değer yaratması söz konusu olamayacağından ve sözleşmenin feshi gerekeceğinden, bu durumda arsa sahipleri olarak davacıların gecikme nedeniyle kira kaybı tazminatı istemeleri mümkün olup, bunun dışında tapu iptali ve tescil, eksik ... bedeli istenemeyeceğinden davacıların tapu iptal tescil, eksik ... bedeli ve ecrimisil dışındaki diğer taleplerinin reddine, ecrimisil taleplerinin kısmen kabulüne, davalı ... ve dahili davalı
 hakkındaki davanın reddine karar verildiği, birleşen ...
 
@@ -146,6 +162,8 @@ bölüm yapıldığı iddiası ile bu bölümlerden paylarına düşen kısmın 
 yıkım da gerekiyorsa doğal olarak, iskân edilen bölümlerin veya binanın tümünü ilgilendiren kısımların yıkımının gerekmesi halinde iskân eden şahıslara karşı tahliyenin sağlanması gerektiğinden bu konuda dava açması için yükleniciye yetki ve süre verilmesi gerekmesi ve bunun sonucuna göre de bina yasal hale getirilebildiği takdirde yine tescil isteminin aynı doğrultuda değerlendirilmesi lazımken eksik incelemeyle binanın yasal hale getirme yöntemi açık bir şekilde tespit .../...
 
 ## Yargıtay 3. HD 2018/10827 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/468672500)
 
 Davacı, davalıya ait taşınmazda 11.05.2013 tarihli kira sözleşmesi gereği kiracı olduğunu, kiralanan yer ile ilgili riskli yapı tespiti işlemi yapılması ve bu işlem sırasında davalı tarafın sorumluluklarını yerine getirmemesi sebebiyle taşınmazı tahliye etmek zorunda kaldığını, bu işlem nedeniyle uğradığı zararlardan TBK'nun 301. maddesi gereği davalının sorumlu olduğunu belirterek 30.000 TL maddi ve 50.000 TL manevi tazminatın, dava tarihinden itibaren işleyecek faizi ile birlikte davalıdan tahsiline karar verilmesini talep etmiştir.
 
@@ -163,6 +181,8 @@ SONUÇ: Yukarıda birinci bentte açıklanan nedenlerle hükmün HUMK.nun 428. m
 
 ## Yargıtay 20. HD 2018/6931 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/461997100)
+
 …
 
 ... 6. Sulh Hukuk Mahkemesinin 2015/45 E.
@@ -175,6 +195,8 @@ mimari proje yaptırıldığı ancak 1988 tarihinde yapılan projenin belediyece
 Dosyadaki yazılara, kararın dayandığı delillerle yasaya uygun gerektirici nedenlere ve HMK'nın 355. maddesindeki kamu düzenine aykırılık halleri resen gözetilmek üzere istinaf incelemesinin, istinaf dilekçesinde belirtilen sebeplerle sınırlı olarak yapılacağı kuralına uygun biçimde inceleme yapılıp karar verilmiş ve verilen kararda bir isabetsizlik görülmemiş olmasına göre yerinde olmayan bütün temyiz itirazlarının reddiyle usul ve kanuna uygun olan hükmün HMK'nın 370/1. maddesi gereğince ONANMASINA …
 
 ## Yargıtay 15. HD 2018/5239 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/466955800)
 
 (resmi senet) göre dava konusu ... ili, Merkez ilçesi, Cumhuriyet Mahallesi, 2915 Ada 20 Parsel üzerindeki A Blok, 4. Kat, 10 nolu bağımsız bölümün davalı arsa sahibi ... adına kayıtlı iken, 13.05.2010 tarihinde satış suretiyle 8.400,00 TL bedel ile davalı ...'ye devredildiği ve halen adı geçen şahıs adına kayıtlı olduğu anlaşılmaktadır. Tapuda satışı bizzat davalı arsa sahibi ... yapmış olup, satışın yüklenicinin talimat ve isteğiyle ve onun adına yapıldığına dair resmi akit tablosunda açıklık bulunmamaktadır. Davalılar 10 nolu bağımsız bölümün davacı yüklenicinin yazılı ya da sözlü talimatı ile davalı ...'ye satıldığına ilişkin savunmalarını ispatlayacak herhangi bir belge ibraz etmemişler, tapu devrinin yüklenicinin talimatı ve isteği ile yapıldığı yasal delillerle kanıtlanamamıştır. Davalı arsa sahibi ...'in resmi satış senediyle kendisinin yaptığı tapu devrini davacı yüklenicinin istek ve talimatı ile gerçekleştirdiğini kanıtlayamaması halinde, satış işleminin bedel karşılığı arsa sahibi ile satın alan kişi arasında yapıldığının kabulü zorunludur.
 

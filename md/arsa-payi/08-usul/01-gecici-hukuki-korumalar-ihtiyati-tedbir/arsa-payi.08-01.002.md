@@ -22,6 +22,8 @@ uyari: "Derleyenin seçtiği alıntılardır; kararın tamamı değildir. Künye
 
 ## Yargıtay 11. HD 2020/5698 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/630601200)
+
 Davacı vekili, dava dışı ...adına kayıtlı bulunan taşınmazın davacı adına tescili için İzmir 3. Asliye Hukuk Mahkemesi'nin 2011/558 Esas, 2013/140 Karar sayılı dosyasından dava açtıklarını ve taşınmazın davacı adına hükmen tescil edildiğini, ancak davalının taşınmaz üzerindeki ipoteğini terkin etmediğini ileri sürerek, ipoteğin terkinini talep ve dava etmiştir.
 
 Davalı vekili, dava dışı ...'in adına kayıtlı taşınmazın yine dava dışı Star Ege Ltd.Şti'nin borçlarının teminatı olarak davalı lehine ipotek tesis edildiğini, malikin değişmesinin ipoteği hükümden düşürmeyeceğini savunarak davanın reddini istemiştir.
@@ -38,6 +40,8 @@ Yargılama sırasında davacının vefat ettiği,yargılamaya davacının miras�
 
 ## Yargıtay 1. HD 2020/5566 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/623579900)
+
 Dava, muris muvazaası hukuksal nedenine dayalı tapu iptali ve tescili, olmadığı takdirde tenkis isteğine ilişkindir.
 
 …
@@ -52,6 +56,8 @@ Davalı ... vekilinin değinilen yön itibariyle yerinde bulunan temyiz itirazla
 
 ## Yargıtay 23. HD 2020/3842 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/617475500)
+
 Davalılar vekili, davacının taleplerinin zamanaşımına uğradığını, yönetim kurulu üyelerine husumet yöneltilemeyeceğini, dava dışı yüklenici firma ile kooperatif arasında devam eden davanın bekletici mesele yapılması gerektiğini savunarak davanın reddini istemiştir.
 
 Mahkemece davanın kabulü ile 33.100,00 TL'nin davalılardan müştereken ve müteselsilen tahsiline dair verilen karar davalılar vekillerince temyiz edilmesi üzerine Dairemiz 23.09.2019 tarih, 2016/4567 Esas ve 2019/3780 Karar sayılı ilamı ile bozulmuştur. Mahkemece bozma sonrası 20.04.2020 tarihli ara karar ile davacı tarafın ihtiyati haciz talebinin kabulü ile davalı ...
@@ -61,6 +67,8 @@ Mahkemece davanın kabulü ile 33.100,00 TL'nin davalılardan müştereken ve m�
 Dairemizce daha evvel davanın esasına ilişkin temyiz incelemesi yapılmış ise de, iş bu temyize konu karar bozma sonrası ilk derece mahkemesince verilen ihtiyati haciz kararına itirazın reddine ilişkin ara karardır. 5235 sayılı Adli Yargı İlk Derece Mahkemeleri ile Bölge Adliye Mahkemelerinin Kuruluş, Görev ve Yetkileri Hakkındaki Kanun'un 25 ve geçici 2'inci maddeleri uyarınca kurulan ve yargı çevreleri belirlenen Bölge Adliye Mahkemeleri, 20.07.2016 tarihinde göreve başlamıştır. İİK'nın 265.maddesinin son fıkrasına göre Bölge Adliye Mahkemelerinin faaliyete geçmesinden sonra ihtiyati haciz kararına itiraz üzerine …
 
 ## Yargıtay 15. HD 2020/2057 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/603506600)
 
 Dava, kat karşılığı inşaat sözleşmesinden kaynaklanan eksik işler bedeli, gecikme tazminatı ve tespit dosyası yargılama giderinin tahsili amacı ile başlatılan icra takibine vaki itirazın iptâli ile icra inkâr tazminatı tahsili istemine ilişkin olup, yerel mahkemece davanın kısmen kabulüne dair verilen karar, davalı tarafından temyiz edilmiştir.
 
@@ -78,6 +86,8 @@ SONUÇ: Yukarıda açıklanan nedenlerle kararın temyiz eden davalı yararına 
 
 ## Yargıtay 15. HD 2020/1510 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/588760300)
+
 Mahkemece yapılan yargılama sonucu 06.04.2017 tarih 2007/229 Esas, 2017/168 Karar sayılı karar ile asıl ve karşılık davanın kısmen kabulüne, birleşen davaların reddine karar verilmiş, taraf vekilleri süresi içerisinde kanun yoluna başvurmuştur.
 
 …
@@ -87,11 +97,15 @@ Somut olayda dosya verilen esasa ilişkin karardan önce o tarihlerdeki işböl�
 
 ## Yargıtay 15. HD 2020/935 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/648082300)
+
 İcra-İflas Kanunu'nun 257. ve devamı maddelerinde düzenlenen ihtiyati haciz talebi ve 6100 sayılı HMK'nın 389 ve devamı maddelerinde düzenlenen ve ara kararı ile oluşturulan ihtiyati tedbir talepleriyle ilgili kanun yoluna başvurma imkanı tanınmış ise de; bunun dışında yargılamanın devamı süresinde verilen ara kararları ya da somut olayda olduğu gibi yetki verilmesi talebinin kabul ya da reddine ilişkin ara kararları nihai karar olmayıp, ancak nihai kararla birlikte temyiz edilmeleri mümkün olduğu, nihai karar niteliğinde olmadıkları ve mahkemece işten el çekilmediğinden talepte bulunan müflis kooperatif yönetim kurulu vekillerinin yetki verilmesi ve temyiz isteminin reddine ilişkin ara ve ek kararları usul ve yasaya uygun ve doğru olduğundan temyiz itirazları yerinde görülmemiş, ek kararın onanması uygun bulunmuştur.
 
 SONUÇ: Yukarıda açıklanan nedenlerle müflis kooperatif yönetim kurulu vekillerinin yerel mahkemenin temyiz talebinin reddine ilişkin 15.03.2019 tarihli ara kararına yönelik temyiz itirazlarının reddiyle ONANMASINA …
 
 ## Yargıtay 14. HD 2019/8776 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/612487300)
 
 Dava, tapu kaydındaki haciz şerhinin terkini istemine ilişkindir.
 
@@ -111,6 +125,8 @@ SONUÇ: Yukarıda 1 numaralı bentte açıklanan nedenlerle davalı Hazine vekil
 
 ## Yargıtay 20. HD 2019/5754 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/560708100)
+
 Mahkemece davanın kabulüne 140.000,00 TL tazminatın 31/10/2012 tarihinden itibaren işleyecek yasal faizi ile birlikte davalılardan müştereken ve müteselsilen alınarak davacıya ödenmesine karar verilmiş, hüküm davalı Çevre ve Şehircilik Bakanlığına izafeten Tapu Sicil Müdürlüğü vekili tarafından temyiz edilmesi üzerine Dairenin 17.01.2017 gün ve 2015/2806 E. - 2017/7 K. sayılı kararıyla bozulmuştur.
 
 …
@@ -122,6 +138,8 @@ Bu açıklamalar ışığında; somut olaya bakıldığında az yukarıda açık
 SONUÇ: Yukarıda açıklanan nedenlerle, davalı Hazine vekilinin temyiz itirazlarının kabulü ile hükmün BOZULMASINA 10/10/2019 günü oy birliği ile karar verildi.
 
 ## Yargıtay 23. HD 2019/4034 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/546534300)
 
 Davacı vekili, müvekkili ile davalı yüklenici arasında 19.04.2013 tarihinde arsa payı karşılığı inşaat sözleşmesi düzenlendiğini, sözleşmeye göre davalının 16 bağımsız bölümlü bina inşa etmeyi taahhüt ettiğini, 8 bağımsız bölümün müvekkiline, 8 bağımsız bölümün davalıya verileceğinin kararlaştırıldığını, ardından tarafların 13.11.2013 tarihli satış sözleşmesi düzenlediklerini, müvekkilinin 745.000,00 TL karşılığında yükleniciye verilen 8 bağımsız bölümü satın aldığını, 745.000,00 TL’nin ödenmesi için ödeme planının oluşturulduğu, müvekkilinin ödemelerini plan dahilinde yaptığını ve son olarak 20.10.2014 vade tarihli 95.000,00 TL’lik bononun kaldığını, fakat davalının arsa payı karşılığı inşaat sözleşmesinde belirlenen edimlerini yerine getiremediğini, işin zamanında bitirilmediğini, eksik imalatların bulunduğunu, eksik imalattan dolayı 95.000,00 TL’lik bonodan kaynaklanan borcunu ödemekten kaçınma hakkının olduğunu ileri sürerek, 20.10.2014 vade tarihli 95.000 TL'lik senedin borçlusu olmadığının tespitine karar verilmesini talep ve dava etmişlerdir.
 
@@ -141,11 +159,15 @@ SONUÇ: Yukarıda (1) numaralı bentte açıklanan nedenlerle davacı vekilinin 
 
 ## Yargıtay 15. HD 2019/699 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/480094900)
+
 Bu nedenle mahkemece yapılacak iş, dairemiz geri çevirme ilamı ile talep edildiği halde gönderilemeyen ... Asliye Hukuk Mahkemesi'nin 1998/173 D. iş sayılı dosyasının getirtilerek meni müdahale davasında ihtiyati tedbirin konulup infaz edildiği tarih ile ihtiyati tedbirin kaldırıldığı tarih arası geçen sürenin araştırılması, davaya konu 03.11.1998 tarihli kat karşılığı inşaat sözleşmesinin 2. maddesinde 31.07.1999 tarihinde inşaatın teslim edileceğinin kararlaştırıldığı bu tarih ile dava tarihi olan 22.12.2003 tarihleri arası yaşanan gecikmeden bu sürenin mahsubu ile gecikme tazminatının hesaplanması, davada fazlaya dair haklar saklı tutulmak kaydı ile şimdilik 5 aylık gecikme tazminatı istendiğinden HMK'nın 26. maddesindeki taleple bağlılık ilkesi ve yukarıda izah edilen usuli kazanılmış hak müessesesi de nazara alınarak hüküm tesis edilmesinden ibarettir.
 
 SONUÇ: Yukarıda 1. bentte açıklanan nedenlerle davalı-birleşen dosya davalısı-k.davacı vekilinin diğer temyiz itirazlarının reddine, 2. bentte açıklanan nedenlerle kararın temyiz eden davalı-birleşen dosya davalısı-k.davacı yararına BOZULMASINA …
 
 ## Yargıtay 20. HD 2018/7815 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/467823300)
 
 Mahkemece davacının talebinin ana yapıdaki mevcut bağımsız bölümlerdeki arsa paylarının düzeltilerek tapuya işletilmesi talebi olup Kadastro Kanununun 41. maddesinde "Kadastro sırasında veya sonrasında yapılan işlemlerle geometrik durumları kesinleşmiş olan taşınmazlarda ölçü, sınırlandırma tersimat ve hesaplamalardan doğan hatalar, ilgilinin müracaatı veya Kadastro Müdürlüğünce re'sen düzeltilir. Düzeltme taşınmaz malikleri ile diğer hak sahiplerine tebliğ olunur.
 
@@ -163,6 +185,8 @@ SONUÇ: Yukarıda açıklanan nedenlerle; davacıların temyiz itirazlarının k
 
 ## Yargıtay 17. HD 2018/4247 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/442379300)
+
 Davacılar vekili; müvekkillerinin; arsa sahipleri dava dışı ... ve ... ile yüklenici ... İnşaat Malzemeleri Oto Emlak Komisyonculuğu Taşımacılık Hayvancılık Turizm Ticaret Limidet Şirketi arasında ... Noterliği'nin 13514 Yevmiye nolu 17/12/2004 tarihli Düzenleme Şeklinde Gayrimenkul Satış Vaadi ve Daire Karşılığı İnşaat Sözleşmesi uyarınca yüklenici müdeahhide düşecek olan 1895 Ada, 4 Parsel'de kayıtlı 2 No'lu bağımsız bölümü yüklenici müteahhitle 10/08/2005 yapılan harici satım sözleşmesiyle satın aldığını ve bedelini yükleniciye ödediğini, müvekkillerinin satın aldığı bu taşınmaza 2005 yılında yerleşmiş ve son 8 yıldır bilfiil kullanmakta olduklarını, satıcı yüklenicinin inşaatı %100 tamamladığı halde gayrimenkulün tapusunu müvekkiline devretmediği için, alacağın temliki hükümleri uyarınca ...
 
 …
@@ -178,6 +202,8 @@ Mahkemece; davalı idarece taşınmazlar üzerine konulan hacizlerin konuluş ta
 SONUÇ: Yukarıda açıklanan nedenlerle davacılar vekilinin temyiz itirazlarının kabulü ile hükmün BOZULMASINA …
 
 ## Yargıtay 14. HD 2018/1495 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/410472400)
 
 Dava, ortaklığın giderilmesi istemine ilişkindir.
 
@@ -197,9 +223,13 @@ SONUÇ: Yukarıda (1) no'lu bentte açıklanan nedenlerle davacı vekilinin temy
 
 ## Yargıtay 8. HD 2017/9892 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/355791500)
+
 Bilindiği üzere; 6100 sayılı HMK'nun 394/1. maddesi hükmüne göre; "Karşı taraf dinlenmeden verilmiş olan ihtiyati tedbir kararlarına itiraz edilebilir.” Aynı maddenin 4. fıkrasına göre "itiraz dilekçeyle yapılır, itiraz eden itiraz sebeplerini açıkça göstermek ve itirazının dayanağı olan tüm delilleri dilekçesine eklemek zorundadır. Mahkeme, ilgilileri dinlemek üzere davet eder, gelmedikleri takdirde dosya üzerinden inceleme yaparak kararını verir. İtiraz üzerine mahkeme, tedbir kararını değiştirebilir veya kaldırabilir” aynı maddenin 5. fıkrasında ise; "İtiraz hakkında verilen karara karşı kanun yoluna başvurulabilir. Bu başvuru öncelikle incelenir ve kesin olarak karara bağlanır...” denilmiştir. 6100 sayılı HMK'nun 341/1. fıkrasında, ilk dereceli mahkemelerden verilen ihtiyati tedbir taleplerinin reddi ve bu taleplerin kabulü halinde, itiraz üzerine verilecek kararlara karşı istinaf yoluna başvurulabileceği belirtilmiştir.
 
 ## Yargıtay 23. HD 2017/2059 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/354984100)
 
 Davacı vekili, davacı ... ile davalı şirket arasında kat karşılığı inşaat sözleşmesi imzalandığını, arsa sahibi belediyenin yapı ruhsat harçlarından muaf olduğu düşüncesi ile yapı ruhsat harcı alınmadan binaya ruhsat verildiğini, daha sonra yapılan müfettiş denetimi ile durumun tespit edildiğini, bu nedenle kamu zararı oluştuğunu, söz konusu zararın oluşmasından itibaren 6183 sayılı Yasa çevresinde işleyecek faizi ile davalıdan tahsiline karar verilmesini talep etmiştir.
 
@@ -214,6 +244,8 @@ Mahkemece iddia, savunma ve tüm dosya kapsamına göre; davacı ... ile davalı
 hükümden sonra kabul edilen KHK'deki tedbir kararına uyum için hükmün HUMK 438/son maddesi uyarınca gerekçesi yukarıdaki şekilde değiştirilmesi suretiyle onanması gerekmiştir.SONUÇ:
 
 ## Yargıtay 19. HD 2017/1446 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/319198200)
 
 Davacı vekili, müvekkilinin babası ... vekaleten dava dışı yüklenici ... İnş. Taah.
 
@@ -230,6 +262,8 @@ Davalının temyiz itirazına gelince mahkemece davacının talebi üzerine İİ
 SONUÇ: Yukarıda (1) nolu bentte açıklanan nedenlerle davacı vekilinin tüm temyiz itirazlarının reddine, (2) nolu bentte açıklanan nedenle kararın davalı yararına BOZULMASINA …
 
 ## Yargıtay 23. HD 2017/1080 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/325631900)
 
 Davacı vekili, arsa sahibi olan müvekkili ile davalılar arasında 25.05.2006 tarihinde arsa payı karşılığı inşaat sözleşmesi imzalandığını, imalatın %57'sinin davalı yükleniciye %43'ünün ise arsa sahibi olan müvekkiline ait olacağının kararlaştırıldığını, yükleniciye tek başına bu sözleşmeyi tapuya şerh verme hak ve yetkisinin verildiğini, şerhin tapuda icra edildiğini, inşaat ruhsatı alındıktan sonra kat irtifakı kurulup sadece yükleniciye ait bağımsız bölümler üzerine şerh verilmesi gerekirken tüm bağımsız bölümler üzerine şerhin geçirildiğini, davalı tarafa şerhin kaldırılması yönünden ihtarname keşide edilmesine rağmen sonuç alınamadığını ileri sürerek, sözleşmeye konu kat irtifakına geçmiş dairelerin her birinin %57'si üzerine konan şerhin davalılar hissesine düşen kısım üzerinden devamına ve müvekkiline ait daireler üzerindeki şerhin ise kaldırılmasına karar verilmesini talep ve dava etmiştir.
 
@@ -249,6 +283,8 @@ SONUÇ: Yukarıda açıklanan nedenlerle, davalılar vekili ile katılma yoluyla
 
 ## Yargıtay 12. HD 2016/6119 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/237453200)
+
 Somut olayda, .... İcra Müdürlüğü'nün 2008/18201 Esas no'lu takip dosyası üzerinden alacaklı ... İnşaat Malz. Tic. A. Ş'nin borçlu şirket hakkında çeke dayalı olarak alınan 11.09.2008 tarihli ihtiyati haciz kararının uygulanmasının istendiği, 12.09.2008 tarihinde kambiyo senetlerine mahsus haciz yolu ile takip başlatıldığı, ancak ödeme emri tebligatının yapılmamış olduğu, takip dosyasının yenilenmesi ile 2013/12143 Esas numarasını aldığı görülmektedir. Her ne kadar icra müdürlüğünce ... Sicil Müdürlüğü'ne ihtiyati haczin uygulanması sürecinde 07.10 2008 tarihinde yazılan ihtiyati haciz yazısına verilen cevapta; borçlu adına kayıtlı taşınmaza rastlanmadığından haciz isteminin reddine karar verildiği bildirilmiş ise de; temyiz dilekçesine eklenen tapu kayıtlarına göre 07.10.2008 tarihinde takip dosyasının eski esası olan 2008/18201 Esas numaradan 14.10.2008 tarih ve 28140 yevmiye ile haciz konduğu görülmektedir. Mahkemece celbedilen ve hükme esas tutulan 21.05.2015 tarihli tapu kayıtlarında ise sözkonusu 14.10.2008 tarih ve 28140 yevmiyeli haczin geçmediği görülmektedir.
 
 …
@@ -257,6 +293,8 @@ SONUÇ : Şikayetçinin temyiz itirazlarının kabulü ile mahkeme kararının y
 
 ## Yargıtay 14. HD 2016/3500 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/222846700)
+
 Dava, yargılamanın iadesi istemine ilişkindir.
 
 …
@@ -264,6 +302,8 @@ Dava, yargılamanın iadesi istemine ilişkindir.
 Yargılamanın yenilenmesini isteyen ... ve 18 arkadaşı 14.11.2013 tarihli dilekçelerinde; Kendilerinin arsa sahibi olduklarını ve davalı şirket ile arsa payı karşılığı inşaat sözleşmesi yapıldığını ancak yüklenici olan şirketin sözleşme gereği edimini yerine getirmediği için .... Asliye Hukuk Mahkemesinin 2013/67 Esası üzerinden ana ve ek sözleşmelerin iptali ve şirket adına kayıtlı 14, 18, 20, 26, 28 ve 29 no'lu bağımsız bölümlerle ilgili tapuların iptali ile arsa sahipleri adına tescili için dava açıldığı, dava konusu bağımsız bölüm kayıtlarına 12.04.2013 tarihli ihtiyati tedbir kararı alındığını ve tedbir kararının 03.06.2013 tarihli ve... yevmiye no'lu işlemle tapu kaydına işlendiğini, dava konusu 14 no'lu bağımsız bölüm hakkında tedbir kararı bulunmasına rağmen hukuka aykırı olarak tedbirin kaldırıldığını ve hak kaybına uğradıklarını ileri sürerek yargılamanın yenilenmesini talep etmişlerdir.
 
 ## Yargıtay 23. HD 2016/1892 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/247483400)
 
 Davacı vekili, 1997 yılından bu yana ev gereçleri, gıda, doğalgaz ve inşaat işleriyle iştigal eden davacı şirketin 2008 yılında yaşanan ekonomik kriz nedeniyle aktiflerinin borçlarını karşılayamaz duruma düştüğünü, iyileştirme projesinin uygulanması durumunda borca batıklıktan kurtulabileceğini ileri sürerek, davacı şirketin iflasının birer yıllık sürelerle toplam üç yıl ertelenmesini talep ve dava etmiştir.
 
@@ -281,6 +321,8 @@ SONUÇ: Yukarıda (1-a, b, c, ve ç) numaralı bentlerde açıklanan nedenlerle,
 
 ## Yargıtay 12. HD 2015/7640 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/177353200)
+
 Öte yandan, takibe her nekadar İzmir 12. Asliye Ticaret Mahkemesi'nin 28.8.2013 tarih ve 2013/390 D.İş sayılı ihtiyati haciz kararı ile başlanmış ve adı geçen mahkemenin 10.10.2013 tarihli kararı ile alacaklı tarafından senedin sol tarafının kesik olarak alındığının ispat edilememesi nedeniyle ihtiyati haciz kararı kaldırılmış ise de; takibin dayanağı 23.01.2013 keşide ve 23.02.2013 vade tarihli, 60.000,00 TL bedelli bono olup, ihtiyati haciz kararının kaldırılmış olması takibin iptalini gerektirmez, sadece konulmuş olan ihtiyati hacizlerin kaldırılması sonucunu doğurur.
 
 …
@@ -288,6 +330,8 @@ SONUÇ: Yukarıda (1-a, b, c, ve ç) numaralı bentlerde açıklanan nedenlerle,
 SONUÇ : Alacaklının temyiz itirazlarının kabulü ile mahkeme kararının yukarıda yazılı nedenlerle İİK'nun 366 ve HUMK’nun 428. maddeleri uyarınca (BOZULMASINA)
 
 ## Yargıtay 8. HD 2015/6410 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/153617300)
 
 Davacı; evlilik birliği içinde edinilen taşınmaz, araç, nakit para, hisse senedi, tahvil vb mal varlığı nedeniyle 01.01.2002 öncesi edinilen mal varlığı yönünden katkı payı ve bu tarihten sonra edinilen mal varlığı yönünden değer artış payı ve katılma alacağı olarak fazlaya ilişkin hakları saklı kalmak kaydıyla 300.000 TL'nin davalıdan tahsili ile mal varlığının üçüncü kişilere devrinin önlenmesi için ihtiyati tedbir isteğinde bulunmuştur.
 

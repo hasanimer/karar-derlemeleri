@@ -22,6 +22,8 @@ uyari: "Derleyenin seçtiği alıntılardır; kararın tamamı değildir. Künye
 
 ## Yargıtay 6. HD 2024/4269 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1112021200)
+
 İlk derece mahkemesince, yüklenicinin edimini yerine getirmesine rağmen davalı arsa sahiplerinin bağımsız bölüm tapularını davacılara geçirmediği gerekçesi ile asıl davanın kabulüne, tapu iptali ve tescili talep edilen bir kısım taşınmazlar yargılama sırasında devredildiğinden bu taşınmazlar bakımından dava konusuz kaldığından karar verilmesine yer olmadığına, diğer bağımsız bölümler yönünden devir koşulları gerçekleştiği gerekçesi ile birleşen davanın kabulüne karar verilmiştir.
 
 …
@@ -33,6 +35,8 @@ Dava arsa payı karşılığı inşaat sözleşmesi uyarınca yüklenici temliki
 SONUÇ: Yukarıda (1) no.lu bentte açıklanan nedenlerle asıl ve birleşen davada davalı ... ... vekili, ... vekili, ... mirasçıları vekilinin diğer temyiz itirazlarının reddine, (2) no.lu bentte açıklanan nedenlerle asıl ve birleşen davada davalı ... ... vekili, ... vekili, ... mirasçıları vekilinin diğer temyiz itirazlarının kabulü ile kararın BOZULMASINA …
 
 ## Yargıtay 6. HD 2024/2520 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1085777700)
 
 Davacı vekili dava dilekçesinde özetle; davacı arsa sahibi ile davalı yüklenici arasında 21.08.2017 tarihinde imzalanan arsa payı karşılığı inşaat sözleşmesi uyarınca,...Mahallesi 1615 ada 51 parsel sayılı taşınmaza yapılacak binalardan sekiz adet bağımsız bölümün davacıya verileceğini, sözleşmeye göre bağımsız bölümlerin yapı ruhsatının alınmasından sonra on iki ay içinde davacıya teslim edileceğini, aksi takdirde davalının her bir daire için 1.000,00 TL ödemeyi taahhüt ettiğini, ancak bağımsız bölümlerin süresinde teslim edilmediğini, 01.06.2019 tarihinden 15.08.2020 tarihine kadar olan dönem için gecikme tazminatı ödenmesi gerektiğini ileri sürerek, 112.000,00 TL gecikme tazminatının aylık ödeme tarihlerinden itibaren yasal faizi ile birlikte davalıdan tahsilini talep etmiştir.
 
@@ -52,6 +56,8 @@ Mahkemece yapılacak iş, arsa sahibince teslim tarihinin en geç 01.06.2019 olm
 
 ## Yargıtay 6. HD 2024/2325 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1095565600)
+
 Davacı vekili dava dilekçesinde özetle; arsa sahibi davalı ... ve diğer davalıların murisi ... ile yüklenici olan müvekkili arasında 27.05.2005 tarihinde imzalanan arsa payı karşılığı inşaat sözleşmesine göre müvekkiline %50 arsa payının devredilmesi gerektiğini, müvekkilinin binayı tamamlama edimini yerine getirdiğini, davalıların 8 yılı aşkındır binada oturduklarını, kat mülkiyetinin kurulması için 15.05.2009 tarihli ihtarname gönderdiklerini, davalıların işlem yapmaya yanaşmadıklarını, sözleşmede davalıların edimlerini yerine getirmemesi halinde cezai şart öngörüldüğünü ileri sürerek, tapuda davalı ... adına kayıtlı hissenin 16/800 hissesi, davalı ... adına kaytlı hissenin 8/800 hissesi ile diğer davalılar adına kayıtlı hisselerin ayrı ayrı 3/800 hissesinin iptali ile müvekkili adına kaydı ile şimdilik 1.000,00 TL cezai şartın tahsilini talep etmiştir.
 
 …
@@ -70,6 +76,8 @@ Davalılar vekillerinin Bölge Adliye Mahkemesi kararına yönelik temyiz itiraz
 
 ## Yargıtay 6. HD 2023/3825 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/990861500)
+
 Davacı arsa sahipleri vekili dava dilekçesinde özetle, taraflar arasında imzalanan 07.04.2006 tarihli arsa payı karşılığı inşaat sözleşmesine konu inşaatın bitirilmediğini ve dairelerin teslim edilmediğini, yapı denetim ücreti ödeme yükümlülüğünün davalıya ait olduğunu, eksik işler olduğuna dair delil tespiti yaptırıldığını, davalının davacılara düşen daireleri danışıklı şekilde sattığını ve kiraya verdiğini ileri sürerek, sözleşmenin ileriye etkili feshi ile yüklenicinin edimine göre devri gereken bağımsız bölümün tespitini, müdahalenin men'ini, fazlaya ilişkin hakları saklı kalmak kaydıyla ... için 5.000,00 TL, ... için 2.000,00 TL kira bedelinin ve sözleşmenin feshi nedeniyle 2.000,00 TL müspet zarar ve ayıplı işler bedelinin tahsilini talep ve dava etmiş, ıslah yoluyla talebini 658.648,75 TL'ye yükseltmiştir., …
 
 …
@@ -85,6 +93,8 @@ Diğer taraftan arsa sahibi Ülviye yönünden yapılan incelemede, Ülviye'nin 
 Yapılan yargılamaya, toplanan delillere ve dosya içeriğine göre, mahkeme kararı ve dayandığı gerekçeler usul ve yasaya uygun bulunduğundan hükmün BOZULMASINA …
 
 ## Yargıtay 6. HD 2023/3816 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/989466100)
 
 İlk Derece Mahkemesince bozmaya uyularak yeniden yapılan yargılama sonucunda; Birleşen 2005/276, 2008/374, 2010/250, 2010/332 Esas sayılı davaların reddine, Birleşen 2015/194 Esas sayılı davanın kabulüne karar verilmiştir.
 
@@ -107,6 +117,8 @@ Somut olayda, ek sözleşmenin 3. maddesinde uzatılan teslim tarihine kadar isk
 Temyiz olunan Mahkeme kararının 1.bentte açıklanan nedenlerle BOZULMASINA …
 
 ## Yargıtay 6. HD 2023/2838 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/947060900)
 
 İlk Derece Mahkemesi kararı davalı vekili tarafından duruşmasız, davacı vekili tarafından duruşma istemli temyiz edilmekle; kesinlik, süre, temyiz şartı ve diğer usul eksiklikleri yönünden yapılan ön inceleme sonucunda, 19.09.2023 tarihinde duruşma yapılmasına ve duruşma gününün taraflara davetiye ile bildirilmesine karar verilmiştir.
 
@@ -131,6 +143,8 @@ Temyiz olunan Bölge Adliye Mahkemesi kararının 6100 sayılı Kanunun 370 nci 
 
 ## Yargıtay 6. HD 2023/590 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/891092600)
+
 Davacı-birleşen davalı arsa sahibi vekili istinaf dilekçesinde, bilirkişilerce asansör fiyatından %25 indirim yapılmasının hatalı olduğunu, raporda bir kısım eksik ve ayıpların dile getirilmediğini, yapılmayan kapalı otopark bedelinden meydana gelen kazancın arsa sahibine verilmesi gerektiğini, doğalgaz tesisatı yapılmış ve sayaçlar takılmış vaziyette teslim gerektiğini, davacının 7 daire için 2.973,60 TL doğalgaz bağlantı bedeli ödediğini, doğalgaz proje çizimi, sayaç eksikleri ve gaz açılışının yapılmadığını, çamaşır odası için daire başı 450,00 TL hesabın düşük olduğunu, daire başı 3.500,00 TL'den 28.000,00 TL gibi bir rakam çıktığını, engelli rampası yapımı için 500,00 TL hesaplandığını, 1.000,00 TL olması gerektiğini belirterek yerel mahkeme kararının kaldırılmasına karar verilmesini istemiştir.
 
 Davalı-birleşen davacı yüklenici vekili istinaf dilekçesinde, bilirkişi raporunda esaslı hatalar bulunduğunu, itiraz edildiğini, bilirkişi kök raporu ve ek raporunda, 7.sayfa son paragrafta ısrarla noter sözleşmesi 16/1 maddesinde Otis veya muadili marka asansör yazdığının belirtildiğini, bu husususun açıkça hatalı olduğunu, Sözleşmesinin 16.1 maddesi incelendiğinde bilirkişi beyanının aksine, "..Otis, Elsa veya muadili marka TSE belgeli asansör..." yazdığını, Elsa asansör fiyatının 60.000,00 TL olduğunu, Elsa asansör muadili olarak montajı yapılan Toker marka asansörün 66.670,00 TL olduğunu, sözleşmeye uygun olarak Elsa asansöre muadil asansör kullanıldığını, asansörün ayıplı olmadığını, asansör için konulan 35.174,00 TL tazminat kararının doğru olmadığını, arsa sahibinin imzası ile tadilat projesi hazırlandığını, proje muellifi mimar ...'nun davacı tanığı olarak 28.01.2016 tarihli duruşmadaki beyanında tadilat projesinin 20 gün ila 3 aylık süre içinde belediyeden onayının çıkabileceğini beyan ettiğini, dava konusu inşaatın 30.09.2014 tarihinde tutanak ile arsa sahibi davacıya teslim edildiğini, 2014 yılı Haziran ayında hak sahiplerinin kullanımının başladığını, abonelik tesis
@@ -146,6 +160,8 @@ kararının kaldırılmasına, asıl davanın reddine, sözleşme dışı işler
 Temyiz olunan Bölge Adliye Mahkemesi kararının BOZULMASINA …
 
 ## Yargıtay 6. HD 2021/706 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/703255700)
 
 Dava, eser sözleşmesinin bir türü olan gayrimenkul satış vaadi ve kat karşılığı inşaat sözleşmesinden kaynaklanmakta olup, sözleşmenin süresinde ifa edilmemesi sebebiyle kira kaybının tahsili istemine ilişkindir.
 
@@ -164,6 +180,8 @@ SONUÇ: Yukarıda 1. bette açıklanan nedenlerle davalının diğer temyiz itir
 
 ## Yargıtay 23. HD 2021/257 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/631449000)
+
 Davacı vekili, müvekkilinin davalı kooperatif üyesi olduğunu, kooperatif ile arsa sahibi diğer davalılar arasında imzalanan arsa payı karşılığı inşaat sözleşmesiyle, taşınmaz üzerinde inşa edilen bağımsız bölümlerin, arsa sahiplerine ve ferdileşme yoluyla kooperatif üyelerine teslim edildiği halde borcu olduğu gerekçesiyle müvekkilinin tapusunun verilmemesi üzerine açtığı menfi tespit davasının, müvekkili lehinde sonuçlandığını ileri sürerek, müvekkiline isabet eden zemin kat 2 no'lu bağımsız bölümün müvekkili adına tapuya tescilini talep ve dava etmiştir.
 
 Davalı ... vekili, arsa sahibi olarak davacıya bir taahhütleri olmadığını, aralarında hukuki bir ilişki bulunmadığını savunarak, davanın reddini istemiştir.
@@ -178,6 +196,8 @@ SONUÇ: Yukarıda açıklanan nedenlerle davacı vekilinin tüm temyiz itirazlar
 
 ## Yargıtay 15. HD 2020/3210 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/623900600)
+
 Dava, arsa payı karşılığı inşaat yapım sözleşmesinden kaynaklanmış olup, sözleşmeye aykırılık nedeniyle eksik ve kusurlu işler giderim bedeliyle gecikme tazminatı alacağının tahsili istemine ilişkindir.
 
 …
@@ -189,6 +209,8 @@ Bu durumda mahkemece, HMK’nın 31. maddesinde düzenlenen, “Hakimin davayı 
 SONUÇ: Yukarıda 1. bentte açıklana nedenlerle tarafların diğer temyiz itirazlarının reddine, 2. bent uyarınca kabulü ile hükmün taraflar yararına BOZULMASINA …
 
 ## Yargıtay 15. HD 2020/2518 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/600392100)
 
 Birleşen davada arsa sahibinin talebiyle ilgili olarak "...verilen sürede inşaat bitirilemez ise günün rayiç kira değeri üzerinden 5 daire 1 dükkan için gecikme cezası mal sahibine ödenecektir. Bugün itibariyle bir dairenin rayiç kira bedeli 350,00, 400,00 TL'dir." şeklinde düzenleme yapılmıştır. Söz konusu sözleşme hükmü yerel mahkemece gecikme cezası olarak nitelendirilmiş ise de; her ay için kararlaştırılan ödenmesi gerekli ceza miktarı belirtilmediği ve tarafların amacı gözetildiğinde sözleşme tarihinde yürürlükte bulunan 818 sayılı Borçlar Kanunu'nun 158/II. maddesindeki ifaya ekli ceza değil, aynı Yasa'nın 106/II. ve dava tarihi itibariyle yürürlüğe girmiş bulunan 6098 sayılı TBK'nın 125/I. maddesinde tanımlanan gecikme tazminatı olduğunun kabulü gerekir.
 Gecikme tazminatının istenebilmesi için teslimde ihtirazî kayıt konulmasına gerek olmayıp fiilen teslim yapılmış olsa dahi yapı kullanma izin belgesi alma yükümlülüğünün yükleniciye bırakıldığı hallerde bağımsız bölüm ya da bölümleri teslim alan arsa sahibi yapı kullanma izin belgesi alınmamış bağımsız bölümleri kullanmaya veya kira vermeye zorlanamayacağından fiilen teslim aldığı bağımsız bölümlerin dahi yapı kullanma izin belgesi alıncaya karar gecikme tazminatını isteyebilcektir.Sözleşmede yüklenicinin ön iskanı alacağı kararlaştırılmış olup, yüklenici şirket arsa sahibinin fiilen teslim aldığı bağımsız bölümlerin bir kısmının kullanıldığını savunmuş, mahkemece 04.12.2014 tarihli duruşmada ara kararının 2 ve 3. maddeleri ile bu konuda araştırma yapılmasına karar verilmiş olmasına rağmen yazı cevapları beklenmeden ve sözleşmede kararlaştırılanın gecikme cezası olup ihtirazi kayıt ileri sürmeksizin arsa sahibince bağımsız bölümlerin teslim alındığı ve bunun sonucu olarak cezai şart talep edilemiyeceği gerekçesiyle arsa sahibinin birleşen davası reddedilmiştir.Bu durumda mahkemece hesaplanan eksik işlerin giderim bedeline arsa sahibi tarafından yapılan ve istenebilecek olan iskan
