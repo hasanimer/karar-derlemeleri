@@ -25,9 +25,13 @@ Belirtilen bu yasal düzenlemeler ve 6100 sayılı Kanun döneminde temyiz yolu 
 
 ## Yargıtay 11. HD 2025/7367 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1198571300)
+
 6325 sayılı Hukuk Uyuşmazlıklarında Arabuluculuk Kanunu'nun 18/B maddesine göre ise, kiralanan taşınmazların 2004 sayılı Kanuna göre ilamsız icra yoluyla tahliyesine ilişkin hükümler hariç olmak üzere, kira ilişkisinden kaynaklanan uyuşmazlıklar, taşınır ve taşınmazların paylaştırılmasına ve ortaklığın giderilmesine ilişkin uyuşmazlıklar, 23.06.1965 tarihli ve 634 sayılı Kat Mülkiyeti Kanunundan kaynaklanan uyuşmazlıklar, komşu hakkından kaynaklanan uyuşmazlıklar hakkında dava açılmadan önce arabulucuya başvurulması bir dava şartı olarak kabul edilmiştir.
 
 ## Yargıtay 3. HD 2025/3048 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1155987500)
 
 Öte yandan, 6098 sayılı Kanun 350/son maddesine göre belirli süreli konut ve çatılı iş yeri kira sözleşmelerinde ihtiyaç (gereksinim) sebebiyle tahliye davalarının, sözleşme süresinin sonunda, belirsiz süreli sözleşmelerde ise kiraya ilişkin genel hükümlere göre fesih dönemine ve fesih bildirimi için öngörülen sürelere uyularak belirlenecek tarihten başlayarak açılabileceği emredici şekilde düzenlenmiş olup, bu husus kamu düzenine ilişkindir. Belirli süreli kira sözleşmelerinde, sözleşme süresi sona ermeden, belirsiz süreli sözleşmelerde ise kiraya ilişkin genel hükümlere göre fesih dönemine ve fesih bildirimi için öngörülen sürelere uyularak belirlenecek tarihten önce kiraya veren kiracıdan dava yolu ile ihtiyaç nedeniyle tahliye isteminde bulunulamayacağı halde bu süreler öncesinde açılacak bir dava, süresinde açılmış bir dava olarak kabul edilmeyeceğine göre, dava şartı olarak arabuluculuğa başvuruda bulunabilmek için de öncelikle uyuşmazlığın doğması, yani kira sözleşmesinin süresinin sona ermesi ve kiraya verenin tahliye davası yolu ile tahliye isteminde bulunma hakkının doğması gerekir.
 Aksi takdirde henüz tahliye davası açma hakkı bulunmayan kiraya verenin kira süresinin sona ermesinden çok öncesinde dava şartı arabuluculuk başvurusunda bulunduğu durumda bu başvuru tarihi itibariyle şartlarına göre tahliye etmeyi kabul etmeyen kiracının anlaşmamaya ilişkin son tutanağın düzenlenmesi sonrasında sürenin sona ermesine kadar aradan geçen sürede şartlarının değişmesiyle süre bitimi itibariyle tahliyeyi gerçekleştirdiğinde dava açma hakkı doğmadan erken yapılan ve olumsuz olarak neticelenen dava şartı arabuluculuk faaliyeti işlevsiz hale gelecektir. Kiraya verenin tahliye davası açma hakkının doğduğu andan itibaren arabuluculuğa başvurusu ile
@@ -36,13 +40,19 @@ arabuluculukta geçen süre bakımından dava açma hakkının kullanım süresi
 
 ## Yargıtay 9. HD 2025/1987 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1120977700)
+
 Dava açılmadan önce arabulucuya başvurulmuş, sürecin anlaşamama ile sonuçlanması üzerine 17.12.2018 tarihli son tutanak dava dilekçesine eklenerek somut dava açılmıştır. Arabuluculuk faaliyeti tarafların anlaşamadığına ilişkin düzenlenen son tutanak tarihinden önce muaccel olan alacaklar için gerçekleştirilmiştir. Hükme esas alınan ve davacının ıslahına dayanak oluşturan bilirkişi ek raporunda; dava konusu alacaklara ilişkin hesaplama, arabuluculuk son tutanak tarihi aşılarak 31.12.2018 tarihine kadar yapılmıştır. Arabuluculuk son tutanak tarihinden sonra muaccel hâle gelen talep dönemi için arabuluculuk dava şartının yerine getirilmediği dikkate alındığında, bu dönem yönünden davanın dava şartı yokluğu sebebiyle usulden reddine karar verilmesi gerekirken yazılı şekilde hüküm kurulması hatalıdır.
 
 ## Yargıtay 9. HD 2024/9409 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1053784400)
+
 2\. 7036 sayılı Kanun'un 3 üncü maddesinin birinci fıkrasında; kanuna, bireysel veya toplu iş sözleşmesine dayanan işçi veya işveren alacağı ve tazminatı ile işe iade talebiyle açılan davalarda, arabulucuya başvurulması dava şartı olarak kabul edilmiş olup maddenin ikinci fıkrasında ise arabulucuya başvurulmadan dava açıldığının anlaşılması hâlinde herhangi bir işlem yapılmaksızın dava şartı yokluğu sebebiyle davanın usulden reddine karar verileceği düzenlenmiştir.
 
 ## Yargıtay 11. HD 2023/5044 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/968079400)
 
 Bölge Adliye Mahkemesinin yukarıda tarih ve sayısı belirtilen kararında, 6102 sayılı Kanun'un 408 inci maddesinin birinci fıkrasının (d) bendine göre anonim şirketlerde finansal tablolara, yönetim kurulunun yıllık raporuna, yıllık kâr üzerinde tasarrufa, kâr payları ile kazanç paylarının belirlenmesine, yedek akçenin sermayeye veya dağıtılacak kâra katılması dâhil, kullanılmasına dair kararların alınmasının şirket genel kurulunun yetkisinde olduğu, davacıların kira alacağının, satılan demirbaş bedellerinin paydaşlara payları oranında dağıtılması istemlerinin kâr payı kapsamında değerlendirilmesi gerektiği, dava açılmadan evvel yapılan genel kurullarda ortaklara kâr payı dağıtılması konusunda herhangi bir kararın alınmadığı, davadan evvel kâr payı dağıtılması konusunda gündem oluşturularak bir toplantı da yapılmadığı, 01.07.2020 tarihinde yapılan genel kurulda alınan kararların iptali için açılan davanın eldeki davanın açılmasından sonra yapılan genel kurul kararının iptali istemiyle açılmış olduğu, bu sebeple bekletici mesele yapılmasına gerek olmadığı, davacıların kâr payı dağıtımı yapılması talepli genel kurul kararı alınmasını sağlayıcı yola başvurmadan mahkemeden genel kurul
 yerine geçerek karar verilmesini talep ettikleri anlaşıldığından davacılar vekilinin istinaf nedenlerinin yerinde görülmediği, davalı vekilinin istinafına gelince; davacıların arabulucuya başvurusu neticesinde, arabulucu tarafından davalı şirketin münferit yetkilisi ...' ye 0544 ... numaralı telefondan ulaşıldığı
@@ -80,6 +90,8 @@ Davacı tarafça eksik iş ve ayıplar ile kira kaybı talepleri bakımından ay
 
 ## İstanbul BAM 44. HD 2026/564 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1203827300)
+
 5/A ile konusu bir miktar paranın ödenmesi olan alacak ve tazminat talepleri hakkında arabuluculuk dava şartı olarak düzenlendiği, ancak işbu davanın malın iadesi davası olup, arabuluculuk dava şartının aranmadığı, taraflar arasında Beyoğlu ...Noterliğinde 11.07.2011 tarih,... yevmiye ve ... sözleşme numaralı finansal kiralama sözleşmesi akdedildiği, sözleşme konusu malların davalı kiracıya teslim edildiği, davalı tarafından muaccel kira borcunun ödenmemesi üzerine Beşiktaş ... Noterliğinin 26/10/2018 tarih ve ..., ..., ..., ..., ... ve ... yevmiye numaralı ihtarnameleri gönderildiği, ihtarnamenin , davalının finansal kiralama sözleşmesinde belirtilen adresine usulüne uygun şekilde tebliğ edildiği, davalının kendisine verilen 60 günlük süre içinde ihtarnamede belirtilen borcu ödenmediği, davalı tarafından davacıya ait kayıt ve belgelerin aksine kira borcunun ödendiği borcun
 
 bulunmadığının geçerli yazılı delil ile ispatlanamadığı bu hali ile, davalının süresinde kira borcunu ödemediği temerrüde düştüğü, verilen 60 günlük sürenin dolduğu tarihi itibariyle sözleşmenin haklı nedenle feshedildiği, sözleşme konusu malların bedelinin tahsili için icra takibi başlatılmış olmasının, sözleşmenin haklı nedenle feshine engel olmadığı,6361 sayılı kanunun 32.md ve 33.md uyarınca davalı kiracının malı iade etme yükümlülüğü bulunduğu anlaşılmakla davacı tarafın davasının kabulü yönünde verilen kararda aykırılık bulunmadığı anlaşıldığından davalının istinaf isteminin reddine karar vermek gerekmiştir.Dosyadaki belgelere, duruşma sürecini yansıtan tutanaklar ve gerekçe içeriğine göre, İlk Derece Mahkemesi kararında davanın esasıyla ilgili tarafların gösterdiği hükme etki edecek tüm delillerin toplandığı, kanunun olaya uygulanmasında ve gerekçede hata edilmediği, ihtilafın doğru olarak tanımlandığı, kararın usul ve yasaya uygun olduğu anlaşıldığından davalının yerinde bulunmayan istinaf başvurusunun 6100 Sayılı HMK'nın 353/1-b/1. maddesi gereğince esastan reddine karar verilmesi gerektiği kanaat ve sonucuna varılarak aşağıdaki hüküm kurulmuştur.
@@ -97,6 +109,8 @@ gerektiğini, bu şartların mevcut olmadığını, yine davacının müvekkilin
 Her ne kadar önceki Yargıtay kararlarında açılan dönem için süresinde olmayan kira tespit davalarında davacı taraftan sorularak talep etmesi halinde sonraki dönem kirasının tespit edilebileceği açıklanmış ise de kira tespit davalarının 01.09.2023 tarihinden itibaren zorunlu arabuluculuk kapsamında olduğu ve somut olayda sonraki dönem için arabuluculuk yapılmadığı anlaşılmakla bu içtihatların somut olayda uygulanması mümkün değildir.
 
 ## Sakarya BAM 7. HD 2026/226 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1198018900)
 
 Eldeki davada, mahkemece; öncelikle taraflar arasındaki sözleşmenin niteliği ve uyuşmazlığın hukuki mahiyetinin belirlenmesinin gerektiği anlaşılmaktadır. Özellikle davacı tarafından kiralanan iş makinelerinin şoförlü mü yoksa şoförsüz mü kiralandığı, dolayısıyla ilişkinin salt bir kira sözleşmesi mi yoksa hizmet unsuru içeren bir sözleşme mi olduğu hususunun ortaya konulmasının gerektiği değerlendirilmiştir. Bu belirleme yapılmadan uyuşmazlığın ticari dava niteliğinde olup olmadığı ve zorunlu arabuluculuğa tabi bulunup bulunmadığı konusunda sağlıklı bir değerlendirme yapılmasının mümkün olmadığı, zorunlu arabuluculuğa ilişkin değerlendirime yapılabilmesi için öncelikle uyuşmazlığın hukuki niteliğinin açıklığa kavuşturulmasının gerekmektedir. Yargıtay'ın yerleşik içtihatları uyarınca araç kiralama sözleşmeleri şoförlü olduğu taktirde hizmet alım sözleşmesi, şoförsüz olduğu taktirde kira sözleşmesi niteliğindedir. Uyuşmazlık kira sözleşmesi kapsamında kaldığında da görevli mahkeme Sulh Hukuk Mahkemesidir.
 Sözleşmenin niteliği ve mahkemenin görevi belirlenmeden, bu kapsamda tarafların iddia ve savunmaları alınmadan verilen kararın bu haliyle usul ve yasaya aykırı olduğu anlaşılmıştır.
@@ -122,6 +136,8 @@ Kanunun 353. maddesi uyarınca; kiraya veren, daha önce veya en geç davanın a
 
 ## Antalya BAM 4. HD 2025/1198 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1194725400)
+
 Bu duruma göre; her ne kadar davacının müracaatı üzerine yapılan arabuluculuk görüşmesi esnasında ibraz edilen uzun süreli kira sözleşmesi ile davalı ... Ltd. Şti. adına tescilli ... plakalı aracın diğer davalı ... A.Ş.ye kiralandığı anlaşılmış ise de; Arabuluculuk Kanunu'nun yukarıda belirtilen düzenleme karşısında arabuluculuk aşamasında elde edilen belgeler ile beyanların daha sonradan dava aşamasında kullanılamayacağı sabit olup, davacı tarafından araç işleteni olmadığını bilerek davalı ... Ltd. Şti. aleyhine dava açıldığından söz edilemeyeceğinden bu davalı lehine vekalet ücretine yer olmadığına dair hüküm kurulmasında bir isabetsizlik bulunmamaktadır.
 
 ## İstanbul BAM 55. HD 2025/4853 K.
@@ -132,6 +148,8 @@ Temsil olunan, yetkisiz temsilcinin yaptığı işlemleri onayabilir. Bu durumda
 Onama, geçmişe etkili sonuçlar doğurur. Böylece onama, yetkisiz olarak yapılan sözleşmeyi sanki baştan itibaren temsil yetkisi varmış gibi geçerli hâle getirir. Davaya dayanak kira sözleşmesinin 10/06/2009 başlangıç tarihli 1 yıl süreli olduğu, davacı tarafından Kartal Noterliği'nin 19/02/2024 tarihli davalıya keşide edilen ihtarname ile, TBK'nın 347. maddesine göre öngörülen sürenin dolduğunun bildirildiği, taşınmazın tahliye edilmesinin istendiği, ihtarnamenin davalıya 21/02/2024 tarihinde tebliğ edildiği, 10/06/2024 tarihinde zorunlu ara buluculuğa başvurulduğu, davanın 05/07/2024 tarihinde açıldığı anlaşılmıştır.
 
 ## İstanbul BAM 9. HD 2025/2217 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1185561600)
 
 Şti. arasında düzenlenen “Çöp Toplama, Nakli ve Kent Temizliği İçin Araç Kiralama” hizmetine ait sözleşmenin 20.maddesine göre belediyenin denetleme ve kontrol yetkisi bulunduğu ve kazaya kusuru ile sebebiyet veren çöp kamyonu sürücüsünün davalı belediyenin çalışanı olduğu anlaşıldığından KTK'nın 85 ve 91. maddeleri ile TBK'nın 162 ve 163. maddelerindeki düzenlemeler gereğince davalı belediye ile araç maliki olan hizmet sözleşmesi gereği çöp toplama faaliyetini yürüten ... İnş. San. ve Dış Tic. Ltd. Şti. ve araç sürücüsü tazminattan müştereken ve müteselsilen sorumlu olacaktır.Anayasa Mahkemesi'nin 2023/160 E, 2024/77 K. sayılı ve 14/03/2024 tarihli kararıyla, 6325 sayılı Kanunun 18/A maddesinin 11. fıkrası kısmen iptal edilmiş ve fıkranın birinci cümlesinde yer alan "... bu taraf davada kısmen veya tamamen haklı çıksa bile yargılama giderinin tamamından sorumlu tutulur." ibaresi ile fıkranın "Ayrıca bu taraf lehine vekâlet ücretine hükmedilmez." şeklindeki ikinci cümlesi Anayasa'ya aykırı bulunarak iptaline ve kararın RG'de yayımlanmasından başlayarak dokuz ay sonra yürürlüğe girmesine karar verilmiştir. Söz konusu iptal kararı 18/4/2024 tarihli RG'de yayınlanmıştır.
 Bu karar yürürlüğe girmeden önce 07/11/2024 tarihli ve 7531 sayılı Kanunun 25. maddesinde 6325 sayılı Kanunun 18/A maddesinin 11. fıkrası, "Taraflardan birinin geçerli bir mazeret göstermeksizin ilk toplantıya katılmaması sebebiyle arabuluculuk faaliyetinin sona ermesi durumunda toplantıya katılmayan taraf, son tutanakta belirtilir ve bu taraf davada kısmen veya tamamen haklı çıksa bile karşı tarafın ödemekle yükümlü olduğu yargılama giderlerinin yarısından sorumlu tutulur. (Değişik ikinci cümle: 7/11/2024-7531/25 md.) Ayrıca bu taraf lehine AAÜT'ne göre belirlenen vekâlet ücretinin yarısına hükmedilir (son cümlesinde değişiklik yapılmamıştır). Her iki tarafın da ilk toplantıya katılmaması sebebiyle sona eren arabuluculuk faaliyeti üzerine açılacak davalarda tarafların yaptıkları yargılama giderleri kendi üzerlerinde bırakılır." şeklinde değiştirilmiştir. Söz konusu değişiklik 14/11/2024 tarihli RG'de yayımlanarak yürürlüğe girmiş olup, bir usul hükmü olduğundan, derhal uygulanması gerekmektedir.

@@ -22,5 +22,7 @@ uyari: "Derleyenin seçtiği alıntılardır; kararın tamamı değildir. Künye
 
 ## Yargıtay 6. HD 2015/1173 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/145898900)
+
 Davada dayanılan ve hükme esas alınan 15.05.2008 başlangıç tarihli, **10 yıl süreli** ve aylık 23.000 TL bedelli kira sözleşmesi konusunda taraflar arasında uyuşmazlık bulunmamaktadır.Mahkemece hükme esas alınan bilirkişi raporunda son ödenen net 23.000 TL'nin brütünün 27.000 TL olduğu bildirilerek, bu rakama sadece 2013 yılı Mayıs ayına ilişkin Üfe oranı eklenmek suretiyle 15.05.2013 tarihinden itibaren kira bedelinin aylık brüt 28.027,48 TL olacağı bildirilmiştir. **Tespiti istenen dönem sözleşme süresi içindeki 6. dönemdir**. Sözleşmenin özel koşullarının 10. maddesinde; "Kira tutarı kira başlangıç tarihinden itibaren aynı dönemin geriye doğru oniki aylık DİE enflasyon rakamları olan ÜFE+TÜFE/2 oranında arttırılarak ikinci yılın kirası belirlenecektir.
 Diğer yıllarda aynı şekilde kira artışı uygulanacaktır." şeklinde ifade edilen artış şartı mevcuttur. **Davada kira sözleşmesinin 10 yıl süreli oluşu ve kira parasının bu süre içerisinde ne oranda artırılacağı kararlaştırıldığına göre; bu koşul gözönünde bulundurulmak ve her yıl kademeli olarak yapılacak artış suretiyle kira bedeli saptanarak sonucuna göre karar verilmesi gerekirken**, yazılı şekilde karar verilmesi doğru görülmemiştir.

@@ -36,4 +36,6 @@ Temyizen edilen kararın dayandığı bilgi ve belgelere, taraflar arasında 01.
 
 ## Yargıtay 3. HD 2025/1346 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1154513800)
+
 … davacı tarafça dava açıldığı tarihteki mevzuat ile Yargıtay Hukuk Genel Kurulunun 11.05.2011 tarihli ve 2011/1-331 E., 2011/308 K. sayılı ilamı gereği davacının dava tarihi itibariyle göre tespit talebinde bulunmakta haklı olduğu, bu kapsamda dava açıldıktan sonra yürürlüğe giren ve **geçmişe etkili yasa değişikliği gereği tespit davasının kabul edilmemesi nedeniyle haksız çıkmasına rağmen yargılama giderlerinden sorumlu tutulamayacağı** kuşkusuzdur.

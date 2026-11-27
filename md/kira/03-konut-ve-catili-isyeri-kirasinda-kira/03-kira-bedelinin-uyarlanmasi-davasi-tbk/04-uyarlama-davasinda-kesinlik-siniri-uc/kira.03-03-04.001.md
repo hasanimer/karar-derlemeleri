@@ -21,6 +21,8 @@ uyari: "Derleyenin seçtiği alıntılardır; kararın tamamı değildir. Künye
 
 ## Yargıtay 3. HD 2025/475 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1121828800)
+
 HMK'nın 362. maddesinin birinci fıkrasının b bendinde kira ilişkisinden kaynaklanan alacak davaları dışındaki davalardan **üç aylık kira tutarı temyiz sınırının altında kalan davalarda** verilen kararlar hakkında temyiz yoluna başvurulamayacağı belirtilmiştir.
 
 ## Yargıtay 3. HD 2025/2802 K.

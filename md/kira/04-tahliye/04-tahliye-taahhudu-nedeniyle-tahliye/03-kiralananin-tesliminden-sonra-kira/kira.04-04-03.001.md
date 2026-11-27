@@ -44,6 +44,8 @@ olarak kabulü zorunludur. Kiralananın tesliminden önce veya kira sözleşmesi
 
 ## Yargıtay 3. HD 2025/1108 K. (kanun yararına bozma)
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1143834000)
+
 Somut olayda; tahliye taahhütnamesi 16.05.2022 tarihinde düzenlenmiş olup, düzenleme tarihi itibariyle kiracılık ilişkisi mevcuttur. Davalı, tanzim tarihinin belgeye sonradan yazıldığını ve gerçeği yansıtmadığını ileri sürmüş ise de, **bu iddiasını aynı ispat gücüne haiz başka bir belge ile kanıtlamakla yükümlü** olan davalı bu yönde bir delil sunmamıştır.
 
 ## Yargıtay 3. HD 2025/5401 K.

@@ -23,14 +23,20 @@ uyari: "Derleyenin seçtiği alıntılardır; kararın tamamı değildir. Künye
 
 ## Yargıtay 6. HD 2014/12117 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/306835900)
+
 Davaya konu 7-8-10 nolu dükkanların 2012 yılında yapılan kiralama ihalesine ilişkin evraklar dosya arasında bulunmakla birlikte 05/05/2009 başlangıç tarihli kira sözleşmesinin 2886 Sayılı Devlet İhale Kanunu hükümleri uyarınca yapılan ihale sonucunda kiralandığına ilişkin belgeler dosya arasında bulunmadığından, varsa 2009 yılında yapılan ihale ile ilgili evrakların ilgili kurumdan istenerek dosyasına eklenmesi ve ondan sonra gönderilmesi için dosyanın mahalline GERİ ÇEVRİLMESİNE, 06.11.2014 tarihinde oybirliğiyle karar verildi.
 
 ## Yargıtay 6. HD 2014/11338 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/305948700)
 
 Davada hükme esas alınan 14.06.2007 başlangıç tarihli ve 3 yıl süreli kira sözleşmesi konusunda taraflar arasında bir uyuşmazlık bulunmamaktadır.Kiralananın 2886 sayılı Devlet İhale Kanun'u hükümlerine göre kiraya verildiği anlaşılmaktadır Bu sözleşmenin 14. maddesinde “kira süresinin sona ermesi veya sözleşmenin feshi halinde taşınmaz idareye teslim edilmez ise,geçen her gün için cari yıl kira bedelinin yüzde biri oranında ceza itirazsız olarak ödenir.”hükmüne yer verilmiştir.Kira sözleşmesi 14.06.2010 yılında sona ermiştir. Taşınmaz süresinde tahliye edilmediğinden. Mahkemece, kira sözleşmesinin 14.maddesi gereğince cezai şartın davalıdan tahsiline karar verilmesinde bir usulsüzlük bulunmamaktadır. Ancak mahkemece Türk Borçlar Kanun'unun 182/son (B.K'un 16l/son maddesine) göre cezai şarttan indirim yapılıp yapılamayacağı tartışılmamış,cezai şarttan bir indirim yapılmamıştır. Oysa, cezanın ekonomik yönden davalının mahvına sebep olması halinde cezadan indirim yapılabileceği uygulamada kabul edilmektedir.
 Bir olayda, cezai şart miktarının fahiş olup olmadığı belirlenirken; tarafların ekonomik durumları, özel olarak borçlunun ödeme gücü, alacaklının, asıl borcun ifa edilmesi halinde elde edeceği yarar ile cezai şartın ödenmesinin sağlayacağı yarar arasındaki makul adil ölçü, sözleşmeye aykırı davranılması yüzünden alacaklının uğradığı zarar, borçlunun borcunu yerine getirmemek suretiyle sağladığı yarar, borçlunun kusur derecesi ve borca aykırı davranışının ağırlığı, ölçüt alınarak gerekirse bu konuda özel bilgisi olan bilirkişiden de yararlanılarak ve sonuçta hak, adalet ve nesafet kurallarına uygun bir cezai şart miktarına hükmedilmelidir. Hakimin, bu kuralı uygularken kullanacağı takdir hakkının, Yargıtay denetimine elverişli esaslara dayanması da zorunludur. Mahkemenin cezai şart miktarının fahiş olması karşısında yukarıda açıklandığı şekilde inceleme yapılarak cezai şarttan tenkis yapılması gerekirken yazılı şekilde eksik inceleme ile cezai şart bedelinin tümünün tahsiline karar verilmesi doğru değildir.
 
 ## Yargıtay 6. HD 2014/11313 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/97421400)
 
 Davada dayanılan ve hükme esas alınan 24.10.2005 başlangıç tarihli ve yirmi yıl süreli kira sözleşmesi konusunda taraflar arasında uyuşmazlık bulunmamaktadır. Sözleşmenin diğer hususlar bölümü 26. maddesinde, işbu sözleşmede belirtilen hükümlere ve kiralama ve idari şartnamede belirtilen herhangi bir maddeye uyulmamasının tahliye sebebi sayılacağı, buna göre kiraya veren belediyenin tek taraflı olarak sözleşmeyi feshetmeye ve kiralanan yeri tahliye ettirmeye yetkili olduğu, aynı bölümün 29. maddesinde de, kiralanan yerin 2886 Sayılı Devlet İhale Kanunu'na göre kiraya verilmiş olup, kiracılık ilişkilerinde bu kanun hükümlerinin uygulanacağı kararlaştırılmıştır. Davacı kiracı 10.12.2013 tarihinde açmış
 
@@ -39,10 +45,14 @@ olduğu işbu dava ile, davalı belediyenin 01.05.2007 tarihli encümen kararı 
 
 ## Yargıtay 6. HD 2014/11186 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/97407500)
+
 Davada dayanılan ve hükme esas alınan 22.03.2012 tarihli 1 yıl süreli kira sözleşmesine göre kiralananın 2886 Sayılı Yasa hükümlerine göre kiraya verildiği anlaşılmaktadır. 2886 Sayılı Yasa’nın 75. maddesi hükmünden ancak Hazine, Özel İdareler, Vakıflar Genel Müdürlüğü ve Belediyeler yararlanır. Adı geçen bu kurumlar yasa uyarınca kiraya verdikleri taşınmazlarının süre bitimi nedeniyle boşaltılmasını 2886 Sayılı Yasa’nın 75. maddesine göre mülki amirden isteyebilecekleri gibi, 6570 Sayılı Yasa’nın 12. maddesine dayanarak süre bitimi nedeniyle fuzuli şagil durumuna düşen kiracının Sulh Hukuk Mahkemesi’ne başvurarak tahliyesini de isteyebilirler. Diğer kamu kuruluşları taşınmazlarını 2886 Sayılı Yasa uyarınca kiraya vermiş olsalar bile anılan Yasa’nın 75. maddesine dayanarak kiralananın tahliyesini sağlayamazlar. Hazine ve diğer kamu kuruluşlarına ait taşınmazlar 6570 Sayılı Yasa kapsamında ise yazılı tahliye taahhüdü nedeniyle tahliye dışında süre bitimi nedeniyle tahliye edilemezler.Somut olaya gelince; Davacı D.. K.. ve T.. V.. ile davalı D.. Ü..
 R.. arasında akdedilen kira sözleşmesine tabi taşınmazı, Rektörlüğün 2886 Sayılı Yasanın 75. maddesine göre tahliye yetkisi olmadığından uyuşmazlıkta 2886 Sayılı Yasa hükümleri uygulanmaz. Mahkemece davanın 6098 Sayılı Yasa hükümleri çerçevesinde çözümlenerek kiracılığın tespitine karar verilmesi gerekirken yazılı şekilde karar verilmesi doğru değildir.
 
 ## Yargıtay 6. HD 2014/10915 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/306014500)
 
 Davaya konu kiralananın davacıya 2886 sayılı Yasa gereğince ihale ile kiraya verilip verilmediği dosyadaki bilgi ve belgelerden anlaşılamamaktadır. Davaya konu kiralananın davacıya 2886 sayılı yasa gereği kiraya verilip verilmediği araştırılarak, 2886 sayılı Yasa
 
@@ -50,9 +60,13 @@ gereği ihale ile kiraya verilmiş ise ihale evraklarının ilgili yerden temin 
 
 ## Yargıtay 6. HD 2014/10712 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/97320800)
+
 Davada dayanılan ve hükme esas alınan 26.02.2007 başlangıç tarihli ve iki yıl süreli kira sözleşmesi konusunda taraflar arasında bir uyuşmazlık bulunmamaktadır. Kira sözleşmesi özel şartlar 14.maddesinde kira süresinin sona ermesi veya sözleşmenin feshi halinde taşınmaz idareye teslim edilmezse geçen her gün için cari yıl kira bedelinin %1 i oranında cezanın itirazsız olarak ödeneceği kararlaştırılmıştır. Bu şart geçerli olup tarafları bağlar. Dava konusu taşınmaz Hazineye ait olup 2886 sayılı Devlet İhale Kanunu ile kiraya verildiği için sözleşme sonunda kira sözleşmesi kendiliğinden son bulur. Bu tarihten itibaren davalı haksız işgalci sayılır. Nitekim davalı tarafından tahliyeden sonra işgal edilen günler karşılığı 13847,67 TL ecrimisil tahakkuk ettirilmiştir. Bu bedel davacının haksız işgali karşılığıdır ve davalının sözleşmenin 14. maddesi gereğince belirlenecek cezayı istemesine engel değildir. Bu durumda mahkemece davanın reddine karar verilmesi gerekirken ecrimisil borcunun olmadığının tesbitine ilişkin bir talebin olmadığı hususu da gözardı edilerek yazılı gerekçe ile davanın kısmen kabulüne karar verilmesi doğru değildir.
 
 ## Yargıtay 6. HD 2014/10591 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/478966700)
 
 Davada dayanılan ve hükme esas alınan 01.03.1994 başlangıç tarihli ve bir yıl süreli kira sözleşmesi konusunda taraflar arasında uyuşmazlık bulunmamaktadır. Sözleşme ile dava konusu edilen dükkan davacıya kitapevi olarak kullanması için kiralanmıştır. Kiralananın 2886 Sayılı Devlet İhale Kanunu gereği yapılan ihale sonucu davacıya kiralandığı anlaşılmaktadır. Kiracılık süreci içinde davalı kiraya veren 02.05.2012 keşide ve10.05.2012 tebliğ tarihli ihtarnamesi ile kira sözleşmesinin 01.03.2013 tarihinde sona ereceğini bu tarih itibariyle sözleşmenin yenilenmeyeceğini, davacı kiraya ihtar etmiş, 07.03.2012 tarihli ihtarname ile de davacının sözleşmenin bitim tarihinden itibaren fuzuli şagil olarak bulunduğunu bildirmiştir.
 Her ne kadar sözleşme süresinin 01.03.1995 tarihinde sona ermesinden sonra kira sözleşmesi 6570 Sayılı Gayrimenkul Kiraları Hakkında Kanun'un 11. maddesine göre 01.03.1995 tarihi itibariyle yıldan yıla yenilenerek uzamış ise de, belediyelere 2886 Sayılı Devlet İhale Kanunu'nun 75. maddesinden yararlanma hakkı tanıyan 5393 Sayılı Belediye Kanunu'nun 15. maddesinin yürürlüğe 13.07.2005 tarihini izleyen son dönemin bittiği 01.03.2006 tarihinden itibariyle sözleşmenin sona erdiğinin kabulü gerekir. Artık bu tarihten sonra yasa gereği sözleşmenin 6570 Sayılı Kanun'un 11. maddesi uyarınca yıldan yıla yenilenmesi olanağı kalmadığından davacı kiracı fuzuli şagil durumuna düşmüştür. . Yargıtay Hukuk Genel Kurulu'nun 22.12.2010 gün ve 2010 / 13-671-696 sayılı kararı da bu doğrultudadır.
@@ -60,11 +74,15 @@ Dolayısıyla ortada bir kira sözleşmesi bulunmadığından davacı kiracı ta
 
 ## Yargıtay 20. HD 2014/8105 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/380063700)
+
 6831 sayılı Kanunun 17/1-2-3 maddesinde; ''Madde 17 - (Değişik birinci fıkra: 19/4/2012-6292/13 md.) Devlet Ormanları içinde bu ormanların korunması, istihsal ve imarı ile alakalı olarak yapılacak her nevi bina ve tesisler müstesna olmak üzere; otlatma planı yapılan alanlarda yıllık otlatma süresi dâhilinde hayvanların planlı otlatılmasını sağlayan, gecelemesini emniyet altına alan ve dağılmalarını engelleyen geçici çevirmeler şeklinde düzenlemeler dışında, her çeşit bina, ağıl ve hayvanların barınmasına mahsus yerler yapılması, tarla açılması, işlenmesi, ekilmesi ve orman içinde yerleşilmesi yasaktır. Ancak, Devlet Ormanlarında 31/12/2011 tarihinden önce toplu yerleşimin bulunduğu; yaylak ve otlak olarak kullanılan alanlar içindeki yerler ile yılın belirli dönemlerinde geleneksel yaylacılık maksadıyla yerleşim yeri olarak kullanılan alanlar kullanım bütünlüğü de dikkate alınarak tespit edilir. Tespit edilen bu alanlardan uygun görülenler teklifi üzerine Bakanlar Kurulu kararı ile yayla alanı olarak ilân edilir.
 İlân edilen yayla alanlarında 31/12/2011 tarihinden evvel yapılmış, hakkında müsadere kararı bulunanlar da dâhil her türlü bina ve tesisler mevcut haliyle vaziyet planında gösterilerek sabit kıymetlerine alınır. Yayla alanlarında bulunan bina ve tesisler orman idaresi tarafından işletilir, işlettirilebilir veya kiraya verilebilir. Elde edilen gelirler Orman Genel Müdürlüğü döner sermayesine gelir kaydedilir. Giderler ise Orman Genel Müdürlüğü döner sermayesinden karşılanır. Bu alanlardaki bina ve tesislerin kullanıcıları orman idaresince tespit edilir, ilgili kaymakamlık ve muhtarlıklar vasıtasıyla bir ay süreyle ilan edilir. Bu süre içinde yapılan itirazlar bir ay içinde Orman İdaresinde mevcut bilgi ve belgelere göre, bunun mümkün olmaması hâlinde başvuru sahiplerinin elindeki bilgi ve belgelere göre sonuçlandırılarak ilgililere bildirilir. Kullanıcısı tespit edilen bina ve tesisler vaziyet planına göre kullanıcısına, tespit tarihinden itibaren bir yıl içinde talebi hâlinde rayiç bedel üzerinden 8/9/1983 tarihli ve 2886 sayılı Devlet İhale Kanunu hükümlerine göre kiraya verilebilir. Kullanıcıları tarafından kiralanmayan bina ve tesisler ise yıkılır.
 Kiralanan bina ve tesislere ilişkin, ilgili kurumlarca orman idaresine bildirilen eksikliklerin tamamlanması yönünde kiracıya tebligat yapılarak en geç bir yıl içinde eksikliğin giderilmesi istenir. Eksikliklerin giderilmemesi hâlinde yapılan kiralama işlemi iptal edilir. İlgili mevzuattan doğacak her türlü zarar ve hukukî sorumluluk kiracıya aittir. Yayla alanı olarak ilân edilen yerlerde Orman İdaresince nüfus yoğunluğu, yöresel ihtiyaç ve sosyal problemler dikkate alınarak gerekli her tür ve ölçekte planlar Orman Genel Müdürlüğünce yapılır veya yaptırılır. Yapılan bu planlar Orman ve Su İşleri Bakanlığınca onaylanır. Yayla alanlarında mevcut bina ve tesislerin kiralayan tarafından iki yıl içinde planlara uygun hale getirilmesi istenir. Uyumlu hale getirenlerin kira sözleşmeleri yenilenir. Aksi halde kira sözleşmesi iptal edilir. Yayla alanlarına ilişkin iş ve işlemler yönetmelikle belirlenir.
 
 ## Yargıtay 6. HD 2014/10195 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/97213800)
 
 2886 Sayılı Devlet İhale Kanunu'nun “Ecrimisil ve Tahliye” başlıklı 75. maddesinin 3 ve 4. fıkrasında, kira sözleşmesinin bitim tarihinden itibaren işgalin devam etmesi halinde, sözleşmede hüküm varsa ona göre hareket edileceği, aksi halde ecrimisil alınacağı, işgal edilen taşınmaz malın idarenin talebi üzerine bulunduğu yer mülki amirince en geç onbeş gün içinde tahliye ettirilerek, idareye teslim edileceği düzenlenmiştir. Bu madde daha önce sadece Maliye Hazinesi tarafından bu kanun hükümlerine göre kiraya verilen taşınmazlar
 
@@ -72,31 +90,45 @@ hakkında uygulanırken, 5393 Sayılı Belediye Kanunu'nun 15 / p-3 maddesi hük
 
 ## Yargıtay 6. HD 2014/10227 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/97214800)
+
 Davada dayanılan ve hükme esas alınan 28.04.1995 başlangıç tarihli ve on yıl süreli kira sözleşmesi konusunda uyuşmazlık bulunmamaktadır. Taşınmaz hazine tarafından 2886 sayılı Kanunun 51/9.maddesi uyarınca pazarlık usulü ile kiraya verilmiştir. Sözleşmenin 9.maddesinde kira süresinin bitimini müteakip kiralananın 15 gün içinde tahliye edileceği aksi takdirde her geçen gün için cari yıl kira bedelinin günlük tutarının üç katı ceza ödeneceği kararlaştırılmıştır. Sonraki süreçte taşınmaz hazine tarafından 03.06.2004 tarihi itibariyle Sağlık Bakanlığına tahsis edilmiştir. Hazine 14.06.2005 tarihinde keşide ettiği ihtarname ile, kira süresinin 28.04.2005 tarihi itibariyle sona erdiğini belirterek kiralananın 45gün içinde tahliyesi istenilmiştir. Dava dışı belediye ise taşınmazın imar planında yol ve yeşil alanda kaldığını belirterek taşınmazın bedelsiz olarak terk edilmesini hazineden istemiş,…
 
 ## Yargıtay 6. HD 2014/10141 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/97212100)
+
 Hükme esas alınan 26.2.2010 başlangıç tarihli ve 3 yıl süreli kira sözleşmesi konusunda taraflar arasında bir uyuşmazlık bulunmamaktadır. Sözleşmede kiralanan oto park olarak belirtilmiştir. Kiralanan yer 2886 sayılı kanuna göre kiraya verilmiş ise de kiralayan kurumun taşınmazın tahliyesi ve sözleşmenin sona ermesinde 2886 Sayılı Kanunun 75.maddesine tabi olmadığı anlaşılmakladır. Öte yandan kira sözleşmesi süresinin davalı kurumca 28.3.2013 tarihine kadar uzatıldığı kabul edilmektedir.
 
 ## Yargıtay 6. HD 2014/9823 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/97197300)
 
 Dava konusu meranın davalı idare tarafından 2886 sayılı yasanın 51.maddesindeki pazarlık usulü ile davacıya kiraya verildiği konusunda uyuşmazlık bulunmamaktadır. Kira sözleşmesi 16.05.2012 başlangıç tarihli olup 25 yıl sürelidir. Sözleşmenin 11.maddesinde bakanlıkça veya komisyonca kiralanana ihtiyaç duyulması halinde sözleşmenin idare tarafından tek yanlı olarak feshedilebileceği kararlaştırılmıştır. Davalı idare 07.08.2012 keşide tarihli fesih bildiriminde; kiralama işine karşı çıkan köylülerin başlattığı toplumsal olaylar nedeniyle sözleşmeyi tek yanlı olarak feshettiğini bildirmiştir. Sonraki süreçte ise ihale işleminin iptali için müdahil Köy tüzel kişiliği tarafından İdare Mahkemesinde dava açılmıştır. Mahkemece, idari yargıdaki davaya yönelik bekletici mesele talepleri reddedilerek karar verilmiş ise de temyiz dilekçesine ekli belgeden; Malatya İdare Mahkemesinin 2012/758 esas- 2014/670 kararı ile ihale işleminin iptaline karar verildiği anlaşılmış olup karar henüz kesinleşmemiştir.
 İhale işlemi kira sözleşmesinin kurucu unsurları arasında yer almasa da ihale işleminin iptaline dair verilecek mahkeme kararı sonuca etkili görüldüğünden mahkemece bu husus bekletici mesele yapılarak sonucuna göre karar verilmesi gerekirken yazılı şekilde hüküm verilmesi usul ve yasaya aykırı olmuştur.
 
 ## Yargıtay 6. HD 2014/9756 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/478433700)
+
 Davaya konu kiralananın davalıya 2886 sayılı yasa gereğince ihale ile kiraya verilip verilmediği dosyadaki bilgi ve belgelerden anlaşılamamaktadır. Davaya konu kiralananın “davalıya 2886 sayılı yasa gereği kiraya verilip verilmediği araştırılarak, 2886 sayılı yasa gereği ihale ile kiraya verilmiş ise, ihale evraklarının ilgili yerden temini ile” evraka eklenmesi ondan sonra gönderilmesi için dosyanın yerel mahkemesine GERİ ÇEVRİLMESİNE, 15.09.2014 tarihinde oybirliğiyle karar verildi.
 
 ## Yargıtay 6. HD 2014/9757 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/478456400)
 
 Davaya konu kiralananın davalıya 2886 sayılı yasa gereğince ihale ile kiraya verilip verilmediği dosyadaki bilgi ve belgelerden anlaşılamamaktadır. Davaya konu kiralananın “davalıya 2886 sayılı yasa gereği kiraya verilip verilmediği araştırılarak, 2886 sayılı yasa gereği ihale ile kiraya verilmiş ise, ihale evraklarının ilgili yerden temini ile” evraka eklenmesi ayrıca ;…
 
 ## Yargıtay 6. HD 2014/9702 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/97192000)
+
 2886 Sayılı Devlet İhale Kanunu'nun 5737 Sayılı Kanunun 79/c maddesi ile değişik “Ecrimisil ve Tahliye” başlıklı 75.maddesinin 3 ve 4.fıkrasında; “kira sözleşmesinin bitim tarihinden itibaren işgalin devam etmesi halinde, sözleşmede hüküm var ise ona göre hareket edilir. Aksi halde ecrimisil alınır. İşgal edilen taşınmaz mal, idarenin talebi üzerine bulunduğu yer mülkiye amirince en geç onbeş gün içinde tahliye ettirilerek, idareye teslim edilir.” hükmü bulunmaktadır. Bu madde önceleri sadece Hazine tarafından bu kanun hükümlerine göre kiraya verilen taşınmazlar hakkında uygulanırken, 13.7.2005 tarihinde yürürlüğe giren 5393 Sayılı Belediye Kanunu'nun 15/p-3 maddesi hükmüyle belediye taşınmazları hakkında, 5538 Sayılı Kanunun 26/b maddesi uyarınca İl Özel İdareleri ve son olarak 5737 Sayılı Kanunun 79/c maddesi uyarınca Vakıflar Genel Müdürlüğüne ait taşınmazlar hakkında da uygulanması öngörülmüştür. Bu madde ile adı geçen kurumlara tahliye konusunda bir ayrıcalık tanınmıştır. Yasal süre bitiminden itibaren ecrimisil alınacağı hüküm altına alındığından, 2886 Sayılı Yasanın 1.maddesi uyarınca usulüne uygun yeni bir sözleşme yapılmadıkça kiracıyı fuzuli şagil kabul etmek gerekir.
 Hazine, Vakıflar Genel Müdürlüğü, İl Özel İdareleri ve Belediyeler 2886 Sayılı Yasa uyarınca kiraya verdikleri taşınmazlarını, kira süresi sonunda, işgal ne kadar süre devam ederse etsin kiralananın 6570 Sayılı Yasaya ya da Borçlar Kanununa tabi olup olmadığına bakılmaksızın her zaman gerek mahkemeden gerekse mülkiye amirinden tahliyesini isteyebilirler. Ecrimisil olarak alınması gereken paranın “kira parası” adı altında alınmış veya ödenmiş olması, taraflar arasındaki kira sözleşmesinin yenilendiği anlamına gelmez.
 
 ## Yargıtay 6. HD 2014/9527 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/97177300)
 
 2886 Sayılı Devlet İhale Kanunu'nun 5737 Sayılı Kanun'un 79/c maddesi ile değişik “Ecrimisil ve Tahliye” başlıklı 75.maddesinin 3 ve 4.fıkrasında; “kira sözleşmesinin bitim
 
@@ -104,17 +136,25 @@ tarihinden itibaren işgalin devam etmesi halinde, sözleşmede hüküm var ise 
 
 ## Yargıtay 6. HD 2014/9221 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/306350100)
+
 Davaya konu kiralananın davacıya 2886 sayılı Yasa gereğince ihale ile kiraya verilip verilmediği dosyadaki bilgi ve belgelerden anlaşılamamaktadır. Davaya konu kiralananın "davalıya 2886 sayılı Yasa gereği kiraya verilip verilmediği araştırılarak, 2886 sayılı Yasa gereği ihale ile kiraya verilmiş ise, ihale evraklarının ilgili yerden temini ile" evraka eklenmesi ve ondan sonra gönderilmesi için dosyanın mahalline GERİ ÇEVRİLMESİNE, 09/07/2014 tarihinde oybirliğiyle karar verildi.
 
 ## Yargıtay 6. HD 2014/8860 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/305721900)
 
 2886 Sayılı Devlet İhale Kanunu'nun 5737 Sayılı Kanun'un 79/c maddesi ile değişik “Ecrimisil ve Tahliye” başlıklı 75.maddesinin 3 ve 4.fıkrasında; “kira sözleşmesinin bitim tarihinden itibaren işgalin devam etmesi halinde, sözleşmede hüküm var ise ona göre hareket edilir. Aksi halde ecrimisil alınır. İşgal edilen taşınmaz mal, idarenin talebi üzerine bulunduğu yer mülkiye amirince en geç onbeş gün içinde tahliye ettirilerek, idareye teslim edilir.” hükmü bulunmaktadır. Bu madde önceleri sadece Hazine tarafından bu kanun hükümlerine göre kiraya verilen taşınmazlar hakkında uygulanırken, 5393 Sayılı Belediye Kanunu'nun 15/p-3 maddesi hükmüyle belediye taşınmazları 5538 Sayılı Kanunun 26/b maddesi uyarınca İl Özel İdareleri ve son olarak 5737 Sayılı Kanun'un 79/c maddesi uyarınca Vakıflar Genel Müdürlüğüne ait taşınmazlar hakkında da uygulanması öngörülmüştür. Bu madde ile adı geçen kurumlara tahliye konusunda bir ayrıcalık tanınmıştır. Yasa, süre bitiminden itibaren ecrimisil alınacağını hüküm altına aldığından, 2886 Sayılı Yasanın 1.maddesi uyarınca usulüne uygun yeni bir sözleşme yapılmadıkça kiracıyı fuzuli şagil kabul etmek gerekir.
 
 ## Yargıtay 6. HD 2014/8833 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/305738900)
+
 Davaya konu kiralananın ... A.Ş.'ye kiraya verildiğine ilişkin 31.07.2000 tarihli yazı olmasına rağmen kiralananın 2886 sayılı yasa gereğince ihale ile kiraya verilip verilmediği dosyadaki bilgi ve belgelerden anlaşılamamaktadır. Davaya konu kiralananın “önce ... A.Ş.'ye 2886 sayılı yasa gereği kiraya verilip verilmediği araştırılarak, 2886 sayılı yasa gereği ihale ile kiraya verilmiş ise, tüm ihale evraklarının ve kiralananın ... A.Ş.'ye devrine ilişkin 21.12.2000 tarih ve 2495 sayılı Belediye Encümenin tasdik ettiği protokolün ve diğer belgelerin ilgili yerden temini ile” evraka eklenmesi ve ondan sonra gönderilmesi için dosyanın mahkemesine GERİ ÇEVRİLMESİNE, 02.07.2014 tarihinde oybirliğiyle karar verildi.
 
 ## Yargıtay 6. HD 2014/8717 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/97246700)
 
 Davada dayanılan ve hükme esas alınan 18.07.2002 başlangıç tarihli ve bir yıl süreli kira sözleşmesi konusunda taraflar arasında uyuşmazlık bulunmamaktadır. Sözleşme ile dükkan nitelikli kiralanan, spor salonu olarak kullanılması için davalıya kiralanmıştır. Davacı 09.08.2011 tarihinde açmış olduğu işbu dava ile kira sözleşmesinin 18.07.2011 tarihinde sona ermesine ve sözleşmenin yenilenmeyeceğinin davalıya ihtarnameler ile bildirilmesine karşın taşınmazın tahliye edilmediğini belirterek, kiralananın süre bitimi nedeniyle tahliyesini talep etmiş, yargılama sırasında vermiş olduğu 20.02.2012 tarihli dilekçesi ile de, kiralanana spor merkezi olarak ihtiyacı olduğundan, bu nedenle de tahliye kararı verilmesini istemiştir.
 Her ne kadar sözleşme süresinin 18.07.2003 tarihinde sona ermesinden sonra kira sözleşmesi 6570 Sayılı Gayrimenkul Kiraları Hakkında Kanun'un 11. maddesine göre 18 Temmuz tarihi itibariyle yıldan yıla yenilenerek uzamış ise de, belediyelere 2886 Sayılı Devlet İhale Kanunu'nun 75. maddesinden yararlanma hakkı tanıyan 5393 Sayılı Belediye Kanunu'nun 15. maddesinin yürürlüğe girdiği 13.07.2005 tarihini izleyen son dönemin bittiği 18.07.2005 tarihi itibariyle sözleşmenin sona erdiğinin kabulü gerekir. Mahkemece yapılan yargılama sonucu kiralananın 2886 Sayılı Devlet İhale Kanunu ile kiraya verilip davada bu yasa hükümlerinin uygulanmasının gerektiği, davalının ise kira süresinin sona ermesine karşın kiralananı tahliye etmediği belirtilerek, davanın kabulüne, kiralananın tahliyesine karar verilmiş, iş yeri ihtiyacı nedeniyle tahliye istemi konusunda bir değerlendirme yapılmamıştır. Hüküm, davalının temyizi üzerine Dairemizin 03.10.2013 gün ve 2013 / 13037 Esas, 2013 / 13522 Karar sayılı kararı ile kiralananın 2886 Sayılı Devlet İhale Kanunu çerçevesinde kiraya verilip verilip verilmediğinin araştırılması gerektiğine işaretle bozulmuştur.
@@ -122,32 +162,46 @@ Bozma sonrasında davacı belediye, kiralananın başlangıçta 2886 Sayılı De
 
 ## Yargıtay 6. HD 2014/8521 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/97439400)
+
 Davacı hazine ile davalı arasında 2886 Sayılı Yasa hükümlerine göre düzenlenen 21/12/2009 başlangıç tarihli ve üç yıl süreli kira sözleşmesi konusunda uyuşmazlık bulunmamaktadır. Kira sözleşmesinin 11.maddesinde "kiracının fesih talebinde bulunması, kira dönemi sona ermeden faaliyetini durdurması, kiralananı amacı dışında kullanması, taahhüdünü sözleşme ve şartname hükümlerine uygun olarak yerine getirmemesi veya işletme ruhsatının her ne sebeple olursa olsun iptal edilmesi halinde kira sözleşmesi 2886 Sayılı Kanunun 62.maddesine göre tebligat yapmaya gerek kalmaksızın idarece feshedilerek kesin teminatı gelir kaydedilir ve cari yıl kira bedeli tazminatı olarak tahsil edilir" düzenlemesine yer verilmiştir. Fesih durumunda davalının tazminat ile sorumlu tutulabilmesi için öncelikle feshin davacı idare yönünden haklı nedene dayanıyor olması gerekir. Kira sözleşmesinde kiralananın ham toprak olduğu ve tarımsal amaçlı kullanılacağı belirtildiğinden kiralananın bu niteliği itibariyle TBK.nun 357.maddesinde düzenlenen ürün kirası hükümlerine tabi olduğu anlaşılmalıdır. Kira akdinin sona erme sebebinden biri de
 
 kiracının temerrütü olup, kira parasının ödenmemesi veya geç ödenmesi durumunda akdin feshinin biçim ve koşulları 6098 sayılı Türk Borçlar Kanunun 362. Maddesinde (818 sayılı BK.nun 288.maddesi) düzenlenmiştir. Buna göre istenen kira parasının veya yan giderin muaccel (istenebilir) olması ve kira bedeli ile yan giderin verilen sürede ödenmemiş bulunması, ihtarnamede verilen süre içerisinde kira parasının ödenmemesi halinde akdin feshedileceğinin açıkca belirtilmesi gerekir. Kiracıya verilecek süre ürün kiralarında en az altmış gündür. Kira parasının geç ödenmesi nedeniyle davalı kiracıya keşide edilen ihtarname…
 
 ## Yargıtay 6. HD 2014/8240 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/307806800)
+
 Davaya konu kiralananın davacıya 2886 sayılı yasa gereğince ihale ile kiraya verilip verilmediği dosyadaki bilgi ve belgelerden anlaşılamamaktadır. Davaya konu kiralananın "davacıya 2886 sayılı yasa gereği kiraya verilip verilmediği araştırılarak, 2886 sayılı yasa gereği ihale ile kiraya verilmiş ise, ihale evraklarının ilgili yerden temini ile" evraka eklenmesi ve ondan sonra gönderilmesi için dosyanın mahkemesine GERİ ÇEVRİLMESİNE, 23.06.2014 tarihinde oybirliğiyle karar verildi.
 
 ## Yargıtay 6. HD 2014/8236 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/307585600)
 
 Davaya konu kiralananın davalıya 2886 sayılı yasa gereğince ihale ile kiraya verilip verilmediği dosyadaki bilgi ve belgelerden anlaşılamamaktadır. Davaya konu kiralananın “davacıya 2886 sayılı yasa gereği kiraya verilip verilmediği araştırılarak, 2886 sayılı yasa gereği ihale ile kiraya verilmiş ise, ihale evraklarının ilgili yerden temini ile” evraka eklenmesi ve ayrıca incelenmesine gerek duyulduğundan Havza Sulh Hukuk Mahkemesinin 2012/381 esas, 2013/79 karar sayılı dosyasının aslının ya da onaylı, okunaklı ve eksiksiz suretinin mahkemesinden temin edilip ondan sonra gönderilmesi için dosyanın yerel mahkemesine GERİ ÇEVRİLMESİNE, 23.06.2014 tarihinde oybirliğiyle karar verildi.
 
 ## Yargıtay 6. HD 2014/8171 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/97382900)
+
 2886 Sayılı Kanunun 75. maddesi tahliye yönünden münhasıran “Hazine” tarafından kiraya verilen taşınmazlar hakkında uygulanmakta iken 5393 Sayılı Belediye Kanunu’nun 15/p-3 maddesi hükmüyle 2886 Sayılı Kanun hükümlerine göre kiraya verilen Belediye taşınmazları ve 5538 Sayılı Yasanın 26/b maddesi uyarınca İl Özel İdareleri ile son olarak 5737 Sayılı Kanunun 79/c maddesi uyarınca Vakıflar Genel Müdürlüğü ile idare ve temsil ettiği mazbut vakıflara ait taşınmaz malları hakkında da uygulanması öngörülmüştür. Hazine, Vakıflar Genel Müdürlüğü, İl Özel İdareleri ve Belediyeler bu yasa uyarınca kiraya verdikleri taşınmazların süre bitimi sebebiyle kiralananın 6570 Sayılı Kanuna 6098 sayılı Türk Borçlar Kanunu'nun Konut ve Çatılı İşyeri Kiraları hükümlerine ya da Borçlar Kanununa tabi olup olmadığına bakılmaksızın 2886 Sayılı Kanunun 75. maddesine göre…
 
 ## Yargıtay 6. HD 2014/7889 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/97385400)
 
 2886 Sayalı Devlet İhale Kanun'un 5737 Sayılı Kanun'un 79/c maddesi ile değişik” ecrimisil ve tahliye” başlıklı 75.maddesinin 3 ve 4. fıkrasında” kira sözleşmesinin bitim tarihinden itibaren işgalin devam etmesi halinde, sözleşmede hüküm varsa ona göre hareket edilir. Aksi halde ecrimisil alınır.İşgal edilen taşınmaz mal,idarenin talebi üzerine bulunduğu yer mülkiye amirince en geç onbeş gün içinde tahliye ettirilerek, idareye teslim edilir” hükmü bulunmaktadır.
 
 ## Yargıtay 6. HD 2014/7604 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/97442400)
+
 06.2011 düzenleme, yer tesliminden itibaren beş yıl süreli kira sözleşmesi konusunda taraflar arasında uyuşmazlık bulunmamaktadır. Sözleşmede aylık kira parası ilk yıl için 28.100 TL olarak belirlenmiştir. Sözleşmenin özel şartlar bölümü 14. maddesinde de, kiracının fesih talebinde bulunması, kira dönemi sona ermeden faaliyetini durdurması, kiralananı amacı dışında kullanması, sözleşme ve şartname hükümlerine uygun olarak yerine getirmemesi veya işletme ruhsatının her ne sebeple olursa olsun iptal edilmesi hallerinde kira sözleşmesinin 2886 Sayılı Devlet İhale Kanunu'nun 62. maddesine göre tebligat yapmaya gerek kalmaksızın idarece feshedilerek kesin teminatın gelir kaydedileceği ve cari yıl kira bedelinin tazminat olarak tahsil edileceği kararlaştırılmıştır. Davalı kiracıya sözleşme ile kiracılık süreci içinde tek yanlı olarak sözleşmeyi feshetme hakkı tanınmamasına karşılık, davalı kiracı ekonomik koşullarını gerekçe göstererek kiralanan çay ocağı ve çay bahçesi ile ilişiğinin en kısa zamanda kesilerek kiralananı teslim alınması konusunda 05.08.9211 tarihli dilekçe ile davacı idareye başvurmuştur.
 Davacı idare de, 22.08.2011 gün ve 1129 sayılı kararı ile davalının anılan dilekçesi ile taahhüdünden vazgeçmesi nedeniyle sözleşmenin kaymakamlık makamının 22.08.2011 tarihli oluru ile feshedildiğini belirtip, sözleşmenin özel 14. maddesi çerçevesinde kesin teminatın hazineye gelir kaydedilmesine ve cari yıl kira bedeli olan 28.100 TL'nin tazminat olarak alınmasına karar vererek, keyfiyeti 23.08.2011 keşide ve 05.09.2011 tebliğ tarihli ihtarname ile davalıya bildirmiştir. Davalının herhangi bir ödemede bulunmaması üzerine de, 28.06.2012 tarihinde açmış olduğu işbu dava ile cari yıl kira parası olan 28.100 TL'nin tazminat olarak davalıdan tahsilini talep etmiştir. Sözleşmenin feshinden sonra söz konusu kiralanan davalı tarafından 25.08.2011 tarihinde davacıya teslim edilmiş ve davacı tarafından da 24.08.2011 düzenleme ve yer tesliminden itibaren beş yıl süreli kira sözleşmesi ile yıllık 16.000 TL bedelle dava dışı Sedat Öke'ye kiralanmıştır. Mahkemece yapılan yargılama sonucunda davalının 2886 Sayılı Devlet İhale Kanunu'na aykırı olarak…
 
 ## Yargıtay 6. HD 2014/7143 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/97284400)
 
 2886 Sayılı Devlet İhale Kanunu'nun 5737 Sayılı Kanunun 79/c maddesi ile değişik “Ecrimisil ve Tahliye” başlıklı 75.maddesinin 3 ve 4.fıkrasında; “kira sözleşmesinin bitim tarihinden itibaren işgalin devam etmesi halinde, sözleşmede hüküm var ise ona göre hareket edilir. Aksi halde ecrimisil alınır. İşgal edilen taşınmaz mal, idarenin talebi üzerine bulunduğu yer mülkiye amirince en geç onbeş gün içinde tahliye ettirilerek, idareye teslim edilir.” hükmü bulunmaktadır. Bu madde önceleri sadece Hazine tarafından bu kanun hükümlerine göre kiraya verilen taşınmazlar hakkında uygulanırken, 13.7.2005 tarihinde yürürlüğe giren 5393 Sayılı Belediye Kanunu'nun 15/p-3 maddesi hükmüyle belediye taşınmazları 5538 Sayılı Kanunun 26/b maddesi uyarınca İl Özel İdareleri ve son olarak
 
@@ -155,9 +209,13 @@ Davacı idare de, 22.08.2011 gün ve 1129 sayılı kararı ile davalının anıl
 
 ## Yargıtay 6. HD 2014/7190 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/306493800)
+
 Davaya konu kiralananın davacıya 2886 sayılı yasa gereğince ihale ile kiraya verilip verilmediği dosyadaki bilgi ve belgelerden anlaşılamamaktadır. Davaya konu kiralananın “davalıya 2886 sayılı yasa gereği kiraya verilip verilmediği araştırılarak, 2886 sayılı yasa gereği ihale ile kiraya verilmiş ise, ihale evraklarının ilgili yerden temini ile” evraka eklenmesi ve ondan sonra gönderilmesi için dosyanın mahkemesine GERİ ÇEVRİLMESİNE, 02.06.2014 tarihinde oybirliğiyle karar verildi.
 
 ## Yargıtay 6. HD 2014/6112 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/97355600)
 
 Taraflar arasında 30.05.2006 tarihli, beş yıl süreli kira sözleşmesi konusunda uyuşmazlık bulunmamaktadır. Kira sözleşmesinin 11. maddesinde '' kiracının kira dönemi sona ermeden faaliyetini durdurması, işletme ruhsatının her ne sebeple olursa olsun iptal edilmesi veya taahhüdünü sözleşme ve şartname hükümlerine uygun olarak yerine getirmemesi hallerinde (taksitlerin süresinde ödenmemesi dahil) 2886 Sayılı Kanun'un 62. maddesine göre idare 10 gün süreli ihtarname ile durumu kiracıya bildirir ve ihtarnamede yazılı hususlara uyulmasını ister. İhtarnamede belirtilen 10. günün sonunda, yerinde yapılacak kontrolde, belirtilen hususlara uyulmadığı görülürse, kira sözleşmesi fesh edilerek kesin teminatı irat kaydedilir ve son bir yıl kira bedeli tazminat olarak tahsil edilir düzenlemesi bulunmakta, Özel Şartlar 1. madde 2. bent :
 Taşınmaz mala Bakanlığımızca ya da Kamu kurum ve Kuruluşlarınca ihtiyaç duyulması, 3621 Sayılı Kıyı Kanunu ve bu Kanun'un Uygulanmasına Dair Yönetmelik hükümlerine uygun kullanılması ve İlgili belediyece imar planı gereği düzenleme yapıldığı takdirde, sözleşme herhangi bir hak veya tazminat talebine konu olmaksızın tek taraflı olarak feshedilecek, kiracı hazineden hiçbir hak ve tazminat talebinde bulunmadan yapılacak tebligatı müteakiben 15 (onbeş) gün içerisinde, kira dönemi sonunda ise herhangi bir tebligata gidilmeden, taşınmaz mal derhal tahliye edecektir. Aksi takdirde, 2886 Sayılı Kanunun 75'inci maddesine göre kiracının tahliyesi sağlanacaktır hükmü bulunmaktadır. Davacı bu düzenlemelere dayanarak 07.04.2009 tarihinde gönderdiği yazı ile sözleşmeyi feshedip son bir yıl kira bedelini tazminat olarak talep etmişse de; Dairemizin yerleşik uygulamaları gereğince kiracının kira parasını…

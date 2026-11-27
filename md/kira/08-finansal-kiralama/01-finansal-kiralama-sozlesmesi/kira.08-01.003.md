@@ -41,9 +41,13 @@ Mutabakat Sistemleri,Ödeme Hizmetleri ve Elektronik Para Kuruluşları Hakkınd
 
 ## İstanbul BAM 37. HD 2026/837 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1203731800)
+
 İstanbul 22. Asliye Ticaret Mahkemesince,"... Bu haliyle eldeki davanın 21.11.2012 tarihli ve 6361 sayılı Finansal Kiralama, Faktoring, Finansman ve Tasarruf Finansman Şirketleri Kanunu’ndan, kaynaklı açılan hukuk davalarından olması, Hakimler Savcılar Yüksek Kurulu Birinci Dairesinin 25/11/2021 tarih ve 1232 sayılı kararı ile; 15.12.2021 tarihinden itibaren gelecek yeni dava ve işlerin ise anılan ihtisas mahkemelerine tevzi edilmesine karar verildiği, davanın 01/09/2025 tarihinde açıldığı gözetilerek dosyanın Mahkememize sehven tevzi edildiği anlaşılmakla İstanbul 6,7,8 ve 9 nolu Ticaret Mahkemelerinden birine tevzi edilmek üzere dosyanın İstanbul Hukuk Mahkemeleri Tevzi bürosuna gönderilmesine..." gerekçesiyle görevsizlik kararı verilmiştir.
 
 ## İstanbul BAM 37. HD 2026/841 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1206623400)
 
 İstanbul 22.Asliye Ticaret Mahkemesince,"...Bu kapsamda görülmekte olan dava ve işlerin iş bölümüne dayanılarak mezkûr mahkemelere gönderilmemesine, 15.12.2021 tarihinden itibaren gelecek yeni dava ve işlerin ise anılan ihtisas mahkemelerine tevzi edilmesine ve dosya sayısına göre genel tevziden de iş verilmeye devam edilmesine, 25.11.2021 tarihinde karar verildiği, Hakimler Savcılar Yüksek Kurulu Birinci Dairesinin 25/11/2021 tarih ve ... sayılı kararı ile 21.11.2012 tarihli ve 6361 sayılı Finansal Kiralama, Faktoring, Finansman ve Tasarruf Finansman Şirketleri Kanunu’ndan, kaynaklı tüm davalarda yirmi veya daha fazla asliye ticaret mahkemesi bulunan yerlerde 6, 7, 8 ve 9 numaralı asliye ticaret mahkemeleri ihtisas mahkemesi olarak belirlenmiş olup derdest davaların bu mahkemelere gönderilemeyeceği, 15.12.2021 tarihinden itibaren gelecek yeni dava ve işlerin bu tarihten sonra açılan davaların anılan mahkemelere tevziine karar verileceği düzenlenmiştir.
 Bu haliyle eldeki davanın 21.11.2012 tarihli ve 6361 sayılı Finansal Kiralama, Faktoring, Finansman ve Tasarruf Finansman Şirketleri Kanunu’ndan, kaynaklı açılan hukuk davalarından olması, Hakimler Savcılar Yüksek Kurulu Birinci Dairesinin 25/11/2021 tarih ve ... sayılı kararı ile; 15.12.2021 tarihinden itibaren gelecek yeni dava ve işlerin ise anılan ihtisas mahkemelerine tevzi edilmesine karar verildiği, davanın 26/08/2025 tarihinde açıldığı gözetilerek dosyanın Mahkememize sehven tevzi edildiği anlaşılmakla İstanbul 6,7,8 ve 9 nolu Ticaret Mahkemelerinden birine tevzi edilmek üzere dosyanın İstanbul Hukuk Mahkemeleri Tevzi bürosuna gönderilmesine..." gerekçesiyle görevsizlik kararı verilmiştir.
@@ -56,11 +60,15 @@ Sayılı TBK'nun 146. maddesi gereğince 10 yıllık zamanaşımına tabi olduğ
 
 ## Adana BAM 9. HD 2026/739 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1203235100)
+
 Tüm bu açıklamalar ışığında somut olay değerlendirildiğinde, geçici mühlet içinde alınan komiser raporuna göre, konkordato projesinin başarıya ulaşması ihtimalinin bulunmadığı, davacının ön projesinin revize edilmediği, davacı şirketin ... Bankası ...
 Şubesi'nde 27/05/2025 kullandırım tarihli 34 ay ödeme planı ile "diğer tekstil makineleri" adı altında finansal kiralama sözleşmesi yapmış olduğu ve16/06/2025 tarihli ve 30/09/2025 tarihli ara mizanda bu finansal kiralamayla ilgili olarak bilançonun maddi olmayan duran varlıklar hesabında kaydın mevcut olmadığı, davacı tarafından sunulan konkordato ön projesinde de finansal kiralamayla ilgili borç kaydının olmadığının tespit edildiği, ayrıca 2025 dönemi yevmiye defterinde 124.133.865,28 TL'nin muhasebe dayanak belgesi olmadan hesaplardan virman ve düzeltme fişi adı altında işlem yapılarak hesapların kapatıldığı, yine 27/05/2025 tarih 1077 yevmiye nolu 13.318.331,64 TL'nin muhasebe hesaplarında dayanak belgesi olmadan virman ve düzeltme fişi adı altında işlem yapıldığı, bu işlemler sonucunda iktisadi ve teknik icaplara aykırı olarak hesapların kapatıldığı, davacının belirtilen şekilde muhasebe kayıtlarında iktisadi ve teknik icaplara aykırı işlem yaparak alacaklıların zararına neden olması nedeniyle borçlunun mal varlığının korunması gerektiği, İİK'nın 292/1-a maddesi uyarınca, iflasa tabi borçlu bakımından, kesin mühletin verilmesinden sonra borçlunun borçlunun malvarlığının
 korunması için iflasın açılması gerektiğinin anlaşılması halinde, komiserin yazılı raporu üzerine mahkeme kesin mühleti kaldırarak konkordato talebinin reddine ve borçlunun iflasına re'sen karar verileceği, İİK'nın 288.maddesine göre geçici mühletin kesin mühletin sonuçlarını doğuracağı anlaşıldığından, ilk derece mahkemesince borçlu şirketin yetkilisi de duruşmada dinlenildikten sonra yazılı şekilde geçici mühlet kaldırılmak suretiyle İİK'nın 292/1-a,b,c maddesi uyarınca davacı borçlu şirketin konkordato talebinin reddi ile iflasına karar verilmesinde usul ve esas bakımından hukuka aykırılık görülmemiştir.
 
 ## İstanbul BAM 17. HD 2026/94 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1190569900)
 
 TTK ‘nın 4/1-(a)-(f) de sayılan davalar mutlak ticari dava niteliğindedir. Bunların mutlak ticari dava niteliği, tarafların sıfatına, uyuşmazlığın konusuna, ticari işletme ile ilgili olup olmadığına bakılmaksızın ticari uyuşmazlık sayılmalarından kaynaklanmaktadır. TTK 4/1-f bendinin kapsamı mülga TTK daki hükme göre genişletilmiştir. Madde gerekçesinde de belirtildiği üzere bugün gelinen noktada finans sektöründe yalnızca bankalar ve ödünç para verme işiyle iştigal eden kuruluşlar yer almamaktadır. Bu nedenle hükme "diğer kredi kuruluşlarına, finansal kurumlara" ibaresi eklenmiştir. Finansal kiralama, faktoring ve finansman şirketleri, 6361 sayılı kanundan doğan davalar mutlak ticari dava kapsamındadırlar. Bankacılık Kanunu ve bankalar hakkındaki sair özel kanunlardan doğan uyuşmazlıklar mutlak ticari davalardır. Ayrıca Bankacılık Kanunun 142/1’de, bankalar ve TMSF ve bankaların İflas idareleri tarafından açılacak hukuk davalarına ticaret mahkemesinde bakılacağı hüküm altına alınmıştır.
 
@@ -70,6 +78,8 @@ Davalı ... Ltd. Şti. firması ile... A.Ş. arasında 15.06.2017 tarihli imzala
 
 ## İstanbul BAM 14. HD 2025/1876 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1184647200)
+
 Kiralama AŞ olduğu, 01.03.2011-01.03.2014 dönemine ilişkin koruma sağlandığı, leasing konusu makinelerde meydana gelen zararların teminat altına alındığı 1.000 USD'den az olmamak üzere % 10 muafiyet tanındığının anlaşıldığı, dosyada bulunan 16.04.2012 tarihli ekspertiz raporunun incelenmesinde, 23.01.2012 tarihinde patlayan su kapağı sebebiyle baskın ortaya çıktığı, 181.390,10 TL tazminat hesaplaması yapıldığının görüldüğü, açıklamalar kısmında ... İş Makineleri Ltd Şti'nin söz konusu makineyi leasing yoluyla ... Makine firmasından 16.02.2011 tarihli fatura ile edindiği, söz konusu makinenin davalılardan ... İnşaat Aş ve ... AŞ tarafından kurulan adi ortaklığa kiralandığı, bu firmalar tarafından yürütülen baraj yapım çalışması sırasında gerçekleşen olay sonucunda zararın ortaya çıktığının belirlendiği, sovtaj ve muafiyet indirimi sonrası KDV dahil 181.390,10 TL zararın ortaya çıktığının belirlendiğinin anlaşıldığı, davalılardan ... İnşaat Sanayi Ve Ticaret Aş ile ...
 Sanayi Ve Ticaret AŞ 'nin söz konusu aracın kiracısı oldukları, kira sözleşmesi gereğince öncelikle kiralayana karşı olmak üzere sözleşmeden sorumlu olacağının açık olduğu, ... kiralayana karşı sorumluluğunun ise haksız fiil sorumluluğu olduğu, diğer davalı
 
@@ -77,9 +87,13 @@ Sanayi Ve Ticaret AŞ 'nin söz konusu aracın kiracısı oldukları, kira sözl
 
 ## Antalya BAM 11. HD 2025/1130 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1186217100)
+
 6361 sayılı Finansal Kiralama, Faktoring ve Finansman Şirketleri Kanunu’nun 9/2. Maddesi ve aynı Kanun'un 9/2. maddesinin yollamasıyla somut olaya uygulanması gereken 29257 sayılı Faktoring İşlemlerinde Uygulanacak Usul ve Esaslar Hakkında Yönetmeliğin 5/1. maddesi çerçevesinde davalı faktoring şirketinin dava konusu çeki alırken gerekli istihbarat çalışmasını yapıp yapmadığına ilişkin somut olayın ele alınması gereklidir.
 
 ## İstanbul BAM 44. HD 2025/1366 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1182803300)
 
 HMK'nın 218. maddesi gereğince, defter ve kayıtların sunulması zor veya sakıncalı ise ve bu durum 2 haftalık süre içerisinde bildirilir ise, bilirkişiye yerinde inceleme yetkisi verilmesine, taraflara, ticari defter ve kayıtları bilirkişinin incelemesine hazır bulundurmaları, inceleme gün ve saati konusunda bilirkişi ile gerekli koordinasyonu sağlamaları, Mahkemenin bu yöndeki emrinin yerine getirilmesine haklı bir neden olmaksızın engel olunması halinde engel olan kişi hakkında sebep olduğu giderler ile
 
@@ -88,19 +102,27 @@ Maddesine göre yasal mevzuata uygun iktisap edildiği davalının elindeki kay�
 
 ## İstanbul BAM 17. HD 2025/1305 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1180655300)
+
 Borçlu şirkete ait stoklar, tesis, makine ve cihazlar, taşıtlar, demirbaşlar, yatırımlar ve hakların (leasing) rayiç değeri ise 02/12/2024 tarihli bilirkişi raporu ile toplam 73.005.000,00 TL olarak tespit edilmiştir.Konkordato talep eden borçlu şirketin konkordato ön projesine göre konkordatonun tasdiki halinde konkordatoya tabi borçlarını, 2026 yılı başı itibariyle 24 ay vade ile eşit taksitlerle, faizsiz ve %100 ödemesi öngörülmüş olup 04/12/2024 tarihinde sunulan konkordato revize projesine göre ise, konkordatoya tabi borçların 2026 yılı başından itibaren bir kereye mahsus %24 oranında uygulanacak faiz ile 24 ayda ve aylık eşit taksitler halinde ödeneceği öngörülmüştür. Son olarak sunulan 09/05/2025 tarihli 2. revize projede de, borçlu şirketin konkordatoya tabi borçlarını 2026 yılı başından itibaren bir kereye mahsus %25 oranında uygulanacak faiz ile 24 ayda ve aylık eşit taksitler halinde ödeyeceği öngörülmüştür.Uyuşmazlık, konkordato projesinin başarıya ulaşmasının mümkün olup olmadığı, buna göre kesin mühletin kaldırılmasını gerektiren şartların oluşup oluşmadığı ve iflas kararı verilmesinde usul ve yasaya aykırılık bulunup bulunmadığı noktalarında toplanmaktadır.
 İİK'nun 287. maddesinde borçlunun iyileşmesi ve konkordatonun tasdiki ihtimali "konkordatonun başarı şansı" olarak nitelendirilmiştir. İİK'nun 287/5. ve 288/1. maddeleri yollaması ile geçici mühlet içinde uygulanacak olan İİK'nun 292. maddesinde, iflasa tabi borçlu bakımından kesin mühletin verilmesinden sonra anılan maddede sayılan hususların gerçekleşmesi halinde, mahkemenin kesin mühleti kaldırarak konkordato talebinin reddine ve borçlunun iflasına resen karar vereceği düzenlenmiştir. Bu durumlardan birisi aynı maddenin "b" bendinde; konkordatonun başarıya ulaşamayacağının anlaşılması hali olarak düzenlenmiştir.
 
 ## İstanbul BAM 12. HD 2025/1345 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1167644000)
 
 Ülke parası dışında başka bir para birimiyle ödeme yapılması kararlaştırılmışsa, sözleşmede aynen ödeme veya bu anlama gelen bir ifade bulunmadıkça borç, ödeme günündeki rayiç üzerinden ülke parasıyla da ödenebilir. Ülke parası dışında başka bir para birimiyle belirlenmiş ve sözleşmede aynen ödeme ya da bu anlama gelen bir ifade de bulunmadıkça, borcun ödeme gününde ödenmemesi üzerine alacaklı, bu alacağının aynen veya vade ya da fiili ödeme günündeki rayiç üzerinden ödenmesini isteyebilir." hükmünü haizdir. Anılan yasa hükmüne göre taraflarca aynen ödeme kararlaştırılmadıkça vadesinde ödenen borçta seçim hakkı borçludadır. Dilerse yabancı para borcunu aynen, dilerse TL karşılığını öder. Vadede ödeme yapılmaması halinde ise seçim hakkı alacaklıya geçmektedir. Yine uyuşmazlık konusu davacı faturalarının tamamı yabancı para (İngiliz Sterlini) birimi üzerinden düzenlenmiş olup, bu durum taraflar arasında dövize endeksli ticari ilişki bulunduğunu ispata yeterlidir. 13.09.2018 tarihinde yürürlüğe giren Türk Parasının Kıymetinin Korunması Hakkında 32 Sayılı Kararda Değişiklik Yapılmasına Dair Cumhurbaşkanlığı Kararında;
 Türkiye’de yerleşik kişilerin bakanlıkça belirlenen haller dışında kendi aralarındaki menkul ve gayrimenkul alım satım, taşıt ve finansal kiralama dahil her türlü menkul ve gayrimenkul kiralama, leasing ile iş, hizmet ve eser sözleşmelerinde sözleşme bedeli ve bu sözleşmelerden kaynaklanan diğer ödeme yükümlülüklerinin döviz cinsinden ve dövize endeksli olarak kararlaştırılamayacağı, bu kararın yürürlüğe girdiği tarihten itibaren otuz gün içinde, söz konusu bentte belirtilen ve daha önce akdedilmiş yürürlükteki sözleşmelerdeki döviz cinsinden kararlaştırılmış bulunan bedellerin, bakanlıkça belirlenen haller dışında, Türk parası olarak taraflarca yeniden belirleneceği belirtilmiştir.
 
 ## İzmir BAM 17. HD 2025/1354 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1163041400)
+
 6361 Sayılı Finansal Kiralama Faktoring ve Finansman Şirketleri Kanunu'nun 31/3 maddesine göre "Kiracı ve kiralayan arasında finansal kiralama sözleşmesiyle ilgili ihtilaflarda, mahkemece finansal kiralama konusu malın ihtiyati tedbir kararı alınarak kiralayana veya üçüncü bir kişiye bırakılması durumunda kiralayan, mahkemeye malın rayiç değeri kadar teminat yatırmak suretiyle mal üzerinden tasarruf edebilir. Şu kadarki sözleşmesinin feshinin haksız olduğuna karar verilmesi halinde kiralayan, kiracının zararını tazminle yükümlüdür."…
 
 ## İstanbul BAM 12. HD 2025/1148 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1160198100)
 
 Ülke parası dışında başka bir para birimiyle belirlenmiş ve sözleşmede aynen ödeme ya da bu anlama gelen bir ifade de bulunmadıkça, borcun ödeme gününde ödenmemesi üzerine alacaklı, bu alacağının aynen veya vade ya da fiili ödeme günündeki rayiç üzerinden ödenmesini isteyebilir." hükmünü haizdir. Anılan yasa hükmüne göre taraflarca aynen ödeme kararlaştırılmadıkça vadesinde ödenen borçta seçim hakkı borçludadır. Dilerse yabancı para borcunu aynen, dilerse TL karşılığını öder. Vadede ödeme yapılmaması halinde ise seçim hakkı alacaklıya geçmektedir. Yine uyuşmazlık konusu dayanak faturaların tamamı yabancı para birimi üzerinden düzenlenmiş olup, bu durum taraflar arasında dövize
 
@@ -112,6 +134,8 @@ Yasa metninden de anlaşılacağı üzere, faktoring şirketinin, faktoring işl
 
 ## İstanbul BAM 12. HD 2025/679 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1142701400)
+
 Anılan yasa hükmüne göre taraflarca aynen ödeme kararlaştırılmadıkça vadesinde ödenen borçta seçim hakkı borçludadır. Dilerse yabancı para borcunu aynen, dilerse TL karşılığını öder. Vadede ödeme yapılmaması halinde ise seçim hakkı alacaklıya geçmektedir. Yine uyuşmazlık konusu dayanak faturaların tamamı yabancı para (Euro) birimi üzerinden düzenlenmiş olup, bu durum taraflar arasında dövize endeksli ticari ilişki bulunduğunu ispata yeterlidir. 13.09.2018 tarihinde yürürlüğe giren Türk Parasının Kıymetinin Korunması Hakkında 32 Sayılı Kararda Değişiklik Yapılmasına Dair Cumhurbaşkanlığı Kararında;
 Türkiye’de yerleşik kişilerin bakanlıkça belirlenen haller dışında kendi aralarındaki menkul ve gayrimenkul alım satım, taşıt ve finansal kiralama dahil her türlü menkul ve gayrimenkul kiralama, leasing ile iş, hizmet ve eser sözleşmelerinde sözleşme bedeli ve bu sözleşmelerden kaynaklanan diğer ödeme yükümlülüklerinin döviz cinsinden ve dövize endeksli olarak kararlaştırılamayacağı, bu kararın yürürlüğe girdiği tarihten itibaren otuz gün içinde, söz konusu bentte belirtilen ve daha önce akdedilmiş yürürlükteki sözleşmelerdeki döviz cinsinden kararlaştırılmış bulunan bedellerin, bakanlıkça belirlenen haller dışında, Türk parası olarak taraflarca yeniden belirleneceği belirtilmiştir. Bu karara dayalı olarak Hazine ve Maliye Bakanlığınca çıkarılan ve 16.11.2018 tarihli resmi gazetede
 
@@ -119,9 +143,13 @@ yayımlanan 2018/32-52 sayılı Tebliğin 8/9 maddesinde, Türkiye’de yerleşi
 
 ## Ankara BAM 22. HD 2025/84 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1120163400)
+
 6361 sayılı Finansal Kiralama ve Faktoring ve Finansman Şirketleri Kanununun 31/3. Maddesinde de; “Kiracı ve kiralayan arasında finansal kiralama sözleşmesi ile ilgili ihtilaflarda, mahkemece finansal kiralama konusu malın ihtiyati tedbir kararı alınarak kiralayana veya üçüncü bir kişiye bırakılması durumunda kiralayan, mahkemeye malın rayiç değeri kadar teminat yatırmak suretiyle mal üzerinde tasarruf edebilir. Şu kadar ki; sözleşmenin feshinin haksız olduğuna karar verilmesi hâlinde kiralayan, kiracının zararını tazminle yükümlüdür.” şeklinde Finansal Kiralama sözleşmelerinden kaynaklanan uyuşmazlıklarda uygulanmak üzere özel düzenleme yapılmıştır.
 
 ## İstanbul BAM 44. HD 2025/107 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1107535700)
 
 Sözleşme Numarası ile Finansal Kiralama Sözleşmesi düzenlendiği , sözleşme konusu 2017 Model ... renkli... marka, pamuk hasat makinasına karşılık ''343.951,83 USD dolar ile 66 ay vade ile davalı tarafa ödeneceğinin kararlaştırıldığı, 16.11.2018 tarihli “Türk Parası Kıymetini Koruma Hakkında 32 Sayılı Karara İlişkin Tebliğde Değişiklik Yapılmasına dair2018-32/52 sayılı Tebliğin 8/ 13.bendi hükmü ile;
 "Türk Parası Kıymetini Koruma Hakkında 32 Sayılı Kararın 17 ve 17/A maddeleri kapsamında yapılacak finansal kiralama (leasing) sözleşmelerine ilişkin bedellerin döviz cinsinden kararlaştırılması mümkündür" düzenlemesine yer verildiği , bu nedenle 13.09.2018 tarihinden önce akdedilmiş bulunan finansal kiralama sözleşmelerinin Türk parasına çevrilme zorunluluğu bulunmadığı, sözü edilen 32 sayılı karar gereği 17/07/2017 tarihinde yapılan sözleşmedeki bedelin davalı tarafından Türk Lirasına uyarlanması gerektiği, bu yapılmadığı için ödenen kur farkının tahsili gerektiği iddiasının yerinde olmadığı anlaşılmıştır.Davacının terditli talebi olan finansal kiralama sözleşmesinin düzenlendiği tarihten sonra döviz kurunda aşırı yükselme olduğu, bunun ifa güçlüğüne sebep olduğu , sözleşmede belirlenen ödeme miktarının değişsen koşullara uyarlanması talebine gelince; hukukumuzda sözleşme serbestisi ve sözleşmeye bağlılık ilkesi geçerli olup, sözleşmeye uyarlama yolu ile müdahale ancak istisnai durumlarda söz konusu olabilir. TBK 138.
@@ -131,15 +159,21 @@ borcunu henüz ifa etmemiş olması veya ifanın aşırı ölçüde güçleşmes
 
 ## Ankara BAM 22. HD 2024/1788 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1113651300)
+
 22.10.2020 tarihli temlik sözleşmesinin incelenmesinde temlik eden davacı şirket, temlik alanın dava dışı ... Finansal Kiralama A.Ş olduğu, temlik sözleşmesinin muhatabının davalı ... A.Ş olduğu, temlik alan banka, davacı ile imzaladığı temlik sözleşmesinde davacı şirketin, temlik borçlusu davalı ile arasında yapılan bağlantı anlaşmasına konu elektrik satımı sözleşmesi işinden kaynaklı doğmuş / doğacak alacağından belirtilen miktarın temlik alan dava dışı bankaya devredildiği, sözleşmenin 3.maddesinde temlik edilen alacağın tahsilinde tek muhatabın dava dışı temlik alan banka olduğu, bu hususta davalının bir tasarruf hakkı bulunmadığının düzenlendiği anlaşılmıştır.
 
 ## Sakarya BAM 7. HD 2024/1821 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1112011900)
 
 Eldeki davada, tüm dosya kapsamından; davacının da katıldığı ve olumlu oy kullandığı 04/03/2014 tarih 2014/2 sayılı yönetim kurulu toplantısında yukarıda açık bilgilerine yer verilen taşınmazın, İMES OSB'den satın alınmasına karar verildiği görülmüştür.
 Verilen karar doğrultusunda taşınmaz satış bedeli olan 2.480.000,00.TL'nin 2.400.000,00.-TL'lik kısmının Denizbank A.Ş.'den rotatif kredi kullanılması suretiyle karşılandığı, daha sonra bu kredinin finansal kiralamaya çevrildiği, bu işlem yapılırken sat ve kirala yöntemi ile gayrimenkulün Deniz Finansal Kiralama A.Ş.'ye devredildiği, ödeme güçlüğünden dolayı Deniz Finansal Kiralama A.Ş.'nin borcunun Türkiye Finans Katılım Bankası A.Ş. tarafından kapatılarak gayrimenkulün tekrar şirkete dönüşünün sağlandığı, Türkiye Finans Katılım Bankası A.Ş. tarafından borcun kapatılmasından sonra bu defa Türkiye Finans Katılım Bankası A.Ş.'ye sat ve kirala yöntemi ile taşınmazın devredildiği, bu işlemin gerçek anlamda satış işlemi olmadığı ve bir kredi temin yöntemi olarak kullanıldığı, dosya arasına alınan mali müşavir bilirkişiden alınan rapora göre; gayrimenkulün sat ve kirala yöntemi ile devredildiği 2018 senesinde şirketin rasyoları, finansal oranları ve satış-karlılık tutarları, yıllara yaygın inşaat gelir ve maliyet rakamlarına göre bu işlemin yapılmasının zorunlu olduğu, gayrimenkulün ilk defa satın alındığında 2.480.000,00.-TL olan bedelinin, 80.000,00.-TL'sinin dava dışı şirket
 tarafından karşılandığı, kalan ödemelerin banka kredisi ve finansal kiralama karşılandığı anlaşılmıştır.
 
 ## İstanbul BAM 14. HD 2024/1225 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1065336700)
 
 Maddenin ilk fıkrasında, gönderilen, eşyanın teslimini isteme hakkını kullanmazsa, taşıtanın navlun sözleşmesi gereğince navlunu ve diğer alacakları taşıyana ödemekle yükümlüdür düzenlemesine yer verilmiştir. Somut davada, davacı taraf taşıma işleri organizatörü olup davalı ise ithalatı yapan alıcıdır. Dosya kapsamında bulunan konşimentoya göre, davacı ile davalı arasında taşıma sözleşmesinin kurulması ve davalının alıcı olarak varma limanında yükü teslim alacak kişi olarak belirtilmesi karşısında tarafların aktif ve pasif dava ehliyetinin bulunduğu ve davalının taşıtan sıfatının haiz olduğu anlaşılmıştır. Taşıma sözleşmesi davacı ile dava dışı finansal kiralama sözleşmesinin tarafı olan ... AŞ arasında düzenlenen finansal kiralama sözleşmesinden bağımsız ve sözleşmenin
 
@@ -148,10 +182,14 @@ tarafları yönünden borç doğuran bir sözleşmedir. Finansal kiralama sözle
 
 ## İstanbul BAM 45. HD 2024/1063 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1065058200)
+
 4.maddeye eklenen g bendi; "g) (Ek:RG-13/9/2018-30534-C.K.-85/1 md.) Türkiye'de yerleşik kişilerin, Bakanlıkça belirlenen haller dışında, kendi aralarındaki menkul ve gayrimenkul alım satım, taşıt ve finansal kiralama dâhil her türlü menkul ve gayrimenkul kiralama, leasing ile iş, hizmet ve eser sözleşmelerinde sözleşme bedeli ve bu sözleşmelerden kaynaklanan diğer ödeme yükümlülükleri döviz cinsinden veya dövize endeksli olarak kararlaştırılamaz.", Geçici 8.madde; "Bu Kararın 4 üncü maddesinin (g) bendinin yürürlüğe girdiği tarihten itibaren otuz gün içinde, söz konusu bentte belirtilen ve daha önce akdedilmiş yürürlükteki sözleşmelerdeki döviz cinsinden kararlaştırılmış bulunan bedeller, Bakanlıkça belirlenen haller dışında; Türk parası olarak taraflarca yeniden belirlenir." şeklindedir. Türk Parası Kıymetini Koruma Hakkındaki 32 sayılı Kararda Değişiklik Yapılmasına Dair 85 sayılı Cumhurbaşkanı Kararı yayımlandıktan sonra, karar hükümlerini yürütmekle görevli Hazine ve Maliye Bakanlığı tarafından çıkartılan ve 06/10/2018 tarih ve 30557 sayılı Resmi Gazete'de yayımlanan Türk Parası Kıymetini Koruma Hakkında 32 Sayılı Karara İlişkin Tebliğ (Tebliğ No:
 2008-32/34)'de Değişiklik Yapılmasına Dair Tebliğ (Tebliğ No: 2018-32/51) ile mülga 8.madde "Döviz Cinsinden ve Dövize Endeksli Sözleşmeler" başlığı ile birlikte yeniden düzenlenmiştir.
 
 ## İzmir BAM 20. HD 2024/1204 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1071101600)
 
 Somut olayda; 6100 sayılı Hukuk Muhakemeleri Kanunu'nun 199 uncu maddesine göre belge niteliğinde bulunan e-mail yazışmalarının aynı Kanunu'nun 202 nci maddesi uyarınca yazılı delil başlangıcı olarak kabulünün gerektiği, bu kapsamda tarafların tanık deliline dayandıkları dikkate alındığında tanıklarını bildirmeleri için taraflara süre verilmesi, taraflar tanıklarının dava dışı ... Şti. ve ... Şti. ile davalı arasında yapılan satış sözleşmelerine aracılık edip etmediği hususlarında dinlenilmesi, anılan bu şirketler ile davalı şirketten aralarındaki iş makinesi satışına ilişkin satış faturaları, satış belgeleri, leasing sözleşmeleri gibi tüm dayanak belgelerin belgelerin getirtilmesi, davalı ticari defter ve kayıtları üzerinde mali
 

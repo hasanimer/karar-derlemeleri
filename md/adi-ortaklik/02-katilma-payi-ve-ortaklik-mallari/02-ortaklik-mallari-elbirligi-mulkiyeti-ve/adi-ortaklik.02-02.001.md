@@ -21,11 +21,15 @@ uyari: "Derleyenin seçtiği alıntılardır; kararın tamamı değildir. Künye
 
 ## Yargıtay HGK 2022/1325 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/857573600)
+
 22\. 6098 sayılı Türk Borçlar Kanunu’nun (TBK) 638. maddesinin 1. fıkrasına göre ortaklık için edinilen veya ortaklığa devredilen şeyler, alacaklar ve ayni haklar, ortaklık sözleşmesi çerçevesinde elbirliği hâlinde bütün ortaklara ait olur. Adi ortaklık sözleşmesinde açık bir hüküm bulunmadıkça bir ortağın alacaklıları, borçlunun ortağı bulunduğu adi ortaklığın elbirliği mülkiyeti hâlindeki payı üzerine haciz koyduramaz, ancak borçlu ortağın tasfiyedeki payına (borçlusunun adi ortaklıktaki tasfiye sonundaki payına) TBK’nın 638. maddesinin 2. fıkrasına ve İİK’nın 89. maddesinin 1. fıkrasına göre haciz koydurabilir. Adi şirket ortağının alacaklısı TBK’nın 630. maddesinin 3. fıkrası uyarınca en az yılda bir defa yapılacak hesap sonunda borçlu ortağa düşecek kâr payı üzerine de İİK’nın 89. maddesi uyarınca haciz koydurabilir (Kuru, s. 454).
 
 Türk Borçlar Kanunu’nun 637. maddesinin 1. fıkrası uyarınca kendi adına ve ortaklık hesabına bir üçüncü kişi ile işlemde bulunan ortak, bu kişiye karşı bizzat kendisi alacaklı ve borçlu olur. TBK’nın 638. maddesinin 3. fıkrası hükmüne göre ortaklar birlikte veya bir temsilci aracılığı ile bir üçüncü kişiye karşı ortaklık ilişkisi çerçevesinde üstlendikleri borçlardan aksi kararlaştırılmamış ise müteselsil sorumlu olurlar. Adi ortağın, gerek adi ortaklık ilişkisi nedeniyle üstlendiği borçlardan gerekse şahsi borçlarından dolayı aleyhlerinde yapılan icra takiplerinde İİK’nın 89. maddesine göre üçüncü kişilerdeki hak ve alacaklarına haciz konulabilir.
 
 ## Yargıtay HGK 2021/644 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/686130000)
 
 Katılım payı unsuruna ilişkin düzenlemenin yer aldığı TBK'nın 621. maddesinin 1. fıkrasına göre her ortak, para, alacak veya başka bir mal ya da emek olarak, ortaklığa bir katılım payı koymakla yükümlü olup, anılan Kanunun 638. maddesinin 1. fıkrasına göre de ortaklık için edinilen veya ortaklığa devredilen şeyler, alacaklar ve ayni haklar, ortaklık sözleşmesi çerçevesinde elbirliği hâlinde bütün ortaklara ait olur. Dikkat edilirse bu durumda ortakların kendi mal varlıklarından bağımsız, elbirliğiyle malik oldukları özel bir mamelek olarak ortaklık mameleki ile karşılaşıyoruz. Kaldı ki 818 sayılı Borçlar Kanunu (BK)’nun 534. maddesinin 2. cümlesinde (6098 sayılı TBK'nın 638/1. m.) gereğince, ortağın şahsi alacaklısının ortaklık mal varlığına değil de, ortağın ancak tasfiye payına yönelebilmesi de ortaklığın aslında bir mal varlığı olduğunu göstermektedir. Yine böyle bir ortaklık mamelekinin mevcut olduğu BK'nın 538 vd. (6098 sayılı TBK'nın 642 vd) maddelerinde düzenlenen tasfiyeye ilişkin ilkelerden de açıkça ortaya çıkmaktadır (Şener, O.H.: Adi Ortaklık, Ankara 2008, s. 179).
 
@@ -40,6 +44,8 @@ Hal böyle olunca, İlk Derece Mahkemesince; önceki bilirkişiler dışında ye
 
 ## Yargıtay 3. HD 2025/5826 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1204845200)
+
 Bu bağlamda, ortaklık geliri ile alınan (ortaklığın mal varlığına dahil olan) bir değerin; adi ortaklığın tasfiyesine ilişkin protokol ile tasfiye amacıyla ortaklardan birine bırakılacağına dair kararlaştırmanın, diğer bir anlatımla ortaklardan birinin diğer ortağa ortaklık geliri ile alınmış mal varlığı değerinin mülkiyetini geçirme borcu altına girmesi (bu mal varlığı değerinin devri ilgili kanun gereğince resmi şekilde düzenlenme şartına bağlı olsa bile) hukuken mümkün ve geçerlidir. Resmi şekilde düzenleme şartı, ancak tapulu bir taşınmazın mülkiyetinin katılım payı (sermaye) olarak ortaklığa konulması halinde aranması gerekir. Yargıtay (Kapatılan) 13. Hukuk Dairesinin 30.06.2003 tarihli ve 2003/1289 E., 2003/8687 K., Yargıtay Hukuk Genel Kurulunun 10.04.1991 tarihli ve 1991/13-76 E., 1991/199 K. ve Dairemizin 12.06.2024 tarihli ve 2024/937 E., 2024/1951 K. sayılı ilamları da aynı yöndedir.
 
 Hal böyle olunca, İlk Derece Mahkemesince; adi ortakların tümünü ilgilendiren adi ortaklık sözleşmesinin tasfiyesine ilişkin açılan işbu davada öncelikle, 6098 sayılı Kanunun 644. maddesi gereği dava dışı ortak olan... mirasçılarının davaya dahili sağlanarak, adi ortaklığın tasfiyesinde hakim olan irade özerkliği ilkesi uyarınca davalı ortak (müteveffa) ... tarafından hazırlanan ve 7 86... parselde kayıtlı taşınmazın tapusunun alındığı takdirde, ... ile olan ortaklığı gereği, en az arsanın 1/5'i karşılığı hissenin... mirasçıları adına tapuda vermeyi kabul ve taahhüt ettiği 18.10.2001 tarihli ''Taahhütname'' başlıklı belgenin ve İstanbul Anadolu 9.
@@ -48,6 +54,8 @@ yapılan masrafların tespit edilebileceği göz önünde bulundurularak, konusu
 
 ## Yargıtay 3. HD 2025/2619 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1158074900)
+
 Adi ortaklık sözleşmesi, TBK nun 620. maddesine göre, iki ya da daha fazla kişinin emeklerini ve mallarını ortak bir amaca erişmek üzere birleştirmeyi üstlendikleri sözleşmedir. Adi ortaklığın tüzel kişiliği bulunmadığından adli işlemlerde (dava açma, icra takibi gibi) aktif ve pasif taraf olma yeteneği, ehliyeti bulunmamaktadır. Adi ortaklıkta ortaklık malları ile haklarına ilişkin taleplerin tüm ortaklarca birlikte ileri sürülmesi gerekir (Yargıtay Hukuk Genel kurulu 24.06.2020 T. 2017/3-457 E., 2020/469K.). Aynı Kanunun 624. maddesine göre, Ortaklığın kararları, bütün ortakların oybirliğiyle alınır. Bu nedenle haklar ve borçlar ortaklara ait olur. Yine TBK 'nun 638. maddesine göre, Ortaklık için edinilen veya ortaklığa devredilen şeyler, alacaklar ve ayni haklar, ortaklık sözleşmesi çerçevesinde elbirliği hâlinde bütün ortaklara ait olur. Elbirliği mülkiyetini düzenleyen TMK nun 701. maddesine göre, Kanun veya kanunda öngörülen sözleşmeler uyarınca oluşan topluluk dolayısıyla mallara birlikte malik olanların mülkiyeti, elbirliği mülkiyetidir. Elbirliği mülkiyetinde ortakların belirlenmiş payları olmayıp her birinin hakkı, ortaklığa giren malların tamamına yaygındır.
 Aynı Kanunun 702/2. Maddesine göre, Kanunda veya sözleşmede aksine bir hüküm bulunmadıkça, gerek yönetim, gerek tasarruf işlemleri için ortakların oybirliğiyle karar vermeleri gerekir. Bu durumun doğal sonucu olarak elbirliği mülkiyetinin bulunduğu hallerde mecburi takip ve dava arkadaşlığı bulunmaktadır.
 
@@ -55,9 +63,13 @@ Adi ortaklıkta ortaklardan birine yönetim yetkisi verilebilir. Kural olarak or
 
 ## Yargıtay 3. HD 2023/2867 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/981301800)
+
 Aynı kanunun 638 inci maddesi; "Ortaklık için edinilen veya ortaklığa devredilen şeyler, alacaklar ve ayni haklar, ortaklık sözleşmesi çerçevesinde elbirliği hâlinde bütün ortaklara ait olur. Ortaklık sözleşmesinde aksine bir hüküm bulunmadıkça, bir ortağın alacaklıları, haklarını ancak o ortağın tasfiyedeki payı üzerinde kullanabilirler. Ortaklar, birlikte veya bir temsilci aracılığı ile, bir üçüncü kişiye karşı, ortaklık ilişkisi çerçevesinde üstlendikleri borçlardan, aksi kararlaştırılmamışsa müteselsilen sorumlu olurlar".
 
 ## Yargıtay 3. HD 2022/9634 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/864595700)
 
 6100 sayılı Hukuk muhakemeleri kanunun 59. Maddesinde mecburi dava arkadaşlığı düzenlenmiştir. Buna göre maddi hukuka göre, bir hakkın birden fazla kimse tarafından birlikte kullanılması veya birden fazla kimseye karşı birlikte ileri sürülmesi ve tamamı hakkında tek hüküm verilmesi gereken hâllerde, mecburi dava arkadaşlığı vardır. 4721 sayılı Türk Medeni Kanunu'nun (TMK) 640/2. maddesine göre; “Mirasçılar terekeye elbirliği ile sahip olurlar ve sözleşme veya kanundan doğan temsil ya da yönetim yetkisi saklı kalmak üzere, terekeye ait bütün haklar üzerinde birlikte tasarruf ederler.” TMK m.701/1 . Maddesine göre ise "Kanun veya kanunda öngörülen sözleşmeler uyarınca oluşan topluluk dolayısıyla mallara birlikte malik olanların mülkiyeti, elbirliği mülkiyetidir." . Elbirliği mülkiyetinde ise TMK m. 702. Maddesindeki düzenlemeye göre ortakların hakları ve yükümlülükleri, topluluğu doğuran kanun veya sözleşme hükümleri ile belirlendiği gibi kanunda veya sözleşmede aksine bir hüküm bulunmadıkça, gerek yönetim, gerek tasarruf işlemleri için ortakların oybirliğiyle karar vermeleri gerekir. Elbirliği mülkiyet türünde malikler mülkiyet payları ayrılmadığından paydaş değil, ortaktır.
 Bu kural, yukarıda da belirtildiği üzere TMK’nin 701. maddesinde açıklanmıştır. Elbirliği (İştirak) halinde mülkiyetin bu özelliği itibariyle ortaklar arasında zorunlu dava arkadaşlığı bulunmaktadır.
@@ -66,6 +78,8 @@ Elbirliğini oluşturan ortaklardan her biri, topluluğa giren hakların korunma
 Ne var ki bu kural, uygulamada yumuşatılarak, 11.10.1982 tarih, 1982/3-2 sayılı İçtihadı Birleştirme Kararıyla bir ortağın tek başına dava açabileceği; ancak, davaya devam edebilmesi için öteki ortakların olurlarının alınması veya miras şirketine atanacak temsilci aracılığıyla davanın sürdürülmesi gerektiği kabul edilmiştir. Ortaklardan bir veya birkaçı tarafından dava açılması ve zorunlu dava arkadaşlığı nedeniyle birlikte dava açmaları gereken hallerde diğer ortakların davaya muvafakatinin sağlanması, muvafakatın temin edilememesi halinde ise taraf teşkili bakımından muvafakat vermeyen diğer ortak ya da ortaklar aleyhine asıl dava ile birleştirilmek üzere dava açtırılıp, açılacak davanın bu davayla birleştirilerek taraf teşkili sağlandıktan sonra işin esasının incelenmesi HMK m. 26/1 de düzenlenen usul ekonomisi ilkesi gereğidir.
 
 ## Yargıtay 6. HD 2021/1640 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/704731200)
 
 TBK'nın 620. maddesindeki tanıma göre; adi ortaklık sözleşmesi, iki ya da daha fazla kişinin emeklerini ve mallarını ortak bir amaca erişmek üzere birleştirmeyi üstlendikleri sözleşmedir. TBK'nın 624. maddesine göre ortaklığın kararları, bütün ortakların oybirliğiyle alınır. Sözleşmede kararların oy çokluğuyla alınacağı belirtilmişse çoğunluk, ortak sayısına göre belirlenir. TBK'nın 638. maddesinde ise, adi ortaklık için edinilen veya ortaklığa devredilen şeyler, alacaklar ve ayni haklar, ortaklık sözleşmesi çerçevesinde elbirliği hâlinde bütün ortaklara ait olur. Ortaklık sözleşmesinde aksine bir hüküm bulunmadıkça, bir ortağın alacaklıları, haklarını ancak o ortağın tasfiyedeki payı üzerinde kullanabilirler. Ortaklar, birlikte veya bir temsilci aracılığı ile, bir üçüncü kişiye karşı, ortaklık ilişkisi çerçevesinde üstlendikleri borçlardan, aksi kararlaştırılmamışsa müteselsilen sorumlu olurlar.
 
@@ -76,18 +90,26 @@ Adi ortaklığın tüzel kişiliği olmayıp adi ortaklar arasında elbirliği i
 
 ## Yargıtay 11. HD 2019/2414 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/506645300)
+
 5846 sayılı FSEK’nun 9. maddesi uyarınca, birden fazla kimselerin birlikte vücuda getirdikleri eserin kısımlara ayrılması mümkünse bunlardan her biri vücuda getirdiği kısmın sahibi sayılır. Aksi kararlaştırılmadıkça eseri birlikte vücuda getirenlerden herbiri bütün eserin değiştirilmesi veya yayınlanması veya eserden doğan mali hakların kullanılması için diğerlerinin iştirakini isteyebilir. Diğer eser sahipleri haklı bir sebep olmaksızın bu talebe iştirak etmediği takdirde, bu izin mahkemece de verilebilir. 5846 sayılı FSEK’nun 10/1 ve 2. Fıkralarında ise “....Birden fazla kimsenin iştirakiyle vücuda getirilen eser ayrılmaz bir bütün teşkil ediyorsa, eserin sahibi, onu vücuda getirenlerin birliğidir. Birliğe adi şirket hakkındaki hükümler uygulanır. Eser sahiplerinden biri, birlikte yapılacak bir muameleye muhik bir sebep olmaksızın müsaade etmezse, bu müsaade mahkemece verilebilir. Eser sahiplerinden her biri, birlik menfaatlerine tecavüz edildiği takdirde tek başına hareket edebilir....” hükmü düzenlenmiştir.
 Bu düzenleme çerçevesinde “...birden fazla kişinin katılımıyla meydana getirilen ve her birisinin katılımının diğerinden ayrılması mümkün olmayan eser bir bütün oluşturuyorsa, elbirliği (iştirak) halinde eser sahipliğinin söz konusu olacağı, elbirliği halinde eser sahipliğine fesih ve tasfiyeye ilişkin olanlar dışında 6098 sayılı TBK’nun 620 vd. maddeleri uyarınca “Adi Ortaklık Sözleşmesi” hükümlerinin uygulanacağı açıktır. Tarafların kanunun emredici hükümlerine aykırı olmayacak şekilde sözleşme ile elbirliği halinde mülkiyet hükümlerinden kaynaklanan hak ve yükümlülükleri belirlemeleri mümkündür. Elbirliği halinde eser sahipliği oybirliği ile alınacak kararlarla yönetilir. Esere tecavüz halinde eser sahiplerinden her biri tek başına hareket edebilir. (Levent YAVUZ, Türkay ALICA, Fethi MERDİVAN, Fikir ve Sanat Eserleri Kanunu Yorumu, Cilt I, syf. 208,210....”.
 
 ## Yargıtay 20. HD 2018/1028 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/414169400)
+
 6100 sayılı HMK'nın 65. maddesindeki düzenleme gereğince; bir yargılamanın konusu olan hak veya şey üzerinde kısmen ya da tamamen hak iddia eden üçüncü kişinin, hüküm verilinceye kadar bu durumu ileri sürerek, yargılamanın taraflarına karşı aynı mahkemede dava açabileceği, yine TBK'nın 620/1 maddesine göre; iki ya da daha fazla kişinin emeklerini ve mallarını ortak bir amaca erişmek üzere birleştirmek amacıyla adi ortaklık sözleşmesi yapabileceği, adi ortaklık sözleşmesinin geçerlilik yönünden herhangi bir şekle tabi olmadığı açıktır, ancak; taşınmaza ilişkin adi ortaklık sözleşmesinin tapuya şerh edilmedikçe şahsi hak niteliğinde bulunduğu, müdahil olmak isteyen tarafından İstanbul 20. Asliye Hukuk Mahkemesinde ortaklığın feshi amacıyla açılmış bir davanın da olduğu ve şahsi hakkın bu davada ileri sürülebilme imkanının bulunduğu anlaşıldığına göre, 23.12.2015 tarihli ara kararla müdahil olma isteminin reddine karar verilmesinde isabetsizlik bulunmadığına göre; temyiz dilekçesinin reddine karar verilmesi gerekmiştir.
 
 ## Yargıtay 3. HD 2017/14362 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/390950000)
+
 Diğer taraftan, adi ortaklığın tüzelkişiliği bulunmadığından; ortaklık mamelekine ilişkin alacaklar hakkında aktif taraf ehliyeti tüm ortaklara ait olduğu gibi, üçüncü kişiler tarafından adi ortaklığa yöneltilen davanın konusu ortakların elbirliği ile tasarrufta bulunabilecekleri bir edimse, elbirliği ile mülkiyet ilkesi nedeniyle davanın tüm ortaklara yöneltilmesi gerekir.
 
 ## Yargıtay 12. HD 2017/13593 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/376377400)
 
 6098 sayılı Türk Borçlar Kanunu'nun 638/1. maddesinde; "Ortaklık için edinilen veya ortaklığa devredilen şeyler, alacaklar ve ayni haklar, ortaklık sözleşmesi çerçevesinde elbirliği hâlinde bütün ortaklara ait olur" hükmü mevcuttur. Bu hükme göre adi ortaklık mallarının üzerinde, adi ortaklığı oluşturan gerçek ve tüzel kişilerin elbirliği ile mülkiyet hakları bulunmaktadır. Herhangi bir şeyin tamamının veya hissesinin üzerinde adi ortaklığın mülkiyetinin var olabilmesi için, bu şeyin adi ortaklık adına kayıtlı olması gerekmektedir.
 
@@ -95,9 +117,13 @@ Somut olayda; borçlunun hissesinin bulunduğu araçlar üzerine de haciz konuld
 
 ## Yargıtay 15. HD 2017/61 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/295663600)
+
 Kanundaki tanıma göre; adi ortaklık sözleşmesi, iki ya da daha fazla kişinin emeklerini ve mallarını ortak bir amaca erişmek üzere birleştirmeyi üstlendikleri sözleşmedir (818 sayılı BK 520). Kanun veya kanunda öngörülen sözleşmeler uyarınca oluşan topluluk dolayısıyla mallara birlikte malik olanların mülkiyeti, elbirliği mülkiyetidir. Elbirliği mülkiyetinde ortakların belirlenmiş payları olmayıp her birinin hakkı, ortaklığa giren malların tamamına yaygındır. (4721 sayılı TMK 701.) Adi ortaklık, Türk Ticaret Kanunu kapsamında yer alan ortaklıkların aksine tüzel kişiliği haiz değildir. Tüzel kişiliği olmadığından, adi ortaklık, üçüncü kişilerle ilişkilerinde bağımsız bir varlığa sahip değildir. Dolayısıyla adi …
 
 ## Yargıtay 20. HD 2016/12237 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/282424400)
 
 Dava, tellallık sözleşmesinden kaynaklı alacak istemine ilişkindir.
 
@@ -107,11 +133,15 @@ Tüketici Mahkemesi ise, sözleşmeye konu gayrimenkulün ....i Anaokulu isimli 
 
 ## Yargıtay 17. HD 2016/6941 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/227562800)
+
 Ancak dava konusu olayda asıl üzerinde durulması gereken sorun,borçlu ve davalı 3.kişi şirket arasında kurulmuş olan adi ortaklıktan doğan alacağın borçlu ortağın şahsi alacaklısı tarafından haczedilip bu alacağın kendisine ödenmesini isteyip istiyemeceği noktasında toplanmaktadır. Dosya içerisindeki belgelerden, davalı şirketlerin ... Yapım işi ile ilgili olarak adi ortaklık kurdukları ve 20.06.2011 tarihinde işi bu ortaklık olarak ihale ile aldıkları, 03.08.2011 tarihinde de borçlu şirketin bu iş nedeni ile ödenecek olan hakediş bedellerini diğer davalı şirkete temlik ettiği anlaşılmaktadır. TBK'nun 620 (BK'nun520).maddesinde düzenlenen adi ortaklıklarda anılan yasanın 638.
 
 (BK'nun534).maddesine göre ortalık için edinilen veya ortaklığa devredilen şeyler, alacaklar ve aynı haklar ortaklık sözleşmesi çerçevesinde elbirliği halinde bütün ortaklara ait olur. Ortaklık sözleşmesinde aksine hüküm bulunmadıkça bir ortağın alacaklıları haklarını ancak o ortağın tasfiyedeki payı üzerinde kullanabilir. Bu ilke, elbirliğiyle mülkiyetin temel felsefesine uygundur. Çünkü bu halde ortakların bağımsız ve ayrı bir payları yoktur. Ortağın alacaklısının da adi ortaklık aktifleri üzerinde herhangi bir hakka sahip değildir. Bu nedenle bir ortağın şahsi alacaklısı TBK'nun 638.maddesi gereğince ancak ortağa düşecek tasfiye payına yada kar payına başvurabilir.
 
 ## Yargıtay 3. HD 2016/3310 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/200704900)
 
 Ancak, adi ortaklığın, bazı komşu hukuksal müesseselerden, özellikle kira sözleşmesinden ayırt edilmesini sağlayan temel kriterler; müşterek amaç ve müşterek amaç uğruna birlikte çaba unsurudur. Zira, ortaklığa sermaye olarak yalnızca emeğini koyan ortağın zarardan muaf tutulabileceğini öngören TBK. md. 623/3 hükmünün karşıt anlamına (argumentum a contrario) başvuran Türk doktrininde, ortaklığa sermaye olarak salt emeğini koyan ortak dışında hiçbir ortağın zarardan muaf tutulamayacağı, müşterek amacın ve sonuçta adi ortaklığın varlığından söz edebilmek için bütün ortakların hem kazanca ve hem de zarara katılmalarının gerekli olduğu görüşü egemendir. Ayrıca, ortakların müşterek amaca ulaşmak için birlikte çaba sarf etmek konusunda yükümlülük altına girmeleri, adi ortaklığın varlığı bakımından zorunludur. Bu unsur ortaklık sözleşmesinin içeriğinde mutlaka yer almalıdır(Prof. Dr. Nami Barlas, Adi Ortaklık Temeline Dayalı Sözleşme İlişkileri, 3.Baskı, İstanbul 2012, s. 25-40).
 
@@ -120,6 +150,8 @@ Buna göre, 29.04.2014 tarihli sözleşme maddelerinin hep birlikte yorumlanmas�
 
 ## Yargıtay 3. HD 2015/20893 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/471970800)
+
 Somut olayda; taraflar arasında davalı adına kayıtlı olan arsa üzerinde anahtar teslim bir villa inşaa etme ve söz konusu villa hazır olduğunda açık piyasada satma konusunda bir adi ortaklık kurulduğu, anlaşmaya göre, taşınmazın yatırımı ve mülkiyetinin taraflar arasında eşit paylaştırılacağının ve bir tarafın izni olmadan taşınmazın satılamayacağının kararlaştırıldığı anlaşılmaktadır.İş bu ortaklık sözleşmesinden sonra sözleşmeye konu villanın inşaa edildiği ve davalı tarafından üçüncü bir şahsa satıldığı hususunda bir uyuşmazlık bulunmamaktadır. Bu tarihten önce ortaklığın fesih ve tasfiye edildiği ispatlanamamıştır. Ortaklığa konu inşaatın tamamlanmış olduğu tartışmasız olduğuna göre ortaklığın amacına ulaşıldığının kabulü gerekir. Bu nedenle de ortaklığın fesih ve tasfiyesi gerekir.Bir ortak tarafından adi ortaklığa ilişkin olan sermaye payının istenmesi, ortaklığın faaliyetlerinden dolayı uğranılan zararın veya kar payının talep edilmesi; aynı zamanda ortaklığın feshini ve tasfiyeyi de kapsar. Uyuşmazlık, bu bağlamda değerlendirilip, çözüme kavuşturulmalıdır.Bu durumda, mahkemece;
 01.07.2012 tarihinde yürürlüğe giren 6098 sayılı Türk Borçlar Kanununun 620 ve devamı maddelerinde düzenlenen adi ortaklık hükümleri dikkate alınmalı, Türk Borçlar Kanununun 642.madde ve devamı hükümlerine göre tasfiye işlemi gerçekleştirilmelidir. Zira, 6101 sayılı Türk Borçlar Kanununun Yürürlüğü ve Uygulama Şekli Hakkında Kanunun 1.maddesine göre; Türk Borçlar Kanununun yürürlüğe girdiği tarihten önceki fiil ve işlemlere, bunların hukuken bağlayıcı olup olmadıklarına ve sonuçlarına, bu fiil ve işlemler hangi kanun yürürlükte iken gerçekleşmişse, kural olarak o kanun hükümleri uygulanır. Ancak, Türk Borçlar Kanununun yürürlüğe girmesinden sonra bu fiil ve işlemlere ilişkin olarak gerçekleşecek temerrüt, sona erme ve tasfiye, Türk Borçlar Kanunu hükümlerine tabidir.
 
@@ -127,6 +159,8 @@ Adi ortaklık sözleşmesi, iki ya da daha fazla kişinin emeklerini ve malları
 Ancak, ortaklık sözleşmesinde, ortaklardan biri tarafından kendi adına ve ortaklık hesabına belirli bazı işlemlerin yapılması öngörülmüşse, bu ortak, ortaklığın sona ermesinden sonra da o işlemleri tek başına yapmak ve diğerlerine hesap vermekle yükümlüdür.Ortaklar, tasfiye işlerini yürütmek üzere tasfiye görevlisi atayabilirler. Bu konuda anlaşamamaları hâlinde, ortaklardan her biri, tasfiye görevlisinin hâkim tarafından atanması isteminde bulunabilir.
 
 ## Yargıtay 23. HD 2015/3906 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/201671000)
 
 Davalılar .... ile ....'nin biraraya gelip kurdukları ortak girişimin hukuki niteliği, dava tarihinde yürürlükte olan BK’nın 520. vd. madde hükümlerinde düzenlenen adi ortaklık olup, adi ortaklığın tüzel kişiliği olmadığı gibi, dava ve taraf ehliyeti de yoktur. Borçlar Kanunu’nun 530. ( TBK 630) maddesinde düzenlendiği üzere, adi ortaklık sözleşmesinde bir hüküm mevcut olmadıkça, adi ortaklığı idare eden ortak ile diğer ortaklar arasındaki ilişkiler, vekâlet hükümlerine tâbidir. Özel bir yetkiyi haiz olmadıkça vekilin, önemli işlemlerden olan davayı açamayacağı BK’nın 388. (TBK 504.) maddesi hükmü gereğidir. Adi ortaklık, iştirak halinde mülkiyet kurallarına tâbi olduğu için, davaların, Türk Medeni Kanunu’nun 702. ve BK’nın 534. ( TBK 638.) maddeleri gereğince bütün ortaklar tarafından birlikte açılması gerekir. Adi ortaklığın davacı olduğu hallerde adi ortaklığı oluşturan ortaklar arasında zorunlu dava arkadaşlığı bulunduğundan, davanın ortaklar tarafından birlikte açılması, sadece biri tarafından açılan davanın hemen reddedilmemesi, diğer ortağın HMK'nın 59. ve 60. madde hükümleri gözetilerek, davaya dahil edilmesi için davacı yana önel verilerek taraf teşkili sağlanması gerekir.
 Adi ortaklığa karşı açılacak davaların konusunu taşınır ve taşınmaz malların oluşturması halinde, BK’nın 534. ( TBK 638.) madde hükmü nedeniyle davanın, aralarında zorunlu dava arkadaşlığı bulunan tüm ortaklara karşı açılması gerekir ise de, davanın konusu para alacağı ise, ortaklardan her biri borçtan müteselsil sorumlu olduklarından, alacaklı müteselsil borçlulardan birini dahi tercih edebilir.

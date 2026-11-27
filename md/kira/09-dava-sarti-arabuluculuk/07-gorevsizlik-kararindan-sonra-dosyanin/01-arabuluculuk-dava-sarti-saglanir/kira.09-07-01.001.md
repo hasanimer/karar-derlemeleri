@@ -21,15 +21,21 @@ uyari: "Derleyenin seçtiği alıntılardır; kararın tamamı değildir. Künye
 
 ## Yargıtay HGK 2026/11 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1202391900)
+
 Dava, arabulucuya başvurmadan açılmışsa, mahkemece davacıya eksikliği gidermesi için herhangi bir süre verilmeksizin ya da herhangi bir işlem yapılmaksızın davanın dava şartı yokluğundan usulden reddine karar verilir.
 
 **ANCAK, Görevsizlik kararından sonra dosya görevli mahkemenin esasına kaydedilmesinden önce arabuluculuk başvurusunda bulunularak başvurunun sonuçlandırıldığı gözetildiğinde davanın usulden reddine karar verilerek arabuluculuk ve dava sürecinin yeniden başlatılmasının usul ekonomisi ilkesine de aykırı olacağı ortadadır.**
 
 ## Yargıtay 9. HD, 2025/2088 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1129287700)
+
 06.02.2024 tarihli ve 2024/21 Esas, 2024/1592 Karar sayılı bozma kararına İlk Derece Mahkemesince direnilmiş ise de; **görevsiz mahkemede davanın açıldığı tarihten sonra ancak dosyanın görevli mahkemenin esasına kaydedilmesinden önce arabuluculuğa başvurulmuş ve sürecin sonuçlandırılmış olması hâlinde, 7036 sayılı İş Mahkemeleri Kanunu'nun (7036 sayılı Kanun) 3. maddesinde düzenlenen dava şartının yerine getirildiğinin kabul edilmesinin 7036 sayılı Kanun'un 3. maddesi ve 6325 sayılı Hukuk Uyuşmazlıklarında Arabuluculuk Kanunu'nun uygulanmasındaki amaç ve usul ekonomisine uygun düşeceği** değerlendirilmiştir.
 
 ## Yargıtay, 4. HD 2022/17299 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/949101000)
 
 Somut olayda davacı vekili tarafından 20.05.2020 tarihinde asliye hukuk mahkemesinde dava açılmış, mahkeme 07.10.2020 tarihinde görevsizlik kararı vererek başvuru halinde dosyanın görevli Asliye Ticaret Mahkemesine gönderilmesine karar vermiş, bu karar 31.03.2021 tarihinde kesinleşmiş, 02.04.2021 tarihinde Asliye Ticaret Mahkemesinde dava açılmıştır. Ancak görevsizlik kararı ile görevli mahkemeye başvuru arasında 11.12.2020-03.02.2021 tarihleri arasında arabuluculuk görüşmeleri olmuş, 03.02.2021 tarihinde tarafların uzlaşmadığına dair tutanak düzenlenmiştir. **Eldeki dosyada istisnai olarak görevsiz mahkeme aşamasında bu eksikliğin giderildiği ve görevli mahkeme olan ticaret mahkemesinde davanın esasına girilmeden arabuluculuk işleminin tamamlandığı anlaşıldığından mahkemece esasa girilerek karar verilmesi gerekirken** tekrar davacıdan arabuluculuk Yasası gereklerini "anlaşmazlık tutanağının getirilmesi" istemek Yasanın uygulanmasındaki amacına da uygun düşmeyeceğinden, somut olayda
 

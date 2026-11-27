@@ -22,14 +22,20 @@ uyari: "Derleyenin seçtiği alıntılardır; kararın tamamı değildir. Künye
 
 ## Yargıtay 3. HD 2017/12812 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/371154500)
+
 Konut ya da çatılı işyeri niteliğindeki bir taşınmazı iktisap eden kimse dilerse eski malik ile kiracı arasında yapılmış sözleşmeye dayanarak sözleşmenin sonunda bir ay içinde, dilerse TBK.’nun 351. maddesi uyarınca edinme günü de dahil olmak üzere edinme tarihinden başlayarak bir ay içinde durumu kiracıya yazılı olarak bildirmek koşuluyla edinme tarihinden itibaren altı ay sonra ihtiyaç nedeniyle tahliye davası açabilir. **Davanın altı ayın sonunda hemen açılması şart olmayıp sözleşme sonuna kadar açılması mümkündür**. Ancak edinmeyi izleyen bir ay içerisinde bildirimin tebliği zorunlu olup bunun sonradan giderilmesi mümkün değildir. Açılacak davada tahliyeye karar verilebilmesi için ihtiyacın varlığının kanıtlanması gerekir.
 
 ## Yargıtay 6. HD 2016/3567 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/209437800)
 
 Davanın altı ayın sonunda hemen açılması şart olmayıp sözleşme sonuna kadar
 
 **açılması mümkündür**. Ancak edinmeyi izleyen bir ay içerisinde bildirimin tebliği zorunlu olup bunun sonradan giderilmesi mümkün değildir.
 
 ## Yargıtay 3. HD 2025/1497 K. (kanun yararına bozma)
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1163476900)
 
 Somut olayda; davacının kiralananı 28.03.2022 edindiği, kiralananı edinmeyi bildiren ihtarname, bir aylık süre içerisinde olacak şekilde (05.04.2022) tarihinde davalı kiracıya tebliğ edildiği ve **davanın da altı aylık yasal sürenin sona ermesinden sonra 06.10.2022 tarihinde açıldığı**, dosya kapsamı ile sabittir. Bu itibarla, davacının 6098 sayılı Kanun’un 351/1 maddesine dayalı olarak açtığı ihtiyaç nedeniyle tahliye davası süresinde olup, Mahkemece işin esası değerlendirilerek bir karar verilmesi gerekirken, tahliye davasının altı aylık süre içerisinde açılmadığı şeklindeki yanılgılı değerlendirme ile davanın reddine karar verilmesi usul ve yasaya aykırı…

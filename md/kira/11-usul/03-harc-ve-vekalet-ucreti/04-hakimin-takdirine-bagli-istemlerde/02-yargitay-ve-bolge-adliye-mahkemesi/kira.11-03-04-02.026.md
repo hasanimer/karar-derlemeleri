@@ -24,6 +24,8 @@ uyari: "Derleyenin seçtiği alıntılardır; kararın tamamı değildir. Künye
 
 ## İstanbul BAM 40. HD 2023/433 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/893325400)
+
 Şti.’den müştereken ve müteselsilen alınarak adı geçen davacılara verilmesine, fazlaya ilişkin talebin reddine, 4-Maddi tazminat davası yönünden alınması gerekli maktu harcın peşin olarak yatırıldığı anlaşıldığından yeniden harç alınmasına yer olmadığına, 5-Maddi tazminat davası yönünden davacı ... tarafından yapılan yargılama giderlerinin üzerinde bırakılmasına, 6-Maddi tazminat davası yönünden davalı ... tarafından harcanan 150 TL yargılama giderinin davacı ...'ten alınarak bu davalıya verilmesine, 7-Maddi tazminat yönünden Avukatlık Asgari Ücret Tarifesi gereğince davalılar kendilerini vekille temsil ettirdiğinden hesaplanan 100 TL vekalet ücretinin davacı ...'ten alınarak davalılara verilmesine, 8-Maddi tazminat yönünden tarafların artan gider avansı bulunması ve talep etmeleri halinde iadesine, 9-Manevi tazminat davası yönünden kabul edilen kısım yönünden alınması gerekli 4.098,60 TL harçtan peşin olarak yatırılan 1.709,45 TL harcın mahsubu ile kalan 2.389,15 TL harcın davalılar ... ile ...'den müştereken ve müteselsilen alınarak Hazineye irat kaydına, 10-Manevi tazminat davası yönünden davacılar tarafından dava açılırken peşin yatırılan 1.709,45 TL harcın davalılar ... ile
 ...'den müştereken ve müteselsilen alınarak davacılara verilmesine, 11-Manevi tazminat davası yönünden davacılar tarafından harç dışında harcanan 3.951,60 TL yargılama giderinden kabul ve ret oranına göre hesaplanan (%60 kabul %40 ret) 2.370,96 TL'nin davalılar ... ile ...'den müştereken ve müteselsilen alınarak davacılara verilmesine, bakiye kısmın davacılar üzerinde bırakılmasına, 12-Manevi tazminat davası yönünden davacı ... kendini vekille temsil ettirdiğinden Avukatlık Asgari Ücret Tarifesine göre davacı vekili için takdir olunan 4.500 TL vekalet ücretinin davalılar ... ile ...'den müştereken ve müteselsilen alınarak bu davacıya verilmesine, 13-Manevi tazminat davası yönünden davacı ... kendini vekille temsil ettirdiğinden Avukatlık Asgari Ücret Tarifesine göre davacı vekili için takdir olunan 4.500 TL vekalet ücretinin davalılar ... ile ...'den müştereken ve müteselsilen alınarak bu davacıya verilmesine, 14-Manevi tazminat davası yönünden davalı ... kendisini vekille temsil ettirdiğinden Avukatlık Asgari Ücret Tarifesine göre davalı ... vekili için takdir olunan 4.080
 
@@ -32,9 +34,13 @@ TL vekalet ücretinin davacılardan müşterek ve müteselsilen alınarak bu dav
 
 ## Ankara BAM 26. HD 2023/137 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/882230500)
+
 Kabule göre de; yasal düzenlemeler gereği TBK'nun 51. ve 52. maddelerinden kaynaklanan hakkaniyet ve takdiri indirimler nedeniyle, davanın kısmen reddedilmesi halinde, indirimden dolayı reddedilen kısım için davalılar yararına vekalet ücreti ve yargılama gideri takdir edilemeyeceğinden aksi düşünce ile maddi tazminata ilişkin reddedilen kısım yönünden davalılar ... ,...ve ... A.Ş. lehine, manevi tazminat yönünden de davalılar ... ve... lehine vekalat ücreti takdiri, yargılama giderlerinin de aynı gerekçeyle kabul/ red oranına göre hesaplanması doğru görülmemiştir.
 
 ## Kayseri BAM 3. HD 2023/420 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/868224700)
 
 A.Ş. tarafından yapılan ödemeler gözetilerek bakiye tazminatın belirlenmesi, akabinde ıslah ve usuli kazanılmış haklar gözetilerek yeniden hüküm tesis edilmesi gerektiğinden 20/09/2021 tarihli gerekçeli karar ile 25/11/2021 tarihli ek kararın kaldırılması gerekmiştir. Her ne kadar birleşen dosya davalısı ... vekilince davacı ... için bakıcı tutulup tutulmadığının araştırılması gerektiği ileri sürülmüş ise de Erciyes Üniversitesi Tıp Fakültesi Adli Tıp Ana Bilim Dalı Başkanlığı’ndan alınmış olan 08/06/2021 tarihli raporuyla davacının sürekli bakıcıya ihtiyaç duyacağı açıkca tespit edilmiş olduğundan ayrıca bakıcı tutulup tutulmadığının araştırılmasına ihtiyaç olmadığı gibi SGK'nın 22/12/2017 tarihli cevabi yazısına göre davaya konu kaza nedeniyle davacıya ödeme yapılmadığı ve aylık bağlanmadığı da sabit olduğundan aksi yöndeki istinaf başvuru sebepleri yerinde görülmemiştir.Mahkemece Yargıtay uygulamaları doğrultusunda %20 oranında müterafik kusur indirimi yapılmasında bir isabetsizlik bulunmadığından davalı vekilinin %20'den daha fazla oranda indirim yapılmasına ilişkin istinaf sebebi haklı bulunmamıştır.
 Yasal, hakkaniyet ve takdiri indirimler nedeni ile davanın kısmen kabul edilmesi halinde, indirimden dolayı reddedilen kısım yönünden davalı yararına vekalet ücreti takdir edilip edilmeyeceği önem kazanmaktadır. Kısmen reddedilen miktar, 6098 sayılı Türk Borçlar
@@ -43,10 +49,14 @@ Kanunu'nun 51 ve 52 maddesinden kaynaklanan bir indirim ise indirim miktarı yas
 
 ## İstanbul BAM 40. HD 2023/320 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/879991500)
+
 AŞ'ye verilmesine, 9-Konusuz kalan maddi tazminat yönünden vekalet ücretine hükmedilmesine yer olmadığına, 10-Davacı ... manevi tazminat davasında kendisini vekille temsil ettirdiğinden Daire karar tarihinde yürürlükte bulunan Avukatlık Ücret Tarifesi gereğince hesap olunan 9.200 TL maktu vekalet ücretinin davalı ...'dan alınarak davacı ...'a verilmesine, 11-Davacı ... manevi tazminat davasında kendisini vekille temsil ettirdiğinden Daire karar tarihinde yürürlükte bulunan Avukatlık Ücret Tarifesi gereğince hesap olunan 9.200 TL maktu vekalet ücretinin davalı ...'dan alınarak davacı ...'a verilmesine, 12-Davalı ...'ın ilk derece yargılaması sırasında kendisini vekille temsil ettirmemiş olması ve istinaf incelemesinin de duruşmasız yapılmasından ötürü reddedilen kısım bakımından vekalet ücretine hükmedilmesine yer olmadığına, 13-Hakkında yeniden hüküm kurulmadığından ötürü ilk derece mahkemesi karar tarihinde yürürlükte bulunan Avukatlık Ücret Tarifesi gereğince hesap olunan 2.725 TL vekalet ücretinin davacılardan alınarak davalı ... Tic. San.
 AŞ'ye verilmesine, 14-Kullanılmayarak artan gider avansının hüküm kesinleştiğinde ilgili tarafa iadesine, İstinaf yargılama giderleri bakımından:15-İstinafa başvuran davacı tarafından yatırılan istinaf karar harcının istek halinde iadesine, 16-Davacı tarafça yatırılan 148,60 TL istinaf başvuru harcının davalı ...'dan alınarak davacıya verilmesine,17-İstinaf incelemesi duruşmalı yapılmadığından, vekalet ücretine hükmedilmesine yer olmadığına,18-İstinaf talep eden tarafından yatırılan gider avansından artan kısmın yatıran tarafa iadesine, Dair, ihtiyari dava arkadaşı konumundaki her bir davacı yönünden objektif dava birleşmesi teşkil eden maddi ve manevi tazminat davalarında, maddi tazminat bakımından dava konusu değer (davacı ... yönünden 13.570,44 TL; davacı ... yönünden 12.766,58 TL) ve manevi tazminat davası bakımından her bir davacı yönünden kabul ve reddedilen (sırasıyla 35.000/15.000 TL) miktarlar nazara alınarak HMK'nın 362/1-a maddesi gereğince her iki taraf yönünden kesin olmak üzere dosya üzerinde yapılan inceleme sonunda oy birliğiyle karar verildi. 28/02/2023…
 
 ## İstanbul BAM 9. HD 2023/241 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/870868200)
 
 Sigorta A.Ş.'den müştereken ve müteselsilen tahsili ile hazineye gelir kaydına, 3-Harçlar Kanunu uyarınca kabul edilen manevi tazminat değeri üzerinden alınması gereken 6.831,00 TL nispi karar harcının davalılar ..., ...'tan müştereken ve müteselsilen tahsili ile hazineye gelir kaydına, 3-Davacı tarafından yapılan 5.800,00 TL bilirkişi ücreti, 730,50 TL tebligat posta gideri olmak üzere toplam 6.530,50 TL üzerinden davanın kabul ve red oranına göre hesaplanan 2.179,00 TL ile 2.064,24 TL harç gideri olmak üzere toplam 4.243,24 TL yargılama giderinin tüm davalılardan müştereken ve müteselsilen tahsili ile davacılara verilmesine, kalan kısmın davacı üzerinde bırakılmasına,4-Davalı tarafından yapılan
 
@@ -55,15 +65,21 @@ yargılama gideri olmadığından bu hususta karar verilmesine yer olmadığına
 
 ## İstanbul BAM 8. HD 2023/273 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/871296500)
+
 "Davacı ... lehine hesaplanan maddi tazminattan, müterafik kusur ve hatır taşıması nedeniyle mahkemece yapılan indirim sonucu belirlenen tazminat tutarı hüküm altına alınırken, davanın kısmen reddine karar verildiğinden, davalı lehine vekalet ücretine hükmedildiği, oysa, yasal düzenlemeler gereği, TBK'nun 51. ve 52. maddelerinden kaynaklanan hakkaniyet ve takdiri indirimler nedeniyle, davanın kısmen reddedilmesi halinde, indirimden dolayı reddedilen kısım için davalı yararına vekalet ücreti takdir edilemeyeceğinin göz önüne alınmaması doğru değildir. Ancak, 1.
 2 ve 3 nolu bentlerde belirtilen yanılgıların giderilmesi yeniden yargılamayı gerektirmediğinden, davacı ... vekilinin bu yönlere ilişkin istinaf başvurusunun kabulüne, ilk derece mahkemesince verilen kararın HMK.nun 353/1-b/2 madde hükmü uyarınca kaldırılmasına, istinaf konusu yapılmayan hususlar ile reddedilen istinaf itirazları da gözetilerek, yanılgılı olduğu belirlenen bu hususların düzeltilmesi suretiyle yeniden (davacı ... için 57.605,53 TL'den %20 (11.521,11-TL) müterafik kusur indirimi yapılarak 46.084,42-TL ve bundan %20 (9.216,88-TL) hatır taşıması yapılması sonucu 36.867,54-TL destekten yoksun kalma tazminatına hükmedilmesi şeklinde) esas hakkında hüküm kurulması gerektiği kanaatine varılmıştır.
 
 ## İstanbul BAM 3. HD 2023/491 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/864255800)
+
 37.17 TL'lik 2 adet fatura düzenlenmiş ise de; bilirkişi raporunda da tespit edildiği üzere, davacı kayıtlarında enerjinin fiilen kesilmediği, kesme bağlama faturasından önceki ve sonraki aylarda da tüketimin hala devam ettiği, kesme-bağlama faturası olarak tahakkuk ettirilen faturalar toplamı olan 37.17 TL'nin de talep edilemeyeceği anlaşıldığından bu faturalara yönelik istemin de reddine ve yine davacı yanca talep olunan gecikme faizi ve KDV yönünden yasal faiz oranı esas alınmak suretiyle belirlenen hesaplama esas alındığından ve bu haliyle de TBK'nun 52/2. maddesi gereği hakkaniyet indirimi yapıldığından, reddedilen kısım üzerinden davalı lehine vekalet ücreti takdir edilmemiş ve yargılama giderleri yönünden de, aynı sebeple taraflar arasında paylaştırmaya gidilememiş, ancak zamanaşımı nedeniyle reddedilen toplam; 4.901,50 TL ve kesme-bağlama faturası olarak tahakkuk ettirilen faturalar toplamı olan 37.17 TL olmak üzere toplam;
 4.938,67 yönünden davalı borçlu lehine vekalet ücreti takdir edilmiş ve yargılama giderleri yönünden de, aynı miktar üzerinden taraflar arasında paylaştırmaya gidilmiş ve ayrıca davacı/alacaklı tarafça icra inkar tazminatı talep edildiği ve yargılama konusu olan ve kabul edilen 14.039,50 asıl alacağın likit olduğu anlaşıldığından, asıl alacağın %20'si oranında belirlenen 2.807,90 TL icra inkar tazminatına hükmedilmesi gerektiği incelenen tüm dosya kapsamı ile anlaşılmış ve davanın kısmen kabulüne karar verilerek, aşağıdaki şekilde hüküm kurulmuştur." gerekçeleriyle Davanın KISMEN KABULÜ İle; Davalı borçlunun İstanbul ... İcra Müdürlüğü'nün ... Esas sayılı dosyasına yönelik itirazının KISMEN İPTALİ ile; takibin, 14.039,50 TL enerji bedeli, 6.651,10 TL gecikmiş gün faizi ve 1.197,20 TL faizin KDV'si olmak üzere toplam: 21.887,80 TL üzerinden takip talebindeki şartlarla aynen DEVAMINA, Fazlaya ilişkin istemin REDDİNE, -Hükmolunan asıl alacağın %20'si oranında hesaplanan, 2.807,90 TL icra inkar tazminatının davalıdan alınarak davacıya VERİLMESİNE karar verilmiştir. Karara karşı davacı ve davalı tarafça istinaf kanun yoluna başvurulmuştur.
 
 ## İstanbul BAM 43. HD 2023/121 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/871834100)
 
 Buna göre davalı işçinin bir aylık ücreti, davalının diğer sektörlerde iş bulma ve geçimini temin imkanı, rekabet yasağının süresi ile işverenin üstlendiği karşı bir ediminin bulunmaması birlikte değerlendirildiğinde rekabet yasağı kaydı ve gizlilik maddesinde kararlaştırılan cezai şartın hakkaniyete uygun olmadığı ve aşırı nitelikte bulunduğunun kabulü ile cezai şarttan %50 oranında bir indirim yapılması uygun, makul ve gereklidir. Buna göre sonuç olarak davacının, 23.247,00 TL cezai şart alacağı bulunmaktadır. Mahkemenin bu miktar üzerinden davanın kabulüne karar verilmesinde bir isabetsizlik bulunmamaktadır. Ancak, sözleşme ile tayin edilen bir cezai şartın tahsilini istemek hakkını haiz olan davacının açtığı dava sonunda cezai şartın mahkemece fahiş görülerek hakimin takdir hakkını kullanarak tenkis edilmesi halinde, tenkis edilen miktardan dolayı davalı yararına vekalet ücretine ve yargılama giderlerine hükmedilemeyecektir. Bu kapsamda mahkemenin indirime konu tutar bakımından davacı aleyhine vekalet ücreti ve yargılama masrafına hükmedilmesi doğru olmamıştır. Ayrıca, icra inkar tazminatına hükmedilebilmesi için takibe konu alacağın likit olması zorunludur.
 Her uyuşmazlığın kendine özgü özelliklerine göre değişmekle birlikte, bir uyuşmazlıkta alacağın likit olup olmadığı belirlenirken alacak ve onun borçlusu birlikte değerlendirilmelidir. Buna göre, likit bir alacaktan söz edilebilmesi için ya alacağın gerçek miktarının belli ve sabit olması ya da borçlusu tarafından belirlenebilmesi için bütün unsurların bilinmesi veya bilinmesinin gerekmekte olması; böylece, borçlunun borç tutarını tahkik ve tayin etmesinin mümkün
@@ -72,20 +88,28 @@ bulunması; başka bir ifadeyle, borçlunun yalnız başına ne kadar borçlu ol
 
 ## İstanbul BAM 8. HD 2023/160 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/871525100)
+
 MANEVİ TAZMİNAT BAKIMINDAN ise kısmen kabulü ile davacılar bakımından ayrı ayrı 10.000,00 er TL manevi tazminatın 24/07/2013 kaza tarihinden itibaren işleyen yasal faizi ile birlikte davalılar ..., ... Taşımacılık ...'den müştereken ve müteselsilen tahsili ile davacılara ödenmesine, fazlaya ilişkin taleplerin reddine, 3/Harçlar Kanunu gereğince alınması gerekli 2.407,45-TL harçtan peşin alınan 1.907,58 TL harcın düşümü ile eksik 499,87-TL harcın (davalı sigorta şirketi maddi tazminat ve 1.041.24-TL harçla sorumlu olup, bu miktar peşin yatan harçtan az olduğundan) davalılar ..., ...
 Taşımacılık ... tahsili ile Hazineye irad kaydına, 4/Davacılar tarafından yatırılan 1.907,58-TL peşin harç ile 27,70-TL başvurma harcı, 4,10-TL vekalet harcı olmak üzere toplam 1.939,38-TL harcın (sigorta şirketinin sorumlu olduğu maddi tazminat ve 1.041,24-TL ile sınırlı) davalılardan tahsili ile davacılara verilmesine,5/Davacı tarafından yapılan 2.026,85 TL yargılama giderinden davanın red ve kabul edilen kısımları dikkate alınarak takdiren 639,00-TL yargılama giderinin davalılardan tahsili ile davacı tarafa ödenmesine, bakiye yargılama giderinin davacılar üzerinde bırakılmasına, 6/Davacılar kendilerini vekille temsil ettirdiğinden maddi tazminat yönünden yürürlükteki Avukatlık Asgari Ücret Tarifesi uyarınca hesap edilen 9.200,00-TL vekalet ücretinin davalılardan tahsili ile davacılara ödenmesine, 7/Davacılar kendilerini vekille temsil ettirdiğinden manevi tazminat yönünden yürürlükteki Avukatlık Asgari Ücret Tarifesi uyarınca hesap edilen kazanılmış haklar dikkate alınarak (manevi tazminatla ilgili istinaf talebi reddedildiğinden) 3.400,00-TL vekalet ücretinin sigorta şirketi hariç diğer davalılardan tahsili ile davacılara ödenmesine, 8/Davalılar kendilerini vekille temsil
 ettirdiğinden red edilen maddi tazminat yönünden 9.200,00 TL Avukatlık ücretinin davacılardan alınarak davalılara ödenmesine, 9/Davalılar kendilerini vekille temsil ettirdiğinden red edilen manevi tazminat yönünden 3.400,00-TL Avukatlık ücretinin davacılardan tahsili ile davalılar ..., ... Taşımacılık ...'e verilmesine, 10/HMK'nun 333. maddesi uyarınca taraflar tarafından yatırılan avanstan kullanılmayan bakiye avansın karar kesinleştiğinde yatıran tarafa iadesine, HMK'nın 353/1-b/1.maddesi hükmü uyarınca, dosya üzerinde yapılan inceleme sonucunda ve HMK'nın 362/1-a maddesi gereğince, kesin olarak oy birliğiyle karar verildi.09/02/2023…
 
 ## İzmir BAM 11. HD 2023/78 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/852711300)
+
 Manevi tazminat hesabı yönünden davalı ... kendisini vekil ile temsil ettirdiğinden, manevi tazminat taleplerinde, reddedilen miktar üzerinden davalı yararına verilen vekalet ücretinin, davacıya kabul oranı üzerinden verilen vekalet ücretini geçemeyeceğinden, 8.050,00-TL vekalet ücretinin davacı taraftan alınarak davalı ...'a verilmesine,…
 
 ## İstanbul BAM 9. HD 2023/14 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/864557400)
 
 Sigorta Aş üzerinde bırakılmasına, 7-Davalı ... tarafından sarf edilen yargılama gideri bulunmadığından bu hususta karar verilmesine yer olmadığına, 8-Davacı iş bu davada kendisini vekil ile temsil ettirdiğinden karar tarihinde yürürlükte bulunan Avukatlık Asgari Ücret Tarifesine uyarınca; a) Kabul edilen maddi tazminat miktarı üzerinden 500,00 TL vekâlet ücretinin davalı sigorta şirketinin sorumluluğu sigorta poliçe limiti ile sınırlı olmak üzere davalılardan müştereken ve müteselsilen tahsili ile davacıya verilmesine, b) Kabul edilen manevi tazminat miktarı üzerinden 3.000,00 TL vekâlet ücretinin davalı ...'den tahsili ile davacıya verilmesine, 9-Davalılar iş bu davada kendilerini vekil ile temsil ettirdiğinden karar tarihinde yürürlükte bulunan Avukatlık Asgari Ücret Tarifesine uyarınca; a) Reddedilen maddi tazminat miktarı üzerinden 5.100,00 TL vekâlet ücretinin davacıdan tahsili ile davalılara verilmesine, b) Reddedilen manevi tazminat miktarı üzerinden 3.000,00 TL vekâlet ücretinin davacıdan tahsili ile davalı ...'ye verilmesine, 10-Birleşen davada Harçlar Kanunu uyarınca alınması gereken 8.414,45 TL karar ve ilam harcından, dava açılırken peşin ödenen 5,54 TL peşin harcın
 mahsubu ile bakiye 8.408,91 TL harcın davalı sigorta şirketinin sorumluluğu sigorta poliçe limiti ile sınırlı olmak üzere davalılardan tahsili ile hazineye irat kaydına, 11-Birleşen davada davacı tarafından dava dosyasına yatırılan 27,70 TL başvurma harcı ve 5,54 TL peşin harç olmak üzere toplamda 33,24 TL'nin davalı sigorta şirketinin sorumluluğu sigorta poliçe limiti ile sınırlı olmak üzere davalılardan müştereken ve müteselsilen tahsili ile davacıya verilmesine, 12-Birleşen davada davalı tarafından sarf edilen yargılama gideri bulunmadığından bu hususta karar verilmesine yer olmadığına, 13-Birleşen davada davacı iş bu davada kendisini vekil ile temsil ettirdiğinden karar tarihinde yürürlükte bulunan Avukatlık Asgari Ücret Tarifesine uyarınca 15.652,14 TL vekâlet ücretinin davalı sigorta şirketinin sorumluluğu sigorta poliçe limiti ile sınırlı olmak üzere davalılardan müştereken ve müteselsilen tahsili ile davacıya verilmesine, 14-Kullanılmayan gider avansı varsa karar kesinleştiğinde ve talep halinde ilgilisine iadesine,…
 
 ## İstanbul BAM 40. HD 2023/18 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/862063700)
 
 Limited Şirketi, ... ve ...'dan müştereken ve müteselsilen tahsil edilerek, davacılara verilmesine, 9-İstinaf kanun yolu incelemesi dışında kalan ilk derece mahkemesinin hüküm fıkrası yinelenerek; maddi tazminat talebi yönünden, ilk derece mahkemesinin hüküm tarihinde yürürlükte bulunan AAÜT uyarınca kabulüne karar verilen maddi tazminat miktarına göre hesaplanan 10.598,08 TL nispi vekâlet ücretinin davalılardan müştereken ve müteselsilen tahsil edilerek, vekille temsil edilen davacılara verilmesine, 10-İstinaf kanun yolu incelemesi dışında kalan ilk derece mahkemesinin hüküm fıkrası yinelenerek; manevi tazminat talebi yönünden, ilk derece mahkemesinin hüküm tarihinde yürürlükte bulunan AAÜT uyarınca kabulüne karar verilen manevi tazminat miktarına göre hesaplanan 14.400,00 TL nispi vekâlet ücretinin davalılardan müştereken ve müteselsilen tahsil edilerek, vekille temsil edilen davacılara verilmesine, 11-Davada vekille temsil edilmeyen davalılar ..., ..., ... ve ...
 Limited Şirketi lehine kısmen reddine karar verilen manevi tazminat talebi yönünden vekâlet ücreti hükmolunmasına yer olmadığına, 12-Kısmen reddine karar verilen maddi tazminat talebi yönünden, ilk derece mahkemesinin karar tarihinde yürürlükte bulunan AAÜT'nin 13'üncü maddesinin 2'nci fıkrası uyarınca 359,46 TL vekâlet ücretinin, davacı ...'dan tahsil edilerek, vekille temsil edilen davalılar ... Sigorta Şirketi ile ... Sigorta
@@ -94,21 +118,31 @@ AŞ'ye verilmesine, 13-İlk derece mahkemesinin karar tarihinde yürürlükte bu
 
 ## Antalya BAM 4. HD 2023/8 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/848081600)
+
 İlk derece mahkemesince manevi tazminatın kısmen kabulü nedeniyle davacı lehine hükmedilen vekalet ücretinin davacı yerine dava dışı ...'ya verilmesi şeklinde hüküm kurulması doğru değil ise de, ilk derece mahkemesince yapılan bu yazım hatası gerekçeli karar taraflara tebliğ edilmeden tahsis kararıyla düzeltildiğinden istinaf incelemesi dışı tutulmuştur.
 
 ## Sakarya BAM 7. HD 2022/2290 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/849872900)
 
 Sair istinaf istemlerinin yukarıda (1) nolu bentte açıklanan cezai şart miktarının belirlenmesine ilişkin gerekçeler doğrultusunda reddine ancak mahkemece kısmen reddedilen kısmın takdiri indirim nedeni olarak reddedilmesi, bu gibi hallerde reddedilen kısım yönünden davacı aleyhine yargılama gideri ve vekalet ücretine hükmedilemeyeceğinin anlaşılması nedeniyle kararın kaldırılması, davacı aleyhine hükmedilen vekalet ücretinin karardan çıkarılması, yargılama giderlerinin tamamından davalının sorumlu olması şeklinde hüküm verilmesi gerektiği anlaşılmıştır.
 
 ## Antalya BAM 4. HD 2022/2102 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/862743400)
+
 Olayda müterafik kusur ve hatır taşıması bulunduğu kabul edilerek bu nedenlerle manevi tazminatın miktarı belirlenmiş olduğu halde TBK'nun 51 ve 52.maddelerinden kaynaklanan hakkaniyet ve takdiri indirimler nedeniyle davanın kısmen reddinde karşı taraf lehine ret vekalet ücretine hükmedilmesinin doğru olmadığını,…
 
 ## İzmir BAM 11. HD 2022/1941 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/845879500)
+
 Öte yandan, TBK'nın 51. ve 52. maddelerinden kaynaklanan hakkaniyet ve takdiri indirimler nedeniyle, davanın kısmen reddedilmesi halinde, indirimden dolayı reddedilen kısım için vekalet ücreti de takdir edilemez. Bir başka ifade ile davacı lehine hesaplanan maddi tazminatlardan, hatır taşıması ve müterafik kusur nedeniyle yapılan indirimler sonucu belirlenen tazminat tutarları hüküm altına alınırken, red edilen kısmım yönünden davalı lehine vekalet ücretine ve yargılama giderine hükmedilmemesi gerekir.(Yargıtay 17 HDB'nın 13/11/2019 tarih ve 2017/2928 E. - 2019/10602 K. sayılı ilamı)…
 
 ## Gaziantep BAM 17. HD 2022/2355 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/889258200)
 
 TBK'nın 51. ve 52. maddelerinden kaynaklanan hakkaniyet ve takdiri indirimler nedeniyle, davanın kısmen reddedilmesi halinde, indirimden dolayı reddedilen kısım için davalı
 
@@ -116,21 +150,31 @@ yararına vekalet ücreti takdir edilmemesinde de bir isabetsizlik görülmemiş
 
 ## İzmir BAM 20. HD 2022/2057 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/853235500)
+
 Bu nedenlerle; yerel mahkeme kararının davalı lehine kaldırılmasına, hakimin takdir hakkını kullanarak yapmış olduğu indirim nedeniyle mahkemece davacının istediği miktardan daha az bir miktara hükmedilmesi halinde davalı yararına vekalet ücretine hükmedilemeyeğinin ve istinaf edenlerin sıfatına göre vekalet ücretinin aleyhe arttırılamayacağının hükümde gözetilmesine, dosyada toplanacak başkaca delil bulunmadığı anlaşıldığından ve yeniden yargılama yapılmasını gerektirir bir husus da bulunmadığından dairemizce davanın esası hakkında HMK'nun 353/1-b-2 maddesi uyarınca aşağıda yazılı şekilde karar verilmesi gerekmiştir.
 
 ## Adana BAM 3. HD 2022/2376 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/838297300)
 
 Bilindiği üzere davacının belirlenen destekten yoksun kalam tazminatından müterafik kusur nedeni ile indirim yapılmış olduğundan bu indirim nedeni ile davalı yararına yargılama gideri ve vekalet ücreti takdir edilmeyeceğinden müterafik kusur nedeni ile red olunan bu kısım için davalı yararına vekalet ücreti takdir edilmemiştir.
 
 ## İzmir BAM 20. HD 2022/1890 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/838542000)
+
 Reddedilen manevi tazminat yönünden mahkemece verilen ilk hükümle davalı ... Şti. lehine vekalet ücreti takdir edilmediğinden ve bu husus istinaf sebebi yapılmadığından usuli kazanılmış haklar gözetilerek davalı ... Şti. lehine vekalet ücreti takdirine yer olmadığına,…
 
 ## Ankara BAM 35. HD 2022/544 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/837772100)
+
 Ayrıca kabule göre indirilecek tazminat miktarının hatalı hesaplanması ve takdiri indirimler nedeniyle, davanın kısmen reddedilmesi halinde, indirimden dolayı reddedilen kısım için davalı yararına vekalet ücreti takdir edilemeyeceğinin gözetilmeyerek takdiri indirim sebebiyle aleyhe vekalet ücretine hükmedilmesi isabetsizdir.
 
 ## Kayseri BAM 3. HD 2022/1871 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/831132000)
 
 Adli Tıp Anabilim Dalı Başkanlığı’ndan alınmış olan 18/12/2020 tarihli rapor da; "...'da 17.08.2019 tarihli trafik kazası sonucu meydana gelen yaralanmaların genel ağırlığı ve lokalizasyonu dikkate alındığında dizlik takılması ile diz bölgesinde meydana gelen hasarın (femur medial kondil ve patella kırıkları) önlenmesi ya da hafifletilmesinin olasılık dahilinde olduğu, ancak bu hususun kesinlik derecesinde ayırt edilmesinin adli tıbbi açıdan mümkün bulunmadığı" belirtilmiş olup, davacının yaralanmasının, diz ve tibia kırıkları ile diz artroplastisine bağlı olduğu gözetilerek, davacının kazalı motosiklete koruyucu ekipman
 
@@ -139,32 +183,48 @@ Hukuk Dairesi'nin 2021/19521 Esas, 2022/7719 Karar Sayılı ilamı) TBK.'nun 52.
 
 ## Bursa BAM 13. HD 2022/2027 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/854743900)
+
 Kabule göre de, 6098 sayılı TBK 51 ve 52 maddelerinden kaynaklanan hakkaniyet ve takdiri indirimler nedeniyle, davanın kısmen reddedilmesi halinde, indirimden dolayı reddedilen kısım için diğer taraf yararına vekalet ücreti takdir edilemeyecek olup (Yargıtay 4 HD 2021/6857 E-2021/10530 K sayılı ilam), 23/05/2018 tarihli kararda maddi tazminat yönünden hakkaniyet indirimi yapılarak sonuç tazminat belirlenmiş olup destekten yoksun kalma tazminatına yönelik davalılar lehine oluşan usuli müktesep hak gözetilerek karar verildiği anlaşılmakla, kendini vekille temsil ettiren davalı ... AŞ ve Axa Sigorta AŞ lehine vekalet ücreti takdiri isabetsiz olmuştur. Davacılar vekilinin istinaf sebebi yerindedir.
 
 ## Antalya BAM 4. HD 2022/1791 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/833571300)
 
 Manevi tazminatın reddedilen kısmı yönüyle, kendisin vekille temsil ettiren davalı için Tarifenin 10.maddesine aykırı biçimde davacı lehine takdir edilenden daha fazla avukatlık ücreti belirlenmesi doğru değildir. Bu cihetten davacı vekilinin başvurusunun kabulü gerekir.
 
 ## İstanbul BAM 16. HD 2022/1964 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/836620800)
+
 C- Karar tarihininde yürürlükte bulunan avukatlık asgari ücret tarifesi gereğince reddedilen maddi tasarımlar ve maddi tazminat yönünden hesaplanan 4.910,00 TL vekalet ücretinin, davacıdan alınarak davalıya verilmesine, -Karar tarihininde yürürlükte bulunan avukatlık asgari ücret tarifesi gereğince reddedilen manevi tazminat yönünden hesaplanan 1.000,00 TL vekalet ücretinin, davacıdan alınarak davalıya verilmesine,…
 
 ## Ankara BAM 35. HD 2022/485 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/833454400)
 
 Öte yandan; yasal, hakkaniyet ve takdiri indirimler nedeni ile davanın kısmen kabul edilmesi halinde, indirimden dolayı reddedilen kısım yönünden davalı yararına vekalet ücreti takdir edilip edilmeyeceği önem kazanmaktadır. Kısmen reddedilen miktar, Türk Borçlar Kanunu'nun 51-52. maddelerinden kaynaklanan bir indirim ise indirim miktarı yasadan kaynaklandığından bu indirim nedeni ile davalı yararına vekalet ücreti takdir edilemeyecek olup kısmen reddedilen miktarın, asıl alacaktan takdiri indirim yapılması nedeniyle yasadan kaynaklandığı ve bu durumda davalı yararına vekalet ücreti takdir edilemeyeceği nazara alınarak karar verilmesi gerekirken, yazılı şekilde karar verilmesi de isabetsizdir.
 
 ## Ankara BAM 35. HD 2022/491 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/834517100)
+
 Diğer yandan; yasal, hakkaniyet ve takdiri indirimler nedeni ile davanın kısmen kabul edilmesi halinde, indirimden dolayı reddedilen kısım yönünden davalı yararına vekâlet ücreti takdir edilip edilmeyeceği önem arz etmektedir. Kısmen reddedilen miktar, Türk Borçlar Kanunu'nun 51 ve 52. maddesinden kaynaklanan bir indirim ise indirim miktarı yasadan kaynaklandığından bu indirim nedeni ile davalı yararına vekalet ücreti takdir edilemeyeceği Yargıtay 17. Hukuk Dairesi'nin ve 4. Hukuk Dairesi'nin yerleşik içtihatları ile benimsenmiştir. (Yargıtay 17. Hukuk Dairesinin 2019/4598 Esas - 2020/8076 Karar; 2018/4519 Esas - 2020/892 Karar; Yargıtay 4. Hukuk Dairesinin 2021/18148 Esas - 2021/9953 Karar sayılı emsal kararları)…
 
 ## Ankara BAM 26. HD 2022/2139 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/832087100)
 
 Ancak davacı lehine hesaplanan maddi tazminattan, müteveffanın müterafik kusuru nedeniyle mahkeme tarafından yapılan indirim sonucu belirlenen tazminat tutarları hüküm altına alınırken, davanın kısmen reddine karar verildiğinden, davalı ... lehine vekalet ücretine hükmedilmiş ise de Yargıtay uygulamasına göre TBK'nun 51. ve 52. maddelerinden kaynaklanan hakkaniyet ve takdiri indirimler nedeniyle, davanın kısmen reddedilmesi halinde, indirimden dolayı reddedilen kısım için davalı yararına vekalet ücreti takdir edilemeyeceği göz önüne alınması gerekirken davalı yararına müterafik kusur indiriminden dolayı reddedilen kısım için vekalet ücretine hükmedilmesi doğru görülmediğinden davacı ... vekilinin istinaf başvurusunun kabulü ile ilk derece mahkemesi kararının kaldırılmasına, kesinleşmiş yönler korunarak HMK.nın 353/1.b.2. maddesi gereğince yeniden esas hakkında hüküm kurulmasına karar vermek gerekmiştir.
 
 ## İstanbul BAM 13. HD 2022/1594 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/826962300)
+
 HD. E. 2016/12412 K. 2018/4152 kararı) İleri sürerek yerel mahkeme kararının kaldırılmasını, manevi tazminat ve sair kar kaybına ayrı ayrı tümden reddolunan kararın kaldırılmasana, yargılama gideri ve vekalet ücretinin karşı tarafa yükletilmesine karar verilmesini talep etmiştir. Davalı vekili istinaf dilekçesi ile, yerel mahkemenin verdiği kararın usul ve yasaya aykırı olup bozulması gerektiğini, Davanın, davalı tarafından davacı yana gönderdiği Bakırköy ...
 
 ## Ankara BAM 35. HD 2022/338 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/833438700)
 
 AAÜT uyarınca maddi tazminat üzerinden 25.439,03 TL vekalet ücretinin tüm davalılardan alınarak davacıya ,manevi tazminat üzerinden 9.200,00 TL vekalet ücretinin davalılar ... ..., ... ... ve ... ...'dan alınarak davacıya, ret edilen manevi tazminat üzerinden 9.200,00 vekalet ücretinin davacıdan alınarak davalılar ... ..., ...'a verilmesine, (maddi tazminat yönünden dava konusu edilen ve mahkemece kabul edilen meblağın 162.926,85 TL olduğu, bu meblağ üzerinden yapılan hatır taşıması ve müterafık kusur indirimleri nedeniyle neticeten 123.824,40 TL maddi tazminatın kabulü gözetildiğinde, anılan indirimler nedeniyle reddedilen kısma ilişkin davalılar lehine ret vekalet ücretine hükmedilemeyeceğinden bu hususta karar verilmesine yer olmadığına)…

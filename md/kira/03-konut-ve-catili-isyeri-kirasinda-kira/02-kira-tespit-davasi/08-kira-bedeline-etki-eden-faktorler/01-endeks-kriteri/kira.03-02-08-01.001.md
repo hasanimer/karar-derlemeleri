@@ -22,4 +22,6 @@ uyari: "Derleyenin seçtiği alıntılardır; kararın tamamı değildir. Künye
 
 ## Yargıtay 3. HD 2021/8864 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/697825000)
+
 Hak ve nesafete uygun kira belirlenirken; en son ödenen aylık kira bedeline **endekse (ÜFE) göre artış yapılarak belirlenen kiradan daha düşük olmayacak şekilde** taşınmazın boş olarak yeniden kiraya verilmesi halinde getirebileceği kira bedelinden, davalının eski kiracı olduğu gözetilerek hakkaniyete uygun bir miktarda indirim yapılması gerekmektedir.

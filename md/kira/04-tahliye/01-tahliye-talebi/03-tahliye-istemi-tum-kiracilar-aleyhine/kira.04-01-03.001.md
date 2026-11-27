@@ -21,4 +21,6 @@ uyari: "Derleyenin seçtiği alıntılardır; kararın tamamı değildir. Künye
 
 ## Yargıtay 12. HD 2025/7823 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1201163600)
+
 Tahliye borcu bölünemez bir borç olduğu için ilamsız tahliye takibinin tüm kiraya verenler tarafından **tüm kiracıları taraf gösterilerek başlatılması gerekir**. Takip talebinde zorunlu takip arkadaşlarından birinin eksik olması halinde bu eksiklik nedeniyle borçlulara gönderilen tahliye ihtarlı ödeme emrindeki ihtar haklı ihtar sayılamaz. Bu eksikliğin icra mahkemesinde görülen tahliye incelemesinde de giderilmesi mümkün değildir.

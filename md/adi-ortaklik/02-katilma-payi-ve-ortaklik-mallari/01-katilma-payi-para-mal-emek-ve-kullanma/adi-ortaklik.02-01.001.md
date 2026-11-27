@@ -21,6 +21,8 @@ uyari: "Derleyenin seçtiği alıntılardır; kararın tamamı değildir. Künye
 
 ## Yargıtay HGK 2025/367 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1163332800)
+
 Ortaklık ilişkisinin kurulabilmesi için iki ya da daha çok kişinin iradelerinin birleşmesi gerekir. Gerçek ya da tüzel kişiler ortak olabilirler. Ortaklık, katılanların karşılıklı ve birbirine uygun irade açıklamalarıyla kurulur ve bir borçlar hukuku sözleşmesidir. Ancak bu sözleşme ile tüzel kişiliği olmayan bir kişi birliği oluşmaktadır. Türk Hukuk sisteminde adi ortaklığa tüzel kişilik tanınmamış olup, adi ortaklık, ticari işlerle uğraşan bir yapı olmakla birlikte, bir ticaret ortaklığı değildir. Zira, adi ortaklık, ticaret ortaklıklarını düzenleyen Türk Ticaret Kanunu’nda değil, Türk Borçlar Kanunu’nda düzenlenmiştir.
 
 Adi ortaklığın unsurlarından olan katılma payının çeşidini ve kapsamını belirlemede ortaklar serbest olup, katılma payına kısaca sermaye denir. Adi ortaklıkta, tüzel kişiliğe sahip olan ticaret ortaklıklarında olduğu gibi bir “ortaklık malvarlığı” yoktur. Katılım payı unsuruna ilişkin düzenlemenin yer aldığı TBK'nın 621. maddesinin 1. fıkrasına göre her ortak, para, alacak veya başka bir mal ya da emek olarak, ortaklığa bir katılım payı koymakla yükümlü olup, anılan Kanun’un 638. maddesinin 1. fıkrasına göre de ortaklık için edinilen veya ortaklığa devredilen şeyler, alacaklar ve ayni haklar, ortaklık sözleşmesi çerçevesinde elbirliği hâlinde bütün ortaklara ait olur.
@@ -29,9 +31,13 @@ Bu düzenlemeler ışığında, adi ortaklık ilişkisi çerçevesinde doğan bo
 
 ## Yargıtay 3. HD 2025/3097 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1159441900)
+
 Yukarıdaki açıklamalara göre somut olayda; taraflar arasında 22.01.2014 tarihli "Yatırım ve Kâr Payı Paylaşımı Sözleşmesi"ne istinaden adi ortaklık ilişkisi kurulduğu, davacı tarafından ödenmesi kararlaştırılan 250.000,00 TL'nin 85.000,00 TL'sinin davalı tarafa elden verilerek ... kaşeli makbuz verildiği, 15.000,00 TL'nin Euro olarak banka aracılığı ile gönderildiği, davalı 85.000,00 TL ödemeye ilişkin makbuzu kabul etmemişse de ... unvanı altında ... olarak gönderdiği e-postada davacının 100.000,00 TL'nin verildiğini, belirtilen paranın nerelere harcandığına dair açıklamaları olduğundan e-postalar ve dosya kapsamına göre davacının adi ortaklık sermaye payı olarak 100.000,00 TL'yi davalıya ödediği, ortaklığın faaliyete geçmemesi nedeniyle ödediği sermaye payının iadesini istediği görülmekle, davacının bu talebinin adi ortaklığın fesih ve tasfiyesi talebi olarak değerlendirilmesi gerektiği ve henüz taraflar arasındaki ortaklık ilişkisi fesih edilmediğinden, davalı vekininin zamanaşımı itirazlarının da yerinde olmadığı kuşkusuzdur.
 
 ## Yargıtay 3. HD 2025/1764 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1170315600)
 
 Adi ortaklığın tasfiyesinde yukarıda belirtilen bu aşamaların tamamen uygulanması mümkün olmayabilir. Mesela, adi ortaklığın borcu yoksa, üçüncü aşamada ortakların yaptığı giderler ile katılım payı (sermaye) geri verilmeli, artan kazanç veya zarar ortaklar arasında paylaştırılmalıdır. Yine ortaklık malvarlığı satılmış ise, ikinci aşamada sadece satılan malvarlığının değeri tasfiye memuru tarafından belirlenmelidir. Bu nedenle, tasfiye aşamalarının ortaklığın niteliğine uygun olarak hâkim tarafından belirlenmesi ve bu doğrultuda tasfiyenin gerçekleştirilmesi gerekir.
 
@@ -39,11 +45,15 @@ Bu itibarla İlk Derece Mahkemece; yukarıda açıklanan yöntem izlenerek adi o
 
 ## Yargıtay 3. HD 2024/4441 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1120247200)
+
 Yapılan açıklamalar ve 6098 sayılı Kanun'un 19 uncu maddesinin birinci fıkrası ışığında taraflarca imzalanan 01.03.2012 tarihli sözleşme incelendiğinde; davacı / karşı davalının Babaeski Kuleli Köyündeki çiftliğe 01.03.2012 tarihinde damızlık koyunlar için 75.000,00 TL sermaye koyduğu, 01.03.2015 tarihinde 75.000,00 TL'sini alacağı, kalan hayvanların %50'si davacı karşı davalı, %50'si davalı karşı davacının ortak olduğu, davacı karşı davalının Tatlı Pınar Köyündeki arı çiftliğine 30.000,00 TL sermaye koyduğu, arıların gelirinde 30.000,00 TL'sini önce alacağı, geriye kalanın %50'si davacı karşı davalı, %50'si davalı karşı davacının ortak olduğu, davacı karşı davalının Tatlı Pınar keçi çiftliğine 55.000 Euro sermaye koyduğu, 162 adet keçi alınmış olduğu, süt gelirinden masraflar çıktıktan sonra %50'si davacı karşı davalı, %50'si davalı karşı davacının olduğu, 30.05.2013 tarihinde yeni doğan oğlakların satılacağı, 55.000,00 Euro' sunu davacı karşı davalının alacağı kararlaştırılmıştır.
 
 Buna göre, sözleşme maddelerinin hep birlikte yorumlanmasından; sözleşmenin müşterek amaç ve müşterek amaç için birlikte çaba unsurunu içermediği, davacı / karşı davalının yükümlülüğünün sermaye koymakla sınırlı olduğu, buna karşılık çiflik işlerini tek başına yürütecek olan davalı karşı davacının, davacı / karşı davalının sermaye borcunu ödedikten sonra kârını davacı / karşı davalı ile %50 oranında paylaşacağı, dolayısıyla taraflarca akdedilmiş olan sözleşmenin adi ortaklık sözleşmesi olmadığı açıktır. Diğer bir anlatımla, sözleşme; sonuca (kâra) katılmalı ödünç sözleşmesidir ve buna bağlı olarak uyuşmazlıkta 6098 sayılı Kanun'un 386 ve devamı maddelerinde yer alan ödünç sözleşmesine dair hükümlerinin uygulanması gerekmektedir.
 
 ## Yargıtay 3. HD 2024/3572 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1105031900)
 
 Taraflar arasında 11.11.2015 tarihli ve 20 yıl süreli "... Restoran Hizmetleri" adi ortaklığı kurulduğu, sermayenin 20.000,00 TL olduğu ve ortakların paylarının esas olduğu, sözleşmenin (6.) maddesinde, ortaklığı idareye ve ortaklığı temsil ve ilzam etmeye ortakların müştereken yetkili oldukları, (7.) maddesinde, ortaklığın safi kârının yapılmış her türlü masraflar çıkarıldıktan sonra geri kalan miktar olduğu, kâr ve zararın ortakların hisseleri oranında olacağı, (8.) maddesinde, hesap döneminin ilk yıl için başlangıç tarihinden aynı yılın Aralık ayının 31 inci günün sonuna kadar, sonraki yıllarda da takvim yılının esas alınacağı, (9.) maddesinde, demirbaşlardan ortakların ortaklığa koymuş oldukları sermaye nispetinde sorumlu ve pay sahibi olacakları, kararlaştırılmıştır.
 
@@ -52,17 +62,23 @@ Somut olayda; "Lalande" isimli restoranın 2015 yılı Aralık ayında faaliyete
 
 ## Yargıtay 3. HD 2024/1205 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1061346400)
+
 Buna göre adi ortaklığın unsurları; kişi, müşterek amaç, müşterek amaç uğruna birlikte çaba (affectio societatis), katılım payı (sermaye) ve sözleşme bağı şeklinde belirtilebilir. Bu nedenle, her olayda bu unsurların var olup olmadığının araştırılması gerekir.
 
 Ancak, adi ortaklığın, bazı komşu hukuksal müesseselerden, özellikle sonuca katılmalı sözleşmelerden ayırt edilmesini sağlayan temel kriterler; müşterek amaç ve müşterek amaç uğruna birlikte çaba unsurudur. Zira, ortaklığa sermaye olarak yalnızca emeğini koyan ortağın zarardan muaf tutulabileceğini öngören 6098 sayılı Kanun'un 623 üncü maddesinin üçüncü fıkrası hükmünün karşıt anlamına (argumentum a contrario) başvuran Türk doktrininde, ortaklığa sermaye olarak salt emeğini koyan ortak dışında hiçbir ortağın zarardan muaf tutulamayacağı, müşterek amacın ve sonuçta adi ortaklığın varlığından söz edebilmek için bütün ortakların hem kazanca ve hem de zarara katılmalarının gerekli olduğu görüşü egemendir. Ayrıca, ortakların müşterek amaca ulaşmak için birlikte çaba sarf etmek konusunda yükümlülük altına girmeleri, adi ortaklığın varlığı bakımından zorunludur. Bu unsur ortaklık sözleşmesinin içeriğinde mutlaka yer almalıdır(Prof. Dr. Nami Barlas, Adi Ortaklık Temeline Dayalı Sözleşme İlişkileri, 3 üncü Baskı, İstanbul 2012, s. 25-40).
 
 ## Yargıtay 3. HD 2023/1679 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/965275500)
+
 Adi ortaklık sözleşmelerinde "şekil serbestisi" ilkesi uygulanmakta olup, ortaklık ilişkisinin sözlü olarak da kurulabilmesi mümkündür. Adi ortaklık sözleşmesinde şekil, ispat açısından önem arz etmektedir.
 
 Öte yandan; ortakların ileride belirli bir ticaret ortaklığı kurmak amacıyla bir araya gelmeleri, birlikte çaba göstermeleri ve belirli sermaye paylarını yerine getirmeyi üstlenmeleri durumunda da onlar arasında bir adi ortaklık vardır. Ancak bu ortaklık ( kurucular ortaklığı) kurulacak ortaklıktan tamamen bağımsız başlı başına bir varlığa sahiptir. Kurucular ortaklığının kurmayı amaç edindiği ortaklık sermaye ortaklığı olabileceği gibi , kişi ortaklığı da olabilir. Şayet ortaklar bu aşamada ticaret ortaklığını kurmaktan vazgeçerlerse, yine kurucular ortaklığı, bu kez ortakların anlaşmalarıyla sona ermiş olacaktır. Kurucular ortaklığına hem iç ilişkide hem de dış ilişkide niteliğine uygun düştüğü ölçüde ve özel hüküm bulunmayan durumlarda adi ortaklık kuralları uygulanır. Ancak adi ortaklık hükümleri katı bir kalıp halinde uygulanmaz ( Şener, Oruç Hami, Adi Ortaklık, Ankara : 2008, Yetkin Yayıncılık, s. 142 -145 ).
 
 ## Yargıtay 3. HD 2022/6029 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/794952200)
 
 Öte yandan; adi ortaklığın tüzel kişiliği bulunmadığından, ortaklardan biri tarafından ortaklığa karşı açılacak davaların ortakların tamamına karşı açılması, tüm ortakların davaya dahil edilmesi gerekmektedir.
 
@@ -72,6 +88,8 @@ Hal böyle olunca, mahkemece; yukarıda açıklanan maddi ve hukuki olgular çer
 
 ## Yargıtay 3. HD 2021/6799 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/695587200)
+
 Somut olayda; taraflar arasında "..." isimli lokantanın işletilmesi amacıyla adi ortaklık kurulduğu hususunda bir uyuşmazlık bulunmamaktadır. Davacı, davalı tarafından işletmeye alınmadığını belirterek adi ortaklığın feshi ile sermaye ve kar payını istemiş; davalı ise davacının adi ortaklıktan isteği ile ayrıldığını, davacının alacağı olmadığını savunmuş, açtığı karşı davasında ise ortaklığın borçları nedeni ile davacı- karşı davalıdan 22.451,14 TL'nin tahsilini talep etmiştir. Mahkemece, idareci ortak olan davalı- karşı davacıdan aktif ve pasife yönelik belgeler talep edilmiş, dosya bilirkişiye tevdi edilmiştir.
 20/10/2017 tarihli kök ve ek bilirkişi raporunda; adi ortaklığın sözleşmede kararlaştırılan 5 yıl dolmadan sona erdiği, taraflar arasında güvensizlik ve husumet oluştuğu, sözleşmede yer alan hüküm uyarınca feshin haklı olduğunu, tasfiyenin ise TBK'nın 642. ve devamı maddelerine göre yapılacağını, işletme hesabına göre 2013-2014-2015-2016 dönemleri için kar ve zarar incelemesi yapıldığında davacının payına düşen toplam zararın 19.124,39 TL olduğu, davacının ortaklığa vermiş olduğu 15.000 TL düşülerek 4.124,39 TL zararın davacıya ait olduğu, davacı tarafından ortaklığa getirilen demirbaşların aynen iadesinin talep edilemeyeceği, ortaklığın aktifinde bir değer olmadığı, tasfiye memuru atanıp ortaklığın sona erdiği tarih itibariyle malvarlığının belirlenmesi gerektiği belirtilmiş; 04/02/2020 tarihli tasfiye raporunda ise, tasfiye için paylaşılacak değer bulunmadığı tespit edilmiştir.
 
@@ -80,13 +98,19 @@ Ne var ki, alınan raporlarda bu husus da hatalı şekilde yorumlanıp demirbaş
 
 ## Yargıtay 3. HD 2021/887 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/651433500)
+
 Türk Borçlar Kanunu'nun 620.maddesi “Adi ortaklık sözleşmesi, iki ya da daha fazla kişinin emeklerini ve mallarını ortak bir amaca erişmek üzere birleştirmeyi üstlendikleri sözleşmedir. Bir ortaklık, kanunla düzenlenmiş ortaklıkların ayırt edici niteliklerini taşımıyorsa, bu bölüm hükümlerine tabi adi ortaklık sayılır.” şeklinde düzenlenmiş olup bu madde uyarınca sermaye koyma yükümlülüğü emredici bir niteliğe sahiptir. Ortakların sermaye olarak emeklerini de ortaklığa getirmeleri mümkün olup ortaklığın kurulması bakımından sermaye taahhüdünde bulunmak yeterlidir. Ortak, taahhüt ettiği sermaye payını hiç ödemez veya eksik öderse, bu durum ortaklığın tasfiyesinde dikkate alınır(Şener, Oruç Hami: Adi Ortaklık, Ankara 2008, s. 191).
 
 ## Yargıtay 3. HD 2020/8006 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/633820800)
+
 Buna göre mahkemece; tarafların marul yetiştirerek kazanç elde etmek üzere bir ortaklık kurdukları gözetilerek konusunda uzman bir ziraat mühendisinin tasfiye memuru olarak atanması, sonrasında tasfiye memuru tarafından TBK’nın 644. madde ve diğer tasfiye hükümleri ile tespit dosyasında belirlenen marul ekilen alan da dikkate alınarak rapor alınması, davalının ortaklık için yaptığı masraflar ile davacının ortaklığa koyduğu sermayenin iade edilmesi, bu aşamadan sonra bir şey artarsa bu kazancın sözleşmede belirtilen oranlarda ortaklar arasında paylaştırılması, ortaklığın davalı tarafından yapılan giderler ödendikten sonra kalan varlığı, davacının koyduğu sermaye payını ödemeye yetmezse zararın paylaştırılması suretiyle tasfiyenin tamamlanması gerekirken, yukarıda açıklandığı üzere gerek tasfiye memurunun atanmaması gerekse tasfiyeye ilişkin diğer işlemlerin yapılmaması suretiyle uyulan bozma kararının gereğinin yerine getirilmemiş olması doğru görülmemiş, bozmayı gerektirmiştir.
 
 ## Yargıtay 3. HD 2020/6509 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/614865000)
 
 Bundan ayrı, adi ortaklık sözleşmesi; karşılıklı borçları kapsayan bir sözleşme olmayıp herkesin belli bir amaca ermek için bir takım borçlar altına girdiği bir sözleşmedir. Bu sözleşmeden doğan borçlar, hukuk bakımından birbirinin karşılığı sayılmaz. Ortaklık sözleşmesinde, karşılıklı borç yükleyen (satış veya kira gibi) sözleşmelerde olduğu gibi BK’nın 81. (TBK’nın 97.) maddesi uyarınca, bir akidin borcunu yerine getirmemesi halinde öbürünün de borcunu yerine getirmekten kaçınması söz konusu edilemez. Bir tarafın sermaye koyma borcunu yerine getirmekten kaçınması diğer tarafa ancak TBK’nın 639/7. maddesi uyarınca ortaklığın haklı sebeple feshini isteme hakkını verir ve ortaklık hakim kararı ile ortadan kalkar. Ortaklığın feshi, diğer tarafça istenmemiş ise ortaklık sözleşmesi yürürlükte kalır. Buna bağlı olarak, bir tarafın sermaye koyma borcunu yerine getirmemesi, ortaklığın tasfiyesi durumunda onun hiç pay alamamasına değil, aksine sadece tasfiyede sermaye payını taahhüt ettiği oranda alamamasına neden olur.
 
@@ -94,11 +118,15 @@ Hal böyle olunca; mahkemece, davalı tarafça ortaklığın haklı nedenle fesh
 
 ## Yargıtay 3. HD 2020/1034 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/620333100)
+
 Adi ortaklık, ortakların anlaşması durumunda, onların kendi aralarında tasfiye edilebilir. Şayet ortaklar arasında tasfiye konusunda anlaşma sağlanamamışsa, bu durumda her ortağın mahkemeye başvurarak tasfiye talebinde bulunabileceğini kabul etmek gerekir. Bu başvuru açıkça ortaklığın tasfiyesini istemek şeklinde olabileceği gibi, tasfiyeyi ifade eden başkaca talepler de tasfiye yapılması için yeterlidir. Örneğin; ortaklığın feshi istemi veya ortaklığa getirilen sermayenin iadesinin talep edilmesi, ortaklığın tasfiyesini isteme anlamına gelir.
 
 Somut olayda; tüm dosya kapsamı ve tarafların delil olarak dayandıkları ilgili savcılık dosyası bir bütün olarak değerlendirildiğinde; taraflar arasında TBK'nın 620. maddesi (BK'nın 520. maddesi ) uyarınca adi ortaklık ilişkisinin "iç ortaklık" şeklinde kurulduğu, ortaklığa ilişkin tüm resmi kayıt ve belgelerin davalı şirket adına düzenlendiği, davacının dış ilişkide gizli ortak olarak yer aldığı anlaşılmaktadır. Davacı ortak iş bu dava ile, açıkça ortaklığın feshi ve tasfiyesine karar verilmesini istemiş, ayrıca ortaklığa koyduğu sermayenin iadesi ile kar payının tahsilini talep etmiştir. Bu durumda mahkemece, adi ortaklığın fesih ve tasfiyesinin bizzat yapılması gerekmektedir.
 
 ## Yargıtay 20. HD 2019/322 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/481624600)
 
 Dava, taraflar arasında düzenlenmiş adi ortaklık sözleşmesi kapsamında sözleşmenin haksız feshine dayanan tazminat istemine ilişkindir.
 
@@ -110,9 +138,13 @@ Taraflar yeni bir unvanla şirket kurmayı kararlaştırmış bulunduklarından 
 
 ## Yargıtay 3. HD 2018/12691 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/475317300)
+
 Bir ortak tarafından sermaye payının istenmesi, aynı zamanda ortaklığın feshi ve tasfiyeyi de kapsar.Uyuşmazlık için maddi ve hukuki vakıa bu şekilde değerlendirildiğinde inceleme bu yönde yapılmalıdır.Mahkemece; 01.07.2012 tarihinde yürürlüğe giren 6098 sayılı Türk Borçlar Kanununun 620 ve devamı maddelerinde düzenlenen adi ortaklık hükümleri dikkate alınmalı ve 642. vd. maddelerindeki tasfiye hükümlerinin somut olaya uygulanması gerekmektedir.
 
 ## Yargıtay 3. HD 2017/13708 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/391069400)
 
 Tasfiye usulüne veya tasfiye sonucunda her bir ortağa dağıtılacak paya ilişkin olarak doğabilecek uyuşmazlıklar, ilgililerin istemi üzerine hâkim tarafından çözüme bağlanır.".Aynı yasanın kazanç ve zararın paylaşımı başlıklı 643. maddesinde ise "Ortaklığın borçları ödendikten ve ortaklardan her birinin ortaklığa verdiği avanslar ile ortaklık için yaptığı giderler ve koymuş olduğu katılım payı geri verildikten sonra bir şey artarsa, bu kazanç, ortaklar arasında paylaşılır.Ortaklığın, borçlar, giderler ve avanslar ödendikten sonra kalan varlığı, ortakların koydukları katılım paylarının geri verilmesine yetmezse, zarar ortaklar arasında paylaşılır." hükmü yer almaktadır. Katılım payı olarak bir şeyin mülkiyetini koyan ortak, ortaklığın sona ermesi üzerine yapılacak tasfiye sonucunda, o şeyi olduğu gibi geri alamaz; ancak koyduğu katılım payına ne değer biçilmişse, o değeri isteyebilir. Bu değer belirlenmemişse, geri alma, o şeyin katılım payı olarak konduğu zamandaki değeri üzerinden yapılır. (TBK' nun 642. md.)Keza, aynı yasanın kazanç ve zarara katılma başlıklı 623. maddesine göre de;
 "Sözleşmede aksi kararlaştırılmamışsa, her ortağın kazanç ve zarardaki payı, katılım payının değerine ve niteliğine bakılmaksızın eşittir.Sözleşmede ortakların kazanç veya zarara katılım paylarından biri belirlenmişse bu belirleme, diğerindeki payı da ifade eder.
@@ -125,9 +157,13 @@ Bütün bu açıklamalar ışığında, davalı tarafın davacının hayvanları
 
 ## Yargıtay 3. HD 2016/8161 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/232916100)
+
 Kural olarak adi ortaklıkta; ortaklardan biri sermaye payı taahhüdünden doğan borcunu ifa etmezse, diğer tüm ortaklar veya onlar adına ortaklık yönetimi ya da ortaklardan birisi de açacağı bir dava ile temerrüde düşen ortağın borcunun ifasını talep edebilir. Ancak, bir ortağın sermaye koyma borcunu yerine getirmeyen ortağa karşı böyle bir ifa davası açması için kendisine düşen sermaye borcunu ifa etmiş olması ya da ifasını önermiş olması gereklidir. Burada dikkat edilecek husus; davacı ortak ifanın kendisine yapılması için değil, ortaklığa yapılması için davayı açmaktadır, çünkü sermaye payı ortağa değil ortaklığa aittir.
 
 ## Yargıtay 3. HD 2015/20893 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/471970800)
 
 Sözleşmede ortakların kazanç veya zarara katılım paylarından biri belirlenmişse bu belirleme, diğerindeki payı da ifade eder.Bir ortağın zarara katılmaksızın yalnız kazanca katılacağına ilişkin anlaşma, ancak katılma payı olarak yalnızca emeğini koymuş olan ortak için geçerlidir." hükmünü ihtiva etmektedir.Mahkemece yapılacak iş; yukarıdaki yasa hükümlerine göre, öncelikle, ortaklık sözleşmesinde bu hususta hüküm bulunup bulunmadığına bakmak, hüküm bulunduğu takdirde tasfiyenin sözleşmedeki hükümlere göre yapılmasını sağlamak; böyle bir hükmün bulunmaması halinde ise ortakların anlaşarak tasfiye memuru belirlemelerini istemek; bu konuda anlaşamamaları halinde ise hakim tarafından tasfiye işlemini gerçekleştirecek (ortaklığın faaliyet alanına göre konusunda uzman bir veya üç kişiyi) tasfiye memuru olarak re'sen atamak olmalıdır.
 
@@ -138,13 +174,19 @@ Mahkemece, açıklanan yöntem izlenerek adi ortaklığın fesih ve tasfiyesine 
 
 ## Yargıtay 3. HD 2015/11593 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/145749800)
+
 Bir ortak tarafından adi ortaklığa ilişkin olan sermaye payının istenmesi, ortaklığın faaliyetlerinden dolayı uğradığı zararın veya kar payının talep edilmesi, aynı zamanda ortaklığın feshini ve tasfiyeyi de kapsar. Uyuşmazlık, bu bağlamda değerlendirilip, çözüme kavuşturulmalıdır.Bu durumda, mahkemece; 01.07.2012 tarihinde yürürlüğe giren 6098 sayılı Türk Borçlar Kanununun 620 ve devamı maddelerinde düzenlenen adi ortaklık hükümleri dikkate alınmalı, Türk Borçlar Kanununun 642. madde ve devamı hükümlerine göre tasfiye işlemi gerçekleştirilmelidir. Zira, 6101 sayılı Türk Borçlar Kanununun Yürürlüğü ve Uygulama Şekli Hakkında Kanunun 1.maddesine göre; Türk Borçlar Kanununun yürürlüğe girdiği tarihten önceki fiil ve işlemlere, bunların hukuken bağlayıcı olup olmadıklarına ve sonuçlarına, bu fiil ve işlemler hangi kanun yürürlükte iken gerçekleşmişse, kural olarak o kanun hükümleri uygulanır. Ancak, Türk Borçlar Kanununun yürürlüğe girmesinden sonra bu fiil ve işlemlere ilişkin olarak gerçekleşecek temerrüt, sona erme ve tasfiye, Türk Borçlar Kanunu hükümlerine tabidir.
 
 ## Yargıtay 3. HD 2015/5112 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/146520600)
+
 Yargılama sırasında Hukukçu Av. Aydın Erusta, Mali Müşavir Adem Coşar ve Büfeci bilirkişi Okan Köse'den müteşekkil heyetçe düzenlenen 28/06/2013 havale tarihli Bilirkişi Raporu ile; taraflar arasında yapılan 24/03/2011 tarihli adi ortaklık sözleşmesi uyarınca maliye/vergi kaydı davacı ortak adına iken, davalı ortak adına oluşturulan ve davalı ortak tarafından işletilen BÜFE'nin aktifinin 7.800,00 TL olduğu, dosya kapsamına yansıyan pasifi bulunmadığı, davacı ortağın adi ortaklığın tasfiye edilmesinden doğan 1/2 oranındaki hissesine isabet eden tasfiye alacağının 3.900,00 TL, davalı tarafından sermaye olarak konulması gerekirken konulmayan sermaye alacağının ise 15.000,00 TL olduğu, davacının toplam alacaklı olduğu miktarın ise 18.900,00 TL olarak hesaplandığı belirtilmiştir.
 
 ## Yargıtay 3. HD 2015/5084 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/146941900)
 
 Dava, adi ortaklığa sermaye olarak getirildiği iddia olunan makinaların aynen, bunun mümkün olmaması halinde nakden davalıdan tahsili ile ortaklık kâr payının belirlenip, davacının hissesine düşen kısmın davalıdan tahsili istemine ilişkindir.
 
@@ -154,10 +196,14 @@ Tüm bu bilgiler ışığında somut olay irdelendiğinde; eldeki davada, davac�
 
 ## Yargıtay 3. HD 2014/5756 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/88191700)
+
 Bütün bu açıklamalar ışığında, somut olaya bakıldığında; davacı tarafından, taraflar arasında düzenlenen adi ortaklık sözleşmesi gereğince, ana sermayeye ilişkin alacağın (120 adet küçükbaş hayvan) ve kar payının (35 adet kuzu) davalıdan tahsili istenilmiş, mahkemece, ana sermayeye ilişkin olarak; cebri icra yolu ile haczedilmek suretiyle davalının elinden alınan 99 adet koyundan davalının sorumluluğunun bulunmadığına yönelik hüküm tesis edilmiş, kar payına ilişkin olarak da; davalının kusuru bulunmadığından davacının müspet zarar talep edemeyeceği ve davacının davalının elinde fiilen 35 adet kuzu bulunduğunu ispat edemediği gerekçesiyle bu talep reddedilmiştir. Mahkemenin ana sermayeye ilişkin bu kabulü (99 adet koyundan davalının sorumluluğunun bulunmadığına yönelik) oluşa uygun olmakla birlikte davacı tarafın kar payına ilişkin talebinin yazılı gerekçe ile reddi doğru görülmemiştir.
 Taraflar arasındaki ortaklık sözleşmesi gereğince kar ortaklığı yönünden yukarıda belirtilen yasa hükümleri doğrultusunda, öncelikle, ortaklık sözleşmesinde bu hususta hüküm bulunup bulunmadığına bakmak, hüküm bulunduğu takdirde kar payı ortaklığına ilişkin tasfiyenin sözleşmedeki hükümlere göre yapılmasını sağlamak; böyle bir hükmün bulunmaması halinde ise uyuşmazlığın; yukarıda açıklanan ve maddeler halinde belirtilen sıra ve yöntem izlenerek çözüme kavuşturulması gerekmektedir.
 
 ## Yargıtay 3. HD 2013/17914 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/262821600)
 
 Yine, akdi ilişki sürecinde davalılar tarafından ... ... Noterliği'nin 03/03/2011 tarih ve 14464 sayılı ihtarnamesi ile davacının sözleşmeye aykırı hareketleri nedeniyle ortaklıktan çıkartıldığı bildirilmiştir. Ancak, ortaklıktan çıkarmaya ilişkin ihtar mahkemece de kabul edildiği şekilde geçerli değildir. Bu nedenle, .../08/2009 tarihli sözleşme ile taraflar arasında kurulan adi ortaklığın devam ettiğinin kabulünde bir isabetsizlik bulunmamaktadır. Her ne kadar olayda davalılar ihtarname ile ortaklığın feshini ihbar etmişler ise de, haklı nedenlere dayanarak bir fesih davası açmamışlardır. Haklı nedenlerle fesihte, ortaklık mahkemece ortaklığın feshine karar verilmesiyle son bulur (6098 sayılı Borçlar Kanunu 639/.... maddesi).
 

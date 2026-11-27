@@ -21,6 +21,8 @@ uyari: "Derleyenin seçtiği alıntılardır; kararın tamamı değildir. Künye
 
 ## Yargıtay 3. HD 2018/1605 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/409436600)
+
 Kiralanan paylı mülkiyete konu ise pay ve paydaş çoğunluğunun sağlanması, elbirliği
 
 halinde mülkiyete konu teşkil ediyorsa tüm ortakların davaya katılmaları gerekir. Bu koşullar birlikte dava açma şeklinde gerçekleşebileceği gibi bir paydaş tarafından açılan davaya sonradan diğer paydaşların onaylarının alınması şeklinde de sağlanabilir. Elbirliği mülkiyetinde, ortakların davaya katılmaları sağlanamaz ise miras bırakanın terekesine temsilci atanması sağlanarak temsilci huzuruyla dava yürütülür. Dava hakkına ilişkin olan bu hususların mahkemece kendiliğinden gözönünde bulundurulması gerekir.

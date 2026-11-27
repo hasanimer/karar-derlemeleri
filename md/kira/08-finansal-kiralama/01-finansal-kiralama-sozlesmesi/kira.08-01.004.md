@@ -22,19 +22,27 @@ uyari: "Derleyenin seçtiği alıntılardır; kararın tamamı değildir. Künye
 
 ## İstanbul BAM 13. HD 2024/1159 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1049178900)
+
 09.08.2018 tarihinde ... sıra numarası ile 83.852,00 Euro, (sözleşme gereği peşinat) 10.08.2018 tarihinde ... dekont numarası ile 83.852,00 Euro, (sözleşme gereği peşinat)10.08.2018 tarihinde 2204 dekont numarası ile 83.852,00 Euro, (sözleşme gereği peşinat) 26.11.2018 tarihinde ... sıra numarası ile 1.396.775,80 TL, 27.11.2018 tarihinde 629790 sıra numarası ile 1.396.775,80 TL, 28.11.2018 tarihinde ... sıra numarası ile 1.396.775,80 TL, olmak üzere toplamda 5.172.165,40 TL tutarlı ödeme yaptığı,g)Fatura tarihlerindeki kur dikkate alınarak yapılan hesaplama da davacı yanın bakiye alacağının 386.192,14 TL olduğu hesap edildiği, h)Teknik Yönden Yapılan incelmelerde; satışı yapılıp teslim edilen semi treylerlerin teknik şartnamesine uygun olarak üretilip teslim edildiği, teknik yönden herhangi bir eksiklik bulunmadığı bildirilmiştir.Sözleşme Uzmanı Bilirkişi ... tarafından düzenlenen 30/06/2021 tarihli bilirkişi raporuna göre; davacının talebinin yerinde olmadığı, davacının iddia ve talep ettiği gibi bir alacağının bulunmadığı bildirilmiştir.13/09/2018 tarihli Resmi Gazetede Yayımlanan Türk Parası Kıymetini Koruma Hakkında 32 Savılı Kararda Değişiklik Yapılmasına Dair Karar;
 Madde 1- 7/8/1989 tarihli ve 32 sayılı Türk Parası Kıymetini Koruma Hakkında Kararın 4 üncü maddesine aşağıdaki bent eklenmiştir.“g) Türkiye'de yerleşik kişilerin, Bakanlıkça” belirlenen haller dışında, kendi aralarındaki menkul ve gayrimenkul alım satım, taşıt ve finansal kiralama dâhil her türlümenkul ve gayrimenkul kiralama, leasing ile iş, hizmet ve eser sözleşmelerinde sözleşme bedeli ve bu sözleşmelerden kaynaklanan diğer ödeme yükümlülükleri döviz cinsinden veya dövize endeksli olarak kararlaştırılamaz.”Madde 2- Aynı Karara aşağıdaki geçici madde eklenmiştir.“Geçici Madde 8 - Bu Kararın 4 üncü maddesinin (g) bendinin yürürlüğe girdiği tarihten itibaren otuz gün içinde, söz konusu bentte belirtilen ve daha önce akdedilmiş yürürlükteki sözleşmelerdeki döviz cinsinden kararlaştırılmış bulunan bedeller, Bakanlıkça belirlenen haller dışında;…
 
 ## İstanbul BAM 45. HD 2024/855 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1044156900)
 
 Aynı zamanda, sözleşme maddeleri incelendiğinde (md 4) davacının, dava dışı kredili müşteri ... şirketi ile davalı banka /şubeleri arasında düzenlenecek düzenlenmiş genel kredi ve finansal kiralama sözleşmelerinden, bireysel kredi sözleşmelerinden nakdi veya gayri nakdi kredilerden yine kredili müşteri ve rehin veren tarafından üçüncü şahıslar lehine verilmiş kredilere ilişkin taahhütlerden doğmuş ve bu doğacak borçların tahsilinde kullanılmak üzere işbu alacağın temlik iş sözleşmesinin düzenlendiği belirtilmekle, dava dışı kredili müşteri ... şirketi yönünden 3. kişi yararına sözleşme düzenlendiği anlaşılmaktadır. Bilindiği üzere, üçüncü kişi yararına olan sözleşmenin geçerli olarak kurulabilmesi tarafların (vaad ettiren ile vaad eden) fiil ehliyetine sahip olmaları gerekmektedir. Üçüncü kişinin alacak hakkını kazanması için sözleşmeye katılması gerekmediği gibi böyle bir sözleşmeden haberdar olması da gerekmemektedir.Bir sözleşmede ifanın taraflarca üçüncü kişiye yapılmasının kararlaştırılmasına, üçüncü kişi yararına sözleşme denir. Üçüncü kişi yararına sözleşmeler de eksik üçüncü kişi yararına sözleşme ve tam üçüncü kişi yararına sözleşme olmak üzere ikiye ayrılır.
 Eksik üçüncü kişi yararına sözleşmede üçüncü kişi sadece vaat eden tarafından teklif edilen ifayı kabul yetkisine sahip olup, buna karşılık ondan borcun ifasını isteme hakkına sahip değildir. Bu tür sözleşmelerden yalnız vaat ettiren lehine alacak hakkı doğar. Borcun üçüncü kişiye ifasını talep hakkı da vaat ettirene aittir. Tam üçüncü kişi yararına sözleşmelerde ise üçüncü kişi, vaat edilen edimin ifasını talep yetkisine sahiptir. Tam üçüncü kişi yararına sözleşmeden doğan borç da üçüncü kişiye ifa edilir. Sözleşmede aksine bir hüküm yoksa bu yetkinin vaat ettirene de tanınması gerekir. Ancak bu halde vaat ettiren ile üçüncü kişi, vaat edene karşı müteselsil alacaklı sıfatına sahip olmazlar. Zira burada üçüncü kişi veya vaat ettiren, borcun içlerinden birine değil, sadece üçüncü kişiye ifa edilmesini isteyebilirler. Dolayısıyla gerek eksik gerekse tam üçüncü kişi yararına sözleşme olsun, borcun ancak üçüncü kişiye ifası istenebilir.
 
 ## Adana BAM 14. HD 2024/664 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1042658200)
+
 .... Sulh Hukuk Mahkemesince; " Uyuşmazlığın taraflar arasında 28/04/2015 tarihli Finansal Kiralama Sözleşmesinden kaynaklandığı, Finansal Kiralama Kanununun 3. maddesinde finansal kiralama sözleşmesi yapabilecek şirketler sayıldığı, bunların finansal kiralama şirketleri, katılım bankaları, kalkınma ve yatırım bankaları olduğu, davacı tarafın finansal kiralama şirketi olduğu, yine aynı kanunun 3. Maddesinin ç bendi kapsamında taraflar arasında imzalanan sözleşmenin niteliğinin finansal kiralama sözleşmesi olduğu, mahkemece alınan denetime elverişli bilirkişi raporunda da işbu sözleşmenin niteliğinin finansal kiralama sözleşmesi olduğunun belirlendiği, 6102 sayılı TTK’nın 4. maddesinin 1. fıkrasının f bendinde finansal kurumlara ilişkin işlerin ticari iş sayılacağı ve bundan doğan davaların ticari dava olacağının düzenlendiği, HMK madde 4 kapsamına girmeyen işbu dava açısından mahkememizin görevsiz olduğu " belirterek mahkemelerinin görevsizliği sebebi ile davanın usulden reddine ve dosyanın görevli ... Asliye Ticaret Mahkemesine gönderilmesine karar verildiği anlaşılmıştır.
 
 ## Sakarya BAM 7. HD 2024/266 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/995943700)
 
 Dosyaya alınan bilirkişi kök ve ek raporlarındaki tespitlere göre; davacı tarafından 138 ve 139 proje numaralı kredilere ilişkin ödemeler süresinde ve herhangi bir gecikme olmaksızın
 
@@ -43,19 +51,27 @@ dava dışı olan 137 proje numaralı hesabındaki çekleri bloke edip vadesine 
 
 ## İstanbul BAM 44. HD 2023/1593 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/979259300)
+
 Maddesinin müvekkiline kesinlikle uygulanamayacağını, müvekkilinin projeyi inşa eden .... firmasının Bomonti deki tanıtım ofisine davetle projenin tanıtımına katıldıklarını, projeyi beğendiğinde ise imza aşamasında yine ... nun Bomontideki proje merkezinde davalı firmanın taraf olduğu leasing sözleşmesi imzalatıldığını, amaçlanan taksitle konut satımı iken kandırma ile müvekkiline finansal kiralama sözleşmesi imzalatıldığını ve böylelikle Projeyi yürüten ve inşa eden .... Fiyatı 1.392.328,74 TL. iken ... nın kasıtlı yönlendirmesi ile müvekkiline sözleşmenin imzasında hiç ortada olmayan ve konuşulmayan leasing firması olan davalı ... Aş. den leasing (kredi) kullanmış gibi gösterilerek haksız yere 110.288,26 TL. daha leasing faizi eklenerek 1.392.328,74 TL. ye anlaşılan ev 1.502.617,00 TL. üzerinden satıldığını, davalıya ilk ihtarı gönderip sözleşmenin feshedildiğini bildiren tarafın müvekkili olduğunu, -BK. 31. Ve BK. 36 /1. Maddesi gereği müvekkilinin asıl iradesinin .... Aş. ... projesi tanıtım ofisine tanıtım amaçlı olarak ilk davet edildiğinde kendisine projeyi yapan firmanın ...
 Aş. olduğu ve ön ödemeli taksitlerle konut satışı yapılacağı söylendiğini, iradesi dışında Konut Edinimine İlişkin Leasing Sözleşmesi imzalatıldığını, müvekkilinin iradesinin davalı tarafça sakatlandığı ve bunun öğrenme tarihinin, müvekkilinin Kartal ... Noterliğinin 17/05/2018 tarihli ve ... yevmiyeli ihtarnamesine davalı tarafın Beyoğlu ....
 
 ## İzmir BAM 17. HD 2023/2295 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/994414500)
+
 Bu durumda dava konusu somut olayda davacı tarafın, taraflar arasındaki finansal kiralama sözleşmesinin feshinin tespiti ile finansal kiralama sözleşmesine konu malların davalıdan alınarak davacıya verilmesi talebinin 6102 sayılı TTK 5/A maddesi gereğince arabuluculuk dava şartına tabi olmadığı, zira davacı tarafın asıl talebinin taraflar arasındaki finansal kiralama sözleşmesinin feshinin tespiti ile finansal kiralama sözleşmesine konu malların davalıdan alınarak davacıya verilmesi istemine ilişkin olup, asıl talep değerlendirilmeden finansal kiralama sözleşmesine konu malların bedellerinin davalıdan tahsiline yönelik terditli isteminin incelenmesi de mümkün olmadığından, iş bu davada dava açılmadan önce arabuluculuğa gidilmesinin zorunlu dava şartı olmadığının kabulü gerekmiştir. Bu şekilde İlk Derece Mahkemesince dava şartı yokluğundan davanın usulden reddine karar verilmesi yerinde olmamıştır.
 
 ## İstanbul BAM 43. HD 2023/1178 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/967810300)
 
 Bu bağlamda, içeriği ve sınırları kanunla düzenlenmiş bir sözleşmenin, doğrudan, Anayasa’nın çalışma hürriyetine ilişkin hükümleri ile bağdaşmadığı şeklinde bir değerlendirme yapılmak suretiyle geçersiz addedilmesi mümkün değildir. Bu yöndeki bir değerlendirme ancak bu hususun Anayasanın 152. maddesi uyarınca Anayasa Mahkemesi’nde yöntemince ileri sürülmesi, anılan mahkemece bu yönde bir karar verilmesi ve Anayasanın 153. maddesi çerçevesinde mümkündür. Davalı, davacı şirkette yazılım uzmanı olarak görev almış ve davacı şirketin leasing yazılımına dair bilgilere sahip olmuştur. 08.12.2015 tarihli dilekçe ile 01.08.2000 tarihi itibariyle başlamış olduğu görevinden ayrılmak istediğini belirtip, istifa etmiştir. Davalının, dava dışı şirkette 28.03.2016 tarihli iş sözleşmesi imzalayarak dava dışı şirkette kıdemli iş danışmanı (iş tanımına; yazılım projelerinde müşteri gereksinim analizi faaliyetlerini yerine getirir veya analiz faaliyetinin yerine getirilmesinden ve çıktıların kalitesinden sorumludur. Geliştirilecek yazılım projesinin kavramsal tasarımını oluşturur.
 Proje kapsamında üretilen çözümün uçtan uca sorumluluğunu üstlenerek Proje Yöneticisini destekler şeklindedir) pozisyonunda leasing yazılımları alanında işe başladığı dosya içerisine alınan SGK kayıtlarından ve dava dışı .... A.Ş'ye yazılan müzekkere cevabından anlaşılmıştır. Bu haliyle rekabet yasağı sözleşmesindeki rekabet yasağı kaydı anılan kanuni düzenlemeye uygun olup geçerlidir. Dosya kapsamı itibariyle davacı ile dava dışı ... A.Ş. firmasının her ikisinin de İstanbul İlinde, aynı sektörde faaliyet gösteren ve aynı müşteri çevresini hedefleyen rakip firmalar olduğu anlaşılmaktadır.
 
 ## Ankara BAM 22. HD 2023/1426 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/965492300)
 
 6102 sayılı TTK'nin 4/a maddesine göre finansal kiralama sözleşmesinden kaynaklanan uyuşmazlıklarda görevli mahkemenin Ticaret Mahkemeleri olduğu düzenlenmektedir. Bu kuralın istisnalarından biri 6102 sayılı Tüketicinin Korunması Hakkındaki Kanun'dur. Bu kanunun 32/1. maddesinde konut alımı sözleşmelerinin finansal kiralama yolu ile sağlanması durumunda da 6502 sayılı Kanunun uygulanacağı düzenlenmiştir. Ancak; somut olayda Dairemizin 2019/77 Esas 2019/281 Karar sayılı 25/02/2019 tarihli ilamı karşısında
 
@@ -63,10 +79,14 @@ taraflar arasındaki uyuşmazlığın bu somut olaya mahsus Ticaret Mahkemesinde
 
 ## İstanbul BAM 44. HD 2023/662 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/909110100)
+
 Geçici hukuki korumalardan olan İhtiyati tedbir, 6100 sayılı HMK'da 389 ve devamı. maddelerinde düzenlenmiştir.HMK'nın 389.maddesinde; ''Mevcut durumda meydana gelebilecek bir değişme nedeniyle hakkın elde edilmesinin önemli ölçüde zorlaşacağından ya da tamamen imkansız hale geleceğinden veya gecikme sebebiyle bir sakıncanın yahut ciddi bir zararın doğacağından endişe edilmesi hallerinde uyuşmazlık konusu hakkında ihtiyati tedbir kararı verilebilir. Birinci fıkra hükmü niteliğine uygun düştüğü ölçüde çekişmesiz yargı işlerinde de uygulanır” hükmü düzenlenmekle ihtiyati tedbir açıklanmıştır. 6100 sayılı HMK'nın 390.maddesinde; "İhtiyati tedbir, dava açılmadan önce, esas hakkında görevli ve yetkili olan mahkemeden; dava açıldıktan sonra ise ancak asıl davanın görüldüğü mahkemeden talep edilir.
 (2)Talep edenin haklarının derhâl korunmasında zorunluluk bulunan hâllerde, hâkim karşı tarafı dinlemeden de tedbire karar verebilir.(3)Tedbir talep eden taraf, dilekçesinde dayandığı ihtiyati tedbir sebebini ve türünü açıkça belirtmek ve davanın esası yönünden kendisinin haklılığını yaklaşık olarak ispat etmek zorundadır." şeklinde ihtiyati tedbirin şartları , 3. fıkrada ihtiyati tedbir talep eden tarafın, “davanın esası yönünden kendisinin haklılığını yaklaşık olarak ispat etmek zorunda” olduğunu hükme bağlamaktadır. 6361 sayılı Finansal Kiralama ve Faktoring ve Finansman Şirketleri Kanununun 31/3. Maddesinde de; “Kiracı ve kiralayan arasında finansal kiralama sözleşmesi ile ilgili ihtilaflarda, mahkemece finansal kiralama konusu malın ihtiyati tedbir kararı alınarak kiralayana veya üçüncü bir kişiye bırakılması durumunda kiralayan, mahkemeye malın rayiç değeri kadar teminat yatırmak suretiyle mal üzerinde tasarruf edebilir. Şu kadar ki; sözleşmenin feshinin haksız olduğuna karar verilmesi hâlinde kiralayan, kiracının zararını tazminle yükümlüdür.” şeklinde Finansal Kiralama sözleşmelerinden kaynaklanan uyuşmazlıklarda uygulanmak üzere özel düzenleme yapılmıştır.
 
 ## İstanbul BAM 44. HD 2023/500 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/895397800)
 
 Hazine ve Maliye Bakanlığı tarafından çıkarılan ve 06.10.2018 tarihli Resmi Gazete'de yayımlanarak yürürlüğe giren 2008/32-34 sayılı Tebliğ'de Değişiklik Yapan ''Türk Parası Kıymetini Koruma Hakkında 32 Sayılı Karara'' ilişkin 2018/32-51 Sayılı Tebliğ ile 2008/32-34 sayılı Tebliğ'in mülga 8. maddesi yeniden düzenlenmiş, yapılan bu düzenlemeye göre Tebliğ'in 8/10. maddesinde "Türk Parası Kıymetini Koruma Hakkında 32 Sayılı Kararın 17 ve 17/A maddeleri kapsamında yapılacak finansal kiralama (leasing) sözleşmelerine ilişkin bedellerin döviz cinsinden kararlaştırılması mümkündür." hükmüne yer verilmiştir. İlk tebliğde değişiklik yapılarak, 32 sayılı kararın geçici 8.maddesinin yürürlüğe girdiği tarihten önce akdedilmiş bulunan, menkul ve gayrimenkullere ilişkin finansal kiralama sözlemelerinin Türk Lirasına dönüştürülmesi zorunluluğunun bulunmadığı hususunun
 
@@ -74,26 +94,38 @@ hükme bağlandığı, somut sözleşmenin 32 sayılı kararın geçici 8.maddes
 
 ## İstanbul BAM 44. HD 2023/299 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/880956500)
+
 İlk Derece Mahkemesi "...Davacı şirkete ait iş yerinde meydana gelen hırsızlık olayı neticesinde davaya konu çek ile birlikte bir çok çekin çalındığı, davacı şirket tarafından çeklerin iptali istemiyle açılan dava sırasında çeklerin ibraz edildiğinin tespiti edildiği ve dava konusu çekler yönünden davalı tarafın çek iptal davasında müdahillik talep ettiği belirlenmiştir. Dava konusu çekleri iktisap eden davalı şirket faktoring şirketi olduğundan, çeklerin 6361 sayılı Finansal Kiralama, Faktoring ve Finansman Şirketleri Kanunun 9/2 maddesi uyarınca teslim alınması gerekmektedir. Davalı vekili tarafından, dava konusu çeklerin dava dışı ... Ticaret-... ve Odak Tur. Teks. İnş.ve Gıda Tic. Ltd.
 Şti. ile imzalanan faktoring sözleşmesi kapsamında temlik edildiği iddia edilmiş ise de; dava dosyasına faktoring sözleşmelerinin iki sayfasının sunduğu, sözleşmenin tamamının ibraz edilmediği, yine dava konusu çeklerle uyumlu çek tevdi bordrosu ile çek bedelleriyle uyumlu faturaların dosyaya sunulmadığı, bu durumda davalı ... şirketinin, dava konusu çekleri 6361 sayılı Yasa'nın 9/2 maddesi ile yönetmelik hükümlerine uygun şekilde temlik almadığından 6102 sayılı TTK'nun 792.maddesi gereğince iktisapta ağır kusurlu olduğu kanaatine varılmış olmakla..." gerekçesi ile davanın kabulüne, ... Bankası A.Ş. Erzurum Şubesi'ne ait, keşidecisi ... (...) olan, ... nolu, 28/06/2014 tarihli, 6.000-TL bedelli çek ile, ... Bankası A.Ş. Erzurum Şubesi'ne ait, keşidecisi ... (...) olan, ... nolu, 28/05/2014 tarihli, 5.000-TL bedelli çeklerin istirdadına, aksi halde bedellerinin davalıdan tahsiline karar vermiştir. Davalı vekili istinaf dilekçesinde özetle;…
 
 ## Adana BAM 9. HD 2022/1509 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/842215700)
+
 Dava konusu somut olayda, davacı tarafından finansal kiralama sözleşmesinden kaynaklanan taksitlerinin mahkemece uygun görülecek TL tutarı üzerinden ödenmesi yönünde ihtiyati tedbir talebinde bulunulmuş ise de, mahkemece taksitlerinin TL tutarı üzerinden ödenmesine karar verilmesinin davanın esasını çözümler nitelikte olduğu, davanın esasını çözümler nitelikte tedbir kararı verilemeyeceği, bu nedenle ilk derece mahkemesinin ihtiyati tedbir talebinin reddine ilişkin ara kararının usul ve yasaya uygun olduğu anlaşılmıştır.
 
 ## İstanbul BAM 12. HD 2022/1191 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1046448500)
 
 İstinabe talebinden aradan geçen zamana göre bir sonuç alınamadığı anlaşılmakla birlikte ,geminin halen var olduğuna dair bir emare bulunmadığı , gemi sicilinde finansal kiralamadan sonra hiç bir kayıt yapılmaması ,asliye ceza mahkemesi karar içeriği , İstanbul 11.Vergi Mahkemesinin 2017/423 esas ve 2017/2339 karar sayılı kesinleşmiş kararı ile geminin re'sen terkin koşullarının gerçekleştiğinin tesbit edildiği,davacıya vekaleten araştırma yapan ...'ın noter tasdikli beyanı ve Yeni Delhi Büyükelçiliği tarafından belgeler üzerindeki mührün Hint yetkili makamlarına ait olduğunun tesbit edildiği gözetildiğinde ,davacının maliki olduğu ... gemisinin adının ... olarak değiştirilip, Hindistan'ın Mumbai şehrinde söküm izni alınarak hurdaya çevrildiği belirlenmekle tamir kabul etmez hale gelen geminin resen sicilden terkin edilmesi gerektiğinin kabulü ile adı geçen geminin sicilden terkinine karar verilmesinde isabetsizlik görülmemiştir.
 
 ## Gaziantep BAM 11. HD 2022/1213 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/781746600)
+
 ..... Finansal Kiralama A.O. Tarafından... ve ... tarihli cevabi yazıları ile; dava konusu iş makinesinin davacıya satıldığı, bu nedenle malik durumunda bulunmadıklarından muvafakat hakkında olumlu veya olumsuz bir cevap verilemeyeceği belirtilmiştir.
 
 ## İstanbul BAM 15. HD 2022/817 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/761534000)
+
 Yapı A.Ş. adına düzenlenen çekteki ciroda da aynı yetkilinin imzasının bulunduğu görülmektedir. 6361 sayılı Finansal Kiralama, Faktoring Ve Finansman Şirketleri Kanununun 9/2 maddesine göre, faktoring şirketinin sözkonusu belgeleri inceleme yükümlülüğü bulunmakta olup, fatura ve cironun aynı yetkili tarafından imzalanıp faktoring sözleşmesinin de aynı kişi tarafından imzalandığını tespit etmesi ve bu tespit nedeniyle, işlemin yasal mevzuata aykırı olduğu gerekçesiyle faktoring işlemini yapmaması gerekmektedir. Tüm bu hususlar bir arada değerlendirildiğinde, davalı ... Faktoring A.Ş'nin iyiniyetli olduğundan bahsedilemeyeceğinden mahkemece davalı ... Faktoring A.Ş. yönünden de davacının borçlu olmadığının tespitine karar verilmesi gerekirken, bu davalı yönünden davanın reddine karar verilmesi hatalı olmuştur.
 
 ## İstanbul BAM 44. HD 2022/658 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/752890600)
 
 Noterliği'nin 07.02.2013 Tarih ve ... yevmiye numaralı ... no'lu ve 05.04.2013 Tarih ve ... yevmiye numaralı ... no'lu Finansal Kiralama sözleşmelerinin devamı süresince müvekkili şirketin edimlerini yerine getirdiğini, müvekkili şirketin faaliyet gösterdiği sektörde yaşanan ekonomik sıkıntılar neticesinde, tarafların taksitlerin daha avantajlı bir ödeme planına dönüştürülmesine beraberce karar verip, taslak - tadil sözleşmesi üzerinde anlaştıklarını, davacının tadil sözleşmesini üst yönetimin onayına sunduğunu, rutin prosedürün tamamlanması ile kesin imzaların gerçekleşeceğini beyan ettiğini, müvekkilinin basiretli tacir olarak yeni taslak ödeme planına göre derhal ödeme yapmaya hazır olduğunu bildirip, davacıdan haber beklediğini, davacı tarafın bu aşamada bir ödeme almayacaklarını tadil sözleşmesinin imzalanmasını müteakip ödemelere başlanacağını, herhangi bir sorun olmadığını belirtip, görüşmeler yoluyla güven telkin ederek müvekkili şirketi bu konuda sürekli oyaladığını, tadil edilmiş ödeme planı ve sözleşmeyi imzalamaktan imtina ettiğini, yeni ödeme planının imzalanamaması üzerine kötü niyetli davacıya olumlu ve/yeya
 
@@ -101,10 +133,14 @@ olumsuz kesin bir cevap vermesi için ihtar gönderildiğini, kötü niyetli dav
 
 ## İstanbul BAM 44. HD 2022/470 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/740828400)
+
 72 maddesi kapsamında takibe geçmeyen davalı finansal kiralama şirketinin hiçbir hak kaybına sebebiyet vermeyecek tefrik kararının uygulamasının teminatsız olarak tedbiren durdurulmasını talep ettiklerini, Yerel Mahkemenin ret kararının gerekçesinin aksine, davaya konu alacak ile iflas idaresinin tefrik kararına konu fabrika ve içerisindeki makinelerin birbirinden bağımsız düşünülmesinin mümkün olmadığını, davalı finansal kiralama şirketinin haksız olarak fazladan talep ettiği alacağa dayanak gösterdiği fabrikadaki üretim araçları makineler yönünden bir tespit ve değerlendirme yapılmaksızın, bir borç bulunup bulunmadığının belirlenmesi mümkün bulunmadığını, kaldı ki davalı tarafça borcun kaynağı gösterilen makinelerin iflas idaresi tefrik kararı ile teslimi halinde olası bir hak kaybının önlenmesi amacıyla makineler yönünden ihtiyati tedbir verilmesi talep edildiğini, Yerel Mahkemenin ihtiyati tedbir talebinin reddine yönelik ara kararının hatalı olduğunu beyan ederek Mahkemece verilen kararın kaldırılmasına karar verilmesini talep etmiştir.
 İnceleme, 6100 sayılı Hukuk Muhakemeleri Kanunu'nun(HMK) 355. maddesi hükmü uyarınca istinaf dilekçelerinde belirtilen sebeplerle sınırlı olarak ve kamu düzenine aykırı hususların olup olmadığı gözetilerek yapılmıştır. Talep, iflas idaresince verilen tefrik kararının tedbiren durdurulmasına yönelik tedbir kararı verilmesine yöneliktir. Her ne kadar tedbir talebinin reddine ilişkin 13.09.2021 tarihli ara karar, tedbir talep eden davacı vekilince yukarıda belirtilen sebeplerle istinaf edilmiş ise de; eldeki dava, davacının finansal kiralama sözleşmesinden doğan ödemelerini yapmış olduğundan bahisle iflas masasına kaydettirilen 88.383.528,01 TL yönünden borçlu olmadığının tespiti talebine ilişkin olduğu, bu bakımdan İlk Derece Mahkemesince, tedbir talebinin uyuşmazlığın konusunu oluşturmadığı, ancak uyuşmazlık konusuyla ilgili tedbir kararı verilebileceği gerekçesiyle talebin reddine karar verilmesinde bir isabetsizlik bulunmadığı görülmüştür.
 
 ## İstanbul BAM 13. HD 2022/217 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/728415100)
 
 6101 sayılı Yasa'nın 1. maddesi uyarınca olaya uygulanması gereken 6098 sayılı TBK’nın 444 maddesinde; “Fiil ehliyetine sahip olan işçi, işverene karşı, sözleşmenin sona ermesinden sonra herhangi bir biçimde onunla rekabet etmekten, özellikle kendi hesabına
 
@@ -113,9 +149,13 @@ Hâkim, aşırı nitelikteki rekabet yasağını, bütün durum ve koşulları s
 
 ## Ankara BAM 22. HD 2022/28 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/727915000)
+
 Bu durumda mahkemece, anılan yasal düzenlemeler gözetilerek, davacı yanca finansal kiralama sözleşmesinden kaynaklanan taşınmazın aynen teslimi talep edildiğine göre taşınmazın değeri üzerinden eksik harcın tamamlatılmaması halinde, HMK'nın 150.maddesi hükmü uyarınca dava dosyasının işlemden kaldırılması, bu maddede öngörülen süre içerisinde harcı yatırılmak suretiyle dava dosyasının yenilenmesi halinde davaya kaldığı yerden devam edilmesi, üç aylık süre içerisinde harç yatırılmak suretiyle dava yenilenmediği takdirde davanın açılmamış sayılmasına karar verilmesi gerekmektedir.
 
 ## İstanbul BAM 43. HD 2021/1245 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/699982800)
 
 6102 sayılı Türk Ticaret Kanunu(TTK)'nun 644/1-a maddesinin yollaması ile limited şirket müdürlerinin sorumlulukları hakkında da uygulanacak olan TTK'nın 553/1. maddesi uyarınca, kurucular, yönetim kurulu üyeleri, yöneticiler ve tasfiye memurları, kanundan ve esas sözleşmeden doğan yükümlülüklerini kusurlarıyla ihlal ettikleri takdirde, hem şirkete hem pay sahiplerine hem de şirket alacaklılarına karşı verdikleri zarardan sorumludurlar. Yönetim kurulu üyeleri görevlerini ifa ederken ve verilen yetkileri kullanırken, tedbirli bir yöneticinin özeniyle hareket etmeli ve şirket menfaatlerini gözetmelilerdir. Yönetim kurulu üyelerinin özen ve dikkat yükümlülüğünün kapsamı, şirket ana sözleşmesi, kanun, iç yönerge ve yönetim kurulu tarafından verilen tüm yetki ve görevleri kapsar. Ancak, yönetim kurulu üyesinin özen yükümlülüğünün, kurulda kendisine tanınan yetki ile sınırlı olduğuna şüphe yoktur. Bunun yanı şıra yönetim kurulunun sorumluluğu kusura dayanan bir sorumluluktur. Ayrıca, yönetim kurulu üyesinin sorumlu tutulabilmesi için kusurlu
 
@@ -123,13 +163,19 @@ hareketin o üyeye izafe edilmesi de gereklidir. Yönetim kurulu üyelerinin şi
 
 ## Bursa BAM 13. HD 2021/251 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/700439400)
+
 2918 sayılı KTK 3 maddesinde, aracı kendi hesabına ve tehlikesi kendisine ait olmak üzere, işlettiği ve araç üzerinde fiili tasarrufta bulunan kişinin işleten sayılacağı düzenlenmiştir. Dosyaya sunulan bilgi ve belgelerde kazaya karışan iş makinasının , davalı BNB Paribas Finansal Kiralama AŞ tarafından, ihbar olunan şirkete, 20/09/2016 tarihinde 35 aylığına kiralandığı sabittir. Kazaya karışan araçların, meydana getirdiği zarardan, araç sahiplerinin hukuken sorumlu olacağı düzenlenmiş ise de, araç sahipleri tarafından her hangi bir sebeple yararlanılması için, kısa bir süre için kiralanmaması kaydıyla, başka kimseye devredilmesi halinde, araç üzerinde fiili hakimiyet kalmaması, ekonomik yönden de yararlanma olanağı ortadan kalktığı hallerde, aracı kaza sırasında fiili hakimiyetinde bulunduran ve ondan ekonomik olarak yararlanan kimsenin işleten sıfatıyla sorumlu tutulması gerekir( Yargıtay 17 HD 2016/18970 - 2017/10852 sayılı ilam). Uzun süreden ne anlaşılması gerektiği konusunda kanunda düzenleme bulunmamakla, 1 yıl ve daha uzun süreli kiralama durumunda, kiracı işleten sayılacaktır. (Yargıtay 4 HD 2004/15668 - 2005/12100 sayılı ilam).
 Bu durumda, 35 aylığına iş makinasını kiraya veren davalı BNB Paribas Finansal Kiralama AŞ yönünden sorumluluğun bulunmaması sebebiyle davanın reddedilmesinde isabetsizlik yoktur. Davacı vekilinin bu yoldaki istinaf sebebi yerinde değildir.
 
 ## Ankara BAM 22. HD 2021/1506 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/685872000)
+
 6361 sayılı .......Kanununun 31/3. Maddesinde de; “Kiracı ve kiralayan arasında ... kiralama sözleşmesi ile ilgili ihtilaflarda, mahkemece ... kiralama konusu malın ihtiyati tedbir kararı alınarak kiralayana veya üçüncü bir kişiye bırakılması durumunda kiralayan, mahkemeye malın rayiç değeri kadar teminat yatırmak suretiyle mal üzerinde tasarruf edebilir. Şu kadar ki; sözleşmenin feshinin haksız olduğuna karar verilmesi hâlinde kiralayan, kiracının zararını tazminle yükümlüdür.” şeklinde ... Kiralama sözleşmelerinden kaynaklanan uyuşmazlıklarda uygulanmak üzere özel düzenleme yapılmıştır.
 
 ## İstanbul BAM 16. HD 2021/1572 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/680318500)
 
 G E R E K Ç E: Dava taraflar arasındaki 17.04/2015 tarihli ve 13845 numaralı Finansal Kiralama Sözleşmesine konu taşınmazın boş olarak davacı kiralayana teslimi ve Finansal Kiralama şerhinin terkinine ilişkindir. Davacı vekilinin taşınmazın teminatsız olarak tedbiren davacı kiralayana teslimi talebinin reddine karar verilmiştir. Yargılama sırasında davalı kiracının iflas ettiği, davanın iflas idare memurlarına yöneltildiği anlaşılmıştır. Dosya kapsamında bulunan sözleşme, ihtarname ve tebliğ şerhinden, davalı kiracının sözleşmedeki adresine ihtarname gönderildiği, 60 günlük süre verildiği, davalı savunmaları yargılamayı gerektirmekle birlikte, tedbir yönünden 6361 Sayılı Yasa'nın 33/1 maddesi, HMK 389. Maddesi gereğince yaklaşık ispat koşullarının oluştuğu anlaşılmakla, tedbir talebinin kabulüne karar verilmesi gerekirken, farklı gerekçelerle tedbir talebinin reddine karar verilmesi yerinde görülmediğinden, davacı vekilinin istinaf talebinin kabulü ile, mahkemenin 14/04/2021 tarihli ara kararının kaldırılmasına, dosyanın tedbir kararı verilmek üzere mahkemesine gönderilmesine karar verilmiştir.

@@ -25,9 +25,13 @@ Kira Tespit davalarında taraf emsalleri incelenmeden sadece icap niteliğinde o
 
 ## Yargıtay 3. HD 2021/8864 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/697825000)
+
 Mahkemece hükme esas alınan bilirkişi raporunda, **emsal kira sözleşmelerinin incelenmemiş**, kira parasına etki eden niteliklerin açıklanmamış olup, rapor bu haliyle hüküm vermeye yeterli değildir.
 
 ## Yargıtay 3. HD 2025/4808 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1184948800)
 
 Hal böyle olunca Bölge Adliye Mahkemesince; davalı tarafın bilirkişi raporuna yönelik istinaf sebebinin kabulü ile emsal olarak değerlendirilen taşınmazların varsa kira sözleşmeleri dosyaya alınarak, **tesbiti istenen döneme yakın başlangıç tarihli emsal kira sözleşmelerinin bildirmeleri için taraflara yeniden fırsat verilmesi**…
 

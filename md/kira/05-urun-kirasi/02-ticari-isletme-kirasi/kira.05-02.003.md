@@ -22,6 +22,8 @@ uyari: "Derleyenin seçtiği alıntılardır; kararın tamamı değildir. Künye
 
 ## Yargıtay 6. HD 2014/3258 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/97304300)
+
 Hükme esas alınan 16.11.2007 başlangıç tarihli ve bir yıl süreli kira sözleşmesi konusunda taraflar arasında bir uyuşmazlık bulunmamaktadır.Sözleşmenin özel şartları iş yerinin durumu başlıklı 5 / a maddesinde “Mecur özel dizayn edilmiş şekilde olup, tam ve mükemmel boyalı, badanalı, temiz teslim edilmiştir. Kiracı, mevcut kullanım şeklini değiştiremez, özellikle evin merdiven duvarlarını cepheleyen taş duvarlara herhangi bir şey asıp yapıştıramaz. Kullanımda iyileştirme adına yapılacak bir değişiklik, kiralayanların iznine tabidir. Yaptırılan değişiklik için yapılan harcamalar kiracı tarafından karşılanacak ve bedellerini hiç bir surette kiralayanlardan talep edemeyecektir. Kiracı, mecurda mevcut olan kullanmak istemediği perde, stor, dolap kapakları gibi demirbaş eşyaları tahliye esnasında kiralayanların isteği doğrultunda bila bedel mecurda terk edecek veya eski haline getirip, montajı yapılıp iade edilecektir. 5/b md-kiracı kiraladığı yeri ne şekilde teslim aldı ise, mal sahibine o halde teslim etmeye mecburdur. Kiralanan gayrimenkul içinde bulunan demirbaş eşya, kontrat, müddetinin hitamında, aynı şekilde iade edilecektir.
 Gerek ekli listede belirtilen demirbaşlar ve gerekse kiralanan yere ait kullanımdan doğan kırılma veya bozulma kiracı tarafından tamir edilecektir.”hükmüne yer verilmiştir. Bu hüküm karşısında davalı kiracı taşınmazı teslim ederken ne şekilde teslim almış ise o şekilde teslim etmek zorundadır.Kiralanan tahliye edilip anahtarlar 27.05.2010 tarihinde Noterden teslim alınmıştır.Davalı-karşı davacı 27.05.2010 tarihli dilekçesi ile Sariyer 2. Sulh Hukuk Mahkemesinin 2010/60 D.İşler dosyasında tesbit yaptırmış,bilirkişi inşaat mühendisi Altan Arıdırıcı, 11.06.2010 tarihli raporunda taşınmazda oluşan hasarların malzeme, işçilik,nakliye ve KDV dahil 34.515 TL bedel ve 30 günlük bir çalışma halinde eski haline getirilebileceği belirtilmiştir.Bilirkişi raporu davacı-karşı davalıya tebliği üzerine bilirkişi raporuna itiraz edilmiştir. Mahkemece dosya üzerinden bilirkişi incelemesi yaptırılmış ise de, bilirkişiler davalı-karşı davacının yaptırmış olduğu Sarıyer 2. Sulh Hukuk Mahkemesinin 2010/60 D.İşler dosylasındaki tesbit raporu üzerinde durulmamıştır. Davacı-karşı davalı kiracının kiralananda oturma süresi de nazara alınarak Sarıyer 2.
 Sulh Hukuk Mahkemesinin 2010/60 D.İşler dosyasındaki bilirkişi raporunda belirtilen hor kullanma kalemlerinin hangilerinin kiralayanın kusurundan hangilerinin kiracının hor kullanmasından kaynaklandığının tesbit edilmesi, hasarların normal kullanmadan
@@ -29,6 +31,8 @@ Sulh Hukuk Mahkemesinin 2010/60 D.İşler dosyasındaki bilirkişi raporunda bel
 kaynaklanıp kaynaklanmadığı üzerinde de durularak sonucuna göre bir karar verilmesi gerekirken eksik inceleme ile yazılı şekilde karşı davanın red edilmesi doğru olmadığından hükmün bozulması gerekmiştir.
 
 ## Yargıtay 6. HD 2014/576 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/83950200)
 
 İcra takibinde ve davada dayanılan ve hükme esas alınan 01.01.2005 başlangıç tarihli ve beş yıl süreli kira sözleşmesi ile sözleşme konusu Melani Otel 218 kalemden oluşan demirbaşları ile kiraya verilmiştir. Daha sonra düzenlenen 06.01.2005 tarihli ek kira sözleşmesinin 11. maddesinde, kiracı tarafından kiralanana yapılacak imalat işleri gösterilmiş, 12. maddesinde de, kira bitiminde tüm tefriş ve işletme malzemelerinin mal sahibine teslim edileceği, demirbaş listesinde bulunan eşyaların tamamının teslim alındığı şekli ile kullanılabilir vaziyette kira bitiminde mal sahibine teslim edileceği, teslim edilmeyen demirbaşların ikinci el bedelinin kiracı tarafından mal sahibine ödeneceği kararlaştırılmıştır. Yine sözleşmenin 20. maddesinde teminat senedi olarak 40.000 Euro bedelli senedin kiraya verene verileceği düzenlenmiştir. Bu şartlar geçerli olup tarafları bağlar. 2009 yılında turizm sezonunun sona ermesi ile kiralanan kiracı tarafından tahliye edilmiş, kiraya veren tarafından da tahliyeden sonra Alanya 1. Sulh Hukuk Mahkemesi'nin 2009/304 D. İş dosyası ile kiralananda bulunan demirbaş eşyalar ile kiracı tarafından yerine getirilmeyen imalatlar yönünden tespit yaptırılmıştır.
 Tespit sonrasında düzenlenen bilirkişi raporunda, demirbaş listesinde belirtilen eşyaların bir kısmının bulunmadığı, mevcut olanların ise kullanılamayacak durumda olduğu belirlenerek değeri 287.762.10 TL olarak hesaplanmıştır. Bilirkişi raporuna kiracı tarafından 06.04.2010 tarihli dilekçe ile itiraz edilmiştir. Kiraya veren, anılan tespit bilirkişisi raporuna dayanarak 287.762.10 TL alacağın tahsili için Alanya 1. İcra Müdürlüğü'nün 2010/2734 sayılı dosyası ile başlattığı icra takibine, davalı- karşı davacılar itiraz etmişlerdir. İtiraz üzerine açılan işbu asıl davada da, demirbaşların kiraya verene teslim edildiğini, söz konusu malzemelerin onbeş yıllık olup, tespitte değerlerinin fahiş takdir edildiğini, demirbaşların eksik olması halinde sözleşmeyle verilen 40.000 Euro bedelli bonodan tahsil edilebileceğini, ancak kiraya verenin bu bonoyu da ayrı bir icra takibine konu yaptığını, mükerrer talepte bulunduğunu savunmuşlardır.
@@ -39,14 +43,20 @@ konusunda uzman bir bilirkişi heyetinden ayrıntılı ve açıklamalı hüküm 
 
 ## Yargıtay 6. HD 2013/15875 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/521872200)
+
 Davada dayanılan ve hükme esas alınan 01.10.2007 başlangıç tarihli ve beş yıl süreli kira sözleşmesi konusunda taraflar arasında uyuşmazlık bulunmamaktadır. Sözleşme ile davacı, sözleşme konusu tekstil fabrikası ve müştemilatlarını demirbaşları ile birlikte davalı- karşı davacıya kiralamıştır. Sözleşmenin kiralanan şeyin şimdiki bölümüne göre kiralanan “faal bina”dır. Sözleşmenin özel şartlar bölümü 1. maddesinde, kiralanan alanların, teslim edilen demirbaş eşyaların, kendi makine ve teçhizatların her türlü bakımı, sorumluluğu ve güvenliğinin kiracı tarafından sağlanacağı, 9. maddesinde de, kiralanan fabrika binası, idari bina, ısıtma merkezi ve bekçi kulübesinde bulunan demirbaş eşyaların sağlam olarak kiracıya teslim edileceği ve kira müddeti sonrasında da yine sağlam olarak kiraya verene teslim edileceği kararlaştırılmıştır. Bu şartlar geçerli olup tarafları bağlar. Davalı – karşı davacının kiracılık süreci içinde sözleşmeyi feshederek, kiralananı tahliye etmesinden sonra davacı- karşı davalı kiraya veren ... Sulh Hukuk Mahkemesi'nin 2009/18-18 D.İş dosyasında kiralanana verilen hasarların belirlenmesi yönünden tespit yaptırmıştır.
 Tespit bilirkişileri de, kiralananın hor kullanılmasından kaynaklanan elektrik sistemindeki, demirbaş olarak teslim edilen mobilyalardaki ve kiralananın inşaat aksamındaki hasarların 31.878.55 TL bedelle giderilebileceğini saptamışlardır. Her ne kadar tespit…
 
 ## Yargıtay 6. HD 2013/15482 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/521838500)
+
 Takibe dayanak yapılan ve hükme esas alınan 04/08/2013 tarihli kira sözleşmesi konusunda taraflar arasında bir uyuşmazlık bulunmamaktadır.Borçlar Kanununda düzenlenen hasılat kirasından söz edilebilmesi için, hasılat getiren bir taşınır ya da taşınmaz mal, ticari işletme ya da hakkın kira ilişkisinin konusunu oluşturması, ve kiralananın işletme hakkıyla birlikte kiraya verilmesi gerekir. Dayanak kira sözleşmesine göre boş işyerleri mağaza olarak kullanılmak üzere kiraya verilmiş, demirbaş devri olmadığı gibi işletme ruhsatıyla da kiralanmadığı anlaşılmaktadır. Sözleşmede aylık kira parasının ciro esasına göre ödeneceğinin kararlaştırılması taraflar arasındaki kira ilişkisinin hasılat kirası olduğunu göstermez. O halde taraflar arasındaki uyuşmazlığın Borçlar Kanununun adi kira hükümlerine göre çözümlenmesi gerekir. İcra takibinde Borçlar Kanunun 260. maddesine göre 30 gün ödeme süreli ödeme emri çıkartılmasında bir usulsüzlük bulunmamaktadır. Bu nedenle işin esasının incelenerek neticesine göre bir karar verilmesi gerekirken yazılı şekilde karar verilmesi doğru değildir.
 
 ## Yargıtay 6. HD 2013/12186 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/534416800)
 
 Olayımıza gelince; davada dayanılan ve hükme esas alınan 1.1.2009 başlangıç tarihli bir yıl süreli kira sözleşmesi konusunda uyuşmazlık bulunmamaktadır. Taşınmazın otel olarak kullanılmak üzere kiraya verildiği görülmektedir. Kiraya veren mirasçılarından ... 6 Ocak 2012 tarihli dilekçesi ile belediyeye müracaat ederek iç mekanlarda sıva, tamirat ve boya
 
@@ -54,13 +64,19 @@ badana yapılması, elektrik ve su tesisatlarının tamiratı, iç kapıların a
 
 ## Yargıtay 6. HD 2013/10034 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/539206500)
+
 İcra takibinde dayanılan ve hükme esas alınan 24.02.2010 başlangıç tarihli ve 3 yıl süreli kira sözleşmesi hususunda taraflar arasında bir uyuşmazlık bulunmamaktadır. Bu sözleşme ile arsa niteliğindeki taşınmaz otopark olarak kiraya verilmiştir. Borçlar Kanununun 270 ve devam maddelerinde düzenlenen hasılat kirasından söz edilebilmesi için hasılat getiren bir taşınır ya da taşınmaz mal, ticari işletme ya da hakkın kira ilişkisinin konusunu oluşturması ve kiralananın demirbaşları ve işletme ruhsatı ile birlikte kiraya verilmesi gerekir. Kira sözleşmesindeki özelliklerine göre kiraya verilen yerin Borçlar Kanununun adi kiraya ilişkin (Türk Borçlar Kanunu genel) hükümlerine tabi olduğu anlaşılmaktadır. Kiralanan adi kira hükümlerine tabi bulunduğundan ödeme emrinde otuz günlük ödeme süresi verilmesinde bir usulsüzlük bulunmamaktadır. Mahkemece işin esası hakkında karar verilmesi gerekirken, yazılı gerekçe ile sözleşmenin nitelendirilmesinde yanılgıya düşülerek istemin reddine karar verilmesi usul ve yasaya aykırıdır.
 
 ## Yargıtay 6. HD 2013/9635 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/550916000)
+
 Hasılat kirası, ürün veren bir mal veya hakkın kullanılmak, semerelerinden yararlanılmak ve işletilmek üzere bir bedel karşılığında kiralayan tarafından kiracıya devredilmesine ilişkin sözleşme olarak tanımlanabilir. Borçlar Kanununun 270 (TBK 357) ve devam maddelerinde düzenlenen hasılat kirasından söz edilebilmesi için hasılat getiren bir taşınır ya da taşınmaz mal, ticari işletme ya da hakkın kira ilişkisinin konusunu oluşturması ve kiralananın demirbaşları ve işletme ruhsatı ile birlikte kiraya verilmesi gerekir.
 
 ## Yargıtay 6. HD 2013/5975 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/404289700)
 
 Davada dayanılan ve hükme esas alınan 17.7.2006 başlangıç tarihli ve üç yıl süreli kira sözleşmesi konusunda taraflar arasında uyuşmazlık bulunmamaktadır. Kiralanan akaryakıt istasyonu olarak kullanılmak üzere davacı şirkete kiralanmıştır. Sözleşmenin 3. maddesinde '' Kiralanan şeyin alelade kullanılması için menteşelemek, cam taktırmak, ..............badana gibi ufak tefek kusurlar kiraya verene haber vermeden ve münasip müddet beklemeden kiracı tarafından yaptırılırsa masrafı kiraya verenden istenemez '' düzenlemesine yer verilmiştir. .Buna göre, hükme esas alınan bilirkişi raporunda sıva boya işleri için harcandığı
 
@@ -68,9 +84,13 @@ belirtilen 3.000 TL'lik miktarın mahsubu gerekirken yazılı şekilde hüküm k
 
 ## Yargıtay 6. HD 2012/17261 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1054744700)
+
 Davada dayanılan ve hükme esas alınan 01.03.2004 başlangıç tarihli, kiralananı akaryakıt istasyonu niteliğinde olan kira sözleşmesinin varlığı davacının yeni iktisap ettiği 16 parsel numaralı, kiralananın üzerinde bulunduğu 4633 m²'lik kargir dam ve akaryakıt istasyonu niteliğindeki taşınmaz olduğu hususlarında taraflar arasında bir uyuşmazlık bulunmamaktadır.
 
 ## Yargıtay 6. HD 2012/16848 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1054958000)
 
 Davada dayanılan ve hükme esas alınan 1.6.2002 başlangıç tarihli ve iki yıl süreli kira sözleşmesi konusunda taraflar arasında uyuşmazlık bulunmamaktadır. Sözleşme ile diğer demirbaşlarla birlikte Gibson marka klima da kiracıya teslim edilmiş, sözleşmenin özel şartlar bölümü 3. maddesinde de yakıt, elektrik, su, kalorifer, asansör giderleri, tamir ve bakım ücreti, kapıcı parası ile tüm apartman ortak giderlerinin, demirbaş harcama ve yönetim giderlerinin kiracı tarafından ödeneceği kararlaştırılmıştır. Bu şart geçerli olup tarafları bağlar. Kiralanın 5.11.2008 tarihli anahtar teslim tutanağı ile tahliye ve teslim edilmesinden sonra kiralayan tarafından 7.11.2008 tarihinde kiralananda mahkeme aracılığı ile yaptırılan tespitte, diğer hasar kalemleri ile birlikte demirbaş olarak teslim edilen klimanın da yerinde olmadığı saptanarak klima takılma bedeli olarak KDV hariç 2.000 TL değer takdir edilmiştir.
 Bununla birlikte yukarıda sözü edilen anahtar teslim tutanağına klimanın mevcut olmadığı yönünde bir şerh düşülmediği gibi, yargılama sırasında davalı- karşı davacının yemin teklif etmesi üzerine davacı- karşı davalı klimanın 5.11.2008 tarihinde anahtar teslimi sırasında hasarsız ve çalışır vaziyette davalıya teslim edildiğine dair yemin eda etmiştir. Ne var ki, tespit bilirkişisi raporunda klimanın duvara monteli olmadığına ilişkin fotoğraf bulunmaktadır. Gerek tespit raporu, gerek anahtar teslim tutanağı ve gerek eda edilen yemin çerçevesinde demirbaş olarak kiracıya teslim edilen klimanın mevcut olduğu, ancak yerine monteli bulunmadığı anlaşılmaktadır. Bu nedenle de tespit raporunda klima takma bedeli değerlendirilmiştir. Yine yargılama sırasında alınan bilirkişi raporunda verilen hasar bedeli olarak tespit bilirkişisinin belirlemiş olduğu 31.801 TL'lik hasar aynen benimsenmiş, ancak bundan KDV de eklenmek suretiyle 2.360 TL klima bedeli mahsup edilerek hasar miktarı 29.441 TL olarak hesaplanmıştır.
@@ -78,15 +98,21 @@ Mahkeme ise hüküm kısmında bilirkişi raporu çerçevesinde hasar bedelinden
 
 ## Yargıtay 6. HD 2012/8543 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1053800700)
+
 Takipte dayanılan ve karara esas alınan 23.06.2010 başlangıç tarihli ve on yıl süreli kira sözleşmesi konusunda taraflar arasında uyuşmazlık bulunmamaktadır. Sözleşmede taşınmazın “süpermarket” olarak kiraya verildiği belirtilmiştir. Taraflar arasındaki ilişkinin hasılat kirası olarak nitelendirilebilmesi için B.K.’nun 270.maddesinde düzenlendiği şekliyle hasılat veren taşınır veya taşınmaz mal, ticari işletme ya da hakkın kira ilişkisinin konusunu oluşturması ve kiralananın demirbaşları ve işletme ruhsatı ile birlikte kiraya verilmesi gerekir. Olayımızda kiralanan ile birlikte teslim edilen demirbaştan bahsedilmediği gibi sözleşmenin 11.2.maddesinde işletme ruhsatının davalı kiracı tarafından temin edileceği öngörülmüştür. Sözleşmede kira parasının aylık ciroya göre hesap edileceğinin kararlaştırılması taraflar arasındaki ilişkinin hasılat kirası olarak nitelendirilmesi için tek başına yeterli değildir. Bu durumda sözleşmenin B.K.’nın hasılat kirası hükümlerine tabi olduğundan söz edilemez. Temerrüt ihtarı yerine geçen ödeme emrinde ihtar süresinin 30 gün olarak belirlenmesinde bir usulsüzlük bulunmamaktadır.
 Ne var ki kira parasına ilişkin olarak sözleşme hükümlerine göre ciro bilgilerinin kiracı tarafından ayın son gününü takip eden ilk 5 gün içinde kiralayana bildirileceği, kiralayan tarafından düzenlenecek faturaların da ayın ilk 10 günü içinde kiracıya tebliğ edilmesi şartı ile kira parasının ayın 15’ine kadar kiralayanın banka hesabına yatırılacağı kararlaştırılmış olup söz konusu koşulların yerine getirilip getirilmediği yargılamayı gerektirdiğinden davanın sadece bu nedenle reddi gerekirken farklı gerekçeler de ilave edilmesi suretiyle yazılı şekilde reddi doğru değil ise de sonucu itibariyle doğru olan hükmün açıklanan gerekçeyle ve gerekçesi düzeltilmiş şekliyle ONANMASINA, temyiz harcı peşin alındığından başkaca harç alınmasına mahal olmadığına, 07.06.2012 tarihinde oybirliğiyle karar verildi.
 
 ## Yargıtay 11. HD 2011/6767 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1030121600)
+
 Ancak dava konusu demirbaş bedellerinin davacı acente tarafından davalı tarafa ödendiği, davalı şirkete ait olan ve davacı tarafından kullanılan demirbaşların eksiksiz bir biçimde davacı tarafından davalıya teslim edildiği taraflar arasında çekişmesizdir. Ancak sözleşmede davacı tarafından demirbaşlar için ödenen 6.000 YTL’nin teminat için ödendiği sonucuna götürecek düzenlemeler bulunmamakta olup davalıya ait demirbaşların feshedilen sözleşmenin anılan hükümleri çerçevesinde teslimle beraber feshe kadar kullanıldığının sabit olması karşısında mahkemenin kabulünün aksine tacir olan davalının demirbaşlarını davacı acenteye kira bedeli karşılığı kullandırdığının, başka bir deyişle dava konusu bedelin davacı tarafından davalıya kira bedeli olarak ödendiğinin kabulü gerekir.
 Bu durumda mahkemece davacı tarafından davalıya demirbaşlar için ödenen bedelin kira bedeli olduğunun kabulü ile kullanım süresiyle mütenasip miktarın davalıdan istenilemeyeceği ancak kullanım süresini aşan dönem için davalının iade yükümlülüğünün bulunduğu kabul edilerek hüküm tesis edilmesi gerekirken eskime payı dikkate alınmak suretiyle yapılan hesaplama hatalı olduğundan Dairemizin 01.11.2010 tarihli bozma ilamının (3) numaralı bendinin kaldırılarak kararın değişik bu gerekçe ile bozulmasına karar vermek gerekmiştir.
 
 ## Yargıtay 17. HD 2011/5013 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/791182200)
 
 31.05.2007 tarihli dava konusu haciz, borçlunun 08.11.2006 tarihli yoklama fişinden 01.11.2006 tarihinde faaiyete başladığı otelde ve davalı borçlu şirket yetkilisi ve avukatının
 
@@ -95,23 +121,33 @@ Ticaret sicil kayıtlarından davacı ile borçlu şirket arasında kuruluş tar
 
 ## Yargıtay 17. HD 2011/5011 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/791181100)
+
 25.05.2007 tarihli dava konusu haciz, borçlunun 08.11.2006 tarihli yoklama fişinden 01.11.2006 tarihinde faaliyete başladığı ve ödeme emrinin tebliğ edildiği otelde ve davalı borçlu şirket yetkilisi ve avukatının huzurunda yapılmıştır. Davacı 3.kişi, haciz yapılan oteli dava dışı şirketten satın aldığını, borçlu şirketin ise dava dışı oteli satan şirketin kiracısı olduğunu beyan ederek istihkak iddiasında bulunmuştur. Haczin yapıldığı otel, tüm demirbaşlarıyla birlikte 12.05.2007 tarihli borçtan önce 15.02.2007 tarihli satış sözleşmesi ve aynı tarihli fatura ile dava dışı ... Otelcilik ve Turistik Tesisleri İşletmeleri A.Ş. tarafından davacı 3.kişiye satılmıştır. Davacı 3.kişi, davalı borçluya 09.03.2007 tarihinde gönderdiği ihtarname ile oteli 6 ay içinde tahliye etmesini istemiş; ticaret sicil kayıtlarından haciz adresinde davacı 3.kişinin 26.06.2007 tarihinde şube açtığı anlaşılmıştır. Serik Sulh Hukuk Mahkemesinin 2007/95 D.İş. Sayılı dosyasındaki bilirkişi raporuyla oteldeki demirbaşların beş-on yıllık eşyalar olduğu belirlenmiştir.
 Mevcut deliller birlikte değerlendirildiğinde davalı borçlunun dava dışı şirketin kiracısı olduğu,davacının ise haciz yapılan oteli borçludan değil, borçlunun kiracısı olduğu dava dışı şirketten satın aldığı anlaşılmaktadır. Ticaret sicil kayıtlarına göre davacı ile borçlu şirket arasında kuruluş tarihleri, kurucuları ve adresleri yönünden bir bağ olduğunun kabülü de mümkün değildir. Ancak dava dışı ... Otelcilik ve Turistik Tesisleri İşletmeleri A.Ş ile borçlu şirket arasında organik bağın tesbiti halinde davacı ile dava dışı ... A.Ş arasındaki satış işleminin alacaklılardan mal kaçırma amacıyla muvazaalı yapıldığının değerlendirilmesi gereklidir. Mahkemece dava dışı ... A.Ş. ile borçlu şirket…
 
 ## Yargıtay 14. HD 2011/6322 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/765984800)
+
 Yanlar arasındaki 23.01.2006 tarihli kira sözleşmesinin konusu "2005 nissan 20 SC 760" nolu araçtır. Orta yerde Borçlar Kanununun 270 ve devamı maddelerinde düzenlenen hasılat kirası ilişkisi var diyebilmek için kiralananın hasılat getiren bir taşınır ya da taşınmaz mal ticari işletme veya hakkın bulunması, kiralananın demirbaşları ve işletme ruhsatı ile birlikte kiraya verilmesi gerekir. TTK'nun 11.maddesine göre de ticari işletmeden maksat ticarethane, ya da fabrika yahut ticari şekilde işletilen diğer müesseselerdir. Somut uyuşmazlıkta, 23.1.2006 günlü kira sözleşmesinde soyut "malzeme ve personel taşımak" için araç kiralandığından, kira ilişkisinin hasılat kirası ilişkisi olarak kabulü olanaksızdır. Tarafların sıfatlarına ve mahkeme önüne getirilen uyuşmazlığın niteliğine göre hükme yöneltilen temyiz itirazlarını inceleme görevi, 2797 sayılı Yargıtay Kanununun 14.maddesi gereğince 13.Hukuk Dairesine ait bulunmaktadır.
 
 ## Yargıtay 11. HD 2011/4127 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1019210700)
 
 Diğer yandan davacı tarafından demirbaşlar için ödenen miktar yönünden, davalıya ait demirbaşların feshedilen sözleşmenin anılan hükümleri çerçevesinde teslimle beraber feshe kadar kullandığının sabit olması karşısında, mahkemenin kabulünün aksine tacir olan davalının demirbaşlarını davacıya kira bedeli olarak kullandırdığının, bu bağlamda dava konusu davacı tarafından bu bedelin davalıya kira bedeli olarak ödendiğinin kabulü gerekir. Bu bağlamda, davacı tarafından demirbaşlar için ödenen davaya konu bedelin kira bedeli olduğunun kabulü ile bu kalem istemin reddi yerine kabulü doğru görülmemiştir.
 
 ## Yargıtay 6. HD 2011/3210 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1058719800)
+
 Taraflar arasında uyuşmazlık konusu olmayan, 1.1.2009 başlangıç tarihli ve bir yıl süreli sözleşmenin kira sözleşmesi olduğu anlaşılmaktadır. Bu sözleşmenin konusunun ... Residence içindeki taksi durağı, oto yıkama, kapalı ve açık otoparak hizmetlerinin sağlanması olup, sözleşmeye göre kiracı tarafından durakta çalışacak araç ve elemanların temin edileceği, oto yıkama için ayrı bir bölümün yapılacağı, açık ve kapalı otoparkında sözleşme uyarınca kiraya verildiği anlaşılmaktadır. Borçlar Kanunu'nun 270 ve devamı maddelerinde düzenlenen hasılat kirasından söz edilebilmesi için hasılat getiren bir taşınır ya da taşınmaz mal, ticari işletme ya da hakkın kira ilişkisinin konusunu oluşturması, burasının demirbaşları ve işletme ruhsatı ile birlikte kiraya verilmesi gerekir. Oysa taraflar arasında düzenlenen sözleşmede, bir demirbaş devri söz konusu olmadığı, işletme ruhsatı ile birlikte kiralanmadığı anlaşılmaktadır. Bu halde taraflar arasindaki kira ilişkisinin hasılat kirası olmadığının kabulü gerekir. Bu durumda taraflar arasındaki kira ilişkisinin Borçlar Kanunu'nun adi kira hükümlerine mi yoksa 6570 sayılı kanun hükümlerine mi tabi olduğu belirlenmelidir.
 Zira 6570 sayılı kanuna tabi kira sözleşmelerine dayanılarak tahliye istenmesi halinde kira süresinin sona ermesi tek başına yeterli olmayıp yasada belirtilen sebeplerin de ileri sürülüp kanıtlanması gerekir.
 
 ## Yargıtay 6. HD 2011/3098 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1058610100)
 
 İcra takibinde ve davada dayanılan ve hükme esas alınan 1.8.2001 başlangıç tarihli ve iki yıl süreli kira sözleşmesi konusunda taraflar arasında uyuşmazlık bulunmamaktadır. Sözleşmede kiralanan şeyin durumu “iyi” olarak nitelendirilmiş, sözleşmenin özel şartlar
 
@@ -121,11 +157,15 @@ Yargılamada dinlenen davalı tanıkları kiralananın Aralık 2007 ayının ilk
 
 ## Yargıtay 3. HD 2010/21793 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/978695400)
+
 Nitekim bozma ilamında "işgale konu bilirkişiler raporunda, A-B-C ile belirlenen yerlerin (davalı tarafa ait otel restoranla birlikte) kiralamadan önce var olup olmadığı dolayısıyla önceden işgalli haliyle şirkete kiralanıp kiralanmadığı yada kira sözleşmesinden sonra dava dışı kiracı şirket tarafından işgalin oluşturulup oluşturulmadığı araştırılmamıştır" denilmesine ve davalılar vekilinin yazılı beyanları, taraf tanıklarının anlatımları ve ayrıca önceki dönemlerde kesinleşen (aynı yere ilişkin) men'i müdahale-ecrimisil kararları ile 3.şahıslarla (şirketlerle) yapılan kira sözleşmelerine göre, davalıların pay sahibi olduğu otel-restoran olarak işletilen tapuda "Bahçeli Ahşap Hane" niteliğindeki taşınmazın tüm
 
 malikleri tarafından çok uzun süredir kiracı değiştirerek ve kiraya verilerek kallanıldığı, tapulu taşınmaz önündeki ecrimisile konu yerlerin kiracılar tarafından işgal edilegeldiği, bu işgalli hali ile yeni kiralamalar yapıldığı, en son (işgalden arındırılmadan) dava dışı ... Turizm San. Ve Tic.Ltd.Şirketine kiraya verildiği böylece kiraya veren tüm taşınmaz maliklerinin ecrimisilden müteselsilen sorumlu olduğu gözetilmemiştir. Ayrıca fiilen işgalci konumundaki dava dışı şirketlerin ecrimisille yükümlü olmalarının davalıların sorumluluğunu da ortadan kaldırmadığı değerlendirilmemiştir.
 
 ## Yargıtay 17. HD 2010/10929 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/796074200)
 
 04.07.2007 tarihli dava konusu haciz borçluya ödeme emrinin Tebligat Kanunun 35.maddesi gereğince tebliğ edildiği adreste davacı 3.kişi şirket müdürünün huzurunda yapılmıştır.Davacı 3.kişi, haciz yapılan oteli dava dışı şirketten satın aldığını borçlu şirketin ise dava dışı oteli satan şirketin kiracısı olduğunu beyan ederek istihkak iddiasında bulunmuştur.Alacaklı vekili devrin muvazaalı olduğunu savunmuştur.Haczin yapıldığı otel, tüm demirbaşlarıyla birlikte 05.05.2007 tarihli borçtan önce 15.02.2007 tarihli satış sözleşmesi ve aynı tarihli fatura ile dava dışı ... A:Ş. Tarafından davacı 3.kişiye satılmıştır.Davacı 3.kişi, davalı borçluya 09.03.2007 tarihinde gönderdiği ihtarname ile oteli 6 ay içinde tahliye etmesini istenmiş;
 Ticaret sicil kayıtlarından haciz adresinde davacı 3.kişinin 26.06.2007 tarihinde şube açtığı anlaşılmaktadır.Serik Sulh Hukuk Mahkemesinin 2007/95 D.İş.sayılı dosyasındaki bilirkişi raporuyla oteldeki demirbaşların beş-on yıllık eşyalar olduğu belirlenmiştir.Mevcut deliller birlikte değerlendirildiğinde davalı borçlunun dava dışı şirketin kiracısı olduğu,davacının ise haciz yapılan oteli borçludan değil borçlunun kiracısı olduğu dava dışı şirketten satın aldığı anlaşılmaktadır.Ticaret sicil kayıtlarından davacı ile borçlu şirket arasında kuruluş tarihleri,kurucuları ve adresleri yönünden bir bağ olduğunun kabülü de mümkün değildir.Ancak dava dışı ... A:Ş ile borçlu şirket arasında organik bağın tesbiti halinde davacı ile dava dışı ... A.Ş arasındaki ticari işletme devri niteliğindeki 15.02.2007 tarihli satış işleminin alacaklılardan mal kaçırma amacıyla muvazaalı yapıldığının değerlendirilmesi gereklidir.Mahkemece dava dışı ... A.Ş.
@@ -133,11 +173,15 @@ Ticaret sicil kayıtlarından haciz adresinde davacı 3.kişinin 26.06.2007 tari
 
 ## Yargıtay 11. HD 2010/10986 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1034735800)
+
 Öte yandan, dava konusu demirbaş bedellerin davacı acente tarafından davalı tarafa ödendiği, davalı şirkete ait olan ve davacı tarafından kullanılan demirbaşların eksiksiz bir biçimde davacı tarafından davalıya teslim edildiği taraflar arasında çekişmesizdir. Ancak, sözleşmede davacı tarafından demirbaşlar için ödenen 6.000 YTL'nın teminat için ödendiği sonucuna götürecek düzenlemeler bulunmamakta olup, davalıya ait demirbaşların feshedilen sözleşmenin anılan hükümleri çerçevesinde teslimle beraber feshe kadar kullandığının sabit olması karşısında, mahkemenin kabulünün aksine tacir olan davalının demirbaşlarını davacı acenteye kira bedeli karşılığı kullandırdığının, başka bir deyişle dava konusu bedelin davacı tarafından davalıya kira bedeli olarak ödendiğinin kabulü gerekir. Bu bağlamda, mahkemece, davacı tarafından demirbaşlar için ödenen davaya konu bedelin kira
 
 bedeli olduğunun kabulü ile bu kalem istemin tümü ile reddi yerine yazılı şekilde kısmen kabulü doğru görülmemiştir.
 
 ## Yargıtay 6. HD 2010/11515 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1063719600)
 
 İcra takibinde dayanılan ve karara esas alınan 5.6.2006 başlangıç tarihli 31.12.2006 bitiş tarihli kira sözleşmesi konusunda taraflar arasında bir uyuşmazlık bulunmamaktadır. Kira sözleşmesinde kiralananın arsa olduğu otopark olarak kullanılacağı kararlaştırılmıştır. Kira miktarı ise aylık 6520 TL olarak belirtilmiştir. Borçlar Kanunu'nun 270 ve devamı maddelerinde düzenlenen hasılat kirasından söz edilebilmesi için hasılat getiren bir taşınır ya da taşınmaz mal, ticari işletme ya da hakkın kira ilişkisinin konusunu oluşturması, burasının demirbaşları ve işletme ruhsatı ile birlikte kiraya verilmesi gerekir. Oysa taraflar arasında düzenlenen sözleşmede, bir demirbaş devri sözkonusu olmadığı, işletme ruhsatı ile kiralanmadığı anlaşılmaktadır. Ayrıca sözleşmede kira parası da net olarak belirlenmiştir. Bu halde kira ilişkisinin Borçlar Kanunu'nun adi kira hükümlerine tabi olduğunun kabulü gerekir. Davacı kiralayan tarafından davalı kiracı hakkında başlatılan icra takibinde davalıya gönderilen ödeme emrinde Borçlar Kanunu'nun 260. maddesine göre 30 günlük ödeme süresi verilmesinde bir usulsüzlük bulunmamaktadır.
 Mahkemece itirazın kaldırılması isteminin reddine karar verilmesi doğru olmadığı gibi tahliye istemi hakkında olumlu-olumsuz bir karar verilmemesi de doğru değildir. Bu sebeple kararın bozulması gerekmiştir.

@@ -22,10 +22,14 @@ uyari: "Derleyenin seçtiği alıntılardır; kararın tamamı değildir. Künye
 
 ## İstanbul BAM 14. HD 2025/1876 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1184647200)
+
 Firmasının asli kusurlu, tasdik projelerinde imzaları bulunanların kusurlu olmadığı, iş güvenliği ve çevre görevlilerinin tali oranda kusurlu olduğu hususlarına yer verildiği, Kozan Ağır Ceza Mahkemesinin 2012/103 Esas, 2015/83 Karar ve 09.04.2015 tarihli kararı ile verilen hükmün temyiz edilmesi sonucunda kararın Yargıtay 12. Ceza Dairesinin 2015/14955 Esas, 2017/10374 Karar ve 18.17.2017 tarihli ilam ile; "... Oluş ve tüm dosya kapsamına göre sanığın 23/02/2010 tarihinde düzenlenen iş sözleşmesi ile ...-... Adi Ortaklığı bünyesinde iş güvenliği uzmanı olarak görevlendirildiği, sigortalı işe giriş bildirgesinde iş yeri adresi olarak Köprü Barajı ... inşaat şantiyesinin kayıtlı olduğu, ...-... Adi Ortaklığı tarafından Kozan Cumhuriyet Başsavcılığına gönderilen evrak içeriklerine göre sanığın şantiye organizasyon şemasına göre, şantiyede iş güvenliği uzmanı olarak görevli olduğu ve birinci derecede sorumlu kişi olduğunun bildirildiği, yine müteahhit firma tarafından Çalışma ve Sosyal Güvenlik Bakanlığına gönderilen yazıda sanığın şantiyenin iş güvenliği uzmanı olarak bildirildiğinin görüldüğü, sanığın ...-...
 Adi Ortaklığını temsilen koordinasyon toplantılarına katıldığı, toplantı tutanaklarında İSAG (A) uzmanı olarak imzasının bulunduğu, ...-... Adi Ortaklığı Köprü Barajı şantiyesinde İş Sağlığı ve Güvenliği Çalışma Raporlarını hazırladığı, Köprü Barajı ... İş Sağlığı Güvenliği kurulu Noter Onaylı Defter Kayıtları ve Kurul Üyelerine ilişkin defter kayıtlarının tetkikinde, 17.06.2010- 31.07.2010- 31.08.2010- 15.09.2010- 10.10.2010- 12.11.2010- 28.12.2010- 29.03.2011 - 30.04.2011- 31.05.2011- 30.06.2011- 23.07.2011- 23.08.2011 -13.09.2011- 17.10.2011- 30.11.2011- 20.12.2011- 27.01.2012 tarihli iş sağlığı ve güvenliği kurulunda İSAG uzmanı (A) ve İSAG Koordinatörü sıfatlarıyla üye olarak yer aldığı, ... AŞ. ve ...-... Adi Ortaklığı arasında düzenlenen Köprü Barajı ve ... yapımına ilişkin sözleşmenin 35. Maddesine göre iş yerindeki iş sağlığı ve güvenliği önlemlerinin alınmasından müteahhit firma ...-...
 
 ## İstanbul BAM 13. HD 2025/1670 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1180279900)
 
 Dava; davacı tarafından davalıya verilen dava konusu çekler ve nakit paradan dolayı davacının davalıya borçlu olmadığının tespitine ve ödenen bedelin istirdadına karar verilmesi talebine ilişkindir.
 
@@ -36,10 +40,14 @@ Dosya arasında bulunan 28/06/2019 tarihli ve 01/07/2019 tarihli Protokoller dik
 
 ## İstanbul BAM 3. HD 2025/1404 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1150314200)
+
 Taraflar arasında adi ortaklık kurulduğu,bir süre devam ettiği,alt taşeronluk şeklinde işlerin yapıldığı ,sonrasında davalının adi ortaklığın feshini ihtar ettiği,taraflar arasında tasfiye yönünden herhangi bir uzlaşma sağlanamadığı görülmektedir.Mahkemece yargılamada alınan bilirkişi heyeti raporunda özetle; davacı şirket tarafından ibraz edilen 2018 yılına ilişkin ticari defterlerin; T.T.K m.64,66, V.U.K. m.220-226' göre açılış tasdiklerinin usulüne uygun olarak yaptırıldığı ancak yevmiye defteri kapanış tasdikinin yapılmadığı tespit edilmiş olup, davacı şirket lehine delil kabiliyetinin bulunmadığını, davacı şirket tarafından dava dosyasında bulunan 08.07.2020 tarihli yazısında, 2015-2016-2017 yılı ticari defterlerinin 24.Asliye Hukuk Mahkemesi 2019/598 Esas sayılı dosyasına sunulmuş olduğunu ve 2019 yılı ticari defterlerinin olmadığını beyan ettiğini, dava dosyasında davalı olan ... Oto. İnş.
 Yatırım ve Danışmanlık A.Ş. inceleme günü 10.07.2020 tarihinde ticari defterleri inceleme için ibraz etmediği ve yerinde inceleme talep etmediğini, iş bu sebeplerden dolayı davalı şirkete ait ticari defterler üzerinde gerekli inceleme ve değerlendirme yapılamadığını, davacı şirketin 2018 yılı ticari defterlerinin incelenmesi neticesinde; Adi ortaklık nedeni ile davacının davalıdan talep edebileceği bir alacağının bulunmadığını, Adi ortaklığın yapmayı üstlendiği işler, inşaat ve dekorasyon işleri niteliğinde olduğu anlaşıldığından, mahkemece tasfiyeye karar verildiği takdirde, İnşaat Mühendisi ve Mimar bilirkişilerin de mahkemece görevlendirilmesinin uygun olacağı beyan etmiştir.
 
 ## İstanbul BAM 17. HD 2025/1307 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1180650300)
 
 Şti.'de olabileceğinin söylenmesi üzerine bu şirketin yetkilisi ... ile iletişime geçilerek e-mail ile iş ortaklığının ticari defter ve kayıtlarının istendiği, e-mail cevabında ise iş ortaklığına ait sadece envanter Defterinin 2014-2015 yılı noter tasdik kapak sayfalarının olduğunun belirtildiği, bu nedenlerle iş ortaklığına ait ticari defter kayıtlarına ulaşılamadığından takip konusu faturaların kayıtlı olup olmadığının incelenemediği bildirilmiştir.Dosya kapsamında yer alan davacı şirket ile davalı ... ... Konut A.Ş. (Eski ünvanı: ... Elekt. Cih. Dağ. Nak. İnş. Tic. ve San. Ltd. Şti.) ve ... Yapı Sis. San. ve Tic. Ltd. Şti. iş ortaklığı arasında akdedilen iş sağlığı ve güvenliği hizmetleri sözleşmesi uyarınca davacı verdiği hizmete karşılık dava konusu icra takibinin dayanağı olan her biri 3.068,00 TL bedelli, 2015 yılı Ağustos, Eylül, Ekim aylarına ilişkin 3 adet faturayı düzenlediğini ileri sürmüş olup davalı ise fatura konusu hizmetleri almadığını savunmuştur.Sözleşmede ... ... Konut A.Ş. (Eski ünvanı: ... Elekt. Cih. Dağ. Nak. İnş. Tic. ve San. Ltd. Şti.) ve ... Yapı Sis. San. ve Tic. Ltd. Şti. iş ortaklığı kaşesi üzerine tek imza atıldığı görülmüştür.
 Dairemizce davalı vekiline çıkarılan muhtıra ile, iş ortaklığına ait adi ortaklık sözleşmesinin bulunup bulunmadığı hususunda açıklama yapılması, var ise gönderilmesi için süre verilmiştir. Davalı vekili 09/10/2025 tarihli beyan dilekçesi ile, müvekkilinin elinde böyle bir sözleşmenin olmadığını, iş ortaklığının yönetiminin tamamiyle dava dışı ... Yapı Sis. San. ve Tic. Ltd. Şti.'ye ait olduğunu ve iş ortaklığına ait işlerin bu şirket tarafından yürütüldüğünü belirtmiştir.Somut olayda, iş ortaklığının idaresi ve temsili bakımından ortakların tek yada birlikte yahut başka şekilde hareket etmesi gerektiğine yönelik dosya kapsamında bir delil bulunmamaktadır. Sözleşme iş ortaklığı kaşesi üzerine atılan tek imza ile imzalanmış olup iş ortaklığının, ortakların tek başına atacağı imzalarıyla borç altına sokulabileceği hususu sabit olmadığından sözleşmenin iş ortaklığını bağlamayacağının kabulü gerekir.
@@ -47,6 +55,8 @@ Dairemizce davalı vekiline çıkarılan muhtıra ile, iş ortaklığına ait ad
 Öte yandan imzaya yönelik ayrıca ve açıkça itiraz etmediğinden sözleşmenin davalı yönünden geçerli olduğu kabul edilse bile davalının incelenen ve usulüne uygun tutulan ticari defterlerinde davacı adına herhangi bir kaydın olmadığı, fatura konusu hizmetin sunulduğunun mevcut delil durumu ve dosya kapsamı ile ispatlanamadığı nazara alındığında Mahkemece davanın reddine karar verilmesinde bir isabetsizlik bulunmayıp davacı vekilinin istinaf başvurusu yerinde görülmemiştir.Açıklanan nedenler ile ilk derece mahkemesinin kararında hukuka aykırılık görülmediğinden, davacı vekilinin istinaf başvurusunun HMK'nun 353/1-b.1 bendi gereğince esastan reddine karar verilmesine dair aşağıdaki hüküm kurulmuştur.
 
 ## Tekirdağ BAM 4. HD 2025/1277 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1190555600)
 
 Dava; davaya konusu ödeme yeri, ödeme tarihi ve düzenleme tarihi bulunmayan senetten dolayı icra takibinden önce açılan davacının davalıya borçlu olmadığının tespiti istemine yönelik menfi tespit davasıdır.
 
@@ -59,6 +69,8 @@ Buna göre; birinci sınıf tüccarlar, bilanço esasına göre; ikinci sınıf 
 
 ## Sakarya BAM 7. HD 2025/1250 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1157995800)
+
 Dava; menfi tespit istemine ilişkindir.
 
 …
@@ -68,6 +80,8 @@ Uyuşmazlığa konu hisselerin davacıya hükmen devri ile dava dışı şirketi
 Hukuk Dairesi'nin 2015/11790 Esas saylı ilamı ile yerel mahkeme gerekçesi onanmakla taraflar arasındaki ilişkinin adi ortaklık olduğu husus bir kez daha kesinleşmiştir." Yargıtay 3. HD. 21/06/2022 tarih, 2022/1399 E., 2022/6029 K., Benzer bir karar; "Davacı vekili, müvekkili ile davalı arasında düzenlenen protokole göre tarafların ortağı olacağı bir limited şirket kurulmasının kararlaştırıldığını ancak davalının yükümlülüklerini yerine getirilmemesi nedeniyle söz konusu şirketin kurulamadığını ileri sürerek, müvekkili tarafından yapılan, masrafların iadesi isteminde bulunmuş olup, somut uyuşmazlığın adi şirket ilişkisinden kaynaklanmasına ve şirket ana sözleşmesinin düzenlenmesinden önceki safhada taraflar arasındaki ilişkinin adi ortaklık olduğu hususunun yerleşik Yargıtay uygulaması olmasına (11.HD: 30.03.1990/1595 E, 1990/3298 K; 13.HD.14.04.1987,1987/1898/ E-1987/K.) göre..." Yargıtay 11. HD., 19/03/2012 tarih, 2010/13203 E., 2012/4097 K.).
 
 ## İstanbul BAM 45. HD 2025/1227 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1182816400)
 
 Dava, hizmet sözleşmesinden kaynaklanan alacak istemine ilişkindir.
 
@@ -79,6 +93,8 @@ Yani sabit bedel veya hahediş bedeli hangisi yüksek ise o geçerli orur, düş
 vekilinin istinaf başvurusunun 6100 sayılı Kanun'un 353 üncü maddesinin birinci fıkrasının (b) bendinin (1) numaralı alt bendi uyarınca esastan reddine karar vermek gerekmiştir.İhbar olunan bbbve Eğitim Hizmetleri İnşaat A.Ş. vekilinin istinaf talebi değerlendirildiğinde ise; 6100 sayılı HMK'nun 61. maddesinde davanın ihbarı düzenlenmiş olup, davanın ihbarı, ihbar olunanı davanın tarafı haline getirmeyecektir. İhbar olunan şirketin dosyada taraf sıfatı bulunmamaktadır. Bu durumda davada taraf sıfatı olmayan, hakkında hüküm kurulmayan ihbar olunanın istinaf hakkı bulunmadığı için istinaf dilekçesinin HMK'nın 352/1.ç maddesi uyarınca usulden reddine dair aşağıdaki şekilde karar verilmiştir.
 
 ## Ankara BAM 27. HD 2025/1211 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1182424300)
 
 Dava, eser sözleşmesinden kaynaklı bakiye hakediş alacağı ile sözleşmenin haksız feshedildiği iddiasına dayalı kar kaybı alacağının tahsili istemine ilişkindir.
 
@@ -92,12 +108,16 @@ Taraflar arasında 03.12.2016 tarihli "Hastane, Şeyhli ve Kurtköy İstasyonlar
 
 ## Ankara BAM 21. HD 2025/1200 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1185303100)
+
 Bilirkişi raporunda yer alan tespitlerden; ... Asliye Hukuk Mahkemesinin 2014/287 E. sayılı dosyasına Hukukçu Bankacı bilirkişi ... tarafından düzenlenen 26/10/2015 tarihli rapor kapsamında ; "savcılık dosyası içinde ... Bankası müfettişi ... tarafından düzenlenmiş 09.09.2014 tarihli 30/1 nolu inceleme raporu olduğu, raporda "adi ortaklığa ait TR... nolu hesaptan ...'ın imzasını içeren 05.03.2013 valör ve 1000002019232954 işlem nolu "muhasebeden hesaba para yatırma" dekontu ile 18.500,00 TL'nin ... Tem. Nakl. Ltd. Şti.'ne ait 7299194791 nolu hesaba virman yoluyla aktarıldığı, oradan da anılan şirketin şubeye olan bir kısım kredi borçlarına mahsup edildiğinin belirtildiği" tespitlerine yer verildiği, hal böyle olunca davalı bankanın, adi ortaklık hesabına hizmet akdi çerçevesinde dava dışı Belediye tarafından yatırılan hak ediş tutarından 18.500-TL'yi, yetkisi olmadığı halde davalı ... şirketi yetkilisine ödeyerek sonrasında virman yoluyla bu şirket hesabına aktarıp anılan şirketin kredi borçlarına mahsuben gerçekleştirdiği işlemlerde tam kusurlu olduğunun ve haksız fiil hükümleri uyarınca adi ortaklığa karşı sorumlu olduğunun kabulü gerekir.
 Mahkemece, talep edilen tutarla bağlı kalınarak ve ödeme tarihine nazaran 10 yıllık zamanaşımı süresi de sonu ermemiş olmakla davanın kabulüne karar verilmesinde bir isabetsizlik görülmemiştir. Davalı bankanın, yapılan işlemlerin hukuka, sözleşme gereği takas mahsup hakkına, şirket payını aşmadığına, zımni kabul bulunduğuna, talebin niteliğine göre diğer davalı tarafın zenginleştiğine, talebin zamanaşımına uğradığına yönelik tüm istinaf istemleri yerinde olmayıp reddi gerekmiştir.
 
 Bilirkişiler tarafından yerinde yapılan incelemeler kapsamında Adi ortaklığın tasfiye edilip edilmediği araştırılmış olup adresine gidildiği belirtilen mali müşavir tarafından 2013 yılı defterlerinin firma sahiplerine teslim edildiğinin beyan edildiği hususuna rapor kapsamında yer verildiği, davacı vekili adi ortaklığın tasfiye olduğunu iddia etmiş ise de tasfiyeye ilişkin dosyaya bir delil sunulmadığı, Adi ortaklık defter ve kayıtlarının da incelemeye sunulmadığı, Adi ortaklığın tasfiye edilip edilmediği hususunda bir değerlendirme yapılamadığı anlaşılmaktadır. Hal böyle olunca asıl davada davacı taraf talebine konu tutar hali hazırda tasfiyesi ispatlanamayan Adi şirkete ait olmakla davalı bankadan tahsiline karar verilen tutarın( 9.435-TL'nin) Adi şirkete verilmek üzere davalıya ödenmesine karar verilmesi gerekirken mahkemece, hüküm altına alınan bu tutarın davacı şirkete ödenmesine karar verilmesi isabetsiz olmuştur. Hükümde yapılan bu hatanın kamu düzenine aykırılık teşkil ettiği değerlendirilmiştir.
 
 ## İstanbul BAM 3. HD 2025/1133 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1137494400)
 
 Dava, asıl davada faturaya dayalı alacağın tahsili talebiyle başlatılan takibe vaki itirazın iptali, karşı davada ise adi ortaklığın fesih ve tasfiyesi ile kalıpların iadesi ve alacakların ödenmesi taleplerine ilişkindir.
 
@@ -108,6 +128,8 @@ Bilirkişi heyet kök ve ek raporlarında; " Taraflar arasındaki Ortak İş Pro
 belirtilmişse de, elden iade edilen 20.000,00 TL ve 18.960,00 TL tutarındaki çeklere ait herhangi bir belge sunulmadığı, Davacı şirketin davalı şirketten 545.693,37 TL tutarında alacaklı göründüğü, 6102 sayılı T.T.K. 1530 maddesi gereğince taraflar arasında cari bir sözleşme bulunmadığı, 6102 sayılı T.T.K. 1530/2 maddesinin uygulanması hususunun mahkemenin takdirinde olduğu" yönünde görüş bildirilmiştir.
 
 ## İstanbul BAM 3. HD 2025/837 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1129507900)
 
 HMK.nun 355. maddesi uyarınca, ileri sürülen istinaf sebepleri ile sınırlı olarak yapılan inceleme sonucunda; dava ,adi ortaklıktan kaynaklandığı iddia edilen alacağın tahsili için yapılan takipte itirazın iptali talebine ilişkindir. Davanın dayanağı olan İstanbul ... İcra dairesinin ... Esas sayılı dosyasında ; 19/10/2019 tarihli sözleşme ve faturalara dayalı olarak 284.982,90 TL alacağın tahsili için ilamız takip yapıldığı, davalı vekilince verilen dilekçe ile borca ,ferilerine ,icra dairesinin yetkisine itiraz edildiği ,yetkili icra dairesinin Eskişehir İcra dairelerinin yetkili olduğunu beyan ettiği görülmüştür. Dosyadaki bilgi ve belgelere göre; dosyaya 19/10/2019 tarihli Ortaklık Sözleşmesi ibraz edilmiş, sözleşmenin konusunun dava dilekçesinde iddia edilen hususlara ilişkin olduğu,elde edilecek kazancın % 50-%50 oranında paylaşılacağının ,yetkili icra dairelerinin İstanbul İcra Daireleri ve mahkemelerinin İstanbul Mahkemeleri olacağının kararlaştırıldığı görülmüştür. Davalı tarafça, ortaklık sözleşmesindeki imzaya itiraz edilmemiş,ancak adi ortaklık bulunmadığı savunulmuştur.
 Taraflar tacir olup, HMK 17. maddesi uyarınca yetki anlaşması geçerli olmakla, yetki sözleşmesi uyarınca icra dairesi yetkili olduğundan bu yönlere ilişkin istinaf sebepleri yerinde görülmemiştir. Türk Borçlar Kanunu'nun 620 nci maddesinde; "Adi Ortaklık Sözleşmesi, iki ya da daha fazla kişinin emeklerini ve mallarını ortak bir amaca erişmek üzere birleştirmeyi üstlendikleri sözleşmedir" denilerek sözleşme unsuru açıkça belirtilmiştir. Ortaklar, ortak bir amacı gerçekleştirmek üzere bir sözleşme etrafında birleşirler. Sözleşmenin kurulması için tarafların karşılıklı ve birbirlerine uygun irade beyanlarını açıklamaları gerekir. Adi ortaklık, ortak bir amacı gerçekleştirmek üzere kurulur. Ortak amaçtan bahsedebilmek için, sözleşme ile ulaşılmak istenen hedefin bütün ortaklar için müşterek olması gerekir. TBK'nın 620 nci maddesinde; “ortak bir amaca erişmek üzere” ifadesiyle açıkça belirtilen ortak amaç unsuru, sözleşmenin temel unsurudur. Ortakların, ortak bir amacı gerçekleştirmek için bir araya gelmeleri de yeterli değildir.
@@ -120,6 +142,8 @@ Davalının 26.09.2023 tarihli itiraz dilekçelerine ekleyerek dosyaya sunmuş o
 memurunun belirlediği malvarlığı bilançosunun taraflara tebliğ edilmesi, tarafların bu husustaki itirazları da karşılanıp, toplanacak delillere göre değerlendirilmek suretiyle ) adi ortaklığın feshi ile tasfiyesinin yapılması gereklidir.
 
 ## İstanbul BAM 53. HD 2025/704 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1158421700)
 
 Dosya kapsamı ve özellikle avukat ... ile avukat ...’a verilen, 27.07.2017 tarihli Eyüp ... Noterliği’nin ... yevmiye numaralı vekâletnamesi birlikte değerlendirildiğinde, dava konusu sözleşmeyi imzalayan davacı iş ortaklığı ile bu adi ortaklığı oluşturan şirketlerin aynı olduğu, dolayısıyla taraf ve temsilde herhangi bir yanılma bulunmadığı, dosyada aksini gösteren herhangi bir bilgi veya belgeye de rastlanmadığı anlaşılmaktadır.
 Bu itibarla, davalı vekilinin bu hususa ilişkin istinaf itirazları yerinde görülmemiştir.Tüm bu açıklamalar doğrultusunda, mahkemece yapılması gereken işlem; son alınan ek rapor ile aynı heyetten alınan çoğunluk görüşüne dayalı kök rapor arasında çelişki bulunması, ayrıca her iki bilirkişi raporunun da hüküm kurmaya ve yargısal denetime elverişli nitelikte olmaması hususları da dikkate alınarak, dosyada konusunda uzman yeni bir bilirkişi heyeti oluşturulması ile gerek görülmesi halinde, keşif de yapılmak suretiyle mahallinde inceleme yapılarak, davalı yüklenici ile diğer davalı TOKİ arasında düzenlenen ihaleye ilişkin tüm ihale dosyası evrakları celbedilerek dosyaya kazandırılması ile davalı tarafça dosyaya sunulan 15.01.2020 tarihli uzman görüşü de değerlendirilip, yukarıda ayrıntılı olarak açıklanan hususlar çerçevesinde teknik ve hukuki açıdan kapsamlı bir değerlendirme yapılmalı ve denetime açık, hüküm kurmaya elverişli bir bilirkişi raporu alınmalıdır.Bu çerçevede yapılacak değerlendirme sonucuna göre hüküm kurulması gerekirken, eksik inceleme ile karar verilmiş olması usul ve yasaya aykırı bulunduğundan, ilk derece mahkemesi kararının kaldırılmasına karar verilmesi

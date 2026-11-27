@@ -22,11 +22,15 @@ uyari: "Derleyenin seçtiği alıntılardır; kararın tamamı değildir. Künye
 
 ## İstanbul BAM 44. HD 2021/1136 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/687990100)
+
 Asansörlerin söküm işlemleri yapılıp, davacıya teslimi halinde dava sonucu itibariyle davanın konusuz kalacağı ve giderilmesi güç zararlara yeni uyuşmazlıklara neden olacağı kanısına varılmıştır.
 Dava, finansal kiralama konusu malın iadesi davası olup, asansörler ve diğer taşınır ekipmanlar yönünden davacı ile davalı arasında finansal kiralama sözleşmesi mevcut olup, davacı taraf, davalının finansal kiralama bedellerini ödemede temerrüde düştüğünü iddia ederek eldeki davayı açmış ve tedbir istemiş ise de, tedbire konu malların dava dışı kişiler yönünden kullanıldığı, 3. kişiler yönünden yapılacak araştırmanın yargılama gerektirdiği, bütün bu hususlar bir arada değerlendirildiğinde, mahkemece verilen itirazın kabulü kararına yönelik istinaf talepleri yerinde olmadığından davacı vekilinin istinaf talebinin reddi gerekmiş, davacının ileri sürdüğü iddia ve defilerin 6361 Sayılı Kanunun 9/3. maddesi gereğince asansör ve diğer ekipmanları kullananlar açısından sonuç doğurup doğurmayacağının ancak yapılacak yargılama sonucunda belirleneceğinden tedbir talebinin kabulüne karar verilmesinde istinaf sebepleri yönünden usul ve yasaya aykırı bir yön bulunmadığı, 6100 Sayılı HMK 355. maddesine göre istinaf sebepleri ile sınırlı olarak yapılan inceleme sonucu anlaşılmakla, davacının istinaf başvurusunun 6100 Sayılı HMK'nın 353/1-b/1. maddesi gereğince esastan reddine karar vermek
 gerekmiştir.
 
 ## İzmir BAM 6. HD 2021/2140 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/690809700)
 
 Somut olayda; Davacıya ait iş makinesinin davalıya ait çatı montajında çalıştırılmak üzere operatörü ile birlikte tahsis edildiği, operatörün davacı çalışanı olduğu, davalının gösterdiği işleri belli kurallar çerçevesinde yapması amaçlandığı, eldeki davanın hizmet bedeline
 
@@ -34,33 +38,47 @@ ilişkin olduğu anlaşılmaktadır. Kira sözleşmeleri birşeyin kullanımın�
 
 ## İstanbul BAM 35. HD 2021/1760 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/670075500)
+
 Yasal dayanak:Türkiye Cumhuriyeti Anayasası 142. maddesi, Hukuk Muhakemeleri Kanunu'nun 1,2,4. maddeleri, 634 sayılı kanunun Ek 1.maddesi, Türk Borçlar Kanunu 299, 313, 314, 315. maddeleri, Yargılama konusu olayda:Davacıların, davacılardan şirketin ihtiyacı için davalıdan iki adet araç kiralandığı, buna ilişkin davalıya bono verilmediği, davalı aleyhine resmi evrakta sahtecilikten suç duyurunda bulunulduğundan bahisle İstanbul ... İcra Müdürlüğü'nün ... Esas sayılı icra dosyasından borçlu olmadığının tespiti ,takibin iptali ve %20 kötü niyet tazminatını talep ettiği, Davalının taraflar arasında kira sözleşmesi olduğu ve davacıya teslim edilen araçlardan birinin hasarlı olarak geri alınması üzerine davacının bono verdiğini belirterek davanın reddini savunduğu ve %20 icra inkar tazminatını talep ettiği, İstanbul ... İcra Müdürlüğü'nün ...
 Esas sayılı dosyasının celbedildiği, Davalı tarafından davacılar aleyhine 20/06/2018 keşide tarihli 7.500,00 TL bedelli bonodan kaynaklı takip yapıldığı, davacı şirketin keşideci,diğer davacıların kefil olarak senedi imzaladıklarının anlaşıldığı, ATK raporu alındığı ve imza incelemesi yapıldığı ve senetteki imzaların davacılardan ... ve ...'un eli ürünü olduğu ve inceleme konusu senedin imzalardan sonra oluşturulduğuna dair bir bulgu saptanamadığının tespit edildiği, Mahkemece, davanın kabulüne, istirdat talebinin kabulü ile 10.129,74 TL nın davalıdan tahsili ile davacılara ödenmesi yönünde hüküm kurulduğu, Taraflar arasında oto kiralama sözleşmesi bulunduğu, dava konusu uyuşmazlığın motorlu araç kira sözleşmesinden kaynıklandığı, HMK 4/a maddesi gereğince "kiralanan taşınmazların İcra İflas Kanununa göre ilamsız icra yoluyla tahliyesine ilişkin hükümler ayrık olmak üzere kira ilişkisinden doğan alacak davaları da dahil olmak üzere tüm uyuşmazlıkları konu olan davalar ile bu davalara karşı açılan davalar Sulh Hukuk Mahkemesinde" görüleceğinin düzenlendiği, görevli mahkemenin Sulh Hukuk Mahkemesi olduğu anlaşılmıştır.
 Dairemiz ilk derece mahkemesi kararını hem maddi olay, hem de hukuka uygunluk bakımından incelemeye tabi tutarak tespit edilen yargılama hatalarını bizzat düzeltmek amacıyla yapılan inceleme sonunda; duruşma yapılmasına gerek olmadığı, Davaya bakma görevi kararı veren mahkemeye ait olmadığı halde yargılamaya devam edilerek esasa ilişkin karar verilmiş olması sebebiyle, mahkeme kararının yerinde olmadığı, istinaf sebebi yerinde olduğundan HMK 353/1-a/3-6 maddesi gereğince istinaf başvurusunun göreve ilişkin olarak kabulüne karar vermek gerekmiştir.
 
 ## İstanbul BAM 13. HD 2021/1054 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/668221900)
+
 Ş elemanları tarafından üretim yerinde yüklenmiş olduğunu ve 12.02.2015 tarihli gönderici ile 1 numaralı davalı ... şirketinin arasında düzenlenen taşıma sözleşmesinin diğer şartlarında 2. maddede yer alan " malzemenin yükleme, boşaltma ve istifleme sorumluluğu tarafınıza aittir" ifadesi ile bu sorumluluğun tamamen gönderici firma olan ... A. S ye ait olduğunu, hatta ...
 GMBH tarafından hazırlanan 28.05.2015 tarihli ekspertiz raporunun sonuç bölümünde de açıkça belirtilmiş olduğu üzere, taşıma esnasında meydana gelmiş olan hasarın temelde uluslararası nakliyeye uygun olmayan ambalajlama nedeniyle gerçekleşmiş olduğu kanaati oluştuğunu beyan ettiklerini, Ayrıca raporun son bölümünde yer alan, ...Sanayi ve Ticaret Anonim Şirketinin 04.05.2015 tarihli KDV hariç 20.178,30 TL'lik faturasında yazılı olan, hasarla ilişkilendirilmiş bedellerin sadece KDV hariç 7.821,83 TL'lik bölümü hasarlandığı ifade edilen malzeme/ekipmanla ilişkili görünmekte olduğunu, bu ifadelere katıldıklarını, zira burada, davacı şirket, haksız olarak ilgili kaleme teknisyenlerin uçak bileti, konaklama, araç kiralama ve servis bedellerini kapsayan bedelleri de dahil etmiş olup, davaya dair kabul anlamına gelmemekle birlikte, bu bedellerin de davalı müvekkilinden tahsil edilmemesi gerekliliği burada açıkça ortaya konulmasına rağmen yerel mahkemece karar verilirken bu husus göz önüne alınmadan karar verildiğini, İleri sürerek istinaf başvurusunun kabulü ile, ilk derece mahkemesi kararının istinaf incelemesi sonucunda kaldırılmasına karar verilmesini talep etmiştir.
 
 ## Ankara BAM 13. HD 2021/852 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/667872400)
+
 Ankara 3.Tüketici Mahkemesince ise; davalının aracın işleteni olduğu, araç kiralama işiyle uğraştığı, mesleki ve ticari faaliyet kapsamında sigorta ilişkisine konu aracı davacı ... şirketine sigorta ettirdiği anlaşılmıştır. Dolayısıyla taraflar arasındaki uyuşmazlık, bir tüketici uyuşmazlığı olmayıp, 6502 sayılı Yasa kapsamı dışında kalan uyuşmazlıkta 6102 sayılı TTK hükümleri uyarınca ticaret mahkemesinin görevli olduğu anlaşıldığından, Ankara Asliye Ticaret Mahkemesinin davaya bakması gerektiği gerekçesiyle görevsizlik kararı verilmiştir.
 
 ## Ankara BAM 21. HD 2021/861 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/666124000)
 
 Yukarıda açıklanan kanun hükümleri karşısında somut olaya gelindiğinde, davalı tacirdir. Davacının tüketici sıfatına sahip olup olmadığı, sigortalı aracın ticari niteliği bulunup bulunmadığı saptanarak görevli mahkemenin tespit edilmesi gerekir. Bir başka anlatımla davacının tüketici olması ve aracın hususi kullanımda olan otomobil olması halinde uyuşmazlığın çözüm yeri tüketici mahkemesi iken davacının tüketici sıfatına sahip olmaması, aracın ticari araç olması halinde uyuşmazlığın çözüm yeri ticaret mahkemesi olacaktır. Davaya dayanak yapılan kasko sigorta poliçesinde aracın kullanım şekli hususi otomobil (kiralık araç) olarak belirtilmiştir. Kasko sigorta poliçesi ile davacı vekilinin istinaf dilekçesinde yer alan ibarelerden davacının tüketici olmadığı, sigortalı aracın kiralık araç olduğu anlaşılmıştır.
 
 ## Ankara BAM 13. HD 2021/753 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/663462100)
+
 Ankara 13.Tüketici Mahkemesince; sigorta poliçesinde aracın kullanım şeklinin "kısa süreli kiralama" olarak belirtildiğinden sigortalı aracın araç kiralama işinde kullanıldığından davacının tüketici sıfatı bulunmadığından mutlak ticari davada asliye ticaret mahkemesinin görevli olduğu gerekçesiyle görevsizlik kararı verilmiştir.
 
 ## İstanbul BAM 8. HD 2021/916 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/661400200)
 
 Şti. ile araç sürücüsü... ihbar edilmesini talep ettiklerini, 22.07.2015 tarihinde davacı ... ile müvekkili şirket arasında imzalanan protokol ile davacı sigorta şirketinin müvekkilinin işleten sıfatının bulunmadığını kabul ettiğini, söz konusu protokolün taraflar arasında düzenlenecek genişletilmiş kasko, ihtiyari- zorunlu mali sorumlulk, ferdi kaza ve excess mali sorumluluk sigorta poliçelerinin tanzimi ile tarafların hak ve yükümlülüklerine ilişkin olduğunu belirterek, davanın husumet, olmazsa esastan reddini, en az %20 kötü niyet tazminatına hükmedilmesine karar verilmesini talep etmiştir.Dava İhbar olunan ... vekili cevap dilekçesinde özetle; davanın müvekkili bakımından reddini ve davanın ... T.C Kimlik Numaralı ... ihbarını talep ettiklerini, müvekkilinin ekte sunulu 22.06.2016 tarihli araç kiralama sözleşmesiyle ... plakalı aracını ...
 7 Gün süreyle kiralanmış olduğunu, müvekkilinin araç kiralama sözleşmesini KTK ile diğer kanun ve Yönetmeliklere uygun şekilde ehliyet sahibi ... ile yapmış olduğunu, ancak ... söz konusu kiralık aracı ehliyet sahibi olmayan ... yasalara ve Kiralama Sözleşmesine aykırı şekilde kullandırmak suretiyle kazanın oluşumuna ve işbu davaların ikame edilmesine sebebiyet verdiğini, müvekkilinin ... ile hiçbir hukuki bağının bulunmadığını, meydana gelen kazadan ve maddi neticelerinden ... müştereken ve müteselsilen sorumlu olduklarını, müvekkilinin huzurdaki davada sorumluluğunu gerektiren bir illiyet bağının bulunmadığını belirterek, davanın kiralayan ... ihbarını ve davanın reddine karar verilmesini talep etmiştir. Dava İhbar olunan ... San. Ve Tic. Ltd.
 
 ## Ankara BAM 27. HD 2021/516 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/658339000)
 
 27/10/2016 tarihli ve hükme esas alındığı anlaşılan ikinci bilirkişi raporunda davalı yüklenici iş ortaklığı ile dava dışı iş sahibi idare arasında iş bu davanın tarafları arasında imzalanan sözleşmenin feshedildiği 16/10/2009 tarihinden daha sonraki bir tarihe tekabül eder şekilde 31/10/2009 tarihinde 8 nolu hakedişin imzalandığı, 8 nolu hakediş kapsamında yer alan yeşil defter içeriğine göre dolgu imalatı metrajının 74.859,878 m3 olduğu, yine yeşil defterden de anlaşıldığına göre söz konusu dolgu imalatının 7 nolu hakedişten geldiği ki bu durumun söz konusu dolgu ve dolayısıyla işin davacı alt yüklenici tarafından yapıldığını gösterdiğini, taraflar arasında düzenlenen sözleşme eki birim fiyat analizi ve iş kapsamında yer alan K-04-Ö pozunun açıklamasında DT22 giriş bölgesinin kazılması çıkan malzemenin dolguda kullanılmasının öngörüldüğü, K-04- Ö pozuna konu imalat metrajının 13.394,786 m3 olup, söz konusu imalatın davacı ile davalı arasında düzenlenen 2 ve 3 nolu hakedişlerde yer aldığı, bu durumda davacı alt yüklenici tarafından gerçekleştirilen toplam dolgu imalatının toplam dolgu miktarından K-04-Ö pozu miktarının ve dolgu içindeki menfez yapıları toplam miktarının minhası
 neticesinde belirlenebileceği, buna göre (74.859,878 -13.394,686- 704,175) 60.761,017 m3 olduğu, davacının gerçekleştirdiği temel kazısı ve kazı yapılması, nakli, dolguya serilmesi imalatı konusunda ise ihtilafın
@@ -70,10 +88,14 @@ belirlenmiştir.
 
 ## Ankara BAM 26. HD 2021/990 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/661466400)
+
 2918 Sayılı KTK’nın 110. Maddesi gereğince davaya bakma görevinin adli yargı mahkemelerine ait olması, davaya konu trafik kazasına karışan aracın davalı ... A.Ş tarafından uzun süreli araç kiralama sözleşmesi ile dava dışı ... Tur. Nakl….Ltd. Şti. den kiralanması nedeniyle KTK’nın 3. maddesi uyarınca araç işleteni sıfatı ile zarardan davalı ... A.Ş. sorumlu bulunduğu gibi aracı ... ile aralarında imzalanan Hizmet Alımı sözleşmesi kapsamında kullanması, kazanın bu sözleşme gereği yapılan iş sırasında meydana gelmesi nedeniyle de tazminattan sorumlu olması, davalı belediyenin 5216 Sayılı Yasa’nın 7. Maddesi gereğince yol yapım işinin görevleri arasında bulunması, kamu hizmetinin yürütülmesinde gerekli önlemleri almak ve denetim yapmakla yükümlü olması, kamu hizmetinin hizmet alımı suretiyle yerine getirilmesinin bu anlamda belediyeyi sorumluluktan kurtarmaması, davalı ... ile ...
 A.Ş. arasında düzenlenen hizmet alımı sözleşmesindeki sorumluluk yada sorumsuzluğa ilişkin hükümlerin sözleşmenin tarafları arasındaki iç ilişkide geçerli olması, bu hususun zarar gören 3. kişi konumunda bulunan davacıya karşı ileri sürülememesi ve sözleşme hükümlerinin davacıyı bağlayıcı bulunmaması, davalı ... ve ... A.Ş.nin davacıya karşı zarardan müştereken ve müteselsilen sorumlu olması nedeniyle davalılara husumet yöneltilmesinde bir usulsüzlük bulunmamaktadır.
 
 ## Konya BAM 3. HD 2021/589 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/727804700)
 
 Taraflar arasında düzenlenen 12/04/2017 tarihli genişletilmiş kasko poliçesinin diğer hususlar ve özel şartlar bölümünde "operasyonel kiralamalarda ve rent-a-car filolarında kirayalanın aracı çalması teminat dışıdır " ibaresinin bulunduğu davacının dosyaya sunduğu araç kiralama sözleşmesinde 7 tane aracın kiralandığı mahkemece 7 tane araç kiralamanın operasyonel kiralama ve ya rent-a-car filolar kiralaması olup olmadığı araştırılmamıştır. Mahkemece dava dışı şirket ve davacının defterleri de incelenerek kiralamanın operasyonel kiralama ve ya rent-a-car filolar kiralaması olup olmadığı araştırılmalı bu türden bir kiralama olmadığı sonucuna varılırsa kasko poliçe sözleşmesinde yer alan aracın kiralayan
 
@@ -81,10 +103,14 @@ tarafından çalınması halinde %25 tenzili muafiyet uygulanması gerekip gerek
 
 ## İstanbul BAM 40. HD 2021/630 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/661023300)
+
 Anılan Kanunun 85'inci maddesinde ise, "Bir motorlu aracın işletilmesi bir kimsenin ölümüne veya yaralanmasına yahut bir şeyin zarara uğramasına sebep olursa, motorlu aracın bir teşebbüsün ünvanı veya işletme adı altında veya bu teşebbüs tarafından kesilen bilet ile işletilmesi halinde, motorlu aracın işleteni ve bağlı olduğu teşebbüsün sahibi, doğan zarardan müştereken ve müteselsilen sorumlu olurlar." hükmüne yer verilmiştir. Bu yasal düzenleme karşısında, kazaya karışan araçların meydana getirdikleri zararlardan araç sahiplerinin hukuken sorumlu olacağı ilkesi benimsenmiş ise de, araç malikleri tarafından herhangi bir sebeple yararlanılması için bir başka kimseye devir edilmesi halinde (kısa bir süre için kiralanmaması kaydıyla) artık üzerindeki fiili hakimiyeti kalmaması ve bu sebeple ekonomik yönden de bir yararlanma olanağının kalktığı durumlarda, o araca kaza sırasında fiili hakimiyeti altında bulunduran ve ondan iktisaden yararlanan kimsenin işleten sıfatıyla meydana gelen zarardan sorumlu tutulması gerekir. Bunun sonucu olarak da, araç maliki sorumlu tutulmamalıdır.
 Gerek öğretide, gerekse Yargıtay'ın uygulamalarında, kiracının işleten sıfatının belirlenmesinde, kira sözleşmesinin uzun süreli olması, araç üzerinde fiili hakimiyet ve ekonomik yararlanma unsurlarının birlikte bulunması gerekmektedir. Somut olayda, cevap dilekçesinde ... plakalı otobüsü uzun süreli araç kiralama sözleşmesiyle ... Limited Şirketine 29 aylığına kiraladığını bildirerek, ekinde 27/3/2012 günü adı geçen davalı ile dava dışı ... Limited Şirketi arasında akdedilen "Araç Kiralama Sözleşmesi" ile "Araç Teslim Tesellüm Belgesi" sunan davalı ... Limited Şirketi vekili; 26/4/2016 günü verdiği dilekçe ekinde de tahsil edilen araç kiralama bedelleri karşılığı davalı ... Limited Şirketi tarafından düzenlendiğini beyan ettiği, 18/4/2012 tarihinden, 4/8/2014 tarihine kadar geçen sürede birbirini izleyen aylarda çeşitli tarihlerde düzenlenmiş 29 adet faturanın tıpkı çekimini teslim etmiştir.
 
 ## İstanbul BAM 44. HD 2021/447 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/650232500)
 
 Konuya ilişkin olarak davalı aleyhine dolandırıcılık suçundan yürütülen gerek soruşturma gerekse kovuşturma sırasında dinlenen tanıklar ... ortak ve uyumlu beyanlarında, söz konusu aracın davacıya satıldığını, 40.000,00 TL bedelli çeklerin satış bedeli olarak davalıya verildiğini belirtmişlerdir. Ceza Mahkemesi kararı ile anılan Yargıtay kararlarında da, olayın gelişimi bu şekilde kabul edilmiştir.Davalı taraf ise, aracın davacıya kiralandığını savunmuştur. Böylelikle ispat yükünü üzerine almıştır. Ancak taraflar arasındaki sözleşmenin araç kiralama sözleşmesi olduğuna ilişkin davalı tarafın beyanları dışında dosyaya sunulan herhangi bir bilgi, belge ve delil bulunmamaktadır.
 Bu sebeple, sözleşmenin araç kiralama sözleşmesi olduğu hususu davalı tarafça ispat edilememiş olup, İlk Derece Mahkemesince; taraflar arasında araç satış sözleşmesi yapıldığı, her biri 20.000,00 TL bedelli 2 adet çekin satış bedeli olarak davacı tarafça davalıya verildiği ancak satışın gerçekleşmediği, tahsil edilen çek bedellerinin iadesinin gerektiği yönündeki değerlendirmede bir isabetsizlik bulunmadığı, açıklanan sebeplerle davalı vekilinin istinaf sebeplerinin yerinde olmadığı anlaşılmıştır.Tarafların karşılıklı iddia ve savunmalarına, dayandıkları belgelere, hukuki ilişkinin nitelendirilmesine, dosyadaki tespitlere ve
@@ -93,10 +119,14 @@ uyuşmazlığa uygulanması gereken hukuk kurallarına göre, 6100 Sayılı HMK'
 
 ## İstanbul BAM 8. HD 2021/605 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/649109400)
+
 Davaya konu ... plakalı otomobilin davalı sigorta tarafından "genişletilmiş kasko" poliçesi ile 28.04.2016-28.04.2017 dönemi için sigortalı olduğu, aracın ... adına düzenlenen sahte kimlik ile gerçekte dava dışı ... isimli şahıs tarafından kiralandığı, davacıya ait kiralanan aracın davacı şirkete teslim edilmemesi ile davacının zarara uğratıldığı ve dava dışı ... hakkında dolandırıcılık, kişisel verileri hukuka aykırı olarak verme veya ele geçirme ve özel belgede sahtecilik suçlarından ötürü Tavşanlı Ağır Ceza Mahkemesince 2017/55 esas 2019/19 karar sayılı ilamı ile hüküm verildiği, buna göre esasen ... adında kişi kendi adına değil sahte kimlik belgeleri ile ... adına hareketle dolandırıcılık suretiyle davaya konu aracın anahtarlarını davacı şirketten teslim aldığı, davalıya sigortalı aracın zayi olduğu tarih itibariyle rayiç bedelinin bilirkişilerce 34.000,00 TL olarak tespit edildiği, hususlarında yanlar arasında bir niza bulunmadığı gibi esasen bu hususlar dosya kapsamından ve ceza yargılamasından da anlaşılmaktadır.
 Taraflar arasında ki uyuşmazlık ise, somut durumun yanlar arasında ki kasko sigorta poliçesi kapsamında teminat altında olup olmadığı ve dolayısıyla davalının aracın değerini tazminle sorumlu tutulup tutulamayacağı hususudur. Düzenlenmiş olan poliçede, araç kullanım amacı özel şartı başlıklı kullanım tarzı klozunda "operasyonel kiralamalarda ve rent-a-car filolarında kiralayanın aracı çalması teminat dışındadır" denilmek suretiyle aracın kiralayan kişi tarafından çalınması hali teminat dışı bırakılmıştır.Davalı sigortacıda bu düzenlemeye dayanarak uğranılan zararı karşılamaktan kaçınmaktadır. Davacı vekili ise sigortalı aracının dolandırılmak suretiyle zarara uğradığı gözetilerek zararın tazmin edilmesi gerektiğini ileri sürmüştür. Dosyada mevcut olan ve davalı sigorta şirketince gönderilen poliçede davacı imzası bulunmamaktadır. Ne var ki davacı şirket; fiilen araç kiralama işiyle iştigal etmekte olup, poliçenin kendisine gönderilmediğini, bu nedenle de poliçeyi görmediğini veya kendisine gönderilen poliçenin az yukarıda yazılı söz konusu özel şartı içermediğini ileri sürmediği gibi bu hususta iddia ve ispatı da bulunmamaktadır.
 
 ## İstanbul BAM 49. HD 2021/604 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/652945300)
 
 Şti. ile davalılar arasında imzalanan "Araç - Makine Kiralama Altyüklenici Sözleşmesi"nden kaynaklandığı, tarafların tutunduğu kira sözleşmesinin geçerli olup olmadığı, kira sözleşmesi geçerli ve mer'i ise tarafların hak ve borçları, kira hukuku ilke ve kuralları çerçevesinde yapılacak yargılama neticesinde netlik kazanacağı, HMK madde 4/1-a gereğince Sulh Hukuk Mahkemesinin görevli olduğu, Araç - Makine Kiralama Altyüklenici Sözleşmesi"nin 10. maddesinde yetki şartına yer verildiği, tarafların doğabilecek uyuşmazlıkların çözümü için Ankara Mahkemelerini yetkili kıldıkları" gerekçesi ile davanın görevli olmadığından dava şartı yokluğu sebebiyle davanın usulden reddine, davaya bakmaya Ankara Sulh Hukuk Mahkemelerinin görevli yetkili olduğuna karar verdiği, Dava dilekçesi ekindeki Kadıköy .... Noterliği'nin 18/11/2017 tarih ... yevmiye
 
@@ -104,9 +134,13 @@ nolu alacağın devri başlıklı belgeden dava dışı ...Şti'nin Beykoz İcra
 
 ## İzmir BAM 20. HD 2021/269 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/649692700)
+
 Tarafların araç kiralama bedeli yönünden yaptıkları istinaf itirazlarının incelenmesinde, alınan bilirkişi kök ve ek raporlarının denetime açık ve elverişli ve dosya kapsamı ile uyumlu olduğu nazara alındığında, mahkemece rapor esas alınarak değer kaybı yönünden kurulan hükmün doğru olduğu anlaşılmış, ayrıca bu talebin sigorta poliçesi kapsamında kalmaması sebebiyle sigorta şirketi yönünden reddine karar verilmiş olması da usul ve yasaya uygun olup tarafların bu yöndeki istinaf itirazları yerinde görülmemiştir.
 
 ## Ankara BAM 26. HD 2021/547 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/656102100)
 
 Olay tarihinde, gündüz vakti, ...'ın araç kiralama şirketinden kiraladığı ve sürücüsü olduğu araç ile seyir halinde iken olay mahalline geldiğinde, aynı yönde sağ bankette yürümekte olan davacıların yakını olan yaya ...'ye çarpması neticesinde ölümlü trafik kazasının meydana geldiği, kaza neticesinde davacı ...'nın eşini, davacılar ... ... ve ...'ın babalarını, davacılar ... ve ...'nin ise oğullarını kaybettikleri, Adli Tıp Kurumu Trafik İhtisas Dairesinden alınan 24/03/2017 tarih ve .... sayılı rapora göre ise kazanın meydana gelmesinde davalı sürücü ...'ın yönetimindeki vasıta ile seyri sırasında yola gereken dikkatini vermediği, araçların seyrine tahsis edilen yolda seyrini sürdürmeye önem ve özen göstermediği, mevcut hızı ile mahale yaklaşarak, idaresindeki vasıtayı seyir şeridi içerisinde tutma becerisi gösteremediği ve, yolun sağında bulunan bankete girerek bankette yürüyüşünü araçla aynı yönde sürdüren ...'ye çarpmış olması nedeniyle meydana gelen kazada asli ve %100 kusurlu olduğu, vefat eden ...'nin ise yolun sağındaki bankette aracın seyir yönüne doğru yürüyüşünü sürdürdüğü sırada, seyir şeridinden çıkıp yürüyüşünü sürdürdüğü bankete giren davalı sürücü ...'ın
 yönetimindeki vasıtanın çarpmasına maruz kalarak karıştığı olayda hatalı tutum ve davranışı bulunmadığından kusurunun bulunmadığı belirtilmesi üzerine, aktüer bilirkişiden destek tazminatının hesabı yönünden alınan 12/05/2017 tarihli raporda, davacı ...'nın 250.958,11 TL, ... ...'in 49.749,59 TL, ...'nin 44.449,64 TL destekten yoksun kalma tazminatının hesap ediliği anlaşılmaktadır. Aktüer bilirkişi raporu sonrasında, davacılar ile davalı ... şirketi anlaşmış, ... şirketinin davacılar ..., ... ... ve ...'ın destek zararlarına karşılık 250.000,00 TL asıl alacak, 400,00 TL yargılama gideri, 20.950,00 TL Mahkeme vekalet ücreti, 11.150,00 TL icra vekalet ücreti olmak üzere
@@ -115,10 +149,14 @@ yönetimindeki vasıtanın çarpmasına maruz kalarak karıştığı olayda hata
 
 ## İstanbul BAM 8. HD 2021/468 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/640279700)
+
 Şirketi ile aralarında düzenlenen ve 1 yıl süreli olduğu anlaşılan 15/07/2011 günlü araç kira sözleşmesinin kaza tarihini kapsamaması, söz konusu bu sözleşmenin daha sonra taraflarca uzatıldığına dair de 3.kişileri bağlar nitelikte herhangi bir bilgi ve belge sunulamamış olması , ayrıca sözleşmeye konu araçların sadece niteliklerinin belirtilmiş olması nedeniyle söz konusu aracın dayanak kira sözleşmesi uyarınca fiilen hangi tarihte Hedef şirketine teslim edildiğine dair de bir belirlemeye rastlanılmaması, keza yine davalı ... tarafından ibraz edilen ve davalı sürücü ... ile aralarında ... plaka sayılı araca ilişkin olarak düzenlendiği anlaşılan kiralama sözleşmesinin de her zaman düzenlenebilir nitelikte bir belge olmasına göre davalı ... şirketinin kazaya neden olan aracın uzun süreli kiralama sözleşmesi uyarınca ve davacı 3.kişileri bağlar nitelikte kiralandığını ve dolayısı ile işleten sıfatının kalmadığını kanıtlayabildiğinden söz edilemez.
 Davalı ... şirketi ile davanın ihbar edildiği şirketler arasındaki var olduğu ileri sürülen ilişkiler ve sözleşmeler ise tarafların kendi iç ilişkilerini ilgilendiren bir durum olup 3.kişi davacıları ilgilendiren , bağlayıcı bir durum değildir. Hal böyle olunca mahkemece davalı araç maliki ...Şirketinin sorumluluğu yoluna gidilmesinde herhangi bir isabetsizlik tespit edilemediğinden, adı geçen davalı vekilinin bu yöne ilişen istinaf isteğinin reddi gerekmiştir. 2-Davalı ... Sigorta A,Ş vekilinin istinaf itirazları değerlendirildiğinde, ... Sigorta A.Ş nezdinde düzenlenen Genişletilmiş Kasko Sigorta Poliçesi Özel Şartlarına göre; İMM sigortası kapsamında maddi ve manevi tazminat ayrımı yapılmaksızın poliçe limitinin azami olarak 100.000,00-TL olarak belirlendiği ve manevi tazminatlara ilişkin talepler bakımından da bu kombine limitin (100.000,00-TL) %25 'i kadar yani 25.000,00-TL teminat limiti sunulduğu anlaşılmaktadır . Mahkemenin gerekçeli kararında da bu husus net bir biçimde belirtilmiş ve manevi tazminat bakımından davalı ... Sigortanın sorumluluğun 25.000,00-TL ile sınırlı bulunduğu açıklanmıştır.
 
 ## İstanbul BAM 8. HD 2021/445 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/639914000)
 
 Tüm dosya kapsamının birlikte değerlendirilmesi neticesinde; davacı tarafça, meydana gelen trafik kazası sonucu aracında oluşan değer kaybı ve araç kira bedelinin davalılardan tahsilinin talep edildiği; davalı ... tarafından, değer kaybı zararının karşılandığı ve sorumluluklarının sona erdiğinden bahisle davanın reddinin talep edildiği; diğer davalılar tarafından, davaya cevap verilemeyerek dava dilekçesindeki vakıaların inkar edildiği
 
@@ -126,16 +164,22 @@ anlaşılmıştır. Davacının araç kira bedeli istemine ilişkin olarak; dava
 
 ## İstanbul BAM 9. HD 2021/443 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/643062800)
+
 Taraflar arasında düzenlenen poliçenin "Kullanım şekli klozu" başlıklı bölümünde "aracın kullanım şekli "hususi otomobil " olarak beyan edilmiş sigortalı araç, hiçbir şekilde kiralık araç,uzun süreli kiralık araç veya taksi/dolmuş olarak veya bunların dışında kalan taşımacılıklarda kullanılamaz.Sigortalı aracın kısa veya uzun süreli araç kiralama hizmetlerinde kullanılıyor olduğunun tespit edilmesi veya sigorta ettiren/sigortalı/ruhsat sahibinin bu işlerle iştigal ettiğinin tespiti veya aracın / dolmuş ya da korsan taksi olarak tabir edilen taşımacılıkta kullanılmasının tespit edilmesi durumunda Kasko Sigorta genel şartlarının c.2 ve c.3 maddelerinde yer alan hükümlerin uygulanması hakkı saklı kalmak üzere, her hasarın %80 i sigortalının kendisi tarafından karşılanmak üzere tazminat bedelinden indirilir" düzenlemesi yer almaktadır. Poliçede aracın kullanım tarzının otomobil olduğu belirtilmiştir. Davaya konu kazanın 06/12/2014 tarihinde sigorta poliçesinin yürürlükte olduğu dönemde meydana geldiği görülmektedir.
 Kasko Sigortası Genel Şartlarında, özel aracın sigortacının bilgisi dışında ticari (kiralık) olarak kullanılması teminat dışı bir hal olarak düzenlenmemiş ise de taraflar arasında düzenlenen poliçenin kullanım şekli klozunda açıkça sigorta ettiren/sigortalı/ruhsat sahibinin bu işlerle iştigal ettiğinin tespiti halinde Kasko Sigorta genel şartlarının c.2 ve c.3 maddelerinde yer alan hükümlerin uygulanması hakkı saklı kalmak üzere, her hasarın %80'i sigortalının kendisi tarafından karşılanmak üzere tazminat bedelinden indirilir hükmünün uygulanması gerekmektedir. Dosya kapsamında alınan davacı şirketin ticari sicil kayıtlarına göre iştigal konuları arasında araç kiralama işinin bulunduğu ve poliçe özel şartları gereğince davalı tarafından bu şart uygulanarak ödeme yapıldığı görülmekle davacı davalıdan hiç bir hak ve alacak talep edemeyecektir. Mahkemece bu doğrultuda davanın reddine karar verilmesi gerekirken kabulüne karar verilmesi doğru olmamıştır. Bu nedenle;…
 
 ## Bursa BAM 5. HD 2021/158 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/729473800)
 
 Davalı istinaf talebi yönünden; taraflar arasında operatörüyle birlikte vinç kiralanmasına yönelik sözleşmeye dayalı ticari ilişki bulunduğu ve sözleşme bedelleri hususunda çekişme yoktur. Taraflar arasındaki sözleşme araç kiralama sözleşmesi kapsamında yapılmışsa da vinç operatörü ile birlikte kiralandığından gerçekte bir hizmet alım sözleşmesidir. (Yargıtay 7.H.D. 2014/18024-2015/9619 E.K.) Davalı yan icra takibinin dayanağı olan 2016 yılı Ocak, Şubat, Mart aylarına yönelik kira bedelinden sorumlu tutulamayacağını, davaya konu
 
 kiralık ekipmanların.......... yapım işinde kullanıldığını, santrale yapılan saldırı nedeniyle anılan dönemde iş yapamadığını, mücbir sebep hali bulunduğunu iddia etmektedir. Dosya kapsamına göre davalının iş sahası uzun süredir güvenlik sorunlarının yaşandığı yer olup sözleşmenin yapıldığı sırada öngörülmeyen ve öngörülmesi beklenmeyen bir durumdan söz edilmesi mümkün değildir. Davalının basiretli tacir ilkesi gereği gerekli önlemlerin alınması gerekir. Ayrıca ifa imkansızlığı durumunda davalı tarafın sözleşmeyi feshetme hakkı bulunmakta iken bu yolu tercih etmeyerek güvenlik sorunları giderildikten sonra çalışmaya devam etmiştir. Yaşanılan sürecin davacıya bildirildiğine dair bir delilde mevcut değildir. Kiralık ekipmanlar yaşanılan süreçte davalının zilliyetliğindedir. Bu nedenle davalının takip konusu borçtan sorumlu olduğunun kabulü gerekir ve sözleşme bedelinden indirim yapılması da mümkün değildir.
 
 ## İstanbul BAM 8. HD 2021/200 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/628548500)
 
 Sigorta A.Ş'nin ise ZMMS sigortacısı olduğu ... plaka sayılı aracın davacıların desteğine çarpması sonucu meydana gelen kazada desteğin vefat ettiği, davacıların ise destekten yoksun kaldığı anlaşılmıştır. 1-Davalı ... Araç Kiralama A.Ş'nin kiralama şirketi olduğu ancak işleten sıfatının devam edip etmediğinin yargılama sırasında belirlendiği, bu durumda davanın husumet yokluğu nedeniyle reddine karar verilmesinde davacının kusuru bulunmadığı gözönünde tutulduğunda bu davalı lehine vekalet ücretine hükmedilmemesinde usul ve yasaya aykırılık bulunmadığı anlaşılmıştır. 2-Dosya içerisindeki bilgi ve belgelere, mahkeme kararının gerekçesinde dayanılan delillerin tartışılıp değerlendirilmesinde, özellikle oluşa uygun olarak düzenlenen uzman bilirkişi raporunda belirtilen kusur oranının ve maddi tazminata ilişkin hesaplamanın hükme esas alınmasında bir usulsüzlük bulunmamasına ve manevi tazminatın takdirinde T. B.K.nun 56. maddesindeki özel haller dikkate alınarak hak ve nesafet kuralları çerçevesinde hüküm kurulmuş olmasına göre, HMK.353/1-b/1 maddesi uyarınca bu yöne ilişkin diğer davalıların istinaf talepleri yerinde değildir. Yukarıdaki açıklamalar ışığında istinaf eden Davalı ...
 Mühendislik A.ş ile ... vekili ve davalı ... Araç Kiralama A.Ş vekillerinin istinaf taleplerinin HMK 353/1-b/1 maddesi uyarınca esastan reddi gerektiği sonuç ve kanaatine varılmıştır.

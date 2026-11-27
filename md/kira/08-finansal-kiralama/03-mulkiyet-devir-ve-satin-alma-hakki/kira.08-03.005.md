@@ -22,12 +22,16 @@ uyari: "Derleyenin seçtiği alıntılardır; kararın tamamı değildir. Künye
 
 ## İstanbul BAM 44. HD 2024/1938 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1095351800)
+
 A.Ş. ile davacı ....ŞTİ arasında 13.11.2015 tarihli ... tescil numaralı ... sözleşme numaralı Finansal Kiralama Sözleşmesinin akdedilmiş olduğu, Sözleşmenin müteselsil kefil sıfatıyla diğer davacılar ...,..., ... tarafından 1.220.000 USD tutarına kadar kefil olarak imzalamış olduğu görülmüştür.Finansal Kiralama Sözleşmesinde ve Teminat olarak alınan ipoteklere
 
 ait resmi senet belgelerinde temerrüt tutarı Döviz İşlemlerde 25%, TL işlemlerde 40% olarak belirlenmiştir. 6361 sayılı Kanunun Sözleşmenin ihlali başlıklı MADDE 31 – (1) Kiralayan, finansal kiralama bedelini ödemede temerrüde düşen kiracıya verdiği otuz günlük süre içinde de bu bedelin ödenmemesi hâlinde, sözleşmeyi feshedebilir. Ancak, sözleşmede, süre sonunda mülkiyetin kiracıya geçeceği kararlaştırılmış ise, bu süre altmış günden az olamaz. Bir yıl içinde sözleşmede yer alan kira bedellerinden üçünü veya üst üste ikisini zamanında ödememesi nedeniyle ihtara muhatap olan kiracılarla yapılan sözleşmeler kiralayan tarafından feshedilebilir. ''MADDE 32 –" (1) Sözleşme sona erdiğinde, sözleşmeden doğan satın alma hakkını kullanmayan veya bu hakkı bulunmayan kiracı finansal kiralama konusu malı derhâl geri vermekle mükelleftir. MADDE 33 – (1) Sözleşmenin kiralayan tarafından feshi ile 30 uncu maddenin ikinci fıkrası uyarınca kiracı tarafından feshi hâllerinde, kiracı malı iade ile yükümlüdür.
 İade edilen malın üçüncü kişilere satılması hâlinde sözleşmede aksi bir değer kararlaştırılmadıkça satış bedelinin, vadesi gelmemiş finansal kiralama bedelleri ile varsa kiralayanın bunu aşan zararı toplamından düşük olması durumunda aradaki fark kiracı tarafından kiralayana ödenir. Sözleşmede aksi bir değer kararlaştırılmadıkça iade edilen malın satış bedelinin, vadesi gelmemiş finansal kiralama bedelleri ile varsa kiralayanın bunu aşan zararı toplamından yüksek olması durumunda aradaki fark kiralayan tarafından kiracıya ödenir." Düzenlemesi yer almaktadır. Mahkemece bilirkişi incelemesi yaptırılmıştır. 19/03/2021 tarihli bilirkişi heyet raporunda özetle; 26.06.2019 tarihi itibari ile ...'a ait hesaplanan borç tutarı;…
 
 ## İstanbul BAM 44. HD 2024/1970 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1093021600)
 
 Gerekçe ve Sonuç:HMK'nın 355. Maddesi gereği, kamu düzenine aykırılık teşkil eden hususlar hariç tutularak, istinaf neden ve gerekçeleri ile sınırlı olmak üzere yapılan incelemede;Dava finansal kiralama sözleşmesinin feshi nedeniyle finansal kiralama konusu malın iadesi istemine ilişkindir.6361 finansal kiralama kanununun 31.maddesi hükmüne göre " Kiralayan, finansal kiralama bedelini ödemede temerrüte düşen kiracıya verdiği otuz günlük süre içinde de bu bedelin ödenmemesi hâlinde, sözleşmeyi feshedebilir. Ancak, sözleşmede, süre sonunda mülkiyetin kiracıya geçeceği kararlaştırılmış ise, bu süre altmış günden az olamaz. Bir yıl içinde sözleşmede yer alan kira bedellerinden üçünü veya üst üste ikisini zamanında ödememesi nedeniyle ihtara muhatap olan kiracılarla yapılan sözleşmeler kiralayan tarafından feshedilebilir." Aynı kanunun 23/1 maddesi uyarınca " Finansal kiralama konusu malın mülkiyeti kiralayana aittir." Sözleşmenin kiralayan tarafından feshi durumunda kiracı malı iade ile yükümlüdür (6361m.33).
 Taraflar arasında, İş makinesi ve ekipmanının kiralanmasına ilişkin olarak, 15.01.2018 tarihinde ... numaralı finansal kiralama sözleşmesi imzalanmıştır.Sözleşme konusu malların davalıya teslim edildiği uyuşmazlık konusu değildir. Davacı vekili fesih ihbarnamesinin tebliğ edilmediği , malın satışının yapıldığını istinaf sebebi yapmıştır.Dosyada mevcut Beşiktaş .... Noterliğinin 04.12.2020 tarih ve ...yevmiye numaralı ihtarname ile; vadesi gelmiş tüm borçların ödenmesi, tebliğinden itibaren 60 gün içinde borçların yasal sürede ödenmediği takdirde sözleşmesinin fesih olacağı ve bu sebeple fesihden itibaren 3 günlük süre içinde sözleşmeye konu malların teslim edilmesi ihtar edilmiş, ihtarnamenin 09.12.2020 tarihinde şirket adresinde çalışana tebliğ edildiği görülmektedir. Söz konusu ihtarnamenin usulüne uygun tebliğ edildiği davalı tarafından verilen süre içinde temerrüt konusu borcun ödenmediği, fesih tarihinden itibaren kiralama konusu malların iadesinin sağlanmadığı, 6361 Sayılı Kanununun 23. Maddesi uyarınca mülkiyeti davacıya ait kiralama konusu malların aynı
@@ -38,10 +42,14 @@ olmadığı anlaşılmıştır.Davalı vekilinin istinaf başvurusunun 6100 Say�
 
 ## İstanbul BAM 44. HD 2024/1910 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1089602900)
+
 İlk derece mahkemesince yapılan yargılama sonunda; "...taraflar arasında yapılmış Finansal Kiralama Sözleşmesi gereği, davacının finansal kiralama bedelini ödediği, bu kapsamda makinaların mülkiyetine hak kazandığı; davalı tarafça ileri sürülen bono alacağının taraflar arasındaki finansal kiralama sözleşmesinden kaynaklanmadığından bu yöndeki alacağın mülkiyet devrini engelleyemeyeceği anlaşıldığından davaya ve taraflar arasındaki finansal kiralama sözleşmesine konu makinaların davacıya ait olduğunun tespitine karar vermek gerekmiş; davacının tescil istemi ise, idari nitelikte bir işlem olması nedeniyle yerinde görülmemiştir.
 Davacı taraf, makinaların devrinin süresinde yapılmaması nedeniyle maddi tazminat isteminde bulunmuş ise de; tarafların da kabulünde olduğu üzere, dava konusu makinaların zilyetliğinin davacıda olduğu, makinaların kullanılmasının engellenmediği, dolayısı ile makinaların kullanılamamasıyla ilgili bir zarardan bahsedilemeyeceği; makinaların davacı tarafça 3.kişilere satılamaması ve davacı tarafın başka borçlarının ödenememesi nedeniyle zarara uğranıldığı yönündeki iddialarının ise davalının sorumluluğu sonucunu doğurmayacağı anlaşıldığından bu yöndeki istemin reddine karar vermek gerekmiştir.
 
 ## İstanbul BAM 44. HD 2024/1562 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1069356000)
 
 AŞ nin iş merkezinde bulunduğu, el konularak alındığı, Finansal Kiralamaya konu olan ve Finansal Kiralama Sözleşmesi ile davaya konu malın tescilinin, kiralayanın ikametgahındaki notere yaptırılmış olması nedeniyle; (üçüncü şahıs olmakla) Davacı ... AŞ nin; kiralanan mal üzerindeki ayni hak iktisabını kiralayan Finansal Kiralama şirketine karşı ileri süremeyeceği Davacı ... AŞ nin Finansal Kiralamaya ve davaya konu mal üzerindeki mülkiyet hakkı idiasını ve iyi niyetini ispatlayamadığı, dolayısıyla davaya konu malın mülkiyetinin (asıl dosyada davacı/ birleşen dosyada davalı) olan ... Kiralama AŞ olduğunun söylenebileceği belirtilmiştir. Davacı dava dilekçesi ile davaya konu malın (....) .... AŞ
 
@@ -49,13 +57,19 @@ tarafından satıcısı dava dışı .... Şti nden 21.07.2015 tarihi itibariyle
 
 ## İzmir BAM 20. HD 2024/953 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1057566900)
+
 Talep tarihinde yürürlükte bulunan 6361 sayılı Finansal Kiralama Faktoring ve Finansman Şirketleri Kanunu’nun 9/2. maddesine göre; “ Faktoring Şirketi Kurulca belirlenen usul ve esaslar çerçevesinde kambiyo senetlerine dayalı olsa bile bir mal veya hizmet satışından doğmuş fatura ile tevsik edilemeyen alacaklar ile Kurulca belirlenen usul ve esaslar çerçevesinde tevsik edilemeyen mal veya hizmet satışına bağlı doğacak alacakları devir alamaz veya tahsilini üstlenemez. Aynı faturaya dayalı birden çok faktoring şirketine yapılan kısmi temliklerin toplam tutarı fatura tutarını aşamaz.”…
 
 ## Antalya BAM 11. HD 2024/928 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1044838400)
+
 6361 sayılı Finansal Kiralama, Faktoring ve Finansman Şirketleri Kanunu’nun 9/2. maddesine göre, faktoring şirketi Kurulca belirlenen usul ve esaslar çerçevesinde kambiyo senetlerine dayalı olsa bile, bir mal veya hizmet satışından doğmuş fatura ile tevsik edilemeyen alacaklar ile kurulca belirlenen usul ve esaslar çerçevesinde tevsik edilemeyen mal veya hizmet satışına bağlı doğacak alacakları devir alamaz veya tahsilini üstlenemez. Aynı faturaya dayalı birden çok faktoring şirketine yapılan kısmi temliklerin toplam tutarı fatura tutarını aşamaz.
 
 ## İstanbul BAM 44. HD 2024/916 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1027786400)
 
 Finansal kiralama konusu malın mülkiyeti kiralayana aittir.Finansal kiralama sözleşmesinin kiralayan tarafından feshi durumunda kiracı malı iade ile yükümlüdür. (6361m.23,33). Finanasal kiralama konusu malların mülkiyeti kiralayana ait olduğundan kural olarak konkordato durumunda olsa dahi finansal kiralama konusu malların iadesi istenebilir. 6361 finansal kiralama kanununun 31.maddesi hükmüne göre " Kiralayan, finansal kiralama bedelini ödemede temerrüde düşen kiracıya verdiği otuz günlük süre içinde de bu bedelin ödenmemesi hâlinde, sözleşmeyi feshedebilir. Ancak, sözleşmede, süre sonunda mülkiyetin kiracıya geçeceği kararlaştırılmış ise, bu süre altmış günden az olamaz. Bir yıl içinde sözleşmede yer alan kira bedellerinden üçünü veya üst üste ikisini zamanında ödememesi
 
@@ -64,11 +78,15 @@ nedeniyle ihtara muhatap olan kiracılarla yapılan sözleşmeler kiralayan tara
 
 ## İstanbul BAM 44. HD 2024/646 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1018532600)
+
 ŞASİ SERİ NOLU,00279084 MOTOR SERİ NOLU, KANAL KAZICI VE YÜKLEYİCİ" cinsindeki aracın mülkiyetinin davalı kiracı adına geçtiğinin tespiti ile ilgili aracın davalı adına Trafik Tesciline kaydına, yargılama giderleri ve ücreti vekaletin davalıya yükletilmesine karar verilmesini talep ve dava etmiştir.Usulüne uygun davetiye tebliğ edilmesine rağmen davalı tarafın duruşmalara iştirak etmediği ve cevap dilekçesi sunmadığı anlaşılmıştır.İlk derece mahkemesince yapılan yargılama sonunda;
 "...Açıklanan nedenler, Emsal Yargıtay kararları uyarınca 22/03/2019 tarihli bilirkişi raporuna itibar edilmemiş, davacının davalıyı seçimlik hakkını kiralamaya konu malın mülkiyetini devir olmaya yönelik dava yoluyla zorlaması mümkün olmadığından davanın dava şartı yokluğundan usulden reddine" karar verilmiştir.Davacı vekili istinaf dilekçesinde özetle; -Kiracının, sözleşme ile kararlaştırılan finansal kiralama bedellerinin tamamını ödediğini, ihtar çekilerek sözleşmeden doğan satın alma hakkının kullanılması, ekipmanın satın alınmasına karar verilmemesi halinde, ekipmanın müvekkili şirkete iadesini, aksi halde, müvekkili şirket tek taraflı olarak kiralanan ekipmanların muhataba devri ile ilgili her türlü işlemi ilgili sicil dairelerinde yapacağını ihtar ettiğini, Erzurum Ticaret ve Sanayi Odası'nın 30.11.2017 tarihli yazısı ile, re'sen tescil taleplerinin reddedildiğini, müvekkili şirket defter ve kayıtları üzerinde yapılan dosyada mübrez bilirkişi raporu ile, müvekkili şirketin, davalı ... kiracının dava tarihi itibariyle alacağı olmadığının, finansal kiralama borcunun kalmadığının tespit edildiğini, sözleşmenin "delil sözleşmesi" başlıklı 83.
 Maddesi incelendiğinde, taraflar arasında çıkabilecek uyuşmazlıklarda, müvekkili şirket defter ve kayıtlarının esas alınacağının hükme bağlandığını, bilirkişi raporunda da,'Davacı şirketin muavin kayıtlarına göre, davalı şirketin Finansal kiralama borcunun tamamı dava tarihi itibariyle ödenip kapatılmış olduğu görülmektedir.
 
 ## İstanbul BAM 37. HD 2024/1193 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1012581000)
 
 K A R A R Dava, 6361 Sayılı Finansal Kiralama, Faktöring Ve Finansman Şirketleri Kanunundan Kaynaklanan (Alacak) ilişkindir. İstanbul 12.Asliye Ticaret Mahkemesince,"... uyuşmazlığın çözümünde 6361 sayılı Finansal Kiralama, Faktoring, Finansman ve Tasarruf Finansman Şirketleri Kanunu’na uygun bir devrin bulunup bulunmadığının tespiti gerektiğinden dava dosyasının 6, 7, 8 ve 9. Asliye Ticaret Mahkemelerinden birine tevzi edilmek üzere İstanbul Hukuk Mahkemeleri Tevzi Bürosuna iadesine ..."kararı verilmiştir. İstanbul 7.Asliye Ticaret Mahkemesi ise,"...Davacı ile davalı arasında herhangi bir finansal kiralama sözleşmesi olmadığı gibi, davacı tarafça davalı finansal kiralama şirketinin dava konusu taşınmazı edinimine ilişkin herhangi bir usulsüzlükten bahsedilmemiştir. Davacı tarafça dava dışı ... şirketinin taşınmazı edinmesine ilişkin iddialarda bulunulmuş olup ...
 A.O'nun davalı gösterilmesinin sebebi olarak taşınmazın güncel maliki olması gösterilmiştir.Finansal Kiralama, Faktoring, Finansman ve Tasarruf Finansman Şirketleri Kanunun'dan kaynaklanmadığı, bu haliyle uyuşmazlığın HSK kararında belirtilen davalardan olmadığı anlaşıldığından davanın genel yetkili İstanbul 12.Asliye Ticaret Mahkemesinde görülüp sonuçlandırılması gerekmektedir. ..." gerekçesiyle görevsizlik yönünde karar vermiştir.Hakimler ve Savcılar Kurulu Başkanlığının 25.11.2021 tarihli, 1232 sayılı kararıyla; 13.01.2011 tarihli ve 6102 sayılı Türk Ticaret Kanunu'nun 4. Maddesinin birinci fıkrasının (f) bendinden,( TTK madde 4/-f: Bankalara, diğer kredi kuruluşlarına, finansal kurumlara ve ödünç para verme işlerine ilişkin düzenlemeler)22.11.2001 tarihli ve 4721 sayılı Türk Medeni Kanunu'nun, rehin karşılığında ödünç verme işi ile uğraşanlar hakkındaki 962 ile 969. Maddelerinden,19.10.2005 tarihli ve 5411 sayılı Bankacılık Kanunundan, (142.
@@ -77,16 +95,22 @@ Somut olayda, dava konusu uyuşmazlık, davacının eski ortağı olduğu dava d
 
 ## Konya BAM 6. HD 2024/476 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1018280800)
+
 Somut olayda, sözleşme konusu cihazın davacıya devrinin, Leasing taksitlerinin tamamı bittikten sonra ve davacının, davalı .... Sağ. Hizm. A.Ş.'ye vereceği 9 adet çekin tamamı ödenip bittikten sonra gerçekleşecektir, şeklinde belirlendiği, mahkemece alınan bilirkişi raporlarında yapılan inceleme sonucu, dava tarihi itibariyle davacının sözleşme kapsamında ödemelerini yerine getirdiği yine dava dışı ..... Kiralama A.Ş. ile davalı ......Sağ. Hizm. A.Ş. arasında dava konusu MR cihazına yönelik olarak yapılan 22.05.2013 tarihli Kiralama Sözlemesi kapsamında belirtilen ödemelerin, dava tarihinden önce 26.03.2016 - 25.01.2018
 
 tarihleri arasında yapıldığının anlaşıldığı, bu durumda taraflar arasında imzalanan 10.03.2016 tarihli sözleşmenin 3.4.4. maddesinde belirlenen şartların gerçekleştiği, yukarıda belirtilen yargıtay kararında da ifade edildiği üzere, dava tarihi itibariyle dava konusu cihazın mülkiyetinin davacı tarafça kazanılmış olduğu, bu nedenle davacı vekilinin istinaf başvurusunun kabulüne, ilk derece mahkemesi kararının kaldırılmasına, ancak mahkemece yapılan yanlışlık yeniden yargılamayı gerektirmediğinden HMK 353/1/b.2 maddesi gereğince, dava konusu MR cihazının davacıya ait olduğunun tespitine dair, yeniden hüküm kurularak karar verilmesi gerektiği sonuç ve kanaatiyle aşağıdaki şekilde hüküm kurulmuştur.
 
 ## İstanbul BAM 44. HD 2024/293 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1003843500)
+
 Bir yıl içinde sözleşmede yer alan kira bedellerinden üçünü veya üst üste ikisini zamanında ödememesi nedeniyle ihtara muhatap olan kiracılarla yapılan sözleşmeler kiralayan tarafından feshedilebilir."Aynı Kanunun 33/1 maddesine göre "Sözleşmenin kiralayan tarafından feshi ile 30 uncu maddenin ikinci fıkrası uyarınca kiracı tarafından feshi hâllerinde, kiracı malı iade ile yükümlüdür."Taraflar arasında finansal kira sözleşmesinin 18.maddesinde kiracının kira süresinin sona erdiği tarihte kiralananı satın alma hakkına sahip olması için bu sözleşme nedeniyle kiralayana karşı kiralama bedeli, sigorta primi, faiz, tazminat, masraf, gider ve her ne isim altında olursa olsun hiçbir borcunun bulunmaması ve iş bu sözleşmeden doğan tüm borç ve taahhütlerin eksiksiz bir biçimde tamamen yerine getirmiş olması gerektiği düzenlenen ihtarnamede sigorta borcu için açıkça bir talebin yer almadığı anlaşılmıştır.
 Davalı hakkında 18/02/2019 tarihinde 2 aylık geçici mühlet verildiği, 19/04/2019 tarihinde başlamak üzere 1 yıl süre ile kesin mühlet kararı verildiği anlaşılıyorsa da; davalı tarafça konkordato talebinde bulunulan mahkemeden, İİK 307/3.maddesine göre,finansal kiralama konusu malların iadesinin ertelenmesi konusunda talepte bulunulduğu veya mahkemece konkordato tasdik kararında bu hususta karar verildiğine dair mahkeme kararı, belge sunulmadığı, salt konkordato talep edilmesinin finansal kiralamaya konu malların iadesinin ertelenmesini gerektirmediği, bu nedenle taraflar arasında imzalanan sözleşmeye konu ve ... sayılı ödeme planına göre kira bedelinin 08/10/2018 vadeli olduğu ve 3 aylık süre içerisinde ödenmediği, bu itibarla ... sayılı ödeme planına konu 1 adet ... plakalı, 2014 model, ... şasi nolu, ... marka, ... Tip, Cam Taşıma Dorsesi'nin mülkiyetinin davacı tarafa ait olduğu anlaşılmakla, davacının konkordato sürecinde olduğuna yönelik istinaf sebebi yerinde görülmemiştir.
 
 ## İstanbul BAM 44. HD 2024/172 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/998371900)
 
 Davalı finansal kiralama bedelini ödediğine veya borcun olmadığına ilişkin MK’nun 6. ve 6100 sayılı HMK’nun 200.maddesi ve izleyen maddeleri hükümleri uyarınca yasal delillerini dosyaya ibraz etmemiştir. Finansal Kiralama konusu mallar, 6361 Sayılı Yasanın 9. maddesi gereğince, kiralayan şirketin mülkiyetindedir. Anılan Yasanın 23. maddesi hükmü gereğince de, kiracı, sözleşme süresinde finansal kiralama konusu malın zilyedi olup; malı sözleşmede öngörülen şart ve hükümlere göre özenle kullanmak zorundadır. 6831 Sayılı Yasanın 27. maddesine göre sözleşme süresinin dolması ve sözleşmenin diğer sebeplerle sona ermesi ve 26. maddesi hükmüne göre de; sözleşmenin ihlali hallerinde aynı yasanın 29. maddesi gereğince kiracı finansal kiralama konusu mal yahut malları kiralayana
 
@@ -94,11 +118,15 @@ derhal geri vermekte yükümlüdür. Beyoğlu .... Noterliğinin 04/12/2018 tari
 
 ## İstanbul BAM 44. HD 2024/179 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/998189000)
+
 Taşınmaz satış vaadi sözleşmeleri de resmi senet şeklinde düzenlenerek, noter huzurunda iki tarafça imzalanmadıkça geçerli hale gelmez. somut durumda; davacı ve davalı taraf arasında imzalanan sözleşmenin 2.maddesi ve devamı maddeleri ve FFFK 3/I-ç maddesi hükümleri birlikte değerlendiğinde davalı ve davacı taraf arasında g.menkul satışı sözleşmesi söz konusu değildir. Sözleşme içeriğinde de yer aldığı üzere taşınmazın maliki, dava dışı satıcı olan ... Yapı....A.Ş' dir. Söz konusu sözleşme ile davacı ve dava dışı satıcı arasında gerçekleştirilecek taşınmaz satış işleminin finansmanının davalı tarafça sağlandığı, davacı tarafın iddia ettiği üzere g.menkul satışına ilişkin bir sözleşme olmadığı, ortada g.menkul satış vaadi sözleşmesi de bulunmadığı anlaşılmaktadır. Dolayısıyla, MK 705 ve 706.maddeleri ile TBK 29.madde de yer alan geçerlilik şartlarının burada uygulanması olanaklı olmadığı gibi sözleşmenin butlanı da söz konusu değildir.
 Her ne kadar davacı tarafça finansal kiralama sözleşmesi sayılsa bile sözleşmenin tapuya tescil edilmemesi nedeniyle geçerli olmayacağı yönünde itirazlarda bulunulmuş ise de FFFK 22/1 maddesinde sözleşmenin adi şekilde yapılması ön görülmekte olup, aynı madde de yer alan sözleşmeye konu malın tescil veya şerh edilmesi işlemi kurucu değil, açıklayıcı nitelikte bir işlem olduğundan, davacının itirazları yerinde görülmemiştir. Davacı tarafça davalı yana ödemiş olduğu 5.000,00-TL' nin iadesi için takip başlatılmıştır, dava dilekçesinde davacı tarafça sözleşmenin geçersiz olduğu ve davalının sebepsiz zenginleştiği iddia edilmiş ise de, mevcut sözleşme geçerli olduğundan, davalının sebepsiz zenginleşmesinden söz edilemeyecektir. Bu durumda taraflar arasında imzalanmış olan sözleşmede yer alan hükümlere bakılması gerekecektir.
 Sözleşmenin 13.maddesi 2.fıkrasında "Arı Leasing' in haklı nedene istinaden sözleşmeyi tek taraflı feshi halinde müşterinin fesih tarihine kadar ödemiş olduğu kira bedellerinin sözleşme bedelinin maktuen %10' luk kısmına tekabül eden tutarı, ...' in müşterinin sözleşmeyi ifa edeceğine duyduğu güvenden kaynaklanan hak ve zararlarının karşılığında cezai şart olarak ...
 
 ## Bursa BAM 5. HD 2023/2242 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1155267800)
 
 6361 sayılı Kanunun tarafların hak ve borçlarının düzenlendiği 24. maddesinde "(1) Kiracı, sözleşme süresince finansal kiralama konusu malın zilyedi olup, sözleşmenin amacına uygun olarak her türlü faydayı elde etme hakkına sahiptir. (2) Kiracı, finansal kiralama konusu malı sözleşmede öngörülen şart ve hükümlere göre itinayla kullanmak zorundadır. (3) Sözleşmede aksine hüküm yok ise kiracı, malın her türlü bakımından ve korunmasından sorumlu olup, bakım ve onarım masrafları kiracıya aittir." düzenlemesi; Kanunun zilyedliğin ve kiracılık sıfatının devri başlıklı 26. maddesinde ise "(1) Kiracı, kiracılık sıfatını veya sözleşmeden doğan hak veya yükümlülüklerini, kiralayandan yazılı izin almak kaydıyla devredebilir. Bu devir nedeniyle finansal kiralama sözleşmesinde yapılan kiracı değişikliği, ilgisine göre 21 inci veya 22 nci madde çerçevesinde tescil edilir veya şerh
 
@@ -106,17 +134,25 @@ olunur. (2) Konut finansmanı kapsamında yapılan finansal kiralama işlemlerin
 
 ## Ankara BAM 22. HD 2023/1770 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/978265700)
+
 Finansal Kiralama konusu mal, 6361 Sayılı Yasanın 23/1. maddesi gereğince kiralayan şirketin mülkiyetindedir. Anılan Yasanın 24. maddesi hükmü gereğince de, kiracı, sözleşme süresinde finansal kiralama konusu malın zilyedi olup; malı sözleşmede öngörülen şart ve hükümlere göre özenle kullanmak zorundadır. 6361 sayılı Yasanın 30/1. maddesine göre sözleşme süresinin dolması, 30/2. maddesine göre sözleşmenin diğer sebeplerle sona ermesi ve 31. maddesi hükmüne göre de sözleşmenin ihlali hallerinde, aynı yasanın 33. maddesi gereğince kiracı finansal kiralama konusu mal yahut malları, kiralayana derhal geri vermekle yükümlüdür.
 
 ## Sakarya BAM 7. HD 2023/2142 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/975232300)
 
 Yasanın 3/ç maddesinde; "Finansal Kiralama: Bir finansal kiralama sözleşmesine dayalı olmak koşuluyla, bu kanun veya ilgili mevzuatı uyarınca yetkilendirilen kiralayan tarafından finansman sağlamaya yönelik olarak bir malın mülkiyetinin kira süresi sonunda kiracıya devredilmesi; kiracıya kira süresi sonunda malın rayiç bedelinden düşük bir bedelle satın alma hakkı tanınması; kiralama süresinin malın ekonomik ömrünün yüzde sekseninden daha büyük bir bölümünü kapsaması veya finansal kiralama sözleşmesine göre yapılacak kira ödemelerinin bugünkü değerlerinin toplamının malın rayiç bedelinin yüzde doksanından daha büyük bir değeri oluşturması hallerinden herhangi birini sağlayan kiralama işlemini, ifade eder"…
 
 ## Sakarya BAM 7. HD 2023/2153 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/975118000)
+
 Diğer yönden, 13.12.2012 tarih ve 28496 sayılı Resmi Gazete’de yayımlanan 6361 sayılı Kanun ile Finansal Kiralama, Faktoring ve Finansman Şirketlerine İlişkin Kanunun 18. maddesinde, Finansal kiralama sözleşmesi, kiralayanın, kiracının talebi ve seçimi üzerine üçüncü bir kişiden veya bizzat kiracıdan satın aldığı veya başka suretle temin ettiği veya daha önce mülkiyetine geçirmiş bulunduğu bir malın zilyetliğini, her türlü faydayı sağlamak üzere kira bedeli karşılığında, kiracıya bırakmasını öngören sözleşme olarak tanımlanmıştır. Anılan madde hükmü ile,kiralamaya konu olan malın bizzat kiracıdan temin edilmesi imkanı getirilmiştir. Böylelikle uluslararası uygulamada yaygın bir finansman yöntemi olan “sat ve geri kirala”(sale and lease back) işleminin yapılabilmesine olanak sağlanmıştır.
 
 ## İstanbul BAM 44. HD 2023/1229 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/953252700)
 
 Gerekçe ve Sonuç: HMK'nın 355. Maddesi gereği, kamu düzenine aykırılık teşkil eden hususlar hariç tutularak, istinaf neden ve gerekçeleri ile sınırlı olmak üzere yapılan incelemede;Dava finansal kiralama sözleşmesinin feshi nedeniyle finansal kiralama konusu
 
@@ -128,14 +164,20 @@ Sonuç olarak , dosya kapsamında iddia ve savunmaya, saptanan dava niteliğine 
 
 ## Ankara BAM 21. HD 2023/1502 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/949978600)
+
 Yukarıda açıklandığı üzere işbu dava, pay devir sözleşmesinin iptali talebi ile açılmış olup, dava dışı ... A.Ş. adına, finansal kiralama sözleşmesi şerhi ile birlikte kayıtlı bulunan taşınmaza yönelik herhangi bir uyuşmazlık ileri sürülmediği bu nedenle taşınmaz uyuşmazlık konusu olmadığı gibi, anılan malik davanın tarafı değildir.
 
 ## İstanbul BAM 44. HD 2023/1105 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/945526100)
 
 HMK’nın 390/3. maddesine göre, ihtiyati tedbir kararının verilmesi için tam bir ispat aranmaz, talebin yeterliliği hususunda mahkemeye kanaat verecek delilerin varlığı yeterlidir. 6361 finansal kiralama kanununun 31.maddesi hükmüne göre " Kiralayan, finansal kiralama bedelini ödemede temerrüde düşen kiracıya verdiği otuz günlük süre içinde de bu bedelin ödenmemesi hâlinde, sözleşmeyi feshedebilir. Ancak, sözleşmede, süre sonunda mülkiyetin kiracıya geçeceği kararlaştırılmış ise, bu süre altmış günden az olamaz. Bir yıl içinde sözleşmede yer alan kira bedellerinden üçünü veya üst üste ikisini zamanında ödememesi nedeniyle ihtara muhatap olan kiracılarla yapılan sözleşmeler kiralayan tarafından feshedilebilir." Aynı kanunun 23/1 maddesi uyarınca " Finansal kiralama konusu malın mülkiyeti kiralayana aittir." Sözleşmenin kiralayan tarafından feshi durumunda kiracı malı iade ile yükümlüdür. (6361m.33)Somut olayda; taraflar arasında finansal kiralama sözleşmesi düzenlendiği, davacı tarafından davalıya keşide edilen Beyoğlu ...
 Noterliği'nin 14/03/2023 tarihli, ..., ... ve ... yevmiye numaralı ihtarnameleri ile ödenmeyen kira borçlarının 60 gün içinde ödenmesi, aksi takdirde sözleşmesinin feshedilebileceğinin ihtar edildiği anlaşılmıştır. İlk derece mahkemesince ihtiyati tedbir talebinin kabulüne karar verilmiştir. 28/02/2018 tarihinde kabul edilen 7101 Sayılı Kanun ile İcra İflas Kanunu'nda konkordatoya ilişkin hükümlerde çeşitli değişiklikler yapılmış olup İİK'nun 7101 Sayılı yasa ile değişik 288/1 maddesi uyarınca geçici mühlet, kesin mühletin sonuçlarını doğurur. Yine İİK'nun 7101 Sayılı Yasa ile değişik 296.maddesinde kesin mühletin sözleşmeler bakımından sonuçları düzenlenmiş olup maddenin 1.fıkrası uyarınca sözleşmenin, karşı tarafın konkordato projesinden etkilenip etkilenmediğine bakılmaksızın borçlunun taraf olduğu ve işletmesinin faaliyetinin devamı için önem arzeden sözleşmelerde yer alıp da borçlunun konkordato talebinde bulunmasının sözleşmeye aykırılık teşkil edeceğine, haklı fesih sebebi sayılacağına, yahut borcu muaccel hale getireceğine ilişkin hükümler, borçlunun konkordato yoluna başvurması durumunda uygulanmaz.
 
 ## İstanbul BAM 44. HD 2023/1071 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/945114700)
 
 Noterliği’nde 05.04.2013 tarihinde ... yevmiye numaralı ... sözleşme numaralı Finansal Kiralama Sözleşmesi akdedildiği anlaşılmıştır.Finansal Kiralama konusu mal, 6361 Sayılı Yasanın 23/1. maddesi gereğince kiralayan şirketin mülkiyetindedir. Anılan Yasanın 24. maddesi hükmü gereğince de, kiracı, sözleşme süresinde finansal kiralama konusu malın zilyedi olup; malı sözleşmede öngörülen şart ve hükümlere göre özenle kullanmak zorundadır. 6361 sayılı Yasanın 30/1. maddesine göre sözleşme süresinin dolması, 30/2. maddesine göre sözleşmenin diğer sebeplerle sona ermesi ve 31. maddesi hükmüne göre de sözleşmenin ihlali hallerinde, aynı yasanın 33. maddesi gereğince kiracı finansal kiralama
 

@@ -22,6 +22,8 @@ uyari: "Derleyenin seçtiği alıntılardır; kararın tamamı değildir. Künye
 
 ## Yargıtay 3. HD 2025/4997 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1187870600)
+
 Aile konutunun eşlerden biri tarafından kiralanması halinde, kiracı olmayan eşin 4721 sayılı kanun’un 194. Maddesi uyarınca sonradan kiraya verene yapacağı bildirim ile sözleşmenin tarafı haline gelmiş olmasının, kiracı eş tarafından bu bildirim öncesinde verilen yazılı tahliye tahhütnamesinin geçerliliğine bir etkisinin bulunmadığına..
 
 ## İstanbul BAM 36. HD 2026/377 K.

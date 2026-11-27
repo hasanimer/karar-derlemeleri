@@ -21,6 +21,8 @@ uyari: "Derleyenin seçtiği alıntılardır; kararın tamamı değildir. Künye
 
 ## Yargıtay HGK 2021/1707 K
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/746178000)
+
 Ödeme emri kanuna uygun değilse, özellikle ödeme emrinde ödeme (ihtar) süresi yanlış (noksan) gösterilmişse, ödeme emrinde ödeme (ihtar) süresi yazılı değilse veya ödeme emrinde tahliye ihtarı yok (tebliğ edilen ödeme emri 13 örnek nolu ödeme emri değil) ise icra mahkemesi tahliye talebinin reddine karar verir.
 
 ## Yargıtay 3. HD 2018/11915 K.

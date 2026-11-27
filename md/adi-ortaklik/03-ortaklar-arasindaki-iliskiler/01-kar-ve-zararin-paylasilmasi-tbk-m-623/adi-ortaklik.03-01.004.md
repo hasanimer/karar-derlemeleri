@@ -22,6 +22,8 @@ uyari: "Derleyenin seçtiği alıntılardır; kararın tamamı değildir. Künye
 
 ## İstanbul BAM 3. HD 2023/1836 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/907220600)
+
 Dava, adi ortaklığın fesih/tasfiyesi talebine ilişkindir.
 
 …
@@ -37,6 +39,8 @@ Neticeten; ortaklığın yapılan Kat Karşılığı İnşaat sözleşmesi sonuc
 
 ## İstanbul BAM 45. HD 2023/247 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/877160000)
+
 Sözleşmenin süre, yetki ve ceza şartı belirten 7. ve 10. maddeler ise şöyle düzenlenmiştir.''Madde 7: sözleşmenin süresi Bu sözleşmenin geçerlilik süresi insan tarihinden itibaren üç (3) yıldır. Bu süre sonunda eğer taraflardan herhangi birinin, sözleşme sona erme tarihinden 90 gün öncesine kadar noter kanalıyla bildirimde bulunmaması halinde, sözleşme üç (3) sene daha uzar.
 Bu sözleşme bu şekilde devamlılığını sürdürür.Bu sözleşmedeki hak ve borçlar, Otel'in mülkiyetinin değişmesi veya Otel yönetiminin değişmesi durumlarında yeni hak sahibine veya yeni yönetime herhangi bir işleme gerek olmaksızın devredilir ve devamlılığını sürdürür.Servis sağlayıcısı, Otel'in sözleşme hükümlerini uymaması durumunda veya Otel'in tesis ve hizmet kalitesi seviyesini düşürdüğü durumlarda , sözleşmeyi haklı olarak feshetme ve hizmet vermeyi kesme hakkına sahiptir.Madde 9: yetkili mahkeme ve deliller İşbu sözleşmeden doğabilecek anlaşmazlıkların çözümünde İstanbul merkez mahkemeleri ve icra daireleri yetkilidir.Madde 10: cezai şart Otel, iş bu sözleşmeyi haklı bir nedene dayanmaksızın feshetmesi durumunda veya sözleşmedeki borçlarına aykırılık halinden dolayı servis sağlayıcısı tarafından sözleşmenin feshedilmesine sebep olması durumunda, hizmetler karşılığı borçlarına ilave olarak, servis sağlayıcısına senelik otel başı 6000 (altıbin) EURO cezai şart ödemekle yükümlüdür'' hükümleri yer almaktadır. 17.06.2015 tarihli mail ekinde davalı tarafça davacıya gönderilen sözleşmenin ise ...
 Rezervasyon Sistemleri Kullanım Sözleşmesi olduğu ve sözleşmenin 10. maddesinde Otelin, iş bu sözleşmeyi haklı bir nedene dayanmaksızın feshetmesi durumunda veya sözleşmedeki borçlarına aykırılık halinden dolayı servis sağlayıcısı tarafından sözleşmenin feshedilmesine sebep olması durumunda, hizmetler karşılığı borçlarına ilave olarak, servis sağlayıcısına senelik otel başı 3.000,00 (üçbin) EURO cezai şart ödemekle yükümlü olduğu belirtilmiştir.Davalı tarafça cevap dilekçesine ekli olarak sunulan adi ortaklık sözleşmesinin incelenmesinde, ortaklığın ... ve ...'dan oluştuğu, iş bu sözleşmenin ... caddesi No:...
@@ -49,10 +53,14 @@ TBK 637 maddesi uyarınca davalının alacaklı ve borçlu sıfatına haiz oldu�
 
 ## Ankara BAM 27. HD 2023/178 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/867273300)
+
 Noterliğinin 22 Ağustos 2014 tarih ... yevmiye numaralı ihtarnamesiyle ortaklığı temsil yetkisinin davalıda olduğu ve ivedilikle kooperatifin talep ettiği ruhsat alım işlemlerinin gerçekleştirilmesini, yönetici ortağın tekrar belirlenmesini talep ettiği, ancak yukarıda da belirtildiği gibi davalı ... şirketi tarafından sözleşmenin tek taraflı olarak feshedildiği, taraflar arasındaki feshin geçerli olup olmadığının incelenmesinde ise 28 Ekim 2013 tarih ... yevmiye numaralı iş ortalık sözleşmesinin incelenmesinin gerektiği, sözleşmenin 5. maddesindeki kar ve zarar taksimi kısmında tarafların kar ve zarara ortaklıklarının oranları dahilinde iştirak edecekleri, davalı kooperatife karşı sorumluluğun taraflarda olduğu, davalı ... şirketi tarafından davacıya gönderilen ihtarname ile ortaklar arasındaki sorumluluğun yerine getirilmesinin istenildiği, ancak davacı tarafça davalı şirkete veya ortaklık adına ödeme yapıldığına dair dosyaya yazılı bir delilin sunulmadığı, bu nedenle davalı ... şirketinin sözleşmeyi tek taraflı olarak feshetmekte haklı olduğu, davacı ile ... şirketi arasındaki sözleşmenin muvazaa nedeniyle feshine ilişkin talebin değerlendirilmesinde ise davacının muvazaayı
 ispat için tanıklarının dinlenildiği, ancak tanık beyanlarında feshedilen sözleşmenin muvazaa nedeniyle feshedildiğine dair bir beyanın bulunmadığı, ayrıca kooperatif yönünden sözleşmenin tek taraflı feshinin kooperatife bir yarar sağlamadığı, hatta inşaatın geç başlaması dolayısıyla zarara uğramış olabileceği ve ilk imzalanan sözleşmeyle ... A.Ş. ile kooperatif arasında imzalanan sözleşmenin birebir aynı olduğu, kooperatifin bu sözleşmeyi imzalamakta muvazaasına dair bir delilin ortaya konulamadığı, ...
 
 ## İstanbul BAM 3. HD 2022/3329 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/849831000)
 
 630/3 hükmüne göre yalnızca son 1 yıla ilişkin kazanç payı talep edilebilecek olup mahkeme tarafından tesis edilen kararda bu hususun dikkate alınmadığı, dosya kapsamında tanzim edilmiş olan tasfiye memurları heyet raporunda her bir ortağa düşen ortaklık payının ikiye bölünerek hesaplandığı, söz konusu raporda davalılardan ... adına ortaklık tasfiyesine ilişkin değerlendirme yapılmadığı, bu raporu dayanak alan mahkeme kararının , hukuka aykırı olduğu, Mahkeme tarafından ise adi ortaklığın tasfiyesine karar verilirken bu hususun göz ardı edilmiş ve ortaklık payı üçe bölünmemiş olduğu, bu noktada , müvekkili ... yönünden davanın usulden reddi gerekirken yine bu husus da göz ardı edilmiş ve pay ikiye bölünüp tüm davalılar yönünden dava kabul edilmiş olmasının hukuka aykırı olduğu ileri sürülerek kararın kaldırılması istenmiştir. HMK 355. maddesi yarınca ve ileri sürülen istinaf sebepleri ile sınırlı olarak yapılan inceleme sonucunda; dava , adi ortaklığın tespiti ile tasfiyesine, davacının kar payının davalılardan müştereken ve müteselsilen faiziyle tahsiline ilişkindir. Dosyadaki bilgi ve belgelere göre ;
 Dairemizce verilen kaldırma kararında; somut olayda taraflar arasında adi ortaklık sözleşmesi bulunduğu, davacının kar payı alacağını talep etmesi nedeniyle artık taraflar arasındaki ortaklık ilişkisinin sona erdiğinin kabulü gerektiği, fiilen sona eren adi ortaklıkta davacının talebinin adi ortaklığın fesih ve tasfiyesine ilişkin olduğu ve tasfiyenin mahkemece bizzat yapılması gerektiği, tasfiyenin 6098 sayılı Türk Borçlar Kanunu'nun 642 ve devamı maddelerinde düzenlenen sıra ve yöntem izlenmek suretiyle yapılması gerektiği hususları açıklanmıştır.Bu sebeplerle ,davalı tarafın bu yönlere ilişkin istinaf sebepleri yerinde görülmemiştir. Mahkemece seçilen tasfiye memurlarınca, davada iki tane adi ortak bulunduğu kabul edilerek hesaplama yapılmış ve buna göre hüküm kurulduğu anlaşılmaktadır.
@@ -62,10 +70,14 @@ Kaldırma kararımızdan önce alınan 08 Şubat 2018 tarihli raporda; ...-... i
 
 ## İstanbul BAM 3. HD 2022/2968 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/828421800)
+
 Adi ortaklığın tasfiyesinde yukarıda belirtilen bu aşamaların tamamen uygulanması mümkün olmayabilir. Mesela, adi ortaklığın borcu yoksa, üçüncü aşamada ortakların yaptığı giderler ile katılım payı (sermaye) geri verilmeli, artan kazanç veya zarar ortaklar arasında paylaştırılmalıdır. Yine ortaklık malvarlığı satılmış ise, ikinci aşamada sadece satılan malvarlığının değeri tasfiye memuru tarafından belirlenmelidir.
 Bu nedenle, tasfiye aşamalarının ortaklığın niteliğine uygun olarak hakim tarafından belirlenmesi ve bu doğrultuda tasfiyenin gerçekleştirilmesi gerekir."hususları vurgulanmıştır.Somut davada adi ortaklığa konu tüm dairelerin satıldığı,yapı maliyetlerinin delillerinin sunulmadığı,ortaklığın kar ve zarar miktarının tasfiye memurunca belirlenemediği,çünkü adi ortaklığın gelir ve giderlerine dair delillerin temin edilemediği,davacının adi ortaklıktaki satılan taşınmaz bedellerinden hissesi yerine adi ortaklığa katılım payını talep ettiği,son bilançonun veri eksikliği nedeniyle düzenlenemediği görülmekle,mahkemenin davacının ödediği katılım payından ödenmeyen tutarının davacıya verilmesine dair verilen karar usul ve hukuka uygun bulunmuştur.Bu konuda yeni bilirkişi incelemesi yapılmasına gerek olmadığı anlaşılmıştır.Bu itibarla, ilk derece mahkemesince verilen kararda mahkemenin vakıa ve hukuki değerlendirmesi bakımından usul ve esas yönünden yasaya aykırı bir durum bulunmamasına göre davalının istinaf başvurusunun HMK 353/1-b-1 maddesi uyarınca reddine karar verilmesi gerekmiştir.
 
 ## İstanbul BAM 19. HD 2022/2233 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/823097500)
 
 …
 
@@ -76,6 +88,8 @@ etmekle ispat ettiği..." gerekçeleriyle davanın reddine karar verildiği gör
 
 ## İstanbul BAM 3. HD 2022/1488 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/759440700)
+
 Dava; adi ortaklıkta, temsil yetkisine sahip ortağın, bu yetkisinin kaldırılması talebine ilişkindir.
 
 …
@@ -84,20 +98,28 @@ Yine davacı, davalının şahsi borçları nedeniyle ortaklık malları üzerin
 
 ## İstanbul BAM 3. HD 2022/643 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/734957200)
+
 Katılım payı olarak bir şeyin mülkiyetini koyan ortak, ortaklığın sona ermesi üzerine yapılacak tasfiye sonucunda, o şeyi olduğu gibi geri alamaz; ancak koyduğu katılım payına ne değer biçilmişse, o değeri isteyebilir. Bu değer belirlenmemişse, geri alma, o şeyin katılım payı olarak konduğu zamandaki değeri üzerinden yapılır.( TBK' nun 642. md.) Keza, aynı yasanın kazanç ve zarara katılma başlıklı 623. maddesine göre de; "Sözleşmede aksi kararlaştırılmamışsa, her ortağın kazanç ve zarardaki payı, katılım payının değerine ve niteliğine bakılmaksızın eşittir. Sözleşmede ortakların kazanç veya zarara katılım paylarından biri belirlenmişse bu belirleme, diğerindeki payı da ifade eder. Bir ortağın zarara katılmaksızın yalnız kazanca katılacağına ilişkin anlaşma, ancak katılma payı olarak yalnızca emeğini koymuş olan ortak için geçerlidir." hükmünü ihtiva etmektedir. Mahkemece yapılacak iş; ortaklık sözleşmesinde çağrı mektubu alınamaması durumunda ise yapılan masrafların ortaklık oranında paylaşılacağının kararlaştırıldığı da gözetilerek tasfiyeye ilişkin işlemlerin yapılmasıdır.
 Bütün bu açıklamalar ışığında, somut olaya bakıldığında mahkemece, taraflar arasındaki uyuşmazlığın adi ortaklığın tasfiyesine ilişkin bulunduğu kabul edilerek uyuşmazlığın yukarıda açıklanan ve maddeler halinde belirtilen sıra ve yöntem izlenerek çözümlenmesi gerekmektedir. Mahkemece; davacının davacının eldeki davayı açması aynı zamanda adi ortaklığın fesih ve tasfiyesi istemini de kapsadığı, davaya konu ortaklık amacının elde edilmesinin subjektif olarak imkansız hale geldiği, ortaklık ilişkisinin devamının artık mümkün olmadığı dikkate alınıp, adi ortaklığın haklı nedenle feshi ile birlikte tasfiyesine karar verilmesi; bu kapsamda masraflar harici yatırılan paranın tasfiye payı olarak ödenmesi gerektiği göz önünde bulundurularak, hasıl olacak sonuca göre bir karar verilmesi gerekirken; eksik inceleme ve yanılgılı değerlendirme ile yazılı şekilde hüküm tesisi doğru görülmemiştir.
 
 ## Ankara BAM 24. HD 2022/617 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/772200000)
+
 Maddi olay ile bağlı olan hakim, hukuksal nitelendirmeyi kendiliğinden (re'sen) yapmakla yükümlüdür (HMK.md 33). Davacının talep ettiği hususların adi ortaklığın fesih ve tasfiyesi ile kâr payı alacağı niteliğinde olduğu anlaşıldığından, uyuşmazlığın TBK'nın 620. vd. maddeleri gereğince adi ortaklık hükümlerine göre çözümlenmesi gerekmektedir.
 
 ## İstanbul BAM 3. HD 2022/171 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/722471700)
 
 Noterliği tarafından 09.01.2018 tarih ve ... yevmiye no ile düzenlenmiş Düzenleme Şeklinde Taşınmaz Satış Vaadi Ve Arsa Payı Karşılığı İnşaat Sözleşmesi'ni (sözleşmenin; ... A.Ş'nin kar payına ve hissesine düşen inşaat maliyet ve masraflarına istinaden devir ve tescil edilecek olan bağımsız bölümler haricinde) tüm koşul ve şartları aynen baki olmak üzere ve tüm yükümlülükleri ile birlikte ... ANONİM ŞİRKETİ'ne devir ediyoruz." şeklinde düzenleme olduğu, buradan da açıkça anlaşıldığı üzere söz konusu sözleşme feshedilmemiş olup yüklenici adi ortaklığın tüm hak ve yükümlülükleri davalı ... A.Ş.'ye devredildiği, buna karşılık da müvekkiline birtakım dairelerin anahtar teslimi yapılacağına ilişkin hüküm konulduğunu, zaten huzurdaki dava da işbu dairelerin anahtar tesliminin davalının kusurundan ötürü yapılmamasından kaynaklı mahrum kalınan kâr paylarının tahsili talebine ilişkin olduğu, İkinci yanılgının ise ;
 İlk derece mahkemesinin "Daha sonra tekrar bir araya gelerek gerek 04/06/2018 gerekse 01/03/2019 tarihli ek protokoller ile yeni sözlesmeler yapmıslardır...HGK'nun 06/05/192 tarih 1992-15-161-313 sayılı kararları dikkate alınarak tadilin de resmi resmi şekilde olması gerektigi, resmi sekilde yapılmayan protokollerin TBK'nun 237, TBK'nın 13, TMK'nun 706 maddeleri uyarınca geçersiz protokoller nedeniyle davacılar cezai şart istemeyeceğinden davanın reddine karar vermek gerekmiştir." şeklindeki değerlendirmesinin de tamamıyla hatalı olduğu, zira taraflar arasında 04.06.2018 tarihinde düzenlenen sözleşmenin hem kendi aralarında adî yazılı şekilde hem de dava dışı üçüncü şirketler de dahil edilerek resmî şekilde yapıldığını, ortada geçersiz bir sözleşme bulunmadığı, ilk derece mahkemesinin gerekçeli kararında belirtmiş olduğu hususların açıkça hatalı olduğu, bu sebeplerle kararın usul ve hukuka aykırı olduğu ileri sürülerek, kaldırılması istenmiştir.
 HMK.nun 355. maddesi uyarınca, ileri sürülen istinaf sebepleri ile sınırlı olarak yapılan inceleme sonucunda; dava, taraflar arasında kurulan ve daha sonra feshedilen adi ortaklık sebebiyle, davalı şirketin tasfiye kapsamındaki taahhütlerini ihlal ettiği gerekçesiyle tazminat talebine ilişkindir.
 
 ## Kayseri BAM 6. HD 2022/70 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/720121300)
 
 Noterliğinin ... numaralı ihtarnamesinde kalem kalem belirtildiği üzere ... vekâletnameye istinaden müvekkil ... adına ... seri numaralı faturayı imzalayarak vekâlet ilişkisini kötüye kullandığını ve 83.723,25 TL’yi kendi hesabına geçirdiğini ve bu sebeple azledildiğini, müvekkilce gönderilen bu masrafların müvekkile tekrar ödenmesi gerekirken, tam tersi şekilde müvekkilden tekrar alınmaya çalışılmasının hakkaniyete yaraşır bir yanı olmayıp bu hususa riayet edilmemesi adaletsizliğe mahal vereceğini, müvekkili ve davalı taraf arasında adi ortaklık sözleşmesi geçerli bir şekilde karşılıklı iradeleri doğrultusunda kurulduğunu, yerel mahkeme huzurunda dinlenen tanık anlatımlarından da anlaşılacağı üzere Müvekkil ... ile ...'in ortak olduklarını, yerel mahkeme taraflar arasındaki borç ilişkisi olduğunu lakin adi ortaklık olmadığı hususunda hüküm kurma yoluna gittiğini, fakat dava dosyası açıldığından bu yana bahsettikleri nokta taraflar arasındaki adi ortaklık ilişkisinde müvekkilin davalı/birleşen davada davacı ...'e bu ödemelerini daha sonra almak üzere borç olarak verdiği olduğunu, dolayısıyla borç olarak verilen meblağların finansmanı adi ortaklık şirketinin işlerinin yürüyebilmesi
 adına ... tarafından daha sonra geri iade alınmak üzere sağlanıldığını, adi ortaklık ilişkisinden müvekkilin tek kazancı yapılan ortak işlerden elde edilecek olan kar payından kendisine düşecek olan kısmı olacak iken davalı bunu da müvekkilden esirgeyerek anlaşmaya uymadığını, dilekçelerde belirtilen adi ortaklıktan kazanılan kar paylarına ilişkin hesaplama yapılması gerekirken yerel mahkemece bu husus üzerinde de durulmamış, bu konuda hiçbir sonuca varılmadığını, müvekkilin yaptığı ödemelerin ... ile olan adi ortaklığın ödemeleri olduğu ıspatlanmış olmasına rağmen yerel mahkemece yapılan ödemelere dayalı adi ortaklık ilişkisinin oluşmadığı kanaatine varıldığını, dosyada mevcut bilirkişi raporları ilim ve fenne aykırı olarak düzenlenmiş olup muğlak ifadelerden oluştuğunu, yerel mahkeme dosyasında yer alan raporlarda bilirkişi yüce mahkemeniz nezdinde belirlenmesi gereken taraflar arasındaki adi ortaklık ilişkisinin mevcudiyetinin belirlemesinde kendisi hakimmiş edasıyla değerlendirmeye almış bulunduğunu, yakın tarihli karar da bilirkişice hazırlanan hukukun temel kurallarından bir hayli uzak raporla hüküm kurulmaması gerektiği anlam ve sonucuna ulaşıldığını, ödeme belgeleri dikkate

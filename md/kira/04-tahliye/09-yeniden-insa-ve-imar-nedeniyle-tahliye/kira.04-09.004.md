@@ -22,28 +22,40 @@ uyari: "Derleyenin seçtiği alıntılardır; kararın tamamı değildir. Künye
 
 ## Yargıtay 6. HD 2016/2182 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/210050300)
+
 Taraflar arasında imzalanan son kira sözleşmesinin 01.05.2005 başlangıç tarihli ve bir yıl süreli olduğu hususunda uyuşmazlık bulunmamaktadır. Davalı kiraya veren 15.03.2007 tarihinde keşide ettiği ihtarname ile kiralanan taşınmazın depreme dayanıklı hale getirilmesi için esaslı şekilde tadil edileceğini belirterek taşınmazın tahliyesini ihtar etmiş, davacı kiracı ihtarnameye uyarak kiralananı 30.06.2007 tarihinde bir tutanak ile kiraya verene teslim etmiştir. Dava tarihi itibariyle yürürlükte bulunan 6570 sayılı Gayrimenkul Kiraları Hakkında Kanun'un 7/ ç maddesinde; Gayrimenkulün yeniden inşa veya imar maksadiyle esaslı bir surette tamir, tevsi veya tadil için ve ameliye esnasında içinde ikamet veya iştigal mümkün olmadığı fennen anlaşıldığı takdirde kira akdinin hitamında tahliyesinin istenebileceği, 15. maddesinde ise; Aynı kanunun 7/ç fıkrasına göre tahliye edilen gayrimenkuller eski hali ile, mücbir sebepler olmadıkça üç sene müddetle başkasına kiraya
 
 verilemeyeceği,7/ç fıkrasına istinaden tahliye edildikten sonra imar planına göre yeniden inşa veya esaslı şekilde tadil veya tevsi edilen gayrimenkullerin yeni hali ile ve yeni kira bedeli ile bir mesken veya bir ticarethane yerini eski kiracının kiralamağa tercih hakkı olduğu, bu hakkın, kiralayanın, yapacağı tebliğ tarihinden itibaren bir ay içinde kullanılması gerektiği, bu maddeye göre tercih hakkı bertaraf edilmedikçe, gayrimenkulün üç yıl müddetle başkasına kiralanamayacağı düzenlenmiştir. Her ne kadar davacı vekili dava dilekçesinde, esaslı tadilat yapılmaksızın kiralananın üçüncü kişiye kiraya verildiğinden bahisle tazminat talep etmiş ise de, davacı kiracının kiralananı tahliyesi yönünde alınmış bir mahkeme kararı bulunmamakta olup kiracı kiralananı kendi rızası ile tahliye etmiştir. Bu durumda 6570 Sayılı Kanun'un 15. maddesinin somut olaya uygulanabilme imkanı yoktur.Mahkemece bu husus gözönünde bulundurularak maddi tazminat isteminin reddine karar verilmesi gerekirken yazılı şekilde karar verilmesi doğru değildir.
 
 ## Yargıtay 6. HD 2016/1853 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/209411600)
+
 Somut olayda davacı kiracının sözlü kira ilişkisi ile kiralananı kullanmakta iken davalı kiraya veren tarafından taşınmazın yıkılarak yeniden inşaatına başlandığı anlaşılmaktadır. Kiraya verenin sözleşmenin tek taraflı feshi ile kiralananı süre bitiminden önce yıkarak inşaata başlaması bu kapsamda sözleşmenin ihlali niteliğindedir. Bu durumda davalı kiraya verenin tazminat sorumluluğu bulunmaktadır. Ancak TBK’nun 114/2 maddesi uyarınca haksız fiil sorumluluğuna ilişkin hükümler, kıyas yoluyla sözleşmeye aykırılık hallerinde de uygulanacaktır. Bu nedenle davalının kira sözleşmesine aykırı davranmasıyla oluşan sorumlulukta tazminattan indirim yapılmasını düzenleyen TBK’nun 52.maddesi uygulaması gerekir. Bu kapsamda davacı kiracı da taşınmazın yıkılmaya başlandığı 16.05.2012 tarihini müteakip kiracı olarak faaliyetini yürütebileceği yeni bir taşınmaz bulma konusunda gerekli çabayı göstermek zorundadır.
 Bunun bir sonucu olarak davacının aynı şart ve koşullarda kiracı olarak faaliyetini yürütebileceği aynı nitelikli başka bir taşınmazı hangi sürede yeniden kiralayabileceği sürenin belirlenmesi, davalı kiraya verenin de bu süreye ilişkin kazanç kaybından sorumlu tutulması gerekirken yazılı şekilde bu süre belirlenmeden davacı kiracının vergi kayıtlarına göre kazanç kaybının hesaplanması doğru değildir.
 
 ## Yargıtay 6. HD 2016/1814 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/209356600)
+
 Türk Borçlar Kanun'unun 350/2. maddesi hükmüne göre kiralananın yeniden inşa veya imar amacıyla esaslı onarımı, genişletilmesi ya da değiştirilmesi için açılacak davaların belirli süreli sözleşmelerde sürenin sonunda, belirsiz süreli sözleşmelerde bu kanunun 328. maddesinde fesih bildirimi için öngörülen sürelere uyularak belirlenecek tarihten başlayarak bir ay içinde açılması gerekir. TBK.’nun 353. maddesi uyarınca kiraya veren daha önce veya en geç davanın açılması için öngörülen sürede dava açacağını kiracıya yazılı olarak bildirmişse, dava, bildirimi takip eden uzayan bir kira yılı sonuna kadar açılabilir. Dava açma süresi kamu düzenine ilişkin olup davalı ileri sürmese bile mahkemece kendiliğinden gözönünde bulundurulması gerekir.
 
 ## Yargıtay 6. HD 2016/605 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/159768200)
 
 Mahalli mahkemenin 17.11.2011 tarih ve .. sayılı ilamı davacının temyizi üzerine .. sayılı ilamı ile faydalı masraflara ilişkin hüküm kısmı sözleşme yapılırken kiralananın uzun süre kullanılacağı düşüncesiyle yapılan faydalı masraflardan kaynaklanan tazminat isteği ile ilgili olarak da söz konusu İmar Planının iptali istemli olarak İdare Mahkemesine açılmış olduğu anlaşılan dava dosyasının bulunduğu yerden getirtilerek imar planının hangi tarihte kesinleştiğinin, davalı tarafından dava konusu kira sözleşmeleri yapılırken imar planı ile ilgili değişiklikten haberdar olup olmadığının belirlenmesi ve oluşacak sonuca göre tarafların hukuki durumlarının tayin ve takdiri gerekir” diye bozulmuştur: Mahkemece bozmaya uyulduğu halde faydalı masraflara ilişkin bozma gerekleri yerine getirilmediği anlaşılmaktadır.Bu nedenle bozma ilamında belirtilen hususlar üzerinde durularak TBK. 114 ve 50. maddeside nazara alınarak tarafların hukuki durumlarının belirlenmesi ve sonucuna göre bir karar verilmesi gerekirken eksik inceleme ile karar verilmesi doğru olmadığından Hükmün bozulması gerekmiştir.
 
 ## Yargıtay 8. HD 2015/23166 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/402646700)
+
 Dava konusu haciz adresi, borçlu ve üçüncü kişi tarafından birlikte kullanılmaktadır. Her ne kadar bu hususu kanıtlayan kira kontratının sonradan düzenlenebileceği ileri sürülmüş ise de, taşınmazın %60'ının davacı 3. kişi tarafından kullanıldığının, borcun doğumundan çok önce Vergi Dairesi tarafından 11.11.2005 tarihinde düzenlenmiş olan yoklama fişiyle de tespit edildiği, üst katta yapılan haciz esnasında borçluya ait herhangi bir evrakın bulunmadığı, davacının istihkak iddiasının üst katta haczedilen menkullere yönelik olduğu dikkate alındığında, borçlunun alt, davacı 3. kişinin ise üst katta faaliyet gösterdiğinin kabulü gerektiği, davacı 3. kişinin mimarlık alanında faaliyet göstermekteyken davalı borçlunun reklamcılık alanında faaliyette bulunduğu, faaliyet alanları faklı olduğu gibi, haczin yapıldığı iş yerinde, borcun doğumundan çok önce 27.10.2005 tarihinde, davacı tarafından mimarlık faaliyetine başladığı anlaşılmaktadır.
 
 ## Yargıtay 23. HD 2015/8278 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/203115200)
 
 Bu durumda mahkemece, ilgili Belediye Başkanlığı ile yazışmalar yapılarak binaya iskan ruhsatı verilip verilmediği sorulup, imar işlem dosyası da getirtilerek, mahallinde uzman bilirkişi kurulu refakatinde keşif ve inceleme yapılarak, bina ve bağımsız bölümlerde imar planına ya da mimarı projye aykırılıklar bulunup bulunmadığının, henüz iskan ruhsatı alınmamış ise, tespit edilen aykırılıkların iskan ruhsatı alınmasına engel teşkil edip etmediğinin, tespit edilen aykırılıklar giderilebilecek nitelikte ise bunların giderilmesi için gerekli olan bedel ile davacı arsa sahiplerine düşen bağımsız bölümler ile bina ortak alanlarındaki eksik işlerin ve bunların giderilmesi için gerekli olan bedelin belirlenmesi, bina ortak alanlarındaki eksik işler yönünden arsa sahiplerinin ancak sözleşmedeki payları oranında talepte bulunabileceklerinin gözetilmesi suretiyle, belirlenecek eksik iş bedelinin hüküm altına alınması, gecikme tazminatının kural olarak sözleşmede kararlaştırılan teslim tarihinden, eserin eksiksiz ve ayıpsız olarak sözleşmeye uygun biçimde teslim edildiği tarihe kadar ya da iş sahibinin teslimden önce bağımsız bölümü fiilen kullanmaya başladığı veya üçüncü kişiye kiraya verdiği
 ya da sattığı tarihe kadar istenebileceği dikkate alınarak, davacılara ait bağımsız bölümlerin, elektirik, su, telefon gibi aboneliklerinin tesis tarihleri de ilgili kurumlardan sorulup bağımsız bölümlerin davacı arsa sahiplerince kullanılmak, bir
@@ -52,11 +64,15 @@ başkasına kiraya verilmek ya da satılmak suretiyle fiilen teslim alınıp al�
 
 ## Yargıtay 6. HD 2015/10975 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/146073300)
+
 Taraflar arasında 01/05/2011 başlangıç tarihli ve bir yıl süreli kira sözleşmesi konusunda uyuşmazlık bulunmamaktadır. sözleşmenin Hususi Şartlar başlıklı 4. maddesinde; taşınmaza yapılacak her türlü tadilat masraflarının kiracıya ait olacağı ve mal sahibinden herhangi bir bedel talep edilemeyeceği, tahliye halinde de arsanın dış sınır ölçülerini belirlemek amacıyla çit ile yapılan arsanın çevreleme işlemi sökülmeden sağlam şekilde mal sahibine bırakılacağı ve yine yapılan her türlü tadilatın mal sahibine sağlam şekilde teslim edileceği belirtilmiştir. Dosya içerisinde mevcut Boğaziçi İmar Müdürlüğünün 18.09.2013 tarihli yazısında; şikayet üzerine yapılan tespit sonrası tel çit ve duvar ile çevrilen dava konusu yere izinsiz ve ruhsata aykırı yapı yapılarak çay ocağı olarak kullanıldığının belirlendiğini, yapılan şifahi uyarı sonrası şikayete konu çay ocağının ilgilisince söküldüğünün tespit edildiğini, bu nedenle de yıkım işlemi yapılmadığının, imar yönetmeliğince parsellerin çit, tahta, travers vs ile çevrilmesinin ruhsata tabi olmadığının bildirildiği görülmüştür. Her ne kadar hükme esas alınan bilirkişi raporunda;
 2863 sayılı yasanın 9. maddesine göre. sit alanında kalan arazinin doldurularak tesviye edilmesinin (doğal yapının bozulmasının) inşaî ve fizikî müdahale niteliğinde olduğu, bunun için Kuruldan ve Belediyeden izin alınmadığının anlaşıldığı; Arazide dolgu yapılması nedeni ile traverslerin teşkil edildiği, dolgunun yasal olmadığı, dolayısı ile traverslere gerek olmadığı; Traverslerin ve dolgunun kaldırılmasının, traversler üzerinde arsayı çevreleyen ahşap çitin ve dolgu zemini üzerinde çimin, korunmasına imkan vermeyeceğinden bunların da (çim ve ahşap çit) kaldırılması sonucunu doğurduğu; dava konusu yerde. 07/08/2012 tarih, 5974 sayılı İmar Durumu Belgesine göre, tespite konu tüm imalatların, Kurul ve Belediye izni alınarak yapılabileceği, izin alınmadan yapıldığından tüm imalatların kaldırılmasının gerektiği, bildirilmiş ise de; dava konusu yere ilişkin mevcut durumun ortadan kaldırılması konusunda idarenin kesinleşmiş bir yıkım kararı bulunmamaktadır.
 Ayrıca taşınmazda mevcut olan ruhsata aykırı yapı nedeniyle verilecek ceza kiraya vereni ilgilendiren bir husus olup, kiracı tarafından sözleşme gereği yapılmış olan ve taşınmazda bırakılması kararlaştırılan arsanın dış sınır ölçülerini belirlemek amacıyla çit ile yapılan çevreleme işleminin sökülerek taşınmazın sözleşmeye aykırı olarak teslim edilmesi usule uygun değildir. Mahkemece bu husus gözetilmeden yazılı şekilde karar verilmesi doğru değildir.
 
 ## Yargıtay 6. HD 2015/10639 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/145982000)
 
 Davaya dayanak sözleşmenin 01.01.2005 başlangıç tarihli ve 1 yıl süreli olduğu mahkemenin de kabulündedir. Türk Borçlar Kanununun 350/2. maddesi hükmüne göre kiralananın yeniden inşa veya imar amacıyla esaslı onarımı, genişletilmesi ya da değiştirilmesi için açılacak davaların belirli süreli sözleşmelerde sürenin sonunda, belirsiz süreli sözleşmelerde bu kanunun 328. maddesinde fesih bildirimi için öngörülen sürelere
 
@@ -64,13 +80,19 @@ uyularak belirlenecek tarihten başlayarak bir ay içinde açılması gerekir. T
 
 ## Yargıtay 6. HD 2015/9964 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/149470400)
+
 Davaya dayanak yapılan ve hükme esas alınan 03.06.2008 başlangıç tarihli ve 6 yıl süreli kira sözleşmesi konusunda taraflar arasında bir uyuşmazlık bulunmamaktadır. Sözleşmenin hususi şartlar 3. maddesinde taşınmaz ile ilgili imar çalışmaları sonunda 1/1000 ölçekli imar uygulaması yapıldığında, mal sahiplerinin yazılı isteğiyle kiracı 6 ay içinde araziyi boş olarak tahliye ve teslim edecektir, 6 yıllık süresinin bitiminde kira bedeli %100'den az olmamak üzere artırılarak, aynı koşullarla sözleşme 6 yıllık daha yenilenecektir. 1/1000 ölçekli imar uygulaması yapıldığında tahliye koşulu bu durumda da geçerli olacak ve buna göre kiracı aynı şekilde araziyi tahliye edecektir. Bahsi geçen imar uygulaması Harita Mühendisi A. K. tarafından yapılacak ve bu işin bedeli kiracı tarafından ödenecektir, düzenlemesine yer verilmiştir. Yanıltıldıklarını iddia eden davacılar TBK.nun 31 ve 39. maddeleri gereğince yanılma ve aldatmayı öğrendikleri tarihten itibaren 1 yıl içerisinde sözleşme ile bağlı olmadıklarının bildirmediklerine ve ilgili maddenin iptalini istemediklerine göre aralarındaki bu düzenleme maddesi geçerli olup tarafları bağlar.
 
 ## Yargıtay 6. HD 2015/6406 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/137506100)
+
 Davada dayanılan ve hükme esas alınan 01/04/2011 başlangıç tarihli ve üç yıl süreli kira sözleşmesi konusunda taraflar arasında uyuşmazlık bulunmamaktadır. Sözleşme ile kiralanan dükkan olarak kullanılmak üzere davalıya kiralanmıştır. Davacı yeniden inşa nedenine dayanarak 6098 Sayılı Türk Borçlar Kanunu'nun 350/2 maddesi uyarınca dava açmıştır.Yeniden inşaat nedeniyle tahliyeye karar verilebilmesi için dava konusu yere ait onaylı projenin sunulması ve bu projenin dava konusu yere ait olup olmadığının keşfen belirlenmesi gerekir. Bu tür davalarda samimiyet araştırılmasına girilemez. Mahkemece yapılacak iş onaylı projenin ibrazının istenmesi, ibraz edildikten sonra mahallinde uzman bilirkişi marifetiyle keşif yapılması, projenin yerine uygulanması bilirkişilerden denetime elverişli rapor alınması ve sonucuna göre karar verilmesi gerekirken değerlendirmede hataya düşülerek eksik inceleme sonucu yazılı şekilde tahliyeye karar verilmesi usul ve yasaya aykırıdır.
 
 ## Yargıtay 6. HD 2015/6106 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/136816700)
 
 Taraflar arasındaki kira sözleşmesi 01/07/2003 başlangıç tarihli sekiz yıl sürelidir. Sözleşmede artış hükmü bulunmamaktadır. Davaya konu uyuşmazlık taraflar arasındaki 8 yıllık sözleşmede kararlaştırılan kira bedelinin sözleşme süresinin 6. yılında uyarlama yolu ile günün koşullarına uygun hale getirilmesi isteminden ibarettir. Mahkemece bozma sonrası oluşan arsa ve bina değerleri, emsal taşınmazlar, binanın inşaat kalitesi ve özellikleri, dairenin alanı, yapılış tarihi, normal kullanmadan doğan yıpranma payı, mevkii, konumu, taşınmazın bulunduğu mevkideki yerleşim yoğunluğu, belediye hizmetlerinden
 
@@ -79,14 +101,20 @@ Kiralananın bulunduğu yerde imar uygulaması yapılıp yapılmadığı, imar d
 
 ## Yargıtay 6. HD 2015/5085 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/149597600)
+
 Davaya dayanak yapılan ve hükme esas alınan 01.11.2013 başlangıç tarihli ve 5 yıl süreli kira sözleşmesi konusunda bir uyuşmazlık bulunmamaktadır.Sözleşmede 224 parsel sayılı arsa üzerine davacı kiracı tarafından 75 m2 lik prefabrik bina yapılacağı ve eczane olarak kullanacağı belirlenmiştir.Sözleşmenin özel şartlarının 1.maddesinde “prefabrik yapı masrafları kiracı tarafından karşılanmak üzere yapılacaktır.Yapılacak olan prefabrik binanın yapının yapılmasına ilişkin herhangi bir resmi izin veya bununla ilgili bir sorunun çıkmasında kiraya veren sorumlu değildir.Bu aşamaya kadar ödenen kira bedelleri iade edilmez” hükmüne yer verilmiştir. Davacı kiracı prefabrik bina yapmak ve eczane olarak ticari faaliyette bulunmak amacıyla belediyeye başvuru yapmış, Bolu Belediyesi Encümeninin 05.11.2013 tarihli cevabi yazısına göre tarla niteliğindeki 224 parsel sayılı taşınmazın 1/1000 ölçekli uygulama imar planında konut alanında kalmakta olup ticari olarak kullanılmasının söz konusu olmadığı, parsel üzerinde kamuya terk edilecek alanların bulunduğu,söz konusu yerin konut alanında olup ticari alanda bulunmadığından telebin red edildiği bildirilmiştir.Bunun üzerine davacı kiracı Bolu 3.
 Noterliğinin 02.12.2013 tarih ve ... yevmiye nolu ihtarla sözleşmeyi fesih ettiğini ödemiş olduğu kira bedellerinin kendisine iadesini istemiştir.İhtarname davalı kiraya verene 03.12.2013 tarihinde tebliğ edilmiştir.Kira sözleşmesinde kiralanan 224 parsel nolu tarla olarak kiraya verilmiş ve üzerine kiracı tarafından 75 m2 prefabrik bina yapılacağı ve binanın yapılmasında bir sorun çıkması halinde kiracının sorumlu olacağı kabul edilmiştir. Davacı kiracı kiralananın tarla vasıflı ve imarsız olduğunu bilerek kiralamıştır.Kiracının sözleşmeden önce kiralananın konut ya da ticari alan içinde kalıp kalmadığını ve üzerine inşaat yapılıp yapılamayacağını araştırması gerekir.Kaldı ki davacı kiracı ruhsat almak içinde gerekli bir çaba da göstermemiştir. Sözleşmenin iptalinden sonra mal sahibi kiraya verenin davacı kiracının da…
 
 ## Yargıtay 1. HD 2015/7592 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/140473600)
+
 Savunmanın içeriği de dikkate alındığında, davalıların imar öncesi malikle aralarında bulunduğunu söyledikleri kira ilişkisinden kaynaklanan kişisel hakkın, kamusal tasarruf niteliğindeki imar uygulamasıyla birlikte oluşan yeni mülkiyet durumuna göre sona erdiği kabul edilmelidir. Diğer bir anlatımla, imar işlemi taşınmazda yeni bir mülkiyet durumu oluştururken önceki mülkiyet hakkıyla birlikte diğer hakları da sona erdirmiştir.
 
 ## Yargıtay 6. HD 2015/4107 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/149294100)
 
 Davada dayanılan ve hükme esas alınan 15/05/2003 başlangıç tarihli ve bir yıl süreli kira sözleşmesi konusunda taraflar arasında uyuşmazlık bulunmamaktadır. Sözleşme ile kiralanan kafeterya olarak kullanılmak üzere davalıya kiralanmıştır. Davacı da imar amaçlı esaslı tamir ve tadilat nedenine dayanarak 6098 Sayılı Türk Borçlar Kanunu'nun 350/2 maddesi uyarınca dava açmıştır. Anılan madde gereğince kiralananda yapılması düşünülen tamirat ve tadilatın imar amaçlı ve aynı zamanda esaslı işlerden olması, bu sırada kiralananda ikametin mümkün olmaması, proje ve ruhsatın imar mevzuatına göre uygulanabilir olması gerekir.
 Bu amaçla kiralananda yapılan keşif sonrasında düzenlenen 25/08/2014 tarihli bilirkişi raporunda, Mevcut yapının fonksiyonunu yitirmiş olduğu, bu nedenle davacı derneğin yapıyı güçlendirme yaparak Yataklı Tedavi Merkezine (Genel Hastane) dönüştürmeyi amaçladığını, Maltepe Belediyesi İmar ve Şehircilik Müdürlüğü tarafından projelerin 30/04/2010 gün 2010/13492 sayı ile onaylanmış olduğu, 02/09/2013 gün 8/11 sayı ile de inşaat ruhsatı alındığı, mevcut yapının güçlendirilerek Yataklı Tedavi Merkezine Dönüştürülmesi ( Genel Hastane) hem parsel için, hem de bölgenin imarı ve ihyası için uygun olacağı belirtilmekle birlikte, yapılacak onarım ve tadilatın esaslı ve imar amaçlı olup olmadığı, bu aşamada tahliye gerekip gerekmediği açıklanmamıştır. Bu itibarla bilirkişi raporu hüküm kurnaya yeterli ve elverişli değildir.
@@ -94,23 +122,33 @@ Bu nedenle kiralananın bulunduğu yerde konusunda uzman bilirkişi marifetiyle 
 
 ## Yargıtay 6. HD 2015/2622 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/149869000)
+
 Sözleşme ile kiralanan büfe olarak kullanılmak üzere davacı kiracıya kiralanmıştır. Kiralananda kira sözleşmesinden önce imara aykırı olarak bir takım eklentiler yapılmış, kiracılık süreci içinde de davacı kiracı tarafından kiralanana iskele ve güneşlenme terası yapılarak imara aykırılıklar sürdürülmüştür. Bitez Belediye Encümeni'nce 11.06.2008 tarihli kararla yıkım kararı alınmış, bu kararın iptali için Muğla 1.İdare Mahkemesi'nin 2008/1764 Esas 2009/2575 Karar sayılı dosyası ile açılan dava redle sonuçlanmıştır. Bu durumda belediye tarafından yıkım kararı verildiği, bu kararın idare mahkemesince iptal edilmediği ve sözleşme dışı yerlere yönelik yapılan imalat bedellerinin istendiği
 
 anlaşıldığından mahkemece davanın reddine karar verilmesi gerekirken, yazılı şekilde bu konudaki istemin kabulüne karar verilmesi usul ve yasaya aykırıdır.
 
 ## Yargıtay 6. HD 2015/2027 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/147966700)
+
 Türk Borçlar Kanununun 350/2. maddesi hükmü uyarınca kiralananın yeniden inşa veya imar amacıyla esaslı onarımı, genişletilmesi ya da değiştirilmesi nedeniyle açılacak davalarda dava hakkı kural olarak kiraya verene aittir. Ancak kiraya veren durumunda olmayan malikin de bu davaları açabileceği içtihaden kabul edilmiştir. Kiralanan paylı mülkiyete konu ise pay ve paydaş çoğunluğunun sağlanması, elbirliği halinde ise tüm ortakların davaya katılmaları gerekir. Bu koşullar birlikte dava açma şeklinde gerçekleşebileceği gibi bir paydaş tarafından açılan davaya sonradan diğer paydaşların onaylarının alınması şeklinde de sağlanabilir. Elbirliği mülkiyetinde, ortakların katılımları sağlanamaz ise miras bırakanın terekesine temsilci atanması sağlanarak temsilci huzuruyla dava yürütülür.Dava hakkına ilişkin olan bu hususların mahkemece kendiliğinden göz önünde bulundurulması gerekir.
 
 ## Yargıtay 6. HD 2015/1830 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/147792200)
 
 Hükme esas alınan 01/01/2008 başlangıç tarihli ve bir yıl süreli kira sözleşmesi konusunda taraflar arasında bir uyuşmazlık bulunmamaktadır. Davacı süresinde açtığı dava ile süre bitimi, işyeri ihtiyacı ile esaslı tamirat ve tadilat nedeniyle kiralananın boşaltılmasını istemiştir. Esaslı tamirat ve tadilat nedeniyle kiralananın boşaltılabilmesi için tasdikli projenin ibraz edilmesi ve mahallinde uygulanması gerekir. Davacı tarafından dosyaya mimari tadilat proje ibraz edilmiş, ancak mimarı ve statik proje olarak adlandırılan bu ön projenin veya avan projenin davacı tarafından tasdik için belediyeye ibraz edilip edilmediği dosya kapsamından anlaşılamamaktadır. Mahkemece avan projenin (ön) projenin tasdik için belediyeye ibraz edilip edilmediğinin gerekli mercilerden sorulması ibraz edilmiş ise sonucunun beklenilmesi ve varılacak sonuca göre bir karar verilmesi gerekirken eksik inceleme ile davanın kabulüne karar verilmesi doğru olmadığından hükmün bozulması gerekmiştir.
 
 ## Yargıtay 6. HD 2015/1556 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/146905800)
+
 Davada dayanılan ve hükme esas alınan 01.09.2006 başlangıç tarihli ve iki yıl süreli kira sözleşmesi konusunda taraflar arasında uyuşmazlık bulunmamaktadır. Sözleşme ile kiralanan yiyecek, ev mamulleri üretim yeri olarak kullanılması için davalıya kiralanmıştır. Davacı da imar amaçlı esaslı tamir ve tadilat nedenine dayanarak 6098 Sayılı Türk Borçlar Kanunu'nun 350/2 maddesine dayanarak dava açmıştır. Anılan madde gereğince kiralananda yapılması düşünülen tamirat ve tadilatın imar amaçlı ve aynı zamanda esaslı işlerden olması,…
 
 ## Yargıtay 6. HD 2015/723 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/148043700)
 
 Hükme esas alınan 05.12.2003 başlangıç tarihli ve beş yıl süreli kira sözleşmesi konusunda taraflar arasında bir uyuşmazlık bulunmamaktadır.
 Davalı kiraya veren idarenin 20.04.2005 tarihinde Atatürk Üniversitesinden aldığı raporda işhanının depreme dayanıklı olmadığı ve ilave kat taşıyamayacağının bildirilmesi üzerine Ağrı Valiliği Özel İdare daimi encümenin 25.05.2005 tarih ve 187 sayılı kararı ile iş hanının bulunduğu binanın güçlendirmesi için karar alındığı,davalı idarenin 09.04.2007 tarihli yazı ihtarı ile iş hanında güçlendirme yapılacağından kiralananın bir ay içinde tahliye edilmesinin istendiği, tahliye edilmeyince davalı idarenin binada yapacağı güçlendirme için binanın önüne iş hanına girişi önleyecek şekilde kum ve çakıl dökülmesi üzerine davacı kiracının 02.11.2007 tarihli dilekçesi ile Ağrı Sulh Hukuk mahkemesinin 2007/55 D işler dosyasında taşınmazda davalının her hangi bir yıkım yapmasının önlenmesi için ihtiyati tedbir konulmasına karar verildiği, bu kararın davalı idareye 12.11.2007 tarihinde tebliğ edilmesi üzerine davalı idarenin bu tedbir kararına itiraz ettiği, davalı idarenin emniyet güçleri ile kiralananın boşaltılması için gelindiğinde bu kez Davacı kiracı 07.11.2007 tarihinde Ağrı Sulh Hukuk Mahkemesi'nin 2007/58 D işler dosyasında tahliye ve boşaltma işlemlerinin tedbiren durdurulmasına
@@ -120,6 +158,8 @@ Bu durumda eşya ve nüfustan arındırmak için kiralananın tahliyesinin isten
 
 ## Yargıtay 6. HD 2015/402 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/147191800)
+
 Taraflar arasında 01.01.2010 imza, 01.02.2010 başlangıç tarihli, beş yıl süreli kira sözleşmesi hususunda uyuşmazlık bulunmamaktadır. Sözleşmede kiralananın arsa olduğu
 
 ve nakliyeci ofisi ve kamyon parkı olarak kullanılacağı kararlaştırılmıştır. Sözleşmede ilk yıl ödemesiz, ikinci yıl aylık 8.000 USD kira bedeli belirlenmiş, sözleşmenin 4. maddesinde '' Kiralanan gayrimenkul gerekli yerlerden izinler alındıktan sonra (Belediyeler, İski, Jandarma, emniyet, tapu vs. ) kullanılacaktır. Gerekli izinlerin ilgili kurumlardan mevzuat nedeni ile alınamaması durumunda kiracılar tarafından kiralanana verilen üç aylık kira bedeli iade edilecektir '' düzenlemesi, 9. maddesinde '' Kiracı depozito olarak kiralayana 24.000.USD (Amerikan doları)nı peşin olarak vermiştir '' düzenlemesi, 10. maddesinde ise '' Kiracı mal sahibine vermiş olduğu peşinat ve depozitten faiz veya her hangi bir fazlalık talep edemez '' düzenlemeleri bulunmaktadır. Davacı vekili daha önce Belediyeye sözlü olarak başvurulduğunu, yine Belediye yetkilileri tarafından sözlü olarak ruhsat düzenlenemeyeceğinin söylendiğini bildirmiş, Gebze Belediyesi'nin 21.08.2014 tarihli cevabi yazısı ile ... İlçesi, ...
@@ -128,11 +168,15 @@ Davacı 17.07.2012 tarihinde davalıya ihtar çekmiş, bu ihtarname davalıya te
 
 ## Yargıtay 6. HD 2015/258 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/146314000)
+
 Somut olayda; Davalı sözleşme başlangıcı 16/05/2008 tarihinden davacıya 18/05/2010 tarihinde keşide edilen ihtarname tarihine kadar imara aykırılıkları bilerek kiralananı mevcut hali ile kullanmış, ayıp ihbarında bulunmamıştır. Yine taraflar arasında imzalanan kira sözleşmesinin hususi şartlar bölümünün 2,3 ve 4.maddelerine göre taşınmazın kiralandığı tarihte binanın elektrik,su,doğalgaz,telefon abonelikleri ve ısınma sisteminin müstakil olmadığı, bunların müstakil hale dönüştürülmesi için bağımsız kombi-kazan sistemi kurulmasının, aboneliklerin davalı kiracı tarafından alınması, yapılacak tadilat ve onarımların masraflarının kiracı tarafından karşılanacağının kararlaştırıldığına göre taşınmazın kiralama amacına uygun kullanılabilmesi için bazı tadilatların yapılması gerektiği kiracı tarafından da kabul edilmiştir. Davalı kiracının basiretli bir tacir gibi
 
 davranarak kiralamadan önce yapıldığı iddia edilen ve sözleşmede yapılacağı kararlaştırılan tadilatların imara aykırı olup olmadığını bu tadilatların ruhsata bağlanıp bağlanamayacağını araştırması gerekirken gerekli araştırmayı yapmayarak ya da sonuçlarını kabul ederek davalı vekilinin 17/05/2013 tarihli dilekçesinde de belirttiği üzere taşınmazın bulunduğu lokasyonun önemi sebebiyle taşınmazı kiraladığına göre davalının haklı sebeple kiralananı tahliye ettiği kabul edilemez. Kiralanan haklı bir sebep olmaksızın erken tahliye edildiğine göre kural olarak kiracı, kira dönemi sonuna kadarki kira parasından sorumludur. Ancak Türk Borçlar Kanunu'nun 114.maddesi göndermesi ile aynı Kanun'un 52.maddesi uyarınca kiraya vereninde zararın artmasına neden olmaması gerekir. Kiracının sorumluluğu kiralananın kira sözleşmesindeki bedel ve koşullarda yeniden kiraya verilebileceği süre kadardır. Esasen kanun koyucu tarafından bu kural 6098 sayılı Türk Borçlar Kanunu'nun 325.maddesi ile kanun hükmü haline getirilmiştir.
 Bu durumda mahkemece bilirkişi tarafından eski hale getirme ve yeniden kiraya verme süresi olarak belirlenen 30 günlük kira parasından kiracının sorumlu tutulması gerekirken olayımıza uygun düşmeyen Yargıtay 11. Hukuk Dairesinin 2010/16005 Esas,2011/2855 Karar sayılı ilamının esas alınarak kusur indirimi yapılmak suretiyle yazılı şekilde karar verilmesi doğru değildir.
 
 ## Yargıtay 6. HD 2015/166 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/146026600)
 
 Davada dayanılan ve hükme esas alınan 01/08/2007 başlangıç tarihli ve bir yıl süreli kira sözleşmesi konusunda taraflar arasında uyuşmazlık bulunmamaktadır. Davacı kiralananın yeniden inşası nedenine dayanarak 6098 Sayılı Türk Borçlar Kanunu'nun 350 / 2 maddesi (mülga 6570 Sayılı Gayrimenkul Kiraları Hakkında Kanun'un 7/ç maddesi) uyarınca dava açmış, davalı davanın reddini savunmuştur.

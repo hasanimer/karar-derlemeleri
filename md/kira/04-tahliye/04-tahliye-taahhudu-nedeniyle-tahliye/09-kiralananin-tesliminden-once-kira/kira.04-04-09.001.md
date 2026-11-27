@@ -21,4 +21,6 @@ uyari: "Derleyenin seçtiği alıntılardır; kararın tamamı değildir. Künye
 
 ## Yargıtay 3. HD 2025/5408 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1205495200)
+
 Yerleşik dairemiz kararlarına göre kiralananın tesliminden önce ve kira sözleşmesinin yapıldığı tarihte düzenlenerek verilen yazılı tahliye taahhütleri **kiracının özgür iradesini yansıtmayacağından geçerli olmadığı kabul edilir**.

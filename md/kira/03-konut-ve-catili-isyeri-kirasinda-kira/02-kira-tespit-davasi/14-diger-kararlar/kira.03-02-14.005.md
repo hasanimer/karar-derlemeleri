@@ -23,11 +23,15 @@ uyari: "Derleyenin seçtiği alıntılardır; kararın tamamı değildir. Künye
 
 ## Yargıtay 3. HD 2018/9824 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/467973500)
+
 01/07/2012 tarihinde yürürlüğe giren 6098 Sayılı Türk Borçlar Kanunu'nun 344. maddesinde “Tarafların yenilenen kira dönemlerinde uygulanacak kira bedeline ilişkin anlaşmaları, bir önceki kira yılında üretici fiyat endeksindeki artış oranını geçmemek koşuluyla geçerlidir. Bu kural, bir yıldan daha uzun süreli kira sözleşmelerinde de uygulanır. Taraflarca bu konuda bir anlaşma yapılmamışsa, kira bedeli, bir önceki kira yılının üretici fiyat endeksindeki artış oranını geçmemek koşuluyla hâkim tarafından, kiralananın durumu göz önüne alınarak hakkaniyete göre belirlenir. Taraflarca bu konuda bir anlaşma yapılıp yapılmadığına bakılmaksızın, beş yıldan uzun süreli veya beş yıldan sonra yenilenen kira sözleşmelerinde ve bundan sonraki her beş yılın sonunda, yeni kira yılında uygulanacak kira bedeli, hâkim tarafından üretici fiyat endeksindeki artış oranı, kiralananın durumu ve emsal kira bedelleri göz önünde tutularak hakkaniyete uygun biçimde belirlenir.
 Her beş yıldan sonraki kira yılında bu biçimde belirlenen kira bedeli, önceki fıkralarda yer alan ilkelere göre değiştirilebilir.” hükmü, Türk Borçlar Kanununun Yürürlüğü ve Uygulama Şekli Hakkındaki Kanunun 2. maddesinde geçmişe etkili olma başlığı altında “Türk Borçlar Kanununun kamu düzenine ve genel ahlaka ilişkin kuralları gerçekleştikleri tarihe bakılmaksızın, bütün fiil ve işlemlere uygulanır.” hükmü yer almaktadır. Türk Borçlar Kanununun kira artışına ilişkin 344.maddesindeki düzenleme kiracıları koruyucu nitelikte olup, kamu düzenine ilişkindir. Olayımıza gelince; kira bedelinin miktarına ilişkin olarak taraflar arasında bir uyuşmazlık bulunup mahkemeye müracaat edildiğine ve kira bedelinin dava yoluyla tespiti istenildiğine göre; kiracı olan taraf, artırılması istenilen veya karar verilebilecek miktarı ve bundan daha fazlasını ödese bile, dava reddedilmeyip kira bedelinin tespitine karar verilmelidir. Taraflar arasında hükmen tespit edilmiş ya da sözleşme ile kararlaştırılmış bir kira bedeli olmadığı için davacının yeni dönem kira bedelinin mahkemece tespiti ile hüküm altına alınmasını istemekte hukuki yararı vardır.
 Kira sözleşmesinin başlangıcı 18.03.2011 tarihi olduğuna göre TBK'nun 344. maddesinin 1. ve 2. fıkraları gereğince bir önceki kira yılının üretici fiyat endeksindeki artış oranını geçmemek koşuluyla kira bedelinin tespitine karar verilmesi gerekir. Ne var ki somut olayda; sehven Mahkemece “hak ve nesafet” ilkesi uyarınca değerlendirilme yapılarak karar verildiği anlaşılmaktadır. O halde, davacı tarafından dördüncü artış yılı olan 18.03.2015 tarihinden itibaren kira bedelinin tespiti istendiğine göre, mahkemece yukarıdaki ilke ve esaslar gözetilmek suretiyle tespiti talep edilen dönemin endeks dönemi olduğu kabul edilerek, bir önceki yıl ödenen kira bedelinin ÜFE endeksi oranında arttırılarak davalı tarafından en son ödenen bedelden az olmamak üzere kira bedelinin tespiti gerekirken yazılı gerekçe ile kira bedelinin hak ve nesafete göre tespitine karar verilmesi usul ve yasaya aykırı olup bozmayı gerektirmiştir.
 
 ## Yargıtay 3. HD 2018/9738 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/467955000)
 
 6098 sayılı Türk Borçlar Kanunu 344. maddesinde; “Tarafların yenilenen kira dönemlerinde uygulanacak kira bedeline ilişkin anlaşmaları, bir önceki kira yılında üretici fiyat endeksindeki artış oranını geçmemek koşuluyla geçerlidir. Bu kural, bir yıldan daha uzun süreli kira sözleşmelerinde de uygulanır. Taraflarca bu konuda bir anlaşma yapılmamışsa, kira bedeli, bir önceki kira yılının üretici fiyat endeksindeki artış oranını geçmemek koşuluyla hâkim tarafından, kiralananın durumu göz önüne alınarak hakkaniyete göre belirlenir. Taraflarca bu konuda bir anlaşma yapılıp yapılmadığına bakılmaksızın, beş yıldan uzun süreli veya beş yıldan sonra yenilenen kira sözleşmelerinde ve bundan sonraki her beş yılın sonunda, yeni kira yılında uygulanacak kira bedeli, hâkim tarafından üretici fiyat
 
@@ -36,13 +40,19 @@ Bu durumda mahkemece endeks uygulanarak hükmedilen kira bedeli en son ödenen k
 
 ## Yargıtay 3. HD 2018/9602 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/445005900)
+
 Harçlar Kanununun 17. maddesine göre kira tespit davalarında aylık kira bedelinin tespiti talep edilmesi halinde bir aylık brüt kira farkı üzerinden, yıllık kira bedelinin tespiti istnmesi halinde bir yıllık brüt kira farkı üzerinden nisbi harç alınması gerektiği, davanın nispi harca tabi olduğu, dava açarken davacı taraftan aylık kira bedelinin tespitini istediği dikkate alınarak, Mahkemece bir aylık brüt kira farkı üzerinden karar ve ilam harcının ikmali gerekirken, yıllık fark üzerinden karar ve ilam harcına hükmedilmesi usul ve yasaya aykırı olup bozmayı gerektirir.
 
 ## Yargıtay 3. HD 2018/9208 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/453206700)
+
 Harçlar Kanununun 17. maddesine göre kira tespit davalarında aylık kira bedelinin tespiti talep edilmesi halinde bir aylık brüt kira farkı üzerinden, yıllık kira bedelinin tespiti istnmesi halinde bir yıllık brüt kira farkı üzerinden nisbi harç alınması gerektiği, davanın nispi harca tabi olduğu, dava açarken davacı taraftan maktu harç alındığı ve hüküm fıkrasında da maktu harç ile yetinildiği anlaşıldığından, Mahkemece bir yıllık brüt kira farkı üzerinden karar ve ilam harcının ikmali gerekirken, alınması gereken karar ve ilam harcına eksik hükmedilmesi usul ve yasaya aykırı olup bozmayı gerektirir.
 
 ## Yargıtay 3. HD 2018/9099 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/452612400)
 
 Hüküm tarihinde yürürlükte bulunan Avukatlık Asgari Ücret Tarifesinin 9. maddesinde "Tahliye davalarında bir yıllık kira bedeli tutarı, kira tespiti ve nafaka davalarında tespit olunan kira bedeli farkının veya hükmolunan nafakanın bir yıllık tutarı üzerinden tarifenin üçüncü kısmı gereğince hesaplanacak miktarın tamamı, avukatlık ücreti olarak hükmolunur. Bu miktarlar, tarifenin ikinci kısmının ikinci bölümünde davanın görüldüğü mahkemeye göre belirlenmiş bulunan ücretten az olamaz." düzenlemesi nazara alınmadan davalı
 
@@ -50,17 +60,25 @@ yönünden yazılı şekilde vekalet ücretine hükmedilmesi usul ve yasaya ayk�
 
 ## Yargıtay 3. HD 2018/8904 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/447952500)
+
 Karar tarihinde yürürlükte olan Avukatlık Asgari Ücret Tarifesi'nin 9. maddesi;“ Tahliye davalarında bir yıllık kira bedeli tutarı, kira tespiti ve nafaka davalarında tespit olunan kira bedeli farkının veya hükmolunan nafakanın bir yıllık tutarı üzerinden Tarifenin üçüncü kısmı gereğince hesaplanacak miktarın tamamı, avukatlık ücreti olarak hükmolunur. Bu miktarlar, Tarifenin ikinci kısmının ikinci bölümünde davanın görüldüğü mahkemeye göre belirlenmiş bulunan ücretten az olamaz.
 
 ## Yargıtay 3. HD 2018/8263 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/452636900)
 
 Uyarlama davalarında da uygulanması gereken 18.11.1964 gün ve 2/4 sayılı Y.İ.B.K. ve yerleşik Yargıtay uygulamalarına göre “hak ve nesafet” ilkesi uyarınca kira bedelinin tespitinde öncelikle tarafların tüm delilleri varsa emsal kira sözleşmeleri aslı veya onaylı örnekleri dosyaya alınmalı, kiralananın niteliklerine göre üç kişilik (inşaat-mimar, mülk bilirkişileri) bilirkişi kurulu oluşturularak bilirkişi marifetiyle kiralanan taşınmaz ve taraf emsalleri tek tek görülüp incelenmeli, res'en de emsal araştırılmalı, bilirkişilerce gerekli ölçüm ve inceleme yapılıp böylece elde edilen veriler somutlaştırılarak, dava konusu yer ile ayrı ayrı (konumu, çevresi, niteliği, kullanım şekli, kira başlangıç tarihi, kira süreleri vb.) kira…
 
 ## Yargıtay 3. HD 2018/7564 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/430039200)
+
 Hükme esas alınan 02.12.1994 başlangıç tarihli ve bir yıl süreli sözleşme konusunda taraflar arasında bir uyuşmazlık bulunmamaktadır. Her ne kadar Mahkemece; kiraya verenin kira tespit hükmü mevcut olan 02/12/2005-02/12/2006 kira dönemini takip eden üç yıllık kira dönemi için DİE tarafından belirlenen TÜFE endeksine göre kira bedeli farkı talep edebileceği belirtilerek alınan bilirkişi raporu doğrultusunda hüküm kurulmuş ise de; 5502 sayılı ... yasasının ‘Kurumun Taşınmaz Edinimi ve Mal Varlıklarının Hukuki Durumu’ başlıklı 35/6 maddesine göre, davacı kurumun sahibi bulunduğu taşınmazların kira oranlarının 213 sayılı Vergi Usul Kanunu uyarınca her yıl belirlenen yeniden değerlendirme oranından az olmamak üzere rayiç ve emsallere göre belirleneceği düzenlenmiş olup, Mahkemece; ilgili özel yasada belirtilen usule göre, belirlenen yeniden değerlendirme oranından az olmamak üzere kira bedelinin tespit edilerek, oluşan kira farkı alacağının hesaplanması gerekirken, eksik ve hatalı bilirkişi raporu doğrultusunda yazılı şekilde karar verilmesi usul ve yasaya aykırı olup, bozmayı gerektirmiştir.
 
 ## Yargıtay 3. HD 2018/7365 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/429888400)
 
 Avukatlık Asgari Ücret Tarifesinin 9. maddesinde yer alan kira bedelinin tespiti davalarında mahkemece tespit olunan kira bedeli farkının bir yıllık tutarı üzerinden tarifenin üçüncü kısmı gereğince hesaplanacak nispi vekâlet ücretine hükmedileceği, bu miktarların
 
@@ -68,14 +86,20 @@ Tarifenin ikinci kısmının ikinci bölümünde davanın görüldüğü mahkeme
 
 ## Yargıtay 3. HD 2018/6812 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/429342200)
+
 Avukatlık Asgari Ücret Tarifesinin 9. maddesinde yer alan kira bedelinin tespiti davalarında, mahkemece tespit olunan kira bedeli farkının, bir yıllık tutarı üzerinden tarifenin üçüncü kısmı gereğince hesaplanacak nispi vekâlet ücretine hükmedileceği, bu miktarların tarifenin ikinci kısmının ikinci bölümünde, davanın görüldüğü mahkemeye göre belirlenmiş bulunan ücretten az olamayacağı düzenlemesine göre, tespit edilen yıllık brüt kira bedelinden davalı tarafından ödenen yıllık brüt kira bedeli çıkartılarak, aradaki fark üzerinden davacı yararına vekalet ücreti ve reddedilen kısım üzerinden davalı yararına vekalet ücreti takdir edilmesi gerekir. Bu husus gözetilmeden davacılar yönünden yazılı şekilde vekalet ücretine hükmedilmesi usul ve yasaya aykırı olup bozmayı gerektirir.
 
 ## Yargıtay 3. HD 2018/6691 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/428614700)
 
 18.11.1964 gün ve 2/4 sayılı Y.İ.B.K. ve yerleşik Yargıtay uygulamalarına göre “hak ve nesafet” ilkesi uyarınca kira bedelinin tespitinde öncelikle tarafların tüm delilleri varsa emsal kira sözleşmeleri aslı veya onaylı örnekleri dosyaya alınmalı, kiralananın niteliklerine göre üç kişilik (inşaat-mimar, mülk bilirkişileri) bilirkişi kurulu oluşturularak bilirkişi marifetiyle kiralanan taşınmaz ve taraf emsalleri tek tek görülüp incelenmeli, res'en de emsal araştırılmalı, bilirkişilerce gerekli ölçüm ve inceleme yapılıp böylece elde edilen veriler somutlaştırılarak, dava konusu yer ile ayrı ayrı (konumu, çevresi, niteliği, kullanım şekli, kira başlangıç tarihi, kira süreleri vb.) kira parasına etki eden tüm nitelikleri karşılaştırılmalı, emsal kira bedellerinin niçin uygun emsal olup olmadığı somut gerekçelerle açıklanmalı, dava konusu taşınmazın yeniden kiraya verilmesi (boş olarak) halinde getirebileceği kira parası belirlenmeli, hakimce bu kira parası dikkate alınmak suretiyle hak ve nesafete; özellikle tarafların kira sözleşmesinden bekledikleri amaçlarına uygun makul bir kira parasına hükmedilmelidir.
 Bunun için, dava konusu yerin serbest koşullarda yeniden boş olarak kiraya verilmesi halinde getirebileceği kira parası bilirkişilerce usulünce saptanmalı, bilirkişi raporu mahkemece somut gerekçeler ışığında res’en değerlendirilmeli, buna göre hak ve nesafete uygun kira parası hakim tarafından saptanmalıdır. Bilirkişilerce bu belirleme yapılırken benzer yerlerin kira sözleşmeleri incelenmeli (re'sen emsal araştırması yapmak ya da taraflardan emsal göstermeleri istenmek suretiyle) dava konusu yerle ayrı ayrı karşılaştırılarak kira parasına etki eden hususlar üzerinde durulmalıdır.
 
 ## Yargıtay 3. HD 2018/6523 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/427898900)
 
 Olayımıza gelince; Kiralananın, davacı tarafından 01/11/2011 başlangıç tarihli, 1 yıl süreli arazi kiralama sözleşmesi başlıklı sözleşme ile davalı ...'na kiraya verildiği konusunda
 
@@ -83,23 +107,33 @@ taraflar arasında bir uyuşmazlık yoktur. TBK’nun 344. ve devamı maddeleri 
 
 ## Yargıtay 3. HD 2018/6207 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/422737500)
+
 "İçtihat Metni"Davacılar ... ve ... ile davalılar ..., ..., ... ve ... aralarındaki kiralananın tahliyesi ve kira bedelinin tespiti davasına dair ...2.Sulh Hukuk Mahkemesinden verilen 18/05/2016 günlü ve 2015/826 E.-2016/727 K. sayılı hükmün onanması hakkında dairece verilen 13/12/2017 günlü ve 2017/7565 E.-2017/17540 K. sayılı ilama karşı davacılar vekili tarafından kararın düzeltilmesi istenilmiştir.
 
 ## Yargıtay 3. HD 2018/6113 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/423257900)
 
 Her ne kadar Mahkemece bozma ilamına uyularak alınan bilirkişi raporuna göre, 2013 yılı kira bedelinin endeks uygulanarak hesaplanmasına göre 4.781,00-TL olduğu tespit edilmiş, 2013 yılı için ödenen kira bedelinin 4.886,00-TL olduğu ve kiracının tespit edilen miktardan daha fazla ödeme yapmakta olduğu gerekçesiyle davasının reddine karar verilmiş ise de; Kira bedelinin miktarına ilişkin olarak bir uyuşmazlık bulunup mahkemeye müracaat edildiğine ve kira bedelinin dava yoluyla tespiti istenildiğine göre; davalı taraf artırılması istenilen veya karar verilebilecek miktarı ödese bile dava red edilmeyip kira tespit kararı verilmelidir. Nitekim davalının artırarak ödediği kira parasını ödemekten vazgeçip önceki dönem kira parasını ödemeye başlaması halinde davacı, hükmen tespit edilmiş ya da sözleşme ile kararlaştırılmış bir kira bedeli olmadığı sürece davalı kiracıyı kira bedelinin arttırılmış halini ödemesi için zorlayamayacağı için yeni dönem kira parasının Mahkemece hüküm altına alınmasında davacının hukuki yararı vardır.
 Davalının tespit edilecek miktarını ödeyip ödemediği hususu dava açılmasına sebep olup olmaması ve yargılama giderlerinden sorumluluğunun belirlenmesi yönünden sonuca etkilidir. O halde mahkemece davalının kabul ettiği miktardan az olmamak üzere kira bedelinin tespitine ilişkin bir karar verilmesi gerekirken yazılı şekilde davanın reddine karar verilmesi usul ve yasaya aykırı olup, bozmayı gerektirmiştir.SONUÇ: Yukarıda açıklanan esaslar gözönünde tutulmaksızın yazılı şekilde hüküm tesisi isabetsiz, temyiz itirazları bu nedenlerle yerinde olduğundan kabulü ile hükmün HUMK.nun 428.maddesi gereğince davacı yararına BOZULMASINA, peşin alınan temyiz harcının istek halinde temyiz edene iadesine, 6100 sayılı HMK'nun geçici madde 3 atfıyla 1086 sayılı HUMK.nun 440.maddesi gereğince karar düzeltme yolu kapalı olmak üzere, 30.05.2018 tarihinde oybirliğiyle karar verildi.
 
 ## Yargıtay 3. HD 2018/6018 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/424002000)
+
 "İçtihat Metni"Dâvacılar ..., ..., ..., ..., ... ile dâvâlı ... Sağlık Ve Eğitim Hizmetleri San. Ve Tic. A.ş. aralarındaki kira bedelinin tespiti dâvasına dair ... 7. Sulh Hukuk Mahkemesinden verilen 15/12/2015 günlü ve 2014/861 E. - 2015/1062 K. sayılı hükmün bozulması hakkında dairece verilen, 13.12.2017 günlü ve 2017/3676 E. -2017/17600 K. sayılı ilâma karşı davalı tarafından kararın düzeltilmesi istenilmiştir.Düzeltme isteğinin süresi içinde olduğu anlaşıldıktan sonra dosyadaki bütün kâğıtlar okunup gereği düşünüldü:…
 
 ## Yargıtay 3. HD 2018/5902 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/424710300)
 
 "Sözleşmede yeni kira döneminde kira bedelinin artırılacağına ilişkin bir hüküm varsa, yeni kira döneminin sonuna kadar açılacak davada mahkemece belirlenecek kira bedeli de, bu yeni dönemin başlangıcından itibaren geçerli olur.” hükmüne yer verilmiştir. 6098 Sayılı Türk Borçlar Kanunu 01.07.2012 tarihinde yürürlüğe girmiş olup, TBK.nun 345.maddesi bu tarihten sonra açılacak kira bedelinin tespiti istemlerinde uygulanır.Somut olayda; davacıların murisi ... ile davalı arasında ilk olarak 02.01.1999 başlangıç tarihli beş yıl süreli kira sözleşmesi imzalandığı hususunda bir uyuşmazlık bulunmamaktadır. Sözü geçen sözleşmenin hususi şartlar 5. Maddesinde "Her yıl kira artış oranı Bakanlığın açıkladığı oran nisbetinde olacaktır." hükmü düzenlenmiştir. Yenilenen 02.01.2004 ve 02.01.2009 başlangıç tarihli beş yıl süreli kira sözleşmelerinde de artış yapılacağı kararlaştırılmış olup artış yapılacağına ilişkin hüküm nedeniyle TBK 'nun 345/son maddesi gereğince kira dönemi sonuna kadar dava açılabileceğinden 03.07.2014 tarihinde açılan davada 02.01.2014 tarihinden itibaren kira bedelinin artırılarak tespitinin istenmesinde bir usulsüzlük bulunmamaktadır.
 Mahkemece işin esası incelenerek bir karar verilmesi gerekirken süresinde açılmadığından bahisle davanın reddine karar verilmesi usul ve yasaya aykırı olup bozmayı gerektirmiştir.SONUÇ:…
 
 ## Yargıtay 3. HD 2018/5591 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/426228800)
 
 Taraflarca bu konuda bir anlaşma yapılıp yapılmadığına bakılmaksızın, beş yıldan uzun süreli veya beş yıldan sonra yenilenen kira sözleşmelerinde ve bundan sonraki her beş yılın sonunda, yeni kira yılında uygulanacak kira bedeli, hâkim tarafından üretici fiyat endeksindeki artış oranı, kiralananın durumu ve emsal kira bedelleri göz önünde tutularak hakkaniyete uygun biçimde belirlenir. Her beş yıldan sonraki kira yılında bu biçimde belirlenen kira bedeli, önceki fıkralarda yer alan ilkelere göre değiştirilebilir.Sözleşmede kira bedeli yabancı para olarak kararlaştırılmışsa, beş yıl geçmedikçe kira bedelinde değişiklik yapılamaz. Ancak, bu Kanunun, “Aşırı ifa güçlüğü” başlıklı 138 inci maddesi hükmü saklıdır. Beş yıl geçtikten sonra kira bedelinin belirlenmesinde, yabancı paranın değerindeki değişiklikler de göz önünde tutularak üçüncü fıkra hükmü uygulanır." hükmü yer almaktadır.Davaya dayanak yapılan, davacıların murisi ile davalı arasında düzenlenen 19/02/2013 başlangıç tarihli, bir yıl süreli kira sözleşmesi konusunda uyuşmazlık bulunmamaktadır.
 Kira sözleşmesinin 6. maddesinde, sözleşme bitiminde kira bedelinin TEFE-TÜFE ortalamasına göre artırılacağı düzenlemesi bulunmaktadır.Mahkemece, her ne kadar, kira sözleşmesinde artış hükmü bulunmadığı, sözleşmenin başlangıç tarihinden itibaren beş yıl geçmedikçe kira bedelinin tespiti istenemeyeceği gerekçesiyle kira bedelinin tespiti davasının reddine karar verilmiş ise de; kira sözleşmesinde artış şartı yer aldığı gibi
@@ -108,23 +142,33 @@ Mahkemenin kabulünde olduğu gibi artış şartı bulunmasa dahi davacıların 
 
 ## Yargıtay 3. HD 2018/5409 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/427375800)
+
 18.11.1964 gün ve 2/4 sayılı Yargıtay İçtihadı Birleştirme Kararına ve yerleşik Yargıtay uygulamalarına göre, hak ve nesafet uygulamasına göre kira parası tespit edilirken; öncelikle tarafların tüm delilleri, varsa emsal kira sözleşmelerinin aslı veya onaylı örnekleri dosyaya alınmalı, yoksa resen emsal araştırması yapılmalı, kiralananın niteliklerine göre 3 kişilik (inşaat, mimar, mülk bilirkişi gibi) bilirkişiler kurulu oluşturularak, kiralanan taşınmaz ve taraf emsalleri tek tek gezilip, incelenerek bilirkişilerce ayrı ayrı (konumu, tarihi, kira süresi vb.) kira parasına etki eden tüm nitelikleri karşılaştırılmalı, emsal kira bedellerinin niçin somut emsal olup olmadığı, bedelinin telifi imkansız ise nedeni somut gerekçelerle açıklanmalı, dava konusu taşınmazın yeniden kiraya verilmesi (boş olarak) halinde, getirebileceği kira parasının o dönem için adil ve aşırı olmayan, hakkaniyete uygun miktarda olması gözetilmeli, bilirkişi raporu mahkemece somut gerekçeler ışığında re'sen değerlendirilmeli, hak ve nesafete uygun olarak saptanması gerekir.Kural olarak 21.11.1966 tarih ve 19/10 sayılı Y.İ.B.K uyarınca kira bedelinin tespiti davası her zaman açılabilir.
 Ancak, kira bedelinin artırılması ile ilgili olarak gönderilen ihtarname veya aynı amaç için açılan davada dava dilekçesinin tebliğ tarihi tespit edilecek kira bedelinin geçerli olacağı dönemin belirlenmesi açısından önemlidir. Anılan içtihatla benimsendiği üzere bu tebligatlardan en az birisinin tespit istenen dönem başlangıcından 15 (6098 TBK m. 345 uyarınca 30 gün) gün öncesine kadar muhatabına ulaşması gerekir. Aksi takdirde dava açılan dönem için tespit yapılamaz. Ne var ki, bu durumda da mahkeme takip eden dönem için kira tespiti istenip istenmediğini davacıdan öğrenip istem halinde takip eden dönem yönünden kira bedelini tespit etmek konumundadır.Bu ilkeler ışığında; somut olaya bakıldığında, 01.03.1997 başlangıç tarihli kira sözleşmesinde artış şartı bulunmakla davacı 13.11.2013 tarihinde açtığı dava ile 01.03.2013 tarihinden itibaren kira bedelinin tespitini isteyebilir. Ne var ki; davacı vekili 05.01.2017 tarihli celsede 01.03.2014 tarihinden itibaren kira bedelinin tespitini istemiştir.
 Bu durumda mahkemece 01.03.2014 tarihinden itibaren kira bedelinin tespitine karar verilmesi gerekirken, yazılı şekilde iddianın genişletilemeyeceği gerekçesiyle davanın reddine karar verilmesi doğru görülmemiş, bozmayı gerektirmiştir.SONUÇ: Yukarıda açıklanan esaslar gözönünde tutulmaksızın yazılı şekilde hüküm tesisi isabetsiz, temyiz itirazları bu nedenlerle yerinde olduğundan kabulü ile hükmün HUMK.nun 428.maddesi gereğince BOZULMASINA ve peşin alınan temyiz harcının istek halinde temyiz edene iadesine, 6100 sayılı HMK'nun Geçici Madde 3 atfıyla 1086 sayılı HUMK'nun 440. maddesi gereğince karar düzeltme yolu kapalı olmak üzere, 17.05.2018 gününde oybirliğiyle karar verildi.
 
 ## Yargıtay 3. HD 2018/3788 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/420234500)
+
 Kural olarak kira bedelinin tespiti davalarında Hakim kira bedelini gerek hak ve nesafete, gerekse endekse göre tespit etmeli, tespit edilen bedelin talep tarihinde ödenen bedelden az olması halinde ödenen bedele hükmedilmelidir. Taraflar arasındaki kira sözleşmesinin başlangıç tarihine göre, yeni dönem kira parasının 18.11.1964 gün ve 2/4 sayılı Yargıtay İçtihadı Birleştirme Kararı gereğince Hâkim tarafından hak ve nesafet kurallarına göre saptanması gerekir. Hak ve nesafete uygun kira belirlenirken en son ödenen aylık kira bedeline endekse (ÜFE) göre artış yapılarak belirlenen kiradan daha düşük olmayacak şekilde taşınmazın boş olarak kiraya verilmesi halinde getirebileceği brüt kira bedelinden, davalının eski kiracı olduğu gözetilerek hakkaniyete uygun bir miktarda indirim yapılması gerekir.
 
 ## Yargıtay 3. HD 2018/3737 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/420303200)
 
 Kabule göre de; hüküm tarihinde yürürlükte bulunan Avukatlık Asgari Ücret Tarifesinin 9. maddesinde " Tahliye davalarında bir yıllık kira bedeli tutarı, kira tespiti ve nafaka davalarında tespit olunan kira bedeli farkının veya hükmolunan nafakanın bir yıllık tutarı üzerinden Tarifenin üçüncü kısmı gereğince hesaplanacak miktarın tamamı, avukatlık ücreti olarak hükmolunur. Bu miktarlar, Tarifenin ikinci kısmının ikinci bölümünde davanın görüldüğü mahkemeye göre belirlenmiş bulunan ücretten az olamaz." düzenlemesi nazara alınmadan fazla miktarda vekalet ücreti takdir edilmesi de doğru değildir.
 
 ## Yargıtay 3. HD 2018/3343 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/419928900)
+
 Davalının artışın başlangıç tarihine ilişkin temyiz itirazlarına gelince; Hükme esas alınan 27.07.2005 başlangıç tarihli ve üç ay süreli kira sözleşmesi konusunda taraflar arasında bir uyuşmazlık bulunmamaktadır. Sözleşmede aylık kira bedeli 300 TL olarak belirlenmiş ve artış şartı öngörülmüştür. Sözleşme süresi 27.10.2005 tarihinde sona ermiş olup sözleşme 6570 Sayılı Kanun'un 11. (TBK'nun 347. ) maddesine göre yıldan yıla aynı şartlarda yenilenmiştir. Bu durumda yeni dönem kira başlangıç tarihinin 27.10.2011 olması nedeniyle bu tarihten itibaren kira bedelinin tespitine karar verilmesi gerekirken 27.07.2011 tarihinden itibaren kira bedelinin tespiti doğru değil ise de bu yanlışlığın düzeltilmesi için hükmün bozularak yeniden yargılama yapılmasında fayda görülmediğinden hüküm fıkrasında kira bedelinin artış tarihine ilişkin " ...27.07.2011..." olarak yazılan tarihin hükümden çıkartılarak, yerine “27.10.2011” tarihinin yazılması sureti ile hükmün 6100 sayılı HMK'ya 6217 Sayılı Kanunla eklenen geçici 3. madde hükmü gözetilerek HUMK.nın 438.maddesi uyarınca düzeltilmesine ve bu düzeltilmiş şekli ile onanmasına karar verilmesi gerekmiştir.
 
 ## Yargıtay 3. HD 2018/3208 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/419993000)
 
 18.11.1964 gün ve 2/4 sayılı .... ve yerleşik Yargıtay uygulamalarına göre “hak ve nesafet” ilkesi uyarınca kira bedelinin tespitinde öncelikle tarafların tüm delilleri varsa emsal kira sözleşmeleri aslı veya onaylı örnekleri dosyaya alınmalı, kiralananın niteliklerine göre üç
 
@@ -133,13 +177,19 @@ Bilirkişilerce bu belirleme yapılırken benzer yerlerin kira sözleşmeleri in
 
 ## Yargıtay 3. HD 2018/3010 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/419800100)
+
 Olayımızda; 01.10.2013 tarihinden itibaren kira bedelinin tespiti istenmiş, Mahkemece, kira parasının 2012 Eylül ve 2013 Eylül ayları ÜFE endeksi farkına göre hesaplanan bilirkişi raporu doğrultusunda davanın kısmen kabulü ile brüt 51.527 TL olarak tespitine karar verilmiştir. Ancak taraflar tacir olduğundan 6098 Sayılı TBK'nun 344. maddesi yerine sözleşme hükümlerine göre kira bedelinin tespiti gerektiği gibi, TBK'nun 344. maddesine göre de; kira parasının tespitinde uygulanması gereken ÜFE oranın 12 aylık ortalama değişim oranına göre belirlenmesi gerekmektedir. Bu nedenle talebin sözleşmede belirtilen artış şartına göre değerlendirilmesi gerekirken hatalı bilirkişi raporuna göre kira bedelinin tespitine karar verilmiş olması isabetli değildir.
 
 ## Yargıtay 3. HD 2018/1949 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/419673500)
+
 01.07.2012 tarihinde yürürlüğe giren 6098 Sayılı Türk Borçlar Kanunun kira parasının tespitine ilişkin 344 maddesinde” Taraflarca bu konuda bir anlaşma yapılıp yapılmadığına bakılmaksızın, beş yıldan uzun süreli veya beş yıldan sonra yenilenen kira sözleşmelerinde ve bundan sonraki her beş yılın sonunda, yeni kira yılında uygulanacak kira bedeli, hâkim tarafından üretici fiyat endeksindeki artış oranı, kiralananın durumu ve emsal kira bedelleri göz önünde tutularak hakkaniyete uygun biçimde belirlenir. Her beş yıldan…
 
 ## Yargıtay 3. HD 2018/1757 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/409783600)
 
 2016 yılı Avukatlık Asgari Ücret Tarifesi 9. maddesi, "Tahliye davalarında bir yıllık kira bedeli tutarı, kira tespiti ve nafaka davalarında tespit olunan kira bedeli farkının veya hükmolunan nafakanınnın bir yıllık tutarı üzerinden Tarifenin üçüncü kısmı gereğince hesaplanacak miktarın tamamı, avukatlık ücreti olarak hükmolunur. Bu miktarlar, Tarifenin ikinci kısmının ikinci bölümünde davanın görüldüğü mahkemeye göre belirlenmiş bulunan ücretten az olamaz." şeklinde, 6. maddesi ise, "Anlaşmazlık, davanın konusuz kalması,
 
@@ -147,19 +197,27 @@ feragat, kabul, sulh veya herhangi bir nedenle; ön inceleme tutanağı imzalan�
 
 ## Yargıtay 3. HD 2018/1045 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/406570400)
+
 Davada dayanılan ve hükme esas alınan 01.04.1976 başlangıç tarihli ve 3 yıl süreli kira sözleşmesinin varlığı konusunda taraflar arasında uyuşmazlık bulunmamaktadır. Davacılar, 17.03.2014 tarihinde davalı şirket aleyhinde başlattıkları icra takibi ile; ... 1. Sulh Hukuk Mahkemesinin 2006/19 Esas 2012/1425 Karar sayılı kira bedelinin tespiti kararı gereği 01.04.1976 tarihli kira sözleşmesinden doğan 2005 ve 2011 yılları arası kira bedeli farkı ile 2012-2014 yılları arası ödenmeyen kira bedelleri toplamı 50.516,82-TL alacağın tahsilini istemiş, yargılama sırasında da taraflar arasında daha önce görülen kira bedeli tespit davaları ile kira alacağı davalarına ait kesinleşmiş mahkeme ilamlarını ve takibe dayanak yaptığı ... 1. Sulh Hukuk Mahkemesinin 2006/19 Esas 2012/1425 Karar sayılı ilamını sunmuştur.
 Her ne kadar Mahkemece; taraflar arasında yeni akdedilen ve pay ve paydaş çoğunluğunu teşkil eden yeni bir sözleşmenin imzalanmadığı, bu nedenle taraflar arasında müşterek mülkiyet kurallarının geçerli olduğu belirtilerek davanın reddine karar verilmiş ise de; dosya içerisinde mevcut tapu kaydının incelenmesinden davalının 16.05.1991 tarihli satış ile dava konusu taşınmazda 45198/332800 hisseli malik olduğu, taşınmazda davalı haricinde 17 paydaş daha bulunduğu, dolayısıyla davalının dava konusu taşınmazda pay satın almış olmasının mevcut kira ilişkisini sona erdirmeyeceği, nitekim takibe dayanak yapılan kira bedelinin tespiti davası ile de 01.04.1976 tarihli kira sözleşmesi değerlendirilerek 01.04.2005 tarihinden itibaren taşınmazın aylık kira bedelinin tespitine karar verildiği ve hükmün onanarak 13.02.2014 tarihinde kesinleştiği anlaşılmaktadır.
 Bu durumda Mahkemenin gerekçesinin aksine, taşınmazda müşterek mülkiyet kuralları çerçevesinde paydaşların hak ve sorumluluklarından ziyade; taraflar arasında kira ilişkisi devam ettiğinden, davacıların taşınmazda sahip oldukları pay ile ilgili olarak dava konusu talepleri hakkında değerlendirme yapılarak sonucuna göre bir karar verilmesi gerekirken, eksik inceleme ile yazılı şekilde hüküm kurulması doğru görülmemiş, bozmayı gerektirmiştir.
 
 ## Yargıtay 3. HD 2018/948 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/406698100)
+
 18.11.1964 gün ve 2/4 sayılı .... ve yerleşik Yargıtay uygulamalarına göre “hak ve nesafet” ilkesi uyarınca kira bedelinin tespitinde öncelikle tarafların tüm delilleri varsa emsal kira sözleşmeleri aslı veya onaylı örnekleri dosyaya alınmalı, kiralananın niteliklerine göre üç kişilik (inşaat-mimar, mülk bilirkişileri) bilirkişi kurulu oluşturularak bilirkişi marifetiyle kiralanan taşınmaz ve taraf emsalleri tek tek görülüp incelenmeli, res'en de emsal araştırılmalı, bilirkişilerce gerekli ölçüm ve inceleme yapılıp böylece elde edilen veriler somutlaştırılarak, dava konusu yer ile ayrı ayrı (konumu, çevresi, niteliği, kullanım şekli, kira başlangıç tarihi, kira süreleri vb.) kira parasına etki eden tüm nitelikleri karşılaştırılmalı, emsal kira bedellerinin niçin uygun emsal olup olmadığı somut gerekçelerle açıklanmalı, dava konusu taşınmazın yeniden kiraya verilmesi (boş olarak) halinde getirebileceği kira parası belirlenmeli, hakimce bu kira parası dikkate alınmak suretiyle hak ve nesafete;…
 
 ## Yargıtay 3. HD 2018/856 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/406797600)
 
 Olayımıza gelince; Kira parasının miktarına ilişkin olarak taraflar arasında bir uyuşmazlık bulunup mahkemeye müracaat edildiğine ve kira parasının dava yoluyla tespiti istenildiğine göre, kiracı olan taraf artırılması istenilen veya karar verilebilecek miktarı ve bundan daha fazlasını ödese bile dava reddedilmeyip kira bedelinin tespitine karar verilmelidir. Taraflar arasında hükmen tespit edilmiş ya da sözleşme ile kararlaştırılmış bir kira parası olmadığı için davacının yeni dönem kira parasının mahkemece tespiti ile hüküm altına alınmasını istemekte hukuki yararı vardır. Davalı tarafın tespit edilecek miktarı ödeyip ödemediği hususu dava açılmasına sebep olup olmaması ve yargılama giderlerinden sorumluluğunun belirlenmesi yönünden sonuca etkilidir. Kira sözleşmesinin başlangıcı 15.11.2008 tarihi olduğuna göre Mahkemece yapılacak iş;
 14.01.2014 tarihli bilirkişi heyeti raporunda " endeks tatbiki ile bulunan ve mecurun 15.11.2012 tarihinden geçerli kira bedelinin aylık 3.102.42.-TL olduğu hesaplanmış", dosya içerisinde bulunan dekonttan ise davalının 14.11.2012 tarihinde yatırdığı kira bedelinin 3.200.-TL olduğu anlaşıldığına göre davalı tarafından en son ödenen aylık kira bedeli olan 3.200.-TL kira bedelinin tespitine karar verilmesi gerekirken yazılı şekilde davanın reddine karar verilmesi usul ve yasaya aykırı olup bozmayı gerektirmiştir.
 
 ## Yargıtay 2. HD 2018/1421 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/406581200)
 
 Karar tarihinde yürürlükte olan Avukatlık Asgari Ücret Tarifesi'nin 9. maddesi; “Tahliye davalarında bir yıllık kira bedeli tutarı, kira tespiti ve nafaka davalarında tespit olunan kira bedeli farkının veya hükmolunan nafakanın bir yıllık tutarı üzerinden tarifenin üçüncü kısmı gereğince hesaplanacak miktarın tamamı, avukatlık ücreti olarak hükmolunur. Bu miktarlar, Tarifenin ikinci kısmının ikinci bölümünde davanın görüldüğü mahkemeye göre belirlenmiş bulunan ücretten az olamaz. Mahkemece hükmolunan yıllık nafaka miktarı üzerinden hesaplanan vekalet ücreti davanın görüldüğü mahkemeye göre belirlenmiş bulunan…

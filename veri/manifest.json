@@ -28,25 +28,25 @@
     {
       "alan": "Borçlar ve sözleşmeler",
       "baslik": "Kira Hukuku Emsal Kararlar",
-      "bayt": 5724036,
+      "bayt": 5725075,
       "dosya": "kararlar/kira.jsonl.gz",
       "kayit": 14949,
       "kod": "kira",
       "md": "md/kira/",
       "sayfa": 5668,
-      "sha256": "a1e0048455dd8d51d58c780d7fb6ba5108015d0b38fd5517d5a07b08ce65c72a",
+      "sha256": "9fe6fb2e607d921359026d5e10a1bb7b7a5c8acfb7beefea2c22e110cd62c39b",
       "surum": "V7"
     },
     {
       "alan": "Borçlar ve sözleşmeler",
       "baslik": "Adi Ortaklığa İlişkin Emsal Kararlar",
-      "bayt": 1754649,
+      "bayt": 1754715,
       "dosya": "kararlar/adi-ortaklik.jsonl.gz",
       "kayit": 2421,
       "kod": "adi-ortaklik",
       "md": "md/adi-ortaklik/",
       "sayfa": 1490,
-      "sha256": "8dcc026c7462c7851bfd4b1a0ea484ffe6594e50a95321967fe773ae350d1d63",
+      "sha256": "6b90ecfa8d47e1335a85e0f0b2f40f98ee966a437956a9460378edd67b69a305",
       "surum": null
     },
     {

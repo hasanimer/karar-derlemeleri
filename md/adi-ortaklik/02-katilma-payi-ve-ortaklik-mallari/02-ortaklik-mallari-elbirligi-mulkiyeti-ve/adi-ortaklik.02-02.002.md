@@ -22,6 +22,8 @@ uyari: "Derleyenin seçtiği alıntılardır; kararın tamamı değildir. Künye
 
 ## Yargıtay 3. HD 2014/15930 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/88418300)
+
 Adi ortaklığın tüzel kişiliği yoktur. Sözleşme veya karar ile yönetim yetkisi ortaklardan birine bırakılmamış ise, ortaklık işlerinin yönetimi bütün ortaklara aittir. Bu durumda, ortaklardan her biri, diğer ortakların iştiraki olmaksızın mumamele yapabilir. Ancak; olağan işlerin üstünde önemli tasarrufların yapılması için bütün ortakların oybirliği gerekir.
 
 Bir ortaklığın geliri ile bir taşınmaz satın alınması, önemli tasarruflardan olduğu için, öteki ortakların da muvaffakatı lazımdır. Fakat bir ortak, diğerlerinin muvaffakatı olmadan, kendi namına ve ortaklık hesabına veya kendi nam ve hesabına ortaklık geliri ile, bir taşınmaz satın alarak kendi adına tapuya tescil ettirirse, öteki ortakların bu taşınmaz üzerindeki hakları ne olacaktır? Yukarıda açıklandığı üzere, ortaklar arasında kanundan doğan bir güven ve vekalet ilişkisi bulunduğundan, burada yetkisini aşan bir vekil söz konusu olmakta ve vekaletsiz tasarruf hükümlerinin uygulanması gerekmektedir. Nitekim; Borçlar Kanununun 530.maddesinde de (6098 sayılı BK. m.628) konu, bu doğrultuda düzenlenmiş ve ortaklığı idare eden bir ortak ile diğer ortaklar arasındaki ilişkinin vekalet hükümlerine tabi olduğu, ortaklardan biri yönetim hakkına sahip olmadığı halde ortaklık hesabına hareket eder, yahut ortaklığı yöneten ortak yönetim yetkisini aşar ise, vekaleti olmadan, başkası namına tasarruf edenler hakkındaki hükümlerin uygulanacağı açıklanmıştır. Ortaklık geliri henüz taksim edilmeden onun üzerinde bütün ortakların iştirak halinde mülkiyet hakları vardır.
@@ -31,15 +33,21 @@ Dava konusu olayda;davalı ortak adına tescil edilen taşınmazın mülkiyetini
 
 ## Yargıtay 23. HD 2014/1432 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/111515400)
+
 Yükleniciler M.. A.. ve A.. K.. ile arsa sahibi Ş.. Ö.. arasında, 06.09.2007 tarihinde arsa payı karşılığı inşaat sözleşmesi düzenlenmiştir. M.. A.. ve A.. K..'nun sözleşme konusu inşaatı TBK'nın 620. ve devamı (BK 520md. ve devamı) maddelerinde düzenlenen adi ortaklık ilişkisiyle yüklendikleri anlaşılmaktadır. TBK'nın 638md. (BK 534) hükmü uyarınca, ortaklık için edinilen veya ortaklığa devredilen alacaklar ve ayni haklar, elbirliği mülkiyetine tabi olarak bütün ortaklara ait olur ve adi ortaklığa ilişkin bir alacağın talebi halinde de adi ortaklığın tüzel kişiliği bulunmadığından, tüm ortakların davada zorunlu dava arkadaşı olarak yer alması gerekir. Bu itibarla, M.. A.. dışında diğer ortak A.. K..'nun ayrı bir alacak davası açıp sonradan davasından feragat etmesi, gerek taraf teşkili gerekse de sonucu itibariyle asıl davayı etkilemez. Şu halde, asıl dava yönünden diğer adi ortak A.. K..'nun davaya dahil edilerek taraf teşkili sağlanmalıdır Bunun yanında yukarıda değinildiği üzere, ortaklığa devredilen şeyler elbirliği halinde bütün ortaklara ait olur.
 Dosyada mevcut temyiz dilekçesi ekinde ibraz edilen 11.08.2009 tarihli ve 12.08.2009 günlü iki ayrı sözleşmede, adi ortaklardan A.. K..'na inşaatı devralan dava dışı D... Limited Şirketi'nce 06.09.2007 günlü arsa payı karşılığı inşaat sözleşmesine istinaden, arsa sahibinin sözleşmeyi feshetmesinden dolayı masraflar karşılığı ödemeler yapıldığı ve bu suretle inşaat işinin Detaysal Limited Şirketi'ne devredildiği ve şantiyenin de tesliminin sağlandığı ifade edilmiştir. Nitekim, mevcut asıl ve birleşen davada sözleşmenin feshedildiği kabul edilerek alacak talebinde bulunulmuştur. Yani sözleşmenin fesihle sona erdiği hususunda tereddüt yoktur. 11.08.2009 ve 12.08.2009 günlü sözleşmelerde de arsa sahibi yararına ödemeler yapıldığı ortadadır. Adi ortaklığın ortaklarından A.. K..'na yapılan bu ödemelerin, gerçekliğinin saptanması halinde bedelin elbirliği halinde ortaklara ait olacağı açıktır. Bu durumda, ödeme hususuna ilişkin olduğu için bu aşamada dahi dikkate alınması gereken, 11.08.2009 ve 12.08.2009 günlü sözleşmelerin geçerliliği üzerinde durulup, kapsamı da değerlendirilerek bir hükme varılmalıdır.
 
 ## Yargıtay 1. HD 2013/15916 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/253688200)
+
 M.K.'nun 701–703 maddelerinde düzenlenen bu tür mülkiyetin (ortaklığın) tüzel kişiliği olmadığı gibi eşya üzerinde ortaklardan her birinin doğrudan doğruya bir hakkı da yoktur. Mülkiyet bir bütün olarak ortaklardan tümüne aittir. Başka bir anlatımla ortaklık tasfiye oluncaya kadar ortaklardan birinin ayrı mal veya hak sahipliği bulunmayıp, hak sahibi ortaklıktır. Değinilen mülkiyet türünde malikler mülkiyet payları ayrılmadığından paydaş değil, ortaktır. Bu kural, M.K.'nun 701 maddesinde (... Kanun ve kanunda öngörülen sözleşmeler uyarınca oluşan topluluk dolayısıyla mallara birlikte malik olanların mülkiyeti, elbirliği mülkiyetidir. Elbirliği mülkiyetinde ortakların belirlenmiş payları olmayıp her birinin hakkı, ortaklığa giren malların tamamına yaygındır.) biçiminde açıklanmıştır. Elbirliği (İştirak) halinde mülkiyetin bu özelliği itibariyle ortaklar arasında zorunlu dava arkadaşlığı bulunmaktadır.
 Şayet yasa veya elbirliği (iştirak) halinde mülkiyeti oluşturan anlaşmada ortaklık adına hareket etme yetkisinin kime ait olacağı belirtilmemişse, ortaklığın tasfiyesini isteme hakkı dışındaki tüm işlemlerde ortakların (iştirakçilerin) oybirliği ile karar almaları ve birlikte hareket etmeleri zorunluluğu vardır.
 
 ## Yargıtay 11. HD 2012/13687 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1062507600)
 
 Adi ortaklık tarafından açılacak davaların, iştirak halinde mülkiyet kuralları gereğince, bütün ortaklar tarafından birlikte açılması gerekir. Bütün ortaklar tarafından açılacak dava, adi ortaklık adına değil, bütün ortaklar adına açılır ve hüküm de ortaklar hakkında verilir, adi ortaklık adına hüküm verilemez. Bir başka deyişle; adi ortaklığın tüzel kişiliği bulunmadığından, ortaklar ortaklık mameleğine ilişkin bütün alacakları- kural olarak - birlikte ileri sürmelidirler, yani aktif taraf ehliyeti tüm ortaklara ait olup ortaklar arasında mecburi dava arkadaşlığı vardır. Bu itibarla, adi ortaklığı ilgilendiren haklar bakımından bütün ortakların birlikte davacı olmaları gerekir.
 
@@ -47,6 +55,8 @@ Bu açıklamadan sonra somut olaya geldiğimizde; dosya içerisinde yer alan ort
 Diğer yandan, yukarıda belirtildiği gibi adi ortaklığın tüzel kişiliği mevcut olmadığından adi ortaklık adına davayı bütün ortakların veya diğer ortaklardan bu konuda açık yetki almış idareci ortağın açması gerekir. Bu nedenle tüzel kişiliği olmayan adi ortaklığın taraf ehliyeti bulunmadığından davanın bu sebeple reddi gerekirken, yazılı şekilde davanın kabulüne karar verilmesi doğru görülmemiş, davalı vekilinin temyiz itirazlarının kabulüyle hükmün temyiz eden davalı yararına bozulmasına karar vermek gerekmiştir.
 
 ## Yargıtay 13. HD 2011/1578 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/17100200)
 
 Tarafların 21.04.1984 tarihli sözleşme ile eşit hisse İle inşaat yapımı üzerine N... İnşaat adlı adi ortaklık kurdukları, 15.11.1988 tarihli sözleşme İle de ortaklığa üçüncü bir kişi alıp 1/3'er hisseli olarak 21.11.1991 tarihine kadar yürüttükleri, üçüncü ortağın ayrılması ile tarafların eşit hisseli olarak ortaklığı yürüttükleri, 17.05.1995 tarihinde tarafların limited şirket kurdukları ve bu şirketin de fesih ve tasfiyesine ilişkin kararın kesinleştiği dosya kapsamından anlaşılmaktadır. BK'nın 538. maddesinde belirtildiği gibi tasfiye, bütün hesapların görülüp ortaklığın aktif ve pasif bütün mal varlığının belirlenip ortakların birbirleri ile alacak verecek ve ortaklıktan doğan tüm ilişkilerinin kesilmesi yoluyla ortaklığın sona erdirilmesi, malların paylaşılması ya da satış yoluyla elden çıkarılmasıdır. Ortaklık sözleşmesinde hüküm bulunduğu takdirde tasfiyenin sözleşmedeki hükümlere göre yapılması asıldır. Böyle bir hükmün bulunmaması halinde İse tasfiyenin bu defa BK'nın 539. maddesindeki sıra takip edilerek yapılması gereklidir.
 Dava konusu olayda sözleşmede tasfiye ile İlgili özel bir hüküm bulunmadığından tasfiyenin BK'nın 539. ve devamı maddelerine göre yapılması zorunlu olup, bunun için mahkemece öncelikle yönetici ortak olan davalıdan, kurulduğu tarihten itibaren ortaklığın tüm muhasebesi ile ilgili defterler ve ortaklıkla ilgili tüm belge ve faturaların ibrazı ile ortaklıkla ilgili hesap listesi istenilmeli, ortakların gerek tasfiye şekli gerekse hesap listesi üzerinde uyuştukları ve uyuşamadıkları noktalar saptanmalı, uyuşamadı ki arı noktalarda tarafların delil ve karşı delilleri sorulup toplanmalı, yönetici ortağın hesap listesi vermemesi durumunda hesap vermekten kaçındığı kabul edilmeli, bu durumda mevcut delillere göre hüküm kurulmalı, ortaklığa ait tüm gelir gider hesabı çıkarıldıktan, ortaklığın tüm aktif ve pasifi kesin olarak belirlendikten sonra ortaklığın varsa üçüncü kişilere veya kurumlara olan borçları ortaklığın aktifinden mahsup edilmeli, ortaklardan her birinin ortaklığa verdiği avanslarla, ortaklık için yapmış oldukları masraflar ve vermiş oldukları sermaye iade edilmeli, bundan sonra varsa kalan miktar ortaklar arasında paylaştırılmalı, tasfiye bu şekilde tamamlanmalıdır.
@@ -58,9 +68,13 @@ Tüm bu açıklamalar ışığında taraf iddia ve delilleri değerlendirilerek,
 
 ## Yargıtay 13. HD 2010/15957 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/775345200)
+
 Buna göre, dava konusu olayda davacı, adi ortaklık sözleşmesinin varlığının ispatı halinde, ortaklık faaliyeti sonucu elde edilen söz konusu taşınmazın kendisi adına tescilini veya aynı taşınmazların rayiç bedellerinin ödetilmesini talep edebilecektir. Ne var ki davalı, davacı ile aralarında iddia edildiği gibi bir sözleşme bulunmadığını savunarak, akdi ilişkiyi inkar etmiştir. Bu durumda davacı, söz konusu akdi ilişkinin varlığını yasal delillerle ispat etmekle yükümlüdür. Davacı ile davalı kardeş olup, HUMK.293/1 maddesi gereğince olayda tanık dinlenebilir. O halde mahkemece, tarafların iddia ve savunmaları doğrultusunda gösterecekleri tanıklar dinlenip, diğer delillerle birlikte değerlendirilmek suretiyle ayrıca adi ortaklığın tüzel kişiliği bulunmadığından açılacak böyle bir davanın bütün ortakların davada taraf olması zorunluluğu da gözetilerek, dava dışı ortak hakkında dava açılması ve bu davayla birleştirilmesi sağlanıp sonucuna göre bir hüküm kurulması gerekirken, eksik inceleme ve yanlış değerlendirme ile yazılı şekilde karar verilmiş olması, usul ve yasaya aykırı olup, bozmayı gerektirir.
 
 ## Yargıtay 13. HD 2009/11229 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/834023000)
 
 HUMK.nun 76. maddesi uyarınca davada maddi olguların açıklanması taraflara, ileri sürülen maddi olguların hukuki nitelendirilmesi ve uygulanacak yasa maddelerinin tespit edilmesi ise hakime ait bir görevdir. Dava konusu olayda davacı, tapuda davalı adına kayıtlı bulunan arsa üzerine davalı ile müştereken bina inşa ettiklerini, aralarındaki sözlü anlaşma gereğince binanın ikinci ve dördüncü katı ile zemin kattaki dükkanın yarı hissesinin kendisi adına tescili gerekirken davalı tarafından tescil işleminin yapılmadığını ileri sürerek, tescil, olmadığı takdirde ise tazminat istemiyle eldeki davayı açmış olup, davada sözleşme ilişkisine dayanmıştır. Davadaki ileri sürülüşe göre davacı tarafından varlığı iddia edilen bu sözleşme ise, Borçlar Kanununun 520 ve devamı maddelerinde düzenlenen adi ortaklık sözleşmesi olup, uyuşmazlığın da adi ortaklık hükümlerine göre çözümlenmesi gereklidir.
 
@@ -72,10 +86,14 @@ O halde mahkemece, diğer yasal delillerle kanıtlanamayan adi ortalığın ispa
 
 ## Yargıtay 15. HD 2009/2350 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/854052900)
+
 Adi ortaklardan ...’dan alacaklı olduğu iddiası ile İİK’nın 94. maddesi uyarınca, icra müdürlüğünce verilen yetkiye dayalı olarak davacı ..., yüklenici adi ortaklığa verilmesi arsa payı karşılığı inşaat sözleşmesinde kararlaştırılan (A) Bloktaki 11-12-13 ve 14 bağımsız bölüm numaralı taşınmazların, davalı arsa sahipleri adına olan tapu kayıtlarının iptâli ile adi ortaklardan ... ile ... adlarına tescilini istemiş ve yargılama sırasında dava konusu taşınmazların, kayden dava dışı üçüncü kişilere arsa sahiplerince satıldığı gerekçesiyle mahkemece, 506.000,00 TL tazminatın davalı arsa sahiplerinden tahsiline karar verilmiştir. Oysa, yukarıda da açıklandığı üzere; 08.04.2004 tarihli arsa payı karşılığı inşaat sözleşmesini yükleniciler adi ortaklığı temsilen imzalamışlardır. Borçlar Kanunu’nun 534. maddesi gereğince, bir ortağın şahsi alacaklıları, haklarını ancak ortağın adi ortaklığın tasfiyedeki payından alabilirler. İİK’nın 94. maddesi hükmü gereğince, iştirak halinde tasarruf edilen mallarda ve bu kapsamda adi ortaklık halinde tasfiye sonunda ortaklık payına isabet edecek olan tasfiye payının haczi düzenlenmiştir.
 Bu yasal nedenle, adi ortaklık konusu malların ortaklardan birinin şahsi borcu nedeniyle haczi mümkün olmadığından, ortağın, ortak maldaki ortaklık payı da böyle bir haciz nedeniyle doğrudan satılması da olanaksızdır. Haciz, ancak tasfiye sonucu borçlu ortağa düşecek paya konabilir. Somut olayda ise; böyle bir haciz işlemi yapılmamıştır. O halde, İİK’nın 94. maddesi hükmüne dayalı olarak açılan davanın mahkemece reddi yerine; davalı arsa sahiplerinin yazılı şekilde maddi tazminatla sorumlu tutulmaları doğru değildir.
 
 ## Yargıtay 13. HD 2006/15710 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/843316200)
 
 Az yukarıda da açıklandığı üzere davacı bu davasında anılan traktör yönünden adi ortaklık hukuki ilişkisine dayanmış; delil olarakta 20.12.2004 tarihli belgeyi ibraz etmiştir. Anılan belgede davalı adına trafikte kayıtlı bulunan ... Plakalı taraktörün davacı, davalı ve dışı ... arasında ortak oluduğu traktörün 1/4 hissesinin davacıya ait olduğu öngörülmüştür. Davalının imzasına ve içeriğine karşı çıkmadığı bu belge kendisini bağlar.
 
@@ -84,6 +102,8 @@ Bu tür adi ortaklık sözleşmelerinde ortaklar emek ve sermayelerini ortak bir
 Resmi şekil şartı ancak tapulu bir taşınmazın veya trafikte kayıtlı aracın mülkiyetinin sermaye olarak ortaklığa konulması halinde söz konusu olur. Öyle olunca mahkemenin resmi trafik kaydına itibar etmeksizin taraflar arasında düzenlenmiş bulunan ve davalı tarafından karşı çıkılmayan 20.12.2004 tarihli "Tutanak " başlıklı belge içeriği de gözetilmek suretiyle davaya konu traktörün 1/4 hissesinin davacıya ait olduğunun tespitine karar verilmesi gerekirken yazılı gerekçe ile davanın reddine karar verilmiş olması, usül ve yasaya aykırı olup, bozmayı gerektirir.
 
 ## Yargıtay 15. HD 2006/3370 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/856437800)
 
 BK.nun 533. maddesi gereğince, şirket işlerini idare yetkisini haiz her ortak, ortakları üçüncü şahıslara karşı temsil yetkisine de sahiptir. Bu nedenle ortaklığı, bütün ortaklar elbirliği ile yönetiyorsa bütün ortakların; bir veya birkaç ortak yönetiyorsa bu yönetici ortak veya ortakların birlikte olmak koşulu ile adi ortaklığı veya diğer ortakları temsil yetkisi bulunmaktadır. Yani iç ilişkide idare, dış ilişkide temsil yetkisine tekabül eder.
 
@@ -94,6 +114,8 @@ Adi ortaklıkta, ortaklar adına yapılan veya ortakların sonradan icazet (olur
 Yukarıda gerekçede açıklandığı üzere, adi ortaklığın feshi ve tasfiyesine ilişkin davalarda mal varlıklarının satışı ve paraya çevrilme işlemlerinin ve bu kapsamda satılan taşınmazların devri işlemlerinin yargılama devam ederken ara kararlar ile gerçekleştirileceği, tasfiye davalarında hükmün kesinleşmesinin beklenmeyeceği, bu kapsamda HMK 350/2 maddesi ile HMK 367/2 maddesinin somut olayda uygulanmayacağı hususunun Beylikdüzü Tapu Sicil Müdürlüğü'ne yazılacak müzekkerede açıkça belirtilmesine, yine yazılacak müzekkere ekine tasfiye heyetinin açık kimlik bilgileri, tasfiye heyeti 4 numaralı raporu, mahkememiz 29.04. 2026 tarihli ara kararı ile işbu ara kararımız, tasfiye heyeti atanmasına ilişkin ara karar, bahsi geçen BAM kararı, tasfiye heyeti yetkilerine ilişkin ara karar ve Tapu Kadastro Genel Müdürlüğü'nün, Adalet Bakanlığı Hukuk İşleri Genel Müdürlüğü'nün, Tapu ve Kadastro Genel Müdürlüğü İstanbul 2. Bölge Müdürlüğü'nün görüş yazılarının eklenmesine, …
 
 ## Adana BAM 9. HD 2026/1364 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1209234500)
 
 Dava, itirazın iptali istemine ilişkindir.
 
@@ -119,6 +141,8 @@ Adi Ortaklığı'nın gösterildiği, bu talebe uygun olarak da ödeme emrinin d
 
 ## Gaziantep BAM 4. HD 2025/1967 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1167501100)
+
 Dava; adi ortaklığın tasfiyesi ve alacak istemine ilişkindir.
 
 ..Asliye Hukuk Mahkemesince, uyuşmazlığın adi ortaklığın tasfiyesi olduğu, ancak davalıların birinin anonim şirket diğerinin ise davalı anonim şirketin kurucusu olduğu, adi ortaklık adına alındığı beyan edilen taşınmazların davalı şirket adına tescil edildiği, bu haliyle tasfiyesi istenen adi ortaklığın tarafların ticari işletmeleriyle ilgili olduğu, dolayısıyla görevli mahkemenin asliye ticaret mahkemesi olacağı, görev kurallarının kamu düzenine ilişkin olup yargılamanın her aşamasında mahkemece re'sen gözetilmesi gerektiği anlaşılmakla görevsizlik kararı verilmiştir.
@@ -127,10 +151,14 @@ Dava; adi ortaklığın tasfiyesi ve alacak istemine ilişkindir.
 
 ## İstanbul BAM 7. HD 2025/1562 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1156342800)
+
 Adi Ortaklığı arasında dava konusu taşınmaza ilişkin gayrimenkul satış vaadi sözleşmesi akdedildiği, taşınmazın dükkan niteliği ile davalı ... Tic. A.Ş adına tapuda kayıtlı bulunduğu sabittir. Mahkemece verilen ihtiyati tedbir kararı dava sonuçlanıncaya kadar dava konusu taşınmazın 3. kişilere satışının ve devrinin önlenmesi amacıyla verilmiş olup davadaki istemin niteliği dikkate alındığında davacı açısından geçici hukuki koruma sağlanmıştır. Davacının ihtiyati tedbir talebinin kabul edilmemesi ve davalının ihtiyati tedbirin kaldırılması talebinin bu aşamada kabulü, taşınmazın 3.kişilere satış ve devri halinde telafisi imkansız ve giderilmesi güç zararların doğmasına, yeni uyuşmazlıkların ortaya çıkmasına ve hak kaybına sebebiyet verebilecek niteliktedir. Somut olayda ihtiyati tedbirin şartları oluştuğu ve yaklaşık ispat sağlandığı, davacının noterde düzenlenen taşınmaz satış vaadi sözleşmesine dayandığı, bağımsız bölümün bedelini de ödediği, bu haliyle teminatsız olarak tedbir kararı verilmesi gerektiği anlaşılmakla; Davacının istinaf talebi hakkında HMK 353/1-b-2.
 Maddesi uyarınca duruşma yapmaksızın kesin olmak üzere karar verilmesi gerektiği kanısına varılarak aşağıdaki hüküm kurulmuştur.
 
 ## Ankara BAM 24. HD 2025/884 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1140614200)
 
 Dava, adi ortaklık tasfiye sözleşmesinden kaynaklanan tapu iptali ve tescili istemine ilişkindir.
 

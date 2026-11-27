@@ -21,17 +21,25 @@ uyari: "Derleyenin seçtiği alıntılardır; kararın tamamı değildir. Künye
 
 ## Yargıtay HGK 2021/1119 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/709900600)
+
 Anılan Kanun’un 03.06.1986 tarihli, 3297 sayılı Kanun ile değişik 28. maddesine göre “Banka ve sigorta şirketlerinin 10/6/1985 tarihli ve 3226 sayılı Finansal Kiralama Kanununa göre yaptıkları işlemler hariç olmak üzere, her ne şekilde olursa olsun yapmış oldukları bütün muameleler dolayısıyla kendi lehlerine her ne nam ile olursa olsun nakden veya hesaben aldıkları paralar banka ve sigorta muameleleri vergisine tabidir”.
 
 ## Yargıtay HGK 2021/835 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/688920100)
 
 Yapılan açıklamalar ışığında somut olay değerlendirildiğinde; davacı şirketin sigortalısı...Finansal Kiralama A.Ş. ile dava dışı ... Gıda İhtiyaç Maddeleri Su ve Meşrubat San. ve Tic. Ltd. Şti. arasında yapılan finansal kiralama sözleşmesine konu Çin’de üretilen ve ithal edilen pet şişe imalatına ilişkin makinenin Çin'den kiracının Nazilli'de bulunan fabrikasına taşındığı, anılan makinenin davacı şirket ile...Finansal Kiralama A.Ş. arasında yapılan leasing ... paket sigorta sözleşmesi kapsamında bulunduğu, davalı ile dava dışı kiracı şirket arasında yapılan sözleşme gereğince tırların üzerinde yer alan makine ve ekipmanlarının davalı tarafından 05.06.2012 tarihinde fabrika sahasına indirildiği, makinenin montaj sahasına taşınması için imalatçı Çin’li şirketin mühendislerinin beklendiği, mühendislerin gelmesi üzerine 02.07.2012 tarihinde makinenin fabrika sahasından montaj yerine taşınması sırasında halat kopması nedeniyle düşerek hasara uğradığı, bu nedenle davacı tarafından sigortalısına 594.925 USD ödeme yapıldığı anlaşılmaktadır.
 
 ## Yargıtay HGK 2021/814 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/686787200)
+
 Bu açıklamalar ışığında somut olay incelendiğinde; davalının zarar konusu olayın gerçekleştiği dere ıslah projesinde iş sahibi olduğu, anılan işin davalı tarafça ihbar olunan ortak girişime ihale edildiği, bu iş için dava dışı ... Müh. Müt. Taah. Tur. San. ve Tic. A.Ş. tarafından leasing ile kiralanan ekskavatörün davacı nezdinde sigortalandığı, 19.04.2012 tarihinde baraj kapaklarının açılması sonrasında sigorta konusu aracın zarar gördüğü, vuku bulan zarar neticesinde davacı tarafından düzenlenen leasing uzun süreli sigorta poliçesi kapsamında sigortalı dava dışı şirkete ödeme yapılıp sigortalının haklarına halef olunarak rücuen tazmin istemiyle işbu davanın ikame edildiği, davalının zarara neden olan olaya ilişkin olarak gerekli önlemleri alması için DSİ Genel Müdürlüğü 1. Bölge Müdürlüğünün 23.02.2012 tarihli yazısı ile uyarıldığı anlaşılmaktadır.
 
 ## Yargıtay 11. HD 2025/900 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1138869000)
 
 Finansal Kiralama sözleşmesi atipik bir akit olup üçlü bir ilişki içermektedir. Burada alıcı, görüp beğendiği bir malı (taşınır veya taşınmaz) satın almak için satıcı ile anlaştıktan sonra finansal kiralama şirketine müracaat ile görüp beğendiği ve satın alma iradesini bildirdiği
 
@@ -39,14 +47,20 @@ satıcıdan malın satın alınmasını ve kendisine teslimini, sonrasında da f
 
 ## Yargıtay 11. HD 2024/5568 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1063298100)
+
 Mak.A.Ş arasında doğrudan bir alım satım ilişkisi bulunmadığı, bu hususun davacı tarafça da yargılama sürecinde kabul edildiği, mülkiyeti finansal kiralama şirketine ait olan iş makinası yönünden davacının ayıplı olduğu iddiasıyla ödediği bedelin iadesi olmadığı takdirde ayıpsız misli ile değiştirilmesi yönünde her iki davalıdan da talepte bulunduğu, finansal kiralama şirketi tarafından talep ve dava hakkı kiracıya devredilmiş ise kiracının finansal kiralama şirketinin kullanabileceği hakları satıcıya karşı kullanabilmesi mümkün ise de dayanak finansal kiralama sözleşmesinin 13. maddesi hükmü ve ihbar olunan vekilinin beyanları karşısında böyle bir devrin söz konusu olmadığı, finansal kiralama şirketi tarafından davacıya yetki verilmediği gibi finansal kiralayan tarafından sözleşmenin fesih edilerek yeniden bir başka kişiye devir yapıldığı, davacının satıcı konumunda olan ... Mak..
 A.Ş.'ye karşı dava açmakta aktif husumet ehliyeti bulunmadığı, dava dilekçesinde davalı ... şirketine takas suretiyle verdiği araç bedeli nedeniyle davalıdan talepde bulunmakta iken 24.11.2021 tarihli dilekçe ile ayıplı makinenin tamir edilememesi ve ayıbın kendisine bildirilmemesi sebebiyle aracın kullanılamamasından kaynaklı olarak uğranılan zarardan müvekkiline karşı sorumlu olduğunu ileri sürdüğü davalının yetkili servis olduğu, aracın onarımını yapan yetkili servisten, finansal kiralama konusu makinenin hasarlı olması nedeniyle talep hakkı bulunmadığından davalı ... hakkındaki davanın pasif husumet ehliyeti yokluğu nedeniyle reddine karar verilmiştir.
 
 ## Yargıtay 11. HD 2024/4180 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1054976400)
+
 Finansal kiralama ile sigortalısından alınan makinelerin davalının zilyetliğinde iken yangına maruz kalarak hasar görmesiyle sonuçlanan süreçte, dava dışı sigortalının eylemlerinden sorumlu olduğu davalının 6102 sayılı Kanun'un 1429 uncu maddesi hükmü anlamında kasti davranışlarından bahsedilmesine olanak bulunmamaktadır. Ayrıca ... sigortası kapsamında Yangın Sigortası Genel Şartların A-4 maddesinde belirtilen ve zararın teminat dışında kalmasını gerektiren hallerin somut olayda söz konusu olmadığı da açıktır.
 
 ## Yargıtay 11. HD 2024/1138 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1018347500)
 
 Alınan ek raporda ise finansal kiralama sözleşmesine konu aracın 13.11.2009 tarihinde yanarak kullanılamaz ve geri kazanılamaz hale geldiği, bu durumda taraflar arasındaki sözleşmenin ifasının ortadan kalktığı, bu noktada yürütülen muhasebe işleminin cari döneme ilişkin kiralayanın borçlarının tahsilatı ile sınırlı olduğu, bu işlemlerde sigorta şirketinden alınan tazminat ve hurdaya ayrılan aracın satış bedelinin de finansal kira borçlarına mahsup edildiğinin 29.04.2010 tarihli muhasebe kayıtlarından görüldüğü, bunun sonrasında ise finansal kiralama şirketinin kiralayanı borç altına sokacak şekilde yürüttüğü her türlü finansal yükümlülüğün sözleşmenin son bulması ve ... anlamda bir fayda ve
 
@@ -54,28 +68,40 @@ maliyet söz konusu olmadığından (sebepsiz zenginleşme) hükümsüz ve geçe
 
 ## Yargıtay 3. HD 2023/2925 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/984090600)
+
 Sözü edilen adi ortaklık sözleşmesinde; leasing davalı adına tahsis edildiği için vergi dairesine işletme sahibi olarak kaydı yapıldığı, her türlü vergi, muhtasar vesair unvan altındaki masrafların ortaklık tarafından karşılanacağı, ortaklığın tüm masrafları düştükten sonra karın eşit şekilde paylaşılacağı ve traktör ile balya makinelerinin borcu ödendikten sonra mülkiyetlerinin yarısının davacı üzerine geçirileceği kararlaştırılmıştır. Mahkemece uyulan bozma ilamında da, tasfiye yapılırken davacının dava dışı satıcı firmaya yaptığı 45.000,00 TL'lik ödemenin sözleşmenin üçüncü maddesi kapsamında adi ortaklığa verilen borç mahiyetinde olduğunun gözetilmesi gerektiği belirtilmiştir.
 
 ## Yargıtay 11. HD 2023/4883 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/954625600)
 
 Bölge Adliye Mahkemesinin yukarıda tarih ve sayısı belirtilen kararı ile her ne kadar finansal kiralama sözleşmesi ekinde tesellüm belgesi bulunmakta ise de malları teslim edecek olanın satıcı şirket olduğu, satıcı şirketin sözleşmede imzasının yer almadığı gibi, tesellüm belgesinde de satıcı şirketin imzasının bulunmadığı ayrıca tesellüm belgesinde sözleşmeyle bir ilgi kurulmadığı gözetildiğinde; finansal kiralama konusu balya makinesinin satıcı tarafından finansal kiralama sözleşmesinin kiracısı olan davalı ...'a teslim edilmediği vicdani kanaatine varıldığı, bu nedenle finansal kiralama konusu teslim edilmediğinden aynen iade mümkün olmadığı takdirde bedelin iadesi ve kiralama bedelinin tahsili hükmü kurulmasının doğru olmadığı ancak sözleşmenin haklı nedenle feshedildiği hususunun yerinde olduğu gerekçesiyle davalılar ... ve ... vekilinin istinaf isteminin kısmen kabulüne, kısmen reddine, kararın kaldırılmasına, davacı ile davalı kiracı arasında düzenlenen finansal kiralama sözleşmesinin davacı tarafça haklı nedenle feshedildiğinin tespitine, davalılar ... ve ... hakkındaki diğer taleplerin reddine, finansal kiralama sözleşmesi konusu malların davalı satıcı Yılmazlar Gıda Paz.
 San. Tic. Ltd. Şti. ile davalı ...'dan alınarak davacıya aynen iadesine, aynen iadenin mümkün olmaması halinde kiralama sözleşmesine konu malların dava tarihindeki değerleri toplamı 46.750,00 TL'nin davalı satıcı Yılmazlar Gıda Paz. San. Tic. Ltd. Şti. ile davalı ...'dan dava tarihinden itibaren %126 oranında işleyecek faizi ile birlikte müştereken ve müteselsilen tahsili ile davacıya verilmesine, kira bedelinden kaynaklanan (KDV Dahil) 38.527,00 euro alacağın dava tarihinden itibaren %30 oranında işleyecek faizi ile birlikte müştereken ve müteselsilen davalılar Yılmazlar Gıda Paz. San. Tic. Ltd. Şti. ile davalı ...'dan tahsili ile davacıya verilmesine, fazlaya ilişkin istemin reddine karar verilmiştir.
 
 ## Yargıtay 11. HD 2023/1521 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/931019800)
+
 Bölge Adliye Mahkemesinin yukarıda tarih ve sayısı belirtilen kararı ile taraflar arasındaki uyuşmazlığın davalı kiracı tarafından 10546 sayılı finansal kiralama sözleşmesinin taksiti açıklaması ile banka aracılığıyla yapılan ödemelerinin davacı kiralayan tarafından yine taraflar arasında imzalanan 10853 ve 10386 sayılı iki adet finansal kiralama sözleşmesi borçlarından mahsup edilip edilemeyeceğinden kaynaklandığı, İlk Derece Mahkemesince alınan bilirkişi raporunda davalı tarafça yapılan ödemelerin her iki tarafın kayıtlarında da yer aldığının tespit edildiği, davacı vekilinin sözleşmenin 16/d maddesine göre kendisine yapılan ödemeleri diğer sözleşmelerden kaynaklanan borçlara mahsup etme yetkisi verdiğini ileri sürdüğü, davaya konu 10546 sayılı finansal kiralama sözleşmesinin "Kiralama Bedellerinin Ödenmesi ile İlgili Usul ve Esaslar" başlıklı 16. maddesinin (d) bendinde, "Ödemelerin, KİRACI'nın hangi borçlarına mahsup edileceğinin, mahsubun tarzını, sorasını tayin münhasıran KİRALAYANA aittir." hükmü bulunmakta ise de sözleşme maddesinin ancak davalının ödemelerinin 10546 sayılı sözleşmeden doğan farklı borçlardan (ödenmeyen önceki taksit, sigorta primi, hasara uğramışsa hasar
 bedeli vs) mahsup imkânı verebileceği, ancak taraflar arasındaki farklı sözleşmelerden doğan borçlardan mahsup imkânı tanımadığı, bilirkişi raporunda da açıklandığı üzere mali yönden sıkıntıya düşen davalı kiracının üç ayrı sözleşmeden doğan borçlarını tümüyle ödeyememesi halinde finansal kiralama yoluyla sahip olabileceği mallardan tercih edeceği bir ya da ikisini gözden çıkararak tercih edeceği kiralama konusu malın birinin mülkiyetini edinmek yolunu seçebileceği, bu durumda davalı kiracının ihtarnamenin tebliği ile verilen 60 günlük sürenin sonunda ödenmemiş borcunun bulunmadığı bilirkişi raporuyla tespit edildiğinden fesih ve iade koşulları gerçekleşmediğinden davanın reddine karar verilmesi yerinde olduğu gerekçesiyle davacı vekilinin istinaf başvurusunun esastan reddine karar verilmiştir.
 
 ## Yargıtay 11. HD 2022/1632 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/750233300)
 
 Dava, davacının dava dışı finansal kiralama şirketinden kiraladığı ve sigorta ettirdiği aracın davacı tarafından dava dışı 3. şahsa kiralandığı işletmede kullanılması sırasında meydana gelen hasardan dolayı ödenen tamirat bedelinin davacıya ödenmesi talebine ilişkindir. Taraflar arasındaki sigorta sözleşmesinin bizatihi finansal kiralamaya (leasing) konu iş makinesinin her türlü hasara karşı teminat altına alınmasına yönelik olduğu gözetildiğinde, poliçede finansal kiralama sözleşmesine ayrıca atıf yapılmasına gerek bulunmadığı gibi sigorta ettirenin finansal kiralamaya konu makineyi alt kiralamayacağına dair beyanda bulunması nedeniyle davacı ... ettirenin sigorta sözleşmesinin imzalanmasından sonra meydana gelen bu yöndeki değişikliği sigorta şirketine ihbarda bulunmadığı açıktır. 6102 sayılı Kanun’un 1445/5. maddesinde “..(5) Rizikonun gerçekleşmesinden sonra sigorta ettirenin ihmali belirlendiği ve değişikliklere ilişkin beyan yükümlülüğünün ihlal edildiği saptandığı takdirde, söz konusu ihlal tazminat miktarına veya bedele ya da rizikonun gerçekleşmesine etki edebilecek nitelikte ise, ihmalin derecesine göre, tazminattan veya bedelden indirim yapılır.
 Sigorta ettirenin kastı hâlinde ise meydana gelen değişiklik ile gerçekleşen riziko arasında bağlantı varsa, sigortacı sözleşmeyi feshedebilir; bu durumda sigorta tazminatı veya bedeli ödenmez. Bağlantı yoksa, sigortacı ödenen primle ödenmesi gereken prim arasındaki oranı dikkate alarak sigorta tazminatını veya bedelini öder.” düzenlemesine yer verilmiş olup, uyuşmazlığa konu aracın davacı tarafından 01.09.2018 tarihli telehandler sözleşmesi ile kiralandığı dava dışı işyerinde hasarlandığı sabit olduğuna göre yukarıda yer verilen yasa hükmü değerlendirilmeksizin karar verilmesi doğru olmamıştır.
 
 ## Yargıtay 4. HD 2022/39 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/777655700)
+
 6361 sayılı Finansal Kiralama, Faktoring, Finansman ve Tasarruf Finansman Şirketleri Kanunu’nun 23. maddesi uyarınca, finansal kiralama konusu malın mülkiyeti kiralayana aittir. Ancak taraflar sözleşmede, sözleşme süresi sonunda kiracının, malın mülkiyetini satın alma hakkını haiz olacağını kararlaştırabilir. 6361 sayılı Kanun’un 24. maddesi uyarınca, kiracı, sözleşme süresince finansal kiralama konusu malın zilyedi olup, sözleşmenin amacına uygun olarak her türlü faydayı elde etme hakkına sahiptir. 6361 sayılı Kanun’da, sigorta hariç, vergi ve diğer benzeri kamusal borçlarla ilgili bir düzenleme bulunmamaktadır. Sigorta prim borçlarıyla ilgili olarak 6361 sayılı Kanun’un 24. maddesinin 5. fıkrasında özel bir düzenleme mevcut olup, işin doğası gereği malın sigorta ettirilmesi zorunlu tutulmuş, sigorta ettirme sorumluluğunun kimde olacağı tarafların kararına bırakılmış, ancak sigorta priminin ödenmesi sorumluluğu her durumda kiracıya bırakılmıştır.
 
 ## Yargıtay 11. HD 2021/5356 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/692791300)
 
 İlk Derece Mahkemesi’nce, toplanan deliller ve bilirkişi raporlarına göre asıl davanın davacısı Yapı Kredi Finansal Kiralama A.Ş. ile davalı N.F.D Plastik ... Ltd. Şti. arasında finansal kiralama sözleşmesi düzenlendiği, davalı kiracının borçlarını ödemede temerrüde düşmesi üzerine davacı tarafından çekilen ihtarnamenin 09.02.2012 tarihinde tebliğ edildiği, ancak ödeme yapılmadığından finansal kiralama sözleşmesinin haklı nedenle feshedilmiş olduğu, davacı finansal kiralama şirketinin kiralama konusu malların aynen iadesini isteyebileceği, ancak bu mallardan bir kısmının davalı kiracıya ait işyerinde 04.02.2012 tarihinde meydana gelen yangın sonunda yanarak yok olduğu, bir kısım malların ise işyerinde bulunmadığı, davalı kiracı yanında bulunduğu, bunların da iadesi gerektiği, davalı kiracı N.F.D Plastik ... Ltd. Şti.'nin diğer davalı ...Ş. ile aralarında Endüstriyel Paket Sigorta poliçesi düzenlendiği, bu poliçe kapsamında finansal kiralama konusu malların da teminat kapsamına alındığı, sigorta poliçesinde sigortalı olarak davalı N.F.D Plastik ... Ltd.
 Şti. gösterilmiş ise de, adı geçen davalının makinelerin mülkiyet hakkına sahip olmadığı, kiracı konumunda bulunduğu, 3226 sayılı Finansal Kiralama Kanunu'nun 9. maddesi gereğince makinelerin mülkiyeti finansal kiralama şirketine ait olduğundan ve TTK'nun 1453. maddesi uyarınca menfaat sahibi olarak yanan mallara ilişkin sigorta tazminatının da finansal kiralama şirketine ödenmesi gerektiği, finansal kiralamaya konu olup yangında hasar gören makinelerin bedelinin bilirkişi ve ekspertiz raporlarında 648.454,38 TL olarak belirlendiği, davalı ...Ş. tarafından yapılan ekspertiz raporunda davalı N.F.D Plastik ... Ltd.
@@ -85,10 +111,14 @@ A.Ş. ile N.F.D Plastik ... Ltd. Şti arasında düzenlenen temliknamenin muvaza
 
 ## Yargıtay 11. HD 2021/4133 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/663714500)
+
 Gider Vergileri Kanunu'nun 28. maddesinde düzenlenen BSMV, banka ve sigorta şirketlerinin, Finansal Kiralama Kanunu'na göre yaptıkları işlemler haricinde, yapmış oldukları tüm işlemler sebebiyle kendi lehlerine aldıkları paralar nedeniyle ödemek zorunda oldukları vergilerdir. Kanun'un 30. maddesinde ise bu verginin mükellefleri ve yüklenicileri banka ve sigorta şirketleridir. Bu vergi, banka ve sigorta şirketlerinden hizmet satın alan müşterilerin ödemek zorunda oldukları bir vergi olmamakla birlikte, kira vergilerinde olduğu gibi, yapılacak bir sözleşme ile BSMV'nin müşterilere yansıtılması mümkündür. Ancak bu sözleşme sadece tarafları arasında geçerli olup, banka ve sigorta hizmeti satın alan müşterileri vergi mükellefi yapmaz. Somut olayda, taraflar arasında böyle bir sözleşme olmadığı da bellidir. Davalı, BSMV’yi davacıya yansıtma şeklindeki uygulamasını TCMB Kuruluş Kanunu 41. maddesinde yer alan kamu haznedarlığı ilişkisine ve bu maddedeki görevleri çerçevesinde ücret alma hakkına, ücrete ilişkin tarifeler yönetmeliğine dayandırmaktadır. Şu açıktır ki, kamu haznedarlığı kapsamında verilen bankacılık hizmetlerin ücretleri ayrı bir kategori oluşturur.
 BSMV bir ücret olmadığından tarifeler yönetmeliğinde yer alsa bile arada bir sözleşme ilişkisi olmadığı müddetçe davacıya yansıtılması mümkün değildir. Bu itibarla, mahkemece davacının sebepsiz olarak ödemiş olduğu BSMV tutarlarını davalıdan geri talep edebileceği kabul edilerek, miktarı yönünden hesaplama yaptırılarak işin esası hakkında karar vermek gerekirken yetersiz bilirkişi raporuna göre davanın reddine karar verilmesi doğru olmamıştır.
 
 ## Yargıtay 19. HD 2019/5432 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/560654000)
 
 Bölge Adliye Mahkemesi’nce, davacı tarafın finansal kiralama yoluyla davalı şirketten bir adet diş kazıma makinesi satın aldığı, yargılama sırasında satış bedelini finansal kiralama şirketine ödemiş olduğu için davada alacaklı sıfatını kazandığı, diş kazıma makinesinin tesliminden kısa bir süre sonra ve kısa aralıklarla sürekli arıza yaptığının servis bakım fişlerinden anlaşıldığı, dosya kapsamına göre davalı tarafından davacıya satılan diş kazıma makinesinin kurulum tarihi 20.05.2013 tarihinden itibaren kısa aralıklarla sürekli ve ciddi arıza vermesi karşısında, satılan ürünün ayıplı olduğu, ayıbın da makine çalıştırıldıktan sonra ortaya çıkmış olması nedeniyle gizli ayıp olarak nitelendirilmesi gerektiği, davacı
 
@@ -99,14 +129,20 @@ itibaren işleyecek avans faiziyle birlikte davalıdan alınarak davacıya öden
 
 ## Yargıtay 11. HD 2019/6442 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/546601600)
+
 1 - Dava, leasing sigorta poliçesine dayalı rücuen alacak davasıdır. Dosyadaki sigorta poliçesine göre sigortalı Garanti Finansal Kiralama A.Ş., sigorta ettiren ve sigorta sözleşmesine konu malzemeyi finansal kiralama yoluyla finansal kiralayan Arslanlar Taah. Ltd Şti’dir. Sigorta şirketi, leasinge konu makinenin hasar görmesi nedeniyle sigorta tazminatını sigortalı Garanti Finansal Kiralama A.Ş’ye ödemiştir. Bu durumda sigortalı ile davalı tacir olup aralarındaki ilişki ticari işletmeleri ile ilgili olduğundan uyuşmazlık ticari olup TTK’nın 5. maddesine göre davanın Asliye Ticaret Mahkemesinde görülmesi gerekir iken Asliye Hukuk Mahkemesinde görülüp neticelendirilmesi doğru olmamıştır.
 
 ## Yargıtay 13. HD 2019/8344 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/535351900)
 
 Finansal Kiralama Kanununun 3/ç maddesinde 'Finansal kiralama: Bir finansal kiralama sözleşmesine dayalı olmak koşuluyla, bu Kanun veya ilgili mevzuatı uyarınca yetkilendirilen kiralayan tarafından finansman sağlamaya yönelik olarak bir malın mülkiyetinin kira süresi sonunda kiracıya devredilmesi; kiracıya kira süresi sonunda malın rayiç bedelinden düşük bir bedelle satın alma hakkı tanınması; kiralama süresinin malın ekonomik ömrünün yüzde sekseninden daha büyük bir bölümünü kapsaması veya finansal kiralama sözleşmesine göre yapılacak kira ödemelerinin bugünkü değerlerinin toplamının malın rayiç bedelinin yüzde doksanından daha büyük bir değeri oluşturması hâllerinden herhangi birini sağlayan kiralama işlemi' olarak tanımlanmıştır.
 Yine aynı yasanın 23 ve 24. maddelerinde finansal kiralama konusu malın kiralayan şirketin mülkiyetinde olacağı, onun tarafından sigorta ettirileceği ve 25. maddesinde 'Finansal kiralama konusu malın, kiralayanın malın imalatçısı veya satıcısı ile zamanında sözleşme yapmaması veya gerekli ödemeyi zamanında yerine getirmemesi veya kiralayanın kusur ve ihmalinden kaynaklanan diğer sebepler ile kiracıya teslim edilmemesi hâlinde 11/1/2011 tarihli ve 6098 sayılı Türk Borçlar Kanununun 123, 125 ve 126 ncı madde hükümleri uygulanacağı 'ifade edilmiştir.
 
 ## Yargıtay 19. HD 2018/6762 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/469094100)
 
 Mahkemece benimsenen bilirkişi kurulu raporu doğrultusunda, taraflar arasındaki sözleşmeye göre kiralanan iş makinesinin kiralayan adına satıcıdan kiracı tarafından teslim alınmasına ilişkin yetki belgesi kapsamında malın ayıplı çıkması durumunda buna ilişkin hakların kullanılması konusunda davacıya yetki verildiği, bu çerçevede ayıba karşı tekeffül hükümleri kapsamında talep ve dava hakkının davacı tarafından satıcı davalıya karşı ileri sürülebileceği, makinenin 54 defa tamir ve bakım hizmeti aldığı, 52 adet parça değişiminin yapıldığı makinedeki ayıbın gizli ayıp niteliğinde bulunduğu, davacının ihbar külfetini yerine getirdiği, satım sözleşmesinin feshi halinde leasing sözleşmesinin konusuz kalacağı gerekçesiyle davanın kabulüne, leasing sözleşmesinin feshine, kazanç kaybı tazminatının davalılardan ... A.Ş.den alınmasına karar verilmiş, hüküm davalılar vekillerince temyiz edilmiş olup Dairemizin 14.02.2012 tarih, 2011/8032 E. - 2012/2054 K. sayılı ilamı ile " Davacı, ... Ltd.Şti.ile davalılardan ... Kiralama A.Ş.arasında 28.06.2005 tarihli Finansal Kiralama Sözleşmesi imzalanmıştır. Davacı kiracı, davasında Finansal Kiralama Sözleşmesinin feshini de talep etmiştir.
 Finansal Kiralama Kanunu’nun 23.maddesinin 2.fıkrasına göre; taraflardan birinin sözleşmeye aykırı harekette bulunduğu hallerde bu aykırılık nedeniyle diğer tarafın sözleşmenin devam ettirilmesinin beklenemeyeceği durumlarda Finansal Kiralama Sözleşmesinin feshi istenebilir. Davacı da sözleşmenin
@@ -116,15 +152,21 @@ Finansal kiralama şirketi kiracıyı temsilci tayin etmişse kiracı ayıba kar
 
 ## Yargıtay 19. HD 2017/3286 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/393471200)
+
 Finansal kiralama sözleşmesinin ana amacı kredi kullandırmaktır. Bu ana unsur dışında diğer bazı unsurları da bünyesinde bulunduran kendine özgü bir yapısı bulunan bu sözleşme 6361 sayılı Finansal Kiralama Faktoring ve Finansman Şirketleri Kanunu'nun yürürlüğünden önce isimsiz (atipik )sözleşmeler olarak tanımlanmaktaydı. Yasa yürürlüğe girdikten sonra ise kullandırma amacı taşıyan sözleşmelerden sayılmaktadır. 3226 sayılı Finansal Kiralama Kanunu'nun 26. maddesinde, finansal kiralama sözleşmelerinde Finansal Kiralama Kanunu'nda hüküm olmayan durumlarda Borçlar Kanunu'nun genel hükümlerinin, sözleşmenin niteliğine uygun düştüğü oranda da Borçlar Kanunu'nun özel hükümlerinin uygulanacağı belirtilmiştir. Bu hükmün nedeni, finansal kiralama sözleşmesinin Borçlar Kanunu'nda düzenlenen akit çeşitlerinden hiç birine uymayıp kendine özgü sözleşme türü olmasıdır.
 
 ## Yargıtay 17. HD 2017/2158 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/360115800)
 
 Davaya konu poliçe aslı dosyaya ibraz edilmemiştir. Anc... aslının bir kopyasının dosyaya eklendiği görülmektedir. Mahkemece sadece dekont ve yazışmalar üzerinden mali müşavir, sigorta h...emi ve hukukçu öğretim üyesinden aldırılan bilirkişi raporuna göre sigorta poliçesi priminin peşinatı rizikodan sonra ödendiğinden bahisle davanın reddine karar verilmiştir. Eksik inceleme ile hüküm kurulamaz. Bu durumda mahkemece, davacı, davalı
 
 ve dava dışı ... Finansal Kiralama şirketinin ticari defter ve kayıtları üzerinde HMK 222. madde doğrultusunda bilirkişi incelemesi yaptırılm... suretiyle, yukarıd...i açıklamalar ışığında poliçe aslı ve ödemeye ilişkin tüm deliller toplanar... poliçe aslının kimde olduğu, peşinatın ya da ilk primin davacı ... ettiren tarafından davalı ... şirketine ödenmek üzere dava dışı sigortalı ... Finansal Kiralama şirketine ödenip ödenmediği, dolayısıyla davalı sigortacının kaza tarihini de kapsayac... şekilde sorumluluğunun başlayıp başlamadığı, prim peşinatının rizikodan önce yatırılmaması halinde davalı sigortacının rizikoyu öğrendikten sonra primleri tahsil edip etmediği, sonrasında geri verip vermediği ve bir ihtarla da sözleşmeyi feshedip etmediği hususları araştırılar... yukarıd...i açıklamalar ışığında sonucuna göre karar verilmesi gerektiğinin gözetilmemesi doğru görülmemiştir.
 
 ## Yargıtay 17. HD 2016/10855 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/291132300)
 
 Aynı yasanın 3. maddesinde "(1) Bu Kanunun uygulanmasında; a) Bakan: Gümrük ve Ticaret Bakanını, b) Bakanlık: Gümrük ve Ticaret Bakanlığını, c) Genel Müdür: Tüketicinin Korunması ve Piyasa Gözetimi Genel Müdürünü, ç) Genel Müdürlük: Tüketicinin Korunması ve Piyasa Gözetimi Genel Müdürlüğünü, d) Hizmet: Bir ücret veya menfaat karşılığında yapılan ya da yapılması taahhüt edilen mal sağlama dışındaki her türlü tüketici işleminin konusunu, e) İthalatçı: Kamu tüzel kişileri de dâhil olmak üzere mal veya hizmetleri ya da bu malların hammaddelerini yahut ara mallarını ticari veya mesleki amaçlarla ithal ederek satım, kira, finansal kiralama veya benzeri bir yolla piyasaya süren gerçek veya tüzel kişiyi, f) Kalıcı veri saklayıcısı: Tüketicinin gönderdiği veya kendisine gönderilen bilgiyi, bu bilginin amacına uygun olarak makul bir süre incelemesine elverecek şekilde kaydedilmesini ve değiştirilmeden kopyalanmasını sağlayan ve bu bilgiye aynen ulaşılmasına imkân veren kısa mesaj, elektronik posta, internet, disk, CD, DVD, hafıza kartı ve benzeri her türlü araç veya ortamı, g) Konut finansmanı kuruluşu:
 Konut finansmanı kapsamında doğrudan tüketiciye kredi kullandıran ya da finansal kiralama yapan bankalar ile Bankacılık Düzenleme ve Denetleme Kurulu tarafından konut finansmanı faaliyetinde bulunması uygun görülen finansal kiralama şirketleri ve finansman şirketlerini, ğ) Kredi veren: Mevzuatı gereği tüketicilere kredi vermeye yetkili olan gerçek veya tüzel kişiyi, h) Mal: Alışverişe konu olan; taşınır eşya, konut veya tatil amaçlı taşınmaz mallar ile elektronik ortamda kullanılmak üzere hazırlanan yazılım, ses, görüntü ve benzeri her türlü gayri maddi malları, ı) Sağlayıcı: Kamu tüzel kişileri de dâhil olmak üzere ticari veya mesleki amaçlarla tüketiciye hizmet sunan ya da hizmet sunanın adına ya da hesabına hareket eden gerçek veya tüzel kişiyi, i) Satıcı: Kamu tüzel kişileri de dâhil olmak üzere ticari veya mesleki amaçlarla tüketiciye mal sunan ya da mal sunanın adına ya da hesabına hareket eden gerçek veya tüzel kişiyi, j) Teknik düzenleme: 29/6/2001 tarihli ve 4703 sayılı Ürünlere İlişkin Teknik Mevzuatın Hazırlanması ve Uygulanmasına Dair Kanunda yer alan tanımı, k) Tüketici: Ticari veya mesleki olmayan amaçlarla hareket eden gerçek veya tüzel kişiyi, l) Tüketici işlemi:
@@ -133,5 +175,7 @@ Mal veya hizmet piyasalarında kamu tüzel kişileri de dâhil olmak üzere tica
 kendisini üretici olarak gösteren gerçek veya tüzel kişiyi, ifade eder."şeklinde düzenlenmiştir.
 
 ## Yargıtay 19. HD 2016/10980 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/230903400)
 
 Her ne kadar mahkemece, Dairemiz bozma kararına uyularak bozma kararı doğrultusunda bir karar verilmiş ise de, dosyanın yeniden incelenmesi sonucunda somut olayda davacı kiracıya kiralayan tarafından yetki verilmediği hususunda bozma kararımızda maddi hata yapıldığı görülmüştür. Zira, ihbar edilen Koç Finansal Kiralama A.Ş. (Yapı Kredi Finansal Kiralama A.O.) vekili tarafından verilen cevap dilekçesinde kiracıya ayıp nedeniyle dava açabilmesi için yetki verildiği belirtildiği gibi dosyada örneği bulunan, düzenleme şeklinde finansal kiralama sözleşmesinin 6. sayfasında da bu konuda kiralayan tarafından kiracıya yetki verilmiş olduğu görülmüştür.

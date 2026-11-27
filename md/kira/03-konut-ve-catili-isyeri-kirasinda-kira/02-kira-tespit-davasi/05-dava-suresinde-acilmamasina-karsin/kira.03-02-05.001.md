@@ -21,8 +21,12 @@ uyari: "Derleyenin seçtiği alıntılardır; kararın tamamı değildir. Künye
 
 ## Yargıtay 3. HD 2019/6051 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/524251700)
+
 Olayımıza gelince; davalının dava konusu taşınmazı kiracı olarak kullandığı uyuşmazlık konusu değildir. 02.01.2015 tarihli 2 yıl süreli kira sözleşmesinin bitim tarihi 01.01.2017'dir ve kira bedeli endekse göre tespit edilecektir. Davacı 30.03.2016 tarihinde açtığı dava ile davalının 02.01.2015 tarihinden beri kiracı olduğunu belirterek dava tarihinden itibaren kira bedelinin tespitine karar verilmesini istemiş, davalı ise sözleşmenin devam ettiğini kira bedelinin tespitine karar verilemeyeceğini iddia etmiştir. **Her ne kadar, 30.03.2016 tarihinde açılan dava ile dava tarihinden itibaren başlayan dönem için kira bedelinin tespitine karar verilemez ise de; mahkemece, taraf beyanları dikkate alınarak bir sonraki dönem için (02.01.2017) kira bedelinin tespitini isteyip istemediği hususunun davacıya sorulmak suretiyle, istenmesi halinde bir sonraki dönem için kira bedelinin tespitine karar verilmesi gerekirken**, eksik inceleme ile yazılı şekilde davanın reddine karar verilmesi usul ve yasaya aykırı olup, bozmayı gerektirmiştir.
 
 ## Yargıtay 3. HD 2019/3016 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/515768200)
 
 Olayımıza gelince; Dava, kira bedelinin tespiti istemi olup taraflar arasında 01/01/2011 başlangıç tarihli 5 yıl süreli aylık 300 TL bedelli yazılı kira sözleşmesi bulunmaktadır. Bu kapsamda; **Dava tarihi itibariyle 5 yıllık kira süresi dolmadığından 18/06/2015 tarihinde açılan dava ile 30/04/2015 tarihinden itibaren kira parasının tespitine karar verilemez ise de yargılama sırasında 5 yıllık kira süresinin sonu olan dönemin (01/01/2016) başladığı göz önünde bulundurularak, mahkemece bir sonraki dönem için (2016-2017) kira bedelinin tespitini isteyip istemediği hususunun davacı taraftan sorularak, istemesi halinde bir sonraki dönem için hak ve nesafete göre kira parasının tespitine karar verilmesi** aksi halde davanın reddine karar verilmesi gerekirken, yanılgılı değerlendirme sonucu davanın uyarlama davası olduğu kanaati ve uyarlama şartlarının gerçekleşmediği gerekçesiyle yazılı şekilde hüküm tesisi doğru görülmemiş, bozmayı gerektirmiştir.

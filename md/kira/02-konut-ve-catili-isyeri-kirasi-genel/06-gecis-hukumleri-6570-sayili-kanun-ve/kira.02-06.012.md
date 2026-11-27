@@ -22,17 +22,25 @@ uyari: "Derleyenin seçtiği alıntılardır; kararın tamamı değildir. Künye
 
 ## Yargıtay 6. HD 2010/13034 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1064451200)
+
 6570 Sayılı Yasanın 7/c ve d maddeleri uyarınca ihtiyaç iddiasına dayalı olarak açılacak davalarda dava hakkı kural olarak kiralayana aittir. Ancak kiralayan durumunda olmayan malikin de bu davaları açabileceği içtihaden kabul edilmiştir. Kiralanan paylı mülkiyete konu ise pay ve paydaş çoğunluğunun sağlanması, elbirliği halinde mülkiyete konu teşkil ediyorsa tüm ortakların davaya katılmaları gerekir. Bu koşullar birlikte dava açma şeklinde gerçekleşebileceği gibi bir paydaş tarafından açılan davaya sonradan diğer paydaşların onaylarının alınması şeklinde de sağlanabilir. Elbirliği mülkiyetinde, ortakların davaya katılmaları sağlanamaz ise miras bırakanın terekesine temsilci atanması sağlanarak temsilci huzuruyla dava yürütülür. Dava hakkına ilişkin olan bu hususların mahkemece kendiliğinden göz önünde bulundurulması gerekir.
 
 ## Yargıtay 3. HD 2010/18781 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/970235900)
 
 Bu durumda taşınmazı 2009 yılı Temmuz ayında tahliye ettiğini davacı kanıtlamıştır. Mahkemece, kira sözleşmesi 6570 sayılı Kanunun 11. maddesinde öngörülen şekilde davacı tarafından süresinde fesih ihbarında bulunulmadığından, dolayı 1 yıl sure ile yenilenmiş olduğunun kabulü ile davanın reddine karar verilmiş ise de anılan kira sözleşmesinde kiracıya üç ay önceden yazılı olarak ihbarda bulunarak sözleşmeyi fesih ve tahliye hakkı tanındığına göre, 09.07.2009 tarihinde taşınmazı tahliye ... anahtarın notere teslim etmesi, sözleşmeye uygun feshi ihbar anlamındadır. Öyle olunca davacı ihtar tarihinden (24.04.2009) üç ay sonrası için (tahliye de ... olduğundan) kira bedeli ile sorumlu olup bunun dışındaki aylar kirasını davalı kiralayan davacı kiracıdan talep edemez.
 
 ## Yargıtay 6. HD 2010/11084 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1063208300)
+
 Bu durumda kiralananın Borçlar Kanununun adi kiraya ilişkin hükümlerine tabi olduğunun kabulü gerekir. Borçlar Kanununa tabi kiralananlar hakkında, 6570 Sayılı Yasanın 7/d maddesine dayanılarak dava açılamaz. Ancak, Borçlar Kanununun 262. maddesinde yazılı sürelere uyulmak suretiyle akdin feshi ve tahliyesi istenebilir.
 
 ## Yargıtay 13. HD 2010/12864 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/774524900)
 
 Davacının dayandığı kira sözleşmesi 13.3.2005 başlangıç tarihli olup, kira süresinin 12.3.2008 tarihinde sona erdiği, taraflar arasında ihtilafsızdır. Davalı, 7.12.2007 tarihli fesih bildirimi ile kiralananın sözleşme süresi sonunda boşaltılmasını, davacıdan istemiştir. 6570
 
@@ -40,27 +48,39 @@ sayılı Gayrimenkul kiraları hakkında kanunun 14.maddesinde "2490 sayılı Ar
 
 ## Yargıtay 6. HD 2010/10379 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1061866700)
+
 Davacı tarafından dayanılan ve hükme esas alınan kira sözleşmesi 01.03.1977 tarihli ve bir yıl sürelidir. Sözleşme kiracı ... ile kiralayan ... mirasçıları arasında düzenlenmiş olup ibraz edilen mirasçılık belgesine göre kiracı ...’in 05.03.1981 tarihinde öldüğü, davalının ise 6570 Sayılı Yasanın 13. Maddesi uyarınca taşınmazda kiracı olduğu anlaşılmaktadır. 6570 Sayılı Yasanın 7/ç maddesi hükmüne göre taşınmazı yeniden inşa veya imar amacıyla esaslı surette tamir tevsi ve tadilat için açılacak davaların İİK’nun 272. Maddesinin kıyasen uygulanması suretiyle kira sözleşmesinin bitimini takip eden bir ay içinde açılması gerekir. Daha önce veya bu bir aylık süre içinde sözleşmenin yenilenmeyeceğine ilişkin tahliye iradesi kiracıya bildirilmiş ise bu bildirimi takip eden dönem sonuna kadar dava açılabilir. Dava açma süresi kamu düzenine ilişkin olup davalı ileri sürmese bile mahkemece kendiliğinden göz önünde bulundurulması gerekir. Kira sözleşmesi 01.03.1977 başlangıç tarihli olup dava 06.02.1009 tarihinde açılmıştır.
 Davacı vekilince sözleşme başlangıç tarihinin 01.01.1992 olarak değiştirildiği iddia edilmiş ve sözleşmeye sonradan ilave edildiği anlaşılan “mukavele tadilatı” başlıklı yazıya dayanılmıştır. Bahsi geçen yazıda kira başlangıç tarihi olarak 1.1.1992 tarihinin esas alınacağı belirtilmiş ve "varisler adına ..." imzası ile imzalanmıştır. Mahkemece bu tarih esas alınarak davanın kabulüne karar verilmiş ise de ...’in davanın tarafı olmadığı gibi mirasçıları temsil ehliyetinin bulunduğu da kanıtlanamamıştır. Şu durumda sözleşme başlangıç tarihinin 01.01.1992 olarak kabulü olanaklı değildir. Mahkemece süresinde açılmayan davanın reddine karar verilmesi gerekirken yazılı şekilde davanın kabulüne karar verilmesi doğru olmayıp hüküm bu nedenle bozulmalıdır.
 
 ## Yargıtay 6. HD 2010/10041 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1061313200)
+
 6570 Sayılı Yasa kapsamına giren yerler için Yasanın 12. maddesi gereğince kiracı veya ... ... hakkında akde aykırılıktan dava açılabilir. Kiracı veya ... ... hakkında aralarında zorunlu dava arkadaşlığı olmadığından ayrı ayrı dava açılabileceği gibi birlikte davalı gösterilmek suretiyle de kiralanandan tahliyeleri istenebilir.Kiracının tahliyesi için daha önce kendisine süreli bir ihtarın tebliğ edilmesi, verilecek süre içerisinde kiralananın akde uygun hale getirilmesinin istenmesi ve bu ihtarın sonuçsuz kalması gerekir. Kiralayan tarafından kiracıya tebliğ ettirilecek ihtarnamede verilecek süre uygun bir süre olmalıdır. ... ... hakkında açılacak davada kendisine önceden ihtar gönderilmesi koşulu aranmaz.
 
 ## Yargıtay 6. HD 2010/9498 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1061161100)
 
 Mahkemece kiralananın 6570 Sayılı Yasa kapsamında bulunan yerlerden olduğu gerekçe gösterilerek dava reddedilmiştir. Davada dayanılan ve hükme esas alınan 4.7.2004 başlangıç tarihli ve 1 yıl süreli kira sözleşmesi konusunda taraflar arasında uyuşmazlık bulunmamaktadır. Kiralanan büfe ve çay bahçesi olarak, 400 m2 yer kiraya verilmiştir. Kiralananda 7.11.2006 tarihinde yapılan keşif sonucu alınan bilirkişi raporunda kiralanan yerin 400m2 lik çay bahçesi olduğu üzerinde 80m2’lik büfenin bulunduğu şeklinde rapor verilmiştir. 26.11.2006 tarihinde yapılan keşif sonucu alınan bilirkişi raporunda kiralanan yerin 400m2 lik çay bahçesi olduğu üzerinde yaklaşık 100m2 lik kapalı alanlı büfenin bulunduğu ancak yerin baskın vasfının çay bahçesi olduğundan Borçlar Kanunu 260 vd maddelerinin uygulanması gerektiği şeklinde rapor verilmiştir. Sözleşmeden ve kiralananda yapılan keşiflerden kiralananın 6570 Sayılı yasaya değil, Borçlar Kanunu hükümlerine tabi olduğu anlaşılmaktadır. Bu haliyle kiralananın Borçlar Kanununun adi kiraya ilişkin hükümlerine tabi olduğunun kabulü ile uyuşmazlığın bu kanun hükümlerine göre çözümlenmesi gerekir.
 Olayda 6570 Sayılı Gayrimenkul Kiraları Hakkında Kanun hükümlerinin uygulanma olanağı yoktur. Sözleşme sona ermeden 31.5.2004 ve 22.6.2004 tarihli fesih iradesini bildirir ihtarlar davalıya tebliğ edildiğine göre 7.10.2004 tarihinde açılan dava süresindedir. Dava süresinde açıldığından kiralananın tahliyesine karar vermek gerekirken yazılı gerekçe ile red kararı verilmesi doğru değildir.
 
 ## Yargıtay 6. HD 2010/9071 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1060652100)
+
 6570 Sayılı Yasanın 7/son maddesi aynı şehir veya belediye sınırları içinde kendisi veya birlikte yaşadığı eşi adına kayıtlı oturabileceği meskeni bulunan kiracının oturduğu yeri malikin isteği üzerine tahliye etmeye mecbur olduğu hükmünü içermektedir. Madde metninden de anlaşılacağı üzere bu madde üç koşul öngörmektedir. Bunlar;…
 
 ## Yargıtay 3. HD 2010/11998 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/16957500)
+
 HUMK'nın 1711 sayılı Kanunla değiştirilen 8/II-1. maddesi "kira sözleşmesine dayanan her türlü tahliye, akdin feshi yahut tespit davalarına, bu davalarla birlikte açılmış kira alacağı ve tazminat davalarına ve bunlara karşılık olarak açılan davalara" bakmaya Sulh Mahkemelerini görevli kılarken, 6570 sayılı Gayrimenkul Kiraları Hakkında Kanun'un uygulama alanı içinde kalan kiralananları amaçladığında kuşku bulunmamaktadır. Gerçekten de, 6570 sayılı Yasa'nın 1. maddesinde bu Kanunun uygulanması için kiralanan yerin mu-sakkaf (çatılı) bir taşınmaz olması gerekmektedir. Gayrimusakkaf taşınmaz mallar ise, Borçlar Kanunu'nun hükümlerine tabidir.
 
 ## Yargıtay 6. HD 2010/7389 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1059932400)
 
 6570 Sayılı Yasa kapsamına giren bir taşınmazı iktisap eden kimse dilerse eski malik ile kiracı arasında yapılmış sözleşmeye dayanarak sözleşmenin sonunda, dilerse Yasanın 7/d maddesinde öngörülen sürelerden yararlanarak ihtiyaç nedeniyle tahliye davası açabilir. Yeni malikin bu seçeneklerden hangisi yararına ise onu tercih etme hakkı vardır. 6570 sayılı Yasanın 7/d maddesine dayanması halinde yeni malikin iktisap günü de dahil olmak üzere iktisap tarihinden itibaren bir (1) ay içinde kiralananı satın aldığını ve ihtiyacı olduğunu kiracıya bildirmesi ve yine iktisaptan itibaren iktisap günü dahil altı (6) ayın sonunda dava
 
@@ -68,17 +88,25 @@ açması gerekir. Davanın altı ayın sonunda hemen açılması şart olmayıp 
 
 ## Yargıtay 6. HD 2010/7132 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/665705700)
+
 Mahkemece ihtiyaca ilişkin hiçbir delil toplanmadan sadece 6570 Sayılı Yasa 7/d maddesine göre davanın süresinde açıldığının kabulü ile tahliye kararı verilmiştir. Taşınmazın iktisabı yalnız başına 6570 Sayılı Yasa'ya göre tahliye nedeni olmayıp davacının 6570 Sayılı Yasanın 7/b maddesinde belirtildiği gibi ihtiyaç iddiasını kanıtlaması gerekir. Bu bakımdan ihtiyaca yönelik delillerin toplaması ve ondan sonra işin esası hakkında bir hüküm kurulması gerekirken eksik inceleme ile yazılı şekilde karar verilmesi doğru değildir.
 
 ## Yargıtay 6. HD 2010/6851 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/644394500)
 
 6570 Sayılı Yasa’nın 7/son maddesine dayanılarak açılan tahliye davasında tahliye kararı verilebilmesi için davalı veya eşine ait olduğu ileri sürülen konutun kiralananla aynı şehir veya belediye hudutları içinde olması ve davalının sosyal durumu, aile nüfus sayısı itibariyle oturmasına elverişli bulunması gerekir. Bu iki koşulun bir arada bulunması zorunludur. Mücavir alanda olduğu halde belediye hududu içindeki yerlerden farksız her türlü belediye hizmetlerinden yararlanılan yerler de bu maddenin kapsamı içinde sayılır.
 
 ## Yargıtay 6. HD 2010/6533 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/16964700)
+
 6570 sayılı Yasa kapsamına giren yerler için Yasa'nın 12. maddesi gereğince kiracı veya fuzuli şagil hakkında akde aykırılıktan dava açılabilir. Kiracı veya fuzuli şagil hakkında aralarında zorunlu dava arkadaşlığı olmadığından ayrı ayrı dava açılabileceği gibi birlikte davalı gösterilmek suretiyle de kiralanandan tahliyeleri istenebilir. Kiracının tahliyesi için daha önce kendisine süreli bir ihtarın tebliğ edilmesi, verilecek süre içerisinde kiralananın akde uygun hale getirilmesinin istenmesi ve bu ihtarın sonuçsuz kalması gerekir. Kiralayan tarafından kiracıya tebliğ ettirilecek ihtarnamede verilecek süre uygun bir süre olmalıdır. Fuzuli şagil hakkında açılacak davada kendisine önceden ihtar gönderilmesi koşulu aranmaz.
 
 ## Yargıtay 3. HD 2010/9346 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/969875200)
 
 HUMK.nun 1711 sayılı kanunla değiştirilen 8/II, b, 1. md.si "kira sözleşmesine dayanan her türlü tahliye, akdin feshi yahut tesbit davalarına, bu davalarla birlikte açılmış kira alacağı ve tazminat davalarına ve bunlara karşılık olarak açılan davalara" bakmağa Sulh Mahkemelerini görevli kılarken, 6570 sayılı gayri menkul kiraları hakkında Kanunun uygulama alanı içinde kalan kiralananları amaçladığı kabul edilmektedir. 6570 Sayılı Kanunun 1. maddesiyle bu Kanunun uygulanması kiralanan yerin musakkaf (çatılı) bir taşınmaz olmasına hasredilmiştir. Esasen, gayri musakkaf yerler hakkında görev yönünden
 
@@ -86,55 +114,81 @@ bir sorun olmayıp miktar ana kuralına göre görevin tayin edileceğinde Yarg�
 
 ## Yargıtay 3. HD 2010/7817 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/968337200)
+
 Somut olayda, taraflar arasında kira ilişkisi 25.02.2005 tarihinde başlamış olup, 6570 sayılı yasanın 11. maddesi hükmü gereğince birer yıllık sürelerle yenilenmiştir. Taşınmazın, kira süresinin bitiminden 9 ay önce 14.05.2008 tarihinde boşaltıldığı tarafların kabulündedir. Kural olarak, davalı, kira sözleşmesi süresince kiraladığı taşınmazın kira bedellerinden sorumludur. Yine, taraflar arasındaki kira sözleşmesinin 8. maddesinde; kiracının “erken tahliye halinde kontrat bitim tarihine kadar olan kira bedellerini mal sahibine ödeyeceği” düzenlenmiştir.
 
 ## Yargıtay 6. HD 2010/5005 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/637273800)
+
 6570 sayılı Gayrimenkul Kiraları Hakkındaki Kanun’un 7 / a maddesi ve yerleşen içtihatlara göre tahliye taahhütnamesi sebebiyle açılan davalarda tahliye kararı verilebilmesi için taahhütnamenin sözleşmenin yapılmasından sonra, kiralananda oturulurken serbest irade ile verilmesi gerekir. Bu özellikleri taşımayan taahhüde dayanarak tahliye kararı verilmesi mümkün değildir.
 
 ## Yargıtay 6. HD 2010/4761 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/637389700)
 
 Davalının süre bitimi ve cezai şarta ilişkin temyiz itirazları yönünden ise; 6570 Sayılı Yasa Belediye sınırları içindeki musakkaf nitelikteki taşınmazlar hakkında uygulanmakta olup, 2886 Sayılı Yasa’nın 75. maddesi hükmünden ancak hazine ve belediyeler yararlanır. Zira hazine ve belediyeler bu yasa uyarınca kiraya verdikleri taşınmazlarının süre bitimi nedeniyle boşaltılmasını 2886 Sayılı Yasa’nın 75. maddesine göre mülki amirden isteyebilecekleri gibi 6570 Sayılı Yasa’nın 12. maddesine dayanarak süre bitimi nedeniyle fuzuli şagil durumuna düşen kiracının Sulh Hukuk Mahkemesi’ne başvurarak tahliyesini isteyebilirler.Hazine ve belediye dışında diğer kamu kuruluşları taşınmazlarını 2886 Sayılı Yasa uyarınca kiraya vermiş olsalar bile anılan Yasa’nın 75. maddesine dayanarak kiralananın tahliyesini sağlayamazlar. Dava konusu kiralananın okulun girişinin sağ tarafında, 16-18 m2 olup kapısının kilitli olduğu yerinde yapılan uygulamalı keşif sonucu alınan bilirkişi raporu ve hakim tarafından yapılan gözlem ile belirlenmiş olup dava konusu edilen kiralananın 6570 Sayılı Gayrimenkul Kiraları Hakkında Kanun hükümlerine tabi olduğu anlaşılmaktadır.
 Aynı yasanın 11. maddesi hükmü gereğince kiracı kira süresinin bitiminden en az onbeş gün önce kiralananı tahliye edeceğini kiralayana yazılı şekilde bildirmek suretiyle sözleşmeyi feshetmediği takdirde, sözleşme aynı şartlarla bir yıl daha uzamış sayılır. 6570 Sayılı Yasa kiralayana süre bitimi nedeniyle sözleşmeyi fesih hakkı tanımadığı gibi, 7. maddesinde de tahliye sebeplerini sınırlı olarak saymıştır. Bu yasada ve Borçlar Kanunu’nda gösterilen haller dışında tahliye kararı verilemez.
 
 ## Yargıtay 6. HD 2010/4702 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/637405800)
+
 Kiracının temerrütü BK'nun 260. maddesinde düzenlenmiştir. Bu hüküm genel nitelikte bir madde olup, Borçlar Kanunu 6570 sayılı Yasa kapsamına giren yerler için de uygulanır. Bu durumda mahkemece, temerrüt koşullarının gerçekleşip gerçekleşmediğinin araştırılarak sonucuna göre karar verilmesi gerekirken, davacının anlatımı ile ortaya konan maddi olguya yanlış anlam verilerek 6570 sayılı yasanın 7/e maddesindeki koşulları içermediğinden bahisle davanın reddine karar verilmesi doğru değildir.
 
 ## Yargıtay 6. HD 2010/4051 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/635840900)
 
 Kimlerin ihtiyacı için tahliye davası açılabileceği 6570 Sayılı Yasanın 7/b ve c maddelerinde sınırlı olarak sayılmıştır. Sözü edilen madde hükmüne göre kiralayan veya kiralayan durumunda olmayan malik ancak kendisinin, eşinin ve çocuklarının işyeri ihtiyacı için dava açabilir.
 
 ## Yargıtay 19. HD 2010/3678 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/814979200)
+
 Bu hüküm, kiracının sözleşme ile yüklendiği borçlarına aykırı davranması halinde ceza alınmasını içeren BK’nun 158. ve devamı maddeleri anlamında cezai şart niteliğindedir. 6570 sayılı Kanunun 16.maddesine aykırı sayılamaz ve tarafları bağlar. Kiracının kira sözleşmesi ile yerine getirmeyi taahhüt ettiği hususların yaptırımı olarak sözleşmede cezai şart kabul edilmesi, 6570 sayılı Yasanın 16.maddesi kapsamı dışındadır.
 
 ## Yargıtay 3. HD 2010/5246 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/967951500)
 
 18.11.1964 gün ve 2/4 sayılı Yargıtay İçtihadı Birleştirme Kararına göre, kira süresi sona erip sözleşme 6570 sayılı Yasanın 11.maddesi uyarınca yenilendiğinde yeni dönemde sözleşmenin diğer hükümlerinin yenilenmesine karşın, kira parasına ilişkin şart yenilenmemekte ve kira parası belli olmayan bir sözleşme haline gelmektedir. Mahkemece kira sözleşmesindeki bu boşluğun "hak ve nesafet" kurallarına uygun bir kira parası takdiriyle doldurulması gerekmektedir.
 
 ## Yargıtay 6. HD 2010/2723 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/630321300)
+
 6570 Sayılı Yasa kapsamına giren bir taşınmazı iktisap eden kimse dilerse eski malik ile kiracı arasında yapılmış sözleşmeye dayanarak sözleşmenin sonunda, dilerse Yasanın 7/d maddesinde öngörülen sürelerden yararlanarak ihtiyaç nedeniyle tahliye davası açabilir. Yeni malikin bu seçeneklerden hangisi yararına ise onu tercih etme hakkı vardır. 6570 sayılı Yasanın 7/d maddesine dayanması halinde yeni malikin iktisap günü de dahil olmak üzere iktisap tarihinden itibaren bir ay içinde kiralananı satın aldığını ve ihtiyacı olduğunu kiracıya bildirmesi ve yine iktisaptan itibaren iktisap günü dahil altı ayın sonunda dava açması gerekir. Davanın altı ayın sonunda hemen açılması şart olmayıp sözleşme sonuna kadar açılması mümkündür. Ancak iktisabı izleyen bir ay içerisinde ihtar tebliği zorunlu olup, bu eksikliğin sonradan giderilmesi mümkün değildir.
 
 ## Yargıtay 6. HD 2010/2724 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/630322200)
 
 Davada dayanılan ve hükme esas alınan 1.7.2007 başlangıç tarihli ve bir yıl süreli kira sözleşmesi konusunda taraflar arasında bir uyuşmazlık yoktur. bu kira sözleşmesinde kira bedelinin "dolar" olarak ödeneceği kararlaştırılmıştır. Sözleşme ise, 6570 sayılı Kanun'un 11. maddesi uyarınca yenilenmiştir. Borçlar Kanunun 83/2. maddesi uyarınca borcun yabancı para ile ödenmesinin kararlaştırılması halinde, kira parasının sözleşmeye uygun olarak yabancı para ile ödenmesi gerektiğinde şüphe yoktur. Ancak, yeni dönem kira parasının mahkemece artırılarak tespitinin istenilmesi halinde; 18.11.1964 gün ve 2/4 sayılı Yargıtay İçtihadı Birleştirme Kararında öngörüldüğü üzere kira süresi sona erdiğinden 6570 sayılı yasanın 11.maddesi uyarınca yenilenen dönemde kira sözleşmesinin diger hükümlerinin yenilenmesine karşın, kira parasına ilişkin koşul yenilenmemekte, kira sözleşmesi kira parası belli olmayan bir sözleşme haline gelmektedir. Hakim kira sözleşmesindeki bu boşluğu hak ve nesafet kurallarına uygun bir kira parası takdir etmek suretiyle doldurmaktadır. Yeni dönemde hakimin yaptığı sınırlama sonucunda belirlediği…
 
 ## Yargıtay 3. HD 2010/3005 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/635988000)
+
 Bundan ayrı yanlar arasındaki sözleşmede kiralanan yerin boş arsa olduğu açıklanmıştır. HUMK.nun 1711 sayılı kanunla değiştirilen 8/II, b, 1. md.si Sulh Mahkemelerini görevli kılarken, 6570 sayılı gayri menkul kiraları hakkında Kanunun uygulama alanı içinde kalan kiralananları amaçladığında kuşku ve duraksamaya yer olmamalıdır. Çünkü, 6570 sayılı yasanın 1. maddesiyle bu Kanunun uygulanması kiralanan yerin musakkaf (çatılı) bir taşınmaz olmasına hasredilmiştir. Esasen, gayri musakkaf yerler hakkında görev yönünden bir sorun olmayıp miktar ana kuralına göre görevin tayin edileceğinde Yargıtay İçtihatlarında sapma göstermeyen kararlılık ve görüş birliği vardır. Öte yandan kiralanan taşınmazın niteliğine bakarak çizilecek hukuki çerçevede bu kabulü zorunlu kılmaktadır. Şöyle ki; Kiraya verilen musakkaf yerlere ilişkin uyuşmazlıklara 6570 sayılı Yasa hükümleri uygulanır. Gayri musakkaf taşınmaz mallar ise Borçlar Kanunun hükümlerine tabidir.
 
 ## Yargıtay 6. HD 2010/1907 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/623143300)
 
 Davada dayanılan ve hükme esas alınan 2.8.1993 başlangıç tarihli ve onbeş yıl süreli kira sözleşmesi konusunda taraflar arasında bir uyuşmazlık bulunmamaktadır. Sözleşmede kiralanan, hastane tesis, techizat ve bütün teferruatlarıyla birlikte teslim edilmiştir. Kiralananın demirbaşlarıyla kiraya verilmesi ve kiralananın işletilmesinden elde edilecek gelirin belli bir kısmının kiralayana ödeneceğinin sözleşmede kararlaştırılması kira ilişkisinin hasılat kirası olarak nitelendirmek için yeterli değildir. Musakkaf nitelikte olan kiralananın Borçlar Kanununun hasılat kirası hükümlerine tabi olabilmesi için işletme ruhsatı ile birlikte kiraya verilmesi gerekir. Dosyaya ibraz edilen işyeri açma ruhsatı kiracılardan ... adına olup, kiralanan 6570 Sayılı Kanun hükümlerine tabidir. Bu yasanın 7.maddesinde tahliye sebepleri sınırlı olarak sayılmıştır. Anılan yasa kiralayana süre bitimi nedeniyle ve feshi ihbar yoluyla sözleşmeyi feshetmek hak ve yetkisi vermemektedir. Bu hak yasanın 11.maddesinde sadece kiracıya tanınmıştır. Kiralayan 6570 Sayılı Yasanın 7.maddesinde belirtilen sebeplerin dışında bir sebebe dayanarak tahliye talep edemez.
 Davacı kiralayan dava dilekçesinde bu sayılan sebeplerden birine dayanmadığına göre davanın kabulüne karar verilmesi doğru değildir.
 
 ## Yargıtay 6. HD 2010/1674 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/623505800)
+
 6570 Sayılı Kanunun 1.maddesinde, kiralayan ile kiracı arasındaki hukuki münasebetlerde bu kanun ile Borçlar Kanununun bu kanuna aykırı olmayan hükümlerinin tatbik olunacağı belirtilmiştir. 6570 Sayılı Kanuna tabi olan bu taşınmazda davalı kira bedellerini ödemekte temerrüde düştüğünden Borçlar Kanununun 260.maddesinin uygulanması gerekir.
 
 ## Yargıtay 13. HD 2010/1612 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/774480100)
 
 Dava konusu kiralanan alanın bulunduğu iskele tümü ile ilk maliki olan Türkiye Denizcilik İşletmeleri tarafından, davalı belediyeye 15.3.2005 tarihinde devir edilmiş, yeni malik olan davalı da 23 .11.2006 tarihli ihtarname ile kiralananın 7gün içinde boşaltılmasını davacıdan istemiştir. Bir davada ileri sürülen maddi vakıaların hukuki nitelendirmesini yapmak, uygulanacak yasa maddelerini bulup uygulamak doğrudan hakimin görevidir. (HUMK.76.md.).18.05.1955 tarihinde kabul edilen 6570 sayılı Gayrimenkul Kiraları Hakkında Kanunun 14. maddesinde “2490 sayılı Artırma, Eksiltme ve İhale Kanununa tabi olarak kiraya verilen gayrimenkuller hakkında da bu kanun hükümleri tatbik olunur.” hükmü bulunmaktadır.2886 sayılı Devlet İhale Kanunu; kamu kurumlarının satım, kira ve benzeri konularda yapacakları ihalelerin yöntemlerine, içeriklerine ve sonuçlarına ilişkin düzenlemeler taşımaktadırlar. Dolayısıyla;
 2886 sayılı Devlet İhale Kanununa göre kiraya verilen taşınmazların da (6570 sayılı Kanunun 1. maddesinde öngörülen koşulları taşımaları halinde), 6570 sayılı Kanun kapsamında olacaklarının ve bunlara ilişkin kira sözleşmeleriyle ilgili olarak, ancak 7. maddede tahdidi olarak sayılan nedenlerden birine dayanılmak ve ilam alınmak suretiyle tahliyenin sağlanabileceğinin kabulü gerekir.Somut olayda, taraflar arasındaki kira sözleşmesine konu taşınmazın nitelikleri itibariyle 6570 sayılı Kanun kapsamında bulunup, bulunmadığı (Kanunun 1. maddesinde öngörülen şekilde belediye teşkilatı olan yerlerle, iskele, liman ve istasyonlardaki örtülü taşınmazlardan olup, olmadığı) dosya kapsamından açıkça anlaşılamamaktadır. Öyle olunca;
@@ -142,16 +196,22 @@ Yerel Mahkemece öncelikle davaya konu taşınmazın (kiralananın) 6570 sayıl�
 
 ## Yargıtay 6. HD 2010/226 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/596818200)
+
 Davaya dayanak yapılan ve hükme esas alınan 1.12.1992 tarihli ve 15 yıl süreli kira sözleşmesi konusunda taraflar arasında uyuşmazlık bulunmamaktadır. Bu kira sözleşmesinde taşınmazın niteliği "akaryakıt istasyonu ve yıkama yağlama yeri" olarak belirtilmiştir. Mahkemece taşınmazın niteliği ve üstün vasfı üzerinde durulmadan taşınmazın 6570 sayılı yasaya tabi olduğu varsayımıyla koşulları oluşmayan davanın reddine karar verilmiştir. Taşınmazın kira sözleşmesinde açıklanan niteliğine göre musakkaf olup olmadığı Borçlar Kanunu'na mı yoksa 6570 sayılı yasaya mı tabi bulunduğunun
 
 belirlenmesi gerekir. Zira taşınmazın Borçlar Kanunu'na tabi olması halinde Borçlar Kanunu'nun 262. Maddesi gereğince akit süresiz hale gelmişse altı aylık dönemler için üç ay önce davalıya feshi ihbar tebliğ ettirmesi ve o dönemin sonunda da tahliye davasının açılması gerekir. Altı aylık dönemin birinde tebliğ ettirilen ihtar ancak o dönemin sonunda dava açma hakkını verir. Daha sonra ki dönem için hukuki sonuç doğurmaz. Borçlar Kanunu kapsamına giren yerlerin tahliyesi için koşulları taşıyan feshi ihbar yeterlidir. Başka bir sebep aramaya gerek yoktur. Bu nedenle mahkemece olay mahalline keşif yapılarak taşınmazın hakim vasfıyla musakkaf nitelikte bulunup bulunulmadığının bu manada Borçlar Kanunu'na mı yoksa 6570 sayılı yasaya mı tabi bulunduğunun belirlenmesi ve sonucuna göre bir karar verilmesi gerekirken yazılı şekilde hüküm kurulması doğru olmadığından hükmün bu nedenle bozulması gerekmiştir.
 
 ## Yargıtay 6. HD 2010/192 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/596820300)
+
 Davacı dava konusu taşınmazları 28.12.2007 tarihinde satın aldığını bildirerek 6570 sayılı yasanın 7/d maddesi gereğince tahliye isteminde bulunmuştur. 6570 Sayılı Kanunun 7/d maddesi gayrımenkulü Medeni Kanun hükümlerine göre iktisap eden kimseye dava hakkı tanımaktadır. Dosyada mevcut tapu kaydı ve finansal kiralama sözleşmesinden davacının tapuda malik olmadığı, taşınmazların dava dışı “Ziraat Finansal Kiralama Anonim Şirketi” adına kayıtlı olduğu, davacının bu şirketten bu yerleri finansal kiralama sözleşmesi ile kiraladığı anlaşılmıştır. Finansal kiralama sözleşmelerinin, satım ve özellikle de taksitle satımdan ayrımları vardır. Satım sözleşmesinde (BK.md.182) satıcı satım konusu nesnenin mülkiyetini alıcıya geçirim borcunu yüklenir. Finansal kiralamanın asıl amacı bu değildir; sözleşmede ayrıca kararlaştırılmış olursa, sözleşme süresi sonunda mülkiyet kiracıya geçirilir(FFK.md.9). Finansal kiralama sözleşmesinde bu sözleşmenin konusunu oluşturan malın, kiracıya teslimi mülkiyetin kiracıya geçmesi sonucunu doğurmaz; malın mülkiyeti kiralayanda kalır.
 Davada dayanılan ve dosya arasında mevcut 28.12.2007 tarihli finansal kiralama sözleşmesinde mülkiyetin kiracıya geçmesine ilişkin bir düzenleme bulunmadığı gibi açıkça mülkiyetin kiralayana ait olduğu düzenlemesi mevcuttur. Bu durumda davacı dava konusu taşınmazların maliki bulunmadığından bu davayı açma hakkı bulunmamaktadır. Dava hakkına ilişkin olan bu husus kamu düzenine ilişkin olup yargılamanın her aşamasında mahkemece kendiliğinden göz önünde bulundurulması gerekir. Mahkemece davacının dava hakkı bulunmaması nedeniyle davanın husumet sebebiyle reddine karar verilmesi gerekirken işin esasına girilerek yazılı gerekçe ile reddi doğru değil ise de bu yanlışlığın düzeltilmesi için yeniden yargılama yapılmasına gerek olmadığı anlaşıldığından sonucu itibariyle doğru olan hükmün gerekçesinin düzeltilmesine HUMK.nun 438.maddesi uyarınca hükmün düzeltilmiş bu gerekçe ile düzeltilerek ONANMASINA ve aşağıda yazılı temyiz giderinin temyiz edenden alınmasına 19.01.2010 tarihinde oybirliğiyle karar verildi.
 
 ## Yargıtay 13. HD 2009/15395 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/835802900)
 
 Kanunu’nun 94. maddesiyle yürürlükten kaldırılmış, ancak, 6570 sayılı Kanunun 14. maddesinde bu yönden bir değişiklik yapılmamış; böylece, anılan 14. madde, yürürlükte olmayan bir kanuna atıf yapan içeriğiyle varlığını sürdürmüştür. Hem 2490 sayılı Artırma, Eksiltme ve İhale Kanunu ve hem de onu yürürlükten kaldırarak aynı konuyu yeniden
 
@@ -159,27 +219,39 @@ düzenleyen 2886 sayılı Devlet İhale Kanunu; kamu kurumlarının satım, kira
 
 ## Yargıtay 1. HD 2009/13621 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/78762100)
+
 Hemen belirtilmelidir ki, dava konusu taşınmazın niteliği itibariyle 6570 sayılı Gayrimenkul Kiraları hakkındaki yasa kapsamında olduğu açıktır. Dosya kapsamı ile, taraflar arasında 01.06.1995 tarihinden itibaren kira sözleşmesinin bitim tarihi olarak kararlaştırılan 01.06.2000 tarihine kadar nizasız vaziyette kiracılık ilişkisinin devam ettiği ve dava tarihine kadar çekişmesiz olarak taşınmazın davalının kullanımında bulunduğu görülmektedir.
 
 ## Yargıtay 13. HD 2009/14247 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/837265100)
 
 Davacının davalı ile yaptığı en son kira sözleşmesi 1.4.1997 başlangıç tarihli ve 31.12.1997 bitiş tarihlidir. Davalı ... 5.12.2008 tarihli yazıyla davacının 31.12.2008 tarihine kadar taşınması tahliye etmesini istemiştir. Bir davada ileri sürülen maddi vakıaların hukuki nitelendirmesini yapmak, uygulanacak yasa maddelerini bulup uygulamak doğrudan hakimin görevidir. (HUMK.76.md.).18.05.1955 tarihinde kabul edilen 6570 sayılı Gayrimenkul Kiraları Hakkında Kanunun 14. maddesinde “2490 sayılı Artırma, Eksiltme ve İhale Kanununa tabi olarak kiraya verilen gayrimenkuller hakkında da bu kanun hükümleri tatbik olunur.” hükmü bulunmaktadır.2886 sayılı Devlet İhale Kanunu; kamu kurumlarının satım, kira ve benzeri konularda yapacakları ihalelerin yöntemlerine, içeriklerine ve sonuçlarına ilişkin düzenlemeler taşımaktadırlar. Dolayısıyla;
 2886 sayılı Devlet İhale Kanununa göre kiraya verilen taşınmazların da (6570 sayılı Kanunun 1.maddesinde öngörülen koşulları taşımaları halinde), 6570 sayılı Kanun kapsamında olacaklarının ve bunlara ilişkin kira sözleşmeleriyle ilgili olarak, ancak 7.maddede tahdidi olarak sayılan nedenlerden birine dayanılmak ve ilam alınmak suretiyle tahliyenin sağlanabileceğinin kabulü gerekir. Somut olayda, taraflar arasındaki kira sözleşmesine konu taşınmazın nitelikleri itibariyle 6570 sayılı Kanun kapsamında yani musakkaf olup olmadığı dosya kapsamından açıkça anlaşılamamaktadır. Öyle olunca; Yerel Mahkemece öncelikle davaya konu taşınmazın (kiralananın) 6570 sayılı Kanun kapsamında bulunup, bulunmadığı belirlenmek suretiyle, eğer anılan Kanun kapsamında ise bu kanun hükümlerine göre tahliye koşullarının gerçekleşip gerçekleşmediğinin değerlendirilmesi, bu kanun kapsamında değil ise şimdi ki gibi hüküm kurulması gerekirken, taşınmazın 6570 sayılı yasa kapsamında kalıp kalmadığı hususunda keşif ve bilirkişi raporu almadan eksik inceleme sonucu yazılı şekilde hüküm kurulması usul ve yasaya aykırı olup bozma gerektirir.
 
 ## Yargıtay 13. HD 2009/13711 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/836567500)
+
 Somut olayda, taraflar arasındaki kira sözleşmesine konu taşınmazın nitelikleri itibariyle 6570 sayılı Kanun kapsamında bulunup bulunmadığı (Kanunun 1. maddesinde öngörülen şekilde belediye teşkilatı olan yerlerle, iskele, liman ve istasyonlardaki örtülü taşınmazlardan olup, olmadığı) dosya kapsamından açıkça anlaşılamamaktadır. Öyle olunca; Yerel Mahkemece öncelikle davaya konu taşınmazın (kiralananın) 6570 sayılı Kanun kapsamında bulunup bulunmadığı belirlenmek suretiyle, eğer anılan Kanun kapsamında ise bu kanun hükümlerine göre tahliye şartlarının gerçekleşip gerçekleşmediğinin değerlendirilmesi, bu kanun kapsamında değil ise mevcut karar gibi hüküm kurulması gerekirken, taşınmazın 6570 sayılı yasa kapsamında kalıp kalmadığı hususunda keşif yapılmadan ve bilirkişi raporu alınmadan eksik inceleme sonucu yazılı şekilde hüküm kurulması usul ve yasaya aykırı olup,bozmayı gerektirir…
 
 ## Yargıtay 13. HD 2009/13426 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/836091700)
 
 Bir davada ileri sürülen maddi vakıaların hukuki nitelendirmesini yapmak, uygulanacak yasa maddelerini bulup uygulamak doğrudan hakimin görevidir.(HUMK.76 md)18.05.1995 tarihinde kabul edilen 6570 sayılı Gayrimenkul Kiraları Hakkında Kanunun 14.maddesinde “2490 sayılı Artırma, eksiltme ve İhale Kanuna tabi olarak kiraya verilen gayrimenkuller hakkında da bu kanun hükümleri tatbik olunur.”hükmü bulunmaktadır.2886 sayılı devlet ihale kanunu, kamu kurumlarının satım, kira ve benzeri konularda yapacakları ihalelerin yöntemlerine, içeriklerine ve sonuçlarına ilişkin düzenlemeler taşımaktadırlar. Dolayısıyla 2886 sayılı Devlet İhale kanununa göre kiraya verilen taşınmazların da (6570 Sayılı Kanunun 1.maddesinde öngörülen koşulları taşımaları halinde),6570 sayılı kanun kapsamında olacaklarının ve bunlara ilişkin kira sözleşmeleriyle ilgili olarak, ancak 7.maddede tahdidi olarak sayılan nedenlerden birine dayanılmak ve ilam alınmak suretiyle tahliyenin sağlanabileceğinin kabulü gerekir.
 Somut olayda kira sözleşmesine konu taşınmazın nitelikleri itibariyle mahkemece keşif yapıldığı ve bilirkişi raporunda belirtildiği üzere çatılı (musakkaf) yerlerden olduğu ve 6570 sayılı kanuna tabi olduğu açıklanmıştır. dava konusu taşınmaz 6570 sayılı kanun kapsamında kaldığından bu kanun hükümlerine göre tahliye koşullarının gerçekleşip gerçekleşmediğinin değerlendirilmesi gerekir.(Hukuk Genel kurulunun 2009/13-289 esas, 2009/321 karar sayılı kararı da bu yöndedir.) Mahkemece, büfenin musakkaf nitelikte bulunduğunun bilirkişi raporu ile belirlenip, bu nedenle 6570 sayılı kanuna tabi olduğu düşünülerek mahkemece davanın kabulü kararının onanmasına karar verilmesi gerekirken Zuhulen bozulduğu anlaşıldığından, davacının karar düzeltme talebinin kabulüne ve Dairemizin 8.06.2009 tarih ve 2008/16122 esas,2009/7806 karar sayılı bozma kararının kaldırılmasına karar verilmesi gerekmiştir.
 
 ## Yargıtay 13. HD 2009/12934 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/834729700)
+
 Davacının dayandığı kira sözleşmesi 1.12.2002 başlangıç tarihli ve üç yıl sürelidir. Davalı, 13.10,.2008 tarihli ihtarname ile kiralananın sözleşme süresi sonunda boşaltılmasını, davacıdan istemiştir. 6570 sayılı Gayrimenkul Kiraları Hakkında Kanunun 14.maddesinde “2490 sayılı Artırma Eksiltme ve İhale Kanununa…
 
 ## Yargıtay 13. HD 2009/12631 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/834154400)
 
 Dava konusu kiralanan alanın bulunduğu park tümü ile İl Özel İdaresi tarafından, davalı belediyeye 3.3.2008 tarihinde tahsis edilmiştir.Davalı ... bu tahsisten önce 26.7.2006 tarihli ihtarname ile kiralananın 15 gün içinde boşaltılmasını davacıdan istemiştir. Bir davada ileri sürülen maddi vakıaların hukuki nitelendirmesini yapmak, uygulanacak yasa maddelerini bulup uygulamak doğrudan hakimin görevidir. (HUMK.76.md.).18.05.1955 tarihinde kabul edilen 6570 sayılı Gayrimenkul Kiraları Hakkında Kanunun 14. maddesinde “2490 sayılı Artırma, Eksiltme ve İhale Kanununa tabi olarak kiraya verilen gayrimenkuller hakkında da bu kanun hükümleri tatbik olunur.” hükmü bulunmaktadır.2886 sayılı Devlet İhale Kanunu; kamu kurumlarının satım, kira ve benzeri konularda yapacakları ihalelerin yöntemlerine, içeriklerine ve sonuçlarına ilişkin düzenlemeler taşımaktadırlar. Dolayısıyla;
 2886 sayılı Devlet İhale Kanununa göre kiraya verilen taşınmazların da (6570 sayılı Kanunun 1. maddesinde öngörülen koşulları taşımaları halinde), 6570 sayılı Kanun kapsamında olacaklarının ve bunlara ilişkin kira sözleşmeleriyle ilgili olarak, ancak 7. maddede tahdidi olarak sayılan nedenlerden birine dayanılmak ve ilam alınmak suretiyle tahliyenin sağlanabileceğinin kabulü gerekir.Somut olayda, taraflar arasındaki kira sözleşmesine konu taşınmazın nitelikleri itibariyle 6570 sayılı Kanun kapsamında yani musakkaf olup olmadığı dosya kapsamından açıkça anlaşılamamaktadır. Öyle olunca; Yerel Mahkemece öncelikle davaya konu taşınmazın (kiralananın) 6570 sayılı Kanun kapsamında bulunup, bulunmadığı belirlenmek suretiyle, eğer anılan Kanun kapsamında ise bu kanun hükümlerine göre tahliye koşullarının gerçekleşip gerçekleşmediğinin değerlendirilmesi, bu kanun kapsamında değil ise şimdi ki gibi hüküm kurulması gerekirken, taşınmazın 6570 sayılı yasa kapsamında kalıp kalmadığı hususunda keşif ve bilirkişi raporu almadan eksik inceleme sonucu yazılı şekilde hüküm kurulması usul ve yasaya aykırı olup bozma gerektirir.

@@ -22,9 +22,13 @@ uyari: "Derleyenin seçtiği alıntılardır; kararın tamamı değildir. Künye
 
 ## Yargıtay 3. HD 2015/3389 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/139985700)
+
 Adi ortaklık sözleşmesi, geçerlilik yönünden herhangibir şekle tabi olmayıp, sözlü yapılan adi ortaklık sözleşmesi geçerli ise de; inkarı halinde, bu ortaklığın var olduğunu ileri süren kişinin bu ortaklığı, uygulanması gerekli HUMK'nun 287-288 ve 290 maddeleri gereğince (yasal sınır aşıldığından) ispat etmesi gerekir.
 
 ## Yargıtay 15. HD 2015/1088 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/180302100)
 
 Dava eser sözleşmesinden kaynaklanan alacağın tahsili istemine ilişkindir.
 
@@ -35,11 +39,15 @@ Hal böyle olunca davalı yüklenici iş ortaklığı hakkında açılan davanı
 
 ## Yargıtay 3. HD 2014/4859 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/88320200)
+
 MK'nun 6.maddesi gereğince "Kural olarak, herkes iddiasını ispat etmekte mükelleftir." Davacı M.. K.. murisine aralarındaki adi ortaklıkta bulunan %50 hissesinden %30'unu devrettiğini ve bedelin 150.000 TL olduğunu iddia etmiş ise de bu iddiasını kanıtlayamamıştır. Davalıların hisse devrinin bedelsiz olduğunu savunmaları karşısında , davacının murisine yaptığı hisse devrinin 150.000 TL bedelle olduğu noktasında ispat külfeti davacı taraftadır.
 
 Hal böyle olunca; mahkemece, MK'nun 6.maddesi hükmü gereğince davacının iddiasını tanık dahil her türlü delil ile ispatlayabileceği gözönünde bulundurulmalı,hükme esas alınan bilirkişi raporunda da belirtildiği üzere, davacı tarafın dava konusu adi ortaklığın diğer ortağı olan Ş.. A..'in muris M..'ya daha önce devrettiği hisse bedelleri hakkında, dosyaya ibraz etmiş olduğu hesap ekstreleri ile belirtilen tarihlerdeki banka dekontlarının ilgili banka ya da bankalardan ayrıntılı ve açıklayıcı olacak şekilde dosyaya ibrazı da sağlanmalı ve bu şekilde davacının murisi (annesi) M... ile aralarındaki adi ortaklıkta bulunan %30 hissesini 150.000 TL bedelle devredip devretmediği hususunda tüm delilleri toplanarak oluşacak sonuç dairesinde bir hüküm kurulması gerekirken, yazılı şekilde hüküm tesisi doğru görülmemiş, bozmayı gerektirmiştir.
 
 ## Yargıtay 3. HD 2014/3906 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/88103100)
 
 Yargıtay'ın yerleşmiş uygulamalarına göre; tarımsal ortakçılık(yarıcılık) da adi ortaklık olarak kabul edilmekte olup; adi ortaklık sözleşmesi geçerlilik bakımından herhangibir şekle tabi olmayıp, inkarı halinde bu ortaklığın var olduğunu ileri süren kişinin bu ortaklığın uygulanması gerekli HUMK'nun 288.maddesi gereğince ispatı gerekir.
 
@@ -47,21 +55,31 @@ Somut olayda; davacı, davalı ile adi ortaklık kurduğuna ilişkin iddiasını
 
 ## Yargıtay 3. HD 2013/10812 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/260151200)
+
 Mahkeme kararı, "...davalı tarafından akdi ilişki inkar edilmekle beraber, davalıya ait arsa üzerinde inşa edilen binada davacının bazı imalatlar yaptığı bizzat davalının da kabulündedir. Bu nedenle adi ortaklığın davalıya yöneltilecek "yemin" delili sonucunda da ispat edilememesi halinde ise "çoğun içinde azda vardır" kuralı gereğince davacının binanın yapıldığı tarih itibariyle serbest piyasa fiyatlarına göre malzeme ve işçilik bedelleri dahil olmak üzere kendisi tarafından yapılan tüm yapım masraflarının ödetilmesini talep edebileceğinin kabulü gerekir. O halde mahkemece diğer yasal delillerle kanıtlanamayan adi ortaklığın ispatı için, davacıya öncelikle bu konuda karşı tarafa yönelteceği "yemin" delili hatırlatılmalı, sonucuna göre hüküm kurulmalı, adi ortaklığın yemin delili ile de …
 
 ## Yargıtay 3. HD 2013/10538 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/260083900)
 
 Türk Medeni Kanununun 6.maddesi uyarınca, kanunda aksine bir hüküm bulunmadıkça taraflardan her biri, hakkını dayandırdığı olguların varlığını ispatla yükümlüdür. Davalı tarafın, davacı ile aralarında ortaklık kurulduğunu kabul etmiş olması ancak davacı tarafa ödenen 10.000 TL neticesinde davacının ortaklıktan ayrıldığını belirtmesi karşısında buna göre, ispat yükünün ilk önce davalı tarafa ait olup, davalının, bu savunmasını usulüne uygun delillerle ispat etmesi durumda yazılı şekilde davanın reddine; davalının bu savunmasını ispat edememesi durumunda ise, taraflar arasındaki ortaklığın tasfiyesi için yukarıda yapılan açıklamalar doğrultusunda yargılama yapılarak sonucu dairesinde hüküm kurulması gerekmektedir.
 
 ## Yargıtay 12. HD 2010/10119 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/67037900)
+
 A.Ş. ile Sistem Yap.-Bateg iş ortaklığı aleyhine kambiyo senetlerine mahsus haciz yolu ile takibe başlandığı ve 10 nolu örnek ödeme emrininde ......A.Ş. ile Ortak Girişim adına tebliğe çıkarıldığı anlaşılmaktadır. Takipte adi ortaklık aleyhine tek bir ödeme emri çıkarılmış olup, ortaklığı oluşturan şirketler adına ayrı ayrı çıkarılmış ve tebliğ edilmiş ödeme emri yoktur. B.K'nun 520. maddesine göre adi ortaklığın hükmi şahsiyeti bulunmadığından taraf ehliyeti yoktur. Taraf ehliyeti kamu düzenine ilişkin olup mahkemece re'sen dikkate alınır. Bu durumda borçlu olarak gösterilen ........A.Ş. hakkında takip yapılmasında yasaya uymayan bir yön yok ise de, şikayete konu olan İş Ortaklığı aleyhine bu şekilde takip yapılması mümkün bulunmadığından istemin kabulü ile takibin iptali yerine yerinde olmayan gerekçe ile istemin reddi doğru değildir.
 
 ## Yargıtay 3. HD 2010/9202 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/970035100)
+
 Bu belgelere ilişkin olarak davalının HUMK.nun 230 ve müteakip maddeleri uyarınca isticvap edilerek belgelerin davalının eli ürünü olduğunun anlaşılması halinde bu durum yazılı delil başlangıcı teşkil edeceğinden, ortaklığın tanık dahil her türlü delille ispatı mümkün bulunmaktadır. Bu nedenle öncelikle davalının dilekçe ekinde sunulan belgelerle ilgili olarak isticvap edilmesi, yazıların davalı eli ürünü olduğunun anlaşılması halinde; adi ortaklığı isbat zımnında taraflara delillerini bildirmeleri için imkan tanınması, gerektiğinde yemin hakkı da hatırlatılıp yapılacak araştırma sonucu ortaklığın ispatı halinde resmi mercilerden alınacak veriler baz alınarak elde edilebilecek net kazancın bilirkişi aracılığı ile belirlenerek sonuca gidilmesi, bu suretle adi ortaklığın kanıtlanamaması halinde de; HUMK.nun 293/4.maddesi hükmü uyarınca o yörede bu tür icar akitlerinin senede bağlanmaması yönünde oluşmuş ve öteden beri uyulagelmiş teamül olup olmadığı araştırılıp gerektiğinde bu konuda bilirkişi görüşüne de başvurulmalıdır. Eksik inceleme sonucu alacak iddiasının yazılı delille kanıtlanamadığı gerekçesiyle davanın reddi doğru bulunmamış, kararın bozulması gerekmiştir.
 
 ## Yargıtay 12. HD 2008/16601 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/69665400)
 
 Somut olayda, alacaklı tarafından borçlu F. A.-A.Emlak Müşavirliği Adi Ortaklığı hakkında kambiyo senetlerine mahsusu haciz yolu ile takibe başlandığı ve örnek 10 no’lu ödeme emrinin de F. A.-A. Emlak Müşavirliği Adi Ortaklığı adına tebliğe çıkarıldığı anlaşılmaktadır. İcra takibinin adi ortaklık hakkında yapıldığı alacaklı vekili tarafından verilen cevap dilekçesinde de açıkça beyan ve kabul edilmektedir. Takipte adi ortaklık adına tek bir ödeme emri çıkarılmış olup, adi ortaklığı oluşturan şahıslar adına ayrı ayrı çıkarılmış ve tebliğ edilmiş bir ödeme emri yoktur.Bu durumda adi ortaklığı oluşturan şahısların her biri yönünden ayrı takip yapıldığının kabulü mümkün değildir. Borçlar Kanununun 520.maddesine göre adi ortaklığın hükmü şahsiyeti bulunmadığından taraf ehliyeti yoktur. Bu nedenle icra takibinde adi ortakların ayrı ayrı gösterilmesi ve ayrı ayrı ödeme emri tebliği gerekmekte olup, taraf ehliyeti olmayan adi ortaklık adına tek bir ödeme emri tebliğe çıkarılıp takip yapılması usulsüzdür. Borçlar Kanununun 520.maddesine göre adi ortaklığın hükmü şahsiyeti bulunmadığından taraf ehliyeti yoktur.
 Taraf ehliyeti kamu düzeninden olup Mahkemece kendiliğinden göz önüne alınmalıdır.Öte yandan yasanın emredici kuralından kaynaklanan ve bir hakkın yerine getirilmesi ile ilgili bulunan bu husus hakkında İİK.nun 16/2.maddesi gereğince süresiz şikayet hakkı vardır. Dolayısıyla yukarıda belirtildiği şekilde adi ortaklık adına çıkarılan ödeme emrinin geçerliliği yoktur. O halde Mahkemece takibin iptali yerine yazılı gerekçe ile itirazın reddi isabetsizdir.
@@ -86,6 +104,8 @@ Tekmil dosya mündericatı birlikte değerlendirildiğinde; "...davacı taraf da
 Kayseri Genel İcra Dairesinin ...esas sayılı dosyasında davalıların yapmış olduğu itirazın iptali ile, TAKİBİN ASIL ALACAK ÜZERİNDEN DEVAMINA, 2-İşlemiş faiz bakımından itirazın iptali talebinin REDDİNE..." şeklinde karar verilmiştir.
 
 ## Adana BAM 9. HD 2026/1297 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1208997100)
 
 Dava, faturaya dayalı itirazın iptali istemine ilişkindir.
 
@@ -114,6 +134,8 @@ Adi ortaklık ilişkisi 6098 sayılı Kanun'un 620. maddesinde de tanımlandığ
 
 ## İstanbul BAM 3. HD 2026/887 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1203049100)
+
 Dava, adi ortaklık iddiasına dayalı alacak (kar payı) talebine ilişkindir.
 
 …
@@ -122,11 +144,15 @@ Böylece ,davacı tarafça adi ortaklığın varlığının yasal deliller ile i
 
 ## İstanbul BAM 13. HD 2026/529 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1199106700)
+
 Ancak taraflar arasındaki mail yazışmaları Dairemizce tek tek incelendiğinde mail yazışmalarının bir kısmının Nahçıvan-Derince arası taşımanın kordinesine ilişkin olduğu, söz konusu taşımanın fiilen davalı tarafından yapıldığı, bu hususun davacının da kabulünde olduğu, buna ilişkin navlun faturalarının davalı tarafından düzenlenerek davacıya gönderildiği ve davacı tarafından kabul edilerek ticari defterlerine kaydedildiği ve alacağından mahsup edildiği, konteyner bedellerine ilişkin ödemelerin davacı tarafından davalıya gönderildiği ve banka dekontlarının bu hususta açıklama içerdiği, yine söz konusu taşımaya ilişkin davacı tarafından davalıya ön ödeme açıklamalı olarak para gönderildiği, davacı tarafından davalının araçlarının sigortalanmadığı, davalının araçları ile taşınan tehlikeli maddenin "Tehlikeli Maddeler ve Tehlikeli Atık Zorunlu Mali Sorumluluk Sigorta Poliçesi" kapsamında sigortalandığı ve davacının kendisinin sigortalı olduğu, yani davacının kendisi lehine yasal mevzuat kapsamında söz konusu zorunlu sigortayı yaptırdığı, dosyaya sunulan mail yazışmalarının bir kısmında davacının dava dışı bir şirketten ......-....-.... olacak şekilde fiyat teklifi talep ettiği, davalı
 tarafında maillerde bilgi verilen olarak yer aldığı, 12/01/2018 tarihli mailde konu kısmında Bütçe, ekler kısmında Tehlikeli Madde Taşıma olan bilgi amaçlı mail atıldığı, ekinde gönderildiği belirtilen bu belgelerde giderlerin ve gelirlerin yazılı olduğu, sefer gideri kısmında İstanbul-Köln-İstanbul'un yer aldığı, 02/05/2018 tarihli mailde davacı tarafından davalıdan Bilecik-Almayna arası yapılacak taşıma ilişkin navlun teklifi istediği, yine davacı tarafından davalıya gönderilen 02/05/2018 tarihli mailde Konu olarak Azerbaycan'dan Sudan'a sevkiyat yazılı olduğu, taşınacak emtiaya, taşınma şekline ve sevkiyat programına ilişkin bilgi verdiği ve fiyatlarının mümkünse bir yıl boyunca geçerli sabit fiyatlar olmasını, bunun mümkün olmaması halinde fiyat eskalasyon parametrelerinin bildirilmesinin istendiği görülmekle söz konusu yazışmalardan davacının taşımaya konu emtiaların fiilen taşınması için davalı ile anlaşma görüşmeleri yaptığı, bu yazışmaların tarafların Sudan ve Kongo'dan silah taşımacılığı yapılması için adi ortaklık kurulduğunu ispatlar nitelikte olmadığı, yine davalı tarafından davacı yetkililerine verilen vekaletnamelerin gümrükteki işlemlerin yapılması için verildiğinin
 bizzat davalı tarafından beyan edildiği, vekaletnamelerin geniş yetkiler içermesinin, davalı şirket yetkilisinin davacıya taşınmaz kiralamasının, davalı tarafından para gönderilmesinin ve davalı şirket çalışanın davacı şirket yetkilisi adına tutanak tutmasının, davacının fiili taşımayı yaptırdığı dikkate alındığında davalı aracı ile taşıma yapılmasının tek başına adi ortaklık ilişkisini ispatlayan belgeler olmadığı, adi ortaklık ilişkinin yazılı deliller ile ispat edilmesi gerektiği gibi mail içerikleri dikkate alındığında tanık dinlenmesinin sonuca etkisinin bulunmadığı, yine davacı tarafından cari alacağı ve taraflar arasındaki ilişkinin taşıma ilişkisi olduğu ispat edildiğinden davalı-karşı davacıya yemin delilinin hatırlatılmasının gerek olmadığı ve sonuca etkisinin bulunmadığı anlaşılmakla davalı-karşı davacı vekilinin aksi yöndeki istinaf sebepleri yerinde görülmemiştir.
 
 ## Ankara BAM 27. HD 2026/26 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1190370400)
 
 Gayrimenkul ve İnşaat Ticaret Anonim Şirketi olduğuna en ufak şüphe bulunmadığı, müvekkil dışında bir kaşe ve imza da bulunmadığı, bununla da yetinilmeyip ticari kayıtlar , ödenen çekler , davalı tarafından kesilen faturaların ilişkinin iki taraf olduğuna karine olduğu, davalının, çekteki imzanın kendisine ait olduğunu açık , anlaşılır ve kuşkuya mahal vermeyecek şekilde kabul ettiği, yine davalının müvekkil şirkete almış olduğu avanslara binaen 5.000.000,00 TL teminat senedi dahi verdiği, müvekkili tarafından davalı/borçlunun bankada karşılığı bulunmayan alacağına ilişkin ödeme sözü vereilerek çekin bankaya ibrazını engellemiş olsa da ; bahse konu çek kambiyo vasfını yitirmiş olduğundan "yazılı delil başlangıcı" olarak nitelendirildiği ve cari hesap alacağından bahsedildiği, bu hususta müvekkilin ticari defter kayıtları ile de zaten yapılan incelemeler neticesinde alacaklı olduğunun ispat edildiği, davalının borçlu olmadığına ilişkin herhangi bir çekte bedelsizlik veya dava açmadığı, davanın adi ortaklık tarafından açılmasının gerektiği noktasında maddi hataya düşüldüğü, taraflar arasında bulunan ticari ilişkinin , defter kayıtları, BA-BS formaları ve ödeme dekontları gereğince ve
 en önemlisi icra takibinin dayanağının cari hesap olması sebebiyle davaya konu alacak iddiasının mahiyetinin irdelendiği ve alacaklı olunduğunun ispat edildiği, buna göre dava konusu olayda alacak iddiasının, ortaklık hak ve borçlarıyla ilgili olmayıp ; müvekkil şirket ile davalı taraf arasındaki ilişkinin ileri sürülüş biçimine göre artık müvekkilin alacağı hâline geldiği, bu hâlde davacı olma sıfatının da ortaklığa değil alacak hakkının sahibi olan davacı şirkete ait olduğu, nüvekkilinin davalı borçludan yüklü miktarda cari hesap alacağının mevcut olduğu, takiin kambiyo senedine bağlı olmayıp, delil başlangıcı olarak kabul edilen çeke dayalı olduğu, her iki tarafın da tacir olduğu ve dolayısıyla her iki tarafın da ticari teamüller çerçevesinde hareket ederek basiretli davranma yükümlülükleri bulunduğu, bu esaslar çerçevesinde, yapılan işlerin faturalara dayandırılması gerektiği, gerek müvekkilinin , gerekse de borçlunun ticari defterleri , BA-BS kayıtları incelendiğinde davalının müvekkile borçlu olduğunun açıkça anlaşıldığı, davalının kesmiş olduğu faturaların da davacı adına kesildiği, tüm bunlara ek olarak ; dava dosyasına sunulan cari hesap ekstrelerinde de görüleceği üzere
@@ -134,6 +160,8 @@ davalının müvekkil şirkete borcu bulunduğu, incelenen ticari kayıtlarında
 dolayısıyla davanın husumet açısından adi ortaklığın diğer şirketi taraf göstermede menfaati de bulunmayacağının göz ardı edilmemesi gerektiği belirtilerek kararın kaldırılarak davanın kabulüne karar verilmesini talep etmiştir.
 
 ## İstanbul BAM 3. HD 2025/2926 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1183356300)
 
 Bu husus davacı tarafından kabul edilmektedir.Davacı kendi adına yapılan ödemenin davalıya ödendiğine dair delil sunamamıştır." şeklindeki istinaf sebepleri ile kararın davalı aleyhine olan kısımlarının kaldırılmasına davanın tümden reddine ve kötüniyet tazminatının kabulüne karar verilmesi istenmiştir....nun 355. maddesi uyarınca, ileri sürülen istinaf sebepleri ile sınırlı olarak yapılan inceleme sonucunda; dava , menfi tesbit talebine ilişkindir.Mahkemece ,yargılama sırasında davanın dayanağı olan Küçükçekmece 1. İcra Müdürlüğünün ... Esas sayılı takip dosyası ve güncel kapak hesabı UYAP Bilişim Sistemi üzerinden celp edilmiş ; alacaklısının ..., borçluların ... ve ... ve Tarım Ürünleri Ltd. Şti. olduğu, alacaklının borçluların şirketine ortak olmak için gönderdiği paraların iadesi talebi borç sebebi gösterilerek, toplam 230.852,99-TL alacağın tahsili talebine ilişkin olduğu, dosyada 02/12/2022 tarihi itibariyle 169.243,19-TL tahsilat olduğu görülmüştür.
 Davada davalı taraf, adi ortaklık kurulacağı inancı ile masraflar yaptığını savunmaktadır.Davacı taraf adi ortaklık ilişkisinin varlığını kabul etmemektedir.Bilindiği üzere, adi ortaklık; iki yada daha fazla kişinin emeklerini ve mallarını ortak bir amaca erişmek üzere birleştirmeyi üstlendikleri sözleşmedir. (TBK. 620/1 md.) Diğer bir anlatımla, adi ortaklık; birbirini tanıyan, birbirlerinin kabiliyet ve şahsiyetlerine güvenen, eşit ve aynı durumda olan gerçek veya tüzel kişilerin, müşterek amacın gerçekleştirilmesini sağlayacak vasıtaları (sermaye paylarını veya emeklerini) ortaklığa getirme konusunda karşılıklı ve uygun irade beyanlarının birbirine ulaşmasıyla teşkil eden bir kişi topluluğudur.Adi ortaklık sözleşmesi yazılı yapılabileceği gibi sözlü de yapılabilir. İhtilaf halinde, bu ortaklığın var olduğunu ileri süren kişi, iddiasını, HMK'nın 200. md gereğince senetle ispat etmelidir. Her ne kadar adi ortaklık ilişkisi her hangi bir şekle bağlı değilse de, bu kural geçerlilik şekli bakımından söz konusu olup, ihtilaf çıktığında adi ortaklık sözleşmesinin varlığını ispat yükü, adi ortaklık ilişkisinin varlığını iddia edene düşer.

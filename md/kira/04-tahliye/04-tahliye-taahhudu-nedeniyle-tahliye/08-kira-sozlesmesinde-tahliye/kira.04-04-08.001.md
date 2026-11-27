@@ -25,8 +25,12 @@ Sözleşmede tahliye taahhüdü verildiğinin belirtilmiş olsa da, tahliye taah
 
 ## Yargıtay 3. HD 2025/3731 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1159053000)
+
 … sözleşmeye bağlılık (Ahde Vefa-Pacta Sund Servanda) ve sözleşme serbestliği ilkesi gereği, kiracının ancak 6098 sayılı Kanunda sınırlı sayıda sayılan tahliye nedenleri ile tahliyesinin istenebileceği, buna göre **salt tahliye taahhüdünün varlığının, mahkeme kararı ile tahliye ilamına bağlanmadığı sürece kendiliğinden kiraya verene akdi sona erdirme hakkı vermeyeceğinin** kabulü gerekir.
 
 ## Yargıtay 3. HD 2025/3541 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1179716200)
 
 … kira sözleşmesinde yer verilen "Kiracı tarafından 31.12.2019,31.12.2020, 31.12.2021, 31.12.2022 yıllarında kiraya konu gayrımenkulü tahliye edeceğine dair yazılı tahliye taahhüdü verilecektir.'' hükmü **tahliye taahhütnamesi niteliğinde olmadığı** gibi bu hüküm uyarınca da tahliye taahhütnamesinin sonradan düzenleneceğinin öngörüldüğü ve söz konusu hükmün tahliye taahhütnamesinin sözleşme ile aynı anda verildiğine dair ibare içermemesine…

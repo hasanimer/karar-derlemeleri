@@ -21,4 +21,6 @@ uyari: "Derleyenin seçtiği alıntılardır; kararın tamamı değildir. Künye
 
 ## Yargıtay 3. HD 2024/217 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/998664800)
+
 Temyiz olunan Bölge Adliye Mahkemesi kararında; hukuki ilişkinin ve bu ilişki nedeniyle ortaya çıkan uyuşmazlığa uygulanması gereken hukuk kurallarının doğru şekilde belirlendiği, tarafların tacir olduğu, 6217 sayılı Kanun'un geçici 2 nci maddesinde değişiklik yapan 6353 sayılı Kanun'un 53 üncü maddesi uyarınca kiracının tacir olduğu iş yeri kiralarında, 6098 sayılı Kanun'un 323, 325, 331, 340, 343, 344, 346 ve 354 üncü maddelerinin 01.07.2012 tarihinden itibaren sekiz yıl süreyle uygulanamayacağı, bu halde kira sözleşmelerinde bu maddelerde belirtilmiş olan konulara ilişkin olarak sözleşme serbestisi gereği kira sözleşmesi hükümlerinin tatbik olunacağı, **ne var ki tahliye sebepleri Kanun'da sınırlı sayıda sayıldığından ve bu husus emredici olarak düzenlendiğinden, emredici hukuk kurallarına aykırı olarak düzenlenen tahliye şartı geçersiz olduğu** gibi, bu şarta bağlı olarak öngörülen cezai şartın da geçersiz olacağı, …

@@ -20,15 +20,21 @@ uyari: "Derleyenin seçtiği alıntılardır; kararın tamamı değildir. Künye
 
 ## Yargıtay HGK 2021/1685 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/737086500)
+
 Buna bağlı olarak, adi ortaklığa esas doğruluk ve güven ilkesi, kanunda açıkça belirtilmemiş olmasına rağmen, ortakların sadakat ve eşit işlem borcunu da beraberinde getirir. Sadakat borcu gereği ortaklar müşterek amacı engelleyen her türlü davranıştan kaçınmalı, sadece kendi menfaatlerini değil ortaklığın amacını koruyabilmek için diğer ortakların menfaatlerini de gözetmelidir. Eşit işlem borcu da, ortaklara ortaklıkla ilişkilerinde iradi olarak eşit olmayan bir şekilde davranılmaması anlamına gelir (Şener; s. 151) ve tıpkı sadakat borcu gibi doğruluk ve güven ilkesinin adi ortaklığa özgü tezahür şeklidir.
 
 ## Yargıtay 3. HD 2020/7894 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/637333700)
 
 Bundan ayrı olarak, bir kısım icra dosyalarının ise davalı tarafından takipsiz bırakıldığı ve alacakların tahsil edilemediği anlaşılmıştır. Bu noktada, adi ortaklıkta özen borcuna yönelik açıklamalarda bulunmak gerekmektedir. TBK'nın "özen borcu" başlıklı 628. maddesi; "Her ortak, ortaklık işlerinde kendi işlerinde olduğu ölçüde çaba ve özen göstermekle yükümlüdür. Her ortak, diğerlerine karşı, kendi kusuruyla verdiği zararları, başka işlerde ortaklığa sağladığı menfaatlerle mahsup ettirme hakkı olmaksızın gidermekle yükümlüdür. Ortaklık işlerini ücret karşılığı yürüten ortak, vekalet hükümlerine göre sorumlu olur." hükmünü içermektedir. Somut olay bakımından davalı, icra dosyalarını takipsiz bırakarak kendi kusurlu davranışı nedeniyle ortaklığa verdiği zararı karşılamakla yükümlüdür.
 
 Hal böyle olunca mahkemece, icra dosyalarından elde edilen alacakların tereddüte mahal bırakmayacak şekilde belirlenerek tasfiye hesabında dikkate alınması, takipsiz bırakılarak tahsil edilemeyen alacakların ise davalının özen yükümlülüğü çerçevesinde değerlendirilerek kar ve alacak hesabının yapılması gerekirken eksik inceleme ve değerlendirme ile karar verilmiş olması usul ve yasaya aykırıdır.
 
 ## Yargıtay 15. HD 2018/308 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/403641800)
 
 Bu durumda mahkemece davacıların murisi ve davalı ... ile diğer davalı site yöentimi arasında sözlü eser sözleşmesi ilişkisinin varlığı kabul edildiğinden ve iş sahibi yada yüklenicinin sorumsuzluğuna ilişkin bir anlaşmanın vardığı da ileri sürülmediği ve davacıların murisi ile davalı ... arasındaki hukuki ilişki adi ortaklık olduğundan, mahkemece eser sözleşmelerinde işin uzmanının yükleniciler olduğu ve adi ortaklıkta ortakların birbirlerine karşı özen borcunun bulunduğu kabul edilip gözetilerek 6100 sayılı HMK'nın 266 ve devamı maddeleri uyarınca eser sözleşmeleri ve adi ortaklık ile aktüerya hesabı konularında uzman yeniden oluşturulacak bilirkişi kurulundan, davalı iş sahibi site yönetiminin eser sözleşmesi ve borçlar hukuku hükümlerine, davalı adi ortak ...'in özen borcu ve adi ortaklık hükümlerine göre kusur ve sorumlulukları ile ödemek zorunda oldukları destekten yoksunluk tazminat miktarı konusunda denetime elverişli ve gerekçeli rapor alınıp davanın sonuçlandırılması gerekir.
 
@@ -46,10 +52,14 @@ Tüm dosya kapsamından, olayda; tarafların iş ortaklığı beyannamesi ile ..
 
 ## İstanbul BAM 3. HD 2024/3601 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1102006400)
+
 İşinin yapımı konusunda taraflar arasında yapılan adi ortaklık sözleşmesinin yürürlükte ve bağlayıcı, ortaklık ilişkisinin ayakta olduğunun , davalının... sözleşmesi ile kazandığı hak ve alacakların rekabet yasağı, yetkisiz temsil ,vekaletsiz iş görme hükümleri gereği ortaklık malı olduğunun tespiti ile bu konuda oluşan muarazanın giderilmesi,(b) İş ortaklığının idare, icra ve karar işlerini yürütmek üzere yönetim kurulunun hükmen kurulması, (ortaklık sözleşme hükümlerine uygun biçimde) yönetim organını kurmak üzere atanacak kayyuma görev ve yetki verilmesini,(c).adi ortaklık sözleşmesine konu işle ilgili bilcümle gelirin işletme giderleri dışında kalan bölümünün ilgili banka hesabında bloke edilerek davalıya ödenmemesi yönünde ihtiyati tedbir kararı verilmesini, ihtiyati tedbir ve kayyum atama kararlarının elverişli vasıtalarla kamuya duyurulmasını talep ve dava etmiştir.Davacının iş bu davaya konu taleplerinin tamamı tespit davası ve buna bağlı tedbir vs taleplerinden ibaret olup eda davası açılacak yerde tespit davası açılmasında hukuki yarar olmadığı değerlendirilmiştir.Diğer yandan ilk derece mahkemesi kararında belirtildiği üzere ,bilahare davacı tarafça adi ortaklığın feshi
 ve tasfiyesi talebiyle dava açıldığı ve söz konusu davanın derdest olduğu, eldeki davaya konu tüm taleplerinin söz konusu davada ön sorun vs şeklinde ele alınmasının mümkün olduğu da gözetildiğinde istinafa konu davanın hukuki yarar yokluğu nedeniyle reddi yönünde verilen kararda isabetsizlik görülmemiştir.Açıklanan nedenlerle; ilk derece mahkemesince verilen kararın mahkemenin vakıa ve hukuki değerlendirmesi bakımından usul ve esas yönünden yasaya aykırı bir durum bulunmamasına göre, davacının istinaf başvurusunun HMK 353/1-b-1 maddesi uyarınca reddine karar verilmesi gerekmiştir.
 
 ## İstanbul BAM 44. HD 2023/1683 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/979155400)
 
 5'inci veya 6'ncı maddede sayılan hallerden birinin mevcut olması halinde mahkeme tarafından markanın hükümsüzlüğüne karar verileceği", SMK 7/5 maddesinde; "Marka sahibi, üçüncü kişiler tarafından dürüstçe ve ticari hayatın olağan akışı içinde, markasının aşağıda belirtilen biçimlerde kullanılmasını engelleyemez;..(b) malların veya hizmetlerin türüne, değerine, coğrafi kaynağına, üretim veya sunuluş zamanına yada diğer niteliklerine ilişkin açıklamalarda bulunulması" hükümleri düzenlenmiştir. Somut olayda mahkemece aldırılan bilirkişi raporlarında "..." kelimesinin yiyecek ve içecek sağlanması hizmetleri bakımından tasviri bir anlamının bulunmadığı ve zayıf marka özelliğinde olmadığı, bu sebeple bu kelimenin davalı kullanımlarında baskın unsur kullanılmasının davacının ... tescil numaralı markasından kaynaklanan marka hakkını ihlal ettiği ve haksız rekabet oluşturduğu sonuç ve kanaatine varıldığı belirtilmişse de; rapordaki hukuki değerlendirmenin ihtisas mahkemesi hakimi sıfatıyla mahkeme hakimince denetlenmesinin mümkün olduğu kanaatine varılmıştır.Davacı adına "... " ibaresinin, tek başına tescilli olmadığı, birtakım yan unsurlarla tescil edildiği anlaşılmaktadır.
 Davalı kullanımının da ... şeklinde olduğu anlaşılmaktadır. İlk derece mahkemesince bilirkişi raporuna itibar edilmeyerek markanın zayıf marka olduğu nitelendirilerek davalının "..." ibaresini eklemek suretiyle yapmış olduğu kullanımların haksız rekabet olarak değerlendirilemeyeceği, bilirkişi raporundaki değerlendirmelerin dosya kapsamına uymadığı gerekçesiyle davanın reddine karar verilmiştir. Somut olayda ... başvuru numaralı ...'nın davacı ... adına 43. emtia sınıfında 26.11.2014 tarihinde tescil edildiği marka sahibinin davacı olduğu, markanın 43.
@@ -60,6 +70,8 @@ Madde ve devamında düzenlenen haksız rekabete yönelik iddialar olup, markaya
 
 ## İstanbul BAM 16. HD 2023/1066 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/919233100)
+
 Dava, marka hakkına tecavüz ve haksız rekabetin tespiti, önlenmesi ve durdurulması ile maddi manevi tazminat istemine ilişkindir.
 
 …
@@ -69,6 +81,8 @@ Somut olayda sessiz kalma yoluyla hak kaybının söz konusu olmadığı, davada
 
 ## İstanbul BAM 3. HD 2020/206 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/577316100)
+
 Yargılama sırasında getirtilerek incelenen İstanbul 45. Asliye Ticaret mahkemesinin 2012/152 E sayılı dosyasında ise adi ortaklığın tasfiyesi ve alacak istemli açılan davanın yargılamasının yapıldığı görülmüştür. Bilindiği üzere, adi ortaklık; iki yada daha fazla kişinin emeklerini ve mallarını ortak bir amaca erişmek üzere birleştirmeyi üstlendikleri sözleşmedir. (TBK. 620/1 md.) Diğer bir anlatımla, adi ortaklık; birbirini tanıyan, birbirlerinin kabiliyet ve şahsiyetlerine güvenen, eşit ve aynı durumda olan gerçek veya tüzelkişilerin, müşterek amacın gerçekleştirilmesini sağlayacak vasıtaları (sermaye paylarını veya emeklerini) ortaklığa getirme konusunda karşılıklı ve uygun irade beyanlarının birbirine ulaşmasıyla teşkil eden bir kişi topluluğudur. TBK 626. maddesinde rekabet yasağı düzenlenmiştir. Eldeki dava, 6102 sayılı Türk Ticaret Kanunu’nun yürürlüğe girdiği 01.07.2012 tarihinden sonra açılmıştır.
 6102 sayılı Türk Ticaret Kanunu’nun 4. maddesine göre; bir davanın ticari dava sayılması için uyuşmazlık konusu işin, taraflarının her ikisinin birden ticari işletmesiyle ilgili olması ya da tarafların tacir olup olmadıklarına veya işin tarafların ticari işletmesiyle ilgili olup olmamasına bakılmaksızın Türk Ticaret Kanunu veya diğer kanunlarda o davaya Asliye Ticaret Mahkemesi'nin bakacağı yönünde düzenleme olmalıdır.Yine, 6102 sayılı Türk Ticaret Kanunu'nun 19/2. maddesi uyarınca, taraflardan biri için ticari iş sayılan bir işin diğeri için de ticari iş sayılması, davanın niteliğini ticari hale getirmeyecektir. Zira, Türk Ticaret Kanunu, kanun gereği ticari dava sayılan davalar haricinde, ticari davayı ticari iş esasına göre değil, ticari işletme esasına göre belirlemiştir. 6335 sayılı Kanun'un 2. maddesi ile değişik 6102 sayılı Türk Ticaret Kanunu'nun 5. maddesi uyarınca, ticari davalar Asliye Ticaret Mahkemelerince görülerek karara bağlanır.
 Diğer taraftan aynı madde gereğince, Asliye Ticaret Mahkemeleri ile diğer hukuk mahkemeleri arasındaki ilişki (6762 sayılı Türk Ticaret Kanunu’ndan ve 6102 sayılı Türk Ticaret Kanunu’nun 6335 sayılı Kanunla yapılan değişiklikten önceki halinden farklı olarak) iş bölümü ilişkisi değil, görev ilişkisidir.
@@ -76,5 +90,7 @@ Diğer taraftan aynı madde gereğince, Asliye Ticaret Mahkemeleri ile diğer hu
 Göreve ilişkin düzenlemeler, HMK 1. maddesi uyarınca kamu düzenine ilişkin olduğundan, mahkemelerce re'sen incelenir. Buna göre uyuşmazlık, taraflar arasında kurulan adi ortaklık nedeniyle haksız rekabet ve haksız fiil nedenlerine dayalı manevi tazminat istemine ilişkindir. Davaya konu Adi ortaklık ve hükümleri ile, rekabet yasağına dair hükümlerin tamamı TBK'da düzenlenmiştir. O halde, mahkemece, taraflar arasındaki uyuşmazlığın TBK'da düzenlenen adi ortaklık ilişkisinden kaynaklı olduğu, taraflardan davalının TTK'da düzenlendiği gibi tacir sıfatını taşımadığından, adi ortaklığın konusunun ticari gelir elde etmek olması, davayı kendiliğinden ticari dava haline getirmeyeceği ve TTK'da ön görülen, tarafların her ikisinin de tacir olması koşulunun davada oluşmadığı anlaşıldığından, uyuşmazlığın çözümünde genel mahkeme olan Asliye Hukuk Mahkemesinin görevli olduğu gözetilerek, görevsizlik kararı verilmesi gerekirken yazılı şekilde karar verilmesi usul ve yasaya uygun görülmemiştir.
 
 ## İstanbul BAM 12. HD 2019/43 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/476294700)
 
 Yabancı devlet mahkemesine yetki tanıyan anlaşmanın Türk hukuku bakımından hukuki değer taşıması için öncelikle yazılı ve taraflar arasında yabancılık unsuru taşıyan ve borç ilişkisinden doğan bir uyuşmazlığa ilişkin olmalıdır. Sözleşmenin davacı tarafça imza edilmediği davalının kabulünde olduğundan yetkiye ilişkin ileri sürülen istinaf sebebi yerinde olmayıp ,haksız rekabetin işlendiği yer itibariyle mahkeme yetkili bulunduğundan yetki itirazının reddine karar verilmesinde usul ve yasaya aykırılık bulunmamaktadır.TTK 55-(1)a-1 maddesinde; başkalarını veya onların mallarını ,iş ürünlerini ,fiyatlarını ,faaliyetlerini veya ticari işlerini yanlış yanıltıcı veya gereksiz yere incitici açıklamalarla kötülemek,1-b)sözleşmeyi ihlale veya sona erdirmeye yöneltmek haksız rekabet hallerinden sayılmıştır. Davalı aradaki ilişkiyi adi ortaklık olarak tanımlamakta ve bildirimleri kanallar ile imzalanan sözleşmeler kapsamında adi ortaklığın yükümlülüklerini yerine getirmek çerçevesinde yaptığını ve bilgilendirme yükümlülüğü çerçevesinde yaptığı bildirimlerin haksız rekabet teşkil etmeyeceğini savunmaktadır.

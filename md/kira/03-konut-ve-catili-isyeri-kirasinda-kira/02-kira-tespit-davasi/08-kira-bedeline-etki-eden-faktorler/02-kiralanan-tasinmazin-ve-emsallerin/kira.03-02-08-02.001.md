@@ -22,4 +22,6 @@ uyari: "Derleyenin seçtiği alıntılardır; kararın tamamı değildir. Künye
 
 ## Yargıtay 3. HD 2021/8864 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/697825000)
+
 Kaldı ki; 18/11/1964 gün ve 2/4 sayılı YİBK. ve yerleşik Yargıtay uygulamalarına göre “hak ve nesafet” ilkesi uyarınca kira parasının tespitine karar verilirken öncelikle tarafların tüm delilleri, varsa emsal kira sözleşmeleri aslı veya onaylı örnekleri dosyaya alınmalı, **bilirkişi marifetiyle kiralanan taşınmaz ve taraf emsalleri tek tek görülüp incelenmeli, böylece elde edilen veriler somutlaştırılarak, dava konusu yer ile ayrı ayrı (konumu, çevresi, niteliği, kullanım şekli, kira başlangıç tarihi, kira süreleri vb.) kira parasına etki eden tüm nitelikleri karşılaştırılmalı, emsal kira bedellerinin niçin uygun emsal olup olmadığı somut gerekçelerle açıklanmalı**, dava konusu taşınmazın yeniden kiraya verilmesi halinde getirebileceği kira parası belirlenmeli, hâkimce bu kira parası dikkate alınmak suretiyle hak ve nesafete; özellikle tarafların kira sözleşmesinden bekledikleri amaçlarına uygun makul bir kira parasına hükmedilmelidir.

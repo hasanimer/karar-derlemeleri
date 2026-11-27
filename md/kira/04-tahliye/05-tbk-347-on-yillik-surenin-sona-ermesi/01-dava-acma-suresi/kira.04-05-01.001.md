@@ -27,6 +27,8 @@ Davacı tarafından davalıya gönderilen 05.01.2015 tarihli ihtarı davalıya 0
 
 ## Yargıtay 3. HD 2017/6383 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/361252700)
+
 Somut olayda: Davacının dayandığı 01.08.1969 başlangıç tarihli ve 2 yıl süreli kira sözleşmesi hususunda taraflar arasında uyuşmazlık bulunmamaktadır. Bu durumda kiralanan TBK.nun konut ve çatılı işyeri kirası hükümlerine tabi olup, TBK 347. maddesi uyarınca tahliye davası her dönemin sonunda açılabilecektir. Son uzama yılı dava tarihine nazaran 01.08.2015 tarihinde sona ermiş olup 05.09.2014, 18.09.2014, 30.09.2014 keşide tarihli feshi ihbar 01.08.2015-01.08.2016 dönemi için süresinde yapılmış ise de 31.07.2015 tarihinde açılan dava süresinde değildir. Davanın en erken dönem sonu olan 01.08.2015 tarihinden sonra (bu tarih dahil) açılması gerekir.
 
 ## Yargıtay 3. HD 2017/793 K.
@@ -45,9 +47,13 @@ TBK 347 maddesi uyarınca davacı tahliye davasını ya sürenin sonunda ya da b
 
 ## Yargıtay 3. HD 2025/6197 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1207220600)
+
 Yapılan bu açıklamalar ışığında somut olay incelendiğinde, taraflar arasındaki kira sözleşmesinin 11.04.2012 başlangıç tarihli ve on yıl süreli olduğu gözetildiğinde **davanın erken açıldığı** anlaşılmakla…
 
 ## Yargıtay 3. HD 2025/5281 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1205063400)
 
 Kanun düzenlemesinde bu tahliye davasının açılması için kısıtlayıcı bir süre getirilmemiş ise de bu davanın yazılı fesih bildirimi yapılan dönemin bitiminden itibaren sonraki kira yılı sonuna kadar 6325 sayılı Hukuk Uyuşmazlıklarında Arabuluculuk Kanunun 18/A -1-a. maddesine uygun olarak **dava şartı arabuluculuk yoluna gidilerek anlaşmama halinde açılmalıdır**.
 

@@ -22,6 +22,8 @@ uyari: "Derleyenin seçtiği alıntılardır; kararın tamamı değildir. Künye
 
 ## Yargıtay 6. HD 2016/3924 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/210884200)
+
 Davalı kiracı şirkete yönelik temyiz itirazlarına gelince; Davalı şirket ile davacı arasında akdedilen 01/09/2012 başlangıç tarihli ve bir yıl süreli kira sözleşmesi ile dava konusu işyerinin kira sözleşmesi ön sayfasında yazılı demirbaşlarla beraber kiralandığı hususunda uyuşmazlık bulunmamaktadır.
 Kira sözleşmesi hususi şartlar bölümünün 32.maddesinde “"mal sahibinin kira kontratının ön sayfasında yazılı demirbaşları aynen mal sahibine geri iade etmekle kiracı sorumludur, aksi durumda kiracının yapmış olduğu tadilat, tamirattan dolayı hiçbir şeyi söküp alıp gidemez, söküp alıp gittiği takdirde işyerini eski haline getirmek zorundadır, getirmediği takdirde mülk sahibine 150.000,00 TL ödemeyi taahhüt eder” düzenlemesi yer almaktadır.Davacı vekili dava dilekçesinde, davalının tahliye sırasında demirbaşları ve kendisi tarafından yapılan tesisat ile dekorasyonları sökerek götürdüğünü belirterek kira sözleşmesi hususi şartlar bölümünün 32.maddesi gereğince cezai şart alacağının tahsilini istemiş ve mahkemece 6098 sayılı TBK'nun 334/2 maddesi gereğince kiracının, sözleşmenin sona ermesi halinde sözleşmeden doğacak zararı giderme dışında, başkaca bir tazminat ödeyemeyeceğini önceden taahhüt etmesine ilişkin anlaşmaların geçersiz olması nedeniyle kira sözleşmesinde yer alan cezai şart düzenlemesinin de geçersiz olduğu belirtilerek davanın reddine karar verilmiştir.6098 sayılı TBK'nun 334.maddesinin 1. fıkrasında;
 Kiracının kiralananı ne durumda teslim almışsa, kira sözleşmesinin bitiminde o durumda geri vermekle yükümlü olduğu ancak, kiracının sözleşmeye uygun kullanma dolayısıyla kiralananda meydana gelen eskimelerden ve bozulmalardan sorumlu olmadığı , 2. fıkrasında ise; Kiracının, sözleşmenin sona ermesi hâlinde, sözleşmeye aykırı kullanmadan doğacak zararları giderme dışında, başkaca bir tazminat ödeyeceğini önceden taahhüt etmesine ilişkin anlaşmalarn geçersiz olduğu düzenlemesi yer almıştır.Anılan kanun maddesinin bir bütün halinde yorumlanması gerekmekte olup ikinci fıkra ile kiracının sözleşmeye aykırı kullanımından doğan zararlar dışında bir tazminat sorumluluğu olmayacağı, sadece sözleşmeye aykırı kullanımdan sorumlu olacağı esası emredici olarak kabul edilmiştir.
@@ -29,20 +31,28 @@ Böylece, uygulamada kira sözleşmelerinde sıkça rastlanan kiracıya sözleş
 
 ## Yargıtay 6. HD 2016/3584 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/209295700)
+
 Davaya dayanak yapılan ve hükme esas alınan 01/01/2003 başlangıç tarihli ve 10 yıl süreli kira sözleşmesi ile davacıya ait otel davalı şirkete kiralanmış olup kira sözleşmesinin 33.maddesinde kiracının günün şartlarına göre ihtiyaç olarak ortaya çıkacak ilave ve yeni hizmet ünitelerini davacı kiralayanın izni ile yapılabileceği, işletmeci (kiracı) tarafından yapılan bütün bu ilavelerin ve ek yapılaşmaların hiç bir kısmı veya parçası sökülmeden ve değiştirilmeden sözleşme sonunda bila bedel ve eksiksiz olarak idareye (kiralayan)
 
 bırakılacağı kararlaştırılmış ise de davalı kiracı kiralananın 10 yıllık sözleşme süresi dolmadan cebri icra sonucu 14/06/2008 tarihinde tahliye ettiğine göre söz konusu maddenin olayımızda uygulama imkanı yoktur. Dolayısıyla davalının takas-mahsup talebinin mahkemece dikkate alınmasında bir isabetsizlik bulunmamaktadır. Ancak davalı tarafından yapıldığı uyuşmazlık konusu olmayan ilave katın bilirkişi tarafından belirlenen yapım tarihindeki değeri yerine icra takip tarihi itibariyle tespit edilen değerinin dikkate alınarak mahkemece bu bedelin davacı kira alacağından mahsup edilmesi doğru olmadığı gibi bilirkişi tarafından hesaplama yapılırken kullanma süresi ile orantılı olarak yıpranma payının düşülmemesi de doğru değildir.
 
 ## Yargıtay 6. HD 2016/2547 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/215689800)
+
 Davada dayanılan ve hükme esas alınan 06.12.2010 başlangıç tarihli ve beş yıl süreli kira sözleşmesi konusunda taraflar arasında bir uyuşmazlık bulunmamaktadır. Sözleşmenin özel şartlar 8. maddesinde “Kiracı'ya teslim olunan demirbaş eşyada, kiralanabilir alan ve binanın ana yapısının herhangi bir kısmında vuku bulan ve kiracının hata, kusur ve ihmalinden doğan her türlü zararlarla meydana gelen hasar ve ziyan kiracı tarafından tazmin edilecektir. Kiracı kiraya verenin izni ile mecurda yapacağı tüm tadilatların bedellerini ödemekle yükümlüdür. Bu konu için kiraya verene rücu hakkı olmadığını ve mecurda yapılan tadilatı sözleşme bitiminde mecurda bırakmakla yükümlüdür.” ve 12. Maddesinde “Kira sözleşmesi sona erdiğinde Kiracı dilediği taşınabilir ofis ekipmanı ve malzemeyi götürebilecektir. Kiracı kiralanan yerleri, yaptığı tadilat ve dekorasyonlar için hiç bir bedel talep etmeksizin bırakacaktır. Kiracı kiralanan yerleri teslim aldığı şekilde bırakmakla yükümlü değildir.
 Ancak binada varsa mevcut demirbaş, eşya ve tesisler noksansız ve kusursuz bir şekilde kiracıya teslim edilmiş olup, kiracı kiralanan yerleri tahliye ederken normal kullanımdan mütevellit yıpranma hariç, aynı şekilde noksansız ve kusursuz bir vaziyette teslim edecektir.” şeklinde düzenlenmiştir. Taraflar arasındaki uyuşmazlık teminat bedelinin iadesi istemine ilişkindir. Ancak davacı kiracı kiralananda hor kullanma sonucu meydana gelen hasar bedelinden sorumlu olup bu miktar depozito bedelinden mahsup edilmelidir.
 
 ## Yargıtay 6. HD 2016/1043 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/208920500)
+
 HMK’nun 190.maddesi uyarınca ispat yükü, iddia edilen vakıaya bağlanan hukuki sonuçtan kendi lehine hak çıkaran tarafa aittir. Somut olayda, kira sözleşmesi ile davalıya teslim edilen demirbaş eşyaların, davalı kiracı tarafından götürüldüğünü ispat külfeti davacıya aittir. Davacı sunduğu delillerle ile demirbaş eşyalarla ilgili iddiasını kanıtlayamamıştır. Ancak davacının, dava dilekçesinde her türlü yasal delil demek suretiyle yemin deliline de dayandığının kabulü ile demirbaş eşyaların davalı tarafından götürdüğünün ispatı için davacıya yemin teklif etme hakkı hatırlatılarak, sonucuna göre bir karar verilmesi gerekirken, yazılı şekilde eksik inceleme ile karar verilmesi doğru değildir.
 
 ## Yargıtay 6. HD 2015/10204 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/149793800)
 
 Ürün kirası, TBK'nun 357 ve devamı maddelerinde düzenlenmiştir. Kanunun 362. maddesinde '' Kiracı, sözleşmede aksine bir hüküm veya yerel âdet olmadıkça, kira bedelini
 
@@ -51,9 +61,13 @@ Ne var ki davacı tarafından yapılan icra takibinde davalı kiracıya 30 gün 
 
 ## Yargıtay 6. HD 2015/3633 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/147757200)
+
 Olayımıza gelince; taraflar arasında akdedilen 20.10.2007 başlangıç tarihli ve altı yıl süreli kira sözleşmesinin varlığı hususunda uyuşmazlık bulunmamaktadır.Dava konusu daire otel binasına eklenti yapılmak üzere kiralanmış ve kiralanan dairede tadilat yapılarak kullanıma uygun hale getirileceği kira sözleşmesi hususi şartlar 4. maddesinden anlaşılmıştır. Davacı dava dilekçesinde konut ihtiyacı nedeniyle kiralananın tahliyesini talep etmiştir. Toplanan delillerden ,dinlenen tanık beyanlarından ihtiyacın gerçek,samimi ve zorunlu olduğu anlaşılmaktadır.Ancak kiralanan taşınmazın mevcut hali ile konut olarak kullanılıp kullanılamayacağı mahkemece araştırılmamıştır.Mahkemece öncelikle mahallinde uzman bilirkişiler aracılığıyla keşif yapılarak kiralanan taşınmazın esaslı tadilat yapılmaksızın konut olarak kullanılıp kullanılamayacağı konusunda ayrıntılı, Yargıtay denetimine açık ve hüküm kurmaya elverişli rapor alınmak suretiyle sonucuna göre bir karar verilmesi gerekirken eksik inceleme ile yazılı şekilde karar verilmesi doğru değildir.
 
 ## Yargıtay 6. HD 2015/2624 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/149861400)
 
 Kira sözleşmenin 14.maddesinde; kira sözleşmesinin 13.maddesi gereğince alınan bilumum demirbaşların kira müddeti hitamında idareye sağlam bir şekilde devredeceğinden işletme ve kullanım gereği yıpranan, eskiyen, kırılan, bozulan teknik ve ekonomik ömrünü dolduran mefruşat, demirbaş, teçhizat ve tesisat kiracı tarafından yenileneceği, bu yenilemeler karşılığında idareden hiçbir suretle bedel talep edilmeyeceği kararlaştırılmıştır. Serbest irade ile sözleşmeye konulan yukarıdaki hükümler geçerli olup, tarafları bağlar. Anılan sözleşme hükümlerinin olaya ve tarafların hukuki durumuna etkisi mahkemece doğru olarak değerlendirilmediği gibi, hükme esas alınan 12.11.2013 tarihli raporla önceki 13.02.2012 tarihli kök rapor ve 27.05.2013 tarihli ek rapor arasında değerlendirme yönünden mübayenet bulunduğundan hükme esas alınamayacağı anlaşılmıştır. Mahkemece kira sözleşmesinin 5/h, 13, 14 ve 29.maddeleri gereğince, kiralanana alınan demirbaşların
 
@@ -61,15 +75,21 @@ idareye sağlam bir şekilde devredilmesi kararlaştırıldığından, yıpranan
 
 ## Yargıtay 6. HD 2015/1923 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/148053900)
+
 Takipte dayanılan ve taraflar arasında uyuşmazlık konusu olmayan 01.06.2008 başlangıç tarihli ve 5 yıl süreli kira sözleşmesinde kira bedeli ciro üzerinden % 11,5 + KDV olarak belirlenmiş, davalı vekili sözleşmenin bu hükmüne dayanarak kiranın ciro üzerinden belirlendiğini bu nedenle hasılat kirası olduğunu ve ödeme emrinde altmış günlük süre verilmesi gerektiğini savunmuştur. Türk Borçlar Kanunu'nun 357 ve devamı maddelerinde düzenlenen hasılat kirasından söz edilebilmesi için hasılat getiren bir taşınır ya da taşınmaz mal, ticari işletme ya da hakkın kira ilişkisinin konusunu oluşturması ve kiralananın demirbaşları ve işletme ruhsatı ile birlikte kiraya verilmesi gerekir. Oysa taraflar arasında düzenlenen sözleşmede kiralanan işyerinin cafe-bar olarak kullanılmak üzere kiraya verildiği, dekorasyonun kiracıya ait olduğu, kararlaştırılmıştır. Kira sözleşmesinde kiralananın işletme ruhsatıyla ve demirbaşlarıyla birlikte kiralandığına dair bir hüküm bulunmamaktadır. Sözleşmede kira parasının aylık cironun bir bölümü olarak ödeneceğinin kararlaştırılması, taraflar arasındaki kira ilişkisinin hasılat kirası olduğunu göstermez.
 Sözleşmenin kira bedeli başlıklı 6. maddesindeki bu düzenleme sadece kira parasının belirlenmesine yöneliktir. O halde taraflar arasındaki kira ilişkisinin temerrüt açısından Türk Borçlar Kanunu'nun adi kiraya ilişkin hükümlerine tabi olduğu anlaşıldığından icra takibinde…
 
 ## Yargıtay 6. HD 2015/1924 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/148053200)
+
 Takipte dayanılan ve taraflar arasında uyuşmazlık konusu olmayan 01.06.2008 başlangıç tarihli ve 5 yıl süreli kira sözleşmesinde kira bedeli ciro üzerinden % 11,5 + KDV olarak belirlenmiş, davalı vekili sözleşmenin bu hükmüne dayanarak kiranın ciro üzerinden belirlendiğini bu nedenle hasılat kirası olduğunu ve ödeme emrinde altmış günlük süre verilmesi gerektiğini savunmuştur. Türk Borçlar Kanunu'nun 357 ve devamı maddelerinde düzenlenen hasılat kirasından söz edilebilmesi için hasılat getiren bir taşınır ya da taşınmaz mal, ticari işletme ya da hakkın kira ilişkisinin konusunu oluşturması ve kiralananın demirbaşları ve işletme ruhsatı ile birlikte kiraya verilmesi gerekir. Oysa taraflar arasında düzenlenen sözleşmede kiralanan işyerinin cafe-bar olarak kullanılmak üzere kiraya verildiği, dekorasyonun kiracıya ait olduğu, kararlaştırılmıştır. Kira sözleşmesinde kiralananın işletme ruhsatıyla ve demirbaşlarıyla birlikte kiralandığına dair bir hüküm bulunmamaktadır. Sözleşmede kira parasının aylık cironun bir bölümü olarak ödeneceğinin kararlaştırılması, taraflar arasındaki kira ilişkisinin hasılat kirası olduğunu göstermez.
 Sözleşmenin kira bedeli başlıklı 6. maddesindeki bu düzenleme sadece kira parasının…
 
 ## Yargıtay 6. HD 2015/919 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/147897500)
 
 Takibe dayanak yapılan 10/01/2011 başlangıç tarihli ve beş yıl süreli kira sözleşmesi konusunda taraflar arasında bir uyuşmazlık bulunmamaktadır. Uyuşmazlık, taraflar
 
@@ -77,6 +97,8 @@ arasındaki kira ilişkisinin, Türk Borçlar Kanunu'nun genel hükümlerine mi 
 Taraflar arasındaki kira ilişkisi genel hükümlere tabi olduğundan davalıya gönderilen otuz gün süreli ödeme emri usule uygun olarak düzenlendiğinden, mahkemece işin esasının incelenerek neticesine göre karar verilmesi için kararın bozulması gerekmiştir.
 
 ## Yargıtay 6. HD 2015/494 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/147075400)
 
 Davada dayanılan ve hükme esas alınan 18.05.2005 başlangıç tarihli ve 15 yıl süreli kira sözleşmesi konusunda taraflar arasında uyuşmazlık bulunmamaktadır. Sözleşme ile belediyeye ait arsa niteliğindeki taşınmaz üzerine akaryakıt istasyonu tesis edilmek ve işletilmek üzere davalıya kiraya verilmiştir. Sözleşmede kira parası aylık net 27.600 TL olarak belirlenmiştir. Sözleşmenin 5/B.maddesinde; “Kira bedeli ihale ile 1 yıllık süre için belirlenmiş olup bu bedel her yıl kanuni oranlarda arttırılacaktır. Beş yıllık kira bedeli peşin nakden ve defaten sözleşme tarihinde ödenecektir. Bakiye kira bedeli aylık olarak ödenecektir. ………Kira bedeli net olarak ödenecek olup KDV, stopaj vs. tüm vergiler …kiracıya aittir.” hükmü bulunmaktadır.
 Davacı belediye beş yıllık sürenin dolduğu 17.05.2010 tarihinden itibaren sözleşmedeki “kira bedeli ihale ile 1 yıllık süre için belirlenmiş olup bu bedel her yıl kanuni oranlarda arttırılacaktır” hükmünden hareketle sözleşme bedeline 18.05.2006 tarihinden itibaren her yıl ÜFE oranından artış uygulayarak 18.05.2010 tarihi itibariyle ödenecek aylık kira bedelini 41.776,69 TL olarak belirlemiş ayrıca akaryakıt istasyonu kiralamalarının KDV’ye tabi olduğuna ilişkin İzmir Vergi Dairesi Müdürlüğünün 26.01.2011 tarihli yazısından bahisle davalıdan kira bedeline %18 oranında KDV ödenmesini talep etmiştir. Hükme esas alınan 19.02.2013 tarihli ek bilirkişi raporunda; davaya konu taşınmazın belediyenin iktisaditeşebbüsü içerisinde kaldığı bu nedenle kiralama işinin KDV’ye tabi olduğu belirtilerek aylık 41.776,69 TL kira bedeli üzerinden takip tarihi itibariyle davalının 52.638,60 TL KDV, 5.264,54 TL işlemiş faiz alacağı olduğu belirtilmiştir. Ancak davacının sözleşmedeki artış şartı uyarınca KDV alacağının konusunu teşkil eden aylara yönelik kira alacağı için İzmir 8.
@@ -86,28 +108,40 @@ etkileyecek nitelikte olması nedeniyle mahkemece İzmir 8. Sulh Hukuk Mahkemesi
 
 ## Yargıtay 6. HD 2014/14670 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/97564600)
+
 Davada dayanılan ve hükme esas alınan 01.12.2008 başlangıç tarihli ve 10 yıl süreli kira sözleşmesi konusunda taraflar arasında uyuşmazlık bulunmamaktadır. Sözleşme ile PTT vakfına ait bina yurt olarak işletilmek üzere davalı T.. İnşaat ltd Şti’ne kiraya verilmiştir. Sözleşmede; kiracı tarafından gerçekleştirilecek tadilat ve tamirat için kiracıya 5 aylık süre tanınmış bu sürede kira bedeli ödenmeyeceği kararlaştırılmıştır. Taşınmazın kiracıya teslimini müteakip tadilat için kırım döküm işlerine başlanmış bu çerçevede iç kapılar, mutfak dolapları, yer ve duvar seramikleri, klozet, lavabo vs. sökülmüş ancak beş aylık süre geçmiş olmasına rağmen yapım işlerine başlanmamıştır. Davacı tarafından kiralananda 16.07.2009 tarihinde yaptırılan delil tespitinde; binanın mevcut hali ile kullanıma uygun olmadığı, eski hale getirilmesi için gerekli tutarın 266.177 TL eksik ve hasarlı demirbaşların temini için gerekli bedelin ise 39.702 TL olduğu hesaplanmıştır.
 Tadilat ve tamirat işlerinin tanınan sürede yapılmaması ve 01.05.2009 tarihinden itibaren tahakkuk eden kira bedellerinin ödenmemiş olması nedeniyle sözleşme kiralayan PTT Vakfı tarafından 20.08.2009 tebliğ tarihli noter ihtarı ile feshedilmiş ve sonraki süreçte bina PTT Vakfı tarafından mevcut haliyle A.. Grup Ltd Şti’ne kiralanmıştır. Kiracı A.. Grup Ltd şti’i davaya konu alacağı PTT Vakfından temlik almış ve davayı temlik alan olarak katılmıştır. Davacı PTT vakfı ile temlik alan A.. Grup Ltd Şti arasında imzalanan 24.08.2011 tarihli kira sözleşmesinin 5.maddesinde ihale şartnamesine ekli listede yer alan demirbaş malzemelerin de kira bedeline dahil edilerek kiracıya devredildiği belirtilmiştir. Mahkemece her ne kadar eksik ve hasarlı demirbaşlar yönünden tazminata hükmedilmiş ise de bedelinin tahsiline karar verilen demirbaşlar arasında 24.08.2011 tarihli sözleşme ile A.. Grup Ltd Şti’ne satışı gerçekleşen demirbaşlar olup olmadığı araştırılmış değildir. Mahkemece 24.08.2011 tarihli sözleşme ile A..
 Grup Ltd Şti’ne teslim edilen demirbaşlar arasında dava konusu edilen demirbaşlar olup olmadığı araştırılarak uyuşmazlığa konu olay tüm yönleri ile aydınlığa kavuşturulduktan sonra eksik ve hasarlı demirbaşlara yönelik hüküm tesis edilmesi gerekirken eksik tahkikat ile yazılı şekilde hüküm kurulması doğru değildir. Kabul şekline göre de davalıya teslim edilen demirbaşların kiralama tarihi itibariyle yaşı ve kullanım durumları nazara alınarak, yenileme bedeline hükmedilen demirbaşlardan yıpranma paylarının düşülmemesi de doğru değildir. Keza yine sözleşmenin feshine ilişkin kiralayan PTT Vakfının keşide ettiği 12.08.2009 tarihli noter ihtarında; mecurun anahtarının teslim alındığına ilişkin kabul beyanı bulunmakta olup söz konusu beyan çerçevesinde kiralananın en geç noter ihtarının düzenlendiği tarih itibariyle fiilen teslim alındığının kabulü ile kira alacağının teslim tarihine kadar olan bölümünün hüküm altına alınması, kalan miktar yönünden davanın reddi gerekirken bu husus göz ardı edilerek Ağustos ayı kira alacağının tamamına hükmedilmesi de doğru değildir. Mahkemece bu gereklere uyulmaksızın yazılı şekilde karar verilmesi doğru değildir.
 
 ## Yargıtay 6. HD 2014/14221 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/97485500)
+
 01.07.2012 tarihinde yürürlüğe giren 6098 sayılı Türk Borçlar Kanun'unun 346 maddesinin ikinci cümlesi, kira sözleşmelerine konulan muacceliyet şartlarını geçersiz kılmış isede, kiralanan otel olup davalı kiracı da Türk Ticaret Kanunu anlamında tacir sayılan Limited şirket olduğundan sözleşmede kararlaştırılan muacceliyet şartı 6353 Sayılı Kanunun 53.maddesi ile değişik 6217 Sayılı Kanunun geçici 2.maddesi hükmü gereğince erteleme kapsamındadır. Başka bir anlatımla muacceliyet şartı geçerliliğini korumakta olup, mahkemece sözleşmedeki muacceliyet şartı gereği inceleme yapılarak hasıl olacak sonuca göre itirazın kaldırılması istemi hakkında bir karar verilmesi gerekirken bilirkişi raporu esas alınarak yazılı şekilde karar verilmesi doğru olmadığı gibi, davalı tarafından yapılan ödemeler yasal 30 günlük ödeme süresinden sonra olduğundan temerrüt gerçekleşmiş olup, kiralananın tahliyesine karar verilmemesi de doğru değildir.
 
 ## Yargıtay 6. HD 2014/12615 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/97491600)
 
 Somut olayda, hükme esas alınan 01.09.2011 başlangıç tarihli ve bir yıl süreli kira sözleşmesi konusunda bir uyuşmazlık bulunmamaktadır. Her ne kadar mahkeme kararında taşınmazın ürün kirası olarak kiraya verildiği belirtilmiş ise de, hâsılat kirası, ürün veren bir mal veya hakkın kullanılmak, semerelerinden yararlanılmak ve işletilmek üzere bir bedel karşılığında kiralayan tarafından kiracıya devredilmesine ilişkin sözleşme olarak tanımlanabilir. Borçlar Kanununun 270 (TBK 357) ve devam eden maddelerinde düzenlenen hâsılat kirasından söz edilebilmesi için hasılat getiren bir taşınır ya da taşınmaz mal, ticari işletme ya da hakkın kira ilişkisinin konusunu oluşturması ve kiralananın demirbaşları ve işletme ruhsatı ile birlikte kiraya verilmesi gerekir. Kira sözleşmesine göre kiralananın otopark olduğu ve ruhsatı ile kiraya verilmediği, bu nedenle TBK genel hükümlerine tabi olduğu anlaşılmaktadır. TBK’nun 327. maddesinde "açık veya örtülü biçimde bir süre belirlenmiş ise kira sözleşmesi bu sürenin sonunda kendiliğinden sona erer.
 Taraflar bu durumda açık bir anlaşma olmaksızın kira ilişkisini sürdürürlerse, kira sözleşmesi belirsiz süreli kira sözleşmesine dönüşür.” Genel hükümlere tabi kira sözleşmelerinde kira sözleşmesinin sona ermesi için az yukarda açıklandığı gibi tarafların kira sözleşmesinin yenilenmeyeceğine ilişkin yazılı bildirimde bulunmaları durumunda süre sonunda kiracılık ilişkisinin son bulduğunun kabulü gerekir. Bu durumda TBK.nun 327. maddesi gereğince hüküm kurulması gerekirken dava konusu taşınmazın ürün kirasına tabi olduğundan bahisle yazılı şekilde karar verilmesi doğru değildir.
 
 ## Yargıtay 6. HD 2014/12208 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/520282400)
+
 Olayımıza gelince; davada dayanılan ve hükme esas alınan 06.02.2012 başlangıç tarihli ve beş yıl süreli kira sözleşmesi konusunda taraflar arasında uyuşmazlık bulunmamaktadır. Sözleşme ile kiralanan, otel olarak kullanılması için davalıya kiralanmıştır. Davacıların dava dilekçesinde, sözleşmenin özel şartlar bölümü 23. maddesinde davalı kiracının üstlendiği tadilat ve imalat edimlerini yerine getirmemesi iddiasının yanı sıra bir diğer iddiaları, kiralanan otelin fuhuş için yer temin edilmesi amacı ile kullanılması, bu şekilde ahlaka ve adaba aykırı davranılmasıdır. 6098 Sayılı Türk Borçlar Kanunu'nun 316 / 3 maddesi hükmü gereğince, kiracının davranışlarının kiraya veren ya da aynı taşınmazda oturan kişiler ile komşular bakımından çekilmez olması durumunda kiraya veren yazılı bir bildirimle sözleşmeyi feshedebilir.
 
 ## Yargıtay 6. HD 2014/10629 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/97223400)
+
 Hâsılat kirası, ürün veren bir mal veya hakkın kullanılmak, semerelerinden yararlanılmak ve işletilmek üzere bir bedel karşılığında kiralayan tarafından kiracıya devredilmesine ilişkin sözleşme olarak tanımlanabilir. Borçlar Kanununun 270 (TBK 357) ve devam maddelerinde düzenlenen hâsılat kirasından söz edilebilmesi için hasılat getiren bir taşınır ya da taşınmaz mal, ticari işletme ya da hakkın kira ilişkisinin konusunu oluşturması ve kiralananın demirbaşları ve işletme ruhsatı ile birlikte kiraya verilmesi gerekir.
 
 ## Yargıtay 6. HD 2014/10191 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/97213500)
 
 Bu arada davalı kiraya veren de, 26.01.2009 tarihinde Konak Belediyesi'ne başvurarak otelin içlerinde kiralananın da bulunduğu dahili tadilatların incelenerek çizimlerin onaylanması isteminde bulunmuştur. Ne var ki o dönemde arşiv dosyasının bir soruşturma nedeniyle İzmir C. Başsavcılığı'nda bulunması nedeniyle gerekli onaylama işlemi yapılamamıştır. Bununla birlikte belediyece 27.05.2009 tarihinde yapılan denetimler sonucunda kiralananın mimari projesine uygun olmadığı tespit edilerek, bu aksaklığın giderilmesi için verilen süreyi takiben 12.06.2009 tarihinde davacının iş yeri açma ve çalışma ruhsatı iptal edilmiş, kiralanan da 06.07.2009 tarihinde mühürlenmiştir. Bunun üzerine davacı tarafından kira sözleşmesi 10.09.2009 tarihli ihtarname ile feshedilmiş, aynı ihtarname ile dava konusu edilen alacak kalemlerinin de ödenmesi istenmiştir. Kiralanan anahtarları da 29.09.2009 tarihli tutanakla davalı kiraya verene teslim edilmiştir. Bu arada davalı kiraya veren bürokratik engellerin aşılması ile söz konusu tadilatları 10.09.2009 tarihinde, yani sözleşmenin feshedildiği gün belediyenin arşiv dosyasına işletmiş ve 20.10.2009 tarihinde de mühürü kaldırtmıştır.
 Belediyenin idari işlem ve kararları sözleşmenin özel 13. maddesinde düzenlenen mücbir sebep kapsamında değerlendirilse dahi, aynı maddede yer alan altı aylık süre beklenmeden davacı sözleşmeyi fesih yoluna gittiği gibi, davalı kiraya veren de, henüz belediyece denetim yapılmadan üzerine düşen edimi yerine getirerek anılan tadilatları projesine işletmek üzere başvuruda bulunmuştur. Söz konusu işlemlerin geç yerine getirilmesi bürokratik aksamalardan kaynaklanmakta olup, bunda davalıya atfedilebilecek bir kusur bulunmamaktadır. Başka bir anlatımla davacı, sözleşmenin özel 13. maddesindeki fesih prosedürünü uygulamadığı gibi, kiralananın mühürlendiği tarihe kadar kiralananı kullanmış ve ticari faaliyetini sürdürmüş olduğundan ve bu tarihten sonra da kira parası ödemediği dosya kapsamı ve alınan bilirkişi raporu ile sabit olmakla, kira başlangıcından itibaren ödediği kira paralarının istirdadını talep edemez.
@@ -115,15 +149,21 @@ Diğer yandan davacı tarafından dosyaya sunulan kiralanana yaptığı dekorasy
 
 ## Yargıtay 6. HD 2014/9762 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/97194800)
+
 6100 sayılı HMK'nın 331. maddesinde '' Davanın konusuz kalması sebebiyle davanın esası hakkında bir karar verilmesine gerek bulunmayan hâllerde, hâkim, davanın açıldığı tarihteki tarafların haklılık durumuna göre yargılama giderlerini takdir ve hükmeder. '' düzenlemesi bulunmaktadır. Taraflar arasında düzenlenen 22.12.2011 tarihli ve üç yıl süreli kira sözleşmesi hakkında bir uyuşmazlık bulunmamaktadır. Sözleşmeye göre otelin yıllık kirası 1.150.000 Euro + KDV olarak belirlenmiş, yine taraflar arasında düzenlenen otel kiralama sözleşmesi ek protokolünün 3. maddesine göre yıllık kira bedeli KDV dahil 1.000.000 Euro belirlenmiş, 2. maddesinde ise davacı kiracının sonradan eksikliği anlaşılan hiçbir sebepten ötürü geriye dönük indirim, tazminat isteminde bulunamayacağı düzenlenmiştir. Protokolün düzenlenme tarihi 01.10.2012 dir. Davacı vekili protokol içeriğine karşı çıkmamakla birlikte protokolün imzalanıp davalı tarafça kendisine verilmediğini ve dava açmak zorunda kaldığını bildirmiştir.
 Ne var ki 01.10.2012 tarihli ve altında her iki tarafın imzası bulunan protokolün, dava tarihi olan 05.11.2012 tarihinden önce davalı tarafça imzalanıp, davacıya verilmediği hususu yazılı delillerle ispat edilmelidir. Davacı taraf ek protokolün dava açıldıktan sonra imzalanıp kendisine verildiği hususunu ispatlayamamıştır. Ancak davacı taraf dava dilekçesinde her türlü yasal delil tabiriyle yemin deliline de dayandığına göre davacıya yemin hakkı hatırlatılarak belirtilen yasa hükümlerine göre yargılama giderlerinin takdiri gerekirken yazılı şekilde karar verilmesi doğru değildir.
 
 ## Yargıtay 6. HD 2014/8518 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/97368500)
+
 Davada ve icra takibinde dayanılan 27/11/2008 tanzim 2009 başlangıç tarihli ve beş yıl süreli kira sözleşmesi ile davacı L.. Ş..'in üzerinde otel bulunan taşınmazdaki 1/3 hissesini davalıya kiraladığı konusunda taraflar arasında bir uyuşmazlık bulunmamaktadır.Medeni Kanunun paylı mülkiyete ilişkin 691.maddesi hükmüne göre kiraya verme önemli idari işlemlerden olup, pay ve paydaş çoğunluğunun sağlanması gerekir. Belirtilen bu çoğunluk sağlanmadan malın kiraya verilmesi halinde sözleşmenin tarafı olmayan paydaşlarca sözleşmenin geçersizliği öne sürülebilir. Ne var ki, bu koşul temin edilmeden bir kira sözleşmesi yapılmış ise tarafları bakımından sözleşme hüküm ifade etmeye devam eder. Bu husus sözleşmeye bağlılık ilkesinin bir sonucudur. Kiralayan konumunda olan paydaş sözleşme ile yükümlendiği borçları ifa ettiği müddetçe davalı kiracıdan kendi borçlarını ifa etmesini isteyebilir.Bu durumda davacının kiralayan sıfatıyla imzaladığı sözleşmeye dayanarak bölünebilir haklardan olan kira alacağından payına düşen kısmını istemesinde bir usulsüzlük bulunmamaktadır.
 Mahkemece bu husus üzerinde durulmadan yazılı gerekçe ile kira alacağı isteminin de reddine karar verilmesi doğru olmadığından kararın bozulması gerekmiştir.
 
 ## Yargıtay 6. HD 2014/8129 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/97582400)
 
 Takipte dayanılan ve karara esas alınan 01.01.2011 başlangıç tarihli ve beş yıl süreli kira sözleşmesi konusunda taraflar arasında bir uyuşmazlık bulunmamaktadır. Sözleşmede kiralananın çay bahçesi olduğu belirtilmiştir. Taraflar arasındaki ilişkinin hasılat kirası olarak nitelendirilebilmesi için Borçlar Kanunun 270. (TBK 357) maddesinde düzenlendiği şekliyle hasılat getiren bir taşınır ya da taşınmaz mal, ticari işleme ya da hakkın kira ilişkisinin konusunu oluşturması ve kiralanın demirbaşları ve işletme ruhsatı ile birlikte kiraya verilmesi gerekir. Kira sözleşmesinde kiralananın niteliğinin çay bahçesi olarak
 
@@ -131,9 +171,13 @@ belirtilmiş olması tek başına kira ilişkisinin hasılat kirası olduğunu g
 
 ## Yargıtay 6. HD 2014/6964 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/97469900)
+
 Taraflara arasında 01.10.2009 başlangıç tarihli, bir yıl süreli kira sözleşmesinin varlığı hususunda uyuşmazlık bulunmamaktadır. Kira sözleşmesinin 4. maddesinde "Dairenin mütemmim cüzleri ve demirbaşları ile mükemmel olarak kiracıya teslim edildiği, mecurda ve demirbaşlarda kullanımdan doğan her türlü bozuklukların kiracı tarafından giderileceği, kiracının tahliye halinde mecuru kendisine teslim olunan aynı şekliyle mal sahibine iade edeceği" kararlaştırılmıştır. Kiraya veren, kiralanan taşınmazın boşaltılmasından sonra İstanbul 21. Sulh Hukuk Mahkemesinin 2011/109 d.iş sayılı tespit dosyası ile kiralanandaki hasar ve eski hale getirme bedelini tespit ettirmiştir. Mahkemece, kiralananda yerinde keşif yapılmamış, tespit bilirkişisinden rapor alınarak belirlenen hor kullanım bedeline hükmedilmiştir. 6098 sayılı T.B.K.nun 316. (B.K.nun 256) maddesi hükmü uyarınca kiracı kiralananı tam bir özenle kullanmak ve aynı kanunun 334. (B.K.nun 266) maddesi gereğince sözleşme sonunda aldığı hali ile kiralayana teslim etmekle yükümlüdür. Ancak kiracı sözleşmeye uygun olağan kullanma dolayısıyla oluşan eskime ve…
 
 ## Yargıtay 6. HD 2014/4536 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/97280500)
 
 Davada dayanılan ve hükme esas alınan 05.02.1998 başlangıç tarihli ve 8 yıl süreli kira sözleşmesi konusunda taraflar arasında uyuşmazlık bulunmamaktadır. Sözleşme ile davacı üniversiteye ait süt fabrikası demirbaşları ile birlikte davalıya kiraya verilmiştir. Sözleşmenin tadil edilen 2.maddesinde; fabrikanın mevcut demirbaşları yanında işletmeci tarafından alınan demirbaşların da sözleşmenin sona ermesi ile birlikte kiralayana bırakılacağı kararlaştırılmıştır. Kiralananın tahliye edilmesini müteakip, davacı üniversite tarafından teşkil edilen komisyonun 18.07.2007 tarihinde yaptığı tespitte eksik ve arızalı demirbaşlar belirlenmiştir. Söz konusu tespite dayalı olarak açılan bu davada eksik ve arızalı demirbaş bedeli olarak 92.580 TL’nin davalıdan tahsili istenmiştir. Davanın yargılaması devam ederken davalı eksik demirbaşlardan bir kısmını iade etmiş olup mahkemece iade edilen demirbaşlara yönelik olarak davanın reddine karar verilmiştir. Dava açıldıktan sonra ortaya çıkan bir olay nedeniyle artık dava konusu edilen talep hakkında olumlu ya da olumsuz bir karar verilmesine gerek ya da neden kalmıyorsa, burada davanın konusuz kalmasından söz edilebilir.
 Böyle bir durum söz konusu olduğunda mahkemenin yargılamaya devam etmesine gerek yoktur. Bu durumda mahkemenin bir tespit hükmü niteliğinde olarak esas hakkında karar verilmesine yer olmadığına karar vermesi gerekir. Bununla birlikte yargılama giderleri, avukatlık ücreti gibi feri nitelikli diğer talepler hakkında yargılamaya devam edilerek bunlar hakkında bir karar verilmelidir. Somut olay bu çerçevede incelendiğinde; dava konusu edilip de dava açıldıktan sonra iade edilen
@@ -141,5 +185,7 @@ Böyle bir durum söz konusu olduğunda mahkemenin yargılamaya devam etmesine g
 malzemeler yönünden dava konusuz kalmıştır. Mahkemece, davanın konusuz kalan bölümü hakkında ret…
 
 ## Yargıtay 6. HD 2014/3295 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/97313100)
 
 Davada dayanılan ve hükme esas alınan 15.02.2010 başlangıç tarihli ve üç yıl süreli kira sözleşmesi konusunda taraflar arasında uyuşmazlık bulunmamaktadır. Sözleşme ile kiralanan otel-hamam-sauna olarak kullanılmak üzere davacıya kiralanmıştır. Kira Sözleşmesinin 7. maddesinde “işletme hakkının yıllık kira bedeli net 15/02/2010 ile 15/02/2011 arası 1 .yıl için 20.000 TL'ye zemin kata hamam,sauna ve masaj odası yaptırımıdır, ödemesi 10.000 TL si peşin geriye kalan 10.000 TL si 03/07/2010 tarihine senet verilmiştir.” şeklinde düzenlenmiştir. Kiracılık süreci içinde kiralanan taşınmaz 09/08/2010 tarihinde dava dışı Kazım Öselmiş’e satılmış, yeni malikle davacı 10/08/2010 başlangıç tarihli 1,5 yıl süreli kira sözleşmesi imzalamıştır.

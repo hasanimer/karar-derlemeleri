@@ -20,8 +20,12 @@ uyari: "Derleyenin seçtiği alıntılardır; kararın tamamı değildir. Künye
 
 ## Yargıtay 3. HD 2025/778 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1129710000)
+
 … ğindeki kiralanan, 2886 sayılı Kanun'a göre kiraya verilmiş olsa bile, aynı Kanun'un 75. maddesi uyarınca, **süre bitimi dışında fesih ve tahliyesi ancak 6098 sayılı Kanun hükümlerine tabidir**. Dolayısıyla, kiraya verenin 6098 sayılı Kanun'da düzenlenen sebeplerden birine dayanmadan tek yanlı olarak sözleşmeyi feshedip tahliye isteme hakkı bulunmamaktadır.
 
 ## Yargıtay 3. HD 2025/636 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1134977100)
 
 … dava konusu taşınmazın 2886 sayılı Kanun kapsamında ihale ile kiraya verilmesine, sözleşmenin süresinin bittiği tarihte 2886 sayılı Kanun'un 75. maddesinin üçüncü ve dördüncü fıkraları gereğince sona erecek olmasına, **sürenin dolmasıyla kiracının fuzuli şagil durumuna düşmesine**…

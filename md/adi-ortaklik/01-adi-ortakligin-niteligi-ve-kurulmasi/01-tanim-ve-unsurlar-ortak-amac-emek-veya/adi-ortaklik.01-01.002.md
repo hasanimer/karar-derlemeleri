@@ -22,6 +22,8 @@ uyari: "Derleyenin seçtiği alıntılardır; kararın tamamı değildir. Künye
 
 ## Yargıtay 1. HD 2016/3436 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/211863500)
+
 Dava, inançlı işlem ve ikrah hukuksal nedenine dayalı tapu iptali ve tescil, sözleşmelerin feshi, tazminat, senedin iadesi isteklerine ilişkindir.
 
 …
@@ -30,23 +32,33 @@ Davalının öteki temyiz itirazlarına gelince, hemen belirtmek gerekir ki, 609
 
 ## Yargıtay 12. HD 2015/25142 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/136395500)
+
 6098 sayılı Türk Borçlar Kanunu'nun 620.maddesine göre (mülga 818 sayılı BK'nun 520. maddesi) adi ortaklığın tüzel kişiliği bulunmadığından taraf ehliyeti de yoktur. Bu nedenle, taraf ehliyeti bulunmayan adi ortaklık aleyhine takip yapılması usulsüz olup, mahkemece bu husus kendiliğinden gözönüne alınmalıdır.
 
 ## Yargıtay 12. HD 2015/22472 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/175301500)
 
 İki veya daha fazla işletmenin belli bir amaca ulaşmak için katkılarını birleştirdikleri adi ortaklığın tüzel kişiliği bulunmadığından taraf ehliyeti de yoktur. 6098 sayılı TBK'nun 620. maddesinde (818 sayılı BK'nun 520. md) açıklandığı üzere, adi ortaklığın hükmi şahsiyeti bulunmadığından ortaklar, ortaklık borçlarından dolayı alacaklılara karşı doğrudan doğruya ve sınırsız olarak tüm varlıklarıyla sorumludurlar. Adi ortaklığın tüzel kişiliği olmadığından aktif ve pasif dava (takip) ehliyeti de bulunmamaktadır. Öte yandan taraf ehliyeti kamu düzeninden olup mahkemece kendiliğinden gözönüne alınmalıdır.
 
 ## Yargıtay 3. HD 2015/19484 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/145368800)
+
 Somut olayda, davacı ve davalı gerçek kişiler arasında 6098 sayılı Türk Borçlar Kanununun 620 ve devamı maddelerinde (818 sayılı BK.nun 520 ve devamı maddelerinde) düzenlenen adi ortaklık ilişkisinin kurulduğu konusunda uyuşmazlık yoktur. Davacının 17.06.2010 ila 08.09.2010 tarihleri arasında, kar payı karşılığı ortaklığa konu işyerinde çalıştığı tanık beyanı ile sabittir. Bilirkişi raporunda, davacının çalıştığı sürenin kısa olması ve ortaklığa konu işletmenin, 2. sınıf tacir işletmesi olup, bilanço, mizan, yevmiye defteri, gelir tablosu tutmadığı, ancak 1 yılın sonunda kar ve zarara ilişkin hesaplamanın yapılabileceği, 1 yıl içerisinde belli bir dönem karının hesaplanmasının muhasebe tekniği açısından mümkün olmadığı tespit edilmiştir. Mahkemece, yargılama sırasında bilgisine başvurulan bilirkişi raporu doğrultusunda karar verildiği anlaşılmaktadır. Rapor düzenleyen bilirkişinin restaurant işi konusunda uzman olmadığı, bu nedenle bilirkişi olarak dinlenemeyeceği kuşkusuzdur. Uzman bilirkişi tarafından, davalının ödemesi gereken kar payının denetime elverişli bir şekilde hesaplanması gerekmektedir.
 
 ## Yargıtay 3. HD 2015/14622 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/149665800)
 
 Bu durumda, mahkemece; uyuşmazlığın taraflar arasında düzenlenen 28.05.2006 tarihli adi ortaklık sözleşmesinde yer alan hükümlere göre, olmadığı takdirde BK'nun 520 v.d (TBK'nun 620 v.d) maddelerinde düzenlenen adi ortaklığın tasfiyesine ilişkin hükümlere göre çözümlenmesi gerekir. Dava tarihi 02.07.2009 tarihli olduğuna göre 6101 sayılı Türk Borçlar Kanununun Yürürlüğü ve Uygulama Şekli Hakkında Kanunun 1.maddesine göre; TBK'nun yürürlüğe girdiği tarihten önceki fiil ve işlemlere, bunların hukuken bağlayıcı olup olmadıklarına ve sonuçlarına, bu fiil ve işlemler hangi kanun yürürlükte iken gerçekleşmiş ise, kural olarak bu kanun hükümleri uygulanır. Ancak, TBK'nun yürürlüğe girmesinden sonra bu fiil ve işlemlere ilişkin olarak gerçekleşecek temerrüt, sona erme ve tasfiye, TBK hükümlerine tabidir.
 
 Adi ortaklık sözleşmesi, iki yada daha fazla kişinin emeklerini ve mallarını ortak bir amaca erişmek üzere birleştirmeyi üstlendikleri sözleşmedir. (TBK. 620/1 md.) Adi ortaklık ilişkisi, TBK'nun 639.maddesinde sayılan sona erme sebeplerinden birinin gerçekleşmesi ile sona erer. Bu şekilde ortaklığın sona ermesinin başlıca iki sonucu ortaya çıkar.Bunlardan ilki, yöneticilerin görevlerinin sona ermesi, diğeri de ortaklığın tasfiyesidir.
 
 ## Yargıtay 11. HD 2015/12063 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/185326500)
 
 Dava, adi ortaklığa konulan sermayenin diğer ortaktan tahsili istemine ilişkin olup, mahkemece ortaklığın son bulduğu gerekçesiyle davacının sermaye olarak koyduğu paranın tamamının tahsiline karar verilmiştir.
 
@@ -56,9 +68,13 @@ Bu durumda 6101 sayılı Türk Borçlar Kanununun Yürürlüğü ve Uygulama Şe
 
 ## Yargıtay 12. HD 2015/8581 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/176820100)
+
 6098 sayılı Türk Borçlar Kanunu’nun 620. maddesine göre adi ortaklığın hükmi şahsiyeti bulunmadığından taraf ehliyeti yoktur. Taraf ehliyeti kamu düzeninden olup mahkemece kendiliğinden göz önüne alınmalıdır. Öte yandan yasanın emredici kuralından kaynaklanan ve bir hakkın yerine getirilmesi ile ilgili bulunan bu husus hakkında, ortaklardan her birinin, İİK.nun 16/2. maddesi gereğince, süresiz şikayet hakkı vardır. Adi ortaklığın tüzel kişiliği ve dolayısıyla taraf ehliyeti bulunmadığından adi ortaklık hakkında yapılan takibin ve çıkarılan ödeme emrinin hukuken geçerliliği bulunmamaktadır.
 
 ## Yargıtay 3. HD 2015/7273 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/145103000)
 
 Somut olayda, taraflar arasında yazılı bir adi ortaklık sözleşmesi bulunmamakta ise de; davacılar ile davalıların murisi kardeş olup, HMK.'nun 203/1 maddesi gereğince, olayda tanık da dinlenebilecektir. Davacı taraf, adi ortaklığın bulunduğunu iddia edip, bu iddiasının ispatı yönünden tanık deliline dayanmış, yargılama sırasında dinlettiği tanıkları ile de, adi ortaklığın varlığını ispat etmiştir.
 
@@ -68,9 +84,13 @@ Adi ortaklık ilişkisi, TBK'nın 639.maddesinde sayılan sona erme sebeplerinde
 
 ## Yargıtay 3. HD 2015/1816 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/139636600)
+
 Hal böyle olunca mahkemece, yukarıda değinilen hususlar ışığında asıl dava, karşı dava ve birleşen davadaki talepler hususunda gerekli inceleme yapılarak, 6098 sayılı TBK'nın 620 ve devamı maddelerinde düzenlenen hükümler dikkate alınmak suretiyle, TBK'nın 642 ve devamı maddelerindeki tasfiye hükümleri somut olaya uygulanarak, adi ortaklık ilişkisinin tasfiyesine karar verilmesi ve asıl, karşı ve birleşen davadaki uyuşmazlığın bu şekilde çözümlenmesi gerekirken; anılan yön gözetilmeksizin yanılgılı değerlendirmeyle yazılı şekilde karar verilmesi usul ve yasaya aykırı görülmüş, bu husus bozmayı gerektirmiştir.
 
 ## Yargıtay 13. HD 2014/20896 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/103316300)
 
 818 sayılı Borçlar Kanunu’nun 520.maddesinde (6098 sayılı Türk Borçlar Kanunu’nun 620.maddesi) adi şirket (adi ortaklık sözleşmesi); “Şirket bir akittir ki onunla iki veya ziyade kimseler, saylerini ve mallarını müşterek bir gayeye erişmek için birleştirmeği iltizam ederler …
 
@@ -82,15 +102,21 @@ Bilindiği üzere adi şirketin (adi ortaklığın) tüzel kişiliği bulunmadı
 
 ## Yargıtay 12. HD 2014/16803 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/85487100)
+
 TBK'nun 620. maddesine göre; iki veya daha fazla kişinin belli bir amaca ulaşmak için katkılarını birleştirdikleri adi ortaklığın tüzel kişiliği bulunmadığından taraf ehliyeti yoktur. Bu nedenle, adi ortaklığa ilişkin davalarda adi ortaklığı oluşturan kişilerin taraf olarak hep birlikte haraket etmeleri gerekir. Adi ortaklık tarafından açılacak davaların elbirliği mülkiyeti kuralları (TBK m.638, TMK m.702) gereğince bütün ortaklar tarafından mecburi dava arkadaşı olarak birlikte açılması gerekir.
 
 Somut olayda ; takip alacaklısı olarak 77-Pikaron J.V. Ortaklığı gösterilmiş olup tüzel kişiliği olmayan adi ortaklığın takip başlatması mümkün değildir.Bu durumda mahkemece alacaklı olarak gösterilen adi ortaklığın taraf ehliyetinin bulunmaması nedeniyle takibin iptaline karar verilmesi gerekirken yazılı gerekçe ile takibin iptaline karar verilmesi isabetsiz ise de sonuçta takip iptal edildiğinden sonucu itibariyle doğru kararın onanması gerekmiştir.
 
 ## Yargıtay 3. HD 2014/16097 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/292156000)
+
 Hal böyle olunca mahkemece, yukarıda değinilen hususlar ışığında inceleme yapılarak, 6098 sayılı TBK.nun 620 ve devamı maddelerinde düzenlenen adi ortaklık hükümleri dikkate alınmak suretiyle TBK.nun 642 ve devamı maddelerindeki tasfiye hükümlerinin somut olaya uygulanmasıyla uyuşmazlığın çözümlenmesi gerekirken; anılan yön gözetilmeksizin yanılgılı değerlendirmeyle yazılı şekilde karar verilmesi usul ve yasaya aykırı görülmüş, bu husus bozmayı gerektirmiştir.
 
 ## Yargıtay 3. HD 2014/12555 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/88409300)
 
 1-)Dosya içeriği, davacının iddiası, davalının savunması ve diğer deliller mahkemece bir bütün halinde değerlendirilerek, taraflar arasında BK’nun 520 (TBK md.620 )ve devamı maddelerinde düzenlenen adi ortaklık ilişkisinin bulunup bulunmadığının tespit edilmesi gerektiği kuşkusuzdur.
 
@@ -98,13 +124,19 @@ Hal böyle olunca, tarafların delilleri toplanıp dosya kapsamı ile bir bütü
 
 ## Yargıtay 3. HD 2014/6043 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/88218800)
+
 TBK'nun 620/1.maddesinde; "Adi ortaklık sözleşmesi, iki ya da daha fazla kişinin emeklerini ve mallarını ortak bir amaca erişmek üzere birleştirmeyi üstlendikleri sözleşmedir." olarak tanımlanmıştır. Adi ortaklık sözleşmesi yazılı olabileceği gibi sözlü de yapılabilir. Davada sözlü adi ortaklık sözlemesinin varlığından bahsedilmekte, ancak davalının böyle bir sözleşmenin kurulmadığını beyan etmesi üzerine, davacı tarafından sözleşmenin varlığını kanıtlayacak başkaca delil ibraz edilemediğinden ve en son yemin teklifinde bulunmayacaklarına dair beyanda bulunmasından sonra, mahkemece; adi ortaklık konusunda davanın reddine karar verilmesinde bir isabetsizlik görülmemiştir.
 
 ## Yargıtay 23. HD 2014/2500 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/112537800)
+
 Taraf teşkili yargılamanın her aşamasında re'sen dikkate alınması gereken bir husustur. Asıl davada davacı A.. Y.. ile karşı davada davalı K.. Y.. arasındaki ilişki, BK’nın 520 (TBK’nın 620) ve devamı maddelerinde düzenlenmiş bulunan adi ortaklık ilişkisidir. Asıl davada davayı adi ortaklardan A.. Y.. açmıştır. Adi ortaklığın tüzel kişiliği mevcut değildir. Bu itibarla, adi ortaklık adına açılacak olan davayı bütün ortakların veya diğer ortaklardan bu konuda açık yetki almış idareci ortağın açması gerekir.
 
 ## Yargıtay 12. HD 2013/17242 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/52514700)
 
 Keşideci adi ortaklığın kuruluşuna dair Anamur Noterliğince düzenlenen 24 Şubat 2011 tarihli Adi Ortaklık Sözleşmesinin içeriğinden anlaşılacağı üzere adi ortaklığın, iki limited şirketinden oluştuğu, idare ve temsili düzenleyen 13. maddesinde "ortaklığın temsil ve ilzamında ortaklar E... İnşaat Turizm P.. Nakliye .. Sanayi Ticaret Limited şirket yetkilileri ile ..... P.. Ürünleri Turizm İnşaat Nak.... . Ticaret. San. Ltd. Şti. yetkilileri münferid imza ile ortaklığı temsil ilzam edecektir" ibaresine ve aynı sözleşmenin 9.maddesinde ise "ortaklardan herhangi biri ortaklık adına başkalarına diğer ortağın haberi olmadan borçlanamaz. Çek, bono, senet veremez kefil olamaz" hükmüne yer verildiği ve bu maddenin tarafları arasındaki iç ilişkiyi belirlediği, takibe konu bononun tanzim tarihinin adi ortaklık sözleşmesinin yapılmasından sonraki tarih olan 30.01.2012 tarihli olduğu anlaşılmıştır. Bu durumda sözleşmenin 13.maddesine göre şirketin idare ve temsilinin ortaklar ..... İnş. Turizm. P.. Nakliye ... Sanayi Ticaret Limited Şirketi ve .....P.. Ürünleri Turizm İnş. Nak. ..Ticaret Sanayi Limited Şirketi yetkililerinin münferid imzaları ile mümkün olduğu sonucuna varılmalıdır.
 
@@ -112,14 +144,20 @@ O halde mahkemece bonodaki imzanın adi ortaklığı oluşturan diğer şirket .
 
 ## Yargıtay 3. HD 2013/12442 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/259564500)
+
 Dava konusu olayda tüm bu olgular dikkate alındığında; şeriklerin tacir olduklarının iddia ve ispat edilmemiş olmasına göre(BK 520,521,526 TBK 620,621,626) adi ortaklığa ilişkin akdedilen 27.08.2007 tarihli ...., Garantiyi İçeren Karma Sözleşmesinin, ortakların hak ve yükümlülükleri başlığını taşıyan bölümünde davalı aleyhine konulan 10.000 TL cezai şartın, sözleşmenin niteliği, adi ortaklığın varlığının dayandığı iktisadi bütünlük, yapılan işin ve sonucunun taraflarda yaratacağı ekonomik beklenti nedeniyle fahiş olduğunun kabulü ile BK.161 ve TBK 182/son maddesine göre indirim yapılması hususu nazara alınmadan hüküm kurulması doğru görülmemiştir.
 
 ## Yargıtay 3. HD 2013/10460 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/260028000)
 
 Davadaki istemle ilgili, taraflar arasında 10.09.2008 tarihli " İş Ortaklığı Anlaşması" yapıldığı hususunda taraflar mutabıktır. Uyuşmazlık, yapılan bu sözleşmenin geçerliliğini koruyup korumadığı noktasındadır. Davalı taraf, sözleşmenin , sonradan gelişen olaylarla, bir "ön protokol" halinde kaldığını, hayata geçirilerek asıl sözleşme niteliğine kavuşmadığını savunmaktadır. Oysa, taraflar arasında imzalanan 10.09.2008 tarihli "İş Ortaklığı Anlaşması" başlıklı sözleşmenin içeriği ve kapsamı gözetildiğinde, BK.'nun 520 (TBK 620) ve devamı maddelerinde düzenlenen "Adi Ortaklık Sözleşmesi" niteliğinde bulunduğu açıkça anlaşılmaktadır. Bu sözleşmenin sonradan tadil edildiğine veya feshedildiğine ilişkin, dosya içerisinde bilgi ve belgeye rastlanılmadığı gibi, davalı tarafın böyle bir iddiası da bulunmamaktadır. Mahkemeninde kabulünde olduğu gibi, davacı taraf, iş ortaklığı sözleşmesinde yükümlendiği işlerden iletken temini işini gerçekleştirmiş durumdadır. İletken temininde taraflar arasında sonradan satım sözleşmesi yapılmış olması veya ortaklık sözleşmesinde yer alan üyelerin yükümlülüklerini tam olarak yerine getirmemiş olmaları; ortaklığın sonlandırıldığı anlamına gelmez.
 Bu hususlar, adi ortaklığın tasfiyesinde gözetilecek hususlardandır. O halde, taraflar arasında imzalanan 10.09.2008 iş ortaklığı sözleşmesinin ayakta olduğunun kabulü gerekir.
 
 ## Yargıtay 12. HD 2013/9988 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/53415100)
 
 Takip dayanağı senetlerin tanzim tarihi itibariyle uygulanması gerekli olan TTK'nun 688/5. maddesine göre bononun kime ve kimin emrine ödenecek ise onun adını içermesi gerekir. Bu nedenle bir senedin bono vasfında olması için gerçek veya tüzel kişi adına tanzim edilmesi gerekir. Takibe konu senetlerin lehdar kısmında "Ö....A..... C..... Ö..... Ort." ibaresinin yazılı olduğu, lehdar kısmında yazılı bulunan ortakları ibaresinden ve senetlerin arkasındaki lehdar cirosundan senetlerin adi ortaklık emrine düzenlendiği görülmektedir.
 
@@ -127,11 +165,15 @@ Olayda uygulanması gereken 818 Sayılı BK'nun 520. maddesi gereğince adi orta
 
 ## Yargıtay 12. HD 2013/7549 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/53845500)
+
 Adi ortaklığın tüzel kişiliği bulunmadığından taraf ehliyeti yoktur. Bu nedenle, adi ortaklığa ilişkin davalarda adi ortaklığı oluşturan kişilerin taraf olarak hep birlikte haraket etmeleri gerekir. BK'nun 520. maddesinde de açıklandığı üzere, adi ortaklığın hükmi şahsiyeti bulunmadığından ortaklar ortaklık borçlarından dolayı alacaklılara karşı doğrudan doğruya ve sınırsız olarak tüm varlıklarıyla sorumludurlar.Adi ortaklık tarafından açılacak davalarda elbirliği mü1kiyeti kuralları gereği (BK m.534, TMK 702) bütün ortaklar tarafından mecburi dava arkadaşı olarak birlikte haraket edilmesi gerekir.
 
 Taraf ehliyeti kamu düzeninden olup mahkemece kendiliğinden göz önüne alınmalıdır. Yasanın emredici kuralından kaynaklanan ve bir hakkın yerine getirilmesi ile ilgili bulunan bu husus hakkında İİK.nun 16/2.maddesi gereğince süresiz şikayet hakkı da vardır. Dolayısıyla yukarıda belirtildiği şekilde adi ortaklık adına çıkarılan ödeme emrinin hukuken geçerliliği bulunmamaktadır.
 
 ## Yargıtay 7. HD 2013/147 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/241773000)
 
 Dava, adi otaklık ilişkisinin varlığının tespiti ile kar payının tahsili istemine ilişkindir.
 
@@ -143,15 +185,21 @@ Somut olaya gelince; davaya dayanarak "Akitname" başlıklı belge yukarıda yas
 
 ## Yargıtay 3. HD 2012/15091 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/541681600)
+
 BK. 520.maddesine göre adi ortaklığın tüzel kişiliği yoktur. Adi ortaklığa karşı açılmış olan dava, diğer ortakların tümüne karşı yöneltilmiş demektir. Bu nedenle, davacıya dava edilen adi ortaklığın bütün ortaklarının isim ve adresi açıklattırılarak, davaya bu ortakların huzuru ile devam edilmelidir. Mahkemece, bu yönün gözardı edilerek davanın kabulüne karar verilmiş olması usul ve yasaya aykırıdır.Bu itibarla yukarıda açıklanan esaslar gözönünde tutulmaksızın yazılı şekilde hüküm tesisi isabetsiz, temyiz itirazları bu nedenlerle yerinde olduğundan kabulü ile hükmün HUMK.nun 428.
 
 ## Yargıtay 13. HD 2011/20918 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/759202400)
 
 Taraflar arasında 12.08.2003 tarihli protokol ile adi ortaklık kurulduğu anlaşıldığı gibi,2.maddesi ile de... Mağazası'ndaki davacı ...'a ait tüm ticari malların karşılıklı anlaşılan fiyatlardan ...'e devredildiği belirtilmiştir. Kaldı ki adi ortaklık sözleşmesi gereğince davalının ödemeler yaptığı da dosya kapsamından anlaşılmaktadır.
 
 Bu durumda taraflar arasında BK’nun 520 ve devamı maddelerde yer alan şekilde bir adi ortaklık kurulduğunun kabulü gerekir. Hal böyle olunca aradaki ihtilafında BK 520 vd. maddeleri uyarınca çözülmesi gerekir. Yine tarafların iddia ve savunmalarından ve dosya kapsamından eldeki dava ile adi ortaklığın fesih ve tasfiyesinin de istenildiğinin kabulü zorunludur. Hal böyle olunca adi ortaklığın fesih ve tasfiyesinin de BK. 538. maddesi uyarınca yapılması gerekir. Anılan yasa hükmünde belirtildiği üzere; tasfiye, bütün hesapların görülüp ortaklığın aktif ve pasif bütün mal varlığının belirlenip, ortakların …
 
 ## Yargıtay 13. HD 2010/1707 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/776940600)
 
 Başlangıçta davacı adına kayıtlı olan ve ancak daha sonra 1/2‘si mahkeme kararı ile davalı adına tescil edilen taşınmaz üzerinde 27.12.1994 ve 15.1.1997 tarihli sözleşmeler ile binanın inşa edilmesinin kararlaştırıldığı, bu kararlaştırma doğrultusunda binanın yapıldığı, binanın 5 ve 6. katlarının davacı tarafından inşa edildiği, 5 ve 6.katlarda davalının herhangi bir hakkının olmadığı tarafların ve mahkemenin kabulündedir. Davacı 5 ve 6.katlar dışındaki imalatların bedellerine davalının sözleşmede kararlaştırılan şekilde katılmadığını ileri sürerek davacının ödemeyip de kendisinin ödediği maliyet bedelinden, davalının bir kısım ödemeleri düşüldükten sonra arta kalan kısmından davalı hissesine isabet eden miktarın tahsilini istemekte, davalı ise, taraflar arasında daha önce görülen izale-i şuyu davasında binanın ortak yapıldığının belirlendiğini savunmaktadır. Hemen belirtmek gerekir ki taraflar arasında düzenlenen protokollerle, BK’nun 520 ve devamı maddelerde yer alan şekilde bir adi ortaklık kurulduğu ve adi ortaklığın konusunun da binanın inşa edilmesinin olduğu hususunda duraksama bulunmamalıdır.
 Hal böyle olunca aradaki ihtilafında BK 520 vd. maddeleri uyarınca çözülmesi gerekir. Öte yandan taraflar arasında daha önce görülüp kesinleşen izale-i şuyu davasında, binanın inşa edilmesinden dolayı tarafların birbirlerinden hak ve alacaklarının kalıp kalmadığı değerlendirilmeden ve tartışılmadan, o davaya özgü bir şekilde dava yürütülmüş ve sonuçlandırılmıştır. Taraflar arasında adi ortaklıktan kaynaklanan ihtilafı sonlandırıcı bir sözleşme ve mahkeme kararı olmadığı içinde adi ortaklıktan kaynaklanan ihtilafın ve eldeki davada çözümlenmesi zorunludur.
@@ -160,6 +208,8 @@ Tarafların iddia ve savunmalarından ve dosya kapsamından davacının yönetic
 Öte yandan adi ortaklığı düzenleyen yasa hükümleri uyarınca tasfiyenin karar tarihine en yakın tarih itibariyle yapılmasının gerekli olduğu da gözden uzak tutulmamalıdır. Her ne kadar mahkemece bilirkişi raporu esas alınarak karar verilmişsede dosyada alınan bilirkişi raporunun da ortaklık sözleşmesine ve BK'nun konuya ilişkin hüküm ve düzenlemelerine aykırı olması nedeniyle itibar edilmesi de olanaklı değildir.
 
 ## Yargıtay 13. HD 2009/5375 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/840078100)
 
 BK 520 ve 541 maddelerinde düzenlenen adi ortaklığın temel kişiliği bulunmadığından, adi ortakliga karşı açılacak davanın tüm ortaklar aleyhine açılması gerekir. Adi ortaklıklar arasında zorunlu dava arkadaşlığı vardır. HUMK 9/II maddesi gereğince davalı sayısı birden fazla olduğu takdirde bunlardan birisinin ikametgah mahkemesinde dava açılabilir. Somut olayda davalılardan pilot ortak Baraka İnş. Ltd. Şti (Pilot Yapı Ltd. Şti.) merkezin ... olduğu dosya içeriğinden anlaşıldığı gibi adi ortaklığın İl ... İdaresinin ...'da yapılacak hizmet binasının inşaatı için kurulduğu anlaşıldığından davaya bakmaya ... Mahkemeleri yetkilidir. Mahkemece işin esası incelenip sonucuna uygun karar verilmesi gerekirken yazılı şekilde karar verilmesi usul ve yasaya aykırı olup bozma nedenidir.
 
@@ -209,6 +259,8 @@ Adi ortaklık 6098 sayılı Türk Borçlar Kanunu'nun 620-645. maddeleri arasın
 Adi ortaklığın tüzel kişiliği bulunmadığı için ortaklar TBK'nın 638/1. maddesine göre ortaklık bünyesindeki bu mallar üzerinde hep birlikte elbirliğiyle hak sahibidirler. Yine Adi ortaklığın tüzel kişiliği olmadığından adi ortaklık hak ve fiil ehliyetine sahip değildir. Hak ve fiil ehliyeti olmadığı için taraf, dava ve takip ehliyetine de sahip değildir. Bu nedenle ortaklar adi ortaklık sözleşmesindeki amacı gerçekleştirebilmek için yapacakları işleri hep birlikte veya kararlaştırdıkları temsilci aracılığıyla yapabilirler. Adi ortaklık bağımsız bir kişiliğe sahip olmadığı için ortaklığın alacaklısı bulunmadığı gibi adi ortaklığın kendisi de borçlu olamaz. Bu nedenle, adi ortaklığa ilişkin davalarda, adi ortaklığı oluşturan kişilerin taraf olarak hep birlikte hareket etmeleri, adi ortaklığı oluşturan her bir gerçek ve tüzel kişiye dava dilekçesinde veya icra takip talebinde ayrı ayrı yer verilmesi gerekir. Adi ortaklık bağımsız bir kişiliğe sahip olmadığı için ortaklığın alacaklısı bulunmadığı gibi adi ortaklığın kendisi de borçlu olamaz.
 
 ## İstanbul BAM 3. HD 2026/609 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1202893900)
 
 Dava , adi ortaklık iddiasına dayalı alacak talebine ilişkindir.
 

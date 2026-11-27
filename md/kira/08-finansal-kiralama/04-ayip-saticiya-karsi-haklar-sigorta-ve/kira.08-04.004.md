@@ -22,10 +22,14 @@ uyari: "Derleyenin seçtiği alıntılardır; kararın tamamı değildir. Künye
 
 ## İstanbul BAM 44. HD 2025/694 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1153060500)
+
 GEREKÇE HMK'nın 355. Maddesi gereği, kamu düzenine aykırılık teşkil eden hususlar hariç tutularak, istinaf neden ve gerekçeleri ile sınırlı olmak üzere yapılan incelemede; Dava, davacının finansal kiralama sözleşmesi kapsamında kiralanan mallarla ilgili sahte belge düzenlenmesi nedeniyle uğradığını iddia ettiği zararın, sigorta sözleşmesi ile verilen teminat kapsamında tazmini istemine ilişkindir. Davacı, ...A.Ş., sigorta poliçesinin sahtecilik rizikosunu kapsadığını , gerçekte var olmayan tekneler için sahte belgeler düzenlendiğini, bu belgelerin sigorta klozu 4(a) ve 4(b) kapsamında değerlendirilmesi gerektiğini, zararının teminat kapsamında olduğunu ve sigortadan karşılanması gerektiğini ileri sürmüştür. Davalı ise Sigorta poliçesinin, sadece belirli türde sahtecilik olaylarını kapsadığını, ancak davacının iddiasına konu olan belgelerin (satış senedi, üretici sertifikası, fatura) poliçede belirtilen sahtecilik kapsamına girmediğini, sigorta teminatının,çek, bono, havale emirleri gibi kıymetli evrak niteliği taşıyan ödeme belgeleri ile sınırlı olduğunu , davacının iddiasına konu sahtecilik fiilinin bu kapsamda gerçekleşmediğini savunmuştur.
 Dava konusu uyuşmazlık, davacı ...A.Ş.’nin, ... isimli yat üreticisinin Türkiye distribütörü olduğunu iddia eden ...’nin %100 ortak ve imza yetkilisi olduğu şirketler aracılığıyla yapılan finansal kiralama sözleşmeleri ile sair müşterilerin kiracı olduğu finansal kiralama sözleşmeleri kapsamında, ...’nin gerçekte var olmayan ... markalı teknelere ilişkin sahte belgeler kullanarak ABD’nin Delaware eyaletinde tekne tescil işlemlerini yaparak, ilgili tekneler için finansal kredi sağlamak suretiyle davacı ...’ı zarara uğrattığı iddiasıyla, davalı ... A.Ş. ile dava dışı ... A.Ş. arasında akdedilmiş olan “Kapsamlı Suç & Mesleki Tazminat” sigorta poliçesi tahtında tazmininin gerekip gerekmediği, sigorta poliçesinin sahtecilik teminatı kapsamında olup olmadığı ve davacı tarafın zararının poliçeye dayanarak tazmin edilip edilemeyeceğine ilişkindir. 11/07/2019 tarihli bilirkişi heyet raporunda ; davalı şirket acentesi ... A.Ş. tarafından sigortalı ... A.Ş. adına ... numaralı 01.08.2016-01.08.2017 tarihleri arasında geçerli ...
 
 ## İstanbul BAM 45. HD 2025/401 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1137461700)
 
 Sigorta prim borçlarıyla ilgili olarak 6361 sayılı Kanun’un 24. maddesinin 5. fıkrasında özel bir düzenleme mevcut olup, işin doğası gereği malın sigorta ettirilmesi zorunlu tutulmuş, sigorta ettirme sorumluluğunun kimde olacağı tarafların kararına bırakılmış, ancak sigorta priminin ödenmesi sorumluluğu her durumda kiracıya bırakılmıştır. 6098 sayılı TBK’nın “Vergi ve benzeri yükümlülüklere katlanma borcu” başlığı altındaki 302. maddesi uyarınca, kiralananla ilgili zorunlu sigorta, vergi ve benzeri yükümlülüklere, aksi kararlaştırılmamış veya kanunda öngörülmemiş ise, kiraya veren katlanır. Maddede öngörülen yükümlülükler, kiralananın malik olmasının bir sonucudur. TBK’nın 302. maddesi emredici bir hüküm
 
@@ -34,10 +38,14 @@ Sayılı ilamında ifade edildiği gibi trafik sicilinde araç maliki olarak gö
 
 ## İstanbul BAM 43. HD 2025/338 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1132236100)
+
 Eşyanın taşıyıcıya teslimi, taşıma sözleşmesinin varlığına karinedir. TTK'nın 875/1. Maddesine göre de Taşıyıcı, eşyanın taşınmak üzere teslim alınmasından teslim edilmesine kadar geçecek süre içinde, eşyanın zıyaından, hasarından veya teslimindeki gecikmeden doğan zararlardan sorumludur. Ayrıca taşıyıcı; kendi adamlarının, taşımanın yerine getirilmesi için yararlandığı kişilerin, görevlerini yerine getirmeleri sırasındaki fiil ve ihmallerinden, kendi fiil ve ihmali gibi sorumludur(TTK m. 879). Taşıma, kısmen veya tamamen üçüncü bir kişi olan fiilî taşıyıcı tarafından yerine getirilirse, bu kişi eşyanın zıyaı, hasarı veya gecikmesi nedeniyle kendisi tarafından yapılan taşıma sırasında ortaya çıkan zarardan asıl taşıyıcı gibi sorumludur(TTK m. 888/1). Davacı tarafça Karayolu Taşıma Yönetmeliği(KTY)nin taşıtların özmal ve sözleşmeli olarak kullanılması başlıklı 25(1)f-1 maddesinde,L1 yetki belgesi ile ilgili olarak, özmal taşıt sayısının 10 katını geçmemek üzere ticari olarak kayıt ve tescil edilmiş sözleşmeli taşıtlar kaydedilebilir.
 Yönetmelik'in 4(1) vv maddesinde, sözleşmeli taşıt; yetki belgesi sahibinin kendi unvan ve sorumluluğu altında çalıştırmak üzere, noterden veya E-Devlet kanalıyla yapılmış sözleşmeyle temin ettiği başkasına ait taşıtı veya 21/11/2012 tarihli ve 6361 sayılı ..., ... ve ... Şirketleri Kanunu kapsamında yetki belgesi sahibinin doğrudan kiracı olarak tarafı olduğu bir finansal kiralama sözleşmesi veya uzun süreli kiralama sözleşmesi yoluyla temin ettiği taşıtı, ifade ettiği düzenlenmiştir.Taşıtlar, sadece bir yetki belgesi eki taşıt belgesine kaydedilir(KTY m. 26). Bir yetki belgesi sahibinin taşıt belgesine sözleşmeli olarak kayıtlı taşıtların sahipleri kendi nam ve hesabına taşıma yapamazlar(KTY m. 40(2)). Buna göre, bir yetki belgesi sahibinin taşıt belgesine sözleşmeli olarak kayıtlı taşıtlar ile ancak yetki belgesi sahibi nam ve hesabına taşıma yapılabilir.
 
 ## İstanbul BAM 16. HD 2025/288 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1120996300)
 
 DELİLLER:İstanbul ... İcra Dairesinin ... sayılı takip dosyasın incelendiğinde; davacının davalılar aleyhine 14/10/2019 tarihinde, finansal kiralama sözleşmelerinden kaynaklanan
 
@@ -46,10 +54,14 @@ DELİLLER:İstanbul ... İcra Dairesinin ... sayılı takip dosyasın incelendi�
 
 ## İzmir BAM 20. HD 2025/139 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1126908600)
+
 Poliçe hükümleri incelendiğinde; poliçenin son sayfasında açıkça elektronik cihaz ve yangın nedeniyle kar kaybının bu sözleşme ile teminat altına alınmadığı, ilave katkı primi ile ek sözleşme ile teminat kapsamına dahil edilebileceğinin yazılı olduğu görülmektedir. Ancak somut uyuşmazlıkta, davacı, davalı ile yapılan sigorta poliçesinin tek konusunun bir MR cihazı olduğunu tüm aşamalarda beyan etmiş olup, sadece elektronik cihaz niteliğindeki bu tıbbi cihaz için taraflar arasında poliçe düzenlendiğini belirtmiştir. Yine, davacının yargılamanın tüm aşamalarındaki beyanlarında; davadışı ... Bankası AŞ'den finansal kiralama yoluyla kiraladığı bu MR cihazına ilişkin olarak, ...
 Bankası AŞ'nin sigortalı, kendisinin sigorta ettiren olduğu dava konusu yangın sigorta poliçesini davalı ile akdettiklerini, poliçenin düzenlenmesindeki tek konu ve amacın işbu MR cihazı olup poliçeye konu başka hiçbir unsurun da zaten bulunmadığını, bu üçlü poliçe ilişkisinde davalı sigorta şirketinin teminat altına aldığı tek şeyin bu MR cihazı olduğunu, poliçenin ilk sayfasındaki "demirbaşlar" ibaresi ve poliçenin 2.sayfasında poliçe teminatında olan taşınır mallara dair açıklama da birlikte değerlendirildiğinde bunun açıkça ortada olduğunu, yine cihazın bulunduğu yerin yani sigorta poliçesindeki riziko yerinin de hastane olup, bu hastanede sözkonusu MR cihazından başka teminat altına alınabilecek müvekkiline ait bir demirbaşın da olmadığının açık olduğunu ileri sürmekte olup, anılan poliçenin beyan edildiği gibi üçlü bir ilişki şeklinde finansal kiralama yapan şirket de dahil edilerek düzenlendiği ve riziko yerinin de hastane adresi olduğu anlaşılmaktadır. Davalı tarafın savunması ise, hiçbir elektronik cihazın poliçe kapsamında olmadığı yönünde olup, burada sigorta poliçelerinin iyiniyet esasına dayalı sözleşmeler olması ilkesine göre konunun değerlendirilmesi gerekmektedir.
 
 ## İstanbul BAM 37. HD 2025/193 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1107882500)
 
 K A R A R Dava, Alacak (Eser Sözleşmesinden Kaynaklanan) ilişkindir. İstanbul 7.Asliye Ticaret Mahkemesince "...Dosyanın finans işleri ile görevlendirilen mahkememizin görev tanımında olmadığı halde ihtisas Mahkemesine gönderilmesi yerinde görülmediğinden eser sözleşmesine dayalı olarak açılan dava dosyanını genel mahkemeler tevzi edilmek üzere İstanbul Mahkemeleri Tevzi Bürosuna gönderilmesine..." gerekçesiyle görevsizlik yönünde karar vermiştir.İstanbul 10. Asliye Ticaret Mahkemesince, "....Hakimler ve Savcılar Kurulu’nun 25.11.2021 tarih ve 1232 sayılı kararının 5/e maddesinde açıkça “21.11.2012 tarihli ve 6361 sayılı Finansal Kiralama, Faktoring, Finansman ve Tasarruf Finansman Şirketleri Kanunu’ndan Kaynaklanan ve asliye ticaret mahkemesinin görev alanına giren ticari davalara ve ticari nitelikteki çekişmesiz yargı kapsamında gelecek işlere 6, 7 ve 8 numaralı dairelerin bakmasına” karar verildiğinden eldeki davaya bakma görevi, dosya daha evvel kendisine tevzi olan İstanbul 7. Asliye Ticaret Mahkemesindedir..." gerekçesiyle görevsizlik kararı verilmiştir. Hakimler ve Savcılar Kurulu Başkanlığının 25.11.2021 tarihli, 1232 sayılı kararıyla;
 13.01.2011 tarihli ve 6102 sayılı Türk Ticaret Kanunu'nun 4. Maddesinin birinci fıkrasının (f) bendinden,( TTK madde 4/-f: Bankalara, diğer kredi kuruluşlarına, finansal kurumlara ve ödünç para verme işlerine ilişkin düzenlemeler) 22.11.2001 tarihli ve 4721 sayılı Türk Medeni Kanunu'nun, rehin karşılığında ödünç verme işi ile uğraşanlar hakkındaki 962 ile 969. Maddelerinden,19.10.2005 tarihli ve 5411 sayılı Bankacılık Kanunundan, (142. Maddesinde düzenlenenler hariç),23.02.2006 tarihli ve 5464 sayılı Banka Kartları ve Kredi Kartları Kanunundan21.11.2012 tarihli ve 6361 sayılı Finansal Kiralama, Faktoring, Finansman ve Tasarruf Finansman Şirketleri Kanunun'dan06.12.2012 tarihli ve 6362 sayılı Sermaye Piyasası Kanunundan 20.06.2013 tarihli ve 6493 sayılı Ödeme ve Menkul Kıymet Mutabakat Sistemleri Ödeme Hizmetleri ve Elektronik Para Kuruluşları Hakkındaki Kanun'dan Kaynaklanan ve asliye ticaret mahkemesinin görev alanına giren ticari davalara ve ticari nitelikteki çekişmesiz yargı kapsamında gelecek işlerde kararda belirtilen mahkemeler ihtisas mahkemesi olarak görevlendirilmiştir. Somut olayda: davacı dava dışı ... A.Ş.
@@ -57,12 +69,16 @@ K A R A R Dava, Alacak (Eser Sözleşmesinden Kaynaklanan) ilişkindir. İstanbu
 
 ## İstanbul BAM 3. HD 2025/130 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1113986700)
+
 AŞ'ye kusur izafe edilemeyeceğini, davacının da yangının çıkmasında herhangi bir kusuru bulunmadığını, davacı tarafın çıkan yangın nedeniyle talep edebileceği maddi hasara dayalı tazminatın gelir kaybı ile birlikte toplam 15.279.449-TL olduğu görüşü bildirilmiştir.(ayrık görüş yönünden ayrı rapor düzenlenmiştir) Mahkemece ,kusur yönünden raporlar arasındaki çelişkinin giderilmesi amacıyla dosya akademisyenlerden oluşan 3 kişilik bilirkişi heyetine tevdi edilmiş, bilirkişi heyeti tarafından düzenlenen 20/11/2023 tarihli raporlarında yangın olayının meydana gelmesinde ...'ın %100 oranında kusurlu olduğu, diğer davalı ... AŞ ile davacıya herhangi bir kusur izafe edilemeyeceğini kanaat olarak
 
 bildirmiştir. Mahkemece ,olayın çıkış sebebi ve kusur durumları yönünden yapılan inceleme ve bu hususta uzlaştırıcı rapor da alındığı gözetildiğinde,bu yöne ilişkin davalı tarafın istinaf sebepleri yerinde görülmemiştir. Davacı şirketin kazanç kaybı ile ilgili olarak,sunulan ticari defter ve belgeleri incelenmek suretiyle bu yönden zarar hesaplaması yapılmıştır. Dava konusu edilen 12 adet makinenin kullanılamaz hale gelmesi nedeniyle leasing bedeli karşılığı 2.786.982,46 TL davacı zararı olduğu kabul ile hüküm altına alınmış olup, bu makinalar için davacı yanın ödemiş olduğu finansal kiralama bedelini sigortadan aldığı bedeli indirmek suretiyle zarar olarak istemiştir. Bilirkişi tarafından davacının anılan makinalar için ödediği döviz cinsinden finansal kira bedelinin dava tarihindeki Türki Lirası karşılığının 2.786.982,46 TL olduğu belirlenmiş ve mahkeme bu bedele hükmetmiştir.Bu makinelerin olay tarihinde işyerinde bulunduğu tesbit raporu ile anlaşıldığından bu yöne ilişkin istinaf sebepleri yerinde görülmemiştir.
 Yangında zarar gören iplik, yarı mamul ve mamul ürün zararına ilişkin olarak,dosyaya sunulan delillere göre hesaplama ve tesbit yapıldığından bu husustaki istinaf sebepleri yerinde görülmemiştir.
 
 ## İzmir BAM 6. HD 2024/3312 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1101273500)
 
 6502 Sayılı TKHK'nun 3.maddesinde "(1) Bu Kanunun uygulanmasında; a) Bakan: Gümrük ve Ticaret Bakanını, b) Bakanlık: Gümrük ve Ticaret Bakanlığını, c) Genel Müdür: Tüketicinin Korunması ve Piyasa Gözetimi Genel Müdürünü, ç) Genel Müdürlük: Tüketicinin Korunması ve Piyasa Gözetimi Genel Müdürlüğünü, d) Hizmet: Bir ücret veya menfaat karşılığında yapılan ya da yapılması taahhüt edilen mal sağlama dışındaki her türlü tüketici işleminin konusunu, e) İthalatçı: Kamu tüzel kişileri de dâhil olmak üzere mal veya hizmetleri ya da bu malların hammaddelerini yahut ara mallarını ticari veya mesleki amaçlarla ithal ederek satım, kira, finansal kiralama veya benzeri bir yolla piyasaya süren gerçek veya tüzel kişiyi, f) Kalıcı veri saklayıcısı: Tüketicinin gönderdiği veya kendisine gönderilen bilgiyi, bu bilginin amacına uygun olarak makul bir süre incelemesine elverecek şekilde kaydedilmesini ve değiştirilmeden kopyalanmasını sağlayan ve bu bilgiye aynen ulaşılmasına imkân veren kısa mesaj, elektronik posta, internet, disk, CD, DVD, hafıza kartı ve benzeri her türlü araç veya ortamı, g) Konut finansmanı kuruluşu:
 Konut finansmanı kapsamında doğrudan tüketiciye kredi kullandıran ya da finansal kiralama yapan bankalar ile Bankacılık Düzenleme ve Denetleme Kurulu tarafından konut finansmanı faaliyetinde bulunması uygun görülen finansal kiralama şirketleri ve finansman şirketlerini, ğ) Kredi veren: Mevzuatı gereği tüketicilere kredi vermeye yetkili olan gerçek veya tüzel kişiyi, h) Mal: Alışverişe konu olan; taşınır eşya, konut veya tatil amaçlı taşınmaz mallar ile elektronik ortamda kullanılmak üzere hazırlanan yazılım, ses, görüntü ve benzeri her türlü gayri maddi malları, ı) Sağlayıcı: Kamu tüzel kişileri de dâhil olmak üzere ticari veya mesleki amaçlarla tüketiciye hizmet sunan ya da hizmet sunanın adına ya da hesabına hareket eden gerçek veya tüzel kişiyi, i) Satıcı: Kamu tüzel kişileri de dâhil olmak üzere ticari veya mesleki amaçlarla tüketiciye mal sunan ya da mal sunanın adına ya da hesabına hareket eden gerçek veya tüzel kişiyi, j) Teknik düzenleme: 29/6/2001 tarihli ve 4703 sayılı Ürünlere İlişkin Teknik Mevzuatın Hazırlanması ve Uygulanmasına Dair Kanunda yer alan tanımı, k) Tüketici: Ticari veya mesleki olmayan amaçlarla hareket eden gerçek veya tüzel kişiyi, l) Tüketici işlemi:
@@ -72,9 +88,13 @@ ve hukuki işlemi, m) Tüketici örgütleri: Tüketicinin korunması amacıyla k
 
 ## Antalya BAM 16. HD 2024/376 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1102290800)
+
 Somut olayda; kusur oranının kesin olarak tespiti zarar dağılımı yönünden önem taşımaktadır. Bu nedenle İş Mahkemesi dava dosyasında , ceza dava dosyasında alınan tüm bilirkişi kusur raporları da celp edilip, hep birlikte değerlendirilerek kusur oran ve aidiyetinin belirlenmesi ve aralarındaki çelişkinin giderilmesi yönünde başka bir bilirkişi heyetinden yeniden kusur raporu aldırılması, hasar bedelinin denetime olanak sağlayacak şekilde tespit edildikten sonra karar verilmesi gerekirken denetime açık olmayan bilirkişi heyet raporunun hükme esas alınması, iş makinesinin kaza tarihinde finansal kiralama sözleşmesi ile davacı uhdesinde bulunduğu iddia edilmekle, ilgili finansal kiralama sözleşmesinin de dosyaya celp edilmemesi, bu sözleşmenin davacının husumet ehliyetini etkileyip etkilemediğinin gerekçeli kararda tartışılmaması hatalı olmuş olup ilk derece mahkemesince belirtilen eksiklikler giderildikten sonra neticesine göre bir karar verilmesi gerekmektedir.
 
 ## İstanbul BAM 45. HD 2024/1485 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1090260100)
 
 Kiralama AŞ olup, finansal kiralama sözleşmesine konu otomatik peçete makinesinin ... poliçe no ile sigorta ettirildiği,... Tic. Ltd. Şti. tarafından düzenlenen raporda hasar bedelinin 45.200,02 TL hesaplandığı, bu bedelin sigortalıya 02/10/2007 tarihinde davacı tarafça ödendiği, ödenen bedelin tahsili istemiyle işbu davanın açıldığı anlaşılmıştır.3-Kadıköy 3. Asliye Ticaret Mahkemesi’nin 2008/513 E. sayılı dosyasında; Davacı ... Sigorta Anonim Şirketi, davalılar ... Deri ve ... şirketleridir. Sigorta ettiren ... Gıda Kağıt Şirketi, sigortalı ... AŞ olup, finansal kiralama sözleşmesine konu rewinder makinesinin ... poliçe no sigorta ettirildiği, ... Tic. Ltd. Şti. tarafından düzenlenen raporda hasar bedelinin 53.885,92 TL hesaplandığı, bu bedelin sigortalıya 02/10/2007 tarihinde davacı tarafça ödendiği, ödenen bedelin tahsili istemiyle işbu davanın açıldığı anlaşılmıştır. 4-İstanbul Anadolu Kadıköy 5. Asliye Ticaret Mahkemesi’nin 2017/1354 E. sayılı dosyasında; Davacı ... Sigorta Anonim Şirketi, davalı ... şirketidir. ...
 Sigorta AŞ nezdinde düzenlenen ... no.lu, 97.303,53 Euro bedelli, 01/07/2007-24/07/2009 tarihleri arasındaki dönemi kapsayan Elektronik Cihaz Sigorta Poliçesinde, sigorta ettiren ve sigortalı ... A.O. olup poliçede ayrıca kiracı olarak ... Gıda Kağıt Şirketi yer almaktadır. Finansal kiralama sözleşmesine konu kağıt dilme makinesinin (...) işbu poliçe ile sigorta örtüsüne alındığı anlaşılmaktadır. ... Eksperlik Ltd. Şti. tarafından düzenlenen raporda hasar bedelinin 82.331,33 Euro hesaplandığı, bu bedelin davacı tarafça, sigortalı ... Kiralama A.O'na 16/10/2007 tarihinde ödendiğine dair tazminat makbuzu bulunmaktadır. Tuzla İcra Müdürlüğü'nün ... E. sayılı dosyası ile davalı hakkında 82.331,33 Euro asıl alacak + 1.927,00 Euro işlemiş faiz (16/10/2007 ödeme tarihinden itibaren) olmak üzere 84.258,33 Euro (harca esas değer 147.275,10 TL) alacağın tahsili için takip başlatıldığı, ödeme emrinin 07/08/2008 tarihinde tebliğ edildiği, davalı tarafça 12/08/2008 tarihinde borca ve fer'ilerine itiraz edildiği, davanın İİK'nın 67.maddesi
@@ -83,14 +103,20 @@ uyarınca yasal sürede açıldığı anlaşılmıştır. HMK 297.maddesi uyarı
 
 ## Ankara BAM 22. HD 2024/1331 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1087083000)
+
 Finansal kiralama şirketleri ile yapılan sözleşmede araçlardan birinin değerinin 975.000,00TL olduğu 25.03.2021 tarihli KDV dahil 1.150.500,00TL tutarlı fatura düzenlendiği, diğer aracın bedelinin de 900.000,00 TL olduğu satıcının ... İnşaat Ticaret Limited Şirketi olarak gösterildiği, buna dair de faturanın düzenlendiği görülmüştür.
 
 ## Ankara BAM 27. HD 2024/864 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1089454700)
 
 Denetime elverişli, gerekçeli ve hükme esas alınan 28/06/2022 tarihli bilirkişi raporunda; dekontun başlığından geçen “proje ödemesi müşteri geçici hesabına” geçici hesap ibaresinden dolayı kesin bir değerlendirme yapılmasının mümkün olmadığı, zira geçici hesaplar, asli olarak kullanılmayan hesaplar yerine mahiyeti bilinmeyen durumlar için kullanıldığı, asli hesaplarla ilgili durumların ortadan kalktığında geçici hesaplardaki bakiyenin asli hesaplara aktarıldığı, bu kapsamda uyuşmazlık konusu geçici dekontun mahiyetinin belirlenmesi amacıyla ... ... ... Bankası A.Ş.’nin mahkememize sunmuş olduğu 22.03.2022 tarihli yazsının ekinde dosyaya sunulan CD içerisinde yer alan bilgi ve belgelerin tetkikinden; Dekontun üzerinde yer alan 95323922-5500 nolu müşteri numarasının davacı ... Enerji Gıda San. ve Tic. A.Ş.’ye ait olduğu, Davacı ... Enerji Gıda San. ve Tic. A.Ş. ile dava dışı ... ... ... Bankası A.Ş. arasında 17.10.2019 tarihli leasing sözleşmesi imzalandığı, Diyarbakır ili… ... GES güneş enerjisi santrali elektrik tesisinin geçici kabulünün onaylandığı, Söz konusu leasing sözleşmesi kapsamında, davacı ... Enerji Gıda San. ve Tic. A.Ş.’nin, dava dışı ... ... ...
 Bankası A.Ş.’ye 08.11.2019 tarihli dilekçesi ile 95323922 nolu hesabından kullanmış olduğu 5500 nolu projenin satıcının (... Elekt. İnş. Nak. Mob. San. ve Tic. Ltd. Şti.) geçici hesaplarına ödeme yapılması talimatı verdiği, Davalı ... Elekt. İnş. Nak. Mob. San. ve Tic. Ltd. Şti. ile dava dışı ... ... ... Bankası A.Ş. arasında imzalanan mal satın alma formunda aynen; “bankamız adına tanzim etmiş olduğumuz 16.10.2019 tarih ve – nolu proforma fatura muhteviyatı, fiyatı ve ödeme şekli aşağıda belirtilen mallar ... Enerji Gıda San. ve Tic. A.Ş.’ye kiralanmak üzere teklif ettiğimiz şartlarla satmayı kabul ettiğiniz takdirde sipariş edilmiştir.” ifadelerinin kullanıldığı, ayrıca söz konusu formda, ödeme tarihinin 31.10.2019, tutar ise 667.500,00 USD olarak belirlendiği, bunun üzerine davalı ... Elekt. İnş. Nak. Mob. San. ve Tic. Ltd. Şti. tarafından dava dışı ... ... ... Bankası A.Ş. adına 07-11-2019 tarihli, OZG2019110700001 nolu fatura tanzim edildiği tespit edilmiştir.
 
 ## İstanbul BAM 17. HD 2024/1198 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1077917400)
 
 Davalı sigorta şirketi nezdinde makina kırılması sigortasıyla sigortalı olan davacı şirket tarafından ... A.Ş den finansal kiralama yoluyla kiralanan ... Marka Un Kurutma ve Sterilizasyon makinesinin 06/11/2013 tarihinde çalıştığı sırada elektrik arızası nedeniyle çıkan yangın neticesinde kullanılamaz hale geldiği, dosyadaki delillere göre davacı işyerinde bir adet un kurutma makinesi bulunduğu, bu makinenin sigorta konusu makine olduğu ve makinenin revizyon görmüş olduğu, 11/04/2016 havale tarihli kök rapor ile
 
@@ -98,10 +124,14 @@ Davalı sigorta şirketi nezdinde makina kırılması sigortasıyla sigortalı o
 
 ## İstanbul BAM 44. HD 2024/1684 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1082777600)
+
 Davacılar davalının hayat sigortası konusunda bilgilendirilmediklerini davalının kusurlu olduğunu belirterek Yargıtay 13. HD nin kararını emsal olarak sunmuş iseler de, adi ortaklığı oluşturan davacılar-murisleri ile davalı arasında Adana ... Noterliği’nin 25.02.2013 Tarihli, ... yevmiye numaralı, ... sayılı Finansal Kiralama Sözleşmesi düzenlendiği sözleşmenin hiç bir maddesinde hayat sigortası yapılacağına dair bir düzenleme bulunmadığı ve 6361 sayılı Kanun’un Finansal Sözleşmelerine ilişkin hükümlerinin hiçbirinde kiralayanın, finansal kiracıya hayat sigortası yaptırma zorunluluğunun bulunmadığı anlaşıldığından davacıların bu yöndeki istinaf sebepleri yerinde görülmemiştir. Davacı dava dilekçesinde sözleşmenin tarafı olan mütevefaya hayat sigortası yapılmadığı için borçlu olmadıklarının tespitini ve ayıplı hizmet nedeniyle sözleşmenin uyarlanmasını talep ettiği, daha sonra dava dilekçesinin açıklattırılması üzerine netice-i talebini ıslah başvurusunda bulunmadan değiştirdiği, davalı vekilinin iddianın genişletilmesi ve değiştirilmesine karşı çıkmasına rağmen mahkemece harç tamamlatılarak yargılamaya devam edildiği, HMK 141.
 Madde gereğince tarafların dilekçelerin karşılıklı olarak verilmesinden sonra iddia ve savunmalarını genişletemeyecekleri ve değiştiremeyecekleri, mahkemece dava dilekçesinde ileri sürülen talepler doğrultusunda yargılamaya devam edilmesi gerekirken, değiştirilen talebe göre yargılama yapılmasının yerinde olmadığı kanaatine varılmıştır.
 
 ## İstanbul BAM 17. HD 2024/1152 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1077132300)
 
 AŞ. arasında finansal kurumlar birliği nezdinde 20/12/2017 tarih ... tescil numaralı 19/12/2017 tarihli ... sözleşme numaralı finansal kiralama sözleşmesi ile 09/04/2019 tarihli tadil sözleşmesinin akdedildiği, davacı şirketin 2017 -2020 yılı defterlerinin usulüne uygun tutulduğu, davacının ticari defter ve kayıtlarına göre müflis kiracı şirketin iflas tarihi itibari ile temerrüt faizi hariç kira hesabının 1.049.184,00 TL borçlu durumda olduğu, tadil sözleşmesine ait ödeme planına göre kiracı şirketin ileri vadeli toplam 8.262.908,00 TL kira borcu bulunduğu, neticede murisin toplam 9.312.092,00 TL kira borcu bulunduğu, ayrı müflisin sigorta hesabının 2.503,97 TL borçlu durumda olduğu, müflisin masraf hesabının 13.576,47 TL borçlu durumda olduğu, davacı şirketin müflis kiracı şirketten iflas tarihi itibari ile kira alacağına 22,22 TL, sigorta prim alacağına 249,45 TL ve masraf alacağına
 
@@ -109,13 +139,19 @@ AŞ. arasında finansal kurumlar birliği nezdinde 20/12/2017 tarih ... tescil n
 
 ## Ankara BAM 22. HD 2024/1164 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1085239000)
+
 Kural olarak, kiracı kendisine finansal kiralama şirketi tarafından yetki verilmeden böyle bir davayı açamaz. Finansal kiralama şirketinin malın ayıplı olmasından dolayı alacak ve dava hakkını kiracıya devretmesi ile, malın ayıplı olmasından dolayı kiracıyı temsilci tayin etmesinin hukuki sonuçları farklıdır. Finansal kiralama şirketi kiracıyı temsilci tayin etmişse kiracı ayıba karşı tekeffülle ilgili 6098 sayılı B.K.nun 227 ve devamı maddelerinde kiralayan şirketin verdiği yetkileri ve kendisinin uğradığı zarar nedeniyle oluşan alacağının tahsiline dair haklarını kullanabilir. Finansal kiralama şirketi talep ve dava hakkını kiracıya devretmişse, kiracı sadece finansal kiralama şirketinin verdiği yetki doğrultusunda kullanabileceği gözetilerek davacı kiracının sözleşmeden dönme hakkını kullanamayacağı gerekçesiyle davanın davacının aktif husumet ehliyeti bulunmadığından reddine karar vermek gerekmiştir.
 
 ## Bursa BAM 5. HD 2024/1371 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1151091300)
+
 Bu itibarla, talep eden satıcının ticari satıma konu ettiği makineler yönünden satışa izin verilebilmesi için alıcının temerrüde düşürülmesi gerekmektedir. Satışa konu makinelerin feshedilen finansal kiralama konusu fabrikada bulunduğu anlaşılmaktadır. Öte yandan, müflis (kiracı) şirket ile alıcı şirketin ortaklık yapısının benzeştiği, alıcı şirket ortaklarının müflis şirket ortağı ve kızı olduğu, müflis şirketle satıcı arasında feshedilen finansal kiralama sözleşmesinden kaynaklı borca yönelik davanın derdest olduğu anlaşılmaktadır. Hal böyle olunca, belirtilen olgular nedeniyle makinelerin bulunduğu yer bakımından teslime dair temerrüdün henüz gerçekleşmediğinin anlaşılması karşısında satışa izin koşulunun sağlanmadığı dolayısıyla mahkemece satışa izin talebinin reddine karar verilmesinde bir isabetsizlik bulunmadığı değerlendirilmiştir.
 
 ## Bursa BAM 5. HD 2024/1365 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1151089500)
 
 Bu itibarla, talep eden satıcının ticari satıma konu ettiği makineler yönünden satışa izin verilebilmesi için alıcın temerrüte düşürülmesi gerekmektedir. Satışa konu makinelerin feshedilen finansal kiralama konusu fabrikada bulunduğu anlaşılmaktadır. Öte yandan,
 
@@ -123,18 +159,26 @@ müflis (kiracı) şirket ile alıcı şirketin ortaklık yapısının benzeşti
 
 ## Bursa BAM 5. HD 2024/1364 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1151089100)
+
 Bu itibarla, talep eden satıcının ticari satıma konu ettiği makineler yönünden satışa izin verilebilmesi için alıcın temerrüte düşürülmesi gerekmektedir. Satışa konu makinelerin feshedilen finansal kiralama konusu fabrikada bulunduğu anlaşılmaktadır. Öte yandan, müflis (kiracı) şirket ile alıcı şirketin ortaklık yapısının benzeştiği, alıcı şirket ortaklarının müflis şirket ortağı ve kızı olduğu, müflis şirketle satıcı arasında feshedilen finansal kiralama sözleşmesinden kaynaklı borca yönelik davanın derdest olduğu anlaşılmaktadır. Hal böyle olunca, belirtilen olgular nedeniyle makinelerin bulunduğu yer bakımından teslime dair temerrüdün henüz gerçekleşmediğinin anlaşılması karşısında satışa izin koşulunun sağlanmadığı dolayısıyla mahkemece satışa izin talebinin reddine karar verilmesinde bir isabetsizlik bulunmadığı değerlendirilmiştir.
 
 ## Bursa BAM 5. HD 2024/1009 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1148873800)
+
 Somut olayda; davacı, davalıdan leasing yolu ile satın alınan sebze kesme makinesinin üretimden kaynaklı ayıp içermesi sebebiyle TBK'nın 227 maddesi kapsamında düzenlenen sözleşmeden dönme suretiyle makinenin iadesi ve bedelin tahsiline karar verilmesini talep etmiş olup, davaya konu makinenin ayıplı olup olmadığı yargılama konusunu oluşturmaktadır. Davaya konu makine davacı yedinde bulunmaktadır. Hal böyle olunca, makinenin teslimi ile birlikte bedelin istenebilir hale geleceğinden muaccel bir alacak koşulunun gerçekleşmediği, öte yandan, davacı tarafından davalının İİK'nın 257/2 maddesi kapsamındaki koşullarının iddia ve ispat edilememesi karşısında mahkemece verilen kararın isabetli olduğu, davacı istinaf sebeplerinin yerinde olmadığı değerlendirilmiştir.
 
 ## İstanbul BAM 13. HD 2024/1047 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1042189500)
 
 Finansal Kiralama A.Ş. tarafından Sivil Havacılık Genel Müdürlüğü'ne 18.09.2015 tarihinde alım satım işleminin gerçekleştirilemediği ve aracın üçüncü kişiye satılmasında bir sakıncanın bulunmadığının bildirildiği sabittir. Dava, HMK'nın 109. maddesi uyarınca açılmış kısmi dava niteliğindedir. Mahkemece davalı ....A.Ş. yönünden dava dilekçesinde talep edilen tazminatların dava edilen kısmının tamamı kabul edilmiş ise de, gerekçeli kararda her bir talep edilen tazminat kalemi yönünden davacının talep edebileceği tam tazminat miktarının ne olduğu açıklanmamış olup, kararın yeterli ve denetlenebilir gerekçe içermemesi kamu düzenine aykırılık teşkil ettiğinden bu husus HMK'nın 355. maddesi uyarınca Dairemizce re'sen kaldırma sebebi yapılmıştır.Kabule göre de; dava konusu Hava Aracı Alım Satım Sözleşmesi niteliği gereği TBK'nın 207 vd maddelerinde düzenlenen taşınır alım satımına dair bir sözleşme olup, sözleşmenin satıcı tarafında davacı, alıcı
 
 tarafında ise davalı ... A.Ş. yer almaktadır. Davalı ...A.Ş. ise sözleşmeyi finansal kiracı sıfatı ile imzalamıştır. Davacı taraf dava dilekçesinde talebini sözleşmenin ifa edilmemesinden doğan müspet zarar olarak açıklamıştır. TBK'nın 235. maddesinde taşınır satışında alıcının temerrüdü halinde satıcının sözleşmeden dönme hakkı düzenlenmiştir. Buna göre; satılanın, ancak satış bedeli ödendikten sonra veya ödenme anında devredilmesi gereken durumlarda alıcı temerrüde düşerse satıcı, herhangi bir işlem gerekmeksizin satıştan dönebilir. Bu hakkını kullanmak isteyen satıcı, durumu gecikmeksizin alıcıya bildirmek zorundadır.
 
 ## İzmir BAM 11. HD 2024/1125 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1037898100)
 
 6361 sayılı FKK'nun 24/4 maddesine göre kiralama konusu malın sigorta ettirilmesi borcu malik sıfatıyla kiralayana verilmiş olup, buna göre kiralayan mülkiyeti kendisine ait olan kiralama konusu malı sözleşme süresince sigorta ettirmekle yükümlüdür. Kiralayanın malı sigorta ettirmesi borcunun karşılığında sigorta primlerinin ödenmesi borcu ise kiracıya yüklenmiştir. Diğer taraftan TBK'nun 136. Maddesinden farklı olarak 6361 sayılı kanunun 24/5 maddesi uyarınca finansal kiralama sözleşmesine konu malın sözleşme süresi içerisinde uğrayacağı hasar veya ziyadan sorumluluk kiracıya ait olacaktır.

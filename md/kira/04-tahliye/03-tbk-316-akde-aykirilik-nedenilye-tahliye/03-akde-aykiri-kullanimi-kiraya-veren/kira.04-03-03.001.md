@@ -25,4 +25,6 @@ Taşınmazın akde aykırı kullanımının, kiraya verence başlangıçtan beri
 
 ## Yargıtay 3. HD 2026/59 K. (kanun yararına temyiz isteminin reddi)
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1201011500)
+
 Kiralananda kiracının evlenmeyle ayrılması sonrasında yakın aile bireylerinin kira karşılığı yaklaşık dört yıldır oturmaya devam ettikleri halde **kiraya verenin bu duruma uzun bir süre ses çıkarmaması, kiraya verenin bu kullanıma icazet verdiği anlamına gelir**.

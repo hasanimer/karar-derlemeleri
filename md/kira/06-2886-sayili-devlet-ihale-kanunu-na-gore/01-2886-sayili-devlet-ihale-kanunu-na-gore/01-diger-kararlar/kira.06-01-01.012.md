@@ -22,15 +22,21 @@ uyari: "Derleyenin seçtiği alıntılardır; kararın tamamı değildir. Künye
 
 ## Yargıtay 13. HD 2009/15395 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/835802900)
+
 Kanunu’nun 94. maddesiyle yürürlükten kaldırılmış, ancak, 6570 sayılı Kanunun 14. maddesinde bu yönden bir değişiklik yapılmamış; böylece, anılan 14. madde, yürürlükte olmayan bir kanuna atıf yapan içeriğiyle varlığını sürdürmüştür. Hem 2490 sayılı Artırma, Eksiltme ve İhale Kanunu ve hem de onu yürürlükten kaldırarak aynı konuyu yeniden düzenleyen 2886 sayılı Devlet İhale Kanunu; kamu kurumlarının satım, kira ve benzeri konularda yapacakları ihalelerin yöntemlerine, içeriklerine ve sonuçlarına ilişkin düzenlemeler taşımaktadırlar. Gerek bu durum ve gerekse kanun koyucunun 2490 sayılı Kanun yürürlükten kaldırılmış olmasına rağmen, 6570 sayılı Kanunun ona atıf yapan 14. maddesinde bir değişiklik yapma gereğini duymamış olması, anılan 14. maddedeki atfın, 2490 sayılı Kanunu yürürlükten kaldıran ve onun yerine yürürlüğe giren 2886 sayılı Kanuna yönelik olarak da devam ettiğinin kabulünü gerektirmektedir. Dolayısıyla;
 2886 sayılı Devlet İhale Kanununa göre kiraya verilen taşınmazların da (6570 sayılı Kanunun 1. maddesinde öngörülen koşulları taşımaları halinde), 6570 sayılı Kanun kapsamında olacaklarının ve bunlara ilişkin kira sözleşmeleriyle ilgili olarak, ancak 7. maddede tahdidi olarak sayılan nedenlerden birine dayanılmak ve ilam alınmak suretiyle tahliyenin sağlanabileceğinin kabulü gerekir.
 
 ## Yargıtay 13. HD 2009/14247 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/837265100)
+
 Davacının davalı ile yaptığı en son kira sözleşmesi 1.4.1997 başlangıç tarihli ve 31.12.1997 bitiş tarihlidir. Davalı ... 5.12.2008 tarihli yazıyla davacının 31.12.2008 tarihine kadar taşınması tahliye etmesini istemiştir. Bir davada ileri sürülen maddi vakıaların hukuki nitelendirmesini yapmak, uygulanacak yasa maddelerini bulup uygulamak doğrudan hakimin görevidir. (HUMK.76.md.).18.05.1955 tarihinde kabul edilen 6570 sayılı Gayrimenkul Kiraları Hakkında Kanunun 14. maddesinde “2490 sayılı Artırma, Eksiltme ve İhale Kanununa tabi olarak kiraya verilen gayrimenkuller hakkında da bu kanun hükümleri tatbik olunur.” hükmü bulunmaktadır.2886 sayılı Devlet İhale Kanunu; kamu kurumlarının satım, kira ve benzeri konularda yapacakları ihalelerin yöntemlerine, içeriklerine ve sonuçlarına ilişkin düzenlemeler taşımaktadırlar. Dolayısıyla;
 2886 sayılı Devlet İhale Kanununa göre kiraya verilen taşınmazların da (6570 sayılı Kanunun 1.maddesinde öngörülen koşulları taşımaları halinde), 6570 sayılı Kanun kapsamında olacaklarının ve bunlara ilişkin kira sözleşmeleriyle ilgili olarak, ancak 7.maddede tahdidi olarak sayılan nedenlerden birine dayanılmak ve ilam alınmak suretiyle tahliyenin sağlanabileceğinin kabulü gerekir. Somut olayda, taraflar arasındaki kira sözleşmesine konu taşınmazın nitelikleri itibariyle 6570 sayılı Kanun kapsamında yani musakkaf olup olmadığı dosya kapsamından açıkça anlaşılamamaktadır. Öyle olunca; Yerel Mahkemece öncelikle davaya konu taşınmazın (kiralananın) 6570 sayılı Kanun kapsamında bulunup, bulunmadığı belirlenmek suretiyle, eğer anılan Kanun kapsamında ise bu kanun hükümlerine göre tahliye koşullarının gerçekleşip gerçekleşmediğinin değerlendirilmesi, bu kanun kapsamında değil ise şimdi ki gibi hüküm kurulması gerekirken, taşınmazın 6570 sayılı yasa kapsamında kalıp kalmadığı hususunda keşif ve bilirkişi raporu almadan eksik inceleme sonucu yazılı şekilde hüküm kurulması usul ve yasaya aykırı olup bozma gerektirir.
 
 ## Yargıtay 13. HD 2009/13426 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/836091700)
 
 Bir davada ileri sürülen maddi vakıaların hukuki nitelendirmesini yapmak, uygulanacak yasa maddelerini bulup uygulamak doğrudan hakimin görevidir.(HUMK.76 md)18.05.1995 tarihinde kabul edilen 6570 sayılı Gayrimenkul Kiraları Hakkında Kanunun 14.maddesinde “2490 sayılı Artırma, eksiltme ve İhale Kanuna tabi olarak kiraya verilen gayrimenkuller hakkında da bu kanun hükümleri tatbik olunur.”hükmü bulunmaktadır.2886 sayılı devlet ihale kanunu, kamu kurumlarının satım, kira ve benzeri konularda yapacakları ihalelerin yöntemlerine, içeriklerine ve sonuçlarına ilişkin düzenlemeler taşımaktadırlar. Dolayısıyla 2886 sayılı Devlet İhale kanununa göre kiraya verilen taşınmazların da (6570 Sayılı Kanunun 1.maddesinde öngörülen koşulları taşımaları halinde),6570 sayılı kanun kapsamında olacaklarının ve bunlara ilişkin kira sözleşmeleriyle ilgili olarak, ancak 7.maddede tahdidi olarak sayılan nedenlerden birine dayanılmak ve ilam alınmak suretiyle tahliyenin sağlanabileceğinin kabulü gerekir.
 Somut olayda kira sözleşmesine konu taşınmazın nitelikleri itibariyle mahkemece keşif yapıldığı ve bilirkişi raporunda belirtildiği üzere çatılı (musakkaf) yerlerden olduğu ve 6570 sayılı kanuna tabi olduğu açıklanmıştır. dava konusu taşınmaz 6570 sayılı kanun kapsamında kaldığından bu kanun hükümlerine göre tahliye koşullarının gerçekleşip gerçekleşmediğinin değerlendirilmesi gerekir.(Hukuk Genel kurulunun 2009/13-289 esas, 2009/321 karar sayılı kararı da bu yöndedir.) Mahkemece, büfenin musakkaf nitelikte bulunduğunun bilirkişi raporu ile belirlenip, bu nedenle 6570 sayılı kanuna tabi olduğu düşünülerek mahkemece davanın kabulü kararının onanmasına karar verilmesi gerekirken Zuhulen bozulduğu anlaşıldığından, davacının karar
@@ -39,10 +45,14 @@ düzeltme talebinin kabulüne ve Dairemizin 8.06.2009 tarih ve 2008/16122 esas,2
 
 ## Yargıtay 13. HD 2009/12631 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/834154400)
+
 Dava konusu kiralanan alanın bulunduğu park tümü ile İl Özel İdaresi tarafından, davalı belediyeye 3.3.2008 tarihinde tahsis edilmiştir.Davalı ... bu tahsisten önce 26.7.2006 tarihli ihtarname ile kiralananın 15 gün içinde boşaltılmasını davacıdan istemiştir. Bir davada ileri sürülen maddi vakıaların hukuki nitelendirmesini yapmak, uygulanacak yasa maddelerini bulup uygulamak doğrudan hakimin görevidir. (HUMK.76.md.).18.05.1955 tarihinde kabul edilen 6570 sayılı Gayrimenkul Kiraları Hakkında Kanunun 14. maddesinde “2490 sayılı Artırma, Eksiltme ve İhale Kanununa tabi olarak kiraya verilen gayrimenkuller hakkında da bu kanun hükümleri tatbik olunur.” hükmü bulunmaktadır.2886 sayılı Devlet İhale Kanunu; kamu kurumlarının satım, kira ve benzeri konularda yapacakları ihalelerin yöntemlerine, içeriklerine ve sonuçlarına ilişkin düzenlemeler taşımaktadırlar. Dolayısıyla;
 2886 sayılı Devlet İhale Kanununa göre kiraya verilen taşınmazların da (6570 sayılı Kanunun 1. maddesinde öngörülen koşulları taşımaları halinde), 6570 sayılı Kanun kapsamında olacaklarının ve bunlara ilişkin kira sözleşmeleriyle ilgili olarak, ancak 7. maddede tahdidi olarak sayılan nedenlerden birine dayanılmak ve ilam alınmak suretiyle tahliyenin sağlanabileceğinin kabulü gerekir.Somut olayda, taraflar arasındaki kira sözleşmesine konu taşınmazın nitelikleri itibariyle 6570 sayılı Kanun kapsamında yani musakkaf olup olmadığı dosya kapsamından açıkça anlaşılamamaktadır. Öyle olunca; Yerel Mahkemece öncelikle davaya konu taşınmazın (kiralananın) 6570 sayılı Kanun kapsamında bulunup, bulunmadığı belirlenmek suretiyle, eğer anılan Kanun kapsamında ise bu kanun hükümlerine göre tahliye koşullarının gerçekleşip gerçekleşmediğinin değerlendirilmesi, bu kanun kapsamında değil ise şimdi ki gibi hüküm kurulması gerekirken, taşınmazın 6570 sayılı yasa kapsamında kalıp kalmadığı hususunda keşif ve bilirkişi raporu almadan eksik inceleme sonucu yazılı şekilde hüküm kurulması usul ve yasaya aykırı olup bozma gerektirir.
 
 ## Yargıtay 13. HD 2009/12281 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/834778000)
 
 “2490 sayılı Artırma, Eksiltme ve İhale Kanununa tabi olarak kiraya verilen gayrimenkuller hakkında da bu kanun hükümleri tatbik olunur.” hükmü bulunmaktadır.2886 sayılı Devlet İhale Kanunu; kamu kurumlarının satım, kira ve benzeri konularda yapacakları ihalelerin yöntemlerine, içeriklerine ve sonuçlarına ilişkin düzenlemeler taşımaktadırlar. Dolayısıyla; 2886 sayılı Devlet İhale Kanununa göre kiraya verilen taşınmazların da (6570 sayılı Kanunun 1. maddesinde öngörülen koşulları taşımaları halinde), 6570 sayılı Kanun kapsamında olacaklarının ve bunlara ilişkin kira sözleşmeleriyle ilgili olarak, ancak 7. maddede tahdidi olarak sayılan nedenlerden birine dayanılmak ve ilam alınmak suretiyle tahliyenin sağlanabileceğinin kabulü gerekir.Somut olayda, taraflar arasındaki kira sözleşmesine konu taşınmazın nitelikleri itibariyle 6570 sayılı Kanun kapsamında bulunup, bulunmadığı (Kanunun 1. maddesinde öngörülen şekilde belediye teşkilatı olan yerlerle, iskele, liman ve istasyonlardaki örtülü taşınmazlardan olup, olmadığı) dosya kapsamından açıkça anlaşılamamaktadır. Öyle olunca;
 Yerel Mahkemece öncelikle davaya konu taşınmazın (kiralananın) 6570 sayılı Kanun kapsamında bulunup, bulunmadığı belirlenmek suretiyle, eğer anılan Kanun kapsamında ise bu kanun hükümlerine göre tahliye koşullarının
@@ -51,10 +61,14 @@ gerçekleşip gerçekleşmediğinin değerlendirilmesi, bu kanun kapsamında de�
 
 ## Yargıtay 13. HD 2009/11839 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/835226700)
+
 Davacının dayandığı kira sözleşmesi 1.06.2003 başlangıç tarihli ve 3 yıl sürelidir. Davalı 23.11.2006 tarihli ihtarname ile kiracının sözleşmesinin 1.1.2007 tarihinden itibaren yenilenmeyeceğini kira süresinin son günü belediyeye teslim edilmesini, aksi halde 5393 sayılı kanunun 15.maddesinin p bendinin 6.fıkrasında yer alan 2886 sayılı yasanın 75.maddesi uyarınca tahliyenin sağlanacağı davacıdan istenmiştir. Bir davada ileri sürülen maddi vakıaların hukuki nitelendirmesini yapmak, uygulanacak yasa maddelerini bulup uygulamak doğrudan hakimin görevidir. (HUMK.76 md)18.05.1995 tarihinde kabul edilen 6570 sayılı Gayrimenkul Kiraları Hakkında Kanunun 14.maddesinde "2490 sayılı Artırma, eksiltme ve İhale Kanuna tabi olarak kiraya verilen gayrimenkuller hakkında da bu kanun hükümleri tatbik olunur. "hükmü bulunmaktadır. 2886 sayılı devlet ihale kanunu, kamu kurumlarının satım, kira ve benzeri konularda yapacakları ihalelerin yöntemlerine, içeriklerine ve sonuçlarına ilişkin düzenlemeler taşımaktadırlar.
 Dolayısıyla 2886 sayılı Devlet İhale kanununa göre kiraya verilen taşınmazların da (6570 Sayılı Kanunun 1.maddesinde öngörülen koşulları taşımaları halinde), 6570 sayılı kanun kapsamında olacaklarının ve bunlara ilişkin kira sözleşmeleriyle ilgili olarak, ancak 7. maddede tahdidi olarak sayılan nedenlerden birine dayanılmak ve ilam alınmak suretiyle tahliyenin sağlanabileceğinin kabulü gerekir. Somut olayda kira sözleşmesine konu taşınmazın nitelikleri itibariyle mahkemece keşif yapıldığı ve bilirkişi raporunda belirtildiği üzere çatılı(musakkaf) yerlerden olduğu ve 6570 sayılı kanuna tabi olduğu açıklanmıştır. dava konusu taşınmaz 6570 sayılı kanun kapsamında kaldığından bu kanun hükümlerine göre tahliye koşullarının gerçekleşip gerçekleşmediğinin değerlendirilmesi gerekir. (Hukuk Genel kurulunun 2009/13-289 esas, 2009/321 karar sayılı kararı da bu yöndedir.) Mahkemece, büfenin musakkaf nitelikte bulunduğunun bilirkişi raporu ile belirlenmesine, bu nedenle 6570 sayılı kanunua tabiolduğu düşünülmeden, aksi düşüncelerle davanın reddine karar verilmesi usul ve yasaya aykırı olup Bozmayı gerektirir.
 
 ## Yargıtay 13. HD 2009/11218 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/834011800)
 
 Dava konusu kiralanan alanın bulunduğu iskele tümü ile ilk maliki olan ... İşletmeleri tarafından, davalı belediyeye 15.3.2005 tarihinde devir edilmiş, yeni malik olan davalı da 23 .11.2006 tarihli ihtarname ile kiralananın 7gün içinde boşaltılmasını davacıdan istemiştir. Bir davada ileri sürülen maddi vakıaların hukuki nitelendirmesini yapmak, uygulanacak yasa maddelerini bulup uygulamak doğrudan hakimin görevidir. (HUMK.76.md.).18.05.1955 tarihinde kabul edilen 6570 sayılı Gayrimenkul Kiraları Hakkında Kanunun 14.maddesinde “2490 sayılı Artırma, Eksiltme ve İhale Kanununa tabi olarak kiraya verilen gayrimenkuller hakkında da bu kanun hükümleri tatbik olunur.” hükmü bulunmaktadır.2886 sayılı Devlet İhale Kanunu; kamu kurumlarının satım, kira ve benzeri konularda yapacakları ihalelerin yöntemlerine, içeriklerine ve sonuçlarına ilişkin düzenlemeler taşımaktadırlar. Dolayısıyla; 2886 sayılı Devlet İhale Kanununa göre kiraya
 
@@ -63,9 +77,13 @@ Yerel Mahkemece öncelikle davaya konu taşınmazın (kiralananın) 6570 sayıl�
 
 ## Yargıtay 14. HD 2009/8446 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/847300800)
+
 “Ecrimisil ve tahliye” başlıklı 2886 sayılı Kanununun 75. maddesinin 3 ve 4.fıkraları aynen “kira sözleşmesinin bitim tarihinden itibaren işgalin devam etmesi halinde sözleşmede hüküm varsa ona göre hareket edilir. Aksi halde ecrimisil alınır. İşgal edilen taşınmaz mal idarenin talebi üzerine bağlı bulunduğu mülki amirince 15 gün içinde tahliye ettirilerek idareye teslim edilir” hükmünü içermektedir. Görülüyor ki, 75. madde hükmünün uygulanabilmesi için bir yerin devletin özel mülkiyetinde veya hüküm ve tasarrufu altında bulunan bir taşınmaz mal olması ayrıca bu yerde kiracının kira sözleşmesi bitmesine rağmen işgale devam ediyor olması koşullarının varlığı gerekir. Yukarıda yapılan saptamaya göre kira sözleşmesi devam ettiği gibi kiralanan yer devletin özel mülkiyetinde veya hüküm ve tasarrufu altında bulunan bir taşınmaz da olmadığından olaya 2886 sayılı Devlet İhale Kanununun 75. maddesinin uygulanma olanağı bulunmamaktadır.
 
 ## Yargıtay 13. HD 2009/7806 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/832990400)
 
 Taraflar arasındaki kira sözleşmesinin 01.02.2005 başlangıç tarihli olup 01.02.2008 tarihinde sona ereceği çekişme konusu değildir. Davalı 21.01.2008 tarihli yazısı ile, 08.02.2008 tarihinde yapılacak ihale sonunda dava konusu taşınmazın kiraya verileceğini ve bu sözleşmenin yenilenmeyeceğini davacıya bildirmiş olup; davacı kiralananın 6570 Sayılı Kanuna tabi olduğunu, anılan yasanın 11. maddesi gereğince sözleşmenin aynı şartlarla bir yıl uzamış sayıldığını iddia ederek, yaratılan çekişmenin giderilmesi talebiyle bu davayı açmıştır.13.7.2005 tarihinde yürürlüğe giren, 5393 Sayılı Belediye Kanununun 15. maddesinin 3. fıkrasının 2. cümlesi, “2886 sayılı Devlet İhale Kanununun 75. maddesi hükümleri belediye taşınmazları hakkında da uygulanır” hükmünü getirmiştir. Yeni yasanın bu açık ve net hükmü karşısında belediyelere ait taşınmazların kira sözleşmelerinde 6570
 
@@ -73,13 +91,19 @@ Sayılı Kanunun 11. maddesinin uygulanması ve kira sözleşmelerinin kendiliğ
 
 ## Yargıtay 15. HD 2009/1866 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/855860100)
+
 Hazineye ait, ... İlçesi ... Köyünde bulunan 356 parsel ile 358 parsel numaralı taşınmazlar ağaçlandırılmak üzere 2886 Sayılı Yasa’nın 51/g maddesi uyarınca yapılan ihale sonucunda yıllığı 680,00 TL bedelle 10 yıl süre ile davacıya kiraya verilmiştir. Kira sözleşmesinin özel şartlar bölümünün 6. maddesine aykırılık nedeniyle, davalı idare tarafından 23.07.2004 tarihinde, tek taraflı fesih ile taşınmazın teslimi istenilmiştir.
 
 ## Yargıtay 14. HD 2008/12989 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/849672500)
+
 Bu saptamadan sonra, 2886 sayılı yasanın 75. maddesinin uygulama alanı ve koşullarına da kısaca değinmek gerekmektedir. Bilindiği gibi 75.madde Devletin özel mülkiyetinde veya hüküm ve tasarrufu altında bulunan taşınmaz malların gerçek ve tüzelkişilerce işgali üzerine veya kira ilişkisi var ise sözleşmesinin bitim tarihinden itibaren, işgalin devam etmesi halinde ecrimisil alınması ve taşınmazın idarenin talebi üzerine bulunduğu yer mülki amirince tahliye ettirilmesi hususunu düzenlemekteydi. Daha sonra 5393 sayılı Belediye Kanununda yapılan değişiklik ile Belediyeler tarafından 2886 sayılı yasa uyarınca kiraya verilen taşınmazlar hakkında da sözleşmede özel bir düzenleme getirilmiş olmadıkça 75. maddenin uygulanması olanağı tanınmıştır(Belediye Kanunu m.15/p-3). Hemen belirtmek gerekir ki kiraya verilen taşınmazın mülki amirce tahliyesinin sağlanabilmesi kiracının fuzuli şagil durumuna düşmesi, bir diğer ifade ile sözleşme ilişkisinin sona ermesi koşuluna bağlıdır..
 
 ## Yargıtay 13. HD 2008/13155 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/845346000)
 
 Taraflar arasında düzenlenmiş olan 10.12.2004 başlangıç tarihli 5 yıl süreli kira sözleşmesi gereği taşınmazın 2886 sayılı yasaya göre kiraya verildiği sabittir. Devletin ... mülkiyetinde veya hüküm ve tasarrufunda bulunan taşınmazlar 2886 sayılı yasanın yürürlüğe girmesi ile 6570 sayılı yasa kapsamından çıkarıldığından bu taşınmazların kira sözleşmeleri hakkında 6570 sayılı yasa hükümleri uygulanmaz. Bu tür nitelikteki taşınmazların kira sözleşmeleri, 2886 sayılı yasanın 75. maddesi hükmü uyarınca kira süresinin bitim tarihinde sona erer. Somut olayda kira sözleşmesinin 10.12.2009 tarihinde sona ereceği anlaşılmaktadır. Her ne kadar davalı tarafça sözleşmenin ... şartlar 1. maddesine dayanılarak tahliye istenmekte ise de; sözleşmenin bu hükmü ancak sözleşmenin süresi dolduktan sonraki dönem için geçerlilik arz edecektir. Bunun dışında davalı tarafça, davacının feshi gerektiren sözleşmeye aykırı davranışları olduğuna , kira bedellerini ödemediğine veya bu konuda temerrüde düşürüldüğüne ilişkin dosya içerisinde herhangibi iddia ve delil bulunmamaktadır. Hal böyle olunca mahkemece davacının kiracılığının tespiti ile muarazanın giderilmesine karar
 
@@ -87,14 +111,20 @@ verilmesi gerekirken yazılı gerekçe ile davanın reddine karar verilmiş olma
 
 ## Yargıtay 3. HD 2008/18696 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/16698200)
+
 Davalı taraf kiralananı 2886 sayılı Devlet İhale Kanunu hükümlerine göre davacıya kiralamıştır. Anılan Kanun'un 75/3. maddesinde tahliyeye ilişkin koşullar ile birlikte kira sözleşmesinin bitim tarihinden İtibaren işgalin devam etmesi halinde sözleşmede hüküm varsa ona göre hareket edileceği, aksi halde ecrimisil alınacağı hükmü yer almaktadır. Bu hüküm 2886 sayılı Kanun ile Hazine tarafından kiraya verilen taşınmazlarda sözleşme süresi sonunda sözleşmenin sona ereceğinden tahliye yöntemini düzenlemektedir. Öte yandan, 13.07.2005 tarihinde yürürlüğe giren 5393 sayılı Belediye Kanunu'nun 15. maddesi ile 2886 sayılı Devlet İhale Kanunu'nun 75. maddesinin belediye taşınmazları hakkında da uygulanacağı hükme bağlanmıştır.
 
 ## Yargıtay 13. HD 2008/1094 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/834511000)
 
 Taraflar arasındaki kira sözleşmesinin 1.8.1985 başlangıç tarihli olup her yıl yenilenerek devam ettiği, en son 1.8.2004 tarihinde kendiliğinden bir yıl süre ile yenilendiği ve 31.7.2005 tarihinde sona ereceği çekişme konusu değildir. Davalı belediye 28.6.2005 tarihinde davacıya çektiği ihtar ile, 1.8.2005 tarihi itibariyle tahliye istemek suretiyle yeni dönemde kira sözleşmesini yenilemeyeceği iradesini davacıya bildirmesi üzerine, davacının kiralananın 6570 sayılı kanuna tabi olup,yargı kararı olmadan tahliye istenemeyeceği, 2886 sayılı kanunun uygulanamayacağı gerekçesi ile yaratılan çekişmenin giderilmesi talebiyle bu dava açılmıştır. 13.7.2005 tarihinde yürürlüğe giren, sayılı Belediye Kanununun 15. maddesinin 3. fıkrasının 2. cümlesi, “2886 sayılı Devlet İhale Kanununun 75. maddesi hükümleri belediye taşınmazları hakkında da uygulanır” hükmünü getirmiştir. Yeni yasanın bu açık ve net hükmü karşısında belediyelere ait taşınmazların kira sözleşmelerinde 6570 sayılı kanunun 11. maddesinin uygulanması ve kira sözleşmelerinin kendiliğinden bir yıl uzama olanağı yoktur.
 Öyle olunca taraflar arasındaki kira sözleşmesinin, kira süresinin dolduğu 31.7.2008 tarihinde sona ereceğine, davalı belediyenin kira süresini uzatmayacağını bildirip, kiralananın tahliye edilmesini istediğine göre, davanın reddine karar verilmesi gerekir. Mahkemece aksi düşüncelerle yazılı şekilde karar verilmesi usul ve yasaya aykırı olup, bozmayı gerektirir.
 
 ## Yargıtay 13. HD 2007/12961 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/839780600)
 
 Taraflar arasındaki en son kira sözleşmesi 01.08.1985 başlangıç tarihli ve bir yıl sürelidir. Davalı 25.05.2006 tarihli ihtarla yıldan yıla yenilenen bu sözleşmenin yenilenmeyeceğini ve süre sonunda kiralananın boşaltılmasını istemiş olup; davacı kiralananın 6570 sayılı kanuna tabi olduğunu , yargı kararı olmadan tahliye istenemeyeceği, 2886 sayılı kanunun uygulanamayacağını iddia ederek, yaratılan çekişmenin giderilmesi talebiyle bu davayı açmıştır. 13.7.2005 tarihinde yürürlüğe giren, 5393 sayılı Belediye Kanununun 15. maddesinin 3. fıkrasının 2. cümlesi ile “2886 sayılı Devlet İhale Kanununun 75. maddesi hükümleri belediye taşınmazları hakkında da uygulanır” hükmünü getirmiştir. Yeni yasanın bu açık ve net hükmü karşısında belediyelere ait taşınmazların kira sözleşmelerinde 6570
 
@@ -102,27 +132,39 @@ sayılı kanunun 11. maddesinin uygulanması ve kira sözleşmelerinin kendiliğ
 
 ## Yargıtay 13. HD 2007/11508 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/840107000)
+
 Davacı kira sözleşmesinin haksız olarak fesh edildiğini ileri sürerek kiracılığının tespiti için eldeki davayı açmıştır. Davacı ile davalı arasında yapılan 1.1.2004/31.12.2004 tarihli kira sözleşmesine ekli şartnamede 2886 sayılı yasanın uygulanacağı belirtilmiş olduğu gibi, 20.3.2006 tarihli Bakanlar kurulu kararı ile ... İl Merkezindeki tüm cami tuvaletlerinin bakım, onarım ve temizlik hizmetlerinin yapılması, kiraya verilmemesi ve kar amaçlı kullanılmaması karşılığında 10 yıl süre ile ve bedelli olarak Belediyeye tahsisinin yapılmasına karar verilmiş olup, Bakanlar kurulu kararının iptal edildiğine ilişkin dosyada her hangi bir bilgi ve belge de yoktur. Diğer yandan, 5393 sayılı Belediyeler Kanununun 15/h maddesinde; "mahalli müşterek nitelikteki hizmetlerin yerine getirilmesi amacıyla, belediye ve mücavir ... içerisinde taşınmaz almak, kamulaştırmak, satmak, kiralamak veya kiraya vermek, trampa etmek, tahsis etmek, üzerinde sınırlı ayni hak tesis etmek yetki ve imtiyazlarının belediyelere ait olduğu belirtilmiş ve anılan maddenin sondan bir önceki parağrafında da, "Belediye mallarına karşı suç işleyenler Devlet malına karşı suç işlemiş sayılır.
 2889 sayılı Devlet İhale Kanununun 75 inci maddesi hükümleri belediye taşımazları hakkında da uygulanır" hükmü getirilmiştir. 5393 sayılı kanunun 15 inci maddesinin yürürlüğü ile ilgili kanunda ayrıca bir düzenleme yapılmamıştır. Böyle olunca tararrufu belediyeye ait taşınmazlarla ilgili olarak kira süresi 5393 sayılı yasanın yürürlüğe girdikten sonra sona eren sözleşme ve uyuşmazlıklarda 5393 yasanın ve dolayısıyla da 2886 sayılı yasanın 75 inci maddesi hükümlerinin uygulanacağının kabulü gerekir. Davacı, 22.12.2005 tarihinde tebliğ edilen yazı ile sözlemenin yenilenmeyeceğini bildirmiş olduğuna göre yukarıda açıklanan düzenlemeler karşısında mahkemece, davanın reddine karar vermek gerekirken, yazılı gerekçe ile kabulü usul ve yasaya aykırı olup, bozma nedenidir.
 
 ## Yargıtay 13. HD 2007/6542 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/839824500)
+
 Taraflar arasındaki sözleşme, okul kantininin işletilmesine yönelik olup sözleşmenin 23. maddesinde kira süresinin bitiş tarihinde kiracı tarafından tahliye edilmediği takdirde 2886 sayılı Devlet İhale Kanunu’nun 75. maddesinde belirlenen usulün uyulanacağı açıkça belirtilmiştir.Taraflar arasında düzenlenen tarihsiz sözleşmenin ... şartlar bölümünün 2. maddesinde, sözleşmenin 4.5.2006 tarihine kadar geçerli olduğu açıkça belli olup, davalı idare tarafından da sözleşmenin 4.5.2006 tarihli yazı ile uzatılmayacağı açıkça davalıya bildirildiğine göre taraflar arasındaki kira sözleşmesi sona ermiş olduğundan davacının artık bu yerde kiracılık sıfatı kalmamıştır.Öyle olunca davanın reddine karar verilmesi gerekirken, aksi düşüncelerle yazılı şekilde karar verilmesi usul ve yasaya aykırı olup, bozmayı gerektirir.
 
 ## Yargıtay 6. HD 2007/2564 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/16150100)
 
 Kiralananın 2886 sayılı Devlet İhale Yasası hükümlerine göre ihale sonucu kiralanması, 6570 sayılı Yasa'nın uygulanmasına engel teşkil etmez. Gayrimenkul Kiraları Hakkındaki 6570 sayılı Yasa, Belediye hudutları dahilindeki musakkaf nitelikteki taşınmazlar hakkındaki kira sözleşmelerine uygulanmakta olup, 2886 sayılı Devlet İhale Yasası yönünden ayrık bir hüküm taşımamaktadır. Esasen 6570 sayılı Yasa'nın 14. maddesi "2490 sayılı İhale Kanunu'na tabi olarak kiraya verilen gayrimenkuller hakkında da bu Kanun hükümleri tatbik olunur" hükmünü taşımaktadır. 2490 sayılı Yasa 01.01.1984 tarihinde yürürlükten kaldırılmış, yerine 2886 sayılı Yasa konmuştur. 2886 sayılı Yasa'nın 75. maddesi hükmünden ancak Hazine ve Belediyeler yararlanır. Zira, Hazine ve Belediyeler bu yasa uyarınca kiraya verdikleri taşınmazların süre bitimi sebebiyle 2886 sayılı Kanun'un 75. maddesine göre mülki amirden tahliyesini isteyebilecekleri gibi, 6570 sayılı Kanun'un 12. maddesine dayanarak süre bitimi sebebiyle "fuzuli şagil" durumuna düşen kiracının sulh hukuk mahkemesine başvurarak tahliyesini isteyebilirler.
 Hazine ve Belediyeler dışında diğer kamu kuruluşları, taşınmazlarını 2886 sayılı Yasa uyarınca kiraya vermiş olsalar bile, bu Kanun'un 75. maddesine dayanarak kiralananın tahliyesini sağlayamazlar. Hazine ve Belediyeler dışındaki diğer kamu kurumlarına ait taşınmazlar, 6570 sayılı Kanun'un kapsamında ise, yazılı tahliye taahhüdü dışında süre bitimi sebebiyle tahliye edilemezler. Açıklanan bu nedenle, 2886 sayılı İhale Yasası'na göre kiraya verilen 6570 sayılı Yasa'ya tabi kiralananın ihtiyaç nedeniyle tahliyesinin istenmesinde bir usulsüzlük bulunmamaktadır.
 
 ## Yargıtay 14. HD 2006/10197 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/854822200)
+
 Ecrimisil talebinde bulunan Hazinenin ise seçimlik iki hakkı vardır. Dilerse 2886 sayılı Devlet İhale Kanunun 75.maddesi uyarınca tesbit ettiği ecrimisili ihtarname veya ihbarname ile fuzuli şagile tebliğ edip, rızaen ödenmemesi halinde 6183 Sayılı Kanunun hükümlerine göre tahsil edebilir. Taşınmazın bulunduğu yer mülki amiri vasıtasıyla fuzuli şagili tahliye ettirebilir. Ancak bu durumda, ortada idari bir işlem söz konusu olacağından, idari işlemin iptali davası idari yargıda görülür.
 
 ## Yargıtay 14. HD 2006/8705 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/852936900)
+
 ...Üniversite Rektörlüğü olduğundan ve Üniversiteler katma bütçeye dahil idareler statüsünde bulunduğundan taşınır ve taşınmaz malların ve hakların kiralanması veya kiraya verilmesi işlemlerinde 2886 sayılı Devlet İhale Kanunu prosedürüne uyulması zorunludur. Somut olayda, kiralama işlemi ihaleye çıkarılmamış, taraflar zirai gayrimenkul kiralama işini adi yazılı sözleşmelerinde kararlaştırmıştır. İhale yapılmaksızın ve anılan yasanın 53.maddesinin öngördüğü biçimde tarafların noterde yaptıkları sözleşmeleri bulunmadığından adi yazılı sözleşme geçersizdir.
 
 ## Yargıtay 14. HD 2006/4634 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/852444800)
 
 Diğer taraftan ... 1. Asliye Hukuk Mahkemesinin 2000/90-1062 sayılı dava dosyası kapsamında davacının dayanmakta olduğu kira ilişkisinin hukuken 11.8.1997 tarihinde sona
 
@@ -130,9 +172,13 @@ erdiği anlaşılmaktadır. Kaldı ki, az yukarıda sözü edilen kira sözleşm
 
 ## Yargıtay 14. HD 2006/3066 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/852761600)
+
 Gerçekten hükmüne uyulan Yargıtay ilamında vurgulandığı üzere; 2886 sayılı Devlet İhale Kanununun 75.maddesi uyarınca mülki amirin işgal edilen taşınmazlardan tahliye yetkisi devletin özel milkiyetinde veya hüküm ve tasarrufu altında bulunan taşınmazlar içindir. Bu hükümden belediyelerin yararlanma olanağı bulunmadığından tahliye konusunda bir mahkeme kararı olmadan davalının mecurdan çıkarılması haksız tahliye olup, davacı tazminat talebinde bulunabilir.
 
 ## Yargıtay 13. HD 2004/8264 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/16349600)
 
 Dava konusu taşınmaz devletin özel mülkü olduğu gibi, arsa atarak davacılara 2886 sayılı Yasaya göre kiraya verilip, üzerindeki tesisler davacılar tarafından yapıldığından taraflar arasındaki kira sözleşmesi hakkında 6570 sayılı Yasa hükümleri uygulanamaz. Kira sözleşmesindeki üç yıllık süre bitmemiş ise de, davacıların kiraları, kendilerine gönderilen ihtara ve verilen süreye rağmen ödemediklerinden, kira sözleşmesine aykırı davrandıklarından, 2886 sayılı Yasanın 62. maddesine göre kira sözleşmelerinin fesih edildiğine bu nedenle davacıların fuzuli şagil durumuna düştüklerinden kiracılık sıfatlarının kalmadığına dair, davalı idarenin savunmasına ve dosyaya sunulan bu konudaki belgelere, davacılar tarafından karşı çıkılmamış, kirayı süresinde ödediklerini ileri sürmemişler, sadece kira sözleşmesinin 6570 sayılı Yasaya tabi olduğunu ve kira süresinin bitmediğini bildirmişlerdir. Öyle olunca, 2886 sayılı Yasaya göre kiraya verilen taşınmazın kira sözleşmesinin, davacıların sözleşmeye aykırı davranışları nedeniyle idarece 2886 sayılı Yasanın 62. maddesine göre feshedilip, aynı Yasanın 75. maddesine göre işlem yapılması da yasaya uygundur. Davacıların kiracılık sıfatları kalmamıştır.
 Mahkemece bu nedenlerle davanın reddine karar verilmemesi gerekirken, aksi düşüncelerle yazılı şekilde hüküm tesisi usul ve yasaya aykırı olup, bozmayı gerektirir.

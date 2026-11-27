@@ -21,11 +21,15 @@ uyari: "Derleyenin seçtiği alıntılardır; kararın tamamı değildir. Künye
 
 ## Yargıtay 3. HD 2025/3576 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1160316700)
+
 TBK’nın 350. maddesine göre belirli süreli konut ve çatılı iş yeri kira sözleşmelerinde, ihtiyaç nedeniyle tahliye davasında, kiraya veren tarafından sözleşmede kararlaştırılmışsa fesih ihbar şartına uyulması gerektiği, kiraya veren tarafından sözleşmede kararlaştırılan feshi ihbar şartına uyulmaması halinde, süre bitiminde kira sözleşmesinin bir yıl için uzamış olacağına, buna bağlı olarak TBK'nın 350. maddesinde öngörülen bir aylık sürede açılan davanın, süresinde feshi ihbar şartı yerine getirilmemesi nedeniyle süresinde olmadığına, İstanbul Bölge Adliye Mahkemesi 35. ile 36. Hukuk Dairelerinin kesin nitelikteki kararları arasındaki görüş ve uygulama uyuşmazlığının bu şekilde giderilmesine karar verilmiştir.
 
 Hal böyle olunca; Dairece verilen 10.03.2025 tarihli ve 2024/2446 E., 2025/1440 K. sayılı kararla, **TBK’nın 350. maddesine göre belirli süreli konut ve çatılı iş yeri kira sözleşmelerinde, ihtiyaç nedeniyle tahliye davasında, kiraya veren tarafından sözleşmede kararlaştırılmışsa fesih ihbar şartına uyulması gerektiği, aksi halde TBK'nın 350. maddesinde öngörülen bir aylık sürede açılan davanın, süresinde feshi ihbar şartı yerine getirilmemesi nedeniyle süresinde olmadığına şeklinde karar verilmiş olmakla**, uyuşmazlığın giderilmesine ilişkin yeniden karar verilmesine yer olmadığına karar verilmek gerekmiştir.
 
 ## Yargıtay 3. HD 2025/1440 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1163474000)
 
 Kira sözleşmesiyle kiracı aleyhine olacak şekilde şart kararlaştırılamazsa da aynı sözleşmede kiracının lehine kiraya verenin aleyhine olacak şekilde tarafların düzenleme yapmaları mümkündür. Belirli süreli konut ve çatılı iş yeri kirasında kiracı süre bitiminden en az on beş gün önce bildirimde bulunmadıkça sözleşme aynı koşullarla bir yıl uzamış sayılır. Kiraya verenin kanunda düzenlenmiş fesih ve tahliye sebebi bulunmadığında süre bitimi nedeniyle sözleşmeyi sona erdirmesi (belirsiz süreli sözleşmede 10 yılın tamamlanması, belirli süreli sözleşmelerde 10 yıllık uzama süresinin tamamlanması hariç) mümkün değildir. Ancak kiraya veren sözleşme süresinin veya uzayan yılın bitiminden itibaren bir ay içinde TBK m 350 uyarınca kendisi, eşi, alt soyu, üst soyu veya kanun gereği bakmakla yükümlü olduğu diğer kişiler için gereksinim sebebiyle kullanma zorunluluğu bulunduğunda dava açmak suretiyle sözleşmeyi sona
 
@@ -34,6 +38,8 @@ Erdirilebilir. **Sözleşme ile kiraya verenin aleyhine olacak şekilde süre bi
 olsa bile kiraya verenin kendisi için sözleşmede kararlaştırılan ihbar süresine uymadığından açtığı dava reddedilir.
 
 ## Yargıtay 6. HD 2014/9709 E. , 2014/11464 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/97445300)
 
 6098 sayılı TBK.'nun 350/1. maddesi hükmüne göre ihtiyaç iddiasına dayalı olarak açılacak tahliye davalarının belirli süreli sözleşmelerde sürenin sonunda, belirsiz süreli sözleşmelerde bu kanunun 328. maddesinde fesih bildirimi için öngörülen sürelere uyularak belirlenecek tarihten başlayarak bir ay içinde açılması gerekir. TBK.'nun 353. maddesi uyarınca kiraya veren, daha önce veya en geç davanın açılması için öngörülen sürede dava açacağını kiracıya yazılı olarak bildirmişse dava, bildirimi takip eden uzayan bir kira yılı sonuna kadar açılabilir. **Dava açma süresi kamu düzenine ilişkin olup, davalı ileri sürmese bile mahkemece kendiliğinden göz önünde bulundurulması gerekir**.
 

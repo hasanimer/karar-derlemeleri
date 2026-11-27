@@ -22,5 +22,7 @@ uyari: "Derleyenin seçtiği alıntılardır; kararın tamamı değildir. Künye
 
 ## Yargıtay 3. HD 2018/10866 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/467972800)
+
 Somut olayda; Kiralananın, davacı tarafından 01.01.2009 başlangıç tarihli bir yıl süreli sözleşme ile davalıya kiraya verildiği konusunda taraflar arasında bir uyuşmazlık yoktur. **6098 sayılı TBK’nun 344. ve devamı maddeleri gereği kira tespiti talebinin ancak konut ve çatılı işyeri kiralarından kaynaklanan uyuşmazlıklarda uygulanabileceği**, **bunun haricinde kira tespiti istenemeyeceği** nazara alındığında taşınmazın galip vasfının tespiti önem arz etmektedir. Ne var ki, dosya kapsamı itibariyle ve bilirkişi raporundan kiralananın galip vasfı anlaşılamamaktadır. Bu durumda mahkemece öncelikle gerekirse taşınmaza ait tapu kayıt örneği getirtilerek, sözleşmede kiralananın içkili restaurant olarak kullanılacağının kararlaştırıldığı ancak açık alanın bahsedilen kiralanan alana dahil olup olmadığı hususları birlikte incelenip kiralananın galip vasfı tespit edilerek sonucuna göre, taşınmazın üstün vasfının açık alan olarak tespiti halinde kiralananın Türk Borçlar Kanunu'nun genel hükümlerine tabi olup hakkında kira tespiti talep edilemeyeceğinden davanın reddine karar verilmesi gerekirken, eksik araştırma ve inceleme ile yazılı şekilde karar verilmesi doğru değildir.
 Hüküm bu nedenle bozulmalıdır.

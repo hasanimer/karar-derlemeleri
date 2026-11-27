@@ -21,6 +21,8 @@ uyari: "Derleyenin seçtiği alıntılardır; kararın tamamı değildir. Künye
 
 ## Yargıtay 3. HD 2017/15002 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/379431100)
+
 Kanunun dördüncü bölümünde sıralanmıştır. Kiralanan yerin gayri musakkaf vasıfta olması halinde 6098 Sayılı Türk Borçlar Kanunu'nun 299. maddesi ve devamı maddelerinde düzenlenen Genel hükümlere tabi yerlere ilişkin kira sözleşmesi hükümleri ,kiralanan yerin musakkaf vasıfta olması halinde ise aynı kanunun 339. ve devamı maddelerinde düzenlenen konut ve çatılı işyeri kira sözleşmelerine ilişkin kanun maddeleri uygulanacaktır.
 
 Dava yeni malikin gereksinimi nedeniyle tahliye ve kira bedelinin tahsili istemine ilişkin olup davalının eski malik ile imzaladığı 09/11/2012 başlangıç tarihli 2 yıl süreli, yıllık 1320 TL kira bedelli kira sözleşmesi bulunduğu hususunda uyuşmazlık bulunmamaktadır. Sözleşmede arsa vasfında olduğu belirtilen taşınmaz hurda ve geri dönüşüm işinde kullanılmak üzere kiralanmıştır. Davacı, kiralanan taşınmazı 20/02/2014 tarihinde iktisap etmiş, 05/03/2014 tarihinde davalıya tebliğ edilen ihtarname ile taşınmaza ihtiyacı bulunduğunu belirterek taşınmazın tahliyesini istemiştir. Dava konusu kiralanan arsa vasfında olup çatılı olmadığından genel hükümlere tabidir. **Türk Borçlar Kanunu Genel Hükümlerine tabi olan dava konusu arsa vasfındaki kiralanandan yeni iktisap ve ihtiyaç nedeniyle tahliye istemine dayanılarak dava açılması mümkün değildir**. Bu durumda mahkemece genel hükümlere göre tahliye şartlarının gerçekleşip gerçekleşmediği hususu değerlendirilerek sonucuna göre karar verilmesi gerekirken yazılı şekilde davanın kabulüne karar verilmesi doğru değildir.

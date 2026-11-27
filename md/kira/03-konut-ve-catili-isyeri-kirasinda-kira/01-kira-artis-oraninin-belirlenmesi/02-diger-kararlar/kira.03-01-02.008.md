@@ -23,10 +23,14 @@ uyari: "Derleyenin seçtiği alıntılardır; kararın tamamı değildir. Künye
 
 ## Yargıtay 6. HD 2014/13805 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/97471400)
+
 Sözleşmedeki artış hükmü konusunda taraflar arasında ihtilaf bulunmadığından kira miktarında yapılacak artışın sözleşme hükmüne göre yapılması gerekir. Esasen bu husus mahkemenin ve tarafların da kabulünde olup uyuşmazlık hesaplamada hangi yıla ilişkin oranın esas alınacağına ilişkindir. Sözleşmedeki artış hükmüne göre yapılacak ilk artışın 2008 yılı şubat ayında açıklanan oranlara göre yapılması, 21/02/2008 tarihinden itibaren ödenmesi gereken 2. Kira yılına ilişkin olarak 2008 yılı şubat ayında bir önceki yılın şubat ayına göre değişim oranının esas alınması gerekmektedir. TÜİK verilerine göre 2008 yılı şubat ayında bir önceki yılın aynı ayına göre değişim oranı Tüketici fiyat endeksinde %9,10, Üretici fiyat endeksinde ise %8,15 olup ortalaması %8,625 oranıdır. Hükme esas alınan bilirkişi raporunda ise 2007 yılı şubat ayındaki bir önceki yılın (2006 yılının) aynı ayına göre değişim oranı olan Tüketici fiyat endeksinde %10,16, Üretici fiyat endeksinde ise %10,13 oranlarına göre bu rakamların ortalaması %10,14 oranı artış hesaplamasında esas alınmış olup takip eden yıllarda da benzer şekilde bir önceki yılın oranlarına göre hesaplama yapılmıştır.
 Bu durumda hükme esas alınan bilirkişi raporu hatalı olup mahkemece sözleşmedeki artış hükmüne göre 2008 yılı şubat ayında açıklanan bir önceki yılın aynı ayına göre değişim oranı esas alınmak suretiyle sonuca gidilmesi gerekirken kira ilişkisinin başladığı 2007 yılı şubat ayında açıklanan artış oranları esas alınarak ve sonraki yıllar için de aynı şekilde hesaplama yapılmak suretiyle oluşturulan bilirkişi raporuna itibar edilerek yazılı şekilde hüküm kurulması doğru değildir.
 
 ## Yargıtay 6. HD 2014/13652 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/97450900)
 
 Davada dayanılan ve hükme esas alınan 12.02.2009 başlangıç tarihli ve bir yıl süreli kira sözleşmesi konusunda taraflar arasında uyuşmazlık bulunmamaktadır. Sözleşme ile dava konusu edilen gazete- meşrubat büfesi davacılar tarafından davalı S.. T..'e kiralanmış, sözleşmeyi diğer davalı N.. T.. garantör sıfatı ile imzalamıştır. Söz konusu büfe aslında Çankaya Belediyesi'ne ait iken, 16.03.2004 başlangıç tarihli ve iki yıl süreli kira sözleşmesi ile dava dışı SZ İnşaat Turizm Ltd. Şti'ye kiralanmıştır. Büfe, anılan kiracı şirket tarafından 01.11.2007 başlangıç tarihli kira sözleşmesi ile ve bir yıl süreyle davacılara kiraya verilmiştir. Bu sözleşmenin özel şartlar bölümü 5. maddesinde devir, ortak alma ve alt kiraya verme yasağı kararlaştırıldığından kiralananda alt kiracı durumunda bulunan davacılar, bu kez işletme sözleşmesi adı altında kiralananı 12.02.2009 başlangıç tarihli ve bir yıl süreli kira sözleşmesi ile davalı S.. T..'e kiralamışlardır. Kiracılık süreci içinde davalı S.. T.. ile diğer davalı A.. B.. arasında 10.11.2009 tarihinde ortaklık sözleşmesi düzenlenmesi ve kiralananın fiilen A.. B.. tarafından kullanılması nedeniyle davacılar birleşen Asliye Ticaret
 
@@ -35,9 +39,13 @@ Bu durumda mahkemece müdahalenin önlenmesi niteliğinde kiralananın tahliyesi
 
 ## Yargıtay 6. HD 2014/13561 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/97434600)
+
 Hükme esas alınan 20.04.2007 başlangıç tarihli ve 6 yıl 10 gün süreli kira sözleşmesi konusunda taraflar arasında bir uyuşmazlık bulunmamaktadır.Sözleşmenin 4/1 maddesinde “ kira sözleşmesinin süresi 20.04.2007 tarihinden itibaren başlamak üzere 6 yıl 10 gündür.Ancak taraflardan her birinin.kira süresinin sona erme tarihinden en az üç ay önce iş bu kira sözleşmesini feshedeceğini yazılı olarak ihbar etmediği takdirde iş bu sözleşme aynı şartlarda 4 yıl daha uzamış kabul edilir.5/3 maddesinde" dördüncü kira döneminin ve daha sonraki yıllık dönemlerin yıllık kira bedeli bir önceki oniki aylık Tüfe+Üfe/2 artışı oranında artırılarak hesaplanacaktır."hükmüne yer verilmiştir.
 
 ## Yargıtay 6. HD 2014/13303 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/97410500)
 
 Somut olayda, icra takibinde ve davada dayanılan ve hükme esas alınan 06.02.2004 başlangıç tarihli ve bir yıl süreli kira sözleşmesi konusunda taraflar arasında uyuşmazlık bulunmamaktadır. Sözleşmede aylık kira parası 6.500 TL olarak belirlenmiş, sözleşmenin özel şartlar bölümü 12. maddesinde, yıllık kira artışının her kira döneminin altıncı ve onikinci ayının sonunda yapılacağı, söz konusu altışar aylık kira artışında İTO'nun TEFE+ TÜFE'nin geçmiş bir yıla ait ortalama artışının yarısının baz alınacağı kararlaştırılmıştır. Yine sözleşmenin özel şartlar bölümü, 19. maddesi gereğince birinci yıl kira bitiminde kira bedeli 10.000 Dolar olacaktır. Bu şartlar geçerli olup tarafları bağlar. Davacı da, anılan kira sözleşmesine dayanarak Kadıköy 1. İcra Müdürlüğü’nün 2008 / 2793 sayılı icra dosyası ile 25.02.2008 tarihinde başlatmış olduğu icra takibi ile Ağustos 2005- Ocak 2008 arası aylar kirasının tahsili için haciz ve tahliye istekli icra takibi yapmış, davalının takibe itiraz etmesi üzerine itirazın iptali ve icra inkar tazminatının hüküm altına alınması için işbu dava açılmıştır.
 Her ne kadar davalı tarafından icra takibine itirazında ve yargılamadaki savunmasında, sözleşmenin 19. maddesinde düzenlenen 10.000 Dolar kira parasının teminat amaçlı olarak sözleşmede yer aldığı, bu rakamın kabul edilmesi halinde sözleşmedeki artış şartının geçerliliğini yitirdiği, yeni kira dönemi için de kira artış talebinde bulunulmadığı ve kira tespit davası açılmadığı belirtilmiş ise de, taraflar arasında aynı
@@ -46,10 +54,14 @@ sözleşmeye dayanılarak Kadıköy 2. Asliye Ticaret Mahkemesi'nin 2005 / 618 E
 
 ## Yargıtay 6. HD 2014/12940 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/477570900)
+
 Davada dayanılan ve hükme esas alınan 01.04.1996 başlangıç tarihli ve bir yıl süreli kira sözleşmesi konusunda taraflar arasında uyuşmazlık bulunmamaktadır. Sözleşmenin özel şartlar bölümü 1.maddesinde, sözleşmenin devamı halinde her yıl % 20 oranında kira artışı yapılacağı kararlaştırılmıştır. Davacı, davalıya 21.08.2008 tarihinde keşide ettiği ve 27.08.2008 tarihinde tebliğ ettirdiği temerrüt ihtarnamesi ile 2001- 2008 yılları arasında ödenmeyen 8.403 TL kira parasının gecikme zammı ile birlikte ödenmesini talep etmiş, temerrüt ihtarnamesinden sonuç alınmaması üzerine açmış olduğu işbu dava ile de, 2001- 2012 yılları kira parasının tahsilini istemiştir. Yargılama sırasında dava konusu edilen kira parasının hesaplattırılması yönünden bilirkişiden alınan 24.07.2013 tarihli raporda sözleşmedeki % 20 artış oranına göre 2001 yılı aylık kira parası 49.76 TL olarak saptanmıştır.
 Ancak 18.02.2000 tarihinde yürürlüğe giren 6570 Sayılı Gayrimenkul Kiraları Hakkında Kanuna Bir Geçici Madde Eklenmesi Hakkında 4531 Sayılı Kanun, 2001 yılında kira artış oranını % 10 ile sınırlamış olduğundan mahkemece yapılacak iş, 4531 Sayılı Kanun ile getirilen artış oranı göz önünde bulundurularak devam eden yıllarda da sözleşme hükmü uygulanarak, belirlenecek miktardan istenilen kira parasına hükmetmekten ibarettir. Mahkemenin bilirkişi raporu doğrultusunda ve sözleşmedeki artış şartı uygulanarak fazla kira alacağına karar vermesi doğru görülmediğinden hükmün bozulması gerekmiştir.
 
 ## Yargıtay 6. HD 2014/12904 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/97526900)
 
 Olayımızda; Davada dayanılan ve hükme esas alınan 01.04.1994 başlangıç tarihli ve bir yıl süreli kira sözleşmesi konusunda taraflar arasında uyuşmazlık bulunmamaktadır. Sözleşmede aylık kira parası 100 TL olarak kararlaştırılmış, takip eden yıllar için herhangi bir kira artış şartı düzenlenmemiştir. Kiracılık süreci içinde kira paraları davacının açmış olduğu kira tespit davaları ile belirlenmiştir. Bu bağlamda son olarak Ankara 9. Sulh Hukuk Mahkemesi'nin 2009 / 2615 esas 2010 / 1546 karar sayılı kararı ile, kira parası 01.04.2007 tarihinden itibaren 24.000 TL olarak tespit edilmiştir. Hüküm 04.11.2010 tarihinde kesinleşmiştir.Uyuşmazlığa ilişkin olarak alınan 21.04.2014 tarihli bilirkişi raporunda en son mahkeme kararı ile tespit edilen dönemden sonra üç yıl için ard arda kira parasına yıllık enflasyon oranında endeks uygulandığında 01.04.2010 tarihinde başlayacak kira döneminde aylık kira parasının 30.011,00 TL olduğu belirtilmişse de 5502 Sayılı Sosyal Güvenlik
 
@@ -57,23 +69,33 @@ Kanunun 35. maddesinin son fıkrasında Kurumun sahibi bulunduğu taşınmazlar�
 
 ## Yargıtay 6. HD 2014/12346 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/97480200)
+
 Ne var ki; karara esas alınan bilirkişi raporunda kira bedelinin indirim miktarı belirlenirken m2 üzerinden değerlendirme yapılarak eksik teslim edilen yüzölçümü oranında kira bedelinden indirim yapılarak kira bedeli tespit edilmiştir. Kira bedelinin belirlenmesinde tek ölçüt kiralananın yüz ölçümü değildir. Kiralananın kullanım amacı, konumu da, kira bedeline etki eden unsurlardır. Yüz ölçümündeki eksiklik sözleşmedeki kullanım amacına etkisi oranında kira bedelinin indirilmesini gerektirir. Davacının kira sözleşmesi ile kiralananda Kantin, Büfe ve Çayocağı olarak tek işletmeci olduğu anlaşılmaktadır. Sözleşmedeki kira bedelinin belirlenmesinde, hastane içerisinde tek işletme olmasının önemi olduğu açıktır. Nitekim sözleşmede kiracının sadece bu alan içerisinde kafeterya da içerisindeki müşterilere hizmet vereceğine ilişkin koşul bulunmamaktadır.
 Kiralananın hastane personeline, hasta, hasta yakınları ve ziyaretçilere hizmet verilmek üzere kiralanmış olmasına göre kira bedelinin indirilmesinde, eksiliğin kullanım amacını hangi ölçüde etkileyeceği değerlendirilerek buna göre makul bir miktar kira bedelinden indirilmesi gerekirken, eksik teslim edilen yüzölçümü oranında kira bedelinin indirilmesi doğru olmadığı gibi, 24.10.2013 tarihinde başlayan dönem kirasının İhale Şartnamesinin 7. maddesi gereğince, bir önceki yıl kira bedelinin TUİK tarafından yayınlanan ÜFE- bir önceki yılın aynı ayı yüzde değişim oranına göre belirleneceği kararlaştırıldığından, 24.10.2013 kirasının, indirilerek belirlenen 24.10.2012 kirası üzerinden ihale şartnamesinin 7. maddesi gereğince belirlenmesine karar vermekle yetinilmesi gerekirken, yazılı şekilde henüz arttırım dönemi gelmediğinden bahisle 2013 yılı Haziran ayı TUİK verilerine göre belirlenmesi de yerinde değildir.
 
 ## Yargıtay 6. HD 2014/11768 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/97385600)
+
 Olayımıza gelince; Davada dayanılan kira sözleşmesinde kira artış şartı düzenlenmiştir. Sözleşmede kira artışı ile ilgili düzenleme bulunduğundan ve dava 01.10.2012 tarihinde başlayan yeni kira dönemi içinde 04.02.2013 tarihinde açılmış olduğundan, mahkemece davanın süresinde açıldığının kabulü ile işin esası hakkında bir karar verilmesi gerekirken, yazılı gerekçe ile davanın reddine karar verilmesi doğru görülmediğinden hükmün bozulması gerekmiştir. Öte yandan taraflar arasında 01.10.2013 başlangıç tarihli ve iki yıl süreli yeni kira sözleşmesinin akdedilmiş olması 01.10.2012 tarihinden itibaren kira parasının tespitinin istenmesine engel değildir.
 
 ## Yargıtay 6. HD 2014/11304 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/97416500)
 
 Öte yandan; Taraflar arasında akdedilen 01.09.2009 başlangıç tarihli ve iki yıl süreli kira sözleşmesi 5. maddesinde 01.09.2011 tarihinden itibaren TUİK tarafından açıklanan ÜFE ve TÜFE ortalaması +% 5 den az olmamak üzere rayiçler oranında artırılacağı kararlaştırılmış olup 01.09.2011 tarihinden itibaren kira sözleşmesinde kararlaştırılan artış hükmüne göre 2011 yılı on iki aylık Eylül ayı TÜFE ve ÜFE ortalamasının uygulanması neticesinde çıkan kira bedeline %5 ilave edilmek suretiyle kira parasının tespitine karar verilmesi gerekirken 01.09.2009 ila 01/09/2011 tarihleri arasında gerçekleşen ÜFE ve TÜFE oranlarının hükme esas alınarak karar verilmesi isabetsiz olmuştur.
 
 ## Yargıtay 6. HD 2014/11004 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/97357200)
+
 Davada dayanılan ve hükme esas alınan kira sözleşmesi 06.03.2007 başlangıç tarihli ve 5 yıl sürelidir. Sözleşmede birbirini tamamlayan iki artış koşuluna yer verilmiştir. Sözleşmenin ek özel koşullar 4.maddesinde beş yıllık sözleşme süresinin ilk yıldan sonraki dört kira yılında kira bedelinin bir önceki yıl kirasının maliye bakanlığınca devlet kiralamaları için belirlenen kira artırım oranında artırılması suretiyle ödeneceği kararlaştırılmış ve yine özel koşullar 6.maddesinde kontrat bitiminde kira rayiç bedelinin yıllık tefe-tüfe ortalaması oranında artırılması kararlaştırılmıştır. Davacı, sözleşmedeki artış koşuluna göre 2009 yılı, 2012 yılı ve 2013 yılı Ocak ve Şubat ayları kira parasının eksik ödendiği iddiasındadır. Uyuşmazlığın 6098 sayılı TBK’nun 344.maddesi hükmü ve taraflar arasında akdedilen sözleşme hükümleri birlikte değerlendirilerek çözüme kavuşturulması gerekmektedir. Hükme esas alınan bilirkişi raporunda ise sözleşme hükümlerinde yer alan artış koşulunun neye tekabül ettiği ve davalı lehine olup olmadığı tartışılmaksızın TBK’nun 344.maddesi hükmü çerçevesinde değerlendirme yapılarak sonuca gidilmiştir.
 Öte yandan kabul şekline göre de; kira atışışının TÜİK’in yayınladığı ÜFE on iki aylık ortalama artış oranı üzerinden hesaplanması gerekirken bilirkişi raporunda doğrudan endeks oranının esas alınması da hatalıdır. Mahkemece, usulü müktesep hak ilkesi gözetilerek yukarıda açıklanan ilke ve esaslar çerçevesinde bilirkişiden denetime elverişli ek rapor alınıp alacak hesabı yapılarak sonucuna göre karar verilmesi gerekirken, hukuka uygun olmayan bilirkişi raporuna dayalı olarak yazılı şekilde karar verilmesi doğru değildir.Hüküm bu nedenle bozulmalıdır.
 
 ## Yargıtay 6. HD 2014/9702 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/97192000)
 
 Buna göre davacılardan A.. C..’ın 12/10/2009 başlangıç tarihli kira sözleşmesine göre yıllık kira bedeli 2400 TL, Ş.. A..in 01/11/2002 başlangıç tarihli kira sözleşmesine göre yıllık kira bedeli 900 TL, E.. A..’ün 19/01/2009 başlangıç tarihli kira sözleşmesine göre yıllık kira bedeli 4020 TL dir. Kira sözleşmelerinde kira bedelinin TÜFE veya ÜFE oranında artırılacağı kararlaştırılmıştır. Dava dilekçesinde dava değeri gösterilmemesine rağmen harçlandırma formunda dava değeri 2400 TL olarak gösterilmiş ve bu miktar üzerinden harç alınmıştır. Kiralananların güncel kira bedelleri dosya kapsamından anlaşılamasa da belirtilen dava değerinin kira sözleşmelerinde belirtilen değerlere göre düşük olduğu görülmektedir. Bu durumda mahkemece bu husus üzerinde durulup dava tarihi itibarı ile davacıların ödedikleri yıllık kira bedeli tespit edilerek, bu değer üzerinden yukarıdaki esaslara göre harcın tamamlattırılarak, ondan sonra yargılamaya devam olunması
 
@@ -81,9 +103,13 @@ gerekirken yazılı şekilde harç tamamlattırılmadan yargılamaya devam edile
 
 ## Yargıtay 6. HD 2014/9569 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/97180400)
+
 Öte yandan kira sözleşmesi, sözleşmenin ilk yılı içerisinde feshedilerek kiralanan tahliye edilmiştir. Nitekim davacıda kira bedelinin aylık 5.000,00 TL olduğunu belirterek bu miktar üzerinden talepte bulunmuştur. Buna rağmen, mahkemece kira sözleşmesinin başlangıç tarihinde hataya düşülerek kabul edilen 32 günlük tazminat miktarının 26 günlük kısmınında kira parasını ÜFE-TÜFE ortalamasına göre arttırarak belirlenmesi de, isabetli değildir.
 
 ## Yargıtay 6. HD 2014/9369 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/97167200)
 
 Hükme esas alınan 01.01.2012 başlangıç tarihli ve bir yıl süreli kira sözleşmesi konusunda taraflar arasında bir uyuşmazlık bulunmamaktadır.Sözleşmede aylık kira bedeli 3.500 TL olarak belirlenmiş ve yenilenen dönemde kira bedelinin Tefe+Tüfe ortalamasına göre artırılacağı kabul edilmiştir.Davacı vekili 28.02.2013 tarihinde açmış olduğu dava ile davalının emsallerine göre düşük kira bedeli ödediğini,kiralananın davalıya teslim edildikten sonra üst katlara eklemeler yapılarak büyütüldüğünü az para ödeyerek daha büyük yerin kullanıldığını,kullanım alanının fazla olması nedeniyle kira bedelinin artırılması gerektiğini belirterek 68/72 hisseye düşen paya ilişkin 3.500 TL olarak ödenen kira bedelinin 01.01.2013 tarihinden itibaren net 9.000 TL olarak tespitini talep etmiştir.
 Davalı ise kira sözleşmesine göre aylık kiranın 3.500 TL olduğunu 01.01.2013 tarihinde başlayan dönem kirasının Tefe+Üfe ortalaması olan 7.49 oranında artırılması gerekirken kira bedelini %10 artırarak 3.850 TL olarak ödediğini,yeni kiracı olması nedeniyle ekonomik şartların dikkate alınamayacağını belirterek aylık kiranın 3.850 TL olarak tespitini istemiştir.Mahkemece mahallinde keşif yapılmış bilirkişiler tarafların sunmuş olduğu emsal kira sözleşmelerini incelenmiş ve 25.07.2013 tarihli raporlarında TUİK(ufe) 12 aylık ortalamasına göre 01.01.2013 tarihinden itibaren yeni dönem aylık kira bedelinin net 3.565.71 TL brüt 4.4.57.14 TL olarak belirlendiğini,davalının 01.01.2013 tarihinden itibaren aylık 3.850 TL ödendiğini,taraflar arasında kurulan sözleşmenin 01.01.2012 tarihinde kurulduğunu üzerinden üç yıllık süre geçmediğini,teras kata çıkışın içeriden olması ve teras katın kiralananın bir parçası olarak düşünülmesi durumunda 1.1.2013 kira döneminde kiralanan 68/72 hissesi için aylık net kira bedelinin 3.850 TL, brüt kira bedelinin 4.812 TL olacağı,terasın kiralanana ait olmadığı düşünüldüğü ve teras katın düzenlenmesi ve iyileştirme yapılmasının kiracıya sağlayacağı ekonomik
@@ -93,27 +119,39 @@ olarak tespiti gerekirken yazılı gerekçeyle davanın reddine karar verilmesi 
 
 ## Yargıtay 6. HD 2014/8765 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/305775000)
+
 Hükme esas alınan 01.06.2002 başlangıç tarihli ve 1 yıl süreli kira sözleşmesi konusunda taraflar arasında bir uyuşmazlık bulunmamaktadır. Sözleşmenin özel şartlar üçüncü maddesinde “sözleşmenin bitiminde kira sözleşmesi devam ettiği veya yenilendiği takdirde son kira yılı aylık brüt kira bedeline İstanbul Ticaret Odası tüketici fiyat endeksi ile yıllık artış oranında önceki yıl kirasının zam yapılmak suretiyle hiçbir ihtara gerek kalmaksızın aylık kira zamlı şekilde ödeneceğinin” düzenlendiği hususunda uyuşmazlık bulunmamaktadır. Bu düzenleme geçerli olup tarafları bağlar. Kira sözleşmesinin 3. maddesinde, senelik kira artışının TÜFE oranında artırılarak belirleneceği düzenlenmiştir. Bu artış şartı belli ve muayyen olup geçerlidir ve tarafları bağlayıcı niteliktedir. Kira sözleşmesinin yıldan yıla yenilerek süre geldiği kabul edildiğine göre, yıllık kira artışının da bir sonraki yıla da uygulanması gerekir. Kira paralarının bankadan alınmış olması, artış şartının bertaraf edildiği anlamına gelmez.
 Bu durumda mahkemece, uzman bilirkişi aracılığıyla sözleşmedeki artış şartı dikkate alınarak 2007 yılında ödenen kira bedeli tespit edilerek talebe konu 2008 yılından başlayan, 2009, 2011, 2012 ve 2013 yılları kira artış oranı ve kira miktarları belirlenmek suretiyle, davalı kiracı tarafından yapılan ödemeler göz önüne alınarak varsa eksik ödenen kira miktarı belirlenip bu süreye ilişkin kira bedelinin tespit ve tahsiline karar verilmesi gerekirken, kira artış bedellerinin tespiti için dava açılmadığı ve davalılar tarafından yatırılan kira bedellerini hiçbir ihtirazi kayıt düşmeden alındığı gerekçesi ile eksik inceleme ile yazılı şekilde karar verilmesi doğru olmadığından hükmün bozulması gerekmiştir.
 
 ## Yargıtay 6. HD 2014/8565 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/97595300)
+
 Kural olarak taraflar arasındaki kira sözleşmesinde artış şartı varsa, ya da artış şartı olmayıp tespiti istenen dönem başlangıcından 30 gün öncesinde kira artış ihtarı karşı tarafa tebliğ edilmişse, kira tespiti istenen dönemin ilk gününden son gününe kadar bu dönem içerisinde bu döneme ilişkin kira tespit davası açılabilir. Tespiti istenen dönem geçtikten sonra bu döneme ilişkin kira tespit davası açılamaz, açılmışsa geçmiş döneme ilişkin kira tespiti yapılamaz, bu hususlar resen nazara alınır.
 
 ## Yargıtay 6. HD 2014/8299 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/97589000)
+
 Olayımıza gelince; Davada dayanılan kira sözleşmesinde bir kira artış şartı olmamakla birlikte, davacı 27.09.2011 tarihinde yenilenecek kira döneminden önce 23.08.2011 keşide ve 26.08.2011 tebliğ tarihli ihtarname ile kira artış isteminde bulunmuş, dava da tespiti istenen 27.09.2011- 27.09.2012 kira dönemi içinde 13.01.2012 tarihinde süresinde açılmış olduğundan mahkemece işin esasının incelenerek sonucuna göre bir karar verilmesi gerekirken, yazılı şekilde davanın reddine karar verilmesi doğru görülmediğinden hükmün bozulması gerekmiştir.
 
 ## Yargıtay 6. HD 2014/7945 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/97600300)
 
 İcra takibinde ve davada dayanılan ve hükme esas alınan 01.01.2008 başlangıç tarihli ve üç yıl süreli kira sözleşmesi konusunda taraflar arasında uyuşmazlık bulunmamaktadır. Sözleşmede aylık kira parası net 5.500 TL olarak belirlenmiştir. Sözleşmenin özel şartlar bölümü 7. maddesinde, her kira yılının sonunda kira artışlarının İTO'nun yıllık TEFE- TÜFE ortalamasına on puan daha eklenmek suretiyle bulunan oran üzerinden yapılacağının ve sözleşmenin genel şartlar bölümü 9. maddesinde de, bir aya ait kira parasının ödenmemesi halinde diğer aylara ait kira alacaklarının da muaccel olacağı kararlaştırılmıştır. Davalı kiraya veren tarafından davacı kiracı aleyhine Kadıköy 5. İcra Müdürlüğü'nün 2011 / 4754 sayılı dosyasında 28.02.2011 tarihinde başlatılan icra takibi ile eksik ödenen Ocak- Şubat 2011 ayları kirası ile sözleşme gereğince dönem sonuna kadar muaccel hale gelen on aylık kira parası 95.480 TL'nin tahsili talep edilmiştir. Takibe yasal süresi içinde kısmen itiraz eden davacı kiracı Ocak- Şubat 2011 ayları kira farkını 3.500 TL olarak 30.03.2011 tarihinde icra dosyasına yatırmıştır. Davalı ise itirazın kaldırılması yönünden Kadıköy 4.
 İcra Hukuk Mahkemesi'nin 2012 / 349 Esas sayılı dosyasında dava açmış, mahkemece yapılan yargılama sonucu Dairemizin de bozma ilamı üzerine itirazın 84.711 TL üzerinden kaldırılmasına, tahsilde tekerrür teşkil etmemesi bakımından daha sonra yapılan ödemelerin icra müdürlüğünce dikkate alınmasına karar verilmiştir. Karar temyiz edilmeksizin 23.10.2012 tarihinde kesinleşmiştir. Bu süre zarfında davacı kiracı da davalının banka hesaplarına Ocak -Aralık 2011 arası aylar kirası olarak toplam 87.780 TL yatırmıştır. Takip sürecinde icra müdürlüğünce 28.09.2011 tarihi itibariyle fer'ileriyle birlikte 147.717.32 TL'ye ulaşan borcun ödenmesi konusunda davacıya muhtıra çıkarılmıştır. Bunun üzerine davacı kiracı da, davacının banka hesaplarına yapmış olduğu kira ödemelerinin mahsubunu talep etmiş ise de bir sonuç alamamıştır. Bu nedenle davacı tarafından davalı aleyhine 12.11.2012 tarihinde başlatılan ve işbu davanın dayanağını oluşturan…
 
 ## Yargıtay 6. HD 2014/7731 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/97568600)
+
 Takibe dayanak yapılan ve hükme esas alınan 01.08.2011 başlangıç tarihli 2 yıl müddetli kira sözleşmesi konusunda taraflar arasında bir uyuşmazlık bulunmamaktadır. Sözleşmede aylık kira bedeli 5.250 -TL olup, her ayın 5 günü içerisinde ödeneceği kararlaştırılmıştır. Sözleşmenin özel şartlar 5.maddesinde yıllık kira artışı her yıl TUİK tarafından açıklanan bir önceki yılın aynı ayına göre Üfe ve Tüfe oranlarının ortalamasına 5 puan eklenerek yapılacağı kararlaştırılmıştır. Bu şart davalı kiralayan tacir olduğundan geçerli olup tarafları bağlar.Mahkemece sözleşmede yazılı artış şartı uygulanmak suretiyle alacağın hesaplattırılarak sonucu dairesinde karar verilmesi gerekirken yazılı şekilde karar verilmesi doğru değildir.
 
 ## Yargıtay 6. HD 2014/7606 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/97386800)
 
 Davada dayanılan ve hükme esas alınan 01.01.2003 başlangıç tarihli ve iki yıl süreli kira sözleşmesi konusunda taraflar arasında uyuşmazlık bulunmamaktadır. Sözleşmenin özel şartlar bölümü 3. maddesine göre kira süresi iki yıl olup, kira artış oranı TEFE- TÜFE ortalamasıdır. Bu şart geçerli olup tarafları bağlar. Davacı 06.09.2012 tarihinde açmış olduğu işbu dava ile, aylık 3.500 TL olan kira parasının 01.01.2012 tarihinden itibaren net
 
@@ -121,10 +159,14 @@ Davada dayanılan ve hükme esas alınan 01.01.2003 başlangıç tarihli ve iki 
 
 ## Yargıtay 6. HD 2014/7551 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/97563900)
+
 Davada ve icra takibinde dayanılan ve karara esas alınan 01/12/2010 başlangıç tarihli ve bir yıl süreli kira sözleşmesi konusunda taraflar arasında bir uyuşmazlık bulunmamaktadır. Sözleşmenin özel şartlar bölümünün 3. maddesinde '' Kira sözleşmesi 1 yıllıktır Aylık kira 01.12.2010-30.11.2011 tarihleri arası 700,00 TL (yediyüzlira) sıdır. Kira sözleşmesinin bitiminden itibaren iş bu sözleşmenin 7. maddesi gereğince taraflarca herhangi bir bildirimde bulunulmadığı taktir de, kira sözleşmesi 1 yıllık süreler halinde uzayacaktır. Bu durumda işbu kira sözleşmesinin bitiminden itibaren uzayacak dönemler için kira bedeli DİE Tüfe ve Üfe toplamının ortalaması oranında artırılarak hesaplanarak yatırılacaktır'' düzenlemesi bulunmaktadır. Özgür irade ile kararlaştırılan bu şart geçerli olup, tarafları bağlar. Taraflar arasındaki uyuşmazlık sözleşmedeki artış oranının ne şekilde uygulanacağına ilişkindir. Sözleşmede kira parasının Üfe-Tüfe toplamının ortalaması oranında artırılacağı kararlaştırılmış ise de bu oranın nasıl uygulanacağı düzenlenmemiştir. Davalının savunduğu gibi kira artışının yapılacağı ayda ilan edilen oranda artış yapılacağına dair bir hüküm sözleşmede yer almamaktadır.
 Bu durumda oniki aylık değişim oranı ortalamasının uygulanması gerekir. Mahkemece talep konusu edilen kira döneminde DİE'nin açıkladığı on iki aylık Üfe-Tüfe değişim oranı ortalamasına göre artış oranının hesaplattırılması ve sonucuna göre bir karar verilmesi gerekirken yazılı gerekçe ile davanın reddine karar verilmesi doğru değildir.
 
 ## Yargıtay 6. HD 2014/6980 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/97470600)
 
 17 inci maddesine göre affa uğramış bile olsa hırsızlık suçundan hükümlü bulunanların ihalelere katılamayacağının bildirildiği, bunun üzerine okul aile birliği yönetim kurulunun 14.02.2011 tarihli kararında ''.. milli eğitim müfettişleri tarafından düzenlenen raporda kiracının 24.03.1997 tarihinde hırsızlık suçunu işlediği anlaşıldığından okul aile birliği yönetmeliğinin 17 inci maddesine göre İhaleye katılma hakkının bulunmadığı ve bundan dolayı da 02.10.2010 tarihli sözleşmenin iptal edilmesinin istendiği, bu nedenle sözleşmenin feshedilmesinin ...'' kararlaştırıldığı ve 15.02.2011 tebliğ tarihli fesih ihtarnamesi ile müfettiş raporunun değerlendirilmesi sonucunda sözleşmenin feshedildiği belirtilerek 15 gün içerisinde kantinin boşaltılmasının istendiği anlaşılmaktadır. Kiralananın niteliğine göre uyuşmazlığa 6570 sayılı yasa hükümlerinin uygulanması gerekir.
 6570 sayılı yasada fesih ve tahliye nedenleri sınırlı olarak belirlenmiştir.Öncelikle davalının cevap dilekçesinde bildirdiği sağlığa uygun olmayan gıda maddelerinin satılması, kira, elektrik ve su bedellerinin süresinde ödenmemesi nedenlerine dayalı olarak bu hususların giderilmesine ilişkin süreli ihtarlar gönderilerek belirtilen aykırılıkların giderilmesine ilişkin bir işlem yapılmadığından bu hususlar tek taraflı feshe gerekçe olarak ileri sürülemez. Davalının fesih ihtarında belirttiği adli sicil arşiv kaydına yönelik fesih gerekçesine gelince ; davacı kiracının 24.03.1997 tarihinde işlemiş olduğu hırsızlık suçundan dolayı ağır para cezası aldığı gözetilerek bu durumun okul aile birliği yönetmeliğinin 17nci maddesine göre İhaleye
@@ -133,14 +175,20 @@ katılmaya engel olduğu düşüncesiyle fesih nedeni yapmışsa da, belirtilen 
 
 ## Yargıtay 6. HD 2014/6868 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/97465600)
+
 Dava konusu kiralanana ilişkin kira sözleşmesi 01.12.2003 başlangıç tarihli ve bir yıl sürelidir. Sözleşmenin özel koşullar 10.maddesinde; 01.12.2004 tarihinden itibaren her kira döneminin başında kira parasının DİE’ce tespit edilen Tüketici Fiyat Endeksine göre attırılarak ödeneceği, üçüncü yılın sonunda tarafların o günün şartları ve emsallere göre yeni bir kira sözleşmesi yapacağı kararlaştırılmıştır. Sözleşmede kira artış iradesini yansıtan koşulun varlığı 21.11.1966 gün ve 19/10 sayılı Yargıtay İçtihadı Birleştirme Kararındaki ihtarın hukuksal önemini ortadan kaldırmaktadır. Kira sözleşmesinin artış iradesini yansıtan bir artış koşulu bulunduğundan 01.12.2010 tarihinde başlayan dönem için dönem bitimi olan 01.12.2011 tarihine kadar dava açılıp kira bedelinin tespiti istenebilir. Dava 31.05.2011 tarihinde süresinde açılmıştır. Mahkemece işin esası incelenerek sonucuna göre karar verilmesi gerekirken hukuksal dayanağı olmayan gerekçe ile istemin reddine karar verilmesi doğru değildir.
 
 ## Yargıtay 6. HD 2014/6697 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/308532600)
 
 Davada ve icra takibinde dayanılan ve karara esas alınan 01.10.2010 başlangıç tarihli ve on yıl süreli kira sözleşmesi konusunda taraflar arasında bir uyuşmazlık bulunmamaktadır. Sözleşmede aylık kira bedeli net 110.000 TL olarak belirlenmiş ve her ayın 1 ila 10.günleri arasında peşin ödeneceği kararlaştırılmıştır. Sözleşmenin 8.maddesinin D bendinde "kira bedellerinin kira başlangıcından itibaren her yıl bir önceki kira bedeline TEFE+TÜFE/2 (tefe oranı ile üfe oranı toplanıp bulunan sonuç ikiye bölünecek) enflasyon artışı eklenerek ödenecektir." hükmü getirilmiştir. Özgür irade ile kararlaştırılan bu şart geçerli olup tarafları bağlar. Mahkemece hükme esas alınan bilirkişi raporunda artış şartı dikkate alınarak hesaplama yapılmış ise de, bilirkişi tarafından TEFE ve ÜFE oranlarının on iki aylık ortalaması mı yoksa bir önceki yılın aynı ayına göre değişim oranlarının mı dikkate alındığı anlaşılamamaktadır.
 Mahkemece bu husus üzerinde durularak bilirkişiden denetime elverişli olacak şekilde on iki aylık TEFE ve TÜFE değişim oranı ortalamasına göre artış oranının hesaplattırılması için yeniden rapor alınması ve sonucuna göre bir karar verilmesi gerekirken yazılı şekilde eksik inceleme ile karar verilmesi doğru değildir.
 
 ## Yargıtay 6. HD 2014/6412 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/97406800)
 
 Davada dayanılan ve hükme esas alınan 01.03.2010 başlangıç tarihli ve beş yıl süreli kira sözleşmesi konusunda taraflar arasında uyuşmazlık bulunmamaktadır. Sözleşmede aylık kira parası ilk yıl için net 10.000 TL olarak belirlenmiştir. Sözleşmenin özel şartlar bölümü 7. ( genel hükümler 1. ) maddesinde, yıllık kira parasının ÜFE-TÜFE ortalamasında artırılacağı, özel şartlar bölümü 12. ( genel hükümler 2.) maddesinde de, kiracının beş yıldan
 
@@ -148,5 +196,7 @@ Davada dayanılan ve hükme esas alınan 01.03.2010 başlangıç tarihli ve beş
 Anılan madde gereğince, kiracının sözleşme süresine veya fesih dönemine uymaksızın kiralananı geri vermesi durumunda, kira sözleşmesinden doğan borçları, kiralananın benzer koşullarla kiraya verilebileceği makul bir süre için devam eder. Uyuşmazlığa ilişkin olarak yerinde yapılan keşif sonrasında alınan bilirkişi raporlarında, kira dönemi sonuna kadar davacının uğramış olduğu kira geliri kaybı üzerinden hesaplama yapılmıştır. Söz konusu bilirkişi raporu hükme esas alınmakla birlikte, anılan raporda kiralanan taşınmazın yukarıda açıklanan yasa hükmü gereği ne kadar sürede benzer koşullarla kiraya verilebileceğine ilişkin bir değerlendirme yer almamaktadır. Bu durumda mahkemece, kiralananın ne kadarlık süre içinde…
 
 ## Yargıtay 6. HD 2014/5560 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/97424100)
 
 Kural olarak taraflar arasındaki kira sözleşmesinde artış şartı var ise ya da artış şartı olmayıp tesbiti istenen dönem başlangıcından 30 gün öncesinde kira artış ihtarı karşı tarafa tebliğ edilmiş ise, kira tesbiti istenen dönemin ilk gününden son gününe kadar bu dönem içerisinde bu döneme ilişkin kira tesbit davası açılabilir. Tesbiti istenen dönem geçtikten sonra bu döneme ilişkin kira tesbit davası açılamaz, açılmışsa geçmiş döneme ilişkin kira tesbiti yapılamaz.

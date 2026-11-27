@@ -21,4 +21,6 @@ uyari: "Derleyenin seçtiği alıntılardır; kararın tamamı değildir. Künye
 
 ## Yargıtay 3. HD 2024/4021 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1098486600)
+
 …icra edilebilirlik şerhinin ihtiyari olduğu, tutanakta bağlanan edimler yerine getirilmediğinde söz konusu anlaşma belgesi ilam niteliğinde olduğundan icraya koyulabileceği, icra edilebilirlik şerhi talebinin çekişmesiz yargı işi olması nedeniyle birbiriyle çekişme (uyuşmazlık) halinde olan iki tarafın bulunmadığı, bu nedenle Mahkemenin bu konuda verdiği kararda bir uyuşmazlığın çözümü söz konusu olmadığı hususları birlikte değerlendirildiğinde; **anlaşma belgesine göre icra edilebilirlik şerhi verilmesi talebinde bulunan tarafın yaptığı yargılama giderlerinin üzerinde bırakılması ve buna bağlı olarak bu giderlere dahil olan vekalet ücretine hükmedilmemesi gerekmektedir**.

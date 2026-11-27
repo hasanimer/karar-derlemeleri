@@ -25,6 +25,8 @@ Somut uyuşmazlıkta, davalı vekili tarafından takibe dayanak yapılan dava ko
 
 ## Yargıtay 3. HD 2025/4228 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1175768800)
+
 … taraflar arasında düzenlenen tahliye taahhütnamesinde, tahliye tarihi olarak kararlaştırılan 15.12.2019 tarihinden sonra yeni bir sözleşme düzenlemeksizin, kira ilişkisinin bir yıl süre ile uzatıldığı ve kararlaştırılan tahliye tarihinin geçmiş kira dönemi içerisinde kaldığı, bu haliyle yenilenen kira dönemi içerinde bu hususta yeni bir anlaşmanın bulunmadığı anlaşılmaktadır.
 
 Yukarıda yer verilen bilgiler ışığında somut olay değerlendirildiğinde; davaya dayanak yapılan ve hükme esas alınan 15.12.2018 tanzim tarihli ve bir yıl süreli kira sözleşmesinin ... sayılı Kanun'un 339 ve devamı maddelerinde düzenlenmiş konut ve çatılı işyeri kirası niteliğinde olduğu, kanunda öngörülen tahliye nedenlerinin bulunmadığı, **tahliye tahhüdünün yenilenen kira dönemi öncesine ait bulunduğu**…

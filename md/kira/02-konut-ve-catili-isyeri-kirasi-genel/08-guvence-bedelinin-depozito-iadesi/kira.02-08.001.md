@@ -20,6 +20,8 @@ uyari: "Derleyenin seçtiği alıntılardır; kararın tamamı değildir. Künye
 
 ## Yargıtay 3. HD 2025/4233 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1182643500)
+
 … **depozito bedelinin iade edilememesi için davalı kiraya verenin depozito bedelinden mahsubu gereken bir alacağı olması gerekmektedir**.
 
 ## Yargıtay 3. HD 2025/1364 K.

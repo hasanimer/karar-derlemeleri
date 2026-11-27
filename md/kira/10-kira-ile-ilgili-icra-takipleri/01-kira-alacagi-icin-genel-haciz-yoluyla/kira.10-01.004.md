@@ -22,12 +22,16 @@ uyari: "Derleyenin seçtiği alıntılardır; kararın tamamı değildir. Künye
 
 ## Yargıtay 12. HD 2021/9020 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/704711800)
+
 Alacaklının icra mahkemesine başvurusunda, kira alacağı nedeniyle başlatılan genel haciz yoluyla yapılan takipte (Örnek 7 takipte) borçlunun yapmış olduğu itirazın kaldırılması ile takibin devamına, borçlu aleyhine tazminata karar verilmesini talep ettiği, ... İcra Hukuk Mahkemesinin 25/01/2019 tarihli kararıyla; takibe dayanak kira sözleşmesinin İİK.’nun 68. maddesinde sayılan kayıtsız şartsız borç ikrarını içeren belge olmaması gerekçesine dayanılarak davanın reddi ile şartlar oluşmadığından davalı lehine tazminata hükmedilmesine yer olmadığına karar verildiği,iş bu karara karşı davacı tarafından yapılan yapılan istinaf istemi üzerine ... Bölge Adliye Mahkemesi 7. Hukuk Dairesinin 2019/523 Esas, 2019/540 Karar nolu ve 10/04/2019 tarihli kararı ile istinaf isteminin esastan reddine hükmedildiği, yapılan temyiz başvurusu üzerine Yargıtay 8. Hukuk Dairesi'nin 27/06/2019 tarih ve 2019/3817 E.- 2019/6604 K. sayılı ilamıyla borçlunun kira ilişkisine ve kira miktarına açıkça karşı çıkmaması nedeniyle İİK.’nun 269/2. maddesi gereğince kira ilişkisinin ve kira miktarının kesinleştiğinin kabulünün gerektiği, işin esasının incelenerek
 
 oluşacak sonuca göre karar verilmesi gerektiğinden bahisle mahkeme kararının bozulduğu, icra mahkemesince bozma ilamına uyularak verilen 17/01/2020 tarihli davanın kabulüne, itirazın kesin olarak kaldırılmasına,takibin devamına dair kararın, borçlu tarafından temyiz edilmesi üzerine bu defa Dairemizin 09/07/2020 tarih ve 2020/3584 E.- 2020/6823 K. sayılı ilamıyla “.. Takip dayanağı olan ve taraflar arasında düzenlenen bila tarihli "protokoldür" başlıklı demirbaş eşyalara ilişkin kira sözleşmesinin taraflar arasında karşılıklı edimleri içeren sözleşme olup, kayıtsız şartsız borç ikrarını ihtiva etmediğinden, dolayısıyla alacağın tahsil edilip edilmeyeceği yargılamayı gerektirdiğinden, bu haliyle sözleşme, İİK. nun 68/1. maddesinde yer alan ve alacaklıya genel haciz yolu ile takip yapma imkanı tanıyan borç ikrarını içeren bir belge niteliğinde değildir. Borç da kabul edilmediğine göre, iki tarafa edimler yükleyen sözleşme kapsamında alacaklının alacaklı olup olmadığı ve varsa alacak miktarının ne olduğu genel mahkemelerde yapılacak yargılama sonucunda belli olacaktır.
 O halde mahkemece, itirazın kaldırılması talebinin reddine karar verilmesi gerekmekte olup bu nedenle kararın bozulması cihetine gidilmiştir...” şeklindeki gerekçeyle bozulduğu, icra mahkemesince bozma ilamına uyularak verilen 15/01/2021 tarihli davanın reddine dair kararın alacaklı tarafından temyiz edilmesi üzerine, dosyanın temyiz incelemesi için Dairemize gönderildiği görülmektedir.
 
 ## Yargıtay 12. HD 2021/9020 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/704711800)
 
 Alacaklının icra mahkemesine başvurusunda, kira alacağı nedeniyle başlatılan genel haciz yoluyla yapılan takipte (Örnek 7 takipte) borçlunun yapmış olduğu itirazın kaldırılması ile takibin devamına, borçlu aleyhine tazminata karar verilmesini talep ettiği, İscehisar İcra Hukuk Mahkemesinin 25/01/2019 tarihli kararıyla; takibe dayanak kira sözleşmesinin İİK.’nun 68. maddesinde sayılan kayıtsız şartsız borç ikrarını içeren belge olmaması gerekçesine dayanılarak davanın reddi ile şartlar oluşmadığından davalı lehine tazminata hükmedilmesine yer olmadığına karar verildiği,iş bu karara karşı davacı tarafından yapılan yapılan istinaf istemi üzerine ... Bölge Adliye Mahkemesi 7. Hukuk Dairesinin 2019/523 Esas, 2019/540 Karar nolu ve 10/04/2019 tarihli kararı ile istinaf isteminin esastan reddine hükmedildiği, yapılan temyiz başvurusu üzerine Yargıtay 8.
 Hukuk Dairesi'nin 27/06/2019 tarih ve 2019/3817 E.- 2019/6604 K. sayılı ilamıyla borçlunun kira ilişkisine ve kira miktarına açıkça karşı çıkmaması nedeniyle İİK.’nun 269/2. maddesi gereğince kira ilişkisinin ve kira miktarının kesinleştiğinin kabulünün gerektiği, işin esasının incelenerek oluşacak sonuca göre karar verilmesi gerektiğinden bahisle mahkeme kararının bozulduğu, icra mahkemesince bozma ilamına uyularak verilen 17/01/2020 tarihli davanın kabulüne, itirazın kesin olarak kaldırılmasına,takibin devamına dair kararın, borçlu tarafından temyiz edilmesi üzerine bu defa Dairemizin 09/07/2020 tarih ve 2020/3584 E.- 2020/6823 K. sayılı ilamıyla “.. Takip dayanağı olan ve taraflar arasında düzenlenen bila tarihli "protokoldür" başlıklı demirbaş eşyalara ilişkin kira sözleşmesinin taraflar arasında karşılıklı edimleri içeren sözleşme olup, kayıtsız şartsız borç ikrarını ihtiva etmediğinden, dolayısıyla alacağın tahsil edilip edilmeyeceği yargılamayı gerektirdiğinden, bu haliyle sözleşme, İİK. nun 68/1. maddesinde yer alan ve alacaklıya genel haciz yolu ile takip yapma imkanı tanıyan borç ikrarını içeren bir belge niteliğinde değildir.
@@ -37,42 +41,62 @@ mahkemesince bozma ilamına uyularak verilen 15/01/2021 tarihli davanın reddine
 
 ## Yargıtay 12. HD 2021/8871 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/699472100)
+
 Borçlu aleyhine başlatılan adi kiraya ve hasılat kiralarına ait örnek 13 ilamsız icra takibine ilişkin olarak alacaklının icra mahkemesine yaptığı başvurusunda; itirazın kaldırılması ve tahliyenin talep edildiği, ilk derece mahkemesince, itirazın kaldırılmasına, tahliye talebinin reddine karar verildiği, borçlu tarafından istinaf yoluna başvurulması üzerine, Bölge Adliye Mahkemesince, borçlu hakkında konkordato geçici mühlet kararının bulunduğu ve mühlet içinde hiç bir takip yapılamayacağı gerekçesi ile ilk derece kararının kaldırılmasına ve davanın reddine karar verildiği görülmüştür.
 
 ## Yargıtay 12. HD 2021/8792 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/704405300)
 
 Öte yandan; İİK nun 269-d maddesi göndermesi ile İİK’nın 68.maddesi gereğince alacaklı itirazın kendisine tebliğinden itibaren 6 ay içinde itirazın kaldırılmasını talep edebilir. Takip dosyası kapsamından borçlunun itirazının alacaklıya tebliğ edilmediği anlaşıldığından 28.06.2018 tarihinde açılan dava süresindedir. İlk derece mahkemesince ödeme emrinin borçluya tebliğinden itibaren altı ay içinde tahliye davası açılmadığı gerekçesi ile süresinden sonra açılan tahliye davasının reddine karar verilmesi isabetsiz olup temerrüt olgusu oluşmuş ve tahliye işleminin kabulü gerekirse de alacaklı tarafından istinaf başvurusunda bulunulmadığından, alacaklının bu konuya hasren temyiz hakkı bulunmadığından bozma nedeni yapılmamıştır.
 
 ## Yargıtay 12. HD 2021/8497 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/707003100)
+
 Adi kiraya ve hasılat kiralarına ait örnek 13 ilamsız takipte, borçlunun sair itirazları ile kira sözleşmesinin başlangıç tarihinin 17.10.2019 olduğu, bu günden itibaren işlemiş kira bedellerinin alacaklının banka hesabına yatırıldığını ileri sürerek borca ve işlemiş faiz ve oranına itirazı ile duran takipte alacaklının, borçlunun kiralanan taşınmazda 15.06.2018 tarihli kira sözleşmesi gereği kiracı olarak bulunduğu, kiranın işlemeye başlama tarihinin 24.07.2019 iskan tarihinden itibaren 45 günlük sürenin sona erdiği 07.09.2019 tarihi olduğu iddiasıyla itirazın kaldırılması, kiralananın tahliyesi ve icra inkar tazminatına karar verilmesi istemiyle icra mahkemesine başvurduğu, mahkemece; sözleşmenin başladığı tarihe itiraz edildiği, kira sözleşmesinde sözleşme başlangıcının inşaat bitirilip iskan alındığı tarihten 45 gün sonra başlayacağının kararlaştırıldığı, dolayısıyla borçlunun itirazının yargılamayı gerektirdiğinden bahisle davanın reddine hükmedildiği, alacaklı tarafından istinaf yoluna başvurulması üzerine, Bölge Adliye Mahkemesince istinaf başvurusunun esastan reddine karar verildiği, kararın alacaklı tarafından temyiz edildiği görülmektedir.
 
 ## Yargıtay 12. HD 2021/8447 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/700855300)
 
 Alacaklı tarafından borçlu aleyhine kira alacağının tahsili amacıyla tahliye istemli olarak başlatılan icra takibine vaki itiraz üzerine alacaklının icra mahkemesine başvurarak itirazın kaldırılması ve icra inkar tazminatı isteminde bulunduğu, mahkemece davanın kısmen kabulüne kısmen reddine karar verildiği, bu karara karşı tarafların istinaf yoluna başvurması üzerine Bölge Adliye Mahkemesince “ A-Davacının istinaf başvurusunun kısmen kabulüne, İlk Derece Mahkemesi kararının kaldırılmasına, A-1) Davacının açmış olduğu, itirazın kaldırılması davasının kısmen kabulüne, Davacının, davalı borçlu aleyhine ... 20. İcra Müdürlüğünün 2016/30193 sayılı takip dosyasında başlattığı icra takibine itirazın 133.562,00 ... asıl alacak olarak, 2.973,98 ... işlemiş faize yönelik kısmen kabulüne, itirazın bu miktarlar esas alınarak kaldırılmasına, takibin bu miktarlar üzerinden devamına, Takipten sonra yapılan ödemelerin icra dosyasında hesaba katılmasına, 2) Hüküm altına alınan 133.562,00 ...
 (takip tarihindeki 3.05 TL) hesabıyla 407.364,00 TL üzerinden hesap edilecek %20 oranındaki icra inkar tazminatının davalıdan alınarak davacıya verilmesine, Davalının kötü niyet tazminatı talebinin reddine,” karar verildiği alacaklının tavzih talebinde bulunması üzerine Bölge Adliye Mahkemesi’nin 09/06/2021 tarihli ek kararı ile “Davacı tarafın kararın açıklanması (tavzihi) talebinin kabulüne, Davacının 408.686,00 ... kira alacağı ve %2,91 faiz için icra takibi başlattığı, Davalının 108.171,50 ... borcu kabul ettiği ve ödediği, İtirazın 300.514,50 ... alacağa yönelik olduğu, İtiraza konu 300.514,50 ... alacakla ilgili 166.952,50 ...'nin dava açılmadan ödendiği, dava tarihi itibariyle ödenmeyen 133.562,00 ... asıl alacak ve 2.973,98 ... bakımından itirazın kaldırılmasına” karar verildiği anlaşılmaktadır.
 
 ## Yargıtay 12. HD 2021/6208 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/665867600)
+
 Adi kiraya ve hasılat kiralarına ait örnek 13 ilamsız takipte, kiracı- borçlunun icra dairesine yaptığı borca itiraz üzerine alacaklının itirazın kaldırılması ve tahliye istemiyle icra mahkemesine başvurduğu, mahkemece, borçlunun taşınmazdan tahliyesi ile birlikte takip miktarının 278.731,59 TL olmak üzere devamına ve borçlunun bu husustaki itirazının kaldırılması ile borçlunun takip konusu miktarın % 20’si oranında icra inkar tazminatına mahküm edilmesine karar verildiği, kararın borçlu yanca istinafı üzerine Bölge Adliye Mahkemesi’nce istinaf başvurusunun esastan reddine hükmolunduğu görülmektedir.
 
 ## Yargıtay 12. HD 2021/6252 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/665965000)
 
 Kiraya veren alacaklı kira alacağının tahsili için tahliye talepli başlattığı icra takibine, kiracının, 01/06/2019 tarihinde anahtar teslim etmesinden ötürü borcu olmadığı beyanı ile icra dairesine itiraz etmesi üzerine, kiraya verenin itirazın kaldırılması istemiyle mahkemeye başvurduğu, mahkemece yıllık kira bedeli konusunda anlaşma olmamasından ötürü önceki yıl kira bedeli olan 120.000 ,00 TL ve işlemiş faizi yönünden itirazın kaldırılmasına karar verildiği, kiracı ve kiraya verenin istinaf kanun yoluna başvurması üzerine Bölge Adliye Mahkemesi’nce, kiracının icra dairesine aylık kira bedeli konusunda itiraz etmemesinden ötürü İİK ‘nın 63. maddesi hükmü uyarınca icra mahkemesinde iddiasını genişletemeyeceğinden bahisle ilk derece mahkemesi kararını kaldırarak takip konusu alacağın tamamı yönünden itirazın kaldırılmasına karar verdiği, karara karşı borçlu kiracının temyiz yoluna başvurduğu anlaşılmaktadır.
 
 ## Yargıtay 12. HD 2021/5650 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/666400400)
+
 Borçlu aleyhine kira alacağının tahsili amacıyla tahliye istemli olarak başlatılan icra takibine vaki itiraz üzerine alacaklıların icra mahkemesine başvurarak itirazın kaldırılması, tahliye ve icra inkar tazminatı isteminde bulunduğu, İlk Derece Mahkemesince; itirazın kaldırılmasına, tahliyeye ve takip konusu meblağ üzerinden tazminata hükmedildiği, borçlu tarafından istinaf yoluna başvurulması üzerine Bölge Adliye Mahkemesince; istinaf başvurusunun esastan reddine karar verildiği görülmektedir.
 
 ## Yargıtay 12. HD 2021/3144 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/651440900)
 
 Alacaklılar tarafından borçlu aleyhine kira alacağının tahsili amacıyla tahliye istemli olarak başlatılan icra takibine vaki itiraz üzerine alacaklıların icra mahkemesine başvurarak itirazın kaldırılması ve icra inkar tazminatı isteminde bulunduğu, mahkemece davanın reddine karar verildiği, bu karara karşı alacaklıların istinaf yoluna başvurması üzerine Bölge Adliye Mahkemesince istinaf başvurusunun kabulü ile ilk derece mahkemesinin kararının kaldırılmasına ve itirazın kaldırılması davasının kabulü ile ... 24. İcra Müdürlüğünün 2017/23923 Esas sayılı icra takip dosyasında borçlu-davalının itirazının kaldırılmasına, takip konusu asıl alacağın %20'si oranında icra inkar tazminatının davalıdan alınarak davacılara verilmesine, karar verildiği anlaşılmaktadır.
 
 ## Yargıtay 12. HD 2021/2391 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/640089000)
+
 Kira alacağına ilişkin başlatılan genel haciz yoluyla ilamsız icra takibinde, kiracının ödeme emri tebliği üzerine borca itiraz ettiği, kiraya verenin itirazın kaldırılması istemiyle icra mahkemesine başvurduğu, mahkemece kira alacağının tespiti için genel mahkemede dava açılması gerektiğinden bahisle itirazın kaldırılması talebinin reddedildiği, kiraya verenin istinaf yoluna başvurması üzerine Bölge Adliye Mahkemesince başvurunun esastan reddine karar verildiği anlaşılmaktadır.
 
 ## Yargıtay 12. HD 2021/1637 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/640187100)
 
 Alacaklı tarafından kira sözleşmesine dayalı olarak genel haciz yoluyla ilamsız icra takibi başlatıldığı, örnek (7) nolu ödeme emrinin tebliği üzerine, borçluların yasal sürede icra dairesine verdiği dilekçe ile borca, faize ve ferilerine itirazda bulundukları, alacaklının itirazın kaldırılması istemi ile icra mahkemesine başvurduğu, mahkemece; davanın kabulüne itirazın kaldırılmasına karar verildiği, alacaklının temyizi üzerine Yargıtay ilamında “dava dilekçesi ve duruşma günü davalılar vekiline tebliğ edilerek, usulüne uygun olarak taraf teşkili sağlandıktan sonra işin esasının incelenmesi gerektiğinden” bahisle kararın bozulduğu, bozmaya uyularak yargılamaya devam eden ilk derece mahkemesince; “1-Davanın kısmen kabul ve reddi ile ; 1-a)... 10.
 İcra Müdürlüğünün 2015/17224 Esas sayılı dosyasında davalı borçlular tarafından yapılan itirazın 143.569,74 TL yönünden kaldırılarak, takibin bu miktar üzerinden devamına, b)Asıl alacağın %20'si olan 28.571,50 TL icra tazminatının davalılardan alınıp davacı tarafa ödenmesine, c)Reddedilen asıl alacak olan (26.550 USD x 2.74 TL = 72.747,00 TL) 72.747,00 TL'nin %20'si olan 14.549,00 TL icra tazminatının davacıdan alınıp davalılara verilmesine, d)Fazlaya ilişkin taleplerin
@@ -81,14 +105,20 @@ reddine” karar verildiği, tarafların temyizi üzerine kararın Dairemizce 20
 
 ## Yargıtay 12. HD 2020/11300 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/627887800)
+
 Alacaklı tarafından borçlular aleyhine kira alacağının tahsili amacıyla tahliye istemli olarak başlatılan icra takibine vaki itiraz üzerine alacaklının icra mahkemesine başvurarak itirazın kaldırılması, kiralananın tahliyesi ve icra inkar tazminatı isteminde bulunduğu, Mahkemece istemin kabulü ile itirazın kaldırılmasına, borçluların icra inkar tazminatına mahkum edilmesine ve temerrüt nedeniyle kiralanandan tahliyesine karar verildiği, bu karara karşı borçluların istinaf yoluna başvurması üzerine Bölge Adliye Mahkemesince istinaf başvurusunun esastan reddine karar verildiği anlaşılmaktadır.
 
 ## Yargıtay 12. HD 2020/11277 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/631088700)
 
 Alacaklı tarafından borçlular aleyhine kira alacağı ve tahliye istemli olarak başlatılan icra takibinde borçluların itirazı üzerine, alacaklının; asıl davada itirazın kaldırılması ve tahliye, birleşen davada ise itirazın kaldırılması ve tazminat isteminde bulunduğu, mahkemece asıl dava yönünden tahliye talebinin kabulüne, birleşen dava yönünden; davanın kısmen kabulü ile 7.756,57 TL alacak üzerinden itirazların kaldırılmasına ve asıl alacağın % 40’ı oranında inkar tazminatına karar verildiği, kararın taraflarca temyizi üzerine Yargıtay 6. Hukuk Dairesince; borçluların temyiz itirazlarının tümünün reddedildiği, alacaklının temyiz itirazları yönünden “.... mükerrer ödeme olup olmadığı hususunda yeniden rapor alınarak kira alacağının hesap edilerek sonucuna göre karar verilmesi gerekirken yazılı şekilde karar verilmesi doğru değildir...” gerekçesiyle bozulduğu, bozma sonrası mahkemece davanın reddine karar verildiği, alacaklının temyizi üzerine Yargıtay 8. Hukuk Dairesince “...
 Dava tarihinden sonra alacaklı hesabına yapılan ve alacaklı tarafından kabul edilen ödemelerin infazda dikkate alınması mümkündür... yapılan ödemelerin tarihleri, takip ve dava tarihi birlikte değerlendirilerek takibin haklı olup olmadığı üzerinde durulup sonucuna göre karar verilmesi gerektiği...” gerekçesi ile bozulduğu, bozma üzerine mahkemece; asıl dava yönünden (2018/504 E.) açılan davanın 6100 sayılı HMK nın 114/1-ı maddesi uyarınca usulden reddine, birleştirilen dava (2014/144 E.) yönünden; davanın kısmen kabulü ile 113.076,84 TL’ye yönelik itirazın kaldırılmasına, fazlaya ilişkin talebin reddine, 31/01/2012 tarihinden sonra yapılan ödemelerin infaz aşamasında değerlendirilmesine, alacaklı lehine asıl alacağın % 20’si oranında (22.615,36-TL) icra inkar tazminatına hükmolunduğu görülmektedir.
 
 ## Yargıtay 12. HD 2020/7603 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/610980600)
 
 Alacaklı tarafından borçlular aleyhine kira alacağının tahsili amacıyla tahliye istemli olarak başlatılan icra takibine vaki itiraz üzerine alacaklının icra mahkemesine başvurarak itirazın kaldırılması, kiralananın tahliyesi ve icra inkar tazminatı isteminde bulunduğu, Mahkemece istemin kısmen kabulü ile itirazın kaldırılmasına, borçluların icra inkar tazminatına mahkum edilmesine ve temerrüt nedeniyle kiralanandan tahliyesine karar verildiği, bu karara karşı
 
@@ -96,14 +126,20 @@ borçlulardan ...'ın istinaf yoluna başvurması üzerine Bölge Adliye Mahkeme
 
 ## Yargıtay 12. HD 2020/6991 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/601809700)
+
 Alacaklı yanca, davalı borçlular aleyhine kira alacağının tahsili için başlatılan icra takibine borçluların kısmi itiraz etmesi üzerine, alacaklının icra mahkemesinden itirazın kaldırılması ve tahliye talebinde bulunduğu, mahkemece itirazın kaldırılması isteminin kısmen kabulüne ve tahliye konusuz kaldığından bir karar verilmesine yer olmadığına karar verildiği, kararın taraflarca temyiz edilmesi üzerine, Yargıtay 6. Hukuk Dairesi’nin 28.03.2016 tarih ve 2016/2047 E.-2016/2452 K sayılı ilamı ile bozulmasına karar verildiği, mahkemece bozma ilamına uyularak yapılan yargılama sonunda “davanın kısmen kabul, kısmen reddi ile...takibin toplam 31.990,02 TL miktar üzerinden devamına, fazlaya ilişkin istemin reddine....Davalılar aleyhine açılan davanın 228.013,36 TL'lik kısmının reddine karar verildiğinden bu miktar üzerinden %20 oranında hesaplanacak tazminatın davacıdan alınarak davalılara verilmesine” karar verildiği, anılan karara karşı alacaklı tarafından temyiz başvurusunda bulunulduğu, onama kararı sonrasında alacaklı tarafından karar düzeltme talep edildiği görülmektedir.
 
 ## Yargıtay 8. HD 2020/4859 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/604142200)
 
 02.12.2016 tarihinde yürürlüğe giren 6763 sayılı Kanun'un 43. maddesi ile değişik 6100 sayılı Hukuk Muhakemeleri Kanunu'nun 373. maddesinin 5. fıkrası ve aynı Kanun’un geçici 4. maddesinin ikinci fıkrası uyarınca yapılan incelemeye, tarafların karşılıklı iddia ve savunmalarına, dayandıkları belgelere, yapılan yargılama ve uyuşmazlık bakımından uygulanması gereken hukuk kuralları ile temyiz olunan Bölge Adliye Mahkemesi kararında yazılı gerekçelere, hukuki ilişkinin nitelendirmesine, İİK’nin 63. maddesi gereğince davalı borçlu icra dosyasına yapmış olduğu itiraz sebepleriyle bağlı olup, İcra Hukuk Mahkemesinde açılan itirazın kaldırılması davasında, alacaklının dayandığı takip dayanağı belge metninden anlaşılanlar dışında icra dosyasına yapılan itirazlar değiştirilip genişletilemeyeceğine, davalının itiraz dilekçesinde kira akdine açıkça itiraz etmediğine, bu nedenle itirazın kaldırılması davasında icra takip dosyasına yapılan itiraz sebeplerinin dışına çıkamayacağına, taşınmazın tahliye edildiğine ilişkin itiraz, sebebin genişletilmesi niteliğinde olup bu itiraza dayanılamayacağına (İİK mad.269/2), Dairenin bozma ilamında ve davacı vekilinin temyiz dilekçesinde yazılı sebepler
 eldeki itirazın kaldırılmasına ilişkin davada icra hukuk mahkemesi tarafından dikkate alınamayacağına göre bozma ilamına karşı verilen direnme kararı usul ve yasaya uygun bulunmuş olup davacı şirket vekili ile davalı şirket vekilinin temyiz itirazları yerinde görülmemiştir.
 
 ## Yargıtay 12. HD 2020/3808 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/595000500)
 
 Borçlu hakkında kira sözleşmesine dayalı olarak başlatılan adi kira ve hasılat kiralarına ilişkin icra takibinde, alacaklının icra mahkemesine başvurusunda; örnek 13 numaralı ödeme emrinin tebliği üzerine borçlunun yasal süresi içerisinde icra müdürlüğüne yaptığı itirazın kaldırılması ile tahliye talebinde bulunduğu, ilk derece mahkemesince davanın reddine, asıl alacağın %20’si oranında icra inkar tazminatının davacıdan alınarak davalıya
 
@@ -111,17 +147,25 @@ verilmesine karar verildiği, alacaklının istinaf başvurusu üzerine, Bölge 
 
 ## Yargıtay 12. HD 2020/3228 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/590685300)
+
 Kira sözleşmesine dayalı olarak adi kira ve hasılat kiralarına ilişkin olarak başlatılan ilamsız icra takibinde alacaklının icra mahkemesine başvurusunda, borçlu tarafından icra dairesine yapılan itirazın kaldırılmasını talep ettiği, mahkemece, 09.02.2011 tarihli duruşmada verilen kısa kararda “davanın kabulüne, gayrimenkulün tahliyesine, davalının % 40 icra inkar tazminatına mahkümiyetine” hükmedildiği halde gerekçeli kararda, "davanın kabulüne, gayrimenkulün tahliyesine, davalı borçlunun ... 2. İcra Müdürlüğü’nün 2010/6398 E. sayılı takip dosyasına yapmış olduğu itirazın kaldırılmasına, takibin devamına, davalının % 40 icra inkar tazminatına mahkümiyetine" karar verildiği anlaşılmıştır.
 
 ## Yargıtay 12. HD 2020/2855 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/581363300)
 
 Borçlu hakkında kira sözleşmesine dayalı olarak başlatılan adi kira ve hasılat kiralarına ilişkin icra takibinde, alacaklının icra mahkemesine başvurusunda; örnek 13 numaralı ödeme emrinin tebliği üzerine borçlunun yasal süresi içerisinde icra müdürlüğüne yaptığı itirazın kaldırılması ile tahliye talebinde bulunduğu, mahkemece verilen istemin reddine ilişkin kararın tarafların temyizi üzerine Yargıtay 8. Hukuk Dairesi’nin 25.03.2018 tarih, 2017/5600 E. 2018/13052 k. sayılı ilamı ile bozulduğu, mahkemece yapılan yargılama sonucunda aldırılan bilirkişi raporu doğrultusunda istemin kısmen kabulü ile itirazın 60.936,70 tl asıl alacak, 29.901,37 tl faiz üzerinden kaldırılmasına, itirazın kaldırılmasına karar verilen asıl alacak miktarının %20’si tutarında icra inkar tazminatının davalıdan tahsili ile davacıya verilmesine, reddedilen kısım esasa ilişkin nedenlerle reddedilmediğinden davalı tarafın %20 kötü niyet tazminatı talebinin yasal şartları bulunmadığından reddine karar verildiği, kararın taraflarca temyiz edildiği görülmektedir.
 
 ## Yargıtay 12. HD 2020/2827 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/581261200)
+
 O halde, kiracı borçlunun takibe itirazı geçerli olmakla takibin durdurulduğu da dikkate alınarak Bölge Adliye Mahkemesi'nce, kiralayan alacaklının itirazın kaldırılması istemi ile kiracı borçlu hakkında tahliye şartlarının oluşup oluşmadığı incelenerek olumlu ya da olumsuz bir karar verilmesi gerekirken yanılgılı değerlendirme sonucu hukuki yarar yokluğu nedeniyle yazılı şekilde hüküm tesisi isabetsiz olup, bölge adliye mahkemesi kararının bozulması gerekmiştir.
 
 ## Yargıtay 12. HD 2020/2309 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/580725100)
 
 Alacaklı tarafından tahliye taahhüdüne dayalı ilamsız icra takibine başlandığı, borçluya örnek 14 numaralı tahliye emrinin tebliğ edildiği, borçlunun sair itirazları ile birlikte Türk Borçlar Kanununun 352. maddesine uygun olarak verilmiş bir tahliye taahhütnamesi olmadığından bahisle takibe itiraz ettiği ve icra müdürlüğünce takibin durdurulduğu, alacaklı tarafından icra mahkemesine başvurularak itirazın kaldırılması ve tahliye talebinde bulunulduğu mahkemece;
 İİK’nun 272-275. maddeleri hükümlerine göre sözleşmede yazılı kira müddetinin bitiminde kiracının mecurdan tahliye edilebilmesi için 6570 sayılı Kira Kanuna tabi olmayan taşınmazlardan olması gerektiği, taşınmazın belediye sınırları kapsamında kaldığından bahisle davanın reddine karar verildiği, davacı-alacaklı tarafından ilk derece mahkemesi kararına karşı istinaf yoluna başvurulması üzerine, Bölge Adliye Mahkemesince; taraflar arasında 01.05.2012 başlangıç tarihli 3+2 yıl süreli kira sözleşmesinin kurulduğu, sözleşmenin 5. maddesine göre, sözleşme bitiminde kiracının taşınmazı boşaltarak kiraya verene kayıtsız ve şartsız teslim edeceğinin kararlaştırıldığı, bu haliyle söz konusu hüküm, kiralananın kira süresi sonunda tahliye edilmesini amaçlayan, tahliyeye zorlayan tahliye taahhütnamesi niteliğinde olduğu, davalının taşınmazda 01.05.2005 başlangıç tarihli kira sözleşmesine göre bu tarihten itibaren oturmaya başladığı, daha sonra 01.05.2012 başlangıç tarihli yeni bir kira sözleşmesi yapılsa dahi, yargılamaya konu tahliye taahhüdünün kira ilişkisi devam ederken (kiralananda otururken) verilen tahliye taahhüdü niteliğinde olması sebebiyle geçerli olduğu gerekçesiyle istinaf
@@ -129,10 +173,14 @@ başvurusunun kabulü ile ilk derece mahkemesi kararının kaldırılmasına, it
 
 ## Yargıtay 8. HD 2019/11467 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/648075800)
+
 Takibe konu edilen ve hükme esas alınan 01.02.2012 başlangıç tarihli 1 yıl süreli kira sözleşmesi konusunda uyuşmazlık bulunmamaktadır. Sözleşme ile aylık kira parasının 800,00 TL olduğu ve her ayın 1’i ila 5’i arasında peşin olarak ödeneceği kararlaştırılmıştır. Davalı kefil ... sözleşmeyi müteselsil kefil sıfatıyla imzalamıştır. Davacı tarafından 22.08.2014 tarihinde davalı kefil ... ile birlikte davalı kiracı hakkında başlatılan icra takibinde toplam 5.900,00 TL kira ve işlemiş faiz alacağının tahsilinin istediği görülmüştür. Kira sözleşmesinin akdedildiği dönem itibariyle yürürlükte bulunan 818 sayılı BK'nin 484. maddesi hükmüne göre kefaletin geçerli olabilmesi için kefalet süresinin ve kefilin sorumlu olacağı miktarın sözleşmede gösterilmesi gerekir. Kefalet süresinin ve kefilin sorumlu olacağı azami tutarın gösterilmemesi halinde kefalet ancak kira sözleşmesinde kararlaştırılan kira süresi için geçerlidir. Olayımızda 01.02.2012 başlangıç tarihli 1 yıl süreli kira sözleşmesinin süresi 01.02.2013 tarihinde bitmiş olmakla birlikte, takibe konu dönem kirası kefilin sorumlu olduğu dönemi kapsamamaktadır.
 Mahkemece bu nedenle davalı kefil hakkındaki itirazın kaldırılması isteminin reddine karar verilmesi gerekirken yazılı şekilde kefil yönünden de itirazın kaldırılmasına karar verilmesi doğru değildir.
 
 ## Yargıtay 8. HD 2019/10830 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/568213200)
 
 ... 22. İcra Müdürlüğünün 2013/9752 Esas sayılı takip dosyasında borçlu aleyhine ilamsız takip başlatılmıştır. 5.5.2015 tarihinde haciz için gidildiğinde borçlunun oğlu, evde bulunan eşyaların ev sahibine ait olduğunu, eşyaların haczedilemeyeceğini beyan etmiş, icra memuru tarafından kira sözleşmesine bakılarak, haciz mahallinde bulunan eşyaların
 
@@ -140,11 +188,15 @@ borçluya ait olmadığından bahisle alacaklı vekilinin talebi reddedilmiş, h
 
 ## Yargıtay 8. HD 2019/9530 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/648193000)
+
 Varlığı taraflar arasında uyuşmazlık konusu olmayan 28.04.2008 başlangıç tarihli, 5 yıl süreli kira sözleşmesi ile, yıllık kira bedelinin brüt 15.000 TL olup, stopaj vergisinin kiracıya ait olduğu ve kira bedelinin her yılın 30 Ağustos tarihine kadar ödeneceği kararlaştırılmıştır. Öte yandan sözleşmenin özel şartlar 6. bendi ile, “Yıllık kira artışları DİE (Devlet İstatistik Enstitüsü)’nin yıl sonu açıkladığı enflasyon oranında yapılacaktır” düzenlemesine yer verilmiştir. Davacı alacaklı 14.06.2012 tarihinde başlattığı takip ile kira sözleşmesi ile kararlaştırılan kira bedelinden, kiracı tarafından ödeneceği kabul edilen stopaj bedelini düşmeden, 30.08.2008 tarihli kira alacağı 15.000,00 TL, 30.08.2009 tarihli kira alacağı 16.216,50 TL, 30.03.2010 tarihli kira alacağı 17.178,14 TL, 30.08.2011 tarihli kira alacağı 18.701,84 TL olmak üzere toplam 67.096,48 TL kira alacağının faiziyle tahsilini istemiştir.
 İcra takibine itiraz edilmesi üzerine açılan eldeki itirazın kaldırılması davasında mahkemece kira alacağının belirlenmesine ilişkin bilirkişi incelemesi yaptırılmaksızın, 2008 yılında ödenmediği kabul edilen tutarın 15.000 TL olduğu, ödeme belgeleri dikkate alındığında 2009 yılında 12.960 TL, 2010 yılında 13.000 TL, 2011 yılında 14.000 TL’nin ödendiği bildirilerek ödenmeyen tutarın 20.400,00 TL olduğu kabul edilmiş ve bu miktar üzerinden itirazın kaldırılmasına karar verilmiş ise de, bozma gereği yerine getirilmemiş 6. Hukuk Dairesinin 24.11.2014 tarihli bozma ilamında gösterildiği üzere, kira bedeli brüt belirlendiğinden 2008, 2009, 2010 ve 2011 yılları için stopaj tutarı düşüldükten sonra ve davalı kiracı tarafından kiraya veren hesabına yatırılan miktarların da denetime açık bir şekilde açıklanmak suretiyle mahsup edilerek buna göre alacağın tespiti yoluna gidilmesi gerekirken, ne şekilde hesaplama yapıldığına dair bir açıklamada bulunulmaksızın ve nasıl ulaşıldığı anlaşılamayan miktar üzerinden itirazın kaldırılmasına karar verilmesi doğru değildir.
 O halde mahkemece, 24.11.2014 tarihli bozma ilamı doğrultusunda, takip talebi ile istenilen yıllar kirasından kira bedeli brüt belirlendiğinden stopaj tutarı düşülerek ve davalı kiracı tarafından yapılan ödemeleri de mahsup edilmek suretiyle hesap bilirkişisinden takibe konu kira alacağı ve işlemiş faiz alacağının bulunup bulunmadığı hususunda ayrıntılı ve denetime elverişli rapor alındıktan sonra sonucuna göre karar verilmesi gerekirken denetime elverişsiz şekilde hüküm kurulması doğru olmadığından hükmün bu sebeple bozulması gerekmiştir.
 
 ## Yargıtay 13. HD 2019/9471 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/538704900)
 
 Anılan yasa hükmü uyarınca kararın hüküm kısmının mutlak şekilde açık ve şüphe uyandırmayacak şekilde yazılması gerekli ve zorunludur. Temyize konu mahkeme kararının incelenmesinde hüküm kısmında, davanın kısmen kabulüne, ... 6. İcra Müdürlüğünün 2012/1670 E sayılı ilamsız icra takibine davalı tarafça yöneltilen itirazın İİK 67/1. maddesi gereğince kısmen iptali ile 36.816,00 TL kiralık araç bedeli, 2.333,00 TL yediemin ücreti
 
@@ -152,14 +204,20 @@ toplam 39.149,00 TL asıl alacak ve 303,40 TL işlemiş faiz olmak üzere, asıl
 
 ## Yargıtay 8. HD 2019/5450 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/647189900)
+
 İlk Derece Mahkemesince verilen ilk kararda, kira borcunun ödendiğinin İİK'nin 269/c maddesinde belirtilen belgelerle ispatlanması gerektiğinden ve davalı tarafından bu maddede belirtilen nitelikte belge ibraz edilmediğinden davalı borçlunun itirazının kaldırılmasına, takibin devamına, davalı kiracı borçlunun yasal 30 günlük sürede borcunu ödemediğinden tahliyesine karar verilmiş, bu karara karşı davalı vekili tarafından istinaf yoluna başvurulması üzerine, Bölge Adliye Mahkemesince, davacı alacaklı vekili tarafından “...
 Kültür ve Yatırım Vakfı” yerine “bu vakfı temsilen .... adına takip yapılmış ise de, bu takipten feragat edildiği, davacı alacaklı vekilinin takipten feragat ettikten sonra yeni bir takip açmasında usulsüzlük olmadığı, davalının itirazında kira sözleşmesine, kiracılık ilişkisine ve aylık kira bedeline açıkça itiraz etmediğinden kiracılık ilişkisi ve aylık kira bedelinin takip talebindeki belirtilen miktar olarak kesinleştiği, kira sözleşmesine ve yıllık kira miktarına itiraz etmeyen davalı kiracının, talep konusu yapılan kira bedelinin tamamını ödediğini İİK'nin 68. maddesinde sayılan belgelerle kanıtlaması gerektiği, takip talebindeki borcun ödendiğine ilişkin bir belge veya kayıt sunulmadığı, söz konusu ödemeyi kanıtlayamadığından temerrüt olgusunun gerçekleştiği gerekçesiyle yerel mahkeme kararının usul ve yasaya uygun olup, davalı vekilinin istinaf kanun yolu başvuru isteminin esastan reddine karar verilmiş, kararın davalı vekili tarafından temyiz edilmesi üzerine, Dairemizin 12.12.2018 tarihli ve 2018/15242 Esas, 2018/20118 Karar sayılı ilamı ile, Bölge Adliye Mahkemesi kararının kaldırılmasına, İlk Derece Mahkemesi kararının ise;
 “Kira sözleşmesinde aylık kira parası 4.600,00 TL olarak belirlenmiş ve sözleşmenin hususi şartlar bölümünün 7. maddesinde yıllık enflasyon oranında kira artışı yapılacağı kararlaştırılmıştır. Bu artış şartı belirli ve muayyen olmadığından geçerli değildir. Davalı borca itirazında, kira bedelinin ihtilaflı olduğunu, 4.600 TL olan kira bedelinin 5.950, sonra 6.500 TL, sonra da 7.000 TL olmasının sözleşmeye uyar bir yanı bulunmadığını bildirerek açıkça takip ile talep edilen kira miktarına itiraz etmiştir. Takibe konu kira tutarının ispatı kiralayana aittir. Davacının tek yanlı kira oranı ve kira bedeli belirlemesine itibar edilemez. Davacı kiraya veren kira miktarını ispat edemediğine göre, aylık kiranın davalının kabul ettiği ve sözleşmede belirlenen kira miktarı olduğunun kabulü ile bu miktar üzerinden hesaplama yapılarak sonucuna göre itirazın kaldırılmasına karar verilmesi gerekirken, yazılı şekilde itirazın tümden kaldırılmasına karar verilmesi doğru değildir.” gerekçesiyle bozulmasına karar verilmiştir.
 
 ## Yargıtay 8. HD 2019/4028 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/512515900)
+
 İcra İflas Kanunu'nun 269. maddesi gereğince, ödeme emrinin tebliği üzerine, borçlu yedi gün içinde itiraz sebeplerini, İİK'nin 62. maddesi hükümleri dahilinde icra dairesine bildirmeye mecburdur. Davacı alacaklının 05.02.2018 tarihinde haciz ve tahliye istekli olarak başlatmış olduğu icra takibi nedeniyle, İcra Müdürlüğü’nce düzenlenen Örnek 13 ödeme emri davalı borçlu kiracı ...’ya tebliğ edilemeden, takibi kendiliğinden öğrenmesi üzerine takibe itiraz edilmiştir. İcra takip dosyasında davalı borçlu ...’ya usulüne uygun tahliye istemli ödeme emri tebliğ işlemi yapılmadığından, yukarıda anılan maddedeki, davalı borçluya verilen süreler işlemez. Davalı borçluya usulüne uygun tahliye istemli ödeme emri tebliğ edilmeden, ödeme ve itiraz süreleri de işlemeye başlamayacağından davacı alacaklı İcra Mahkemesinden itirazın kaldırılmasını ve tahliye isteyemez. Bu durumda mahkemece, henüz kesinleşen icra takibi bulunmadığından, davalı kiracı ... yönünden davacının itirazın kaldırılması ve tahliye isteminin reddine karar verilmesi gerekirken, yazılı gerekçe ile davalı kiracı ... yönünden de itirazın kaldırılması ve tahliyeye karar verilmesi doğru değildir.
 
 ## Yargıtay 3. HD 2019/2953 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/515167700)
 
 İİK.nun 67/7. maddesine göre icra inkar tazminatına hükmedilmesi için alacağın likit ve belli olması gerekir. Borçlu yalnız başına ne kadar borçlu olduğunu tespit edebilir durumda ise, alacağın likit ve muayyen olduğunun kabulü gerekir. Alacağın belgeye bağlı olması veya borçlunun kötü niyetle itiraz etmesi şart değildir. Açıklanan kurallar ışığında takip konusu alacak değerlendirildiğinde mahkemece kabul edilen kira borcu yönünden alacak belirlenebilir ve likit olduğuna göre, bu tutar üzerinden icra inkar tazminatının hüküm altına alınması gerekirken, yazılı şekilde reddine karar verilmesi doğru değildir.

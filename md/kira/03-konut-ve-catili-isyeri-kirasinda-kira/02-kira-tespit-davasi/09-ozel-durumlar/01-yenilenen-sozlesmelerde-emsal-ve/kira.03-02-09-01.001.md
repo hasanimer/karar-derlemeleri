@@ -22,6 +22,8 @@ uyari: "Derleyenin seçtiği alıntılardır; kararın tamamı değildir. Künye
 
 ## Yargıtay 3. HD 2018/11236 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/463199200)
+
 Muris ile davalı arasında imzalanan 15.08.2009 başlangıç tarihli ve üç yıl süreli aylık 800 TL bedelli, 01.01.2013 başlangıç tarihli ve dört yıl süreli aylık 900 TL bedelli kira sözleşmelerinin varlığı hususunda uyuşmazlık bulunmamaktadır. **Yenileme sözleşmesinde kira bedeli emsal ve rayiçlere uygun değil ise yenileme sözleşmenin imzalanmasından itibaren 5 yıl geçmemiş olsa dahi ilk sözleşmenin başlangıcına göre geçen süre gözetilerek şartları varsa kira parasının hak ve nesafete göre tespiti talep edilebilir**.
 
 Bu durumda mahkemece; davacılara hangi dönemden itibaren kira bedelinin tespitini istediklerinin sorulması, muris ile davalı arasında imzalanan 01.01.2013 başlangıç tarihli sözleşmenin yapıldığı tarih itibariyle kira bedelinin rayici yansıtıp yansıtmadığının araştırılması, usulüne uygun toplanacak emsallerle birlikte mahallinde yapılacak keşifle belirlenerek, rayice uygun olması durumunda endeks uygulanarak kira bedelinin belirlenme aksi halde hak ve nesafete göre kira bedelinin belirlenmesi gerekirken yazılı gerekçeyle eksik araştırma ile kira bedelinin hangi dönemden itibaren tespit edildiği de belirtilmeksizin karar verilmesi usul ve yasaya aykırı olup bozmayı gerektirmiştir.

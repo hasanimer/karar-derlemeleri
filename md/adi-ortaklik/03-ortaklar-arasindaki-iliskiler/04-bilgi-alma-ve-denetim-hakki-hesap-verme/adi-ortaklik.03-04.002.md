@@ -22,9 +22,13 @@ uyari: "Derleyenin seçtiği alıntılardır; kararın tamamı değildir. Künye
 
 ## Yargıtay 3. HD 2014/12555 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/88409300)
+
 Uyuşmazlık konusu yargılama dosyasında; davacı, adi ortaklığın borcunu ödediğinden bahisle davalı diğer ortakdan hissesine düşen meblağın tahsilini istemektedir. Mahkemece, ticari defter ve kayıtlar incelenip konusunda uzman bilirkişiden herhangi bir rapor alınmaksızın davanın kabulu cihetine gidilmiştir. Eksik araştırma ve soruşturma ile hüküm tesisi cihetine gidilemez. O halde, dosyanın bilirkişiye tevdiiyle adi ortaklığın dava dışı E. Bilgisayar Yazılıma 08/12//2009 tarihine kadar mal alış verişi nedeniyle bir borcunun bulunup bulunmadığı, varsa miktarının tespitine yönelik taraf ve Yargıtay denetimine elverişli, alanında uzman 3'lü bilirkişi kurulundan rapor alınarak sonucu dairesinde hüküm tesisi gerekirken, eksik incelemeyle davanın kabulu yönünde hüküm tesisi isabetsizdir.
 
 ## Yargıtay 17. HD 2013/12858 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/784896300)
 
 Dava, İİK’nun 96 ve devamı maddelerine dayalı olarak açılan istihkak davasına ilişkindir.
 
@@ -34,6 +38,8 @@ Yapılacak iş, tacir olan ve ticari defter tutmakla yükümlü olan borçlunun 
 
 ## Yargıtay 7. HD 2013/420 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/242511900)
+
 Dava, adi ortaklıktan kaynaklanan alacak istemine ilişkindir.
 
 …
@@ -42,11 +48,15 @@ Dava, adi ortaklıktan kaynaklanan alacak istemine ilişkindir.
 
 ## Yargıtay 13. HD 2012/14693 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/748117400)
+
 Ortaklığın aktif ve pasif bütün mal varlığının belirlenip, ortakların birbirleri ile alacak verecek ve ortaklıktan dolayı bütün mal varlığının belirlenip ortakların birbirleri ile alacak verecek ve ortaklıktan dolayı olan ilişkilerinin kesilmesi yoluyla ortaklığın sona erdirilmesi, malların paylaşılması yada satış yoluyla elden çıkarılmasıdır. Ortaklık sözleşmesinde hüküm bulunduğu takdirde tasfiyenin sözleşmedeki hükümlere göre yapılması asıldır. Böyle bir hükmün bulunmaması halinde ise tasfiyenin bu defa BK.'nun 539. maddesindeki sıra takip edilerek yapılması gerekir. Somut uyuşmazlıkta adi ortaklık adına davacı tarafından tahsil edilen ortaklık geliri (hakedişler) kesinleşen mahkeme kararı ile belirlenip yarısının davalının hakkı olduğu kesinleştiğine göre, gerçektende adi ortaklığın yapmış olduğu masrafın yarısından da davalının sorumlu olduğunun kabulü zorunludur. Bu bağlamda yönetici ortak olduğu anlaşılan davacının yaptığı gerçek masrafların yapıldıkları tarihteki değerlerinin yarısından davalı şirketin sorumlu olduğu kabul edilmelidir.
 Ne varki gerek davacının ve gerekse bilirkişilerin hesaplamaya esas aldığı vergi denetim raporunda belirtilen masraf miktarının kabul edilmesi olanaksızdır. Her şeyden önce vergi denetim raporu davacı şirketin kayıtları esas alınarak düzenlendiği gibi, rapor vergi mevzuatı uyarınca düzenlendiğinden hesaplamaya esas alınamaz. Bu itibarla mahallinde konusunda uzman bilirkişi heyetince keşif yapılarak adi ortaklık konusunu oluşturan işin yapımı için yapılması gereken masraf miktarının yapıldıkları tarih itibariyle belirlenmesi gerekir. Öte yandan İzmir 3. Asliye Hukuk mahmemesince alınan ve diğer bilirkişi raporlarınada esas teşkil eden 30.9.2002 tarihli bilirkişi kurulu raporunda eldeki dosyanın davalısı Türdeş Ltd. Şti. tarafından da bir takım masrafların ve ödemelerin yapıldığı belirtilmesine rağmen, davadaki talep sadece alınan hakedişlerin yarısının bedelinin tahsiline ilişkin olduğu için yapılan masrafların ne miktar olduğu ve bu bağlamda tarafların hissesine ne kadar masraf miktarı düştüğü belirlenmeksizin sadece alınan hakediş bedeli belirlenerek rapor düzenlenmez, mahkemecede bu yönde karar verilmiştir.
 Verilen karar tasfiyeye yönelik bir karar olmadığı için 30.9.2002 tarihli bilirkişi raporunda belirtildiği üzere davalı ... tarafından yapıldığı belirlenen masrafların ve ödemelerinde eldeki davadaki masraf miktarından düşülmesi gerekir.
 
 ## Yargıtay 13. HD 2012/8862 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/746883900)
 
 Yönetici ortak olan davacının, BK'nun 530/2 maddesi gereğince hesap verme yükümlülüğü vardır. Adi ortaklığın tasfiyesinin, bizzat mahkemece yapılması gerekir. Öncelikle davacıdan adi ortaklığın hesapları ve bu hesaplara ilişkin belgeler istenmeli ve mahkemece konusunda uzman bilirkişiden rapor alınmalıdır. Tasfiyede, öncelikle şirketin aktif ve pasifinin saptanması gerekir. Ortaklardan herbirinin şirket için yaptığı masraflar ile koydukları sermayeler iade olunduktan sonra bir şey kalırsa, bu kalanın kar olarak taraflar arasında taksimi gerekir. Mahkemece, eksik incelemeyle davanın kısmen kabulü, usul ve yasaya aykırı olup, bozma nedenidir.
 
@@ -110,6 +120,8 @@ Olduğu, dosyaya sunulan Daire Teslim Formlarına göre; davacının Yüklenici 
 
 ## Ankara BAM 27. HD 2026/257 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1197518600)
+
 HMK 222/3 maddesinde ’’ikinci fıkrada belirtilen şartlara uygun olarak tutulan ticari defter kayıtlarının sahibi ve halefleri lehine delil olarak kabul edilebilmesi için, diğer tarafın aynı şartlara uygun olarak tutulmuş ticari defterlerindeki kayıtların bunlara aykırı olmaması veya ilgili hususta hiçbir kayıt içermemesi …
 
 …
@@ -120,6 +132,8 @@ defterlerde yer verilen faturaların müvekkil şirkete hiç bir şekilde tebli�
 
 ## İstanbul BAM 3. HD 2025/3091 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1185029500)
+
 Bu nedenle öncelikle dava konusu taşınmazlara ait güncel ve takyidatlı tapu kayıtlarının dosya içerisine alınarak özellikle dava konusu taşınmazların halihazırda kimin adına kayıtlı olduğu, bu taşınmazlar üzerindeki ipoteklerin veya şerhlerin mevcut olup olmadığı, taşınmazlar hakkında devam eden davaların bulunup bulunmadığının tespiti gerekirken bu inceleme yapılmaksızın hazırlanan rapor doğrultusunda karar verilmesi hatalı olmuştur.Kaldı ki bilirkişiler, her ne kadar KKİS uyarınca avans olarak devredilen taşınmazların satın alınması ve ipotek tesis edilmesi durumunda alıcının ve ipotek sahibinin iyi niyetinin korunmayacağını ileri sürmüşse de, somut olayda avans olarak temlik edilen herhangi bir taşınmaz olmadığı gibi bu nitelikte iken müşterilere satılmış olan herhangi bir taşınmaz da bulunmamaktadır.Kaldı ki her arsa payı karşılığı inşaat sözleşmesine istinaden tapu intikali yapılan yükleniciden tamamen iyi niyetli olarak arsa payı veya bağımsız bölüm satın alanın (tüketici vasıflı davalı müvekkil ... gibi) bu iktisabını geçersiz saymak TMK 1023. maddesi karşısında açıkça kanuna aykırı davranmak olacaktır.
 Somut olayda da dava konusu taşınmazların, KKİS uyarınca davalı müvekkile devredilmesi gerektiği, devredilen bu taşınmazların temlik niteliğinde değil hakediş karşılığı yapılan devirler olduğu ve bu taşınmazlara ait bedellerin adi ortaklık hesabına ödemesi akabinde dava dışı iyi niyetli üçüncü kişilere devredildiği sabit olduğundan bilirkişi raporundaki tespitlerin fahiş derecede hatalı olduğu açıktır.Kaldı ki davacı arsa sahibi değildir, KKİS'in tarafı değildir ve korunması gereken herhangi bir iyi niyeti de yoktur.Zira davacı yan tüzel kişi tacir olup huzurdaki davanın taraflarının tamamı da (davalı müvekkil ... hariç) tacirdir.
 
@@ -127,6 +141,8 @@ Dolayısıyla her yönüyle ticari nitelikte olan huzurdaki uyuşmazlıkta davac
 üzerinde inceleme yapmamış olup bu çerçevede hazırlanan rapor doğrultusunda tesis edilen kararın da eksik inceleme sonucu verildiği açıktır. Nitekim bilirkişiler, davacının bu sistem üzerinden yapılan tüm satışlar, tapu devirleri, indirimler ve komisyonları görebildiğini, ortak muhasebe kaydı içeren bu sistem sayesinde adi ortaklık bütçesinden yapılan tüm harcamalar ile adi ortaklığın mali işleyişine dair her türlü datanın, adi ortaklığın kurulduğu ilk günden bu yana 7/24 erişime açık şekilde tarafların kullanımına sunulduğunu değerlendirmemiştir. Kaldı ki bilirkişi heyeti içerisinde CRM sistemini gereği gibi inceleyecek IT (Bilişim Sistemleri) uzmanı da zaten bulunmamaktadır.Nitekim ilgili CRM kayıtları incelenseydi, dava konusu taşınmazlar da dahil olmak üzere Adi Ortaklık - ...
 
 ## İstanbul BAM 3. HD 2025/2926 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1183356300)
 
 Bu husus davacı tarafından kabul edilmektedir.Davacı kendi adına yapılan ödemenin davalıya ödendiğine dair delil sunamamıştır." şeklindeki istinaf sebepleri ile kararın davalı aleyhine olan kısımlarının kaldırılmasına davanın tümden reddine ve kötüniyet tazminatının kabulüne karar verilmesi istenmiştir....nun 355. maddesi uyarınca, ileri sürülen istinaf sebepleri ile sınırlı olarak yapılan inceleme sonucunda; dava , menfi tesbit talebine ilişkindir.Mahkemece ,yargılama sırasında davanın dayanağı olan Küçükçekmece 1. İcra Müdürlüğünün ... Esas sayılı takip dosyası ve güncel kapak hesabı UYAP Bilişim Sistemi üzerinden celp edilmiş ; alacaklısının ..., borçluların ... ve ... ve Tarım Ürünleri Ltd. Şti. olduğu, alacaklının borçluların şirketine ortak olmak için gönderdiği paraların iadesi talebi borç sebebi gösterilerek, toplam 230.852,99-TL alacağın tahsili talebine ilişkin olduğu, dosyada 02/12/2022 tarihi itibariyle 169.243,19-TL tahsilat olduğu görülmüştür.
 Davada davalı taraf, adi ortaklık kurulacağı inancı ile masraflar yaptığını savunmaktadır.Davacı taraf adi ortaklık ilişkisinin varlığını kabul etmemektedir.Bilindiği üzere, adi ortaklık; iki yada daha fazla kişinin emeklerini ve mallarını ortak bir amaca erişmek üzere birleştirmeyi üstlendikleri sözleşmedir. (TBK. 620/1 md.) Diğer bir anlatımla, adi ortaklık; birbirini tanıyan, birbirlerinin kabiliyet ve şahsiyetlerine güvenen, eşit ve aynı durumda olan gerçek veya tüzel kişilerin, müşterek amacın gerçekleştirilmesini sağlayacak vasıtaları (sermaye paylarını veya emeklerini) ortaklığa getirme konusunda karşılıklı ve uygun irade beyanlarının birbirine ulaşmasıyla teşkil eden bir kişi topluluğudur.Adi ortaklık sözleşmesi yazılı yapılabileceği gibi sözlü de yapılabilir. İhtilaf halinde, bu ortaklığın var olduğunu ileri süren kişi, iddiasını, HMK'nın 200. md gereğince senetle ispat etmelidir. Her ne kadar adi ortaklık ilişkisi her hangi bir şekle bağlı değilse de, bu kural geçerlilik şekli bakımından söz konusu olup, ihtilaf çıktığında adi ortaklık sözleşmesinin varlığını ispat yükü, adi ortaklık ilişkisinin varlığını iddia edene düşer.
@@ -137,6 +153,8 @@ HMK 202.madde gereğince "delil başlangıcı" bulunan hallerde tanık dinlenebi
 makinelerin akıbeti ve yapılan ödemelerin miktarları konularının 3 kişilik bilirkişi kurulu aracılığı ile tesbiti gereklidir. Açıklanan bu hususlar, yeniden yargılama gerektirdiğinden ,tarafların istinaf talebinin kabulü ile ,kararın bu sebeplerle kaldırılmasına karar verilmesi gerekmiştir.
 
 ## İstanbul BAM 14. HD 2025/2020 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1187780900)
 
 Şti.'nin satıcılar hesap numarasında kayıt altına alınan faturalar ve ödemeler sonucunda, 182.261,26 TL alacak bakiye verdiği, yani davalının alacaklı olduğu bu rakamın noter onaylı kebir defterinde kapanış yevmiye maddesinde doğrulandığı, ... İnş. ..Şti.'nin satıcılar hesap numarasında kayıt altına alınan faturalar ve ödemeler sonucunda, 35.310,85 TL alacak bakiye verdiği, davalının defter ve kayıtlarında;davalının hesaplarını iki hesapta takip ettiği bu hesapların 31.12.2019 tarih itibari ile borç bakiyesi verdiği; ...
 Ortaklığı'nin alıcılar hesap numarasında kayıt altına alınan faturalar ve ödemeler sonucunda, 31.310,45 TL borç bakiyesi verdiği yani davacıdan alacaklı olduğu, ...İş Ortaklığı'nin alıcılar hesap numarasında kayıt altına alınan faturalar ve ödemeler sonucunda, 3.42 TL borç bakiyesi verdiği yani davacıdan alacaklı olduğu, ticari defter kayıtlarının sahibi ve halefleri lehine delil olarak kabul edilmesi için diğer tarafında aynı şartlara aykırı olmaması veya ilgili hususta hiçbir kayıt içermemesi, karşı tarafında defter kayıtlarının aynı doğrultuda tespit edilmesi gerekliliği muhasebe hesap kayıt farklarından ötürü defter ve kayıtlarda alacağın varlığının tespiti yapılamadığı belirtilmiştir.

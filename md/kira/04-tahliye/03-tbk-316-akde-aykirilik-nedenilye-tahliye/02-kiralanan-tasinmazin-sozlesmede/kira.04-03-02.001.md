@@ -21,6 +21,8 @@ uyari: "Derleyenin seçtiği alıntılardır; kararın tamamı değildir. Künye
 
 ## Yargıtay 3. HD 2018/11200 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/454723600)
+
 Akde aykırılık nedenine dayanılarak açılan davada tahliye kararı verilebilmesi için akde aykırı davranışın önemli ve **doğrudan doğruya kiralananın bizzat kullanılması ile ilgili olması gerekir**.
 
 Somut olayda; Taraflar arasında 15.09.2004 başlangıç tarihli bir yıl süreli kira sözleşmesi hususunda uyuşmazlık bulunmamaktadır. **Sözleşmede kiralananın kullanım şekli kafeterya olarak belirlenmiştir**. **Kiraya veren kiralananı sadece kafeterya olarak kullanılması için kiraya verdiğinden, onun rızasına aykırı her kullanma, akde aykırı bir kullanmadır**. Bu kullanımın kiralanana zarar verip vermemesi önemli değildir. Bu itibarla, ihtarda verilen süreden sonra da akde aykırılığın devam ettiği hususunun saptanması gerektiği kuşkusuzdur.
@@ -29,5 +31,7 @@ Mahkemece hükme esas alınan 24.04.2018 tarihli bilirkişi raporunda; davacın�
 ## Yargıtay 3. HD 2025/2950 K.
 
 ## İstanbul BAM 55. HD 2025/2909 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1169869200)
 
 Bu maddenin ihlali kiralananın kullanımına ilişkin olmadığından **akde aykırılık nedeniyle tahliye sonucunu doğurmaz**. Sözleşme hükmünün yerine getirilmemesi sözkonusu olduğundan ancak aktin feshini gerektirir.

@@ -37,6 +37,8 @@ toplanan delillere uygun olması nedeniyle Mahkemece tarafından davalılar veki
 
 ## Sakarya BAM 7. HD 2026/565 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1202990700)
+
 Dava; rücuen tazminat istemine ilişkindir.
 
 …
@@ -45,21 +47,29 @@ Adi ortaklığın tüzel kişiliği ve dolayısıyla taraf ehliyeti bulunmamakta
 
 ## İstanbul BAM 46. HD 2026/404 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1197369800)
+
 Adi ortaklığın ayrı bir tüzel kişiliğinin bulunmadığı, ortaklığı oluşturan şirketlerin ayrı tüzel kişilikleri ile adi ortaklık kurabildikleri, adi ortaklığın; şahıs ve şirketlerde alacak ve borç ilişkisine girebildiği, bu anlamda adi ortaklığın tüzel kişiliği bulunmadığından ortakları oluşturanların tamamının alacak-borç ilişkisinde müştereken ve müteselsilen sorumlu oldukları, nitekim istinaf dilekçesi ekinde aynı davalı adi ortaklara verilen borç (ödünç) için açılan davaların yapılan yargılaması neticesinde;tarafların ticari defterlerinin usulüne uygun tutulduğu, icra takibine konu alacağın davacı defterlerinde alacak davalı defterlerinde ise borç olarak kayıtlı olduğu, her iki tarafın ticari defter kayıtları dikkate alındığında davacı tarafın takip konusu alacak miktarı kadar davalıdan alacaklı olduğunu ispat edildiği sonucuna varılarak davaların kabulüne karar verilmiştir.
 Şu halde; dekontlarda açıkça "borç" açıklaması bulunmadığından havalenin, mevcut bir borcun ödenmesi amacıyla yapıldığı düşünülse bile, bu yasal karinenin tersini (havalenin borcun ödenmesinden başka bir amaçla yapıldığını) ileri süren davacının havaleci (muhil), bu iddiasını davalıların ticari defter ve kayıtları ile ispatladığının kabulü gerekmiştir.Davalı şirketlerin adi ortaklığına ait ticari defterlerinin incelenmesinde davacı yana ait kayıtların iki ayrı hesapta takip edildiği, bu hesaplardan birinin 131.01.005 nolu ortaklardan alacaklar hesabı, diğerinin ise 336 nolu diğer çeşitli borçlar hesabı olduğu tespit edilmiştir. İtiraz üzerine alınan ek raporda heyet görüşünü değiştirmemiştir. Tüm cari hesap ilişkisinin incelenmesi neticesinde davacının, bakiye alacağının 2.955.946,00 TL olarak hesaplandığı, tarafların itirazının ticari defter kayıtlarına uygun olmadığından reddine karar verilmesinde isabetsizlik bulunmadığı, davacı adına alacak kaydedilerek oluşturulan cari hesap ilişkisine göre davacının, 2.955.946,00 TL alacaklı olduğu sonucuna varılmış, HMK 353/1-b-2 maddesi gereği ilk derece mahkemesi kararının kaldırarak;
 "Davanın kısmen kabul kısmen reddine, davalıların, İstanbul 28.
 
 ## İstanbul BAM 15. HD 2026/346 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1200955700)
+
 Mahkemece ilk kararda, davacı yanın davadan feragat etmiş olması sebebi ile davanın feragat nedeni ile reddine dair verilen kararın davalı yan tarafından istinaf edilmesi sonucu, Dairemizce; şarta bağlı feragat yapılamayacağı gerekçesi ile yerel mahkeme kararının kaldırılmasına karar verilmiş, Dairemizin kaldırma kararı sonrası Mahkemece bu kez; davacının, adi ortaklık aleyhine takip başlattığı, itiraz üzerine duran takibin devamı için eldeki davayı açtığı, ortaklığın tüzel kişiliği ve dolayısı ile taraf ehliyetinin bulunmadığı, ortaklık adına açılacak davaların adi ortaklığı oluşturan ortaklardan herhangi biri tarafından açılmasının zorunlu olduğu gerekçesi ile davanın husumet yokluğundan reddine, karar verilmiştir.İcra dosyasının uyaptan incelenmesinde davacı vekilinin 31.10.2025 tarihinde icra dosyasında feragat ettiği, davacı vekilinin 04.11.2025 tarihli son celse için, duruşma saatinden önce, saat 09:21 de mazeret talepli dilekçe göndererek; davaya konu icra dosyasından feragat ettiklerini, bu nedenle yokluklarında, dava konusuz kaldığından karar verilmesine yer olmadığı kararı verilmesini talep ettiği, bu dilekçenin ön inceleme yapılmadan verildiği,bu durumda mahkemece,
 davacı vekilinin dilekçedeki beyanları dikkate alınarak davanın konusuz kalması sebebi ile karar verilmesine yer olmadığı kararı verilmesi gerekirken; iş bu dilekçe sadece mazeret dilekçesi olarak dikkate alınarak; davanın husumet yokluğundan reddine karar verilmesi doğru olmamıştır.HMK 331. Maddesi gereği, konusuz kalan davanın esası hakkında karar verilmesine yer olmadığına dair karar verildiğinde; vekalet ücretine davanın açıldığı tarihteki haklılık durumuna göre hükmedileceği, davalı yanın davanın başından beri borcu olmadığını savunması, davacı yanın ise icra dosyasına ödeme olmadığı halde; icra dosyasından feragat ettiği nazara alınarak; ilk derece mahkemesinde vekalet ücreti takdir edilirken HMK 331. Maddesi ile dava ön inceleme aşamasından önce konusuz kaldığından AAÜT 6.
 
 ## İstanbul BAM 13. HD 2025/1557 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1173547200)
+
 Öte yandan, davalı ...'un tek ortak olduğu tarihe kadar ki şirket kayıtlarına bakıldığında; şirket hisselerinin sıklıkla ... ailesinin fertleri arasında el değiştirdiği, yani, tüzel kişiliğe sahip bir anonim şirket olmaktan ziyade, bir adi şirket görüntüsü verdiğini, bilindiği üzere, her ne kadar tüzel kişi şirket ile onun ortakları arasında ayrılık kuralı geçerli olsa bile; bazı durumlarda şirket ile ortakları arasında bir özdeşlik veya ayniyet ortaya çıkabildiğini ve iki ayrı hukuk sujesinin varlığını ileri sürmenin imkansızlaştığını, nitekim, davalı şirketin de, uyuşmazlık konusu genel kuruldan sonra tamamiyle bir aile şirketi durumuna dönüştüğünü, şirket üzerinde ailenin tam hakimiyet ve kontrolü sağlandığını, şirket ile ortakları arasında artık ayrı bir varlık kalmayacak biçimde menfaat birliği gerçekleştiğini;Bu bağlamda, davalılar ... ile ...'un tüzel kişilik perdesinden istifade etmelerinin, adaletin tecellisi bakımından hakkaniyete uygun olmayacağını, çünkü, davalıların; davacı müvekkillerinin şirket hisselerinden kaynaklı karını/kazancını da kendi kişisel mal varlıklarına aktardığını, yurt içinde ve yurt dışında kurmuş oldukları ya da ortak oldukları şirketlerde
 değerlendirdiklerini, dolayısıyla adil bir kararın tesisi bakımından tüzel kişilik perdesinin kaldırılması gerektiğini, bu bakımdan, davalılar ... ile ...'a yönelik davanın reddine karar verilmesinin usule ve yasaya aykırı olduğunu;İstinaf konusu kararın gerekçesinde; "Bilindiği üzere genel kurul kararının iptali davasında, kararın iptalini talep eden ortağın ortaklık sıfatının bulunması ve dava süresince de devam etmesi gerekir. Uygulamada husumet olarak tanımlanan bu yetkinin, tüm dava sürecinde davacı üzerinde bulunması gerekmektedir. Dava açan kişinin ortaklık sıfatı mevcut değilse veya yargılama sırasında sona erecek olursa, artık davayı takip ve sonuçlandırmakta hukuki menfaati de kalmaz.
 
 ## İstanbul BAM 43. HD 2025/1541 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1182914700)
 
 Noterliğinin 08.04.2014 tarih ve ... yevmiye numaralı, İstanbul Zeytinburnu Kazlıçeşme Arsa Satışı Karşılığı Gelir Paylaşımı İşi'ne göre yapılmasına ait sözleşmenin olduğu, arsa malikinin, projenin yapımı, pazarlanması, satışı ve satış sonrası dahil hiçbir safhasında, hiçbir ad altında ve hiçbir koşulda gider, masraf, vergi, resim, harç, fon vs, harcamada bulunmayacağı ve mevzuatın amir düzenlemeleri ile alıcının sözleşme gereklerini yerine getirmesi halinde bağımsız bölümün tapu devrini vermesi dışında hiçbir yükümlülüğü olmadığı, alıcının işbu satış vaadi sözleşmesi nedeniyle doğacak tüm tazminat ve talep haklarının muhatabı olarak yükleniciyi kabul edeceği ve her türlü ayıp, kusur ve eksik imalatlar ile gecikmeden doğabilecek muhtemel zararlardan yüklenicinin sorumlu olduğunu peşinen kabul etmeleri esasına dayandığı , sözleşmenin 13.1.maddesinde bağımsız bölümün teslim tarihinin sözleşme tarihinden itibaren 36 ay olduğu , sözleşmenin 20.maddesinde alıcının, işbu sözleşmeyi tamamen okuduğu, satıcı sıfatıyla her türlü sorumluluğun ve keyfiyetin yükleniciye ait olduğu ve .......
 A.Ş.'nin satıcı sıfatıyla hiçbir sorumluluğunun bulunmadığı gibi muhatap da olmadığı şeklinde düzenlemelerin mevcut olduğu görülmektedir. Türkiye Ticaret Sicil Gazetesinin 04.01.2018 tarih ve 9487 sayılı sayfa 262 de yayınlanan ilana göre ... Takı San. ve Tic. Ltd. Şti.'nin davacı şirket ile birleşmesi suretiyle devralındığı anlaşılmaktadır. Davacı tarafça ... Takı San. ve Tic. Ltd. Şti.'nin tüm hak, alacak ve borçları ile birlikte devralındığı belirtilerek adi ortaklık aleyhine eldeki dava açılmıştır. Görevsiz mahkemede yapılan yargılama sırasında davacı vekiline adi ortaklığı oluşturan şirketler yönünden dava dilekçesi sunmak için süre verilmiş olup, davacı vekilince bu yönde kurulan ara kararın yerine getirilmesi üzerine davaya adi ortaklığı oluşturan şirketler yönünden devam edilmiştir.
@@ -69,6 +79,8 @@ Dosya kapsamında bulunan tarihsiz belgede; "05.12.2017 tarihli ... satış vaad
 
 ## İstanbul BAM 45. HD 2025/1396 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1185683200)
+
 Dava takip yetkisi ve sıfatın davadaki durumunu belirtmek bakımından, davanın yürütülmesi ve karara ulaşmasındaki sürecin dava takip yetkisini, bu sürecin sonunda maddi hukuka yönelik sonucun ise sıfatı karşıladığı söylenebilir (Pekcanıtez Usul, s.612). Bir sübjektif hakkı dava etme yetkisi (dava hakkı) kural olarak o hakkın sahibine aittir. Bu nedenle, o hakka ilişkin bir davada davacı olma sıfatı (aktif husumet ehliyeti) da o hakkın sahibine aittir. Mesela, bir alacak davasında davacı olma sıfatı, o alacağın alacaklısına aittir. Alacak davası o alacağın alacaklısından başka bir (üçüncü) kişi tarafından açılırsa, (dava konusu alacağın mevcut olmadığından dolayı değil) davacının davacı (alacaklı) sıfatına sahip olmadığından (sıfat yokluğundan, husumetten) dolayı reddedilir. (Medeni Usul Hukuku El Kitabı, Prof. Dr. Baki Kuru, Av. Burak Aydın, Cilt.I, s.332). Taraf sıfatı dava şartı değildir. Çünkü sıfat, usul hukuku sorunu olmayıp, dava konusu (subjektif) hakkın özüne ilişkin, bir maddi hukuk sorunudur. Sıfat yokluğu, bir def'i değil, davada taraf olarak gözüken kişiler arasında dava konusu hakkın doğumuna engel olan bir itirazdır.
 Hakim kendisine sunulan dava malzemesinden (davalı veya davacının bildirdikleri vakıalardan yani dava dosyasından) bir itiraz sebebinin varlığını (sıfat yokluğunu) öğrenirse, bunu kendiliğinden gözetir (Medeni Usul Hukuku El Kitabı, s.333, 334).6098 sayılı TBK'nın 620.maddesinde adi ortaklık sözleşmesi iki ya da daha fazla kişinin emeklerini ve mallarını ortak bir amaca erişmek üzere birleştirmeyi üstlendikleri sözleşmeler olarak tanımlanmıştır. Ancak adi ortaklık 6102 sayılı Türk Ticaret Kanunu kapsamında yer alan ortaklıklardan farklı olarak taraf ve dava ehliyeti olmadığı gibi tüzel kişiliği haiz değildir. Bu nedenle adi ortaklığa ilişkin davalarda, adi ortaklığı oluşturan kişilerin taraf olarak hep birlikte hareket etmeleri zorunludur. Adi ortaklık tarafından açılacak davaların, el birliği mülkiyeti kuralları gereğince bütün ortaklar tarafından birlikte açılması gerekir. Bütün ortaklar tarafından açılacak dava, adi ortaklık adına değil ortaklar adına açılır ve hüküm de ortaklar hakkında verilir.
 
@@ -77,6 +89,8 @@ Yapılan maddi hatanın sonuca etkisi bulunmadığı, davanın usulden reddine k
 
 ## İstanbul BAM 15. HD 2025/926 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1170774400)
+
 Adi Ortaklığı olduğunu, aksine bir iddia ve/veya tevsik edici belge sunulmadığından adi ortaklık taraflarının talep ve dava edebileceği kısımın, ortaklık payları nispetinde olacağından, davacı tarafın sözde alacak olarak talep edebileceği kısımın, adi ortaklığın sözde alacağına terettüp edecek kısmın yarısından ibaret olması gerektiğini ve davayı kabul anlamına gelmemekle birlikte takas defilerinin kabulü ile davacı taraftan alacaklar ile sözde davacı alacaklarının mahsuplaştırılmasını, aksi halde davanın reddini, davacı aleyhine %20'den az olmamak üzere kötü niyet tazminatına hükmedilmesini, talep etmiştir.Birleşen dosya davalıları davaya cevap vermemiştir.Mahkemece 06/05/2025 tarihli karar ile; somut olayda; birleşen davanın 16/08/2024 tarihinde açıldığı, dava açılmadan önce davalı ... İnşaat...şirketi yönünden arabuluculuk faaliyetinin yerine getirilmediği anlaşıldığından davanın bu davalı yönünden 6325 Sayılı HUAK 18/A ve TTK 5/A maddesi gereğince usulden reddine karar verilmesi gerektiği, asıl dosyada davacı vekilinin, asıl dosyada birlikte taraf olması gereken, Adi Ortaklığın davada yer almayan ortağı ...
 İnşaat...şirketi aleyhine, sadece taraf teşkilini sağlayabilmek için birleşen davayı açmış olup, birleşen dosyada yüklenici ...'i bir kez daha davalı olarak gösterdiği, bu davalı yönünden zaten mahkemede görülmekte olan 2022/299 esas sayılı işbu asıl dava dosyası mevcut olduğundan ....şirketi yönünden derdestlik dava şartı yokluğu bulunduğu, asıl dosyada ise; davalara konu 'Fore Kazık ve İksa İşleri' adlı eser sözleşmesinin iş sahibinin, davacı ve birleşen dosya davalısı ... İnşaat...şirketi'nin oluşturdukları Adi Ortaklık olduğu, adi ortaklıkta davanın, tüm ortaklar tarafından birlikte açılması zorunlu olduğundan, davacı vekilinin, adi ortaklığın ortağı olan ...
 
@@ -84,6 +98,8 @@ Adi Ortaklığı olduğunu, aksine bir iddia ve/veya tevsik edici belge sunulmad
 6102 sayılı TTK'nun 5-a bendinde bahsedildiği üzere, sadece konusu bir miktar paranın ödenmesi olan alacak ve tazminat talepleri için ara buluculuk yolu şart koşulduğundan, bu davalı için arabuluculuk dava şatından davanın reddedilemeyeceği, Yargıtay 15. H.D. 2016/886 E, 2017/961 K, sayılı ilamında "Adi ortaklığın tüzel kişiliği olmadığı gibi taraf ehliyeti de bulunmamaktadır. Adi ortaklığın taraf olduğu işlemlerden doğan davaların tüm ortaklar tarafından açılması gerekir. Somut olayda dava dilekçesinde davacının “...” olduğu anlaşılmaktadır.
 
 ## İstanbul BAM 12. HD 2025/824 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1148009500)
 
 …
 
@@ -94,11 +110,15 @@ Müzik ...A.Ş. yönünden süresinde istinaf harçları yatırılmadığından 
 
 ## Ankara BAM 31. HD 2025/534 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1154978500)
+
 Mahkemece yapılan yargılama sonucunda, davaya konu olan ve icra takibi ile davalıdan istenen alacağın, adi ortaklık ile davalı arasındaki alt yüklenicilik sözleşmesinden kaynaklandığı, adi ortaklığın tüzel kişiliğinin bulunmadığı, bu sebeple taraf ehliyetinin de bulunmadığı, adi ortaklık adına açılan davaların veya yapılan takiplerin adi ortaklığı oluşturan ortaklar tarafından birlikte açılmaları ve takip edilmeleri gerekirken taraf ve takip ehliyeti bulunmayan ortaklardan sadece davacı şirket tarafından başlatıldığı, itirazın iptali davalarında, yetkili icra dairesinde başlatılmış usulüne uygun ve itiraz üzerine duran takibin bulunmasının dava şartı niteliğinde olduğu, takibin taraf ehliyeti bulunmayan davacı şirket tarafından başlatıldığı, bu aşamada tamamlanması mümkün olan dava şartlarından da olmadığından taraf ehliyeti dava şartı yokluğu nedeniyle davanın usulden reddine karar verilmiş, bu karara karşı davacı vekili yukarıda belirtilen gerekçelerle istinaf yoluna başvurmuştur.
 
 İş ortaklığı, esas itibariyle Borçlar Kanunu'nun 620 ve müteakip maddelerindeki hükümlere tabi bir adi ortaklık olup, tüzel kişilikleri olmadığından taraf ehliyetleri yoktur. TBK'nın 638/3. maddesine göre; "Ortaklar birlikte veya bir temsilci aracılığı ile bir üçüncü kişiye karşı ortaklık ilişkisi çerçevesinde üstlendikleri borçlardan, aksi kararlaştırılmadıkça müteselsilen sorumlu olurlar". Adi ortaklığın borcu, adi ortaklığı oluşturan kişilerden, takipte taraf gösterilmek sureti ile tahsil edileceği gibi adi ortaklığın alacağının da tüm ortaklar tarafından birlikte takip edilmesi gerekir. HMK'nın 114/1-d maddesi uyarınca tarafların, taraf ve dava ehliyetine sahip olmalarının dava şartlarından olduğu, HMK'nın 115. maddesine göre mahkemenin, dava şartlarının mevcut olup olmadığını, davanın her aşamasında kendiliğinden araştıracağı hükmü nazara alınarak, bu hususun hem ilk derece yargılaması sırasında hem de kanun yolu aşamasında resen gözetilmesi gerekir. (Yargıtay Kapatılan 15. Hukuk Dairesinin 2019/2305 Esas 2020/404 Karar sayılı ilamı)
 
 ## Antalya BAM 11. HD 2025/359 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1144035800)
 
 Dava, itirazın iptali istemine ilişkindir.
 
@@ -108,6 +128,8 @@ Taraf ehliyeti 6100 sayılı HMK nun 114/1-d maddesi gereğince dava şartların
 
 ## Sakarya BAM 5. HD 2025/345 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1125484900)
+
 Dava; eser sözleşmesinden kaynaklı itirazın iptali istemine ilişkindir.
 
 …
@@ -115,6 +137,8 @@ Dava; eser sözleşmesinden kaynaklı itirazın iptali istemine ilişkindir.
 Adi ortaklığın tüzel kişiliği bulunmadığından, adi ortaklığın taraf olduğu davaların adi ortaklığı oluşturan gerçek veya tüzel kişilerin tamamı tarafından ve aleyhlerine olan davanın da adi ortaklığı oluşturan gerçek veya tüzel kişilerin tamamına karşı açılması zorunludur. Bu husus taraf teşkiliyle ilgili olduğundan görevi gereği mahkemelerce ve temyiz halinde Yargıtayca kendiliğinden göz önünde tutulur.
 
 ## Ankara BAM 31. HD 2025/71 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1113700700)
 
 Dava; Alacak (taraflar arasındaki sözleşme kapsamında nama yapılan işler kapsamında alacak ve gecikme cezası bedeli ) davasına ilişkindir.
 
@@ -125,10 +149,14 @@ A.Ş.'ye mahkemece çıkarılan tebligatta, ekte dava dilekçesi, tensip zaptı,
 
 ## İstanbul BAM 14. HD 2024/1438 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1079838500)
+
 Yasanın emredici kuralından kaynaklanan ve bir hakkın yerine getirilmemesi ile ilgili bulunan bu husus İİK'nun 16/2. maddesi gereğince süresiz şikayete tâbidir. Şikayete konu takipte, borçlu olarak adi ortaklığı oluşturan şirketler yanında ayrıca adi ortaklığın (...A.Ş.- ... A.Ş. İş Ortaklığının) gösterildiği anlaşıldığından, yukarıda da açıklandığı üzere adi ortaklığın tüzel kişiliği ve dolayısıyla taraf ehliyeti bulunmadığından adi ortaklık hakkında yapılan takibin hukuken geçerliliği bulunmamaktadır. O halde mahkemece anılan husus re’sen gözetilerek iş ortaklığı hakkında başlatılan takibin iptaline karar verilmesi gerekirken yazılı şekilde hüküm tesisi isabetsizdir." tespiti yapılmıştır.Somut olayda, .... sayılı dosyası ile "...- ... ...." aliyhine takip başlatılmış; ödeme emri ....'a tebliğ edilmiş ve bu kişi tarafından itiraz edilmiştir. Takip talebi ve ödeme emrinde adi ortaklığın ortaklarının ikisinin adı birlikte yazıldıktan sonra adi ortaklığın vergi numarasının yazılması ile aslında takibin tüzel kişiliği bulunmayan adi ortaklığa yöneltildiği anlaşılmaktadır.
 İtiraz üzerine açılan itirazın iptali davasında da davalı olarak adi ortaklık gösterilmiş ve adi ortaklığı oluşturan bir bir ortak aleyhine ayrı ayrı dava açılmamıştır. Yukarıda belirtildiği üzere dava dilekçesinde de adi ortaklığı oluşturan ortakların adları ile birlikte ortaklığın unvanı ve vergi numarasının yazılması nedeniyle davanın da ortaklığa karşı açıldığı anlaşılmaktadır. Yargılamada sadece ortaklardan ...'a tebligat yapılmış ve dava bu kişi tarafından takip edilmiştir. Adi ortaklığı oluşturan ortaklardan bir tanesinin duruşmaya katılması ve adi ortaklığın işlerinin sadece kendisince takip edildiğini beyan etmesinin temsile bir etkisi bulunmayacaktır.Somut olay bakımından, takibin ortaklara yöneltilmeyip, tüzel kişiliği bulunmayan adi ortaklığa yöneltilmesi nedeniyle geçerli bir icra takibinin bulunduğundan söz edilemez. Geçerli bir icra takibinin bulunması ise itirazın iptali davası açısından özel dava şartıdır.
 
 ## Adana BAM 9. HD 2024/1254 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1045394600)
 
 Dava; kambiyo senedinden kaynaklanan menfi tespit istemine ilişkindir.
 

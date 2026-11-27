@@ -20,4 +20,6 @@ uyari: "Derleyenin seçtiği alıntılardır; kararın tamamı değildir. Künye
 
 ## Yargıtay 3. HD 2017/12337 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/367438100)
+
 Türk Borçlar Kanununun 352/son maddesi uyarınca açılacak davada dava hakkı kiraya verene ait olup, açılan tahliye davasında **tahliye kararı verilebilmesi için kiracının veya birlikte yaşadığı eşinin aynı ilçe veya belde belediye sınırları içinde oturmaya elverişli bir konutunun bulunması ve davalının sosyal durumu, aile nüfus sayısı itibariyle oturmasına elverişli bulunması gerekir. Bu iki koşulun bir arada bulunması zorunludur**.

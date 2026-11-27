@@ -21,4 +21,6 @@ uyari: "Derleyenin seçtiği alıntılardır; kararın tamamı değildir. Künye
 
 ## Yargıtay 6. HD 2016/1075 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/208941900)
+
 Davalının temyiz dilekçesine eklenen alındı belgesinden davaya dayanak icra dosyasındaki borca mahsuben 07/05/2015 tarihinde ve yasal ödeme süresi içerisinde takibe konu asıl kira borcunu karşılayacak miktarda 3.000,00 TL nin ödendiği, anlaşılmaktadır. Davacının kabulü de bu yöndedir. **Borcun ferileri olan faiz, icra gideri avukatlık ücreti, v.s. gibi kısımların ödenmemesi, temerrüde esas alınamayacağından**, **mahkemece tahliye isteminin reddine karar verilmesi gerekirken** yazılı gerekçe ile davanın kabulüne karar verilmesi doğru değildir.

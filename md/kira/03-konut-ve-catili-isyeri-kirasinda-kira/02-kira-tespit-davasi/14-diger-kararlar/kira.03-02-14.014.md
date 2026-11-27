@@ -23,19 +23,27 @@ uyari: "Derleyenin seçtiği alıntılardır; kararın tamamı değildir. Künye
 
 ## Yargıtay 3. HD 2012/20511 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/492181800)
+
 Her ne kadar mahkemece bozma kararına uyulmasına karar verilmiş ise de, bozma kararının gereği yerine getirilmemiştir. Bilirkişi heyetinde, bozma kararı gereğince tiyatro işletmeciliğinden anlayan bir kişinin bilirkişi olarak seçilmesi gerektiği halde, akademisyen bilirkişi olarak görevlendirilmiştir. Diğer yandan, kira tespiti yapılırken, bilirkişilerin boş olarak taşınmazın getireceği kira bedelinden mahkemece uygun hak ve nesafet indirimi yapılması gerekirken, bu usule de uyulmamıştır. Bozma kararına uyulmakla, lehine uyulan taraf yönünden usuli kazanılmış hak doğacağı için, artık mahkemece bozma kararı gereğince, yargılama yapıp karar verilmesi gerekecektir.Öyle ise mahkemece yapılacak iş;
 Kiralananın niteliği gözetilerek tiyatro işletmeciliği alanında uzman olan bilirkişi de bulundurulmak suretiyle mahallinde bilirkişiler kuruluyla yeniden keşif yapılıp, taraf emsalleri de incelenip somut ve bilimsel verilere dayalı denetime açık rapor temin edilerek sonucuna göre yeni dönem kira parası hak ve nesafete uygun şekilde tespit etmek olmalıdır.Bundan ayrı olarak da; davada tespiti istenilen dönem hak ve nesafet dönemi olup, bilirkişinin, taşınmazın boş olarak serbest koşullarda getirebileceğini bildirdiği kira bedelinden hakimce uygun bir hak nesafet indirimi yapılarak kira parasının tespiti gerekirken, bilirkişi tarafından bildirilen miktardan indirim yapılmaksızın fahiş kira takdiri doğru görülmemiştir.Bu itibarla yukarıda açıklanan esaslar gözönünde tutulmaksızın yazılı şekilde hüküm tesisi isabetsiz, temyiz itirazları bu nedenlerle yerinde olduğundan kabulü ile hükmün HUMK.nun 428.
 
 ## Yargıtay 3. HD 2012/19518 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/528539300)
 
 Dava; kiracı tarafından açılan kira tespit davasıdır.Kural olarak tüm kiracılar, tüm kiralayan gibi aylık kira parası tesbitini dava yoluyla talep edebilirler. Zira 18.11.1964 gün ve 2/4 sayılı İçtihadı Birleştirme Kararının gerekçesinin 3 numaralı bendinde kiracı tarafından da gelecek dönem için kira parasının tesbiti davasının açılabileceği, bu hakkın kiralayana ait olmadığı belirtilmiştir. Kaldı ki karşılıklı borç doğuran bir sözleşme olarak kira sözleşmesinde de aylık kira parasının tespiti işleminde taraflar hakkında aynı hukuksal kuralların uygulanması bu sözleşmenin taşıdığı nitelik ve Anayasa'nın kabul ettiği eşitlik esaslarının da bir gereğidir.
 Somut olayda dosyadaki bilgi ve belgelerden; davaya konu mecuru davacının davalı belediyeden 2886 sayılı devlet ihale kanunu hükümlerine göre 01.08.2006 tarihinde 1.203,00 TL karşılığı üç yıllığına kiraladığı, üç yılın sonunda sözleşmenin sona erdirilmeyerek uzatıldığı ve kira sözleşmesinde kiranın her yıl bu ÜFE oranında artırılacağının kararlaştırıldığı, davalı belediyenin yeni dönem için davacıdan 1.600,00 TL kira bedeli talep ettiği, davacının dava konusu mecur için 01.08.2009 tarihinde 1.554,00 TL kira ödediği, davacının dava tarihi olan 25.05.2010 tarihinden itibaren kiranın 1.215,00 TL olarak tespitini talep ettiği mahkemenin de 1.300,00 TL olarak tespit yaptığı anlaşılmaktadır.
 
 ## Yargıtay 3. HD 2012/19085 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/532299800)
+
 Ancak temyiz incelemesi sırasında yeni dönemin ( 01.04.2011 ) başladığı da göz önünde bulundurularak, mahkemece bir sonraki dönem için ( 2011 ) kira parasının tespitini isteyip istemediği hususunun davacı taraftan sorularak, istemesi halinde bir sonraki dönem için kira parasının tespitine karar verilmesi mümkündür.Öyle ise mahkemece,bu ilke ve esaslar gözetilerek yapılacak yargılama neticesinde, davacının 2011 yılı için kira tespitini istemesi durumunda,bu dönem için tespit yapılması, istememesi durumunda ise davanın reddine karar verilmesi gerekirken, yanılgılı değerlendirme sonucu yazılı şekilde hüküm tesisi bozmayı gerektirmiştir.
 
 ## Yargıtay 6. HD 2012/11462 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1057834800)
 
 Davaya dayanak yapılan ve hükme esas alınan 1.1.2004 başlangıç tarihli ve beş yıl süreli yazılı kira sözleşmesi konusunda taraflar arasında uyuşmazlık bulunmamaktadır. Sözleşmenin özel şartlar 3.maddesinde “müteakip yıllarda kira bedellerine T.C. Maliye Bakanlığınca tespit edilecek oranda zam yapılacağı” kararlaştırılmıştır. Kira bedeli artırımına ilişkin bu düzenleme Dairemizin yerleşik içtihatlarına göre belirli ve muayyen olmadığından kira artırım oranının belirgin olduğu kabul edilemez. Nitekim kira sözleşmesinin beş yıllık olan süresinin bitimi sonucunda davacı tarafından açılan kira tespit davası ile 1.1.2009 dan itibaren geçerli olan kira bedeli tespit edilmiştir. Taraflar arasındaki uyuşmazlık 1.1.2010 tarihinde başlayan yeni dönemde kira miktarının ne kadar olduğu noktasındadır. Sözleşme hükümlerine göre kira bedelinin artırımının belirli ve muayyen olmadığına, davacı tarafından da yeni döneme ilişkin kira tespit davası da açılmadığına göre ortada kira tespit ilamı varmışçasına 2009 yılı kira parasına endeks uygulanmak suretiyle
 
@@ -43,14 +51,20 @@ artırım oranı bulunup 2010 yılı kira parasının belirlenmesi ve bulunan bu
 
 ## Yargıtay 6. HD 2012/9952 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1054383400)
+
 İcra takibinde ve davada dayanılan ve karara esas alınan 28.1.2000 başlangıç tarihi ve bir yıl süreli kira sözleşmesi konusunda uyuşmazlık bulunmamaktadır. Sözleşmede aylık 1.000.000 TL kira parasının onikinci ayın son günü ödeneceği belirtilmiş, sözleşmenin özel şartlar 2. maddesinde de, kira artışının her yıl yasal oranda yapılacağı kararlaştırılmıştır. Kiracılık süreci içinde davacı alacaklı tarafından açılan davada Ankara 4. Sulh Hukuk Mahkemesi, 8.3.2007 gün ve 2004 / 1887 esas 2005 / 443 karar sayılı ile kararı ile önceki dönemde yine mahkeme kararı ile belirlenen 2.918.000 TL kira parasının 28.1.2004 tarihinden itibaren 3.854.169 TL olarak tespitine karar vermiş ve bu hüküm 22.10.2007 tarihinde kesinleşmiştir. Bu aşamadan sonra davacı alacaklı ... İcra Müdürlüğü'nün 2008 / 7483 E sayılı dosyası ile 16.7.2008 tarihinde başlattığı icra takibi ile 28.1.2004- 28.1.2005 yılı kira parası 3.854.169 TL ile işlemiş faizi 3.114.062.96 TL olmak üzere toplam 6.968.231.96 TL'nin tahsilini talep etmiştir.
 Davalı borçlunun takibe yasal süresi içinde itiraz etmesi üzerine açılan işbu davada da mahkeme alınan bilirkişi raporu doğrultusunda kira tespit kararlarının kesinleşmeden icraya konulamayacağını belirterek, itirazın 3.854.169 TL asıl alacak ve 253.741.59 TL işlemiş faizi üzerinden kaldırılmasına karar vermiştir. Bununla birlikte davacı alacaklı yapmış olduğu icra takibi ile kira farklarını değil 28.1.2004- 28.1.2005 yılı kira parasının tamamını istemektedir. Sözleşmede de takip konusu kira parasının onikinci ayın son günü olan 31.12.2004 tarihinde ödeneceği düzenlenmiştir. Bu durumda davacı alacaklının önceki kira parası 2.918.000 TL'yi ödeme tarihi olan 31.12.2004 ile icra takibi tarihi olan 16.7.2008 tarihi arasındaki yasal faizi ile istemesi, kira tespit kararı ile belirlenen miktarın bakiyesi olan 936.169 TL'ye de kira tespit kararının kesinleştiği tarih 22.10.2007 tarihinden itibaren yasal faiz uygulanması gerekir. Buna karşın mahkemenin bilirkişi raporu doğrultusunda tüm alacağa kira tespit kararının kesinleştiği tarihten itibaren faiz uygulayarak itirazın kaldırılmasına karar vermesi isabetsiz olup bozmayı gerektirmiştir.
 
 ## Yargıtay 3. HD 2012/16384 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/534857000)
+
 5219 ve 5236 sayılı yasalar ile HUMK. nun 427.maddesinde öngörülen kesinlik sınırı 01.01.2011 tarihinden itibaren 1.540 TL. ye çıkarılmıştır.Kira parasının tespiti davasının 18.11.1964 gün ve 2/4 sayılı Yargıtay İçtihadı Birleştirme kararında açıklanan nitelikleri itibariyle “davalı temyizi yönünden” olma koşulu ile, tespit edilen kira parasının yıllık miktarı esas alınarak kesinlik sınırının belirlenmesi gerekmektedir.
 
 ## Yargıtay 3. HD 2012/15183 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/542204300)
 
 Kira parasının tespiti davaları yasa boşluğu nedeniyle Yargıtay içtihatları ile doldurulmuştur. Kira parasının tespiti davaları kamu düzeni ile ilgili davalar kapsamındadır (HGK.31.5.2005 gün ve 2006/3-311-324) Ayrıca, Gelir Vergisi Kanununun 70.maddesi ile Katma Değer Vergisi Kanununun 1/1-f, 8/1-h, 10/f maddelerine göre kira geliri elde eden bir kısım kiralayanların Katma Değer Vergisi mükellefi olması ve elde ettikleri kira gelirinin bir
 
@@ -58,11 +72,15 @@ bölümünü Katma Değer Vergisi olarak vergi dairelerine ödemeleri vergi yasa
 
 ## Yargıtay 3. HD 2012/14087 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/534131900)
+
 Dava konusu taşınmaz, atölye olup 10.36 m2 kullanım alanlıdır.Taraflar arasındaki kira ilişkisi, 01.01.1993 başlangıç tarihli kira sözleşmesine dayanmakta olup, kira sözleşmesinin süresi 1 yıldır, tespiti talep edilen dönem 01.01.2010 tarihinden itibaren başlayan dönemdir. Bu nedenle, kira bedelinin tespiti hak ve nesafet esaslarına göre yapılmalıdır.Kira bedelinin tespiti yöntemini belirleyen 18.11.1964 tarihli ve 2/4 sayılı Yargıtay İçtihadı Birleştirme kararında da kira parasının “hak ve nesafete uygun” seviyede takdiri ile “sınırlı artışı” öngörülmektedir. Bu nedenle, kira bedelinin tesbiti bir sınırlamadır ve hakim kira bedelini takdir ederken bunun bir sınırlama olduğunu gözetmelidir.
 Hakim, bu sınırlamayı yaparken, öncelikle tarafların tüm delilleri varsa emsal kira sözleşmelerinin aslı veya onaylı örnekleri dosyaya alınmalı, bilirkişiler ile birlikte kiralanan taşınmaz ve taraf emsalleri tek tek görülüp incelenmeli, böylece elde edilen veriler somutlaştırılarak dava konusu yer ile ayrı ayrı konumu, çevresi, niteliği, kullanım şekli, kira başlangıç tarihi, kira süreleri gibi kira parasına etki eden tüm nitelikleri karşılaştırılmalı, emsal kira bedellerinin niçin uygun emsal olup olmadığı somut gerekçelerle açıklanmalı, dava konusu taşınmazın yeniden kiraya verilmesi halinde getirebileceği kira bedeli belirlenmeli, hakim tarafından bu kira bedeli dikkate alınarak hak ve nesafete; özellikle tarafların kira sözleşmesinden bekledikleri amaçlarına uygun makul bir kira bedelinin tespitine karar verilmelidir.Hükme esas alınan bilirkişi raporunda; re'sen emsal araştırması yapılmadığı anlaşılmaktadır.
 Davacı yanın emsal göstermediği, davalı yanın gösterdiği emsallerin de sözleşmedeki kira bedelinin inandırıcı olmadığı, yerin başka bir sokakta bulunduğu gibi gerekçelerle emsal olarak kabul edilmediği anlaşılmıştır.Mahkemece; yukarıda anılan ilke ve esaslar gözetilerek, hak ve nesafete göre kira bedelinin tespit edilmesi gerekirken, açıklanan yönleri içermeyen bilirkişi raporuna itibar edilerek, eksik inceleme ile hüküm kurulmuş olması yönteme, yasaya, Y.İ.B.K. ve Yerleşik Yargıtay uygulamalarına aykırı olduğundan doğru görülmemiş, bozmayı gerektirmiştir.Bu itibarla yukarıda açıklanan esaslar gözönünde tutulmaksızın yazılı şekilde hüküm tesisi isabetsiz, temyiz itirazları bu nedenlerle yerinde olduğundan kabulü ile hükmün HUMK.nun 428.
 
 ## Yargıtay 3. HD 2012/13578 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/549094500)
 
 Davada tespiti istenilen dönem, kira ilişkisinin başladığı tarih dikkate alındığında, hak ve nesafet dönemi olmakla birlikte, taraflar yenilenen 2007 döneminde yeni bir kira sözleşmesi yaptıkları için, mahkemece bilirkişiden ek rapor alınmak suretiyle, 01.05.2007 tarihli kira sözleşmesinde, tarafların belirledikleri kira bedelinin emsal ve rayice uygun olup olmadığının belirlenmesinden sonra, eğer emsal ve rayice uygun ise, izleyen dönemler
 
@@ -70,14 +88,20 @@ endeks tatbik edilmek suretiyle, kira tespit yapılması, eğer uygun değil ise
 
 ## Yargıtay 3. HD 2012/13717 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/547181400)
+
 5219 ve 5236 sayılı yasalar ile HUMK. nun 427.maddesinde öngörülen kesinlik sınırı 01.01.2012 tarihinden itibaren 1.690 TL. ye çıkarılmıştır.Kira parasının tespiti davasının 18.11.1964 gün ve 2/4 sayılı Yargıtay İçtihadı Birleştirme kararında açıklanan nitelikleri itibariyle “davalı temyizi yönünden” olma koşulu ile, tespit edilen kira parasının yıllık miktarı esas alınarak kesinlik sınırının belirlenmesi gerekmektedir.Hüküm, karar tarihi itibariyle kesin niteliktedir. Kesin olan kararların temyiz istemleri hakkında mahkemece bir karar verilebileceği gibi 01.06.1990 gün 3/4 sayılı İçtihadı Birleştirme Kurulu uyarınca Yargıtay'ca da temyiz isteminin reddine karar verilebilir.Yukarıda açıklanan nedenlerle temyiz isteminin REDDİNE ve peşin alınan temyiz harcının istek halinde temyiz edene iadesine, 29.05.2012 gününde oybirliğiyle karar verildi.
 
 ## Yargıtay 3. HD 2012/12768 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/561143500)
 
 Dava konusu taşınmaz, işyeri olup 510 m² alana sahiptir.Taraflar arasındaki kira ilişkisi 01/05/2007 başlangıç tarihli kira sözleşmesine dayanmakta olup, kira sözleşmesinin süresi 3 yıldır, tespiti talep edilen dönem 01/05/2010 tarihinden itibaren başlayan dönemdir. Bu nedenle de, kira tespiti yapılırken hak ve nesafet esaslarına göre davranılacaktır.18/11/1964 tarih ve 2/4 sayılı Y.İ.B.K.ve yerleşik Yargıtay uygulamalarına göre "Hak ve nesafet" ilkesi uyarınca öncelikle dava konusu taşınmazın yeniden kiraya verilmesi halinde getirebileceği kira parası belirlenmeli, hakim tarafından bu kira parası dikkate alınarak hak ve nesafete uygun makul bir kira bedeline karar verilmelidir.
 Bunun için dava konusu yerin yeniden kiralanması halinde getirebileceği kira parası bilirkişiler tarafından belirlenmeli, dava konusu yerin serbest koşullarda getirebileceği kira parası yöntemince saptandıktan sonra, bu dikkate alınarak hak ve nesafet kurallarına göre hakim tarafından kira bedeli takdir edilmelidir.Somut olayda, bilirkişi incelemesi yaptırılmış, bilirkişi raporunda yeni dönem kira bedelinin endeks uygulanarak belirlenebileceğini, yeni dönem aylık kira bedelinin 8.251 TL olabileceğini belirtmiştir. Mahkeme tarafından hak ve nesafet ilkesi uyarınca kira bedelinin tespit edilmesi gerekirken, anılan bilirkişi raporuna dayanılarak endeks uygulaması sonucu kira bedelinin belirlenmesi usul ve yasaya aykırı olduğundan, doğru görülmemiş, bozmayı gerektirmiştir.
 
 ## Yargıtay 3. HD 2012/12546 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/555969000)
 
 Temyiz isteminin süresi içinde olduğu anlaşıldıktan sonra dosyadaki bütün kağıtlar okunup gereği düşünüldü.Davada, 01.07.2010 tarihinde başlayan döneme ilişkin kira parasının tespiti istenilmiş; mahkemece hak ve nesafet uygulamasına göre aylık 13.600 TL kira parasına hükmedilmiştir.Ancak, hükme esas alınan bilirkişi raporunda, tesbite dayanak
 
@@ -86,9 +110,13 @@ yerleşik Yargıtay uygulamalarına aykırı olup bozma nedenidir.Ayrıca; vekal
 
 ## Yargıtay 3. HD 2012/11985 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/542189300)
+
 Bu durumda davacının talep ettiği 01.10.2009 dönemi için kira tespiti yapılamayacaktır. Dava dilekçesi tebliğ tarihine nazaran davacının 01.10.2010 dönemi dahi kira tespiti dava şartı gerçekleşmiş kabul edilemez. Ancak, yargılama aşamasında yeni dönemin(01.10.2011) başladığı da göz önünde bulundurularak, davacının istemesi durumunda bu dönem için (01.10.2011 tarihinden itibaren başlayan dönem) kira tespiti yapılabilecektir.
 
 ## Yargıtay 3. HD 2012/12003 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/542349700)
 
 Temyiz isteminin süresi içinde olduğu anlaşıldıktan sonra dosyadaki bütün kağıtlar okunup gereği düşünüldü.Davada, 01.01.2010 tarihinde başlayan dönem kira parasının tespiti istenilmiş, mahkemece istem tarihi itibariyle yeni dönem kira parasının "hak ve nasafete göre" tespiti cihetine gidilmiştir.Taraflar arasındaki ilk kira sözleşmesi eski tarihli olup sözleşme 6570 sayılı yasanın 11.maddesi gereğince uzayagelmiştir.Yine, aynı yere ilişkin 01.01.2009 başlangıç tarihli ve 1 yıl süreli ikinci kira sözleşmesi yapıldığı tarafların beyanlarından ve dosya içerisindeki bilgi ve belgelerden anlaşılmaktadır.
 Tarafların davaya dayanak yaptıkları aynı yere ilişkin kira sözleşmelerinin ayrı şartları içerip içermediği, dolayısı ile 01.01.2009 tarihli sözleşmenin önceki sözleşmenin devamı mahiyetinde olup olmadığı, buna göre de taraflar arasında, serbest iradeyle dönemin rayicine, hak ve nesafete uygun olarak ayrı bir sözleşme yapılıp yapılmadığı araştırılmadan ve de karar yerinde tartışılmadan eksik inceleme ile hüküm kurulması doğru görülmemiştir.O halde mahkemece yapılacak iş; yukarıda açıklandığı üzere inceleme ve araştırma yapılarak, taraf delilleri toplanmak suretiyle bilirkişi aracılığı ile 01.01.2009 tarihli sözleşmenin serbest irade ile yapılmış önceki sözleşmeden ayrı şartları içeren, rayiç ve emsale uygun, hak ve nesafeti
@@ -97,15 +125,21 @@ yansıtan yeni bir sözleşme olup olmadığını araştırmak ve devamı olduğ
 
 ## Yargıtay 3. HD 2012/9909 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/567413000)
+
 Kira parasının tespiti için mahkemece bilirkişi incelemesi yapılması yerinde ise de, dayanılan bilirkişi raporu hüküm kurmaya yeterli değildir.
 Bilirkişiler soyut ve genel ifadelerle hak ve nesafet kuralları çerçevesinde aylık kira parasını 5.000 TL olarak belirlemiş, boş olarak yeniden kiraya verilmesi halinde getirebileceği aylık kira bedeli belirtilmemiştir.18.11.1964 gün ve 2/4 sayılı Y.İ.B.K. ve Yerleşik Yargıtay Uygulamalarına göre “hak ve nesafet” ilkesi uyarınca, hakim bu sınırlamayı yaparken, öncelikle tarafların tüm delilleri, varsa emsal kira sözleşmeleri aslı veya onaylı örnekleri dosyaya alınmalı, bilirkişi marifetiyle (mülk, inşaatçı, hukukçu) kiralanan taşınmaz ve taraf emsalleri tek tek görülüp incelenmeli, re’sen de emsal araştırılmalı, böylece elde edilen veriler somutlaştırılarak dava konusu yer ile ayrı ayrı kira parasına etki eden tüm nitelikleri karşılaştırılmalı, emsal kira bedellerinin niçin uygun emsal olup olmadığı somut gerekçelerle açıklanmalı, dava konusu taşınmazın yeniden boş olarak kiraya verilmesi halinde getirebileceği kira parası belirlenmeli, hakimce bu kira parası dikkate alınmak suretiyle hak ve nesafete göre makul bir kira parasına hükmedilmelidir.Bu itibarla yukarıda açıklanan esaslar gözönünde tutulmaksızın yazılı şekilde hüküm tesisi isabetsiz, temyiz itirazları bu nedenlerle
 yerinde olduğundan kabulü ile hükmün HUMK.nun 428.
 
 ## Yargıtay 3. HD 2012/9713 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/563190200)
+
 "İçtihat Metni"Davacılar ... ve ark. ile davalı ...İhtiyaç Maddeleri Tic.Ve Paz.A.ş. aralarındaki kira tespiti davasına dair ... 6.Sulh Hukuk Mahkemesinden verilen 20.06.2011 günlü ve 2011/112 E.-2011/1464 K.sayılı hükmün onanması hakkında dairece verilen 25.01.2012 günlü ve 2011/19350 E.-2012/1734 K.sayılı ilama karşı davacılar vekili tarafından kararın düzeltilmesi istenilmiştir.Düzeltme isteğinin süresi içinde olduğu anlaşıldıktan sonra dosyadaki bütün kağıtlar okunup gereği düşünüldü:…
 
 ## Yargıtay 3. HD 2012/7912 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/597375900)
 
 Davada tespiti istenilen 01.01.2011 dönemi " hak ve nesafet " dönemi olup, taşınmazın serbest şartlarda ve boş olarak kiralanması halinde getirebileceği kira bedeli 18.11.1964 gün ve 2/4 sayılı Y.İ.B.K'na göre kira parasının hak ve nesafete göre belirlenmesi gerekir.Bu durumda, 18.11.1964 gün ve 2/4 sayılı Y.İ.B.K. ve yerleşik Yargıtay uygulamalarına göre “hak ve nesafet” ilkesi uyarınca kira parasının tespit edilmesi için, öncelikle tarafların tüm delilleri varsa emsal kira sözleşmeleri aslı veya onaylı örnekleri dosyaya alınmalı, bilirkişi marifetiyle kiralanan taşınmaz ve taraf emsalleri tek tek görülüp incelenmeli, böylece elde
 
@@ -113,10 +147,14 @@ edilen veriler somutlaştırılarak, dava konusu yer ile ayrı ayrı (konumu, ç
 
 ## Yargıtay 3. HD 2012/6731 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/593369800)
+
 18.11.1964 gün ve 2/4 sayılı Y.İ.B.K. ve yerleşik Yargıtay uygulamalarına göre “hak ve nesafet” ilkesi uyarınca hakim bu sınırlamayı yaparken, öncelikle tarafların tüm delilleri varsa emsal kira sözleşmeleri aslı veya onaylı örnekleri dosyaya alınmalı, bilirkişi marifetiyle kiralanan taşınmaz ve taraf emsalleri tek tek görülüp incelenmeli, böylece elde edilen veriler somutlaştırılarak, dava konusu yer ile ayrı ayrı (konumu, çevresi, niteliği, kullanım şekli, kira başlangıç tarihi, kira süreleri vb.) kira parasına etki eden tüm nitelikleri karşılaştırılmalı, emsal kira bedellerinin niçin uygun emsal olup olmadığı somut gerekçelerle açıklanmalı, dava konusu taşınmazın yeniden kiraya verilmesi halinde getirebileceği kira parası belirlenmeli, hakimce bu kira parası dikkate alınmak suretiyle hak ve nesafete; özellikle tarafların kira sözleşmesinden bekledikleri amaçlarına uygun makul bir kira parasına hükmedilmelidir.Davacı taraf dilekçesinde , 1.11.2007 tarihinden itibaren kira tespiti talep etmiş, yargılama sırasında ise bu olmadığı takdirde 1.11.2009 tarihinden itibaren tespit talebinde bulunmuştur.Ancak,davacı taraf davalı tarafa gönderdiği 8.5.2007 tarihli ihtarname ile kira artış
 talebinde bulunmuştur. İhtar mevcut olduğuna göre, davacının dilekçesinde talep ettiği 1.11.2007 dönemi için kira tespiti yapılabilecektir.Kaldı ki davacı taraf da,asıl talebinin 1.11.2007 tarihi olduğunu gerek duruşmada,gerekse de temyiz dilekçesinde ifade etmiştir.Öyle ise mahkemece, bu ilkeler ışığında 1.11.2007 tarihinden itibaren hak ve nesafet esaslarına göre kira tespiti yapılması gerekirken, yanılgılı değerlendirme sonucu 1.11.2009 tarihinden itibaren tespit yapılması bozmayı gerektirmiştir.
 
 ## Yargıtay 3. HD 2012/6714 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/591798000)
 
 Temyiz isteminin süresi içinde olduğu anlaşıldıktan sonra dosyadaki bütün kağıtlar okunup gereği düşünüldü.Davada, 2004, 2005 ve 2006 yıllarına ilişkin kira bedellerinin tespiti ve tahsiline karar verilmesi talep ve dava edilmiştir.Mahkemece, davanın kısmen kabulü ile sadece 2005 yılı için kira tespitine karar verilmiştir.Somut olayda, kira tespiti talep edilen dönemler 2004, 2005 ve 2006 yılları olup, dava tarihi 8.9.2010'dur.Yargıtay 3.Hukuk Dairesinin yerleşik içtihatlarına göre, tespiti talep edilen kira dönemi geçtikten sonra, artık o döneme ilişkin olarak kira tespitinin istenilmesi mümkün değildir.Öyle ise mahkemece, talep edilen tüm dönemler için davanın reddine karar verilmesi gerekirken, yanılgılı değerlendirme sonucu yazılı şekilde hüküm tesisi bozmayı gerektirmiştir.Bu itibarla
 
@@ -124,14 +162,20 @@ yukarıda açıklanan esaslar gözönünde tutulmaksızın yazılı şekilde hü
 
 ## Yargıtay 13. HD 2012/5944 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/751084300)
+
 Davanın kiracılık sıfatının tespiti davası olduğu anlaşılmaktadır. Karar tarihinde yürürlükte bulunan Avukatlık Asgari Ücret Tarifesinin 9. maddesi, kira tespiti davalarında tespit olunan kira bedeli farkının bir yıllık tutarı üzerinden Tarifenin üçüncü kısmı gereğince hesaplanacak miktarın tamamı, vekalet ücreti olarak hükmolunur ve Bu miktarlar, Tarifenin ikinci kısmının ikinci bölümünde davanın görüldüğü mahkemeye göre belirlenmiş bulunan ücretten az olamaz hükmünü ihtiva etmektedir. Bu noktada Yerel mahkemece davacının payına düşen kira bedelinin bir yıllık tutarı üzerinden nispi vekalet ücreti taktir edilmesi gerekirken ; taşınmazın 39 aylık kira bedelinin tamamı üzerinden nispi vekalet ücreti takdir edilemesi yasal görülmeyip bozma nedenidir.
 
 ## Yargıtay 3. HD 2012/4408 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/614478400)
 
 Somut olayda taraflar arasındaki ilk kira ilişkisi 15.05.2000 tarihli kira sözleşmesine dayanmakta olup, davada tespiti istenilen dönem 15.05.2009 tarihinden itibaren başlayan dönemdir. Bu nedenle kira tespiti hak ve nesafet esaslarına göre yapılmıştır. Mecurun 15.05.2008-14.05.2009 tarihleri arasındaki son dönem kirası 1.650,00 TL olup; davacı ödenen 1/2 hisse karşılığı ise 850,00 TL'dir. Kira parasının tespiti yöntemini belirleyen 18.11.1964 tarih ve 2/4 sayılı Yargıtay İçtihadı Birleştirme Kararında kira parasının “hak ve nesafete uygun” seviyede takdiri ile “sınırlı artışı” öngörülmektedir.
 Bu nedenle kira parasının tespiti bir sınırlamadır ve hakim, kira parasını takdir ederken bunun bir sınırlama olduğunu gözetmelidir.18.11.1964 gün ve 2/4 sayılı Y.İ.B.K. ve yerleşik Yargıtay uygulamalarına göre “hak ve nesafet” ilkesi uyarınca hakim bu sınırlamayı yaparken, öncelikle tarafların tüm delilleri, varsa emsal kira sözleşmeleri aslı veya onaylı örnekleri dosyaya alınmalı, bilirkişi marifetiyle kiralanan taşınmaz ve taraf emsalleri tek tek görülüp incelenmeli, böylece elde edilen veriler somutlaştırılarak, dava konusu yer ile ayrı ayrı (konumu, çevresi, niteliği, kullanım şekli, kira başlangıç tarihi, kira süreleri vb.) kira parasına etki eden tüm nitelikleri karşılaştırılmalı, emsal kira bedellerinin niçin uygun emsal olup olmadığı somut gerekçelerle açıklanmalı, dava konusu taşınmazın yeniden kiraya verilmesi halinde getirebileceği kira parası belirlenmeli, hakimce bu kira parası dikkate alınmak suretiyle hak ve nesafete; özellikle tarafların kira sözleşmesinden bekledikleri amaçlarına uygun makul bir kira parasına hükmedilmelidir.
 
 ## Yargıtay 3. HD 2012/3921 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/618314000)
 
 Bu durumda, 18.11.1964 gün ve 2/4 sayılı Y.İ.B.K. ve yerleşik Yargıtay uygulamalarına göre “hak ve nesafet” ilkesi uyarınca kira parasının tespit edilmesi için, öncelikle tarafların tüm delilleri varsa emsal kira sözleşmeleri aslı veya onaylı örnekleri dosyaya alınmalı, bilirkişi marifetiyle kiralanan taşınmaz ve taraf emsalleri tek tek görülüp incelenmeli, böylece elde edilen veriler somutlaştırılarak, dava konusu yer ile ayrı ayrı (konumu, çevresi, niteliği, kullanım şekli, kira başlangıç tarihi, kira süreleri vb.) kira parasına etki eden tüm nitelikleri karşılaştırılmalı, emsal kira bedellerinin niçin uygun emsal olup olmadığı somut
 
@@ -139,27 +183,39 @@ gerekçelerle açıklanmalı, dava konusu taşınmazın yeniden kiraya verilmesi
 
 ## Yargıtay 3. HD 2012/3206 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/604378800)
+
 O halde, davanın HUMK.nun 8.maddesi uyarınca açılmış yeni dönem kira parasının tespitine ilişkin bir dava olarak değerlendirilerek işin esası hakkında karar verilmesi gerekirken, mahkemece görevsizlik kararı verilmiş olması doğru görülmemiştir. Bu itibarla yukarıda açıklanan esaslar gözönünde tutulmaksızın yazılı şekilde hüküm tesisi isabetsiz, temyiz itirazları bu nedenlerle yerinde olduğundan kabulü ile hükmün HUMK.nun 428.
 
 ## Yargıtay 3. HD 2012/3289 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/604936500)
+
 5219 ve 5236 sayılı yasalar ile HUMK. nun 427.maddesinde öngörülen kesinlik sınırı 01.01.2011 tarihinden itibaren 1.540 TL. ye çıkarılmıştır.Kira parasının tespiti davasının 18.11.1964 gün ve 2/4 sayılı Yargıtay İçtihadı Birleştirme kararında açıklanan nitelikleri itibariyle “davalı temyizi yönünden” olma koşulu ile, tespit edilen kira parasının yıllık miktarı esas alınarak kesinlik sınırının belirlenmesi gerekmektedir.Hüküm, karar tarihi itibariyle kesin niteliktedir. Kesin olan kararların temyiz istemleri hakkında mahkemece bir karar verilebileceği gibi 01.06.1990 gün 3/4 sayılı İçtihadı Birleştirme Kurulu uyarınca Yargıtay'ca da temyiz isteminin reddine karar verilebilir.Yukarıda açıklanan nedenlerle temyiz isteminin REDDİNE, peşin alınan temyiz harcının istek halinde temyiz edene iadesine, 13/02/2012 tarihinde oybirliğiyle karar verildi.
 
 ## Yargıtay 3. HD 2012/2939 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/602198000)
 
 Bundan ayrı olarak, kira tespit kararlarının asıl görevi sadece kira sözleşmesinin ücret unsurunu belirlemekten ibarettir. Buna göre kira tespit davasına ilişkin ilamda hem tespit, hemde tespit edilen kira parasının tahsili talep edilemez. Çünkü tespit edilen kira alacağının talep edilebilmesi için ifa zamanının gelmiş olması gerekir. İfa zamanı için alacağın muaccel olması başka bir deyişle alacaklının edayı takip ve bu sebeple borçluyu dava edebileceği zamanın gelmiş olmasına bağlıdır. 1979/1 E. 1979/3 K. 12.11.1979 gün ve 5/5 sayılı İçtihadı Birleştirme Kararında açıklandığı üzere tespit edilen kira farkının mahkemede dava edilebilir veya icrada takip edilebilir hale gelmesi için miktarının kesin olarak belli olması gerekir. Bu belirlilik ise ancak tespite ilişkin kararın kesinleşmesi ile oluşabilir. Mahkeme kararı ile tespit edilen kira farkı alacağının ifa zamanının gelmiş sayılması için o kararın kesinleşmiş olması gerekir.
 Bu nedenle kira parasının tespitine ilişkin kararın kesinleşmesinden sonra ancak kira parasının tahsili talep edilebileceğinden, mahkemece yukarıdaki hususlar dikkate alınmaksızın ve davada yalnızca kira parasının tespiti istenildiği halde talep dışına çıkılmak suretiyle" tahsile de hükmedilmesi doğru görülmemiştir.Bu itibarla yukarıda açıklanan esaslar gözönünde tutulmaksızın yazılı şekilde hüküm tesisi isabetsiz, temyiz itirazları bu nedenlerle yerinde olduğundan kabulü ile hükmün HUMK.nun 428.
 
 ## Yargıtay 6. HD 2012/1769 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/571853100)
+
 Davalının icra inkar tazminatına ilişkin temyizine gelince; İcra İflas Kanunun 67. maddesi hükmü uyarınca icra takibinde haksız ve kötü niyetli olan alacaklının diğer tarafın talebi üzerine icra inkar tazminatına mahkum edilmesi gerekmektedir. Anılan madde uyarınca davanın reddi halinde davalı borçlu yararına icra inkar tazminatına hükmedilmesi için takibin haksız ve kötü niyetli olması koşullarının birlikte bulunması gerekir. Dava red edildiğine göre takibin haksız olduğu belirlenmiştir. Kötüniyet şartının oluşabilmesi için alacaklının takibin haksız olduğunu bildiği veya bilebilecek durumda olması gerekir. Taraflar arasındaki kira tespit davasına göre 04.11.2008 tarihinden itibaren kira bedelinin aylık 2200 TL olarak tespit edildiği ve bu kararın taraflarca temyiz edilmeyerek kesinleşmiş bulunmasına göre davacının yeni dönem kira Bedelinin 2200 TL olacağını bilmesi gerekir.
 Olayımızda bu iki koşulun oluştuğu ve icra takibine konu alacak kira tespit kararına göre belirli ve sabit olduğu gibi alacaklı tarafından bilinmesi ve tayin edilmesi mümkün olup yargılama sonucu takibin haksız bulunduğundan cevap dilekçesinde inkar tazminatı isteyen davalı yararına İİK.'nun 67/2. maddesi uyarınca red edilen miktar üzerinden %40 oranında aşağı olmamak üzere inkar tazminatına hükmedilmesi gerekirken yazılı şekilde karar verilmesi doğru değildir.
 
 ## Yargıtay 3. HD 2012/1925 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/620360400)
+
 Yargıtay'ın yerleşmiş uygulamalarına göre; yalnızca kira parasının tespiti gerekir. Gelir vergisi stopajı dahil veya hariç tespit mümkün değildir. Bu durum karşısında tarafların vergi yükümlülükleri ile ilgili hüküm kurulmayıp yalnızca kira parasının tesbiti gerekirken ve HUMK'nun 74.maddesine aykırı olarak talep aşılmak suretiyle "bürüt 5.400 TL" kira parasına hükmedilmesi doğru görülmemiştir.Bu itibarla yukarıda açıklanan esaslar göz önünde tutulmaksızın yazılı şekilde hüküm tesisi isabetsiz, temyiz itirazları bu nedenlerle yerinde olduğundan kabulü ile hükmün HUMK.nun 428.
 
 ## Yargıtay 3. HD 2012/1714 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/621233200)
 
 Temyiz isteminin süresi içinde olduğu anlaşıldıktan sonra dosyadaki bütün kağıtlar okunup gereği düşünüldü.Davada, 1.1.2010 tarihinde başlayan döneme ilişkin kira parasının tespiti istenilmiş; mahkemece aylık 240.20 TL. kira parasına hükmedilmiştir.Taraflar arasındaki ilk kira ilişkisi 1.1.1993 tarihinde başlamış olup, davada tespiti istenilen dönem 1.1.2010 tarihinden itibaren başlayan döneme ilişkindir. O halde kira tespiti hak ve nesafet esaslarına göre yapılacaktır.Anayasa Mahkemesinin 6570 sayılı yasanın 2 ve 3.maddelerinin iptaline ilişkin 26.3.1963 tarih ve 3/67 sayılı kararı ile, 6570 sayılı yasanın kira parasındaki “sınırlı artış” ilkesini ortadan kaldırılmamıştır. Bununla birlikte kira parasının tespiti yöntemini belirleyen 18.11.1964 tarih ve 2/4 sayılı Yargıtay İçtihadı Birleştirme Kararında da kira parasının “hak ve nesafete uygun” seviyede takdiri ile “sınırlı artışı” öngörülmektedir.
 O nedenle kira parasının tespiti bir sınırlamadır ve hakim kira parasını takdir ederken bunun bir sınırlama olduğunu gözetmelidir.18.11.1964 gün ve 2/4 sayılı Y.İ.B.K. ve yerleşik Yargıtay uygulamalarına göre “hak ve nesafet” ilkesi uyarınca hakim bu sınırlamayı yaparken, öncelikle tarafların tüm delilleri varsa emsal kira sözleşmeleri aslı veya onaylı

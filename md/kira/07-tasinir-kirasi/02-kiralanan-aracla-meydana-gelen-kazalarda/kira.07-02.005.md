@@ -22,9 +22,13 @@ uyari: "Derleyenin seçtiği alıntılardır; kararın tamamı değildir. Künye
 
 ## Adana BAM 9. HD 2023/1241 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/977569100)
+
 Görüldüğü üzere, davalı sigortalının işleten sıfatını taşımaması, onun kiracısıyla arasındaki iç ilişkiye ait bir sorundur ve sigortacının trafik sigortasına dayalı olarak tazminatın kaldırılmasını veya azaltılmasını sağlayabileceği oranda başvurabileceği kimse, aracın gerçek işleteni kim olursa olsun, sadece sigorta sözleşmesinin tarafı olan sigorta ettiren olduğundan davalı, sigorta poliçesinin ve sigorta genel şartlarının kendisine yüklediği sorumlulukları yerine getirmekle yükümlüdür. Bu nedenle davalı yanın, aracın işleteni olmadığı, bu sebeple bir sorumluluğu bulunmadığı ve davacının ödememesi gereken bir borcu ödediğine yönelik istinaf sebepleri yerinde görülmemiştir. (Yargıtay 17. Hukuk Dairesi'nin 18/02/2019 tarih ve 2016/6811 esas, 2019/1637 karar sayılı ilamı, Yargıtay 17. Hukuk Dairesi'nin 12/05/2014 tarih ve 2013/8389 esas, 2014/7471 karar sayılı ilamları da bu yöndedir.)…
 
 ## Kayseri BAM 3. HD 2023/2139 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/971771200)
 
 2918 sayılı KTK'nın hükümlerine göre, trafik kaydı “işleteni” kesin olarak gösteren bir karine değilse de, onun kim olduğunu belirleyen güçlü bir kanıt niteliğindedir. Ancak trafik
 
@@ -34,10 +38,14 @@ Gerek doktrinde, gerekse Yargıtay'ın uygulamalarında, kiracının işleten s�
 
 ## İzmir BAM 11. HD 2023/1792 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/967492000)
+
 Trafik kaydı "işletenin" kesin olarak gösteren bir karine değilse de, onun kim olduğunu belirleyen güçlü bir kanıt niteliğindedir. Lakin, trafik kaydına rağmen işletenliğin üçüncü kişi üzerinde bulunmasını engelleyen bir yasa hükmü yoktur. İşleten; araç sahibi olan veya mülkiyeti muhafaza kaydıyla satışta alacı sıfatıyla sicilde kayıtlı görülen veya aracın uzun süreli kiralama, ariyet veya rehin gibi hallerde kiracı, ariyet veya rehin alan kişidir. Ancak, ilgili tarafından başka bir kişinin aracı kendi hesabına ve tehlikesi kendisine ait olmak üzere işlettiği ve araç üzerinde fiili tasarrufu bulunduğu ispat edilirse, bu kimse işleten sayılır. Bunun sonucu olarak da, araç maliki sorumlu tutulmamalıdır. Kiracının işleten sıfatının belirlenmesinde, kira sözleşmesinin uzun süreli olması, araç üzerinde fiili hakimiyet ve ekonomik yararlanma unsurlarının birlikte bulunması gerekmektedir.
 Somut olayda, tescil kayıtlarına göre kazaya karışan sayılı araç davalılar murisi adına tescilli olup her zaman düzenlenmesi mümkün olan adi yazılı kira sözleşmesine konu kira ilişkisin varlığını kanılayacak nitelikte ticari defter ve kayıtları ile Maliye ve Vergi daireleri tarafından düzenlenmiş her hangi bir bilge belge sunulmamış olması karşısında, davalı mirasçıların işletenlik sıfatının devam ettiğinin kabulü isabetlidir.
 
 ## Ankara BAM 35. HD 2023/1580 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/975723300)
 
 2918 Sayılı Karayolları Trafik Kanunu'nun 3. maddesinde işleten: "Araç sahibi olan veya mülkiyeti muhafaza kaydıyla satışta alıcı sıfatıyla sicilde kayıtlı görülen veya aracın uzun
 
@@ -45,10 +53,14 @@ süreli kiralama, ariyet veya rehni gibi hallerde kiracı, ariyet veya rehin ala
 
 ## İstanbul BAM 9. HD 2023/2113 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/974527600)
+
 Aynı kanunun 85. maddesinde ise, "Bir motorlu aracın işletilmesi bir kimsenin ölümüne veya yaralanmasına yahut bir şeyin zarara uğramasına sebep olursa, motorlu aracın bir teşebbüsün unvanı veya işletme adı altında veya bu teşebbüs tarafından kesilen bilet ile işletilmesi halinde, motorlu aracın işleteni ve bağlı olduğu teşebbüsün sahibi, doğan zarardan müştereken ve müteselsilen sorumlu olurlar." hükmüne yer verilmiştir. Bu yasal düzenleme karşısında, kazaya karışan araçların meydana getirdikleri zararlardan araç sahiplerinin hukuken sorumlu olacağı ilkesi benimsenmiş ise de, araç malikleri tarafından herhangi bir sebeple yararlanılması için bir başka kimseye devir edilmesi halinde (kısa bir süre için kiralanmaması kaydıyla) artık üzerindeki fiili hakimiyeti kalmaması ve bu sebeple ekonomik yönden de bir yararlanma olanağının kalktığı durumlarda, o araca kaza sırasında fiili hakimiyeti altında bulunduran ve ondan iktisaden yararlanan kimsenin işleten sıfatıyla meydana gelen zarardan sorumlu tutulması gerekir. Bunun sonucu olarak da, araç maliki sorumlu tutulmamalıdır.
 Gerek doktrinde, gerekse Yargıtay'ın uygulamalarında, kiracının işleten sıfatının belirlenmesinde, kira sözleşmesinin uzun süreli olması, araç üzerinde fiili hakimiyet ve ekonomik yararlanma unsurlarının birlikte bulunması gerekmektedir. Somut uyuşmazlıkta; dosyada bulunan 09/04/2014 sözleşmeye göre davalı şirkete ... plakalı aracın kiralandığı ve teslim edildiği anlaşılmaktadır. Bu durumda kayıt maliki olan dava dışı şirket aracını uzun süreli kiraya verdikten sonra sözleşme süresi içerisinde tazminata konu trafik kazası gerçekleştiğine göre uzun süreli olarak aracı kiralayan (kiracı) davalı şirketin bu aracın işleteni olarak mahkemece sorumlu tutularak karar verilmesinde isabetsizlik bulunmamaktadır. Karayolları Trafik Kanunu'nda manevi tazminat konusunda özel bir düzenleme yapılmadığından trafik kazası nedeniyle oluşan cismani zarar nedeniyle manevi tazminat talep edilmesi halinde TBK'da manevi tazminata ilişkin hükümler uygulanacaktır.
 
 ## İstanbul BAM 40. HD 2023/1520 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/988385000)
 
 HMK'nin 355. maddesi kapsamında istinaf itirazları ve kamu düzenine ilişkin hususlarla sınırlı olarak yapılan inceleme sonunda: 2918 sayılı KTK'nin hükümlerine göre, trafik kaydı "İşleteni" kesin olarak gösteren bir karine değilse de, onun kim olduğunu belirleyen güçlü bir kanıt niteliğindedir. Ancak, trafik kaydına rağmen işletenliğin 3. kişi üzerinde bulunmasını engelleyen bir yasa hükmü yoktur. Aynı yasanın 3. maddesinde, "İşleten: Araç sahibi olan veya mülkiyeti muhafaza kaydıyla satışta alıcı sıfatıyla sicilde kayıtlı görülen veya aracın uzun süreli kiralama, ariyet veya rehin gibi hallerde kiracı, ariyet veya rehin alan kişidir. Ancak, ilgili tarafından başka bir kişinin aracı kendi hesabına ve tehlikesi kendisine ait olmak üzere işlettiği ve araç üzerinde fiili tasarrufu bulunduğu ispat edilirse, bu kimse işleten sayılır." şeklinde tanımlanmıştır. Aynı Kanunun 85. maddesinde ise, "Bir motorlu aracın işletilmesi bir kimsenin ölümüne veya yaralanmasına yahut bir şeyin zarara uğramasına sebep olursa, motorlu aracın bir teşebbüsün unvanı veya işletme adı altında veya bu teşebbüs tarafından kesilen bilet ile işletilmesi halinde, motorlu aracın işleteni ve bağlı
 
@@ -56,10 +68,14 @@ olduğu teşebbüsün sahibi, doğan zarardan müştereken ve müteselsilen soru
 
 ## İstanbul BAM 8. HD 2023/1724 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/960586500)
+
 Aynı yasanın 3. maddesinde, "İşleten: Araç sahibi olan veya mülkiyeti muhafaza kaydıyla satışta alıcı sıfatıyla sicilde kayıtlı görülen veya uzun süreli kiralama, ariyet veya rehin gibi hallerde kiracı, ariyet veya rehin alan kişidir. Ancak, ilgili tarafından başka bir kişinin aracı kendi hesabına ve tehlikesi kendisine ait olmak üzere işlettiği ve araç üzerinde fiili tasarrufu bulunduğu ispat edilirse, bu kimse işleten sayılır." şeklinde tanımlanmıştır. Aynı kanunun 85. maddesinde ise, "Bir motorlu aracın işletilmesi bir kimsenin ölümüne veya yaralanmasına yahut bir şeyin zarara uğramasına sebep olursa, motorlu aracın bir teşebbüsün ünvanı veya işletme adı altında veya bu teşebbüs tarafından kesilen bilet ile işletilmesi halinde, motorlu aracın işleteni ve bağlı olduğu teşebbüsün sahibi, doğan zarardan müştereken ve müteselsilen sorumlu olurlar." hükmüne yer verilmiştir.
 Bu yasal düzenleme karşısında, kazaya karışan araçların meydana getirdikleri zararlardan araç sahiplerinin hukuken sorumlu olacağı ilkesi benimsenmiş ise de, araç malikleri tarafından herhangi bir sebeple yararlanılması için bir başka kimseye devredilmesi halinde (kısa bir süre için kiralanmaması kaydıyla) artık üzerindeki fiili hakimiyeti kalmaması ve bu sebeple ekonomik yönden de bir yararlanma olanağının kalktığı durumlarda, o aracı kaza sırasında fiili hakimiyeti altında bulunduran ve ondan iktisaden yararlanan kimsenin işleten sıfatıyla meydana gelen zarardan sorumlu tutulması gerekir. Bunun sonucu olarak da, araç maliki sorumlu tutulmamalıdır. Gerek doktrinde, gerekse Yargıtay'ın uygulamalarında, kiracının işleten sıfatının belirlenmesinde, kira sözleşmesinin uzun süreli olması, araç üzerinde fiili hakimiyet ve ekonomik yararlanma unsurlarının birlikte bulunması gerekmektedir. Somut olayda, kazaya karışan ... plaka sayılı aracın davalı şirket tarafından ihbar olunan ... Tic. Ltd.
 
 ## İstanbul BAM 8. HD 2023/1725 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/962255600)
 
 2918 sayılı Karayolları Trafik Kanununun 3. maddesinde aracı uzun süreli kira, ariyet ve rehin ilişkisine dayanarak kiracı, ariyet ve rehin alan sıfatıyla işleten kişiler gerçek işleten sayılmıştır. “Kiracının işleten sıfatının belirlenmesinde, kira sözleşmesinin uzun süreli olması, araç üzerinde fiili hakimiyet ve ekonomik yararlanma unsurlarının birlikte bulunması gerekmektedir”. Kısa süreli kiracılık, rehin veya ariyet almak kişiyi işleten haline getirmez. Bu takdirde işleten sıfatı kira veya ariyet verende kalır. Somut olayda, davalı ...
 
@@ -69,29 +85,41 @@ hükmedilmesine yer olmadığına ( Bkz. Yargıtay 17.HD'nin 2014/21009 Esas, 20
 
 ## İstanbul BAM 43. HD 2023/1114 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/971514800)
+
 Ülkelerine getirilme giderleri ve onlar adına ödenmesi gereken sosyal sigorta katılma payları da içinde olmak üzere, gemi adamlarına, gemide çalıştırılmakta olmaları dolayısıyla ödenecek ücretlere ve diğer tutarlara ilişkin istem hakları(TTK m. 1320/1-a) da gemi alacağıdır. Bu gemi alacaklarının alacaklısı, gemi adamlarıdır. Gemi alacaklısı hakkı veren alacakların borçlusu, gemi alacağının doğduğu anda borçlusu gemi maliki, kiracısı, yöneticisi veya işleteni olması halinde, bu alacakların alacaklısı gemi alacaklısı hakkına sahip olur. Gemi alacaklısı hakkı gemiyi takip eder. Gemi alacağının verdiği kanuni rehin hakkı, gemiye zilyet olan herkese karşı ileri sürülebilir. Gemi maliki, gemi alacaklısı hakkı veren alacağın borçlusu olmasa da gemi alacaklısı hakkının kullanılmasını engelleyemez. Bu durumda öncelikle alacağı temlik sözleşmesinin gemi alacağı hakkını da kapsayıp kapsamadığının belirlenmesi gerekir.Gemi adamlarına, gemide çalıştırılmakta olmaları dolayısıyla ödenecek ücretlere ve diğer tutarlara ilişkin istem haklarına ilişkin alacakların alacaklısı, gemi adamlarıdır.
 Bu halde silsile içinde ya gemi adamlarından alacağın temlik alınması ya da bir halefiyetin söz konusu olması gerekir. Davacı taraf cevaba cevap dilekçesinde, ... Ltd.'nin bahse konu gemilerin hem kiracısı hem de işleteni olduğu, temlik eden ... ile ... arasındaki ticari ilişkinin ise ...’in kiracısı olduğu gemilere yük bağlama işlemlerine ilişkin olduğu, gemilerin borçlarından dolayı seferden men edilmemesi amacıyla ... tarafından verilen talimatlar çerçevesinde; yettiği kadarıyla gemi navlunları, artan kısım için ise temlik eden ...nin kendi hesabından ödediği bedeller çerçevesinde gemi borçlarının kapatıldığı, bu şekilde gelen navlun bedelleri gemi borçlarına yetmeyince temlik eden ... tarafından birtakım ödemeler yapıldığı, ticari hayatın aksamaması için iki şirket arasındaki duruma ilişkin borçların artması üzerine bahse konu borcun tasfiyesi için 14.04.2016 tarihinde Borcun Yeniden Yapılandırılması Sözleşmesinin akdedildiği şeklinde beyan etmiştir.
 
 ## İstanbul BAM 40. HD 2023/1333 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1043636800)
 
 Maddesinde işleten: "Araç sahibi olan veya mülkiyeti muhafaza kaydıyla satışta alıcı sıfatıyla sicilde kayıtlı görülen veya aracın uzun süreli kiralama, ariyet veya rehin gibi hallerde kiracı, ariyet veya rehin alan kişidir. Ancak, ilgili tarafından başka bir kişinin aracı kendi hesabına ve tehlikesi kendisine ait olmak üzere işlettiği ve araç üzerinde fiili tasarrufu bulunduğu ispat edilirse, bu kimse işleten sayılır." şeklinde tanımlanmıştır. Aynı Kanun'un 85/1. maddesine göre; "Bir motorlu aracın işletilmesi bir kimsenin ölümüne veya yaralanmasına yahut bir şeyin zarara uğramasına sebep olursa, motorlu aracın bir teşebbüsün unvanı veya işletme adı altında veya bu teşebbüs tarafından kesilen biletle işletilmesi halinde, motorlu aracın işleteni ve bağlı olduğu teşebbüsün sahibi, doğan zarardan müştereken ve müteselsilen sorumlu olurlar." Maddenin son fıkrasına göre ise; "işleten ve araç işleticisi teşebbüsün sahibi, aracın sürücüsünün veya aracın kullanılmasına katılan yardımcı kişilerin kusurundan kendi kusuru gibi sorumludur." İşletenin bu sorumluluğu bir tehlike sorumluluğudur.
 2918 sayılı KTK'nın 3. maddesinde işleten sıfatının belirlenmesinde şekli ve maddi ölçüt olmak üzere iki ayrı ölçüden yararlanılmıştır. Şekli ölçüye göre trafik sicilinde malik görülen kişi işletendir. Maddi ölçüye göre ise trafik sicilinde adı geçen kişinin önemi bulunmamakta olup önemli olan araç üzerindeki fiili hakimiyet, araçtan ekonomik yarar sağlama, masraf ve rizikolara katlanma gibi ölçütlerdir. İşletenin belirlenmesinde doktrin ve Yargıtay'ın kabul ettiği görüş maddi ölçüdür (Yargıtay 17. Hukuk Dairesinin 28/02/2019 tarih, 2016/6712 E. ve 2019/2237 K. sayılı kararı). Somut olayda, davalı ... Pazarlama ve T.LTD.ŞTİ'nin maliki olduğu davalı ...'nın idaresindeki aracın işleten sıfatının ... San. Tic.Ltd.Şti.'ye devrettiği, bu devralan şirketin ve ...
 
 ## İzmir BAM 11. HD 2023/1417 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/946222500)
+
 Trafik kaydı "işletenin" kesin olarak gösteren bir karine değilse de, onun kim olduğunu belirleyen güçlü bir kanıt niteliğindedir. Lakin, trafik kaydına rağmen işletenliğin 3. kişi üzerinde bulunmasını engelleyen bir yasa hükmü yoktur. İşleten; araç sahibi olan veya mülkiyeti muhafaza kaydıyla satışta alacı sıfatıyla sicilde kayıtlı görülen veya aracın uzun süreli kiralama, ariyet veya rehin gibi hallerde kiracı, ariyet veya rehin alan kişidir. Ancak, ilgili tarafından başka bir kişinin aracı kendi hesabına ve tehlikesi kendisine ait olmak üzere işlettiği ve araç üzerinde fiili tasarrufu bulunduğu ispat edilirse, bu kimse işleten sayılır. Bunun sonucu olarak da, araç maliki sorumlu tutulmamalıdır. Kiracının işleten sıfatının belirlenmesinde, kira sözleşmesinin uzun süreli olması, araç üzerinde fiili hakimiyet ve ekonomik yararlanma unsurlarının birlikte bulunması gerekmektedir.
 Somut olayda, tescil kayıtlarına göre kazaya karışan sayılı araç davalı adına tescilli olup her zaman düzenlenmesi mümkün ve kısa süreli ( 2 ay 7 gün ) olan adi yazılı kira sözleşmesine dair ticari defter ve kayıtlarında her hangi bir bilgi yer almadığı, Maliye ve Vergi dairelerine de davalı tarafından bildirimde bulunulmadığının anlaşılması karşısında, davalının işletenlik sıfatının devam ettiğinin kabulü isabetlidir. Bunun ötesinde, kısa süreli kiracılık, rehin veya ariyet almak da kişiyi işleten haline getirmez. Bu takdirde işleten sıfatı kira veya ariyet verende kalır.
 
 ## Sakarya BAM 3. HD 2023/1215 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/935712100)
+
 Sonuca göre de, davalı uzun dönem kiralayan/farazi işleten şirket, davacı sigorta şirketi ile dava dışı gerçek işleten/malik arasında düzenlenen sigorta sözleşmesinin tarafı olmadığından, poliçenin düzenlendiği tarihte yürürlükte olan Karayolları Zorunlu mali Sorumluluk Sigortası Genel Şartları B-4 maddesi kapsamında, sigortacının kendisine rücu edebileceği kişiler kapsamında değildir. Anılan nedenlerle ilk derece mahkemesince asıl ve birleşen davaların pasif taraf sıfatı yokluğundan (husumet) reddine karar verilmesinde hukuka aykırılık bulunmadığından olduğundan davacı vekilinin istinaf sebepleri yerinde görülmemiştir.
 
 ## İstanbul BAM 9. HD 2023/1558 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/946740200)
 
 Aynı kanunun 85. maddesinde ise, "Bir motorlu aracın işletilmesi bir kimsenin ölümüne veya yaralanmasına yahut bir şeyin zarara uğramasına sebep olursa, motorlu aracın bir teşebbüsün unvanı veya işletme adı altında veya bu teşebbüs tarafından kesilen bilet ile işletilmesi halinde, motorlu aracın işleteni ve bağlı olduğu teşebbüsün sahibi, doğan zarardan müştereken ve müteselsilen sorumlu olurlar." hükmüne yer verilmiştir.Bu yasal düzenleme karşısında, kazaya karışan araçların meydana getirdikleri zararlardan araç sahiplerinin hukuken sorumlu olacağı ilkesi benimsenmiş ise de, araç malikleri tarafından herhangi bir sebeple yararlanılması için bir başka kimseye devir edilmesi halinde (kısa bir süre için kiralanmaması kaydıyla) artık üzerindeki fiili hakimiyeti kalmaması ve bu sebeple ekonomik yönden de bir yararlanma olanağının kalktığı durumlarda, o araca kaza sırasında fiili hakimiyeti altında bulunduran ve ondan iktisaden yararlanan kimsenin işleten sıfatıyla meydana gelen zarardan sorumlu tutulması gerekir. Bunun sonucu olarak da, araç maliki sorumlu tutulmamalıdır.
 Gerek doktrinde, gerekse Yargıtay'ın uygulamalarında, kiracının işleten sıfatının belirlenmesinde, kira sözleşmesinin uzun süreli olması, araç üzerinde fiili hakimiyet ve ekonomik yararlanma unsurlarının birlikte bulunması gerekmektedir.Somut uyuşmazlıkta; dosyada bulunan 14/11/2016 tarihli sözleşmeye göre davalı şirkete ait ... plakalı aracın ihbar olunan şirkete 36 ay süre ile kiralandığı ve teslim edildiği anlaşılmaktadır. Bu durumda kayıt maliki olan davalı şirket aracını uzun süreli kiraya verdikten sonra sözleşme süresi içerisinde tazminata konu trafik kazası gerçekleştiğine göre uzun süreli olarak aracı kiralayan (kiracı), bu aracın işleteni olup davalı işleten olmayacağından İlk Derece Mahkemesince yazılı şekilde davanın davalı ... A.Ş. yönünden pasif husumet yokluğu nedeniyle reddine karar verilmesinde isabetsizlik bulunmamaktadır.
 
 ## Kayseri BAM 3. HD 2023/1445 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/930014200)
 
 2918 sayılı KTK'nın “Tanımlar” başlıklı 3. maddesinde “İşleten:Araç sahibi olan veya mülkiyeti muhafaza kaydıyla satışta alıcı sıfatıyla sicilde kayıtlı görülen veya aracın uzun süreli kiralama, ariyet veya rehni gibi hallerde kiracı, ariyet veya rehin alan kişidir. Ancak ilgili tarafından başka bir kişinin aracı kendi hesabına ve tehlikesi kendisine ait olmak üzere işlettiği ve araç üzerinde fiili tasarrufta bulunduğu ispat edilirse bu kimse işleten sayılır.” hükmü düzenlenmiştir. Bu tanım gereğince araç maliki, kendisine ait aracı uzun süreli olarak başka birisine kiraladığı takdirde, aracı kiralayan kişi işleten sayılacak ve işletenin kusursuz sorumluluğunu üzerine alacaktır. Taraflar arasında uzun süreli kira sözleşmesi yapılmış olduğunun ispatı, yalnızca taraflar arasında her zaman düzenlenmesi mümkün olan araç kiralama sözleşmesi ile olmayıp, bu sözleşmenin yapıldığını tasdik edecek şekilde
 
@@ -99,14 +127,20 @@ aracın kiracıya teslim edildiğini ve onun fiili tasarrufunda olduğunu ispata
 
 ## İzmir BAM 17. HD 2023/1457 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/931146400)
+
 Talep eden tarafından ihtiyati haciz talep edilirken karşı taraf olarak ... gemisi malik, donatan, kiracı ve işletene İzafeten Acentesi ... A.Ş. Gösterilmiş olup, mahkemece ihtiyati haciz kararında karşı tarafın... Şirketi olarak yazıldığı, ancak mahkemece ihtiyati hacze itirazın reddine ilişkin kararda bu hatanın düzeltildiği anlaşılmakla, maddi hatadan kaynaklanan bu husus ile ilgili karşı tarafın istinaf talebi yerinde bulunmamıştır.
 
 ## İstanbul BAM 8. HD 2023/1313 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/916579200)
 
 2918 sayılı KTK hükümlerine göre, trafik kaydı "işleteni" kesin olarak gösteren bir karine değilse de, onun kim olduğunu belirleyen güçlü bir kanıt niteliğindedir. Ancak, trafik kaydına rağmen işletenliğin 3. kişi üzerinde bulunmasını engelleyen bir yasa hükmü yoktur. Aynı yasanın 3. maddesinde, "İşleten: Araç sahibi olan veya mülkiyeti muhafaza kaydıyla satışta alıcı sıfatıyla sicilde kayıtlı görülen veya aracın uzun süreli kiralama, ariyet veya rehin gibi hallerde kiracı, ariyet veya rehin alan kişidir. Ancak, ilgili tarafından başka bir kişinin aracı kendi hesabına ve tehlikesi kendisine ait olmak üzere işlettiği ve araç üzerinde fiili tasarrufu bulunduğu ispat edilirse, bu kimse işleten sayılır." şeklinde tanımlanmıştır. Aynı kanunun 85. maddesinde ise, "Bir motorlu aracın işletilmesi bir kimsenin ölümüne veya yaralanmasına yahut bir şeyin zarara uğramasına sebep olursa, motorlu aracın bir teşebbüsün ünvanı veya işletme adı altında veya bu teşebbüs tarafından kesilen bilet ile işletilmesi halinde, motorlu aracın işleteni ve bağlı olduğu teşebbüsün sahibi, doğan zarardan müştereken ve müteselsilen sorumlu olurlar." hükmüne yer verilmiştir.
 Bu yasal düzenleme karşısında, kazaya karışan araçların meydana getirdikleri zararlardan araç sahiplerinin hukuken sorumlu olacağı ilkesi benimsenmiş ise de, araç malikleri tarafından herhangi bir sebeple yararlanılması için bir başka kimseye devir edilmesi halinde (kısa bir süre için kiralanmaması kaydıyla) artık üzerindeki fiili hakimiyeti kalmaması ve bu sebeple ekonomik yönden de bir yararlanma olanağının kalktığı durumlarda, o araca kaza sırasında fiili hakimiyeti altında bulunduran ve ondan iktisaden yararlanan kimsenin işleten sıfatıyla meydana gelen zarardan sorumlu tutulması gerekir. Bunun sonucu olarak da, araç maliki sorumlu tutulmamalıdır. Gerek doktrinde, gerekse Yargıtay'ın uygulamalarında, kiracının işleten sıfatının belirlenmesinde, kira sözleşmesinin uzun süreli olması, araç üzerinde fiili hâkimiyet ve ekonomik yararlanma unsurlarının birlikte bulunması gerekmektedir. Somut olayda, davalı ... İnş. Ltd.
 
 ## İstanbul BAM 8. HD 2023/1111 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/911711300)
 
 Aynı yasanın 3. maddesinde, “İşleten: Araç sahibi olan veya mülkiyeti muhafaza kaydıyla satışta alıcı sıfatıyla sicilde kayıtlı görülen veya aracın uzun süreli kiralama, ariyet veya rehin gibi hallerde kiracı, ariyet veya rehin alan kişidir. Ancak, ilgili tarafından başka bir
 
@@ -115,6 +149,8 @@ Bu yasal düzenleme karşısında, kazaya karışan araçların meydana getirdik
 
 ## İstanbul BAM 9. HD 2023/1244 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/916122600)
+
 Aynı kanunun 85. maddesinde ise, "Bir motorlu aracın işletilmesi bir kimsenin ölümüne veya yaralanmasına yahut bir şeyin zarara uğramasına sebep olursa, motorlu aracın bir teşebbüsün ünvanı veya işletme adı altında veya bu teşebbüs tarafından kesilen bilet ile işletilmesi halinde, motorlu aracın işleteni ve bağlı olduğu teşebbüsün sahibi, doğan zarardan müştereken ve müteselsilen sorumlu olurlar." hükmüne yer verilmiştir. Bu yasal düzenleme karşısında, kazaya karışan araçların meydana getirdikleri zararlardan araç sahiplerinin hukuken sorumlu olacağı ilkesi benimsenmiş ise de, araç malikleri tarafından herhangi bir sebeple yararlanılması için bir başka kimseye devir edilmesi halinde (kısa bir süre için kiralanmaması kaydıyla) artık üzerindeki fiili hakimiyeti kalmaması ve bu sebeple ekonomik yönden de bir yararlanma olanağının kalktığı durumlarda, o araca kaza sırasında fiili hakimiyeti altında bulunduran ve ondan iktisaden yararlanan kimsenin işleten sıfatıyla meydana gelen zarardan sorumlu tutulması gerekir. Bunun sonucu olarak da, araç maliki sorumlu tutulmamalıdır.
 Gerek doktrinde, gerekse Yargıtay'ın uygulamalarında, kiracının işleten sıfatının belirlenmesinde, kira sözleşmesinin uzun süreli olması, araç üzerinde fiili hakimiyet ve ekonomik yararlanma unsurlarının birlikte bulunması gerekmektedir (Yargıtay 17. Hukuk Dairesinin 03/11/2020 tarih, 2019/5294 E. ve 2020/6439 K. sayılı kararı). Somut uyuşmazlıkta, mahkemece aldırılan bilirkişi raporundaki tespitlere göre davalı işleten İnter Turizm ile dava dışı Mobilizm Aş arasında 48 aylık kira sözleşmesinin bulunduğu saptanmıştır. Bu durumda kayıt maliki olan davalı şirket, aracı uzun süreli kiraya verdikten sonra sözleşme süresi içerisinde tazminata konu trafik kazası gerçekleştiğine göre uzun süreli olarak aracı kiralayan (kiracı), bu aracın işleteni olup davalı işleten olmayacağından İlk Derece Mahkemesince yazılı şekilde davasının pasif husumet yokluğu nedeniyle reddine karar verilmesinde isabetsizlik bulunmamaktadır. Yargıtay 17. Hukuk Dairesinin emsal
 
@@ -122,23 +158,33 @@ nitelikteki 07/07/2014 tarih, 2013/10570 E. ve 2014/10824 K. sayılı kararında
 
 ## İstanbul BAM 9. HD 2023/1238 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/917688700)
+
 Bu yasal düzenleme karşısında, kazaya karışan araçların meydana getirdikleri zararlardan araç sahiplerinin hukuken sorumlu olacağı ilkesi benimsenmiş ise de, araç malikleri tarafından herhangi bir sebeple yararlanılması için bir başka kimseye devir edilmesi halinde (kısa bir süre için kiralanmaması kaydıyla) artık üzerindeki fiili hakimiyeti kalmaması ve bu sebeple ekonomik yönden de bir yararlanma olanağının kalktığı durumlarda, o araca kaza sırasında fiili hakimiyeti altında bulunduran ve ondan iktisaden yararlanan kimsenin işleten sıfatıyla meydana gelen zarardan sorumlu tutulması gerekir. Bunun sonucu olarak da, araç maliki sorumlu tutulmamalıdır. Gerek doktrinde, gerekse Yargıtay'ın uygulamalarında, kiracının işleten sıfatının belirlenmesinde, kira sözleşmesinin uzun süreli olması, araç üzerinde fiili hakimiyet ve ekonomik yararlanma unsurlarının birlikte bulunması gerekmektedir. Somut uyuşmazlıkta; dosyada bulunan 02/08/2017 tarihli düzenleme şeklinde finansal kiralama sözleşmesine göre ... iş makinasının diğer davalı ...'ye 50 ay süre ile kiralandığı ve teslim edildiği anlaşılmaktadır.
 Bu durumda kayıt maliki olan davalı şirket, aracı noter sözleşmesiyle uzun süreli kiraya verdikten sonra sözleşme süresi içerisinde tazminata konu trafik kazası gerçekleştiğine göre uzun süreli olarak aracı kiralayan (kiracı), bu aracın işleteni olup davalı işleten olmayacağından İlk Derece Mahkemesince yazılı şekilde davasının pasif husumet yokluğu nedeniyle reddine karar verilmesinde isabetsizlik bulunmamaktadır. Yargıtay 17. Hukuk Dairesinin emsal nitelikteki 07/07/2014 tarih, 2013/10570 E. ve 2014/10824 K. sayılı kararında açıklandığı üzere davalı ... hakkında işleten olduğu inancıyla dava açıldığından 3.kişilerin davalı ... ile ...arasında imzalanan sözleşmeden haberdar olmaları bu durumda beklenemeyeceğinden hakkında dava açılmasına sebebiyet veren davalı ...lehine hiç vekalet ücretine hükmedilmemesi gerekirken yazılı olduğu gibi vekalet ücretine karar verilmesi doğru olmamıştır.
 
 ## Konya BAM 3. HD 2023/1201 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/902582800)
+
 2918 sayılı KTK'nin 3.maddesi gereği; İşleten: Araç sahibi olan veya mülkiyeti muhafaza kaydıyla satışta alıcı sıfatıyla sicilde kayıtlı görülen veya aracın uzun süreli kiralama, ariyet veya rehni gibi hallerde kiracı, ariyet veya rehin alan kişidir. Ancak ilgili tarafından başka bir kişinin aracı kendi hesabına ve tehlikesi kendisine ait olmak üzere işlettiği ve araç üzerinde fiili tasarrufu bulunduğu ispat edilirse, bu kimse işleten sayılır.
 
 ## Antalya BAM 11. HD 2023/1093 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/900695500)
+
 Mahkeme istinafa konu kararında özetle; davalı sigortalı ile sürücü arasındaki araç kiralama sözleşmesinin uzun süreli olduğu, kaza tarihi itibarıyla araç üzerinde fiili hakimiyet ve ekonomik yararlanmaya bağlı işleten sıfatının dava dışı sürücü .... de olduğu, davacı sigorta şirketinin ZMMS kapsamındaki bu talebini ancak adı geçen işletene karşı ileri sürebileceği, davalı ... nin işleten sıfatının bulunmadığı gerekçesi ile davanın pasif husumet yokluğundan reddine karar vermiştir.
 
 ## İstanbul BAM 8. HD 2023/800 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/903405200)
 
 2918 Sayılı KTK.’nun 91. maddesinde, işletenlerin bu kanunun 85/1 maddesine göre sorumluluklarının karşılanmasını sağlamak üzere mali sorumluluk sigortası yaptırmalarının zorunlu olduğu düzenlenmiştir. ...şirketinin KTK.’nun 3. maddesinde tanımlanan işleten sıfatını taşımadığı, aracın işleticisinin kiracı olduğu açıktır.
 Ancak, KTK’nun 95. maddesinde, sigorta sözleşmesinden veya sigorta sözleşmesine ilişkin kanun hükümlerinden doğan ve tazminat yükümlülüğünün kaldırılması veya miktarının azaltılması sonucunu doğuran hallerin zarar görene karşı ileri sürülemeyeceği, ödemede bulunan sigortacının, sigorta sözleşmesine ve bu sözleşmeye ilişkin kanun hükümlerine göre, tazminatın kaldırılmasını veya azaltılmasını sağlayabileceği oranda sigorta ettirene başvurabileceği öngörülmektedir.Görüldüğü üzere, davalı ...şirketinin işleten sıfatını taşımaması, onun kiracısıyla arasındaki iç ilişkiye ait bir sorundur ve sigortacının trafik sigortasına dayalı olarak tazminatın kaldırılmasını veya azaltılmasını sağlayabileceği oranda başvurabileceği kimse, aracın gerçek işleteni kim olursa olsun, sadece sigorta sözleşmesinin tarafı olan sigorta ettiren olduğundan davalı ...şirketi sigorta poliçesinin ve sigorta genel şartlarının kendisine yüklediği sorumlulukları yerine getirmekle yükümlüdür.Davacı sigorta şirketi, sigortalı aracın dava dışı hak sahiplerine, sigortalı araç sürücüsünün sürücü belgesiz olarak kullanımı sırasında zarar verdiği iddiası ile eldeki davayı açmıştır.
 Zorunlu Mali Sorumluluk Sigortası Genel Şartları’nın B.4.c maddesi uyarınca, tazminatı gerektiren olay, aracın KTK hükümlerine göre gereken ehliyetnameye sahip olmayan kimseler tarafından sevkedilmesi sonucunda meydana geldiği takdirde sigortacının sigorta ettirene rücu imkanı bulunmaktadır. (Bkz. Yargıtay 17.HD'nin 16/05/2019 gün 2016/8353 E. 2019/6270 K. sayılı, 06.11.2018 gün 2015/19183 E. 2018/10172 K. sayılı, 01/10/2018 gün 2015/15750 E. 2018/8382 K. sayılı, 12.05.2014 gün 2013/8389 E.
 
 ## İzmir BAM 4. HD 2023/909 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/883207800)
 
 2918 sayılı KTK'nun 3. Maddesinde işleten; araç sahibi olan veya mülkiyeti muhafaza kaydıyla satışta alıcı sıfatıyla sicilde kayıtlı görülen veya aracın uzun süreli kiralama, ariyet veya rehni gibi hallerde kiracı, ariyet veya rehin alan kişidir. Ancak ilgili tarafından başka bir kişinin aracı kendi hesabına ve tehlikesi kendisine ait olmak üzere işlettiği ve araç üzerinde fiili tasarrufu bulunduğu ispat edilirse, bu kimse işleten sayılır.

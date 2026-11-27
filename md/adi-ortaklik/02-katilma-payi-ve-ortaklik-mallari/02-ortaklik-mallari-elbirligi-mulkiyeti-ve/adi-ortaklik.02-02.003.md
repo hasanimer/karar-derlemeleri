@@ -22,6 +22,8 @@ uyari: "Derleyenin seçtiği alıntılardır; kararın tamamı değildir. Künye
 
 ## İstanbul BAM 3. HD 2024/2711 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1073428500)
+
 12/f.1'de ifadesini bulan ve sözleşme özgürlüğü ilkesinin bir görünümü olan şekil serbestisi prensibi karşısında, adi ortaklık sözleşmesinin herhangi bir şekle bağlı olmaksızın, sözlü olarak da kurulabileceği; hatta bazen söze dahi gerek kalmadan zımni irade beyanıyla veya iradeyi ortaya koyan davranışlarla da oluşturulabileceği ifade edilmelidir,. Bununla birlikte, bazı istisnai hallerde ortaklık sözleşmesinin geçerliliği belirli bir şekle uyularak yapılmasına bağlı bulunabilir. Bunlardan ilki tarafların, sözleşmenin belirli bir şekilde yapılmasını şart kılmış olmaları haline (iradi şekil) ilişkindir. Bu halde ortaklık sözleşmesi kararlaştırılan şekilde yapılmadığı takdirde TBK m. 17/f.1 gereği geçersiz olur. Ortaklık sözleşmesinin belirli bir şekle uygun olarak yapılması zorunluluğuna ilişkin bir diğer husus, ortaklık sözleşmesinde geçerliliği kanunen şekle tabi bir taahhüt yer alıyorsa, ortaklık sözleşmesi de o şekle uyularak yapılmasına ilişkindir. Ezcümle, ortaklardan birinin katılma payı olarak ortaklık ilişkisine maliki bulunduğu bir taşınmazın mülkiyetini getirmeyi taahhüt etmesi halinde, mülkiyeti nakil borcu doğuran sözleşmeleri resmi şekle tâbi tutan TMK m.
 706/f.1 hükmü uyarınca, ortaklık sözleşmesi de zorunlu olarak resmi şekilde yapılmak zorundadır.Dosya kapsamında; taraflar arasındaki ilişkide ortaklardan herhangi birinin katılma payı olarak ortaklık ilişkisine maliki bulunduğu bir taşınmazın mülkiyetini getirmeyi taahhüt etmesi gibi bir durumun söz konusu olmadığı anlaşılmaktadır. Bu yönü ile taraflar arasında yazılı bir sözleşme ilişkisinin bulunmaması adi ortaklık ilişkisinin bulunmadığı yönünde bir ihtimali de gündeme getirmeyecektir. Tüm bu açıklamalardan sonuçla heyetimizce taraflar arasında TBK m. 620 hükmü uyarınca bir adi ortaklık ilişkisinin mevcut olduğu sonuç ve kanaatine ulaşılmıştır. Şayet Mahkemece sayılan bu unsurlardan herhangi birinin sağlanmadığı kanaatinde olunması halinde taraflar arasında adi ortaklık ilişkisinin bulunmadığı ifade edilebilecektir. Bir kez daha ifade edelim ki nihai takdir ve kanaat tamamen ve münhasıran Mahkemeye aittir.
 
@@ -29,6 +31,8 @@ Adi ortaklığın sona ermesi tasfiyesine ilişkin açıklamalarımız bir alt b
 Limited Şirket Pay Devri Sözleşmesi ile dava dışı ... şirketinin % 67 hissesinin dava dışı ...'e devredildiği, T.C. Bakırköy .... Noterliği 20.06.2017 tarihli ... Limited Şirket Pay Devri Sözleşmesi uyarınca ise dava dışı ... şirketinin kalan % 33 hissesinin dava dışı ...'e devredildiği anlaşılmaktadır. Bu yönü ile gerek davacının gerekse de davalının adi ortaklık ilişkisini bir üçüncü kişiye devretmek suretiyle sona erdirdikleri anlaşılmaktadır. Bu kapsamda taraflar arasındaki ortaklık ilişkisinin TBK m. 639/b.1 uyarınca “ortaklık sözleşmesinde öngörülen amacın gerçekleşmesi veya gerçekleşmesinin imkânsız duruma gelmesi sebebiyle sona erdiği” kanaatine varılmıştır. Hâl böyle olunca taraflar arasındaki ortaklık ilişkisinin TBK m. 642 ve TBK m. 643 uyarınca tasfiye edilmesi gerekir.2. Davacıların Tasfiye Alacağı Talep Edip Edemeyeceği, Talep Edebilecek İse Miktarına İlişkin İnceleme: TBK m.
 
 ## İstanbul BAM 7. HD 2024/2209 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1086641600)
 
 Bunun için de davaya konu temlik işleminin geçerli olup olmadığı, arsa maliki ile yüklenici arasında düzenlenen arsa payı karşılığı inşaat sözleşmesi gereğince yüklenicinin borçlarının neler olduğunun sözleşme hükümleri çerçevesinde incelenip değerlendirilmesi gerekmektedir.Davacı davalı adi ortaklık ile yaptığı taşınmaz satış vaadi sözleşmesi ile ödemelere ilişkin belgeleri dosya içerisine sunmuştur.Davalı .... A.Ş davalı adi ortaklık ile yaptığı düzenleme şeklinde taşınmaz satış vaadi / hasılat paylaşım esaslı arsa payı karşılığı inşaat sözleşmesini dosya içerisine sunmuştur.Mahkemece dava konusu bağımsız bölüme ilişkin tapu kayıtları dosya içerisine getirtilmiştir. İncelenmesinde, bağımsız bölüm için kat mülkiyetine geçildiği, dükkan vasfında olduğu ve .... A.Ş adına tescil edildikleri anlaşılmıştır.Davalı ortaklığın taşınmaz için 1.038.400,00 TL fatura düzenlediği anlaşılmıştır. "YHGK 2014/569 esas ve 2016/181 karar sayılı ilamında; Yazılı şekilde düzenlenmiş olması şartıyla, yüklenici arsa sahibinden olan alacağını 3. Kişiye devredebilir, böyle bir sözleşme alacağın temliki hükmünde olarak hukuken geçerlidir.
 Ancak , alacağın temliki şeklinde gerçekleşen böyle bir sözleşmeye dayalı olarak temlik alanın talepte bulunabilmesi için ,öncelikle yüklenici tarafından kendisine temlik edilen hakkın arsa sahibi nezdinde gerçekleşmesi, eş söyleyişle yüklenicinin kat karşılığı inşaat sözleşmesi ile arsa sahibine karşı üstlendiği edimi yerine getirmesi , inşaatı bitirmesi veya eksik kalan kısmın paraya dönüştürülerek tamamlanacak kadar cüzi bir boyutta olması gerekir. Aksi takdirde , temlik alan temlik sözleşmesine dayalı olarak , o sözleşmenin tarafı durumunda bulunmayan arsa sahibinden herhangi bir talepte bulunamaz, sadece ve ancak kendi akidi durumundaki yükleniciden tazminat isteyebilir."Somut olayda; davacının davalı ... Ortaklığı ile yaptığı taşınmaz satış vaadi sözleşmesinin tapuya şerh edilmesi için dava açtığı, davalı arsa maliki... A.Ş ile davalı adi ortaklık arasında Kartal ...
@@ -46,6 +50,8 @@ Adi ortaklık tarafından açılan davanın iştirak halinde mülkiyet hükümle
 
 ## Ankara BAM 24. HD 2024/1128 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1046761200)
+
 Bir ortak tarafından adi ortaklığa dâhil olan taşınmaza ilişkin olarak tapu iptal ve tescil, alacak talebinde bulunması, aynı zamanda ortaklığın feshini ve tasfiyeyi de kapsar. Uyuşmazlık, bu bağlamda değerlendirilip, çözüme kavuşturulmalıdır.
 
 …
@@ -54,6 +60,8 @@ Somut olayda, mahkeme bu ilkelere uymadan fesih ve tasfiye işlemlerinin gerçek
 Davacıların adına tescilini istediği taşınmaz, adi ortaklığa dahil ve bu ortaklığın konusunu teşkil eden taşınmazlardan olduğu için, tasfiyeye tabi tutulması ve yukarıda belirtilen ilkeler gereği yapılan tasfiye neticesinde var ise diğer alacak ve borçlar ile birlikte ortaklığın tarafları arasında paylaştırılması gerekecektir. Bu durumda, mahkemece; açıklanan bu ilkeler esas alınmak suretiyle yapılacak yargılama neticesinde oluşacak sonuca göre karar verilmesi gerekirken, yazılı şekilde hüküm kurulması doğru görülmemiştir. Belirtilen nedenlerle; taraf vekillerinin istinaf başvurularının kabulü ile HMK.'nun 353/1-a,6 maddesi gereğince, mahkeme kararının kaldırılarak davanın yeniden görülmesi için dosyanın kararı veren mahkemeye gönderilmesine” karar verilmiştir.
 
 ## Adana BAM 9. HD 2024/108 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/994530800)
 
 Dava, fatura alacağından kaynaklı itirazın iptali istemine ilişkindir.
 
@@ -65,10 +73,14 @@ TMK’ nun 640/2.maddesine göre “mirasçılar terekeye elbirliği ile sahip o
 
 ## İstanbul BAM 3. HD 2023/2260 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/915310000)
+
 Yapılan istinaf incelemesi sonucunda ;Talep edenlerce, tarafların murisleri arasında adi ortaklık bulunduğu iddia edilmekte,karşı tarafların adına kayıtlı taşınmaz ve taşınırların aktif ve pasif sorguları yapılarak menkul, gayrimenkul ve ortak olduğu şirket ve hisseleri tespit edilmek suretiyle tüm mal varlıklarına ve bankadaki mevduatlarına ihtiyati tedbir konulmasını talep etmiştir. HMK'nun 389. maddesinin 1. fıkrasında “uyuşmazlık konusunda, meydana gelebilecek bir değişme nedeniyle hakkın elde edilmesinin önemli ölçüde zorlaşacağından ya da tamamen imkansız hale geleceğinden veya gecikme sebebiyle büyük sakıncanın yahut ciddi bir zararın doğacağından endişe edilmesi hallerinde uyuşmazlık konusu hakkında ihtiyati tedbir kararı verilebileceği” belirtilmiştir. İhtiyati tedbir talep edilen hususların, karşı tarafın malvarlıkları ve banka hesaplarına ilişkin talebi içerdiği görülmekle,davalıların malvarlıkları ve banka hesaplarının dava konusu olmadığı görülmekle,bu açıdan HMK 389.madde kapsamında ihtiyati tedbir kararı verilemeyeceği açıktır. Bu nedenle mahkemenin kararı usul ve hukuka uygun bulunmuştur.
 Bu itibarla, ilk derece mahkemesince ihtiyati tedbir talebinin reddine dair verilen kararda mahkemenin vakıa ve hukuki değerlendirmesi bakımından usul ve esas yönünden yasaya aykırı bir durum bulunmamasına göre davacının istinaf başvurusunun HMK 353/1-b-1 maddesi uyarınca reddine karar verilmesi gerekmiştir.
 
 ## İstanbul BAM 3. HD 2023/1478 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/891948100)
 
 Dava adi ortaklık kar payı alacağı ile adi ortaklığın fesih ve tasfiyesi talebine ilişkindir.
 
@@ -82,6 +94,8 @@ Tasfiye usulüne veya tasfiye sonucunda her bir ortağa dağıtılacak paya ili�
 
 ## İstanbul BAM 3. HD 2023/1288 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/886814100)
+
 Dava; başlangıçta asıl dava yönünden sözleşmeye dayalı tapu iptal tescil ve muarazanın giderilmesi ve alacak talebine ilişkin, birleşen dosyalarda ise; kısmen uğranılan zararların ve alacakların tahsili ve hasılatın paylaştırılması taleplerine ilişkindir. Mahkemece, yapılan 14/03/2018 tarihli ön inceleme duruşmasında uyuşmazlık taraflar arasındaki sözleşme gereğince muaraza çıkıp çıkmadığı davacının tapu iptal tescili talep şartlarının oluşup oluşmadığı, davalının davacıların onayı olmadan sattığı dairelerin bedelinden borçlu olup olmadığı, borçlu ise ne miktar borçlu olduğu, davacıların davalıdan cezai şart alacağı isteyip istemeyemeyeceği, isteyebilecekse ne miktar isteyebileceği şeklinde tespit edilmiştir. 16/01/2019 tarihli celsede birleşen 2. Asliye Ticaret Mahkemesi 2018/1024 E. Sayılı dosyada; davalının sözleşme hükümlerine aykırı yaptığı satışlar nedeniyle hasılat tutarları ve zararların ve cezai şart tutarlarının tespiti ve tahsili olarak uyuşmazlık tespit edilmiştir. Birleşen 2018/950 E. Sayılı uyuşmazlığın, ise özetle uğranılan zararların tespiti ve tahsili olarak uyuşmazlık tespit edilmiştir.
 05/12/2019 tarihli celsede inşaatın tamamlanarak iskan aşamasına gelindiği davalı vekilinin davanın erken açılmış dava olduğuna ilişkin beyanlarda bulunduğu görülmektedir. 26/03/2021 tarihli celse de ise mahkemece uyuşmazlığın İBAM 15. Hukuk ve Yargıtay HGK ve 3. Hukuk Dairesi kararlarına dayalı olarak dayanılan sözleşmelerin adi ortaklık sözleşmesi olduğu ve uyuşmazlığın bu kapsamda değerlendirilmesi gerektiği tespit edilmiş aynı celsede tasfiye memurlarının atanmasına karar verilmiş ve devam eden celselerde de tasfiye memurlarına satış konusunda yetki verilmiştir.
 
@@ -93,10 +107,14 @@ Bu bağlamda tasfiyenin son aşamasında öncelikle ortaklığın borçları öd
 
 ## İstanbul BAM 53. HD 2023/893 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/953060300)
+
 Şti.'nin davacılar arasında gösterilmediği, adi ortaklık tüzel kişiliği olmayan, iştirak halinde mülkiyet esaslarının geçerli olduğu bir oluşum olduğu ve bu nedenle ortaklar arasında zorunlu dava arkadaşlığı bulunduğu, davacı adi ortaklık şirketlerinin adi ortaklık tarafından imzalanan sözleşme kapsamında dava dışı 3.kişiye ödemede bulunmuş olmalarının kendi iç ilişkileri bakımından önem arz etmekte olup, bu hususun davalıya karşı açılan işbu davalar bakımından adi ortaklık nedeniyle zorunlu dava arkadaşlığı durumunu ortadan kaldırılan bir sebep olmadığı, ortaklığın niteliği gereği diğer ortak ... şirketinin de bu davada davacı sıfatı ile yer olması gerektiğinden öncelikle bu ortağın davaya muvafakatinin alınması, olmadığı takdirde aleyhine dava açılmak suretiyle bu davayla birleştirilerek davada temsilinin sağlanması gerektiği, ayrıca, mahkemece HMK'nın 184-186.maddelerinde düzenlenen tahkikatın sona ermesi ve sözle yargılama usulüne uygun bir şekilde tahkikat sonlandırılması ve sözlü yargılama aşaması gerçekleştirilmeden, davalı vekilince son celse duruşma saati olan 22/10/2018 saat 14:30'dan önce saat 13:30'da UYAP sistemi üzerinden dosyaya sunulan belgelendirilmiş mesleki
 mazeret hakkında olumlu veya olumsuz bir karar verilmemiş olmasının da usul ve yasaya aykırı olduğu, ayrıca, dava ve birleşen davalara sunulan davacılar vekilinin vekaletnamesinde davacılardan ... İnş. San. Ve tic. A.Ş.'ye ilişkin imza sirkülerinin yer almadığı, buna dair eksikliğin de tamamlanması gerektiği gerekçeleriyle, kararın kaldırılmasına karar verilmiştir. Kaldırma kararı sonrasında, diğer adi ortak ... şirketinin de davacı olarak vekaleti ile asıl ve birleşen davalara muvafakati sunulmuş, ... İnşaatın vekalet eksikliği tamamlanmış ve yeniden yapılan yargılama neticesinde, önceki kararla aynı gerekçe doğrultusunda, aynı hüküm kurulmuştur.
 
 ## İstanbul BAM 14. HD 2023/681 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/883533400)
 
 Mutlak muvazaa hâlinde görünürdeki muvazaalı sözleşme, TBK'nın 19. maddesi uyarınca kesin olarak hükümsüzdür. Nispi muvazaada ise taraflar aslında başka bir sözleşme yapmak istemektedir; ancak dış dünyaya karşı başka bir sözleşme yapmış gibi davranırlar. Bu durumda görünürdeki muvazaalı sözleşme kesin olarak hükümsüzdür. Gizlenen sözleşmenin geçerliliği ise yasal şekil şartının mevcudiyetine bağlıdır (Tanım için bknz: Yargıtay HGK'nun 2020/1-633 E- 2022/1579 K sayılı, 24.11.2022 tarihli emsal kararı). Bu hukuki açıklamaya göre somut olaydaki iddiaya baktığımızda, davacılar vekilinin muvazaa iddiası, mutlak muvazaa niteliğindedir. Oysa somut olayda davalı ... ile ...- ... Adi Ortaklığını oluşturan şirketler arasında, kat karşılığı inşaat sözleşmelerinin devri konusunda açık bir irade mevcuttur. Sözleşmeler gerçekten devredilmiştir. Bu devir işlemleri, TBK'nın 205. maddesi anlamında sözleşmenin devri niteliğinde olup, arsa maliklerinin de noterden onayları alınarak devir işlemleri gerçekleştirilmiştir.
 Davalı ...'ın, kat karşılığı inşaat sözleşmelerini devrettiği tarih itibariyle bu projeyi yapacak ekonomik yeterliliğinin bulunmadığının tespit edilmiş olması da dikkate alındığında, davalı ...Şirketi'nin ortağı ve yetkilisinin, davalı ... yetkilisiyle baba- oğul olması ya da ... ortakları arasında husumet ve başka bir davanın bulunması yahut şirket ortağının başka bir davada tazminata mahkum olması muvazaayı ispata yeterli görülmemiştir. Nitekim bu devir işlemlerini takiben ...- ... Adi Ortaklığı tarafından inşaata başlanmış, tamamlanma aşamasına getirilmiş, bağımsız bölüm tapuları oluşturulmuş, kat karşılığı inşaat sözleşmelerindeki edimler büyük oranda yerine getirilmiş, davalı adi ortaklığı oluşturan şirketler adına tapu devirleri gerçekleşmiştir. Bu durumda tarafların devir iradesinin gerçek olduğu anlaşılmakta olup davalılar arasında mutlak muvazaa bulunduğundan söz edilemeyeceği kanaatine varılmıştır. Taraflarca gizlenen başka bir sözleşme söz konusu olmadığından nispi muvazaa da söz konusu değildir. Davalı ... tarafından kat kaşılığı inşaat sözleşmelerinin ...- ... Adi Ortaklığına devri karşılığında ... tarafından devir bedeli alındığı anlaşılmaktadır.
@@ -106,9 +124,13 @@ Bilirkişi heyet raporunda ve Mali Müşavir ... tarafından düzenlenen uzman r
 
 ## Konya BAM 4. HD 2022/3652 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/854676100)
+
 Konya ... Asliye Ticaret Mahkemesince; uyuşmazlığın şirket ortaklığı ilişkisi içinde çözülmesi gerektiğinden bahisle görevsizlik kararı verilmiş ise de; davada tacir olmayan taraflar arasında adi ortaklığın tasfiyesine ve tasfiyeye konu malların tapu iptal tescil ve tahsiline yönelik bir uyuşmazlık söz konusu olduğunu ve TBK 520. Maddesi kapsamında kalan bu uyuşmazlıkta mahkemenin görevli olmayıp, asliye hukuk mahkemesi görevlidir gerekçesiyle karşı görevsizlik kararı vererek, olumsuz görev uyuşmazlığı nedeniyle merci tayini için yargı yerinin belirlenmesi amacıyla dosya dairemize gönderilmiştir.
 
 ## İstanbul BAM 7. HD 2022/2625 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/830724100)
 
 Dava, ihtiyati tedbir talepli düzenleme şeklinde taşınmaz satış vaadi sözleşmesinden kaynaklanan tapu iptali ve tescil, olmadığı taktirde taşınmazın rayiç değerinin tahsili, olmadığı taktirde ödenen bedellerin güncellenerek tahsili istemine ilişkindir.
 
@@ -118,6 +140,8 @@ Dava, ihtiyati tedbir talepli düzenleme şeklinde taşınmaz satış vaadi söz
 Tüm bu nedenlerle somut olayda HMK'nun 389.maddesi gereğince ihtiyati tedbirin şartları oluştuğundan ve sunulan delillerle yaklaşık ispat sağlandığından davacının dava konusu taşınmazın üçüncü kişilere her türlü devir, temlik ve satışı ile ilgili ihtiyati tedbir talebinin kabulüne ve davalı .....AŞ.'nin ihtiyati tedbire itirazının reddine karar verilmesi usul ve yasaya uygun olup yerindedir. Davalının istinaf başvuru sebep ve gerekçeleri uyuşmazlığın esasına ilişkin olup yargılama sonucunda değerlendirilip karara bağlanacak konulara ilişkindir. Ayrıca yerel mahkemece ihtiyati tedbir kararı teminat karşılığı verilmiş olup teminat miktarının belirlenmesine ilişkin İDM'nin değerlendirmesi ve taktirinde de usul ve yasaya aykırılık görülmemiştir. Ancak ihtiyati tedbir kararı verilirken taraflar arasındaki hak ve yarar dengesi dikkat etmek gerekir.
 
 ## İstanbul BAM 3. HD 2022/1612 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/765427200)
 
 6100 sayılı HMK'nun 355 md gereğince, istinaf sebepleri ile sınırlı olarak yapılan incelemeye göre; Dava, adi ortaklık nedeniyle tapu kaydının iptali , adi ortaklar adına elbirliği mülkiyetini tesis ve tescili talebine ilişkindir. Davacı dava konusu taşınmazların adi ortaklık adına tapuda elbirliği mülkiyeti şeklinde kayıtlı olması gerekirken taraflar arasındaki anlaşmaya aykırı olarak sadece davalı tarafa adına tescil edildiğini beyanla dava konusu taşınmazlar üzerine tedbir tesisini talep etmiştir. Mahkemece 32 adet taşınmazın davalı ... A.Ş adına tescil edildiği, davalı şirket tarafından dava konusu ... Pafta ... Ada ... Parsel üzerinde kayıtlı ana taşınmazın ... Bağımsız Bölüm ..., ... Bağımsız Bölüm ... ve ... Bağımsız Bölüm ... numaralı 3 adet taşınmazın ...'a devredildiği ve bir kısım taşınmazlar üzerinde ise ipotek tesis edildiği tespit edilerek " HMK'nun 389 vd.md. uyarınca dava konusu taşınmazlardan davalı ...
 A.Ş adına kayıtlı olanların devir ve ayni hak tesisi konusunda devir ve temliklinin önlenmesi bakımından takdiren teminatsız olarak ihtiyati tedbir konulmasına, davalı ... adına olan üç adet taşınmaz yönünden ise takdiren 500.000,00TL nakdi teminat yada kesin ve süresiz olmak kaydı ile teminat mektubu mukabili karşılığında "DAVALIDIR" şerhi konulmasına" karar verilmiştir. Davalı taraf "ihtiyati tedbir" ve "davalıdır" şerhine ilişkin şartlarının oluşmadığını iddia etmekte ayrıca teminat yönünden itiraz etmektedir. İhtiyati tedbir yönünden; İhtiyati tedbirin şartları 6100 sayılı HMK 389/1. maddesinde genel olarak düzenlenmiştir. Buna göre, mevcut durumda meydana gelebilecek değişme nedeniyle hakkın elde edilmesinin önemli ölçüde zorlaşacağından ya da tamamen imkânsız hale geleceğinden veya gecikme sebebiyle bir sakıncanın yahut ciddi bir zararın doğacağından endişe edilmesi hallerinde, uyuşmazlık konusu hakkında ihtiyati tedbir kararı verilebilir.

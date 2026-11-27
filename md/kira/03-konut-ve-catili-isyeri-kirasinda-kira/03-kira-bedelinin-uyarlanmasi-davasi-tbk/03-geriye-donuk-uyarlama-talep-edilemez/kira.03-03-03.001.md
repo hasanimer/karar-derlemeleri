@@ -25,4 +25,6 @@ uyari: "Derleyenin seçtiği alıntılardır; kararın tamamı değildir. Künye
 
 ## Yargıtay 3. HD 2025/796 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1142266600)
+
 … tarafları bağlayıcı kira sözleşmesi kapsamında sözleşme uyarınca ödenmesi gereken kira bedellerinden davacının sorumlu olduğu, **ödenen kira bedelleri yönünden kesinleşen bir uyarlama kararı bulunmadığından iadesinin talep edilemeyeceği**…

@@ -21,18 +21,26 @@ uyari: "Derleyenin seçtiği alıntılardır; kararın tamamı değildir. Künye
 
 ## Yargıtay HGK 2023/868 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/958993500)
+
 Adi ortaklığın yönetimi, sözleşme veya kararla yalnızca bir veya birden çok ortağa ya da üçüncü bir kişiye bırakılmış olmadıkça, bütün ortaklar ortaklığı yönetme hakkına sahiptir (TBK md. 625/1). Bu suretle ortaklığın yönetimi bir yöneticiye bırakılmış ise, yönetici ile diğer ortaklar arasındaki ilişkiler, Kanunda veya ortaklık sözleşmesinde aksine hüküm bulunmadıkça, vekâlet sözleşmesine ilişkin hükümlere tabidir (TBK md. 630).
 
 ## Yargıtay HGK 2021/1685 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/737086500)
 
 Türk Borçlar Kanunu’nun 625. maddesine göre (BK, m.525) sözleşme veya kararla ortaklığın yönetimi yalnızca bir veya birden çok ortağa ya da üçüncü bir kişiye bırakılmış olmadıkça, bütün ortaklar ortaklığı yönetme hakkına sahiptir. Adi ortaklıkta yönetimde irade serbestisi ilkesi gereği, ortaklar kuruluş aşamasında adi ortaklık sözleşmesine koyacakları hükümle veya adi ortaklık kurulduktan sonra oy birliğiyle alınacak kararla şirketi yönetim yetkisini ortaklardan birine, birkaçına veya ortak olmayan üçüncü kişiye verebilir. Sözleşme veya karar ile yönetim yetkisi ortaklardan birine bırakılmamışsa, ortaklık işlerinin yönetimi bütün ortaklara aittir. Bu durumda ortaklardan her biri diğer ortakların iştiraki olmaksızın muamele yapabilirler. Ancak olağan işlerin üstündeki önemli tarsarrufların yapılması için bütün ortakların oy birliği gerekir. Yönetici ortak yönetim hakkını kanundan, adi ortaklık sözleşmesinden veya ortaklık kararından almaktadır.
 
 ## Yargıtay HGK 2011/724 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/17161000)
+
 Tarafların karşılıklı iddia ve savunmalarına, dosyadaki tutanak ve kanıtlara, bozma kararında açıklanan gerektirici nedenlere ve özellikle taraflar arasında sözleşme ile adi ortaklık oluşturulduğu hususunun ihtilafsız ve davalının bu ortaklıkta yönetici ortak konumunda olup, hak edişlerin ödenmesi ve hesap işlerinin yürütülmesi konusunda yetkili olduğunun mahkeme ve özel dairenin kabulünde olmasına; adi ortaklığın tasfiyesinin, bütün hesapların görülüp, ortaklığın aktif ve pasif bütün malvarlığının belirlenip, ortakların birbirleri ile alacak verecek ve ortaklıktan doğan tüm ilişkilerinin kesilmesi yoluyla ve ortaklık sözleşmesinde hüküm bulunduğu takdirde de bu tasfiyenin sözleşmedeki hükümlere göre yapılmasının asıl olmasına; yönetici ortak durumundaki davalı aleyhine dava dışı şahıslar tarafından açılan davalar ile icra takiplerinin ve talep edilen işçilik haklarının adi ortaklığın konusu olan cezaevi inşaatının yapılmasından kaynaklandığının tespiti halinde, bu hususun da tasfiye sırasında değerlendirileceği belirgin olduğundan, davalının kendi kusur ya da ihmali ile bu davaların açılmasına sebebiyet verip vermediğinin tespiti ile sonuçta bu dava ve takipler nedeniyle ortaya
 çıkacak yükümlülüklerin adi ortaklığa mı davalıya mı ait olacağının açık biçimde tespit ve değerlendirilmesi ile tüm bu hususların varılacak sonuca etkisinin irdelenmesinin gerekmesine göre, Hukuk Genel Kurulu'nca da benimsenen Özel Daire bozma kararına uyulmak gerekirken,önceki kararda direnilmesi usul ve yasaya aykırıdır.
 
 ## Yargıtay 3. HD 2025/2619 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1158074900)
 
 Adi ortaklık sözleşmesi, TBK nun 620. maddesine göre, iki ya da daha fazla kişinin emeklerini ve mallarını ortak bir amaca erişmek üzere birleştirmeyi üstlendikleri sözleşmedir. Adi ortaklığın tüzel kişiliği bulunmadığından adli işlemlerde (dava açma, icra takibi gibi) aktif ve pasif taraf olma yeteneği, ehliyeti bulunmamaktadır. Adi ortaklıkta ortaklık malları ile haklarına ilişkin taleplerin tüm ortaklarca birlikte ileri sürülmesi gerekir (Yargıtay Hukuk Genel kurulu 24.06.2020 T. 2017/3-457 E., 2020/469K.). Aynı Kanunun 624. maddesine göre, Ortaklığın kararları, bütün ortakların oybirliğiyle alınır. Bu nedenle haklar ve borçlar ortaklara ait olur. Yine TBK 'nun 638. maddesine göre, Ortaklık için edinilen veya ortaklığa devredilen şeyler, alacaklar ve ayni haklar, ortaklık sözleşmesi çerçevesinde elbirliği hâlinde bütün ortaklara ait olur. Elbirliği mülkiyetini düzenleyen TMK nun 701. maddesine göre, Kanun veya kanunda öngörülen sözleşmeler uyarınca oluşan topluluk dolayısıyla mallara birlikte malik olanların mülkiyeti, elbirliği mülkiyetidir. Elbirliği mülkiyetinde ortakların belirlenmiş payları olmayıp her birinin hakkı, ortaklığa giren malların tamamına yaygındır.
 Aynı Kanunun 702/2. Maddesine göre, Kanunda veya sözleşmede aksine bir hüküm bulunmadıkça, gerek yönetim, gerek tasarruf işlemleri için ortakların oybirliğiyle karar vermeleri gerekir. Bu durumun doğal sonucu olarak elbirliği mülkiyetinin bulunduğu hallerde mecburi takip ve dava arkadaşlığı bulunmaktadır.
@@ -43,16 +51,22 @@ Adi ortaklıkta aksine bir hüküm bulunmadıkça, bir ortağın alacaklıları,
 
 ## Yargıtay 3. HD 2024/2401 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1089538500)
+
 Yargıtay (Kapatılan) 7 nci Hukuk Dairesinin 03.10.2013 tarihli ve 2012/5684 E., 2013/16190 K. sayılı ilamıyla; dosya kapsamına göre taraflar arasında adi ortaklık ilişkisi olup, davacının talebinin adi ortaklık katılım payına ilişkin olduğu, bu talebin aynı zamanda adi ortaklığın fesih ve tasfiyesini de kapsadığı, Mahkemece adi ortaklığın fesih ve tasfiyesine karar verilmesi gerektiği, bu kapsamda Mahkemece yönetici ortak olduğu anlaşılan davalıdan hesap istenmesi, tarafların tasfiye konusunda anlaşıp anlaşamadıklarının tespit edilmesi, tasfiyede anlaştıkları takdirde ona göre karar verilmesi, taraflar anlaşamadıkları takdirde, Mahkemece öncelikle ortaklığa ait malların tespitinin yapılması ,bu hususta taraflardan delil ve karşı delilleri alınarak değerlendirme yapılması, bu hususun belirlenmesinin ardından yönetici ortak olduğu anlaşılan davalıdan hesap istenerek tayin olunacak görevli marifetiyle ortaklığa ait malların satılmasına, öncelikle varsa ortaklığın borçlarının ödenmesine, bilahare ortaklardan her birinin ortaklık için yaptıkları masrafların hesaplanması ve her birinin ortaklıktan olan alacağı düşüldükten sonra geriye birşey kalır ise bu meblağın, var ise zararın
 paylaştırılmasına karar verilmesi gerekirken, bu hususlar gözetilmeden verilen kararın hatalı olduğu gerekçesiyle, karar bozulmuştur.
 
 ## Yargıtay 3. HD 2023/860 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/981136500)
 
 Adi ortaklıkta ortaklığın kâr veya zarar ettiğinin belirlenmesi idarecilerin görevidir. Gerçekten de yönetici ortaklar bu amaçla kural olarak 6098 sayılı Türk Borçlar Kanunu’nun (6098 sayılı Kanun) 630 uncu maddesinin üçüncü fıkrası çerçevesinde her yıl bilanço düzenlemeli, bu düzenledikleri bilançoya göre ortakların kâr ve zarar hesabını çıkartarak onlara kâr paylarını ödemeli ve zarar paylarını tahsil etmelidir.
 
 Bu çerçevede yönetici ortakların; ortakların kar payının belirlenmesi bakımından öncelikle tespit etmeleri gereken, ortaklığın safi karıdır. Bunun sonucu olarak söz konusu hesap döneminde ortaklığın elde ettiği tüm gelirin değil, vergiler ve bilhassa gerçek giderler indirildikten sonra, geri kalan kârın, yani safi kârın ortaklar arasında paylaştırılması gerekir (Şener, Oruç Hami, Adi Ortaklık, ... : Yetkin Yayıncılık, 2008, s. 231-233).
 
 ## Yargıtay 3. HD 2022/9634 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/864595700)
 
 6100 sayılı Hukuk muhakemeleri kanunun 59. Maddesinde mecburi dava arkadaşlığı düzenlenmiştir. Buna göre maddi hukuka göre, bir hakkın birden fazla kimse tarafından birlikte kullanılması veya birden fazla kimseye karşı birlikte ileri sürülmesi ve tamamı hakkında tek hüküm verilmesi gereken hâllerde, mecburi dava arkadaşlığı vardır. 4721 sayılı Türk Medeni Kanunu'nun (TMK) 640/2. maddesine göre; “Mirasçılar terekeye elbirliği ile sahip olurlar ve sözleşme veya kanundan doğan temsil ya da yönetim yetkisi saklı kalmak üzere, terekeye ait bütün haklar üzerinde birlikte tasarruf ederler.” TMK m.701/1 . Maddesine göre ise "Kanun veya kanunda öngörülen sözleşmeler uyarınca oluşan topluluk dolayısıyla mallara birlikte malik olanların mülkiyeti, elbirliği mülkiyetidir." . Elbirliği mülkiyetinde ise TMK m. 702. Maddesindeki düzenlemeye göre ortakların hakları ve yükümlülükleri, topluluğu doğuran kanun veya sözleşme hükümleri ile belirlendiği gibi kanunda veya sözleşmede aksine bir hüküm bulunmadıkça, gerek yönetim, gerek tasarruf işlemleri için ortakların oybirliğiyle karar vermeleri gerekir. Elbirliği mülkiyet türünde malikler mülkiyet payları ayrılmadığından paydaş değil, ortaktır.
 Bu kural, yukarıda da belirtildiği üzere TMK’nin 701. maddesinde açıklanmıştır. Elbirliği (İştirak) halinde mülkiyetin bu özelliği itibariyle ortaklar arasında zorunlu dava arkadaşlığı bulunmaktadır.
@@ -61,6 +75,8 @@ Elbirliğini oluşturan ortaklardan her biri, topluluğa giren hakların korunma
 Ne var ki bu kural, uygulamada yumuşatılarak, 11.10.1982 tarih, 1982/3-2 sayılı İçtihadı Birleştirme Kararıyla bir ortağın tek başına dava açabileceği; ancak, davaya devam edebilmesi için öteki ortakların olurlarının alınması veya miras şirketine atanacak temsilci aracılığıyla davanın sürdürülmesi gerektiği kabul edilmiştir. Ortaklardan bir veya birkaçı tarafından dava açılması ve zorunlu dava arkadaşlığı nedeniyle birlikte dava açmaları gereken hallerde diğer ortakların davaya muvafakatinin sağlanması, muvafakatın temin edilememesi halinde ise taraf teşkili bakımından muvafakat vermeyen diğer ortak ya da ortaklar aleyhine asıl dava ile birleştirilmek üzere dava açtırılıp, açılacak davanın bu davayla birleştirilerek taraf teşkili sağlandıktan sonra işin esasının incelenmesi HMK m. 26/1 de düzenlenen usul ekonomisi ilkesi gereğidir.
 
 ## Yargıtay 3. HD 2022/9210 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/864843600)
 
 Kural olarak elde edilen kar veya zararın paylaştırılması bakımından, ortaklar arasında eşitlik ilkesi geçerlidir. Nitekim TBK’nın “Kazanç ve zarara katılma” başlıklı 623. maddesinde; “ Sözleşmede aksi kararlaştırılmamışsa, her ortağın kazanç ve zarardaki payı, katılım payının değerine ve niteliğine bakılmaksızın eşittir. Sözleşmede ortakların kazanç veya zarara katılım paylarından biri belirlenmişse bu belirleme, diğerindeki payı da ifade eder. Bir ortağın zarara katılmaksızın yalnız kazanca katılacağına ilişkin anlaşma, ancak katılma payı olarak yalnızca emeğini koymuş olan ortak için geçerlidir.” şeklinde düzenlene yapılmıştır.
 
@@ -72,15 +88,21 @@ Hal böyle olunca, ilk derece mahkemesince; yukarıda açıklanan maddi ve hukuk
 
 ## Yargıtay 3. HD 2022/2760 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/751259500)
+
 Eldeki davada, davacı tarafça, davalıların ortaklığı yönetim yetkisinin haklı nedenlerin varlığı sebebiyle kaldırılmasının talep edildiği, TBK'nın 629/3. maddesinde haklı sebebin yönetici ortağın görevini aşırı ölçüde ihmal etmesi veya iyi yönetim için gerekli olan yeteneği kaybetmesi durumlarında var olduğunun kabul edildiği, hükme esas alınan bilirkişi raporunda, davalılar tarafından ortaklık hesabına fazla ödeme yapıldığı tespit edildiği halde sonuç kısmında ortaklığa temsilci atanmasının şartlarının gerçekleştiğinin belirtildiği, ayrıca ortaklar arasındaki karşılıklı güven ve sadakat ilişkisinin ne şekilde ve nasıl yok olduğuna ilişkin Yargıtay denetimine elverişli açıklamaların yapılmadığı, raporun müphem, yetersiz, denetime ve hüküm kurmaya elverişli olmadığı anlaşılmıştır.
 
 O halde ilk derece mahkemesince; dava konusu ortaklıkta davalıların ortaklığı yönetim yetkisinin kaldırılmasını gerektirir eylemlerin var olup olmadığı, var ise TBK 'ın 629. maddesi kapsamında haklı nedenlerin neler olduğu hususunda Yargıtay ve taraf denetimine elverişli ek rapor alınarak, hasıl olacak sonuca göre bir karar verilmesi gerekirken; yetersiz bilirkişi raporu benimsenerek eksik incelemeyle yazılı şekilde karar verilmiş olması, doğru görülmemiş bozmayı gerektirmiştir.
 
 ## Yargıtay 3. HD 2021/13024 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/723472100)
+
 Buna göre; davalının, dava konusu ortaklıkta yönetici ortak olduğu belirlenmekle, her ne kadar adi ortaklık döneminde, yönetici olmayan ortak tarafından kar payı istenmesi, adi ortaklığın tasfiyesini gerektirmese de, dava konusu somut olayda, ortaklığın fiilen devam etmediğinin ve aralarındaki güven unsurunun ortadan kalktığının taraf iradelerinden anlaşılması nedeniyle, taraflar arasındaki adi ortaklık ilişkisinin fiilen sona erdiğinin kabulü gerekmektedir.
 
 ## Yargıtay 3. HD 2021/9528 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/697882000)
 
 Adi ortaklık sözleşmesinin haklı sebeple feshi için, ortaklık süresinin önemi bulunmamaktadır. Haklı sebeple fesih hakkı, mutlak ortaksal bir hak olup, bu hakkın ortaklık sözleşmesiyle sınırlandırılması veya tamamen ortadan kaldırılması olanaksızdır. Gerçekten, ortaklar arasındaki ilişkinin devam etmesini haklı göstermeyecek bazı durumlar ortaya çıkarsa, bu durumda ortakların ortaklığın feshini mahkemeden istemesi mümkündür. Hatta belirli süreli ortaklıklarda da, sözleşmede belirtilen ortaklık süresinin bitmesinden önce haklı sebeple sözleşmenin feshi davası açmak olanaklıdır.
 
@@ -89,6 +111,8 @@ Yukarıda belirtilen hususlar dikkate alınarak, somut olay değerlendirildiğin
 O halde mahkemece, taraflar arasındaki adi ortaklığın devamının mümkün bulunmadığı göz önüne alındığında, adi ortaklığın haklı nedene dayalı olarak fesh edildiği kabul edilerek, uyuşmazlığın; adi ortaklığın tasfiyesi hükümleri (TBK'nun 620 ve devamı maddeleri) gereğince ve 642 ncı maddelerindeki tasfiye hükümlerinin somut olaya uygulanması suretiyle çözümlenmesi gerekmektedir.
 
 ## Yargıtay 3. HD 2021/5167 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/690045100)
 
 Dava; adi ortaklık sözleşmesinden kaynaklı alacak talebine ilişkindir.
 
@@ -99,6 +123,8 @@ Hal böyle olunca, mahkemece; adi ortaklığın tasfiyesi için öncelikle, orta
 
 ## Yargıtay 6. HD 2021/995 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/700841400)
+
 Dava, taraflar arasındaki eser sözleşmesinden kaynaklanan bakiye iş bedeli alacağının tahsili istemine ilişkindir.
 
 …
@@ -108,6 +134,8 @@ maddesi uyarınca gerekçesi düzeltilerek onanması uygun bulunmuştur.
 
 ## Yargıtay 15. HD 2021/275 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/638339600)
+
 TBK'nın 620. maddesindeki tanıma göre; adi ortaklık sözleşmesi, iki ya da daha fazla kişinin emeklerini ve mallarını ortak bir amaca erişmek üzere birleştirmeyi üstlendikleri sözleşmedir. Adi ortaklık TBK’nın 620 ve devamı maddelerinde düzenlenmiş olup adi ortaklığın tüzel kişiliği bulunmamaktadır. Ancak 6098 sayılı TBK adi ortaklık konusunu daha ayrıntılı düzenlemiş olup adi ortaklığın temsili ve üçüncü kişilerle olan hak ve borçlar yönünden yeni düzenlemeler yapmıştır. Bu kapsamda TBK’nın 625. maddesinde ortaklığın yönetimi için bir veya birden çok ortağın ya da üçüncü bir kişinin görevlendirilebileceği, yönetici ortağın yaptığı ortaklık sözleşmesi kapsamındaki işlerden dolayı TBK’nın 630. maddesi gereğince vekalet sözleşmesine ilişkin hükümlerin uygulanacağı, yönetici ortakların en az bir defa hesap vermek ve kazanç paylarını ortaklara ödemekle yükümlü oldukları belirtildikten sonra TBK’nın 631. maddesinde yönetim yetkisi olmasa bile, her ortağın ortaklığın işleyişi hakkında bilgi alma, defter ve kayıtları inceleme, bunlardan örnek alma ve mali durumu hakkında özet çıkarma hakkı olduğu belirtilmiştir.
 Dolasıyla adi ortaklığın tüzel kişiliği olmamakla birlikte adi ortaklığa ait ayrı bir vergi numarası alınabilmekte, vergi mükellefiyeti tesis ettirilebilmekte, adi ortaklık adına ayrı bir mali yapı ve muhasebe kaydı oluşturularak TBK’nın 631. maddesinde belirtildiği üzere ticari defter ve kayıt tutulmaktadır. Bu nedenle adi ortaklığın adi ortaklığı oluşturan ortaklardan ayrı mali bir bünyeye sahip olduğunun kabulü gerekir.
 
@@ -115,9 +143,13 @@ Adi ortaklığın yaptığı işlemlerden dolayı alacaklı ve borçlu olması m
 
 ## Yargıtay 3. HD 2020/6132 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/619762300)
+
 Yukardaki açıklamalar ışığında somut olay değerlendirildiğinde; davacı, taraflar arasında adi ortaklık ilişkisi olduğunu ancak davalılar tarafından ortaklığın inkar edildiğini, ortaklığa konu işletmenin yönetim hakkının, sözleşme ile belirlenen süre ve tarihte tarafına devredilmediğini belirterek eldeki davayı açmıştır. Bu durumda davacı, davaya konu işletmede 1/3 oranında adi ortak olduğunun tespiti ile birlikte, işletmenin 1 yıl süre ile ortaklar tarafından sıra ile işletileceği şeklinde adi ortaklık ilişkisinin bulunduğunun tespitine ve 2016 yılı için işletmenin yönetim hakkının tarafına ait olduğuna davalıların müdahalesinin önlenmesine karar verilmesi yönünde olumlu (yapmak, vermek şeklinde) bir edaya hükmedilmesi yönünde talepte de bulunduğundan, artık davacının bu davayı açmakta hukuken korunması gereken bir hakkının olduğunun, bu bakımdan da eldeki davayı açmakta meşru ve güncel bir hukuki yararının bulunduğunun kabulü gerekir.
 
 ## Yargıtay 12. HD 2019/16982 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/573477500)
 
 Adi ortaklıkta, aksine bir hüküm yer almadığı sürece, idareci ortağın yapacağı işlemler, diğer ortakları da bağlar. İdareci ortağın hukuki statüsü BK'nun 449. maddesinde düzenlenen ticari mümessile benzer nitelikler taşır. Bu itibarla ticari mümessilin özel bir yetki aranmaksızın kambiyo taahhüdünde bulunma yetkisine haiz olduğu kabul edilmektedir (HGK.nun 29.01.2009 tarih 2008/12825¬2009/32 sayılı kararında da açıklanan ilkeler benimsenmiştir.).
 
@@ -127,9 +159,13 @@ Bu durumda, maddi hataya dayalı olarak oluşturulan bozma ilamına uyulmakla ta
 
 ## Yargıtay 3. HD 2018/8261 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/452616400)
+
 Bütün bu açıklamalar ışığında, mahkemece; davalının yönetici ortak olduğu ve sözleşmede 09 D 7041 plaka nolu aracın davacı tarafından alındığı belirtildiği ve davalının bu duruma karşı çıkmadığı da dikkate alınarak, taraflar arasında geçerli bir adi ortaklık ilişkisinin kurulduğunun kabulü ile talebe konu geçmiş yıllara ilişkin ödenmeyen tamir ve bakım masrafları olup olmadığının tespiti ile tasfiyeye ilişkin uyuşmazlığın yukarıda açıklanan ve maddeler halinde belirtilen sıra ve yöntem izlenerek çözümlenmesi suretiyle hasıl olacak sonuç dairesinde bir hüküm tesis edilmesi gerekirken, bu şekilde bir inceleme ve değerlendirme yapılmadan, eksik inceleme ile yazılı şekilde hüküm tesisi usul ve yasaya uygun görülmemiş, bozmayı gerektirmiştir.
 
 ## Yargıtay 3. HD 2018/5859 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/424913800)
 
 Adi ortaklıkta tarafların birbirlerine karşı adi ortaklıktan doğan sorumlulukları ve talep hakları mevcut olup, taraflardan (ortaklardan) birinin yukarıda sayılın yükümlülüklerini ihlal etmesinin, TBK'nın 639/7. Maddesi hükmü gereğince adi ortaklığın feshini haklı kılacak nedenlerdendir.Adi ortaklığın sona erme sebeplerini düzenleyen TBK'nun 639/7. maddesinde "Haklı sebeplerin bulunması halinde, her zaman başkaca koşul aranmaksızın, fesih istemi üzerine mahkeme kararıyla" ortaklığın sona ereceği belirtilmiştir.Adi ortaklık sözleşmesinin haklı sebeple feshi için ortaklık süresinin önemi bulunmamaktadır. Haklı sebeple fesih hakkı mutlak ortaksal bir hak olup, bu hakkın ortaklık sözleşmesiyle sınırlandırılması veya tamamen ortadan kaldırılması olanaksızdır. Gerçekten ortaklar arasındaki ilişkinin devam etmesini haklı göstermeyecek bazı durumlar ortaya çıkarsa, bu durumda ortakların ortaklığın feshini mahkemeden istemesi mümkündür. Hatta belirli süreli ortaklıklarda da sözleşmede belirtilen ortaklık süresinin bitmesinden önce haklı sebeple sözleşmenin feshi davası açmak olanaklıdır.
 
@@ -138,15 +174,21 @@ Noterliği'nin 11.01.2012 tarihli ihtarnamesi ile sözleşmenin bu hükmüne day
 
 ## Yargıtay 12. HD 2018/4527 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/424281700)
+
 6098 sayılı Türk Borçlar Kanunu'nun 637. maddesinin 3.fıkrasının ilk cümlesinde; "Kendisine yönetim görevi verilen ortağın, ortaklığı veya bütün ortakları üçüncü kişilere karşı temsil etme yetkisi var sayılır" hükmü yer almaktadır. Ortaklık sözleşmesi ile kendisine yasada belirtilen idare yetkisi tanınan kişi, ortak ya da üçüncü bir şahıs olabilir. Dolayısı ile bu kişinin, TBK'nun 42. ve 46. maddeleri ile aynı Kanunun 637. maddesinde açıklanan ortaklığı temsil yetkisi olduğunun kabulü gerekir. Bu durumda, ortaklığı idare yetkisi bulunan temsilcinin yapacağı işlem, ortakları, üçüncü şahıslara karşı eşit olarak sorumlu kılar. Bu sebeple adi ortaklığı temsilen idareci şerikin (ortak-temsilcinin) imzaladığı bonolardan dolayı ortaklar sorumlu olur. Temsil yetkisi, zımnen icazet, temsil belgesi, adi ortaklık sözleşmesi veya ortaklık kararı ile verilebilir.
 
 O halde mahkemece; borçlu adi ortaklığın diğer ortağı ...’in, adi ortaklığı temsil ve ilzama yetkili ortak sıfatında olup olmadığının adi ortaklık sözleşmesi, ortaklık kararları veya varsa temsil belgesi temin edilerek tesbiti ile oluşacak sonuca göre karar verilmesi gerekirken, eksik inceleme ile yazılı şekilde hüküm tesisi isabetsizdir.
 
 ## Yargıtay 15. HD 2018/4026 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/451291100)
+
 Asıl davada takibe konu istem kalemlerine gelince; Taraflar arasında 02.09.2013 tarihli sözleşme kurulduğu uyuşmazlık konusu değildir. Taraflarca kabul edilen sözleşme imzalandığı tarih itibariyle yürürlükte bulunan TBK'nın 620. maddesinde düzenlenen "adi ortaklık" sözleşmesi olup, uyuşmazlığında bu çerçevede çözümlenmesi zorunludur. Sözleşme uyarınca davalı taraf "Ruixin" marka adı altında freze imâl edecek ve bu imalât sonucu satışı yapılan frezeden elde edilecek net kârın paylaşımı yapılacaktır. Davacı tarafın kapasite artırımı için davalıya 100.000,00 TL ödeme yaptığı 6. maddede açıklanmıştır. Bu durumda bu ödemenin diğer dava dosyasında yapılan ödemeden farklı olduğu anlaşılmıştır. Esasında ilk yapılan ödeme ile bu sözleşme tarihi dikkate alındığında sözleşmedeki ödemenin farklı bir ödeme olduğu anlaşılmış olup, aksini ispat külfeti de davalıdadır. Sözleşmede ödeme yapıldığı açıklanmış ancak ödemenin 11.12.2012 tarihinde yapıldığına dair bir açıklık bulunmamaktadır. Öte yandan davacı ayrıca 7. madde uyarınca sentetik elmas tozlarını da ithal edip davalıya teslim etmeyi yükümlenmiştir.
 Bu durumda davacı ödemiş olduğu bedeli ve malzeme tutarını talep ettiğine göre, adi ortaklığın feshi ve tasfiyesi gerekir. Mahkemece bu doğrultuda değerlendirme yapılıp, yönetici ortak belirlenerek hesap verme yükümlülüğünün yönetici ortakta olduğu gözetilerek, taraflar arasındaki sözleşme hükümleri ve TBK'nın 520 ve devamı maddelerinde öngörülen şekilde adi ortaklığın feshi ve tasfiyesi ile alacak yargılamayı gerektirdiğinden icra inkâr tazminatı isteminin reddi gerekirken yazılı şekilde hüküm tesisi doğru olmamış, kararın bozulması uygun bulunmuştur.
 
 ## Yargıtay 3. HD 2017/17667 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/389322600)
 
 Bütün bu açıklamalar ışığında, dosya kapsamından, taraflar arasında adi ortaklık ilişkisinin kurulduğu, davalının yönetici ortak olduğu, adi ortaklığın 2011 yılından 2013 yılı Şubat ayına kadar sürdüğü anlaşılmakta olup, öncelikle yönetici ortak olan davalıdan, ortaklığın kurulduğu tarihten itibaren tüm muhasebesi ile ilgili defterler ve ortaklıkla ilgili tüm belge ve faturaların ibrazı ile ortaklıkla ilgili hesap listesi istenilmeli, ortakların gerek tasfiye şekli gerekse hesap listesi üzerinde uyuştukları ve uyuşamadıkları noktalar saptanmalı, uyuşamadıkları noktalarda tarafların delil ve karşı delilleri sorulup toplanmalı, yönetici ortağın hesap listesi vermemesi durumunda hesap vermekten kaçındığı kabul edilmeli, taraf iddia ve delilleri değerlendirilerek, adi ortaklığın malvarlığı tesbit edilmeli, uyuşmazlığın yukarıda açıklanan ve maddeler halinde belirtilen sıra ve yöntem izlenerek çözümlenmesi gerekirken bu şekilde bir inceleme ve değerlendirme yapılmadan, yanılgılı değerlendirme ve eksik inceleme ile hüküm tesisi doğru görülmemiş, bozmayı gerektirmiştir.

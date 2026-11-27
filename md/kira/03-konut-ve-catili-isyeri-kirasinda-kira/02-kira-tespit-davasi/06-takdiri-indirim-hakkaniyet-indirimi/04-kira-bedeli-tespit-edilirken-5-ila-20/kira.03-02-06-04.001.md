@@ -22,12 +22,18 @@ uyari: "Derleyenin seçtiği alıntılardır; kararın tamamı değildir. Künye
 
 ## Yargıtay 3. HD 2021/8864 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/697825000)
+
 Buna göre; mahkemece, taşınmazın galip vasfının çatılı iş yeri olduğu tespit edildiği takdirde, yeniden bilirkişi görüşüne başvurulması ve belirlenecek kira bedelinden **davalının eski kiracı olduğu gözetilerek %5 - %20 oranında hakkaniyete uygun bir miktarda indirim yapması gerekirken** eksik inceleme ile yazılı şekilde karar verilmesi doğru görülmemiş, bozmayı gerektirmiştir.
 
 ## Yargıtay 3. HD 2019/4254 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/504741900)
+
 Mahkemece, bilirkişi heyeti tarafından belirlenen bedelden davalının eski kiracı olduğu **gözetilerek %5- % 20 oranında hakkaniyete uygun bir miktarda indirim yapıldıktan sonra kira bedelinin tespiti gerekirken**, yazılı şekilde fazla miktarda hak ve nesafet indirimi yapılarak hüküm kurulması usul ve yasaya aykırı olup, bozmayı gerektirmiştir.
 
 ## Yargıtay 3. HD 2019/3754 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/507333200)
 
 Hak ve nesafete uygun kira belirlenirken taşınmazın yeniden kiralanması halinde serbest şartlarda boş olarak kiraya verilmesi halinde getirebileceği kira bedelinden mahkemece hak ve nesafet kurallarına uygun indirim yapılarak kira bedelinin tespiti gerekir. Hükme esas alınan bilirkişi raporunda davalının eski kiracı olduğu da değerlendirilerek indirim uygulanmak suretiyle kira bedelinin hak ve nesafete göre belirlendiği anlaşılmakta olup, Mahkemece ikinci kez indirim uygulanarak kira bedelinin belirlenmiş olması doğru değildir. Bu durumda Mahkemece bilirkişi raporu ile belirlenen dava konusu taşınmazın boş olarak kiraya verilmesi halinde getireceği brüt kira bedelinden ilgili rapor ile bağlı olmaksızın **davalının eski kiracı olduğu gözetilerek %5-20 oranında hakkaniyete uygun bir miktarda indirim yapıldıktan** sonra kira bedelinin brüt olarak tespiti gerekirken yazılı şekilde hüküm kurulması usul ve yasaya aykırı olup bozmayı gerektirmiştir.

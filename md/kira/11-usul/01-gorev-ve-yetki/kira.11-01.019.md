@@ -22,10 +22,14 @@ uyari: "Derleyenin seçtiği alıntılardır; kararın tamamı değildir. Künye
 
 ## İstanbul BAM 15. HD 2024/373 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1024187500)
+
 Sulh Hukuk Mahkemesi'nin 2015/87 Değişik İş sayılı dosyasından yaptırdıkları delil tespiti sonucunda bilirkişi heyetince müvekkili şirketin davalıdan nefaset kesintisi sonrasında 243.936,04 TL+KDV = 287.844,52 TL alacaklı olduğunun belirlediğini, davalının yaptığı 100.000,00 TL ödeme mahsup edildiğinde fazlaya dair hak ve alacakları saklı kalmak kaydıyla müvekkili şirketin bakiye alacağının 187.944,52 TL olduğunu belirterek, müvekkili şirketin davalı şirketten olan alacağının tespiti ile şimdilik 187.944,52 TL alacağının sözleşmeye konu işin tamamlandığı tarih olan 15/02/2015 tarihinden itibaren avans faiziyle birlikte davalıdan tahsiline karar verilmesini talep ve dava etmiştir.Davalı-karşı davacı vekili, davacı tarafından işin süresinde bitirilemediğini, teslim tarihi 25.01.2015 olmasına ve tamirat işleri bitmemesine rağmen müvekkilinin zorunlu olarak 31.03.2015 tarihinde ofise taşınmak zorunda kaldığını, sözleşmenin 10.maddesi gereğince gecikilen her iş günü için 1.000,00 TL tazminat ödenmesi gerektiğinden gecikilen 58 gün için 58.000,00 TL tazminat ödenmesi gerektiğini, yine aynı maddeye göre aylık 47.577,00 TL'den 2 aylık 95.154,00 TL kira bedelinin ödenmesi gerektiğini, ofis
 için ödenen 2 aylık toplam 14.000,00 TL + KDV kira bedelinin de ödenmesi gerektiğini, ayrıca davacının eksik ve hatalı işleri için 3.662,80 TL nefaset bedelinin de mahsubu mahsubu gerektiğini, davacıya toplam 100.000,00 TL ödendiğini, davacının asıl büyük harcamaları işin tesliminden çok sonra yaptığını, davacının bakiye 100.000,00 TL alacağının yukarıda belirtilen zarar kalemleri nedeniyle ödenmediğini, davacı tarafça tadilat için proje yaptırılmadığından yaptığı işin hiçbir geçerliliği olmadığını, sözleşmenin 9.maddesi gereğince yapılan her fazla iş için müvekkilinin onayı alınması gerektiğini, bu nedenle kendi kendine yaptığı işlerin müvekkilinin sorumluluğunda olmadığını, tespit dosyasına itiraz ettiklerini, davacı tarafından yapılmayan işlerin müvekkili tarafından başkalarına yaptırıldığını, geç taşınma nedeniyle ciro kaybı yaşadığını, ticari kaybı olduğunu belirterek, asıl davanın reddine, karşı davalarının ise kabulü ile, 50.000,00 TL tazminatın 01.02.2015 tarihinden itibaren işleyecek ticari reeskont faiziyle birlikte davacı-karşı davalıdan tahsiline karar verilmesini dava ve talep etmiştir.
 
 ## İstanbul BAM 54. HD 2024/1002 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1020725800)
 
 Kamu düzeni ve istinaf sebepleri ile sınırlı yapılan incelemede: Görevle ilgili düzenlemeler kamu düzenine ilişkin olup, taraflar ileri sürmese dahi yargılamanın her aşamasında re'sen
 
@@ -35,6 +39,8 @@ HD-2020/3107 Esas, 2021/6685 Karar) Dairemiz ilk derece mahkemesi kararını hem
 
 ## İstanbul BAM 17. HD 2024/439 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1018015100)
+
 Halefiyet ile açılan davanın sigorta şirketinin hukuken yerine geçtiği dava dışı sigortalı tarafından sorumlulara karşı hangi mahkemeye dava açması gerekiyorsa o mahkemeye dava açması ve mahkemenin görevinin zarar sorumlusu ile dava dışı sigortalı arasındaki hukuki ilişkiye göre belirlenmesi gerekir. Buna göre sigortalı ile zarar sorumlusu arasındaki ilişki ticari dava niteliğinde ise bu tür davada Ticaret Mahkemesi görevli olacaktır. Aksi halde ise yani esas uyuşmazlık ticari nitelikte değilse böyle bir davada Ticaret Mahkemesi görevli olmayacaktır.Yargıtay İçtihadı Birleştirme Genel Kurulunun 22.3.1944 Tarihli E.37, K.9 sayılı kararı, "Sigortacının sorumlu kişi aleyhine açacağı dava, sigorta poliçesinden doğan bir dava değildir. Bu nedenle, halefiyet davası bir ticari dava sayılamaz. Bu dava, aynen sigortalı kimsenin sorumlu kişiye karşı açmış olduğu bir dava gibidir. Sigortalının muhtelif mahkemelerde dava açma hakkı varsa, aynı hak sigortacının halefiyet hakkına dayanan rücu davası için de söz konusudur." şeklindedir. İstanbul Ticaret Sicili Müdürlüğünün yazı cevabına göre, davalının, gerçek kişi ticari işletme kaydı bulunamamıştır.
 Fatih Vergi Dairesi Müdürlüğünün yazı cevabına göre ise, davalının, 01/01/2015 tarihinden itibaren gayri menkul sermaye iradı yönünden gelir vergisi mükellefi olduğu, tacir ya da esnaf olmadığı, ticari defter tutmadığı bildirilmiştir. Somut olayda, davalıya ait taşınmazda kiracı
 
@@ -42,10 +48,14 @@ olarak faaliyet gösteren dava dışı sigortalı ... San. ve Tic. Ltd. Şti. il
 
 ## İstanbul BAM 44. HD 2024/618 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1018543500)
+
 Somut olayda, davalı şirketin finansal kira sözleşmelerinden doğan borç taksitlerini ödemeyerek temerrüte düştüğü, davacı tarafından gönderilen "Borçların 60 günlük süre içinde ödenmesi, aksi halde sözleşmelerin feshedilmiş olacağı, kiralanan malların derhal teslim edilmesi gerektiği" içerikli noter ihtarnamesinin davalıya tebliğ edildiği, yapılan noter tebliğinin usulüne uygun olduğu, ihtarnamede verilen sürede davalı tarafından borcun tamamının ödenmediği görülmüştür.Dosya kapsamından davalı şirket hakkında Bakırköy 3. Asliye Ticaret Mahkemesi'nin 2018/1086 Esas sayılı dosyasında konkordato başvurusunda bulunulduğu, mahkemenin 19/11/2018 tarihinden itibaren üç ay süre ile geçici mühlet verildiği, 18/04/2019 tarihli duruşmada da, bu tarihten itibaren bir yıl süre ile kesin mühlet kararı verildiği anlaşılmıştır. Bakırköy 3. Asliye Ticaret Mahkemesi'nin 2018/1086 Esas sayılı dosyasında mahkemece alınan komiser heyeti görüşünde;
 İİK'nın 294/1. maddesi gereğince finansal kiralama sözleşmesine konu mallara teşmil etmemesi gerektiği bildirilmiştir.Davalı vekili istinafında, ihtarnamede verilen 60 günlük sürenin konkordato geçici mühlet süresine denk geldiğinden feshin haklı olmadığını ileri sürmüştür. Borçlunun (kiracının) kira bedellerinin konkordatonun talep edildiği tarihe kadar düzenli şekilde ödemiş olması ama geçici veya kesin mühlet sırasında kira bedelini ödememesi ihtimalinde bu finansal kira alacağının konkordato şartlarına tabi olmadan tam olarak ödenmesi gerekir. Ve ayrıca icra takibine konu edinilebilmesi de mümkündür. Kaldı ki bu ihtimalde finansal kiralama şirketine mühlet içinde ödenmemiş kira bedelleri için borçluya (kiracıya) ihtarname gönderip süre vererek finansal kiralama sözleşmesini fesh etmesi de söz konusu olabilir. ( Prof. Dr. Emrahan İnal, Prof Dr. Selçuk Öztek 22/02/2019 tarihli Hukuki Mütalaa 29.sy.)Davacı tarafça kira bedellerinin ödenmemesi nedeniyle, davaya konu 107651 Sayılı Finansal Kiralama Sözleşmesi için Beyoğlu 3. Noterliği'nin 18/10/2018 tarihli 37106 Yevmiye numaralı, 115168 Sayılı Finansal Kiralama Sözleşmesi için Beyoğlu ... Noterliği'nin 18/10/2018 tarihli ...
 
 ## İstanbul BAM 54. HD 2024/622 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1010097300)
 
 Mahkeme; "dayanak alacağın taraflar arasında düzenlenen kira sözleşmesinden kaynaklandığı, 6100 sayılı HMK'nun 4/1-a maddesindeki tüm kira ilişkilerini kapsayan yasal düzenleme gereğince iş bu davada Sulh Hukuk Mahkemesi'nin görevli olduğu, göreve ilişkin usul kurallarının HMK'nun 114/1-c maddesinde dava şartları arasında sayıldığı, kamu düzeninden olup resen dikkate alınmasının gerektiği gözetilerek mahkememizin görevsizliği nedeniyle davanın usulden reddine..." karar vermiştir. Kamu düzeni ve istinaf sebepleri ile sınırlı yapılan incelemede: Görevle ilgili düzenlemeler kamu düzenine ilişkin olup, taraflar ileri sürmese dahi yargılamanın her aşamasında re'sen gözetilir. Taraflar da
 
@@ -54,13 +64,19 @@ Dairemiz ilk derece mahkemesi kararını hem maddi olay, hem de hukuka uygunluk 
 
 ## İzmir BAM 23. HD 2024/523 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1016083300)
+
 Davanın açıldığı Fethiye 2. Sulh Hukuk Mahkemesince. davacı ile davalı arasındaki asıl uyuşmazlığın bayilik sözleşmesi olup, kira sözleşmesinin bayilik sözleşmesinin devamını sağlamak için oluşturulduğu, uyuşmazlığın çözümü için bayilik ve kira sözleşmesi hükümlerinin birlikte değerlendirilerek karar verilmesi gerektiği, taraflarının tacir olduğu, aynı zamanda ticari işletmeleriyle ilgili mutlak ticari dava niteliğinde olması sebebiyle Asliye Ticaret Mahkemelerinde görülmesi gerektiği gerekçesiyle görevsizlik kararı verilmiştir.
 
 ## Konya BAM 4. HD 2024/904 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1007857300)
+
 Somut olayda; tarafların 01/01/2011 başlangıç tarihli ve 15 yıl süreli kira sözleşmesi düzenledikleri, davacının 2021 ve 2022 yılı kira bedellerinin eksik ödendiği iddiasıyla dava hakkında icra takibi yaptığı, takibe itiraz edilmesi üzerine eldeki davanın açıldığı, ilk derece mahkemesi ise görevsizlik kararı verdiği, davacı vekilinin hükmü istinaf etmesi nedeniyle dosyanın Dairemize gönderildiği anlaşılmıştır. Bu durumda, yukarıda belirtildiği gibi, taraflar arasındaki uyuşmazlığın 01/01/2011 başlangıç tarihli kira sözleşmesi hükümlerince ve Türk Borçlar Kanunu'ndaki kiraya ilişkin düzenlemeler çerçevesinde çözüme kavuşturulması gerektiği açık olup ilk derece mahkemesinin 6100 sayılı HMK'nın .maddesi uyarınca görevsizlik kararı vermesinde bir isabetsizlik görülmemiştir.
 
 ## Kayseri BAM 3. HD 2024/256 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/993233800)
 
 Dairemizce yapılan incelemede; taraflar arasında 05.09.2022 tarihinde kira sözleşmesi imzalandığı anlaşıldığından ilk derece mahkemesince taraflar arasındaki sözleşmenin kira
 
@@ -68,10 +84,14 @@ sözleşmesi olduğuna dair hukuki nitelendirmede bir isabetsizlik yoktur. HMK'n
 
 ## İstanbul BAM 44. HD 2024/233 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/998408600)
+
 Yasal düzenlemede açıkça borçlunun talebi, yasal düzenlemede belirtilen şartların tamamının gerçekleşmesi halinde konkordato tasdik kararı ile finansal kiralama konusu malların iadesinin ertelenebileceği belirtilmiş olduğundan, bu düzenlemedeki yasal şartlara uygun mahkemece konkordato tasdik kararında finansal kiralama konusu mallara ilişkin bir tedbire hükmedilmemiş ise, konkordato projesinin başarıya ulaşmasını sağlamak için borçlunun malvarlığının korunması gerekçe gösterilerek finansal kiralama konusu malların iadesinin istenemeyeceği iddiasının kabulüne yasal olanak bulunmamaktadır. İzmir 3. Asliye Ticaret Mahkemesinden verilen 2019/306 esas sayılı 10/03/2020 tarihli karar uyarınca tedbirin finansal kiralamaya konu malı kapsamadığının bildirildiği anlaşılmıştır. Somut olayda, İzmir 3.
 Asliye Ticaret Mahkemesi’nin 2019/306 E. sayılı dosyasından 19/07/2019 tarihinde alınan karar ile müvekkil şirket hakkında 19/07/2019 tarihinden itibaren geçerli olmak üzere 3 (üç) aylık geçici mühlet kararı ile, ihtiyati tedbir ve ihtiyati haciz kararlarının uygulanmaması yönünde ihtiyati tedbir konulmasına, 04/10/2019 tarihli ara karar ile de 04.10.2019 tarihinden itibaren 1 yıllık kesin mühlet verilmesi ile 19.07.2019 tarihli tensip ara kararının 5 nolu bendi gereğince belirlenen ihtiyati tedbirin devamına karar verildiği, yine aynı mahkemenin 10/03/2020 tarihli ara kararı ile finansal kiralamaya konu malların iadesinin ertelenemeyeceğine dair verilmiş bir tedbir kararı bulunmadığına karar verilmiş, davacı şirketin talebi üzerine, 28.02.
 
 ## İstanbul BAM 44. HD 2024/226 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/995488300)
 
 Somut olayda, taraflar arasında Cihanbeyli Noterliği'nin 12/08/2014 tarih ... yevmiye sayılı ve ... nolu Finansal Kiralama Sözleşmesi düzenlendiği, sözleşme konusu pancar hasat makinesinin davacı tarafından davalıya teslim edildiği, kira bedellerinin ödenmemesi üzerine davacı tarafından davalıya 6361 finansal kiralama kanununun 31.maddesi hükmüne göre, keşide edilen Beyoğlu ...Noterliği'nin 15/11/2016 Tarih ve ... yevmiye numaralı ihtarnamesi ile ödenmeyen kira borcunun ihtarnamenin tebliğinden itibaren 60 gün içinde ödenmesi, aksi takdirde sözleşmenin feshedileceği, malların iadesi ile tüm kira borçlarının tahsili gerekeceğinin ihtar edildiği , söz konusu ihtarnamenin 24/11/2016 tarihinde tebliğ edildiği, bilirkişi incelemesi ile tespit edildiği üzere, ihtarname tarihinde davalının ödenmemiş kira borcunun bulunduğu, ihtarname ile verilen süre içerisinde vadesi gelmiş kira borcunun ödenmediği, davalının temerrüte düştüğü, ödeme yapıldığına ilişkin dosyada delil bulunmadığı, verilen 60 günlük sürenin dolduğu tarihi itibariyle sözleşmenin haklı nedenle feshedildiği, fesih tarihinden itibaren kiralama konusu malların iadesinin sağlanmadığı, 6361 Sayılı Kanununun 23.
 Maddesi uyarınca mülkiyeti davacıya ait kiralama konusu malların aynı kanunun 33. Maddesi gereğince teslim alındığı şekilde
@@ -80,10 +100,14 @@ kiralayana iadesi şartlarının oluştuğu anlaşılmıştır. Davacının daha
 
 ## İstanbul BAM 35. HD 2024/206 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1002560400)
+
 İcra Müdürlüğünün ... esas sayılı icra takip dosyasında yapılan haciz tutanağında davacı borçlu tarafından borcun kabul edilmediği, yasal haklar saklı kalmak kaydıyla işlemleri durdurmak için ödeme yapıldığının belirtildiği görülmüştür.İcra takibinden sonra açılan menfi tespit davasında icra takibinin durdurulmasına karar verilemez ancak İİK 72/3. maddesine göre borçlunun gecikmeden doğan zararını karşılamak ve alacağın % 15'inden aşağı olmamak üzere göstereceği teminat karşılığında mahkemeden ihtiyati tedbir yolu ile ödenen icra veznesindeki paranın alacaklıya ödenmemesi konusunda tedbir kararı verilebilir.HMK'nın 390.maddesinde ; "İhtiyati tedbir, dava açılmadan önce, esas hakkında görevli ve yetkili olan mahkemeden; dava açıldıktan sonra ise ancak asıl davanın görüldüğü mahkemeden talep edilir." hükmü yer almaktadır.Dava, kira alacağının tahsili için başlatılan icra takibinden dolayı borçlu olmadığının tespiti talepli bir davadır.Yasal dayanağı İİK'nun 72. maddesidir. Alacak talebi kira sözleşmesine dayandığından görevli mahkeme HMK m.4/1-a uyarınca Sulh Hukuk Mahkemesidir. İstanbul 12.
 Asliye Ticaret Mahkemesinin 2023/125 D.İş sayılı dosyasında tedbir kararı verildiği, asıl davanın görüldüğü ilk derece Mahkemesi nezdinde tedbir kararı hakkında itiraz ileri sürüldüğü anlaşılmış olup ihtiyati tedbir kararı görevli mahkeme tarafından verilmediğinden tedbir kararının kaldırılması gerekmektedir. Bu nedenle davalının istinaf başvurusunun kabulü ile HMK'nun 353/1-b-2 maddesi gereğince ihtiyati tedbir kararına yapılan itirazın reddi kararının kaldırılmasına, Dairemizce yeniden hüküm kurularak itirazın kabulüne ve tedbir kararının kaldırılmasına karar vermek gerekmiştir.
 
 ## İstanbul BAM 13. HD 2024/128 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/989826400)
 
 A.Ş.'nin hisselerinin devriyle ilgili akdedecekleri sözleşmede tanımlanan kapanış akabinde aynı gün içerisinde ödeneceğinin kararlaştırıldığı, böylece kira kaybı alacağı kaleminin de dava dışı ... tarafından sulh olunan bedel üzerinden ödeneceğinin kararlaştırıldığı, Büyükçekmece 2. Asliye Hukuk Mahkemesinin 2016/388 esas sayılı tapu iptali ve tescil davasının tarafları ve konusu ledeki sorumluluk davasından farklı olduğundan, bu davanın yöneticilerin kusurlu olup olmadığı hususunda kesin delil teşkil edemeyeceği, ayrıca tapu iptali tescil davasının görevsizlik üzerine geldiği Bakırköy 2. Asliye Ticaret Mahkemesinin 2019/262 esas sayılı davasında, takip edilmeyen ve yenilenmeyen davanın açılmamış sayılmasına karar verildiği, bu nedenle davalıların kusurlu olduğuna ilişkin bir tespitin yapılmadığı, 10/06/2021 tarihli duruşmada dava dışı ...'ün beyanına göre, 257.034,00 TL ödemenin kira bedeline istinaden yapılmadığı, kapanış olmadığı için kira bedelinin ödenmediğini beyan edildiğinden, 07/02/2019 tarihli sözleşmenin 5.2.
 Maddesi uyarınca ecrimisil talebinin dava dışı ...'e yöneltilmesi gerektiği, davalılara yöneltilemeyeceği, açılmamış sayılmasına karar verilen tapu iptali ve tescil davasında yapılan yargılama gideri
@@ -92,10 +116,14 @@ ve avukatlık masrafının HMK’nın 323 ve 326. O davaya ilişkin olup, tazmin
 
 ## İstanbul BAM 43. HD 2024/47 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1043093900)
+
 TTK'nın 4/1. bendinde sınırlı olarak sayılan davalar arasında yer alması veya özel kanunlarda ticari dava olarak nitelendirilmesi yeterlidir. Bu davalar kanun gereği ticari dava sayılan davalardır. Nispi ticari davalar, her iki tarafın ticari işletmesiyle ilgili olması halinde ticari nitelikte sayılan davalardır. 6102 sayılı TTK'nın 4/1. maddesine göre, her iki tarafın ticari işletmesiyle ilgili hususlardan doğan ve iki tarafı da tacir olan hukuk davaları ticari dava sayılır. Bu hükme göre bir davanın ticari dava sayılabilmesi için, hem iki tarafın ticari işletmesini ilgilendirmesi, hem de iki tarafın tacir olması gereklidir. Bu şartlar birlikte bulunmadıkça, uyuşmazlık konusunun ticari iş niteliğinde olması veya ticari iş karinesi sebebiyle diğer taraf için de ticari iş sayılması davanın ticari dava olması için yeterli değildir. 6102 sayılı Türk Ticaret Kanunu'nun 19/2. maddesi uyarınca, taraflardan biri için ticari iş sayılan bir işin diğeri için de ticari iş sayılması, davanın niteliğini ticari hale getirmeyecektir. Zira; Türk Ticaret Kanunu, kanun gereği ticari dava sayılan davalar haricinde, ticari davayı ticari iş esasına göre değil, ticari işletme esasına göre belirlemiştir.
 Hal böyle olunca, işin ticari nitelikte olması davayı ticari dava haline getirmez. Üçüncü grup ticari davalar, yalnızca bir tarafın ticari işletmesini ilgilendiren havale, vedia ve fikri haklara ilişkin davalardır. Yukarıda açıklandığı üzere bir davanın ticari dava sayılması için kural olarak ya mutlak ticari davalar arasında yer alması ya da her iki tarafın ticari işletmesiyle ilgili bulunması gerekirken havale, vedia ve fikri haklara ilişkin davaların ticari nitelikte sayılması için yalnızca bir yanın ticari işletmesiyle ilgili olması TTK'da yeterli görülmüştür. Somut olaya gelindiğinde; uyuşmazlığın kira ilişkisinden değil kullanım ödüncü ilişkisinden kaynaklandığı, her iki tarafın ticari işletmesi ile ilgili olduğu, davanın nispi ticari dava niteliğinde olduğu anlaşılmakla ilk derce mahkemesince görev dava şartı yokluğu nedeniyle davanın reddine karar verilmesinde isabet görülmemiştir.
 
 ## İstanbul BAM 45. HD 2024/89 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/990087400)
 
 23/07/2012 tarihli Ekspertiz Raporunda; sigortalı işyeri sahibinin beyanına göre, 18.05.2012 günü saat 17.40 sularında başlayan yağmurun, doluya çevirmesi ve bina çatısındaki tahliye kanallarını tikayan dolunun erimeye geçerek depo içine tavandan sirayet ederek raflarda ve labaratuvarda bulunan çok miktardaki ... cihaz ve yardımcı malzemeleri ile demirbaşları tesiri altına alarak önemli ölçüde hasara uğratması suretiyle meydana geldiği beyan edilen olayda, rapora ekli 74 adet renkli fotoğraf eklenerek toplam hasar tutarı 300.000,00 TL olarak hesaplanmıştır. Tespit isteyen ... şirketince, .... Tic. Şirketi aleyhine tespit talebinde bulunulmuş olup Gebze 2. Sulh Hukuk Mahkemesinin 2912/47 D. İş sayılı dosyasında tanzim olunan 15.06.2012 tarihli raporda; depo içine inen yağmursuyu sızıntısının olağanüstü yağmur ve dolu yağışı nedeniyle olduğu, kiracının hiçbir kusurunun olmadığı kanaatine varılmıştır. Olayın teknik boyutu bulunması nedeniyle mahkemece mali
 
@@ -103,25 +131,37 @@ müşavir, inşaat mühendisi ve nitelikli hesap uzmanı bilirkişisinden oluşa
 
 ## Antalya BAM 11. HD 2024/27 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/993577100)
+
 Davanın dayanağı sözleşme "mecra kiralama sözleşmesi" başlığını taşımaktadır. Mahkemece sözleşmenin hukuki niteliğinin re'sen belirlenmesi gerekir. Davaya dayanak yapılan sözleşmenin incelenmesinde; davacı tarafça üçüncü kişilerden (..... ve diğer idari kurumlar...) temin ettiği yerlerde reklam panoları teşhir etme sözleşmesi olduğu, reklam panoları üzerinde her türlü işlem, fiili müdahale, reklam asma ve değişikliklerin sadece davacı tarafından yapılacağını, reklam verenin reklam panolarına hiçbir halde ve şekilde müdahalede bulunamayacağının belirtilmesi karşısında taraflar arasında kira sözleşmesi bulunmadığı, reklamın yayınlandığı iddia edilen yerlerin davacının kontrolünde olmadığı, her iki tarafın tacir olduğu ve ihtilafın ticari nitelikli olduğu gözetilerek asliye ticaret mahkemesinin görevli olması nedeniyle (aynı yöndeki içtihat için bknz Yargıtay 23. Hukuk Dairesi'nin 09/10/2019 tarih 2017/149 Esas, 2019/4143 Karar sayılı ilamı) yargılamaya devam edilerek tarafların delilleri toplanıp esas hakkında karar vermesi gerekirken yanılgılı değerlendirme ile görevsizlik kararı verilmesi hatalı olduğundan davacı vekilinin istinaf talebinin yerinde olduğu anlaşılmıştır.
 
 ## Konya BAM 6. HD 2024/117 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/996591300)
 
 Somut olayda, taraflara arasında 27.07.2017 tarihli Transatlantik Hotel Kira Sözleşmesi'nden kaynaklı kira ilişkisi bulunduğu, takibe ve davaya konu alacak talebinin, davalı kiralayanın sorumluluğunda olan mali yükümlülüklerin yerine getirilmediği iddiasına dayalı olarak, tahakkuk eden ve davacı tarafça ödenen vergi cezalarının davalıdan rücuen tahsiline ilişkin olduğu, alacak talebine ilişkin uyuşmazlığın taraflar arasında bulunan kira ilişkisinden kaynaklandığı, kira ilişkisinden doğan alacak davaları da dahil olmak üzere tüm uyuşmazlıkları konu alan davalar ile bu davalara karşı açılan davalara bakmakla görevli mahkemenin Sulh Hukuk Mahkemesi olduğu kanaatine varıldığından, davacı vekilinin istinaf talebinin HMK'nın 353/1.b.1 maddesi gereğince esastan reddi gerektiği sonuç ve kanaatiyle aşağıdaki şekilde hüküm kurulmuştur.
 
 ## Konya BAM 3. HD 2023/3015 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/976984100)
+
 Bu halde somut olayda davalı büyükşehir belediyesi ile dava arasında kira sözleşme ilişkisinin varlığının sabit olmasına göre,kira aktinin tarafı olmayan davalı meram belediyesinden de munzam zararın tazmini talebinin olmasına göre, davada asıl çözümlenmesi gereken ve tartışılması gereken hususun kira sözleşmesine aykırılık kapsamında bulunmasına, Davacının dayandığı vakıaya göre uyuşmazlığın, aralarındaki 29.01.2013 tarihli kira sözlemesindeki düzenlemelere ve kira hukukuna göre çözülmesi gerektiği anlaşıldığından HMK m. 4/1.a, 114/1.c ve 115/2 uyarınca mahkemenin Sulh Hukuk Mahkemesine görevsizlik kararı vermesi gerekirken, davaya bakması isabetsiz olup, görev kamu düzenine ilişkin hususlardan olup re'sen gözetilmesi gerektiğinden dolayı, su sebeple davacının istinafının kabulü ile kararın kaldırılarak mahkemesine gönderilmesi gerekmiştir.
 
 ## İstanbul BAM 54. HD 2023/2558 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/981694900)
 
 GEREĞİ GÖRÜŞÜLDÜ DÜŞÜNÜLDÜ; İstinaf isteminde usul işlemleri tamam olduğundan, ilk derece mahkemesinin dosyasındaki bütün belgeler ve dosya hakkındaki dairemiz üyesince düzenlenen rapor incelendi, istinaf başvuru dilekçesinin ve davanın esası istinaf dilekçesinde belirtilen sebeplerle sınırlı olarak yapılan inceleme sonunda dosyada dairemizce karar verilmesi için eksiklik bulunmadığı anlaşıldı. İstinaf sebepleri: Davalı vekili süresinde sunduğu istinaf başvuru dilekçesinde; Dava dilekçesi tebliğ edilmeden görevsizlik kararı verildiğini, savunma hakkının kısıtlandığını, tahliye taahhüdünün yok hükmünde olup olmadığı iddiasının Bakırköy 12. Sulh Hukuk Mahkemesi'nin 2023/31 E. 2023/279 K. Sayılı dosyasında tartışıldığını ve davanın kabulü ile kiracının mecurdan tahliyesine karar verildiğini, dava dilekçesinin tebliği ile sunulacak cevap dilekçesinde davacının kötü niyetli olduğuna ve davacının iddiaların derdest olan başka bir dosyadan irdelendiğinin anlaşılacağını belirterek, kararın kaldırılmasına karar verilmesini talep etmiştir.
 
 ## İzmir BAM 23. HD 2023/2404 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/981997700)
+
 Somut olayda, davacı taraf 20.06.2012 tarihli kira sözleşmesine dayanarak yoksun kalınan kazanç için maddi taminat isteminde bulunmuştur. İddianın ileri sürülüş biçimine göre uyuşmazlık taşınmaz kira sözleşmesinden kaynaklanmaktadır. Kira sözleşmesinden kaynaklanan uyuşmalıklarda -tarafların sıfatına bakılmaksızın- Sulh Hukuk Mahkemesi görevli olduğundan ( Yargıtay 3. HD : 2017/6489 esas, 2017/17063 karar), davanın açıldığı asliye ticaret mahkemesince görevsizlik kararı verilmesi doğrudur.
 
 ## İstanbul BAM 44. HD 2023/1591 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/978600200)
 
 Madde ve taraflar arasındaki sözleşmeye göre de davalının ayıplı maldan sorumlu olmadığının düzenlendiği anlaşılmakla, Batman Sulh Hukuk Mahkemesindeki davanın bekletici mesele yapılmamasında usul ve yasaya aykırılık görülmemiştir.Dosyaya sunulan deliller birlikte değerlendirildiğinde, davalı kiracının finansal kiralama sözleşmesinde belirtilen ödeme tablosu dahilinde kira bedelini ödemediği, 6361 sayılı Kanun 23/1.maddesi uyarınca finansal kiralama konusu malın mülkiyetinin kiralayana ait olduğu, yine 6361 sayılı Kanun’un 33/1maddesi hükmüne nazaran da sözleşmenin kiralayan tarafından feshi
 
@@ -129,21 +169,31 @@ halinde kiracı malı iade ile yükümlü olduğu, 6361 sayılı Kanun’un 24/6
 
 ## İzmir BAM 23. HD 2023/2259 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/971749800)
+
 6100 sayılı HMK'nın 2. ve devamı maddeleri gereğince Asliye Hukuk Mahkemelerinin asıl, Sulh Hukuk Mahkemelerinin ise istisnai görevli mahkemeler olduğu, Kanunlarda açıkça Sulh Hukuk Mahkemelerinde görülüp sonuçlandırılacağı belirtilmeyen uyuşmazlıkların çözüm merciinin Asliye Hukuk mahkemeleri olduğu ve aynı kanunun 4/1-a maddesine göre "Kiralanan taşınmazların, 09/06/1932 tarihli ve 2004 sayılı İcra ve İflas Kanununa göre ilamsız icra yoluyla tahliyesine ilişkin hükümler ayrık olmak üzere, kira ilişkisinden doğan alacak davaları da dahil olmak üzere tüm uyuşmazlıkları konu alan davalar ile bu davalara karşı açılan davalarda" Sulh Hukuk Mahkemesinin görevli olduğu belirtilmiştir.
 
 ## İstanbul BAM 55. HD 2023/765 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/978132900)
 
 Görev itirazı yapılmamış olsa bile re'sen mahkeme, ilk önce görevli olup olmadığını inceleyip karara bağlamalıdır.Somut olayda, davacının ... kullanım hakkını 1 yıllığına davalı firmaya devrettiğini belirterek 2019-2020 sezonu ... loca 1 adet koltuk kullanım bedeli için düzenlediği faturaya ilişkin takip yaptığı, taraflar arasındaki temel ilişki kira sözleşmesine dayandığından HMK'nun 4/1-a maddesine göre Sulh Hukuk mahkemesi görevli olduğu, hal böyle olunca ilk derece mahkemesince; görevsizlik nedeniyle HMK’nın 114/1-e ve 115/2 maddeleri uyarınca davanın usulden reddine karar verilmesi gerekirken, davanın esası hakkında hüküm kurulmuş olması usul ve aykırı olduğundan davacı ve davalı vekilinin istinaf başvurularının değişik gerekçe ile sair istinaf sebepleri incelenmeksizin kabulü ile kararın kaldırılması gerekmiştir.Dairemiz ilk derece mahkemesi kararını hem maddi olay, hem de hukuka uygunluk bakımından incelemeye tabi tutarak tespit edilen yargılama hatalarını bizzat düzeltmek amacıyla yapılan inceleme sonunda; duruşma yapılmasına gerek olmadığı, mahkemece Sulh Hukuk Mahkemesine görevsizlik kararı verilmesi gerekirken işin esasına girilerek bir karar verilmiş olması sebebiyle,
 mahkeme kararının yerinde olmadığı, istinaf sebebi değişik gerekçe ile yerinde olduğundan sair istinaf sebepleri incelenmeksizin HMK 353/1-a/3 maddesi gereğince ilk derece mahkemesi kararının kaldırılmasına karar vermek gerekmiştir.
 
 ## Ankara BAM 22. HD 2023/1611 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/977400100)
+
 Davacı kiralayan tarafından, kiralamaya konu jeneratör kira bedeli ile jeneratörün teslim edilmemesi nedeniyle mal bedelinin tahsili için girişilen icra takibine vaki itirazın iptali davasına ilişkindir. Talep zilyetlik hükümlerine göre talep edilmiş ise de taraflar arasında kiracı ve kiraya veren sıfatı ile kira ilişkisi bulunmaktadır. Uyuşmazlığın temeli kira ilişkisinden kaynaklandığına göre 6100 Sayılı HMK.nun 4/1-a maddesine göre davada Sulh Hukuk Mahkemesi görevlidir. Görev dava şartı olup yargılamanın her aşamasında hakim tarafından kendiliğinden gözönüne alınması gerekir. Mahkemece takibe konu kira alacağına yönelik talep bölünerek görevsizlik kararı verilmesi mal bedeline yönelik olarak ise işin esasına girişilmesi doğru olmamıştır.
 
 ## Konya BAM 6. HD 2023/2291 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/968117700)
+
 Talep konusu bonoda "... Sitesi F/1 giriş .....Mahallesi Kat:2 Daire:5 1 yıllık kira bedeli karşılığıdır'' ibaresinin bulunduğu, dosyada borçlu ile ...... arasında aynı daireye ilişkin olarak düzenlenen kira sözleşmesinin bulunduğu, ihtiyati haciz talep eden tarafından bu taşınmazın satın alındığı, talep konusu bononun kira sözleşmesinin teminatı olarak verildiği, bu nedenle görevli mahkemenin 6100 sayılı HMK'nın 4/1-a maddesi uyarınca sulh hukuk mahkemesi olduğundan (Yargıtay 19.Hukuk Dairesi'nin 20.12.2016 tarih 2016/2830 Esas 2016/16023 Karar ve Yargıtay 3.Hukuk Dairesi'nin 08.05.2017 tarih 2017/11573 Esas 2017/6693 Karar sayılı ilamları), mahkemenin görevli olmaması nedeniyle borçlunun ihtiyati hacze itirazının kabulü ile ihtiyati haciz talebinin usulden reddine karar verilmesi gerekirken itirazın reddine karar verilmesi usul ve yasaya uygun olmadığından ihtiyati hacze itiraz eden borçlunun istinaf başvuru talebinin kabulü ile; ilk derece mahkemesi kararının kaldırılmasına, HMK'nın 353/1.b.2.maddesi gereğince yeniden karar verilmesi gerektiği sonuç ve kanaatiyle aşağıdaki şekilde hüküm kurulmuştur.
 
 ## Ankara BAM 23. HD 2023/1857 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/967035100)
 
 Bu durumda İlk derece Mahkemesince, tarafların tacir oldukları ve TTK'nın 4. maddesi uyarınca davanın nispi ticari dava olduğu, buna göre de ticaret mahkemesinin görevli olduğu gözetilerek, uyuşmazlığın esasının incelenmesi ve sonucuna göre bir karar verilmesi gerekirken, kira sözleşmesinin 3/1. maddesi hükmü gözden kaçırılarak yazılı şekilde karar verilmesi doğru olmamıştır.

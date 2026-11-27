@@ -22,9 +22,13 @@ uyari: "Derleyenin seçtiği alıntılardır; kararın tamamı değildir. Künye
 
 ## Yargıtay 3. HD 2019/5091 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/525636100)
+
 Avukatlık Asgari Ücret Tarifesinin 9. maddesinde "Tahliye davalarında bir yıllık kira bedeli tutarı, **kira tespiti ve nafaka davalarında tespit olunan kira bedeli farkının veya hükmolunan nafakanın bir yıllık tutarı üzerinden tarifenin üçüncü kısmı gereğince hesaplanacak miktarın tamamı, avukatlık ücreti olarak hükmolunur**. Bu miktarlar, tarifenin ikinci kısmının ikinci bölümünde davanın görüldüğü mahkemeye göre belirlenmiş bulunan ücretten az olamaz." düzenlemesi yer almaktadır. **Bu durumda, davalı lehine vekalet ücretinin, davacının talep ettiği aylık brüt kira bedeli ile hüküm altına alınan aylık brüt kira bedeli arasındaki farkın bir yıllık tutarı üzerinden, Tarifenin üçüncü kısmı gereğince hesaplanması gerekmektedir**.
 
 ## Yargıtay 6. HD 2015/3359 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/147246000)
 
 Kira bedelinin tespiti davalarında; Avukatlık Asgari Ücret Tarifesi’nin 9 madde hükmü gereğince hükmedilen **aylık brüt kira ile son dönem ödenen brüt kira farkının bir yıllık tutarı üzerinden davacı yararına, davada talep edilen aylık brüt kira bedeli ile hüküm altına alınan aylık brüt kira bedeli farkının bir yıllık tutarı üzerinden davalı yararına vekalet ücreti hesaplanması** ve bu miktarların, Tarifenin ikinci kısmının ikinci bölümünde davanın görüldüğü mahkemeye göre belirlenmiş bulunan ücretten az olamayacağı dikkate alınarak sonucuna göre karar verilmesi gerekir.
 

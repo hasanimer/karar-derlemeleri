@@ -21,15 +21,21 @@ uyari: "Derleyenin seçtiği alıntılardır; kararın tamamı değildir. Künye
 
 ## Yargıtay HGK 2023/981 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/963022000)
+
 İstanbul Valiliği Defterdarlık Uzmanları Denetim Koordinatörlüğü tarafından irtifak hakkının amacına uygun olarak kullanılıp kullanılmadığı ve başkaca konular bakımından inceleme yapılmış ve 30.05.2014 tarih ve 2014/10 sayılı inceleme raporunda, Feyyaz Tokar Kültür Evi Binası içerisindeki sinema salonu ile eski tabiriyle Feriye Karakol Binası içerisindeki lokanta işletmesinin 17.01.1997 tarihli ve 2245 sayılı Maliye Bakanlığı Milli Emlak Müdürlüğü yazısı ile kira gelirinin % 25'inin Hazineye ödenmesi şartıyla üçüncü kişilere verilmesi uygun görüldüğünden bu bölümlerde yapılan faaliyetlerde herhangi bir aykırılığı bulunmadığı belirtilmiştir.
 İlgili raporun devam eden kısmında ise Feriye Karakol Binasının içindeki alanda yer alan lokanta işletmesinin sonradan bahçede inşa edilen ilave kapalı yemek salonları oluşturulmak suretiyle Hazineden izin alınmaksızın genişletildiği, bu sebeple sahil kenarında bulunan perforje iskelet ve camlı dış çerçeve yardımıyla inşa edilen ticari amaçla kullanılan iki adet demontable yapının irtifak hakkı sözleşmesinin 7 nci maddesine aykırı olarak onaylı projesinde yer almadığı gibi kültür ve sanat merkezi olarak kullanılmak üzere tesis edilen irtifak hakkının amacına da uygun olmadığı tespit edilmiştir. Raporda ayrıca bu aykırılığın devam etmesi hâlinde irtifak hakkının sözleşme hükümlerine aykırı davranılması, amaç dışı kullanılması sebebiyle iptal edilmesi gerektiği yönünde görüş bildirilmiştir.
 
 ## Yargıtay HGK 2022/1345 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/847924900)
+
 42\. 5393 sayılı Belediye Kanunu’nun (5393 sayılı Kanun) “Amaç” kenar başlıklı 1. maddesi “Bu Kanunun amacı, belediyenin kuruluşunu, organlarını, yönetimini, görev, yetki ve sorumlulukları ile çalışma usûl ve esaslarını düzenlemektir” şeklindedir. 5393 sayılı Kanunun 14. maddesinde belediyelerin görev ve sorumlulukları; 15. maddesinde belediyelerin yetkileri ve imtiyazları düzenlenmiştir.
 “Gelecek yıllara yaygın hizmet yüklenmeleri” başlıklı 67. maddede ise “Belediyede belediye meclisinin, belediyeye bağlı kuruluşlarda yetkili organın kararı ile park, bahçe, sera, refüj, kaldırım ve havuz bakımı ve tamiri; ... kiralama, kontrollük, temizlik, güvenlik ve yemek hizmetleri; makine-teçhizat bakım ve onarım işleri; bilgisayar sistem ve santralleri ile elektronik bilgi erişim hizmetleri; sağlıkla ilgili destek hizmetleri; fuar, panayır ve sergi hizmetleri; baraj, arıtma ve katı atık tesislerine ilişkin hizmetler; kanal bakım ve temizleme, alt yapı ve asfalt yapım ve onarımı, trafik sinyalizasyon ve aydınlatma bakımı, sayaç okuma ve sayaç sökme-takma işleri ile ilgili hizmetler; toplu ulaşım ve taşıma hizmetleri; sosyal tesislerin işletilmesi ile ilgili işler, süresi ilk mahallî idareler genel seçimlerini izleyen altıncı ayın sonunu geçmemek üzere ihale yoluyla üçüncü şahıslara gördürülebilir” hükmü mevcuttur.
 
 ## Yargıtay HGK 2022/841 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/790212700)
 
 40\. 167 sayılı Kanun’un 3. maddesinde yeraltı suyu işletme sahalarının nasıl kabul ve ilan edileceği belirlendikten sonra 4. maddesinin birinci ve ikinci fıkralarında ilan edilen
 
@@ -37,10 +43,14 @@ sahalarda açılacak kuyuların sayısı, yerleri ve özellikleri ile çekilecek
 
 ## Yargıtay HGK 2022/386 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/784786100)
+
 Yukarıdaki açıklamalar ışığında somut olay değerlendirildiğinde; taraflar arasında 01.02.2012 tarihinde kurulan kira ilişkisi bulunduğu, davacı tarafından kiralanan yerin belediye tarafından imara aykırılık nedeniyle 06.08.2012 tarihinde mühürlendiği, 08.08.2012 tarihinde yine belediye görevlilerince mührün açılarak taşınmazın sahibine teslim edildiği, davacı ...’de kalan anahtarların 12.11.2012 tarihinde notere teslim edildiği ve buna ilişkin ihtarnamenin davalıya 14.11.2012 tarihinde tebliğ edildiği, davalı tarafından davacıya karşı açılan Ankara 3. İcra Mahkemesinin 2013/45 E. sayılı itirazın kaldırılması ve tahliye davası sırasında 31.05.2013 tarihinde tahliye işleminin gerçekleştiği hususlarında çekişme bulunmamaktadır.
 Anılan tespitlerin yanında her ne kadar direnme kararında, Ruhsat Denetim Müdürlüğünce yapılan 25.09.2012 tarihli denetimde davaya konu taşınmazda başka bir şirketin satış yeri olarak faaliyette bulunduğunun tespit edildiğinden bahsedilmişse de, taşınmazın davalı tarafından 31.05.2013 tarihinde tahliye edildiği ve davacının imzasını inkâr etmediği 16.08.2013 tarihli tutanak dikkate alındığında davacının kiralananı bu tarihlere kadar boşaltmadığı, taşınmazda davacıya ait çeşitli eşyanın bulunduğu anlaşıldığından 25.09.2012 tarihli tutanağa itibar etmenin mümkün olmadığı sonucuna varılmıştır.
 
 ## Yargıtay HGK 2021/1368 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/729289300)
 
 Tüm bu açıklamalar kapsamında somut olaya bakıldığında; davacı İEM Çelik Gıda Turizm San. ve Tic. Ltd. Şti. ile davalılar ... İnş. Müh. Tekstil San. ve Tic. Ltd. Şti. ve ... İnşaat Petrol Ürünleri Tur. San. ve Tic. Ltd. Şti. arasında davalı şirketlere ait olan gayrimenkullerle ilgili olarak 01.03.2007 tarihli ve beş yıl süreli kira sözleşmesi imzalandığı, sözleşmeye göre kiralananın hipermarket olarak kullanılacağı, davacı şirket tarafından 2007 yılının Mart ve Nisan ayı kira bedellerinin davalı şirketlere, Mayıs ayı kira bedelinin ise davalı ... ve arkadaşlarına ödendiği, sözleşmenin düzenlenmesinden sonra davacı şirketin kiralananda gerekli düzenlemeleri yapmaya başladığı, kendilerine depo olarak gösterilen yerde soğuk oda yaptırıldığı, hipermarket olarak kullanımın gerektirdiği elektrik ve havalandırma tesisatı monte işlerine başlanıldığı, taşınmazın mimari projesinin ve iskân durumunun Beylikdüzü Belediye Başkanlığından sorulduğu, verilen cevabi yazılarda taşınmazın iskân
 
@@ -50,9 +60,13 @@ kira sözleşmesini feshinin geçerli olduğunun tespitine, müvekkili tarafınd
 
 ## Yargıtay HGK 2019/148 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/498902100)
+
 Bu hüküm, esasen 2886 sayılı Kanun ile Hazine tarafından kiraya verilen taşınmazlara ilişkin olmakla birlikte; 13.07.2005 tarihinde yürürlüğe giren 5393 sayılı Belediye Kanunu’nun 15. maddesinin 3. fıkrasının 2. cümlesinde, 2886 sayılı Kanun’un belediye taşınmazları hakkında da uygulanacağı hükme bağlanmıştır. Buna göre belediyelere ait taşınmazların kira sözleşmelerinde de, 2886 sayılı Kanun'un 75. maddesi hükümleri uygulanacaktır.
 
 ## Yargıtay HGK 2015/1160 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/113496200)
 
 Somut olayda; Kadıköy Belediyesi’nin 07.06.1991 tarihli kararı ile 20 yıl süre ile taşınmaz sportif faaliyetlerde kullanılmak üzere davacı kulübe tahsis edilmiş, Şartnamenin 14.maddesine göre tahsis edilen yeri kısmen veya tamamen başkasına devredilemeyeceği, kiraya verilemeyeceği ve kullandırılamayacağı, 19.maddesine göre, Şartnamenin herhangi bir maddesine uyulmaması halinde tahsisin belediyece tek taraflı iptal edileceği kararlaştırılmıştır. Kadıköy Belediye Başkanlığı'nın 12.12.2011 tarihli cevabi yazısında; tahsise ilişkin kararın 23.01.1996 tarih ve 16/20 sayılı encümen kararı ile iptal edildiği bildirilmiştir. Dava konusu taşınmaz malikleri Suudi Arabistan uyruklu olup kimlikleri ve nerede oldukları belli olmadığından Kadıköy 2. Sulh Hukuk Mahkemesinin 25.12.2001 gün ve 2001/892 E. sayılı dosyası ile İstanbul Defterdarı taşınmazın idaresi ve gerektiğinde kiraya verilmesi için kayyım olarak atanmıştır. Davacı ile davalı arasında 07.11.2009 başlangıç tarihli ve iki yıl süreli kira sözleşmesi yapılmış, Kayyım Bürosu Başkanlığı’nın 17.08.2010 tarihli ihtarnamesi ile davalı kiracıdan ecrimisil talebinde bulunulmuş, davalı talep edilen ecrimisil bedellerini ödemiştir.
 Davacı tarafından davalıya gönderilen
@@ -61,14 +75,20 @@ Davacı tarafından davalıya gönderilen
 
 ## Yargıtay HGK 2010/145 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/76730100)
+
 Maddede sözü edilen umuma ait yerler için açıkça izin keyfiyetinden söz edilmekte olup; taraflar arasındaki ilişki bu anlamda bir izinden değil kira sözleşmesinden kaynaklanmaktadır. Kaldı ki 1580 sayılı Kanun, 07/12/2004 Tarih ve 5272 sayılı Belediye Kanununun m. 87/a maddesi ile yürürlükten kaldırılmış; ardından 03.07.2005 tarih ve 5393 sayılı Kanunun 85/f maddesi ile de bu kanun mülga edilmiştir. İşlem ve dava tarihi itibariyle ve halen 5393 sayılı Belediye Kanunu yürürlüktedir.
 
 ## Yargıtay HGK 2007/810 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/76805900)
 
 Davaya dayanak yapılan 1.5.2000 başlangıç tarihli ve 10 yıl süreli sözleşme davacı dernek ile davalı şirket arasında düzenlenmiştir. Kira sözleşmesi yapan kiralayanın mutlaka malik olması gerekmez. Hazine tarafından Ankara 20. Asliye Hukuk Mahkemesinde 2000/718-648 sayılı dosya ile açılan davada kiralayan olan derneğin kiracıdan tahsil ettiği kira bedelinin tahsiline ilişkindir. Bu dava dosyasında Hazine, davacı dernekle davalı T.Parekende Mağazacılık A.Ş arasında yapılan sözleşmenin feshini istemediği gibi aktin fesih edildiğine dair bir kararda yoktur. Taşınmazın bilahare Milli Emlak Müdürlüğünce ihaleye çıkarılarak davalı tarafından ihale sonucu yeniden 16.3.2001 başlangıç tarihli beş yıl süreli sözleşme yapılması önceki sözleşmenin iptal edildiği anlamına gelmez. Bu nedenle taraflar arasında düzenlenen 1.5.2000 başlangıç tarihli ve 10 yıl süreli sözleşme iptal edilmeyip hala geçerliliğini muhafaza etmekte olduğundan sözleşme hükümleri tarafları bağlar.
 Yargıtay Hukuk Genel Kurulunun 31.3.2004 gün ve 2004/6-197-2004/186 sayılı ilamında da benimsenen Dairemiz uygulamalarına göre cami yaptırma derneklerinin kiralama yetkileri bulunduğundan işin esasının incelenerek sonucuna göre bir karar vermek gerekirken yazılı şekilde davanın red edilmesi doğru olmadığından hükmün bozulması gerekmiştir...) gerekçesiyle bozularak dosya yerine geri çevrilmekle, yeniden yapılan yargılama sonunda; mahkemece önceki kararda direnilmiştir.
 
 ## Yargıtay HGK 2006/555 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/77005000)
 
 Tarafların karşılıklı iddia ve savunmalarına, dosyadaki tutanak ve kanıtlara,bozma kararında açıklanan gerektirici nedenlere ve özellikle; 3402 sayılı Kadastro Kanunu’nun 19. maddesinin 1. fıkrasında “Tapuda kayıtlı taşınmaz malın zilyet lehine tespitinde, mevcut ve her türlü takyit ile sınırlı ayni haklar saklı tutulur. Eski tapu kayıtlarındaki bu tür hak ve mükellefiyetler, kadastro tutanağında belirtilerek yeni kütüklere aynen geçirilir.”; 2. fıkrasında ise “Taşınmaz mal üzerinde malikinden başka bir kimseye veya paydaşlarından birine ait muhdesat mevcut ise bunun sahibi, cinsi, ihdas tarihi ve iktisap sebebi belirtilerek tutanağın ve kütüğün beyanlar hanesinde gösterilir.”hükmüne yer verilmiş olmasına; somut olayda, kira tespiti istemine konu, dava dışı Hazine adına tapuya kayıtlı, İstanbul, ...., Aşağı
 
@@ -77,9 +97,13 @@ T..’ın, davalı ile arasındaki 1.12.1994 başlangıç tarihli kira sözleşm
 
 ## Yargıtay HGK 2005/613 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/76984400)
+
 Öte yandan, davalı şirket ile dava dışı kiralayan arasındaki 1.1.1997 başlangıç tarihli kira sözleşmesinin Özel Şartlar Bölümünde yer alan 2. maddede “Odabaşı, Belediye masrafları kiracıya aittir.” şeklinde hüküm mevcut olup, sonraki yıllarda yenilenen kira sözleşmelerinde de aynı hükmün yer aldığı, sunulan sözleşme örneklerinden anlaşılmaktadır. Yine, dosyaya sunulan, aynı işhanındaki başka dükkanlarla ilgili, üçüncü kişiler arasındaki kira sözleşmelerinde de, odabaşı ücretinin kiracı tarafından ödeneceğine dair hükümler yer aldığı görülmektedir.
 
 ## Yargıtay 3. HD 2026/292 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1198256600)
 
 Taraflar arasında imzalanan 05.02.2016 tarihli ve 10 yıl süreli "... Belediyesi Reklam Üniteleri Kira Sözleşmesi"nin (3.) maddesinde sözleşmeye konu iş, "... Belediyesi sınırları içerisinde muhtelif yerlerinde bulunan mevcut reklam ünitelerinin kaldırılması ve teknik şartnamede özellikleri belirtilen yeni reklam ünitelerinin temini, montajı, bakım ve onarımı karşılığında işletme hakkının 10 (on)yıl müddetle kiraya verilmesi işi" olarak tanımlanmış olup, sözleşmenin (11.11) maddesi "Belediye halihazırda ruhsatsız, ihalesi yapılmamış ve izni alınmamış, Belediyenin hüküm ve tasarrufunda bulunan alanlarda ticari reklam satışı amacıyla kurulmuş olan tüm açıkhava reklam materyallerini kaldıracak olup, süresi dolanların ve dolacakların süresini uzatamaz ve ihaleye konu reklam ünitelerinin 300 metre yakınına hiçbir şekilde reklam ünitelerini koyamaz. Bu ihale süresince kent mobilyaları ve açıkhava reklamcılığı işi ile ilgili ihale yapamaz" düzenlemesini, (11.15) maddesi "Müşteri, tüm reklam ünitelerinin %10 unun belediye tarafından kullanımına izin verir. Belediye kendisine ayrılan kısmın kullanıı konusunda müşteri ile karşılıklı mutabakata varır.
 Belediye kendisine ayrılan %10 luk kısmı hiçbir şekilde ticari amaçla kullanamaz. (Reklam satışı yapamaz) Müşteri idarenin %10 luk payını reklam ünitelerinin bulunduğu konumlara göre eşit dağıtır." hükmünü içermektedir. Bahsi geçen sözleşme hükümlerinden anlaşılacağı üzere sözleşme, Belediyenin hüküm ve tasarrufu altında bulunan reklam ünitelerine
@@ -88,13 +112,19 @@ ilişkindir. Davalı tarafından idari işlem niteliğinde olmak üzere; dava d�
 
 ## Yargıtay 3. HD 2025/4303 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1177100700)
+
 Taraflar arasındaki sözleşmenin (6.1.) maddesinde, "Bu süre Sözleşme'ye konu otobüs ve hatların tespiti ile uygulama ve söküm için belirlenen alanı Yükleniciye tahsis ve teslim tarihini takip eden ayın birinden itibaren başlar. İşletme süresi 10 yıl olup kira süresi sonunda kira sözleşmesi her yıl yeniden uzatılır, kiralar yine aylık olarak tahsil edilir. ", 17. maddesinde, "Sözleşme imzalandıktan sonra yapılacak tüm yazışmalarda ihalede bildirilen adres, tebligat adresi olarak kabul edilecektir. Belediyece, noter ya da zabıta birimlerince yapılacak tebligatlarda bu adres göz önünde bulundurulacak olup tebligatın alınmasından imtina edilmesi halinde, Tebligat Kanunu'nun 21. maddesine göre tebligat yapılacaktır. Yüklenici tebligat adresinin değişmesi halinde, adres değişikliğini Belediye'ye bildirmek zorundadır. Aksi halde önceki adreslerine yapılan tebligat yapılmış sayılır. " kararlaştırılmış olup, davalı tarafça davacıya gönderilen 29.07.2021 tarihli sözleşmenin süresinin uzatılmayacağına ilişkin ihtar, davacının sözleşmede belirtilen adresine gönderilmiş ise de, adresten ayrılmış/taşınmış açıklaması ile iade olduğu anlaşılmıştır.
 
 ## Yargıtay 3. HD 2025/4226 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1175764800)
+
 Somut olayda; taraflarca imzalanan 08.06.2015 tarihli üç yıl süreli iş yeri kira sözleşmesinin eki şartnamenin 20. maddesinde "kiracı tarafından kiralanana yapılan her türlü harcama ve giderler (tadilat, dekorasyon, v.b.) kira bedeline karşılık tutulamaz. Takas edilemez. Sözleşmenin herhangi bir sebeple sona ermesi halinde hiç bir şekilde talep edilemez. Belediyenin tasarrufuna bedelsiz bırakılır..." ve 21. maddesinde "Kiralanan yerin içinde ve dışında Belediyeden yazı ile müsaade alınarak yapılacak yerli tesisat, tertibat ve teferruat için bir masraf ve teminat istemeye kiracının hakkı olmayacağı gibi süre bittiğinde noksansız ve bedelsiz Belediyeye terk olunacaktır." hükmü bulunmaktadır.
 
 ## Yargıtay 5. HD 2025/11302 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1175880600)
 
 Bozma kararında davacı tarafa, emsal kira sözleşmelerini ibraz etmesi için süre verilerek, ya da resen Belediye, Maliye gibi kurumlardan kira sözleşmesi olup olmadığının araştırılması bu sözleşmelere göre ecrimisil belirlenmesi gerektiğine değinilmiş; ancak mahkemece sadece Belediye'ye müzekkere yazılmak ve davacıya süre vermekle yetinilmiş olup, ilçede bulunan Mal Müdürlüğü, Çevre, Şehircilik ve İklim Değişikliği Bakanlığının varsa İlçe Müdürlüğü, bulunmaması halinde en yakın ilçe ve il Müdürlüğünden, ayrıca herhangi bir kira sözleşmesinin tarafı olup olmadığı ilçedeki diğer resmî kurumlardan
 
@@ -102,14 +132,20 @@ sorularak sonucuna göre hüküm kurulması gerekirken eksik inceleme ile sadece
 
 ## Yargıtay 4. HD 2024/8425 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1152089900)
+
 Öte yandan, dava konusu tasarrufun, ... nolu işyeri kiracısı olan davalı (borçlu) tarafından işyerinin kiracılık hakkının devri olarak düşünülmesi halinde ise; taşınmazın kiralanmasına ilişkin sözleşmeler, kiracılık ilişkisinden doğan kişisel haklar sözleşmenin tarafı olmayan kişilere karşı ileri sürülemeyeceğinden ancak tapu siciline şerh verilmesi halinde tasarrufun iptali davasına konu olabilirler. Somut olayda; davacı; davalı borçlu.... Ltd. Şti.'nin İstanbul Bayrampaşa Hali No:...'de kayıtlı iş yerini davalı 3.kişi ... Ltd.Şti'ye devretmesine dair işlemin iptalini talep etmiş olup, davalı borçlu şirketin bu işyerinde mülkiyet hakkı değil, yalnızca kiracılık hakkının bulunduğu anlaşılmaktadır.
 İstanbul Büyükşehir Belediye Başkanlığı'nın 27.09.2019 tarihli yazı cevabına göre; dava konusu dükkanın, mülkiyet ve tasarruf hakkının İstanbul Büyükşehir Belediye'sine ait olduğu, davalının sözü geçen yerde kiracı olduğu, kira sözleşmesinin 25.12.2013 başlangıç tarihli ve 1 yıl süreli olarak davalı ve dava dışı İstanbul Büyükşehir Belediye Başkanlığı arasında düzenlenmiş olduğu, kiracının, işyerini bizzat kullanmakla yükümlü olup, belediyenin izni olmadan devredemeyeceğinin kararlaştırıldığı, kiracı olan davalının, sözleşmeden kaynaklı ve sadece İstanbul Büyükşehir Belediye Başkanlığı'na karşı ileri sürebileceği şahsi hakkının bulunduğu, davalı ... Ltd. Şti. ile yapılan kira sözleşmesinin de dava dışı İstanbul Büyükşehir Belediye Başkanlığı tarafından yapıldığı, söz konusu kira sözleşmesinin tapu siciline de şerh verilmediği, bu durumda davalı borçlu ... Ltd. Şti. tarafından yapılmış iptale tabi bir tasarruf işleminin de söz konusu olmadığı anlaşıldığından davanın reddine karar verilmesi gerekirken Bölge Adliye Mahkemesince yazılı olduğu üzere davanın kabulüne karar verilmesi doğru görülmemiştir.
 
 ## Yargıtay 3. HD 2024/637 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1019374400)
+
 Şartnamenin 13. maddesinde, "...Hiçbir şekilde bina içinde ve dışında ana plan üzerinde değişiklik yapamaz, ayıramaz, birleştiremez, ancak gerek görüldüğü zaman veya zaruri ihtiyaç halinde Belediyemizden yazılı onayını almak suretiyle kalite ve vasıfları projesine uygun olmak şartı ile değişiklik ve tadilat yapabilir. Müstecir yaptığı bu işler için Belediyemizden bir ücret talep edemez, kira süresi bittiğinde yaptığı yerleri yıkamaz. Kira süresinin bitiminde bedelsiz olarak Belediyemize bırakacaktır. "; 30. maddesinde, " Tesislerin (5) beş senede bir genel bakım ve onarımı, iç dış boyaları dahil müstecir tarafından yapılacaktır. Bundan dolayı belediyeden hiçbir ücret talep etmeyecektir. "; 34. maddesinde, "Şartnamede düzenlenen konular kiracı ile Belediye arasında yapılacak sözleşmede yer alacak asgari hususlar olup, konu ile ilgili olabilecek diğer hususlara sözleşmede ve eklerinde yer verilecektir." hükümlerine yer verilmiştir.
 
 ## Yargıtay 6. HD 2024/501 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1006404300)
 
 Bu durumda mahkemece, taraf teşkili sağlanıp, öncelikle ilgili Belediye Başkanlığı’na müzekkere yazılarak, dava konusu inşaata ... kullanma izin belgesi (iskan) verilmesinin mümkün olup olmadığı, verilmesi mümkün ise bunun koşulları ve yapılması gereken
 
@@ -117,20 +153,28 @@ işlemlerin nelerden ibaret olduğunun sorulması, iskan alımı için ödenmesi
 
 ## Yargıtay 3. HD 2023/3293 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/985477300)
+
 Cumhurbaşkanı kararı ile 32 sayılı kararda yapılan değişiklik ile gerekli düzenlemelerin yapılmasında yetkili kılınan Hazine ve Maliye Bakanlığı tarafından hazırlanarak 06/10/2018 tarihli ve 30557 sayılı Resmi Gazete'de Türk Parası Kıymetini Koruma Hakkında 32 Sayılı Karara İlişkin Tebliğ (Tebliğ No: 2008-32/34)’de Değişiklik Yapılmasına Dair Tebliğ (Tebliğ No: 2018-32/51) yayımlanmıştır. Bakanlığın bu tebliği ile Türk Parası Kıymetini Koruma Hakkında 32 sayılı Karara ilişkin 2008-32/34 sayılı (Hazine ve Maliye Bakanlığının) tebliğinin 8 inci maddesi "Döviz Cinsinden ve Dövize Endeksli Sözleşmeler" başlığı ile birlikte yeniden düzenlenmiştir. Anılan maddenin değiştirilen (2) numaralı fıkrası; "Türkiye’de yerleşik kişiler; kendi aralarında akdedecekleri, konusu serbest bölgeler dahil yurt içinde yer alan gayrimenkuller olan, konut ve çatılı ... yeri dâhil gayrimenkul kiralama sözleşmelerinde sözleşme bedelini ve bu sözleşmelerden kaynaklanan diğer ödeme yükümlülüklerini döviz cinsinden veya dövize endeksli olarak kararlaştıramazlar,";…
 
 ## Yargıtay 3. HD 2023/3049 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/995688400)
 
 Bozmaya uyan Mahkemece verilen 23.03.2016 tarihli ve 2015/157 E., 2016/100 K. sayılı kararla; tarafların ... Belediyesinden bazı cadde ve sokakların saatli ve ücretli otopark ihalesi işini yüklenerek 1/3 oranında kâr paylaşımlı adi ortaklık kurdukları, ...
 Belediyesi ile 01.08.2010 – 31.07.2011 tarihleri arasını kapsayan aylık kira bedeli 8.501,00 TL olan kira sözleşmesini imzaladıkları ancak ortaklığın 07.03.2011 tarihinde sona erdiği, bu tarihe kadar ortaklık adına davacının bizzat 4.590,57 TL (her bir ortak adına da 1.530,19 TL) ödediği ve bu sebeple de davacının her bir davalıdan 1.530,19 TL talep edebileceği, davalılar arasında müştereken ve müteselsilen sorumlu olmayı gerektirir bir durum bulunmadığından davacının bu talebinin yerinde olmadığı, adi ortaklık sona erdikten sonra otoparkı çalıştırmaya davacı devam ettiğinden davalıların sebep olduğu kazanç kaybı olmadığı, adi ortaklık sözleşmesi kurulduğundan davacı tarafından ortakların ortaklığı sürdürme yükümlülüklerinin olduğunun ispat edilemediği ve işletme de davacıya bırakıldığından işlerinin bozulması nedeniyle davacının çektiği sıkıntılarda davalıların kusurunun bulunmadığı gerekçesiyle; davanın kısmen kabulü ile 1.530,19 TL'nin 11.02.2013 tarihinden itibaren işleyecek yasal faizi ile birlikte davalıdan tahsiline, fazlaya dair istem ile manevi tazminat isteminin reddine karar verilmiş; karara karşı, süresi içinde davacı vekili temyiz isteminde bulunmuştur.
 
 ## Yargıtay 4. HD 2023/8400 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/947859100)
+
 Somut olayda; Daire bozma ilamından sonra aldırılan karara esas alınan 20.01.2020 tarihli heyet raporunda; yangının meydana geldiği binada kullanım izin belgesinin (iskan) bulunmaması, projede kiralanan yer otopark ve sığınak olduğu halde depo olarak davalı tarafa kiralanması, Binaların Yangından Korunması Hakkındaki Yönetmelik uyarınca bulunması gereken sprink (yağmurlama) sisteminin mevcut olmaması ve bu nedenlerle ... kullanma izni almadan, yürürlükteki mevzuata uygun yangın güvenliği önlemleri alınmadan kiralanan taşınmaz bakımından davacı ... sahibinin 2/8 oranında, davalı kiracıların yapıya iskan izni almadan yürürlükteki mevzuata uygun yangın güvenliği önlemleri alınmadan ... yerini açıp gerekli bildirimleri yapmamak suretiyle 4/8 oranında, davalılara ait ... yerinin mevzuata aykırı olarak açılıp işletilmesini denetlemeyen binanın bağlı bulunduğu Belediyenin de 2/8 oranında kusurlu olduğu tespit edilmiştir. Mahkemece asıl davada davacı ... sahibinin 2/8 kusuru düşülerek 6/8 kusur oranında zarara hükmedilmiş olması isabetli ve yerindedir.
 Ne var ki asıl davada müteselsil sorumluluk ilkesi gözetilerek dava dışı Belediyenin 2/8 oranındaki kusuruna davalı kiracıların 4/8 oranındaki kusuru eklenmiş ve 6/8 oranındaki zarar miktarından davalılar sorumlu tutulmuş ise de ... ile ... Gıda Paz. San. ve Tic. A.Ş.'nin açmış olduğu 2. karşı davada müteselsil sorumluluk ilkesi gözetilmeksizin dava dışı Belediye kusurunun kiracıları ilgilendirdiği ve onların kusuruna eklenmesi gerektiği gerekçesi ile sadece davacı/karşı davalı ... sahibinin 2/8 kusuruna tekabül eden zarara hükmedilmesi, yine aynı değerlendirme ve gerekçe ile sigorta şirketinin açmış olduğu 1. karşı davada da sadece davacı/karşı davalı ... sahibinin 2/8 kusuruna tekabül eden zarara hükmedilmesi yerinde olmamıştır. O halde mahkemece yapılacak ...; ... ile ... Gıda Paz. San. ve Tic. A.Ş.'nin açmış olduğu 2. karşı davada ve sigorta şirketinin açmış olduğu 1. karşı davada, müteselsil sorumluluk ilkesi gözetilerek ... ile ... Gıda Paz. San. ve Tic.
 A.Ş.'nin kendi kusurlarına denk gelen (4/8) zarar dışındaki ( davacı/karşı davalı ... sahibinin 2/8 ve dava dışı Belediyenin 2/8 oranındaki kusurlar toplamı 4/8) 4/8'e tekabül eden zararın tamamından davacı-karşı davalı ... sahibi ...'un sorumlu olduğu, tarafların usulü müktesep hakları da gözetilerek karar verilmesi gerekirken yazılı şekilde sadece davacı/karşı davalı ... sahibinin 2/8 kusuruna tekabül eden tutara karar verilmesi bozmayı gerektirmiştir.
 
 ## Yargıtay 4. HD 2023/7807 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1013705200)
 
 Belediyesi’nin dosya kapsamında yer alan ve davalı kurumca yaptırılmış olan soruşturma raporu ve araç kiralama ihale belgelerinden de anlaşıldığı üzere kazayı yapan aracın uzun süreli olarak davalı belediyeye kiralanmış olması nedeni ile fiili işletenin davalı olmasına göre Ankara Büyükşehir Belediyesi'nin araç işleten ve davalı ... şirketinin de ... nedeniyle kusursuz sorumluluklarının bulunduğu, davalı araç maliki ... uzun süreli kiraya veren olarak sorumluluğunun doğmadığı görülmüş ise de mahkemizce verilen ilk kararda onun da sorumluluğuna gidildiği ve istinaf yoluna başvurmadığı bu halde davacı yararına kazanılmış hakların gözetilmesi gerektiği kanaatiyle alınan kusur raporunun somut olayın özelliklerine uygun olup, raporun bu konuda uzman makine mühendisi bilirkişi tarafından düzenlenmiş olmasına, ticari kazanç kaybı yönündeki istemin yansıma zarar türü olup doğrudan zarar olmaması ve toplanan deliller dikkate alındığında ispat edilememiş olmasına, çalışma gücünün belirlenmesinin Adli Tıp Anabilim Dalı tarafından yapılmış olması ve belirlemede her hangi bir hesaplama hatasının bulunmamasına göre davacının terditli olarak talep ettiği kazanç kaybına ilişkin talepleri
 reddedilerek sonraki talebi değerlendirilmiş olup yaralanması nedeniyle, kusur oranına göre indirim yapıldıktan sonra, davacının maddi zararlarının toplam 74.618,90 TL olduğu belirlenmiş, bilirkişi raporuyla belirlenen bu
@@ -139,12 +183,16 @@ miktar üzerinden geçici ve daimi iş gücü kaybı nedeniyle uğranılan zarar
 
 ## Yargıtay 3. HD 2023/1743 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/965338600)
+
 İnşaat Sanayi ve Ticaret A.Ş. arasındaki satış sözleşmesinin kararlaştırılan tarihte ifa edilmediği, Meram Belediyesi ile ... ... İnşaat Sanayi ve Ticaret A.Ş. arasında sözleşmenin 17.08.2011 tarihinde feshedilmesi neticesi ifasının da mümkün olmadığı, yüklenici ... ... İnşaat Sanayi ve Ticaret A.Ş. tarafından, ... aleyhine Konya 1.
 Asliye Ticaret Mahkemesinin 2011/409 Esas sayılı dosyasıyla açılan davanın feshin iptali olmayıp feshin haksız olduğunun tespiti ile tazminat isteğine ilişkin olduğu, neticede mahkemece 29.05.2013 tarihinde feshin haklı olduğundan bahisle davanın reddine karar verildiği, dolayısıyla gerek sözleşmenin ifasının imkansız hale gelmesi ve gerekse de davacının fesih talep etmekle menfi zararını isteyebileceği, yukarıda ifade edildiği üzere menfi zararın, alacaklının sözleşme yapılmasaydı uğramayacağı fiili zararlar ile yoksun kaldığı kâr’ı kapsadığı, bunun da sözleşme kapsamında ödenen bedel ile taşınmazın dava tarihindeki rayiç bedeli ile ödenen bedel arasındaki fark olduğu, Belediyenin sorumluluğunun güven sorumluluğu olduğu, TBK.nın 51 inci maddesi uyarınca somut olayın özelliği ve hakkaniyet gereği belediyenin kusuru daha hafif olduğundan Belediyenin sadece sözleşme kapsamında ödenen bedel yönünden sorumlu tutulması gerektiği, zarar yönünden yüklenici firmanın kusurlu olduğu dikkate alınarak zarardan sadece ... ...
 İnşaat Sanayi ve Ticaret A.Ş’nin sorumlu olduğu, emsal alınan ve Yargıtay Hukuk Genel Kurulundan onaylanarak dava dosyaları ve kararlarının da aynı şekilde olduğu, dava dilekçesiyle 10.000,00 TL sözleşme kapsamında ödenen bedel, 1.000,00 TL kira tazminatı ile 20.000,00 TL manevi zarar talep edildiği, yukarıda ifade edildiği üzere zamanaşımı süresinin 17.08.2011 tarihinden itibaren 10 yıl olup bu sürenin 17.08.2021 tarihi itibariyle dolduğu, sözleşme bedelinin dava tarihi itibariyle belirlenebilir olup sözleşme bedelinden 10.000,00 TL talep edilmekle buna ilişkin davanın kısmi dava niteliğinde olduğu kısmi davada; alacağın kalan bölümünün de talep edilen alacağa yönelik zamanaşımı ile sınırlı olduğu, davacı tarafça yer ne kadar sözleşme bedelinden arta kalan kısım yönünden 02.09.2021 tarihinde ıslah dilekçesi sunmuş ise de; ıslah ile artırılan miktar yönünden zamanaşımı süresinin dolmuş olduğu ve davalı tarafından zamanaşımı itirazında bulunulduğu, bu nedenle zamanaşımına uğramayan dava dilekçesindeki talep yönünden karar verilmesi gerekçesiyle; davanın kısmen kabul kısmen reddine, davacı ile ... ...
 İnşaat Sanayi ve Ticaret A.Ş. arasında düzenlenen sözleşmenin feshine, 10.000 TL sözleşme bedelinin dava tarihinden itibaren işleyecek yasal faiziyle birlikte davalılardan müştereken ve müteselsilen tahsili ile davacıya verilmesine, ıslah ile artırılan fazlaya ilişkin istemin reddine, kira kaybı tazminatı ve ödeme tarihinden itibaren faiz isteği yönünden açılan davanın reddine, manevi tazminatın koşulları oluşmadığından reddine karar verilmiştir.
 
 ## Yargıtay 3. HD 2023/988 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/911955000)
 
 4\. 2782 sayılı Kanun'un atıksuların arıtılması ve tahliyesiyle görevli kıldığı belediyelerin yerine getirmekle yükümlü bulundukları kamu hizmetlerinin gerektirdiği harcamaların
 

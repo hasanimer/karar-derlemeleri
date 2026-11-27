@@ -22,6 +22,8 @@ uyari: "Derleyenin seçtiği alıntılardır; kararın tamamı değildir. Künye
 
 ## Yargıtay 6. HD 2015/9922 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/149454800)
+
 Davacı tüzel kişilik, şirket ortağı A. K.'ın konut ihtiyacı sebebiyle kiralananın
 
 **tahliyesini istemiş** davalı, ihtiyacın davacı şirkete ait olmadığından davanın reddini savunmuştur.
@@ -29,5 +31,7 @@ Davacı tüzel kişilik, şirket ortağı A. K.'ın konut ihtiyacı sebebiyle ki
 Türk Borçlar Kanununun 350/1. maddesinde, kiraya verenin kendisi, eşi, altsoyu, üstsoyu veya kanun gereği bakmakla yükümlü olduğu diğer kişiler için konut ya da işyeri gereksinimi sebebiyle kullanma zorunluluğu varsa, kiralananın tahliyesini isteyebileceği hususu düzenlenmiştir. **Tüzel kişiliğe sahip limited şirket de ancak kendi ihtiyacı için dava açabilecektir**. Bu durumda mahkemece davanın reddine karar verilmesi gerekirken, yazılı gerekçe ile tahliye kararı verilmesi doğru değildir.
 
 ## Yargıtay 3. HD 2025/4051 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1180404900)
 
 … bbüslerin ticaretini genişletme amacı ve bu doğrultudaki gereksinimlerinin Türk Borçlar Kanunu'nda tahliye sebebi olarak tanımlanan **zorunlu ihtiyaç olarak kabul edildiği**…

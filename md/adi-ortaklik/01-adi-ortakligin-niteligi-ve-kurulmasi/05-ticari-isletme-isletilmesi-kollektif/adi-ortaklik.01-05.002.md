@@ -22,6 +22,8 @@ uyari: "Derleyenin seçtiği alıntılardır; kararın tamamı değildir. Künye
 
 ## İstanbul BAM 40. HD 2024/359 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1042887300)
+
 Dava, metro inşaatından dolayı ortaya çıkan tozlanma nedeniyle, haksız fiilden kaynaklanan maddi tazminat istemine ilişkindir.
 
 …
@@ -31,11 +33,15 @@ Kaldı ki, iddia ve savunmanın genişletilmesi yasağı yönünden de, işletme
 
 ## Denizli BAM 4. HD 2024/201 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1099897600)
+
 6102 Sayılı TTK'nun 4. maddesi uyarınca, bir davanın ticari dava olarak kabulü için tarafların her ikisinin de tacir olması ve davanın, tarafların ticari işletmesi ile ilgili olması ya da tarafların sıfatına bakılmaksızın maddede sayılı bulunan davalardan olması gerekir. Aynı kanunun 26/06/2012 tarihli 6335 Sayılı Yasanın 2. maddesiyle değişik 5/3. maddesi gereğince, .. Mahkemesiyle .. Mahkemesi ve diğer hukuk mahkemeleri arasındaki ilişki görev ilişkisi olup, bu durumda göreve ilişkin usul hükümlerinin uygulanması gerekmektedir. 6102 Sayılı HMK'nun 2. maddesi uyarınca, dava konusu değer ve miktarına bakılmaksızın mal varlığı haklarına ilişkin davalarda görevli mahkeme aksine bir düzenleme bulunmadıkça Asliye Hukuk Mahkemesidir. Adi ortaklık sözleşmesinden kaynaklanan davaların Ticaret Mahkemesinde görüleceğine ilişkin yasal bir düzenleme mevcut bulunmamaktadır.
 
 Diğer taraftan 6102 sayılı Türk Ticaret Kanunu'nun 19/II. maddesi uyarınca, taraflardan biri için ticari iş sayılan bir işin diğeri için de ticari iş sayılması, davanın niteliğini ticari hale getirmeyecektir. Zira, Türk Ticaret Kanunu, kanun gereği ticari dava sayılan davalar haricinde, ticari davayı ticari iş esasına göre değil, ticari işletme esasına göre belirlemiştir. Yukarıda da değinildiği üzere 6102 Sayılı TTK'nun 4. maddesi uyarınca, bir davanın ticari dava olarak kabulü için tarafların her ikisinin de tacir olması ve davanın, tarafların ticari işletmesi ile ilgili olması ya da tarafların sıfatına bakılmaksızın maddede sayılı bulunan davalardan olması gerekir.
 
 ## Bursa BAM 14. HD 2023/1915 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1153831100)
 
 Dava, eser sözleşmesinden kaynaklanan iş sahibinin, yüklenicinin işin ayıplı, eksik ve geç ifa nedenine dayalı alacağın tahsili istemine ilişkin olup mahkemece yukarıdaki gerekçelerle görevsizlik kararı verilmiştir.
 
@@ -48,11 +54,15 @@ Ticari işletme ile esnaf işletmesi arasındaki sınır, Bakanlar Kurulunca ç�
 
 ## İzmir BAM 23. HD 2023/1883 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/951796400)
+
 Datça Asliye Hukuk Mahkemesince, feshi ve tasfiye istemine konu otel işletmesine konu işletmenin ve tarafların faaliyetlerinin esnaf kapsamını açtığı ve ticari işletme olduğu, dava konusu adi ortaklığa konu işletme, ticari işletme niteliği taşıdığından ve bir ticari işletmeyi kısmen dahi olsa kendi adına işleten kişi tacir sıfatına sahip olacağından bu hususta ortaklarının da tacir sıfatına haiz olduğu, TTK'nın 4/1. Maddesi uyarınca ticari dava mahiyetinde olan işbu davanın çözüm yerinin Asliye Ticaret Mahkemesi olduğu gerekçesiyle görevsizlik kararı verilmiştir.
 
 Muğla Asliye Ticaret Mahkemesince, davanın adi ortaklık sözleşmesinin feshi ve kâr payının tahsili talebine ilişkin olduğu, uyuşmazlığın çözümünde TBK 639 ve devamı maddelerinin uygulanması gerektiği, davanın mutlak ticari dava olmadığı, tarafların dava tarihi itibariyle tacir sayılmadığından nispi ticari dava da sayılamayacağı, buna göre davayı görmeye Datça Asliye Hukuk Mahkemesi görevli olduğu gerekçesiyle karşı görevsizlik kararı verilmiştir.
 
 ## İzmir BAM 14. HD 2023/1658 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/980649800)
 
 Dava eser sözleşmesi gereğince yatırılan nakdi teminatın iadesi istemine ilişkin olup, mahkemece davanın reddine karar verilmiştir.
 
@@ -61,6 +71,8 @@ Dava eser sözleşmesi gereğince yatırılan nakdi teminatın iadesi istemine i
 Taraflar arasında akdedilen 06.06.2016 tarihli ... Havalimanı Projesi Akaryakıt Hidrant Sistemi Yapımı konulu alt yüklenici sözleşmesi, sözleşme ve dava tarihinde yürürlükte bulunan 6098 sayılı Türk Borçlar Kanunu’nun 470-486 maddelerinde düzenlenen eser sözleşmesi niteliğindedir. Taraflar arasındaki ilişki yönünden davacı yüklenici, davalı iş sahibidir. Asıl işveren ise dava dışı ... Havalimanları İnşaatı Adi Ortaklığı Ticari İşletmesi olup, davalı şirketin, dava dışı iş sahibi ... Ticari İşletmesinin yüklenicisi olduğu anlaşılmaktadır.
 
 ## İstanbul BAM 15. HD 2023/1436 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/983805100)
 
 Dava konusu sözleşmelerin adi ortaklık adına, adi ortaklığı oluşturan şirketlerden olan ... İnşaat AŞ'yi temsilen ... tarafından imzalandığı anlaşılmaktadır. Önce Bakırköy ... İcra Müdürlüğü'nün ... Esas sayısına kayıtlı iken, davalı şirketin yetki itirazı üzerine İstanbul Anadolu ... İcra Müdürlüğü'nün ... Esas sayısına kaydedilen dosyada davacı yüklenici tarafından, ... ve ... Adi Ortaklığı borçlu gösterilmek suretiyle, ... İnşaat A.Ş. ve davalı ... İnşaat Ve Tic. A.Ş. hakkında 19/04/2018 tarihinde 39.116,18 TL asıl alacak ve 1.427,47 TL işlemiş faiz, 4.176,93 TL asıl alacak ve 27.817 TL işlemiş faiz olmak üzere toplam 44.748,33 TL alacağın yasal faiziyle birlikte tahsili için genel haciz yoluyla takip başlatıldığı, takipte borcun sebebi olarak 4.176,93 TL ve 29.149,84 TL tutarlı 2 adet faturanın gösterildiği görülmektedir. Davalı şirketin istinaf itirazları kapsamında yapılan incelemede öncelikle davalının husumet itirazının değerlendirilmesi gerekmiştir. 6098 sayılı Türk Borçlar Kanunu'nun 620 nci maddesinin birinci fıkrasına göre; adi ortaklık sözleşmesi, iki ya da daha fazla kişinin emeklerini ve mallarını ortak bir amaca erişmek üzere birleştirmeyi üstlendikleri sözleşmedir.
 Aynı Kanun'un ortaklığın yönetimine ilişkin 625 inci maddesine göre; "Yönetim, sözleşme veya kararla yalnızca bir veya birden çok ortağa ya da üçüncü bir kişiye bırakılmış olmadıkça, bütün ortaklar ortaklığı yönetme hakkına sahiptir. Ortaklık, ortakların tümü veya birkaçı tarafından yönetilmekte ise, bunlardan her biri, diğerleri katılmaksızın işlem yapabilir; ancak ortaklığı yönetmeye yetkili olan her ortak, tamamlanmasından önce işleme itiraz etmek suretiyle, bu işlemin yapılmasını engelleyebilir. Ortaklığa genel yetkili bir temsilci atanması ve ortaklığın olağan dışı işlerinin yürütülmesi için, bütün ortakların oybirliği gereklidir. Ancak, gecikmesinde sakınca olan hâllerde, bu konuda yönetici ortaklardan her biri yetkilidir." Ortakların üçüncü kişilerle ilişkisi düzenleyen 6098 sayılı Kanun'un 637 nci maddesine göre; "Kendi adına ve ortaklık hesabına bir üçüncü kişi ile işlemde bulunan ortak, bu kişiye karşı bizzat kendisi alacaklı ve borçlu olur.
@@ -74,10 +86,14 @@ Davacı alacağının belirlenmesi yönünden yapılan incelemede; mahkemece den
 
 ## İstanbul BAM 40. HD 2023/1339 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/981548000)
+
 İş Makina AŞ.'nin sahibi olduğu, davalı ticari şirketlere kiralanan ...seri numaralı ekskavatörün hava alanı pisti dolgu alanından kontrolsüz dönüş yaparak çarpması neticesinde maddi hasarlı trafik kazasına sebebiyet verdiği, kasko poliçe kapsamında ödenen bedelin tahsili için yapılan takibe itiraz üzerine açılmış itirazın iptali isteminin takip borçlusu davalı ticari işletmelere açıldığı anlaşılmıştır. Davacı vekilinin istinaf sebepleri yönünden; Davalı ... İş ... İş. Mak. İmalat Pazarlama ve Satış A.Ş ile diğer davalı İGA Havalimanları İnşaatı Adi Ortaklığı Ticari İşletmesi arasında kazaya karışan ... seri numaralı ekskavatörün uzun süreli kiralanmasına ilişkin 3. Kişileri bağlayıcı sözleşme yapıldığı, kiracı İGA Havalimanları İnşaatı Adi Ortaklığı Ticari İşletmesinin kiracı işleten konumunda bulunduğu, davalı ... İş ... A.Ş'nin araç sahibi olarak sorumluluğunun bulunmadığı anlaşılmakla, hakkında husumet nedeniyle verilen ret kararının doğru olduğu, redde göre hükmedilen vekalet ücretinin ve yargılama giderinin davacıdan tahsiline karar verilmesinde isabetsizlik bulunmadığı anlaşılmaktadır.
 Davalılar vekilinin istinaf sebepleri yönünden;Davalılar vekili istinaf dilekçelerinde aracın ZMSS ve kasko poliçesi bulunduğunu, bu nedenle davacı kasko sigortacısının yaptığı ödemeyi öncelikle ZMS sigortacısından talep etmesi gerektiğini belirtmiştir. Davacının rücu talebine dayanak olan trafik kazasının meydana geldiği tarih 01/10/2017; davacının sigortalısına ödeme yaparak onun haklarına halef olduğu ve dolayısıyla rücu hakkının doğduğu tarih de 11/12/2017'dir. Bu durumda yürürlük tarihi 01/04/2013 olan 2013 Kasko Sigortası Genel Şartları'nın B.4.4.3 maddesinin somut olayda uygulanması gerekmektedir. (Yargıtay 17. HD 2015/9080 E. 2016/3878 K. Sayılı kararı) Mahkemece, davacının rücu hakkının doğumuna yol açan kaza tarihi ve sigortalısına ödeme yaparak rücu hakkını kazandığı 2017 yılında geçerli olan KSGŞ'nın B.4.4.3 maddesindeki düzenlemenin "Sigorta şirketi ödediği tazminat tutarınca sigortalıya halef olur. Sigorta şirketi ödediği tutar için rücu talebini, sigorta limitleri dahilinde, öncelikle ilgili risk için teminat sunan sigorta şirketine yöneltir.
 
 ## İstanbul BAM 15. HD 2023/1213 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/974813200)
 
 Dava, yabancı mahkeme kararının tenfizi talebine ilişkin olup, mahkemece davanın dava şartı yokluğu nedeni ile usulden reddine dair verilen karara karşı davacı yanca istinaf talebinde bulunulmuştur.
 
@@ -88,6 +104,8 @@ Asliye Ticaret Mahkemesinin 2021/747 esas sayılı dosyasında her üç davalı 
 
 ## İstanbul BAM 8. HD 2023/1084 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/909259300)
+
 Dava, trafik kazasından kaynaklı cismani zarar nedeniyle maddi tazminat istemine ilişkindir.
 
 …
@@ -97,9 +115,13 @@ Somut uyuşmazlıkta; davacı kazazede ..., kaza tarihinde 4 yaşında olup yaş
 
 ## İzmir BAM 6. HD 2023/190 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/867221700)
+
 Davanın açıldığı İzmir 20. Asliye Hukuk Mahkemesince, davalılar tarafından da kurulduğu kabul edilen adi ortaklık ile ilgili aynı alanda faaliyet işlerin dava dışı limited şirketi üzerinden yürütülmek üzere dava dışı limited şirketin kurulduğu kabulünde olduğu gözetildiğinde davanın ticari işletme ilgili bulunduğu, bu durumda; , faaliyetlin yürütüldüğü işletmenin niteliği gözetildiğinde ticari işletme mahiyetinde olduğu, dolayısıyla ticari işletmeyi kendi adına yürüten tarafların 6102 Sayılı Türk Ticaret Kanunu'nun 12. maddesi uyarınca tacir sıfatını taşıdığı açık olduğunu, bu nedenle davanın ticari işletmeleri ile ilgili bulunması nedeniyle ticari dava olup bu davada Asliye Ticaret Mahkemesi davaya bakmakla görevli olduğu gerekçesiyle İzmir Asliye Ticaret Mahkemesinin görevli olduğu belirtilerek görevsizlik kararı verilmiştir.
 
 ## İstanbul BAM 19. HD 2022/2233 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/823097500)
 
 …
 
@@ -110,6 +132,8 @@ etmekle ispat ettiği..." gerekçeleriyle davanın reddine karar verildiği gör
 
 ## Erzurum BAM 1. HD 2022/1909 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/831880300)
+
 Dava adi ortaklık ilişkisinden doğan alacak istemine ilişkin olup uyuşmazlık; görevli mahkemenin tayini noktasında toplanmaktadır.
 
 …
@@ -118,10 +142,14 @@ Adi ortaklık TBK'nın 620 ve devam eden maddelerinde düzenlenmiştir. Somut ol
 
 ## İstanbul BAM 3. HD 2022/1443 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/762455400)
+
 Dava; adi ortaklık sözleşmesine dayalı fesih, tasfiye ve alacak talebine ilişkindir. 6102 sayılı Türk Ticaret Kanunu’nun 4.maddesine göre, bir davanın ticari dava sayılması için uyuşmazlık konusu işin taraflarının her ikisinin birden ticari işletmesiyle ilgili olması ya da tarafların tacir olup olmadıklarına veya işin tarafların ticari işletmesiyle ilgili olup olmamasına bakılmaksızın, Türk Ticaret Kanunu veya diğer kanunlarda o davaya Asliye Ticaret Mahkemesi'nin bakacağı yönünde düzenleme olması gerekmektedir. 6102 sayılı Türk Ticaret Kanunu'nun 19/II. maddesi uyarınca, taraflardan biri için ticari iş sayılan bir işin diğeri için de ticari iş sayılması, davanın niteliğini ticari hale getirmez. Zira, Türk Ticaret Kanunu, kanun gereği ticari dava sayılan davalar haricinde, ticari davayı, ticari iş esasına göre değil, ticari işletme esasına göre belirlemiştir. Buna göre işin ticari nitelikte olması davayı ticari dava haline getirmez. Yapılan bu açıklamalar ışığında somut olay değerlendirildiğinde; davacı tarafça dava konusu şirket ortağı iken davalıya devrettiği, bu tarihten sonra adi ortaklık olarak fırını birlikte işlettiklerini ileri sürdüğü anlaşılmaktadır.
 Buna göre mahkemece, taraflar arasındaki uyuşmazlığın TBK'da düzenlenen adi ortaklık ilişkisinden kaynaklı olduğu taraflardan davacının TTK'da düzenlenen tacir sıfatını taşımadığı gibi, adi ortaklığın konusunun ticari gelir elde etmek olması, davayı kendiliğinden ticari dava haline getirmeyeceğinden, TTK'da ön görülen, tarafların her ikisinin de tacir olması koşulunun davada oluşmadığı anlaşıldığından, uyuşmazlığın çözümünde genel mahkeme olan Asliye Hukuk Mahkemesinin görevli olduğu gözetilerek, görevsizlik kararı verilmesi usul ve yasaya uygun görülmüştür.
 
 ## İstanbul BAM 13. HD 2022/1100 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/784166500)
 
 Adi Ortaklığı Ticari İşletmesi davada taraf olamayacağını, itirazın iptali davasının takip tutarı 3.128.888,49TL üzerinden açılması gerekirken, davacı taraf icra dosyası ödenerek kapatılacak olsaydı kendisine ödenecek vekalet ücreti, tahsil harcı ve masrafları da dahil ederek işbu davayı hukuka aykırı olarak 3.383.003,69TL üzerinden açtığını, oysaki kabul anlamına gelmemek üzere davacının davayı kazanması ve takibin devamına karar verilmesi halinde vekalet ücreti ve diğer kalemler zaten icra takip dosyası üzerinden hesaplanarak davacıya ayrıca ödeneceğini, davacı bu şekilde mükerrer ödemeye yol açacak nitelikte talepte bulunmuş olup, davanın takip tutarının üzerinde kalan 254.115,20TL'lik kısmının öncelikle reddi gerektiğini, yer teslimi tarihi sonrası davacının sattığını iddia ettiği ve dava konusu faturalara esas teşkil eden kumun davacı tarafından çıkarılamayacağı ve satılamayacağı, bu kumun davacıya ait olmadığı Maden İşleri Genel Müdürlüğü kayıtları ile sabit olduğunu, buna göre davacının TTK 21/2 maddesi uyarınca mülkiyeti kendisine ait olmayan mala ilişkin satış yaptığı iddiası ile fatura düzenlemesi de mümkün olmadığını, davacı ancak 05.05.2015 yer teslimi tarihine kadar
 çıkarmış olduğu kum üzerinde hak iddia edebilir ki bu dönemde çıkarılan kumun bedeli de davacıya zaten eksiksiz ödendiğini, öte yandan TTK 21/2 maddesi uyarınca faturanın ispat gücünü kazanabilmesi için taraflar arasında geçerli bir sözleşme ilişkisi bulunması gerekirken taraflar arasında böyle bir yazılı veya sözlü sözleşme ilişkisi de bulunmadığını, ...
@@ -131,9 +159,13 @@ reddi gerektiğini, işbu nedenlerle davanın reddine, yargılama giderleri ile 
 
 ## Ankara BAM 21. HD 2022/966 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/784338400)
+
 Yargılama aşamasında alınan bilirkişi heyeti kök raporunda, adi ortaklık ticari işletmesinin öz varlığının 2.077.388,21 TL olduğu ve her bir ortağa 1.038.690,10 TL ayni sermaye düştüğü tespit edilmiş, alınan ek raporda ise, ticari işletmenin tespit edilen öz kaynağının 1.932.755,95 TL'sinin KDV alacağı olduğu, devreden KDV hesabında yer alan 1.932.755,95 TL'nin 30/11/2020 tarihinde gözüken tutar olduğu, daha sonraki tarihlerde artması veya azalmasının mümkün bulunduğu, devreden KDV hesabının dikkate alınmaması gerektiği, bu miktar mahsup edildiğinde 144.632,26 TL öz kaynak kaldığı, öz kaynaktan her bir ortağa 72.316,13 TL pay düştüğü, ortakların bu paylarını yeni kurulan şirkete ayni sermaye olarak aktarabileceği, vergi incelemesi yapılmadan KDV alacağının şirkete nakden ödenmesinin söz konusu olmadığı, devreden KDV hesabının sürekli işleyen bir hesap olduğu, bir sonraki ay rakamların tamamen değişebileceği yönünde kanaat bildirilmiştir.
 
 ## İstanbul BAM 46. HD 2022/344 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/730485200)
 
 GEREĞİ GÖRÜŞÜLÜP DÜŞÜNÜLDÜ: Dava, taraflar arasında imzalandığı iddia edilen "yapı denetim sözlemesi" den doğan alacağın tahsili için başlatılan takibe yönelik haksız itirazın İİK 67.md uyarınca iptali ve %20'den aşağı olmamak kaydıyla icra inkar tazminatı isteminden ibarettir. Davalılar, davacı ile sözleşme imzalamadıklarını, davacının dayanağı sözleşme altındaki imzanın kendilerine ait olmadığı hizmetin dava dışı ... Firmasından alındığı, ... İnşaatın TTK da düzenlenen ticari şirketlerden olmayıp adi şirket niteliğinde olduğu ve TBK hükümlerine tabi olduğu savunmasıyla davanın reddini talep etmiştir. İlk derece mahkemesince; davacı tarafından davalı adına düzenlenmiş bir faturaya da davalı defterlerinde rastlanmadığı görüldüğünden "davanın reddine, kötü niyet tazminatı talebinin reddine" karar verilmiştir. Karara karşı davacı vekilince; sözleşme ilişkisi ispat edildiğinden davanın kabulü gerektiği savunmasıyla; Davalı vekilince ise, davalı aleyhine kötü niyet tazminatına hükmetmek gerekir iken tazminat talebinin reddi kararının hatalı olduğu savunmasıyla istinaf kanun yoluna başvurulmuştur.
 6102 sayılı Türk Ticaret Kanunu’nun 4. maddesine göre, bir davanın ticari dava sayılması için uyuşmazlık konusu işin taraflarının her ikisinin birden ticari işletmesiyle ilgili olmalı ya da tarafların tacir olup olmadıklarına veya işin tarafların ticari işletmesiyle ilgili olup olmamasına bakılmaksızın Türk Ticaret Kanunu veya diğer kanunlarda o davaya asliye ticaret mahkemesinin bakacağı yönünde düzenleme olmalıdır. 6335 sayılı Kanun'un 2. maddesi ile değişik 6102 sayılı Türk Ticaret Kanunu'nun 5. maddesi uyarınca ticari davalar asliye ticaret mahkemelerince görülerek karara bağlanır. Somut olayda; davacı yapı denetim hizmet sözleşmesi karşılığında alacak talebinde bulunulmuş, davalı ise sözleşme ilişkisinin reddetmiştir. Davacı yapı denetim firması tacir vasfında tüzel kişilik ise de, Ticaret Sicil Gazetesinde kaydı bulunmayan davalı ... ve ... TTK'da düzenlenen şirketlerden olmayıp adi ortaklık vasfındadır. Davanın tüm tarafları tacir olmadığından ve uyuşmazlık sözleşmeden kaynaklı olup, mutlak ticari dava (TTK 4-5 md) niteliği taşımadığından uyuşmazlığın çözümünde AHM'leri görevlidir.

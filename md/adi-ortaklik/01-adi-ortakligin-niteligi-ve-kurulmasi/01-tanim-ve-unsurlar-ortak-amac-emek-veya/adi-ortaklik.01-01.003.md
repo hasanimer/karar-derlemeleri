@@ -22,6 +22,8 @@ uyari: "Derleyenin seçtiği alıntılardır; kararın tamamı değildir. Künye
 
 ## Ankara BAM 24. HD 2026/348 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1196466800)
+
 Dava, adi ortaklığın tasfiyesi istemine ilişkindir.
 
 …
@@ -32,6 +34,8 @@ Bu açıklamalar ışığında somut olaya bakıldığında ise; davaya konu uyu
 
 ## İstanbul BAM 45. HD 2026/191 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1192366700)
+
 6100 sayılı HMK'nın 50. maddesinde "Medenî haklardan yararlanma ehliyetine sahip olan, davada taraf ehliyetine de sahiptir." şeklinde açıklanmıştır. Davada taraf ehliyetinden maksat bir davada davacı veya davalı olarak yer alabilme ehliyetidir. Bu kavram medeni hukuktaki hak ehliyetinin, medeni usul hukuku alanındaki uzantısını oluşturur (Tanrıver, S., Medeni Usul Hukuku, C.I, 2016, S.485). Kişinin taraf ehliyetinin bulunması, taraf olarak yer aldığı davasını yürütebilmesi için tek başına yeterli değildir; kişinin dava ehliyetine de sahip olması gerekir (Erişir, E., Medeni Usul Hukukunda Taraf Ehliyeti, 2007, S.57). Dava ehliyeti ise bir kişinin bizzat yada tayin edeceği temsilcisi aracılığı ile dava açabilmesi, davayla ilgili usul işlemleri yapabilmesi ve kendisine karşı dava açılması halinde hakkını koruyucu beyanlarda bulunabilme yani savunma yapabilme ehliyeti olarak tanımlanabilir ve HMK'nın 51. maddesinde "Dava ehliyeti, medenî hakları kullanma ehliyetine göre belirlenir." şeklinde düzenlenmiştir. Buna göre medeni hakları kullanma ehliyetine yani fiil ehliyetine sahip olanlar dava ehliyetine de sahiptirler. 6098 sayılı Türk Borçlar Kanunu'nun 620. maddesinde;
 "Adi ortaklık sözleşmesi, iki ya da daha fazla kişinin emeklerini ve mallarını ortak bir amaca erişmek üzere birleştirmeyi üstlendikleri sözleşmedir.Bir ortaklık, kanunla düzenlenmiş ortaklıkların ayırt edici niteliklerini taşımıyorsa, bu bölüm hükümlerine tabi adi ortaklık sayılır." denilmiştir. Adi ortaklık iki ya da daha fazla kişinin emeklerini veya mallarını ortak bir amaca erişmek üzere birleştirmeyi üstlendikleri sözleşmedir.Doktrinde sözleşmeyle kurulan ve bir müşterek amacın elde edilmesine hizmet eden kişi birliği olarak tanımlanmaktadır (Poroy/Tekinalp/Çamoğlu, Ortaklıklar ve Kooperatif Hukuku. İstanbul 2003. s.
 
@@ -40,15 +44,21 @@ Bu nedenle adi ortaklığa ilişkin davalarda, adi ortaklığı oluşturan kişi
 
 ## Ankara BAM 27. HD 2026/26 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1190370400)
+
 Yargıtay ve dairemizin yerleşik içtihatları uyarınca; adi ortaklık iki veya daha fazla kişinin emeklerini ve mallarını ortak bir amaca erişmek üzere birleştirmeyi üstlendikleri bir sözleşmedir (TBK'nın 620/1 maddesi). TBK'nın 624. maddesine göre adi ortaklık sözleşmesinde aksi kararlaştırılmamış ise ortaklığın kararları bütün ortakların oybirliği ile alınır. Ortaklığa ait mal ve haklar elbirliği ile tüm ortaklara ait olur. TBK'nın 638. maddesi hükmünce ortaklar birlikte veya bir temsilci aracılığı ile, üçüncü bir kişiye karşı ortaklık ilişkisi çerçevesinde üstlendikleri borçlardan aksi kararlaştırılmamış ise müteselsilen sorumlu olurlar. Adi ortaklığın tüzel kişiliği olmadığı gibi adi ortaklık olarak takip ve dava ehliyeti bulunmamaktadır. Takip ve davanın adi ortakların tamamı ya da yönetim ve temsil yetkisini haiz ortak tarafından yapılıp açılması gerekmektedir.
 
 ## İstanbul BAM 3. HD 2025/3018 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1183395100)
 
 Mahkemece " taraflar arasında akdedilen 28/02/2013 tarihli protokolün imzalandığı sırada davacı tarafın müzayaka halinde olduğuna ilişkin herhangi bir delilin dosyaya ibraz edilmediği, alt taşeron ... şirketinin iflas kararının protokolün yapılmasından çok sonra alındığı, sözleşme konusu işin büyüklüğü, davacının faaliyet konusu dikkate alındığında bu işlerde tecrübesizliğinin söz konusu olamayacağı, davacının düşüncesizce davranarak sözleşme konusu işi üstlenmesi de mümkün olamayacağından gabin unsurlarının gerçekleşmediği" gerekçesiyle bu husustaki talep kabul edilmemiştir.Davacı taraf bu davanın tefrik edildiği davada (adi ortaklığın fesih ve tasfiyesi) gayrımenkul değerlerinin tesbiti yönünden rapor alınamadığını ,diğer dosyada tanıkların dinlendiğini ,bu dava yönünden davacı şirket ve alt yüklenicinin ticari defterlerinin incelenmediğini,yemin delilinin kullandırılmadığını beyan etmektedir.Türk Borçlar Kanunu'nun 620 nci maddesinde;
 "Adi Ortaklık Sözleşmesi, iki ya da daha fazla kişinin emeklerini ve mallarını ortak bir amaca erişmek üzere birleştirmeyi üstlendikleri sözleşmedir" denilerek sözleşme unsuru açıkça belirtilmiştir.Ortaklar, ortak bir amacı gerçekleştirmek üzere bir sözleşme etrafında birleşirler. Sözleşmenin kurulması için tarafların karşılıklı ve birbirlerine uygun irade beyanlarını açıklamaları gerekir. Adi ortaklık, ortak bir amacı gerçekleştirmek üzere kurulur.
 Ortak amaçtan bahsedebilmek için, sözleşme ile ulaşılmak istenen hedefin bütün ortaklar için müşterek olması gerekir.Davacı şirket adi ortaklığın tarafı olan bir tüzel kişiliktir.Alt yüklenicinin müzayaka halinde olması sebebiyle,dava konusu protokolün imzalandığına ilişkin iddianın ,davacı şirketin kendisinin sözleşme tarihinde müzayaka halinde olduğu iddia ve ispat edilmediğinden, davacının basiretli tacir gibi davranması gerektiği dikkate alındığında , gabin sebebi olarak kabul edilmemesinde hukuka aykırılık bulunmamaktadır.Böylece ,mahkemece verilen kararda maddi vakıa ve hukuki denetim yönlerinden usul ve hukuka aykırılık bulunmadığı anlaşılmakla ,davacının istinaf başvurusunun HMK 353/1-b-1 maddesi uyarınca reddine karar verilmesi gerekmiştir.
 
 ## İstanbul BAM 3. HD 2025/2941 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1182878200)
 
 HMK.nun 355. maddesi uyarınca, ileri sürülen istinaf sebepleri ile sınırlı olarak yapılan inceleme sonucunda; dava , itirazın iptali talebine ilişkindir.Davanın dayanağı olan İstanbul 27.İcra Müdürlüğü ... E. Sayılı dosyasında ; 181.655,-TL nin tahsili için (rücu alacağı oludğu belirtilerek) takip yapılmış, davalı-borçlunun itirazı üzerine ilamsız takip durmuştur.Mahkemece yargılamada mali müşavir ve nitelikli hesap uzmanında oluşan bilirkişi kurulundan alınan raporda özetle; verilerek davacı ve davalı defter ve belgeleri üzerinden inceleme yapıp taraflar arasında bir adi ortaklık bulunup bulunmadığı, bu adi ortaklık kapsamında adi ortaklığın borcundan dolayı davacı hakkında yapılan takip nedeni ile davacının yaptığı ödemenin, adi ortaklığa ait bir borç olup olmadığı, bu ödemeden dolayı davacının, davalıdan talep edeceği bedelin takip tarihi itibari ile ne kadar olduğuna dair rapor düzenlenmesinin istenildiği, bilirkişi heyeti 10/08/2024 tarihli raporlarında;
 
@@ -62,6 +72,8 @@ Türk Borçlar Kanunu'nda adi ortaklık sözleşmesi açısından herhangi bir g
 
 ## Adana BAM 9. HD 2025/2297 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1177773400)
+
 Dava, adi ortaklıktan kaynaklanan katılma payı ve mahrum kalınan kar payının tahsili amacıyla başlatılmış icra takibine itirazın iptali talebine ilişkin olup, istinafa konu olan uyuşmazlık ise, davacının ihtiyati haciz talebinin reddine ilişkin ara kararın kaldırılmasına yöneliktir.
 
 …
@@ -69,6 +81,8 @@ Dava, adi ortaklıktan kaynaklanan katılma payı ve mahrum kalınan kar payın�
 Adi ortaklık; Türk Borçlar Kanunu 620/1. maddesinde “Adi ortaklık sözleşmesi, iki yada daha fazla kişinin emeklerini ve mallarını ortak bir amaca erişmek üzere birleştirmeyi-üstlendikleri sözleşmedir.” şeklinde tanımlanmıştır. Diğer bir anlatımla, adi ortaklık; birbirini tanıyan, birbirlerinin kabiliyet ve şahsiyetlerine güvenen, eşit ve aynı durumda olan kişilerin, müşterek amacın gerçekleştirilmesini sağlayacak vasıtaları (sermaye paylarını) ortaklığa getirme konusunda iş ortaklığının doktrin ve Yargıtay kararlarına göre adi ortaklık olarak kabul edilmesi sebebiyle tüzel kişiliği yoktur. Bu nedenle aktif ve pasif taraf ehliyeti tüm ortaklara aittir.
 
 ## İstanbul BAM 3. HD 2025/2178 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1167608500)
 
 04.01.2023 tarihli bilirkişi heyeti raporunda " Taraflar arasındaki sözleşmeye göre, dava tarihi itibariyle her bir tarafın 4.887.500,00 TLdeğerinde taşınmaza sahip olduğu, her bir tarafın yapı maliyetinin 4.136.250TL'sinden sorumlu olduğu, yapı maliyeti düşüldükten sonra (9.775.000TL- 8.272.500 — 1.502.500/ 2 — 751.250 TL )her bir tarafın 751.250 TL fayda sağlaması gerektiği, davacının dava dilekçesinde 2.630.069 TL ödediğini beyan ettiği, kendisine verilen dairelerin toplam değerinin 2.010.000 TL olarak hesap edilmesi ve sağlaması gereken 751.250 TL fayda dikkate alınarak davacının davalıdan 751.250 TL \*2.010,000 TL - 2.630.069 TL = 131.181 TL alacakli olduğu" yönünde görüş bildirmişlerdir.Tasfiye memuru bilirkişi ... 'dan alınan 13/02/2023 tarihli kök ve 2/10/2023 tarihli ek bilirkişi raporunda ise; ...
 Ortaklığı’nın 15.09.2011 tarihinde kurulduğu, ortaklığın tasfiye başlangıç tarihinin 09.10.2012 olduğu, ortaklardan ... ortaklık mevcudunu elinde bulundurduğundan şirket rayiç değeri, binek aracı ve geçmiş yılları karlarından oluşan şirket varlığının % 50 sinden ortağın almış olduğu tutar mahsup edilmek suretiyle yapılan hesaplama ile davacı ...’in ortaklık payından kaynaklı alacağının (5.532.211,14/2)-106.700= 2.659.405,57 TL olduğu belirtilmiştir.Yargıtay 3.H.D'nin 2022/1339 E.2021-6029 K.sayılı 21/06/2022 tarihli ilamında belirtildiği üzere,adi ortaklık sözleşmesi, iki ya da daha fazla kişinin emeklerini ve mallarını ortak bir amaca erişmek üzere birleştirmeyi üstlendikleri sözleşmedir (TBK. 620/1 md.).Adi ortaklığın sona erme sebeplerini düzenleyen TBK'nın 639 uncu maddesinin yedinci bendinde ise, "Haklı sebeplerin bulunması halinde, her zaman başkaca koşul aranmaksızın, fesih istemi üzerine mahkeme kararıyla" ortaklığın sona ereceği belirtilmiştir.Adi ortaklık sözleşmesinin haklı sebeple feshi için ortaklık süresinin önemi bulunmamaktadır.
@@ -79,6 +93,8 @@ Tasfiye ile artık ortaklık malvarlığı para haline dönüştürülecek, bor�
 
 ## İstanbul BAM 14. HD 2025/2078 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1188090400)
+
 Adi ortaklığın tüzel kişiliği bulunmaması ve TBK'nın 620 vd. maddelerine göre, her ortağın, adi ortaklığın borçlarından sorumlu olması nedeniyle, mahkemece adi ortaklık aleyhine başlatılan takip ve bu takip sonucu açılan itirazın iptali davasında davanın usulden reddine karar verilmesi, bu karar üzerine davacı tarafından adi ortaklığın ortaklarının tamamı hakkında yeniden takip başlatılması yerindedir. İlk derece mahkemesince dosya kapsamındaki belgeler üzerinde inceleme yapılarak rapor alınması için dosya bilirkişi kuruluna tevdi edilmiştir. Bu arada belirtmek gerekir ki eksper, sigorta şirketinin çalışanı olmayıp 5684 sayılı Sigortacılık Kanun'u çerçevesinde faaliyet sürdüren bağımsız bir kişi olduğundan, aksi kanıtlanmadıkça eksper tarafından yapılan tespitlere itibar edilmelidir. Mahkemece eksper tarafından yapılan tespitlerde belirlenen değerin objektif olarak yerinde olup olmadığının denetlenmesi için bilirkişi raporu alınmıştır.Mahkemece alınan 29.01.2020 tarihli makine mühendisi bilirkişisi raporunda toplam zararın ekspertiz raporunda belirtildiği şekilde 7.188,45 Euro olduğu anlaşılmaktadır.
 Alınan bilirkişi raporunda, kazaya karışan aracın davalı ... şirketine ait olduğu belirlenmiştir. Zeminin kusurundan kaynaklı nedenlerle forkliftin bu ağırlık üzerinden kayarak platform üzerine düşmüş olması forklift kullanıcısı olan asıl davada davalı şirketin sorumluluğunu ortadan kaldırmayacaktır. İtiraz üzerine alınan 11.01.2021 tarihli ortak kurul raporunda asıl davada davalının sorumluluğunun %5 oranında, adi ortaklığın sorumluluğunun ise %95 oranında olduğu belirlenmiştir. Davalı adi ortaklığın ortakları kiralama sözleşmesi kapsamında teslim aldıkları emtiayı teslim aldıkları şekli ile iade etme yükümlülüğü altındadırlar. Emtianın teslim edildiği şekilde iade edilmemesi nedeniyle birleşen davadaki davalılar oluşan zarardan sorumludur. Asıl davadaki davalı ise haksız fiil sorumluluğu nedeniyle oluşan zarardan sorumludur.
 
@@ -86,6 +102,8 @@ Her iki dosyadaki davaların farklı hukuki nedenlerle zarardan sorumlu olduklar
 Asliye Hukuk Mahkemesince 05.09.2019 tarihinde görevsizlik kararı verildiği, bu tarihe kadar sadece dilekçelerin teatisi aşamasının tamamlandığı, bunun dışında tekrarlanması gereken bir usul işlemi yapılmadığı, birleşen dava yönünden dilekçelerin teatisi aşamasının ayrıca yapıldığı ve her iki dosya bakımından deliller ortaklaşa toplanarak hasar dosyasının istendiği ve bilirkişi raporunun alındığı görülmüştür. İlk derece mahkemesince oluşturulan hükmün infazı kabildir. Asıl dava bakımından birden fazla takip borçlusu bulunması nedeniyle asıl davanın hüküm fıkrasında hangi takip borçlusunun borçlu olduğunun ayrıca vurgulandığı görülmüştür. Birleşen dava bakımından ise adi ortaklığın ortağı olan tüm borçluların birlikte ve müteselsilen borçtan sorumlu olmaları karşısında birleşen dava bakımından her bir borçlunun adının yeniden zikredilmesine gerek bulunmamaktadır.Takip talebinde talep edilen faiz oranı gösterilmiş olup, davalılarca faiz oranına veya 3095 sayılı Kanun'un 4/a maddesinin uygulanmasına ilişkin açık bir istinaf başvurusu ileri sürülmemiştir.
 
 ## Gaziantep BAM 4. HD 2025/1967 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1167501100)
 
 Dava; adi ortaklığın tasfiyesi ve alacak istemine ilişkindir.
 
@@ -99,6 +117,8 @@ Dosyada mevcut adi ortaklığa dahil olan davacı ve diğer gerçek şahıs dava
 
 ## Ankara BAM 21. HD 2025/1200 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1185303100)
+
 6098 sayılı Türk Borçlar Kanunu'nun 620 ve devamı maddelerinde düzenlenen adi ortaklığın taraf ehliyeti yoktur. Bu nedenle, adi ortaklığa ilişkin davalarda, adi ortaklığı oluşturan kişilerin taraf olarak hep birlikte hareket etmeleri gerekir. Adi ortaklık tarafından açılacak davaların iştirak halinde mülkiyet hükümleri gereği bütün ortaklar tarafından birlikte açılması gerekir. Adi ortaklığa karşı açılacak davalar yönünden ise; ikili bir ayrım yapmak gerekecektir. Davanın konusu paradan başka bir şey ise davanın bütün ortaklara karşı birlikte açılması (mecburi dava arkadaşlığı), davanın konusu para ise; ortaklar bu borçtan müteselsil sorumlu bulunduklarından ortaklardan biri, bazıları ya da tümüne karşı (ihtiyari dava arkadaşlığı) dava açılabilecektir (Emsaller; Yargıtay 19. Hukuk Dairesinin 19/02/2019 tarih 2017/2797 Esas 2019/974 Karar, Yargıtay 11. Hukuk Dairesinin 28/03/2019 tarih 2017/3587 Esas 2019/2414 Karar, Yargıtay 15. Hukuk Dairesi 19/11/2017 tarih 2016/3389 Esas 2017/4494 Karar, sayılı ilamları). Taraf ehliyeti, 6100 sayılı HMK'nın 114/1-d maddesi gereğince dava şartlarından olup, taraflarca ileri sürülmese dahi, mahkemece re'sen dikkate alınması gerekir.
 Hal böyle olunca mahkemece, asıl davada, davacı şirkete, tasfiyesine ilişkin bir delil sunulamayan adi ortaklığı oluşturan dava dışı diğer şirketin de davada yer almasını sağlamak üzere süre verilerek davacı tarafça Ankara 5. ATM'nin 2022/53 Esas sırasında açılarak birleştirilen ve asıl davayla birlikte görülen birleşen dava yönünden, herhangi bir usul hatası yapılmamış olmakla ve yargılama harç ve giderleri ile vekalet ücreti takdirinde bu husus gözetilmiş olmakla; davacı tarafa yol gösterildiği, birleşen davada taraf olmadığı halde aleyhine yargılama harç ve giderleri ile vekalet ücreti takdir edildiği şeklindeki davalı banka itirazları yerinde olmayıp reddi gerekmiştir.
 
@@ -107,6 +127,8 @@ San. Tic. Ltd. Şti. Adi Ortaklığının taraf ehliyeti yoktur. Bu nedenle, adi
 "Davalı banka hakkında açılan davanın, davacı adi ortaklığın taraf ehliyeti bulunmadığından, dava şartı yokluğundan HMK'nun 114/1.d, 115. maddeleri uyarınca usulden reddine," yönelik kesin olmak üzere karar verilmiş olup kesin olmak üzere ve usul yönünden verilen işbu kararın elde ki davada davalı banka yönünden kesin hüküm oluşturmadığı gibi derdest bir davanın varlığından da söz edilmeyeceği anlaşılmakta olup davalı bankanın, bu hususlara ilişkin istinaf isteminin reddi gerekmiştir.
 
 ## Sakarya BAM 7. HD 2025/344 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1129282000)
 
 Dava; tazminat istemine ilişkindir.
 

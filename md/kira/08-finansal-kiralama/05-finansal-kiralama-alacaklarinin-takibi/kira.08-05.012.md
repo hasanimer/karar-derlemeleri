@@ -21,6 +21,8 @@ uyari: "Derleyenin seçtiği alıntılardır; kararın tamamı değildir. Künye
 
 ## İstanbul BAM 44. HD 2021/258 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/641029600)
+
 Kira bedellerini tahsil etmeye yönelik olarak icra dairesi aracılığıyla satış işlemleri gerçekleştirilen davacı şirketin aynı zamanda sözleşmeye konu gayrimenkullerin mülkiyetini de talep etmesinin hukuki bir dayanağı olmadığını, Alacağını icra takibiyle tahsil etmeye çalışan davacı şirketin işbu davayı ikame ederek sözleşmeye konu taşınmazlardaki finansal kiralama şerhinin kaldırılıp tarafına tasarruf yetkisinin verilmesi davacı şirket nezdinde sebepsiz zenginleşmeye neden olacağını, Müvekkil şirketin halihazırda borca yetecek miktarda taşınmazını satışa çıkarmışken, işbu mahkemede ikame etmiş olduğu davanın kabul edilmesi müvekkil şirket nezdinde tahsilde tekerrüre yol açacağını, istinaf başvurusunun usul ve esas bakımından tümüyle reddine karar verilmesini talep etmiştir.İnceleme, 6100 Sayılı Hukuk Muhakemeleri Kanunu'nun (HMK) 355. Maddesi hükmü uyarınca istinaf dilekçesinde belirtilen sebeplerle sınırlı olarak kamu düzenine aykırı hususların olup olmadığı gözetilerek yapılmıştır.Talep;
 Finansal Kiralama sözleşmesine konu gayrimenkul malların, Finansal Kiralama Kanunu 31/3.maddesi gereğince sözleşmeye konu malda tasarruf edilmesine izin verilmesine ve tapudan terkini talebine ilişkindir.Somut olayda, Finansal Kiralama Kanunu 31/3.maddesi gereğince,
 
@@ -28,10 +30,14 @@ sözleşmeye konu malda tasarruf etmelerine izin verilmesini istemiş olması ne
 
 ## İstanbul BAM 44. HD 2021/255 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/642879600)
+
 Aynı faturaya dayalı birden çok faktoring şirketine yapılan kısmi temliklerin toplam tutarı fatura tutarını aşamaz.” hükmü getirilmiş, aynı maddenin 3. fıkrasında ise “Bir kambiyo senedinin ciro yoluyla faktoring şirketine devri hâlinde, kambiyo senedinden dolayı kendisine başvurulan kişi, düzenleyen veya önceki hamillerden biriyle kendi arasında doğrudan doğruya var olan ilişkilere dayanan def’îleri faktoring şirketine karşı ileri süremez; meğerki, faktoring şirketi kambiyo senedini iktisap ederken bile bile borçlunun zararına hareket etmiş olsun.” düzenlemesine yer verilmiştir. Yargıtay'ın yerleşmiş uygulamalarında uyuşmazlığın çözümünde uyuşmazlığın ortaya çıktığı tarihteki mevzuatın uygulanması gerektiği kabul edilmektedir.
 Nitekim, 6361 sayılı Finansal Kiralama, Faktoring ve Finansman Şirketleri Kanunu'nun 9/3. maddesinin iptâli istemini görüşen Anayasa Mahkemesi de 11.02.2014 tarih ve 2014/6-22 Esas ve Karar sayılı ilâmında, itiraz yoluyla iptâl isteminde bulunan mahkemenin gördüğü davada faktoring işleminin 6361 sayılı Kanun'un yürürlüğe girmesinden önce gerçekleştiğinden, mahkemenin uyuşmazlığın çözümünde bu Kanun hükümlerini uygulamasının mümkün olmadığından bahisle itiraz başvurusunu mahkemenin yetkisizliği nedeniyle reddetmiştir. Bu durumda, somut olayda faktoring işlemleri 6361 sayılı Kanun'un yürürlüğe girmesinden önce gerçekleştiğinden uyuşmazlığın Finansman Şirketlerinin Kuruluş ve Çalışma Esasları Hakkında Yönetmelik hükümlerine göre çözümlenmesi gerekir. Uyuşmazlığın çözümünde uygulanacak mevzuat hükümlerinin tespitinden sonra faktoring sözleşmesinin hukuki niteliğine gelince; Kural olarak, kıymetli evraklarda mücerretlik (soyutluk) ilkesi gereği kıymetli evrak ile kıymetli evrakın doğumuna esas teşkil eden temel ilişki arasında bir bağlantı bulunmamaktadır. Kıymetli evrak, temel ilişkiden soyut ve bağımsızdır.
 
 ## İstanbul BAM 43. HD 2021/97 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/634145100)
 
 Gemi ve Kimya Sanayi olup, taşınır rehninin paraya çevrilmesi yoluyla yapılan icra takibinde, takip borçlusu Esat Kağıtçı tarafından 07.02.2014 tarihinde icra dosyasına 183.000 TL’nin ödenmiş olduğu görülmüştür. ... isimli geminin, zararın meydana geldiği taşıma sırasında, davalı ... şirketinin mülkiyetinde olup, söz konusu geminin 3226 sayılı Finansal Kiralama Kanunu çerçevesinde Beşiktaş ... Noterliği’nde düzenlenen 22.08.2006 tarihli ... yevmiye ve 28594 sözleşme numaralı düzenleme şeklinde finansal kiralama sözleşmesi kapsamında ... AŞ’ye finansal kiralama yolu ile kiralandığı, bilahare Beşiktaş ... Noterliği’nin 31.12.2008 tarih ve ... yevmiye numaralı düzenleme şeklinde Finansal Kiralama Sözleşmesine Ek Düzenleme Şeklinde Finansal Kiralama (Devir) sözleşmesinin 9.maddesi gereğince, davacı ...-... Gemi ve Kimya Sanayi’nin ... isimli geminin kiracısı
 
@@ -39,10 +45,14 @@ olduğu dosya kapsamından sabit olup, geminin mülkiyetinin ise, 16.05.2011 tar
 
 ## İstanbul BAM 13. HD 2021/126 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/632931700)
+
 Asliye Ticaret Mahkemesi kararın gerekçesinde aynen " ....şirket müdürü olan davalının müdürlük görevine başladığı tarihten itibaren TTK. hükümleri ve ana sözleşme çerçevesinde ortaklar kurulu toplantısını yapmak üzere çağrıda bulunması ve bu toplantıların yapılmasını sağlaması gerekirken, bu gereği yerine getirmediği, iş bu dava açıldıktan sonra yargılama sırasında 2012 yılından itibaren takip eden yılları da kapsayacak şekilde 16.05.2016 tarihli genel kurul toplantısını yaptığı, şirkete ait taşınmazla ilgili olarak finansal kiralama sözleşmesi akdetmiş ise de sözleşmesel edimleri gereği gibi yerine getirmesini sağlayamadığı ve sözleşmenin feshi ile sözleşme konusu ve şirkete ait gayrimenkulün finansal kiralama şirketine geçmesine neden olduğu, davalının müdür olduğu tarihten itibaren şirket bilançolarının zararla kapatıldığı ve şirketin sermayesinde azalmaların yıllara göre artarak devam ettiği, son olarak sermayenin tamamen yitirilmiş olmasına rağmen yasa gereği mahkemeye bildirimde bulunulmadığı, SGK ve vergi borçlarını zamanında ödemeyerek birikmesine ve gecikme zammı tahakkuk etmesine neden olduğu, dosya içeriği ile sabit olduğundan davalının müdürlük görevini ifası sırasında
 gerekli özeni göstermeyerek bağlılık yükümllüğünü de ihal ettiği, kanunda şirket müdürüne tanınan devredilmez ve vazgeçilmez yetkilerini gereği gibi yerine getirmeyerek kanuni ve ana sözleşmede üstlendiği yükmülüklerini ağır surette ihlal ettiği, şirketi iyi şekilde yönetemediği kanaatine varılmakla TTK. 630/2 maddesine dayalı olarak şirketin diğer davacının davalının müdürlük görevinden azlini istemekte haklı olduğu anlaşılmakla bu istemin kabulü gerektiği sonucuna varılmıştır." denilerek davalının dava dışı ...Ticaret Limited Şirketin' deki müdürlük görevinden azline,Şirketteki müdürlük yetkilerinin kaldırılmasına, .." dendiğini, Zira; İstanbul 1. Asliye Ticaret Mahkemesinin 2015/514 E. Sayılı dosyası ile yapılan yargılamada, davalı şirket ticari defterleri ve ticari kayıtları üzerinde yapılan bilirkişi incelemesi sonucu;…
 
 ## İstanbul BAM 12. HD 2020/1222 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/615816100)
 
 Davalı ... tarafından alınan sipariş avanslarının davalı faktoring şirketine temlik edildiği ,traktörlerin ise teslim edilmediği hususu sabit olup ; dava tarihi itibariyle yürürlükte olan
 
@@ -51,15 +61,21 @@ Bu sebeble keşideciye ileri sürülmesi mümkün olan şahsi defilerin davalı 
 
 ## İstanbul BAM 44. HD 2020/306 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/608452800)
+
 Sayılı takip dosyası içerisinde bulunan Boyabat İcra İflas Müdürlüğü'nün ... talimat sayılı yazısında belirtildiği üzere davaya konu konkasör makinesinin, tedbir isteyen davacıya 10/08/2000 tarihinde teslim edildiği, davacının talep ettiği alacağın 16/07/1998 ile 10/08/2000 tarihleri arasına ilişkin olduğu, Türk Borçlar Kanunu 146.maddesi gereğince zamanaşımı süresinin 10 yıl olduğu nazara alındığında davaya konu malın teslim edildiği tarihten davanın açıldığı tarihe kadar 10 yıllık zamanaşımı süresinin dolduğu gerekçesiyle davanın zamanaşımı nedeniyle reddine karar verilmiştir. Davacı vekili istinaf dilekçesinde; Mahkemece her ne kadar zamanaşımı nedeniyle davanın reddine karar verilmiş ise de, 2001 yılında açılan davalar ve bu davalar neticesinde verilen kararlara yönelik temyiz başvuruları ile zamanaşımı süresinin kesildiğini, davanın reddine yönelik kararın hatalı olduğu gerekçesiyle mahkeme kararının kaldırılmasına karar verilmesini talep etmiştir. İnceleme, 6100 Sayılı Hukuk Muhakemeleri Kanunu'nun(HMK) 355. maddesi hükmü uyarınca istinaf dilekçelerinde belirtilen sebeplerle sınırlı olarak ve kamu düzenine aykırı hususların olup olmadığı gözetilerek yapılmıştır.
 Dava, taralar arasında akdedilen iki adet finansal kiralama sözleşmesi kapsamında davalıya teslim edilen sözleşme konusu makinenin, 25 ay boyunca haksız kullanıldığı iddiasıyla yoksun kalınan kârın davalıdan tahsili istemine yönelik alacak davasıdır. İlk derece mahkemesince, dava 10 yıllık genel zamanaşımı süresinin dolduğu gerekçesiyle reddedilmiştir. Taraflar arasında, Ankara ... Noterliğinin 10/03/1998 tarihli ... yevmiye numaralı ve 16/07/1998 tarihli ... yevmiye numaralı sözleşmeleri ile 2 adet finansal kiralama sözleşmesi akdedildiği, bu kapsamda sözleşme konusu makinenin davalı tarafa teslim edildiği hususlarında uyuşmazlık bulunmamaktadır.
 
 ## İstanbul BAM 17. HD 2020/1954 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/606111600)
+
 Asliye Hukuk Mahkemesinin 2012/526 Esas, sayılı dosyasında İflasın ertelenmesi talebinde bulunduğu, mahkemenin 2013/21 Karar ve 23.01.2013 tarihli kararı ile şirketin iflasına karar verildiği, davacı finansal kiralama alacaklısı şirketin dava dışı ... hakkında İstanbul 22.Asliye Ticaret Mahkemesinin 2011/321 Esas, 2011/75 Karar ve 15.11.2011 tarihli dosyasında, finansal kiralama sözleşmesi kapsamında kiralama bedellerinin ödenmediği gerekçesiyle malların alınarak davacıya aynen teslimine karar verilmesini talep ettiği, mahkemece, sözleşme konusu, kimyasal arıtma sistemi, biyolojik arıtma sistemi, çelik konstrüksiyon fabrika binası, kompozit döşeme, 2008 yılı kiralama konusu, merkezi talaş taşıma konvetör sistemi, kuru tip trafo vb davalıdan alınarak davacıya verilmesine karar verildiği, kararın temyiz edilmeksizin 21.03.2012 tarihinde kesinleştiği, davacı vekilinin, malların müflis şirketin elinde bulunması nedeniyle F.K.K 19.maddesi gereğince İflas masasından tefriki ile taraflarına iadesini talep etttiği, Gebze ...icra Dairesinin ...
 İflas dosyasında, 21.03.2013 tarihli kararla, yazılı menkullerin iflas masasından tefrik ile masrafı talep edilene ait olmak üzere gösterilecek yerde aynen iadesine karar verildiği, 18.03.2013 tarihinde davacı şirket vekili tarafından Gebze Cumhuriyet Başsavcılığına hitaben düzenlenen şikayet dilekçesinde, faillerin kimlikleri meçhul olarak belirtilerek, suç yeri, boş fabrika binası olduğu ifade edilerek sözleşme ilişkisi ve devamında açılan davaların açıklandığı ve dilekçenin sonuç kısmının “6”. bölümünde, fabrika binasının 2 yıldır gayri faal olduğu, boş bir vaziyette ve korunaksız durumda bulunduğu, bu durumdan istifade etmek isteyen kişilerin fabrika binasında mülkiyeti müvekkili şirkete ait olan menkulleri sökmekte oldukları ve sökümlerinde halen devam ettiği belirtilerek, tespit ve güvenliğin sağlanması, eylemi İcra edenlerin tespiti ile haklarında soruşturma açılmasını ve kamu davası açılmasını talep ettiği, 19.03.2013 tarihli, olay yakalama, üst arama ve salıverme tutanağında, 19.03.2013 tarihinde saat 16,30 da belirtilen adreste bulunan ...
 
 ## İstanbul BAM 13. HD 2020/1242 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/605359400)
 
 38/1; “Faktoring sözleşmesi; mal veya hizmet satışından doğmuş fatura ile tevsik edilen alacaklar ile Kurulca belirlenen usul ve esaslar çerçevesinde tevsik edilebilen mal veya hizmet satışına bağlı doğacak alacakları devir almak suretiyle, faktoring şirketinin müşterisine sağladığı tahsilat, borçlu ve müşteri hesaplarının tutulmasının yanı sıra finansman veya faktoring garantisi fonksiyonlarından herhangi birini ya da tümünü içeren sözleşmedir.” şeklinde olduğunu, Yine 6361 s. Kanun madde 9/2 ise; “Faktoring şirketi Kurulca belirlenen usul ve esaslar çerçevesinde kambiyo senetlerine dayalı olsa bile, bir mal veya hizmet satışından doğmuş fatura ile tevsik edilemeyen alacaklar ile Kurulca belirlenen usul ve esaslar çerçevesinde tevsik edilemeyen mal veya hizmet satışına bağlı doğacak alacakları devir alamaz veya tahsilini üstlenemez.
 Aynı faturaya dayalı birden çok faktoring şirketine yapılan kısmi temliklerin toplam tutarı fatura tutarını aşamaz.” şeklinde olduğunu, Söz konusu hükümler gereği; kambiyo senetlerine dayalı olarak bir mal veya hizmet satışından doğmuş fatura ile tevsik edilmeyen alacakları devir alamayacak olan davalı faktoring şirketi; fatura ile tevsik edilen alacaklarda ise istihbarat ve kontrol yükümlülüğünü taşımakta olduğunu, Yargıtay’ın yerleşik içtihatlarına göre “6361 sayılı Finansal Kiralama Faktoring ve Finansman Şirketleri Kanun’un 9/2 maddesinde; “Faktoring Şirketi Kurulca belirlenen usul ve esaslar çerçevesinde kambiyo senetlerine dayalı olsa bile, bir mal veya
@@ -68,11 +84,15 @@ hizmet satışından doğmuş fatura ile tevsik edilmeyen mal veya hizmet satı�
 
 ## İstanbul BAM 45. HD 2020/212 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/613911600)
+
 Yasa metninde anlaşıldığı üzere leasing ile alınan menkul ve gayrimenkul varlıkların mülkiyeti leasing şirketine ait olduğu, borcun tamamı ödenmedikçe davacıya sadece kullanım hakkı verdiği, finansal kiralama konusu edilen malların mülkiyetinin ancak finansal kiralama borçlarının tamamen ödenmesi halinde kiracıya devredileceği ilkesi karşısında, henüz borcun tamamlanmamış olduğu dikkate alınarak davacının kendisine ait olmayan menkul ve gayrimenkullerin borca batıklık bilançosunda yer almaması yerindedir.
 Taşınmazların rayiç bedeli ve markanın değerine yönelik itirazlar değerlendirildiğinde; dava konusu taşınmazların bulunduğu mevki ve değerlerine etki eden objektif faktörler detaylı olarak incelenerek değerlendirildiği, davacı vekilince 08/03/2019 tarihli dilekçe ekinde sunulan 3194 sayılı yasa çerçevesinde yapılan başvuralara ilişkin hazırlanmış yapı kayıt belgeleri de gözetildiği buna göre taşınmazların piyasa rayiçleri araştırılarak 30/06/2019 tarihi itibariyle gayrimenkullerin toplam rayiç bedeli 119.600.350,00 TL tespit edilmiş olup raporun içeriği ve şirketin 31/07/2019 tarihli ara bilançonun kaydi değerlerinde gayrimenkullerin toplam değeri 84.391.616,83 TL olarak gösterildiği dikkate alındığında gayrimenkullerin rayiç bedellerin tespiti noktasında alınan raporun elverişli olduğu, marka değeri konusunda uzman bilirkişiden rapor alındığı, davacıya ait üç marka için 250.000,00 TL değer biçildiği alınan raporun gerekçeli ve denetime elverişli olduğu kanaatine varılmıştır. Davacı .... A.Ş, Yönünden Yapılan Değerlendirme; İflas erteleme talebinde bulunan şirket hakkında iflas erteleme kararı verilebilmesi için öncelikle o şirketin borca batık durumda olması gerekir.
 Bilirkişi heyeti raporunda anlaşıldığı üzere davacı şirketin borca batık durumda olmadığı anlaşılmıştır. Davacı vekili istinaf dilekçesinde davacı şirketin kefalet riskinin de borca batıklık durumunda nazara alınması gerektiğini ileri sürmüştür. Yargıtay içtihatlarında sabit olduğu üzere grup şirketler arasındaki kefalet ilişkisinin borca batıklığın tespiti açısından önem arz etmektedir.
 
 ## İstanbul BAM 45. HD 2020/29 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/600872200)
 
 Ayrıca davanın açıldığı tarihte yürürlükte olan 6100 sayılı HMK'nın 222/2 maddesi "Ticari defterlerin, ticari davalarda delil olarak kabul edilebilmesi için, kanuna göre eksiksiz ve usulüne uygun olarak tutulmuş, açılış ve kapanış onayları yaptırılmış ve defter kayıtlarının birbirini doğrulamış olması şarttır." 222/4.maddesi "Açılış veya kapanış onayları bulunmayan ve içerdiği kayıtlar birbirini doğrulamayan ticari defter kayıtları, sahibi aleyhine delil olur." şeklindedir. Hükme esas alınan bilirkişi raporuna göre, müflis şirketin bir kısım defterlerinin zayi olması sebebiyle sadece 2010 ve 2011 yılı yevmiye defteri incelenmiştir. Bu defterlerin ise açılış tasdiklerinin yapılmış olmasına rağmen kapanış
 
@@ -81,10 +101,14 @@ Noterliğinin 12/06/2014 tarih ve ... yevmiye numarası ile onaylı "Devir Ve Te
 
 ## İstanbul BAM 3. HD 2020/263 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/577316900)
+
 A.Ş ile davacı arasında da eser sözleşmesi bulunmadığı düşünüldüğünde ise davaya konu olaya uygulanacak hükümlerin davacının tercihine göre; vekaletsiz iş görme ya da sebepsiz zenginleşme olduğunu ve husumetin aracın maliki ... A.Ş.'ye ya da kasko sigortacısına yöneltilmesi gerektiğini sürerek kararın kaldırılmasını ve davanın reddine karar verilmesini istemiştir. Dava, Finansal Kiralama Sözleşmesine konu aracın hasara uğramasından dolayı onarım bedelinin ödenmemesi nedeniyle sürücünün işvereni olan davalı şirketten tahsili için başlatılan takibe vaki itirazın iptali davasıdır. Takip dosyasının yapılan incelemesinde,33.702,61 TL asıl alacak ve 4.148,23 TL işlemiş faiz olmak üzere toplam 37.850,84 TL tutarındaki toplam alacağın asıl alacağa işleyecek %10,50 avans faizi ile birlikte tahsilini talep ettiği görülmüştür. Yine dosya içerisinde bulunan ruhsat örneklerinden araç malikinin ... A.Ş. olduğu, sigorta poliçesine göre sigortalının ... A.Ş.
 Sigorta ettirenin ise ... olduğu, kazaya ilişkin sürücü ...'ın ifadesinde ...'ın yanında çalıştığını beyan etmiş olduğu, 28.02.2017 günlü ön inceleme duruşmasında davalı vekilinin aracın müvekkiline değil ...'ya kiralandığını, sürücünün şirketinin elemanı olduğunu ve şirketin aracın işleteni olduğunu kabul ettiğine yönelik beyanda bulunduğu, dosya içerisinde finansal kiralama sözleşmesinin bulunmadığı ancak kiracının ... olduğu yönünde ihtilaf bulunmadığı, sigorta şirketinin 02.12.2016 tarihli cevabi yazısından dosyadan yapılan ödemenin bulunmadığının bildirildiği anlaşılmaktadır. Buna göre yapılan değerlendirmede; davacının dava dilekçesinde taraflar arasındaki cari hesap ilişkisine dayandığı, yargılama sırasında ise dava konusu ... plaka sayılı aracın tamir bedelinin talep edildiğinin beyan edildiği nazara alındığında, talebin eser sözleşmesinden kaynaklandığı değerlendirilmiştir.
 
 ## İstanbul BAM 16. HD 2019/2900 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/555426100)
 
 İcra Müdürlüğünün ... esas sayılı dosyasına yapılan itirazın iptaline, icra takibinin takip talebinde belirtilen miktarlar üzerinden devamına, davalı borçlunun itiraz ettiği miktarın
 
@@ -93,20 +117,28 @@ Davacı-birleşen davada davalı vekilinin süresinde ibraz ettiği istinaf dile
 
 ## İstanbul BAM 17. HD 2019/1082 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/509576600)
+
 GEREĞİ DÜŞÜNÜLDÜ: Dava İİK 179. vd. ile, TTK 376. vd. maddelerinde düzenlenen iflasın ertelenmesi davasıdır.Dava açılmasıyla birlikte mahkemece verilen 02/06/2016 tarihli ihtiyati tedbir kararında "davacı şirket hakkında 6183 sayılı kanuna göre yapılmış olan ve daha sonra yapılacak takiplerde dahil olarak İİK'nın 206.m.1 sırasında yazılı alacaklar için yapılan takipler ve rehinli takipler haricindeki tüm icra ve iflas takipleri, satış ve muhafaza işlemleri, ihtiyati haciz uygulamaları gibi tedbir uygulamalarının İİK'nın 179/b maddesine göre durdurulmasına, yeni takip ve ihtiyati haciz yapılmamasına" şeklinde hüküm kurulmuştur.Müdahil ...
 A.O vekili, 26/09/2018 tarihli dilekçesinde, davacı şirket ile müvekkili şirket arasında finansal kiralama sözleşmeleri düzenlenmiş olduğunu, davacı şirketin sözleşmeden kaynaklan borçlarını ödememesi nedeniyle finansal kiralama sözleşmelerinin feshedildiğini ve İstanbul 33.Asliye Ticaret Mahkemesinin 2013/305 esas sayılı dosyasından verilen ihtiyati tedbir kararı ile sözleşmeye konu menkullerin müvekkili şirkete teslimine karar verildiği, söz konusu ihtiyati tedbir kararının devam ettiği, fakat mahkemece verilen ihtiyati tedbir kararına rağmen davacı şirketin, mülkiyeti müvekkili şirkete ait menkulleri kullanmaya devam ettiği, yıpranmalarına ve ekonomik değerlerine kaybetmelerine sebep olduğu, bu nedenle Yargıtay uygulaması da dikkate alınarak, mülkiyeti finansal kiralama şirketine ait malların iadesini durduracak nitelikte verilen ihtiyati tedbir kararının kaldırılmasına, talebin reddi halinde, ihtiyati tedbir kararında açıklık bulunmadığından ve infazda tereddüt yarattığından, HMK 391-2 c maddesi uyarınca 2/6/16 tarihli ihtiyati tedbir kararının, finansal kiralamaya konu malların tedbiren finansal kiralama şirketlerine teslimine ilişkin ihtiyati tedbir kararlarının, infazını
 durdurup durdurmadığı hususunda ihtiyati tedbir kararının açıklanması yönünde ara karar verilmesi talep edilmiştir.
 
 ## İstanbul BAM 16. HD 2019/1158 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/501785000)
+
 GEREĞİ DÜŞÜNÜLDÜ:Dairemiz, finansal kiralama sözleşmesinden kaynaklanan her tür dava sonunda verilen hüküm ve kararların istinaf incelemesi ile görevlidir. Somut olayda uyuşmazlık ihtiyati haciz isteyen vekilinin de istinaf dilekçesinde açıkça belirttiği üzere araç kiralama sözleşmesinden kaynaklanmaktadır. Nitekim ihtiyati haciz isteyen vekili istinaf dilekçesi ekinde araç kiralama sözleşmeleri sunmuştur. Öte yandan dairemiz ticari nitelikteki itirazın iptali ve menfi tespit davaları sonunda verilen hüküm ve kararların istinaf incelemesini yapmakla görevli ise de somut olayda itirazın iptali ve menfi tespit davası dışında bağımsız açılan ihtiyati haciz talebi mevcuttur. Bu açıklamalar gözetildiğinde istinaf inceleme görevi Dairemize ait olmayıp, Hakimler ve Savcılar Kurulu'nun 13/02/2018 gün ve 208 sayılı iş bölümü kararı gereğince İstanbul Bölge Adliye Mahkemesi 35. ve 36. Hukuk Dairelerine ait olduğundan görevsizliğe ilişkin aşağıdaki karar verilmiştir.
 
 ## İstanbul BAM 13. HD 2019/743 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/505888000)
 
 Buna göre borçlu kendisi dinlenmeden verilen ihtiyatî haczin dayandığı sebeplere, mahkemenin yetkisine ve teminata karşı itiraz edebilecektir.İtiraz eden ... genel kredi sözleşmelerinde imzası bulunmadığını ileri sürmüş ise de, her iki genel kredi sözleşmesinde de müteselsil kefil olarak imzası bulunmaktadır. Bu nedenle bu itirazı yerinde değildir. İhtiyati haciz talebine dayanak olarak gösterilen finansal kiralama sözleşmesinden kaynaklı borcun rehinle temin edildiği itirazına gelince, bu borcun rehinle teminat altına alındığına dair dosya içinde bir bilgi bulunmamaktadır. GKS'lerin Kefalet Sözleşmesi başlıklı 27. maddesinin 1. bendinde asıl borçlunun kullandığı ve kullanacağı kredilerden doğan borçların ve 2.3 bendinde finansal kiralamadan ve kredi kartından kaynaklanan borcun kefalet kapsamında olduğu açıkça belirtilmiştir. Dosyada asıl borçlunun kredi borcuna karşılık araç rehni alınmış ise de, bu rehin kefilin kefalet borcuna ilişkin olarak verilmemiştir. Bu nedenle itiraz eden ...'nun bu yöne ilişkin itiraz sebebi de yerinde değildir.
 Bu borçlunun adına atılı bulunan imzaların eli ürünü olmadığı yolundaki ve diğer itiraz sebepleri ise İİK 265. maddede sınırlı olarak belirtilen itiraz sebepleri arasında değildir. Bu nedenle bu borçlunun gayrınakdi kredi borcuna ilişkin itirazı dışındaki itirazlarının reddi gerekir. İhtiyati haciz talep eden alacaklı talep dilekçesinde hesap ekstresinde ön görülen tüm alacak miktarı üzerinden değil bu borçlu hakkında 366.062,08 TL alacak için ihtiyati haciz talep etmiştir. Hesap ekstresinde belirtilen işletme kredileri, finansal kiralama sözleşmesinden doğan borç ve hamillere ödenerek nakdi krediye dönüşen çek sorumluluk bedellerinden kaynaklanan borçlar, talep edilen ihtiyati haciz miktarını geçmektedir. Bu borçlunun kefalet miktarı da talep edilen miktardan fazladır. Bu nedenle bu borçlu hakkında itirazın reddi gerekirken kısmen kabul kararı usul ve yasaya aykırı olmuştur.Buna göre itiraz eden ...'nun istinaf sebepleri yerinde olmadığından istinaf başvurusunun esastan reddi gerekmektir.
 
 ## İstanbul BAM 17. HD 2019/748 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/493723600)
 
 GEREĞİ DÜŞÜNÜLDÜ: Dava, Finansal Kiralama Sözleşmesinden kaynaklanan alacakların tahsili amacıyla başlatılan icra takibine itirazın iptali talebine ilişkindir.Taraflar
 
@@ -114,10 +146,14 @@ arasındaki uyuşmazlık Finansal Kiralama Sözleşmesinden kaynaklanmakta olup,
 
 ## İstanbul BAM 9. HD 2019/207 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/490204000)
+
 Şti. isminde bir şirket olmadığını, finansal kiralama sözleşmesi incelendiğinde davacının beyan ettiği şekliyle bir hükmün olmadığının anlaşılacağını belirterek İlk Derece Mahkemesi kararının asıl dava ve birleşen dava yönünden kaldırılarak, davacının menfi tespit talebinin reddine, temlik sözleşmesinin iptali için asıl ve birleşen dosyalar yönünden talebin reddine karar verildiğinden temlik miktarları (sözleşme miktarları) esas alınarak vekalet ücretinin davacıdan tahsili ile müvekkiline ödenmesine karar verilmesini talep etmiştir.Dava, muvazaalı olduğu iddia edilen temlik sözleşmesinin iptali ile menfi tespit istemine ilişkindir. ... ile dava dışı ...Ltd.Şti. arasında finansal kiralama sözleşmesi yapıldığı, sözleşme gereğince kiracı şirket tarafından ödenmesi gereken borç ödenmeyince davalı ... tarafından sözleşmenin feshedilerek kiracı ...Ltd.Şti. ve kiracı kefilleri olan davacı ... ve dava dışı ..., ... ve ... aleyhine İstanbul ....
 İcra Müdürlüğünün ... ve ... esas sayılı dosyaları ile icra takibi başlatıldığı, takip işlemleri sırasında, kefil ... eşi davalı ... tarafından icra takip dosyaları ile talep edilen borç ödenerek, alacağın temlik alındığı ve ... ile davalı ... arasında temlik sözleşmesi yapıldığı, davacı tarafça bu temlik sözleşmesinin muvazaalı olarak yapıldığı, gerçekte ödemenin kefil ... tarafından yapıldığı iddia edilerek temlik sözleşmesinin iptali ile davacının icra takip dosyaları ile talep edilen alacaklar yönünden, borçlu olmadığının tespitine karar verilmesinin talep edildiği anlaşılmaktadır. Kefalet sözleşmesi, Türk Borçlar Kanunu'nun 581. maddesinde, kefilin alacaklıya karşı, borçlunun borcunu ifa etmemesinin sonuçlarından kişisel olarak sorumlu olmayı üstlendiği sözleşme olarak tanımlanmıştır. Aynı yasanın müteselsil kefalet başlıklı 586. maddesinde: "Kefil, müteselsil kefil sıfatıyla veya bu anlama gelen herhangi bir ifadeyle yükümlülük altına girmeyi kabul etmişse alacaklı, borçluyu takip etmeden veya taşınmaz rehnini paraya çevirmeden kefili takip edebilir.
 
 ## İstanbul BAM 12. HD 2018/1611 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/457402300)
 
 Bu durumda davacı tarafça iddia edildiğinin aksine ipotekli takibe konu taşınmazın, 05/01/2009 tarihinde meydana geldiği ileri sürülen hırsızlık olayı sonrasında davalı ... şirketinin ödeme yapmaması üzerine değil, olaydan çok önce finansal kiralama bedellerinin ödenmemesi üzerine başlatılan takibin sonucu olarak satıldığı anlaşılmaktadır. Öte yandan dava dilekçesinde, taşınmaz satışından önce davacı tarafça davalı aleyhine icra takibi başlatıldığı ve itiraz üzerine itirazın iptali davası açıldığı, itirazın iptaline karar verildiği ileri sürülmüş ise de, ilk derece mahkemesince davacı vekiline bu davaya ilişkin mahkeme bilgilerinin verilmesi için süre verilmiş olmasına rağmen herhangi bir bilgi verilmediğinden söz konusu dosya incelenememiş ve gerçekte böyle bir dava olup olmadığı belirlenememiştir.İstinaf dilekçesinde de bu davaya ilişkin bilgi verilmemiş,ancak finansal kiralama şirketinin davalı şirket hakkında açtığı İstanbul 47.ATM nin 2010/142 esas sayılı dosyasında açılan davanın kısmen kabulu ile 180.000-TL tazminat ödemesinin finansal kiralama şirketine yapılmasına karar verildiği anlaşılmakla finansal kiralama şirketinin
 
@@ -125,14 +161,20 @@ dosya davacısına muvafakat vermediği ,davayı kendisinin açtığı ,iki kez 
 
 ## İstanbul BAM 16. HD 2018/2477 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/450302700)
+
 13/12/2012 tarihli 28496 sayılı Resmi Gazetede yayınlanarak yürürlüğe giren 6361 Sayılı Kanun'un 9/3 maddesinde;" Bir kambiyo senedinin ciro yoluyla faktoring şirketine devri hâlinde, kambiyo senedinden dolayı kendisine başvurulan kişi, düzenleyen veya önceki hamillerden biriyle kendi arasında doğrudan doğruya var olan ilişkilere dayanan def’ileri faktoring şirketine karşı ileri süremez; meğerki, faktoring şirketi kambiyo senedini iktisap ederken bile bile borçlunun zararına hareket etmiş olsun." hükmü düzenlenmiştir.
 
 ## İstanbul BAM 17. HD 2018/1483 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/438371400)
 
 Taraflar arasında imzalanan finansal kiralama sözleşmelerinden kaynaklanan davalının ödenmeyen borçları nedeniyle 5 ayrı icra takibi başlatıldığı, bunlardan İstanbul ...
 İcra Müdürlüğü’nün... sayılı dosyası nedeniyle huzurdaki iflas davasının açıldığı, iflas davası açılmadan önce fakat icra takibi başlatıldıktan sonra taraflar arasında yapılan 30/07/2010 tarihli protokolün ödemelerin zamanında yapılmaması nedeniyle geçerliliğini yitirdiğinin tarafların kabulünde olduğu gibi mahkemenin de kabulünde olduğu konularında da tartışma olmadığına göre; davacı vekilinin istinaf dilekçesinde de işaret ettiği üzere, 6098 sayılı Türk Borçlar Kanunun 100 (mülga 818 sayılı Borçlar Kanununun 84) maddesi göz önüne alınarak dava konusu icra takibine ilişkin ödemelerin hangi tarihlerde yapıldığı ve bu icra dosyasına ilişkin (hangi finansal kiralama sözleşmesine ilişkin ise) ana borcun, faizlerin ve vekalet ücreti dahil masrafların ödenip ödenmediğinin açık ve net olarak tespiti ile yapılan ödemeler (ödeme tarihlerine göre) mahsup edilerek (gerekirse TBK 100.hükmü nazara alınarak bu konuda davacı tarafa açıklama yaptırılmak suretiyle) buna göre İİK.nun 158.maddesine uygun, karar tarihine en yakın hesap yapılıp sonucuna göre işlem yapılması gerekirken tüm icra dosyaları ve yapılan tüm finansal kiralama sözleşmelerinden doğan borç birlikte değerlendirilerek yazılı
 şekilde hüküm kurulması doğru olmamıştır. Bu nadanla davalı vekilinin istinaf taleplerinin reddine, davacı vekilinin istinaf taleplerinin kabulüne karar vermek gerekmektedir.
 
 ## İstanbul BAM 15. HD 2018/989 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/417893700)
 
 Kiralayan .... Finansal Kiralama A.O ile kiracı ...Restoran Ltd.Şti ve müşterek borçlu ve müteselsil kefil ... arasında düzenlenen Bursa .... Noterliği'nin 21/10/2013 tarih ve ...yevmiye nolu Düzenleme Şeklinde Finansal Kiralama Sözleşmesi ile, ek-1'de belirtilen malların 4 yıl süreyle 316.977,50 TL bedel ile kiralanması kararlaştırılmıştır.

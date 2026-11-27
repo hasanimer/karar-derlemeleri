@@ -22,4 +22,6 @@ uyari: "Derleyenin seçtiği alıntılardır; kararın tamamı değildir. Künye
 
 ## Yargıtay 3. HD 2017/12812 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/371154500)
+
 Konut ya da çatılı işyeri niteliğindeki bir taşınmazı iktisap eden kimse dilerse eski malik ile kiracı arasında yapılmış sözleşmeye dayanarak sözleşmenin sonunda bir ay içinde, dilerse TBK.’nun 351. maddesi uyarınca edinme günü de dahil olmak üzere edinme tarihinden başlayarak bir ay içinde durumu kiracıya yazılı olarak bildirmek koşuluyla edinme tarihinden itibaren altı ay sonra ihtiyaç nedeniyle tahliye davası açabilir. **Davanın altı ayın sonunda hemen açılması şart olmayıp sözleşme sonuna kadar açılması mümkündür**. Ancak edinmeyi izleyen bir ay içerisinde bildirimin tebliği zorunlu olup bunun sonradan giderilmesi mümkün değildir. Açılacak davada tahliyeye karar verilebilmesi için ihtiyacın varlığının kanıtlanması gerekir.

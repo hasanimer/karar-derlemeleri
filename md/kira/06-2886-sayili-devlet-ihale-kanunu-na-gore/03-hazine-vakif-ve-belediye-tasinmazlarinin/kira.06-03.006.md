@@ -22,20 +22,28 @@ uyari: "Derleyenin seçtiği alıntılardır; kararın tamamı değildir. Künye
 
 ## Yargıtay 6. HD 2014/4435 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/97256400)
+
 Hükme esas alınan 16.1.2004 başlangıç tarihli ve 31.12.2012 bitiş tarihli Orman İçi Dinlenme İhale Sözleşmesi konusunda taraflar arasında bir uyuşmazlık bulunmamaktadır. Sözleşmenin 46. maddesinde:"işletmeci; kendisine teslim edilen saha ve tesisler ile ilğili her türlü ruhsatı kendisi almak zorundadır.” hükmü yer almaktadır. Davacı vekili, dava dilekçesinde, kiraladığı yerin Antalya Avsallar Belediyesi sınırları içinde kaldığını, Belediyece bu yerin işletilebilmesi için belediyeden işletme ruhsatı ve Turizm Bakanlığından turizm işletme belgesinin alınması, bunlar alınmadan faaliyete devam edilemeyeceğinin bildirildiğini, Belediyece faaliyetin 11.11.2004 tarihinde durdurulduğunu, belirterek peşin ödediği kira bedelinden kullanamadığı 11.11.2004-31.12.2004 tarihler arasında 50 günlük 154.543.31 TL nin tahsilini istemiştir. Sözleşmenin 46.maddesinde kiralananın tesliminden sonra işletmeciye teslim edilen saha ve tesislerin
 
 ruhsatının alınması işletmecinin görevindedir: Yani sözleşmeye göre davacı kiracı kiralanan saha ve üzerindeki tesislerin ruhsatsız olduğunu bilmektedir. Davacı tacir olup, basiretli bir tacir gibi davranmak zorundadır. Öte yandan Avsallar Belediyesi 11.11.2004 tarihli davacı şirkete yazdığı yazıda ruhsat alınması ve yasal işlemlerin tamamlanması için faaliyetin durdurulmasını istemiş, 12.11.2004 tarihli yazısında da faaliyetin durdurulacağı bildirildiği halde, 26.6.2005 tarihli yazısında 11.11.2004 tarihli yazımızla uyarı yapıldığı mühürlenerek kapatma işleminin yapılmadığı, bildirmiştir. Bu durumda uyarı yazısı yazılmasına rağmen kiralananın davacı şirket tarafından faaliyetine devam ettiği anlaşılmaktadır. Davacı şirket bu eksikliklerden dolayı seçimlik hakkı olan TBK.nun 305 ve 306.maddelerine göre sözleşmenin feshi ve kira…
 
 ## Yargıtay 8. HD 2014/6231 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/303887300)
+
 Açıklanan olgular tarafların ve mahkemenin bilgisi dahilindedir. Uyuşmazlık, Devletin hüküm ve tasarrufu altındaki kamu malı niteliğinde bulunan kumsal alan ve kıyı kenar çizgisinin deniz tarafında kalan yerlerin Hazine ya da Belediyelerce kiraya verilip verilemeyeceği ve yapılan Kiracılık Sözleşmesinin geçerli olup olmadığı, ayrıca dava dilekçesindeki taleplere göre men ve kal kararı verilip verilmeyeceğinde toplanmaktadır.
 
 ## Yargıtay 8. HD 2014/4201 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/98554900)
 
 Toplanan deliller tüm dosya kapsamından; dava konusu taşınmazın dava dışı idareye ait olduğu ve davacının bu yeri Vakıflar Genel Müdürlüğü, Şanlıurfa Bölge Müdürlüğü'nden kiraladığı tartışmasızdır. Dosyada mevcut 18.12.2008 ve 31.03.2010 tarihli “kira taahhütnamesi başlıklı belge kapsamına göre davalının bu yeri asıl kiracıdan kiraladığı ileri sürülmüş ise de söz konusu taahhütnamenin kapsamındaki imzaların H.. Y..’e ait olmadığına ilişkin Adli Tıp Kurumu Başkanlığı Fizik İhtisas Dairesi Adli Belge İnceleme Şube Müdürlüğü'nün 08.08.2011 tarih 5154 sayılı dosyada mevcut kararından anlaşılmaktadır. Açıklanan olgular tarafların ve mahkemenin bilgisi dahilindedir. Uyuşmazlık TMK’nun 973 ve devamı maddeleri uyarınca zilyetliğin korunmasına ilişkin işbu davada Yargıtay İçtihadı Birleştirme Kurulu'nun 09.10.1946 tarih, 1946/6-12 Esas ve Karar sayılı kararında aynen “…MK’nun 896 (TMK’nun 983) maddesi uyarınca bir taşınmazda zilyetliği tecavüze uğrayan kimsenin bu hakkının korunması için açacağı davada; şey’e malik olduğunu veya zilyetlik hakkını beyana lüzum olmadan sadece zilyetlik sıfatını değiştirerek tecavüzü ispat etmesi yeter.
 Bu halde, hakim, yalnız davacının gerçek ise zilyetlik halini tespit ederek tecavüzün önlenmesine karar verir. Bu karar, zilyetlik konusunda kesin hüküm meydana getirmez. Zilyede mülkiyet hakkı vermez ve diğer tarafa mülkiyet iddiasıyla yetkili mercilerde başkaca dava açmak hakkına dokunmaz…” denilmektedir.
 
 ## Yargıtay 6. HD 2014/2765 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/97260400)
 
 Mülga 80 sayılı Haller Yasasının 1. maddesinde 1580 sayılı Kanun'un 15 inci maddesinin 58 inci bendine göre tesis edilen toptancı hal'leri, amme emlakinden sayılıp kiraya verilemezler, aynı Yasanın 6. maddesinde Belediyece, hal'de kendilerine muayyen yer tahsis edilenler; işgal ettikleri yerler için, 1580 sayılı Kanun'un 70 inci maddesinin 8 inci bendine göre Belediyeye ücret öderler, düzenlemesi bulunmakta ise de, 01.01.2012 tarihinde
 
@@ -43,6 +51,8 @@ yürürlüğe giren 5957 sayılı Sebze ve Meyveler ile Yeterli Arz ve Talep Der
 Bu durumda, 01.10.2011 tarihinde yürürlüğe giren 6100 Sayılı HMK.nun Sulh Hukuk Mahkemelerinin görevini düzenleyen 4. maddesinin 1/a bendi gereğince kiralanan taşınmazların İcra ve İflas Kanunu'na göre ilamsız icra yolu ile tahliyesine ilişkin hükümler ayrık olmak üzere, kira ilişkisinden doğan alacak davaları da dahil tüm uyuşmazlıkları konu alan davalar ile bu davalara karşı açılan davalar Sulh Hukuk Mahkemesinin görevine girdiğine göre işin esasının incelenerek sonucuna göre karar verilmesi gerekirken, yazılı şekilde karar verilmesi doğru değildir.
 
 ## Yargıtay 6. HD 2014/2166 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/97327100)
 
 Davada dayanılan ve hükme esas alınan 01.07.2009 başlangıç tarihli ve beş yıl süreli kira sözleşmesi konusunda taraflar arasında uyuşmazlık bulunmamaktadır. Sözleşme ile kiralanan, ekmek fırını ve unlu mamüller imalathanesi olarak kullanılması için davacıya kiralanmıştır. Sözleşmenin özel şartlar 12 maddesinde Dükkanın fırınlı unlu mamuller imalatı ve satışı için gerekli baca ve işyeri açma ruhsatı için gerekli izin ve muvafakatlerin mal sahibi tarafından alınacağı ve kontrat bitimine kadar sorumluluğunun devam edeceği, sözleşmenin genel şartlar bölümü 16. maddesinde de, kiracının kiralanana yaptığı faydalı ve lüks masrafların bedelini kiralayandan isteyemeyeceği ve sözleşme bitiminde bunları kiralayana teslim etmek zorunda olacağı kararlaştırılmıştır. Bu şartlar geçerli olup tarafları bağlar.
 Davacı kiracı, kira sözleşmesinin düzenlenmesinden sonra taşınmazı kiralama amacına uygun hale getirmek, fırın ve unlu mamuller satış ve imalathanesi olarak kullanabilmek amacıyla birtakım onarım, tamirat ve iyileştirmeler yaptığını, ancak davalının sözleşmenin özel hükümler 12. maddesine göre yükümlülüklerini yerine getirmediğini, kat maliklerinden gerekli izini alamadığını, aksine kat malikleri kurulunun fırın yapılmasına izin verilmemesine, yapılan fırın bacasının yıkılması için belediyeye müracaat edilmesine karar verdiklerini, bu nedenle mağdur olduğunu ve sözleşmenin süresinden önce 04.03.2010 tarihinde feshedildiğini, belirterek fazlaya ilişkin haklarını saklı tutarak 20.000,00 TL zararının tazminini talep etmiş, 08.11.2012 tarihli ıslah dilekçesi ile bilirkişi raporunda belirlenen imalat bedelleri olan 126.900,00 TL nin tahsilini talep etmiştir.
@@ -52,10 +62,14 @@ kiracı tarafından istenemeyeceği sözleşmenin 16. maddesinde düzenlenmiş i
 
 ## Yargıtay 6. HD 2014/1340 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/97234400)
+
 Davada dayanılan ve hükme esas alınan 08.03.2010 tanzim ve 01.04.2010 başlangıç tarihli ve 5 yıl süreli kira sözleşmesi konusunda taraflar arasında uyuşmazlık bulunmamaktadır. Dosya içerisinde bulunan İstanbul 17. Asliye Ceza Mahkemesinin 2011/121 esas sayılı dosyasında, Beyoğlu Belediye Başkanlığı'nın 01.02.2010 tarihli yapı tadil tutanağına göre kargir yapının üzerinde bulunan ve ne zaman yapıldığı belli olmayan profilden yapılmış katın yıkılarak çelik kontrüksiyondan yaklaşık 8x16 m ebatlarında yapı oluşturulduğunun tespit edildiği ve Beyoğlu Belediye Encümeninin 7.9.2010 tarihli kararıyla da yapının yıkılmasına karar verildiği anlaşılmaktadır. Mahkemece, ceza dosyası, tesbit dosyası ve davalı vekili tarafından dosyaya sunulan Beyoğlu Belediye Başkanlığı İmar ve Şehircilik Müdürlüğü'nün 17.12.2012 tarihli rapor fotokopisine göre söz konusu yerde 01.02.2010 tarihli yapı tadil tutanağı ile tespit edilen aykırılıkların ilgilisince giderildiğinin tespit edildiği de gözetilerek kiralananın 31/05/2011 tarihinde tahliye edildiği kabul edilerek dava reddedilmiştir.
 Hükme esas alınan Belediye İmar ve Şehircilik Müdürlüğüne ait rapor, fotokopi olduğu gibi davaya konu yere ait olup olmadığı da yerinde tespit edilmemiştir. Öte yandan davalı, davacı kiracının 31.05.2011 tarihinde taşınmazı terk ettiğini iddia ediliyorsa da dosya içeriğine göre davacı kiracının taşınmazı tahliye edip yasal anahtar teslimi yaptığına dair bir delil sunulmamıştır. Bu durumda mahkemece mahallinde keşif yapılarak davaya konu yerin yıkılıp yıkılmadığı usulünce belirlenerek sonucuna göre bir karar verilmesi gerekirken yazılı şekilde eksik araştırma ile karar verilmesi doğru değildir.
 
 ## Yargıtay 6. HD 2014/127 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/96743800)
 
 Olayımıza gelince; davada dayanılan ve hükme esas alınan 30.1.2009 başlangıç tarihli ve beş yıl süreli kira sözleşmesi konusunda taraflar arasında uyuşmazlık bulunmamaktadır. Sözleşme ile B.. Belediyesi A.. Ş..P..'nda bulunan kafeterya işletmesi davalıya kiralanmıştır. Sözleşmenin özel şartlar bölümü 7. maddesinde hizmet ile ilgili herhangi bir kusur veya şartname maddelerinden herhangi birine riayetsizlik halinde konunun yükleniciye yazılı ihtarla bildirileceği, görülen eksikliklerin ve hataların düzeltilmesinin isteneceği, eksikliklerin verilen süre içinde giderilmemesi halinde birinci sefer için 500 TL ceza uygulanacağı, üç ay içinde benzeri eksikliklerin veya hataların üç defa ve üzeri yapılması durumunda idarenin sözleşmeyi feshetmeye yetkili olduğu kararlaştırılmıştır. Yine sözleşme teknik şartnamesinin 2. maddesinde, davalı kiracının kiralananın bakımı konusunda yapması gereken işler gösterilmiş, teknik şartnamenin 23. maddesinde de, denetim biriminin üç ayda bir işletme ile ilgili teknik şartnameye uyulup uyulmadığı konusunda rapor hazırlayıp idareye sunacağı düzenlenmiştir. Kiracılık süreci içinde davacı
 
@@ -64,9 +78,13 @@ Böylelikle, davacı akde aykırılık hukuki sebebine dayanarak kiralananın ta
 
 ## Yargıtay 6. HD 2014/91 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/96741900)
+
 01.10.2011 başlangıç tarihli, 12 yıl süreli kira sözleşmesinin davalılara arsında akdedildiği husunda uyuşmazlık yoktur.Uyuşmazlık kiralayan sıfatına sahip olmayan davacının dava açma yetkisinin bulunup bulunmadığı ve açılan davanın iki haklı ihtar nedeniyle tahliye şartlarını taşıyıp taşımadığı hususundadır.Davacı ,3.10.2011 tarihinde Maliye Hazinesi ve Belediye Başkanlığı aleyhine açtığı tapu iptal ve tescil davasında verilen hüküm ile dava konusu yerin maliki olduğunu gerek 25.04.2012 keşide tarihli ihtarname gerekse yargılama aşmasında ilgili mahkeme ilamını ibraz ederek belirtmiştir.Bu durumda…
 
 ## Yargıtay 20. HD 2013/11796 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/396797900)
 
 Şöyle ki; Hazine, ... Genel Müdürlüğü, davacı ve katılan gerçek kişiler ile muteriz davacılar arasında çözülmesi gereken konular, çekişmeli taşınmazların, cinsi ... ... ... Vakfı olan ..., Ergöz ve ... - ... Çiftlik tapuları kapsamında olup olmadığı, bu tapu kayıtları kapsamında ise, geldisi olan ... ... ... Vakfının mülk araziden tahsis edilen, sahih ve icareteynli vakıf olup olmadığı, Mart 1290 tarih 18, 19 ve 20 numaralı çiftlik tapularından paylaşım ve intikal yoluyla oluşan Ağustos 1326 tarih 2, 3 ve 4 numaralı tapularda malik olarak görülen Hacı ... kızı ... Hanım'ın kök tapu kaydı maliki ... ... ... ) Efendi'nin kızı olup olmadığı, tapu kayıtlarının doğru temele dayanıp dayanmadığı ve düzenli şekilde intikallerinin yapılıp yapılmadığı ve yine 1948 yılında ölen Hacı ... kızı ...
 Hanımın davacı kişilerin miras bırakanı olup olmadığı, tapu kayıtlarının sahih esasa dayanıp dayanmadığı, çekişmeli taşınmazların bilinen en eski tarihte kimin tarafından kullanıldığı, kimden kime kaldığı, kullanımın Medenî Kanunun yürürlüğünden 10 yıl önceye uzanıp uzanmadığı, Arazi Kanunnamesinin 20 ya da 78. madde hükümlerinin yürürlükte olup olmadığı ve somut olayda uygulanıp uygulanamayacağı; davacıların dayandığı tapu kayıtlarının ... (... Çiftliği), ... (... çiftliği) ve Karaca (... Çifliği) Köylerinde yapılan kadastro işlemlerinde revizyon görüp görmediği,
@@ -76,20 +94,28 @@ Asliye Hukuk Mahkemesinin 1988/333-51 sayılı kararının ve davacıların sund
 
 ## Yargıtay 6. HD 2013/16870 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/521007200)
+
 Davada dayanılan ve hükme esas alınan 28.04.1995 tarihli ve on yıl süreli kira sözleşmesi konusunda taraflar arasında uyuşmazlık bulunmamaktadır. Sözleşme ile kiralanan, sağlık hizmetlerinde kullanılması için ihale ile davalı vakfa kiralanmış, sözleşmenin özel şartlar bölümü 9. maddesinde de, sözleşme süresinin bitmesinden itibaren kiralananın boşaltılmadığı her gün için içinde bulunulan yılın günlük kirasının üç katı ceza ödeneceği kararlaştırılmıştır. Davacı da, 27.01.2009 tarihinde açmış olduğu işbu dava ile, sözleşme bitim tarihinden itibaren kiralananın tahliye edildiği 18.9.2008 tarihine kadar sözleşmenin 9. maddesi gereğince tahakkuk ettirilen 1.628.056.66 TL cezai şartın tahsilini talep etmiştir. Kiracılık süreci içinde ve henüz kira sözleşmesi sona ermeden davalının kiracı olduğu taşınmaz, kiralayan davacı ... Bakanlığı tarafından 3.6.2004 tarihinde yine sağlık hizmetlerinde kullanılması amacıyla Sağlık Bakanlığı'na tahsis edilmiştir.
 Bu tarihten sonra Sağlık Bakanlığı ile davalı vakfın kurucuları arasında bulunan Antalya Büyükşehir Belediye Başkanlığı arasında söz konusu taşınmazın belediyeye devrine muvafakat verilmesi, bunun karşılığında da dava dışı 27059 ada 1 No'lu parselde belediyenin poliklinik yapması konusunda tarihsiz bir protokol düzenlenmiştir. Mahkeme de, anılan protokolden hareketle taşınmazı tahsisen alan Sağlık Bakanlığı'nın taşınmaza ilişkin tasarruflarda bulunması, kiralayan Maliye Hazinesi'nin taşınmazdaki kullanım ve tasarruf hakkını Sağlık Bakanlığı'na tahsis etmesi, bu nedenle kira sözleşmesine dayanarak talepte bulunamayacağı gerekçesi ile davayı husumet ehliyeti yokluğu nedeniyle ret etmiştir. Ne var ki, davacı ile Sağlık Bakanlığı arasında protokol düzenlendiği tarihte henüz kira sözleşmesi sona ermemiş olup, davalı taşınmazdaki kiracılığını sürdürmektedir. Diğer yandan söz konusu protokolün düzenlenmesi, halen ayakta olup geçerliliğini sürdüren kira sözleşmesini ortadan kaldıracak nitelikte değildir.
 Yine taşınmazın tahsis edildiği Sağlık Bakanlığı'nın kiracı durumunda olan davalı vakıf ile kiralananın kullanımına ve kira ilişkisine dair tarafları bağlayacak, yön verecek bir anlaşması da bulunmamaktadır. Adı geçen protokol kira sözleşmesinin tarafı olmayan ... Büyükşehir Belediye Başkanlığı ile yapılmıştır. Belediyenin davalı vakfın…
 
 ## Yargıtay 12. HD 2013/39478 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/55524100)
+
 Dairemizin yerleşik içtihatlarına göre somut olayda ortaklığın giderilmesi ilamına dayanılarak alıcısı üzerine ihalesi yapılan taşınmazın, hissedarlardan ...Belediyesi'nin yaptığı tahsis kararı ile 3.kişi şikayetçiler tarafından işgal edildiği anlaşıldığından ibraz edilen belgelerin tarihine bakılmaksızın İİK 'nun 135.maddesinde bahsedilen 3.kişiler hakkındaki hükmün uygulanmaması gerekir.Tahsis kararına dayanarak oturan kiracıdan ayrıca İİK 135.maddede sayılan belgelerle kiracılığını ispatlaması istenemez. Taşınmazlar üzerinde ihaleden önce hissedar olan ... Belediyesi'nin satış öncesi şikayetçiler ile tahsis kararına dayalı kira sözleşmesi yaptığı anlaşıldığından aynı zamanda hissedar olan ihale alıcısı .... 'ün İİK 135.maddesine dayalı tahliye talebi yasal olmayıp adı geçenin Borçlar Kanunu hükümlerine göre genel mahkemeden tahliye talebinde bulunması ile mümkündür.
 
 ## Yargıtay 6. HD 2013/14847 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/521674500)
 
 Dava konusu olayda uyuşmazlık davacı kiracının akdin feshinde haklı olup olmadığı, sözleşmeden dönme koşullarının gerçekleşip gerçekleşmediği hususundadır. Taraflar arasındaki 12.08.2009 başlangıç tarihli ve 3 yıl süreli optik gözlükçü olarak kullanılmak üzere kiraya verilen boş dükkan niteliğindeki kiralananla ilgili yazılı kira sözleşmesinin imzalanmasından itibaren aradan 1 yıl 3 ay 20 gün süre geçtikten sonra davacı kiracının işyerine çalışma ruhsatı almak için Belediye Başkanlığı'na 02.12.2010 tarihinde başvurusu üzerine, bina yapılırken inşaat ruhsatı ve yapı izin belgesinin olmadığı, yıkım kararı verildiğinden bahisle başvurusunun uygun bulunmadığı bildirilmiş ise de; Daha sonra kiralananın bulunduğu binanın zemin katı ile ilgili herhangi bir yıkım kararının olmadığı yıkım kararının üst katla ilgili olduğu belirlenmiş ve aynı kiralananla ilgili sonraki yeni kiracıya ... Belediye Başkanlığı Ruhsat ve Denetim Müdürlüğü tarafından işyeri açma ve çalışma ruhsatının verildiği görülmüştür. Bu durumda kira sözleşmesinin daha başlangıcında kiralananın ayıplı olmadığı, akdin feshi veya sözleşmeden dönme koşullarının oluşmadığı anlaşılmaktadır.
 Sözleşme kurulurken kiralananın ayıpsız olarak davacı kiracıya teslim edilmesi nedeniyle davalı kiraya verenin bir kusuru bulunmamaktadır. Aksine davacı kiracı basiretli bir tacir gibi davranıp gerekli araştırmayı yapmadığı, yeterince özen ve çabayı göstermediği, kira sözleşmesinin yapılmasından itibaren 1 yıl 3 ay 20 gün gibi makul sayılamayacak uzun bir süre geçtikten sonra çalışma ruhsatı almak için başvuruda bulunduğu, kiralananı erken tahliye ettiği için kusurludur. Hiç kimse kendi kusurundan kaynaklanan zarar için hak talebinde bulunamaz. Bu nedenle davacı kiracı kiralananı tahliye ettiği tarihe kadar kira bedellerinden sorumlu olup, ödediği kira bedellerinin iadesini isteyemez. Mahkemenin davacının ödediği kira bedellerinin iadesine yönelik alacak talebinin reddine karar vermesi yerindedir.
 
 ## Yargıtay 6. HD 2013/14862 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/521700300)
 
 Taraflar arasında 01.09.2008 başlangıç tarihli ve üç yıl süreli kira sözleşmesi imzalanmıştır. Sözleşmeye konu bağımsız bölüm davacıya işyeri olarak kiraya verilmiştir. Sözleşmeyi müteakip kiracı kiralananda faaliyete başlamış ve çalışma ruhsatı alabilmek için belediyeye başvurmuştur. Belediye görevlilerince yapılan incelemede kiralananında içinde bulunduğu binada yönetmelik hükümleri uyarınca zorunlu olan yangın merdiveninin bulunmadığı saptanarak belirtilen bu eksikliğin giderilmesi konusunda bina sahiplerine bir yıllık süre
 
@@ -98,10 +124,14 @@ Somut olayın bu çerçevede değerlendirilerek mahkemece dekorasyon ve tadilat 
 
 ## Yargıtay 6. HD 2013/14606 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/534779400)
+
 Davaya konu ... Cad. No. ..-... adresindeki taşınmaz davalı tarafından 01.02.2004 başlangıç tarihli sözleşme ile davacıya kiraya verilmiştir. Davacı kiracı işyerinin mülkiyetinin dava dışı vakıflar idaresine ait olduğundan bahisle bu durumun ortaya çıktığı Ekim/2006 tarihinden itibaren davalıya kira borcu olmadığının tespitini istemiştir. Kiraya verenin sözleşmeye konu şeyin maliki olması zorunlu değil ise de bir üçüncü kişinin kiralanan üzerinde, kiracının hakkıyla bağdaşmayan bir hak ileri sürmesi durumunda kiraya veren, söz konusu hukuki ayıbı gidermek ve kiracının bu yüzden uğradığı zararları tazmin ile yükümlüdür. Kiraya verenin zapta karşı tekeffül borcu BK.’nun 253. (6098 sayılı TBK.’nun 309)maddesinde düzenlenmiştir. Somut olayda kiralanan taşınmaz ... ve ... nolu parsellere tekabül etmekte olup 29 nolu parselin tümü, 30 nolu parselin ise ½ payının dava dışı Vakıflar idaresine ait olduğu uyuşmazlık konusu değildir. Davacı tarafından dava konusu parsellerin mülkiyet hakkına sahip olan dava dışı Vakıflar idaresine ecrimisil ödenmek zorunda kalındığı bildirilmiştir.
 Kiraya veren kiralananı her türlü maddi ve hukuki ayıptan ari olarak kiracının kullanımına sunmak ve kira müddetince bu hali ile muhafaza etmekle yükümlüdür. Üçüncü kişinin aynî bir hakka dayalı olarak kiralanan üzerinde ileri sürdüğü talepler davalı kiralayanın tekeffülü altındadır. Davacı kiracının menfi tespit istemine konu dönem için dava dışı Vakıflar idaresine ödemek durumunda kaldığı ecrimisil bedellerinin de bu kapsamda değerlendirilmesi zorunludur. O nedenledir ki davacı tarafından menfi tespit…
 
 ## Yargıtay 6. HD 2013/13714 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/535069000)
 
 İcra takibinde dayanılan ve hükme esas alınan 03.06.2004 tarihli belediye encümen kararına istinaden hazırlanan şartname konusunda taraflar arasında bir uyuşmazlık bulunmamaktadır. Şartnameye göre yıllık kira bedeli her yıl belediye encümeni tarafından belirlenecektir. Bu şart gereği ... Belediye Encümeni 27.08.2009 gün ve 39 sayılı kararı ile 2009 yılı kira parasının KDV dahil 365 TL olarak belirlenmesine karar vermiştir. Ancak
 
@@ -109,19 +139,27 @@ aylık kira bedelinin belirlenmesine yönelik söz konusu belediye encümen kara
 
 ## Yargıtay 3. HD 2013/12669 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/242392300)
+
 Bu açıklamalardan sonra somut olaya dönüldüğünde; kiralananın, kiraya verilmesine ilişkin idari şartnamenin .... maddesinde; “Kiraya verilen taşınmazın iç, dış ve üst kısımlarında ilave tadilat ve yıkım, belediyenin onaylayacağı tadilat planına uygun olarak yapılır” hükmünün yer aldığı, davacının kiralananda yaptırdığı imalatlar konusunda davalı belediyenin onayladığı bir tadilat planının var olmadığı, bu hususta dönemin belediye başkanından sözlü olarak onay alındığını ileri süren davacının bu iddiasını da kanıtlayamadığı, buna göre davacının davalı belediyeye ait yapıda kendi malzemesini kullanan kişi konumunda olduğu anlaşılmaktadır.
 
 ## Yargıtay 6. HD 2013/11553 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/537994400)
 
 Takipte dayanılan ve hükme esas alınan taraflar arasında düzenlenen 11.06.2004 tarihli şartname hususunda bir uyuşmazlık bulunmamaktadır. Şartnameye göre yıllık kira bedeli her yıl belediye encümeni tarafından belirlenecektir. Bu şart gereği ... Belediye encümeni 2009 yılı aylık kira parasının 27.08.2009 tarih 36 sayılı encümen kararı ile 365-TL olarak belirlenmesine karar vermiştir. Ancak aylık kira bedelinin belirlenmesine yönelik söz konusu Belediye encümen kararı İdare mahkemesi tarafından iptal edilmiştir ve iptal edilen bu karar Danıştay tarafından onanarak kesinleşmiştir. Taraflar arasında düzenlenen 11.06.2004 tarihli minibüs hattına ilişkin sözleşme geçerli olup tarafları bağlar. 2009 yılına ait kira bedeli belirlenmesine ilişkin encümen kararı iptal edildiği için 2009 yılı kira bedeli bir önceki dönem üzerinden ödenen kira bedeli olarak 2009 yılı dönemini kapsayan talep konusu aylar için de geçerli olduğunun kabulü gerekir.
 Davalı kiracının bir önceki dönemde ödediği aylık kira miktarı üzerinden takip konusu ayların kira parasının ödenmesi gerektiğinden mahkemece, davalı kiracı tarafından bir önceki dönemde ödenen aylık kira miktarı belirlenerek bu belirlenen aylık kira miktarı üzerinden takipte talep edilen 2009 yılı Eylül-Ekim-Kasım-Aralık-2010 yılı Ocak-Şubat-Mart ayları için kira parasının tahsiline karar verilmesi gerekirken yazılı şekilde davanın reddine karar verilmesi doğru değildir. Hüküm bu nedenle bozulmalıdır.
 
 ## Yargıtay 8. HD 2013/10357 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/435633500)
+
 Toplanan deliller tüm dosya kapsamından; dava, mülkiyeti Hazineye ait çaplı taşınmaz üzerindeki davacı kişi ile diğer davalı şahısların maliki oldukları 2 katlı binanın çatısına diğer davalı kişiler ile ... iletişim hizmetleri AŞ. arasında yapılan 5 yıllık kira sözleşmesi gereğince baz istasyonun sökülmesi isteğine ilişkindir. Yargıtay’ın 14, 4, 1 ve zaman zaman Dairemizin istikrar kazanmış kararlarında belirtildiği gibi ve bunları teyit eden Hukuk Genel Kurulu kararlarında da açıklandığı üzere bu yere yapılan baz istasyonu sağlığa zararlı olduğu ve sökülmesi gerektiği halde ölçüm anındaki tespitlerle sağlığa zararlı olmadığı yönündeki bilirkişi raporuna itibar edilmesi doğru olmamıştır. Ancak, kira sözleşmesinin geçerli olması için pay ve paydaş çoğunluğuna sahip olunması gerekir. Somut olayda kiraya verenler pay ve paydaş çoğunluna sahip olan kişiler değillerdir. Öte yandan, dosyaya sunulan satış sözleşmesine göre taşınmazın tamamının davacı tarafından davalıların miras bırakanından haricen satın alındığı anlaşılmaktadır. Öyle ise, davalı kişiler ile diğer davalı ... İletişim Hizmetleri AŞ. arasında düzenlenen ve bir fotokopisi dosyaya sunulan sözleşme geçerli değildir.
 Taşınmazın zemininin Hazineye ait olması iş bu davanın açılıp görülmesine ve karara bağlanmasına engel teşkil etmemektedir.
 
 ## Yargıtay 6. HD 2013/11043 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/573739200)
 
 Köy sınırları içinde kalan davaya konu kaynak suyunun yararlanma hakkı köy tüzel kişiliği tarafından içme ve kullanma suyu olarak kullanılmak üzere davalı belediyeye kiraya verildiği uyuşmazlık konusu değildir. Uyuşmazlık; sözleşmeye dayalı olarak dava açan köy tüzel kişiliğinin aktif dava ehliyetinin bulunup bulunmadığı noktasında toplanmaktadır. Yeraltı Suları Hakkında Kanunun 1.maddesi hükmüne göre yeraltı suları gelen sulardan olup devletin hüküm ve tasarrufu altındadır. Aynı kanunun 4./3.maddesi ise “……işlenerek veya doğal haliyle içme suyu olarak satılmak üzere çıkarılan yer altı suları, hazinenin özel mülkiyetinde veya devletin hüküm ve tasarrufu altında bulunan yerlerdeki kaynak suları (mazbut vakıflara ait sular hariç) 2886 sayılı Kanun hükümlerine uygulanarak il özel idarelerince kiraya verilir” hükmünü ihtiva etmektedir. Mahkemece söz konusu yasa hükmü gerekçe gösterilerek, davacının kanunen sahip olmadığı bir yetkiyi kullanmasının geçerli olmadığı ve dolayısıyla davacının alacağı takip yetkisi bulunmadığına karar verilmiştir. Ne var ki taraflar arasında koşulları 28.08.1999 tarihli köy kararında belirtilen şekilde kira ilişkisi bulunmaktadır.
 Mevcut kira sözleşmesinin feshi ya da iptali konusunda davalı tarafından açılmış bir davada bulunmamaktadır. Kira sözleşmesinin geçerli olabilmesi için kiraya verenin mutlaka o şeye malik olması gerekli değildir. Mülkiyet hakkına sahip olmayan bir kişi de kiraya veren sıfatıyla bir sözleşme yapabilir. Malik olmayanın yaptığı sözleşme geçerli olup taraflarına hak ve borç teşmil eder. Yani malı veya bir hakkı kiraya veren kişi söz konusu şeyin maliki olmasa bile sözleşmenin tarafı olan kiracıya karşı kiralayan sıfatıyla yükümlülük altına girer. Aynı şekilde malın kullanımı kendi istifadesine bırakılan kiracı da ona kira borcunu ödemekle yükümlüdür. Sırf kiraya verenin aslında o şeyin maliki olmadığını gerekçe göstererek bu borcu ifa etmekten kaçınamaz. Kira ilişkisi taraflarca karşılıklı olarak feshedilmediği veya mahkeme hükmü ile ortadan kaldırılmadığı sürece varlığını korur. Açıklanan bu maddi ve hukuki olgular çerçevesinde somut olay değerlendirildiğinde kira sözleşmenin tarafı olan davacı köy tüzel kişiliğinin sözleşmeye dayalı olarak alacak davası açmasında usul ve yasaya aykırı bir yön bulunmamaktadır.
@@ -129,14 +167,20 @@ Bu itibarla aktif dava ehliyeti bulunan davacı yönünden işin esasının ince
 
 ## Yargıtay 17. HD 2013/9610 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/575172500)
+
 6100 Sayılı HMK.'nun geçici 1. maddesinde “Bu Kanunun yargı yolu ve göreve ilişkin hükümleri, Kanunun yürürlüğe girmesinden önceki tarihte açılmış olan davalarda uygulanmaz.” hükmüne yer verilmiştir. Somut olayda, dava tarihinin 01.02.2011 olduğu nazara alındığında, aynı yasanın dava konusunun değer veya tutarına bakılmaksızın kira ilişkisinden doğan alacak davaları da dâhil olmak üzere tüm uyuşmazlıkları konu alan davalar ile bu davalara karşı açılan davaların sulh hukuk mahkemelerinde görüleceğine ilişkin 4/I-a maddesi uygulama alanı bulamayacaktır.
 
 ## Yargıtay 6. HD 2013/10713 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/539148200)
 
 Takipte dayanılan ve karara esas alınan 14.11.2007 başlangıç tarihli, 1 yıl süreli kira sözleşmesi kiraya veren-önceki malik Nevşehir Belediyesi ile davalı şirket arasında imzalanmıştır. Kiralanan taşınmazın 24/07/2008 tarihinde davacı tarafından satın alındığı, davacının 12.08.2008 tarihinde davalıya tebliğ edilen ihtarname ile taşınmazı satın aldığını davalı kiracıya bildirerek ödemelerin tarafına yapılmasını istediği anlaşılmaktadır. Kira sözleşmesinde kiralanan taşınmazın arsa nitelikli olduğu belirtilmiştir. Kiracının kiralananı inşaat malzemelerini muhafaza etmek üzere depo olarak kullandığı anlaşılmaktadır. Kiralanan bu niteliğine göre Borçlar Kanunu'nun adi kiraya ilişkin hükümlerine tabidir. Kira süresi sonunda dava açılmadığından kira sözleşmesi belirsiz süreyle yenilenmiştir. Öte yandan taşınmazı satın alan davacı yeni malik halefiyet gereği kira sözleşmesine dayanarak talepte bulunabilir. Kira sözleşmesinde artışa ilişkin bir şart bulunmamaktadır.
 Mahkemece uyuşmazlığın 14.11.2007 başlangıç tarihli kira sözleşmesi çerçevesinde çözümlenmesi gerekirken hatalı değerlendirme ile artış da uygulanmak suretiyle kira bedeli belirlenerek davanın kısmen kabulüne karar verilmesi doğru olmamıştır.
 
 ## Yargıtay 6. HD 2013/10366 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/659213800)
 
 Davalı belediye ile dava dışı kiracı ... arasında 05.12.2001 başlangıç tarihli kira sözleşmesi imzalandığı, 03.03.2004 tarihli encümen kararı ile kira sözleşmesinin davacı kiracıya devrinin uygun bulunduğu, davacı ile 05.03.2004 başlangıç tarihli kira sözleşmesinin imzalandığı anlaşılmaktadır. Taraflar arasında imzalanan 05.03.2004 başlangıç tarihli kira sözleşmesinin eki sayılan şartnamenin 5.maddesinde önceki kiracı ile yapılan kira sözleşmesi ve şartnameler bu sözleşmenin eki sayılmıştır. Söz konusu 5.maddeye göre, kiracının taşınmaza açık çay bahçesi, 6 m2 alanlı büfe ve açık spor salonları yapacağı, tahliye ederken bu üniteyi belediyeye terk edeceği, belediyeden bedel talep etmeyeceği ve kiralanan üzerinde izinsiz eklenti yapılmayacağı kararlaştırılmıştır. Yine sözleşmenin 9. maddesine göre kiralananın çevre ve peyzaj düzenlemesi, çevre aydınlatmasının kiracı tarafından yapılacağı belirtilmiştir. Sadece alan olarak kiralanan taşınmazda, kira sözleşmesindeki maksada uygun bir takım yatırımların yapılması sözleşme gereğidir. Önceki kiracının kiraladığı alanı yatırım yapmadan kullanamayacağı sözleşmeden de anlaşılmaktadır.
 Kira sözleşmesinde, kiralanana yapıla n yatırımların bedelinin kiradan…

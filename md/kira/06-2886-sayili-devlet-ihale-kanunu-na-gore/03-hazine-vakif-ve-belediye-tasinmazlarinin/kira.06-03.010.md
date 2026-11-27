@@ -22,10 +22,14 @@ uyari: "Derleyenin seçtiği alıntılardır; kararın tamamı değildir. Künye
 
 ## Yargıtay 20. HD 2007/1333 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/897383100)
+
 Değinilen maddenin (b) fıkrasında "devletin hüküm ve tasarrufu altındaki yerlerin gerekli görülen hallerde kiraya verilmesi, mülkiyetten gayri ayni hak tesisi ormanlar ve devletin hüküm ve tasarrufu altındaki diğer yerler ile Devletin özel mülkiyetindeki yerlerde bulunan Su Ürünleri üretim yerleri, kaynak suları ve taş, kum, çakıl ve ... ocaklarının kiraya verilmesi işlemlerini yapmak" Milli Emlak Genel Müdürlüğü görevleri arasında sayılmış, bu kanun hükmünde kararnamenin Anayasa Mahkemesinin 25.11.l993 tarih, l993/47-49 sayılı kararı ile iptal edilmesi üzerine verilen 6 aylık süre içerisinde l6.6.l994 tarih 4004 sayılı kanuna dayanılarak çıkarılan 19.06.1994 tarih, 543 Sayılı Kanun Hükmünde Kararname ile aynı madde hükmü yeniden kabul edilmiştir.
 Anılan Kanun Hükmündeki Kararnamelerde Taşocakları Nizamnamesi ile 6664 sayılı Kanununun ilgili hükümlerinin değiştirildiğine veya ortadan kaldırıldığına ilişkin bir sarahat yok ise de, gerek bu kanun hükmündeki kararnamelerin açık hükümleri, gerekse dayanaklarını oluşturan yetki kanunlarının kabul edilmesindeki amaç göz önünde tutulduğunda, kum ocakları dahil sayılan yerlerin kiraya verilmesi işleminde artık Milli Emlak Genel Müdürlüğünün görevli olduğunun kabulünde zorunluluk vardır. Bu durumda, 516 Sayılı Kanun Hükmündeki Kararnamenin yürürlük tarihi olan 16.09.l993 tarihinden önce Taşocakları Nizamnamesi ve 6664 sayılı Kanun Hükümlerine göre İl Özel İdarelerince kiraya verilen veya ruhsata bağlanmış olupta sürelerinin dolmaması nedeniyle halen kira sözleşmeleri ve ruhsatnameleri devam edenlerin sözleşmeden ... hakları saklı kalmak üzere sair devletin hüküm ve tasarrufu altında bulunan tüm yerler gibi kum ocakları ile kum ocağı niteliği kazanmayan ... yatakları ve deniz kumlukları hakkında hazinenin her türlü davayı açmakta yetkili hatta görevli bulunduğu kuşkusuzdur.
 
 ## Yargıtay 14. HD 2006/13422 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/859460800)
 
 Bilindiği gibi, konusu mülk arazi ve diğer mülk olan menkul ve gayrimenkul mallar sahih vakıflardır. Bu malların tüm tasarruf hakları rekabesi (kuru çıplak mülkiyeti) vakfa aittir. Vakfın bir başka türü de, devlete ait (miri) arazi üzerinde padişah yada onun izin verdiği kişi
 
@@ -34,9 +38,13 @@ Kira parasını ödeyerek hak kazanan kimseye ise mutasarrıf denilmiş, tasarru
 
 ## Yargıtay 13. HD 2006/10089 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/843835400)
+
 Taraflar arasında düzenlenen 26.6.1998 tarihli sözleşmenin eki olan "Açık-Kapalı Zarf Usulü ile Arttırma Şartnamesi" nin 18.maddesi "işletilen yerin içinde ve dışında belediyeden yazı ile müsade alınarak yapılacak yerli tesisat ve tertibat ve teferruat için bir ... masraf ve tazminat istemeye kiracının hakkı olmayacağı müddet bittiğinde bunların kaffesi noksansız ve bedelsiz olarak belediyeye terk edilecektir" hükmünü, yine sözleşmenin eki olan "... Belediyesine ait Küçükbakkalköydeki arsanın 2886 sayılı yasanın 45.maddesi uyarınca kiraya verilmesi işine ait ... şartname"nin 15.maddesi "Kiralanan yer arsa niteliğinde açık alanlıdır. Kiracı tarafından üzerinde hiç bir süretle kalıcı bir bina yapılamaz" hükmünü, 16.maddesi ise "kiralanan arsanın üzerine kiracı tarafından sundurma baraka vs dahi yapılamaz.
 
 ## Yargıtay 13. HD 2006/7930 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/845912500)
 
 Öte yandan davacı-karşı davalı kiracının 17.9.2000-17.9.2001 tarihler arasında kalan kira dönemi için aylık 3.810.000.000 TL kira bedeli ödediği de uyuşmazlık konusu değildir. Davalı-karşı davacı bedeliye 16.9.2002 tarihli dava dilekçesi ile geçmişe yönelik olarak kira bedelinin artırılmasını istemiş isede, dava konusu yapılan kira dönemi (17.9.2001 tarihinde başlayan kira dönemi) buşladıktan ve hatta kira dönemi sona erdikten sonra açılan bu davanın dinlenmesi olanağı yoktur. Ayrıca hemen belirtmek gerekirki davacı kiracı ...'in 17.9.2001 tarihinde başlayan kira dönemi için kira bedelinin indirilmesine dair bir talebide bulunmamaktadır. Buna rağmen mahkemece 17.9.2001 tarihinden itibaren aylık kiranın 1.300.000.000 TL olarak belirlenmesi nedeniyle, davacı kiracının talebi olmamasına rağmen 17.9.2000 tarihinde başlayan kira döneminde ödediği aylık 3.810.000.000 TL'nında altında kalır şekilde 17.9.2001 de başlayan yeni dönemde aylık 1.300.000.000 TL ödenmesine neden olunmaktadır. Bu durum ise, davacı kiracının talebi olmamasına rağmen 17.9.2001 tarihinde başlayan kira döneminde kendi lehine belediyeninde aleyhine olacak şekilde daha az kira bedeli ödemesine yol açacak mahiyettedir.
 Mahkemece değinilen bu yön gözetilerek davalı-karşı davacı belediye tarafından açılan davanın reddi ve 17.9.2000 tarihinde başlayan dönemde ödenen aylık kira bedeli olan 3.810.000.000 TL ile, birleşen
@@ -45,10 +53,14 @@ davada talep edilen aylık 7.240.8150.000 TL kira bedeli arasındaki farkın bir
 
 ## Yargıtay 14. HD 2006/4655 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/856011600)
+
 Bilindiği gibi, konusu mülk arazi ve diğer mülk olan menkul ve gayrimenkul mallar sahih vakıflardır. Bu malların tüm tasarruf haklarırekabesi (kuru çıplak mülkiyeti) vakfa aittir. Vakfın bir başka türü de, devlete ait (miri) arazi üzerinde padişah yada onun izin verdiği kişi tarafından kurulmuş gayri sahih vakıflardır. Gerek sahih, gerekse sahih olmayan türdeki ..., önceleri vakfı tarafından tamir veya yeniden yaptırılırken zamanla vakfın buna gücü yetmemesi nedeniyle mukataa ve icareteyn usulü doğmuştur. Mukataada; vakıf taşınmaz, kendi olanaklarıyla vakıf tarafından inşa ve onarılmasının mümkün olmaması sebebiyle bina yapmak, ağaç bağ kütüğü veya bağ çubuğu dikmek ve bunların durması karşılığında vakfa her sene maktu bir zemin kirası ödemek suretiyle kiralanmış, bu suretle yapılan bina ve dikilen ağaçlar yapanın veya dikenin malı sayılmış ve ölümü ile de bunların mirasçılarına geçeceği mukaatanın yani kira karşılığının verildiği sürece mukavelenin fesh edilmeyeceği ve arazi üzerine yapılan muhtesatın kaldırılamayacağı kabul edilmiştir.
 İcareteynde ise, yok olan vakıf binalarının yeniden inşası için bir tür süresiz kiraya benzeyen usul oluşturulmuş, kiracıdan kıymetine eşit “müeccele” denilen peşin bir bedel alınıp harab olan bina vakıf tarafından yeniden tamir ettirilerek her sene “muaccele” adı verilen küçük bir bedel karşılığı süresiz olarak kiracılarına bırakılmıştır. Kira parasını ödeyerek hak kazanan kimseye ise mutasarrıf denilmiş, tasarruf hakkı da ölümle mirasçılarına intikal ettirilmiştir.
 
 ## Yargıtay 20. HD 2006/5138 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/901617500)
 
 Çekişmeli taşınmazın bulunduğu yörede yapılan orman kadastrosu ile genel arazi kadastrosunun kesinleştiği tarihler dikkate alındığında davacı ... kişinin dava konusu 213 nolu parselin kısmen orman sınırları içinde kısmen 2. madde sahası içinde kaldığına dair işlemlerin iptali konusunda açtığı davada hiçbir yasal dayanağının bulunmadığı anlaşılmaktadır. Çünkü 3402 Sayılı Yasanın 12/3 maddesine göre "kadastro tutanaklarda belirtilen haklara, sınırlandırma ve tespitlere ait tutanakların kesinleştiği tarihten itibaren on yıl geçtikten sonra, kadastrodan önceki hukuki sebeplere dayanarak itiraz olunamaz ve dava açılamaz.", aynı şekilde, 6831 Sayılı Yasanın 11 maddesine göre de "Orman kadastro komisyonlarınca düzenlenen tutanakların askı suretiyle ilanı, ilgililere şahsen yapılan tebliğ hükmündedir. Tutanak, harita ve kararlara karşı askı tarihinden itibaren altı ay içinde kadastro mahkemelerine, kadastro mahkemesi olmayan yerlerde kadastro davalarına bakmakla görevli mahkemeye müracaatla sınırlamaya ve 2 nci maddeye göre orman sınırları dışına çıkarma işlemlerine ... ve Orman Bakanlığı, Orman Genel Müdürlüğü ve hak sahibi ... ve tüzel kişiler itiraz edebilir.
 Bu müddet içinde itiraz olmaz ise komisyon kararları kesinleşir. Bu süre hak düşürücü süredir. Ancak, tapulu gayrimenkullerde tapu sahiplerinin, on yıllık süre içerisinde dava açma hakları mahfuzdur." Her iki yasada geçen süreler hak düşürücü süre olup mahkemece resen gözönünde bulundurulması gerekir. Kaldı ki; çekişmeli 213 parsel sayılı taşınmazın 1959 yılında yapılıp kesinleşen arazi kadastrosu sonucunda çalılık niteliği ile Hazine adına tapuda kayıtlı iken 03.11.1993 tarihinde sürücü kursu eğitim alanı olarak davacıya kiraya verildiği ve daha sonra kira sözleşmesinin iptal
@@ -56,6 +68,8 @@ Bu müddet içinde itiraz olmaz ise komisyon kararları kesinleşir. Bu süre ha
 edildiği anlaşılmakta ise de ormanların Hazine tarafından ... amaçlar için kiralanacağına dair yasalarımızda hiç bir hüküm bulunmadığı bir yana, davacı ... kişi de bu kira sözleşmesine dayanmamaktadır.
 
 ## Yargıtay 14. HD 2006/3863 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/851845200)
 
 Gerçekten taşınmaza ait Kadastro tutanağında "Hamidiye Vakfından" şerhi bulunmaktadır. Bu kayıt çekmeli taşınmazlara ait tapu kayıtlarına "Muratpaşa" vakfı olarak düşülmüştür. Kadastro tutanağında başlangıçta vakıf şerhi bulunduğundan davada 2.4.2004 tarih 2003/1-2004/1 sayılı Yargıtay İçtihadı Birleştirme Genel Kurul Kararında benimsenen 3402 sayılı Kadastro Kanununun 12/3 maddesinde öngörülen 10 yıllık hak düşürücü sürenin uygulanma yeri yoktur. Ancak hemen belirtmek gerekirki Vakıf şerhi 10 yıllık süre içinde de konulsa Mahkemenin kabulünün aksine bu şerhin kaldırılması her zaman istenebilir. Çünkü taşınmazdaki vakfın hakkı taviz bedeli ile sınırlıdır. Şayet aşağıdaki yönteme göre yapılacak araştırma ile kayıtlarda yazılan vakfın sahih vakıf olduğu saptanırsa, şerh taviz bedeli ödenerek aksi halde yani gayri sahih vakıf olduğu belirlenirse taviz bedeli ödenmeksizin kaldırılır.
 Bir malın vakıf malı olup olmadığı tapu kaydı, evkaf idareleri; şeriye mahkemeleri ve mütevellilerce tutulup daha sonra tapu idarelerine aktarılan defter kayıtları, vakıf defterine işlenen vakıfnameler ile kanıtlanabileceği gibi, 3402 sayılı Kadastro Kanununun 14.maddesinde belirtilen belgelerden olduğu uygulamada kabul edilen deftere işlenmemiş vakıfnameler, muteber mütevvelli ve temessük senetleri, evkaf idarelerince tutulan sair defterler ile de kanıtlanabilir. Bilindiği gibi, konusu mülk arazi ve diğer mülk olan menkul ve gayrimenkul mallar sahih vakıflardır. Bu malların tüm tasarruf hakları rekabesi (kuru çıplak mülkiyeti) vakfa aittir. Vakfın bir başka türü de, devlete ait (miri) arazi üzerinde padişah yada onun izin verdiği kişi tarafından kurulmuş gayri sahih vakıflardır. Gerek sahih, gerekse sahih olmayan türdeki ..., önceleri vakfı tarafından tamir veya yeniden yaptırılırken zamanla vakfın buna gücü yetmemesi nedeniyle mukataa ve icareteyn usulü doğmuştur.
@@ -89,14 +103,20 @@ maddesi gereğince istinaf başvurularının ayrı ayrı esastan reddine karar v
 
 ## İstanbul BAM 40. HD 2026/460 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1206544600)
+
 Davaya konu yangından sonra İstanbul Büyükşehir Belediyesi İtfaiye Daire Başkanlığı Anadolu Yakası İtfaiye Müdürlüğü tarafından 1/7/2015 günü düzenlenen yangın raporunda, binanın giriş katında bulunan lokantaya ait ızgara bacasında zamanla biriken kurum ve yağların tutuşmasıyla başlayan yangının, sac bacanın ... Otel'in giriş asma katın tavan boşluğundaki bölümünde, otele ait kablolara sirayetiyle yangının oluştuğu belirtilmiş; davalı ... Limited Şirketi vekili 14/2/2017 tarihli dilekçesinde, müvekkili şirketin baca temizliğini düzenli olarak yaptığını, bacanın otelin içinde kalan bölümünün temizliği konusunda sürekli sorun yaşadığı kiraya veren ... Limited Şirketinin gerekli koşulları sağlamadığını belirterek, ekinde davalı ... Limited Şirketi tarafından lokantaya ait baca sisteminin periyodik olarak temizlenmesi gerekmesine karşın, muhatap ... Limited Şirketi tarafından müsaade edilmediğini, sözlü taleplerde bulunulmasına karşın bir türlü sonuç alınamadığı açıklamalarını ve baca temizliğinin yapılması için gerekli izinin verilmesini içeren İstanbul 2'nci Noterliğinin 5/12/2014 gün ve ... yevmiye numaralı ihtarnamesi ile ...
 Limited Şirketinin, davalı şirkete gönderdiği Kadıköy 14'üncü Noterliğinin 16/12/2014 gün ve ... yevmiye numaralı cevap ve ihtarnamesini ve baca temizleme konusunda yetkili olduğuna ilişkin belge sunulan ... adındaki firma tarafından, mutfak davlumbaz kanalları ve fan temizliğinin yapıldığına ilişkin…
 
 ## Adana BAM 3. HD 2026/848 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1198163600)
+
 Dosya kapsamı bilirkişi raporunun incelenmesinde davalı belediyenin söz konusu tesislerden kira sözleşmesi sona erdikten sonra tesis kira bedeli tahsis etmediği ve yeni kira sözleşmesi de imzalamadığı, tesisleri kullananların bu tesisleri belediyeye teslim etmek hususunda temerrüte düştükleri ve tesisleri zamanında boşaltarak davalı belediyeye teslim etmedikleri, davalı belediyenin de fazla alan işgal eden işletmelerin sonradan oluşturduğu eklentileri yıktığı, kullananların temerrütü nedeniyle tesisleri davacı idareye teslim edemediği, davacı idarenin de bu durumu değerlendirerek protokollerin sona ermesinden sonra ecri misil bedeli almaya başladığı, davalı belediyenin ise tesis kira bedeli tahsis etmemiş ve yeni kira sözleşmeleri de yapmamış olduğu, dolayısıyla herhangi bir gelir ve hasılat elde etmediği, bu nedenle davalı belediyeden cezai şart istenilmesi koşullarının oluşmadığı olmadığı anlaşılmakla Mahkemece yapılan tespitler dosya kapsamına uygun olmakla davacı vekilinin istinaf sebebi yerinde görülmemiştir.
 
 ## İstanbul BAM 3. HD 2025/3271 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1185025100)
 
 Şti tarafından kira sözleşmesi başlangıç tarihi olan 01/10/2005 tarihi ile davacı kurum tarafından resen düzenlenen mukavale tarihi olan 09/04/2007 tarihleri arasında, 1 yıl, 6 ay, 8 gün olmak üzere toplam 553 gün su kullanımı için davacı idare tarafından 22/06/1998 ile 09/04/2007 tarihleri arasında 8 yıl, 9 ay, 17 gün olmak üzere toplam 3207 günlük süre içerisinde kullanılan 15434m3 kaçak su nedeni ile asıl alacak olarak (71.479,99 TL+252,00 TL+6,37 TL =) 71.738,36 TL, gecikme cezası olarak 128.518,26 TL olarak tahakkuk
 
@@ -105,9 +125,13 @@ ettirilen, toplam 200.741,12 TL bedelden tahsil edilen 227,00 TL tutarın minha 
 
 ## Ankara BAM 26. HD 2025/1614 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1186103500)
+
 Dava; trafik kazasından kaynaklanan bedensel yaralanma nedeniyle maddi ve manevi tazminat, ölüm nedeniyle manevi tazminat istemidir. Davacılar, ... İdaresi'nin çalışanı tarafından kullanılan ve Özel İdare tarafından kiralandığını iddia ettikleri aracın, davacı ...'in sürücüsü olduğu, vefat eden ...'in yolcu olduğu araca çarpması nedeniyle maddi ve manevi zararlarını, ZMMS tanzim eden sigorta şirketi yanı sıra, ... İdaresin'den de talep ettiği, ancak dava dilekçesinde davalının, "... Müdürlüğü adına Maliye Hazinesi" olarak gösterildiği, dava dilekçesinin de doğrudan Maliye Bakanlığı adresine gönderildiği, Maliye Hazinesi tarafından görevlendirilen vekilin de, davanın "mülga ilçe özel idaresi" hasım gösterilerek Maliye Hazinesine karşı açıldığı kabul edilerek, davada savunmada bulunduğu, bu çerçevede yargılamaya devam edilerek esas hakkında karar verildiği anlaşılmaktadır.
 
 ## İstanbul BAM 8. HD 2025/1902 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1187291000)
 
 Maddenin son fıkrasına göre ise "işleten ve araç işleticisi teşebbüsün sahibi, aracın sürücüsünün veya aracın kullanılmasına katılan yardımcı kişilerin kusurundan kendi kusuru gibi sorumludur." İşletenin bu sorumluluğu bir tehlike sorumluluğudur. Düzenlemesine yer verilmiştir.KTK'nın 3. maddesinde işleten sıfatının belirlenmesinde şekli ve maddi ölçüt olmak üzere iki ayrı ölçüden yararlanılmıştır. Şekli ölçüye göre trafik sicilinde malik görülen kişi işletendir. Maddi ölçüye göre ise trafik sicilinde adı geçen kişinin önemi bulunmamakta olup önemli olan araç üzerindeki fiili hakimiyet, araçtan ekonomik yarar sağlama, masraf ve rizikolara katlanma gibi ölçütlerdir. İşletenin belirlenmesinde doktrin ve Yargıtay'ın kabul ettiği görüş maddi ölçüdür. (-bkz..Yargıtay 17. Hukuk Dairesi'nin 28/02/2019 tarih, 2016/6712 E. ve 2019/2237 K. sayılı kararı-)Açıklamalardan sonra somut olaya gelince, davalı ...
 İşletmeleri Genel Müdürlüğü vekili aşamalarda, İstanbul İli sınırları içerisinde toplu taşıma yetkisinin esasen ...'ye değil, İstanbul Büyükşehir Belediyesi'ne ait olduğunu, müvekkili ... ile İstanbul ... ... ve Araç Kiralama Sanayi ve Ticaret Anonim Şirketi'nin (eski ünvanı: ...Ticaret AŞ) İBB'ye ait olan toplu taşıma görevinin bir kısmını ifa eden ve aralarında hiyerarşik bir ilişki bulunmayan iki ayrı kuruluş olduğunu, kazaya
@@ -116,10 +140,14 @@ sebebiyet verdiğ iddia edilen aracın müvekkili idare bünyesinde faaliyet gö
 
 ## İstanbul BAM 3. HD 2025/2930 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1183367600)
+
 Liman Cad. ...Sarıyer/İstanbul” adresinde bulunan mahalde, tesisata bağlı Kayıtsız Alfatech-2008 marka 71679167 seri nolu sayaç üzerinden sözleşmesiz olarak enerji kullanıldığı tespit edilmekle, davalı S.S....Su Ürünleri Kooperatifi adına 14.10.2022 tarihli H/... seri numaralı kaçak elektrik tespit tutanağı düzenlendiği, tespit sırasında borçlu temsilcisinin mahalde hazır olduğu, ancak imzadan imtina ettiği, (tespit anının ayrıca fotoğraflar ile kayıt altına alındığı) anlaşılmaktadır.Tutanak tarihinde yürürlükte bulunan 30.05.2018 tarihli Elektrik Piyasası Tüketici Hiz- metleri Yönetmeliği'nin 42/1-a md. gereğince sözleşmesiz enerji kullanımı " kaçak elektrik enerjisi tüketimi" olarak kabul edilmekle, somut olayın da kaçak elektrik tüketimi olduğu hususunda bir tartışma yoktur.2-) Davalının sorumluluğuna gelince, dava konusu balıkçı barınağının Hazine'ye ait arazı üzerinde olduğu, 03.10.2007 tarihli sözleşme gereğince Milli Emlak Müdürlüğü'nce davalı kooperatife kiralandığı, tutanak tarihi itibariyle davalının kullanımında olduğu anlaşılmaktadır.3-) Mahkemece Harita Mühendisi ...'dan alınan 19.11.2024 tarihli raporda; dava konusu mahalde bulunan elektrik direklerinin büyük bir
 kısmının davalı tarafça kiralanın alanın dışında kaldığı ,elektrik direklerinin kamusal alanlar dahil tüm sahayı aydınlattığı belirtilmiştir. Mahkemece bu rapor hükme esas alınmak suretiyle hüküm kurulmuştur.Ancak, mahkemece elektrik mühendisi ... vasıtasıyla keşfen , yerinde yapılan incelemeler sonucu; tutanağa konu kayıtsız Alfatech-2008 marka 71679167 seri nolu sayacın tutanak tarihinde ...Denizci barınağı alanında bulunan çevre aydınlatma direklerinin enerji beslemesini sağladığı, keşif sırasında da çevre aydınlatma direk beslemelerinin davalı sorumluluğun- daki elektrik panosundan beslendiği tespit edilmiştir.
 
 ## İstanbul BAM 16. HD 2025/1330 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1182365600)
 
 Mevzuat ve ilgili sözleşme maddeleri gereği, kiralanan taşınmaz hakkında kiralama süresi içinde doğmuş bulunan ve malik sıfatı nedeniyle şirket adına tahakkuk ettirilen ve ödenmek zorunda kalınan 151.109,30 TL tutarındaki muhtelif vergi ve katkı payının 3 gün içerisinde ödenmesinin ihtar edilmiş olduğu, Söz konusu ihtarnamenin tebliğ şerhinden; kiracı şirkete 03.12.2021 tarihinde ve müteselsil kefillere 04.12.2021 tarihinde tebliğ edilmiş olduğu, Esenyurt Belediyesi Mali Hizmetler Müdürlüğü’ nün 22.09.2021 tarihli Ödeme Emri ile davacı şirket adına kayıtlı taşınmazlara ait borç dökümünde belirtilen vergi tutarlarına istinaden, Davacı şirket tarafından ... ada 22 parsel de bulunan taşınmazlar için Esenyurt Belediye Başkanlığı hesabına 15.10.2021 tarihinde 151.109,30 TL ödeme yapılmış olduğu, Taşınmazlara ait sözleşme dönemini kapsayan vergi borçlarına istinaden davalı şirket tarafından toplam 47.205,66 TL tutarında, davacı şirket tarafından toplam 151.109,30 TL
 
@@ -127,9 +155,13 @@ tutarında Esenyurt Belediye Başkanlığı’ na ödeme yapılmış Olduğu, Es
 
 ## İzmir BAM 23. HD 2025/1760 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1178509500)
+
 Kiralayan ... Belediyesi ile davalı ... Şti. arasında, ... ... Büyük Plajında bulunan mevcut taş istinat duvarlarındaki Koruma Kurulu'nca onaylanan reklam ünitelerinin kiralanmasına ilişkin 01/05/2006 tarihli, 9 yıl 6 ay süreli, yıllık 8.500,00 TL. kira bedelli, kira sözleşmesi imzalanmıştır. Sözleşmenin 1. maddesi ile ... Plajının taş istinat duvarlarının iyileştirilmesi şartıyla, İzmir 1 numaralı Kültür ve Tabiat Varlıklarını Koruma Kurulu'nun belirleyeceği miktarda alanın, reklam alanı olarak kiraya verildiği, sözleşmenin 5. Maddesi ile sözleşmeye konu reklam ünitelerinin konulacağı istinat duvarlarının davalı kiracı şirket tarafından revize edileceği, sağlamlaştırılarak şık bir görünüme kavuşturulacağı, 6. Madde ile reklam panolarının konulacağı noktaların KTVKK'nca belirleneceği, KTVKK'nun onayı alınmaksızın reklam alanlarının kullanılamayacağı, 7. Maddesi ile ihale konusu reklam ünitelerinin kullanım hakkının, bir başka üçüncü özel veya tüzel kişiye kiralanması, bu ve benzeri yolla gelir temininin yalnızca kiracı şirkete ait olacağı kararlaştırılmıştır.
 
 ## İstanbul BAM 14. HD 2025/1399 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1175603000)
 
 Noterliğinde düzenlenen ihtarnamenin davalı şirkete temsilen şirket müdürü ... adına düzenlendiği, söz konusu ihtarnamede müvekkilinin %10 hissesinin ortak olduğu şirketin İstanbul ili Fatih ilçesinde 4675 m2 sahalı yerin otopark işletmeciliğini gerçekleştirdiğini, ...den 01.11.2010 başlangıç tarihli kira sözleşmesi ile aylık 18.000,00 TL bedel ile 10 yıl süre ile kiralanan 7 katlı otopark iş yerinin geçici çalışma izin belgesinin 18.10.2010 tarihinde müvekkili tarafından Fatih Belediye Başkanlığından alındığını, 200 sabit, günlük 350 - 400 araç giriş çıkışı olan otopark işletmeciliği yapılan iş yeri nedeni ile 2012 yılından beri müvekkilinin şirketteki payına göre hiçbir ödeme yapılmadığını, tüm gider ve masraflardan sonra aylık net 50.000,00 TL gelir elde edilen otopark işletmeciliği nedeniyle müvekkiline ödeme yapılmamasından dolayı yargı yoluna başvurulacağını bu nedenle ayrıca Maliye ve Çalışma Bakanlığına başvurulduğunu belirterek geçici izin belgesinin iki yıldır İstanbul Böyükşehir Belediyesi Başkanlığından yenilenmeme ihtimalide dikkate alınarak otopark işletmesi nedeniyle elde edilen gelirden müvekkilinin payına 2012 yılından itibaren isabet eden ödemelerin yapılmasını
 talep ettiği, davalı şirket tarafından 17.08.2017

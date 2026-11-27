@@ -21,6 +21,8 @@ uyari: "Derleyenin seçtiği alıntılardır; kararın tamamı değildir. Künye
 
 ## Yargıtay 3. HD 2025/3048 K. (BAM daireleri arasındaki uyuşmazlığın giderilmesi)
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1155987500)
+
 Taraflar arasında uyuşmazlık çıktığından söz edilebilmesi için; taraflardan birinin diğer tarafa karşı bir hak iddiasında bulunması, bunu ileri sürmesi; ancak karşı tarafın bu iddia ve talebi kabul etmemesi sonucunda kendi aralarında anlaşamamış olmaları gerekir. **Taraflar arasında henüz bir uyuşmazlık bulunmadığı veya uyuşmazlık çıkarılamayacak olan bir dönemde sanki tarafların arasında uyuşmazlık varmış gibi dava şartı arabuluculuğa başvuru yapılarak anlaşmamaya ilişkin son tutanak düzenletilmesi bu arabuluculuk başvurusunu üçüncü kişiler nezdinde müracaat edilmesi gereken formalite niteliğinde olan bir davranış haline getirir**. **Günümüzde dava şartı arabuluculuk masraflarının Adalet Bakanlığı Bütçesinden karşılanıyor olması karşısında henüz uyuşmazlığın çıkmadığı bir dönemde formaliteden yapılacak bir dava şartı arabuluculuğa başvuru devlet bütçesi-ne yüklenen haksız bir harcama kalemini oluşturacaktır**.
 
 Konut ve çatılı iş yeri kiraları bakımından kiracı korunarak TBK ‘nun 354. maddesinde dava yolu ile kira sözleşmesinin sona erdirilmesine ilişkin hükümlerin kiracı aleyhine değiştirilemeyeceği belirtilmiştir. **Kiraya verenin kiracısından ihtiyaç (gereksinim) sebebiyle kiralananı ne zaman tahliyesini isteyebileceği ilgili hükümde belirtildiği halde bu sürelere riayet edilmeksizin çok öncesinde sırf ileride kira süresinin bitiminden sonra kiracının kiralananı tahliye etmeme ihtimaline binaen, bu talebin kabul edilmeyeceği peşin fikriyle tahliye konusunda uyuşmazlık varmış gibi hareket edilip zamanından önce başlatılan zorunlu arabuluculuk faaliyeti sonunda düzenlenen anlaşmamaya ilişkin son tutanak ve an-laşmama belgesi ilgili kanun kapsamında olan geçerli bir dava şartı arabuluculuk faali-yeti sonunda düzenlendiği kabul edilemez**.
@@ -34,6 +36,8 @@ ermesi ve kiraya verenin tahliye davası yolu ile tahliye isteminde bulunma
 Bu durumda, 6098 sayılı Kanunun 350. maddesi uyarınca açılacak olan ihtiyaç nedeniy-le tahliye davalarının belirli süreli kira sözleşmelerinde sürenin sonunda, belirsiz süreli sözleşmelerde ise kiraya ilişkin genel hükümlere göre fesih dönemine ve fesih bildirimi için öngörülen sürelere uyularak belirlenecek tarihten başlayarak açılabileceğine göre; dava şartı olan zorunlu arabuluculuk başvurusununda, tahliye davası açma hakkının do-ğumundan sonra yapılması gerekir. Eş söyleyişle, dava açma süresi başlamadan önce yapılacak dava şartı arabuluculuk başvurusu ile dava şartı arabuluculuk şartı yerine geti-rilmiş olmayacaktır.
 
 ## Yargıtay 3. HD 2025/5038 K. (BAM daireleri arasındaki uyuşmazlığın giderilmesi)
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1187874500)
 
 Hal böyle olunca; Dairece verilen 26.05.2025 tarihli ve 2025/1495 E., 2025/3408 K. sayılı kararla, 6098 sayılı Kanunun 350. maddesi uyarınca, belirli süreli konut ve çatılı iş yeri kira sözleşmelerinde sürenin sonunda, belirsiz süreli sözleşmelerde ise kiraya ilişkin genel hükümlere göre fesih dönemine ve fesih bildirimi için öngörülen sürelere uyularak belirlenecek tarihten başlayarak açılacak olan ihtiyaç nedeniyle tahliye davalarında, **dava şartı olan zorunlu arabuluculuk başvurusunun; tahliye davası açma hakkının doğumundan sonra, diğer bir anlatımla dava açma süresi içerisinde yapılması gerektiğine** karar verilmiş olmakla…
 

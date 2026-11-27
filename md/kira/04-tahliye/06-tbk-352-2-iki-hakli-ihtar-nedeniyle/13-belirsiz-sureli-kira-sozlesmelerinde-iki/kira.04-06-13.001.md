@@ -21,6 +21,8 @@ uyari: "Derleyenin seçtiği alıntılardır; kararın tamamı değildir. Künye
 
 ## Yargıtay 3. HD 2025/3118 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1159454200)
+
 01.07.2012 tarihinde yürürlüğe giren 6098 sayılı Türk Borçlar Kanunu'nun (6098 sayılı Kanun) 352. maddesi gereğince; iki haklı ihtar nedeniyle açılan davada tahliye kararı verilebilmesi için, kiracıya bir yıldan kısa süreli kira sözleşmelerinde kira süresi içinde, bir yıl ve daha uzun süreli kira sözleşmelerinde ise, bir kira yılı veya bir kira yılını aşan süre içinde kira bedelini ödemediği için yazılı olarak, iki haklı ihtarda bulunulması gerekir. İhtar tebliğinden sonra yapılan ödemeler ise, iki haklı ihtarın oluşmasına engel teşkil etmez. Kiraya veren, kira süresinin ve bir yıldan uzun süreli kiralarda ihtarların yapıldığı, kira yılının bitiminden başlayarak bir yıl içinde, dava yoluyla kira sözleşmesini sona erdirebilir. **Süresiz sözleşmelerde ve kira parasının yıllık ödenmesi gereken hallerde iki haklı ihtar koşulu oluşmaz ve bu istemle dava açılamaz**.
 
 ## Yargıtay 3. HD 2018/510 K.

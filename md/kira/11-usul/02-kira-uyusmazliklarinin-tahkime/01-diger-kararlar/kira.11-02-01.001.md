@@ -22,6 +22,8 @@ uyari: "Derleyenin seçtiği alıntılardır; kararın tamamı değildir. Künye
 
 ## Yargıtay HGK 2023/487 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/919411400)
+
 “...Yukarıda yapılan açıklamalar ve yer verilen yasal düzenlemeler ışığında somut olay değerlendirildiğinde; kira alacağı istemiyle açılan davanın görüldüğü ilk derece mahkemesince, tarafların davanın esasıyla ilgili olarak gösterdikleri (ve uyuşmazlığın çözümünde etkili olabilecek) delillerin tamamının toplanarak değerlendirildiği ve davacı kiraya verenin kiralananı kiracıya teslim yükümlülüğünü yerine getirdiğini ispatlayamaması nedeniyle alacak hakkının bulunmadığı gerekçesiyle davanın reddine karar verildiği, karara karşı istinaf yoluna başvurulması üzerine bölge adliye mahkemesince; davaya konu kira sözleşmesi ile ilk derece mahkemesince toplanan diğer deliller incelenip değerlendirildikten sonra taraflar arasında kiralanan taşınmaz ile ilgili olarak görülen dava sonucu kesinleşen hüküm nedeniyle davalının kiralanan taşınmazı 2015 yılı Mart ayında usulüne uygun tahliye ettiğinin kabulü gerektiği, bu durumda kira bedeli talep edilen aylar için kira sözleşmesinin ayakta olduğu ve tarafları bağladığı ancak HMK'nın 353 üncü maddesinin birinci fıkrasının (a) bendinin (6) numaralı alt bendi uyarınca taraf delilleri toplanarak karar verilmesi gerektiğinden bahisle ilk derece
 mahkemesi kararının kaldırılmasına ve dosyanın yeniden karar verilmek üzere ilk derece mahkemesine gönderilmesine karar verilmiştir. Diğer bir anlatımla; davaya konu sözleşme ile toplanan delilleri (ve bu bağlamda delil olarak
 
@@ -30,17 +32,25 @@ Hukuk Muhakemeleri Kanunun 353/1-(a) maddesine göre duruşma yapmadan kesin ola
 
 ## Yargıtay HGK 2021/1528 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/734270900)
+
 İtirazın kaldırılması ve tahliye talebinde tasarruf ilkesi uygulanır. Tasarruf ilkesi, 1086 sayılı Hukuk Usulü Muhakemeleri Kanunu’nda (HUMK) ayrı bir madde başlığı altında düzenlenmemiş ise de, medeni usul hukukumuzda geçerli olan temel ilkelerden birisidir. Bununla birlikte, HUMK’un 72. maddesinde yer alan “Hakim iki taraftan birinin talebi olmaksızın re'sen bir davayı tetkik ve halledemez.” hükmü ile 79. maddede yer alan “Kanunen sarahat olmadıkça hiç kimse kendi lehine olan davayı ikameye veya hakkını talebe icbar olunamaz.” şeklindeki düzenlemeler, tasarruf ilkesinin varlığını ortaya koymaktadır. Yine tasarruf ilkesi gereğince davacı (alacaklı) açtığı davadan feragat edebilir (m. 91), davalı (borçlu) davayı kabul edebilir (m. 92) veya sulh yoluyla taraflar dava üzerinde tasarrufta bulunabilir.
 
 ## Yargıtay HGK 2016/1039 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/274483000)
 
 Öte yandan davacıya ait çaplı taşınmaza davalının haksız elatmasının bulunup bulunmadığı hususuna gelince; eldeki dava 6100 sayılı Hukuk Muhakemeleri Kanununun (HMK) yürürlük tarihinden sonra 23.01.2012 tarihinde açılmıştır. Davalı ön inceleme duruşmasından önce 21.03.2012 tarihli ikinci cevap dilekçesi ile intifa hakkı sahibi dava dışı Bilgin Eren Poyraz’ın kiracısı olarak bağımsız bölümde oturduğunu savunmuş ve 15.11.2011 tarihli kira bedeline ilişkin makbuz ibraz etmiştir. Hukuk Muhakemeleri Kanunu’nun, “İddia ve savunmanın genişletilmesi veya değiştirilmesi” başlıklı 141. Maddesi: “Taraflar, cevaba cevap ve ikinci cevap dilekçeleri ile serbestçe; ön inceleme aşamasında ise ancak karşı tarafın açık muvafakati ile iddia veya savunmalarını genişletebilir yahut değiştirebilirler. Ön inceleme duruşmasına taraflardan biri mazeretsiz olarak gelmezse, gelen taraf onun muvafakati aranmaksızın iddia veya savunmasını genişletebilir yahut değiştirebilir. Ön inceleme aşamasının tamamlanmasından sonra iddia veya savunma genişletilemez yahut değiştirilemez.
 
 ## Yargıtay HGK 2010/232 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/76842200)
+
 Kira bedellerinin senede bağlandığı savunmasında bulunan davalının, bu olguyu ispat yükümü bulunmaktadır. Alacak miktarı da nazara alındığında davalının bu savunmasını; 1086 sayılı Hukuk Usulü Muhakemeleri Kanunu’nun 288, 289, 290. maddeleri gereğince, kesin delillerle ispatı gerekmektedir.
 
 ## Yargıtay HGK 2009/546 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/16957000)
 
 Bu olgu; mahkemece davalının sorulan hususları ikrar ettiği şeklinde kabul edilerek, bir sonuca varılmışsa da, Hukuk Usulü Muhakemeleri Ka-nunu'nun 75/2. ve 213. maddelerinde açıklandığı biçimde hakimin müphem gördüğü hususların aydınlatılması amacı ile davalının dinlenilmesidir. Hal böyle iken; davacının dava dilekçesinde belirttiği kira artış miktarını ve dolayısı ile ihtara konu ayların aylık kira bedelini kanıtlayamaması karşısında; mahkemece, davalıya isticvap davetiyesi adı altında davetiye çıkartılması bu durumu değiştirmez. Bu kabulün doğal sonucu olarak da olayda Hukuk Usulü Muhakemeleri Kanunu'nun 234. maddesinin uygulama olanağı bulunmadığı aşikardır.
 
@@ -63,61 +73,91 @@ Kira bedeli uyarlama davası açma hakkından gayrı kabili rücu feragat etmiş
 
 ## Yargıtay 3. HD 2025/5985 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1190136100)
+
 Miktar veya değeri kesinlik sınırını geçmeyen davalara ilişkin nihai kararlar, 6100 sayılı Hukuk Muhakemeleri Kanunu'nun 362. maddesi uyarınca temyiz edilemez. Temyize konu edilen miktarın kesinlik sınırının altında kalması hâlinde anılan Kanunun 366. maddesi atfıyla aynı Kanunun 352. maddesinin birinci fıkrasının (b) bendi uyarınca temyiz dilekçesinin reddine karar vermek gerekir. Uyuşmazlık, kiralananın tahliyesi istemine ilişkindir.
 
 ## Yargıtay 3. HD 2025/4659 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1184891400)
 
 2\. 6100 sayılı Hukuk Muhakemeleri Kanunu'nun (6100 sayılı Kanun) 114/h maddesi uyarınca, davacının dava açmakta hukuki yararının bulunması bir dava şartıdır. Somut uyuşmazlıkta; kiralanana yapıldığı iddia edilen faydalı ve zorunlu masraflar, kiralanan tahliye edilip kiraya verenin hakimiyetine geçmedikçe talep edilemez. Dolayısıyla tahliye gerçekleşmeden dava açılmasında hukuki yarar bulunmamaktadır. Esasen bu husus, İlk Derece Mahkemesinin de kabulündedir.
 
 ## Yargıtay 3. HD 2025/4564 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1195784200)
+
 Eser sözleşmesinden doğan davalar için, tarafların sıfatından veya işlemin mahiyetinden doğan bir nedenle tüketici mahkemesi veya ticaret mahkemesinde görülmesini gerektirir bir neden yok ise, özel bir görev kuralı bulunmadığından genel mahkeme olarak asliye hukuk mahkemesi görevlidir. Kira sözleşmeleri yönünden ise görevli mahkeme, 01.10.2011 tarihinde yürürlüğe giren 6100 sayılı Hukuk Muhakemeleri Kanunu’nda (6100 sayılı Kanun) özel olarak düzenlenmiştir. Anılan Kanunun sulh hukuk mahkemelerinin görevini düzenleyen 4/1-a maddesi uyarınca; kiralanan taşınmazların İcra ve İflas Kanunu'na göre ilamsız icra yolu ile tahliyesine ilişkin hükümler ayrık olmak üzere, kira ilişkisinden doğan alacak davaları da dâhil tüm uyuşmazlıkları konu alan davalar ile bu davalara karşı açılan davalar sulh hukuk mahkemesinin görevine girmektedir. Mülga 1086 sayılı Hukuk Usulü Muhakemeleri Kanunu’ndan farklı olarak, bu düzenlemede; miktar ayırımı yapılmaksızın tahliye, alacak, tazminat, kiracılık sıfatının tespiti gibi tüm kira ilişkisinden kaynaklanan uyuşmazlıkların çözüm yeri sulh hukuk mahkemesi olarak gösterilmiştir.
 
 ## Yargıtay 3. HD 2025/2659 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1158075400)
 
 1\. 6100 sayılı Hukuk Muhakemeleri(6100 Sayılı Kanun) Kanunun'un 4/1-a maddesinde, sulh hukuk mahkemeleri, dava konusunun değer veya tutarına bakılmaksızın; kiralanan taşınmazların, 09.06.1932 tarihli ve 2004 sayılı İcra ve İflas Kanun'una göre ilamsız icra yoluyla tahliyesine ilişkin hükümler ayrık olmak üzere, kira ilişkisinden doğan alacak davaları da dâhil olmak üzere tüm uyuşmazlıkları konu alan davalar ile bu davalara karşı açılan davaları görürler hükmüne yer verilmiştir.
 
 ## Yargıtay 3. HD 2025/2088 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1143507500)
+
 1\. 01.10.2011 tarihinde yürürlüğe giren 6100 sayılı Hukuk Muhakemeleri Kanunu'nun (HMK) 4/1-a maddesine göre “Kiralanan taşınmazların, 9.6.1932 tarihli ve 2004 sayılı İcra ve İflas Kanununa göre ilamsız icra yoluyla tahliyesine ilişkin hükümler ayrık olmak üzere, kira ilişkisinden ... alacak davaları da dâhil olmak üzere tüm uyuşmazlıkları konu alan davalar ile bu davalara karşı açılan davalarda” Sulh Hukuk Mahkemesi görevlidir. Mahkemelerin görevi kamu düzenine ilişkin kurallardan olup, yargılamanın her aşamasında istek üzerine ya da re'sen gözetilmesi gerekir.
 
 ## Yargıtay 3. HD 2025/1744 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1170308800)
 
 2\. 6100 sayılı Hukuk Muhakemeleri Kanunu'nun (6100 sayılı Kanun) 33. maddesine göre; maddi olayları ileri sürmek taraflara, hukuki nitelendirme yapmak ve uygulanacak kanun maddelerini belirlemek hakime aittir. İddianın ileri sürülüş şekline göre davacının, davalı kiracı yönünden talebi, sebepsiz zenginleşmeden kaynaklanan alacak istemine dayanmaktadır.
 
 ## Yargıtay 3. HD 2025/1755 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1170312400)
+
 Kira ilişkisinden doğan ve üç aylık kira tutarı kesinlik sınırını geçmeyen diğer davalara ilişkin nihai kararlar, 6100 sayılı Hukuk Muhakemeleri Kanunu'nun 362. maddesi uyarınca temyiz edilemez. Temyize konu edilen miktarın kesinlik sınırının altında kalması hâlinde anılan Kanun’un 366. maddesi atfıyla aynı Kanun’un 352. maddesinin birinci fıkrasının (b) bendi uyarınca temyiz dilekçesinin reddine karar vermek gerekir.
 
 ## Yargıtay 3. HD 2025/1133 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1134967000)
 
 Dairece verilen 23.05.2017 tarihli kararla; "...Dava, 6100 sayılı Kanun'un yürürlüğe girmesinden önce açılmıştır. Bu nedenle, Mahkemenin görevi 1086 sayılı Hukuk Usulü Muhakemeleri Kanunu'nun 8. maddesi uyarınca, kira sözleşmesine dayanan her türlü tahliye, aktin feshi yahut tesbit davaları, bu davalarla birlikte açılmış kira alacağı ve tazminat davaları ve bunlara karşılık olarak açılan davalara bakma görevi Sulh Hukuk Mahkemesine verilmiştir. Bu durumda görevli Mahkeme 1086 sayılı Kanun'un 8. maddesi gereğince Sulh Hukuk Mahkemesi olup Mahkemece bu gerekçe ile görevsizlik kararı verilmesi gerekirken, 6100 sayılı Kanun'un 4/a maddesi gereğince görevsizlik kararı verilmesi doğru değildir. Bundan ayrı, 6100 sayılı Kanun'un 331/2 ve 323/ğ maddesine aykırı olarak, davacı aleyhine vekalet ücretine hükmedilmesi de doğru görülmemiştir. " gerekçesiyle, karar bozulmuştur.
 
 ## Yargıtay 4. HD 2025/2647 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1151785800)
+
 Şu halde, uyuşmazlığın mahiyeti, toplanan delillerin durumu, davalının itirazları, uzun süreli kiralama sözleşmesinin varlığının ve geçerlilik durumunun araştırılması gibi hususlar dikkate alındığında, tüm delillerin adil yargılanma hakkına uygun şekilde toplanmasından sonra davalının zarardan sorumlu olup olmadığının belirlenebilmesi için yargılamanın genel yetkili mahkemeler huzurunda gerçekleştirilmesi gerekmekle, İtiraz Hakem Heyeti tarafından dosyadan el çekilmesine dair karar verilmesi gerekirken, yazılı biçimde karar verilmesi doğru görülmemiş ve İtiraz Hakem Heyeti kararının bozulması gerekmiştir.
 
 ## Yargıtay 3. HD 2025/756 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1142257600)
 
 3\. 6100 sayılı Hukuk Muhakemeleri Kanunu'nun (6100 sayılı Kanun) 331/1 maddesinde “Davanın konusuz kalması sebebiyle davanın esası hakkında karar verilmesine gerek bulunmayan hallerde hakim, davanın açıldığı tarihteki tarafların haklılık durumuna göre yargılama giderlerini takdir ve hükmeder.” düzenlemesi yer almaktadır. Davacı, tememerrüt nedeniyle kiralananın tahliyesini talep etmiş, bozma ilamından sonra tahliye davasına yönelik harcı tamamlamıştır. Kiralananın tahliye edilmiş olması nedeniyle tahliye davası konusuz kalmıştır. Davalı kiracı, kira borcunu ödemeyerek temerrüde düşmüş olduğundan, davacı dava açmakta haklıdır. Davanın açılmasına sebebiyet vermesi nedeniyle davalının vekalet ücretinden sorumlu tutulması gerekir. Bu nedenle Mahkemece, davacı lehine karar tarihinde yürürlükte bulunan Avukatlık Asgari Ücret Tarifesinin 6. maddesi uyarınca vekalet ücretine hükmedilmesi gerekirken, bu hususta karar verilmemiş olması da doğru değildir.
 
 ## Yargıtay 5. HD 2024/6092 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1062026500)
+
 İtirazın iptaline yönelik açılacak davalarda itirazın iptaline konu icra takip işleminin yapıldığı İcra Müdürlüğü'nün bulunduğu yer mahkemeleri yönünden yetkinin 6100 sayılı Hukuk Muhakemeleri Kanunu'nun (6100 sayılı Kanun) 19 uncu maddesinin 1 inci fıkrası uyarınca kesin olduğu, taşınmaz kira alacağından kaynaklanan bu itirazın iptali davası yönünden de icra takibinin yapıldığı Çankırı Mahkemeleri'nin kesin yetkili olduğu gerekçesiyle yetkisizlik kararı verilmiştir.
 
 ## Yargıtay 3. HD 2024/1314 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1061079500)
 
 Kira ilişkisinden doğan ve üç aylık kira tutarı kesinlik sınırını geçmeyen diğer davalara ilişkin nihai kararlar, 6100 sayılı Hukuk Muhakemeleri Kanunu'nun 362 nci maddesi uyarınca temyiz edilemez. Temyize konu edilen miktarın kesinlik sınırının altında kalması hâlinde anılan Kanun’un 366 ncı maddesi atfıyla aynı Kanun’un 352 nci maddesinin birinci fıkrasının (b) bendi uyarınca temyiz dilekçesinin reddine karar vermek gerekir.
 
 ## Yargıtay 3. HD 2023/1929 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/968067000)
+
 Kira ilişkisinden doğan ve miktar veya değeri kesinlik sınırını geçmeyen alacak davalarına ilişkin nihai kararlar 6100 sayılı Hukuk Muhakemeleri Kanunu'nun 362 nci maddesi uyarınca temyiz edilemez. Temyize konu edilen miktarın kesinlik sınırının altında kalması hâlinde anılan Kanun’un 366 ncı maddesi atfıyla aynı Kanun’un 352 nci maddesinin birinci fıkrasının (b) bendi uyarınca temyiz dilekçesinin reddine karar vermek gerekir.
 
 ## Yargıtay 3. HD 2023/1713 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/924253000)
+
 6100 sayılı Hukuk Muhakemeleri Kanunu'nun 369 uncu maddesinin ikinci fıkrası uyarınca; duruşma isteğinin, itirazın iptali talebi yönünden miktar itibariyle, tahliye talebi yönünden ise davanın niteliği itibariyle reddine, temyiz dilekçesinin kabulü ile incelemenin dosya üzerinde yapılmasına karar…
 
 ## Yargıtay 3. HD 2023/1009 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/964413600)
 
 Dr. ....'ın atanmasına karşı olmadıklarını belirttiği, başka bir hakem atanmasını kabul etmediği ve en nihayetinde ICC Tahkim Kuralları gereği atanan hakeme ilişkin uygunluk beyanı gönderilmesine karşın bir itirazının bulunmadığı görüldüğünden hakem seçimine ilişkin sürece yönelik iddiasının hakkın kötüye kullanılması niteliğinde olduğu gibi yerinde de olmadığı, tarafların eşitliği ilkesinin gözetilmediği yönündeki iddianın somut ve yeterli gerekçelerle ortaya konmadığı gibi hakemin keyfilik içerisinde hareket ettiğine dair bir olgunun da bulunmadığı, resen dikkate alınması gereken iptal sebepleri bakımından ise uyuşmazlığın Türk Hukuku bakımından tahkime elverişli olduğuna şüphe bulunmadığı, kamu düzenine aykırılık yönünden ise Yargıtay İçtihadı Birleştirme Büyük Genel Kurulunun 10.02.2012 tarihli ve 2010/1 E., 2012/1 K. sayılı kararında da açıklandığı üzere, iç hukuktaki kamu düzeninin çerçevesinin, Türk hukukunun temel değerlerine, Türk genel
 
@@ -127,9 +167,13 @@ hakkında hüküm verilmemesi nedeniyle hakem kararının yasaya uygun olmadığ
 
 ## Yargıtay 4. HD 2023/5018 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/983878000)
+
 Şu durumda, itiraz Hakem Heyetince öncelikle davacı şirkete ait aracın kaza esnasında kim tarafından ne amaçla kullanıldığının belirlenmesi için belgelerin getirtilmesi, araç davacı şirket tarafından İş Makinesi/Kamyon Kiralama Sözleşmesi ile kiraya verilmiş ise, sözleşmesinin ibrazı istenerek kasko poliçesinin 4.7 maddesinde yer alan ''Sigorta teminatına ilişkin özel belirlemeler'' başlıklı maddesi değerlendirilerek sonucuna göre karar verilmesi gerekirken eksik inceleme ile yazılı şekilde hüküm tesisi doğru görülmemiş, bu nedenle kararın bozulması gerekmiştir.
 
 ## Yargıtay 3. HD 2023/460 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/980056400)
 
 Adalet Bakanlığının 16.01.2023 tarihli yazısında; 6100 sayılı Hukuk Muhakemeleri Kanununun 4 üncü maddesinde sulh hukuk mahkemelerinin, dava konusunun değer veya tutarına bakılmaksızın; kiralanan taşınmazların, 09.06.1932 tarihli ve 2004 sayılı İcra ve İflas Kanununa göre ilamsız icra yoluyla tahliyesine ilişkin hükümler ayrık olmak üzere,
 
@@ -137,13 +181,19 @@ kira ilişkisinden doğan alacak davaları da dâhil olmak üzere tüm uyuşmazl
 
 ## Yargıtay 3. HD 2022/9641 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/854904900)
+
 4/2/2011 Tarihli ve 27836 sayılı Resmi Gazete’de yayımlanarak 1/10/2011 tarihinde yürürlüğe giren 6100 sayılı Hukuk Muhakemeleri Kanunu’nun “Temyiz edilemeyen kararlar” başlıklı 362 nci maddesinin birinci fıkrasının (b) bendi; “4 üncü maddede gösterilen davalar ile (23/6/1965 tarihli ve 634 sayılı Kat Mülkiyeti Kanunundan doğup taşınmazın aynına ilişkin olan davalar hariç) özel kanunlarda sulh hukuk mahkemesinin görevine girdiği belirtilen davalarla ilgili kararlar” hükmünü içermekte olup, açıklanan bu düzenleme ile kira ilişkisinden doğan ve aynı Kanunun 4 üncü maddesi uyarınca sulh hukuk mahkemesinde görülen davalarda verilen kararlar hakkında temyiz yoluna başvurulamayacağı kabul edilmiştir.
 
 ## Yargıtay 5. HD 2022/15330 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/835412200)
+
 Kira alacağı davalarında hangi mahkemenin yetkili olduğu ise genel yetki kurallarına göre belirlenir. 6100 sayılı Hukuk Muhakemeleri Kanunu’nun 6. maddesi (HUMK'un 9. maddesi) hükmü gereğince davalı kiracının ikamet mahkemesi yetkili olduğu gibi aynı Kanun’un 10. maddesi ve 6098 sayılı Türk Borçlar Kanunu’nun 89. maddesi (BK'nın 73. maddesi) gereğince kira borcu alacaklıya götürülerek ödenmesi gereken borçlardan olması nedeniyle, davacının ikametgah mahkemesi de yetkilidir. Kural olarak davanın konusu sözleşmeden doğan para borcu olup da olayımızda olduğu gibi sözleşmede aksi kararlaştırılmamış ise, bu para borcu alacaklının (davacının) ödeme zamanındaki ikametgahında ödenir.
 
 ## Yargıtay 5. HD 2022/10542 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/800244800)
 
 Kira alacağı davalarında hangi mahkemenin yetkili olduğu ise genel yetki kurallarına göre belirlenir. 6100 sayılı Hukuk Muhakemeleri Kanunu’nun 6. maddesi (HUMK'un 9. maddesi) hükmü gereğince davalı kiracının ikamet mahkemesi yetkili olduğu gibi aynı Kanun’un 10. maddesi ve 6098 sayılı Türk Borçlar Kanunu’nun 89. maddesi (BK'nın 73. maddesi) gereğince kira borcu alacaklıya götürülerek ödenmesi gereken borçlardan olması nedeniyle, davacının ikametgah mahkemesi de yetkilidir. Kural olarak davanın konusu sözleşmeden doğan para borcu olup da olayımızda olduğu gibi sözleşmede aksi kararlaştırılmamış ise, bu para borcu alacaklının (davacının) ödeme zamanındaki ikametgahında ödenir. Bir başka anlatımla kira parası kiraya verenin ayağına götürülüp ödenecek borçlardandır. Bu nedenle davacı alacaklılnın ikametgah mahkemesi de yetkilidir.
 
@@ -151,30 +201,44 @@ Anılan yasal düzenlemelerden kesin yetki düzenlemesinin sözkonusu olmadığ�
 
 ## Yargıtay 3. HD 2022/5445 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/792676300)
+
 04/02/2011 tarihli ve 27836 sayılı Resmi Gazete’de yayımlanarak 01/10/2011 tarihinde yürürlüğe giren 6100 sayılı Hukuk Muhakemeleri Kanunu’nun (6100 sayılı Kanun) “Temyiz edilemeyen kararlar” başlıklı 362 nci maddesinin birinci fıkrasının (b) bendi; “4 üncü maddede gösterilen davalar ile (23/6/1965 tarihli ve 634 sayılı Kat Mülkiyeti Kanunundan doğup taşınmazın aynına ilişkin olan davalar hariç) özel kanunlarda sulh hukuk mahkemesinin görevine girdiği belirtilen davalarla ilgili kararlar” hükmünü içermekte olup, açıklanan bu düzenleme ile kira ilişkisinden doğan ve aynı Kanun'un 4 üncü maddesi uyarınca sulh hukuk mahkemesinde görülen davalarda verilen kararlar hakkında temyiz yoluna başvurulamayacağı kabul edilmiştir.
 
 ## Yargıtay 4. HD 2022/7968 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/783388100)
 
 Sigorta Tahkim Komisyonu İtiraz Hakem Heyetince mevcut eksper tespitleri doğrultusunda, poliçe özel şartı gereği “Poliçede ayrıca belirtilmemiş ise üçüncü şahıslara ait demirbaşlar, makine vb. tüm kıymetler de teminat haricidir.” hükmü uyarınca muhteviyat hasarı teminat harici olarak değerlendirilmiş ve başvurunun reddine karar verilmiştir. Varılan sonuç dosya kapsamına uygun değildir. Eksik inceleme ile hüküm kurulamaz. Mevcut poliçede “3. Şahıs Malları” olarak 50.000,00 TL teminat verildiği açıktır. Sigorta akdinin kurulması aşamasında Bilgilendirme Yönetmeliği paralelinde sigortalının yukarıda açıklanan “Yangın Sigortası Teminat Kapsamı, Özel Şartlar” klozu konusunda bilgilendirildiği hususunda dosyada bir delil yoktur. Bu nedenle 3. kişilere ait olan malların güvencesi olarak poliçede açıkça “3.
 Şahıs Malları (yangın, yıldırım, infilak)” kapsamında 50.000,00 TL teminat verildiği, poliçede 3. kişilere ait demirbaşlar, makine v.s tüm kıymetlerin teminat kapsamına alındığı, kiralayan belediyeye ait demirbaşların listesinin kira sözleşmesinde yer aldığı ve yangın sonrası çekilen fotoğraflar, itfaiye raporu ve eksper raporu ile de bu kıymetlerin zarara uğradığı anlaşılmakla, davalı ... şirketinin 50.000,00TL teminat dahilinde sorumlu olduğunun kabulü gerekirken başvurunun reddine karar verilmesi doğru olmamıştır.
 
 ## Yargıtay 3. HD 2022/1636 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/742638500)
+
 4/2/2011 Tarihli ve 27836 sayılı ... Gazete’de yayımlanarak 1/10/2011 tarihinde yürürlüğe giren 6100 sayılı Hukuk Muhakemeleri Kanunu’nun “Temyiz edilemeyen kararlar” başlıklı 362 nci maddesinin birinci fıkrasının (b) bendi; “4 üncü maddede gösterilen davalar ile (23/6/1965 tarihli ve 634 sayılı Kat Mülkiyeti Kanunundan doğup taşınmazın aynına ilişkin olan davalar hariç) özel kanunlarda sulh hukuk mahkemesinin görevine girdiği belirtilen davalarla ilgili kararlar” hükmünü içermekte olup, açıklanan bu düzenleme ile kira ilişkisinden doğan ve aynı Kanunun 4 üncü maddesi uyarınca sulh hukuk mahkemesinde görülen davalarda verilen kararlar hakkında temyiz yoluna başvurulamayacağı kabul edilmiştir.
 
 ## Yargıtay 3. HD 2022/546 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/732638800)
 
 Ne var ki, 5/8/2017 tarihli ve 30145 (Mükerrer) sayılı Resmi Gazete’de yayımlanarak aynı tarihte yürürlüğe giren 7035 sayılı Kanun’un 32 nci maddesi ile 6100 sayılı Hukuk Muhakemeleri Kanunu’nun 362 nci maddesinin birinci fıkrasının (b) bendinin başına; “Kira ilişkisinden doğan ve miktar veya değeri itibarıyla temyiz edilebilen alacak davaları hariç olmak üzere” ibaresi eklenerek; kira ilişkisinden doğan alacak davaları, malvarlığı davaları gibi telakki edilmiş ve istinaf kanun yolunda kesinleşme yahut temyiz kanun yoluna başvurabilme konusunda, alacağın miktar veya değerinin esas alınması ilkesi benimsenmiştir. Yine 28/7/2020 tarihli ve 31199 sayılı Resmi Gazete’de yayımlanarak aynı tarihte yürürlüğe giren 7251 sayılı Kanun’un 39 uncu maddesi ile 6100 sayılı Hukuk Muhakemeleri Kanunu’nun 362 nci maddesinin birinci fıkrasının (b) bendine; “temyiz edilebilen alacak davaları” ibaresinden sonra gelmek üzere “ile kira ilişkisinden doğan diğer davalardan üç aylık kira tutarı temyiz sınırının üzerinde olanlar” ibaresi eklenerek, kira ilişkisinden doğan diğer davalardan üç aylık kira tutarı temyiz sınırının üzerinde olanların temyize tabi olacağı hükme bağlanmıştır.
 
 ## Yargıtay 3. HD 2021/13628 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/718710600)
+
 04/02/2011 tarihli ve 27836 sayılı Resmi Gazete’de yayımlanarak 01/10/2011 tarihinde yürürlüğe giren 6100 sayılı Hukuk Muhakemeleri Kanununun “Temyiz edilemeyen kararlar” başlıklı 362 nci maddesinin birinci fıkrasının (b) bendi; “4 üncü maddede gösterilen davalar ile (23/06/1965 tarihli ve 634 sayılı Kat Mülkiyeti Kanunundan doğup taşınmazın aynına ilişkin olan davalar hariç) özel kanunlarda sulh hukuk mahkemesinin görevine girdiği belirtilen davalarla ilgili kararlar” hükmünü içermekte olup, açıklanan bu düzenleme ile kira ilişkisinden doğan ve aynı Kanunun 4 üncü maddesi uyarınca sulh hukuk mahkemesinde görülen davalarda verilen kararlar hakkında temyiz yoluna başvurulamayacağı kabul edilmiştir.
 
 ## Yargıtay 3. HD 2021/8880 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/696739600)
+
 Bundan ayrı 1086 sayılı Hukuk Usulü Muhakemeleri Kanunu'nun 74. maddesine göre mahkeme tarafların iddia, savunma ve talepleri ile bağlıdır. Kural olarak, mahkemenin talepten fazlasına veya başka bir şeye hükmetmesi olanak dışıdır. Dosya kapsamından, davacı tarafça, her bir bağımsız bölüm yönünden yıllık kira bedelinin tefe- tüfe artış oranlarının aritmetik ortalaması alınarak 9.494,50 TL olarak tespiti istenilmiş olup taleple bağlı kalınarak hüküm kurulması gerekirken talebin aşılması suretiyle kira bedelinin hak ve nesafete göre ve yıllık 9.500 TL olarak tespiti de usul ve kanuna aykırıdır.
 
 ## Yargıtay 3. HD 2021/6305 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/693287700)
 
 Hukuk Muhakemeleri Kanunu'nun 331. maddesine göre; “Davanın konusuz kalması sebebiyle davanın esası hakkında bir karar verilmesine gerek bulunmayan hâllerde, hâkim, davanın açıldığı tarihteki tarafların haklılık durumuna göre yargılama giderlerini takdir ve hükmeder.” düzenlemesi yer almaktadır. Davanın konusuz kalması halinde, mahkemece, yargılamaya devam edilerek, tarafların delilleri toplanmalı, davalının dava açılmasına
 
@@ -182,13 +246,19 @@ sebebiyet verip vermediği araştırılarak, ortaya çıkacak sonuca göre, yarg
 
 ## Yargıtay 3. HD 2021/1449 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/653430700)
+
 6100 sayılı Hukuk Muuhakemeleri Kanunu’nun 331/1. maddesine göre: Davanın konusuz kalması sebebiyle davanın esası hakkında bir karar verilmesine gerek bulunmayan hâllerde, hâkim, davanın açıldığı tarihteki tarafların haklılık durumuna göre yargılama giderlerini takdir ve hükmeder. Mahkemece davalı kefilin takibe konu kira alacağı dolayısıyla sorumluluğu bulunmadığı belirtilmiştir. Bu durumda mahkemece; dava değerinin 282.604 TL olduğu gözetilerek karar tarihinde yürürlükte bulunan A.A.Ü.T gereğince, konusu para olan veya para ile değerlendirilebilen davalar bakımından öngörülen nispi tarifeye göre hesaplama yapılması ve 28.232,28 TL vekalet ücretine hükmedilmesi gerekirken 1.450 TL vekalet ücreti takdir edilmesi hatalı olmuştur.
 
 ## Yargıtay 17. HD 2020/3305 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/584816100)
+
 6100 sayılı Hukuk Muhakemeleri Kanunu'nun sulh hukuk mahkemelerinin görevi başlıklı 4/(1-a) hükmü: “Sulh hukuk mahkemeleri, dava konusunun değer veya tutarına bakılmaksızın; Kiralanan taşınmazların, 9/6/1932 tarihli ve 2004 sayılı İcra ve İflas Kanununa göre ilamsız icra yoluyla tahliyesine ilişkin hükümler ayrık olmak üzere, kira ilişkisinden doğan alacak davaları da dahil olmak üzere tüm uyuşmazlıkları konu alan davalar ile bu davalara karşı açılan davaları görürler” HMK’nin 4/ç bendi ise "Bu Kanun ile diğer kanunların, sulh hukuk mahkemesi veya sulh hukuk hakimini görevlendirdiği davaları görürler" şeklindedir. Bu düzenlemeden Sulh Hukuk Mahkemelerinin görevli olup olmadığı hususunda özel yasalara atıfta bulunulduğu anlaşılmaktadır. Buna göre 634 sayılı Kat Mülkiyeti Kanunu'nun Ek 1. maddesi "Bu kanunun uygulanmasından doğacak her türlü anlaşmazlık Sulh Hukuk Mahkemelerinde çözümlenir" hükmünü içermektedir.
 
 ## Yargıtay 3. HD 2019/8784 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/558722600)
 
 01.10.2011 tarihinde yürürlüğe giren 6100 sayılı Hukuk Muhakemeleri Kanunu'nun geçici 1. maddesinin 1. fıkrası hükmüne göre; bu kanunun yargı yolu ve göreve ilişkin hükümleri, Kanunun yürürlüğe girmesinden önceki tarihte açılmış olan davalarda uygulanmaz. Eldeki dava, kira sözleşmesinden kaynaklanan alacak istemine ilişkin olup 24.03.2010 tarihinde açılmıştır. Buna göre dava tarihinde yürürlükte olan 1086 sayılı Hukuk Usulü Muhakemeleri Kanunu'nun göreve ilişkin 8. maddesi hükmü uygulanacaktır. Akdin feshi ve tahliye istemi olmaksızın kira alacağı ve tazminat davalarında görevli mahkeme dava değerine bakılarak tayin edilecektir. Eldeki davanın değeri 18.588,08 - TL olup, dava tarihi itibariyle görevli mahkeme Asliye Hukuk Mahkemesidir. Bu itibarla, mahkemece işin esasına girilerek
 
@@ -196,12 +266,18 @@ inceleme ve değerlendirme yapılması gerekirken,hatalı değerlendirme ile yaz
 
 ## Yargıtay 3. HD 2019/5964 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/520491000)
+
 2- 6100 sayılı Hukuk Muhakemeleri Kanununun 26. maddesi hükmüne göre, Hâkim, tarafların talep sonuçlarıyla bağlıdır; ondan fazlasına veya başka bir şeye karar veremez. Duruma göre, talep sonucundan daha azına karar verebilir. Açılan bir davada hakim istenilenden fazlasına veya başka bir şeye hükmedemez. Öğreti ve uygulamada taleple bağlılık olarak adlandırılan bu kural sadece sonuç istem yönünden değil, sonuç istemi oluşturulan her bir alacak kalemi yönünden de uygulanır.Somut olayda, davacı tarafça davalının tahliyesine karar verilmesi talep edilmemesine rağmen tahliye kararı verilerek talebin aşılması usul ve yasaya aykırıdır.
 
 ## Yargıtay 17. HD 2019/7185 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/524857000)
+
 6100 sayılı Hukuk Muhakemeleri Kanunu'nun 4. maddesinde ise dava konusunun değer veya tutarına bakılmaksızın kiralanan taşınmazların, 2004 sayılı İcra ve İflas Kanununa göre ilamsız icra yoluyla tahliyesine ilişkin hükümler ayrık olmak üzere, kira ilişkisinden doğan alacak davaları da dâhil olmak üzere tüm uyuşmazlıkları konu alan davalar ile bu davalara karşı açılan davaların sulh hukuk mahkemesinin görevinde olduğu düzenlenmiştir.
 
 ## Yargıtay 3. HD 2019/3697 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/515874600)
 
 Hukuk Muhakemeleri Kanununun 190. maddesi uyarınca ispat yükü, iddia edilen vakıaya bağlanan hukuki sonuçtan kendi lehine hak çıkaran tarafa aittir. Davacı kira ilişkisinin varlığından hareketle kira parasının tespiti isteminde bulunmuş olup bu açıdan kira ilişkisinin varlığını, kira sözleşmesinin başlangıç tarihini ve aylık kira bedelini ispat külfeti davacıya aittir. Davacı taraf davalı ile aralarında yazılı herhangi bir kira sözleşmesinin…

@@ -22,11 +22,15 @@ uyari: "Derleyenin seçtiği alıntılardır; kararın tamamı değildir. Künye
 
 ## İstanbul BAM 45. HD 2023/48 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/854350100)
+
 2017/720 K. sayılı ilamında; "...Davacı sigorta şirketi, bu davayı sigortalısının halefi olarak açtığına göre, görevli mahkemenin tayininde sigortalı ile davalı arasındaki ilişkinin hukuki mahiyeti nazara alınır.Yargıtay İçtihadı Birleştirme Kurulu’nun 22/03/1944 Tarih E. 37, K. 9, RG. 03/07/1944 sayılı kararında bu husus "sigortacının sorumlu kişi aleyhine açacağı dava, sigorta poliçesinden doğan bir dava değildir. Bu nedenle, halefiyet davası bir ticarî dava sayılamaz. Bu dava, aynen sigortalı kimsenin sorumlu kişiye karşı açmış olduğu bir dava gibidir. Sigortalının muhtelif mahkemelerde dava açma hakkı varsa, aynı hak sigortacının halefiyet hakkına dayanan rücu davası için de söz konusudur" şeklinde vurgulanmaktadır.Öte yandan, TTK'nun “Halefiyet” başlığı altındaki 1472. maddesinde “sigortacı, sigorta tazminatını ödediğinde, hukuken sigortalının yerine geçer.
 Sigortalının, gerçekleşen zarardan dolayı sorumlulara karşı dava hakkı varsa bu hak, tazmin ettiği bedel kadar, sigortacıya intikal eder” hükmüne yer verilmiştir.6100 sayılı HMK'nun “Sulh hukuk mahkemelerinin görevi” başlığı altındaki 4. maddesinde de “(1) Sulh hukuk mahkemeleri, dava konusunun değer veya tutarına bakılmaksızın; a) Kiralanan taşınmazların, 09.06.1932 tarihli ve 2004 sayılı İcra ve İflas Kanununa göre ilamsız icra yoluyla tahliyesine ilişkin hükümler ayrık olmak üzere, kira ilişkisinden doğan alacak davaları da dâhil olmak üzere tüm uyuşmazlıkları konu alan davalar ile bu davalara karşı açılan davaları, b) Taşınır ve taşınmaz mal veya hakkın paylaştırılmasına ve ortaklığın giderilmesine ilişkin davaları, c) Taşınır ve taşınmaz mallarda, sadece zilyetliğin korunmasına yönelik olan davaları, ç) Bu Kanun ile diğer kanunların, sulh hukuk mahkemesi veya sulh hukuk hâkimini görevlendirdiği davaları, görürler.” hükmüne yer verilmiştir.
 (1086 Sayılı HUMK'nun 8/II-1 maddesinde de dava konusu şeyin değerine bakılmaksızın, kira sözleşmesine dayanan her türlü tahliye, akdin feshi yahut tespit davaları, bu davalarla birlikte açılmış kira alacağı ve tazminat davaları ve bunlara karşılık olarak açılan davaların Sulh Hukuk Mahkemelerinde görüleceği” şeklinde benzer düzenlemeye yer verilmişti).
 
 ## İstanbul BAM 37. HD 2022/3184 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/844459900)
 
 K A R A R Dava, itirazın iptaline ilişkindir. İstanbul 10. Sulh Hukuk Mahkemesince, "... sözleşmenin niteliğine göre taraflar arasında kira ilişkisi değil Garanti Sözleşmesi olduğu sözleşmenin asli unsurunun kira ilişkisi değil Garanti Sözleşmesi kapsamında olduğu anlaşılmaktadır. Yukarıda açıklanan yasal düzenlemeler gereğince her iki tarafın tacir olması
 
@@ -36,6 +40,8 @@ Asliye Ticaret Mahkemesi ise, "... davacı ile davalı şirket arasında her ne 
 
 ## İstanbul BAM 45. HD 2022/1480 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/851259000)
+
 Sigortalının muhtelif mahkemelerde dava açma hakkı varsa, aynı hak sigortacının halefiyet hakkına dayanan rücu davası için de söz konusudur." şeklinde vurgulanmaktadır. Öte yandan, TTK'nun “Halefiyet” başlığı altındaki 1472. maddesinde “Sigortacı, sigorta tazminatını ödediğinde, hukuken sigortalının yerine geçer. Sigortalının, gerçekleşen zarardan dolayı sorumlulara karşı dava hakkı varsa bu hak, tazmin ettiği bedel kadar, sigortacıya intikal eder.” hükmüne yer verilmiştir. Dava dışı sigortalı ... ile davalı şirket arasında 01/05/2012 tarihli kira sözleşmesi düzenlendiği, hasarın meydana geldiği tarihte kira ilişkisinin devam ettiği, dava konusu su baskını sonucu oluşan hasarın, davalı şirket tarafından kiralanan işyerinde meydana geldiği anlaşımıştır.
 6100 sayılı HMK'nun “Sulh hukuk mahkemelerinin görevi” başlığı altındaki 4. maddesinde de “(1) Sulh hukuk mahkemeleri, dava konusunun değer veya tutarına bakılmaksızın; a) Kiralanan taşınmazların, 09.06.1932 tarihli ve 2004 sayılı İcra ve İflas Kanununa göre ilamsız icra yoluyla tahliyesine ilişkin hükümler ayrık olmak üzere, kira ilişkisinden doğan alacak davaları da dâhil olmak üzere tüm uyuşmazlıkları konu alan davalar ile bu davalara karşı açılan davaları, b) Taşınır ve taşınmaz mal veya hakkın paylaştırılmasına ve ortaklığın giderilmesine ilişkin davaları, c) Taşınır ve taşınmaz mallarda, sadece zilyetliğin korunmasına yönelik olan davaları, ç) Bu Kanun ile diğer kanunların, sulh hukuk
 
@@ -43,9 +49,13 @@ mahkemesi veya sulh hukuk hâkimini görevlendirdiği davaları, görürler.” 
 
 ## İzmir BAM 4. HD 2022/2620 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/841506800)
+
 Söz konusu 05/06/2014 tarihli bilirkişi raporu incelendiğinde; raporun kira ilişkisi için açılan sonradan tefrik edilip görevsizlik kararı verilen (İzmir 4. ATM 2013/12 esas, görevsizlik kararı sonucu yeni esası İzmir 7. SHM 2021/64 olan) dosya için düzenlendiği, rapor tarihinde henüz eldeki davanın açılmadığı anlaşılmaktadır.
 
 ## İstanbul BAM 15. HD 2022/2068 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/851887900)
 
 Davacı yüklenici, davalı iş sahibidir.Taraflar arasında 14.01.2013 tarihli araç takip ve filo yönetim sistemleri kiralama sözleşmesi imzalanmıştır. Dava tarihinde yürürlükte olan 6100 sayılı HMK’nın 1/1. maddesi uyarınca mahkemelerin görevi, kanunla düzenlenir ve göreve ilişkin kurallar, kamu düzenine ilişkindir. Dava tarihinde yürürlükte olan 6102 sayılı TTK'nın 4. maddesi uyarınca Ticaret Kanunu'nda düzenlenmiş olan hususlardan doğan hukuk davaları ticari dava sayılır. TTK’nın 5/1 maddesi uyarınca, ticari davalar ile ticari nitelikteki çekişmesiz yargı işleri dava olunan şeyin değerine veya tutarına bakılmaksızın asliye ticaret mahkemesinde görülür. TTK'nın 5/3. Maddesine göre, asliye ticaret mahkemesi ile asliye hukuk mahkemesi ve diğer hukuk mahkemeleri arasındaki ilişki görev ilişkisi olup, bu durumda göreve ilişkin usul hükümleri uygulanır.
 Somut olayda, taraflar arasında imzalanan 14.01.2013 tarihli araç takip ve filo yönetim sistemleri kiralama sözleşmesi gereğince davacı yüklenicinin araç takip cihazları ve ek bileşenlerinin montajının yapılması işi ile birlikte gerekli yazılımların kurulması, entegrasyonun kurulup aktif hale getirilmesi işi üstlenilmiş olup, taraflar tacir ve yapılan iş de ticari nitelikte olduğundan davaya bakma yetki ve görevi Asliye Ticaret Mahkemesine aittir.
@@ -53,27 +63,39 @@ Yerel mahkemece, asıl ve birleşen davaların kabulüne karar vermiş ise de da
 
 ## İzmir BAM 23. HD 2022/1050 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/840809100)
+
 Somut olayda; Taraflar arasında davacıya ait Arazöz'ün davalıya kiralanmasına dair sözleşme yapıldığı ileri sürülerek kira bedeli ile kiralanan araçta oluşan bakım ve tamir giderlerinin tahsili istenmektedir. Davacı tarafından ibraz edilen "kiralama sözleşmesi" başlıklı yazılı sözleşme incelendiğinde; sözleşmede davalı kiracının "işveren", davacı araç sahibinin, "taşeron", çalışma alanının "şantiye" olarak adlandırıldığı, sözleşme hükümlerine göre taraflar arasındaki ihtilafın eser/hizmet sözleşmesinden kaynaklandığı, davanın mutlak ticari dava niteliğinde olmadığı, davacı işletme defterine göre defter tuttuğundan tacir sayılmadığı, bu halde nispi ticari dava niteliğinde de bulunmadığı anlaşılmakla davanın Asliye Hukuk Mahkemesinde görülmesi gerekir.
 
 ## İzmir BAM 6. HD 2022/4257 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/843752700)
+
 Somut olayda: Taraflar arasında kira sözleşmesi bulunduğu hususu tartışmalı değildir. 6100 sayılı HMK'nun 4-a maddesi uyarınca kira ilişkilerinden kaynaklanan tüm uyuşmazlıkların münhasır yetkili Sulh Hukuk Mahkemesi'nde görülmesi düzenlenmiştir. Tacirler arası kira sözleşmeleri bakımından ayrık bir hüküm getirilmemiştir. Mahkemece görevsizlik kararı verilmesi doğrudur.
 
 ## İstanbul BAM 45. HD 2022/1375 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/844684900)
 
 HMK 115. maddesinde ise "Mahkeme, dava şartlarının mevcut olup olmadığını, davanın her aşamasında kendiliğinden araştırır. Taraflar da dava şartı noksanlığını her zaman ileri sürebilirler. Mahkeme, dava şartı noksanlığını tespit ederse davanın usulden reddine karar verir..." düzenlemesi yer almaktadır. 6100 sayılı HMK 4.maddesinde sulh hukuk mahkemelerinin görev alanı belirlenmiş ve 4/1.a maddesinde ise kiralanan taşınmazların, 9/6/1932 tarihli ve 2004 sayılı İcra ve İflas Kanununa göre ilamsız icra yoluyla tahliyesine ilişkin hükümler ayrık olmak üzere, kira ilişkisinden doğan alacak davaları da dâhil olmak üzere tüm uyuşmazlıkları konu alan davalar ile bu davalara karşı açılan davaların sulh hukuk mahkemesinde görüleceği belirtilmiştir.Aynı yangın olayı nedeniyle Yargıtay 17. Hukuk Dairesi'nin 11/06/2019 tarihli 2016/6483 E. 2019/7301 K. sayılı ilamında; "...Somut olayda, sigortalı işyerlerinde oluşan yangın hasarı sebebiyle meydana gelen zarar sigortacı tarafından sigortalılara ödenmiş olup ödenen tazminatın dava dışı sigortalı işyerlerini kiraya veren davalı bina maliki ... A.Ş’den ve onun işyeri sigortacısı ... Sigorta A.Ş’den, yangının çıktığı ... A.Ş kiracısı ... Ltd.
 Şti.’den, sinamada tadilat yapan taşeron ...’ten tahsili talep edilmiştir. Dava dışı sigortalı şirketler ve davalı ... Tic. Ltd. Şti., davalı bina maliki ... A.Ş. kiracısıdır. Bu nedenle dava dışı sigortalılar ... Tic. A.Ş ve ... A.Ş ile davalı ... A.Ş arasındaki temel hukuki ilişki kira sözleşmesine dayanmaktadır. Yine yangının çıktığı ... Tic. Ltd. Şti. ile davalı ... A.Ş arasındaki hukuki ilişki de kira sözleşmesine dayanmaktadır. Taraflar arasında uyuşmazlık kira ilişkisinden doğduğuna göre; davaya bakma görevi sulh hukuk mahkemesindedir..." denilerek temel ilişki kira ilişkisi olduğundan, sigortacı tarafından halefiyet yoluyla açılan davanın sulh hukuk mahkemesinde görülmesi gerektiğine işaret edilmiştir.Dosya kapsamında yer alan kira sözleşmeleri incelendiğinde; ... AŞ'nin ... Avm'de ... Normal kat ... nolu mağazayı 01/09/1999 tarihinde ... Ltd.
 
 ## Adana BAM 5. HD 2022/3036 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/833511100)
+
 Bilindiği üzere 01.10.2011 tarihinde yürürlüğe giren 6100 sayılı HMK'nun sulh hukuk mahkemelerinin görevini düzenleyen 4. maddesinin 1/a bendi gereğince kiralanan taşınmazların İcra ve İflas Kanunu'na göre ilamsız icra yolu ile tahliyesine ilişkin hükümler ayrık olmak üzere, kira ilişkisinden doğan alacak davaları da dahil tüm uyuşmazlıkları konu alan davalar ile bu davalara karşı açılan davalar sulh hukuk mahkemesinin görevine girmektedir. Mülga 1086 sayılı HMUK'dan farklı olarak bu düzenlemede miktar ayırımı yapılmaksızın tahliye, alacak, tazminat, kiracılık sıfatının tespiti gibi tüm kira ilişkisinden kaynaklanan uyuşmazlıkların çözüm yeri sulh hukuk mahkemesi olarak gösterilmiştir.
 
 ## İzmir BAM 6. HD 2022/4134 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/836271400)
 
 Somut olayda; ... ili, ... ilçe, ... Mahallesi, ... pafta, ... ada,...ve... parsel; ... ili ... Mahallesi, ... pafta, ... ada, ... parsel ve ... ili, ... Mahallesi, ... pafta, ... ada ... parsel numarasında kayıtlı ve mülkiyeti... A.Ş'ne ait taşınmazlar, özelleştirme kapsamına alınmıştır. ... Şirketi ile... A.Ş. tarafından oluşturulan ... grubu ile Türkiye Denizcilik İşletmesi arasında 24.10.1995 tarihli kullanım hakkı devri sözleşmesi imzaladığı, sözleşme kapsamına alınan gayrimenkullerin kira haklarını 25 yıllığına ... grubuna (...) verilmiştir. ... Şirketi arasında 12.1.1998 tarihli "Kullanım Hakkı, Tasarım- modernizasyon- işletme Sözleşmesi imzalanmıştır. Sözleşmenin 7. maddesinde de ... ödenecek bedel kararlaştırılmıştır... A.Ş. bilahare sözleşmeden kaynaklanan tüm hak ve yetkilerini davalı ... A.Ş. devretmiştir.Kullanım Hakkı Tasarım Modernizasyon İşletme Sözleşmenin 7. maddesi gereğince ...'yi oluşturan davacı şirket kendi payına düşen miktarın tahsili amacıyla icra takibi başlatmıştır. Takibe itiraz üzerine de, itirazın iptali davası açılmıştır. ... ile ... arasında imzalanan kullanım hakkı sözleşmesi bir kira sözleşmesidir.
 Kira sözleşmesinden kaynaklanan tüm uyuşmazlıklarda HMK 4/1-a maddesi gereğince sulh hukuk mahkemesi görevlidir. Dosya ekinde olan İzmir 10. Sulh Hukuk Mahkemesinin 2018/981 E- 2020/254 karar sayılı dosyanın incelemesinde; ... Grubundan... Şti aynı şekilde alacağının tahsili amacıyla başlatılan icra takibine itiraz üzerine .... A.Ş aleyhine itirazın iptali davası açılmıştır. İzmir 2. Asliye Ticaret Mahkemesi'nin 2014/1278 E- 2016-89 sayılı kararında, davada sulh hukuk mahkemesi görevli olduğundan davanın usulden reddine karar vermiştir. Hükmün temyiz edilmesi üzerine Yargıtay 3. Hukuk Dairesinin 14.5.2018 tarih 2018/2481 Esas - 2018/5097 sayılı kararı ile onanmıştır. ...'un açmış olduğu itirazın iptali davasında Yargıtay 3. Hukuk Dairesinin kararı ile Sulh Hukuk Mahkemesinin görevli olduğu anlaşılmıştır. Bu davada da diğer ortak ... A.Ş. Tarafından itirazın iptali davası açılmıştır. Görevli mahkemenin sulh hukuk mahkemesi olduğundan, mahkemenin görevsiz olması nedeniyle dava şartı nedeniyle, davanın usulden reddine karar verilmesi gerekirken, başka gerekçe ile davanın reddine karar verilmesi doğru değildir.
 
 ## İstanbul BAM 44. HD 2022/1608 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/830484700)
 
 Asliye Ticaret Mahkemesinin 2017/677 D.iş, 2017/679 K. sayılı dosyasından menkullerin müvekkili şirkete iadesi yönünde tedbir kararı verildiğini beyan ederek, yargılama gideri ve vekalet ücretinin karşı tarafa yükletilerek finansal kiralama sözleşmesine konu menkullerin müvekkili şirkete iadesine ve söz konusu mallarla ilgili tedbir kararının karar kesinleşene kadar devamına karar verilmesini talep etmiştir. Davalı vekili cevap dilekçesinde özetle; Müvekkili ile davacı taraf arasında finansal kiralama sözleşmesine bağlı borcun çeşitli
 
@@ -82,15 +104,21 @@ Davacı vekili 18/09/2018 havale tarihli dilekçesinde özetle; Dava konusu rehn
 
 ## Antalya BAM 3. HD 2022/1993 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/838969600)
+
 6102 sayılı Türk Ticaret Kanunu'nun 4.maddesinde hangi işlerin ticari dava olarak nitelendirilecekleri belirlendikten sonra anılan kanunun 5.maddesinde Asliye Ticaret Mahkemesi ile Asliye ve diğer hukuk mahkemeleri arasındaki ilişkinin görev ilişkisi olduğu belirtilmiştir. Ticari davalar, mutlak ticari davalar, nisbi ticari davalar, yalnızca bir ticari işletmeyle ilgili olmasına rağmen ticari nitelikte kabul edilen davalar olmak üzere üç grubta toplamak mümkündür. Mutlak ticari davalar, tarafların tacir olup olmadığına ve işin bir ticari işletmeyi ilgilendirip ilgilendirmediğine bakılmaksızın ticari sayılan davalardır. Mutlak ticari davalar, 6102 sayılı TTK'nın 4/1. maddesinde bentler halinde sayılmıştır. Bunların yanında Kooperatifler Kanunu (m.99), İcra İflas Kanunu (m.154), Finansal Kiralama Kanunu (m.31), Ticari İşletme Rehni Kanunu (m.22) gibi bazı özel kanunlarda belirlenmiş ticari davalar da bulunmaktadır. Bu gruptaki davaların ticari dava sayılabilmesi için taraflarının tacir olması veya ticari işletmeleriyle ilgili olması gibi şartlar aranmaz.
 TTK'nın 4/1. bendinde sınırlı olarak sayılan davalar arasında yer alması veya özel kanunlarda ticari dava olarak nitelendirilmesi yeterlidir. Bu davalar kanun gereği ticari dava sayılan davalardır. Nispi ticari davalar, her iki tarafın ticari işletmesiyle ilgili olması halinde ticari nitelikte sayılan davalardır. 6102 sayılı TTK'nın 4/1. maddesine göre, her iki tarafın ticari işletmesiyle ilgili hususlardan doğan ve iki tarafı da tacir olan hukuk davaları ticari dava sayılır. Bu hükme göre bir davanın ticari dava sayılabilmesi için, hem iki tarafın ticari işletmesini ilgilendirmesi, hem de iki tarafın tacir olması gereklidir. Bu şartlar birlikte bulunmadıkça, uyuşmazlık konusunun ticari iş niteliğinde olması veya ticari iş karinesi sebebiyle diğer taraf için de ticari iş sayılması davanın ticari dava olması için yeterli değildir. 6102 sayılı Türk Ticaret Kanunu'nun 19/2. maddesi uyarınca, taraflardan biri için ticari iş sayılan bir işin diğeri için de ticari iş sayılması, davanın niteliğini ticari hale getirmeyecektir. Zira; Türk Ticaret Kanunu, kanun gereği ticari dava sayılan davalar haricinde, ticari davayı ticari iş esasına göre değil, ticari işletme esasına göre belirlemiştir.
 Hal böyle olunca, işin ticari nitelikte olması davayı ticari dava haline getirmez. Üçüncü grup ticari davalar, yalnızca bir tarafın ticari işletmesini ilgilendiren havale, vedia ve fikri haklara ilişkin davalardır.
 
 ## Bursa BAM 5. HD 2022/1488 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/850185500)
+
 Yine davacı tarafça Bursa 1. Sulh Hukuk Mahkemesinin 2912/88 D.İş sayılı dosyasında 02/10/2012 tarihinde tespit talebinde bulunduğu, 05/10/2012 tarihinde mahallinde yapılan keşif sonucunda taşınmazın tahliye edilmiş ve boş durumda olduğu tespit edilmiştir.
 
 ## İstanbul BAM 17. HD 2022/1262 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/825266700)
 
 Asliye Ticaret Mahkemesinin yargı yeri olarak belirlendiği anlaşılmıştır.Taraflar arasında mevcut fuar ve stand kiralama sözleşmesi gereği tarafların edimlerini yerine getirip getirmedikleri, fuar alanında kurulu standın sökülüp atılmasından dolayı davacının zararının oluşup oluşmadığı, yine karşı davada davalının, standın sökülmesi nedeniyle zararının oluşup oluşmadığı bakımından bilirkişi heyeti tarafından sunulan 23/11/2016 tarihli bilirkişi raporunda; dava konusu fuarın zamanında gerçekleştiği, fuar standı kurulumunun fuar alanından belirtilen süre içerisinde/fuar hitamında katılımcı şirket olan davacı karşı davalı tarafından boşaltılmadığını, anılan sözleşmenin 14. maddesinin davacı karşı davalı açısından bağlayıcı olduğu kabul edilirse bu alandaki ticari teamüllerle de uyumlu olarak zamanında sökülmeyen stand sebebiyle davacı karşı davalının sorumluluğu ve yükümlülüğü olduğunu, davalı karşı davacının kendisinin huzurdaki davacı karşı davalı ile olan ilişkisinden bağımsız olarak, o alan başkaca faaliyetlere de açık olması sebebiyle fuar bitiminde fuar alanını temizleyerek, dava ve sözleşme dışı olan 3. şahıs konumundaki fuar binası yönetimine teslim etmek zorunda olduğu,
 davacı karşı davalının fiili tavrı buna engel olduğu ölçüde, davalı karşı davacının sözleşmesel ve sektörel teamüllere dayalı hakkını kullanarak standı söküp tahliye etme hakkına haiz olduğu, fakat fuar kullanımı neticesi eğer davacın davada dayandığı faturalardaki malzeme aynen kabul edilse bile, fuar sonu kullanıma bağlı değerinin 16.192,82 TL olacağı ve dürüstlük kuralı gereği söküm sonrası muhafaza işini iyi yapması gereken davalı karşı davacı yanın bu muhafaza işini iyi yapmaması sebebiyle müterafık kusurunun bulunduğu, TBK 50-52 maddeleri arasında yer bulan ilkelere göre, davalı karşı davacının bu meblağın 8.096,41 TL’lik kısmından sorumlu kabul edilebileceği, karşı davanın kabulü halinde, talep edilebilecek bedelin 2.000 TL olduğunu bildirilmişlerdir Bilirkişi heyetine kağıt malzemeleri ve mobilya konusunda uzman bilirkişiler dahil edilerek alınan 25/01/2018 tarihli bilirkişi ek raporunda; kök rapordan sonra dosyaya sunulan resimlerin dosya kapsamındaki CD içerisindeki resimler olduğu, dosyadaki delillere göre yapılacak zarar hesabının tahmini olacağı, davacının sözleşme uyarınca fuar alanını istenilen zamanda boşaltmak zorunda olduğunu, aksi halde bu durumun bir sonraki
@@ -100,13 +128,19 @@ olduğu, davalı karşı davacının sözleşmesel ve sektörel mamullere dayal�
 
 ## İstanbul BAM 37. HD 2022/2546 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/818797700)
+
 Ticari davalar, mutlak ve nispi ticari davalar olarak ikiye ayrılmaktadır. Nispi ticari davalar, TTK'nın 4/1. maddesinin ilk cümlesinde tarif edilen davalardır. Buna göre, her iki tarafın da "ticari işletmesiyle ilgili hususlardan kaynaklanan" hukuk davaları, ticari dava sayılmıştır. Somut olayda taraflar arasında düzenlen sözleşmelere göre, arazi sahibinin araziyi teslimi sonrasında yüklenici olan tarafın araziyi doldurması ve rehabile etmesinin kararlaştırıldığı, sözleşmedeki ağırlıklı edimlerin dolgu ve rehabile ile peşin ödenen bedel olduğu, taraflar arasında spesifik kira ve ürün kirasına ilişkisi değil, atipik yapılmış bir sözleşme ilişkisi bulunması, her iki tarafın tacir olması ve uyuşmazlığın atipik sözleşme hükümlerine uyulmamadan kaynaklanması nedeni ile uyuşmazlığın her iki tarafın ticari işletmesi ile ilgili olmasına göre ticari dava niteliğinde bulunan uyuşmazlığın İstanbul 7. Asliye Ticaret Mahkemesinde görülüp sonuçlandırılması gerekmektedir.
 
 ## Konya BAM 3. HD 2022/2172 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/818015400)
+
 Ticari davalar ise mutlak ticari davalar ve nispi ticari davalar olmak üzere iki gruba ayrılmaktadır. Mutlak ticari davalar, tarafların tacir olup olmadığına ve işin bir ticari işletmeyi ilgilendirip ilgilendirmediğine bakılmaksızın sırf dava konusunun TTK'da düzenlenmesi nedeniyle ticari sayılan davalardır. Mutlak ticari davalar TTK'nın 4/1.maddesinde bentler hâlinde sayılmıştır. TTK'nın 4-(1).maddesi hükmünde "Her iki tarafın da ticari işletmesi ile ilgili hususlardan doğan hukuk davaları ile, tarafların tacir olup olmadıklarına bakılmaksızın, a-f bentleri arasında sayılan hususlardan doğan hukuk davalarının ticari dava sayılacağı" belirtilmiştir. Bunların yanında Kooperatifler Kanunu (m.99), İcra ve İflas Kanunu (m.154), Finansal Kiralama Kanunu (m.31) gibi bazı özel kanunlarda belirlenmiş ticari davalar da bulunmaktadır. Bu gruptaki davaların ticari dava sayılabilmesi için taraflarının tacir olması veya ticari işletmeleriyle ilgili olması gibi şartlar aranmaz. TTK'nın 4/1.bendinde sınırlı olarak sayılan davalar arasında yer alması veya özel kanunlarda ticari dava olarak nitelendirilmesi yeterlidir. Bu davalar kanun gereği ticari dava sayılan davalardır.
 
 ## İstanbul BAM 49. HD 2022/2083 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/820229500)
 
 Dairemiz ilk derece mahkemesi kararını hem maddi olay, hem de hukuka uygunluk bakımından incelemeye tabi tutarak tespit edilen yargılama hatalarını bizzat düzeltmek amacıyla yapılan inceleme sonunda; duruşma yapılmasına gerek olmadığı, Taraflar arasındaki sözleşmenin kira, ticari alım satım ve hizmet ilişkisini içerir karma nitelikte sözleşme niteliğinde olduğu, dava konusu faturalara ilişkin alacağın kira ilişkisi mi, ticari alım-satım ilişkisi mi, yoksa hizmet ilişkisinden mi kaynaklandığı hususu tespit
 
@@ -114,14 +148,20 @@ edilerek/değerlendirilerek Mahkemenin görevli olmadığı talepler hakkında t
 
 ## İstanbul BAM 54. HD 2022/253 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/820019300)
+
 Şti olduğu, Davacı ile dava dışı kiraya veren arasında 13/12/2010 tarihli "Alacağın Temliki" sözleşmesi imzalandığı, davalı şirket ile imzalanan 12/11/2010 tarihli kira sözleşmesinden doğan kira alacağının temlik edildiği, TBK 183. maddesinde; ''Kanun, sözleşme veya işin niteliği engel olmadıkça alacaklı, borçlunun rızasını aramaksızın alacağını üçüncü bir kişiye devredebilir.'' düzenlemesinin bulunduğu, alacağı temlik alan davacının, temel ilişki olan kira sözleşmesine dayalı alacak isteminde bulunduğu, HMK nın 4/a maddesi gereğince "kiralanan taşınmazların İcra İflas Kanununa göre ilamsız icra yoluyla tahliyesine ilişkin hükümler ayrık olmak üzere kira ilişkisinden doğan alacak davaları da dahil olmak üzere tüm uyuşmazlıkları konu olan davalar ile bu davalara karşı açılan davalar Sulh Hukuk Mahkemesinde" görüleceğinin düzenlendiği, Görev hususunun kamu düzenine ilişkin olup, yargılamanın her aşamasında hakim tarafından resen dikkate alınması gerektiği, davaya konu olan temlike konu temel ilişkinin kira alacağından kaynaklı olması sebebiyle uyuşmazlığa bakma görevinin Sulh Hukuk Mahkemesine ait olduğu anlaşılmıştır.
 Dairemiz ilk derece mahkemesi kararını hem maddi olay, hem de hukuka uygunluk bakımından incelemeye tabi tutarak, tespit edilen yargılama hatalarını bizzat düzeltmek amacıyla yapılan inceleme sonunda; duruşma yapılmasına gerek olmadığı, mahkemece davaya konu olan temlike konu temel ilişkinin kira alacağından kaynaklı olması sebebiyle uyuşmazlığa bakma görevi Sulh Hukuk Mahkemesine ait olduğundan görevsizlik kararı verilmesi gerekirken yargılamaya devamla hüküm kurulmasının usul ve esas yönünden hukuka aykırı olduğu, HMK 353/1-a/3 maddesi gereğince davalı vekilinin istinaf başvurusunun göreve ilişkin olarak kabulü ile, mahkeme kararının kaldırılmasına, dosyanın mahkemesine gönderilmesine karar vermek gerekmiştir.
 
 ## Ankara BAM 22. HD 2022/1347 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/830802300)
+
 Her ne kadar davada Asliye Ticaret Mahkemesi tarafından yargılama yapılarak karar verilmiş ise de, uyuşmazlığın kira sözleşmesine dayandırıldığı belirlenmekle, davanın Sulh Hukuk Mahkemesinde görülmesi gerektiğinden mahkemece, HMK’nın 114/1-e ve 115/2. maddeleri uyarınca davanın usulden reddine karar verilmesi gerekirken, bu yön göz ardı edilerek davanın esası hakkında hüküm kurulması usul ve yasaya aykırı olmuştur.
 
 ## İstanbul BAM 13. HD 2022/1330 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/805712800)
 
 Taraflar arasında, resmi şekilde düzenlenmeyen üst hakkı sözleşmesinde, kira sözleşmelerinin üst hakkı sözleşmesinin eki ve ayrılmaz bir parçası olduğunun açıkça kabul edildiği, kira sözleşmelerinin yürürlükte olduğu, sözleşmelerin başlangıcından itibaren davacı şirket tarafından düzenlenen tüm faturaların "kira bedeli faturası" olarak
 
@@ -130,16 +170,22 @@ bulunmamaktadır.
 
 ## Antalya BAM 11. HD 2022/1192 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/813556500)
+
 Sözleşme davalılardan ... A.Ş ile yapılmıştır. Başlangıç tarihi 01/12/2015, bitiş tarihi 31/03/2016 'dır. Sözleşmenin 4. maddesinin son bendine göre; bitiş tarihinde gecikme yaşanma ihtimali ortaya çıktığı taktirde kiracının bu durumu 7 gün önceden kiraya verene bildirip 15 gün daha aylık kira ile orantılı günlük kira olarak ödeyip devam edeceği, kiracının kira sözleşmesi bitiş tarihini aşan tarihlere kadar ürünü soğuk odada tutmak istediği taktirde bu uzatmadan kaynaklı bozulmaları kabul etmiş sayılacağı kararlaştırılmıştır. Antalya 3. Asliye Ticaret Mahkemesinin ... D. İş sayılı dosyasında 19/04/2016 tarihindeki tespitte narların bozulduğu belirtilmiş ise de, gerek tespit raporunda gerekse yargılama sonucu alınan heyet raporunda kesin olarak narların hangi tarihte bozulduğu açıklanmamıştır. Raporda dava dışı ... Ltd Şti'nin mallarının muhafaza edildiği 1 nolu depoda Antalya 1.Asliye Ticaret Mahkemesinin ... d iş sayılı dosyada 28.03.2016 tarihinde yapılan tespitte ürünlerin bozulduğu belirtilmiş ise de, bu tespitin davacıya ait narların saklandığı 2,4 ve 5 nolu bölümler için de geçerli olup olmadığı anlaşılamamıştır.
 Raporda 1 ve 2,4,5 nolu bölümdeki ürünlerin farklı zamanlarda koyulduğu belirtilmiştir.
 
 ## İstanbul BAM 35. HD 2022/2158 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/800357000)
 
 Dairemizin 2022/345 E. 2022/888 K. 29/03/2022 tarihli kararı ile Uyuşmazlığın kira sözleşmesinden kaynaklanmış olduğundan davaya bakma görevinin Asliye Ticaret Mahkemesi olmadığı, Sulh Hukuk Mahkemesi olduğu gerekçesi ile kararın kaldırıldığı,Dairemiz kararı doğrultusunda Asliye Ticaret Mahkemesi tarafından görevsizlik kararı verildiği, Sözleşme içeriğine göre; dava konusu otoparkın zilyetliğinin davacıya devredildiği, davacının kullanım bedeli karşılığı otoparkı kullandığı, buna göre taraflar arasındaki akdi ilişkinin 6098 sayılı Türk Borçlar Kanunu'nun 299. maddesinde düzenlenen kiralama ilişkisi olduğu, sözleşmede yer alan " İş bu sözleşme bir kiralama sözleşmesi değildir" hükmünün sözleşmenin kira sözleşmesi niteliğini değiştirmeyeceği, Sözleşme içeriğine göre; davaya bakma görevinin Sulh Hukuk Mahkemesine ait olduğu anlaşılmıştır. Dairemiz ilk derece mahkemesi kararını hem maddi olay, hem de hukuka uygunluk bakımından incelemeye tabi tutarak tespit edilen yargılama hatalarını bizzat düzeltmek
 
 amacıyla yapılan inceleme sonunda; dairemizce duruşma yapılmasına gerek olmadığı, dosyadaki yazılara, kararın dayandığı kanıtlara, yasal gerektirici nedenlere göre karar verilmiş olması sebebiyle, incelenen mahkeme kararının HMK 353/1-b/1 maddesi gereğince usul ve esas yönünden hukuka uygun olduğu, istinaf sebepleri yerinde olmadığından başvurunun esastan reddine karar vermek gerekmiştir.
 
 ## İstanbul BAM 37. HD 2022/2064 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/802069800)
 
 K A R A R Dava; tarafların aralarında 08/09/2011 tarihli ''...in Kiralanması Sözleşmesidir.'' şeklinde düzenledikleri sözleşmeye istinaden, iş bu sözleşme şartlarına uyulmadığından bahisle davacının ... üzerince kiracılık sıfatının ve yayın hakkı sahibi olduğunun tespiti istemine ilişkindir. Sulh Hukuk Mahkemesince, uyuşmazlığın ticari nitelikte olduğu Asliye Ticaret Mahkemesinde görülmesi gerektiği gerekçesiyle görevsizlik yönünde hüküm kurulmuştur. Asliye Ticaret Mahkemesince, davanın kira sözleşmesinden kaynaklandığı Sulh Hukuk Mahkemesinde görülmesi gerektiği gerekçesiyle görevsizlik yönünde hüküm kurulmuştur. Somut olayda, davacı taraflar arasındaki 08/09/2021 tarihli kira sözleşmesi uyarınca kiracılık sıfatının ve yayın hakkı sahibi olduğunun tespitini talep etmiş olup, davalı tarafından radyonun hukuksuz yollarla kullanılması nedeniyle tecavüzün önlenmesi ve tazminat talebiyle Bakırköy 1.
 Fikri ve Sinai Haklar Mahkemesinin 2020/249 Esasında kayıtlı davanın açıldığı, davaların taraflarının konusunun aynı olması nedeniyle birleştirilmesi gerektiği, ancak davaların henüz birleştirilmediği, bu aşamada davacının kira sözleşmesine dayalı olarak talepte bulunmasına ve kira ilişkisine dayanmasına göre uyuşmazlığın Sulh Hukuk Mahkemesince çözümlenmesi gerekmektedir.

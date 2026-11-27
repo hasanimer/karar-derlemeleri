@@ -21,9 +21,13 @@ uyari: "Derleyenin seçtiği alıntılardır; kararın tamamı değildir. Künye
 
 ## Yargıtay 3. HD 2025/3930 K. (kanun yararına bozma)
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1172669700)
+
 Somut olayda; davacılardan kiraya veren ... ile davalı arasında 15.08.2020 tarihli kira sözleşmesinde belirlenen 5 yıllık süre 15.08.2025 tarihinde sona ermektedir. Eldeki dava ise 01.12.2023 tarihinde açılmış olmakla, **belirli süreli kira sözleşmesinin süresi olan 5 yıl sona ermeden** 01.12.2023 tarihinde açılan davanın süresinde olmadığı…
 
 ## Yargıtay 3. HD 2025/1496 K. (kanun yararına bozma)
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1163476700)
 
 Davanın, sözleşmenin sonunda bir ay içinde açılması halinde **ayrıca bir bildirimde bulunması gerekmemektedir**. Dava, kira sözleşmesinin sona erdiği tarihten itibaren bir aylık süre içerisinde, 27.12.2023 tarihinde açıldığına göre, süresindedir.
 

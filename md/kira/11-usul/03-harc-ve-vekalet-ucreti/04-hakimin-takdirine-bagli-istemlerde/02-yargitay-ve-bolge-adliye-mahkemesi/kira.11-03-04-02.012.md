@@ -24,12 +24,16 @@ uyari: "Derleyenin seçtiği alıntılardır; kararın tamamı değildir. Künye
 
 ## Yargıtay 9. HD 2013/25755 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/438927600)
+
 Dairemizin önceki kararlarında; hafta tatili ücretlerinden yapılan indirimler sebebiyle davalı tarafın kendisini avukat ile temsil ettirmesi durumunda, reddedilen kısım için davalı yararına avukatlık ücretine hükmedilmesi gerektiği kabul edilmekteydi (Yargıtay 9.HD. 11.02.2010 gün 2008/17722 E, 2010/3192 K.). Ancak, işçinin davasını açtığı veya ıslah yoluyla dava konusunu arttırdığı aşamada, mahkemece ne miktarda indirim yapılacağı işçi tarafından bilenemeyeceğinden, Dairemizce 2011 yılı itibarıyla maktu ve nispi vekâlet ücretlerinin yüksek oluşu da dikkate alınarak konunun yeniden ve etraflıca değerlendirilmesine gidilmiş, bu tür indirimden kaynaklanan ret sebebiyle davalı yararına avukatlık ücretine karar verilmesinin adaletsizliğe yol açtığı sonucuna varılmıştır. Özellikle seri davalarda indirim sebebiyle kısmen reddine karar verilen az bir miktar için dahi her bir dosyada zaman zaman işçinin alacak miktarını da aşan maktu avukatlık ücretleri ödetilmesi durumu ortaya çıkmaktadır. Yine daha önceki kararlarımızda, yukarıda değinildiği üzere
 
 hafta tatili ücretinden yapılan indirim sebebiyle ret vekâlet ücretine hükmedilmekle birlikte, Borçlar Kanununun 161/son, 325/son, 43 ve 44 üncü maddelerine göre, yine 5953 sayılı Yasada öngörülen yüzde beş fazla ödemelerden yapılan indirim sebebiyle reddine karar verilen miktar için avukatlık ücretine hükmedilmemekteydi. Bu durum uygulamada hakkaniyete aykırı sonuçlara neden olduğundan ve konuyla ilgili olarak Avukatlık Asgari Ücret Tarifesinde de herhangi bir kurala yer verilmediğinden, Dairemizce eski görüşümüzden dönülmüş ve hafta tatili ücretinden yapılan takdiri indirim nedeniyle reddine karar verilen miktar bakımından, kendisini vekille temsil ettiren davalı yararına avukatlık ücretine hükmedilemeyeceği kabul edilmiştir.Somut olayda hükme esas alınan bilirkişi raporunda günde 11.5 saat çalıştığı kabul edilerek saat ücretinin % 50 arttırılması suretiyle hafta tatili ücreti hesaplanmıştır. Oysa hafta tatili ücreti hesabında hafta tatilinde çalışılan saat üzerinden hesaplama yapılamaz. Yukarıda ilke kararımızda da belirtildiği gibi çalışılan hafta tatili ücreti ödenirken yevmiyenin % 50 arttırılması suretiyle yani 1.5 yevmiye üzerinden ödenmelidir.
 Başka bir anlatımla haftanın 7. günü çalışan işçinin hafta tatili yevmiyesi “ aylık ücret/ 30x 1.5 ” formülü ile bulunmalıdır.
 
 ## Yargıtay 9. HD 2013/25441 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/443419200)
 
 Fazla çalışmanın belirlenmesinde, 4857 sayılı Yasanın 68 inci maddesi uyarınca ara dinlenme sürelerinin de dikkate alınması gerekir. Fazla çalışmaların uzun bir süre için hesaplanması ve miktarın yüksek çıkması halinde Yargıtay’ca son yıllarda hakkaniyet indirimi yapılması gerektiği istikrarlı uygulama halini almıştır (Yargıtay 9.HD. 11.2.2010 gün 2008/17722 E, 2010/3192 K; Yargıtay, 9.HD. 18.7.2008 gün 2007/25857 E, 2008/20636 K.). Ancak fazla çalışmanın tanık anlatımları yerine yazılı belgelere ve işveren kayıtlarına dayanması durumunda böyle bir indirime gidilmemektedir. Yapılacak indirim, işçinin çalışma şekline ve işin düzenlenmesine ve hesaplanan fazla çalışma miktarına göre takdir edilmelidir. Hakkın özünü ortadan kaldıracak oranda bir indirime gidilmemelidir(Yargıtay 9.HD. 21.03.2012 gün, 2009/48913 E, 2012/9400 K .). Dairemizin önceki kararlarında; fazla çalışma ücretlerinden yapılan indirim, kabul edilen fazla çalışma süresinden indirim olmakla, davalı tarafın kendisini avukatla temsil ettirmesi durumunda reddedilen kısım için davalı yararına avukatlık ücretine hükmedilmesi gerektiği kabul edilmekteydi (Yargıtay 9.HD. 11.02.2010 gün 2008/17722 E, 2010/3192 K.).
 Ancak, işçinin davasını açtığı veya ıslah yoluyla dava konusunu arttırdığı aşamada, mahkemece ne miktarda indirim yapılacağı işçi tarafından bilenemeyeceğinden, Dairemizce maktu ve nispi vekâlet ücretlerinin yüksek oluşu da dikkate alınarak konunun yeniden ve etraflıca değerlendirilmesine gidilmiş, bu tür indirimden kaynaklanan ret sebebiyle davalı yararına avukatlık ücretine karar verilmesinin adaletsizliğe yol açtığı sonucuna varılmıştır. Özellikle seri davalarda indirim sebebiyle kısmen reddine karar verilen az bir miktar için dahi her bir dosyada zaman zaman işçinin alacak miktarını da aşan maktu avukatlık ücretleri ödetilmesi durumu ortaya çıkmaktadır.
@@ -38,6 +42,8 @@ Yine daha önceki kararlarımızda, yukarıda değinildiği üzere fazla çalı�
 karar verilen miktar bakımından, kendisini vekille temsil ettiren davalı yararına avukatlık ücretine hükmedilemeyeceği kabul edilmiştir. Somut olayda davacı 08.00-19.00 saatleri arasında çalıştığını iddia ederek fazla mesai alacağı talebinde bulunmuştur. Davalı ise davacının fazla mesai alacaklarının ödendiğini savunmuştur.
 
 ## Yargıtay 9. HD 2013/25118 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/441262100)
 
 Fazla çalışmaların uzun bir süre için hesaplanması ve miktarın yüksek çıkması halinde Yargıtay’ca son yıllarda hakkaniyet indirimi yapılması gerektiği istikrarlı uygulama halini almıştır (Yargıtay 9.HD. 11.2.2010 gün 2008/17722 E, 2010/3192 K; Yargıtay, 9.HD. 18.7.2008 gün 2007/25857 E, 2008/20636 K.). Ancak fazla çalışmanın tanık anlatımları yerine yazılı belgelere ve işveren kayıtlarına dayanması durumunda böyle bir indirime gidilmemektedir. Yapılacak indirim, işçinin çalışma şekline ve işin düzenlenmesine ve hesaplanan fazla çalışma miktarına göre takdir edilmelidir. Hakkın özünü ortadan kaldıracak oranda bir indirime gidilmemelidir(Yargıtay 9.HD. 21.03.2012 gün, 2009/48913 E, 2012/9400 K). Dairemizin önceki kararlarında; fazla çalışma ücretlerinden yapılan indirim, kabul edilen fazla çalışma süresinden indirim olmakla, davalı tarafın kendisini avukatla temsil ettirmesi durumunda reddedilen kısım için davalı yararına avukatlık ücretine hükmedilmesi gerektiği kabul edilmekteydi (Yargıtay 9.HD. 11.02.2010 gün 2008/17722 E, 2010/3192 K.).
 Ancak, işçinin davasını açtığı veya ıslah yoluyla dava konusunu arttırdığı aşamada, mahkemece ne miktarda indirim yapılacağı işçi tarafından bilenemeyeceğinden, Dairemizce maktu ve nispi vekâlet ücretlerinin yüksek oluşu da dikkate alınarak konunun yeniden ve etraflıca değerlendirilmesine gidilmiş, bu tür indirimden kaynaklanan ret sebebiyle davalı yararına avukatlık ücretine karar verilmesinin adaletsizliğe yol açtığı sonucuna varılmıştır. Özellikle seri davalarda indirim sebebiyle kısmen reddine karar verilen az bir miktar için dahi her bir dosyada zaman zaman işçinin alacak miktarını da aşan maktu avukatlık ücretleri ödetilmesi durumu ortaya çıkmaktadır. Yine daha önceki kararlarımızda, yukarıda değinildiği üzere fazla çalışma alacağından yapılan indirim sebebiyle ret vekâlet ücretine hükmedilmekle birlikte, Borçlar Kanununun 161/son, 325/son, 43 ve 44 üncü maddelerine göre, yine 5953 sayılı Yasada öngörülen yüzde beş fazla ödemelerden yapılan indirim sebebiyle reddine karar verilen miktar için avukatlık ücretine hükmedilmemekteydi.
@@ -48,6 +54,8 @@ Fazla çalışma 6 gün üzerinden belirlenip çalışılan hafta tatilindeki 7,
 
 ## Yargıtay 9. HD 2013/25124 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/441277200)
+
 Günlük çalışma süresinin onbir saati aşamayacağı Kanunda emredici şekilde düzenlendiğine göre, bu süreyi aşan çalışmaların denkleştirmeye tabi tutulamayacağı, zamlı ücret ödemesi veya serbest zaman kullanımının söz konusu olacağı kabul edilmelidir.Yine işçilerin gece çalışmaları günde yedibuçuk saati geçemez (İş Kanunu, Md. 69/3). Bu durum günlük çalışmanın, dolayısıyla fazla çalışmanın sınırını oluşturur. Gece çalışmaları yönünden, haftalık kırkbeş saat olan yasal çalışma sınırı aşılmamış olsa da günde yedibuçuk saati aşan çalışmalar için fazla çalışma ücreti ödenmelidir. Dairemizin kararları da bu yöndedir (Yargıtay 9.HD. 23.6.2009 gün 2007/40862 E, 2009/17766 K).Sağlık Kuralları Bakımından Günde Ancak Yedibuçuk Saat veya Daha Az Çalışılması Gereken İşler Hakkında Yönetmeliğin 4 üncü maddesine göre, günde yedibuçuk saat çalışılması gereken işlerde çalışan işçinin, yedibuçuk saati aşan çalışma süreleri ile yedibuçuk saatten az çalışılması gereken işler bakımından Yönetmeliğin 5 inci maddesinde sözü edilen günlük çalışma sürelerini aşan çalışmalar, doğrudan fazla çalışma niteliğindedir.
 Sözü edilen çalışmalarda haftalık kırkbeş saat olan yasal sürenin aşılmamış olmasının önemi yoktur.Fazla çalışma yönünden diğer bir yasal sınırlama da, İş Kanununun 41 inci maddesindeki, fazla çalışma süresinin toplamının bir yılda ikiyüzyetmiş saatten fazla olamayacağı şeklindeki hükümdür. Ancak bu sınırlamaya rağmen işçinin daha fazla çalıştırılması halinde, bu çalışmalarının karşılığı olan fazla mesai ücretinin de ödenmesi gerektiği açıktır. Yasadaki sınırlama esasen işçiyi korumaya yöneliktir (Yargıtay 9.HD. 18.11.2008 gün 2007/32717 E, 2008/31210 K.).Fazla çalışmanın belirlenmesinde, 4857 sayılı Yasanın 68 inci maddesi uyarınca ara dinlenme sürelerinin de dikkate alınması gerekir.Fazla çalışmaların uzun bir süre için hesaplanması ve miktarın yüksek çıkması halinde Yargıtay’ca son yıllarda hakkaniyet indirimi yapılması gerektiği istikrarlı uygulama halini almıştır (Yargıtay 9.HD. 11.2.2010 gün 2008/17722 E, 2010/3192 K; Yargıtay, 9.HD. 18.7.2008 gün 2007/25857 E, 2008/20636 K.). Ancak fazla çalışmanın tanık anlatımları yerine yazılı belgelere ve işveren kayıtlarına dayanması durumunda böyle bir indirime gidilmemektedir.
 Yapılacak indirim, işçinin çalışma şekline ve işin düzenlenmesine ve hesaplanan fazla çalışma miktarına göre taktir edilmelidir. Hakkın özünü ortadan kaldıracak oranda bir indirime gidilmemelidir(Yargıtay 9.HD. 21.03.2012 gün, 2009/48913 E, 2012/9400 K .).Dairemizin önceki kararlarında; fazla çalışma ücretlerinden yapılan indirim, kabul edilen fazla çalışma süresinden indirim olmakla, davalı tarafın kendisini avukatla temsil ettirmesi durumunda reddedilen kısım için davalı yararına avukatlık ücretine hükmedilmesi gerektiği kabul edilmekteydi (Yargıtay 9.HD. 11.02.2010 gün 2008/17722 E, 2010/3192 K.). Ancak, işçinin davasını açtığı veya ıslah yoluyla dava konusunu arttırdığı aşamada, mahkemece ne miktarda indirim yapılacağı işçi tarafından bilenemeyeceğinden, Dairemizce maktu ve nispi vekâlet ücretlerinin yüksek oluşu da dikkate alınarak konunun yeniden ve etraflıca değerlendirilmesine gidilmiş, bu tür indirimden kaynaklanan ret sebebiyle davalı yararına avukatlık ücretine karar verilmesinin adaletsizliğe yol açtığı sonucuna varılmıştır.
@@ -57,11 +65,15 @@ maktu avukatlık ücretleri ödetilmesi durumu ortaya çıkmaktadır. Yine daha 
 
 ## Yargıtay 9. HD 2013/25041 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/440689800)
+
 Dairemizce son yıllarda, ulusal bayram ve genel tatil çalışmalarının uzun bir süre için hesaplanması ve miktarın yüksek çıkması halinde, hakkaniyet indirimi yapılması gerektiği kabul edilmektedir. Ancak, ulusal bayram ve genel tatil çalışmalarının taktiri delil niteliğindeki tanık anlatımları yerine, yazılı belgelere ve işveren kayıtlarına dayanması durumunda böyle bir indirime gidilmemektedir.Dairemizin önceki kararlarında ulusal bayram ve genel tatil ücretlerinden yapılan indirim üzerine, reddedilen kısım için davalı yararına avukatlık ücretine hükmedilmesi gerektiği kabul edilmekteydi (Yargıtay 9.HD. 11.02.2010 gün 2008/17722 E, 2010/3192 K.). Ancak, işçinin davasını açtığı veya ıslah yoluyla dava konusunu arttırdığı aşamada, mahkemece ne miktarda indirim yapılacağı işçi tarafından bilenemeyeceğinden, Dairemizce 2011 yılı itibarıyla maktu ve nispi vekâlet ücretlerinin yüksek oluşu da dikkate alınarak konunun yeniden ve etraflıca değerlendirilmesine gidilmiş, bu tür indirimden kaynaklanan ret sebebiyle davalı yararına avukatlık ücretine karar verilmesinin adaletsizliğe yol açtığı sonucuna varılmıştır.
 Özellikle seri davalarda indirim sebebiyle kısmen reddine karar verilen az bir miktar için dahi her bir dosyada zaman zaman işçinin alacak miktarını da aşan maktu avukatlık ücretleri ödetilmesi durumu ortaya çıkmaktadır. Yine daha önceki kararlarımızda, yukarıda değinildiği üzere, ulusal bayram ve genel tatil ücretlerinden yapılan indirim sebebiyle ret vekâlet ücretine hükmedilmekle birlikte, Borçlar Kanununun 161/son, 325/son, 43 ve 44 üncü maddelerine göre, yine 5953 sayılı Yasada öngörülen yüzde beş fazla ödemelerden yapılan indirim sebebiyle reddine karar verilen miktar için avukatlık ücretine hükmedilmemekteydi. Bu durum uygulamada hakkaniyete aykırı sonuçlara neden olduğundan ve konuyla ilgili olarak Avukatlık Asgari Ücret Tarifesinde de herhangi bir kurala yer verilmediğinden, Dairemizce eski görüşümüzden dönülmüş ve ulusal bayram ve genel tatil ücretlerinden yapılan takdiri indirim nedeniyle reddine karar verilen miktar bakımından, kendisini vekille temsil ettiren davalı yararına avukatlık ücretine hükmedilemeyeceği kabul edilmiştir.Somut olayda davacı ulusal bayram ve genel tatillerde çalıştığını iddia etmiştir.
 Taraf tanıklarının ortak anlatımları dini bayramlarda çalışma olmadığı ancak milli bayramlarda çalışıldığı yönündedir. Buna göre davacının milli bayramlarda çalıştığını kanıtladığı kabul edilmelidir. Bu çalışmalar karşılığı ücretin ödendiğinin ispatı ise işverene aittir. Bu konuda işçinin imzasını taşıyan bir ödeme belgesi yeterli ise de, para borcu olan ücretin ödendiğinin tanıkla ispatı mümkün değildir. Dosya içeriğine göre davalı tarafından davacının bu çalışmaları karşılığı ücretlerinin ödendiği kanıtlanmadığından davacının talebinin kabulüne karar verilmesi gerekirken reddi hatalıdır.
 
 ## Yargıtay 9. HD 2013/24793 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/438742800)
 
 Avukatlık (vekâlet) ücreti, 6100 sayılı Hukuk Muhakemeleri Kanununun 323/1-ç maddesinde açıkça belirtildiği üzere yargılama giderlerindendir. Bu itibarla, diğer yargılama giderleri gibi müstakil bir varlığı olmayan ve ait olduğu davanın konusunu teşkil eden hak ve alacağa sıkı bir surette bağlı feri haklardandır. Feri hakların sonuçlandırılması ve karara bağlanması, asıl hakkın sonuçlandırılmasına ve karar verilmesine bağlı olacaktır.Hukuk Muhakemeleri Kanununun 297 nci maddesine göre, hüküm kısmında iki tarafa yükletilen hak ve borçların tereddüde yer vermeyecek şekilde belirtilmesi zorunludur. Bu nedenle davaların birleştirilmesi durumunda, asıl ve birleşen davaların birbirinden bağımsız, müstakil davalar olması nedeniyle, her bir dava hakkında o davaya ilişkin vekâlet ücretleri ve mahkeme masraflarıyla birlikte ayrı ayrı hüküm kurulması gereklidir.Gerek yasal, gerekse hakkaniyet ve takdiri indirimler nedeniyle davanın kısmen kabul edilmesi halinde, indirimden dolayı reddedilen kısım yönünden davalı yararına vekâlet ücreti takdir edilip edilmeyeceği önem kazanmaktadır.
 Dairemizin önceki kararlarında, fazla çalışma, hafta tatili ile ulusal bayram ve genel tatil ücretlerinden yapılan indirimler sebebiyle davalı tarafın kendisini avukat ile temsil ettirmesi durumunda, reddedilen kısım için davalı yararına avukatlık ücretine hükmedilmesi gerektiği ifade edilmekteydi (Yargıtay 9.HD. 11.02.2010 gün 2008/17722 E, 2010/3192 K.). Ancak, davanın açıldığı veya ıslah yoluyla dava konusunun artırıldığı aşamada, mahkemece ne oranda ve miktarda indirim yapılacağı işçi tarafından bilenememektedir. Dairemizce 2011 yılı itibarıyla maktu ve nispi vekâlet ücretlerinin yüksek oluşu da dikkate alınarak, konunun yeniden ve etraflıca değerlendirilmesine gidilmiş ve her türlü indirimden kaynaklanan ret sebebiyle davalı yararına avukatlık ücretine karar verilmesinin adaletsiz sonuçlara yol açtığı sonucuna varılmıştır. Özellikle seri davalarda indirim sebebiyle kısmen reddine karar verilen az bir miktar için dahi, her bir dosyada zaman zaman işçinin alacak miktarını da aşan maktu avukatlık ücretleri ödetilmesi durumu ortaya çıkmaktadır.
@@ -69,6 +81,8 @@ Yine daha önceki kararlarımızda fazla çalışma, hafta tatili, ulusal bayram
 Bu itibarla, Borçlar Kanununun 43, 44, 161/son ve 325/son maddelerinin uygulanmasından kaynaklanmış olsa dahi, kısmen reddedilen miktar için davalı yararına vekâlet ücreti takdir edilemez.Somut olayda, davacı yargılamada kendisini avukatla (vekille) temsil ettirmediği halde davacı lehine vekalet ücretine hükmedilmesi hatalıdır.
 
 ## Yargıtay 9. HD 2013/24782 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/438609300)
 
 Fazla çalışmaların uzun bir süre için hesaplanması ve miktarın yüksek çıkması halinde Yargıtay’ca son yıllarda hakkaniyet indirimi yapılması gerektiği istikrarlı uygulama halini
 
@@ -78,19 +92,27 @@ Bu durum uygulamada hakkaniyete aykırı sonuçlara neden olduğundan ve konuyla
 
 ## Yargıtay 9. HD 2013/24515 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/613000200)
+
 Dairemizin önceki kararlarında; fazla çalışma ücretlerinden yapılan indirim, kabul edilen fazla çalışma süresinden indirim olmakla, davalı tarafın kendisini avukatla temsil ettirmesi durumunda reddedilen kısım için davalı yararına avukatlık ücretine hükmedilmesi gerektiği kabul edilmekteydi (Yargıtay 9.HD. 11.02.2010 gün 2008/17722 E, 2010/3192 K.). Ancak, işçinin davasını açtığı veya ıslah yoluyla dava konusunu arttırdığı aşamada, mahkemece ne miktarda indirim yapılacağı işçi tarafından bilenemeyeceğinden, Dairemizce maktu ve nispi vekâlet ücretlerinin yüksek oluşu da dikkate alınarak konunun yeniden ve etraflıca değerlendirilmesine gidilmiş, bu tür indirimden kaynaklanan ret sebebiyle davalı yararına avukatlık ücretine karar verilmesinin adaletsizliğe yol açtığı sonucuna varılmıştır. Özellikle seri davalarda indirim sebebiyle kısmen reddine karar verilen az bir miktar için dahi her bir dosyada zaman zaman işçinin alacak miktarını da aşan maktu avukatlık ücretleri ödetilmesi durumu ortaya çıkmaktadır. Yine daha önceki kararlarımızda, yukarıda değinildiği üzere fazla çalışma alacağından yapılan indirim sebebiyle ret vekâlet ücretine hükmedilmekle
 
 birlikte, Borçlar Kanununun 161/son, 325/son, 43 ve 44 üncü maddelerine göre, yine 5953 sayılı Yasada öngörülen yüzde beş fazla ödemelerden yapılan indirim sebebiyle reddine karar verilen miktar için avukatlık ücretine hükmedilmemekteydi. Bu durum uygulamada hakkaniyete aykırı sonuçlara neden olduğundan ve konuyla ilgili olarak Avukatlık Asgari Ücret Tarifesinde de herhangi bir kurala yer verilmediğinden, Dairemizce eski görüşümüzden dönülmüş ve fazla çalışma alacağından yapılan indirim nedeniyle reddine karar verilen miktar bakımından, kendisini vekille temsil ettiren davalı yararına avukatlık ücretine hükmedilemeyeceği kabul edilmiştir.Davacı işçinin fazla çalışma yapıp yapmadığı konusunda taraflar arasında uyuşmazlık bulunmaktadır.
 
 ## Yargıtay 9. HD 2013/23739 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/447351500)
+
 Dairemizin önceki kararlarında; hafta tatili ücretlerinden yapılan indirimler sebebiyle davalı tarafın kendisini avukat ile temsil ettirmesi durumunda, reddedilen kısım için davalı yararına avukatlık ücretine hükmedilmesi gerektiği kabul edilmekteydi (Yargıtay 9.HD. 11.02.2010 gün 2008/17722 E, 2010/3192 K.). Ancak, işçinin davasını açtığı veya ıslah yoluyla dava konusunu arttırdığı aşamada, mahkemece ne miktarda indirim yapılacağı işçi tarafından bilenemeyeceğinden, Dairemizce 2011 yılı itibarıyla maktu ve nispi vekâlet ücretlerinin yüksek oluşu da dikkate alınarak konunun yeniden ve etraflıca…
 
 ## Yargıtay 9. HD 2013/23699 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/448150400)
+
 Kabule göre de davanın reddedilen kısmı fazla çalışma ve genel tatil alacağından yapılan hakkaniyet indiriminden kaynaklanmaktadır. Dairemizin yerleşik uygulaması hakkaniyet indirimi nedeniyle reddedilen kısım üzerinden davalı lehine vekalet ücretine hükmedilmeyeceği yönünde olup mahkemece hakkaniyet indirimi nedeniyle reddedilen miktar üzerinden davalı lehine vekalet ücretine hükmedilmesi hatalıdır.
 
 ## Yargıtay 9. HD 2013/23514 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/491048000)
 
 Dairemizin önceki kararlarında; fazla çalışma ve genel tatil ücretlerinden yapılan indirim, kabul edilen fazla çalışma süresinden indirim olmakla, davalı tarafın kendisini avukatla temsil ettirmesi durumunda reddedilen kısım için davalı yararına avukatlık ücretine hükmedilmesi gerektiği kabul edilmekteydi (Yargıtay 9.HD. 11.02.2010 gün 2008/17722 E, 2010/3192 K.). Ancak, işçinin davasını açtığı veya ıslah yoluyla dava konusunu arttırdığı aşamada, mahkemece ne miktarda indirim yapılacağı işçi tarafından bilenemeyeceğinden, Dairemizce 2011 yılı itibarıyla maktu ve nispi vekâlet ücretlerinin yüksek oluşu da dikkate alınarak konunun yeniden ve etraflıca değerlendirilmesine gidilmiş, bu tür indirimden kaynaklanan ret sebebiyle davalı yararına avukatlık ücretine karar verilmesinin adaletsizliğe yol açtığı sonucuna varılmıştır. Özellikle seri davalarda indirim sebebiyle kısmen reddine karar verilen az bir miktar için dahi her bir dosyada zaman zaman işçinin alacak miktarını da aşan maktu avukatlık ücretleri ödetilmesi durumu ortaya çıkmaktadır.
 Yine daha önceki kararlarımızda, yukarıda değinildiği üzere fazla çalışma alacağından yapılan indirim sebebiyle ret vekâlet ücretine hükmedilmekle birlikte, 818 sayılı Borçlar Kanunu’nun 161/son, 325/son, 43 ve 44 üncü maddelerine göre, yine 5953 sayılı Yasada öngörülen yüzde beş fazla ödemelerden yapılan indirim sebebiyle reddine karar verilen miktar için avukatlık
@@ -99,14 +121,20 @@ Yine daha önceki kararlarımızda, yukarıda değinildiği üzere fazla çalı�
 
 ## Yargıtay 9. HD 2013/23511 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/447540700)
+
 Dairemizin önceki kararlarında; fazla çalışma ve genel tatil ücretlerinden yapılan indirim, kabul edilen fazla çalışma süresinden indirim olmakla, davalı tarafın kendisini avukatla temsil ettirmesi durumunda reddedilen kısım için davalı yararına avukatlık ücretine hükmedilmesi gerektiği kabul edilmekteydi (Yargıtay 9.HD. 11.02.2010 gün 2008/17722 E, 2010/3192 K.). Ancak, işçinin davasını açtığı veya ıslah yoluyla dava konusunu arttırdığı aşamada, mahkemece ne miktarda indirim yapılacağı işçi tarafından bilenemeyeceğinden, Dairemizce 2011 yılı itibarıyla maktu ve nispi vekâlet ücretlerinin yüksek oluşu da dikkate…
 
 ## Yargıtay 9. HD 2013/22690 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/441785500)
 
 Dairemizin önceki kararlarında; hafta tatili ücretlerinden yapılan indirimler sebebiyle davalı tarafın kendisini avukat ile temsil ettirmesi durumunda, reddedilen kısım için davalı yararına avukatlık ücretine hükmedilmesi gerektiği kabul edilmekteydi (Yargıtay 9.HD. 11.02.2010 gün 2008/17722 E, 2010/3192 K.). Ancak, işçinin davasını açtığı veya ıslah yoluyla dava konusunu arttırdığı aşamada, mahkemece ne miktarda indirim yapılacağı işçi tarafından bilenemeyeceğinden, Dairemizce 2011 yılı itibarıyla maktu ve nispi vekâlet ücretlerinin yüksek oluşu da dikkate alınarak konunun yeniden ve etraflıca değerlendirilmesine gidilmiş, bu tür indirimden kaynaklanan ret sebebiyle davalı yararına avukatlık ücretine karar verilmesinin adaletsizliğe yol açtığı sonucuna varılmıştır. Özellikle seri davalarda indirim sebebiyle kısmen reddine karar verilen az bir miktar için dahi her bir dosyada zaman zaman işçinin alacak miktarını da aşan maktu avukatlık ücretleri ödetilmesi durumu ortaya çıkmaktadır.
 Yine daha önceki kararlarımızda, yukarıda değinildiği üzere hafta tatili ücretinden yapılan indirim sebebiyle ret vekâlet ücretine hükmedilmekle birlikte, Borçlar Kanununun 161/son, 325/son, 43 ve 44 üncü maddelerine göre, yine 5953 sayılı Yasada öngörülen yüzde beş fazla ödemelerden yapılan indirim sebebiyle reddine karar verilen miktar için avukatlık ücretine hükmedilmemekteydi. Bu durum uygulamada hakkaniyete aykırı sonuçlara neden olduğundan ve konuyla ilgili olarak Avukatlık Asgari…
 
 ## Yargıtay 9. HD 2013/22310 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/441411400)
 
 Dairemizin önceki kararlarında; fazla çalışma ücretlerinden yapılan indirim, kabul edilen fazla çalışma süresinden indirim olmakla, davalı tarafın kendisini avukatla temsil ettirmesi durumunda reddedilen kısım için davalı yararına avukatlık ücretine hükmedilmesi gerektiği kabul edilmekteydi (Yargıtay 9.HD. 11.02.2010 gün 2008/17722 E, 2010/3192 K.). Ancak, işçinin davasını açtığı veya ıslah yoluyla dava konusunu arttırdığı aşamada, mahkemece ne miktarda indirim yapılacağı işçi tarafından bilenemeyeceğinden, Dairemizce maktu ve nispi
 
@@ -114,17 +142,25 @@ vekâlet ücretlerinin yüksek oluşu da dikkate alınarak konunun yeniden ve et
 
 ## Yargıtay 9. HD 2013/22257 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/439954800)
+
 Gerek yasal, gerekse hakkaniyet ve takdiri indirimler nedeniyle davanın kısmen kabul edilmesi halinde, indirimden dolayı reddedilen kısım yönünden davalı yararına vekâlet ücreti takdir edilip edilmeyeceği önem kazanmaktadır. Dairemiz, önceki kararlarında fazla çalışma, hafta tatili ile ulusal bayram ve genel tatil ücretlerinden yapılan indirimler sebebiyle davalı tarafın kendisini avukat ile temsil ettirmesi durumunda, reddedilen kısım için davalı yararına avukatlık ücretine hükmedilmesi gerektiği ifade edilmekteydi (Yargıtay 9.HD. 11.02.2010 gün 2008/17722 E, 2010/3192 K.). Ancak, davanın açıldığı veya ıslah yoluyla dava konusunun artırıldığı aşamada, mahkemece ne oranda ve miktarda indirim yapılacağı işçi…
 
 ## Yargıtay 4. HD 2013/14057 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/263077100)
 
 Reddedilen maddi ve manevi tazminat miktarları gözetildiğinde yürürlükteki Avukatlık Asgari Ücret Tarifesi'nin 12/2 maddesi gereğince vekalet ücreti hesaplanarak hüküm altına alınmak gerekirse de, bu yanılgının giderilmesi yeniden yargılamayı gerektirmediğinden HUMK'nun 438. maddesi gereğince kararın düzeltilerek onanması gerekmiştir.
 
 ## Yargıtay 9. HD 2013/20868 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/439195400)
+
 Dairemizin önceki kararlarında; fazla çalışma ücretlerinden yapılan indirim, kabul edilen fazla çalışma süresinden indirim olmakla, davalı tarafın kendisini avukatla temsil ettirmesi durumunda reddedilen kısım için davalı yararına avukatlık ücretine hükmedilmesi gerektiği kabul edilmekteydi (Yargıtay 9.HD. 11.02.2010 gün 2008/17722 E, 2010/3192 K.). Ancak, işçinin davasını açtığı veya ıslah yoluyla dava konusunu arttırdığı aşamada, mahkemece ne miktarda indirim yapılacağı işçi tarafından bilenemeyeceğinden, Dairemizce maktu ve nispi vekâlet ücretlerinin yüksek oluşu da dikkate alınarak konunun yeniden ve etraflıca değerlendirilmesine gidilmiş, bu tür indirimden kaynaklanan ret sebebiyle davalı yararına avukatlık ücretine karar verilmesinin adaletsizliğe yol açtığı sonucuna varılmıştır. Özellikle seri davalarda indirim sebebiyle kısmen reddine karar verilen az bir miktar için dahi her bir dosyada zaman zaman işçinin…
 
 ## Yargıtay 9. HD 2013/20488 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/442340900)
 
 Dairemizin önceki kararlarında ulusal bayram ve genel tatil ücretlerinden yapılan indirim üzerine, reddedilen kısım için davalı yararına avukatlık ücretine hükmedilmesi gerektiği kabul edilmekteydi (Yargıtay 9.HD. 11.02.2010 gün 2008/17722 E, 2010/3192 K.). Ancak, işçinin davasını açtığı veya ıslah yoluyla dava konusunu arttırdığı aşamada, mahkemece ne miktarda indirim yapılacağı işçi tarafından bilenemeyeceğinden, Dairemizce 2011 yılı
 
@@ -132,12 +168,18 @@ itibarıyla maktu ve nispi vekâlet ücretlerinin yüksek oluşu da dikkate alı
 
 ## Yargıtay 4. HD 2013/12739 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/264031600)
+
 Karar tarihinde yürürlükte bulunan Avukatlık Asgari Ücret Tarifesi'nin 10/4. maddesi uyarınca hem maddi talebin ve hem de manevi talebin reddinden dolayı davalı yararına ayrı ayrı vekalet ücretine hükmedilmesi gerekirken; mahkemece, davalı yararına manevi tazminatın reddi sebebiyle vekalet ücretine hükmedilmemesi doğru görülmemiştir. Ancak, bu yanılgının giderilmesi yeniden yargılama yapılmasını gerektirmediğinden; kararın, HUMK’nun 438. maddesi uyarınca düzeltilerek onanması gerekmiştir.
 
 ## Yargıtay 11. HD 2013/14168 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1041415900)
+
 Ancak mahkemece davanın reddine karar verildiğine ve karar tarihinde yürürlükte bulunan ...Ü.T.'nin 10. maddesi gereğince manevi tazminat davasının tümden reddi halinde vekalet ücretinin tarifenin ikinci kısmının ikinci bölümüne göre belirleneceği düzenlendiğinden mahkemece, davalı yararına maktu vekalet ücretine hükmedilmesi gerekirken, nispi vekalet ücretine hükmedilmesi doğru olamamış kararın bu nedenle davacı yararına bozulmasına karar vermek gerekmişse de anılan yanlışlığın düzeltilmesi yeniden yargılamayı gerektirmediğinden hükmün HUMK'nın 438/7. maddesi uyarınca düzeltilerek onanmasına karar vermek gerekmiştir.
 
 ## Yargıtay 9. HD 2013/20149 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/437778500)
 
 Dairemizin önceki kararlarında; fazla çalışma ücretlerinden yapılan indirim, kabul edilen fazla çalışma süresinden indirim olmakla, davalı tarafın kendisini avukatla temsil ettirmesi durumunda reddedilen kısım için davalı yararına avukatlık ücretine hükmedilmesi gerektiği kabul edilmekteydi (Yargıtay 9.HD. 11.02.2010 gün 2008/17722 E, 2010/3192 K.). Ancak, işçinin davasını açtığı veya ıslah yoluyla dava konusunu arttırdığı aşamada, mahkemece ne miktarda indirim yapılacağı işçi tarafından bilenemeyeceğinden, Dairemizce 2011 yılı itibarıyla maktu ve nispi vekâlet ücretlerinin yüksek oluşu da dikkate alınarak konunun yeniden ve etraflıca değerlendirilmesine gidilmiş, bu tür indirimden kaynaklanan ret sebebiyle davalı yararına avukatlık ücretine karar verilmesinin adaletsizliğe yol açtığı sonucuna varılmıştır. Özellikle seri davalarda indirim sebebiyle kısmen reddine karar verilen…

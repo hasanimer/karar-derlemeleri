@@ -24,24 +24,34 @@ uyari: "Derleyenin seçtiği alıntılardır; kararın tamamı değildir. Künye
 
 ## Yargıtay 21. HD 2006/4646 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/902528400)
+
 Olayın oluş şekline, müterafik kusur oranlarına, davacının duyduğu elem ve ızdırabın derecesine, tarafların sosyal ve ekonomik durumuna 26.6.1966 gün 1966/7-7 sayılı İçtihadı Birleştirme kararının içeriğine ve öngördüğü koşulların somut olayda gerçekleşme biçimine ve hak ve nesafet kurallarına göre hükmedilen tazminat çoktur. Bu nedenle 3.000 YTL manevi tazminat yerine 5.000 YTL manevi tazminata hükmedilmesi, maddi ve manevi tazminat alacakları ayrı iki dava olup kabul edilen ve reddedilen miktarlar üzerinden taraflar
 
 yararına her iki alacak üzerinden karar tarihinde yürürlükte bulunan Avukatlık Asgari Ücret Tarifesi gereğince ayrı ayrı avukatlık ücretine hükmolunması gerekirken kabul edilen ve reddedilen maddi ve manevi tazminat toplam miktarı üzerinden avukatlık ücretine hükmolunması usul ve yasaya aykırı olup bozma nedenidir.
 
 ## Yargıtay 13. HD 2006/6060 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/841561800)
+
 Davalı bu davada kendisine vekil ile temsil ettirmiştir. Mahkemece de, davanın kısmen kabulüne karar verildiğine göre , reddedilen tutar üzerinden, davalı lehine vekalet ücretine karar verilmelidir. Reddedilen 1100 YTL üzerinden karar tarihinde yürürlükte olan 4.12.2004 tarihli Avukatlık Asgari Ücret Tarifesi’nin 12.maddesi gereğince, nisbi vekalet ücretine karar verilmelidir. Yine reddedilen manevi tazminat yönünden de, tarifenin 10/3 maddesi gereğince vekalet ücretinin takdiri gerekir. Davalı lehine hiç vekalet ücreti takdir edilmemesi usul ve yasaya aykırı olup bozma nedenidir. Ne var ki, bu yanlışlığın giderilmesi yeniden yargılama yapılmasını gerektirmediğinden hükmün düzeltilerek onanması HUMK.nun 438/7 maddesi gereğidir.
 
 ## Yargıtay 21. HD 2006/3639 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/903578200)
 
 Karar tarihinde yürürlükte bulunan Avukatlık Ücret Tarifesi gereğince kabul edilen maddi tazminat için 2.547.-YTL. manevi tazminat için 1.120.-YTL. avukatlık ücretinin davalılardan müteselsilen tahsili ile davacıya verilmesine, reddedilen miktar üzerinden aynı tarife gereğince manevi tazminat için 600.-YTL. avukatlık ücretinin davacıdan tahsili ile davalılara verilmesine, fazla maddi tazminat talebi takdiri indirim nedeniyle reddedilmekle davalı yararına avukatlık ücreti takdir edilmesine yer olmadığına,…
 
 ## Yargıtay 21. HD 2006/3442 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/903488300)
+
 Maddi ve manevi tazminata yönelik taleplerin ayrı birer dava olmasına göre,hüküm altına alınan maddi ve manevi tazminat miktarları üzerinden vekille temsil edilen davacı yararına ayrı ayrı vekalet ücretine karar verilmek gerekirken,toplam tazminat üzerinden hesaplama yapılarak noksan vekalet ücretine karar verilmesi isabetsiz olduğu gibi,maddi tazminatın bir bölümüne yönelik talebin reddinin, S.S.K.Başkanlığı tarafından sigortalıya bağlanan gelirlerde katsayı değişmesi nedeniyle meydana gelen artışlar ile Borçlar Kanununun 43.maddesi gereğince yapılan takdiri indirimden kaynaklanmasına, davacının dava açarken bu hususları bilmesinin mümkün bulunmamasına göre maddi tazminatın kısmen reddi nedeniyle davalı yararına vekalet ücreti takdiri de hatalı olmuştur.Öte yandan manevi tazminatın reddi nedeniyle hüküm tarihinde yürürlükte bulunan avukatlık Asgari Ücret Tarifesinin 10/2 maddesine göre “davanın kısmen reddi durumunda,karşı taraf vekili yararına tarifenin üçüncü kısmına göre hükmedilecek ücret,davacı vekili lehine belirlenen ücreti geçemeyeceğinden, manevi tazminattan reddedilen miktar esas alınarak ve kabul edilen manevi tazminat için davacı yararına hükmedilen vekalet ücretini
 geçer biçimde yazılı şekilde davalı yararına vekalet ücretine karar verilmesi usul ve yasaya aykırı olup bozma nedenidir.
 
 ## Yargıtay 21. HD 2006/3436 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/76595600)
 
 Maddi ve manevi tazminata yönelik taleplerin ayrı birer dava olmasına göre,hüküm altına alınan maddi ve manevi tazminat miktarları üzerinden vekille temsil edilen davacı yararına ayrı ayrı vekalet ücretine karar verilmek gerekirken,toplam tazminat üzerinden hesaplama yapılarak noksan vekalet ücretine karar verilmesi isabetsiz olduğu gibi, maddi tazminatın bir bölümüne yönelik talebin reddinin, S.S.K.Başkanlığı tarafından sigortalıya bağlanan gelirlerde katsayı değişmesi nedeniyle meydana gelen artışlar sonucu yeniden hesaplanan peşin sermaye değerinin indirilmesinden kaynaklanmasına, davacının dava açarken bu hususları bilmesinin mümkün bulunmamasına göre maddi tazminatın kısmen reddi nedeniyle davalı yararına vekalet ücreti takdiri de hatalı olmuştur.Öte yandan manevi tazminatın reddi nedeniyle hüküm tarihinde yürürlükte bulunan avukatlık asgari ücret tarifesinin10/2 maddesi dikkate alınarak vekille temsil edilen davalı yararına vekalet ücretine karar verilmek gerekirken bu hususun göz ardı edilerek yazılı şekilde taraflar yararına vekalet ücretine karar verilmesi usul ve yasaya aykırı olup bozma nedenidir.
 
@@ -144,13 +154,19 @@ Kabule göre de; Yasal, hakkaniyet ve takdiri indirimler nedeni ile davanın kı
 
 ## İzmir BAM 11. HD 2026/741 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1206620100)
+
 Öte yandan, TBK'nın 51. ve 52. maddelerinden kaynaklanan hakkaniyet ve takdiri indirimler nedeniyle, davanın kısmen reddedilmesi halinde, indirimden dolayı reddedilen kısım için vekalet ücreti de takdir edilemez. Bir başka ifade ile davacı lehine hesaplanan maddi tazminatlardan müterafik kusur nedeniyle yapılan indirim sonucu belirlenen tazminat tutarları hüküm altına alınırken, red edilen kısım yönünden davalı lehine vekalet ücretine ve yargılama giderine hükmedilmemesi gerekir. (Yargıtay 17 HD'nın 13/11/2019 tarih ve 2017/2928 E. - 2019/10602 K)…
 
 ## Konya BAM 3. HD 2026/928 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1205326000)
+
 TBK'nun 51. ve 52. maddelerinden kaynaklanan hakkaniyet ve takdiri indirimler nedeniyle davanın kısmen reddedilmesi halinde, indirimden dolayı reddedilen kısım için davalı yararına vekalet ücreti taktir edilemeyeceğinin ve yargılama giderinin oranlanmadan tam kabul gibi değerlendirilerek hüküm kurulması gerektiğinin gözetilmesi isabetlidir. itiraz yersizdir…
 
 ## Ankara BAM 26. HD 2026/730 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1208268800)
 
 Kabule göre de, karar tarihinde yürürlükte bulunan Avukatlık Asgari Ücret Tarifesinin 10/4 maddesine göre, hükmedilen manevi tazminat yönünden davacı lehine ayrı vekalet takdir edilmesi gerekirken maddi ve manevi tazminat yönünden tek vekalet ücreti verilmesi, Tarifenin 10/2 maddesi uyarınca manevi tazminatın kısmen reddi halinde davalı lehine takdir edilecek vekalet ücretinin davacı lehine hükmedilen vekalet ücretinden fazla olamayacağı gibi14.03.2025 tarihli 32841 Sayılı RG'de yayınlanan Anayasa Mahkemesinin 2024/29 E - 2024/226 K sayılı 25/12/2024 tarihli kararı ile manevi tazminat davaları yönünden 6100 Sayılı HMK'nın 326.maddesi (davada iki taraftan her biri kısmen haklı çıkarsa, yargılama giderlerini tarafların haklılık oranına göre paylaştırır) şeklindeki 2.fıkrasının Anayasaya aykırı olduğuna ve iptaline, kararın RG'de yayınlanmasından başlayarak 9 ay sonra yürürlüğe girmesine oy birliği ile karar verilmiş ve eldeki dosyanın incelenme tarihi itibariyle de iptal kararı yürürlüğe girdiğinden Anayasa Mahkemesinin
 
@@ -158,18 +174,26 @@ iptal kararı da değerlendirilerek vekalet ücreti takdir edilmesi gerektiğind
 
 ## Ankara BAM 26. HD 2026/688 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1207380300)
+
 Somut olayda, davalı sürücü ...'un asli ve tam kusurlu olduğu kabul edilerek manevi tazminat miktarının tarafların müteveffaya yakınlıkları, sosyal ve ekonomik durumları, kaza tarihinde (2023) paranın satın alma gücü ile yukarıda açıklanan ilkeler birlikte değerlendirildiğinde, ilk derece mahkemesince davacılar lehine hükmedilen manevi tazminat miktarının hak ve nesafet kurallarına ve manevi tazminatın amacına uygun olduğu kanaatine varıldığından tarafların manevi tazminatların miktarına yönelik istinaf itirazları yerinde görülmemiştir.
 Ancak, 14.03.2025 tarihli 32841 sayılı Resmi Gazetede yayımlanan Anayasa Mahkemesinin 25.12.2024 tarihli, 2024/29E.-2024/226K.sayılı kararı ile manevi tazminat davaları yönünden 6100 sayılı HMK'nın 326.maddesi (davada iki taraftan her biri kısmen haklı çıkarsa, yargılama giderlerini tarafların haklılık oranına göre paylaştırır) şeklindeki 2.fıkrasının Anayasaya aykırı olduğuna ve iptaline, kararın Resmi Gazete'de yayımlanmasından başlayarak 9 ay sonra yürürlüğe girmesine oy birliği ile karar verilmiş ve eldeki dosyanın incelenme tarihi itibariyle de iptal kararı yürürlüğe girdiğinden 08.01.2026 tarihli Resmi Gazete'de yayımlanan Avukatlık Asgari Ücret Tarifesinde yapılan değişilik ile manevi tazminat isteminin reddi hâlinde hükmedilecek vekâlet ücretini düzenleyen AAÜT'nin 10/2. maddesi de yürürlükten kaldırılmış olmasına göre davacıların red edilen manevi tazminat istemleri yönünden davalılar lehine vekâlet ücreti takdir edilmemesi gerektiği sonucuna varılmıştır.
 
 ## Kayseri BAM 3. HD 2026/602 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1201734000)
+
 Hemen burada belirtmek gerekir ki yasal, hakkaniyet ve takdiri indirimler nedeni ile davanın kısmen kabul edilmesi halinde, indirimden dolayı reddedilen kısım yönünden davalı yararına vekalet ücreti takdir edilip edilmeyeceği önem kazanmaktadır. Kısmen reddedilen miktar, 6098 sayılı Türk Borçlar Kanunu'nun 51 ve 52 maddesinden kaynaklanan bir indirim ise indirim miktarı yasadan kaynaklandığından bu indirim nedeni ile davalı yararına vekalet ücreti takdir edilemeyecektir.
 
 ## İzmir BAM 4. HD 2026/675 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1200415600)
+
 Eldeki davada; davacılar HMK'nun 57/1-c maddesi gereğince ihtiyari dava arkadaşı olup, 58/1. maddesi gereğince ihtiyari dava arkadaşlığında davalar birbirinden bağımsızdır. Diğer bir anlatım ile tek dava değil davacı sayısı kadar dava vardır. Bu nedenle, davacılar ... ve ... yönünden kabul edilen geçici iş göremezlik tazminatları ile davacılar ... ...., ... ve ... yönünden kısmen kabul edilen manevi tazminat miktarları için kendisini vekil ile temsil ettiren her bir davacı lehine karar tarihinde yürürlükte olan AAÜT'nin 10 ve 13 üncü maddeleri uyarınca ayrı ayrı vekalet ücretine hükmedilmesinde ve davacılar ... .... ve ... yönünden kabul ve reddedilen manevi tazminat miktarları gözetilerek kendisini vekil ile temsil ettiren davalılar lehine vekalet ücretine hükmedilmesinde bir isabetsizlik bulunmadığından, davalılar .... .... vekili ve .... .... vekilinin bu yönlere değinen istinaf nedenleri yerinde görülmemiştir.
 
 ## Ankara BAM 26. HD 2026/455 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1201926200)
 
 Somut olayda, mahkemece makine mühendisi tarafından alınan 06.03.2024 tarihli raporda, kazanın meydana gelmesinde ... plakalı kamyonet sürücüsü ...'ın, kavşakta sola dönüş yaparken karşıdan gelen ve emniyetle durdurulamayacak kadar kavşağa yaklaşmış olan taşıtların geçmesini beklemek zorunda olduğuna dair Karayolları Trafik Kanununun 53/b-5 ve kavşaklarda geçiş önceliğine uymaya dair anılan Kanunun 84/5.maddelerine aykırı davranması nedeniyle %80, ... plakalı motosiklet sürücüsü ...'ın ise, kavşaklara yaklaşırken hızını azaltmadığından 52/a maddesini ihlâl ettiğinden %20 oranında kusurlu olduğunun tespit edildiği, kazanın gerçekleşme biçimi, kazanın meydana gelmesinde davacının kusur oranı, davacının yaralanmasının niteliği (sağ femur proksimal diafizinde parçalı deplase kırığı), iyileşme süresi, tarafların ekonomik ve sosyal durumları, kaza tarihinde (2020) paranın satın alma gücü ile yukarıda açıklanan ilkeler birlikte değerlendirildiğinde, ilk derece mahkemesince hükmedilen manevi tazminat miktarının yüksek olduğu kanaatine varılmıştır.
 Bu husus yeniden yargılama yapılmasını gerektirmediğinden, dosya üzerinden yukarıda açıklanan yasal düzenlemeler ve ilkeler çerçevesinde yeniden yapılan değerlendirmede; davacı lehine 80.000,00 TL manevi tazminata hükmedilmesinin somut olayın özelliğine, hak ve nesafete ve manevi tazminatın amacına uygun olacağı takdir edilmiş, davalı ... Ticaret ve Sanayi Anonim Şirketi vekilinin manevi tazminatın miktarına yönelik istinaf sebebi yerinde görülmüştür. Karara karşı davalı ...'ın istinafı bulunmadığından, usûli kazanılmış haklar korunarak ... için hükmedilen 200.000,00TL manevi tazminat aynen korunmuştur.

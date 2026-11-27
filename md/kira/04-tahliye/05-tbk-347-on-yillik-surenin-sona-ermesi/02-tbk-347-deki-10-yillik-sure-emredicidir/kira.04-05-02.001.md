@@ -21,4 +21,6 @@ uyari: "Derleyenin seçtiği alıntılardır; kararın tamamı değildir. Künye
 
 ## Yargıtay HGK 2021/1517 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/724738400)
+
 “TBK’nın 347. maddesinde açıkça belirtildiği üzere, konut ve çatılı işyeri kiralarında kiracı, belirli süreli sözleşmelerin süresinin bitiminden en az on beş gün önce bildirimde bulunmak suretiyle isterse, sözleşmeyi sona erdirebilir. Ancak, kiracı böyle bir bildirimde bulunmadığı takdirde sözleşme, aynı şartlarda bir yıl için uzatılmış sayılır. Buna karşılık kiraya veren, aynı imkâna sahip olmadığı için onun, sözleşme süresinin bitiminden on beş gün önce bildirimde bulunmak suretiyle sözleşmeyi sona erdirme hakkı yoktur. Kiraya veren ancak on yıllık uzama süresi sonunda, bu süreyi izleyen her uzama yılının bitiminden en az üç ay önce bildirimde bulunmak şartıyla, herhangi bir sebep göstermeksizin sözleşmeyi sona erdirebilir. **Bu hüküm kiraya veren lehine konulmuş emredici bir hüküm olduğu için taraflar sözleşmede bunun aksine bir kayıt koyamazlar**.”

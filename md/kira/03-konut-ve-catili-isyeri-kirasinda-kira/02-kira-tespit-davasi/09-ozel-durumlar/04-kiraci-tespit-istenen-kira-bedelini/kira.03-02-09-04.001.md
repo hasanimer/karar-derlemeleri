@@ -28,9 +28,13 @@ Mahkemece, asıl ve karşı davanın reddine karar verilmiş ise de; **kira bede
 
 ## Yargıtay 3. HD 2017/17139 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/387411800)
+
 Taraflar arasında kira parasının miktarına ilişkin uyuşmazlık bulunduğundan mahkemeye müracaat edildiğine ve kira parasının dava yolu ile tespiti istendiğine göre **davalı taraf artırılması istenen veya karar verilebilecek miktarı ödese dahi dava reddedilmeyip bu miktar hüküm altına alınarak bir tespit kararı verilmelidir**.
 
 ## Yargıtay 3. HD 2025/4807 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1191891600)
 
 Kira bedelinin tespiti davasının, kira dönemi başlamadan önce açılmasında bir usulsüzlük bulunmamakla birlikte, davalı tarafından tespit dönemi için ödenen kira bedelinin, hükmedilen kira bedelinden fazla olması nedeniyle, davalının dava açılmasına sebebiyet verdiğinden söz edilemez. Bu durumda, **dava açılmasına sebebiyet vermediğinden yargılama giderleri ve vekâlet ücreti yönünden davalı aleyhine hüküm kurulamaz**.
 

@@ -22,4 +22,6 @@ uyari: "Derleyenin seçtiği alıntılardır; kararın tamamı değildir. Künye
 
 ## Yargıtay 3. HD 2017/15623 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/385800700)
+
 Dava, TBK'nun 352/2 maddesine dayalı olarak iki haklı ihtar sebebiyle tahliye istemine ilişkindir. **TBK'nun 315. maddesinden farklı olarak davalıya gönderilecek ihtarlarda 30 günlük ödeme süresi verilmesine gerek olmayıp**, muaccel hale gelen kira bedelinin ödenmesinin talep edilmesi ve ödemenin ihtarnamenin tebliğinden sonra yapılması gerekli ve yeterlidir. Bu nedenle, **Mahkemenin ihtarnamede 30 günlük süre verildiği gerekçesiyle davanın reddine karar vermesi doğru değil** ise de; kira sözleşmesinin hususi şartlar bölümüne dair 5. maddesinde kira bedelinin her ayın ilk 5 gününde ödeneceği hüküm altına alınmış olup davaya dayanak ikinci ihtara konu ihtarnamenin henüz Eylül ayına dair kira bedeli muaccel olmadan 04.09.2015 tarihinde keşide edildiği bu durumda davanın bu gerekçe ile reddi gerektiği ancak bu yüzden kararın bozularak yeniden yargılama yapılmasında yarar görülmediğinden sonucu itibariyle doğru olan hükmün değiştirilen bu gerekçe ile 6100 Sayılı HMK'ya 6217 Sayılı Kanunla eklenen geçici 3.madde hükmü gözetilerek HUMK'nın 438.maddesi gereğince düzeltilerek ONANMASINA, …

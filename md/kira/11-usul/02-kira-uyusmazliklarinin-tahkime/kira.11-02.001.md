@@ -26,4 +26,6 @@ uyari: "Derleyenin seçtiği alıntılardır; kararın tamamı değildir. Künye
 
 ## Yargıtay 3. HD 2025/3205 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1158814600)
+
 … artış oranına sınır getirilmek suretiyle kira tespitinde tarafların uyuşmazlık öncesinde serbest tasarruf yetkisinin kısıtlandığı, anılan 344. madde uyarınca **kira bedelinin belirlenmesi (tespiti) ne ilişkin uyuşmazlığın tahkime elverişli olmadığı**…

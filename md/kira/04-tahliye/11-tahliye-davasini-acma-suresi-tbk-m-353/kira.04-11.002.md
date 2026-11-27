@@ -22,9 +22,13 @@ uyari: "Derleyenin seçtiği alıntılardır; kararın tamamı değildir. Künye
 
 ## Yargıtay 3. HD 2017/7359 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/363343800)
+
 Konut ya da çatılı işyeri niteliğindeki bir taşınmazı iktisap eden kimse dilerse eski malik ile kiracı arasında yapılmış sözleşmeye dayanarak sözleşmenin sonunda bir ay içinde, dilerse TBK.’nun 351.maddesi uyarınca edinme günü de dahil olmak üzere edinme tarihinden başlayarak bir ay içinde durumu kiracıya yazılı olarak bildirmek koşuluyla edinme tarihinden itibaren altı ay sonra ihtiyaç nedeniyle tahliye davası açabilir. Davanın altı ayın sonunda hemen açılması şart olmayıp sözleşme sonuna kadar açılması mümkündür. Ancak edinmeyi…
 
 ## Yargıtay 3. HD 2017/1784 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/318719800)
 
 6098 sayılı Türk Borçlar Kanununun 350/1. maddesi hükmüne göre ihtiyaç iddiasına dayalı olarak açılacak tahliye davalarının belirli süreli sözleşmelerde sürenin sonunda, belirsiz süreli sözleşmelerde bu kanunun 328. maddesinde fesih bildirimi için öngörülen sürelere uyularak belirlenecek tarihten başlayarak bir ay içinde açılması gerekir. Türk Borçlar Kanununun 353. maddesi uyarınca kiraya veren, daha önce veya en geç davanın açılması
 
@@ -32,14 +36,20 @@ için öngörülen sürede dava açacağını kiracıya yazılı olarak bildirmi
 
 ## Yargıtay 6. HD 2016/6556 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/326658800)
+
 Olayımıza gelince; Önceki malikle kiracı davalı arasında arasında düzenlenen 01.01.2014 başlangıç tarihli kira sözleşmesi beş yıl sürelidir. Davaya konu ihtarların yapıldığı kira yılı 01.01.2014-01.01.2015 dönemi olup, Türk Borçlar Kanununun 352/2. maddesi uyarınca iki haklı ihtar nedeniyle açılacak tahliye davasının, bir yıl ve bir yıldan uzun süreli kiralarda ihtarların yapıldığı kira yılının bitiminden başlayarak bir ay içinde açılması zorunludur. Davanın kira yılının bitim tarihi olan 01.01.2015'den itibaren bir ay içinde açılması gerekirken, 24.11.2014 tarihinde açılması nedeniyle süresinde açılmadığından, mahkemece süre yönünden davanın reddine karar verilmesi gerekirken, bu husus gözetilmeyerek yazılı şekilde tahliye kararı verilmesi usul ve yasaya aykırıdır.
 
 ## Yargıtay 6. HD 2016/6559 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/326462300)
 
 6098 Sayılı Türk Borçlar Kanununun 327. maddesinde yer alan düzenlemeye göre genel hükümlere tabi kira sözleşmelerinde kira sözleşmesinin başlangıcı ve süresi belli ise kira sözleşmesinde sürenin dolması ile kira sözleşmesi kendiliğinden sona erer. Kiraya veren sözleşmenin bitim tarihinden itibaren bir ay içinde dava açarak süre bitimi nedeniyle tahliye talep edebilir. Belirli süreli kira sözleşmelerinde belirlenen sürenin dolması halinde taraflar arasında açık bir anlaşma olmaksızın kira ilişkisi sürdürülürse kira sözleşmesi belirsiz süreli sözleşmeye dönüşür. Genel hükümlere tabi kira sözleşmelerinde belirli süreli kira sözleşmesinin süresiz hale gelmemesi için kiraya veren kira süresi bitmeden veya dava açma süresi içinde kira sözleşmesini yenilemeyeceğine dair ihtarname tebliğ ettirirse kira sözleşmesi yenilenmeyeceği gibi süresiz hale de gelmez. Bu durumda her zaman süre bitimi nedeniyle tahliye davası açılabilir.
 6098 Sayılı Türk Borçlar Kanununun 328. maddesinde yer alan düzenlemeye göre ise; belirsiz süreli kira sözleşmelerinde taraflardan her biri, daha uzun bir fesih bildirim süresi veya başka bir fesih dönemi kararlaştırılmış olmadıkça, yasal fesih dönemlerine ve fesih bildirim sürelerine uyarak sözleşmeyi feshedebilir. Sözleşmede veya kanunda belirtilen fesih dönemine veya bildirim süresine uyulmamışsa, bildirim bir sonraki fesih dönemi için geçerli olur.
 
 ## Yargıtay 6. HD 2016/6209 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/326199400)
 
 Ürün kirasına ait belirli süreli kira sözleşmesinin uzayabilmesi için taraflardan birinin kira sözleşmesi süresi içinde yada dava açma süresi içerisinde sözleşmeyi yenilemeyeceğine dair ihtarı göndermemiş olması, kiracının kiralanan da oturmaya devam etmesi ve kira bedelinin de kiraya veren tarafından alınmış olmasına bağlıdır. Davalı ... tarafından davacı ...'e hitaben 18.05.2012 düzenlenip, 25.05.2012 tarihinde tebliğ edilen ihtarname ile sözleşmenin yenilenmeyeceği hususu davacı kiracıya bildirilmiş olup, 01.11.2012 tarihinde sözleşmenin sona erdiğinin kabulü gerekir.Dava tarihi olan, 16.08.2013 tarihi itibariyle davacı ... fuzuli
 
@@ -47,14 +57,20 @@ Olayımıza gelince; Önceki malikle kiracı davalı arasında arasında düzenl
 
 ## Yargıtay 6. HD 2016/4962 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/225748800)
+
 Konut ya da çatılı işyeri niteliğindeki bir taşınmazı iktisap eden kimse dilerse eski malik ile kiracı arasında yapılmış sözleşmeye dayanarak sözleşmenin sonunda bir ay içinde, dilerse TBK.nun 351. maddesi uyarınca edinme günü de dahil olmak üzere edinme tarihinden başlayarak bir ay içinde durumu kiracıya yazılı olarak bildirmek koşuluyla edinme tarihinden itibaren altı ay sonra ihtiyaç nedeniyle tahliye davası açabilir. Davanın altı ayın sonunda hemen açılması şart olmayıp sözleşme sonuna kadar açılması mümkündür. Ancak edinmeyi izleyen bir ay içerisinde bildirimin tebliği zorunlu olup bunun sonradan giderilmesi mümkün değildir. Açılacak davada tahliyeye karar verilebilmesi için ihtiyacın varlığının kanıtlanması gerekir. Dava açma süresi kamu düzenine ilişkin olup, davalı ileri sürmese bile mahkemece kendiliğinden göz önünde bulundurulması gerekir. Davanın süresinde açılıp açılmadığının belirlenebilmesi için öncelikle kira sözleşmesinin başlangıç tarihinin ve süresinin bilinmesi zorunludur. Davacının bildirdiği bu tarihlere davalı karşı çıkarsa uyuşmazlığın tarafların gösterecekleri tanık dahil bütün deliller toplanarak bir hadise olarak çözüme kavuşturulması gerekir.
 
 ## Yargıtay 6. HD 2016/3755 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/210274800)
 
 Mahkemece davalı müteselsil kefil hakkındaki dava kefalet sözleşmesi TBK'nun 583. maddesine aykırı olarak düzenlendiğinden bahisle reddedilmiş ise de; TBK 01.07.2012 tarihinde yürürlüğe girmiş, taraflar arasındaki sözleşme ise 20.05.2012 tarihli olup kefalet geçerlidir. Yine takipte istenen kira bedelleri de kefalet süresi içindedir. Ancak 01.07.2012 tarihinden önce yürürlükte olan Mülga 818 sayılı Borçlar Kanunu'nun 493. maddesi (TBK 600) hükmü gereği bir kimse belirli bir süre için kefil olup da bu zamanın sona ermesini takip eden bir ay içinde alacaklı icraya ya da mahkemeye başvurarak hakkını talep etmezse veya takibatına uzun süre ara verirse kefil kefaletten kurtulur. Sözleşmeyi müşterek borçlu müteselsil kefil olarak imzalayan ...'nun takibe konu borçtan sorumlu olabilmesi için 818 sayılı BK.nun 493.maddesine göre sözleşme bitim tarihinden itibaren bir ay içinde takibin yapılması gerekir. Bu nedenle kefilin sorumluluğu 20/05/2013 tarihi itibariyle sona ermiştir. Takip ise Borçlar Kanununun 493. maddesine göre sözleşmenin bitiminden itibaren bir ay içinde yapılmadığından kefil kefaletten beri olmuştur.
 Belirtilen nedenlerle davalı kefil hakkındaki davanın reddi gerekirken yazılı gerekçeyle red kararı verilmesi doğru değil ise de bu yanlışlığın düzeltilmesi için hükmün bozularak yeniden yargılama yapılmasında usul ekonomisi açısından yarar görülmediğinden kefil hakkındaki hükmün 6100 Sayılı HMK.ya 6217 Sayılı Kanunla eklenen geçici 3.madde hükmü gözetilerek HUMK.nın 438/7.
 
 ## Yargıtay 6. HD 2016/2805 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/210097500)
 
 Konut ya da çatılı işyeri niteliğindeki bir taşınmazı iktisap eden kimse dilerse eski malik ile kiracı arasında yapılmış sözleşmeye dayanarak sözleşmenin sonunda bir ay içinde, dilerse TBK.’nun 351. maddesi uyarınca edinme günü de dahil olmak üzere edinme tarihinden başlayarak bir ay içinde durumu kiracıya yazılı olarak bildirmek koşuluyla edinme
 
@@ -62,13 +78,19 @@ tarihinden itibaren altı ay sonra ihtiyaç nedeniyle tahliye davası açabilir.
 
 ## Yargıtay 6. HD 2016/1814 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/209356600)
+
 Türk Borçlar Kanun'unun 350/2. maddesi hükmüne göre kiralananın yeniden inşa veya imar amacıyla esaslı onarımı, genişletilmesi ya da değiştirilmesi için açılacak davaların belirli süreli sözleşmelerde sürenin sonunda, belirsiz süreli sözleşmelerde bu kanunun 328. maddesinde fesih bildirimi için öngörülen sürelere uyularak belirlenecek tarihten başlayarak bir ay içinde açılması gerekir. TBK.’nun 353. maddesi uyarınca kiraya veren daha önce veya en geç davanın açılması için öngörülen sürede dava açacağını kiracıya yazılı olarak bildirmişse, dava, bildirimi takip eden uzayan bir kira yılı sonuna kadar açılabilir. Dava açma süresi kamu düzenine ilişkin olup davalı ileri sürmese bile mahkemece kendiliğinden gözönünde bulundurulması gerekir.
 
 ## Yargıtay 6. HD 2015/10639 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/145982000)
+
 Davaya dayanak sözleşmenin 01.01.2005 başlangıç tarihli ve 1 yıl süreli olduğu mahkemenin de kabulündedir. Türk Borçlar Kanununun 350/2. maddesi hükmüne göre kiralananın yeniden inşa veya imar amacıyla esaslı onarımı, genişletilmesi ya da değiştirilmesi için açılacak davaların belirli süreli sözleşmelerde sürenin sonunda, belirsiz süreli sözleşmelerde bu kanunun 328. maddesinde fesih bildirimi için öngörülen sürelere uyularak belirlenecek tarihten başlayarak bir ay içinde açılması gerekir. TBK.’nun 353. maddesi uyarınca kiraya veren daha önce veya en geç davanın açılması için öngörülen sürede dava açacağını kiracıya yazılı olarak bildirmişse, dava, bildirimi takip eden uzayan bir kira yılı sonuna kadar açılabilir. Dava açma süresi kamu düzenine ilişkin olup davalı ileri sürmese bile mahkemece kendiliğinden gözönünde bulundurulması gerekir.
 
 ## Yargıtay 6. HD 2015/10509 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/477262500)
 
 Önceki malik ile kiracı arasında yapılan 01.01.2012 başlangıç tarihli ve bir yıl süreli kira sözleşmesi konusunda taraflar arasında bir uyuşmazlık bulunmamaktadır. Sözleşmede yıllık kiranın 11.000.-TL olduğu ve yıllık peşin olarak ödeneceği kararlaştırılmıştır. Kiralanan davacı tarafından 18.02.2014 tarihinde iktisap edilmiştir. Davacı ... 5 Noterliğinin 20.02.2014 tarih ve 547 sayılı ihtarı ile taşınmazı iktisap ettiğini, kiraların kendisine ödenmesini ve kiralanana kendi ihtiyacı bulunduğundan 15 gün içinde tahliye etmesini ihtar etmiştir. Bu ihtar davalıya 27.02,2014 tarihinde tebliğ edilmiştir. İhtara rağmen kiralar ödenmeyince davacı ... 3. Noterliğinin 22.08.2014 tarih ve 11138 Yevmiye nolu ihtarı ile
 
@@ -77,13 +99,19 @@ Davacının iktisap ettiğini bildirir 20.02.2014 tarihli yazılı ihtarı iktis
 
 ## Yargıtay 6. HD 2015/10128 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/149634200)
+
 Konut ya da çatılı işyeri niteliğindeki bir taşınmazı iktisap eden kimse dilerse eski malik ile kiracı arasında yapılmış sözleşmeye dayanarak sözleşmenin sonunda bir ay içinde, dilerse TBK.’nun 351.maddesi uyarınca edinme günü de dahil olmak üzere edinme tarihinden başlayarak bir ay içinde durumu kiracıya yazılı olarak bildirmek koşuluyla edinme tarihinden itibaren altı ay sonra ihtiyaç nedeniyle tahliye davası açabilir. Davanın altı ayın sonunda hemen açılması şart olmayıp sözleşme sonuna kadar açılması mümkündür. Ancak edinmeyi izleyen bir ay içerisinde bildirimin tebliği zorunlu olup bunun sonradan giderilmesi mümkün değildir. Açılacak davada tahliyeye karar verilebilmesi için ihtiyacın varlığının kanıtlanması gerekir.
 
 ## Yargıtay 6. HD 2015/9866 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/149359000)
+
 6098 sayılı TBK.’nun 350/1. maddesi hükmüne göre ihtiyaç iddiasına dayalı olarak açılacak tahliye davalarının belirli süreli sözleşmelerde sürenin sonunda, bir ay içinde açılması gerekir. TBK.’nun 353. maddesi uyarınca kiraya veren, daha önce veya en geç davanın açılması için öngörülen sürede dava açacağını kiracıya yazılı olarak bildirmişse dava, bildirimi takip eden uzayan bir kira yılı sonuna kadar açılabilir. Dava açma süresi kamu düzenine ilişkin olup, davalı ileri sürmese bile mahkemece kendiliğinden göz önünde bulundurulması gerekir.
 
 ## Yargıtay 6. HD 2015/8559 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/148458400)
 
 6098 sayılı TBK.’nun 350/1. maddesi hükmüne göre ihtiyaç iddiasına dayalı olarak açılacak tahliye davalarının belirli süreli sözleşmelerde sürenin sonunda, belirsiz süreli
 
@@ -91,14 +119,20 @@ sözleşmelerde bu kanunun 328. maddesinde fesih bildirimi için öngörülen s�
 
 ## Yargıtay 6. HD 2015/4894 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/147808800)
+
 6098 sayılı TBK.’nun 350/1. maddesi hükmüne göre ihtiyaç iddiasına dayalı olarak açılacak tahliye davalarının belirli süreli sözleşmelerde sürenin sonunda, belirsiz süreli sözleşmelerde bu kanunun 328. maddesinde fesih bildirimi için öngörülen sürelere uyularak belirlenecek tarihten başlayarak bir ay içinde açılması gerekir. TBK.’nun 353. maddesi uyarınca kiraya veren, daha önce veya en geç davanın açılması için öngörülen sürede dava açacağını kiracıya yazılı olarak bildirmişse dava, bildirimi takip eden uzayan bir kira yılı sonuna kadar açılabilir. Dava açma süresi kamu düzenine ilişkin olup, davalı tarafından ileri sürülmese bile mahkemece kendiliğinden göz önünde bulundurulmalıdır.
 
 ## Yargıtay 6. HD 2015/4015 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/148849500)
 
 Davalının vekalet ücretine yönelik temyiz itirazlarına gelince; önceki kiralayan ile davalı arasında 15.11.2012 başlangıç tarihli ve on yıl süreli kira sözleşmesi düzenlendiği hususunda bir uyuşmazlık bulunmamaktadır. Dava sebebine göre dava açma süresi ve koşullarının TBK.’nun 351. maddesine uygun olarak, satın alma günü olan 13/12/2013 dahil olmak üzere edinme tarihinden başlayarak bir ay içinde durumu kiracıya yazılı olarak bildirmek koşulu ile edinme tarihinden itibaren 6 ay sonra dava açılması gerekir. Oysa davacının, edinme tarihinden itibaren 6 aylık süre geçtikten sonra yani 13/06/2014 tarihinden sonra dava açması gerekirken , yasal süre henüz dolmadan 02/06/2014 tarihinde açılan dava süresinde değildir. Bu durumda Avukatlık Asgari Ücret Tarifesi 7/2. Maddesine göre davanın dinlenilebilmesi için kanunlarda öngörülen bir ön şartın yerine getirilmemesi nedeniyle davanın reddine karar verilmesi durumunda davanın görüldüğü mahkemeye göre tarifenin ikinci kısmının ikinci bölümündeki miktarı geçemeyeceği düzenlenmiştir. Dava kanunda öngörülen yasal süre nedeniyle red edildiğine göre vekalet ücretinin Avukatlık Asgari Ücret Tarifesi 7/2. Maddesine göre hükmedilmesi gerekir.
 Mahkemece bu husus göz ardı edilerek nispi vekâlet ücretine hükmedilmesi doğru değildir…
 
 ## Yargıtay 6. HD 2015/3708 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/148059900)
 
 Konut ya da çatılı işyeri niteliğindeki bir taşınmazı iktisap eden kimse dilerse eski malik ile kiracı arasında yapılmış sözleşmeye dayanarak sözleşmenin sonunda bir ay içinde, dilerse TBK.’nun 351. maddesi uyarınca edinme günü de dahil olmak üzere edinme tarihinden başlayarak bir ay içinde durumu kiracıya yazılı olarak bildirmek koşuluyla edinme
 
@@ -106,13 +140,19 @@ tarihinden itibaren altı ay sonra ihtiyaç nedeniyle tahliye davası açabilir.
 
 ## Yargıtay 6. HD 2015/3140 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/151030600)
+
 Davada dayanılan ve taraflar arasında düzenlenen 01.04.2013 başlangıç tarihli kira sözleşmesinin bir yıl olan süresi 31.03.2014 tarihinde sona ermiştir. Yukarıda açıklandığı üzere; Türk Borçlar Kanununun 352/2. maddesi uyarınca iki haklı ihtar nedeniyle açılacak tahliye davasının, bir yıl ve bir yıldan uzun süreli kiralarda ihtarların yapıldığı kira yılının bitiminden başlayarak bir ay içinde açılması zorunludur. Davanın kira sözleşmesinin bitim tarihinden itibaren bir ay içinde açılması gerekirken, bu süre geçtikten sonra 20.05.2014 tarihinde açılması nedeniyle süresinde açılmadığından, mahkemece süre yönünden davanın reddine karar verilmesi gerekirken, bu husus gözetilmeyerek yazılı şekilde tahliye kararı verilmesi usul ve yasaya aykırıdır.
 
 ## Yargıtay 6. HD 2015/2026 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/147919400)
+
 Ürün kirasına tabi belirli süreli kira sözleşmesi TBK 367/1 md göre sürenin bitiminde sona erer.Ürün kirasına ait belirli süreli kira sözleşmesinin uzaya bilmesi için taraflardan birinin kira sözleşmesi süresi içinde yada dava açma süresi içerisinde sözleşmeyi yenilemeyeceğine dair ihtar gönderilmemiş olması.kiracının kiralanan da oturmaya devam etmesi ve kiralarında kiraya veren tarafından alınmış olmasına bağlıdır.Davacı sözleşme süresi bitmeden Söke 1 noterliğinin 30.12.2011 tarih ve 9155 yevmiye nolu ihtarname ile sözleşmeyi yenilemeyeceğini 31.12.2011 tarihi itibariyle terk etmesinin ihtar etmiş bu ihtar dava açma süresi içerisinde 4.1.2012 tarihinde tebliğ edilmiştir.Bu ihtara göre sözleşme sona ermiş olup uzaması mümkün değildir.O nedenle sözleşme uzamadığından davacı her zaman dava açması mümkün olduğundan 15.6.2012 tarihinde açılan dava süresindedir.Bu nedenle davalı dava açmaya sebebiyet verdiğinden yargılama masrafları ile sorumlu tutulması gerekir.Öte yandan yargılama sırasında taşınmazın tahliye edilip davacıya teslim edildiği anlaşılmaktadır.Tahliye edilmesi aktin feshini de kapsar,o nedenle aktin feshi isteminin reddine karar verilmesi de doğru değildir.
 
 ## Yargıtay 6. HD 2015/1765 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/147484700)
 
 6098 sayılı TBK.’nun 350/1. maddesi hükmüne göre ihtiyaç iddiasına dayalı olarak açılacak tahliye davalarının belirli süreli sözleşmelerde sürenin sonunda, belirsiz süreli sözleşmelerde bu kanunun 328. maddesinde fesih bildirimi için öngörülen sürelere uyularak belirlenecek tarihten başlayarak bir ay içinde açılması gerekir. TBK.’nun 353. maddesi
 
@@ -120,29 +160,43 @@ uyarınca kiraya veren, daha önce veya en geç davanın açılması için öng�
 
 ## Yargıtay 6. HD 2014/14117 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/97482700)
+
 6098 Sayılı Türk Borçlar Kanunu 327. maddesinde yer alan düzenlemeye göre genel hükümlere tabi kira sözleşmelerinde kira sözleşmesinin başlangıcı ve süresi belli ise kira sözleşmesinde sürenin dolması ile kira sözleşmesi kendiliğinden sona erer. Kiraya veren sözleşmenin bitim tarihinden itibaren bir ay içinde dava açarak herhangi bir sebep aranmaksızın süre bitimi nedeniyle tahliye talep edebilir. Sözleşme 01/01/2010 başlangıç tarihli ve 3 yıl süreli olmakla 01/01/2013 tarihinde sona ermiştir. Kira sözleşmesinin sona ermesinden itibaren bir ay içinde tahliye davası açıldığından davanın kabulüne karar verilmesi gerekirken mahkemece yanılgıya düşülerek ortada çatılı işyeri kirasına tabi bir taşınmaz varmışcasına değerlendirme yapılarak yazılı gerekçe ile davanın reddine karar verilmesi doğru değildir.
 
 ## Yargıtay 6. HD 2014/12542 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/97490900)
 
 6098 Sayılı Türk Borçlar Kanunu'nun 344. maddesinde kira parasının belirlenmesi ,345. maddesinde ise dava açma süresi ve kararın etkisi düzenlenmiştir. TBK. 344. madde birinci fıkrasında ; “Tarafların yenilenen kira dönemlerinde uygulanacak kira bedeline ilişkin anlaşmaları, bir önceki kira yılında üretici fiyat endeksindeki artış oranını geçmemek koşuluyla geçerlidir. Bu kural, bir yıldan daha uzun süreli kira sözleşmelerinde de uygulanır” hükmü,ikinci fıkrasında ; “Taraflarca bu konuda bir anlaşma yapılmamışsa, kira bedeli, bir önceki kira yılının üretici fiyat endeksindeki artış oranını geçmemek koşuluyla hâkim tarafından, kiralananın durumu göz önüne alınarak hakkaniyete göre belirlenir.” hükmü ,üçüncü fıkrasında “Taraflarca bu konuda bir anlaşma yapılıp yapılmadığına bakılmaksızın, beş yıldan uzun süreli veya beş yıldan sonra yenilenen kira sözleşmelerinde ve bundan sonraki her beş yılın sonunda, yeni kira yılında uygulanacak kira bedeli, hâkim tarafından üretici fiyat endeksindeki artış oranı,…
 
 ## Yargıtay 6. HD 2014/12364 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/97481900)
+
 6098 Sayılı Türk Borçlar Kanunu 327. maddesinde yer alan düzenlemeye göre genel hükümlere tabi kira sözleşmelerinde kira sözleşmesinin başlangıcı ve süresi belli ise kira sözleşmesinde sürenin dolması ile kira sözleşmesi kendiliğinden sona erer.Kiraya veren sözleşmenin bitim tarihinden itibaren bir ay içinde dava açarak süre bitimi nedeniyle tahliye talep edebilir.Belirli süreli kira sözleşmelerinde belirlenen sürenin dolması halinde taraflar arasında açık bir anlaşma olmaksızın kira ilişkisi sürdürülürse kira sözleşmesi süresiz olarak uzar.Genel hükümlere tabi kira sözleşmelerinde belirli süreli kira sözleşmesinin süresiz hale gelmemesi için kiraya veren kira süresi bitmeden veya dava açma süresi içinde kira sözleşmesini yenilemeyeceğine dair ihtarname tebliğ ettirirse kira sözleşmesi yenilenmeyeceği gibi süresiz hale de gelmez.Bu durumda her zaman süre bitimi nedeniiyle tahliye davası açılabilir.
 
 ## Yargıtay 6. HD 2014/10783 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/97328400)
 
 6098 Sayılı Türk Borçlar Kanununun 327. maddesinde yer alan düzenlemeye göre genel hükümlere tabi kira sözleşmelerinde kira sözleşmesinin başlangıcı ve süresi belli ise kira sözleşmesinde sürenin dolması ile kira sözleşmesi kendiliğinden sona erer.Kiraya veren sözleşmenin bitim tarihinden itibaren bir ay içinde dava açarak süre bitimi nedeniyle tahliye talep edebilir.Belirli süreli kira sözleşmelerinde belirlenen sürenin dolması halinde taraflar arasında açık bir anlaşma olmaksızın kira ilişkisi sürdürülürse kira sözleşmesi süresiz hale gelir. Genel hükümlere tabi kira sözleşmelerinde belirli süreli kira sözleşmesinin süresiz hale gelmemesi için kiraya veren kira süresi bitmeden veya dava açma süresi içinde kira sözleşmesini yenilemeyeceğine dair ihtarname tebliğ ettirirse kira sözleşmesi yenilenmeyeceği gibi süresiz hale de gelmez.Bu durumda her zaman süre bitimi nedeniyle tahliye davası açılabilir.
 
 ## Yargıtay 6. HD 2014/8798 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/97261500)
+
 6100 sayılı TBK.'nın 350/1. maddesi hükmüne göre ihtiyaç iddiasına dayalı olarak açılacak tahliye davalarının belirli süreli sözleşmelerde sürenin sonunda, belirsiz süreli sözleşmelerde bu Kanunun 328. maddesinde fesih bildirimi için öngörülen sürelere uyularak belirlenecek tarihten başlayarak bir ay içinde dava açılması gerekir. TBK.'nın 353. maddesi uyarınca kiraya veren, daha önce veya en geç davanın açılması için öngörülen sürede dava açacağını kiracıya yazılı olarak bildirmişse dava, bildirimi takip eden uzayan bir kira yılı sonuna kadar açılabilir. Dava açma süresi kamu düzenine ilişkin olup, davalı ileri sürmese bile mahkemece kendiliğinden göz önünde bulundurulmalıdır.
 
 ## Yargıtay 6. HD 2014/8025 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/97580800)
+
 Konut ya da çatılı işyeri niteliğindeki bir taşınmazı iktisap eden kimse dilerse eski malik ile kiracı arasında yapılmış sözleşmeye dayanarak sözleşmenin sonunda bir ay içinde, dilerse TBK.’nun 351. maddesi uyarınca edinme günü de dahil olmak üzere edinme tarihinden başlayarak bir ay içinde durumu kiracıya yazılı olarak bildirmek koşuluyla edinme tarihinden itibaren altı ay sonra ihtiyaç nedeniyle tahliye davası açabilir. Yeni malikin, eski malik ile yapılan sözleşmeye dayanarak sözleşme sonunda dava açması halinde, edinme tarihinden itibaren bir ay içinde kiracıya bildirimde bulunması gerekmez. Açılacak davada tahliyeye karar verilebilmesi için ihtiyacın varlığının da kanıtlanması gerekir.
 
 ## Yargıtay 6. HD 2014/7947 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/97601200)
 
 Davada dayanılan ve hükme esas alınan 01.04.2007 başlangıç tarihli ve iki yıl süreli kira sözleşmesi konusunda taraflar arasında uyuşmazlık bulunmamaktadır. Sözleşme ile davacıya ait kiralanan davalı şirkete kiralanmış, sözleşmeyi diğer davalı B.. B.. müşterek ve müteselsil kefil sıfatıyla imzalamıştır. Davacı 30.09.2011 tarihinde açmış olduğu işbu davada davalı kiracının Temmuz- Ekim 2008 tarihleri arasındaki dört aylık kira parasını ödemediğini, iki yıllık sözleşme süresinin dolmasını da beklemeden Ekim 2008 ayında kiralananı tahliye ettiğini, aylık 8.500 TL'den ödenmeyen kira borcunun 34.000 TL olduğunu, ayrıca taşınmazın altı aya yakın boş kaldığını, bu şekildeki kira kayıplarının
 
@@ -151,9 +205,13 @@ Dava konusu olayda da, davacı, kefil davalı hakkında tahliye tarihinden itiba
 
 ## Yargıtay 6. HD 2014/7893 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/97381300)
+
 İle HMK 124.maddesine göre taraf teşkili mümkün olduğundan davalı T.. T..'a dava dilekçesinin tebliğini talep etmesi üzerine mahkemece Turan Topbaşa dava dilekçesi tebliğ edilmiştir.HMK 124/3 maddesine göre taraf değişikliği mümkün isede kiracı K..T.. adına 6098 Sayılı Kanunun 352 maddesinde belirtilen edinim tarihinden itibaren bir ay içinde bu kiracıya tebliğ edilmiş bir ihtar bulunmamaktadır. Davacının 6098 Sayılı Kanunun 351.maddesindeki sürelerden faydalanarak dava açabilmesi için kira sözleşmesinde kiracı olarak bulunan şahsa edinim tarihinden itibaren bir ay içinde ihtar tebliğ ettirip davasını da edinim tarihinden itibaren 6 ayın sonunda açması gerekir. Kiracı olmayan ve kira sözleşmesinin tarafı bulunmayan şirkete ihtar keşide edilerek bu ihtardaki sürelerden faydalanılarak kiracı hakkında dava açılması mümkün değildir.Bu nedenle şirket hakkında açılan davanın husumetten, davalı T.. T.. hakkında açılan davanın da 6098 Sayılı Kanunun 351 maddesinde belirtilen sürelerde tebliğ ettirilmiş bir ihtar bulunmadığından reddine karar verilmesi gerekirken yazılı şekilde hüküm kurulması doğru olmadığından hükmün bozulması gerekmiştir.
 
 ## Yargıtay 6. HD 2014/7012 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/308754200)
 
 Davacının katılma yoluyla temyiz itirazlarına gelince;6098 sayılı TBK.’nun 350/1. maddesi hükmüne göre ihtiyaç iddiasına dayalı olarak açılacak tahliye davalarının belirli süreli sözleşmelerde sürenin sonunda, belirsiz süreli sözleşmelerde bu kanunun 328. maddesinde fesih bildirimi için öngörülen sürelere uyularak belirlenecek tarihten başlayarak bir ay içinde açılması gerekir. TBK.’nun 353. maddesi uyarınca kiraya veren, daha önce veya en geç davanın açılması için öngörülen sürede dava açacağını kiracıya yazılı olarak bildirmişse dava, bildirimi takip eden uzayan bir kira yılı sonuna kadar açılabilir. Dava açma süresi
 
@@ -161,17 +219,25 @@ kamu düzenine ilişkin olup, davalı ileri sürmese bile mahkemece kendiliğind
 
 ## Yargıtay 6. HD 2014/6141 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/97366500)
+
 Konut ya da çatılı işyeri niteliğindeki bir taşınmazı iktisap eden kimse dilerse eski malik ile kiracı arasında yapılmış sözleşmeye dayanarak sözleşmenin sonunda bir ay içinde, dilerse TBK.’nun 351. maddesi uyarınca edinme günü de dahil olmak üzere edinme tarihinden başlayarak bir ay içinde durumu kiracıya yazılı olarak bildirmek koşuluyla edinme tarihinden itibaren altı ay sonra ihtiyaç nedeniyle tahliye davası açabilir. Davanın altı ayın sonunda hemen açılması şart olmayıp sözleşme sonuna kadar açılması mümkündür. Ancak edinmeyi izleyen bir ay içerisinde bildirimin tebliği zorunlu olup bunun sonradan giderilmesi mümkün değildir.
 
 ## Yargıtay 6. HD 2014/4691 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/97312500)
 
 Türk Borçlar Kanununun 350/2. maddesi hükmüne göre kiralananın yeniden inşa veya imar amacıyla esaslı onarımı, genişletilmesi ya da değiştirilmesi için ve 6098 sayılı TBK.’nun 350/1. maddesi hükmüne göre ihtiyaç iddiasına dayalı olarak açılacak davaların belirli süreli sözleşmelerde sürenin sonunda, belirsiz süreli sözleşmelerde ise bu Kanunun 328. ve 350/son maddelerinde fesih bildirimi için öngörülen sürelere uyularak belirlenecek tarihten başlayarak bir ay içinde açılması gerekir. TBK.’nun 353. maddesi uyarınca kiraya veren daha önce veya en geç davanın açılması için öngörülen sürede dava açacağını kiracıya yazılı olarak bildirmişse, dava, bildirimi takip eden uzayan bir kira yılı sonuna kadar açılabilir. Dava açma süresi kamu düzenine ilişkin olup davalı ileri sürmese bile mahkemece kendiliğinden gözönünde bulundurulması gerekir.
 
 ## Yargıtay 6. HD 2014/4380 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/97249800)
+
 Konut ya da çatılı işyeri niteliğindeki bir taşınmazı iktisap eden kimse, dilerse eski malik ile kiracı arasında yapılmış sözleşmeye dayanarak sözleşmenin sonunda bir ay içinde, öncesinde tahliye ihtarı var ise yenilenen dönemin sonucuna kadar dava açılabilir. Dilerse TBK.’nun 351. maddesi uyarınca edinme günü de dahil olmak üzere edinme tarihinden başlayarak bir ay içinde, durumu kiracıya yazılı olarak bildirmek koşuluyla edinme tarihinden itibaren altı ay sonra ihtiyaç nedeniyle tahliye davası açabilir. Davanın altı ayın sonunda hemen açılması şart olmayıp sözleşme sonuna kadar açılması mümkündür. Ancak edinmeyi izleyen bir ay içerisinde bildirimin tebliği zorunlu olup bunun sonradan giderilmesi mümkün değildir. Açılacak davada tahliyeye karar verilebilmesi için ihtiyacın varlığının kanıtlanması gerekir.
 
 ## Yargıtay 6. HD 2014/3641 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/97344000)
 
 Olayımıza gelince; davada dayanılan ve hükme esas alınan 10.12.2004 düzenleme tarihli ve beş yıl süreli kira sözleşmesi konusunda taraflar arasında uyuşmazlık bulunmamaktadır. Sözleşme ile Mudanya ....Köyü 526 parsel No'lu taşınmazın kroki ve yerleşim alanında
 

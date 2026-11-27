@@ -21,46 +21,68 @@ uyari: "Derleyenin seçtiği alıntılardır; kararın tamamı değildir. Künye
 
 ## Yargıtay 12. HD 2011/1107 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/56469100)
+
 İİK.nun 276. maddesinin 1. bendi aynen " tahliyesi istenen yerde kiracıdan başka bir şahıs bulunur ve işgalde haklı olduğuna dair resmi bir vesika gösteremezse derhal tahliye olunur." Aynı maddenin 2. fıkrasında; "Şu kadar ki, bu şahıs resmi bir vesika gösterememekle beraber daireye ibraz olunan mukavele tarihinden evvelki bir zamandan beri orayı işgal etmekte bulunduğunu beyan eder ve bu beyanı icra müdürü tarafından mahallinde yapılacak tahkikatla teeyyüt ederse müdür, tahliyeyi tehirle 3 gün içinde keyfiyeti icra mahkemesine bildirir." Bu maddenin 3. fıkrasında ise; "İcra mahkemesi, tarafları dinleyerek icabına göre tahliyeyi emreder veya taraflardan birinin 7 gün içinde mahkemeye müracaat etmesi luzümuna karar verir. Bu müddet içinde mahkemeye müracaat edilirse, davanın neticesine göre hareket olunur. Dava etmeyen taraf iddiasından vazgeçmiş sayılır." yasal düzenlemesi yer almaktadır.
 
 ## Yargıtay 17. HD 2010/11334 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/796088700)
 
 Ortada hukuken geçerli bir haciz tutanağı bulunmadıkça istihkak iddiasında bulunulamaz ve bu iddiaya dayanılarak istihkak davası açılamaz.Somut olayda, dava dışı borçlu aleyhine alınan tahliye kararının infazı amacıyla dava konusu menkuller borçluya ait olduğu gerekçesiyle taşınmazdan tahliye edilerek yediemin deposuna teslim edilmiş ancak haciz işlemi yapılmamıştır.Borçlu tarafından icra müdürlüğüne başvurulmuş; yediemin deposundaki eşyaların davacıya ait olduğu belirtilerek teslimi istenmiş, davacı alacaklı tarafından da eşyaların davacı tarafından yedieminden alınmasına muvafakat edilmiştir. O halde dava konusu menkuller haczedilmediği gibi mülkiyetin davacılara ait olduğu yönünden bir itilafta bulunmadığı gerekçesiyle davanın ön şart yokluğundan reddine karar verilmesi gerekirken yazılı gerekçeyle hüküm tesisi sonuçu itibarıyla doğru olduğundan dosyadaki yazılara, kararın dayandığı delillerle gerektirici sebeplere göre, davacıların yerinde görülmeyen bütün temyiz itirazlarının reddiyle usul ve kanuna uygun bulunan hükmün ONANMASINA ve aşağıda dökümü yazılı 17,15 TL peşin harcın onama harcına mahsubuna 21.12.2010 gününde oybirliğiyle karar verildi.
 
 ## Yargıtay 12. HD 2010/8080 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/65157000)
+
 Tahliyenin infazı için henüz mecura gidilmeden, 3.kişi ....... Tic. Ltd. Şti. yetkilisi sıfatıyla borçlu İ.A.'ın icra müdürlüğüne verdiği 19.11.2008 tarihli dilekçe ile, taşınmazda asıl kiracının şirket olup, İİK. nun 276.maddesi uyarınca tahliyeden vazgeçilmesini veya dosyanın icra mahkemesine gönderilmesini talep etmesi üzerine, icra müdürlüğünce, İİK. nun 276/2.maddesine göre takip dosyasının icra mahkemesine gönderildiği görülmüştür.
 
 ## Yargıtay 12. HD 2009/23673 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/69821400)
 
 Bir taşınmazın tahliyesine ilişkin ilam icra dairesine verilince icra müdürü İİK.nun 26.maddesinin yollama yaptığı aynı kanunun 24.maddesinde yazılı şekilde borçluya icra emri tebliğ eder. Bu icra emrinde, icra mahkemesinden veya temyiz yahut iadesi muhakeme yolu ile ait olduğu mahkemeden icranın geri bırakılması hakkında bir karar getirilmedikçe, cebri icra devam olunacağı da yazılır. İİK.un 41.maddesinin göndermesi ile tahliye ilamına dayalı icra takiplerinde de İİK.nun 33. Maddesinin uygulanması gerekir. Belirtilen bu madde…
 
 ## Yargıtay 6. HD 2009/8785 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/868102000)
+
 İcra takibine konu tahliye taahhüdü mahkeme ilamı gereğince verilmiştir. Bu durumda başlatılan icra takibi İİK 26-29. maddeleri gereğince taşınmazların tahliyesi ve teslimine ilişkindir. Taraflar arasında kira sözleşmesi bulunmamaktadır. Uyuşmazlığın bu niteliğine göre temyiz inceleme görevi Dairemize ait olmayıp, Yargıtay 12. Hukuk Dairesine ait ise de anılan dairece de görevsizlik kararı verilmiş olmakla görev uyuşmazlığının çözümü için dosyanın Yargıtay Birinci Başkanlığına gönderilmesine, 22.10.2009 tarihinde oybirliğiyle karar verildi.
 
 ## Yargıtay 12. HD 2009/10486 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/69333600)
+
 Akde aykırılık nedeni ile sulh hukuk mahkemesince verilen tahliye kararına istinaden kiracı Osmangazi Belediye Başkanlığı aleyhinde ilamlı takip yapılmaktadır. İnfaz sırasında taşınmazda bulunan üçüncü kişi Ü. S..'in kiracının kiracısı (alt kiracı) olduğunu iddia etmesi üzerine icra dosyası İİK.nun 276.maddesi uyarınca bir karar verilmek üzere icra mahkemesine gönderilmiştir. Tahliye ilamına konu taşınmazı, kiracı belediyenin 1.3.2006 tarihli kira sözleşmesi ile Ü. S..'e kiraladığı taraflar arasında çekişmesizdir. Kira sözleşmesine aykırı olarak taşınmazın kiralanması nedeni ile kiracının tahliyesine karar verildiği dayanak sulh hukuk mahkemesi ilamından anlaşılmaktadır. Taraflar arasındaki uyuşmazlık, kiracı aleyhine alınmış tahliye ilamı ile alt kiracı Ü. S..'in tahliye edilip edilmeyeceği noktasında toplanmaktadır.
 
 ## Yargıtay 6. HD 2008/12696 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/16757100)
 
 İlamsız tahliye takibinden sonra borçlu kiracının menfi tespit davası açmış olması halinde menfi tespit davasına bakan mahkeme, ihtiyati tedbir yoluyla ilamsız tahliye takibinin durdurulmasına karar veremez. Ancak teminat karşılığında ihtiyati tedbir kararı verebilir. Fakat bu halde borçlu kiracı icra dairesine ödemiş olduğu paranın kiralayana ödenmesine muvafakat etmediğinden ve böylece temerrüde düşmüş olacağından icra mahkemesi itirazın kaldırılmasına ve tahliyeye karar verir. Borçlu kiracının ilamsız tahliye talebinden sonra menfi tespit davası açması icra mahkemesinin İİK 269/c maddesi hükmüne göre alacaklı kiralayanın tahliye talebini incelemesine ve tahliye kararı vermesine engel değildir. Ancak menfi tespit davasına bakan mahkeme, borçlu kiracının talebi üzerine ve teminat karşılığında, tahliye kararının icrasının durdurulması için ihtiyati tedbir kararı verebilir. Kaldı ki borçlu kiracı icra mahkemesinin tahliye kararının kesinleşmesinden sonra da menfi tespit davası açabilir zira icra mahkemesi kararları maddi anlamda kesin hüküm teşkil etmez. İİK'nun 72/V.maddesi gereğince menfi tespit davası borçlu kiracı lehine hükme bağlanırsa ilamsız tahliye takibi derhal durur.
 Bundan sonra artık icra mahkemesi tahliye kararı veremez. İcra mahkemesinin tahliye kararı vermesinden sonra menfi tespit davası borçlu kiracı lehine hükme bağlanırsa tahliye kararının icrası kendiliğinden durur.
 
 ## Yargıtay 12. HD 2008/17341 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/70339800)
+
 Tahliye taahhüdüne dayalı taşınmazların ilamsız takibinde, borçlnun örnek 14 no'lu tahliye emrine itiraz üzerine duran takibe devam edilebilmesi için kiraya verenin İİK'nun 275,I fıkrası hükmüne göre icra mahkemesinden, kiracının itirazının kaldırılmasını istemek zorundadır. Ancak kiraya veren, icra mahkemesinden itirazın kaldırlımasını istemek zorunda olmayıp, sulh hukuk mahkemesinde de tahliye davası açabilir. Sulh mahkemesinden alacağı tahliye ilamını İİK'nun 26.maddesi uyarınca ilamlı icra yolu ile ayrı bir takip yapabilir. İİK'nun 269/d ve 274/son maddelerinde aynı Kanun'un 67.maddesine gönderme olmadığından sulh hukuk mahkemesinde itirazın iptali ve tahliye davası açılamaz ve bu dava sonucunda alınacak ilamla, ilamsız tahliye takibine devam edilemez. Sulh hukuk mahkemelerinden verilen itirazın iptali ve tahliye ilamları, ilamlı icra yolu ile takibe konabilir ve borçluya İİK'nun 26.maddesine göre icra emri çıkarılmak sureti ile ilamın infazı istenebilir.
 
 ## Yargıtay 12. HD 2007/7875 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/73726100)
 
 İİK'nun 276. maddesi hükmü aynen; "Tahliyesi istenen yerde kiracıdan başka bir şahıs bulunur ve işgalde haklı olduğuna dair resmi bir vesika gösteremezse derhal tahliye olunur. Şu kadar ki, bu şahıs resmi bir vesika gösterememekle beraber, daireye ibraz olunan, mukavele tarihinden evvelki bir zamandan beri orayı işgal etmekte buluduğunu beyan eder ve bu beyanı icra müdürü tarafından mahallinde yapılacak tahkikatta teeyyüt ederse memur, tahliyeyi tehirle üç gün içinde keyfiyeti icra mahkemesine bildirir. İcra mahkemesi tarafları dinleyerek icabına göre tahliyeyi emreder veya taraflardan birinin yedi gün içinde mahkemeye müracaat etmesi lüzümuna karar verir".
 
 ## Yargıtay 12. HD 2007/1599 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/73350900)
+
 İİK'nun 276/1. maddesi gereğince ( Tahliyesi istenen yerde kiracıdan başka bir şahıs bulunur ve işgalde haklı olduğuna dair "resmi bir vesika" gösteremezse derhal tahliye olunur.) Somut olayda icra memuru, ... hakkında kesinleşen tahliye kararını infaz için mahalline gittiğinde şikayetçi 3. kişinin kiralayanda bulunduğu tesbit edilmiş ve yukarıda yazılı maddede öngörülen nitelikte bir belge sunulamadığı için adı geçen 3. kişi ...Ltd. Şti.'nin taşınmazdan tahliyesine karar verilmiş ve tahliye işlemi gerçekleştirilmiştir.İcra memuru takdir yetkisini işgal eden 3. kişi aleyhine kullandığına göre olayda 276/3 maddede yazılı koşulların oluşup oluşmadığının şikayet nedeniyle icra mahkemesi tarafından tartışılıp değerlendirilmesi gereklidir.
 
 ## Yargıtay 12. HD 2006/21970 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/74630200)
 
 Alacaklı tarafından Beyoğlu 1.Sulh Hukuk Mahkemesinin 08.06.2005 tarih ve 2004/1032 E. - 2005/936 K. sayılı davalı ...................................nin, aktin feshi ile temerrüd nedeniyle dava konusu taşınmazdan tahliyesine ilişkin ilamın takip konusu yapıldığı anlaşılmaktadır. İİK.nun 26. ve 29.maddeleri uyarınca, kira sözleşmesine dayalı olarak verilmiş olan ilam bu madde hükümlerine göre icraya konulur. Tahliye ilamı, bir kira sözleşmesine dayanılarak verilmiş ve tahliyesi istenilen taşınmazda borçlu kiracıdan başka üçüncü bir kişi bulunursa, aynı kanunun 41.maddesinin delaletiyle uygulanması gerekir. Çünkü kira nedeniyle verilen
 
@@ -68,10 +90,14 @@ tahliye ilamlarının üçüncü kişiye karşı icrası hakkında ilamlı icra 
 
 ## Yargıtay 12. HD 2006/13978 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/69466800)
+
 İİK'nun 276. maddesinde " Tahliyesi istenen yerde kiracıdan başka bir şahıs bulunur ve işgalde haklı olduğuna dair resmi bir vesika gösteremez ise derhal tahliye olunur..... "Borçlunun nesep ve sebepten usul ve füruu, karı ve kocası ikinci dereceye kadar kan ve sıhri hısımları ve iş ortakları ile borçluya tebaan mecurda oturdukları anlaşılan diğer şahıslar bu madde hükmünün tatbikinde üçüncü şahıs sayılmazlar." hükmünü içermektedir. Görüldüğü üzere kural olarak, eşlerden birisi diğerine karşı ve ona tebaen taşınmazda oturduğundan boşanma gerçekleşse bile İİK'nun 276/son madde hükmü gereğince 3. kişi konumunda değildir. Ancak; kural bu olmasına karşın tahliyeye konu konutun " aile konutu" olarak kullanıldığı, şikayetçi eşin halen bu yerde çocukları ile birlikte oturmaya devam ettiği ileri sürüldüğüne göre, 4721 sayılı Türk Medeni Kanununun " Aile Konutu" başlıklı 194/1. maddedeki eşlerden biri, diğer eşin açık rızası bulunmadıkça aile konutu ile ilgili kira sözleşmesini feshedemez, aile konutunu devredemez veya aile konutu üzerindeki hakları sınırlayamaz" hükmü karşısında tahliyeye konu taşınmazın aile konutu olup olmadığının belirlenmesi gerekecektir.
 Mahkemece HGK'nun 26.10.2005 tarih ve 2005/12-676 E. 2005/600 K. sayılı kararı da dikkate alınarak üçüncü kişinin aile mahkemesinde açmış bulunduğu bu yerin aile konutu olduğuna yönelik davanın akibetinin beklenilmesine ve o davanın sonucuna göre bir karar verilmesi gerekirken eksik inceleme ile yazılı şekilde hüküm kurulması isabetsizdir.
 
 ## Yargıtay 12. HD 2006/11221 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/74665700)
 
 İİK'nun 276. maddesinde " Tahliyesi istenen yerde kiracıdan başka bir şahıs bulunur ve işgalde haklı olduğuna dair resmi bir vesika gösteremez ise derhal tahliye olunur....." Borçlunun nesep ve sebepten usul ve füruu, karı ve kocası ikinci dereceye kadar kan ve sıhri hısımları ve iş ortakları ile borçluya tebaan mecurda oturdukları anlaşılan diğer şahıslar bu madde hükmünün tatbikinde üçüncü şahıs sayılmazlar." hükmünü içermektedir. Görüldüğü üzere kural olarak, eşlerden birisi diğerine karşı ve ona tebaen taşınmazda oturduğundan boşanma gerçekleşse bile İİK'nun 276/son madde hükmü gereğince 3. kişi konumunda değildir. Ancak; kural bu olmasına karşın tahliyeye konu konutun " aile konutu" olarak kullanıldığı, şikayetçi eşin halen bu yerde çocukları ile birlikte oturmaya devam ettiği ileri sürüldüğüne göre, 4721 sayılı Türk Medeni Kanununun " Aile Konutu" başlıklı 194/1. maddedeki eşlerden biri, diğer eşin açık rızası bulunmadıkça aile konutu ile ilgili kira sözleşmesini feshedemez, aile konutunu devredemez veya aile konutu üzerindeki hakları sınırlayamaz" hükmü karşısında tahliyeye konu taşınmazın aile konutu olup olmadığının belirlenmesi gerekecektir.
 Öyleyse mahkeme öncelikle bu yerin "aile konutu olduğunun tespitine yönelik olarak açılmış bir davasının ve aile mahkemesince yapılmış bir belirlemenin bulunup bulunmadığı araştırılmalı, sonucuna göre gerektiğinde şikayetçiye tahliyesi istenen taşınmazın aile konutu olduğunu ispata yönelik olarak, (HGK.26.10.2005 Tarih E. 2005/12-676 K. 2005/600) dava açma yetkisi ve olanağı verilerek sonuca gidilmesi gerekir. Bu husus yöntemince araştırılmadan eksik inceleme ile tahliye isteminin iptali yolunda hüküm tesisi isabetsizdir.
@@ -107,11 +133,15 @@ Tahliye taahhütnamesine dayalı olarak başlatılan icra takibinde, borçlunun 
 
 ## İstanbul BAM 44. HD 2023/412 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/883487800)
+
 Esas sayılı takip dosyası üzerinden 07/08/2015 tarihinde girişilen Taşınır Rehininin Paraya Çevrilmesi Yolu ile ilamlı takipte, takibin derdest olduğu, Somut olayda sözleşme 25/12/2009 tarihinde imzalandığından 2006 tarihli Finansal kiralama, Faktoring ve Finansman Şirketlerinin Kuruluş ve Faaliyet Esasları Hakkında Yönetmelik Hükümlerinin uygulanacağı, Yönetmeliğin 22. maddesinde faktoring şirketlerinin yapamayacakları iş ve işlemlerin hükme bağlandığı, 6101 sayılı TBK' nun Yürürlüğü ve Uygulama Şekli Hakkında Kanun'un 1. maddesi uyarınca, 818 sayılı Borçlar Kanunu hükümlerinin uygulanacağı, Taraflar arasında 25/12/2009 tarihli faktoring sözleşmesi tahtında farklı tarihlerde birden fazla alacağın temlik edilmesi ve anılan temlik işlemlerin faktoring sözleşmesi ile ilişkilendirilmesi karşısında dava konusu faktoring sözleşmesinin çerçeve sözleşme olduğu ve hükümlerinin bütün temlik işlemlerinde uygulanacağı neticesine ulaşıldığı, taraflar arasındaki uyuşmazlıkta, faktoring sözleşmesi hükümleri ile buna bağlı olarak düzenlenen temlikname ve limit onay bildirimlerinin içeriğinin dikkate alınacağı, Faktoring işlemleri: finansman (kredi) işlemi - yani ön ödeme/avans suretiyle müşteriye
 finansman sağlanması, hizmet (iş görme) işlemi - yani borçluların muhasebesinin tutulması ihtar ve tahsil işlemlerinin üstlenilmesi, gerektiğinde alacakların cebri icra yoluyla elde edilmesi ile teminat (delkredere) işlemi - yani faktoring şirketinin kendisine devrolacak alacaklar bakımından alacağın tahsil edilmemesi riskini üstlenmesi şeklinde olup, her üç işleminde bulunduğu faktoring türünün "Gerçek Faktoring" olarak tanımlandığı, gerçek olmayan faktoringde ise, faktoring şirketi teminat riskini yani alacağın tahsil edilmemesi riskini üstlenmediği, gerçek faktoringde teminat fonksiyonu şarta bağlandığı takdirde şartın belirlenen vadede gerçekleşmemesi halinde gerçek olmayan faktoringe dönüşeceği, Toplanan tüm delillere, mahkemece benimsenen ve hükme dayanak etmeye elverişli bulanan bilirkişiler kurulu raporu ve davacı vekili tarafından sunulan uzman görüşlerine göre; taraflar arasında bağıtlanan faktoring sözleşmesinin dayatılan bir sözleşme niteliği taşımadığı, davalı ...'in basiretli bir tacir olması, aynı mahiyette faktoring sözleşmesinin başka faktoring şirketleri ile de bağıtlanmış olması karşısında, davalının sözleşmenin ayrıntılı şekilde incelenmeden ve hukukçuların
 görüşleri alınmadan akdedilmiş olduğu yolundaki savunmalarının hayatın olağan akışı ile bağdaşmadığı, tarafların birlikte anlaşarak sözleşmeyi akdettiklerinin kabul edildiği, sözleşmelerde hüküm bulunması halinde güven teorisinin uygulanamayacağı, sözleşme hükümlerinin taraflar açısından bağlayıcı olduğu, faktoring sözleşmesi hükmüne ve limit onay bildirimlerine göre verilen sürede borçluların aczi, iflası şartlarının İİK hükümleri uyarınca gerçekleşmesi halinde faktoring garantisinin yürürlüğe gireceği, somut olayda dava dışı borçluların aczi veya iflasının LOB'de bildirilen sürelerde gerçekleşmediği, sözleşmenin V. bölümünde hükme bağlanan şartların limit onay bildirimlerinde gösterilen vadelerde gerçekleşmemesi halinde sözleşmenin III(6) maddesi faktorun müşterisine rücu hakkı bulunduğunun tartışmasız olduğu, şartların gerçekleşmemesi nedeniyle ve sözleşmenin III(6) maddesi uyarınca sözleşmenin kabilirücu-rücu edilebilir faktoring niteliğine dönüştüğü, sözleşmede davacıya borçluları takip ve dava açma yükümlülüğü getirilmediğinin sözleşmenin III.
 
 ## İstanbul BAM 44. HD 2021/695 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/670718000)
 
 Esas sayılı takip dosyası üzerinden 07/08/2015 tarihinde girişilen Taşınır Rehninin Paraya Çevrilmesi Yolu ile ilamlı takipte, takibin derdest olduğu,Somut olayda sözleşme
 

@@ -21,6 +21,8 @@ uyari: "Derleyenin seçtiği alıntılardır; kararın tamamı değildir. Künye
 
 ## Yargıtay 3. HD 2021/10994 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/712191900)
+
 6098 sayılı Türk Borçlar Kanunu'nun 352 nci maddesinin ikinci fıkrasına göre; kiracı, bir yıl ve daha uzun süreli kira sözleşmelerinde bir kira yılı veya bir kira yılını aşan süre içinde kira bedelini ödemediği için kendisine yazılı olarak iki haklı ihtarda bulunulmasına sebep olmuşsa kiraya veren, **kira süresinin ve bir yıldan uzun süreli kiralarda ihtarların yapıldığı kira yılının bitiminden başlayarak bir ay içinde, dava yoluyla kira sözleşmesini sona erdirebilir**.
 
 ## Yargıtay 3. HD 2018/510 K.

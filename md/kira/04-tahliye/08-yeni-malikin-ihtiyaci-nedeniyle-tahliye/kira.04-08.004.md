@@ -22,6 +22,8 @@ uyari: "Derleyenin seçtiği alıntılardır; kararın tamamı değildir. Künye
 
 ## Yargıtay 6. HD 2013/6675 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/404691300)
+
 6098 Sayılı TBK'nun 351 maddesinde düzenlenen “yeni malikin gereksinimi” nedeniyle tahliye istemi konut ve çatılı işyerlerinin kiralanmasında uygulanabilecek bir düzenlemedir. Taraflar arasındaki kira sözleşmesi ise baz istasyonu konulmak üzere belirli bir alanın kiralanmasına yönelik olup, 6098 Sayılı TBK.nun 351 maddesi gereğince kiralananın tahliyesi talep edilemez. Ayrıca TBK.nun 310. maddesi “Sözleşmenin kurulmasından sonra
 
 kiralanan herhangi bir sebeple el değiştirirse, yeni malik kira sözleşmesinin tarafı olur.” hükmünü içerdiğinden, yeni malik ancak kira sözleşmesine istinaden ve sözleşmedeki sürelere riayet ederek kiralananın tahliyesini talep edebilir. TBK.da konut ve çatılı işyerleri haricindeki kira sözleşmelerinde yeni malikin gereksinimi nedeniyle kiralananın tahliyesi talep edilemeyeceğinden, Mahkemece bu yönden davanın kabulüne karar verilmesi usul ve yasaya uygun değildir. Öte yandan, kiralananın niteliği gereği kira sözleşmesi belirli süreli ise süre sonunda bildirim ile sona erer. Dosyaya sunulan kira sözleşmesinin 5 yıl süreli olduğu ve başlangıcının kira parasının havale edildiği tarihten başlayacağı belirtilmiş ise sözleşmenin hangi tarihte başladığı belirtilmediği gibi sözleşmenin düzenlediği tarihte belirtilmemiştir. Mahkemece taraflara kira sözleşmesinin başlangıcı açıklatılmamıştır.
@@ -29,29 +31,43 @@ Bu durumda mahkemece öncelikle taraflar arasındaki akdin başlangıç tarihi v
 
 ## Yargıtay 6. HD 2013/3661 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/546135000)
+
 Konut veya işyeri ihtiyacına dayalı olarak açılacak tahliye davalarında kiralayanın dava hakkı mutlak olup bunun dışında malik ve yeni malikin de dava açma hakkı bulunmaktadır. Yeni malikin dava açma hakkı 6570 sayılı yasanın 7/d maddesinde düzenlenmiştir. Anılan madde hükmüne göre bir taşınmazı Medeni Kanun hükümlerine göre iktisap eden kişinin de dava hakkı bulunmaktadır. Kural olarak taşınmaz mülkiyetinin kazanılması kanunda öngörülen istisnalar dışında ancak tescille mümkündür. 6570 sayılı yasanın 7/d maddesi taşınmazın Medeni Kanun hükümlerine göre iktisap edilmesi halini düzenlemiştir.
 
 ## Yargıtay 3. HD 2013/3126 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/259096900)
 
 Şu durumda; taşınmazın önceki maliki olan davalı ile dava dışı ..... arasında imzalanan ve dava tarihi itibariyle halen geçerli bulunan kira sözleşmesi gereğince, davacı yeni malikin, önceki malik davalının, satın alma nedeniyle halefi olup, kiralayan sıfatının, halef olan yeni malike geçtiği bu nedenle davalının davada taraf sıfatının (husumet ehliyetinin) bulunmadığı gözetilerek davanın reddine karar verilmesi gerekirken yazılı şekilde hüküm tesisi doğru görülmemiş, bozmayı gerektirmiştir.
 
 ## Yargıtay 6. HD 2013/136 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/98358100)
+
 Yeni malikin, 6570 sayılı Yasanın 7/d maddesindeki sürelerden yararlanarak dava açması halinde, iktisap tarihinden itibaren bir ay zarfından kiracıya kiralananın satın alındığının bildirilmesi ve yine iktisaptan itibaren altı ayın hitamında davanın açılması gerekir. Olayımızda, iktisap 15/04/2010 tarihli olduğuna göre, ihbarın 15/05/2010 akşamına kadar davalıya tebliğ edilmesi zorunludur. Oysa iktisap ihbarı davalıya bir aylık süre geçtikten sonra 28/05/2010 tarihinde tebliğ edilmiştir. Bu durumda, yasanın aradığı bir aylık sürede ihbar şartı gerçekleşmediğinden, davanın reddine karar verilmesi gerekirken yazılı gerekçe ile davanın kabulü doğru değildir.
 
 ## Yargıtay 6. HD 2012/16220 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1049706800)
 
 Kiralayan durumunda olmayan malikin veya kiralananı sonradan iktisap eden yeni malikin önceden kiracıya ihbar göndererek kira paralarının kendisine ödenmesini istemesi bu ihbarın sonuçsuz kalması halinde yasal içerikli ihtarname tebliğ ettirmek suretiyle dava açması gerekir. Dava hakkına ilişkin bu husus mahkemece kendiliğinden gözönünde bulundurulmalıdır. Davacı yeni malik kiralananı satın aldığını davalı kiracıya ihbar etmemiş olduğundan kira alacaklarının kendisine ödenmesi talebi yerinde değildir.
 
 ## Yargıtay 6. HD 2012/16088 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1049684100)
+
 Kiralananın 3. kişiye satılması halinde, satış ile birlikte taşınmazda meydan gelen yarar ve zararlar alıcıya geçtiğinden, yeni malik satış tarihinden itibaren kira paralarının payı oranında kendisine ödenmesini talep edebilir. Önceki malik ile imzalanan kira sözleşmesindeki hükümler kiracı ve yeni malik arasında da bağlayıcıdır. Yeni malik iktisap nedeniyle kiralananın tahliyesini talep etmiş olsa da, kiralanan tahliye edilmedikçe kiracının sözleşmeden kaynaklanan yükümlülükleri devam eder. Kiralananın tahliyesi ise…
 
 ## Yargıtay 6. HD 2012/15762 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1057218300)
+
 6570 Sayılı Yasa kapsamına giren bir taşınmazı iktisap eden kimse dilerse eski malik ile kiracı arasında yapılmış sözleşmeye dayanarak sözleşmenin sonunda, dilerse Yasanın 7/d maddesinde öngörülen sürelerden yararlanarak ihtiyaç nedeniyle tahliye davası açabilir. Yeni malikin bu seçeneklerden hangisi yararına ise onu tercih etme hakkı vardır. 6570 sayılı Yasanın 7/c maddesine dayanması halinde yeni malikin kira akdinin sona erme tarihinden itibaren bir ay içinde dava açması gerekir.
 
 ## Yargıtay 6. HD 2012/14883 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1056755900)
 
 Mahkemece her ne kadar dosya kapsamına göre 11.04.2003 tarih ve 195 karar numaralı encümen kararına göre dava konusu taşınmazların davalıya ihale suretiyle verildiği, davacının bir an yeni malik olduğu düşünülse ve yeni malik olunsa dahi somut bir ihtiyaç sebebinin gösterilmesi gerektiği, fakat davacının ihtiyaç iddiasının soyut bir iddiadan öteye geçemeyeceği yerleşik Yargıtay kararlarından da anlaşılmakla, somut, samimi ve gerçekçi ihtiyaç sebebinin gösterilmemiş olması nedeniyle davanın reddine karar verilmiş ise de, esasen mahkemenin de kabulünde olduğu üzere dava konusu yerlerin davacı tarafından 2886 sayılı yasaya göre kiraya verilmiş oldukları ve en son 16.3.2004 tarihli 202 sayılı ... Belediyesi Encümen Kararı ile 18.4.2004 tarihinden itibaren sözleşmenin 1 yıl süre ile yenilenmiş olduğu, takip eden 18.4.2005 tarihinden itibaren de kendiliğinden bir yıl süreliğine uzamış olduğu anlaşılmaktadır. HMK.nun 33.maddesine göre bir davada olayları ortaya koymak taraflara, öne sürülen maddi olguların hukuki nitelendirilmesini yapmak, uygulanacak yasa maddelerini bulmak ve uygulamak hakime aittir.
 Nitekim davacı dava dilekçesinde kiralananın kira süresi bitmesi nedeniyle kiracının artık fuzuli şagil olduğundan tahliyesini istemekte olup, 5393 Sayılı Yasanın yürürlüğe girdiği 13.7.2005
@@ -60,18 +76,26 @@ tarihini izleyen 18.4.2006 tarihinden itibaren davalı söz konusu taşınmazlar
 
 ## Yargıtay 6. HD 2012/14796 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1056401500)
+
 6098 sayılı TBK.nun 310. maddesinin (B.K. 254/2) "Sözleşmenin kurulmasından sonra kiralanan herhangi bir sebeple el değiştirirse, yeni malik kira sözleşmesinin tarafı olur." hükmü gereğince yeni malik önceki malikle yapılan kira sözleşmesi ile bağlıdır.
 
 ## Yargıtay 6. HD 2012/11783 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1058440900)
 
 İcra takibinde ve davada dayanılan, karara esas alınan 1.4.2009 başlangıç tarihli ve bir yıl süreli kira sözleşmesi konusunda taraflar arasında bir uyuşmazlık bulunmamaktadır. Kira sözleşmesi önceki malikler ......ve arkadaşları tarafından kiralayan sıfatıyla imzalamış, icra takibi ise kiralananın bulunduğu taşınmazda 28.04.2011 tarihinde pay satın alan paydaşlardan ... tarafından yapılmış, davada ... tarafından açılmıştır. Dava hakkı kamu düzeni ile ilgili olup, mahkemece resen gözetilmesi gereken hususlardandır. Tahliye istekli takip yapma hakkı alacaklı sıfatıyla kiralayana ait olduğu gibi yeni malik sıfatıyla da yapılabilir. Ancak, kiralanan taşınmaz paylı mülkiyet hükümlerine tabi olup, yeni malik olan davacı pay ve paydaş çoğunluğuna sahip olmadığından tek başına tahliye isteyemez. Mahkemece tahliye isteminin aktif husumet yokluğu nedeniyle reddine karar verilmesi gerekirken, kabulune karar verilmesi doğru değildir.
 Öte yandan davacı icra takibinde tüm kira parasının tahsilini istemiş olup, kira parası alacağı bölünebilen alacaklardan olduğundan mahkemece her paydaşın kendi payına isabet eder oranda talepte bulunabileceği hususu üzerinde durulmadan alacağa ilişkin istemin de tümden kabulü yerinde değildir. Karar bu nedenlerle bozulmalıdır.
 
 ## Yargıtay 6. HD 2012/8412 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1053746700)
+
 Olayımıza gelince, davacı-yeni malik taşınmazı 17.5.2011 günü satın aldıktan sonra 1 aylık süresi içinde davalı-kiracıya 6.6.2011 günü tebliğ edilen ihtarname ile sözleşmeyi 6570/7d maddesi gereğince yenilemeyeceğini bildirdikten sonra sözleşmenin bitim tarihi olan 31.10.2011 den sonra 14.12.2011 tarihinde davayı açtığına göre, davanın süresinde açıldığının kabulü gerekir. Mahkemece davacının ihtiyaç iddiasının samimi olup olmadığı yönünde gösterdiği delillerin toplanıp, tanıkları dinlendikten sonra oluşacak sonuca göre bir karar verilmesi gerekirken davanın reddine dair hüküm kurulması doğru değildir.
 
 ## Yargıtay 6. HD 2012/6061 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/563960500)
 
 6570 Sayılı Yasa kapsamına giren bir taşınmazı iktisap eden kimse dilerse eski malik ile kiracı arasında yapılmış sözleşmeye dayanarak sözleşmenin sonunda, dilerse Yasanın 7 / d maddesinde öngörülen sürelerden yararlanarak ihtiyaç nedeniyle tahliye davası açabilir.
 
@@ -79,39 +103,57 @@ Yeni malikin bu seçeneklerden hangisi yararına ise onu tercih etme hakkı vard
 
 ## Yargıtay 6. HD 2012/4211 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/570039000)
+
 6570 sayılı yasa kapsamına giren kiralananı iktisap eden kimse dilerse eski malik ile kiracının yaptığı sözleşmeye dayanarak akdin hitamında isterse 6570 sayılı yasanın 7/d maddesindeki sürelerden yararlanarak kiracı hakkında ihtiyaç nedeniyle dava açabilir. Yeni malikin bu konuda seçimlik hakkı bulunmaktadır. Dava 6570 sayılı yasanın 7/d maddesine dayanıyorsa yeni malikin dava açabilmesi için iktisaptan itibaren 1 ay içinde kiralananı satın aldığını ihtiyacında kullanacağını kiracıya bildirmesi ve yine iktisaptan itibaren 6 ayın sonunda dava açması gerekir. Yeni malik seçimlik hakkını kullanarak davayı 6570 sayılı yasanın 7/d maddesine göre açmış ise anılan yasa maddesinde açıkça belirtildiği gibi sadece ihtiyaç sebebiyle yasada belirtilen sürelerden yararlanarak dava açabilir. Bu halde kiralanın olduğu gibi veya basit tadilatlarla ihtiyaca uygun olduğunun saptanmış olması gerekir.
 
 ## Yargıtay 6. HD 2012/3251 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/566810500)
 
 Davaya konu taşınmazın 27.1.2009 tarihinde davacı tarafından satın alındığı, taşınmazın dava dışı ... Kozmetik ve Gıda A.Ş tarafından 8.8.2008 başlangıç tarihli ve bir yıl süreli kira sözleşmesi uyarınca kullanılmakta olup, bir yıllık kira parası olan 56.640,00 TL nin peşin olarak ödenmiş olduğu konularında taraflar arasında uyuşmazlık bulunmamaktadır. Davacının iktisap tarihinden sonra taşınmazı kiracı olarak kullanan kişiye ihtar tebliğ ederek, iktisap tarihinden sonraki kira paralarının kendisine ödenmesini talep etmesi üzerine uyuşmazlık, eski ve yeni malik arasında eski malike ödenen kira bedellerinin sebepsiz zenginleşme hükümlerine göre talep edilip edilemeyeceği noktasında toplanmaktadır. Mahkemece her ne kadar “…dava konusu taşınmazın satışı yapılır iken kira geliri ile ilgili olarak taraflar arasında yapılmış olan herhangi bir sözleşmenin mevcut bulunmadığı, bu hali ile davacının kira isteme hakkına da sahip bulunmadığı..” gerekçesi ile davanın reddine karar verilmiş ise de, esasen kural olarak taşınmazın iktisabından sonraki döneme ait kira bedellerinin taşınmazı iktisap eden yeni malike ödenmesi gerekir.
 Ne var ki davalı tarafından kiralananın satımı sırasında içinde kiracı olduğu ve bir yıllık kiranın peşin olarak tahsil edildiğinin davacı tarafından bilinmekte olduğu savunulduğuna göre bu konuda ispat külfeti davalı tarafta olup, bu savunmanın yazılı belge ile ispat edilmesi gerekir. Bu nedenle mahkemece davalı tarafa bu konuda delil sunmak üzere süre verilerek delillerin toplanması ve oluşacak sonuca göre bir karar verilmesi gerekirken yazılı gerekçe ile davanın reddine karar verilmesi hatalı olmuştur.
 
 ## Yargıtay 6. HD 2011/11575 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1078374900)
+
 Davacı yeni malikin kiralananı satın aldığı tarihten önceki kira bedellerini talep edebilmesi için alacağın kendisine Borçlar Kanununun 162 ve devamı maddeleri gereğince temlik edilmesi gerekir. Davacı tarafından takibe konu alacağa ilişkin yazılı temlikname ibraz edilmediğine göre, davacı yeni malik ancak kiralananı iktisap ettiği tarihten sonraki kira bedellerini isteyebilir. Mahkemece, Borçlar Kanununun 183/1 maddesi hükmü de gözetilerek davanın reddine karar verilmesi gerekirken, yazılı gerekçe ile kabulüne karar verilmesi doğru değildir.
 
 ## Yargıtay 6. HD 2011/10939 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1079920600)
+
 Olayımıza gelince; taşınmaza iktisap eden yeni malikin 6570 sayılı "Gayrimenkul Kiraları" hakkındaki kanunun 7/d maddesindeki sürelerden yararlanarak dava açması halinde iktisap tarihinden itibaren (1) ay içerisinde kiracıya satın aldığını bildirmesi ve yine iktisaptan itibaren (6) ayın bitiminde dava açması gerekir. Olayımızda davacı taşınmazı 19/02/2010 tarihinde iktisap ettiğine göre, ihtarın 19/03/2010 akşamına kadar davalıya tebliğ edilmesi zorunludur. Zira kanun koyucu iktisap tarihinden itibaren ifadesiyle iktisap gününü de süreye dahil etmiştir. Borçlar Kanunu 75, 76, 77. maddeleri uyarınca sürenin hesaplanması gerekir. Anılan maddeler göz önünde tutulduğunda, 19/02/2010 tarihinde başlayan süre 19/03/2010 tarihinde cuma günü sona erecektir. Halbuki ihtar tebliği bu tarihten 1 gün sonra 20/03/2010 tarihinde yapılmıştır. Kamu düzenine ilişkin bu hususun mahkemece res'en nazara alınarak davanın esasına girilmeksizin reddi gerekirken yazılı şekilde karar verebilmesi doğru olmadığından kararın bozulması gerekmiştir.
 
 ## Yargıtay 6. HD 2011/10428 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1070486700)
 
 Davacı yeni malik, önceki malik kiralayan ile davalı arasında düzenlenen 01.12.1999 başlangıç tarihli kira sözleşmesi ile bu sözleşmenin tadil edildiği 06.02.2002 tarihli ek protokol gereğince kiralayanın sahip olduğu haklara sahip olmuştur. Diğer deyişle, davacı yeni malik sözleşmenin ve protokolün tarafı konumuna geldiğinden sözleşme gereğince önceki malikin ileri sürebileceği tüm hak ve yetkileri kiracıya karşı ileri sürebilir. Davalı ile davacı arasındaki uyuşmazlık 2006-2007 döneminde aylık kira parasının ne kadar olduğu,dolayısıyla bu döneme ilişkin davacının kira alacağının bulunup bulunmadığına ilişkindir.
 Kiralayan önceki malik tarafından açılan 2005-2006 dönemine ilişkin kesinleşmiş mahkeme kararı, kira tespit davası niteliğinde olmayıp alacak davası niteliğinde olduğundan, davacı yeni malik, bu mahkeme kararına dayanarak 2006-2007 dönemi kira parasının belirlenmesini isteyemeyecektir.Bu durumda, mahkemece taraflar arasında çekişmesiz olan 06.02.2002 tanzim tarihli ek protokol ile kararlaştırılan, 01.12.2001 tarihinden itibaren aylık net 3.300.000.000-TL kira parasına, her yıl DİE tarafından belirlenen TEFE oranı uygulanmak suretiyle dava konusu edilen 2006-2007 dönemi kira miktarı tespit edilmeli, bundan sonra davalının ödemeleri de dikkate alınarak,davacının alacağının bulunup bulunmadığı belirlenerek varılacak sonuca göre bir karar verilmesi gerektiği,maddi ve yasal olgular dikkate alınmadan yazılı şekilde karar verilmesinin doğru olmadığı bu defaki incelemeden anlaşılmakla davalının karar düzeltme isteğinin kabulüne karar verilmesi gerekmiştir.
 
 ## Yargıtay 6. HD 2011/9239 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1058673500)
+
 Olayımıza gelince;taraflar dava konusu edilen kiralanana ilişkin yazılı kira sözleşmesi sunmamışlardır. Davacının 573 ada 11 parselde bulunan mesken ve dükkandan oluşan 4 katlı binada önceden paydaş iken 11.8.2008 tarihinde yapılan taksim sonucu taşınmazın maliki olduğu anlaşılmaktadır. Uyuşmazlık, davada dayanılan 6570 Sayılı Kanunun 7/d maddesinin uygulama olanacağı bulunup bulunmadığı noktasındadır. Anılan maddeden yararlanabilmek için yeni malikin daha önceden taşınmazda paydaş olmaması gerekir. Taşınmazın tümünün davacıya geçmesi kendisine yeni malik sıfatını ve ona 6570 Sayılı Kanunun 7/d maddesinden yararlanma hakkını vermez. Bu husus kamu düzenine ve dava hakkına ilişkin olmakla mahkemece kendiliğinden gözetilmesi gerekir. Davacı, davada sözleşmeye de dayanmadığına göre davanın reddine karar verilmesi gerekirken, işin esası incelenerek yazılı şekilde tahliye kararı verilmesi hatalı görüldüğünden hükmün bozulması gerekmiştir.
 
 ## Yargıtay 6. HD 2011/4706 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1057975400)
 
 Konut veya işyeri ihtiyacına dayalı olarak açılacak tahliye davalarında kiralayanın dava hakkı mutlak olup bunun dışında malik ve yeni malikinde de dava açma hakkı bulunmaktadır. Yeni malikin dava açma hakkı 6570 sayılı yasanın 7/d maddesinde düzenlenmiştir. Anılan madde hükmüne göre bir taşınmazı medeni kanun hükümlerine göre iktisap eden kişinin de dava hakkı bulunmaktadır. Kural olarak taşınmaz mülkiyetinin kazanılması kanunda öngörülen istisnalar dışında ancak tescille mümkündür. 6570 sayılı yasanın 7/d taşınmazın Medeni Kanun hükümlerine göre iktisap edilmesi halini düzenlemiştir.
 
 ## Yargıtay 6. HD 2010/12991 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/17029000)
+
 Ancak üstü örtülü değildir. Bu durumda dava konusu kiralananın 6570 sayılı yasa kapsamında olmayıp, Borçlar Kanunu kapsamında adi kira hükümlerine tabi olduğunun kabulü gerekir. Dava, yeni malik sıfatıyla B.K.'nun 254. maddesi hükümlerine göre açılmış bulunduğundan feshi ihbar süresinin aynı yasanın 262. maddesi hükümlerine göre belirlenmesi gerekir.
 
 ## Yargıtay 6. HD 2010/7389 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1059932400)
 
 6570 Sayılı Yasa kapsamına giren bir taşınmazı iktisap eden kimse dilerse eski malik ile kiracı arasında yapılmış sözleşmeye dayanarak sözleşmenin sonunda, dilerse Yasanın 7/d maddesinde öngörülen sürelerden yararlanarak ihtiyaç nedeniyle tahliye davası açabilir. Yeni malikin bu seçeneklerden hangisi yararına ise onu tercih etme hakkı vardır. 6570 sayılı Yasanın 7/d maddesine dayanması halinde yeni malikin iktisap günü de dahil olmak üzere iktisap tarihinden itibaren bir (1) ay içinde kiralananı satın aldığını ve ihtiyacı olduğunu kiracıya bildirmesi ve yine iktisaptan itibaren iktisap günü dahil altı (6) ayın sonunda dava açması gerekir. Davanın altı ayın sonunda hemen açılması şart olmayıp sözleşme sonuna kadar açılması mümkündür. Ancak iktisabı izleyen bir ay içerisinde ihtar tebliği zorunlu
 
@@ -119,10 +161,14 @@ olup bunun sonradan giderilmesi mümkün değildir. 6570 sayılı Yasanın 7/d m
 
 ## Yargıtay 11. HD 2010/3508 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1015072800)
+
 Dava konusu yer 6570 Sayılı Kanun' a tabi bir yer olup yeni malik dava dışı şirketin 31.12.2004 olan iktisap tarihinden itibaren bir ay içinde hem keşide edip hem de tebliğini sağlayacağı bir ihtarname ile bu yeri satın aldığını, bu yere ihtiyaç duyduğunu bildirmesi, iktisaptan itibaren 6 ay beklemesi ve 6 ay sonra tahliye davası açması ya da kira sözleşmesinin sona ermesini beklemesi gerekmektedir. Yeni malik bu olanaklardan ilkini kullanmak istemiş ve 04.01.2005 tarihli ihtarnameyi keşide edip davacıya göndermiş, ihtarname 17.2.2005 tarihinde davacıya tebliğ edilmiş olup,tebliğ işlemi bir aylık sürede gerçekleşmemiştir.
 Bu durumda, yeni malik kira sözleşmesi ile bağlı olup,iktisap ve ihtiyaç nedeniyle tahliye isteme hakkını yitirmiş,eski malik davalı kira sözleşmesinin tarafı olmaktan çıkmıştır.Yeni malikin iş merkezinde yaptığı tadilat nedeniyle,işyerinin de etkilendiğini,faaliyet yapamaz hale geldiğini ileri sürüp,işyerini yeni malike 20.6.2006 tarihinde teslim eden davacının BK.nun 250 nci maddesinde yazılı usul ile haklarını kullanması, gerektiğinde muarazanın önlenmesi davası açmak gibi yasal yollarla haklarını yeni malike karşı ileri sürmesi olanağına sahiptir.Davacının 1 yıl 5 ay 19 gün yeni malike kira ödeyip onun kiracısı olmasından sonra işyerinden çıkmak zorunda kalmasının nedeni davalının satımı olmayıp,yeni malikin BK.nun 249 ncu maddesine aykırı olan davranışlarıdır.Bu açıklamalar ve olgular ve ayrıca satıma yasal bir engel bulunmaması, sözleşmede satıma engel bir hüküm konulmaması, kira sözleşmesinin tapuya şerh edilmemesi karşısında ,davacının menfi zarara ilişkin istem bölümünü davalı eski malike değil yeni malike ileri sürmesi mümkün olup, davanın bu istem yönünden reddi gerekirken kabulü doğru olmamıştır.
 
 ## Yargıtay 6. HD 2010/3227 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/632539600)
 
 Takipte ve davada dayanılan ve karara esas alınan 15.03.2008 başlangıç tarihli ve kira müddeti 01.06.2008 olarak kararlaştırılan kira sözleşmesi hususunda taraflar arasında bir uyuşmazlık bulunmamaktadır. Kira sözleşmesi gereğince yıllık kira bedelinin 4.200,00 TL olduğu, 2.000,0 TL sinin peşin ödendiği, 500,00 TL sinin 30.03.2008 tarihinde ödeneceği, kalan kısmın ise aylık 350,00 TL olarak ödeneceği, Hususi Şartlar 5. maddesinde kiranın aylık, peşin ve her ayın ilk beş gününde ödeneceği 19. maddesinde bir kira ödenmediği takdirde diğer kiraların muacceliyet kesbedeceği, 2. maddesinde yıllık kira artışının %15 olduğu kararlaştırılmıştır.Davacı vekili, 2008 yılı kirasından 2.200,00 TL ile 2009 yılı kirası olan 4.830,00 TL' nın ödenmediğinden bahisle borçlu hakkında 09.04.2009 tarihinde ... 1.İcra Müdürlüğü’nün 2009/ 3630 sayılı dosyası ile icra takibi başlatmıştır. Borçlu tarafından kira süresi içinde kira bedellerinin alacaklının işçisine ödendiği, yazılı belge alınmadığı, dava konusu edilen kiralananın üçüncü kişiye satıldığı belirtilerek itiraz edilmiştir.
 Yargılama aşamasında davalı tarafından ibraz edilen tapu kaydına göre 16 numaralı bağımsız bölümün davacı tarafından 29.08.2008 tarihinde dava dışı ...'ye satıldığı, yeni malik ... ile davalı arasında 01.09.2008 başlangıç tarihli ve iki yıl süreli kira sözleşmesi yapıldığı anlaşılmaktadır. İcra takibi ise yeni malik tarafından değil taşınmazını satan kiralayan tarafından yapılıp dava da yine onun tarafından açılmıştır. Davacının satış tarihine
@@ -131,14 +177,20 @@ kadar istenebilir hale gelen kira parasını talep etmesinde bir usulsüzlük bu
 
 ## Yargıtay 11. HD 2010/2691 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1014949100)
+
 Taraflar arasındaki kira akdi incelendiğinde akdin başlangıç olarak 5 yıl süreli olarak yapıldığı, bu kira dönemindeki her yıla ilişkin kira bedelinin sözleşmede belirtilmiş bulunduğu anlaşılmakla davanın dayanağını oluşturan 9/2. maddesi hükmü ile taşınmazın üçüncü kişiye satımı veya devri halinde dahi kiracının bu durumdan olumsuz şekilde etkilenmeyeceği, yeni malikin bu durumu kabul ederek davacının kiracılık sıfatı, kira sözleşmesi ve kira sözleşmesindeki süre ile ücrete ilişkin hükümlerle bağlı olmasının amaçlandığının kabulü gerekir. Bu yönde hüküm olmasa bile yeni malikin kira akdini sona erdirmek istediği takdirde gerek Borçlar Kanunu’nun 254/2, gerekse 6570 sayılı Kanun’un 7/d maddeleri hükümlerine uygun şekilde kira akdini feshetmesi mümkün bulunacağından sözleşmedeki sözkonusu hükmün davalıya kiralananın satılması halinde yeni malike sadece kira akdinin varlığını bildirimle sınırlı olarak bir borç yüklediğinin kabulü doğru değildir.
 Bu durumda, mahkemece davalının sözleşmeden doğan yükümlülüğüne aykırı davranması nedeniyle davacının uğradığı zararın tazminine karar verilmesi gerekirken yazılı gerekçe ile davanın reddi doğru görülmemiş, kararın bu nedenle bozulması gerekmiştir.
 
 ## Yargıtay 6. HD 2010/2723 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/630321300)
+
 6570 Sayılı Yasa kapsamına giren bir taşınmazı iktisap eden kimse dilerse eski malik ile kiracı arasında yapılmış sözleşmeye dayanarak sözleşmenin sonunda, dilerse Yasanın 7/d maddesinde öngörülen sürelerden yararlanarak ihtiyaç nedeniyle tahliye davası açabilir. Yeni malikin bu seçeneklerden hangisi yararına ise onu tercih etme hakkı vardır. 6570 sayılı Yasanın 7/d maddesine dayanması halinde yeni malikin iktisap günü de dahil olmak üzere iktisap tarihinden itibaren bir ay içinde kiralananı satın aldığını ve ihtiyacı olduğunu kiracıya bildirmesi ve yine iktisaptan itibaren iktisap günü dahil altı ayın sonunda dava açması gerekir. Davanın altı ayın sonunda hemen açılması şart olmayıp sözleşme sonuna kadar açılması mümkündür. Ancak iktisabı izleyen bir ay içerisinde ihtar tebliği zorunlu olup, bu eksikliğin sonradan giderilmesi mümkün değildir.
 
 ## Yargıtay 1. HD 2010/1696 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/78744900)
 
 Bilindiği üzere, 6570 Sayılı Yasanın 7. maddesi uyarınca, yeni malikin satın almadan itibaren bir aylık yasal süresi içinde kiracıya bu yeri satın aldığını ve kira ilişkisini devam ettirmek istemediğini bildirmesi halinde 6 ay sonra tahliye davası açabileceği kuşkusuzdur.
 

@@ -21,6 +21,8 @@ uyari: "Derleyenin seçtiği alıntılardır; kararın tamamı değildir. Künye
 
 ## Yargıtay 3. HD 2022/2605 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/781105300)
+
 TBK’nın 316. madde hükmü uyarınca; kiracı kiralananı kira süresi boyunca tam bir ihtimam dairesinde kullanmak zorundadır. Bu itibarla kiralananın aynına veya kiraya verenin hukukuna zarar verme olgusu akde aykırılık sayılır. Anılan madde hükmü gereğince, konuta çatılı iş yeri kirasında akde aykırılıktan dolayı kiracının tahliyesine karar verilebilmesi için, **kiracıya akde aykırı davranışına son vermesi hususunda kiraya veren tarafından süreli bir ihtar tebliğ ettirilmesi ve tanınan bu süre içerisinde de akde aykırılığın giderilmemiş olması gerekir. Diğer kira ilişkilerinde ise, kiraya veren, kiracıya önceden bir ihtarda bulunmaksızın, yazılı bir bildirimle sözleşmeyi hemen feshedebilir**.
 
 ## Antalya BAM 6. HD 2019/1061 K.
@@ -32,5 +34,7 @@ TBK’nın 316. madde hükmü uyarınca; kiracı kiralananı kira süresi boyunc
 Kiracının binanın arka cephesinde bulunan bağlantı kirişini söküp binanın statiğine zarar vermesi, kiralanan depoya usulsüz bir şekilde komşu parselde yer alan iş yerinden elektrik hattı çekmesi TBK 316/3 değil 316/2 ihlali olup kiracıya 30 gün süre verilmelidir.
 
 ## Yargıtay 3. HD 2025/5226 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1183937800)
 
 … ihtarnamede akde aykırılığın giderilmesi için **en az otuz gün süre verilmesi zorunlu olup bu süre sözleşmeyle kiracı aleyhine olacak şekilde azaltılamaz**.

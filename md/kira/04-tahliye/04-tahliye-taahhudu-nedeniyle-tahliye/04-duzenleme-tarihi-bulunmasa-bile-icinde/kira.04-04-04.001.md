@@ -21,6 +21,8 @@ uyari: "Derleyenin seçtiği alıntılardır; kararın tamamı değildir. Künye
 
 ## Yargıtay 3. HD 2023/168 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/979779900)
+
 Bölge Adliye Mahkemesinin yukarıda tarih ve sayısı belirtilen kararıyla; takibe dayanak yapılan ve hükme esas alınan, 15.01.2020 başlangıç tarihli ve 1 yıl süreli, çelik çatılı kapalı depo işyeri niteliğindeki kira sözleşmesi hususunda taraflar arasında herhangi bir uyuşmazlık bulunmadığı, davalı kiracı şirketin adi yazılı olarak 14.02.2020 tarihinde düzenlediği tahliye taahhütnamesi ile kiracı olarak oturduğu yeri 15.01.2021 tarihinde tahliye edeceğini kabul ve taahhüt ederek taahhütnameyi imzaladığı, **kural olarak kira ilişkisi kurulduktan sonra verilen tahliye taahhütnamesinin kiracının serbest iradesi ürünü olduğunun kabul edileceği**, davacı kiraya veren şirket vekilinin 14.02.2020 düzenleme, 15.01.2021 tahliye tarihli, tahliye taahhütnamesine dayanarak yasal süresinde tahliye talepli icra takibi başlattığını, **kira sözleşmesinin süresinin sözleşmenin taraflarınca her zaman uzaltılıp kısaltılabileceğini**, kiracı tarafından, tarih yazılmadan boş kağıda, beyaza imza atılması halinde boş kağıdın üzerinin kiraya veren tarafından nasıl ve ne şekilde doldurulacağının imza eden kiracı tarafından kabul edildiğinin kabulü gerektiği, tahliye taahhütnamesinin verildiği tarihten
 itibaren 6098 Sayılı TBK’nın 39 uncu maddesi gereğince taahhütnamenin iptali için bir dava da açılmadığı, **tanzim tarihi bulunmasa da tahliye taahhüdünde “içinde kiracı olarak bulunduğum” ibaresinin yazılması nedeni ile kira sözleşmesinden daha sonra düzenlendiği anlaşılan tahliye taahhüdünün geçerli olduğu** gerekçesiyle davalı tarafın istinaf başvurusunun esastan reddine karar verilmiştir.
 

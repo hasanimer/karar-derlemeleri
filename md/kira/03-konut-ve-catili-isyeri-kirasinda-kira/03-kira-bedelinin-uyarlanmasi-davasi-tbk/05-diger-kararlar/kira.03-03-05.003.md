@@ -23,10 +23,14 @@ uyari: "Derleyenin seçtiği alıntılardır; kararın tamamı değildir. Künye
 
 ## Yargıtay 14. HD 2009/5067 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/850177900)
+
 Taraflar arasında 29.07.2006 tarihli ve on yıllık süreli hasılat kira sözleşmesi tartışmalı değildir. Burada hemen belirtilmelidir ki, sözleşme hukukunda asıl olan sözleşmeye bağlılık (Ahde Vefa - Pacta Sund Servande) ilkesidir. Bunun anlamı, sözleşmeye yapıldığı andaki gibi uyulmasıdır. Sözleşme koşulları borçlu için sonradan ağırlaşmış, kararlaştırılan edimler dengesi sonradan çıkan olaylar nedeniyle değişmiş olsa bile borçlu sözleşmedeki edimini aynen ifa etmelidir. Ancak, sözleşmenin yapıldığında karşılıklı edimler arasında olan denge sonradan şartların olağanüstü değişmesiyle büyük ölçüde tarafların biri aleyhine katlanılamayacak derecede bozulabilir. İşte bu durumda sözleşmeye bağlılık ve sözleşme adaleti ilkeleri arasında bir çelişki hasıl olur ve artık bu ilkeye sıkı sıkıya bağlı kalmak adalet, hakkaniyet ve objektif hüsnüniyet (TMK m.4, 2) kaidelerine aykırı bir durum yaratır hale gelebilir. Hukukta bu zıtlık, sözleşmenin değişen şartlara uydurulması ilkesi(Clausula Rebus Sic Stantibus-Beklenmeyen Hal Şartı) ile giderilmeye çalışılmaktadır.
 Tarafların iradelerini etkileyip sözleşmeyi yapmalarına neden olan şartlar daha sonra önemli surette değişmişse artık taraflar o akitle bağlı tutulamazlar, değişen koşullar karşısında TMK’nun 2. maddesi uyarınca sözleşmenin yeniden düzenlenmesi imkanı hasıl olur. Önceden görülmeyen değişikliklerin borcun ifasını güçlendirmesi halinde “işlem temelinin çökmesi” gündeme gelir. İşlemin temelinin çöktüğünü kabul eden hakim, duruma göre alacaklı lehine borçlunun edimini yükseltebileceği gibi, borçlu lehine onun tamamen veya kısmen edim yükümlülüğünden kurtulmasına karar vermek suretiyle sözleşmeyi değişen şartlara uydurur. Bir başka deyişle sözleşmeye müdahale eder. İşlem temelinin çöküşüne ilişkin uyuşmazlıkların giderilmesinde ... olarak TMK’nun 1, 2, ve 4. maddelerinden yararlanılacaktır. İşlem temelinin çöktüğünün dikkate alınması dürüstlük kuralının gereğidir.
 
 ## Yargıtay 13. HD 2008/14855 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/838116700)
 
 Bu tür davalarda hakimin gözönünde tutacağı temel esaslar da genel olarak şunlar olabilir: Sözleşmeye bağlılık ve saygı esastır. Uyarlama daima yardımcı bir çözüm yolu olarak düşünülmelidir. Karar verilirken sözleşmeye yönelik ve bağlantılı değerlendirme yapılmalı özellikle tarafların farazi iradeleri, yani taraflar sözleşmede açık kalmış hukuki meseleyi sözleşmenin inikadı sırasında düzenlemiş olsalardı doğru ve makul düşünen taraflar olarak neyi kararlaştırmış olabileceklerinin tespitine önem vermelidir. Somut sözleşmenin özelliği, kira parasının yıllık peşin olarak ödeneceğinin kararlaştırılması, diğer koşullar, sözleşme süresi, beklenilmeyen ekonomik değişiklikler (enflasyon, devalüasyon, kiralananın nitelikleri, sözleşmenin amacına aykırı olmayacak biçimde her iki tarafın menfaatleri gibi tam objektif ve sübjektif hal ve şartlar tartışılıp kıymetlendirilmeli, sonuçta uyarlama yapılması kanaatine varılırsa, hakim, sözleşmedeki intibak boşluğunu hak nesafet, doğruluk, dürüstlük kuralları (M.K. 2., 4. md) ışığında, kanun boşluğunda olduğu gibi
 
@@ -35,10 +39,14 @@ Gerçekten de uzun bir süreyle kira akdine bağlanmış kiracı ve kiralayanın
 
 ## Yargıtay 13. HD 2008/4872 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/835244900)
+
 Dava konusu olayda mahkemece kira bedelinin 1.500,00 YTL olarak uyarlanmasına karar verilmişse de, uyarlama davalarında dikkate alınması gereken, az yukarda açıklanan kural ve yöntemlerin gözetilmediği, hükme esas alınan bilirkişi raporunda genel olarak, “işyerlerine olan ihtiyacın artmış olması nedeniyle işyeri kiralarının da bu talepler doğrultusunda arttığı” hususundan hareketle uyarlama koşullarının oluştuğunun kabul edildiği anlaşılmaktadır. Eksik incelemeyle ve kira tespitine ilişkin esas ve usullere göre uyarlamaya karar verilemez.
 O halde mahkemece yukarıda geniş şekilde açıklanan uyarlama yöntem ve kurallarının ışığı altında, sözleşmedeki özel intibak hükümleri, kiralananın niteliği, kullanma alanı, konumu, bölgede kira parasını da etkileyecek normalin üstündeki imar ve ticari gelişmeler gibi değişiklikler, emsal kira paraları, vergi ve amortisman giderlerindeki artışlar araştırılıp, değerlendirilerek, sonuçta işlem temelinin çöktüğü, sözleşmedeki çıkar dengesinin katlanılamayacak derecede davacı aleyhine bozulduğunun benimsenmesi halinde kira bedelinin uyarlanmasına karar verilmesi gerekirken, eksik inceleme ile yazılı şekilde hüküm kurulmuş olması, usul ve yasaya aykırı olup, kararın bu nedenle bozulması gerekirken Dairemizce sehven onandığı bu kez yapılan inceleme ile anlaşıldığından, davalının karar düzeltme talebinin kabulü ile Dairemize ait 9.10.2007 tarihli 2007/6943 E. 2007/11857 K. sayılı “onama” ilamının kaldırılmasına, hükmün açıklanan nedenlerle bozulmasına karar vermek gerekmiştir.
 
 ## Yargıtay 13. HD 2008/4037 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/838299000)
 
 Bu davalarda hakimin gözü önünde tutacağı temel esaslarda genel olarak şunlar olabilir: Sözleşmeye bağlılık ve saygı esastır. Uyarlama daima yardımcı bir çözüm olarak düşünülmelidir. Karar verilirken sözleşmeye yönelik ve bağlantılı değerlendirme yapılmalı,
 
@@ -48,28 +56,40 @@ Aksinin düşünülmesi halinde sözleşmenin fesih edildiği yeni bir sözleşm
 
 ## Yargıtay 13. HD 2008/3128 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/834787400)
+
 Yukarıda geniş şekilde açıklanan uyarlama yöntem ve kurallarının ışığı altında mahkemece yapılacak ...; yerinde uygulama yapılıp, uzman bilirkişiler düşüncesinden de yararlanmak suretiyle; sözleşmenin yapıldığı günden dava tarihine kadar geçen süre içinde, ülkemizin yerleşmiş ekonomik koşullarının etkisiyle sözleşmedeki yabancı paranın (dövizin) Türk parası karşısında normal artışlarla ulaşması gereken değeri bulunmalı, yine dövizin mevcut durumu belirlenerek iki değer arasındaki farklılık miktarı, sözleşmedeki özel hükümler, kiralananın niteliği, kullanma alanı, konumu, bölgede kira parasını da etkileyecek normalin üstündeki imar ve ticari gelişmeler gibi değişiklikler, emsal kira paraları, vergi ve amortisman giderlerindeki artışlar ile somut olayda görülebilen objektif etkenlerle karşılaştırılıp, değerlendirilmeli, sonuçta işlem temelinin çöktüğü, sözleşmedeki çıkar dengesinin katlanılamayacak derecede davacı aleyhine bozulduğunun benimsenmesi halinde, kiracının ne miktar kira parasından sorumlu olacağı belirlenmeli, böylece sözleşmedeki kira parasını, tarafların amacına uygun objektif iyiniyet, hak ve nesafet (MK Md.4, 2/1) kurallarının elverdiği ölçü ve düzeyde ve döviz olarak
 yapılan sözleşmenin döviz cinsinden uyarlanması gerektiği kuralıda dikkate alınarak uyarlanmalıdır.
 
 ## Yargıtay 13. HD 2008/1506 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/832936400)
+
 Taraflar arasında 1.1.1997 tarihli 7 yıl süreli kira sözleşmesinin yapıldığı, kira sözleşmesinde her yıl kirasının ayrı ayrı miktar olarak tespit edilmiş olduğu tartışmasızdır. Davalı-karşı davacılar her ne kadar yıllar itibarı ile ayrı ayrı tespit edilen miktarların % 50 artışla bulunduğunu bildirmiş ise de esasen kira sözleşmesinde artış maddesi bulunmamaktadır. Davalılar -karşı davacıların açtığı uyarlama davası sonucu kesinleşen kararla 1.1.997 tarihinden itibaren net kiranın 1.800,00 YTL olduğu anlaşılmaktadır. Uyarlama davası ile kira sözleşmesinin bedel ile ilgili maddesine müdahale edilmiştir. Davalılar-karşı davacılar tarafından sonraki dönemler için yeniden bir tespit davası açılmadığına göre kira bedelinin sonraki dönemler için de 1.800,00 YTL olduğunun kabulü gerekmektedir.Hal böyle olunca mahkemece 1.800,00 YTL üzerinden aylık ödeme yapılması gerektiği gözetilerek hüküm kurulması gerekirken, mahkemece artış maddesi olduğu kabul edilerek düzenlenen bilirkişi raporuna itibar edilerek hüküm kurulmuş olması usul ve yasaya aykırı olup bozma nedenidir.
 
 ## Yargıtay 13. HD 2008/1104 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/834544800)
 
 Davalı kiracının açtığı ilk uyarlama davası sonucu kira bedeli davanın açıldığı 1.5.2001 tarihindeki şartlara göre uyarlanmıştır. İstisnai bir yol olan ikinci uyarlama davasının kabul edilebilmesi için de ilk davanın açıldığı tarihten bu davanın açıldığı tarihe kadarki sürede ekonomik krizde sona erdiğine göre, uyarlamayı gerektirecek ekonomik, çevresel ve sosyal şartlarda taraflar arasında oluşturulan ekonomik dengeyi bozan, dolar olarak belirlenen kiranın düşük kalmasına neden olan bir değişikliğin ortaya çıkması ve bu dengesizliğin davacı için çekilmez aşırı bir boyutta olması gerekir. Mahkemece hükme esas alınan bilirkişi raporunda bu hususlar üzerinde durulup, 2435 dolar olarak uyarlanan kiranın 1.5.2001 tarihinde ve bu davanın açıldığı tarihte kaç lira olduğu çevrede kirayı etkileyen ne gibi gelişme ve değişmeler olduğu açıklanıp irdelenmemiş, sadece kurlarındaki artışın yetersiz kaldığından bahisle kiranın uyarlanması gerektiği sonucuna gidilmiştir. Bilirkişilerin bu raporları açıklanmalı ve gerekçeli olmayıp hüküm kurmaya yetersizdir. Böyle bir rapora dayanılarak hüküm kurulamaz.
 Öte yandan ilk uyarlama kararı ile, sözleşmenin 4. maddesinin her yıl için belirlenen aylık kiraların belirlenmesine dair kararlaştırma ortadan kalktığı için, mahkemece, ancak dava tarihi itibariyle kiranın uyarlanmasında karar verilebilir. Dava tarihinden sonraki yıllar kirası hakkında ve sözleşmedeki ortadan ... hükmü canlandıracak şekilde karar verilmeside doğru değildir. Öyle olunca mahkemece yukarıdaki açıklamalar doğrultusunda yeni bir uzman bilirkişi heyetinden 1.4.2001 tarihinden bu davanın açıldığı tarihe kadar uyarlama şartlarının gerçekleşip gerçekleşmediği şayet gerçekleşmiş ise dava tarihi itibariyle aylık kiranın kaç dolar olabileceği hususunda açıklamalı gerekçeli ve denetime elverişli rapor alınarak sonucuna uygun karar verilmelidir. Aksi düşüncelerle yazılı şekilde karar verilmesi usul ve yasaya aykırı olup, bozmayı gerektirir.
 
 ## Yargıtay 13. HD 2008/647 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/833992900)
+
 Öyle olunca davacıların iddiaları doğrultusunda, davalı tarafından, belirlenen ve 17.4.2006 tarihinde başlayan 4.yıl yıllık kira bedelinin sözleşme hükümlerine ve iyiniyet kurallarına uygun olarak belirlenip belirlenmediği araştırılmadır. Bu amaçla davacıların Yeraltı Otoparkına ait İşletme defter ve kayıtları üzerinde ve mahallinde inceleme yaptırılarak, İl Trafik komisyonunun 22.6.2004 tarihli kararı ile tek yön uygulamasına geçiş nedeni ile otoparka giriş-çıkışın anılan tarih ve önceki durumunun piyasa koşullarına uygun olup olmadığı, trafik akışının azalmasına etki oranı araçların otoparka giriş-çıkışlarına ait saat, gün, aylık abonman olarak kesilen fişler incelenerek davacıların ödemeleri gereken işletme kira bedeli belirlenmelidir. Böylece davalının sözleşmeden kaynaklanan yetkisini kullanırken olması gereken özen borcunu yerine getirip getirmediği, davacıların aleyhine kötüye kullanıp kullanmadığı da araştırılmalıdır. Hemen belirtmek gerekir ki uyarlama davalarında bir önceki dönem ödenen kira bedelinin altında bir bedelle uyarlamaya karar verilmeside olanaklı değildir.
 Mahkemece, yukarıda açıklanan ilkeler doğrultusunda bir araştırma ve inceleme yapılmadan eksik inceleme ile soyut bilirkişi raporu esas alınarak yazılı şekilde hüküm tesisi usul ve yasaya aykırı olup, bozma nedenidir.
 
 ## Yargıtay 13. HD 2007/13396 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/840577000)
+
 Dava sözleşmede kararlaştırılan kira bedelinin uyarlanması davasıdır. Taraflar arasında düzenlenen 01.10.1999 başlangıç tarihli kira sözleşmesinde 16 dönüm boş arsa, 30 yıllığına, yıllık 12.000.000 TL kira bedeli karşılığında ve akaryakıt ve LPG istasyonu ve tesisleri olarak kullanılmak üzere davalılara kiraya verilmiş, sözleşmenin ... şartlar 2. maddesinde kullanım amacına uygun tesisin davalılar tarafından kurulacağı kabul edilmiştir. Bu kararlaştırmaya uygun olarak tesisin kurulup davalılar tarafından işletildiği hususunda uyuşmazlık bulunmamaktadır. Buna göre sözleşmenin karma akit olduğuna dair mahkemenin tesbitinde de isabetsizlik bulunmamaktadır. Ancak mahkemece dairemizin 2002/12997 E 2003/1639 K sayılı ilamına dayanılarak karma akitlerde uyarlama istenemeyeceği gerekçesi ile davanın reddine karar verilmiş ise de; anılan karar inşaatı öngörülen sürede tamamlamayan kusurlu tarafın uyarlama isteyemeyeceğine ilişkin olup dava konusu uyuşmazlığa emsal olabilecek nitelikte değildir. Bu durumda mahkemece; uyarlama şartlarının olup olmadığı araştırılarak sonucuna göre bir karar verilmesi gerekirken yazılı şekilde red kararı verilmesi usul ve yasaya aykırı olup bozmayı gerektirir.
 
 ## Yargıtay 13. HD 2007/11282 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/839730200)
 
 Uzun yıllardır yaşadığımız enflasyon, devalüasyon gibi nedenlerle fiyat artışları, Türk parasını yabancı paralar karşısındaki değerinin düşmesi nedeniyle, taşınmaz sahiplerini kiranın düşük kalmasını önlemek amacı ile taşınmazlarını dövizle kiraya vermeye, yani kira bedelinin dövizle belirlenmesine yönlendirmiştir. Bu da zamanla ve bilhassa ekonomik krizler sonucunda huzursuzluklara yol açmıştır. Döviz üzerinden yapılan sözleşmelerde, sonradan dövizle yapılan belirlemenin uyarlanabilmesi için dövizle meydana gelen artışın önceden öngörülebilmemesi, meydana gelen artış nedeniyle kiranın çekilmez hal alması gerekir. Ülkemizdeki uzun yıllar yaşanan ekonomik kriz nedeniyle dövizde ve bilhassa sözleşmenin düzenlendiği 2000 yılı kasım ayında ortaya çıkan belirtiler nedeniyle dövizin yükseleceğinin öngörülemeyeceğini söylemek ve kabul etmek mümkün değildir. Sözleşme düzenlenirken davacı taraf öngürülü davranmamıştır. Öte taraftan mahkemenin yaptırdığı
 
@@ -77,10 +97,14 @@ bilirkişi incelemesi sonucu düzenlenen bilirkişi raporunda belirlenen ve hük
 
 ## Yargıtay 13. HD 2007/11007 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/839462200)
+
 Taraflar arasında düzenlenen 1.6.2002 başlangıç tarihli ve 5 yıl süreli aylık 900.00 YTL bedelli kira sözleşmesinde yıllık artış oranının %55 olarak kararlaştırıldığı, ... bayii olarak mecurda bulunan davacının, davalı tarafından aleyhine açılan tahliye davası sırasında düzenlenen 20.10.2003 tarihli protokolle de yıllık %55 artış oranını kabul ettiği ve bu suretle tahliye davasının davalı tarafça takip edilmeyerek açılmamış sayılmasına karar verildiği taraflar arasında uyuşmazlık konusu değildir. Taraflar arasındaki uyuşmazlık olayda uyarlama koşullarının oluşup oluşmadığı, oluşmuş ise aylık kira parasının ne kadar miktarda uyarlanacağı hususundadır. Hemen belirtmek gerekirki davacının kira sözleşmesini serbest iradesi ile imzaladığı sabittir. Öte yandan kiralananda ... bayii olarak faaliyet gösteren davacının tacir olduğuda kuşkusuzdur. Tacir olması nedeniyle basiretli tacir gibi davranma yükümlülüğünde bulunan davacı kendi serbest iradesi ile sözleşmedeki yıllık %55 artış oranını kabul ettiği gibi 20.10.2003 tarihli protokolde yine %55 artış oranını kabul etmiştir.
 Aleyhine açılan tahliye davası sonunda taşınmazdan tahliyesine karar verilen davacı, kira parasındaki yıllık %55 artış oranını tekrar kabul ederek taşınmazda kiracı olarak bulunma yönününde tercihte bulunmuştur. Açıklanan bu hususlar birlikte değerledirildiğinde olayda öngörülmezlik şartı gerçekleşmediği gibi uyarlama koşullarınında oluşmadığının kabulü gerekir. Mahkemece değinilen bu yön gözetilerek davanın reddine karar verilmesi gerekirken yazılı şekilde hüküm kurulması usul ve yasaya aykırıdır. Bozmayı gerektirir.
 
 ## Yargıtay 13. HD 2007/6136 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/839604700)
 
 Mahkemece 15.3.2002 tarihli kararla yıllık kira bedelinin 24.8.1999 tarihi itibarıyla 601.812 Amerikan Doları olarak uyarlanmasına,18.maddedeki toplantı salonunun kullanılması ile ilgili olarak ,20 toplantıya kadar bedelsiz kullanma,sonrası için %50 indirimli olarak kullanılması olarak uyarlanmasına karar verilmiş,kararın taraflarca temyizi üzerine dairenin 2002/7972-1225 esas ve karar sayılı ve 15.11.2002 tarihli bozma ilamında özetle;davacının tüm davalının sair temyiz itirazlarının reddine, uyarlama davası ile kira parasının günün ekonomik koşullarına intibak ettirilmesi sağlanmış olup,sözleşmenin kira parası dışındaki diğer maddelerinde değişiklik yapılmasının usul ve yasaya aykırı olması nedeniyle kararın bu yönüyle bozulmasına karar verilmiştir.Mahkemece kesinleşen bozma ilamına uyularak verilen 30.5.2005 tarihli kararla kira parasının uyarlanmasına ve sözleşmenin kiralayanın tesisten faydalanmasına ilişkin 15. ve 16. maddeleri ili ilgili evvelce verilen karar bozma ilamına konu olmayarak kesinleştiğinden bu hususta yeniden hüküm kurulmasına yer olmadığına ,18.madde ile ilgili uyarlama talebinin reddine karar verilmiştir.Mahkemece kararının tebliği safhasında, davalı vekili
 15.11.2006 tarihli tavzih talepli dilekçesi ile taraflar arasındaki kira sözleşmesinde kararlaştırılan yıllık %7 kira artışının uyarlanan bedel üzerinden ve sonraki yıllar için de uygulanması ve kira bedelinin ödenmemesi halinde
@@ -90,9 +114,13 @@ uyarlanmasına ilişkin kararı ,dairenin bozma ilamı kapsamında kalmadığın
 
 ## Yargıtay 13. HD 2006/16176 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/842130000)
+
 HUMK'nun 76. maddesi uyarınca maddi vakıaları bildirme görevi taraflara, olayın hukuki nitelendirmesini yapma ve uygulanacak kanun maddesini bularak olaya uygulama yetkisi mahkemeye aittir.Davacı dava dilekçesinde, kiralanan taşınmaz için ödediği kira bedelinin emsallerine göre çok yüksek olduğunu, günün ekonomik koşulları karşısında belirlenen kira bedelini ödemesinin mümkün olmadığını belirterek uyarlama talebinde bulunmuş mahkemecede davacının uyalama talebinde bulunduğu kabul edilmiştir. Davacı bu şekilde uyarlama talebine gerekçe olara ekonomik koşulları da ileri sürmüştür. Bu itibarla dava dilekçesinde ileri sürülen maddi olgularan ekonamik gerekçelere ve emsal kiralara dayandırıldığı ve bu suretle kira bedelinin günün ekonomik koşlların uyarlandırılmasının talep edildiği anlaşılmaktadır.
 
 ## Yargıtay 13. HD 2006/14687 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/842143800)
 
 Somut olayda taraflar arasındaki 27.3.1995 başlangıç tarihli kira sözleşmesi 9 ... ve kısa süreli olup, sözleşmenin son bulduğu 31.12.1995 tarihinden sonra 6570 sayılı yasanın 11. maddesi hükmüne göre 1 yıllık süreyle devam edeceği çok açıktır. Hal böyle olunca
 
@@ -100,13 +128,19 @@ sözleşmenin kısa süreli olduğunda kuşku ve duraksamaya yer olmamalıdır. 
 
 ## Yargıtay 13. HD 2006/12488 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/841646000)
+
 Uyarlama davalarında, hakimin gözde kaçırmaması gereken ... esaslar şöyle sıralanabilir: Sözleşmeye bağlılık ve saygı esastır. Uyarlama daima yardımcı bir çözüm olarak düşünülmelidir. Sözleşmeye yazılan ... hükümler, yorumlanıp tarafların sağladığı hak ve yararlar değerlendirilmesi, ekonomik değişikliklerin etkileri, kiralananın nitelikleri gibi somut olayın özelliği ile belirlenecek tüm objektif ve…
 
 ## Yargıtay 13. HD 2006/2386 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/839921100)
+
 Bu halde uyarlama şartlarının mevcudiyetinin tespiti için değerlendirme yapılarken hükme esas alınan bilirkişi raporunda belirtildiği gibi taşınmazın sadece arsa olarak değil, üzerindeki tesisler ile birlikte kiraya verildiği kabul edilmelidir. Öyle olunca kiralananı, üzerinde tesis bulunmayan arsa olarak kabul edip değerlendirme yapan bilirkişi raporuna dayanılarak hüküm kurulması yanlıştır. Mahkemece, yeniden konusunda uzman bilirkişilerden açıklamalı, taraf ve Yargıtay denetimine elverişli rapor alınıp sonucuna göre bir karar verilmesi gerekirken yazılı şekilde yanlış kabule dayalı olarak hazırlanan bilirkişi raporuna göre karar verilmesi usul ve yasaya aykırı olup bozmayı gerektirir.
 
 ## Yargıtay 11. HD 2002/2578 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/16290900)
 
 Emprevizyon (beklenmeyen durum) ilkesi uyarınca, sözleşme taraflarınca üstlenilen edimlerin daha sonra öngörülemeyen derecede koşulların değişerek taraflardan biri aleyhine edimler arası dengeyi temelden bozması üzerine yargıcın sözleşmeye müdahalesi istenebilir. Ancak, sözleşmenin esaslı unsurlarının değiştirilmesi sonucunu doğurucu uyarlama istenemez. Somut uyuşmazlıkta da, taraflarca kira bedelinin açıklanan biçimde hesaplanması yönünde bir irade uyuşumu gerçekleştiğine göre davacı artık mahkemeden başka bir ölçüt belirlenmesini isteyemez.Anılan akaryakıt ürünlerinin ortalamasının belli bir birimle çarpımı yolu ile kira parasının saptanması öngörülmekle, kira bedelinin belirlenmesinde temel alınan bu ölçüte bağlı kalınarak, bu ölçütün bileşenlerinden birinin veya bir kaçının uyarlama koşulları varsa değişen duruma uygun kılınması yönünde bir çözüm istemine ilişkin davanın dinlenilebileceği dikkate alınmadan, salt davacının cirosu ve net kârı esas alınarak yazılı biçimde karar verilmesi doğru görülmemiştir.
 
@@ -117,6 +151,8 @@ Emprevizyon (beklenmeyen durum) ilkesi uyarınca, sözleşme taraflarınca üstl
 girdiğinden dolayı 20 Haziran'a kadar süre istediklerini beyan eden mail de nazara alındığında tahliyenin başlayamamasının koronavirüs pandemisinden kaynaklanmıyor oluşuna göre TBK'nın 138. Maddesinde düzenlenen sözleşmenin yeni koşullara uyarlanması koşulları oluşmamıştır.
 
 ## Antalya BAM 5. HD 2026/293 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1199143600)
 
 Somut olayda, taraflar arasındaki uyuşmazlığın, davacı kiralayan ile davalı .... Tur. Tic. ve San. AŞ arasında yazılı şekilde akdolunan 09/01/2020 düzenleme, 01/11/2020 başlangıç tarihli, 31/10/2024 bitiş tarihli kira sözleşmesinin 3. maddesinde belirtilen kambiyo senetlerinin davacı kiralayana devrinden sonra ortaya çıkan yeni durumlar (covid 19 salgını) gereği sözleşmenin tarafları arasında düzenlenen ek protokoller ile kiracıya iadesi hususunda anlaşılması ve 4 adet çek haricinde diğer kambiyo senetlerinin anlaşmaya uygun devredilmesine karşın bu 4 adet çekin devredilememesi noktasında oluştuğu, davalı kiracının somut davadaki muarazanın meydana gelmesinde sorumluluğunun bulunup bulunmadığı konusundaki ihtilafın da davanın esasına girilerek çözülecek mesele olduğu, işbu sebeple taraflar arasındaki uyuşmazlığın kira ilişkisinden doğduğu anlaşılmakla, somut uyuşmazlıkta Sulh Hukuk Mahkemesi görevli olduğundan, Antalya 12.Sulh Hukuk Mahkemesinin 28/11/2025 tarih ... E. ....K. S. yetkisizlik kararının kaldırılmasına karar verilmesi gerekmiştir.
 

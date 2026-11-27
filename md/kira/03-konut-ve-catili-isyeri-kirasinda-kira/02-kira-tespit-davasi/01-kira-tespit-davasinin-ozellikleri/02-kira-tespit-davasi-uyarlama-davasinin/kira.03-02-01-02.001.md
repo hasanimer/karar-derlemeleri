@@ -22,8 +22,12 @@ uyari: "Derleyenin seçtiği alıntılardır; kararın tamamı değildir. Künye
 
 ## Yargıtay 3. HD 2024/792 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1026811200)
+
 Kira sözleşme süresinin kısa veya uzun süreli veya belirsiz süreli olmasının bu yeni düzenlemeye (TBK hükümlerine) göre kira belirlemesinde aralarında bir fark kalmamış olup sözleşmenin kurulması sonrasında ekonomik faktörlerdeki olumlu veya olumsuz değişiklikler ile rayiç kira artışları ve kiralananın durumuna ilişkin müspet veya menfi değişimlerin açılacak kira belirleme talepli davada değerlendirileceği TBK m.344 düzenlemesinde belirtilmiştir. **Bu hüküm özel bir uyarlama hükmü niteliğinde olup yeni dönemde fiyat artışlarına bağlı enflasyon, fiyat endeksindeki artışlar, paranın satın alma gücünde meydana gelen değişimleri de kapsamına aldığından bu sebeplerin varlığı halinde kiranın belirlenmesinde genel uyarlama hükmü olan TBK m. 138 değil daha özel bir düzenleme olan 344 üncü maddesinin uygulanması gerekir**.
 
 ## Yargıtay 3. HD 2026/118 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1195808800)
 
 Hükme esas alınan bilirkişi raporunun uyarlama davasındaki usul ve esaslara göre düzenlenmediği, Mahkemece de gerekçelendirmenin kira bedelinin tespiti yönünde yapıldığı, **uyarlama koşullarının bulunup bulunmadığının ayrıntılı olarak değerlendirilmediği**…

@@ -21,33 +21,49 @@ uyari: "Derleyenin seçtiği alıntılardır; kararın tamamı değildir. Künye
 
 ## Yargıtay 12. HD 2010/14067 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/62863500)
+
 Dava konusu 3 nolu bağımsız bölümün tapu kaydından malikinin ....................... olduğu anlaşılmaktadır. Mahkeme gerekçesinde, taşınmazın 2 nolu bağımsız bölümün tapu kayıtlarındaki bilgiler değerlendirilerek maliki ................................olmadığından icra müdürlüğünce çıkartılan tahliye emrinin usule uygun bulunmadığından tahliye emrinin iptaline karar verilmiştir. Oysaki 3 nolu bağımsız bölümün maliki ve ihale alıcısı ...................... olduğundan İİK'nun 135. maddesine göre icra müdürlüğünce çıkarılan tahliye emrinin usule uygun olması sebebiyle şikayetin reddi gerekirken, yazılı gerekçe ile kabulü isabetsizdir.
 
 ## Yargıtay 12. HD 2009/14737 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/67920200)
 
 İİK.nun 272.maddesinde; "Mukavelename ile kiralanan bir taşınmazın müddeti bittikten sonra bir ay içinde mukavelenin icra dairesine ibrazı ile tahliyesi istenebilir Bunun üzerine icra müdürü bir tahliye emri tebliği suretiyle taşınmazın on beş gün içinde tahliye ve teslimini emreder. Tahliye emrinde; ...mukavele tarihi ve kiranın yenilendiğine veya uzatıldığına dair bir itirazı varsa yedi gün içinde daireye müracaatla beyan etmez ve itirazda bulunmaz veya kendiliğinden tahliye etmezse zorla çıkarılacağı yazılır"…
 
 ## Yargıtay 6. HD 2009/4394 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/16863500)
+
 Takibe dayanak yapılan ve karara esas alınan 25.6.2004 başlangıç tarihli 1 yıl süreli kira sözleşmesi konusunda taraflar arasında bir uyuşmazlık bulunmamaktadır. Davacı 23.7.2007 düzenleme tarihli taahhütnameye dayanarak 8.8.2008 tarihinde başlattığı icra takibi ile kiralananın tahliyesini istemiş tahliye emri davalıya 19.8.2008 tarihinde tebliğ edilmiştir. Davalı tahliye emrinin tebliği üzerine süresinde verdiği itiraz dilekçesinde tahliye taahhüdünün ilk kira sözleşmesi ile birlikte baskı altında verildiğini ve sözleşmenin bir yıl süreyle uzadığını ileri sürmüş, taahhütname altındaki imzaya ve tarihe açıkca karşı koymamıştır. Davalı B.K.'nun 31.maddesi gereğince tahliye taahhüdünün iptali konusunda bir yıl içinde bir dava açmadığına göre taahhütnamesinin geçersizliğinin ileri sürülmesi mümkün değildir. Öte yandan tahliye taahhütnamesinin mutlaka noterden yapılması da gerekmez.
 
 ## Yargıtay 12. HD 2008/17341 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/70339800)
 
 Tahliye taahhüdüne dayalı taşınmazların ilamsız takibinde, borçlnun örnek 14 no'lu tahliye emrine itiraz üzerine duran takibe devam edilebilmesi için kiraya verenin İİK'nun 275,I fıkrası hükmüne göre icra mahkemesinden, kiracının itirazının kaldırılmasını istemek zorundadır. Ancak kiraya veren, icra mahkemesinden itirazın kaldırlımasını istemek zorunda olmayıp, sulh hukuk mahkemesinde de tahliye davası açabilir. Sulh mahkemesinden alacağı tahliye ilamını İİK'nun 26.maddesi uyarınca ilamlı icra yolu ile ayrı bir takip yapabilir. İİK'nun 269/d ve 274/son maddelerinde aynı Kanun'un 67.maddesine gönderme olmadığından sulh hukuk mahkemesinde itirazın iptali ve tahliye davası açılamaz ve bu dava sonucunda alınacak ilamla, ilamsız tahliye takibine devam edilemez. Sulh hukuk mahkemelerinden verilen itirazın iptali ve tahliye ilamları, ilamlı icra yolu ile takibe konabilir ve borçluya İİK'nun 26.maddesine göre icra emri çıkarılmak sureti ile ilamın infazı istenebilir.
 
 ## Yargıtay 12. HD 2008/10729 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/71838700)
+
 Alacaklı noterden verilmiş 09.07.2007 tanzim tarihli ve 25.12.2007 tarihinde kiralanan taşınmazın kayıtsız ve şartsız tahliye edileceğine dair kiracılar tarafından verilen tahliye taahhüdüne dayalı olarak kiracılar aleyhinde takip yapmıştır. Bu takip İİK.nun 272 ve takip eden maddelerine dayalı olup borçluya örnek 14 nolu tahliye emri çıkarılması gerekirken ilamlı takip yapılmışcasına örnek 2 nolu icra emri gönderilmesi yerinde değildir. Bu halde icra mahkemesince takip talebine aykırı olarak çıkartılan icra emrinin iptaline karar vermesi yerine takibin iptaline yönünde hüküm tesisi isabetsizdir.
 
 ## Yargıtay 12. HD 2007/11586 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/72390000)
 
 İtiraz niteliğinde olmayan dilekçe esas alınarak icra müdürlüğünce İİK'nun 274/2. maddesine göre takibin durdurulması mümkün bulunmamaktadır. O halde şikayetin kabulüne ve icra müdürlüğünün 16.1.2007 tarihli kararının kaldırılmasına karar verilmesi gerekirken yazılı şekilde hüküm tesisi isabetsizdir.
 
 ## Yargıtay 12. HD 2006/23284 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/67924100)
+
 Alacaklının 1.6.2001 başlangıç tarihli kira kontratına dayanak örn:14 tahliye emri tebliği suretiyle başlattığı takipte borçlu tarafça 7.6.2006 tarihinde tebliğ olunan tahliye emri tebligat işleminin usulsüz yapıldığından bahisle icra mahkemesine 11.7.2006 tarihinde başvurduğu görülmüştür. Mahkemece taleple bağlı kalınarak şikayet konusunun esası incelenerek oluşacak sonuca göre bir karar vermek gerekirken yazılı gerekçelerle re’sen takibin iptaline karar verilmesi doğru görülmemiştir. Zira usulsüz tebliğe muttali olan borçlunun muttali olduğunu beyan ettiği tarih itibari ile icra dairesine tahliye taahhüdü vermediğine ilişkin bir itirazı da yoktur. Mahkemece re’sen takibin iptali de bu nedenle de yerinde değildir.
 
 ## Yargıtay 12. HD 2006/14441 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/74770700)
 
 Borçlu hakkında 10.06.1999 tarihli iflas kararına dayanarak yapılan takip sonucunda taşınmaz ihale olunmuştur. İhale alacaklısı İİK.nun 135.maddesi gereği şikayetçi 3.kişiye tahliye emrini 17.04.2006 tarihinde iflas müdürlüğünce gönderilmesine karar verildikten sonra bu tahliye kararı 3.kişiye 21.04.2006 tarihinde tebliğ edildiği anlaşılmaktadır. Yasal süresi içerisinde kiraca 3.kişi taşınmazı iflas kararından önce 28.08.1997 tarihinde tapuya şerhedilen 01.05.1997 tarihli sözleşme ile 9 yıllık taşınmazda kiracı olduğunu ileri sürmüştür. İİK.nun 135/2.maddesine göre kiracılık sıfatının tevsik edilmiş bir sözleşmeyle ispatlanması gerekir.
 
@@ -105,6 +121,8 @@ kiracı olan eşlere karşı birlikte başlatılması gerekecektir. Ancak, kiral
 
 ## İstanbul BAM 3. HD 2021/1088 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/646891300)
+
 Esas sayılı dosyası üze- rinden tahliye emri gönderildiği ve davalının bu ödeme emrine itiraz etmesi üzerine Fatih İcra Hukuk Mahkemesi'nce 14/05/2008 tarihinde itirazın kaldırılarak tahliyeye karar verildiği ,Davacının takip talebinin yerinde olmadığı "gerekçesiyle ,"kanıtlanamayan davanın red- dine" karar verilmiştir.İstinaf Başvurusu:
 Hüküm davacı vekili tarafından istinaf edilmiştir.Davacı vekili istinaf dilekçesinde özetle;Davalı-borçlu hakkında açılan tahliye davasında tahliye kararı verilmiş ise de; bu hususun huzurdaki davaya etkili olmadığını,Bilirkişi raporunda normal tüketim faturaları yönünden yapılan hesaplamaya bir itiraz- larının olmadığını,Ancak kaçak elektrik tutanakları aksi sabit oluncaya kadar geçerli resmi belgeler olmasına söz konusu kaçak tüketim bedellerinin hesaplama dışı bırakılmasının ve sonuçta ispatlanamadığından bahisle davanın tümden reddine karar verilmesinin usul ve yasaya aykırı olduğunu beyanla kararın kaldırılmasını, esas hakkında yeniden davanın kabulüne karar verilmesini talep etmiştir.6100 sayılı HMK'nun 355 md gereğince, istinaf sebepleri ile sınırlı olarak yapılan incelemeye göre;Dava, itirazın iptali talebine ilişkin olup İİK 67 md ne dayalıdır. Bakırköy .... İcra Müdürlüğü'nün ...
 Esas sayılı dosyasının tetkikinde, davacının Enerji Kullanım Bedelinden kaynaklanan 10.038,39 TL asıl alacak + 15.478,16 TL temerrüt faizi + 2.786,06 TL Faizin Katma Değer Vergisi'nden ibaret toplam 28.302,61 TL alacağın tahsili talebiyle davalılar aleyhine icra takibine girişildiği, ödeme emrinin 22/11/2016 tarihinde tebliğ edildiği, borçlunun süresi içersinde (24/11/2016 tarihinde) ibraz ettiği dilekçesi ile "takip konusu dönemde söz konusu iş yerini tahliye ettiklerini, takip alacaklısına bu veya başka şekilde borçlu olmadıklarını" beyanla borca itiraz ettikleri, icra müdürlüğünce takibin durdurulmasına karar verildiği anlaşılmaktadır.Davacının alacak talebi kaçak/usulsüz kullanım bedelinden kaynaklanmaktadır. Mahkemece İTO'nun WEB sitesinden temin edilerek dosyaya eklenen ticaret sicil kay- dında davalı şirketin "... Mh. ... Cad. No:... Fındıkzade" adresinde sicile kayıtlı olduğu, iş bu davanın dayanağını teşkil eden Bakırköy
@@ -112,6 +130,8 @@ Esas sayılı dosyasının tetkikinde, davacının Enerji Kullanım Bedelinden k
 ....
 
 ## İstanbul BAM 2. HD 2019/1527 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/540881700)
 
 İhale kesinleşinceye kadar taşınmazın ne şekilde muhafaza ve idare edileceği ... dairesi tarafından kararlaştırılır.” hükmüyle, cebri ihale sonucu mülkiyetin kazanılması ve ihale kesinleşinceye kadar taşınmazın idare ve korunma şekli belirlenmiştir.Bu yasal düzenlemelere göre ihale ile taşınmazı satın alan kişi veya kurum taşınmazın mülkiyetini ihalenin kesinleşmesi halinde ihale tarihinde kazanmış olur.Somut uyuşmazlıkta, cebri ihale 20.03.2012 tarihinde yapılmış olup davalılardan ... tarafından açılan ihalenin feshi davası reddedilerek 20.12.2013 tarihinde kesinleşmiştir. Bu durumda, ihale alıcısı davalı ...'e mülkiyetin 20.12.2013 tarihinde geçtiği ve ihale tarihinden itibaren davalı-karşı davacının ecrimisil isteyebileceği açıktır.İİK'nun 135/2. maddesinde ise “Taşınmaz borçlu tarafından veya hacizden evvelki bir tarihte yapıldığı resmi bir belge ile belgelenmiş bir akte
 

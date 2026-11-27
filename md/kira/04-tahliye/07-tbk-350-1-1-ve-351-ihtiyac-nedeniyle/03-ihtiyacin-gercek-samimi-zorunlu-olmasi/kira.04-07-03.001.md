@@ -27,6 +27,8 @@ Davacının kızının evleneceğini ve eşiyle birlikte yaşayacakları bir kon
 
 ## Yargıtay 3. HD 2025/6060 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1205482000)
+
 … ispat yükü üzerinde olan davacı tarafından özellikle sağlık durumunu gösterir belgeler ile tapu kayıtları kapsamında **ihtiyacın samimi ve gerçek olduğunun ispatlandığı**…
 
 ## Yargıtay 3. HD 2026/3317 K.

@@ -21,6 +21,8 @@ uyari: "Derleyenin seçtiği alıntılardır; kararın tamamı değildir. Künye
 
 ## Konya BAM 6. HD 2024/867 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1031223200)
+
 Dava menfi tespit talebine ilişkindir.
 
 …
@@ -34,10 +36,14 @@ Hukuk Dairesi'nin 2015/14291 Esas ve 2016/1780 Karar sayılı ilamı da bu yönd
 
 ## Ankara BAM 27. HD 2023/436 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/888842300)
+
 Bankası A.Ş. ... şubesi tarafından 27/01/2017 tarihinde gönderilen yazı ile 5549 sayılı Kanun'un 19/A maddesi gereğince OHAL kapsamında işlemlerin askıya alındığı bildirilerek, müvekkili şirketlerin bütün finansal işlemlerinin durdurulduğunu, işverenin müvekkilleri ile yaptığı sözleşmeyi sonlandırmak amacıyla TMSF üzerinden OHAL kapsamında yetkilerin kullandırılacağı tehdidi ile ve diğer sebeplerle sürekli baskı altında tutulduklarını, feshe ve ayrıca ibraya zorlandıklarını, bu baskı ve tehditler (ikrah) sonucunda 06/02/2017 tarihli karşılıklı fesih ve ibralaşma sözleşmesinin yöneticilerden biri tarafından imzalanmak zorunda kalındığını, OHAL kaldırıldıktan sonra yani tehdit ortadan kalkar kalkmaz yasal süresi içinde arabulucuya başvurularak dava açıldığını, davanın ikrar iddiasına dayandığını, fesih ve ibra sözleşmesinin zor altında imzalandığını, zira işveren TMSF'nin kanundan doğan yetkisini kötü niyetle korkutma aracı olarak kullandığını, ihtiyati tedbir dilekçesinde kötü niyetli olarak gerçeğe aykırı beyanda bulunulduğunu, hukuksal ve maddi tehditlerin sonucunda müzayaka halinde adi ortaklığın ortaklarından biri tarafından fesih ve ibralaşma sözleşmesinin imzalanmak zorunda
 kalındığını ve bu nedenle geçerli olmadığını, mahkemenin fesih ve ibra sözleşmesinin baskı altında imzalandığına ilişkin delil bulunmadığı yönündeki gerekçesinin kabulünün mümkün olmadığını, bu fesih sözleşmesi nedeniyle müvekkillerinin büyük zararlara uğradığını, bu kadar zarara neden olacak fesih ve ibranın müvekkili şirketler tarafından kendiliğinden imzalanacağı yönünde bir kanaatin akla, mantığa ve hayatın olağan akışına aykırı olduğunu, yine fesih ve ibralaşma sözleşmesinin TBK'nın 625/3 maddesi gereğince de geçersiz olduğunu, adi ortaklığın olağan dışı işlerinin yürütülmesi için bütün ortakların oy birliğinin gerekli olduğunu, oysa somut olayda sadece bir ortağın imzaladığı fesih ve ibra sözleşmesinin olağan dışı işlerden olduğunu ve bu nedenle ancak ortakların oy birliği ile fesih sözleşmesinin imzalanması halinde geçerli olacağını, fesih ve ibra sözleşmesi ile adi ortaklığın sona erdirilmiş olmasına karşın sadece bir ortağın imza atması nedeniyle fesih ve ibra sözleşmesinin bağlayıcı olmadığını, bu konuda Yargıtay 11.
 
 ## İstanbul BAM 44. HD 2021/1097 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/687747400)
 
 Amaç başlıklı 3.maddede; " bu anlaşma Müdürlüğünün 31/12/2013 tarihinde ihale ettiği ve ... ve ... girişiminin üzerinde kalan projenin başında, kesin hesabı yapılıncaya ve işveren, idare, sosyal sigortalar, maliye, resmi ve özel bütün şahıslarla bütün ilişkiler kesilinceye ve teminatların tamamı iade edilinceye kadar, işin taraflarca ortaklaşa yapılması ile iş ortaklığının yönetim usulünün kar ve zararın dağıtımının ve iş sonunda ortaklığın tasfiye usulünü saptamak gibi konuları ifa etmek için yapılmıştır.", süre başlıklı 5.maddesinde;
 " bu anlaşma iş verene karşı üstlenilen projenin sözleşmesine uygun olarak tamamlandıktan sonra , kesin kabulün yapılması , teminatların iadesi, taraflar arasındaki hak ve yükümlülüklerin yerine getirilmesi , tüm kamu idareleri ile özel şahıs ve kurumlara ilişkin hak ve mükellefiyetlerin yerine getirildiğine ilişkin yönetim kurulu kararının takiben sona erer " denildiği, 12.maddesinde pilot ortağın ... olduğunun belirtildiği ve yetkilerinin maddede tek tek sayıldığı, Sözleşmenin 13.madesinde yönetim kurulunun düzenlendiği, buna göre, iş ortaklığının en üst yetkili kurulu olduğunu, tarafların birer temsilcisinden oluştuğu, banka hesapları başlıklı 15.maddede; " ortak girişim banka hesapların ortak girişim adına yürütme kurulu tarafından açılacaktır. Bu hesapların işletilmesi yürütme kurulunun alacağı karar doğrultusunda yetkili kılınacak kişilerden ikisinin birleşen imzalarını taşıyan çekler ve talimatlar ile sağlanacaktır.

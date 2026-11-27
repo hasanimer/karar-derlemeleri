@@ -33,6 +33,8 @@ SONUÇ: **Kira tesbitine ilişkin mahkeme kararı ile belirgin hale gelen kira f
 
 ## Yargıtay 8. HD 2019/7466 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/544099100)
+
 Kira tesbit kararı kesinleşmeden muaccel olamayacağından, kesinleşmeden önceki
 
 **dönemler için faiz işletilemez**. Bu durumda kira tespit kararı ile belirlenen kira fark miktarına kira tespit kararının kesinleştiği tarih olan 25.04.2016 tarihinden itibaren yasal faiz uygulanması gerekirken, kira bedellerinin tamamına ödenme tarihinden itibaren faiz uygulanarak itirazın kaldırılmasına karar verilmesi isabetsiz olup bozmayı gerektirmiştir.

@@ -21,6 +21,8 @@ uyari: "Derleyenin seçtiği alıntılardır; kararın tamamı değildir. Künye
 
 ## Yargıtay 6. HD 2015/9922 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/149454800)
+
 Davacı tüzel kişilik, şirket ortağı A. K.'ın konut ihtiyacı sebebiyle kiralananın
 
 **tahliyesini istemiş** davalı, ihtiyacın davacı şirkete ait olmadığından davanın reddini savunmuştur.

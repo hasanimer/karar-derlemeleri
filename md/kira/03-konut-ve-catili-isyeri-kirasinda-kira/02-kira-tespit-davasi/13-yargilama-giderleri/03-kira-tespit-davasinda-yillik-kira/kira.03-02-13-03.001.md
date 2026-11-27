@@ -22,4 +22,6 @@ uyari: "Derleyenin seçtiği alıntılardır; kararın tamamı değildir. Künye
 
 ## Yargıtay 3. HD 2020/7853 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/629831100)
+
 Somut olayda; Davacılar, yıllık net 17.500TL olan kira bedelinin 01/10/2015 tarihinden itibaren, yıllık net 30.000 TL olarak tespitine karar verilmesini talep etmişler, Mahkemece 01/10/2015 tarihinden itibaren kira bedelinin yıllık 24.000TL olarak tespitine karar verilmiştir. **Talep yıllık kira bedelinin tespitine ilişkin olduğuna göre, hükmedilen yıllık kira parası ile tespite konu dönemde ödenen kira parasının tutarı arasındaki fark üzerinden karar ve ilam harcı alınması gerekirken**, karar ve ilam harcına fazla miktarda hükmedilmesi usul ve yasaya aykırı olup bozmayı gerektirir.

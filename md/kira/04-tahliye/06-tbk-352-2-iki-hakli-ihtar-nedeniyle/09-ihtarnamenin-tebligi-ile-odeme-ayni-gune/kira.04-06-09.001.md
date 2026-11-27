@@ -21,6 +21,8 @@ uyari: "Derleyenin seçtiği alıntılardır; kararın tamamı değildir. Künye
 
 ## Yargıtay 3. HD 2018/9394 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/444696400)
+
 Somut olayda, davacı 06/11/2014 tarihli ihtarname ile Kasım 2014 kira bedelinin, 05/12/2015 tarihli ihtarname ile de Aralık 2015 kira bedelinin ödenmesini ihtar etmiştir. 05/12/2015 tarihli ihtarname davalılara 09/12/2015 tarihinde tebliğ edilmiş olup, Aralık 2015 kira bedeli aynı tarihte ödenmiştir. 09/12/2015 tarihinde yapılan Aralık 2015 ayı kira bedelinin saat 09:27'de ödendiği dosyada bulanan hesap özetinden anlaşılmakta olup ihtarnamenin tebliğ edildiği saat ......... kayıtlarından tespit edilemediğinden, ikinci ihtara konu Aralık 2015 kira bedelinin, ihtarnamenin tebliğinden önce ödendiğinin kabulü gerekir. Bu nedenle iki haklı ihtar şartının oluşmayacağı, davacının dava açmakta haksız olduğu anlaşılmakla konusuz kalan dava nedeniyle davalıların yargılama giderleri ile vekalet ücretinden sorumlu tutulamayacağı gözetilerek karar verilmesi gerekirken yazılı şekilde karar verilmesi doğru görülmemiş, bozmayı gerektirmiştir.
 
 4 In dubio pro debitoris (şüpheden borçlu yararlanır) ilkesinin sonucu.

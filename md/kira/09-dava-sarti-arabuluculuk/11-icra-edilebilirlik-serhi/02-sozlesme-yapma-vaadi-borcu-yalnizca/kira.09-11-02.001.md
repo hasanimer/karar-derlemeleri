@@ -21,6 +21,8 @@ uyari: "Derleyenin seçtiği alıntılardır; kararın tamamı değildir. Künye
 
 ## Yargıtay 12. HD 2025/7199 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1190882100)
+
 Somut olayda takibe konu edilen icra edilebilirlik şerhi içeren ve tarafları ... ve ... olan 25.12.2023 tarihli anlaşma belgesinin 1. maddesinde “Taraflar 1.01.2024 tarihi itibariyle aylık kira bedelinin 10.000,00 TL (onbinTL) olmasını, 1.01.2025 tarihinden itibaren ise aylık 13.500,00 TL, 1.01.2026 tarihinden ve takip eden dönem başlarında kira bedelinin tüfe oranında artırılmasını ve kiracısı ..., tahliye tarihine kadar kefilinin ise ... olması hususunda anlaşmışlardır.
 
 Taraflar bu anlaşmaya uygun olarak yeni bir kira sözleşmesi düzenlemeyi de kabul etmektedirler ...” şeklinde hüküm bulunduğu, bu belgeye dayalı olarak ... tarafından ... aleyhine anlaşma belgesinde kararlaştırılan yeni tarihli kira sözleşmesi düzenlenmesi edimi yönüyle başlatılan icra takibinde borçluya örnek 4-5 nolu ödeme emri tebliğ edildiği anlaşılmıştır.

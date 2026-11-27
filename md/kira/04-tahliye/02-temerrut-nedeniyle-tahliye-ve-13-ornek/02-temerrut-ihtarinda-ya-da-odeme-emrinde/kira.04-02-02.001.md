@@ -21,6 +21,8 @@ uyari: "Derleyenin seçtiği alıntılardır; kararın tamamı değildir. Künye
 
 ## Yargıtay HGK 2023/642 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/920523900)
+
 İhtarda bu mehil içerisinde miktar ve tutarı belirtilen kira borcu ödenmediği takdirde kira sözleşmesinin feshedileceği ve tahliye davası açılacağının yazılması zorunludur.
 
 Kiracı mehil süresi içinde kira borcunu ödemez ise kiraya veren tahliye davası açabilir.

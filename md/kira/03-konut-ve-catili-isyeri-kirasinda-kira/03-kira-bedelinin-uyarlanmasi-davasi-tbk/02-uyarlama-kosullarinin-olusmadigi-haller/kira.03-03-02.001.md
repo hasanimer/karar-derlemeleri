@@ -25,13 +25,19 @@ uyari: "Derleyenin seçtiği alıntılardır; kararın tamamı değildir. Künye
 
 ## Yargıtay 3. HD 2025/4792 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1183118900)
+
 … dava dilekçesi sonrasında iddianın genişletilmesinin mümkün olmadığından **dava dilekçesinde ileri sürülmeyen covid salgınının uyarlama sebebi olarak sonradan ileri sürülmesi iddianın genişletilmesi kapsamında** olduğunun…
 
 ## Yargıtay 3. HD 2025/2837 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1157477300)
+
 … beklenmeyen olağanüstü durum nedeniyle işlem temelinin çöktüğünün ispat edilemediği, **tacir olan davacının basiretli davranma yükümlülüğü karşısında imzaladığı sözleşme hükümleriyle bağlı olduğu**…
 
 ## Yargıtay 3. HD 2025/813 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1135013800)
 
 … kiralananın kullanım amacı ve ileri sürülen uyarlama nedenlerine ve **döviz kurundaki değişikliklerin öngörülebilir mahiyette olup** fesih şartlarının oluşmadığının…
 

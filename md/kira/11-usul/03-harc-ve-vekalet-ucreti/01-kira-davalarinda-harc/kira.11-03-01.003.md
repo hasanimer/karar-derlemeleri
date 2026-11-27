@@ -23,10 +23,14 @@ uyari: "Derleyenin seçtiği alıntılardır; kararın tamamı değildir. Künye
 
 ## Yargıtay 6. HD 2014/12290 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/520268600)
+
 Olayımıza gelince; Davada dayanılan ve hükme esas alınan 01.08.2007 başlangıç- 31.12.2008 bitiş tarihli kira sözleşmesi konusunda uyuşmazlık bulunmamaktadır. Dosya kapsamına göre kiralananın üstü açık arazi niteliğinde olduğu ve yedi emin deposu olarak kullanıldığı anlaşılmaktadır. Kiralananın bu vasfına göre 6098 sayılı TBK'nun 339. ve devamı maddeleri kapsamı dışında kaldığı belirlenmiştir. Kira sözleşmesi süre bitimine rağmen kira ilişkisi devam ettirildiğinden 31.12.2008 tarihinden sonra , 01.01.2009 tarihinden itibaren süresiz hale gelmiştir.Bu durumda davacı, TBK 329 .maddesindeki sürelerden yararlanarak ihbar suretiyle sözleşmeyi feshedebilir. Davacı, 01/07/2013 ila 01/01/2014 tarihlerini kapsayan ikinci altı aylık döneme nazaran ihtarını ilk üç ay içinde 17/07/2013 tarihinde keşide edip 19/07/2013 tarihinde tebliğ ettirmiş ise de, davasını altı aylık dönem sonu olan 01/01/2014 tarihinden önce 05/11/2013 tarihinde açtığından dava süresinde değildir.
 Davanın bu nedenle reddine karar verilmesi gerekirken yazılı gerekçeyle reddine karar verilmiş olması doğru değilse de, sonucu itibariyle karar redde ilişkin olduğundan hükmün 6100 sayılı HMK.ya 6217 Sayılı Kanunla eklenen geçici 3.madde hükmü gözetilerek HUMK.nun 438.maddesi uyarınca düzeltilmiş bu gerekçeyle ONANMASINA ve temyiz harcı peşin alındığından başkaca harç alınmasına mahal olmadığına, 12.11.2014 tarihinde oybirliğiyle karar verildi.
 
 ## Yargıtay 6. HD 2014/11866 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/97398000)
 
 Davada dayanılan ve hükme esas alınan 15.9.2010 başlangıç tarihli ve 5 yıl süreli kira sözleşmesi konusunda taraflar arasında uyuşmazlık bulunmamaktadır. Kira sözleşmesine göre kiralanan "kahve evi" vasfındadır.6098 sayılı TBK'nun konut ve çatılı işyeri kiralarına ilişkin hükümlerine tabi taşınmazlarda fesih ve tahliye sebepleri sınırlı olup yasada yazılı tahliye sebeplerine dayanmadan tahliye hakkı bulunmamaktadır. Dava konusu yer dosyada mevcut bilgilere göre TBK'nun 339 ve devamı maddelerinde düzenlenen çatılı işyeri kirası hükümlerine tabi olduğu anlaşılmaktadır. Davalı cevap dilekçesinde ve ilk duruşmada
 
@@ -34,27 +38,39 @@ kiralanan taşınmazın tahliye edildiğini bildirmiştir. Kiralananın tahliye 
 
 ## Yargıtay 6. HD 2014/11594 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/308358400)
+
 Hükme esas alınan 01.01.2011 başlangıç tarihli sözleşme konusunda taraflar arasında uyuşmazlık bulunmamaktadır. Sözleşmenin özel şartlar beşinci maddesinde kira bedelinin kontrat bitiminde arttırılacağı kararlaştırılmış ancak bunun ne kadar olacağı konusu sözleşme ile belirlenmemiştir. O halde taraflar arasında, kira parasının dönem sonunda arttırılacağına ilişkin artış iradesinin bulunduğu hususunda kuşku bulunmamaktadır. Bu durumda davacının 31.05.2013 tarihinde açtığı dava ile ihtara gerek duymadan 01.01.2013 tarihinden itibaren kira parasının artırılmasını istemesinde bir usulsüzlük bulunmamaktadır. Mahkemece yeni dönem kira parasının 01.01.2014 ten itibaren belirlenmesi doğru değilse de bu yanlışlığın düzeltilmesi için hükmün bozularak yeniden yargılama yapılmasında yarar görülmediğinden hükmün 1. fıkrasındaki '' 01.01.2014 tarihinden itibaren '' ibaresinin çıkarılarak yerine '' 01.01.2013 tarihinden itibaren '' ibaresinin eklenmesi suretiyle hükmün düzeltilerek ONANMASINA, ve temyiz harcı peşin alındığından başkaca harç alınmasına gerek olmadığına, 27.10.2014 tarihinde oy birliğiyle karar verildi.
 
 ## Yargıtay 6. HD 2014/11035 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/306211100)
 
 Davacı kiraya veren ... Gübre Kimya Ma.Tar.Ür.İnş.San.ve Tic.Ltd.Şti ile davalı ... arasında düzenlenen 01.06.2010 başlangıç tarihli 3 yıl süreli kira sözleşmesinde kiralananın boş arsa olarak kiraya verildiği cafe-bar olarak kullanılacağı, sözleşmenin hususi şartlarında; üç yılın bitiminde tesisin olduğu gibi mal sahibine teslim edileceği kararlaştırılmış olup, sözleşmenin düzenleme şekline göre kiralananın çatılı işyeri niteliğinde olduğu anlaşılmaktadır. Daha sonra ... tarafından 01.06.2010 başlangıç tarihli 3 yıl süreli aynı nitelikte kira sözleşmesi yapılmışsa da kiraya vereni şirket olan ilk sözleşme usulen ortadan kaldırılmadıkça ... tarafından yapılan sözleşmeye değer verilemez. Dava süre bitimine dayanılarak açılmış olup, Türk Borçlar Kanun'unun 347.maddesi uyarınca sözleşme 01.06.2013 tarihinden itibaren 01.06.2014 tarihine kadar bir yıl süreyle yenilenmiştir. Kiralanan çatılı işyeri niteliğinde olup kiraya veren sözleşme süresinin bitimine dayanarak sözleşmeyi sona erdiremez.
 Davacı tarafından Türk Borçlar Kanununun çatılı işyeri kiraları hakkındaki ikinci ayrımda yer alan tahliye nedenlerinden hiçbirine dayanılmadığından mahkemece ilk sözleşmeye değer verilerek davanın bu gerekçeyle reddine karar verilmesi gerekirken yazılı gerekçeyle reddi doğru değilse de karar sonucu itibariyle redde ilişkin olduğundan hükmün düzeltilen gerekçeyle ONANMASINA ve temyiz harcı peşin alındığından başkaca harç alınmasına mahal olmadığına, 15.10.2014 tarihinde oybirliğiyle karar verildi.
 
 ## Yargıtay 6. HD 2014/10383 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/97221900)
+
 Dava dosyasındaki mevcut harçlandırma formunda harca esas dava değeri olarak 12.276,00 TL gösterilmiş ve dava açılış tarihinde de bu bedel üzerinden nispi dava harcı tahsil edilmiştir. Davalıların gösterilen dava değerine itirazları olmamıştır. Bu durumda mahkemece, bu bedel üzerinden nispi karar harcı ile davacı yararına vekalet ücreti takdir edilmesi gerekirken, dilekçede dava değeri olarak gösterilen bedelin aylık kira bedeli olarak kabulü ile yıllık kira bedeli hesaplanarak davalı aleyhine fazla karar harcı ve vekalet ücretine hükmedilmesi doğru değildir.
 
 ## Yargıtay 6. HD 2014/9948 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/97204000)
 
 Öte yandan; Birleşen Dava Davacısı Z.. K.., Birleşen Dava Davalısı (Kiraya Veren) tarafından yapılan ve menfi tespit davasına konu icra takibinde kendisine ait aracın haczedilerek icra yolu ile satıldığını belirterek, icra dairesi tarafından belirlenen aracın değeri ile satış değeri arasındaki farkın tazminat olarak ödenmesini talep etmiş ise de; mahkemece birleşen dava davacısının söz konusu takip nedeniyle açtığı menfi tespit istemi kısmen de olsa reddediliğinden, davalının ödenmeyen alacağını haciz yolu ile tahsilini talep etmekte hakkı bulunması nedeniyle birleşen dava davacısı Z.. K..'ın tazminat talebinin reddine karar verilmesi gerekirken, kabulüne karar verilmesi de isabetli olmadığı gibi, aynı davada istirdatı gereken miktara yönelik olarak da, mahkemece yapılan hesaplamada istirdatı gereken miktar belirlenirken davacı Z..
 K..'dan tahsil edilen miktardan, borçlu olduğu tespit edilen miktara, icra dosya borcu da ilave edilerek (tahsil harcı, icra Vekalet ücreti, haciz gideri, satış masrafı, ilan gideri vs) buna göre haksız alınan miktar varsa bu miktar üzerinden istirdatına karar verilmesi gerekirken, sadece kabul edilen borç üzerine faiz, vekalet ücreti ve tahsil harcı ilave edilerek hesaplama yapılması da isabetli değildir.
 
 ## Yargıtay 6. HD 2014/9757 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/478456400)
+
 Hüküm davalı tarafından temyiz edilmiş ise de davalıdan 25.20 TL maktu temyiz karar harcı alınmıştır. Bu durumda bir yıllık kira miktarı dikkate alındığında davalının 82.38 TL eksik nispi temyiz karar harcı yatırdığı anlaşılmaktadır. O halde yukarıda belirtilen şekilde hareket edilerek, sonucu dairesinde temyiz incelemesine gönderilmesi için dosyanın mahalline GERİ ÇEVRİLMESİNE, 15.09.2014 tarihinde oybirliğiyle karar verildi.
 
 ## Yargıtay 6. HD 2014/8659 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/97596200)
 
 492 sayılı Harçlar Yasasının 17. maddesinde ''gayrimenkulün tahliyesi davalarında, yazılı mukavele olsun veya olmasın bir yıllık kira bedeli üzerinden karar ve ilam harcı alınır'' düzenlemesi bulunmaktadır. Yine aynı yasanın 27. maddesinde ''harç peşin veya süresinde ödenmemiş ise, müteakip muamelelere ancak harç ödendikten sonra devam olunur hükmü, 32. maddesinde ''Yargı işlemlerinden alınacak harçlar ödenmedikçe müteakip işlemler yapılmaz'' hükmü bulunmaktadır. Davada 24.30 TL peşin harç alınmış, hükümle birlikte 0.90 TL daha harç alınarak maktu harçla dava bitirilmiştir. Davada kiralananın tahliyesine karar verildiğine göre bir yıllık kira bedeli üzerinden nispi karar ve ilam harcı alınması gerekir. Az yukarıda açıklandığı üzere yargı işlemlerinden alınacak harçlar ödenmedikçe
 
@@ -62,10 +78,14 @@ müteakip işlemler ve aynı şekilde temyiz incelemesi de yapılamaz. Bu durum 
 
 ## Yargıtay 6. HD 2014/8331 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/308060900)
+
 Hükme esas alınan 11.03.2008 başlangıç tarihli ve 3 yıl süreli sözleşme konusunda taraflar arasında bir uyuşmazlık bulunmamaktadır. Sözleşmede üniversite içinde bulunan fakültelere ait kantinlerin ve kitap satış yerlerinin kiralandığı belirtilmiştir. Davacı (kiracı) bazı yerlerin kendisine kullandırılmadığını ve üniversitenin 3 şahıslara kitap yeri açtırdığından bahisle uğramış oludğu zararların tazminini istemiştir.Sözleşmede kiralanan kitap yerleri dışında başka kitap satış yeri açılamayacağına ilişkin bir hüküm bulunmamaktadır. Kiraya veren kiralananı kira süresince kullanmaya elverişli bulundurmak zorundadır. Eğer kiraya veren kiralananı kira sözleşmesinde belirtilen kullanma amacına elverişli bir şekilde bulundurmamışsa veya kullanılmasına engel olunmuş ise kiracının iki seçimlik hakkı vardır. TBK 305-306 maddelerine göre kiracının seçimlik hakları ayıbın giderilmesini istemek,ayıp giderilmediği takdirde kira bedelinden indirim yapılmasını yada sözleşmeyi fesih edilmesini istemektir.Davacı kiracı TBK 305 maddesine göre kira bedeli indirimi istemediği gibi sözleşmenin feshini de istememiştir.
 Üniversite tarafından sözleşmesinin feshi kiracının kendi kusurundan kaynaklandığı ve fesihte üniversite haklı olduğundan ve zarara kendisi sebebiyet verdiğinden tazminat talebinde bulunamaz. Bu nedenle bu davada davanın reddine karar verilmesi gerekirken yazılı şekilde karar verilmesi doğru olmadığı gibi Üniversiteler 2547 sayılı kanunun 56/b maddesi ve 6183 sayılı kanunun 70 maddesi hükümlerine göre 492 sayılı harçlar kanunun 13-j-23 maddelerinden muaf olduğu halde üniversitenin harçla sorumlu tutulması doğru olmadığından hükmün bozulması gerekmiştir.
 
 ## Yargıtay 19. HD 2014/10573 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/107194100)
 
 İşbu sözleşme EK-1-’de “PO TARAFINDAN YAPILACAK İŞLER’’ başlığı altında belirtilen işler, PO tarafından, PO'nun takdirine göre, PO’nun tayin edeceği taşeron eliyle veya bedeli BAYİ ADAYI’na ödenmek suretiyle yapılacak ve ödeme suretiyle yaptırma halinde BAYİ ADAYI bunların bedeline karşılık olarak PO’ya yatırım bedeli adı altında fatura kesecektir. Şu kadar ki, bayilik ilişkisinin herhangi bir nedenle bayilik sözleşmesi ile kararlaştırılan tarihten önce sona ermesi durumunda, eksik kalan bayilik sözleşme süresine karşılık gelen ve kıstelyevm usulüne göre hesaplanacak yatırım tutarı, yatırımın yapıldığı tarihten itibaren TCMB Avans faizi ve faizin KDV’si ile birlikte, PO’nun ilk yazılı talebini izleyen 10 gün içerisinde bayi tarafından PO’ya defaten iade edilecektir. İşbu sözleşme EK-1de \*PO TARAFINDAN ARİYETEN VERİLECEK MALZEMELER” başlığı altında BAYİ ADAYI’na tevdi edileceği yazılı ariyet malzeme ve teçhizat PO tarafından BAYİ ADAYI’na teslim edilecektir.”, 4. maddesi;
 “Taraflar arasında 19.09.2010 tarihinde Bayilik Sözleşmesi imzalanacaktır.”, 6. maddesi “Protokol konusu gayrimenkul üzerinde, satış yeri inşaatı, giydirmesi ve sonrasında ticari faaliyete geçilmesi için yetkili makamlardan alınması gereken her türlü ruhsat ve izinler, BAYİ ADAYI tarafından, işbu protokolün imzası tarihinden itibaren ... gün içinde temin edilecek ve işbu ticari ilişki ve nedeniyle ödenmesi gereken tüm vergi, resim ve harçlar ile yapılacak diğer masraflar, BAYİ ADAYI
@@ -75,13 +95,19 @@ tarafından karşılanacaktır. Bayilik ilişkisi tesisine ilişkin işbu protok
 
 ## Yargıtay 6. HD 2014/6273 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/97380600)
+
 Temerrüt nedeniyle tahliye davalarında bir yıllık kira bedeli ve talep edilen alacak miktarı üzerinden nisbi karar ve ilam harcı alınır.492 Sayılı Harçlar Kanunu’nun 30. maddesinde davanın başında alınmış olan karar ve ilam harcının noksan olduğunun sonradan anlaşılması halinde karar ve ilam harcı tamamlanmadıkça davaya devam olunamayacağını düzenlenmiştir.Bu durumda mahkemenin harcın tamamlanması için davacıya uygun süre verilmesi ve ondan sonra yargılamaya devam olunması gerekir. Harç kamu düzenine ilişkin olduğundan mahkemece kendiliğinden gözetilmelidir.
 
 ## Yargıtay 6. HD 2014/5973 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/307166300)
+
 492 sayılı Harçlar Kanunu, harç alınması veya tamamlanması işlemlerini yanların isteklerine bırakmamıştır. Bu yönün mahkemece kendiliğinden ( re'sen ) gözetilmesi gerekir. Dava nispi harca tabi olup, hükmedilen alacak miktarı ve tahliye yönünden ise bir yıllık kira parası üzerinden temyiz harcının hesaplanması gerekir. Yargıtay Daireleri ve Hukuk Genel Kurulu, yasa uyarınca alınması gereken miktarda temyiz harcının temyiz edenden alınmış olup olmadığını re'sen inceler.
 
 ## Yargıtay 6. HD 2014/5120 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/97363800)
 
 Bu davalar nispi harca tabi olup, talep itirazın iptali ve kiralananın tahliyesine yönelik olduğundan, itirazın iptali istenen toplam alacak miktarları ve tahliye yönünden ise bir yıllık kira parası üzerinden hesaplanması gerekir. Yargı işlemlerinden alınacak harçlar ödenmedikçe müteakip işlemler yapılamaz ve harçların tamamı peşin olarak ödenmeden harca mevzu olan işlemler yapılmaz (Harçlar Kanunu md.32,127). Nispi karar ve ilam harcının dörtte biri peşin ödenir. Davacı tarafından son bir yıllık kira bedelini aylık 825,00 TL den hesap ederek 9.900,00 TL üzerinden peşin harç yatırılarak, eksik yatırılmış, davacının tahliye istemi yanında iki ayrı dosyada itirazın iptali isteminde de bulunduğu nazara alınmamıştır. Harç eksikliği yargılama sırasında ikmal edilmediği gibi, yargılama
 
@@ -89,17 +115,25 @@ sonunda da harç hesaplamasında yanılgıya düşülerek maktu harca hükmedilm
 
 ## Yargıtay 6. HD 2014/4931 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/307490900)
+
 Hükme esas alınan raporda, bilirkişi, kiralananın yeniden kiralanması halinde ....07.2012 tarihinden itibaren kira bedelinin net ....000 TL, brüt ....250 TL olduğunu bildirmiş, davacının ise vergi muafiyeti olan kurumlardan olduğu mahkemenin ....250 TL üzerinden ....000 TL'sına hükmederek hak ve nesafet indirimi yapmış olduğunun anlaşılmasına göre hükmün esasına ilişkin temyiz itirazları yerinde değildir. Ancak tespit edilen yıllık kira bedeli üzerinden 820.80 TL vekalet ücretine hükmedilmesi gerekirken, 936 TL takdiri doğru değil ise de, bu hususun düzeltilmesi yeniden yargılamayı gerektirmediğinden hüküm fıkrasının .... bendindeki “936,00 TL” rakamının karar metninden çıkarılarak yerine “820.80 TL” rakamı yazılmak suretiyle hükmün düzeltilmesine ve düzeltilmiş bu şekliyle ONANMASINA, temyiz harcı peşin alındığından başkaca harç alınmasına mahal olmadığına, .../04/2014 tarihinde oybirliğiyle karar verildi.
 
 ## Yargıtay 6. HD 2014/4685 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/97310800)
 
 Temerrüt nedeniyle tahliye ve alacak davalarında bir yıllık kira bedeli ve talep edilen alacak üzerinden karar ve ilam harcı alınır.492 Sayılı Harçlar Kanunu’nun 30. maddesinde davanın başında alınmış olan karar ve ilam harcının noksan olduğunun sonradan anlaşılması halinde karar ve ilam harcı tamamlanmadıkça davaya devam olunamayacağını düzenlemiştir.Bu durumda mahkemenin harcın tamamlanması için uygun süre vermesi ve ondan sonra yargılamaya devam olunması gerekir. Harç kamu düzenine ilişkin olduğundan mahkemece kendiliğinden gözetilmelidir.
 
 ## Yargıtay 6. HD 2014/2764 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/97260000)
+
 492 Sayılı Harçlar Yasasında kira tesbit davalarında harcın aylık kira parasına göre mi, yoksa yıllık kira parasına göre mi hesap edileceğine dair bir açıklık bulunmamaktadır. 07.07.1965 tarih ve 5/5 Sayılı İçtihadı Birleştirme Kararında, en kısa ve en az külfetli bir usul uygulanması, en az masraf yapılması ilkesinden hareket edilerek, aylık kira parası esas alınmak suretiyle görevli mahkemenin tayin edileceği kabul edildiğinden aylık kira parasının tesbitine ilişkin davalarda da aynı ilkelere dayanılarak aylık kira farkı üzerinden harç alınması gerekeceği sonucuna varılmıştır. Bu durumda mahkemece aylık kira farkı üzerinden harç alınması gerekirken, yazılı şekilde harç takdiri doğru değildir.
 
 ## Yargıtay 6. HD 2013/16405 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/520847300)
 
 Olayımıza gelince taraflar arasında 15/01/2007 tarihli 1 yıl süreli sözleşme imzalandığı hususunda uyuşmazlık bulunmamaktadır. Sözleşmenin 8. Maddesinde “Ulaşım, sigorta,
 
@@ -107,74 +141,108 @@ vergi, resim, harç giderleri ile sözleşme yapılmasına ait diğer masraflar�
 
 ## Yargıtay 6. HD 2013/15570 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/77730400)
+
 Öte yandan kira sözleşmesinde yıllık kiranın 72.000,00.-TL olduğuna ve davanın bu sözleşme kapsamında kalan 41 m2'lik 5 nolu bağımsız bölüm yerine ilişkin bulunmasına, tahliye halinde sözleşmenin bütünlüğü bozulacağına göre davanın değeri tüm binaya ilişkin yıllık kira bedeli olup, 492 sayılı Harçlar Kanununun 30. maddesi de gözetilmemiş, dava tarihindeki yıllık kira bedeli üzerinden dava harcı tamamlattırılmamıştır. Harcın tahsili kamu düzenine ilişkin olup, mahkemece kendiliğinden gözetilmelidir. Bu durumda dava hakkının ve peşin harca ilişkin eksikliğin mahkemece gözetilmemiş olması bu defaki incelemede anlaşıldığından buna ilişkin maddi hataya dayalı onama kararına yönelik karar düzeltme isteğinin kabulü gerekmiştir.
 
 ## Yargıtay 6. HD 2013/4718 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/657434500)
 
 Avukatlık Asgari Ücret Tarifesinin 9.maddesi gereğince "tahliye davalarında 1 yıllık kira bedeli tutarı üzerinden tarifenin 3.kısmı gereğince hesaplanacak miktarın tamamı vekalet ücreti olarak hükmedilir." Aynı tarifenin 6.maddesi gereğince "anlaşmazlık, davanın konusuz kalması, feragat, kabul ve sulh nedenleriyle; delillerin toplanmasına ilişkin ara kararı gereğinin yerine getirilmesinden önce giderilirse; tarife hükümleriyle belirlenen ücretin yarısına, karar gereğinin yerine getirilmesinden sonra giderilirse tamamına hükmolunacağı." belirtilmiştir. Davacı dava dilekçesinde harca esas bir yıllık kira bedelini 758.712-TL olarak göstermiş ve bu değer üzerinden harç yatırılmıştır. Temerrüt ihtarına konu kira bedellerinin 30 günlük ödeme süresi içinde ödenmediği, davacının dava açmakta haklı olduğu mahkemece kabul edildiğine göre davacı yararına AAÜT'nin 6.maddesi gereğince nisbi vekalet ücreti takdir edilmesi gerekirken yazılı şekilde maktu vekalet ücretine hükmedilmesi doğru olmadığından hükmün bozulmazı gerekmiştir.
 
 ## Yargıtay 6. HD 2013/3662 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/546135300)
+
 Tahliye davalarında davanın esasına ilişkin nedenlerle reddi veya kabulü halinde bir yıllık kira bedeli üzerinden nispi vekalet ücretine hükmedilmesi ve harcın da yine bu miktar üzerinden alınması gerekir.Dava dilekçesinde yıllık kira miktarı gösterilmediğine göre, harç ve vekalet ücretine tespit edilecek yıllık kira miktarı üzerinden hükmedilmesi gerekirken asıl dosyadaki dava değeri üzerinden harç ve vekalet ücretine hükmedilmesi doğru değildir.
 
 ## Yargıtay 3. HD 2013/1158 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/244969800)
 
 04.05.2012 tarihli tensip tutanağının ....maddesinde; HMK. 120.maddesine göre belirlenen (yıllık kira bedeli üzerinden kira davası harç bedelinin 926,60 TL keşif talep edildiğinden eksik 350 TL gider avansı, kira kontratosunun damga vergisinin makbuzunun) ... haftalık kesin süre içerisinde davacı vekili tarafından mahkememiz veznesine yatırılmasına, aksi takdirde dava şartlarının yokluğu nedeni ile davanın reddine karar verileceğinin meşruhatlı davetiye ile tebliğe karar verilmiş; kesin süre içerisinde davacı vekili tarafından ödeme yapılmadığından dava usulden reddedilmiştir.
 
 ## Yargıtay 6. HD 2013/41 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/241467600)
+
 Ancak; Mahkemece kira alacağının 10.900 TL'lik kısmı yönünden dava konusuz kaldığından karar verilmesine yer olmadığına dair karar verildiğinden, bu sebeple işin esası hakkında bir karar verilmediği anlaşıldığından, 10.900 TL'lik kısım yönünden davalının maktu karar ve ilam harcı ile sorumlu tutulması gerekirken, davalıdan nispi harç alınmasına karar verilmesi doğru değil ise de, bu sebeple hükmün bozularak yeniden yargılama yapılmasında yarar görülmediğinden, hüküm fıkrasının 3 nolu bendinde yazılı olan “...alacak davası yönünden tayin olunan 706,86 TL olmak üzere toplam 2.488,86 TL karar ve ilam harcından peşin alınan 445,55 TL harcın mahsubu ile bakiye 2.043,31 TL harcın..” ibaresinin hüküm fıkrasından çıkarılarak yerine “…alacak davası yönünden tayin olunan 80,55 TL olmak üzere toplam 1862,55 TL karar ve ilam harcından peşin alınan 445,55 TL harcın mahsubu ile bakiye 1.417 TL harcın…” ibaresi eklenmek suretiyle hükmün değiştirilerek ve DÜZELTİLEREK ONANMASINA ve aşağıda yazılı temyiz giderinin temyiz edenden alınmasına 14.01.2013 tarihinde oybirliğiyle karar verildi.
 
 ## Yargıtay 6. HD 2012/16444 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1054764700)
 
 Davada sözleşmeye aykırılık nedeni olarak ileri sürülen hususların giderilmesi için davalı tarafa süreli ihtar gönderilmediğinin anlaşılmasına göre, mahkemece davanın akde ayrılık teşkil eden eylemlerin giderilmesi için süreli ihtar çekilmediğinden davanın reddine karar verilmesi gerekirken, taraflar arasında ilk kontrattan sonra düzenlenen 3 adet daha kontrat bulunması, bu kontratlarda dava dışı ...'in kiracı olarak görünmesi ve banka ekstrelerinden tespit edildiği üzere, muhtelif kira bedellerinin bir kısmının 2008 yılından itibaren ... isimli kişi tarafından ödenmesi sebebiyle davacının durumdan haberdar olduğu, ilk kiracı ...'tan davalı vekilinin kızı olan ...'in taşınmazı devralarak kullandığı, buna yönelik de bir kaç adet yeni kontratlar düzenlendiği, Vergi Dairesinden gönderilen kira kontratında dahi ...'in kiracı olarak görüldüğü tespit edildiğinden, taraflar arasında geçerli kabul edilen ilk kira kontratında dahi devir yasağına ilişkin bir madde bulunmadığı gerekçesi ile davanın reddi doğru değil ise de sonucu itibariyle doğru olan hükmün yukarıdaki gerekçe ile HUMK.nun 438./son maddesi gereğince bu değiştirilmiş gerekçe ile düzeltilerek ONANMASINA, temyiz harcı peşin
 alındığından başkaca harç alınmasına mahal olmadığına 12/12/2012 tarihinde oybirliğiyle karar verildi.
 
 ## Yargıtay 3. HD 2012/22404 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/487076700)
+
 Hükme esas alınan bilirkişi raporunda, dava konusu (7 katlı mobilya mağazası) taşınmazın yeniden ve boş olarak kiraya verilmesi halinde (tamamı için) aylık 21.000 TL getirebileceği belirtilmiştir. Taşınmaza ilişkin kira sözleşmesinde, tamamına veya hisseye ilişkin olup olmadığı belirtilmemiştir.Mahkemece; kira sözleşmesinin taşınmazın tamamına yönelik olup olmadığı, davacının taşınmazda hissesi olduğu anlaşıldığından, hissesine ilişkin kira tespiti talep edip etmediği ve sözleşmenin davacı hissesine yönelik yapılıp yapılmadığı araştırılarak, sonucuna göre hüküm kurulması gerekirken, eksik inceleme ile karar verilmesi doğru görülmemiştir.Bundan ayrı olarak, kira parasının aylık olarak tespitinin talep edildiği davalarda aylık kira farkı üzerinden harç alınması gerektiği gözetilmeden yıllık fark üzerinden harç alınması da doğru görülmemiştir.Bu itibarla yukarıda açıklanan esaslar gözönünde tutulmaksızın yazılı şekilde hüküm tesisi isabetsiz, temyiz itirazları bu nedenlerle yerinde olduğundan kabulü ile hükmün HUMK.nun 428.
 
 ## Yargıtay 6. HD 2012/4983 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/17245300)
 
 Olayımıza gelince; Davada dayanılan ve hükme esas alınan 1/5/2009 başlangıç tarihli ve bir yıl süreli kira sözleşmesi konusunda taraflar arasında bir uyuşmazlık bulunmamaktadır. Dava konusu taşınmaz arsa vasfında olup bu haliyle Borçlar Kanununa tabidir. Belli süre ile akdedilen sözleşme Borçlar Kanununun 263. maddesi gereğince, kiralananın kullanılmasına devam olunduğu için sözleşme süresiz bir müddet için yenilenmiş sayılır ve Borçlar Kanununun 262. maddesinde gösterilen sürelere uyulmak suretiyle feshedilir.
 Borçlar Kanununun 262 nci maddesi gereğince; başlangıcı belirli süresi belli olmayan kira sözleşmelerinde akdin feshi için akdin başlangıç tarihine göre 6 aylık süre sonunda dava açılabilmesi için 3 ay önceden ihtar gönderilmesi gerekirken davacı tarafından 13.4.2011 tarihinde tebliğ edilen ihtar üzerine 12.5.2011 tarihinde açılan dava süresinde olmadığından, mahkemece davanın süresinde açılmadığından bahisle reddine karar verilmesi gerekirken, yazılı gerekçe ile davanın reddi doğru değil ise de sonucu itibariyle doğru olan hükmün yukarıdaki gerekçe ile 6100 sayılı HMK.ya 6217 Sayılı Kanunla eklenen geçici 3.madde hükmü gözetilerek HUMK.nun 438./son maddesi gereğince bu değiştirilmiş gerekçe ile ONANMASINA ve temyiz harcı peşin alındığından başkaca harç alınmasına mahal olmadığına, 29.03.2012 tarihinde oybirliğiyle karar verildi.
 
 ## Yargıtay 6. HD 2012/4885 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/568783300)
+
 Olayımıza gelince; Kiralananın niteliğine göre kira sözleşmesi Borçlar Kanunu'nun adi kira hükümlerine tabidir. Borçlar Kanunu'nun. 254. maddesi delaletiyle B.K. 262. maddesinde öngörülen 6 aylık dönem için 3 ay öncesinden kiracı-davalıya feshi ihbar gönderilmediğinden, kiralayanın dönem sonunda dava açma hakkının doğmadığı, bu nedenle davanın süresinde açılmaması nedeniyle reddi gerektiği anlaşıldığından sonucu bakımından doğru olan ret kararının HUMK'nun 328/son maddesi uyarınca bu gerekçe ile gerekçe değiştirilerek ONANMASINA ve temyiz harcı peşin alındığından başkaca harç alınmasına mahal olmadığına, 27.3.2012 tarihinde oybirliğiyle karar verildi.
 
 ## Yargıtay 6. HD 2011/14520 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1059981800)
 
 Taraflar arasındaki kira sözleşmesine göre kiralanan, Borçlar Kanunu hükümlerine tabi olup davacı tarafından sözleşmenin Borçlar Kanunu'nun 262. maddesindeki feshi ihbar sürelerine uyularak sona erdirilmesi gerekir. Davacı tarafından 9.4.2010 tarihinde keşide edilen 13.4.2010 tebliğ tarihli ihtarname 1.1.2010 ila 1.7.2010 tarihleri arasındaki altı aylık döneme nazaran üç aylık dönem içinde tebliğ ettirilmediğinden 22.10.2010 tarihinde açılan dava süresinde değildir. Davanın bu gerekçe ile reddi gerekirken yazılı gerekçe ile reddi doğru değilse de karar sonucu itibariyle redde ilişkin olduğundan 6100 sayılı HMK.ya 6217 Sayılı Kanunla eklenen geçici 3.madde hükmü gözetilerek HUMK.nın 438.maddesi gereğince hükmün gerekçesi düzeltilerek ONANMASINA ve temyiz harcı peşin alındığından başkaca harç alınmasına mahal olmadığına,14.12.2011 tarihinde oybirliğiyle karar verildi.
 
 ## Yargıtay 14. HD 2011/9376 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/773405200)
+
 Bütün bu açıklamalardan sonra mahkemece yapılması gereken iş, tefrikine karar verilen belediye hakkındaki davayı eldeki davayla birleştirmek, yargılama harç ve giderleri hakkında özellikle Borçlar Kanununun adi kiraya ilişkin “üçüncü şahsın iddiasına karşı mesuliyet” başlıklı 253.maddesi hükmü dikkate alınarak bir karar vermek olmalıdır. Davalı şirketin bütün bu hususları amaçlayan karar düzeltme istemi açıklanan nedenlerle kabul edilmelidir.
 
 ## Yargıtay 6. HD 2010/12858 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1064738200)
 
 Tahliye ve alacak davası nedeniyle bir yıllık kira bedeli ve hükmedilen kira parası toplamı üzerinden nisbi ilam harcına ve nisbi vekalet ücretine hükmedilmesi gerekirken davalı aleyhine fazla harca ve vekalet ücretine hükmedilmiş olması doğru değil ise de, bu nedenle hükmün bozularak yeniden yargılama yapılması usul ekonomisi yönünden yerinde görülmediğinden vekalet ücreti ve harçla ilgili bölüm çıkarılarak hüküm kısmına “Avukatlık Asgari Ücret tarifesi hükümlerine göre 1596 TL vekalet ücretinin davalıdan alınarak davacıya verilmesine” harçla ilgili olarak “eksik kalan 655.
 
 ## Yargıtay 6. HD 2010/12509 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1068504800)
+
 Davada dayanılan ve karara esas alınan kira sözleşmesinde kiralayanın ... oldukları, sözleşmenin adı geçen kiralayanlara vekaleten ... tarafından imzalandığı, icra takibini davacı ...'ın yaptığı, davanın ... tarafından açıldığı anlaşılmıştır. Sözleşmeye göre kiralayan olan ... ... tarafından icra takibi başlatılıp dava açılması gerekirken kiralayan olmayan sözleşmeyi kiralayanlara vekaleten imzalayan ...'ın dava açma hakkı bulunmamaktadır. Taraf teşkili kamu düzenine ilişkin olup hakim tarafından her aşamada re'sen dikkate alınmalıdır. Mahkemece istemin davacı ...'ın dava hakkı bulunmadığı gerekçesiyle reddi gerekirken yazılı gerekçe ile davanın reddine karar verilmesi doğru değil ise de, bu yanlışlığın giderilmesi için kararın bozulup yeniden yargılama yapılmasında yarar görülmediğinden sonucu itibariyle doğru olan kararın değiştirilmiş bu gerekçe ile DÜZELTİLEREK ONANMASINA ve temyiz harcı peşin alındığından başkaca harç alınmasına mahal olmadığına, 11.11.2010 tarihinde oybirliğiyle karar verildi.
 
 ## Yargıtay 6. HD 2010/10736 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1063141900)
 
 Takibe konu ve karara esas alınan 20.06.2006 başlangıç tarihli ve bir yıl süreli kira sözleşmesi konusunda taraflar arasında uyuşmazlık bulunmamaktadır. Davacı alacaklı tarafından 2008 yılı Ocak ayından eksik ödenen 182 TL ile 2008 yılı Şubat – Mayıs ayları arası için aylık 650 TL üzerinden 2.600TL ve 2008 Haziran-Kasım ayları arası için aylık 725 TL üzerinden 4.325TL olmak üzere toplam 7.132 TL kira alacağının tahsili için davalı borçlu aleyhine icra takibi başlatılmıştır. Davalı borçlu yasal süresinde borca yaptığı itirazında, 2008 yılı Kasım ayın kadar bütün kira paralarının elden ödendiğini, brüt 585 TL olan 2008 Kasım ayı kira bedelinin de net 468TL olarak takip tarihinden önce alacaklının banka hesabına yatırıldığını belirtmiştir. Duruşma aşamasında aylık kira bedelinin 585TL olduğu davacı alacaklı tarafından da kabul edilmiştir.
 Davalı borçlu tarafından 17.11.2008 tarihinde yapılan ödeme dışında takibe konu aylara ilişkin kira paralarının ödendiği İ.İ.K 269/c maddesinin birinci fıkrasında yer alan belgelerle kanıtlanamamış olup davanın sadece bu gerekçe ile kabulüne karar verilmesi gerekirken dar yetkili icra mahkemelerinde başvurulması olanaklı olmayan yemin delilinin davalı tarafından karşı tarafa yöneltilmediğinden bahisle kabulü doğru değil ise de sonuç itibariyle doğru hükmün yukarıda yazılı gerekçe ile HUMK.nun 438/son maddesi uyarınca DÜZELTİLEREK ONANMASINA ve temyiz harcı peşin alındığından başkaca harç alınmasına mahal olmadığına, 13.10.2010 tarihinde oybirliğiyle karar verildi.
 
 ## Yargıtay 6. HD 2010/8498 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1060160700)
+
 492 Sayılı Harçlar Kanunu’nun 17. maddesi hükmü gereği taşınmazın tahliyesi davalarında yazılı sözleşme olsun veya olmasın bir yıllık kira bedeli üzerinden karar ve ilam harcı alınır. Aynı yasanın 16. maddesine göre de değer tayini mümkün olan hallerde dava dilekçesinde değer gösterilmesi zorunludur. Gösterilmemiş ise davacıya tespit ettirilir. Tespitten kaçınma halinde dava dilekçesi işleme konulmaz. Noksan tespit edilen değerler hakkında 30. madde hükmü uygulanır. 492 Sayılı Harçlar Kanunu’nun 30. maddesi ise davanın başında alınmış olan karar ve ilam harcının noksan olduğunun sonradan anlaşılması halinde karar ve ilam harcı tamamlanmadıkça davaya devam olunamayacağını düzenlemiştir.Bu durumda mahkemenin harcın tamamlanması için uygun süre vermesi ve ondan sonra yargılamaya devam olunması gerekir. Harç kamu düzenine ilişkin olduğundan mahkemece kendiliğinden gözetilmelidir.
 
 ## Yargıtay 6. HD 2010/8114 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/667023400)
 
 492 Sayılı Harçlar Kanunu’nun 17. maddesi gereğince gayrimenkulün tahliyesi davalarında, yazılı mukavele olsun veya olmasın bir yıllık kira bedeli üzerinden karar ve ilam harcı alınır. Hüküm tarihinde yürürlükte bulunan Avukatlık Asgari Ücret Tarifesinin 7/2. maddesi gereğince, davanın dinlenebilmesi için kanunlarda öngörülen ön şartın yerine getirilmemiş olması nedeniyle davanın reddine karar verilmesinde, davanın görüldüğü mahkemeye göre Tarifenin ikinci kısmının ikinci bölümünde yazılı miktarları geçmemek üzere üçüncü kısımda yazılı avukatlık ücretine hükmolunacağı belirtilmiştir. Bu durumda mahkemece Avukatlık Asgari Ücret Tarifesinin 7/2. maddesi gereğince davada kendisini vekille temsil
 
 ettiren davalı yararına vekalet ücretine hükmetmek gerekirken yazılı şekilde nisbi vekalet ücretine karar verilmesi doğru görülmediğinden kararın vekalet ücretine hasren bozulması gerekmiştir.
 
 ## Yargıtay 18. HD 2010/5405 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/804872500)
 
 Tapuda mesken nitelikli olan bağımsız bölümün bu niteliğine uygun kullanılmasını temin amacıyla Kat Mülkiyeti Yasasına dayalı olarak açılan dava, kiracı-kiralayan arasındaki bir tahliye davası niteliğinde olmadığından davalı kiracılara dava konusu yerin iş yeri olarak kullanılmasına son verilip meskene dönüştürmesi için makul bir süre tanındıktan sonra gereğinin yapılmaması halinde tahliyesine karar verilmesi gerekirken doğrudan tahliye kararı verilmiş olması, davanın niteliği gereği maktu vekalet ücreti ve maktu harca hükmedilmesi gerektiğinin düşünülmemesi doğru değilse de bu yanılgıların giderilmesi yeniden yargılama yapılmasını gerektirmediğinden, gerekçeli kararın hüküm fıkrasının birinci paragrafında yer alan “ÖNLENMESİNE” ibaresinden sonra gelmek üzere “ 2 numaralı bağımsız bölümün meskene dönüştürülmesi için davalılara 30 gün süre verilmesine, bu süre sonunda meskene dönüştürülmediği taktirde” ibarelerinin eklenmesi, yine gerekçeli kararın ikinci paragrafının hükümden çıkartılarak yerine “Peşin alınan harcın mahsubu ile bakiye 1,6 TL maktu karar ve ilam harcının davalılardan tahsili ile hazineye gelir kaydına” cümlesinin yazılması ve ayrıca hükmün dördüncü paragrafında yer
 alan “1.296,00 TL” rakamının hükümden çıkartılarak yerine “ 310 TL” rakamının yazılması suretiyle hükmün düzeltilmesine ve düzeltilmiş bu şekli ile ONANMASINA, aşağıda yazılı fazla alınan temyiz peşin harcının istek halinde temyiz edene iadesine, 06.04.2010 gününde oybirliğiyle karar verildi.

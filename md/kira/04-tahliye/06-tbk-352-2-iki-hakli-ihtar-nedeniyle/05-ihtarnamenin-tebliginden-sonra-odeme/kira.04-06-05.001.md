@@ -21,9 +21,13 @@ uyari: "Derleyenin seçtiği alıntılardır; kararın tamamı değildir. Künye
 
 ## Yargıtay HGK 2021/1314 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/720126200)
+
 İki haklı ihtar nedeniyle tahliyeye karar verilebilmesi için, aynı süre içinde kiracının muaccel olduğu hâlde iki ayın kira bedelini ödememesi, kiraya verenin de ödenmeyen her bir ay kira bedeli için kiracıya ayrı ayrı ödeme ihtarında bulunmuş olması gerekmektedir. İhtarların kira bedellerinin muaccel olması sonrasında yapılması gerekir. Ödenmeyen aylar üst üste gelen iki ay bile olsa kiraya verenin her ay kira bedeli için ayrı ihtar çekmiş olması aranır. İhtar ile hangi ayın kira bedelinin ödenmediği ve kira bedelinin otuz gün içerisinde ödenmesi gerektiği, ödenmediği takdirde tahliye davasının açılacağı ikazlarını içermelidir. İki haklı ihtarın bir kira döneminde ve bir yıl içindeki aylarla ilgili olması ve o yıl içinde kiracıya tebliğ edilmesi zorunludur. **İhtar kiracıya tebliğ edildikten sonra ödeme yapılması kiraya verenin haklılığını ortadan kaldırmaz** (Kanık, 1306)."
 
 ## Yargıtay 3. HD 2025/3118 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1159454200)
 
 01.07.2012 tarihinde yürürlüğe giren 6098 sayılı Türk Borçlar Kanunu'nun (6098 sayılı Kanun) 352. maddesi gereğince; iki haklı ihtar nedeniyle açılan davada tahliye kararı verilebilmesi için, kiracıya bir yıldan kısa süreli kira sözleşmelerinde kira süresi içinde, bir yıl ve daha uzun süreli kira sözleşmelerinde ise, bir kira yılı veya bir kira yılını aşan süre içinde kira bedelini ödemediği için yazılı olarak, iki haklı ihtarda bulunulması gerekir. **İhtar tebliğinden sonra yapılan ödemeler ise, iki haklı ihtarın oluşmasına engel teşkil etmez**.
 

@@ -22,6 +22,8 @@ uyari: "Derleyenin seçtiği alıntılardır; kararın tamamı değildir. Künye
 
 ## Yargıtay 3. HD 2019/5399 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/514766300)
+
 Bu durumda Mahkemece davalının eski kiracı olduğu da dikkate alınarak yukarıdaki açıklamalar ışığında hak ve nesafete göre 01.04.2015 tarihinde başlayan dönem için kira bedelinin brüt olarak tespiti gerekirken yazılı şekilde yetersiz bilirkişi raporuna dayanılarak, net mi brüt mü olduğu belirtilmeden ve **hakkaniyet indirimi uygulanmadan yazılı şekilde karar verilmesi usul ve yasaya aykırı olup**, bozmayı gerektirmiştir.
 
 ## Yargıtay 3. HD 2026/3681 K.

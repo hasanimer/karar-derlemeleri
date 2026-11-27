@@ -26,11 +26,15 @@ uyari: "Derleyenin seçtiği alıntılardır; kararın tamamı değildir. Künye
 
 ## Yargıtay HGK 2021/1168 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/713245300)
+
 18.11.1964 tarihli ve 2/4 sayılı Yargıtay İçtihadı Birleştirme Kararı uyarınca **bilirkişilerin taşınmazın serbest şartlarda boş olarak kiraya verilmesi hâlinde getireceğini bildirdikleri kira bedelinden (14.375TL) hak ve nesafet ilkesi gözetilerek uygun ve makul bir indirim yapılarak kira bedelinin tespiti yoluna gidilmesi gerekir**. Ancak mahkeme tarafından bilirkişilerce tespit edilen bedel üzerinden değil davacının talep ettiği kira bedeli üzerinden (10.000TL) hak ve nesafete göre bir miktar indirim yapılarak kira bedelinin 9.000TL olarak belirlendiği anlaşılmaktadır.
 
 O hâlde, **mahkemece; bilirkişi tarafından tespit edilen kira bedelinden (14.375TL) yerleşik Yargıtay uygulamasını da yansıtacak biçimde hak ve nesafet ilkesi uyarınca indirim yapılmalı**; davacının talebi de dikkate alınarak talep aşılmaksızın kira bedelinin tespiti yoluna gidilmelidir.
 
 ## Yargıtay 3. HD 2025/3520 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1159362400)
 
 … bilirkişi raporunda belirlenen kira bedelinin davacının talebinden fazla olduğundan, davalının eski kiracı olması nedeniyle **hak ve nesafet indiriminin, bilirkişi raporunda belirlenen ve Mahkemece benimsenen miktar üzerinden yapılması gerektiğinin**…
 

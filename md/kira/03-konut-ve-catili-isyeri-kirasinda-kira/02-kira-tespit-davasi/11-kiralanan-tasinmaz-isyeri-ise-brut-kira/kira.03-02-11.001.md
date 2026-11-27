@@ -34,6 +34,8 @@ yapılan hak ve nesafet indiriminin yerinde olmasına, kira sözleşmesinde art�
 
 ## Yargıtay 3. HD 2019/8469 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/544784100)
+
 Somut olayda; Davacıların murisi ile davalı arasında 01/06/2002 tarihli kira sözleşmesinin varlığı hususunda uyuşmazlık bulunmamaktadır. Davacının talep ettiği dönem hak ve nesafet dönemi olup, mahkemece kiralanan taşınmazın emsal ve rayiç kira bedelleri göz önünde bulundurularak boş olarak getirebileceği aylık brüt kira bedelinden, davalının eski kiracı olması nedeniyle hakkaniyet indirimi de yapılarak aylık kira bedelinin brüt olarak tespitine kararı verilmesi gerekir. Bozmaya uygun olarak, dosya arasında bulunan bilirkişi raporları arasındaki çelişkinin giderilmesine yönelik alınan 14/01/2019 tarihli bilirkişi ek raporunda; dava konusu 42 m2 lik iş yerinin 01/06/2013 tarihinde boş olarak kiraya verilmesi halinde getirebileceği kira miktarı net 5.000TL brüt 5900TL olabileceği ve bu bedelin de hakkaniyete uygun olduğu tespit edilmiştir. Mahkemece hükme esas alınan bilirkişi ek raporunda; kira bedelinin net 5000TL brüt 5900 TL olduğu bildirilmiş ise de, 5.000TL kira bedelinin brütü 6.250 TL'dir. **Buna göre, Mahkemece brüt 5900TL kira bedeline hükmedilmesinde bir usulsüzlük bulunmamakta olup, hükümde hem net hem brüt kira bedeline hükmedilmesi ise doğru değildir**.
 
 ## Yargıtay 3. HD 2026/1762 K.

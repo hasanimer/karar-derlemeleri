@@ -23,25 +23,37 @@ uyari: "Derleyenin seçtiği alıntılardır; kararın tamamı değildir. Künye
 
 ## Yargıtay 12. HD 2008/12214 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/71108500)
+
 Takip dayanağı kira tespit ilamı kesinleşmedikçe icra takibine konu edilemez. Ancak ayrıca aylık kira bedelinin tespitine yönelik bölüm de edaya ilişkin bir hüküm taşamadığından ilamların icrası yoluyla takibe konu edilemez. Bir başka anlatımla bu ilam aylık kira parasının tespitine ilişkindir. Bu nedenle alacaklının kira tespit kararındaki vekalet ücreti, yargılama gideri ve harç dışında kalan kalelerin ilamlı icraya konu etmesi doğru olmadığından mahkemece bakiye kira alacağı ve buna ilişkin faiz yönünden takibin iptaline karar vermek gerekirken bu yöne ilişkin itirazın da reddi isabetsizdir.
 
 ## Yargıtay 18. HD 2008/858 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/874341300)
 
 Kat Mülkiyeti Yasasının 20. maddesi hükmüne göre; gider ve avans payının tamamını ödemeyen kat maliki geciktiği günler için aylık %10 hesabı ile gecikme tazminatı ödemekle yükümlü olup, bu tazminata borçlunun borcunu öğrendiği tarihten itibaren hükmedilmelidir. Davalının davaya ve takibe konu olan işletme giderleri borcu (kira artışları ile orantılı olarak arttırılan ve eksik ödenen kısmı) her yıl kira tespiti davaları sonucu belirlenen kira artış oranlarına göre tespit edildiğinden, takibe konu işletme giderleri için kira tespiti davasının kesinleştiği tarihlerden itibaren gecikme tazminatına hükmedilmesi gerekir.
 
 ## Yargıtay 13. HD 2007/12348 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/840377600)
+
 Taraflar arasındaki kira sözlemesine konu olan taşınmaz arsa vasfındadır. Davacı, arsa vasfındaki taşınmazının kirasının arttırılması talebi ile bu davayı açmıştır. Kira tespit davaları yasal olarak ancak 6570 sayılı yasa kapsamında bulunan musakkaf taşınmazlar için açılabilir. Dava konusu taşınmazın arsa niteliğinde olduğu için 6570 sayılı kanun kapsamında olmadığı ve Borçlar Kanunun hükümlerine tabi olduğu tartışmasızdır. Borçlar Kanununda da kira tespitini düzenleyen her hangi bir hüküm bulunmamaktadır. Taraflar arasında kira şartları bakımından uyuşmazlıkların çıkması halinde Borçlar Kanununun 285. maddesi taraflara akdi fesih etme imkanını tanımıştır. Olayımızda davacının fesih yönünden bir talebi bulunmadığına göre davanın reddine karar verilmesi gerekir. Mahkemece aksi düşüncelerle yasaya uygun olmayan düşüncelerle yazılı şekilde hüküm tesisi usul ve yasaya aykırı olup, bozmayı gerektirir.
 
 ## Yargıtay 12. HD 2007/16843 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/76453000)
 
 Kira parasının tespitine ilişkin ilam belirli bir bedelin tespitini içermesi nedeniyle ve tahsil hükmü içermediğinden kesinleşmeden takibe konulması mümkün değildir. Ayrıca ilamda yer alan avukatlık ücreti ve mahkeme masrafı da kararın eklentisi niteliğinde olduğundan ve tahliyeye ilişkin hükümle ilgili masrafın bölünmesi mümkün olmadığından tespit ilamı kesinleşmeden takibe konulamaz. Alacaklı bu durumda tespit ilamını ve eklentisi olan ücret-i vekalet ve mahkeme masrafını kesinleşmeden takip konusu yapamaz ise de, tahliye kararlarının kesinleşmesine gerek olmadığından takibe konu yapabilir. Mahkemece bu durumda borçlunun tahliye dışındaki istemlerinin kabulü ile yetinmek gerekirken tahliye kararını da içerir şekilde istemin tümden kabulü isabetsizdir.
 
 ## Yargıtay 12. HD 2007/4050 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/71957800)
+
 Kira parasının uygulanmasına ilişkin ilamda tıpkı kira tespit ilamlarında olduğu gibi belirli bir bedelin tespitini içermesi nedeniyle yerleşik Yargıtay uygulamalarına göre kesinleşmeden takibe konulması mümkün değildir. Bu durumda kira uyarlaması ilamı içeriğinde hükmolunan avukatlık ücreti de bu ilam kesinleşmeden takip konusu yapılamaz. Mahkemece şikayetin kabulüne karar vermek gerekirken reddi isabetsizdir.
 
 ## Yargıtay 12. HD 2006/20368 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/65343400)
 
 Kira bedelinin tespiti davaları, HUMK'nun 440.madde III/2 hükmünde (parantez içindeki istisnalar arasında) sayılmamıştır. Bu nedenle, kira bedelinin tespiti davasında sulh mahkemesinin verdiği karar hakkındaki Yargıtay kararına karşı (mevcut kira ile tespiti istenen kira arasındaki farkın 1 yıllık tutarı karar düzeltme sınırından fazla olsa bile) karar düzeltme yoluna gidilemez.
 

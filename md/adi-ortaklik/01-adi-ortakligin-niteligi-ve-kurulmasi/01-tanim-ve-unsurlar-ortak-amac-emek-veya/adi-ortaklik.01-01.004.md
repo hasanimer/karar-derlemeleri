@@ -22,6 +22,8 @@ uyari: "Derleyenin seçtiği alıntılardır; kararın tamamı değildir. Künye
 
 ## İstanbul BAM 53. HD 2025/284 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1132740000)
+
 A.Ş.'nin oluşturduğu adi ortaklık arasında, dava dışı Keşan Belediye Başkanlığı tarafından 27.12.2012 tarihli sözleşme ile davalı-birleşen davacı adi ortaklığa ihale edilen "Keşan Belediyesi Kapalı Otopark, Ofis, Çarşı ve Hizmet Binası ve Açık Pazaryeri Kompleksi İnşaatı" kapsamındaki bir kısım işlerin davacı-birleşen davalı tarafından yapılmasına ilişkin 19.500.000,00 TL + KDV götürü bedelli 15.01.2013 tarihli taşeron sözleşmesi imzalanmış, sözleşmesinin 9.maddesinde işin tamamlanma süresi 350 gün olarak belirlenmiş, sözleşmenin 4., 28. ve 29.maddelerinde ödemelerin aylık hak edişler haline ve asıl iş sahibinden tahsilat yapıldığında taşeron şirkete %10 teminat kesintisi uygulanarak yapılacağı belirtilmiş olup, davalı-birleşen davacı tarafça gönderilen ihtarname iel sözleşmenin 14. Maddesine dayalı olarak bu sözleşme 15.01.2015 tarihi itibariyle tek taraflı olarak feshedilmiş ve bu ihtarname davacı-birleşen davalıya 11.02.2015 tarihinde tebliğ edilmiştir.
 Asıl davada, davacı-birleşen davalı taşeron tarafından ıslahla 1.609.618,73 TL bakiye iş bedeli; birleşen davada (2015/687 E), davalı-birleşen davacı yüklenici (iş sahibi) tarafından ıslahla 4.178.267,99 TL fazla ödendiği iddia edilen bedelin iadesi talep edilmiş olup, Mahkemece, hükme esas alınan 24.02.2020 tarihli bilirkişi heyeti raporu doğrultusunda, asıl davanın 1.222.425,10 TL üzerinden kısmen kabulüne, birleşen davanın (2015/687 E) ise reddine karar verilmiştir. Öncelikle usule ilişkin hususlar değerlendirildiğinde; Asıl davaya ilişkin dava dilekçesinde ve sonradan sunulan 28.07.2015 tarihli ıslah dilekçesinde davalı olarak ... Mak...A.Ş. ve ... İnş. ve Taahh. A.Ş.'nin oluşturduğu adi ortaklık gösterilmiş olup, bu davaya karşı cevap ve 2. cevap dilekçeleri de adi ortaklık kaşesi üzerine atılan imza ile adi ortaklık adına, adi ortaklık yetkilisi olan ... tarafından sunulmuş, cevap dilekçesi ekinde de bu kişinin sadece adi ortaklığı temsile yetkili olduğuna, adi ortak şirketleri bireysel olarak bir temsil yetkisi bulunmadığına dair dayanak vekaletnameler ve imza beyannamesi sunulmuştur.
 
@@ -29,6 +31,8 @@ Mahkemece gerekçeli kararda da belirtildiği üzere, 6098 sayılı TBK'nın 620
 Mak....A.Ş. tarafından açılmış ise de yargılama sırasında diğer adi ortak ... İnş...A.Ş. vekili tarafından sunulan 11.09.2019 tarihli dilekçeyle bu davaya muvafakat edildiğinden ve sonrasındaki 22.12.2020 tarihli ıslah dilekçesi her iki adi ortak şirket vekilince ortak imzayla sunulduğundan, birleşen davaya ilişkin taraf teşkili de sağlanmıştır. Ancak, her ne kadar Mahkemece, asıl davaya cevap dilekçesinin adi ortaklık adına pilot ortak ... Mak...A.Ş. vekili tarafından verildiği kabul edilerek bu adi ortak şirketi bakımından taraf teşkiline yönelik bir uygulamaya gidilmemiş ise de yukarıda belirtildiği üzere bu değerlendirme ve kabul yerinde değildir. Asıl davaya karşı cevap ve 2. cevap dilekçeleri adi ortaklık kaşesi üzerine atılan imza ile adi ortaklık adına, adi ortaklık yetkilisi olan ... tarafından sunulmuş ve davanın adi ortaklığa karşı açılmış olmasından dolayı husumet itirazında bulunulmuş olup, bu kişi adi ortak şirketleri bireysel olarak temsile yetkili birisi değildir. ... Mak.
 
 ## Adana BAM 9. HD 2025/143 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1118656400)
 
 Dava, hukuki niteliği itibariyle adi ortaklığın tasfiyesi, birleşen dava ise ortaklık payının tahsili istemine ilişkindir.
 
@@ -38,6 +42,8 @@ Adi ortaklık sözleşmesi, 6098 Sayılı Türk Borçlar Kanunu'nun 620. vd. mad
 
 ## İstanbul BAM 3. HD 2024/2711 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1073428500)
+
 Şti.'nin kalan 3 hissesini 1.785.000,00 TL bedelle sattığını, davacı ...'in bu satışlardan doğan pay alacağının ödenmesini davalıdan istediği, davalının davacının banka hesabına 125.000,00 TL gönderdiği, bakiye payını ise ödemediği, gönderilen bu paranın da adi ortaklığın ve adi ortaklığın tasfiye edilmeye başlandığının delili olduğu' ileri sürülerek adi ortaklıkları bulunduğunun tespitine, taraflar arasındaki adi ortaklığın fesih ve tasfiyesine, adi ortaklığın tasfiyesinden kaynaklanan davacının hissesine düşen alacağın tasfiye memuru tarafından hesaplanarak ticari faiziyle birlikte davalıdan tahsiline karar verilmesini talep ve dava görülmektedir. Mahkeme tarafından ise heyetimize rapor tanzim edilmesi görevi tevdi edilmiştir.Dosyaya mübrez karşılıklı taraf beyanları ile taraflarca dosyaya ibraz edilen belgeler tetkik edilmiştir. Tüm bu inceleme ve değerlendirmeler ışığında konuya ilişkin görüşlerimiz ve kanaatlerimiz her türlü hukuki değerlendirme ve nihai takdiri yargılama makamına ait olmak üzere halli gereken uyuşmazlık konularının: 1. Davacıların dava dışı ....
 Şti.'nde adi ortaklıklarının bulunup bulunmadığı, bulunmakta ise fesih ve tasfiye koşularının bulunup bulunmadığı, 2. Davacıların tasfiye alacağı talep edip edemeyeceği, talep edebilecek ise miktarının, tespiti “noktasında toplandığı anlaşılmaktadır. Dolayısıyla bu noktadan itibaren açıklamalarımıza tespit edilen hususların başlıklandırılmak suretiyle incelenmesi ile devam edilecektir. 1. Davacıların Dava Dışı .... Şti.'nde Adi Ortaklıklarının Bulunup Bulunmadığı, Bulunmakta İse Fesih ve Tasfiye Koşularının Bulunup Bulunmadığına İlişkin İnceleme: Adi ortaklık sözleşmesi, TBK m. 620/f.1'de tanımlanmıştır. Buna göre adi ortaklık, iki yahut daha fazla kişinin emeklerini ve mallarını ortak bir amaca ulaşmak amacıyla birleştirmeyi üstlendikleri sözleşmedir. Kanun hükmündeki ibaresinde yer alan “ve” bağlacı, “veya” olarak anlaşılmalıdır. Öte yandan bu husus, TBK m. 621/f.1 hükmü ile de açıkça çelişmektedir. Zira ilgili maddede her ortağın, para, alacak veya başka bir mal ya da emek olarak, ortaklığa bir katılım payı koymakla yükümlü olduğu düzenlenmiştir.
 
@@ -46,11 +52,15 @@ Gerçekten de, bir hukuksal ilişkinin adi ortaklık olarak kabul edilebilmesi i
 
 ## İzmir BAM 11. HD 2024/1512 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1063665200)
+
 Bilindiği üzere TBK'nun 620 ve devamı maddelerinde düzenlenen adi ortaklığın tüzel kişiliği bulunmadığı gibi herhangi bir ticari ünvanı da bulunmamaktadır. Adi ortaklığın ticaret siciline tescili ve ilanı zorunlu olmayıp, TBK'nun 12. Maddesi uyarınca adi ortaklığın kuruluşu kural olarak herhangi bir şekle de bağlı değildir. Aynı yasanın 638/3 maddesi uyarınca ise ortaklar birlikte veya bir temsilci vasıtasıyla üçüncü kişiye karşı ortaklık ilişkisi çerçevesinde üstlendikleri borçlardan, aksi kararlaştırılmadıkça müteselsilen sorumlu olurlar.
 
 Bu açıklamalar ışığında somut olaya bakıldığında; dosyada mevcut İzmir 19. Noterliği 22.02.2013 tarih, 03997 yevmiye numaralı Adi Ortaklık Sözleşmesinde görüleceği üzere dava dışı ... ve davalı ...'nın kredi sözleşmesinin imzalandığı sırada adi ortaklığın ortakları olduğu, bu adi ortaklık adına davacı bankadan kredi kullandıkları, aynı zamanda kredi sözleşmesinde müşterek borçlu ve müteselsil kefil olarak imzalarının bulunduğu, yukarıda belirtildiği üzere TBK'nun 638/3 uyarınca ortakların birlikte, üçüncü kişiye karşı adi ortaklık ilişkisi çerçevesinde üstlendikleri borçlardan müteselsilen sorumlu oldukları dikkate alındığında mahkemece adi şirket ortağı olduğu anlaşılan davalı yönünden yanılgılı değerlendirme ile davanın reddine karar verilmesinde isabet bulunmadığı, bu itibarla eksik incelemeye dayalı yerel mahkeme kararının HMK'nun 353/1-a.6 maddesi gereğince kaldırılması gerektiği sonucuna varılmıştır.
 
 ## İstanbul BAM 3. HD 2024/1483 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1031444000)
 
 6100 sayılı HMK'nun 355 md gereğince, istinaf sebepleri ile sınırlı olarak yapılan incelemeye göre; Dava adi ortaklığın tespiti ile bu nedenle tasfiye ve kar payı alacağına ilişkindir. Davacı tarafça adi ortaklık bulunduğu iddiası ile dava açılmış olup,davalılar adi ortaklık bulunmadığını savunmaktadır. Uyuşmazlığın çözümü, davacı tarafından dayanılan adi ortaklık sözleşmesinin hukuki tanımı, kurulma aşaması ve ispatında toplanmaktadır. Adi ortaklık; iki ya da daha fazla kişinin emeklerini ve mallarını ortak bir amaca erişmek üzere birleştirmeyi üstlendikleri sözleşme olmakla,(TBK md 620/1) adi ortaklık; birbirini tanıyan, birbirlerinin kabiliyet ve şahsiyetlerine güvenen, eşit ve aynı durumda olan gerçek veya tüzel kişilerin, müşterek amacın gerçekleştirilmesini sağlayacak vasıtaları (katılım paylarını) ortaklığa getirme konusunda karşılıklı ve uygun irade beyanlarının birbirine ulaşmasıyla teşkil eden bir kişi topluluğu olarak tanımlanmaktadır. Adi ortaklığın unsurları; arasında kişi, müşterek amaç, müşterek amaç uğruna birlikte çaba (affectio societatis), katılım payı (sermaye) ve sözleşme bağı şeklinde sayılabilir.
 Adi ortaklık sözleşmelerinin kuruluşu bakımından, ortakların esaslı noktalarda uyuşması gerektiğinden, (TBK md 2/1) ortakların şahsı, müşterek amaç, müşterek amaç uğruna birlikte çaba, katılım payının türü ve kapsamı, ortaklık açısından esaslı unsurlar olduğundan, bu hususlarda uyuşulması ortaklık sözleşmesinin kurulması için yeterli olacaktır.
@@ -59,6 +69,8 @@ Ortaklar, ikinci derecedeki noktalarda uyuşmamış olsalar bile, ortaklık kuru
 Mahkemenin kararı usul ve hukuka uygun bulunmuştur. Bu itibarla, ilk derece mahkemesince verilen kararda mahkemenin vakıa ve hukuki değerlendirilmesi bakımından usul ve esas yönünden yasaya aykırı bir durum bulunmamasına göre, davacının istinaf başvurusunun HMK 353/1-b-1 maddesi uyarınca reddine karar verilmesi gerekmiştir.
 
 ## Ankara BAM 22. HD 2024/1387 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1091720800)
 
 Dava, itirazın iptali istemine ilişkindir.
 
@@ -70,6 +82,8 @@ Somut olayda davacı ile davalıların içinde bulunduğu adi ortaklık arasınd
 
 ## İstanbul BAM 13. HD 2024/1150 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1047663200)
+
 Her ne kadar davacı tarafından hisse devri yapılacağı belirtilmiş ise de, şirketin tüm hisselerine sahip olan davalının daha sonra hisselerinin % 40'ını yatırımcı ortak ... devredeceği, kalan % 60 inin % 28,5 unun davacıya ait olacağı, yanı resmiyette görülmese dahi bu oranda şirkette hak sahibi olacağı görülmektedir. Ancak Ticaret sicilinin aleniyeti ve 3. Kişilerin haklarının korunması açısından bu anlaşmanın sadece anlaşan taraflar arasında geçerli olup, iyiniyetli 3. Kişilere ileri sürülemeyeceği sonucuna varılmış ise de, takdir mahkemenindir. Aynı prensip sözleşmenin 13. Maddesinde de belirtilmiştir. Sözleşmede davadışı kişiye davalı tarafından yapılacak olan hisse devir anlaşmasının gerçekleşmemesi durumunda ne olacağı ve bahis konusu projeyi bu hisse devirlerinin de nasıl etkileyeceği belirtilmemiş olup, aşağıda yazılacağı gibi, şirket projede yer almış olup, proje devam etmektedir. Anılan hisseler üzerindeki davacı hakimiyeti sözleşmenin 9. Maddesine göre, davalı tarafından 2019 yılında 500.000 TL ödenince sona erecektir. Bu ödemeye kadar davacının şirketteki gizli hissesi devam edecektir. Sözleşmenin 13. maddesine göre, sözkonusu şirketin de yer aldığı (...
 Teknoloji ve Yenilik Destek Programları çerçevesinde Kuruluşlar tarafından ortak yürütülecek, Uçtan Uca Yerli ve Milli 5 g Haberleşme Şebekesi adlı ve 3180114 nolu proje) başarısızlıkla sonuçlanırsa sözleşme kendiliğinden sona erecektir. ... A Ş. den gelen 22.1.2021 tarihli yazıya göre anılan proje 1.10.2018 tarihinde başlamış olup dava tarihinde devam etmektedir. Davalının sözleşmede kasdedilen projeye ilişkin beyanlarının takdiri mahkemenindir. Dosyada bulunan sözleşme doğrultusunda davacının üstüne düşen yükümlülüğü yerine getirdiği ve fiilen şirketteki hissesini devrettiği görülmektedir. Her ne kadar davalı taraflar arasında " gizli ortaklık sözleşmesi" olduğunu ileri sürmekte ise de, bu ortaklığın kurulması için daha evvel tarafların üstlendikleri yükümlülükleri yerine getirmeleri gerekmektedir. Buna karşın ödeme yapılmadığı dosyadan anlaşılmaktadır. Davalının beyanı doğrultusunda aralarındaki ilişkiyi hukuki temel olarak adi ortaklık kavramının içinde görme durumunda, TBK 620.
 
@@ -77,6 +91,8 @@ Maddede düzenlenen ve 'iki ya da daha fazla kişinin emeklerini ve mallarını 
 Maddesinde bu devir için davalının 200.000,00-TL'lik hiçbir şarta bağlanmaksızın davacı hesabına havale yapmak suretiyle ödeme yapacağı davalı tarafından kabul edilmiştir. Yine aynı sözleşmede davalıya devredilecek hissenin davalı tarafından bir proje kapsamında, % 20'si davacı hissesi, % 20'si davalı hissesinden bedelsiz olarak ... isimli şahsa devredileceği sözleşmenin 6. Maddesi ile belirlenmiştir. Bu devirler yapıldıktan sonra şirkette, davalının üzerinde kalacak % 60 hissenin, % 28.50 hissesi davacıya ve % 31,50 hissesi ise davalıya ait olduğu sözleşmenin 8. Maddesinde kararlaştırılmıştır. Ancak sözleşmenin 9. Maddesine göre davalı tarafından davacıya 500.000,00-TL daha ödemesi kaydıyla sözleşmenin 13. Maddesine göre sözleşmenin başarılı olması koşuluyla ödeme yapmak suretiyle tek yanlı ortaklık ilişkisinin sona ermesini düzenlediği, bu sözleşmenin başarılı olduğu taraflarca ispat edilemediği dosya kapsamındaki delillerle Mahkememizce tespit edilmiştir.
 
 ## Antalya BAM 7. HD 2024/939 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1070128700)
 
 Dava, sözleşmeye dayalı alacak davasıdır.
 
@@ -87,9 +103,13 @@ Taraflar arasındaki sözleşme atipik bir sözleşme olup, bu sözleşmenin vek
 
 ## Antalya BAM 7. HD 2024/795 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1047160700)
+
 3.2.6098 Sayılı TBK'nun 620 ve devamı maddelerinde düzenlenen adi ortaklığın tüzel kişiliği ve taraf ehliyeti bulunmamaktadır. Taraf ehliyeti 6100 Sayılı HMK 114/1-d maddesi gereğince dava şartlarından olup, taraflarca ileri sürülmese dahi, mahkemece re'sen nazara alınması gerekmektedir. Davalı iş ortaklığının taraf ehliyetinin bulunmaması nedeniyle, bu davalı yönünden dava şartı yokluğu nedeniyle davanın usulden reddine karar verilmesi gerekirken, bu davalı yönünden de yazılı şekilde esasa dair karar verilmiş olması usul ve yasaya uygun düşmemektedir. Kaldı ki, icra takibinin dayanağı olan Antalya 2. Asliye Ticaret Mahkemesinin ihtiyati haciz talebinin kabulüne ilişkin karar tesis edilen ... Değişik iş sayılı dosyası üzerinden verilen 15/02/2021 tarihli ek karar ile, iş ortaklığı aleyhine takip yapılamayacağı gerekçesiyle, davalı iş ortaklığı yönünden 19/01/2021 tarihli ihtiyati haciz kararına yapılan itirazın kabulüne ve kaldırılmasına karar verilmiştir. Belirtilen ek karar dikkate alındığında, adı geçen iş ortaklığı yönünden, geçerli bir icra takibinin varlığından söz edilemeyecek olması nedeniyle, bu yönden de dava şartı noksanlığı bulunmaktadır.
 
 ## İstanbul BAM 3. HD 2024/775 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1011383200)
 
 Kayıtlı hesapta bulunan TL veya döviz cinsinden paralar ... tarafından ticari olarak kullanılacaktır, ticari faaliyetlerde kullanılacak tutar alınan mal ve emtiayı ... adına alınacaktır, alınan mallar yatırım amaçlı veya satış amaçlı olacaktır, alınmış mallar satışından elde edilen gelir eşit şekilde maliyetler düşüldükten sonra paylaşılacaktır, alınacak olan mal her ne olursa ... tarafına bilgilendirildikten sonra alınacak, satılırken yine karşılıklı istişare edilerek satılacaktır, hesaptan ... tarafından para çekildiğinde çekilen para karşılığında ... hamiline çekilen miktar tutarında ... tarafından senet yazılacaktır. Senetin görseli ... Almanya'da ise kendisi ile mail ortamında paylaşılacak ve geldiğinde kendisine aslı teslim edilecektir. Mail adresi ...'ın güncel maili olacaktır, senettin çekilen paraya karşılık olduğu belirtilecektir. Malın satılıp paylaşım yapıldıktan sonra senet tekrar ... tarafına iade edilecektir, bu anlaşma iki nüsha şeklinde hazırlanmış taraflarca ... şahitliğinde imza altına alınmıştır." içerikli olduğu görülmüştür.
 Yukarıda içeriği yazılı bulunan ve tarafların kabulündeki 23/10/2014 tarihli sözleşme uyarınca, davalıya davacı hesaplarından para çekme yönünde özel vekaletname verildiği, bu paraların davalı yanca ticari faaliyette kullanılarak davalı adına mal ve emtia alınmasının, alınan malların yatırım amaçlı satışı ile elde edilecek gelirin maliyetler düştükten sonra taraflar arasında eşit olarak paylaşımını düzenleyen adi ortaklık ilişkisi kuruluğu, ancak sonrasında bu ortaklığın tarafların iradesiyle dava dışı Limited şirket haline dönüştürüldüğü anlaşılmaktadır.6098 sayılı Türk Borçlar Kanunu 620. maddesine göre ; adi ortaklık sözleşmesi, iki ya da daha fazla kişinin emeklerini ve mallarını ortak bir amaca erişmek üzere birleştirmeyi üstlendikleri sözleşmedir. Davacının sermaye, davalının da emeğini getirerek adi şirket kurduklarını mahkemece kabul edilmiştir.Mahkemenin bu yöndeki kabul ve değerlendirmesinde isabetsizlik bulunmamaktadır. Mahkemece yargılamada alınan bilirkişi raporunda özetle;dava dışı ... Tic Ltd Şti'nin ticari defterlerinin incelenmesi sonucunda ;
@@ -100,6 +120,8 @@ Diğer bir anlatımla, tasfiye memuru tarafından yapılacak bir arıtma işlemi
 
 ## İstanbul BAM 15. HD 2024/440 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1033845700)
+
 Maddesinde düzenlenen ve iş bedeli ödemesinin barter (iş yapımı karşılığında bedel olarak bağımsız bölüm verilmesi) şeklinde yapılması kararlaştırılan bir eser sözleşmesi niteliğinde olduğu, taraflar arasında bir tüketici ilişkisi bulunmadığı anlaşılmaktadır. Davada tarafların tüzel kişi tacir oldukları ihtilafsızdır. Bu durumda, davaya ticaret mahkemesi olarak bakılıp, işin esası incelenerek sonucuna göre bir karar verilmesi gerekirken, yazılı gerekçelerle görevsizlikle dosyanın Bakırköy Tüketici Mahkemesine gönderilmesine karar verilmesi hatalı olmuştur. " mahkeme kararının kaldırılmasına karar verilmiştir. Mahkemece dairemiz kaldırma kararı sonrasında yapmış olduğu yargılama ile; ödeme tamamlandığı ve taraflarca kabul edildiği üzere taşınmaz teslim edilmiş durumda olduğu, davacının sözleşmeye göre tescil talebinde bulunma hakkı bulunduğunu, aksi halde davacının verdiği bedeli yasal hükümler doğrultusunda geri talep hakkı doğacağını, tapu kaydının diğer davalı üzerinde bulunduğunu, davalıların adi şirket konumunda olduklarını, TBK 620.
 Maddeye göre adi ortaklık sözleşmesi, iki ya da daha fazla kişinin emeklerini ve mallarını ortak bir amaca erişmek üzere birleştirmeyi üstlendikleri bir sözleşme olduğu, şirketin kurulması için kişi, sözleşme, sermaye payı, ortak gaye, birlikte çalışma, şekil ve konu unsurlarının bir arada bulunması gerektiğini, davalılar arasındaki hukuki ilişki Kadıköy ... Noterliğinin 19.6.2014 tarih ve ... sayılı sözleşmesine Dayandığı, anılan sözleşme “ Düzenleme şeklinde gayrımenkul satış vaadi sözleşmesi” olduğu, sözleşmede taşınmaz sahibi hissesini diğer tarafa belirli koşullarla devretmeyi taahhüt etmekte olduğu, anılan hisseler belirli etaplarda diğer tarafa devredileceğini, davacının davalı yüklenici ... Şirketinden taşınmaz aldığı, bedelini ödediği, yeri teslim aldığı ve ferağ icbar koşullarının bulunduğu ve TMK 'nın 2.
 
@@ -108,8 +130,12 @@ Paragrafında, '' müşterilerden yapılacak tahsilatlardan satmayı vadedene vi
 
 ## Ankara BAM 27. HD 2024/412 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1031981700)
+
 Adi ortaklık sözleşmesi, iki ya da daha çok kişinin ortak bir amacı gerçekleştirmek üzere emek ve mallarını birleştirmeyi üstlendikleri bir sözleşme olup (TBK 620); adi ortaklıkta; adi ortaklığın tüzel kişiliği bulunmadığından adi ortaklığı oluşturan her bir ortak tarafından vekil adına vekaletnamenin verilmesi gerekir.
 
 ## Ankara BAM 24. HD 2024/326 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1010540500)
 
 TBK.'nun 620.maddesinde; "Adi ortaklık;sözleşmesi, iki ya da daha fazla kişinin emeklerini ve mallarını ortak bir amaca erişmek üzere birleştirmeyi üstlendikleri sözleşmedir" olarak tanımı yapılmıştır. Adi ortaklık, ekonomik ve hukuki yönden bağımsız birden fazla gerçek veya tüzel kişinin bir sözleşme bağı çerçevesinde bir araya gelmesi ile oluşan ilişki olarak adlandırılmaktadır. Adi ortaklığın tüzel kişiliği bulunmamaktadır. Tüzel kişiliği bulunmayan adi ortaklığa karşı açılacak davalarda adi ortaklığın taraf ehliyetinden bahsedilemeyeceğinden, adi ortaklığı oluşturan ortakların davaya taraf olması, uyuşmazlık konusu olan hak ve hukuki ilişki gereği birlikte hareket edilmesi zorunludur (Yargıtay 3. Hukuk Dairesi'nin 23/01/2024 tarih, 2023/5383 E.,2024/366 K.sayılı ilamı).

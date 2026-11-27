@@ -64,6 +64,8 @@ T.C. İzmir BÖLGE ADLİYE MAHKEMESİ 6. HUKUK DAİRESİ ( Esas-Karar No: 2022/1
 
 ## Adana BAM 6. HD 2024/606 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1024978600)
+
 Ayrıca Irak ülkesinde iş makinesi kira bedelinin tespiti için Mersin Ticaret ve Sanayi Odası'na yazılan yazıya cevaben gönderilen günlük kira bedelinin ortalaması olan 250,00 TL üzerinden hesap yapılarak, davacının kira bedelinden kaynaklı alacak miktarının (250x90=)22.500,00 TL olarak hesaplanmış olması da hukuka uygundur.
 
 ## İstanbul BAM 36. HD 2020/2093 K.
@@ -71,6 +73,8 @@ Ayrıca Irak ülkesinde iş makinesi kira bedelinin tespiti için Mersin Ticaret
 Dava dosyasında davalının tacir olup olmadığı araştırılmamış ise de; bu durum sonuca etkili değildir. Şöyle ki; Davalının tacir olması halinde TBK'nın 344. Maddesi 01/07/2020 tarihine kadar uygulanamayacak olup, kira sözleşmesinin hususi şartlar 3.maddesindeki artışın endekse göre yapılacağına ilişkin hükümler uygulanacaktır.
 
 ## İstanbul BAM 7. HD 2018/1653 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/449820400)
 
 13.02.2018 tarihli İstanbul Bölge Adliye Mahkemesi Hukuk Daireleri ve Ceza Daireleri arasındaki iş bölümü kararı gereğince "Tarafların sıfatına bakılmaksızın, kira ilişkisinden kaynaklanan davalar (kira tespiti ve uyarlama dâhil) sonucu verilen hüküm ve kararlar" İstanbul Bölge Adliye Mahkemesi 35. veya 36. Hukuk Dairesinin görev alanındadır. İstanbul Bölge Adliye Mahkemesi Hukuk Daireleri arasındaki iş bölümünü düzenleyen 13.02.2018 tarihli kararı ve davanın açıklanan niteliği gereğince istinaf başvurusunu inceleme görevi İstanbul Bölge Adliye Mahkemesi 35. veya 36. Hukuk Dairesine ait olduğu, iş bölümü kararı gereğince dairemizin açıkça görevli olmadığı anlaşılmakla, dava dosyanın iş bölümü bakımından görevli İstanbul Bölge Adliye Mahkemesi 35. veya 36. Hukuk Dairesi'ne gönderilmesine karar verilmesi gerektiği kanaatine varılmış ve açıklanan nedenlerle aşağıdaki hüküm kurulmuştur.
 

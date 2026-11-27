@@ -21,10 +21,14 @@ uyari: "Derleyenin seçtiği alıntılardır; kararın tamamı değildir. Künye
 
 ## İstanbul BAM 12. HD 2020/184 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/569654100)
+
 AŞ arasında imzalanmıştır. Protokolde ;" iş bu protokolün ... AŞ ile ile ... arasında akdedilmiş bulunan 30.5.2016 tarihli 28600 sözleşme numaralı satış sözleşmesi esas alınarak akdedilmiştir.Finansmana uygun olarak ve ...'un talebi üzerine 215.000-euro'nun talebi üzerine ekipmanın finansörü ... olacaktır. 215.000-euro tutarındaki ticari fatura ... adına kesilecektir.Ödeme koşulları 30.5.2016 tarihli sözleşmede kararlaştırılan şekilde olacaktır.Tüm diğer koşullar 30.5.2016 tarihli sözleşmedeki gibi olacaktır. Alıcı iş bu vesile ile teklifte yazılı bulunan hüküm ve şartları kabul ve taahhüt eder ve burada ve eklerde belirtilen hüküm ve koşullarla bağlı olmayı kabul eder"denilmiştir. Buna göre satıcı ,alıcı ve finansal kiralama şirketi 30.5.2016 tarihli satış sözleşmesi hükümlerinin uygulanmasını kabul etmiş bulunmaktadır. Davacı vekilinin finansal kiralayanın tahkim anlaşmasına taraf olmadığı iddialarının bu protokl nedeniyle dayanağı bulunmamaktadır.Üçlü protokolde ilişkinin her üç yanı tahkim şartını kabul etmiştir.
 Davacının yetkili kişilerce imzalanmadığı itirazı ise tahkim şartı 30.5.2016 tarihli sözleşmede öngörüldüğünden 27.6.2016 tarihli sözleşmede şirket yetkilisinin imzası olmadığına yönelik itirazlar sonuca etkili görülmemiştir. 6361 sayılı kanunun 18 maddesinde; finansal kiralama sözleşmesi; kiralayanın, kiracının talebi ve seçimi üzerine üçüncü bir kişiden veya bizzat kiracıdan satın aldığı veya başka suretle temin ettiği veya daha önce mülkiyetine geçirmiş bulunduğu bir malın zilyetliğini, her türlü faydayı sağlamak üzere kira bedeli karşılığında, kiracıya bırakmasını öngören sözleşmedir. "olarak tanımlanmıştır. Buna göre ; davacının satıcı ile satış sözleşmesi akdetmesinde yasal bir engel bulunmayıp ,finansal kiralayanın bizzat kiracıdan mülkiyeti iktisap edebilmesi mümkün olduğundan finansörü olduğu ekipmanın mülkiyetini davacı ile akdedilen finansal kiralama sözleşmesine göre iktisap etmiş olacağından ;davacı vekilinin alıcı finansal kiralama şirketi ile satıcı davalı arasında tahkim şartı bulunmadığı itirazları dinlenebilir görülmemiştir. Gerek HMK ,gerekse Milletlerarası Tahkim Kanunu tahkim yeri Türkiye bulunan uyuşmazlıklarda uygulanmaktadır.
 
 ## İstanbul BAM 17. HD 2019/1794 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/536826600)
 
 Bu sebeplerden ilki borçlunun mal varlığının koruması için iflasına açılmasının gerekli olmasıdır. Özellikle borçlunun işletmesinin devamı, önemli ve hissedilir ölçüde, aktiflerin azalmasına ve pasiflerin artmasına yol açmaktaysa ve bu durum konkordato süreci içinde geri dönüşü olmayana bir aktif pasif dengesizliğine yol açacağı öngörülüyorsa; iflasın derhal açılması ile borçlunun mal varlığının tasfiye sağlanmak suretiyle daha iyi bir tatmin elde edileceği tahmin ediliyorsa, işletmenin devamı mümkün gözükmüyor yahut çok düşük
 
@@ -34,6 +38,8 @@ Sonuç olarak her ne kadar davacı tarafça, istinaf dilekçesinde özetle, geç
 
 ## İstanbul BAM 16. HD 2019/1880 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/527153000)
+
 Davacı ile davalı arasındaki sözleşme ve İstanbul 3.Asliye Ticaret Mahkemesi'nin 2016/1397 D.İş sayılı dosyası, ihtarname, proforma fatura ve teslim tutanağının dosyaya ekli olduğu görülmektedir.Dava devam ederken alacağın Beşiktaş ...
 Noterliği'nin 29 /09/ 2017 tarih ve ... yevmiye nolu alacak satış sözleşmesi ile devredildiği görülmektedir.Devir sözleşmesinin konusunu leasing şirketinin çeşitli kiracılarından olana tüm alacaklarının ve leasingli mallara ilişkin her türlü fayda ve yararlanma ve mülkiyet hakkının da devredildiği bildirilmiştir.İlk derece mahkemesi bu devir işleminin leasing konusu malların alnen teslimi talebi açısından geçersiz olduğunu zira ancak yasa gereği nakdi alacakların devrinin mümkün olduğunu kabul etmiş ve bu nedenle davayı temlik edenin takip etmeye devam etmesi gerektiğinden bahisle yargılamayı sonuçlandırmıştır.1 Kasım 2006 tarihlive 26333 nolu Resmi Gazete'de yayınlanarak yürürlüğe giren " Varlık Yönetim Şirketlerinin Kuruluş ve Faaliyet Esasları Hakkında Yönetmelik " davalı ve benzer konumdaki şirketlerin hangi alacakları ne şekilde devir alabileceğini ve faaliyet sınırlarını ve kullanım şekillerini düzenlemiştir.Bu Yönetmelik, 5411 sayılı Bankacılık Kanununun 93 ve 143 üncü
 
@@ -41,11 +47,15 @@ maddelerine dayanılarak hazırlanmıştır.5411 Sayılı Bankacılık Kanunu 14
 
 ## İstanbul BAM 17. HD 2019/1082 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/509576600)
+
 GEREĞİ DÜŞÜNÜLDÜ: Dava İİK 179. vd. ile, TTK 376. vd. maddelerinde düzenlenen iflasın ertelenmesi davasıdır.Dava açılmasıyla birlikte mahkemece verilen 02/06/2016 tarihli ihtiyati tedbir kararında "davacı şirket hakkında 6183 sayılı kanuna göre yapılmış olan ve daha sonra yapılacak takiplerde dahil olarak İİK'nın 206.m.1 sırasında yazılı alacaklar için yapılan takipler ve rehinli takipler haricindeki tüm icra ve iflas takipleri, satış ve muhafaza işlemleri, ihtiyati haciz uygulamaları gibi tedbir uygulamalarının İİK'nın 179/b maddesine göre durdurulmasına, yeni takip ve ihtiyati haciz yapılmamasına" şeklinde hüküm kurulmuştur.Müdahil ...
 A.O vekili, 26/09/2018 tarihli dilekçesinde, davacı şirket ile müvekkili şirket arasında finansal kiralama sözleşmeleri düzenlenmiş olduğunu, davacı şirketin sözleşmeden kaynaklan borçlarını ödememesi nedeniyle finansal kiralama sözleşmelerinin feshedildiğini ve İstanbul 33.Asliye Ticaret Mahkemesinin 2013/305 esas sayılı dosyasından verilen ihtiyati tedbir kararı ile sözleşmeye konu menkullerin müvekkili şirkete teslimine karar verildiği, söz konusu ihtiyati tedbir kararının devam ettiği, fakat mahkemece verilen ihtiyati tedbir kararına rağmen davacı şirketin, mülkiyeti müvekkili şirkete ait menkulleri kullanmaya devam ettiği, yıpranmalarına ve ekonomik değerlerine kaybetmelerine sebep olduğu, bu nedenle Yargıtay uygulaması da dikkate alınarak, mülkiyeti finansal kiralama şirketine ait malların iadesini durduracak nitelikte verilen ihtiyati tedbir kararının kaldırılmasına, talebin reddi halinde, ihtiyati tedbir kararında açıklık bulunmadığından ve infazda tereddüt yarattığından, HMK 391-2 c maddesi uyarınca 2/6/16 tarihli ihtiyati tedbir kararının, finansal kiralamaya konu malların tedbiren finansal kiralama şirketlerine teslimine ilişkin ihtiyati tedbir kararlarının, infazını
 durdurup durdurmadığı hususunda ihtiyati tedbir kararının açıklanması yönünde ara karar verilmesi talep edilmiştir.
 
 ## İstanbul BAM 17. HD 2019/689 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/496413100)
 
 Diğer yandan, davacı şirketin sermayesinin henüz tamamının ödenmediği ve ön projede satılarak öncelikle finansal kiralama şirketine ait borçların daha sonra ise diğer borçların ödeneceği belirtilen gayrimenkullerin mülkiyetinin şirket adına olmadığı, şirketin öz varlıklarının her geçen gün azaldığı, aradan geçen süreç içinde davacı şirketin yeni bir taahhüt işine başlamadığı, tahkim yargılamasının iptalinin talep edilmesine rağmen şirketin aleyhine sonuçlandığı, yurt dışı alacaklarının kısa zamanda tahsilinin mümkün olmadığı, olsa dahi ödemeler için yeterli olmayacağı ve yurt dışı faaliyetlerinin defterlerde yer almadığı dosya kapsamından anlaşılmaktadır.Davacı borçlu şirket tarafından alacaklılar lehine, yurt dışı işlerinden gelecek ödemeler ve tahkim yargılamasına konu işle ilgi
 
@@ -54,27 +64,39 @@ Gerekçede, özellikle borçlunun işletmesinin devamı, önemli ve hissedilir �
 
 ## İstanbul BAM 15. HD 2019/22 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/461325100)
+
 Taraflar arasında 28/04/2014 tarihli proforma faturada belirtilen beton santralinin yapım, montaj ve kurulumu hususunda sözleşme ilişkisi bulunduğu anlaşılmaktadır. Bu sözleşme TBK'nın 470 ve devamı maddelerinde hükme bağlanan bir eser sözleşmesidir. Davacı ve karşı davada davalı şirket iş sahibi; davalı ve karşı davada davacı şirket ise yüklenicidir. Eser sözleşmeleri kural olarak şekil şartına bağlı değildir. Ayrıca, davacı ... Tic.A.Ş. ile dava dışı ... A.Ş. arasında da 02/05/2014 tarihli finansal kiralama sözleşmesi düzenlenmiş olup, bu sözleşme ile iş sahibinin yükleniciye yaptıracağı beton santralinin bedelinin ödenmesi yoluyla finanse edilmesi amaçlanmaktadır. Her sözleşmenin tarafları arasında hüküm doğuracağı tabiidir. Somut olayda, davacı şirket, finansal kiralama sözleşmesi yönünden finans sağlayan şirket karşısında kiracı; eser sözleşmesi yönünden ise yüklenici şirket karşısında iş sahibi konumundadır.
 Dolayısıyla davacı şirket finansal kiralama sözleşmesi kapsamında aylık kira bedellerini ödeyip bitirdiğinde malın mülkiyetini talep etme hakkına sahip olduğu gibi, eser sözleşmesi kapsamında da yükleniciye karşı sözleşmeden kaynaklanan eksik ve ayıplı imalattan, gecikmeden ve diğer hususlardan doğan haklarını talep etme hak ve yetkisine sahiptir. Eser sözleşmesi bakımından iş sahibinin yükleniciye karşı haklarını dava veya takip yoluyla ileri sürebilmesi için bizatihi eserin mülkiyetinin iş sahibine ait olması gerekmeyip, sözleşmede iş sahibi olarak eseri imal ettiren sıfatının bulunması yeterlidir. Bu durumda, davacı ve karşı davada davalı ... sahibi ... Tic.A.Ş.'nin iş sahibi sıfatıyla eser sözleşmesinden kaynaklanan hakları nedeniyle davacı olma hak ve yetkisi, yani taraf sıfatı (aktif veya pasif husumet ehliyeti) bulunduğundan, yerel mahkemece işin esasına girilerek karşılıklı talepler yönünden gerekli inceleme ve araştırmanın yapılarak sonucuna göre bir karar verilmesi gerekirken, asıl davada davacı şirketin aktif husumet ehliyetinin bulunmadığı gerekçesiyle davanın reddine karar verilmesi yerinde olmamıştır.
 
 ## İstanbul BAM 16. HD 2018/2666 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/456475200)
+
 05/12/2013 tarihli Finansal kiralama sözleşmesi 6. maddesinde, sözleşme süresi boyunca davalı kiracının, taşınmazdan sözleşme ve zilyetlik hükümlerine göre yararlanması sözleşme süresi sonunda da 18. Madde hükümlerine göre mülkiyetinin devrini talep etme hakkının bulunduğu düzenlenmiştir.
 
 ## İstanbul BAM 16. HD 2018/2521 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/452972700)
+
 04/08/2015 tarihli Finansal kiralama sözleşmesinde, sözleşme süresi boyunca davalı kiracının, taşınmazdan sözleşme ve zilyetlik hükümlerine göre yararlanması sözleşme süresi sonunda da 18. Madde hükümlerine göre mülkiyetinin devrini talep etme hakkının bulunduğu düzenlenmiştir.
 
 ## İstanbul BAM 3. HD 2018/1163 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/437891100)
 
 Davacı davalı ile yapmış olduğu haricen taşınmaz alım satım sözleşmesi gereğince satıcıya ödemek zorunda kaldığı kaparo için eldeki davayı açmıştır. Davalı ile davacı arasında yapılan sözlü taşınmaz satış sözleşmesi ile; davalının dava dışı ...bank Finansal Kiralama A,Ş ile yapmış olduğu finansal kiralama sözleşmesi kapsamında tapuda 22 parsel olarak kayıtlı kiralamış olduğu taşınmazı, finansal kiralama borcu ifa edilip, tapuda adına devir işlemi tamamlandıktan hemen sonra, davacıya devir edileceği konusunda anlaştıkları, bu şekilde davacının davalıya 100.000,00 TL verdiği konusunda uyuşmazlık bulunmamaktadır. Taraflar arasında gönderilen paranın, tapuda devir işleminin gerçekleşmemesi nedeniyle, kapora mı cezai şart mı olduğu noktasında uyuşmazlık toplanmaktadır.
 Ayrıca davalı savunmasında, davacının taşınmazı tapuda devir almış gibi davrandığı, böylece taşınmazdan kiraladığı dava dışı kiracısının taşınmazı tahliyesine sebebiyet verdiği, sonrasında, tekrar kiracı bulamadığı, bu zararlarının tespiti ile nihayetinde davacı tarafça verilen 100.000,00 TL para, kaparo olarak kabul edilecek ise, zararın mahsup edilmesi gerektiğine dair takas defi ileri sürdüğü, bu konuda da uyuşmazlık bulunduğu anlaşılmıştır.
 
 ## İstanbul BAM 37. HD 2018/329 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/424370800)
+
 Somut olayda, davacı, mülkiyeti davalılardan ....Finansal Kiralama AŞ 'ye ait, kullanımı finansal kiralama yoluyla davalı ... Pazarlama San ve Tic Ltd Şti'ne ait olan taşınmazı 18/03/2012 başlangıç tarihli kira sözleşmesi ile 5 yıllık süre için kiraladığını, bu taşınmaza zaruri ve faydalı masraflar yaptığını ve bu bedellerin kendisine iadesini dava yoluyla istemekte olup, uyuşmazlığın taşınmaz kira sözleşmesinden kaynaklanmasına göre davanın Sulh Hukuk Mahkemesinde görülüp sonuçlandırılması gerekmektedir.
 
 ## İstanbul BAM 17. HD 2018/95 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/394771700)
 
 İflasın tasfiyesi İİK 208 vd maddelerde düzenlenmiştir.Düzenleme de, iflasın açılması kendisine tebliğ olunan İflas Dairesinin müflisin mallarının defterini tutmaya başlayacağı, muhafazası için lazım gelen tedbirleri alacağı belirtilmiştir.İİK 212. maddede ise, üçüncü şahısların mülkü olarak gösterilen yahut bunlar tarafından mülkiyeti iddia edilen malların , bu cihetlerin şerh verilerek deftere kaydolunacağına yer verilmiştir.Somut olayda olduğu
 
@@ -84,6 +106,8 @@ Adi tasfiye halinde tasfiye İflas idaresi tarafından yerine getirilir. 226. ma
 Verilecek son raporda İflas tasfiyesinin yapılış şekli hakkında mahkemeye bilgi verilmesi gerekir.Bu dava da ise İflas dairesince mahkemeye yukarıda açıklanan son raporun ve bilginin verilmediği, masada artan paranın ve malların miktarının dahi açıklanmadığı görülmüştür. Finansal kiralama konusu menkul mallarla ilgili talebe rağmen gerek İİK gerekse de yukarıda açıklanan özel yasa uyarınca işlem yapılmadığı, ya da yapılmışsa ne gibi işlem yapıldığının anlaşılamadığı görülmektedir. Finansal kiralama Sözleşmesi yapan şirketin talebinin değerlendirilip bu konuda gerekli işlemlerin yapılmaması yasal düzenlemelere aykırı bulunmaktadır.Henüz tasfiyenin bitmemiş olduğunun kabulü gerekir.
 
 ## İstanbul BAM 16. HD 2018/60 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/479801900)
 
 Asliye Ticaret Mahkemesi 6361 sayılı kanunun 31/3 maddesi gereğince 07.09.2017 tarihinde 585.000,00 TL teminat karşılığı dava konusu mallar üzerinde "davacı tarafça tasarruf yetkisi verilmesine" biçiminde tedbir kararı vermiş, bu karara karşı davalı tarafın itiraz da 12.10.2017 tarihinde reddedilmiştir.Davalı vekili bu red kararına karşı istinaf isteminde bulunmuş ve önceki savunmasını tekrarla, "iflas ertelemesi kararı gereği müvekkili şirketin malları hakkında muhafaza işlemi yapılamayacağını, tebligatın usulsüz olduğunu, mahkemenin bir yandan tebligatın usulüne uygun olup olmadığı konusunda 12.10.2017 tarihli celsede Beşiktaş .... Noterliğine tezkere gönderdiğini öte yandan da
 

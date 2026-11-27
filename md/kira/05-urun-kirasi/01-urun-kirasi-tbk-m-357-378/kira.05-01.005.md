@@ -22,18 +22,26 @@ uyari: "Derleyenin seçtiği alıntılardır; kararın tamamı değildir. Künye
 
 ## Yargıtay 17. HD 2013/5359 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/599573200)
+
 İcra ve İflas Kanunu (İİK)'nun 269. maddesinde “Takip adi kiralara veya hasılat kiralarına mütedair olur ve alacaklı da talep ederse ödeme emri, Borçlar Kanununun 260 ve 288 inci maddelerinde yazılı ihtarı ve kanuni müddet geçtikten sonra icra mahkemesinden borçlunun kiralanan şeyden çıkarılması istenebileceği tebliğini ihtiva eder.” düzenlemesi yer almaktadır.
 
 ## Yargıtay 1. HD 2013/5200 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/79651000)
 
 Bilindiği üzere, hâsılat kira sözleşmesinin mutlaka yazılı olması gerekmez, somut olayda olduğu gibi sözlü olarak da yapılabilir. Bu sözleşmeler belli süreli olarak yapılabileceği gibi süresiz de yapılabilir veya belli bir süre için yapılan sözleşmenin sonradan süresi belirsiz hale gelmesi de olanaklıdır. Hasılat kira sözleşmelerinin feshine ilişkin düzenlemeler ise Borçlar Kanunu'nun 285. ve devamı maddelerinde düzenlenmiş olup, özellikle sözleşmeyi sona erdiren fesih hakkı 285. maddenin 2. fıkrasında yer almıştır. Kira sözleşmeleri sözleşmede veya yasada öngörülen ihbar sürelerine uyularak taraflarca her zaman feshedilebilir. Ancak hemen belirtilmelidir ki zirai amaçlı hasılat sözleşmesinde fesih ihbarının aksine sözleşme hükmü bulunmaması durumunda mahalli örfe bakılarak ilkbahar ve sonbahar dönemleri içinde yapılıp yapılmadığının açıklıkla saptanması gerekir. Çünkü Borçlar Kanununun 285. maddesinde "Müddet hakkında akit veya mahalli adet ile hilafına bir hüküm tayin edilmemiş ise iki taraftan her biri en aşağı altı aylık bir ihbar müddetine riayet şartıyla akdi feshetmek selahiyetini haizdir.
 Hilafına bir mukavele yok ise, zirai gayrimenkullerde mahalli adetçe cari ilk veya sonbahar mevsimleri için diğer bütün icarlarda her hangi bir zaman için feshin ihbarı caizdir." denilmiştir. Yasada belirtilen ilkbahar vadesi kiracının daha az masrafla taşınabilmesini, sonbahar vadesi ise hasılatını kaldırabilmesini temin için kabul edilmiştir.Bu açıklamalardan sonra dava konusu olay değerlendirildiğinde, zirai hasılat kirası nedeniyle kiracı olan davalılara noter vasıtasıyla çekilen ilk ihtarın 20.06.2011, ikinci ihtarın ise 29.08.2011 tarihinde tebliğ edildiği, eldeki davanın ise yasada öngörülen altı aylık ihbar müddeti beklenmeksizin 03.11.2011 tarihinde açıldığı sabittir.
 
 ## Yargıtay 6. HD 2013/5781 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/404288100)
+
 Kira sözleşmesi, 1.7.2012 tarihinde yürürlüğe giren 6098 sayılı TBK.nun dördüncü bölümünde üç ayırım halinde düzenlenmiştir. Birinci ayırımda genel hükümler (adi kira), ikinci ayırımda konut ve çatılı işyeri kiraları, üçüncü ayırımda ise ürün kirası (hasılat kirası) düzenlenmiştir. İkinci ayırımda düzenlenen konut ve çatılı işyeri kiraları, mülga 6570 sayılı Gayrimenkul Kiraları Hakkında Kanuna denk gelmektedir.
 
 ## Yargıtay 3. HD 2013/4103 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/262980900)
 
 Medeni Kanunun 691.maddesi gereğince, “işletme usulünün veya tarım ürününün değiştirilmesi, adi kiraya veya ürün kirasına ilişkin sözleşmelerin yapılması veya feshi,
 
@@ -41,26 +49,38 @@ toprağın ıslahı gibi önemli yönetim işleri için pay ve paydaş çoğunlu
 
 ## Yargıtay 6. HD 2013/3811 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/405529900)
+
 Taraflar arasında 08.06.2006 başlangıç tarihli ve 5 yıl 6 ay süreli kira sözleşmesi düzenlendiği,sözleşme ile kısmen ekilebilir,kısmen mera niteliğinde,üzerinde çiftlik dam ve evleri ile hayvan bakım ünitelerinin bulunduğu ... ve ... nolu parsellerdeki kiralayan ...'ye ait ... hissenin münhasıran tarımsal ve hayvansal faaliyet yapılmak üzere davalılara kiralandığı hususunda uyuşmazlık bulunmamaktadır. Taraflar arasında düzenlenen 08.06.2006 başlangıç tarihli kira sözleşmesi 6098 sayılı Borçlar Kanunu'nun 357.maddesinde düzenlenen ürün kirası (eski Borçlar Kanunu'nun 270.maddesindeki hasılat kirası) hükümlerine tabidir. Davacı tarafça başlatılan icra takibinde 08.12.2011 tarihinde başlayan dönem kirası talep edilmiş ise de kira sözleşmesinin süresi 07.12.2011 tarihinde sona ermiştir. Ancak kira sözleşmesinin 9.maddesinde “kira sözleşmesinin sona erdiği 08.12.2011 tarihinden sonra kiralananın kullanılması halinde kira parası ödeneceği ve bu paranın nasıl hesaplanacağı” ayrıntılı olarakkararlaştırılmıştır.
 Davalı tarafça paylı mülkiyete tabi kiralanan taşınmazlarda kendilerininde paydaş olması nedeniyle kira sözleşmesinin bitiminden sonra kiralanan alanı kullanmadıklarını sadece kendi paylarına düşen kısmı kullandıklarını savunduklarına göre mahkemece kira sözleşmesinin 9.maddesi dikkate alınarak gerektiğinde yerinde keşif yapılmalı,davalıların kiralananı kullanıp kullanmadıkları ve varsa kullanılan alanın tespit edilerek hasıl olacak sonuca göre bir karar verilmesi gerekirken eksik inceleme ile yazılı şekilde karar verilmesi doğru olmadığından hükmün bozulması gerekmiştir.
 
 ## Yargıtay 6. HD 2012/17518 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1049744900)
+
 Tahliye yönünden yapılan incelemede; Davaya konu kiralananın Borçlar Kanunu’nun hasılat kirası hükümlerine tabi olabilmesi için işletme ruhsatnamesi ile kiraya verilmesi gerekir. Kira sözleşmesinde taşınmazın kullanım şeklinin “üç yıldız işletme belgeli otel” olması tek başına kira ilişkisinin hasılat kirası olduğunu göstermez. Dosyada taşınmazın işletme ruhsatı ile kiralandığına dair herhangi bir beyan ve iddia bulunmamaktadır. Mahkemece kiralananın işletme ruhsatının kimin üzerine olduğu hususunun araştırılarak oluşacak sonuca göre tahliye açısından değerlendirme yapılması gerekirken bu husus üzerinde durulmadan yazılı gerekçe ile tahliye isteminin reddine karar verilmesi doğru değildir.
 
 ## Yargıtay 6. HD 2012/11608 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1058320300)
 
 Hasılat kirasında kiralayan, kiracıya ücret mukabilinde hasılat veren bir malın veya hakkın kullanılmasını ve semerelerinin intifaını terk etmeği iltizam eder. Hasılat kirasını adi kiradan ayıran, özellikle işletme yükümlülüğüdür. Hasılat getiren bir şey, adi kiraya da verilebilir. Ancak taşınmaz, techizat ve mefruşatıyla birlikte ve işletme ruhsatı da devredilerek kiraya verilmiş ve ayrıca da kira bedeli kiralananın semere ve hasılatının da bir kısmını oluşturmuş ise sözü edilen unsurları taşıyan kira sözleşmesinin hasılat kirası olduğunun kabulü gerekir.
 
 ## Yargıtay 6. HD 2012/11159 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1056020600)
+
 Karara esas alınan ve takibe dayanak yapılan 1.1.2005 başlangıç tarihli ve 4 yıl süreli sözleşme konusunda taraflar arasında uyuşmazlık bulunmamaktadır. Sözleşmede kiralananın susuz tarla ve kayısı işletmesi olarak kullanılacağı belirtilmiştir. Bu durumda kira sözleşmesinin ürün kirası kapsamında olduğu anlaşılmaktadır. Ürün kirasında temerrüt ihtarında ödeme süresi olarak Borçlar Kanunun 288. maddesine göre 60 günlük süre verilmesi gerekir. Alacaklı vekili tarafından kiracı borçlunun kira borcunu ödemediğinden bahisle başlatılan icra takibinde gönderilen örnek 13 nolu ihtarlı ödeme emrinin davalı borçluya 9.7.2010 tarihinde tebliğ edildiği ve bu ödeme emri ile borçluya 60 günlük ödeme süresi yerine 30 günlük süre verildiği anlaşılmıştır. Ödeme emrinde 60 gün yerine 30 gün ödeme süresi verilmesi doğru olmadığı gibi İ.İ.K.269/1 maddesi göndermesi ile BK’nun 260.maddesi gereğince verilen 30 günlük ödeme süresinin dolması beklenmeden 22.7.2010 tarihinde icra mahkemesinden tahliye isteminde bulunulması da doğru olmadığından kararın tahliye yönünden bozulması gerekmiştir.
 
 ## Yargıtay 12. HD 2012/19755 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/59165500)
+
 Adi kiraya ve hasılat kirasına ait takiplerle ilgili İİK.nun 269/d. maddesinde aynı kanunun 58. maddesine atıf yapılmamıştır. Ödeme emrinin hangi hususları içermesi gerektiği İcra ve İflas Kanunu Yönetmeliğinin 32. maddesinde düzenlenmiş olup, bu maddede talepname ile birlikte icra müdürlüğüne sunulan sözleşme örneğinin ayrıca ödeme emri ekinde (borçluya tebliğ edileceği) yönünde bir hüküm bulunmamaktadır.
 
 ## Yargıtay 6. HD 2012/8543 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1053800700)
 
 Takipte dayanılan ve karara esas alınan 23.06.2010 başlangıç tarihli ve on yıl süreli kira sözleşmesi konusunda taraflar arasında uyuşmazlık bulunmamaktadır. Sözleşmede taşınmazın “süpermarket” olarak kiraya verildiği belirtilmiştir. Taraflar arasındaki ilişkinin hasılat kirası olarak nitelendirilebilmesi için B.K.’nun 270.maddesinde düzenlendiği şekliyle hasılat veren taşınır veya taşınmaz mal, ticari işletme ya da hakkın kira ilişkisinin konusunu oluşturması ve kiralananın demirbaşları ve işletme ruhsatı ile birlikte kiraya verilmesi gerekir. Olayımızda kiralanan ile birlikte teslim edilen demirbaştan bahsedilmediği gibi sözleşmenin 11.2.maddesinde işletme ruhsatının davalı kiracı tarafından temin edileceği öngörülmüştür. Sözleşmede kira parasının aylık ciroya göre hesap edileceğinin kararlaştırılması taraflar arasındaki ilişkinin hasılat kirası olarak nitelendirilmesi için tek başına yeterli değildir. Bu durumda sözleşmenin B.K.’nın hasılat kirası hükümlerine tabi olduğundan söz edilemez. Temerrüt ihtarı yerine geçen ödeme emrinde ihtar süresinin 30 gün olarak belirlenmesinde bir usulsüzlük bulunmamaktadır.
 Ne var ki kira parasına ilişkin olarak sözleşme hükümlerine göre ciro bilgilerinin kiracı tarafından ayın son gününü takip eden ilk 5 gün içinde kiralayana bildirileceği, kiralayan tarafından düzenlenecek faturaların da ayın ilk 10 günü içinde kiracıya tebliğ edilmesi şartı ile kira parasının ayın 15’ine kadar kiralayanın banka hesabına yatırılacağı kararlaştırılmış olup söz konusu koşulların yerine getirilip getirilmediği yargılamayı gerektirdiğinden davanın sadece bu nedenle reddi gerekirken farklı gerekçeler de ilave edilmesi suretiyle
@@ -69,14 +89,20 @@ yazılı şekilde reddi doğru değil ise de sonucu itibariyle doğru olan hükm
 
 ## Yargıtay 1. HD 2012/5864 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/79155300)
+
 Bilindiği üzere, hasılat kira sözleşmesinin mutlaka yazılı olması gerekmez, somut olayda olduğu gibi sözlü olarak da yapılabilir. Bu sözleşmeler belli süreli olarak yapılabileceği gibi süresiz de yapılabilir veya belli bir süre için yapılan sözleşmenin sonradan süresi belirsiz hale gelmesi de olanaklıdır. Hasılat kira sözleşmelerinin feshine ilişkin düzenlemeler ise Borçlar Kanunu'nun 285 ve devamı maddelerinde düzenlenmiş olup, özellikle sözleşmeyi sona erdiren fesih hakkı 285. maddenin 2. fıkrasında yer almıştır. Kira sözleşmeleri sözleşmede veya yasada öngörülen ihbar sürelerine uyularak taraflarca her zaman feshedilebilir. Ancak hemen belirtilmelidir ki zirai amaçlı hasılat sözleşmesinde fesih ihbarının aksine sözleşme hükmü bulunmaması durumunda mahalli örfe bakılarak ilkbahar ve sonbahar dönemleri içinde yapılıp yapılmadığının açıklıkla saptanması gerekir. Çünkü Borçlar Kanununun 285. maddesinde "Müddet hakkında akit veya mahalli adet ile hilafına bir hüküm tayin edilmemiş ise iki taraftan her biri en aşağı altı aylık bir ihbar müddetine riayet şartıyla akdi feshetmek selahiyetini haizdir.
 Hilafına bir mukavele yok ise, zirai gayrimenkullerde mahalli adetçe cari ilk veya sonbahar mevsimleri için diğer bütün icarlarda her hangi bir zaman için feshin ihbarı caizdir." denilmiştir. Yasada belirtilen ilkbahar vadesi kiracının daha az masrafla taşınabilmesini, sonbahar vadesi ise hasılatını kaldırabilmesini temin için kabul edilmiştir.
 
 ## Yargıtay 14. HD 2012/7034 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/543558300)
+
 Bayilik sözleşmeleri tam iki tarafa borç yükleyen ve akaryakıt istasyonunun işletilmesini amaçlayan karma nitelikte sözleşmelerdir. Bayilik sözleşmelerinin Borçlar Kanununun 270 ve devamı maddelerinde düzenlenen hasılat kira sözleşmesi olarak nitelendirmek mümkün değildir. Kaldı ki, bayilik sözleşmeleri hasılat kira sözleşmesi olarak nitelendirilse dahi sözleşme ilişkisi sona erdikten sonra kiralananı kullanan kişi artık taşınmaza haksız elatan kişi konumunda olacağından taşınmaz üzerinde mülkiyet ya da sınırlı ayni hak sahibi olan kişinin açacağı dava artık tahliye davası değil, hakka elatmanın önlenmesi davası olacaktır.
 
 ## Yargıtay 14. HD 2012/6433 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/541747000)
 
 Taraflar arasında 16.06.2008 başlangıç tarihli kira sözleşmesi çekişmeli değildir. Kira, mahiyeti itibariyle Borçlar Kanununun 270 vd maddelerinde düzenlenen hasılat kirasına ilişkindir. Dava tarihinde yürürlükte olan 1086 sayılı HUMK’nun 8/II. maddesi hükmüne göre “dava konusu olan şeyin değerine bakılmazsının İcra ve İflas Kanununun onuncu babında yer alan 269. ve 272. ve sonraki maddeleri hükümleri hariç olmak üzere kira sözleşmesine dayanan her türlü tahliye, aktin feshi yahut tespit davaları, bu davalarla birlikte açılmış kira alacağı ve tazminat davaları ve bunlara karşılık olarak açılan davaları …” görmeye sulh hukuk mahkemesi görevlidir. Kiranın, adi kira veya hasılat kirasına ilişkin
 
@@ -84,13 +110,19 @@ olmasının bir önemi yoktur. İstem, özünde tahliye talebine ilişkin olup, 
 
 ## Yargıtay 6. HD 2012/5394 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/563193100)
+
 Takibe dayanak yapılan ve karara esas alınan 21/07/2010 başlangıç tarihli ve 10 yıl süreli kira sözleşmesi konusunda taraflar arasında uyuşmazlık bulunmamaktadır. Sözleşmenin yorumlanmasından, taraflar arasındaki kira ilişkisinin Borçlar Kanunu'nun 270. maddesinde açıklanan hasılat kirasına konu olduğu açıkça anlaşılmaktadır. Bu durumda Borçlar Kanunu'nun hasılat kirasına ilişkin hükümlerin uygulanması gerekir. Takip talebi üzerine davalıya gönderilen ödeme emrinin Borçlar Kanunu'nun 288. maddesine uygun olarak düzenlenmesi gerekir. Borçluya gönderilen ödeme emrinde altmış günlük ödeme süresi verilmesi gerekirken, otuz günlük ödeme süresi verilmesi doğru değildir. Borçlar Kanunu'nun 288. maddesine uygun olmayan ödeme emri hukuki sonuç doğurmayacağından bu ödeme emrine dayanılarak tahliye kararı verilemez. Bu durumda tahliyeye ilişkin talebin reddine karar vermek gerekirken, bu husus gözardı edilerek tahliye kararı verilmesi hatalı olduğundan kararın tahliyeye ilişkin olarak bozulması gerekmiştir.
 
 ## Yargıtay 14. HD 2012/3414 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/690730900)
+
 Taraflar arasında düzenlenen 12.06.2007 tarihli sözleşme, niteliği itibariyle hasılat kirasına ilişkindir. Dolayısıyla, yanlar arasındaki uyuşmazlığın hasılat kirasını düzenleyen Borçlar Kanununun 270 vd maddeleri çerçevesinde giderilmesi gerekir. Borçlar Kanununun 284.maddesi uyarınca da ilke olarak hasılat kirasında kiralayanın muvafakatı olmaksızın kiralananın başkasına kiraya verilmesi olanaksızdır. Ne var ki yasanın bu hükmü emredici değildir. Sözleşmeyle belirtilen kuralın aksi kabul edilebilir.
 
 ## Yargıtay 13. HD 2012/1637 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/519166200)
 
 Davacının davalıya ait kantin ve yemekhaneyi 1 yıl süreli kira sözleşmeleri ile kiraladığı,kira sözleşmesinin bimesine az bir zaman kala 6570 sayılı yasaya göre ihtarda bulunmayarak ihaleye çıkardığı dosya kapsamından anlaşılmaktadır.Mahkeme ise taraflar arasındaki sözleşmelerin hasılat kirası sözleşmeleri olduğu ve Borçlar Yasasının hasılat kirasına ilişkin hükümlerine göre çözülmesi gerektiği, dolayısıyla süresinde akdin feshi ihbarı yapılmadığından, taraflar arasındaki hasılat kirası sözleşmesi devam ettiği gerekçesiyle davanın kabulüne karar verilmiştir.1.1.1984 tarihinde yürürlüğe giren 2886 sayılı kanunun 1.maddesi, 1.fıkrasında genel bütçeye dahil dairelerle katma bütçeli idarelerin, özel idare ve belediyelerin alım, satım, hizmet yapım, kira,trampa, mülkiyetin gayrı ayni hak tesisi ve taşıma işlerinin bu kanunda yazılı hükümlere göre yürütüleceği belirtilmiştir. 5302 sayılı Özel idareler Kanununun 7.maddesinin g/3.fıkrasında l” özel idaresinin mallarına karşı suç işleyenler Devlet malına karşı suç işlemiş sayılır. (Ek cümle:
 01/07/2006-5538 S.K./26.mad) 2886 sayılı Devlet İhale Kanununun 75 inci maddesi hükümleri il özel idaresi taşınmazları hakkında da uygulanır.” hükmü düzenlenmiştir.Bu durumda taraflar arasındaki uzayan kira süresi içinde davalı idare kira sözleşmenin uzatılmayacağını taşınmazlar için yeniden ihale yapmak istemesi iradesi ile ortaya koyduğuna ve dava tarihi itibarıyla kira süresi sona erdiğine göre davanın reddine karar
@@ -99,50 +131,74 @@ verilmesi gerekirken yazılı şekilde taşınmazın özel hukuk hükümlerine t
 
 ## Yargıtay 12. HD 2011/29732 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/68395700)
+
 Öte yandan, adi kiraya ve hasılat kiralarına ait takiplerle ilgili İİK. nun 269/d maddesinde, aynı Kanunun 58 ve 61.maddelerine atıf yapılmamıştır. Ödeme emrinin hangi hususları içermesi gerektiği İcra ve İflas Kanunu Yönetmeliğinin 32.maddesinde düzenlenmiş olup, bu maddede takip talebi ile birlikte icra müdürlüğüne sunulan sözleşme örneğinin ayrıca ödeme emri ekinde borçluya tebliğ edileceği yönünde bir hüküm bulunmadığından, mahkemece takip dayanağı sözleşmenin ödeme emri ekinde borçluya tebliğ edilmediği gerekçesiyle takibin iptaline karar verilmesi yasaya uygun bulunmadığı gibi, böyle bir zorunluluk bulunsa dahi bu eksiklik ödeme emrinin iptali sonucunu doğuracağından, takibin iptali yönünde hüküm tesisi doğru değildir.
 
 ## Yargıtay 6. HD 2011/14582 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1059987500)
 
 Olayımızda; taraflar arasındaki 1.2.2010 başlangıç tarihli ve bir yıl süreli kira sözleşmesi ile kiraya verilen yer tarımsal amaçlı tarladır. Bu niteliği itibariyle kiralananın Borçlar Kanununun hasılat kirası hükümlerine tabi olduğu uyuşmazlık konusu değildir. Kira sözleşmesinin özel şartlar bölümünün 4.maddesindeki kira akdine konu tarlanın mal sahibi tarafından boş ve tarım yapmaya elverişli halde kiracıya teslim edildiği, kiracının da kira süresi sonunda 31.12.2010 tarihinde tüm artıklarından temizlenmiş vaziyette tarlayı mal sahibine teslim edeceği şeklindeki düzenleme kiralananın tesliminden sonra kiraya verenin tazminat haklarına ilişkin bir düzenlemedir. Kira sözleşmesinin sona erdiği 31.12.2010 tarihi itibariyle sözleşmenin feshedileceği iradesi önceden ihbar edilmediğine ve sözleşme bitiminden itibaren bir aylık süre içinde dava açılmadığına göre sözleşme yenilenmiş sayılacağından 7.4.2011 tarihinde açılan dava süresinde değildir. Açıklanan bu nedenle davanın reddine karar verilmesi gerekirken, somut olayın özelliğine uygun düşmeyen emsal kabul edilen karar gerekçe gösterilerek kiralananın tahliyesine karar verilmesi usul ve yasaya aykırıdır.
 
 ## Yargıtay 12. HD 2011/22462 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/64263100)
+
 Adi kiraya ve hasılat kirasına ilişkin olarak yapılan takipte, borçlu tarafından yapılan itiraz ile takip durmuş, bunun üzerine alacaklı tarafça açılan dava sonucu, Keşan Sulh Hukuk Mahkemesi'nin 05.10.2010 tarih ve 2010/169 E., 2010/1075 K. sayılı ilamı ile itirazın iptaline ve takibin devamına yönelik hüküm kurulmuştur. İlgili ilamda takibin devamına karar verilmiş olmakla, mahkemece bu hususun tahliyeyi de içerdiği gözetilmeden icra müdürlüğünün tahliyeye yönelik işlemlerinin iptaline karar verilmesi isabetsizdir.
 
 ## Yargıtay 6. HD 2011/11493 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1078471800)
 
 İcra takibinde dayanılan ve karara esas alınan 1.1.2009 başlangıç tarihli ve bir yıl süreli kira sözleşmesi konusunda taraflar arasında uyuşmazlık bulunmamaktadır. Sözleşme ile Polat Tower Residence bünyesinde bulunan taksi durağı, oto yıkama ve açık ve kapalı otoparklar davalı kiracıya kiralanmıştır. Sözleşmenin özel şartlar bölümü 5.maddesine göre sözleşme 31.12.2008 tarihinde kendiliğinden sona erecektir. Süre bitiminden sonra taraflar karşılıklı mutabakat ile sözleşmenin uzatılmasına karar verebilirler. Bu şart geçerli olup tarafları bağlar. İşbu sözleşme esasen taraflar arasında “hizmet sözleşmesi” başlığı adı altında düzenlenmiş, sözleşmenin özel maddelerinde de bu hizmetin nasıl verileceğine ilişkin ayrıntılı düzenlemeler getirilmiştir. Dava konusu edilen taşınmaz Residence bünyesindeki bir yer olup dosyadaki belgelere göre de, davacı kiralayan bu sitenin yönetim işleri ile görevlidir. Bu sözleşme ile sitenin bir takım ihtiyaçlarının karşılanması belli bir süre için ve belli bir kira bedeli ile davalı kiracıya bırakılmıştır.
 Kiralananların sözleşmede belirlenen niteliği ve kullanılma amacı itibariyle doğrudan gelir ( hasılat ) getirmeye yönelik olup olmadığı, kiralananın 6570 Sayılı Gayrimenkul Kiraları Hakkında Kanun hükümlerine mi, Borçlar Kanunu’nun adi ya da hasılat kirası hükümlerine mi tabi olduğu, uyuşmazlıkta hangi yasanın uygulanacağı sadece sözleşme metninden ve içeriğinden tam ve net olarak anlaşılamamaktadır. Bu hususun açıklıkla tespit edilmesi zorunludur. Zira 6570 Sayılı Gayrimenkul Kiraları Hakkında Kanun’a tabi kira sözleşmelerinde kira süresinin sona ermesi tek başına yeterli olmayıp yasada belirtilen tahliye sebeplerinin de kanıtlanması gerekir. Her ne kadar Dairemizin 17.3.2011 gün ve 2010 / 13367 Esas 2011 / 3210 Karar sayılı ilamı ile taraflar arasındaki kira ilişkisinin hasılat kirası olmadığı belirtilmiş ise de, yukarda açıklanan tüm hususların ayrı ayrı irdelenmesi ve kira ilişkisinin niteliğinin sağlıklı şekilde saptanması yargılamayı gerektirdiğinden mahkeme kararının açıklanan gerekçe ile bozulması gerektiği bu defaki incelemeden anlaşılmakla davacı kiralayanın karar düzeltme isteğinin anılan gerekçe ile reddine karar verilmesi gerekmiştir.
 
 ## Yargıtay 14. HD 2011/11231 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/763500200)
+
 Burada öncelikle hasılat kira ilişkisinde kiracının işletme borcu kapsamının ne olduğu yönü üzerinde durulması gerekmektedir. Çünkü, taraflar arasındaki 29.06.1995 başlangıç tarihli sözleşme, düzenlemesi Borçlar Kanununun 270 vd. maddelerinde yapılan hasılat kirasına ilişkindir.
 
 ## Yargıtay 14. HD 2011/11132 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/763264900)
 
 Hasılat kirasına ilişkin “sükut ile tecdit” başlıklı BK. m. 287 hükmü “kira, muayyen bir müddet için akdelonup da bu müddetin hitamında kiralayanın malumatı ile ve muhalefeti olmaksızın kiralananın istimaline devam olunduğu yahut mukavelede fesih hakkında gösterilen ihbarı iki taraftan hiçbiri yapmadığı takdirde; hilafına mukavele yok ise bir senelik bir müddetin hitamından 6 ay evvel ihbar sureti ile fesholuncaya kadar seneden seneye akit, tecdit edilmiş sayılır” şeklindedir. Görülüyor ki, hasılat kirasına ilişkin sözleşmenin susma ile yenilenmesinden söz edebilmek için öncelikle sözleşmenin belirli bir süre için yapılması ve sözleşmede kira için kararlaştırılan sürenin geçmesi gerekir. Çünkü, akit bu sürenin bitimine kadar olağanüstü fesih nedenleri hariç hüküm ve sonuçlarını sürdürür.
 
 ## Yargıtay 14. HD 2011/9555 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/774143900)
+
 Hasılat kirasında kiralayanın önde gelen borcu, Borçlar Kanununun 272. maddesine göre kiralananla birlikte kiralanmış menkul şeyler varsa bunlar dahi olduğu halde kiralananı akitte güdülen amaca uygun kullanmaya ve işletmeye elverişli bir halde kiracıya teslim borcudur. Buna karşılık da kiracının kira bedeli adı altında kararlaştırılan ve genellikle de bir miktar para olan ödemeyi yapması gerekir. Sözleşme hükümlerine uyulmaması halinde de ademi ifa nedeniyle Borçlar Kanununun 96 maddesi hükmü uyarınca zararın tazmini istenebilir. Anılan maddedeki “ alacaklı hakkını kısmen veya tamamen istifa edemediği taktirde borçlu kendisine hiçbir kusur isnat edilemeyeceğini ... edemedikçe bundan mütevellit zararı tazmine mecburdur” hükmü uyarınca uğranılan zararı sözleşmenin diğer tarafı gidermekle sorumludur. Borçlar Kanununun 96. maddesindeki tazminatın nedeni borçlunun (kiralayanın) taahhüdünü ihlal etmesidir. Borçlunun taahhüdü genellikle bir akde dayandığından buna akdi tazminat, borçlunun (kiralayanın) sorumluluğuna da akdi sorumluluk denilir. Davada istenen kar yoksunluğu zararı müspet zarar kapsamındadır.
 
 ## Yargıtay 14. HD 2011/9205 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/775040000)
 
 Borçlar Kanununun hasılat kirasına ilişkin hükümlerine göre, hasılat kirasında kiralayanın, birlikte kiralanmış menkul şeyler varsa bunlar dahi dahil olduğu halde kiralananı sözleşmenin öngördüğü şekilde kullanma ve işletmeye elverişli durumda teslim (BK m. 272 f. 1) ve kira müddeti zarfında bu halde bulundurmak (BK m.273 göndermesiyle), ayıba karşı tekeffül borcu (BK. m. 251), zapta karşı tekeffül borcu (BK m. 275,276), mükellefiyet ve vergileri yüklenme borcu (BK m.283), teminat verme mükellefiyeti, esaslı tamiratları yerine getirme borcu (BK m. 273) gibi borçları vardır. BK m.272 hükmüne göre “kiralayan, birlikte kiralanmış menkul şeyler varsa bunlar dahi dahil olduğu halde, kiralananı akitten maksut olan kullanma ve işletmeye salih bir halde kiracıya teslim etmekle mükelleftir. Bu borcun ifa edilmemesi halinde, adi kira hakkındaki hükümler tatbik olunur.” Kiralayanın bu yükümlülüğü, yerine getirmesi gereken asıl borcudur.
 
 ## Yargıtay 6. HD 2011/7828 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1060521000)
+
 Davalı borçlunun tahliyeye ilişkin temyizine gelince;Takibe dayanak yapılan ve karara esas alınan 15/07/2009 başlangıç tarihli ve bir yıl süreli kira sözleşmesinin varlığı konusunda taraflar arasında uyuşmazlık bulunmayıp, sözleşme ile davacı alacaklıya ait tarla vasfındaki taşınmazların davalı borçluya kiralanması hususunda taraflar anlaşmışlardır. Sözleşmenin yorumundan taraflar arasındaki kira ilişkisinin Borçlar Kanununun 270. maddesinde açıklanan hasılat kirasına konu olduğu açıkça anlaşılmaktadır. Bu durum karşısında davada Borçlar Kanununun hasılat kirasına ilişkin hükümlerinin uygulanması gerekir. O nedenle takip talebi ile davalıya çıkarılan ödeme emrinin Borçlar Kanununun 288. maddesine uygun olması gerekir. Ödeme emrinde altmış gün süre verilmesi gerekirken, otuz günlük ödeme suresi verilmesi doğru değildir. Borçlar Kanununun 288. maddesine uygun olmayan ödeme emri hukuki sonuç doğurmayacağından bu ödeme emrine dayanılarak tahliye kararı verilemez. Bu nedenle kiralananın tahliyesine ilişkin talebin reddine karar vermek gerekirken, bu husus gözardı edilerek yazılı şekilde karar verilmesi hatalı olduğundan kararın tahliyeye ilişkin olarak bozulması gerekmiştir.
 
 ## Yargıtay 14. HD 2011/7354 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/765164400)
 
 Hasılat kirasında uygulanması zorunlu BK’nun 271.maddesi uyarınca kirada alat, hayvan yahut zahire de dahil olduğu takdirde iki taraftan her biri diğerine bu eşyanın tamam ve imzalı bir defterini vermek ve bunların kıymetlerini müştereken takdir ve tespit etmekle yükümlüdür. Asıl sözleşmeye ek 07.10.1999 tarihli rödevans sözleşmesinde devredilen malzeme listesi gösterilmiş, bunların kiralayana ait olduğu kabul edilmiştir. Yaptırılan bilirkişi incelemesi sonucu, davacının tespit yoluyla elde ettiği raporda yazılı malzeme listesi 07.10.1999 tarihli sözleşmedeki malzemelerden ayrı olduğundan bunların davacıya ait bulunduğunun kabulü yukarıda zikredilen 271.madde hükmü gereğidir.
 
 ## Yargıtay 14. HD 2011/6322 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/765984800)
+
 Yanlar arasındaki 23.01.2006 tarihli kira sözleşmesinin konusu "2005 nissan 20 SC 760" nolu araçtır. Orta yerde Borçlar Kanununun 270 ve devamı maddelerinde düzenlenen hasılat kirası ilişkisi var diyebilmek için kiralananın hasılat getiren bir taşınır ya da taşınmaz mal ticari işletme veya hakkın bulunması, kiralananın demirbaşları ve işletme ruhsatı ile birlikte kiraya verilmesi gerekir. TTK'nun 11.maddesine göre de ticari işletmeden maksat ticarethane, ya da fabrika yahut ticari şekilde işletilen diğer müesseselerdir. Somut uyuşmazlıkta, 23.1.2006 günlü kira sözleşmesinde soyut "malzeme ve personel taşımak" için araç kiralandığından, kira ilişkisinin hasılat kirası ilişkisi olarak kabulü olanaksızdır. Tarafların sıfatlarına ve mahkeme önüne getirilen uyuşmazlığın niteliğine göre hükme yöneltilen temyiz itirazlarını inceleme görevi, 2797 sayılı Yargıtay Kanununun 14.maddesi gereğince 13.Hukuk Dairesine ait bulunmaktadır.
 
 ## Yargıtay 14. HD 2011/5634 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/764290600)
 
 Hasılat kirasında kiralayanın önde gelen borcu, Borçlar Kanununun 272. maddesine göre kiralananla birlikte kiralanmış menkul şeyler varsa bunlar dahi olduğu halde kiralananı akitte güdülen amaca uygun kullanmaya ve işletmeye elverişli bir halde kiracıya teslim borcudur. Teslim kavramı kiralananın ve bunların içinde menkul şeyler varsa bunların da sözleşmedeki amaca uygun bir şekilde kullanmak ve işletmek üzere kiracıya terk edilmesini ifade eder. Somut uyuşmazlıkta, kiralanan alan kira sözleşmesinin yapıldığı sırada üçüncü bir kişinin kirasında olduğundan ve davacı kiracı kiralanana fer’i zilyet bulunmadığından üçüncü kişi aleyhine men-i müdahale davası açarak kiralananı dava ile teslim alamaz. Dolayısıyla sözleşmenin ifa edilmemesi söz konusudur. Davacının ademi ifa nedeniyle bir zarara uğradığı da gerçektir. Borçlar Kanununun 96. maddesindeki “alacaklı hakkını kısmen veya tamamen istifa edemediği takdirde borçlu kendisine hiçbir kusur isnat edilemeyeceğini ispat etmedikçe bundan mütevellit zararı tazmine mecburdur” hükmü uyarınca da uğradığı zararı sözleşmenin diğer tarafı olan davalı gidermekle sorumludur.
 Borçlar Kanununun 96. maddesindeki tazminatın nedeni borçlunun (kiralayanın) taahhüdünü ihlal etmesidir. Borçlunun taahhüdü genellikle bir akde dayandığından buna akdi tazminat, borçlunun (kiralayanın) sorumluluğuna da akdi sorumluluk denilir. Davada istenen kar yoksunluğu zararı müspet zarar kapsamındadır. Burada alacaklının (kiracının) mal varlığında borcun
@@ -151,14 +207,20 @@ yerine getirilmemesi sebebiyle eksilme olmuş, alacaklı bu eksilme miktarı kad
 
 ## Yargıtay 6. HD 2011/3210 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1058719800)
+
 Taraflar arasında uyuşmazlık konusu olmayan, 1.1.2009 başlangıç tarihli ve bir yıl süreli sözleşmenin kira sözleşmesi olduğu anlaşılmaktadır. Bu sözleşmenin konusunun ... Residence içindeki taksi durağı, oto yıkama, kapalı ve açık otoparak hizmetlerinin sağlanması olup, sözleşmeye göre kiracı tarafından durakta çalışacak araç ve elemanların temin edileceği, oto yıkama için ayrı bir bölümün yapılacağı, açık ve kapalı otoparkında sözleşme uyarınca kiraya verildiği anlaşılmaktadır. Borçlar Kanunu'nun 270 ve devamı maddelerinde düzenlenen hasılat kirasından söz edilebilmesi için hasılat getiren bir taşınır ya da taşınmaz mal, ticari işletme ya da hakkın kira ilişkisinin konusunu oluşturması, burasının demirbaşları ve işletme ruhsatı ile birlikte kiraya verilmesi gerekir. Oysa taraflar arasında düzenlenen sözleşmede, bir demirbaş devri söz konusu olmadığı, işletme ruhsatı ile birlikte kiralanmadığı anlaşılmaktadır. Bu halde taraflar arasindaki kira ilişkisinin hasılat kirası olmadığının kabulü gerekir. Bu durumda taraflar arasındaki kira ilişkisinin Borçlar Kanunu'nun adi kira hükümlerine mi yoksa 6570 sayılı kanun hükümlerine mi tabi olduğu belirlenmelidir.
 Zira 6570 sayılı kanuna tabi kira sözleşmelerine dayanılarak tahliye istenmesi halinde kira süresinin sona ermesi tek başına yeterli olmayıp yasada belirtilen sebeplerin de ileri sürülüp kanıtlanması gerekir.
 
 ## Yargıtay 6. HD 2011/1988 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1056127500)
+
 Davalının tahliyeye yönelik temyiz itirazlarına gelince; Hükme esas alınan ve taraflar arasında uyuşmazlık konusu olmayan 30.11.2005 başlangıç tarihli ve 3 yıl 1 ay süreli kira sözleşmesinde, kiralanan parseller tarla olarak gösterilmiş olup, mahsul ekimi için kiralandığı anlaşılmaktadır. Bu durumda taraflar arasındaki kira ilişkisinin hasılat kirası olduğunun kabulü gerekir. Esasen bu husus mahkemenin de kabulündedir. Borçlar Kanununun 288.maddesi hükmü uyarınca hasılat kirasında kiracının temerrüdü için altmış günlük ödeme süresi verilmesi gerekir. Davaya dayanak yapılan icra dosyasında, davalıya gönderilen ödeme emrinde, altmış günlük ödeme süresi verilmesi gerekli iken, otuz günlük ödeme süresi verilmesi, hasılat kirası için yasal içerikli bir ödeme emri olarak kabul edilemeyeceğinden tahliye isteminin reddine karar vermek gerekirken, yazılı gerekçeyle tahliye kararı verilmesi hatalı olmuştur.
 
 ## Yargıtay 6. HD 2011/137 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1055229700)
 
 Taraflarca kabul edilen 10.10.2005 başlangıç ve 10.10.2006 bitiş tarihli ve 15.10.2005 başlangıç ve 15.10.2006 bitiş tarihli kira sözleşmeleri konusunda taraflar arasında bir uyuşmazlık bulunmamaktadır.Sözleşmede taşınmazların tarla olduğu ve tarımsal amaçlı olarak kullanılacağı belirtilmiştir.Bu durumda kiralananın Borçlar Kanununun hasılat kirası hükümlerine tabi olduğu anlaşılmaktadır. Borçlar Kanununun 287.maddesinde “kira muayyen bir müddet için akdolunup da bu müddetin hitamında kiralayanın malumatıyla ve muhalefeti olmaksızın kiralananın istimaline devam olunduğu yahut mukavelede fesih hakkında gösterilen ihbarı iki taraftan hiç biri yapmadığı takdirde, hilafına mukavele yok
 
@@ -166,15 +228,21 @@ ise bir senelik bir müddetin hitamından 6 ay evvel ihbar suretiyle fesholuncay
 
 ## Yargıtay 6. HD 2010/14411 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1113827000)
+
 Taraflar arasındaki kira sözleşmesi hasılat kirası niteliğindedir. Hasılat kirasına ilişkin süreli sözleşmelerde Borçlar Kanunu'nun 287. maddesi, süresiz sözleşmelerde ise aynı kanunun 285. maddesi hükmüne göre, feshi ihbar nedeniyle kiralananın tahliyesi istenebilir. Dava dilekçesinde ve yargılama sırasında davacı kira başlangıç tarihi ve süresi hakkında beyanda bulunmamıştır. Mahkemece öncelikle davacı tarafa, davalı ile aralarındaki kira sözleşmesinin başlangıç tarihi ve süresi açıklattırılmalı, bu tarih ve süreye davalı tarafça karşı çıkılması halinde ise, bildirilen kira başlangıç tarihi ve süresinin davacı tarafça kanıtlanması gerektiği üzerinde durulmalıdır. HUMK.'nun 288. maddesi gereğince davacı kira başlangıç tarihini ve süresini tanık dahil her türlü delil ile kanıtlayabilir.
 Bu durumda davacının tüm delilleri toplanmalı, davacı dava dilekçesinin deliller bölümünde vs.delil ibaresi ile yemin deliline de dayandığına göre gerektiğinde yemin teklif etme hakkının hatırlatılması kira başlangıç tarihi ve süresi tespit edilmesi, uyuşmazlığın çözümünde Borçlar Kanunu'nun 285 veya 287. maddesinden hangisinin uygulanacağının saptanması ve sonucuna göre bir karar verilmesi gerekirken eksik inceleme ile yazılı şekilde karar verilmesi doğru olmadığından hükmün bozulması gerekmiştir.
 
 ## Yargıtay 6. HD 2010/13254 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1111910800)
 
 Davacı davalı ile aralarında 31.10.2003 tarihinde kurulan sözlü kira ilişkisine dayanarak kira sözleşmesinin süresini belirtmeden ihtiyaç nedeniyle tahliye isteminde bulunmuştur. Davalı kira sözleşmesinin başlangıç tarihine ve süresine itiraz ettiğine göre öncelikle tarafların bu konudaki beyanları alınarak gösterecekleri delillerin toplanması, akdi ilişkinin başlangıç tarihi ve süresinin tespit edilmesi gerekir. Bu uyuşmazlığın çözümünden sonra kiralananın 6570 Sayılı Yasa hükümlerine mi yoksa ....'nun hasılat kirası hükümlerine mi tabi olduğu hususundaki uyuşmazlığın çözümlenmesi gerekir. Kiralananın umuma açık tuvalet olarak işletildiği, bu amaçla kiraya verildiği tartışmasızdır... .'nun 270.maddesinde açıklandığı üzere hasılat kirasında kiralayan ücret karşılığında hasılat veren bir malın veya bir hakkın kullanılmasını ve semerelerinin toplanmasını kiracıya terk eder. Kanundaki bu düzenlemeye, kiralananın niteliğine ve kullanma şekline göre taraflar arasındaki kira
 
 sözleşmesinin hasılat kirası hükümlerine tabi olduğunun kabulü gerekir. Bu nedenle uyuşmazlığın anılan yasa hükümlerine göre çözümlenmesi gerekirken yazılı gerekçe ile davanın reddine karar verilmesi usul ve yasaya aykırıdır.
 
 ## Yargıtay 6. HD 2010/13145 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1111483900)
 
 Davada dayanılan ve hükme esas alınan 01.11.1993 başlangıç tarihli ve bir yıl süreli kira sözleşmesi konusunda taraflar arasında bir uyuşmazlık bulunmamaktadır. Davaya konu taşınmaz kapalı otopark olarak kiraya verilmiştir. Kiralananın niteliği itibariyle taraflar arasındaki ilişki hasılat kirası hükümlerine tabidir. Borçlar Kanunun 288. maddesinde hasılat kirasına ilişkin temerrüt ihtarında verilecek süre 60 gün olarak öngörülmüştür. Yasa hükmünde öngörülen süreden daha az süre verilmesi halinde temerrüt olgusunun gerçekleştiğinden söz edilemeyeceğinden tahliye isteminin bu nedenle reddine karar verilmesi gerekirken yazılı gerekçe ile reddine karar verilmesi doğru değil ise de sonucu itibarı ile doğru olan hükmün HUMK.'nun 438/son maddesi gereğince gerekçesinin değiştirilerek ve düzeltilerek onanması gerekmiştir.

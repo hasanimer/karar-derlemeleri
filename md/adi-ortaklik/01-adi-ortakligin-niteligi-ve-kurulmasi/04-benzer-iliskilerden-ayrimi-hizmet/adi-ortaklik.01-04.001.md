@@ -21,6 +21,8 @@ uyari: "Derleyenin seçtiği alıntılardır; kararın tamamı değildir. Künye
 
 ## Yargıtay HGK 2023/868 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/958993500)
+
 Sözleşmenin "Taraflar arası ilişki" başlıklı 13.3 üncü maddesinde ise, "İş bu sözleşmenin hiçbir hükmü, taraflar arasında bir teşekkül, ortaklık veya joint venture, asıl ve vekil ilişkisi, franchise, yasal temsilci veya işçi işveren ilişkisi kurulması amacını taşımamakta olup bu yönde bir ilişki kurulduğu varsayılamaz" düzenlemesi yer almaktadır.
 
 Az yukarıda anılan protokol, ön sözleşme, dağıtım ve hizmet sözleşmesinde yer alan hükümler birlikte değerlendirildiğinde, tarafları dağıtıcı, yatırımcı ve patent sahiplerinden oluşan sözleşme ilişkisinde adi ortaklık kurma amacının bulunmadığı, tarafların üretim, pazarlama, dağıtım işlerine dair ayrı ayrı sözleşmeler imzalamak yerine tek bir sözleşme ilişkisi kurmayı seçtikleri, sözleşmenin içeriğinde özellikle adi ortaklığın niteliği gereği, elde edilecek kazancın paylaşımına dair herhangi bir düzenlemeye verilmediği, gerek ön sözleşmenin 10.4 üncü maddesinde gerekse dağıtım ve hizmet sözleşmesinin 13.3 üncü maddesinde, sözleşmenin hiçbir hükmünün, bir teşekkül veya ortaklık kurulması amacını taşımadığının da açıkça belirtildiği anlaşılmaktadır.
@@ -29,18 +31,26 @@ Bu nedenle uyuşmazlığa konu sözleşme, "adi ortaklık sözleşmesi" niteliğ
 
 ## Yargıtay 4. HD 2025/14110 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1194990600)
+
 Tarafların karşılıklı iddia ve savunmalarına, dayandıkları belgelere, uyuşmazlığa uygulanması gereken hukuk kuralları ile hukuki ilişkinin nitelendirilmesine, dava şartlarına, yargılama ve ispat kuralları ile kararda belirtilen gerekçelere göre davacı vekilinin ve davalı ... vekilinin ve davalı .... ve San. Tic. AŞ-... Mad. İnş. San. Tic. AŞ İş Ortaklığı vekilinin tüm, davalı ... Mad. İnş. San. Tic. AŞ vekilinin aşağıdaki bendin kapsamı dışında kalan diğer temyiz itirazlarının reddi gerekmiştir.
 
 ## Yargıtay 3. HD 2025/2781 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1157465300)
 
 Davalılar arasında imzalanan 14.10.2011 tarihli sözleşmenin (3 - 9) maddesinde; “hasılat paylaşımı esaslarına göre satışı yapılacak gayrimenkullerin KDV’leri yüklenicilere aittir. Gayrimenkullerin satış bedelinin %50’si arsa sahibine ödenecektir. Oluşacak gayrimenkullerin satışından arsa sahibinin payına düşecek olan KDV yükleniciler tarafından ödenecektir.” hükmüne; (8.) maddesinde; “...satışlardan elde edilecek hasılat taraflar arasında hasılat paylaşımı esaslarına göre yüklenicilere %50 arsa sahibine %50 olarak paylaşılacaktır. Gayrimenkullerin satış fiyatları arsa sahibinin onayı alındıktan sonra geçerli olur” hükmüne yer verildiği; 26.04.2012 tarihli ek sözleşmenin (5.) maddesinde ise yine; “...satışlardan elde edilecek hasılat taraflar arasında hasılat paylaşımı esaslarına göre yüklenicilere %50 arsa sahibine %50 olarak paylaşılacaktır. Gayrimenkullerin satış fiyatları arsa sahibinin onayı alındıktan sonra geçerli olur” hükmüne yer verildiği ve daha sonra tanzim olunan ek sözleşmeler ile aynı hak ve yükümlülüklerin muhafaza edildiği anlaşılmaktadır.
 Sözleşme, özetlenen bu hükümleriyle birlikte bir bütün olarak değerlendirildiğinde taraflarca akdedilen sözleşmenin müşterek amaç ve müşterek amaç için birlikte çaba unsurunu içermemesi, arsa malikinin zarara katılmasının söz konusu olmaması nedeniyle adi ortaklık sözleşmesi olmayıp, 28.09.2021 tarihli Hukuk Genel Kurulu kararında da açıklandığı üzere, taraflarına karşılıklı borç yükleyen, karma nitelikli bir sözleşme olmakla birlikte baskın niteliğinin gelir paylaşımlı inşaat sözleşmesi olması nedeniyle eser sözleşmesine ilişkin hükümlerin uygulanması gerektiği açıktır. (Dairemizin 23.06.2014 tarihli ve 2014/10780 E., 2014/10005 K. sayılı ilamı ile ve Hukuk Genel Kurulunun 28.09.2021 tarihli ve 2017/3-2615 E., 2021/1102 K. sayılı ilamı da aynı yöndedir). Kaldı ki bu sözleşmenin tarafları arasında görülen Ankara Batı 2. Asliye Hukuk Mahkemesinin kesinleşen 13.11.2018 tarihli ve 2017/38 E., 2018/466 K. sayılı kararında da davalılar arasındaki ilişki bu şekilde nitelendirilmiştir.
 
 ## Yargıtay 3. HD 2025/2090 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1138104700)
+
 Karar düzeltme yoluyla incelenen karar, tarafların karşılıklı iddia ve savunmalarına, dayandıkları belgelere, uyuşmazlığa uygulanması gereken hukuk kuralları ile hukuki ilişkinin nitelendirilmesine, dava şartlarına, yargılama ve ispat kuralları ile kararda belirtilen gerekçelere ve özellikle Mahkemece zamanaşımına yönelik değerlendirmelerin yerinde bulunmasına, davalı ...'in kefaletinin 6101 sayılı Kanun'un 1. maddesi atfıyla 818 sayılı Kanunun 483 vd. maddelerine uygun olarak tesis edilmiş olmasına, ayrıca dayanılan adi ortaklık sözleşmesinin davalılarca kabul edildiğinin taraflar arasında görülen men-i müdahale davası dosya içeriğinden anlaşılmasına göre davalılar vekilinin karar düzeltme dilekçesinde bildirdiği sebeplerin reddi gerekmiştir.
 
 ## Yargıtay 6. HD 2024/1952 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1095183300)
 
 3.3. Somut olayda, uyuşmazlığın çözümü bakımından taraflar arasında 06.03.2016 tarihli eser sözleşmesinin adi ortaklık şeklinde yapıldığı gerekçesine dayanılarak taraf ehliyeti ve dava ehliyeti buna göre değerlendirilmiş ise de; menfi tespit davasının konusu Ankara 7.İcra Müdürlüğünün 2017/8922 E. sayılı takip dosyasıdır. Takip dosyası incelendiğinde takibin dayanağı olan takip talebi ve ödeme emrinin 06.03.2016 tarihli eser sözleşmesine dayalı olmayıp, alacaklı ... Peyz. Yapım Tem. Nak. Elek. Tek. San. Ve Tic. Ltd. Şti. tarafından takip borçluları ... Grup İnş. Ltd. Şti., ... Müh. Müş. İnş. ve Taah. Ltd. Şti. ve ... Nakl. Ltd. Şti. İş ortaklığı aleyhine düzenlenmiş olan 18.11.2016 tarih 5029 ve 5026 no.lu, 21.07.2016 tarih 5024 no.lu, 07.06.2016 tarih 5018 no.lu, 16.05.2016 tarih ve 5017 no.lu 10.01.2016 tarih ve 5020 no.lu faturalara dayanmaktadır. Faturalar ... Peyz. Yapım Tem. Nak. Elek. Tek. San. Ve Tic. Ltd. Şti. tarafından düzenlenmiş olup faturalarda adi ortak olduğu ileri sürülen dava dışı ...'un ismi bulunmamaktadır. Açılan davada da borçlu davacılar ... Nak. İnş. İth. İhr. San. Tic. Ltd. Şti., ... Müh. Müş. İnş. ve Taah. Ltd. Şti., ... Grup İnş. Ltd.
 Şti. tarafından icra takip dosyasındaki alacaklı ... Peyz. Yapım Tem. Nak. Elek. Tek. San. Ve Tic. Ltd. Şti. davalı gösterilerek açılmıştır. Bu durumda icra takibinin tarafları ile davanın tarafları birbiri ile uyumludur.
@@ -49,6 +59,8 @@ Karar düzeltme yoluyla incelenen karar, tarafların karşılıklı iddia ve sav
 
 ## Yargıtay 6. HD 2024/1935 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1086020200)
+
 Muğla ili, ..., ... ... ada 1 parsel üzerinde 24 apart daire yapılması, sözleşmenin 3. maddesinde dairelerin arsa sahibi ile yüklenici arasında %50'şer oranda paylaşılması, 4. maddesinde ise %10 pazarlama ve reklam giderleri düşüldükten sonra elde edilecek gelirin de aynı oranda paylaşılmasının kararlaştırıldığı, buna göre; taraflarca düzenlenen sözleşmedeki amacın, yapılacak inşaat nedeniyle edimlerin karşılığının tapu devri esası şeklinde değil, gelir paylaşımı suretiyle elde edilmesi hedeflendiğinden, gelir paylaşımı esasına dayalı olduğunun açık olduğu, Fethiye 3. Asliye Hukuk Mahkemesi'nin 2009/540 E., 2014/261 K. sayılı davasının temyizen incelenmesi sonucunda Yargıtay (Kapatılan) 23.
 Hukuk Dairesi'nin 2014/10437 E., 2015/6522 K. sayılı ilamında da sözleşmenin gelir paylaşımlı inşaat sözleşmesi olduğunun hususu kabul edildiği, her ne kadar sözleşmenin 3. ve 4. maddelerinde "bağımsız bölümlerin yarı yarıya paylaşılması, %10 pazarlama ve reklam gideri düşüldükten sonra elde edilen gelirin de aynı oranda paylaşılması" öngörülmüş olup, sözleşmenin niteliği "gelir paylaşımlı inşaat sözleşmesi" olarak kabul edilmiş ise de, arsa sahibinin sadece inşaat için arsasını ve bağımsız bölümlerin satışı için yükleniciye yetki verdiği dikkate alındığında, sözleşme maddelerinin bir bütün olarak yorumlanması sonucunda, bu sözleşmede müşterek amaç ve müşterek amaç için birlikte çaba unsurunun bulunmadığı, dolayısıyla davalılar arasındaki sözleşme ilişkisinin bir adi ortaklık niteliğinde olmadığı, bu durumda; ilk derece mahkemesince her ne kadar sözleşme adi ortaklık olarak nitelendirilmiş ise de, bu konudaki gerekçe doğru olmamakla birlikte, davalılar arasındaki gelir paylaşımlı inşaat sözleşmesi hükümlerine göre yüklenici tarafından yapılan bağımsız bölümlerin arsa sahibince verilen satış yetkisine dayanılarak satılması karşısında, bu satışlardan yüklenici ile birlikte arsa
 sahibinin de sorumlu olduğu tespitinin doğru olduğu, davacılar ile davalı yüklenici arasında bağımsız bölüm satışı ile ilgili olarak yapılan satış sözleşmesi ise dosyada mevcut olup, buna ilişkin ödemeler de toplam 115.000 GBP miktarında olmak üzere sunulan belgelerle kanıtlandığı, bütün bu nedenlerle; ilk derece mahkemesinin "davanın kabulü" yönündeki kararı sonuç itibariyle doğru olup, davalı arsa sahibi vekilinin sair istinaf sebepleri yerinde değil ise de, yukarıda açıklandığı üzere, gelir paylaşımlı inşaat sözleşmesinin adi ortaklık ilişkisi olarak nitelendirilmesi yönündeki gerekçe yanlış olduğundan, iş bu gerekçenin HMK.'nın 297. maddesine göre kamu düzeni gereğince düzeltilmesi gerektiği belirtilerek davalı ... vekilinin istinaf kanun yoluna başvurusunun kabülü ile; Fethiye 2. Asliye Hukuk Mahkemesi'nin (Tüketici Mahkemesi Sıfatıyla) 09/11/2017 tarih ve 2016/209 Esas, 2017/198 Karar sayılı kararının, 6100 sayılı Hukuk Muhakemeleri Kanunu'nun 353/(1)-b-2. maddesi gereğince, kamu düzeni nedeniyle kaldırılmasına, esasa ilişkin aşağıdaki şekilde yeni hüküm tesisine: davanınkabulü ile;
@@ -56,9 +68,13 @@ Muğla ili, ..., ..., ..., ... ada 1 parsel B Blok, Zemin Kat 1 numaralı bağı
 
 ## Yargıtay 3. HD 2024/1613 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1086537600)
+
 Karar düzeltme yoluyla incelenen karar, tarafların karşılıklı iddia ve savunmalarına, dayandıkları belgelere, uyuşmazlığa uygulanması gereken hukuk kuralları ile hukuki ilişkinin nitelendirilmesine, dava şartlarına, yargılama ve ispat kuralları ile kararda belirtilen gerekçelere, taraflar arasında 34 VLV 16 plaka sayılı otobüsün alımı hususunda adi ortaklık ilişkisinin kurulduğunun, bu kapsamda Dairenin 14.10.2014 tarihli bozma ilamında belirtildiği üzere 6098 sayılı Türk Borçlar Kanunu'nun 642 ve devamı maddelerindeki hükümler uygulanarak ortaklık konusuna ilişkin tasfiyenin gerçekleştirilmesi gerektiğinin anlaşılmasına göre, davalılar vekilinin karar düzeltme isteminin reddine karar vermek gerekmiştir.
 
 ## Yargıtay 15. HD 2018/1573 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/421342400)
 
 Dava, eser sözleşmesinden kaynaklanmakta olup, sözleşmenin feshi nedeniyle ödenmeyen iş bedeli, fazla imalât bedeli, haksız yapılan kesinti, zeyilname gereğince davalıların ödemekle yükümlü oldukları sigorta, stopaj ve ücretlerin tahsili, el konulan malzeme bedellerinin tazmini istemlerine ilişkindir.
 
@@ -74,9 +90,13 @@ değerlendirme ile yazılı şekilde hüküm tesisi doğru olmamış, kararın b
 
 ## Yargıtay 3. HD 2017/2082 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/892428200)
+
 04.06.1958 gün 15/6 sayılı Yargıtay İçtihadı Birleştirme kararında da vurgulandığı gibi; bir davada dayanılan maddi vakıaları açıklamak tarafların, bu olguları hukuken nitelendirmek, uygulanacak yasa maddelerini arayıp bulmak ve doğru olarak yorumlayıp uygulamak da hakimin görevidir. Diğer bir deyişle; bir davada maddi olayı anlatmak taraflara, hukuki nitelendirmeyi yapmak hakime aittir (HUMK.nun madde 76, HMK madde 33). Anılan yasal düzenlemeye göre davayı aydınlatma görevinin mahkeme hakimine ait olmasına göre uyuşmazlığın çözümüne ilişkin hukuki nitelendirme yapılmalı ve adi ortaklığın kurulmuş olup-olmaması ve iadesi için gereken kuralların ne olduğu tayin ve tesbit edilerek, hüküm kurulmalıdır.
 
 ## Yargıtay 3. HD 2015/19675 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/162777200)
 
 Taraflar arasında düzenlenen sözleşme; bu açıklamalar ışığında incelendiğinde; TBK.'nun 620. maddesinde tanımını bulan adi ortaklığın unsurları bulunmamaktadır. Bu nedenle, mahkemece taraflar arasındaki sözleşmenin adi ortaklık sözleşmesi olarak kabulü ile yazılı şekilde hüküm kurulması usul ve yasaya aykırıdır.
 
@@ -84,11 +104,15 @@ Adi ortaklık sözleşmesini, sonuca katılmalı ödünç sözleşmesinden ayır
 
 ## Yargıtay 3. HD 2014/10989 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/88204900)
+
 Bundan ayrı olarak, davalı K.. A..'ün 01/06/2010 tarihli adi ortaklık sözlemesinin 6.maddesinde belirtilen yatırım giderlerine katılmadığı kabul edilse dahi adi ortaklık sözleşmesinin 4.maddesine göre, işletmenin yönetimi ve sevk idaresini üstlenen bu suretle sözleşmeye sevk ve idare görevini yapmakla katkıda bulunan davalı K.. A..'ün sözleşmenin feshedilmesi nedeniyle uğradığı zararın tazminini talep etmesinin aynı zamanda ortaklığın tasfiyesini de kapsadığı hususu nazara alınmadan işletmenin ortaklık olarak ne kadar faaliyet gösterdiği ve bu dönem içerisindeki kar-zarar miktarının da tespitinin mümkün olmadığı gerekçesiyle birleşen davanın reddine karar verilmesi doğru görülmemiştir.
 
 Bu durumda mahkemece; 01.07.2012 tarihinde yürürlüğe giren 6098 sayılı Türk Borçlar Kanununun 620 ve devamı maddelerinde düzenlenen adi ortaklık hükümleri dikkate alınmalı, Türk Borçlar Kanununun 642.madde ve devamı hükümlerine göre tasfiye işlemi gerçekleştirilmelidir. Zira, 6101 sayılı Türk Borçlar Kanununun Yürürlüğü ve Uygulama Şekli Hakkında Kanunun 1.maddesine göre; Türk Borçlar Kanununun yürürlüğe girdiği tarihten önceki fiil ve işlemlere, bunların hukuken bağlayıcı olup olmadıklarına ve sonuçlarına, bu fiil ve işlemler hangi kanun yürürlükte iken gerçekleşmişse, kural olarak o kanun hükümleri uygulanır. Ancak, Türk Borçlar Kanununun yürürlüğe girmesinden sonra bu fiil ve işlemlere ilişkin olarak gerçekleşecek temerrüt, sona erme ve tasfiye, Türk Borçlar Kanunu hükümlerine tabidir.
 
 ## Yargıtay 7. HD 2013/147 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/241773000)
 
 Dava, adi otaklık ilişkisinin varlığının tespiti ile kar payının tahsili istemine ilişkindir.
 
@@ -100,9 +124,13 @@ Somut olaya gelince; davaya dayanarak "Akitname" başlıklı belge yukarıda yas
 
 ## Yargıtay 13. HD 2010/15957 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/775345200)
+
 HUMK.nun 76. maddesi uyarınca davada maddi olguların açıklanması taraflara, ileri sürülen maddi olguların hukuki nitelendirilmesi ve uygulanacak yasa maddelerinin tespit edilmesi ise hakime ait bir görevdir. Davadaki ileri sürülüşe göre, davacı tarafından varlığı iddia edilen bu sözleşme ise, Borçlar Kanununun 520 ve devamı maddelerinde düzenlenen adi ortaklık sözleşmesi olup, uyuşmazlığın da adi ortaklık hükümlerine göre çözümlenmesi gereklidir.
 
 ## Yargıtay 12. HD 2008/1792 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/71364200)
 
 İİK'nun 89.maddesi borçlunun 3.kişilerdeki kıymetli evraka bağlanmamış olan hak ve alacakları ile taşınır malların haczinde uygulanır. Borçlunun 3.kişilerdeki yukarıda belirtilen türdeki bir alacağı talep hakkı ya da taşınır malı haczedilince icra müdürü alacaklının istemi üzerine 3.kişiye 89/1 adı altında bir ihbarname gönderir. Somut olayda, borçlu D... İnş. San.Tic.AŞ'nin borcu sebebi ile icra müdürlüğünce çıkarılan 89/1 haciz ihbarnamesi borçlu D...İnş.San.Tic.AŞ. ile Ö..San.Tic.AŞ'nin birlikte kurdukları iş ortaklığının Toki Emlak Konut Gayrimenkul Yatırım Ortaklığı AŞ'deki yapılan iş nedeni ile ortak girişime ait hakedişe haciz konularak söz konusu paranın gönderilmesinin istendiği anlaşılmıştır. Adi ortaklık girişimi adi şirket statüsünde bulunduğundan BK'nun 522 ve 523. maddeleri uyarınca her ortak şirketin karına iştirak hakkına sahip olduğundan her bir ortağın kişisel alacakları borçlu ortağın şirketteki kar payına İİK'nun 89.maddesine göre haczettirebilirler. Yine şirket sözleşmesinde yer alması halinde ortağın faiz alacağı da ortağın kişisel alacaklıları tarafından İİK'nun 89.maddesi uyarınca haczedilebilir.
 Ayrıca BK'nun 534.maddesine göre de bir ortağın alacaklıları haklarını ancak o şerikin tasfiyedeki hissesi üzerinde kullanabilirler. Ancak ortağın kişisel alacaklıları adi şirkete veya adi şirketin alacaklarına doğrudan doğruya başvuramazlar. Yukarıda belirtildiği üzere Özyapı İnş.San ve Tic.AŞ.-D.. İnş.San.Tİc.AŞ iş ortaklığının yapmış oldukları iş karşılığı olarak Emlak Konut Gayrimenkul Yatırım Ortaklığı AŞ'deki hak ve alacaklarının haczi mümkün değildir. Dar yetkili icra mahkemesi ortaklığın tasfiyesine karar vermeye yetkili ve görevli değildir. Mahkemece tasfiyeyi doğuracak şekilde değerlendirme yapılarak borçlu adi ortaklığın hak ve alacağının haczine karar verilmesi isabetsizdir.
@@ -126,9 +154,13 @@ Ltd.Şti.tarafından tanzim edilen 78.479,52 TL'lik fatura ve ...
 
 ## Ankara BAM 24. HD 2026/528 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1204701900)
+
 İstinaf incelemesine konu karar, tarafların karşılıklı iddia ve savunmalarına, dayandıkları belgelere, uyuşmazlığa uygulanması gereken hukuk kuralları ile hukuki ilişkinin nitelendirilmesine, dava şartlarına, yargılama ve ispat kuralları ile kararda belirtilen gerekçelere, davacı ortağın yaptığını beyan ettiği ödemeye ilişkin doğrudan dava dışı ortağın temsilcisi olan davalıya karşı talepte bulunamayacağı, adi ortaklık kapsamında yapılan masrafların ortaklık malvarlığı, olmadığı takdirde diğer ortaktan talep edileceği, maktu vekalet ücretine hükmedilmesinde isabetsizlik olmadığının anlaşılmasına göre, tarafların istinaf itirazlarının reddine karar verilmiştir.
 
 ## İstanbul BAM 15. HD 2026/100 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1201141300)
 
 Şti'nin birlikte iş sahibi oldukları, yüklenici şirketin filmin meydana getirilmesinden sorumlu olduğu, davacı ve davalı şirketin ise yükleniciye yapılacak ödemeleri hangi oranda ve ne miktarda karşılayacakları, bu finansmanın usul ve esasları, filmden elde edilecek gelirin ne şekilde paylaşılacağının düzenlendiği anlaşılmaktadır Sözleşmenin "Tarafların Hak ve Yükümlülükleri" başlıklı III. maddesinin 2.bendinde, sinema filminin çekimlerinin yapılmasından, prodüksiyonun tamamlanmasından, sanatçılarla anlaşmaların tamamlanmasından, vizyona girmesinden, satış ve pazarlamasından ... Şirketi'nin sorumlu olacağı, bu kapsamda ... Şirketi'nin azami bütçe rakamı dahilinde kalmak kaydıyla münferiden yetkili olduğu, 4.bendinde, sinema filminin eser işletme belgesinin davalı ... Şirketi ve davacı ... Şirketi adına ortak olarak alınacağı, şirketlerin işletme belgesindeki ortaklık paylarının ... Şirketi'nin %55, davacı ... Şirketi'nin ise % 45 olarak belirlendiği, 5.bendinde, sinema filminin tüm giderlerinin azami limitinin KDV ve stopajlar dahil 3.629.848,00 TL olduğu belirlenmiştir.Aynı Sözleşmenin 8.bendinde, sinema filminin gelirlerinin ...
 Şirketi üzerinde toplanacağı ve filmin gösterime girdiği tarihi takip eden 3 aylık dönemde, tarafların hesap bilançosu çıkararak ... Şirketi tarafından yapılan tüm ödemelerin filmin tahsil edilen gelirleri tarafından karşılanıp karşılanmadığının tespit edileceği ve yapılan tespit neticesinde sinema filminden kar oluşması halinde ... Şirketi'nin belirtilen paylara karşılık gelen bedellerini, tespit tarihini takip eden 5 işgünü içinde ... Şirketi ve davacı ... Şirketi'ne fatura karşılığında ödeyeceği kararlaştırılmıştır.Bu haliyle, davacı ve davalı şirketin arasında adi ortaklık ilişkisinin mevcut olduğu, adi ortaklığı oluşturan bu iki şirket ile dava dışı yüklenici ...
@@ -137,6 +169,8 @@ Ltd.Şti.tarafından tanzim edilen 78.479,52 TL'lik fatura ve ...
 Sözleşmesi gereğince davalı ... tarafından davaya konu çeklerin davacı şirkete verildiği hususunda bir ihtilaf bulunmamaktadır. Yine yukarıda belirttiğimiz üzere, taraflar arasındaki uyuşmazlık eser sözleşmesinden değil, adi ortaklık ilişkisinden kaynaklanmaktadır. Bu nedenle yargılama konusu olayın, adi ortaklığı düzenleyen TBK'nın 620-645 maddeleri çerçevesinde ele alınması gerekmektedir.Taraflarca imzalanan 04/08/2010 tarihli ... Sözleşmesinde, davacı şirket ile davalı şirketin dava dışı ... Şti tarafından meydana getirilecek film (eser) için ne miktarda finansal destek verecekleri sözleşme ile kararlaştırılmıştır. Buna göre, taraflar arasındaki sözleşmedeki maliyet ve sorumluluk miktarları nazara alındığında filmin 2.000.000 TL'lik maliyetinin davalı ... tarafından karşılanması gerekmektedir.
 
 ## Ankara BAM 24. HD 2025/884 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1140614200)
 
 Dava, adi ortaklık tasfiye sözleşmesinden kaynaklanan tapu iptali ve tescili istemine ilişkindir.
 

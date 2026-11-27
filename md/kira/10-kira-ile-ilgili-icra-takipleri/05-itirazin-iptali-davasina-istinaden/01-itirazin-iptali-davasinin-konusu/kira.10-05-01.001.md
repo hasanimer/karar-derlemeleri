@@ -25,4 +25,6 @@ uyari: "Derleyenin seçtiği alıntılardır; kararın tamamı değildir. Künye
 
 ## Yargıtay 3. HD 2025/759 K. (kanun yararına bozma)
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1142258900)
+
 Somut olayda; davacı kiraya veren, tahliye tahhütnamesine dayalı tahliye talepli olarak başlatılan icra takibine, davalı kiracının itiraz etmesi üzerine itirazın iptali davası açmıştır. Yukarıda açıklandığı üzere, **davacının itirazın iptali davası açması nedeniyle Mahkeme görevli**, olup icra hukuk mahkemelerinin görevli olduğu gerekçesiyle davanın usulden reddine karar verilmesi usul ve yasaya aykırı olduğundan, Adalet Bakanlığının bu yöne ilişen kanun yararına temyiz talebinin kabulü gerekir.

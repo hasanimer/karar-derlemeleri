@@ -21,11 +21,15 @@ uyari: "Derleyenin seçtiği alıntılardır; kararın tamamı değildir. Künye
 
 ## Yargıtay HGK 2021/1168 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/713245300)
+
 18.11.1964 tarihli ve 2/4 sayılı Yargıtay İçtihadı Birleştirme Kararı uyarınca **bilirkişilerin taşınmazın serbest şartlarda boş olarak kiraya verilmesi hâlinde getireceğini bildirdikleri kira bedelinden** (**14.375TL) hak ve nesafet ilkesi gözetilerek uygun ve makul bir indirim yapılarak kira bedelinin tespiti yoluna gidilmesi gerekir**. Ancak mahkeme tarafından bilirkişilerce tespit edilen bedel üzerinden değil davacının talep ettiği kira bedeli üzerinden (10.000TL) hak ve nesafete göre bir miktar indirim yapılarak kira bedelinin 9.000TL olarak belirlendiği anlaşılmaktadır.
 
 O hâlde, **mahkemece; bilirkişi tarafından tespit edilen kira bedelinden (14.375TL) yerleşik Yargıtay uygulamasını da yansıtacak biçimde hak ve nesafet ilkesi uyarınca indirim yapılmalı**; davacının talebi de dikkate alınarak talep aşılmaksızın kira bedelinin tespiti yoluna gidilmelidir.
 
 ## Yargıtay 3. HD 2019/79 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/473067600)
 
 Bu durumda davalı kiracının tacir olup olmaması sonuca etkili olmayıp her iki durumda da kira bedelinin davalı tarafından en son ödenen bedelden az olmamak üzere rayice göre belirlenmesi gerektiği açıktır.
 18.11.1964 gün ve 2/4 sayılı Y.İ.B.K. ve yerleşik Yargıtay uygulamalarına göre “hak ve nesafet” ilkesi uyarınca kira bedeli tespit edilirken, öncelikle tarafların tüm delilleri varsa emsal kira sözleşmeleri aslı veya onaylı örnekleri dosyaya alınmalı, yoksa resen emsal araştırması yapılmalı, bilirkişi marifetiyle kiralanan taşınmaz ve taraf emsalleri tek tek görülüp incelenmeli, böylece elde edilen veriler somutlaştırılarak, dava konusu yer ile ayrı ayrı (konumu, çevresi, niteliği, kullanım şekli, kira başlangıç tarihi, kira süreleri vb.) kira parasına etki eden tüm nitelikleri karşılaştırılmalı, emsal kira bedellerinin niçin uygun emsal olup olmadığı somut gerekçelerle açıklanmalı, **dava konusu taşınmazın yeniden kiraya verilmesi halinde (boş olarak) getirebileceği kira parası belirlenmeli**, dava konusu yerin yukarıda açıklandığı üzere getirebileceği kira parası usulünce saptandıktan sonra, bu husus dikkate alınmak suretiyle hak ve nesafet kurallarına göre hâkimce uygun bir kira parası (kiracının eski kiracılığı da gözetilerek) takdir edilmelidir.

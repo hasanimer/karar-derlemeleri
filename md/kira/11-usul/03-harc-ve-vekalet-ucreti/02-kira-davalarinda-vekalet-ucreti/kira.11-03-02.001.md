@@ -22,13 +22,19 @@ uyari: "Derleyenin seçtiği alıntılardır; kararın tamamı değildir. Künye
 
 ## Yargıtay HGK 2021/1413 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/720122000)
+
 Hâl böyle olunca, Özel Daire bozma kararının esas yönünden mahkemece tespit edilen kira bedelinin davalının ödediği miktardan aşağı olamayacağı hususuna ilişkin olduğu, mahkemece esas yönünden verilen direnme kararının davacı vekili tarafından temyiz edilmediği, kararın sadece davalı vekili tarafından yargılama giderleri ve vekâlet ücreti yönünden temyiz edildiği, yargılama giderleri ve vekâlet ücreti yönünden verilmiş bir bozma kararının bulunmadığı; her ne kadar, karar metninde “Mahkemenin kabulüne göre; davalı hüküm altına alınan bedeli dava tarihi öncesinde ödemeye başladığından dava açılmasına sebep olmamış durumdadır. Bu durumda davaya davalı sebebiyet vermediğinden, davalı aleyhine yargılama gideri ve vekalet ücretine hükmolunamaz, mahkemece bu husus nazara alınmadan davalı aleyhine yargılama gideri ve vekâlet ücretine hükmolunması da isabetli değildir” yönünde bir açıklama yapılmış ise de, bozma kararında yer verilen bu paragrafın yukarıdaki açıklamalar çerçevesinde sadece ve ancak “kabule göre bozma” olarak nitelendirilebileceği kabul edilmelidir.
 
 ## Yargıtay HGK 2012/712 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/77408100)
+
 Tahliye davalarında Avukatlık Asgari Ücret Tarifesinin 9. maddesine göre bir yıllık kira bedeli üzerinden tarifenin üçüncü kısmı gereğince hesaplanacak nisbi vekalet ücreti takdiri gerekirken yazılı şekilde eksik vekalet ücreti hükmedilmesi hatalı olmuştur.
 
 ## Yargıtay 3. HD 2024/3370 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1102936900)
 
 Temyiz olunan Bölge Adliye Mahkemesi kararında; hukuki ilişkinin ve bu ilişki nedeniyle ortaya çıkan uyuşmazlığa yukarıda yer verilen kanun maddesinin doğru şekilde uygulandığı, davacının taraflar arasında düzenlenen 18.10.2012 tarihli kira sözleşmesinin (10.) maddesinde yer alan düzenlemeye dayanarak, kiralanan araçların davalı kiracı tarafından geç teslim edilmesi nedeniyle tazminat talep ettiği, sözleşmenin (10.) maddesinde, kontrat sonunda araçların geri verilmesi sırasında gecikilen her gün için kiracının, kiraya verene, araç başına 180 €+KDV tazminat ödeneceğinin düzenlendiği, sözleşme hükmünden de anlaşılacağı üzere söz konusu tazminatın ancak öngörülen sürenin sona ermesinden sonra araçların geç teslim edilmesi halinde uygulanacağı, somut olayda sözleşmenin öngörülen süreden önce fesihle sonuçlandırıldığı, sözleşmenin feshine ilişkin hükümlerin sözleşmenin (15.) maddesinde ayrıca yer aldığı, bu halde davacının sözleşmesinin (10.) maddesine göre tazminat talebinin yerinde olmadığı, Mahkemece, karar tarihindeki döviz kuru esas alınarak davalı lehine vekalet ücretine hükmedildiği, davalı
 
@@ -36,10 +42,14 @@ vekili tarafından esas alınan kurun hatalı olduğu ileri sürülmüş ise de 
 
 ## Yargıtay 2. HD 2024/3568 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1068488900)
+
 4721 sayılı Kanun'un 194 üncü maddesi uyarınca konut eşlerden biri tarafından kira ile sağlanmışsa sözleşmenin tarafı olmayan eşin kiralayana yapacağı bildirimle sözleşmenin tarafı haline gelebileceği ve müteselsilen sorumlu olacağının düzenlendiği, davacı kadının yasadaki hakkını kullanmak yerine bu davayı açmakta hukuki yararının bulunmadığı ancak taşınmazın tahliyesine ilişkin karar ön inceleme duruşmasından önce verilip taşınmazın tahliye edilmesi halinde dahili davalılar lehine verilecek vekâlet ücretinin yarısı oranında verileceğinin düşünülmemesi hatalı olduğu, buna göre dahili davalılar lehine 1/2 oranında vekâlet ücreti verilmesi gerekirken, davacı lehine tam vekâlet ücreti verilmesi hatalı olduğu; dahili davalılar ve davalının bu yöndeki istinaf başvurusunun kısmen kabulüne karar verildiği gerekçesi ile davacı tarafın istinaf başvurusunun esastan reddine, davalıların istinaf başvurusunun kısmen kabulü ile İlk Derece Mahkemesi kararının hüküm fıkrasının ilgili bentlerinin kaldırılmasına, dahili davalılar kendisini vekil ile temsil ettirdiğinden İlk Derece Mahkemesinin karar tarihinde yürürlükte bulunan Avukatlık Asgari Ücret Tarifesi'ne göre 2.550,00 TL vekâlet ücretinin
 davacıdan tahsili ile dahili davalılara verilmesine karar verilmiştir.
 
 ## Yargıtay 5. HD 2024/5484 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1058417100)
 
 Dairemizce yapılan inceleme sonucu;
 Mahkemece bozma ilamına uyulmuşsa da, bozma gereklerinin tam olarak yerine getirilmediği, şöyle ki, dava konusu taşınmazın kadastro parseli, emsal taşınmazın imar parseli olduğu anlaşıldığından, dava konusu taşınmazın tespit edilen metrekare birim fiyatından düzenleme ortaklık payı kesintisi yapılması gerekirken; bu yönteme uyulmaksızın değer tespit edildiği gibi, tek bilirkişi tarafından hazırlanan raporun da inandırıcı bulunmadığı, bu durumda yeni bilirkişi kurulu ile mahallinde keşif yapılarak alınacak rapor sonucuna göre hüküm kurulması gerektiğinin düşünülmemesi, ecrimisile hükmedilmesi için taşınmazın bulunduğu mevkideki diğer arsaların dava tarihinden geriye doğru ecrimisil istenen süre içinde kiraya verilip verilmedikleri, veriliyor ise nasıl ve ne şekilde kiraladıklarının taraflardan delilleri sorulmak suretiyle tespit edilmesi, varsa emsal kira sözleşmesi temin ettirilerek mahallinde keşif yapılıp alınacak rapor doğrultusunda hüküm kurulması gerektiği düşünülmeden soyut bir şekilde ecrimisil hesabı yapan rapor esas alınarak eksik inceleme ile hüküm kurulması, dava konusu taşınmaza fiilen hangi tarihte el atıldığı taraflardan sorularak, el atma tarihine ilişkin tüm
@@ -49,10 +59,14 @@ belgeler getirtilip, el atma tarihinin 04.11.1983 tarihinden önce olduğunun te
 
 ## Yargıtay 11. HD 2024/2978 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1132470600)
+
 Bölge Adliye Mahkemesinin yukarıda tarih ve sayısı belirtilen kararı ile davacı, işyeri devir bedelinin 3 yıl karşılığı olduğu ve işyerinin kamulaştırılması nedeni ile tahliye etmek zorunda kaldığını, demirbaş bedelinin 136.000,00 TL kadar olamayacağını, bedel tespiti yapılarak bakiye çıkacak bedelin hava parası olduğunun belirlenmesi gerektiğini ve hava parası alınmasının 6098 sayılı Kanun'un 27 nci maddesine aykırı olduğunu ileri sürmüş ise de tarafların davalının kiracı olduğu işyerinin davacıya devri hususunda anlaştıkları, işyerinin demirbaşlarla davacıya devri ile birlikte davalının edimini yerine getirdiği, davacının tahliye tarihine değin işyerini kullandığı, davalının başkaca yazılı bir taahhüdünün olmadığı dikkate alındığında mevcut delil durumuna göre davanın reddine karar verilmesinde usul ve esas yönünden hukuka aykırılık görülmediği, davacı vekilinin yargılama giderleri ve vekalet ücretine yönelik istinaf isteminin ise dava dilekçesinin içeriği, dava dilekçesini somutlaştırdığı dilekçesi, 13.12.2018, 21.06.2019, 12.07.2016 tarihli duruşmalardaki beyanları ve harçlandırılan değer dikkate alındığında mahkemenin dava değerini 136.000,00 TL üzerinden kabulü ve bu miktar
 üzerinden vekalet ücretine hükmetmesi, davanın reddi ile yargılama giderinin davacı üzerinde bırakılması yerinde olduğu gerekçesiyle davacı vekilinin istinaf başvurusunun esastan reddine karar verilmiştir.
 
 ## Yargıtay 11. HD 2024/1738 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1021573200)
 
 TC 199279386.." yazıları ve imzanın ... el ürünü olduğu, bonodaki 4 rakamının sonradan oluşturulduğunun bildirildiği, davacılar tarafından takibe ve davaya konu bononun kira sözleşmesinin teminatı olarak verildiği belirtilmişse de senede karşı senetle ispat kuralı gereği ve senet üzerinde ya da ekindeki sözleşmede açık bir şekilde bononun kira sözleşmesine istinaden verildiğinin yazılı olmasının gerektiği, ancak kira sözleşmesinde ve senet üzerindeki incelemelerde senedin açık bir şekilde kira sözleşmesinin teminatı olarak verildiğine dair yazılı ve kesin bir delilin davacılar tarafından ortaya konulamadığı, davacılar tarafından bu bedelin ödendiği belirtilmişse ve bu konuda ...'ün beyanları varsa da ödemenin yapıldığına dair yazılı ve kesin bir delilin ortaya konulamadığı, ayrıca yerleşik içtihat gereği davacıların ve davalılar ... ile ...'ın beyanları üzerine bononun tahrifat yapılmadan önceki bedelinin 3.360,00 TL olarak kabulü gerektiği, bonodaki sorumluların yazılı bu miktardan sorumlu oldukları, davacılar tarafından davalı ...'ın kötü niyetli bir şekilde ve bilerek borçlunun zararına hareket ederek bu bonoyu aldığı iddia edilmişse de bu konuda davacılar tarafından herhangi
 bir delilin ortaya konulamadığı, 6102 sayılı Kanun'un 690 ve 622 nci maddesinin ikinci fıkrası uyarınca cirolar arasında muntazam bir teselsülün mevcut olup olmadığını ödeyen kişi kontrol etmeye mecbur ise de cirantaların sıhhatini araştırmaya mecbur olmadığı, 6102 sayılı Kanun'un 598 ... maddesi uyarınca bir poliçeyi elinde bulunduran kimsenin, son ciro ... ciro olsa dahi kendi hakkının müteselsil ve birbirine bağlı cirolardan anlaşıldığı takdirde yetkili hamil sayılacağı, aynı Kanun'un 589 uncu maddesi uyarınca poliçe poliçeyle borçlanmaya ehil olmayan kimselerin imzasını, sahte imzaları, mevhum şahısların imzalarını yahut imzalayan veya namlarına imzalamış olan şahısları herhangi bir sebep dolayısıyla ilzam etmeyen taşırsa diğer imzaların bu yüzden
@@ -62,9 +76,13 @@ ve vekalet ücretinden sorumlu olmadığı, davalı ...'ın bonodaki ciroların 
 
 ## Yargıtay 3. HD 2024/184 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1010886900)
+
 Yukarıda yer verilen Dairemiz ilamlarında da açıklandığı üzere; kirayı veren tarafından ödenen kira bedelinin, Mahkemece hükmedilen kira bedeli ile aynı olması halinde, karşı taraf dava açılmasına sebebiyet vermediğinden yargılama giderleri ve vekalet ücretinden sorumlu olmadığının kabulü gerekir. Somut olayda; kira bedelinin indirilmesini talep eden davacı kiracının, kira bedelinin tespiti istenilen dönemde hüküm altına alınan kira bedelini ödediği anlaşılmaktadır. Bu durumda, kira bedelinin indirilmesine karar verilmediğine göre, dava açılmasına sebebiyet vermeyen davalı aleyhine yargılama gideri ve vekalet ücretine hükmedilmesi, doğru olmayıp bozmayı gerektirir.
 
 ## Yargıtay 3. HD 2023/3260 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/985472700)
 
 Adalet Bakanlığının 17.02.2023 tarihli yazısında; açılan davada, kira hukukundan kaynaklanan farklı kalemlerde toplam 5.525,00 TL alacağın tahsiline karar verilmesinin istendiği, Mahkemece yargılama neticesinde davanın 1.700,00 TL'lik kısmının kabulüne karar verilerek davacı lehine 1.700,00 TL, davalı taraf lehine 3.825,00 TL vekalet ücreti takdir edildiği, karar tarihinde yürürlükte olan Avukatlık Asgari Ücret Tarifesinin 13 üncü maddesinin ikinci fıkrasında hükmedilen vekalet ücretinin kabul veya reddedilen miktarı geçemeyeceğinin belirtildiği, yine aynı maddenin üçüncü fıkrasında maddi tazminat istemli davanın kısmen reddi durumunda, karşı taraf vekili yararına tarifenin üçüncü kısmına göre hükmedilecek ücretin, davacı vekili lehine belirlenen ücreti geçemeyeceğinin düzenlendiğini, Mahkemece maddi tazminat istemli açılan ve kısmen reddedilen davada karar tarihinde yürürlükte olan Avukatlık Asgari Ücret Tarifesinin 13 üncü maddesinin üçüncü fıkrası dikkate alınarak karşı taraf lehine, davacı lehine belirlenen vekalet ücretini geçemeyecek şekilde vekalet ücretine hükmedilmesi gerekirken, yazılı şekilde reddedilen
 
@@ -72,18 +90,26 @@ miktarın tamamına göre vekalet ücretine hükmedilmiş olmasının usul ve ya
 
 ## Yargıtay 11. HD 2023/6122 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/981996400)
+
 Yine taraflar arasındaki Franchising Sözleşmesinin 24. maddesine göre; hukuki ihtilaf halinde kazanan tarafın yaptığı masrafları ve AAÜT'nde gösterilen yasal avukatlık ücretlerinin 3 katını kaybeden taraftan tazmin etme hakkına sahip olduğu ve alt kira sözleşmesinin 5.14. maddesine göre de alt kiracı aleyhine hiç yahut süresinde yapmadığı ödemeler sebebiyle hukuki takip başlatılması halinde kiraya verenin avukatları lehine vekillik ücretinin üç misli olarak ödeneceği şeklinde kararlaştırılan sözleşme içeriği dikkate alınarak, birleşen davada davacı ve vekili yararına üç misli tutarınca yargılama giderlerine ve vekalet ücretine karar verilmiştir.
 Ancak birleşen davada davacının talepleri tümüyle kabul edilmemiş olup, davanın kısmen kabulü ile kısmen reddine karar verilmiş olduğuna göre; birleşen davanın davalıları ve vekilleri yönünden de sözleşmelerin ilgili maddeleri yorumlanarak üç misli tutarınca yargılama gideri ve vekalet ücreti takdirinin gerekip gerekmeyeceğinin değerlendirilmesi gerekirken, birleşen davanın davacısının davayı kazanan taraf olarak kabul edilerek sadece davacı ve vekili lehine sözleşmenin ilgili maddelerinin uygulanması doğru olmamış, hükmün bu yönüyle davalılar yararına bozulması gerekmiştir.
 
 ## Yargıtay 3. HD 2023/2492 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/960840000)
+
 Mahkeme kararının hüküm fıkrasının (1) numaralı bendinin (c) alt bendinde yer alan “(c) Tahliye davası yönünden hüküm tarihi itibariyle 15.360,00 TL vekalet ücretinin davalıdan alınarak davacıya verilmesine” ibaresinin çıkartılarak yerine "c) Davalı lehine oluşan usuli kazananılmış hak gözetilerek davacı lehine vekalet ücreti takdirine yer olmadığına," ibaresinin yazılması suretiyle hükmün DÜZELTİLEREK ONANMASINA,…
 
 ## Yargıtay 3. HD 2023/2472 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/960838100)
+
 Kira bedelinin uyarlanması davalarının kabul veya reddi halinde taraf yararına vekalet ücretinin nasıl hesaplanması gerektiğine dair Avukatlık Asgari Ücret Tarifesinde (Tarife) bir hüküm bulunmamaktadır. Ancak bu gibi durumlarda aynı Tarifenin 9 uncu maddesinde öngörülen kira tesbit davalarındaki hesaplama biçimine uygun bir yol izlenmesi mümkündür. Karar tarihinde yürürlükte bulunan Tarifenin 9 uncu maddesi; “Tahliye davalarında bir yıllık kira bedeli tutarı, kira tespiti ve nafaka davalarında tespit olunan kira bedeli farkının veya hükmolunan nafakanın bir yıllık tutarı üzerinden Tarifenin üçüncü kısmı gereğince hesaplanacak miktarın tamamı, avukatlık ücreti olarak hükmolunur. Bu miktarlar, Tarifenin ikinci kısmının ikinci bölümünde davanın görüldüğü mahkemeye göre belirlenmiş bulunan ücretten az olamaz. ” şeklindedir.
 
 ## Yargıtay 11. HD 2023/4435 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/956598000)
 
 Asliye Ticaret Mahkemesinin 2001/838 E. sayılı dosyasında; işbu davanın davacısı tarafından, işbu davanın davalıları aleyhine, finansal kiralama konusu gemiye elatmanın önlenmesi, olmadığı takdirde 5.375,00 USD'nin tahsili talebiyle dava açıldığı, yine Ankara Asliye 1. Ticaret Mahkemesinin 2005/141 E. sayılı dosyasında Koray Denizcilik ve Ticaret A.Ş. tarafından işbu davanın davacısı aleyhine finansal kiralama sözleşmesinin haksız feshinden kaynaklanan zararın tazmininin talep edildiği, Mahkemece fesih haklı olduğundan, fesihte T. Kalkınma Bankası A.Ş.nin kusuru olmadığından bahisle davanın reddine karar verdiği, kararın derecattan geçerek kesinleştiği, mezkûr davaların talep ve sonuçlarının farklı olması nedeniyle davalı tarafın derdestlik itirazının reddedildiği, somut olayda davanın 27.03.1995 tarihli ihtarnamesi ile feshin gerçekleştiği, Ankara 7. Asliye Ticaret Mahkemesinin 2001/838 E. sayılı dosyasında gemiye elatmanın önlenmesi, olmadığı takdirde 5.375,00 USD'nin tahsili talebi ile dava açılmış ise de davanın aşamaları sırasında bedele hükmedildiği ve Ankara Asliye 1. Ticaret Mahkemesi'nin 2005/141 E. sayılı dosyasında verilen kararın onanmasına ilişkin Yargıtay 11.
 Hukuk Dairesi kararında belirtildiği gibi feshin haklılığı konusunda davacı banka yararına usuli müktesep hak oluştuğu, davacının, fesih gerçekleştikten ve bilahare feshe ilişkin hakları bedele dönüştükten sonra geminin aynı ile ilgili avukatlık masrafı yaparak bunu davalılardan talep edemeyeceği, ancak davalı tarafından yargılama sırasında karşı çıkmadığı 23.10.1996 tarihli faks mesajında 45.455,00 USD avukatlık ücreti konusunda mutabık olduklarını, ödenerek hesaplarına borç kaydedilmesini istediği, artık Ankara 7. Asliye Ticaret Mahkemesinde görülmekte olan dava daha önce bedele dönüşmüş olsa bile davalı taraf avukatlık ücretini ödemeyi ayrıca üstlendiğinden bu avukatlık parasından sorumlu olduğu, bahsekonu avukatlık ücretinin 15.000,00 USD'sinin ödendiğine dair swift mesajının dosyaya sunulduğu, bilirkişi raporunda yargısal denetime elverişli olacak biçimde davacı alacağının hesaplandığı gerekçesiyle davanın kısmen kabulüne Ankara 10.
@@ -91,9 +117,13 @@ Hukuk Dairesi kararında belirtildiği gibi feshin haklılığı konusunda davac
 
 ## Yargıtay 11. HD 2023/4319 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/933692700)
+
 Mahkemece davalı lehine reddedilen tutar üzerinden vekâlet ücreti takdir edilmiş ise de, dava değerinin yanılgılı değerlendirme ile ıslah edilen tutar olan 599.935,00 TL olarak değil dava dilekçesinde gösterilen miktar esas alındığından davalı vekilinin vekâlet ücretine ve yargılama giderlerine yönelik istinaf itirazlarının kabulü gerektiği gerekçesi ile İlk Derece Mahkemesi kararının düzeltilerek yeninden esas hakkında karar verilmesine, davanın kısmen kabulüne, 32.285,74 TL kira bedelinin, 16.142,87 TL'sine 11.05.2015, bakiyesine 11.06.2015 tarihinden itibaren işleyecek yıllık %12,36 kâr payı ile birlikte davalıdan tahsiline, davacının fazlaya ilişkin talebinin reddine karar verilmiştir.
 
 ## Yargıtay 3. HD 2023/1802 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/966931300)
 
 Ancak Bölge Adliye Mahkemesince İlk Derece Mahkemesi kararı kaldırılarak yeniden hüküm kurulmuş, buna karşılık davacının gecikme cezası ile kira alacağı taleplerinin reddine karar verilmiş olmasına rağmen reddedilen bu kalemler yönünden davalı banka
 
@@ -101,17 +131,25 @@ lehine vekalet ücretine hükmedilmemiştir. Karar tarihinde yürürlükte olan 
 
 ## Yargıtay 4. HD 2023/5401 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/999761700)
+
 Birleşen davada davalı ... Pazarlama Ltd. Şti. aleyhine açılan dava, trafik kaydına dayanılarak açılmış olup, adı geçen davalının aracı uzun süreli kira sözleşmesi ile kiraladığına ilişkin savunması üzerine davanın husumet yönünden reddine karar verilmiş, lehine vekalet ücreti takdir edilmiştir. Trafik kaydına göre davanın adı geçen davalıya yöneltilmesinde davacının bir kusuru bulunmamaktadır. Bu halde adı geçen davalı lehine vekalet ücretine hükmedilmemesi gerekirken yazılı şekilde karar verilmesi bozmayı gerektirir.
 
 ## Yargıtay 3. HD 2022/7211 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/854280500)
 
 Yukarıda birinci bentte bahsolunan usuli müktesep hak ilkesi uyarınca; 12.378 TL kira farkı alacağı yönünden davacı yararına usuli müktesep hak oluştuğu, buna göre mahkemece; bozma kararı dışında bırakılarak kesinleşen 12.378 TL kira farkı alacağı yönünden karar verilmesine yer olmadığına karar verilmesi, kesinleşen bu alacak tutarının vekalet ücreti ve diğer yargılama giderlerinin tayininde nazara alınmak suretiyle hüküm tesisi gerekirken, bu husus gözetilmeksizin davacı yararına eksik vekalet ücreti ve yargılama giderine karar verilmiş olması doğru görülmemiş, bozmayı gerektirmiştir.
 
 ## Yargıtay 3. HD 2022/6879 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/821430200)
+
 Bundan ayrı; karar tarihinde yürürlükte bulunan Avukatlık Asgari Ücret Tarifesinin 9. maddesinde yer alan kira bedelinin tespiti davalarında mahkemece tespit olunan kira bedeli farkının bir yıllık tutarı üzerinden tarifenin üçüncü kısmı gereğince hesaplanacak nispi vekâlet ücretine hükmedileceği düzenlenmiştir.
 
 ## Yargıtay 3. HD 2022/2608 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/757975800)
 
 Buna göre somut olayda; asıl dava, taraflar arasındaki kira sözleşmesi uyarınca kiralanan yerin sözleşmeye aykırı kullanımı nedeniyle kira sözleşmesinin feshi ile kiralananın tahliyesi talebine ilişkin olup, mahkemece kiralanan alanın sözleşmeye aykırı kullanıldığı
 
@@ -119,39 +157,57 @@ tespit edilerek davanın kabulüne ve davalının kiralanandan tahliyesine karar
 
 ## Yargıtay 3. HD 2022/2361 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/748056300)
+
 Bundan ayrı Karşı davada; davacı kiracı, bozma kararı doğrultusunda dava dilekçesini ve ıslah dilekçesini borçlandırmış olup, davanın tümden reddine karar verilmiş olması nedeniyle ıslah edilen dava değeri üzerinden karar tarihinde yürürlükte olan AAÜT uyarınca karşı davalı kiraya veren lehine nisbi vekalet ücreti olarak 3.347,63TL’ye hükmedilmesi gerekirken, yanılgılı değerlendirme ile 1.740TL vekalet ücretine hükmedilmesi de doğru değildir.
 
 ## Yargıtay 4. HD 2022/292 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/794560400)
 
 Dosyanın kapsamından; zarara sebebiyet veren aracın trafikte davalı ... Danışmanlık Tanıtım Organizasyon Turizm ve Eğitim Hizmetleri Ticaret Limited Şirketi adına kayıtlı olduğu, davacı tarafın bu kaydı esas alarak davasını, işleten sıfatıyla anılan davalıya yönelttiği anlaşılmaktadır. 2918 sayılı Karayolları Trafik Kanunu’nun 3. ve 19. maddeleri hükümlerine göre trafik kaydı “işleteni” kesin olarak gösteren bir karine değilse de onun kim olduğunu belirleyen güçlü bir kanıt niteliğindedir. Ancak trafik kaydına rağmen işleten sıfatının üçüncü kişi üzerinde bulunmasını engelleyen bir kanun hükmü yoktur. İşleten sıfatı, trafik kaydı adına olan kişiden müddeti muhafaza kaydı ile satışta alıcı sıfatıyla sicilde kayıtlı görülen veya aracın uzun süreyle kiralanması, ariyeti veya rehni gibi hallerde kiracı ariyet veya rehin alan kişiye geçmiş olur. Bu bakımdan işletenliğin kayda aykırı olarak başkasına geçmiş bulunduğu her zaman ispatlanabilir. Fakat zarar gören kişi davasını açmadan önce işletenliğin trafik kaydında adı yazılı kişiden başkasına satış yoluyla bile olsa geçmiş olup olmadığı konusunda bir araştırma yapmakla yükümlü kılınamaz.
 Olağan olanı, husumetin trafik kaydında adı yazılı kişiye yöneltilmesidir. Nitekim davacı taraf da mevcut kayda dayanarak işleten sıfatıyla ... Danışmanlık Tanıtım Organizasyon Turizm ve Eğitim Hizmetleri Ticaret Limited Şirketi aleyhine açmış ve onun işleten olmadığı ancak sunulan ve getirtilen delillerle belirlenmiştir. Davalı şirket aleyhine bu davanın açılmasında davacının bir kusuru bulunmadığından davanın husumet yokluğu nedeniyle reddi üzerine bu davalı yararına vekalet ücretine hükmedilmesi doğru olmamıştır. Bununla birlikte; davacılar vekili tarafından sunulan temyiz dilekçesinde, davalı ... Danışmanlık Tanıtım Organizasyon Turizm ve Eğitim Hizmetleri Ticaret Limited Şirketi yönünden davanın husumet nedeniyle reddi nedeniyle nispi hesaplanan 8.172,15 TL vekalet ücreti yerine karar tarihinde yürürlükte olan Avukatlık Asgari Ücret Tarifesinde belirlenen maktu vekalet ücretine karar verilmesini talebinin de dikkate alınması gerekmektedir.
 
 ## Yargıtay 3. HD 2021/11131 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/727919000)
+
 Her ne kadar mahkemece, İstanbul 17. Asliye Ticaret Mahkemesinin 2011/222 E. 2012/233 K. sayılı kesinleşmiş kararı esas alınarak hesaplanan 6.749 TL kira bedeli ile davacı tarafça yargılamanın başında talep edilen ve icra takibine konu edilen aylık 18.669 TL arasındaki fark dikkate alınarak, davacı tarafından yapılan yargılama giderlerinin haklılık oranına göre taraflar arasında paylaştırılmasına ve davalı lehine 10.449,36 TL vekalet ücretine karar verilmiş ise de, davanın açıldığı tarihte davacı talebinde haklı olduğundan, diğer bir anlatımla mahkeme kararı ile kira bedeli yargılama sırasında azaldığından, davalı lehine vekalet ücretine hükmedilmesi ve davacı tarafından yapılan yargılama giderlerinin bir bölümünün üzerinde bırakılması, doğru olmayıp bozmayı gerektirir.
 
 ## Yargıtay 11. HD 2020/5843 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/632541800)
 
 Mahkemece davacı tarafından talep edilen 1.134.048,11 TL kira bedeli, 504.197,80 TL ana paranın kullanılmayan kısmının semereleri, 95.086,90 TL sabit yatırım bedeli ve 41.374,05 TL alacak kalemlerinin kısmen kabulüne karar verilmiş ise de Avukatlık Asgari Ücret Tarifesine göre davacı lehine hükmedilmesi gereken vekalet ücreti, yargılama gideri ve davada hükmedilmesi gereken harçlar eksik, aleyhine hükmedilen vekalet ücreti ve yargılama giderleri yanlış hesaplanmış ve bozmayı gerektirmiş ise de bu husus yeniden yargılamayı gerektirmediğinden 6100 sayılı HMK’nun geçici 3. maddesi ve 5236 sayılı Kanun'un geçici 2. maddesi yollamasıyla 1086 sayılı HUMK’nun 5236 sayılı Kanun'un 16. maddesiyle değiştirilmeden önceki 438/7. maddesi gereğince mahkeme kararının düzeltilerek onanmasına karar verilmesi gerekmiştir.
 
 ## Yargıtay 3. HD 2020/5059 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/614458700)
+
 Tahliye davaları, aynı dava içinde birden fazla sebebe dayanılarak açılabilir. Bunu yasaklayan herhangi bir yasa hükmü yoktur. Somut olayda; Mahkemece, her bir tahliye sebebi araştırılıp, her bir tahliye sebebi yönünden ayrı ayrı davanın reddine karar verilmiş olup kiralananın tahliyesi davası reddedildiğine göre, vekili bulunan davalı yararına tek vekalet ücretine hükmedilmesi gerekirken, bu yön gözetilmeksizin yazılı şekilde davalı yararına birden fazla vekalet ücretine hükmedilmesi, usul ve yasaya aykırı olup bozma nedenidir.
 
 ## Yargıtay 3. HD 2019/9545 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/566024900)
 
 Her ne kadar mahkemece, İstanbul 17. Asliye Ticaret Mahkemesi 2011/222 E 2012/233 K sayılı kesinleşmiş ilamı esas alınarak hesaplanan 6.749 TL kira bedeli ile davacı tarafça yargılamanın başında talep edilen ve icra takibine konu edilen aylık 18.669 TL arasındaki fark dikkate alınarak davalı lehine 10.449,36 TL vekalet ücretine ve yargılama giderinin kabul red oranına göre paylaştırılmasına karar verilmiş ise de davanın açıldığı tarihte davacı, talebinde haklı olmakla, mahkeme kararı ile kira bedeli yargılama sırasında azaldığından davalı lehine vekalet ücretine hükmedilmesi ve bir kısım yargılama giderinin davacı üzerinde bırakılması doğru görülmemiştir.
 
 ## Yargıtay 3. HD 2019/130 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/483399400)
+
 Avukatlık Asgari Ücret Tarifesinin 9.maddesinde "Tahliye davalarında bir yıllık kira bedeli tutarı, kira tespiti ve nafaka davalarında tespit olunan kira bedeli farkının veya hükmolunan nafakanın bir yıllık tutarı üzerinden Tarifenin üçüncü kısmı gereğince hesaplanacak miktarın tamamı, avukatlık ücreti olarak hükmolunur. Bu miktarlar, Tarifenin…
 
 ## Yargıtay 3. HD 2018/10816 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/468708800)
 
 Davalıların vekalet ücretine ilişkin temyiz itirazlarına gelince; karar tarihinde yürürlükte bulunan Avukatlık Asgari Ücret Tarifesinin 3/2. maddesi; ''Müteselsil sorumluluk da dahil olmak üzere, birden fazla davalı aleyhine açılan davanın reddinde, ret sebebi ortak olan davalılar vekili lehine tek, ret sebebi ayrı olan davalılar vekili lehine ise her ret sebebi için ayrı ayrı avukatlık ücretine hükmolunur.'' hükmünü içermektedir.Somut olayda; davacı davalılar hakkında ödenmeyen kira bedellerinin tahsili amacıyla 10.584,00TL asıl alacak ve 1.537,03TL işlemiş faiz toplamı 12.121,03TL üzerinden icra takibi başlatmış, davalıların itirazı üzerine itirazın iptali isteminde bulunmuştur. Mahkemece kefil yönünden dava reddedilerek kiracı yönünden davanın kısmen kabulüne karar verilmiştir. Bu durumda her iki davalı hakkındaki davalar ayrı ayrı sebeplerle reddedildiğine göre her iki davalı lehine ayrı ayrı vekalet ücretine hükmedilmesi gerekirken, eksik araştırma ile yazılı şekilde hüküm kurulması doğru görülmemiştir.Ne var ki, yapılan bu yanlışlığın giderilmesi yeniden yargılama yapılmasını gerektirmediğinden hükmün düzeltilerek onanması HUMK’nun 438/7 maddesi hükmü gereğidir.SONUÇ:
 Yukarıda birinci bentte açıklanan nedenlerle davalı tarafın sair temyiz itirazlarının REDDİNE, ikinci bentte açıklanan nedenlerle hüküm fıkrasının 8. bendindeki ‘…davalılara verilmesine’ ibaresinin ‘davalı ...’e verilmesine’ şeklinde düzeltilmesine ve yine hüküm fıkrasına ‘AAÜT gereği takdir edilen 1.454,52 TL vekalet ücretinin davacıdan tahsili ile davalı ...’a verilmesine’ ibaresinin eklenmesi suretiyle hükmün düzeltilmesine ve düzeltilmiş bu şekliyle ONANMASINA, peşin alınan temyiz harcının istek halinde temyiz edene iadesine, 6100 sayılı HMK'nun Geçici Madde 3 atfıyla 1086 sayılı HUMK'nun 440. maddesi gereğince karar düzeltme yolu kapalı olmak üzere, 31.10.2018 gününde oybirliğiyle karar verildi.
 
 ## Yargıtay 3. HD 2018/10822 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/468691300)
 
 Davalının hükmedilen vekalet ücreti ve yargılama giderlerine yönelen temyiz itirazlarının incelenmesinde; Hüküm tarihinde yürürlükte bulunan Avukatlık Asgari Ücret Tarifesinin 9. maddesinde " Tahliye davalarında bir yıllık kira bedeli tutarı, kira tespiti ve nafaka davalarında tespit olunan kira bedeli farkının veya hükmolunan nafakanın bir yıllık tutarı üzerinden tarifenin üçüncü kısmı gereğince hesaplanacak miktarın tamamı, avukatlık ücreti olarak hükmolunur. Bu miktarlar, tarifenin ikinci kısmının ikinci bölümünde davanın görüldüğü mahkemeye göre belirlenmiş bulunan ücretten az olamaz." düzenlemesi nazara alınmadan davacı yönünden yazılı şekilde vekalet ücretine hükmedilmesi ve alınması gereken yargılama gideri miktarından kabul-red oranı dikkate alınarak yazılı şekilde hüküm kurulması usul ve yasaya aykırı olup, bozmayı gerektirir.Ne var ki, bu yanlışlığın
 
@@ -159,14 +215,20 @@ düzeltilmesi yeniden yargılama yapılmasını gerektirmediğinden hükmün dü
 
 ## Yargıtay 8. HD 2018/15970 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/454630500)
+
 Belirtilen açıklamalar nazarında dosya kapsamı incelendiğinde, Mahkemenin ilk hükmünde, davalının davaya konu taşınmaza müdahalesinin meni ile 25.500,00 TL ecrimisilin davalıdan tahsiline, alınması gereken harç ve davacı lehine hükmedilen vekalet ücretinin müdahale edilen taşınmazın değeri ile hükmedilen ecrimisil bedeli üzerinden hesaplanarak davalıdan tahsiline karar verildiği, taraf vekillerin temyizi üzerine hükmün az yukarıda açıklanan Yargıtay 1.
 Hukuk Dairesi'nin 2013/8006 Esas ve 2014/8833 sayılı kararı ile davalı vekili ve feri müdahil vekilinin temyiz itirazlarının reddine karar verilerek, davacı vekili tarafın temyiz istemi yönünden 29.06.2010 tarihli ihtarnamenin davalı şirkete tebliğ edildiği tarihten itibaren davalının ecrimisille sorumlu tutulması gereği ile bozulduğu, bozma ilamına uyma kararı veren Mahkemece davalının davaya konu ... ada ... parsel sayılı taşınmaza müdahalesinin önlenmesi ile tahliyesine, 164.791,04 TL ecrimisilin davalıdan tahsili ile alınması gerekli nispi harç ve davacı lehine hükmedilen vekalet ücretinin taşınmazın el atılan bölümünün değeri ve hükmedilen ecrimisil değeri üzerinden belirlenerek davalıdan tahsiline şeklinde karar verildiği anlaşılmış ise de; ilk hükümde verilen davalının dava konusu taşınmaza müdahalesinin meni ile tahliyesine ilişkin bölümünün Yargıtay 1. Hukuk Dairesinin bozma kararı nazara alındığında, usuli kazanılmış hak ilkesi çerçevesinde kesinleştiği belirlenmiştir.
 
 ## Yargıtay 3. HD 2018/6020 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/424004600)
+
 Avukatlık Asgari Ücret Tarifesinin 9. maddesine göre kira tespiti davalarında mahkemece tespit olunan kira bedeli farkının bir yıllık tutarı üzerinden tarifenin üçüncü kısmı gereğince hesaplanacak nispi vekâlet ücretine hükmedilir. Davaya konu taşınmazın tespit edilen brüt kira bedelinden, davalı tarafından ödenen yıllık brüt kira bedelinin çıkartılarak, aradaki yıllık fark üzerinden davacı yararına vekâlet ücreti takdir edilmesi gerekirken yazılı şekilde karar verilmesi de doğru görülmemiş, bozmayı gerektirmiştir.
 
 ## Yargıtay 3. HD 2018/5095 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/423981600)
 
 Avukatlık Asgari Ücret Tarifesinin 3. maddesinin 2. fıkrasında ,''Müteselsil sorumluluk da dahil olmak üzere, birden fazla davalı aleyhine açılan davanın reddinde, ret sebebi ortak olan davalılar vekili lehine tek, ret sebebi ayrı olan davalılar vekili lehine ise her ret sebebi için ayrı ayrı avukatlık ücretine hükmolunur.'' düzenlemesi bulunmaktadır.Somut olayda, davalı ... yönünden davanın pasif husumetten reddine karar verilmiş olması nedeniyle karar tarihinde yürürlükte bulunan Avukatlık Asgari Ücret Tarifesinin 7/2 maddesi uyarınca davalı yararına maktu vekalet ücretine hükmedilmemiş olması da doğru görülmediğinden bozmayı gerektirmiştir.SONUÇ: Yukarıda birinci bentte açıklanan nedenlerle davalıların sair temyiz itirazlarının reddine, ikinci ve üçüncü bentlerde açıklanan nedenlerle yazılı şekilde hüküm tesisi isabetsiz, temyiz itirazları bu nedenlerle yerinde olduğundan kabulü ile hükmün HUMK.nun 428.maddesi gereğince davalılar yararına BOZULMASINA ve peşin alınan temyiz harcının istek halinde temyiz edene iadesine, tahliye davası yönünden 6100 sayılı
 
@@ -174,8 +236,12 @@ HMK'nun geçici madde 3 atfıyla 1086 sayılı HUMK.nun 440.maddesi gereğince k
 
 ## Yargıtay 3. HD 2018/4776 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/422272300)
+
 Avukatlık Asgari Ücret Tarifesinin 9. maddesi gereğince, davacı lehine vekalet ücretinin, halen ödenmekte olan aylık brüt kira bedeli ile hüküm altına alınan aylık brüt kira bedeli arasındaki farkın; davalı lehine vekalet ücretinin ise, davacının talep ettiği aylık brüt kira bedeli ile hüküm altına alınan aylık brüt kira bedeli arasındaki farkın bir yıllık tutarı üzerinden, Tarifenin üçüncü kısmı gereğince hesaplanması gerekmektedir. Bu husus gözetilmeden yazılı şekilde vekalet ücretine hükmedilmesi usul ve yasaya aykırıdır.
 
 ## Yargıtay 3. HD 2018/4778 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/422288900)
 
 Avukatlık Asgari Ücret Tarifesinin 9. maddesi gereğince, davalı lehine vekalet ücretinin, davacının talep ettiği aylık brüt kira bedeli ile hüküm altına alınan aylık brüt kira bedeli arasındaki farkın bir yıllık tutarı üzerinden, Tarifenin üçüncü kısmı gereğince hesaplanması gerekmektedir. Bu husus gözetilmeden yazılı şekilde vekalet ücretine hükmedilmesi usul ve yasaya aykırıdır.

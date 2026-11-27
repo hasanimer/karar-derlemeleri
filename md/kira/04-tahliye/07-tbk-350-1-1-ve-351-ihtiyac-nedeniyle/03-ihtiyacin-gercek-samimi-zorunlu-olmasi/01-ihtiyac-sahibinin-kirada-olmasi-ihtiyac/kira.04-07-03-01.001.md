@@ -28,4 +28,6 @@ Konut ihtiyacına dayalı davalarda ihtiyaçlının kirada oturması ihtiyacın 
 
 ## Yargıtay 3. HD 2025/97 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1127105000)
+
 6098 sayılı Türk Borçlar Kanunu'nun 351. maddesine göre işyeri ihtiyacına dayalı olarak açılan tahliye davalarında; ihtiyaçlının kirada olması halinde, ihtiyacın varlığının kabulü için **ihtiyaçlının ya tahliye tehdidi altında bulunması veya kiralananın yapılacak iş için daha üstün ya da en azından halen iş yapılan yerle eşdeğer nitelikte bulunması gerekir**. Eşdeğerlik durumu varsa mülkiyet hakkına üstünlük tanınmalıdır.

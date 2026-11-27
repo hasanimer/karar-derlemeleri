@@ -21,5 +21,7 @@ uyari: "Derleyenin seçtiği alıntılardır; kararın tamamı değildir. Künye
 
 ## Yargıtay 9. HD 2022/5294 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/768943400)
+
 Arabulucuk görüşmelerine, işverenin arabulucu tarafından usulünce toplantıya davet edilmediği kabul edilse dahi, taraflara ulaşmak ve tarafları toplantıya davet etmek arabulucunun sorumluluğunda olduğundan, işçiye yükletilebilecek bir kusurun varlığından söz edilemez. **Zira, işçi dava açmadan önce, kanun hükmüne uygun olarak arabulucuya başvurmuş ve sürecin sonlanmasını beklemek suretiyle yükümlülüğünü yerine getirmiştir**. O halde, arabulucunun taraflara ulaşma ve toplantıya davet etme sorumluluğunu usulünce yerine getirmeden arabuluculuk sürecini sonlandırması ihtimalinde "arabulucuya başvurulmuş olma" dava şartının gerçekleşmediği söylenemez. Aksi yöndeki bir kabulün, hak arama özgürlüğünü aşırı derecede zorlaştıracağı açıktır.
 Keza, dava şartı olarak arabuluculuğa ilişkin kanuni düzenlemenin iptali istemiyle açılan davaya ilişkin Anayasa Mahkemesi'nin 11.07.2018 tarihli ve 2017/178 esas, 2018/82 karar sayılı kararında, düzenlemenin hak arama hürriyeti ve bu kapsamda mahkemeye erişim hakkına getirilen bir sınırlama niteliğinde olduğu kabul edilmiş ancak "Arabuluculuğa başvuru zorunluluğunun, kişilerin hak aramalarını imkânsız hâle getiren veya aşırı derecede zorlaştıran etkisiz ve sonuçsuz bir sürece neden olmadıkça hak arama hürriyetinin özüne dokunduğu söylenemez" şeklinde gerekçeyle bir çeşit sınırlama getirmiştir.

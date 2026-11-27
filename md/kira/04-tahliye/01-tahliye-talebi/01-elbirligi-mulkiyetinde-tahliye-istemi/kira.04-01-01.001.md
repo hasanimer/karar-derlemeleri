@@ -21,6 +21,8 @@ uyari: "Derleyenin seçtiği alıntılardır; kararın tamamı değildir. Künye
 
 ## Yargıtay 12. HD 2025/7823 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1201163600)
+
 Kural olarak tahliye talepli icra takibi yapma hakkı kiraya verene aittir. **Kiralayanların birden fazla olması halinde aralarında mecburi dava arkadaşlığı bulunduğundan** icra takibinin birlikte yapılması icap eder. İcra takibinin kiralayanların tamamı tarafından yapılmaması durumunda, icra takibindeki eksiklik sonradan da giderilemez.
 
 Kira öyle bir sözleşmedir ki bununla kiraya veren, bir malını kiracıya ücret karşılığında kira süresince kullandırma ve yararlanma amacıyla bırakma, kiracı da buna karşılık kararlaştırılan kira bedelini ödeme borcu altına girer(TBK. m.299,357).
@@ -48,6 +50,8 @@ Paylı mülkiyete konu taşınmaz, paylı maliklerin biri veya birkaçı tarafı
 Somut olayda, icra takibinin dayanağı olan 1.11.2017 başlangıç tarihli ve 5 yıl süreli kira sözleşmesi konusunda taraflar arasında bir uyuşmazlık bulunmamaktadır. Sözleşmenin kiraya veren olarak ..., ... ve ... Turizm İnşaat Sanayi ve Ticaret A.Ş. ile kiracı olarak şikayetçi borçlu ... Otelcilik İnşaat Turizm Sanayi ve Ticaret A.Ş. arasında düzenlenmiştir. Kiraya verenlerden ... ve ... Turizm ... A.Ş. tarafından Kemer İcra Müdürlüğünün 2024/683 Esas sayılı dosyası ile başlatılan icra takibinde 25 Haziran tarihli kira alacakları ve işlemiş faiz alacakları ile birlikte toplam 218.717,65 USD alacağın tahsilini ve kiralananın tahliyesi talep edilmiştir. **Kiralayanların birden fazla olması halinde tahliye talepli icra takibinin tüm kiralayanlar tarafından yapılması zorunludur. Buna rağmen takip kiralayanların tümü tarafından yapılmamıştır. Bu nedenle, Bölge Adliye Mahkemesinin tapu kaydına göre takibin pay ve paydaş çoğunluğu sağlanarak başlatıldığına ilişkin gerekçesi yerinde değildir**.
 
 ## Yargıtay 12. HD 2025/7528 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1193585500)
 
 Paylı mülkiyet konusu bir taşınmazı paydaşlardan birinin kendi adına kiraya vermesi halinde kiracı pay ve paydaş çoğunluğu sağlamadan kira sözleşmesi yapılması nedeniyle kira sözleşmesi ile bağlı olmadığını ileri süremez. Kira sözleşmesi iptal edilmediği sürece kiraya veren sıfatı ile şahsi haklarını talep edebilir, tahliye takibi yapabilir.
 

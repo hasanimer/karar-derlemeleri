@@ -23,36 +23,52 @@ uyari: "Derleyenin seçtiği alıntılardır; kararın tamamı değildir. Künye
 
 ## Yargıtay 6. HD 2015/10509 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/477262500)
+
 Önceki malik ile kiracı arasında yapılan 01.01.2012 başlangıç tarihli ve bir yıl süreli kira sözleşmesi konusunda taraflar arasında bir uyuşmazlık bulunmamaktadır. Sözleşmede yıllık kiranın 11.000.-TL olduğu ve yıllık peşin olarak ödeneceği kararlaştırılmıştır. Kiralanan davacı tarafından 18.02.2014 tarihinde iktisap edilmiştir. Davacı ... 5 Noterliğinin 20.02.2014 tarih ve 547 sayılı ihtarı ile taşınmazı iktisap ettiğini, kiraların kendisine ödenmesini ve kiralanana kendi ihtiyacı bulunduğundan 15 gün içinde tahliye etmesini ihtar etmiştir. Bu ihtar davalıya 27.02,2014 tarihinde tebliğ edilmiştir. İhtara rağmen kiralar ödenmeyince davacı ... 3. Noterliğinin 22.08.2014 tarih ve 11138 Yevmiye nolu ihtarı ile 01.01.2014 tarihi itibariyle eski malike ödenmesi gereken 11.000.-TL yıllık kiranın ödenmediğini bu nedenle 18.02.2014-31.12.2014 tarihler arası kira bedeli 9.524.24.-TL kira ve 434.75.-TL işlemiş faiz olmak üzere toplam 9.958.99.-TL nin 30 gün içinde ödenmesini aksi halde aktin feshedileceği ve tahliye davası açılacağını, kira sözleşmesinin yeniden uzatılmayacağını ve kiralananı 31.12.2014 tarihi itibariyle tahliye edip anahtarların teslimini ihtar etmiştir.
 Bu ihtarda davalıya 01.09.2014 tarihinde tebliğ edilmiştir. Davacı dava dilekçesinde davalının kira bedelinin ödenmemesi, ve usulüne uygun ihtarname şartlarına uyulmaması gerekse müvekkilinin annesinin konut ihtiyacı nedeniyle dava açtıklarını bildirmiştir. TBK 351/1 maddesine göre İktisap ve ihtiyaç nedeniyle tahliye davası açılabilmesi için iktisap tarihinden itibaren bir ay içinde satın aldığını bildirir ihtarın tebliğ ettirilmesi ve iktisap tarihinden itibaren 6 ay sonra davanın açılması gerekir. Davacının iktisap ettiğini bildirir 20.02.2014 tarihli yazılı ihtarı iktisap tarihinden itibaren bir ay içinde tebliğ edilmiş ise de tahliye için davalıya tebliğ tarihinden itibaren 15 günlük süre verildiğinden bu ihtarın TBK 351/1.maddesine uygun olduğu söylenemez. Bir an için bu ihtarın usulüne uygun olduğu düşünülse dahi davacı 22.08.2014 tarihli temerrüt ihtarında kiralananın tahliyesi için davalıya 31.12.2014 tarihine kadar süre verdiği anlaşılmaktadır. Davanın eski malikle davalı arasında yapılan 01.01.2012 başlangıç tarihli sözleşmeye göre açıldığı düşünülse dahi yukarda belirtildiği gibi davalıya tahliye için 31.12.2014 tarihine kadar süre verildiğinden…
 
 ## Yargıtay 6. HD 2015/10458 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/150152400)
+
 Dava 6098 sayılı Türk Borçlar Kanununun 355. maddesi gereğince açılan tazminat davasıdır. Belirtilen yasa hükmüne göre kiraya veren ihtiyaç sebebiyle kiralananın boşaltılmasını sağladığında, haklı sebep olmaksızın, kiralananı üç yıl geçmedikçe eski kiracısından başkasına kiralayamayacağı düzenlenmiş olup benzer düzenleme mülga 6570 sayılı yasanın 15. Maddesinde de bulunmaktadır. Yasa ile kiralananın tahliyesi için dava açılması ve tahliye davasında verilecek olan kiralananın tahliyesine dair hükmün ilamlı icra yolu ile infazı sonucunda kiralananın tahliye edilmesi hali öngörülmüştür. Eldeki davada davacı, davalı tarafından gönderilen ve kiralananın konut ihtiyacı nedeni ile tahliyesi isteğini içeren ihtarname üzerine herhangi bir mahkeme kararı ve icra işlemi olmadan, taşınmazı kendi rızasıyla tahliye etmiştir. Bu nedenle koşulları oluşmayan maddi tazminat isteminin reddi gerekirken, yazılı şekilde kısmen kabulüne karar verilmesi doğru görülmediğinden hükmün bu sebeple bozulması gerekmiştir.
 
 ## Yargıtay 6. HD 2015/10461 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/160238300)
 
 Olayımıza gelince; Davalı tarafından dosyaya sunulan kira sözleşmesine göre davaya konu taşınmaz 15.11.1991 başlangıç tarihli 49 yıl süreli kira sözleşmesi ile, boş betonarme bina olarak santral hizmetlerinde kullanılmak üzere davalıya kiraya verilmiştir. Davacı vekili dava dilekçesinde davalının taşınmazı boşaltmaması nedeni ile taşınmazda işletmeyi düşündüğü petrol istasyonunu açamadığını belirmiş, davalı ise davacının ihtiyaç iddiasında samimi olmadığını savunmuştur. Yukarıda da açıklandığı üzere işyeri ihtiyacına dayalı olarak açılan tahliye davasında ihtiyaç iddiasının kanıtlanması gerekir. Mahkemece davacının yapacağı işle ilgili herhangi bir hazırlık faaliyetinin bulunup bulunmadığı üzerinde durulmamış, ihtiyaç iddiasına ilişkin olarak taraf tanıkları dinlenmemiş davaya konu yerin imar planında akaryakıt satış istasyonu olduğunun belirlenmesi üzerine kiralananın tahliyesine karar verilmiştir.
 Dava işyeri ihtiyacı nedeni ile tahliye istemine ilişkin olduğuna göre mahkemece ihtiyaç iddiasına ilişkin olarak tarafların tüm delillerinin toplanması ve sonucuna göre karar verilmesi gerekirken eksik inceleme sonucunda yazılı şekilde hüküm kurulması doğru olmadığından hükmün bu sebeple bozulması gerekmiştir.
 
 ## Yargıtay 6. HD 2015/10155 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/400451700)
+
 Eski malik Atıf Salih Yiğit ile davalı kiracı arasında yapılan sözleşme 15.06.2010 tarihli ve bir yıl sürelidir. Kiralananın çatılı işyeri niteliğinde olduğu anlaşılmaktadır. Davacı kiralananı 16.02.2012 tarihinde satın almış olup TBK’nun 310.maddesi uyarınca kira sözleşmesinin tarafı haline gelmiştir. Davacı TBK’nun 350. Maddesi uyarınca işyeri ihtiyacı olduğunu iddia ederek bu davayı açmıştır. Aynı maddenin son fıkrası uyarınca belirli süreli kira sözleşmesinde süre sonunda bir ay içinde davanın açılması öngörülmüştür. Taraflar arasındaki sözleşme 15.06.2011 tarihinden itibaren TBK’nun 347. Maddesi uyarınca yıldan yıla yenilenmiş olup davanın açıldığı tarih itibariyle son dönem 15.06.2014 tarihinde sona ermektedir. Buna göre de 20.06.2014 tarihinde açılan dava bir aylık yasal süre içinde açılmıştır. Bu nedenle Mahkemece işin esası incelenerek sonucuna göre bir karar verilmesi gerekirken, olaya uygun bulunmayan gerekçe ile yazılı şekilde verilen karar hatalıdır.
 
 ## Yargıtay 6. HD 2015/9184 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/124817200)
 
 İhtiyaç iddiasına dayalı davalarda tahliyeye karar verilebilmesi için ihtiyacın gerçek, samimi ve zorunlu olduğunun kanıtlanması gerekir. Devamlılık arzetmeyen geçici ihtiyaç tahliye nedeni yapılamayacağı gibi henüz doğmamış veya gerçekleşmesi uzun bir süreye bağlı olan ihtiyaç da tahliye sebebi olarak kabul edilemez. Davanın açıldığı tarihte ihtiyaç sebebinin varlığı yeterli olmayıp, bu ihtiyacın yargılama sırasında da devam etmesi gerekir. Türk Borçlar Kanunu zorunlu ihtiyacı tahliye nedeni olarak kabul etmiştir. Faal bir işi bulunan ve o işi bırakmayan kişinin başka bir iş yerine zorunlu ihtiyacı olduğu kabul edilemez…
 
 ## Yargıtay 6. HD 2015/9042 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/148598000)
+
 Türk Borçlar Kanun'unun 350/1.maddesinde düzenlenen işyeri ihtiyacı nedeniyle tahliye davası ile itirazın kaldırılması ve tahliye davası sebepleri ayrı olan iki ayrı davadır. Bu durumda, tahliye davalarında derdestlik kuralının varlığı için bulunması gerekli her iki dava sebebinin (hukuki sebepleri) aynı olması şartı olayımızda gerçekleşmediğinden mahkemece işin esası incelenerek sonucuna göre karar verilmesi gerekirken yazılı gerekçe ile davanın reddine karar verilmesi doğru değildir.
 
 ## Yargıtay 6. HD 2015/6839 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/129618200)
 
 Dava 6098 sayılı Türk Borçlar Kanununun 355. maddesi gereğince açılan tazminat davasıdır. Belirtilen yasa hükmüne göre kiraya veren ihtiyaç sebebiyle kiralananın boşaltılmasını sağladığında, haklı sebep olmaksızın, kiralananı üç yıl geçmedikçe eski kiracısından başkasına kiralayamayacağı düzenlenmiş olup benzer düzenleme mülga 6570 sayılı yasanın 15. Maddesinde de bulunmaktadır. Yasa ile kiralananın tahliyesi için dava açılması ve tahliye davasında verilecek olan kiralananın tahliyesine dair hükmün ilamlı icra yolu ile infazı sonucunda kiralananın tahliye edilmesi hali öngörülmüştür. Anılan maddenin gerekçesinde de bu husus, kiralayanın kanunda öngörülen sebeplerden birine dayanarak aldığı mahkeme kararını uygulatmak suretiyle kiracının kiralanandan tahliyesinin sağlanması, şeklinde belirtilmektedir. Eldeki davada davacı, davalılar tarafından gönderilen ve kiralananın işyeri ihtiyacı nedeni ile tahliyesi isteğini içeren ihtarname üzerine herhangi bir mahkeme kararı ve icra işlemi olmadan, taşınmazı kendi rızasıyla tahliye etmiştir. Davacı kiracının anılan madde hükmünden yararlanabilmesi için kiralananın mahkeme kararı ile tahliye edilmesi gerekir.
 Bu nedenle maddi tazminat isteminin reddi gerekirken, yazılı şekilde kısmen kabulüne karar verilmesi doğru görülmediğinden hükmün bu nedenle bozulması gerekmiştir.
 
 ## Yargıtay 6. HD 2015/6001 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/136671600)
 
 Olayımıza gelince; Davada dayanılan ve hükme esas alınan 01.02.2008 başlangıç tarihli ve bir yıl süreli kira sözleşmesi konusunda taraflar arasında uyuşmazlık bulunmamaktadır. Davacı kiraya veren vekili 09.05.2014 tarihinde açmış olduğu işbu dava ile müvekkilinin kızının eşinin İstanbul İline tayininin çıktığını ayrıca torununun üniversite eğitimini İstanbul'da tamamlamayı istediğini konut ihtiyacı nedeniyle kızı ve ailesinin dava konusu taşınmazda oturacağını, davalıya noter kanalıyla kiralananın ihtiyaç nedeniyle tahliye edilmesini bildirir, ihtarın gönderilmesine ve kira sözleşmesinin bitmiş olmasına rağmen
 
@@ -60,13 +76,19 @@ taşınmazı halen boşaltmadığını belirterek konut ihtiyacı sebebiyle kira
 
 ## Yargıtay 6. HD 2015/5448 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/134394000)
+
 Davacının . kapı nolu bağımsız bölümler hakkında ayrı ayrı ihtiyaç sebebiyle tahliye davası açtığı görülmüştür. Mahkemece, davacı delilleri toplanarak, davacının ihtiyacı açıklattırılmalı, 11/C, D, G kapı nolu bağımsız bölümler hakkında açılan davaların birleştirilerek, açılan tüm davalar yönünden ihtiyacın gerçek, samimi ve zorunlu olup olmadığı, işin dava konusu bağımsız bölümlerden birinde yapılıp yapılamayacağı, ihtiyacın niteliğine göre diğer bağımsız bölümlerin de tahliyesi gerekip gerekmediği, bağımsız bölümlerin birleştirilmesi gerekiyorsa bu birleştirmenin basit bir tadilatla ihtiyaca elverişli hale getirilip getirilemeyeceği konusunda mahallinde keşif yapılmak suretiyle karar verilmesi gerekir. Davalının istemin yeniden imar ve inşaa nedeniyle tahliye istemi olduğunun anlaşılması halinde ise; yeni malikin 6098 sayılı kanunun 351(6570 sayılı kanunun 7/d maddesi karşılığı) maddesindeki sürelerden faydalanarak 6098 s.k. 350/2 maddesine göre tahliye davası açamayacağı hususu gözetilerek, yapılacak inceleme ve araştırma sonucuna göre karar verilmesi gerekirken eksik inceleme ile yazılı şekilde karar verilmesi doğru değildir.
 
 ## Yargıtay 6. HD 2015/5449 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/134394700)
+
 Davacının .kapı nolu bağımsız bölümler hakkında ayrı ayrı ihtiyaç sebebiyle tahliye davası açtığı görülmüştür. Mahkemece, davacı delilleri toplanarak, davacının ihtiyacı açıklattırılmalı,. kapı nolu bağımsız bölümler hakkında açılan davaların birleştirilerek açılan tüm davalar yönünden ihtiyacın gerçek, samimi ve zorunlu olup olmadığı, işin dava konusu bağımsız bölümlerden birinde yapılıp yapılamayacağı, ihtiyacın niteliğine göre diğer bağımsız bölümlerin de tahliyesi gerekip gerekmediği, bağımsız bölümlerin birleştirilmesi gerekiyorsa bu birleştirmenin basit bir tadilatla ihtiyaca elverişli hale getirilip getirilemeyeceği konusunda mahallinde keşif yapılmak suretiyle, karar verilmesi gerekir. Davacının istemin yeniden imar ve inşaa nedeniyle tahliye istemi olduğunun anlaşılması halinde ise; yeni malikin 6098 sayılı kanunun 351(6570 sayılı kanunun 7/d maddesi karşılığı) maddesindeki sürelerden faydalanarak 6098 s.k. 350/2 maddesine göre tahliye davası açamayacağı hususu gözetilerek, yapılacak inceleme ve araştırma sonucuna göre karar verilmesi gerekirken, eksik inceleme ile yazılı şekilde karar verilmesi doğru değildir.
 
 ## Yargıtay 6. HD 2015/4980 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/147020100)
 
 Davanın süresinde açılıp açılmadığı kamu düzenine ilişkin olup bu hususun mahkemece resen dikkate alınması gerekir. Davacı TBK 350/2 maddesinde öngörülen yeniden inşa veya imar amaçlı esaslı tamirat nedeniyle ancak kira sözleşmesine dayanarak dava açabilir.TBK.nun 351.maddesindeki sürelerden yararlanarak dava açılamaz. Davanın süresinde açılıp açılmadığının tespiti için öncelikle kira sözleşmesinin başlangıcının, süresinin, böylece sona eriş tarihinin bilinmesi, kural olarak da kira sözleşmesinin başlangıç
 
@@ -74,10 +96,14 @@ tarihini ve süresini davacının kanıtlaması gerekir. Davacı tarafından bil
 
 ## Yargıtay 6. HD 2015/3580 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/147722800)
+
 Dosya kapsamından, davacı ile davalı arasında 11.5.2009 tarihli 5 yıl süreli kira sözleşmesinin bulunduğu, sözleşmenin 1. maddesinde; “sözleşmenin 11.5.2014 tarihinde sona ereceği 11.8.2014’e kadar kiracının işgal edebileceği”, 11. maddesinde; “kiracı, kira süresinin bitiminden 15 gün evvel tahliye edeceğini yazı ile bildirmediğinde sözleşmenin aynı bedel ve şartlarda 1 yıl uzayacağı” kararlaştırılmıştır. Davacı, 16.12.2014 tarihli duruşmada 11.5.2015 tarihine kadar sözleşmenin 1 yıl uzadığını ve bu tarihte tahliye edilmesini talep etmiştir. Davacı, oğlunun işyeri ihtiyacına dayalı olarak kira sözleşmesinin sonu olan 11.5.2014 tarihinden önce 19.3.2014 tarihinde tahliye istemli noter ihtarını davalıya tebliğ ettirmiş, 1 ay içinde 22.5.2014 tarihinde davayı açmıştır. Dava süresinde olup sözleşmenin 11. maddesindeki şart kiracıyı bağlayıcı niteliktedir kiralayanı bağlamaz. Kiralayan TBK 350/2 maddesi uyarınca belirli süreli sözleşmelerde sürenin sonunda 1 ay içinde dava açma hakkına sahiptir. Davacının duruşmadaki beyanı aleyhine olacak şekilde yorumlanamaz.
 Şu halde davalı tanığı da dinlenerek taşınmazın işe uygunluğu yönünden mahallinde keşif yapılarak tüm deliller toplandıktan sonra işin esası hakkında bir karar verilmesi gerekirken yazılı şekilde istemin reddine karar verilmiş olması doğru değildir.
 
 ## Yargıtay 6. HD 2015/3372 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/147034600)
 
 Olayımıza gelince;Davalı şirket 01.03.1991 tarihli ve 10 yıl süreli kira sözleşmesi ile dava konusu taşınmazda kiracıdır.Kira süresi 01.03.2001 tarihli ek sözleşme ile 10 yıl 8 ay süre ile uzatılmış ,23.12.2011 tarihli ek protokolle de 31.12.2011 tarihinden itibaren 10 yıl olarak belirlenmiştir. Davacı K.. A.. kiralanan taşınmazın tamamını 09.10.2012 tarihinde satın alarak kiraya verenin halefi olmuştur.Davacı şirket ,dava konusu taşınmaza tadilat yaparak otel olarak işletmek üzere ihtiyaçları bulunduğunu iddia etmiştir.İhtiyaç iddiasına dayalı davalarda tahliyeye karar verilebilmesi için ihtiyacın gerçek, samimi ve zorunlu olduğunun kanıtlanması gerekir. Devamlılık arzetmeyen geçici ihtiyaç tahliye nedeni yapılamayacağı gibi henüz doğmamış veya gerçekleşmesi uzun bir süreye bağlı olan ihtiyaç da tahliye sebebi olarak kabul edilemez. Davanın açıldığı tarihte ihtiyaç sebebinin varlığı yeterli olmayıp, bu ihtiyacın yargılama sırasında da devam etmesi gerekir.
 Her ne kadar yeni malik şirketin 07.09.2012 tarihinde tescil edilen şirket ana sözleşmesinde yer alan çalışma konusu içinde otel işletmeciliği bulunmasa da 30.01.2013 tarihli şirket genel kurul kararı ile şirket esas sözleşmesinin amaç ve kapsam başlıklı 3. maddesi tadil edilerek “Turizme yönelik otel, motel, bar. pansiyon. kamping, tatil köyleri, apart oteller,yeme, içme tesisleri, eğlence yerleri kurmak, işletmek, işletmeye vermek, bu yerleri satın almak, satmak, kiralamak, kiraya vermek” ibareleri eklenmek suretiyle otel işletmeciliği de çalışma konusu içine dahil edilmiş ve 20.02.2013 tarihli ticaret sicil gazetesinde ilan edilmiştir.Bu nedenle mahkemece davacı şirketin çalışma konusu içerisinde otel işletmeciliğinin bulunmadığının kabul edilerek hüküm kurulması hatalı olmuştur.Öte yandan ikinci iş yapma isteği işyeri ihtiyacı
@@ -86,40 +112,58 @@ nedeniyle tahliye talep etmeye engel değildir.Kiralanan taşınmazın davalı t
 
 ## Yargıtay 6. HD 2015/2175 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/146019600)
+
 6098 Sayılı TBK.nun 350. madde hükmüne göre kiralayan, kendisinin, eşinin, altsoyu, üstsoyu veya kanun gereği bakmakla yükümlü olduğu diğer kişilerin konut (veya işyeri) ihtiyacı için dava açabilir. İhtiyaç iddiasına dayalı davalarda tahliyeye karar verilebilmesi için ihtiyacın gerçek, samimi ve zorunlu olduğunun kanıtlanması gerekir. Devamlılık arzetmeyen geçici ihtiyaç tahliye nedeni yapılamayacağı gibi henüz doğmamış veya gerçekleşmesi uzun bir süreye bağlı olan ihtiyaç da tahliye sebebi olarak kabul edilemez. Davanın açıldığı tarihte ihtiyaç sebebinin varlığı yeterli olmayıp, bu ihtiyacın yargılama sırasında da devam etmesi gerekir.
 
 ## Yargıtay 6. HD 2015/1617 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/147017000)
 
 Davada dayanılan ve hükme esas alınan 01/06/2011 başlangıç tarihli ve bir yıl süreli kira sözleşmesi konusunda taraflar arasında uyuşmazlık bulunmamaktadır. Sözleşmenin konusu olan taşınmaz tapu kaydında tarla olarak kayıtlı olup, kira sözleşmesine göre işyeri olarak kullanılmak üzere kiraya verilmiş olup dava 12.06.2014 tarihinde yeniden imar ve inşa nedenine dayanılarak açılmıştır. Her ne kadar mahkemece; kiralananın çatılı işyeri veya tarla vasfında olmasının davanın süresinde ve yasal şartlara uygun olarak açılıp açılmadığının tespiti bakımından uygulanacak olan yasa maddeleri açısından bir değişiklik yaratmayacağı belirtilerek herhangi bir araştırma yapılmasına gerek görülmemiş ise de; Genel Hükümlere tabi kira sözleşmesinde süresinin sona ermesi halinde sözleşme süresi belirsiz hale gelir. Taşınmaz ve taşınır yapı kiralarıyla ilgili belirsiz süreli kira sözleşmelerinde feshi ihbar süresi Türk Borçlar Kanunun 329.maddesi hükmüne göre belirlenir. Kiralananın Konut ve Çatılı İşyerleri Kirasına tabi olması halinde ise; TBK 350. Maddesine göre kira süresi kendiliğinden bir yıl daha uzar ve dava kira bitiminden itibaren bir aylık süreye tabi olur.
 Bu nedenle mahkemece uzman bilirkişi marifetiyle mahallinde keşif yapılarak, taşınmazın çatılı olup olmadığı belirlenmeli ve çatılı olması durumunda TBK 350/2. Maddesi gereğince davanın yenilenen dönemde 1 aylık süre içerisinde açıldığı kabul edilerek davanın esası hakkında karar verilmesi gerekirken yazılı gerekçe ile davanın reddine karar verilmesi doğru değildir.
 
 ## Yargıtay 6. HD 2015/1570 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/146987900)
+
 6098 Sayılı TBK.’nun 350/1. maddesi uyarınca ihtiyaç iddiasına dayalı olarak açılacak davalarda dava hakkı kural olarak kiraya verene aittir. Ancak kiraya veren durumunda olmayan malikin de bu davaları açabileceği içtihaden kabul edilmiştir. Kiralanan paylı mülkiyete konu ise pay ve paydaş çoğunluğunun sağlanması, elbirliği halinde mülkiyete konu teşkil ediyorsa tüm ortakların davaya katılmaları gerekir. Bu koşullar birlikte dava açma şeklinde gerçekleşebileceği gibi bir paydaş tarafından açılan davaya sonradan diğer paydaşların onaylarının alınması şeklinde de sağlanabilir. Elbirliği mülkiyetinde, ortakların davaya katılmaları sağlanamaz ise miras bırakanın terekesine temsilci atanması sağlanarak temsilci huzuruyla dava yürütülür. Dava hakkına ilişkin olan bu hususların mahkemece kendiliğinden göz önünde bulundurulması gerekir.
 
 ## Yargıtay 6. HD 2015/39 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/145565000)
 
 Davada dayanılan ve hükme esas alınan 01.10.2012 başlangıç tarihli ve bir yıl süreli kira sözleşmesi konusunda taraflar arasında uyuşmazlık bulunmamaktadır. Davacı kira sözleşmesine dayanarak iktisap ve ihtiyaç nedeniyle kiralananın tahliyesini istemiştir. Davanın TBK. 350/1.maddesi hükmüne göre eski malikle yapılan kira sözleşmesine göre süresinde açıldığının kabulü gerekir TBK, kiraya verene kiralananı kendisi, eşi, alt soyu, üst soyu veya kanun gereği bakmakla yükümlü olduğu diğer kişilerin konut ihtiyacı için tahliye isteme hakkı tanımıştır. Yasada öngörülen ihtiyaç devamlılık arz eden bir ihtiyaç olup, geçici ihtiyaç tahliye nedeni olarak kabul edilmemiştir. Ancak uygulamada yazlık ihtiyacı yaşam biçimi olarak sürekli konut ihtiyacının bir devamı olarak nitelendirilmiştir. Bu ilkeden hareketle davacı yazlık ihtiyacına yönelik delillerinin ibraz etmiş bu konuda tanıklar dinlenmiştir. Dinlenilen davalı tanıkları davacının iddiasını doğrular mahiyettedir. Öte yandan tahliye davasında kiralananın muvazaalı iktisap edildiğine ilişkin savunmaya itibar edilemez.
 Açıklanan bu nedenlerle kiralananın tahliyesine karar verilmesi gerekirken yazılı gerekçeyle davanın reddine karar verilmesi doğru olmadığından hükmün bozulması gerekmiştir.
 
 ## Yargıtay 6. HD 2014/13321 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/97406400)
+
 Taraflar arasında uyuşmazlık konusu olmayan 11.03.2002 başlangıç tarihli ve 10 yıl süreli kira sözleşmesi ile davalıya kiralanan “kafeterya ve WC” olup olup,dosyadaki mevcut bilgi ve belgelerden kiralananın 6098 Sayılı TBK.nun konut ve çatılı işyeri hükümlerine tabi olduğu,genel hükümlere tabi bir yer olmadığı anlaşılmıştır. Bu durumda TBK'nun 327.maddesinin bu davada uygulanma olanağı bulunmamaktadır. TBK.nun konut ve çatılı işyeri hükümlerine tabi taşınmazlarda genel olarak süre bitimi nedeniyle tahliye talep edilemez. Ancak,10 yıllık uzama süresinin dolmuş olması halinde sebep göstermeksizin sözleşmenin sona erdirilmesine ilişkin TBK.nun 347/1.maddesi ise aynı yasanın geçici 2.maddesi gereğince uygulanma süresi ertelenmiştir. Ancak,davacı vekili dava dilekçesinde işyeri ihtiyacı nedeniyle tahliye isteminde de bulunduğu halde,mahkemece bu talep ile ilgili bir hüküm kurulmamıştır. Bu durumda Mahkemece, işyeri ihtiyacı nedeniyle tahliye davası koşulları oluşup oluşmadığı üzerinde durularak sonucuna göre bir karar verilmesi gerekirken olayda uygulanma yeri bulunmayan TBK.nun 327.maddesi gereğince süre bitimi nedeniyle tahliyeye karar verilmesi doğru değildir.
 
 ## Yargıtay 6. HD 2014/12267 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/478843600)
+
 6098 sayılı TBK.’nun 350/1. maddesi hükmüne göre, ihtiyaç iddiasına dayalı davalarda tahliyeye karar verilebilmesi için ihtiyacın gerçek, samimi ve zorunlu olduğunun kanıtlanması gerekir. Devamlılık arzetmeyen geçici ihtiyaç tahliye nedeni yapılamayacağı gibi henüz doğmamış veya gerçekleşmesi uzun bir süreye bağlı olan ihtiyaç da tahliye sebebi olarak kabul edilemez. Davanın açıldığı tarihte ihtiyaç sebebinin varlığı yeterli olmayıp, bu ihtiyacın yargılama sırasında da devam etmesi gerekir.
 
 ## Yargıtay 6. HD 2014/12114 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/97434000)
 
 Olayımıza gelince; Dava dışı kiraya veren H..A...ile Davalı arasında düzenlenen 15/09/2012 başlangıç tarihli 1 yıl süreli kira sözleşmesi ile kiralanan dükkan büro olarak kullanılmak üzere davalıya kiralanmıştır. Dosya arasında bulunan tapu kayıtlarına göre davaya konu taşınmaz daha önce M..T.. adına tapuda kayıtlı iken 28/01/2013 tarih ve 809 sayılı işlemle intikal edinme sebebi ile 1/2 şer pay olmak üzere dava dışı H..A.. ve davacı K.. T.. adlarına tescil edilmiş, daha sonra 28/01/2013 tarih ve 825 sayılı işlemle paylaşma sebebi ile davacı K.. T.. adına tescil edildiği görülmüştür. Davacı K.. T.. tarafından davalıya gönderilen ve 14/02/2013 tarihinde tebliğ edilen K..... Noterliğinin 11/02/2013 tarih ve 1501 sayılı ihtarnamesi ile, taşınmazın davacının mülkiyetine intikal ettiği, mesleki faaliyetini sürdürebileceği başka bir taşınmazın bulunmadığı belirtilerek kiralananın tahliye edilmesi istenmiştir.
 Davacı tarafından işyeri ihtiyacı sebebi ile kiralananın tahliyesi istemini içeren ihtarın davalıya 14/02/2013 tarihinde tebliği ile 15/09/2013-15/09/2014 tarihleri arasında işyeri ihtiyacı ile tahliye davası açma süresi korunmuş olup davacı vekili tarafından 10/01/2014 tarihinde açılan dava süresinde olduğundan mahkemece işin esasının incelenmesi gerekirken yazılı gerekçe ile davanın reddine karar verilmesi doğru değildir.
 
 ## Yargıtay 6. HD 2014/11366 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/97432600)
+
 Türk Borçlar Kanun'unun 350/1 ve 351. maddesine göre işyeri ihtiyacına dayalı olarak açılan tahliye davalarında ihtiyaçlının kirada olması halinde ihtiyacın varlığının kabulü için ihtiyaçlının ya tahliye tehdidi altında bulunması veya kiralananın yapılacak iş için daha üstün nitelikte olması, en azından halen iş yapılan yerle eşdeğer nitelikte bulunması gerekir. Eşdeğerlik durumu varsa mülkiyet hakkına üstünlük tanınmalıdır. Bu iki halden birisinin varlığı ihtiyacın kabulü için yeterlidir. Her iki halin birlikte olması gerekmez. Tahliye tehdidinin varlığı davacı tarafından ileri sürülmemiş ise mahkemece kendiliğinden nazara alınamaz. Oysa kiralananın halen iş yapılan yerden üstün olduğu ileri sürülmemiş olsa bile ihtiyaç iddiasının içinde bu husus da mevcut olduğundan mahkemece uzman bilirkişi aracılığıyla keşif yapılarak kıyaslama suretiyle bu hususun belirlenmesi gerekir.
 
 ## Yargıtay 6. HD 2014/11187 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/97407800)
 
 İhtiyaç iddiasına dayalı davalarda tahliyeye karar verilebilmesi için ihtiyacın gerçek, samimi ve zorunlu olduğunun kanıtlanması gerekir. Devamlılık arz etmeyen geçici ihtiyacın tahliye nedeni yapılamayacağı gibi henüz doğmamış veya gerçekleşmesi uzun bir süreye
 
@@ -127,46 +171,68 @@ bağlı olan ihtiyaç da tahliye sebebi olarak kabul edilemez. Davanın açıld�
 
 ## Yargıtay 6. HD 2014/10721 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/97321500)
+
 Dosya arasında mevcut ticaret sicil kayıtlarından davacının A.. İnşaat Tarım Gıda Dayanıklı Tüketim Malları Ticaret ve Ltd.Şti.nin ortağı ve şirket müdürü olduğu, dava konusu taşınmazın davacı adına tapuda kayıtlı bulunduğu ve taşınmazın ortağı olduğu şirketin ihtiyacı nedeniyle tahliyesini istediği anlaşılmaktadır. TBK. 350/1.maddesi kiralananı iktisap eden kimsenin, kendisi, eşi, alt soyu, üst soyu veya Kanun gereği bakmakla yükümlü olduğu diğer kişiler için konut ya da işyeri gereksinimi sebebiyle tahliye isteyebileceği hükmünü içermektedir. Dairemizin yerleşik içtihatlarına göre şirket ihtiyacı nedeniyle gerçek kişi ihtiyaç nedeniyle tahliye isteminde bulunamaz. Davacı gerçek kişi, şirket müdürü olduğu A.. İnşaat Tarım Gıda Dayanıklı Tüketim Malları Ticaret ve Ltd.Şti.nin ihtiyacına dayanarak tahliye istediğine göre mahkemece davanın reddine karar verilmesi gerekirken yazılı gerekçeyle tahliye kararı verilmesi doğru değildir.
 
 ## Yargıtay 6. HD 2014/9676 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/97188300)
 
 Olayımıza gelince; Davada dayanılan ve hükme esas alınan 15.01.2012 başlangıç tarihli ve üç yıl süreli kira sözleşmesi konusunda taraflar arasında uyuşmazlık bulunmamaktadır. Davacı taşınmazı 23.03.2012 tarihinde satın almış, 19.04.2012 keşide ve 20.04.2012 tebliğ tarihli ihtarname ile satın alma iradesini ve ihtiyaç iddiasını davalıya bildirmiş, dava ise 17.07.2013 tarihinde süresinde açılmıştır. Mahkemece; Konut ihtiyacı nedeniyle açılan davada dava nedeninin yazlık konut ihtiyacı olarak ön inceleme duruşmasından sonra değiştirildiğini, bunun ise HMK 141/1-2. maddelerine aykırı olduğunu, davacının konut ihtiyacının ise dava konusu taşınmaz dışında İzmir ilinde üzerine kayıtlı başkaca taşınmazları bulunması nedeniyle samimi olmadığı gerekçesiyle davanın reddine karar verilmiş ise de; Dava, konut ihtiyacı nedenine dayalı olarak açılmış olup, daha sonra yargılama sırasında konutun yazlık olarak kullanılacağının belirtilmesi HMK 141. Maddesine aykırılık olarak değerlendirilemez.
 Dinlenen davacı tanıklarının; davacının emekli olup Çeşme’de çocukları ile birlikte oturmak için taşınmazı yazlık amaçlı kullanmak için satın aldığına yönelik beyanlarına göre ihtiyacın gerçek ve samimi olduğu anlaşılmaktadır.Dosyada mevcut deliller karşısında davacının yazlık konut ihtiyacının gerçek, samimi ve zorunlu olduğunun kabulü gerekir. Bu durumda, mahkemece davanın kabulüne karar verilmesi gerekirken, değerlendirmede yanılgıya düşülerek yazılı gerekçeyle davanın reddine karar verilmesi doğru değildir.
 
 ## Yargıtay 6. HD 2014/7995 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/97376900)
+
 6570 Sayılı Yasanın 7/c maddesi gereğince işyeri ihtiyacı nedeniyle tahliye istenebilmesi için ihtiyacın gerçek, samimi ve zorunlu olması, iş yerinin de yapılacak işe uygun ve elverişli olması gerekir. Dava açıldığı tarihte doğmamış bir ihtiyaç nedeniyle tahliye istenemez. Ancak, yakın bir tarihte gerçekleşmesi muhtemel ihtiyacın da tahliye nedeni olarak kabul edilmesi gerekir.
 
 ## Yargıtay 6. HD 2014/4259 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/97232500)
 
 Kimlerin ihtiyacı için tahliye davası açılabileceği 6098 Sayılı TBK.nun 350.maddesinde sayılmıştır. Sözü edilen madde hükmüne göre kiralayan, kendisinin, eşinin, altsoyu, üstsoyu veya kanun gereği bakmakla yükümlü olduğu diğer kişilerin konut (veya işyeri) ihtiyacı için dava açabilir. İhtiyaç iddiasına dayalı davalarda tahliyeye karar verilebilmesi için ihtiyacın gerçek, samimi ve zorunlu olduğunun kanıtlanması gerekir. Devamlılık arzetmeyen geçici ihtiyaç tahliye nedeni yapılamayacağı gibi henüz doğmamış veya gerçekleşmesi uzun bir süreye bağlı olan ihtiyaç da tahliye sebebi olarak kabul edilemez. Davanın açıldığı tarihte ihtiyaç sebebinin varlığı yeterli olmayıp, bu ihtiyacın yargılama sırasında da devam etmesi gerekir.
 
 ## Yargıtay 6. HD 2014/2833 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/308292100)
+
 İhtiyaç iddiasına dayalı davalarda tahliyeye karar verilebilmesi için ihtiyacın gerçek, samimi ve zorunlu olduğunun kanıtlanması gerekir. Devamlılık arzetmeyen geçici ihtiyaç tahliye nedeni yapılamayacağı gibi, henüz doğmamış veya gerçekleşmesi uzun bir süreye bağlı olan ihtiyaç da tahliye sebebi olarak kabul edilemez. Davanın açıldığı tarihte ihtiyaç sebebinin varlığı yeterli olmayıp, bu ihtiyacın yargılama sırasında da devam etmesi gerekir. Olayımıza gelince;…
 
 ## Yargıtay 6. HD 2014/1519 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/97243300)
 
 6570 Sayılı Yasanın 7/c maddesine göre işyeri ihtiyacına dayalı olarak açılan tahliye davalarında ihtiyaçlının kirada olması halinde ihtiyacın varlığının kabulü için ihtiyaçlının ya tahliye tehdidi altında bulunması veya kiralananın yapılacak iş için daha üstün nitelikte olması, en azından halen iş yapılan yerle eşdeğer nitelikte bulunması gerekir. Eşdeğerlik durumu varsa mülkiyet hakkına üstünlük tanınmalıdır. Bu iki halden birisinin varlığı ihtiyacın kabulü için yeterlidir. Her iki halin birlikte olması gerekmez.
 
 ## Yargıtay 6. HD 2014/451 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/309771200)
+
 Davacının işyeri ihtiyacı nedenine dayalı davanın reddine ilişkin hükme yönelttiği temyiz itirazlarına gelince; 6098 sayılı TBK.’nun 350/1. maddesi hükmüne göre ihtiyaç iddiasına dayalı olarak açılacak tahliye davalarının belirli süreli sözleşmelerde sürenin sonunda, belirsiz süreli sözleşmelerde bu kanunun 328. maddesinde fesih bildirimi için öngörülen sürelere uyularak belirlenecek tarihten başlayarak bir ay içinde açılması gerekir. TBK.’nun 353. maddesi uyarınca kiraya veren, daha önce veya en geç davanın açılması için öngörülen sürede dava açacağını kiracıya yazılı olarak bildirmişse dava, bildirimi takip eden uzayan bir kira yılı sonuna kadar açılabilir. Dava açma süresi kamu düzenine ilişkin olup, davalı ileri sürmese bile mahkemece kendiliğinden göz önünde bulundurulması gerekir.
 
 ## Yargıtay 6. HD 2013/17064 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/521264400)
 
 6570 sayılı yasanın 7/d maddesine göre işyeri ihtiyacı nedeniyle tahliye istenebilmesi için ihtiyacın gerçek, samimi ve zorunlu olması, ihtiyaç iddiasının kanıtlanması ve kiralananın da yapılacak işe uygun olması gerekir. Mahkemece dava konusu kiralananın ihtiyaca elverişli olup olmadığının tespiti yönünden mahallinde keşif yapılmadan hüküm verilmiştir. Mahkemece uzman bilirkişi aracılığıyla taşınmazın bulunduğu yerde keşif yapılarak bu hususun belirlenmesi ve tüm taraf delillerinin toplanarak hasıl olacak sonuca göre karar verilmesi gerekirken eksik araştırma ve inceleme ile yazılı şekilde karar verilmesi doğru olmadığından hükmün bozulması gerekmiştir.
 
 ## Yargıtay 6. HD 2013/16680 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/520885000)
+
 Konut ya da çatılı işyeri niteliğindeki bir taşınmazı iktisap eden kimse dilerse eski malik ile kiracı arasında yapılmış sözleşmeye dayanarak sözleşmenin sonunda bir ay içinde, dilerse TBK.’nun 351. maddesi uyarınca edinme günü de dahil olmak üzere edinme tarihinden başlayarak bir ay içinde durumu kiracıya yazılı olarak bildirmek koşuluyla edinme tarihinden itibaren altı ay sonra ihtiyaç nedeniyle tahliye davası açabilir. Davanın altı ayın sonunda hemen açılması şart olmayıp sözleşme sonuna kadar açılması mümkündür. Ancak edinmeyi izleyen bir ay içerisinde bildirimin tebliği zorunlu olup bunun sonradan giderilmesi mümkün değildir. İhtiyaç iddiasına dayalı davalarda tahliyeye karar verilebilmesi için ihtiyacın gerçek, samimi ve zorunlu olduğunun kanıtlanması gerekir. Devamlılık arz etmeyen geçici ihtiyaç tahliye nedeni yapılamayacağı gibi henüz doğmamış veya gerçekleşmesi uzun bir süreye bağlı olan ihtiyaç da tahliye sebebi olarak kabul edilemez. Davanın açıldığı tarihte ihtiyaç sebebinin varlığı yeterli olmayıp, bu ihtiyacın yargılama sırasında da devam etmesi gerekir.
 
 ## Yargıtay 6. HD 2013/15204 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/522095800)
+
 Somut olayda davalının 01.05.2006 başlangıç tarihli ve bir yıl süreli kira sözleşmesi uyarınca taşınmazda kiracı olduğu öne sürülerek 10.10.2013 tarihinde açılan bu dava ile iktisap ve ihtiyaç nedeniyle kiralananın tahliyesi istenilmiştir. Dava sebebine göre dava açma süresi ve koşullarının TBK.’nun 351. maddesine uygun olarak mahkemece resen denetlenmesi gerekir. Buna göre davanın satın alma günü de dahil olmak üzer edinme tarihinden başlayarak bir ay içinde durumu kiracıya yazılı olarak bildirmek koşulu ile edinme tarihinden itibaren 6 ay sonra dava açması gerekir. Bunun dışında ihtarnamede davalıya 6 aylık süre tanınması dava açmanın ön koşulu olarak kabul edilemez. Mahkemenin,…
 
 ## Yargıtay 6. HD 2013/14699 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/535601000)
 
 İhtiyaç iddiasına dayalı davalarda tahliyeye karar verilebilmesi için ihtiyacın gerçek, samimi ve zorunlu olduğunun kanıtlanması gerekir. İhtiyaç iddiası tanık dahil her türlü delil ile kanıtlanabilir. 6570 Sayılı Yasanın 7/c-d maddesine göre işyeri ihtiyacına dayalı olarak açılan tahliye davalarında ihtiyaçlının kirada olması halinde ihtiyacın varlığının kabulü için ihtiyaçlının ya tahliye tehdidi altında bulunması veya kiralananın yapılacak iş için daha üstün nitelikte olması, en azından halen iş yapılan yerle eşdeğer nitelikte bulunması gerekir.
 
@@ -174,8 +240,12 @@ Eşdeğerlik durumu varsa mülkiyet hakkına üstünlük tanınmalıdır. Bu iki
 
 ## Yargıtay 6. HD 2013/14453 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/535155200)
+
 6098 Sayılı TBK.’nun 350/1. maddesi uyarınca ihtiyaç iddiasına dayalı olarak açılacak davalarda dava hakkı kural olarak kiraya verene aittir. Ancak kiraya veren durumunda olmayan malikin de bu davaları açabileceği içtihaden kabul edilmiştir. Dava hakkına ilişkin olan bu hususların mahkemece kendiliğinden göz önünde bulundurulması gerekir. Konut ya da çatılı işyeri niteliğindeki bir taşınmazı iktisap eden kimse dilerse eski malik ile kiracı arasında yapılmış sözleşmeye dayanarak sözleşmenin sonunda bir ay içinde, dilerse TBK.’nun 351. maddesi uyarınca edinme günü de dahil olmak üzere edinme tarihinden başlayarak bir ay içinde durumu kiracıya yazılı olarak bildirmek koşuluyla edinme tarihinden itibaren altı ay sonra ihtiyaç nedeniyle tahliye davası açabilir.
 
 ## Yargıtay 6. HD 2013/11798 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/537896900)
 
 İhtiyaç nedeniyle tahliye davasının yapılan yargılaması sırasında ... 2.Sulh Hukuk Mahkemesinin 2010/2815 esas sayılı dava dosyasında temerrüt nedeniyle tahliye davası açıldığı ve kiralananın tahliyesine karar verildiği, verilen kararın Yargıtayca onanarak kesinleştiği, ancak kararın infaz edilmediği anlaşılmaktadır. Temerrüt nedeniyle tahliye ve işyeri ihtiyacı nedeniyle tahliye sebepleri ayrı olup, temerrüt nedeniyle tahliyeye karar verilmiş olması infaz edilmedikçe işyeri ihtiyacı nedeniyle açılan davanın konusuz kalmasını gerektirmez. Bu nedenle, işyeri ihtiyacı nedeni ile açılan davanın esasının incelenerek sonucuna göre bir karar verilmesi gerekirken, yazılı şekilde davanın reddine karar verilmesi doğru değildir.

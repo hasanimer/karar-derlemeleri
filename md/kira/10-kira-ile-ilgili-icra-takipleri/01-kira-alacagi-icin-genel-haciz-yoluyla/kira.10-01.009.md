@@ -22,29 +22,43 @@ uyari: "Derleyenin seçtiği alıntılardır; kararın tamamı değildir. Künye
 
 ## Yargıtay 6. HD 2015/2436 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/148768000)
+
 Davaya dayanılan ve karara esas alınan 10.12.2012 başlangıç tarihli ve 2 yıl süreli kira sözleşmesi konusunda taraflar arasında uyuşmazlık bulunmamaktadır. Davacı, 07.08.2014 tarihinde başlatmış olduğu icra takibinde 2012 yılı Aralık ayı ile 2014 yılı Temmuz ayları arası kira paralarının tahsili ve tahliye isteminde bulunmuş, ödeme emrinin davalıya 14.08.2014 tarihinde tebliğ edilmesi üzerine, davalı 19.08.2014 tarihinde yasal süresinde borcu bulunmadığını bildirerek borca ve faize itiraz etmiştir. Davacı dava dilekçesinde, kiralananın tahliyesi isteminde bulunmuş, yargılama sırasında ise verdiği 14.11.2014 tarihli ıslah dilekçesi ile bu talebine itirazın kaldırılması isteğini de eklemiştir. Islah ile dava sebebini değiştirmek mümkün ise de, mevcut davaya ilaveten ikinci bir dava açmak olanaksızdır. Bu bakımdan ikinci talebin incelenmemesi gerekir. Davalı borçlu tarafından süresinde yapılan bir itiraz olduğu halde davacı itirazın kaldırılmasını istemeden tahliye isteminde bulunmuştur. Mahkemece, itirazın kaldırılması istenmeden tahliyeye karar verilemeyeceğinden davanın reddine karar verilmesi gerekirken, yazılı şekilde tahliyeye karar verilmesi doğru değildir.
 
 ## Yargıtay 6. HD 2015/1003 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/147684400)
 
 İİK.nun 269. maddesi gereğince yapılan takiplerde borçlu itirazında kira akdini ve varsa mukavelenamede kendisine izafe olunan imzayı reddettiği takdirde alacaklı; noterlikçe re'sen tanzim veya imzası tasdik edilmiş bir mukavelenameye istinat ediyorsa merciden itirazın kaldırılmasını ve ihtar müddeti içinde paranın ödenmemesi sebebiyle kiralananın tahliyesini istiyebilir. (İİK md. 269/b) Davalı borçlunun yukarıda açıklanan itirazı kira akdine itiraz niteliğinde olduğundan sözlü kira akdine dayalı olarak başlatılan icra takibine itirazın kaldırılması ve tahliye davasının reddine karar verilmesi gerekirken, yazılı şekilde karar verilmesi doğru görülmediğinden kararın bu sebeple bozulması gerekmiştir.
 
 ## Yargıtay 6. HD 2015/969 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/147687600)
+
 Takibe dayanak yapılan ve hükme esas alınan 21.07.2013 başlangıç tarihli ve üç yıl süreli kira sözleşmesi konusunda taraflar arasında bir uyuşmazlık bulunmamaktadır. Davacı alacaklı bu kira sözleşmesine dayanarak 04.06.2014 tarihinde tahliye talepli başlattığı icra takibi ile dönem belirtilmeksizin 1222 TL'nin tahsilini istemiştir. Ödeme emrinin davalıya 13.06.2014 tarihinde tebliği üzerine davalı süresinde 17.06.2014 tarihinde tüm borca ve ferilerine itiraz etmiştir. Davacı 21.07.2014 tarihli dilekçesi ile Temerrüt nedeniyle tahliye isteminde bulunmuş itirazın kaldırılmasını istememiştir. Mahkemece davacının talebi kesinleşen takip sebebiyle açılan tahliye davası olarak nitelendirilip davanın kabulüne karar verilmiştir. Davacı dava dilekçesinde itirazın kaldırılmasını talep etmemiş, kiralananın tahliyesine karar verilmesini istemiş olup, itirazın kaldırılmasına karar verilmeden tahliye kararı verilemez. Mahkemece davacının itirazının kaldırılması isteği olmadığı dikkate alınarak davanın reddine karar verilmesi gerekirken, yazılı şekilde karar verilmesi doğru değildir.
 
 ## Yargıtay 6. HD 2015/649 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/146866500)
 
 Ayrıca davalının kefaleti, TBK.nun 600.maddesi uyarınca sınırlı süreli bir kefalet olup anılan yasa hükmünde belirtildiği üzere, kefalet süresinin sonunda kefil borcundan kurtulur. Olayımızda sözleşme süresi 01.10.2011 tarihinde bitmiş olmasına ve kefil borçtan kurtulmasına rağmen, icra takibi 31.05.2013 tarihinde başlatılmıştır. Sözü edilen süre hak düşürücü süre olmasına nazaran mahkemece davalı kefil hakkındaki kira alacağı yönünden itirazın kaldırılması isteminin bu nedenle reddine karar verilmesi gerekirken yazılı şekilde itirazın kaldırılmasına karar verilmesi doğru değildir.
 
 ## Yargıtay 6. HD 2015/575 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/146835400)
+
 İlamsız tahliye takibinde kiracının ödeme emrine itirazı üzerine kiralayan genel mahkemeden itirazın iptali ve kiralanın temerrüt nedeniyle tahliyesini talep edebileceği gibi, icra mahkemesinden itirazın kaldırılmasını ve kiralananın tahliyesini talep edebilir. Kiralayan, tercih hakkını kullanarak genel mahkeme yerine İcra hukuk mahkemesinden talepte bulunmuştur. Dava dilekçesinde "itirazın iptali" sözcüğüne yer verilmesi uyuşmazlığın niteliğini değiştirmez. İtirazın iptali tabiri "itirazın kaldırılması" isteği olarak yorumlanmalıdır. Kaldı ki davacı vekili 02.10.2014 tarihli celsede de taleplerinin “itirazın kaldırılması ve kiralananın tahliyesine ilişkin olduğunu beyan etmiştir. Buna göre mahkemece uyuşmazlığın esası incelenerek sonucuna göre bir karar verilmesi gerekirken yazılı şekilde davanın usulden reddine karar verilmesi doğru olmadığından kararın bozulması gerekmiştir.
 
 ## Yargıtay 12. HD 2015/907 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/170950200)
+
 Bilindiği üzere; İİK.'nun 269/d maddesinde, aynı yasanın 66. ve 68. maddeleri hükümlerinin adi kiraya ve hasılat kiralarına ait takiplere kıyas yolu ile uygulanacağı ifade edilmiştir. Buna göre, İİK.'nun 66. maddesi uyarınca, süresinde yapılan itiraz üzerine icra takibi kendiliğinden durur. Belirtilen husus, İİK.'nun 269/3. maddesinde de hüküm altına alınmıştır. Öte yandan, itiraz üzerine duran takibin devamını sağlayabilmek için alacaklı İİK.'nun 68.maddesi gereğince, icra mahkemesinden itirazın kaldırılmasını istemeli ve olumlu karar almalıdır. Ayrıca, her ne kadar, İİK.'nun 269/d maddesinde kıyasen uygulanacak hükümler arasında aynı yasanın 67. maddesi sayılmamış ise de; takibe devam edilebilmesi için alacaklı genel mahkemede kira alacağına yönelik olarak itirazın iptali isteminde bulunabilir.
 
 ## Yargıtay 6. HD 2015/410 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/147184300)
 
 Takibe dayanak yapılan ve karara esas alınan 06.06.2012 başlangıç tarihli ve bir yıl süreli kira sözleşmesi konusunda taraflar arasında uyuşmazlık bulunmamaktadır. Davacı alacaklı tarafından 09.09.2014 tarihinde başlatılan icra takibi ile ödenmeyen 2014 yılı Eylül ayı kirası ile muacceliyet şartı gereği ödenmesi gereken kira paraları ve 100'er TL eksik ödenen 2014 yılı Haziran, Temmuz ve Ağustos ayları kira parası toplamı 6.900 TL nin tahsili
 
@@ -53,10 +67,14 @@ istenilmiş olup, itiraz üzerine İcra Mahkemesine başvurularak itirazın kald
 
 ## Yargıtay 6. HD 2015/279 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/145438600)
+
 İİK.nun 67.maddesine göre reddedilen kısım üzerinden davalı yararına tazminata hükmedilebilmesi için davacının takibinde haksız ve kötü niyetli olması gerekir. Somut olayda davacı, 05/09/2005 başlangıç tarihli kira sözleşmesindeki muacceliyet şartına dayalı olarak dönem sonuna kadar tüm kira parasının tahsilini istemiştir.01/07/2012 tarihinde yürürlüğe giren TBK.nun 346.maddesi hükmü ile kira sözleşmelerindeki muacceliyet şartına ilişkin anlaşmalar geçersiz hale getirilse de, bu hükmün, Kanunun yürürlüğünden önce imzalanan sözleşmelere de uygulanacağına dair açık bir düzenleme bulunmamaktadır. Kanunun yürürlüğünden önce düzenlenen sözleşmelere de bu hükmün uygulanacağı kanaatine 6101 Sayılı Türk Borçlar Kanununun Yürürlüğü ve Uygulanma Şekli Hakkında Kanunun B-I-2 maddesinin yorumu sonucunda ulaşıldığı açıktır.
 TBK.nun yürürlük tarihinden çok kısa bir zaman sonra takibin yapılmış olmasına, sözleşmelerdeki muacceliyet şartını geçersiz hale getiren Kanun hükmünün önceki kira sözleşmelerine de uygulanacağına yorum sonucunda ulaşıldığının anlaşılmasına göre davacının, kira sözleşmesindeki muacceliyet koşuluna dayanarak takip tarihinden sonraki dönem sonuna kadar doğacak kiraların tahsilini isteminde haksız olduğunun kabulü gerekir ise de, davacının takip yapmasında kötü niyetli olmadığının kabulünü de gerektirir.
 
 ## Yargıtay 6. HD 2014/14259 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/97483500)
 
 Alacaklı kiralayan, borçlunun itirazı üzerine icra mahkemesinden "tahliye" istemeden, yalnız "itirazın kaldırılmasını" isteyebilir. İcra mahkemesinin itirazın kaldırılmasına ilişkin kararından sonra alacaklı kiralayan buna dayanarak kararın kesinleşmesinden itibaren icra mahkemesinden borçlu kiracı hakkında tahliye davası açabilir. Bunu engelleyen bir yasa hükmü bulunmamaktadır. Ancak bu gibi hallerde tahliye davasının hangi tarihten başlayarak ne kadar sürede açılması gerektiği hususu önem kazanmaktadır. Şayet itirazın kaldırılması davası devam etmekte ise tahliye davası yargılama devam ettiği sürece her zaman açılabilir. Eğer itirazın kaldırılması kararı kesinleşmiş ise bu takdirde tahliye davası itirazın
 
@@ -64,13 +82,19 @@ kaldırılması kararının kesinleşmesinden itibaren altı ay içinde açılma
 
 ## Yargıtay 6. HD 2014/13806 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/97471600)
+
 İİK.nun 67/2.madde hükmü gereğince davanın kabulü halinde davacı alacaklı yararına icra inkar tazminatına hükmedilebilmesi için takip konusu yapılan alacağın gerçek miktarının belli olması veya belirlenebilmesi için bütün unsurlarının borçlu tarafından bilinebilecek nitelikte bulunması yani likit olması gerekir. Davaya konu kiralananın 08/07/2011 tarihinde tahliye edildiği anlaşıldığına göre bu tarihten sonraki alacak miktarı taşınmazın aynı koşullarla yeniden kiralanması için gereken sürenin belirlenmesi ile ilgili olup likit değildir ve yargılamayı gerektirir. Hüküm altına alınan 3 aylık yeniden kiralanma süresi ile ilgili miktar yargılama sonucunda bilirkişi raporu ve mahkemenin taktiri ile belirlenmiştir. O halde mahkemece icra takibine konu olan 2011 yılı Mayıs, Haziran ayları kira alacakları ile Temmuz ayından 667 TL kira alacağı olmak üzere toplam 5667 TL alacak üzerinden icra inkar tazminatına hükmedilmesi gerekirken 7500 TL nin %40 ı üzerinden icra inkar tazminatının davalıdan tahsiline karar verilmesi doğru değildir.
 
 ## Yargıtay 6. HD 2014/13814 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/97472000)
+
 İİK'nun 68/7 maddesine göre itirazın kaldırılması talebinin esasa ilişkin nedenlerle kabulü halinde borçlu, talebin aynı nedenlerle reddi halinde ise alacaklı, diğer tarafın talebi üzerine yüzde yirmiden aşağı olmamak üzere tazminata mahkum edilir. Davalılar vekili tarafından karardan önce dosyaya sunulan bilirkişi raporuna karşı beyan dilekçesinde, davanın reddine ve kötüniyet tazminatına karar verilmesini talep ettiği görülmüştür. Mahkemece kiralananın tahliye edildiği tarih de gözönünde bulundurulmak suretiyle reddedilen kısım üzerinden davalı kiracı yararına ve kefiller hakkındaki davanın reddedildiği gözetilerek kefiller yararına icra tazminatına karar verilmesi gerekirken davalıların icra tazminatı talepleri konusunda karar verilmemesi doğru olmadığından kararın bu sebeple bozulması gerekmiştir.
 
 ## Yargıtay 6. HD 2014/13243 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/97396700)
 
 Hükme esas alınan 01.06.2008 başlangıç tarihli ve bir yıl süreli kira sözleşmesi konusunda taraflar arasında bir uyuşmazlık bulunmamaktadır.Sözleşmede kiralananın noterlik binası olarak kullanılacağı , aylık kira bedelinin 1.800 TL olarak her ayın 5. gününe kadar peşin olarak ödeneceği kararlaştırılmıştır.Sözleşmenin 8. maddesinde “ kiracı kiralananı boşaltmak istediği takdirde bir ay evvelinden mal sahibine ulaşacak şekilde bildirmek zorundadır” hükmüne yer verilmiştir.Davalı kiraya veren Şişli 8. İcra Müdürlüğünün 2011/7945 sayılı takip dosyasında 2011 yılının ocak şubat ayları kira bedeli ile KDV dahil 4.366 TL asıl,653.10 TL işlemiş faiz olmak üzere toplam 5.019.10 TL alacağın tahsilini istemiştir.Ödeme emrinin 18.03.2011 tarihinde tebliğ edilmesi üzerine, borçlu kiracı
 
@@ -79,9 +103,13 @@ Sözleşmenin 8. maddesinde belirtilen şartların yerine getirilmediğini, 2011
 
 ## Yargıtay 6. HD 2014/12887 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/97525700)
+
 Davada dayanılan ve hükme esas alınan 01.01.2012 tarihli kira sözleşmesi hususunda taraflar arasında uyuşmazlık bulunmamaktadır. Ödeme emri davalı borçluya 18.06.2014 tarihinde tebliğ olmuş, davalı kiracı itirazında ve yargılamadaki savunmasında takibe konu kiranın 550 TL lik kısmını elden davacıya verdiğini bunun dışındaki kira miktarını ise hesaba yatırdığını bildirmişse de; davalı kiracının banka vasıtasıyla icra dosyası hesabına 25/06/2014 tarihinde 3.905,63 TL, 27.06.2014 tarihinde ise 3.750 TL ödediği, böylece davalı kiracı tarafından otuz günlük ödeme süresi içerisinde toplam 7.655,63 TL ödeme yaptığı anlaşılmaktadır. Bu durumda ödeme süresinde kira alacağını karşılar biçimde ödeme yapıldığına göre davalı kiracının temerrüde düştüğünden söz edilemez. Bu nedenle tahliye isteminin reddine karar verilmesi gerekirken kabulüne karar verilmesi doğru değildir. Öte yandan itirazın kaldırılması istemi yönünden dava tarihi itibariyle bakiye alacak tespit edilerek tespit edilen alacak üzerinden itirazın kaldırılmasına karar verilmesi gerekirken yazılı şekilde karar verilmesi de doğru değildir.
 
 ## Yargıtay 17. HD 2014/15836 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/373130000)
 
 İcra İflas Kanunu’nun 269/b maddesi gereğince “Borçlu itirazında kira aktini ve varsa mukavelede kendisine izafe olunan imzayı reddettiği taktirde alacaklı, merciden itirazın
 
@@ -89,42 +117,62 @@ kaldırılmasını ve ihtar müddeti içinde paranın ödenmesmesi nedeniyle ta�
 
 ## Yargıtay 6. HD 2014/12189 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/478736100)
+
 Davada dayanılan icra dosyasında bulunan Örnek 13 nolu ödeme emrinde yedi günlük itiraz süresi ve otuz günlük ödeme sürelerinin yazılmadığı görülmüştür. İ.İ.K.nun 269/1.maddesinin göndermesi ile 6098 sayılı Borçlar Kanununun 315. maddesinde(818 Sayılı Borçlar Kanun'unun 260.mad.) yer alan yasal ödeme süresi olan 30 günlük sürenin borçluya verilmemesi durumunda tahliye istenemez. Ödeme emrinde 7 günlük itiraz sürenin yazılmaması davalı borçluya süresiz itiraz hakkı verir. Bu durum davacı alacaklının itirazının kaldırılması istemine engel teşkil etmez. Somut olayda davalı borçlu borca itiraz etmiş, davacı alacaklı da itirazın kaldırılmasını istemiştir. Ödeme emrinde sürelerin yazılmaması tahliye ve temerrüt yönünden önem arz eder. Bu nedenle mahkemece itirazın kaldırılması talebi yönünde işin esası incelenerek sonucuna göre bir karar verilmesi gerekirken yazılı gerekçe ile itirazın kaldırılması isteminin de reddine karar verilmesi doğru olmadığından kararın bozulması gerekmiştir.
 
 ## Yargıtay 6. HD 2014/11625 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/97459100)
 
 İİK.'nun 269 vd. maddeleri gereğince, kira parasının tahsili amacıyla başlatılan icra takibine itiraz halinde alacaklı seçimlik hakkına sahiptir. Ya icra mahkemesinde itirazın kaldırılmasını ya da genel mahkemede itirazın iptalini isteyebilir. İcra Mahkemesi adli yargı kolunda yer alan özel bir mahkemedir. Takip hukukuna yönelik şikayet, itiraz ve itirazın kaldırılmasına yönelik başvurular hakkında ancak kabul veya red kararı verebilir. Görevsizlik kararı veremez.
 
 ## Yargıtay 6. HD 2014/11459 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/97444200)
+
 Takibe dayanak yapılan 01.07.2009 başlangıç tarihli 1 yıl süreli yazılı kira sözleşmesi konusunda taraflar arasında uyuşmazlık bulunmamaktadır.Davacı tarafından 14.05.2014 tarihinde başlatılan icra takibinde 2014 yılı kira alacağı 19.000 TL ile 30,58 TL işlemiş faiz alacağının tahsili istenmiştir. Ödeme emrinin tebliği üzerine borçlu vekili, dayanak sözleşme ve kira miktarına karşı çıkmaksızın borcun bulunmadığını belirterek takibe itiraz etmiştir. Mahkemece, alacaklının İİK 68. maddesinde sayılan belgelerden herhangi birine sahip olmadığından bahisle davanın reddine karar verilmiş ise de, Noterlikçe onaylı olup ayrıca borçlu tarafından imzası inkar edilmeyen kira sözleşmesi İİK 68.maddesinde sayılan belgelerden olduğundan, uyuşmazlığın dayanak kira sözleşmesi çerçevesinde çözümlenerek sonucuna göre bir karar verilmesi gerekirken, yazılı gerekçe ile red kararı verilmesi doğru değildir.
 
 ## Yargıtay 6. HD 2014/11348 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/97429500)
 
 Hükmün gerekçe kısmında “...davalı itirazlarını İİK'nun 269/b ve c maddelerindeki belgelerle kanıtlayamadığı,itirazın kaldırılmasına ve tahliyeye karar vermek gerektiği...” yazılmış ancak,hüküm fıkrasında davanın kabulüne karar verilmiş olmasına rağmen sadece tahliyeye karar verilmiş,itirazın kaldırılmasına ilişkin olumlu ya da olumsuz bir karar verilmemiştir. Mahkemece, hem davanın kabulüne karar verilip hem de taleplerin tümü hakkında olumlu ya da olumsuz bir karar verilmeyerek,kararın gerekçe kısmı ile hüküm fıkrası arasında çelişki yaratacak şekilde müphem,yargıtay denetimine elverişli olmayan bir karar verilmesi doğru değildir.
 
 ## Yargıtay 6. HD 2014/10888 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/97345700)
+
 Takibe dayanak yapılan ve hükme esas alınan 14.01.2013 başlangıç tarihli ve bir yıl süreli kira sözleşmesi konusunda taraflar arasında bir uyuşmazlık bulunmamaktadır.Davacı alacaklı bu kira sözleşmesine dayanarak 02.12.2013 tarihinde tahliye talepli başlattığı icra takibi ile ödenmeyen 2013 Mart-Ekim aylar arası kira bedeli faiziyle birlikte toplam 4.811,98 TL'nin tahsilini istemiştir.Ödeme emri davalıya 17.12.2013 tarihinde tebliği üzerine davalı süresinde borca ve ferilerine itiraz etmiştir.Davacı 04.02.2014 tarihli dilekçesi ile Temerrüt nedeniyle tahliye isteminde bulunmuş itirazın kaldırılmasını istememiştir. Davacı yargılamada dava dilekçesini tekrar ettiğini beyan etmiştir.HMK 26 maddesine göre hakim tarafların talep sonuçları ile bağlıdır.Ondan fazlasına veya başka bir şeye karar veremez.Duruma göre talep sonucundan daha azına karar verebilir hükmüne yer verilmiştir.Somut olayda itirazın kaldırılmasına ilişkin bir talep olmadığı dikkate alınarak karar verilmesi gerekirken yazılı şekilde karar verilmesi doğru olmadığından hükmün bozulması gerekmiştir.
 
 ## Yargıtay 6. HD 2014/10740 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/97324400)
+
 Takipte dayanılan karara esas alınan 13.05.2011 başlangıç tarihli ve bir yıl süreli kira sözleşmesi konusunda taraflar arasında uyuşmazlık bulunmamaktadır. Sözleşmede aylık kira bedeli net 600- TL olarak belirlenmiş olup, her ayın 25'ine kadar peşin ödeneceği kararlaştırılmıştır. Davacı alacaklı davalı borçlu hakkında 12.12.2013 tarihinde başlattığı icra takibinde aylık 700-TL den 2013 yılı 10,11,12. ay ile 2014 yılı 1,2,3,3,4.ay kira bedellerinin tahsilini talep etmiştir. Borçlu kiracı Emre süresi içinde vermiş olduğu itiraz dilekçesinde Dava konusu taşınmazı 25/08/2013 de tahliye ettiğini, o güne kadarki kiraları İNG BANK'a yatırdığını, ev sahibi olan davacının anahtarı teslim almadığını, belirterek borcu olmadığını bildirmiştir. Kira sözleşmesinde kira bedellerinin her ayın 25 ine kadar peşin ödeneceği düzenlenmiş olup takip tarihi itibariyle 2013 yılı Aralık ayı kirası muaccel olmadığından Aralık ayı kira alacağı yönünden itirazın kaldırılması isteminin reddine karar verilmesi gerekirken bu ay kirası yönünden de itirazın kaldırılmasına karar verilmesi doğru değildir.
 
 ## Yargıtay 6. HD 2014/10800 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/97319000)
 
 Alacağa yönelik temyiz itirazlarına gelince; Takipte dayanılan ve karara esas alınan 15.03.2008 başlangıç tarihli ve üç yıl süreli kira sözleşmesi konusunda taraflar arasında bir uyuşmazlık bulunmamaktadır. Kira sözleşmesinde aylık kira miktarı 2.500-TL olup, kira parasının her ayın ilk beş günü içinde peşin olarak yatırılacağı düzenlenmiştir. Davacı alacaklı 06.07.2012 tarihinde başlatılan icra takibi ile aylık 2.500-TL den Mart, Nisan, Mayıs, Haziran/2012 ayları kira parası toplam 10.000-TL asıl, 142,50-TL faiz alacağının tahsilini istemiştir. Davalı borçlu süresinde verdiği borca itiraz dilekçesinde; borcun 4.000-TL sini kabul ederek kısmi itirazda bulunmuştur. Bu durumda talep edilen alacağın 4.000-tl lik kısmı kesinleşmiş ve borçlu tarafından 18.7.2012 tarihinde icra dosyasına 4.760-TL ödenmiştir.
 Her ne kadar Mahkemece itirazın takip talebiyle istenen miktarın tamamı üzerinden kaldırılmasına karar verilmiş ise de; itiraz dilekçesi kapsamına göre talep edilen alacağın borçlu tarafından 4.000 TL'lik kısmının kabul edilerek kesinleştiği, 6.000 TL lik kısmının ise itiraza uğradığının anlaşılmasına göre itiraz edilen 6.000 TL üzerinden itirazın kaldırılmasına karar verilmesi gerekirken yazılı şekilde alacağın tamamı üzerinden itirazın kaldırılmasına karar verilmesi isabetsizdir.
 
 ## Yargıtay 6. HD 2014/10216 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/308060000)
+
 Davada dayanılan icra dosyasında bulunan Örnek 13 nolu ödeme emrinde yedi günlük itiraz süresi ve otuz günlük ödeme sürelerinin yazılmadığı görülmüştür. İ.İ.K.nun 269/1.maddesinin göndermesi ile 6098 sayılı Borçlar Kanununun 315. maddesinde(818 Sayılı Borçlar Kanun'unun 260.mad.) yer alan yasal ödeme süresi olan 30 günlük sürenin borçluya verilmemesi durumunda tahliye istenemez. Ancak, ödeme emrinde 7 ve 30 günlük süreler gösterilmemiş ise de davalı borçlu borca itiraz etmiş,davacı tarafından da itirazın kaldırılması davası açılmıştır. Ödeme emrinde 30 ve 7 günlük sürelerin gösterilmemesi alacaklının alacak talebinde bulunmasına engel teşkil etmez. Zira bu süreler tahliye ve temerrüt yönünden önem arzeder. Bu nedenle mahkemece alacak istemi(itirazın kaldırılması) hususunda işin esası incelenerek sonucuna göre bir karar verilmesi gerekirken yazılı gerekçe ile alacak isteminin de reddine karar verilmesi doğru olmadığından kararın bozulması gerekmiştir.
 
 ## Yargıtay 6. HD 2014/10101 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/97210000)
+
 Tahliye tarihinden sonraki alacak tazminat hukukunu ilgilendirdiğinden ve alacağın tespiti yargılamayı gerektirdiğinden dar yetkili icra mahkemesinde tahliye tarihinden sonrasına ilişkin istemin reddine karar verilmesi gerekir. Davacı tarafından başlatılan icra takibinde 2010 yılı Ocak ayı kira alacağının tamamı talep edilmiş olup mahkemece kiralananın tahliye edildiği 22/01/2010 tarihine kadar olan kira alacağı miktarı belirlenerek bu miktar üzerinden itirazın kaldırılmasına karar verilmesi gerekirken tahliye tarihinden sonraki alacak miktarı yönünden de davanın kabulüne ve itirazın kaldırılmasına karar verilmesi doğru değildir.
 
 ## Yargıtay 6. HD 2014/9766 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/97193100)
 
 Bu durumda mahkemece tahliye tarihine kadar ödendiği kanıtlanamayan kira alacağı yönünden itirazın kaldırılmasına, takibin devamına karar verilmesinde bir usulsüzlük bulunmamakla birlikte davacı alacaklının fazlaya ilişkin istemi kiralananın yeniden aynı
 
@@ -132,13 +180,19 @@ koşullarla kiraya verilmesine ilişkin olup bu husus yargılamayı gerektirdiğ
 
 ## Yargıtay 8. HD 2014/15100 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/337428600)
+
 Şikayetin konusu adi kira ve hasılat kiralarına ait ilamsız takipte itirazın kaldırılmasına ilişkin olup, belirgin biçimde Dairemizin inceleme alanı dışında kalmakta ve niteliği bakımından Yargıtay Başkanlar Kurulu'nun 27.12.2013 tarih 38 sayılı Kararı ile hazırlanıp, Yargıtay Büyük Genel Kurulu'nun 24.01.2014 tarih 1 sayılı Kararı ile kabul edilen ve 29.01.2014 tarih 28897 sayılı Resmi Gazete'de yayımlanarak 01.02.2014 tarihinde yürürlüğe giren Hukuk Daireleri'ne ilişkin iş bölümü uyarınca, hükme yöneltilen temyiz itirazlarının incelenmesi Yargıtay (6.) Hukuk Dairesi'nin görevi cümlesinden bulunmakla, gereği için dosyanın anılan Daire Başkanlığı'na GÖNDERİLMESİNE, 09.09.2014 tarihinde oybirliğiyle karar verildi…
 
 ## Yargıtay 6. HD 2014/9188 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/306473000)
+
 Takipte dayanılan ve karara esas alınan 05.01.2009 başlangıç tarihli ve iki yıl süreli, yıllık 4000 TL. bedelli kira sözleşmesi konusunda taraflar arasında bir uyuşmazlık bulunmamaktadır. Kira sözleşmesinde kira bedelinin yıllık olarak aralık ayının 5 inde ödeneceği ve yıllık kira artış oranının %15 olduğu kararlaştırılmıştır. Davacı alacaklı 12.12.2012 tarihinde başlatmış olduğu icra takibinde 2012 yıllık kira bedeli 6843 TL. nin tahsilini istemiştir. Davalı süresindeki itirazında kira bedelinin ödendiğini ileri sürerek 31.10.2012 tarihli banka dekontunu ibraz etmiştir. Bu dekonta göre 1.1.2012- 1.1.2013 dönemi kira ödemesi kaydı ile 1100 TL'nin davacı alacaklı adına ödendiği görülmektedir. Bu durumda takibe konu kira alacağının 1100 TL lik kısmının takipten önce ödendiği ispatlandığından bu miktarın mahsubu ile geriye kalan kısım yönünden itirazın kaldırılmasına, 1100 TL ye yönelik itirazın kaldırılması isteminin reddine karar verilmesi gerekirken alacağın tamamı üzerinden itirazın kaldırılmasına karar verilmesi doğru değildir.
 
 ## Yargıtay 6. HD 2014/9113 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/306410500)
 
 İcra takibinde ve davada dayanılan ve karara esas alınan 01.02.2006 başlangıç tarihli ve bir yıl süreli kira sözleşmesi konusunda taraflar arasında uyuşmazlık bulunmamaktadır. Davacı alacaklı, davalı borçlu aleyhine ... 31. İcra Müdürlüğü'nün 2014 / 313 sayılı dosyasında 09.01.2014 tarihinde başlattığı icra takibi ile aylık 1.736.03 TL'den Temmuz 2013 – Ocak 2014 arası aylar kirasının tahsilini talep etmiş, Örnek 7 ödeme emrinin 10.01.2014 tarihinde tebliğ edilmesi üzerine de, davalı borçlu, 14.01.2014 tarihli itiraz dilekçesi ile, icra takibinin haksız ve dayanaksız yapıldığını, ödeme emri ile istenilen borca, işlemiş faize ve takibin fer'ilerine itiraz ettiğini belirterek icra takibini durdurmuştur. İtiraz üzerine davacı alacaklı tarafından itirazın kaldırılmasına yönelik 23.01.2014 tarihinde işbu dava açılmış ise de, bu kez davalı borçlu vekili 10.02.2014 tarihli dilekçesi ile icra müdürlüğüne başvurarak ödeme emrine zühulen itiraz edildiğini, itirazlarını geri aldıklarını beyan etmiştir. Mahkeme ise, yaşanan bu sürece karşın davalının kiralanandaki faaliyetini sürdürmesi, takip konusu edilen borcu da ödememesi gerekçesi ile davanın kabulüne, itirazın kaldırılmasına, takibin
 
@@ -146,14 +200,20 @@ devamına ve davalı borçlunun % 20 icra inkar tazminatına mahkum edilmesine k
 
 ## Yargıtay 6. HD 2014/9155 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/97355900)
+
 Yukarıda açıklanan kanun hükmü ve Hukuk Genel Kurulu kararına göre, iflasın ertelenmesi kararının verilmesinden sonra borçlu aleyhine 6183 sayılı Kanuna göre yapılan takipler de dahil olmak üzere hiçbir takibin yapılamayacağı, öncesinde başlamış bir takip varsa, başlayan takiplerin duracağı, iflasın ertelenmesi veya tedbir kararının verilmesinden önce başlatılan takip nedeniyle açılan itirazın kaldırılması, itirazın iptali ya da menfi tespit davalarına iflasın ertelenmesi (ya da tedbir) kararının etki etmeyeceği ancak, açılan bu davaların sonunda verilen ilamların infazını engelleyeceği anlaşılmaktadır. Öte yandan iflasın ertelenmesi ya da takip yapılmaması yönünde verilen tedbir kararından sonra yapılan takip nedeniyle itirazın iptali ya da itirazın kaldırılması ile birlikte ya da ayrı olarak tahliye istenmesi durumunda ise, davanın reddine karar verilmesi gerekecektir.
 
 ## Yargıtay 6. HD 2014/8458 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/97388400)
 
 Davacı alacaklı tarafından 13/01/2014 tarihinde tahliye istekli olarak başlatılan icra takibi ile aylık 20.02.2012-15.02.2013 dönemi kira bedeli 17.500 USD ve 15.02.2013-15.02.2014 dönemi kira bedeli 17.500 USD olmak üzere toplam toplam 35.000 USD karşılığı 75.950 TL 'nin tahsili istenmiştir. Davalı kiracı ödeme emrinin tebliği üzerine süresinde icra müdürlüğüne verdiği dilekçe ile borca itiraz etmiştir. Bu durumda davacının seçimlik hakkı bulunmaktadır. İsterse İİK.nun 269/3 maddesi gereğince altı ay içerisinde icra mahkemesinden itirazın kaldırılmasını, isterse İİK.nun 67.maddesi uyarınca 1 yıl içerisinde Sulh Hukuk Mahkemesinden itirazın iptalini isteyebilir. HMK.nun 4.maddesi ile Sulh Hukuk Mahkemesinin görev alanı tanımlanırken 4/a fıkrası ile İİK.na göre ilamsız icra yönünden tahliyeye ilişkin hükümler ayrık olmak üzere, kira ilişkisinden doğan alacak davaları da dahil olmak üzere tüm uyuşmazlıkları konu olan davalar ile bu davalara karşı açılan davalara Sulh Hukuk Mahkemesi tarafından bakılacağı belirtilmektedir.
 Bu düzenlemeye göre de İİK.nun 269 ve devamı maddeleri gereğince icra mahkemesinde açılacak davalar istisna olarak gösterilmiş, bunun dışındaki kira sözleşmesinden kaynaklanan davalar yönünden Sulh Hukuk Mahkemesinin görevli olduğu düzenlenmiştir.
 
 ## Yargıtay 6. HD 2014/8178 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/307534400)
 
 1.7.2012 tarihinde yürürlüğe giren 6098 sayılı TBK.nun 346. maddesi gereğince davalının sıfatı itibariyle sözleşmedeki muacceliyet şartı geçersiz hale geldiğinden takip tarihi itibariyle vadesi gelen kira alacağı Ağustos 2012 ile Mart 2013 arası aylarına ait kira bedelidir. Her ne kadar mahkemece takibe konu aylar kira bedeli yönünden itirazın
 
@@ -161,14 +221,20 @@ kaldırılmasına karar verilmiş ise de takip tarihinde TBK.nun 346.maddesine g
 
 ## Yargıtay 6. HD 2014/8179 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/97582600)
+
 Takibe ve davaya dayanak yapılan 18.06.2012 başlangıç tarihli ve altı ay süreli kira sözleşmesi konusunda taraflar arasında bir uyuşmazlık bulunmamaktadır. Kira sözleşmesinin özel şartlar 4. Maddesinde kira bedelinin en geç ait olduğu ayın 18.günü ve her ay peşin olarak ödeneceği kararlaştırılmıştır. Kira bedelinin ödenmesine ilişkin bu özel hüküm geçerli olup tarafları bağlar. Kira sözleşmesinin başlangıç tarihine göre ilk ay ödenmesi gereken 6. Ay kira bedelinin elden peşin ödendiği iddiasının davalı tarafça İİK. 269/c maddesindeki yazılı belgelerden biriyle kanıtlanması gerekir. Davalı borçlu bu nitelikte bir belge ibraz edemediğine göre takip hukukuna ilişkin bu uyuşmazlıkta mahalli örf ve adet ve TMK 2.maddesinin uygulanma olanağı bulunamaz. Mahkemece itirazın kaldırılması ile birlikte takip konusu aylar kira bedellerinden Aralık ayının mahsubu ile kalan miktar üzerinden itirazın kaldırılması ve tahliyeye karar vermek gerekirken yanılgıya düşülerek yazılı şekilde istemin reddine karar verilmesi doğru değildir.
 
 ## Yargıtay 6. HD 2014/7973 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/97371000)
 
 İcra takibinde ve davada dayanılan, karara esas alınan 01.01.2012 başlangıç tarihli ve bir yıl süreli kira sözleşmesi konusunda taraflar arasında bir uyuşmazlık bulunmamaktadır. Kira sözleşmesinin özel şartlar bölümünün 6. maddesinde; kira bedelinin gününde ödenmemesi durumunda dönem sonuna kadar olan kira bedellerinin muaccel olacağı kararlaştırılmıştır. Davacı alacaklı 03.05.2013 tarihinde başlatmış olduğu icra takibinde 2013-Nisan ayı kira bedelinin ödenmediğinden 5.773 TL ile sözleşmenin 6. maddesi gereği muaccel hale gelen Mayıs-Aralık ayları arası kira bedelleri 46.184 TL olmak üzere toplam 51.957 TL'nin tahsilini istemiş, davalı ödeme emrinin tebliği üzerine, Nisan ayı kira bedelinin ödendiğini, muacceliyet kaydının hükümsüz olduğunu, davacı alacaklıya borçlarının olmadığını borca ve faize itiraz ettiğini bildirmiştir. Mahkemece takip tarihi itibariyle Nisan ayı kira bedelinin ödenmediğinden Nisan ve Mayıs ayı kira bedeli olan 5773 TL yönünden itirazın kaldırılmasına karar verilmiştir.
 Takibe konu Nisan ve Mayıs ayı kira bedeli olarak ödeme emrinin 07.05.2013 tarihinde tebliğ edilmesi sonrasında 08.05.2013 tarihli makbuz ile 12.446 TL'nin ödendiği davacı alacaklının da kabulündedir. Bu nedenle mahkemece, itirazın kaldırılmasına konu Nisan ayı kira bedeli ödendiğinden Bk.nun 84.maddesi de gözetilerek sadece Nisan ayı kira bedelinin ferileri yönünden itirazın kaldırılmasına karar verilmesi gerekirken, yazılı şekilde ödenen kira bedeli yönünden itirazın kaldırılmasına karar verilmesi de doğru değildir.
 
 ## Yargıtay 6. HD 2014/7879 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/97577500)
 
 İcra ve İflas Kanunu 272.maddesi ve devamında yer alan düzenlemeler uyarınca, mukavelename ile kiralanan taşınmazların müddeti bittikten bir ay içinde mukavelenin icra dairesine ibrazı ile tahliyesi istenebilir.İtiraz etmek isteyen kiracı itirazını tahliye emrinin tebliğinden itibaren yedi gün içinde dilekçe ile veya şifahen icra dairesine bildirir.Bu suretle yapılan itiraz tahliye takibini durdurur.İtiraz vukuunda kiralayan icra mahkemesinden
 

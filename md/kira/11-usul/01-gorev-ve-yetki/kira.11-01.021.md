@@ -22,18 +22,26 @@ uyari: "Derleyenin seçtiği alıntılardır; kararın tamamı değildir. Künye
 
 ## Kayseri BAM 6. HD 2023/942 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/898255300)
+
 İLK DERECE MAHKEMESİ KARARININ ÖZETİ: Tekmil dosya mündericatı birlikte değerlendirildiğinde; "... Dava, itirazın iptali, takibin devamı ve %20 icra inkar tazminatı talebine ilişkindir. Dava dilekçesi ekinde sunulan belgelerden anlaşıldığı üzere taraflar arasındaki ilişkinin kira sözleşmesinden kaynaklandığı anlaşılmaktadır. 01/10/2011 tarihinde yürürlüğe giren 6100 Sayılı HMK'nun 4/1-a maddesine göre “Kiralanan taşınmazların, 09.06.1932 tarihli ve 2004 sayılı İcra ve İflas Kanununa göre ilamsız icra yoluyla tahliyesine ilişkin hükümler ayrık olmak üzere, kira ilişkisinden doğan alacak davaları da dâhil olmak üzere tüm uyuşmazlıkları konu alan davalar ile bu davalara karşı açılan davalarda" görevli mahkeme Sulh Hukuk Mahkemesidir. Taraflar arasındaki davada ihtilafın iş makinesi kiralama ilişkisinden doğması ve kira ilişkisini konu alan uyuşmazlıklara ilişkin bir dava olması nedeniyle işbu davaya bakmak görevi Sulh Hukuk Mahkemesine aittir. Mahkememiz görevli değildir. (Kayseri Bölge Adliye Mahkemesi 6.HD. 2022/2154E., 2022/2122K., sayılı ilamı ile Ankara Bölge Adliye Mahkemesi 15. HD.
 2022/1366 E., 2022/1931K., sayılı ilamı aynı mahiyettedir.) Mahkemelerin görevi bir dava şartı olup kamu düzenine ilişkin kurallardan da olması nedeniyle, yargılamanın her aşamasında istek üzerine, ya da re'sen gözetilmesi gerekir.
 
 ## İzmir BAM 6. HD 2023/751 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/892464900)
+
 Somut olayda; Taraflar arasında kira ilişkisi bulunduğu hususu tartışmalı değildir. Davacı kira sözleşmesinin haksız feshi nedeniyle uğradığı zararın tahsilini istemektedir. HMK'nun 4. maddesi uyarınca değer ve tutarına bakılmaksızın, kira ilişkisinden doğan tüm uyuşmazlıklar ile bu davalara karşı açılan davalara bakma görevi Sulh Hukuk Mahkemesine aittir. (Kira uyuşmazlıkları bakımından İİK'dan kaynaklanan ilamsız icra yoluyla kiralanan taşınmazların tahliyesi hariç) Tacirler arasındaki kira sözleşmeleri bakımından ayrı bir düzenleme yapılmamıştır. Buna göre, Sulh Hukuk Mahkemesi tüm kira uyuşmazlıkları bakımından özel yetkili mahkeme haline getirilmiştir. Mahkemece görevsizlik kararı verilmesi doğrudur.
 
 ## Diyarbakır BAM 6. HD 2023/552 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/882360800)
+
 Somut olayda taraflar arasında imzalanan "Motorlu Kara Nakil Araçları Kiralama Sözleşmesi'' başlıklı sözleşmenin kira sözleşmesi niteliğinde olduğu, uyuşmazlığın kira ilişkisi kapsamında kaldığı, davaya bakmaya sulh hukuk mahkemesinin görevli olduğu kabul edilmelidir. O hâlde mahkemece, sulh hukuk mahkemesinin görevli olması nedeniyle dava şartı yokluğundan davanın usulden reddine karar verilmesinde bir isabetsizlik bulunmadığından, davalı vekilinin davanın asliye ticaret mahkemesinde görülmesi gerektiğine dair istinaf itirazları yerinde görülmemiştir.
 
 ## İzmir BAM 6. HD 2023/662 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/885820300)
 
 Somut olayda; Taraflar arasında kira sözleşmesi bulunduğu, uyuşmazlığın kira alacağından kaynaklandığı hususunda uyuşmazlık bulanmamaktadır. HMK'nun 4.maddesi uyarınca kiralanan taşınmazların İcra ve İflas Kanunu'na göre ilamsız icra yoluyla tahliyesine ilişkin
 
@@ -41,16 +49,22 @@ hükümler ayrık olmak üzere, kira ilişkisinden doğan alacak davaları da d�
 
 ## İstanbul BAM 3. HD 2023/1148 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/882123900)
+
 Anılan yasanın 4. maddesine göre, bir davanın ticari dava olabilmesi için uyuşmazlığın her iki tarafının da tacir olması ve ticari işletmeleriyle ilgili hususlardan doğmuş bulunması veya anılan yasa maddesinde sayılan mutlak ticari davalardan olmasının gerekli ve yeterli olduğu belirtilmiş; müteakip 5. maddesinde ise, “Bir yerde asliye ticaret mahkemesi varsa, asliye hukuk mahkemesinin görevi içinde bulunan ve 4. madde hükmünce ticari sayılan davalarla özel hükümler uyarınca ticaret mahkemesinde görülecek diğer işlere asliye ticaret mahkemesinde bakılır. Asliye ticaret mahkemesi ile asliye hukuk mahkemesi ve diğer hukuk mahkemeleri arasındaki ilişki görev ilişkisi olup, bu durumda göreve ilişkin usul hükümleri uygulanır." hükmüne yer verilmiştir.Davalı ... ticari işletme olmadığı gibi, davacı şirketle yaptığı abonelik sözleşmesi kapsamında davalı ... tacir sıfatı olmadığından ,uyuşmazlık Asliye Ticaret Mahkemesinin görevi içerisinde değildir.Ancak uyuşmazlık tek başına kiralama protokolünden de kaynaklanmamış, abonelik nedeniyle verilen hizmet fatura bedelinin ödenmediği iddiasından kaynaklanmıştır.Bu nedenle görevli mahkeme Sulh Hukuk Mahkemesi de değildir.
 Mahkemece, somut uyuşmazlığın çözümünde Asliye Hukuk Mahkemesi görevli olduğundan görevsizlik kararı verilmesi gerekirken, zuhulen hatalı niteleme ile kira ilişkisi kabul edilerek Sulh Hukuk Mahkemesinin görevli olduğundan bahisle görevsizlik kararı verilmesi usul ve yasaya aykırıdır. Görev kamu düzenine ilişkin olup resen gözetilerek, davacının istinaf talebinin kabulü ile,mahkeme kararının kaldırılmasına, HMK 353/1-a-3 maddesi gereğince görevli Asliye Hukuk Mahkemesine gönderilmesinin sağlanması için, dosyanın ilk derece mahkemesine iadesine karar verilmesi gerekmiştir.
 
 ## İstanbul BAM 45. HD 2023/601 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/896281300)
 
 HMK 114/1.c maddesi uyarınca "Mahkemenin görevli olması" dava şartlarından olup, HMK 138. maddesi dikkate alınarak dava şartlarının öncelikle karara bağlanması gerekmektedir. HMK 115. maddesinde ise "Mahkeme, dava şartlarının mevcut olup olmadığını, davanın her aşamasında kendiliğinden araştırır. Taraflar da dava şartı noksanlığını her zaman ileri sürebilirler. Mahkeme, dava şartı noksanlığını tespit ederse davanın usulden reddine karar verir..." düzenlemesi yer almaktadır. 6100 sayılı HMK 4. maddesinde sulh hukuk mahkemelerinin görev alanı belirlenmiş ve 4/1.a maddesinde ise kiralanan taşınmazların, 9/6/1932 tarihli ve 2004 sayılı İcra ve İflas Kanunu'na göre ilamsız icra yoluyla tahliyesine ilişkin hükümler ayrık olmak üzere, kira ilişkisinden doğan alacak davaları da dâhil olmak üzere tüm uyuşmazlıkları konu alan davalar ile bu davalara karşı açılan davaların sulh hukuk mahkemesinde görüleceği belirtilmiştir. Yargıtay 17. Hukuk Dairesi'nin 11/06/2019 tarihli 2016/6483 E. 2019/7301 K. sayılı ilamı; "... Somut olayda, sigortalı işyerlerinde oluşan yangın hasarı sebebiyle meydana gelen zarar sigortacı
 
 tarafından sigortalılara ödenmiş olup ödenen tazminatın dava dışı sigortalı işyerlerini kiraya veren davalı bina maliki ... A.Ş’den ve onun işyeri sigortacısı ... Sigorta A.Ş’den, yangının çıktığı ... A.Ş kiracısı ... Tic. Ltd. Şti.’den, sinamada tadilat yapan taşeron ...’ten tahsili talep edilmiştir. Dava dışı sigortalı şirketler ve davalı ... San. Tic. Ltd. Şti., davalı bina maliki ... A.Ş. kiracısıdır. Bu nedenle dava dışı sigortalılar ... Tic. A.Ş ve ... A.Ş. ile davalı ... A.Ş arasındaki temel hukuki ilişki kira sözleşmesine dayanmaktadır. Yine yangının çıktığı ... Tur. San. Tic. Ltd. Şti. ile davalı ... A.Ş arasındaki hukuki ilişki de kira sözleşmesine dayanmaktadır. Taraflar arasında uyuşmazlık kira ilişkisinden doğduğuna göre; davaya bakma görevi sulh hukuk mahkemesindedir. Bu nedenle sigortacı tarafından halefiyet yoluyla açılan davanın da sulh hukuk mahkemesinde görülmesi gerekmektedir..." Davacı şirket sigortalısı olan dava dışı ... Ticaret A.Ş. ile davalılardan ... Ticaret A.Ş. arasında imzalanan 27/07/2015 tarihli kira sözleşmesi uyarınca ...
 
 ## Adana BAM 5. HD 2023/501 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/881781000)
 
 Davacı tarafından aralarında kira ilişkisi bulunan Yumurtalık Serbest Bölge içerisinde faaliyet gösteren davalıya karşı 3218 Sayılı Serbest Bölgeler Kanunu ve kanunun verdiği yetkiye dayanılarak çıkarılan Serbest Bölgeler Uygulama Yönetmeliği'nin maddeleri uyarınca idareden ihale yoluyla aldığı işletme hakkı kapsamında ödenmesi lazım gelen koordinasyon bedeli ücreti ile ilgili yapılan takibe karşı itiraz edilmesi üzerine itirazın iptali amacıyla ticaret mahkemesine açılan davanın görevli mahkemenin sulh hukuk mahkemeleri olduğundan bahisle görevsizliğe dair verilen karara karşı alacağın kaynağının kira ilişkisi olmayıp yasa ve yönetmelikten kaynaklı koordinasyon bedeli ücreti olduğundan bahisle görevli mahkemenin ticaret mahkemesi olduğu özet sebepleriyle istinaf etmesi üzerine dosya kapsamında yapılan incelemede davacı ile davalı arasında Adana Yumurtalık Serbest Bölgesi açık alan kira sözleşmesinin bulunduğu, sözleşmenin özel şartlar başlıklı 7. maddesinde "...Kullanıcı, kiraladığı arazi ve bu arazi üzerine yaptırdığı veya kiraladığı bina ve tesislerde ihtiyaç duyduğu su, elektrik, haberleşme vs. hizmetler ile bölgedeki müşterek kullanımlarla ilgili temizlik, peyzaj, su,
 elektrik, haberleşme vs. hizmetlerin TAYSEB kanalı ile sağlanması halinde yapılan koordinasyon ve işletme işlemleri için yine hesaplanan miktarlara, belirtilen tarifelere, abonman ve satış sözleşmelerine göre bir ücret ödemekle ve sayılan hizmetlerin rayiç bedellerini TAYSEB 'e belirtilen zamanda tediye etmekle yükümlüdür. Kullanıcı ödemeleri döviz olarak yapmayı, ödemelerde Serbest Bölge Müdürlüğü'nce onaylı tarifeleri ve uygulamayı kabul ve taahhüt eder, ancak kullanıcı, depozitolar hariç olmak üzere Türk Lirası ile de ödeme yapabilir. Ödemelerin, TAYSEB tarafından kullanıcılara kesilecek elektrik faturaların tarihinden itibaren 7 gün içerisinde, diğer faturaların 15 gün içerisinde yapılması esastır.
@@ -60,14 +74,20 @@ başvurusunun esastan reddine karar vermek gerekmiş ve aşağıdaki şekilde h�
 
 ## Adana BAM 9. HD 2023/126 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/881408200)
+
 Yukarıda açıklanan nedenlerle taraflar arasındaki uyuşmazlığın kira sözleşmesinden kaynaklanan rücuen tazminat alacağından kaynaklandığı ve uyuşmazlığın çözümünde Sulh Hukuk Mahkemesi'nin görevli olduğu gözetilerek, görevsizlik kararı verilmesi usul ve yasaya uygun olduğundan davacı vekilinin istinaf sebeplerinin yerinde olmadığı anlaşıldığından istinaf başvurusunun esastan reddine karar vermek gerekmiş ve aşağıdaki şekilde hüküm kurulmuştur.
 
 ## İstanbul BAM 17. HD 2023/402 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/885315100)
 
 Sulh Hukuk Mahkemesinin 2009/292 D.İş dosyasında alınan 07/01/2010 tarihli bilirkişi raporunda, meydana gelen hasarın nedeni olarak, kanal üstü dolgusunun, aşırı yağışlar nedeniyle bünyesine su alarak ağırlığının artması ve bu şekilde kanal tabliyesinin fazla zorlanması; kanal kutu kesiti üst tabliyesinin aşırı sehim yapıp kırılması ve göçmesi, üzerindeki toprak dolgunun da beraberinde çökmesi, kanal yatağının kapanması, atık suların geri tepmesi ve çevreye zarar vermesi; olay zamanı bölgede meydana gelen yağışların, diğer zamanlardakinden fazla olması, yağışların sağanak şeklinde yağması şeklide belirtilebileceği, kanalık yaklaşık 20 yıl önce inşa edildiği dikkate alındığında kullanılan malzeme kalitesinin uygun olduğunun söylenebildiği, günümüz koşullarında ise daha yüksek bir beton kalitesinin kullanılması gerektiği, tespit isteyen firmanın mimari projesinin İSKİ tarafından onaylanmış olduğu, bu projede binaların kanala göre konumunun ve arka bahçe üst kotunun belli olduğu, mevcut kanala bir bağlantı yapılmadığı bildirilmiştir. Hakkındaki dava tefrik edilen davalı İSKİ tarafından tespit istenmesi üzerine Eyüp 3.
 Asliye Hukuk Mahkemesinin 2010/2 D.İş dosyasında alınan 18/01/2010 tarihli bilirkişi raporunda, İSKİ'nin sorumluluğunda bulunan Bayrampaşa Ayvalıdere kanal güzergahının yanı başında inşa edilmiş olan ... Evlerinin bahçe düzenlemesi sırasında parsel sınırı dışında kanal güzergahı üzerinde dolgu yapılması sonucu göçükler meydana geldiği ve hasara sebep olduğu bildirilmiştir. Dava dışı ... AŞ tarafından tespit istenmesi üzerine Eyüp 1. Sulh Hukuk Mahkemesinin 2009/298 D.İş dosyasında alınan 08/01/2010 tarihli bilirkişi raporunda, ... ile ... Evlerinin arka bahçesinin arasında bulunan Ayvalıdere yağmur suyu kanalının yapısının betonarme olduğu ve üzerinin toprak ile örtülü bulunduğunun belirlendiği, meydana gelen çökme ve göçmelerin kanal üstü toprak dolgusunun aşırı yağışlar nedeniyle bünyesine su alarak ağırlığının artması ve bu şekilde kanal tahliyesinin fazla zorlanması sonucu oluştuğu bildirilmiştir. Davalı ... Tic. A.Ş. tarafından İTÜ'ye yapılan başvuru üzerine bilirkişiler tarafından düzenlenen 04/05/2011 tarihli teknik raporda, ... Tic.
 
 ## İstanbul BAM 12. HD 2023/527 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/882272700)
 
 Sulh Hukuk Mahkemesinin 2014/576 esas sayılı dosyasında 08.07.2014 tarihinde davalılar ... ve ... aleyhine itirazın iptali davası açıldığı, mahkemece yapılan yargılama sonucunda 18.02.2016 tarihinde alacak istemi yönünden itirazın iptali ile takibin devamına, tahliye isteminin reddine karar verildiği ve kararın kesinleştiği, bu dosyada davalılar vekilince ilk
 
@@ -76,10 +96,14 @@ bulunmaksızın iş yerinin devri nedeniyle mal teslimatı yapılmayacağı bild
 
 ## İstanbul BAM 45. HD 2023/572 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/887204000)
+
 Sigortalının muhtelif mahkemelerde dava açma hakkı varsa, aynı hak sigortacının halefiyet hakkına dayanan rücu davası için de söz konusudur." şeklinde vurgulanmıştır. 6102 sayılı TTK'nun "Halefiyet" başlığı altındaki 1472.maddesinde ise "Sigortacı, sigorta tazminatını ödediğinde, hukuken sigortalının yerine geçer. Sigortalının, gerçekleşen zarardan dolayı sorumlulara karşı dava hakkı varsa bu hak, tazmin ettiği bedel kadar, sigortacıya intikal eder." hükmüne yer verilmiştir. Buna göre; davacı sigorta şirketinin sigortalısı hangi görevli ve yetkili mahkemede dava açacak ise, sigorta şirketinin de halefiyet gereğince, aynen sigortalı gibi o mahkemede dava açabileceğine işaret edilmiştir. Somut olayda; davacı sigorta şirketi, davalı ...
 Kağıt firmasının, sigortalının bulunduğu işyerinde katı atık toplama işi yaparken, kusuru ile deponun önünde bulunan pres makinesine bağlanmak istenen boş konteynırın pres makinesine çarpması ve geriye ittirmesi sonucu arka kısmındaki elektrik kablosunda yıpranma ve aşınma sonucunda kısa devre ve ark oluşarak yangının başladığını, davalı güvenlik firmasının da sigortalıya bilgi vermeden diğer davalının çalışma yapmasına müsaade etmesi sebebi ile sorumlu olduğunu iddia etmektedir. Sigortalı ile davalılar tacir olup aralarında hizmet sözleşmesi ve haksız fiil ilişkisi söz konusudur. Görevli mahkeme, ticaret mahkemesidir. Sigortalı, işyerinde kiracı olsa da; taraflar arasında kira ilişkisi olmadığından davalı vekilinin görev itirazının reddine karar verilmiştir. İstanbul İtfaiye Daire Başkanlığı Avrupa Yakası İtfaiye Müdürlüğü tarafından düzenlenen 06.06.2014 tarihli Yangın Raporunda özetle; ''3 katlı lojistik merkezinin 1. Katında ... San. Tic.
 
 ## İstanbul BAM 49. HD 2023/591 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/880480200)
 
 Somut olaydaki tarafların sözleşmelerinin irdelenmesinde 20/10/1999 tarihli İstanbul Dünya Ticaret Merkezi Kompleksi Yap-İşlet Devret Modeli ile Dört Yıldızlı Otel ve Kongre Merkezi İnşaat ve İşletme Sözleşmesi ,09/11/2011,06/07/2004 ve 31/07/2007 tarihli ek zeyilnameler iş bu sözleşmelerden sonra 24/07/2007 tarihli Bağımsız ve Daimi Üst Hakkı Kurma Sözleşmesi aktedildiği ve ... Ada, ... parsel sayılı taşınmazın 43.531,18 m2 lik
 
@@ -88,10 +112,14 @@ Dairemiz ilk derece mahkemesi kararını hem maddi olay, hem de hukuka uygunluk 
 
 ## İstanbul BAM 45. HD 2023/519 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/885316100)
+
 Her ne kadar, binanın yapımdaki bozukluktan dolayı zararın meydana geldiği iddiasıyla bina malikinin sorumluluğuna dayanılmış ise de bina maliki aynı zamanda kiralayan olup bina malikinin sorumluluğu temelde kira ilişkisinden kaynaklanmaktadır. Nitekim Yargıtay 17. Hukuk Dairesi'nin emsal kararlarında, davacı sigorta şirketinin, sigortalısının halefi olarak açtığı davada, sigortalı ile davalı arasındaki temel hukuki ilişkinin kira ilişkisi olması halinde, görevli mahkemenin Sulh Hukuk Mahkemesi olduğuna işaret edilmiştir. (Yargıtay 17. Hukuk Dairesinin 30/01/2017 tarihli, 2014/17930 E. 2017/720 K. sayılı ilamı) Yine sigorta şirketi tarafından, sigortalının halefi olarak açılan davada da, Yargıtay İçtihadı Birleştirme Kurulu'nun 22/03/1944 tarih E. 37, K. 9, RG. 03/07/1944 sayılı kararı ve TTK'nun 1472.maddesi uyarınca görevli mahkeme Sulh Hukuk Mahkemesidir.
 Öte yandan, davalı İSKİ yönünden her iki tarafın ticari işletmesi ile ilgili hususlardan doğan hukuk davaları nispi ticari dava niteliğinde olduğundan görevli mahkeme asliye ticaret mahkemesi ise de birden fazla mahkemenin görevli olduğu durumlarda yargılamanın özel mahkemede görülmesi gerektiği gözetildiğinde Sulh Hukuk Mahkemesi, Asliye Ticaret Mahkemesine göre özel durumda olduğundan davaya bakma görevi Sulh Hukuk Mahkemesine aittir.
 
 ## Kayseri BAM 3. HD 2023/571 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/874841800)
 
 Bina veya yapı eseri malikinin sorumlu tutulabilmesi için; yapım bozukluğu veya bakım eksikliğinden zararın doğması, yapım bozukluğu veya bakım eksikliği ile zarar arasında uygun illiyet bağının bulunması yeterlidir. Bina veya yapı eseri malikinin sorumluluğu bakımından bulunması zorunlu unsur olan illiyet bağı yönünden ise, bu bağın kesilmesine yol açacak sebeplerin somut olayda gerçekleşmemiş olması gereklidir. İlliyet bağını kesen sebepler ise; mücbir sebep, zarar görenin ya da üçüncü kişinin ağır kusurudur. Zarar, aradaki
 
@@ -100,10 +128,14 @@ AŞ (eldeki dava dosyasında davalı olan ...'a ticari paket sigorta poliçesi d
 
 ## İstanbul BAM 54. HD 2023/505 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/882194700)
+
 Taraflar da yargılama bitinceye kadar görev itirazında bulunabilirler. Görev itirazı yapılmamış olsa bile re'sen mahkeme, ilk önce görevli olup olmadığını inceleyip karara bağlamalıdır. Hukuki uyuşmazlıklarda Asliye Hukuk mahkemelerinin görevi asıl, Sulh Hukuk mahkemesinin görevi ise istisna olup, özel bir kanun hükmü ile açıkça Sulh Hukuk mahkemesinde bakılacağı bildirilmeyen bütün dava ve işler Asliye Hukuk mahkemesinde genel hükümlere göre görülecektir. HMK 4/a maddesi gereğince "kiralanan taşınmazların İcra İflas Kanununa göre ilamsız icra yoluyla tahliyesine ilişkin hükümler ayrık olmak üzere kira ilişkisinden doğan alacak davaları da dahil olmak üzere tüm uyuşmazlıkları konu olan davalar ile bu davalara karşı açılan davaların Sulh Hukuk Mahkemesinde" görüleceği düzenlenmiştir.
 Somut olayda araç kira sözleşmesinden kaynaklanan icra takibine yapılan itirazın iptalinin talep edildiği görülmekle, mahkemece Sulh Hukuk Mahkemesine görevsizlik kararı verilmesi gerekirken yazılı şekilde esastan karar verilmesi hatalı olup, istinaf sebeplerinin değişik gerekçe ile kabulünün gerektiği anlaşılmıştır.Dairemiz ilk derece mahkemesi kararını hem maddi olay, hem de hukuka uygunluk bakımından incelemeye tabi tutarak, tespit edilen yargılama hatalarını bizzat düzeltmek amacıyla yapılan inceleme sonunda; duruşma yapılmasına gerek olmadığı, mahkemece verilen kararın usul ve yasaya aykırı olduğu, HMK 353/1-a/3 maddesi gereğince davalı vekilinin istinaf başvurusunun göreve ilişkin olarak kabulü ile, mahkeme kararının kaldırılmasına, dosyanın mahkemesine gönderilmesine karar vermek gerekmiştir.
 
 ## İstanbul BAM 13. HD 2023/251 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/865111000)
 
 Asliye Ticaret Mahkemesi'nin 2022/845 Esas sayılı dosyasından ihtiyati tedbir talebinin reddine ilişkin verilen 08.12.2022 tarihli ara kararın istinaf incelemesi neticesinde kaldırılmasına, davacının kullanmakta olduğu ... plakalı ... marka araç ve ... plakalı ... marka
 
@@ -111,10 +143,14 @@ araçlara ilişkin aylık kira bedellerinin bilirkişi marifetiyle hesaplanarak 
 
 ## İstanbul BAM 36. HD 2023/284 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/866408300)
+
 Davanın tarafları arasında, ... plakalı araç için yapılan 25.10.2020 tarihli, ... plakalı araç için yapılan 16.03.2021 tarihli, ... plakalı araç için yapılan 16.03.2021 tarihli, ... plakalı araç için yapılan 24.12.2020 tarihli, ... plakalı araç için yapılan 25.11.2020 tarihli, ... plakalı araç için yapılan 09.11.2020 tarihli, ... plakalı araç için yapılan 25.11.2020 tarihli uzun süreli araç kiralama sözleşmesi olmak üzere 7 adet kira sözleşmesi akdedildiği hususunda bir uyuşmazlık bulunmamaktadır. 6100 sayılı HMK'nın 4/1-a maddesi gereğince kira ilişkisinden doğan alacak davaları da dâhil olmak üzere tüm uyuşmazlıkları konu alan davalar ile bu davalara karşı açılan davalara bakmak görevi Sulh Hukuk Mahkemelerine aittir. İncelenen dosyada, taraflar arasındaki uyuşmazlık TBK hükümleri kapsamındaki kira ilişkisinden kaynaklanmasına rağmen dava Asliye Ticaret Mahkemesinde görülerek sonuçlandırılmıştır.
 Mahkemece görevsizlik kararı verilerek dosyanın davanın Sulh Hukuk Mahkemesine gönderilmesine karar verilmesi gerekirken, işin esasının incelenerek yazılı şekilde karar verilmesi hatalı olmuştur.Görev hususu kamu düzenine ilişkin olup, yargı organlarınca yargılamanın her aşamasında re'sen dikkate alınması gerektiğinden, davalı vekillerinin istinaf başvurusunun HMK nın 355. Madde uyarınca görev nedeniyle kabulüne, HMK.353/1-a-3 maddesi gereğince ilk derece mahkemesi kararının kaldırılmasına ve dosyanın görevli mahkemeye gönderilmek üzere mahkemesine gönderimesine karar vermek gerekmiştir.
 
 ## Samsun BAM 6. HD 2023/287 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/868964800)
 
 Taraflar arasında 01.02.2018 tarihli 'Toplu Ulaşım Araçları Teleferik İşletmesi, Tekel Otopark İşletmesi içinde Dijital Bilgi Reklam Platformu Kurulması ve bu Platformların Reklam amaçlı İntifa Hakkının Sabit Getirili Kira Esasına Göre 5 yıl süre verilmesi işine ait sözleşmedir. Sözleşme hükümleri irdelendiğinde ihale konusu davacı ....tasarrufunda bulunan toplu ulaşım araçları, teleferik işletmesi ve tekel otoparkı işletmesi içinde bilgilendirme hizmetinin sağlanması kentsel hizmetlerin sunulması için Dijital Bilgi Reklam Platformu kurulması ve sağlanması kapsamında sabit getirili kira esasına göre 5 yıl süre ile intifa hakkı verilerek içerik ve reklam üretimi işi olarak tanımlanmıştır. Sözleşme süresi 5 yıl olarak belirlenmiş, yüklenicinin bu kullanım karşılığı ödeyeceği bedel de sözleşmede belirlenmiştir. Mahkeme gerekçesinde belirtildiği gibi karma nitelikte imzalanan bu sözleşmede kira ilişkisi de kurulmuş olup, taraflar arasındaki uyuşmazlık kira ilişkisine dayalı alacak, tazminat istemlerine ilişkindir. O halde somut olayda, uyuşmazlık kira ilişkisinden kaynaklanmaktadır.
 Davalar 6100 sayılı HMK'nın yürürlüğe girmesinden sonra açıldığına göre görevli mahkeme Sulh Hukuk Mahkemesidir. Görevle ilgili düzenlemeler kamu düzenine ilişkin olup, taraflar ileri sürmese dahi yargılamanın her aşamasında resen gözetilir. Taraflar da yargılama bitinceye kadar görev itirazında
@@ -123,10 +159,14 @@ bulunabilirler. Görev itirazı yapılmamış olsa bile re'sen mahkeme, ilk önc
 
 ## İstanbul BAM 36. HD 2023/79 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/858705600)
+
 Maddesinin uygulanmasına engel olduğunu, Bölge Adliye Mahkemesinin kararına atıfla davanın açılmamış sayılmasına karar verilemeyeceğine, sadece Sulh Hukuk Mahkemesinin görevli olduğunun tespitine karar verilebileceğinden ek kararının hatalı olup kaldırılmasını talep etmiştir.Dava; taşınır araç kira sözleşmesinden kaynaklı borçtan dolayı yapılan icra takibinden dolayı borçlu olunmadığının tespiti talebidir.6100 sayılı HMK’nun “Görevsizlik veya yetkisizlik kararı üzerine yapılacak işlemler” başlıklı 20. maddesinde;"(1) Görevsizlik veya yetkisizlik kararı verilmesi hâlinde, taraflardan birinin, bu karar verildiği anda kesin ise tebliğ tarihinden, süresi içinde kanun yoluna başvurulmayarak kesinleşmiş ise kararın kesinleştiği tarihten; kanun yoluna başvurulmuşsa bu başvurunun reddi kararının tebliğ tarihinden itibaren iki hafta içinde kararı veren mahkemeye başvurarak, dava dosyasının görevli ya da yetkili mahkemeye gönderilmesini talep etmesi gerekir.
 Aksi takdirde, dava açılmamış sayılır ve görevsizlik veya yetkisizlik kararı veren mahkemece bu konuda resen karar verilir." hükmü mevcut olup; dairemizin kesin nitelikteki kararı taraf vekillerine tebliğ edilmesine rağmen, taraf vekillerince yasal süresi içerisinde, dosyanın görevli mahkemeye gönderilmesine ilişkin dilekçe vermediğinden ilk derece mahkemesince verilen kararda bir hata bulunmamaktadır.İlk derece mahkemesinin 28/03/2022 tarihli ek kararında esası etkileyen bir usul hatası bulunmadığı, vakıa tespitlerinin tam ve doğru olarak yapıldığı, maddi hukuk normlarının doğru olarak uygulandığı, delillerin değerlendirilmesinde de usule aykırılık bulunmadığından H.M.K'nun 353/1-b-1 maddesi gereğince davacı vekilinin istinaf başvurusunun reddine karar vermek gerekmiştir.
 
 ## İstanbul BAM 45. HD 2023/112 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/864481400)
 
 Buna göre; davacı sigorta şirketinin sigortalısı hangi görevli ve yetkili mahkemede dava açacak ise, sigorta şirketinin de halefiyet gereğince, aynen sigortalı gibi o mahkemede dava açabileceğine işaret edilmiştir. Somut olayda; davacı sigorta şirketi, makine ve tesisat hasarı yönünden mülkiyeti ... Tekstil firmasına ait olduğu belirtilerek ... Tekstil firmasına yararına sigorta yaptırıldığından makine ve tesisat hasarları yönünden sigortalısının ... Tekstil firması, diğer zararlar yönünden ... firması olduğu, farklı alacak kalemleri yönünden ... firması ve ... firmasının halefi olarak, sigortalı iş yerine bitişik fabrikayı işleten ... Tekstil'e ait fabrika alanından, elektriksel bir ark sonucu başlayan yangının sigortalı iş yerine sirayet ettiği iddiası ile iş bu davaya açmıştır.
 Görüldüğü üzere, davalı ... maliki yönünden davalının tacir olmadığından görevli mahkemenin Asliye Hukuk Mahkemesi, kiracı işleten yönünden haksız fiil hükümleri kapsamında her iki taraf tacir olup, ticari işletmesi ile ilgili olduğundan ticaret mahkemesi olduğu, yargılamanın genel mahkemeye göre özel mahkeme niteliğinde olan ticaret mahkemesinde görülmesi gerektiğinden davalı vekilinin, görev itirazının reddine karar verilmiştir. 6100 sayılı HMK.'nun genel yetkiyi düzenleyen 6. maddesinin 1. fıkrasına göre; "Genel yetkili mahkeme, davalı gerçek veya tüzel kişinin davanın açıldığı tarihteki yerleşim yeri mahkemesidir”. Aynı Yasa'nın 7. maddesinde “Davalı birden fazla ise dava, bunlardan birinin yerleşim yeri mahkemesinde açılabilir. Ancak, dava sebebine göre kanunda, davalıların tamamı hakkında ortak yetkiyi taşıyan bir mahkeme belirtilmişse,
@@ -135,13 +175,19 @@ davaya o yer mahkemesinde bakılır.” hükmü, 16. maddesinde de "Haksız fiil
 
 ## İzmir BAM 6. HD 2023/11 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/855406600)
+
 Davanın açıldığı İzmir 13. Sulh Hukuk Mahkemesince sözleşmede kira sözleşmesi kapsamı dışında kalan düzenlemelerin olduğu, davanın da bu kısma ilişkin olduğu gerekçesi ile Asliye Ticaret Mahkemesi'ne görevsizlik kararı verilmiştir. Dosyanın gönderildiği İzmir 2. Asliye Ticaret Mahkemesince kira bedelinin tesbitinde alana yapılan yükleme ve boşaltmaların ton bazında ağırlıklarının esas alınmış olmasının tek başına sözleşme konusunu bu hizmetlerden biri haline getirmediğini, sözleşmenin ağırlıklı yönünün kira olduğu, gümrüksüz alana eşyaların indirilmesi, geri çıkarılması sırasında kullanılacak hizmetlerden dolayı alınacak ücretlerin kira sözleşmesinde düzenlendiği gerekçesi ile karşı görevsizlik kararı verilmiştir.
 
 ## İstanbul BAM 54. HD 2023/79 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/859194900)
+
 Dairemiz ilk derece mahkemesi kararını hem maddi olay, hem de hukuka uygunluk bakımından incelemeye tabi tutarak tespit edilen yargılama hatalarını bizzat düzeltmek amacıyla yapılan inceleme sonunda; duruşma yapılmasına gerek olmadığı, söz konusu davada temel ilişkinin taraflar arasındaki taşınır kira sözleşmesine dayalı olduğu iddiası nedeniyle uyuşmazlığın çözümünde görevli mahkemenin Sulh Hukuk Mahkemesi olduğu halde mahkemece görevsizlik kararı verilmesi gerekirken, işin esasına girilerek karar verilmiş olması sebebiyle mahkeme kararının yerinde olmadığı, istinaf sebebi yerinde olduğundan HMK 353/1-a/3 maddesi gereğince istinaf başvurusunun değişik gerekçe ile kabulüne karar vermek gerekmiştir.
 
 ## İstanbul BAM 43. HD 2023/38 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/869378600)
 
 6102 sayılı Türk Ticaret Kanunu'nun 4.maddesinde hangi işlerin ticari dava olarak nitelendirilecekleri belirlenmiş, 5.maddesinde Ticaret Mahkemeleri'nin kuruluşu ve hangi mahkemelerin Ticaret Mahkemesi sıfatıyla bakacağı belirlendikten sonra Asliye Ticaret Mahkemesi ile Asliye Hukuk ve diğer hukuk mahkemeleri arasındaki ilişkinin görev ilişkisi olduğu belirtilmiştir. Ticari davaları mutlak ticari davalar, nisbi ticari davalar, yalnızca bir ticari işletmeyle ilgili olması durumunda ticari nitelikte kabul edilen davalar olmak üzere üç grupta toplamak mümkündür. Mutlak ticari davalar, tarafların tacir olup olmadığına ve işin bir ticari işletmeyi ilgilendirip ilgilendirmediğine bakılmaksızın ticari sayılan davalardır. Mutlak ticari davalar, 6102 sayılı TTK'nın 4/1. maddesinde bentler halinde sayılmıştır. Bunların yanında Kooperatifler Kanunu (m.99), İcra İflas Kanunu (m.154), Finansal Kiralama Kanunu (m.31) gibi bazı özel kanunlarda belirlenmiş ticari davalar da bulunmaktadır. Bu guruptaki davaların ticari dava sayılabilmesi için taraflarının tacir olması veya ticari işletmeleriyle ilgili olması gibi şartlar aranmaz. TTK'nın 4/1. bendinde sınırlı
 

@@ -21,6 +21,8 @@ uyari: "Derleyenin seçtiği alıntılardır; kararın tamamı değildir. Künye
 
 ## İstanbul BAM 3. HD 2021/2112 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/674801000)
+
 Dava; adi ortaklıkta, temsil yetkisine sahip ortağın, bu yetkisinin kaldırılması ile yeni temsilci atanması istemine ilişkindir.
 
 …
@@ -29,6 +31,8 @@ Haklı sebepler, özellikle yönetici ortağın görevini aşırı ölçüde ihm
 Öte yandan ileri sürdüğü bir olaydan kendi yararına haklar çıkarmak isteyen kimse iddia ettiği olayı kanıtlamakla yükümlüdür. (Yargıtay 3.Hukuk Dairesinin 2018/5411E.- 2019/1718 K.) Söz konusu davada adi ortaklığa kayyım atanmasına konu iddialara yönelik talep hakkında yaklaşık ispata dair delillerin sunulmadığı, bahsi geçen senet ve takiplere davalının kötüniyeti ile sebep olduğuna ilişkin iddianın yargılama ve bu süreçteki sunulacak tüm delillerle ayrıca değerlendirilmesi gerektiği gözetilerek, mahkemenin kayyım atanmasına dair ihtiyati tedbir talebinin reddi kararı usul ve hukuka uygun bulunmuştur. Bu itibarla, ilk derece mahkemesince verilen kararda mahkemenin vakıa ve hukuki değerlendirmesi bakımından usul ve esas yönünden yasaya aykırı bir durum bulunmamasına göre, istinaf eden davacının istinaf başvurusunun HMK 353/1-b-1 maddesi uyarınca reddine karar verilmesi gerekmiştir.
 
 ## Bursa BAM 5. HD 2021/879 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/771997800)
 
 Dava, dava dışı şirkette gizli ortak olunduğu iddiasına dayalı olarak şirket paylarının değerinin davalıdan tahsili istemine ilişkindir.
 
@@ -40,11 +44,15 @@ Kurumu ile münasebet tesis icap ettiğinde bu hususta yapılması gereken büt�
 
 ## İstanbul BAM 13. HD 2021/595 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/649617900)
+
 9822 K.) Sonuçta dosya içeriğinde hisse satış sözleşmesi, hisseler üzerindeki adi ortaklığı ispat eden taraflarca imzalanmış yazılı deliller, e-mail yazışmaları ve bir dizi belge mevcut olup söz konusu hisseler üzerinde müvekkillerinin de hakkı olduğu, davalı ... ile müvekkilleri arasında adi ortaklık ilişkisinin kurulduğu ve bu adi ortaklık ilişkisinin sonlandırılması için görüşmeler gerçekleştirildiği, ancak anlaşma sağlamaması üzerine ortaklığın sonlandırılamadığını, o halde adi ortaklığın mameleki olmasına rağmen davalı taraf üzerinde görünmekte olan bu hisselerin başkalarına devrinin önüne geçebilmek adına yargılamanın sonunu beklemeden ihtiyati tedbir kararı verilmesi gerektiğini, zira aksi takdirde ilk derece mahkemesi tarafından yapılacak inceleme sonucu verilecek olan kararda, hükmün infaz kabiliyeti de ortadan kalkacak olup müvekkillerinin uğrayacağı maddi zararların ve bu riskin önüne geçilebilmesi adına ihtiyati tedbir kararının verilmesi gerektiğini, Müvekkilleri ile davalının yaklaşık 40 yıldır beraber hareket etmekte ve ortaklaşa ticari faaliyetler yürüttüklerini, Müvekkillerinin alacaklarının; ... ve ... hisse satışından doğan birlikte toplam 14.570.596,38 USD ve
 ...'den cari hesap kaydından görülen birlikte 2.238.806 USD tutarındaki net alacakları da ilave edildiğinde toplam 16.809.402,38 USD olduğunu, Her iki müvekkilinin hisselerinin satışından cari hesap yoluyla tahsil ettikleri tutarın toplam 907.090,47 USD + 557.810,07 USD = 1.464.900,54 USD olduğunu, Müvekkillerine hisseleri karşılığında yapılan ödemeler toplamının, 1.464.900,54 USD + nakdi ödeme olarak 7.766.423 USD = 9.231.323,54 USD olduğunu, Yukarıda kayıt ve hesapları detaylı olarak açıklandığı üzere her iki müvekkilinin net hisse satış bedeli ve ...'den olan alacakları toplamı 16.809.402,38 USD olması gerekirken, kendilerine toplam 9.231.323,54 USD ödeme yapıldığı ve müvekkillerinin toplam 7.578.078,84 USD alacaklı kaldığını, alacağın tamamının davalı ...'dan olduğunu, Ortaklıkların giderilmesi konusunda davalı ...'ın olmazsa olması ... ve ... unvanlı şirketlerin hisselerinin kendisinde kalması noktasında olup, bütün paylaşım görüşmelerinde ortaya koymuş olduğu palanlarda öncelikle adı geçen iki şirket hisseleri ve diğer şirketlerdeki bir miktar hissenin kendisine bırakılması şeklinde teklifler yer aldığını, Söz onusu müzakerelere ilişkin yazı tekliflerinden de görüleceği
 üzere, davalı ... uhdesinde olmasına karşın ... ve ...
 
 ## Konya BAM 6. HD 2021/253 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/715781100)
 
 Dava dosyası üzerinde yapılan bilirkişi incelemesi sonucu bilirkişi O.C tarafından tanzim edilen 06/11/2018 havale tarihli raporun sonuç bölümünün 2. maddesinde; davacının 2014 yılı başı itibariyle 158.000,00 TL ve 2016 yılında 60.000,00 TL'yi ortaklık hesabından çektiği, 3. maddesinde ise davalının aynı şekilde 2014 yılı başı itibariyle 158.000,00 ve 2016 yılında 60.00,00 TL'yi ortaklık hesabından çektiği, ayrıca davalının 2017 yılı sonuna kadar 138.341,00 TL para çektiği belirtildikten sonra 21/12/2015 tarihinden sonra davacının 60.000,00 TL, davalı ...'in ise 138.341,00 TL çektiği belirtilerek ayrıca 2014 - 2015 - 2016 - 2017 yıllarında - ... Adi Ortaklığı'nın elde ettiği karın dağıtıldığına ilişkin bir kayıt tespit etmediği belirtilmiştir.
 
@@ -53,6 +61,8 @@ mahkemesi kararının kaldırılmasına, HMK'nın 353/1.b.2.maddesi gereğince y
 
 ## İstanbul BAM 3. HD 2020/994 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/599860300)
+
 Kaldı ki, Yerel Mahkeme tarafından teminat senedi olduğu kabul edilen 31.12.2011 tarihli bono dava konusu bile değilken bu yönde değerlendirmeler yapılması hatalı olmuştur. 31.12.2011 tarihli bono dava konusu bile olmadığından, teminat senedi vasıfları taşımadığından ve davacı tarafından söz konusu senedin teminat senedi olduğu yazılı olarak ispatlanamamış olduğundan , Mahkeme kararındaki bu gerekçenin karardan çıkartılarak Mahkeme kararının düzeltilmesi istenmiştir. ...nun 355. maddesi uyarınca, ileri sürülen istinaf sebepleri ile sınırlı olarak yapılan inceleme sonucunda; dava,inşaat ortaklığı (adi ortaklık) sebebiyle verildiği iddia edilen senetlerle ilgili olarak yapılan icra takiplerinde, davacıların menfi tesbit talebine ilişkindir Dosyadaki bilgi ve belgelere göre ,taraflar arasında uyuşmazlığı doğuran hukuki ilişkinin adi ortaklık sözleşmesinden kaynaklandığı,dava ve takip konusu bonoların ,adi ortaklık sözleşmeleri ve ilişkileri sebebiyle verilen senetler olduğu anlaşılmaktadır.
 
 Ne var ki ,mahkemece adi ortaklığa konu inşaatın hangi seviyede olduğu araştırılmamış,yapılan ödeme ve verilen senetlerin adi ortaklık işlerine ilişkin olduğu, davalının ilk ödemesinin adi ortaklığa giriş için yapması gereken ödeme olduğu, diğer ödeme veya senetlerin adi ortaklık harcamalarına ilişkin bulunduğu iddia edilmesine ve belediyenin ruhsat iptali sebebiyle inşaatın sürdürülemediği de (adi ortaklığın sona erdiğ) iddia edilmesine rağmen, adi ortaklığın sona erip ermediği,davalının ortaklığa giderken verdiği parayı istemesinin adi ortaklığın feshini talep ettiği sonucunu doğurup doğurmadığının mahkemece değerlendirilmediği anlaşılmıştır.Mahkeme senetlerin malen,nakden kaydı ve isbat yükü üzerinde durmuş,senetlerin veriliş sebeplerini ,yapılan ödemeleri değerlendirmemiştir.Adi ortaklığın sona erdiğinin tesbiti halinde 6098 sayılı BK’nın 644. ve devamındaki adi ortaklık ve tasfiye hükümlerine göre sözleşme de dikkate alınarak tasfiyenin mahkemece yapılması gerekir -Kabule göre de ;davacılar vekili 15/02/2017 tarihli dilekçesi ile "Huzurda görülen davaya konu icra dosyası borcu, davalı alacaklı tarafa tamamen ödenmiş olup , dava istirdat davası olarak devam edecektir."şeklinde
@@ -60,12 +70,16 @@ beyan ve talepte bulunmasına rağmen mahkemece bu talep değerlendirilmemiş,me
 
 ## İstanbul BAM 3. HD 2020/913 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/596555600)
+
 O halde mahkemece, davanın reddine karar verilmesi gerekirken yazılı şekilde hüküm tesisi usul ve yasaya aykırı olup bozmayı gerektirir." denildiğini,kararda ıslah tarihi yerine davanın tamamına dava tarihinden itibaren faize hükmedilmesinin de hatalı olduğunu belirterek kararın kaldırılmasını istemiştir. Somut davada davacının sunduğu adi ortaklık sözleşmesinin 1.sayfasında tarafların imzasının bulunmadığı, 2.sayfasında ise ortaklığın diğer hükümlerinin de açıklığa kavuşmadığı,davalının da böyle bir sözleşme ve davacı ile adi ortaklık bunuduğunu açıkca kabul etmediği görülmektedir. TMK'nun 6.maddesinde "Kanunda aksine bir hüküm bulunmadıkça, taraflardan her biri, hakkını dayandırdığı olguların varlığını ispatla yükümlüdür", HMK'nun 190.maddesinde "İspat yükü, kanunda özel bir düzenleme bulunmadıkça iddia edilen vakıaya bağlanan hukuki sonuçtan kendi lehine hak çıkaran tarafa aittir. " Kural olarak, adi ortaklık ilişkisinin geçerliliği herhangi bir şekle bağlı değildir. Ancak, ihtilaf çıktığında, adi ortaklık ilişkisinin varlığını ispat yükü iddia eden düşer.
 Bu iddiayı ileri süren taraf, adi ortaklık ilişkisi bir sözleşme olduğundan, iddiasını HMK. md.200 gereğince senet (kesin delil) ile ispat etmelidir. Bu yazılı delil, tarafların getirecekleri ve onların imzalarını taşıyan bir belge olmalıdır. Davacı tarafça dosyaya sunulmuş adi ortaklık sözleşmesinin 1.sayfasında davalının imzasının bulunmadığı anlaşılmıştır. Davalı taraf ise, aralarında bir sözleşme ve adi ortaklık bulunduğunu kabul etmemiştir. Türk Borçlar Kanunu hükümlerine göre, adi ortaklık sözleşmesinin yazılı şekilde yapılması şekil şartı olmasa da, ispat koşulu yönünden önemlidir. Taraflar arasındaki adi ortaklığın varlığının tespiti yargılamayı ve yazılı delil ile ispatı gerektirmekte olup, taraflarca dosyaya ibraz edilmiş tüm nüshaları taraflarca birlikte imzalanmış yazılı bir ortaklık sözleşmesi bulunmadığı görülmüştür. Bu durumda davacının ispat delilleri açısından açıkça yemin deliline de dayanmadığı görüldüğü gibi, davanın tanık ile ispatlanması söz konusu değildir.
 
 Davacı adi ortaklığın varlığını usulünce ispat edememiştir.Sözleşmenin tüm nüshalarının sözleşme taraflarınca imzalanması gerektiğinden,sunulan sözleşmenin 1.sayfası bu niteliği taşımayıp geçersiz olduğundan,davacı yemin deliline de dayanmadığından ,davanın reddi gerekirken davanın kabulüne karar verilmesi usul ve hukuka uygun bulunmamıştır. Buna göre , davacının yerinde görülmeyen istinaf başvurusunun HMK 353/1-b-1 maddesi uyarınca reddine, davalının istinaf talebinin ise kabulü ile karar HMK 353/1b-2.madde gereği düzeltilerek "Davacının davasının reddine" dair yeniden esas hakknıda karar verilmesi gerekmiştir.
 
 ## İstanbul BAM 3. HD 2020/896 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/599796200)
 
 İcra ve İflâs Kanunu'nun 258’inci maddenin 1’nci fıkrası uyarınca, …
 

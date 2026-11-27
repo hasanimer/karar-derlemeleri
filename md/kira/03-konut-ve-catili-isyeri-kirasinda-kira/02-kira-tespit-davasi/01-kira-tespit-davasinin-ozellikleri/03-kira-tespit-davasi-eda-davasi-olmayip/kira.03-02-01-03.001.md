@@ -30,9 +30,13 @@ Gayrimenkul kiraları Hakkında 6570 sayılı Kanunun 2 ve 3. maddelerinin iptal
 
 ## Yargıtay 12. HD 2019/3733 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/501573000)
+
 Takibe dayanak ilamın incelenmesinde yargılama gideri ve vekalet ücreti dışında eda hükmü içermediği, aylık kira bedelinin tespitine ilişkin olduğu, **eda hükmü içermeyen iş bu kira tespitine ilişkin kalemin ilamlı icraya konu edilemeyeceği** bu hususun re’sen gözetilmesi gerektiği anlaşılmakla vekalet ücreti ve yargılama gideri dışındaki kalemler yönünden ilamlı icra takibinin iptaline karar verilmesi gerekirken yazılı şekilde hüküm tesisi isabetsiz olup kararın bozulmasını gerektirmiştir.
 
 ## Yargıtay 8. HD 2018/2834 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/410107500)
 
 Davacı alacaklı, ... 2. Sulh Hukuk Mahkemesi'nin 2015/891 Esas ve 2016/330 Karar sayılı, 09/03/2016 günlü tespit ilamına dayanarak 05/05/2016 tarihinde başlattığı icra takibi ile 103.600,00 TL kira, 15.817,00 TL vade farkı, 183,58 TL tespit dava harcı, 399,60 TL tespit davası yargılama gideri olmak üzere toplam 120.000,18 TL alacağının
 
@@ -43,6 +47,8 @@ tahsilini talep etmiş, davalı borçlu süresinde verdiği itiraz dilekçesi il
 **edilebilir**. Tespit ilamının eda hükmü içeren yargılama giderlerine ilişkin bölümü ise ilamlı icraya konu edilmesi gerekir. Mahkemece yukarıda izah edilen hususlar dikkate alınarak işin esası incelenip sonucuna göre karar verilmesi gerekirken yazılı gerekçe ile davanın reddine karar verilmesi doğru değildir.
 
 ## Yargıtay 8. HD 2016/6720 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/211403300)
 
 Somut olayda,... İcra Dairesi'nin takip dosyasının incelenmesinde, alacaklının birikmiş kira bedelleri ve işlemiş faizleri ile birlikte, dayanak ilamın ferileri niteliğinde olan yargılama gideri ve vekalet ücretini de takibe koyduğu görülmektedir.
 

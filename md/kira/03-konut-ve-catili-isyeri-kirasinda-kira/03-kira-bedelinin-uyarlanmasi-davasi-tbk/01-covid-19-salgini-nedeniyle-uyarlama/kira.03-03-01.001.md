@@ -21,6 +21,8 @@ uyari: "Derleyenin seçtiği alıntılardır; kararın tamamı değildir. Künye
 
 ## Yargıtay 3. HD 2025/964 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1142281200)
+
 Covid-19 salgın hastalığı sebebiyle alınan **idari yasak ve tedbirlerin etkin olduğu dönemle sınırlı olmak üzere**, davacı kiracının 6098 sayılı Kanun'un 138. maddesi uyarınca 2020 yılının Mart ayının 2. yarısından itibaren, uyarlamaya dayalı olarak kira bedelinin tenzili talepli dava açmakta haklı bulunduğu gözetilmek suretiyle, makul ve hakkaniyete uygun olarak bilirkişi raporuyla belirlenen kira bedelinden, fazla yapılan ödemenin iadesi talebinin kabulüne karar verilmesi gerekirken…
 
 ## Yargıtay 3. HD 2026/1594 K.

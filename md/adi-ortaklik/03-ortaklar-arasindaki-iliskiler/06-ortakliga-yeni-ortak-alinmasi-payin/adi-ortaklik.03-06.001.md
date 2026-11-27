@@ -21,6 +21,8 @@ uyari: "Derleyenin seçtiği alıntılardır; kararın tamamı değildir. Künye
 
 ## Yargıtay HGK 2023/868 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/958993500)
+
 Adi ortaklıkta ortaklar arası ilişki karşılıklı ... ve iyiniyet temeline dayandığı için TBK’nın 632/1 inci maddesi gereğince ortaklığa, yeni bir ortak alınması, bütün ortakların rızasına bağlıdır. Ortaklardan biri tek taraflı olarak bir üçüncü kişiyi ortaklıktaki payına ortak eder veya payını ona devrederse, bu üçüncü kişi ortaklık sıfatını kazanamaz (TBK md. 632/2). Bu itibarla ortaklardan birisinin payının tamamını ve bir kısmını devredebilmesi için iki koşulun birlikte gerçekleşmesi gerekmektedir. Öncelikle ortaklardan birisinin payının tamamını veya bir kısmını devredebilmesi için devralan ile arasında bir devir sözleşmesi yapılması gerekmektedir. Bu devir sözleşmesi alacağın devri hükümlerine tabi olup TBK’nın 184/1 inci maddesi gereğince yazılı şekilde yapılması gerekir.
 
 Adi ortaklıkta ortaklardan birisinin payının tamamını veya bir kısmını devredebilmesinin ikinci koşulu ise diğer bütün ortakların rızasının bulunmasıdır. Başka bir ifadeyle adi ortaklıkta payın devrinin ortağa ve ortaklara karşı geçerli olabilmesi için, diğer bütün ortakların pay devrini oy birliği ile onaylaması gerekir. Dolayısıyla payın devri ister tam devir ister kısmi devir olsun, diğer ortakların muvafakati olmadan mümkün olmaz.
@@ -29,9 +31,13 @@ Adi ortaklığın sona ermesi ise TBK’nın 639 uncu maddesinde düzenlenmişti
 
 ## Yargıtay 6. HD 2025/1170 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1143281200)
+
 Taraflar arasında imzalanan sözleşmenin 22/3. maddesinde sözleşmenin devir ve temlikine ilişkin hususlar yer almakta olup adi ortaklıkta ortaklardan birinin ortaklık payını devri hususu iş sahibinin iznine tabi tutulmuştur. Yüklenici taraf ortak girişim grubu olduğuna göre kendi aralarında ortaklığı devretmesi taraf teşkiline ilişkin olduğundan ve Hukuk Muhakameleri Kanunu'nun 114. maddesi uyarınca taraf teşkili dava şartı olduğundan yargılamanın her aşamasında mahkemece resen gözetilmelidir. Bu itibarla mahkemenin gerekçesinin aksine önceki bozma ilamıyla taraf teşkili yönünden usuli müktesep hak oluşması düşünülemez. Mahkemece yapılacak iş, sözleşmenin yukarıda belirtilen maddesi gereğince devir yapılıp yapılmadığı hususunun araştırılarak sonucuna göre karar vermekten ibarettir. Aksi düşünce ve yanılgılı gerekçeyle karar verilmesi doğru görülmemiş hükmün bu nedenle bozulması gerekmiştir.
 
 ## Yargıtay 11. HD 2024/7167 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1089198600)
 
 İlk Derece Mahkemesince, 6102 sayılı Kanun'un 640 ıncı maddesinin üçüncü fıkrası uyarınca açılıp görülen asıl davada; ortaklıktan çıkarma talep hakkının münhasıran şirkete ait olduğu, diğer ortakların mevcut yasal düzenlemeye göre ortaklıktan çıkarma talep hakkı olmadığından asıl davanın ve karşı davanın aktif husumet nedeni ile reddi gerektiği, karşı davacılar karşı davalının şirketi zarara uğrattığı iddiası ile tasfiye payına ilişkin takas mahsup talebinde bulunmuş iseler de zarar söz konusu olsa bile bu zararın şirkete ait olduğu, bu durumda da şirketin ancak takas mahsup talebinde bulunabileceğinden takas definin reddi gerektiği, birleşen dava yönünden davalı şirkete %50 oranında ortak davacının öncelikle davalı şirketin 6102 sayılı Kanun'un 636 ncı maddesinin ikinci fıkrasına göre organsız kalması sebebi ile feshine istemiş ise de Kocaeli 1.Asliye Ticaret Mahkemesi'nin 2016/885 esas sayılı dosyası ile ...'ün müdür olarak atanmasına ilişkin genel kurul kararın tesciline ilişkin mahkeme kararının kesinleşmesi sebebi ile şirketin organsız kalmadığı anlaşıldığından anılan madde kapsamında değerlendirme yapılmadığı, şirketin ekonomik durumuna ilişkin alınan bilirkişi raporunda
 davalı şirketin öz kaynak tutarının yeterli olduğu, sermaye kaybı ve borca batıklık durumunun gerçekleşmediği, şirketin feshini gerektirecek mali bir tabloya sahip olunmadığı hususlarının belirtildiği, esas olanın şirketin devamlılığının sağlanılması olup, ekonomik değer taşıyan şirketin feshi yerine şirketi ayakta tutacak diğer çözüm yollarının hakimce değerlendirilmesi zorunlu olduğu, bu sebeple 6102 sayılı Kanun'un 636 ncı maddesinin üçüncü fıkrası kapsamında fesih talebinin reddi gerektiği, ortaklar arasında ciddi anlaşmazlıkların bulunduğu, birlikte çalışmalarını ciddi şekilde güçleştiren olayların meydana geldiği ve bu durumun limited şirketten çıkmak için haklı bir sebep oluşturacağı, asli müdahil olan ortakların davacının ortaklıktan çıkmasına ilişkin talepleri yönünden yapılan değerlendirmede; bir ortağın mahkeme kararı ile ortaklıktan çıkarılmasına ilişkin dava açma hakkı şirkete tanınmış bir hak olduğundan ortakların buna ilişkin taleplerinin reddedildiği, asli müdahillerin aynı zamanda davacının ortağı olduğu müşterek şirkete vermiş olduğu zararların tespiti ile tahsili talep edilmiş ise de dava konusunun şirketin feshi olması, asli müdahilin dava konusu hak veya şey
@@ -39,15 +45,21 @@ davalı şirketin öz kaynak tutarının yeterli olduğu, sermaye kaybı ve borc
 
 ## Yargıtay 11. HD 2019/5905 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/535410500)
+
 Yargıtay ilamında benimsenen gerektirici sebeplere, 31.12.2012 tarihli adi ortaklık payı devri sözleşmesine dava dışı ortağın muvafakatının bulunmaması nedeniyle hisse devrinin geçersiz olmasına, dava dışı ortak tarafından adi ortaklığın feshinin ihbarı karşısında davacı tarafından feshin geçersizliği konusunda açılmış bir dava bulunmamasına göre, asıl ve birleşen davada davacı vekilinin HUMK 440. maddesinde sayılan hallerden hiçbirini ihtiva etmeyen karar düzeltme isteğinin reddi gerekir.
 
 ## Yargıtay 3. HD 2014/4859 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/88320200)
 
 MK'nun 6.maddesi gereğince "Kural olarak, herkes iddiasını ispat etmekte mükelleftir." Davacı M.. K.. murisine aralarındaki adi ortaklıkta bulunan %50 hissesinden %30'unu devrettiğini ve bedelin 150.000 TL olduğunu iddia etmiş ise de bu iddiasını kanıtlayamamıştır. Davalıların hisse devrinin bedelsiz olduğunu savunmaları karşısında , davacının murisine yaptığı hisse devrinin 150.000 TL bedelle olduğu noktasında ispat külfeti davacı taraftadır.
 
 Hal böyle olunca; mahkemece, MK'nun 6.maddesi hükmü gereğince davacının iddiasını tanık dahil her türlü delil ile ispatlayabileceği gözönünde bulundurulmalı,hükme esas alınan bilirkişi raporunda da belirtildiği üzere, davacı tarafın dava konusu adi ortaklığın diğer ortağı olan Ş.. A..'in muris M..'ya daha önce devrettiği hisse bedelleri hakkında, dosyaya ibraz etmiş olduğu hesap ekstreleri ile belirtilen tarihlerdeki banka dekontlarının ilgili banka ya da bankalardan ayrıntılı ve açıklayıcı olacak şekilde dosyaya ibrazı da sağlanmalı ve bu şekilde davacının murisi (annesi) M... ile aralarındaki adi ortaklıkta bulunan %30 hissesini 150.000 TL bedelle devredip devretmediği hususunda tüm delilleri toplanarak oluşacak sonuç dairesinde bir hüküm kurulması gerekirken, yazılı şekilde hüküm tesisi doğru görülmemiş, bozmayı gerektirmiştir.
 
 ## Yargıtay 3. HD 2014/3818 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/88075900)
 
 Dava, tarafların kurdukları adi ortaklıktan kaynaklanan kâr payının tahsili istemine ilişkindir.
 
@@ -57,14 +69,20 @@ Davalılar davacının hisse devrinin Ö.. Ç.. adındaki kişiye yapıldığın
 
 ## Yargıtay 13. HD 2010/4 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/694569800)
+
 Hisse devrine ilişkin protokoller bir bütün olarak değerlendirildiğinde protokol tarihi itibariyle ortaklığın Karayolları Genel Müdürlüğünün aleyhine açtığı tazminat davası derdesttir. Bu davanın kısmen kabulüne ilişkin verilen karar ortaklık lehine sonuçlanması olasılığı mevcuttur. İşte bu protokoller ile davacı ortaklık lehine açılan davadaki tüm riskleri üstlenerek hisse devrini gerçekleştirmiştir. Davacı, bu bağlamda protokol aktedildikten sonra Karayolları Genel Müdürlüğü ile 3.3.2008 tarihinde adi ortaklığın konusunu oluşturan otoyol yapımı ile ilgili olarak toplantıya katıldığı gibi, Karayolları Genel Müdürlüğü aleyhine açılan davanın mürafasına adi ortaklığı temsilen iştirak edilmiştir. Hal böyle olunca davacının ek protokolünün 2.maddesinde ihlal ettiğinin kabulü ile hisselerin iade hakkını kaybettiğinden sayın çoğunluğun onama kararına katılmıyoruz. 07.01.2010 …
 
 ## Yargıtay 13. HD 2009/808 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/830889300)
 
 Davacıların murisi ile ortaklık adına davalı ... arasında düzenlenen tarihsiz sözleşme ile davacıların murislerinin Yalçındağ Konut Yapı Ortaklığına hissedar olduğu ve bu ortaklık adına ödemeler yaptığı uyuşmazlık konusu değildir. Davacılar, yapı ortaklığında kendilerine karşı idareci ortak konumunda olan müteahhit davalıların arsa maliki ile imzaladıkları kat karşılığı inşaat sözleşmesini kendilerinin onayı olmadan feshetmeleri ve inşaatı yarım bırakmaları nedeniyle uğramış olduğu zararın ödetilmesini istemiştir. Ortaklık nedeniyle davacıya daire ya da tapuda arsa payı verilmediği, müeahhitlerle arsa sahibi arasındaki sözleşmenin feshedildiği anlaşıldığına ve davacı da ortaklıktan ayrılma yönündeki iradesini açıkladığına göre BK 535 ve devamı maddeleri gereğince, yapı ortaklığının özel hukuki yapısı gözardı edilmeden ve davada taraf olmayan diğer ortaklar arasındaki menfaat dengelerinin korunması suretiyle davacının talep edebileceği miktarın hesaplanması gerekir.
 Kural olarak, yapı ortaklığı sözleşmesi, yaptığı ödemeler ve inşaatların davalılar arasındaki sözleşmenin fesih tarihi itibarıyla mevcut seviyesine göre ödenmesi gerekli olan toplam miktarı ... olması halinde,uğramış olduğu zararının yaptığı ödemelere oranla karşılanması zorunludur.Buna göre yapı ortaklığı sözleşmesine, ödenmesi gereken aylık aidat miktarlarına, ödemelerin süresine ve inşaatların seviyesine göre davacının ödemekle yükümlü olduğu toplam aidat miktarları belirlenmeli, inşaatların fesih tarihindeki seviyesine ve yapılan ödemelere orantılı olarak rayiç değere hükmedilir.Ancak davacılar fazlaya ilişkin haklarını saklı tutarak yaptığı ödemeleri faiziyle talep ettiği de göz ardı edilmemelidir.Mahkemece, yapı ortaklığı sözleşmesinin adi ortaklık olduğu ve davacının bu ortaklıktan çıkma iradesini ortaya koyarak tasfiye istediği gözetilmeden yazılı şekilde hüküm tesisi usul ve yasaya aykırı olup bozmayı gerektirir.
 
 ## Yargıtay 13. HD 2007/14790 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/842618000)
 
 Borçlar Kanununun 520. ve devamı maddelerine göre, adi ortaklıkla ortakların birbirlerini ortaklıktan çıkarma hakları bulunmadığından, davalılar ... ve ... tarafından yukarda sözü edilen 30.6.2002 tarihli, davacının adi ortaklıktan çıkarılmasına ilişkin olarak verilen kararın geçersiz olduğu, sözü geçen kararın sadece davacının ortaklığa ilişkin idarecilik yetkilerinin, diğer iki ortak tarafından alınması şeklinde yorumlanabileceği, ortaklığın mahkeme kararı ile fesih ve tasfiyesinin yapılacağı tarihe kadar adi ortaklıktan doğan hak ve yükümlülüklerin devam edeceği, daha önce ortaklığın fesih ve tasfiye edildiği de ispat edilemediğinden, davacının talebi gereğince ... bu davada ortaklığın fesih ve tasfiyesine karar verilmesi gerektiği anlaşılmakta olup, mahkemece de ortaklığın tasfiyesine karar verilmekle birlikte, hükme esas alınan 20.3.2006 tarihli bilirkişi raporunda ortaklığın basit usulde defter tuttuğundan bahisle faturalardan sorumluluk tesbitinin mümkün olmadığı belirtilerek, davacının bankadan çektiği ortaklığa ait paraların inşaata harcandığı kabul edilmiş, arsalar satın alınırken yaptığı ödeme miktarına göre davacının taşınmazdaki 1/4 hisse miktarı olan 33.865.057.137 …
 

@@ -21,4 +21,6 @@ uyari: "Derleyenin seçtiği alıntılardır; kararın tamamı değildir. Künye
 
 ## Yargıtay 3. HD 2017/17142 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/385476500)
+
 Tahliye davaları aynı dava içinde birden fazla sebebe dayanılarak açılabilir. Bu sebeplerden bir kısmı sabit görülerek davanın kabulüne karar verilmesi halinde reddedilen sebeplerden dolayı ayrıca davalı yararına vekalet ücreti verilmez.

@@ -21,17 +21,25 @@ uyari: "Derleyenin seçtiği alıntılardır; kararın tamamı değildir. Künye
 
 ## Yargıtay HGK 2023/51 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/919416200)
+
 Yeni malikin gereksinim nedeniyle dava açma hakkı 6570 sayılı Kanun 7 nci maddesinin birinci fıkrasının (d) bendinde düzenlenmekte iken TBK’nın 351 inci maddesinde düzenlenmiştir. Buna göre: “Kiralananı sonradan edinen kişi, onu kendisi, eşi, altsoyu, üstsoyu veya kanun gereği bakmakla yükümlü olduğu diğer kişiler için konut veya işyeri gereksinimi sebebiyle kullanma zorunluluğu varsa, edinme tarihinden başlayarak bir ay içinde durumu kiracıya yazılı olarak bildirmek koşuluyla, kira sözleşmesini altı ay sonra açacağı bir davayla sona erdirebilir.
 
 ## Yargıtay HGK 2021/1266 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/720115200)
 
 Hukuk Genel Kurulundaki görüşmeler sırasında, mahkemenin ilk kararında davacının yeni malik olduğu kabul edilmediği gibi direnme kararında da kabul edilmediği, her iki kararda da kiralananın kira ilişkisi kurulduktan sonra el değiştirdiği kabul edilmeyerek sonuca gidildiği, Özel Dairece, davacının yeni malik olduğu kabul edilerek bozma kararı verilmesi üzerine önceki gerekçelere ilaveten davacının, yeni malik olduğunu belirterek kiracıya gönderdiği bir ihtar bulunmadığından söz edilmesinin önceki gerekçeyi güçlendiren ilave gerekçe niteliğinde olduğu, bu nedenle yeni hükümden söz edilemeyeceği ve ön sorun bulunmadığı görüşü ileri sürülmüş ise de bu görüş Kurul çoğunluğu tarafından benimsenmemiştir.
 
 ## Yargıtay HGK 2021/411 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/686358100)
+
 Kira sözleşmesi yapıldıktan sonra kiralanan üzerinde mülkiyet hakkını kazanan yeni malikin kira sözleşmesinin taraf olacağının açıkça kabul edilmesi, buna karşılık intifa hakkının sona ermesinde mevcut malik bakımından bu hukukî sonucun kabul edilmemesi, kiracının korunması amacıyla bağdaşmadığı gibi, adaletsiz sonuçların doğmasına da sebep olabilecektir. Bu nedenle intifa hakkının sona ermesi ve malikin kullanma ve yararlanma yetkilerine kavuşması durumunda, malikin, kira sözleşmesinin tarafı olacağını kabul etmek gerekir.
 
 ## Yargıtay HGK 2009/98 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/16788900)
 
 6570 Sayılı Yasa kapsamına giren bir taşınmazı iktisap eden kimse dilerse eski malik ile kiracı arasında yapılmış sözleşmeye dayanarak sözleşmenin sonunda, dilerse Yasanın 7/d maddesinde öngörülen sürelerden yararlanarak ihtiyaç nedeniyle tahliye davası açabilir. Yeni malikin bu seçeneklerden hangisi yararına ise onu tercih etme hakkı vardır. 6570 sayılı Yasanın 7/d maddesine dayanması halinde yeni malikin iktisap günü de dahil olmak üzere iktisap tarihinden itibaren bir (1) ay içinde kiralananı satın aldığını ve ihtiyacı, olduğunu kiracıya bildirmesi ve yine iktisaptan itibaren iktisap günü dahil altı (6) ayın sonunda dava
 
@@ -45,38 +53,56 @@ Karardan bir örneğin Bölge Adliye Mahkemelerinin hukuk dairelerine bildirilme
 
 ## Yargıtay 3. HD 2025/5039 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1183666900)
+
 6098 sayılı Kanun’un 351. maddesine dayanılarak yeni malikin gereksinimi sebebiyle açılan tahliye davasına konu İstanbul Bölge Adliye Mahkemesi 49. ve 54. Hukuk Dairelerinin kararları yönünden ise; 5235 sayılı Adlî Yargı İlk Derece Mahkemeleri İle Bölge Adliye Mahkemelerinin Kuruluş, Görev ve Yetkileri Hakkında Kanun’un 35. maddesi uyarınca, benzer olaylarda bölge adliye mahkemesi hukuk veya ceza dairelerince verilen kesin nitelikteki kararlar arasında ya da bu mahkeme ile başka bir bölge adliye mahkemesi hukuk veya ceza dairelerince verilen kesin nitelikteki kararlar arasında uyuşmazlık bulunması hâlinde bu uyuşmazlığın giderilmesinin istenebileceği, 351/1 maddesine dayanılarak açılan davalara ilişkin, her iki Daire kararının, dava açma süresinden önce arabulucuya başvurulmasında yasal engel bulunmadığı yönünde olduğu, Bölge Adliye Mahkemesi hukuk dairelerinin yeni malikin gereksinimi sebebiyle açılan davada verilen kesin nitelikte verilen kararları arasında farklı uygulamalar içeren bir uyuşmazlığın bulunmadığı anlaşılmaktadır.
 
 ## Yargıtay 12. HD 2025/5769 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1184265400)
 
 6098 sayılı Türk Borçlar kanunu 310. maddesinde; "Sözleşmenin kurulmasından sonra kiralanan herhangi bir sebeple el değiştirirse, yeni malik kira sözleşmesinin tarafı olur." düzenlemesi bulunmaktadır. Yeni malik TBK'nın 315. maddesinde düzenlenen temerrüt nedeniyle tahliye davasında ise kendiliğinden davanın tarafı olamaz.
 
 ## Yargıtay 12. HD 2025/3284 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1148727600)
+
 TBK’nın 310. maddesinde; “Sözleşmenin kurulmasından sonra kiralanan herhangi bir sebeple el değiştirirse, yeni malik kira sözleşmesinin tarafı olur. “ hükmü yer almaktadır. Madde metninden de anlaşılacağı üzere kiralanan şeyin mülkiyetinin geçişiyle birlikte, eski malik(kiralayan) sözleşmeden çıkarak, yeni malik kiralayan sıfatıyla kira sözleşmesinin tarafı olmaktadır. Yani sözleşme içerik bakımından aynı kalmakla birlikte sadece tarafı değişmektedir.
 
 ## Yargıtay 3. HD 2025/67 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1121170700)
 
 Davacı ile davalılar ... ve ... arasında düzenlenen 01.01.2016 başlangıç tarihli ve beş yıl süreli kira sözleşmeleri ile tarla vasıflı taşınmazlar davacıya kiralanmış, sözleşme devam ederken 2019 yılında kiraya verenler taşınmazdaki paylarını davalı ...’a satılmışlardır. 6098 sayılı Türk Borçlar Kanunu'nun (TBK) 310. maddesinde, "Sözleşmenin kurulmasından sonra kiralanan herhangi bir sebeple el değiştirirse, yeni malik kira sözleşmesinin tarafı olur." düzenlemesi bulunmakta olup, söz konusu madde uyarınca, davalı yeni malik Mahkemece belirtildiği üzere kira sözleşmenin tarafı olmuştur. Geçerli olan bir kira sözleşmesi ya tarafların birbirine uygun fesih bildirimi ile ya mahkeme kararı ile ya da kiralananın yok olması ile sona erer. Davalı yeni malik, davacı kiracı tarafından keşide edilen ihtarnameye cevabında kiralanın kullanımının sonlandırılmasını istemiştir. Davalının ihtarnamesinden sonra davacı kiracının kiralananın kullanımına son verdiği uyuşmazlık konusu değildir. Bu durumda davalı yeni malik ile davacı kiracının, kira sözleşmesinin feshi yönündeki iradeleri uyuşmakla kira sözleşmesinin sona erdiğinin kabulü gerekir.
 Kira sözleşmesi tarafların iradeleri ile sona erdiğinden, davacı kiracının kira sözleşmesinin erken sona ermesine dayalı gelir kaybı ve mahrum kalınan destekleme bedelini talebinin reddine karar verilmesinde bir usulsüzlük bulunmadığından, davacının bu hususlara ilişkin temyiz itirazları yerinde değildir.
 
 ## Yargıtay 3. HD 2024/3105 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1095364000)
+
 1\. 6098 sayılı Kanun'un 299 uncu maddesinde, “Kira sözleşmesi, kiraya verenin bir şeyin kullanılmasını veya kullanmayla birlikte ondan yararlanılmasını kiracıya bırakmayı, kiracının da buna karşılık kararlaştırılan kira bedelini ödemeyi üstlendiği sözleşmedir.”, aynı Kanun'un 310 uncu maddesinde, "Sözleşmenin kurulmasından sonra kiralanan herhangi bir sebeple el değiştirirse, yeni malik kira sözleşmesinin tarafı olur." düzenlemeleri bulunmakta olup, söz konusu kanun maddesi uyarınca, davalı yeni malik sözleşmenin tarafı olmuştur.
 
 ## Yargıtay 3. HD 2024/2908 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1094644500)
 
 2\. 4721 sayılı Türk Medeni Kanunu'nun ( 4721 sayılı Kanun) 705 inci maddesi uyarınca kural olarak taşınmaz mülkiyetinin kazanılması tapuya tescil ile olur. Ancak bazı hallerde tapuya tescil öncesi iktisap mümkündür. 4721 sayılı Kanun'un 705/2 nci maddesi uyarınca miras yolu ile (murisin ölüm tarihi itibariyle), mahkeme kararı, cebri icra, işgal, kamulaştırma hallerinde mülkiyet tescilden önce kazanılır. Buna göre taşınmazın mülkiyetini miras yolu ile kazanan yeni malik veya malikler 6098 sayılı Kanun'un 351 inci maddesi uyarınca dava açma hakkına haizdirler. Yeni malik iktisap sonrası ayrıca TBK'nın 310 uncu maddesi uyarınca mevcut kira sözleşmesinin kiraya veren tarafı haline geleceğinden bu sözleşmenin sonunda TBK'nın 350 nci maddesinin birinci fıkrasında düzenlenen ihtiyaç nedeniyle tahliye davası açma hakkına da sahiptir. Sonuçta yeni malik hem TBK'nın 351 hem de TBK m. 350/1 de düzenlenen dava açma şartları varsa hakkını kullanabilir.
 
 ## Yargıtay 12. HD 2024/1945 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1037645000)
+
 Alacaklı banka tarafından ipoteğin paraya çevrilmesi yoluyla başlatılan ilamlı icra takibinde ipotekli taşınmazın alacağına mahsuben alacaklı bankaya satıldığı ve satışın kesinleşmesinden sonra, şikayetçi üçüncü kişi Altunlar ... A.Ş.’ye icra müdürlüğü tarafından İİK’nın 135. maddesine dayalı olarak tahliye emri gönderildiği, şikayetçinin yasal süresi içerisinde anılan tahliye emrinin iptali istemi ile icra mahkemesine başvurduğu, İlk Derece Mahkemesince şikayetin kabulü ile tahliye emrinin iptaline hükmedildiği, kararın, şikayet edilen alacaklı banka tarafından ihaleden sonra taşınmazın satıldığı yeni malik ... ... Ltd. Şti. tarafından istinaf edilmesi üzerine Bölge Adliye Mahkemesince başvurunun esastan reddine karar verildiği, kararın adı geçen yeni malik tarafından temyiz edildiği anlaşılmıştır.
 
 ## Yargıtay 3. HD 2023/2609 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/960716700)
+
 Dairemizin 09.02.2017 tarihli ve 2017/1390 E., 2017/1046 K. sayılı ilamının ilgili kısmı “Kira ilişkisinin devamı sırasında sözleşmeye konu taşınmazın el değiştirmesi ile birlikte önceki malikin kurumlar vergisine tabi bir mükellef iken, satın alma ile birlikte yeni malikin kurumlar vergisine değil, gelir vergisine tabi olması halinde yeni malike ödenecek kira parası net kira bedeli ve onun stopajıdır. Bu durumda Mahkemece, yukarıda anlatılan ilkeler ışığında kiraya veren yönünden KDV yükümlülüğünün kalkarak stopaj yükümlülüğünün doğmuş olması dikkate alınarak ödenmesi gereken net kira bedeli tespit edilerek net kira bedeli+stopaj bedeli hesaplandıktan sonra sonucuna göre bir karar vermek gerekirken ” şeklindedir (Yargıtay (Kapatılan) 6. Hukuk Dairesinin 21.09.2016 tarihli ve 2016/7112 E., 2016/5337 K. sayılı ilamıda aynı yöndedir).
 
 ## Yargıtay 12. HD 2023/2120 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/890140800)
 
 İlk Derece Mahkemesinin yukarıda tarih ve sayısı belirtilen kararı ile davacı tarafından davalı aleyhine ilamsız takip başlatıldığı, borçlu tarafından yasal itiraz süresi içinde takibe
 
@@ -86,9 +112,13 @@ emrinin tebliğinden itibaren 30 günlük süre içerisinde borcun ödenmemesi n
 
 ## Yargıtay 3. HD 2023/340 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/884952000)
+
 Anılan sözleşme hükmüne dayalı olarak cezai şart bedeli talep edilebilmesi için; kiralananın yeni malik tarafından açılan tahliye davası neticesinde tahliye edilmesi gerekmektedir. Anılan hükümde; yeni malikin kiralananın tahliyesini istemesi ve cezai şart hesabının tahliye tarihi esas alınarak yapılacağı düzenlendiğinden, yalnızca yeni malik tarafından ihtar gönderilmesi cezai şartın gerçekleşmesi için yeterli değildir.
 
 ## Yargıtay 8. HD 2020/6933 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/642113800)
 
 Hâl böyle olunca, Mahkemece çekişmeli taşınmazın devredildiği gözetilerek, yeni malike davanın ihbarının sağlanması, malikin davayı takip edeceğini belirtmesi halinde, kaldığı yerden yargılamanın sürdürülmesi aksi takdirde el atmanın önlenmesi talebine ilişkin sonucuna göre bir karar verilmesi, ayrıca iddia ve savunma doğrultusunda taraf delillerinin toplanması (taraflara emsal kira sözleşmesi sunmaları için de süre ve imkan tanınmak suretiyle) mahallinde yeniden keşif yapılarak, gayrimenkul değerlendirme uzmanı, emlakçı bilirkişisi ve inşaat mühendisinden oluşan üç kişilik uzman bilirkişi heyetinden yukarıda belirtilen ilkeler ve olgular doğrultusunda, (taşınmazın büyüklüğü, niteliği, yöredeki rayiç ve çevre özellikleri de nazara alınarak) bilimsel verilere uygun, denetime elverişli şekilde ecrimisil hesabı konusunda rapor alınması, taraflar arasında bir kira ilişkisi bulunduğu
 
@@ -96,14 +126,20 @@ ispatlanamadığından ecrimisil talebinin kabulüne karar verilmesi gerekirken,
 
 ## Yargıtay 8. HD 2019/10695 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/648033300)
+
 ... Noterliğinin 2564 yevmiye numaralı 17.07.2008 başlangıç tarihli arazi kira sözleşmesinden; ... ili, ... ilçesi, ... köyü, 10 dönümlük çay alanı ve 20 dönümlük çalılık ve boş arazinin 10 yıllığına dava dışı ... ile ... tarafından davalıya kiraya verildiği, kiralanan alanların dava konusu taşınmazları kapsadığı hususunda uyuşmazlık bulunmamaktadır. Paylı mülkiyete tabi taşınmazlar pay ve paydaş çoğunluğu ile kiraya verilebilir. Her ne kadar dava konusu 106 ada 5 parsel, 187 ada 1 ve 3 parsel sayılı taşınmazlar paydaşlardan ... tarafından tek başına kiraya verilmiş ise de davalının uzun süreli kullanımı dikkate alındığında davacıların, kira sözleşmesine muvafakat ettiklerinin kabulü gerekir. Öte yandan; 106 ada 6 ve 14 parsel, 187 ada 4 parsel sayılı taşınmazlar yönünden 6098 Sayılı Türk Borçlar Kanunu’nun 310. maddesinin birinci fıkrası uyarınca yeni malik ..., kiraya veren eski malik ...’nun halefi olur. Bu durumda halefiyet ilkesi gereğince taşınmazı iktisap eden yeni malikin, eski malik ile akdedilen 17.07.2008 başlangıç tarihli ve on yıl süreli kira sözleşmesine dayalı tüm hak ve borçlara sahip olduğunun kabulü gerekir.
 
 ## Yargıtay 8. HD 2019/9981 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/648027800)
 
 Öte yandan, TBK'nin 310. maddesi hükmüne göre kiralananın mülkiyetinin kiralayan malik tarafından üçüncü kişiye devri ile birlikte, kiralayan ve kiracı arasındaki kira sözleşmesi tüm hak ve borçları ile birlikte yasa gereği kendiliğinden yeni malike geçer. Kiracı, devir öncesi mevcut muaccel ödenmemiş kira bedeli borçlarından dolayı kiralananı devreden kiralayana karşı, devir tarihinden sonra ise yeni malike karşı sorumludur. Kiralananı satın alan davacı TBK'nin 310. maddesi gereğince önceki malik kiralayanın haklarına halef olmuş ise de bunun için öncelikle kiralananı satın aldığı ve kira paralarının bundan sonra kendisine ödenmesi yönünde kiracıya bildirimde bulunması gerekir. Yeni malik tarafından kiracıya ihtar gönderilmesinden önce kiracının kira paralarını önceki malike ödemesi halinde, önceki malike yapılan ödeme miktarınca kiracı sorumluluktan kurtulacaktır. Olayımızda; kira sözleşmesine konu taşınmaz davacı alacaklı tarafından 14.06.2012 tarihi itibariyle edinilmiştir.
 Kiralananı satın alan davacı TBK'nin 310. maddesi gereğince önceki malik kiralayanın haklarına halef olmuş ise de bunun için öncelikle kiralananı satın aldığı ve kira paralarının bundan sonra kendisine ödenmesine yönelik ihtar göndermesi gerekir. Davacı tarafından davalıya iktisaptan sonra kira bedellerinin kendisine ödenmesi hususunda ihtar gönderilmediğinden davalı tarafından önceki malike yapılan ödemeler geçerlidir. Davalı borçlu eski malike 12.09.2012 tarihinde 479,01 TL, 12.06.2012 tarihinde 479,01 TL olmak üzere yaptığı 958,02 TL ödeme miktarınca borcundan kurtulur.
 
 ## Yargıtay 3. HD 2019/6777 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/551347100)
 
 Davada dayanılan ve hükme esas alınan 20.07.2010 başlangıç tarihli ve 10 yıl süreli kira sözleşmesi konusunda taraflar arasında uyuşmazlık bulunmamaktadır. Sözleşme kiraya veren ... ile davacı kiracı şirket arasında imzalanmış, ...'ta müşterek ve müteselsil kefil olarak sözleşmeyi imzalamıştır. Sözleşmede kiralananın kereste toptan satış mağazası olarak
 
@@ -111,10 +147,14 @@ kullanılacağı belirtilmiştir. Kiralananın15.01.2013 tarihinde kiraya vereni
 
 ## Yargıtay 8. HD 2019/6606 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/521587000)
+
 TBK'nin 310. maddesi hükmüne göre kiralananın mülkiyetinin kiralayan malik tarafından üçüncü kişiye devri ile birlikte, kiralayan ve kiracı arasındaki kira sözleşmesi tüm hak ve borçları ile birlikte yasa gereği kendiliğinden yeni malike geçer. Kiracı, devir öncesi mevcut muaccel ödenmemiş kira bedeli borçlarından dolayı kiralananı devreden kiralayana karşı, devir tarihinden sonra ise yeni malike karşı sorumludur. Kiralananı satın alan davacı TBK'nin 310. maddesi gereğince önceki malik kiralayanın haklarına halef olmuş ise de bunun için öncelikle kiralananı satın aldığı ve kira paralarının bundan sonra kendisine ödenmesi yönünde kiracıya bildirimde bulunması gerekir. Yeni malik tarafından kiracıya ihtar gönderilmesinden önce kiracının kira paralarını önceki malike ödemesi halinde, önceki malike yapılan ödeme miktarınca kiracı sorumluluktan kurtulacaktır. Olayımızda; kira sözleşmesine konu taşınmaz davacı alacaklı tarafından 22.11.2016 tarihi itibariyle edinilmiştir.
 Kiralananın yeni malik davacı tarafından edinilmesinden sonra davalı borçlu kiracıya 20.12.2016 tarihli ihtarname gönderilmiş ise de, tebliğ mazbatasından tebligatın muhatabına tebliğ edilemeden iade edildiği anlaşılmaktadır. Kiralananı satın alan davacı TBK'nin 310. maddesi gereğince önceki malik kiralayanın haklarına halef olmuş ise de bunun için öncelikle kiralananı satın aldığı ve kira paralarının bundan sonra kendisine ödenmesine yönelik ihtar göndermesi gerekir. Davacı tarafından davalıya iktisaptan sonra kira bedellerinin kendisine ödenmesi hususunda usulüne uygun tebliğ edilmiş ihtar gönderilmediğinden davalı tarafından önceki malike yapılan ödemeler geçerlidir.
 
 ## Yargıtay 3. HD 2019/5489 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/519516500)
 
 6098 sayılı Türk Borçlar Kanunu’nun 310. maddesine göre kamulaştırmaya ilişkin hükümler saklı olmak üzere kira sözleşmesinin kurulmasından sonra kiralananın herhangi bir sebeple el değiştirmesi halinde yeni malik kira sözleşmesinin tarafı haline gelir. Somut olayda banka eski malikler ile imzalanan ve yukarıda ifade edilen kira sözleşmelerinin tarafı haline gelmiş olup sözleşmeler bu nedenle yeni maliki bağlayıcıdır. Sözleşmelerin her ikisinde de kira bedelleri net olarak belirlenmiş olup stopaj yükümlülüğünün kiracıya ait olduğu belirtilmiştir. Davacının tarafı haline geldiği sözleşme dolayısıyla talep edebileceği
 
@@ -122,13 +162,19 @@ kira bedeli net kira bedeli olup, davalı kiracıya stopaj sorumluluğu yüklene
 
 ## Yargıtay 3. HD 2019/1180 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/492386000)
+
 Davacı tarafından dosyaya sunulan 05/09/2014 başlangıç tarihli kira sözleşmesinde davacının eşi ...'ın kiracı, kiralananın eski malikinin ise kiraya veren olduğu anlaşılmaktadır. Türk Borçlar Kanununun (TBK) 310. Maddesi uyarınca kiralananın devri halinde yeni malik kira sözleşmesi ile bağlı olacaktır. Yeni malik kural olarak mülkiyeti nakil tarihinden itibaren eski malik ile kiracı arasında yapılan kira sözleşmesi hükümlerine göre kira bedeli talep hakkı kazanır. Ancak temerrüt nedeniyle tahliye talebinde bulunabilmesi için yeni malikin ilk önce kira bedellerinin kendisine ödenmesi için kiracıya ihtar çekmesi gerekmektedir. Sadece kira bedellerinin talebi halinde ise muaccel hale gelen kiraların eski malike ödendiği hususu kanıtlanamadığında, ödenmemiş kira bedellerinin yeni malike ödenmesi gerekir.
 
 ## Yargıtay 3. HD 2018/11897 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/463407200)
+
 Davada dayanılan ve hükme esas alınan 01.08.2012 başlangıç tarihli ve iki yıl süreli kira sözleşmesi konusunda taraflar arasında uyuşmazlık bulunmamaktadır. Sözleşme ile kiralanan işyeri olarak kullanılmak üzere davacıya kiralanmıştır. Kiracılık süreci içinde kiralanan taşınmaz 28.08.2012 tarihinde dava dışı ...ve Kanber Kaya'ya satılmış, yeni malik de 10.09.2012 tarihinde davacıya keşide ettiği ihtarname ile, eski malik ile yapılan kira sözleşmesinin bağlayıcılığının bulunmaması nedeniyle kiralananın kendi ihtiyaçları için konfeksiyon, imalat, depo, dükkan olarak kullanılacağını davacı kiracıya bildirmişlerdir. Bu şekilde tahliye tehdidi altında kalan davacı da, yeni malikle birlikte düzenlediği "sözleşmenin feshi ve anahtar teslim tutanağı" ile kira akdini feshederek 13.11.2012 tarihinde taşınmazı yeni maliklere teslim etmiştir. Davacı açmış olduğu işbu dava ile de, protokol gereğince üzerine düşen edimleri yerine getirdiği halde, davalılar tarafından kiralananın kullanımına bırakılmaması nedeniyle uğradığı zararların tahsilini talep etmiştir.
 
 ## Yargıtay 3. HD 2018/5424 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/426806600)
 
 Konut ya da çatılı işyeri niteliğindeki bir taşınmazı iktisap eden kimse dilerse eski malik ile kiracı arasında yapılmış sözleşmeye dayanarak sözleşmenin sonunda bir ay içinde, dilerse TBK’nun 351. maddesi uyarınca edinme günü de dahil olmak üzere edinme tarihinden başlayarak bir ay içinde durumu kiracıya yazılı olarak bildirmek koşuluyla edinme tarihinden itibaren altı ay sonra ihtiyaç nedeniyle tahliye davası açabilir. Davanın altı ayın sonunda hemen açılması şart olmayıp sözleşme sonuna kadar açılması mümkündür. Ancak edinmeyi izleyen bir ay içerisinde bildirimin tebliği zorunlu olup bunun sonradan giderilmesi mümkün değildir. Açılacak davada tahliyeye karar verilebilmesi için ihtiyacın varlığının kanıtlanması gerekir.Somut olayda davacı taşınmazı 08.12.2014 tarihinde edinmiş, 31.12.2014 tarihinde davalıya ihtar tebliğ etmiş ve davayı da satın alma tarihinden altı ay sonra 10.06.2015 tarihinde açmış olmakla davanın sürede olduğu, öte yandan davaya konu taşınmaz tapuda tarla vasfıyla kayıtlı olsa da, mahkemece yapılan keşif sonucu
 
@@ -137,9 +183,13 @@ Kanun hükmüne ve Yargıtay’ın yerleşik içtihatlarına göre gerçek kişi
 
 ## Yargıtay 3. HD 2018/3273 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/418286400)
+
 6098 sayılı TBK'nun 310. maddesinde '' Sözleşmenin kurulmasından sonra kiralanan herhangi bir sebeple el değiştirirse, yeni malik kira sözleşmesinin tarafı olur '' düzenlemesi mevcuttur. Somut olayda ; Kiralananın satılmasıyla yeni malik TBK'nun 310. maddesi gereğince kira sözleşmesinin tarafı haline gelmiştir. Dava konusu uyuşmazlık kira sözleşmesinden kaynaklanmakta olup, dava 18.03.2013 tarihinde açılmıştır. Hal böyle olunca, mahkemece; uyuşmazlığın çözümünde Sulh Hukuk Mahkemesi'nin görevli olduğu gözetilerek, görevsizlik nedeniyle HMK'nın 114/1-c ve 115/2. maddeleri uyarınca davanın usulden reddine karar verilmesi gerekirken, bu yön gözardı edilerek davanın esası hakkında hüküm kurulması usul ve yasaya aykırı olup bozmayı gerektirmiştir.
 
 ## Yargıtay 8. HD 2018/10130 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/422206800)
 
 Takibe dayanak yapılan ve hükme esas alınan 20.11.2014 başlangıç tarihli ve bir yıl süreli kira sözleşmesi dava dışı kiralayan ... ile davalı kiracı ... arasında imzalanmıştır. Dosya içerisindeki tapu kaydına göre kiralananın davacı ... tarafından 27.02.2015 tarihinde satın alınmak suretiyle edinildiği anlaşılmaktadır. TBK'nın 310. maddesi hükmüne göre kiralananın mülkiyetinin kiralayan malik tarafından üçüncü kişiye devri ile birlikte, kiralayan ve kiracı arasındaki kira sözleşmesi tüm hak ve borçları ile birlikte yasa gereği kendiliğinden yeni malike geçer. Kiracı, devir öncesi mevcut muaccel ödenmemiş kira bedeli borçlarından dolayı kiralananı devreden kiralayana karşı, devir tarihinden sonra ise yeni malike karşı sorumludur. Davalı kiracı kendisine yapılan ihtardan önceki kira
 
@@ -147,17 +197,25 @@ bedellerini önceki malike ödemiş ise sorumluluktan kurtulur. Davacının, sat
 
 ## Yargıtay 3. HD 2018/1608 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/409470000)
+
 Konut ya da çatılı işyeri niteliğindeki bir taşınmazı iktisap eden kimse dilerse eski malik ile kiracı arasında yapılmış sözleşmeye dayanarak sözleşmenin sonunda bir ay içinde, dilerse TBK.’nun 351. maddesi uyarınca edinme günü de dahil olmak üzere edinme tarihinden başlayarak bir ay içinde durumu kiracıya yazılı olarak bildirmek koşuluyla edinme tarihinden itibaren altı ay sonra ihtiyaç nedeniyle tahliye davası açabilir. Davanın altı ayın sonunda hemen açılması şart olmayıp sözleşme sonuna kadar açılması mümkündür. Ancak edinmeyi izleyen bir ay içerisinde bildirimin tebliği zorunlu olup bunun sonradan giderilmesi mümkün değildir. Açılacak davada tahliyeye karar verilebilmesi için ihtiyacın varlığının kanıtlanması gerekir.
 
 ## Yargıtay 3. HD 2017/15312 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/379151400)
 
 1-6098 sayılı TBK'nun 310. maddesinde '' Sözleşmenin kurulmasından sonra kiralanan herhangi bir sebeple el değiştirirse, yeni malik kira sözleşmesinin tarafı olur '' düzenlemesi mevcuttur. Kiralananın satılmasıyla yeni malik TBK'nun 310. maddesi gereğince kira sözleşmesinin tarafı haline gelmektedir.
 
 ## Yargıtay 3. HD 2017/14052 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/391160500)
+
 Her ne kadar mahkeme gerekçesinde; TBK’nun 351. maddesi gereği yeni malik sıfatıyla açılacak davalar da kiralananın olduğu gibi kullanılması gerektiği belirtilmiş ise de; gerekçenin son cümlesinde davacının geçerli bir mimari proje sunmadığı belirtilmiştir. Yeniden inşa sebebi ile açılacak davanın sözleşme süresi sonunda açılması gerekip henüz sözleşme süresi de dolmadığından açılan davanın bu gerekçe ile reddine karar verilmesi gerekirken yazılı şekilde karar verilmesi doğru değil ise de sonucu itibariyle doğru olan redde ilişkin hüküm yönünden yeniden yargılama yapılması gerekmediğinden, gerekçenin düzeltilerek onanması HUMK 438/7.maddesi gereğidir.
 
 ## Yargıtay 12. HD 2017/10213 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/359859300)
 
 Somut olayda; alacaklı ... tarafından borçlular ..., ..., ..., ..., ..., ..., ... aleyhine kambiyo senetlerine mahsuz haciz yolu ile takibe geçildiği, ... ili, ... İlçesi, ... mah, 651 ada 6 parsel numaralı taşınmazın 13.12.2012 tarihinde tarihinde ...’ya ihale ediliği, ihale alıcısı tarafından taşınmazın 13.08.2013 tarihinde ...’e satılarak devredildiği, 07.11.2013 tarihinde taşınmazda bulunan ..., ..., ..., ..., ... ve ...’nın tahliye ediliği, ... vekili Av. ...’nın 29.04.2014 tarihinde icra memuruna başvurarak taşınmazın çatısında ...’nın gsm anteninin kaldırılması
 
@@ -166,9 +224,13 @@ için ...’ya İİK’nun 135. maddesine göre tahliye emrinin gönderilmesini 
 
 ## Yargıtay 8. HD 2017/8511 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/350895300)
+
 Dosyada mevcut tapu kaydından dava konusu taşınmazın davacı ... tarafından 22.04.2010 tarihinde kiraya veren...ar’dan satın alınmak suretiyle edinildiği anlaşılmaktadır. Davacı yeni malik, önceki malik kiraya veren...ar ile davalı kiracı ... arasında akdedilen 17.06.2008 başlangıç tarihli kira sözleşmesine dayanarak talepte bulunmuştur. Kiralananın satılmasıyla yeni malik TBK'nun 310.maddesi gereğince kira sözleşmesinin tarafı haline gelir. Bu durumda davacının yeni malik sıfatı ile ödenmeyen kira paralarını istemesinde usulsüzlük bulunmamaktadır. Önceki malik...ar ile davalı kiracı ... arasında akdedilen 17.06.2008 başlangıç tarihli kira sözleşmesinde aylık kira bedelinin 630,00 TL olduğu ve yıllık kira artışının ....ortalaması oranında yapılacağı kararlaştırılmıştır. Bu şart geçerli olup tarafları bağlar. Bu durumda mahkemece 01.07.2012 tarihinde yürürlüğe giren TBK.nun 344. maddesi hükmü de gözetilerek .... artış oranını geçmemek üzere sözleşme hükmü doğrultusunda aylık kira bedelinin ve kira artış farkının belirlenerek, sonucuna göre karar verilmesi gerekirken, uyuşmazlığın yargılamayı gerektirdiğinden bahisle davanın reddine karar verilmesi doğru değildir.
 
 ## Yargıtay 20. HD 2017/4993 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/350107700)
 
 ... Sulh Hukuk Mahkemesi ise davacı-karşı davalı ile davalı-karşı davacı arasında yazılı veya sözlü kira sözleşmesinin bulunmadığı, kira sözleşmesinin davalı-karşı davacı ile ihbar olunan... Kooperatif Başkanlığı arasında olduğu, dava konusu taşınmazın daha önceden... Sitesi Yapı Kooperatif Başkanlığına ait olduğu ve davalı-karşı davacının da bu taşınmazda kiracı olduğu ancak kooperatif genel kurulunca dava konusu taşınmazın satışına karar verilerek davalı-karşı davacı ile aralarında yapılmış olan kira sözleşmesinin tek taraflı olarak feshedildiği, kira sözleşmesinin kooperatif başkanlığınca feshedilmesinden sonra dava konusu taşınmazın yeni malik davacı-karşı davalıya satılmış olduğu, yeni malik davacı-karşı davalının dava konusu taşınmazı kira sözleşmesi ile yükümlü olmadan satın almış olduğu, davalı-karşı davacı tarafından da yeni malik davacı-karşı davalıya ödenmekte
 

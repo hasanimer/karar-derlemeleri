@@ -22,13 +22,19 @@ uyari: "Derleyenin seçtiği alıntılardır; kararın tamamı değildir. Künye
 
 ## Yargıtay 20. HD 2006/17383 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/908486800)
+
 H.Y.U.Y.'nın 8/II-I. maddelerinde "kira sözleşmesine dayanan her türlü tahliye, akdin feshi, yahut tespit davaları, bu davalarla birlikte açılmış kira alacağı davaları "nın sulh hukuk mahkemesinin görevinde olduğu belirtilmiş olup, somut olayda, tahliye ya da akdin feshi istenmediği, yalnızca kira alacağına ilişkin icra takibine itirazın iptali istendiğine göre, dava tarihi ve dava değeri esas alındığında, davanın asliye hukuk mahkemesinde görülmesi gerekir.
 
 ## Yargıtay 20. HD 2006/14338 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/907669100)
+
 H.Y.U.Y.'nın 8/II.-1. maddesine göre kira sözleşmesine dayanan her türlü tahliye, aktin feshi, yahut tesbit davaları, bu davalarla birlikte açılmış, kira alacağı ve tazminat davalarının sulh hukuk mahkemesinin görevinde olduğu açık yasa hükmü olup, somut olayda tahliye ya da aktin feshi talebi bulunmadığı anlaşılmakla, H.Y.U.Y.'nın 8/1. maddesine göre dava tarihi esas alındığında, 400.000.000.-TL görev sınırını geçen uyuşmazlığın, asliye hukuk mahkemesinde görülüp sonuçlandırılması gerekmektedir.
 
 ## Yargıtay 14. HD 2006/8337 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/852590400)
 
 Hukuk Usulü Muhakemeleri Kanununun 8/II, b , 1 maddesi ile 6570 sayılı Gayrimenkul Kiraları Hakkında Kanunun uygulama alanı içinde kalan yerler hakkında açılan davaların basit yargılama usulünün uygulandığı Sulh Hukuk Mahkemesinde görülerek süratle sonuçlandırılması amaçlanmıştır. Bu nedenle,Borçlar Kanununun 270 ve devamı maddelerinde düzenlenen hasılat kirası hükümlerinin uygulanması gereken yerler hakkında anılan madde hükmü uygulanamaz . Yanlar arasındaki sözleşmede yıllık kira parası 13.310.000.000 T.L. olarak belirlendiğinden ve dava 18.7.2005 tarihinde açıldığından davayı görmekle görevli mahkeme Sulh Mahkemesi değil Asliye Hukuk Mahkemesidir. Mahkemece, açıklanan olgu gözetilerek kamu düzeninden olan görev konusu re’sen dikkate alınıp kira sözleşmesinin feshi istemi yönünden de dava dilekçesinin görev noktasından
 
