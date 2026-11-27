@@ -6,7 +6,7 @@ Bu depodaki emsal karar derlemelerinin tamamını Av. Hakan Dimdik hazırlamış
 
 **35 derleme · 66.332 sayfa · yaklaşık 134 bin karar künyesi.** İndirme ve dönüştürme tarihi: 27.11.2026.
 
-> **Atıf.** Bu derlemelerden yararlanırken kaynak olarak Av. Hakan Dimdik'i gösterin. Her derlemenin altında özgün PDF'in ve paylaşıldığı gönderinin bağlantısı vardır; güncel sürümler için özgün paylaşımlara bakın. Derlemeler üzerindeki haklar derleyene aittir; bu depo içerik üzerinde hak iddia etmez. Derleyenin talebi hâlinde içerik kaldırılır.
+> **Atıf.** Bu derlemelerden yararlanırken kaynak olarak Av. Hakan Dimdik'i gösterin. Her derlemenin altında özgün PDF'in ve paylaşıldığı gönderinin bağlantısı vardır; güncel sürümler için özgün paylaşımlara bakın. Bu depoda yayımlanmak üzere derlemelerin Markdown ve yapılandırılmış veri biçimlerine dönüştürülmesi ve paylaşılması için Av. Hakan Dimdik'ten izin alınmıştır. Derlemeler üzerindeki haklar derleyene aittir; bu depo içerik üzerinde hak iddia etmez. Derleyenin talebi hâlinde içerik kaldırılır.
 
 **Yapay zekâ araçları:** önce [AGENTS.md](AGENTS.md) dosyasını okuyun; konu dizini: [dizin/derlemeler.md](dizin/derlemeler.md).
 
@@ -120,6 +120,8 @@ Her dosyanın yoklama, dönüştürme ve doğrulama çıktısı `log/<ad>.log` i
 - X araması eksiksiz olmayabilir; Google Drive dışında bir bağlantıyla paylaşılmış derleme varsa burada yoktur.
 
 ## Atıf ve teşekkür
+
+Derlemeleri hazırlayan ve bu depoda yayımlanmasına izin veren Av. Hakan Dimdik'e teşekkür ederiz.
 
 - **Derlemeler:** Av. Hakan Dimdik — [x.com/hakandimdik](https://x.com/hakandimdik). `kaynaklar.tsv` her derlemenin paylaşıldığı gönderiyi, `indir.tsv` özgün PDF'in Drive kimliğini tutar.
 - **Kira Hukuku derlemesi:** derleyenin belirttiği üzere Av. Yankı Büyüksezer'in paylaştığı kararlara da yer verilmiştir.
