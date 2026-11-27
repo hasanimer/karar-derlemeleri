@@ -1,0 +1,82 @@
+# Borclar_Genel_Hukuku_Emsal_Kararlar
+
+Kaynak: `Borclar_Genel_Hukuku_Emsal_Kararlar.pdf`
+
+- §1. SÖZLEŞMENİN KURULMASI VE GEÇERLİLİĞİ
+  - [I. SÖZLEŞME ÖZGÜRLÜĞÜ VE SÖZLEŞMEYE BAĞLILIK (TBK m. 26)](bolumler/01-01-i-sozlesme-ozgurlugu-ve-sozlesmeye-baglilik-tbk-m-26.md) — 38 alt başlık
+  - [II. ÖNERİ VE KABUL (TBK m. 1–10)](bolumler/01-02-ii-oneri-ve-kabul-tbk-m-110.md) — 36 alt başlık
+  - [III. SÖZLEŞME GÖRÜŞMELERİNDEN DOĞAN SORUMLULUK VE GÜVEN SORUMLULUĞU](bolumler/01-03-iii-sozlesme-gorusmelerinden-dogan-sorumluluk-ve-guven-sorum.md) — 20 alt başlık
+  - [IV. ÖN SÖZLEŞME (TBK m. 29)](bolumler/01-04-iv-on-sozlesme-tbk-m-29.md) — 28 alt başlık
+  - [V. ŞEKİL (TBK m. 12–17)](bolumler/01-05-v-sekil-tbk-m-1217.md) — 28 alt başlık
+  - [VI. GENEL İŞLEM KOŞULLARI (TBK m. 20–25)](bolumler/01-06-vi-genel-islem-kosullari-tbk-m-2025.md) — 46 alt başlık
+  - [VII. SÖZLEŞMENİN YORUMU VE TAMAMLANMASI (TBK m. 19)](bolumler/01-07-vii-sozlesmenin-yorumu-ve-tamamlanmasi-tbk-m-19.md) — 19 alt başlık
+  - [VIII. MUVAZAA (TBK m. 19)](bolumler/01-08-viii-muvazaa-tbk-m-19.md) — 73 alt başlık
+  - [IX. AŞIRI YARARLANMA (TBK m. 28)](bolumler/01-09-ix-asiri-yararlanma-tbk-m-28.md) — 66 alt başlık
+  - [X. HÜKÜMSÜZLÜK HÂLLERİ](bolumler/01-10-x-hukumsuzluk-halleri.md) — 90 alt başlık
+- §2. İRADE BOZUKLUKLARI
+  - [I. YANILMA (TBK m. 30–35)](bolumler/02-01-i-yanilma-tbk-m-3035.md) — 52 alt başlık
+  - [II. ALDATMA (TBK m. 36)](bolumler/02-02-ii-aldatma-tbk-m-36.md) — 114 alt başlık
+  - [III. KORKUTMA (TBK m. 37–38)](bolumler/02-03-iii-korkutma-tbk-m-3738.md) — 96 alt başlık
+- §3. TEMSİL
+  - [I. TEMSİL YETKİSİ, KAPSAMI VE SONA ERMESİ (TBK m. 40–45)](bolumler/03-01-i-temsil-yetkisi-kapsami-ve-sona-ermesi-tbk-m-4045.md) — 78 alt başlık
+  - [II. TEMSİLCİNİN KENDİSİYLE İŞLEM YAPMASI](bolumler/03-02-ii-temsilcinin-kendisiyle-islem-yapmasi.md) — 5 alt başlık
+  - [III. TEMSİL YETKİSİNİN KÖTÜYE KULLANILMASI, YETKİSİZ TEMSİL VE ONAMA (TBK m. 46–48)](bolumler/03-03-iii-temsil-yetkisinin-kotuye-kullanilmasi-yetkisiz-temsil-ve.md) — 13 alt başlık
+- §4. HAKSIZ FİİLLER
+  - [I. HAKSIZ FİİLİN UNSURLARI (TBK m. 49)](bolumler/04-01-i-haksiz-fiilin-unsurlari-tbk-m-49.md) — 40 alt başlık
+  - [II. ZARAR KAVRAMI, İSPATI VE HESAPLANMASI (TBK m. 50)](bolumler/04-02-ii-zarar-kavrami-ispati-ve-hesaplanmasi-tbk-m-50.md) — 11 alt başlık
+  - [III. UYGUN İLLİYET BAĞI VE İLLİYET BAĞININ KESİLMESİ](bolumler/04-03-iii-uygun-illiyet-bagi-ve-illiyet-baginin-kesilmesi.md) — 27 alt başlık
+  - [IV. HUKUKA UYGUNLUK SEBEPLERİ (TBK m. 63–64)](bolumler/04-04-iv-hukuka-uygunluk-sebepleri-tbk-m-6364.md) — 3 alt başlık
+  - [V. TAZMİNATIN BELİRLENMESİ VE İNDİRİM (TBK m. 51–52)](bolumler/04-05-v-tazminatin-belirlenmesi-ve-indirim-tbk-m-5152.md) — 88 alt başlık
+  - [VI. BEDENSEL ZARAR VE DESTEKTEN YOKSUN KALMA (TBK m. 53– 55)](bolumler/04-06-vi-bedensel-zarar-ve-destekten-yoksun-kalma-tbk-m-53-55.md) — 37 alt başlık
+  - [VII. MANEVİ TAZMİNAT (TBK m. 56)](bolumler/04-07-vii-manevi-tazminat-tbk-m-56.md) — 66 alt başlık
+  - [VIII. KİŞİLİK HAKKININ İHLALİ (TBK m. 58)](bolumler/04-08-viii-kisilik-hakkinin-ihlali-tbk-m-58.md) — 58 alt başlık
+  - [IX. ADAM ÇALIŞTIRANIN SORUMLULUĞU (TBK m. 66)](bolumler/04-09-ix-adam-calistiranin-sorumlulugu-tbk-m-66.md) — 36 alt başlık
+  - [X. HAKKANİYET SORUMLULUĞU VE EV BAŞKANININ SORUMLULUĞU (TBK m. 65, 68)](bolumler/04-10-x-hakkaniyet-sorumlulugu-ve-ev-baskaninin-sorumlulugu-tbk-m.md) — 8 alt başlık
+  - [XI. HAYVAN BULUNDURANIN VE YAPI MALİKİNİN SORUMLULUĞU (TBK m. 67, 69)](bolumler/04-11-xi-hayvan-bulunduranin-ve-yapi-malikinin-sorumlulugu-tbk-m-6.md) — 28 alt başlık
+  - [XII. TEHLİKE SORUMLULUĞU (TBK m. 71)](bolumler/04-12-xii-tehlike-sorumlulugu-tbk-m-71.md) — 57 alt başlık
+  - [XIII. BİRDEN ÇOK SORUMLU VE RÜCU (TBK m. 61–62)](bolumler/04-13-xiii-birden-cok-sorumlu-ve-rucu-tbk-m-6162.md) — 31 alt başlık
+  - [XIV. CEZA HUKUKU İLE İLİŞKİ (TBK m. 74)](bolumler/04-14-xiv-ceza-hukuku-ile-iliski-tbk-m-74.md) — 155 alt başlık
+  - [XV. HAKSIZ FİİLDE TEMERRÜT VE FAİZ](bolumler/04-15-xv-haksiz-fiilde-temerrut-ve-faiz.md) — 9 alt başlık
+  - [XVI. HAKSIZ FİİLDE ZAMANAŞIMI (TBK m. 72)](bolumler/04-16-xvi-haksiz-fiilde-zamanasimi-tbk-m-72.md) — 162 alt başlık
+- §5. SEBEPSİZ ZENGİNLEŞME
+  - [I. SEBEPSİZ ZENGİNLEŞMENİN KOŞULLARI (TBK m. 77)](bolumler/05-01-i-sebepsiz-zenginlesmenin-kosullari-tbk-m-77.md) — 46 alt başlık
+  - [II. GERİ VERMENİN KAPSAMI; İYİNİYET VE KÖTÜNİYET (TBK m. 79–80)](bolumler/05-02-ii-geri-vermenin-kapsami-iyiniyet-ve-kotuniyet-tbk-m-7980.md) — 51 alt başlık
+  - [III. GERİ İSTENEMEYEN HÂLLER (TBK m. 78, 81)](bolumler/05-03-iii-geri-istenemeyen-haller-tbk-m-78-81.md) — 23 alt başlık
+  - [IV. DENKLEŞTİRİCİ ADALET](bolumler/05-04-iv-denklestirici-adalet.md) — 12 alt başlık
+  - [V. SEBEPSİZ ZENGİNLEŞMEDE ZAMANAŞIMI (TBK m. 82)](bolumler/05-05-v-sebepsiz-zenginlesmede-zamanasimi-tbk-m-82.md) — 49 alt başlık
+- §6. BORÇLARIN İFASI
+  - [I. İFA: ÜÇÜNCÜ KİŞİNİN İFASI, İFA YERİ VE İFA ZAMANI (TBK m. 83–96)](bolumler/06-01-i-ifa-ucuncu-kisinin-ifasi-ifa-yeri-ve-ifa-zamani-tbk-m-8396.md) — 48 alt başlık
+  - [II. SEÇİMLİK BORÇ (TBK m. 87)](bolumler/06-02-ii-secimlik-borc-tbk-m-87.md) — 5 alt başlık
+  - [III. PARA BORÇLARI VE YABANCI PARA BORCU (TBK m. 99)](bolumler/06-03-iii-para-borclari-ve-yabanci-para-borcu-tbk-m-99.md) — 35 alt başlık
+  - [IV. KISMİ ÖDEME, ÖDEMELERİN MAHSUBU VE MAKBUZ (TBK m. 100–105)](bolumler/06-04-iv-kismi-odeme-odemelerin-mahsubu-ve-makbuz-tbk-m-100105.md) — 28 alt başlık
+  - [V. ÖDEMEZLİK DEFİ (TBK m. 97)](bolumler/06-05-v-odemezlik-defi-tbk-m-97.md) — 61 alt başlık
+  - [VI. FAİZ (TBK m. 88, 120)](bolumler/06-06-vi-faiz-tbk-m-88-120.md) — 83 alt başlık
+  - [VII. ALACAKLININ TEMERRÜDÜ (TBK m. 106–111)](bolumler/06-07-vii-alacaklinin-temerrudu-tbk-m-106111.md) — 25 alt başlık
+- §7. BORCA AYKIRILIK
+  - [I. GENEL OLARAK (TBK m. 112–114)](bolumler/07-01-i-genel-olarak-tbk-m-112114.md) — 28 alt başlık
+  - [II. KÖTÜ İFA VE YAN YÜKÜMLÜLÜKLERİN İHLALİ](bolumler/07-02-ii-kotu-ifa-ve-yan-yukumluluklerin-ihlali.md) — 14 alt başlık
+  - [III. İFA YARDIMCISININ FİİLİNDEN SORUMLULUK (TBK m. 116)](bolumler/07-03-iii-ifa-yardimcisinin-fiilinden-sorumluluk-tbk-m-116.md) — 10 alt başlık
+  - [IV. SORUMSUZLUK ANLAŞMALARI (TBK m. 115)](bolumler/07-04-iv-sorumsuzluk-anlasmalari-tbk-m-115.md) — 4 alt başlık
+  - [V. BORÇLUNUN TEMERRÜDÜ](bolumler/07-05-v-borclunun-temerrudu.md) — 200 alt başlık
+  - [VI. AŞIRI İFA GÜÇLÜĞÜ VE UYARLAMA (TBK m. 138)](bolumler/07-06-vi-asiri-ifa-guclugu-ve-uyarlama-tbk-m-138.md) — 55 alt başlık
+  - [VII. ÜÇÜNCÜ KİŞİNİN FİİLİNİ ÜSTLENME VE ÜÇÜNCÜ KİŞİ YARARINA SÖZLEŞME (TBK m. 128–129)](bolumler/07-07-vii-ucuncu-kisinin-fiilini-ustlenme-ve-ucuncu-kisi-yararina.md) — 37 alt başlık
+- §8. BORÇLARIN VE BORÇ İLİŞKİLERİNİN SONA ERMESİ
+  - [I. İFA VE İFANIN İSPATI](bolumler/08-01-i-ifa-ve-ifanin-ispati.md) — 12 alt başlık
+  - [II. İBRA (TBK m. 132)](bolumler/08-02-ii-ibra-tbk-m-132.md) — 39 alt başlık
+  - [III. YENİLEME (TBK m. 133–134)](bolumler/08-03-iii-yenileme-tbk-m-133134.md) — 18 alt başlık
+  - [IV. BİRLEŞME (TBK m. 135)](bolumler/08-04-iv-birlesme-tbk-m-135.md) — 5 alt başlık
+  - [V. İFA İMKÂNSIZLIĞI (TBK m. 136–137)](bolumler/08-05-v-ifa-imkansizligi-tbk-m-136137.md) — 38 alt başlık
+  - [VI. TAKAS (TBK m. 139–145)](bolumler/08-06-vi-takas-tbk-m-139145.md) — 57 alt başlık
+  - [VII. SÜREKLİ BORÇ İLİŞKİLERİNİN FESHİ VE SÖZLEŞMEDEN DÖNME (TBK m. 126)](bolumler/08-07-vii-surekli-borc-iliskilerinin-feshi-ve-sozlesmeden-donme-tb.md) — 11 alt başlık
+  - [VIII. ZAMANAŞIMI](bolumler/08-08-viii-zamanasimi.md) — 686 alt başlık
+- §9. BORÇ İLİŞKİLERİNDE ÖZEL DURUMLAR
+  - [I. MÜTESELSİL BORÇLULUK VE ALACAKLILIK (TBK m. 162–169)](bolumler/09-01-i-muteselsil-borcluluk-ve-alacaklilik-tbk-m-162169.md) — 106 alt başlık
+  - [II. MÜTESELSİL BORÇLULAR ARASINDA RÜCU (TBK m. 167–168)](bolumler/09-02-ii-muteselsil-borclular-arasinda-rucu-tbk-m-167168.md) — 57 alt başlık
+  - [III. ŞARTA BAĞLI BORÇLAR (TBK m. 170–176)](bolumler/09-03-iii-sarta-bagli-borclar-tbk-m-170176.md) — 10 alt başlık
+  - [IV. BAĞLANMA PARASI VE CAYMA PARASI (TBK m. 177–178)](bolumler/09-04-iv-baglanma-parasi-ve-cayma-parasi-tbk-m-177178.md) — 17 alt başlık
+  - [V. CEZA KOŞULU](bolumler/09-05-v-ceza-kosulu.md) — 80 alt başlık
+- §10. ALACAĞIN DEVRİ, BORCUN ÜSTLENİLMESİ VE SÖZLEŞMENİN DEVRİ
+  - [I. ALACAĞIN DEVRİ](bolumler/10-01-i-alacagin-devri.md) — 140 alt başlık
+  - [II. BORCUN ÜSTLENİLMESİ VE BORCA KATILMA (TBK m. 195–201)](bolumler/10-02-ii-borcun-ustlenilmesi-ve-borca-katilma-tbk-m-195201.md) — 31 alt başlık
+  - [III. MALVARLIĞININ VEYA İŞLETMENİN DEVRALINMASI (TBK m. 202)](bolumler/10-03-iii-malvarliginin-veya-isletmenin-devralinmasi-tbk-m-202.md) — 15 alt başlık
+  - [IV. SÖZLEŞMENİN DEVRİ VE SÖZLEŞMEYE KATILMA (TBK m. 205– 206)](bolumler/10-04-iv-sozlesmenin-devri-ve-sozlesmeye-katilma-tbk-m-205-206.md) — 20 alt başlık

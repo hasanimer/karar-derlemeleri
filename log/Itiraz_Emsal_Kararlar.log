@@ -1,0 +1,34 @@
+Dosya        : Itiraz_Emsal_Kararlar.pdf
+Sayfa        : 8475 (incelenen: 4–8475) | Üretici: LibreOffice 24.2 | Başlık: Takibe İtiraz, İtirazın Kaldırılması ve İtirazın İptaline İlişkin Emsal Kararlar
+Metin        : sayfa başına ortanca 3222 karakter; yalnız görselden oluşan sayfa: 0/8472
+Yer imi      : 52 (ilki s. 4: §1. TAKİBE İTİRAZ (İİK m. 62 vd.))
+İçindekiler  : bulunamadı
+Üst/altbilgi (atılacak): 'Sayfa # / #'×8472
+Gövde stili  : 11.5
+Başlık adayları (stil → düzey | satır sayısı | ilk örnek):
+      16b → 1 [yer imi] |     11 | s.4: §1. TAKİBE İTİRAZ (İİK m. 62 vd.)
+      13b → 2 [yer imi] |     58 | s.4: I. İTİRAZIN ŞEKLİ VE YEDİ GÜNLÜK SÜRE
+    11.5b → 3 |  11158 | s.4: Yargıtay İBK 03.06.2022 tarihli, 2021/1 E., 2022/3 K.:
+Paragraf     : satır sonu boşluk %85, sağ kenara dayanan %85 → kip: space
+Örneklem (15 sayfa): 0 görsel, 0 tablo
+Uyarılar     : yok
+Sonuç        : UYGUN
+=== convert (start-page 4 --split-level 2 )
+Yazıldı      : md/Itiraz_Emsal_Kararlar/Itiraz_Emsal_Kararlar.md (30.1 MB)
+Sayfa aralığı: 4–8475
+Başlıklar    : h1: 9, h2: 43, h3: 11158 | paragraf: 51101 | liste maddesi: 0 | aralıktaki yer imi: 52
+Başlık eşlemi: {'16b': 1, '13b': 2, '11.5b': 3} | paragraf kipi: space
+Atılan satır : üst/altbilgi 8472, --drop 0, içindekiler 0, döndürülmüş 0
+  üst/altbilgi: 'Sayfa # / #'×8472
+Bölünmüş     : 43 dosya → md/Itiraz_Emsal_Kararlar/bolumler
+=== verify
+Karşılaştırma motoru: pdftotext -raw | sayfa 4–8475
+Karakter (boşluksuz) : PDF 24117414 | MD 24117414
+Bilerek atılan, karşılaştırma dışı: üst/altbilgi 8472 satır / 117510 karakter
+  üst/altbilgi: 'Sayfa # / #'×8472
+PDF'te olup MD'de olmayan : 0 yer, 0 karakter
+MD'de olup PDF'te olmayan : 0 yer, 0 karakter
+Tek karakter farkı        : 0
+Sonuç: TAM EŞLEŞME — fark oranı %0.0000
+Not: bu denetim metnin eksiksizliğini ölçer; paragraf sınırlarını, başlık düzeylerini, sözcük arası boşlukları ve bilerek atılan satırların doğru seçilip seçilmediğini ölçmez.
+=== exit 0

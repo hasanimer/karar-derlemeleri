@@ -1,0 +1,73 @@
+# Miras Hukukuna İlişkin Emsal Kararlar
+
+Kaynak: `Miras_Hukuku_Emsal_Kararlar_V2.pdf`
+
+- §1. MİRASÇILIK VE MİRASIN GEÇİŞİ
+  - [I. MİRASÇILIK VE MİRASIN GEÇİŞİNDE UYGULANACAK HUKUK (MECELLE, 743 VE 4721 SAYILI KANUNLAR)](bolumler/01-01-i-mirascilik-ve-mirasin-gecisinde-uygulanacak-hukuk-mecelle.md) — 108 alt başlık
+  - [II. YASAL MİRASÇILAR: ZÜMRELER, SAĞ KALAN EŞ, EVLATLIK VE DEVLET (TMK m. 495-501)](bolumler/01-02-ii-yasal-mirascilar-zumreler-sag-kalan-es-evlatlik-ve-devlet.md) — 294 alt başlık
+  - [III. ATANMIŞ MİRASÇI, ÖNMİRASÇI VE ARTMİRASÇI](bolumler/01-03-iii-atanmis-mirasci-onmirasci-ve-artmirasci.md) — 73 alt başlık
+  - [IV. MİRASÇILARIN TEREKE BORÇLARINDAN SORUMLULUĞU (TMK m. 599, 641-642)](bolumler/01-04-iv-mirascilarin-tereke-borclarindan-sorumlulugu-tmk-m-599-64.md) — 29 alt başlık
+- §2. MİRASÇILIK BELGESİ
+  - [I. MİRASÇILIK BELGESİNİN NİTELİĞİ, DÜZENLENMESİ VE İPTALİ (TMK m. 598)](bolumler/02-01-i-mirascilik-belgesinin-niteligi-duzenlenmesi-ve-iptali-tmk.md) — 326 alt başlık
+- §3. MİRASÇILIKTAN ÇIKARMA, MİRASTAN FERAGAT VE MİRASTAN YOKSUNLUK
+  - [I. MİRASÇILIKTAN ÇIKARMA (ISKAT) VE İPTALİ (TMK m. 510-513)](bolumler/03-01-i-mirasciliktan-cikarma-iskat-ve-iptali-tmk-m-510-513.md) — 89 alt başlık
+  - [II. MİRASTAN FERAGAT SÖZLEŞMESİ (TMK m. 528)](bolumler/03-02-ii-mirastan-feragat-sozlesmesi-tmk-m-528.md) — 63 alt başlık
+  - [III. MİRASTAN YOKSUNLUK (TMK m. 578)](bolumler/03-03-iii-mirastan-yoksunluk-tmk-m-578.md) — 20 alt başlık
+- §4. ÖLÜME BAĞLI TASARRUFLAR
+  - [I. ÖLÜME BAĞLI TASARRUFLARIN ŞEKLİ (TMK m. 531-545)](bolumler/04-01-i-olume-bagli-tasarruflarin-sekli-tmk-m-531-545.md) — 69 alt başlık
+  - [II. ÖLÜME BAĞLI TASARRUFUN İPTALİ (TMK m. 557-559)](bolumler/04-02-ii-olume-bagli-tasarrufun-iptali-tmk-m-557-559.md) — 223 alt başlık
+  - [III. VASİYETNAMENİN AÇILMASI VE OKUNMASI (TMK m. 595-597)](bolumler/04-03-iii-vasiyetnamenin-acilmasi-ve-okunmasi-tmk-m-595-597.md) — 72 alt başlık
+  - [IV. VASİYETNAMENİN TENFİZİ VE VASİYET ALACAĞI (TMK m. 600- 603)](bolumler/04-04-iv-vasiyetnamenin-tenfizi-ve-vasiyet-alacagi-tmk-m-600-603.md) — 137 alt başlık
+  - [V. YÜKLEME, ŞART VE VASİYETİ YERİNE GETİRME GÖREVLİSİ (TMK m. 515, 550-551)](bolumler/04-05-v-yukleme-sart-ve-vasiyeti-yerine-getirme-gorevlisi-tmk-m-51.md) — 23 alt başlık
+  - [VI. MİRAS SÖZLEŞMESİ (TMK m. 527, 545)](bolumler/04-06-vi-miras-sozlesmesi-tmk-m-527-545.md) — 28 alt başlık
+- §5. MİRASIN REDDİ
+  - [I. MİRASIN GERÇEK REDDİ: SÜRE, ŞEKİL VE GÖREVLİ MAHKEME (TMK m. 605/1-609)](bolumler/05-01-i-mirasin-gercek-reddi-sure-sekil-ve-gorevli-mahkeme-tmk-m-6.md) — 273 alt başlık
+  - [II. MİRASIN HÜKMEN REDDİ (TMK m. 605/2)](bolumler/05-02-ii-mirasin-hukmen-reddi-tmk-m-605-2.md) — 146 alt başlık
+  - [III. MİRASI KABUL SAYILAN DAVRANIŞLAR VE RET HAKKININ DÜŞMESİ (TMK m. 610)](bolumler/05-03-iii-mirasi-kabul-sayilan-davranislar-ve-ret-hakkinin-dusmesi.md) — 55 alt başlık
+  - [IV. RET BEYANINDAN DÖNME VE ALTSOYUN REDDİNDE PAYIN SAĞ KALAN EŞE GEÇMESİ (TMK m. 611-613)](bolumler/05-04-iv-ret-beyanindan-donme-ve-altsoyun-reddinde-payin-sag-kalan.md) — 143 alt başlık
+  - [V. MİRASIN REDDİNİN İPTALİ (TMK m. 617-618)](bolumler/05-05-v-mirasin-reddinin-iptali-tmk-m-617-618.md) — 53 alt başlık
+  - [VI. EN SIK RED VE BOZMA SEBEPLERİ](bolumler/05-06-vi-en-sik-red-ve-bozma-sebepleri.md) — 246 alt başlık
+- §6. TEREKENİN KORUNMASI VE YÖNETİMİ
+  - [I. TEREKENİN TESPİTİ VE KORUMA ÖNLEMLERİ (TMK m. 589-594)](bolumler/06-01-i-terekenin-tespiti-ve-koruma-onlemleri-tmk-m-589-594.md) — 48 alt başlık
+  - [II. RESMÎ DEFTER VE RESMÎ TASFİYE (TMK m. 619-636)](bolumler/06-02-ii-resmi-defter-ve-resmi-tasfiye-tmk-m-619-636.md) — 52 alt başlık
+  - [III. TEREKEYE (MİRAS ORTAKLIĞINA) TEMSİLCİ ATANMASI (TMK m. 640/3)](bolumler/06-03-iii-terekeye-miras-ortakligina-temsilci-atanmasi-tmk-m-640-3.md) — 185 alt başlık
+- §7. MİRAS ORTAKLIĞI VE PAYLAŞMA
+  - [I. ELBİRLİĞİ MÜLKİYETİ, BİRLİKTE HAREKET ZORUNLULUĞU VE MİRAS ORTAKLIĞI (TMK m. 640, 701-703)](bolumler/07-01-i-elbirligi-mulkiyeti-birlikte-hareket-zorunlulugu-ve-miras.md) — 863 alt başlık
+  - [II. MİRAS TAKSİM (PAYLAŞMA) SÖZLEŞMESİ VE PAYLAŞMA DAVASI (TMK m. 642, 676-681)](bolumler/07-02-ii-miras-taksim-paylasma-sozlesmesi-ve-paylasma-davasi-tmk-m.md) — 266 alt başlık
+  - [III. TARIMSAL ARAZİLERİN MİRAS YOLUYLA GEÇİŞİ VE PAYLAŞILMASI (TMK m. 659 vd., 5403 SAYILI KANUN)](bolumler/07-03-iii-tarimsal-arazilerin-miras-yoluyla-gecisi-ve-paylasilmasi.md) — 27 alt başlık
+- §8. SAKLI PAY VE TENKİS
+  - [I. SAKLI PAYLI MİRASÇILAR VE SAKLI PAY ORANLARI (TMK m. 505-506)](bolumler/08-01-i-sakli-payli-mirascilar-ve-sakli-pay-oranlari-tmk-m-505-506.md) — 89 alt başlık
+  - [II. TENKİS DAVASININ NİTELİĞİ, TARAFLARI VE KONUSU (TMK m. 560)](bolumler/08-02-ii-tenkis-davasinin-niteligi-taraflari-ve-konusu-tmk-m-560.md) — 198 alt başlık
+  - [III. TENKİSE TABİ KAZANDIRMALAR VE SAKLI PAYI ZEDELEME KASTI (TMK m. 565)](bolumler/08-03-iii-tenkise-tabi-kazandirmalar-ve-sakli-payi-zedeleme-kasti.md) — 128 alt başlık
+  - [IV. TENKİS HESABI](bolumler/08-04-iv-tenkis-hesabi.md) — 334 alt başlık
+  - [V. MURİS MUVAZAASI DAVASINDA KADEMELİ OLARAK İSTENEN TENKİS](bolumler/08-05-v-muris-muvazaasi-davasinda-kademeli-olarak-istenen-tenkis.md) — 153 alt başlık
+  - [VI. HAK DÜŞÜRÜCÜ SÜRE VE DEF'İ YOLUYLA TENKİS (TMK m. 571)](bolumler/08-06-vi-hak-dusurucu-sure-ve-def-i-yoluyla-tenkis-tmk-m-571.md) — 110 alt başlık
+  - [VII. BİLİRKİŞİ İNCELEMESİ VE DEĞER TESPİTİ](bolumler/08-07-vii-bilirkisi-incelemesi-ve-deger-tespiti.md) — 68 alt başlık
+  - [VIII. EN SIK RED VE BOZMA SEBEPLERİ](bolumler/08-08-viii-en-sik-red-ve-bozma-sebepleri.md) — 103 alt başlık
+- §9. MİRASTA DENKLEŞTİRME
+  - [I. DENKLEŞTİRMENİN KOŞULLARI VE TARAFLARI (TMK m. 669)](bolumler/09-01-i-denklestirmenin-kosullari-ve-taraflari-tmk-m-669.md) — 32 alt başlık
+  - [II. KARİNELER VE İSPAT YÜKÜ](bolumler/09-02-ii-karineler-ve-ispat-yuku.md) — 14 alt başlık
+  - [III. İADE, DEĞER VE HESAPLAMA (TMK m. 671-673)](bolumler/09-03-iii-iade-deger-ve-hesaplama-tmk-m-671-673.md) — 48 alt başlık
+  - [IV. PAYLAŞTIRMA İRADESİ, ZAMANAŞIMI, GÖREV VE YETKİ](bolumler/09-04-iv-paylastirma-iradesi-zamanasimi-gorev-ve-yetki.md) — 26 alt başlık
+- §10. MURİS MUVAZAASI
+  - [I. GENEL ESASLAR VE 01.04.1974 TARİHLİ 1/2 SAYILI İÇTİHADI BİRLEŞTİRME KARARI](bolumler/10-01-i-genel-esaslar-ve-01-04-1974-tarihli-1-2-sayili-ictihadi-bi.md) — 224 alt başlık
+  - [II. MURİS MUVAZAASININ UYGULAMA ALANI](bolumler/10-02-ii-muris-muvazaasinin-uygulama-alani.md) — 253 alt başlık
+  - [III. MAL KAÇIRMA AMACI VE İSPAT](bolumler/10-03-iii-mal-kacirma-amaci-ve-ispat.md) — 103 alt başlık
+  - [IV. TARAFLAR](bolumler/10-04-iv-taraflar.md) — 82 alt başlık
+  - [V. USUL](bolumler/10-05-v-usul.md) — 282 alt başlık
+  - [VI. HÜKÜM VE SONUÇLARI](bolumler/10-06-vi-hukum-ve-sonuclari.md) — 57 alt başlık
+  - [VII. EN SIK RED VE BOZMA SEBEPLERİ](bolumler/10-07-vii-en-sik-red-ve-bozma-sebepleri.md) — 113 alt başlık
+- §11. MİRAS SEBEBİYLE İSTİHKAK DAVASI
+  - [I. MİRAS SEBEBİYLE İSTİHKAK VE ADİ İSTİHKAK AYRIMI (TMK m. 637-639)](bolumler/11-01-i-miras-sebebiyle-istihkak-ve-adi-istihkak-ayrimi-tmk-m-637.md) — 14 alt başlık
+- §12. MİRAS UYUŞMAZLIKLARINDA USUL
+  - [I. GÖREV](bolumler/12-01-i-gorev.md) — 127 alt başlık
+  - [II. YETKİ (TMK m. 576)](bolumler/12-02-ii-yetki-tmk-m-576.md) — 53 alt başlık
+  - [III. TARAF TEŞKİLİ VE ZORUNLU DAVA ARKADAŞLIĞI](bolumler/12-03-iii-taraf-teskili-ve-zorunlu-dava-arkadasligi.md) — 413 alt başlık
+  - [IV. TARAFLARDAN BİRİNİN ÖLÜMÜ VE DAVAYA DEVAM (HMK m. 55)](bolumler/12-04-iv-taraflardan-birinin-olumu-ve-davaya-devam-hmk-m-55.md) — 127 alt başlık
+  - [V. HUKUKİ YARAR, KESİN HÜKÜM VE DERDESTLİK](bolumler/12-05-v-hukuki-yarar-kesin-hukum-ve-derdestlik.md) — 108 alt başlık
+  - [VI. SÜRELER VE ZAMANAŞIMI](bolumler/12-06-vi-sureler-ve-zamanasimi.md) — 137 alt başlık
+  - [VII. İHTİYATİ TEDBİR VE ŞERH](bolumler/12-07-vii-ihtiyati-tedbir-ve-serh.md) — 52 alt başlık
+  - [VIII. BİLİRKİŞİ İNCELEMESİ VE DEĞER TESPİTİ](bolumler/12-08-viii-bilirkisi-incelemesi-ve-deger-tespiti.md) — 53 alt başlık
+  - [IX. ARABULUCULUK](bolumler/12-09-ix-arabuluculuk.md) — 38 alt başlık
+  - [X. HARÇ VE VEKÂLET ÜCRETİ](bolumler/12-10-x-harc-ve-vekalet-ucreti.md) — 305 alt başlık
+  - [XI. KANUN YOLU VE KESİNLİK](bolumler/12-11-xi-kanun-yolu-ve-kesinlik.md) — 14 alt başlık

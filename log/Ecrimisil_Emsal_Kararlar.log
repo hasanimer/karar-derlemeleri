@@ -1,0 +1,34 @@
+Dosya        : Ecrimisil_Emsal_Kararlar.pdf
+Sayfa        : 1433 (incelenen: 5–1433) | Üretici: LibreOffice 24.2 | Başlık: Ecrimisile İlişkin Emsal Kararlar
+Metin        : sayfa başına ortanca 2978 karakter; yalnız görselden oluşan sayfa: 0/1429
+Yer imi      : 62 (ilki s. 5: §1. ECRİMİSİLİN NİTELİĞİ VE KOŞULLARI)
+İçindekiler  : bulunamadı
+Üst/altbilgi (atılacak): 'Sayfa # / #'×1429
+Gövde stili  : 11.5
+Başlık adayları (stil → düzey | satır sayısı | ilk örnek):
+      16b → 1 [yer imi] |     14 | s.5: §1. ECRİMİSİLİN NİTELİĞİ VE KOŞULLARI
+      13b → 2 [yer imi] |     73 | s.5: I. ECRİMİSİLİN NİTELİĞİ: HAKSIZ İŞGAL TAZMİNATI, HAKSIZ FİİL
+    11.5b → 3 |   3396 | s.5: Yargıtay HGK 2026/301 K.:
+Paragraf     : satır sonu boşluk %84, sağ kenara dayanan %85 → kip: space
+Örneklem (15 sayfa): 0 görsel, 0 tablo
+Uyarılar     : yok
+Sonuç        : UYGUN
+=== convert (start-page 5 --split-level 2 )
+Yazıldı      : md/Ecrimisil_Emsal_Kararlar/Ecrimisil_Emsal_Kararlar.md (4.7 MB)
+Sayfa aralığı: 5–1433
+Başlıklar    : h1: 9, h2: 53, h3: 3396 | paragraf: 8048 | liste maddesi: 0 | aralıktaki yer imi: 62
+Başlık eşlemi: {'16b': 1, '13b': 2, '11.5b': 3} | paragraf kipi: space
+Atılan satır : üst/altbilgi 1429, --drop 0, içindekiler 0, döndürülmüş 0
+  üst/altbilgi: 'Sayfa # / #'×1429
+Bölünmüş     : 53 dosya → md/Ecrimisil_Emsal_Kararlar/bolumler
+=== verify
+Karşılaştırma motoru: pdftotext -raw | sayfa 5–1433
+Karakter (boşluksuz) : PDF 3744631 | MD 3744631
+Bilerek atılan, karşılaştırma dışı: üst/altbilgi 1429 satır / 18911 karakter
+  üst/altbilgi: 'Sayfa # / #'×1429
+PDF'te olup MD'de olmayan : 0 yer, 0 karakter
+MD'de olup PDF'te olmayan : 0 yer, 0 karakter
+Tek karakter farkı        : 0
+Sonuç: TAM EŞLEŞME — fark oranı %0.0000
+Not: bu denetim metnin eksiksizliğini ölçer; paragraf sınırlarını, başlık düzeylerini, sözcük arası boşlukları ve bilerek atılan satırların doğru seçilip seçilmediğini ölçmez.
+=== exit 0

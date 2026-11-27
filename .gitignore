@@ -1,0 +1,4 @@
+pdf/
+*.rapor.json
+*.log.tmp
+.DS_Store

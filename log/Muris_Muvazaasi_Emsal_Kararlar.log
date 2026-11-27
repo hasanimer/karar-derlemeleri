@@ -1,0 +1,34 @@
+Dosya        : Muris_Muvazaasi_Emsal_Kararlar.pdf
+Sayfa        : 35 (incelenen: 4–35) | Üretici: LibreOffice 24.2 | Başlık: -
+Metin        : sayfa başına ortanca 577 karakter; yalnız görselden oluşan sayfa: 0/32
+Yer imi      : 40 (ilki s. 4: §1. GENEL ESASLAR VE 01.04.1974 TARİHLİ 1/2 SAYILI)
+İçindekiler  : bulunamadı
+Üst/altbilgi (atılacak): 'Sayfa # / #'×32
+Gövde stili  : 11.5
+Başlık adayları (stil → düzey | satır sayısı | ilk örnek):
+      16b → 1 [yer imi] |      7 | s.4: §1. GENEL ESASLAR VE 01.04.1974 TARİHLİ 1/2 SAYILI
+      13b → 2 [yer imi] |     40 | s.4: I. 01.04.1974 TARİHLİ 1/2 SAYILI İBK: GÖRÜNÜRDEKİ SATIŞ
+      12b → 3 [yer imi] |      5 | s.14: A. EHLİYETSİZLİK İDDİASI ÖNCELİKLE İNCELENİR
+    11.5b → 4 |    117 | s.4: Yargıtay İBK 01.04.1974 tarihli, 1974/1 E., 1974/2 K.:
+Paragraf     : satır sonu boşluk %0, sağ kenara dayanan %76 → kip: margin
+Örneklem (15 sayfa): 0 görsel, 0 tablo
+Uyarılar     : yok
+Sonuç        : UYGUN
+=== convert (start-page 4  )
+Yazıldı      : md/Muris_Muvazaasi_Emsal_Kararlar/Muris_Muvazaasi_Emsal_Kararlar.md (0.0 MB)
+Sayfa aralığı: 4–35
+Başlıklar    : h1: 6, h2: 30, h3: 4, h4: 89 | paragraf: 49 | liste maddesi: 0 | aralıktaki yer imi: 40
+Başlık eşlemi: {'16b': 1, '13b': 2, '12b': 3, '11.5b': 4} | paragraf kipi: margin
+Atılan satır : üst/altbilgi 32, --drop 0, içindekiler 0, döndürülmüş 0
+  üst/altbilgi: 'Sayfa # / #'×32
+=== verify
+Karşılaştırma motoru: pdftotext -raw | sayfa 4–35
+Karakter (boşluksuz) : PDF 19210 | MD 19210
+Bilerek atılan, karşılaştırma dışı: üst/altbilgi 32 satır / 314 karakter
+  üst/altbilgi: 'Sayfa # / #'×32
+PDF'te olup MD'de olmayan : 0 yer, 0 karakter
+MD'de olup PDF'te olmayan : 0 yer, 0 karakter
+Tek karakter farkı        : 0
+Sonuç: TAM EŞLEŞME — fark oranı %0.0000
+Not: bu denetim metnin eksiksizliğini ölçer; paragraf sınırlarını, başlık düzeylerini, sözcük arası boşlukları ve bilerek atılan satırların doğru seçilip seçilmediğini ölçmez.
+=== exit 0

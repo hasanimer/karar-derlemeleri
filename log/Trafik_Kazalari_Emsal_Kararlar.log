@@ -1,0 +1,33 @@
+Dosya        : Trafik_Kazalari_Emsal_Kararlar.pdf
+Sayfa        : 84 (incelenen: 4–84) | Üretici: LibreOffice 24.2 | Başlık: -
+Metin        : sayfa başına ortanca 2476 karakter; yalnız görselden oluşan sayfa: 0/81
+Yer imi      : 38 (ilki s. 4: §1. SORUMLULUK ESASLARI)
+İçindekiler  : bulunamadı
+Üst/altbilgi (atılacak): 'Sayfa # / #'×81
+Gövde stili  : 11.5
+Başlık adayları (stil → düzey | satır sayısı | ilk örnek):
+      16b → 1 [yer imi] |      9 | s.4: §1. SORUMLULUK ESASLARI
+      13b → 2 [yer imi] |     41 | s.4: I. İŞLETENİN VE ARAÇ İŞLETİCİSİ TEŞEBBÜS SAHİBİNİN
+    11.5b → 3 |    263 | s.4: Yargıtay HGK 2021/1317 K.:
+Paragraf     : satır sonu boşluk %0, sağ kenara dayanan %88 → kip: margin
+Örneklem (15 sayfa): 0 görsel, 0 tablo
+Uyarılar     : yok
+Sonuç        : UYGUN
+=== convert (start-page 4  )
+Yazıldı      : md/Trafik_Kazalari_Emsal_Kararlar/Trafik_Kazalari_Emsal_Kararlar.md (0.2 MB)
+Sayfa aralığı: 4–84
+Başlıklar    : h1: 7, h2: 31, h3: 263 | paragraf: 263 | liste maddesi: 0 | aralıktaki yer imi: 38
+Başlık eşlemi: {'16b': 1, '13b': 2, '11.5b': 3} | paragraf kipi: margin
+Atılan satır : üst/altbilgi 81, --drop 0, içindekiler 0, döndürülmüş 0
+  üst/altbilgi: 'Sayfa # / #'×81
+=== verify
+Karşılaştırma motoru: pdftotext -raw | sayfa 4–84
+Karakter (boşluksuz) : PDF 162282 | MD 162282
+Bilerek atılan, karşılaştırma dışı: üst/altbilgi 81 satır / 804 karakter
+  üst/altbilgi: 'Sayfa # / #'×81
+PDF'te olup MD'de olmayan : 0 yer, 0 karakter
+MD'de olup PDF'te olmayan : 0 yer, 0 karakter
+Tek karakter farkı        : 0
+Sonuç: TAM EŞLEŞME — fark oranı %0.0000
+Not: bu denetim metnin eksiksizliğini ölçer; paragraf sınırlarını, başlık düzeylerini, sözcük arası boşlukları ve bilerek atılan satırların doğru seçilip seçilmediğini ölçmez.
+=== exit 0

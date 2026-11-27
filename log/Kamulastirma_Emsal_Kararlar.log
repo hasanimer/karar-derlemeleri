@@ -1,0 +1,33 @@
+Dosya        : Kamulastirma_Emsal_Kararlar.pdf
+Sayfa        : 86 (incelenen: 4–86) | Üretici: LibreOffice 24.2 | Başlık: -
+Metin        : sayfa başına ortanca 2407 karakter; yalnız görselden oluşan sayfa: 0/83
+Yer imi      : 40 (ilki s. 4: §1. KAMULAŞTIRMA İŞLEMİNİN İPTALİ)
+İçindekiler  : bulunamadı
+Üst/altbilgi (atılacak): 'Sayfa # / #'×83
+Gövde stili  : 11.5
+Başlık adayları (stil → düzey | satır sayısı | ilk örnek):
+      16b → 1 [yer imi] |      8 | s.4: §1. KAMULAŞTIRMA İŞLEMİNİN İPTALİ
+      13b → 2 [yer imi] |     48 | s.4: I. KAMULAŞTIRMA İŞLEMİNİN İPTALİ: KAMU YARARI KARARI VE
+    11.5b → 3 |    254 | s.4: Danıştay İBK 1982/2 K.:
+Paragraf     : satır sonu boşluk %0, sağ kenara dayanan %88 → kip: margin
+Örneklem (15 sayfa): 0 görsel, 0 tablo
+Uyarılar     : yok
+Sonuç        : UYGUN
+=== convert (start-page 4  )
+Yazıldı      : md/Kamulastirma_Emsal_Kararlar/Kamulastirma_Emsal_Kararlar.md (0.2 MB)
+Sayfa aralığı: 4–86
+Başlıklar    : h1: 8, h2: 32, h3: 254 | paragraf: 254 | liste maddesi: 0 | aralıktaki yer imi: 40
+Başlık eşlemi: {'16b': 1, '13b': 2, '11.5b': 3} | paragraf kipi: margin
+Atılan satır : üst/altbilgi 83, --drop 0, içindekiler 0, döndürülmüş 0
+  üst/altbilgi: 'Sayfa # / #'×83
+=== verify
+Karşılaştırma motoru: pdftotext -raw | sayfa 4–86
+Karakter (boşluksuz) : PDF 155614 | MD 155614
+Bilerek atılan, karşılaştırma dışı: üst/altbilgi 83 satır / 824 karakter
+  üst/altbilgi: 'Sayfa # / #'×83
+PDF'te olup MD'de olmayan : 0 yer, 0 karakter
+MD'de olup PDF'te olmayan : 0 yer, 0 karakter
+Tek karakter farkı        : 0
+Sonuç: TAM EŞLEŞME — fark oranı %0.0000
+Not: bu denetim metnin eksiksizliğini ölçer; paragraf sınırlarını, başlık düzeylerini, sözcük arası boşlukları ve bilerek atılan satırların doğru seçilip seçilmediğini ölçmez.
+=== exit 0

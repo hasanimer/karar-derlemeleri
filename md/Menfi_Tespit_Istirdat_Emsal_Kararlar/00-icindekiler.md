@@ -1,0 +1,82 @@
+# Menfi Tespit, İstirdat ve Borçtan Kurtulma Davalarına İlişkin Emsal Kararlar
+
+Kaynak: `Menfi_Tespit_Istirdat_Emsal_Kararlar.pdf`
+
+- §1. MENFİ TESPİT DAVASI (İİK m. 72)
+  - [I. DAVANIN NİTELİĞİ VE HUKUKİ YARAR](bolumler/01-01-i-davanin-niteligi-ve-hukuki-yarar.md) — 465 alt başlık
+  - [II. TAKİPTEN ÖNCE, TAKİP SIRASINDA VE TAKİPTEN SONRA AÇILAN DAVA](bolumler/01-02-ii-takipten-once-takip-sirasinda-ve-takipten-sonra-acilan-da.md) — 242 alt başlık
+  - [III. TAKİP SIRASINDA TEDBİR (İİK m. 72/2) VE İHTİYATİ TEDBİR](bolumler/01-03-iii-takip-sirasinda-tedbir-iik-m-72-2-ve-ihtiyati-tedbir.md) — 513 alt başlık
+  - [IV. TEDBİRE, TEMİNATA VE TEDBİR KARARINA İTİRAZ](bolumler/01-04-iv-tedbire-teminata-ve-tedbir-kararina-itiraz.md) — 245 alt başlık
+  - [V. DAVANIN REDDİNDE ALACAKLI LEHİNE TAZMİNAT (İİK m. 72/4)](bolumler/01-05-v-davanin-reddinde-alacakli-lehine-tazminat-iik-m-72-4.md) — 247 alt başlık
+  - [VI. DAVANIN KABULÜNDE BORÇLU LEHİNE TAZMİNAT VE KÖTÜNİYET ŞARTI (İİK m. 72/5)](bolumler/01-06-vi-davanin-kabulunde-borclu-lehine-tazminat-ve-kotuniyet-sar.md) — 334 alt başlık
+  - [VII. İCRA MAHKEMESİ KARARLARININ KESİN HÜKÜM ETKİSİ BULUNMAMASI](bolumler/01-07-vii-icra-mahkemesi-kararlarinin-kesin-hukum-etkisi-bulunmama.md) — 65 alt başlık
+  - [VIII. TAKİBİN DURMASI VE PARANIN ALACAKLIYA ÖDENMEMESİ (İİK m. 72/3)](bolumler/01-08-viii-takibin-durmasi-ve-paranin-alacakliya-odenmemesi-iik-m.md) — 250 alt başlık
+  - [IX. MUACCELİYET VE BORCUN HENÜZ MUACCEL OLMAMASI](bolumler/01-09-ix-muacceliyet-ve-borcun-henuz-muaccel-olmamasi.md) — 127 alt başlık
+  - [X. MENFİ TESPİT VE İSTİRDAT DAVALARINDA ZAMANAŞIMI](bolumler/01-10-x-menfi-tespit-ve-istirdat-davalarinda-zamanasimi.md) — 204 alt başlık
+  - [XI. HARÇ, VEKÂLET ÜCRETİ VE DAVA DEĞERİ](bolumler/01-11-xi-harc-vekalet-ucreti-ve-dava-degeri.md) — 246 alt başlık
+- §2. MENFİ TESPİT, İSTİRDAT VE BORÇTAN KURTULMA DAVALARINDA İSPAT
+  - [I. GENEL KURAL: ALACAĞIN VARLIĞINI DAVALI ALACAKLININ İSPATLAMASI](bolumler/02-01-i-genel-kural-alacagin-varligini-davali-alacaklinin-ispatlam.md) — 370 alt başlık
+  - [II. BORÇ İKRARINI İÇEREN BELGE VARSA İSPAT YÜKÜNÜN BORÇLUYA GEÇMESİ](bolumler/02-02-ii-borc-ikrarini-iceren-belge-varsa-ispat-yukunun-borcluya-g.md) — 247 alt başlık
+  - [III. ÖDEME, TAKAS, İBRA VE İTFA SAVUNMALARINDA İSPAT](bolumler/02-03-iii-odeme-takas-ibra-ve-itfa-savunmalarinda-ispat.md) — 245 alt başlık
+  - [IV. YAZILI DELİL ZORUNLULUĞU VE SENEDE KARŞI SENETLE İSPAT (HMK m. 200-201)](bolumler/02-04-iv-yazili-delil-zorunlulugu-ve-senede-karsi-senetle-ispat-hm.md) — 242 alt başlık
+  - [V. DELİL BAŞLANGICI VE TANIK DİNLENEBİLECEK HÂLLER (HMK m. 202-203)](bolumler/02-05-v-delil-baslangici-ve-tanik-dinlenebilecek-haller-hmk-m-202.md) — 207 alt başlık
+  - [VI. TİCARİ DEFTERLER, FATURALAR VE CARİ HESAP KAYITLARIYLA İSPAT](bolumler/02-06-vi-ticari-defterler-faturalar-ve-cari-hesap-kayitlariyla-isp.md) — 249 alt başlık
+  - [VII. BANKA KAYITLARI VE DELİL SÖZLEŞMESİ (HMK m. 193)](bolumler/02-07-vii-banka-kayitlari-ve-delil-sozlesmesi-hmk-m-193.md) — 249 alt başlık
+  - [VIII. YEMİN DELİLİ](bolumler/02-08-viii-yemin-delili.md) — 247 alt başlık
+  - [IX. KAMBİYO SENETLERİNDE BEDELSİZLİK İDDİASININ İSPATI](bolumler/02-09-ix-kambiyo-senetlerinde-bedelsizlik-iddiasinin-ispati.md) — 248 alt başlık
+  - [X. HATIR SENEDİ VE TEMİNAT SENEDİ İDDİASININ İSPATI](bolumler/02-10-x-hatir-senedi-ve-teminat-senedi-iddiasinin-ispati.md) — 158 alt başlık
+  - [XI. ANLAŞMAYA AYKIRI DOLDURMA VE AÇIĞA İMZADA İSPAT](bolumler/02-11-xi-anlasmaya-aykiri-doldurma-ve-aciga-imzada-ispat.md) — 52 alt başlık
+  - [XII. MUVAZAA İDDİASININ İSPATI](bolumler/02-12-xii-muvazaa-iddiasinin-ispati.md) — 28 alt başlık
+  - [XIII. İSTİRDAT DAVASINDA İSPAT YÜKÜ](bolumler/02-13-xiii-istirdat-davasinda-ispat-yuku.md) — 151 alt başlık
+  - [XIV. BORÇTAN KURTULMA DAVASINDA İSPAT YÜKÜ](bolumler/02-14-xiv-borctan-kurtulma-davasinda-ispat-yuku.md) — 50 alt başlık
+  - [XV. HACİZ İHBARNAMESİNE KARŞI MENFİ TESPİTTE (İİK m. 89/3) ÜÇÜNCÜ KİŞİNİN İSPAT YÜKÜ](bolumler/02-15-xv-haciz-ihbarnamesine-karsi-menfi-tespitte-iik-m-89-3-ucunc.md) — 65 alt başlık
+- §3. KAMBİYO SENETLERİNE DAYALI MENFİ TESPİT
+  - [I. BEDELSİZLİK, HATIR SENEDİ VE TEMİNAT SENEDİ İDDİALARI](bolumler/03-01-i-bedelsizlik-hatir-senedi-ve-teminat-senedi-iddialari.md) — 257 alt başlık
+  - [II. SENEDİN ANLAŞMAYA AYKIRI DOLDURULMASI VE AÇIĞA İMZA](bolumler/03-02-ii-senedin-anlasmaya-aykiri-doldurulmasi-ve-aciga-imza.md) — 153 alt başlık
+  - [III. İMZAYA İTİRAZ VE SAHTELİK](bolumler/03-03-iii-imzaya-itiraz-ve-sahtelik.md) — 226 alt başlık
+  - [IV. CİRO, YETKİLİ HAMİL VE İYİNİYETLİ HAMİL](bolumler/03-04-iv-ciro-yetkili-hamil-ve-iyiniyetli-hamil.md) — 255 alt başlık
+  - [V. KÖTÜNİYETLİ HAMİL VE DEFİLERİN HAMİLE KARŞI İLERİ SÜRÜLMESİ (TTK m. 687)](bolumler/03-05-v-kotuniyetli-hamil-ve-defilerin-hamile-karsi-ileri-surulmes.md) — 110 alt başlık
+  - [VI. KAYBOLAN VE ÇALINAN ÇEK, ÇEK İPTALİ](bolumler/03-06-vi-kaybolan-ve-calinan-cek-cek-iptali.md) — 250 alt başlık
+  - [VII. KAMBİYO SENETLERİNDE ZAMANAŞIMI](bolumler/03-07-vii-kambiyo-senetlerinde-zamanasimi.md) — 171 alt başlık
+  - [VIII. İRADE FESADI: HATA, HİLE, İKRAH VE AŞIRI YARARLANMA](bolumler/03-08-viii-irade-fesadi-hata-hile-ikrah-ve-asiri-yararlanma.md) — 250 alt başlık
+- §4. İSTİRDAT DAVASI (İİK m. 72/6-7)
+  - [I. CEBRİ İCRA TEHDİDİ ALTINDA ÖDEME VE İHTİRAZİ KAYIT ARANMAMASI](bolumler/04-01-i-cebri-icra-tehdidi-altinda-odeme-ve-ihtirazi-kayit-aranmam.md) — 164 alt başlık
+  - [II. SÜRE: ÖDEMEDEN İTİBAREN BİR YILLIK HAK DÜŞÜRÜCÜ SÜRE](bolumler/04-02-ii-sure-odemeden-itibaren-bir-yillik-hak-dusurucu-sure.md) — 180 alt başlık
+  - [III. MENFİ TESPİT DAVASININ İSTİRDAT DAVASINA DÖNÜŞMESİ](bolumler/04-03-iii-menfi-tespit-davasinin-istirdat-davasina-donusmesi.md) — 245 alt başlık
+  - [IV. FAİZ VE FAİZİN BAŞLANGICI](bolumler/04-04-iv-faiz-ve-faizin-baslangici.md) — 72 alt başlık
+  - [V. SÜRE KAÇIRILINCA GENEL HÜKÜMLERE GÖRE SEBEPSİZ ZENGİNLEŞME DAVASI](bolumler/04-05-v-sure-kacirilinca-genel-hukumlere-gore-sebepsiz-zenginlesme.md) — 173 alt başlık
+- §5. BORÇTAN KURTULMA DAVASI (İİK m. 69)
+  - [I. DAVANIN NİTELİĞİ VE MENFİ TESPİT DAVASINDAN FARKI](bolumler/05-01-i-davanin-niteligi-ve-menfi-tespit-davasindan-farki.md) — 197 alt başlık
+  - [II. GEÇİCİ KALDIRMA KARARININ TEBLİĞİNDEN İTİBAREN YEDİ GÜNLÜK SÜRE](bolumler/05-02-ii-gecici-kaldirma-kararinin-tebliginden-itibaren-yedi-gunlu.md) — 66 alt başlık
+  - [III. TAZMİNAT, GEÇİCİ HACZİN KALKMASI VE HACZİN KESİNLEŞMESİ](bolumler/05-03-iii-tazminat-gecici-haczin-kalkmasi-ve-haczin-kesinlesmesi.md) — 47 alt başlık
+- §6. ÖZEL MENFİ TESPİT DAVALARI
+  - [I. ÜÇÜNCÜ KİŞİNİN HACİZ İHBARNAMESİNE KARŞI MENFİ TESPİT DAVASI (İİK m. 89/3)](bolumler/06-01-i-ucuncu-kisinin-haciz-ihbarnamesine-karsi-menfi-tespit-dava.md) — 238 alt başlık
+  - [II. KEFİL VE MÜŞTEREK BORÇLUNUN AÇTIĞI MENFİ TESPİT DAVASI](bolumler/06-02-ii-kefil-ve-musterek-borclunun-actigi-menfi-tespit-davasi.md) — 185 alt başlık
+  - [III. REHİN VE İPOTEK BORCUNDAN DOĞAN MENFİ TESPİT](bolumler/06-03-iii-rehin-ve-ipotek-borcundan-dogan-menfi-tespit.md) — 200 alt başlık
+  - [IV. ALACAĞIN TEMLİKİ VE TEMLİK ALANA KARŞI MENFİ TESPİT](bolumler/06-04-iv-alacagin-temliki-ve-temlik-alana-karsi-menfi-tespit.md) — 250 alt başlık
+  - [V. TEMİNAT MEKTUBUNUN NAKDE ÇEVRİLMESİNE KARŞI MENFİ TESPİT VE İSTİRDAT](bolumler/06-05-v-teminat-mektubunun-nakde-cevrilmesine-karsi-menfi-tespit-v.md) — 234 alt başlık
+  - [VI. KEFALETİN GEÇERSİZLİĞİ: EŞ RIZASI, AZAMİ MİKTAR VE ŞEKİL](bolumler/06-06-vi-kefaletin-gecersizligi-es-rizasi-azami-miktar-ve-sekil.md) — 114 alt başlık
+  - [VII. YETKİSİZ TEMSİL VE ŞİRKETİ TEMSİL YETKİSİ](bolumler/06-07-vii-yetkisiz-temsil-ve-sirketi-temsil-yetkisi.md) — 97 alt başlık
+  - [VIII. İHTİYATİ HACİZ VE MENFİ TESPİT DAVASI İLİŞKİSİ](bolumler/06-08-viii-ihtiyati-haciz-ve-menfi-tespit-davasi-iliskisi.md) — 208 alt başlık
+- §7. ALACAK TÜRLERİNE GÖRE MENFİ TESPİT VE İSTİRDAT
+  - [I. TİCARİ ALACAKLAR: FATURA, CARİ HESAP VE TİCARİ DEFTERLER](bolumler/07-01-i-ticari-alacaklar-fatura-cari-hesap-ve-ticari-defterler.md) — 247 alt başlık
+  - [II. BANKA KREDİSİ VE KREDİ KARTI ALACAKLARI](bolumler/07-02-ii-banka-kredisi-ve-kredi-karti-alacaklari.md) — 246 alt başlık
+  - [III. TÜKETİCİ İŞLEMLERİ](bolumler/07-03-iii-tuketici-islemleri.md) — 241 alt başlık
+  - [IV. ABONELİK VE KAÇAK KULLANIM BEDELLERİ: ELEKTRİK, SU, DOĞALGAZ](bolumler/07-04-iv-abonelik-ve-kacak-kullanim-bedelleri-elektrik-su-dogalgaz.md) — 246 alt başlık
+  - [V. KİRA ALACAKLARI](bolumler/07-05-v-kira-alacaklari.md) — 231 alt başlık
+  - [VI. YÖNETİM AİDATI VE KAT MÜLKİYETİ ALACAKLARI](bolumler/07-06-vi-yonetim-aidati-ve-kat-mulkiyeti-alacaklari.md) — 227 alt başlık
+  - [VII. AVUKATLIK ÜCRETİ](bolumler/07-07-vii-avukatlik-ucreti.md) — 215 alt başlık
+  - [VIII. SGK PRİM BORCU VE KAMU ALACAKLARI](bolumler/07-08-viii-sgk-prim-borcu-ve-kamu-alacaklari.md) — 242 alt başlık
+- §8. GÖREV VE YETKİ
+  - [I. GENEL GÖREV: ASLİYE HUKUK VE SULH HUKUK MAHKEMESİ](bolumler/08-01-i-genel-gorev-asliye-hukuk-ve-sulh-hukuk-mahkemesi.md) — 242 alt başlık
+  - [II. TİCARİ MENFİ TESPİT DAVASINDA ASLİYE TİCARET MAHKEMESİNİN GÖREVİ](bolumler/08-02-ii-ticari-menfi-tespit-davasinda-asliye-ticaret-mahkemesinin.md) — 240 alt başlık
+  - [III. TÜKETİCİ MAHKEMESİNİN GÖREVİ](bolumler/08-03-iii-tuketici-mahkemesinin-gorevi.md) — 107 alt başlık
+  - [IV. İŞ MAHKEMESİNİN GÖREVİ: SGK PRİM BORCU VE İŞÇİLİK ALACAKLARI](bolumler/08-04-iv-is-mahkemesinin-gorevi-sgk-prim-borcu-ve-iscilik-alacakla.md) — 66 alt başlık
+  - [V. İDARİ VE VERGİ YARGISININ GÖREVİ (6183 SAYILI KANUN)](bolumler/08-05-v-idari-ve-vergi-yargisinin-gorevi-6183-sayili-kanun.md) — 72 alt başlık
+  - [VI. YETKİ](bolumler/08-06-vi-yetki.md) — 244 alt başlık
+- §9. DAVA ŞARTI ARABULUCULUK VE TAHKİM
+  - [I. TİCARİ, TÜKETİCİ VE İŞ UYUŞMAZLIKLARINDA DAVA ŞARTI ARABULUCULUK](bolumler/09-01-i-ticari-tuketici-ve-is-uyusmazliklarinda-dava-sarti-arabulu.md) — 246 alt başlık
+  - [II. TEDBİR TALEBİ VE ARABULUCULUK](bolumler/09-02-ii-tedbir-talebi-ve-arabuluculuk.md) — 37 alt başlık
+  - [III. MENFİ TESPİT DAVASINDA TAHKİM İLK İTİRAZI](bolumler/09-03-iii-menfi-tespit-davasinda-tahkim-ilk-itirazi.md) — 43 alt başlık
+- §10. KANUN YOLLARI VE KESİNLİK
+  - [I. İSTİNAF, TEMYİZ VE KESİNLİK SINIRI](bolumler/10-01-i-istinaf-temyiz-ve-kesinlik-siniri.md) — 246 alt başlık

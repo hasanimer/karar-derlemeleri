@@ -1,0 +1,33 @@
+Dosya        : Tahkim_Emsal_Kararlar_V2.pdf
+Sayfa        : 41 (incelenen: 3–41) | Üretici: Microsoft® Word 2024 | Başlık: -
+Metin        : sayfa başına ortanca 2306 karakter; yalnız görselden oluşan sayfa: 0/39
+Yer imi      : 26 (ilki s. 3: §1. TAHKİM SÖZLEŞMESİ)
+İçindekiler  : bulunamadı
+Üst/altbilgi (atılacak): 'Sayfa # / #'×39
+Gövde stili  : 11.5
+Başlık adayları (stil → düzey | satır sayısı | ilk örnek):
+      16b → 1 [yer imi] |      8 | s.3: §1. TAHKİM SÖZLEŞMESİ
+      13b → 2 [yer imi] |     26 | s.3: I. TAHKİME ELVERİŞLİLİK
+    11.5b → 3 |     89 | s.3: Yargıtay HGK 2026/15 K.:
+Paragraf     : satır sonu boşluk %100, sağ kenara dayanan %92 → kip: space
+Örneklem (15 sayfa): 0 görsel, 0 tablo
+Uyarılar     : yok
+Sonuç        : UYGUN
+=== convert (start-page 3  )
+Yazıldı      : md/Tahkim_Emsal_Kararlar_V2/Tahkim_Emsal_Kararlar_V2.md (0.1 MB)
+Sayfa aralığı: 3–41
+Başlıklar    : h1: 5, h2: 21, h3: 85 | paragraf: 97 | liste maddesi: 0 | aralıktaki yer imi: 26
+Başlık eşlemi: {'16b': 1, '13b': 2, '11.5b': 3} | paragraf kipi: space
+Atılan satır : üst/altbilgi 39, --drop 0, içindekiler 0, döndürülmüş 0
+  üst/altbilgi: 'Sayfa # / #'×39
+=== verify
+Karşılaştırma motoru: pdftotext -raw | sayfa 3–41
+Karakter (boşluksuz) : PDF 79626 | MD 79626
+Bilerek atılan, karşılaştırma dışı: üst/altbilgi 39 satır / 383 karakter
+  üst/altbilgi: 'Sayfa # / #'×39
+PDF'te olup MD'de olmayan : 0 yer, 0 karakter
+MD'de olup PDF'te olmayan : 0 yer, 0 karakter
+Tek karakter farkı        : 0
+Sonuç: TAM EŞLEŞME — fark oranı %0.0000
+Not: bu denetim metnin eksiksizliğini ölçer; paragraf sınırlarını, başlık düzeylerini, sözcük arası boşlukları ve bilerek atılan satırların doğru seçilip seçilmediğini ölçmez.
+=== exit 0

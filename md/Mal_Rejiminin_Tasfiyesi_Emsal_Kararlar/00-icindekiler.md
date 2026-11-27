@@ -1,0 +1,44 @@
+# Mal_Rejiminin_Tasfiyesi_Emsal_Kararlar
+
+Kaynak: `Mal_Rejiminin_Tasfiyesi_Emsal_Kararlar.pdf`
+
+- §1. GENEL HÜKÜMLER
+  - [I. 4722 SAYILI KANUN VE GEÇİŞ DÖNEMİ: MAL AYRILIĞI VE EDİNİLMİŞ MALLARA KATILMA](bolumler/01-01-i-4722-sayili-kanun-ve-gecis-donemi-mal-ayriligi-ve-edinilmi.md) — 518 alt başlık
+  - [II. MAL REJİMİ SÖZLEŞMESİ (TMK m. 203–205)](bolumler/01-02-ii-mal-rejimi-sozlesmesi-tmk-m-203205.md) — 10 alt başlık
+  - [III. MAL REJİMİNİN SONA ERMESİ (TMK m. 225)](bolumler/01-03-iii-mal-rejiminin-sona-ermesi-tmk-m-225.md) — 263 alt başlık
+  - [IV. TASFİYE TARİHİ VE SÜRÜM DEĞERİ (TMK m. 232, 235)](bolumler/01-04-iv-tasfiye-tarihi-ve-surum-degeri-tmk-m-232-235.md) — 136 alt başlık
+  - [V. GÖREVLİ MAHKEME, BEKLETİCİ MESELE VE BOŞANMANIN KESİNLEŞMESİ](bolumler/01-05-v-gorevli-mahkeme-bekletici-mesele-ve-bosanmanin-kesinlesmes.md) — 185 alt başlık
+  - [VI. TARAF SIFATI VE HUSUMET](bolumler/01-06-vi-taraf-sifati-ve-husumet.md) — 1 alt başlık
+- §2. EDİNİLMİŞ MALLAR VE KİŞİSEL MALLAR
+  - [I. EDİNİLMİŞ MALLAR (TMK m. 219)](bolumler/02-01-i-edinilmis-mallar-tmk-m-219.md) — 205 alt başlık
+  - [II. KİŞİSEL MALLAR VE KİŞİSEL MAL AYRIMI (TMK m. 220–221)](bolumler/02-02-ii-kisisel-mallar-ve-kisisel-mal-ayrimi-tmk-m-220221.md) — 249 alt başlık
+  - [III. İKAME DEĞERLER, KARİNE VE İSPAT YÜKÜ (TMK m. 222)](bolumler/02-03-iii-ikame-degerler-karine-ve-ispat-yuku-tmk-m-222.md) — 17 alt başlık
+  - [IV. EMEKLİ İKRAMİYESİ, KIDEM TAZMİNATI VE SOSYAL GÜVENLİK ÖDEMELERİ](bolumler/02-04-iv-emekli-ikramiyesi-kidem-tazminati-ve-sosyal-guvenlik-odem.md) — 50 alt başlık
+  - [V. DENKLEŞTİRME (TMK m. 230)](bolumler/02-05-v-denklestirme-tmk-m-230.md) — 11 alt başlık
+  - [VI. EKLENECEK DEĞERLER (TMK m. 229)](bolumler/02-06-vi-eklenecek-degerler-tmk-m-229.md) — 86 alt başlık
+  - [VII. ÜÇÜNCÜ KİŞİLERİN SORUMLULUĞU (TMK m. 241)](bolumler/02-07-vii-ucuncu-kisilerin-sorumlulugu-tmk-m-241.md) — 8 alt başlık
+- §3. KATILMA ALACAĞI
+  - [I. ARTIK DEĞER VE KATILMA ALACAĞI (TMK m. 231, 236)](bolumler/03-01-i-artik-deger-ve-katilma-alacagi-tmk-m-231-236.md) — 471 alt başlık
+  - [II. KREDİ VE BORÇLARIN HESABA KATILMASI](bolumler/03-02-ii-kredi-ve-borclarin-hesaba-katilmasi.md) — 138 alt başlık
+  - [III. ÖDEME, AYNEN ÖDEME VE ÖDEMENİN ERTELENMESİ (TMK m. 239–240)](bolumler/03-03-iii-odeme-aynen-odeme-ve-odemenin-ertelenmesi-tmk-m-239240.md) — 30 alt başlık
+- §4. DEĞER ARTIŞ PAYI
+  - [I. DEĞER ARTIŞ PAYI ALACAĞI (TMK m. 227)](bolumler/04-01-i-deger-artis-payi-alacagi-tmk-m-227.md) — 151 alt başlık
+- §5. KATKI PAYI ALACAĞI
+  - [I. MAL AYRILIĞI DÖNEMİNE İLİŞKİN KATKI PAYI ALACAĞI](bolumler/05-01-i-mal-ayriligi-donemine-iliskin-katki-payi-alacagi.md) — 346 alt başlık
+- §6. DİĞER MAL REJİMLERİ
+  - [I. MAL AYRILIĞI, PAYLAŞMALI MAL AYRILIĞI VE MAL ORTAKLIĞI](bolumler/06-01-i-mal-ayriligi-paylasmali-mal-ayriligi-ve-mal-ortakligi.md) — 28 alt başlık
+- §7. MİRAS HUKUKU İLE İLİŞKİ VE ÖNCELİK
+  - [I. ÖLÜMLE SONA EREN MAL REJİMİ, TEREKE VE MİRASÇILAR](bolumler/07-01-i-olumle-sona-eren-mal-rejimi-tereke-ve-mirascilar.md) — 220 alt başlık
+  - [II. SAĞ KALAN EŞİN HAKLARI (TMK m. 240, 652)](bolumler/07-02-ii-sag-kalan-esin-haklari-tmk-m-240-652.md) — 28 alt başlık
+  - [III. TENKİS, SAKLI PAY VE MİRAS PAYI İLE İLİŞKİ](bolumler/07-03-iii-tenkis-sakli-pay-ve-miras-payi-ile-iliski.md) — 20 alt başlık
+- §8. USUL
+  - [I. ISLAH, KISMİ DAVA VE BELİRSİZ ALACAK](bolumler/08-01-i-islah-kismi-dava-ve-belirsiz-alacak.md) — 78 alt başlık
+  - [II. TALEPLE BAĞLILIK VE DAVADA TALEP](bolumler/08-02-ii-taleple-baglilik-ve-davada-talep.md) — 21 alt başlık
+  - [III. HARÇ VE VEKÂLET ÜCRETİ](bolumler/08-03-iii-harc-ve-vekalet-ucreti.md) — 71 alt başlık
+  - [IV. FAİZ (TMK m. 239/3)](bolumler/08-04-iv-faiz-tmk-m-239-3.md) — 112 alt başlık
+  - [V. BİLİRKİŞİ İNCELEMESİ VE KEŞİF](bolumler/08-05-v-bilirkisi-incelemesi-ve-kesif.md) — 165 alt başlık
+  - [VI. İHTİYATİ TEDBİR VE TASARRUF YETKİSİNİN SINIRLANDIRILMASI](bolumler/08-06-vi-ihtiyati-tedbir-ve-tasarruf-yetkisinin-sinirlandirilmasi.md) — 4 alt başlık
+- §9. ZAMANAŞIMI
+  - [I. ZAMANAŞIMI (TMK m. 178)](bolumler/09-01-i-zamanasimi-tmk-m-178.md) — 113 alt başlık
+- §10. TANIMA VE TENFİZ
+  - [I. YABANCI MAHKEME KARARLARININ TANINMASI VE TENFİZİ](bolumler/10-01-i-yabanci-mahkeme-kararlarinin-taninmasi-ve-tenfizi.md) — 22 alt başlık

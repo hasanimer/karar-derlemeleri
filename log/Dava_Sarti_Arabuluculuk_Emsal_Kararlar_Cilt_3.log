@@ -1,0 +1,34 @@
+Dosya        : Dava_Sarti_Arabuluculuk_Emsal_Kararlar_Cilt_3.pdf
+Sayfa        : 600 (incelenen: 3–600) | Üretici: LibreOffice 24.2 | Başlık: -
+Metin        : sayfa başına ortanca 3366 karakter; yalnız görselden oluşan sayfa: 0/598
+Yer imi      : 16 (ilki s. 3: TİCARİ DAVALARDA DAVA ŞARTI ARABULUCULUK)
+İçindekiler  : bulunamadı
+Üst/altbilgi (atılacak): 'Sayfa # / #'×598
+Gövde stili  : 11.5
+Başlık adayları (stil → düzey | satır sayısı | ilk örnek):
+      16b → 1 [yer imi] |      1 | s.3: TİCARİ DAVALARDA DAVA ŞARTI ARABULUCULUK
+      13b → 2 [yer imi] |     17 | s.3: I. GENEL ESASLAR
+    11.5b → 3 |    978 | s.3: AYM 2020/56 E., 2023/108 K., 01.06.2023:
+Paragraf     : satır sonu boşluk %0, sağ kenara dayanan %90 → kip: margin
+Örneklem (15 sayfa): 0 görsel, 0 tablo
+Uyarılar     : yok
+Sonuç        : UYGUN
+=== convert (start-page 3 --split-level 2 )
+Yazıldı      : md/Dava_Sarti_Arabuluculuk_Emsal_Kararlar_Cilt_3/Dava_Sarti_Arabuluculuk_Emsal_Kararlar_Cilt_3.md (2.2 MB)
+Sayfa aralığı: 3–600
+Başlıklar    : h1: 1, h2: 15, h3: 978 | paragraf: 2423 | liste maddesi: 0 | aralıktaki yer imi: 16
+Başlık eşlemi: {'16b': 1, '13b': 2, '11.5b': 3} | paragraf kipi: margin
+Atılan satır : üst/altbilgi 598, --drop 0, içindekiler 0, döndürülmüş 0
+  üst/altbilgi: 'Sayfa # / #'×598
+Bölünmüş     : 15 dosya → md/Dava_Sarti_Arabuluculuk_Emsal_Kararlar_Cilt_3/bolumler
+=== verify
+Karşılaştırma motoru: pdftotext -raw | sayfa 3–600
+Karakter (boşluksuz) : PDF 1751193 | MD 1751193
+Bilerek atılan, karşılaştırma dışı: üst/altbilgi 598 satır / 7072 karakter
+  üst/altbilgi: 'Sayfa # / #'×598
+PDF'te olup MD'de olmayan : 0 yer, 0 karakter
+MD'de olup PDF'te olmayan : 0 yer, 0 karakter
+Tek karakter farkı        : 0
+Sonuç: TAM EŞLEŞME — fark oranı %0.0000
+Not: bu denetim metnin eksiksizliğini ölçer; paragraf sınırlarını, başlık düzeylerini, sözcük arası boşlukları ve bilerek atılan satırların doğru seçilip seçilmediğini ölçmez.
+=== exit 0

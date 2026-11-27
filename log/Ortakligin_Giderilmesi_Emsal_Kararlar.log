@@ -1,0 +1,34 @@
+Dosya        : Ortakligin_Giderilmesi_Emsal_Kararlar.pdf
+Sayfa        : 1341 (incelenen: 4–1341) | Üretici: LibreOffice 24.2 | Başlık: Ortaklığın Giderilmesi Davasına İlişkin Emsal Kararlar
+Metin        : sayfa başına ortanca 2912 karakter; yalnız görselden oluşan sayfa: 0/1338
+Yer imi      : 56 (ilki s. 4: §1. ORTAKLIĞIN GİDERİLMESİ DAVASININ NİTELİĞİ VE G)
+İçindekiler  : bulunamadı
+Üst/altbilgi (atılacak): 'Sayfa # / #'×1338
+Gövde stili  : 11.5
+Başlık adayları (stil → düzey | satır sayısı | ilk örnek):
+      16b → 1 [yer imi] |     16 | s.4: §1. ORTAKLIĞIN GİDERİLMESİ DAVASININ NİTELİĞİ
+      13b → 2 [yer imi] |     71 | s.4: I. DAVANIN NİTELİĞİ: ÇİFT TARAFLI DAVA, HER ZAMAN
+    11.5b → 3 |   3166 | s.4: Yargıtay HGK 2024/217 K.:
+Paragraf     : satır sonu boşluk %82, sağ kenara dayanan %83 → kip: space
+Örneklem (15 sayfa): 0 görsel, 0 tablo
+Uyarılar     : yok
+Sonuç        : UYGUN
+=== convert (start-page 4 --split-level 2 )
+Yazıldı      : md/Ortakligin_Giderilmesi_Emsal_Kararlar/Ortakligin_Giderilmesi_Emsal_Kararlar.md (4.3 MB)
+Sayfa aralığı: 4–1341
+Başlıklar    : h1: 12, h2: 44, h3: 3166 | paragraf: 8494 | liste maddesi: 0 | aralıktaki yer imi: 56
+Başlık eşlemi: {'16b': 1, '13b': 2, '11.5b': 3} | paragraf kipi: space
+Atılan satır : üst/altbilgi 1338, --drop 0, içindekiler 0, döndürülmüş 0
+  üst/altbilgi: 'Sayfa # / #'×1338
+Bölünmüş     : 44 dosya → md/Ortakligin_Giderilmesi_Emsal_Kararlar/bolumler
+=== verify
+Karşılaştırma motoru: pdftotext -raw | sayfa 4–1341
+Karakter (boşluksuz) : PDF 3432578 | MD 3432578
+Bilerek atılan, karşılaştırma dışı: üst/altbilgi 1338 satır / 17634 karakter
+  üst/altbilgi: 'Sayfa # / #'×1338
+PDF'te olup MD'de olmayan : 0 yer, 0 karakter
+MD'de olup PDF'te olmayan : 0 yer, 0 karakter
+Tek karakter farkı        : 0
+Sonuç: TAM EŞLEŞME — fark oranı %0.0000
+Not: bu denetim metnin eksiksizliğini ölçer; paragraf sınırlarını, başlık düzeylerini, sözcük arası boşlukları ve bilerek atılan satırların doğru seçilip seçilmediğini ölçmez.
+=== exit 0

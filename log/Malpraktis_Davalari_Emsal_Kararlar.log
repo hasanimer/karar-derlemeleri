@@ -1,0 +1,35 @@
+Dosya        : Malpraktis_Davalari_Emsal_Kararlar.pdf
+Sayfa        : 5230 (incelenen: 5–5230) | Üretici: LibreOffice 24.2 | Başlık: Malpraktis Davalarına İlişkin Emsal Kararlar
+Metin        : sayfa başına ortanca 3069 karakter; yalnız görselden oluşan sayfa: 0/5226
+Yer imi      : 64 (ilki s. 5: §1. HEKİM-HASTA İLİŞKİSİNİN HUKUKİ NİTELİĞİ: VEKÂL)
+İçindekiler  : bulunamadı
+Üst/altbilgi (atılacak): 'Sayfa # / #'×5226
+Gövde stili  : 11.5
+Başlık adayları (stil → düzey | satır sayısı | ilk örnek):
+      16b → 1 [yer imi] |     12 | s.5: §1. HEKİM-HASTA İLİŞKİSİNİN HUKUKİ NİTELİĞİ:
+      13b → 2 [yer imi] |     56 | s.5: I. VEKÂLET SÖZLEŞMESİ KAPSAMINDAKİ TIBBİ İŞLEMLER:
+      12b → 3 [yer imi] |     16 | s.567: 1. İDARENİN HİZMET KUSURUNDAN SORUMLULUĞU
+    11.5b → 4 |   6750 | s.5: Yargıtay HGK 2024/565 K.:
+Paragraf     : satır sonu boşluk %82, sağ kenara dayanan %82 → kip: space
+Örneklem (15 sayfa): 0 görsel, 0 tablo
+Uyarılar     : yok
+Sonuç        : UYGUN
+=== convert (start-page 5 --split-level 2 )
+Yazıldı      : md/Malpraktis_Davalari_Emsal_Kararlar/Malpraktis_Davalari_Emsal_Kararlar.md (17.6 MB)
+Sayfa aralığı: 5–5230
+Başlıklar    : h1: 10, h2: 46, h3: 8, h4: 6750 | paragraf: 37790 | liste maddesi: 0 | aralıktaki yer imi: 64
+Başlık eşlemi: {'16b': 1, '13b': 2, '12b': 3, '11.5b': 4} | paragraf kipi: space
+Atılan satır : üst/altbilgi 5226, --drop 0, içindekiler 0, döndürülmüş 0
+  üst/altbilgi: 'Sayfa # / #'×5226
+Bölünmüş     : 46 dosya → md/Malpraktis_Davalari_Emsal_Kararlar/bolumler
+=== verify
+Karşılaştırma motoru: pdftotext -raw | sayfa 5–5230
+Karakter (boşluksuz) : PDF 14159533 | MD 14159533
+Bilerek atılan, karşılaştırma dışı: üst/altbilgi 5226 satır / 72069 karakter
+  üst/altbilgi: 'Sayfa # / #'×5226
+PDF'te olup MD'de olmayan : 0 yer, 0 karakter
+MD'de olup PDF'te olmayan : 0 yer, 0 karakter
+Tek karakter farkı        : 0
+Sonuç: TAM EŞLEŞME — fark oranı %0.0000
+Not: bu denetim metnin eksiksizliğini ölçer; paragraf sınırlarını, başlık düzeylerini, sözcük arası boşlukları ve bilerek atılan satırların doğru seçilip seçilmediğini ölçmez.
+=== exit 0

@@ -1,0 +1,34 @@
+Dosya        : Is_Hukuku_Emsal_Kararlar.pdf
+Sayfa        : 135 (incelenen: 5–135) | Üretici: LibreOffice 24.2 | Başlık: -
+Metin        : sayfa başına ortanca 2433 karakter; yalnız görselden oluşan sayfa: 0/131
+Yer imi      : 97 (ilki s. 5: BİRİNCİ KISIM: İŞ KANUNUNA TABİ İŞÇİLİK ALACAKLARI)
+İçindekiler  : bulunamadı
+Üst/altbilgi (atılacak): 'Sayfa # / #'×131
+Gövde stili  : 11.5
+Başlık adayları (stil → düzey | satır sayısı | ilk örnek):
+      16b → 1 [yer imi] |      9 | s.5: BİRİNCİ KISIM: İŞ KANUNUNA TABİ İŞÇİLİK
+      13b → 2 [yer imi] |     31 | s.5: I. İŞ SÖZLEŞMESİNİN HAKLI NEDENLE FESHİ
+      12b → 3 [yer imi] |     61 | s.5: 1. İşçinin Haklı Nedenle Feshi
+    11.5b → 4 |    315 | s.5: Yargıtay HGK 2022/1376 K.:
+Paragraf     : satır sonu boşluk %0, sağ kenara dayanan %91 → kip: margin
+Örneklem (15 sayfa): 0 görsel, 0 tablo
+Uyarılar     : yok
+Sonuç        : UYGUN
+=== convert (start-page 5  )
+Yazıldı      : md/Is_Hukuku_Emsal_Kararlar/Is_Hukuku_Emsal_Kararlar.md (0.3 MB)
+Sayfa aralığı: 5–135
+Başlıklar    : h1: 6, h2: 30, h3: 61, h4: 315 | paragraf: 315 | liste maddesi: 0 | aralıktaki yer imi: 97
+Başlık eşlemi: {'16b': 1, '13b': 2, '12b': 3, '11.5b': 4} | paragraf kipi: margin
+Atılan satır : üst/altbilgi 131, --drop 0, içindekiler 0, döndürülmüş 0
+  üst/altbilgi: 'Sayfa # / #'×131
+=== verify
+Karşılaştırma motoru: pdftotext -raw | sayfa 5–135
+Karakter (boşluksuz) : PDF 246100 | MD 246100
+Bilerek atılan, karşılaştırma dışı: üst/altbilgi 131 satır / 1472 karakter
+  üst/altbilgi: 'Sayfa # / #'×131
+PDF'te olup MD'de olmayan : 0 yer, 0 karakter
+MD'de olup PDF'te olmayan : 0 yer, 0 karakter
+Tek karakter farkı        : 0
+Sonuç: TAM EŞLEŞME — fark oranı %0.0000
+Not: bu denetim metnin eksiksizliğini ölçer; paragraf sınırlarını, başlık düzeylerini, sözcük arası boşlukları ve bilerek atılan satırların doğru seçilip seçilmediğini ölçmez.
+=== exit 0

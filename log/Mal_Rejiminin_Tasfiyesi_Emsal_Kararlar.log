@@ -1,0 +1,34 @@
+Dosya        : Mal_Rejiminin_Tasfiyesi_Emsal_Kararlar.pdf
+Sayfa        : 1345 (incelenen: 4–1345) | Üretici: LibreOffice 24.2 | Başlık: -
+Metin        : sayfa başına ortanca 3176 karakter; yalnız görselden oluşan sayfa: 0/1342
+Yer imi      : 40 (ilki s. 4: §1. GENEL HÜKÜMLER)
+İçindekiler  : bulunamadı
+Üst/altbilgi (atılacak): 'Sayfa # / #'×1342
+Gövde stili  : 11.5
+Başlık adayları (stil → düzey | satır sayısı | ilk örnek):
+      16b → 1 [yer imi] |     10 | s.4: §1. GENEL HÜKÜMLER
+      13b → 2 [yer imi] |     35 | s.4: I. 4722 SAYILI KANUN VE GEÇİŞ DÖNEMİ: MAL AYRILIĞI VE
+    11.5b → 3 |   3757 | s.4: Yargıtay HGK 2024/357 K.:
+Paragraf     : satır sonu boşluk %0, sağ kenara dayanan %93 → kip: margin
+Örneklem (15 sayfa): 0 görsel, 0 tablo
+Uyarılar     : yok
+Sonuç        : UYGUN
+=== convert (start-page 4 --split-level 2 )
+Yazıldı      : md/Mal_Rejiminin_Tasfiyesi_Emsal_Kararlar/Mal_Rejiminin_Tasfiyesi_Emsal_Kararlar.md (4.7 MB)
+Sayfa aralığı: 4–1345
+Başlıklar    : h1: 10, h2: 30, h3: 3757 | paragraf: 3762 | liste maddesi: 0 | aralıktaki yer imi: 40
+Başlık eşlemi: {'16b': 1, '13b': 2, '11.5b': 3} | paragraf kipi: margin
+Atılan satır : üst/altbilgi 1342, --drop 0, içindekiler 0, döndürülmüş 0
+  üst/altbilgi: 'Sayfa # / #'×1342
+Bölünmüş     : 30 dosya → md/Mal_Rejiminin_Tasfiyesi_Emsal_Kararlar/bolumler
+=== verify
+Karşılaştırma motoru: pdftotext -raw | sayfa 4–1345
+Karakter (boşluksuz) : PDF 3749521 | MD 3749521
+Bilerek atılan, karşılaştırma dışı: üst/altbilgi 1342 satır / 17690 karakter
+  üst/altbilgi: 'Sayfa # / #'×1342
+PDF'te olup MD'de olmayan : 0 yer, 0 karakter
+MD'de olup PDF'te olmayan : 0 yer, 0 karakter
+Tek karakter farkı        : 0
+Sonuç: TAM EŞLEŞME — fark oranı %0.0000
+Not: bu denetim metnin eksiksizliğini ölçer; paragraf sınırlarını, başlık düzeylerini, sözcük arası boşlukları ve bilerek atılan satırların doğru seçilip seçilmediğini ölçmez.
+=== exit 0

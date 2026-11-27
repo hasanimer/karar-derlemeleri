@@ -1,0 +1,33 @@
+Dosya        : Dava_Sarti_Arabuluculuk_Emsal_Kararlar_Cilt_6.pdf
+Sayfa        : 12 (incelenen: 3–12) | Üretici: LibreOffice 24.2 | Başlık: -
+Metin        : sayfa başına ortanca 1844 karakter; yalnız görselden oluşan sayfa: 0/10
+Yer imi      : 7 (ilki s. 3: PAYLAŞTIRMA VE ORTAKLIĞIN GİDERİLMESİ DAVALARINDA )
+İçindekiler  : bulunamadı
+Üst/altbilgi (atılacak): 'Sayfa # / #'×10
+Gövde stili  : 11.5
+Başlık adayları (stil → düzey | satır sayısı | ilk örnek):
+      16b → 1 [yer imi] |      2 | s.3: PAYLAŞTIRMA VE ORTAKLIĞIN GİDERİLMESİ
+      13b → 2 [yer imi] |      7 | s.3: I. GENEL ESASLAR
+    11.5b → 3 |      8 | s.3: AYM 2024/119 E., 2024/120 K., 27.06.2024:
+Paragraf     : satır sonu boşluk %0, sağ kenara dayanan %86 → kip: margin
+Örneklem (10 sayfa): 0 görsel, 0 tablo
+Uyarılar     : yok
+Sonuç        : UYGUN
+=== convert (start-page 3  )
+Yazıldı      : md/Dava_Sarti_Arabuluculuk_Emsal_Kararlar_Cilt_6/Dava_Sarti_Arabuluculuk_Emsal_Kararlar_Cilt_6.md (0.0 MB)
+Sayfa aralığı: 3–12
+Başlıklar    : h1: 1, h2: 6, h3: 8 | paragraf: 36 | liste maddesi: 0 | aralıktaki yer imi: 7
+Başlık eşlemi: {'16b': 1, '13b': 2, '11.5b': 3} | paragraf kipi: margin
+Atılan satır : üst/altbilgi 10, --drop 0, içindekiler 0, döndürülmüş 0
+  üst/altbilgi: 'Sayfa # / #'×10
+=== verify
+Karşılaştırma motoru: pdftotext -raw | sayfa 3–12
+Karakter (boşluksuz) : PDF 16722 | MD 16722
+Bilerek atılan, karşılaştırma dışı: üst/altbilgi 10 satır / 93 karakter
+  üst/altbilgi: 'Sayfa # / #'×10
+PDF'te olup MD'de olmayan : 0 yer, 0 karakter
+MD'de olup PDF'te olmayan : 0 yer, 0 karakter
+Tek karakter farkı        : 0
+Sonuç: TAM EŞLEŞME — fark oranı %0.0000
+Not: bu denetim metnin eksiksizliğini ölçer; paragraf sınırlarını, başlık düzeylerini, sözcük arası boşlukları ve bilerek atılan satırların doğru seçilip seçilmediğini ölçmez.
+=== exit 0

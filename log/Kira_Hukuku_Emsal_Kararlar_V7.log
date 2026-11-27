@@ -1,0 +1,36 @@
+Dosya        : Kira_Hukuku_Emsal_Kararlar_V7.pdf
+Sayfa        : 5668 (incelenen: 13–5668) | Üretici: Microsoft® Word 2024 | Başlık: -
+Metin        : sayfa başına ortanca 3232 karakter; yalnız görselden oluşan sayfa: 0/5656
+Yer imi      : 294 (ilki s. 13: §1. GENEL (ADÎ) KİRA HÜKÜMLERİ)
+İçindekiler  : bulunamadı
+Üst/altbilgi (atılacak): 'Sayfa # / #'×5656
+Gövde stili  : 11.5
+Başlık adayları (stil → düzey | satır sayısı | ilk örnek):
+      16b → 1 [yer imi] |     14 | s.13: §1. GENEL (ADÎ) KİRA HÜKÜMLERİ
+      13b → 2 [yer imi] |    126 | s.13: I. KİRA SÖZLEŞMESİNİN TÜRÜNE, KİRA SÖZLEŞMESİNİN TİCARÎ İŞ
+      12b → 3 [yer imi] |    305 | s.15: A. ADÎ KİRA-KONUT VE ÇATILI İŞYERİ KİRASI AYRIMI
+       12 → 0 [yer imi] |    139 | s.1061: TBK 583.maddesi hükmüne göre kefaletin geçerli olabilmesi iç
+    11.5b → 4 [yer imi] |  15609 | s.13: Yargıtay 3. HD 2018/6854 K.:
+Paragraf     : satır sonu boşluk %100, sağ kenara dayanan %93 → kip: space
+Örneklem (15 sayfa): 0 görsel, 0 tablo
+Uyarılar     : yok
+Sonuç        : UYGUN
+=== convert (start-page 13 --split-level 2 --headings 12=0)
+Yazıldı      : md/Kira_Hukuku_Emsal_Kararlar_V7/Kira_Hukuku_Emsal_Kararlar_V7.md (19.9 MB)
+Sayfa aralığı: 13–5668
+Başlıklar    : h1: 11, h2: 88, h3: 166, h4: 15024 | paragraf: 18826 | liste maddesi: 1 | aralıktaki yer imi: 294
+Başlık eşlemi: {'16b': 1, '13b': 2, '12b': 3, '11.5b': 4} | paragraf kipi: space
+Atılan satır : üst/altbilgi 5656, --drop 0, içindekiler 0, döndürülmüş 0
+  üst/altbilgi: 'Sayfa # / #'×5656
+Bölünmüş     : 88 dosya → md/Kira_Hukuku_Emsal_Kararlar_V7/bolumler
+=== verify
+Karşılaştırma motoru: pdftotext -raw | sayfa 13–5668
+Karakter (boşluksuz) : PDF 15891567 | MD 15891567
+Bilerek atılan, karşılaştırma dışı: üst/altbilgi 5656 satır / 78110 karakter
+  üst/altbilgi: 'Sayfa # / #'×5656
+PDF'te olup MD'de olmayan : 0 yer, 0 karakter
+MD'de olup PDF'te olmayan : 0 yer, 0 karakter
+Tek karakter farkı        : 0
+Sonuç: TAM EŞLEŞME — fark oranı %0.0000
+Not: bu denetim metnin eksiksizliğini ölçer; paragraf sınırlarını, başlık düzeylerini, sözcük arası boşlukları ve bilerek atılan satırların doğru seçilip seçilmediğini ölçmez.
+=== exit 0

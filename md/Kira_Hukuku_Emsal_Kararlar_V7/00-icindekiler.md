@@ -1,0 +1,103 @@
+# Kira_Hukuku_Emsal_Kararlar_V7
+
+Kaynak: `Kira_Hukuku_Emsal_Kararlar_V7.pdf`
+
+- §1. GENEL (ADÎ) KİRA HÜKÜMLERİ
+  - [I. KİRA SÖZLEŞMESİNİN TÜRÜNE, KİRA SÖZLEŞMESİNİN TİCARÎ İŞ VE HATTA TİCARÎ DAVA OLUP OLMADIĞINA BAKILMAKSIZIN GÖREVLİ MAHKEME SULH HUKUK MAHKEMESİDİR](bolumler/01-01-i-kira-sozlesmesinin-turune-kira-sozlesmesinin-ticari-is-ve.md) — 6 alt başlık
+  - [II. KİRA SÖZLEŞMESİNİN TÜRÜNÜN TESPİTİ](bolumler/01-02-ii-kira-sozlesmesinin-turunun-tespiti.md) — 144 alt başlık
+  - [III. KİRA SÖZLEŞMESİNİN/KİRA İLİŞKİSİNİN İSPATI](bolumler/01-03-iii-kira-sozlesmesinin-kira-iliskisinin-ispati.md) — 354 alt başlık
+  - [IV. KİRA SÖZLEŞMESİNİN TARAFLARI](bolumler/01-04-iv-kira-sozlesmesinin-taraflari.md) — 18 alt başlık
+  - [V. KİRALANANIN TESLİMİ VE AYIPTAN SORUMLULUK (TBK m. 301– 309)](bolumler/01-05-v-kiralananin-teslimi-ve-ayiptan-sorumluluk-tbk-m-301-309.md) — 419 alt başlık
+  - [VI. YAN GİDERLER, AİDAT VE VERGİLER (TBK m. 302, 314)](bolumler/01-06-vi-yan-giderler-aidat-ve-vergiler-tbk-m-302-314.md) — 297 alt başlık
+  - [VII. KİRACININ ÖZEN VE KOMŞULARA SAYGI BORCU (TBK m. 316)](bolumler/01-07-vii-kiracinin-ozen-ve-komsulara-saygi-borcu-tbk-m-316.md) — 123 alt başlık
+  - [VIII. KİRALANIN GEZİLİP GÖRÜLMESİNE İZİN DAVASI](bolumler/01-08-viii-kiralanin-gezilip-gorulmesine-izin-davasi.md) — 5 alt başlık
+  - [IX. KİRALANANIN EL DEĞİŞTİRMESİ (TBK m. 310)](bolumler/01-09-ix-kiralananin-el-degistirmesi-tbk-m-310.md) — 59 alt başlık
+  - [X. KİRA SÖZLEŞMESİNİN TAPUYA ŞERHİ (TBK m. 312)](bolumler/01-10-x-kira-sozlesmesinin-tapuya-serhi-tbk-m-312.md) — 34 alt başlık
+  - [XI. YENİLİK VE DEĞİŞİKLİKLER, FAYDALI VE ZORUNLU MASRAFLAR (TBK m. 320–321)](bolumler/01-11-xi-yenilik-ve-degisiklikler-faydali-ve-zorunlu-masraflar-tbk.md) — 400 alt başlık
+  - [XII. ALT KİRA](bolumler/01-12-xii-alt-kira.md) — 158 alt başlık
+  - [XIII. KİRA BEDELİ](bolumler/01-13-xiii-kira-bedeli.md) — 14 alt başlık
+  - [XIV. TEVDİİ MAHALLİ TAYİNİ](bolumler/01-14-xiv-tevdii-mahalli-tayini.md) — 61 alt başlık
+  - [XV. KİRA BEDELİNDE FAİZ](bolumler/01-15-xv-kira-bedelinde-faiz.md) — 317 alt başlık
+  - [XVI. DÖVİZ CİNSİNDEN KİRA BEDELİ VE DİĞER ÖDEME YÜKÜMLÜLÜKLERİ](bolumler/01-16-xvi-doviz-cinsinden-kira-bedeli-ve-diger-odeme-yukumlulukler.md) — 223 alt başlık
+  - [XVII. KİRA SÖZLEŞMESİNDE KEFALET](bolumler/01-17-xvii-kira-sozlesmesinde-kefalet.md) — 407 alt başlık
+  - [XVIII. KİRACININ TEMERRÜDÜ VE FESİH (TBK m. 315)](bolumler/01-18-xviii-kiracinin-temerrudu-ve-fesih-tbk-m-315.md) — 218 alt başlık
+  - [XIX. KİRA SÖZLEŞMESİNİN SÜRESİ](bolumler/01-19-xix-kira-sozlesmesinin-suresi.md) — 1 alt başlık
+  - [XX. KİRA SÖZLEŞMESİNİN SONA ERMESİ](bolumler/01-20-xx-kira-sozlesmesinin-sona-ermesi.md) — 98 alt başlık
+  - [XXI. ÖNEMLİ SEBEPLERLE OLAĞANÜSTÜ FESİH (TBK m. 331–333)](bolumler/01-21-xxi-onemli-sebeplerle-olaganustu-fesih-tbk-m-331333.md) — 13 alt başlık
+  - [XXII. KİRACININ SÖZLEŞMEYİ HAKLI NEDEN OLMAKSIZIN ERKEN SONA ERDİRMESİ VE MAKUL SÜRE KİRA BEDELİ (TBK 325)](bolumler/01-22-xxii-kiracinin-sozlesmeyi-hakli-neden-olmaksizin-erken-sona.md) — 424 alt başlık
+  - [XXIII. KİRALANANIN İADESİ VE TESLİMİ](bolumler/01-23-xxiii-kiralananin-iadesi-ve-teslimi.md) — 9 alt başlık
+  - [XXIV. KİRALANANIN GERİ VERİLMESİNDE GÖZDEN GEÇİRME VE BİLDİRİM YÜKÜMLÜLÜĞÜ (TBK 335)](bolumler/01-24-xxiv-kiralananin-geri-verilmesinde-gozden-gecirme-ve-bildiri.md) — 181 alt başlık
+  - [XXV. KİRAYA VERENİN HAPİS HAKKI (TBK m. 336–338)](bolumler/01-25-xxv-kiraya-verenin-hapis-hakki-tbk-m-336338.md) — 18 alt başlık
+  - [XXVI. TEBLİGAT](bolumler/01-26-xxvi-tebligat.md) — 5 alt başlık
+  - [XXVII. KİRACININ YAPMIŞ OLDUĞU FAZLA ÖDEMELER](bolumler/01-27-xxvii-kiracinin-yapmis-oldugu-fazla-odemeler.md) — 7 alt başlık
+  - [XXVIII. KİRA SÖZLEŞMESİ SONA ERDİKTEN SONRA KULLANIM VE ECRİMİSİL](bolumler/01-28-xxviii-kira-sozlesmesi-sona-erdikten-sonra-kullanim-ve-ecrim.md) — 760 alt başlık
+  - [XXIX. KİRA ALACAKLARINDA ZAMANAŞIMI](bolumler/01-29-xxix-kira-alacaklarinda-zamanasimi.md) — 108 alt başlık
+- §2. KONUT VE ÇATILI İŞYERİ KİRASI: GENEL HÜKÜMLER VE GÜVENCE BEDELİ
+  - [I. KAPSAM (TBK m. 339–340)](bolumler/02-01-i-kapsam-tbk-m-339340.md) — 14 alt başlık
+  - [II. KİRACI ALEYHİNE DÜZENLEMELER VE YASAK HÜKÜMLER (TBK m. 343, 346)](bolumler/02-02-ii-kiraci-aleyhine-duzenlemeler-ve-yasak-hukumler-tbk-m-343.md) — 180 alt başlık
+  - [III. YAZILI BİLDİRİM](bolumler/02-03-iii-yazili-bildirim.md) — 284 alt başlık
+  - [IV. AİLE KONUTU](bolumler/02-04-iv-aile-konutu.md) — 53 alt başlık
+  - [V. SÖZLEŞMENİN KENDİLİĞİNDEN UZAMASI (TBK m. 347)](bolumler/02-05-v-sozlesmenin-kendiliginden-uzamasi-tbk-m-347.md) — 91 alt başlık
+  - [VI. GEÇİŞ HÜKÜMLERİ: 6570 SAYILI KANUN VE 6217 SAYILI KANUN GEÇİCİ 2. MADDE](bolumler/02-06-vi-gecis-hukumleri-6570-sayili-kanun-ve-6217-sayili-kanun-ge.md) — 412 alt başlık
+  - [VII. KİRALANANIN SATILMASI DURUMUNDA GÜVENCE BEDELİNDEN (DEPOZİTO) SORUMLULUK](bolumler/02-07-vii-kiralananin-satilmasi-durumunda-guvence-bedelinden-depoz.md) — 1 alt başlık
+  - [VIII. GÜVENCE BEDELİNİN (DEPOZİTO) İADESİ](bolumler/02-08-viii-guvence-bedelinin-depozito-iadesi.md) — 162 alt başlık
+- §3. KONUT VE ÇATILI İŞYERİ KİRASINDA KİRA BEDELİNİN BELİRLENMESİ
+  - [I. KİRA ARTIŞ ORANININ BELİRLENMESİ](bolumler/03-01-i-kira-artis-oraninin-belirlenmesi.md) — 402 alt başlık
+  - [II. KİRA TESPİT DAVASI](bolumler/03-02-ii-kira-tespit-davasi.md) — 774 alt başlık
+  - [III. KİRA BEDELİNİN UYARLANMASI DAVASI (TBK 138)](bolumler/03-03-iii-kira-bedelinin-uyarlanmasi-davasi-tbk-138.md) — 117 alt başlık
+- §4. TAHLİYE
+  - [I. TAHLİYE TALEBİ](bolumler/04-01-i-tahliye-talebi.md) — 19 alt başlık
+  - [II. TEMERRÜT NEDENİYLE TAHLİYE VE 13 ÖRNEK İCRA TAKİBİ](bolumler/04-02-ii-temerrut-nedeniyle-tahliye-ve-13-ornek-icra-takibi.md) — 25 alt başlık
+  - [III. TBK 316: AKDE AYKIRILIK NEDENİLYE TAHLİYE DAVASI](bolumler/04-03-iii-tbk-316-akde-aykirilik-nedenilye-tahliye-davasi.md) — 21 alt başlık
+  - [IV. TAHLİYE TAAHHÜDÜ NEDENİYLE TAHLİYE](bolumler/04-04-iv-tahliye-taahhudu-nedeniyle-tahliye.md) — 203 alt başlık
+  - [V. TBK 347: ON YILLIK SÜRENİN SONA ERMESİ NEDENİYLE FESİH VE TAHLİYE DAVASI](bolumler/04-05-v-tbk-347-on-yillik-surenin-sona-ermesi-nedeniyle-fesih-ve-t.md) — 55 alt başlık
+  - [VI. TBK 352/2: İKİ HAKLI İHTAR NEDENİYLE TAHLİYE DAVASI](bolumler/04-06-vi-tbk-352-2-iki-hakli-ihtar-nedeniyle-tahliye-davasi.md) — 109 alt başlık
+  - [VII. TBK 350/1, 1 ve 351: İHTİYAÇ NEDENİYLE TAHLİYE DAVASI](bolumler/04-07-vii-tbk-350-1-1-ve-351-ihtiyac-nedeniyle-tahliye-davasi.md) — 187 alt başlık
+  - [VIII. YENİ MALİKİN İHTİYACI NEDENİYLE TAHLİYE (TBK m. 351)](bolumler/04-08-viii-yeni-malikin-ihtiyaci-nedeniyle-tahliye-tbk-m-351.md) — 133 alt başlık
+  - [IX. YENİDEN İNŞA VE İMAR NEDENİYLE TAHLİYE (TBK m. 350/2)](bolumler/04-09-ix-yeniden-insa-ve-imar-nedeniyle-tahliye-tbk-m-350-2.md) — 229 alt başlık
+  - [X. TBK 352/3: KİRACININ YA DA BİRLİKTE YAŞADIĞI EŞİNİN AYNI İLÇEDE EVİNİN OLMASI NEDENİNE DAYALI TAHLİYE DAVASI](bolumler/04-10-x-tbk-352-3-kiracinin-ya-da-birlikte-yasadigi-esinin-ayni-il.md) — 4 alt başlık
+  - [XI. TAHLİYE DAVASINI AÇMA SÜRESİ (TBK m. 353)](bolumler/04-11-xi-tahliye-davasini-acma-suresi-tbk-m-353.md) — 138 alt başlık
+  - [XII. TAHLİYEDEN SONRA KİRACININ TAZMİNAT İSTEMİ (TBK m. 355)](bolumler/04-12-xii-tahliyeden-sonra-kiracinin-tazminat-istemi-tbk-m-355.md) — 31 alt başlık
+- §5. ÜRÜN KİRASI
+  - [I. ÜRÜN KİRASI (TBK m. 357–378)](bolumler/05-01-i-urun-kirasi-tbk-m-357378.md) — 294 alt başlık
+  - [II. TİCARİ İŞLETME KİRASI](bolumler/05-02-ii-ticari-isletme-kirasi.md) — 108 alt başlık
+- §6. 2886 SAYILI DEVLET İHALE KANUNU’NA GÖRE KİRA VE KAMU KİRALAMALARI
+  - [I. 2886 SAYILI DEVLET İHALE KANUNU’NA GÖRE KİRAYA VERİLEN TAŞINMAZLAR](bolumler/06-01-i-2886-sayili-devlet-ihale-kanununa-gore-kiraya-verilen-tasi.md) — 344 alt başlık
+  - [II. 2886 SAYILI KANUNUN 75. MADDESİNE GÖRE ECRİMİSİL](bolumler/06-02-ii-2886-sayili-kanunun-75-maddesine-gore-ecrimisil.md) — 103 alt başlık
+  - [III. HAZİNE, VAKIF VE BELEDİYE TAŞINMAZLARININ KİRALANMASI](bolumler/06-03-iii-hazine-vakif-ve-belediye-tasinmazlarinin-kiralanmasi.md) — 287 alt başlık
+- §7. TAŞINIR KİRASI
+  - [I. ARAÇ, FİLO, MAKİNE VE EKİPMAN KİRASI](bolumler/07-01-i-arac-filo-makine-ve-ekipman-kirasi.md) — 443 alt başlık
+  - [II. KİRALANAN ARAÇLA MEYDANA GELEN KAZALARDA SORUMLULUK](bolumler/07-02-ii-kiralanan-aracla-meydana-gelen-kazalarda-sorumluluk.md) — 184 alt başlık
+- §8. FİNANSAL KİRALAMA
+  - [I. FİNANSAL KİRALAMA SÖZLEŞMESİ](bolumler/08-01-i-finansal-kiralama-sozlesmesi.md) — 145 alt başlık
+  - [II. TEMERRÜT, FESİH VE MALIN İADESİ](bolumler/08-02-ii-temerrut-fesih-ve-malin-iadesi.md) — 164 alt başlık
+  - [III. MÜLKİYET, DEVİR VE SATIN ALMA HAKKI](bolumler/08-03-iii-mulkiyet-devir-ve-satin-alma-hakki.md) — 198 alt başlık
+  - [IV. AYIP, SATICIYA KARŞI HAKLAR, SİGORTA VE HASAR](bolumler/08-04-iv-ayip-saticiya-karsi-haklar-sigorta-ve-hasar.md) — 148 alt başlık
+  - [V. FİNANSAL KİRALAMA ALACAKLARININ TAKİBİ VE KEFALET](bolumler/08-05-v-finansal-kiralama-alacaklarinin-takibi-ve-kefalet.md) — 259 alt başlık
+- §9. DAVA ŞARTI ARABULUCULUK
+  - [I. DAVA AÇMA SÜRESİ BAŞLAMADAN DAVA ŞARTI ARABULUCULUK SÜRECİNİN BAŞLATILMASI](bolumler/09-01-i-dava-acma-suresi-baslamadan-dava-sarti-arabuluculuk-sureci.md) — 20 alt başlık
+  - [II. TAHLİYE DAVALARINDA DAVA AÇMA SÜRESİ BAŞLAMADAN ARABULUCUYA BAŞVURULSA DAHİ ŞAYET ARABULUCULUK GÖRÜŞMELERİ DAVA AÇMA SÜRESİ İÇİNDE TAMAMLANMIŞSA DAVA ŞARTI YERİNE GETİRİLMİŞ OLUR](bolumler/09-02-ii-tahliye-davalarinda-dava-acma-suresi-baslamadan-arabulucu.md) — 1 alt başlık
+  - [III. ARABULUCULUK ŞARTININ SAĞLANMASI İÇİN BAŞVURUNUN YETERLİ OLUP OLMADIĞI](bolumler/09-03-iii-arabuluculuk-sartinin-saglanmasi-icin-basvurunun-yeterli.md) — 9 alt başlık
+  - [IV. DAVA ŞARTI ARABULUCULUĞUN BULUNDULUĞU HÂLLERDE ARABULUCULUĞA BAŞVURULMADAN DAVA AÇILMASI](bolumler/09-04-iv-dava-sarti-arabuluculugun-bulundulugu-hallerde-arabulucul.md) — 3 alt başlık
+  - [V. DAVA ŞARTI ARABULUCULUĞUN SÖZ KONUSU OLDUĞU UYUŞMAZLIK BAKIMINDAN ARABULUCULUĞA BAŞVURULDUĞUNUN DAVA DİLEKÇESİNDEN ANLAŞILAMAMASI](bolumler/09-05-v-dava-sarti-arabuluculugun-soz-konusu-oldugu-uyusmazlik-bak.md) — 1 alt başlık
+  - [VI. SON TUTANAĞIN ASLININ SUNULMAMASI YA DA ASLI YERİNE FOTOKOSİNİN SUNULMASI](bolumler/09-06-vi-son-tutanagin-aslinin-sunulmamasi-ya-da-asli-yerine-fotok.md) — 2 alt başlık
+  - [VII. GÖREVSİZLİK KARARINDAN SONRA DOSYANIN GÖREVLİ MAHKEMENİN ESASINA KAYDEDİLMESİNDEN ÖNCE ARABULUCULUK BAŞVURUSU YAPILMASI](bolumler/09-07-vii-gorevsizlik-kararindan-sonra-dosyanin-gorevli-mahkemenin.md) — 9 alt başlık
+  - [VIII. ARABULUCULUK SON TUTAĞINA İMZALARIN ELEKTRONİK İMZA İLE ATILMASI HÂLİNDE EN SON ATILAN İMZA TARİHİNDE ARABULUCULUK SÜRECİ SONA ERER](bolumler/09-08-viii-arabuluculuk-son-tutagina-imzalarin-elektronik-imza-ile.md) — 1 alt başlık
+  - [IX. TAHLİYE DAVASINA İLİŞKİN DAVA ŞARTI ARABULUCULUK BAŞVURUSU TBK 353 UYARINCA DAVA AÇMA SÜRESİNİ DÖNEM SONUNA KADAR UZATIR MI?](bolumler/09-09-ix-tahliye-davasina-iliskin-dava-sarti-arabuluculuk-basvurus.md) — 1 alt başlık
+  - [X. ÖNCEKİ MALİK YAPTIĞI ARABULUCULUK BAŞVURUSUNDAN YENİ MÂLİK DE FAYDALANIR](bolumler/09-10-x-onceki-malik-yaptigi-arabuluculuk-basvurusundan-yeni-malik.md) — 1 alt başlık
+  - [XI. İCRA EDİLEBİLİRLİK ŞERHİ](bolumler/09-11-xi-icra-edilebilirlik-serhi.md) — 8 alt başlık
+  - [XII. DAVA ŞARTI ARABULUCULUKTA GEÇEN SÜRE TAHLİYE DAVASI AÇMA SÜRESİNİN HESABINDA DİKKATE ALINMAZ](bolumler/09-12-xii-dava-sarti-arabuluculukta-gecen-sure-tahliye-davasi-acma.md) — 1 alt başlık
+  - [XIII. DAVA ŞARTI ARABULUCULUĞA İLİŞKİN DİĞER KARARLAR](bolumler/09-13-xiii-dava-sarti-arabuluculuga-iliskin-diger-kararlar.md) — 47 alt başlık
+- §10. KİRA İLE İLGİLİ İCRA TAKİPLERİ
+  - [I. KİRA ALACAĞI İÇİN GENEL HACİZ YOLUYLA İLAMSIZ TAKİP (ÖRNEK 7)](bolumler/10-01-i-kira-alacagi-icin-genel-haciz-yoluyla-ilamsiz-takip-ornek.md) — 542 alt başlık
+  - [II. KİRALANAN TAŞINMAZIN İLAMSIZ İCRA YOLUYLA TAHLİYESİ (ÖRNEK 13, İİK m. 269–269/d)](bolumler/10-02-ii-kiralanan-tasinmazin-ilamsiz-icra-yoluyla-tahliyesi-ornek.md) — 580 alt başlık
+  - [III. TAHLİYE TAAHHÜDÜNE VE SÜRENİN BİTİMİNE DAYALI TAHLİYE TAKİBİ (ÖRNEK 14, İİK m. 272–275)](bolumler/10-03-iii-tahliye-taahhudune-ve-surenin-bitimine-dayali-tahliye-ta.md) — 115 alt başlık
+  - [IV. İLAMLI TAHLİYE VE TAHLİYE EMRİ (İİK m. 24, 26, 276)](bolumler/10-04-iv-ilamli-tahliye-ve-tahliye-emri-iik-m-24-26-276.md) — 59 alt başlık
+  - [V. İTİRAZIN İPTALİ DAVASINA İSTİNADEN TAHLİYEYE İLİŞKİN TAKİP AÇILIP AÇILAMAYACAĞI](bolumler/10-05-v-itirazin-iptali-davasina-istinaden-tahliyeye-iliskin-takip.md) — 5 alt başlık
+- §11. USUL
+  - [I. GÖREV VE YETKİ](bolumler/11-01-i-gorev-ve-yetki.md) — 810 alt başlık
+  - [II. KİRA UYUŞMAZLIKLARININ TAHKİME ELVERİŞLİLİĞİ](bolumler/11-02-ii-kira-uyusmazliklarinin-tahkime-elverisliligi.md) — 208 alt başlık
+  - [III. HARÇ VE VEKÂLET ÜCRETİ](bolumler/11-03-iii-harc-ve-vekalet-ucreti.md) — 1294 alt başlık
+  - [IV. KESİNLİK SINIRI](bolumler/11-04-iv-kesinlik-siniri.md) — 19 alt başlık
+  - [V. DAVANIN KONUSUZ KALMASI VE YARGILAMA GİDERLERİ](bolumler/11-05-v-davanin-konusuz-kalmasi-ve-yargilama-giderleri.md) — 2 alt başlık
+  - [VI. PAYDAŞLAR VE ELBİRLİĞİ MÜLKİYETİNDE DAVA](bolumler/11-06-vi-paydaslar-ve-elbirligi-mulkiyetinde-dava.md) — 250 alt başlık

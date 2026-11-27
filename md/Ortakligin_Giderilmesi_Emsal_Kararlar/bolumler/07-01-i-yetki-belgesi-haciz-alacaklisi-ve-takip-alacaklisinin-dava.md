@@ -1,0 +1,359 @@
+# §7. ALACAKLININ ORTAKLIĞIN GİDERİLMESİ DAVASI AÇMASI
+
+## I. YETKİ BELGESİ, HACİZ ALACAKLISI VE TAKİP ALACAKLISININ DAVA HAKKI (İİK m. 121)
+
+### Yargıtay HGK 2003/270 K.
+
+Dava, alacaklı tarafından mirasçılar aleyhine açılan ortaklığın giderilmesi istemine ilişkindir.
+
+…
+
+İİK. 94, 121, Türk Medeni Kanunu'nun hükümleri birlikte değerlendirildiğinde, paylaşma davasının 4721 sayılı yasada yazılı "açılmış mirasta, bir mirasçının payını devralmış veya haczettirmiş olan ya da elinde mirasçıya karşı alınmış borç ödemeden aciz belgesi bulunan alacaklının açacağı açıktır. Maddede açıkça paylaşmaya katılmaktan söz edilmiştir. Borçlu borcunu ödemekte temerrüt halindedir. Borcunu ödemediği için Kanun özel bir yöntem benimseyerek ve borçlunun kendi aleyhine dava açmayacağını düşünerek alacaklıya dava açma hakkını vermiştir. Yasa uyarınca atanacak kayyım da elbette tarafların haklarının denkleştirilmesi için alacaklının kendisine başvurması üzerine paylaştırma davası açabilecektir. Ancak Yasa koyucunun bu davayı sadece atanan kayyımın açacağını kabul ettiğini ileri sürmenin mevcut yasal düzenleme karşısında mümkün olmadığı açıktır.
+
+Görüldüğü gibi eski yasanın 588. maddesi ile yeni yasanın 648. maddesi sanıldığı gibi temelde bir farklılık arzetmemektedir. Yasalardaki durum (İİK. 94 ve 121) aynen korunmakta, eski 588 den farklı olarak eskiden ortaklığın giderilmesi davasında hakim, mirasçı yerine geçerek (kaim olarak) paylaşmaya katılırken, 4721 sayılı Türk Medeni Kanunu'nun 648 maddesi hakimi bu katılmanın dışında bırakmakta, hakimin yerine özel duruma münhasır olmak üzere mirasçının payını temsilen paylaşmaya katılmak üzere bir kayyımın atanacağını öngörmektedir.
+
+### Yargıtay 12. HD 2025/344 K.
+
+Somut olayda, icra müdürlüğünce -İİK’nun 121. maddesi gereğince taksim edilmemiş miras hissesinin satışının ne şekilde yapılacağı konusunda karar almak üzere- dosyanın icra mahkemesine gönderildiği, Mersin 5. İcra Hukuk Mahkemesi'nin 12/12/2022 tarih ve 2022/1204 E. 2022/998 K. sayılı kararı ile borçluya ait taşınmazlar ile ilgili olarak ortaklığın giderilmesi için ilgili Sulh Hukuk Mahkemesinde izaleyi şuyu davası açmak için alacaklı vekiline yetki verilmesine, satışı talep edilen taşınmazlar hissesindeki ortaklığın giderilmesi halinde satışın İİK 121. madde ve devamı maddeleri gereğince işlem yapılmasına karar verildiği, diğer hissedar ... tarafından ilk derece mahkemesi kararına karşı istinaf yoluna başvurulduğu, ilk derece mahkemesince işbu başvurunun da 12/12/2023 tarihli ek karar ile - kararın kesin olduğu gerekçesiyle- reddine karar verildiği, ret kararına karşı tekrar istinaf yoluna başvurulduğu, Adana Bölge Adliye Mahkemesi 10. Hukuk Dairesi'nin 20/02/2024 tarih ve 2024/260 E. 2024/431 K. sayılı kararı ile istinaf başvurusunun esastan reddedildiği, bu kararın temyiz edilmesi üzerine Bölge Adliye Mahkemesince temyiz talebinin de reddine karar verildiği, bu kez son kararın temyiz konusu yapıldığı anlaşılmaktadır.
+
+### Yargıtay 7. HD 2024/4647 K.
+
+Borçlunun elbirliği halinde ortak olduğu taşınmazlarda borçlu ortağın alacaklısı İcra Hakimliğinden İcra İflas Kanununun 121 inci maddesine göre alacağı yetki belgesine dayanarak borçlunun ortağı olduğu taşınmaz için ortaklığın giderilmesi davası açabilir. Bunun için icra hakiminden yetki belgesi alınması zorunludur. İcra hakiminden yetki belgesi almadan doğrudan doğruya veya yetkisi olmayan icra müdürünün verdiği yetki belgesine dayanılarak dava açılması halinde dava hemen reddedilmeyip davacı tarafa icra hakiminden yetki belgesi almak üzere süre verilmelidir.
+
+İcra mahkemesinden alınan yetkiye dayalı olarak açılan davalarda, kural olarak borçlu ortağın mülkiyet hakkının elbirliği mülkiyetine konu olması gerekir.
+
+### Yargıtay 7. HD 2023/6214 K.
+
+Borçlunun elbirliği hâlinde ortak olduğu taşınmazlarda borçlu ortağın alacaklısı icra hakimliğinden 2004 sayılı İcra İflas Kanunu'nun 121 inci maddesine göre alacağı yetki belgesine dayanarak borçlunun ortağı olduğu taşınmaz için ortaklığın giderilmesi davası açabilir. İcra mahkemesinden alınan yetkiye dayalı olarak açılan davalarda kural olarak borçlu ortağın mülkiyet hakkının elbirliği mülkiyetine konu olması gerekir. Borçlu ortağın alacaklısı tarafından açılan davalarda birden fazla taşınmaz dava konusu edilmiş ise icra takibine konu borç miktarına göre dava tarihi itibarıyla taşınmazlardan borçlu ortağın payına düşecek değerin tespit edilerek borca yetecek kadar (sayıda) taşınmazın ortaklığının giderilmesine karar verilmesi, fazlaya ilişkin istemin reddi gerekir.
+
+### Yargıtay 7. HD 2023/2079 K.
+
+Dosyanın incelenmesinde İlk Derece Mahkemesince bozma ilamına uyulduğu halde, bozma ilamının gereklerinin yerine getirilmediği; dava konusu 143 ada 1 parsel (eski 801 parsel) sayılı taşınmazın tapu kaydına göre davalı ...'in murisi ...'in taşınmazda 3/16 payının bulunduğu, bozma ilamında belirtilmiş olmasına rağmen kayıt maliklerinden ...,... ve ...... ile intikal işlemi ile elbirliği halinde taşınmaza paydaş olan bir kısım mirasçıların davaya dahil edilmeden hüküm kurulduğu anlaşılmıştır. İlk Derece Mahkemesince taşınmaza ait güncel tapu kaydının ilgili tapu müdürlüğünden temin edilerek taraf teşkilinin denetlenmesi ve davada taraf olarak yer almayan tapu kayıt maliklerinin usulüne uygun şekilde davaya katılımı sağlandıktan sonra oluşacak sonuca göre işin esası hakkında bir karar verilmesi gerekirken, anılan taşınmaz yönünden taraf teşkili sağlanmaksızın, yazılı şekilde hüküm kurulması doğru görülmemiştir.
+
+Bozma ilamında da belirtildiği şekilde, dava konusu 115 ada 9 parsel (eski 228 parsel) sayılı taşınmazda davalı borçlu payının paylı mülkiyet halinde bulunduğu, dava niteliğinin İİK'nun 121 inci maddesi uyarınca yetki belgesine istinaden açılan ortaklığın giderilmesi istemine yönelik olduğu hususu dikkate alındığında, bu taşınmaz yönünden hukuki yarar yokluğu nedeniyle davanın reddine karar verilmesi gerekirken, yazılı şekilde davanın kabulüne karar verilmesi de doğru görülmemiştir.
+
+### Yargıtay 7. HD 2023/473 K.
+
+Borçlunun elbirliği hâlinde ortak olduğu taşınmazlarda borçlu ortağın alacaklısı icra mahkemesinden İcra ve İflas Kanununun 121 inci maddesine göre alacağı yetki belgesine dayanarak borçlunun ortağı olduğu taşınmaz için ortaklığın giderilmesi davası açabilir. İcra mahkemesinden alınacak yetki belgesinde ortaklığın giderilmesi davası açılma yetkisi verilen taşınmazların açıkça gösterilmesi gerekir.
+
+### Yargıtay 7. HD 2023/280 K.
+
+1.2. Bir davanın açılması sırasında dava açanın hukuki yararının bulunması gerekir. Hukuki yarar, davacının, hukuki korunma istemesinde, korunmaya değer menfaati bulunmasıdır. Borçlu ortağın alacaklısı İcra Mahkemesinden İİK'nun 121 inci maddesine göre alacağı yetki belgesine dayanarak borçlunun ortağı olduğu taşınmaz için ortaklığın giderilmesi davası açabilirse de, yetki belgesi ile açılan dava sırasında, davacının dava açma ve takip yapma hakkının devam etmesi gerekir. Yargılama sırasında borcun ödenmesi halinde davacının davanın görülmesindeki hukuki yararı sona erdiği halde yargılama sırasında davanın dayanağı olan alacak nedeniyle davalının borçlu olmadığının anlaşılması halinde ise davacının dava açmakta haklı sebebi bulunmadığı kabul edilmelidir.
+
+### Yargıtay 7. HD 2021/3746 K.
+
+Borçlu ortağın alacaklısı, İcra Hakimliğinden İİK’nın 121. maddesine göre alacağı yetki belgesine dayanarak, elbirliği mülkiyetine konu ve borçlunun ortağı olduğu taşınmaz için ortaklığın giderilmesi davası açabilir. Paylı mülkiyette ise borçlu payının satışı mümkün olduğundan, ortaklığın giderilmesi davası açamaz.
+
+Elbirliği mülkiyetine konu ve borçlunun ortağı olduğu taşınmazlar için açılan ortaklığın giderilmesi davalarında, borçlu ortak dahil tüm ortakların davaya dahil edilmeleri zorunludur.
+
+### Yargıtay 14. HD 2021/3003 K.
+
+Paydaşlığın giderilmesi davasını paydaşlardan biri veya birkaçı diğer paydaşlara karşı açar. İcra ve İflas Kanununun 121. maddesi uyarınca borçlu ortağın alacaklısı tarafından açılan davanın ise tüm ortaklara karşı açılması gerekir. HMK'nın 27. maddesi uyarınca davada bütün paydaşların yer alması zorunludur. Paydaşlardan veya ortaklardan birinin ölümü halinde alınacak mirasçılık belgesine göre mirasçılarının davaya katılmaları sağlandıktan sonra işin esasının incelenmesi gerekir.
+
+### Yargıtay 7. HD 2021/2902 K.
+
+Dava, 2004 sayılı İcra ve İflas Kanununun 121'inci maddesine göre alınan yetki belgesi uyarınca açılan ortaklığın giderilmesi istemine ilişkindir.
+
+…
+
+5.2.1. Borçlunun elbirliği halinde ortak olduğu taşınmazlarda borçlu ortağın alacaklısı 2004 sayılı İcra ve İflas Kanununun 121'inci maddesine göre İcra Hukuk Mahkemesinden alacağı yetki belgesine dayanarak borçlunun ortağı olduğu taşınmaz için ortaklığın giderilmesi davası açabilir. İcra Hukuk Mahkemesinden alınan yetkiye dayalı olarak açılan davalarda kural olarak borçlu ortağın mülkiyet hakkının elbirliği mülkiyetine konu olması gerekir. Paylı mülkiyette ise, borçlu paydaşın alacaklısı, borçlunun bağımsız payının haczini ve satışını isteyebileceğinden yetki belgesine dayanarak taşınmazın paydaşlığının giderilmesini istemesi yasa koyucunun amacına uygun değildir.
+
+### Yargıtay 14. HD 2021/592 K.
+
+Borçlunun elbirliği halinde ortak olduğu taşınmazlarda borçlu ortağın alacaklısı icra mahkemesinden İcra ve İflas Kanununun 121. maddesine göre alacağı yetki belgesine dayanarak borçlunun ortağı olduğu taşınmaz için ortaklığın giderilmesi davası açabilir. Bunun için icra mahkemesinden yetki belgesi alınması zorunludur. İcra mahkemesinden yetki belgesi almadan doğrudan doğruya dava açılması halinde dava hemen reddedilmeyip davacı tarafa icra mahkemesinden yetki belgesi almak üzere süre verilmelidir.
+
+### Yargıtay 14. HD 2020/6047 K.
+
+Borçlunun elbirliği halinde ortak olduğu taşınmazlarda borçlu paydaşın alacaklısı icra hukuk mahkemesinden alacağı yetki belgesine dayanarak elbirliği mülkiyetinin paylı mülkiyete çevrilmesi davası açabilir. Bunun için icra hakiminden yetki belgesi alınması zorunludur. Dosya kapsamında alacaklı tarafından dava konusu ... ili, ... ilçesi 1044 parsel sayılı taşınmaza ilişkin icra hukuk mahkemesinden alınmış yetki belgesine rastlanamadığından, davacı alacaklı tarafından temin edilecek yetki belgesi dosyaya sunulduktan sonra temyiz incelemesi yapılmak üzere Dairemize gönderilmesi için dosyanın MAHKEMESİNE İADESİNE, 12.10.2020 tarihinde oy birliği ile karar verildi.
+
+### Yargıtay 14. HD 2020/3614 K.
+
+Borçlunun elbirliği halinde ortak olduğu taşınmazlarda borçlu paydaşın alacaklısı, icra hukuk mahkemesinden 2004 sayılı İcra ve İflas Kanununun 121. maddesine göre alacağı yetki belgesine dayanarak ortaklığın giderilmesi davası açabilir. Bunun için icra hakimliğinden yetki belgesi alınması zorunludur.
+
+Dosya içerisinde davacı alacaklı ... tarafından İİK'nun 121. maddesine göre icra mahkemesinden alınmış yetki belgesine rastlanmamış olup, davacı alacaklı tarafından, anılan yasa hükmü doğrultusunda alınmış yetki belgesi var ise temin edilerek, yok ise davacı alacaklıya icra mahkemesinden yetki belgesi almak üzere süre verilerek, yetki belgesinin dosyaya sunulması sağlandıktan sonra temyiz incelemesi yapılmak üzere Dairemize gönderilmesi için dosyanın MAHALLİNE İADESİNE, 11.06.2020 tarihinde oy birliği ile karar verildi.
+
+### Yargıtay 14. HD 2020/2626 K.
+
+Elbirliği mülkiyetinde borçlu ortağın alacaklısı icra hakimliğinden İcra ve İflas Kanununun 121.maddesine göre alacağı yetki belgesine dayanarak borçlunun ortağı olduğu taşınmaz için ortaklığın giderilmesi davası açabilir. İcra hakiminden yetki belgesi almadan doğrudan doğruya veya yetkisi olmayan İcra Müdürünün verdiği yetki belgesine dayanılarak dava açılması halinde dava hemen reddedilmeyip, icra hakiminden yetki belgesi almak üzere önel verilmelidir.
+
+Paylı mülkiyette ise, borçlu paydaşın alacaklısı, borçlunun haczedilen payının satışını isteyebileceğinden İcra ve İflas Kanununun 121. maddesi uyarınca taşınmazdaki paydaşlığının giderilmesini isteyemez.
+
+### Yargıtay 14. HD 2019/5723 K.
+
+Öte yandan, alacaklının açtığı ortaklığın giderilmesi ve elbirliği mülkiyetinin paylı mülkiyete çevrilmesi davalarında icra hakimliğinden alınacak yetki belgesi davanın görülmesinin ön koşulu olduğundan ve davacı alacaklı ... tarafından İcra ve İflas Kanununun 121. maddesine göre icra mahkemesinden alınmış yetki belgesine dosya arasında rastlanmadığından mahkemece öncelikle, davacı alacaklı tarafından, anılan yasa hükmü doğrultusunda icra mahkemesinden alınmış yetki belgesinin temini daha sonra işin esası hakkında bir karar verilmesi gerekir.
+
+### Yargıtay 14. HD 2019/5090 K.
+
+Paydaşlığın satış suretiyle giderilmesine karar verilmesi halinde satışın ne şekilde yapılacağının hüküm sonucunda gösterilmesi gerekir.
+
+HMK’nın 332 /1 ve 2 maddesi gereği yargılama giderlerine mahkemece re’sen hükmedilir. Yargılama gideri tutarı, hangi tarafa ve hangi oranda yükletildiği ve dökümü hüküm altında gösterilir. Bu yargılama giderleri, hem davayı kazanan tarafça daha önce peşin olarak ödenen hem de dava sonunda ödenmesi gereken harç ve masraflar ile yargılama gideri olan vekalet ücretidir. Davada haklı çıkan taraf kendisini vekille temsil ettirmiş ise vekalet ücreti diğer yargılama giderleri gibi haksız çıkan taraftan alınarak haklı çıkan “tarafa” verilir. Ancak paydaşlığın (ortaklığın) giderilmesi davaları iki taraflı, taraflar için benzer sonuçlar doğuran davalar olup, sonuçta kazanan ve kaybeden taraftan söz edilemeyeceğinden yargılama giderleri ve vekalet ücretinin “taraflara” payları oranında yükletilmesi gerekir. İİK'nın 121. maddesi uyarınca yetki belgesine dayalı olarak açılan ortaklığın giderilmesi isteğine ilişkin davalarda, davacı alacaklının taşınmazda payı bulunmadığından ve alacağını tahsile yönelik olarak dava açıldığından mahkemece alacaklı davacı yönünden yargılama giderlerine HMK’nin 332. maddesi gereğince hükmedilmelidir.
+
+### Yargıtay 14. HD 2018/8982 K.
+
+Dava, alacaklı tarafından açılan ortaklığın giderilmesi davasıdır.
+
+…
+
+Her ne kadar hissedarlar arasında açılan ortaklığın giderilmesi davalarında hissedarların tamamının muvafakati ile hissedarlar arasında satışa karar verilebilirse de bu dava İİK'nun 121. maddesine dayanılarak alacaklı ... tarafından alacağına kavuşmak amacıyla açılan bir ortaklığın giderilmesi davasıdır. Dolayısıyla hissedarların kendi aralarında satışa muvafakati yeterli değildir. Bu durum alacaklının hakkını haleldar edeceğinden ve alacaklının böyle bir satışa usulüne uygun rızası alınmadığından bozulması gerekmiştir.
+
+### Yargıtay 14. HD 2018/7564 K.
+
+Borçlu ortağın alacaklısı İcra Hakimliğinden İcra İflas Kanununun 121. maddesine göre alacağı yetki belgesine dayanarak borçlunun ortağı olduğu taşınmaz için ortaklığın giderilmesi davası açabilir. Bunun için icra hakiminden yetki belgesi alması zorunludur. Başka bir deyişle söz konusu yetki belgesinin görevli mahkemeden alınması üçüncü kişinin işbu davayı açması yönünden özel dava şartıdır. Bunun haricinde üçüncü kişinin bu davayı açmasında bir başka özel dava şartı da aranmaktadır ki bu davacının davayı açmasında hukuki yararının olup olmamasıdır. Bu durumun ortaya çıktığı hukuki müesseselerden biri tasarrufun iptali davasıdır. 2014 Sayılı İcra ve İflas Kanunun 277 vd. düzenlenen tasarrufun iptali davası alacağının tahsilini sağlamak amacıyla icra takibi yapan alacaklının söz konusu alacağının tahsilini engellenmesi için borçlu tarafın malvarlığını muvazaalı olarak üçüncü kişilere devretmesi sebebiyle alacağını tahsil edemeyen alacaklının taraf olmadığı bu tasarrufun iptalini sağlayarak alacağına kavuşmasını başka bir deyişle lehine hüküm kurulmakla alacaklının söz konusu hükme dayanarak alacaklıya alacağının tahsili imkanını tanıyan bir dava türüdür. Bu şekilde bir davanın hükme bağlanıp kesinleşmesiyle birlikte söz konusu ilama dayanarak alacağın tahsili mümkün olacağından kişinin bundan sonra ortaklığın giderilmesi davası açmasında hukuki yararı bulunmamaktadır.
+
+Somut olaya gelince; ... 3. Asliye Hukuk Mahkemesinin 2012/283 Esas sayılı dava dosyası üzerinden davacı (üçüncü kişi alacaklı) ... lehine tasarrufun iptaline karar verilmiş olmakla söz konusu alacaklının bu ilama dayalı olarak alacağını tahsil imkanı doğduğundan paydaşlığın giderilmesi davası açmasında hukuki yararı bulunmadığından davanın reddine karar verilmesi gerekirken paydaşlığın giderilmesi kararı verilmesi doğru görülmemiştir.
+
+### Yargıtay 14. HD 2018/6725 K.
+
+İcra mahkemesinden alınan yetkiye dayanarak açılan davalarda kural olarak borçlu ortağın mülkiyet hakkının elbirliği mülkiyetine konu olması gerekir.
+
+Somut uyuşmazlıkta mahkemece; 5831 Sayılı Kanun ile 3402 Sayılı Kadastro Kanunu'na eklenen Ek Madde 3 gereğince tapu müdürlüklerine de elbirliği mülkiyetini paylı mülkiyete dönüştürme yetkisi verildiğinden tapu müdürlüğünde elbirliği mülkiyetinin paylı mülkiyete çevrilmesi için İcra Hakiminden yetki alınıp paylı mülkiyete çevrildiğinde payın satışının mümkün hale geleceği, alacaklının (davacı) İcra ve İflas Kanununun 121. maddesi gereğince yetki alarak dava konusu taşınmaz yönünden ortaklığın giderilmesi davası açmasında hukuki yararı kalmadığı gerekçesi ile davanın usulden reddine karar verilmiş ise de karar usul ve yasaya aykırıdır. İcra İflas Kanununun 121. maddesine göre Borçlunun elbirliği halinde ortak olduğu taşınmazlarda, borçlu ortağın alacaklısı İcra Hakimliği'nden alacağı yetki belgesine dayanarak borçlunun ortağı olduğu taşınmaz için ortaklığın giderilmesi davası açabilir.
+
+### Yargıtay 14. HD 2018/4596 K.
+
+Borçlu mirasçının alacaklısı İcra Hakimliği' nden İİK' nun 121. maddesine göre alacağı yetki belgesine dayanarak borçlu mirasçıya ait taşınmaz için ortaklığın giderilmesi davası açabilir. Bunun için İcra Hakimliği' nden yetki belgesi alınması zorunludur. İcra Hakimliği' nden yetki belgesi almadan doğrudan doğruya veya yetkisi olmayan İcra Müdürünün verdiği yetki belgesine dayanılarak dava açılması halinde dava hemen reddedilmeyip, icra hukuk mahkemesinden yetki belgesi alınmak üzere davacıya önel verilmelidir.
+
+Somut olaya gelince; davacı tarafça dosyaya sunulmuş usulüne uygun ve geçerli bir yetki belgesi olmadığı anlaşıldığından, alacaklı tarafça İcra Hakimliği'nden alınacak usulüne uygun ve geçerli yetki belgesi temin edildikten sonra yargılamaya devam olunması gerekmekte olup, usulüne uygun yetki belgesi olmadan davaya devamla hüküm kurulması doğru görülmemiş, bu sebeple hükmün bozulması gerekmiştir.
+
+### Yargıtay 14. HD 2017/6390 K.
+
+Elbirliği mülkiyetinde borçlu ortağın alacaklısı yetki belgesine dayanarak borçlunun ortağı olduğu taşınmaz için ortaklığın giderilmesi davası açabilir. Paylı mülkiyette ise, borçlu paydaşın alacaklısı, borçlunun bağımsız payının haczini ve satışını isteyebileceğinden yetki belgesine dayanarak taşınmazın paydaşlığının giderilmesini istemesi yasa koyucunun amacına uygun değildir. 5578 sayılı Kanunla değiştirilen 5403 sayılı Toprak Koruma ve Arazi Kullanımı Kanununun 8. maddesi gereğince bölünemez büyüklükteki tarım arazilerinin mirasa konu olmaları ve üzerlerinde her ne sebeple gerçekleşmiş olursa olsun birlikte mülkiyetin mevcut olması durumunda bu arazilerin ifraz edilemeyeceği, payların 3. şahıslara satılamayacağı, devredilemeyeceği hükmü mevcutken, 5403 sayılı Kanunun 8. maddesinde 30.04.2014 tarihli ve 6537 sayılı Kanunun 4. maddesi ile yapılan ve 15.05.2014 tarihinde yürürlüğe giren değişiklikle "Tarım arazileri Bakanlıkça belirlenen büyüklüklerin altında ifraz edilemez, hisselendirilemez. Hazine taşınmazlarının satış işlemleri hariç olmak üzere pay ve paydaş adedi artırılamaz...." şeklinde düzenleme yapıldığından asgari tarımsal arazi büyüklüklerinin altındaki arazilerde de payın üçüncü şahıslara satışı ve devri mümkün hale gelmiştir. Somut olaya gelince;
+
+Dava konusu tarla niteliğindeki eski 978 yeni 125 ada 123 parsel sayılı taşınmazın tapu kaydına göre; borçlu ...’in 7/64 Müstakil payı mevcut olduğu, yine dava konusu tarla niteliğindeki eski 977 yeni 125 ada 124 parsel sayılı taşınmazın tapu kaydına göre; borçlu ...’in 3/32 i Müstakil payı mevcut olduğu anlaşılmaktadır,Ortaklığın giderilmesi talep edilen taşınmazda borçlu davalının müstakil payı mevcut olup yukarıda açıklandığı gibi 5403 sayılı Kanunun değişik 8. maddesi gereğince alacaklı davacı tarafından haczedilen bu payın doğrudan icra yoluyla satışı istenebileceğinden, davacının bu davayı açmakta hukuki yararı bulunmamaktadır.
+
+### Yargıtay 14. HD 2017/5604 K.
+
+Dava, alacaklı tarafından yapılan icra takibi sonucu alınan yetki belgesine dayanılarak açılan Balıkesir ili, Kepsut ilçesi, Hotaşlar köyü 143, 1199, 1266, 2822, 2871, 4171, 4411, 4412 ve 631 parsel sayılı taşınmazlar üzerindeki ortaklığın giderilmesi isteğine ilişkindir.
+
+…
+
+5578 sayılı Kanunla değiştirilen 5403 sayılı Toprak Koruma ve Arazi Kullanımı Kanununun 8. maddesi gereğince bölünemez büyüklükteki tarım arazilerinin mirasa konu olmaları ve üzerlerinde her ne sebeple gerçekleşmiş olursa olsun birlikte mülkiyetin mevcut olması durumunda bu arazilerin ifraz edilemeyeceği, payların üçüncü şahıslara satılamayacağı, devredilemeyeceği hükmü mevcutken, 5403 sayılı Kanunun 8. maddesinde 30.04.2014 tarihli ve 6537 sayılı Kanunun 4. maddesi ile yapılan değişiklikle "Tarım arazileri Bakanlıkça belirlenen büyüklüklerin altında ifraz edilemez, hisselendirilemez. Hazine taşınmazlarının satış işlemleri hariç olmak üzere pay ve paydaş adedi artırılamaz..." şeklinde düzenleme yapıldığından artık asgari tarımsal arazi büyüklüklerinin altındaki arazilerde de payın üçüncü şahıslara satışı ve devri mümkün hale gelmiştir.
+
+Somut olayda İİK'nın 121. maddesi gereğince yetki belgesine dayanılarak dava açılmıştır. Davanın açıldığı tarihte dava konusu taşınmazlar paylı mülkiyet rejimine tabi olsa da alacaklı 5403 sayılı Kanununun ilgili maddeleri gereğince doğrudan pay satışı talebinde bulunamayacağından bu davayı açmakta hukuki yararı mevcut ise de 5403 sayılı Kanununun 8. maddesinde yapılan değişiklik sonucu artık alacaklının, borçlunun paylı mülkiyete konu hisselerini doğrudan haczettirerek icra takibi yoluyla satışı mümkün haline geldiğinden artık hukuki yararı kalmamıştır. Bu durum kanun değişikliğinden kaynaklandığından usuli kazanılmış hak da oluşmaz.
+
+### Yargıtay 14. HD 2017/4164 K.
+
+Paydaşlığın (ortaklığın) giderilmesi davasını paydaşlardan (ortaklardan) biri veya bir kaçı diğer paydaşlara (ortaklara) karşı açar. Borçlu ortağın alacaklısı da 2004 sayılı İİK’nın 121. maddesi gereğince icra mahkemesinden alacağı yetki belgesine dayanarak borçlunun ortağı olduğu taşınmaz için ortaklığın giderilmesi davası açabilir. Bunun için icra mahkemesinden yetki belgesi alması zorunludur. İcra mahkemesinden yetki belgesi almadan doğrudan doğruya veya yetkisi olmayan icra müdürünün verdiği yetki belgesine dayanılarak dava açılması halinde dava hemen reddedilmeyip, icra mahkemesinden yetki belgesi almak üzere davacıya önel verilmelidir.HMK'nın 27. maddesi hükmü uyarınca, davanın tarafları, müdahiller ve yargılamanın diğer ilgilileri, kendi haklarıyla bağlı olarak hukuki dinlenilme hakkına sahiptirler. Bu şekilde açılacak davada borçlu ortak (paydaş) dahil tüm ortakların (paydaşların) davaya dahil edilmeleri zorunludur. Somut olaya gelince; davacı vekilinin ibraz ettiği yetki belgesinin icra hukuk mahkemesinden alınması gerekirken icra müdür yardımcısından alınması doğru görülmemiştir.Bu durumda mahkemece yapılması gereken iş; öncelikle 2004 sayılı İİK’nın 121. maddesi uyarınca ortaklığın giderilmesi davası açmak için icra mahkemesinden yetki belgesi almak üzere davacıya süre verilmelidir.Mahkemece davacı tarafça usulüne uygun yetki belgesi ibraz edilmeden usul hükümlerine aykırı şekilde davanın esasının karara bağlanması doğru görülmemiş, bu sebeple hükmün bozulması gerekmiştir.Kabule göre de; yalnızca borca yetecek miktarda taşınmazın satışı yoluyla ortaklığın giderilmesi kararı verilmesi gerekirken, borçlunun payının bulunduğu tüm taşınmazların satış suretiyle ortaklığın giderilmesi yoluna gidilmesi ve 492 Sayılı Harçlar Kanunu ve eki Tarifenin karar ve ilam harcına ilişkin hükmü uyarınca karar tarihi itibariyle gayrimenkulün satış bedeli üzerinden alınacak harcın binde 11,38 olması gerekirken hüküm sonucunda binde 9,9 olarak gösterilmesi de doğru görülmemiştir.
+
+### Yargıtay 12. HD 2016/24229 K.
+
+Somut olayda, alacaklı tarafından borçlunun murisinden intikal eden taşınmaz üzerine haciz konulduğu, İİK'nun 121. maddesi uyarınca alınan yetki belgesi ile taşınmazın satışı amacıyla da ..... .... Sulh Hukuk Mahkemesi'nin 2012/321 Esas sayılı dosyasıyla ortaklığın giderilmesi davası açıldığı, ortaklığın satış suretiyle giderilmesi kararı uyarınca; alacaklının satış talebi ile ..... .... Sulh Hukuk Mahkemesi satış memurluğunun 2014/... sayılı satış dosyasından .../02/2015 tarihli artırmada, taşınmazın, üçüncü kişi hissedara 47.100,00 TL bedelle ihale edildiği, ihalenin kesinleştiği, satış sonrası borçlunun hissesine düşen miktardan, satış masrafları mahsup edildikten sonra bakiye kalan bedel ile ilgili sıra cetveli ve buna göre paylaştırma yapılması amacıyla, alacaklının takip dosyası olan ............. .... İcra Müdürlüğü’nün 2010/9249 esas sayılı takip dosyasına paranın gönderilmesine karar verildiği, bakiye satış bedelinin, taşınmaz üzerindeki haciz alacaklarının tamamını karşılamadığı görülmektedir.
+
+### Yargıtay 14. HD 2016/1999 K.
+
+Dava, ortaklığın giderilmesi istemine ilişkindir.
+
+…
+
+Borçlu ortağın alacaklısı İcra Hakimliğinden İİK'nın 121. maddesine göre alacağı yetki belgesine dayanarak borçlunun ortağı olduğu taşınmaz için ortaklığın giderilmesi davası açabilir. Borçlu ortağın alacaklısı tarafından açılan davada birden fazla taşınmaz dava konusu edilmiş ise icra takibine konu borç miktarına göre dava tarihi itibariyle taşınmazlardan borçlu ortağın payına düşecek değerin tespit edilerek borca yetecek miktarda taşınmazın ortaklığının giderilmesine, fazlaya ilişkin istemin reddine karar verilmesi gerekir.
+
+### Yargıtay 12. HD 2016/492 K.
+
+Bununla birlikte, her ne kadar ihtiyati tedbir kararı verilmeyen imzaya itiraz talebi ve alacaklının icra müdürlüğünden yetki alarak açtığı ortaklığın giderilmesi davası zamanşımını kesmez ise de, İİK'nun 121. maddesine göre yapılan talep ile ortaklığın giderilmesi ilamına dayalı olarak yapılan satış talebi ve yenileme istemi zamanaşmını keseceğinden, işlemler arasında T.T.K.'nun 749. maddesinde öngörülen 3 yıllık zamanaşımı süresinin dolmadığı anlaşılmıştır.
+
+### Yargıtay 12. HD 2015/32817 K.
+
+Hal böyle olunca, gerekmediği halde İİK'nun 121. maddesi uyarınca yetki alınması ve bu yetkiye dayalı ortaklığın giderilmesi davası açılması satış isteme süresini kesmeyeceğinden ve yasal sürede masrafı yatırılarak usulüne uygun satış talebinde bulunulmadığından hacizler İİK'nun 106-110. maddesi uyarınca düşmüş olup geçerli bir haciz bulunmaksızın ihale yapılması anılan yasa hükümlerine aykırı olmakla usulsüzdür.
+
+### Yargıtay 12. HD 2015/29807 K.
+
+Borçlu ...'ın murisine ait olup henüz tapuda intikal görmemiş taşınmazların miras payı üzerine konulan hacizler nedeniyle İİK. nun 121.maddesi uyarınca izale-i şuyu davası açmak üzere alacaklıya ... İcra Hukuk Mahkemesinin 14.05.2009 tarih 2008/216 E-2009/187 K. sayılı kararıyla yetki verildiği, şikayete konu 6, 14 ve 188 parsel sayılı taşınmazların ... 2. İcra Müdürlüğünün 2005/4903 Esas dosyası ile satışına karar verilerek 21/11/2014 tarihinde ihalenin yapıldığı, devirden önce her üç taşınmazda da 1/6 hissesi bulunan borçlu ...'ın hissesine tekabül eden ödemenin icra müdürlüğü kasasına yatırıldığından bahisle alacaklı vekilinin ihale bedelinin tümünün dosya borcuna mahsup edilmesine ilişkin 02/12/2014 tarihli talebinin 04/12/2014'te İcra Müdürlüğünce reddine dair verilen kararın iptali ile ihalenin feshinin istendiği, mahkemece, icra müdürlüğünün şikayete konu kararının yasaya uygun olduğundan reddine; alacaklının diğer taleplerinin ise, ihalenin satış memurluğunca yapıldığından bahisle bu hususu inceleme yetkisinin Sulh Hukuk Mahkemesine ait olduğundan bahisle görev yönünden reddine karar verildiği anlaşılmıştır.Sair temyiz itirazları yerinde değil ise de;Alacaklı vekiline Sulh Hukuk Mahkemesinde İcra İflas Kanununun 121. maddesi gereğince ortaklığın giderilmesi davası açmak için verilen yetki gereğince alacaklı tarafından izaleyi şüyu davası açılıp satış yaptırılmış ve borçlu hissesi hissedarlar tarafından satın alınarak tapuya tescil edilmiştir.Sulh Hukuk Mahkemesinin görevi İİK. 121. madde çerçevesinde yapılması gerekenlerle sınırlı olup, bunun dışındaki taleplerde görev İcra Mahkemesine aittir. İhalenin feshine konu edilen 6, 14 ve 188 parsel sayılı taşınmazların ihalesi icra müdürlüğünce yapılmış olmakla ihalenin feshi istemini inceleme görevi icra mahkemesine aittir. Bu nedenle mahkemece işin esasının incelenerek sonuca gidilmesi gerekirken, yazılı şekilde görevsizlik nedeniyle davanın reddine karar verilmesi isabetsizdir.SONUÇ : Alacaklının temyiz itirazlarının kısmen kabulü ile mahkeme kararının yukarıda yazılı nedenlerle İİK'nun 366 ve HUMK’nun 428.
+
+### Yargıtay 8. HD 2015/21257 K.
+
+Ayrıca İİK'nun 121. maddesine göre İcra Hukuk Mahkemesi'nden alınan yetki belgesi ile açılan ortaklığın giderilmesi davasından feragat edilmesi borçluların miras hisselerine haciz uygulanmasına engel olmadığı gibi tatbik edilmiş hacizlerin kaldırılmasını gerektirmez . -//-
+
+…
+
+### Yargıtay 12. HD 2015/20595 K.
+
+Ancak, alacaklının, borçluya ödeme emrinin 10.10.2004 tarihinde tebliğ edilmesinden sonra 22.12.2008 tarihli yenileme talebine kadar alacağın tahsiline yönelik herhangi bir işlem yapmadığı ve bu tarihler arasında 3 yıllık zamanaşımının dolmuş olduğu anlaşılmaktadır. Zamanaşımının dolmasından sonra alacaklının işlem yapması halinde ise zamanaşımının kesilmesi ve yeniden zamanaşımı sürelerinin işlemeye başlaması mümkün değildir. Bir diğer ifade ile alacaklının zamanaşımının dolmasından sonra takip dosyasında icra işlemi yapmış olması, ona yeni bir hak bahşetmez. Dolayısı ile alacaklı vekilinin, zamanaşımının gerçekleşmesinden sonra İİK'nun 121. maddesi uyarınca yaptığı talep ile zamanaşımının kesildiği ve yeniden işlemeye başladığının kabulüne olanak bulunmamaktadır.
+
+Hal böyle olunca, 1010.2004 ve 22.12.2008 tarihleri arasında 3 yıllık zamanaşımı süresinin dolduğu gerekçesi ile icranın geri bırakılmasına karar verilmesi gerekirken, icra mahkemesince İİK'nun 121. maddesi hükmü uyarınca verilen kararın tarihi ve ortaklığın giderilmesi davasının reddine karar verilen tarih esas alınarak sonuca gidilmesi doğru olmadığı gibi, bono vasfını taşıyan kambiyo senedine dayalı olarak başlatılan takipte, tanzim tarihi itibarı ile yürürlükte bulunan 6762 sayılı TTK.’nun bonolara ilişkin 661, 662. ve 663. maddelerinin uygulanması yerine, somut olayda uygulama yeri bulunmayan çeklere ilişkin zamanaşımı hükümlerini düzenleyen aynı kanunun 726. maddesinde öngörülen 6 aylık zamanaşımı süresinin uygulanarak sonuca gidilmesi isabetsiz ise de, sonuçta borçlunun istemi kabul edilerek icranın geri bırakılmasına karar verildiğinden sonucu itibarı ile doğru olan mahkeme kararının onanması gerekmiştir.
+
+### Yargıtay 14. HD 2015/11932 K.
+
+Paydaşlığın (ortaklığın) giderilmesi davasını paydaşlardan (ortaklardan) biri veya bir kaçı diğer paydaşlara (ortaklara) karşı açabileceği gibi borçlu ortağın alacaklısı İcra Mahkemesinden İİK'nın 121. maddesine göre alacağı yetki belgesine dayanarak borçlunun elbirliği halinde ortağı olduğu taşınmaz için ortaklığın giderilmesi davası açabilir.
+
+5578 sayılı Kanunla değiştirilen 5403 sayılı ..Kullanımı Kanununun 8. maddesi gereğince bölünemez büyüklükteki tarım arazilerinin mirasa konu olmaları ve üzerlerinde her ne sebeple gerçekleşmiş olursa olsun birlikte mülkiyetin mevcut olması durumunda bu arazilerin ifraz edilemeyeceği, payların 3. şahıslara satılamayacağı, devredilemeyeceği hükmü mevcut iken, 5403 sayılı Kanunun 8. maddesinde 30.04.2014 tarihli ve 6537 sayılı Kanunun 4. maddesi ile yapılan değişiklikle "Tarım arazileri Bakanlıkça belirlenen büyüklüklerin altında ifraz edilemez, hisselendirilemez, Hazine taşınmazlarının satış işlemleri hariç olmak üzere pay ve paydaş adedi artırılamaz..." şeklinde düzenleme yapıldığından artık asgari tarımsal arazi büyüklüklerinin altındaki arazilerde de payın üçüncü şahıslara satışı ve devri mümkün hale gelmiştir.
+
+### Yargıtay 14. HD 2015/1709 K.
+
+Borçlu mirasçının, alacaklısı tarafından ortaklığın giderilmesi davası açılabilmesi için öncelikle borçlu mirasçının elbirliği mülkiyeti ile ortak olduğu taşınmazda hissesine düşecek kısım üzerine haciz konulması, İİK'nın 121. maddesi gereğince de ortaklığın giderilmesi hususunda icra mahkemesince yetki verilmiş olması şarttır. Zira İİK'nın 121. maddesi “ Bir intifa hakkı veya taksim edilmemiş bir miras veya bir şirket yahut iştirak halinde tasarruf olunan bir mal hissesi gibi yukardaki maddelerde gösterilmeyen başka nevi malların satılması lazım gelirse icra memuru satışın nasıl yapılacağını icra mahkemesinden sorar” Hükmünü içerdiğinden davacının yetkisinin "satılması lazım gelen" mallarla sınırlı olduğu açıktır. Dolayısıyla davacı alacaklının ortaklığın giderilmesi davasını açabilmesi için davadan önce ve yargılama sırasında davaya konu taşınmaz üzerinde haciz bulunması zorunludur. Borcun tahsili yahut farklı sebeple haczin kalkması halindealacaklının ortaklığın giderilmesini talep etme hakkı sona erer.
+
+### Yargıtay 14. HD 2014/13627 K.
+
+Somut uyuşmazlıkta .. parsel sayılı taşınmazda borçlu "Mustafa oğlu H.. I.. paydaş durumundadır. Yukarıda bahsedilen yasal değişiklikle alacaklı (davacı) tarafından borçlu "M..oğlu H.. I.."ın haczedilen payının doğrudan icra yolu ile satışı mümkün hale geldiğinden alacaklının (davacı) İcra ve İflas Kanununun 121. maddesi gereğince yetki alarak bu parseller yönünden ortaklığın giderilmesi davası açmasında hukuki yararı kalmamıştır. Bu nedenle davacının 646 parsel sayılı taşınmaza yönelik davasının reddi gerekir.
+
+Diğer taraftan paydaşlığın (ortaklığın) giderilmesi davalarını paydaşlar (ortaklar) açabilir. Bunun yanı sıra bu davaların, borçlu ortağın alacaklısı İcra Hakimliğinden İİK'nın 121. maddesine göre alacağı yetki belgesine dayanarak borçlunun ortağı olduğu taşınmaz için ortaklığın giderilmesi davası açabilir. Böyle bir yetki verildiğinde yetkiye dayanarak dava açan kişinin aktif dava ehliyeti vardır. Paydaşlığın giderilmesi davasını paydaşlardan biri veya birkaçı diğer paydaşlara karşı açar. HMK'nın 27. maddesi uyarınca bütün paydaşların davada yer alması zorunludur. Davacı dava konusu taşınmazın paylı maliklerinden borçlu "M.. oğlu H..I.. adına dava açamayacağından borçlu "M.. oğlu H.. I.."ın davada davalı olarak yer alması gerekir.
+
+### Yargıtay 14. HD 2014/11967 K.
+
+Mahkeme kararı ve dayandığı gerekçeler, yapılan yargılamaya, toplanan delillere ve dosya içeriğine uygun olduğu gibi özellikle İİK'nın 121. maddesi hükmü uyarınca alacaklının ancak borçlunun elbirliği halinde mülkiyet hissesi bulunan taşınmazlar hakkında yetki belgesine dayanarak ortaklığın giderilmesi davası açabileceğine, dava konusu taşınmazda ise borçlunun 1/24 payının bulunduğunun da anlaşılmasına göre yerinde olmayan temyiz itirazlarının reddiyle hükmün ONANMASINA, aşağıda yazılı onama harcının temyiz edene yükletilmesine, 30.10.2014 tarihinde oybirliği ile karar verildi.
+
+### Yargıtay 14. HD 2014/11730 K.
+
+İcra mahkemesinden alınan yetkiye dayalı olarak açılan davalarda kural olarak borçlu ortağın mülkiyet hakkının elbirliği mülkiyetine konu olması gerekir.
+
+Paylı mülkiyette ise yine kural olarak borçlu paydaşın alacaklısı, borçlunun payının icra yoluyla satışını isteyebileceğinden İcra İflas Kanununun 121. maddesi uyarınca yetki belgesine dayanarak ortaklığın giderilmesini isteyemez. Ancak 5403 sayılı Toprak Koruma ve Arazi Kullanımı Kanununun 8. maddesi hükmündeki yasal sınırlama nedeniyle parsel büyüklüğü uygun bulunmadığından borçlunun payının icra müdürlüğünce satışı mümkün olmayan, tarımsal nitelikli parsellerde alacaklı İcra İflas Kanununun 121. maddesi uyarınca aldığı yetki belgesine dayalı olarak taşınmazın tamamının satılması suretiyle paydaşlığın giderilmesini isteyebilir.
+
+### Yargıtay 14. HD 2014/4830 K.
+
+Dava, borçlu ortağın alacaklısı tarafından yapılan icra takibi sonucu alınan yetki belgesine dayanılarak açılan, ortaklığın giderilmesi isteğine ilişkindir.
+
+…
+
+Borçlu ortağın alacaklısı İcra Hakimliğinden İİK'nın 121. maddesine göre alacağı yetki belgesine dayanarak borçlunun ortağı olduğu taşınmaz için ortaklığın giderilmesi davası açabilir. Davacı taraf Denizli 2. İcra Hukuk Mahkemesinden aldığı yetki belgesi ile bu davayı açmış ve yapılan yargılama sonunda dava konusu taşınmazların satışı suretiyle ortaklığın giderilmesine karar verilmiştir. Ortaklığın satış sureti ile giderilmesine karar verilmesi halinde satış bedelinin dava konusu taşınmazların paydaş veya ortaklarına ödenmesine karar verilir. Satış bedelinin 3. kişi durumundaki alacaklıya ödenmesine veya icra dosyasına aktarılmasına karar verilemez.
+
+### Yargıtay 14. HD 2013/15443 K.
+
+Dava, ortaklığın giderilmesi, elatmanın önlenmesi ve kal istemine ilişkindir.
+
+…
+
+Paydaşlığın giderilmesi davasını paydaşlardan biri veya birkaçı diğer paydaşlara karşı açar. Ayrıca borçlu ortağın alacaklısı icra hakimliğinden İcra İflas Kanunu’nun 121. maddesine göre alacağı yetki belgesine dayanarak da borçlunun ortağı olduğu taşınmaz için ortaklığın giderilmesi davası açabilir. Bunun için icra hakiminden yetki belgesi alınması zorunludur.
+
+HMK'nın 27. maddesi uyarınca davada bütün paydaşların yer alması zorunludur. Paydaşlardan veya ortaklardan birinin ölümü halinde alınacak mirasçılık belgesine göre mirasçılarının davaya katılmaları sağlandıktan sonra işin esasının incelenmesi gerekir.
+
+### Yargıtay 6. HD 2013/12407 K.
+
+Dava, elbirliği mülkiyetinin paylı mülkiyete çevrilmesi istemine ilişkindir.
+
+…
+
+Borçlu ortağın alacaklısı İcra Hakimliğinden İ.İ.K.nun 121.maddesine göre alacağı yetki belgesine dayanarak borçlunun ortağı olduğu taşınmaz için ortaklığın giderilmesi (pay satışının mümkün olduğu hallerde kıyasen ve içtihaden elbirliği mülkiyetinin paylı mülkiyete çevrilmesi) davası açabilir. Bunun için icra hakiminden yetki belgesi alması zorunludur. İcra hakiminden yetki belgesi almadan doğrudan dava açılması halinde dava hemen reddedilmeyip, icra hakiminden yetki belgesi almak üzere önel verilmelidir.
+
+### Yargıtay 6. HD 2013/11641 K.
+
+Borçlu ortağın alacaklısı İcra Hakimliğinden İ.İ.K.nun 121.maddesine göre ... 2. İcra Müdürlüğünün 2010/74 sayılı takip dosyası ile alacağının tahsili için başlatılan icra takibi sebebiyle alınan yetki belgesine dayanarak borçlunun ortağı olduğu taşınmaz için ortaklığın giderilmesi davası açmıştır. Borçlu ortağın alacaklısının ayrıca ... 2. İcra Müdürlüğünün 2010/75 sayılı takip dosyasından alınan yetki belgesine dayanarak aynı taşınmaz için ... Sulh Hukuk Mahkemesinin 2010/278 esas ve 2011/365 karar sayılı dosyası ile de ortaklığın giderilmesini talep ettiği mahkemece davanın kabulüne karar verildiği anlaşılmaktadır. Bu davanın konusunu oluşturan takip alacağı ile davamızın konusunu oluşturan takip alacağı farklı olup davacının dava açmasında hukuki yararı mevcuttur.Mahkemece bu husus gözetilerek karar verilmesi gerekirken yazılı gerekçeyle davanın reddine karar verilmesi doğru değildir.
+
+### Yargıtay 14. HD 2013/9685 K.
+
+Dava, ortaklığın satış suretiyle giderilmesi isteğine ilişkindir.
+
+…
+
+Borçlu ortağın alacaklısı İcra Hakimliğinden İ.İ.K'nun 121.maddesine göre alacağı yetki belgesine dayanarak borçlunun ortağı olduğu taşınmaz için ortaklığın giderilmesi davası açabilir. Bu şekilde açılacak davada borçlu ortak dahil tüm ortakların davaya dahil edilmeleri zorunludur. HMK'nun 27. maddesi hükmü uyarınca, davanın tarafları, müdahiller ve yargılamanın diğer ilgilileri, …
+
+### Yargıtay 14. HD 2013/9674 K.
+
+Dava, borçlu ortağın alacaklıları tarafından açılan, ortaklığın giderilmesi isteğine ilişkindir.
+
+…
+
+Dava konusu 1677 parsel sayılı taşınmaza ilişkin temyiz itirazları yönünden ortaklığın (paydaşlığın) giderilmesi davalarını ortak ya da paydaşlar ile borçlu ortağın alacaklısı İcra Hakimliğinden İ.İ.K.nun 121. maddesine göre alacağı yetki belgesine dayanarak borçlunun ortağı olduğu taşınmaz için açabilir. Dosya içerisinde bulunan Gaziantep 1.İcra Hukuk Mahkemesinin 2012/144 E., 2012/119 K. sayılı kararı ile alacaklı vekiline borçlunun paydaş olduğu Gaziantep 8. İcra Müdürlüğünün 2010/462 sayılı takip dosyasında haczedilen 968 ada 9 parsel, 2091 ada 20 parsel, 454 ada 7 parsel ve 3055 parsel sayılı taşınmazlar hakkında ortaklığın giderilmesi davası açmak üzere İ.İ.K.nun 121. maddesi gereğince yetki verilmiştir. Ancak dava konusu edilen ve mahkemece satışı suretiyle ortaklığın giderilmesine karar verilen 1677 parsel sayılı taşınmaza ilişkin İcra Mahkemesince ortaklığın giderilmesi davası açılması için verilmiş bir yetki bulunmamaktadır. Bu nedenle İ.İ.K.nun 121. maddesine göre icra mahkemesinden alınacak yetki belgesinin ibrazı zorunlu olup, İcra hakiminden alınmış yetki belgesi bulunmadan dava konusu 1677 parsel sayılı taşınmazın satışına karar verilmesi doğru değildir.
+
+Borçlu ortağın alacaklısı İcra Hakimliğinden İ.İ.K.nun 121. maddesine göre alacağı yetki belgesine dayanarak borçlunun ortağı olduğu taşınmaz için ortaklığın giderilmesi davası açabilir. Bunun için icra hakiminden yetki belgesi alması zorunludur. İcra hakiminden yetki belgesi almadan doğrudan doğruya veya yetkisi olmayan İcra Müdürünün verdiği yetki belgesine dayanılarak dava açılması halinde dava hemen reddedilmeyip, icra hakiminden yetki belgesi almak üzere önel verilmelidir.
+
+### Yargıtay 14. HD 2013/8555 K.
+
+Dava, ortaklığın giderilmesi istemine ilişkindir.
+
+…
+
+Borçlu ortağın alacaklısı İcra Hakimliğinden İ.İ.K'nun 121. maddesine göre alacağı yetki belgesine dayanarak borçlunun ortağı olduğu taşınmaz için ortaklığın giderilmesi davası açabilir. Davacı da ... 1. İcra Hukuk Mahkemesinden aldığı yetki belgesi ile davayı açmış ve yapılan yargılama sonunda dava konusu taşınmazların satışı suretiyle ortaklığın giderilmesine karar verilmiştir. Ortaklığın satış sureti ile giderilmesi davalarında satış bedeli dava konusu taşınmazların paydaş veya ortaklarına ödenmesine karar verilmesi gerekir. Gerekçeli kararın hüküm kısmında davalı borçlu ... payına isabet eden bedelin borç miktarını karşılayacak kısmının icra dosyasına ödenmesine karar verilmesi doğru değil ise de bu husus kararın bozulmasını ve yeniden yargılama yapılmasını gerektirmediğinden HUMK’nın 438/7 maddesi gereğince hüküm sonucunun aşağıdaki şekilde düzeltilerek onanmasına karar vermek gerekmiştir.
+
+### Yargıtay 6. HD 2013/6332 K.
+
+Dava, dört adet taşınmazın ortaklığın giderilmesi istemine ilişkindir.
+
+…
+
+Borçlu ortağın alacaklısı İcra Hakimliğinden İ.İ.K.nun 121.maddesine göre alacağı yetki belgesine dayanarak borçlunun ortağı olduğu taşınmaz için ortaklığın giderilmesi davası açabilir.Dosya içerisinde bulunan Babaeski İcra Hukuk Mahkemesinin 2010/15 E D.iş E,2010/15 K sayılı kararı ile alacaklı vekiline borçlunun elbirliği halinde malik olduğu Babaeski 1.İcra Müdürlüğünün 2010/1568 E. sayılı dosyasında haczedilen 91,1036,1042 parsel nolu taşınmazlar hakkında ortaklığın giderilmesi davası açmak üzere İİK 121 maddesi gereğince yetki verilmesine karar verilmiştir.Ancak dava konusu edilen ve Mahkemece satışına karar verilen 2813 parsel sayılı taşınmaza ilişkin İcra Mahkemesince ortaklığın giderilmesi davası açılması için verilmiş bir yetki belgesi bulunmamaktadır.Bu nedenle Dairemizin 13/12/2012 tarihli kararında, alacaklıya dava konusu 2813 parsel sayılı taşınmaz yönünden dava açmak için İİK.'nun 121. maddesi gereğince icra mahkemesi tarafından verilmiş yetki belgesi ibraz ettirilerek, dosya içerisine alınması için dosyanın mahalline geri çevrilmesine karar verilmiş, davacı vekili tarafından dava konusu ....parsel sayılı taşınmaz yönünden dava açmak için İİK.'nun 121. maddesi gereğince icra mahkemesinden alınan yetki belgesi ibraz edilememiştir.İ.İ.K.nun 121.maddesine göre icra mahkemesinden alınacak yetki belgesinin ibrazı zorunlu olup, İcra hakiminden alınmış yetki belgesi bulunmadan dava konusu 2813 parselin satışına karar verilmesi doğru değildir.
+
+### Yargıtay 6. HD 2013/4699 K.
+
+Paydaşlığın(ortaklığın) giderilmesi davasını paydaşlardan (ortaklardan) biri veya bir kaçı diğer paydaşlara (ortaklara) karşı açar. Davada bütün paydaşların (ortakların) yer alması zorunludur. Paydaşlardan veya ortaklardan birisinin ölmesi halinde alınacak mirasçılık belgesine göre mirasçılarının davaya katılmaları sağlandıktan sonra işin esasının incelenmesi gerekir.
+
+Olayımızda; Davaya konu olan ve satışına karar verilen 3370 parsel sayılı taşınmazda paydaş olan ...’ın hükümden önce 06.04.2012 tarihinde öldüğü dosyaya sunulan mirasçılık belgesinden anlaşılmıştır. ... mirasçılarından ... davaya dahil edilmemiştir. Yukarıda açıklanan ilke ve esaslar doğrultusunda davada tüm paydaşlar ve mirasçılarının yer alması zorunlu olup mahkemece tüm hak sahiplerinin usulüne uygun olarak davaya dahil edilip taraf teşkili sağlandıktan sonra işin esası hakkında bir karar verilmesi gerekirken taraf teşkili sağlanmadan 6100 sayılı HMK.nun 27. Maddesi hükmüne aykırı şekilde karar verilmesi hatalı olmuştur. Öte yandan dava, borçlu ortağın alacaklısı tarafından açılmış olup İ.İ.K.nun 121.maddesine göre icra mahkemesinden alınacak yetki belgesinin ibrazı zorunludur. İcra hakiminden yetki belgesi alınmadan yetkisi olmayan İcra Müdürünün verdiği yetki belgesine dayanılarak karar verilmesi de hatalı olup hüküm belirtilen nedenlerle bozulmalıdır.
+
+### Yargıtay 6. HD 2012/16952 K.
+
+Dava, borçlu paydaşın alacaklısı tarafından açılan, dört adet taşınmazda ortaklığın giderilmesi istemine ilişkindir.
+
+…
+
+5403 sayılı Kanunun 8. maddesi hükmü gereğince, pay satışı mümkün olmayan paylı mülkiyete sahip tarımsal nitelikli parsellerde ise, alacaklı İİK.nun 121. maddesi uyarınca aldığı yetki belgesine dayalı olarak taşınmazın tamamının satılması suretiyle paydaşlığın giderilmesini isteyebilir.
+
+### Yargıtay 6. HD 2012/15431 K.
+
+Dava, 1 adet taşınmazdaki elbirliği mülkiyetinin paylı mülkiyete çevrilmesi istemine ilişkindir.
+
+…
+
+Türk Medeni Kanun'unun 644. maddesi gereğince elbirliği mülkiyetinn paylı mülkiyete dönüştürülmesi davasını ancak mirasçılar açabilir. Yasada öngörülen ayrık hükümler dışında üçüncü şahısların dava hakkı yoktur. (İİK. Mad.121) Davacı mirasçı değildir. Miras payını temellük eden kişi elbirliği mülkiyetin paylı mülkiyete dönüştürülmesini isteyemez. Tapu iptali ve tescil davası sırasında verilen yetki belgesinin sonuca etkisi yoktur. Mahkemece davanın reddine karar verilmesi gerekirken yazılı şekilde karar verilmesi doğru değildir.
+
+### Yargıtay 6. HD 2012/12936 K.
+
+Dava, bir adet taşınmazda paydaşlığın giderilmesine ilişkindir.
+
+…
+
+Dosya içerisindeki mevcut tapu kayıtlarından, 1327 parselde yer alan borçlu ...'in diğer ortaklarla birlikte elbirliği mülkiyeti esaslarına göre adlarına kayıtlı olan taşınmazın, kat mülkiyeti tesis edilen mesken vasfındaki 1/2 arsa payı bulunan 1 numaralı bağımsız bölüm olduğu anlaşılmaktadır. Bu durum yapılan keşif esnasında belirlenmiş, bilirkişilerce düzenlenen raporlarda bağımsız bu bölüme göre düzenlenmiştir. Bu durumda davacı taraftan satışı istenen bağımsız bölümle ilgili icra hakimliğinden İİK. 121. maddesine göre alınması gerekli yetki belgesi eksikliğinin giderilmesinden sonra, davacının dava dilekçesindeki talebinin açıklattırılarak sonucuna göre bağımsız bölümle ilgili bir karar verilmesi gerekirken, bu husus üzerinde durulmadan ve eksiklikler giderilmeden kat mülkiyeti oluşturulan ana taşınmazın satışına karar verilmesi hatalı olmuştur.
+
+### Yargıtay 6. HD 2012/5278 K.
+
+Elbirliği halindeki mülkiyetin ortağının alacaklısı İcra Hukuk Mahkemesinden alacağı yetki belgesine dayanarak borçlunun ortağı olduğu taşınmaz için ortaklığın giderilmesi davası açabilir. 14.04.1943 gün ve 15/48 sayılı İçtihadı Birleştirme Kararına göre yetki belgesinin İcra Hukuk Mahkemesinden alınması zorunludur. İcra memurunun böyle bir yetki belgesi verme hakkı yoktur. Tetkik Merciinden belge alınmadan doğrudan doğruya veya İcra memurunun verdiği belgeye dayanılarak dava açılması halinde dava reddedilmez, yetkili merciden gerekli belge alınmak üzere davacıya süre verilmesi gerekir.
+
+Alacaklı tarafından ortaklığın giderilmesi davasının açılması halinde borçlu ortak dahil tüm elbirliği halindeki iştirakli ortakların davaya dahil edilmesi zorunludur.
+
+### Yargıtay 6. HD 2012/2633 K.
+
+Dava, borçlu ortağın alacaklısı tarafından açılan, ortaklığın giderilmesi davasıdır.
+
+…
+
+Olayımıza gelince; İİK.nun 121.maddesi uyarınca icra hakiminden alınan yetki belgesi gereği alacaklı tarafından, borçlu İbrahim Kandemir'in, miras nedeniyle, elbirliği mülkiyeti hükümlerine göre, ortağı olduğu 4547 sayılı parselin satışı istenmiştir. Dava tarihinde 18 yaşından küçük olan ortaklardan ... ve ...'in kanuni temsilcisi hasım gösterilerek dava açılması gerekirken bu kişilerin bizzat hasım gösterilerek dava açılması doğru değildir. Bu itibarla, adı geçenlerin kanuni temsilcisine husumet yöneltilerek, yasaya uygun taraf teşkili sağlanmak üzere hükmün bozulması gerekmiştir.
+
+### Yargıtay 6. HD 2012/2235 K.
+
+Borçlu ortağın alacaklısı alacağını tahsil amacıyla yapmış olduğu icra takibi sonunda İİK.’nun 121 maddesi hükmü uyarınca icra hakiminden alacağı yetki belgesine dayanarak ortaklığın giderilmesi davası açabilir. İİK.’nun 121. maddesi uyarınca hacze konu olan şey, borçlu ortağa ait miras veya iştirak halinde tasarruf olunan bir mal hissesi olup, haczine karar verilen hissenin elbirliği hükümlerine göre bağımsız olarak satışı mümkün değildir. Bu durumda borçlu ortağın miras payının da bulunduğu mal üzerindeki ortaklığın aynen taksim veya satış suretiyle giderilmesi söz konusu olup alacaklı da İİK’nun 121. Maddesi uyarınca İcra Mahkemesinden alacağı yetki belgesine dayanarak bu davayı açabilmektedir. Kural olarak ortaklığın giderilmesi davasında dava hakkı ortaklardan bir yada birkaçına ait olup alacaklının dava hakkının borçlu ortaktan bağımsız olarak düşünülmemesi gerekir.
+
+### Yargıtay 6. HD 2012/71 K.
+
+Borçlu ortağın alacaklısı İcra Mahkemesinden İ.İ.K.nun 121.maddesine göre alacağı yetki belgesine dayanarak borçlunun ortağı olduğu taşınmaz için ortaklığın giderilmesi davası açabilirse de, yetki belgesi ile açılan dava sırasında, davacının dava açma ve takip yapma hakkının devam etmesi gerekir. Yargılama sırasında borcun ödenmesi halinde, davacının davanın görülmesindeki hukuki yararı sona erer.
+
+Olayımıza gelince, davacı tarafından borçlu ... hakkında, Sivas 2. İcra Müdürlüğünün 2003/4234 E. sayılı dosyası ile yapılan icra takibi neticesinde, ...'a miras kalan taşınmazlardaki, miras hissesi üzerine haciz konularak, Sivas İcra Hukuk Mahkemesinin 2007/7-7 D.iş sayılı dosyası üzerinden İİK'nun 121. maddesi gereğince verilen yetki belgesine istinaden Ortaklığın giderilmesi davası açılmıştır. Ne var ki Sivas 2. İcra Müdürlüğü'nün 22.11.2011 tarihli cevabi yazısına göre mahkemece yetki verildikten sonra davacı alacaklı 14.04.2011 tarihinde tüm alacaklarından ferileri ile birlikte feragat ettiğinden, takip dosyası kapatılmıştır. Bu nedenle davacının İİK'nun 121 maddesi gereğince başlangıçta dava açma hakkı ve yetkisi olmasına rağmen, yargılama sırasında takipten feragat etmesi nedeni ile davayı takip etme hakkı ortadan kalkmıştır. Mahkemece davacının takipten feragat ettiği hususu değerlendirilerek, buna göre karar verilmesi gerekirken, davanın kabulüne karar verilmesi doğru değildir.
+
+### Yargıtay 6. HD 2011/10254 K.
+
+Medeni Kanun'un 644. maddesi uyarınca; ancak mirasçılar terekeye dahil malların elbirliği mülkiyetinin paylı mülkiyete çevrilmesini isteyebilirler. İstisnai hallerde mahkemelerden alınacak yetki belgesine dayanarak ilgili kişiler de bu davayı açabilir. Davacı ...'un miras bırakan ile soybağı tespit edilememiştir. Davacı dava dilekçesinde, açtığı tescil davasında yetki belgesi aldığını ve bu belgeye dayanarak dava açtığını bildirmiş ise de yetki belgesini ibraz etmemiştir. Davacının dava dilekçesinde yetki belgesi aldığını iddia ettiği satış vaadine dayalı hükmen tescil davasının da reddedildiği anlaşılmaktadır. Mahkemece öncelikle dava hakkı üzerinde durularak karar verilmesi gerekirken bu yön üzerinde durulmadan kabul kararı verilmesi doğru görülmemiş, hükmün bozulması gerekmiştir.
+
+### Yargıtay 6. HD 2011/10095 K.
+
+Davaya konu 1308 ve 7825 parseller yönünden ise, alacaklı davacı, davalılardan Süleyman’dan olan alacağı sebebiyle İİK.nun 121 sine göre, kendisine verilen yetkiye istinaden bu davayı açmıştır. Ancak, 1308 ve 7825 Parsel sayılı taşınmazlarda borçlu davalının payı, paylı mülkiyet halinde olduğu, burada borçlunun iştirakli payı olmadığı görüldüğünden, bu parsel yönünden İİK.nun 121. maddesinin uygulama olanağı yoktur. Dolayısıyla, davacı bu parsellerin ortaklığının giderilmesini isteyemez. Bu parseldeki …
+
+### Yargıtay 6. HD 2011/6435 K.
+
+İİK'nun 94. maddesi gereğince bir intifa hakkı veya taksim edilmemiş bir miras veya bir şirket yahut iştirak halinde tasarruf edilen bir mal hissesi haczedilebilir ve borçlu ortağın alacaklısı İcra Hakimliğinden İ.İ.K.nun 121.maddesine göre alacağı yetki belgesine dayanarak borçlunun ortağı olduğu taşınmaz için ortaklığın giderilmesi davası açabilir. Bunun için icra hakiminden yetki belgesi alması zorunludur. Ayrıca yetki belgesi alındıktan sonra da ortaklığın giderilmesine konu taşınmaz üzerindeki haczin devam etmesi gerekmektedir.
+
+Olayımıza gelince; Davacı alacaklı tarafından borçlu ortak ...'nin davaya konu taşınmaz üzerindeki miras hissesine İİK'nun 94 maddesi gereğince ... İcra müdürlüğünün ... esas sayılı takip dosyası üzerinden haciz konulmuş ise de, borçlu ...'nin İİK.nun 82/12.maddesine dayanan meskeniyet iddiası üzerine ... İcra Mahkemesi'nin 3.5.2010 tarih ve 2009/94 E. 2010/216 K. sayılı kararı ile meskeniyet iddiasının kabulü ile ... İcra müdürlüğünün ... esas sayılı takip dosyası ile davaya konu ... Merkez ... Mahalle 217 Ada 113 parsel A Blok 3 no'lu bağımsız bölüm üzerindeki ...'nin miras hissesi üzerine konulan haczin kaldırılmasına karar verilmiş karar 10/01/2011 tarihinde kesinleşmiştir.Bu nedenle Davacı tarafından davaya konu taşınmaz üzerinde İİK'nun 121. maddesi gereğince ortaklığın giderilmesini talep etme hakkı kalmadığından davanın kabulüne karar verilmesi doğru görülmemiştir.
+
+### Yargıtay 12. HD 2010/25490 K.
+
+İİK’nun 94/I’de elbirliği mülkiyetinin haczi düzenlenmiştir. Elbirliği mülkiyeti hissesi üzerinde tasarrufta bulunulamayacağından (MK.nun 702,III), burada haczin konusu, borçlunun (hissesi değil) elbirliği mülkiyeti ilişkisinin son bulması halinde (mesela paylaşma sonunda) hissesine düşecek olan paydır (Kuru, İcra İflas Hukuku El Kitabı s.397). hisse haczi İİK’nun 94/I uyarınca tapu siciline şerh edilir.
+
+Borçlunun bir taşınmaz üzerindeki miras hissesi tapu siciline tescil edilmemiş ise alacaklının, öncelikle İİK’nun 94/II. Maddeye göre borçlunun miras hissesinin tapu siciline tescilini sağlaması ondan sonra miras hissesinin İİK’nun 121.maddesine göre paraya çevrilmesini istemesi gerekir. Alacaklı, borçlunun miras hissesini tapu siciline tescil ettirmeden (intikali sağlamadan) borçlunun miras hissesinin İİK’nun 121.maddesine göre paraya çevrilmesini isteyemez. İİK’nun 121.maddesindeki yola başvurulmadan terekedeki elbirliği halinde tasarruf edilen bir malın borçlu mirasçısının borcundan dolayı satılması mümkün değildir. Ortaklığın satış sureti ile giderilmesine karar verilmesi halinde satışın sonucuna kadar borçlunun o mal üzerindeki hissesi henüz belirli ve ayrılmış değildir (Kuru, İcra ve İflas Hukuku El Kitabı s.545).
+
+### Yargıtay 6. HD 2010/7478 K.
+
+Dava beş adet taşınmazda ortaklığın giderilmesi istemine ilişkindir.
+
+…
+
+Ancak mahkemece hüküm fıkrasında satış bedelinin mirasçılık belgesindeki oranlar doğrultusunda paydaşlara dağıtılmasına karar verilmesi ile yetinilmesi gerekirken 4 no'lu bentte;
+
+satış bedelinin mirasçılık belgelerindeki hisseler oranında taraflara (... dışındakilere) dağıtılmasına ve 5 no'lu bentte ise;
+
+borçlu davalı ... hissesine düşecek meblağın ...’in menfaatlerini korumak için davalı ...’e kayyım tayini için alacaklıya yetki verilmesine ve atanacak kayyımın...’in payına düşen kısımdan borca yetecek kısmın... İcra Müdürlüğü’nün 2008/262 esas sayılı dosyasına yatırmasına …
+
+…
+
+karar verilmesi doğru değilse de bu yüzden hükmün bozularak yeniden yargılama yapılmasında yarar görülmediğinden hüküm fıkrasındaki 4 ve 5 no'lu bentlerden “satış bedelinin veraset ilamındaki hisseler oranında taraflara (... dışındakilere) dağıtılmasına ve borçlu davalı ... hissesine düşecek meblağın ...’in menfaatlerini korumak için davalı ...’e kayyım tayini için alacaklıya yetki verilmesine ve atanacak kayyımın...’in payına düşen kısımdan borca yetecek kısmın... İcra Müdürlüğü’nün 2008/262 esas sayılı dosyasına yatırmasına” ibarelerinin çıkartılarak yerine “satış bedelinin mirasçılık belgelerindeki oranlar doğrultusunda taraflara dağıtılması” ibaresinin eklenerek HUMK.nun 438.maddesi gereğince hükmün bu düzeltilmiş şekliyle ONANMASINA ve taşınmaz malın satış bedelinden payına düşecek paranın %09.9 oranında hesaplanacak onama harcından peşin alınan 15.60.-TL’nın mahsubu ile bakiyesinin temyiz edenden alınmasına, 17.6.2010 tarihinde oybirliğiyle karar verildi.
+
+### Yargıtay 6. HD 2010/1140 K.
+
+Dava, üç adet taşınmazdaki elbirliği mülkiyetinin paylı mülkiyete çevrilmesi istemine ilişkindir.
+
+…
+
+Türk Medeni Yasasının 644. maddesi gereğince bu davayı ancak mirasçılar açabilir. Yasada öngörülen ayrık hükümler dışında üçüncü şahısların dava hakkı yoktur. (İİK 121. madde) Davacı mirasçı değildir. Miras payını temellük eden kişi elbirliği mülkiyetinin paylı mülkiyete dönüştürülmesini isteyemez. Tapu iptali ve tescili davası sırasında verilen yetki belgesinin sonuca etkisi yoktur. Mahkemece yetki belgesi ile açılan davanın reddine karar verilmesi gerekirken yazılı şekilde davanın kabulüne karar verilmesi doğru değildir.

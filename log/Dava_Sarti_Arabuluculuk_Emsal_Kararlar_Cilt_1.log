@@ -1,0 +1,33 @@
+Dosya        : Dava_Sarti_Arabuluculuk_Emsal_Kararlar_Cilt_1.pdf
+Sayfa        : 58 (incelenen: 3–58) | Üretici: LibreOffice 24.2 | Başlık: -
+Metin        : sayfa başına ortanca 2958 karakter; yalnız görselden oluşan sayfa: 0/56
+Yer imi      : 13 (ilki s. 3: DAVA ŞARTI ARABULUCULUĞA İLİŞKİN GENEL KARARLAR)
+İçindekiler  : bulunamadı
+Üst/altbilgi (atılacak): 'Sayfa # / #'×56
+Gövde stili  : 11.5
+Başlık adayları (stil → düzey | satır sayısı | ilk örnek):
+      16b → 1 [yer imi] |      2 | s.3: DAVA ŞARTI ARABULUCULUĞA İLİŞKİN GENEL
+      13b → 2 [yer imi] |     14 | s.3: I. GENEL ESASLAR
+    11.5b → 3 |    120 | s.3: AYM İkinci Bölüm, B. No: 2022/45083, 13.05.2025:
+Paragraf     : satır sonu boşluk %0, sağ kenara dayanan %89 → kip: margin
+Örneklem (15 sayfa): 0 görsel, 0 tablo
+Uyarılar     : yok
+Sonuç        : UYGUN
+=== convert (start-page 3  )
+Yazıldı      : md/Dava_Sarti_Arabuluculuk_Emsal_Kararlar_Cilt_1/Dava_Sarti_Arabuluculuk_Emsal_Kararlar_Cilt_1.md (0.2 MB)
+Sayfa aralığı: 3–58
+Başlıklar    : h1: 1, h2: 12, h3: 120 | paragraf: 215 | liste maddesi: 0 | aralıktaki yer imi: 13
+Başlık eşlemi: {'16b': 1, '13b': 2, '11.5b': 3} | paragraf kipi: margin
+Atılan satır : üst/altbilgi 56, --drop 0, içindekiler 0, döndürülmüş 0
+  üst/altbilgi: 'Sayfa # / #'×56
+=== verify
+Karşılaştırma motoru: pdftotext -raw | sayfa 3–58
+Karakter (boşluksuz) : PDF 143017 | MD 143017
+Bilerek atılan, karşılaştırma dışı: üst/altbilgi 56 satır / 553 karakter
+  üst/altbilgi: 'Sayfa # / #'×56
+PDF'te olup MD'de olmayan : 0 yer, 0 karakter
+MD'de olup PDF'te olmayan : 0 yer, 0 karakter
+Tek karakter farkı        : 0
+Sonuç: TAM EŞLEŞME — fark oranı %0.0000
+Not: bu denetim metnin eksiksizliğini ölçer; paragraf sınırlarını, başlık düzeylerini, sözcük arası boşlukları ve bilerek atılan satırların doğru seçilip seçilmediğini ölçmez.
+=== exit 0

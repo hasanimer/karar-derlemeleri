@@ -1,0 +1,33 @@
+Dosya        : Dava_Sarti_Arabuluculuk_Emsal_Kararlar_Cilt_7.pdf
+Sayfa        : 6 (incelenen: 3–6) | Üretici: LibreOffice 24.2 | Başlık: -
+Metin        : sayfa başına ortanca 699 karakter; yalnız görselden oluşan sayfa: 0/4
+Yer imi      : 5 (ilki s. 3: KAT MÜLKİYETİ KANUNUNDAN KAYNAKLANAN UYUŞMAZLIKLAR)
+İçindekiler  : bulunamadı
+Üst/altbilgi (atılacak): 'Sayfa # / #'×4
+Gövde stili  : 11.5
+Başlık adayları (stil → düzey | satır sayısı | ilk örnek):
+      16b → 1 [yer imi] |      2 | s.3: KAT MÜLKİYETİ KANUNUNDAN KAYNAKLANAN
+      13b → 2 [yer imi] |      5 | s.3: I. GENEL ESASLAR
+    11.5b → 3 |      4 | s.3: Yargıtay 5. HD 2025/15806 K.:
+Paragraf     : satır sonu boşluk %0, sağ kenara dayanan %92 → kip: margin
+Örneklem (4 sayfa): 0 görsel, 0 tablo
+Uyarılar     : yok
+Sonuç        : UYGUN
+=== convert (start-page 3  )
+Yazıldı      : md/Dava_Sarti_Arabuluculuk_Emsal_Kararlar_Cilt_7/Dava_Sarti_Arabuluculuk_Emsal_Kararlar_Cilt_7.md (0.0 MB)
+Sayfa aralığı: 3–6
+Başlıklar    : h1: 1, h2: 4, h3: 4 | paragraf: 4 | liste maddesi: 0 | aralıktaki yer imi: 5
+Başlık eşlemi: {'16b': 1, '13b': 2, '11.5b': 3} | paragraf kipi: margin
+Atılan satır : üst/altbilgi 4, --drop 0, içindekiler 0, döndürülmüş 0
+  üst/altbilgi: 'Sayfa # / #'×4
+=== verify
+Karşılaştırma motoru: pdftotext -raw | sayfa 3–6
+Karakter (boşluksuz) : PDF 3855 | MD 3855
+Bilerek atılan, karşılaştırma dışı: üst/altbilgi 4 satır / 32 karakter
+  üst/altbilgi: 'Sayfa # / #'×4
+PDF'te olup MD'de olmayan : 0 yer, 0 karakter
+MD'de olup PDF'te olmayan : 0 yer, 0 karakter
+Tek karakter farkı        : 0
+Sonuç: TAM EŞLEŞME — fark oranı %0.0000
+Not: bu denetim metnin eksiksizliğini ölçer; paragraf sınırlarını, başlık düzeylerini, sözcük arası boşlukları ve bilerek atılan satırların doğru seçilip seçilmediğini ölçmez.
+=== exit 0

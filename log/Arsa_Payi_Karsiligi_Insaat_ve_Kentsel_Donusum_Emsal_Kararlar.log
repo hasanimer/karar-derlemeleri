@@ -1,0 +1,40 @@
+Dosya        : Arsa_Payi_Karsiligi_Insaat_ve_Kentsel_Donusum_Emsal_Kararlar.pdf
+Sayfa        : 6051 (incelenen: 6–6051) | Üretici: LibreOffice 24.2 | Başlık: Arsa Payı Karşılığı İnşaat Sözleşmesi ve Kentsel Dönüşüme İlişkin Emsal Kararlar
+Metin        : sayfa başına ortanca 3102 karakter; yalnız görselden oluşan sayfa: 0/6046
+Yer imi      : 93 (ilki s. 6: §1. SÖZLEŞMENİN NİTELİĞİ, ŞEKLİ VE TARAFLARI)
+İçindekiler  : bulunamadı
+Üst/altbilgi (atılacak): 'Sayfa # / #'×6046
+Gövde stili  : 11.5
+Başlık adayları (stil → düzey | satır sayısı | ilk örnek):
+      16b → 1 [yer imi] |     11 | s.6: §1. SÖZLEŞMENİN NİTELİĞİ, ŞEKLİ VE TARAFLARI
+      13b → 2 [yer imi] |    131 | s.6: I. HUKUKİ NİTELİK: ESER SÖZLEŞMESİ İLE TAŞINMAZ SATIŞ
+    11.5b → 3 |   7958 | s.6: Yargıtay HGK 2026/388 K.:
+Paragraf     : satır sonu boşluk %82, sağ kenara dayanan %82 → kip: space
+Örneklem (15 sayfa): 0 görsel, 0 tablo
+Uyarılar     : yok
+Sonuç        : UYGUN
+=== convert (start-page 6 --split-level 2 )
+Yazıldı      : md/Arsa_Payi_Karsiligi_Insaat_ve_Kentsel_Donusum_Emsal_Kararlar/Arsa_Payi_Karsiligi_Insaat_ve_Kentsel_Donusum_Emsal_Kararlar.md (20.8 MB)
+Sayfa aralığı: 6–6051
+Başlıklar    : h1: 9, h2: 84, h3: 7955 | paragraf: 42735 | liste maddesi: 2 | aralıktaki yer imi: 93
+Başlık eşlemi: {'16b': 1, '13b': 2, '11.5b': 3} | paragraf kipi: space
+Atılan satır : üst/altbilgi 6046, --drop 0, içindekiler 0, döndürülmüş 0
+  üst/altbilgi: 'Sayfa # / #'×6046
+Bölünmüş     : 84 dosya → md/Arsa_Payi_Karsiligi_Insaat_ve_Kentsel_Donusum_Emsal_Kararlar/bolumler
+=== verify
+Karşılaştırma motoru: pdftotext -raw | sayfa 6–6051
+Karakter (boşluksuz) : PDF 16546944 | MD 16546944
+Bilerek atılan, karşılaştırma dışı: üst/altbilgi 6046 satır / 83552 karakter
+  üst/altbilgi: 'Sayfa # / #'×6046
+PDF'te olup MD'de olmayan : 3 yer, 7 karakter
+MD'de olup PDF'te olmayan : 3 yer, 7 karakter
+Tek karakter farkı        : 0
+  EKSİK [3] …mesindeyükleniciişinteslimiile▶III (yer değiştirmiş)
+  EKSİK [3] …mesindeyükleniciişinteslimiile▶III (yer değiştirmiş)
+  EKSİK [1] …ararpuluvesözleşmedamgavergisi▶₺ (yer değiştirmiş)
+  FAZLA [3] …yükümlüdürler.(TBK'nın77ve125/▶III (yer değiştirmiş)
+  FAZLA [3] …yükümlüdürler.(TBK'nın77ve125/▶III (yer değiştirmiş)
+  FAZLA [1] …nreddine;davakonusu755.890,76-▶₺ (yer değiştirmiş)
+Sonuç: KABUL EDİLEBİLİR (her farkı oku ve açıkla) — fark oranı %0.0001
+Not: bu denetim metnin eksiksizliğini ölçer; paragraf sınırlarını, başlık düzeylerini, sözcük arası boşlukları ve bilerek atılan satırların doğru seçilip seçilmediğini ölçmez.
+=== exit 0

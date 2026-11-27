@@ -1,0 +1,33 @@
+Dosya        : Yukleniciden_Bagimsiz_Bolum_Satin_Alanlar_Emsal_Kararlar.pdf
+Sayfa        : 75 (incelenen: 3–75) | Üretici: LibreOffice 24.2 | Başlık: -
+Metin        : sayfa başına ortanca 2842 karakter; yalnız görselden oluşan sayfa: 0/73
+Yer imi      : 28 (ilki s. 3: §1. GENEL İLKELER)
+İçindekiler  : bulunamadı
+Üst/altbilgi (atılacak): 'Sayfa # / #'×73
+Gövde stili  : 11.5
+Başlık adayları (stil → düzey | satır sayısı | ilk örnek):
+      16b → 1 [yer imi] |     12 | s.3: §1. GENEL İLKELER
+      13b → 2 [yer imi] |     27 | s.3: I. ARSA PAYI KARŞILIĞI İNŞAAT SÖZLEŞMESİNİN NİTELİĞİ VE
+    11.5b → 3 |    191 | s.3: Yargıtay HGK 2026/388 K.:
+Paragraf     : satır sonu boşluk %0, sağ kenara dayanan %91 → kip: margin
+Örneklem (15 sayfa): 0 görsel, 0 tablo
+Uyarılar     : yok
+Sonuç        : UYGUN
+=== convert (start-page 3  )
+Yazıldı      : md/Yukleniciden_Bagimsiz_Bolum_Satin_Alanlar_Emsal_Kararlar/Yukleniciden_Bagimsiz_Bolum_Satin_Alanlar_Emsal_Kararlar.md (0.2 MB)
+Sayfa aralığı: 3–75
+Başlıklar    : h1: 7, h2: 21, h3: 191 | paragraf: 191 | liste maddesi: 0 | aralıktaki yer imi: 28
+Başlık eşlemi: {'16b': 1, '13b': 2, '11.5b': 3} | paragraf kipi: margin
+Atılan satır : üst/altbilgi 73, --drop 0, içindekiler 0, döndürülmüş 0
+  üst/altbilgi: 'Sayfa # / #'×73
+=== verify
+Karşılaştırma motoru: pdftotext -raw | sayfa 3–75
+Karakter (boşluksuz) : PDF 165917 | MD 165917
+Bilerek atılan, karşılaştırma dışı: üst/altbilgi 73 satır / 723 karakter
+  üst/altbilgi: 'Sayfa # / #'×73
+PDF'te olup MD'de olmayan : 0 yer, 0 karakter
+MD'de olup PDF'te olmayan : 0 yer, 0 karakter
+Tek karakter farkı        : 0
+Sonuç: TAM EŞLEŞME — fark oranı %0.0000
+Not: bu denetim metnin eksiksizliğini ölçer; paragraf sınırlarını, başlık düzeylerini, sözcük arası boşlukları ve bilerek atılan satırların doğru seçilip seçilmediğini ölçmez.
+=== exit 0

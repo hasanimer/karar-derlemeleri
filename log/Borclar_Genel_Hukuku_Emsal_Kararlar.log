@@ -1,0 +1,35 @@
+Dosya        : Borclar_Genel_Hukuku_Emsal_Kararlar.pdf
+Sayfa        : 1112 (incelenen: 5–1112) | Üretici: LibreOffice 24.2 | Başlık: -
+Metin        : sayfa başına ortanca 2903 karakter; yalnız görselden oluşan sayfa: 0/1108
+Yer imi      : 100 (ilki s. 5: §1. SÖZLEŞMENİN KURULMASI VE GEÇERLİLİĞİ)
+İçindekiler  : bulunamadı
+Üst/altbilgi (atılacak): 'Sayfa # / #'×1108
+Gövde stili  : 11.5
+Başlık adayları (stil → düzey | satır sayısı | ilk örnek):
+      16b → 1 [yer imi] |     12 | s.5: §1. SÖZLEŞMENİN KURULMASI VE GEÇERLİLİĞİ
+      13b → 2 [yer imi] |     80 | s.5: I. SÖZLEŞME ÖZGÜRLÜĞÜ VE SÖZLEŞMEYE BAĞLILIK (TBK m. 26)
+      12b → 3 [yer imi] |     24 | s.116: 1. YOKLUK
+    11.5b → 4 |   3752 | s.5: Yargıtay HGK 2025/686 K.:
+Paragraf     : satır sonu boşluk %0, sağ kenara dayanan %90 → kip: margin
+Örneklem (15 sayfa): 0 görsel, 0 tablo
+Uyarılar     : yok
+Sonuç        : UYGUN
+=== convert (start-page 5 --split-level 2 )
+Yazıldı      : md/Borclar_Genel_Hukuku_Emsal_Kararlar/Borclar_Genel_Hukuku_Emsal_Kararlar.md (3.5 MB)
+Sayfa aralığı: 5–1112
+Başlıklar    : h1: 10, h2: 68, h3: 22, h4: 3752 | paragraf: 3755 | liste maddesi: 0 | aralıktaki yer imi: 100
+Başlık eşlemi: {'16b': 1, '13b': 2, '12b': 3, '11.5b': 4} | paragraf kipi: margin
+Atılan satır : üst/altbilgi 1108, --drop 0, içindekiler 0, döndürülmüş 0
+  üst/altbilgi: 'Sayfa # / #'×1108
+Bölünmüş     : 68 dosya → md/Borclar_Genel_Hukuku_Emsal_Kararlar/bolumler
+=== verify
+Karşılaştırma motoru: pdftotext -raw | sayfa 5–1112
+Karakter (boşluksuz) : PDF 2777311 | MD 2777311
+Bilerek atılan, karşılaştırma dışı: üst/altbilgi 1108 satır / 14417 karakter
+  üst/altbilgi: 'Sayfa # / #'×1108
+PDF'te olup MD'de olmayan : 0 yer, 0 karakter
+MD'de olup PDF'te olmayan : 0 yer, 0 karakter
+Tek karakter farkı        : 0
+Sonuç: TAM EŞLEŞME — fark oranı %0.0000
+Not: bu denetim metnin eksiksizliğini ölçer; paragraf sınırlarını, başlık düzeylerini, sözcük arası boşlukları ve bilerek atılan satırların doğru seçilip seçilmediğini ölçmez.
+=== exit 0
