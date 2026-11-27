@@ -21,6 +21,8 @@ uyari: "Derleyenin seçtiği alıntılardır; kararın tamamı değildir. Künye
 
 ## Yargıtay 3. HD 2019/393 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/495919900)
+
 Öncelikle belirtmek gerekir ki, kira parası, Borçlar Kanunu'nun 299. maddesinde yer alan, kira akdinin esaslı unsurlarındandır. Yine, kiralanan taşınmazın, niteliği itibarı ile çatılı (musakkaf) bulunması durumunda asıl olan, kira müddetinin sonunda da kira akdinin devam etmesidir. **Ancak, kira parasına ilişkin olarak, tarafların ihtilafa düşmeleri halinde sözleşmede doğan bu boşluk, 18/11/1964 tarih 2/4 sayılı Yargıtay İnançları Birleştirme Kararı uyarınca hakim tarafından doldurulur**. Türk Borçlar Kanunu Genel Hükümlere tabi olan yerlerde ise akit kural olarak sözleşmede öngörülen süre hitamında sona erer ve mecurun kira parası hakkında taraflar arasında anlaşmazlık bulunması durumunda kira akdinin asli unsurlarından olan kira bedeli konusundaki uyuşmazlık nedeniyle artık devam eden bir kira sözleşmesinin varlığından söz etme olanağı yoktur.
 Zira konut ve çatılı iş yeri kirasının konusunu oluşturmayan taşınmaz ve taşınırlara ilişkin kira sözleşmesi belirli süreli bir kira sözleşmesi ise kiraya veren kararlaştırılan süre sona erdiğinde kira sözleşmesinin TBK madde 327/2 uyarınca belirsiz süreli kira sözleşmesine dönüşmesini önleyebilecek durumda olduğundan dönüşen yeni sözleşme bakımından taraflar arasında bir tadil sözleşmesiyle yeni bir kira bedeli belirlenmediği hallerde önceki belirli süreli kira sözleşmesindeki kira bedeli aynen geçerli olacaktır. Dönüşen belirsiz süreli kira sözleşmesindeki kira bedelinden memnun olmayan kiraya veren ve kiracı sözleşmeyi TBK madde 328-330 yarınca fesih bildirimi ile her zaman sona erdirebileceklerdir.
 

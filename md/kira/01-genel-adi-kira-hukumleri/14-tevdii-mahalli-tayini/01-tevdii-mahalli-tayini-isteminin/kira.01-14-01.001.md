@@ -21,9 +21,13 @@ uyari: "Derleyenin seçtiği alıntılardır; kararın tamamı değildir. Künye
 
 ## Yargıtay 3. HD 2021/6307 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/693290200)
+
 Kira akdi kullandırma akitlerinden olup bununla kiraya veren, ücret karşılığı bir şeyin kullanımını kiracıya terk etmek durumundadır. Musakkaf taşınmazlar, otomobiller, kilitli dolaplar gibi şeylerin teslimi, anahtar teslimi suretiyle olur. Anahtar teslimi ile birlikte kiralanan üzerindeki tasarruf hakkı teslim alana geçer. Kiralananın tahliye edilmesi ve teslim olgusunun ispat yükü davalı kiracıya aittir. Kiracı, kiralananı kendisinin ileri sürdüğü tarihte teslim ettiğini ispatlayamazsa, kiraya verenin bildirdiği tarihe itibar olunmalıdır. Yıllık kira bedelinin tutarı senetle ispat sınırının üzerindeyse ve kiraya verenin açık muvafakati yoksa kiracı tarafından teslim tarihi ancak yazılı delille ispatlanabilir. **Kiraya veren anahtarı almaktan kaçınırsa, kiracının yapması gereken, Mahkemeden bu yolda tevdi mahalli tayinini isteyip, tayin edilecek yere anahtarı teslim etmek ya da Notere teslim ederek teslim keyfiyetini kiraya verene bildirmektir. Kiracının kiralananı iade borcu, ancak bu şekilde, durumun kiraya verene bildirildiği tarihte son bulur. Aksi takdirde, kiracının, kira sözleşmesinden kaynaklanan yükümlülükleri, anahtar teslimine kadar devam eder**.
 
 ## Yargıtay 3. HD 2021/5531 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/672421100)
 
 Kiralananın tahliye edildiğinin (kiracının kiralananı iade borcunu yerine getirdiğinin) kabul edilebilmesi için, kiralananın fiilen boşaltılması yeterli değildir. **Anahtarın da kiralayana teslim edilmesi gerekir**.
 
@@ -32,6 +36,8 @@ Kiracının bildirdiği tahliye tarihinin kiralayan tarafından kabul edilmemesi
 Anahtarın kiralayana teslimi, hukuki işlemin içerisinde yer alan bir maddi vakıa olmakla birlikte, sözleşmenin feshine yönelik bir hukuki sonuç doğurduğundan, bunun ne şekilde ispat edileceği hususu, yıllık kira bedelinin tutarı esas alınmak suretiyle, dava tarihinde yürürlükte bulunan 6100 sayılı HMK'nın 200. ve 201. maddeleri çerçevesinde değerlendirilmelidir. **Eş söyleyişle, yıllık kira bedelinin tutarı senetle ispat sınırının üzerindeyse ve kiralayanın açık muvafakati yoksa bu yön kiracı tarafından ancak yazılı delille ispatlanabilir; tanık dinlenemez**.
 
 ## Yargıtay 8. HD 2019/4523 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/508911400)
 
 Kiralananın tahliye edildiğinin (kiracının kiralananı iade borcunu yerine getirdiğinin) kabul edilebilmesi için, kiralananın fiilen boşaltılması yeterli değildir; anahtarın da kiralayana teslim edilmesi gerekir.
 
@@ -42,6 +48,8 @@ Olayımızda yukarıda anlatıldığı şekilde, davalı kiracı tarafından mah
 Dolayısıyla davalı kiracı bu tarihe kadar olan kira ödemelerinden sorumlu olup, davacı alacaklı takibe konu 2011 yılı Eylül ayı kira alacağını isteyebilecektir. Bu durumda mahkemece anahtar teslim tarihi olan 05.10.2011 tarihine kadar olan kira alacağının davalı kiracıdan tahsiline karar verilmesi gerekirken yazılı şekilde davanın reddine karar verilmesi doğru değildir.
 
 ## Yargıtay 6. HD 2015/7513 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/127193100)
 
 Kiralayan anahtarı almaktan kaçınırsa, kiracının yapması gereken, mahkemeden bu yolda tevdi mahalli tayinini isteyip, tayin edilecek yere anahtarı teslim etmek ve
 

@@ -23,29 +23,41 @@ uyari: "Derleyenin seçtiği alıntılardır; kararın tamamı değildir. Künye
 
 ## Yargıtay 3. HD 2019/5223 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/519280400)
+
 Davacı tarafça gönderilen ihtarname ile davalıdan kira bedelinin talep edildiği, ancak kiralananın teslimi hususunda karşı tarafa daha önce herhangi bir ihtar çekilmediği ve teslim borcu alacaklısı kiracının bu konuda temerrüde düşürülmediği; davalı tarafından gönderilen e-mailde de yine kiralananın teslimi için süre verilmediği, teslim borcu bulunan kiraya verenin teslim borcu bakımından temerrüde düşürülmediği ve doğrudan sözleşmenin feshedildiğinin bildirildiği görülmektedir. Davacı tarafça tazminat talep edilmekle mahkemece 6100 sayılı Hukuk Muhakemeleri Kanunun yargılama ilkelerinden taleple bağlılık ilkesini düzenleyen” Hâkim, tarafların talep sonuçlarıyla bağlıdır; ondan fazlasına veya başka bir şeye karar veremez. Duruma göre, talep sonucundan daha azına karar verebilir.” hükmüne aykırı olarak kira bedeline hükmedilmesi doğru değildir. Teslim borcunu yerine getirmeyen ve karşı tarafı kiralananı teslim alma hususunda temerrüde düşürmeyen davacının kira bedelini talep etmesi mümkün değildir. Ancak davalı tarafça kira sözleşmesi haksız feshedildiğinden davacı makul süre tazminatına hak kazanacaktır.
 Bu doğrultuda mahkemece; alanında uzman bilirkişiden rapor aldırılarak TBK’nın 325. maddesi doğrultusunda kiralananın aynı koşullarla yeniden kiraya verilebileceği makul süre belirlenerek tazminat talebinin makul süre kira bedeli bakımından kabulüne karar verilmesi gerekirken yanılgılı değerlendirme ve anılan gerekçe ile davanın kısmen kabulüne karar verilmesi doğru görülmemiş, bozmayı gerektirmiştir.
 
 ## Yargıtay 3. HD 2019/5218 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/519272000)
 
 6098 sayılı Türk Borçlar Kanunu’nun 325. maddesi gereğince kiracı, sözleşme süresine veya fesih dönemine uymaksızın kiralananı geri verdiği takdirde, kira sözleşmesinden doğan borçları, kiralananın benzer koşullarla kiraya verilebileceği makul bir süre için devam eder. Kiracının bu sürenin geçmesinden önce kiraya verenden kabul etmesi beklenebilecek, ödeme gücüne sahip ve kira ilişkisini devralmaya hazır yeni bir kiracı bulması hâlinde, kiracının kira sözleşmesinden doğan borçları sona erer. Kiraya veren, yapmaktan kurtulduğu giderler ile kiralananı başka biçimde kullanmakla elde ettiği veya elde etmekten kasten kaçındığı yararları kira bedelinden indirmekle yükümlüdür. Madde hükmünden de anlaşılacağı üzere makul süre, kiralanın aynı koşullarla yeniden kiraya verilebileceği süre olup kiralananın daha düşük bedelle kiraya verilmesi durumunda kiracının sorumluluğu makul süre boyunca sona eren kira sözleşmesinde ödemekle yükümlü olduğu kira bedeli ile yeniden imzalanan kira sözleşmesinde belirlenen bedel arasındaki fark oranında devam eder.
 Mahkemece, asıl dava bakımından kiracı davalının sorumluluğunun yeniden kiraya verilme tarihi sonrasında da makul süre boyunca kira bedelleri arasındaki fark bakımından devam edeceği gözetilerek buna göre hesaplama ve değerlendirme yapılarak hüküm kurulması; karşı dava bakımından ise yukarıda değinilen ve sözleşmenin 7. maddesinde yer alan depozito iadesine dair hüküm asıl dava ile birlikte değerlendirilerek karar verilmesi gerekirken yazılı şekilde hüküm kurulması doğru görülmemiş, bozmayı gerektirmiştir.
 
 ## Yargıtay 3. HD 2019/4814 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/524964000)
+
 Bu durumda mahkemece yapılacak iş, davacının gelirinin tespiti amacıyla gerektiğinde yeniden bilirkişi incelemesi yaptırılarak öncelikle davacı-karşı davalının aynı şartlarla bir taksi plakası kiralaması için gereken makul süre tespit edilip bu süre içindeki kiracı kârının ne olabileceği ayrıntılı ve denetime elverişli bilirkişi raporu ile tespit edilip mahrum kalınan kârın belirlenmesidir. Öncelikle tarafların beyanları ve delilleri çerçevesinde yeniden bilirkişi raporu alınarak TBK 123-125 ( Borçlar Kanununun 106. ve 108. maddeleri) hükümleri gereğince kâr kaybı zararına uğrayan tarafın isteyebileceği zararın saptanmasında kıyasen TBK 408.
 (Borçlar Kanununun 325) maddesi hükmünde gösterilen kesinti yönteminin uygulanması ve hakim tarafından belirlenen bu mahrum kalınan kar üzerinden hakkaniyete uygun bir indirim yapılması, bu şekilde bir tespit yapılamadığında aynı özelliklere sahip benzer ticari taksilerin gelir–gider durumlarının vergi dairesi, esnaf odası, ticaret odası ve benzeri resmi kurumlardan araştırılıp, benzer taksilerin muhtemel cirosu, kâr oranına ilişkin ayrıntılı bilgiler toplandıktan sonra bilirkişi marifeti ile bu veriler değerlendirilerek muhtemel aylık kârı tespit edilmeli ve dava konusu aynı vasıf ve özelliklere sahip başka bir taksi plakasının aynı şartlarda kiralayabileceği makul süre kadar kâr kaybına hükmedilmesi gerekirken eksik araştırma ve inceleme ile yetersiz bilirkişi raporu doğrultusunda yazılı şekilde karar verilmesi doğru görülmemiş, bozmayı gerektirmiştir.
 
 ## Yargıtay 3. HD 2019/4445 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/520064300)
 
 TBK’nın karşılıklı borç yükleyen sözleşmelerin ifasında sırayı düzenleyen 97. maddesinin 818 sayılı BK’da yer alan karşılığı olan 81. maddesinde “Mütekabil taahhütleri muhtevi olan bir akdin ifasını talep eden kimse, akdin şartlarına ve mahiyetine nazaran bir ecelden istifade hakkını haiz olmadıkça kendi borcunu ifa etmiş veya ifasını teklif eylemiş olmak lazımdır.” düzenlemesini içermekle TBK düzenlemesi de eski düzenlemeye paralel olup öğreti ve uygulamada bu hüküm ödemezlik defi olarak karşımıza çıkmaktadır. Taraflar arasında düzenlenen sözleşmenin 5. maddesinde kira müddetinin ihale konusu işin müddeti ile sınırlandığı görüldüğü gibi 7. maddesi tarafların yükümlülüklerini düzenlemekte olup a bendinde kiralananın kiracının iş yerine gidiş giderlerinin kiracıya, dönüş giderlerinin ise kiraya verene ait olacağının, e bendinde görevlendirilen şoförün kiraya veren tarafından görevlendirileceğinin ancak konaklama gidiş-dönüş ve yemek giderlerini kiracının karşılayacağının düzenlendiği anlaşılmaktadır. Sözleşme konusu kiralananın tesliminin hangi tarihte olacağı, davalının davacıya yapacağı bir bildirim üzerine mi kiralananın teslim edileceği sözleşmede belirtilmemiştir.
 Davacı tarafça gönderilen ihtarname ile davalıdan kira bedelinin talep edildiği, ancak kiralananın teslimi hususunda karşı tarafa bir ihtar çekilmediği ve teslim borcu alacaklısı kiracının bu konuda temerrüde düşürülmediği; davalı tarafından gönderilen ihtarnamede de yine kiralananın teslimi için süre verilmediği , teslim borcu bulunan kiraya verenin teslim borcu bakımından temerrüde düşürülmediği ve doğrudan sözleşmenin feshedildiğinin bildirildiği görülmektedir. Davacı tarafça kira bedeli ve tazminat talep edilmekle teslim borcunu yerine getirmeyen ve karşı tarafı kiralananı teslim alma hususunda temerrüde düşürmeyen davacının kira bedelini talep etmesi mümkün değildir. Ancak davalı kiracı tarafından kira sözleşmesi haksız feshedildiğinden davacı makul süre tazminatına hak kazanacaktır. Bu doğrultuda mahkemece; kira bedeli alacağı talebinin reddine, tazminat talebinin ise kiralananın yeniden kiraya verilebileceği süre olan ve bilirkişilerce tespit edilen makul süre kira bedeli bakımından kabulüne karar verilmesi gerekirken yanılgılı değerlendirme ve anılan gerekçe ile davanın kısmen kabulüne karar verilmesi doğru görülmemiş, bozmayı gerektirmiştir.
 
 ## Yargıtay 3. HD 2019/4064 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/502338700)
+
 Yargılama sırasında hükme esas alınan bilirkişi raporunda ise, talep aşılarak ödenmediği belirtilen önceki iki aylık kira bedeli hesaplamaya dahil edildiği, sözleşmenin 10. maddesinde yer alan “kiracı kira dönemi bitiminin 2 ay öncesinde yazılı bildirimde bulunarak daireyi tahliye edebilir.” hükmü gereği 2 aylık makul süre tazminatıyla birlikte depozito bedelinin mahsubuyla sonuca ulaşıldığı belirlenmektedir. Sözleşmenin 10. maddesi kiracıya dilediği zaman sözleşmeyi feshetme hakkı tanıyan bir düzenleme değildir. (TBK 347/1. fıkra) maddesi gereğince kiracı belirli süreli sözleşmenin süresinin bitiminden en az on beş gün önce bildirimde bulunmadıkça sözleşme aynı koşullarla bir yıl için uzar. Bu nedenle sözleşme sonunda kiracı tarafından sözleşmenin ne şekilde sona erdirileceğini düzenleyen maddenin, sözleşmenin tek taraflı olarak süresinden önce feshi halinde uygulanacak makul süre belirlemesi olarak kabul edilmesi mümkün değildir.
 
 ## Yargıtay 3. HD 2019/3565 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/515666000)
 
 Erken tahliye halinde kural olarak Türk Borçlar Kanununun 325. maddesine göre kiracı anahtar teslim tarihine kadar kira bedelinden, anahtar teslim tarihinden itibaren ise
 
@@ -53,14 +65,20 @@ kiralananın aynı şartlarda kiraya verileceği makul süre kira bedeli ile sor
 
 ## Yargıtay 3. HD 2019/3552 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/515688600)
+
 Davacının makul süre kira tazminatına ilişkin temyiz itirazlarının incelenmesinde; taraflar arasında 01.01.2009 başlangıç tarihli ve bir yıl süreli kira sözleşmesinin varlığı hususunda uyuşmazlık bulunmamaktadır. Kira sözleşmesinin 3. maddesinde “Kiracı daireyi kontrat bitiminde önce boşaltmak isterse en az 1 ay önceden mal sahibine bildirmek zorundadır, aksi halde bir aylık kira bedelini mal sahibine ödeyecektir.’’ düzenlemesi yer almaktadır. Bu düzenleme, sözleşme sonunda kira sözleşmenin feshini düzenleyen bir hüküm olup, TBK'nun 347/1. cümle maddesine karşılık bir düzenlemedir. Ancak bu şart davalı kiracıyı bağlamaz. Bu nedenle sözleşme sonunda kiracı tarafından sözleşmenin ne şekilde sona erdirileceğini düzenleyen maddenin, sözleşmenin tek taraflı olarak süresinden önce feshi halinde uygulanacak makul süre belirlemesi ile ilgisi bulunmamaktadır. Türk Borçlar Kanunu'nun 325.maddesinin 1.fıkrasının ilk cümlesi “Kiracı, sözleşme süresine ve fesih dönemine uymaksızın kiralananı geri verdiği takdirde, kira sözleşmesinden doğan borçları, kiralananın benzer koşullarla kiraya verilebileceği makul bir süre için devam eder.” şeklinde düzenlenmiştir.
 Sözleşmeye bağlılık (ahde vefa) ilkesi gereği taraflar sözleşme hüküm ve koşullarına uygun davranmak durumundadırlar. Haklı neden olmadıkça ve usulüne uygun feshedilmedikçe kiracı, sözleşme süresi ile bağlı olup sözleşmenin süresinden önce ve haksız olarak feshi durumunda kiraya verenin bundan kaynaklanan zararını gidermekle yükümlüdür. Davacı kiraya verenin zararı, tahliye tarihinden itibaren kiralananın aynı koşullarla yeniden kiraya verilebileceği tarihe kadar boş kaldığı süreye ilişkin kira bedelinden oluşur.
 
 ## Yargıtay 3. HD 2019/3348 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/513903700)
+
 Bu durumda; davacı kiraya verenin, kiralananı gözden geçirme ve kiracıya bildirme yükümlülüğünü makul sürede yerine getirdiği sabit olup, sözleşme maddeleri de dikkate alındığında, kiralanan araçtaki hasarların kiracının kullanımında iken meydana geldiğinin davacı tarafından ispat edildiğinin kabulü gerekir.
 
 ## Yargıtay 3. HD 2019/3134 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/509354400)
 
 Bu nedenle Mahkemece, mahallinde keşif yapılıp, uzman bilirkişi aracılığıyla, kiralananın cinsi, özellikleri, konumu, bu nitelikte bir taşınmaza o bölgede duyulan ihtiyacın derecesi ve somut olaya özgü başka diğer özellikler çerçevesinde, kiraya verenin gereken çabayı göstermesi halinde kiralananı aynı koşullarla yeniden hangi süre içerisinde kiraya verebileceği, eş söyleyişle, aynı koşullarla yeniden kiralama için gereken makul sürenin ne olduğunun, Yargıtay’ın denetimine elverişli bir raporla saptanması, belirlenecek makul süre kadar kira parasından davalı kiracının sorumlu olduğu gözetilerek sonucuna göre bir karar
 
@@ -68,17 +86,25 @@ verilmesi gerekirken yazılı şekilde karar verilmesi doğru görülmemiş, boz
 
 ## Yargıtay 3. HD 2019/3062 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/507019100)
+
 Erken tahliye halinde kural olarak Türk Borçlar Kanununun 325. maddesine göre kiracı anahtar teslim tarihine kadar kira bedelinden, anahtar teslim tarihinden itibaren ise kiralananın aynı şartlarda kiraya verileceği makul süre kira bedeli ile sorumludur. Bununla birlikte Türk Borçlar Kanunu'nun 112. maddesi göndermesi ile aynı Kanunun 52. maddesi uyarınca, kiraya verenin bu yerin yeniden kiralanması konusunda gayret göstermesi, böylece zararın artmasını önlemesi için kendisine düşen ödevi yapması gerekir. Bu durumda kiraya verenin zararı, tahliye tarihinden kiralananın aynı koşullarla yeniden kiraya verilebileceği tarihe kadar boş kaldığı süreye ilişkin kira bedelinden ibarettir. Aidat bedeli yönünden de bu ilkeler geçerlidir.
 
 ## Yargıtay 3. HD 2019/2789 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/498002500)
 
 Bu durumda mahkemece; ihale konusunda uzman bilirkişi heyetinden Yargıtay,mahkeme ve taraf denetimine elverişli rapor alınarak, yapılan ihaleye katılan davalıdan başka ikinci sırada teklif veren olduğu da gözetilerek, ikinci sırada pey süren kişilerin teklif ettikleri bedel üzerinden makul sürede yapılacak sonraki ihale tarihine kadar mahrum kalınan kira kaybından ve davacının yeniden ihale yapmak zorunda kalması nedeni ile yapmak zorunda kaldığı masraflar da eklenerek zarar miktarının belirlenmesi,bu arada yatırılan ve irat kaydedilen teminat miktarlarının da zarardan mahsubu ile davalının katıldığı ihale ile sınırlı olmak üzere sorumlu tutularak belirlenen zarar miktarının hüküm altına alınması gerekirken, yetersiz bilirkişi hükme esas alınmak suretiyle davanın reddine karar verilmesi doğru görülmemiş,bozmayı gerektirmiştir.
 
 ## Yargıtay 3. HD 2019/2668 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/504033300)
+
 Olayımızda davacı kiracının kiralananı süresinden önce tahliye ettiği uyuşmazlık konusu değildir. Taraflarca akdedilen kira sözleşmesinin 7. maddesinde erken tahliye halinde 3 aylık kira bedelinin tazminat olarak ödeneceği kabul edildiğine göre, kiracının tazminat sorumluluğu kararlaştırılan 3 aylık makul süre kadardır. Ne var ki dosyadaki bilgi ve belgelerden, davaya konu kiralanan iş yerlerinden birinin 01.06.2014, diğerinin ise 01.07.2014 tarihinde davalı tarafından 3.kişiye yeniden kiraya verildiği anlaşılmıştır.
 
 ## Yargıtay 3. HD 2019/1994 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/500048600)
 
 Kira sözleşmesinin feshinin haksız olması halinde kiracının, Türk Borçlar Kanunu'nun 325. maddesi uyarınca kira sözleşmesinden doğan borçları kiralananın benzer koşullarla kiraya verilebileceği makul bir süre için devam eder. Ancak, 6098 sayılı Türk Borçlar Kanunu'nun 114. maddesinde göndermesi ile aynı Kanun'un 52. maddesi uyarınca kiraya verenin bu yerin yeniden kiralanması konusunda gayret göstermesi, böylece zararın artmasını önlemesi için kendisine düşen ödevi yapması gerekir. Bu durumda davalı kiraya verenin zararı,
 
@@ -86,14 +112,20 @@ tahliye tarihinden kiralananın aynı koşullarla yeniden kiraya verilebileceği
 
 ## Yargıtay 3. HD 2019/1969 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/499931200)
+
 O halde mahkemece yapılacak iş ilk ihaleye ikinci sırada teklif veren olduğu da gözetilerek, ikinci sırada pey süren kişinin teklif ettiği bedel üzerinden makul sürede yapılacak sonraki ihale tarihine kadar mahrum kalınan kira kaybından irat kaydedilen teminat bedeli de düşüldükten sonra davalı yönünden zarar miktarı belirlenerek sonuca gidilmesi gerekirken anılan Yargıtay ilamı yanlış yorumlanarak, hatalı değerlendirme ile ve yukarıdaki gerekçe ile davanın reddi doğru görülmemiş bozmayı gerektirmiştir.
 
 ## Yargıtay 3. HD 2019/1651 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/492454600)
 
 Türk Borçlar Kanunu'nun 325.maddesinin 1.fıkrasının ilk cümlesi “Kiracı, sözleşme süresine ve fesih dönemine uymaksızın kiralananı geri verdiği takdirde, kira sözleşmesinden doğan borçları, kiralananın benzer koşullarla kiraya verilebileceği makul bir süre için devam eder.” şeklinde düzenlenmiştir. Sözleşmeye bağlılık (ahde vefa) ilkesi gereği taraflar sözleşme hüküm ve koşullarına uygun davranmak durumundadırlar. Haklı neden olmadıkça ve usulüne uygun feshedilmedikçe kiracı, sözleşme süresi ile bağlı olup sözleşmenin süresinden önce ve haksız olarak feshi durumunda kiraya verenin bundan kaynaklanan zararını gidermekle yükümlüdür. Davacı kiraya verenin zararı, tahliye tarihinden itibaren kiralananın aynı koşullarla yeniden kiraya verilebileceği tarihe kadar boş kaldığı süreye ilişkin kira bedelinden oluşur. Bununla birlikte taraflar arasında 01.01.2014 başlangıç tarihli, 1 yıl süreli kira sözleşmesinin “Özel Koşullar” bölümünün 6. maddesinde ''Kiracı kiralananı boşaltmak istediği takdirde en az 30 gün evvelinden mal sahibine ulaşacak şekilde bildirmeyi taahhüt eder." şeklinde ihbar şartına yer verilmiştir.
 Tarafların serbest iradesi ile konulmuş bu şart geçerli olup tarafları bağlar. Sözleşmede tarafların makul süreyi 30 gün olarak belirlediği ve davalı kiracı ihbar koşuluna uymadan taşınmazı tahliye ettiğine göre, tahliye tarihinden itibaren sözleşmede kararlaştırılan 30 günlük makul süre tazminatına ve 30 gün için aidat bedeline karar verilmesi gerekirken eksik değerlendirme ile yazılı şekilde 7 aylık makul süre tazminatı ve 7 aylık aidat bedeli üzerinden hüküm tesisi doğru değildir.
 
 ## Yargıtay 3. HD 2019/1658 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/487892800)
 
 Tarafların arasında uyuşmazlık bulunmayan 03.11.2014 başlangıç tarihli bir yıl süreli kira sözleşmesinin 9. maddesinde ''kiracı kiralananı boşaltmak istediği takdirde en az 15 gün evvelinden mal sahibine ulaşacak şekilde bildirmeyi taahhüt eder.'' düzenlemesi bulunmaktadır. Davalı kiracının sözleşme süresine veya fesih dönemine uymaksızın kiralananı geri vermesi halinde TBK.nun 325. maddesi gereğince kira sözleşmesinden
 
@@ -101,14 +133,20 @@ doğan borçları, kiralananın benzer koşullarla kiraya verilebileceği makul 
 
 ## Yargıtay 3. HD 2019/1391 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/500709300)
+
 Taraflar arasında düzenlenen 05.01.2010 başlangıç tarihli 5 yıl süreli kira sözleşmesi ile sözleşmeye konu taşınmaz GSM baz istasyonu ve cihazlarının kurulması için kullanılmak amacıyla davacı kiracıya kiralanmış olup, yıllık kira bedelinin 5.500 USD olduğu kararlaştırılmıştır. Sözleşmeye konu kiralananın 05.01.2014-05.01.2015 tarihleri arasındaki döneme ilişkin kira bedelinin peşin olarak ödendiği konusunda taraflar arasında uyuşmazlık bulunmamaktadır. Sözleşmenin 18/b maddesinde ; Kiracının kira sözleşmesini 1 ay önceden yazılı bildirimde bulunmak kaydı ile herhangi bir zamanda hiçbir neden göstermeden feshetme hakkına sahip olduğu, kiralayanın bu durumda herhangi bir hak ve alacak talebinde bulunmayacağı, fesih tarihinden sonraki döneme ilişkin olarak peşin ödenmiş kira bedeli var ise kiralayanın bu bedeli fesih tarihinden sonra 1 ay içinde iade edeceği kararlaştırılmıştır.Tarafların serbest iradesi ile konulmuş bu şart geçerli olup tarafları bağlar.
 Sözleşmede tarafların makul süreyi 1 ay olarak belirlediği ve sözleşmenin 18/b maddesinde yer alan fesh-i ihbar şartının ancak 01.04.2015 tarihinde, bu hususta gönderilen ihtarnamenin tebliği ile gerçekleştiği nazara alındığında, 01.04.2014-01.05.2015 tarihlerini kapsayan 1 aylık makul süre kira bedelinin de kullanılmayan süreye ilişkin kira bedelinden mahsup edilerek kira bedelinin iadesine karar verilmesi gerekirken eksik değerlendirme ile yazılı şekilde hüküm tesisi doğru görülmemiş, bozmayı gerektirmiştir.
 
 ## Yargıtay 3. HD 2019/134 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/487973400)
+
 Ayrıca; 6098 Sayılı Türk Borçlar Kanununun 583. maddesi (mülga 818 Sayılı Borçlar Kanununun 484. maddesi) uyarınca kefalet sözleşmesinin geçerli olabilmesi için yazılı şekilde düzenlenmesi ve kefilin sorumlu olacağı miktarın açıkça gösterilmesi zorunludur. Kefilin sorumluluğu sözleşme kapsamındaki borçlar için ve sözleşme süresince geçerli olup, davada talep edilen makul süre tazminatı olup, belli muayyen olduğundan sözedilemez. Taraflar arasında düzenlenen kira sözleşmesinde de bu bedelden davalı kefilin sorumlu olacağına dair bir düzenleme bulunmamaktadır. Bu durumda mahkemece makul süre tazminatı yönünden davalı kefil hakkındaki davanın reddine karar verilmesi gerekirken yazılı şekilde karar verilmesi doğru değildir.
 
 ## Yargıtay 3. HD 2018/12632 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/467690400)
 
 İcra ve İflas Kanunu'nun 67. maddesinin 2. fıkrası hükmünce, inkar tazminatına hükmedilebilmesi için, borçlunun takip sırasında ödeme emrine itiraz etmesi ve alacaklının alacağını mahkemede dava ederek haklı çıkması yasal koşullardandır. Bunlardan başka, alacağın likit ve belli olması da gerekir.Alacağın gerçek miktarı belli, sabit veya borçlu tarafından belirlenebilmesi için bütün unsurlar bilinmekte ya da bilinmesi gerekmekte, böylece borçlu tarafından borcun tutarının tahkik ve tayini mümkün ise; başka bir ifadeyle
 
@@ -117,9 +155,13 @@ Yukarıda birinci bentte açıklanan nedenlerle davalının sair temyiz itirazla
 
 ## Yargıtay 14. HD 2018/8117 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/475433500)
+
 Eski ... 3. Asliye Hukuk Mahkemesinin 1992/739 Esas sayılı dosyasında, davacı ...’in dava konusu olayla ilgili olarak davalıların murisi ...’ye yönelik tazminat davası açtığı, mahkemece 1988 yılından itibaren boş kalan evden dolayı 30 milyon TL kira kaybının, binanın yıkılıp yeniden yapılması sırasında meydana gelecek 42 milyon TL kira kaybının, binanın yeniden yapılması bedeli olarak 400 milyon TL’nin, binanın yıkılıp hafriyatının taşınması masrafı olarak 30 milyon TL’nin dava tarihinden itibaren yasal faiziyle birlikte davalıların murisi ...’den alınarak davacı ...’e verilmesine, manevi tazminat talebinin reddine karar verildiği, verilen kararın Yargıtayca onanarak 15.04.1997 tarihinde kesinleştiği görülmüştür.
 
 ## Yargıtay 3. HD 2018/11282 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/463245400)
 
 Davalı kiracı tarafından kiralanan taşınmazın kira sözleşmesinin bitim tarihinden önce tahliye edildiği hususu her iki tarafın da kabulündedir ancak tahliye/ anahtar teslim tarihi dosya kapsamı itibariyle anlaşılamamaktadır.Bu itibarla,Mahkemece öncelikle tahliye/anahtar teslim tarihinin usulüne uygun şekilde tespiti gerekmektedir.Taraflar arasındaki 01.04.2014 başlangıç tarihli 10 yıl süreli kira sözleşmesinin 2. maddesinde kiracının, kiralananı tahliye etmek istediğinde mal sahibine en az 6 ay öncesinden ulaşacak şekilde bildirmeyi taahhüt ettiği düzenlenmiştir. Dosya kapsamı itibariyle, davalının kiralananı ihbar koşuluna uymadan tahliye ettiği ve bu durumda feshin haksız olduğu anlaşılmaktadır. Bu durumda, Mahkemece yeniden kiraya vermek için gereken makul süre 6 ay kabul edilerek; tespit edilecek tahliye tarihine kadar ödenmeyen kira alacağı ile - kiralanan taşınmazın yeniden kiraya verildiği tarihi geçmeyecek şekilde- tahliye tarihinden itibaren 6 aylık makul süreye ilişkin kira bedeli üzerinden yapılacak değerlendirmeyle
 
@@ -127,11 +169,15 @@ sonucuna göre hüküm kurulması gerekirken yazılı şekilde davanın reddine 
 
 ## Yargıtay 3. HD 2018/10731 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/469482400)
+
 Davaya dayanak yapılan ve hükme esas alınan 01.05.2010 başlangıç tarihli ve 9 yıl 8 ay süreli kira sözleşmesi konusunda taraflar arasında bir uyuşmazlık bulunmamaktadır. Kira sözleşmesinin 1. maddesi ile kira bedellerinin Mayıs, Eylül ve Ocak aylarında 4 aylık peşin olarak ödeneceği ve herhangi bir kiranın zamanında ödenmediği takdirde 1 yıllık kira bedelinin tahsili gerekeceği kararlaştırılmıştır. Davacılar bu kira sözleşmesine dayanarak 13.05.2014 tarihinde başlattığı icra takibi ile 2014 yılının Temmuz, Ağustos ayları ile muacceliyet koşulu gereğince 2015 yılının Mayıs ayı dahil olmak üzere toplam 409.940 TL kira alacağı ve 61.491 TL vekalet ücretinin tahsilini istemiştir. Davalının ödeme emrine itirazı üzerine davacıların 27.06.2014 tarihinde açtığı iş bu dava ile itirazın iptali talep edilmiştir.Somut olayda; davalı kiracı tarafından kira sözleşmesinin süresinden önce feshedildiği anlaşılmaktadır. Mahkemece, kiracının tek taraflı olarak sözleşmeyi feshinin haksız olduğuna ilişkin değerlendirmesinde bir usulsüzlük bulunmamaktadır.
 Ancak kiralananı süre bitmeden tek taraflı olarak tahliye etme hak ve yetkisi kendisine tanınmayan kiracının, kiraya verenin bilgisi ve rızası olmaksızın, haklı bir nedene de dayanmaksızın, kira süresinin bitiminden önce kiralananı tahliye etmesi sözleşmeye aykırı davranış (haksız fesih) sayılır; böylesi bir durumda kiracı, kiraya verenin bu yüzden uğradığı zararı tazminle sorumludur. Ne var ki, 6098 Sayılı Türk Borçlar Kanunu'nun 114. maddesi (mülga 818 Sayılı BK.nun 98.maddesi) göndermesi ile aynı Kanunun 52.maddesi (mülga BK.nun 44. maddesi) uyarınca, kiraya veren de, kiralananı aynı koşullarla yeniden kiraya vermek konusunda gereken çabayı göstermeli ve böylece zararın artmasına sebebiyet vermemelidir. Aksi takdirde, artmasına sebep olduğu zarar tutarını kiracıdan isteyemez. Bu durumda, davacının zararı tahliye tarihinden kiralananın aynı koşullarla yeniden kiraya verilebileceği tarihe kadar boş kaldığı süreye ilişkin kira parasından ibarettir.
 Mahkemece, yargılama aşamasında kiralananın anahtarının teslim edilmiş olması ve alınan bilirkişi raporuna göre yeniden kiraya verme süresinin 6 ay olarak belirlenmiş olmasına göre, 6 aylık makul süre kira bedeli yönünden itirazın iptaline karar verilmesi gerekirken, taşınmazın tahliye edilmeden kiralanamayacağı göz ardı edilerek ihtar tarihinden sonraki dönemin makul süre kira bedelinden mahsup edilmesi doğru değildir.
 
 ## Yargıtay 3. HD 2018/10575 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/470558300)
 
 Öte yandan, kar mahrumiyeti bedeli belirlenirken hükme esas alınan bilirkişi raporunun da denetime elverişli ve ayrıntılı düzenlenmediği anlaşılmaktadır.Bu durumda mahkemece yapılacak iş; öncelikle davacı kiracının aynı nitelikte ve aynı şartlarla bir işyeri kiralaması için gereken makul sürenin tespit edilmesi, aynı özelliklere sahip benzer işletmelerin gelir– gider durumlarının vergi dairesi, esnaf odası, ticaret odası ve benzeri resmi kurumlardan araştırılarak sözleşme ifa ile bitse idi zarar görenin elde etmesi muhtemel bütün gelirlerin ayrıntılı ve denetime elverişli bir şekilde belirlenmesi, belirlenen davacı gelirlerinden davacının işyerini kullansa idi yapması gereken bilcümle zorunlu harcama kalemleri ile sözleşme süresinden evvel feshedildiğinden süresinden evvel fesih nedeniyle sağladığı yani tasarruf ettiği haklar ve yine bu süre içerisinde başka işten sağlayacağı veya kasten
 
@@ -139,10 +185,14 @@ sağlamaktan kaçındığı kazanç miktarları ve davacının davalıya ödemes
 
 ## Yargıtay 3. HD 2018/10302 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/469557100)
+
 Taraflar arasında imzalanan 23.09.2009 başlangıç tarihli ve bir yıl süreli kira sözleşmesinin varlığı hususunda uyuşmazlık bulunmamaktadır. Sözleşmenin 7. maddesinde 1500 USD depozito bedeli alındığı, tahliye halinde boya badana yapılır, taşınmazda hasar bulunmaz ve borcu da bulunmazsa iade edileceği düzenlenmiştir. Davacı kiracı kiralananın anahtarını 09.10.2014 tarihinde notere teslim etmiş, Noter tarafından kiraya verene 15.10.2014 tarihinde tebliğ edilmiştir. Bu durumda kiralananın tebliğ tarihinde tahliye edilmiş olduğunun kabulü gerekir. TBK.nun 347. maddesi (6570 Sayılı Kanunun 11. maddesi) gereğince konut ve çatılı işyeri kiralarında kiracının belirli süreli sözleşmelerin süresinin bitiminden en az onbeş gün önce bildirimde bulunmaması halinde sözleşmenin aynı koşullarla bir yıl için uzatılmış sayılacağı düzenlenmiştir. Taraflar arasındaki kira sözleşmesi yeni dönem başlangıcı olan 23.09.2014 tarihinden en az onbeş gün önce kiracı tarafından bildirimde bulunulmadığından yenilenerek 23.09.2015 tarihine kadar uzamıştır.
 Bu durumda kiracının 15.10.2014 tarihinde, sözleşme süresi dolmadan kiralananı erken tahliye ettiğinin kabulü gerekir.Erken tahliye halinde kural olarak Türk Borçlar Kanununun 325. maddesine göre kiracı anahtar teslim tarihine kadar kira bedelinden, anahtar teslim tarihinden itibaren ise kiralananın aynı şartlarda kiraya verileceği makul süre kira bedeli ile sorumludur. Bununla birlikte Türk Borçlar Kanununun 112. maddesi göndermesi ile aynı kanunun 52. maddesi uyarınca, kiraya verenin bu yerin yeniden kiralanması konusunda gayret göstermesi, böylece zararın artmasını önlemesi için kendisine düşen ödevi yapması gerekir. Bu durumda kiraya verenin zararı, tahliye tarihinden kiralananın aynı koşullarla yeniden kiraya verilebileceği tarihe kadar boş kaldığı süreye ilişkin kira bedelinden ibarettir.Öte yandan; 6098 Sayılı T.B.K.nun 316. (B.K.nun 256) maddesi hükmü uyarınca kiracı kiralananı tam bir özenle kullanmak ve aynı kanunun 334. (B.K.nun 266) maddesi gereğince sözleşme sonunda aldığı hali ile kiraya verene teslim etmekle yükümlüdür.
 
 ## Yargıtay 3. HD 2018/8771 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/452410800)
 
 Hükme esas alınan 01.09.2010 başlangıç tarihli ve 1 yıl süreli kira sözleşmesinde aylık kira bedelinin 1.050,00 TL olduğu, hususi şartlar bölümünün 8. maddesinde, kiracının birinci yıldan sonra bir ay önceden noter kanalıyla sözleşmeyi fesih ihbarı yaparak sözleşmeyi feshedebileceği, 9. Maddesinde ise, uzayan ikinci yıl kirasının yıllık %10 un altında kalmamak kaydıyla toplamdak.....odası tüketici fiyat endeksi oranında kararlaştırılmıştır. Davacı kiraya verenler tarafından davalılar aleyhine 14.09.2012 tarihinde başlatılan..... sayılı icra dosyasında 1.9.2012 tarihine kadar olan bakiye kira alacağı toplamı 7.109,75 TL asıl alacağın 70,12 TL işlemiş faiziyle birlikte, 01.10.2012 tarihinde başlatılan..... sayılı icra dosyasında ise aylık 1.270,5 TL üzerinden 2012 yılı Eylül ayı ile 2013 yılı Ağustos ayları arası kira alacağı toplamı 15.246,00 TL asıl alacağın 301,67 TL vergi ve usulsüzlük cezası
 
@@ -150,10 +200,14 @@ ve 86,46 TL işlemiş faiziyle birlikte tahsili talep edilmiş, yapılan itiraz 
 
 ## Yargıtay 3. HD 2018/8703 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/452460300)
+
 Davaya dayanak yapılan 26/A nolu dükkana ilişkin 01.11.2006 başlangıç tarihli bir yıl süreli kira sözleşmesi konusunda taraflar arasında uyuşmazlık bulunmamaktadır. Kira sözleşmesinin hususi şartlar bölümünün 8. maddesinde " Kiracı, kiralananı boşaltmak istediği takdirde en az bir ay evvelinden mal sahibine ulaşacak şekilde bildirmeyi taahhüt eder." düzenlemesi yer almaktadır. Tarafların serbest iradeleriyle belirledikleri bu hüküm geçerli olup tarafları bağlar. Davaya konu taşınmazın tahliye edildiğine dair tutanak bulunmamakla birlikte, kiralananın 01.03.2014 tarihinde tahliye edildiği her iki tarafın kabulündedir. Bu durumda taşınmazın tahliye edildiği tarih 01.03.2014 tarihi olarak kabul edilmelidir. Kira sözleşmesinde kiralananın kira süresinin bitiminden önce tek taraflı bildirimde bulunmak suretiyle feshedilebileceğinin kararlaştırılması halinde, bu bildirimin sözleşmede belirlenen fesih süresine uygun olarak yapılması zorunludur. Kiracının bu ihbar şartına uymadan taşınmazı 01.03.2014 tarihinde tahliye ettiği anlaşılmaktadır. TBK 'nun 325. Maddesinde ;
 " Kiracı, sözleşme süresine veya fesih dönemine uymaksızın kiralananı geri verdiği takdirde, kira sözleşmesinden doğan borçları kiralananın benzer koşullarla kiraya verilebileceği makul bir süre için devam eder. Kiracının bu sürenin geçmesinden önce kiraya verenden kabul etmesi beklenebilecek , ödeme gücüne sahip ve kira ilişkisini devralmaya hazır yeni bir kiracı bulunması halinde, kiracının kira sözleşmesinden doğan borçları sona erer. " düzenlemesine yer verilmiştir. Ancak ne var ki taraflarca sözü geçen sözleşmede makul süre bir ay kabul edildiğinden davalı da sözleşmeye uygun feshi ihbarda bulunmadığından davalı erken tahliye…
 
 ## Yargıtay 3. HD 2018/6999 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/429061200)
 
 Somut olayda; Taraflar arasında 01.09.2011 başlangıç tarihli ve beş yıl süreli kira sözleşmesinin varlığı hususunda uyuşmazlık bulunmamaktadır. Sözleşmede süre bitiminden itibaren iki ay önce kiraya verene feshi ihbartebliğ edilmesi suretiyle sözleşmenin kiracı tarafından sona erdirilebileceği kararlaştırılmış olup kiracının bu ihbar şartına uymadan ve sözleşme süresi dolmadan sözleşmeyi feshederek, 16.01.2013 tarihinde taşınmazı tahliye etmiş olduğu anlaşılmaktadır. TBK'nun 325. maddesinde; "Kiracı, sözleşme süresine veya fesih dönemine uymaksızın kiralananı geri verdiği taktirde, kira sözleşmesinden doğan borçları kiralananın benzer koşullarla kiraya verilebileceği makul bir süre için devam eder. Kiracının bu sürenin geçmesinden önce kiraya verenden kabul etmesi beklenebilecek, ödeme gücüne sahip ve kira ilişkisini devralmaya hazır yeni bir kiracı bulunması halinde, kiracının kira sözleşmesinden doğan borçları sona erer" düzenlemesine yer verilmiştir. Mahkemece alınan bilirkişi raporunda taşınmazın yeniden kiraya verilebileceği makul süre üç ay olarak belirlenmiş olup, kiracının belirlenen üç aylık makul süre tazminatından sorumlu olacağının kabulü gerekir.
 Bu kapsamda Mahkemece anahtarın notere tesliminin davalıya tebliğ edildiği 18.01.2013 tarihi tahliye tarihi olarak kabul edilerek bu tarihe kadar kira bedeli bu tarihten sonra da üç aylık makul süre tazminatı
@@ -161,5 +215,7 @@ Bu kapsamda Mahkemece anahtarın notere tesliminin davalıya tebliğ edildiği 1
 üzerinden hesaplama yapılmak suretiyle sonucuna göre karar verilmesi gerekirken yazılı şekilde karar verilmesi doğru değildir.
 
 ## Yargıtay 3. HD 2018/6865 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/429234800)
 
 Erken tahliye halinde kural olarak Türk Borçlar Kanununun 325. maddesine göre kiracı anahtar teslim tarihine kadar kira bedelinden, anahtar teslim tarihinden itibaren ise kiralananın aynı şartlarda kiraya verileceği makul süre kira bedeli ile sorumludur. Bununla birlikte Türk Borçlar Kanununun 112. maddesi göndermesi ile aynı kanunun 52. maddesi uyarınca, davacı kiralayanın bu yerin yeniden kiralanması konusunda gayret göstermesi, böylece zararın artmasını önlemesi için kendisine düşen ödevi yapması gerekir. Bu durumda davacının zararı, tahliye tarihinden kiralananın aynı koşullarla yeniden kiraya verilebileceği tarihe kadar boş kaldığı süreye ilişkin kira bedelinden ibarettir.

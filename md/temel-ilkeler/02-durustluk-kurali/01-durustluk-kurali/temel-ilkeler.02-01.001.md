@@ -55,18 +55,26 @@ Asli yorum araçları yeterince açık değilse, tarafların iradelerini ortaya 
 
 ## Yargıtay HGK 2025/667 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1196648100)
+
 Paydaşlar arasında fiili taksim bulunması hâlinde yasal önalım hakkının kullanılamayacağına dair bir yasa hükmü bulunmasa da taşınmazda fiili bir kullanma biçimi oluştuğundan uzun süre de paydaşlar bu durumu benimsemişlerse kayıtta paylı, eylemli olarak bağımsız bu oluşumun korunması, TMK’nın 2. maddesinde tanımını bulan dürüstlük kuralının gereğidir. Zira TMK’nın 2. maddesinde herkesin haklarını kullanırken ve borçlarını ifa ederken dürüstlük kurallarına uyması zorunluluğu getirilmiş, uyulmamasının yaptırımı olarak da hakkın kötüye kullanılmasının hukuk düzeni tarafından korunmayacağı belirtilmiştir. Bilindiği üzere hakkın açıkça kötüye kullanıldığı tüm hâllerde dürüstlük kuralına da aykırılık söz konusudur. Fiili taksimin hukuki dayanağını da TMK’nın bu maddesi oluşturmaktadır (Müslüm Tunaboylu, Önalım (Şuf’a) Davaları, Ankara 2008, s. 440).
 
 ## Yargıtay HGK 2008/747 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/16748200)
 
 ” hükmünün öngörülmesine, tarımda kendi adına bağımsız çalışanlarla ilgili sigorta primlerinin; ürün bedellerinden tevkifat yoluyla kesilerek ilgili kişi adına Bağ-Kur hesabına yatırılmak suretiyle ödenmesi halinde, kayıt ve tescil için Kuruma başvuru olmasa dahi belirtilen şekildeki prim ödeme olgusunun, tarımda kendi adına bağımsız çalışan kişinin kayıt ve tescil konusundaki iradesini ortaya koyduğunun delili olarak kabulü ile Bağ-Kur’un iş bu primleri tahsil etmesine rağmen, sigortalıyı tevkifat tarihi itibariyle resen kayıt ve tescil etmemesi, yasanın kendisine yüklediği bu mükellefiyete açık bir aykırılık oluşturmasına, bu bağlamda davalı Kurumun, Yasa ile kendisine yüklenen resen tescil görevini yerine getirmemesinin sonuçlarının sigortalıya yükletilmesinin Medeni Kanunun 2.maddesinde ifadesini bulan evrensel nitelikleri objektif iyiniyet kuralıyla bağdaştırılmasının mümkün bulunmamasına, mahkemece yapılanın, Kurumca yapılması gerektiği halde yapılmayan tescil ve tespit işlemine ilişkin bulunmasına göre, davacının 5458 sayılı yasadan yararlanma hakkının saklı tutulmasına yönelik isteminin kabulüne karar verilmesi gerekirken reddine karar verilmesi usul ve yasaya aykırı olup
 bozma nedenidir.
 
 ## Yargıtay HGK 2007/954 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/16104200)
+
 Gerçekten de işlemde kullanılan vekaletnamede davalının okuma yazma bilmediğinden bahisle mühür kullandığı, ancak parmak izinin alınmadığı anlaşılmaktadır. Söz konusu vekaletnamenin bu şekliyle Noterlik Mevzuatı'nın 75. maddesine aykırı olarak düzenlenmiş olduğu kuşkusuzdur. Ne var ki, temlik işleminden bu yana 40 yıla yakın bir süre geçmiştir. Akdin ifa edilmesi intikal işlemlerinin tamamlanması taşınmazın davalıların zilyetliğinde bulunduğu dikkate alındığında, bu kadar süre sonra eldeki dava ile şekil eksikliğinden bahisle dava açılmasının Türk Medeni Kanunu'nun 2. maddesinde öngörülen dürüstlük kuralı ile bağdaşmayacağı kuşkusuzdur (Yargıtay Hukuk Genel Kurulu 11.03.1953 tarih 9/12778; Yargıtay Hukuk Genel Kurulu 24.03.1965 tarih 562/125).
 
 ## Yargıtay HGK 2006/346 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/76831900)
 
 Borçlar Kanunu'nun 1’nci maddesi hükmü uyarınca, tarafların karşılıklı ve birbirlerine uygun irade açıklamalarıyla yani hukuki bir sonucu sağlama amacı etrafında birleşmeleriyle sözleşme ilişkisi kurulmuş olur. Aynı Yasa'nın 18/1’nci maddesi hükmü ile de, bir sözleşmenin nitelik ve koşullarını belirlemede, tarafların yanlışlıkla veya gerçek amaçlarını gizlemek için kullandıkları deyimler ve tanımlara bakılmayarak gerçek ve ortak amaçlarını gözetmek gerekmektedir. Yani, sözleşme ilişkisini kuran irade açıklamalarının mahiyeti ve özü konusunda belirsizlik veya duraksama doğuran yönler varsa bunları aşabilmek için sözleşme taraflarının ortak ve gerçek amaçlarının ne olduğuna bakılarak yorum yapılması gerekir. Yorum, hukuki işlemde yer alan irade açıklamalarının içeriği ve bunların hukuki sonuçlarının saptanmasıdır. Bu yapılırken, irade açıklamalarının özü ve sözleşme ilişkisi süreci boyunca tarafların davranışlarının gözetilmesi, şayet bu veriler yeterli olmazsa güven ve objektif iyiniyet ilkelerinin denetleyici-sınırlayıcı ışığı altında sözleşmenin niteliğinin belirlenmesi gerekir.
 
@@ -93,14 +101,20 @@ Tarafların ifa menfaati dışında kalan bu tür menfaatleri de sırf sosyal te
 
 ## Yargıtay 9. HD 2026/349 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1201848900)
+
 Güven teorisi, her iki tarafın menfaatleri arasında denge kurmayı amaçlar ve kaynağını dürüstlük kuralından alır. Kendine özgü mahiyet arz eden güven sorumluluğu bir kişinin veya kuruluşun davranışlarıyla başkalarında yarattığı haklı beklentiler nedeniyle oluşan güven ilişkisinden kaynaklanır. Temeli Alman Borçlar Kanunu’nda yer alan, borçlar hukuku mevzuatımızda düzenlemesi bulunmamakla birlikte gerek Türk hukukunda gerekse İsviçre hukukunda kendisine uygulama yeri bulan bu teori; bir kimsenin kendi yarattığı dış görünüşün meydana getirdiği sonuçlara kendisinin katlanmasının gerekliliği, aksi yönde bir düşüncenin iyiniyet kurallarına aykırılık teşkil edeceği kabulüne dayanır. Bu kapsamda yorum sırasında güven teorisinin uygulanması 4721 sayılı Türk Medeni Kanunu’nun 2. maddesinde düzenlenen dürüstlük ilkesinin gereğidir. Kanunun getirdiği güvenin korunmasına ilişkin hükümler yanında, tarafların sözlü veya yazılı davranışları da bu güven ortamını sağlayabilir. Sağlanan güvenin, güven sorumluluğu kapsamında hukuken korunması gerekir. Güven sorumluluğunda taraflar birbirlerinden bekledikleri güveni boşa çıkarmamalıdır.
 Bu itibarla güven teorisi hukuki güven, istikrar ve hakkaniyet düşüncesini esas alır. Hukukun bir amacı da kişilerin gerek birbirleriyle gerekse Devlet ile olan ilişkilerde güven ve sürekliliği sağlamaktır (Yargıtay Hukuk Genel Kurulu, 19.12.2019 tarihli ve 2015/21-2372 Esas, 2019/1420 Karar sayılı kararı).
 
 ## Yargıtay 10. HD 2024/2231 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1043619600)
+
 Davalı Kurumun geçmişe yönelik (uyuşmazlık dönemini kapsayacak şekilde borçlanmayı kabul ederek) prim tahsil etmesi uzun süre bu primleri kullanması sigortalıya yaşlılık aylığı bağlayıp aylık konusunda umut verdikten sonra davacının sigortalılığını ve yaşlılık aylığını iptal etmesi Medeni Kanun'un 2 nci maddesinde ifadesini bulan objektif iyiniyet kurallarıyla bağdaşmayacaktır. Nitekim Yargıtay Hukuk Genel Kurulunun 01.10.1997 gün ve E:1997/10-578, K:1997/758, 24.09.2003 gün ve 2003/10-489, 2003/490 sayılı kararıda bu doğrultudadır.
 
 ## Yargıtay 6. HD 2014/1070 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/97135800)
 
 Kural olarak kira bedelinin olağanüstü nedenlerle çok yüksek olması ve davacı kiracıdan sözleşmedeki koşullarla kira aktinin devamının MK 2.maddesindeki objektif iyiniyet kuralları gereğince istenemeyeceğinin sabit olması, davacının ekonomik yıkımına neden olması ve sözleşmelerde zımnen mevcut bulunan yarar dengesinin davacı aleyhine ve davalı lehine önemli ölçüde bozulduğunun anlaşılması halinde, hakim sözleşmeye müdahale ederek, bozulan yarar dengesini yeniden kurabilir.Sözleşmenin edimleri arasındaki dengeyi bozan olağanüstü hallere savaş, ülkeyi sarsan ekonomik krizler, enflasyon grafiğindeki aşırı yükselmeler, şok devalüasyon, para değerinin önemli ölçüde düşmesi gibi, sözleşmeye bağlılığın beklenemeyeceği durumlar örnek olarak gösterilebilir.Her talep vukuunda sözleşmeyi değişen hal ve şartlara uydurmak mümkün değildir. Aksi halde özel hukuk sistemimizde geçerli olan "irade özgürlüğü" "sözleşme serbestisi" ve "sözleşmeye bağlılık" ilkelerinden sapma tehlikesi ortaya çıkar. Sözleşmeye müdahale müessesesi istisnai niteliktedir.Sözleşme kurulduktan sonra ifası sırasında ortaya çıkan olaylar olağanüstü ve objektif nitelikte olmalıdır.
 

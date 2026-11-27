@@ -23,6 +23,8 @@ uyari: "Derleyenin seçtiği alıntılardır; kararın tamamı değildir. Künye
 
 ## Yargıtay 6. HD 2015/8177 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/128058800)
+
 TBK.nun 325.maddesi uyarınca; kiracı, sözleşme süresine veya fesih dönemine uymaksızın kiralananı geri verdiği takdirde, kira sözleşmesinden doğan borçları, kiralananın benzer koşullarla kiraya verilebileceği makul bir süre için devam eder. Kiracının bu sürenin geçmesinden önce kiraya verenden kabul etmesi beklenebilecek, ödeme gücüne sahip ve kira ilişkisini devralmaya hazır yeni bir kiracı bulması halinde, kiracının kira sözleşmesinden doğan borçları sona erer. Kiraya veren, yapmaktan kurtulduğu giderler ile kiralananı başka biçimde kullanmakla elde ettiği veya elde etmekten kasten kaçındığı yararları kira bedelinden indirmekle yükümlüdür.Dava konusu olayda, her ne kadar kiralanan, kiralayanın kira alacağının tahsili ve kiralananın tahliyesi istemiyle başlatılan icra takibine itiraz üzerine itirazın kaldırılması ve tahliye davasında verilen tahliye kararı gereği tahliye edilmiş ise de, bu duruma davacı kiracının kira bedelini süresinde ödememesi ve temerrüde düşmesi sebep olmuş, başka bir anlatımla kiralananın tahliyesine kiracı kendisi sebebiyet vermiştir.
 Bu durumda kiracı yukarıda açıklandığı üzere taşınmazın aynı koşullarla yeniden kiraya verilmesine kadar geçecek makul süre kira parasından sorumludur. Mahkemece her ne kadar tahliye iradesinin davacı kiralayana ait olduğu belirtilmiş ise de davacı kiralayanın tahliye istemesinin sebebi kiracının kira paralarını ödememesidir. Öte yandan kiralananların üzerinde bulunduğu tesislerin özelleştirilmesine karar verilmesi kendiliğinden kiralananların tahliyesini gerektirmez. Bu durumda mahkemece, kiralananların aynı koşullarla yeniden kiraya verilmesi için geçecek süre belirlenerek ve sözleşme süresi ve taşınmazlar yeniden kiraya verilmiş ise kiraya verildiği
 
@@ -30,10 +32,14 @@ tarih de gözönünde bulundurularak sonucuna göre bir karar verilmesi gerekirk
 
 ## Yargıtay 6. HD 2015/8035 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/124366000)
+
 Bozma ilamında, öncelikle taşınmazın hangi tarihte tahliye edildiği ve davacının talep ettiği alacağın kira bedeli mi tazminat istemine mi ilişkin olduğunun değerlendirilmesi belirtildiği halde kiralananın tahliye edildiği tarih tespit edilmemiştir. Bu sebeple mahkemece taşınmazın hangi tarihte tahliye edildiğine ilişkin tarafların tüm delilleri toplanarak kiralananın hangi tarihte tahliye edildiğinin tespiti ile sonuca gidilmelidir. Davaya dayanak kira sözleşmesinin son sayfasına dosyada rastlanmamıştır. Sözleşmenin tamamının getirtilerek sözleşmede kiracıya tek taraflı feshi ihbarla kira sözleşmesini sona erdirme hakkı tanınıp tanınmadığının belirlenmesi, sözleşmede bu konuda bir hüküm varsa tarafların yeniden kiraya verme süresini sözleşmede belirtilen süre ile sınırlandırdığının kabulü gerekir.
 Sözleşmede bu konuda bir hüküm bulunmaması halinde ise Mahkemece, mahallinde keşif yapılıp, uzman bilirkişi aracılığıyla, kiralananın cinsi, özellikleri, konumu, bu nitelikte bir taşınmaza o bölgede duyulan ihtiyacın derecesi ve somut olaya özgü başka diğer özellikler çerçevesinde, kiralayanın gereken çabayı göstermesi halinde kiralananı aynı koşullarla yeniden hangi süre içerisinde kiraya verebileceği, eş söyleyişle, aynı koşullarla yeniden kiralama için gereken makul sürenin ne olduğu, tarafların ve Yargıtay’ın denetimine elverişli bir raporla saptanmalıdır. Bundan sonra, davacının talebi de göz önüne alınarak, bilirkişi tarafından bulunan makul sürenin tahliye tarihine eklenmesiyle ulaşılacak tarih belirlenmeli, eğer bu tarih, sözleşmedeki kira süresinin bitiminden öncesine ilişkin ise bu süreyle, sözleşme süresinin bitiminden sonraki bir tarihe ulaşılıyorsa sözleşmenin bitim tarihine kadar geçen dönem için kiracının kira parasından sorumlu tutulması gerektiği kabul edilmeli, bu çerçevede davalı kiracının sorumluluğu belirlenmesi gerekirken mahkemece bu konuda bir değerlendirme yapılmadan yazılı şekilde karar verilmesi doğru değildir.
 
 ## Yargıtay 6. HD 2015/7612 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/127539800)
 
 Taraflar arasındaki kira sözleşmesinin özel şartlar bölümünün 17. maddesinde tarafların kira sözleşmesini akdin hitamında feshetmek istediklerinde durumu akdin bitişinden en az 60 gün önceden noter vasıtası ile birbirlerine bildirmek zorunda oldukları, aksi halde kira sözleşmesinin 1 yıl süre ile yenilenmiş sayılacağı düzenlemesine yer verilmiş ise de, davalı kiracı bu maddedeki fesih süresine uymaksızın 07.06.2013 keşide 11.06.2013 tebliğ tarihli fesih ihtarını göndererek kiralananı 05.08.2013 tarihinde tahliye etmiştir. Kiracının, kira süresi sona ermeden kira sözleşmesini tek taraflı olarak feshederek kiralananı tahliye etmesi durumunda Türk Borçlar Kanunu'nun 325.maddesi uyarınca kira sözleşmesinden doğan borçları kiralananın benzer koşullarla kiraya verilebileceği makul bir süre için devam eder. Ancak, 6098 sayılı Türk Borçlar Kanunu'nun 114. maddesinde (Mülga 818 Sayılı BK.nun 98. maddesi) göndermesi ile aynı Kanun'un 52. maddesi (Mülga BK.nun 44. maddesi) uyarınca kiraya verenin de zararın artmasına neden olmaması gerekir.
 Bu durumda davacının zararı tahliye tarihinden kiralananın aynı koşullarla yeniden kiraya verilebileceği tarihe kadar boş kaldığı süreye ilişkin kira parasından ibarettir. Bu nedenle mahkemece kiralananın aynı bedel ve şartlarla ne kadar sürede kiraya verilebileceği mahallinde bilirkişi
@@ -42,10 +48,14 @@ aracılığı ile keşfen tespit ettirilip, tespit edilen bu sürenin (makul sü
 
 ## Yargıtay 23. HD 2015/6022 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/119107500)
+
 1163 sayılı Kanun'un 23. maddesinde; "Ortaklar bu kanunun kabul ettiği esaslar dahilinde hak ve vecibelerde eşittirler" ifadesine yer verilmiştir. Kooperatifler hukukunda mutlak değil, nispi eşitlik ilkesi geçerlidir. Eşitlik ilkesi gereği tüm ortaklara konut tesliminin aynı tarihte ve emsal üyelerin ödemeleri nazara alınarak aynı nitelikte yapılması gerekir. Dairelerin teslim edildiği tarih ve teslim edilme anındaki niteliği eşitlik ilkesi uyarınca değerlendirilmeli, eşitlik ilkesine aykırı biçimde eksik ve kusurlu imalatın tespit edilmesi halinde bunun, kullanıma engel olup olmadığı, bu kapsamda kira kaybı isteminin yerinde olup olmadığı irdelenmelidir. Bu durumda, aynı statüdeki diğer üyelere teslim edilen bağımsız bölümlerin ne şekilde teslim edildiğinin, eşitlik ilkesinin ihlâl edilip edilmediğinin saptanması, eksik ve ayıplı imalatın tespiti halinde bunun kira kaybına yol açıp açmadığının belirlenmesi gerekmektedir.
 Teslim tarihi yönünden ise kooperatif kayıtları inceletilerek, bağımsız bölümlerin teslim tarihine ilişkin genel kurullarda bir tarih kararlaştırılıp kararlaştırılmadığı, bir tarih belirlenmemiş ise bağımsız bölümlerin diğer üyelere hangi tarihte teslim edildiğinin saptanması, dayandığı delilleri sunması için davalı kooperatife olanak tanınması icap etmektedir. Konutların tamamlanmamış olması halinde, davacının da beklemesi ve bu duruma katlanması gerekir. Diğer üyelerin konutları tamamlanıp teslim edilmiş ise davacının da dairesinin bitirilip teslimini istemek hakkıdır. Kooperatifin diğer üyelerinden davacı ile aynı konumda olup, kooperatife borcu olduğu halde dairesini teslim alıp yararlanmaya başlayan üyelerin varlığının tespiti halinde, eşitlik ilkesi uyarınca davacının da aynı süre zarfında kira bedeli talep hakkı doğacağının kabulü gerekir.
 
 ## Yargıtay 6. HD 2015/7178 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/127022500)
 
 Taraflar arasında düzenlenen ve hükme esas alınan 01.03.2010 başlangıç tarihli ve 5 yıl süreli 4 adet tavuk kümesine ait kira sözleşmesi konusunda uyuşmazlık bulunmamaktadır. Sözleşmede kiralananın tavuk yetiştiriciliği için kullanılacağı ve bakımları yapılmış ve faal bir şekilde olduğu belirtilmiştir. Sözleşmenin 8. maddesinde "Kiracı, kiralananı boşaltmak istediği taktirde en az bir ay evvelinden mal sahibine ulaşacak şekilde bildirmek zorundadır” hükmüne yer verilmiştir. Davalı 8.3.2012 tarihinde keşide ettiği ihtarla sözleşmenin 8. maddesine göre sözleşmeyi feshettiklerini, sözleşmede süre kaydına uygun olarak tahliye edeceklerini ve anahtar teslimi için şirkete başvurmalarını ihtar etmiş, ihtar davacı kiraya verene 15.03.2012 tarihinde tebliğ edilmiştir. Kiralananın tahliye edilip anahtar teslimine ilişkin yazılı bir belge ibraz edilmemiş ise de davacı vekili dava dilekçesinde, kiracının kiralananı Nisan 2012 tarihinde tahliye ettiğini belirtmiş davalıda bu tarihe karşı çıkmamıştır. Öte yandan davacı vekili kira farkı alacağını 01.03.2011-01.04.2012 tarihleri arasındaki dönem için talep etmiştir. Bu tarihe göre 01.04.2012 tarihinin tahliye tarihi olarak kabul edilmesi gerekir.
 Mahkemenin kabulu de bu yöndedir.Erken tahliye halinde kural olarak TBK. 325. maddesine göre kiracı anahtar teslim tarihine kadar kira bedelinden anahtar teslim tarihinden itibaren ise kiralananın aynı şartlarda kiraya verileceği makul süre
@@ -56,6 +66,8 @@ Mahkemece konusunda uzman bilirkişi marifetiyle demirbaş listesine konu malzem
 
 ## Yargıtay 6. HD 2015/6879 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/130642300)
+
 Olayımıza gelince; davada dayanılan ve hükme esas alınan 01.02.2010 başlangıç tarihli ve bir yıl süreli kira sözleşmesi konusunda taraflar arasında bir uyuşmazlık bulunmamaktadır. Davalı 08.02.2012 tarihinde çalışma ruhsatı almasına rağmen kiralanan imar planına göre garaj olduğundan ... Belediyesi tarafından 16.07.2012 tarihinde faaliyetten men edilmiş, 06/08/2012 tarihinde ise zabıta marifeti ile dükkan mühürlenmiştir. Sözleşme davacı tarafından gönderilen 04.09.2012 tarihli ihtarname ile feshedilmiştir. Taraflar arasındaki birinci uyuşmazlık kar kaybına ilişkindir. Davalı kiraya verenler kiralananı davacıya TBK.nun 301. (818 Sayılı Borçlar Kanununun 249.) maddesinde düzenlenen kiralanan kullanıma hazır halde teslim etme yükümlülüğünü yerine getirmemişlerdir. Bu durumda kiracı kusursuz olduğunu kanıtlayamayan kiraya veren davalılardan kâr kaybı zararı adı altında bir miktar paranın kendisine ödenmesini isteyebilir.
 Ancak mahkemece kâr kaybı hesabı yapılırken davacı kiracının dava konusu kiralanan ile aynı vasıf ve özelliklere sahip başka bir taşınmazı aynı şartlarda ne kadar sürede kiralayabileceği bilirkişi aracılığıyla tespit edilerek bu süre ile sınırlı olarak kâr kaybı alacağına hükmedilmesi gerekir. Çözümlenmesi gereken ikinci uyuşmazlık ise makul süre içinde hükmedilmesi gereken kar mahrumiyetinin nasıl hesaplanacağına ilişkindir. Mahkemece davacının defterleri üzerinde
 
@@ -63,14 +75,20 @@ yapılan bilirkişi incelemesinde dükkanın kar etmediği tespit edilmiş mahke
 
 ## Yargıtay 6. HD 2015/6472 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/138050300)
+
 Davacı ile davalı A.. A.. arasında imzalanan 15.6.2008 başlangıç tarihli ve bir yıl süreli kira sözleşmesinin varlığı hususunda uyuşmazlık bulunmamaktadır. Sözleşmede taşınmazın kantin olarak kullanılacağı kararlaştırılmıştır. Taşınmazın 15.10.2008 tarihinde tahliye edildiğinin kabulü gerekir. Kiralanan erken tahliye edildiğine göre kural olarak kiracı, kira dönemi sonuna kadarki kira parasından sorumludur. Ancak Türk Borçlar Kanun'unun 114 maddesi göndermesi ile aynı Kanunun 52. maddesi uyarınca kiraya verenin de zararın artmasına neden olmaması gerekir. Kiracının sorumluluğu kiralananın kira sözleşmesindeki bedel ve koşullarda yeniden kiraya verilebileceği süre kadardır. Esasen kanun koyucu tarafından bu kural 6098 sayılı Türk Borçlar Kanun'unun 325. maddesi ile kanun hükmü haline getirilmiştir.
 Bu durumda Mahkemece kira sözleşmesine konu taşınmazın aynı şartlarla ne kadar süre içinde kiraya verilebileceği uzman bilirkişi aracılığıyla tespit edilerek, tespit edilecek bu makul süre kadar kira parasından kiracının taşınmazın yeniden kiraya verildiği tarih aşılmadan sorumlu tutulması gerekirken, makul kiraya verme süresi tespit edilmeden davacının taşınmazın yeniden kiraya verildiği tarihe kadar kira alacağından sorumlu tutulması doğru değildir.
 
 ## Yargıtay 20. HD 2015/5005 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/195492000)
+
 ... Asliye Ticaret Mahkemesi ise, TBK'nın 207 vd. maddeleri ile 470 vd. maddelerinde düzenlenen kat karşılığı inşaat sözleşmesinden kaynaklanan müspet zararın (kira kaybı, değer kaybı) tazmini talebine ilişkin işbu davanın mutlak ticari dava olmadığı gibi, arsa sahibi davalı-davacı ...'ın tacir olmadığı ve ticari işletmesinin bulunmadığı, tabiatıyla kat karşılığı inşaat sözleşmesinin ihlali dolayısıyla uğranılan zararlarla ilgili davranışların davalı yönünden ticari işletme kapsamında değerlendirilemeyeceği, dolayısıyla her iki tarafın tacir olması ve işin her iki tarafın ticari işletmesini ilgilendirmesi şartının olayda gerçekleşmediği nedenleriyle görevsizlik yönünde hüküm kurmuştur.
 
 ## Yargıtay 6. HD 2015/4939 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/147812500)
 
 Kira sözleşmesine konu kiralanan çatılı işyeri niteliğindedir. 6098 sayılı Türk Borçlar Kanunun 347. Maddesinde (Mülga 6570 Sayılı Kanunun 11. maddesi); “Konut ve çatılı işyeri kiralarında kiracı, belirli süreli sözleşmelerin süresinin bitiminden en az onbeş gün
 
@@ -79,20 +97,28 @@ Bu durumda kiracı kira sözleşmesinin süresi dolmadan sözleşmeyi feshederek
 
 ## Yargıtay 23. HD 2015/3409 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/200377400)
+
 Yüklenicilerden ... tarafından arsa sahibine gönderilen .... Noterliği'nin 20.03.2007 tarih ve 5965 yevmiye sayılı ihtarname ile sözleşmenin 6.maddesinde aşamalı tapu devri öngörülmesine ve tüm yükümlülüklerin yerine getirilmesine rağmen tapuların devredilmediği belirtilerek, 7 gün içinde yükleniciye devri gereken tapuların devredilmesi istenmiş, arsa sahibince yüklenicilere gönderilen .... Noterliği'nin 23.03.2007 tarih ve 2738 sayılı cevabi ihtarnamede ise düşük kalite malzeme kullanıldığı, bir kısım işlerin farklı yapıldığı, inşaatın geciktiği ve diğer yükleniciden ayrı talepte bulunulduğu belirtilerek devir talebi kabul edilmemiştir. Dosya kapsamındaki tapu kayıtlarından ve yapılan protokollerden yüklenicilere ait 4 adet bağımsız bölümün 16.04.2007 tarihinde yüklenicilere devredildiği, 2 no'lu beşinci bağımsız bölümün ise arsa sahibi uhdesinde olduğu anlaşılmaktadır. Arsa sahiplerine ait bağımsız bölümlerin yapı kullanma izin belgeleri 27.04.2007 tarihinde alınmıştır.
 Keşif sonrası bilirkişilerce düzenlenen ve hükme esas alınan 11.10.2010 tarihli birinci ek raporda, davacı karşı davalı yükleniciler lehine bir adet dubleks daire yönünden devrin gecikmesinden kaynaklı 19.778,43 TL kira alacağı hesaplanmış ve mahkemece arsa sahibinin alacağından takas ve mahsup edilmiştir. Oysa yüklenici tarafından çekilen ihtar 24.03.2007 tarihinde arsa sahibine tebliğ edilmiş olup, 7 günlük sürenin eklenmesi halinde 31.03.2007 tarihi ile söz konusu 4 adet bağımsız bölümün yüklenicilere devredildiği 16.04.2007 tarihleri arasında geçen süre için yükleniciler lehine kira kaybı hesaplanması gerekirken yalnızca bir daire için kira kaybı hesaplanması doğru olmamıştır.
 
 ## Yargıtay 23. HD 2015/2649 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/203121200)
 
 Somut olayda, arsa sahiplerince gecikme tazminatı alacağı bulunduğu ileri sürülerek asıl dava, eksik ve ayıplı işler bulunduğu ileri sürülerek, birleşen 2010/145 ve 2010/249 E. sayılı davalar açılmış olup, arsa sahiplerinin gecikme tazminatı alacağı ödenmeden veya eksik ve ayıplı işler tamamlanmadan ya da bedelleri ödenmeden, iskân ruhsatı alınmış olsa bile, sözleşmeye uygun teslim olgusunun gerçekleştiğinden söz edilemez. Yüklenici, arsa sahiplerinin sözleşmeden doğan haklarını teminat altına alabilmek amacıyla elde tuttuğu bağımsız bölüm veya bölümler ile ilgili tescile hak kazanamaz.
 Bu durumda mahkemece, asıl ve birleşen 2010/145 ve 2010/249 E. sayılı davalarda arsa sahipleri lehine hükmedilen tazminat tutarları ve devri yapılmamış olan bağımsız bölümlerin değerleri karşılaştırılarak, yüklenicinin hükmedilen tazminat tutarını karşılayacak değerde bağımsız bölüm ya da bölümlerin tapusunu tescile hak kazanmadığının kabulü ile bu bağımsız bölüm ya da bölümler yönünden bu gerekçe ile, hükmedilen tazminat tutarı dışında kalan bağımsız bölüm ya da bölümler bulunması halinde ise, karşı davada davacının munzam zarar kapsamında istediği banka kredisi kullanımının dava konusu olayla ilişkilendirilmediğinden yerinde görülmediği gerekçesiyle yetinilerek karşı davanın reddine karar verilmesi gerekirken, karşı davada davacının daireleri satamamaktan dolayı zarara uğradığını ileri sürmüş olduğu, kiraya verme amacından hiç söz etmemiş olduğu hususları gözardı edilerek, bu zararın kira kaybı olabileceği sonucuna varılarak kira kaybına hükmedilmesi, HMK'nın 26. maddesindeki taleple bağlılık ilkesine aykırı olmuştur.
 
 ## Yargıtay 6. HD 2015/3298 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/147001800)
+
 Kiralananın kiracı tarafından kira süresinden önce haksız olarak tahliye edilmesi halinde, kural olarak kiracı dönem sonuna kadar olan kira paralarından sorumludur. Ne var ki, kiraya verenin de tahliye sonrasında üzerine düşeni yerine getirmesi ve kiralananın yeniden kiraya verilmesi için çaba göstermesi gerekir. Bu durumda davacı kiracının sorumluluğu, kiralananın aynı koşullarla yeniden kiraya verilmesi için geçecek süre kira parası ile sınırlıdır. Dava konusu olayda, her ne kadar kiralanan, kiracı tarafından akde aykırılık nedeniyle açılan tahliye davası sonucu verilen karar gereği tahliye edilmiş ise de, kesinleşen tahliye kararına göre bu duruma davacı kiracının söz1eşmeye aykırı davranışları yol açmış, başka bir anlatımla kiralananın tahliyesine kiracı kendisi sebebiyet vermiştir. Bu durumda kiracı yukarıda açıklandığı üzere taşınmazın aynı koşullarla yeniden kiraya verilmesine kadar geçecek makul süre kira parasından sorumludur.
 Ancak taraflar arasındaki kira sözleşmesinin 14.4 maddesinin 2. cümlesinde bu süre bir ay olarak belirlenmiş olup mahkemece bu süreye karşılık olan kira parası hesaplanarak iadesi istenen kira bedelinden mahsubu ile sonucuna göre karar verilmesi gerekirken yazılı şekilde davanın tamamen kabulüne karar verilmesi doğru görülmediğinden hükmün bu sebeple bozulması gerekmiştir.
 
 ## Yargıtay 6. HD 2015/2459 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/148801500)
 
 Taraflar arasında imzalanan 15/11/2011 başlangıç tarihli 3 yıl süreli kira sözleşmesi konusunda bir uyuşmazlık bulunmamaktadır. Sözleşmenin özel şartlar 8. maddesinde davalının 10.000 TL depozito bedeli ödediği hükmü yer almaktadır. Erken tahliye halinde kural olarak davalı anahtar teslim tarihine kadar olan kira bedeli ve aidat borcundan, anahtar teslim tarihinden sonra ise, TBK 325. maddesine göre, kiralananın aynı şartlarda
 
@@ -100,10 +126,14 @@ kiralanabileceği makul süre kira bedelinden sorumludur. Davacının talebi ta�
 
 ## Yargıtay 6. HD 2015/2203 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/148260700)
+
 Somut olayda uyuşmalık konusu olmayan 08/03/2012 tarihli kira sözleşmesinin özel şartlar 8. maddesinde “Kiracı kira sözleşmesinin bitiminden bir ay önce yazılı bildirimde bulunmadığı sürece sözleşme bir yıl süre ile uzamış ve anı şartlarla yenilenmiş olur.” şekilde düzenlemeye yer verilmiş, bilirkişi tarafından yapılan keşif sonrası hazırlanan raporda ise iki aylık sürede yeniden kiraya verilebileceği tespit edilmiştir. Mahkemece kira sözleşmesinin 8 maddesinde taraflarca kararlaştırılan bir aylık süre makul süre olarak kabul edilerek bir aylık makul süre kira bedeline hükmedilmiştir. Sözleşmedeki bu madde kiracıya dilediği zaman sözleşmeyi feshetme hakkı tanıyan bir düzenleme değildir. 6570 Sayılı Yasanın 11. (TBK 347/1. fıkra) maddesi gereğince kiracı belirli süreli sözleşmenin süresinin bitiminden en az on beş gün önce bildirimde bulunmadıkça sözleşme aynı koşullarla bir yıl için uzar. Bu nedenle sözleşme sonunda kiracı tarafından sözleşmenin ne şekilde sona erdirileceğini düzenleyen maddenin, sözleşmenin tek taraflı olarak süresinden önce feshi halinde uygulanacak makul süre belirlemesi olarak kabul edilmesi mümkün değildir.
 Bu durumda TBK.nun 325.maddesi gereğince kiracının kira sözleşmesinden doğan borcu kiralananın benzer koşullarla kiraya verilebileceği makul bir süre için devam edeceğinden mahkemece bilirkişi tarafından tespit edilen iki aylık makul süre kira bedeline hükmetmek gerekirken hatalı değerlendirme ile kiracının bir aylık makul süre kira bedelinden sorumlu tutulması doğru görülmemiştir. Ayrıca makul süreye hükmederken sözleşmedeki artış şartının da dikkate alınması gerekmektedir.
 
 ## Yargıtay 6. HD 2015/2109 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/146651600)
 
 Kiralananın kiracı tarafından kira süresinden önce haksız olarak tahliye edilmesi halinde, kural olarak kiracı dönem sonuna kadar olan kira paralarından sorumludur. Ne var ki, kiraya verenin de tahliye sonrasında üzerine düşeni yerine getirmesi ve kiralananın yeniden kiraya verilmesi için çaba göstermesi gerekir. Bu durumda davalı kiracının sorumluluğu, kiralananın aynı koşullarla yeniden kiraya verilmesi için geçecek süre kira parası ile sınırlıdır. Dava konusu olayda, her ne kadar kiralanan, davacılar tarafından akde aykırılık nedeniyle açılan tahliye davası sonucu verilen karar gereği tahliye edilmiş ise de, bu duruma davalı kiracının söz1eşmeye aykırı davranışları yol açmış, başka bir anlatımla kiralananın tahliyesine davalı kiracı kendisi sebebiyet vermiştir. Bu durumda yukarıda açıklandığı üzere taşınmazın aynı koşullarla yeniden kiraya verilmesine kadar geçecek makul süre kira parasından sorumludur. Yargılama sırasında alınan 19.04.2013 tarihli ilk bilirkişi raporunda
 
@@ -111,13 +141,19 @@ da, bu hususa vurgu yapılmasına karşın, mahkemece bu konuda bir araştırma 
 
 ## Yargıtay 6. HD 2015/2024 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/148226700)
+
 O nedenle taşınmazın erken tahliye edildiğinin kabul edilmesi gerekir.Erken tahliye halinde kiracı kural olarak anahtar teslim tarihine kadar kira bedelinden anahtar teslim tarihinden sonrada TBK 325 maddesine göre kiralananın benzer koşullarda kiraya verilebileceği makul süre ile sorumludur.Mahkemece yapılacak iş:mahallinde konusunda uzman bilirkişi marifetiyle keşif yapılarak benzer koşullarda kiraya verilebileceği makul sürenin belirlenmesi belirlenen süre kadar kiradan da sorumlu tutulması gerekir.Öte yandan güvence parasının sözleşmede hangi hallerde iade edileceği hüküm altına alınmıştır.Kiraya veren tahliyeden sonra kiralananda tesbit yaptırdığı ve hor kullanmaya ilişkin bilirkişi raporu aldığına göre güvence parasının da kira bedelinden düşülmesi doğru olmadığı gibi yapılan takibte davalı kiraya veren kira alacağının tahsili için takip yaptığından ödendiği halde takip konusu edilen kısım dışındaki alacak yönünden kötü niyetli olarak kabul edilip davalı kiraya veren aleyhine %40 icra inkar tazminatına hükmedilmesi de doğru değildir.
 
 ## Yargıtay 6. HD 2015/1753 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/147506500)
+
 İİK.nun 67.maddesindeki düzenlemeye göre davacı yararına icra inkar tazminatına hükmedilmesi için davaya konu alacağın gerçek miktarın belli olması veya belirlenebilmesi için bütün unsurlarının borçlu tarafından bilinebilecek nitelikte bulunması, hakimin takdirine bağlı olmaması gerekir. Kiralanan taşınmazın tahliye edildiği 10.3.2011 tarihinden itibaren yeniden kiraya verilebileceği makul süre mahkemece yapılan yargılama sonunda bilirkişi raporu ile belirlendiğinden, likit olmayan 10.3.2011 ila 10.7.2011 tarihlerini kapsayan makul süre kira alacağı üzerinden davacı yararına icra inkar tazminatına hükmedilmesi doğru değildir.
 
 ## Yargıtay 6. HD 2015/1409 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/146113500)
 
 Olayımıza gelince; Taraflar arasında kira ilişkisinin varlığı hususunda uyuşmazlık bulunmamaktadır. Davalıya kiralanan yerde, davalının kusuru sonucu meydana gelen patlama nedeniyle davacılara ait binanın tamamında hasar oluştuğu, binanın yıkılmasını gerektirdiği, davacıların bina bedeli dışında, bina yapılıncaya kadar binadaki tüm kiralananlardan elde edeceği kira gelirlerinden de yoksun kaldığı açıktır. Bu nedenle davalı, olay tarihinden hasar gören bina ile aynı nitelikteki bir binanın yeniden yapılması süresine kadar mahrum kalınan kira kaybından sorumlu olacaktır. Haksız fiilin meydana gelmesiyle birlikte mahrum kalınan tüm kira zararının doğduğunun ve tamamının istenebilir hale geldiğinin kabulü gerekir. Ancak davacı vekilince olay tarihinden karar tarihine kadar olan süre için yoksun kalınan kira kaybı talep edilmiştir. Mahkemece bu hususlar üzerinde
 
@@ -125,13 +161,19 @@ durularak sonucuna göre karar verilmesi gerekirken yazılı şekilde karar veri
 
 ## Yargıtay 6. HD 2015/874 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/147585000)
+
 Kural olarak erken tahliye halinde kiracı anahtar teslim tarihine kadar kira bedeli ile sorumludur. Anahtar teslim tarihinden sonra ise TBK.nun 325.maddesine göre kiralananın aynı şartlarda yeniden kiraya verilebileceği makul süre kira bedeli ile sorumludur. Kiralanan yerin tahliye edildiğinin kabul edilebilmesi için, kiralananın filen boşaltılması yeterli değildir. Anahtarında kiralayana teslimi edilmesi gerekir. Kiralanan yerin filen boşaltıldığının ve anahtarın teslim edildiğinin kanıtlama yükümlülüğü kiracıya aittir. Anahtar tesliminin davacı kiracı tarafından yazılı belge ile kanıtlanması gerekir. Davacı kiracının anahtar teslim tarihini kanıtlayamaması durumunda kiraya verenin anahtar teslim tarihi olarak bildirdiği tarihe itibar edilir. Davacı taşınmazın Nisan sonunda, davalı ise Mart ayı sonunda tahliye edildiği belirtmiş olup davalı taraf yazılı bir delille anahtar teslimini ispat edemediğinden taşınmazın Nisan ayında tahliye edildiği mahkemece de kabul edilmiş olduğu halde ödenmeyen Nisan ayı kirasına ve davacı tarafından yönetime ödendiği belgelenen Nisan ayı aidatının davalıdan tahsiline hükmedilmemiş olması doğru değildir.
 
 ## Yargıtay 6. HD 2015/872 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/147936300)
+
 Kural olarak erken tahliye halinde kiracı anahtar teslim tarihine kadar kira bedeli ile sorumludur.Anahtar teslim tarihinden sonra ise TBK.nun 325.maddesine göre kiralananın aynı şartlarda yeniden kiraya verilebileceği makul süre kira bedeli ile sorumludur. Kiralanan yerin tahliye edildiğinin kabul edilebilmesi için, kiralananın filen boşaltılması yeterli değildir. Anahtarında kiralayana teslimi edilmesi gerekir. Kiralanan yerin filen boşaltıldığının ve anahtarın teslim edildiğinin kanıtlama yükümlülüğü kiracıya aittir. Kiracı tarafından taşınmaza ait anahtarların Kadıköy 4. Noterliğinin 17/09/2008 tarih ve 62715 sayılı emanet tespit tutanağı ile notere tevdi edildiğine ilişkin tutanak 22.09.2008 tarihinde davalı kiralayana tebliğ edilmiştir. Bu durumda davacı- karşı Davalı kiracılar 22.09.2008 tarihine kadar işleyen 22 günlük kira bedelinden sorumlu oldukları halde mahkemece 2008 yılı Eylül ayının tümünün kirasına hükmedilerek 8 günlük fazla kira bedeli ödemeye mahkum edilmesi doğru olmadığından hükmün bozulması gerekmiştir.
 
 ## Yargıtay 6. HD 2015/717 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/147463500)
 
 Davada dayanılan ve hükme esas alınan 15/04/2009 başlangıç tarihli ve beş yıl süreli kira sözleşmesi konusunda taraflar arasında bir uyuşmazlık bulunmamaktadır. Davacı kiraya veren tarafından, kira alacağının tahsili için takip başlatıldığı, davalı kiracının 14/12/2012 tarihinde kiralananın anahtarını icra dosyasına teslim ettiği anlaşılmış olup anahtarın icra dosyasına teslimine ilişkin muhtıranın davacıya hangi tarihte tebliğ edilmiş olduğuna ilişkin tebliğ belgesi dosya kapsamından anlaşılamamaktadır. Anahtarın icra dosyasına teslim edildiğinin kiraya verene tebliğ edildiğinin belirlenmesi halinde tebliğ tarihinde anahtar tesliminin gerçekleştiğinin kabulü gerekir. Kural olarak erken tahliye halinde kiracı anahtar teslim tarihine kadar kira bedeli ile anahtar teslim tarihinden sonra ise kiralananın aynı şartlarda yeniden kiraya verilebileceği makul süre kira bedeli ile sorumludur. Bu nedenle,
 
@@ -139,10 +181,14 @@ kiracının anahtar teslimine kadar kira bedelinden, anahtar tesliminden sonra d
 
 ## Yargıtay 6. HD 2015/725 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/148135100)
+
 Kira sözleşmesinde kiracı ve kefilin ortak olarak kuracakları şirket tarafından kiralananın kullanılacağına ilişkin bir hüküm bulunmamaktadır. Kira sözleşmesinde kiralanan cafe olarak kiraya verildiği halde, ... Belediye Encümenin 30.11.2010 tarihli kararında, dava dışı şirketin içkili lokanta olarak işyeri açma ve çalışma ruhsatı olmadan faaliyet gösterdiğinden bahisle işyerinin faaliyetten menine karar verilmiştir. Davalı kiracının cafe işletmek için belediyeye işyeri açma ve çalışma ruhsatı için yapılmış bir muracatı bulunmamaktadır. Davalı kiracının bizzat kendi adına iş yeri ruhsatı için başvurusu da bulunmadığından sözleşmenin feshinin haklı olduğu söylenemez.Buna rağmen davalı kiracı kiralananı tahliye ederek 01.03.2011 tarihinde anahtarları davacıya teslim etmiştir. Bu durumda erken tahliye nedeniyle anahtar teslimine kadar kira bedelinden kiracı ve kefilin, anahtar tesliminden sonrada makul süreyle kiracının sorumlu tutulması gerekir.
 Bu nedenle taşınmaz 01.03.2011 tarihinde tahliye edilip anahtarı da teslim edildiğine göre bu tarihten itibaren bilirkişilerce makul sürenin belirlenmesi kiralananın yeniden kiralandığı 25.05.2011 tarihi ile sınırlı olarak makul sürenin belirlenmesi ve bu süre kira bedeli ile kiracının sorumlu tutulması gerekirken bu husus üzerinde durulmadan yazılı şekilde karar verilmesi doğru olmadığından hükmün bozulması gerekmiştir.
 
 ## Yargıtay 6. HD 2015/573 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/147374800)
 
 Somut olayda uyuşmalık konusu olmayan 01.08.2009 tarihli kira sözleşmesinin 10. maddesinde “..kiracı kira dönemi sonunda kiralananı boşaltmak isterse bir ay önce kiralaya yazılı bilgi verecektir.” şekilde düzenlemeye yer verilmiş, bilirkişi tarafından ilgili madde sözleşmede taraflarca kararlaştırılan makul süre olarak kabul edilerek bir aylık kira bedeline makul süre kira bedeli olarak hükmedilmiştir. Sözleşmedeki madde kiracıya dilediği zaman sözleşmeyi feshetme hakkı tanıyan bir madde olmayıp, sözleşme sonunda kira sözleşmenin feshini düzenleyen bir hükümdür. 6570 Sayılı Yasanın 11. (TBK 347/1. cümle) maddesine karşılık bir düzenlemedir. Bu nedenle sözleşme sonunda kiracı tarafından sözleşmenin ne şekilde sona erdirileceğini düzenleyen maddenin, sözleşmenin tek taraflı olarak süresinden önce feshi halinde uygulanacak makul süre belirlemesi olarak kabul edilmesi mümkün değildir.
 Buna göre mahkemece yukarıda belirlenen ilkeler çerçevesinde, davacı sözleşme sonunu geçmemek üzere, taşınmazın tahliye tarihinden kiralananın aynı koşullarda yeniden kiraya verilebileceği tarihe kadar kira bedelinden kiracı sorumlu olacağından, bu yönden bilirkişiden rapor alınarak sonucuna göre karar verilmesi gerekirken, hatalı değerlendirme ile bir aylık makul süre kira bedelinden sorumlu tutulması doğru görülmemiştir.

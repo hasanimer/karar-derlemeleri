@@ -22,14 +22,20 @@ uyari: "Derleyenin seçtiği alıntılardır; kararın tamamı değildir. Künye
 
 ## Yargıtay 20. HD 2010/11838 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/826210500)
+
 -Prof.Dr. ... ... ve arkadaşları tarafından düzenlenen 08.03.2000 günlü raporda, taşınmazların sahih vakıf malı olmayıp, 4 Ekim 1926 tarihine kadar miri arazi niteliğinde taşınmaz olduğu, bu tarihten sonra tasarrufu mülkiyete dönüşerek, ... ... Efendi mirasçılarına intikal etmiş olduğu belirtilmişse de, bu görüşün sonucu yine değiştirmeyeceğini, çünkü Medeni Kanunun yürürlüğe girdiği 4 Ekim 1926 tarihinden, bu güne kadar 20 yıl geçmeden tapu sicilinde intikallerin yapılmış olması nedeniyle, yine bu halde de bu taşınmazların zamanaşımıyla kazanılasının mümkün olmadığını, kaldı ki; kazandırıcı amanaşımı ile mülkiyet iktisap edecek kişinin, taşınmaza malik sıfatıyla, çekişmesiz, aralıksız, yirmi yıl süreyle zilyet olması gerektiğini, malik sıfatıyla zilyet, başkasının üstün zilyetliğini tanımayan kimse olduğunu, kira bedeli ödeyen zilyedin ise malik sıfatıyla zilyet olamayacağını, tapu kayıtlarının doğru temale dayandığı, düzenli bir şekilde gittilerinin bulunduğu ve bu nedenle hukuken geçerli tapu kayıtları olduğunu, bu görüşün daha önceki 7. Hukuk Dairesinin 26.02.1991 gün 1990/11579-2459 sayılı bozma kararında da aynen benimsendiğini" bildirmiştir.
 
 ## Yargıtay 19. HD 2010/9648 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/812162300)
 
 Mahkemece toplanan delillere ve bilirkişi raporuna göre davalının söz konusu restaurantının 15.05.2006-14.05.2007 tarihleri arasındaki dönemde demirbaşları ile birlikte bir senelik kira bedeli 50.000 TL karşılığında davacıya devren kiralanması konusunda tarafların anlaştıkları ve davalı tarafa toplam 22.603 TL’nin ödendiğinin sabit olduğu, davacının 06.07.2006 tarihli ihtarname ile söz konusu işletmenin ayıplı olduğunu bildirerek kira devir anlaşmasını tek yanlı olarak feshetmiş ise de, masa, sandalye ve diğer malzemelerin geç teslim edilmesinin gizli ayıp niteliğinde olmadığı, işyeri açma ve çalışma ruhsatı ile işletme izin belgesinin kira devir sözleşmesi kurulduğu anda mevcut olduğu, tatil günlerinde çalışma ruhsatının ise kira devir sözleşmesinden sonra ancak, fesihten önce düzenlendiği, işletmenin elektrik sisteminde arızalar bulunması ve yeterli topraklama sisteminin bulunmaması hususunda davacının davalı tarafa bunların giderilmesi yönünde herhangi bir mehil vermediği, söz konusu yeri 15.05.2006-17.07.2006 tarihleri arasında fiilen kullanıp işlettiği, ihtarnamede bildirilen ayıpların gizli ayıp niteliğinde olmadığı ve iddia edilen ayıpların sübut bulmadığı, böylelikle
 davacının kira sözleşmesini feshetmekte haklı olmadığı gerekçeleriyle davanın reddine karar verilmiş, hüküm davacı vekili tarafından temyiz edilmiştir.
 
 ## Yargıtay 3. HD 2010/10164 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/965310100)
 
 Kiralananın amacına uygun kullanılabilmesi için kiralayanın ayıpsız teslim borcu vardır (BK.nun 249/1 maddesi) Kiraladığı yer için kiracının işletme ruhsatı alması vazgeçilmez bir zorunluluk olup, kiralanan şeyin ayıpları ise kiralayanın tekelfülü altında kabul edilir. Kiralanan ayıplı ise ve bu ayıp, kiralananın sözleşme ile güdülen amacına uygun biçimde
 
@@ -37,13 +43,19 @@ kullanılmasını ve işletilmesine imkansız kılacak çeşitten ise; kiracı, 
 
 ## Yargıtay 6. HD 2010/6570 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/644270000)
+
 İhtiyaç nedenine dayanan tahliye davalarında ihtiyaç nedeninin yalnızca davanın açıldığı tarihte varlığı yeterli olmayıp, yargılama süresince de ihtiyaç nedeninin devam etmesi gerekmektedir. Dava konusu kiralananın yargılama sırasında satıldığına göre davanın ihtiyaç nedeni de ortadan kalkmıştır. Artık ihtiyaç iddiasının gerçek ve samimi olduğundan söz edilemez. Bu durumda davalının mahkeme masrafları ve vekalet ücreti ile sorumlu tutulması hatalı olmuştur.
 
 ## Yargıtay 11. HD 2010/5076 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1020645200)
+
 Asıl ve birleşen dava, kooperatif ortaklığına dayalı tapu iptal ve tescil, ayıplı ve eksik imalat ile konut teslim edilmemesi nedeniyle kira kaybı tazminatlarının tahsili istemlerine ilişkindir. Davacının, davalı kooperatifte iki ortaklığının bulunduğu, davanın bu iki ortaklığa dayalı olarak açıldığı ve yargılama sırasında bir ortaklık dolayısıyla anlaşmanın sağlandığı hususları uyuşmazlık konusu değildir. Yapılan yargılama sonucunda davacının uyuşmazlığa konu ortaklıklarına ilişkin olarak halen bir takım akçalı yükümlülüklerini yerine getirmediği, aidat borcunun bulunduğu tespit edilmiştir. Esasen, bu yön davacı tarafın da kabulündedir. Ayrıca, uyuşmazlığa konu taşınmazda keşif tarihi itibariyle ayıplı veya eksik imalat tespit edilmemiştir. Esasen, davacı vekilinin ayıplı ve eksik imalata yönelik temyiz itirazı da bulunmamaktadır.
 
 ## Yargıtay 13. HD 2010/4572 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/772028200)
 
 Kural olarak kiralayanın ayıba karşı tekeffül borcu; sözleşme ile Sınırlanabilir veya kaldırılabilir. Bu yön BK. md. 249/F-III'ün karşı yorumundan eski deyimiyle mefhumu muhalifinden ve satıma ilişkin BK.md.196'ya kıyasen çıkarılabilir (Bkz. Prof.Dr. ... Tandoğan, Borçlar Hukuku Özel Borç İlişkileri, Cilt:1/2, Üçüncü Bası, Sh.123). Fakat sorumluluktan kurtulma şartı iki halde geçerli olmaz. Bunlar; kiralayanın hilesi veya ağır kusurunun varlığıdır (BK. md.196 ve 99/F-I). Burada davalı kiralayanın kiraya verdiği taşınmazın imar planında yola ayrıldığınıaraştırma ve soruşturma yapmadan taşınmazını, kiraya çıkarması ağır kusurunu gösterir. O nedenle şartnamenin 15. maddesindeki sorumluluktan kurtulma şartı hukuken geçersizdir, davacıyı bağlamaz. Yeri gelmişken hemen belirtelim ki, tekeffülü kaldıran veya sınırlayan kayıtlar kiracı lehine ve sınırlı olarak yorumlanmalıdır (Bkz. Tandoğan, age., sh:123, dipnot 50; Oser-Schönenberger, Art. 254 Nr.15).Bu kuraldan da hareket edildiğinde denilebilir ki; sözleşmede kiracı, sınırları açıkca
 
@@ -51,10 +63,14 @@ belirtilmiş bir ... verse bile, bu yalnız başına Yasal tekeffülü kaldırd�
 
 ## Yargıtay 3. HD 2010/3141 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/968739200)
+
 Gerçekten de davacının dayandığı 17.12.1981 başlangıç ve 31.08.1986 bitim tarihli sözleşme fotokopisi ... bir sahifeden ibaret olup, taraf imzalarını içermemektedir. Ayrıca davacının bizzat sunduğu makbuzlardan idareye ödediği bedelinde kira bedeli olmayıp, ecrimisil olduğu anlaşılmaktadır. Nitekim davacının işgalci kabul edilerek kendisine çeşitli tarihlerde ecrimisil ihbarnamesi çıkarıldığı her iki tarafın da kabulündedir. O halde, davalı ... Hazinesine ait taşınmazı geçerli bir kira sözleşmesine dayalı olarak kullandığını ispat edemeyen davacının iyiniyet iddiası kabul edilemez. Ancak, keşif raporunda belirtilen ağaç ve yapıların davacıya ait olduğu da yanlar arasında tartışmasızdır. Bu takdirde TMK.nun 723 - 729. maddelerinde yer alan ” malzeme sökülüp alınamaz ise, arazi maliki malzeme sahibine uygun bir tazminat ödemekle yükümlüdür. Yapıyı yaptıran malzeme sahibi iyiniyetli değilse, hakimin hükmedeceği miktar, bu malzemenin arazi maliki için taşıdığı en az değeri geçmeyebilir” hükmü gereğince bir karar verilmelidir. Anılan hüküm esas itibariyle BK.nun 61 vd. maddelerinde düzenlenen sebepsiz zenginleşmenin özel bir halidir.
 Davacının iyiniyetli olduğu ispat edilemediğine ve malzeme de sökülüp alınmadığına göre hükmedilecek miktar davacının yaptığı giderler olmayıp, bu malzemeler nedeniyle taşınmaz malikinin zenginleştiği miktardır. Bu miktar TMK'nun 723/son maddesinde belirtildiği üzere, malzemenin arazi maliki için taşıdığı en az değeri ifade ettiğinden, davada olayların özelliğine bakan hakimin TMK'nun 4.maddesinin kendisine tanıdığı takdir yetkisini de kullanarak bir karar vermesi gerekmektedir.
 
 ## Yargıtay 14. HD 2009/11535 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/848384600)
 
 Hâsılat kirasında kiralayanın önde gelen borcu, BK. m. 272 hükmüne göre, kiralananla birlikte kiralanmış menkul şeyler varsa bunlar dahi dahil olduğu halde kiralananı akitten maksut olan kullanmaya ve işletmeye salih bir halde kiracıya teslim borcudur. Teslim kavramı, kiralananın ve bunların içinde menkul şeyler varsa bunların da sözleşmedeki amaca uygun bir şekilde kullanılmak ve işletilmek üzere kiracıya terk edilmesini ifade eder. İşletmeye elverişli teslimden kastedilen, işletmenin varsa hukuki ve fiili ayıplardan arındırılmış, bütün malzeme, bina ve imtiyazlar ile ruhsatların noksansız teslimidir. Kiralayanın işletmeyi, hukuki ayıplı olarak veya işletme için fiili engelleri kaldırılmadan teslim etmesi demek “ teslim borcunu ifada” temerrüde düşmesi demektir. Teslim borcunda temerrüde düşen kiralayan kiracıya karşı BK. m. 272 f.2’nin yaptığı gönderme sebebiyle kiracıya karşı adi kiraya ilişkin hükümler uyarınca sorumlu olduğu gibi işletme faaliyetlerinin ayıplı teslimden kaynaklanan nedenlerle sürdürülmesi sonucu üçüncü kişilerin uğradığı zararlardan da işletmeci ile birlikte (müteselsil) sorumludur.
 Gerçekten, birden çok borçludan her birinin sözleşme veya kanun gereği alacaklıya karşı borcun tamamından sorumlu olduğu ve alacaklının borcun tamamını borçluların her birinden talep
@@ -63,35 +79,51 @@ edebileceği ancak borçlulardan birinin ifası ile sona eren borç ilişkisi va
 
 ## Yargıtay 15. HD 2009/4849 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/855068600)
+
 Yanlar arasında imzalanan 01.10.2005 tarihli sözleşmenin konusu davacı kuruluşa ait uçakların dış hat uçuşlarında televizyonun reklam kuşaklarının kiralanması ve bu kira karşılığı davacı yana bedel ödenmesidir. Taraflar arasında BK’nın 355 ve devamı maddelerinde düzenlenen eser sözleşmesi ilişkisi bulunmayıp, hukuksal niteliğince uçaklarda bulunan televizyon ekranlarının dava dışı şahıs ya da şirketlerin reklamlarının bedel karşılığı kullanımı için kiralanmasına ilişkindir. Uyuşmazlık tacirler arasında kira sözleşmesinden doğan itirazın iptâli istemine ilişkin olduğundan temyiz incelemesi yapma görevi Dairemize ait olmayıp Yargıtay Yüksek 19. Hukuk Dairesi görev alanında kalmaktadır. Ancak anılan dairece de görevsizlik kararı verildiğinden görevli dairenin belirlenmesi için dosyanın Yargıtay Hukuk Daireleri Başkanlar Kurulu’na gönderilmesi gerekmiştir.
 
 ## Yargıtay 3. HD 2009/11409 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/83962200)
+
 Kiralananın amacına uygun kullanılabilmesi için kiralayanın ayıpsız teslim borcu vardır (BK.nun 249/1.maddesi). Kiraladığı yer için kiracının işletme ruhsatı alınması vazgeçilmez bir zorunluluk olup, kiralanan şeyin ayıpları ise kiralayanın tekeffülü altında kabul edilir. Kiralanan ayıplı ise ve bu ayıp, kiralananın; sözleşme ile güdülen amaca uygun biçimde kullanılmasını ve işletilmesini imkansız kılacak çeşitten ise, kiracı sözleşmeden dönme hakkını kullanabilir. (BK.mad. 249-250-106-108).
 
 ## Yargıtay 13. HD 2009/6001 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/831847200)
 
 4077 sayılı yasanın 4/2 maddesi ayıplı malın neden olduğu zararlardan satıcıyı sorumlu tutmuştur. Aynı yasanın 30.maddesi bu kanunda hüküm bulunmayan hallerde genel hükümlerin uygulanacağını öngörmüştür. BK. 202 maddesi yollamasıyla BK.nun 205.maddesinin 2.fıkrası; ".... Satıcı, bunlardan maada alıcıya ayıplı mal teslim etmesinden doğrudan doğruya tevellüt etmiş olan zararıda ayrıca tazmin etmeye mecburdur", 3.fıkrası "Satıcı kendisine hiçbir kusur isnat edilemeyeceğini ispat etmedikçe, alıcının diğer her türlü zararlarını tazmin etmeye mecburdur." düzenlemesini getirmiştir. Bu yasal düzenleme doğrultusunda davalı hiçbir kusuru olmadığını kanıtlamadıkça oluşan davacı zararından sorumludur. Davalılar, toplanan delillerle kusurlu olmadıklarını kanıtlamayadıklarından tüketicinin ihtiyacını karşılamak için araç kiralamak zorunda kalmasından doğan zararıda karşılamakla yükümlüdür. (Tüketicinin Korunması Hukuku Prof. Aydan .... Görevlisi ... 2004 Baskı sayfa 133.) Bu bağlamda davacı aracın ayıplı olması ve kullanamaması nedeniyle uğradığı zararı, isteyebilir.
 Mahkemece, öncelikle davacıdan araç yoksunluğu nedeniyle yapmak zorunda kaldığı masraflara ilişkin delilleri sorulup, toplanarak sonucuna uygun bir karar verilmesi gerekirken, yazılı gerekçe ile davanın reddine karar verilmesi usul ve yasaya aykırı olup, bozma nedenidir.
 
 ## Yargıtay 14. HD 2009/4523 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/848108600)
+
 Bilindiği üzere, kira sözleşmesinin konusu, bir şeyin geçici surette kullanımının kiracıya bırakılmasıdır. Kiracıya sözleşme ile devri yapılan kullanma hakkı şahsi nitelikte olduğundan, kiracı malik olmaz. Kiracı ancak kiralananın teslimiyle o şey üzerinde fer'i zilyet olur ve zilyetlikten kaynaklanan savunma haklarını kullanır. Kiralayana karşı ise, sözleşmeden kaynaklanan haklarını ileri sürebilir. Kiralayanın sözleşme süresi boyunca kira konusu şeyin kullanımına uygun bulundurma yükümlülüğü bulunmakta olup bu husus Borçlar Kanununun 249/1. maddesinde "Kiralayan, kiralananı akitten mahsut olan kullanmaya ... bir halde kiracıya teslim etmek ve kira müddeti zarfında bu halde bulundurmak ile mükelleftir" şeklinde ifade edilmiştir. Buna göre kiralayan, kiralananı kullanıma elverişli şekilde teslim ederken kullanım amacını gözeterek, diğer bir deyişle kira sözleşmesinde kararlaştırılan ve kiracının beklediği menfaati sağlamasına yardımcı olmalıdır. Aksi halde, teslim borcunun yerine getirildiğinin kabulü olanaklı değildir.
 
 ## Yargıtay 15. HD 2009/21 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/853443200)
 
 Sözleşmenin 9. maddesinde düzenlenen hüküm, hukuki niteliği itibariyle BK’nın 158/II. maddesinde belirtilen ifaya ekli cezai şart olmayıp, dayanağını BK’nın 106/II. maddesinden alan ve gecikme sebebiyle oluşan zarar ve ziyanın tazminini amaçlayan bir hükümdür. Bu itibarla gecikme tazminatı mahiyetindeki bu istemin teslimde itirazî kayıt ileri sürülmesine gerek olmadan sözleşme uyarınca teslimi gereken tarihten, inşaatın sözleşme koşullarına uygun şekilde bitirilip teslim edildiği tarihe kadarki dönem için ve zamanaşımı süresi içinde dava konusu yapılabilmesi mümkündür. Belirtilen hukuki duruma göre yüklenicilerin geciktiği tüm süre için gecikme veya somut olaydaki özelliği dikkate alınarak adlandırılacak olursa kira tazminatına hükmedilmek gerekirken, tazminata esas sürenin eksik işlerin tamamlanabileceği süre ile sınırlandırılması doğru olmadığı gibi, cezai şart niteliği taşımayan gecikme tazminatının olayda uygulama yeri bulunmayan BK’nın 161/III. maddesi uyarınca tenkisi de usul ve yasaya aykırı olmuştur.
 Kaldı ki kabule göre de, dava konusu iş TTK’nın 12/III. maddesine göre ticari bir iş, davalı yükleniciler de dolayısıyla tacir sıfatına haiz olduklarından TTK’nın 24. maddesi uyarınca haklarında hükmedilecek cezai şartın tenkis edilemeyeceğinin nazara alınmaması da yerinde olmamıştır.
 
 ## Yargıtay 14. HD 2008/14910 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/855955300)
+
 Eldeki davada davacı ..., yola ihtiyacı olduğunu ileri sürdüğü 342 parsel sayılı taşınmazın maliki olmayıp kiracısıdır. Taşınmaz Hazine adına tapuda kayıtlıdır. Kiracının kiraladığı taşınmaz lehine geçit hakkı istenmesi mümkün değildir. Zira kendisi şahsi hak sahibidir. Dava ehliyeti, dava şartlarından olduğundan mahkemece re'sen göz önüne alınması gerekir. Mahkemece, davacı ...'ün davada davacı olma sıfatı bulunmadığından davanın reddine karar vermek gerekirken yazılı gerekçelerle davanın kabulüne karar verilmesi doğru değildir.
 
 ## Yargıtay 14. HD 2008/8035 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/848440200)
+
 Yapılan bu hukuki saptamadan sonra, mahkemece yapılması gereken iş; konusunda uzman kişilerden oluşturulacak bilirkişi kuruluna yerinde yeniden keşif yapılarak, dosyada mevcut delil tespiti suretiyle alınan bilirkişi raporundan da faydalanılarak, taraflar arasındaki 10.06.2006 günlü sözleşme hükümleri bütünü ile okunup, tarafların sözleşme yapmalarındaki ortak irade hakkında bir kanaate varıldıktan sonra, davalı kiralayanın davacı kiracıya sözleşmedeki amaca uygun işleri yürütmek üzere yeterli mekan sağlayıp sağlamadığı (Borçlar Kanununun m.249/I hükmündeki borcunu ifa edip etmediği), dolayısı ile sözleşmedeki kira parasını talebe haklı olup olmadığı, sağlandığı saptanacak mekanın davacıyı sözleşmeyi sürdürmeye zorlayıp zorlayamayacağı, mevcut hali ile davacının sözleşmeyi sürdürmeye zorunlu bulunduğu saptanırsa ve ancak sözleşmede yazılı işleri sürdürmek üzere sağlanması gereken alana rağmen daha az bir alan teslim edilmişse, davacının bundan dolayı kira parasında indirim ... olup olmadığı ve miktarı belirlenmeli, bu konuda Yargıtay denetimine elverişli bilirkişi raporu alınarak sonucuna uygun bir hüküm kurulmalıdır.
 
 ## Yargıtay 3. HD 2008/3477 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/83963600)
 
 Kiralananın amacına uygun kullanılabilmesi için kiralayanın ayıpsız teslim borcu vardır. Kiraladığı yer için kiracının işletme ruhsatı alınması vazgeçilmez bir zorunluluk olup, kiralanan şeyin ayıpları ise kiralayanın tekeffülü altında kabul edilir. Kiralanan ayıplı ise ve bu ayıp kiralananın sözleşme ile güdülen amaca uygun biçimde kullanılmasını ve işletilmesini imkansız kılacak çeşitten ise, kiracı sözleşmeden dönme hakkını kullanabilir ( BK. mad. 249-250-106-108 ).
 
@@ -122,6 +154,8 @@ alüminyum kompozit panelin bedelsiz olarak teslim edilmesi taahhüt edilmiş, a
 
 ## Ankara BAM 22. HD 2026/671 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1210059900)
+
 Cezai şart talebi yönünden ise: Kira sözleşmesindeki cezai şartın gerçekten işletilip işletilmediği cezai şartın araçtaki ayıp nedeniyle doğduğu araştırılmalıdır. Sadece sözleşmede cezai şart bulunması yeterli olmayıp, bunun fiilen doğmuş ve ispatlanmış olması gerekir. Dava dışı şirket tarafından cezai şart alacağına ilişkin tahakkuku yapılan fatura sözleşmenin feshi ile araçtaki arıza arasında uygun illiyet bağı bulunup bulunmadığı, davacının zararın önlenmesi yükümlülüğü lastiklerin makul sürede tamir ettirme çabası
 
 zararı arttırıcı davranışının bulunup bulunmadığı makul tamir süresinin tayini ile tüm deliller birlikte değerlendirilip karar verilmesi gerekir.
@@ -132,28 +166,40 @@ O halde Mahkemece yapılacak iş; oluşturulan bilirkişi heyetinden,..., ..., .
 
 ## İstanbul BAM 15. HD 2026/541 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1208371300)
+
 Noterliğinin ... yevmiye nolu 26.02.2018 tarihli ihtarnameleri, davalı şirket tarafından, feshe gerekçe hazırlamaya yönelik olmayıp, aksine ihtarnamede belirtilen gerekçelerle sözleşmenin haklı nedenle feshedildiğinin açık ve net göstergesi olduğunu, davacı şirket ile davalı şirket arasında ticari ilişki uzun yıllara dayanmakta olup davacı davalı şirketin yükümlülüğünde olan başka işlerde de taşeronluk yapmış olup davaya konu işin yapımı için yapılan görüşmelerde davacı şirket yetkilisi ... ... “işin yapımında kullanılacak bütün makine ekipmana sahip olduğunu ve fazla harcama yapmadan işi bitireceğini “ belirtmiş olup, aralarındaki ticari ilişkiye güvenilerek işin yapımı davacı şirkete verilmiş olduğunu Fakat davacı bu beyanlarda bulunmamış gibi bir kısmı taşeron sözleşmesi imzalanmadan bir kısmı sözleşme imzalandıktan sonra olmak üzere yeni makine, ekipman satın alma ve kiralama işlemi gerçekleştirmiş ve kötü niyetli olarak bu fahiş harcamayı davalı şirketten tahsil etmeye çalışmakta olduğunu, davacının ...
 
 ## İstanbul BAM 15. HD 2026/444 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1203512300)
+
 Dairemizce bozma ilamına uyulmuş ve dosyanın yeni bir bilirkişi kuruluna tevdi edilerek Yargıtay bozma ilamı doğrultusunda; birleşen dosya davalısından taleplerini açıklayıp, ayrıştırdığı, 30.03.2023 tarihli dilekçe sunulmuştur. Ayrıca bozma ilamı gereği; Ordu merkezdeki 63 nolu fındık deposu yönünden, birleşen davalarda davacı iş sahibi ... tarafından talep edilen 15/07/2009 yıkım tarihinden birleşen dava tarihlerine kadar olan kira kaybı ile taşıma ücretinin dosyadaki bu hususa ilişkin diğer bilirkişi raporlarındaki çelişkiler de giderilerek hesaplanması için, İstanbul Nöbetçi Asliye Ticaret Mahkemesi'ne talimat yazılmasına karar verilmiş ve bu yeni heyetten alınan kök ve ek raporun, taraf itirazları da nazara alınarak yetersiz bulunması sonucu dosya yeni bir heyete tevdi edilerek; yeni bir rapor alınmıştır.
 
 ## Ankara BAM 27. HD 2026/397 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1205064500)
 
 Asliye Ticaret Mahkemeleri dosyalarına konu ayıplı imalat nedeniyle fazladan yapılan duvar, iş ve işlemeler için yaptığı masrafları talep edemeyeceği gibi hatalı yaklaşım..vs nedenler ileri sürülerek hatıl projelendirme den kaynaklı yer kaybı m2 zararı ile kar mahrumiyeti ve kira kaybını ... Mimarlıkta talep edemeyeceği, asıl davada; ... İnşaatın, proje müellifi ... Mimarlığa elden belediyedeki işler için makbuz karşılığı verdiği 391.000,00 TL’nin iade edilmediğinden bahisle takip başlatılmış ve itiraz üzerine itirazın iptali istenmiş ise de, dosyada alınan tüm bilirkişi raporlarında sunulan ödeme makbuzları ile belediye tahsilat makbuzları ve de iade makbuzların göre (tarihleri de nazara alındığında) iade edilmeyen bir bedelin olmadığı nın belirlendiği, ayrıca ... İnşaatın, Ankara 1. Asliye Ticaret Mahkemesi dosyasında, ... Mimarlığa yaptığı işten fazla bir ödemenin yapıldığı iddia edilmiş ise de, ... Mimarlığın sözleşme kapsamında yaptığı projenin belediyesince yapı ruhsatına bağlanarak onaylandığından, eksik işin ve bu nedenle de ödenen fazla bir bedelin olmadığı nazara alınarak başlatılan takibe itirazın yerinde olduğu, birleşen Ankara 8.
 Asliye Ticaret Mahkemesi dosyasında Proje müellifi ... Mimarlık tarafından ... İnşaat aleyhinde açılan; proje danışmanlık hizmeti bedeli, eskalasyon bedeli/fiyat farkı, fatura bedeli ile ek proje hizmeti bedeli ve ödenmeye iş bedeli istemli davada ise; yapı ruhsatından toplam inşaat alanının 117.674 m2 olup sözleşme kapsamında kaldığından 100.000 m2 alandan daha fazla proje yapıldığı ileri sürülerek ... Mimarlığın hak talep edemeyeceği , ancak sözleşmenin 3. ve 5. maddeleri ne göre yapı ruhsatından sonraki değişiklikler için hak talebinde bulunabileceğini, bu kapsamda ... İnşaat şirketinin 17.02.2016 tarihli elektronik posta yazışmasında, ... Mimarlığın 36.294 m2 fark talebinin, (36.294 m2 - 117.674 m2) 18.620 m2 olarak kabul edildiği ve 1 m2 proje değişikliği (revizyon) bedeli kdv dahil 1.050. 200 TL / 117.674 m2 = 8.98 TL/m2 fark bedel birim ücreti olarak ...
 
 ## İstanbul BAM 13. HD 2026/570 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1200850200)
+
 Şti firması arasında .../05/2018 tarihinde imzalanan Hazır Beton Satış Sözleşmesinin maddeleri incelenerek dava konusu ayıplı olduğu ileri sürülen hazır betonun sözleşmede belirtilen özellikte olup olmadığı, sözleşme uyarınca davalının sorumluluğunun bulunup bulunmadığı, ayrıca dava dışı taşeron firmanın işçilerinin ve kiraladığı vinçin dava konusu inşaat dışında başka inşaatlarda kullanılıp kullanılmadığı tartışılıp değerlendirilmeden yetersiz bilirkişi raporuna dayanılarak karar verilmesi yerinde görülmemiştir. Sonuç itibariyle, davalı vekilinin istinaf başvurusunun kabulü ile ilk derece mahkeme kararının HMK' nın 353/1-a-6 maddesi gereğince kaldırılmasına, dosyanın mahkemesine gönderilmesi gerektiği kanaatine varılarak aşağıdaki hüküm kurulmuştur.
 
 ## Tekirdağ BAM 4. HD 2026/322 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1200219800)
 
 Borçluya kambiyo senedinin bedelsiz kaldığını ileri sürmek def'i verilmekle birlikte kamu güvenine mazhar olma ilkesinin bir yansıması olarak emre ve hamiline yazılı kambiyo senetlerinde, iyi niyetli hamilin güveni korunmaktadır. Bu bağlamda emre ve hamiline yazılı kambiyo senetleri ciro edilerek devredildiğinde borçlu, kişisel defilerini ancak defiyle bağlantılı kişilere karşı ileri sürebilir. Eş söyleyişle borçlu alacaklısıyla olan defilerini iyi niyetli üçüncü kişilere karşı ileri süremez, meğerki üçüncü kişi senedi devralırken bile bile borçlunun zararına hareket etmiş olsun. (TTK m.659/2, 687/1, 825/2). Örneğin aralarındaki kira sözleşmesi uyarınca kira ücreti uğruna lehtarı B’ye bono düzenleyen keşideci A,
 
 görünüşe güven ilkesi (TTK m.680, 686/2) gereği senedi iyi niyetle devralan C’ye karşı B’nin kiralananı ayıplı teslim ettiğini ileri sürerek bono bedelini ödemekten kaçınamaz. A, yalnızca C’nin kiralananın ayıplı teslim edildiğini bilerek A’nın bir bedel ödemek zorunda kalması için senedi devraldığını ispatladığı takdirde bu kişisel defiyi C’ye karşı da ileri sürebilir.
 
 ## İstanbul BAM 13. HD 2026/444 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1199148700)
 
 Konkasör kırıcı makinenin davacı tarafça, yurt dışına satıldığı satılmış olması kullanılabilir durumda olduğunu gösterdiği belirtilmiştir.TBK'nun 219 maddesi uyarınca satıcı alıcıya karşı herhangi bir surette bildirdiği niteliklerin satılanda bulunmaması sebebiyle sorumlu olduğu gibi, nitelik veya niteliği etkileyen niceliğine aykırı olan, kullanım amacı bakımından değerini ve alıcının ondan beklediği faydaları ortadan kaldıran veya önemli ölçüde azaltan maddi, hukuki ya da ekonomik ayıpların bulunmasından da, bu ayıpların varlığını bilmese dahi sorumlu ise de, dava konusu konkasörde imalat hatası kaynaklı gizli bir ayıbın mevcut olmadığı, dosya kapsamına göre taraflar arasında finansal kiralama sözleşme ilişkisi kurulmadan önce, davaya konu makinenin bazalt madenine uygun olup olmadığı araştırması davacı şirketin yapması gereken bir yükümlülük olmakla beraber davacı bu gereği yerine getirmediği gibi davacının söz konusu makineyi kapasitesinin üzerinde çalıştırdığı, ayrıca uygun taşı kullanmayarak da makinenin arızalanmasına sebebiyet verdiği, davalı tarafın dava konusu ürünün çalışma kapasitesine ilişkin taahhütte bulunduğuna ilişkin dosya kapsamı itibariyle delil olmadığı ve
 ilgili sorunların davacı tarafın kullanım hatasından kaynaklandığı tespit edilmiştir. Bu tespitler doğrultusunda İlk derece mahkemesince davanın reddine yönelik verilen hüküm ve gerekçesinde yasa ve usule aykırılık bulunmadığı gibi kamu düzenine aykırılık da görülmediğinden, davacı vekilinin mahkemenin kabulüne ilişkin aksi yöndeki istinaf sebepleri yerinde görülmemiştir. Sonuç itibariyle, davacı vekilinin istinaf başvurusunun HMK'nın 353/1-b1 maddesi gereğince esastan reddine karar verilerek, aşağıdaki şekilde hüküm kurulmuştur.

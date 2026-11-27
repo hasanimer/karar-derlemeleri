@@ -23,9 +23,13 @@ uyari: "Derleyenin seçtiği alıntılardır; kararın tamamı değildir. Künye
 
 ## Yargıtay 19. HD 2009/10011 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/887299200)
+
 Hükme esas alınan bilirkişi raporu yeterli incelemeyi içermediği gibi Yargıtay denetimine de elverişli değildir. Taraflar arasında akdedilen ilk sözleşmeden sonra bir takım ek sözleşmeler düzenlenmiş ve tarihsiz sözleşmede, sözleşmenin başlangıç tarihi olarak kiralananın bulunduğu alışveriş merkezinin fiili açılış tarihinin esas alınacağı kararlaştırılmıştır. Bu durumda mahkemece belirtilen ek sözleşmeler ve anılan tarihsiz sözleşmedeki başlangıç tarihine ilişkin hüküm üzerinde durulup tartışılarak uyuşmazlığın çözümü yoluna gidilmesi ve ayrıca kiralananın yeniden kiraya verilebilmesi için gereken makul süre yönünden bilirkişiden görüş alınarak kiracının sorumluluğunun bu makul süreye ilişkin kira bedeline yönelik olması gerektiği de gözetilerek Yargıtay denetimine elverişli ve ayrıntılı rapor alınıp tüm deliller birlikte değerlendirilmek suretiyle varılacak uygun sonuç dairesinde bir karar verilmesi gerekirken eksik inceleme ile yazılı şekilde hüküm kurulması doğru görülmemiştir.
 
 ## Yargıtay 15. HD 2009/3391 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/854535500)
 
 Yanlar arasındaki sözleşmenin inşaat süresi başlıklı maddesinde izaleyi şüyu satış işleminin kesinleşmesinden itibaren 3 ay içinde inşaat ruhsatının alınacağı ve inşaat ruhsatının
 
@@ -33,25 +37,37 @@ alınmasından itibaren 24 ay içinde de inşaatın tamamlanacağı kararlaştı
 
 ## Yargıtay 15. HD 2008/7522 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/858096000)
+
 Dava konusu yapılan taleplerden birisi de kira mahrumiyeti bedeline ilişkindir. Taraflar arasındaki sözleşme uyarınca inşaatın ve bu kapsamda davacı arsa sahibine ait sekiz adet daire ile altı adet dükkanın temel ruhsatı alınmasından itibaren 25 ay içinde anahtar teslimi şeklinde bitirilerek teslim edilmesi, aksi takdirde rayiç kira bedeli ödenmesi kararlaştırılmıştır. Yapı ruhsatının 09.06.1997 tarihinde alındığı, ancak işin süresinde bitirilip teslim edilmediği ve davalı yüklenicinin bu suretle temerrüde düştüğü dosya kapsamı ile sabittir. Şu hale göre 17.08.1999 tarihinde meydana gelen depremin işi geciktirip geciktirmediği, gecikmeye etkisi olmuşsa bunun süresi ilgili mercilerden sorularak ve sözleşme gereği belirlenecek teslim tarihine eklenmesi suretiyle tesbit edilecek yeni teslimi gereken tarihten davacıya ait bağımsız bölümlerin fiilen teslim edildikleri tarihlere kadar kira mahrumiyeti bedeline hükmedilmesi gerekirken, neden reddedildiği konusunda bir gerekçe belirtilmeden bu istemin kabul edilmemesi de hatalı olmuş, kararın bozulması uygun bulunmuştur.
 
 ## Yargıtay 14. HD 2008/1169 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/847791700)
 
 Yukarıdaki bölümde sözü edildiği üzere davacı kiracı kiralanana üçüncü kişilerin müdahale ettiklerini, bu yüzden kiralananı akit dairesinde kullanamadığını ve erken tahliye etmek zorunda kaldığını kanıtlayamamıştır. Davalı ve karşı davacı kiralayan ise, kiralananı akit dairesinde kiracının kullanmasına hazır bulundurduğundan Borçlar Kanununun 274.maddesi hükmünce sözleşme dönemindeki kira parasını kiracıdan isteyebilir. Kira süresi 15.02.2006 tarihinde hitam bulmaktadır. Kiracı ise, kiralananı Nisan 2005 tarihinde iradesiyle terk etmiştir. Bu durumda mahkemece, mecurun hayatın olağan akışına göre, kiralayan tarafından üçüncü bir şahsa ne kadar sürede kiraya verebileceği olayın seyrine uygun hesaplattırılmalı, davacı ve karşı davalı kiracının bu süre dahilinde de kira ödemek zorunda kaldığı kabul edilerek gerek asıl dava, gerek karşı dava sonucuna uygun hükme bağlanmalıdır. Mahkemece, bu yönünde göz ardı edilmesi doğru olmadığından karar açıklanan nedenle davalı ve karşı davacı kiralayan yararına bozulmalıdır.
 
 ## Yargıtay 14. HD 2007/11361 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/854950300)
+
 Yukarıdaki bentte açıklandığı üzere davalı kiracı uzayan kira döneminin 1.11.2004-14.1.2005 tarihleri arasındaki kira parasını sözleşme uyarınca ödemek zorundadır. Kiralanan 14.1.2005 tarihinde boşaltıldığından davacı davalı kiracıdan bu tarihten mecurun yeniden kiraya verilmesi için geçecek makul süre içindeki kira parasını da talep edebilir. Bilirkişilerce bu süre 1 ay olarak takdir edildiğinden davacının makul süre ile sınırlı kira parası isteminin de hüküm altına alınması gerekirken yanılgıya düşülerek eksik kira parası alacağına hükmedilmesi doğru değildir.
 
 ## Yargıtay 12. HD 2007/9451 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/72526200)
 
 Diğer yandan kabule göre de İİK.’nun 150/b maddesi uyarınca kira paralarının istenmesi İİK.’nun 132 ve 135.maddelerindeki haklarını da ortadan kaldırmaz. Belirtilen süre makul süre olduğundan bunun da ihale alıcısıyla kiracı arasında kira ilişkisi kurulduğunu göstermez.
 
 ## Yargıtay 13. HD 2007/1288 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/839764900)
+
 Birleşen davada; taraflar arasındaki sözleşmenin 13. maddesinde kararlaştırılan 3 aylık feshi ihbar şartı, kira dönemi içerisinde erken tahliye hali için öngörülüş bir şart olup,yoksa, 6570 sayılı yasanın 11. maddesinde belirtilen ve kira dönemi bitmeden önce karşı tarafa ihbarı düzenleyen 15 günlük sürenin uzatılması ile ilgili değildir. Her ne kadar sözleşmede ihbarın noter vasıtası ile yapılması öngörülmüş ise de, bu hususun bir geçerlilik delil ispat şartı olduğu kabul edilmelidir. Öyle olunca, davacı-birleşen davanın davalısı tarafından gönderilen ve taşınmazı tahliye edeceği ihbarını içeren iadeli taahhütlü mektup birleşen davanın davacısı ile aynı adreste oturan ve annesi olan kişiye tebliğ edildiğine ve bileşen davanın davacısının temyiz dilekçesindeki beyanından bu irade bildiriminden haberdar olduğunun anlaşılmasına göre, taraflar arasındaki kira sözleşmesi yenilenmemiş ve 30.9.2004 tarihinde sona ermiştir.
 
 ## Yargıtay 15. HD 2006/6320 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/860252900)
 
 Öte yandan, 01.03.1999 tarihli ve 3/1999 numaralı yapı ruhsatı 15 daire, 7 asma katlı dükkan ve 3 adet depo, sığınak ve bekçi evinden oluşan 4 katlı bina yapımı için verilmiştir. Bu ruhsatın alınmasından sonra yapılan 10.02.2000 tarihli ek sözleşmede, daha önce 4 katlı olan inşaat üzerine bir kat daha ilave edilmesi, inşaatın böylece 5 kat 20 daire olarak yapılması ve ilave olarak yapılacak olan 5.kattaki 5 daireden 2’sinin arsa sahibine verilmesi kararlaştırılmıştır. Davalı yüklenicinin 10.02.2000 tarihli ek sözleşme ile yapımını yükümlendiği son kat (5.kat) bakımından gecikme tazminatına hükmedilebilmesi için bu kat yönünden tadilat ruhsatının alınmasının mümkün olması gerekir. Zira 3194 sayılı İmar Yasası uyarınca plan ve projeye bağlanmayan, merciince tasdik edilmiş ruhsatı olmayan yerler -kaçak yapı- sayılır. Bu durumda mahkemece 5.kat için tadilat ruhsatının alınmasının mümkün olup olmadığı araştırılmadan bu kattaki 2 daire yönünden de davacılar lehine gecikme tazminatına hükmolunması doğru olmadığı gibi, dava dilekçesinde daire ve dükkan ayrımı yapılmaksızın 2002 yılı için aylık 100.000.000 lira üzerinden kira kaybı talep edildiği
 
@@ -59,14 +75,20 @@ halde HUMK.nun 74.maddesine aykırı olarak dükkanlar için kira tazminatının
 
 ## Yargıtay 13. HD 2006/9039 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/843890700)
+
 Kural olarak davalı, kiracı erken tahliye halinde kira sözleşmesi sonuna kadar kiraladığı taşınmazın kira bedellerinden sorumludur. Ne var ki davacı da bu süre zarfında, taşınmazın aynı şartlarda yeniden kiraya verilmesi için gerekli çabayı göstermelidir. (BK.98/2 maddesi delaletiyle 44.madde) Bu durumda davacı ancak erken tahliye nedeniyle taşınmazın tahliye tarihinden itibaren aynı şartlarla ve aynı kira miktarı ile ne kadar sürede kiraya verilebilir ise, o süreye ilişkin kira bedelini davalıdan isteyebilir. Mahkemece, alınan bilirkişi raporunda mecurun 4 ... süre içinde yeniden kiraya verilebileceği açıklanmıştır. Buna göre, davacı kiracının tahliye tarihinden itibaren ödemekle yükümlü olduğu 4 aylık kira bedelinden, ödendiği ihtilafsız olan 1.300 dolar depozitonun tahliye tarihi olan 27.8.2003 tarihindeki kur karşılığı bulunup mahsup edildikten sonra kalan bakiye bedelden davacının sorumlu olduğu kabul edilmeli, ve icra dosyasına yapılan ödeme miktarına göre, fazla ödeme varsa iade edilmelidir. Mahkemece, yanlış değerlendirme ile yazılı şekilde karar verilmesi usul ve yasaya aykırı olup, bozma nedenidir.
 
 ## Yargıtay 13. HD 2006/8878 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/843912200)
 
 Kural olarak kiracı mecurun erken tahliyesi halinde dönem sonuna kadar olan kira bedellerinden, sözleşme süresi belirsiz ise BK. 262 maddesinde öngörülen ihbar koşullundaki süre sonuna kadar olan kiradan sorumludur. Şüphesiz kiralayanda BK. 98/2 ve 44. maddeleri gereğince zararın artmaması için mecurun yeniden kiraya verilmesi yönünde gereken çabayı göstermelidir. Mahkemece tahliyeyi takiben mecurun yeniden kiraya verilmesi için geçmesi gereken 1 ... 10 günlük sürenin makul olduğu iade edilmeyen 2000 USD.nın bu süredeki kirayı ancak karşılayacağı gerekçesiyle dava reddedilmiştir. Ne var ki yukarıda açıklandığı üzere davalı tahliyeye mütakiben 29.6.2001 de kiralananı 3.şahsa sattığına göre bu tarihten sonraki dönem için taşınmaza tasarruf etmeye ve kiraları tahsil etmeye devam edeceğine dair yeni malikle yapılmış her hangi bir sözleşme ve delil ibraz edemediği gibi bu konuda bir iddiada da bulunmamıştır. Bu durumda davalının tahliye nedeniyle kira kaybının olması söz konusu olamaz. Tahliye tarihinden önceki dönem için depozitonun iadesini engelleyen aidat gibi borcun varlığı iddia ve kanıtlanmış da değildir.
 Bu durumda depozitonun iadesine karar verilmesi gerekirken yazılı gerekçe ile davanın reddi usul ve yasaya aykırı olup bozma nedenidir.
 
 ## Yargıtay 15. HD 2006/3053 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/859339300)
 
 Arsa sahibinin kira kaybı alacağına gelince; yukarıda 3. bentte açıklandığı üzere inşaatın yapım süresi hesaplandıktan sonra teslim tarihi bulunmalı ve davalı ve karşı davacının kira kaybı değerlendirilmelidir. Her ne kadar sözleşmenin 11. maddesinde binanın bitim tarihi,
 
@@ -98,6 +120,8 @@ tamamlanmadığı ve hiçbir üyeye konut teslim edilmediği sabittir. Yukarıda
 
 ## Ankara BAM 23. HD 2026/1112 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1209025300)
+
 İlk derece mahkemesince, davacının kurada tahsis edilen dairesinin davacıya teslim edilmemesi nedeniyle konut tazminatına karar verilmesi isabetli ise de davacının ödemelerinin eksik olduğu gerekçesi ile kira kaybı tazminatına karar vermemesi isabetli olmamıştır. Kooperatifler Kanunu 23. madde gereğince "Ortaklar bu kanunun kabul ettiği esaslar dahilinde hak ve vecibelerde eşittirler." Dosya kapsamından davacıya kurada isabet eden dairenin dava dışı üçüncü kişi adına tescil edildiği, buna karşılık ödemeleri benzer durumda olan ancak dairesi kendisine teslim edilen ortaklar olduğu iddiası karşısında eşitlik ilkesi gereğince davacının kira kaybı tazminatı talebi değerlendirilerek, gerektiğinde bilirkişiden ek rapor alınarak varılacak uygun sonuç dairesinde bir karar verilmesi gerekmektedir.
 
 ## Denizli BAM 4. HD 2026/1054 K.
@@ -121,10 +145,14 @@ Teslim tarihi yönünden ise kooperatif kayıtları inceletilerek, bağımsız b
 
 ## İstanbul BAM 15. HD 2026/446 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1208329000)
+
 Birleşen davada davacı yüklenici tarafından, davalı alt yüklenicinin sözleşmede kararlaştırılan sürede işi tamamlamadığı, inşaatın yaklaşık %75 seviyesinde kaldığı, eksik imalatların bulunduğu ve bu nedenle kira kaybına uğranıldığı ile eksik işlerin tamamlanması için yapılacak masrafların davalıdan tahsili talep edilmiş ise de, dosya kapsamında alınan bilirkişi raporlarında işin tamamlanma oranının %75 olduğu kabul edilmekle birlikte, gecikmenin yalnızca davacı alt yükleniciye yüklenemeyeceği, taraflar arasındaki ödeme ilişkisi ve iş artışları nedeniyle gecikmenin müterafik sebeplerden kaynaklandığı, ayrıca kira kaybı ve eksik iş bedeline ilişkin taleplerin somut ve denetime elverişli şekilde ispatlanamadığı yönünde tespitlerde bulunulduğu, Yargıtay 6.
 Hukuk Dairesinin ilk bozma ilamında birleşen davaya ilişkin sair temyiz itirazlarının reddedildiği ve bu yönüyle birleşen davaya ilişkin değerlendirmelerin bozma kapsamı dışında bırakılarak kesinleştiği, sonraki bozma ilamlarında ise birleşen davaya özgü bağımsız bir bozma sebebi gösterilmeyip yalnızca hesaplama hatalarının birleşen davayı da etkilediğine işaret edildiği, nihayetinde bozma sonrası yapılan yargılamada bu hususlar da gözetilerek birleşen davacının kira kaybı ve eksik iş bedeline ilişkin taleplerinin ispatlanamadığı gerekçesiyle birleşen davanın reddine karar verilmiştir.
 
 ## İstanbul BAM 45. HD 2026/343 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1200037700)
 
 Çıkmanın ancak bir hesap senesi sonu için ve en az 6 ay önceden haber verilerek yapılacağı, kooperatif anasözleşmesinde daha kısa bir süre belirtilip hesap senesi içinde çıkışa müsaade edilebileceği, 13. maddesinde; Yönetim kurulunun, anasözleşmeye uygun olarak yapılacak isteğe rağmen, bir ortağın kooperatiften istifasını kabulden kaçınması halinde, ortak çıkma dileğini noter aracılığı ile kooperatife bildirdiğinde, bildirim tarihinden itibaren çıkmanın gerçekleşeceği düzenlenmiştir.Davalı kooperatif her ne kadar davacının kooperatif başkanı ile yaptığı telefon görüşmesinde istifa talebini bildirdiğini belirtmiş ise de bu husus davacı tarafından inkar edilmiş davacı istifa etmediğini beyan etmiştir. 4721 sayılı Türk Medeni Kanununun (TMK) 6. maddesi ve HMK. 190 Maddesi uyarınca kural olarak, aksi kanunda belirlenmedikçe iki taraftan her biri iddiasını ispata mecburdur. O halde davalı kooperatif, davacının ayrıldığını yazılı belge ile ispatlamalıdır.
 Ancak davacının ortaklıktan ayrıldığına dair dosyaya sunulmuş yazılı belge bulunmadığı gibi, davalı kooperatif tarafından yapılan ödemelerin, davacı tarafından açılan tazminat davası sonrası kabul edildiği görülmekle davalı vekilinin bu yöndeki istinaf nedeni yerinde görülmemiştir. Bu durumda halen kooperatif üyesi olan davacının, üzerine düşen akçeli yükümlülükleri yerine getirmesi, kendisine tahsis edilen taşınmazın devrinin yapılamaması nedeniyle dava tarihi itibariyle taşınmazın dava tarihindeki rayiç değerinin talep edebilecektir. Mahkemece taşınmazın dava tarihi itibariyle rayiç değeri belirlenmiş, yargılama sırasında davalı kooperatif tarafından yapılan ödemeler dava tarihi itibariyle geçmişe dönük ulaşabileceği bedel mahsup edilmiş, hesaplanan tutarlara tarafların bir itirazının olmadığı anlaşılmıştır.Davacı aynı zamanda mahrum kaldığı kira kaybını talep etmiştir. Emsal Yargıtay kararlarında ifade edildiği üzere Kooperatifler Kanunu 23. Maddesi gereği eşitlik ilkesi uyarınca kooperatifin diğer üyelerine bağımsız bölümlerin tesliminin yapılması durumunda, teslim tarihinden itibaren davacı mahrum kaldığı kira kaybını talep edebilecektir. (Yargıtay 23.
@@ -132,13 +160,19 @@ Hukuk Dairesi'nin 25.03.2013 tarih 2013/1495 E. 2013/1831 K.
 
 ## İstanbul BAM 12. HD 2026/41 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1188291300)
+
 Hükme esas alınan bilirkişi raporunda, davacının emsal bir iş bulması için makul sürenin ne olduğu hususunda bir tespit yapılmamış ve kalan süreye isabet eden kar kaybı hesaplanmış ise de, hesaplamaya ilişkin bu husus davalılar tarafından istinaf konusu edilmemiştir. Taraflar arasındaki sözleşme 2 yıl süreli olup, kira sözleşmesinin 5 yıl süre ile istendiği hususunda delil olmayıp ,istenmiş olsa dahi sözleşmenin iki yıl süreli imzalanması karşısında 5 yıl süre için imzalandığı yönündeki davacı taraf istinaf nedeni yerinde değildir.
 
 ## İzmir BAM 4. HD 2025/2507 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1184430400)
+
 Trafik kazalarında araç mahrumiyeti nedeniyle zarar belirlenirken aracın hasar durumuna göre onarımı için gereken makul sürenin belirlenmesi ve belirlenen bu süre üzerinden zarar hesabının yapılması gerekir. Bu hesaplama ise çözümü hukuk dışında özel ve teknik bilgiyi gerektiren bir husus olup mahkemece bilirkişi görüşüne başvurulmalıdır. Mahkemece alınan bilirkişi raporunda davacının aracının onarımı için gereken makul süre 20 gün olarak belirlenmiştir. Hâkim, bilirkişi raporunda yazılı olan özel veya teknik açıklamalardan bilirkişi raporunda varılan sonucun yanlış olduğunu takdir edebilecek derecede bilgi sahibi olduğu kanısına varabiliyorsa yeni bir bilirkişi incelemesi yaptırmadan, bilirkişi raporunun aksine de karar verebilir. Aracın geç onarıma verilmesi, servis yoğunluğu, parça temininde gecikme nedeniyle onarımda geçen süre, aracın kiralayana geç teslim edilmesi vb. hususlar davalıya yüklenemez. (Yargıtay 4. Hukuk Dairesi'nin 2020/1587, :2020/4597 esas karar sayılı ilamı )…
 
 ## İstanbul BAM 15. HD 2025/1374 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1180626100)
 
 Davacı edimini tamamlanmış olsaydı davalı tarafından bu bedel ödenmesi gerekmeyeceği açıktır. Bu sebeple, davalının bu bedel yönelik takas mahsup talebi yerindedir. Yine, davalı taraf edimin yapıldığı yerde bulunan daireyi dava dışı ... Bankasına kiraya verildiği ancak su sızması sebebiyle kira kaybı olduğu anlaşılmış olup, müsbet zarar kapsamında davacı edimini yerine tam getirmemesi sebebiyle bu zarardan davalının sorumlu olduğu açıktır. Davalı kira kaybı sebebiyle zararının 37.800,00 TL olarak yazılı beyanda bulunmuş, bilirkişi tarafından yapılan hesaplamada bu zarar miktarının 43.128,00 TL olarak belirtilmiştir. Mahkemece de zarar miktarını 43.128,00 TL esas alarak hüküm kurmuştur. Takas ve mahsup talepleri itiraz niteliğinde olduğundan, ödeme beyanı gibi, yargılamanın her aşamasında ileri sürülebilir. Bilirkişi raporu doğrultusunda takas mahsup edilecek bedel belirlenmiştir. Davalı tarafta bilirkişi raporu kabul edilerek bu miktar itibariyle takas mahsup talebinde bulunulmuştur. Mahkemece, denetime elverişli bilirkişi raporu doğrultusunda kira kaybı sebebiyle uğranılan zarar miktarının 43.128,00 TL olarak kabul edilmiş olması doğru olmuştur.
 Davacının iş sebebiyle davalıdan olduğu alak miktarı 22.372,80 Euro'dur. Mahkemece davacı tarafından davalıya yapılan 57.418,80 Euro ödenmesi için noter ihtarnamesi gönderilmiş olup, dava dilekçesi ile bedelin ihtar tebliğ tarihi olan 11.04.2016 tarihinden itibaren en yüksek faiz oranı ile tahsilini talep etmiş, mahkemede takas mahsup itibariyle 11.04.2016 tarihli Euro efektif satış kuru üzerinden hesaplamıştır. TBK 117 kapsamında ihtarnamenin geçerli olması için, ödenmesi talep edilen
@@ -146,6 +180,8 @@ Davacının iş sebebiyle davalıdan olduğu alak miktarı 22.372,80 Euro'dur. M
 bedelin tam miktarı belirtilmesi gerekmektedir. Oysa ki dava dosyasında davacı 57.418,80 Euro talep edilmesine rağmen yapılan yargılama ile davacı alacağı 22.372,80 Euro olarak belirlenmiş. Davacı tarafından davalıya gönderilen temerrüt ihtarnamesinin usulüne uygun olduğu kabul edilemez. O halde, dava tarihi itibariyle Euro efektif satış kuru üzerinde hesaplama yapılması gerekmektedir.
 
 ## İstanbul BAM 15. HD 2025/1353 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1183468400)
 
 İle yapmış olduğu , 25.07.2011 tarihli taşınmazın satılması hakkındaki hizmet sözleşmesi uyarınca önceki sözleşme ile taahhüt ettiği işten dolayı taşınmazın son maliki ...'e karşı inşaatı 30 ay içinde tamamlaması gerekirken tamamlayamadığını , bundan dolayı bir rapor alındığını , davanın reddini gerektiren bir neden olmadığını , kira kaybını talep edemeyeceğine dair kararın kaldırılmasını talep ettiklerini , kira kazanç kaybının 120.016,66 TL. olarak hesaplandığını ,davalı ... şirketi yönünden pasif husumet yokluğundan redde karar verilmesinin hukuka aykırı olduğunu belirterek yerel mahkeme kararının kaldırılmasını talep eütmiştir. Taraflar arasındaki uyuşmazlık eser sözleşmesinden kaynaklanmaktadır. Davacı arsa sahibinin hissesini alan üçüncü kişi , davalı ise yüklenicidir.Davacı kira kaybı ve eksik iş bedelinin tahsilini talep etmektedir. Yerel mahkeme kararı , Bölge Adliye Mahkemesi tarafından kaldırıldığında , bu kaldırma kararı kısmen dahi olsa İlk Derece Mahkemesinin gerekçeli kararı bir bütün olarak ortan kalkmış olmaktadır. Yerel mahkemece tarafların talepleri incelenmek suretiyle gerekçeli biçimde yeniden karar verilmesi gerekmektedir.
 İlk derece mahkemesinin Bölge Adliye Mahkemesince kararda kaldırılmayan hususlar olan kira kaybı ve davalı ... firması hakkında pasif husumetten redde dair olarak , kesinleştiğinden yeniden hüküm kurulmasına yer olmadığına dair karar verilmesi hatalı olmuştur. Bu hususlarda da gerekçeli tekrar hüküm kurulması gerekmektedir. Bu sebeple davacı vekilinin istinaf talebi diğer istinaf sebepleri incelenmeksizin usulden kabulüne karar verilmiştir.Açıklanan nedenlerle, davacı vekilinin istinaf talebinin diğer istinaf sebepleri incelenmeksizin, usul yönünden kabulü ile usul ve yasaya uygun bulunmayan yerel mahkeme kararının 6100 sayılı HMK'nın 353/1-a-6 maddesi gereğince kaldırılarak yukarıda açıklanan şekilde inceleme ve araştırma yapıldıktan sonra oluşacak uygun sonuç dairesinde bir karar verilmesi için dosyanın yerel mahkemesine gönderilmesine karar verilmesi gerekmiştir.

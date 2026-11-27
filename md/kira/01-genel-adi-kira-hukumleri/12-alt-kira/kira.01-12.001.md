@@ -24,4 +24,6 @@ uyari: "Derleyenin seçtiği alıntılardır; kararın tamamı değildir. Künye
 
 ## Yargıtay 3. HD 2026/59 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1201011500)
+
 Özellikle konut kiralarında kiracının kiralananı bakmakla yükümlü olduğu yakın aile üyeleriyle birlikte kullanımı **TBK m.322 de düzenlenen alt kira yasağına girmeyeceği** gibi sözleşmeye aykırı kullanımda teşkil etmez.

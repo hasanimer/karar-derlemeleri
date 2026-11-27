@@ -20,6 +20,8 @@ uyari: "Derleyenin seçtiği alıntılardır; kararın tamamı değildir. Künye
 
 ## Yargıtay HGK 2012/50 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/62576900)
+
 Ne var ki, bir tarafta kiracı ile alt kiracı arasındaki hukuksal ilişki, diğer tarafa kiracı ile devrolunan arasındaki ilişki de birbirinden farklıdır. Birincisi kanunun kira hükümlerine bağlıdır, sonuncusu ise temlike (alacağın temlikine) ilişkin hükümlere ve buna temel oluşturan hukuksal işlem hakkındaki hükümlere bağlıdır. Bu temlik ivazlı ise satış, ayni sermaye koyma gibi, ivazsız ise bağışlama, vekalet gibi bir sebebe dayanabilir. Bu nedenle kullanma hakkını devreden kiracı, kendi karşı alacağı için devrolunanın kişisel mallarında hapis hakkına malik olmadığı halde alt kirada ilk kiracı ikinci kiracıya karşı hapis hakkını haizdir; zira ondan kira alır(Geniş bilgi için bkz. Becker, H: Borçlar Hukuku, Çeşitli Sözleşme İlişkileri, çev. Suat Dura, Ank. 1993, sh. 287; Tandoğan, Haluk: Borçlar Hukuku, Özel Borç İlişkileri, c.1/2, Ank. 1985, sh. 154 vd; Feyzioğlu, Feyzi Necmeddin: Borçlar Hukuku, Özel Borç İlişkileri, İst. 1980, sh. 484 vd; Tunçomağ, Kenan: Borçlar Hukuku, Özel Borç İlişkileri, İst. 1977, sh. 231 vd).
 
 ## Yargıtay 12. HD 2026/3014 K.
@@ -28,35 +30,51 @@ Ne var ki, bir tarafta kiracı ile alt kiracı arasındaki hukuksal ilişki, di�
 
 ## Yargıtay 12. HD 2025/1436 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1135804800)
+
 İcra dairesi üzerlerinde hapis hakkı bulunan eşyanın bir defterini yapar ve rehinleri paraya çevirme yoliyle takip talebinde bulunması için kiralıyana on beş günü geçmemek üzere münasip bir mühlet verir.” hükmüne yer verilmiş olup alacaklı tarafından borçluya karşı, noter onaylı kira sözleşmelerinden kaynaklanan alacakların tahsili amacıyla, anılan maddeye dayalı olarak hapis uygulanan menkuller için taşınır rehninin paraya çevrilmesi yoluyla takibe geçildiği görülmüştür.
 
 ## Yargıtay 3. HD 2023/367 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/979958300)
 
 1\. 6098 sayılı Türk Borçlar Kanunu'nun (6098 sayılı Kanun) 336 ncı maddesi gereğince; "Taşınmaz kiralarında kiraya veren, işlemiş bir yıllık ve işlemekte olan altı aylık kira bedelinin güvencesi olmak üzere, kiralananda bulunan ve kiralananın döşenmesine veya kullanılmasına yarayan taşınırlar üzerinde hapis hakkına sahiptir. Kiraya verenin hapis hakkı, alt kiracının asıl kiracıya olan kira borcunu aşmamak üzere, alt kiracının kiralanana getirdiği aynı nitelikteki taşınırları da kapsar. Hapis hakkı, kiracının haczedilemeyen malları üzerinde kullanılamaz."…
 
 ## Yargıtay 12. HD 2021/8149 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/699487600)
+
 Bölge Adliye Mahkemesince, mahcuzların borçlu tarafından kira alacağı nedeni ile kira alacağına mahsuben devredildiği iddia edilmiş ise de, aynı zamanda hapis hakkının ileri sürüldüğü, oysa ki hapis hakkının ancak borçluya ait mallara ilişkin ileri sürülebileceği, hapis hakkı bulunduğu iddiasının malların borçluya ait olduğunun davacı tarafından kabul edildiğini gösterdiği,İİK 270.maddesi uyarınca işlem yapıldığı iddiasının yer almadığı gerekçesi ile istinaf başvurusunun esastan reddine karar verilmiş, davacı üçüncü kişi tarafından bu kez temyiz yoluna başvurulmuştur.
 
 ## Yargıtay 23. HD 2015/3997 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/201977400)
 
 Şikayet olunanın alacağı otopark ücreti alacağıdır. TBK'nın 580. (BK'nın 482.) maddesi hükmü uyarınca, işletenler, kendilerine bırakılan veya konaklama yerlerine, garaj, otopark ve benzeri yerlere konulan eşya veya hayvanlar üzerinde, ücretlerini veya saklama giderlerinden doğan alacaklarını güvenceye almak için hapis hakkına sahiptirler. Kiraya verenin hapis hakkına ilişkin hükümler, kıyas yoluyla burada da uygulanır. Kiraya verenin hapis hakkını düzenleyen TBK'nın 336. (BK'nın 267.) maddesinde ise, "taşınmaz kiralarında kiraya veren, işlemiş bir yıllık ve işlemekte olan altı aylık kira bedelinin güvencesi olmak üzere, kiralananda bulunan ve kiralananın döşenmesine veya kullanılmasına yarayan taşınırlar üzerinde hapis hakkına sahiptir." hükmüne yer verilmiştir. Kiralayanın hapis hakkı, kiralanan yerde bulanan kiracıya ait taşınır eşyayı kira alacağına karşı alıkoymak ve kira borcunu ödemediği takdirde onu paraya çevirerek alacağını öncelikle tahsil etme yetkisi veren bir tür kanuni rehin hakkıdır. Taşınır malların kiralanan yere gelmesiyle işleyecek altı aylık kira nedeniyle hapis hakkı doğar.
 Hapis hakkı taşınır malların kiralanan yere gelmesiyle birlikte doğduğundan daha sonra hapse konu malların üçüncü bir şahıs tarafından haczedilmesi ve mahcuzların paraya çevrilmesi halinde kiralayanın geçmiş bir yıllık ve işlemekte olan altı aylık kira alacağının satış bedelinden öncelikle ödenmesi gerekir.(Y.19.H.D'nin 18.03.1999 tarih ve 1199 E., 1767 K. ve Y. 21.H.D'nin 29.11.2005 tarih ve 6074 E., 12377 K. ve Dairemizin 16.12.2014 tarih ve 5154E., 8161 K; 01.04.2015 tarih ve 243E., 2172 K. sayılı ilamları bu yöndedir.)…
 
 ## Yargıtay 23. HD 2015/2172 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/200412800)
+
 Şikayet tarihi itibariyle yürürlükte bulunan TBK'nın 336. (BK'nın 267.) maddesi uyarınca, kiralayanın işlemiş bir yıllık ve işlemekte olan altı aylık kira bedelinin güvencesi olmak üzere kiralanan yerde bulunan kiracının taşınırları üzerinde hapis hakkı bulunmaktadır. Kiralayanın hapis hakkı, kiralanan yerde bulanan kiracıya ait taşınır eşyayı kira alacağına karşı alıkoymak ve kira borcunu ödemediği takdirde onu paraya çevirerek alacağını öncelikle tahsil etme yetkisi veren bir tür kanuni rehin hakkıdır. Taşınır malların kiralanan yere gelmesiyle işleyecek altı aylık kira nedeniyle hapis hakkı doğar. Hapis hakkı taşınır malların kiralanan yere gelmesiyle birlikte doğduğundan daha sonra hapse konu malların üçüncü bir şahıs tarafından haczedilmesi ve mahcuzların paraya çevrilmesi halinde kiralayanın geçmiş bir yıllık ve işlemekte olan altı aylık kira alacağının satış bedelinden öncelikle ödenmesi gerekir.(Y.19.H.D. 18.03.1999 T., 1199 E., 1767 K. ve Y. 21.H.D. 29.11.2005 T., 6074 E., 12377 K. ve Dairemizin 16.12.2014 tarih ve 5154E., 8161 K. sayılı ilamları bu yöndedir.)…
 
 ## Yargıtay 8. HD 2013/3748 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/435765700)
 
 İİK'nun 270. maddesinde; “Kiralayan evvelce yapılması lazım gelen icrai takibi yapmadan haiz olduğu hapis hakkının muvakkaten muhafazası için İcra Dairesi'nin yardımını isteyebilir. (BK.267, 269, 281) İcra Dairesi üzerlerinde hapis hakkı bulunan eşyanın bir defterini yapar ve rehinleri paraya çevirme yoluyla takip talebinde bulunması için kiralayana on beş günü geçmemek üzere münasip bir mühlet verir” hükmü mevcuttur.
 
 ## Yargıtay 1. HD 2011/12911 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/79327500)
+
 Asıl dava elatmanın önlenmesi, birleşen dava ise; çekişmeli taşınmaz üzerine kurulan tesisler üzerindeki hakları ödeninceye kadar hapis hakkı tanınması ve yapmış olduğu bina, tesis ve kurduğu makina, araç vs. karşılığı olarak 400.000,00 TL. tazminat ödenmesi isteklerine ilişkindir.Mahkemece asıl davanın kabulüne, birleşen dava bakımından hapis hakkı tanınmasına ilişkin istemin reddi ile tazminatın kısmen kabulüne karar verilmiş, tarafların temyizi üzerine; intifa hakkı sahibi olan dava dışı ...Limited Şirketinin, kayden Bornova belediyesi adına kayıtlı olan dava konusu 271 ada, 5 parsel sayılı taşınmazı, davalı şirkete kiraladığı ancak intifa hakkı sahibi şirketin tasfiye edilerek ticaret sicil kaydının silinmesi sonucunda tüzelkişiliğinin sona erdiği, bunun sonucu olarak gerek intifa hakkının gerekse buna bağlı olarak kurulan kira akdinin son bulduğu saptanarak fuzuli şagil olan davalı şirketin elatmasının önlenmesine ilişkin olarak verilen kararın onandığı; birleşen dava bakımından ise davalı şirketin kira sözleşmesinden sonra çekişmeli taşınmazda bilirkişi raporlarında gösterildiği şekilde bir takım muhdesatlar yaptığı, anılan tesis ve muhdesatların yapımında davalı şirketin
 kötüniyetli olduğunun söylenemeyeceği TMK’nun 994. maddesinden kaynaklanan faydalı ve zorunlu giderler karşılığı kişisel hak sahibi olacağı gözetilerek TMK’nun 684. maddesinde öngörülen mütemmim cüz niteliği taşıyan yapı ve tesisler bakımından dava tarihi itibariyle değerlendirme yapılarak davalı yararına hapis hakkı tanınması gerektiği belirlenerek kararın açıklanan nedenden ötürü bozulduğu; sonuçta hükmüne uyulan bozma ilamında belirtilen hususlar gözetilmek suretiyle; birleşen dava bakımından iyiniyetli olduğu kabul edilen şirket lehine taşınmazın bütünleyici parçası olduğu saptanan muhdesatlar bakımından TMK’nun 994. maddesi gözetilerek yapı bedeline hükmedilmesi ve belirlenen bedel ödeninceye kadar davalı- birleşen davacı şirket lehine hapis hakkı tanınmasında kural olarak bir isabetsizlik yoktur.
 
 ## Yargıtay 17. HD 2011/138 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/539294300)
 
 Davanın konusu takibin dayanağını, alacaklının kira borcuna karşılık yasadan kaynaklanan hapis hakkını kullanılması oluşturmaktadır.(BK’nun267.ve 281.maddesi)Bu na göre icra memurunca borçluya ait mallar tesbit edilmiş ve hapis hakkı taşınır rehni sayıldığından (İİK’nun 23) kiralayan kendisine verilen yasal süresi içerisinde taşınır rehninin paraya çevrilmesi yolu ile takip başlatmıştır. (İİK’nun 145) İİK’nun 45. maddesinde belirtilen alacağı rehinle temin edilmiş olan alacaklının alacağını cebri icra yolu ile almak istemesi halinde ilk önce rehnin paraya çevrilmesi yolu ile takip yapmak zorunda olmasının istisnalarından biride kiralayanın hapis hakkına rağmen dilerse borçlusu kiracı hakkında haciz veya genel iflas yolu ile takip yapabilmesidir. (İİK’nun 23) Somut olayda kiralayan
 
@@ -64,13 +82,19 @@ davacı alacaklı taşınır rehninin paraya çevrilmesi yolu ile takibi seçmi�
 
 ## Yargıtay 1. HD 2010/7014 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/78798200)
+
 Ne varki; davalı şirket kira sözleşmesinden sonra çekişmeli taşınmazda bilirkişi raporlarında gösterildiği şekilde bir takım muhdesatlar yapmıştır. Anılan tesis ve muhdesatların yapımında davalı şirketin kötü niyetli olduğu söylenemez. Öyle ise, TMK.nun 994. maddesinden kaynaklanan faydalı ve zorunlu giderler karşılığı kişisel hak sahibi olacağı, bunun ise davalı yararına hapis hakkı olduğu tartışmasızdır. Bu belirleme karşısında TMK.nun 684. maddesinde öngörülen mütemmim cüz niteliği taşıyan yapı ve tesisler bakımından dava tarihi itibariyle bir değerlendirme yapılarak bu değer üzerinden davalı şirket yararına TMK.nun 994. maddesi hükmü gereğince hapis hakkı tanınmak suretiyle elatmanın önlenmesine karar verilmesi gerekirken, anılan hususlar göz ardı edilerek yazılı olduğu üzere hüküm kurulmuş olması doğru değildir.
 
 ## Yargıtay 19. HD 2007/8616 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/889909000)
+
 Borçlar Kanunu’nun 267 nci maddesine göre bir taşınmazın kiralayanı, geçmiş bir senelik ve cereyan etmekte olan altı aylık kiranın temini için kiralananın tefrişatına ve tezyinatına ve ondan intifaı temine mahsus olup kiralananın dahilinde bulunan menkul eşya üzerinde hapis hakkını haizdir. Hapis hakkının nasıl dermeyan edileceği aynı yasanın 269 ve hapis hakkına konu eşyanın hangi usulle paraya çevrileceği de İcra ve İflas Kanunu’nun 270 nci maddesinde açıklanmıştır.
 
 ## İstanbul BAM 46. HD 2026/886 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1206744500)
 
 İstinaf Sebeplerinin Değerlendirilmesi Ve Gerekçe:Somut olayda ; gizli ayıplı ve üretim hatalı araç için yapılan tamir bedeli 196.020,38 TL nin davacıya ödendiğinin yaklaşık olarak ispat edildiği, ödeme borcunu ifa eden araç sahibi davacının aracın teslimini isteme hakkı bulunduğu, davalının tamir süresince taraflar arasında imzalanan araç kiralama sözleşmesinden doğan alacağına mahsuben hapis hakkını kullanarak aracı teslim etmeyip uhdesinde tuttuğu sabittir.4721 sayılı TMK 950.maddesinde düzenlenen hapis hakkının kullanımı yönünden yapılan incelemede, hapsedilen eşya ile borç doğuran sözleşme arasında uygun illiyet bağının bulunması gerektiği, davalının arızanın giderilmesi ediminden doğan tamir ücreti alacağını tahsil ettiği, ancak bir başka sözleşmeden doğan alacağı için anılı sözleşmenin konusu olmayan araç üzerinde hapis hakkını kullanma şartlarının oluşmadığı, aracın teslim edilmemesinin yarışan haklar çerçevesinde mülkiyet hakkının ağır ihlali niteliğinde olup, tamir ücreti ödenen aracın tedbiren davacı malikine
 
@@ -78,10 +102,14 @@ teslimi şeklindeki ihtiyati tedbir ara kararının ve anılı karara yapılan i
 
 ## İstanbul BAM 45. HD 2025/145 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1115774500)
+
 Derhal temerrüdünüze son vermediğiniz takdirde Sözleşme'nin feshi cihetine gidilebilecek olup tüm zarar ve ziyan tarafınızdan ayrıca talep edilecek ve şantiyede bulunan ekipmanlarınıza kanuni hapis hakkı uygulanacaktır." denilerek, söz konusu zararın 3 iş günü içerisinde ödenmemesi halinde yasal yollara başvurulacağı ihtar edilmiştir. 2-... tarafından Bakırköy ... Noterliğinden keşide edilen 31/03/2021 tarih ve ... no.lu ihtarnamede ise yukarıdaki ihtarda da belirtilen temerrüt, beher gün zararı gibi hususlara aynen yer verilerek, temerrüde derhal son verilmemesi ve sözleşme yükümlülüklerinin yerine getirilmeye başlanmaması halinde, sözleşmenin feshi cihetine gidilerek çalışanların tahliye edileceği, şantiyede bulunan ekipmanlara kanuni hapis hakkı uygulanacağı, oluşan tüm zararın talep edileceği, hakedişlerden (bunları kabul anlamına gelmemek kaydıyla) tazminat alacağının mahsup edileceği belirtilerek, söz konusu zararların 2 iş günü içerisinde ödenmemesi halinde yasal yollara başvurulacağı ihtar edilmiştir.3-... tarafından, Ankara ...
 Noterliğinden keşide edilen 01/04/2021 tarih ve ... yevmiye no.lu ihtarname; taraflar arasında imzalanan sözleşme gereği özveri ile çalışan ...'in onaylanmış olan hak edişlere istinaden ödenmeyen vadesi dolan faturalardan kaynaklı 1.175.978,42 TL alacağının iki aya yakın süredir halen ödenmediği, yine kesinleşmiş hak edişler nedeniyle kesilen toplam 2.814.366,82 TL bedelli faturaların vadelerinin de Nisan-2021 ayı içerisinde dolacağı, ödeme yapılmadığından ...'in de şantiyede çalışan işçilerinin ücretlerini dahi ödeyemez noktaya gelindiği, her ne kadar işçiler çalışma konusunda ikna edilmeye çalışılsa da bir kısım işçilerin paraları ödenmeden çalışmayı reddettikleri, TBK 97 gereği ödeme edimini yerine getirmeyen tarafın, karşı taraftan edimin ifasını talep edemeyeceği belirtilerek, vadesi gelmiş 1.175.978,42 TL alacağın bir an önce ödenmesi ihtar edilmiştir. 4-... tarafından, Ankara ...
 
 ## İstanbul BAM 13. HD 2024/1579 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1072659200)
 
 A.Ş. tarafından haziran ve temmuz 2024 kira bedeli ve elektrik faturası alacağına istinaden davalının karşı kira sözleşmesinde müşterek borçlu/ müteselsil kefil sıfatıyla yer aldığından bahisle hapis hakkı kullanılarak hapsedildiğini, ( EK-3: Kira sözleşmesinin feshi ve anahtar teslim tesellüm tutanağı ) ...ŞİRKETİ ( ...)' ne ait Kültür ve Turizm Bakanlığı tarafından düzenlenen TURİZM İŞLETME BELGESİ' nden alt işletmeci olarak yararlanmakta olup bugüne kadarki ticari faaliyetlerin, otelin alt işletmecisi olarak otele ait turizm ruhsatından faydalanarak sürdürdüğünü; otel ile müvekkili arasında haricen gerçekleştirilen görüşmelerde; " Şirketin size devredilmesinden evvel bu şirket bu adreste il, ilçe emniyet müdürlüğü, ilçe tarım müdürlüğü, kültür ve turizm bakanlığı tarafından birçok denetime
 
@@ -90,10 +118,14 @@ tabi tutulup birçok idari para cezaları ve kapama gibi yaptırımlara maruz ka
 
 ## İstanbul BAM 45. HD 2023/854 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/920583000)
+
 Bu konu ile ilgili olarak konkordato, kişisel talep hakkı doğuran alacaklara etkili olduğundan, mühletten önce doğan kira alacağı da konkordato hükümlerine tabi olur ve bu alacak için takip yapılamaz iken, buna karşın mühletten sonra doğan kira alacakları, doktrinde bir görüşe göre , mühletten etkilenmeyecektir. Bu durumda alacaklılar takip başlatabilir , haczin ve satışın yapılmasını isteyebilir. Yine alacaklı, mühlet içinde borçlu hakkında TBK m. 336'ya dayalı hapis hakkına ilişkin geçici muhafaza tedbirlerinin uygulanmasını isteyebileceği gibi, hapis hakkının paraya çevrilmesi yoluna da gidebilir. ( Doç.Dr. M. Serhat Sarısözen, Konkordato, Yetkin Yayınları, s:273) Diğer bir görüşe göre ise alacaklı, konkordato mühleti içinde kesinleşen kira alacağı için, borçlunun mallarının haczini isteyemez. (Kuru, İcra ve İflas, C,IV,s. 3634) Mahkemece 17.02.2022 tarihli ara kararda davacı şirketler yönünden teminatı bağlanması gereken alacak tutarı tespit edilmiş olup geçerli teminat gösterilmesi için bir haftalık kesin süre verilmiştir. Davacı şirketlerden ... Tekstil... Şti. yönünden düzenlenen ödeme planı incelendiğinde de ödeme planının 116. Sırasında ... A.Ş.- 269.800,46 TL - (...
 Gayrimenkul A.Ş.,), 117. sırasında ... Şti. -798.144,47 TL, 118. sırasında ... A.Ş. - 58.009 ,01 TL - ve 119. sırasında ... A.Ş.'nin - 698.457,70 TL'şer aldığı görülmektedir. Her bir davacı şirket yönünden konkordatonun tasdiki için İİK'nin 305/d maddesi kapsamında infaz edilmemiş herhangi bir yükümlülük kalmaması amacıyla gerekçeli raporda ve tabloda belirtilen alacak ve alacaklar yönünden teminat miktarının da ayrı ayrı belirlendiği , işletmenin faaliyeti kapsamında çok kısa vadelerle ödenen borçların iş bu listeden ari tutulduğu yönündeki tespit ve bilgiler nazara alındığında, kira alacakları yönünden istinaf yasa yoluna başvuran alacakların alacaklarının teminatı bağlanması gereken alacaklılardan olmadığı anlaşılmakla aksi yöndeki itirazlarının reddine karar vermek gerekmiştir.-Ödemenin alacaklıları mağduriyete yol açacağı itirazı yönünden;…
 
 ## İstanbul BAM 3. HD 2022/1053 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/744482200)
 
 Aracın onarım bedeli tamir işleminin başlangıcında belirlenmediğinden onarımın gerçek bedeli işin değeri ve masraflar dikkate alınarak hesaplama yapılması gerekmektedir. Bu esaslar dahilinde makine mühendisi , YMM ve hukuk Fakültesi öğretim üyesi bilirkişiler tarafından yapılan değerlen- dirmeye göre ; davacının tahsili gereken alacağının KDV dahil 40.742,13 TL olduğu tespit edilmiş olup içerdiği inceleme ve teknik değerlendirme nedeniyle rapor hükme ve denetime elverişli görülmüştür. Davacının dava dilekçesinde tahsilini talep ettiği 43.525,11 TL olup bilirkişi raporu doğ- rultusunda 40.742,13 TL alacak yönünden kısmen kabul hükmü kurulmasında isabetsizlik görülmemiştir.Karşı davada ise ; ... İnşaat Taş. San. ve Tic. A.Ş'nin aracın 21/10/2011 tarihinde servise bırakıldığını , araç için gereken tamir ve bakımın ne olduğu ve ne kadar masraf yapılacağına dair bilgilendirme yapılmadığı gibi 13/05/2013 tarihine kadar geçen uzunca bir süre içinde serviste kaldığını, İstanbul 8. Sulh Hukuk mahkemesi'nin 2013/124 D.
 İş sayılı dosyasına sunulan bilirkişi raporuna göre dava konusu tamir ve bakım için 20 günlük süre gerektiğinin tespit edildiğini, keşide ettikleri ihtarname ile itirazi kayıt ile ödeme yapmayı teklif ettiklerini, ancak ilgili servisin buna yanaşmadığını, araçtan mahrum kalınan süre boyunca araç kiralamak ve masraf yapmak zorunda kaldıklarını beyanla karşı taraf uhdesinde kalan aracın kendilerine teslimini ve araçtan mahrumiyetten kaynaklanan zararlarının tazmini talep etmektedir.Dosya içeriğine göre; dava konusu aracın tamir için 20/11/2011 tarihinde tamir için servise bırakıldığı, tamir işleminin 13/05/2013 tarihinde bitirilerek tamir bedeline ilişkin faturanın düzenlendiği, ancak aracın henüz kiralayana teslim edilmediği anlaşılmaktadır.Davalının hapis hakkı ile ilgili savunması ele alındığında; dava konusu uyuşmazlık, davalının dava konusu araç üzerinde hapis hakkı doğup doğmadığı hususunda toplanmaktadır. İspat yükü; kanunda özel bir düzenleme bulunmadıkça, iddia edilen vakıaya bağlanan hukuki sonuçtan kendi lehine hak çıkaran tarafa aittir. TMK'nın 6. maddesinde bu husus;
@@ -101,6 +133,8 @@ Aracın onarım bedeli tamir işleminin başlangıcında belirlenmediğinden ona
 Dolayısıyla bu süreyi aşan süre boyunca araç kiralamak zorunda kalan davacının araçtan mahrumiyeti nedeniyle tespit edilen 31.438,00 TL zararının tazmini , ayrıca karşı taraf uhdesindeki aracın davacıya teslimi gerekir.Açıklanan nedenlerle, ilk derece mahkemesince verilen kararda vakıa ve hukuki değerlendirme noktasında, usul ve esasa aykırılık tespit edilmediğinden, Davacı- karşı davalı ve davalı karşı davacının istinaf başvurusunun HMK 353/1-b-1 md gereğince ayrı ayrı reddine karar verilmesi gerekmiştir.
 
 ## İstanbul BAM 4. HD 2020/741 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/593688300)
 
 Neticede; her ne kadar davacıya ait uçağa başlangıçta TMK 950 maddesinde belirlenen hapis hakkına istinaden el konulması hukuka uygun ve bu nedenle bu el koymadan kaynaklanan zararın tazmini talebinde bulunulması yerinde değilse de, ilk derece
 

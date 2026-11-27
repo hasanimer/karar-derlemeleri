@@ -1,0 +1,61 @@
+{
+ "baglanti_mrfg_id": 9271,
+ "bedesten_kontrol": {
+  "tutar": 20
+ },
+ "bedesten_kontrol_edilen": 20,
+ "cok_aday": 9,
+ "derleme": {
+  "borclar-genel": {
+   "cok_aday": 5,
+   "eslesmedi": 351,
+   "kesin": 3396
+  },
+  "kira": {
+   "cok_aday": 2,
+   "eslesmedi": 186,
+   "hatali_kunye": 7,
+   "kesin": 5574,
+   "olasi": 10
+  },
+  "temel-ilkeler": {
+   "cok_aday": 2,
+   "eslesmedi": 166,
+   "kesin": 301
+  }
+ },
+ "eslesmedi": 703,
+ "hatali_kunye": 7,
+ "islenen": 10000,
+ "kapsam_disi": 0,
+ "kaynak": "hf:mrfg/turkish-court-decisions@e9062174adcdee8386b94cebd01df7264268e86b",
+ "nedenler": {
+  "2_aday": 9,
+  "alinti_uyusmuyor": 1,
+  "alinti_yok": 10,
+  "esas_veya_tarih_uyusmuyor": 57,
+  "hatali_kunye": 7,
+  "veri_setinde_anahtar_yok": 645
+ },
+ "olasi": 10,
+ "son_checkpoint": "parti 01 (1-10000) 2026-11-27T18:01:36",
+ "son_commit": null,
+ "son_push": null,
+ "toplam_kunye": 133954,
+ "tur": {
+  "bam": {
+   "eslesmedi": 350,
+   "hatali_kunye": 5,
+   "kesin": 1015
+  },
+  "yargitay": {
+   "cok_aday": 9,
+   "eslesmedi": 353,
+   "hatali_kunye": 2,
+   "kesin": 8256,
+   "olasi": 10
+  }
+ },
+ "url_bicimi": "https://mevzuat.adalet.gov.tr/ictihat/{documentId}",
+ "yuzde": 7.47
+}

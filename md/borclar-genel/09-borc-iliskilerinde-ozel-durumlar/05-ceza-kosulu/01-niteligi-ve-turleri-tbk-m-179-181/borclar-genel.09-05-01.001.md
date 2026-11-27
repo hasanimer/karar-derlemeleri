@@ -30,78 +30,116 @@ Cezai şartın esas itibariyle iki temel amacı (işlevi) bulunmaktadır. Bunlar
 
 ## Yargıtay HGK 2025/3 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1126603300)
+
 Cezai şart, mevcut borcun ifa edilmemesi veya eksik ifası hâlinde ödenmesi gereken mali değeri haiz ayrı bir edim olarak tanımlanırken, (Kenan Tunçomağ, Türk Hukukunda Cezai Şart, İstanbul, 1963, s. 6) 818 sayılı Kanun'un 158 ila 161. maddelerine dayanılarak yapılan bir başka tanımda ise “Cezai şart, borçlunun borcun hiç veya gereği gibi ifa edilmemesi halinde önceden kararlaştırılmış bir edada bulunmayı alacaklıya karşı taahhüt etmesi” olarak ifade edilmiştir (Cevdet İlhan Günay, Cezai Şart, Ankara, 2002, s. 5). 6098 sayılı Kanun'un 179. maddesine göre ise cezai şart, "bir sözleşmenin hiç veya gereği gibi ifa edilmemesi durumu için.." veya "borcun belirlenen zaman veya yerde ifa edilmemesi durumu için..." kararlaştırılabilmektedir. Buradan hareketle, cezai şartın, sözleşme taraflarından birinin, sözleşmeyi hiç veya gereği gibi ifa etmemesi hâline yönelik olarak karşı tarafa ödemeyi vaat ettiği, asıl borçtan bağımsız ekonomik değeri haiz bir edim olduğu ifade edilebilmektedir (İrem Yayvak Namlı, İş Hukukunda Cezai Şart, İstanbul, 2019, s. 12).
 
 ## Yargıtay HGK 2024/465 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1087930600)
+
 Ayrıca cezai şartın esas itibariyle iki temel amacı bulunmaktadır. Bunlardan biri, borçluyu ifaya zorlamak ve böylece asıl borcun ifasını teminat altına almak; diğeri de, borcun ifa edilmemesinden doğacak zararı önceden ve götürü şekilde tespit etmektir. Bu iki temel amacı dışında, cezai şartın diğer bir amacı da, ifayı engelleyen cezai şartta (dönme cezasında) borçlunun cezai şartı ödemek suretiyle sözleşmeden kolayca dönmesini sağlamaktır (Köksal KOCAAĞA, Türk Özel Hukukunda Cezai Şart (BK. m. 158-161), Ankara 2003, s. 40-42).
 
 ## Yargıtay HGK 2024/100 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1007554400)
 
 7\. 6098 sayılı Kanun'un 179 uncu maddesinin birinci fıkrasında seçimlik ceza koşulu düzenlenmiştir. Buna göre sözleşmenin hiç veya gereği gibi ifa edilmemesi hâlinde ödenmek üzere ceza koşulu vaat edilmiş ve aksi de sözleşmede öngörülmemiş ise alacaklı ya sözleşmenin ifasını ya da ceza koşulunun ödenmesini isteyebilir. Seçimlik ceza koşulunda alacaklı seçimlik bir yetkiye sahiptir. Buna göre borçlunun asıl edimi hiç veya gereği gibi ifa etmemesi durumunda alacaklı, ya asıl edimin ifasını ister ya da bundan vazgeçerek ceza koşulunun ödenmesini talep eder. Seçimlik ceza koşulunda alacaklı hem asıl edimin ifasını hem de ceza koşulunun ödenmesini isteyemeyecektir. Örneğin, satıcının sattığı malı teslim etmemesi hâlinde alıcının mal yerine 100.000,00 TL ceza koşulu isteyebileceği kararlaştırılmışsa, alıcı ister malın teslimini, isterse ceza koşulunu isteyebilir. Görüldüğü üzere burada seçimlik bir hak söz konusu olup alacaklı ancak ya asıl borcun ifasını ya da ceza koşulunun ödenmesini isteyebilir; alacaklı aynı anda hem asıl borcun ifasını hem de ceza koşulunun ödenmesini kural olarak isteyemez.
 Ancak hemen belirtmek gerekir ki, asıl borcun sonraki imkânsızlık nedeniyle ifa imkânının ortadan kalkması hâlinde, alacaklıya tanınmış olan bu seçim hakkı bir anlam ifade etmez. Asıl borcun ifası imkânsız olduğunda, alacaklı koşulları varsa yalnızca tazminat isteme hakkına sahip olur. Buna göre alacaklı, ya zararının tazmin edilmesini ya da ceza koşulunun ödenmesini ister.
 
 ## Yargıtay HGK 2024/23 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1007514100)
+
 Ceza koşulunun esas itibariyle iki temel amacı (işlevi) bulunmaktadır. Bunlardan biri, borçluyu ifaya zorlamak ve böylece asıl borcun ifasını teminat altına almak; diğeri ise, borcun ihlâli hâlinde borçlu tarafından ödenecek tazminatı önceden ve götürü olarak belirlemektir. Bu iki temel amacı dışında, ceza koşulunun diğer bir amacı da, ifayı engelleyen ceza koşulunda (dönme/fesih cezasında) borçlunun ceza koşulunu ödemek suretiyle sözleşmeden kolayca dönmesini sağlamaktır \[Köksal Kocaağa, Ceza Koşulu (Sözleşme Cezası), Ankara 2018, s. 31-33].
 
 ## Yargıtay HGK 2023/1224 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/984066200)
 
 Gerek belirli gerekse belirsiz iş sözleşmelerinde cezai şart içeren hükümler, karşılıklılık prensibinin bulunması hâlinde kural olarak geçerlidir. Diğer taraftan Yargıtay İçtihatları Birleştirme Genel Kurulunun 08.03.2019 tarihli ve 2017/10 esas 2019/1 karar sayılı kararı ile belirli süreli olarak yapılmış ancak objektif şartları taşımadığı için belirsiz süreli kabul edilen iş sözleşmesinde kararlaştırılan "süreden önce haksız feshe bağlı cezai şart hükmünün geçerli olduğuna" karar verildiğinden artık sözleşmenin belirli süreli ve belirsiz süreli olmasının cezai şartın geçerliliğine etkisi bulunmamaktadır. Asgari süreli iş sözleşmelerine de aynı şekilde hükümler konulması mümkündür.
 
 ## Yargıtay HGK 2022/1797 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/863615600)
+
 TBK'nun 182. maddesinin ilk fıkrasında "Taraflar cezanın miktarını serbestçe belirleyebilirler.", son fıkrasında ise, "Hakim aşırı gördüğü ceza koşulunu kendiliğinden indirir." hükmü bulunmaktadır. Ticari olmayan işlemlerde bu kuraldan dolayı borçlu ileri sürmese bile, hakim cezai şartta indirim yapılıp yapılmayacağını kendiliğinden saptamalıdır. Hakim, bu hakkını ölçülü olarak kullanmalı, tarafların ekonomik durumu, borçlunun ödeme yeterliliği ile beraber borcunu yerine getirmemiş olması dolayısıyla sağladığı yarar, borçlunun kanun derecesi, borca aykırı davranmasının ağırlığı, sözleşmeden beklenen yararın elde edilememesi ve akde aykırı davranılması yüzünden doğan zarar, cezai şartın tazmin ve ceza unsurlarını dengeli olarak gözetilerek objektif esaslara dayandırılmalıdır. Ticari işlerde ise, cezai şartın borçlunun mahvına sebep olacağı ileri sürülmelidir.
 
 ## Yargıtay HGK 2022/1653 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/862074900)
 
 Ayrıca cezai şartın esas itibariyle iki temel amacı bulunmaktadır. Bunlardan biri, borçluyu ifaya zorlamak ve böylece asıl borcun ifasını teminat altına almak; diğeri de, borcun ifa edilmemesinden doğacak zararı önceden ve götürü şekilde tespit etmektir. Bu iki temel amacı dışında, cezai şartın diğer bir amacı da, ifayı engelleyen cezai şartta (dönme cezasında) borçlunun cezai şartı ödemek suretiyle sözleşmeden kolayca dönmesini sağlamaktır (Köksal Kocaağa: Türk Özel Hukukunda Cezai Şart (BK. m. 158-161), Ankara 2003, s. 40-42).
 
 ## Yargıtay HGK 2020/809 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/638348200)
+
 Ayrıca cezai şartın esas itibariyle iki temel amacı bulunmaktadır. Bunlardan biri, borçluyu ifaya zorlamak ve böylece asıl borcun ifasını teminat altına almak; diğeri de, borcun ifa edilmemesinden doğacak zararı önceden ve götürü şekilde tespit etmektir. Bu iki temel amacı dışında, cezai şartın diğer bir amacı da, ifayı engelleyen cezai şartta (dönme cezasında) borçlunun cezai şartı ödemek suretiyle sözleşmeden kolayca dönmesini sağlamaktır (Kocaağa, K.: Türk Özel Hukukunda Cezai Şart (BK. m. 158-161), Ankara 2003, s. 40-42).
 
 ## Yargıtay HGK 2019/1213 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/579506800)
 
 Doktrinde yapılan bir tanıma göre cezai şart, “Mevcut borcun ifa edilmemesi veya eksik ifası halinde ödenmesi gereken mali değeri haiz ayrı bir edimdir.” (Tunçomağ, K.: Türk Hukukunda Cezai Şart, İstanbul 1963, s. 6). 818 sayılı BK’nın 158-161. maddelerine dayanılarak yapılan bir başka tanımda ise, “Cezai şart, borçlunun borcun hiç veya gereği gibi ifa edilmemesi halinde önceden kararlaştırılmış bir edada bulunmayı alacaklıya karşı taahhüt etmesi” olarak ifade edilmiştir (Günay, Cevdet İ.: Cezai Şart, Ankara 2002, s. 5).
 
 ## Yargıtay HGK 2019/1171 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/570982500)
+
 Doktrinde yapılan bir tanıma göre cezai şart, “Mevcut borcun ifa edilmemesi veya eksik ifası hâlinde ödenmesi gereken mali değeri haiz ayrı bir edimdir” (Tunçomağ, K.: Türk Hukukunda Cezai Şart, İstanbul 1963, s. 6). 818 sayılı BK’nın 158-161. maddelerine dayanılarak yapılan bir başka tanımda ise, “Cezai şart, borçlunun borcun hiç veya gereği gibi ifa edilmemesi hâlinde önceden kararlaştırılmış bir edada bulunmayı alacaklıya karşı taahhüt etmesi” olarak ifade edilmiştir (Günay, Cevdet İ.:Cezai Şart, Ankara 2002, s. 5).
 
 ## Yargıtay HGK 2016/318 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/232627200)
 
 Cezai şartın çeşitleri ise 818 sayılı BK’nın 158. maddesinde (6098 sayılı TBK m. 179) üç fıkra halinde üç çeşit olarak düzenlenmiştir. Buna göre 1. fıkrasında “seçimlik cezai şart”, 2. fıkrasında “ifaya eklenen cezai şart” ve 3. fıkrasında ise “dönme cezası” ya da “ifayı engelleyen cezai şart" olarak sayılabilir. Bu cezai şart çeşitlerinden cezai şartın başlıca üç amacı olduğu anlaşılmaktadır. Bunlar; teminatla birlikte ceza amacı, tazminat amacı ve sözleşmeden dönme amacıdır.
 
 ## Yargıtay HGK 2016/192 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/232466300)
+
 818 s. BK'nın 158/2.fıkrasında (6098 s. TBK. m. 179/2) düzenlenen ceza, ifaya eklenen cezai şarttır. Burada ceza, asıl borcun belirli zamanda veya yerde yerine getirilmemesi halinde kabul edilmiştir. Alacaklı, kusuru ile temerrüde düşen borçlunun mevcut durumdaki ifasını kabul etmekte ve ancak ifa zamanında ve yerinde yapılmadığından, sözleşmede kararlaştırılan cezayı talep etme hakkını kazanmaktadır. İfaya eklenen cezai şart, özellikle borcun geç ifa edilmesi halinde uygulanır ve uygulamada en çok rastlanan cezai şart türüdür.
 
 ## Yargıtay HGK 2014/1077 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/255295400)
 
 Cezai şart, geçerli bir borcun yerine getirilmemesi veya eksik yerine getirilmesi ya da belli bir yerde, belli bir zamanda yerine getirilmemesi durumunda borçlunun ödemesi gereken, alacaklıya ispat yükü olmadan zararını alabilme imkanını sağlayan fer'i nitelikte götürü bir edim olarak tanımlanmıştır. (Uygur Turgut: Açıklamalı-İçtihatlı Borçlar Kanunu Sorumluluk ve Tazminat Hukuku, Ankara 2003. cilt 4, sh.4257) Borçlunun borcunu hiç veya gereği gibi ifa etmemesi halinde alacaklıya bir edimde bulunmayı taahhüt etmesi olarak tanımlanmıştır (Kocaağa, Köksal: Türk Özel Hukukunda Cezai şart, Ankara 2003, sh.33 ).
 
 ## Yargıtay HGK 2014/905 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/84059500)
+
 Ayrıca cezai şartın esas itibariyle iki temel amacı bulunmaktadır. Bunlardan biri, borçluyu ifaya zorlamak ve böylece asıl borcun ifasını teminat altına almak; diğeri de, borcun ifa edilmemesinden doğacak zararı önceden ve götürü şekilde tespit etmektir. Bu iki temel amacı dışında, cezai şartın diğer bir amacı da, ifayı engelleyen cezai şartta (dönme cezasında) borçlunun cezai şartı ödemek suretiyle sözleşmeden kolayca dönmesini sağlamaktır (Köksal KOCAAĞA, Türk Özel Hukukunda Cezai Şart (BK. m. 158-161), Ankara 2003, s. 40-42).
 
 ## Yargıtay HGK 2014/768 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/84134400)
 
 Kural olarak, taraflar cezai şart miktarını tayinde serbesttirler. Ancak, kararlaştırılan cezai şartın borçlu üzerinde adalete aykırı sonuçlar doğurmaması da gerekir. 818 S. BK’nun 161/3. maddesi hükmü uyarınca, hâkim fahiş gördüğü cezaları indirmekle yükümlüdür. Bu hüküm, emredici nitelikte olduğundan hâkim tarafından re’sen gözetilmelidir; borçlunun bu yolda bir talebinin bulunması aranmaz. Ancak, cezai şart ödenmişse, hâkim bunu daha sonra indiremez. Borçlu, cezai şartın indirilmesini isteme hakkından önceden feragat edemez; anılan yasa hükmüyle hakime bırakılan bu konuda taraflarca yapılan kararlaştırma, aynı kanunun 19. maddesine göre geçerli değildir.
 
 ## Yargıtay HGK 2013/752 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/77472400)
+
 Sözleşmenin tarafları, sözleşme özgürlüğü ilkesi çerçevesinde sözleşmenin konusunu ve cezai şartın miktarını belirlemede özgür iseler de, bu özgürlüğün sınırsız ve sonsuz olduğu söylenemez. BK'nun 19, 20, 161 maddeleri bu özgürlüğün sınırını çizmiştir. Cezai şart borçlunun iktisaden mahvına sebep olacak derecede ağır ve yüksek ise, adap ve ahlaka aykırı sayılarak tamamen veya kısmen iptal edilmesi gerekir.
 
 ## Yargıtay HGK 2012/645 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/77369300)
 
 Ancak, taraflar bu kuralın dışında bir kararlaştırma da yapabilirler: Sözleşmeye, haklı nedene dayalı olmayan bir tek taraflı fesih (erken tahliye) durumunda, kiracının kira süresinin sonuna kadar işleyecek kira paralarının tümünden sorumlu olacağı yolunda hüküm konulabilir; bu nitelikteki bir hüküm cezai şart niteliğindedir ve geçerlidir, tarafları bağlar. Kiracının tacir olmadığı hallerle sınırlı olarak, sadece ve ancak, Borçlar Kanunu’nun 161/ son. Maddesi çerçevesinde, cezai şartın indirilmesi söz konusu olabilir.
 
 ## Yargıtay HGK 2011/234 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/76990800)
+
 Yanlar arasında imzalanan 04.07.2006 tarihli ek protokolde ayıplı olarak üretilen pantolon, şort ve şort eteklerin ücretsiz olarak yeniden davalı tarafça üretileceği, teslimin sipariş tarihinden itibaren 6 iş gününde yapılacağı, yeniden üretilecek olan üniformalarda kullanıcı hatası sayılmayan hallerin dışında üniformaların miadından önce deforme olması, yırtılması, renk atması, çekmesi, salması, ribanaların marullaşması, yaka telalarının salması veya ek protokolde belirtilen tarihlerde ürünlerin tesliminin gerçekleşmemesi halinde ve benzeri sözleşme ihlallerinde yüklenicinin iş sahibine kendisine ödenmiş tutarın 2 katı kadar tazminat dışında cezai şart ödeyeceği kararlaştırılmıştır. Söz konusu cezai şart akdin icra edilmemesi veya natamam olarak icrası halinde ödenmek üzere kararlaştırılmış olduğundan BK’nın 158/I. maddesi hükmünde tanımlanan seçimlik cezai şarttır. Sözleşmede aksine hüküm bulunmayan hallerde seçimlik cezada ya akdin ifası veya cezanın ödenmesi istenebilir.
 
 ## Yargıtay HGK 2006/451 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/76897800)
 
 Belirli süreli hizmet akdinin haklı neden olmaksızın ve sürenin sona ermesinden önce feshi sebebiyle, davacının ihbar önelinin sona erdiği tarih ile sözleşmenin normal süresinin bitim tarihi arasındaki dönemde alacağı ücret ve ikramiye, prim gibi ücretin eklerinden mahrum kaldığını ve B.K.nun 159/II, 325. maddeleri gereğince bu zararın cezai şart miktarını aşan kısmının davalıdan tahsili gerektiğini; uğranılan zararın, B.K. nun 325. maddesine göre belirlenen bakiye süreye ait tazminat miktarından (416 milyar TL), 21.02.2003 tarihinden sonra halen öğretim görevlisi olarak çalışmakta olduğu Ankara Üniversitesinden bakiye süreye karşılık sağlanacak gelirin (89 milyar TL) düşülmesiyle elde edilen 327 milyar TL. olduğunu, cezai şartı aşan zararın, bu miktardan nihai cezai şart tutarı düşülerek hesaplanacağını, bu durumda, B.K. nun 159/II. ve 325. maddeleri gereğince 160.000.000.000 TL.tazminatın davalıdan tahsili gerektiğini ileri sürerek; fazlaya ilişkin hak saklı kalmak kaydıyla 160.000.000.000 TL. tazminatın, 13.3.2003 temerrüt tarihinden itibaren yasal faizi ile birlikte davalıdan tahsiline karar verilmesini talep ve dava etmiştir.
 
@@ -111,64 +149,92 @@ Sözleşmenin bu maddesinde kararlaştırılan ceza ifaya ekli cezai şart oldu�
 
 ## Yargıtay 3. HD 2021/12268 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/716099500)
+
 Hemen belirtmek gerekir ki, cezai şartı düzenleyen TBK.nun 179/1 (BK.nun 158/1). maddesi; "Bir sözleşmenin hiç veya gereği gibi ifa edilmemesi durumu için bir ceza kararlaştırılmışsa, aksi sözleşmeden anlaşılmadıkça alacaklı, ya borcun ya da cezanın ifasını isteyebilir." hükmünü içermektedir. Aynı kanunun 182/1.(BK.nun 161/1) maddesinde; "Taraflar, cezanın miktarını serbestçe belirleyebilirler." denilmekte ise de bu serbestlik sınırsız değildir. Maddenin son fıkrasında yer alan; "Hakim, aşırı gördüğü ceza koşulunu kendiliğinden indirir." hükmüne yer verilmiştir.
 
 ## Yargıtay 3. HD 2021/10291 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/701703400)
 
 Ayrıca cezai şartın esas itibariyle iki temel amacı bulunmaktadır. Bunlardan biri, borçluyu ifaya zorlamak ve böylece asıl borcun ifasını teminat altına almak; diğeri de, borcun ifa edilmemesinden doğacak zararı önceden ve götürü şekilde tespit etmektir. Bu iki temel amacı dışında, cezai şartın diğer bir amacı da, ifayı engelleyen cezai şartta (dönme cezasında) borçlunun cezai şartı ödemek suretiyle sözleşmeden kolayca dönmesini sağlamaktır (Köksal KOCAAĞA, Türk Özel Hukukunda Cezai Şart (BK. m. 158-161), Ankara 2003, s. 40-42).
 
 ## Yargıtay 3. HD 2021/921 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/651696800)
+
 Cezai şartı düzenleyen TBK.nun 179/1 (BK.nun 158/1). maddesi; "Bir sözleşmenin hiç veya gereği gibi ifa edilmemesi durumu için bir ceza kararlaştırılmışsa, aksi sözleşmeden anlaşılmadıkça alacaklı, ya borcun ya da cezanın ifasını isteyebilir." hükmünü içermektedir. Aynı kanunun 182/1.(BK.nun 161/1) maddesinde; "Taraflar, cezanın miktarını serbestçe belirleyebilirler." denilmekte ise de bu serbestlik sınırsız değildir. Maddenin son fıkrasında yer alan; "Hakim, aşırı gördüğü ceza koşulunu kendiliğinden indirir." hükmüne yer verilmiştir.
 
 ## Yargıtay 3. HD 2020/3730 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/620608300)
+
 Ayrıca cezai şartın esas itibariyle iki temel amacı bulunmaktadır. Bunlardan biri, borçluyu ifaya zorlamak ve böylece asıl borcun ifasını teminat altına almak; diğeri de, borcun ifa edilmemesinden doğacak zararı önceden ve götürü şekilde tespit etmektir. Bu iki temel amacı dışında, cezai şartın diğer bir amacı da, ifayı engelleyen cezai şartta (dönme cezasında) borçlunun cezai şartı ödemek suretiyle sözleşmeden kolayca dönmesini sağlamaktır (..., Türk Özel Hukukunda Cezai Şart (BK. m. 158-161), Ankara 2003, s. 40-42).
 
 ## Yargıtay 19. HD 2019/5428 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/567195900)
 
 Örneğin; beş yıl süreli bir “akaryakıt bayilik sözleşmesinde (veya eki taahhütnamede) bayinin yıllık asgari ürün alımı taahhüdü bulunmasına rağmen yıllar itibariyle bu taahhüde uyulmamış ise tedarikçi (sağlayıcı) firmanın, TBK'nun 179/II. md. uyarınca hem ifayı hem de ceza koşulunu talep edebilmesi için takip eden yılda henüz bayie mal vermeden önce ceza koşulu ile ilgili “çekince” (ihtirazi kayıt) bildirmesi ya da bu konuda bayie noterden bir ihtarname göndermesi gerekir. Çekince için bir şekil şartı getirilmemiştir. Tedarikçi, taahhüde aykırı davranılmış olan yılı takip eden yeni yıldaki ilk fatura ve irsaliyeye koyacağı bir açıklama (şerh) ile bu koşulu yerine getirebilir. Bu şekilde bir çekince (ihtirazi kayıt) konulduktan veya ihtar çekildikten sonra tedarikçi (sağlayıcı) firma, mal vermeye (ifaya) devam etse bile önceki yıla ilişkin ceza koşulu alacağını sözleşme zamanaşımı süresi içinde her zaman talep edebilir. Sonraki yıllarda da aynı kural geçerlidir. Tekrarlamak gerekirse, her yıl sonunda bir önceki yıla dair ceza koşulunun istenebilmesi, takip eden yılda henüz ifaya başlanmadan önce çekince (ihtirazi kayıt) bildirilmesi veya ihtar çekilmesine bağlıdır.
 Bunlar yapılmadan müteakip yılın ifası gerçekleşmişse artık bir önceki yıla ait ceza koşulu istenemez. Çekince konmuş veya ihtar çekilmiş olan yıllarla ilgili ceza koşulunun istenebileceği ise kuşkusuzdur. TBK’nun 179/II. Maddesinde öngörülen hüküm, emredici nitelikte olmadığından taraflar, sözleşme serbestisi ilkesi gereğince aralarında farklı bir düzenleme yapabilirler. Örneğin, sözleşmenin feshi halinde hem cezai şart hem de kar mahrumiyeti ödeneceğini kararlaştırabilirler. Ancak sözleşmenin feshi halinde cezai şart ödeneceğinin kararlaştırılmış olduğu hallerde, Yargıtay HGK'nun 20.01.2013 T. 2012/19-670 E. 2013/171 K. sayılı kararında da açıklandığı üzere, sözleşme süresi içinde çekince konmadan uzun süre ifaya devam edilmesi üzerine borçluda, “ceza koşulu istenmeyeceği” ne dair haklı bir güven oluşmuş ise oluşan bu haklı güven ve dürüstlük ilkesi nedeniyle önceki yıla veya yıllara ait ceza koşullarının talep edilemeyeceğinin kabulü gerekir.
 
 ## Yargıtay 19. HD 2019/4342 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/554101500)
+
 Örneğin; beş yıl süreli bir "akaryakıt bayilik sözleşmesinde (veya eki taahhütnamede) bayinin yıllık asgari ürün alımı taahhüdü bulunmasına rağmen yıllar itibariyle bu taahhüde uyulmamış ise tedarikçi (sağlayıcı) firmanın, TBK'nun 179/II. maddesi uyarınca hem ifayı hem de ceza koşulunu talep edebilmesi için takip eden yılda henüz bayie mal vermeden önce ceza koşulu ile ilgili "çekince" (ihtirazi kayıt) bildirmesi ya da bu konuda bayie noterden bir ihtarname göndermesi gerekir. Çekince için bir şekil şartı getirilmemiştir. Tedarikçi, taahhüde aykırı davranılmış olan yılı takip eden yeni yıldaki ilk fatura ve irsaliyeye koyacağı bir açıklama (şerh) ile bu koşulu yerine getirebilir. Bu şekilde bir çekince (ihtirazi kayıt) konulduktan veya ihtar çekildikten sonra tedarikçi (sağlayıcı) firma, mal vermeye (ifaya) devam etse bile önceki yıla ilişkin ceza koşulu alacağını sözleşme zamanaşımı süresi içinde her zaman talep edebilir. Sonraki yıllarda da aynı kural geçerlidir. Tekrarlamak gerekirse, her yıl sonunda bir önceki yıla dair ceza koşulunun istenebilmesi, takip eden yılda henüz ifaya başlanmadan önce çekince (ihtirazi kayıt) bildirilmesi veya ihtar çekilmesine bağlıdır.
 Bunlar yapılmadan müteakip yılın ifası gerçekleşmişse artık bir önceki yıla ait ceza koşulu istenemez. Çekince konmuş veya ihtar çekilmiş olan yıllarla ilgili ceza koşulunun istenebileceği ise kuşkusuzdur. TBK'nun 179/II. maddesinde öngörülen hüküm, emredici nitelikte olmadığından taraflar, sözleşme serbestisi ilkesi gereğince aralarında farklı bir düzenleme yapabilirler. Örneğin, sözleşmenin feshi halinde hem cezai şart hem de kar mahrumiyeti ödeneceğini kararlaştırabilirler. Ancak sözleşmenin feshi halinde cezai şart ödeneceğinin kararlaştırılmış olduğu hallerde, Yargıtay HGK'nun 20.01.2013 T. 2012/19-670 E. 2013/171 K. sayılı kararında da açıklandığı üzere, sözleşme süresi içinde çekince konmadan uzun süre ifaya devam edilmesi üzerine borçluda, "ceza koşulu istenmeyeceği" ne dair haklı bir güven oluşmuş ise oluşan bu haklı güven ve dürüstlük ilkesi nedeniyle önceki yıla veya yıllara ait ceza koşullarının talep edilemeyeceğinin kabulü gerekir.
 
 ## Yargıtay 3. HD 2018/4973 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/423357100)
+
 Davaya dayanak yapılan, 25.04.2008 tarihli ortaklık sözleşmesinin 10. maddesinde "ortaklığın ortaklardan biri tarafından haksız ve makul bir neden olmaksızın feshi halinde haksız fesihte bulunan tarafça diğer tarafa 20.000 TL tazminat (cezai şart) ödenecektir" düzenlemesi yer almaktadır. Davacının bu maddeye göre talep ettiği tazminat TBK' nun 179 vd. maddelerinde düzenlenen cezai şart niteliğindedir.
 
 ## Yargıtay 3. HD 2017/17807 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/390014700)
+
 Ayrıca cezai şartın esas itibariyle iki temel amacı bulunmaktadır. Bunlardan biri, borçluyu ifaya zorlamak ve böylece asıl borcun ifasını teminat altına almak; diğeri de, borcun ifa edilmemesinden doğacak zararı önceden ve götürü şekilde tespit etmektir. Bu iki temel amacı dışında, cezai şartın diğer bir amacı da, ifayı engelleyen cezai şartta (dönme cezasında) borçlunun cezai şartı ödemek suretiyle sözleşmeden kolayca dönmesini sağlamaktır (... Türk Özel Hukukunda Cezai Şart (BK. m. 158-161), ... 2003, s. 40-42).
 
 ## Yargıtay 19. HD 2016/9261 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/219921600)
 
 Cezai şart, borçlunun alacaklıya karşı mevcut bir borcu hiç veya gereği gibi ifa etmemesi halinde ödemeyi vaat ettiği, hukuki işlem ile belirlenmiş ekonomik değeri olan bir edimdir. Cezai şartın amacı, borçluyu borca uygun davranmaya sevk etmektir. Cezai şart, asıl alacağı kuvvetlendirme amacı güder. Bu bakımdan cezai şart, kuvvetlendirilecek asıl borcun mevcut olmasını gerektirir. Asıl borç yoksa cezai şart da söz konusu olamaz. Bu niteliği itibariyle cezai şart asıl borca bağlı fer'i bir borçtur. Asıl borç, mevcut ve geçerli ise, cezai şart da borç doğurur. Asıl borç sona ermiş ya da geçersiz doğmuşsa, cezai şart bağımsız bir borç oluşturamaz. Cezai şart, asıl borcun bağlı olduğu şekle tabidir. Asıl borç bir geçerlilik şekline bağlanmışsa, cezai şartın borç doğurabilmesi aynı şekilde kararlaştırılmış bulunmasına bağlıdır. Ancak, geçerlilik şekline bağlı olan bir sözleşme bu şekle uygun olarak yapılmadığı halde, şekle aykırılığı ileri sürmenin dürüstlük kurallarıyla bağdaşmaması nedeniyle dinlenmediği hallerde, sözleşme geçerli sayıldığından, onun fer’i nitelikte olan cezai şart da geçerli sayılacaktır. Cezai şartın fer’ilik niteliği asıl borca bağlı olduğu sürece devam eder.
 Başka bir anlatımla cezai şartın fer’iliği, muaccel olduğu ana kadar devam eder. Borçlu borca aykırı davrandığında cezai şart muaccel hale geldiğinden artık fer’i değil, asli (bağımsız) bir alacak niteliğini kazanır. Cezai şart, sağlararası hukuki işlemlerde ve özellikle sonuçlarını hayatta doğuran sözleşmelerde kararlaştırılır. (Bkz.Tunçomağ Kenan; Türk Borçlar Hukuku I.Cilt Genel Hükümler İstanbul 1976 Sh.853 vd., ...; Borçlar Hukuku Genel Hükümler 5.Bası, Cilt 2 Sh.1169-1171; Kılıçoğlu... Borçlar Hukuku Genel Hükümler 4.Bası Sh.575-577;....; Borçlar Hukuku Genel Hükümler 12. Bası Sh. 362.)…
 
 ## Yargıtay 19. HD 2015/15395 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/193988700)
+
 Cezai şartın amacı, borçluyu borca uygun davranmaya sevk etmektir. Cezai şart, asıl alacağı kuvvetlendirme amacı güder. Bu bakımdan cezai şart, kuvvetlendirilecek asıl borcun mevcut olmasını gerektirir. Asıl borç yoksa cezai şart da sözkonusu olamaz. Bu niteliği itibariyle cezai şart asıl borca bağlı fer'i bir borçtur. Asıl borç, mevcut ve geçerli ise, cezai şart da borç doğurur. Asıl borç sona ermiş ya da geçersiz doğmuşsa, cezai şart bağımsız bir borç oluşturamaz. Cezai şart, asıl borcun bağlı olduğu şekle tabidir. Asıl borç bir geçerlilik şekline bağlanmışsa, cezai şartın borç doğurabilmesi aynı şekilde kararlaştırılmış bulunmasına bağlıdır. Ancak, geçerlilik şekline bağlı olan bir sözleşme bu şekle uygun olarak yapılmadığı halde, şekle aykırılık ileri sürmenin dürüstlük kurallarıyla bağdaşmaması nedeniyle dinlenmediği hallerde, sözleşme geçerli sayıldığından onun fer'i nitelikte olan cezai şart da geçerli sayılacaktır. Cezai şartın fer'ilik niteliği asıl borca bağlı olduğu sürece devam eder. Başka bir anlatımla cezai şartın fer'iliği, muaccel olduğu ana kadar devam eder.
 Borçlu borca aykırı davrandığında cezai şart muaccel hale geldiğinden artık fer'i değil, asli ( bağımsız) bir alacak niteliğini kazanır. Cezai şart, sağlaması hukuki işlemlerde ve özellikle sonuçlarını hayatta doğuran sözleşmelerde kararlaştırılır. (Bkz. Tunçamağ Kenan; Türk Borçlar Hukuku 1. Cilt Genel Hükümler İstanbul 1976 Sh. 853 vd. ... Borçlar Hukuku Genel Hükümler 5. Bası Cilt 2, Sh. 1169-1171; Kılıçoğlu M. Ahmet; Borçlar Hukuku Genel Hükümler 4. Bası Sh. 575-577; Reisoğlu Safa; Borçlar Hukuku Genel Hükümler 12. Bası Sh. 362)…
 
 ## Yargıtay 19. HD 2015/13433 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/199421500)
 
 Örneğin; beş yıl süreli bir “akaryakıt bayilik sözleşmesinde (veya eki taahhütnamede) bayinin yıllık asgari ürün alımı taahhüdü bulunmasına rağmen yıllar itibariyle bu taahhüde uyulmamış ise tedarikçi (sağlayıcı) firmanın, TBK'nun 179/II. md. uyarınca hem ifayı hem de ceza koşulunu talep edebilmesi için takip eden yılda henüz bayie mal vermeden önce ceza koşulu ile ilgili “çekince” (ihtirazi kayıt) bildirmesi ya da bu konuda bayiye noterden bir ihtarname göndermesi gerekir. Çekince için bir şekil şartı getirilmemiştir. Tedarikçi, taahhüde aykırı davranılmış olan yılı takip eden yeni yıldaki ilk fatura ve irsaliyeye koyacağı bir açıklama (şerh) ile bu koşulu yerine getirebilir. Bu şekilde bir çekince (ihtirazi kayıt) konulduktan veya ihtar çekildikten sonra tedarikçi (sağlayıcı) firma, mal vermeye (ifaya) devam etse bile önceki yıla ilişkin ceza koşulu alacağını sözleşme zamanaşımı süresi içinde her zaman talep edebilir. Sonraki yıllarda da aynı kural geçerlidir. Tekrarlamak gerekirse, her yıl sonunda bir önceki yıla dair ceza koşulunun istenebilmesi, takip eden yılda henüz ifaya başlanmadan önce çekince (ihtirazi kayıt) bildirilmesi veya ihtar çekilmesine bağlıdır.
 Bunlar yapılmadan müteakip yılın ifası gerçekleşmişse artık bir önceki yıla ait ceza koşulu istenemez. Çekince konmuş veya ihtar çekilmiş olan yıllarla ilgili ceza koşulunun istenebileceği ise kuşkusuzdur. TBK’nun 179/II. Maddesinde öngörülen hüküm, emredici nitelikte olmadığından taraflar, sözleşme serbestisi ilkesi gereğince aralarında farklı bir düzenleme yapabilirler. Örneğin, sözleşmenin feshi halinde hem cezai şart hem de kar mahrumiyeti ödeneceğini kararlaştırabilirler. Ancak sözleşmenin feshi halinde cezai şart ödeneceğinin kararlaştırılmış olduğu hallerde, Yargıtay HGK'nun 20.01.2013 T. 2012/19-670 E. 2013/171 K. sayılı kararında da açıklandığı üzere, sözleşme süresi içinde çekince konmadan uzun süre ifaya devam edilmesi üzerine borçluda, “ceza koşulu istenmeyeceği” ne dair haklı bir güven oluşmuş ise oluşan bu haklı güven ve dürüstlük ilkesi nedeniyle önceki yıla veya yıllara ait ceza koşullarının talep edilemeyeceğinin kabulü gerekir.
 
 ## Yargıtay 19. HD 2015/8577 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/196640100)
+
 Örneğin; beş yıl süreli bir “akaryakıt bayilik sözleşmesinde (veya eki taahhütnamede) bayinin yıllık asgari ürün alımı taahhüdü bulunmasına rağmen yıllar itibariyle bu taahhüde uyulmamış ise tedarikçi (sağlayıcı) firmanın, TBK'nun 179/II. md. uyarınca hem ifayı hem de ceza koşulunu talep edebilmesi için takip eden yılda henüz bayie mal vermeden önce ceza koşulu ile ilgili “çekince” (ihtirazi kayıt) bildirmesi ya da bu konuda bayie noterden bir ihtarname göndermesi gerekir. Çekince için bir şekil şartı getirilmemiştir. Tedarikçi, taahhüde aykırı davranılmış olan yılı takip eden yeni yıldaki ilk fatura ve irsaliyeye koyacağı bir açıklama (şerh) ile bu koşulu yerine getirebilir. Bu şekilde bir çekince (ihtirazi kayıt) konulduktan veya ihtar çekildikten sonra tedarikçi (sağlayıcı) firma, mal vermeye (ifaya) devam etse bile önceki yıla ilişkin ceza koşulu alacağını sözleşme zamanaşımı süresi içinde her zaman talep edebilir. Sonraki yıllarda da aynı kural geçerlidir. Tekrarlamak gerekirse, her yıl sonunda bir önceki yıla dair ceza koşulunun istenebilmesi, takip eden yılda henüz ifaya başlanmadan önce çekince (ihtirazi kayıt) bildirilmesi veya ihtar çekilmesine bağlıdır.
 Bunlar yapılmadan müteakip yılın ifası gerçekleşmişse artık bir önceki yıla ait ceza koşulu istenemez. Çekince konmuş veya ihtar çekilmiş olan yıllarla ilgili ceza koşulunun istenebileceği ise kuşkusuzdur. TBK’nun 179/II. Maddesinde öngörülen hüküm, emredici nitelikte olmadığından taraflar, sözleşme serbestisi ilkesi gereğince aralarında farklı bir düzenleme yapabilirler. Örneğin, sözleşmenin feshi halinde hem cezai şart hem de kar mahrumiyeti ödeneceğini kararlaştırabilirler. Ancak sözleşmenin feshi halinde cezai şart ödeneceğinin kararlaştırılmış olduğu hallerde, Yargıtay HGK'nun 20.01.2013 T. 2012/19-670 E. 2013/171 K. sayılı kararında da açıklandığı üzere, sözleşme süresi içinde çekince konmadan uzun süre ifaya devam edilmesi üzerine borçluda, “ceza koşulu istenmeyeceği” ne dair haklı bir güven oluşmuş ise oluşan bu haklı güven ve dürüstlük ilkesi nedeniyle önceki yıla veya yıllara ait ceza koşullarının talep edilemeyeceğinin kabulü gerekir.
 
 ## Yargıtay 19. HD 2015/6432 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/195552900)
+
 Örneğin; beş yıl süreli bir “akaryakıt bayilik sözleşmesinde (veya eki taahhütnamede) bayinin yıllık asgari ürün alımı taahhüdü bulunmasına rağmen yıllar itibariyle bu taahhüde uyulmamış ise tedarikçi (sağlayıcı) firmanın, TBK'nun 179/II. md. uyarınca hem ifayı hem de ceza koşulunu talep edebilmesi için takip eden yılda henüz bayie mal vermeden önce ceza koşulu ile ilgili “çekince” (ihtirazi kayıt) bildirmesi ya da bu konuda bayie noterden bir ihtarname göndermesi gerekir. Çekince için bir şekil şartı getirilmemiştir. Tedarikçi, taahhüde aykırı davranılmış olan yılı takip eden yeni yıldaki ilk fatura ve irsaliyeye koyacağı bir açıklama (şerh) ile bu koşulu yerine getirebilir. Bu şekilde bir çekince (ihtirazi kayıt) konulduktan veya ihtar çekildikten sonra tedarikçi (sağlayıcı) firma, mal vermeye (ifaya) devam etse bile önceki yıla ilişkin ceza koşulu alacağını sözleşme zamanaşımı süresi içinde her zaman talep edebilir. Sonraki yıllarda da aynı kural geçerlidir. Tekrarlamak gerekirse, her yıl sonunda bir önceki yıla dair ceza koşulunun istenebilmesi, takip eden yılda henüz ifaya başlanmadan önce çekince (ihtirazi kayıt) bildirilmesi veya ihtar çekilmesine bağlıdır.
 Bunlar yapılmadan müteakip yılın ifası gerçekleşmişse artık bir önceki yıla ait ceza koşulu istenemez. Çekince konmuş veya ihtar çekilmiş olan yıllarla ilgili ceza koşulunun istenebileceği ise kuşkusuzdur. TBK’nun 179/II. Maddesinde öngörülen hüküm, emredici nitelikte olmadığından taraflar, sözleşme serbestisi ilkesi gereğince aralarında farklı bir düzenleme yapabilirler. Örneğin, sözleşmenin feshi halinde hem cezai şart hem de kar mahrumiyeti ödeneceğini kararlaştırabilirler. Ancak sözleşmenin feshi halinde cezai şart ödeneceğinin kararlaştırılmış olduğu hallerde, Yargıtay HGK'nun 20.01.2013 T. 2012/19-670 E. 2013/171 K. sayılı kararında da açıklandığı üzere, sözleşme süresi içinde çekince konmadan uzun süre ifaya devam edilmesi üzerine borçluda, “ceza koşulu istenmeyeceği” ne dair haklı bir güven oluşmuş ise oluşan bu haklı güven ve dürüstlük ilkesi nedeniyle önceki yıla veya yıllara ait ceza koşullarının talep edilemeyeceğinin kabulü gerekir.
 
 ## Yargıtay 19. HD 2014/16536 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/107347600)
 
 Örneğin; beş yıl süreli bir “akaryakıt bayilik sözleşmesinde (veya eki taahhütnamede) bayinin yıllık asgari ürün alımı taahhüdü bulunmasına rağmen yıllar itibariyle bu taahhüde uyulmamış ise tedarikçi (sağlayıcı) firmanın, TBK'nun 179/11. md. uyarınca hem ifayı hem de ceza koşulunu talep edebilmesi için takip eden yılda henüz bayie mal vermeden önce ceza koşulu ile ilgili “çekince” (ihtirazi kayıt) bildirmesi ya da bu konuda bayie noterden bir ihtarname göndermesi gerekir. Çekince için bir şekil şartı getirilmemiştir. Tedarikçi, taahhüde aykırı davranılmış olan yılı takip eden yeni yıldaki ilk fatura ve irsaliyeye koyacağı bir açıklama (şerh) ile bu koşulu yerine getirebilir. Bu şekilde bir çekince (ihtirazi kayıt) konulduktan veya ihtar çekildikten sonra tedarikçi (sağlayıcı) firma, mal vermeye (ifaya) devam etse bile önceki yıla ilişkin ceza koşulu alacağını sözleşme zamanaşımı süresi içinde her zaman talep edebilir. Sonraki yıllarda da aynı kural geçerlidir. Tekrarlamak gerekirse, her yıl sonunda bir önceki yıla dair ceza koşulunun istenebilmesi, takip eden yılda henüz ifaya başlanmadan önce çekince (ihtirazi kayıt) bildirilmesi veya ihtar çekilmesine bağlıdır.
 Bunlar yapılmadan müteakip yılın ifası gerçekleşmişse artık bir önceki yıla ait ceza koşulu istenemez. Çekince konmuş veya ihtar çekilmiş olan yıllarla ilgili ceza koşulunun istenebileceği ise kuşkusuzdur. TBK’nun 179/11. maddesinde öngörülen hüküm, emredici nitelikte olmadığından taraflar, sözleşme serbestisi ilkesi gereğince aralarında farklı bir düzenleme yapabilirler. Örneğin, sözleşmenin feshi halinde hem cezai şart hem de kar mahrumiyeti ödeneceğini kararlaştırabilirler. Ancak, sözleşmenin feshi halinde cezai şart ödeneceğinin kararlaştırılmış olduğu hallerde, Yargıtay HGK'nun 20.01.2013 T. 2012/19-670 E. 2013/171 K. sayılı kararında da açıklandığı üzere, sözleşme süresi içinde çekince konmadan uzun süre ifaya devam edilmesi üzerine borçluda, “ceza koşulu istenmeyeceği” ne dair haklı bir güven oluşmuş ise oluşan bu haklı güven ve dürüstlük ilkesi nedeniyle önceki yıla veya yıllara ait ceza koşullarının talep edilemeyeceğinin kabulü gerekir.

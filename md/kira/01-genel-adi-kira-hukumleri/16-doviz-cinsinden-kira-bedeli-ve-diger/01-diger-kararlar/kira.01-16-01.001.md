@@ -22,9 +22,13 @@ uyari: "Derleyenin seçtiği alıntılardır; kararın tamamı değildir. Künye
 
 ## Yargıtay HGK 2017/1552 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/385961200)
+
 Sözleşmenin “Kira başlangıç tarihi ve işin gecikmesi” başlıklı 10. maddesinde, işe başlama tarihinden itibaren sözleşme şartlarında en geç 9 (dokuz) ay içerisinde tesisin yüklenici tarafından kurulmasına ilişkin alınması gereken tüm yetki, onay ve izinlerin TEAŞ lehine alınarak konuşlandırılmasından, sisteme fiziki bağlantısının yapılmasından ve madde 23'de belirtilen testlerin başarıyla tamamlanmasından sonra kabul komisyonu tarafından kabul protokolünün imzalandığı tarihin kira başlangıç tarihi olacağının ve ödemelerde bu tarihin esas alınacağının, sözleşmede belirtilen işe başlama tarihinden itibaren TEAŞ'dan veya sözleşmede belirtilen mücbir sebeplerden kaynaklanan nedenlerden dolayı süre uzatımının verilebileceğinin, yükleniciden kaynaklanan nedenlerin bulunması durumunda ise süre uzatımının verilmeyeceğinin, yükleniciden kaynaklanan nedenlerle gecikmenin olması durumunda gecikme nedenlerinin TEAŞ’a yazılı olarak bildirileceğinin, yükleniciden kaynaklanan gecikmede ilk otuz gün içinde günde MW başına 1.000 ABD doları, ikinci otuz gün için günde MW başına 1.250 ABD doları, üçüncü otuz gün için günde MW başına 1.500 ABD doları ceza kesileceğinin düzenlendiği,…
 
 ## Yargıtay HGK 2006/300 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/76789900)
 
 “(aylık 2650 Amerikan dolarından muaccel olan 4 aylık Ocak, Şubat, Mart, Nisan 2003 ayları kira bedelleri) açıklaması ile 10.600 USD toplam alacağın fiili tahsil tarihindeki
 
@@ -32,27 +36,39 @@ Merkez Bankası döviz kuru üzerinden asıl alacak üzerinden dövize %8 faizi 
 
 ## Yargıtay 12. HD 2025/5705 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1184267700)
+
 Öte yandan davalı kiracı şirketin ticaret sicil kayıtları incelendiğinde tek pay sahipli Anonim şirket olduğu, bu pay sahibinin de Birleşik Arap Emirliklerinde faaliyet gösteren, Birleşik Arap Emirlikleri Uyruklu "... İnternatıonal Fze" şirketi olduğu, dolayısıyla kiracı şirketin Türk Parasının Kıymetini Koruma Hakkında 332 sayılı Karara İlişkin Tebliğin (Tebliğ No: 2008-32/34) 8.maddesinin 3. ve 19. fıkraları gereğince döviz cinsinden ya da dövize endeksli olarak kira sözleşmesi yapamayacak kişilerin istisnası kapsamında olup, kira bedellerinin döviz cinsinden veya dövize endeksli olarak kararlaştırılmasının mümkün olduğu, davacı alacaklının dövizle kira takibi yapılabileceği görülmektedir.
 
 ## Yargıtay 3. HD 2025/2427 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1162918100)
 
 Davaya konu gayrimenkul satış vaadi sözleşmesinin incelenmesinde, alıcının eldeki dava davacısı, yüklenicinin davalı şirket olduğu, sözleşmede 4 ve 5 numaralı bağımsız bölümlerin satışının vaad edildiği, taşınmazların fiili teslim tarihinin 31/12/2013 olduğu, her bir taşınmaz için ayrı ayrı 2.000.-Euro elden ödendiği, her bir taşınmaz için 36.100.- Euro'nun 29/06/2013 tarihinde kalan 38.100.-Euro'nun ise 31/12/2013 tarihine kadar kredi başvurusu yapılıp kredi çıkıp tapu devri yapıldığında ödeneceği, her bir bağımsız bölüm için ayrı ayrı 76.000.-Ar Eura'ya anlaşma sağlandığı, sözleşmenin V-3 maddesinde Toar, taşınmazı ilk 5 yıl içinde geri almayı taahhüt eder, değer artışı yıllık %5 olarak hesaplanır dendiği, yine sözleşmenin V-4 maddesinde 10 yıllık kira garantisi başlıklı, Toar taşınmazı 10 yıl süreyle satış giyatının %8,5 oranındaki yıllık kira bedeli üzerinden kiralamayı garanti eder ve kiralar alıcı söz konusu yerin tapu alımı sırasında geriye kalan bakiye borcu için kredi kullanacağı için bu kredi Toar söz konusu kredi ödemelerini alıcının yıllık kira gelirinden ödeyecektir hükmünün bulunduğu, ayrıca sözleşmenin VI-2 maddesinde davalı müteahhitin kusuru ile ilgili olarak cezai
 şartın düzenlendiği anlaşılmıştır.
 
 ## Yargıtay 3. HD 2025/1992 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1155927300)
+
 Taraflar tacir olup, taraflar arasında imzalanan kira sözleşmesi de ticari iş niteliğinde olduğundan davacı, 3095 sayılı Kanun’un 4/a maddesi uyarınca, sözleşmede daha yüksek akdi veya gecikme faizi kararlaştırılmadığı hallerde, yabancı para borcunun faizinde Devlet Bankalarının o yabancı para ile açılmış bir yıl vadeli mevduat hesabına ödediği en yüksek faiz oranının uygulanmasını talep edebilir. Bu durumda Mahkemece; hüküm altına alınan alacağın, ihtarname tebliğ tarihinden itibaren verilen 7 günlük süre sonu itibariyle işleyecek faiziyle birlikte tahsiline karar verilmesi gerekirken, faiz istemli hakkında bir karar verilmemiş olması usul ve kanuna aykırı olup, bozmayı gerektirir.
 
 ## Yargıtay 3. HD 2024/3370 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1102936900)
 
 Temyiz olunan Bölge Adliye Mahkemesi kararında; hukuki ilişkinin ve bu ilişki nedeniyle ortaya çıkan uyuşmazlığa yukarıda yer verilen kanun maddesinin doğru şekilde uygulandığı, davacının taraflar arasında düzenlenen 18.10.2012 tarihli kira sözleşmesinin (10.) maddesinde yer alan düzenlemeye dayanarak, kiralanan araçların davalı kiracı tarafından geç teslim edilmesi nedeniyle tazminat talep ettiği, sözleşmenin (10.) maddesinde, kontrat sonunda araçların geri verilmesi sırasında gecikilen her gün için kiracının, kiraya verene, araç başına 180 €+KDV tazminat ödeneceğinin düzenlendiği, sözleşme hükmünden de anlaşılacağı üzere söz konusu tazminatın ancak öngörülen sürenin sona ermesinden sonra araçların geç teslim edilmesi halinde uygulanacağı, somut olayda sözleşmenin öngörülen süreden önce fesihle sonuçlandırıldığı, sözleşmenin feshine ilişkin hükümlerin sözleşmenin (15.) maddesinde ayrıca yer aldığı, bu halde davacının sözleşmesinin (10.) maddesine göre tazminat talebinin yerinde olmadığı, Mahkemece, karar tarihindeki döviz kuru esas alınarak davalı lehine vekalet ücretine hükmedildiği, davalı vekili tarafından esas alınan kurun hatalı olduğu ileri sürülmüş ise de dava tarihindeki
 döviz kuruna göre vekalet ücretinin belirlenmesi gerektiği, bu hususun davacı tarafından temyiz dilekçesinde ileri sürülmediği, bu nedenle davalı vekilinin esas alınan döviz kurununu hatalı olduğu yönündeki temyiz itirazının, Mahkemece esas alınan döviz kurunun dava tarihindeki kurdan daha yüksek olması sebebiyle yerinde olmadığı, davacının takip yapmakta kötü niyetli olduğunun ispatlanamadığı anlaşılmakla, tarafların temyiz itirazlarının reddi ile usul ve kanuna uygun bulunan kararın onanmasına karar vermek gerekmiştir.
 
 ## Yargıtay 3. HD 2024/3382 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1098398000)
+
 6.2. İlk kira süresi (bir yıl ) içinde kiracının tek taraflı fesih hakkı yoktur. Kiracı en az bir yıl süre ile kiracı olarak kalmayı kabul ve taahhüt etmiştir. Ancak kiracı sözleşmeyi fesih eder ve kira süresi içinde taşınmazı erken tahliye ederse, kira başlangıç tarihi ile tahliye edilen tarih aralığındaki her ay için 3.000.-USD (ÜçbinAmerikandoları) ve %18 Katma Değer vergisi ve tahliye tarihi ile kira süresinin hitamındaki bakiye süre için aylık 15.000,00.-USD (-OnbeşbinAmerikandoları) ve %18 Katma Değer vergisini cezai şart olarak kiralayana gayrikabili rücü ödemeyi kabul, beyan ve taahhüt etmiştir. Cezai şart dışında kiralayanın başkaca herhangi bir tazminat talep hakkı olmayacaktır.
 
 ## Yargıtay 3. HD 2024/3066 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1098364100)
 
 Dairece verilen 01.11.2022 tarihli ve 2022/2117 E., 2022/8400 K. sayılı ilamla; tarafların sair temyiz itirazlarının reddine karar verildikten sonra asıl davada yabancı para cinsinden hüküm altına alınan alacağın, 3095 sayılı Kanun'un 4/a maddesi gereğince Devlet Bankalarının Dolar ile açılmış bir yıl vadeli mevduat hesabına ödediği en yüksek faiz oranı uygulanmak suretiyle tahsiline hükmedilmesi gerekirken, yazılı şekilde ticari faize hükmedilmiş olmasının usul ve kanuna aykırı olduğu, birleşen davada; davacı kiracının tahliye tarihi esas alınarak fazla kira ödemesi yaptığı gerekçesiyle 11.718,98 TL'nin kiraya verenlerden tahsiline karar verilmiş ise de; asıl davada, kiraya verenlerin erken fesihten kaynaklanan alacakları hesaplanırken kiracının fazla ödediği kira bedeli 11.718,98 TL'nin mahsup edildiği, Mahkemece; bu talebin reddine karar verilmesi gerekirken, mükerrer tahsilata yol açacak şekilde karar karar verilmiş olmasının da doğru görülmediği, Mahkemece; asıl ve birleşen davaların ayrı ayrı karara bağlanması nedeniyle yargılama
 
@@ -60,14 +76,20 @@ giderlerinin de ayrı ayrı tayin edilmesi gerekirken buna aykırı olarak hük�
 
 ## Yargıtay 3. HD 2024/2902 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1104767300)
+
 Taraflar arasında 22.07.2015 tarihli ve 25 yıl süreli kira sözleşmesi bulunmakta olup, davalı kiraya veren tarafından sözleşmedeki imzanın inkar edilmediği gibi sözleşmenin geçersizliği hususunun da ispat edilemediği anlaşılmaktadır. Sözleşmede " Bu iş yerleri 25 yıllık olarak ... Müh. San. Tic. Ltd. Şti'ye kiraya verilmiş olup, kiracı iş yerleri içinde yapmış olduğu Tadilatların karşılığı olan 60.000,00 Euro kiracı firmaya ödeyecek ve Günü dolmadan iş yerini Satar ise veya Boşaltmak ister ise kiracıya 40.000,00 Euro toplam 100.000,00 Euro ödemeyi kabul etmiştir. Kiracı da yaptığı tadilatı öylece bırakacaktır. Tadilat önceki tarihte yapıldı. Toplam 60.000,00 Euro harcandı. Kiracı bu iş yerlerini 3 ncü kişilere Devir edebilir ve kiralar ..." hükmü kararlaştırılmıştır. Tarafların serbest iradesi ile kararlaştırılan bu hüküm geçerli olup tarafları bağlayıcıdır. İlgili maddede, açıkça kiralanana yapılan tadilat bedelleri belirlenmiş ve imza altına alınmış olmakla, şartın gerçekleşmesi ile kiracının bu maddeye istinaden kararlaştırılan tadilat bedelinin tahsilini istemesinde bir usulsüzlük bulunmamaktadır.
 Bu durumda İlk Derece Mahkemesince; yukarıda açıklanan ilkeler ve sözleşme hükümleri birlikte değerlendirilerek sonucuna göre bir karar verilmesi gerekirken, yanılgılı değerlendirme ile yazılı şekilde karar verilmiş olması doğru görülmemiş, bozmayı gerektirmiştir.
 
 ## Yargıtay 12. HD 2024/5208 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1067071900)
+
 Somut olayda, 26.01.2017 başlangıç tarihli beş yıllık (3+2) yazılı kira sözleşmesinin varlığı konusunda taraflar arasında uyuşmazlık bulunmadığı, kira sözleşmesinin kira bedeli başlıklı 4. maddesinde kira bedelinin üç yıllık ilk dönemde ilk yıl için 45.000 Euro brüt, 36.000 Euro net, ikinci yıl için net 38.000 Euro, üçüncü yıl için net 40.000 Euro, ikinci etap için devam kararı halinde dört ve beşinci yıllar için net kiraların kiralayan tarafından ciroya göre değerlendirilerek yeniden tespit edileceğinin kararlaştırıldığı, borçlu şirketin borca itiraz dilekçesinde, dosya alacaklısına borcu bulunmadığını bildirerek itiraz ettiği, açıkça ve ayrıca kira ilişkisine ve kira miktarına karşı çıkmadığı anlaşılmıştır. Borçlunun kira ilişkisine ve kira miktarına açıkça karşı çıkmaması karşısında İİK'nın 269/2. maddesi gereğince kira ilişkisinin ve kira miktarının kesinleştiğinin kabulü gerekir.
 
 ## Yargıtay 3. HD 2024/1125 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1054479800)
 
 Ödeme planı başlıklı 5. maddesi;"Yukarıda parsel no'su belirtilen 57.600 m2 arazi için OSCHATZ tarafından ödenecek olan Zemin İslahı İnşaat Bedeli 160 $/m2 olup, toplam bedel 9.216.000.ABD Doları'dır. OSCHATZ bu sözleşmenin imza tarihinden itibaren 15 gün içinde Serbest Bölgeler Genel Müdürlüğüne Faaliyet Ruhsatı başvurusu yapacak ve Serbest Bölgeler Genel Müdürlüğünden uygunluk yazısının alınmasını müteakip 15 Kasım 2008 tarihinde, KOSBAŞ'a Zemin Islahı İnşaat Bedelinin ilk taksiti olarak 1.000.900,00
 
@@ -75,39 +97,57 @@ US$ ödeyecektir. Zemin Islahı İnşaat Bedelinin bakiyesi Ek 2'deki ödeme pla
 
 ## Yargıtay 6. HD 2023/3927 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/989523500)
+
 Asliye Hukuk Mahkemesinin 14.07.2016 tarih ve 2012/370 E., 2016/347 K. sayılı dosyasında tapu kaydının iptali ile davacı adına tapuya kayıt ve tesciline, yine verilmesi kararlaştırılan üç dükkanın bedeli olan 195.000,00 TL’nin dava tarihinden itibaren yasal faizi ile birlikte davalılardan müteselsilen alınarak davacıya verilmesine karar verildiği, kararın 30.10.2019 tarihinde kesinleştiği, davalılardan ... İnş. Mlz. San. Tic. Ltd. Şti.’nin kira bedeli olarak davacıya 1200 Euro verdiği, davalılardan ... vekilinin, davacının 165 m² daire yerine 250 m² daire aldığını, davacıya her bir dairede 85 m² fazladan verildiğini, davacı tarafın zenginleştiğini, bu konuda Kayseri 6. Asliye Hukuk Mahkemesinin 2020/12 E. sayılı dosyası ile dava açtıklarını, bu davanın bekletici mesele yapılmasını talep etmiş ise de, davacının eldeki iş bu davayı kira alacağı talebiyle açtığı, ortada Kayseri 6.
 Asliye Hukuk Mahkemesinin 2012/370 E., 2016/347 K. sayılı kararıyla verilen ve kesinleşen bir kararın bulunduğu, davalı ...'nın sebepsiz zenginleşmeden kaynaklı alacağı bakımından açtığı davanın bekletici mesele yapılmasının gerekmediği, dava tarihi ile sözleşmede kararlaştırılan teslim tarihi olan 29.11.2011 arası gecikilen süre yönünden sözleşmenin 10. maddesine göre gecikilen her ay için 100 Euro gecikme tazminatının ödenmesi gerektiği, buna göre 2 adet daire ve 3 adet dükkan yönünden gecikme tazminatının 360.543,94 TL olduğu, davacıya 1200 Euro kira ödemesi yapıldığı ve ödenilen 1200 Euro kira bedelinin düşülmesi sonucu davacının toplamda 346.738,06 TL kira alacağına hak kazandığı gerekçesiyle, davanın kısmen kabulü ile, 346.738,06 TL'nin dava tarihinden itibaren işleyecek avans faiziyle birlikte davalılardan müştereken ve müteselsilen tahsiline karar verilmiştir.
 
 ## Yargıtay 3. HD 2023/3293 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/985477300)
+
 Cumhurbaşkanı kararı ile 32 sayılı kararda yapılan değişiklik ile gerekli düzenlemelerin yapılmasında yetkili kılınan Hazine ve Maliye Bakanlığı tarafından hazırlanarak 06/10/2018 tarihli ve 30557 sayılı Resmi Gazete'de Türk Parası Kıymetini Koruma Hakkında 32 Sayılı Karara İlişkin Tebliğ (Tebliğ No: 2008-32/34)’de Değişiklik Yapılmasına Dair Tebliğ (Tebliğ No: 2018-32/51) yayımlanmıştır. Bakanlığın bu tebliği ile Türk Parası Kıymetini Koruma Hakkında 32 sayılı Karara ilişkin 2008-32/34 sayılı (Hazine ve Maliye Bakanlığının) tebliğinin 8 inci maddesi "Döviz Cinsinden ve Dövize Endeksli Sözleşmeler" başlığı ile birlikte yeniden düzenlenmiştir. Anılan maddenin değiştirilen (2) numaralı fıkrası; "Türkiye’de yerleşik kişiler; kendi aralarında akdedecekleri, konusu serbest bölgeler dahil yurt içinde yer alan gayrimenkuller olan, konut ve çatılı ... yeri dâhil gayrimenkul kiralama sözleşmelerinde sözleşme bedelini ve bu sözleşmelerden kaynaklanan diğer ödeme yükümlülüklerini döviz cinsinden veya dövize endeksli olarak kararlaştıramazlar,";…
 
 ## Yargıtay 12. HD 2023/4368 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/939052900)
 
 6098 sayılı Türk Borçlar Kanunu 344/IV maddesine göre; “Sözleşmede kira bedeli yabancı para olarak kararlaştırılmışsa 20.2.1930 tarihli ve 1567 sayılı Türk Parasının Kıymetini Koruma Hakkında Kanun hükümleri saklı kalmak şartıyla, beş yıl geçmedikçe kira bedelinde değişiklik yapılamaz. Ancak, bu Kanunun, “Aşırı ifa güçlüğü” başlıklı 138 inci maddesi hükmü saklıdır. Beş yıl geçtikten sonra kira bedelinin belirlenmesinde, yabancı paranın değerindeki değişiklikler de göz önünde tutularak üçüncü fıkra hükmü uygulanır.”…
 
 ## Yargıtay 3. HD 2021/2139 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/655313700)
+
 Somut olayda; Windowist Tower isimli işyerinin 9.-11.-12. ve 19. katlarının kullanımı için taraflar arasında 23.01.2012 başlangıç tarihli 2 yıl süreli asıl kira sözleşmesi ile 30.01.2014 tarihli ek sözleşme bulunduğu, asıl sözleşmenin 2.1. maddesinde; kira bedelinin ilk iki yıl için kat başına aylık 30.000 USD+KDV olarak kararlaştırıldığı, bu sözleşme esas alınarak hazırlanan 30.01.2014 tarihli değişiklik sözleşmesi ile de asıl kira sözleşmesinin 6.2. ve 6.3. maddelerinde değişikliğe gidilerek 6.2.maddesinin; "Üçüncü yıl için aylık kira bedeli kat başına 33.825 ABD Doları+KDV olacaktır. Dördüncü yıl için aylık kira bedeli üçüncü yıl kira bedelinin ilgili dönem için ABD CPI oranı +%2 artırımı ile bulunacaktır. Beşinci yıl aylık kira bedeli kat başına 40.000 ABD Doları+KDV olacaktır...Kiracı dönem sonundan…
 
 ## Yargıtay 3. HD 2019/8348 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/554992600)
 
 Olayımıza gelince; Taraflar arasında, davaya dayanak 01/01/2010 başlangıç tarihli, 1 yıl süreli, yıllık 10.000 Euro+KDV bedelli kira sözleşmesine ilişkin uyuşmazlık bulunmamaktadır. Kira sözleşmesinde artış hükmüne yer verilmemiştir. Bu durumda davacının sözleşmenin yenilendiği 01/01/2015 tarihi için kira bedelinin tespitini talep edebilmesi için, davanın bu dönemin başlangıcından en geç otuz gün önceki bir tarihte açılması ya da kiraya veren tarafından bu süre içinde kira bedelinin artırılacağına ilişkin olarak kiracıya yazılı bildirimde bulunulmuş olması gerekir.
 
 ## Yargıtay 3. HD 2019/7106 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/538247400)
+
 Somut uyuşmazlıkta, hüküm fıkrasında iadesine karar verilen kira alacağına işleyecek yasal faiz denmiş ise de; yabancı para borcuna hangi faizin uygulanacağı 3095 sayılı yasanın 4/a - (Ek madde: 14/11/1990 - 3678/30 md.) maddesinde “ Sözleşmede daha yüksek akdi veya gecikme faizi kararlaştırılmadığı hallerde, yabancı para borcunun faizinde Devlet Bankalarının o yabancı para ile açılmış bir yıl vadeli mevduat hesabına ödediği en yüksek faiz oranı uygulanır.” şeklinde düzenlemesi mevcuttur. Mahkemece hüküm altına alınan yabancı para için yürütülen faizin 3095 sayılı Yasa’nın 4/a maddesine uygun olmaması hatalı olup, bozma sebebidir.
 
 ## Yargıtay 3. HD 2019/5956 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/520361100)
 
 6098 sayılı Türk Borçlar Kanunu 344. maddesinde; “Tarafların yenilenen kira dönemlerinde uygulanacak kira bedeline ilişkin anlaşmaları, bir önceki kira yılında üretici fiyat endeksindeki artış oranını geçmemek koşuluyla geçerlidir. Bu kural, bir yıldan daha uzun süreli kira sözleşmelerinde de uygulanır. Taraflarca bu konuda bir anlaşma yapılmamışsa, kira bedeli, bir önceki kira yılının üretici fiyat endeksindeki artış oranını geçmemek koşuluyla hâkim tarafından, kiralananın durumu göz önüne alınarak hakkaniyete göre belirlenir. Taraflarca bu konuda bir anlaşma yapılıp yapılmadığına bakılmaksızın, beş yıldan uzun süreli veya beş yıldan sonra yenilenen kira sözleşmelerinde ve bundan sonraki her beş yılın sonunda, yeni kira yılında uygulanacak kira bedeli, hâkim tarafından üretici fiyat endeksindeki artış oranı, kiralananın durumu ve emsal kira bedelleri göz önünde tutularak hakkaniyete uygun biçimde belirlenir. Her beş yıldan sonraki kira yılında bu biçimde belirlenen kira bedeli, önceki fıkralarda yer alan ilkelere göre değiştirilebilir. Sözleşmede kira bedeli yabancı para olarak kararlaştırılmışsa, beş yıl geçmedikçe kira bedelinde değişiklik yapılamaz.
 Ancak, bu Kanunun, “Aşırı ifa güçlüğü” başlıklı 138 inci maddesi hükmü saklıdır. Beş yıl geçtikten sonra kira bedelinin belirlenmesinde, yabancı paranın değerindeki değişiklikler de göz önünde tutularak üçüncü fıkra hükmü uygulanır.”…
 
 ## Yargıtay 8. HD 2018/19860 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/466235500)
+
 Olayımıza gelince; Taraflar arasında imzalanan 15/04/2015 başlangıç tarihli 3 yıl süreli kira sözleşmesi hususunda uyuşmazlık bulunmamaktadır. Kira sözleşmesinde yıllık kira bedelinin 2.400 Euro olduğu ve her yıl belirli tarihlerde çek ile ödeneceği kararlaştırılmıştır. Her ne kadar kira sözleşmesi ile kira bedellerinin çek ile ödeneceği kararlaştırılmış ve taraflarca da takibe konu dönemlere ilişkin davacı alacaklıya çek verildiği kabul edilmiş ise de, hem taraf beyanlarından, hem de... Türk Katılım Bankası A.Ş Organize Şubesinin yazısına göre, davacı alacaklıya kira bedeline ilişkin olarak verildiği iddia edilen çeklerin süresinde bankaya ibraz edilmediği ve karşılığının davacı alacaklıya ödenmediği anlaşılmaktadır. Nitekim 6102 Sayılı TTK'nin 808/1. maddesine göre, çekin süresinde muhatap bankaya ibraz edildiği, ibraz günü de gösterilmek suretiyle çekin üzerine yazılmış olan tarihli bir beyanla tespit edilmelidir. Aksi takdirde alacaklı müracaat hakkını kaybeder. Somut olayda; takibin dayanağı olan çekin süresi içinde bankaya ibraz edilmediği, dolayısıyla çek niteliğini yitirdiği anlaşılmaktadır.
 
 ## Yargıtay 8. HD 2018/12375 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/488899000)
 
 Takipte dayanılan ve karara esas alınan 01.12.2009 başlangıç tarihli ve bir yıl süreli kira sözleşmesi konusunda taraflar arasında uyuşmazlık bulunmamaktadır. Sözleşmede kira bedeli aylık 4.000,00 USD olarak belirlenmiş olup, sözleşmenin 5.maddesi ile “kira bedeli 2.yıl için 4.200 USD olarak ödenecektir. Yenilenen 2.yıl için dövizdeki kur artışı veya düşmesinde USD alt limit 1.500 TL, üst limit 1.800 TL olarak hesaplanacaktır” düzenlemesine yer verilerek ödeme tarihindeki TL karşılığı kur bedeli de kararlaştırılmıştır. Sözleşmede kira bedelinin “dolar” olarak ödeneceği belirlenmiş ve takip ile de kira alacağı dolar üzerinden istenmiştir. Ödeme emrinin davalıya tebliği üzerine verilen borca itiraz dilekçesinde davalı borçlu alacaklı tarafa belirtilen miktarda borcu bulunmadığını bildirerek borca itiraz etmiş, kira miktarına ve dolar üzerinden takip başlatılmasına ilişkin itirazda
 
@@ -115,9 +155,13 @@ bulunmamıştır. Mahkemece davalı kiracının, takibe dayanak yaptığı kira 
 
 ## Yargıtay 3. HD 2018/2171 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/419086000)
+
 Davada dayanılan ve hükme esas alınan 01.07.2008 başlangıç tarihli ve bir yıl süreli ve yıllık 5.000 EURO bedelli kira sözleşmesi konusunda taraflar arasında bir uyuşmazlık bulunmamaktadır. Dava niteliği itibariyle konusu para ile değerlendirilebilen davalardan olduğundan yukarıda açıklandığı üzere Harçlar Kanun'unun 30. Maddesi uyarınca tahliye davası yönünden yıllık kira bedeli üzerinden hesap edilerek nispi harç yatırılması zorunludur. Mahkemece davacıdan 25,20 TL peşin harç alınmış, hükümde ise dava nisbi harca tabi olduğu halde karar tarihinde yürürlükte bulunan harç tarifesi gereğince tayin olunan 27,70 TL karar harcından, peşin alınan25,20 TL harcın mahsubu ile bakiye 2,50 TL harcın davalıdan tahsili ile hazineye irad kaydına karar verilmiştir. Mahkemece yıllık 5.000 EURO üzerinden harcın tamamlanması için davacıya süre verilerek sonucuna göre karar verilmesi ve tahliye davasının kabulü halinde son dönemde ödenen 1 yıllık kira bedeli üzerinden nisbi harcın tahsiline hükmedilmesi gerekirken yazılı şekilde eksik harç tamamlanmadan işin esasına girilerek karar verilmesi doğru olmamıştır.
 
 ## Yargıtay 3. HD 2017/17600 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/388922900)
 
 Somut olayda; davada dayanılan ve hükme esas alınan 01.01.2003 başlangıç tarihli ve 11 yıl süreli kira sözleşmesine ilişkin taraflar arasında uyuşmazlık bulunmamaktadır. Kira sözleşmesinin Özel Şartlar 6.maddesinde; ''kira kontratı başlangıcı her ne kadar 01/01/2003 ise de, kiracı ilk 3 ay için her hangi bir kira ödemesi yapmayacaktır. Yani ilk kira ödemesi Nisan 2003 ayı için 01/04/2003-10/04/2003 tarihlerinde yapılacaktır.’’, 7-c-maddesinde; ''01/04/2003 ile 01/04/2004 arasında aylık kira bedeli 5000-USD'nin 05/04/2003 tarihindeki ... Bankasının ... Doları satış ve alış kuru ortalaması üzerinden Türk Lirasına çevrilmesi ile bulunacak miktar olup, 12 ay süresince aynı rakam aylık kira parası olarak ödenecektir. 01/04/2004 tarihine kadar bu miktar sabit kalacaktır'', 7-d-maddesinde; ''01/04/2004 ile 01/04/2014 tarihleri arasında 10 yıl boyunca aylık kirası 7000-USD'nin her yılın 5 Nisan tarihindeki ... Bankasının ... Doları alış ve satış kuru ortalaması üzerinden Türk Lirasına çevrilmesi ile bulunacak miktar olup, bu miktar sonraki yılın Nisan ayı başına kadar sabit olarak kiracı tarafından aylık kira parası olarak ödenecektir'' , 7-g-maddesinde;
 "tarafların karşılıklı anlaşması halinde kira süresi, kira sözleşmesinin hitamından sonra 5 yıl uzadığı taktirde, 01.04.2014 - 01.04.2019 tarihleri arasındaki 5 yıl boyunca ödenecek aylık kira bedelinin tespiti için taraflar 01.04.2014 tarihinden üç ay önce bir araya gelerek kira bedelinin miktarının ne olacağını, o günkü binanın yeni durumu, çevre şartlarına göre Amerikan Doları olarak belirleyecek ve önceki dönemlerde olduğu gibi beş yıl boyunca her yıl 5 Nisan tarihindeki ... Doları alış ve satış kuru ortalaması üzerinden Türk Lirasına çevrilmesi sonucu bulunacak miktar sabit kabul edilerek 12 ay süresince aynı rakam aylık kira parası olarak ödenecektir. Kira akdinin bitim tarihi olan bu tarihten sonra ise kira ilişkisi
@@ -126,14 +170,20 @@ devam eder ise aylık kira parası günün koşullarına göre karşılıklı ol
 
 ## Yargıtay 3. HD 2017/17036 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/387454700)
+
 1-6098 sayılı Türk Borçlar Kanununun 344. maddesinde; “Tarafların yenilenen kira dönemlerinde uygulanacak kira bedeline ilişkin anlaşmaları, bir önceki kira yılında üretici fiyat endeksindeki artış oranını geçmemek koşuluyla geçerlidir. Bu kural, bir yıldan daha uzun süreli kira sözleşmelerinde de uygulanır. Taraflarca bu konuda bir anlaşma yapılmamışsa, kira bedeli, bir önceki kira yılının üretici fiyat endeksindeki artış oranını geçmemek koşuluyla hâkim tarafından, kiralananın durumu göz önüne alınarak hakkaniyete göre belirlenir. Taraflarca bu konuda bir anlaşma yapılıp yapılmadığına bakılmaksızın, beş yıldan uzun süreli veya beş yıldan sonra yenilenen kira sözleşmelerinde ve bundan sonraki her beş yılın sonunda, yeni kira yılında uygulanacak kira bedeli, hâkim tarafından üretici fiyat endeksindeki artış oranı, kiralananın durumu ve emsal kira bedelleri göz önünde tutularak hakkaniyete uygun biçimde belirlenir. Her beş yıldan sonraki kira yılında bu biçimde belirlenen kira bedeli, önceki fıkralarda yer alan ilkelere göre değiştirilebilir. Sözleşmede kira bedeli yabancı para olarak kararlaştırılmışsa, beş yıl geçmedikçe kira bedelinde değişiklik yapılamaz.
 Ancak, bu Kanunun, “Aşırı ifa güçlüğü” başlıklı 138 inci maddesi hükmü saklıdır. Beş yıl geçtikten sonra kira bedelinin belirlenmesinde, yabancı paranın değerindeki değişiklikler de göz önünde tutularak üçüncü fıkra hükmü uygulanır.”…
 
 ## Yargıtay 3. HD 2017/9364 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/352695500)
+
 Görecek hakkında başlattıkları ..... 1. İcra Müdürlüğünün 2011/3094 Esas ve 23.09.2011 tarihli icra takibi ile 2009, 2010, 2011 yıllarından ödenmeyen 31.000 Euro kira alacağının tahsilini istemişlerdir. Borçlu davacı yasal sürede borca itiraz ederek takibi durdurmuştur. Daha sonra davalılar diğer davacı şirket hakkında başlattıkları ..... 1. İcra Müdürlüğünün 2011/3544 Esas ve 31.10.2011 tarihli icra takibi ile 2009, 2010, 2011 yıllarından ödenmeyen 31.000 Euro kira alacağının tahsilini istemişlerdir. Davacı borçlu yasal sürede borca itiraz etmemiş, İcra Mahkemesine tebligat yönünden şikayet yoluna başvurmuş ancak şikayeti reddedilmiştir.
 
 ## Yargıtay 3. HD 2017/1287 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/299686800)
 
 Davada dayanılan .../05/2010 tarihli kira sözleşmesi konusunda taraflar arasında bir uyuşmazlık bulunmamaktadır. Sözleşmenin özel şartlar .... maddesinde "Fazla kullanım ücreti km. başına % 0,010 Euro + KDV olacak ve kiracı tarafından ayrıca ödenecektir." düzenlemesi yer almaktadır. Taraflar arasında düzenlenen kira sözleşmesinde km. aşım ücreti açıkça belirtilmiş olup sözleşmeye bağlılık ilkesi gereği, bu hüküm basiretli birer tacir olması gereken tarafları bağlar. Bu durumda km. aşım bedelinin sözleşmede kararlaştırılan 0,010 Euro+KDV üzerinden hesaplanarak davalıdan tahsiline karar verilmesi gerekirken
 
@@ -141,30 +191,44 @@ sözleşme hükümlerinde hata yapıldığı gerekçesiyle 0,... Euro üzerinden
 
 ## Yargıtay 6. HD 2016/6334 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/326381600)
+
 Kira sözleşmesi ek protokolün 8. maddesinde, soğuk odalar ve kapılarının kiraya veren tarafından yapılacağı ancak masrafın maksimum 170.000 Euro + KVD kadar kiracı tarafından karşılanacağı hüküm altına alınmıştır. Soğuk oda ve kapılarının imalatının kiraya veren tarafından gerçekleştirildiği konusunda taraflar arasında uyuşmazlık bulunmamaktadır. Uyuşmazlık söz konusu imalatların bedeline yöneliktir. Protokolde imalatların en fazla 170.000 Euro kadar olan kısmının kiracı tarafından karşılanacağı belirtilmiş olup söz konusu imalatın maliyetinin belirlenmesi ve üst limiti aşmamak kaydıyla kiracının bu bedelden sorumlu tutulması gerekir. Hükme esas alınan bilirkişi raporunda, talep edilen 352.564,53 TL imalat bedelinin makul olduğu belirtilmiş ise de keşif yapılmadan, imalatın niteliği tespit edilmeden bu sonuca varıldığı anlaşılmaktadır. Bu nedenle keşfen imalatların değeri belirlenerek sonucuna göre bir karar verilmesi gerekirken yazılı şekilde karar verilmesi doğru değildir. Öte yandan, davalının takas ve mahsup talebi ile ilgili olumlu olumsuz bir karar verilmemesi de doğru değildir.
 
 ## Yargıtay 6. HD 2016/5820 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/269715500)
 
 Davada dayanılan ve hükme esas alınan 09/09/2013 başlangıç tarihli ve beş yıl süreli kira sözleşmesi konusunda taraflar arasında uyuşmazlık bulunmamaktadır. Sözleşmede ilk yıl için yıllık kira bedeli 33.948 Euro, ikinci yıl için yıllık kira bedeli 36.900 Euro olarak belirlenmiştir. Sözleşmenin ........ maddesinde " Kiracı sözleşmenin bitiminden evvel iş bu sözleşmeyi tek taraflı olarak feshetmesi halinde ilgili yılda yürürlükte olan garanti edilen toplam asgari kira bedeli yıllık taksidini cezai şart olarak ödeyeceği " kararlaştırılmıştır. Davalı kiracı öncesinde her hangibir fesih ihtarı dahi göndermeksizin kira sözleşme süresi sona ermeden önce sözleşmenin daha ... yılında 02/07/2014 tarihinde düzenlenen tutanakla taşınmazın anahtarını davacıya teslim etmiştir. Sözleşmenin ........ maddesinde " ilgili yılda yürürlükte olan garanti edilen toplam asgari kira bedeli yıllık taksidini cezai şart olarak ödeyeceği " kararlaştırılmış olup sözleşme ilk yılda feshedildiğinden davalının 33.948 Euro yıllık kira bedelinden sorumlu tutulması gerekirken ikinci yıl ödenmesi kararlaştırılan kira bedelinden sorumlu tutulması doğru değildir.
 
 ## Yargıtay 6. HD 2016/4853 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/225646500)
+
 Yabancı para cinsinden yapılan kira sözleşmesindeki kira alacağı, yabancı para alacağı olarak dava edilebilir ve ödeme günündeki kura göre işlem görür. Davacı kira alacağını Euro cinsinden talep etmiş olup fiili ödeme tarihindeki döviz kuru üzerinden TL karşılığının tahsiline karar verilmesi gerekir. Bu durumda Euro üzerinden hesaplanan kira bedelinin fiili ödeme tarihinde ...’nın efektif satış kuru üzerinden belirlenecek TL karşılığının tahsiline karar verilmesi gerekirken, yazılı şekilde TL'ye çevrilerek hüküm kurulmuş olması isabetli değildir.
 
 ## Yargıtay 6. HD 2016/3765 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/210277000)
+
 Taraflar arasında 22.12.2006 tarihli, iki yıl müddetli, ilk iki yıl kirasının peşin, bundan sonrası için ödeme gününün belirlenmediği kira sözleşmesi konusunda uyuşmazlık bulunmamaktadır. Sözleşmede makul süre kirası düzenlenmemiş, aylık kiranın üçüncü yıldan itibaren 20.000 USD olacağı ve TCMB döviz satış kuru üzerinden hesaplanacak Türk Lira'sı karşılığı ödeneceği kararlaştırılmıştır. Bu durumda hükmedilen alacak sözleşmede düzenlediği gibi talep tarihindeki TCMB döviz satış kuru üzerinden hesaplanacak Türk Lira'sı karşılığı olarak belirlenmesi gerekirken yazılı şekilde alacağın USD olarak tahsiline karar verilmesi doğru değildir. Ayrıca 3095 sayılı yasanın 4/a maddesinde '' Sözleşmede daha yüksek akdi veya gecikme faizi kararlaştırılmadığı hallerde, yabancı para borcunun faizinde Devlet Bankalarının o yabancı para ile açılmış bir yıl vadeli mevduat hesabına ödediği en yüksek faiz oranı uygulanır '' düzenlemesi bulunmakta olup faize hükmederken bu madde hükmü dikkate alınıp gerekli araştırma yapılmadan yabancı para borcuna değişen oranlarda ticari faiz uygulanması da doğru değildir.
 
 ## Yargıtay 6. HD 2016/2467 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/215589100)
 
 Hükme esas alınan 01.05.2009 başlangıç tarihli ve 5 yıl süreli kira sözleşmesi konusunda taraflar arasında uyuşmazlık bulunmamaktadır. Sözleşmenin 3.maddesinde kira bedellerine yapılacak stopajların mal sahipleri adına yatırılacağı düzenlenmiştir. Sözleşme kiraya veren olarak dava dışı ... ile davalı kiracı ... arasında akdedilmiştir. Dava konusu taşınmaz davacı şirket tarafından 20.05.2014 tarihinde edinilmiştir. Satın alma ile birlikte yeni malik .... eski malikin haklarına halef olmuş olup, bu durumda kiralayanın şirket olduğu hususunda bir ihtilaf bulunmamaktadır. Davacı şirket satın almadan sonra brüt kira bedeli üzerine KDV de ekleyerek 01.05.2014 tarihinde başlayan yeni dönem kira bedelinin ödendiği şekilde 24.000 Dolar değil 30.000 Dolar + 5.400 Dolar KDV olduğunu belirterek kira bakiyesi ve KDV bedeli toplamı 11.400 Doların tahsilini istemiştir. Kira sözleşmesinde aylık ve yıllık olarak belirlenen kira bedelinin net olduğu ve stopajın kiracıya ait olduğu belirtildiğine göre aylık kira bedelinin net olarak ödenmesi gerekir.
 Taraflar arasındaki uyuşmazlık, kiralayan şirket olduğuna göre davacı şirketin kira bedeli için fatura keserken kira bedeli üzerinden KDV’yi de ekleyerek kira bedeli talep edip edemeyeceği ve KDV’nin kira sözleşmesinde belirtilen net kira bedeli üzerinden mi yoksa brüt kira bedeli üzerinden mi hesaplanması gerektiğine ilişkindir. Dairemizce de benimsenen Yargıtay Hukuk Genel Kurulu'nun 02.10.2002 tarih ve 2002/19-712 E-2002/660 K sayılı içtihadında da belirtildiği gibi kiralayan kurumlar vergisine tabi ise kiracının stopaj değil KDV ödemesi gerekir. Kurumlar vergisine tabi davacı kira bedelini isterken net kira bedeli üzerinden %18 KDV hesaplamak zorundadır.
 
 ## Yargıtay 6. HD 2016/1450 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/214657100)
+
 Takibe dayanak yapılan ve hükme esas alınan 18.01.2007 başlangıç tarihli ve bir yıl süreli kira sözleşmesi konusunda taraflar arasında bir uyuşmazlık bulunmamaktadır. Kira sözleşmesinin 3. maddesinde; kiracı ödemede temerrüde düştüğü takdirde kiracının ayrıca aylık %2 dolar üzerinden döviz faizi ödeyeceği kararlaştırılmıştır. Davacı da takip ile bu düzenlemeye dayanarak aylık %2 dolar üzerinden işlemiş faiz talebinde bulunmuştur.
 
 ## Yargıtay 6. HD 2016/736 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/208199200)
 
 Sözleşmeye bağlılık ilkesi uyarınca taraflar sözleşme süresi ile bağlı olup kural olarak akdin süresinden önce feshi mümkün değildir. Aksi durumda haklı bir neden olmaksızın sözleşmeyi fesheden tarafın giderim yükümlülüğü doğar. Ancak sözleşmede kiracı lehine erken fesih hakkı tanınabilir. Bu durumda kiracının feshinin sözleşmede kararlaştırılan düzen ve koşullara uygun olması zorunludur. Ancak bu durumda kiracının tazminat yükümlülüğü ortadan kalkabilir. Somut olayda sözleşmenin 12/24. maddesinde kiracı lehine erken fesih hakkı düzenlenmemiştir. Anılan maddeye göre; kiracının kiralama süresinin ilk 2 yılı içinde taşınmazı tahliye etmesi durumunda cezai şart olarak 100.000 Euro ödeyeceği kararlaştırılmıştır. Uyuşmazlığa konu olayda davalı (asıl dosya davacısı) kiracı keşide ettiği 18.09.2008 tarihli ihtarda; aradan geçen süreye rağmen AVM’nin beklenen marka ve mağaza portföyüne ulaşamadığı, başlangıçta Türkiye’nin en cazip alışveriş merkezi olarak lanse edilen işyerinde bu koşullarda kiracılık sıfatının sürdürülemeyeceği ve akdin 01.10.2008 tarihi itibariyle sonlandırılacağı bildirilmiş ve 31.01.2009 tarihinde taşınmaz tahliye edilmiştir.
 Feshin haklılığına ilişkin ileri sürülen olguların varlığı da davalı tarafından kanıtlanamadığı gibi sözleşmenin 12-27. maddesi gereğince ileri sürülen hususlar kiracının akdi feshetmesi için haklı neden oluşturamaz. Bu durumda yukarıda açıklandığı üzere davalı kiracının erken fesihten kaynaklanan sorumluluğu gündeme gelecektir. Kiraya verenin erken feshe bağlı kaybının sözleşmede maktuen tayin edilen 100.000 Euro cezai şarttan ibaret olduğu kabul edilmelidir. Davacının bunun yanında ayrıca makul süreye ilişkin kira tazminatı isteyebilmesi mümkün değildir. Bu durum karşısında mahkemece uyuşmazlığın yukarıda açıklanan ilke ve esaslar çerçevesinde hareket edilip, B.K.nun 161 ve 484. maddesi de gözetilerek çözüme kavuşturulması gerekmekte olup, davalının akdi feshinin haklı olduğu gerekçesi ile ve davacı kiralayanın diğer alacak kalemlerinin olup olmadığı üzerinde durulmadan yazılı şekilde karar verilmesi de hatalı olup, hükmün bozulması gerekmiştir.

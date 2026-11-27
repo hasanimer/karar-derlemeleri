@@ -31,6 +31,8 @@ import tempfile
 import unicodedata
 
 KOK = os.path.dirname(os.path.abspath(__file__))
+sys.path.insert(0, os.path.join(KOK, "araclar"))
+import bedesten_bagla  # noqa: E402  (yalnız standart kitaplık; Bedesten bağlantıları metadata'dan okunur)
 SURUM_TARIHI = "2026-11-27"          # sabit; saatten okunmaz
 SURUM = "2026.11.27"
 SEMA = 1
@@ -768,8 +770,20 @@ def yaz(kok, goreli, metin):
     return len(veri)
 
 
-def parcalari_yaz(M, kok):
+def baglantili_blok(k, baglantilar):
+    """Doğrulanmış Bedesten bağlantısı varsa künyenin altına ekler. Parçalama bağlantısız blokla yapılır,
+    böylece bağlantı eklemek dosya sınırlarını değiştirmez (bkz. araclar/bedesten_bagla.py)."""
+    url = baglantilar.get(getattr(k, "id", None)) if k.kunye is not None else None
+    if not url:
+        return k.blok
+    bas = "## " + k.kunye + "\n\n"
+    assert k.blok.startswith(bas)
+    return bas + bedesten_bagla.baglanti_satiri(url) + "\n\n" + k.blok[len(bas):]
+
+
+def parcalari_yaz(M, kok, baglantilar=None):
     """md/<kod>/ altındaki parça dosyalarını yazar; kayıtlara dosya ve satır atar."""
+    baglantilar = baglantilar or {}
     d = M.d
     kod = d["kod"]
     for k in M.tum:
@@ -792,8 +806,9 @@ def parcalari_yaz(M, kok):
             goreli = n.yol + adlar[j]
             for k in kayitlar:
                 k.dosya, k.satir = goreli, satir
-                parcalar.append(k.blok)
-                satir += k.blok.count("\n")
+                blok = baglantili_blok(k, baglantilar)
+                parcalar.append(blok)
+                satir += blok.count("\n")
             metin = "".join(parcalar).rstrip("\n") + "\n"
             b = yaz(kok, goreli, metin)
             n.dosyalar.append(adlar[j])
@@ -1394,9 +1409,18 @@ def uret(kok, sessiz=False):
             tekrar[(x[2], x[1])] = (j, len(g), konular)
     del gruplar
 
+    # Bedesten eşleşmeleri (veri/bedesten/) üretilmez, elle/araçla tutulur: silinmez, bağlantılar oradan okunur
+    baglantilar = bedesten_bagla.baglantilari_oku(KOK)
     for alt in ("md", "dizin", "veri"):
         p = os.path.join(kok, alt)
-        if os.path.isdir(p):
+        if not os.path.isdir(p):
+            continue
+        if alt == "veri":
+            for x in os.listdir(p):
+                if x != "bedesten":
+                    q = os.path.join(p, x)
+                    shutil.rmtree(q) if os.path.isdir(q) else os.remove(q)
+        else:
             shutil.rmtree(p)
     os.makedirs(kok, exist_ok=True)
 
@@ -1410,7 +1434,7 @@ def uret(kok, sessiz=False):
     for d in D:
         kod = d["kod"]
         M = oku(d)
-        parcalari_yaz(M, kok)
+        parcalari_yaz(M, kok, baglantilar)
         ic_dosyalar = icindekiler_yaz(M, kok)
         yaz(kok, f"dizin/kararlar/{kod}.tsv", kararlar_tsv(M, tekrar))
         satirlar = []
@@ -1620,7 +1644,7 @@ def parca_dizisi(kod):
             if s[3] and os.path.isdir(dizin) else []
         for ad in dosyalar:
             with open(os.path.join(dizin, ad), encoding="utf-8") as f:
-                L = f.read().split("\n")
+                L = bedesten_bagla.ayikla(f.read().split("\n"))[0]   # bağlantı satırları kaynakta yok
             i = L.index("---", 1) + 1
             while not L[i]:
                 i += 1
@@ -1710,6 +1734,9 @@ def dogrula():
                 hata(f"6 yol 200 karakteri aşıyor ({len(g)}): {g}")
             with open(p, "rb") as fh:
                 v = fh.read()
+            v_bag = v
+            if not f.startswith("00-icindekiler"):   # sınır bağlantı satırları hariç ölçülür
+                v = "\n".join(bedesten_bagla.ayikla(v.decode("utf-8").split("\n"))[0]).encode("utf-8")
             if len(v) > 49500:
                 hata(f"2 {g}: {len(v)} bayt (> 49.500)")
             if f.startswith("00-icindekiler"):
@@ -1718,7 +1745,7 @@ def dogrula():
                     hata(f"7 {g}: {len(v)} bayt (> 48.000)")
                 continue
             md_boy.append(len(v))
-            if not v.endswith(b"\n") or v.endswith(b"\n\n") or b"\r" in v:
+            if not v_bag.endswith(b"\n") or v_bag.endswith(b"\n\n") or b"\r" in v_bag:
                 hata(f"2 {g}: satır sonu biçimi bozuk")
             t = v.decode("utf-8")
             govde = t[t.index("\n---\n", 4) + 5:]

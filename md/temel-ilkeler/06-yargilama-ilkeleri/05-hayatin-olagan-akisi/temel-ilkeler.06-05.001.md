@@ -33,14 +33,20 @@ Bunun aksi bir yorum, hayatın olağan akışına uygun düşmez. Gerçekten as�
 
 ## Yargıtay HGK 2025/611 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1180542400)
+
 10\. 3402 sayılı Kanun'un 12/3. maddesinde "kadastro tutanaklarında belirtilen haklara, sınırlandırma ve tespitlere ait tutanakların kesinleştiği tarihten itibaren on yıl geçtikten sonra, kadastrodan önceki hukuki sebeplere dayanılarak itiraz olunamayacağı ve dava açılamayacağı" düzenlenmiş ise de eldeki davada, davalılara ait 678 sayılı taşınmazın kadastrosu 08.05.1970 tarihinde yapılarak, kadastro tutanağı 12.03.1975 tarihinde kesinleşmiştir. Davacı Hazineye ait 918 parsel sayılı taşınmazın kadastro tespiti ise 09.09.1970 tarihinde yapılarak, 14.10.1983 tarihinde kesinleşmek suretiyle tapuya tescil edilmiştir. Bu durumda ikinci kadastro yoluyla tapu kaydının oluştuğu tarihte, ilk kadastronun kesinleşmesinden itibaren on yıllık hak düşürücü sürenin dolmadığı açıktır. Davacı Hazinenin, aleni olan tapu siciline güvenmesi doğal olup, sicile göre de hak sahibi olduğundan, belirtilen hukuki sebeple açılacak davada hak düşürücü sürenin işletilmesi hayatın olağan akışına aykırı olup sözü edilen sürenin geçtiğinden söz edilemez.
 Aksi hâlde, yani her hâlde kadastrosu daha sonra yapılan bölüm yönünden terkine karar verilecek olması hâlinde, 3402 sayılı Kadastro Kanunu'nun 22/1. maddesinde ve 4721 sayılı Türk Medeni Kanunu'nun 1026/2. maddesinde, tapu kütüğünden terkine karşı dava açma hakkının düzenlenmiş olmasının bir anlamı olmayacağı ve düzenlemenin işlevsiz olacağı açıktır. Kadastro çalışmalarındaki amaç, tapu sicillerinin gerçek durumu yansıtması olduğuna göre, sicildeki hakkın kime ait olduğunun doğru olarak belirlenmesi gerekir. Mükerrerliğin giderilmesi amacıyla açılan eldeki dava, artık çifte tapuyu önleme maksadına yöneliktir.
 
 ## Yargıtay HGK 2005/332 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/76751500)
+
 Öte yandan, tüm dosya içeriğinden ve özellikle davacının oğlu ile tanık anlatımlarından tarafların birbirlerini yakınen tanıdıkları, davacı ile vekil olan oğlunun birlikte yaşadıkları, aynı zamanda ticari ilişki içinde oldukları, davacının oğlu ile davalı arasında -da alacak borç ilişkisi bulunduğu, davacının akitler öncesinde ve sonrasında taşınmazı satma eğiliminde olduğu, taşınmazlarını satarak oğlunun borçlarını kapatmayı amaçladığı, bu amacın bir devamı olarak da oğlunu genel vekil tayin ettiği, nitekim oğlunun vekil Y.A. ile temliklerden sonra ibralaştığı anlaşılmaktadır. Davacının hem birlikte yaşadığı, hem iş ilişkisi içinde bulunduğu oğlunun süreklilik arz eden vekil tayin etme işlemlerinden ve satışlardan haberinin olmaması hayatın olağan akışına ters düşer.
 
 ## Yargıtay HGK 2005/25 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/76557500)
 
 Somut olayda; davacı, yeni doğan bebeklerden kan örneği alma işini yapmaktadır. İşin tanımlanan niteliği, özel ve belirli bir organizasyon altında, hastane ortamının kendine özgü duyarlılığı içinde hareket etmeyi zorunlu kılmakta olup, çalışmaların hizmet akdinin bir unsuru olan bağımlılık öğesinin dışlanarak yapılmasına olanak bulunmamaktadır. Kaldı ki, Kimya Meslek Lisesini bitirdikten sonra, uzun yıllar ekonomik kaygı duymaksızın davalı dernekte sadece gönüllülük esasına göre çalışmanın kabulü, hayatın olağan akışına ve sosyo-ekonomik gerçeklere de uymamaktadır.
 
@@ -62,10 +68,14 @@ Davacının davalı işyerinde çalışmaya başladığı 2011 yılından 2019 y
 
 ## Yargıtay 19. HD 2014/8784 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/106964900)
+
 Teknik bir konuda bilirkişi raporu alınmış ve raporda davacı şirketin dava konusu banka hesabından pos cihazı nedeniyle sıklıkla satış-para giriş işlemlerini ve özellikle 2011 yılı Ocak, Şubat, Mart ve Nisan aylarında sıklıkla bankamatik kartı kanalıyla para çekme işlemlerini gerçekleştirdiği, dava konusu kredi borcu tahsilatı işlemlerinin de aynı dönemlerde yapıldığı, buna rağmen uzun bir süre davacı şirketin kredi tahsilatı işlemlerine itiraz etmediği, davalı bankaya başvurmadığı, davacı şirketin bu kadar sık kullanılan hem satış hem de bankamatikle para çekme işlemi yapılan hesap kayıtlarını zamanında incelememiş olmasının ve dava dışı E. Tekstil San. ve Tic. Ltd.Şti' nin kredi taksitlerinin kendi hesabından tahsil edilmiş olduğunu bu kadar uzun süre farketmemiş olmasının hayatın olağan akışına uygun olmadığı, böyle bir davranış şeklinin TTK' da tanımlanan basiretli bir tacir gibi davranma yükümlülüğüne de aykırılık teşkil ettiği, bu hususlar karşısında davalı bankanın dava konusu tutarlar nedeniyle sorumluluğunun söz konusu olamayacağı belirtilmiştir.
 Bilirkişi raporundaki bu tespitler doğrultusunda davacı şirketin dava konusu para aktarım işlemleri de dahil olmak üzere hesap hareketlerini gördüğü, yapılan işlemleri kabul ettiği, itiraz etmeyerek icazet verdiği anlaşıldığından davanın reddi yerine kabulüne karar verilmesi doğru görülmemiş, hükmün bozulması gerekmiştir.
 
 ## Yargıtay 20. HD 2014/5215 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/377990200)
 
 Hükmüne uyulan bozma kararında özetle; "Hazinenin, çekişmeli taşınmazın 1948 yılında ilân edilerek kesinleşen orman kadastrosu sınırları içinde ve mülkiyet hakkı Hazineye ait kamu malı orman olduğu halde, arazi kadastro ekiplerinin bu durumu gözönünde bulundurmadan, hata ile 1956 yılında ikinci kere kadastrosunu yapıp yolsuz olarak sicil oluşturduğu ve taşınmazın kadastro tesbit tarihinden sonra Hazine adına adına orman rejimi dışına çıkarıldığı iddiasıyla temyize konu davayı açtığını, davacının; genel arazi kadastrosundan önceki hukukî sebeplere değil, kadastrodan sonraki hukukî edene dayanarak iptal ve tescil istediğinden, 3402 sayılı Kanunun 12/3. maddesi hükümlerinin uygulanma olanağı bulunmadığı gibi 766 sayılı Kanunun 46/2 ve 3402 sayılı Kanunun 22/1. maddeleri gereğince de ikinci kadastro yolsuz (T.M.Y.nın 1025. md.) ve bütün sonuçlarıyla hükümsüz olması nedeniyle malikine mülkiyet hakkı kazandırmayacağını ve T.M.Y.’nın 1026. (E.M.Y.
 934 - İsviçre 976) maddesi gereğince tapu sicili hiç bir süreye bağlı kalınmadan her zaman iptal edilebileceğini, davalının taşınmazın niteliğini görmeden satın almasının hayatın olağan akışına ve yaşam kurallarına uygun olmayacağından, davalının tapuya güven ve iyi niyet kurallarından faydalanamayacağını, mahkemece davanın esasına girilerek olumlu veya olumsuz bir karar verilmesi" gereğine değinilmiştir.
@@ -75,6 +85,8 @@ Hükmüne uyulan bozma kararında özetle; "Hazinenin, çekişmeli taşınmazın
 Genel olarak sağlık hizmeti giderleri, fatura ile ispat edilmelidir. Ancak bazı giderlerin belge ile ispatlanması zordur. Biz bunlara faturalandırılmayan giderler olarak adlandırıyoruz. Örneğin yol giderleri gibi. Bu gibi giderler için hakimin belgelendirilmediği gerekçesi ile reddedilmesi doğru değildir. Çünkü TBK 50/2 maddesi gereği uğranılan zararın miktarı tam olarak ispat edilemiyorsa hâkim, olayların olağan akışını ve zarar görenin aldığı önlemleri göz önünde tutarak, zararın miktarını hakkaniyete uygun olarak belirleyecektir. Bu nedenle kişinin haksız eylemden zarar gördüğünün ve bedensel zarara uğradığının ispatlaması yeterli olup, ayrıca iyileşme harcamaları için fatura ve makbuz gibi belgeler bulup getirmesi şart değildir. Hiçbir belge sunulmasa bile, hakim, görevlendireceği uzman bilirkişilere tedavi ve tüm iyileşme giderlerini hesaplatmakla ve hüküm altına almakla yükümlüdür. (HGK.26.04.1995, E. 1995/11-122 K.1995/430)…
 
 ## Gaziantep BAM 3. HD 2024/711 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1037550500)
 
 4\. 4721 sayılı Türk Medeni Kanunu'nun 6 ve HMK'nın 190. maddeleri uyarınca taraflardan her biri, hakkını dayandırdığı olguların varlığını ispatla yükümlüdür. Yine, gerek doktrinde gerekse ........... içtihatlarında kabul edildiği üzere; ispat yükü, hayatın olağan akışına aykırı durumu iddia eden ya da savunmada bulunan kişiye düşer. Bu kabul, adi karine niteliğindedir. Nitekim; Yargıtay'ın istikrar bulmuş içtihatlarında kabul edildiği üzere, bir sözleşme fesih ya da başka bir nedenle ortadan kaldırılmadıkça, o sözleşme kapsamında kalan işlerin, o sözleşmenin yüklenicisi tarafından yapıldığı kabul edilir. Ancak, sözleşme feshedilmiş ve işin üçüncü kişiye yaptırıldığı ileri sürülmüşse, bu kez karine, üçüncü kişi yararına oluşmaktadır. Elbette, her iki durumda da, bu karinelerin aksini ileri süren tarafın, bu savunmasını kanıtlanması mümkündür. Somut olayda davacı, takip konusu alacağa konu işleri bitirerek teslim ettiğini, davalının faturalara itiraz etmeyerek kabul ettiğini, buna rağmen ............ tarihli .......... numaralı ........... TL faturanın .......... TL'lik kısmını, ......... tarihli .......... numaralı ....... TL tutarlı, ............. numaralı ..........
 TL tutarlı faturalar toplam .............. TL 'yi ödemediğinden icra takibi yaptıklarını iddia etmiştir.

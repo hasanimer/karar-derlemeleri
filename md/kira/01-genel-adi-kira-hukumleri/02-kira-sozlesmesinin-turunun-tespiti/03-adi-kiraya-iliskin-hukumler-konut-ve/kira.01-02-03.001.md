@@ -21,6 +21,8 @@ uyari: "Derleyenin seçtiği alıntılardır; kararın tamamı değildir. Künye
 
 ## Yargıtay HGK 2013/859 K
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/77430100)
+
 Kiracıdan kaynaklanan sebepler, TKB'nun 352.maddesinde tahliye taahhüdü iki haklı ihtar, kiracının veya birlikte yaşadığı eşinin aynı ilçe veya belediye sınırları içinde oturmaya elverişli bir konutunun bulunması olarak sayılmıştır.
 
 Bunun dışında **birinci ayrımda düzenlenen genel hükümler (adi kira), ikinci ayrımda düzenlenen konut ve çatılı işyeri kiralarındaki özel hükümlere aykırı olmamak koşuluyla uygulanacağından** TBK'nun 315.maddesinde düzenlenen kiracının temerrütü ve 316.maddesinde düzenlenen özenle kullanma ve komşulara saygı gösterme borcuna aykırılık sebebiyle sözleşme sonlandırılabilecektir.

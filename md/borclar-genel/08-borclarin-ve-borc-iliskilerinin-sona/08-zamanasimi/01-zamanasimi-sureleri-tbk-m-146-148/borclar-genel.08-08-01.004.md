@@ -22,42 +22,62 @@ uyari: "Derleyenin seçtiği alıntılardır; kararın tamamı değildir. Künye
 
 ## Yargıtay 9. HD 2014/4667 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/99930100)
+
 818 sayılı Borçlar Kanunu’nun 139 uncu maddesinde (6098 saylı TBK.160), zamanaşımından feragat düzenlenmiştir. Anılan maddeye göre, borçlunun zamanaşımı def’ini ileri sürme hakkından önceden feragati geçersizdir. Önceden feragatten amaç, sözleşme yapılmadan önce veya yapılırken vaki feragattir. Oysa daha sonra vazgeçmenin geçersiz sayılacağına ilişkin yasada herhangi bir hüküm bulunmamaktadır. O nedenle borç zamanaşımına uğradıktan sonra borçlu zamanaşımı def’ini ileri sürmekten feragat edebilir. Zira burada doğmuş bir def’i hakkından feragat söz konusudur ve hukuken geçerlidir. Bu feragat; borçlunun, ileride dava açılması halinde zamanaşımı def’inde bulunmayacağını karşılıklı olarak yapılan feragat anlaşmasıyla veya tek yanlı iradesini açıkça bildirmesiyle veyahut bu anlama gelecek iradeye delalet edecek bir işlem yapmasıyla mümkün olabileceği gibi, açılmış bir davada zamanaşımı def’inde bulunmamasıyla veya def’i geri almasıyla da mümkündür.
 
 ## Yargıtay 9. HD 2014/4665 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/99929500)
 
 818 sayılı Borçlar Kanunu’nun 139 uncu maddesinde (6098 saylı TBK.160), zamanaşımından feragat düzenlenmiştir. Anılan maddeye göre, borçlunun zamanaşımı def’ini ileri sürme hakkından önceden feragati geçersizdir. Önceden feragatten amaç, sözleşme yapılmadan önce veya yapılırken vaki feragattir. Oysa daha sonra vazgeçmenin geçersiz sayılacağına ilişkin yasada herhangi bir hüküm bulunmamaktadır. O nedenle borç zamanaşımına uğradıktan sonra borçlu zamanaşımı def’ini ileri sürmekten feragat edebilir. Zira burada doğmuş bir def’i hakkından feragat söz konusudur ve hukuken geçerlidir. Bu feragat; borçlunun, ileride dava açılması halinde zamanaşımı def’inde bulunmayacağını karşılıklı olarak yapılan feragat anlaşmasıyla veya tek yanlı iradesini açıkça bildirmesiyle veyahut bu anlama gelecek iradeye delalet edecek bir işlem yapmasıyla mümkün olabileceği gibi, açılmış bir davada zamanaşımı def’inde bulunmamasıyla veya def’i geri almasıyla da mümkündür.
 
 ## Yargıtay 9. HD 2013/30780 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/992209300)
+
 818 sayılı Borçlar Kanunu’nun 139 uncu maddesinde (6098 saylı TBK.160), zamanaşımından feragat düzenlenmiştir. Anılan maddeye göre, borçlunun zamanaşımı defini ileri sürme hakkından önceden feragati geçersizdir. Önceden feragatten amaç, sözleşme yapılmadan önce veya yapılırken vaki feragattir. Oysa daha sonra vazgeçmenin geçersiz sayılacağına ilişkin yasada herhangi bir hüküm bulunmamaktadır. O nedenle borç zamanaşımına uğradıktan sonra borçlu zamanaşımı defini ileri sürmekten feragat edebilir. Zira burada doğmuş bir defi hakkından feragat söz konusudur ve hukuken geçerlidir. Bu feragat; borçlunun, ileride dava açılması halinde zamanaşımı definde bulunmayacağını karşılıklı olarak yapılan feragat anlaşmasıyla veya ... yanlı iradesini açıkça bildirmesiyle veyahut bu anlama gelecek iradeye delalet edecek bir işlem yapmasıyla mümkün olabileceği gibi, açılmış bir davada zamanaşımı definde bulunmamasıyla veya defi geri almasıyla da mümkündür.
 
 ## Yargıtay 9. HD 2013/27714 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/438099400)
+
 818 sayılı Borçlar Kanunu’nun 139 uncu maddesinde (6098 saylı TBK.160), zamanaşımından feragat düzenlenmiştir. Anılan maddeye göre, borçlunun zamanaşımı defini ileri sürme hakkından önceden feragati geçersizdir. Önceden feragatten amaç, sözleşme yapılmadan önce veya yapılırken vaki feragattir. Oysa daha sonra vazgeçmenin geçersiz sayılacağına ilişkin yasada herhangi bir hüküm bulunmamaktadır. O nedenle borç zamanaşımına uğradıktan sonra borçlu zamanaşımı defini ileri sürmekten feragat edebilir. Zira burada doğmuş bir defi hakkından feragat söz konusudur ve hukuken geçerlidir. Bu feragat; borçlunun, ileride dava açılması halinde zamanaşımı definde bulunmayacağını karşılıklı olarak yapılan feragat anlaşmasıyla veya tek yanlı iradesini açıkça bildirmesiyle veyahut bu anlama gelecek iradeye delalet edecek bir işlem yapmasıyla mümkün olabileceği gibi, açılmış bir davada zamanaşımı definde bulunmamasıyla veya defi geri almasıyla da mümkündür.
 
 ## Yargıtay 9. HD 2013/26084 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/448450000)
 
 Zamanaşımı, dava devam ederken iki tarafın yargılamaya ilişkin her işleminden ve hâkimin her emir ve hükmünden itibaren yeniden işlemeye başlar ve kesilmeden itibaren yeni bir süre işler. 818 sayılı Borçlar Kanunu’nun 134 üncü maddesi hükmü, "Müruruzaman müteselsilen borçlu olanlardan veya taksimi kabil olmayan bir borcun müşterek borçlularından birine karşı kat edilmiş olunca diğerlerine karşı da kat edilmiş olur." kuralını içermektedir. Bu maddeye göre, müteselsil borçlulardan birine karşı zamanaşımının kesilmesi diğer müteselsil borçlulara karşı da zamanaşımını keser. Benzer bir düzenleme 01.07.2012 tarihinde yürürlüğe giren Türk Borçlar Kanunu’nun 155 inci maddesinde yer almaktadır. 818 sayılı Borçlar Kanunu’nun 139 uncu maddesinde (6098 saylı TBK.160), zamanaşımından feragat düzenlenmiştir. Anılan maddeye göre, borçlunun zamanaşımı defini ileri sürme hakkından önceden feragati geçersizdir. Önceden feragatten amaç, sözleşme yapılmadan önce veya yapılırken vaki feragattir. Oysa daha sonra vazgeçmenin geçersiz sayılacağına ilişkin yasada herhangi bir hüküm bulunmamaktadır. O nedenle borç zamanaşımına uğradıktan sonra borçlu zamanaşımı defini ileri sürmekten feragat edebilir.
 Zira burada doğmuş bir defi hakkından feragat söz konusudur ve hukuken geçerlidir. Bu feragat; borçlunun, ileride dava açılması halinde zamanaşımı definde bulunmayacağını karşılıklı olarak yapılan feragat anlaşmasıyla veya tek yanlı iradesini açıkça bildirmesiyle veyahut bu anlama gelecek iradeye delalet edecek bir işlem yapmasıyla mümkün olabileceği gibi, açılmış bir davada zamanaşımı definde bulunmamasıyla veya defi geri almasıyla da mümkündür.
 
 ## Yargıtay 9. HD 2013/20168 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/437785600)
+
 Borçlar Kanununun 139 uncu maddesinde (6098Saylı TBK 160), zamanaşımından feragat düzenlenmiştir. Anılan maddeye göre, borçlunun zamanaşımı defini ileri sürme hakkından önceden feragati geçersizdir. Önceden feragatten amaç, sözleşme yapılmadan önce veya yapılırken vaki feragattir. Oysa daha sonra vazgeçmenin geçersiz sayılacağına ilişkin yasada herhangi bir hüküm bulunmamaktadır. O nedenle borç zamanaşımına uğradıktan sonra borçlu zamanaşımı defini ileri sürmekten feragat edebilir. Zira, burada doğmuş bir defi hakkından feragat söz konusudur ve hukuken geçerlidir. Bu feragat; borçlunun, ileride dava açılması halinde zamanaşımı definde bulunmayacağını karşılıklı olarak yapılan feragat anlaşmasıyla veya tek yanlı iradesini açıkça bildirmesiyle veyahut bu anlama gelecek iradeye delalet edecek bir işlem yapmasıyla mümkün olabileceği gibi, açılmış bir davada zamanaşımı definde bulunmamasıyla veya defi geri almasıyla da mümkündür.
 
 ## Yargıtay 9. HD 2013/20167 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/437783700)
 
 Borçlar Kanununun 139 uncu maddesinde (6098Saylı TBK 160), zamanaşımından feragat düzenlenmiştir. Anılan maddeye göre, borçlunun zamanaşımı defini ileri sürme hakkından önceden feragati geçersizdir. Önceden feragatten amaç, sözleşme yapılmadan önce veya yapılırken vaki feragattir. Oysa daha sonra vazgeçmenin geçersiz sayılacağına ilişkin yasada herhangi bir hüküm bulunmamaktadır. O nedenle borç zamanaşımına uğradıktan sonra borçlu zamanaşımı defini ileri sürmekten feragat edebilir. Zira, burada doğmuş bir defi hakkından feragat söz konusudur ve hukuken geçerlidir. Bu feragat; borçlunun, ileride dava açılması halinde zamanaşımı definde bulunmayacağını karşılıklı olarak yapılan feragat anlaşmasıyla veya tek yanlı iradesini açıkça bildirmesiyle veyahut bu anlama gelecek iradeye delalet edecek bir işlem yapmasıyla mümkün olabileceği gibi, açılmış bir davada zamanaşımı definde bulunmamasıyla veya defi geri almasıyla da mümkündür.
 
 ## Yargıtay 7. HD 2013/19310 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1097321700)
+
 Borçlar Kanununun 133'üncü maddesinde (6098 Sayılı TBK 154) zamanaşımını kesen nedenler gösterilmiştir. Bunlardan borçlunun borcunu ikrar etmesi (alacağı tanıması), zamanaşımını kesen nedenlerden biridir. Borcun tanınması, tek yanlı bir irade bildirimi olup; borçlunun, kendi borcunun devam etmekte olduğunu kabul anlamındadır. Borç ikrarının sonuç doğurabilmesi için, eylem yeteneğine ve malları üzerinde tasarruf yetkisine sahip olan borçlunun veya yetkili kıldığı vekilinin, bu iradeyi alacaklıya yöneltmiş bulunması ve ayrıca zamanaşımı süresinin dolmamış olması gerekir. Gerçekte de borç ikrarı, ancak, işlemekte olan zamanaşımını keser; farklı anlatımla zamanaşımı süresinin tamamlanmasından sonraki borç ikrarının kesme yönünden bir sonuç doğurmayacağından kuşku ve duraksamaya yer olmamalıdır.
 
 ## Yargıtay 7. HD 2013/15118 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1101377900)
+
 Borçlar Kanunu'nun 133 ncü maddesinde (6098 Sayılı TBK 154) zamanaşımını kesen nedenler gösterilmiştir. Bunlardan borçlunun borcunu ikrar etmesi (alacağı tanıması), zamanaşımını kesen nedenlerden biridir. Borcun tanınması, tek yanlı bir irade bildirimi olup; borçlunun, kendi borcunun devam etmekte olduğunu kabul anlamındadır. Borç ikrarının sonuç doğurabilmesi için, ... yeteneğine ve malları üzerinde tasarruf yetkisine sahip olan borçlunun veya yetkili kıldığı vekilinin, bu iradeyi alacaklıya yöneltmiş bulunması ve ayrıca zamanaşımı süresinin dolmamış olması gerekir. Gerçekte de borç ikrarı, ancak, işlemekte olan zamanaşımını keser; farklı anlatımla zamanaşımı süresinin tamamlanmasından sonraki borç ikrarının kesme yönünden bir sonuç doğurmayacağından kuşku ve duraksamaya yer olmamalıdır.
 
 ## Yargıtay 7. HD 2013/8378 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1096143600)
 
 Borçlar Kanunu'nun 133 ncü maddesinde (6098 sayılı TBK 154) zamanaşımını kesen nedenler gösterilmiştir. Bunlardan borçlunun borcunu ikrar etmesi (alacağı tanıması), zamanaşımını kesen nedenlerden biridir. Borcun tanınması, tek yanlı bir irade bildirimi olup; borçlunun, kendi borcunun devam etmekte olduğunu kabul anlamındadır. Borç ikrarının sonuç doğurabilmesi için, eylem yeteneğine ve malları üzerinde tasarruf yetkisine sahip olan borçlunun veya yetkili kıldığı vekilinin, bu iradeyi alacaklıya yöneltmiş bulunması ve ayrıca zamanaşımı süresinin dolmamış olması gerekir. Gerçekte de borç ikrarı, ancak, işlemekte olan zamanaşımını keser; farklı anlatımla zamanaşımı süresinin tamamlanmasından sonraki borç ikrarının kesme yönünden bir sonuç doğurmayacağından kuşku ve duraksamaya yer olmamalıdır.
 
@@ -87,9 +107,13 @@ Diğer yandan, ayıp dışındaki eser sözleşmesinden doğan alacaklar için i
 
 ## Ankara BAM 31. HD 2022/485 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/766290100)
+
 TBK'nın 154. maddesinde (818 sayılı BK. 133) zamanaşımını kesen durumlar açıklanmıştır. Düzenlemeye göre, borçlunun borcunu ikrar etmesi, faiz ödemesi, kısmi ifada bulunması, rehin vermesi veya kefil göstermesi, alacaklının dava veya defi yoluyla hakeme veya mahkemeye başvurması, icra takibinde bulunması ve iflas masasına başvurması hallerinde zamanaşımı kesilir. Zamanaşımının kesilmesiyle, yeni bir süre başlar. Aynı Kanun'un 156 ncı maddesi, zamanaşımının kesilmesi halinde yeni bir sürenin işlemeye başlayacağını, 157 nci maddesinde ise, zamanaşımı icra takibiyle kesilmiş ise, alacağın takibine ilişkin her işlemden sonra yeniden başlayacağı belirtilmiştir (Yargıtay 3. Hukuk Dairesi, 2021/8435 Esas, 2022/433 Karar).
 
 ## Konya BAM 5. HD 2021/207 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/715350800)
 
 … gizli ayıplı imalâtın bedeli de gizli ayıbın ortaya çıktığının anlaşıldığı tarihteki rayiçlerle istenebilir. Şayet sözleşmede özel düzenlemeler varsa öncelikle sözleşme hükümlerinin uygulanması gerekir. Öte yandan ayıplı işlere ilişkin ihbar mükellefiyeti getiren kanun koyucu eksik işler yönünden iş sahibine böyle bir yükümlülük yüklememiştir. Bir başka deyişle, eksik işlerde ihbara gerek olmaksızın zamanaşımı süresi içerisinde eksik işler bedeli her zaman talep edilebilir. Dava konusu taraflar arasında düzenlenen 16/06/1997 tarihli sözleşmenin tarihi itibariyle geçerli bulunan BK’nın 126/4 maddesi uyarınca eser sözleşmesine dayalı taleplerin 5 yıllık zamanaşımına tabi olduğu, BK’nın 128, TBK 149. maddesine göre zamanaşımı süresi alacağın muaccel olmasıyla işlemeye başlayacaktır. BK 132, TBK 153, BK 133, TBK 154, BK 135, TBK 156, BK 136, TBK 157. maddelerinde zamanaşımının durması, kesilmesi sebepleri ile yeni sürenin başlaması ve süresi ile alacaklının fiili ile zamanaşımını kesen haller düzenlenmiştir.
 Kısmı davanın sadece dava edilen bölüm yönünden zamanaşımını keseceği, saklı tutulan fazlaya ilişkin haklar yönünden zamanaşımını kesici etkisi olmadığı, Zamanaşımı süresi alacağın muaccel olmasıyla işlemeye başlayacağı; Bu ilke ve kurallar ışığında somut olay değerlendirildiğinde; dava konusu alacağın varlığı ve miktarının bilirkişi raporu ile belirlenmiş olduğu iddia edilmiş ise de; .

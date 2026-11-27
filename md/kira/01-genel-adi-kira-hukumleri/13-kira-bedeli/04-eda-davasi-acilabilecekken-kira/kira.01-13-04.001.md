@@ -21,4 +21,6 @@ uyari: "Derleyenin seçtiği alıntılardır; kararın tamamı değildir. Künye
 
 ## Yargıtay 3. HD 2024/3125 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1104894300)
+
 6100 sayılı Kanun'un 106 ncı maddesi uyarınca davacının tespit davası açmakta güncel ve korunmaya değer hukuki yararının bulunması gerekir. **Kira alacağına yönelik eda davası açılabilecekken yalnızca alacağın tespitinin talep edilmesinde davacının hukuki yararının bulunmadığı** anlaşılıp davacının, tespit talebine ilişkin temyiz itirazının reddine karar vermek gerekmiştir.

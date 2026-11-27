@@ -20,9 +20,13 @@ uyari: "Derleyenin seçtiği alıntılardır; kararın tamamı değildir. Künye
 
 ## Yargıtay 3. HD 2025/441 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1121811800)
+
 … davacı kiraya verenin 6098 sayılı Kanun'un 335 inci maddesi gereğince kiralananın tahliyesinden sonra **makul süre içinde kiracı mirasçılarına yazılı bildirimde bulunma yükümlülüğünü yerine getirdiğinden söz edilemeyeceğinin** anlaşılmasına göre…
 
 ## Yargıtay 3. HD 2025/256 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1141181400)
 
 Temyizen incelenen kararda davacı tarafından **TBK'nın 335. maddesi uyarınca yapılması gereken bildirimin somut olaya göre makul sürede yapılmadığının** belirlendiği…
 

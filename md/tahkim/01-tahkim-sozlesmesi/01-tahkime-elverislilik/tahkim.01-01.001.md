@@ -20,6 +20,8 @@ uyari: "Derleyenin seçtiği alıntılardır; kararın tamamı değildir. Künye
 
 ## Yargıtay HGK 2026/15 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1225412500)
+
 Hâl böyle olunca öncelikle kira sözleşmelerinin niteliği ve türlerine göre kira ilişkisinde ortaya çıkabilecek uyuşmazlık konusunun kiracı ve kiraya veren iradelerine tâbi işlerden olup olmadığının belirlenmesi gerektiği sonucuna varılmıştır. … Bu çerçeveden bakıldığında, somut olayda kiralananın adi kiraya ilişkin hükümlerine mi, konut ve çatılı iş yeri kirası hükümlerine mi yoksa hâsılat kirası hükümlerine mi tâbi olduğu anlaşılamadığından mahkemece uzman bilirkişi marifetiyle mahallinde keşif yapılarak taşınmazın mevcut vasfı itibariyle hangi hükümlere tâbi olduğu konusunda denetime elverişli rapor alınarak varılacak sonuca göre yukarıda yapılan açıklamalar ışığında tahkime elverişliliğin tartışılması gerekir.
 
 ## Yargıtay 3. HD 2026/3653 K.

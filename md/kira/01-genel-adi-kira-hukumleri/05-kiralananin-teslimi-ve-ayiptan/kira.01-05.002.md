@@ -22,15 +22,21 @@ uyari: "Derleyenin seçtiği alıntılardır; kararın tamamı değildir. Künye
 
 ## Yargıtay 4. HD 2024/12555 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1152178000)
+
 Muvazaa olgusu işin, salt davalı borçlunun mal kaçırma amacı ile hareket etmesi de yeterli olmayıp, davalı 3. kişi ...'in de borçlunun bu amaçla hareket ettiğini bilen veya bilmesi lazım gelen şahıslardan ve borçluyla fikir birliği içinde hareket eden kişi olduğunun ispatlanması gerekir. Her ne kadar, 8 gün ara ile 3 ayrı villa vasıflı taşınmazın davalı ...'e devredildiği değerlendirmesi yapılmışsa da; 8 gün sonra devri yapılan 2 adet villanın sadece hisseli ve ortak kullanım alanına ilişkin olduğu, ayrı villa vasfını haiz olmadığı, temelde devredilen tek bir villanın olduğu anlaşılmaktadır. Davalıların aynı sitede komşu olmaları hususunun tek başına, taşınmazı devralan davalı 3.kişi ...'in kötüniyetini ve borçluyla fikir birliği içinde hareket ettiğini göstermeyecektir. Davalı 3.kişi ...'in taşınmazın devredilmesinden sonra Beyoğlu ....
 Noterliğinin 13.03.2014 tarih ve 03556 yevmiye nolu belgesiyle davalı borçlunun taşınmazdan 31.12.2015 tarihinde tahliyesine ilişkin tahliye taahhütnamesinin düzenlendiği dikkate alındığında, taşınmazın devredilmesinden sonra borçlunun taşınmazı bir süre daha kullanmaya devam etmesinin de hayatın olağan akışına uygun olduğu anlaşılmakta olup, davalı borçlu ve üçüncü kişi arasında borçlunun mal kaçırma amacı ile hareket etmesi hususunda fikir birliği içinde olacak derecede yakınlıklarının olduğu ya da davalı 3.kişi ...'in borçlunun bu amaçla hareket ettiğini bilen veya bilmesi lazım gelen şahıslardan olduğu da ispat edilememiştir.
 
 ## Yargıtay 3. HD 2024/4068 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1114360100)
+
 Temyiz olunan Bölge Adliye Mahkemesi kararında; hukuki ilişki nedeniyle ortaya çıkan uyuşmazlığa yukarıda yer verilen mevzuat hükümlerinin doğru şekilde uygulandığı, kiraya veren davalının kiralananı sözleşmede amaçlanan kullanıma elverişli bir durumda teslim etmek ve sözleşme süresince bu durumda bulundurmakla yükümlü olduğu, kiralananın ayıplı olarak teslimi halinde davacı kiracının mevcut ayıbı uygun bir sürede kiraya verene ihbar etmesi gerektiği, tacir olan davacı kiracının kiralananı mevcut hali ile kullandığı ve ayıp ihbarında bulunmadığı, bu nedenle iddia edilen ayıptan doğan zarardan davalı kiraya verenin sorumlu tutulamayacağı; bilirkişi raporunun, her iki projenin de zemine uygulanmak suretiyle düzenlendiğinin belirtildiği, bundan ayrı 6098 sayılı Kanun'un 530 uncu maddesinde; kural olarak işgörenin yaptığı faydalı ve zorunlu giderlerden alınıp götürülmesi mümkün olmayan ve iş sahibi tarafından benimsenenlerin yapıldıkları tarihler itibariyle bedellerinin vekaletsiz iş görme hükümlerine göre istenmesi mümkün ise de davacı tarafça yapılan tadilatların neler olduğunun ve davalı tarafça benimsendiğinin de ispat edilemediğinin anlaşılmasına göre, davacı vekilinin temyiz
 itirazlarının reddi ile usul ve kanuna uygun bulunan kararın onanmasına karar vermek gerekmiştir.
 
 ## Yargıtay 3. HD 2024/3920 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1117362700)
 
 Yargıtay Hukuk Genel Kurulunun (YHGK) 06.12.2022 tarihli ve 2021/648 E., 2022/1653 K. sayılı ilamıyla; takip tarihi itibariyle taşınmazın tesliminin gerçekleşmediği, davacıların da satış bedelinin 5.000,00 TL tutarındaki bölümünü ödemedikleri, taraflar arasındaki
 
@@ -38,9 +44,13 @@ sözleşme gereğince alıcının en son 05.08.2010 tarihinde satış bedelinin 
 
 ## Yargıtay 3. HD 2024/3737 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1108947100)
+
 1\. 6098 sayılı Kanun'un 301 inci maddesinin ifadesi ile kiraya veren; kiralananı sözleşmede amaçlanan kullanıma elverişli bir durumda teslim etmek ve sözleşme süresince bu durumda bulundurmakla yükümlüdür. Kiraya veren, bu borcu sadece fiili bir teslim ile ifa etmiş olmaz. Kiracı, kiralananı hangi maksat için tutmuş ise kiraya veren o maksada elverişli bir tarzda teslim ile mükelleftir. Kiralananın ayıplı olarak teslimi nedeniyle kiralananın kullanılmasında imkansızlık veya derecesinde düşüklük meydana gelmiş ise, bu durumda kiracının aynı Kanun'un 123 ve 125 inci maddeleri dairesinde hareket ederek mevcut ayıbı uygun bir sürede kiraya verene ihbar etmesi beklenir. Kiralananda mevcut açık nitelikteki ayıplara karşın, kiracının uzun bir süre kiralananı mevcut hali ile kullanması ve bu konuda uyuşmazlık çıkartmaması, kiracının kiralananı mevcut hali ile kabul ettiği şeklinde yorumlanabilir. Böylesi bir durumda kiraya veren ayıptan sorumlu tutulamaz.
 
 ## Yargıtay 3. HD 2024/3496 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1105000300)
 
 Dairemizin 29.09.2020 tarihli ve 2020/4782 E., 2020/4918 K. sayılı ilamıyla; davacı tarafın temyiz itirazlarının reddine karar verilmiş, davalı tarafın temyiz itirazları yönünden ise; "taraflar arasında 09/11/2009 tarihinde adi yazılı nitelikte yapılan gayrimenkul satış sözleşmesinde konutun 30/08/2010 tarihinde davacıya teslimi öngörülmüş olmakla birlikte davacı, talepleri arasında taşınmazın süresinde teslim edilmemesi sebebiyle ortaya çıkan cezai şart bedelini istemiş; davalı taraf, taşınmazı zamanında teslim ettiği iddiasını kanıtlayamamıştır. Yine davacı taraf, bu satış sözleşmesinin ilk sayfası olduğunu belirttiği “yapılacak konutların sözleşmeye esas özellikleri” başlıklı belgeye istinaden bağımsız bölüm içi ve bu bölümün bulunduğu yapının ortak alanında bulunan ayıplar nedeniyle yaptığı masraflar miktarını da zarar olarak talep etmiştir. Yargılama sırasında alınan bilirkişi raporunda, bağımsız bölüm içindeki gizli ayıplar nedeniyle ortaya çıkan değer kaybı ile, ortak alandaki ayıplar sebebiyle ortaya çıkan değer kaybı toplamda 19.500,00 TL olarak hesaplanmış;
 Mahkemece, gizli ayıplar yönünden belirlenen 19.500 TL den 1.000,00 TL ye dava tarihinden bakiye 18.500 TL ye ıslah tarihinden ve mahrum kalınan kira mahrumiyeti olarak hesaplanan 10.500 TL ye de dava tarihinden itibaren hesaplanacak avans faizi ile birlikte davalıdan tahsili ile davacıya ödenmesine fazla kira talebinin reddine karar
@@ -49,9 +59,13 @@ verilmiştir. Davalı taraf bilirkişi raporuna, bilirkişi heyetinin tüm ayıp
 
 ## Yargıtay 3. HD 2024/3369 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1107598300)
+
 Kiraya verenin yükümlülüklerini yerine getirmemesi ve kiralananın sonradan ayıplı hale gelmesi halinde sorumluluk 6098 sayılı Kanun'un 305 ve 306 ıncı maddelerinde düzenlenmiştir. Kiralananın teslim edildikten sonra ayıplı hale gelmesi halinde; kiracının, kiralananda sonradan meydana gelen ayıbın giderilmesini istemesi, ayıbın giderilmemesi halinde kira sözleşmesini feshetmesi veya kira bedelinden indirim isteme hakkı ile TBK.nın 308 inci maddesi uyarınca kusursuzluğu kanıtlanamadığından kiralanın ayıplı olmasından doğan zararların giderilmesini isteme hakları bulunmaktadır.
 
 ## Yargıtay 3. HD 2024/3249 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1098874200)
 
 Dairece verilen 15.02.2022 tarihli ve 2021/3599 E., 2022/1093 K. sayılı ilamla; davalının sair temyiz itirazlarının reddine karar verildikten sonra, taraflar arasında 06.04.2016 başlangıç ve 11.08.2036 sona erme tarihli ürün kira sözleşmesinin konusunun, işletme ruhsatına sahip, jeotermal sahada, koordinatları sözleşmede belirtilen alanın, jeotermal kaynağa dayalı elektirk enerjisi üretmek amacıyla kiraya verilmesi olduğu, teslim tutanağında yer verilen kuyuların teknik özelliklerine göre 8,07 MWe elektrik enerjisi üretilebilecekken keşif tarihinde kuyularda tespit edilen değerlere göre 3,50 MWe elektrik enerjisi üretilebileceğinin bilirkişi raporunda belirlendiği, bu durumda kiralananın ayıplı olduğunun kabulü gerektiği, bu nedenle İlk Derece Mahkemesince kira sözleşmesinde birinci bedel olarak kararlaştırılan sabit kira bedelinin bu ayıp hali devam ettiği sürece ayıpla orantılı olarak indirilmesinde bir usulsüzlük bulunmadığı, ancak kira sözleşmesinde ikinci bedel olarak kararlaştırılan üretime bağlı olan kira bedelinin, davacının üreteceği enerji miktarına göre sözleşmede kararlaştırılan bedel üzerinden ödenecek olması nedeniyle, kiralanandaki enerji üretimini etkileyen ayıp
 halinin bu kira bedelinin indirilmesini gerektirmediği, bu nedenle sözleşmede 2,90 USD cent/kWh olarak belirlenen üretime bağlı kira bedelinin indirilmesi talebinin reddi gerekirken bu bedel yönünden de indirim kararı verilmiş olmasının doğru görülmediği, kabule göre de; davacı, dava tarihinden geçerli olmak üzere kira bedelinde indirim talebinde bulunmuş olduğundan dava tarihinden geçerli olmak üzere ayıbın giderilmesine kadar geçen süre için kira bedelinin indirimli olarak tespitine karar verilmesi gerekirken, infazda tereddüt yaratacak şekilde, belirlenen kira bedelinin hangi tarihten itibaren ne zamana kadar geçerli olacağının belirtilmemesi doğru olmadığı gibi, sözleşmede belirtilen sabit ve üretime bağlı kira
@@ -60,17 +74,25 @@ bedelleri net olup, tespit edilen kira bedelinin net kira bedeli olduğunun beli
 
 ## Yargıtay 3. HD 2024/2914 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1088673500)
+
 1\. 6098 sayılı Kanun'un 301 inci maddesi uyarınca kiraya veren; kiralananı sözleşmede amaçlanan kullanıma elverişli bir durumda teslim etmek ve sözleşme süresince bu durumda bulundurmakla yükümlüdür. Kiraya veren, bu borcu sadece fiili bir teslim ile ifa etmiş olmaz. Kiracı, kiralananı hangi maksat için tutmuş ise kiraya veren o maksada elverişli bir tarzda teslim ile mükelleftir. Kiralananın ayıplı olarak teslimi nedeniyle kiralananın kullanılmasında imkansızlık veya derecesinde düşüklük meydana gelmiş ise, bu durumda kiracının aynı Kanun'un 123 ve 125 inci maddeleri dairesinde hareket ederek mevcut ayıbı uygun bir sürede kiraya verene ihbar etmesi beklenir. Kiralananda mevcut açık nitelikteki ayıplara karşın, kiracının uzun bir süre kiralananı mevcut hali ile kullanması ve bu konuda uyuşmazlık çıkartmaması, kiracının kiralananı mevcut hali ile kabul ettiği şeklinde yorumlanabilir. Böylesi bir durumda kiraya veren ayıptan sorumlu tutulamaz.
 
 ## Yargıtay 3. HD 2024/2411 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1098707500)
 
 Bozmaya uyan Mahkemece verilen "bozma ilamına uyularak yapılan yargılama sonucunda, davanın kısmen kabulü ile, 1.500,00 TL eksik ve ayıplı iş bedeli ile 2.726,70 TL kira alacığının dava tarihinden, 19.114,75 TL eksik ve ayıplı iş bedeli ile 5.499,00 TL kira alacağının ıslah tarihi olan 22.05.2012 tarihinden itibaren işleyecek avans faizi ile birlikte davalılardan müştereken ve müteselsilen tahsiline, davalı ....’nin kira alacağı konusunda ıslah tarihinden itibaren işleyecek avans faizi ile tüm alacaklar yönünden kredi miktarı olan 82.000,00 TL üzerinden sorumlu tutulmasına, fazlaya ilişkin talebin reddine" dair karar davalı ...Ş.’nin temyizi üzerine hüküm onanmış, davalı ...Ş. karar düzeltme talebinde bulunmuştur.
 
 ## Yargıtay 3. HD 2024/2378 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1096334200)
+
 Kiraya verenin kiralananın ayıplarından sorumluluğu 6098 sayılı Kanun'un 304 ve devam maddelerinde düzenlenmiştir. Anılan 304 üncü madde hükmüne göre; “Kiralananın önemli ayıplarla teslimi hâlinde kiracı, borçlunun temerrüdüne veya kiraya verenin kiralananın sonradan ayıplı duruma gelmesinden doğan sorumluluğuna ilişkin hükümlere başvurabilir. Kiralananın önemli olmayan ayıplarla tesliminde ise kiracı, kiralananda sonradan ortaya çıkan ayıplardan dolayı kiraya verenin sorumluluğuna ilişkin hükümlere başvurabilir.”…
 
 ## Yargıtay 6. HD 2024/1825 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1085502200)
 
 İlk derece mahkemesinin 25.11.2015 tarih 2014/77 E. 2015/584 K. sayılı ilamı ile 30.12.2012 vade tarihli ve 4.000.00 TL bedelli bono nedeniyle borçlu olunmadığının tespit talebinin yargılama sırasında bononun Burhaniye İcra Müdürlüğü'nün ... dosyasına ödenmesi nedeniyle istirdata dönüştüğü, bu nedenle davacı tarafından davalı şirkete ödenen
 
@@ -79,6 +101,8 @@ Ayrıca hükmün 6. maddesinde "TL yargılama giderinin davalılardan alınarak 
 
 ## Yargıtay 11. HD 2024/4184 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1043280500)
+
 Bölge Adliye Mahkemesinin yukarıda tarih ve sayısı belirtilen kararı ile davacının Domino Alexandrite Lazer cihazını finansal kiralama yöntemi ile satın aldığı ancak yargılama sırasında cihazın mülkiyetinin davacıya geçtiği bu nedenle davacının aktif husumetinin bulunduğu, cihazın satın alındığı tarih ile dava tarihi arasında 2 yıllık zamanaşımı süresinin dolmadığı, Mahkemece biyomedikal mühendisi, makine ve elektrik mühendisi bilirkişi heyetinden alınan 19.01.2016 tarihli rapora göre, cihazın ayıplı olduğunun tespit edildiği, heyette yer alan elektrik mühendisi bilirkişi görüşüne göre cihazın elektriksel bağlantı ve koruma sınıfının yönetmeliğe uygun olduğunun tespit belirtildiği, Mahkemece bilirkişi heyetinden ek rapor alınmasına karar verildiği halde heyette yer almayan başka bir elektrik mühendisinden alınan 14.12.2017 tarihli raporda da önceki bilirkişi raporuna atıf yapılarak cihazın bulunduğu yerdeki elektrik tesisatının şartname ve yönetmeliğe uygun olduğunun belirlendiği, ancak cihazın ayıplı olmadığı, garanti süresi içerisinde cihazın onarımının yapılacağı yönündeki tespitin bilirkişinin uzmanlık alanı dışında olması nedeniyle bu yöndeki görüşünün bağlayıcı ve hükme esas
 almaya elverişli olmadığı, Mahkemece asıl uyuşmazlık konusunda uzman olan ve 19.01.2016 tarihli bilirkişi heyetinde yer alan biyomedical uzmanı tarafından düzenlenen 03.01.2018 tarihli raporun hüküm vermeye elverişli ve denetime açık olduğu, cihazın satın alındığı tarihten itibaren servis formlarına yansıyan arıza kayıtlarına göre cihazın gizli ayıplı olduğunun anlaşıldığı, davacının ayıplı ifa nedeniyle ayıba karşı tekeffül hükümlerine dayalı olarak sözleşmeden dönme hakkının
 
@@ -86,9 +110,13 @@ bulunduğu, tarafların sözleşme gereğince aldıklarını iade etmelerinde bi
 
 ## Yargıtay 6. HD 2024/1470 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1094567100)
+
 Sözleşmede gecikme halinde ödenecek gecikme tazminatı kararlaştırılmamış olsa dahi, yüklenicinin eseri kararlaştırılan sürede tamamlayıp teslim etmemesi halinde sözleşme ve ek sözleşmeye göre teslimi gereken tarihlerde yürürlükte bulunan 818 sayılı BK'nın 106/II., 01.07.2012 tarihinde yürürlüğe giren 6098 sayılı TBK'nın 125/I. maddesine göre arsa-iş sahibi gecikme halinde ayrıca temerrüt ihtarına gerek olmaksızın akdin ifasını bekleyerek gecikme tazminatı isteyebileceği ve arsa payı karşılığı inşaat yapım sözleşmeleriyle ilgili uygulamalarda bunun en az aylık rayiç kira bedeli olacağı kabul edildiğinden arsa sahipleri aylık asgari rayiç kira bedeli üzerinden gecikme tazminatı isteyebileceklerdir.
 
 ## Yargıtay 3. HD 2024/1557 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1086406900)
 
 Yargıtay (kapatılan) 13.
 Hukuk Dairesinin 15.04.2014 tarihli ve 2013/8148 E., 2014/11887 K. sayılı ilamıyla; davacının kira kaybı talebi ile ilgili temyiz itirazlarının reddine karar verilerek, “Ispartakule” adlı proje kapsamında yapılacak konut ve iş yeri satışına ilişkin internet ilanlarında, reklam ve tanıtım broşürlerinde, “Ispartakule” projesinin TOKİ Başkanlığı güvencesi ve sorumluluğu altında başlatıldığı, yürütüldüğü ve sonuçlandırılacağı hususunda tüketiciye güven verildiği, davanın husumet yönünden reddine karar verilmiş olmasının usul ve yasaya aykırı olduğu, sosyal tesislerin, davalılar tarafından yapılarak ve eksiklikleri giderilerek proje tamamlanmış ise bu yönden dava konusuz kalacağından bu hususta karar verilmesine yer olmadığına ve dava tarihi itibariyle davalıların davanın açılmasına sebebiyet verdikleri dikkate alınarak yargılama giderleri ve vekalet ücretinden davalıların sorumlu olduğuna karar verilmesi, halen sosyal tesislerden yapımına devam edilenler var ise davacının bu tesislerden yararlanamamasından doğan somut zararının olup olmadığının tespiti ile somut zararının tespiti halinde bu zarara hükmedilmesi, şayet bu zamana kadar yapılmayan ve bundan sonra da yapılmayacağı
@@ -98,27 +126,39 @@ yönünden değer düşüklüğü hesabında nisbi metot yöntemi uygulanması g
 
 ## Yargıtay 6. HD 2024/1200 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1083086900)
+
 İlk derece mahkemesince, asıl dava ve birleşen davada alacak isteminde, davacının yapmış olduğu imalat bedelinin 58.604,85 TL olduğunun belirtildiği, bilirkişi raporunda davacının ... kirasına ilişkin alacağının bulunduğu belirtilmiş ise de; taraflar arasında yapılan sözleşmenin 3. maddesinde tüm cepheye genel iskelenin işveren tarafından kurulacağı düzenlenmiş olup, davalı işveren tarafından da iskelenin başka firmadan kiralandığına dair faturalar sunduğu, sözleşmeye göre de ... kurma edimi davalıya ait olduğu davacı taraf yazılı sözleşmenin aksine 3.kişilerden alınan faturalar ile kendisi tarafından kiralandığını ispatlayamadığından bu alacağına ilişkin talebin reddine, birleşen dava yönünden ise birleşen dava davalısının yapmış olduğu ayıplı işlerden dolayı 21.000TL alacağı olduğu, sözleşmede ... marka boya kullanılacağı kararlaştırılmasına rağmen, ... marka boya kullanıldığı, arada fiyat farkı olduğu anlaşıldığından birleşen dava davacısının zararının 78.952 TL olduğu, sözleşmede kompozit cephe malzemesi altında ... kullanılacağının yazılı olduğu, birleşen dava davalısı tarafından ... kullanılmayan alanın d.iş dosyasındaki delil tespitinde 605,685 m² olarak belirlendiği, buna
 göre maliyetin 6.056,85 TL olduğu, sözleşmeye göre yüklenicinin işi bitirme tarihinin 30.03.2015 olduğu, sözleşmenin 5. maddesi de gözönüne alındığında işin teslim tarihinin 01.08.2015 olması gerektiği, ancak yüklenici tarafından işin 30.09.2015 tarihinde teslim edildiği, bu durumda 60 günlük gecikme cezasının 30.09.2015 TL olduğu, iskelenin birleşen dava davacısı tarafından kiralandığı anlaşılmakla ... kira parasının 20.000 TL olduğu toplamda birleşen dava davacısının alacağının 156.008,85 TL olduğu 17.11.2021 tarihli bilirkişi raporunda belirtildiği, 17.11.2021 tarihli raporun denetime elverişli olduğu görülmüş, birleşen dava davacısı davasını kısmi dava olarak açmış olup, 29.12.2021 tarihi itibari ile ıslah dilekçesi verdiği, birleşen dava davalısının ıslaha karşı zamanaşımı def'inde bulunduğu, eser sözleşmelerinden doğan alacak talebi sözleşme tarihinde yürürlükte bulunan 6098 sayılı Türk Borçlar Kanunu'nun 147/6. maddesi gereğince 5 yıllık zamanaşımı süresine tabi olup, zamaşımının başlangıcı ise eserin teslim tarihinden itibaren başlayacağından eserin teslim tarihinin 30.09.2015 olduğu gözönüne alındığında ıslah tarihi itibari ile zamanaşımı dolduğundan, 24.09.2021 tarihli
 dilekçede dikkate alınmakla farklı marka kompozit malzemeden dolayı 2.000,00 TL, ayıplı işlerden dolayı 500 TL, kullanılmayan ... tutarı 250,00TL , gecikme cezası 750,00 TL ... için fazladan kira bedeli olarak 500,00 TL olmak üzere birleşen dosya davacısının toplam 4.000,00 TL alacağı olduğuna hükmedilmiş, fazlaya ilişkin talebin ise zamanaşımı nedeni ile reddine karar verilmiştir.
 
 ## Yargıtay 3. HD 2024/1444 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1080971000)
+
 Kiracının, kira sözleşmesini yapma amacını gerçekleştirmeyi engelleyen her türlü teslim ayıp olarak değerlendirilmektedir. Kira konusunun ayıpsız tesliminden söz edilebilmesi için, kiracı sözleşmeyi hangi amaçla imzalamışsa kira konusunun o amacı gerçekleştirmeye yönelik tarzda teslim edilmesi gerekir. Sözleşmenin yapılmasında güdülen kullanım amacının tayininde kiralananın tahsis şekli, mahalli örf, kiraya verenin tek taraflı olarak temin ettiği nitelikler göz önüne alınır.
 
 ## Yargıtay 3. HD 2024/1036 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1039950200)
 
 Her ne kadar İlk Derece Mahkemesince, hükme esas alınan bilirkişi raporu doğrultusunda, kiralananda tespit edilen önemli ayıplar değerlendirilmek suretiyle, kiracının kira sözleşmesini haklı nedenle feshettiği kabul edilerek, makul süre kira bedeli talebinin reddine karar verilmiş ise de; bahsi geçen ayıplar sebebiyle davalı tarafça gönderilen ihtarnamelerde, ayıpların giderilmesi için davacı tarafa bir süre tanınmadığı gibi sözleşmenin feshedileceğinin bildirildiği tarihlerde de tahliyenin gerçekleştirilmediği anlaşılmakta olup, bu durumda ayıba dayalı haklı fesihten söz edilemeyeceğinin kabulü gerekir.
 
 ## Yargıtay 3. HD 2024/638 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1019378400)
+
 Sözleşmeye bağlılık ilkesi uyarınca, taraflar akdettikleri sözleşmedeki hüküm ve koşullar ile bağlıdır. Sözleşmeye bağlılık (ahde vefa) ilkesi gereği taraflar sözleşme koşullarına, süresine uygun davranmak zorundadır. Kural olarak 6098 sayılı Kanun'un 301 inci maddesi gereğince kiraya veren, kiralananı sözleşme ile amaçlanan kullanıma uygun bir halde teslim ve sözleşme süresince bu halde bulundurmakla yükümlüdür. Kira, sürekli borç doğuran bir akit olduğundan hem sözleşmenin ifasına başlanmadan önce mevcut hem de sözleşmenin devamı süresince kiracının bir kusuru olmaksızın ortaya çıkan kiralananın kullanımına engel olan veya zorlaştıran ayıplar kiralaya verenin sorumluluğu altındadır. Diğer bir anlatımla kiraya veren, sözleşme süresince kiralananda meydana gelen bozuklukları ve eksiklerin meydana gelmesinde kiracının bir kusuru yoksa gidermekle yükümlüdür. Kiraya veren üçüncü kişinin kiralananda kiracının hakkıyla bağdaşmayan bir hak ileri sürdüğünde kiracının bu nedenle uğradığı her türlü zararı gidermekle yükümlüdür. (TBK m.309)…
 
 ## Yargıtay 3. HD 2024/605 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1011085100)
+
 Kiralananın ayıpları kiraya verenin sorumluluğu altında olduğundan, bu ayıplar kiralananın sözleşme ile güdülen amaca uygun biçimde kullanılmasını veya işletilmesini imkansız kılacak yahutta bu kullanım ve işletmeyi önemli surette azaltacak çeşitten ise kiracı sözleşmeden dönme hakkını kullanabilecek olup, henüz ifa aşaması başlamayan kira sözleşmesi gereği ödemiş olduğu teminat bedelinin iadesini talep eden davacının, 6098 sayılı Kanun'un 125 inci maddesinde yazılı seçimlik hakkını sözleşmeden dönme yolunda kullanmasında bir usulsüzlük bulunmamaktadır.
 
 ## Yargıtay 6. HD 2024/315 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1004031100)
 
 İlk Derece Mahkemesinin yukarıda tarih ve sayısı belirtilen kararı ile asıl dava yönünden; arsa sahibi davalılar ile yüklenici arasında kat karşılığı inşaat sözleşmesi akdedildiği ve sözleşme içeriğine göre dava konusu taşınmazın mahallinde yapılan keşif neticesinde aldırılan bilirkişi raporuna göre dava konusu taşınmazdaki inşaatın tamamlandığı ve fiilen kullanıldığı, ancak ... kullanma izin belgesi olmadığından istenilen belgelerin ikmal edilmesi halinde kat mülkiyetine esas olmak üzere kat irtifakının tesis edilebileceği, davalı tarafın kendisinden başka kimselerin de imza atmadığı ve eksik işler olduğunu beyan etmiş ise de davacı taraf iskan alacağı zaman belediye tarafından istenilen eksiklikleri tamamlayacağından ve başkaca imzası eksik olanlar var ise onlara ilişkin de dava açabileceğinden davalının bu savunmalarına itibar edilmediği ve davacının nama ifaya izin talebine yönelik davasının kabulüne karar verilmesi gerektiği, yapılan keşif esnasında davaya konu edilen evin yıkıldığı anlaşıldığından ve davalı tarafın beyanlarına göre dava açıldıktan sonra yıkıldığı anlaşıldığından müdahalenin men-i talebi konusunda dava konusuz kaldığından karar verilmesine yer olmadığına karar
 verilmesi gerektiği, birleşen dava yönünden; davacı ... dışındaki diğer davacıların davacı ...'in çocukları oldukları ve KKİS'nin ekindeki vaziyet planında bu davacılara verilecek dairelerin belirlendiği ve dosya kapsamında bulunan temlik sözleşmeleri ile davacı ... tarafından diğer davalılara eksik ve ayıplı işlerden kaynaklı alacak haklarını temlik ettikleri, bu davacıların da eksik ve ayıplı ... bedelinin davalı... Gayrimenkul İnşaat Gıda Kuyumculuk Taşımacılık Tarım Ve Hayvancılık Sanayi Ve Ticaret Ltd.Şti. yönünden kabulüne karar vermek gerektiği, kira bedeline yönelik yapılan incelemede; davalı ...
@@ -130,13 +170,19 @@ verilmesine, davacı ...’in ceza-i şart ve kira alacağına ilişkin talebini
 
 ## Yargıtay 6. HD 2024/29 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/998694500)
+
 Bölge Adliye Mahkemesi tarafından hüküm altına alınan ve davacı tarafça temyize konu edilen kira kayıp bedeli yönünden 25.892,00 TL olarak kısmi talepte bulunulmuş ise de, dosyada bilirkişilerce yapılan hesaplamada davacının kira kayıp bedeli talebi yönünden dava tarihinden geriye dönük 5 yıllık hesaplamada 28.122,17 TL tutarının hesaplandığı anlaşılmakla, davacı tarafından kısmi talepte bulunulmakla birlikte kesinlik sınırını aşacak bir asıl alacağın bulunmadığı anlaşılmıştır. Dosya içeriğine göre, davacının taşınmaz değeri yönünden 29.036,22 TL ve kira kayıp bedeli talebi yönünden 5.690,18 TL olmak üzere, dava konusu olan ve temyize konu edilen toplam miktar 34.726,40 TL olup, bu miktarın, 6100 sayılı Hukuk Muhakemeleri Kanununun (6100 sayılı Kanun) 362 nci maddesinin birinci fıkrasının (a) bendi gereğince karar tarihi itibarıyla bölge adliye mahkemeleri tarafından verilen kararların kesinlik sınırı olan 107.090,00 TL'nin altında kaldığı anlaşılmakla; davacı vekilinin temyiz dilekçesinin reddine karar vermek gerekmiştir.
 
 ## Yargıtay 4. HD 2023/13957 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1115883700)
+
 Ne var ki; sigorta ettirenin kiracı sıfatıyla kullandığı taşınmazın, yapı projesinde "sığınak" olarak düzenlendiği, (projesine aykırı biçimde) taşınmazı depo olarak kiralayıp kullanan sigorta ettirenin, zararın doğmasında bu nedenle müterafik kusurunun bulunduğu gözetilmelidir. Zira; sigorta ettiren, yaşanabilecek zararlandırıcı olaylarda maddi kayıp yaşamamak için, emtiasını depolamak amacıyla kullandığı taşınmazı seçerken basiretli davranıp özenli hareket etmeli; bu yükümlülüklerine uygun hareket tarzını benimsemediği durumda da tam tazmine dair haklarının zayi olması sonucuna katlanmalıdır.
 
 ## Yargıtay 11. HD 2023/7549 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/990186500)
 
 Bölge Adliye Mahkemesinin yukarıda tarih ve sayısı belirtilen kararı uyuşmazlığın gizli ayıptan dolayı davalılar Nissan A.Ş ile HBB İnoto Limited Şirketinin sorumlu olup olmadıkları, davacının talep edebileceği zarar kalemlerinin neler olduğu yine manevi zarar oluşup oluşmadığı noktalarında toplandığı, hükme esas alınan bilirkişi raporlarında araçta üretimden kaynaklı gizli ayıp olduğunun tespit edildiği, üreticinin yada ithalatçının satılan üründe var olan ayıplara ilişkin olarak alıcıya karşı sorumluluğu bakımından alıcının tüm seçimlik haklarını satıcıya karşı kullanacağı, üreticinin sorumlu tutulabilmesi için taraflar arasında akdi ilişki bulunmasının da zorunlu olmadığı, üreticinin 6098 sayılı Kanun'un 41 ... maddesi uyarınca meydana gelen haksız fiilden sorumlu olduğu, ürün ile üretici arasında uygun illiyet bağı bulunduğu takdirde üretici meydana gelen zararı tazminle yükümlü olduğu, davaya konu araç 18.04.2016 tarihinde satın alındığı, garanti süresinin 2 yıl olduğu, davaya konu ayıpların garanti süresi içerisinde ortaya çıktığı gerekçesiyle davalı ithalatçı Nissan A.Ş'nin şirketinin ayıplı maldan dolayı sorumluluğunun bulunduğunun kabulü gerekirken mahkemece davalı ...
 yönünden davanın reddine karar verilmesinin doğru görülmediği, davalı HBB İnoto Limited Şirketinin ise yetkili servis konumunda olduğu, davacının sözleşmeden dönme yönündeki seçimlik hakkını davalıya karşı kullanılması

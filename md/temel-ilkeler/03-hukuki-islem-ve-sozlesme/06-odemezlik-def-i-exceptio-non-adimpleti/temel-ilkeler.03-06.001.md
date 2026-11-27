@@ -28,17 +28,25 @@ Teslimin yapı kullanma (iskân) iznine bağlanması HMK'nın 193. maddesi uyar�
 
 ## Yargıtay HGK 2025/562 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1175101700)
+
 Türk Borçlar Kanunu’nun 97. ve 479/1. maddesi hükümlerince arsa payı karşılığı inşaat sözleşmelerinde, arsa sahibinin borcu ancak yüklenicinin işi tamamlayıp, arsa sahibine teslim etmesi ile muaccel hâle gelir. Fakat arsa sahibi bazen arsa paylarını devir borcunu yüklenici inşaatı tamamlamadan önce yerine getirerek yükleniciye devretmekte, tapuda malik olarak görünen yüklenici de inşaatın finansmanını sağlamak amacıyla müstakbel bağımsız bölümlere özgülenen arsa paylarını veya tesis edilen kat irtifak tapusuyla bağımsız bölümleri üçüncü kişilere satmaktadır.
 
 ## Yargıtay HGK 2024/204 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1038997800)
 
 "...Fakat müşterinin bayi tarafından aleyhine ikame edilen dâvaya karşı mebiin tesliminden itibaren bir sene geçmeksizin ihbar ettiği ayıptan dolayı defi hakkı sene geçmekle sakıt olmayıp devam eder..." biçiminde düzenlenen def'i, zamanaşımı def'i olmayıp ödemezlik def'idir. Bu def'i, alıcının satıcı tarafından aleyhine ikame olunan davaya karşı satılanın tesliminden itibaren bir sene geçmeksizin süresi içinde ihbar ettiği ayıplardan dolayı def'i hakkının sene geçmekle sakıt olmayıp (düşmeyip) devam edeceğine ilişkindir. Örneğin semenin ödenmesi için bir yıldan sonra dava açan satıcıya karşı alıcı, semenin tenzilini def'i olarak ortaya koyabilir. Buna göre her ne kadar Özel Dairenin bozma kararında ve mahkemece verilen direnme kararında bu def'iden söz edilmiş ise de; somut uyuşmazlıkta mülga 818 sayılı Kanun'un 207/2 nci maddesi hükmünün uygulanma alanı bulunmamaktadır.
 
 ## Yargıtay HGK 2024/46 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1007548600)
+
 Aynı Kanun'un 188. maddesi ise; "Borçlu, devri öğrendiği sırada devredene karşı sahip olduğu savunmaları, devralana karşı da ileri sürebilir. Borçlu, devri öğrendiği anda muaccel olmayan alacağını, devredilen alacaktan önce veya onunla aynı anda muaccel olması koşuluyla borcu ile takas edebilir." şeklinde düzenlenmiştir. Bu hüküm karşısında, ödemezlik def'inin koşulları varsa, temlik alana karşı da ileri sürülebilir.
 
 ## Yargıtay HGK 2017/543 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/332090400)
 
 1475 sayılı Yasa döneminde, toplu olarak hareket etmemek ve kanun dışı grev kapsamında sayılmamak kaydıyla 818 Sayılı Borçlar Kanununun 81 inci maddesi uyarınca ücreti ödeninceye kadar iş görme edimini ifa etmekten, yani çalışmaktan kaçınabileceği kabul edilmekteydi. 01.07.2012 tarihinde yürürlüğe giren 6098 sayılı Türk Borçlar Kanunu’nun 97 inci maddesinde de benzer bir düzenleme yer almaktadır. 4857 sayılı İş Kanununda ise ücret daha fazla güvence altına alınmış ve işçi ücretinin yirmi gün içinde ödenmemesi durumunda, işçinin iş görme edimini yerine getirmekten kaçınabileceği açıkça düzenlenmiş, toplu bir nitelik kazanması halinde dahi bunun kanun dışı grev sayılamayacağı kurala bağlanmıştır.
 
@@ -52,21 +60,31 @@ Karşı davacı yüklenici sözleşmenin bu hükmüne dayalı olarak olarak tapu
 
 ## Yargıtay 3. HD 2026/167 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1198228500)
+
 Ortaklık sözleşmesinde, karşılıklı borç yükleyen (satış veya kira gibi) sözleşmelerde olduğu gibi 6098 sayılı Türk Borçlar Kanunu'nun (6098 sayılı Kanun) 97. maddesi uyarınca, bir akidin borcunu yerine getirmemesi halinde diğerinin de borcunu yerine getirmekten kaçınması söz konusu edilemez. Bir tarafın katılım payı koyma borcunu yerine getirmekten kaçınması diğer tarafa ancak aynı Kanunun 639. maddesinin yedinci fıkrası uyarınca ortaklığın haklı sebeple feshini isteme hakkını verir.
 
 ## Yargıtay 8. HD 2021/2866 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/668678800)
 
 Bozma ilamında özetle; “Miras paylaşım sözleşmesi, borçlandırıcı nitelikte bir sözleşme olduğundan; tasarrufi işlemin yapılması için, taşınmazlar yönünden tapu iptal ve tescil davası açılması gerekir. Sözleşmenin yapıldığı 25.08.2011 tarihinde davalı taşınmaz miras ortaklığı kapsamında olarak elbirliği mülkiyeti hükümlerine tabidir. Dayanak miras paylaşım sözleşmesi, TMK'nin 676. maddesi uyarınca tüm mirasçıların katılımı ile usulüne uygun olarak düzenlenmiştir. Davacıların dayandığı sözleşmenin, murisleri ...'in 28.06.2001 tarihinde vefatı sonrası tüm mirasçılarının katılımı ile oybirliğiyle düzenlenmiş olması sebebiyle TMK’nin 676. ve devamı maddeleri uyarınca miras paylaşım (taksim) sözleşmesi olarak kabul edilmesi gerekir. Bu durumda davacılar tarafından dosyaya sunulan 25.08.2001 tarihli Harici Taksim Senedi başlıklı adi yazılı ve murisin tüm mirasçıları tarafından imzalanan miras paylaşım sözleşmesi geçerli olup, taraflarını bağlar. Mirasçılar söz konusu bu miras taksim sözleşmesinde yazılı hükümleri yerine getirmek zorundadır.
 İkiden fazla mirasçının bulunduğu miras ortaklığında, miras paylaşım sözleşmesi karşılıklı nitelikte olmakla birlikte; bir mirasçı karşı ifanın yapılmasını tek başına isteyemeyeceğinden; karşılıklı borç yükleyen sözleşmelerde ödemezlik def'ini düzenleyen BK mad. 81 (TBK mad. 97) uygulanamaz. Yazılı paylaşma (taksim) sözleşmesinden doğan borç ifa edilmediği takdirde, her bir mirasçı, paylaşma sözleşmesinden doğan borcu ifa etmekten kaçınan mirasçı aleyhine ifa davası açabilir.
 
 ## Yargıtay 23. HD 2013/126 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/246378200)
+
 … inşaat yapacağı kararlaştırılmıştır. Buna göre, arsa sahiplerinin öncelikli edimi, arsayı inşaata elverişli olarak davalı yükleniciye teslim etmektir. Ancak davalıların 28.02.2012 tarihli dilekçelerindeki beyanları, tanık anlatımları ve keşifte yapılan tespitlerden, arsa sahiplerinin arsa üzerindeki binayı boşaltmadıkları anlaşılmaktadır. Borçlar Kanunu'nun 81. maddesi uyarınca, iki tarafa borç yükleyen akitlerde kendi edimini yerine getirmeyen tarafın, karşı taraftan edimini yerine getirmesini istemeye hakkı bulunmamaktadır. Davacılar tarafından binayı boşaltmama gerekçesi olarak, binayı boşalttıktan sonra oturacakları yerlerin kirasının davalı yüklenici tarafından ödeneceği konusunda anlaştıkları ileri sürülmüş ise de, taraflar arasındaki sözleşmede bu doğrultuda bir düzenleme bulunmamaktadır.
 
 ## Trabzon BAM 4. HD 2020/1064 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/708933500)
+
 Öte yandan TBK'nun 97. maddesi uyarınca karşılıklı borç yükleyen bir sözleşmenin ifası isteminde bulunan tarafın, sözleşmenin koşullarına ve özelliklerine göre daha sonra ifa etme hakkı olmadıkça, kendi borcunu ifa etmiş ya da ifasını önermiş olması gerekir. Bu hükmün ayıplı malın bedelinin iadesi sırasında uygulanması zorunludur. Ayıp nedeniyle alıcı sözleşmeye konu malı geri verirken satıcının da aynı zamanda satış bedelini iade etmesi gereklidir. Aksi halde TBK'nun 97. maddesi uyarınca ödemezlik def'inde bulunulabilir. Bu nedenle sözleşmeden dönme halinde birlikte ifa kuralı geçerli olduğundan birlikte ifa kuralı gereği mal bedelinin davacıya iadesine karar verilirken aynı zamanda ayıplı malın davalı-satıcıya iadesi yönünde de hüküm kurulması gereklidir.
 
 ## Konya BAM 5. HD 2020/156 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/715272500)
 
 Eser sözleşmesinde taraflar sözleşmede bedelin ödenme zamanını kararlaştırabilirler. Sözleşmede bu yönde bir hüküm yoksa, TBK'nın 479. maddesi 1 inci fıkrası hükmüne göre bedel, eserin teslimi anında muaccel olur. İlgili hüküm, TBK'nın 90. maddesinde düzenlenen karşılıklı edimlerin aynı anda yerine getirilmesi kuralına istisnadır. Dolayısıyla eser sözleşmesinde yüklenicinin eseri meydana getirme ve teslim borcu, iş sahibinin bedel ödeme borcuna oranla öncelikle yerine getirilmesi gereken bir borçtur. Bu bakımdan, yüklenici, kendi borcunu ifa etmeden veya ifasını teklif etmeden iş sahibinden ücret borcunu yerine getirmesini isteyemez. Yüklenici böyle bir istemde bulunursa, iş sahibi ona karşı ödemezlik def’ini ileri sürebilir. TBK'nın maddesinde düzenlenen yasal muacceliyet kuralı her türlü eser sözleşmesi için geçerli olup, eserin büyüklüğü veya böyle bir eserin yapılması için ihtiyaç duyulan zamanın uzun olması, sonucu değiştirmez. Bununla birlikte sözleşmede peşinat veya ara ödemeler şeklinde kayıt bulunması halinde bu ödemeler yapılıncaya kadar yüklenicinin teslimden kaçınabileceği ve oluşan gecikmeden sorumlu olmayacağı kabul edilmelidir.

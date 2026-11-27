@@ -22,35 +22,51 @@ uyari: "Derleyenin seçtiği alıntılardır; kararın tamamı değildir. Künye
 
 ## Yargıtay 6. HD 2013/9814 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/657855000)
+
 Olayımızda; Davaya konu ... İşhanı 3.kat 304 nolu büro ilk olarak 26.05.2004 tarihinde yapılan ihale sonucunda 07.06.2004 başlangıç tarihli ve 1 yıl süreli kira sözleşmesi ile dava dışı ...'ya kiraya verilmiş, daha sonra ... tarafından yine kendisine ait olan davacı... Ltd. Şti.ne aynı şartlarla devredilmiş olup, davacı şirketle davalı arasında 14.11.2005 başlangıç ve 31.12.2005 bitiş tarihli kira sözleşmesi imzalanmıştır. Bu durumda davacının davalı ... ile olan kira ilişkisi ihale ile tesis edilen ilk kira sözleşmesinin devamı niteliğinde olup, 5737 sayılı Kanun'un 79/c maddesi gereğince Vakıflar Genel Müdürlüğü'ne ait taşınmazlarda 2886 sayılı Yasanın 75. maddesi kapsamına alındığından değişikliğin yürürlüğe girdiği 27.02.2008 tarihinden itibaren davaya konu taşınmaz hakkında da 2886 sayılı Yasanın 75. maddesinin uygulanması gerekir. Bunun sonucu olarak kira ilişkinin 6570 sayılı Yasanın 11. maddesi uyarınca yıldan yıla yenilenmesi olanağı kalmadığından davacı kiracı fuzuli şagil durumuna düşmüştür.
 Bu itibarla, sözleşmenin sona erdiği tarihten itibaren kiraya verilen yerin 6570 Sayılı Yasa ya da Borçlar Kanun'una tabi olup, olmadığına bakılmaksızın mahkemeden veya mülki amirden tahliyesi istenebilir. Kira süresinin uzatıldığına ilişkin dosyada yazılı bir kanıt bulunmadığına göre mahkemece davanın reddine karar verilmesi gerekirken, kiracılık ilişkisinin devam ettiğinin tespitine karar verilmesi doğru değildir.
 
 ## Yargıtay 6. HD 2013/8526 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/539125800)
+
 Diğer yandan davacı kiraya veren yapmış olduğu icra takibi ile, takip tarihi itibariyle sözleşmenin özel maddesi gereği muaccel hale geldiğini iddia ettiği Aralık 2007 ayı kirasının tahsilini de istemiş ise de, 01.07.2012 tarihinde yürürlüğe giren 6098 Sayılı Türk Borçlar Kanunu'nun 346. maddesinin ikinci cümlesi kira sözleşmelerine konulan muacceliyet şartlarını geçersiz kıldığından davacı sözleşmenin özel maddesi gereğince muaccel hale geldiğinden söz ederek kira dönemi sonuna kadar olan aylar kirasını isteyemeyecektir. Kiralanan konut niteliğinde olup, Türk Borçlar Kanunu'nun 346. maddesinin ikinci cümlesinin uygulaması, kiracının Türk Ticaret Kanunu anlamında tacir sayılmaması nedeniyle 6353 Sayılı Kanun'un 53. maddesi ile değişik 6217 Sayılı Kanun'un geçici 2. maddesi hükmü gereğince erteleme kapsamında da değildir. Bu durumda, mahkemece takip konusu edilen Aralık 2007 ayı kirasının anılan yasal düzenleme çerçevesinde değerlendirilmesi gerekirken, yazılı şekilde karar verilmesi hatalı olmuştur.
 
 ## Yargıtay 6. HD 2013/8330 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/550527000)
+
 346.maddesindeki bu yasal düzenlemenin kamu düzenine ilişkin olduğu kuşkusuzdur. Bununla birlikte 6217 Sayılı Yasanın geçici 2.maddesinde değişiklik yapan 6353 Sayılı Yasanın 53.maddesine göre; kiracının Türk Ticaret Kanunun'da tacir olarak sayılan kişiler ile özel hukuk ve kamu hukuku tüzel kişileri olduğu işyeri kiralarında 6098 Sayılı Türk Borçlar Kanununun 323, 325, 331, 340, 343, 344, 346 ve 354'ncü maddelerinin 1.7.2012 tarihinden itibaren 8 yıl süreyle uygulanamayacağı, bu halde kira sözleşmelerinde bu maddelerde belirtilmiş olan konulara ilişkin olarak sözleşme serbestisi gereği kira sözleşmesi hükümlerinin tatbik olunacağı da öngörülmektedir.
 
 ## Yargıtay 6. HD 2013/8017 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/539031600)
 
 Öte yandan, mahkemece birleşen davada ... 31. İcra Müdürlüğü'nün 2010 / 3873 sayılı dosyasına konu edilen ve muaccel hale geldiği iddia edilen kira bedelleri dolayısıyla kiracının kira borcunun olmadığının tespiti talebi, bilirkişilerin belirlediği imalat bedellerinin kira borcundan takas ve mahsubu sonucu kabul edilmiş ise de, 01.07.2012 tarihinde yürürlüğe giren 6098 Sayılı Türk Borçlar Kanunu'nun 346. maddesinin ikinci cümlesi kira sözleşmelerine konulan muacceliyet şartlarını geçersiz kıldığından kiraya veren sözleşmenin özel 8. maddesi gereğince muaccel hale geldiğinden söz ederek bir yıllık kira parasını isteyemeyecektir. Kiralanan konut niteliğinde olup Türk Borçlar Kanunu'nun 346. maddesinin ikinci cümlesinin uygulaması, kiracının Türk Ticaret Kanunu anlamında tacir sayılmaması nedeniyle 6353 Sayılı Kanun'un 53. maddesi ile değişik 6217 Sayılı Kanun'un geçici 2. maddesi hükmü gereğince erteleme kapsamında da değildir.
 Kiraya veren takip konusu edilen Mart 2010 – Temmuz 2010 arası aylar kirasını henüz istenebilir hale gelmeden 10.02.2010 tarihinde icraya koymuş olduğundan bu aylar kirası yönünden mahkemece bu nedenle istemin reddine karar verilmesi gerekirken, yazılı şekilde hüküm kurulması da doğru görülmemiştir.
 
 ## Yargıtay 6. HD 2013/7724 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/550485000)
+
 Dava konusu taşınmazın, bulunduğu yer itibariyle dava tarihine göre uygulanması gereken 6570 sayılı yasa kapsamında olduğu anlaşılmaktadır. Anılan kanunda tahliye şartları ayrıntılı şekilde düzenlenmiş olup, davacı tarafından söz konusu kanunda sayılan tahliye sebeplerinden herhangi birisine dayanılmadığı gibi kira bedelinin ödenmemesi iddiası ile ilgili olarak temerrüt ihtarına da dayanılmamıştır. Bu durumda mahkemece tahliye talebinin reddine karar verilmesi gerekirken, yazılı gerekçe ile kabulüne karar verilmesi de doğru değildir.
 
 ## Yargıtay 6. HD 2013/7713 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/542911500)
 
 Olayımıza gelince; hükme esas alınan kira sözleşmesi 1.8.1993 başlangıç tarihli 2 yıl süreli olup, sözleşme konusunda taraflar arasında bir uyuşmazlık bulunmamaktadır. 1.8.1993 başlangıç tarihli kira sözleşmesi TBK.347 (6570 sayılı yasanın 11. maddesi ) uyarınca aynı şartlarda 1 er yıl uzamakla belirli süreli kira sözleşmesi olarak uzayıp, belirsiz süreli kira sözleşmesi haline gelmez. Bu nedenle 1.8.1993 başlangıç tarihli kira sözleşmesi TBK. yürürlüğe girdiği tarih itibariyle 10 yıllık süre dolmuş ise de, TBK. nun Yürürlüğü ve Uygulama Şekli Hakkında 6101 sayılı kanunun geçici 2. maddesine göre 10 yıllık süresi dolmuş olan kira sözleşmesinde TBK.347. maddesine göre kiralayanın akdin feshi ve kiralanandan tahliyesi istemi hakkında yürürlük tarihinden itibaren 2 yıl geçmemiştir. Bu nedenle 28.3.2012 tarihinde açılan davanın süresinde olmadığı nazara alınmadan yazılı şekilde tahliye isteminin kabulüne karar verilmesi doğru değildir.
 
 ## Yargıtay 6. HD 2013/7679 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/542910000)
+
 Karar düzeltme talebini içeren ve Yargıtayca onanan iskan ruhsatı alabilmek için kiracı davalıya yetki verilmesine ilişkin bulunduğundan, 6100 sayılı HMK.ya 6217 Sayılı Kanunla eklenen geçici 3.madde hükmü gözetilerek HUMK.nın 440.maddesinin III.fıkrası yarınca yetki verilmesine ilişkin davalara ait hükümlerin onanması veya bozulmasına ilişkin Yargıtay’ca verilen kararlar için karar düzeltme istenemeyeceğinden karar düzeltme istemine ait dilekçenin reddi gerekmiştir.
 
 ## Yargıtay 6. HD 2013/6889 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/406370000)
 
 İcra takibinde ve davada dayanılan ve karara esas alınan 13.6.2011 başlangıç tarihli ve bir yıl süreli kira sözleşmesi konusunda taraflar arasında uyuşmazlık bulunmamaktadır. Sözleşmenin özel şartlar bölümü 19. maddesinde bir kira parasının ödenmemesi halinde gelecek kiraların muaccel hale geleceği düzenlenmiştir. Yine sözleşmenin özel 6. maddesinde, akdin hitamında kiracının kira rayiç bedelini yıllık TEFE-... ortalaması oranında artıracağı kararlaştırılmıştır. Davacı alacaklı, ... 2. İcra Müdürlüğü’nün 2011 / 10374 sayılı dosyası ile davalı borçlu hakkında 27.11.2011 tarihinde tahliye istekli olarak başlattığı icra takibinde aylık 400 TL'den ve sözleşmedeki muacceliyet şartı gereğince Ağustos 2011- Mayıs 2012 arası aylar kirasının tahsilini talep etmiştir . Takibe yasal süresi içinde itiraz eden davalı borçlu davacı alacaklıya herhangi bir kira borcunun olmadığını, yaptığı ödemelere ilişkin belgeleri mahkemeye ibraz edeceğini belirterek, icra takibini durdurmuştur. Davalı borçlu icra takibi ile istenilen ve muaccel hale geldiği iddia edilen aylar kirasını Ağustos- Eylül 2011 ayları kirası hariç süresi içinde ödememekle birlikte
 
@@ -58,27 +74,39 @@ Karar düzeltme talebini içeren ve Yargıtayca onanan iskan ruhsatı alabilmek 
 
 ## Yargıtay 6. HD 2013/6589 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/404718500)
+
 Davaya konu kiralananlar, mesken ve dükkan niteliğinde olup dava tarihinde yürürlükte bulunan 6570 Sayılı Yasa hükümlerine tabidir. Bu nedenle sırf kira sözleşmesinin sona ermesi nedeniyle kiraya veren tarafından kiralananın tahliyesi talep edilemez. Kiraya veren, kiralananın tahliyesini süre sonunda ancak 6570 Sayılı Yasanın 7. maddesinde belirtilen sebeplerden birisine dayanarak talep edebilir. Ayrıca şartların varlığı halinde Borçlar Kanunun 256 maddesi gereğince akde aykırlık nedeniyle veya BK.nun 260. maddesi gereğince kira borcunun ödenmemesi üzerine temerrüt şartları varsa temerrüt nedeniyle kira sözleşmesinin süresinin sona ermesi beklenilmeden akdin feshi ve kiralananın tahliyesi talep edilebilir. Davacı, dava dilekçesinde tahliye istemini hangi sebebe dayandırdığını açıkça belirtmediği gibi, mahkemece davacıya dava sebebi açıklattırılmamıştır. Dava açabilme koşul ve süreleri davacının dayandığı sebebe göre belirleneceğinden, davacıya öncelikle…
 
 ## Yargıtay 6. HD 2013/6017 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/404186600)
 
 Olayımıza gelince; her ne kadar yerel mahkeme ihtiyacın ispatlandığını gerekçesinde belirtmiş ise de, ihtiyaca ilişkin hiçbir delil toplanmadan sadece 6570 Sayılı Yasa 7/d maddesine göre davanın süresinde açıldığının kabulü ile tahliye kararı verilmiştir. Taşınmazın iktisabı yalnız başına tahliye nedeni olmayıp davacının yukarıda açıklandığı gibi ihtiyaç iddiasını kanıtlaması gerekir. Bu nedenle mahkemece tarafların ihtiyaca yönelik delillerinin toplanarak sonucuna göre davanın esası hakkında bir karar verilmesi gerekirken eksik inceleme ile davanın kabulüne karar verilmesi doğru değildir.
 
 ## Yargıtay 6. HD 2013/5764 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/404232900)
+
 Mahkemenin kararında ve Yargıtay ilamında yazılı sebeplere göre 6100 Sayılı HMK.na 6217 Sayılı Kanun'la eklenen geçici 3. madde hükmü gözetilerek HUMK.nun 440. maddesinde yazılı hallerden hiçbirine uymayan davalı vekilinin tahliyeye ilişkin karar düzeltme istemi yerinde değildir.
 
 ## Yargıtay 19. HD 2013/5297 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/819548400)
 
 Mahkemece yapılan yargılama sonunda toplanan delillere göre; davalı taraf, davaya konu bonoları iş yerinde bulunan ve davacıya devredilen gümüş eşyalara karşılık aldığını ileri sürmüş ise de; gerek imzasını inkar etmediği dosya içersindeki 01.06.2010 tarihli sözleşmede bonoların iş yerinin devri için alındığının belirtilmesi, gerekse devrettiğini iddia ettiği eşyalar için herhangi bir fatura ya da başkaca bir belge sunmaması nedeniyle, bu savunmasına itibar etme olanağı bulunmadığı, 6570 Sayılı Gayrimenkul Hakkındaki Kanun'un 12. maddesi gereği, davalı tarafın kiracısı bulunduğu iş yerini sözleşmede açıkça izin verilmediğinden ve kiralayanın da muvafakati alınmadığından davacıya devredemeyeceği, bu nedenle de aralarında yapılan devir işleminin geçersiz olduğu, aynı Yasa'nın 16. maddesine göre de; kira ilişkisi kapsamında kira bedeli dışında, hava parası yahut başka bir nam altında para alınamayacağı, bu hükümler birlikte değerlendirildiğinde davalı tarafça iş yerindeki malların davacıya devredildiği hususu kanıtlanamadığından, alınan davaya konu bonoların 6570 Sayılı Yasanın 16. maddesi anlamında hava parası niteliğinde olduğu gerekçesiyle davanın kabulü ile dava konusu 01/06/2010
 tanzim…
 
 ## Yargıtay 6. HD 2013/4907 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/657699800)
+
 Taraflar arasında 29.4.2004 başlangıç tarihli , üç yıl süreli kira sözleşmesi ile 823 m2 lik atölye binasının davalıya kiralandığı, binanın üzerinde bulunduğu 1700 m2 lik arsa ile ilgili olarak ise dava dışı Milli Emlak Müdürlüğü ile davalı arasında 3.7.2007 başlangıç tarihli beş yıl süreli kira sözleşmesinin imzalandığı, bu sözleşmenin özel şartlar 22. maddesinde taşınmazın üzerindeki binanın TTK ya ait olduğu, bu bina için TTK ile ayrıca sözleşme yapılacağının düzenlendiği, bu çerçevede davacının 29. 4. 2004 başlangıç tarihli kira sözleşmesi yürürlükte iken davalıya 29/04/2007 başlangıç tarihli beş yıl süreli kira sözleşmesi imzalanması hususunda teklif götürdüğü, davalının ise 17 Eylül 2008 havale tarihli cevabi yazısı ile davacıya 29. 4 .2007 başlangıç tarihli kira sözleşmesinin kabul edilmediğini bildirdiği dosya içerisindeki belgelerden anlaşılmaktadır. Davalı vekili tarafından 17 Eylül 2008 tarihinde ve daha sonraki tarihlerde yeni sözleşme yapılmayacağı bildirilmekle taraflar arasındaki kira ilişkisinin sona erdiği savunulmaktadır. Taraflar arasındaki 29.4.2004 başlangıç tarihli kira sözleşmesindeki taşınmazın vasfına göre 6570 sayılı yasaya tabi olduğu anlaşılmaktadır.
 6570 sayılı yasanın 11inci maddesine göre 29/04/2004 başlangıç tarihli kira sözleşmesinin devam ettiğinin kabulü gerekir. Davacı alacaklının kira bedellerinin tahsili için takip başlatmasında bir usulsüzlük bulunmamaktadır.
 
 ## Yargıtay 6. HD 2013/4651 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/657415100)
 
 Davada dayanılan ve karara esas alınan 1.7.2011 başlangıç tarihli ve 30.08.2012 bitiş tarihli kira sözleşmesi konusunda taraflar arasında uyuşmazlık bulunmamaktadır. Sözleşmede aylık kira bedeli 12500 TL olup, ayın onbeşine kadar peşin ödeneceği özel şartlar bölümünün 4. maddesinde ise aynı dönem içerisinde iki ay kira parasının ödenmemesi halinde süre sonuna kadar tüm kira bedellerinin muaccel olacağı kararlaştırılmıştır. Bu şartlar geçerli olup, tarafları bağlar. Davacı anılan sözleşmeye dayanarak davalı borçlu hakkında Aralık 2011 ve Ocak 2012 aylar kira paralarının ödenmediğini ileri sürerek sözleşmedeki muacceliyet koşulu uyarınca 2012 yılı Ağustos ayına kadar(Ağustos dahil) kira bedeli toplamı 105000 TL'nin tahsilini ve davalı kiracı şirketin kiralanandan tahliyesini
 
@@ -86,13 +114,19 @@ istemiş, davalılar ise Aralık 2011 ve Ocak 2012 ay kiralarının 10.03.2012 t
 
 ## Yargıtay 6. HD 2013/4360 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/657231100)
+
 Olayımızda; her ne kadar, 2886 sayılı Devlet İhale Kanunu uyarınca kiraya verilen kiralanan ile ilgili olarak taraflar arasında düzenlenen 01/11/1999 başlangıç ve 31/12/2000 bitiş tarihli kira sözleşmesi 6570 Sayılı Kanunu’nun 11. maddesi uyarınca yıldan yıla yenilenerek uzamış ise de; Vakıflar Genel Müdürlüğüne 2886 Sayılı Yasanın 75. maddesinden yararlanma hakkı tanıyan 5737 Sayılı Kanunun (79/c md.) yürürlüğe girdiği 27/02/2008 tarihini izleyen yenilenen son dönemin bittiği 31.12.2008 tarihi itibariyle sözleşmenin sona erdiğinin kabulü gerekir, artık bu tarihten sonra yasa gereği sözleşmenin 6570 Sayılı Kanunun 11. maddesi uyarınca yıldan yıla yenilenmesi olanağı kalmadığından davalı kiracı fuzuli şagil durumuna düşmüştür. Bu nedenle mahkemece davanın reddine karar vermek gerekirken yazılı gerekçe ile davanın kabulüne karar verilmesi doğru olmadığından hükmün bozulması gerekmiştir.
 
 ## Yargıtay 6. HD 2013/4208 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/657101000)
+
 Borçlar Kanunu'nun 346. maddesinin ikinci cümlesinin uygulaması, kiracının Türk Ticaret Kanunu anlamında tacir sayılmaması nedeniyle 6353 Sayılı Kanun'un 53. maddesi ile değişik 6217 Sayılı Kanun'un geçici 2. maddesi hükmü gereğince erteleme kapsamında da değildir. Bu durumda mahkemece takip tarihine kadar istenebilir olduğu halde ödenmeyen Ekim – Kasım- Aralık 2010 ayları kirası yönünden itirazın kaldırılmasına karar verilmesi gerekirken, yazılı şekilde karar verilmesi isabetsiz olup bozmayı gerektirmiştir.
 
 ## Yargıtay 6. HD 2013/4248 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/657143700)
 
 İhtiyaca dayalı olarak tahliye edilen taşınmazın kanuni süre içinde mücbir sebep olmaksızın eski kiracısı dışında üçüncü bir kişiye kiraya verilmesi 6570 Sayılı Yasanın 15.maddesine aykırılık teşkil etmektedir. Davalının kanun hükmüne aykırı hareketi esasen haksız fiili niteliğinde olup zamanaşımı süresinin buna göre belirlenmesi gerekmektedir. Davalı, davacının ıslah işlemine karşı süresinde zamanaşımı definde bulunmuş, ıslah edilen bölüm yönünden davanın zamanaşımına uğradığını belirtmiştir. Yargı kararları ve öğretide kısmi ıslahta dava edilmeyen alacak kesimi için, fazlaya ilişkin hakkın saklı tutulmuş olmasının zamanaşımını kesmeyeceği kabul edilmektedir (Prof. Dr. Baki Kuru Hukuk Muhakemeleri Usulü Altıncı Baskı Cilt: II sayfa: 1541 vd.). Kısmi dava açılması halinde zamanaşımı yalnız alacağın kısmi dava konusu yapılan miktarı için kesilir ( Y.HGK. 20.3.1968 gün ve 1968/9-210 E. ve 151 K., 3.7.2002 gün ve 2002/9-564 E. ve 572 K.sayılı ilamları ). Kısmi davada saklı tutulan bölümün ıslah tarihi itibariyle zamanaşımına uğradığına yönelik davalının savunması hakkında mahkemece olumlu olumsuz bir karar verilmiş değildir. Öte yandan
 
@@ -100,33 +134,49 @@ davalının açtığı tahliye davası kabul ile sonuçlanıp kesin hüküm hali
 
 ## Yargıtay 6. HD 2013/4164 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/551024700)
+
 Borçlar Kanun'unun 260.maddesi ile muaccel olan kira parasının ihtara rağmen 30 günlük ödeme süresi içinde ödenmeyerek temerrüde düşülmesi halinde aktin feshedileceği hüküm altına alınmıştır. 6570 sayılı Yasa'nın 7/e maddesindeki düzenleme ile de kira bedelinin vaktinde ödenmemesi nedeniyle haklı olarak bir yıl içinde kendilerine iki defa yazılı ihtar yapılan kiracılar aleyhine ayrıca ihtara gerek kalmaksızın aktin hitamında kiraya verene, tahliye davası açma hakkı tanınmıştır.
 
 ## Yargıtay 3. HD 2013/4022 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/262474200)
 
 Yeni dönem kira parasının hakimce artırılarak tesbitinin istenilmesi halinde 18.11.1964 gün ve 2/4 sayılı Yargıtay İçtihadı Birleştirme Kararında öngörüldüğü üzere kira süresi sona erdiğinden 6570 sayılı Yasanın II.maddesi uyarınca yenilenen dönemde kira sözleşmesinin diğer hükümlerinin yenilenmesine karşın, kira parasına ilişkin koşul yenilenmemekle kira parası belli olmayan bir sözleşme haline gelmektedir. Hakim, kira sözleşmesindeki bu boşluğu "Hak ve nesafet" kurallarına uygun bir kira parası takdir etmek suretiyle doldurmaktadır. Yeni dönem kira parasının tesbiti, anılan içtihadı Birleştirme Kararında açıklandığı gibi bir sınırlamadır. Yeni dönemde hakimin yaptığı sınırlama sonucunda belirlediği "Ücret unsuru" ile kira sözleşmesinin yenilenmesi sağlanabilmektedir.
 
 ## Yargıtay 6. HD 2013/3590 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/546158100)
+
 TBK.nun 346.maddesindeki bu yasal düzenlemenin kamu düzenine ilişkin olduğu kuşkusuzdur. Bununla birlikte 6217 Sayılı Yasanın geçici 2.maddesinde değişiklik yapan 6353 Sayılı Yasanın 53.maddesine göre; kiracının Türk Ticaret Kanunun'da tacir olarak sayılan kişiler ile özel hukuk ve kamu hukuku tüzel kişileri olduğu işyeri kiralarında 6098 Sayılı Türk Borçlar Kanununun 323, 325, 331, 340, 343, 344, 346 ve 354'ncü maddelerinin 1.7.2012 tarihinden itibaren 8 yıl süreyle uygulanamayacağı, bu halde kira sözleşmelerinde bu maddelerde belirtilmiş olan konulara ilişkin olarak sözleşme serbestisi gereği kira sözleşmesi hükümlerinin tatbik olunacağı da öngörülmektedir.
 
 ## Yargıtay 6. HD 2013/3661 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/546135000)
 
 Konut veya işyeri ihtiyacına dayalı olarak açılacak tahliye davalarında kiralayanın dava hakkı mutlak olup bunun dışında malik ve yeni malikin de dava açma hakkı bulunmaktadır. Yeni malikin dava açma hakkı 6570 sayılı yasanın 7/d maddesinde düzenlenmiştir. Anılan madde hükmüne göre bir taşınmazı Medeni Kanun hükümlerine göre iktisap eden kişinin de dava hakkı bulunmaktadır. Kural olarak taşınmaz mülkiyetinin kazanılması kanunda öngörülen istisnalar dışında ancak tescille mümkündür. 6570 sayılı yasanın 7/d maddesi taşınmazın Medeni Kanun hükümlerine göre iktisap edilmesi halini düzenlemiştir.
 
 ## Yargıtay 6. HD 2013/3510 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/550176000)
+
 Davalı kiracı yönünden; 6100 sayılı HMK.ya 6217 Sayılı Kanunla eklenen geçici 3.madde hükmü gözetilerek HUMK.nın 21.7.2004 tarih, 5219 sayılı kanunla değişik 427.maddesi ve 5236 sayılı kanunun 19.maddesi ile Hukuk Usulü Muhakemeleri Kanununa eklenen Ek madde 4 uyarınca yeniden değerleme oranına göre ve Yargıtay Hukuk Genel Kurulu’nun 02.3.2005 tarih ve 9-82 Esas ve 126 Karar sayılı ilamı uyarınca temyiz konusu reddedilen alacak hüküm tarihinde 1.690,00 TL’nin altında bulunduğundan hükmün kesin olması nedeniyle temyiz isteminin REDDİNE,…
 
 ## Yargıtay 6. HD 2013/3339 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/411319700)
 
 6570 Sayılı Yasanın 7/e maddesi uyarınca açılacak iki haklı ihtar nedenine dayalı tahliye davasının kiralayan tarafından açılması gerekir. Kiralayan durumunda olmayan malikin bu davayı açabilmesi için daha önce kiracıya ihtar göndererek kiraların kendisine ödenmesini istemesi ondan sonra ihtarları göndermesi gerekir. Kiralayanlar birden fazla ise, ihtarları birlikte göndermeleri ve yine davayı da birlikte açmaları zorunludur. Bu hususlar dava hakkına ilişkin olup, mahkemece kendiliğinden nazara alınır. 6570 Sayılı Yasanın 7/e maddesi uyarınca iki haklı ihtar nedeniyle açılacak tahliye davasının yerleşik içtihatlar uyarınca kira sözleşmesinin bitiminden itibaren bir ay içerisinde açılması zorunludur.
 
 ## Yargıtay 6. HD 2013/3180 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/411468000)
+
 Kira sözleşmelerinde kefilin sorumluluğu kural olarak kira süresi ile sınırlıdır. Kira süresinin 6570 Sayılı Gayrimenkul Kiraları Hakkında Kanun'un 11. maddesi gereğince uzadığı hallerde, uzayan kira süresi bakımından kefilin sorumluluğunun devam edebilmesi için kefilin sorumluluğunun uzayan dönem için de devam edeceğinin sözleşmede kararlaştırılmış olması yeterli değildir. Bunun yanında kefilin uzayan dönemdeki sorumluluğunun azami hangi süreyle ve hangi miktarla sınırlı olacağının açıkça gösterilmiş olması gerekir. Başka bir ifade ile ne kadar uzayacağı belirsiz bir kira süresine ilişkin olan ve kefili sınırsız sorumluluk altına sokan sözleşme hükümleri geçerli değildir. Hakim bu yönleri kendiliğinden dikkate almakla yükümlüdür.
 
 ## Yargıtay 6. HD 2013/2732 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/409161900)
 
 Dosyaya sunulan banka dekontuna göre takip konusu edilen Haziran 2012 ayı kirasının ödeme emri ile verilen otuz günlük ödeme süresi içinde 6.7.2012 tarihinde 1.440 TL olarak
 
@@ -134,23 +184,33 @@ davacı alacaklının banka hesabına yatırıldığı görülmektedir. Davalı 
 
 ## Yargıtay 6. HD 2013/2512 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/409446300)
+
 01.07.2012 tarihinde yürürlüğe giren 6098 sayılı Türk Borçlar Kanunu'nun 346.maddesinde, kira bedelinin zamanında ödenmemesi hâlinde ceza koşulu ödeneceğine veya sonraki kira bedellerinin muaccel olacağına ilişkin anlaşmaların geçersiz olacağı hüküm altına alınmıştır.Öte yandan 6101 sayılı Türk Borçlar Kanunu'nun Yürürlüğü ve Uygulama Şekli Hakkında Kanun'un “Geçmişe Etkili Olma” başlıklı 2.maddesinde Türk Borçlar Kanunu'nun kamu düzenine ve genel ahlâka ilişkin kuralları gerçekleştikleri tarihe bakılmaksızın bütün fiil ve işlemlere uygulanacağı ,“Görülmekte Olan Davalara İlişkin Uygulama” başlıklı 7.maddesinde de Türk Borçlar Kanunu'nun;kamu düzenine ve genel ahlaka ilişkin kuralları ile geçici ödemelere ilişkin 76., faize ilişkin 88., temerrüt faizine ilişkin 120., aşırı ifa güçlüğüne ilişkin 138.maddesinin ,görülmekte olan davalarda da uygulanacağı öngörülmüştür.Türk Boçlar Kanunu'nun “Kiracı Aleyhine Düzenleme Yasağı” başlıklı 346.maddesinin kamu düzenine ilişkin bir hüküm olduğu uyuşmazlık konusu değildir.Ancak 04.07.2012 tarihli 6353 Sayılı Kanun'un 53. maddesi ile değiştirilen 31.3.2012 tarihli 6217 Sayılı Kanun'un Geçici 2. maddesine göre”Kiracının Türk Ticaret Kanununda
 tacir olarak sayılan kişiler ile özel hukuk ve kamu hukuku tüzel kişileri olduğu ./..
 
 ## Yargıtay 6. HD 2013/2074 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/654915400)
+
 Türk Boçlar Kanunu'nun “Kiracı Aleyhine Düzenleme Yasağı” başlıklı 346.maddesinin kamu düzenine ilişkin bir hüküm olduğu uyuşmazlık konusu değildir. Ancak, 04.07.2012 tarihli 6353 sayılı Kanun'un 53. maddesi ile değiştirilen 31.3.2012 tarihli 6217 sayılı Kanun'un Geçici 2. maddesine göre” Kiracının Türk Ticaret Kanunu'nda tacir olarak sayılan kişiler ile özel hukuk ve kamu hukuku tüzel kişileri olduğu işyeri kiralarında, 11/1/2011 tarihli ve 6098 sayılı Türk Borçlar Kanununun 323, 325, 331, 340, 342, 343, 344, 346 ve 354 üncü maddeleri 1/7/2012 tarihinden itibaren 8 yıl süreyle uygulanmaz. Bu durumda olan kira sözleşmelerinde bu maddelerde belirtilmiş olan konulara ilişkin olarak sözleşme serbestisi gereği kira sözleşmesi hükümleri tatbik olunur. Kira sözleşmelerinde "hüküm olmayan hallerde mülga Borçlar Kanunu hükümleri uygulanır.” hükmüne göre kiracısı tacir ve tüzel kişi olan işyerlerinde Türk Borçlar Kanunu'nun 346. maddesi uygulanmayacaktır.
 
 ## Yargıtay 6. HD 2013/2184 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/654955700)
 
 Türk Boçlar Kanunu'nun “Kiracı Aleyhine Düzenleme Yasağı” başlıklı 346.maddesinin kamu düzenine ilişkin bir hüküm olduğu uyuşmazlık konusu değildir.Ancak 04.07.2012 tarihli 6353 Sayılı Kanun'un 53. maddesi ile değiştirilen 31.3.2012 tarihli 6217 Sayılı Kanun'un Geçici 2. maddesine göre”Kiracının Türk Ticaret Kanununda tacir olarak…
 
 ## Yargıtay 6. HD 2013/2001 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/410781900)
+
 Davacıların daha sonra malik oldukları kiralananda davalının 01.10.2009 başlangıç tarihli ve 1 yıl süreli kira sözleşmesi ile kiracı olduğu hususunda uyuşmazlık bulunmamaktadır. Kira sözleşmesine göre kiralananın fırın olarak işletilen dükkan vasfında olduğu, davanın açıldığı tarihte yürürlükte olan 6570 sayılı yasa kapsamında kalan 6098 Sayılı Türk Borçlar Kanunu'ndaki düzenlemeye göre de çatılı işyeri olduğu anlaşılmaktadır. Davacılar vekili, dava dilekçesinde açıkça bir tahliye sebebi göstermemiş, 07.03.2012 tarihli duruşmadaki imzasız beyanında ise davayı “kira sözleşmesinin bitimi nedeniyle tahliye davası olarak” nitelemiştir. 6570 sayılı yasanın 7.maddesinde tahliye sebepleri sınırlı olarak sayılmış olup, bu yasa kapsamında kalan kiralananlar hakkında süre bitimi nedeniyle tahliye istenemeyeceği gibi, 6098 Sayılı Türk Borçlar Kanunu'nun 347.maddesinde de konut ve çatılı işyeri kiralarında kiraya verenin ancak on yıllık uzama süresi sonunda bildirim yoluyla kira sözleşmesine son verebileceği belirlenmiştir. Aynı Kanun'un 350. ve müteakip maddelerinde ise, kira sözleşmesinin hangi hallerde dava yoluyla sonlandırılacağı düzenlenmiştir.
 Davacılar vekili dava dilekçesinde, davalı kiracıya kira bedellerini ödememesi nedeniyle birçok kez ihtar gönderildiğini bildirmiş ise de söz konusu ihtarların hiçbirisinde davalıya yasal 30 günlük ödeme süresi verilmediğinden, ihtarların 6098 Sayılı Türk Borçlar Kanunu'nun 315/son (Borçlar Kanunu’nun 260.)maddesine uygun temerrüt ihtarı olarak nitelendirilemeyeceğinden temerrüt nedeniyle tahliye davası koşulları da oluşmamaktadır. Mahkemece davanın reddine karar verilmesi gerekirken yazılı şekilde eksik inceleme ile karar verilmesi doğru olmadığından hükmün bozulması gerekmiştir.
 
 ## Yargıtay 6. HD 2013/1991 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/654873800)
 
 Dava konusu kiralananın, davacı ... tarafından 2886 Sayılı Yasa gereğince ihale sonucu davalıya kiraya verildiği, dosyada mevcut ihale, tutanak ve dosyasından anlaşılmaktadır. 2886 Sayılı Yasa uyarınca kiraya verilen taşınmazların, kira süresi sonunda, işgal ne kadar süre devam ederse etsin, kiralananın 6570 Sayılı Yasaya ya da Borçlar Kanununa tabi olup olmadığına bakılmaksızın, her zaman gerek mahkemeden gerek se mülki amirden tahliyesi istenebilir. Taraflar arasında 11.2.2004 tarihinde başlayıp, 10.2.2009 tarihinde sona eren kira sözleşmesinde, kira süresinin uzatıldığına ilişkin bir hüküm bulunmadığından, kiracının sözleşmenin sona ermesi tarihinden itibaren, 2886 Sayılı Yasanın 75. maddesi uyarınca, haksız işgalci durumunda olduğunun kabulü gerekir. Bu durumda, davanın açıldığı 14.6.2010 tarihinde davalı haksız işgalci konumunda olduğundan, 2886 Sayılı Yasanın 75. maddesi gereğince davanın kabulü ile kiralananın tahliyesine karar verilmesi gerekirken, yazılı şekilde kiralananın 6570 sayılı Yasaya tabi olduğundan ve aynı Yasanın 7.
 
@@ -158,10 +218,14 @@ maddesindeki şartlar gerçekleşmediği gerekçesiyle davanın reddine karar ve
 
 ## Yargıtay 6. HD 2013/1765 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/411140100)
+
 Davada ve icra takibinde dayanılan ve karara esas alınan 01.07.2010 başlangıç tarihli ve bir yıl süreli kira sözleşmesi ile kiralananın 6570 Sayılı Yasa kapsamında bulunduğu konusunda taraflar arasında bir uyuşmazlık bulunmamaktadır. Kira sözleşmesinde kira parasının yıllık 17.500,00 TL olduğu ve her yılın Temmuz ayının birinci gününde peşin olarak ödeneceği, sözleşmenin 10. maddesinde kiralananın süre sonunda tahliye edilmeyerek, kira sözleşmesinin uzaması halinde kira parasının ÜFE, ... ortalamasına göre arttırılacağı kararlaştırılmıştır. Kararlaştırılan bu şartlar geçerli olup, tarafları bağlar. Davacı alacaklı 19.3.2012 tarihinde başlatmış olduğu icra takibinde 01.07.2011 tarihli kira parası bakiyesi 9.630,00 TL'nin tahsilini istemiştir. Davalı borçlu itirazında böyle bir borcu olmadığını, istenen kira bedelinin, peşin kira bedeli olduğu için ödeme emrine itiraz ettiğini belirterek takibe itiraz etmiştir. Davalı borçlunun bu itirazı borca itiraz niteliğinde olup, kiracılık ilişkisine ve sözleşmeye itirazı bulunmamaktadır.
 Mahkemece sözleşmedeki artış şartına göre 1.7.2011 tarihinden itibaren başlayan kira dönemi için yıllık kira parasının saptanarak varsa bu döneme ilişkin ödemeler mahsup edildikten sonra işin esası hakkında bir karar verilmesi gerekirken, yazılı gerekçe ile istemin reddine karar verilmesi doğru değildir.
 
 ## Yargıtay 6. HD 2013/1673 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/410158400)
 
 Davalıların gecikme cezasına ilişkin temyiz itirazlarına gelince;Taraflar arasında düzenlenen kira sözleşmesinin özel şartlar 5. maddesinde kira bedellerinin zamanında ödenmediği takdirde her ay için %10 gecikme zammı uygulanacağı, 1 ay kira bedelinin ödenmemesi halinde müteakip aylar kira alacağının muaccel olacağı hükmüne yer verilmiştir.01.07.2012 tarihinde yürürlüğe giren 6098 Sayılı Türk Borçlar Kanunu'nun 346.maddesinde kiracıya kira bedeli ve yan giderler dışında başka bir ödeme yükümlülüğü getirilemeyeceği özellikle kira bedelinin zamanında ödenmemesi halinde ceza koşulu ödeneceğine veya sonraki kira bedellerinin muaccel olacağına ilişkin anlaşmaların geçersiz olduğu hüküm altına alınmıştır.Öte yandan 6101 sayılı Türk Borçlar Kanunu'nun Yürürlüğü ve Uygulama Şekli Hakkında Kanun'un “Geçmişe Etkili Olma” başlıklı 2.maddesinde Türk Borçlar Kanunu'nun kamu düzenine ve genel ahlâka ilişkin kuralları gerçekleştikleri tarihe bakılmaksızın bütün fiil ve işlemlere uygulanacağı, “Görülmekte Olan Davalara İlişkin Uygulama” başlıklı 7.maddesinde de Türk Borçlar Kanunu'nun;kamu düzenine ve genel ahlaka ilişkin kuralları ile geçici ödemelere ilişkin 76., faize ilişkin 88., temerrüt
 faizine ilişkin 120., aşırı ifa güçlüğüne ilişkin 138.maddesinin, görülmekte olan davalarda da uygulanacağı öngörülmüştür.Türk Boçlar Kanunu'nun “Kiracı Aleyhine Düzenleme Yasağı” başlıklı 346.maddesinin kamu düzenine ilişkin bir hüküm olduğu uyuşmazlık konusu değildir.Ancak 04.07.2012 tarihli 6353 Sayılı Kanun'un 53. maddesi ile değiştirilen 31.3.2012 tarihli 6217 Sayılı Kanun'un Geçici 2. maddesine göre”Kiracının Türk Ticaret Kanununda tacir olarak sayılan kişiler ile özel hukuk ve kamu hukuku tüzel kişileri olduğu işyeri kiralarında, 11/01/2011 tarihli ve 6098 sayılı Türk Borçlar Kanununun 323, 325, 331, 340, 342, 343, 344, 346 ve 354 üncü maddeleri 01/07/2012 tarihinden itibaren 8 yıl süreyle uygulanmaz. Bu halde, kira sözleşmelerinde bu maddelerde belirtilmiş olan konulara ilişkin
@@ -170,8 +234,12 @@ olarak sözleşme serbestisi gereği kira sözleşmesi hükümleri tatbik olunur
 
 ## Yargıtay 6. HD 2013/1582 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/408931500)
+
 Olayımızda; taraflar arasında düzenlenen 28.04.1998 başlangıç ve 31.12.1998 bitiş tarihli kira sözleşmesi konusunda uyuşmazlık bulunmamaktadır. Taşınmaz 2886 sayılı Yasa uyarınca kiraya verildiği tarafların ve mahkemenin kabulündedir. Sözleşme 6570 Sayılı Kanunu’nun 11. maddesi uyarınca yıldan yıla yenilenerek uzamış ise de; Vakıflar Genel Müdürlüğüne 2886 Sayılı Yasanın 75. maddesinden yararlanma hakkı tanıyan 5737 Sayılı Kanunun (79/c md.) yürürlüğe girdiği 27/02/2008 tarihini izleyen yenilenen son dönemin bittiği 31.12.2008 tarihi itibariyle sözleşmenin sona erdiğinin kabulü gerekir, artık bu tarihten sonra yasa gereği sözleşmenin 6570 Sayılı Kanunun 11. maddesi uyarınca yıldan yıla yenilenmesi olanağı kalmadığından davalı kiracı fuzuli şagil durumuna düşmüştür. Bu nedenle mahkemece davanın reddine karar vermek gerekirken yazılı gerekçe ile davanın kabulüne karar verilmesi doğru olmadığından hükmün bozulması gerekmiştir.
 
 ## Yargıtay 6. HD 2013/1410 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/243948500)
 
 Olayımıza gelince; davacı tarafından 6570 Sayılı Yasanın 7/d maddesine göre dava açılmış olup,davalının kiracı olduğu taşınmaz davacı tarafından 14.10.2010 tarihinde satın alınmıştır. Davacı tarafından satın almadan sonra 08.11.2010 tarihinde keşide edilen ihtarname davalı kiracıya 11.11.2010 tarihinde tebliğ edilmiştir. Her ne kadar mahkemece ihtarnamenin Tebligat Kanunun 21.maddesinde belirtilen usulde yapılmadığı,bu nedenle 6570 sayılı kanunun 7/d maddesinin iktisap nedeni ile tahliye davasının açılabilmesi için aramış olduğu ihtarname şartının somut olayda gerçekleşmediği gerekçesiyle davanın reddine karar verilmiş ise de, Mahkemece ihtarnamenin tebliğ belgesi getirtilmeden tebliğ şerhine göre değerlendirme yapılmıştır. Tebliğ belgesinin incelenmesinde ihtarname tebliğinin Tebligat Kanununun 21/1 maddesine göre usulüne uygun olduğu anlaşıldığından işin esası incelenerek sonucuna göre bir karar verilmesi gerekirken yazılı şekilde karar verilmesi doğru değildir.

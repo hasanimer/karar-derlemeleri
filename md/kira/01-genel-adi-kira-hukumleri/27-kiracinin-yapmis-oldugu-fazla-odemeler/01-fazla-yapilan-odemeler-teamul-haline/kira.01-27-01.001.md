@@ -21,6 +21,8 @@ uyari: "Derleyenin seçtiği alıntılardır; kararın tamamı değildir. Künye
 
 ## Yargıtay 3. HD 2019/4357 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/520047400)
+
 …Teamül haline gelmiş bir ödeme şekli varsa bu şekilde yapılan ödeme geçerlidir. Kiracı tarafından sözleşmede yazılı artış hükmünün bilinmesine rağmen ihtirazi kayıt ileri sürmeksizin artış yaparak kirayı ödemeye devam ettiği takdirde kira bedelinin indirilmesine yönelik haklarından halin icaplarına göre feragat etmiş sayılabilir.
 
 ## İzmir BAM 23. HD 2025/1209 K.

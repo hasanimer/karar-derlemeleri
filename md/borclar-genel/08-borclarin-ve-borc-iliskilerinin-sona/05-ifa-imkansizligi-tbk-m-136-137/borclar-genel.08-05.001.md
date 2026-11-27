@@ -20,66 +20,98 @@ uyari: "Derleyenin seçtiği alıntılardır; kararın tamamı değildir. Künye
 
 ## Yargıtay HGK 2022/1348 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/876678200)
+
 Taşınmazın henüz bölünmemiş bir parçasının satışı vaad ediliyorsa, sözleşme İmar Kanunu gereğince ilgili kurumlardan onayın alınması şartına bağlı olarak yapılmış sayılmalı, ayrıca açıklık olmadıkça satıcının her şeye rağmen imkânsızlığı yenmeyi taahhüt ettiği kabul edilmelidir. Bu hâlde de, imkânsız edimi ifa edemeyen satıcı, vaat alacaklısına BK’nın 96. maddesi gereğince tazminatla yükümlü olmalıdır (Kocayusufpaşaoğlu, s. 79). BK’nın 96. maddesi gereğince ödenmesi gereken tazminat ise alacaklının müspet zararıdır. Müspet zarardan da, borçlu edayı gereği gibi ve vaktinde yerine getirseydi alacaklının mameleki ne vaziyette bulunacak idi ise, bu vaziyetle mamelekin hâli hazır vaziyeti arasındaki fark anlaşılmalıdır.
 
 ## Yargıtay HGK 2021/766 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/686748900)
 
 Borçlar Kanunu’nun 20. maddesi (TBK m. 27) anlamında başlangıçtaki imkânsızlık objektif niteliktedir. Objektif imkânsızlık; sözleşmenin borçlusunun yanında diğer herkes bakımından geçerli olacak şekilde ifasının mümkün olmamasını ifade etmektedir. Objektif imkânsızlıktan farklı olarak subjektif imkânsızlık ise; sözleşmenin sadece borçlusu tarafından ifasının mümkün olmaması şeklinde tanımlanabilir (Uygur, T.; Türk Borçlar Kanunu Şerhi, Cilt 1, Seçkin Yayınları, 2012, s. 322, Eren, s. 295, 296, Kılıçoğlu, s. 98). Bu bağlamda hiç kimse tarafından ifası mümkün olmayan bir sözleşme kanunen geçersiz olup sadece borçlu bakımından ifası mümkün olmayan bir sözleşme aynı hükümler kapsamında geçersiz olarak nitelendirilemez. Eş söyleyişle, BK’nın 20. maddesi (TBK m. 27) anlamında imkânsızlıktan bahsedebilmek için, imkânsızlığın sözleşmenin konusu ile ilgili olması ve bu imkânsızlığın yalnız borçlu bakımından değil, objektif mahiyette ve herkes için geçerli olması gerekmektedir.
 
 ## Yargıtay HGK 2020/964 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/638586400)
+
 Taşınmazın henüz bölünmemiş bir parçasının satışı vaad ediliyorsa, sözleşme İmar Kanunu gereğince ilgili kurumlardan onayın alınması şartına bağlı olarak yapılmış sayılmalı, ayrıca açıklık olmadıkça satıcının her şeye rağmen imkânsızlığı yenmeyi taahhüt ettiği kabul edilmelidir. Bu hâlde de, imkânsız edimi ifa edemeyen satıcı, vaad alacaklısına BK'nın 96. maddesi gereğince tazminatla yükümlü olmalıdır (Kocayusufpaşaoğlu, s. 79). BK'nın 96. maddesi gereğince ödenmesi gereken tazminat ise alacaklının müspet zararıdır. Müspet zarardan da, borçlu edayı gereği gibi ve vaktinde yerine getirseydi alacaklının mameleki ne vaziyette bulunacak idi ise, bu vaziyetle mamelekin hâli hazır vaziyeti arasındaki fark anlaşılmalıdır.
 
 ## Yargıtay HGK 2019/657 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/520447100)
 
 İlliyet bağı; mücbir sebep, zarar görenin kendi kusuru veya üçüncü kişinin kusuru nedeniyle kesilebilir. BK’nın 58. maddesi kapsamında sorumluluğun doğabilmesi için illiyet bağının kesilmemiş olması gerekir. Doktrindeki kabul edilen görüşe göre illiyet bağının kesilmesi olasılığı dar yorumlanmalıdır. Her üç neden açısından da, illiyet bağının kesildiği iddiası, sorumlu kişiler tarafından açıkça ispatlanmadıkça kabul edilmemelidir. Bu bakımdan sorumluluktan kurtulmak oldukça zorlaştırılmıştır (Erten, s.230; Baş, s.113; Deschenaux Henri, Tercier Pierre, Sorumluluk Hukuku, Çeviren Salim Özdemir, Ankara 1983, s.37).
 
 ## Yargıtay HGK 2018/414 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/404014400)
+
 Borçlar hukuku anlamında sözleşmeye aykırılık, borçlunun sorumlu olduğu ifa imkânsızlığı ile borcun hiç veya gereği gibi ifa edilmemesi (kötü ifa, geç ifa, eksik ifa, aliud vb.) kavramlarını içine almaktadır ve 29.05.2014 tarihinde yürürlüğe giren 6502 sayılı Tüketicinin Korunması Hakkında Kanun’un 8’inci maddesinin birinci fıkrasında 6098 sayılı Türk Borçlar Kanunu’nun (TBK) 123-126’ncı maddeleri hükümleri ile iç içe geçer şekilde, ayıplı mal sözleşmeye aykırı mal olarak nitelendirilmiştir.
 
 ## Yargıtay HGK 2018/413 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/404016600)
 
 Borçlar hukuku anlamında sözleşmeye aykırılık, borçlunun sorumlu olduğu ifa imkânsızlığı ile borcun hiç veya gereği gibi ifa edilmemesi (kötü ifa, geç ifa, eksik ifa, aliud vb.) kavramlarını içine almaktadır ve 29.05.2014 tarihinde yürürlüğe giren 6502 sayılı Tüketicinin Korunması Hakkında Kanun’un 8’inci maddesinin birinci fıkrasında 6098 sayılı Türk Borçlar Kanunu’nun (TBK) 123-126’ncı maddeleri hükümleri ile iç içe geçer şekilde, ayıplı mal sözleşmeye aykırı mal olarak nitelendirilmiştir.
 
 ## Yargıtay HGK 2018/412 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/404014000)
+
 Borçlar hukuku anlamında sözleşmeye aykırılık, borçlunun sorumlu olduğu ifa imkânsızlığı ile borcun hiç veya gereği gibi ifa edilmemesi (kötü ifa, geç ifa, eksik ifa, aliud vb.) kavramlarını içine almaktadır ve 29.05.2014 tarihinde yürürlüğe giren 6502 sayılı Tüketicinin Korunması Hakkında Kanun’un 8’inci maddesinin birinci fıkrasında 6098 sayılı Türk Borçlar Kanunu’nun (TBK) 123-126’ncı maddeleri hükümleri ile iç içe geçer şekilde, ayıplı mal sözleşmeye aykırı mal olarak nitelendirilmiştir.
 
 ## Yargıtay HGK 2018/411 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/404013500)
 
 Borçlar hukuku anlamında sözleşmeye aykırılık, borçlunun sorumlu olduğu ifa imkânsızlığı ile borcun hiç veya gereği gibi ifa edilmemesi (kötü ifa, geç ifa, eksik ifa, aliud vb.) kavramlarını içine almaktadır ve 29.05.2014 tarihinde yürürlüğe giren 6502 sayılı Tüketicinin Korunması Hakkında Kanun’un 8’inci maddesinin birinci fıkrasında 6098 sayılı Türk Borçlar Kanunu’nun (TBK) 123-126’ncı maddeleri hükümleri ile iç içe geçer şekilde, ayıplı mal sözleşmeye aykırı mal olarak nitelendirilmiştir.
 
 ## Yargıtay HGK 2018/410 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/404012400)
+
 Borçlar hukuku anlamında sözleşmeye aykırılık, borçlunun sorumlu olduğu ifa imkânsızlığı ile borcun hiç veya gereği gibi ifa edilmemesi (kötü ifa, geç ifa, eksik ifa, aliud vb.) kavramlarını içine almaktadır ve 29.05.2014 tarihinde yürürlüğe giren 6502 sayılı Tüketicinin Korunması Hakkında Kanun’un 8’inci maddesinin birinci fıkrasında 6098 sayılı Türk Borçlar Kanunu’nun (TBK) 123-126’ncı maddeleri hükümleri ile iç içe geçer şekilde, ayıplı mal sözleşmeye aykırı mal olarak nitelendirilmiştir.
 
 ## Yargıtay HGK 2018/409 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/403981000)
 
 Borçlar hukuku anlamında sözleşmeye aykırılık, borçlunun sorumlu olduğu ifa imkânsızlığı ile borcun hiç veya gereği gibi ifa edilmemesi (kötü ifa, geç ifa, eksik ifa, aliud vb.) kavramlarını içine almaktadır ve 29.05.2014 tarihinde yürürlüğe giren 6502 sayılı Tüketicinin Korunması Hakkında Kanun’un 8’inci maddesinin birinci fıkrasında 6098 sayılı Türk Borçlar Kanunu’nun (TBK) 123-126’ncı maddeleri hükümleri ile iç içe geçer şekilde, ayıplı mal sözleşmeye aykırı mal olarak nitelendirilmiştir.
 
 ## Yargıtay HGK 2016/163 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/185653500)
+
 İlliyet bağı; mücbir sebep, zarar görenin kendi kusuru veya üçüncü kişinin kusuru nedeniyle kesilebilir. Mülga BK’nun 58. maddesi kapsamında sorumluluğun doğabilmesi için illiyet bağının kesilmemiş olması gerekir. Doktrindeki kabul edilen görüşe göre illiyet bağının kesilmesi olasılığı dar yorumlanmalıdır. Her üç neden açısından da, illiyet bağının kesildiği iddiası, sorumlu kişiler tarafından açıkça ispatlanmadıkça kabul edilmemelidir. Bu bakımdan sorumluluktan kurtulmak oldukça zorlaştırılmıştır (Erten Ali, Türk Borçlar Hukukuna Göre Bina ve İnşa Eseri Sahiplerinin Sorumluluğu, BK.58, Ankara 2000, s.230; Baş Ece, 6098 sayılı Türk Borçlar Kanunu Açısından Bina ve Yapı Eserlerinden Doğan Sorumluluk, XII Levha Yayınları, s.113; Deschenaux Henri, Tercier Pierre, Sorumluluk Hukuku, Çeviren Salim Özdemir, Ankara 1983, s.37).
 
 ## Yargıtay HGK 2015/1768 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/112831600)
 
 İlliyet bağı; mücbir sebep, zarar görenin kendi kusuru veya üçüncü kişinin kusuru nedeniyle kesilebilir. Mülga BK m.58 kapsamında sorumluluğun doğabilmesi için illiyet bağının kesilmemiş olması gerekir. Doktrindeki kabul edilen görüşe göre illiyet bağının kesilmesi olasılığı dar yorumlanmalıdır. Her üç neden açısından da, illiyet bağının kesildiği iddiası, sorumlu kişiler tarafından açıkça ispatlanmadıkça kabul edilmemelidir. Bu bakımdan sorumluluktan kurtulmak oldukça zorlaştırılmıştır (ERTEN Ali, Türk Borçlar Hukukuna Göre Bina ve İnşa Eseri Sahiplerinin Sorumluluğu, BK.58, Ankara 2000, s.230; BAŞ Ece, 6098 sayılı Türk Borçlar Kanunu Açısından Bina ve Yapı Eserlerinden Doğan Sorumluluk, XII Levha Yayınları, s.113; DESCHENAUX Henri, TERCİER Pierre, Sorumluluk Hukuku, Çeviren Salim Özdemir, Ankara 1983, s.37)…
 
 ## Yargıtay HGK 2015/1767 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/112825800)
+
 İlliyet bağı; mücbir sebep, zarar görenin kendi kusuru veya üçüncü kişinin kusuru nedeniyle kesilebilir. Mülga BK m.58 kapsamında sorumluluğun doğabilmesi için illiyet bağının kesilmemiş olması gerekir. Doktrindeki kabul edilen görüşe göre illiyet bağının kesilmesi olasılığı dar yorumlanmalıdır. Her üç neden açısından da, illiyet bağının kesildiği iddiası, sorumlu kişiler tarafından açıkça ispatlanmadıkça kabul edilmemelidir. Bu bakımdan sorumluluktan kurtulmak oldukça zorlaştırılmıştır (ERTEN Ali, Türk Borçlar Hukukuna Göre Bina ve İnşa Eseri Sahiplerinin Sorumluluğu, BK.58, Ankara 2000, s.230; BAŞ Ece, 6098 sayılı Türk Borçlar Kanunu Açısından Bina ve Yapı Eserlerinden Doğan Sorumluluk, XII Levha Yayınları, s.113; DESCHENAUX Henri, TERCİER Pierre, Sorumluluk Hukuku, Çeviren Salim Özdemir, Ankara 1983, s.37)…
 
 ## Yargıtay HGK 2014/680 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/84020800)
 
 İlliyet bağı; mücbir sebep, zarar görenin kendi kusuru veya üçüncü kişinin kusuru nedeniyle kesilebilir. Mülga BK m.58 kapsamında sorumluluğun doğabilmesi için illiyet bağının kesilmemiş olması gerekir. Doktrindeki kabul edilen görüşe göre illiyet bağının kesilmesi olasılığı dar yorumlanmalıdır. Her üç neden açısından da, illiyet bağının kesildiği iddiası, sorumlu kişiler tarafından açıkça ispatlanmadıkça kabul edilmemelidir. Bu bakımdan sorumluluktan kurtulmak oldukça zorlaştırılmıştır. (Erten Ali, Türk Borçlar Hukukuna Göre Bina ve İnşa Eseri Sahiplerinin Sorumluluğu, BK.58, Ankara 2000, s.230; Baş Ece, 6098 sayılı Türk Borçlar Kanunu Açısından Bina ve Yapı Eserlerinden Doğan Sorumluluk, XII Levha Yayınları, s.113; Deschenaux Henri, Tercier Pierre, Sorumluluk Hukuku, Çeviren Salim Özdemir, Ankara 1983, s.37)…
 
 ## Yargıtay HGK 2011/571 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/77254100)
+
 Kural olarak, başkasına ait tapuda kayıtlı taşınmazların noter tarafından düzenlenen satış vaadi sözleşmesi ile satışı, kişisel borç doğuran bir sözleşme olması nedeniyle geçerlidir. Bir başka deyimle, borç doğuran bir sözleşmenin geçerliliği, hiç bir zaman satıcının satış tarihinde veya daha sonra o şeye malik olması şartına bağlı değildir. Vaatte bulunanın, satış vaadinin konusunu oluşturan taşınmaz üzerinde tasarruf yetkisinin varlığını aramak da gerekmez(Karahasan, Mustafa Reşit, Türk Borçlar Hukuku, Özel Borç İlişkileri, C.4, s.308). Maliki olmadığı bir taşınmazı satmış bulunan kişi aleyhine açılacak (ifa ve mülkiyetin alıcıya geçirilmesi) davasının redde müncer olması, böyle bir satışın BK.’nun 20.maddesinde öngörülen afakî imkânsızlık (objektif imkânsızlık) nedeniyle geçersiz sayılmasını gerektirmez.
 Çünkü, böyle bir sözleşme, “borç doğuran” bir sözleşme olarak geçerlidir ve sonuçta sübjektif imkânsızlık nedeniyle tasarrufi işlemin, yani ifanın yerine getirilememesi sonunda meydana gelen zararın tazmini, BK.’nun 96. maddesi gereğince satıcıdan istenebileceği gibi, eğer bir ceza şartı kararlaştırılmış ise bunun da ödetilmesi yine BK.’nun 158. maddesi uyarınca alıcı tarafından istenebilir (Yargıtay HGK.'nun, 22.12.1982 T., 13-1905 E., 966 K. sayılı ilamı).
 
 ## Yargıtay HGK 2010/427 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/76902400)
 
 Tüm açıklamaların ışığında özetle belirtilecek olursa, kural olarak başkasının zilyetliğindeki tapuda kayıtlı olmayan taşınmazların satışı ve başkasına ait tapuda kayıtlı taşınmazların noter tarafından düzenlenen satış vaadi sözleşmesi ile satışı, kişisel borç doğuran bir sözleşme olması nedeniyle geçerlidir. Bir başka deyimle, borç doğuran bir sözleşmenin geçerliliği, hiç bir zaman satıcının satış tarihinde veya daha sonra o şeye malik olması şartına bağlı değildir. Vaatte bulunanın, satış vaadinin konusunu oluşturan taşınmaz üzerinde tasarruf yetkisinin varlığını aramak da gerekmez(Karahasan, Mustafa Reşit, Türk Borçlar Hukuku, Özel Borç İlişkileri, C.4, s.308). Maliki olmadığı bir taşınmazı satmış bulunan kişi aleyhine açılacak (ifa ve mülkiyetin alıcıya geçirilmesi) davasının redde müncer olması, böyle bir satışın BK.’nun 20.maddesinde öngörülen afakî imkânsızlık (objektif imkânsızlık) nedeniyle geçersiz sayılmasını gerektirmez.
 Çünkü, böyle bir sözleşme, (borç doğuran) bir sözleşme olarak geçerlidir ve sonuçta sübjektif imkânsızlık nedeniyle tasarrufi işlemin, yani ifanın yerine getirilememesi sonunda meydana gelen zararın tazmini, BK.’nun 96. maddesi gereğince satıcıdan istenebileceği gibi, eğer bir ceza şartı kararlaştırılmış ise bunun da ödetilmesi yine BK.’nun 158. maddesi uyarınca alıcı tarafından istenebilir (Yargıtay HGK.'nun, 22.12.1982 T., 13-1905 E., 966 K. sayılı ilamı).
@@ -94,74 +126,108 @@ Sözleşme kurulurken mevcut olan imkânsızlığın, geçici imkânsızlık nit
 
 ## Yargıtay 6. HD 2025/693 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1140997600)
+
 Covid salgın hastalığının davacının edimini yerine getirmesine engel teşkil eden mücbir sebep olduğunu, İhale Sözleşmesi'nin 17.1.1. maddesinde salgın hastalığın mücbir sebep olarak yer aldığını, TBK'nın 136, 137. ve 138'inci maddeleri kapsamında yapılan değerlendirmeden sonra 138. madde esas alınarak önce uyarlama talep edilmesi gerektiğinin belirtilmesinin dosya içeriğine aykırı olduğunu, sözleşmenin feshinde yalnızca Covid'in maddi koşullarının gerekçe gösterilmediğini, ilk olarak sağlık ve hijyen hususlarının, devamında sayıda olan azalma ve personel ölümlerinin, hastalığın yayılmaması için alınan önlemlerin de mücbir sebeple feshe gerekçe gösterildiğini, ayrıca Bölge Adliye Mahkemesince davalı lehine hükmedilen vekalet ücretinin de hatalı olduğunu beyan emektedir.
 
 ## Yargıtay 6. HD 2024/3484 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1109180700)
 
 Bunun dışında, sözleşmeden sonra borçlunun kusuru ile ifa imkânsızlığı da söz konusu olabilir. Bu halde ifa mümkün olmakla birlikte borçlunun kusuru ile imkânsız hale geldiğinden TBK'nın 136/1. maddesine göre borç sona ermeyecek, ifası imkânsız hale gelen borcun yerini, tazmin sorumluluğu olacaktır. Bu hal TBK'nın 119/1. maddesinde temerrüde düşen borçlunun beklenmedik hâl sebebiyle doğacak zarardan sorumlu olduğu şeklinde düzenlenmiş, aynı maddenin ikinci fıkrasında borçluya temerrüde düşmede kusuru olmadığını veya borcunu zamanında ifa etmiş olsaydı bile beklenmedik halin, ifa konusu şeye zarar vereceğini ispat ederek bu sorumluluktan kurtulabileceğini belirtmek suretiyle kurtuluş imkânı getirilmiştir. Ancak bunun için borçlunun temerrüde düşmekte kusursuz olması gerekir. Aksi durumda yani sonradan ortaya çıkan ifa imkânsızlığında, borçlu kusursuz olsa dahi, temerrüde düşmede kusurlu ise beklenmedik hal sebebiyle doğacak zarardan sorumlu olacaktır. Burada talep edilebilecek zarar olumlu zarardır.
 
 ## Yargıtay 3. HD 2022/5665 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/793530900)
+
 6098 sayılı Türk Borçlar Kanununun 136. maddesinde; " Borcun ifası borçlunun sorumlu tutulamayacağı sebeplerle imkânsızlaşırsa, borç sona erer. Karşılıklı borç yükleyen sözleşmelerde imkânsızlık sebebiyle borçtan kurtulan borçlu, karşı taraftan almış olduğu edimi sebepsiz zenginleşme hükümleri uyarınca geri vermekle yükümlü olup, henüz kendisine ifa edilmemiş olan edimi isteme hakkını kaybeder. Kanun veya sözleşmeyle borcun ifasından önce doğan hasarın alacaklıya yükletilmiş olduğu durumlar, bu hükmün dışındadır. Borçlu ifanın imkânsızlaştığını alacaklıya gecikmeksizin bildirmez ve zararın artmaması için gerekli önlemleri almazsa, bundan doğan zararları gidermekle yükümlüdür." düzenlenmiş, Kanunun 137 nci maddesinde; “Borcun ifası borçlunun sorumlu tutulamayacağı sebeplerle kısmen imkânsızlaşırsa borçlu, borcunun sadece imkânsızlaşan kısmından kurtulur. Ancak, bu kısmi ifa imkânsızlığı önceden öngörülseydi taraflarca böyle bir sözleşmenin yapılmayacağı açıkça anlaşılırsa, borcun tamamı sona erer. Karşılıklı borç yükleyen sözleşmelerde, bir tarafın borcu kısmen imkânsızlaşır ve alacaklı kısmi ifaya razı olursa, karşı edim de o oranda ifa edilir.
 Alacaklının böyle bir ifaya razı olmaması veya karşı edimin bölünemeyen nitelikte olması durumunda, tam imkânsızlık hükümleri uygulanır.”denilmiş, Kanunun 138 inci maddesinde; “Sözleşmenin yapıldığı sırada taraflarca öngörülmeyen ve öngörülmesi de beklenmeyen olağanüstü bir durum, borçludan kaynaklanmayan bir sebeple ortaya çıkar ve sözleşmenin yapıldığı sırada mevcut olguları, kendisinden ifanın istenmesini dürüstlük kurallarına aykırı düşecek derecede borçlu aleyhine değiştirir ve borçlu da borcunu henüz ifa etmemiş veya ifanın aşırı ölçüde güçleşmesinden doğan haklarını saklı tutarak ifa etmiş olursa borçlu, hâkimden sözleşmenin yeni koşullara uyarlanmasını isteme, bu mümkün olmadığı takdirde sözleşmeden dönme hakkına sahiptir. Sürekli edimli sözleşmelerde borçlu, kural olarak dönme hakkının yerine fesih hakkını kullanır.” hükmü düzenlenmiştir.
 
 ## Yargıtay 3. HD 2022/5665 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/793530900)
 
 6098 sayılı Türk Borçlar Kanununun 136. maddesinde; " Borcun ifası borçlunun sorumlu tutulamayacağı sebeplerle imkânsızlaşırsa, borç sona erer. Karşılıklı borç yükleyen sözleşmelerde imkânsızlık sebebiyle borçtan kurtulan borçlu, karşı taraftan almış olduğu edimi sebepsiz zenginleşme hükümleri uyarınca geri vermekle yükümlü olup, henüz kendisine ifa edilmemiş olan edimi isteme hakkını kaybeder. Kanun veya sözleşmeyle borcun ifasından önce doğan hasarın alacaklıya yükletilmiş olduğu durumlar, bu hükmün dışındadır. Borçlu ifanın imkânsızlaştığını alacaklıya gecikmeksizin bildirmez ve zararın artmaması için gerekli önlemleri almazsa, bundan doğan zararları gidermekle yükümlüdür." düzenlenmiş, Kanunun 137 nci maddesinde; “Borcun ifası borçlunun sorumlu tutulamayacağı sebeplerle kısmen imkânsızlaşırsa borçlu, borcunun sadece imkânsızlaşan kısmından kurtulur. Ancak, bu kısmi ifa imkânsızlığı önceden öngörülseydi taraflarca böyle bir sözleşmenin yapılmayacağı açıkça anlaşılırsa, borcun tamamı sona erer. Karşılıklı borç yükleyen sözleşmelerde, bir tarafın borcu kısmen imkânsızlaşır ve alacaklı kısmi ifaya razı olursa, karşı edim de o oranda ifa edilir.
 Alacaklının böyle bir ifaya razı olmaması veya karşı edimin bölünemeyen nitelikte olması durumunda, tam imkânsızlık hükümleri uygulanır.”denilmiş, Kanunun 138 inci maddesinde; “Sözleşmenin yapıldığı sırada taraflarca öngörülmeyen ve öngörülmesi de beklenmeyen olağanüstü bir durum, borçludan kaynaklanmayan bir sebeple ortaya çıkar ve sözleşmenin yapıldığı sırada mevcut olguları, kendisinden ifanın istenmesini dürüstlük kurallarına aykırı düşecek derecede borçlu aleyhine değiştirir ve borçlu da borcunu henüz ifa etmemiş veya ifanın aşırı ölçüde güçleşmesinden doğan haklarını saklı tutarak ifa etmiş olursa borçlu, hâkimden sözleşmenin yeni koşullara uyarlanmasını isteme, bu mümkün olmadığı takdirde sözleşmeden dönme hakkına sahiptir. Sürekli edimli sözleşmelerde borçlu, kural olarak dönme hakkının yerine fesih hakkını kullanır.” hükmü düzenlenmiştir.
 
 ## Yargıtay 3. HD 2021/10356 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/704399000)
+
 Maliki olmadığı bir taşınmazı satmış bulunan kişi aleyhine açılacak (ifa ve mülkiyetin alıcıya geçirilmesi) davasının redde müncer olması, böyle bir satışın Borçlar Kanunu'nun 20. maddesinde öngörülen afakî imkânsızlık (objektif imkânsızlık) nedeniyle geçersiz sayılmasını gerektirmez. Çünkü, böyle bir sözleşme, “borç doğuran” bir sözleşme olarak geçerlidir ve sonuçta sübjektif imkânsızlık nedeniyle tasarrufi işlemin, yani ifanın yerine getirilememesi sonunda meydana gelen zararın tazmini, Borçlar Kanunu'nun 96. maddesi gereğince satıcıdan istenebileceği gibi, eğer bir ceza şartı kararlaştırılmış ise bunun da ödetilmesi yine Borçlar Kanununun 158. maddesi uyarınca alıcı tarafından istenebilir.
 
 ## Yargıtay 15. HD 2020/1099 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/585835100)
 
 İfa imkansızlığı kurumu yukarıda belirtildiği üzere TBK'nın 136. maddesinde düzenlenmiş olup, borcun ifasının borçlunun sorumlu tutulamayacağı sebeplerle imkânsız olmasını ifade etmektedir. Diğer bir deyişle; ifanın imkânsız hale gelmesi, borçlunun edimini yerine getirmesine engel olan, giderilmesi imkânı bulunmayan bir engelin ortaya çıkması haliolarak ele alınmaktadır. Bu imkânsızlık geçici olabileceği gibi sürekli ve kesin de olabilmektedir. İmkânsızlık halinin, maddi, hukuki yada ekonomik sebeplerden doğması mümkündür. Bu imkansızlık haline doktrinde “kusursuz sonraki imkânsızlık” da denilmektedir. Aslında bu hükmün kaynağı Türk Medeni Kanunu'nun 2. maddesinde düzenlenen dürüstlük kuralı ve 4. maddesinde düzenlenen hakimin hukuka ve hakkaniyete göre karar verme ilkesine dayanmaktadır.
 
 ## Yargıtay 15. HD 2019/2993 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/514921900)
+
 İfa imkânsızlığı 6098 sayılı TBK'nın 136 ve devamı maddelerinde düzenlenmiş olup 136. maddede, borcun ifası borçlunun sorumlu tutulamayacağı sebeplerle imkânsızlaşırsa borcun sona ereceği, tarafların verdiklerini geri isteyecekleri, 137. maddesinde kısmi imkânsızlık halinde borçlunun sadece imkânsızlık olan kısımdaki borçtan kurtulacağı, 138. maddesinde de aşırı ifa güçlüğü sebebiyle borcun ifasının imkânsız hale geleceği ve buna göre borçlunun sözleşmenin yeni koşullara uyarlanmasını isteme, mümkün olmadığı taktirde sözleşmeden dönme hakkına sahip olduğu belirtilmiştir. Mahkeme kararının gerekçesinde, davacı yüklenicinin arsanın boş olarak teslim edilmemesi, etüt projelerinin gerekçesiz olarak reddedilmiş olması ve dava konusu binayı teslim etmeye yanaşmamış olması sebepleriyle akdin ifasının imkânsız hale geldiği iddiaları yerinde görülmemiş, davacı tarafça mahkemenin bu gerekçesine karşı temyiz isteminde bulunulmamıştır.
 
 ## Yargıtay 15. HD 2018/2740 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/429881900)
 
 Sözleşme kurulurken mevcut olan imkânsızlığın, geçici imkânsızlık niteliğinde olması yani imkânsızlığın ortadan kalkabilecek nitelikte olması halinde, tarafların bu sözleşmeyle ne kadar süre bağlı kalacakları sorunu ortaya çıkar. Bu konudaki kural "ahde vefa, söze sadakat" ilkesi gereği tarafların sözleşmeyle bağlı tutulmasıdır. Ancak bazı özel durumlar vardır ki, tarafları o sözleşmeyle bağlı saymak hem onların ekonomik özgürlüklerini engeller, hem de bir başkası ile sözleşme yapma fırsatını ortadan kaldırır. Uygulamada, geçici imkânsızlık halinde tarafların o sözleşmeyle bağlı tutulma süresine "akde tahammül süresi" denilmektedir. Bu sürenin gerçekleşip gerçekleşmediğini de her somut olaya göre ve onun çerçevesinde değerlendirmek gerekir (Yargıtay Hukuk Genel Kurulu'nun 28.04.2010 gün ve 2010/15-193- 235 sayılı ilâmı).
 
 ## Yargıtay 15. HD 2018/2683 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/429437800)
+
 818 sayılı Borçlar Kanunu'nun 20/I. maddesine göre: "Bir akdin mevzuu gayrı mümkün veya gayri muhik yahut ahlaka mugayir olursa o akit batıldır." Aynı şekilde, BK'nın 96. maddesi, "Alacaklı hakkını kısmen veya tamamen istifa edemediği takdirde borçlu kendisine hiçbir kusurun isnat edilemeyeceğini ispat edemedikçe bundan mütevellit zararı tazmine mecburdur." hükmünü taşımaktadır. Keza, BK'nın 117.maddesi "Borçluya isnat olunamayan haller münasebetiyle borcun ifası mümkün olmazsa, borç sakıt olur.", demek suretiyle, imkânsızlık kavramını düzenlemiştir. BK'nın 117. maddesine göre, edimin yerine getirilmesi sözleşme yapıldıktan sonra imkânsız olursa ve bu imkânsızlıkta borçlunun kusuru bulunmazsa, borçlu borcundan kurtulur. Burada sözleşme, başlangıçtaki imkânsızlık gibi butlan yaptırımına tabi olmamakla birlikte, borçlu borcundan kurtulmaktadır.
 
 ## Yargıtay 11. HD 2014/16890 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/101961200)
 
 Karar tarihi itibariyle yürürlükte bulunan 818 Sayılı Borçlar Kanunu'nun 58. maddesi hükmü uyarınca, bir bina veya imal olunan herhangi bir şeyin maliki, o şeyin fena yapılmasından yahut muhafazasındaki kusurdan sorumludur. Başka bir deyişle, bina malikinin sorumluluğu “kusursuz” sorumluluk olup, binanın neden olduğu tüm zararları, (sebep-sonuç ilişkisini kesen “zarar görenin ağır kusuru”, “3. şahsın ağır kusuru” veya “mücbir sebep” dışındaki) karşılamakla yükümlüdür. Yani, bina sahibi, ancak, mücbir sebep, zarar görenin veya üçüncü kişinin kusuru nedeniyle illiyet bağının kesildiğini kanıtlar ise sorumluluktan kurtulabilecektir.
 
 ## Yargıtay 23. HD 2014/7573 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/119146800)
+
 Vadesinde yerine getirilmeyen edimler için ifa mümkün ise temerrüt hükümleri uygulanacak, ifanın mümkün olmaması halinde imkânsızlık hükümleri devreye girecektir. Davalı temerrüdünden önce borcun ifa edilmesine yasal olanak yok ise, objektif imkânsızlık sözkonusu olacağından davalı sorumlu tutulamaz. (BK.m. 117). Ancak yasal engel bulunmadığı halde borç ifa edilmemişse veya temerrüde düştükten sonra yasal engel gerçekleşmiş ise, kusurlu imkânsızlık sözkonusu olacağından, davalı sorumludur. (BK.m.96). Diğer anlatımla, borcun ifası başta ya da temerrütten önce imkânsız değilse, ifa edilmemesi durumunda borçlu kusursuzluğunu kanıtlayamaması halinde BK'nın 96. maddesine göre alacaklının uğramış olduğu zararları tazmin etmekle yükümlüdür; yani borcun ifası temerrütten sonra imkânsız ise kusurlu imkânsızlık nedeniyle anılan 96. madde hükmü uyarınca sorumlu olacak, temerrütten önce imkansız ve bunda bir kusuru yok ise BK'nın 117. maddesine göre borcundan kurtulacaktır.
 
 ## Yargıtay 3. HD 2013/12801 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/77729600)
+
 Maliki olmadığı bir taşınmazı satmış bulunan kişi aleyhine açılacak (ifa ve mülkiyetin alıcıya geçirilmesi) davasının redde müncer olması, böyle bir satışın BK.'nın 20. maddesinde öngörülen afakî imkânsızlık (objektif imkânsızlık) nedeniyle geçersiz sayılmasını gerektirmez. Çünkü, böyle bir sözleşme, "borç doğuran" bir sözleşme olarak geçerlidir ve sonuçta sübjektif imkânsızlık nedeniyle tasarrufi işlemin, yani ifanın yerine getirilememesi sonunda meydana gelen zararın tazmini, BK/nın 96. maddesi gereğince satıcıdan istenebileceği gibi, eğer bir ceza şartı kararlaştırılmış ise bunun da ödetilmesi yine BK.'nın 158. maddesi uyarınca alıcı tarafından istenebilir (Yargıtay HGK.'nın, 22.12.1982 T., 13-1905 E., 966 K. sayılı ilamı).
 
 ## Yargıtay 3. HD 2013/1562 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/254903500)
 
 Tüm açıklamaların ışığında özetle belirtilecek olursa, kural olarak başkasının zilyetliğindeki tapuda kayıtlı olmayan taşınmazların satışı ve başkasına ait tapuda kayıtlı taşınmazların noter tarafından düzenlenen satış vaadi sözleşmesi ile satışı, kişisel borç doğuran bir sözleşme olması nedeniyle geçerlidir. Bir başka deyimle, borç doğuran bir sözleşmenin geçerliliği, hiç bir zaman satıcının satış tarihinde veya daha sonra o şeye malik olması şartına bağlı değildir. Vaatte bulunanın, satış vaadinin konusunu oluşturan taşınmaz üzerinde tasarruf yetkisinin varlığını aramak da gerekmez(Karahasan, Mustafa Reşit, Türk Borçlar Hukuku, Özel Borç İlişkileri, C.4, s.308). Maliki olmadığı bir taşınmazı satmış bulunan kişi aleyhine açılacak (ifa ve mülkiyetin alıcıya geçirilmesi) davasının redde müncer olması, böyle bir satışın BK.’nun 20.maddesinde öngörülen afakî imkânsızlık (objektif imkânsızlık) nedeniyle geçersiz sayılmasını gerektirmez.
 Çünkü, böyle bir sözleşme, (borç doğuran) bir sözleşme olarak geçerlidir ve sonuçta sübjektif imkânsızlık nedeniyle tasarrufi işlemin, yani ifanın yerine getirilememesi sonunda meydana gelen zararın tazmini, BK.’nun 96. maddesi gereğince satıcıdan istenebileceği gibi, eğer bir ceza şartı kararlaştırılmış ise bunun da ödetilmesi yine BK.’nun 158. maddesi uyarınca alıcı tarafından istenebilir (Yargıtay HGK.'nun, 22.12.1982 T., 13-1905 E., 966 K. sayılı ilamı).
 
 ## Yargıtay 13. HD 2010/1706 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/775064000)
+
 Hemen belirtmek gerekir ki, mücbir sebep, sözleşmenin yapıldığı sırada öngörülmesi olanağı bulunmayan umulmadık halin yoğunluk gösteren bir şekli olup, yükümlenilen bir borcun yerine getirilmesini engelleyen bir nedendir. Piyasada bir mala olan talebin artması veya azalması veya buna bağlı olarak bir mal fiyatının azalması veya artması mücbir sebep değildir. Bunlar ancak, karşılıklı edimler yükleyen bir sözleşme sözkonusu ise, tarafların borçlarını ağırlaştıran bir sebeptir. Bu sözleşmenin uygulanması sırasında ve ticari yaşamda kazanç sağlama amacı gerçekleşebildiği kadar gerçekleşmeyebilirde. Hukukumuzda temel prensip sözleşmeye bağlılıktır. Somut olayda, 2006 yılında başgösteren kuş gribi vakıası tavuk ve buna bağlı yan ürünlerin satışında bir düşüklüğe yol açtığı bilinen bir gerçektir. Ne var ki, sonucu itibariyle yumurta piyasası olumsuz etkilendjği ve yumurta fiyatlarının oldukça düştüğü dosya kapsamından anlaşılmakta ise de, davalının hafta da belli sayıda yumurta alma koşulu yanında sabit fiyat garantisi de verilmemiştir. O halde B.K.nun 117.maddesi anlamında bi ifa engeli değil ifa güçlüğü sözkonusudur.
 Basiretli bir tacir olan davalının sözleşme hükümleri ile bağlı olduğunun kabulü zorunludur.
 
 ## Yargıtay 15. HD 2007/5035 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/16615100)
+
 Bu hükümler ile taraflar yargı kararları ile oluşan imkansızlığı mücbir sebep olarak kabul ettiklerinden ifanın imkansız hale gelmesinin mücbir sebepten kaynaklandığının kabulü gerekir. İfa imkansızlığı tarafların kusurundan değil mücbir sebepten kaynaklandığından ve bu halde BK.nun 117 ve sözleşmenin 23.2 maddeleri uyarınca kâr mahrumiyeti talep edilemeyeceğinden davacının bu kalem isteminin reddi yerine kabulü doğru olmamıştır.
 
 ## Yargıtay 14. HD 2006/12267 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/856638100)
 
 Görülüyor ki; sözleşmenin yasal çerçevede icrası her iki taraf bakımında da olanaksızdır. Yasadaki değimiyle söz etmek gerekirse, kira sözleşmesi konusunun imkânsız olduğu açığa çıkmıştır. Borçlar Kanununun 117.maddesi hükmüne göre «borçluya isnat olunmayan haller münasabeti nedeniyle borcun ifası mümkün olmazsa borç sakıt olur. Doktirin ve Yargıtay uygulamasında imkânsızlık ortaya çıkış nedenine göre bazı ayrımlara tabi tutulmaktadır. Eğer sözleşmenin icrasındaki ifa imkânsızlığı sadece sözleşmenin tarafları bakımından değil, aynı sözleşmeyi yapacak herkes için söz konusu ise, buna «objektif imkânsızlık», yalnız sözleşmenin taraflarından birinin tutumundan doğmuşsa buna da «sübjektif imkânsızlık» denilmektedir. İmkânsızlık sözleşmeden sonra ve tarafların birinin kusurundan kaynaklanmışsa buna «kusurlu imkânsızlık» ve fakat tarafların kusuru olmadan meydana gelmişse «kusursuz imkânsızlık» denir. İmkânsızlığın meydana gelmesinde kuşkusuz borçlunun kusuru varsa ve borç (somut olayda davacının tazminat istemi) bu kusurdan ötürü ortaya çıkmışsa bunun sonuçlarından borçlu genel bir hüküm olan Borçlar Kanunun 96. maddesince sorumludur.
 Alacaklı yasanın bu hükmüne dayanarak zararlarının giderilmesini isteyebilir.
 
 ## Yargıtay 15. HD 2006/5139 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/859953800)
 
 Taraflar arasında düzenlenen 13.08.1999 tarihli sözleşmeye konu edimin ifasının sözleşmenin düzenlenmesi tarihinde mümkün iken 17.08.1999 günü meydana gelen deprem sonucunda imkansız hale geldiği anlaşılmaktadır. Davacının üstlendiği binanın yıkılıp yeniden yapılması işi 13.08.1999 tarihli sözleşmede kararlaştırılan iş (edim) olmayıp yeni bir iştir (edimdir.). Bu nedenle anılan sözleşmenin konusunu oluşturan edim imkânsız hale gelmiştir. Buradaki imkânsızlık BK.nun 117.maddesinde düzenlenen “sonraki imkânsızlık”tır. Anılan maddeye göre edimin imkânsızlığı borçlunun kusuruyla meydana gelmemiş ve imkânsızlık da devamlı ise borçlu borcundan kurtulur (borç sakıt olur). Zira edim ortadan kalkmakla, sözleşme konusuz kalır, konusuz sözleşme de olamayacağına göre, borç ilişkisi ortadan kalkar.
 
@@ -175,5 +241,7 @@ Mümkün olan, beklenebilir bütün özenin gösterilmesine rağmen eğer bir za
 Zira mahkemenin de takdirinde olacaktır ki TBK 485 hükmü çok açıktır. "İş sahibi yüzünden ifanın imkânsızlaşması: eserin tamamlanması, işsahibi ile ilgili beklenmedik olay dolayısıyla imkânsızlaşırsa yüklenici, yaptığı işin değerini ve bu değere girmeyen giderlerini isteyebilir. ifa imkânsızlığının ortaya çıkmasında işsahibi kusurluysa, yüklenicinin ayrıca tazminat isteme hakkı vardır." kanun hükmü çok açık olup TBK 485'in uygulanabilmesi için ifanın imkansızlaşması gerekmektedir.
 
 ## Sakarya BAM 7. HD 2024/357 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1004904900)
 
 Eldeki uyuşmazlıkta, Covid-19 pandemisinin 6098 sayılı TBK'nın 136. Maddesinde düzenlenen ifa imkansızlığı (mücbir sebep) sayılıp sayılmadığı değerlendirildiğinde; edimin imkânsızlığı sonradan ortaya çıkmış ise de bu imkânsızlığın objektif olduğu söylenemeyecektir. Bilindiği üzere,Covid-19 pandemisi herkesi etkilemiş, pandemi kapsamında alınan tüm tedbirler aynı statüde bulunan herkes için aynı şekilde uygulanmıştır. Bu durumda dahi ülkedeki ekonomik ve ticari faaliyetler belirli koşullarda devam etmiş, gerçek ve tüzel kişiler kendi koşullarını bu koşullara uyarlamış ve ticari ve ekonomik faaliyetlerine devam etmişlerdir. Basiretli bir tacir gibi davranma zorunluluğu olan davalının bu süreçte temerrüte düşmesi ancak subjektif imkânsızlık içinde değerlendirilebilir. Bu nedenle, sonradan ortaya çıkan ve borçtan sorumluluğu kaldıran ifa imkânsızlığı koşullarının davalı yönünden oluştuğu söylenemeyeceğinden, ilk derece mahkemesi kararı usul ve yasaya uygun olup davalı vekilinin bu yöndeki istinaf istemlerinin reddi gerektiği,…

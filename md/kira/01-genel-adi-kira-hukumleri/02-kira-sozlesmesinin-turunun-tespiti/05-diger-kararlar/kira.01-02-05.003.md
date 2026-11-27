@@ -23,6 +23,8 @@ uyari: "Derleyenin seçtiği alıntılardır; kararın tamamı değildir. Künye
 
 ## Yargıtay 6. HD 2011/9008 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1058170500)
+
 Davaya dayanak yapılan ve hükme esas alınan 15.11.1999 başlangıç tarihli ve 3 yıl süreli kira sözleşmesi ve 15.11.2002 başlangıç tarihli ve 3 yıl süreli yenilenen kira sözleşmesi konusunda taraflar arasında bir uyuşmazlık bulunmamaktadır. Sözleşme kiralayan olarak ... ... ve ... ... ile kiracı ... ... tarafından imzalanmıştır. Sözleşmede kiralananın boş arsa olarak kiralandığı ve ziraat aletleri alım satım yeri olarak kullanılacağı belirtilmiştir. Bu haliyle kiralananın Borçlar Kanununun adi kira hükümlerine tabi olduğu anlaşılmaktadır. Kural olarak tahliye davaları kiralayan tarafından açılır. Zira kiralayan sözleşmenin tarafı olup dava açma ve yetkisini sözleşmeden almaktadır. Sözleşmeden kaynaklanan bu yetkinin kullanılabilmesi için kiralayanın malik olması şart değildir. Kiralayan tarafından açılan davada kiralananın paylı veya elbirliği halinde mülkiyete konu olmasının önemi bulunmamaktadır. Zira kiralayanın açtığı davada pay ve paydaş çoğunluğunun ve iştirakin sağlanmasına gerek yoktur. Kiralayanın malik olması gerekmediğinden taraflar arasında
 
 yapılan kira sözleşmesi geçerli olup bu sözleşme tarafları bağlar. Kiralanan boş arsa vasfında olup Borçlar kanunun adi kira hükümlerine tabidir. Mahkemece, Dairenin bozma ilamından sonra verilen hükümde kira sözleşmesinin 2005 yılından sonra yenilenmediği, ortada bir kira sözleşmesi kalmadığı,bu nedenle de davalının kira borcu bulunmadığı gerekçesiyle davanın reddine karar verilmiş ise de, davalı kiracının 15.11.2002 başlangıç tarihli ve 3 yıl süreli kira sözleşmesinin bitiminden önce sözleşmenin 11.maddesine uygun olarak bir feshi ihbar göndermediği ve takip konusu dönem kirasının kiralayanlara ödenmediği davalının da kabulündedir. Kira sözleşmesi ya taraflarca feshedilmesi ile ya da mahkemece verilecek akdin feshine ilişkin bir hükümle sona erer. Bu nedenle kira sözleşmesi geçerlidir ve tarafları bağlar. Borçlar Kanunu'nun 263.maddesi ve 15.11.2002 tarihli kira sözleşmesinin 11.maddesinde düzenlenen feshi ihbar düzenlemesine uyulmaması karşısında akdin kendiliğinden yenilendiğinin kabulü gerekir.
@@ -30,29 +32,43 @@ Bu durumda,davalı tarafça takip konusu dönem kira parasının ödendiği savu
 
 ## Yargıtay 6. HD 2011/7630 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1060468400)
+
 Kira sözleşmesinde kiraya verilen yerin niteliği üzerinde durularak, kiraya verilen yerin nereleri kapsadığının tespit edilmesi, bu hususta yerinde uzman bilirkişiler marifetiyle keşif yapılarak kiralananın Borçlar Kanununun adi kiraya ilişkin hükümlerine mi yoksa 6570 Sayılı Kanun hükümlerine mi tabi olduğunun saptanması ve uygulanacak yasa hükmünün belirlenmesinden sonra karar verilmesi gerekirken yazılı şekilde karar verilmesi doğru görülmemiş hükmün bu nedenle bozulması gerekmiştir.
 
 ## Yargıtay 19. HD 2011/7885 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/811202200)
 
 Yukarıda açıklanan iddia ve savunma ile dosya içinde bulunan Bergama 1. İcra Müdürlüğünün 2006/2082 sayılı takip dosyasında; (davalıların miras bırakanı ... tarafından 10.08.2006 tarihinde adi kira ve hasılat kiralarına ait yapılan takipte) kira kontratına depozite kaydının sonradan yazıldığını savunan davalı müşteri ...’nın davacı aleyhine bizzat kira alacağı olarak başlattığı takibe dayanak olarak koymuş olduğu kira kontratının 11. maddesinde “...’ya teslim edilmek üzere, 14.000.000.000 ( 14 milyar) TL tutarındaki depozitosunu elden teslim alındı “ şeklinde yazılı olduğu anlaşılmaktadır.
 
 ## Yargıtay 6. HD 2011/5765 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/17119300)
+
 Borçlar Kanununun 248.maddesinde adi kiranın nitelemesi yapılmış, "adi kira, bir akitdir ki kiraya veren onunla, kiracıya kira parası karşılığında bir şeyin kullanılmasını bırakma borcu altına girer" denilmiştir. Bu tanımdan anlaşıldığı üzere kira sözleşmesi iki yanlı eşdeyişle karşılıklı borçlanmayı kapsayan bir sözleşmedir.
 
 ## Yargıtay 3. HD 2011/1170 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/963079200)
 
 Kural olarak, Borçlar Kanununun 248. maddesi hükmüne göre bir malın ivaz karşılığı kullandırılmasına ilişkin sözleşmeler kira sözleşmesi olarak tanımlanabilir. Kira sözleşmesi “hukuki işlem” niteliğinde olup buna dayanarak kira parası ve kâr mahrumiyeti için istemde bulunan davacı kiracı genel kural (MK.madde 6) uyarınca ispat yükünü taşır.
 
 ## Yargıtay 6. HD 2011/652 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1055321100)
+
 Kiralananın niteliği yazıhaneli boş arsa olup olaya Borçlar Kanununun adi kiraya ilişkin hükümleri uygulanacaktır. Sözleşme süresi 31.07.2004 tarihinde sona ermiştir. Bu tarihten itibaren B.K.’nun 263.maddesi uyarınca sözleşme belirsiz süreli hale gelmiştir. Her ne kadar sözleşmede kefilin müşterek müteselsil kefil olduğu belirtilmiş ve 10.maddede kefilin sorumluluğunun yenilenen dönem için de geçerli olduğu kararlaştırılmış ise de Yargıtay Hukuk Genel Kurulunun 22.3.2006 gün ve 2006/6-78 Esas, 2006/88 Karar sayılı kararında kabul edildiği gibi Borçlar Kanunu’nun 484. maddesi hükmü gereğince, yazılı şekilde düzenlenmiş, süresi ve kira miktarı açıkça gösterilmiş kira sözleşmesini kefil sıfatıyla imzalayan kişi; sözleşmede gösterilen kira süresi boyunca, kira paralarından kefil sıfatıyla sorumludur. Zira, böylesi bir durumda, kefilin sorumlu olduğu süre ve miktar sözleşmede açıkça gösterilmiştir. Kefil sorumluluğunun kapsam ve sınırlarını bilmektedir.
 
 ## Yargıtay 6. HD 2010/529 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/597957700)
+
 Davada dayanılan ve hükme esas alınan 19.12.2003 başlangıç tarihli ve beş yıl süreli kira sözleşmesi konusunda taraflar arasında uyuşmazlık bulunmamaktadır. Uyuşmazlık feshi ihbarın keşide tarihinde mi yoksa muhatabına ulaştığı tarihte mi sonuç doğruracağı noktasındadır. Sözleşmede kiralanan ... parsel sayılı taşınmazda tarla ve kısmen çalılık olarak tanımlanmış ve baz istasyonu kurulacak alan olduğu belirtilmiştir. Kiralananın kira sözleşmesinde belirtilen niteliği itibariyle Borçlar Kanunu’nun adi kira hükümlerine tabi olduğu anlaşılmaktadır.Anılan sözleşmenin 6. maddesinde beş yıllık kira süresinin hitamından üç ay önce taraflardan herhangi biri noter kanalıyla açık bir şekilde ihbar etmedikçe sözleşmenin aynı şartlarla ve aynı süre için uzatılmış olacağı kararlaştırılmıştır. Bu şart geçerli olup tarafları bağlar. Davacının, 19.12.2008 tarihinde sona erecek sözleşme için 15.09.2008 tarihinde keşide ettiği kira süresi sonunda sözleşmenin yenilenmeyeceğine dair feshi ihbarı davalıya sözleşmede kararlaştırılan üç aylık feshi ihbar…
 
 ## Yargıtay 14. HD 2009/12514 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/846407900)
 
 Davada dayanılan 01.10.1988 başlangıç tarihli sözleşme kira ve tapulu bir taşınmazın haricen satışına ilişkin karma bir sözleşmedir. Kiralanan kiracıya boş tarla niteliğinde teslim edildiğinden sonradan bu yere akaryakıt istasyonu yapılmış olması kiranın niteliğini değiştirmez. Kira ilişkisi bakımından 01.10.1988 başlangıç tarihli sözleşme adi kiraya ilişkindir. BK. m.248’de yapılan tanımlamaya göre “adi kira, bir akittir ki kiralayan onunla kiracıya ücret mukabilinde bir şeyin kullanılmasını terk etmeyi iltizam eder.” Yasa hükmü uyarınca adi kira sözleşmesi kiralayanın bir şeyin (taşınır veya taşınmaz eşyanın) belli veya belirsiz bir süre kullanılmasını bedeli karşılığında kiracıya devretmeyi taahhüt ettiği sözleşmelerdendir. Gerçekten mahkemece, doğru olarak saptandığı üzere adi kira sözleşmesinin feshi ve kiracının tahliye koşulları gerçekleşmeden kiracının kiralanandaki
 
@@ -60,17 +76,25 @@ sözleşmeye dayalı kullanma hakkı bir yana bırakılarak elatmasının önlen
 
 ## Yargıtay 6. HD 2009/5731 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/16866800)
+
 Borçlar Kanunu'nun adi kira hükümlerine tabi kira sözleşmelerinde kira süresinin taraflarca tayin edilmesi halinde kira sözleşmesinin sona erme hali Borçlar Kanunu'nun 263. maddesinde düzenlenmiştir.Kiracı, sözleşmedeki sürenin bitiminde bu yeri kullanmaktan vazgeçmeye zorunlu, kiralayanda kiracıyı buna zorlamaya haklıdır.Kiralayan isterse İİK.'nun 272. maddesi gereğince süre sonunu takip eden bir ay içinde sözleşmeyi ibrazla icra dairesinden tahliye isteyebileceği gibi isterse mahkemeye de başvurabilir.
 
 ## Yargıtay 6. HD 2009/4367 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/16862500)
 
 Olayımıza gelince; Davacının bayii ile davalı arasında yapılan 01.04.1996 başlangıç tarihli ve 10 yıl süreli kira sözleşmesi ile tarla niteliğindeki taşınmaz marangoz atölyesi yapılmak üzere kiraya verilmiştir. Kiralanan köy sınırları içerisinde bulunduğundan niteliği itibariyle, taraflar arasındaki kira sözleşmesi Borçlar Kanununun adi kiraya ilişkin hükümlerine tabi olup, uyuşmazlığın Borçlar Kanunu hükümlerine göre çözümlenmesi gerekir. 01.04.1996 başlangıç tarihli 10 yıl süreli kira sözleşmesi 01.04.2006 tarihinde sona ermiş olup, Borçlar Kanunun 263. maddesi gereğince belirsiz süreli kira sözleşmesi haline gelmiştir. Yukarıda açıklanan ilkelere göre Borçlar Kanununun 262. maddesindeki sürelere uyularak altı aylık bir dönem için üç ay önce feshi ihbarda bulunmak suretiyle dönem sonunda dava açılabilir. Dava, 05.02.2007 tarihinde açılmış olup, bu tarih itibariyle üç ay önce feshi ihbar ihtarnamesi gönderilmediğinden açılan dava süresinde olmadığından, davanın reddine karar verilmesi gerekirken yazılı şekilde tahliye kararı verilmesi doğru değildir.
 
 ## Yargıtay 13. HD 2008/14442 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/837618600)
+
 Dava kira sözleşmesinin eki niteliğinde düzenlenmiş sözleşmenin iptaline ilişkin olup, taraflar arasında akde aykırılıktan dolayı dava açıldığı ve Beyoğlu Sulh Hukuk Mahkemesinin 2006/428 Esas sayılı dosyasında derdest olduğu taraf beyanları ve dosyadaki belgelerden anlaşılmaktadır. Bu davanın konusunu oluşturan sözleşmeye 2006/428 Esas sayılı davada davalı tarafından dayanıldığına göre davacının ileri sürdüğü hususlar o davada incelenecek ve sonuçlandırılacaktır. Hukuki yarar dava şartı olup, diğer davada itiraz veya defi olarak ileri sürülebilecek hususlar ile ilgili ayrı bir dava açmakta davacının hukuki yararı yoktur. Mahkemece davanın bu nedenle reddi gerekirken yazılı şekilde karar verilmesi usul ve yasaya aykırı olup, bozma nedeni ise de, bu yanlışlığın giderilmesi yeniden yargılamayı gerektirmediğinden gerekçesinin değiştirilerek hükmün düzeltilerek onanması HUMK. 438/son maddesi hükmü gereğidir.
 
 ## Yargıtay 6. HD 2008/12258 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/16679700)
 
 Davada dayanılan ve hükme esas alınan 01.02.2005 başlangıç tarihli ve 560 gün süreli kira sözleşmesi konusunda taraflar arasında bir uyuşmazlık bulunmamaktadır. Sözleşmenin kira bedeli bölümünde "kira parası nakit olmayıp kiraya verilen arazilerin yapılaşmaya müsait olacak biçimde kooperatif sorumlu mimarı Erol'un belirteceği kotta hafriyatının ve tesviyesinin yapılacağı, bu sebeple kiracı şirkete hiçbir bedel ödenmeyeceği, kiracı şirketin söz konusu taşınmazları şantiye ve konkosör faaliyet alanı olarak kullanacağı, bir başkasına kiraya vermeyeceği, alt kiracı almayacağı, kira süresinin bitiminde kiracı taahhüt ettiği işleri bitirmiş olarak tesviye edilmiş ve boş olarak kooperatife teslim edileceği" kararlaştırılmıştır. Kira sözleşmesi iki taraf için borç doğuran bir akit olup, bunun sonucu kiralayan, kiralanan şeyi belli bir süre için kullanmak ya da yararlanmak üzere kiracıya bırakır. Kiracı da buna karşılık kiralayana bir bedel ödemekle yükümlü olur. Kullanma karşılığı ödenecek bedele kira bedeli denir. Kira karşılığı kural olarak paradır. Ancak bu bedel paradan başka bir şey, örneğin hizmet akdi veya bir şey imal etme (istisna akdi) gibi şeyler de olabilir.
 Bu nedenle 01.02.2005 başlangıç tarihli sözleşmede kira bedeli para olarak kararlaştırılmamış, arsa üzerinde yapılacak hafriyat ve tesviye karşılığı hizmet olarak befirlenmiştir. Bu ilkeler çerçevesinde taraflar arasında düzenlenen sözleşmenin tüm unsurları itibariyle kira sözleşmesi niteliğinde olduğunun kabulü gerekir. Öte yandan süre bitiminde davalı taşınmazı tahliye etmeyip kiracılığını devam ettirmiştir. BK'nın adi kiraya ilişkin hükümlerine tabi olan kira sözleşmesi, aynı Yasa'nın 263. maddesi gereğince taraflarca feshedilmediğinden süresinin bitimiyle süresiz hale dönüşmüş olup, bu nedenle kiracılığı devam eden davalının taşınmazı haksız işgal ettiği de düşünülemez. Davacı bu kira akdine dayanarak kira bedeli olarak belirlenen hafriyat ve tesviyenin eksik yapılmasından kaynaklanan ve eksik yapılan hizmet bedelinin yerine getirilmesi için tespit edilen bedelin yani kira alacağının tahsilini isteyebilir. Taraflar arasındaki ilişki kira sözleşmesi olarak nitelendirildikten sonra mahkemenin yetkisine ilişkin itirazın da bu nitelendirmeye bağlı olarak çözümlenmesi gerekir.
@@ -78,33 +102,47 @@ HUMK'nın 9. maddesi hükmü uyarınca kural olarak yasada aksine hüküm bulunm
 
 ## Yargıtay 14. HD 2008/8035 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/848440200)
+
 Yukarıdaki istemin dayanağı, Borçlar Kanununun 272.maddesinin yaptığı gönderme sebebiyle adi kiraya uygulanacak 249.maddedir. Gerçekten, anılan hüküm uyarınca kiralayan, kiralananı akitteki maksada uygun kullanmaya elverişli şekilde kiracıya teslim etmek ve kira süresince de bu halde bulunmasını sağlamakla yükümlüdür. Olayda, sözleşmeye rağmen kiralananın akitteki amaca uygun düşmeyecek oranda teslim edildiği
 
 iddia edildiğinden, bu iddianın duraksamasız açığa kavuşturulması, bu yön saptandıktan sonra davacının Yasanın 249.maddesinin 2.fıkrasındaki kiracıya tanınan haklardan yararlanıp yararlanamayacağını değerlendirmesi gerekir.
 
 ## Yargıtay 3. HD 2008/2171 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/83964200)
+
 Yanlar arasındaki 1.1.1997 başlangıç tarihli ve 1 yıl süreli kira sözleşmesinde kiralananın niteliği açıkça belirtildiği üzere arsadır. Taşınmazın şantiye yeri olarak kiralandığı sözleşmede belirtildiği gibi bu husus davalı tarafın da kabulündedir. Sözleşmenin özel 3.maddesinde de kiracının kiraladığı taşınmazı kiraya veren ile yaptığı sözleşmenin bitiminde (süre uzatımı da dahil) herhangi bir ihtara gerek kalmaksızın tahliye edeceği kararlaştırılmıştır. Yine özel 7.maddesinde de taşınmazın herhangi bir nedenle boşaltılmasının gerekmesi halinde kiralayanın yazılı bildiriminden itibaren en geç 10 gün içinde boşaltılacağı öngörülmüştür. Taşınmazın cinsine yönelik tartışmasız bu olgu karşısında olayda 6570 sayılı Yasanın uygulama olanağı yoktur.
 
 ## Yargıtay 1. HD 2008/1768 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/78103600)
 
 Ne varki; kira ilişkisi bir hukuki fiil (vakıa) değil,bir hakkın doğumuna,değiştirilmesine veya ortadan kaldırılmasına neden olma niteliği itibariyle bir hukuki işlem (muamele)dir.Bu nedenle, dava değeri 40.-YTL'yi aşan (23.6.1996 gün ve 4146 Sayılı Yasa uyarınca) sözleşmeler hakkında tanık dinlenilebilmesine olanak tanımayan HUMK.’nun 288.maddesi 21.7.2004 tarihinde yürürlüğe giren 5219 Sayılı Yasanın 2/b maddesi ise değiştirilmiş ve tanıkla ispat yasağı 400.-YTL’nin üzerine yükseltilmiştir. Bu oran, 5219 ve 5236 Sayılı Yasalara göre yapılan katsayı artışı sonucu 2006 yılı itibari ile 430.-YTL, 2007 yılında ise 460.-YTL, 2008 yılında ise 490.-YTL olmuştur. Bu düzenlemeye göre, bu miktarın üzerindeki sözleşmeler hakkında tanık dinlenmesine olanak yoktur. Kira sözleşmesinin varlığı ancak, yazılı delille ispat edilebilir. Hemen belirtilmelidir ki, sözü edilen miktar, yıllık kira tutarına bakılarak belli edilir.
 Sözlü kira sözleşmesi kurulduğu yolundaki savunmanın, ilgilisine (davalıya yada davalılara) yemin teklif etme hakkı verebileceği; ayrıca HUMK.nun 292. ve 293.maddelerinde değinilen ayrıcalıklarında gözetilmesinin gerekeceği kuşkusuzdur.Somut olaya gelince; davacıların dava dilekçesindeki kullanılan ibareler ve davalıya çektikleri uyarı, ayrıca 23.10.2007 günlü beyan bir bütün olarak değerlendirildiğinde her ne kadar “kira” ibaresi kullanılmış ise de beyanlarının kira sözleşmesinin varlığını kabul biçiminde olmayıp taşınmazın karşılıksız ve murisin onayına dayalı olarak kullanıldığı ve bu onayın uyarı ile birlikte geri alındığı biçiminde yorumlanması gerekmektedir.Bu husus özellikle davalıya çekilen uyarıda çok açık biçimde belirtilmiştir. Kaldı ki, kira sözleşmesinin esaslı unsurlarından birisi kira bedelidir, adı kira olsa bile kira bedelini içermeyen bir sözleşme hukuki anlamda karşılıklı edimleri içermesi gereken kira sözleşmesi olarak kabul edilemez. O halde, davalının kullanımının muvafakata dayalı olduğunun kabulü gerekir. Kaldı ki, davalı savunmada bulunmamış, taraflar arasında mevcut bir kira ilişkisinin varlığı kanıtlanmamıştır.
 
 ## Yargıtay 12. HD 2007/13180 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/74127800)
+
 Şikayetçi İİK.nun 135. maddesine göre tahliyesi hakkındaki memurluk işlemine karşı İcra Mahkemesi'ne başvurusunda ihale alıcısı olan M. E..Y. ile 15.06.2000 tarihinde düzenledikleri adi kira sözleşmesine dayanmıştır. Başvuru ile kira sözleşmesine konu taşınmaza yönelik ortaklığın giderilmesi davasında verilen karar uyarınca 01.02.2005 tarihli ihale ile taşınmazı satın alan ve aynı zamanda taşınmazın hissedarı olan davalının İİK.nun 135/2. maddesine göre çıkardığı tahliye emrinin iptali istenmektedir. Taraflar arasındaki sözleşme resmi nitelikte değil ise de, davalının şikayetçi aleyhinde Ankara 6. İcra Müdürlüğü'nün 2006/8631 ve 2006/2648 E. Sayılı dosyalarından sözü edilen 15.06.2000 tarihli kira sözleşmesine dayanılarak kira alacaklarının tahsili için örnek 13 no'lu tahliye ihtarlı ödeme emri gönderip tahliye takibi başlattığı, ayrıca Ankara 5. Noterliği'nin 03.04.2006 tarih ve 12690 yevmiye numaralı ihtari ile kira akdinin 15.06.2006 tarihinde sona erdiğini kira akdini yenilemeyeceklerini ve ihtiyaçları bulunduğunu beyan ederek tahliyeyi talep ettikleri ve sonrasında da Ankara 8.
 Sulh Hukuk Mahkemesi'nda 2006/1278 E. dosya ile şikayetçi aleyhinde ihtiyaç sebebi ile tahliye davası açıldığı böylece, mahkeme önünde şikayetçinin tahliyesi istenen taşınmazda kiracı olduğunun kabul edildiği görülmektedir.
 
 ## Yargıtay 14. HD 2007/418 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/16144400)
+
 Vekalet ve vekaletin kapsamı ile ilgili bu genel açıklamalardan sonra somut olaya döndüğümüzde, kira sözleşmesinden kaynaklanan ve kişisel hak niteliğinde bulunan kiracılık hakkının tapu kaydına şerhinde vekaletnamede özel yetki aranıp aranmayacağı sorusunun cevabını aramak gerekir.
 
 ## Yargıtay 14. HD 2006/10511 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/855234700)
+
 Burada üzerinde durulması gereken bir başka husus da kira sözleşmesinin niteliği ve kiralayanın karşı davada talep konusu yaptığı sözleşmenin feshinin tesbitini istemesinin sonuçlarının ne olduğudur. Kira sözleşmeleri rızai sözleşme türünden olup hasılat kirasına uygulanacak Borçlar Kanununun 270 ve devamı maddelerince taraflardan birinin fesih iradesini karşı tarafa bildirilmesiyle fesih hüküm ve sonuçlarını meydana getirir. Şayet fesih haksız fesihse sözleşmeyi fesh eden taraf haksız feshin sonuçlarına katlanmalıdır. Karşı davada davalı ... karşı davacı kiralayan, sözleşmenin fesih iradesinin açtığı dava ile kiracıya bildirdiğinden ve gerek öncelikli edimlerini yerine getirmeyerek gerekse teslim borcunu ifa etmemek suretiyle fesihte kusurlu olan taraftır. Her ne kadar davacı kiracı sözleşme kiralayan tarafından fesh edildiğinden, kiralananın hükmen teslimini isteyemezse de sözleşmenin borçlunun subjektif kusurundan kaynaklanan nedenlerle feshinden dolayı uğradığı zararları isteyebilir.
 
 ## Yargıtay 14. HD 2006/10067 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/854327500)
 
 Az yukarıda sözü edildiği üzere kiranın 01.02.2001 tarihinde başladığı ancak sözleşmenin süresiz hale geldiği anlaşılmaktadır. Adi kira ilişkisini düzenleyen Borçlar Kanunun 262. maddesi hükmünce süresi belli olmayan sözleşmelerinde akdin feshi için ihbar yapılması zorunludur. Anılan hüküm gereğince fesih ihbarının altı aylık bir müddetin hitamı için üç ay evvel yapılması gerekir. Her ne kadar davacı kiralayan davalı hakkında icra takibi yapmış
 
@@ -112,10 +150,14 @@ ise de bu takip kira parasının ödenmesindeki temerrüde dayalı olduğundan e
 
 ## Yargıtay 14. HD 2006/4182 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/855262500)
+
 Uyuşmazlık konusu yer dava dışı kilise vakfı tarafından davacılar miras bırakanı ... ve davalı ...’e 15.8.1981 başlangıç tarihli sözleşmesi ile belli bir kira bedeli karşılığı kullanılmak üzere terk edilmiştir. Anılan sözleşme adi kiraya ilişkin bulunduğundan sorunun çözümünde adi kirayı düzenleyen Borçlar Kanununun 248 ve devamı maddelerinden yararlanılması zorunludur. Gerçekten, yasanın 260 maddesindeki kiracının temerrüdü, 261 maddesindeki kiracının iflası nedenleri ileri sürülerek fesih istenmedikçe 263. maddedeki düzenleme gereğince adi kira ilişkisi gayri muayyen bir müddet için yenilenmiş sayılır. Her ne kadar davacıların miras bırakanı, kiracı ... 1988 yılında ölmüş ise de gerek mirasçıları gerekse kiralayan yasanın öngördüğü mehillere uyarak fesih ihbarında bulunmadığından kiracının ölümü de sözleşmenin kendiliğinden feshi sonucunu meydana getirmez. Başka bir anlatımla, davacıların murisi ... ve davalı ...’in kiracı sıfatı ile kiralayan Rum Ortadoks Kilise Vakfı ile imzaladıkları 15.8.1981 başlangıç tarihli kira sözleşmesi geçerlidir.
 Kilise tarafından daha sonra 1.1.1992 ve 1.1.2002 başlangıç tarihli sözleşmeler ile çekişmeli taşınmazın davalı ...’e onun tarafından da alt kiracı ...’e kiralanmış olması yarışan şahsi haklardan önceki tarihli olanın geçerli sayılacağı kuralı uyarınca davacıların kiracılık hakkını etkilemez. Bu durumda mahkemece 15.8.1981 tarihli sözleşme ile kiralanandan davacıların miras bırakanı ... ile davalı ...'in ve müştereken yararlandığı gözetilerek, davacıların 1/2 payına vaki davalı ... ve diğer davalının elatmasının önlenmesine ve koşulları yerinde bulunursa hesaplattırılacak ecrimisil tahsiline karar verilmesi yerine davanın yazılı bazı gerekçelerle reddine karar verilmesi doğru olmamış bozmayı gerektirmiştir.
 
 ## İstanbul BAM 9. HD 2026/366 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1193844300)
 
 Gerek öğretide, gerekse uygulamada kiracının işleten sıfatının belirlenmesinde, kira sözleşmesinin uzun süreli olması, araç üzerinde fiili hâkimiyet ve ekonomik yararlanma unsurlarının birlikte bulunması gerektiğinden mahkemece; kaza tarihinde taraflar arasında uzun süreli ve üçüncü kişileri bağlayacak güçte bir kira sözleşmesinin bulunup bulunmadığının belirlenmesi amacıyla aracın fiilen teslim edilip edilmediği, ekonomik yararlanmanın kime ait olduğu, kira sözleşmesi ve kira bedelinin maliye ve vergi dairelerine bildirilip bildirilmediği, işleten ve kiracının ticari defter ve kayıtları üzerinde konusunda uzman bir bilirkişi marifetiyle inceleme yaptırılmak suretiyle, kira sözleşmesinin fatura, ruhsat ve cari hesap hareketleri gibi yan delillerle desteklenip desteklenmediği değerlendirilerek sonuca ulaşılmalıdır.Dosya kapsamından, 27/04/2010 tarihinde davalı sürücü ...'nın, yönetimindeki ... plakalı aracı ile seyri esnasında tek taraflı olarak meydana gelen trafik kazasında araçta yolcu olarak bulunan davacılar ... ve ...'nun yaralandıkları, bu yaranmaları nedeniyle maddi tazminat talep ettikleri anlaşılmıştır. Somut uyuşmazlıkta
 
@@ -123,17 +165,25 @@ kazaya sebebiyet veren ... plakalı araç, kaza tarihinde trafikte davalı ... a
 
 ## İstanbul BAM 36. HD 2026/74 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1189053600)
+
 Maddesindeki " İş bu sözleşme bir kiralama sözleşmesi değildir" hükmünün sözleşmenin kira sözleşmesi niteliğini değiştirmeyeceği, sözleşme içeriğine göre davaya bakma görevinin Sulh Hukuk Mahkemesine aittir. Görev konusu kamu düzenine ilişkin olup mahkemece re sen nazara alınması gerektiğinden, Asliye Ticaret Mahkemesince görevsizlik kararı verilerek dosyanın görevli Sulh Hukuk Mahkemesine gönderilmesine karar verilmesi gerekirken HMK nın 114/2 ve 115/2. Maddeleri uyarınca yetkili icra dairesinde yapılmış bir icra takibi bulunmaması nedeniyle dava şartı noksanlığından davanın usulden reddine karar verilmesi hatalı olduğundan; davacı vekilinin istinaf başvurusunun HMK'nın 355. maddesi uyarınca görev nedeniyle kabulüne, HMK'nın 353/1-a-3 maddesi gereğince ilk derece mahkemesi kararının kaldırılmasına ve dosyanın görevli Sulh Hukuk Mahkemesine gönderilmek üzere kararı veren ilk derece mahkemesine gönderilmesine karar vermek gerekmiştir.
 
 ## Diyarbakır BAM 6. HD 2025/1261 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1179351500)
 
 6098 sayılı TBK m. 299 hükmü uyarınca, kira sözleşmesi, kiraya verenin bir şeyin kullanılmasını veya kullanmayla birlikte ondan yararlanılmasını kiracıya bırakmayı, kiracının da buna karşılık kararlaştırılan kira bedelini ödemeyi üstlendiği sözleşmedir.
 
 ## Gaziantep BAM 4. HD 2025/1910 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1166980800)
+
 Kira sözleşmesi TBK madde 299’da; “Kiraya verenin bir şeyin kullanılmasını veya kullanmayla birlikte ondan yararlanılmasını kiracıya bırakmayı, kiracının da buna karşılık kararlaştırılan kira bedelini ödemeyi üstlendiği sözleşmedir.” şeklinde tanımlanmıştır.
 
 ## İstanbul BAM 13. HD 2025/421 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1131738900)
 
 Kiralama işleminin şirketin önemli miktarda malvarlığının devrini içerdiği ve bu nedenle TTK'nun 408/1-f maddesi gereğince genel kurulda bu hususta karar alınması gerektiği iddia edilmiş ise de, adı geçen maddede satıştan sözedildiği, kiralama işleminin satış olarak
 
@@ -142,13 +192,19 @@ Yine ... ile yapılan kira sözleşmesi protokolüne cezai şart konulmamış ol
 
 ## İzmir BAM 6. HD 2025/119 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1116951800)
+
 TBK'nun 299. maddesinde "Kira sözleşmesi, kiraya verenin bir şeyin kullanılmasını veya kullanmayla birlikte ondan yararlanılmasını kiracıya bırakmayı, kiracının da buna karşılık kararlaştırılan kira bedelini ödemeyi üstlendiği sözleşmedir." şeklinde düzenlenmiştir.
 
 ## Adana BAM 5. HD 2024/1860 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1103141500)
+
 TBK'nun 299. maddesine göre "kira sözleşmesi, kiraya verenin bir şeyin kullanılması veya kullanmayla birlikte ondan yararlanılmasını kiracıya bırakmayı, kiracının da buna karşılık kararlaştırılan kira bedelini ödemeyi üstlendiği sözleşmedir." Buna göre, kira sözleşmesinin kurucu unsurları, kira bedelinin belirlenmesi ve kiralanan alanın kiracının hakimiyetine terk edilmesidir.
 
 ## İstanbul BAM 9. HD 2024/2291 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1108957100)
 
 Aynı kanunun 85. maddesinde ise, "Bir motorlu aracın işletilmesi bir kimsenin ölümüne veya yaralanmasına yahut bir şeyin zarara uğramasına sebep olursa, motorlu aracın bir teşebbüsün ünvanı veya işletme adı altında veya bu teşebbüs tarafından kesilen bilet ile işletilmesi halinde, motorlu aracın işleteni ve bağlı olduğu teşebbüsün sahibi, doğan zarardan müştereken ve müteselsilen sorumlu olurlar." hükmüne yer verilmiştir.Bu yasal düzenleme karşısında, kazaya karışan araçların meydana getirdikleri zararlardan araç sahiplerinin hukuken sorumlu olacağı ilkesi benimsenmiş ise de, araç malikleri tarafından herhangi bir sebeple yararlanılması için bir başka kimseye devir edilmesi halinde (kısa bir süre için kiralanmaması kaydıyla) artık üzerindeki fiili hakimiyeti kalmaması ve bu sebeple ekonomik yönden de bir yararlanma olanağının kalktığı durumlarda, o araca kaza sırasında fiili hakimiyeti altında bulunduran ve ondan iktisaden yararlanan kimsenin işleten sıfatıyla meydana gelen zarardan sorumlu tutulması gerekir. Bunun sonucu olarak da, araç maliki sorumlu tutulmamalıdır.Gerek doktrinde, gerekse Yargıtay'ın uygulamalarında, kiracının
 
@@ -156,10 +212,14 @@ işleten sıfatının belirlenmesinde, kira sözleşmesinin uzun süreli olması
 
 ## İstanbul BAM 35. HD 2024/2571 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1097035800)
+
 Restorantı kendi nam ve hesabına işleteceğini, işletmecinin, işletmeyi, işletmeye verenin kendisine noterden verdiği vekaletname ile işletileceği, ruhsat vs. değişmeyeceği, işletici ve çalışanlarının, işletmeye verenin çalışanı ve personeli olmadıklarını peşinen kabul edecekleri, işletme ile ilgili her türlü adli idari ve cezai sorumluluğun işleticiye ait olduğu, işletmecinin işletmesinde çalıştırdığı personelin SGK'larını yapmak, sigorta primleri ile diğer işçilik haklarını ödemekle yükümlü olduğu, çalışanların işletmeye veren üzerinden sigortalı olmakla birlikte bunlar ile ilgili her türlü sorumluluğun işletmeciye ait olduğu, işleticinin her ayın 1-5'i arasında peşin olarak 5.500 USD işletme bedelini elden işletmeye verene ödeyeceği kararlaştırılmıştır.Görevle ilgili düzenlemeler kamu düzenine ilişkin olup, taraflar ileri sürmese dahi yargılamanın her aşamasında re'sen gözetilir. Taraflar da yargılama bitinceye kadar görev itirazında bulunabilirler.
 Görev itirazı yapılmamış olsa bile re'sen mahkeme, ilk önce görevli olup olmadığını inceleyip karara bağlamalıdır.TBK 299. maddesi uyarınca kira sözleşmesi, kiraya verenin, bir şeyin kullanılmasını veya kullanma ile birlikte ondan yararlanılmasını kiracıya bırakmayı, kiracının da buna karşılık kararlaştırılan kira bedelini ödemeyi üstlendiği sözleşmedir. Davacı her ne kadar taraflar arasındaki 31/05/2017 tarihli sözleşmenin kira sözleşmesi olduğunu savunuyor ise de; sözleşmenin 6. maddesinde, davacı işletmecinin, işletmeyi, işletmeye veren davalının kendisine noterde verdiği vekaletname ile işleteceği, ruhsat ve sairin değişmeyeceği, işletmede çalışacak personelin davalı işletmeye veren üzerinden sigortalı olacağının düzenlendiği, bu hükümler birlikte değerlendirildiğinde, kira sözleşmesinin unsurlarının bulunmadığı anlaşılmıştır. Dairemizce İTO'ya ve vergi dairesi müdürlüğüne yazılan müzekkerelere verilen yanıtlar uyarınca davacının tacir sıfatının da bulunmadığı, bu nedenlerle davacının sözleşmeden kaynaklanan alacak talebinin HMK m.2 uyarınca genel görevli olan Asliye Hukuk Mahkemesinde görülmesi gerektiği, ilk derece mahkemesince verilen kararın yerinde olduğu anlaşılmıştır.
 
 ## İstanbul BAM 49. HD 2024/2534 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1088393200)
 
 Tereddüde mahal bırakmamak adına, müşteri tarafından gerçekleştirilen telefon görüşmelerine ilişkin bedeller de hizmet bedeli kapsamında yer almamakta olup, işbu bedeller de müşteriye aynca yansıtılacaktır. " şartı bulunduğu, Ayrıca yine sözleşmenin ek hizmet bedelleri başlıklı bölümünde: "Asistanlık hizmeti, fotokopi&çıktı&tarama ,faks gönderimi, kargo gönderimi, kurye gönderimi, şirket tabelası, ekstra ofis kullanımı, ekstra toplantı odası kullanımı, toplantılar için kurabiye-sandiviç, ek çalışma koltuğu, plaza giriş
 
@@ -168,8 +228,12 @@ Maddesinde kira sözleşmesi "kiraya verenin bir şeyin kullanılmasını veya k
 
 ## İzmir BAM 23. HD 2024/1598 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1056357700)
+
 TBK'nun 299.maddesinde ''Kira sözleşmesi, kiraya verenin bir şeyin kullanılmasını veya kullanmayla birlikte ondan yararlanılmasını kiracıya bırakmayı, kiracının da buna karşılık kararlaştırılan kira bedelini ödemeyi üstlendiği sözleşmedir.'' şeklinde düzenleme bulunmaktadır.
 
 ## İzmir BAM 23. HD 2024/1418 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1058905600)
 
 6098 sayılı TBK'nun 299. maddesinde ''Kira sözleşmesi, kiraya verenin bir şeyin kullanılmasını veya kullanmayla birlikte ondan yararlanılmasını kiracıya bırakmayı, kiracının da buna karşılık kararlaştırılan kira bedelini ödemeyi üstlendiği sözleşmedir '' şeklinde belirtilerek kira sözleşmesinin tanımı yapılmıştır.

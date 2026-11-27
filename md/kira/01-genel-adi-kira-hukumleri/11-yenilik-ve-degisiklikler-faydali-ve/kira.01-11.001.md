@@ -21,14 +21,20 @@ uyari: "Derleyenin seçtiği alıntılardır; kararın tamamı değildir. Künye
 
 ## Yargıtay HGK 2023/506 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/919428700)
+
 Tüm bu açıklamalar kapsamında somut olay değerlendirildiğinde; taraflar arasında noterde resen düzenlenen ve geçerlilik koşullarını taşıyan 18.04.2014 tarihli düzenleme şeklinde satış vaadi ve arsa payı karşılığı inşaat sözleşmesinde inşaatın bitim ve teslim süresinin ruhsat tarihinden itibaren yirmi ay olacağının ve yirmi ayda bitirilemediği takdirde arsa sahiplerine verilen her daire başına günün rayiç değeri üzerinden belirlenen kira bedelinin yüklenici tarafından ödeneceğinin kararlaştırıldığı, inşaatın devamı sırasında taraflarca düzenlenen 10.10.2014 tarihli sözleşme ile C Bloğun alt kısmına bir kat daha çıkılarak otopark yapımına karar verilmesi üzerine 16.10.2015 tarihinde tadilat yapı ruhsatının alındığı, alınan tadilat yapı ruhsatı ile davalı yüklenicinin fazla imalat yaparak inşaat alanını büyüttüğü anlaşılmaktadır.
 
 ## Yargıtay HGK 2022/1155 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/837231100)
 
 Yukarıda ayrıntılarıyla açıklandığı üzere kiracı tacir, muayanehane olarak çalışma ruhsatının alınabilmesi için hangi özel koşulların sağlanması gerektiğini bilmesi gereken kişidir. Ticarethane olarak kullanacağı yeri tespit ederken bu koşulların mevcut olup olmadığını sözleşmenin başında öngörüp basiretle araştırması gerekir. Nitekim somut olayda da kiraya konu yerin emlakçı vasıtasıyla gezilip görülmesinden bir aydan fazla süre geçtikten sonra sözleşme imzalanmış, davacı kiracı bu süreçte kiralananın muayenehane olarak kullanılmaya elverişli olduğu yönünde statik raporunu almıştır. Kiraya veren binanın inşaat ve iskan raporlarının bulunduğunu belirtmiş, bunun ötesine muayenehane açmak için aranan özel koşullar konusunda kiracının yeterince araştırma yapabilmesi ve konuyu denetleyebilmesi için imkân tanımış, davacı da gerekli incelemeleri yaptığını belirtip taşınmazı bu hâliyle uygun bularak kira sözleşmesini imzalamıştır.
 Devam eden süreçte muayenehane ruhsatı alınması için gerekli olan yangına karşı tedbirlerin alındığına ilişkin itfaiye yeterlilik ve depreme dayanıklılık raporu henüz alınmadan tadilata başlayan kiracı, inşaat ve eklemeleri tamamlayarak birlikte çalışmayı planladığı hekimlerin bir kısmıyla faaliyete başlamış, kira sözleşmesinin süresinin sona ermesine yaklaşık iki ay kala, üstelik olağan durumda da sözleşme sonunda kiralananı yaptırdığı tadilat ve eklemelerle birlikte ve bunlar için hiçbir bedel talep etmeksizin kiraya verene teslim borcu altına girdiği sözleşmeyi feshetmiştir.
 
 ## Yargıtay HGK 2021/804 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/686779100)
 
 Yapılan bu açıklamalar ışığında somut olay değerlendirildiğinde; davacı-karşı davalı kiraya veren ile davalı-karşı davacı kiracı arasında 04.10.2005 tarihli ve 6 yıl süreli kira sözleşmesi düzenlendiği, kiralananın boşaltılarak davacı-karşı davalı malike teslim edildiği, kiraya veren malik tarafından kiralanana zarar verildiği iddiasıyla tazminat davası açıldığı, bunun üzerine kiracı tarafından da zorunlu ve faydalı masraflara ilişkin olarak karşı dava açıldığı anlaşılmaktadır. Her ne kadar kira sözleşmesinin 12. maddesinde “Kiracının kiralanan şeyin
 
@@ -36,10 +42,14 @@ içinde ve dışında yaptıracağı tezyinat masrafları kendisine ait olacak v
 
 ## Yargıtay HGK 2019/998 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/570930300)
+
 Yeri gelmişken hemen belirtilmelidir ki; davalıların komşu olmaları başka delillerce doğrulanmadığı sürece kötü niyetli olduklarının kabulü için yeterli değildir. Borçlu ile davalı üçüncü kişi arasında iş arkadaşlığı, ticari ilişki ya da yakın arkadaşlık olduğu hususu ispatlanamamıştır. Aksine dinlenen tanık beyanlarında tarafların yalnızca birbirlerini aynı apartmanda oturdukları için tanıdıkları, aralarında bir samimiyet de bulunmadığı, davalı borçlunun taşınmazını satacağını tüm apartman sakinlerine duyurduğu gibi bu sakinlerden bazıları ile de taşınmaz satışı konusunda pazarlığa giriştiği, bu pazarlıkta istenen miktarların tarafların anlaştıklarını belirttikleri miktara yakın olduğu, nihayetinde davalı üçüncü kişi ile satım akdinin gerçekleştiği belirtilmiştir. Ödeme belgelerinden, birbirini teyit eden dekontlardan da bedeller arasında fahiş farkın bulunmadığı, satış bedelinin ödendiğinin banka kayıtları ve diğer belgeler ile kanıtlandığı anlaşılmaktadır.
 İstanbul gibi büyük bir kentte aynı apartmanda oturan ve aralarında arkadaşlık, yakın komşuluk ilişkisi bulunmayan satıcı ile alıcının birbirlerinin maddi durumunu bilebilecek oranda tanışık olmalarının kendilerinden beklenemeyeceği, tasarrufun sırf bu nedenle de iptal edilemeyeceği açıktır. Öte yandan davalı alıcının aynı apartmanda kendisine ait dairesinde oturuyor olduğu ve satın aldığı tasarrufa konu taşınmaza taşındıktan sonra ilk oturduğu daireyi kiraya verdiği hususu da belirgindir. Davalı satıcının da taşınacağını belirttiği adresteki tadilatların bitmemiş olması sebebiyle kira bedelini ödeyerek bir süre daha oturmaya devam etmek istemesi ve bu nedenle de sattığı evde altı ay kadar oturması da muvazaanın varlığını göstermez. Zira somut olay bakımından davalı satıcının tadilat amacıyla beklediği içinde bedelini de ödeyerek sattığı evde ikamet etmeye devam ettiği ve daha sonra taşındığı tanık beyanlarında da dile getirilmiş, makul süre de gözetildiğinde davalı borçlunun satış tasarrufunun amacına aykırı hareket ettiği de ispatlanamamıştır.
 
 ## Yargıtay HGK 2019/543 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/520408400)
 
 Bu açıklamalar ışığında taraflar arasındaki ilişki gözden geçirildiğinde, bu ilişkinin bir sözleşmeye dayalı olduğu tartışmasızdır. Taraflar arasındaki sözleşme, "ortaklık sözleşmesi" olarak adlandırılmıştır. Sözleşmenin taraflarca farklı şekilde isimlendirilmesi sonucu değiştirmez. Önemli olan, sözleşmede düzenlenen hükümler dikkate alınarak, kanun hükümleri doğrultusunda sözleşmenin ne şekilde nitelendirilebileceği hususudur. Sözleşmenin “Sözleşmenin Şekli ve Yükümlülükleri” başlıklı 3. maddesinde, davacı-karşı davalı ...’in ortaklık faaliyetinin yürütülmesi amacıyla iş yerinin kullandırılmasının teminini sağlayacağı, buna karşın davalı-karşı davacı ...’ın iş yerinde yapılacak faaliyetin yürütülmesi için gerekli her türlü izin ve onayları alacağı, faaliyet konusu işin her türlü
 
@@ -47,14 +57,20 @@ reklam ve tanıtımını yapacağı, iş yerinde faaliyet konusu iş ile ilgili 
 
 ## Yargıtay HGK 2016/441 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/233234300)
+
 Dosyaya sunulan bilgi ve belgelerin incelenmesinden, otelin protokolün imza tarihinde kullanıma hazır olmadığı anlaşılmaktadır. Hatta mahkemece yapılan keşif sonucu düzenlenen 24.05.2010 tarihli bilirkişi raporunda dahi otelin halen bakım ve tadilatlarının devam ettiği, hizmete kapalı ve kullanılamaz durumda olduğu belirlenmiştir. Protokolün 8. maddesinde borçluların kiracı olarak kaldıkları dönemde otelin kullanım amacına uygun bulunmak, bankanın iznini almak ve tüm masraf ve giderleri kendilerine ait olmak kaydıyla otelde değer arttırıcı bakım, onarım ve tadilat işleri yapabileceğine, ancak otelin satılması veya satım olmaksızın bankaya teslimi halinde bu masrafları hiçbir surette bankadan talep edemeyeceklerine dair hükümden, bu tadilatların davacı şirketçe yapıldığı anlaşılmaktadır. Tüm bu açıklamalardan sonra, protokolün 2-a maddesinin, davacı şirketin kullanım bedelini ödemeye başlamasını, dava konusu otelin kullanıma hazır olması için gerekli tüm teferruat ve müştemilatın otelde mevcut bulunduğunun tespiti, diğer bir deyişle tadilatın tamamlanması şartına bağladığı kabul edilmelidir.
 Aksinin kabulü, otelin müşteri kabul edemeyecek, diğer bir deyişle gelir elde edemeyecek durumda olduğu halde, davacının kira bedeli ödemesi anlamına gelir ki bu kabul şekli, hem hayatın olağan akışıyla hem de tarafların otelin mevcut durumunu ve davacının elinde olduğunu bildikleri halde böyle bir şartı kararlaştırmış oldukları gerçeğiyle bağdaşmaz. Davacı şirketin bu arada oteli işletmiş olması halinde ise anılan şartın gerçekleşmiş olduğu, dolayısıyla davacı şirketin kira bedeli ödemeye başlaması gerektiği de açıktır. Ancak bu husus mahkemece incelenmediği gibi dosya kapsamından da tam olarak anlaşılamamaktadır. Zira, otel keşif tarihinde dahi kullanılamaz olduğu halde, davalı bankaca keşide edilen 07.07.2009 tarihli ihtarda, otelin işletildiğinden söz edilip hasılat payı istenmesi, bu konuda tereddüt uyandırmaktadır. Elbette ki tadilatı bu şekilde davacı tarafa bırakılan otelin, kullanıma hazır hale getirilmesi için davalı bankaca sonsuza dek beklenecek değildir. Ancak bu husus, hem 07.07.2009 tarihli ihtarın hem de işbu davanın konusu dışındadır.
 
 ## Yargıtay HGK 2016/59 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/185641500)
+
 Davaya dayanak yapılan ve hükme esas alınan 01/02/2008 başlangıç tarihli ve beş yıl süreli kira sözleşmesi konusunda taraflar arasında uyuşmazlık bulunmamaktadır. Sözleşmede kiracı tarafından yapılan tadilatların kira bedelinden düşüleceğine dair hüküm bulunmamaktadır. Davalının 12.10.2012 tarihinde yaptığı ve davacının da kabulünde bulunan 4354 TL ödemenin Ekim 2012 kirasını da kapsadığı anlaşılmaktadır. Davacı eksik ödemeyi bu şekilde açıkladığına ve davalının da 885 TL tadilat nedeniyle eksik ödemeyi savunduğunun anlaşılmasına göre bu miktar üzerinden itirazın kaldırılması ve tahliyeye karar verilmesi gerekirken, yazılı şekilde red kararı verilmesi doğru değildir.
 
 ## Yargıtay HGK 2016/60 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/210270300)
 
 İhtiyaç iddiasına dayalı davalarda tahliyeye karar verilebilmesi için ihtiyacın gerçek, samimi ve zorunlu olduğunun kanıtlanması gerekir. Ayrıca kiralanın olduğu gibi veya basit tadilatlarla ihtiyaca uygun olduğu saptanmalıdır. Kiralananın ihtiyaca elverişli hale getirilmesi için yapılacak tadilat esaslı nitelikte ise ya da binanın ana yapısına zarar verecekse ihtiyaca elverişli olduğu kabul edilemez ve tahliyeye karar verilemez.
 
@@ -77,19 +93,27 @@ Kiralanana yapılacak yenilik ve değişikliklere ilişkin bir sözleşme hükm�
 
 ## Yargıtay 3. HD 2025/4226 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1175764800)
+
 Kira sözlesmesi kapsamında kiracıya tanınan kullanma hakkı, kiracıya kiralanan şey üzerinde keyfi olarak tadilat ve onarım yapma hakkı vermez. Zira, 6098 sayılı Kanun'un 316. maddesinin birinci fıkrası uyarınca, kiracı kiralananı özenle kullanmak ve aynı Kanunun 334 üncü maddesinin birinci fıkrası uyarınca ne halde teslim almışsa, kira süresi bitiminde o halde geri vermekle yükümlüdür. Kiracının, kiralananı özensiz kullanması ve zarar vermesi ne derece sözleşmeye aykırı bir davranış ise, esasında kiraya verenin bilgisi ve izni dışında kiralananda tadilat ve onarım yapması da aynı derecede sözlesmeye aykırı bir davranıştır. Bu nedenle kiracı, kural olarak, kiralananda ancak kiraya verenin açık veye zımni izniyle tadilat ve onarımlar yapabilir. Bu izinle kiracı, iznin kapsamına giren tadilat ve onarımları, sözleşmeden kaynaklanan borçlarını ihlal etmeksizin yapabilme imkanına sahip olur. Diğer taraftan, kiraya veren izin vermekle, bu çalışmaları ve giderlerini
 
 (benimsemediginde veya kiralananda deger artışına sebep olmadığında) borçlanmış değildir. Zira, burada kiraya verenin yapma borcununda olmadığı, diger bir anlatımla kiracının kiralama amacına uygun kullanmak için yaptıgı tadilat ve onarımlar söz konusu olduğundan, yapılan çalışma ve giderler doğal olarak kiracının yükümlülüğünde olacaktır. Dolayısıyla kiracı, kiraya verenin açık veya zımni rıza ile vermiş olduğu izinden, kira sözleşmesinin sonunda doğrudan bir tazminat talebinde bulunma hakkını çıkaramaz. Böyle bir tazminat hakkı, bu konuda bir kanun hükmünün bulunması (sebepsiz zenginlesme, vekaletsiz is görme gibi) veya özel bir anlaşmanın varlığı ile hak ve nesafetin gerektirmesi halinde söz konusu olabilir.
 
 ## Yargıtay 3. HD 2025/4032 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1173074000)
+
 Kural olarak; şartları bulunması halinde zorunlu ve faydalı masraflardan kiraya veren sorumludur; ancak sözleşme ile bu durumun aksi kararlaştırılabilir. Taraflar arasında akdedilen 08.07.2015 ve 03.07.2017 tarihli kira sözleşmelerinin (13.) ve (15.) maddelerinde her ne kadar "... yurt işletmeciliğini kolaylaştırıcı nitelikte yapılması gerekli tadilat işleri kiralayandan izin alınmasına müteakip kurum tarafından yaptırılacaktır." ibaresi yer alıyor ise de; masrafların kimin tarafından karşılanacağının belirlenmediği, bu haliyle kira sözleşmesinde aksine bir düzenlemeden bahsedilemeyeceği, yapılan masraflardan kiraya verenin sorumlu olduğu yönündeki değerlendirmede bir isabetsizlik bulunmadığı anlaşılmakla, davacı vekilinin temyiz itirazlarının reddi ile usul ve kanuna uygun bulunan kararın onanmasına karar verilmiştir.
 
 ## Yargıtay 3. HD 2025/2815 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1155287700)
+
 Somut olayda; 01.01.2002 tarihli kira sözleşmesinin (5.) maddesinde, "Kiraya veren kiracının taşınmazın kullanım amacına uygun her türlü tadilat ve ekleri bina statik yapısına zarar vermemek koşulu ile yapmasına izin vermiştir.", (6.) maddesinde " Taşınmazın tahliyesi halinde kiraya verenin istemine göre eski haliyle veya bila bedel tadilatlı haliyle teslim edecektir." hükümleri kararlaştırılmıştır. Hukukumuzda sözleşmeye bağlılık ilkesi esas olup taraflar serbest iradeleri ile oluşturdukları kira sözleşmesi ile bağlıdır. Sözleşmenin bu maddesi kapsamına göre, kiracının, kiralananı teslim aldığı gibi eski hale getirerek teslim etmesi gerekmekte olup kiraya verenin kiralananın eski hale getirilmesini veya bu nedenle yapılacak masrafları talep etme hakkı vardır. Ancak kiraya veren, kiracı tarafından yaptırılan kiralananın kullanım amacına uygun ve zorunlu olan, kendisi tarafından da benimsenen imalatların eski hale getirilmesi için gereken masrafı talep edemez.
 
 ## Yargıtay 3. HD 2025/2621 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1158460300)
 
 Kural olarak kiracı tarafından kiralanana yapılan faydalı ve zorunlu imalat bedellerinin vekâletsiz işgörme ve sebepsiz zenginleşme hükümlerine göre kiraya verenden istenmesi mümkündür. Yargıtayın yerleşik uygulamaları, kiracının kiralanana yaptığı faydalı ve zorunlu masrafların, yapıldığı tarih itibariyle belirlenecek değerinden yıpranma payı düşülmek suretiyle elde edilecek değeri isteme hakkı olduğu yönündedir. Kural olarak bu gibi zorunlu ve faydalı masrafların kira sözleşmesinin başlangıcında yapılmış olduğu kabul
 
@@ -98,10 +122,14 @@ Sonuçta yukarıda belirtilen şekilde yapılacak hesaplama sonucu bulunacak kir
 
 ## Yargıtay 3. HD 2025/2516 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1147770400)
+
 Dairenin 27.09.2022 tarihli ilamıyla; tarafların sair temyiz itirazlarının reddine karar verildikten sonra, "....Somut olayda; taraflarca düzenlenen, 01.08.2012 başlangıç tarihli ve bir yıl süreli kira sözleşmesinin özel şartlar (6.) maddesinde; "Mal sahibi izin vermesi halinde, bilcümle faydalı masraflar yapabilir. Tahliye halinde mal sahibine ücretsiz bırakılır." düzenlemesi yer almaktadır. Bu sözleşme hükmü gereği; davacı kiracı, yaptığı faydalı ve masrafları talep edemez ise de davacının kiralananı sözleşme süresi dolmadan tahliye ettiği hususunda taraflar arasında uyuşmazlık yoktur. Bu halde, davacı kiracı, kiralananı erken tahliye etmiş olması nedeniyle kiralanana yapmış olduğu ve söküp götüremediği faydalı ve zorunlu nitelikteki imalatların değerini, kalan kira süresiyle orantılı olarak kiraya verenden talep edebilir. Hükme esas alınan bilirkişi raporunda, davacının yaptığı imalatların toplam bedelini, yıpranma bedeli düşmeksizin 17.897,00 TL olarak belirlemiş, bu imalatların bir kısmının faydalı ve zorunlu imalatlar olmadığı belirtilmiştir.
 Hal böyle olunca, Mahkemece; davacı kiracının, kiralanana yaptığı imalatların, hangilerinin zorunlu ve faydalı masraflar, hangilerinin lüks masraflar olduğunun belirlenmesi, alınıp götürülmesi mümkün olmayan imalâtların imalât tarihi itibariyle yıpranma payı düşülmüş bedellerinin tahliye tarihinden kalan kira süresi ile orantılı olarak tespiti ile sonucuna göre karar verilmesi gerekirken, eksik inceleme ile hazırlanmış bilirkişi raporu esas alınarak yazılı şekilde karar verilmiş olması, doğru görülmemiş bozmayı gerektirmiştir. " gerekçesiyle, karar bozulmuş; karara karşı, süresi içinde davacı vekili ve davalı ... vekili karar düzeltme isteminde bulunmuştur.
 
 ## Yargıtay 3. HD 2025/781 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1129712300)
 
 Dairemizin 15.09.2021 tarihli bozma ilamında, davacı kiracı tarafından yapılan zorunlu ve faydalı masraf niteliğindeki tadilatların imalat tarihi itibariyle yıpranma payı düşülmüş bedellerinin kalan kira süresi ile orantılı olarak tespiti ile sonucuna göre karar verilmesi gerektiği belirtildiği halde, bozma gereği tam olarak yerine getirilmemiştir. Bilirkişi
 
@@ -109,14 +137,20 @@ tarafından hesaplanan bedelin, kalan kira süresi bakımından oranlama yapıla
 
 ## Yargıtay 3. HD 2025/67 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1121170700)
+
 Kural olarak kiracı tarafından kiralanana yapılan faydalı ve zorunlu imalat bedellerinin vekâletsiz işgörme ve sebepsiz zenginleşme hükümlerine göre kiraya verenden istenmesi mümkündür. Yargıtayın yerleşik uygulamaları, kiracının kiralanana yaptığı faydalı ve zorunlu masrafların, yapıldığı tarih itibariyle belirlenecek değerinden yıpranma payı düşülmek suretiyle elde edilecek değeri isteme hakkı olduğu yönündedir. Kural olarak bu gibi zorunlu ve faydalı masrafların kira sözleşmesinin başlangıcında yapılmış olduğu kabul edilmektedir. Kiralananın üçüncü kişiye satılması ile satış tarihinden önce gerçekleştirilen zorunlu ve faydalı masrafların satış bedeli içinde kaldığı, taşınmazı satın alan üçüncü kişinin taşınmazı mevcut hali ile görerek aldığı kabul edildiğinden, sebepsiz zenginleşen taraf kiralananın eski maliki olmaktadır. Kiraya veren faydalı imalatları benimsemiş, bu haliyle yeni malike satmış ve kiracı aleyhine sebepsiz zenginleşme meydana gelmiştir.
 
 ## Yargıtay 3. HD 2024/3737 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1108947100)
 
 Yukarıdaki açıklamalara göre, temyiz olunan Bölge Adliye Mahkemesi kararında; hukuki ilişkiye yukarıda yer verilen hukuk kurallarının doğru şekilde uygulandığı, 01.01.2011 başlangıç tarihli ve on yıl süreli kira sözleşmesi ile kiralanan bodrum katın market olarak kullanılacağının kararlaştırıldığı, davacı kiracının basiretli bir tacir gibi davranıp kiralananla ilgili gerekli araştırmaları yaptıktan sonra kira sözleşmesini imzaladığının kabulü gerektiği, kiralananın 04.03.2013 tarihinde ruhsatsız faaliyette bulunulduğu gerekçesiyle mühürlenerek, sanat ve ticaretten men edilmesi üzerine eldeki davanın açıldığı, kira sözleşmesinin imzalanmasından kiralananın feshine kadar aradan uzunca bir süre geçtiği, bu süre içerisinde de kiralananın kararlaştırılan kullanım şekline uygun olarak kullanıldığı, bu durumda feshin haklı olduğundan bahsedilemeyeceği, kaldı ki aynı davada hem menfi hem müspet zararın istenebilmesinin mümkün olmadığı, basiretli tacir olan davacının sözleşme hükümleriyle bağlı olduğu, hükme esas alınan bilirkişi raporu ile davacının taşınmazı imalat bırakmadan tahliye ettiği ve taşınmazda aktif faaliyetin mevcut olmadığının belirlendiği, bu durumda taşınmazda değer
 artırıcı masraf ve harcamaların bulunmaması nedeniyle davalının tadilat ve dekorasyon için talep edilen bedelden de sorumlu olmadığı anlaşılmakla; davacı vekilinin temyiz itirazlarının reddi ile usul ve kanuna uygun bulunan kararın onanmasına karar vermek gerekmiştir.
 
 ## Yargıtay 3. HD 2024/2914 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1088673500)
 
 Yapılan bu açıklamalar ışığında somut olay değerlendirildiğinde; anahtar teslim tarihine kadar davacı kiracının kira bedelinden sorumlu olduğu, 12.12.2014 tarihli Yapı Tatil Tutanağında kiralananın ruhsatsız olarak inşaa edildiği belirtilmiş olup sözleşme gereğince kiranın başladığı tarihte ve sözleşme süresi boyunca kiralananın kullanılmaya elverişli hukuki ayıptan ari bir şekilde teslim borcunun kiraya veren davalıya ait bulunduğu, kiralananın teslimi sırasında mevcut olan ve yapı maliki tarafından bilinmesi gereken söz konusu ayıp nedeniyle kiraya veren kusurlu olduğundan faydalı ve zorunlu masraf
 
@@ -124,14 +158,20 @@ bedelinden sorumlu olduğu, kira sözleşmesinin 12. maddesinde; "Kiracının ki
 
 ## Yargıtay 3. HD 2024/2902 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1104767300)
+
 Taraflar arasında 22.07.2015 tarihli ve 25 yıl süreli kira sözleşmesi bulunmakta olup, davalı kiraya veren tarafından sözleşmedeki imzanın inkar edilmediği gibi sözleşmenin geçersizliği hususunun da ispat edilemediği anlaşılmaktadır. Sözleşmede " Bu iş yerleri 25 yıllık olarak ... Müh. San. Tic. Ltd. Şti'ye kiraya verilmiş olup, kiracı iş yerleri içinde yapmış olduğu Tadilatların karşılığı olan 60.000,00 Euro kiracı firmaya ödeyecek ve Günü dolmadan iş yerini Satar ise veya Boşaltmak ister ise kiracıya 40.000,00 Euro toplam 100.000,00 Euro ödemeyi kabul etmiştir. Kiracı da yaptığı tadilatı öylece bırakacaktır. Tadilat önceki tarihte yapıldı. Toplam 60.000,00 Euro harcandı. Kiracı bu iş yerlerini 3 ncü kişilere Devir edebilir ve kiralar ..." hükmü kararlaştırılmıştır. Tarafların serbest iradesi ile kararlaştırılan bu hüküm geçerli olup tarafları bağlayıcıdır. İlgili maddede, açıkça kiralanana yapılan tadilat bedelleri belirlenmiş ve imza altına alınmış olmakla, şartın gerçekleşmesi ile kiracının bu maddeye istinaden kararlaştırılan tadilat bedelinin tahsilini istemesinde bir usulsüzlük bulunmamaktadır.
 Bu durumda İlk Derece Mahkemesince; yukarıda açıklanan ilkeler ve sözleşme hükümleri birlikte değerlendirilerek sonucuna göre bir karar verilmesi gerekirken, yanılgılı değerlendirme ile yazılı şekilde karar verilmiş olması doğru görülmemiş, bozmayı gerektirmiştir.
 
 ## Yargıtay 3. HD 2024/2203 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1088806800)
+
 Uyulan bozma ilamı doğrultusunda Mahkemece incelenerek araştırma yapılmasına, kararda belirtilen gerekçeye ve kural olarak kiracının kiralanana yaptığı kalıcı nitelikte olan faydalı veya zorunlu masrafları talep edebileceği gözetildiğinde , kiracının kira sözleşmesi süresi içinde kiralananın yeniden sürüme hazır hale getirilmesi amacıyla yaptığı giderleri talep edemeyeceğinin anlaşılmasına göre, davacı vekilinin temyiz itirazlarının reddi ile usul ve kanuna uygun olan kararın onanmasına karar vermek gerekmiştir.
 
 ## Yargıtay 11. HD 2024/5708 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1063343800)
 
 A.Ş. şirket kaşesinin bulunmadığı, davacı tarafından ... A.Ş.'ye gönderilen ihtarnameye cevaben ... A.Ş. tarafından gönderilen ihtarnamede ... Eğitim Kurumları A.Ş. ile ... A.Ş. arasında kira sözleşmesi imzalanmadığı ve 141.600,00 TL bedelli çek verilmediğinin belirtildiği, davalı ...'ın ortağı olduğu dava dışı ... şirketi ile ... Okulları arasında franchising sözleşmeleri bulunmakta olup ilgili sözleşmelerdeki adres ile 11.03.2016 tarihinde dava dışı ... Eğitim Kurumları A.Ş. arasında imzalandığı belirtilen kira sözleşmesindeki adresin farklı
 
@@ -139,11 +179,15 @@ olduğu, davacı tarafça ... A.Ş.'ye 141.600,00 TL bedelli çek verildiği ve 
 
 ## Yargıtay 3. HD 2024/1279 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1060939700)
+
 Yargıtay (Kapatılan) 6. Hukuk Dairesinin 27.09.2012 tarihli ve 2012/8468 E, 2012/12325 K. sayılı ilamıyla; davada dayanılan ve hükme esas alınan 01.03.2007 başlangıç tarihli ve beş yıl süreli kira sözleşmesi ile davacı kiracının hipermarket kurmak üzere kiraladığı taşınmazın;
 Mart ve Nisan 2007 ayları kirasını kiraya veren davalı şirketlere, kiralananın Nisan 2007 tarihinde gerçek kişi davalılara satılmasından sonra da Mayıs 2007 ayı kirasını adı geçenlere ödeyip, kiralananda da kullanma amacına uygun şekilde bir kısım imalat ve tadilatlara başladıktan sonra yeni malik davalılara 09.07.2007 tarihinde keşide ettiği ihtarname ile kiralananın gazete ilanlarından farklı özeliklerde bulunduğunu, taahhütlerin yerine getirilmediğini, kiralananın kullanmaya elverişli şekilde teslim edilmediğini ve bu konuda temerrüte düşüldüğünü, taşınmazın iskan ruhsatının alınmadığını, yaşananlar nedeniyle ağır zararlara uğradığını, sözleşmenin kendisi açısından çekilmez hale geldiğini belirterek, sözleşmeyi feshettiğini bildirip ödenen kira paraları ile uğranılan 645.000,00 TL zararın üç gün ödenmesini istediğini, davacı kiracının, basiretli bir tacir olarak, hipermarket olarak kullanmak amacıyla kiraladığı taşınmazın nitelik ve özellikleri konusunda gazete ilanları ile yetinmeyip gerek hukuki, gerek fiziki özellikleri yönünden gerekli araştırmayı yaptıktan sonra kira sözleşmesini imzalaması gerekirken, bu yönde çalışma yapmadan hata ve hileden söz ederek bu durumu
 sözleşmenin feshi için gerekçe olarak kullanmasının kabul edilemeyeceği, diğer yandan davacının taşınmazın inşaat halinde olduğunu görerek ve bilerek kiraladığı, tamamlanmamış bir inşaat için belediyeden iskan ruhsatı alınmadığını ileri sürmesinin de fesih sebebi olamayacağı, ayrıca davacı taşınmazın kendisine teslim edilmediğini iddia etmekle birlikte kiralanana girdiği ve bir kısım imalatlar ve tadilatlar yaptığını da dava dilekçesinde ayrıntılı şekilde belirttiği, yine kira sözleşmesini tapu siciline şerh ettirmesi ve sonradan da sildirilmesi giderlerine kendisini katlanması gerektiği, davacının sözleşmeyi haklı nedenlerle feshettiğinden söz edilemeyeceği, bu itibarla Mahkemenin sözleşmenin feshini haklı kabul ederek sözleşmenin feshinin geçerli olduğunun tespitine, davacının kullanımında olan sürelere ilişkin kira paralarının iadesi ile kira sözleşmesinin tapu siciline şerh edilmesi ve terkini için yapılan masrafların tahsiline ilişkin hükmün yerinde olmadığı, bununla birlikte davacının, dava dilekçesinde kiralanan için yaptığı imalat ve tadilat bedellerini de faydalı ve zorunlu masraflar olarak talep ettiği, yapılan yargılama sırasında alınan bilirkişi raporu ile de bunların
 bedelinin 22.460,00 TL olduğunun belirlendiği, davacının bu giderleri isteyebilmesi için kira sözleşmesinin sona ermesi ve kiralananın tahliye edilmesi gerektiği, bu durumda Mahkemece sözleşmenin feshi ile birlikte tahliye unsurunun da gerçekleşip gerçekleşmediği tespit edilerek bu kalem alacak hakkında hüküm kurulması gerekirken eksik inceleme sonucu yazılı şekilde karar verilmesi doğru görülmediği gerekçesiyle, Mahkeme kararı bozulmuştur.
 
 ## Yargıtay 3. HD 2024/637 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1019374400)
 
 2\. 6098 sayılı Kanunun 530 uncu maddesinde; işgörenin yaptığı faydalı ve zorunlu giderlerden alınıp götürülmesi mümkün olmayan ve iş sahibi tarafından benimsenenlerin yapıldıkları tarihler itibariyle bedellerini vekaletsiz iş görme hükümlerine göre isteyebileceği düzenlenmiştir. Bu madde doğrultusunda yerleşik Yargıtay uygulamalarına göre; kiracının, kiralanana yaptığı kiraya veren tarafından benimsenen faydalı ve zorunlu masrafların yapıldığı tarih itibariyle belirlenecek değerinden yıpranma payı düşülmek suretiyle elde edilecek değeri isteme hakkı olduğu yönündedir. Kural olarak bu gibi zorunlu ve faydalı masrafların aksi kanıtlanmadığında kira sözleşmesinin başlangıcında yapılmış olduğu kabul edilmektedir.

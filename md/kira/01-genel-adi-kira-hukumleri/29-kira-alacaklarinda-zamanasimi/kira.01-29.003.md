@@ -22,10 +22,14 @@ uyari: "Derleyenin seçtiği alıntılardır; kararın tamamı değildir. Künye
 
 ## Yargıtay 6. HD 2012/9251 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1054049400)
+
 Davada dayanılan ve hükme esas alınan 20.11.1997 başlangıç tarihli ve altı yıl süreli kira sözleşmesi konusunda taraflar arasında uyuşmazlık bulunmamaktadır. Sözleşme ile davalının mülkiyetine geçen ... ... Köyü ... Mevkili 5615 ve 5616 parsellerde bulunan tekstil fabrikası davacıya kiralanmıştır. Davacı açmış olduğu işbu dava ile kiralanan taşınmaz için yapmış olduğu ve faydalı-zorunlu gider olarak nitelendirdiği kızgın yağ kazanı ve Transcal yağ bedelinden daha önce görülen davada hüküm altına alınan 6.000 TL'nin dışında kalan bakiye 102.822 TL'nin tahsilini istemiştir. Mahkemece her ne kadar sebepsiz zenginleşmeye dayalı olarak açılan davada taşınmazın 04.08.2005 tarihinde tahliye edilmesi nedeniyle 03.06.2011 tarihinde açılan işbu ek davada Borçlar Kanunu'nun 66. maddesi hükmü gereği bir yıllık zamanaşımı süresi dolduğundan söz edilerek davanın reddine karar verilmiş ise de, davacının alacağı taraflar arasında düzenlenmiş kira sözleşmesinden kaynaklandığından ve aynı yasanın 125. maddesi gereğince on yıllık zamanaşımı süresine tabi olduğundan, anılan yasal düzenleme ve taraflar arasında daha önce görülen Bursa 1.
 Asliye Ticaret Mahkemesi'nin 23.08.2011 gün ve 2005/315 Esas ve 2011/160 Karar sayılı dosyası ile birleştirilen aynı mahkemenin 2005/452 Esas ve 2005/597 Karar sayılı dosyası göz önüne alınarak işin esası hakkında bir karar verilmesi gerekirken yazılı şekilde hüküm kurulması doğru görülmediğinden kararın bozulması gerekmiştir.
 
 ## Yargıtay 6. HD 2012/6067 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/561586300)
 
 İcra takibinde ve davada dayanılan, hükme esas alınan 02.01.2003 başlangıç tarihli ve bir yıl süreli kira sözleşmesi konusunda taraflar arasında uyuşmazlık bulunmamaktadır. Sözleşmede kira paralarının her ay peşin ödeneceği kararlaştırılmıştır. Bu şart geçerli olup tarafları bağlar. Davacı anılan kira sözleşmesine dayanarak davalı hakkında 09.04.2010 tarihinde Ocak 2003-Ocak 2005 arası kira parasının tahsili için ... 4. İcra Müdürlüğü'nün 2010 / 5886 sayılı dosyası ile icra takibi yapmış, takibe yasal süresi içinde itiraz eden davalı, kiralananı oniki ay süre ile işletmesine rağmen kendisinden yirmialtı aylık kira parasının istendiğini, borca bu nedenle itiraz ettiğini belirtmiştir. İtiraz üzerine açılan işbu itirazın iptali davasında da yasal süresi içinde zamanaşımı def'inde bulunmuştur. Mahkemece, takip konusu yapılan Ocak 2005 kirasının muaccel olduğu tarihten takip tarihine kadar beş yılı aşkın süre geçmesi nedeniyle Borçlar Kanunu'nun 126 / 1 maddesi hükmü gereğince zamanaşımı nedeniyle davanın reddine karar verilmiş ise de, davacı tarafından davada dayanılan icra takibinden önce 06.07.2007 tarihinde ... 1.
 İcra Müdürlüğü'nün 2007 / 4803 sayılı dosyası ile yine aynı alacak nedeniyle davalı hakkında icra takibi yapılmıştır. Borçlar Kanunu'nun 133 / 2. maddesi hükmü gereğince alacaklının borçlu aleyhine icra takibine başlaması işleyen zamanaşımını kesen bir nedendir. Her ne kadar anılan icra takibinde
@@ -34,17 +38,25 @@ Asliye Ticaret Mahkemesi'nin 23.08.2011 gün ve 2005/315 Esas ve 2011/160 Karar 
 
 ## Yargıtay 6. HD 2012/3398 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/566051700)
+
 Davacı taraf, davalının sebepsiz zenginleştiğini iddia etmiş ise de, davalı ile aralarında düzenlenen kira sözleşmesine dayandığından mahkemenin davada, sebepsiz zenginleşmeye dayalı olarak BK 66/1 maddesi gereği, 1 yıllık zamanaşımı süresini kabulü doğru değildir. Zamanaşımı süresinin belirlenmesinde, kira sözleşmesi esas alınarak BK 125. maddesi uyarınca, talebin 10 yıllık süreye tabi olduğunun kabulü gerekir. Mahkemece, zorunlu ve faydalı masrafların bozma ilamı çerçevesinde satış tarihine kadar taşınmaza eklenen ve taşınmazın satış bedelini etkileyen bölümünün belirlenmesi ve sonucuna göre karar verilmesi gerekirken yazılı şekilde karar verilmesi hatalı olmuştur.
 
 ## Yargıtay 6. HD 2011/2200 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1056566300)
 
 22.5.2008 tarihinde açılmış olduğundan ve davalı süresinde zamanaşımı def’inde bulunduğundan davacı ...’ın 22.5.2003 tarihinden önceki kira parası ve faiz alacağı talebinin dinlenip hüküm altına alınması mümkün değildir. Adı geçen davacının bu süre zarfında Borçlar Kanunu’nun 133. maddesi gereğince icra takibi yapma, dava açma ve benzeri gibi zamanaşımını kesecek bir faaliyeti de olmamıştır. Bu durumda mahkemece davacı ...’ın 22.5.2003-Eylül 2007 tarihleri arasındaki kira parası ve faiz alacağının hüküm altına alınması gerekirken zamanaşımı kapsamına giren alacakların da tahsiline karar verilmesi doğru görülmediğinden hükmün bozulması gerekmiştir.
 
 ## Yargıtay 13. HD 2010/18373 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/780585800)
+
 BK.nun 126. Maddesi hükmüne göre kira alacaklarında 5 yıllık zamanaşımı uygulanır. Davacının ödeme tarihleri gözetildiğinde, ıslah tarihi itibarıyla zamanaşımı dolmadığı halde bu kısım talep yönünden davanın reddine karar verilmesi usul ve yasaya aykırı olup bozmayı gerektirir.
 
 ## Yargıtay 20. HD 2010/16049 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/825562500)
 
 Orman kadastrosunun kesinleştiği yerlerde bir yerin orman sayılan yerlerden olup olmadığının kesinleşmiş orman kadastro tutanak ve haritalarının yöntemince uygulanması
 
@@ -56,17 +68,25 @@ kaydına tutunan tarafların ve Hazine ile Orman Yönetiminin tanıkları ve yer
 
 ## Yargıtay 6. HD 2010/5814 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/641808400)
+
 Borçlar Kanunu'nun 125. maddesi gereğince, başka suretle hüküm mevcut olmadığı takdirde, her dava on senelik müruru zamana tabidir. Aynı Yasa'nın 126. maddesinde ise kira alacağına ilişkin davalar hakkında beş senelik zamanaşımının geçerli olacağı hükme bağlanmıştır. Zamanaşımı, alacak hakkının belli bir süre kullanılmaması yüzünden "dava edilebilme" niteliğinden yoksun kalabilmesini ifade eder. Def'i ise borçlanılmış bir edimin devamlı veya geçici olarak yerine getirilmesinden kaçınmaya olanak sağlayan bir haktır. Bu tanımdan da anlaşılabileceği gibi zamanaşımı, alacak hakkını sona erdirmeyip, sadece onu "eksik bir borç" haline dönüştürür ve dolayısıyla "alacağın dava edilebilme" niteliğini ortadan kaldırır. Zamanaşımı, HUMK 75 ve Borçlar Yasasının 140. maddesi gereğince kişisel bir savunma nedeni olup savunulmadığı zaman mahkemece doğrudan doğruya gözetilemez.Bir başka deyişle zamanaşımının davayı etkisiz bırakması kendiliğinden gerçekleşmemekte ve ancak borçlunun iradesine bağlı bulunmaktadır.Genel olarak savunma nedenlerinin ve bu arada zamanaşımı savunmasının esasa cevap süresi içinde bildirilmesi gereklidir.
 
 ## Yargıtay 3. HD 2010/1965 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/632978300)
 
 10.02.2000 tarihli protokol ile yapılacak olan kira sözleşmesine konu olan taşınmazın kira parasının mahsuben 2.000.000.000 TL.(2.000) ödendiği kabul edilmiş ise de; BK.nun 126/1. maddesinde kabul edilen beş yıllık zamanaşımı süresi Yerleşmiş Yargıtay Uygulamasına göre, sadece kira alacağı yönünden geçerli olduğundan temyize konu edilen davada BK.nun 126/1.maddesinde düzenlenen beş yıllık zamanaşımı süresi değil, BK.nun 125.maddesindeki genel zamanaşımı süresinin uygulanması gerekir. Anılan maddeye göre de, bu süre dolmadığına göre, işin esasına girilerek hüküm kurulması gerekirken, davanın zamanaşımı nedeniyle reddedilmiş olması doğru olmamıştır.
 
 ## Yargıtay 14. HD 2008/8612 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/850124300)
+
 Her ne kadar Borçlar Kanunu’nun 126. maddesinin 1. bendinde kira karşılığı alacaklar için 5 senelik zamanaşımı süresi öngörülmüş ise de; bu hüküm kira sözleşmesinden ... her türlü alacak kalemleri için değil, sadece kira karşılığı alacakların tahsili için açılan davalarda uygulanır. Eldeki dava, kira alacağı için açılmış bir dava olmayıp, davada kiralayan yedinde kaldığı ileri sürülen demirbaşlar bedelinin tahsili için açıldığından, dava Borçlar Kanunu’nun 125. maddesince 10 senelik zamanaşımına tabidir. Olayda otel işletmesinin üçüncü kişilere kiralanması 26.12.1998 tarihinde yapıldığından Borçlar Kanunu’nun 128. maddesi hükmünce 10 yıllık zamanaşımı süresi 26.12.2008 tarihinde dolar, dolayısıyla 05.03.2004 tarihinde açılan davada zamanaşımı savunması yerinde değildir.
 
 ## Yargıtay 13. HD 2006/6126 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/841668300)
 
 Taraflar arasında mevcut kira sözleşmesinin 5.maddesinde "Kiracı, kiralananda tadilat yapamaz. Husule gelen hasar ve zarardan sorumludur. Kiracı kiralanana ilave herhangi bir eklenti ve yapı değişikliği yaptığı takdirde, bunları tahliye esnasında söküp alamaz ve kiralayandan bir hak talep edemez" hükmünü içermekle davacı, davalı kiralayandan taşınmaza yaptığı zorunlu ve faydalı giderleri isteyemez. Kaldı ki taraflar arasında mevcut kira sözleşmesinden doğan dava ve talep hakkı BK 125.maddesi hükmü gereği 10 yıllık
 
@@ -80,6 +100,8 @@ TMK'nın 4. maddesi uyarınca yerinde olduğuna göre aşağıdaki kısım dış
 
 ## İstanbul BAM 3. HD 2026/966 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1203076900)
+
 ... A.Ş ile 28.03.2011 tarihli kira sözleşmesi ve 11.03.2013 tarihinde ek Sözleşmeyi akdettiği, 28.03.2011 tarihli sözleşme uyarınca ... ... A.Ş hesabına yatırılması gereken 31.03.2014- 30.03.2015 dönemine ait 31.704,43 TL ve 31.03.2015 - 30.03.2016 dönemine ait 29.437,88 TL tutarındaki kira bedellerinin sehven davalı ....A.Ş. hesabına yatırıldığı,Yapılan bu hatanın davacı tarafından 08.06.2017 tarihinde tespit edilmesi üzerine duru- mun davalı tarafa elektronik posta ve telefon yoluyla bildirildiği,ayrıca ihtarname gönderildiği,Davalının iadeden kaçınması nedeniyle davacı tarafından davalı aleyhine İstanbul 12. İcra Müdürlüğü'nün ...
 Esas sayılı dosyası ile takip başlatılarak, 61.142,31 TL asıl alacak + 8.933,89 TL işlemiş faizden ibaret toplam 70.076,20 TL alacağın tahsilinin talep edildiği, davalının itirazı üzerine takip durduğundan eldeki davanın açıldığı anlaşılmıştır.Zamanaşımı ile ilgili olarak;6098 sayılı Türk Borçlar Kanunu'nun 82. maddesinin birinci fıkrasına göre; sebepsiz zenginleşmeden doğan istem hakkı, hak sahibinin geri isteme hakkı olduğunu öğrendiği tarihten başlayarak iki yılın ve herhalde zenginleşmenin gerçekleştiği tarihten başlayarak on yılın geçmesiyle zamanaşımına uğrar. İki yıllık zamanaşımı süresi, hak sahibinin, mal varlığındaki eksilmeye yol açan işlemi ve sebepsiz zenginleşeni tam olarak öğrendiği tarihten itibaren işlemeye başlar.Eldeki davada, davacının davalı tarafa sehven ödeme yapıldığı hususu 08.06.2017 tarihinde tespit ettikleri yönünde beyanda bulunduğu, (dosya kapsamında aksi yönde bilgi ve belge bulunmadığı),
 
@@ -88,16 +110,22 @@ Bu itibarla, borçlu, karışma veya birleşme gibi bir sebeple mülkiyetini seb
 
 ## İstanbul BAM 12. HD 2026/533 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1201135600)
+
 Her ne kadar davalı yükün gemiden tahliyesinden itibaren 1 yıllık zamanaşımı süresinin dolduğunu ileri sürmüş ise de davacının alacağının fiili taşıya ödeme yaptığı 22/10/2021 tarihinde muaccel hale geldiği, zamanaşımı süresinin de bu tarihten işlemeye başladığı, arabuluculuk başvurusunun 26/11/2021 tarihinde başladığı, davanın ise 15/01/2022 tarihinde açıldığı anlaşılmakla davalının zamanaşımına ilişkin istinaf nedenleri yerinde görülmemiştir.Davacı, kendi ödemek zorunda kaldığı demurajı 20/09/2021 tarihli 11.485,13-USD tutarlı demuraj faturasını davalıya aynı tutarda yansıtmıştır. Akdi taşıyıcı davacının demuraj belirleme yetkisi bulunmamakta olup fiili taşıyan tarafından düzenlenen demuraj bedellerine katlanmak zorunda kaldığından kendi katlanmak zorunda kaldığı demuraj bedellerini davalıdan istemekte haklıdır. Bu nedenle taşımada akdi taşıyan sıfatı ile yer alan ve demuraja katlanan davacıya karşı ileri sürülen istinaf nedenleri yerinde değildir. Bununla birlikte; HMK'nın 297/2 maddesi uyarınca;
 "hükmün sonuç kısmında, gerekçeye ait herhangi bir söz tekrar edilmeksizin, taleplerden her biri hakkında verilen hükümle, taraflara yüklenen borç ve tanınan hakların, sıra numarası altında; açık, şüphe ve tereddüt uyandırmayacak şekilde gösterilmesi gereklidir". HMK'nın 298/2. maddesinde ise gerekçeli kararın, tefhim edilen hüküm sonucuna aykırı olamayacağı düzenlenmiştir. Mahkemece kararın gerekçesinde zamanaşımı definin sehven reddine karar verildiği belirtilmekle kararın gerekçesi ile hüküm arasında çelişki meydana gelmiştir.
 
 ## İstanbul BAM 43. HD 2026/194 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1201559000)
 
 Gecikme tazminatı, sözleşmede kararlaştırılmamış olsa bile zamanaşımı süresi içerisinde, her zaman rayiç kira üzerinden istenebilir; sözleşmede kararlaştırılmışsa ayrıca zararın kanıtlanmasına gerek yoktur.Somut olayda, davalı tarafından imzası inkar edilen 10.11.2017 tarihli Taşınmaz Satış Vaadi Sözleşmesinin aslı temin edilemediğinden imza incelemesi yaptırılamamış ve davacı tarafından sözleşmedeki imzanın davalıya ait olduğu ispat edilememiştir, bu durumda sözleşmedeki 8. maddenin uygulanması mümkün olmasa da, davacının gecikme tazminatını, sözleşmede kararlaştırılmamış olsa bile zamanaşımı süresi
 
 içerisinde isteyebileceği, davalının taşınmazı 2019 yılı Şubat ayında teslim edilmesi gerekirken 2019 yılı Haziran ayında teslim ettiğini beyan etmesi ve 15.01.2020 tarihinde gecikmeden dolayı... Kira Bedeli açıklaması ile 5.000,00TL ödeme yapmış olması, davacının 30.09.2018-30.01.2020 tarihleri arasında 16.000,00 TL davalının ödemesinden sonra, 11.000,00 TL gecikmeden kaynaklı zararı olduğunun ispatlayamamış olması karşısında, her ne kadar Mahkemenin tespiti hatalı olsa da sonucu itibariyle doğru olması medeniyle Mahkemece davanın reddine karar verilmesinde bir isabetsizlik görülmemiştir.HMK'nın 355. maddesi uyarınca kamu düzenine aykırılık ve istinaf dilekçesinde belirtilen sebeplerle sınırlı olarak yapılan istinaf incelemesi sonunda; ilk derece mahkemesi kararının usul ve esas yönünden hukuka uygun olduğu anlaşıldığından davacı vekilinin yerinde görülmeyen istinaf başvurusunun reddine karar verilmiştir.
 
 ## İstanbul BAM 13. HD 2026/179 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1193363500)
 
 Mahkemece verilen kararda davalı şirket ile ilgisi bulunmayan üçüncü şahıslar ile davalı arasında zorlama bağlantılar kurularak organik bağın mevcut olduğundan söz edilemezken davanın kabulüne karar verildiği, organik bağın varlığından bahsedilebilmesi için gereken koşulların hiçbirisinin mevcut olmadığı, dava dışı borçlu şirket ile davalı şirketin ortakları ve yetkililerinin aynı kişiler olmadığı, şirketlerin kayıtlı adreslerinin de farklı olduğu, aynı adreste faaliyet göstermedikleri, dosyaya sunulan haciz tutanağındaki adresin dava dışı borçlu şirkete ait adres olmadığı ve bu adreste dava dışı şirkete ait herhangi bir evraka rastlanmadığı, dava dışı ...'nun davalı şirket hisselerini 2012 yılında devrettiği ve davalı şirket ile ilişkisinin bu tarihte sona erdiği, davacının satış sözleşmesini yaptığını iddia ettiği tarihin ise 2015 yılı olduğu, bu kişinin davalı şirket ile hiçbir bağının kalmadığı ve gerekçeli kararda bu kişiden neden bahsedildiğinin dahi anlaşılmadığı, kararda bahsedilen diğer şirketler ile davalı şirketin hiçbir ilgisinin olmadığı, haciz mahallinde başka şirketlere ait kaşelere rastlanılması sebebiyle dava dışı borçlu şirket ile davalı arasında organik bağ
 kurulmaya çalışılmasının anlaşılır olmadığı, ayrıca ... ile dava dışı borçlu ...
@@ -106,10 +134,14 @@ zamanaşımı itirazı hakkında herhangi bir karar verilmediği, bu sebeplerle 
 
 ## Ankara BAM 21. HD 2025/1801 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1193005800)
+
 25/11/2002 tarihli kira sözleşmesiyle birlikte davalıya stokta bulunan 23.069,00 TL bedelli malzemeyi de devretmiş olduğunun kabulü gerekeceği, emtia bedelinin dava dışı temlik edene ödenmiş olduğuna dair bir bilgi ve belge bulunmadığından davalının 23.069,00 TL alacağı bulunduğu, temliknamenin geçerli olduğu, her ne kadar malzeme ve ekipman bedeline ilişkin faturadan doğan borcun ödenmiş olduğu tespit edilmiş ise de, mahkemece aksinin kabulü ihtimali sebebiyle bu alacak için geçerli 10 yıllık zamanaşımı süresinin 03/09/2001 tarihinde başladığı ve alacağın 03/09/2011 tarihinde zamanaşımına uğradığı, stokta bulunan malların bedeline ilişkin 23.069,00 TL alacak için geçerli 10 yıllık zamanaşımı süresinin 23/11/2002 tarihinde başladığı ve alacağın 23/11/2012 tarihinde zamanaşımına uğramış olduğu, ayrıca raporda davacının bir kısım taleplerinin değerlendirilmesi için bilirkişi kurulunda bu hususlarda inşaat mühendisi ve maden mühendisi bulunmadığından davalının kum ocağı devrinden dolayı dava dışı ...
 İnşaat Taahhüt Turizm Sanayi ve Ticaret Limited Şirketi’ne bir borcu bulunup bulunmadığı hususunun, var ise miktarının belirlenmesi hususunda görüş bildirmesinin mümkün olmadığı bildirilmiştir.
 
 ## İstanbul BAM 44. HD 2025/1779 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1185758700)
 
 Davacı alacaklının bu kez İstanbul 10. İcra Müdürlüğü'nün ... esas sayılı dosyasında,160.000 Euro alacak talebiyle ipoteğin paraya çevrilmesi yoluyla takip başlattığı, 15/08/2018 tarihinde borçlular ... ... ve ... ...'in itiraz ettiği, itirazın iptali talepli bu davanın açıldığı anlaşılıyorsa da, aynı alacağa dayalı olarak, davacı tarafça daha önce açılan itirazın iptali davasında verilerek kesinleşen mahkeme kararı, davalı ... ... yönünden kesin hüküm teşkil ettiğinden, bu davalı yönünden takip başlatılarak tekrar alacak isteminde bulunulması usule uygun olmadığından, dava şartı yokluğundan davanın reddi yerine davanın esastan reddine karar verilmesi gerektiği kanaatine varılmıştır.Davalı ... ... yönünden yapılan incelemede; davaya konu ipoteğin anapara ipoteği olduğu, icra dosyasında bulunun resmi senetten ... Toptan ve Perakende Satış Ltd. Şti.'nin alacaklı ...
 Finansal Kiralama A.Ş.'ye doğmuş ve doğacak borçlarını kapsayacak şekilde, 130.000 Euro ile bu miktara ilaveten, bu borçlarla ilgili doğacak akdi faizler, vergi hariç, takip yargılama gideri, avukatlık ücreti...temerrüt faizlerini kapsamak üzere, alacaklı lehine birinci derecede, birinci sırada ipotek verildiği anlaşılmıştır. Davalı ... tarafından takibe itirazda, alacağın zamanaşımına uğradığı, daha önce başlatılan takibe itiraz edildiğinde alacağın olmadığı yönünde karar verildiği, takibin mükerrer olduğu, borca faize, tüm alacak kalemlerine itiraz ettiğini bildirdiği anlaşılmıştır. Rehine bağlanan alacak zamanaşımına uğramayacağından, borçlu davalının zamanaşımı itirazı yerinde görülmemiştir.
@@ -119,10 +151,14 @@ yerinde inceleme talebinde bulunmadığı, mahkemece sunulan kayıtlar üzerinde
 
 ## İstanbul BAM 12. HD 2025/2000 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1186101600)
+
 6102 sayılı TTK.'nun 1472. maddesi uyarınca; sigortacının, sigortalısının haklarına halefiyet olabilmesi için sigortacının hukuken geçerli bir sigorta poliçesi teminatı kapsamında sigortacısına tazminat ödemiş olması ve sigortalının zarar sorumlusuna karşı dava hakkına sahip olması gerekir. Sigortacı; ancak, sigortalısının meydana gelen zarardan dolayı üçüncü kişilere karşı dava hakkı varsa, bu hakka ödediği bedel oranında halef olacaktır.Somut olayda; dava dışı ... ... Kiralama AŞ tarafından dava dışı ... AŞ'ye ... kiralanmak üzere ... ... firmasından satın alınan, Tayvan'dan Mersin Limanı'na deniz yolu ile gelen, Mersin Limanı'ndan yine Mersindeki alıcısına teslim edilmek üzere kara yolu ile taşıması davalı ... ...Ltd Şti tarafından yapılan emtianın 18/07/2019 tarihinde ... plakalı araçla nakliyesi esnasında dorseden düşerek hasara uğradığı, davacı sigorta şirketi tarafından Sertel ...AŞ'ye 18/12/219 tarihinde 12.500-USD, 20/03/2020 tarihinde ise 73.901,68-USD hasar ödemesi yapıldığı, davacının sigortalı ... ... Kiralama AŞ adına düzenlediği nakliyat emtia sigorta poliçesi kapsamında, davalı taşıyıcı ile onun sorumluluk sigortacısı olan ...
 Sigorta AŞ'den zararın rücuen tazminini talep ettiği anlaşılmaktadır.Davalı ... ...Ltd Şti tarafından zamanaşımına dayalı olarak istinaf nedeni ileri sürülmüş ise de TTK'nın 855. maddesine göre somut olayda uygulanması gereken zamanaşımı süresi bir yıl olup, dava sigortalıya yapılan ödeme nedeniyle halefiyete dayalı olarak açıldığından zamanaşımı süresi sigortalının başvuru hakkının oluştuğu tarihten itibaren başlayacaktır. Somut olayda hasarın 18/07/2019 tarihinde meydana geldiği, 22/06/2020 tarihinde icra takibi başlatıldığı, 18/06/2021 tarihinde ise eldeki davanın açıldığı, icra takibi ile zamanaşımı süresinin kesilerek işlemeye başladığı, davanın bu nedenle zamanaşımı dolmadan açıldığı anlaşılmakla davalı ... ...Ltd Şti'nin zamanaşımına ilişkin istinaf nedenleri yerinde görülmemiştir. Aynı davalı tarafından yetki ilk ilk itirazında da bulunulmuş ise de HMK'nın 7.
 
 ## İstanbul BAM 14. HD 2025/1879 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1184620400)
 
 Bu kapsamda, mahkemece alınan, Dairemizce de hüküm kurmaya ve denetime elverişli bulunan 24.11.2020 tarihli bilirkişi raporu ve 26.04.2021 tarihli ek raporda, taraflar arasındaki ticari ilişki kapsamında davalı tarafça davacıya satışı ve montajı yapılan redüktörlerin ayıplı olduğu, ayıpların teslim sonrası yapılacak incelemeyle anlaşılamayacağı, ancak kullanımla tespit edilebilecek nitelikte gizli ayıp olduğu, redüktörlerde çıkan arızaların düşük servis faktörlü redüktör seçilmesi ve ayrıca dizel motorla redüktör arasına esnek kaplin konulmaması sebebiyle meydana geldiği
 
@@ -130,6 +166,8 @@ belirtilmiştir. Buna göre ayıbın kullanımla tespit edilebilecek gizli ayıp
 Mahkemece davacının İsrailde üstlendiği işin yapımı için taşıma amacıyla kullandığı gemilerdeki arızalar sebebiyle uğradığı zararların tespiti için 24.09.2021 tarihli ek rapor alınmış olup raporda, dava tarihi itibariyle davacının mahrum kalmış olduğu kira gelirleri ile gemi arıza masrafları ve gemi bekleme giderlerinden kaynaklı uğramış olduğu zararın toplam 420.181,92 EURO olduğu tespit edilmiştir.
 
 ## İstanbul BAM 13. HD 2025/1996 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1184378800)
 
 Noterliğinin 19/07/2010 tarih ve ... yevmiye numaralı ve 11/10/2010 tarih ve ... yevmiye numaralı ihtarnameleri ile bayilik anlaşması ve protokollerin 18/09/2010 tarihinden sonra davalı tarafça müvekkiline kullandırılmayarak sonlandırıldığını, davalının kiraya vereni bulunduğu gayrimenkul üzerinden müvekkili şirket lehine tesis edilen hukuksal tasarruf hakkı için ödenen peşin kira bedelinin geçersiz kılınan süresine (işlememiş süre) tekabül eden kısmı olan 891.542,10 TL'sinin denkleştirici adalet ilkesine göre tahsili, sabit yatırımların işlememiş süreye isabet eden kısmı olan 233.483,90 TL.nin 18.09.2010 tarihinden itibaren işleyecek yasal faizi ile birlikte müvekkili şirkete ödenmesi, aksi halde davalı hakkında ipoteğin paraya çevrilmesi yolu ile takip başlatılacağı hususu davalıya ihtar edildiğini, davalı borçlunun ihtara rağmen borcu ödemekten imtina etmesi üzerine İstanbul 10.İcra Müdürlüğünün... esas sayılı dosyasından davalı aleyhine ipoteğin para verilmesi yoluyla takip başlatıldığını, davalının haksız olarak takibe itiraz etmesi nedeniyle takibin durduğunu belirterek, davalının İstanbul 10.İcra Müdürlüğünün... esas sayılı dosyasındaki itirazın iptaline, takebin devamına ve
 icra inkar tazminatına karar verilmesini talep ve dava etmiştir. Davalı vekili cevap dilekçesinde özetle; davacı tarafından açılan takibe karşı yetki itirazında bulunduklarını, davalının ikamet adresinin İskenderun ilçesinde olduğunu, tebligatın İskenderun'da yapıldığını, ipotek konusu taşınmazın İskenderun adresinde olduğunu, yetkili icra dairesinin ve mahkemenin İskenderun İcra Müdürlüğü ve Mahkemeleri olduğunu belirterek yetki itirazında bulunduklarını, davacı tarafından açılan davada talep edilen alacak haklarının zamanaşımına uğradığını, sebepsiz zenginleşme nedeni ile açılacak davalarda zamanaşımı süresinin 2 yıl olduğunu, 18/09/2010 tarihinde sona eren sözleşmeden dolayı en geç 18/09/2012 tarihinde davanın açılması gerektiğini, BK.nın 158.maddesindeki 60 günlük ek sürenin de davanın esastan reddedilmiş olması nedeniyle bu davada uygulama imkanın bulunmadığını, dava konusu ipoteğin kaldırılması için İskenderun 1.

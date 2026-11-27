@@ -21,9 +21,13 @@ uyari: "Derleyenin seçtiği alıntılardır; kararın tamamı değildir. Künye
 
 ## Yargıtay 3. HD 2013/13441 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/259891200)
+
 Haksız eylemlerden doğan davalarda uygulanacak zamanaşımı 818 sayılı Borçlar Kanunu'nun 60.maddesinde ve 6098 sayılı Türk Borçlar Kanunu'nun 72.maddesinde düzenlenmiştir. Buna göre haksız eylemden doğan tazminat davaları BK'nun 60/1 maddesi gereğince 1 ve 10 yıllık zamanaşımı sürelerine tabidir. Borçlar Yasası'nın 60/1.maddesinde öngörülen bir yıllık zamanaşımı süresi; zarara uğrayanın, zararın varlığını ve zarar vereni öğrendiği günden itibaren işlemeye başlar. Aynı Yasa'nın 60/2.maddesi gereğince zarara yol açan eylemin aynı zamanda suç sayılan bir eylemden doğmuş olması durumunda olayda uygulanacak zamanaşımı süresi, o suçun bağlı olduğu (uzamış) ceza zamanaşımı süresidir.
 
 ## Yargıtay 3. HD 2013/8149 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/260085300)
 
 Haksız eylemlerden doğan davalarda uygulanacak zamanaşımı 818 sayılı Borçlar Kanunu'nun 60. maddesinde ve 6098 sayılı Türk Borçlar Kanunu'nun 72. maddesinde düzenlenmiştir. Buna göre haksız eylemden doğan tazminat davaları BK'nun 60/1 maddesi gereğince 1 ve 10 yıllık zamanaşımı sürelerine tabidir. Borçlar Yasası'nın 60/1. maddesinde öngörülen bir yıllık zamanaşımı süresi; zarara uğrayanın, zararın varlığını ve zarar vereni öğrendiği günden itibaren işlemeye başlar. Aynı Yasa'nın 60/2. maddesi gereğince zarara yol açan eylemin aynı zamanda suç sayılan bir eylemden doğmuş olması durumunda olayda uygulanacak zamanaşımı süresi, o suçun bağlı olduğu (uzamış) ceza zamanaşımı süresidir. Buna göre tazminata konu eylemin aynı zamanda suç teşkil etmesi halinde o suç için öngörülen ceza zamanaşımı süresi hukuk hakimi tarafından uygulanacaktır. (HGK.'nun 22/02/2012 tarih ve 2011/4 E.- 2011/640 K; 2012/89 sayılı ve HGK.'nun 06/05/2009 tarih 2009/4-152 Esas ve 2009/155 Karar sayılı kararları) Ceza zamanaşımı süresinin uygulanması için ceza davasının açılmış olması gerekmez.
 
@@ -58,20 +62,30 @@ Ancak davada gerçekten de zamanaşımı sürelerinin gerçekleşip gerçekleşm
 
 ## İstanbul BAM 8. HD 2021/2213 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/715877900)
+
 2918 sayılı KTK.nun 109. maddesinde haksız fiil niteliğindeki trafik kazalarından doğan tazminat taleplerlerinin, zarar görenin, zararı ve tazminat yükümlüsünü öğrendiği tarihten başlayarak iki yıl ve herhalde, kaza gününden başlayarak on yıl içinde zamanaşımına uğrayacağı, davanın, cezayı gerektiren bir fiilden doğması ve ceza kanununun bu fiil için daha uzun bir zamanaşımı süresi öngörmüş olması halinde, bu sürenin maddi tazminat talepleri içinde geçerli olacağı hüküm altına alınmıştır.Yine maddi ve manevi tazminat istemlerinin bağlı olduğu zamanaşımı süreleri 6098 sayılı Türk Borçlar Kanunu'nun 72. (mülga 818 sayılı Borçlar Kanunu'nun 60.) maddesinde de düzenlenmiştir.
 
 ## Ankara BAM 26. HD 2021/1690 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/696603500)
 
 818 sayılı Borçlar Kanunu'nun 41. maddesinde (6098 sayılı TBK'nun 49. maddesinde) haksız fiil tanımlanmış, 60.maddesinde (TBK'nun 72. maddesinde) de haksız fiilden zarar görenin bundan kaynaklanan zararının tazmini istemiyle açacağı davaların bağlı olduğu zamanaşımı süreleri özel olarak düzenlenmiştir. 818 sayılı Borçlar Kanunu'nun 60. maddesinde zararın ve failin öğrenildiği tarihten itibaren 1 yıllık sübjektif ve nispi nitelikteki kısa zamanaşımı süresi, her halde haksız fiil tarihinden itibaren 10 yıllık objektif ve mutlak nitelikte uzun zamanaşımı süresi ile olağanüstü nitelikteki ceza zamanaşımı süresi olmak üzere üç türlü zamanaşımı süresi öngörülmüş olup, bahsi geçen 1 yıllık süre 6098 sayılı TBK'nun 72.maddesinde 2 yıl olarak değiştirilmiştir.
 
 ## Ankara BAM 26. HD 2021/1184 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/668591400)
+
 818 sayılı Borçlar Kanunu'nun 41. maddesinde (6098 sayılı TBK'nun 49. maddesinde) haksız fiil tanımlanmış, 60.maddesinde (TBK'nun 72. maddesinde) de haksız fiilden zarar görenin bundan kaynaklanan zararının tazmini istemiyle açacağı davaların bağlı olduğu zamanaşımı süreleri özel olarak düzenlenmiştir. 818 sayılı Borçlar Kanunu'nun 60. maddesinde zararın ve failin öğrenildiği tarihten itibaren 1 yıllık sübjektif ve nispi nitelikteki kısa zamanaşımı süresi, her halde haksız fiil tarihinden itibaren 10 yıllık objektif ve mutlak nitelikte uzun zamanaşımı süresi ile olağanüstü nitelikteki ceza zamanaşımı süresi olmak üzere üç türlü zamanaşımı süresi öngörülmüş olup, bahsi geçen 1 yıllık süre 6098 sayılı TBK'nun 72.maddesinde 2 yıl olarak değiştirilmiştir.
 
 ## İstanbul BAM 8. HD 2018/1631 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/457283900)
+
 6098 Sayılı TBK'nın 72/1. maddesinde "Tazminat istemi, zarar görenin zararı ve tazminat yükümlüsünü öğrendiği tarihten başlayarak iki yılın ve her halde fiilin işlendiği tarihten başlayarak on yılın geçmesiyle zamanaşımına uğrar. Ancak, tazminat ceza kanunlarının daha uzun bir zamanaşımı öngördüğü cezayı gerektiren bir fiilden doğmuşsa, bu zamanaşımı uygulanır." denilerek mülga 818 sayılı BK'nın 60. maddesinde olduğu gibi üç türlü zamanaşımı süresi öngörülmüştür.
 
 ## İstanbul BAM 8. HD 2018/491 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/403550700)
 
 6098 Sayılı TBK'nın 72/1. maddesinde "Tazminat istemi, zarar görenin zararı ve tazminat yükümlüsünü öğrendiği tarihten başlayarak iki yılın ve her halde fiilin işlendiği tarihten başlayarak on yılın geçmesiyle zamanaşımına uğrar. Ancak, tazminat ceza kanunlarının daha uzun bir zamanaşımı öngördüğü cezayı gerektiren bir fiilden doğmuşsa, bu zamanaşımı uygulanır." denilerek mülga 818 sayılı BK'nın 60. maddesinde olduğu gibi üç türlü zamanaşımı süresi öngörülmüştür.

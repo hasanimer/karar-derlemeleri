@@ -23,19 +23,27 @@ uyari: "Derleyenin seçtiği alıntılardır; kararın tamamı değildir. Künye
 
 ## İstanbul BAM 9. HD 2026/342 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1195814600)
+
 A.Ş.’ne 54.900, 00 TL ödeme yapıldığını gösterir 16/06/2014 tarihli dekont fotokopisi ve ibraname de dosyada mevcut olduğunu, davalılar ve ihbar olunanların kusurları oranında 54.900,00 TL hasar bedelinden yangın hasar tarihi itibariyle sorumlu olacağını" belirtilmiştir.Bilirkişi heyet raporunun Binaların Yangından Korunması Hakkında Yönetmelik hükümleri ile TBK'da ki kusur ve kusursuz sorumluluk hükümleri kapsamında olay yeri, yangının başlaması ve yayılması şekli, davalıların eylem ve işlemleri ile yangının çıkışı ve yayılması ve kaskolu aracın da zarar görmesi arasında ki illiyet bağı da açıklanarak düzenlendiği, bu haliyle gerekçeli, yeterli olduğu, dosya kapsamına uygun düştüğü ve hükme esas alınabileceğinin anlaşılmasına göre İlk Derece Mahkemesince bu raporda belirlenen kusur oranlarına göre davalıların sorumlulukları ayrı ayrı değerlendirilerek kaskolu aracın oluşan zararından "... davalı ... yangının meydana geldiği taşınmazın maliki olup bina malikinin kusursuz sorumluluğunun bulunduğu, kiraladığı iş yerinde etkin ve yeterli bir söndürme sistemi tesis etmediği, davalı ...A.Ş'nin taşınmazın kiracısı olup, olayın meydana geldiği alanı davalı ... (....
 Şti) şirketine alt kiralama ile kiraladığı, yani aynı zamanda kiraya veren konumunda olduğu, kiraya verenin kiralananın ayıplı olmasından ve yangına karşı güvenlik önlemlerinin alınmamasından dolayı sorumlu olduğu, ... şirketinin ise alt kiracı konumunda olduğu, kiralanan içindeki dekorların zilyetliğinin bu alt kiracı tarafından ... hurdacılığa devredildiği, dekorların söküm işini denetleme görevinin alt kiracıda olduğu, söküm sırasında gerekli tedbirlerin alınmaması nedeniyle yangın meydana geldiğinden alt kiracının da yangın nedeniyle oluşan zarardan sorumlu olduğu, TBK'nın 61.maddesinde belirtilen "birden çok kişi birlikte bir zarara sebebiyet verdikleri veya aynı zarardan çeşitli sebeplerden dolayı sorumlu oldukları takdirde, haklarında müteselsil sorumluluğa ilişkin hükümler uygulanır.
 
 ## İstanbul BAM 12. HD 2025/2130 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1186622400)
 
 Maddede adresi belirtilen istasyona giderek bu malzeme ve teçhizatı söküp almasına şimdiden peşinen muvafakat eder..." düzenlemesi bulunmaktadır.Tüm bunlara ek olarak taraflar arasında akdedilen Ariyet Sözleşmesi'nin cezai şart başlıklı 21. maddesi uyarınca "Ariyet alan 19. madde gereğince, malzeme, teçhizat ve diğer tüm menkulleri süresinde ...'a iade etmediği takdirde, ...'ın bu malzeme, teçhizat ve diğer tüm menkullerden yararlanmasından doğacak zarar ve ziyana mahrum kalacağı kar, bu malzeme, teçhizat ve diğer tüm menkulleri geri almak için ... tarafından yapılacak icra ve muhakeme masrafları ile birlikte ödenecek avukatlık ücretleri de dahil olmak üzere tüm masraflara ek olarak teslimde gecikilen her gün için ...'a o tarihteki Merkez Bankası döviz satış kuru üzerinden hesaplanacak 200$ (ikiyüz) Amerikan Doları karşılığı Türk Lirası cezai şartı hiçbir ihbar ve ihtara, Mahkeme kararı almaya gerek kalmaksızın nakden ve defaten derhal talep tarihinde ödemeyi beyan, kabul ve taahhüt eder." hükmünü havidir.Tacir olan taraflar arasında bağlayıcı olan sözleşme hükümleri ışığında yanlar arasındaki bayilik ve alt kira sözleşmelerinin davalı ile dava dışı malik arasında imzalanan intifa
 sözleşmesinin ayrılmaz parçası olup, yürürlüğünün intifa sözleşmesinin devamına bağlanmıştır. Somut olayda davalı ile dava dışı malik arasındaki intifa sözleşmesinin 13/12/2018 tarihinde feshedilmesi ile 15/02/2019 tarihi itibari ile alt kira ve bayilik ilişkisinin sona erdiği anlaşılmaktadır. Taraflar arasındaki sözleşme ilişkisinin sona ermesi nedeniyle davalıya ariyet olarak teslim edilen menkul ve ekipmanların davacı tarafa iadesi şartları oluşmuştur. Davalı tarafça İstanbul 16.
 
 ## Sakarya BAM 7. HD 2025/2234 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1190574900)
+
 "Bu poliçe ile sigorta edilen makine ve/veya makinelerin sigorta süresi içinde poliçede belirtilen sigortalı tarafından üçüncü şahıslara kiraya verilmesi durumunda,ilgili alt kira sözleşesinin varlığı durumunda sigorta teminatı aynı şartlarda olup,meydana gelebilecek herhangi bir hasarda sigortacının sorumluluğu aynen devam edecektir." hükmüne yer verilmiştir.
 
 ## İstanbul BAM 12. HD 2025/2032 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1186684500)
 
 Buna bağlı olarak taraflar arasındaki ilişkinin salt kira sözleşmesi olmaması nedeniyle 32 Sayılı Türk Parası Kıymetinin Korunması hakkında Cumhurbaşkanlığı kararı ile ilgili Tebliğ'in uygulanma koşulları bulunmamaktadır. Yine taraflar arasındaki sözleşme ilişkisi kira sözleşmesi olarak nitelendirilemeyeceğinden, davalının göreve ilişkin itirazı yerinde değildir.Her ne kadar 2018 yılı Ekim ayından 2020 yılı Eylül ayına kadar olan faturalar TL olarak düzenlenmiş ve ödemeler TL olarak kabul edilmiş ise de aylık ödenmesi gereken işletme hakkı bedeli dönemsel edim niteliğinde olup her ay yeniden doğduğundan, belirtilen dönemde düzenlenen TL faturaları sadece o aylar bakımından geçerli olacaktır. Kaldı ki; davacının TL cinsinden düzenlediği faturalar, taraflar arasındaki sözleşmenin Tebliğ değişikliği kapsamında kaldığına dair hatalı yorumuna dayalı olarak düzenlenmiş olup, sözleşmedeki işletme hakkı bedelinin TL cinsinden ödenmesi hususunda tadil iradesi bulunmamaktadır. Sözleşmede işletme hakkı bedeli açıkça USD olarak kararlaştırıldığından
 
@@ -43,10 +51,14 @@ devam eden aylar için davacının sözleşmedeki tutarı talep etmesi sözleşm
 
 ## Sakarya BAM 7. HD 2025/2100 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1182097800)
+
 Somut olayda; davacı şirketin de alt kiracı olarak Kemal Kerpetoğlu San. ve Tic A.Ş'den kiralanan araçlardan bir tanesi olan "34 ... 733 plakalı Renault Clio 5 1.0 T Ce Joy 2023 model yılındaki" aracı 20.12.2023 tarihinde; davalılardan Tagy Bilişim Tekn. E- Tic. Sanayi ve Tic. Ltd. Şti.'ne, 20.12.2023-19.01.2024 tarihleri arasında araç 1.675 km'de iken kullanılmak üzere kiralandığı, davacı şirketin kiralayan sıfatı ile kiracı sıfatına haiz Tagy Bilişim Tekn. E- Tic Sanayi ve Tic. Ltd. Şti. arasında yazılı araç kiralama sözleşmesi akdedildiği, kira sözleşmesinde sürücü olarak ...; sürücü 2 olarak ... belirtildiği, kiracı tarafın talebi üzerine kiralama sözleşmesi 1 ay daha uzatılmış olup sözleşmenin bitim tarihi 19.02.2024'e uzatıldığı, işbu süre içerisinde ise icra dosyasındaki alacak taleplerine konu olan trafik kazasının gerçekleştiği, kira sözleşmesine konu aracın 27.01.2024 tarihinde Kocaeli İli, Gebze İlçesi, Abdi İpekçi Mahallesinde kazaya karıştığı, yaşanan trafik kazasında davacı şirket bünyesinde kiralanan 34 ...
 733 plakalı aracın sürücüsü, taraflarına yazılı olarak bildirilmeyen ... olduğunun tespit edildiği, ...'ün ise alkollü olduğu, davacının davalılara kiraladığı araçta ağır hasar meydana geldiği, davalıların kira sözleşmesindeki yükümlülüklerine aykırı davranmaları nedeniyle meydana gelen kaza sonucunda aracın onarım bedeli ve ticari kazanç kaybının istemi amacıyla başlatılan icra takibine itirazın iptali istemiyle eldeki dava açılmıştır. Borcun kaynağı ve temel ilişki kira sözleşmesinden kaynaklanmakta olduğundan 6100 sayılı HMK.nun 4/1-a maddesi gereğince Sulh Hukuk Mahkemeleri görevlidir. (Benzer yönde İzmir Bölge Adliye Mahkemesi 23. Hukuk Dairesinin 2023/2688 esas 2023/2386 karar sayılı ilamı, Ankara Bölge Adliye Mahkemesi 15. Hukuk Dairesinin 2022/3459 esas 2023/414 karar sayılı ilamı)Bu nedenle Mahkemece 6100 sayılı yasanın 114/1-c ve 115/2.maddeleri gereği mahkemenin görevsizliğine karar verilmesi gerekirken davanın esası hakkında karar verilmesi hatalıdır.
 
 ## İstanbul BAM 17. HD 2025/1522 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1183697800)
 
 HD. 08/11/2018 T. 2015/19453 E. 2018/10373 K. Sayılı ilamı)Somut olayda, alınan son bilirkişi heyeti teknik raporuna göre, binada yangın sisteminin kurulmaması nedeniyle yapı maliki olan davalı ... ... Ortaklığı A.Ş’nin kusurlu olduğu tespit edilmiş olup yangına sebebiyet verdiği kesinleşen ceza dosyasında sabit olan gerçek kişi davalıların (üçüncü kişi) eylemiyle yangın gerçekleşmişse de yukarıda değinilen Yargıtay ilamı gereğince bina malikinin ek kusuru varsa illiyet bağı kesilmeyeceğinden mahkemece bina malikinin sorumluluğuna gidilmesi yerinde olmuştur. Elektronik Cihaz Sigorta Poliçesi ile poliçede belirtilen şartlar ve limitler dahilinde sigorta ettireni ... Bilişim Teknolojileri San. ve Tic. A.Ş. ve sigortalısı ... Finansal Kiralama A.Ş. olan 491 adet ses ve görüntü cihazlarının 158 adedinin sigorta ettiren ... Bilişim Teknolojileri San. ve Tic. A.Ş. tarafından davalı ... Teknolojileri San. Tic. Ltd. Şti.’ye kiralandığı, cihazların bu davalı tarafından da ... Yapımcılık ve Reklamcılık Dağıtım A.Ş.’ye alt kira sözleşmesi ile kiralandığı, diğer davalı
 
@@ -54,10 +66,14 @@ HD. 08/11/2018 T. 2015/19453 E. 2018/10373 K. Sayılı ilamı)Somut olayda, alı
 
 ## İstanbul BAM 17. HD 2025/1440 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1183694600)
+
 Dosya kapsamında yer alan vergi levhası, yoklama fişi, davalı adına düzenlenen fatura ve SGK belgelerinde davalı şirketin adresi binanın 4. katı olarak gösterilmiş olup bu yer aynı zamanda davalının iddia ettiği üzere alt kira sözleşmesine konu olan yerdir.Yukarıda yapılan açıklamalar uyarınca, yangının, davalının iddia ettiği gibi olay tarihinde ... - ... Tekstil firmasının faaliyette bulunduğu binanın 4. katından başlayarak geliştiği kabul edilse bile davalının, alt kiracısı olduğu anlaşılan bu firmanın eylemlerinden sorumlu olduğunu kabul etmek gerekir. Öte yandan yangının davalının kendi işyerinden başladığı kabul edildiğinde ise davalının sorumlu olacağı zaten izahtan varestedir. Davalı vekili istinaf başvuru dilekçesinde, yangının kendi kullanımında olan işyerinden başlamadığından bahisle daha çok pasif husumet yokluğu yönünden karara itiraz etmiştir. Davalı vekilinin, müvekkilinin kusursuz olduğu yönündeki istinaf sebebi de, yangının alt kiracının işyerinden kaynaklanmasına dayandırılmış olup esasen yangının çıkış sebebine yönelik bir kusur itirazı yoktur. Bunun dışında hüküm altına alınan zarar miktarı yönünden de istinaf dilekçesinde bir itiraz ileri sürülmemiştir.
 O halde az önce açıklandığı üzere davalının olay sebebiyle pasif husumet ehliyetinin bulunduğu kabul edildiğine göre kusur yada zarar miktarına yönelik bir istinaf sebebi olmadığı ve olay sebebiyle oluşan hasarın poliçe teminatı kapsamında olduğu anlaşılmakla Mahkemece tesis edilen karar isabetli olmuştur.Açıklanan sebeplerle, ilk derece mahkemesince tesis edilen kararda usul ve yasaya aykırılık bulunmadığı anlaşılmakla davalı vekilinin istinaf başvurusunun reddine dair aşağıdaki hüküm kurulmuştur.
 
 ## İzmir BAM 23. HD 2025/1760 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1178509500)
 
 Davacı alt kiracı ... A.Ş. ile de davalı kiralayan ... Şti. Arasında 22/06/2006 tarihli kira sözleşmesi akdedilmiştir. Kira sözleşmesinin konusunun, kiralayanın ... Belediyesi ile imzaladığı sözleşmeye ve yetki belgesine istinaden Projesi ... Belediyesi tarafından verilecek, üzerinde mutabık kalınacak ve daha sonra bu sözleşmeye eklenecek olan ... Plajı Yeniden Yapılandırma Projesi (IPYYP) kapsamında, İzmir ili, ... ilçesi, ... plajının tamamına ait taş istinat duvarları üzerinde reklam alanı olarak ayrılan ortalama 750 m2 reklam alanının tümüne ve her bir noktasına reklam ünitesi koyma, kullanma, yararlanma, işletim ve
 
@@ -66,10 +82,14 @@ Plajını, üzerindeki tüm büfeler kaldırılmış, plaj tesfiye edilmiş ve g
 
 ## İstanbul BAM 36. HD 2025/2450 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1171914900)
+
 E. sayılı dosyasına yapılan kötü niyetli, haksız ve mesnetsiz itirazın iptaline ve takibin devamına; davalının itirazının haksız ve kötü niyetli olması nedeniyle %20’den az olmamak kaydıyla davalı aleyhine icra ve inkar tazminatına hükmedilmesini talep etmiştir.Davalı vekili cevap dilekçesinde, dava konusu ile davacı yan arasında hukuki bir bağ bulunmadığını, davacı yanın davasının aktif husumet ehliyeti yokluğundan usulden reddine karar verilmesini, davaya ve takibe konu edilen kira bedelinin dava dışı ... firmasına ödendiğini, davanın halihazırda müvekkili banka tarafından ödenmiş olduğu davacının da kabulünde olan bir tutarın mükerrer olacak şekilde kendilerine ödenmesi istemine dayandığını, bu doğrultuda davanın temelindeki hukuki ilişkinin alt kiralama ilişkisi olduğunu, asıl kiraya verenin (aktif husumet ehliyetine ilişkin itirazları baki kalmak kaydıyla davacı yanın asıl kiraya veren olarak kabulü halinde) taleplerini, alt kiraya verene iletmesi gerektiği gözetildiğinden davanın ...
 Yapı Sanayi Ve Ticaret A.Ş.'ye ihbar edilmesini, dava konusu kira dönemine ait kiralama hakkının hangi firmada olduğuna dair iddialar yargılama konusu olup, müvekkili banka tarafından, İstanbul Ulaşım A.Ş.'nin evrak kayıt birimine 29.08.2014 tarihinde teslim edilen 08.04.2014 tanzim tarihli cevabi yazıda da, halihazırda talep edilen fatura alacağının dava dışı ... Yapı Sanayi Ve Ticaret A.Ş.'ye ifa edildiği, aynı zamanda kiralama hakkına ilişkin dava dışı ... Şirketi ile davacı arasında derdest olan İstanbul 18. Sulh Hukuk Mahkemesi 2013/429 esas sayılı dosyasında kesin hüküm tesis edilmemiş olmasından dolayı davaya konu fatura alacağının dava dışı ...
 
 ## İstanbul BAM 36. HD 2025/2261 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1159603600)
 
 9-10 ve 11 numaralı kapalı sergi salonlarının davacıya fuar düzenlemesi için tahsis edildiği, yine sözleşmede davalının, davacıya hizmet vermeyi de üstlendiği, dolayısıyla sözleşmenin salt kira sözleşmesi olmayıp, karma nitelikte bir sözleşme ( Hizmet Sözleşmesi) olduğu, taraflar arasındaki ihtilafın da sözleşmede davalı tarafından üstlenilen hizmetlerin ayıplı verildiği iddiasından kaynaklandığı görülmektedir. 6100 Sayılı HMK'nun 4/1-a maddesine
 
@@ -77,10 +97,14 @@ göre “Kiralanan taşınmazların, 09.06.1932 tarihli ve 2004 sayılı İcra v
 
 ## İstanbul BAM 45. HD 2025/609 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1151214000)
+
 Süresinin 15/05/2012 tarihinde başlayıp 15/07/2017 tarihinde sona ereceği, aylık kira bedelinin 25.000 USD + KDV olduğu, kiralananın kiracı tarafından kısmen yada tamamen alt kiraya verilebileceği düzenlenmiştir. Davacı tarafından, davalı müflis şirket aleyhine bayilik sözleşmesi kapsamında borçlu olmadığının tespitine ve teminat olarak tesis edilen ipoteğin fekkine karar verilmesi istemiyle dava açılmıştır. Bakırköy 5. Asliye Ticaret Mahkemesi'nin 02/10/2019 tarihli 2017/1084 E. 2019/1049 K. sayılı kararıyla borçlu olmadığının tespitine ve ipotekli taşınmazın kamulaştırılmış olması nedeniyle kamulaştırma bedelinin davacılara ödenmesine karar verilmiştir. İşbu dosya kapsamında yaptırılan bilirkişi incelemesi neticesinde, davacının, davalı müflis şirketten 472.950,79 TL alacaklı olduğu hususunda rapor tanzim edilmiştir. İflas idaresinin iflas masasına kabulüne karar verdiği alacak işbu dosyada bilirkişi raporuyla tespit edilen alacak tutarıdır.Mahkemece eldeki dosya kapsamında Mali Müşavir ... ve Öğretim Üyesi ...'den oluşan bilirkişi heyetinden rapor alınmıştır.Davacının 1.talebi sözleşmenin devamının olanaksız hale getirilmesi sebebiyle cezai şart istemine yöneliktir.
 Davalı müflis şirket tarafından kira bedellerinin ödenmemesi sebebiyle sözleşmenin devamının olanaksız hale getirildiği, nitekim bu hususun İstanbul 19.İcra Hukuk Mahkemesi'nin 20/06/2013 tarihli 2013/210 E. 2013/472 K. sayılı kararıyla tespit edilerek taraflar arasındaki kira sözleşmesinin feshi ile müflis şirketin tahliyesine karar verildiği anlaşılmıştır. Bu nedenle davacının 1.talebi olan 4.000.000,00 USD cezai şart talep hakkı doğmuştur. Ancak cezai şart miktarı yönünden mahkeme takdiri ve davacının itirazı aşağıda değerlendirilecektir. Davacının 2.talebi ise müflis şirketin lisans ve ruhsatların iadesini sözleşmenin sona ermesine takiben 1 ay içinde yerine getirmemesi ve akaryakıt istasyonunu boşaltıp teslim etmemesi nedeniyle 100.000,00 USD cezai şart istemine ilişkin olup kira sözleşmenin İstanbul 19.İcra Hukuk Mahkemesi'nin 20/06/2013 tarihli 2013/210 E.
 
 ## İstanbul BAM 13. HD 2025/799 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1154713900)
 
 Alıcı tarafından yapılabilecek bu ödemelerin devir bedelinden mahsup edileceğini taraflar bilir ve kabul eder" Davalı tarafla imzalanan sözleşmenin 5a maddesinin şu şekilde olduğunu: " Satıcı, alıcı tarafından 200.000 TL ödenmesi üzerine, okul olarak anılan kiracısı olduğu, her iki gayrimenkulün maliki ile alıcıyı bir araya getirmeyi, söz konusu
 
@@ -89,6 +113,8 @@ maliklerin bir araya getirildiğini; aynı ağır koşulların bu kira sözleşm
 
 ## İstanbul BAM 37. HD 2025/934 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1127725200)
+
 K A R A R İstanbul Anadolu 7. Sulh Hukuk Mahkemesince, "...HMK' nun 4. maddesi gereğince kira ilişkilerinden doğan davalara Sulh Hukuk Mahkemesinin görevli olacağı düzenlenmiştir. Somut olayda, taraflar arasında her ne kadar hem kira hem de abonelik sözleşmesi bulunsa da davacınını talepleri göz önüne alındığında uyuşmazlığın çözümünün "abonelik sözleşmesi" kapsamında olduğu, davalının talebinin de bu yönde olduğu...." gerekçesiyle görevsizlik kararı verilmiştir. İstanbul Anadolu 5. Asliye Ticaret Mahkemesi ise, "...Taraflar arasındaki uyuşmazlık kira sözleşmesinden kaynaklanmakta olup bu hususu davacı tarafça sunulan kira sözleşmeleri ile sabittir. Ayrıca davacı ve davalı arasında alt kira sözleşmeleri olduğu hususu taraflar arasında çekişmesiz olup uyuşmazlığın kira sözleşmesinin süresinden önce haksız feshi sebebiyle uğranılan zararların tazmini talebine ilişkindir. Bu sebeple aksi yöndeki İstanbul Anadolu 7. SHM görevsizlik kararına katılmak mümkün değildir.HMK 4/1-a maddesi gereğince kira sözleşmesinden kaynaklı tüm davalarda Sulh Hukuk Mahkemesi görevlidir...." gerekçesiyle karşı görevsizlik yönünde karar vermiştir.
 6100 sayılı HMK'nın 4/I-a maddesinde kiralanan taşınmazların, 9/6/1932 tarihli ve 2004 sayılı İcra ve İflas Kanununa göre ilâmsız icra yoluyla tahliyesine ilişkin hükümler ayrık olmak üzere, kira ilişkisinden doğan alacak davaları da dâhil olmak üzere tüm uyuşmazlıkları konu alan davalar ile bu davalara karşı açılan davalara, konuları ve değerlerine bakılmaksızın sulh hukuk mahkemelerinde bakılacağı hükmüne yer verilmiştir. Bk 299. maddesi "Kira sözleşmesi, kiraya verenin bir şeyin kullanılmasını veya kullanmayla
 
@@ -96,11 +122,15 @@ birlikte ondan yararlanılmasını kiracıya bırakmayı, kiracının da buna ka
 
 ## İstanbul BAM 16. HD 2025/357 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1130892700)
+
 Bu nedenle davalı-karşı davalıların sıfat durumunun ve tarafların hak ve yükümlülüklerinin tespit edilmesi için öncelikle bahsi geçen devir sözleşmesinin ve franchise sözleşmesi ile bağlantılı mal alım sözleşmesinin dosyaya kazandırılması, hangi, sözleşmenin devredilip hangi sözleşmenin devredilmediğinin ve tarafların hak ve yükümlülüklerinin belirlenmesi gerekmektedir. Davacı-karşı davalı ... (...) AŞ. tarafından, davacıya gönderilen Beyoğlu ...Noterliği'nin 13/06/2018 tarih ve ... y.sayılı ihtarnamesi ile 07/11/2016 tarihli franchise sözleşmesinin 3.5,5.22,10.1.3 vs.maddelerinin ihlal edildiği gerekçesiyle feshedildiği bildirilerek, sözleşmenin 14.7.maddesindeki cezai şart alacağının ödenmesi ihtar edilmiştir.
 İlk derece mahkemesince sözleşmenin feshi hususunda benimsenen son ek rapor doğrultusunda "davacının sözleşme hükümlerini aykırı eylemlerinin davalıların davacıya ait işletmeye yeterince ürün sağlayamamasından, gönderilen ürünlerin bozuk olmasından ve davalı ile taşınmaz maliki arasında yapılan asıl kira sözleşmesinde alt kira sözleşmesi yapma yasağından kaynaklandığı, tüm bu nedenlerle davacının müşterilere yeterince ürün sağlayamadığı gibi alt kira sözleşmesi yasağı nedeni ile işletmesi için gerekli izinleri alamadığı sözleşmenin feshine davalı eylemlerinin nedeni olduğu ve davalı tarafından yapılan feshin haksız fesih niteliğinde olduğu mahkememizce kabul edilmiştir" denilerek bilirkişi raporundaki hukuki değerlendirmeler olduğu gibi kabul edilmiştir. Dolayısıyla davalı-karşı davalı ... (... Gıda) AŞ'nin ihtarnamede ileri sürdüğü fesih nedenlerinin haklı olup olmadığından ziyade, sözleşmenin feshine davalıların eylemlerinin sebep olduğu, bu nedenle de feshin haksız olduğu yönündeki bilirkişi görüşü aynen kabul edilmiştir. Hükme esas alınan bilirkişi raporunda, 07/11/2016 tarihinde başlayan ticari ilişkinin 30/06/2018 tarihine kadar devam ettiği belirtilmiştir.
 Bilirkişi raporunda bahsi geçen ve feshin haksızlığına dayanak davalı eylemleri olarak gösterilen, işletmeye yeterince ürün sağlanamadığı iddialarıyla ilgili olarak, sözleşmenin feshi öncesi, davalı-karşı davacı tarafın temerrüde düşürüldüğüne dair bir iddia ve delil bulunmamaktadır.
 
 ## İstanbul BAM 14. HD 2025/370 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1141921500)
 
 Noterliğinde düzenlenen ihtarname ile 14.07.2015 tarihli acentelik sözleşmesi ve hizmetin sürdürülmesi ile ilgili taraflar arasındaki mevcut her türlü sözleşme, protokol, ek sözleşme vb'nin 27.06.2016 günü 23:59'dan itibaren geçerli olmak üzere feshedildiğinin 22.04.2016
 
@@ -109,19 +139,27 @@ ve hasarsız ve temiz olarak tesliminin istendiği, davacı tarafça ihtarname a
 
 ## İstanbul BAM 13. HD 2025/285 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1123064200)
+
 Nakliyat Şirketi'nin sınırlı sorumlu olduğu, diğer davalı ...'ın ise sorumlu olmadığı tespit edilmişken davalıların zararın tamamından sorumlu tutulmalarının hatalı olduğu, iç ilişkide kimin ne miktarda sorumlu olduğunun Mahkemece belirlenmediği, davalıların sınırlı sorumluluklarının kaldırılmasını gerektiren bir husus olmamasına rağmen zararın tamamından sorumlu tutuldukları, davalıların takipten önce temerrüde düşürülmediklerine ilişkindir.Mahkemece verilen gerekçeli kararda tespit edildiği üzere; bu davanın dayanağını oluşturan Ankara 2. Asliye Ticaret Mahkemesi'nin 2006/101 Esas sayılı dosyası ile ... Dış Tic. Ltd. Şti. tarafından davalılar ... Şirketi, ...Şirketi, ..., ..., ... ve ... Sigorta Şirketi aleyhine açılan tazminat davasında Mahkemece 22/05/2014 tarihli karar ile davanın, davalı ... Şirketi yönünden kısmen kabulü ile 295.241 TL'nin 07/03/2006 tarihinden itibaren işleyecek avans faizi ile davalıdan tahsiline karar verilmiş, karara karşı taraflarca temyiz yasa yoluna başvurulmuş, Yargıtay 11.
 HD'nin 17/12/2015 tarihli bozma ilamı uyarınca Mahkemece yargılamaya devam edilmiş ve nihai olarak 2018/513 Esas, 2019/692 Karar sayılı ve 17/07/2019 Tarihli kararda; hasar bedeline ilişkin talebin kabulü ile 233.455,34 TL tazminatın davalılar ... Şirketi, ..., ... Sigorta Şirketi ve ... Şirketi'nden müştereken ve müteselsilen tahsiline, iş kaybından doğan zarar talebinin kısmen kabulü ile 87.633 TL'nin davalı ... Şirketi'nden tahsiline karar verilmiş, verilen karar Yargıtay denetiminden geçerek kesinleşmiştir. Açıklanan davada davacı olan ... Şirketi ile bu davanın davacısı arasında imzalanan vinç kiralama sözleşmesi ile ... Şirketine ait olan vincin kullanımı davacıya, davacı tarafından imzalanan alt kira sözleşmesi ile de yurtdışında mukim dava dışı ... Şirketi'ne bırakılmıştır. Vincin kira sözleşmelerinin sona ermesi ile birlikte Türkiye'de malike teslim edilmek üzere taşınması için alt kiracı ... Şirketi ile davalı ... Nakliyat Şirketi arasında 12/07/2005 tarihli nakliye hizmetleri sözleşmesi imzalanmış, bu sözleşme uyarınca vinç davalı sürücü ...'ın kontrolündeki araç ile Özbekistan'dan Türkiye'ye getirilmiş, dava dışı ... Şirketi ile davalı ...
 
 ## İzmir BAM 21. HD 2025/345 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1133829900)
+
 Muğla Büyükşehir Belediyesi ... Genel Müdürlüğü'nün tahakkuk tutanağı başlıklı belgesinde; "Kullanılan kaçak atık su için ... Genel Müdürlüğünün 12/05/2016 tarihinde almış olduğu 6 nolu kararın 38.Maddesinin 4'üncü fıkrası gereği mülk sahibi ... adına kayıtlı olan ve söz konusu otel'de kullanılan 229 nolu abonenin devirden itibaren tutanak tarihine kadar 9m3 su tüketimi olması sebebiyle ...'ye devir tarihi olan 31/03/2014 tarihi ile oteli alt kiralayana veriliş tarihi olan 01/05/2016 tarih arası kiracı ... A.Ş. adına 762 gün kaçak atik su kullanımı süre yönünden dikkate alınmış, 01/05/2016 ile tutanağın tutulduğu tarih olan 26/07/2018 arası 816 gün alt kiracı ... Şti. kaçak atıksu kullanımı süre yönünden dikkate alınmış, 5.Fıkranın c) bendi kaçak bağlantıdan dolayı dikkate alınmış, 13 Fıkrası gereği bildirim tarihindeki yönetmelik ve tarifesinden 3 katı fazlası olarak aşağıdaki tabloda düzenlendiği üzere tahakkuk edilmiştir.
 
 ## İstanbul BAM 13. HD 2024/1991 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1105142700)
 
 A.Ş tarafından bahse konu yeni kurulan bu şirkete aylık 20.000 TL+ Kdv kira bedeli ödenmeye başlanmıştır.", davalı şirket yetkililerinin bu sayede müvekkillerin ortağı olduğu davalı şirketi alt kiracı yaparak, rekabet yasağına aykırı olarak kurulan ve müvekkillerinin ortağı olmadığı ... Şti. lehine haksız kazanç sağlamakta olduğunu, davalı şirket yönetim kurulu üyeleri tarafından ve diğer hissedarlar ortak edilmeyerek kurulan ... Şti. ile mal ve hizmet alımına ilişkin yaklaşık 50 milyon TL ciro yaptığının tespit edildiğini; bu satışların müvekkillerinin ortağı olduğu şirket üzerinden değil ... Ltd. Şti üzerinden yapılması ile haksız kazanç elde edildiğini, davalı şirketin ürettiği ürünlerin direk müşterilerine satışını yapabilecekken, yönetim kurulu üyeleri tarafından haksız rekabet oluşturacak şekilde kurulan ....
 Şti. üzerinden işlemlerin yapılamasının şirketi ve diğer pay sahiplerini (dolayısıyla müvekkilleri) zarara uğratmakta olduğunu, Şirketlere ait kayıtlar celp edildiğinde bu hususlar sabit hale gelecek olmakla birlikte, taraflarınca sunulan internet sitesi görüntüsü, Ticaret Sicil Müdürlüğü kayıtları ve genel kurul toplantı tutanağı ile de açıkça görülmekte olduğunu; mahkemece delilleri incelenmeksizin ihtiyati tedbir taleplerinin reddine karar verilmesinin hukuka aykırı olduğunu, ayrıca, davalı şirket ile rekabet yasağına aykırı olarak kurulan ilgili şirketin faaliyet alanlarının aynı olmasının yanında ilgili şirketin adresinin, diğer grup şirketlerin adresi olan ...
 
 ## İstanbul BAM 8. HD 2024/1882 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1089510400)
 
 Aş tarafından, ( Haziran, Temmuz ve Ağustos 2017 tarihlerinde) 3 aylığına dava dışı ...'a kiralandığı (alt kira), bu halde aracın kaza tarihindeki işleteninin dava dışı ... olduğunun kabul edilmesi gerektiği, durumun yargılama sırasında ortaya çıktığı, davacı tarafça dava açıldığı tarihte bunun bilinemeyeceği, davacılar açısından bu hususun kabul edilebilir bir yanılgı oluşturduğu anlaşılmış olup, bir davada sadece bir defa iradi taraf değişikliği yapılabileceğine dair bir amir hüküm de bulunmamaktadır. Şu halde yerel mahkemece, HMK’nun 124. maddesi çerçevesinde, yargılamaya gerçek hasımla devam edilmesi gerektiği gözetilip, dava dışı ...'ın yargılamaya dahil edilerek toplanmış ve toplanacak tüm deliller bir arada değerlendirilerek varılacak sonuca göre bir karar verilmesi gerekirken,
 

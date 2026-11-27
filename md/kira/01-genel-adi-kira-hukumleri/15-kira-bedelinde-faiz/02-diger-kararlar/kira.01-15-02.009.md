@@ -23,9 +23,13 @@ uyari: "Derleyenin seçtiği alıntılardır; kararın tamamı değildir. Künye
 
 ## Yargıtay 3. HD 2010/16880 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/973670200)
+
 Her ne kadar mahkemece; "kira sözleşmesinin hususi şartlar 9. maddesindeki kira bedellerinin zamanında ödenmediği takdirde muacceliyet tarihinden itibaren 6183 sayılı yasa gereğince belirlenen gecikme zammı (faiz oranı)yla birlikte" hükmünün taraflarca değiştirilmediği, gerekçesiyle" davanın kabulüne karar verilmiş ise de; bu hüküm, sözleşmede kararlaştırılan kira parasının süresinde ödenmemesi hali içindir. Kira parası miktarındaki uyuşmazlık sonucu; mahkemece belirlenen kira parası nedeniyle doğan fark alacağında bu hükmün uygulanması doğru görülmemiştir.
 
 ## Yargıtay 6. HD 2010/9709 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1061062400)
 
 Olayımıza gelince; taraflar arasında 1.5.2005 başlangıç tarihli ve bir yıl süreli kira sözleşmesi akdedilmiş olup kira parasının her ayın birinci günü peşin ödeneceği ve sözleşmenin özel koşullar bölümünün 4. maddesinde ise “aynı dönem içerisinde kira parasının iki ay ödenmemesi halinde dönem sonuna kadar olan kira paralarının muaccel olacağı” kararlaştırılmıştır. Bu kira sözleşmesi ve koşulları geçerli olup, tarafları bağlar. Davacının 1.5.2008 – 1.5.2009 dönemi için başlatılan icra takipleri üzerine 1.6.2009 tarihinde açtığı dava ile tahliye isteminde bulunmasında bir usulsüzlük bulunmamaktadır. Mahkemece her ne kadar sözleşmede muacceliyet koşulunun bulunduğundan bahisle istemin reddine karar verilmiş ise de, taraflar arasındaki sözleşmenin özel koşullar 4.maddesinde “kira parasının iki ay ödenmemesi” halinde muacceliyet koşulunun gerçekleşeceği kabul edilmiş bulunmaktadır. Davacı tarafından 22.7.2008 tarihinde başlatılan icra takibinde ödenmeyen Temmuz ayı kira parası istenilmiş olup, takip tarihinde sözleşmenin 4.maddesindeki “iki ay ödememe” durumu henüz söz konusu olmadığından muacceliyet koşulunun gerçekleştiğinden söz edilemez. Aynı şekilde 26.12.2008 tarihinde
 
@@ -33,13 +37,19 @@ başlatılan ikinci icra takibinde de ödenmeyen Aralık ayı kira parasının t
 
 ## Yargıtay 6. HD 2010/5515 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/639818900)
+
 Davacının alacağa yönelik temyiz itirazlarına gelince: davacı alacaklı 21.05.2009 tarihinde başlatmış olduğu icra takibinde 01.05.2003 başlangıç tarihli ve bir yıl süreli kira sözleşmesine dayanmıştır. Bu sözleşmede aylık kiranın 300.000.000.TL olduğu her ayın 18'inde peşin ödeneceği kararlaştırılmış olup ödenmeyen kira bedeli olursa diğer aylar kira bedellerinin de muaccel olacağı hüküm altına alınmıştır. Taraflar arasında düzenlenen kira sözleşmesi konusunda bir uyuşmazlık bulunmadığından sözleşmenin koşulları tarafları bağlar. Davalı borçlu süresinde yapmış olduğu itirazında borcu bulunmadığını 2009 Mayıs kirasının 25.05.2009 tarihinde bankaya ödediğini muacceliyet koşulunun gerçekleşmediğini savunmuş, ibraz ettiği 25.05.2009 tarihli Vakıfbank'a ait dekonttan Mayıs kirası açıklaması ile 750 TL ödeme yapıldığı görülmüştür. İcra takibine dayanak yapılan kira sözleşmesinde kiranın her ayın 18'inde ödeneceği kararlaştırılmış olup 4. maddedeki "ödenmeyen kira bedeli olur ise bu diğer ayların kira bedellerine muacceliyet kespedebileceği..." şeklindeki açıklamadan muacceliyetin kararlaştırılan günde ödememe durumunda gerçekleşeceğinin kabulü…
 
 ## Yargıtay 3. HD 2010/7817 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/968337200)
+
 Sözleşmede kiralananı süre bitmeden tek taraflı olarak tahliye etme hak ve yetkisi kendisine tanınmayan kiracının, kiralayanın bilgisi ve rızası olmaksızın, haklı bir nedene de dayanmaksızın kira süresinin bitiminden önce kiralananı tahliye etmesi sözleşmeye aykırı davranış sayılır; Böylesi durumda kiracı kiralayanı bu yüzden uğradığı zararı tazminle zorunludur. Ne var ki, BK.nun 98.maddesi yollamasıyla sözleşmelerde de uygulanması gereken 44.maddesi uyarınca kiralayan da, kiralananı aynı koşullarla yeniden kiraya vermek konusunda gereken çabayı göstermeli ve böylece zararın artmasına sebebiyet vermemelidir. Aksi takdirde artmasına sebep olduğu zarar tutarını kiracıdan isteyemez. Ancak, taraflar bu kuralın dışında bir kararlaştırmada yapabilirler; Sözleşmeye kiralananın erken tahliyesi halinde, kiracının kira süresinin sonuna kadar işliyecek kira paralarının tümünden sorumlu olacağı yolunda hüküm konulabilir; Bu nitelikteki bir hüküm "ceza koşulu" niteliğindedir (YHGK. 22.03.2006 gün ve 2006/6-89 E.2006/89 K.), geçerlidir ve tarafları bağlar. Ancak, bu halde BK.nun 162/son maddesi çerçevesinde ceza koşulunun indirilmesi söz konusu olabilir.
 
 ## Yargıtay 6. HD 2010/5022 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/637921700)
 
 Takibe dayanak yapılan ve karara esas alınan 01.03.2009 başlangıç tarihli ve 24 ay süreli kira sözleşmesi konusunda taraflar arasında bir uyuşmazlık bulunmamaktadır. Sözleşmede aylık kira bedeli 675.-TL olarak belirlenmiş ve en geç ait olduğu ayın ilk beş gününde peşin ödeneceği kararlaştırılmıştır. Sözleşmenin özel şartlar 19. maddesinde ise bir ayın kirası ödenmediği takdirde gelecek aylar kiralarının muaccel olacağı öngörülmüştür. Bu şartlar
 
@@ -48,10 +58,14 @@ Mahkemece davalı tarafından yapılan ödemeler dikkate alınmak suretiyle itir
 
 ## Yargıtay 11. HD 2010/4483 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1016720800)
+
 Taraflar arasında düzenlenen 24.04.2006 tarihli Reklam Alanı Kira Sözleşmesi’nin 4.4. maddesi, ”Kiralayan, reklam alanını sözleşme süresi boyunca kesintisiz olarak kiracıya tahsis edilmesini taahhüt ve tekeffül eder. Kiralayan, reklam alanının kullanılmasıyla ilgili gerek üçüncü kişilerin ilgili Belediye ile yaptığı sözleşmelerin gerekse kiralayanın üçüncü kişilerle yaptığı sözleşme hükümlerinden dolayı, reklam alanının sözleşme süresince kiralayan tarafından kullanımının herhangi bir şekilde engellenmesi halinde, kiralayan, kiracının fazlaya dair talep hakkı saklı kalmak kaydıyla, yapmış olduğu ödemeler üzerinden uğrayacağı zarar kadar cezai şartı kiracıya ödemeyi peşinen kabul ve taahüt eder” hükmünü haiz olup, anılan hüküm gereğince kiracının cezai şart alacağının doğması için, reklam alanının, sözleşme süresince ilgili Belediye veya kiralayan tarafından üçüncü kişilere kiralanması nedeniyle kiracı tarafından kullanılamaması gerektiği açıktır.
 Bu bağlamda, davacı/karşı davalının cezai şart şart alacağının doğumu için sözleşmenin anılan hükmü koşullarının gerçekleşmediğinin sabit olması karşısında davacı/karşı davalının cezai şart isteminin reddi yerine yazılı gerekçeyle kabulüne karar verilmesi doğru olmamış, kararın bu nedenle davalı/karşı davacı yararına bozulması gerekmiştir.
 
 ## Yargıtay 6. HD 2010/3778 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/635542400)
 
 Davada dayanılan ve karara esas alınan 1.3.2008 başlangıç tarihli bir yıl süreli yazılı kira sözleşmesi ve takibe konu ayların kirasının 1200.-TL olduğu konusunda taraflar arasında uyuşmazlık bulunmamaktadır. Sözleşmede aylık kira bedellerinin her ayın 20' sin de ödeneceği kararlaştırılmış, hususi şartlar bölümünün 4.maddesinde ise, iki ay kirasının ödenmemesi halinde ödenmeyen aydan itibaren dönem sonuna kadar olan ayların kirasının muaccel olacağı hüküm altına alınmıştır. Bu şart geçerli olup tarafları bağlar. Dairemizce mahkemenin davanın reddine ilişkin kararının; "...davacı kiralayan tarafından, yazılı sözleşmeye dayanılarak 21.10.2008 tarihinde başlatılan icra takibinde ödenmeyen Ağustos, Eylül ve Ekim 2008 ayları kirası ile muacceliyet şartı gereğince dönem sonuna kadar olan toplam 8400, -TL kira borcunun istenilmesinde bir usulsüzlük bulunmadığı,sözleşmede
 
@@ -59,10 +73,14 @@ kiraların aylık ve her ayın yirmisinde ödeneceğine ilişkin düzenleme kar�
 
 ## Yargıtay 6. HD 2010/1104 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/609055400)
+
 Hükme esas alınan ve takibe dayanak yapılan kira sözleşmesi ve kira ilişkisi konusunda taraflar arasında uyuşmazlık bulunmamaktadır.Davacı ... takip talebinde sözlü kira aktine dayanarak takip yapmış ise de dava dilekçesi ekinde ibraz edilen ve noter tasdikli 1.12.2003 başlangıç tarihli ve 31.12.2005 bitim tarihli 2886 Sayılı Yasaya göre düzenlenen kira sözleşmesine davalı karşı koymamıştır. 31.12.2005 bitim tarihli kira sözleşmesi 6570 Sayılı Yasanın 11.maddesi gereğince aynı şartlarla yıldan yıla yenilenerek icra takibinin yapıldığı 23.3.2009 ve davanın açıldığı 1.6.2009 tarihine nazaran 1.1.2010 tarihinde sona erecektir. Kira sözleşmesinin eki ihale özel şartnamesinin 31.maddesinde kira bedelinin bir taksidinin ödenmemesi halinde diğer kira bedeli taksitlerinin muacceliyet kesbedeceği kararlaştırılmıştır.
 Kira sözleşmesi yenilenerek devam ettiğine göre davacı alacaklının 23.3.2009 tarihinde başlattığı icra takibi ile ödenmeyen Ocak-Şubat aylar kira bedeli ile sözleşmedeki muacceliyet şartı gereğince dönem sonuna kadar olan kira bedelleri toplam 26.125.00 TL asıl alacak 135.28 TL işlemiş faiz olmak üzere toplam 26.260.28.-TL'nin tahsilini istemesinde bir usulsüzlük bulunmamaktadır. Ödeme emri davalıya 9.4.2009 tarihinde tebliğ edilmiştir. Davalıya ödeme emri tebliğ edildiği halde takibe itiraz etmediğinden takibe konu aylara ilişkin kira alacağı kesinleşmiştir. Kesinleşen takibe konu aylar kira bedeli yasal 30 günlük süre içinde ödenmediğinden temerrüt olgusu gerçekleştiğinden kiralananın temerrüt nedeniyle tahliyesine karar verilmesi gerekirken yazılı gerekçe ile davanın reddine karar verilmesi doğru olmadığından kararın bozulması gerekmiştir.
 
 ## Yargıtay 6. HD 2010/1103 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/609054600)
 
 Hükme esas alınan ve takibe dayanak yapılan kira sözleşmesi ve kira ilişkisi konusunda taraflar arasında uyuşmazlık bulunmamaktadır.Davacı ... takip talebinde sözlü kira aktine dayanarak takip yapmış ise de dava dilekçesi ekinde ibraz edilen ve taraflar arasında düzenlenen noter tasdikli 13.6.2006 başlangıç tarihli ve 31.12.2006 bitim tarihli kira sözleşmesine davalı karşı koymamıştır. 31.12.2006 bitim tarihli kira sözleşmesi 6570 Sayılı Yasanın 11.maddesi gereğince aynı şartlarla yıldan yıla yenilenerek icra takibinin yapıldığı 23.3.2009 ve davanın açıldığı 1.6.2009 tarihine nazaran 1.1.2010 tarihinde sona erecektir. Kira sözleşmesinin özel şartlar bölümünün 5.maddesinde kira paralarının en geç ait olduğu ayın ilk beş gününde ödeneceği, 19.maddesinde ise bir kira parasının ödenmemesi halined gelecek kira paralarının muacceliyet kesbedeceği kararlaştırılmıştır. Tarafların serbest iradeleriyle kararlaştırdıkları sözleşmenin bu özel hükümleri geçerli olup, tarafları bağlar.
 
@@ -70,9 +88,13 @@ Kira sözleşmesi yenilenerek devam ettiğine göre davacı alacaklının 23.3.2
 
 ## Yargıtay 13. HD 2009/14257 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/839099400)
+
 Davacının davalıya ait dükkanı 15.1.2008 başlangıç tarihli ve iki yıl süreli kira sözleşmesi ile kiraladığı, sözleşmenin 6.maddesinde ”15.1.2008 tarihinde kiralanan yerine teslim edilmemesi halinde her gün için 50 TL’nin faiziyle ödeneceği” 7.maddesinde ise” sözleşmeden iki taraftan birinin vazgeçmesi halinde vazgeçen tarafın karşı tarafa iki yıllık kira bedeli kadar tazminat ödeyeceği” hükme bağlanmıştır. Sözleşmenin 6.maddesindeki karalaştırma ifaya ekli cezai şart niteliğinde olup, ancak sözleşmenin devam etmesi halinde talep edilebilir. Sözleşmenin 7.maddesi ise seçimlik cezai şart niteliğinde olduğundan sözleşmenin…
 
 ## Yargıtay 13. HD 2009/8302 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/833326000)
 
 Taraflar arasında düzenlenen 28.3.2006 tarihli sözleşmede, davalı kiralayanların, kiralananı davacıya tekrar kiraya vermedikleri taktirde 18 aylık kira bedeli kadar tazminat ödeyecekleri öngörülmüştür. Davacı da bu davasında sözleşmede öngörülen cezai şartla birlikte mahrum kaldıgı karın tahsilini istemiştir. Borçlar Kanununun 158. ve devamı maddelerinde düzenlenen cezai şart, sözleşmenin hiç veya gereği gibi ifa edilmemesi halinde borçlunun karşı tarafa belirli bir miktar para ödeme taahhüdüdür. Anılan maddenin 1.fıkrasında seçimlik cezai şart, 2.fıkrasında ise ifaya eklenen cezai şart düzenlenmiştir. Seçimlik cezai şartın düzenlendiği Borçlar Kanununun 158.maddesinin 1.fıkrasında, "Akdin icra edilmemesi veya natamam olarak icrası halinde tediye edilmek üzere cezai şart kabul edilmiş ise, hilafına mukavele olmadıkça alacaklı, ancak ya akdin icrasını veya cezanın tediyesini isteyebilir" hükmü mevcut olup, madde metninden de açıkca anlaşıldığı üzere sözleşme gereği hiç ya da gereği gibi yerine getirilmediği takdirde aksine kararlaştırma yoksa alacaklı ya edimin ifasını yada cezai şartın ödenmesini isteyebilir. İkisini bir arada talep etmesi mümkün değildir.
 Borçlar Kanununun 158. maddesinin 2. fıkrasında düzenlenen "Akdin muayyen zamanda veya meşrut mahalde icra edilmemesi halinde tediye olunmak üzere cezai şart kabul edilmiş ise, alacaklı hem akdin icrasını, hem meşrut cezanın tediyesini talep edebilir. Meğerki alacaklı bu hakkından sarahatan feragat etmiş veya kayıt dermeyan etmeksizin edayı kabul eylemiş olsun" hükmünü taşıyan ifaya eklenen cezai şartta ise, alacaklı akdin ifası ile birlikte cezai şartın ödenmesini de talep edebilir. Bu açıklamaların ışığı altında dava konusu olaya bakacak olursak, taraflar arasındaki sözleşmenin başlangıç kısmında kiralananın inşasından sonra tekraren davacıya kiralanacağı öngörülmüş; son kısmında ise kiraya verilmediği taktirde kiralayanların 18
@@ -81,14 +103,20 @@ aylık kiradan sorumlu tutulacakları kararlaştırılmıştır." Taraflar aras�
 
 ## Yargıtay 14. HD 2008/7329 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/846438100)
+
 Somut uyuşmazlıkta; davalıdan tahsili istenilen miktar sözleşmenin 7. maddesinde hükme bağlanan cezai şart alacağına ilişkindir. Gerçekten; anılan madde hükmü aynen «kira konusu işyerinin gerek bağlı bulunduğu belediye, gerekse diğer resmi kurumlar tarafından ruhsat ve kiracıdan kaynaklanmayan başka her hangi bir sebeple çalışmasına resmen ve fiilen izin verilmemesi veya herhangi bir sebeple kiracının fiilen çalışmasının kendisinden kaynaklanmayan bir nedenle mümkün olmadığı durumlarda, veya taraflarca anlaşılarak kira sözleşmenin dönem sonundan önce fesih edilmesine karar verildiği durumlarda kiraya veren kiracıya, çalışılamayan her ay için 5.500 Amerikan doları tutarında olmak üzere, çalışmayan veya erken feshe konu süre için hesaplanacak tazminatı hiçbir ihtar ve ihbara gerek kalmaksızın defaten ödemek zorundadır. Bu durumlarda ayrıca taraflardan birisinin sözleşmeyi tek taraflı olarak fesih etme ... vardır.» şeklindedir. Görülüyor ki, sözleşmenin bu hükmünde kararlaştırılan cezai şart Borçlar Kanununun 158/II. Maddesinde sözü edilen ifaya ekli cezai şarttır.
 İfaya ekli cezai şart akdin muayyen zamanda veya meşrut mahalde icra edilmemesi halinde tediye edilmek üzere kararlaştırılan cezai şart türü olup alacaklı hem akdin icrasını hem de kararlaştırılan cezanın tediyesini talep edebilir. Somut olayda ise; 15.08.2002 başlangıç tarihli sözleşme feshedildiğinden, feshedilen sözleşme hükmünden yararlanarak ifa ekli cezai şartın tediyesi istenemez. Kaldı ki, kiralanan benzin istasyonundaki işlerin olağan seyrinde yürümemesinde davalının subjektif kusuru bulunmamaktadır. Ortaya çıkan olgu taraflardan değil, dava dışı Belediyenin yaptığı kazı ve kavşak çalışmalarından kaynaklanmıştır. Ortaya çıkan imkansızlık taraflardan değil de üçüncü bir kişinin etkisinden kaynaklandığından, Borçlar Kanununun 117. maddesi 2. fıkrasına göre tarafların iadesi gereken borçları haksız iktisap kurallarına önceden aldıklarının iadesinden ibarettir.
 
 ## Yargıtay 13. HD 2006/16760 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/843352000)
+
 Kira sözleşmesinde aylık kiranın her ayın 1 ile 5 arasında ödeneceği, gecikme halinde aylık %15 temerrüt faizi ödeneceği kararlaştırılmıştır. BK. 84. maddesi gereğince temerrüde düşerek faiz ödemek yükümlülüğü altına giren borçlu, kısmi ödeme yaptığında ödemelerin öncelikle işlemiş faizden mahsubu gerekirken ödemelerin asıl alacaktan mahsubu sonucunu doğuracak şekilde hesap yapan bilirkişi raporuna itibar edilerek karar verilmesi usul ve yasaya aykırı olup bozma nedenidir.
 
 ## Yargıtay 6. HD 2006/10534 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/16209500)
 
 Takibe dayanak yapılan ve karara esas alınan 01.11.2004 başlangıç tarihli ve bir yıl süreli kira sözleşmesi konusunda taraflar arasında uyuşmazlık bulunmamaktadır. Sözleşmede aylık kira bedelinin 750.000.000.- TL olarak, her ayın beşinci günü ödeneceği, özel şartlar bölümünün 8. maddesinde! aylık kira paralarından birisinin zamanında ödenmemesi halinde dönem sonuna kadar tüm aylar kira parasının muaccel hale geleceği kararlaştırılmış, geçerli bir artış şartı öngörülmemiştir. Sözleşmenin kira parasının ödenmesine İlişkin bu özel hükmü geçerli olup tarafları bağlar. Davacı bu sözleşmeye dayaıharak 06.12.2005 tarihinde başlattığı tahliye istekli icra takibi ile zamanında ödenmeyen Kasım 2005 ayından bakiye 700.000.000.- TL kira bedeli ile Aralık 2005 ayı kira bedeli 1.500.000.000.- TL toplamda 2.200.000.000.- TL kira bedelinin tahsilini istemiş, muaccel olan tüm aylar kira bedelini bu takipte istememiştir.
 Davacı, bundan sonra dava konusu edilen 27.01.2006 tarihinde yaptığı yeni takip ile Kasım ve Aralık 2005 aylar kira bedelinin ödenmemesi nedeniyle sözleşmedeki muacceliyet koşulu gereğince kira dönemi sonuna kadar olan aylık 1.500.000.000.- TL kira bedeli üzerinden Şubat, Mart, Nisan, Mayıs, Haziran, Temmuz, Ağustos, Eylül, Ekim 2006 ayları kira paralarının tahsilini ve kiralananın tahliyesini istemiştir. Davalı, gerek her iki icra takibine yaptığı itirazında gerekse yargılamadaki savunmasında kira bedelinin davacının istediği gibi aylık 1.500.000.000.- TL olmadığını, davacı ile aralarında kararlaştırılmış bir kira bedeli olmamakla birlikte aylık 860.000.000.- TL olarak kira bedellerini davacıya PTT kanalıyla konutta teslimli gönderdiğini, kira borcu bulunmadığı gibi, muaccel olmuş bir kira borcu da olmadığını, muaccel olmuş aylar kira bedelinin bölünerek iki ayrı takibe konu edilemeyeceğini savunup davanın reddini istemiştir. Davalı, aylık kira miktarına karşı çıktığına göre, davacının kiralananın aylık kira bedelini ispatlaması gerekir.
@@ -119,9 +147,13 @@ Somut olayda; davalı tarafa ticari defterler ibraz edilmediği takdirde 6100 sa
 
 ## Ankara BAM 22. HD 2026/671 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1210059900)
+
 Cezai şart talebi yönünden ise: Kira sözleşmesindeki cezai şartın gerçekten işletilip işletilmediği cezai şartın araçtaki ayıp nedeniyle doğduğu araştırılmalıdır. Sadece sözleşmede cezai şart bulunması yeterli olmayıp, bunun fiilen doğmuş ve ispatlanmış olması gerekir. Dava dışı şirket tarafından cezai şart alacağına ilişkin tahakkuku yapılan fatura sözleşmenin feshi ile araçtaki arıza arasında uygun illiyet bağı bulunup bulunmadığı, davacının zararın önlenmesi yükümlülüğü lastiklerin makul sürede tamir ettirme çabası zararı arttırıcı davranışının bulunup bulunmadığı makul tamir süresinin tayini ile tüm deliller birlikte değerlendirilip karar verilmesi gerekir.
 
 ## Ankara BAM 22. HD 2026/516 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1205557200)
 
 Davacı ile davalı arasında 02/03/2015 tarihli protokolün imzalandığı, protokolün konusunun "15 yıl süreli bayilik ilişkisinin kurulması ve imzalanacak olan bayilik sözleşmesine ilişkin mutabakat sağlanan hususların belirlenmesidir. Taraflar, bayilik sözleşmesinin imzalanmasını takiben işbu protokolün bayilik sözleşmesinin eki niteliğinde olacağını kabul ederler." şeklinde hüküm bulunduğu, Bayinin Yükümlülükleri başlığında
 

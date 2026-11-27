@@ -21,14 +21,20 @@ uyari: "Derleyenin seçtiği alıntılardır; kararın tamamı değildir. Künye
 
 ## Yargıtay 11. HD 2010/3846 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1016972700)
+
 Davadan feragat öncelikle bir usul işlemidir. Dava konusu olayda davalılar arasında mecburi değil, ihtiyari dava arkadaşlığı bulunduğundan davacı tarafın davalılardan birisi hakkındaki feragati usul hukuku bakımından diğer davalı aleyhine bir sonuç doğurmaz ise de, davadan feragat aynı zamanda bir maddi hukuk işlemi olduğundan,nihai sorumlu olan sürücü davalı hakkındaki feragatin daha sonra bu davalıya rücu hakkı bulunan diğer davalı maliki etkileyip etkilemediğinin üzerinde durulmak gerekir. Şayet davacı taraf tediye veya takasa dayalı olarak değil, herhangi bir karşılık almadan davalı sürücü hakkındaki davadan feragat etmiş ise ihtilafın hallinde BK. nun 145/2 nci maddesi hükmünün göz önünde bulundurulması gerekecektir. Sözü edilen madde “Eğer müteselsil borçlulardan biri borç tediye olunmamış iken ondan tahallüs etmiş ise, diğer borçlular ancak halin veya borcun mahiyetinin irae ettiği nisbette, bu beraetten istifade edebilirler” hükmünü haiz bulunmaktadır. Madde metninden de anlaşılacağı üzere tatmin edilmeden müteselsil borçlulardan birinin ibrası kural olarak diğerlerine tesir etmeyecektir.
 Ancak, maddede yer alan “halin veya borcun mahiyetinin irae ettiği.....” şeklindeki hüküm nedeniyle bu hallerin varlığı halinde müteselsil borçlulardan birine yönelik bir ibra diğeri yönünden de sonuç doğuracaktır.Dava konusu olayda hakkındaki davadan feragat edilen sürücüye,hakkındaki dava kabul edilen diğer davalı malikin rücu etme olanağı bulunduğu halde,vaki feragat nedeniyle bu olanak ortadan kalkmış olacağından ve davacı alacaklının bu tavrı işleten davalının durumunu BK.nun 147/2 nci madde hükmü uyarınca ağırlaştırıcı bir durum doğuracağından,alacaklının bu duruma katlanması ve davalı sürücü hakkındaki feragatten işleten davalının da faydalandırılması gerekecektir.Davalılardan sigotacının,aralarında sözleşme ilişkisi bulunmadığından sürücüye rücu olanağı da bulunmamakta olup,aksi yöndeki gerekçe dahi doğru değildir.Sürücünün ödemesinden davalılardan sigortacı, maddi tazminat istemi bakımından limite kadar olan bölümünden kurtulur.
 
 ## Yargıtay 17. HD 2010/2270 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/794095600)
+
 Diğer yandan, kararı temyiz eden davalı ile davalı ... BK'nın 51. madde hükümleri gereğince eksik teselsül hükümlerine göre zarardan müteselsilen sorumludurlar. BK'nın 145. maddesi hükmüne göre de sorumlulardan birinin zararı ödemesi halinde, diğerleri bu oranda borçtan kurtulacaklardır. Yine BK'nın 147. maddesi hükmüne göre rücu hakkından yararlanan müteselsil borçlulardan her biri ödediği miktar oranında alacaklının haklarına halef olacaktır. Bu ilkeler dikkate alındığında, davalı ...’un, diğer davalı ... aleyhine kararı temyiz etmede hukuki yararı bulunduğunun kabulü gerekir.
 
 ## Yargıtay 11. HD 2005/8367 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/16423200)
 
 Bankacılıkta birden fazla kişi birlikte hesap açtırır ve her biri tek başına hesaptan para çekme yetkisine sahip olursa, bu hesaba teselsüllü ortak hesap (müşterek hesap) denir ve BK.nun 148. maddesi gereğince hesap sahipleri bankaya karşı müteselsil alacaklı durumunda olur. Banka, ortak hesap sahiplerinden birine ödemede bulunma ile, diğer hesap sahibine de ödemede bulunmuş sayılır. Uygulamada hesap cüzdanına ve hesap kartonuna hesabın teselsüllü olduğu yolunda kayıt yazılması yeterli görülmektedir. BK.nun 148. maddesi gereğince hesap sahipleri bankaya karşı müteselsil alacaklı durumundadır. Müşterek hesapların diğer bir türü de, hesap sahiplerinin müşterek imza ile para çekmeye yetkili oldukları hesaplardır. Böyle bir hesap tarzında alacaklılar tasarruf yetkilerini sınırlamış olurlar. Müşterek hesap, bir tasarruf kaydını içermiyorsa ve hesap açtıranlar, hesaptaki paradan tasarruf yetkisini birlikte veya münferiden kullanılacaklarını belirtmeden hesap açtırmışlar ise, bu durumda bölünebilir hesaptan söz edilir ve somut olayın özelliklerine göre hesap sahiplerinin eşit oranda pay sahibi olduklarının kabulü gerekir. (Prof. Dr.
 Seza Reisoğlu, Bankalar Kanunu Şerhi, Ankara, 2002, sh 384-386 ve Prof. Dr. Ünal Tekinalp, Banka Hukukunun Esasları, İstanbul, 1988, sh. 330-331).
@@ -97,13 +103,19 @@ Ancak müteselsil borçluların borçtan tamamen veya kısmen kurtulabilmeleri, 
 
 ## Konya BAM 5. HD 2025/1933 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1187869500)
+
 6098 sayılı Türk Borçlar Kanunu 169. maddesinde ise müteselsil alacaklılığın borçlunun, alacaklılardan her birine borcun tamamını isteme hakkını tanıdığı veya kanunun belirlediği durumlarda doğacağı borçlu, alacaklılardan birine yaptığı ifayla, bütün alacaklılara karşı borcundan kurtulmuş olacağı alacaklılardan birinin icraya veya mahkemeye başvurmuş olduğu kendisine bildirilmedikçe, borçlunun onlardan dilediği birine ifada bulunabileceği aksi kararlaştırılmadıkça veya alacaklılar arasındaki hukuki ilişkinin niteliğinden anlaşılmadıkça, alacaklılardan her birinin edim üzerindeki hakları eşit olacağı kendisine düşen paydan fazlasını elde eden alacaklının, bu fazlalığı payını alamamış olan diğer alacaklılara ödemekle yükümlü olacağı düzenlenmiştir.
 
 ## Ankara BAM 35. HD 2025/444 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1134511400)
+
 Alacaklının borçlulardan biriyle yaptığı ibra anlaşması, diğer borçluları da ibra edilen borçlunun borca katılma payı oranında borçtan kurtarır (TBK 166/3). Müteselsil borçlu, alacaklıyı tatmin ettiği oranda diğer müteselsil borçlulara karşı alacaklının halefi olur (TBK 168/1) ve alacaklının hakları ona geçer. Bununla birlikte, borçlu yalnızca kendi payına düşen kısmı ödemişse, diğer müteselsil borçluya rücu edemez (Yargıtay 17. HD 28/11/2019 tarih, 2019/3589 E. ve 2019/11257 K. sayılı kararı). TBK’nın 166. md. hükmüne göre, sorumlulardan birinin zararı ödemesi halinde, diğerleri bu oranda borçtan kurtulurlar. Ancak müteselsil borçluların borçtan tamamen veya kısmen kurtulabilmeleri, alacaklının bilfiil tatmin edilmiş olması halinde söz konusudur. Bunun aksinin kabul edilebilmesi için ya alacaklının teselsülden açıkça feragat etmiş olması yahut da böyle bir feragatin durumdan kesin olarak anlaşılması lazımdır (Yargıtay 17 HD 18.03.2019 tarih, 2016/4813 E.- 2019/3090 K.).
 
 ## Ankara BAM 35. HD 2025/443 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1134495700)
 
 Alacaklının borçlulardan biriyle yaptığı ibra anlaşması, diğer borçluları da ibra edilen borçlunun borca katılma payı oranında borçtan kurtarır (TBK 166/3). Müteselsil borçlu, alacaklıyı tatmin ettiği oranda diğer müteselsil borçlulara karşı alacaklının halefi olur (TBK 168/1) ve alacaklının hakları ona geçer. Bununla birlikte, borçlu yalnızca kendi payına düşen kısmı ödemişse, diğer müteselsil borçluya rücu edemez (Yargıtay 17. HD 28/11/2019 tarih, 2019/3589 E. ve 2019/11257 K. sayılı kararı). TBK’nın 166. md. hükmüne göre, sorumlulardan birinin zararı ödemesi halinde, diğerleri bu oranda borçtan kurtulurlar. Ancak müteselsil borçluların borçtan tamamen veya kısmen kurtulabilmeleri, alacaklının bilfiil tatmin edilmiş olması halinde söz konusudur. Bunun aksinin kabul edilebilmesi için ya alacaklının teselsülden açıkça feragat etmiş olması yahut da böyle bir feragatin durumdan kesin olarak anlaşılması lazımdır (Yargıtay 17 HD 18.03.2019 tarih, 2016/4813 E.- 2019/3090 K.).
 

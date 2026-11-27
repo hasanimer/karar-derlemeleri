@@ -23,14 +23,20 @@ uyari: "Derleyenin seçtiği alıntılardır; kararın tamamı değildir. Künye
 
 ## Yargıtay 3. HD 2012/21630 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/525613100)
+
 ...Büyükşehir Belediye Başkanlığının 01/3/2012 tarihli yazısı ile dava konusu yerin ... meydanına" dönüştürülmesine 07/06/2005 tarihli encümen kararı ile kamulaştırılmasına karar verildiği belirtilmesine rağmen, dava konusu taşınmazın henüz kamulaştırılmadığı ve işgal edildiği sabittir.Dosyadaki yazılara, kararın dayandığı delillerle kanuni gerektirici sebeplere ve özellikle delillerin takdirinde bir isabetsizlik görülmemesine göre, davalı vekilinin temyiz itirazları yerinde değildir.Ancak, hükme esas alınan bilirkişi raporunda ecrimisil bedeli hesaplanırken, emsal olarak 50 m² kapalı, 100 m² üstü kapalı yanları açık çay bahçesinin kira bedeli esas alınmış ve m²'ye göre kira parası hesaplandıktan sonra dava konusu taşınmazın ecrimisil bedeli belirlenmiştir.Ecrimisil, haksız işgal tazminatı olup, en azı kira geliri, en çoğu ise tam gelir yoksunluğudur.Ecrimisil bedelinin hesaplanmasında kural olarak işgal edilen taşınmazın mevcut hali ile kiraya verilmesi halinde getirebileceği kira parası gözönünde bulundurulmalıdır.Bu durumda dava konusu taşınmazın üzerinde yapılaşma olmadığına göre mevcut hali ile yani arsa olarak kiraya verilmesi halinde belirlenecek ecrimisil rakamının esas
 alınması gerekirken, daha fazla kira getiren ve üzerinde yapı bulunan çay bahçesinin emsal alınması doğru görülmemiştir.Mahkemece; mahallinde yeniden keşif yapılarak taraflardan delilleri ve emsal nitelikte kira sözleşmeleri istenerek, gerekirse bilirkişilerin re'sen emsal kira sözleşmeleri getirtilerek dava konusu taşınmazın işgal edilmesi nedeniyle "Mevcut hali" dikkate alınarak hesaplanacak ecrimisil bedeline hükmedilmesi gerekirken, yazılı şekilde karar verilmesi doğru görülmemiştir.Bu itibarla yukarıda açıklanan esaslar gözönünde tutulmaksızın yazılı şekilde hüküm tesisi isabetsiz, temyiz itirazları bu nedenlerle yerinde olduğundan kabulü ile hükmün HUMK.nun 428.
 
 ## Yargıtay 3. HD 2012/21336 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/524299900)
+
 Miktar ana kuralına göre; 6100 sayılı HMK.nun 200.maddesi (HUMK. 288 md.) uyarınca kira sözleşmesinin varlığının yazılı delille kanıtlanması gerekir. Somut uyuşmazlığın niteliği gereği davacı davasını yazılı delille kanıtlamakla yükümlüdür. Davalı, davacının ibraz ettiği kira sözleşmesinde ki imzanın kendisine ait olmadığını ileri sürdüğüne göre, davacıdan kira sözleşmesinin aslı ibraz edilerek, davalının da imza örnekleri celbedilerek, sözleşmedeki imzanın davalının eli ürünü olup olmadığı uzman bilirkişi raporu aracılığı ile saptanmak ve sonucuna uygun bir karar verilmelidir.Mahkemece, eksik inceleme ile yazılı şekilde hüküm kurulması usul ve yasaya aykırı olup, bozma nedenidir.Bu itibarla yukarıda açıklanan esaslar gözönünde tutulmaksızın yazılı şekilde hüküm tesisi isabetsiz, temyiz itirazları bu nedenlerle yerinde olduğundan kabulü ile hükmün HUMK.nun 428.
 
 ## Yargıtay 3. HD 2012/21128 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/522185100)
 
 18.11.1964 gün ve 2/4 sayılı Yargıtay İçtihadı Birleştirme Kararına göre “hakim, dosyadaki verilere göre kira parasını kendisi takdir eder.”Hükme esas alınan bilirkişi raporunda; kiralanan yerin boş olarak kiraya verildiğinde 15.02.2011-15.02.2012 kira dönemi için brüt 25000.00 TL olacağı kanaati belirtilmiş, mahkemece de bu miktar makul düzeyde bulunarak, kiralananın yıllık kira bedeli 25000 TL olarak tespit edilmiştir. Oysa, davalı çok eski yıllardan beri (1964) dava konusu taşınmazda kiracıdır. Böyle bir durumda, yukarıda bahsedilen İçtihadı Birleştirme Kararına ve orada belirlenen “hak ve nesafet” ilkesine uygun olarak kira parası hakim tarafından tespit edilmelidir. HGK.nun 21.03.1990 gün ve 13/193
 
@@ -38,9 +44,13 @@ sayılı kararında da açıklandığı üzere 6570 sayılı Yasanın 11.maddesi
 
 ## Yargıtay 3. HD 2012/21087 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/521898900)
+
 Medeni Kanun madde 6 gereğince “Herkes, iddiasını ispat etmekle yükümlüdür.” Davalı (karşılık davacı ) davacı ile aralarında kira ilişkisinin bulunduğunu ispat için “yemin” deliline başvurmuş, davacı tarafa yemin teklif etmiş, davacı tarafından da bu yemin icra edilmiştir.6100 sayılı Hukuk Muhakemeleri Kanununun 233. maddesinde yeminin ne şekilde eda edileceği belirtilmiştir. Ne var ki somut olayda, bu şekle riayet edilmemiş, “1.2.2012 tarihli yemin metni okundu. Davacı yemin metninde belirtilen hususlarda yemin ediyorum dedi“ şeklinde yemin icra ettirilmiştir. Bu yemin esas alınmak suretiyle karşılık davanın reddine karar verilmiştir.Öyle ise mahkemece, davalı (karşılık davacı) tarafından, davacı (karşılık davalıya) teklif edilen yeminin, 6100 sayılı HMK.nun 233. maddesi gereğince usulünce eda ettirilmesinden sonra, hasıl olacak sonuca göre bir karar verilmesi gerekirken, eksik inceleme ile yazılı şekilde hüküm tesisi bozmayı gerektirmiştir.Bu itibarla yukarıda açıklanan esaslar gözönünde tutulmaksızın yazılı şekilde hüküm tesisi isabetsiz, temyiz itirazları bu nedenlerle yerinde olduğundan kabulü ile hükmün HUMK.nun 428.
 
 ## Yargıtay 6. HD 2012/12827 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1054946500)
 
 Davada dayanılan ve hükme esas alınan 1.6.2007 başlangıç tarihli ve bir yıl süreli kira sözleşmesi ve kira bedeli konusunda taraflar arasında bir uyuşmazlık bulunmamaktadır. Sözleşmenin özel şartlar 5. Maddesinde “kiracının taşınmazı tahliye etmek istediği takdirde karşı tarafa 1 ay önceden tebliğ edilmiş olmak üzere yazılı olarak haber vermek zorunda olduğu kararlaştırılmıştır. Taraflar arasında kararlaştırılan bu şart geçerlidir ve taraflara bağlar. Kiralananın 29.7.2009 tarihinde tahliye edildiği de taraflar arasında ihtilaf konusu değildir. Kiracının kira süresi sona ermeden kira sözleşmesini tek taraflı olarak feshederek kiralananı tahliye etmesi durumunda kural olarak kira süresinin sonuna kadar kira parasından sorumludur. Bununla birlikte davacı kiralayanın Borçlar Kanunu'nun 98. maddesinin yollamasıyla 44. maddesi gereğince kira sözleşmesinden kaynaklanan yükümlülüğünden dolayı bu yerin yeniden kiralanması konusunda gayret göstermesi, böylece zararın artmasını önlemesi için kendisine düşen görevi yerine getirmesi gerekir.
 Bu durumda, davacının zararı tahliye tarihinden kiralananın aynı koşullarla yeniden kiraya verilebileceği tarihe kadar boş kaldığı süreye ilişkin kira parasından ibarettir. Ancak hemen belirtelim ki sözleşme ile bunun aksine kararlaştırılan şartlarda geçerlidir. Nitekim sözleşmenin 5. maddesi kiracıya bir ay önceden yazılı bildirimde bulunmak koşulu ile
@@ -49,14 +59,20 @@ kiralananı tahliye hak ve yetkisini vermektedir. Bu şartlara uyularak yapılan
 
 ## Yargıtay 3. HD 2012/20792 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/506295100)
+
 Hal böyleyken; takibe konu yıllara ilişkin kira parasının belli olmaması karşısında davacı kiralayanın 2007 ve devam eden yıllara ilşkin kira parasını kanıtlaması gerekmektedir.Ayrıca, davalı 12.08.2010 tarihli dilekçesinde elden yaptığı ödemeler ile bankaya yatan ödemelere ilişkin olarak davacı tarafa yemin teklif etmek istediğini bildirerek yemin deliline dayanmış olduğundan davalı tarafa yemin teklif etme hakkının olduğu hatırlatılmadan eksik inceleme ile yazılı şekilde karar verilmiş olması doğru görülmemiş, bozmayı gerektirmiştir.Bu itibarla yukarıda açıklanan esaslar gözönünde tutulmaksızın yazılı şekilde hüküm tesisi isabetsiz, temyiz itirazları bu nedenlerle yerinde olduğundan kabulü ile hükmün HUMK.nun 428.
 
 ## Yargıtay 3. HD 2012/20566 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/492226600)
 
 Kira esasına göre ecrimisil belirlenmesinde taraflara emsal kira sözleşmelerini sunmaları için süre verilmeli, emsaller ilgili yerlerden celbedilmeli, keşif mahalinde de bilirkişilerce re'sen emsal araştırması yapılmalı, rayiç belirlenmeli, böylece somut veriler toplandıktan sonra ecrimisil istenen ilk dönem kira parası belirlenmeli, bu belirlenen miktara ÜFE yansıtılmak suretiyle sonraki dönemler ecrimisil ve böylece toplam ecrimisil bedeli belirlenmelidir.Somut olayda, dava konusu taşınmazın (arsanın) niteliğine göre emsal kira sözleşmeleri araştırılmamış, rayiç kira belirlenmemiş, somut deliller toplanmamış, hükme esas alınan bilirkişi raporu soyut ve genel ifadeli olup, hüküm kurmaya elverişli değildir. Mahkemece, eksik inceleme ve araştırma ile hüküm kurulmuştur. Diğer yandan, bir kısım davalılar süresi içerisinde zamanaşımı def'inde bulunmuşlardır.
 Mahkemece, bu zamanaşımı def'ileriyle ilgili değerlendirme de yapılmadan (olumlu veya olumsuz karar verilmeden) yazılı şekilde hüküm kurulmuş olması da doğru görülmemiş, bu nedenlerle hükmün bozulması gerekmiştir.Bu itibarla yukarıda açıklanan esaslar gözönünde tutulmaksızın yazılı şekilde hüküm tesisi isabetsiz, temyiz itirazları bu nedenlerle yerinde olduğundan kabulü ile hükmün HUMK.nun 428.
 
 ## Yargıtay 3. HD 2012/20430 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/491386200)
 
 Davalı kiracı ile taşınmazın eski maliki arasında yapılan kira sözleşmesi 12.02.1993 başlangıç tarihli ve 5 yıl sürelidir. Sözleşmede bir senelik kira bedeli 4000 ... Doları olarak kararlaştırılmış, hususi şartlar bölümünde ise; “Yıllık kira bedeli 4000 Dolar olup, diğer yıllar için hiçbir artış yapılmayacaktır” hükmüne yer verilmiştir.Davacılar, dava konusu taşınmaza (14.02.2005 ve 07.04.2010 tarihlerinde) satın almak suretiyle malik olmuşlardır. Davalı kiracı ile eski malik arasında yapılan kira sözleşmesinin süresi yukarıda belirtildiği
 
@@ -64,6 +80,8 @@ gibi 5 yıl olup, 12.02.1998 tarihinde sona ermiştir. Mecur, 6570 sayılı Yasa
 İş bu davada davacılar; yenilenen dönem kira parasının artırılarak tespitini istemektedirler.O halde, dava; yeni hal ve şartlara sözleşmenin uyarlanması davası olmayıp, HUMK.nun 8.maddesinde anılan kira sözleşmesine dayanan yeni dönem kira parasının tespiti niteliğindedir.Mahkemece yapılacak iş; davalının eski kiracı olduğu gözetilerek 18.11.1964 gün ve 2/4 sayılı Yargıtay İçtihadı Birleştirme Kararına göre bilirkişi raporu alınarak, hak ve nesafet kuralları gereğince, yeni dönem kira parasını takdir etmek olmalıdır.Yanılgılı değerlendirme sonucu, yazılı şekilde görevsizlik kararı verilmiş olması doğru görülmemiş, bozmayı gerektirmiştir.Bu itibarla yukarıda açıklanan esaslar gözönünde tutulmaksızın yazılı şekilde hüküm tesisi isabetsiz, temyiz itirazları bu nedenlerle yerinde olduğundan kabulü ile hükmün HUMK.nun 428.maddesi gereğince BOZULMASINA ve peşin alınan temyiz harcının istek halinde temyiz edene iadesine, 02.10.2012 tarihinde oybirliğiyle karar verildi.
 
 ## Yargıtay 3. HD 2012/20242 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/489806800)
 
 Toplanan deliller ve tüm dosya kapsamına göre; taraflarca 01.08.2001 başlangıç tarihli ve 5 yıl süreli olarak düzenlenen kira sözleşmesinde aylık kira parasının 11.800 USD olarak kararlaştırıldığı, 01.08.2006 tarihinde sözleşmenin aynı şartlarla yenilendiği, 5 katlı olarak inşa edilen kiralananın davalı şirket tarafından üretim yeri olarak kullanıldığı anlaşılmıştır.Anayasa Mahkemesinin 6570 sayılı yasanın 2 ve 3.maddelerinin iptaline ilişkin 26.3.1963 tarih ve 3/67 sayılı kararı ile, 6570 sayılı yasanın kira parasındaki “sınırlı artış” ilkesini ortadan kaldırılmamıştır. Bununla birlikte kira parasının tesbiti yöntemini belirleyen 18.11.1964 tarih ve 2/4 sayılı Yargıtay İçtihadı Birleştirme Kararında da kira parasının “hak ve nesafete uygun” seviyede takdiri ile “sınırlı artışı” öngörülmektedir.
 O nedenle kira parasının tesbiti bir sınırlamadır ve hâkim kira parasını takdir ederken bunun bir sınırlama olduğunu gözetmelidir.18.11.1964 gün ve 2/4 sayılı Y.İ.B.K. ve yerleşik Yargıtay uygulamalarına göre “hak ve nesafet” ilkesi uyarınca hâkim bu sınırlamayı yaparken, öncelikle tarafların tüm delilleri varsa emsal kira sözleşmeleri (hâkim veya bilirkişilerce de resen araştırabilir) aslı veya onaylı örnekleri dosyaya alınmalı, üç kişilik (inşaat, mimar, mülk) bilirkişiler kurulu marifetiyle kiralanan taşınmaz ve taraf emsalleri tek tek gezilip incelenmeli, böylece elde edilen veriler somutlaştırılarak dava konusu yer ile ayrı ayrı (konumu, çevresi, niteliği, kullanım şekli, kira başlangıç tarihi, kira süreleri vb.) kira parasına etki eden tüm nitelikleri karşılaştırılmalı, emsal kira bedellerinin niçin uygun emsal olup olmadığı somut gerekçelerle açıklanmalı, dava konusu taşınmazın yeniden kiraya verilmesi halinde getirebileceği kira parası belirlenmeli, bilirkişi raporu mahkemece somut gerçekler ışığında resen değerlendirilmeli, buna göre hak ve nesafete; özellikle tarafların kira sözleşmesinden bekledikleri amaçlarına uygun makul bir kira parası saptanmalıdır.Hükme esas alınan
@@ -73,13 +91,19 @@ ayrı; kira parasına etki eden bahçe, otopark vb. kullanım alanlarının kira
 
 ## Yargıtay 3. HD 2012/19811 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/525731800)
+
 Yargılama sırasında görüşüne başvurulan bilirkişi heyeti emsaller ile kıyaslandığında, yıllık 6000 TL. kiranın fahiş olduğu, rayiç ve emsale göre taşınmazın yıllık kirasının 3000 TL. olması gerektiği belirtilmiştir.Dava konusu taşınmaz, ...'da büfe olup, 25 metrekare büyüklüğündedir. Hükme esas alınan bilirkişi raporundaki emsal taşınmazlar, nitelik ve büyüklükleri itibariyle, dava konusu taşınmaza birebir emsal olabilecek nitelikte görülmemiştir.Öyle ise mahkemece, bilirkişi heyetinden ek rapor alınarak, gerek resen bulunacak emsaller, gerekse de, tarafların sunacakları emsaller dikkate alınarak, 15.3.2009 tarihli kira sözleşmesinde kararlaştırılan yıllık 6000 TL. kiranın emsal ve rayice uygun olup olmadığının belirlenmesinden sonra, eğer uygun ise, davanın reddine karar verilmesi, uygun değil ise, emsal ve rayice uygun bir kira takdiri gerekirken,yanılgılı değerlendirme sonucu yazılı şekilde hüküm tesisi bozmayı gerektirmiştir.Bu itibarla yukarıda açıklanan esaslar gözönünde tutulmaksızın yazılı şekilde hüküm tesisi isabetsiz, temyiz itirazları bu nedenlerle yerinde olduğundan kabulü ile hükmün HUMK.nun 428.
 
 ## Yargıtay 3. HD 2012/19810 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/525768100)
+
 Yargılama sırasında görüşüne başvurulan bilirkişi heyeti emsaller ile kıyaslandığında, yıllık 7500 TL. kiranın fahiş olduğu, rayiç ve emsale göre taşınmazın yıllık kirasının 3000 TL. olması gerektiği belirtilmiştir.Dava konusu taşınmaz, ...‘da kahvehane olup, 120 metrekare büyüklüğündedir. Oysa ki, bilirkişi raporunda esas alınan emsal taşınmazlar 90 metrekare büyüklüğünde olup, yıllık kiraları 3000 TL. civarındadır. Bu itibarla da, dava konusu taşınmaza birebir emsal olabilecek nitelikte görülmemiştir. Öyle ise mahkemece, bilirkişi heyetinden ek rapor alınarak,gerek resen bulunacak emsaller, gerekse de, tarafların sunacakları emsaller dikkate alınarak, 15.3.2009 tarihli kira sözleşmesinde kararlaştırılan yıllık 7500 TL. kiranın emsal ve rayice uygun olup olmadığının belirlenmesinden sonra.eğer uygun ise,davanın reddine karar verilmesi, uygun değil ise, emsal ve rayice uygun bir kira takdiri gerekirken, yanılgılı değerlendirme sonucu yazılı şekilde hüküm tesisi bozmayı gerektirmiştir.Bu itibarla yukarıda açıklanan esaslar gözönünde tutulmaksızın yazılı şekilde hüküm tesisi isabetsiz, temyiz itirazları bu nedenlerle yerinde olduğundan kabulü ile hükmün HUMK.nun 428.
 
 ## Yargıtay 3. HD 2012/19560 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/528170200)
 
 İİK. 72/7.maddesinde; "Takibe itiraz etmemiş veya itirazının kaldırılmış olması yüzünden borçlu olmadığı bir parayı tamamen ödemek mecburiyetinde kalan şahıs, ödediği tarihten
 
@@ -89,6 +113,8 @@ Hakim bu yönleri re'sen dikkate almakla yükümlüdür.Yukarıda ayrıntılı b
 
 ## Yargıtay 6. HD 2012/11796 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1058470000)
+
 Davaya dayanak yapılan ve hükme esas alınan 1.4.2004 başlangıç tarihli ve iki yıl süreli kira sözleşmesi konusunda taraflar arasında uyuşmazlık bulunmamaktadır. Sözleşmede yıllık kira bedeli 1800 TL olarak kararlaştırılmış olup, iki yıllık kira bedelinin peşin ödendiği ve 800 Euro depozito bedelinin alındığı belirtilmiştir. Kiralananın 28.4.2005 tarihinde tahliye edildiği her iki tarafın kabulünde olup, davacı 19.9.2005 tarihinde başlattığı icra takibinde peşin ödenen iki yıllık kira parası ve depozito bedeli 6250.-TL asıl alacak ve 2.790.-TL işlemiş faizin tahsilini ve asıl alacağa yıllık %30 oranında faiz uygulanmasını talep etmiştir. Mahkemece davacının tahliye tarihine kadar olan kira bedellerinden sorumlu olduğu tahliye tarihinden sonra ki döneme ilişkin peşin ödenen kira parası ve depozito bedelinin iadesi gerektiği gerekçesiyle istemin kısmen kabulüne karar verilmiştir. Davacı kiracının kira süresi dolmadan mecuru tahliye etmesi halinde kural olarak sözleşme süresi sonuna kadar ki kira bedellerinden sorumluluğu söz konusu ise de, kiralayanın da kiralananı yeniden kiraya vermek için gayret göstermesi kiracının zararının artmasına neden olmaması gereklidir.
 Bu itibarla erken tahliye halinde kiracının B.K.nun 98.maddesi delaletiyle aynı Kanunun 44.maddesi gereğince taşınmazın yeniden aynı şartlarla kiraya verilebileceği tarihe kadar kira bedellerinden sorumlu olduğu kabul edilmektedir. Bu durumda
 
@@ -96,13 +122,19 @@ mahkemece kiralananın tahliye edildiği tarihten itibaren sözleşmedeki aynı 
 
 ## Yargıtay 3. HD 2012/19081 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/532303000)
+
 Yukarıdaki ilkeler gereğince, bilirkişi heyetinin taşınmazın boş olarak getireceği kiranın belirlenmesinden sonra, mahkemece bu miktardan uygun bir hak nesafet indirimi yapması gerekecektir.Diğer yandan iki rapor arasındaki çelişki giderilmeden karar verilmesi de doğru değildir.Bu hususlar dikkate alınmadan, eksik inceleme ve yanılgılı değerlendirme sonucu yazılı şekilde hüküm kurulmuş olması doğru görülmemiş, bozmayı gerektirmiştir.Bu itibarla yukarıda açıklanan esaslar gözönünde tutulmaksızın yazılı şekilde hüküm tesisi isabetsiz, temyiz itirazları bu nedenlerle yerinde olduğundan kabulü ile hükmün HUMK.nun 428.
 
 ## Yargıtay 6. HD 2012/11586 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1057983000)
+
 Borçlar Kanunu’nun 484. maddesi hükmü gereğince, yazılı şekilde düzenlenmiş, süresi ve ödenecek kira paralarının miktarı açıkça gösterilmiş bir kira sözleşmesini kiracının kefili sıfatıyla imzalayan kişi; sözleşmede gösterilen kira süresi boyunca kefil sıfatıyla kiralayana karşı sorumludur. Zira, böylesi bir durumda, kefilin sorumluluğu süre ve miktar itibariyle belirlidir. Kefaletin geçerli olabilmesi, kefilin sorumlu olacağı miktar ve kefalet süresinin belirlenmesi koşuluna bağlıdır. Bu nedenle kefilin sorumluluğunun kapsamını bilmesi gerekeceğinden ne kadar uzayacağı belirsiz bir kira süresine ilişkin olan ve kefili sınırsız bir sorumluluk altına sokan sözleşme hükümleri geçerli değildir.
 
 ## Yargıtay 3. HD 2012/16776 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/529956900)
 
 4077 sayılı Kanunun 6/B maddesinde devre tatil sözleşmesi; en az üç yıl süre için yapılan ve bu süre zarfında yıl içinde belirli veya belirlenebilecek ve bir haftadan az olmayacak bir dönem için bir veya daha fazla taşınmazın kullanım hakkının devri veya devri taahhüdünü içeren sözleşme olarak tanımlanmıştır. Yani devre tatil sözleşmesinde devre tatil sahibi yaptığı sözleşme çerçevesinde yılın belirli bir dönem veya dönemlerinde tesislerden yararlanma hakkını elde etmektedir. Davaya konu 16/04/1999 tarihli sözleşme ise "Doksandokuz Yıllık Mülk Kullanım Sözleşmesi" başlığı altında düzenlenmiş olup, sözleşmeye konu dairenin kullanım hakkı 99 yıllığına kiracıya devredilmiştir. Sözleşme ile devre mülk sözleşmelerinde olduğu gibi hak sahibine ayni bir hak verilmemiş, sadece kullanım hakkı tapuya şerh edilmiştir. Yine yukarıda açıklandığı üzere sözleşme konusu dairenin yılın belli ya da belirlenebilir devrelerinde değil 99 yıllığına sürekli olarak kullanım hakkı kiralanmıştır. Sözleşmenin açıklanan bu niteliği uyarınca devre tatil sözleşmesi olmayıp, tapuya şerh edilen kira sözleşmesi niteliğinde olduğu anlaşılmaktadır.
 Açıklanan bu niteliği uyarınca da davaya bakma görevi tüketici mahkemesine değil, davanın miktarı
@@ -111,10 +143,14 @@ uyarınca sulh hukuk mahkemesine aittir.O halde; yukarıdaki açıklamalar uyar�
 
 ## Yargıtay 3. HD 2012/16797 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/530175100)
+
 Hükme dayanak yapılan 20.12.2010 tarihli bilirkişi raporunda kiralananın 10.01.2010 tarihinde boş olarak azami net 7.500 TL ve brüt 9.615 TL getirebileceği belirtilmiş, mahkemece de bu bedele hükmedilmiştir.Mahkemece dava konusu yerin boş olması ve yeniden kiralanması halinde getirebileceği kira parasına hükmedilmiştir. Böyle bir uygulama 18.11.1964 gün ve 2/4 sayılı İçtihadı Birleştirme Kararı'na ve orada belirlenen "hak ve nesafet" ilkesine aykırı olur. Zira HGK. 21.03.1990 gün ve 13/193 sayılı kararında da açıklandığı üzere 6570 Sayılı Yasanın 11.maddesi gereğince kira sözleşmesi yıldan yıla yenilenmekte olduğundan taşınmazın boş olduğu farz ve kabul edilerek sonuca gidilemez. Bu nedenle kiralananın boş olarak kiraya verilmesi halinde getirebileceği kira parasına eşit olacak şekilde veya bunun çok yakınına ulaşan bir kira parasına hükmedilmemesi gerekmektedir.
 Mahkemece bilirkişilerin taşınmazın boş olarak getirebileceğini bildirdikleri kira bedelinden uygun bir hak ve nesafet indirimi yapılıp,brüt olarak kira parasının tespiti cihetine gidilmesi gerekirken, yanılgılı değerlendirme sonucu yazılı şekilde hüküm tesisi bozmayı gerektirmiştir.Bu itibarla yukarıda açıklanan esaslar gözönünde tutulmaksızın yazılı şekilde hüküm tesisi isabetsiz, temyiz itirazları bu nedenlerle yerinde olduğundan kabulü ile hükmün HUMK.nun 428.maddesi gereğince BOZULMASINA ve peşin alınan temyiz harcının istek halinde temyiz edene iadesine, 04.07.2012 tarihinde oybirliğiyle karar verildi.
 
 ## Yargıtay 3. HD 2012/16821 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/530264400)
 
 Davalı ..., kiralananı 2886 sayılı Devlet İhale Kanunu hükümlerine göre kiralamıştır. Anılan kanunun 75/3. maddesinde tahliyeye ilişkin koşullar ile birlikte kira sözleşmesinin bitim tarihinden itibaren işgalin devam etmesi halinde sözleşmede hüküm varsa ona göre hareket edileceği, aksi halde ecrimisil alınacağı hükmü yer almaktadır. Bu hüküm 2886 sayılı kanun ile hazine tarafından kiraya verilen taşınmazlarda kira süresi sonunda sözleşme sona ereceğinden tahliye yöntemini düzenlemektedir. Öte yandan, 13.07.2005 tarihinde yürürlüğe giren 5393 sayılı Belediye Kanununun 15. maddesinde 2886 sayılı Devlet İhale Kanununun 75. maddesinin belediye taşınmazları hakkında da uygulanacağı hükme bağlanmakla; belediyelere ait taşınmazların kira sözleşmelerinde de 2886 sayılı kanunun 75. maddesi hükümleri uygulanacaktır.Hal böyle olunca, davada 6570 sayılı Kanun hükümlerinin uygulama yeri bulunmamakta; uyuşmazlığın 2886 sayılı kanunun 75. maddesi çerçevesinde çözümlenmesi gerekmektedir. (HGK. 22.12.2010 gün ve 2010/13– 671 E.
 696 K.) Şu durumda; davalı ... üst kiracı ve davacıya gönderdiği yazı ile akdi ilişkiye devam etmeyeceğini bildirmiş bulunmakla, davacı artık fuzuli şagil durumuna düşmüştür. Mahkemece bu nedenlerle davanın reddine karar verilmesi gerekirken, aksi düşüncelerle yazılı şekilde hüküm tesisi usul ve yasaya aykırıdır.Bu itibarla yukarıda açıklanan esaslar gözönünde tutulmaksızın yazılı şekilde hüküm tesisi isabetsiz, temyiz itirazları bu
@@ -122,6 +158,8 @@ Davalı ..., kiralananı 2886 sayılı Devlet İhale Kanunu hükümlerine göre 
 nedenlerle yerinde olduğundan kabulü ile hükmün BOZULMASINA ve peşin alınan temyiz harcının istek halinde temyiz edene iadesine, 04.07.2012 tarihinde oybirliğiyle karar verildi.
 
 ## Yargıtay 6. HD 2012/9600 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1054147000)
 
 İcra takibinde ve davada dayanılan ve hükme esas alınan 1.8.2003 başlangıç tarihli ve bir yıl süreli kira sözleşmesi konusunda taraflar arasında uyuşmazlık bulunmamaktadır. Sözleşme ile ... Sokak No: ...'de bulunan yazıhane, büro olarak kullanılmak üzere davacıya kiralanmıştır. Sözleşmenin özel şartlar bölümü 8. maddesinde kiracının bir yıllık olan sözleşme bitiminden dört ay önce akdi feshedeceğini noterden tahliye bildirisi ile veya fesih bildirimini mülk sahibi ...'a imzalatmak suretiyle bildirebileceği, kiracının süresi içinde tahliye ve fesih bildirimini kiralayana bildirmediği takdirde sözleşmenin ayrıca yenilenmesine hacet kalmaksızın kendiliğinden bir yıllığına uzamış sayılacağı kararlaştırılmıştır. Davalı kiralayanın ... İcra Müdürlüğü'nün 2009 / 44885 sayılı dosyası ile davacı kiracı hakkında 17.12.2009 tarihinde icra takibi başlatarak 1.8.2008- 1.12.2009 arası aylar kirası ve işlemiş faizi toplamı 48.573.83 TL'nin ödenmesini talep etmesi üzerine, davacı tarafından takibe borcu olmadığından bahisle itiraz edilmiştir. Davacı açmış olduğu işbu dava ile de yapılan icra takibi dolayısıyla borçlu olmadığını, davalının ortağı ve yöneticisi olduğu ... İth.
 İhr.Etiket San ve Tic Ltd Şti'nin bir büro odasını ticaret sicil kaydı yönünden yasal formalite gereği kiralamış göründüğünü, aslında gerçek bir kira sözleşmesi olmadığı gibi, adı geçen şirketle de aralarındaki ticari ilişkinin Aralık 2007 ayında sona ermesi üzerine kiralananın tahliye edilerek şirket merkezinin 21.4.2008 tarihinde ...'ndeki adreslerine taşındığını belirtmiştir. Her ne kadar davacı tarafından ortada gerçek bir kira sözleşmesi olmadığı iddia edilmiş ise, taraflarca imzalanmış yasal şartları taşıyan ve taraflarını bağlayan yazılı bir kira sözleşmesi bulunmaktadır. Diğer yandan davacı sözleşmenin feshedilerek kiralananın Aralık 2007 ayında tahliye edildiği iddiasında bulunmaktaysa da, davalı tarafından davacı hakkında daha önce ... İcra Müdürlüğü'nün 2008 / 20116 sayılı icra dosyası ile Ocak- Temmuz 2008 arası aylar kirasının tahsili için icra takibi yapılmış, takibe itiraz edilmediğinden dosyada haciz aşamasına geçilmiştir. Davacının kira sözleşmesi gereğince icra takibine konu edilen dönemde kira borcu olmadığını ileri sürebilmesi için, sözleşmenin yasaya uygun şekilde feshedilip kiralananın tahliye ve teslim edildiğini kanıtlamasını gerekir.
@@ -132,16 +170,24 @@ ne zaman teslim ettiğini yazılı delille kanıtlayamamıştır. Bununla birlik
 
 ## Yargıtay 3. HD 2012/15725 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/539230600)
+
 Davaya konu kiralanan taşınmazın prefabrik yapı ile birlikte davalıya kiraya verildiğinin tespiti halinde 6570 sayılı Gayrimenkul Kiraları Hakkındaki Kanunun 11. maddesine uyarınca kira parası yıldan yıla (artırılarak) yenilenegeldiğinden kira parasının tespitine mahkemece karar verilebilecektir.O halde mahkemece; tarafların delilleri toplanmak suretiyle davaya konu kiralananın prefabrik yapıyla birlikte mi yoksa boş olarak mı kiraya verildiğinin tespitinden sonra yukarıda açıklanan ilkeler uyarınca sonucuna göre karar verilmesi gerekirken eksik inceleme ile yazılı şekilde hüküm tesisi doğru görülmemiş, bozmayı gerektirmiştir.Bu itibarla yukarıda açıklanan esaslar gözönünde tutulmaksızın yazılı şekilde hüküm tesisi isabetsiz, temyiz itirazları bu nedenlerle yerinde olduğundan kabulü ile hükmün HUMK.nun 428.
 
 ## Yargıtay 3. HD 2012/15495 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/541964800)
 
 Bu durumda, davalı (...) ... yönünden işgal ettiği taşınmazların durumu, özelliği, işgal alanı ve işgal kullanım şekli yönünden mahkemece; yeniden inceleme yapılarak, gerekirse taraflardan bu konuda delilleri sorularak ve tanık dinlenmek suretiyle oluşacak duruma göre karar verilmesi gerekir.Ayrıca, hükme esas alınan bilirkişi raporunda, kira esasına göre ecrimisil hesaplandığına göre, ilke olarak kira esasına göre ecrimisil hesaplanmasında; işgal edilen ilk yıl (2005 yılı) kira miktarı, emsal kira sözleşmeleri dikkate alınarak rayice göre belirlendikten sonra, takip eden yıllarda ÜFE artış oranları yansıtılarak bulunacak miktardan az olmamak üzere ecrimisil bedeline hükmedilmelidir.Mahkemece; yukarıda açıklanan ilke ve yöntemlere uygun yeniden araştırma yapılarak oluşacak sonuca göre karar verilmesi gerekirken, yazılı şekilde hüküm kurulması doğru görülmemiştir.Bu itibarla yukarıda açıklanan esaslar gözönünde tutulmaksızın yazılı şekilde hüküm tesisi isabetsiz, temyiz itirazları bu nedenlerle yerinde olduğundan kabulü ile hükmün HUMK.nun 428.
 
 ## Yargıtay 3. HD 2012/15417 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/542254200)
+
 Hal böyle olunca, davada 6570 sayılı Kanun hükümlerinin uygulama yeri bulunmamakta; uyuşmazlığın 2886 sayılı Kanunun 75. maddesi çerçevesinde çözümlenmesi gerekmektedir((HGK. 22.12.2010 gün ve 2010/13–671 E. 696 K.) Şu durumda; davalı ... 26.03.2010 tarihinde gönderdiği yazı ile akdi ilişkiye devam etmeyeceğini davacı kiracıya bildirmiş bulunmakla, bu tarihten sonra davacı dernek artık fuzuli şagil durumuna düşmüştür.Mahkemece bu nedenlerle davanın reddine karar verilmesi gerekirken, aksi düşüncelerle yazılı şekilde hüküm tesisi usul ve yasaya aykırıdır.Bu itibarla yukarıda açıklanan esaslar gözönünde tutulmaksızın yazılı şekilde hüküm tesisi isabetsiz, temyiz itirazları bu nedenlerle yerinde olduğundan kabulü ile hükmün HUMK. nun 428.
 
 ## Yargıtay 3. HD 2012/15183 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/542204300)
 
 Kira parasının tespiti davaları yasa boşluğu nedeniyle Yargıtay içtihatları ile doldurulmuştur. Kira parasının tespiti davaları kamu düzeni ile ilgili davalar kapsamındadır (HGK.31.5.2005 gün ve 2006/3-311-324) Ayrıca, Gelir Vergisi Kanununun 70.maddesi ile Katma Değer Vergisi Kanununun 1/1-f, 8/1-h, 10/f maddelerine göre kira geliri elde eden bir kısım kiralayanların Katma Değer Vergisi mükellefi olması ve elde ettikleri kira gelirinin bir bölümünü Katma Değer Vergisi olarak vergi dairelerine ödemeleri vergi yasalarınca düzenlenen bir konudur.Mahkemece KDV’den kiralayanın sorumlu olması nedeniyle kira parasının içinde Katma Değer Vergisinin de olduğu gözönünde bulundurularak kira parasının KDV dahil olmak üzere tesbitine karar verilmesi gerekirken, Katma Değer Vergisi hariç hesaplayan bilirkişi raporu ile yazılı şekilde karar verilmesi doğru görülmemiştir.Bu itibarla yukarıda açıklanan esaslar gözönünde tutulmaksızın yazılı şekilde hüküm tesisi isabetsiz, temyiz itirazları bu nedenlerle yerinde olduğundan kabulü ile hükmün HUMK.nun 428.

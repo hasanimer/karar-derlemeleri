@@ -20,26 +20,38 @@ uyari: "Derleyenin seçtiği alıntılardır; kararın tamamı değildir. Künye
 
 ## Yargıtay HGK 2025/390 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1163424200)
+
 Yargılama sırasında dürüstlük kuralına aykırılık oluşturacak davranış şekillerinden biri ise tarafın daha önce gerçekleştirdiği bir hukuki durumla çelişen usul işlemi yapmak istemesidir. Diğer bir anlatımla çelişkili davranış yasağıdır. Bu husus Mecelle’de “Her kim ki kendi tarafından tamam olan şeyi nakzetmeğe sa’y eder ise sa’yi merduddur” şeklinde düzenlenen kuralın günümüz karşılığı olup bir kimsenin kendi yaptığı/söylediği/tamamladığı şeyi bozmak, yok saymak istemesi hâlinde bu davranışının sonuç doğurmayacağını, dikkate alınamayacağını ifade eder.
 
 ## Yargıtay HGK 2023/1038 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/976177200)
+
 Öncelikle belirtmek gerekir ki, Hukuk Genel Kurulunca verilen emsal kararlarda da vurgulandığı üzere objektif nedenler bulunmadığı hâlde belirli süreli olarak yapılmış iş sözleşmesinin belirsiz süreli olduğunun işverence ileri sürülmesi 4721 sayılı Kanun'un 2 nci maddesinin ikinci fıkrasında yer alan dürüstlük kurallarına aykırı olup hakkın kötüye kullanılması niteliği taşımaktadır. Buradan hareketle de 4857 sayılı Kanun'un 11 inci maddesine dayanarak sözleşmenin belirsiz süreli olduğunu ileri sürme hakkının işçiye ait olduğu sonucuna ulaşılmaktadır. Şüphesiz ki, işçi de bu hakkını ileri sürerken dürüstlük kuralına uygun hareket etmeli ve çelişkili davranmamalıdır.
 
 ## Yargıtay HGK 2023/397 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/920357500)
 
 Hemen belirtilmelidir ki temsil yetkisinin sınırlandırılması kapsamında birlikte temsil hususunun üçüncü kişilere karşı ileri sürülmesinde anonim şirketin de dürüstlük kuralı gereğince hareket etmesi gerekmektedir. Örneğin birlikte temsil veya çift imza kuralı olmasına rağmen tek imza ile yapılan işlemler anonim şirket tarafından benimsendikten sonra birlikte temsil veya çift imza kuralının ileri sürülmesi dürüstlük kuralına aykırılık teşkil edecek, önceki eylemiyle çelişkili davranış yasağı kapsamında kalacaktır. Gerçekten de temelinde TMK’nın 2 nci maddesinde düzenlenen dürüstlük kuralı bulunan önceki eylemiyle çelişkili davranma yasağı (venire contra factum proprium) açıkça veya davranışlarıyla bir hakkı kullanmak istemediğini veya bir haktan vazgeçtiğini ortaya koyan bir kişinin bu davranışı ile bağlı olması, bu hâliyle var olan hukuki durumunu kaybetmesi ve daha sonra bundan cayamaması anlamına gelmektedir (Akyol, Şener: Venire Contra Factum Proprium, Prof. Dr. Fikret Eren’e Armağan, Ankara, 2006, s. 77).
 Önceki eylemiyle çelişkili davranan kişi önceki davranışı ile muhatabında haklı görülen bir güven yaratmış ve gelecekte de bu hakkı kullanmayacağı yolunda bir kanaat uyandırmış ancak daha sonra yarattığı bu güvene aykırı davranarak muhatabın güvenini boşa çıkarmıştır. Bu nedenle önceki eylemiyle çelişkili davranan kişinin uyandırdığı güveni boşa çıkarmasını hukuk düzeninin korumaması gerekmektedir. Çelişkili davranışta bulunan kişi, muhatabının haklı güvenini boşa çıkarması nedeniyle sadece muhatapla sınırlı olarak hakkını kaybedecektir.
 
 ## Yargıtay HGK 2022/1385 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/858689900)
+
 Gerçekten de önceki eylemiyle çelişkili davranma yasağı (venire contra factum proprium) açıkça veya davranışlarıyla bir hakkı kullanmak istemediğini ortaya koyan bir kişinin bu davranışı ile bağlı olması, bu hâliyle var olan hukukî durumunu kaybetmesi ve daha sonra bundan cayamaması anlamına gelmektedir (Akyol, Şener: Venire Contra Factum Proprium, Prof. Dr. Fikret Eren’e Armağan, Ankara 2006, s. 77). Önceki eylemiyle çelişkili davranan kişi önceki davranışı ile muhatabında haklı görülen bir güven yaratmış ve gelecekte de bu hakkı kullanmayacağı yolunda bir kanaat uyandırmış ancak daha sonra yarattığı bu güvene aykırı davranarak muhatabın güvenini boşa çıkarmıştır. Bu nedenle önceki eylemiyle çelişkili davranan kişinin uyandırdığı güveni boşa çıkarmasını ve muhatabın zarara uğramasını hukuk düzeninin korumaması gerekmektedir. Çelişkili davranışta bulunan kişi, muhatabının haklı güvenini boşa çıkarması nedeniyle sadece muhatapla sınırlı olarak hakkını kaybedecektir.
 
 ## Yargıtay HGK 2010/71 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/76698900)
+
 İsviçre Federal Mahkemesi'nin kararları ve İsviçre Hukuk uygulaması, özellikle, bir kimsenin, karşı tarafta oluşturduğu güveni daha sonraki davranışlarıyla hayal kırıklığına dönüştürmesini, yani söz konusu olan çelişkili davranışları korumadığı anlaşılmaktadır (Oğuztürk, Burcu(Kalkan): a.g.e., s.193; Kararlar için bak. s.184 vd.).
 
 ## Yargıtay HGK 2007/250 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/16044600)
 
 Somut olaya gelince; sigorta poliçesinin, davalı sigorta şirketinin yetkili sigorta acentesinde tanzim ve imza ile davacı sigorta ettirene teslim edildiği uyuşmazlık konusu değildir. Poliçeyi tanzim eden acentenin prim tahsilâtını yapmaya yetkili olduğunda da kuşku bulunmamaktadır. Davalı sigorta şirketi aşamalardaki savunmalarında ilkin, acente çalışanının primi tahsile yetkili olmadığını savunmuşsa da, bu savunmasından dönerek poliçeyi tanzim edip, prim tahsilâtını da yapan kişinin acente çalışanı olmadığını ileri sürmüştür. Bu savunması çelişkili davranış yasağına girmekte olup, dosya kapsamında bulunan diğer poliçelerde de imzası bulunan bu kişinin acente çalışanı olduğu da belirgindir. Sigortasız çalıştırılmış olması bu gerçeği değiştirecek bir olgu olarak kabul edilmediği gibi sonradan ortaya atılan bu savunmanın mevcut deliller karşısında dinlenilirliği de bulunmamaktadır.
 
@@ -48,6 +60,8 @@ Somut olaya gelince; sigorta poliçesinin, davalı sigorta şirketinin yetkili s
 Dahası, zamanaşımı süresinin dolmasından sonra alacaklıya karşı bir borç ikrarında bulunan borçlunun, bu borç ikrarına dayanılarak açılan davada zamanaşımı defini ileri sürmesi, çelişkili davranış yasağını oluşturur. Bu durum Medeni Kanunun 2. maddesine aykırı olup hukuken korunamaz (HGK’nun 23.02.2000 gün ve 2000/15-71 E, 2000/116 K.).
 
 ## Yargıtay 2. HD 2015/15285 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/472934400)
 
 Mevcut olaylara göre evlilik birliğinin, devamı eşlerden beklenmeyecek derecede, temelinden sarsıldığı kuşkusuzdur. Ne var ki bu sonuca ulaşılması davacının ağır kusurlu sayılmasını gerekli kılan tutum ve davranışlarından kaynaklanmış olup, davalının da kusurlu davranışları gerçekleşmiştir. Davalı ve çocuklar yönünden korunmaya değer bir yarar belirlenememiş, dosya içindeki bilgi ve belgelerle davalının çelişkili davranış içinde bulunduğu, davacıyı cezalandırmak, ona eza cefa çektirmek amacıyla boşanmaya karşı çıktığı anlaşılmıştır. Bu durumda Türk Medeni Kanununun 166/2. maddesi uyarınca boşanmaya karar vermek gerekirken yasa hükümlerinin yorumunda yanılgıya düşülerek yazılı biçimde karar verilmesi usul ve kanuna aykırıdır.
 
@@ -62,8 +76,12 @@ Hukuk Dairesi'nin önceki tüm uygulamalarında davalı yanın zamanaşımı sav
 
 ## Gaziantep BAM 11. HD 2025/727 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1139086100)
+
 Kaldı ki diğer yandan, her ne kadar davalı yan . .. adlı kişiye tebligat yapılmışsa da şirkette böyle bir çalışan olmadığı, dolayısıyla da kat ihtarının usulüne uygun olmadığını savunmuşsa da, şirketin . beyan edilen ... . adresine çıkartılan .. tarihli 17167 yevmiye sayılı kat ihtarı tebliğ şerhinde tebliğ alan şahıs olarak görünen . . isimli şahsa, eldeki davanın özünü oluşturan ...Esas sayılı takipteki ödeme emrinin de aynı şekilde ve aynı adreste.. tarihinde tebliğ edildiği, ancak borçlu vekilince..tarihinde işbu tebligat mazbatası kabul edilerek borca itiraz edildiği anlaşılmakla, bu noktadan sonra usulsüz tebligat iddiasında bulunmak TMK'nın 2. maddesi çerçevesinde çelişkili davranış yasağı kapsamında değerlendirilerek, bu yöne dair istinaf sebepleri yerinde görülmemiştir.
 
 ## Gaziantep BAM 11. HD 2024/1173 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1073378700)
 
 Davalı şirketin .......sayılı dosyasındaki beyanları ise senedin hükümsüzlüğüne yönelik ikrar mahiyetinde beyanlar olmadığı gibi senedin talili de söz konusu değildir. Öte yandan bono üzerinde davalı şirketin antetinin olması da senedi hükümsüz kılmayacağı gibi muvazaa ve bedelsizlik iddiasına da delalet teşkil etmez. Yerel mahkemece de benzer şekilde belirtildiği üzere, imza inkarında bulunmayan davacı keşidecinin işbu antetli kağıda kendi hür iradesiyle imza attığı açık olup, hiç kimse kişinin kendi fiiline dayanarak muvazaa iddiasında bulunamayacaktır. Aksinin kabulü TMK m. 2 uyarınca çelişkili davranış yasağına aykırı düşecektir.

@@ -23,9 +23,13 @@ uyari: "Derleyenin seçtiği alıntılardır; kararın tamamı değildir. Künye
 
 ## Yargıtay 6. HD 2016/7026 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/326605700)
+
 Davalı kefil ... 'ın temyiz itirazlarının incelenmesinde; Davalı ...'ın kira sözleşmesini müteselsil kefil sıfatıyla imzaladığına ilişkin uyuşmazlık yoktur. Ne var ki, sözleşmenin kefil sıfatıyla imzalanmış olması, doğrudan davalının kefil olarak sorumlu olması sonucunu doğurmaz. Kefaletin, yasanın aradığı şekil şartlarına uygun olması da zorunludur. 6098 sayılı TBK ise 01.07.2012 tarihinde yürürlüğe girmiştir. TBK'nun 583. maddesinin birinci fıkrasına göre; "Kefalet sözleşmesi yazılı şekilde yapılmadıkça ve kefilin sorumlu olacağı azami miktar ile kefalet tarihi belirtilmedikçe geçerli olmaz. Kefilin sorumlu olduğu azami miktarı, kefalet tarihini ve müteselsil kefil olması durumunda, bu sıfatla veya bu anlama gelen herhangi bir ifadeyle yükümlülük altına girdiğini kefalet sözleşmesinde kendi el yazısı ile belirtmesi şarttır." düzenlemesi yer almaktadır. Yasada tarif edilen şekle aykırı düzenlenen kefalet sözleşmesine istinaden kefalet sorumluluğu doğmaz.
 
 ## Yargıtay 6. HD 2016/5616 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/269267700)
 
 Davada dayanılan ve hükme esas alınan 25.03.2012 başlangıç tarihli ve iki yıl süreli kira sözleşmesi konusunda taraflar arasında uyuşmazlık bulunmamaktadır. Bu kira sözleşmesini davalılardan ... müşterek ve müteselsil kefil sıfatıyla imzalamıştır. Davacı tarafından davalı kiracı ve kefil hakkında ....01.2014 tarihinde başlatılan takip ile, 25.09.2013 tarihinden 25.03.3014 tarihine kadarki ... aylık kira alacağı ile ortak gider alacağının tahsili istenilmiştir. Davalı kefil süresi içerisinde verdiği itiraz dilekçesinde; şahsının alacaklı görünen kişiye borcu bulunmadığını bildirerek takibe, borca ve ferilerine itiraz etmiştir. Kira sözleşmesinin ....maddesinde “kefilin kefaleti müşterek ve müteselsil borçlu kefil sıfatı ile olup, sadece ilk dönemin sonuna kadar değil, temditlerde de geçerli olacak, kiracılık işleri usulüne uygun bitinceye kadar ve kiracı kiralayan tarafından ibra edilinceye kadar devam edecektir” düzenlemesi bulunmaktadır. TBK'nun 583. maddesi hükmüne göre kefaletin geçerli olabilmesi için kefalet süresinin ve kefilin sorumlu olacağı miktarın sözleşmede gösterilmesi gerekir.
 Kefalet süresinin ve kefilin sorumlu olacağı azami tutarın gösterilmemesi halinde kefalet ancak kira sözleşmesinde kararlaştırılan kira süresi ve miktarı için geçerlidir. Öte yandan davalının kefaleti, TBK.nun 600.maddesi uyarınca sınırlı
@@ -34,74 +38,108 @@ süreli bir kefalet olup anılan yasa hükmünde belirtildiği üzere, kefalet s
 
 ## Yargıtay 6. HD 2016/5208 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/239826500)
+
 Takibe dayanak yapılan ve hükme esas alınan 15.10.2009 başlangıç tarihli ve bir yıl süreli kira sözleşmesi konusunda taraflar arasında uyuşmazlık bulunmamaktadır. Kira sözleşmesini davalı ... müteselsil kefil sıfatıyla imzalamıştır. Yargıtay Hukuk Genel Kurulunun 22.03.2006 gün ve 2006/6-78 Esas, 2006/88 Karar sayılı kararında da belirtildiği üzere, yazılı şekilde düzenlenmiş, süresi ve ödenecek kira paralarının miktarı açıkça gösterilmiş bir kira sözleşmesini kiracının kefili sıfatıyla imzalayan kişi; Sözleşmede gösterilen kira süresi boyunca kefil sıfatıyla kiraya verene karşı sorumludur. Zira, böylesi bir durumda, kefilin sorumluluğu süre ve miktar itibariyle belirlidir. Uzayan kira süresi bakımından kefilin sorumluluğunun devam edebilmesi için; öncelikle bu hususun sözleşmede kararlaştırılmış olması, bunun yanında, kefilin uzayan dönemdeki sorumluluğunun azami hangi süreyle ve hangi miktarla sınırlı olacağının açıkça gösterilmiş olması gerekir. Ne kadar uzayacağı belirsiz bir kira süresine ilişkin olan ve kefili sınırsız bir sorumluluk altına sokan sözleşme hükümleri geçerli değildir.
 
 ## Yargıtay 6. HD 2016/4863 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/225597100)
+
 Davalı kefil ...'ye yönelik temyiz itirazlarının incelenmesinde; Davada dayanılan ve karara esas alınan 01.07.2015 başlangıç tarihli ve üç yıl süreli kira sözleşmesi konusunda taraflar arasında uyuşmazlık yoktur. Bu kira sözleşmesini davalılardan ... müşterek ve müteselsil kefil sıfatıyla imzalamıştır. TBK 583 maddesinde "Kefalet sözleşmesi, yazılı şekilde yapılmadıkça ve kefilin sorumlu olacağı azamî miktar ile kefalet tarihi belirtilmedikçe geçerli olmaz. Kefilin, sorumlu olduğu azamî miktarı, kefalet tarihini ve müteselsil kefil olması durumunda, bu sıfatla veya bu anlama gelen herhangi bir ifadeyle yükümlülük altına girdiğini kefalet sözleşmesinde kendi el yazısıyla belirtmesi şarttır." hükmü bulunmaktadır. Takibe konu kira sözleşmesinde TBK.nın 583.maddesinde belirtilen şekil şartına uyulmadığından kefalet sözleşmesi geçersizdir. Bu durumda mahkemece davalı kefil ... hakkındaki davanın reddine karar verilmesi gerekirken yazılı şekilde karar verilmesi doğru değildir.
 
 ## Yargıtay 6. HD 2016/4588 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/225248400)
 
 01.02.2011 başlangıç tarihli ve bir yıl süreli kira sözleşmesini davalı borçlunun müteselsil kefil sıfatıyla imzaladığı hususunda uyuşmazlık bulunmamaktadır. Davacı alacaklı 26.01.2012 tarihinde başlattığı icra takibi ile 2011 yılı Nisan, Mayıs, Haziran, Ağustos aylarına ait 6.405,00 TL kira alacağı , 400 TL kira alacağı, 490,00 TL elektrik ve su bedeli alacağının tahsilini istemiş, davalı borçlu süresinde borca itiraz etmiştir. 6098 sayılı Türk Borçlar Kanunu ile 818 sayılı Borçlar Kanunu yürürlükten kaldırılmıştır.6098 sayılı Türk Borçlar Kanunun yürürlük tarihi olan 01.07.2012 tarihinden önce gerçekleşmiş olan fiil ve işlemlere 818 sayılı Borçlar Kanunu uygulanacaktır. Buna göre, takip konusu 01.02.2011 başlangıç tarihli kira sözleşmesi ile ilgili uyuşmazlıklara 6098 sayılı Türk Borçlar Kanunu'nun uygulanabilme imkanı bulunmamaktadır. 818 sayılı Borçlar Kanunu 483. v.d. maddeleri gereğince kefaletin geçerli olabilmesinin tek şartı olan yazılı olma koşulu somut olayda sağlandığından davalı borçlunun müteselsil kefil olduğunun kabulü gerekir.
 Mahkemece Boçlar Kanunu 487. madde gereğince asıl borçlu aleyhine yapılan icra takibinde kesin aciz belgesi alınmadan kefil aleyhine takip yapılabileceği gözetilerek işin esası hakkında karar verilmesi gerekirken yazılı gerekçeyle davanın reddine karar verilmesi doğru değildir. ./..
 
 ## Yargıtay 6. HD 2016/4142 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/211409500)
+
 Yazılı kira sözleşmesinin özel şartlarının 9.maddesinde "kefilin kefaleti müşterek ve müteselsil olup, kefil kontratın ilk yapıldığındaki kira dönemi ve belirlenen süre için kefaletin mevcudiyetinin devamını beyan ve imzası ile kabul ve taahhüt eder" düzenlemesi bulunmaktadır. Sözleşmenin düzenleme tarihinde, henüz Türk Borçlar Kanunu yürürlüğe girmediğinden, olayımızda uygulanması gerekli B.K.nun 484.maddesi hükmü gereğince; yazılı şekilde düzenlenmiş, süresi ve ödenecek kira parasının miktarı açıkça gösterilmiş bir kira sözleşmesini, kiracının kefili sıfatıyla imzalayan kişi sözleşmede gösterilen kira süresi boyunca kiracının ödemekle yükümlü kira parasından kefil sıfatıyla kiralayana karşı sorumludur. Zira böyle bir durumda kefilin sorumluluğu süre ve miktar itibariyle sınırlıdır. Kefaletin geçerli olabilmesi, kefilin sorumlu olacağı miktar ve kefalet süresinin belirlenmesi koşuluna bağlıdır. Bu nedenle kefilin sorumluluğunun kapsamını bilmesi gerekir. Zaten sözleşmenin özel şartlarının 18.maddesi içeriğinden de, kefaletin süresi ve sorumlu olunacak kira parası sözleşmesi süresi olan bir yıl ile sınırlandırılmış bulunmaktadır.
 Bu durumda davalı kefilin sözleşmede belirlenen 07.08.2011-07.08.2012 kira dönemi için kira borçlarından sorumlu tutulacağı bu dönem dışında kalan ve icra takibine konu edilen diğer kira alacakları yönünden sorumlu tutulmasına olanak bulunmadığından, mahkemece kefilin sorumlu olacağı bir yıllık kira parası miktarı üzerinden itirazın kaldırılmasına, diğer fazlaya ilişkin itirazında haklı bulunduğu anlaşıldığından bu kısım için talebin reddine karar verilmesi gerekirken, tüm icra takibine konu kira paralarından sorumlu tutulması doğru değildir. Ayrıca kiracı davalı ile birlikte kira sözleşmesinde kefil sıfatıyla yer alan davalı ...'un da kiracı olduğu kabul edilerek, kiralanandan tahliyesine karar verilmesi de hatalı olmuştur.
 
 ## Yargıtay 6. HD 2016/3731 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/210271900)
+
 Davalı ...'in kira sözleşmesini müşterek borçlu ve müteselsil kefil sıfatıyla imzaladığına ilişkin uyuşmazlık yoktur. Ne var ki, sözleşmenin kefil sıfatıyla imzalanmış olması, doğrudan davalının kefil olarak sorumlu olması sonucunu doğurmaz. Kefaletin, yasanın aradığı şekil şartlarına uygun olması da zorunludur. 6098 sayılı TBK ise 01.07.2012 tarihinde yürürlüğe girmiştir. TBK'nun 583. maddesinin birinci fıkrasına göre; "Kefalet sözleşmesi yazılı şekilde yapılmadıkça ve kefilin sorumlu olacağı azami miktar ile kefalet tarihi belirtilmedikçe geçerli olmaz. Kefilin sorumlu olduğu azami miktarı, kefalet tarihini ve müteselsil kefil olması durumunda, bu sıfatla veya bu anlama gelen herhangi bir ifadeyle yükümlülük altına girdiğini kefalet sözleşmesinde kendi el yazısı ile belirtmesi şarttır." düzenlemesi yer almaktadır. Yasada tarif edilen şekle aykırı düzenlenen kefalet sözleşmesine istinaden kefalet sorumluluğu doğmaz.
 
 ## Yargıtay 6. HD 2016/3621 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/209394800)
 
 Hükme esas alınan 01/01/2008 başlangıç tarihli ve bir yıl süreli kira sözleşmesini ... kefil olarak imzalamıştır. 6098 sayılı Borçlar Kanunu 583 (818 sayılı B.K.nun 484.) maddesine göre, kefalet sözleşmesinin geçerliliği, yazılı şekilde yapılmasına ve kefilin sorumlu olacağı azami miktarın belirlenmesine bağlıdır. Yangın sonucu oluşan zararın ve tamir süresinin, kefalet sözleşmesinin tanzimi sırasında önceden bilinebilir ve belirlenebilir mahiyette olmadığı açıktır. Bu nedenle zarardan davalı kefilin sorumlu olduğundan söz edilemez. Öte yandan kiralananın 13/01/2009 tarihinde tahliye edildiği uyuşmazlık konusu değildir. Dava tarihi itibariyle uygulanması gereken Mülga 818 sayılı Borçlar Kanunu'nun 493. maddesi hükmü gereği bir kimse belirli bir süre için kefil olup da bu zamanın sona ermesini takip eden bir ay içinde alacaklı icraya ya da mahkemeye başvurarak hakkını talep etmezse veya takibatına uzun süre ara verirse kefil kefaletten kurtulur. Somut olayda, davacı, davalı kefil hakkında kira sözleşmesinin sona ermesinden itibaren bir aylık sürenin geçmesinden sonra 15/04/2009 tarihinde açmış olduğu dava ile kira paralarının tahsilini talep etmiştir.
 Bu durumda anılan yasa hükmü gereğince davalı kefilin kira borcundan söz edilemez.
 
 ## Yargıtay 6. HD 2016/3632 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/210303600)
+
 Kiralanana ait 10.01.2012 başlangıç tarihli ve bir yıl süreli kira sözleşmesini davacı on yıl süre ile müşterek ve müteselsil kefil sıfatıyla imzalamıştır. Davalı kiraya veren Ocak ila Mayıs 2012 ayları aylık 700 TL'den; Haziran ila Aralık 2012 ayları 800 TL'den olmak üzere 2012 yılına ilişkin 12 aylık 9.100 TL kira bedeli ile aylık %5 oranında olmak üzere 14.074,80 TL işlemiş faiz toplamı 23.174,80 TL alacağın tahsilini istemiştir. TBK.nın 583.madde hükmüne göre kefaletin geçerli olabilmesi için kefalet süresinin ve kefilin sorumlu olacağı miktarın sözleşmede gösterilmesi gerekir. Kefalet süresinin ve kefilin sorumlu olacağı azami tutarın gösterilmemesi halinde kefalet ancak kira sözleşmesinde kararlaştırılan kira süresi için geçerlidir. Somut olayda, davacının İzmir 6. İcra Müdürlüğü’nün 2015/1553 esas sayılı takip dosyası ile talep ettiği kira alacağı, kira sözleşmesinin birinci kira dönemi olan 10.01.2012-10.01.2013 tarihleri arasındaki ödenmeyen kira bedellerine ait olup, davalı kefilin sorumluluğu kapsamı içinde kaldığı halde yazılı şekilde karar verilmesi doğru değildir.
 
 ## Yargıtay 6. HD 2016/3432 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/210155000)
 
 Takipte dayanılan ve hükme esas alınan 30/05/2011 başlangıç tarihli, 5 yıl süreli kira sözleşmesi konusunda taraflar arasında uyuşmazlık yoktur. Davalı, kira sözleşmesini kefil sıfatı ile imzalamıştır. Kira sözleşmesinin 12 maddesinde davalının müteselsil kefil olduğu belirtildiği gibi kiracı şirkettir. 6102 sayılı TTK'nun 7. maddesinde '' İki veya daha fazla kişi, içlerinden yalnız biri veya hepsi için ticari niteliği haiz bir iş dolayısıyla, diğer bir kimseye karşı birlikte borç altına girerse, kanunda veya sözleşmede aksi öngörülmemişse müteselsilen sorumlu olurlar. Ancak, kefil ve kefillere, taahhüt veya ödemenin yapılmadığı veya yerine getirilmediği ihbar edilmeden temerrüt faizi yürütülemez. Ticari borçlara kefalet hâlinde, hem asıl borçlu ile kefil, hem de kefiller arasındaki ilişkilerde de birinci fıkra hükmü geçerli olur '' düzenlemesi bulunmaktadır. Dava dışı kiracı, ticaret şirketi olduğundan belirtilen yasal düzenleme gereği sözleşmede yazmasa bile davalı kefil kiracının borçlarından müteselsilen sorumludurlar.
 Takibe konu kira alacağı, müteselsil kefilin sorumluluk süresi kapsamında olduğundan davanın esasının incelenerek sonucuna göre bir karar verilmesi gerekirken yazılı gerekçe ile karar verilmesi doğru değildir.
 
 ## Yargıtay 6. HD 2016/3200 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/209622100)
+
 Takibe dayanak yapılan ve hükme esas alınan 01.03.2013 başlangıç tarihli ve bir yıl süreli kira sözleşmesi konusunda taraflar arasında bir uyuşmazlık bulunmamaktadır. Bu sözleşme kiraya veren davacı ... ile kiracı ... arasında akdedilmiş, diğer davalı ... tarafından müteselsil kefil sıfatı ile imzalanmıştır. Sözleşme tarihine göre uygulanması gereken ve kefalette şekil şartını düzenleyen TBK 583. md. (BK. 484. md.) hükmüne göre kefilin sorumlu olacağı azami miktar ile kefalet tarihi belirtilmedikçe kefalet geçerli olamaz. Kefilin sorumlu olduğu azami miktarı, kefalet tarihini ve müteselsil kefil olması durumunda, bu sıfatla veya bu anlama gelen herhangi bir ifadeyle yükümlülük altına girdiğini kefalet sözleşmesinde kendi el yazısıyla belirtmesi şarttır. Sözleşmede, davalı kefil ile ilgili azami sorumluluk miktarı ve kefalet tarihi kendi el yazısıyla belirtilmediğinden kefalet sözleşmesi şekil şartına uygun bulunmamaktadır. Bu nedenle adı geçen davalı müşterek müteselsil kefil hakkındaki istemin reddine karar verilmesi gerekirken yazılı şekilde kabulüne karar verilmiş olması doğru değildir.
 
 ## Yargıtay 6. HD 2016/2936 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/211974000)
 
 Davacı tarafından 12.11.2014 tarihinde, başlatılan takip üzerine düzenlenen örnek 13 ödeme emri kiracı ...’a 14.11.2014 tarihinde tebliğ edilmiş, kefil ...’ya ise tebliğ edilememiştir. İ.İ.K’nun 269. maddesinde ödeme emrinin tebliğinden sonra borçlunun itiraz sebeplerini icra dairesine bildirip yasal ödeme süreleri geçtikten sonra alacaklının merciden itirazın kaldırılması ve tahliye isteyebileceği öngörülmüştür. Ödeme emri davalı kefile tebliğ edilmediğinden henüz itiraz hakkı doğmamış olup anılan maddedeki süreler işlemez. Borçlunun haricen icra takibini öğrenip, icra dairesine itiraz etmesi yasanın emredici hükümleri karşısında sonuca etkili değildir. Bu durumda mahkemece, davalı kefil yönünden istemin reddine karar verilmesi gerekirken yazılı şekilde karar verilmesi doğru değildir.
 
 ## Yargıtay 6. HD 2016/2890 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/211971600)
+
 Müşterek kefaleti düzenleyen BK. 487.madde (TBK. 586 m.) ile kefalette şekil şartını düzenleyen BK. 484.madde (TBK. 583 m.) hükmüne göre kefilin sorumlu olacağı azami miktar ile kefalet tarihi belirtilmedikçe kefalet geçerli olmaz. Kira sözleşmesinin yapıldığı tarihte yürürlükte bulunan BK.nun 484. maddesi gereğince kefalet sözleşmesinin geçerli olması için yazılı şekilde yapılmış olması yanında ayrıca kefilin mesul olacağı miktarında gösterilmiş olması gerekir. . Öte yandan BK.nun 493. maddesi gereğince kefil mahdut bir zaman için kefil olmuşsa asıl borçlunun o zaman dilimi içindeki ödemediği borcundan sorumludur.
 
 ## Yargıtay 6. HD 2016/2793 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/208923500)
 
 Davada dayanılan ve hükme esas alınan 01.09.2013 başlangıç tarihli ve 1 yıl süreli kira sözleşmesini davacı müteselsil kefil olarak imzalamış olup, sözleşme 6098 Sayılı Türk Borçlar Kanun'unun yürürlüğe girmesinden sonra 01/09/2013 tarihinde imzalandığına göre kefaletin şartlarının 6098 Sayılı Yasa Hükümlerine göre belirlenmesi gerekir. TBK.nun kefalet sözleşmesinde şekil şartını düzenleyen 583.maddesi “Kefalet sözleşmesi, yazılı şekilde yapılmadıkça ve kefilin sorumlu olacağı azami miktar ile kefalet tarihi belirtilmedikçe geçerli olmaz. Kefilin, sorumlu olduğu azami miktarı, kefalet tarihini ve müteselsil kefil olması durumunda, bu sıfatla veya bu anlama gelen herhangi bir ifadeyle yükümlülük altına girdiğini kefalet sözleşmesinde kendi el yazısıyla belirtmesi şarttır.” hükmünü içermektedir. Taraflar arasındaki kira sözleşmesinde kefilin sorumlu olduğu azami miktar ve kefalet tarihine ilişkin el yazısı ile yazılmış bir ibare bulunmamaktadır.
 Bu durumda TBK.nun 583.maddesinde belirtilen şekil şartlarına uyulmadan yapılan kefalet sözleşmesi geçersiz olduğundan, mahkemece menfi tespit talebi ile ilgili davanın kabulüne karar verilmesi gerekirken, yazılı gerekçe ile davanın tümden reddine karar verilmesi doğru değildir.
 
 ## Yargıtay 6. HD 2016/2520 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/215670000)
+
 Davacı kefilin temyiz itirazlarına gelince; Davada dayanılan ve hükme esas alınan 01/09/2012 başlangıç tarihli, üç yıl süreli kira sözleşmesi konusunda taraflar arasında uyuşmazlık bulunmamaktadır. Davacı ... kira sözleşmesini kefil olarak TBK.nun yürürlüğe girdiği 01/07/2012 tarihinden sonra 01/09/2012 tarihinde imzalamıştır. TBK.nun kefalet sözleşmesinde şekil şartını düzenleyen 583.maddesi “Kefalet sözleşmesi, yazılı şekilde yapılmadıkça ve kefilin sorumlu olacağı azami miktar ile kefalet tarihi belirtilmedikçe geçerli olmaz. Kefilin, sorumlu olduğu azami miktarı, kefalet tarihini ve müteselsil kefil olması durumunda, bu sıfatla veya bu anlama gelen herhangi bir ifadeyle yükümlülük altına girdiğini kefalet sözleşmesinde kendi el yazısıyla belirtmesi şarttır.” hükmünü içermektedir. Takibe konu kira sözleşmesinde TBK.nun 583.maddesinde belirtilen şekil şartına uyulmadığından kefalet sözleşmesi geçersizdir. Bu durumda mahkemece, davacı kefil yönünden davanın kabulüne karar verilmesi gerekirken yazılı şekilde karar verilmesi doğru değildir.
 
 ## Yargıtay 6. HD 2016/2320 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/215130000)
 
 Dosya kapsamından, davalı kiralayan ile dava dışı kiracı ... arasında 01.06.2004 başlangıç tarihli, 1+3 yıl süreli, aylık 1.000 TL bedelli kira sözleşmesinin imzalandığı, davacının bu sözleşmeye müteselsil kefil sıfatıyla imza attığı hususunda uyuşmazlık bulunmamaktadır. “Mahdut zaman için kefalet” başlıklı Mülga 818 sayılı Borçlar Kanunu 493.maddesine göre, (TBK 601.maddesi) “Bir kimse mahdut bir zaman için kefil olupta bu zamanın inkızasını takip eden bir ay zarfında alacaklı bu bapta icraya veya mankemeye müracaatla hakkını takip etmezse yahut takibatına uzun müddet fasıla verirse kefil kefaletten beri olur.” düzenlemesi bulunmaktadır. Davalı, davacı kefil hakkındaki icra takibini 26/06/2007 tarihinde başlatmış, 13/12/2007 den sonra işlem yapılmayarak dosya takipsiz bırakılmış, 07/11/2013 de ise uzun süre ara verildikten sonra yenilenmiştir. Davalı tarafından uzun süre takibe ara verildiğinden kefilin kefaleti sona erdiğinden davacı tarafından açılan menfi tespit davasının kabulüne karar verilmesi gerekirken yazılı şekilde reddine karar verilmesi doğru değildir.
 
 ## Yargıtay 6. HD 2016/2196 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/210059900)
+
 Takibe dayanak yapılan ve karara esas alınan 01.11.2013 başlangıç tarihli ve dört yıl süreli yazılı kira sözleşmesi konusunda taraflar arasında uyuşmazlık bulunmamaktadır. Kira sözleşmesini davalı ... kefil sıfatıyla imzalamıştır. Tahliye davalarında, sözleşmenin tarafı olan kiracının tahliyesi istenebilir. Bu nedenle davacının yalnızca kiracı hakkında tahliye davası açması ve kiracının tahliyesine karar verilmesi gerekirken, kefil ... hakkında açılan davanın reddi yerine yazılı şekilde kefilin tahliyesine karar verilmesi doğru değildir.
 
 ## Yargıtay 6. HD 2016/1582 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/208655600)
+
 Davalı kefil ... hakkındaki temyiz ve itirazlara gelince; İcra takibinde ve davada dayanılan ve hükme esas alınan 01.02.2013 başlangıç tarihli 1 yıl süreli kira sözleşmesi konusunda taraflar arasında uyuşmazlık bulunmamaktadır. Davalı ... sözleşmeyi kefil olarak TBK.nun yürürlüğe girdiği 01.07.2012 tarihinden sonra 01.02.2013 tarihinde imzalamıştır. TBK.nun kefalet sözleşmesinde şekil şartını düzenleyen 583.maddesi “Kefalet sözleşmesi, yazılı şekilde yapılmadıkça ve kefilin sorumlu olacağı azami miktar ile kefalet tarihi belirtilmedikçe geçerli olmaz. Kefilin, sorumlu olduğu azami miktarı, kefalet tarihini ve müteselsil kefil olması durumunda, bu sıfatla veya bu anlama gelen herhangi bir ifadeyle yükümlülük altına girdiğini kefalet sözleşmesinde kendi el yazısıyla belirtmesi şarttır.” hükmünü içermektedir. Takibe konu kira sözleşmesinde TBK.nun 583.maddesinde belirtilen şekil şartına uyulmadığından kefalet sözleşmesi geçersizdir. Bu durumda mahkemece itirazın kaldırılması isteminin davalı kefil ... yönünden reddine karar verilmesi gerekirken, yazılı şekilde karar verilmesi doğru değildir.
 
 ## Yargıtay 20. HD 2016/2376 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/231898600)
 
 ... 2. Sulh Hukuk Mahkemesi ise,... 1. İcra Müdürlüğünün 2012/7069 Esas sayılı dosyası ile başlatılan takipte yalnızca ... isimli kiracının borçlu olarak gösterildiği, takibe dayanak 01/05/2008 tarihli kira sözleşmesinde de yalnızca ... isimli şahsın kiracı sıfatı ile yer aldığı, davacının, kefil sıfatı ile dahi, kira sözleşmesinin tarafı olmayıp, kesinleşen takipte, sonradan, icra kefili sıfatı ile ödeme taahhüdünde bulunduğu ve iş bu menfi tespit davasının,
 
@@ -109,11 +147,15 @@ kira borcunun bulunmadığına ilişkin herhangi bir itiraz ileri sürülmeksizi
 
 ## Yargıtay 6. HD 2016/1367 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/214543300)
+
 Taraflar arasında akdedilen 22.07.2013 başlangıç tarihli ve beş yıl süreli kira sözleşmeleri ile ... adresindeki işyeri aylık 1.500,00 TL kira bedeli ile, 44/2 adresinde bulunan işyeri ise aylık 7.750,00 TL bedelle kafeterya olarak kullanılmak üzere davalı kiracı ...Şti. ne kiralanmış olup, kira bedellerinin her ayın biri ila beşi arasında ödeneceği kararlaştırılmıştır. Davalı borçlular ... ve ... ise sözleşmeyi kefil sıfatıyla imzalamıştır. Kira sözleşmelerinin 10. maddesinde kiracının kira bedellerinden herhangi birini ödemediği takdirde müteakip aylara ait bir yıllık kira bedelinin ihtara hacet kalmaksızın muacceliyet kespedeceği düzenlenmiştir. Davacı alacaklı 07.01.2014 tarihinde borçlu kiracı şirket ile kefiller aleyhine başlattığı icra takibinde, sözleşmenin 10. Maddesi gereğince muacceliyet kazanmış kira bedelleri açıklamasıyla toplam 101.750,00 TL kira alacağının tahsilini talep etmiş, dava dilekçesinde ise davalıların bir aylık kira bedeli haricinde 2013 yılı Eylül, Ekim, Kasım, Aralık, 2014 yılı Ocak ayı kira bedellerini ödemediklerini açıklamıştır. 01.07.2012 tarihinde yürürlüğe giren TBK'nun 583. maddesinin birinci fıkrasına göre;
 "Kefalet sözleşmesi yazılı şekilde yapılmadıkça ve kefilin sorumlu olacağı azami miktar ile kefalet tarihi belirtilmedikçe geçerli olmaz. Kefilin sorumlu olduğu azami miktarı, kefalet tarihini ve müteselsil kefil olması durumunda, bu sıfatla veya bu anlama gelen herhangi bir ifadeyle yükümlülük altına girdiğini kefalet sözleşmesinde kendi el yazısı ile belirtmesi şarttır." düzenlemesi yer almaktadır. Yasada tarif edilen şekle aykırı düzenlenen kefalet sözleşmesine istinaden kefalet sorumluluğu doğmaz. Somut olayda kira sözleşmesi, 6098 Sayılı TBK'nun yürürlüğe girmesinden sonra imzalanmış olduğundan, kefaletin şekil şartları 6098 Sayılı TBK hükümlerine tabidir. Kira sözleşmesinde, kefilin sorumlu olduğu miktar, kefalet tarihi ve müteselsilen kefil olduğuna ilişkin açıklamalar kefilin el yazısı ile belirtilmediğinden, yasal şekle uygun verilen bir kefalet söz konusu olmadığından, davalı kefillerin borçtan sorumlu tutulması mümkün değildir.
 Bu nedenle bu davalı kefiller hakkındaki davanın bu sebeple reddine karar verilmesi gerekirken yazılı gerekçe ile davanın reddine karar verilmesi doğru değil ise de, hüküm sonucu itibariyle doğru olduğundan HUMK.nun 438/son maddesi gereğince hükmün gerekçesinin bu şekilde değiştirilerek düzeltilmesi gerekmiştir.
 
 ## Yargıtay 6. HD 2016/1149 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/209004100)
 
 Takibe dayanak yapılan ve hükme esas alınan 1.1.2006 başlangıç tarihli ve altı yıl süreli kira sözleşmesi konusunda taraflar arasında uyuşmazlık bulunmamaktadır. Davalı ... sözleşmeyi müteselsil kefil olarak imzalamıştır. Davacı 5.5.2014 tarihinde başlattığı icra takibi ile davalı kiracı ve kefil hakkında, 2013 yılı yıllık kirası ile 2014 yılı ocak ay kirası 3.033 Avro karşılığı 9,181.19 TL'nin tahsili için takip yapmış davalı borçlunun süresinde yaptığı itiraz üzerine iş bu dava açılmıştır. TBK 583. maddesi (BK. 484.) hükmüne göre kefaletin geçerli olabilmesi için kefalet süresinin ve kefilin sorumlu olacağı miktarın sözleşmede
 
@@ -121,31 +163,45 @@ gösterilmesi gerekir. Kefalet süresinin ve kefilin sorumlu olacağı azami tut
 
 ## Yargıtay 6. HD 2016/962 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/208547800)
+
 Davada dayanılan ve karara esas alınan 01.09.2008 başlangıç tarihli ve iki yıl süreli kira sözleşmesi konusunda taraflar arasında uyuşmazlık bulunmamaktadır. Sözleşmeyi davalı şirket kefil sıfatıyla imzalamıştır. Davacı 07.03.2011 tarihinde başlattığı icra takibi ile 01.09.2009 ile 01.09.2011 tarihleri arası kira farkı ile 14.02.2011 tarihinden sonra muaccel hale geldiğini iddia ettiği bir kısım kira paralarını istemiştir. Mahkemece davalı kefilin 01.09.2010 tarihine kadar kira farklarından 1.865,50 TL sorumlu olduğu gerekçesiyle bu miktar üzerinden davalı kefilin itirazının iptaline karar verilmiştir. 818 sayılı Borçlar Kanunu'nun 493. maddesinde (TBK 600) '' Bir kimse mahdut bir zaman için kefil olupta bu zamanın inkızasını takip eden bir ay zarfında alacaklı bu bapta icraya veya mankemeye müracaatla hakkını takip etmezse yahut takibatına uzun müddet fasıla verirse kefil kefaletten beri olur '' düzenlemesi bulunmaktadır. Düzenleme gereği davalı kefil kefalet süresi sonunda borcundan kurtulur. Olayımızda sözleşme süresi 01.09.2010 tarihinde sona ermiş, icra takibi 07.03.2011 tarihinde başlatılmıştır.
 Bu durumda yukarıda açıklanan gerekçelerle davalı kefil kefaletten beri olduğundan davalı kefil hakkındaki davanın reddi gerekirken yazılı şekilde karar verilmesi doğru değildir.
 
 ## Yargıtay 6. HD 2016/204 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/207794200)
+
 Takipde dayanılan ve karara esas alınan dava dışı ... ile davacı arasında imzalanan 01/12/2011 başlangıç tarihli ve üç yıl süreli kira sözleşmesi konusunda taraflar arasında bir uyuşmazlık bulunmamaktadır.Bu sözleşmenin imzalanmasından sonra davalılar, 16/11/2011 tarihli "Garanti Taahhüdü" başlıklı belge ile davacıya ait taşınmazın dava dışı ...'ne kiralanmasından dolayı kiracının mal sahibine karşı her türlü sorumluluğu kapsamında kira hasar, elektrik, su, aidat borçlarından dolayı müştereken ve müteselsilen karşılamayı taahhüt etmişlerdir. Taraflar arasında imzalanan bu garanti taahhüdü geçerli olup tarafları bağlar. Her ne kadar mahkemece tek taraflı kişisel güvence veren sözleşmelerin TBK.nun 603.maddesi gereğince kefaletin azami miktarının gösterilmemesi, eşin rızası ve el yazısı ile kefaletin kabul edildiğinin yazılmaması nedeni ile geçerli olmadığı ileri sürülmüş ise de sözleşmenin imzalandığı tarihte henüz TBK nu yürürlüğe girmemiş olup sözleşme hükümleri geçerlidir. Bu durumda mahkemece işin esasının incelenip sonucuna göre karar verilmesi gerekirken yazılı şekilde davanın reddine karar verilmesi doğru değildir.
 
 ## Yargıtay 6. HD 2015/11221 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/146096300)
 
 Davalılardan kefil F.. K..’ın temyiz itirazlarına gelince; Taraflar arasında 01.06.2003 başlangıç tarihli ve bir yıl süreli kira sözleşmesi düzenlendiği hususunda uyuşmazlık bulunmamaktadır. Davalı borçlulardan F.. K.. kira sözleşmesini müşterek müteselsil kefil sıfatıyla imzalamıştır. Davacı alacaklı, davalı kiracı şirket ve kefil aleyhine 13.11.2009 tarihinde başlatmış olduğu icra takibi ile Ocak/2007 ile Haziran/2014 ayları arası toplam 52.500-TL asıl alacak ile 7.378,76-TL işlemiş faizin tahsilini istemiştir. Müteselsil kefaleti düzenleyen T.B.K.nun 586.maddesi ile kefalette şekil şartını düzenleyen 583.maddesi hükmüne göre kefilin sorumlu olacağı azami miktar ile kefalet tarihi belirtilmedikçe kefalet geçerli olamaz. Müteselsil kefilin sorumluluğu kira sözleşmesindeki ilk yıl için geçerlidir. Yenilenen dönemlerde de sorumlu tutulabilmesi için kefalet süresi ile kefil olunan miktarın açıkça kararlaştırılması gerekmektedir. Davacının dayandığı kira sözleşmesinde de kefilin sorumlu olduğu süre ve kefalet miktarı açıkça kararlaştırılmadığına göre yenilenen döneme ait kira parasından kefilin sorumlu tutulması doğru olmadığından hükmün bozulması gerekmiştir.
 
 ## Yargıtay 6. HD 2015/10770 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/149271500)
+
 Davada dayanılan ve hükme esas alınan 01.09.2013 başlangıç tarihli ve 3 yıl süreli kira sözleşmesi konusunda taraflar arasında bir uyuşmazlık bulunmamaktadır. Davalılardan A.. K.. sözleşmeyi kiracı olarak, davalılar Y.. K.. ve K.. K.. ise kefil olarak imzalamışlardır. Taraflar arasındaki kira sözleşmesi 01.09.2013 tarihli olup, 6098 Sayılı Türk Borçlar Kanun'unun yürürlüğe girmesinden sonra imzalanmıştır. Bu nedenle kefaletin şartlarının 6098 Sayılı Yasa hükümlerine göre belirlenmesi gerekir. TBK.nun kefalet sözleşmesinde şekil şartını düzenleyen 583.maddesi “Kefalet sözleşmesi, yazılı şekilde yapılmadıkça ve kefilin sorumlu olacağı azami miktar ile kefalet tarihi belirtilmedikçe geçerli olmaz. Kefilin, sorumlu olduğu azami miktarı, kefalet tarihini ve müteselsil kefil olması durumunda, bu sıfatla veya bu anlama gelen herhangi bir ifadeyle yükümlülük altına girdiğini kefalet sözleşmesinde kendi el yazısıyla belirtmesi şarttır.” hükmünü içermektedir. Taraflar arasındaki kira…
 
 ## Yargıtay 6. HD 2015/10718 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/148751500)
 
 Takibe dayanak yapılan ve hükme esas alınan 01.04.2011 başlangıc tarihli ve 4 yıl süreli kira sözleşmesinde taraflar arasında bir uyuşmazlık bulunmamaktadır. Sözleşmenin 20.maddesinde: ”iş bu kontrat Ağustos 2011 kirası ve 8.000 TL depozito ödendiğinde geçerli olacaktır. Ayrıca müşterek ve müteselsil kefil başlıklı maddede ise ”Ben kefil D.. C.. kefaletim iş bu kira akdinin daha sonraki yıllarda da kendiliğinden uzaması halinde de kefaletimin devam etmesi kaydıyla kiracının kira ve işletme giderlerinden çıkabilecek borcunun 45.000 TL'ye kadar borcuna müşterek ve müteselsil kefil sıfatıyla altı yıl süre ile sorumluyum“ diye matbu olarak yazılıp kefil D.. C.. tarafından imzalandığı anlaşılmaktadır. Kiralananın tahliye edilip anahtarları 10.03.2014 tarihinde kiraya verene teslim edilmiştir. Takibe konu kira bedeli tahliyeden sonraki makul süre tazminatına ilişkin olup kefil tazminattan sorumlu tutulamayacağından kefil hakkında açılan davanın reddine karar verilmesi gerekirken sorumlu tutulması doğru değildir.
 
 ## Yargıtay 6. HD 2015/10717 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/141725800)
+
 Takibe dayanak yapılan ve hükme esas alınan 01.08.2012 başlangıç tarihli ve bir yıl süreli kira sözleşmesinde taraflar arasında bir uyuşmazlık bulunmamaktadır. Sözleşmenin 20 maddesinde: ”iş bu kontrat Ağustos 2011 kirası ve 9.000 TL depozito ödendiğinde geçerli olacaktır. Ayrıca müşterek ve müteselsil kefil başlıklı maddede ise ”Ben kefil D.. C.. kefaletim iş bu kira akdinin daha sonraki yıllarda da kendiliğinden uzaması halinde de kefaletimin devam etmesi kaydıyla kiracının kira ve işletme giderlerinden çıkabilecek borcunun 45.000 TL'ye kadar borcuna müşterek ve müteselsil kefil sıfatıyla altı yıl süre ile sorumluyum“ diye matbu olarak yazılıp kefil D.. C.. tarafından imzalandığı anlaşılmaktadır. Kiralananın tahliye edilip anahtarları 10.3.2014 tarihinde kiraya verene teslim edilmiştir. Taraflar arasındaki sözleşme 6098 Sayılı TBK yürürlülük tarihi olan 01.07.2012 tarihinden sonra imzalanmıştır. 6098 Sayılı TBK kefalet sözleşmesinde kefalet şartını düzenleyen 583.maddesinde.”kefalet sözleşmesi yazılı şekilde yapılmadıkça ve kefilin sorumlu olacağı azami miktar ile kefalet tarihi belirtilmedikçe geçerli olmaz.
 Kefilin sorumlu olduğu azami miktarı, kefalet tarihini,ve müteselsil kefil olması durumunda ,bu sıfatla veya bu anlama gelen herhangi bir ifadeyle yükümlülük altına girdiğini kefalet sözleşmesinde kendi el yazısıyla belirtmesi şarttır.”hükmünü içermektedir.Takibe konu kira sözleşmesinde TBK'nun 583.maddesinde belirtilen şekil şartına uyulmadığından kefalet sözleşmesi geçersizdir. Öte yandan istenilen ve takibe konu kira bedeli tahliyeden sonraki makul süre tazminatına ilişkin olup kefil tazminattanda sorumlu tutulamayacağından kefil hakkında açılan davanın reddine karar verilmesi gerekirken sorumlu tutulması doğru değildir.
 
 ## Yargıtay 6. HD 2015/10168 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/149740900)
 
 Takibe konu edilen ve hükme esas alınan 15.04.2009 başlangıç 31.12.2009 bitiş tarihli kira sözleşmesi konusunda uyuşmazlık bulunmamaktadır sözleşme ile aylık kira parasının 1.010,00 TL olduğu ve her ayın beşine kadar peşin olarak ödeneceği kararlaştırılmıştır. Davalı sözleşmeyi müşterek borçlu ve müteselsil kefil sıfatıyla imzalamıştır. Davalı kefil tarafından imzalanan 29.12.2011 tarihli taahhütname ile 2012 yılı için aylık 1300 TL toplam 15.600,00 TL kira bedelini ödemeyi kabul ederek müşterek borçlu ve müteselsil kefil sıfatının devam ettiğini beyan etmiştir. Davacı tarafından 25.02.2014 tarihinde davalı kefil ile birlikte dava dışı kiracı ve dava dışı diğer kefiller hakkında başlatılan icra takibinde 05.11.2010 ila 05.12.2012 tarihleri arasındaki 26 adet kira alacağı toplamı 31.434,00 TL asıl alacak ve 6.301,57 TL işlemiş faiz alacağının tahsilinin istenmiş, icra takibine konu kira alacakları içinde aylık 1.300,00 TL üzerinden 2012 yılı aylarının tamamının da kira paralarının tahsilinin istendiği görülmüştür. BK. 484 maddesi hükmüne göre kefaletin geçerli olabilmesi için kefalet süresinin ve kefilin sorumlu olacağı miktarın sözleşmede gösterilmesi gerekir.
 Kefalet süresinin ve kefilin sorumlu olacağı azami tutarın gösterilmemesi halinde kefalet ancak kira sözleşmesinde kararlaştırılan kira süresi için geçerlidir. Öte yandan davalının kefaleti, BK. 493. maddesi uyarınca sınırlı süreli bir kefalet olup anılan yasa hükmünde belirtildiği üzere, kefalet süresinin bitimini takip eden bir ay zarfında alacaklı icraya veya mahkemeye müracaatla hakkını takip etmezse, yahut takibatına uzun müddet ara verirse, kefil kefaletten beri olur. Olayımızda sözleşme ve taahhüt süresi bitmiş olmasına rağmen, BK. 493 maddesinde belirtilen bir ay içerisinde icra takibi yapılmamıştır. Sözü edilen süre hak düşürücü süre olmasına nazaran mahkemece
@@ -153,5 +209,7 @@ Kefalet süresinin ve kefilin sorumlu olacağı azami tutarın gösterilmemesi h
 davalı kefil hakkındaki davanın reddine karar verilmesi gerekirken yazılı şekilde kısmen kabulüne karar verilmesi usul ve yasaya aykırı olduğundan hükmün bozulması gerekmiştir.
 
 ## Yargıtay 6. HD 2015/10092 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/149651900)
 
 Takipte dayanılan ve karara esas alınan 10/3/2007 başlangıç tarihli ve bir yıl süreli kira sözleşmesi konusunda taraflar arasında bir uyuşmazlık bulunmamaktadır. Davalı S. kira sözleşmesini müşterek ve müteselsil kefil sıfatı ile imzalamıştır. Davalı alacaklı tarafından 18/02/2013 tarihinde başlatılan icra takibi ile 2012 Şubat ayından 2013 Şubat ayına kadar olan kira parası olarak toplam 10500 TL kira parasının tahsilini istenmiştir. Kefil Borçlar Kanunun 484.maddesine göre ilk bir yıllık kira parası için sorumlu olduğundan takibe konu kira parasından sorumlu tutulması doğru değildir.

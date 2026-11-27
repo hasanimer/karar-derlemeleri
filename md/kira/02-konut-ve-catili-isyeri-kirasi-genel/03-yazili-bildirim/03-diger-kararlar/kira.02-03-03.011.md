@@ -27,9 +27,13 @@ uyari: "Derleyenin seçtiği alıntılardır; kararın tamamı değildir. Künye
 
 ## Ankara BAM 26. HD 2026/400 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1199822500)
+
 Bu durumda öncelikle ... plakalı aracın kaza tarihi itibariyle trafik tescil kayıtlarının ve tüm dayanak belgelerin mercinden getirilmesi, davalı tarafça ibraz edilen sözleşmenin adi yazılı şekilde düzenlenmiş olması nedeniyle 3. kişileri bağlayacak güçte bir kira sözleşmesi olup olmadığı değerlendirilip, varsa aracın kiracıya teslimine ilişkin tutanaklar davalı taraftan istenmeli, kira sözleşmesinin ve kira bedelinin maliye ve vergi dairelerine bildirilip bildirilmediği, araca ilişkin maddi yükümlülüklerin kim tarafından yerine getirildiği, kaza tarihinde araç üzerindeki fiili hakimiyetin ve ekonomik yararlanmanın kimde olduğu araştırılmalı, gerektiğinde araç sahibi ve kiracının varsa ticari defter ve kayıtları üzerinde bilirkişi marifetiyle inceleme yaptırılmalı ve buna göre, davalı işleten sıfatının bulunup bulunmadığı değerlendirilerek sonucuna göre bir karar verilmesi gerekirken eksik inceleme ve yetersiz gerekçe ile yazılı şekilde karar verilmiş olması isabetli değildir.
 
 ## İstanbul BAM 53. HD 2026/104 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1190514800)
 
 Saklı tutma, teslim-kabul tutanağına düşülecek bir kayıtla veya ifayı kabulden önce yapılacak yazılı bildirimle yahut iş bedelinin ceza alacağı kesilerek ödenmesi gibi buna delalet eden bir eylem veya işlem ile gerçekleştirilebilir. Açık feragat ise, borçluya yöneltilen ve varması gereken bir irade beyanıyla veya sözleşmeye önceden ifanın çekincesiz kabul edileceğine ilişkin bir hükmün konulmasıyla olur. Bazen de, çekincenin varlığı bazı koşulların gerçekleşmesine bağlanabilir.Bu açıklamalar doğrultusunda dosya
 
@@ -37,10 +41,14 @@ kapsamıdeğerlendirildiğinde; davacı iş sahibinin cezayı isteme hakkının 
 
 ## İstanbul BAM 16. HD 2025/1679 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1187881500)
+
 Dolayısıyla davalı-kiralayanın yargılamanın iadesi talebi talebi feragatla sonuçlanmış, finansal kiralama sözleşmelerinin haklı nedenle feshedildiği, finansal kiralama konusu malın teslim edilmediğine dair iddianın ispatlanamadığı hususları kesinlik kazanmış olup, sözleşme konusu malın teslim edilmediği iddiasına dayalı olarak açılan davanın reddine karar verilmesi gerekirken, yazılı şekilde kısmen kabul kararı verilmesi doğru görülmemiştir.Davalı finansal kiralama şirketi tarafından, finansal kiralama sözleşmelerine ilişkin kira bedellerinin tahsili talebiyle başlatılan icra takibine karşı, işbu davanın 3 davacısı tarafından davalı finansal kiralama şirketi aleyhine finansal kiralama sözleşmesine konu malların teslim edilmediği iddiasıyla, işbu davanın da konusunu oluşturan 24/06/1998 ve 22/07/1998 tarihli finansal kiralama sözleşmelerinin feshi talebini içeren davada, İstanbul 2.Asliye Ticaret Mahkemesi 2003/1075 E. 2007/763 K.sayılı ilamı ile davanın reddine karar verilmiş ve Yargıtay incelemesinden geçen bu karar da kesinleşmiştir.
 Kesinleşen bu kararda, finansal kiralama şirketinin edimlerini yerine getirdiği gibi, malı bizzat terslim etme yükümlülüğünün bulunmadığına hükmedilmiştir. Davalı finansal kiralama şirketinin edimlerini yerine getirdiği, malı teslim etme yükümlülüğünün bulunmadığına dair kesinleşen karar karşısında, malın teslim edilmediği, teslime ilişkin belgelerin sahte olduğu iddiasıyla açılan davanın reddine karar verilmesi gerekirken, yazılı şekilde kısmen kabul kararı verilmesi doğru görülmemiştir.Kesinleşen bu mahkeme kararlarından sonra, davacılardan ... ve ... .. San. ve Tic. Ltd. Şti.tarafından dava dışı Gümrük Bakanlığı aleyhine açılan davada, İstanbul Anadolu 20.Asliye Hukuk Mahkemesi 2015/186 E. 2015/415 K.sayılı ilamı ile düzenleme tarihi 09/06/1998 ve 09/06/1998 olarak gösterilen, .. Ltd. Şti'ce tescilli gözüken gümrük beyannamesinin sahte olduğunun tespitine karar verilmiştir. Verilen bu kararın yukarıda bahsi geçen kesinleşen İstanbul 4.Asliye Ticaret Mahkemesinin 2001/1367 E. 2002/988 K. sayılı ve İstanbul 2.Asliye Ticaret Mahkemesi 2003/1075 E. 2007/763 K.sayılı ilamlarının bağlayıcı etkisini ortadan kaldırması mümkün değildir.
 
 ## İstanbul BAM 44. HD 2025/1781 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1188142200)
 
 -Sözleşmenin Kiralayanın Fesih Hakkını Kullanması kenar başlıklı maddede kiralayan, aşağıda belirtilen durumlarda, sözleşmeyi yazılı bildirime, hüküm istihsaline ve mehil verilmesine gerek kalmaksızın feshetme hakkına sahiptir: Kiracının kiralama bedellerini
 
@@ -48,11 +56,15 @@ Kesinleşen bu kararda, finansal kiralama şirketinin edimlerini yerine getirdi�
 
 ## İstanbul BAM 55. HD 2025/4824 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1184958200)
+
 Gayrimenkul Yönetim Hizmetleri Anonim Şirketi'nin ise yönetim hizmetlerini sağlandığı işletmeci ünvanı taşımış olduğu, davalı ... Özel Güvenlik Hizmetleri Anonim Şirketi'nin ise AVM'nin güvenlik işlerinden sorumlu bir firma olduğu, davada, davacıya ait iş yerinde meydana gelen hırsızlık nedeniyle oluşan zararların davalılardan tahsilinin talep edildiği, dava dışı ... Kuyumculuk ile davalı... arasında kira sözleşmesi yapıldığı, dava dışı ...
 Kuyumculuk ile davacı arasında alt kira sözleşmesi yapıldığı, davacı ile davalılardan biri arasında kiracılık ilişkisi ve kira sözleşmesi bulunmadığı, davacı kendi kira ilişkisine dayanarak dava açamadığı gibi kendi kiraya verenine de dava açmadığı, asıl kira sözleşmesindeki kiraya veren ile alt kira sözleşmesinin kiracısı arasında doğrudan ve dolaylı olarak sözleşmesel (nisbi) bir ilişkinin bulunmadığı, alt kiracının sözleşemeye ilişkin ifa, ayıp ve eksiklik konusunda taleplerinin muhatabının kendi kiraya vereni olan asıl sözleşmenin kiracısı olduğu, asıl kiraya verene müracaatının olamayacağı, tüm bu nedenlerle dava konusu uyuşmazlığın kira sözleşmesi uyarınca değil, tacirler arası hizmet sözleşmeleri uyarınca çözümlenecek olduğu gözetildiğinde, mahkemesince işin esasına girilerek bir karar verilmesi gerekirken yazılı şekilde görevsizlik kararı verilmesinin hatalı olduğu anlaşılmakla istinaf başvurusunun kabulüne karar vermek gerekmiştir.
 Dairemiz ilk derece mahkemesi kararını hem maddi olay, hem de hukuka uygunluk bakımından incelemeye tabi tutarak tespit edilen yargılama hatalarını bizzat düzeltmek amacıyla yapılan inceleme sonunda; duruşma yapılmasına gerek olmadığı, mahkemesince işin esasına girilerek bir karar verilmesi gerekirken yazılı şekilde görevsizlik kararı verilmiş olmasının hatalı olduğu anlaşılmakla HMK 353/1-a/3 maddesi gereğince istinaf başvurusunun kabulüne karar vermek gerekmiştir.
 
 ## İstanbul BAM 55. HD 2025/4420 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1183768500)
 
 Kiraya Veren Satış Noktalarr KİRAYA VEREN'in araç kiralama hizmeti veren şubeleri franchise alanlarının ve diğer işyerlerinin bulunduğu yerleri ifade eder.g. -Kiraya Veren Araçları:
 Kiraya Veren'in maliki ve/veya kiracısı ve/veya alt kiracısı ya da herhangi bir hukuki ilişkidolayısıyla üçüncü kişilere aracı kiraya vermeye yetkili olduğu ve bu sebeple araç işleten sıfatını haiz olduğu ve işbu Sözleşme kapsamında şirket tarafından Kurumsal Müşteri Paneli üzerinden rezerve edilebilecek olan tüm araçları ifade eder...." şeklinde düzenlendiği, kiraya verenin takibe konu sözleşme dışındaki kişi olduğınun sabit olduğu, her iki tarafın tacir tüzel kişiliğe haiz olduğu, taraflar arasındaki ilişkinin ticari bir ilişki ve davanın ticari bir dava olduğu gözetildiğinde, uyuşmazlığın Ticaret Mahkemesinde görülüp sonuçlanması gerektiği gözetilerek mahkemesince işin esasına girilerek bir karar verilmesi gerekirken yazılı şekilde görevsizlik kararı verilmesinin hatalı olduğu anlaşılmakla istinaf başvurusunun kabulüne karar vermek gerekmiştir.Dairemiz ilk derece mahkemesi kararını hem maddi olay, hem de hukuka uygunluk bakımından incelemeye tabi tutarak tespit edilen yargılama hatalarını bizzat düzeltmek amacıyla yapılan inceleme sonunda; duruşma yapılmasına gerek olmadığı, mahkemesince işin esasına girilerek karar verilmesi gerekirken
@@ -61,10 +73,14 @@ yazılı şekilde görevsizlik kararı verilmiş olmasının hatalı olduğu anl
 
 ## İstanbul BAM 43. HD 2025/1564 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1183953200)
+
 Davaya konu adi yazılı şekilde yapılan 03/06/2015 tarihinde adi nitelikte intifa sözleşmesinde intifanın sona ereceği tarih 04/03/2020 olarak belirlenmiştir. Bu haliyle, söz konusu intifanın esasen önceki intifanın sona erdiği tarihten itibaren 5 yıl hesaplanarak belirlendiği ve sözleşmede kararlaştırılan aylık 19.000,00 USD ödemenin toplam intifa bedeli olan 1.140.000,00 USD'nin 60 aya bölünmesi ile bulunduğu, buna göre davaya konu intifa sözleşmesi ile önceki intifa hakkının devamının amaçlandığı anlaşılmaktadır. Bu durumda, sözleşmenin anılan niteliği itibariyle, davacı sözleşme tarihinden itibaren, intifa hakkının terkini ve/veya taşınmazın maliklere iadesi tarihine kadar intifa bedelinden sorumludur. Davacının, 07/01/2016 tarihli ek sözleşme ile intifa ivazının Ocak, Şubat, Mart aylarına ilişkin avans maliklere ödediğine göre en azından bu tarihler itibariyle taşınmazın maliklere iade edilmediği anlaşılmaktadır. Davacının dayandığı kira sözleşmesi ise 10/05/2016 tarihli olup, davaya konu dönemler itibariyle eldeki uyuşmazlığa bir etkisi bulunmamaktadır.
 Davacının taşınmazı iade etmediği ve kendi edimini de ifa etmeye başladığı nazara alındığında bu aşamada taşınmazın iade edilmediği dönem için sözleşmenin geçersizliğini ileri sürmek hakkın kötüye kullanılması niteliğindedir. Bu nedenle davacının talep edebileceği bir alacağı bulunmamakta olup, ilk derece mahkemesince davanın reddine karar verilmesinde bir isabetsizlik görülmemiştir.Davalı tarafça ilk derece mahkemesi kararı vekalet ücreti yönünden istinaf edilmiştir. Yargıtay 11. Hukuk Dairesinin istikrarlı bir şekilde kabul ettiği üzere, yabancı para borcu ile ilgili alacaklarda talep edilen yabancı paranın dava tarihindeki efektif döviz kuru karşılığı Türk Lirası üzerinden, karar tarihindeki tarifeye göre vekalet ücreti ile nisbi karar ve ilam harcının hesaplanması gerekmektedir.(Yargıtay11. Hukuk Dairesinin 14.12.2022 Tarih ve 2021/8284 E.- 2022/9092 K. sayılı; 19.09.2011 Tarih ve 2010/966 E. - 2011/10441 K. Sayılı kararları). İlk derece mahkemesini kararı anılan kararlara uygun olup davalı yan lehine takdir edilen vekalet ücretinde bir isabetsizlik bulunmamaktadır.
 
 ## İstanbul BAM 43. HD 2025/1541 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1182914700)
 
 No’lu bağımsız bölüm satışına ilişkin sözleşme bulunmakta olup; davacı teslim tarihinin 18 ay olarak belirlendiği belgeye göre teslim tarihine uyulmaması sebebiyle Türk Borçlar Kanunu'nun 125. maddesinde belirtilen gecikme tazminatı kapsamında mahrum kalınan kira bedelinin tahsili talebini davalı ...... Yatırım Ortaklığı A.Ş'ye yöneltmiştir. Arsa sahibi olan davalı ...... Yatırım Ortaklığı A.Ş'nin anılan belgede imzası bulunmadığı gibi dosya kapsamına davalının teslim tarihine yönelik sorumluluğu yüklendiğine dair herhangi bir delil de ibraz edilmemiştir. Davacının dayandığı ... satış vaadi sözleşmesinin 18.13.maddesinde de alıcının satış vaadi sözleşmesi nedeniyle doğacak tüm tazminat ve talep haklarının muhatabı olarak yükleniciyi kabul edeceğinin düzenlendiği gözetildiğinde davalıya husumet yöneltilemeyecek olup, mahkemece pasif husumeti başka bir deyişle taraf sıfatı bulunmayan davalı ...... Yatırım Ortaklığı A.Ş. yönünden davanın reddine karar verilmesinde isabetsizlik yoktur.2.Türk Borçlar Kanunu'nun (TBK) "Sözleşmelerin şekli" başlıklı 12.maddesine göre sözleşmelerin geçerliliği, kanunda aksi öngörülmedikçe, hiçbir
 
@@ -72,10 +88,14 @@ No’lu bağımsız bölüm satışına ilişkin sözleşme bulunmakta olup; dav
 
 ## İstanbul BAM 14. HD 2025/1626 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1177473500)
+
 Somut olayda, her iki tarafça imzalanmakla adi yazılı şekilde yapıldığı anlaşılan sözleşme 6098 sayılı Türk Borçlar Kanunu'nun 520. maddesindeki şartlara uygun geçerli bir tellallık sözleşmesi olup tarafları bağlar. Bu nedenle, simsarlık sözleşmesi geçerli olup bu sözleşme uyarınca davacının ücrete hak kazanıp kazanmadığının tespiti gerekir. TBK'nın 521/1. maddesi uyarınca simsar, ancak yaptığı faaliyet sonucunda sözleşme kurulursa ücrete hak kazanır. Tellallık sözleşmesi, tellal ile bu sözleşmeyi imzalayan kişi arasında hak ve borç doğuran bir sözleşmedir. Davalı, şartların gerçekleşmesi hâlinde, davacıya karşı sözleşme ile yükümlendiği ücretten sorumludur.Ancak öncelikle dava konusu 07.11.2017 tarihli ''Gayrimenkul Görme ve Hizmet Bedeli Sözleşmesi'' başlıklı sözleşmeyi davalı adına imzaladığı görülen ...'ın bu sözleşmeyi davalı adına imzalama yetkisi olup olmadığı, davalının bu sözleşmeye icazet verip vermediği, bunun sonucuna göre sözleşmenin davalı açısından bağlayıcı olup olmadığı hususlarının tespiti gerekir.
 Somut olayda, davalı şirketin ticaret sicil kayıtlarında yer alan imza sirkülerine göre, söz konusu sözleşmeyi imzalayan ...'ın 4. derece imzaya yetkili şirket temsilcisi olduğu, mağaza kira sözleşmeleri yönünden 3.derece imzaya yetkili şirket yetkilisi ile birlikte atacağı imzalar ile yer kiralayabileceği, simsarlık sözleşmesine ilişkin bir düzenlemenin belirtilmediği görülmüştür.Dava konusu sözleşme dava dışı ... tarafından imzalanmış olup adı geçen kişinin şirkette 4.dereceden imzaya yetkili ve depo lojistik müdürü olduğu görülmektedir. Sözleşme içeriğinde sözleşmenin davalı şirket için yapıldığının belirtildiği, taşınmazın davalı şirkete depo kiralamak amacı ile görüldüğü yazılıdır. Sözleşme tarihinde ...'ın davalı şirkette 4.dereceden imzaya yetkili ve depo lojistik müdürü olduğu, sözleşmeyi bu sıfatla imzaladığı, dava konusu taşınmazı davalı adına gördüğü ve dava konusu yerin davalının deposu olarak davalı şirket tarafından 01.08.2018 tarihli kira sözleşmesi ile kiralandığı, bu haliyle davalı lojistik müdürü olan ...'ın işlemine davalı yanca onay verildiği sabit olduğundan davalı vekilinin aksi yöndeki istinaf sebebi yerinde görülmemiştir.
 
 ## İstanbul BAM 17. HD 2025/1258 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1173655100)
 
 Bu durumda mahkemece, belirlenen asıl alacağın TL cinsinden kayıt ve kabulüne, işlemiş faize yönelik istemin reddine karar verilmesi gerekirken, yazılı şekilde yanılgılı gerekçeye dayalı olarak hüküm kurulması doğru olmamıştır." şeklindedir.Dosya kapsamında sunulan
 
@@ -85,13 +105,19 @@ kira bedeli, temerrüt faizi, masraf olmak üzere davacının 3.089.117,65 TL al
 
 ## İzmir BAM 4. HD 2025/1344 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1156986600)
+
 Tüm bu açıklamalara göre; dava konusu aracın 25/08/2017 tarihinde kiralandığına ilişkin sözleşme ibraz edilmiş ise de sözleşmenin adi yazılı şekilde yapılmış olması nedeniyle davacıyı bağlamayacağından, aracın uzun süreli kira sözleşmesi ile adı geçen kiracıya teslim edildiği, bedelin tahsil edilip kayıtlara geçirildiği, özetle fiili hakimiyetin kiracıda olduğu yasal deliller ile gereği gibi ispat edilemediğinden, davalı vekilinin işleten sıfatına yönelik istinaf başvurusu yerinde görülmemiştir.
 
 ## İzmir BAM 4. HD 2025/910 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1144514800)
+
 Davacının kira kaybına ilişkin dayanağı olarak sunulan 15/01/2017 tarihli forklift kiralama protokolü her şeyden önce adi yazılı şekilde düzenlendiği gibi protokolün 9. maddesinde kiralama süresinin gösterilmediği, (a) bendinde aynen "protokol süresi araçların teslim tarihinden itibaren ... aydır." şeklinde yazılı olduğu anlaşılmaktadır. Sözleşme incelendiğinde 7. maddesinde aylık kiralama bedeli toplam 1.300,00 TL olarak gösterilmiş, bedelin hesabında aracın bir günlük vardiya çalışmasının temel alındığı ifade edilmiştir.
 
 ## İstanbul BAM 55. HD 2025/817 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1129402300)
 
 Taraflar da yargılama bitinceye kadar görev itirazında bulunabilirler. Görev itirazı yapılmamış olsa bile re'sen mahkeme, ilk önce görevli olup olmadığını inceleyip karara bağlamalıdır.HMK 4/a maddesi gereğince "kiralanan taşınmazların İcra İflas Kanununa göre ilamsız icra yoluyla tahliyesine ilişkin hükümler ayrık olmak üzere kira ilişkisinden
 
@@ -105,16 +131,22 @@ Zira, Anayasa Mahkemesi, dava şartı olarak arabuluculuğa dair yasal düzenlem
 
 ## İstanbul BAM 45. HD 2025/32 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1108473900)
+
 Saklı tutma, teslim-kabul tutanağına düşülecek bir kayıtla veya ifayı kabulden önce yapılacak yazılı bildirimle yahut iş bedelinin ceza alacağı kesilerek ödenmesi gibi buna delalet eden bir eylem veya işlem ile gerçekleştirilebilir..." şeklinde açıklanmıştır.Yine Yargıtay Hukuk Genel Kurulu'nun 19/10/2021 tarihli 2017/(13)3-2503 E. 2021/1258 K. sayılı kararında; "...Somut olayda, taraflar arasında imzalanan sözleşmenin 34.2 maddesinde düzenlenen; “Yüklenicinin sözleşmeye uygun olarak malın kısmi kabule konu olan kısmını süresinde teslim etmemesi halinde idare tarafından en az on gün süreli yazılı
 
 ihtar yapılarak gecikilen her takvim günü için teslim edilmeyen kısmın bedelinin %2 oranında gecikme cezası uygulanır” şeklindeki hükmünün ifaya ekli cezai şart mahiyetinde olduğu her türlü duraksamadan uzaktır...",Yargıtay 6. Hukuk Dairesi'nin 25/06/2024 tarihli 2022/4522 E. 2024/2259 K. sayılı kararında; "Taraflar arasında düzenlendiği ihtilâfsız olan sözleşmede “İnşaat bu süre içerisinde bitirilmez ise kira ve ceza tazminatı olarak her bir geçen ay için 5.000,00, YTL ödenecektir” hükmü kabul edilmiştir. Kararlaştırılan bu ceza, niteliği itibariyle sözleşme tarihinde yürürlükte olan 818 sayılı BK'nın 158/II. maddesinde düzenlenen ifaya ekli ceza niteliğinde olup, sözleşmede aksi kararlaştırılmamışsa ceza-i şart isteminde bulunan iş sahibinin eseri teslim alırken ihtirazî kayıt ileri sürmesi veya bu hakkını saklı tutacak şekilde karşı tarafa ihtarda bulunması gerekir.
 
 ## İstanbul BAM 17. HD 2024/1455 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1092107600)
+
 Taraflardan herhangi birinin, geçerlilik süresi bitiş tarihinden 90 gün öncesine kadar karşı tarafa noter ile yazılı bildirim ile sözleşmeyi sona erdirmemesi halinde sözleşmenin süresi 4'er yıllık periyotlarla uzar. İş bu sözleşmenin erken feshi durumunda, 6.000 Euro ceza bedeli ödenecektir..." hükmünü ihtiva ettiği görülmüştür. Sözleşme konusu bahsi geçen... Hotel'in 18/02/2013 tarihinde davalı tarafından kiralanarak işletildiği, ancak 28/01/2015 tarihinde kiralayan ve kiracı arasında akdedilen fesih protokolü ile kira sözleşmesinin karşılıklı olarak 31/12/2014 tarihinden itibaren geçerli olmak üzere feshedilmesi hususunda tarafların anlaştığı, ... Hotel'in 10/12/2013 tarihinde davalı tarafından kiralanarak işletildiği, ancak 31/03/2015 tarihinde akdedilen borç tasfiye-fesih ve karşılıklı ibra protokolü ile kira sözleşmesinin karşılıklı olarak 31/03/2015 tarihinden itibaren geçerli olmak üzere feshedilmesi hususunda tarafların anlaştığı, son olarak ...
 Hotel'in 10/12/2013 tarihinde davalı tarafından kiralanarak işletildiği, ancak 26/02/2015 tarihinde akdedilen fesih protokolü ile kira sözleşmesinin karşılıklı olarak 26/02/2015 tarihinden itibaren geçerli olmak üzere feshedilmesi hususunda tarafların anlaştığı görülmüştür. Buna göre davalı, davacı ile aralarında imzalanan sözleşme ve taahhütname tarihinden yaklaşık 7-9 ay sonra otellere ilişkin kira sözleşmelerini mal sahibi ile yaptığı karşılıklı fesih protokolü ile feshettiğine göre sözleşmenin 6. maddesinde belirtildiği şekilde otelin mülkiyetinin değişmesi veya otelin yönetiminin değişmesi gibi bir durum söz konusu olmayıp fesih ile birlikte kira sözleşmelerine konu taşınmazlar davalının kendi beyanıyla da ortaya konduğu üzere mal sahibine teslim edilmiştir. Bu durumda taraflar arasındaki sözleşmenin 6. maddesi uyarınca, sözleşmelerin yeni kiracılara devredilerek devamlılığının sağlandığına yönelik davalı itirazlarına itibar edilmemiştir.
 
 ## İstanbul BAM 44. HD 2024/1847 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1083531200)
 
 Gerekçe ve Sonuç:HMK'nın 355. Maddesi gereği, kamu düzenine aykırılık teşkil eden hususlar hariç tutularak, istinaf neden ve gerekçeleri ile sınırlı olmak üzere yapılan incelemede;Dava, finansal kiralama sözleşmesinin feshi, finansal kiralama konusu malın iadesi, iadesi mümkün olmadığı takdirde bedeli ile ödenmeyen kira bedellerinin tahsili istemlerine ilişkindir.Davacı vekili, müvekkili ile alıcı arasında yapılan Bafra ...Noterliğinin 11/01/2008 tarih ve ... yevmiye sayılı Düzenleme Şeklindeki Finansal Kiralama Sözleşmesinin düzenlendiğini, satıcı ile alıcı arasında muvazaa bulunduğunu, fatura , irsaliye ve tesüllüm belgeleri ile satıldığı iddia edilen malların kiracıya teslim edilmediğini,
 
@@ -131,10 +163,14 @@ Somut olayda; davalı alacaklı tarafından davacı aleyhine İstanbul 29.İcra 
 
 ## Ankara BAM 26. HD 2024/681 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1038058200)
+
 Bu durumda mahkeme dosyaya ibraz edilen kira sözleşmesinin adi yazılı şekilde düzenlenmiş olması nedeniyle sözleşme aslının istenmesi, sözleşmenin 3.kişileri bağlayacak güçte bir kira sözleşmesi olup olmadığı, aracın teslim edilip edilmediği, araç üzerinde fiili hakimiyet ve ekonomik yararlanmanın kime ait olduğu, kira sözleşmesinin ve kira bedelinin maliye ve vergi dairelerine bildirilip bildirilmediği, ibraz edilen sözleşme yükümlülüklerinin kim tarafından yerine getirildiği, gerektiğinde işleten ve kiracının varsa ticari defter ve kayıtları üzerinde bilirkişi marifetiyle inceleme yaptırılmak suretiyle kira sözleşmesinin, fatura, ruhsat, hesap hareketleri gibi yan delillerle desteklenip desteklenmediği, davalı ... İnş.
 AŞ'nin işleten sıfatının bulunup bulunmadığı hususlarının tartışılarak, sonucuna göre davalının işleten olup olmadığının belirlenmesi, davalının aracın işleteni olduğunun belirlenmesi halinde ise davalı şirketin destek ... idaresinde bulunan aracın işleteni olması nedeniyle kazanın meydana gelmesinde sürücü kusuru haricinde araçtan kaynaklanan teknik arıza, bakım ve onarım eksikliği gibi bir husus olup olmadığının araştırılması ve sonucuna göre bir karar verilmesi gerekirken bu hususta hiç değerlendirme yapılmadan işleten olarak sorumlu tutulması doğru görülmemiştir.
 
 ## İstanbul BAM 17. HD 2024/235 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1002369900)
 
 Bu durumda mahkemece davacı bankanın alacağını tahsil etmek için tüm yolları tüketip tüketmediği araştırılıp sonucuna göre eldeki davanın erken açılan bir dava olup olmadığı değerlendirilip varılacak uygun sonuç dairesinde bir karar verilmesi gerekirken eksik inceleme ile yazılı şekilde hüküm kurulması isabetsizdir." denilmiştir. Yargıtay 11. H.D.'nin 17.12.2013 T., 2013/15266 E., 2013/23045 K. sayılı ilamında:" Dava, taraflar arasında düzenlenen değerleme hizmet sözleşmesinden kaynaklanan tazminat istemine ilişkindir. Ancak, davalıların zarara neden olan eylemleri, davacının kredi kullandırdığı dava dışı kişinin teminat olarak gösterdiği taşınmazın değerinin, gerçek değerinin çok üzerinde bir tutar olan 75.000 TL olarak belirlemeleridir. O halde, davacının zararı, kredi alacağı bulunmak kaydıyla, taşınmazın değerleme tarihindeki gerçek değeri ile davalıların belirlediği 75.000 TL arasındaki fark kadar olduğunun kabulü gerekmektedir.
 Bu durum karşısında, davacının kullandırdığı kredinin teminatı olan taşınmazın davalıların değerleme yaptığı tarih itibariyle gerçek değerinin belirlenmesine yönelik bilirkişi raporunun gerekçe ile sonucu arasında değerleme tarihi itibariyle gerçek değerinin belirlenmesine yönelik açık çelişki ve davalılar vekilinin bu yönde yaptığı itiraz dikkate alınıp, duraksamaya neden olmayacak şekilde taşınmazın değerleme tarihi itibariyle gerçek değerinin belirlenmesi, tespit edilen tutarın davalıların belirlediği 75.000 TL'den mahsup edilerek davacı zararının ortaya çıkarılması ve sonucuna göre bir karar verilmesi gerekirken, yazılı şekilde hüküm kurulması doğru görülmemiş ve kararın davalılar yararına bu gerekçelerle bozulması gerekirken, yazılı gerekçelerle bozulması yerinde olmadığından, davalılar vekilinin karar

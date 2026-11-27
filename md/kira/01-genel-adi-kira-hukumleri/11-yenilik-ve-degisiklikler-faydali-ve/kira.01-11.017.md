@@ -21,11 +21,15 @@ uyari: "Derleyenin seçtiği alıntılardır; kararın tamamı değildir. Künye
 
 ## İstanbul BAM 15. HD 2021/313 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/641947700)
+
 Dr. ... ile mali müşavir ... tarafından hazırlanan 26/06/2015 tarihli bilirkişi kurul kök raporu ile 08/12/2016 ve 22/02/2017 tarihli ek raporlarda; davacı taşeron tarafından 4 nolu hakedişe kadar yapılan toplam imalat bedelinin 381.448,84 TL, 4 nolu hakedişten sonra yapılan imalat bedelinin 113,508,12 TL olmak üzere davacı taşeronun yaptığı imalat toplam bedelinin 499.956,96 TL olduğu,19 günlük kule vinç operatörünün kira bedeli olan 9,183,46 TL'nin mahsubu sonucu davacı taşeronun talep edebileceği bedelin 494.640,42TL olarak hesaplandığı, taraflar arasında aktedilen 30/07/2012 tarihli sözleşmenin 3.1 maddesinde, işin süresinin, 112 takvim günü, işin bitim tarihinin 19/11/2012 olarak kesin belirlendiği, yüklenicinin, işin bitim tarihinden en az işin süresi kadar bir süre önce, iş sahasına giderek işyerini teslim almak ve işyeri teslim belgesini imzalamak zorunda olduğu, süresinde işyerini teslim almaması, işyeri teslim belgesini imzalamamasının tüm sorumluluğunun yükleniciye alt olduğu, sürelerin hesabında, işin bitim tarihi ve bitim tarihinden öne doğru işin yapımı için sözleşmede kararlaştırılan sürenin esas alınacağı, yüklenicinin, sözleşme kapsamındaki işleri iş programına
 uygun olarak belirtilen tarihe kadar kusursuz ve noksansız şekilde tamamlamak ve işler vaziyette iş sahibine teslim etmek zorunda olduğu, sözleşmenin 3.5 maddesinde, sürenin uzatılmasını icap ettiren hadiselerin vukuunda yüklenicinin, bu hadiselerin vukuu tarihinden itibaren en geç 5 gün içinde iş sahibine müracaat ederek, bu hadiselerin tafsilat ve neticelerini, iş süresinin ne kadar uzatılmasının icap ettiğini yazı ile bildirmesinin şart olduğu, iş sahibinin yüklenici tarafından yapılan yazılı süre uzatım talebini kabul etmeme hakkının saklı olduğu, bu durumda yüklenicinin, işi sözleşme hükümleri çerçevesinde süresinde yerine getirmekle mükellef olduğu, sözleşmenin 4.1 maddesinde, sözleşme konusu işin bedelinin ekli keşif özeti doğrultusunda 800.991,53 TL + KDV olarak belirlendiği, dosya içeriğine göre yüklenicinin, kesin vade olarak belirlenen 19/11/2012 tarihinde işi bitirip iş sahibine teslim edemediğinin anlaşıldığı, hatta teslim süresinin gelmesinden 45-50 gün önce, iş sahibinin kendisini yazılı olarak uyarmasına ve işi zamanında bitirmek için lüzumlu tedbirleri almasını talep etmiş olmasına rağmen zamanında ifayı gerçekleştiremediği, her ne kadar taşeron, işin devamı
 esnasında iş sahibinden kaynaklanan sebeplerle gecikmeler ortaya çıktığını iddia etmiş ise de, gönderdiği ihtarnamede "bu sebeple kendisine ilave süre verilmesi" talebinde bulunmadığı gibi, fesih yetkisinin kullanıldığı 30/11/2012 tarihi itibariyle dahi işi bitme noktasına getiremediği, dosya içerisinde yer alan veriler ( yüklenicinin yaptırdığı tespitte yer alan veriler dahil) dikkate alındığında, toplamda en fazla 494.640,42 TL'ye tekabül eden iş yaptığı; sözleşme ile belirlenen bütün süre içerisinde 800.899,53 + KDV tutarında iş yapılması kararlaştırıldığı dikkate alındığında, sözleşme süresinin üzerinden 11 gün geçmiş bulunmasına rağmen işin yaklaşık %60' ının tamamlanabildiği, bu durumun taşeronun, imalat borcunu zamanında ifa edemediğini, kesin vade kararlaştırılmış bulunması sebebiyle borçlu temerrüdüne düştüğünü açıkça ortaya koyduğu, taşeronun iddia ettiği, gecikmenin iş sahibinden kaynaklandığı yönündeki iddianın doğruluğunu ispata yarayacak herhangi bir veriye rastlanılamadığı belirtilerek iş sahibinin sözleşmeyi haklı bir şekilde sona erdirdiği sonucuna ulaşıldığı yönünde mütalaa bildirilmiştir.
 
 ## İstanbul BAM 15. HD 2020/1624 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/625259400)
 
 Davacının iş bedeli alacağı ile birlikte, taraflar arasında düzenlenen sözleşmenin 14/son maddesi uyarınca yapmış olduğu ödenmeyen imalat bedelinin %15 i oranında tazminat talep hakkı doğmuş olup; kabul edilen 33.387,40 m² üzerinden hesaplama yapılması halinde yapılan iş bedeli 21.340283.89 Euro x %15 = 3.201.042.58 Euro davacının talep edebileceği
 
@@ -33,10 +37,14 @@ tazminat miktarı olup bu miktar için davanın kabulüne fazlaya ilişkin taleb
 
 ## İstanbul BAM 3. HD 2020/1016 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/599615600)
+
 İlk Derece Mahkemesi tarafından yapılan yargılama sonunda; "Taraflar arasında eser sözleşmesi ilişkisinin bulunmadığı, sözleşme ilişkisinin davacı temlik eden ile dava konusu bağımsız bölümlerin davalıdan kiralayan ... A.Ş. arasında düzenlenmiştir. Kiralama sırasında dükkanların kaba inşaat halinde bulunduğu, binanın elektrik, sıva ve alçıpan işlerinin kiracı tarafından kiralanan gayrimenkulün niteliklerine göre yapılacağı belirtilen işlemlerin yapılması amacı ile davacı ile dava dışı kiracı arasında eser sözleşmesi düzenlendiği, davacının sözleşmede belirtilen edimlerini yerine getirdiği anlaşılmıştır. Her ne kadar taraflar arasında sözleşme ilişkisi bulunmasa da Yargıtay 3. Hukuk Dairesi Başkanlığı'nın 02/12/2015 tarih 2015/5681 esas sayılı ilamında belirtildiği üzere davacının yaptığı imalatlar ile birlikte imalatın yapıldığı tarihte malik olan davalının taşınmazı da değer artışı meydana geldiği, yapılan imalat bedeli kadar davalının TBK.'nın 77. maddesi gereğince sebepsiz zenginleştiğinin kabulü gerekir.
 Mahkememizce yapılan keşif sonucu alınan denetime elverişli bilirkişi raporundan, davacı tarafından bağımsız bölümlerde yapılan imalatların faydalı ve zorunlu olanların dava tarihindeki değeri 114.842,65 TL olarak belirlenmiş olup, davalının mal varlığında belirtilen miktarda artışın meydana geldiği sonucuna varılmıştır. Yapılan imalatların elektrik, sıva ve alçıpan niteliğindeki imâtlardan olması nedeni ile bu imalatların, davalının maliki olduğu taşınmazda değer artışına sebep olduğu kuşkusuz olduğu gibi yapılan bu imalatların sökülüp götürülme imkanının bulunmamaktadır." gerekçeleriyle davanın kısmen kabulü ile; 114.842,65 TL'nin dava tarihinden itibaren işleyecek değişen oranlarla reeskont faizi ile birlikte davalıdan tahsili ile davacıya verilmesine, fazlaya ilişkin istemin reddine karar verilmiştir. Davalı vekili istinaf başvurusunda özet olarak; davacının dava dışı ... A.Ş. ile yapmış olduğu tadilata dair faturayı dosyaya sunmadığını, ortada somut belge olmadığını, dava dışı ...
 
 ## İstanbul BAM 36. HD 2020/1365 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/598725600)
 
 İstanbul 6. Sulh Hukuk Mahkemesi 2017/56 Esas, 2018/189K sayılı 01/03/2018 tarihli kararı ile "...Taraflar arasında akdedilen ve yapılışına ilişkin anlaşmazlık olmayan sözleşme içeriğine göre; taraflar arasındaki ilişkinin kira ilişkisi olmadığı, hizmet ilişkisi olduğu, her iki tarafın tacir olması ve uyuşmazlığın da her iki tarafın ticari işletme ile ilgili olmasına göre ticari dava niteliğinde bulunan uyuşmazlığın Asliye Ticaret Mahkemesinde görülüp sonuçlandırılması gerektiği, gerekçesiyle görevsizlik kararı vermiş, dosya bu karar neticesin İstanbul 7.Asliye Ticaret Mahkemesine tevzi edilmiştir. İstanbul 7.Asliye Ticaret
 
@@ -46,9 +54,13 @@ Dairesinin 21.06.2019 tarih 2019/678 sayılı iş bölümü kararı gereğince, 
 
 ## İstanbul BAM 13. HD 2020/386 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/577162800)
+
 GEREĞİ DÜŞÜNÜLDÜ: Taraflar arasındaki uyuşmazlık; icra takibine konu kira ilişkisinden kaynaklanan kira alacağı ve ecr-i misil talebi ile yapılan faydalı masraflara ilişkin alacak talebinden kaynaklanmaktadır. Hâkimler ve Savcılar Kurulu Birinci Dairesi' nin 21/06/2019 tarih ve 678 sayılı kararı ile düzenlenen iş bölümünün 35. ve 36. Hukuk Daireleri iş bölümü 1. bendine göre; tarafların sıfatına bakılmaksızın, kira ilişkisinden kaynaklanan davalar (kira tespiti ve uyarlama dâhil) sonucu verilen hüküm ve kararların istinaf inceleme görevi dairemize ait olmayıp 35. ve 36. Hukuk Daireleri' ne ait olduğundan, dosyanın İstanbul Bölge Adliye Mahkemesi 35. veya 36. Hukuk Dairesi' ne gönderilmesi kanaatine varılarak aşağıdaki hüküm kurulmuştur.
 
 ## İstanbul BAM 4. HD 2020/178 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/574226800)
 
 GEREĞİ GÖRÜŞÜLÜP DÜŞÜNÜLDÜ: Dava; davalının kiracı olarak bulunduğu ... AVM'deki mağazasında yaptığı tadilat çalışmaları sırasında su borularına zarar vermesi
 
@@ -56,10 +68,14 @@ sonucu oluştuğu iddia edilen su sızması nedeniyle alt katındaki davacının
 
 ## İstanbul BAM 17. HD 2020/216 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/571915000)
+
 Ayıplı iş gereğince mutfak dolaplarının tadilatı için 750.00 TL, boya badana ve iç kapıların boyanması için 3.250.00 TL, kartonpiyer tadilatı için 250.00 TL, masraf yapılması gerektiği, davalı tarafından aslına uygun olarak yapılmayan mutfak tezgahı için 1.062,00 TL, evye için 364.00 TL, batarya için 166 TL, aspiratör için 180.00 TL'lik fark bulunduğu, olay tarihi itibariyle dairenin aylık kira bedelinin 600.00 TL olduğu anlaşılmıştır. Yangın 30/10/2010 tarihinde çıkmış olup, ...'nin davalı adına kestiği fatura tarihi 31/01/2011'dir. Her ne kadar sigorta poliçesinde kira teminat altına alınmamış olsa da; yangın sebebiyle oluşan eşya dışındaki hasar bedeli doğrudan davalı tarafından ödenmemiş, iş davalının talebi ile dava dışı firma tarafından yapılmıştır. Bu sebeple davacının konutu kullanamamasından kaynaklı zararını da karşılamak durumundadır. Temlik ve ibra belgesi incelendiğinde belgeyi davacının imzalamadığı bu sebeple temlik ve ibra belgesinin geçerli olmadığı anlaşılmıştır. TBK'nun 114/2. maddesinde haksız fiil sorumluluğuna ilişkin hükümlerin kıyasen sözleşmeye aykırılık hallerine de uygulanacağı belirtilmiştir.
 Dolayısıyla hem hasardan hemde davacının dairesinin kullanamamaktan kaynaklı zarardan sigorta poliçesini düzenleyen davalının sorumlu olduğu açıktır. Davacının gerçek zararı, davacı dava dilekçesinde mutfak dolapları, tezgah evye, batarya, aspiratör işlerinin aslına uygun alarak yeniden yapımının asgari 10.000,00-TL tutarında olduğunu, kartonpiyerin eski hale getirilmesi için 250,00-TL boya ve badana işlerinin hatalı olan kapıların düzelmesi için 2.500,00-TL gerektiğini, işin 6 ay sürmesi nedeniyle ev kiralamak ve lojmanda oturmak zorunda kaldığını ve bu nedenle 6.192,00-TL kira bedeli ödendiğini, kullanılamaz hale gelen tencere, tava, çatal bıçak, ayakkabı, terlik, giysiler için 10.000TL olmak üzere toplam zararının 28.942,00-TL olduğunu bildirmiştir. Davacı bu kalemler için talebiyle bağlıdır.
 
 ## İstanbul BAM 15. HD 2019/1331 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/538080000)
 
 GEREĞİ GÖRÜŞÜLÜP DÜŞÜNÜLDÜ : Dava, kat karşılığı inşaat sözleşmesinden kaynaklanan kira kazancı kaybı alacağı ile eksik imalat bedeli alacağının tahsili talebine ilişkin olup; mahkemece, davanın kısmen kabulüne dair verilen karar davalılardan ... A.Ş vekili tarafından usulünce istinaf edilmiştir. Davacı, ihbar olunan arsa sahibi ... Şirketi ile davalılardan ... Şirketi arasında imzalanan kat karşılığı inşaat sözleşmesini arsa sahibinden hak ve yükümlülükleri ile birlikte temlik aldığını iddia eden kişi, davalı ... Şirketi yüklenici,
 
@@ -68,10 +84,14 @@ Mahkemece, bilirkişi raporu, davacı ile arsa sahibi ... şirketi arasında yap
 
 ## İstanbul BAM 13. HD 2019/561 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/498776600)
+
 Maddede ...'in şirket ortaklığı veya müdürlüğü sona erdikten itibaren 3 yıl süre ile aynı iş kolunda ve aynı ürünleri imal eden, satan ve benzeri işleri yapan şirkete yönetici, ortak, mümessil olamayacağını ve benzeri görevde bulunamayacağını, şirketle rekabet sayılacak sair faaliyetlerde bulunamayacağının açıkça düzenlendiğini, 8 nolu alt maddede ...'in 01/01/2014 tarihinden başlamak üzere 3 yıl süre ile şirketten ayrılmayacağını, payını devretmeyeceğini, şirketteki görevine sadakatle devam edeceğini, bu süre içinde rekabet sayılabilecek hiçbir davranışta bulunmayacağını taahhüt ettiğini, 17 nolu alt maddede, şirket için kiralanan yerin dekorasyon masrafının önce ... tarafından karşılanacağını, yapılan masrafın hisse oranında .... geri ödeneceğinin belirtildiği ve sözleşmenin 05/12/2013 tarihinde yürürlüğe girmesinin kararlaştırıldığını, şirketin kuruluş aşamasında sermayenin tamamının .... tarafından yatırıldığını, İstanbul - West ismi verilen yerde işyeri kiralandığını, kiralanan işyerinin dekorasyon ve tadilat işlemleri yapılıp, masrafın tamamının .. tarafından karşılandığını, şirketin kurulup faaliyete geçmesini müteakip, davacı - karşı davalının dürüstlük kuralına uymayan
 tavırlar takınmaya başladığını, şirket personeliyle yerli yersiz tartışmaya başladığını, şirket içinde ortaklık ile bağdaşmayan tavırlar takınmaya başladığını, 13/03/2014 tarihinde gönderdiği e - mailde ortaklıktan ayrılma isteğini beyan ettiğini, 17/03/2014 tarihinde ... ihtarname göndererek şirketten çıkma isteğini belirttiğini, hemen akabinde de şirketten ayrılarak bir daha şirkete gelmediğini, davacı - karşı davalının 19/03/2014 tarihinde ...San. Ve Tic. Ltd.Şti.'ni kurduğunu, daha sonra söz konusu şirketin ünvanını .... San. Ve Tic. Ltd.
 
 ## İstanbul BAM 36. HD 2018/905 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/411898800)
 
 Taraflar arasında imzalanan 20/04/2008 tarihli kira sözleşmesinin özel şartlar 2.maddesinde; ''İçeride veya dışarıda yapılacak güzelleştirmeler, iyileştirmeler, tamamlanacak noksanlar
 

@@ -23,6 +23,8 @@ uyari: "Derleyenin seçtiği alıntılardır; kararın tamamı değildir. Künye
 
 ## Yargıtay 8. HD 2019/5916 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/521899000)
+
 İcra takibinde ve davada dayanılan, karara esas alınan 01.12.2016 başlangıç tarihli ve 5 yıl süreli kira sözleşmesi hususunda taraflar arasında bir uyuşmazlık bulunmamaktadır. Uyuşmazlık kiralananın davalı borçluya teslim edilip edilmediğine ilişkindir. Davalı borçlu takibe itirazında, şirketlerinin alacaklıya ödeme emrinde belirtilen türde ve miktarda herhangi bir borcunun bulunmadığını bildirerek borca itiraz etmiştir. Kural olarak bir davada davacı ve davalı iddiasını kanıtlamakla yükümlüdür. İİK'nin 269/2.maddesi uyarınca borçlu itirazında kira akdini ve varsa buna ilişkin mukavelenamedeki imzasını açık ve kesin olarak reddetmezse akdi kabul etmiş sayılır. Davalı borçlu itirazında icra takibinin dayanağı olarak gösterilen adi yazılı kira sözleşmesindeki imzasını açıkça inkar etmediğinden kira ilişkisinin varlığı kesinleşmiştir. Kira sözleşmesi 13.11.2016 tarihinde tanzim edilmiş olup, sözleşmenin başlangıcı 01.12.2016 tarihi olarak kararlaştırılmıştır.
 Kira sözleşmesi ile 5 ayrı bağımsız bölümü olan kiralananın sadece 1.100 m2 kapalı alan ve bahçe kısmı fabrika olarak kullanılmak üzere kiraya verilmiş olup, yine kira sözleşmesinin özel şartlar 15. maddesi ile, “Kiralayan, kiralanan ofis bölümünü kapıları takılmış, elektrik tesisatı yapılmış, alçıpan asma tavan ve aydınlatma işleri yapılmış, zemin seramik ve kısmi parke kaplanmış, tavan işleri yapılmış, aydınlatma armatürleri takılmış, sıhhi tesisatı yapılmış, pvc doğrama işleri yapılmış, merdivenleri mermer kaplanmış bir şekilde kullanıma hazır olarak teslim edecektir.” düzenlemesine yer verilmiştir. Söz konusu bu düzenleme ile kiralananın yalnızca ofis bölümündeki bazı eksikliklerden bahsolunmuş ve bu eksikliklerin tamamlanarak teslim edileceği kararlaştırılmıştır. Sözleşmede kiralananla birlikte teslim edilen demirbaşlar, kampanzasyon panosu ve trafo dahil, idari bölümü tamamlanmış sıfır fabrika olarak bildirilmiştir. Davalı tarafça 01.12.2016 başlangıç tarihli kira sözleşmesinin imzalandığı kabul edildiğine ve ortada yazılı bir kira sözleşmesi bulunduğuna göre, kiralananın kira sözleşmesinin imzalanması ile davalı kiracıya teslim edildiğinin kabulü gerekir.
 Bu durumda kiralananın teslim edilmediğini veya usulüne uygun olarak tahliye edildiğini ispat külfeti davalı kiracı tarafta olup, davalı kiracı kiralananın kendisine teslim edilmediği iddiasını aynı kuvvette kesin delille kanıtlamak zorundadır. Öte yandan, davalı borçlu kiracı tarafından ilk ay kirası olan 2016 yılı Aralık ayı kirasının ödendiği hususunda
@@ -31,17 +33,25 @@ da ihtilaf bulunmamaktadır. Davalı borçlu tarafından davacı alacaklıya gö
 
 ## Yargıtay 3. HD 2019/5359 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/514665800)
+
 Kural olarak, kira ilişkisinin varlığını ispat külfeti davacıya düşer. Buna göre, depolara ait anahtarların davacı kiraya verene teslim edildiğine dair imzası taraflarca inkar edilmemiş 16/09/2015 tarihli tutanak ile birlikte tanık beyanları da dikkate alındığında davalı kiracının 42 ve 43 numaralı depoları da kullandığı kabul edilmelidir. Bu depoların kira bedelleri tespitinin 17/03/2015 tarihinden itibaren geçerli olmak üzere talep edildiği ve tahliye tarihinin bu tarihten sonra olduğu anlaşıldığına göre 42 ve 43 numaralı depolarla ilgili kira bedelinin tespitinde davacı kiraya verenin hukuki yararı bulunmaktadır.
 
 ## Yargıtay 3. HD 2019/5350 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/523919100)
 
 HMK’nun 190. maddesi uyarınca ispat yükü, iddia edilen vakıaya bağlanan hukuki sonuçtan kendi lehine hak çıkaran tarafa aittir. Davacı kira ilişkisinin varlığından hareketle kira parasının tespiti isteminde bulunmuş olup bu açıdan kira ilişkisinin varlığını, kira sözleşmesinin başlangıç tarihini ve aylık kira bedelini ispat külfeti davacıya aittir.
 
 ## Yargıtay 3. HD 2019/4985 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/525199900)
+
 Kira sözleşmesine konu olan kiralananın kullanıcısının kiracının hissedarı veya yetkilisi bulunduğu şirket de olabileceğine göre, daha önce görülerek sonuçlandırılan müdahalenin meni davasında kullanıcının şirket olduğu yönündeki Mahkemenin tespit hükmüne atıf yapılarak kiracılık sıfatının şirkete ait olduğuna dair çözümleme doğru değildir. Kaldı ki dosyaya davacı tarafından delil olarak sunulan Noterlikçe düzenlenmiş aynı kiralanana ilişkin 21/05/2007 tarihli taahhütnamenin davalı ... tarafından imzalandığı, bu hali ile aradaki sözlü kira ilişkisinin kabul edildiği anlaşılmakla Mahkemece taraflar arasındaki sözlü kira sözleşmesi gereğince uyuşmazlığın çözümü gerekirken yazılı gerekçeyle davanın reddine karar verilmesi doğru görülmemiş, bozmayı gerektirmiştir.
 
 ## Yargıtay 3. HD 2019/4829 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/507319400)
 
 İspatın konusunu tarafların üzerinde anlaşamadıkları ve uyuşmazlığın çözümünde etkili olabilecek çekişmeli vakıalar oluşturur. HMK’nun ispat yükünü düzenleyen 190. maddesine göre ispat yükü; kanunda özel bir düzenleme bulunmadıkça, iddia edilen vakıaya bağlanan
 
@@ -49,14 +59,20 @@ hukuki sonuçtan kendi lehine hak çıkaran tarafa aittir. Kanunun belirli delil
 
 ## Yargıtay 3. HD 2019/4507 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/512641800)
+
 Davada 17.04.2012 başlangıç tarihli ve bir yıl süreli kira sözleşmesinin varlığı konusunda taraflar arasında ihtilaf bulunmamaktadır. Kira sözleşmesinin 6.maddesinde, kiracı tarafından yapılacak çevre düzenlemesi, yapı büyütmesi gibi masrafların kiracıya ait olduğu, kiracının kiraya verenden ücret talep edemeyeceği, kiracının kendi isteği ile ayrıldığında tüm yapıların kiraya verene kalacağı kararlaştırılmıştır. Yargılama sırasında davacı ve davalı tarafın da beyan ettiği üzere, yapılan yapıların 1 yıllık kira bedeli karşılığında kiracı tarafından yapıldığı açıktır. Davacı, kira süresi dolmadan mecuru tahliye etmiş, bu nedenle davalı taraftan tadilat masraflarının tahsilini talep etmiştir.
 
 ## Yargıtay 3. HD 2019/4256 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/512411000)
 
 Taraflar arasında 14.02.2007 başlangıç tarihli ve on yıl süreli kira sözleşmesinin varlığı hususunda uyuşmazlık bulunmamaktadır. Kira sözleşmesinin 6/c maddesinde, taşınmazda kurulu bulunan sistemlerin herhangi bir sebeple sökülmesi durumunda, kiralayanın kendisine peşin ödenen kira bedelinin kullanılmayan kısmını kiracıya bir ay içerisinde iade edeceği, 15/b maddesinde de, kiracının, iş bu kira sözleşmesini bir ay önceden, yazılı bildirimde bulunmak kaydı ile herhangi bir zamanda, hiçbir neden göstermeden feshetme hakkına sahip olduğu, kiralayanın bu durumu şimdiden kabul edeceği ve bu durumda herhangi bir hak ve alacak talebinden bulunmayacağını beyan ve taahhüt edeceği, fesih tarihinden sonraki döneme ilişkin olarak peşin ödenmiş kira bedeli var ise kiralayanın bu bedeli fesih tarihinden sonra bir ay içerisinde kiracıya iade edeceği kararlaştırılmıştır. Davacı kiracı, 10.10.2013 tarihinde keşide ettiği ihtarname ile davalılara kira sözleşmesinin 15/b maddesi gereğince feshedildiğini bildirmiştir.
 Öte yandan, davacı kiracı 22.07.2013 tarihli “Montaj Sonrası Hasarsızlık Tutanağı” ile taşınmazda kurulu bulunan sistemlerin kaldırılarak dava dışı ... ’a teslim ettiğini bu nedenle kira sözleşmesinin 6/c ve 15/b maddeleri gereğince kira bedelinin iadesi gerektiğini iddia etmiş, davalı kiraya verenler ise kiralananın teslim edildiğini kabul etmemişlerdir. Kiralananın tahliye ve teslim edildiği hususu yazılı delillerle usulüne uygun kanıtlanmalıdır.
 
 ## Yargıtay 3. HD 2019/4133 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/513042600)
 
 Kural olarak, kira ilişkisinin varlığını ve aylık kira bedelinin ne kadar olduğunu ispat külfeti davacıya, davalı tarafından kabul edilen kira bedelinin ödendiğinin ispat külfeti ise davalıya düşer. Davacının talep ettiği yıllık kira miktarı HMK'nın 200. maddesi uyarınca belirlenecek senetle ispat sınırının üzerinde ise davacı kira bedelini yazılı belge ile kanıtlamak zorundadır. Yazılı delille kanıtlanmadığı takdirde ise davalının kabulünde olan miktar var ise bu miktar esas alınmalıdır. Yine davalıda aynı koşullar altında yıllık kira bedelinin senetle ispat sınırının üzerinde olması durumunda kira borcunun ödendiğini yazılı belge ile
 
@@ -64,30 +80,44 @@ ispat etmelidir. Yıllık kira bedelinin senetle ispat sınırının altında ol
 
 ## Yargıtay 3. HD 2019/3928 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/526446800)
+
 Kural olarak kira ilişkisinin varlığını ve aylık kira bedelinin ne kadar olduğunu ispat külfeti davacı kiraya verene, kira bedelinin ödendiğinin ispat külfeti ise davalı kiracıya aittir. 6100 Sayılı HMK'nun 200. Maddesi ve yerleşik içtihatlar gereğince yıllık kira bedeli dikkate alınarak senetle ispat sınırının üzerinde kalan talepler bakımından senetle ispat kuralı geçerli olup bu durumda tanık delili ile ispat mümkün olmamakla birlikte HMK'nun 202. maddesi doğrultusunda delil başlangıcı yahut HMK'nun 203. maddesinde öngörülen senetle ispat kuralının istisnalarından birinin somut olayda bulunması halinde tanık dinlenebilir.
 
 ## Yargıtay 3. HD 2019/2619 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/494148300)
 
 Kural olarak kira ilişkisinin varlığını ve aylık kira bedelinin ne kadar olduğunu ispat külfeti davacıya, davalı tarafından kabul edilen kira bedelinin ödendiğinin ispat külfeti ise davalıya düşer. Davacılar, muris ... ile davalı arasında kira ilişkisinin 2013 yılı Kasım ayında başladığını bildirmişler, dosya arasında bulunan 01.02.2014 tarihli kira sözleşmesindeki imzanın ise muris ...'a ait olmadığını ileri sürerek sahtelik iddiasında bulunmuşlardır.
 
 ## Yargıtay 3. HD 2019/2381 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/498039200)
+
 Kural olarak, kira ilişkisinin varlığını ve aylık kira bedelinin ne kadar olduğunu ispat külfeti davacıya, davalı tarafından kabul edilen kira bedelinin ödendiğinin ispat külfeti ise davalıya düşer. Davacının talep ettiği kira miktarına göre HMK.nun 200. maddesi hükmü uyarınca davacı kira bedelini yazılı belge ile kanıtlamak zorundadır. Aksi halde davalının bildirdiği miktar esas alınmalıdır.
 
 ## Yargıtay 3. HD 2019/1848 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/492592000)
+
 Somut olayda; taraflar arasında yazılı kira sözleşmesi bulunmamaktadır. Davacı sözlü kira ilişkisine dayanmıştır. Davalı ise kira ilişkisine karşı çıkmış, mülkiyet iddiasında bulunmuştur. Bu durumda kira ilişkisinin varlığı ve koşullarının HUMK.’nun 288.maddesine uygun şekilde davacı tarafından ispat edilmesi gerekir. Davacı taraf kira sözleşmesinin varlığını yazılı delille ispat edememiştir. Buna göre davacı dilekçesinde ‘’her türlü yasal delil’’ demek suretiyle yemin deliline de dayandığından bu hususta davacı vekiline yemin delili hatırlatılarak sonucuna göre karar verilmesi gerekirken, eksik inceleme ve yanılgılı değerlendirme ile yazılı şekilde hüküm tesisi doğru görülmemiş, bozmayı gerektirmiştir.
 
 ## Yargıtay 3. HD 2019/1834 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/522863700)
 
 Somut olayda; taraflar arasında kira ilişkisinin kurulduğu ve kiralananın 18/10/2012 tarihli anahtar teslim tutanağı ile davalı kiracı tarafından tahliye edilerek ,kiralananın anahtarlarının davacı kiraya verene teslim edildiği hususunda uyuşmazlık bulunmamaktadır. Uyuşmazlık, dava konusu kiralanan depo ve ofise ait kira sözleşmelerinin başlangıç tarihlerine yöneliktir. Nitekim; yargılama aşamasında taraflarca, kira başlangıç tarihleri birbiriyle çelişen kira sözleşmeleri sunulmuş olup, mahkemece, davalı tarafça sunulan kira sözleşmeleri kapsamında alınan bilirkişi raporu doğrultusunda hüküm tesis edilmiştir. Davacı kiraya veren ise, bilirkişi raporlarına karşı itirazında ,kendisinin sunmuş olduğu kira sözleşmeleri dikkate alındığında, davalının sözleşmede kararlaştırılan fesih ihbar sürelerine uymadığını beyan etmiş, mahkemece, davacının rapora karşı itirazlarının karşılanmadığı anlaşılmıştır. Bununla birlikte; davalı tarafından sözleşmenin feshine yönelik çekilen ihtarnamelerin kiraya verene ne zaman tebliğ edildiğine ilişkin dosyada herhangi bir bilgi ve belge bulunmamaktadır.
 Bu durumda, fesih ihbarnamesinin hangi tarihte davacıya tebliğ edildiğinin ve bu tarih itibariyle sözleşmenin, sözleşmede kararlaştırılan fesih ihbar süresine uygun şekilde feshedilip edilmediğinin tespit edilmesi zorunludur. Eğer sözleşme, kararlaştırılan fesih ihbar süresine uymadan feshedilmiş ise, kira sözleşmesinin kendiliğinden 1 yıl süreyle uzaması gündeme gelecektir. Bu durumda da , kiracının, kira süresi sona ermeden kira sözleşmesini tek taraflı feshederek kiralananı tahliye etmesi nedeniyle, kural olarak kira süresinin sonuna kadar kira parasından sorumludur. Ancak 6098 Sayılı Türk Borçlar Kanunu'nun 114. maddesi (mülga 818 Sayılı BK.nun 98.maddesi) göndermesi ile aynı Kanunun 52.maddesi (mülga BK.nun 44. maddesi) uyarınca, kiraya verenin de zararın artmasına neden olmaması gerekir. Kiracının sorumluluğu, kiralananın kira sözleşmesindeki bedel ve koşullarda yeniden kiraya verilebileceği süre kadardır.
 
 ## Yargıtay 3. HD 2019/1473 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/488577200)
+
 Kural olarak, kira ilişkisinin varlığını ve aylık kira bedelinin ne kadar olduğunu ispat külfeti davacıya, davalı tarafından kabul edilen kira bedelinin ödendiğinin ispat külfeti ise davalıya düşer. Davacının talep ettiği yıllık kira miktarı HMK'nın 200. maddesi uyarınca belirlenecek senetle ispat sınırının üzerinde ise davacı kira bedelini yazılı belge ile kanıtlamak zorundadır. Yazılı delille kanıtlanmadığı takdirde ise davalının kabulünde olan miktar esas alınmalıdır. Yine davalıda aynı koşullar altında yıllık kira bedelinin senetle ispat sınırının üzerinde olması durumunda kira borcunun ödendiğini yazılı belge ile ispat etmelidir. Somut olayda davacı kiraya verenin iddiası doğrultusunda yıllık kira bedeli senetle ispat sınırının üzerinde olduğundan yazılı delille ispat yükükmlülüğü söz konusu olup , HMK m.202 uyarınca iddia konusu hukuki işlemin tammen ispatına yeterli olmamakla birlikte söz konusu hukuki işlemi muhtemel gösteren ve kendisine karşı ileri sürülen kimse veya temsilcisi tarafından verilen belge delil başlangıcı yayılır ve yazılı delille ispatı gereken bir hukuki işlemin söz konusu olduğu hallerde delil başlangıcı bulunduğu takdirde tanık dinlenebilir.
 
 ## Yargıtay 8. HD 2019/1447 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/490216400)
 
 Taraflar arasında 01.05.2011 başlangıç tarihli, 1 yıl süreli kira sözleşmesinin varlığı hususunda uyuşmazlık yoktur. Sözleşmede, konut olarak kullanılmak üzere kiraya verilen
 
@@ -97,9 +127,13 @@ O halde, eldeki davalarda TBK'nin 344.maddesinde belirlenen artış oranını ge
 
 ## Yargıtay 3. HD 2019/850 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/485310400)
+
 HMK' nun 200. maddesi uyarınca akdi ilişkinin varlığı ve aylık kira miktarının yazılı delille kanıtlanması gerekir. Somut olayda davacı sözlü kira ilişkisine dayanmış ve kira ilişkisinin varlığını kanunda belirtilen usullere göre kanıtlayamamıştır. Davacı , davalı tarafa yemin teklif etmiş, davalı tarafından taşınmazda kiracı olmadığına dair yemin eda edilmiştir. Bu durumda davacı, kira ilişkisinin varlığını ispat edememiştir. Davanın bu gerekçe ile reddine karar verilmesi gerekirken, yazılı gerekçe ile alacak talebinin de reddine karar verilmiş olması doğru olmadığı anlaşılmıştır.
 
 ## Yargıtay 3. HD 2019/688 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/484800700)
 
 Davacı tarafından 01/12/2015 tarihinde başlatılan icra takibi ile Aralık 2014, Ocak, Şubat, Mart, Nisan 2015 ayları, 333.502,47 TL kira alacağının tahsili talep edilmiştir. Davalı kiracı, kiralananın 09/03/2015 tarihinde tahliye edildiğinin kiraya verene bildirildiğini beyan etmiştir. Kiralananın tahliye edildiğinin (kiracının kiralananı iade borcunu yerine getirdiğinin) kabul edilebilmesi için, kiralananın fiilen boşaltılması yeterli değildir. Anahtarın da kiraya verene teslim edilmesi gerekir. Kiracı yasal tahliye ve anahtar teslimi gerçekleşinceye dek kira parasını ödemekle yükümlüdür. Kiralananın anahtarının usulüne uygun şekilde kiraya verene teslim edildiğini yazılı delillerle kanıtlama yükümlülüğü davalı kiracıya aittir. Anahtar teslim edilmediği sürece kiralananın kiracının kullanımında olduğunun kabulü gerekir. Davalı kiracı anahtar teslimini yazılı delille kanıtlayamamıştır
 
@@ -107,14 +141,20 @@ ancak kiralananın davacının tasarrufunda olduğunun tespiti durumunda, kirala
 
 ## Yargıtay 8. HD 2018/18592 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/460998200)
+
 Takipte dayanılan ve davalı tarafça imzası inkar edilmeyen 01.11.2014 tarihli 2+2 yıl süreli kira sözleşmesinin varlığı konusunda taraflar arasında ihtilaf bulunmamaktadır. Kira sözleşmesi ile aylık net kira bedelinin 3.500,00 TL olduğu, her ay kiralayanın banka hesabına ödeneceği kararlaştırılmıştır. Davalı kiracı kira ilişkisinden doğan edimlerini yerine getirmekle yükümlüdür. Bu durumda davalı borçlu kiracı kiranın ödendiğini veya sair bir sebeple istenemeyeceğini İİK’nun 269/c maddesinde belirtilen belgelerle kanıtlamak durumundadır. Davalı kiracı itiraz dilekçesi ile ödemeye ilişkin banka dekontlarına dayanmıştır. Davalı kiracı tarafından ibraz edilen ödeme dekontlarından, davalı tarafından takipten önce bir takım ödemeler yapıldığı anlaşılmaktadır.
 Bu durumda mahkemece öncelikle muacelliyet şartının geçerliliği yönünden davalı kiracının tacir olup olmadığının araştırılarak tespitinin ardından dosyada mevcut ödeme belgeleri üzerinde durularak, yapılan ödemelerin takibe konu aylar kiralarına ilişkin olup olmadığı değerlendirilmek suretiyle ve gerektiğinde bilirkişi incelemesi de yaptırılarak sonucuna göre karar verilmesi gerekirken, eksik inceleme ile yazılı şekilde karar verilmesi doğru değildir.
 
 ## Yargıtay 3. HD 2018/11317 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/455229300)
+
 Kural olarak kira ilişkisinin varlığını ve aylık kira bedelinin ne kadar olduğunu ispat külfeti davacıya, davalı tarafından kabul edilen kira bedelinin ödendiğinin ispat külfeti ise davalıya düşer.HMK' nun 200. maddesi uyarınca akdi ilişkinin varlığı ve aylık kira miktarının yazılı delille kanıtlanması gerekir.
 
 ## Yargıtay 3. HD 2018/10688 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/469566600)
 
 Kira sözleşmesi geçerlilik yönünden herhangi bir şekle tabi olmayıp, sözlü yapılan kira sözleşmesi geçerli ise de; inkarı halinde, bu sözleşmenin varolduğunu ileri süren kişinin bu sözleşmeyi, "uygulanması gerekli HUMK'nun 287-288 ve 290 maddeleri" (6100 Sayılı HMK'nun 200. Maddesi) gereğince, senet (kesin delil) ile ispat etmelidir. HMK’nun ispat yükünü düzenleyen 190. maddesine göre ispat yükü; kanunda özel bir düzenleme
 
@@ -123,9 +163,13 @@ Kira ilişkisinin varlığını ve bedelini tanık ifadesiyle ispatlayamaz. Dava
 
 ## Yargıtay 3. HD 2018/10733 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/469455200)
+
 Dava konusu olayda, davada dayanılan ve hükme esas alınan 10.10.2009 başlangıç tarihli 6 yıl süreli kira sözleşmesinin varlığı hususunda uyuşmazlık bulunmamaktadır. Kira sözleşmesinin 4.E maddesinde, sürenin hitamından 3 ay evvel taraflardan biri akdi feshettiğini diğer tarafa yazılı olarak bildirmedikçe sözleşmenin aynı şartlar ile ve aynı süre için uzatılmış sayılacağı belirtilmiştir. Davacı tarafından 3 ay önceden ihtar gönderilmediğinden sözleşme belirsiz hale gelmemiş, sözleşme 10.10.2021 tarihine kadar uzamıştır. Bu sebeple; her ne kadar Mahkeme gerekçesinde sözleşmenin 10.10.2015 tarihinden itibaren belirsiz süreli sözleşmeye dönüştüğünün belirtilmesi doğru değil ise de; sonucu itibariyle karar redde ilişkin olduğundan hükmün gerekçesinin düzeltilerek onanmasına karar verilmesi gerekmiştir.
 
 ## Yargıtay 3. HD 2018/9609 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/466814000)
 
 HMK' nun 200. maddesi uyarınca akdi ilişkinin varlığı ve aylık kira miktarının yazılı delille kanıtlanması gerekir. Somut olayda davacı sözlü kira ilişkisine dayanmış ve kira ilişkisinin varlığını kanunda belirtilen usullere göre kanıtlayamamıştır. Öte yandan davalı 01.05.2004 tarihli sözleşmenin geçerli olduğunu savunmuş, davacı ise bu sözleşmenin stopaj amacı ile düşük bedelli imzalandığını ileri sürmüştür. Bu durumda mahkemece öncelikle taraflar arasında hangi sözleşmenin geçerli olduğunun tespit edilmesi, davacıya tek dükkan için mi yoksa iki dükkan için birlikte mi kira bedeli isteyip istemediği hususu da açıklattırılarak ve
 
@@ -133,27 +177,39 @@ davacının kiralanana bitişik dükkan yönünden kira ilişkisini ispat edemed
 
 ## Yargıtay 3. HD 2018/9513 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/466327100)
+
 Davaya dayanak yapılan 01.04.2005 başlangıç tarihli beş yıl süreli yazılı kira sözleşmesinin varlığı taraflar arasında uyuşmazlık konusu değildir. Sözleşmenin hususi şartlarının 19.maddesinde; " Kontratın sona ermesinden bir ay evvel taraflar yazılı olarak ihtarda bulunmadıkları sürece, kontrat yenilenmiş kabul edilir" şartı kararlaştırılmış olup serbest iradeleri ile kararlaştırılan bu şart geçerli olup davacı tarafı bağlar. Sözleşmede kararlaştırılan ihbar şartına uyulmamışsa sözleşmenin aynı süre ile belirli süreli olarak uzadığının kabulü gerekir.
 
 ## Yargıtay 8. HD 2018/15937 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/452096600)
 
 İcra takibinde ve davada dayanılan ve karara esas alınan 01.01.2015 başlangıç tarihli ve 4 yıl 7 ay süreli kira sözleşmesi hususunda taraflar arasında bir uyuşmazlık bulunmamaktadır. Uyuşmazlık kiralananın davalı borçluya teslim edilip edilmediğine ilişkindir. Davalı borçlu takibe itirazında davacı alacaklının kiralananın bulunduğu alışveriş merkezini açmayarak kiralananı teslim yükümlülüğünü yerine getirmediğini, bu nedenle herhangi bir kira borcu doğmadığını bildirerek borca itiraz etmiştir. Kural olarak bir davada davacı ve davalı iddiasını kanıtlamakla yükümlüdür. İ.İ.K.nin 269/2.maddesi uyarınca borçlu itirazında kira akdini ve varsa buna ilişkin mukavelenamedeki imzasını açık ve kesin olarak reddetmezse akdi kabul etmiş sayılır. Davalı borçlu itirazında icra takibinin dayanağı olarak gösterilen adi yazılı kira sözleşmesindeki imzasını açıkça inkar etmediğinden kira ilişkisinin varlığı kesinleşmiştir. Davalı tarafça 01.01.2015 tarihli kira sözleşmesinin imzalandığı kabul edildiğine ve ortada yazılı bir kira sözleşmesi bulunduğuna göre sözleşmede aksine bir hüküm yok ise kiralananın kira sözleşmesinin imzalanması ile davalı kiracıya teslim edildiğinin kabulü gerekir.
 Bu durumda kiralananın teslim edilmediğini veya usulüne uygun olarak tahliye edildiğini ispat külfeti davalı kiracı tarafta olup, davalı kiracı kiralananın kendisine teslim edilmediği iddiasını aynı kuvvette kesin delille kanıtlamak zorundadır. Davalı tarafça, takibe dayanak kira sözleşmesinde kiralananın teslim edildiğinin aksine bir hüküm bulunduğu iddia edilmediği gibi, kiralananın teslim edilmediği ya da takibe konu kira borçlarının ödendiği de yazılı delillerle kanıtlanamamıştır. Bu durumda mahkemece davalıların itirazının kaldırılması ve tahliyeye karar verilmesi gerekirken, yazılı gerekçeyle davanın reddine karar verilmesi doğru değildir.
 
 ## Yargıtay 3. HD 2018/8692 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/448337600)
+
 Kural olarak kira ilişkisinin varlığını ve aylık kira bedelinin ne kadar olduğunu ispat külfeti davacıya, davalı tarafından kabul edilen kira bedelinin ödendiğinin ispat külfeti ise davalıya düşer. Davacının talep ettiği kira miktarına göre ...nun 200. maddesi hükmü uyarınca davacı kira bedelini yazılı belge ile kanıtlamak zorundadır. Aksi halde davalının bildirdiği miktar esas alınmalıdır.
 
 ## Yargıtay 3. HD 2018/8375 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/453030300)
 
 .....Kural olarak, kira ilişkisinin varlığını ve aylık kira bedelinin ne kadar olduğunu ispat külfeti davalı kiraya verene, davacı kiracı tarafından kabul edilen kira bedelinin ödendiğinin ispat külfeti ise davacıya düşer. Davalının talep ettiği kira miktarına göre ...nun 200. maddesi hükmü uyarınca davalı kira bedelini yazılı belge ile kanıtlamak zorundadır. Aksi halde davacının bildirdiği miktar esas alınmalıdır. Yine davacı kiracı da kira borcunun ödendiğini H.M.K.nun 200. maddesi gereğince yazılı belge ile ispat etmelidir.
 
 ## Yargıtay 3. HD 2018/6166 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/423129100)
+
 Anahtarın kiralayana teslimi, hukuki işlemin içerisinde yer alan bir maddi vakıa olmakla birlikte, sözleşmenin feshine yönelik bir hukuki sonuç doğurduğundan, bunun ne şekilde ispat edileceği hususu, yıllık kira bedelinin tutarı esas alınmak suretiyle, dava tarihinde yürürlükte bulunan 1086 sayılı HUMK'nun 288.maddesi (1.10.2011 tarihinde yürürlüğe giren 6100 sayılı HMK'nın 200 ve 201.maddeleri) çerçevesinde değerlendirilmelidir. Eş söyleyişle, yıllık kira bedelinin tutarı senetle ispat sınırının üzerindeyse ve kiralayanın açık muvafakati yoksa bu yön kiracı tarafından ancak yazılı delille ispatlanabilir; tanık dinlenemez. Kiralayan anahtarı almaktan kaçınırsa, kiracının yapması gereken, mahkemeden bu yolda tevdi mahalli tayinini isteyip, tayin edilecek yere anahtarı teslim etmek ve durumu kiralayana bildirmektir. Kiracının kiralananı iade borcu, ancak bu şekilde, durumun kiralayana bildirildiği tarihte son bulur. Aksi takdirde, kiracının, kira parasını ödemek de dahil olmak üzere, sözleşmeden kaynaklanan yükümlülükleri devam eder.Somut olayda; taraflar arasında imzalanan 08.02.2011 başlangıç tarihli ve üç yıl süreli kira sözleşmesinin varlığı hususunda uyuşmazlık bulunmamaktadır.
 Davalı kiraya veren, 21.12.2012 tarihinde başlattığı icra takibi ile 2012 yılı Ocak ile Aralık ayları kira alacağının tahsilini istemiştir. Davacı kiracı icra takibine itiraz etmemiş, davada ise 31.12.2011 de taşınmazı tahliye ettiğini ileri sürmüştür. Dosyada mevcut taraflar arasında imzalanan 16.02.2012 tarihli belgenin incelenmesinden; işyerinin bir başkasına devredilmesi nedeniyle sözleşmenin 16.01.2012 tarihinde feshedildiği beyan edilmiştir. Davalı kiraya veren bu belgede bahsi geçen devir işleminin gerçekleşmediğini ve kiracının fiilen taşınmazı tahliye etmediğini savunmuştur. ... 1. Asliye Ceza Mahkemesi 2013/308 E. Sayılı dosyasının incelenmesinden; sanığın dava dışı ...olduğu, kiralanan taşınmazda kaçak elektrik kullanıldığına dair 09.07.2012 tarihinde tutulan tutanak nedeniyle sanık hakkında kamu davası açılmış olduğu anlaşılmaktadır. Bu dosyada kiraya veren tanık olarak dinlenmiş, beyanında; davalı kiracının taşınmazı sanığa kiralayacağını söylediğini, buna rıza gösterdiğini, sözleşmeleri imzaladığını ancak sanığın imza atamadığını, kira parası alamadığını, sonra davalı kiracının ortadan kaybolduğunu beyan etmiştir.
 
 ## Yargıtay 3. HD 2018/5656 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/426024600)
 
 Dava konusu mesken niteliğindeki taşınmazın, Ekim 2005 tarihinde davacıların murisi ... tarafından davalıya kiraya verildiği, kira bedelinin Ekim 2005-Ekim 2008 döneminde aylık 475,00 TL, Kasım 2008 tarihinden sonra ise aylık 500,00 TL olduğu hususu taraflar arasında uyuşmazlık konusu değildir. Dosya içerisinde bulunan mirasçılık belgesi ve tapu
 
@@ -163,9 +219,13 @@ Yukarıda açıklanan esaslar göz önünde tutulmaksızın yazılı şekilde h�
 
 ## Yargıtay 8. HD 2018/13056 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/446524600)
+
 Taraflar arasında 01.01.2014 başlangıç tarihli, 1 yıl süreli kira sözleşmesinin varlığı hususunda uyuşmazlık yoktur. Kira sözleşmesi ile dava konusu taşınmaz davacı ... tarafından davalı ...’e işyeri olarak kullanılmak üzere kiraya verilmiş olup, sözleşmenin özel şartlar bölümü 10.maddesinde; “Ödenmeyen kira ve ısınma ücretlerine aylık olarak her ay için % 5 gecikme zammı uygulanır” düzenlemesine yer verilmiştir. Olayımızda vergi dairesi cevabı yazısına göre davalının birinci sınıf bilanço esasına göre defter tuttuğunun tespit edildiğinin bildirilmesine göre davalı taraf tacir olup, davanın sebebini oluşturan taşınmaz da davalının ticari faaliyetinde kullanmak üzere kiralanmıştır. 01.07.2012 tarihinde yürürlüğe giren 6102 sayılı TTK'nın 9. maddesinde, ticari işlerde kanuni, anapara ile temerrüt faizi hakkında ilgili mevzuat hükümlerinin uygulanacağı hükme bağlanmıştır.
 Anılan yasa hükmünde sözü edilen ilgili mevzuatın 3095 sayılı yasa hükümleri olduğunun, akdi faiz oranı yönünden bir sınırlama getirmediğinin ve 6102 sayılı TTK'nın 8. maddesinin ticari işler bakımından özel hüküm niteliğinde olup, ticari işlerde bu hükümlerin uygulanması gerektiğinin, başka bir anlatımla 6098 sayılı TBK'nın 88. ve 120. maddeleri hükümlerinin ticari işlerde uygulanamayacağının kabulü gerekir. Nitekim Hukuk Genel Kurulu'nun 15.05.2015 tarih ve E.2013/2249 – K.2015/1362 sayılı kararı ile de, tarafların tacir olduğu ticari işlerde faiz oranının serbestçe belirleneceği kabul edilmiştir.
 
 ## Yargıtay 3. HD 2018/5558 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/426387000)
 
 Tüm bu açıklamalar kapsamında somut olay değerlendirildiğinde; Bozma ilamında davalı ... A.O 'nın kiracılığı kabul edilmiş, adı geçen davalı yönünden kira ilişkisinin ispatına yönelik değil kira bedelinin miktarı hususunda davacıya yemin hakkı olduğu hatırlatılması yönünden önceki hüküm bozulmuştur. Kural olarak bozma kararına uyulmakla orada belirtilen biçimde işlem yapılması yolunda lehine bozma yapılan taraf yararına kazanılmış hak, aynı doğrultuda işlem yapılması yolunda mahkeme için zorunluluk doğar. Mahkemece, uyulmasına karar verilen 23.10.2014 tarihli bozma ilamı gerekleri tam olarak yerine getirilmemiştir.

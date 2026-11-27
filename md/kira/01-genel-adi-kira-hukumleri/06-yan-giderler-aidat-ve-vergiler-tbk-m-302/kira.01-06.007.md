@@ -22,19 +22,27 @@ uyari: "Derleyenin seçtiği alıntılardır; kararın tamamı değildir. Künye
 
 ## Yargıtay 6. HD 2014/8521 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/97439400)
+
 Davacı hazine ile davalı arasında 2886 Sayılı Yasa hükümlerine göre düzenlenen 21/12/2009 başlangıç tarihli ve üç yıl süreli kira sözleşmesi konusunda uyuşmazlık bulunmamaktadır. Kira sözleşmesinin 11.maddesinde "kiracının fesih talebinde bulunması, kira dönemi sona ermeden faaliyetini durdurması, kiralananı amacı dışında kullanması, taahhüdünü sözleşme ve şartname hükümlerine uygun olarak yerine getirmemesi veya işletme ruhsatının her ne sebeple olursa olsun iptal edilmesi halinde kira sözleşmesi 2886 Sayılı Kanunun 62.maddesine göre tebligat yapmaya gerek kalmaksızın idarece feshedilerek kesin teminatı gelir kaydedilir ve cari yıl kira bedeli tazminatı olarak tahsil edilir" düzenlemesine yer verilmiştir. Fesih durumunda davalının tazminat ile sorumlu tutulabilmesi için öncelikle feshin davacı idare yönünden haklı nedene dayanıyor olması gerekir. Kira sözleşmesinde kiralananın ham toprak olduğu ve tarımsal amaçlı kullanılacağı belirtildiğinden kiralananın bu niteliği itibariyle TBK.nun 357.maddesinde düzenlenen ürün kirası hükümlerine tabi olduğu anlaşılmalıdır.
 Kira akdinin sona erme sebebinden biri de kiracının temerrütü olup, kira parasının ödenmemesi veya geç ödenmesi durumunda akdin feshinin biçim ve koşulları 6098 sayılı Türk Borçlar Kanunun 362. Maddesinde (818 sayılı BK.nun 288.maddesi) düzenlenmiştir. Buna göre istenen kira parasının veya yan giderin muaccel (istenebilir) olması ve kira bedeli ile yan giderin verilen sürede ödenmemiş bulunması, ihtarnamede verilen süre içerisinde kira parasının ödenmemesi halinde akdin feshedileceğinin açıkca belirtilmesi gerekir. Kiracıya verilecek süre ürün kiralarında en az altmış gündür. Kira parasının geç ödenmesi nedeniyle davalı kiracıya keşide edilen ihtarname…
 
 ## Yargıtay 6. HD 2014/8354 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/97582800)
 
 Taraflar arasında uyuşmazlık konusu olmayan 01.03.2007 başlangıç tarihli ve 1 yıl süreli kira sözleşmesi,birinci yıldan sonra yenilenmiş ve davalı tarafça taşınmazın 11.03.2009 tarihinde tahliye edildiği iddia edilmiş, davacı kiraya veren tarafından yasal anahtar teslimi yapılmadığı gerekçesiyle bu tarihe karşı çıkılmıştır. Davalının dayandığı 06.03.2009 tarihli belge anahtar teslim ya da ibralaşma belgesi niteliğinde değildir. Mahkemece her ne kadar taşınmazın 11.03.2009 tarihinde tahliye edildiği kabul edilerek, 2009 yılının Mart ayından 11 günlük kira parasına hükmedilmiş ise de, davalı kiracı yasal anahtar teslimini yazılı belge ile kanıtlayamamıştır. Ancak, davacı kiraya veren kiralananda 07.04.2009 tarihinde mahkeme kanalı ile delil tespiti yaptırdığına göre davacı kiraya verenin en geç tespit tarihi olan 07.04.2009 tarihinde kiralananın hakimiyetini ele geçirdiği kabul edilerek tahliye ve anahtar teslim tarihi olarak 07.04.2009 tarihinin kabul edilerek bu tarihe kadar kira parası ve aidatlardan davalı kiracının sorumlu olduğunun kabulü gerekir.
 Mahkemece, kiralananın tahliye tarihi 07.04.2009 tarihi olarak kabul edilerek bu tarihe kadar hesaplanacak kira parasının tahsiline,ayrıca bu tarihe kadar aidat parasının davacı tarafından ödenip ödenmediği araştırılarak aidat parası davacı tarafından ilgili yere ödenmiş ise davacının aidat alacağının da rücuen tahsiline karar verilmesi gerekirken yazılı şekilde hüküm verilmesi doğru değildir.
 
 ## Yargıtay 6. HD 2014/8253 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/97368400)
+
 Kiracı Aleyhine Düzenleme Yasağı başlıklı 6098 Sayılı Türk Borçlar Kanun'unun 346.maddesinde; Kiracıya kira bedeli ve yan giderler dışında başka bir ödeme yükümlülüğü getirilemeyeceği, özellikle kira bedelinin zamanında ödenmemesi halinde, ceza koşulu ödeneceğine veya sonraki kira bedellerinin muaccel olacağına ilişkin anlaşmaların geçersiz olduğu düzenlenmiştir.
 
 ## Yargıtay 6. HD 2014/7941 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/97443600)
 
 Davada dayanılan ve hükme esas alınan 01.04.2002 başlangıç tarihli ve bir yıl süreli kira sözleşmesi konusunda taraflar arasında uyuşmazlık bulunmamaktadır. Sözleşme kiralayan davacı ile kiracı E.. G.. arasında imzalanmıştır. Sözleşmenin 13.maddesinde kiracının genel kurulca onaylanan işletme projesindeki genel giderlerin kiralanana düşen hissesini yöneticiye ödeyeceği kararlaştırılmıştır. Kiralanan 21.12.2009 tarihinde tahliye edilmekle taraflar arasındaki kira ilişkisi son bulmuştur. Davacı 23.11.2011 tarihinde başlattığı icra takibinde; davacının site yönetiminin yaptığı icra takibi nedeniyle takip dosyasına ödediği 7.854 TL ortak gider borcunun davacıdan rucuen tahsilini istemiştir. İcra takibine konu edilen dönem 2007/Aralık-2009/Ekim dönemi olup 2.128,65 TL ortak gider, 3.275,03 TL gecikme zammı, 2.451,27 TL icra takip masraflarından oluşmaktadır. Yapılan icra takibine karşı davalı aidat borcu olmadığını bildirmiş ve buna ilişkin ödeme belgeleri sunmuştur.
 Alınan bilirkişi raporunda; davalının sunduğu 11.06.2008 tarihli olan 580 TL tutarlı makbuzdaki ödemenin hangi dönem için yapıldığının belirsiz olduğu, keza 08.01.2010 ile 30.11.2010 tarihleri arası 4 adet ve toplam 1.200 TL’lik ödeme makbuzlarında ödemenin takip dosyasına mahsuben yapıldığının bildirildiği ancak takip dosya numarasının belirtilmediği belirtilerek ödemeler hesaplamaya dahil edilmemiştir. Davalının ödeme savunmasına dayanak olarak sunduğu ödeme makbuzlarının takip konusu borca mahsuben yapılıp yapılmadığına ilişkin mahkemece yapılan araştırma hüküm kurmaya elverişli
@@ -43,13 +51,19 @@ değildir. Mahkemece söz konusu ödemelerin sözleşmeye konu taşınmaza ait o
 
 ## Yargıtay 6. HD 2014/7722 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/97382200)
+
 Kira parasının 1 TL eksik yatırıldığına ilişkin uyuşmazlık yoktur. Uyuşmazlık kira parasının 1,00 TL eksik yatırılmasının tahliyeyi gerektirip gerektirmediğine ilişkidir. TBK.nun 315 maddesi “ Kiracı, kiralananın tesliminden sonra muaccel olan kira bedelini veya yan gideri ödeme borcunu ifa etmezse, kiraya veren kiracıya yazılı olarak bir süre verip, bu sürede de ifa etmeme durumunda, sözleşmeyi feshedeceğini bildirebilir. Kiracıya verilecek süre en az on gün, konut ve çatılı işyeri kiralarında ise en az otuz gündür. Bu süre, kiracıya yazılı bildirimin yapıldığı tarihi izleyen günden itibaren işlemeye başlar.” şeklinde olup, İİK.nun 269 ve devamı maddelerinde düzenlenen kira parasının tahsili ve kiralanın tahliyesine yönelik icra takibinde temerrüt şartları da adi kiralarda TBK'nun 315 maddesindeki süre ve şartlara tabidir. Temerrüt sonuçlarından kurtulması için kiracının ihtara (takibe) konu kira veya yan gider borcunu eksiksiz ödenmesi zorunlu olup, ödemenin kısmi…
 
 ## Yargıtay 6. HD 2014/6888 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/97468000)
+
 01.07.2012 tarihinde yürürlüğe giren 6098 sayılı Türk Borçlar Kanunu'nun 346. maddesinde “Kiracıya, kira bedeli ve yan giderler dışında başka bir ödeme yükümlülüğü getirilemez. Özelikle, kira bedelinin zamanında ödenmemesi halinde ceza koşulu ödeneceğine veya sonraki kira bedellerinin muaccel olacağına ilişkin anlaşmalar geçersizdir.” hükmüne yer verilmiştir. 6101 sayılı Türk Borçlar Kanunu'nun Yürürlüğü ve Uygulama Şekli Hakkındaki Kanun'un Geçmişe Etkili Olma başlıklı 2.maddesinde “Türk Borçlar Kanunu'nun kamu düzenine ve genel ahlâka ilişkin kuralları gerçekleştikleri tarihe bakılmaksızın bütün fiil ve işlemlere uygulanacağı, yine Görülmekte Olan Davalara İlişkin Uygulama başlıklı 7. maddesinde de “Türk Borçlar Kanunu'nun; kamu düzenine ve genel ahlaka ilişkin kuralları ile geçici ödemelere ilişkin 76., faize ilişkin 88., temerrüt faizine ilişkin 120., aşırı ifa güçlüğüne ilişkin 138.maddesinin, görülmekte olan davalarda da uygulanacağı” öngörülmüştür. TBK 120.maddesinde "Uygulanacak yıllık temerrüt faizi oranı, sözleşmede kararlaştırılmamışsa, faiz borcunun doğduğu tarihte yürürlükte olan mevzuat hükümlerine göre belirlenir.
 
 ## Yargıtay 6. HD 2014/6135 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/97366300)
 
 Davada dayanılan ve hükme esas alınan 08.10.2008 başlangıç tarihli ve 10 yıl süreli kira sözleşmesi konusunda taraflar arasında uyuşmazlık bulunmamaktadır. Sözleşme ile davacıya ait narenciye paketleme tesisi demirbaşları ile birlikte davalıya kiraya verilmiştir. Kira sözleşmesinin 10.maddesinde; kira süresince tesisin kaskosu, sigorta pirimleri, vergi borçları, PTT borçları, elektrik borçları ve her türlü masraflarının kiracıya ait olacağı; 11.maddesinde ise; sözleşme koşullarından herhangi birinin yerine getirilmemesi halinde kiraya verenin sözleşmeyi tek yanlı olarak feshedebileceği kararlaştırılmıştır. Davacı tarafından keşide edilen 07.07.2009 tarihli noter ihtarında sözleşmenin 10.maddesinde yer
 
@@ -57,9 +71,13 @@ alan ödeme yükümlülüklerine uyulmadığından bahisle sözleşmeyi tek yanl
 
 ## Yargıtay 6. HD 2014/5770 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/97282800)
+
 Davada dayanılan ve hükme esas alınan 01.08.2008 başlangıç tarihli ve bir yıl süreli kira sözleşmesi konusunda uyuşmazlık bulunmamaktadır. Sözleşme ile davacıya ait “albatros konakları sitesinde villa” olarak adlandırılan taşınmaz davalıya kiraya verilmiştir. Sözleşmenin özel koşullar 5.ve 16.maddelerinde kiracının yan giderlere ilişkin ödeme yükümlülüğü belirlenmiş olup buna göre; mecurun kullanımı ile ilgili elektrik, su, çevre temizlik vergisi vb. giderlerin kiracı tarafından ödeneceği ve kiracının sözleşmenin eki olan şartnamede yazılı ortak gider aidatlarını belirlenen tarihlerde ödeyeceği kararlaştırılmıştır. Yan giderlerin ödeneceği tarih ve miktarını gösteren ve tarafların imzasını içeren belge dosyaya ibraz edilmemiştir. Bu durumda yan giderlerin miktarı ve ödeme şekli taraflar arasında belirli ve muayyen değildir.
 
 ## Yargıtay 6. HD 2014/5384 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/97404900)
 
 Davada dayanılan ve hükme esas alınan 01.09.2008 başlangıç tarihli ve beş yıl süreli kira sözleşmesi konusunda uyuşmazlık bulunmamaktadır. Sözleşmenin özel şartlar bölümü 9. maddesinde, kira bedellerinin ortak yerlere ilişkin yönetim giderleri ile çevre, çöp vb. belediye vergi ve harçları tamamen hariç olmak üzere sadece kiralanan yerin net kirasını ifade ettiği, 15 / 2-3 ve 7. maddesinde, bu maddede gösterilen giderlerin tamamının taşınmazda mevcut toplam kiralanmış mağaza ve depo alanına yönetim planında belirtildiği şekilde bölünerek pay edileceği ve metrajına göre ilgili kiracı tarafından ödeneceği, giderlere katılma payının kira ödemesi hükümlerine aynen tabi olduğu ve kiraya verenin kiracı aleyhine icra takibi veya dava ikame etmesi halinde de, kiracının ödemediği tutarlar için aylık % 10 üzerinden günlük temerrüt faizi ödeyeceği düzenlenmiştir.
 Davacı açmış olduğu işbu dava ile davalı kiracının yükümlülüğünde olmasına karşın, ödenmemesi nedeniyle kiralananın bulunduğu Sunflower Alışveriş Merkezi yönetimine kendisinin üç adet makbuz ile toplam 12.561.80 TL yönetim gideri ödediğini belirterek, ödenen bu bedelin sözleşme gereği aylık % 10 faizi ile davalı kiracıdan tahsilini talep etmiştir. Mahkemece yapılan yargılama sonucu davacı tarafından ödendiği tespit edilen yönetim giderlerinin aylık % 10 temerrüt faizi ile davalıdan tahsiline karar verilmiştir. Bununla birlikte 01.07.2012 tarihinde yürürlüğe giren 6098 Sayılı Türk Borçlar Kanunu'nun Yürürlüğü ve Uygulama Şekli Hakkındaki 6101 Sayılı Kanun'un 7. maddesinde Türk Borçlar Kanunu'nun kamu düzenine ve genel ahlaka ilişkin kuralları ile geçici ödemelere ilişkin 76. faize ilişkin 88. temerrüt faizine ilişkin 120. ve aşırı ifa güçlüğüne ilişkin 138. maddelerinin görülmekte olan davalarda da uygulanacağı hüküm altına alınmıştır. Türk Borçlar Kanunu'nun 120. maddesi gereğince uygulanacak yıllık temerrüt faizi oranı sözleşmede kararlaştırılmamışsa, faiz
@@ -68,10 +86,14 @@ borcunun doğduğu tarihte yürürlükte bulunan mevzuat hükümlerine göre bel
 
 ## Yargıtay 6. HD 2014/4604 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/97293600)
+
 Taraflar arasında 19/04/2011 tarihli 1 yıl süreli kira sözleşmesi hususunda uyuşmazlık bulunmamaktadır. Kira sözleşmesinin 7. maddesinde “Kiracı sözleşme bitiminde meskenden çıkmak isterse bunu 1 ay önceden mal sahibine bildirmek zorundadır. Aksi halde sözleşme süresi sonuna kadar doğacak olan kira tutarlarını ve aidatlarını mal sahibine defaaten ödeyecektir ” düzenlemesi yer almaktadır. Davalı tarafından taşınmaz tahliye edilerek taşınmazın anahtarı 02/12/2011 tarihinde davacıya teslim edilmiştir. Davalı tahliye tarihine kadar işleyecek kira bedelinden sorumludur. Ayrıca kira sözleşmesi davalı tarafından haksız şekilde feshedildiğine göre kural olarak kiracı, kira dönemi sonuna kadarki kira parasından sorumludur. Ancak TBK'nun 114. maddesi göndermesi ile aynı Kanun'un 52. maddesi yarınca kiraya verenin de zararın artmasına neden olmaması gerekir. Davalı kiracının sorumluluğu kiralananın kira sözleşmesindeki bedel ve koşullarda yeniden kiraya verilebileceği süre kadardır. Esasen kanun koyucu bu kuralı 6098 sayılı TBK'nun 325. maddesiyle kanun hükmü haline getirmiştir.
 Mahkemece, taşınmazın anahtar teslim tarihi olan 02/12/2011 tarihinden sonra aynı şartlarla ne kadar süre içinde kiraya verilebileceği uzman bilirkişi aracılığıyla tespiti ile tespit edilecek bu makul süre kadar kira parasından ve bu süreye ilişkin aidat bedelinden davalının sorumlu olacağı değerlendirilerek davacı tarafından aidat borcuna ilişkin olarak yapılan ödemeler de dikkate alınarak sonucuna göre bir karar verilmesi gerekirken yazılı şekilde eksik inceleme ile karar verilmesi doğru olmadığından hükmün bozulması gerekmiştir.
 
 ## Yargıtay 6. HD 2014/4464 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/97266600)
 
 Davacı H.. H.. ile davalı arasında, 2886 Sayılı Yasa hükümlerine göre düzenlenen 05/12/2008 tarihli 3 yıl süreli kira sözleşmesi konusunda uyuşmazlık bulunmamaktadır. Kira sözleşmesinin 11. maddesinde "Kiracının fesih talebinde bulunması,kira dönemi sona ermeden faaliyetini durdurması, kiralananı amacı dışında kullanması, taahhüdünü sözleşme ve şartname hükümlerine uygun olarak yerine getirmemesi veya işletme ruhsatının her ne sebeple olursa olsun iptal edilmesi hallerinde kira sözleşmesi 2886 Sayılı Kanunun 62. maddesine göre tebligat yapmaya gerek kalmaksızın idarece feshedilerek kesin teminatı gelir kaydedilir ve cari yıl kira bedeli tazminat olarak tahsil edilir." düzenlemesine, 14 maddesinde " Kira süresinin sona ermesi veya sözleşmenin feshi halinde taşınmaz idareye teslim edilmezse, geçen her gün için, cari yıl kira bedelinin yüzde biri oranında ceza, itirazsız olarak ödenir " düzenlemisne yer verilmiştir. Fesih durumunda davalının tazminat ile sorumlu tutulabilmesi için öncelikle feshin davacı idare yönünden haklı nedene dayanıyor olması gerekir. Dosya kapsamına göre, kiralananın Borçlar Kanun'unun adi
 
@@ -79,13 +101,19 @@ kiraya ilişkin hükümlerine tabi bir yer olduğu anlaşılmaktadır. Kira akdi
 
 ## Yargıtay 6. HD 2014/4138 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/97229500)
+
 Kira akdinin sona erme sebeplerinden biri de kiracının temerrüdü olup kira parasının ödenmemesi veya geç ödenmesi durumunda akdin feshinin biçim ve koşulları 6098 sayılı Türk Borçlar Kanununun 315.maddesinde (818 sayılı BK.nun 260.maddesi) düzenlenmiştir. Buna göre, istenen kira parasının veya yan giderin muaccel(istenebilir) olması ve kira bedeli ile yan giderin verilen sürede ödenmemiş bulunması, ihtarnamede verilen süre içerisinde kira parasının ödenmemesi halinde akdin feshedileceğinin açıkça belirtilmesi gerekir. Kiracıya verilecek süre konut ve çatılı işyeri kiralarında en az otuz gün, ürün kiralarında en az altmış gün, diğer kira ilişkilerinde ise en az on gündür. Davacı cezai şart istemini sözleşmenin feshini müteakip şartnamenin 31.maddesi gereğince ödenmesi gereken cezai şart istemine dayandırmıştır. Ne var ki, davacının gönderdiği sözleşmenin feshine ilişkin 19.10.2010 tarihli ihtarname kiracının temerrüdünü düzenleyen ve az yukarıda açıklanan yasanın emredici hükmüne aykırı olduğundan, hukuki sonuç doğurmaz. Bu nedenle, mahkemece cezai şart isteminin tümden reddi gerekirken, yazılı şekilde kısmen kabulüne karar verilmesi doğru değildir.
 
 ## Yargıtay 6. HD 2014/3750 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/97371500)
+
 Öte yandan 01.07.2012 tarihinde yürürlüğe giren 6098 sayılı Türk Borçlar Kanunu'nun 346.maddesinde ‘’ kiracıya kira bedeli ve yan giderler dışında başka bir ödeme yükümlülüğü getirilemez. Özellikle, kira bedelinin zamanında ödenmemesi hâlinde ceza koşulu ödeneceğine veya sonraki kira bedellerinin muaccel olacağına ilişkin anlaşmalar geçersizdir.’’ hükmüne yer verilmiştir. 6101 sayılı Türk Borçlar Kanunu'nun Yürürlüğü ve Uygulama Şekli Hakkında Kanun'un “Geçmişe Etkili Olma” başlıklı 2.maddesinde Türk Borçlar Kanunu'nun kamu düzenine ve genel ahlâka ilişkin kuralları gerçekleştikleri tarihe bakılmaksızın bütün fiil ve işlemlere uygulanacağı ,“Görülmekte Olan Davalara İlişkin Uygulama” başlıklı 7.maddesinde de Türk Borçlar Kanunu'nun kamu düzenine ve genel ahlaka ilişkin kuralları ile geçici ödemelere ilişkin 76. ,faize ilişkin 88. temerrüt faizine ilişkin 120. ,aşırı ifa güçlüğüne ilişkin 138.maddesinin ,görülmekte olan davalarda da uygulanacağı öngörülmüştür.
 
 ## Yargıtay 6. HD 2014/3694 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/97350900)
 
 Davacı ile davalı idare arasında, 2886 Sayılı Yasa hükümlerine göre düzenlenen 24.10.2011 başlangıç tarihli ve 3 yıl süreli kira sözleşmesi konusunda uyuşmazlık bulunmamaktadır. Sözleşmeye konu yer tarımsal amaçlı kullanılmak üzere davacıya kiraya verilmiştir. Kira sözleşmesinin 11. maddesinde "Kiracının kira dönemi sona ermeden faaliyetini durdurması……….veya taahhüdünü sözleşme ve şartname hükümlerine uygun olarak yerine getirmemesi hallerinde (taksitlerin süresinde ödenmesi dahil) 2886 sayılı Kanunun 62.maddesine göre idare 10 gün süreli ihtarname ile durumu kiracıya bildirir ve ihtarnamede yazılı hususlara uyulmasını ister. İhtarnamede belirtilen sürenin sonunda yerinde yapılacak kontrolde belirtilen hususlara uyulmadığı görülürse kira sözleşmesi feshedilerek kesin teminatı irat kaydedilir ve son bir yıl kira bedeli tazminat olarak tahsil edilir” düzenlemesine yer verilmiştir. Davalı idare sözleşmenin bu hükmüne dayalı olarak 23.02.2012 tarihinde ödenmesi gereken birinci yıl kira bedelinin 2.taksiti ve 23.04.2012 tarihinde ödenmesi gereken 3.taksit tutarının keşide edilen 10 gün süreli ihtara rağmen ödenmediğinden bahisle sözleşmeyi tek yanlı olarak feshetmiştir.
 Davacı işbu davayı feshin hukuka uygun olmadığı iddiası ile açmıştır. Dosya kapsamına göre, kiralananın Borçlar Kanun'unun adi kiraya ilişkin hükümlerine tabi bir yer olduğu anlaşılmaktadır. Kira akdinin sona erme sebeplerinden biri de kiracının temerrüdü olup kira parasının ödenmemesi veya geç ödenmesi durumunda akdin feshinin biçim ve koşulları 6098 sayılı Türk Borçlar Kanun'unun 315.maddesinde (818 sayılı BK.nun 260.maddesi) düzenlenmiştir. Buna göre, istenen kira parasının veya yan giderin muaccel (istenebilir) olması ve kira bedeli ile yan giderin verilen sürede ödenmemiş bulunması, ihtarnamede verilen süre içerisinde kira parasının ödenmemesi halinde akdin feshedileceğinin açıkça belirtilmesi gerekir. Kiracıya verilecek süre konut ve çatılı işyeri kiralarında en az otuz gün, ürün kiralarında en az altmış gün, diğer kira ilişkilerinde ise en az on gündür. Kira parasının geç ödenmesi nedeniyle davalı kiracıya keşide edilen ihtarname kiracının temerrüdünü düzenleyen ve az önce yukarıda açıklanan yasanın emredici hükmüne aykırı olduğundan, hukuki sonuç doğurmaz.
@@ -93,20 +121,28 @@ Feshin hukuka aykırı olduğu iddiası ile açılan davanın belirtilen bu husu
 
 ## Yargıtay 6. HD 2014/3622 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/308331500)
+
 Dosya kapsamına göre, kiralananın Borçlar Kanununun adi kiraya ilişkin hükümlerine tabi bir yer olduğu anlaşılmaktadır. Kira akdinin sona erme sebeplerinden biri de kiracının temerrüdü olup kira parasının ödenmemesi veya geç ödenmesi durumunda akdin feshinin biçim ve koşulları 6098 sayılı Türk Borçlar Kanununun 315.maddesinde (818 sayılı BK.nun 260.maddcsi) düzenlenmiştir. Buna göre, istenen kira parasının veya yan giderin muaccel(istenebilir) olması ve kira bedeli ile yan giderin verilen sürede ödenmemiş bulunması, ihtarnamede verilen süre içerisinde kira parasının Ödenmemesi halinde akdin feshedileceğinin açıkça belirtilmesi gerekir. Kiracıya verilecek süre konut vc çatılı işyeri kiralarında en az otuz gün, ürün kiralarında en az altmış gün, diğer kira ilişkilerinde ise en az on gündür. Davacı cezai şart istemini sözleşmenin feshini müteakip sözleşmenin 11.maddesi gereğince ödenmesi gereken cezai şarta dayandırmıştır. Ne var ki, davacının gönderdiği sözleşmenin feshine ilişkin 21.5.2009 tarihli ihtarnamede kira paralarının
 
 ödenmesi için 15 günlük süre verilmiş olup, bu haliyle ihtarname kiracının temerrüdünü düzenleyen ve az yukarıda açıklanan yasanın emredici hükmüne aykırı olduğundan, hukuki sonuç doğurmaz. Bu nedenle, mahkemece cezai şart isteminin tümden reddi gerekirken, kabulüne karar verilmesi doğru değildir.
 
 ## Yargıtay 6. HD 2014/3473 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/97335600)
+
 6098 Sayılı Türk Borçlar Kanununun 346.maddesinde; kiracıya kira bedeli ve yan giderler dışında başka bir ödeme yükümlülüğü getirilemeyeceği, özellikle kira bedelinin zamanında ödenmemesi halinde ceza koşulu ödeneceğine veya sonraki kira bedellerinin muaccel olacağına ilişkin anlaşmaların geçersiz olduğu, 6101 Sayılı Türk Borçlar Kanununun Yürürlüğü ve Uygulama Şekli Hakkında Kanunun Geçmişe etkili olma başlıklı 2.maddesinde; Türk Borçlar Kanununun kamu düzenine ve genel ahlaka ilişkin kurallarının gerçekleştikleri tarihe bakılmaksızın bütün fiil ve işlemlere uygulanacağı hüküm altına alınmıştır. Kiracıyı koruma amacıyla getirilen TBK.nun 346.maddesindeki bu yasal düzenlemenin kamu düzenine ilişkin olduğu kuşkusuzdur. Bununla birlikte 6217 Sayılı…
 
 ## Yargıtay 6. HD 2014/2762 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/97259700)
 
 Somut olayda, taraflar arasında 16.02.1998 başlangıç tarihli kira sözleşmesi bulunduğu konusunda uyuşmazlık bulunmamaktadır. Kiraya verilecek taşınmazlar için genel şartnamenin 15.maddesinde kiraya verilen yerin kullanılması için gerekli temizlik, aydınlatma ve yakıt giderleri ile yönetim giderlerinin tamamı kiracıya aittir. Yine sözleşmenin özel şartlar üçüncü maddesinde kiracılar; kapıcı, kaloriferci, bekçi giderlerine eşit olarak kiralarındaki işyerleri ile ortak yerlerin bakım onarım, koruma, aydınlatma, ısıtma, temizleme, yönetici ücreti ve diğer işletme giderlerine kullanma alanları oranında katılmakla yükümlüdür. Dördüncü maddesinde ise kiracılar, hisselerine düşen parayı her ayın 5 nci günü iş saati sonuna kadar peşin olarak yönetim kuruluna ödemeye mecburdur. İstenilen bu tür giderlere kiracılar itiraz edemeyeceği gibi, bu bedelleri zamanında ödemeyenler hakkında yönetim kurulunca icra takibi yapılmasını 'kiracılar kabul ve taahhüt ederler düzenlemesi bulunmaktadır. Davacı kiraya veren ödediği aidat ve elektrik giderini taraflar arasındaki kira ilişkisi nedeniyle davalı kiracıdan rücuen tahsilini istemiştir. Olayın Kat Mülkiyeti Yasası ile bir ilgisi bulunmamaktadır.
 Bu durumda dava konusu alacakla birlikte tahliye, akdin feshi ve kira tespiti istenmediğine göre dava tarihi itibarıyla görev dava değerine göre belirlenir. Dava değerine göre de davaya bakmakla Asliye Hukuk Mahkemesi görevli olduğuna göre işin esasının incelenip sonucuna göre karar verilmesi gerekirken, yazılı şekilde karar verilmesi doğru değildir.
 
 ## Yargıtay 6. HD 2014/2479 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/97207400)
 
 Davada dayanılan ve hükme esas alınan 15/04/2008 başlangıç tarihli 5 yıl 8Ay 15 gün süreli kira sözleşmesi konusunda taraflar arasında bir uyuşmazlık bulunmamaktadır. Kira sözleşmesinde aylık asgari kira bedelinin 15/04/2008-31/12/2008 aylık 2968 $+KDV, 01/01/2009-31/12/2009 aylık 3071 $+KDV, 01/01/2010-31/12/2010 aylık 3225 $+KDV olduğu belirlenmiştir. Ayrıca, sözleşmenin 14/E maddesinde “Bir ayın kirasının zamanında ödenmemesi veya eksik ödenmesi halinde devam eden 12 aylık asgari kira bedeli muaccel
 
@@ -115,9 +151,13 @@ Mahkemece alınan bilirkişi raporlarında her iki tarafın da ticari defterleri
 
 ## Yargıtay 6. HD 2014/2572 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/306886900)
+
 Davada dayanılan ve hükme esas alınan 01.09.2009 başlangıç tarihli ve bir yıl süreli kira sözleşmesi konusunda taraflar arasında uyuşmazlık bulunmamaktadır. Sözleşmenin özel şartlar bölümünde kontrat bitiminde yıllık TEFE oranında alınarak artış yapılacağı kararlaştırılmıştır. Bu şart geçerli olup tarafları bağlar.Nitekim aylık kiranın 950 TL olduğu tarafların kabulündedir. Davacı alacaklı aylık 950 TL'den ödenmeyen 2013 yılı 3. ve 4. aylar kirası 1900 TL ile 2009 yılına ait 4,2010 yılına ait 12,2011 yılına ait 12,2012 yılına ait 12 ve 2013 yılına ait 5 aylık aidat bedeli olarak 1290 TL'nin tahsilini istemiştir.Davalı bir kısım kira bedelini ödediğini,aidat giderinin kendisinden istenmediğini savunmuştur.Davacının aidat bedelini isteyebilmesi için talep edilen aylara ilişkin aidat bedelinin tarafınca ödediğinin ispatı gerekir.Mahkemece davalının ödediğini bildirdiği miktarlar ile davacının ibraz ettiği aidatlara ilişkin belgeler üzerinde durularak karar verilmesi gerekirken yazılı şekilde alacağa hükmedilmesi doğru görülmemiştir.
 
 ## Yargıtay 6. HD 2014/1383 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/97234600)
 
 Davada dayanılan ve hükme esas alınan 29.10.2007 başlangıç tarihli ve 5 yıl süreli kira sözleşmesi konusunda uyuşmazlık bulunmamaktadır. Güvence bedeline ilişkin sözleşmenin
 
@@ -127,17 +167,25 @@ Davacı-birleşen dosyadaki davalının diğer fesih nedeni olarak ileri sürdü
 
 ## Yargıtay 6. HD 2014/1336 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/83950300)
+
 Kiralananın tahliyesi anahtar teslimi ile gerçekleşir. Tahliyenin kanıtlanması yükümlülüğü kiracıya aittir. Türk Borçlar Kanununun 315.maddesi hükmü uyarınca temerrüt nedeniyle tahliyeye karar verilebilmesi için istenen kira parasının veya yan giderin muaccel(istenebilir) olması ve kira bedeli ile yan giderin verilen sürede ödenmemiş bulunması, ihtarnamede verilen süre içerisinde kira parasının ödenmemesi halinde akdin feshedileceğinin açıkça belirtilmesi gerekir. Kiracıya verilecek süre konut ve çatılı işyeri kiralarında en az otuz gün, ürün kiralarında en az altmış gün, diğer kira ilişkilerinde ise en az on gündür. Kira parası götürülüp ödenmesi gereken borçlardan olduğundan kiralayana götürülüp elden ödenmesi veya gideri kiracıya ait olmak koşuluyla konutta ödemeli olarak PTT kanalıyla gönderilmesi gerekir. Bundan ayrı, sözleşmede özel bir koşul kabul edilmişse bu hususta gözönünde tutulmalıdır. Açıklanan şekilde yapılmayan ödemeler yasal ödeme olarak kabul edilemez. Ancak teamül haline gelmiş bir ödeme şekli varsa bu şekilde yapılan ödemede geçerlidir.
 
 ## Yargıtay 6. HD 2014/1223 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/97129100)
 
 Türk Borçlar Kanunu'nun 315.maddesi hükmü uyarınca temerrüt nedeniyle tahliyeye karar verilebilmesi için istenen kira parasının veya yan giderin muaccel (istenebilir) olması ve kira bedeli ile yan giderin verilen sürede ödenmemiş bulunması, ihtarnamede verilen süre içerisinde kira parasının ödenmemesi halinde akdin feshedileceğinin açıkça belirtilmesi gerekir.
 
 ## Yargıtay 6. HD 2014/1150 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/310763900)
+
 Taraflar arasında düzenlenen yazılı kira sözleşmesinin hususi şartlarının 9. maddesinde kiracının, siteye ait olan aidatları payı nisbetinde site yönetiminin belirlediği tutar ve tarihlerde ödemekle yükümlü olduğu kararlaştrılmıştır. Sözleşmenin bu maddesine göre istenilen ortak gider tutarlarının belli ve muayyen miktarlarda olmaması ve davalının yargılamadaki savunması karşısında mahkemece, takibe konu edilen borcun belirlenmesi yargılamayı gerektirdiğinden davanın reddine karar verilmesi gerekçesi ile yetinilmesi gerekirken, ayrıca işin esasına girilerek aidat borcu nedeniyle temerrüdün söz konusu olamıyacağından da bahisle davanın reddine karar verilmesi doğru değil ise de, bu sebeple kararın bozularak yeniden yargılama yapılmasında yarar görülmediğinden, karar gerekçesinden işin esasına ilişkin gerekçenin çıkartılması suretiyle kararın 6100 sayılı HMK.ya 6217 sayılı Kanunla eklenen geçici 3. madde hükmü gözetilerek, HUMK.nun 438.
 
 ## Yargıtay 6. HD 2014/1130 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/97181100)
 
 Davalının cari yıl kira bedeli tazminatına yönelik temyiz itirazına gelince; Davacı idare ile davalı arasında, 2886 Sayılı Yasa hükümlerine göre düzenlenen 12.01.2009 tarihli 3 yıl süreli kira sözleşmesi konusunda uyuşmazlık bulunmamaktadır. Kira sözleşmesinin 11. maddesinde "Kiracının fesih talebinde bulunması, kira dönemi sona ermeden faaliyetini durdurması, kiralananı amacı dışında kullanması, taahhüdünü sözleşme ve şartname hükümlerine uygun olarak yerine getirmemesi veya işletme ruhsatının her ne sebeple olursa olsun iptal edilmesi hallerinde kira sözleşmesi 2886 Sayılı Kanunun 62. maddesine göre tebligat yapmaya gerek kalmaksızın idarece feshedilerek kesin teminatı gelir kaydedilir ve cari yıl kira bedeli tazminat olarak tahsil edilir." düzenlemesine yer verilmiştir. Fesih durumunda davalının tazminat ile sorumlu tutulabilmesi için öncelikle feshin davacı idare yönünden haklı nedene dayanıyor olması gerekir. Dosya kapsamına göre, kiralananın Borçlar Kanun'unun adi kiraya ilişkin hükümlerine tabi bir yer olduğu anlaşılmaktadır.
 Kira akdinin sona erme sebeplerinden biri de kiracının temerrüdü olup, kira parasının ödenmemesi veya geç ödenmesi durumunda akdin feshinin biçim ve koşulları 6098 Sayılı Türk Borçlar Kanun'unun 315.maddesinde (818 sayılı BK.nun 260.maddesi) düzenlenmiştir. Buna göre, istenen kira parasının veya yan giderin muaccel (istenebilir) olması ve kira bedeli ile yan giderin verilen sürede ödenmemiş bulunması, ihtarnamede verilen süre içerisinde kira parasının ödenmemesi halinde akdin feshedileceğinin açıkça belirtilmesi gerekir. Kiracıya verilecek süre konut ve çatılı işyeri kiralarında en az otuz gün, ürün kiralarında en az altmış gün, diğer kira ilişkilerinde ise en az on gündür. Davacı tarafından kira parasının geç ödenmesi nedeniyle davalı kiracıya keşide edilen ihtarname

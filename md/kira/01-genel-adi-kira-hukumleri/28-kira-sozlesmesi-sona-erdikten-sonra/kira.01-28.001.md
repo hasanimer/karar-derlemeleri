@@ -25,25 +25,37 @@ Ayrıca, paydaşlardan birinin diğerinden ecrimisil (işgal tazminatı) isteyeb
 
 ## Yargıtay HGK 2025/497 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1171874000)
+
 Takip talebinin incelenmesinde; ecrimisil alacağı, ilam vekalet ücreti, yargılama gideri ve işlemiş faizlerinin tahsili ile birlikte Kayseri ili ... ilçesi ... mahallesi 4190 ada 8 parsel sayılı taşınmaz üzerinde bulunan fen bilirkişinin rapor ve krokisinde C harfi ile gösterilen taşınmaza müdahalenin men'i ile taşınmazdan tahliye talep edildiği, örnek no:2 icra emrinin incelenmesinde; ecrimisil alacağının işleyecek faizi ile birlikte tahsili ve takip talebinde belirtilen taşınmaza müdahalenin men'i ile taşınmazdan tahliye talep edildiği,örnek no: 4-5 icra emrinin incelenmesinde ise;takip talebinde belirtilen alacak kalemlerinin tahsilde tekerrür olmamak kaydı ile tahsilinin talep edildiği anlaşılmaktadır.
 
 ## Yargıtay HGK 2025/62 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1131644100)
 
 Bilindiği üzere, gerek öğretide ve gerekse yargısal uygulamalarda ifade edildiği üzere ecrimisil, diğer bir deyişle haksız işgal tazminatı, zilyet olmayan hak sahibinin, hak sahibi olmayan kötüniyetli zilyetten isteyebileceği bir tazminat olup, 08.03.1950 tarihli ve 22/4 sayılı İçtihadı Birleştirme Kararında; fuzuli işgalin tarafların karşılıklı birbirine uygun iradeleri ile kurduğu kira sözleşmesine benzetilemeyeceği, niteliği itibarı ile haksız bir eylem sayılması gerektiği, haksız işgal nedeniyle oluşan zararın tazmin edilmesi gerekeceği vurgulanmıştır. Ecrimisil, haksız işgal nedeniyle tazminat olarak nitelendirilen özel bir zarar giderim biçimi olması nedeniyle, en azı kira geliri karşılığı zarardır. Bu nedenle, haksız işgalden doğan normal kullanma sonucu eskime şeklinde oluşan ve kullanmadan kaynaklanan olumlu zarar ile malik ya da zilyedin yoksun kaldığı fayda (olumsuz zarar) ecrimisilin kapsamını belirler. Haksız işgal, haksız eylem niteliğindedir. (YHGK'nin 25.02.2004 tarihli ve 2004/1-120-96 sayılı kararı)…
 
 ## Yargıtay HGK 2024/355 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1055743200)
+
 Öte yandan, gerek öğretide ve gerekse yargısal uygulamalarda ifade edildiği üzere ecrimisil, diğer bir deyişle haksız işgal tazminatı, zilyet olmayan malikin, malik olmayan kötüniyetli zilyetten isteyebileceği bir tazminat olup, 08.03.1950 tarih 22/4 sayılı İçtihadı Birleştirme Kararında; fuzuli işgalin tarafların karşılıklı birbirine uygun iradeleri ile kurduğu kira sözleşmesine benzetilemeyeceği, niteliği itibarı ile haksız bir eylem sayılması gerektiği, haksız işgal nedeniyle oluşan zararın tazmin edilmesi gerekeceği vurgulanmıştır. Ecrimisil, haksız işgal nedeniyle tazminat olarak nitelendirilen özel bir zarar giderim biçimi olması nedeniyle, en azı kira geliri karşılığı zarardır. Bu nedenle, haksız işgalden doğan normal kullanma sonucu eskime şeklinde oluşan ve kullanmadan kaynaklanan olumlu zarar ile malik ya da zilyedin yoksun kaldığı fayda (olumsuz zarar) ecrimisilin kapsamını belirler. Haksız işgal, haksız eylem niteliğindedir (YHGK'nun 25.02.2004 gün ve 2004/1-120-96 sayılı kararı).
 
 ## Yargıtay HGK 2024/195 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1044864600)
 
 Ecrimisil ise gerek öğretide ve gerekse yargısal uygulamalarda ifade edildiği üzere, hak sahibinin kötüniyetli zilyetten isteyebileceği bir tazminat olup 08.03.1950 tarihli ve 22/4 sayılı İçtihadı Birleştirme Kararında; fuzuli işgalin tarafların karşılıklı ve birbirine uygun iradeleri ile kurduğu kira sözleşmesine benzetilemeyeceği, niteliği itibarı ile haksız bir eylem sayılması gerektiği, haksız işgal nedeniyle oluşan zararın tazmin edilmesi gerekeceği vurgulanmıştır. Ecrimisil, haksız işgal nedeniyle tazminat olarak nitelendirilen özel bir zarar giderim biçimi olması nedeniyle, en azı kira bedeli, en fazlası mahrum kalınan gelir kaybı karşılığı zarardır. Bu nedenle, haksız işgalden doğan normal kullanma sonucu eskime şeklinde oluşan ve kullanmadan kaynaklanan olumlu zarar ile malik ya da zilyedin yoksun kaldığı fayda (olumsuz zarar) ecrimisilin kapsamını belirler.
 
 ## Yargıtay HGK 2021/1084 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/709860700)
+
 Görüleceği üzere takip talebine konu edilen kira alacağı ile davaya konu edilen ve bir tür tazminat niteliğinde olan ecrimisil hakkı tamamen birbirinden farklı hukukî niteliğe sahiptirler. Böyle olunca, mahkemece takip dayanağı olarak gösterilen kira sözleşmesi ve kira alacağı hakkında genel hükümler dairesinde sözleşme ilişkisi ve kira alacağının var olup olmadığı incelenerek, en nihayetinde mevcut olduğu sonucuna varılması durumunda itirazın iptaline karar verilmesi olanağı bulunmamaktadır.
 
 ## Yargıtay HGK 2021/802 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/685279400)
 
 Ecrimisile gelince; gerek öğretide ve gerekse yargısal uygulamalarda ifade edildiği üzere, hak sahibinin kötü niyetli zilyetten isteyebileceği bir tazminat olup, 08.03.1950 tarihli ve 1945/22 E, 1950/4 K. sayılı İçtihadı Birleştirme Kararında; fuzuli işgalin tarafların karşılıklı ve birbirine uygun iradeleri ile kurduğu kira sözleşmesine benzetilemeyeceği, niteliği itibarı ile haksız bir eylem sayılması gerektiği, haksız işgal nedeniyle oluşan zararın tazmin
 
@@ -51,13 +63,19 @@ edilmesi gerekeceği vurgulanmıştır. Yine bahsi geçen İçtihadı Birleştir
 
 ## Yargıtay HGK 2021/502 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/686560000)
+
 İyi niyetli olmayan zilyedin malı kullanma karşılığı ödeyeceği “kullanma tazminatı” öğreti ve uygulamada ecrimisil olarak adlandırılmaktadır. Bu kapsamda 09.12.1931 tarihli ve 23/44 sayılı İçtihadı Birleştirme Kararı ile gayrimenkuller üzerinde bir hakka dayanmayan zilyetlik (fuzuli işgal) hâlinde haksız fiil zamanaşımının cereyan etmeyeceği belirtilmiş; ancak hangi zamanaşımı süresinin uygulanacağı hakkında bir açıklama yapılmamıştır. Buna karşılık 25.05.1938 tarihli ve 29/37 sayılı İçtihadı Birleştirme Kararı ile başkasının malı üzerinde haksız zilyetlikten doğan tazminat alacağı, kira sözleşmesinden doğan alacağa benzetilmiş ve 818 sayılı BK’nin 126. (6098 sayılı TBK’nin 147.) maddesinde kira alacakları için kabul edilen beş yıllık zamanaşımı süresinin ecrimisil davalarında da uygulanacağı kabul edilmiştir. Böylece TMK’nin 995. maddesi kapsamında açılan tazminat davalarında haksız zilyet malı kullanmış ise kullanma tazminatı (ecrimisil) talebi beş yıllık zamanaşımı süresine tabi olacaktır.
 
 ## Yargıtay HGK 2021/91 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/646424400)
+
 Haksız işgal tazminatı (ecrimisil) ise, gerek öğretide ve gerekse yargısal uygulamalarda ifade edildiği üzere; hak sahibinin kötü niyetli zilyetten isteyebileceği bir tazminat olup, 08.03.1950 tarihli ve 22/4 sayılı İçtihadı Birleştirme Kararında; fuzuli işgalin tarafların karşılıklı ve birbirine uygun iradeleri ile kurduğu kira sözleşmesine benzetilemeyeceği, niteliği itibarı ile haksız bir eylem sayılması gerektiği, haksız işgal nedeniyle oluşan zararın tazmin edilmesi gerekeceği vurgulanmıştır. Bu sebeple ecrimisilde karşı tarafı temerrüde düşürmeye gerek yoktur. Ecrimisil, haksız işgal nedeniyle tazminat olarak nitelendirilen özel bir zarar giderim biçimi olması nedeniyle, en azı kira bedeli, en fazlası mahrum kalınan gelir kaybı karşılığı zarardır. Bu nedenle, haksız işgalden doğan normal kullanma sonucu eskime şeklinde oluşan ve kullanmadan kaynaklanan olumlu zarar ile malik ya da zilyedin yoksun kaldığı fayda (olumsuz zarar) ecrimisilin kapsamını belirler.
 
 ## Yargıtay HGK 2020/713 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/638147900)
 
 Ecrimisil ise gerek öğretide ve gerekse yargısal uygulamalarda ifade edildiği üzere, hak sahibinin kötü niyetli zilyetten isteyebileceği bir tazminat olup, 08.03.1950 tarih ve 22/4 sayılı İçtihadı Birleştirme Kararında; fuzuli işgalin tarafların karşılıklı ve birbirine uygun iradeleri ile kurduğu kira sözleşmesine benzetilemeyeceği, niteliği itibarı ile haksız bir
 
@@ -65,17 +83,25 @@ eylem sayılması gerektiği, haksız işgal nedeniyle oluşan zararın tazmin e
 
 ## Yargıtay HGK 2020/712 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/620783700)
+
 Ecrimisil ise gerek öğretide ve gerekse yargısal uygulamalarda ifade edildiği üzere, hak sahibinin kötü niyetli zilyetten isteyebileceği bir tazminat olup, 08.03.1950 tarihli ve 22/4 sayılı İçtihadı Birleştirme Kararında; fuzuli işgalin tarafların karşılıklı ve birbirine uygun iradeleri ile kurduğu kira sözleşmesine benzetilemeyeceği, niteliği itibarı ile haksız bir eylem sayılması gerektiği, haksız işgal nedeniyle oluşan zararın tazmin edilmesi gerekeceği vurgulanmıştır. Ecrimisil, haksız işgal nedeniyle tazminat olarak nitelendirilen özel bir zarar giderim biçimi olması nedeniyle, en azı kira bedeli, en fazlası mahrum kalınan gelir kaybı karşılığı zarardır. Bu nedenle, haksız işgalden doğan normal kullanma sonucu eskime şeklinde oluşan ve kullanmadan kaynaklanan olumlu zarar ile malik ya da zilyedin yoksun kaldığı fayda (olumsuz zarar) ecrimisilin kapsamını belirler.
 
 ## Yargıtay HGK 2020/51 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/579540400)
 
 Bu zararın en azı kira geliri karşılığı olan zarardır. Ancak, haksız işgalden doğan zarar her zaman kira geliri karşılığı olan zarar kadar olmayıp çok daha kapsamlı olabilir. Bu nedenle, haksız işgalden doğan normal veya hor kullanma sonucu eskime şeklinde oluşan olumlu zarar ile malik ya da zilyedin yoksun kaldığı fayda şeklinde tanımlanan olumsuz zarar ecrimisilin kapsamını belirler.
 
 ## Yargıtay HGK 2019/752 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/520428400)
+
 Ecrimisil gerek öğretide ve gerekse yargısal uygulamalarda ifade edildiği üzere hak sahibinin kötü niyetli zilyetten isteyebileceği bir tazminat olup, 08.03.1950 tarih ve 22/4 sayılı İçtihadı Birleştirme Kararında; fuzuli işgalin tarafların karşılıklı ve birbirine uygun iradeleri ile kurduğu kira sözleşmesine benzetilemeyeceği, niteliği itibarı ile haksız bir eylem sayılması gerektiği, haksız işgal nedeniyle oluşan zararın tazmin edilmesi gerekeceği vurgulanmıştır. Ecrimisil, haksız işgal nedeniyle tazminat olarak nitelendirilen özel bir zarar giderim biçimi olması nedeniyle, en azı kira bedeli, en fazlası mahrum kalınan gelir kaybı karşılığı zarardır.
 
 ## Yargıtay HGK 2019/327 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/510862400)
 
 Bilindiği gibi ecrimisil; gerek öğretide ve gerekse yargısal kararlarda ifade edildiği üzere hak sahibinin kötü niyetli zilyetten isteyebileceği bir tazminat olup, 08.03.1950 tarih ve 22/4 sayılı İçtihadı Birleştirme Kararında; fuzuli işgalin tarafların karşılıklı ve birbirine uygun iradeleri ile kurduğu kira sözleşmesine benzetilemeyeceği, niteliği itibarı ile haksız bir
 
@@ -83,17 +109,25 @@ eylem sayılması gerektiği, haksız işgal nedeniyle oluşan zararın tazmin e
 
 ## Yargıtay HGK 2018/1947 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/478956000)
+
 Bilindiği ve gerek öğretide gerekse yargısal uygulamalarda ifade edildiği üzere ecrimisil, diğer bir deyişle haksız işgal tazminatı, zilyet olmayan malikin, malik olmayan kötü niyetli zilyetten isteyebileceği bir tazminat olup, 08.03.1950 tarihli 22/4 sayılı İçtihadı Birleştirme Kararında; fuzuli işgalin tarafların karşılıklı birbirine uygun iradeleri ile kurduğu kira sözleşmesine benzetilemeyeceği, niteliği itibarı ile haksız bir eylem sayılması gerektiği, haksız işgal nedeniyle oluşan zararın tazmin edilmesi gerekeceği vurgulanmıştır. Bir başka ifadeyle ecrimisil, haksız işgal nedeniyle "tazminat" olarak nitelendirilen özel bir zarar giderim biçimi olması nedeniyle, en azı kira geliri karşılığı zarardır. Bu nedenle, haksız işgalden doğan normal kullanmadan kaynaklanan olumlu zarar ile malik ya da zilyedin yoksun kaldığı fayda (olumsuz zarar) ecrimisilin kapsamını belirler. Haksız işgal, haksız eylem niteliğindedir (Yargıtay Hukuk Genel Kurulunun 25.02.2004 gün ve 2004/1-120-96 sayılı kararı).
 
 ## Yargıtay HGK 2015/1498 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/114719000)
 
 Gerek öğretide ve gerekse yargısal uygulamalarda ifade edildiği üzere ecrimisil, diğer bir deyişle haksız işgal tazminatı, zilyet olmayan malikin, malik olmayan kötüniyetli zilyetten isteyebileceği bir tazminat türüdür. Nitekim, 08.03.1950 gün ve E:1949/22, K:1950/4 sayılı Yargıtay İçtihadı Birleştirme Kararında; fuzuli işgalin tarafların karşılıklı birbirine uygun iradeleri ile kurduğu kira sözleşmesine benzetilemeyeceği, niteliği itibarı ile haksız bir eylem sayılması gerektiği, haksız işgal nedeniyle oluşan zararın tazmin edilmesi gerekeceği vurgulanmıştır. Ecrimisil, haksız işgal nedeniyle tazminat olarak nitelendirilen özel bir zarar giderim biçimi olması nedeniyle, en azı kira geliri karşılığı zarardır. Bu nedenle;…
 
 ## Yargıtay HGK 2015/1061 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/112926700)
+
 Bilindiği gibi, kanunlarımızda tanımı yapılmamakla birlikte gerek öğretide ve gerekse yargısal uygulamalarda ifade edildiği üzere ecrimisil, diğer bir deyişle işgal tazminatı, hak sahibinin kötü niyetli zilyetten isteyebileceği bir tazminat olup, 08.03.1950 tarih 22/4 sayılı İnançları Birleştirme Kararında “…fuzuli işgalin kiraya benzetilemeyeceği; …haksız bir eylem sayılması gerektiği, …bir zarar meydana gelirse bunun tazmin ettirileceği, …Medeni Kanunun (mülga 743 sayılı Türk Kanunu Medenisi) 908 inci maddesi anlamında zilyedin faydalanmasından doğan bir istem olduğu…” vurgulanmıştır.
 
 ## Yargıtay HGK 2014/496 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/84033500)
 
 Somut olayda; dava konusu 52 ada 5 parsel sayılı taşınmazda davacıların 206/1772’şer payları bulunduğu,taşınmazın arsa vasfında olup, üzerinde yapı bulunmadığı, imar planında kent meydanı olarak ayrıldığı ve fiilen de kent meydanı olarak kullanıldığı anlaşılmaktadır.Mahkemece alınan 28.10.2011 tarihli bilirkişi raporunda emsal olarak 46
 
@@ -101,13 +135,19 @@ m² kapalı alana, 110 m² bahçe alanına sahip çay bahçesi niteliğinde yap�
 
 ## Yargıtay HGK 2008/138 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/76614800)
+
 0 halde ecrimisil istemi ile açılan bu davada, davalının taşınmazı kullanmasının haklı bir nedene dayanıp dayanmadığının, başka bir anlatımla kullanımın haksız olup olmadığı araştırılmalıdır. Taraflar arasında düzenlenen 9.2.1981 tarihli kira sözleşmesi, 27.12.1990 günlü yap-işlet-devret sözleşmesi ile sona erdirilmiştir. Yap-işlet-devret sözleşmesi taşınmaz pay devrini içermediğinden tek taraflı irade beyanıyla ve bu irade beyanının karşı tarafa ulaşmasıyla sona erdirilebilir. Davacı karşı yana göndermiş olduğu 3.3.1992 tarihli ihtarname ile sözleşmeyi feshettiğini ve taşınmazı tahliye etmesi için 2 aylık süre verdiğini açıkladığına göre anılan sözleşmenin de feshedildiğinin kabulü gerekir.
 
 ## Yargıtay HGK 2005/135 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/76641900)
+
 Anılan maddede, “Devletin özel mülkiyetinde veya hüküm ve tasarrufu altında bulunan malların gerçek ve tüzel kişilerce işgali üzerine fuzuli şağilden bu Kanunun 9.maddesinde ki yerlerden (Ticaret Odası, Sanayi Odası, borsa veya bilirkişilerden) sorulmak suretiyle 13.maddede gösterilen komisyonca (ilgili idare memurunun başkanlığında en az bir uzman veya maliye memuru) takdir ve tespit edilerek ecrimisil isteneceği, ecrimisil talep edilebilmesi için Hazinenin işgalden dolayı bir zarara uğramış olmasının gerekmediği ve fuzuli şagilin kusurunun aranmayacağı, ecrimisilin fuzuli şagil tarafından rızaen ödenmemesi halinde 6183 sayılı Amme Alacaklarının Tahsil Usulü Hakkında Kanun hükümlerine göre tahsil olunacağı, işgal edilen taşınmazın, idarenin talebi üzerine bulunduğu yer mülkiye amirince en geç 15 gün içinde tahliye ettirilerek idareye teslim edileceği” hükmü öngörülmüştür.
 
 ## Yargıtay HGK 2001/371 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/16638300)
 
 Hemen belirtmek gerekir ki, Medeni Yasanın 641. maddesi kapsamına giren yerlerin haksız işgaline ve ona bağlı olarak istenen tazminata ilişkin davalara adli yargıda bakılacağı kuşkusuzdur. Öte yandan bir örneği dosyada mevcut ve Ankara Valiliğinden verilmiş; kum ocağının küşadına mahsus ruhsatnameden, davalı şirketin 27.11.1987 tarihinde burası için kum ocağı ruhsatı aldığı ve bu yerin 13.1.1993 tarihinden itibaren beş yıl süre ile davalı şirketçe kiralandığı tartışmasızdır. Ayrıca şirket ortaklarından olan davalı kişinin T.C.Enerji ve Tabi Kaynaklar Bakanlığından çekişmeli yer için 17.1.1997 tarihinde "maden arama ruhsatnamesi " aldığı ve bu yeri 27.7.1998 tarihinde, 17.7.1999 tarihine kadar Ankara Defterdarlığından kiraladığı da yanların kabülündedir. Uyuşmazlık, ilk sözleşmenin sona erdiği 13.1.1998 tarihinden sonra davalıların tasarruflarının haksız sayılıp sayılmayacağı, daha açık anlatımla çekişme 17.1.1997 tarihinde alınan maden arama ruhsatına ve maden arama ruhsatı alınan yer için 27.7.1998 tarihli kira sözleşmesine göre davalıların eylemlerinin haklı olup olmadığı noktasında toplanmaktadır.
 
@@ -161,11 +201,15 @@ Asliye Hukuk Mahkemesince açılan dava tarihi olan 16.03.2010 tarihinden ecrimi
 
 ## Yargıtay 5. HD 2025/18015 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1206182000)
+
 Dairemizce yapılan inceleme sonucunda; dava konusu taşınmazlara 1974 tarihinde el atıldığından, el atma tarihindeki nitelikleri esas alınarak dava tarihindeki değerinin tespit edilmesi gerekirken, el atma tarihinde dava konusu taşınmazın niteliği net olarak belirlenmeden arazi olarak değer biçilmesi nedeniyle rapor hüküm kurmaya elverişli olmadığından öncelikle 1974 yılı itibarıyla dava konusu taşınmazın arsa mı, arazi mi olduğunun belirlenmesi gerektiğini, taşınmazın 1974 yılında belediye imar planı içinde olup olmadığı, değilse belediye veya mücavir alan sınırları dahilinde bulunup bulunmadığı, belediye hizmetlerinden yararlanıp yararlanmadığı ve etrafının meskun mahal olup olmadığı hususları Belediye Başkanlığından sorulup, alınacak yazı cevabına göre, taşınmazın vasfı belirlendikten sonra taşınmazın niteliğine göre oluşturulacak bilirkişi kurulu eşliğinde mahallinde keşif yapılarak arsa ise yakın tarihte satışı yapılan emsallerle dava konusu taşınmazın üstün ve eksik yönleri belirtilmek suretiyle mukayese yapılıp, tarım arazisi ise o yörede mutat olarak ekilen münavebe ürünleri belirlendikten sonra taşınmazın olduğu gibi kullanılması halinde getireceği net gelirine göre bedel
 belirlenerek hüküm kurulması gerekirken, eksik inceleme ile açıklanan hususlarda değerlendirme yapılmadan soyut ifadelerle taşınmaza arazi olarak değer biçen rapor doğrultusunda hüküm kurulması, kabule göre de dava konusu taşınmazın nasıl sulandığı ve sulama kaynağı belirtilmeden, çevresinde sulu tarım yapıldığı gerekçesi ile sulu arazi sayılarak değer tespit edildiği gözetildiğinde yeniden keşif yapılarak, öncelikle 1974 yılında dava konusu taşınmazın sulanıp sulanmadığı, sulanıyorsa fiilen nereden ve ne şekilde sulandığı, yapılan sulamanın taşınmazın tamamını sulamaya yeterli olup olmadığı tespit edilip, gerekirse keşifte taşınmazın sulu olup olmadığı ve seracılık yapılıp yapılmadığı hususlarında tanık ve mahalli bilirkişiler de dinlenilerek yeniden alınacak rapor uyarınca karar verilmesi gerektiği düşünülmeden, eksik inceleme ve soyut ifadelerle sulu arazi olarak ve cam serada domates, cam serada gül, plastik serada karanfil yetiştirildiğinin kabulü, ecrimisile yönelik talep bakımından ise taşınmaz arsa niteliğinde ise taşınmazın bulunduğu mevkideki diğer arsaların dava tarihinden geriye doğru ecrimisil istenen süre içinde kiraya verilip verilmedikleri, veriliyor ise nasıl ve ne
 şekilde kiralandıklarının taraflardan delilleri sorulmak suretiyle tespit edilmesi, varsa emsal kira sözleşmesi temin ettirilerek; arazi ise dava tarihinden geriye doğru taşınmazlara yıllık ekilebilecek ürünler belirlendikten sonra her yılın dekar başına verim miktarları, üretim masrafları ile hasat dönemindeki ortalama toptan kilogram satış fiyatları İlçe Tarım ve Orman Müdürlüğünden getirtilerek, bu veriler üzerinden her yıl için hesaplanacak yıllık net gelirleri esas alınarak ecrimisil bedelinin hesaplanması gerekirken, bu yönteme uygun olmayan ve tüm yıllar için 2011 yılı verileri esas alınıp ecrimisil bedeli tespit eden rapora göre hüküm kurulması ve ecrimisil bedeli yönünden davacı lehine ayrı nispi vekâlet ücretine hükmedilmesi gerektiğinin düşünülmemesi doğru görülmediğinden kararın bozulmasına karar verilmiştir.
 
 ## Yargıtay 5. HD 2025/10192 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1167039500)
 
 Dairemizce yapılan inceleme sonucunda; dava konusu taşınmaz arsa olup, ecrimisil bedeli de bu niteliğine göre belirlenmelidir. Bu itibarla taşınmazın ne şekilde kullanıldığı ve kiraya verilip verilmeyeceği kiraya verilecekse ne olarak kiralanacağı ve kira gelirine ilişkin var ise çevresindeki taşınmazlara ait emsal kira sözleşmeleri de getirtilerek elde edilecek kiranın somut bulgularla tespit edilmesi gerektiğinden, davacı tarafa, var ise çevredeki boş arsalara ilişkin emsal kira sözleşmelerini ibraz etmesi için süre verilerek, sonucuna göre karar verilmesi gerekirken gerekli inceleme ve araştırmalar yapılıp deliller toplanmadan denetime
 

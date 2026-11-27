@@ -49,6 +49,8 @@ Taleple bağlılık ilkesinin taşıdığı ilk anlam, tarafın talep etmediği 
 
 ## Yargıtay HGK 2006/499 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/76960600)
+
 Bu durumda 23.11.1999 tarihli hesap özetinde bildirilen hisse senetlerinin, davacının talimatı ile alındığı ancak bedellerinin ödenmediği anlaşıldığından, davacıya ait olduğu kabul edilemez. Öte yandan davacı dava dilekçesinde hisse senetlerinin kendisine ait olduğunun tesbitini talep ettiği halde talep aşılarak "temettülerinde iadesine" şeklinde HUMK.nun 74.maddesine aykırı hüküm kurulması da kabul şekli ile isabetsizdir. Ancak birleşen dava yönünden, birleşen davacı ... Menkul A.Ş. 19.1.2000 tarihli hesap özetine göre davacı birleşen davalıdan 36.792.131.304. TL. dışında alacağı olmadığını kabul ettiğinden birleşen davanın reddinde bir isabetsizlik bulunmamaktadır.
 
 ## Yargıtay 5. HD 2026/9560 K.
@@ -69,17 +71,25 @@ Bilindiği üzere 6100 sayılı Hukuk Muhakemeleri Kanununun 26. maddesi gereği
 
 ## Yargıtay 6. HD 2025/2981 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1177943500)
+
 Temerrüt faiz oranı yönünden, 3095 sayılı Kanun'un 1. maddesinde yasal faiz, 2. maddesinde ise temerrüt faizi düzenlenmiş, 2/2. maddesinde ticari işlerde temerrüt faizinin maddedeki tarih ve oranlara göre belirlenecek avans faizi oranında istenebileceği belirtilmiştir. Avans faizi olarak veya bu anlama gelecek şekilde oran belirtilerek açık talep var ise buna göre talep farklı bir orana ilişkin ise taleple bağlılık ilkesinin düzenlendiği 6100 sayılı HMK’nın 26/1. maddesine göre talepten fazlaya hükmedilemeyeceğinden taleple bağlı kalınarak uygulanacak faiz türü belirlenmelidir. Bu belirlemede, taleple bağlılık ve hakimin hukuku resen uygulaması ilkelerinin sentezi olarak değerlendirebileceğimiz "kural aşılmaksızın taleple bağlılık ilkesi" de gözardı edilmemelidir. Çünkü talepteki miktarla bağlılık yanında, kuraldaki miktar da aşılmamalıdır. Bu nedenle avans faizi isteme hakkı bulunan tarafın reeskont faizi istemesi halinde, reeskont oranını geçmemek üzere avans faizine hükmedilmesi gerekir.
 
 ## Yargıtay 18. HD 2014/16709 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/107111100)
 
 6100 sayılı HMK.nun 26. maddesindeki düzenlemeye göre hâkim, tarafların istemleri ile bağlı olup ondan fazlasına veya başka bir şeye karar veremez. Ancak, duruma göre, talep sonucundan daha azına karar verebilir.(1086 sayılı HUMK.nun 74.maddesinde, hakim her iki tarafın iddia ve savunmaları ile bağlı olup ondan fazlasına veya başka bir şeye hüküm veremez.) Buna göre davacı dava dilekçesinde davalıya ait köpeğin site ortak kullanım alanından uzaklaştırılmasını ve ortak kullanım alanlarına müdahalenin önlenmesini istediği halde, talep aşılarak davalının bağımsız bölüm ve eklentilerinde de köpek beslemekten men'ine ve köpeğin anataşınmazdan uzaklaştırılmasına karar verilmesi doğru görülmemiştir.
 
 ## Yargıtay 17. HD 2014/15262 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/106515700)
+
 Yargılamaya hakim olan ilkelerden olan “taleple bağlılık ilkesi” 1086 sayılı HUMK'nın 74. maddesinde (6100 sayılı HMK m. 26) düzenlenmiş olup, hakim tarafların talep sonuçlarıyla bağlıdır ve ondan fazlasına veya başka bir şeye karar veremez. Bunun dışında Karayolları Trafik Kanunu’nun 92. maddesinin (f) bendi ile Zorunlu Trafik Genel Şartları’nın 3. maddesinin (e) bendi uyarınca manevi zararlar trafik sigortası teminatının dışındadır.
 
 ## Yargıtay 20. HD 2014/9800 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/813116900)
 
 2)...Çekişmeli parsellerin kesinleşmiş orman kadastrosu sınırları dışında bırakıldığı bir bütün olarak düşünüldüğünde, etrafının sınırlaması itirazsız kesinleşmiş devlet ormanı ile çevrili öncesi ve eylemli durumu itibariyle üzerinde orman bitki örtüsü bulunmayan, düşük eğimli taşlık ve çalılık niteliğindeki orman içi açıklığı olduğu belirlendiğine göre, her ne kadar kesinleşmiş orman kadastrosu sınırları dışında kalmakla orman içi açıklıklar devlet ormanı sayılamazsa da, bu nitelikleri nedeniyle 6831 sayılı Kanunun 17/II maddesi gereğince özel mülkiyete konu edilemeyeceği, özel mülkiyete konu teşkil edecek biçimde tapuya kayıt edilemeyeceği, 1086 sayılı Hukuk Usulü Muhakemeleri Kanununun 74. maddesi ile ve 6100 sayılı Hukuk Muhakemeleri Kanununun 26. maddesi gereğince, hâkim, dava ile bağlı olup, ondan başkasına ve başka bir şeye karar veremeyeceğine, davacı Hazine katılma dilekçesinde ve sonraki iddialarında, parsellerin taşlık ve çalılık niteliğinde, devletin hüküm ve tasarrufu altındaki yerlerden olduğunu iddia ederek bu nitelikleriyle Hazine adına tescilini istediği, orman olarak tescili yönünde bir istemi bulunmadığı, mevcut niteliğiyle Hazine adına tescili istemiyle dava
 açıldığı gözetilerek, Hazinenin davasının kabulüyle çekişmeli parsellerin hali hazırdaki keşifte belirlenen niteliğiyle Hazine adına tapuya tesciline karar verilmesi gerekirken, Hazinenin istemi olmadığı halde, parsellerin orman olarak tesciline karar verilmesi usûl ve kanuna aykırı olduğu...” gereğine değinilmiştir.
@@ -89,5 +99,7 @@ açıldığı gözetilerek, Hazinenin davasının kabulüyle çekişmeli parsell
 Oysa ki, 6100 sayılı HMK'nun 194. maddesi uyarınca tarafların dayandıkları vakıaları, ispata elverişli şekilde somutlaştırılması, dayandıkları delilleri ve hangi delili hangi vakıanın ispatı için gösterildiği açıkça belirtmeleri zorunludur. Dayanılan vakıaları bildirmek açıklamak taraflara hukuki tasvif hakime aittir. Hakim davacının dava konusu yapmadığı bir vakıayı dava konusu yapamaz. HMK 26. maddesi gözetildiğinde fazlasını hükmedemez.( bu kural taleple bağlılık kuralının da temelini oluşturur.)…
 
 ## İzmir BAM 20. HD 2023/1539 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/957769000)
 
 Medeni hukuk yargılamasına hâkim olan ilkelerden biri taleple bağlılık ilkesidir. Bu ilke HMK’nın 26’ncı maddesinde açıkça ifade edilmiştir. Buna göre, hâkim tarafların talepleri ile bağlıdır. Kanunlarda gösterilen sınırlı sayıdaki istisnalar bir kenara bırakılacak olursa talepten fazlasına veya talepten başka bir şeye karar veremez. Fakat hâkimin duruma göre talep sonucundan daha azına karar vermesinin önünde engel yoktur. Bazı durumlarda hâkim tarafların talebiyle bağlı değildir. Bu durumlar kanunda açıkça belirtilmiştir. Taleple bağlılık ilkesi özü itibariyle hâkimin, tarafların talebiyle bağlı olduğunu ifade eder. Taleple bağlılık ilkesinin taşıdığı ilk anlam; tarafın talep etmediği husus hakkında mahkemenin karar veremeyeceğidir. Buna göre tarafın neyi talep edip etmediği ve hâkimin ne hakkında karar verip veremeyeceği dava dilekçesine bakılarak tespit edilir. Bu tespitin konusunu, istenilen hukuki sonuç oluşturur. Bu itibarla hâkimin karar verme sınırı dava dilekçesi ile belirlenmiş olur.

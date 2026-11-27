@@ -20,17 +20,25 @@ uyari: "Derleyenin seçtiği alıntılardır; kararın tamamı değildir. Künye
 
 ## Yargıtay HGK 2025/85 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1145624300)
+
 Bilindiği üzere, 6098 sayılı Türk Borçlar Kanunu’nun ön sözleşme başlığı altında düzenlenen 29. maddesi “Bir sözleşmenin ileride kurulmasına ilişkin sözleşmeler geçerlidir. Kanunlarda öngörülen istisnalar dışında, ön sözleşmenin geçerliliği, ileride kurulacak sözleşmenin şekline bağlıdır” hükmünü içermektedir. Taşınmaz satış vaadi sözleşmeleri kaynağını bu maddeden almakla birlikte sözleşmeyle ilgili hükümler 6098 sayılı Kanun'un 237. maddesi, 4721 sayılı Kanun'un 706. maddesi ve Noterlik Kanunu'nun 60 ve 89. maddeleri ile Tapu Kanunu'nun 26 maddesinde yer almaktadır. Ancak bu düzenlemeler, taşınmaz satış vaadinin resmi şekilde düzenlenmedikçe geçerli olamayacağına, noterlerin diğer işler yanında taşınmaz satış vaatlerine ilişkin senetlerin düzenleme işlerini de yapacaklarına, noter tarafından düzenlenmiş bu sözleşmelerin tapu siciline şerh verilebileceğine ilişkin bulunup, şekil ve şerh ile sınırlıdır. Kanunlarda, taşınmaz satış vaadi sözleşmeleriyle ilgili ayrıntılı hüküm ve bir tanıma yer verilmemiştir.
 
 ## Yargıtay HGK 2023/868 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/958993500)
 
 Az yukarıda anılan protokol, ön sözleşme, dağıtım ve hizmet sözleşmesinde yer alan hükümler birlikte değerlendirildiğinde, tarafları dağıtıcı, yatırımcı ve patent sahiplerinden oluşan sözleşme ilişkisinde adi ortaklık kurma amacının bulunmadığı, tarafların üretim, pazarlama, dağıtım işlerine dair ayrı ayrı sözleşmeler imzalamak yerine tek bir sözleşme ilişkisi kurmayı seçtikleri, sözleşmenin içeriğinde özellikle adi ortaklığın niteliği gereği, elde edilecek kazancın paylaşımına dair herhangi bir düzenlemeye verilmediği, gerek ön sözleşmenin 10.4 üncü maddesinde gerekse dağıtım ve hizmet sözleşmesinin 13.3 üncü maddesinde, sözleşmenin hiçbir hükmünün, bir teşekkül veya ortaklık kurulması amacını taşımadığının da açıkça belirtildiği anlaşılmaktadır.
 
 ## Yargıtay HGK 2018/499 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/403883100)
+
 Kaynağını 6098 sayılı Türk Borçlar Kanunu'nun (TBK) 29. (818 sayılı Borçlar Kanunu'nun (BK) 22.) maddesinden alan taşınmaz satış vaadi sözleşmeleri ise TBK'nın 237 (BK'nın 213). maddesi ile Türk Medeni Kanunu'nun 706 ve Noterlik Kanunu'nun 89. maddesi hükümleri uyarınca noter önünde resen düzenlenmesi gereken, bir başka anlatımla geçerliliği resmî şekil şartına bağlı kılınan, tam iki tarafa borç yükleyen ve kişisel hak sağlayan bir sözleşme türüdür. Vaat alacaklısı, taşınmaz satış vaadi sözleşmesi ile mülkiyeti devir borcu yüklenen satıcıdan edim yerine getirilmediğinde Türk Medeni Kanunu'nun 716. maddesi uyarınca açacağı tapu iptali ve tescil davasında borcun hükmen yerine getirilmesini isteyebilir. Ancak, satış vaadi sözleşmesinden kaynaklanan tapu iptali ve tescil isteminin kabulü için sözleşmenin ifa olanağının bulunması gerekir. Geçerli bir satış vaadi sözleşmenin ifa olanağının bulunmaması hâlinde ise vaat alacaklısının 6098 sayılı TBK'nın 112 (BK'nın 96). maddesine dayanarak borcun ifa edilmemesi nedeniyle uğradığı zararın tazmini isteyebileceği kuşkusuzdur.
 
 ## Yargıtay HGK 2008/550 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/16675800)
 
 Ön sözleşmede davacı kiralayanın kiralamayı düşündüğü taşınmaz için asıl kira sözleşmesinin imzalanmasına kadar yüklendiği edim, mecurun imara uygunluğu ve depreme dayanıklılığı ile ilgili olup, bu şartlara aykırılık halinde davalı kiracının fesih hakkı düzenlenmiştir. Sözleşmenin 2. maddesinde öngörülen taahhüt ise asıl sözleşmenin imzalanmasından sonra ileri sürülebilecek bir ayıp olup, ön sözleşmenin feshi için yeterli bir neden olarak düşünülemez. Zira, BK'nun 248 ve devam eden maddelerinde düzenlenen adi ve hasılat kirasına ilişkin hükümlerde kiralayanın mutlaka kiralananın maliki olması şartı bulunmamaktadır. Davalı kıracının ön sözleşmenin feshi nedeni olarak gösterdiği hususlar, asıl kira sözleşmesi imzalandıktan sonra mecurun kullanım amacına uygun olarak tahsis edilmediğinin gerekçesi, asıl sözleşmenin feshi nedeni olarak gösterilebilir.
 
@@ -44,78 +52,116 @@ Kaynağını 6098 sayılı Türk Borçlar Kanunu'nun (TBK) 29. maddesinden alan 
 
 ## Yargıtay 3. HD 2025/2097 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1162468400)
+
 Kaynağını 6098 sayılı Türk Borçlar Kanunu'nun (TBK) 29. maddesinden alan bir "ön sözleşme" niteliğindeki taşınmaz satış vaadi sözleşmeleri TBK'nın 237. maddesi ile Türk Medeni Kanunu'nun 706 ve Noterlik Kanunu'nun 89. maddesi hükümleri uyarınca noter önünde resmi olarak düzenlenmesi gereken, bir başka anlatımla geçerliliği resmi şekil şartına bağlı kılınan, tam iki tarafa borç yükleyen ve kişisel hak sağlayan bir sözleşme türüdür. Geçerli bir satış vaadi sözleşmesinin ifa olanağının bulunmaması hâlinde ise vaat alacaklısının 6098 sayılı TBK'nın 112. maddesine dayanarak borcun ifa edilmemesi nedeniyle uğradığı zararın tazminini isteyebileceği kuşkusuzdur.
 
 ## Yargıtay 6. HD 2025/1421 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1152146000)
 
 … a) 6098 sayılı Türk Borçlar Kanunu’nun ön sözleşme başlığı altında düzenenen 29. maddesi “Bir sözleşmenin ileride kurulmasına ilişkin sözleşmeler geçerlidir. Kanunlarda öngörülen istisnalar dışında, önsözleşmenin geçerliliği, ileride kurulacak sözleşmenin şekline bağlıdır.” hükmünü içermektedir. Eser sözleşmelerinin bir türü olan "Arsa payı karşılığı inşaat sözleşmeleri" bedel olarak taşınmaz mal mülkiyetinin geçirimi borcunu içerdiğinden, TMK'nın 706, Borçlar Kanunu'nun 213, Noterlik Kanunu'nun 60 ve Tapu Kanunu'nun 26. maddeleri uyarınca noter önünde re’sen düzenlenmesi gereken, bir başka anlatımla geçerliliği resmi şekil şartına bağlı kılınan ve tam iki tarafa borç yükleyen kişisel hak doğuran sözleşmelerdendir. Tapulu taşınmazın satışına devrine ilişkin sözleşmeler resmi şekil şartına tabi olmakla geçerlilik şekline uyulmaksızın yapılan sözleşmeler hukuken geçersiz olacak ve geçerli sözleşmelerde olduğu gibi, tarafları bakımından hak ve borç doğurmayacak, taraflar ancak geçersiz sözleşmeye dayalı olarak birbirlerine verdiklerini sebepsiz zenginleşme hükümleri uyarınca geri isteyebileceklerdir.
 Somut olayda, taraflar arasında düzenlenen, ileride arsa payı karşılığı inşaat sözleşmesi yapılmasına dair ön sözleşmeler noterde düzenleme şeklinde yapılmadığından geçersizdir. Bu hususta İlk Derece Mahkemesinin ve İstinaf Dairesinin gerekçesi yerinde olup, asıl davada davacı yüklenici bu nedenle ödediği kaporunun iadesini isteyebilir.
 
 ## Yargıtay 3. HD 2025/1192 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1133347700)
+
 Kaynağını 6098 sayılı Türk Borçlar Kanunu'nun (TBK) 29. maddesinden alan bir "ön sözleşme" niteliğindeki taşınmaz satış vaadi sözleşmeleri TBK'nın 237. maddesi ile Türk Medeni Kanunu'nun 706 ve Noterlik Kanunu'nun 89. maddesi hükümleri uyarınca noter önünde resmi olarak düzenlenmesi gereken, bir başka anlatımla geçerliliği resmi şekil şartına bağlı kılınan, tam iki tarafa borç yükleyen ve kişisel hak sağlayan bir sözleşme türüdür. Geçerli bir satış vaadi sözleşmesinin ifa olanağının bulunmaması hâlinde ise vaat alacaklısının 6098 sayılı TBK'nın 112. maddesine dayanarak borcun ifa edilmemesi nedeniyle uğradığı zararın tazminini isteyebileceği kuşkusuzdur.
 
 ## Yargıtay 3. HD 2025/513 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1127267700)
 
 Kaynağını 6098 sayılı Türk Borçlar Kanunu'nun (TBK) 29. maddesinden alan bir "ön sözleşme" niteliğindeki taşınmaz satış vaadi sözleşmeleri TBK'nın 237. maddesi ile Türk Medeni Kanunu'nun 706 ve Noterlik Kanunu'nun 89. maddesi hükümleri uyarınca noter önünde resmi olarak düzenlenmesi gereken, bir başka anlatımla geçerliliği resmi şekil şartına bağlı kılınan, tam iki tarafa borç yükleyen ve kişisel hak sağlayan bir sözleşme türüdür. Geçerli bir satış vaadi sözleşmesinin ifa olanağının bulunmaması hâlinde ise vaat alacaklısının 6098 sayılı TBK'nın 112. maddesine dayanarak borcun ifa edilmemesi nedeniyle uğradığı zararın tazminini isteyebileceği kuşkusuzdur.
 
 ## Yargıtay 3. HD 2025/512 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1127267100)
+
 Kaynağını 6098 sayılı Türk Borçlar Kanunu'nun (TBK) 29. maddesinden alan bir "ön sözleşme" niteliğindeki taşınmaz satış vaadi sözleşmeleri TBK'nın 237. maddesi ile Türk Medeni Kanunu'nun 706 ve Noterlik Kanunu'nun 89. maddesi hükümleri uyarınca noter önünde resmen düzenlenmesi gereken, bir başka anlatımla geçerliliği resmi şekil şartına bağlı kılınan, tam iki tarafa borç yükleyen ve kişisel hak sağlayan bir sözleşme türüdür. Geçerli bir satış vaadi sözleşmesinin ifa olanağının bulunmaması hâlinde ise vaat alacaklısının 6098 sayılı TBK'nın 112. maddesine dayanarak borcun ifa edilmemesi nedeniyle uğradığı zararın tazminini isteyebileceği kuşkusuzdur.
 
 ## Yargıtay 3. HD 2025/511 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1127266600)
 
 Kaynağını 6098 sayılı Türk Borçlar Kanunu'nun (TBK) 29. maddesinden alan bir "ön sözleşme" niteliğindeki taşınmaz satış vaadi sözleşmeleri TBK'nın 237. maddesi ile Türk Medeni Kanunu'nun 706 ve Noterlik Kanunu'nun 89. maddesi hükümleri uyarınca noter önünde resmi olarak düzenlenmesi gereken, bir başka anlatımla geçerliliği resmi şekil şartına bağlı kılınan, tam iki tarafa borç yükleyen ve kişisel hak sağlayan bir sözleşme türüdür. Geçerli bir satış vaadi sözleşmesinin ifa olanağının bulunmaması hâlinde ise vaat alacaklısının 6098 sayılı TBK'nın 112. maddesine dayanarak borcun ifa edilmemesi nedeniyle uğradığı zararın tazminini isteyebileceği kuşkusuzdur.
 
 ## Yargıtay 3. HD 2025/510 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1127266000)
+
 Kaynağını 6098 sayılı Türk Borçlar Kanunu'nun (TBK) 29. maddesinden alan bir "ön sözleşme" niteliğindeki taşınmaz satış vaadi sözleşmeleri TBK'nın 237. maddesi ile Türk Medeni Kanunu'nun 706 ve Noterlik Kanunu'nun 89. maddesi hükümleri uyarınca noter önünde resmi olarak düzenlenmesi gereken, bir başka anlatımla geçerliliği resmi şekil şartına bağlı kılınan, tam iki tarafa borç yükleyen ve kişisel hak sağlayan bir sözleşme türüdür. Geçerli bir satış vaadi sözleşmesinin ifa olanağının bulunmaması hâlinde ise vaat alacaklısının 6098 sayılı TBK'nın 112. maddesine dayanarak borcun ifa edilmemesi nedeniyle uğradığı zararın tazminini isteyebileceği kuşkusuzdur.
 
 ## Yargıtay 3. HD 2025/509 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1127265400)
 
 Kaynağını 6098 sayılı Türk Borçlar Kanunu'nun (TBK) 29. maddesinden alan bir "ön sözleşme" niteliğindeki taşınmaz satış vaadi sözleşmeleri TBK'nın 237. maddesi ile Türk Medeni Kanunu'nun 706 ve Noterlik Kanunu'nun 89. maddesi hükümleri uyarınca noter önünde resmi olarak düzenlenmesi gereken, bir başka anlatımla geçerliliği resmi şekil şartına bağlı kılınan, tam iki tarafa borç yükleyen ve kişisel hak sağlayan bir sözleşme türüdür. Geçerli bir satış vaadi sözleşmesinin ifa olanağının bulunmaması hâlinde ise vaat alacaklısının 6098 sayılı TBK'nın 112. maddesine dayanarak borcun ifa edilmemesi nedeniyle uğradığı zararın tazminini isteyebileceği kuşkusuzdur.
 
 ## Yargıtay 3. HD 2024/3876 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1107818900)
+
 Kaynağını 6098 sayılı Türk Borçlar Kanunu'nun (TBK) 29 uncu (818 sayılı Borçlar Kanunu'nun (BK) 22) maddesinden alan bir "ön sözleşme" niteliğindeki taşınmaz satış vaadi sözleşmeleri TBK'nın 237 nci (BK'nın 213) maddesi ile Türk Medeni Kanunu'nun 706 ve Noterlik Kanunu'nun 89 uncu maddesi hükümleri uyarınca noter önünde resmen düzenlenmesi gereken, bir başka anlatımla geçerliliği resmi şekil şartına bağlı kılınan, tam iki tarafa borç yükleyen ve kişisel hak sağlayan bir sözleşme türüdür. Geçerli bir satış vaadi sözleşmesinin ifa olanağının bulunmaması hâlinde ise vaat alacaklısının 6098 sayılı TBK'nın 112 nci (BK'nın 96) maddesine dayanarak borcun ifa edilmemesi nedeniyle uğradığı zararın tazminini isteyebileceği kuşkusuzdur.
 
 ## Yargıtay 3. HD 2023/2290 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/963897100)
 
 Kaynağını 6098 sayılı Türk Borçlar Kanunu'nun (TBK) 29 uncu (818 sayılı Borçlar Kanunu'nun (BK) 22) maddesinden ... bir "ön sözleşme" niteliğindeki taşınmaz satış vaadi sözleşmeleri TBK'nın 237 nci (BK'nın 213) maddesi ile Türk Medeni Kanunu'nun 706 ve Noterlik Kanunu'nun 89 uncu maddesi hükümleri uyarınca noter önünde resmen düzenlenmesi gereken, bir başka anlatımla geçerliliği resmi şekil şartına bağlı kılınan, tam iki tarafa borç yükleyen ve kişisel hak sağlayan bir sözleşme türüdür. Geçerli bir satış vaadi sözleşmesinin ifa olanağının bulunmaması hâlinde ise vaat alacaklısının 6098 sayılı TBK'nın 112 nci (BK'nın 96) maddesine dayanarak borcun ifa edilmemesi nedeniyle uğradığı zararın tazminini isteyebileceği kuşkusuzdur.
 
 ## Yargıtay 3. HD 2023/2289 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/963895400)
+
 Kaynağını 6098 sayılı Türk Borçlar Kanunu'nun (TBK) 29 uncu (818 sayılı Borçlar Kanunu'nun (BK) 22) maddesinden ... bir "ön sözleşme" niteliğindeki taşınmaz satış vaadi sözleşmeleri TBK'nın 237 nci (BK'nın 213) maddesi ile Türk Medeni Kanunu'nun 706 ve Noterlik Kanunu'nun 89 uncu maddesi hükümleri uyarınca noter önünde resmen düzenlenmesi gereken, bir başka anlatımla geçerliliği resmi şekil şartına bağlı kılınan, tam iki tarafa borç yükleyen ve kişisel hak sağlayan bir sözleşme türüdür. Geçerli bir satış vaadi sözleşmesinin ifa olanağının bulunmaması hâlinde ise vaat alacaklısının 6098 sayılı TBK'nın 112 nci (BK'nın 96) maddesine dayanarak borcun ifa edilmemesi nedeniyle uğradığı zararın tazminini isteyebileceği kuşkusuzdur.
 
 ## Yargıtay 3. HD 2022/2407 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/749104000)
 
 Taraflar arasında 13/07/2013 günlü ön sözleşme, ileride yapılacak arsa payı karşılığı inşaat sözleşmesine ilişkin olup, mahkeme kararında belirtildiği üzere arsa payı karşılığı inşaat sözleşmeleri TMK'nın 706, TBK'nın 237, Tapu Kanunu'nun 26 ve Noterlik Kanunu'nun 60. maddesi uyarınca resmi şekilde düzenlenmeleri zorunludur. TBK'nın 29. (BK m. 22) maddesi uyarınca belirtildiği üzere bir sözleşmenin ileride kurulmasına ilişkin yapılacak ön sözleşmeler ileride kurulacak sözleşmenin şekline bağlıdır. Arsa payı karşılığı inşaat sözleşmeleri de resmi şekil şartına tabi olmakla geçerlilik şekline uyulmaksızın yapılan sözleşmeler hukuken geçersiz olacak ve geçerli sözleşmelerde olduğu gibi, tarafları bakımından hak ve borç doğurmayacak, taraflar ancak geçersiz sözleşmeye dayalı olarak birbirlerine verdiklerini sebepsiz zenginleşme hükümleri uyarınca geri isteyebileceklerdir (15. HD. 2018/1876 E. 2018/4927 K. sayılı kararı).
 
 ## Yargıtay 3. HD 2019/1215 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/500466800)
+
 TBK. m. 29/1'e göre, bir sözleşmenin ileride yapılmasına dair sözleşme geçerlidir. Türk Borçlar Kanunu, sözü geçen maddede "ön sözleşme" veya "sözleşme yapma vaadini" düzenlemektedir. Taraflardan her ikisinin birbirlerine ya da taraflardan yalnız birinin diğerine karşı ileride üçüncü bir şahısla bir borç sözleşmesi yapmayı taahhüt etmesine, "ön sözleşme" veya " sözleşme yapma vaadi " denir. Ön sözleşme, niteliği itibariyle bir borç sözleşmesidir. Ön sözleşmeyle ileride yapılması vadedilen borç sözleşmesine ise, "asıl sözleşme" denir. Kanunlarda öngörülen istisnalar dışında, ön sözleşmenin geçerliliği, ileride kurulacak sözleşmenin geçerliliğine bağlıdır.( TBK m. 29/2 )…
 
 ## Yargıtay 3. HD 2017/17801 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/392007000)
 
 TBK'nun önsözleşme başlıklı 29. maddesinde "Bir sözleşmenin ileride kurulmasına ilişkin sözleşmeler geçerlidir. Kanunlarda öngörülen istisnalar dışında, önsözleşmenin geçerliliği, ileride kurulacak sözleşmenin şekline bağlıdır." hükmüne göre, kira sözleşmesinin yazılı yapılması zorunlu olmadığından sözlü olarak yapılacak önsözleşmenin de geçerli olduğunun kabulü gerekir.
 
 ## Yargıtay 23. HD 2016/5491 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/331290100)
+
 Türk Borçlar Kanunu(TBK)'nun 29. maddesinde, bir sözleşmenin ileride kurulmasına ilişkin yapılacak ön sözleşmelerin geçerli olduğu, ancak kanunlarda öngörülen istisnalar dışında, ön sözleşmenin geçerliliğinin, ileride kurulacak sözleşmenin şekline bağlı olduğu belirtilmiştir. Taraflar arasında 29.05.2013 tarihli ve adi yazılı arsa payı karşılığı inşaat sözleşmesinin ön sözleşmesi yapılmış olup, arsa payı karşılığı inşaat sözleşmelerinin mülkiyeti nakil borcu doğurması sebebiyle 6098 sayılı TBK'nın 237, Tapu Kanunu’nun 26. ve Noterlik Kanunu’nun 60. maddeleri uyarınca, resmi biçimde yapılması geçerlilik şartıdır. Taraflar arasındaki ön sözleşmenin de TBK'nın 29/2. maddesi uyarınca resmi şekilde yapılması gerekli iken adi yazılı şekilde yapılan ön sözleşme geçersizdir.
 
 ## Yargıtay 15. HD 2015/1102 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/180409700)
 
 Yanlar arasında tarihsiz adi yazılı “ön sözleşme” yapılmıştır. Bu sözleşme, özel hukuk hükümlerine göre kurulmuştur (BK.md.119). Davalı, bu sözleşme ile yeraltı suyundan sulama suyu temini maksadıyla projeleri hazırlanarak sondaj kuyuları inşaası, motopomplarla techizi, motopomp barakaları, sulama ve elektrik tesislerinin inşaası işlerinin yapımını yüklenmiştir. Yanlar arasındaki sözleşme, Borçlar Kanunu'nun 355. maddesinde tanımlandığı üzere; niteliğince bir “eser” sözleşmesidir. Davacı iş sahibi; davalı ise yüklenicidir.
 
 ## Yargıtay 15. HD 2014/6760 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/105936200)
+
 Taraflar arasında 06.05.2002 tarihli adî yazılı "ön sözleşme" imzalanmıştır. Bu sözleşme, özel hukuk hükümlerine göre kurulmuştur (BK.md.1,19). Davacı, bu sözleşme ile yeraltı suyundan sulama suyu temini maksadıyla projeleri hazırlanarak sondaj kuyuları inşası, motopomplarla teçhizi, motopomp barakaları, sulama ve elektrik tesislerinin inşası işlerinin yapımını yüklenmiştir. Taraflar arasındaki sözleşme, mülga 818 sayılı Borçlar Kanunu'nun 355. maddesinde tanımlandığı üzere; niteliğince bir "eser" sözleşmesidir. Davacı yüklenici, davalı ise iş sahibidir.
 
 ## Yargıtay 15. HD 2014/4714 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/105896500)
+
 Yanlar arasında 03.05.2004 tarihli ve adi yazılı "ön sözleşme" yapılmıştır. Bu sözleşme, özel hukuk hükümlerine göre kurulmuştur (BK.md.1,19). Davacı, bu sözleşme ile yeraltı suyundan sulama suyu temini maksadıyla projeleri hazırlanarak sondaj kuyuları inşaası, motopomplarla teçhizi, motopomp barakaları, sulama ve elektrik tesislerinin inşaası işlerinin yapımını yüklenmiştir. Yanlar arasındaki sözleşme, Borçlar Kanunu'nun 355. maddesinde tanımlandığı üzere; niteliğince bir "eser" sözleşmesidir. Davacı yüklenici davalı ise iş sahibidir.
 
 ## Yargıtay 15. HD 2014/3822 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/105830200)
 
 Sözleşme konusu iş bedelinin tutarında yanlar arasında uyuşmazlık vardır. Sözleşmede iş bedelinin belirlenmesi yöntemini düzenleyen bir hüküm veya sözleşmenin yollama yaptığı bir düzenleme bulunmadığına göre, iş bedeli, somut olayda uygulanması gereken 818 sayılı Borçlar Kanunu'nun 366. maddesinde öngörülen yasal yöntem uygulanarak belirlenmelidir. Anılan yasa hükmüne göre, yanlarca önceden kararlaştırılmamış veya yaklaşık olarak kararlaştırılmış olan iş bedeli, işin yapıldığı zamandaki; somut olayda ise tamamlanmış olarak teslimi gereken zamandaki serbest piyasa fiyatlarına göre, bilirkişi ya da bilirkişi kurulu aracılığıyla yapılacak keşif ve inceleme sonucu mahkemece belirlenir.
 Bu yasal nedenle, öncelikle iş bedelinde yanlar arasında anlaşma sağlanamaması durumunda yukarıda açıklanan hususlar gözetilerek, taraflar arasındaki ayrı bir dava yoluyla sözleşme konusu işin, haklı gecikmeler hariç, tamamlanmış olarak davalıya teslimi gereken uygun teslim süresinin belirlenmesi; işin uygun teslim süresinden önce teslim edilmiş olması halinde ise teslim tarihi aksi halde teslimi gereken tarih itibariyle 818 sayılı Kanun'un 366. maddesindeki yasal yöntemle ve ön sözleşmedeki bedelden az olmamak üzere belirlenmesi gerekir. İş sahibinin karşı edimi kapsamında yükleniciye ödemesi gereken iş-eser bedeli, açıklanan şekilde kesin olarak saptandıktan sonra; yüklenici, 818 sayılı Yasa'nın 106. maddesindeki seçimlik haklardan birisini, oluşan koşullarına göre kullanabilir (Y.H.G.K. 28.04.2010 tarih, 2010/15-193 Esas ve 2010/235 K. sayılı ilâmı). O halde, iş sahibinin karşı edimlerinden olan iş bedelinin miktarı kesin olarak belli olmadan, bu ediminin ifasında onun, "borçlu temerrüdüne" düşmüş olduğundan söz edilemez.
@@ -123,14 +169,20 @@ Açıklanan bu hukuksal nedenlerle, ön sözleşmenin feshi davasının reddi ge
 
 ## Yargıtay 14. HD 2010/12740 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/772419700)
+
 Burada öncelikle satış vaadi sözleşmesinin niteliği üzerinde durulması gerekmektedir. Tarafların satış vaadi sözleşmesi yapmaktaki amaçları, ileride yapmayı düşündükleri sözleşmeyi (taşınmaz satış sözleşmesini) şimdiden teminat altına almayı istemeleridir. “Akit Yapma Vaadi” kavramını Borçlar Kanununun 22.maddesinin üst başlığında görmekte isek de, yasada önsözleşmenin bir tanımı yapılmamıştır. Anılan hüküm “bir aktin ileride inşa edilmesine dair yapılan mukavele muteberdir” şeklindedir. O halde, ön sözleşme yasal dayanağını Borçlar Kanununun 22.maddesinden alır.Ön sözleşme kavram olarak, tarafların ileride bir sözleşme (asıl sözleşme)yapacaklarına ilişkin olarak akdettikleri sözleşmeyi ifade eder. Bir başka anlatımla “akit yapma vaadi = ön sözleşme, akit yapma borcunu doğuran bir hukuki işlemden ibarettir.” Kuşkusuz, ön sözleşme ile ileride yapılması üstlenilmiş sözleşme bir tasarruf işlemi değil, ancak borçlandırıcı bir işlemdir. Bu tür sözleşmeler de iki tarafa hak ve borçlar yükleyen sözleşme türündendir. Bu özelliği gereği de yapılan bir sözleşmenin feshi Borçlar Kanununun 106-108.maddelerine tabidir.
 Borçlar Kanununun 106.maddesinin ilk fıkrası “karşılıklı taahhütleri havi olan bir akitte iki taraftan biri mütemerrit olduğu takdirde diğeri borcun ifa edilmesi için münasip bir mehil tayin veya münasip bir mehilin tayinini hakimden isteyebilir” şeklindedir. Kısaca 106.maddedeki seçimlik haklardan birisinin kullanılması, mesela “fesih” hakkının seçilmesi ancak ve ancak borçlunun temerrüde düşürülmesi halinde olanaklıdır. Bu gibi durumlarda dahi temerrüde rağmen, karşı taraf fesih ihbarına karşı koyarsa ön sözleşmenin feshi için de mutlaka mahkeme hükmü aramak gerekir. Bütün bu nedenlerle, biçimine uygun düzenlenmiş taşınmaz satış vaadi sözleşmesinin davalı tarafından tek taraflı olarak feshine olanak yoktur. Mahkemece, bu saptamalar bir yana bırakılarak 07.05.2001 günlü sözleşmeyi davalının tek taraflı olarak feshettiğinin kabulü doğru olmamıştır. Ancak;…
 
 ## Yargıtay 15. HD 2008/5825 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/859209700)
+
 Özetle açıklanan bu hukuksal çerçeve dahilinde; yanlar arasındaki sözleşmelerin hukuksal nitelikleri değerlendirildiğinde: Her iki sözleşmenin de, niteliğince ”arsa payı karşılığı inşaat sözleşmesi” olmadıkları; bu sözleşmelerin “arsa payı karşılığı inşaat sözleşmesi yapma vaadi” niteliğinde birer “ön sözleşme” oldukları ve zorunlu şekil koşuluna da uygun şekilde yaptıkları sonucuna varılmaktadır. Çünkü, 10.01.1995 günlü sözleşmenin 2. ve 3. maddeleri; 27.09.1995 tarihli sözleşmenin 2. ve 9. maddeleri hükümlerinde: İmar durumları belli olduktan sonra proje aşamasında taraflarca “inşaat sözleşmesinin” yapılacağı kararlaştırılmıştır. Bu sözleşme ise, yukarıda da açıklandığı üzere, arsa payı karşılığı inşaat sözleşmesinin içerdiği iki sözleşmeden birisidir. Yüklenici davalının karşı edimini oluşturan “inşaat yapma” borcunu içerir “inşaat sözleşmesi” yapılmamıştır. Nitekim, davalı tarafça da bu sözleşmelerin, Borçlar Kanunu’nun 22. maddesi gereğince birer “ön sözleşme” oldukları, yargılama aşamasında bildirilmiştir.
 
 ## İzmir BAM 11. HD 2023/395 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/872293400)
 
 Ön sözleşme 6098 Sayılı TBK.nun 29. maddesinde düzenlenmiştir. Hukukumuzda sözleşmeler serbestçe yapılabilecek olup, herhangi bir şekil şartına tabi değildir. Sözleşmenin yapıldığı anda fiili ve hukuki imkansızlık nedeni ile asıl sözleşmenin yapılması mümkün olmayabilir. Bu durumda TBK.nun 29/1. maddesindeki "bir akdin ilerde kurulmasına ilişkin sözleşmeler geçerlidir." şeklinde hüküm ile ön sözleşme yapılabileceği kabul edilmiştir. Böylece taraflar, şartlar oluşunca yapacakları asıl sözleşmeyi şimdiden teminat altına almış olurlar. Ön sözleşme kavram olarak tarafların ileride bir başka sözleşme (asıl sözleşme) yapacaklarına ilişkin akdettikleri bir sözleşmeyi ifade eder. Diğer bir deyişle akit yapma borcunu doğuran hukuki işlemden ibarettir. Konusu da her zaman borçlandırıcı bir işlemdir. Ön akit de ilerde yapılacak olan asıl akdin konusunun ve esaslı şartlarının yeterince bir açıklıkla saptanmış olması hiç olmaz ise saptanmasının mümkün olması, tarafların karşılıklı olarak açıkladıkları iradelerin birbirine uygun olması gerekir. Ön sözleşme asıl sözleşmeyi yapma vaadinden ibaret olup, başlı başına bir akittir. Ön sözleşme de bir akit olup, tarafları bağlar.
 Asıl sözleşmenin yapılmasını isteme açısından tarafları alacaklı-borçlu durumuna sokar. Hukukumuzda sözleşmeye bağlılık ilkesi (Ahde Vefa-Pacta Sunta Servanda) yanında sözleşme serbestisi ilkeleri kabul edilmiştir. Bu kurala göre sözleşme yapıldığı andaki gibi aynen uygulanmalı ve hükümlerine riayet edilmelidir. Sözleşmeye bağlılık ilkesi hukuki güvenlik, doğruluk ve dürüstlük kuralının bir gereği olarak, sözleşme hukukunun temel ilkelerinden biridir. Karşılıklı edimleri içeren sözleşmelerde, edimler arasında mevcut olan denge şartlarının sözleşmenin tümü, birlikte yorumlanarak değerlendirilmelidir. Borçlar Kanunundaki genel kural; tarafların bu sözleşme ile gerçek ve ortak amacın varlığını ortaya koyabilecek şekilde bir düzenleme ve yorum, tüm sözleşmede belirlenen amaç da gözönüne alınarak yapılmalıdır.

@@ -20,9 +20,13 @@ uyari: "Derleyenin seçtiği alıntılardır; kararın tamamı değildir. Künye
 
 ## Yargıtay 3. HD 2025/5818 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1189848400)
+
 Sonuçta Türk Parasının Kıymetini Koruma Hakkında 32 Sayılı Karara İlişkin Tebliğ gereğince istisna getirilen hallerden olmayan kiralama sözleşmelerinde **sözleşme bedeli ve bu sözleşmelerden kaynaklanan "diğer ödeme yükümlülüklerinin" döviz cinsinden kararlaştırılması yasaklandığından** bu yasağa uyulmayıp döviz cinsinden belirleme yapıldığında veya yasak dönemi ve öncesi döviz cinsinden olan tutarın Hazine ve Maliye Bakanlığının tebliğlerine göre "TL" cinsine çevrilip bu tutarın güncellenen tutar karşılığının ödenmesi gerekir.
 
 ## Yargıtay 3. HD 2025/100 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1127110500)
 
 TBK'nın 310. maddesi uyarınca davalının kira sözleşmesi ile bağlı olmasına, kira sözleşmesinin tarafı olan kiraya verenin mutlaka malik olmasının gerekmemesine, **alacağın denkleştirici adalet ilkesine göre belirlenmiş olmasının Dairemizin yerleşmiş uygulamasına uygun bulunmasına**…
 

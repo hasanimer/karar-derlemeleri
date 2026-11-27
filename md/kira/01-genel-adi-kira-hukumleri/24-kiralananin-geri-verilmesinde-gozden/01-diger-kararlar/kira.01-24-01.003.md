@@ -23,26 +23,38 @@ uyari: "Derleyenin seçtiği alıntılardır; kararın tamamı değildir. Künye
 
 ## Yargıtay 3. HD 2017/12113 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/370007900)
+
 Taraflar arasında 01.10.2010 başlangıç tarihli bir yıl süreli kira sözleşmesi imzalandığı hususunda uyuşmazlık bulunmamaktadır. TBK.nın 316. (BK 256) maddesi hükmü uyarınca kiracı kiralananı tam bir özenle kullanmak ve aynı Kanunun 334. (BK 266) maddesi gereğince sözleşme sonunda aldığı hali ile kiraya verene teslim etmekle yükümlüdür. Ancak kiracısözleşmeye uygun kullanma dolayısıyla oluşan eskime ve bozulmalardan sorumlu olmayıp münhasıran kötü kullanım nedeniyle oluşan zarar ve hasardan tahliye tarihi itibariyle belirlenecek birim fiyatları ile sorumludur. Kaldı ki davalının kiralananı kullandığı süre ve kullanma amacı gözetildiğinde olağan kullanımdan kaynaklanan yıpranma ve eskimelerin olacağı da kuşkusuzdur. Gerek tespit raporunda gerekse mahkemece alınan bilirkişi raporlarında hor kullanım olağan kullanım ayrımının her bir kalem hasar için ayrı ayrı yapılmadığı, rayiç birim fiyatların tahliye tarihi itibariyle esas alınmadığı ve kullanım süresiyle orantılı yıpranma payının düşülmediği anlaşılmaktadır.
 Bu nedenle mahkemece yukarıda izah edilen hususları da içeren denetime elverişli bilirkişi raporu alınarak karar verilmesi gerekirken eksik araştırma ve inceleme ile yazılı şekilde karar verilmesi doğru değildir.
 
 ## Yargıtay 3. HD 2017/12114 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/370017300)
+
 6098 Sayılı Türk Borçlar Kanunu'nun 316. (BK 256) maddesi hükmü uyarınca kiracı kiralananı tam bir özenle kullanmak ve aynı Kanunun 334. (BK 266) maddesi gereğince sözleşme sonunda aldığı hali ile kiralayana teslim etmekle yükümlüdür. Ancak kiracı sözleşmeye uygun kullanma dolayısıyla oluşan eskime ve bozulmalardan sorumlu olmayıp münhasıran kötü kullanım nedeniyle oluşan zarar ve hasardan sorumludur. Davacının kiralananı kullandığı süre ve kullanma amacı gözetildiğinde olağan kullanımdan kaynaklanan yıpranma ve eskimelerin olacağı kuşkusuzdur.
 
 ## Yargıtay 3. HD 2017/10870 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/353875500)
 
 2-6098 sayılı T.B.K.nun 316. (B.K.nun 256) maddesi hükmü uyarınca kiracı kiralananı tam bir özenle kullanmak ve aynı kanunun 334. (B.K.nun 266) maddesi gereğince sözleşme sonunda aldığı hali ile kiraya verene teslim etmekle yükümlüdür. Ancak kiracı sözleşmeye uygun olağan kullanma dolayısıyla oluşan eskime ve bozulmalardan sorumlu olmayıp münhasıran kötü kullanım nedeniyle oluşan zarar ve hasardan sorumludur. Davalının kiralananı kullandığı süre ve kullanma amacı gözetildiğinde olağan kullanımdan kaynaklanan yıpranma ve eskimelerin olacağı kuşkusuzdur. O halde mahkemece alınacak bilirkişi raporu ile dava konusu taşınmazda ve sözleşmeye ekli listelerde gösterilen demirbaş eşyalar yönünden olağan ve hor kullanım değerlendirmesi yapılarak, hor kullanma nedeniyle oluşan zarar belirlendikten sonra kullanım süresi ile orantılı olarak yıpranma payı hesap edilerek, belirlenen zarar tutarından düşülmesi gerekir.
 
 ## Yargıtay 3. HD 2017/10213 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/350763800)
+
 6098 sayılı Türk Borçlar Kanununda kiralanın gözden geçirilmesi ve kiracıya bildirme başlıklı 335. maddesinde; "Kiraya veren, geri verme sırasında kiralananın durumunu gözden geçirmek ve kiracının sorumlu olduğu eksiklikleri ve ayıpları ona hemen yazılı olarak bildirmek zorundadır. Bu bildirim yapılmazsa, kiracı her türlü sorumluluktan kurtulur. Ancak, teslim alma sırasında olağan incelemeyle belirlenemeyecek olan eksikliklerin ve ayıpların varlığı hâlinde, kiracının sorumluluğu devam eder. Kiraya veren, bu tür eksiklikleri ve ayıpları belirlediğinde, kiracıya hemen yazılı olarak bildirmek zorundadır." şeklinde düzenleme bulunmaktadır. ./..
 
 ## Yargıtay 3. HD 2017/7054 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/363607400)
+
 6098 Sayılı T.B.K.nun 316. (B.K.nun 256) maddesi hükmü uyarınca kiracı kiralananı tam bir özenle kullanmak ve aynı kanunun 334. (B.K.nun 266) maddesi gereğince sözleşme sonunda aldığı hali ile kiraya verene teslim etmekle yükümlüdür. Ancak kiracı sözleşmeye uygun olağan kullanma dolayısıyla oluşan eskime ve bozulmalardan sorumlu olmayıp münhasıran kötü kullanım nedeniyle oluşan zarar ve hasardan sorumludur. Davalının kiralananı kullandığı süre ve kullanma amacı gözetildiğinde olağan kullanımdan kaynaklanan yıpranma ve eskimelerin olacağı kuşkusuzdur.
 
 ## Yargıtay 3. HD 2017/5654 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/359033000)
 
 Hukukumuzda sözleşmeye bağlılık ilkesi esas olup taraflar serbest iradeleri ile oluşturdukları kira sözleşmesi ile bağlıdır. 6098 Sayılı Türk Borçlar Kanunu'nun 316. (BK 256) maddesi hükmü uyarınca kiracı kiralananı tam bir özenle kullanmak ve aynı Kanunun 334. (BK 266) maddesi gereğince sözleşme sonunda aldığı hali ile kiralayana teslim etmekle yükümlüdür. Ancak kiracı sözleşmeye uygun kullanma dolayısıyla oluşan eskime ve bozulmalardan sorumlu olmayıp münhasıran kötü kullanım nedeniyle oluşan zarar ve hasardan sorumludur. Davacının kiralananı kullandığı süre ve kullanma amacı
 
@@ -50,14 +62,20 @@ gözetildiğinde olağan kullanımdan kaynaklanan yıpranma ve eskimelerin olaca
 
 ## Yargıtay 3. HD 2017/3183 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/358542100)
+
 6098 Sayılı T.B.K.nun 316. (B.K.nun 256) maddesi hükmü uyarınca kiracı kiralananı tam bir özenle kullanmak ve aynı kanunun 334. (B.K.nun 266) maddesi gereğince sözleşme sonunda aldığı hali ile kiralayana teslim etmekle yükümlüdür. Ancak kiracı sözleşmeye uygun olağan kullanma dolayısıyla oluşan eskime ve bozulmalardan sorumlu olmayıp münhasıran kötü kullanım nedeniyle oluşan zarar ve hasardan sorumludur. Davalının kiralananı kullandığı süre ve kullanma amacı gözetildiğinde olağan kullanımdan kaynaklanan yıpranma ve eskimelerin olacağı kuşkusuzdur. Mahkemece hükme esas alınan tespit raporundaki 2.460 TL bedele ilişkin hasar kalemlerinin her biri için ayrı ayrı eski hale getirme bedeli mi, olağan kullanımdan mı yoksa hor kullanmadan mı kaynaklandığına ilişkin değerlendirme yapılmadığı anlaşılmaktadır.
 O halde mahkemece, Yargıtay denetimine elverişli, konusundan uzman bilirkişiden davacının iddia ettiği hasarın olağan kullanımdan mı yoksa hor kullanmadan mı kaynaklandığına ilişkin rapor alınması, sözleşmenin 3. maddesinde kiracının izinsiz tadilat yapamayacağı hususu da gözetilerek sonucuna göre bir karar verilmesi, ayrıca davacı tarafça onarım süresine ihtiyaç duyulduğu belirtilerek onarım süresi kira bedeli talep edildiği dikkate alınarak, onarım süresi kadar kira alacağının hesaplanıp hüküm altına alınması gerekirken, yazılı şekilde eksik incelemeyle hazırlanmış olan bilirkişi raporuna dayanılarak karar verilmesi doğru görülmemiş, bozmayı gerektirmiştir.
 
 ## Yargıtay 11. HD 2017/1091 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/358459900)
+
 Sigortalının zararını poliçe kapsamında ödeyip ona halef olan sigorta şirketi zarar sorumlularına karşı akdi ya da kanundan doğan talep haklarını, halefiyet kuralı gereğince ileri sürebilir. Nitekim somut olayda davalı müteahhide karşı hem haksız eylem, hem de kira sözleşmesine, davalı operatöre karşı ise haksız eyleme dayalı olarak rücu talebinde bulunulmuştur. Gerek kira sözleşmesinde gerekse taşeronluk sözleşmesinde davalı şirketin iş makinası zararından sorumlu olmayacağına ilişkin açık bir hüküm bulunmamaktadır. TBK'nın 334. maddesi gereğince kiracı sözleşme süresi sonunda kiralananı ne durumda aldı ise o durumda geri vermekle yükümlüdür.
 
 ## Yargıtay 6. HD 2016/7830 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/335026200)
 
 Taraflar arasında 01/06/1999 başlangıç tarihli ve 10 yıl süreli kira sözleşmesi ile 01/06/2009 başlangıç tarihli ve bir yıl süreli ek sözleşmesinin varlığı hususunda uyuşmazlık bulunmamaktadır. Kiralananın tahliye edildiğinin kabul edilebilmesi için, kiralananın fiilen boşaltılması ve anahtarın kiraya verene teslim edilmesi gerekir.Kiracının bildirdiği tahliye tarihinin kiraya veren tarafından kabul edilmemesi; başka bir ifadeyle, tahliye tarihinin taraflar arasında çekişmeli olması halinde; kiralananın fiilen boşaltıldığını ve anahtarın teslim edildiğini, böylece kira ilişkisinin belirttiği tarihte hukuken sona erdirildiğini kanıtlama yükümlülüğü, kiracıya aittir. Kiracının anahtar teslim tarihini yazılı delil ile kanıtlayamaması halinde kiraya verenin bildirdiği tarih anahtar teslim tarihi olarak kabul
 
@@ -66,10 +84,14 @@ Gerek tespit raporunda gerekse mahkemece alınan bilirkişi raporlarında hor ku
 
 ## Yargıtay 6. HD 2016/7827 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/335006600)
+
 6098 Sayılı Türk Borçlar Kanunu'nun kiralananın gözden geçirilmesi ve kiracıya bildirme başlıklı 335. maddesinde; "Kiraya veren, geri verme sırasında kiralananın durumunu gözden geçirmek ve kiracının sorumlu olduğu eksiklikleri ve ayıpları ona hemen yazılı olarak bildirmek zorundadır. Bu bildirim yapılmazsa, kiracı her türlü sorumluluktan kurtulur. Ancak, teslim alma sırasında olağan incelemeyle belirlenemeyecek olan eksikliklerin ve ayıpların varlığı hâlinde, kiracının sorumluluğu devam eder. Kiraya veren, bu tür eksiklikleri ve ayıpları belirlediğinde, kiracıya hemen yazılı olarak bildirmek zorundadır." şeklinde düzenleme bulunmaktadır.Kiralanan aracın 28/02/2013 tarihinde kiraya verene teslim edildiği tarafların kabulündedir. Davacı alacaklı yaklaşık 3,5 ay sonra yaptırdığı tespit ile hasarları belirlemiştir.Gerek tespit raporu gerekse yargılama aşamasında alınan bilirkişi raporlarından araçta oluşan hasarların gözle görülebilir ya da kolay bir araştırma ile anlaşılabilir nitelikte olduğu anlaşılmaktadır.
 Bu durumda davacının TBK 335. madde ile öngörülen kiralananı gözden geçirme ve kiracıya bildirme yükümlülüğünü makul sürede yerine getirmediği sabit olup davacı alacaklının, hasarların kiracının kullanımındayken meydana geldiğini ispat ./..
 
 ## Yargıtay 6. HD 2016/5870 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/269542900)
 
 Taraflar arasında ....07.2008 başlangıç tarihli ... yıl süreli kira sözleşmesi konusunda uyuşmazlık bulunmamaktadır. 6098 Sayılı Türk Borçlar Kanunu'nun kiralananın gözden geçirilmesi ve kiracıya bildirme başlıklı 335. maddesinde; "Kiraya veren, geri verme sırasında kiralananın durumunu gözden geçirmek ve kiracının sorumlu olduğu eksiklikleri ve ayıpları ona hemen yazılı olarak bildirmek zorundadır. Bu bildirim yapılmazsa, kiracı her türlü sorumluluktan kurtulur. Ancak, teslim alma sırasında olağan incelemeyle belirlenemeyecek olan eksikliklerin ve ayıpların varlığı hâlinde, kiracının sorumluluğu devam eder. Kiraya veren, bu tür eksiklikleri ve ayıpları belirlediğinde, kiracıya hemen yazılı olarak bildirmek zorundadır." şeklinde düzenleme bulunmaktadır. ....'nun 335.maddesi koşullarının oluşabilmesi için kiralananın yasal tesliminin gerçekleştiği tarihin
 
@@ -77,16 +99,22 @@ bilinmesi esastır. Davaya konu taşınmazın tahliye edildiğine dair tutanak b
 
 ## Yargıtay 6. HD 2016/5407 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/244362700)
+
 Taraflar arasında akdedilen 01/01/2011 başlangıç tarihli ve bir yıl süreli kira sözleşmesi ile dava konusu taşınmazın kreş, anaokulu, etüt v.b. işler için kullanılmak üzere kiralandığı hususunda uyuşmazlık bulunmamaktadır. Kira sözleşmesinin 5. maddesinde; Kiracının, kiraladığı şeyi ne halde buldu ise mal sahibine o halde ve adete göre teslim etmeye mecbur olduğu, 6.maddesinde; Kiracının kiraladığı şeyi mukaveleye göre kullanmış olması hesabıyla on da ve eşyasında husule gelen eksiklik ve değişiklikten mesul olmayacağı ve kiracının kiraladığı şeyi iyi halde almış olduğu kararlaştırılmıştır. 6098 Sayılı TBK.nun 316 (BK. 256) maddesi hükmü uyarınca kiracı kiralananı tam bir özenle kullanmak ve aynı Kanunun 334 (BK. 266) maddesi gereğince sözleşme sonunda aldığı hali ile kiralayana teslim etmekle yükümlüdür. Ancak kiracı sözleşmeye uygun kullanma dolayısıyla oluşan eskime ve bozulmalardan sorumlu olmayıp münhasıran kötü kullanım nedeniyle oluşan zarar ve hasardan sorumludur.
 Gerek davacının yaptırdığı tespit sonucu alınan bilirkişi raporunda gerekse mahkemece yapılan keşif sonucu düzenlenen bilirkişi raporlarında hor kullanım olağan kullanım ayırımının her bir kalem hasar için ayrı ayrı yapılmadığı sabittir. Öte yandan davalı bilirkişi raporuna yaptığı itirazında, yangın merdiveninin ve korkulukların kendileri tarafından yapıldığını bu nedenle boyama işleminden sorumlu olmamaları gerektiğini belirtmiş mahkemece bu husus üzerinde durulmamıştır. Bu nedenle mahkemece davalıya, kendisi tarafından yapılan imalatlara ilişkin savunmasına ait delillerini ibraz imkanı tanınarak yukarıda izah edilen olağan kullanım, hor kullanım ayırımını da içeren denetime elverişli yeniden bilirkişi raporu alınması gerekirken eksik araştırma ile yazılı şekilde karar verilmesi doğru değildir.
 
 ## Yargıtay 6. HD 2016/4355 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/220023500)
 
 6098 sayılı T.B.K.nun 316. (B.K.nun 256) maddesi hükmü uyarınca kiracı kiralananı tam bir özenle kullanmak ve aynı kanunun 334. (B.K.nun 266) maddesi gereğince sözleşme sonunda aldığı hali ile kiralayana teslim etmekle yükümlüdür. Ancak kiracı sözleşmeye uygun olağan kullanma dolayısıyla oluşan eskime ve bozulmalardan sorumlu olmayıp münhasıran kötü kullanım nedeniyle oluşan zarar ve hasardan sorumludur. Davalının kiralananı kullandığı süre ve kullanma amacı gözetildiğinde olağan kullanımdan kaynaklanan yıpranma ve eskimelerin olacağı kuşkusuzdur. O halde mahkemece alınacak bilirkişi raporu ile sözleşmeye ekli listede gösterilen demirbaş eşyalar yönünden olağan ve hor kullanım değerlendirmesi yapılarak, hor kullanma nedeniyle oluşan zarar belirlendikten sonra kullanım süresi ile orantılı olarak yıpranma payı hesap edilerek, belirlenen zarar
 
 tutarından düşülmesi gerekir. Mahkemece gerçek zararın belirtilen şekilde tespit edilerek sonucuna göre bir karar verilmesi gerekirken eksik inceleme ile yetersiz bilirkişi raporuna dayalı olarak karar verilmesi hatalı olmuştur.
 
 ## Yargıtay 6. HD 2016/3924 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/210884200)
 
 Davalı kiracı şirkete yönelik temyiz itirazlarına gelince; Davalı şirket ile davacı arasında akdedilen 01/09/2012 başlangıç tarihli ve bir yıl süreli kira sözleşmesi ile dava konusu işyerinin kira sözleşmesi ön sayfasında yazılı demirbaşlarla beraber kiralandığı hususunda uyuşmazlık bulunmamaktadır.
 Kira sözleşmesi hususi şartlar bölümünün 32.maddesinde “"mal sahibinin kira kontratının ön sayfasında yazılı demirbaşları aynen mal sahibine geri iade etmekle kiracı sorumludur, aksi durumda kiracının yapmış olduğu tadilat, tamirattan dolayı hiçbir şeyi söküp alıp gidemez, söküp alıp gittiği takdirde işyerini eski haline getirmek zorundadır, getirmediği takdirde mülk sahibine 150.000,00 TL ödemeyi taahhüt eder” düzenlemesi yer almaktadır.Davacı vekili dava dilekçesinde, davalının tahliye sırasında demirbaşları ve kendisi tarafından yapılan tesisat ile dekorasyonları sökerek götürdüğünü belirterek kira sözleşmesi hususi şartlar bölümünün 32.maddesi gereğince cezai şart alacağının tahsilini istemiş ve mahkemece 6098 sayılı TBK'nun 334/2 maddesi gereğince kiracının, sözleşmenin sona ermesi halinde sözleşmeden doğacak zararı giderme dışında, başkaca bir tazminat ödeyemeyeceğini önceden taahhüt etmesine ilişkin anlaşmaların geçersiz olması nedeniyle kira sözleşmesinde yer alan cezai şart düzenlemesinin de geçersiz olduğu belirtilerek davanın reddine karar verilmiştir.6098 sayılı TBK'nun 334.maddesinin 1. fıkrasında;
@@ -95,14 +123,20 @@ Böylece, uygulamada kira sözleşmelerinde sıkça rastlanan kiracıya sözleş
 
 ## Yargıtay 6. HD 2016/3589 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/209445100)
+
 6098 Sayılı TBK.nun 316 (BK 256) maddesi hükmü uyarınca kiracı kiralananı tam bir özenle kullanmak ve aynı Kanunun 334 (BK 266) maddesi gereğince sözleşme sonunda aldığı hali ile kiralayana teslim etmekle yükümlüdür. Ancak kiracı sözleşmeye uygun kullanma dolayısıyla oluşan eskime ve bozulmalardan sorumlu olmayıp münhasıran kötü kullanım nedeniyle oluşan zarar ve hasardan sorumludur. Davalının kiralananı kullandığı süre ve kullanma amacı gözetildiğinde olağan kullanımdan kaynaklanan yıpranma ve eskimelerin olacağı kuşkusuzdur. Davalı kiracının kiralananı 21/07/2014 tarihinde tahliye etmesinden sonra kiralananda meydana gelen hasarların belirlenmesi amacıyla .... Sulh Hukuk Mahkemesinin 2014/30 D.İş sayılı dosyasında 23/10/2014 tarihinde yapılan tespit sonucu düzenlenen bilirkişi raporunda hasar bedelinin 9030,89 TL olduğu belirtilmiş, davalı kiracı yargılama sırasında tespit raporunu kabul etmediğini bildirmiştir. Söz konusu raporların tebliğine rağmen belirli sürede itiraz edilmemesi halinde kesinleşeceği veya aleyhine tespit yaptırılan kişi hakkında kesin delil niteliği kazanacağına dair yasal bir düzenleme bulunmamaktadır.
 Bu nedenle delil tespiti yoluyla alınan bilirkişi raporuna itiraz etmemiş olan taraf bu itirazını hüküm verilinceye kadar mahkemeye bildirebilir. İtiraza uğrayan ve mahkemece yeni bir bilirkişi raporu ile karşılanmamış tespit bilirkişi raporu ile karar verilemez. Mahkemece yapılacak iş bir uzman bilirkişi marifetiyle inceleme yaptırılarak zararın hor kullanımdan kaynaklanıp, kaynaklanmadığı, tespit edilen kalemlerden normal kullanımdan kaynaklanan yıpranma olup, olmadığının belirlenmesi, tahliye tarihindeki rayiç birim fiyatları üzerinden yeniden fiyat değerlendirmesi yapılması, yıpranma payı düşülüp düşülmeyeceği konusunda rapor alınması ve varılacak sonuca göre bir karar verilmesi gerekirken, eksik inceleme ile yazılı şekilde karar verilmesi doğru değildir.
 
 ## Yargıtay 6. HD 2016/3508 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/212103400)
+
 6098 sayılı Türk Borçlar Kanunu kiralanın gözden geçirilmesi ve kiracıya bildirme başlıklı 335. maddesinde; "Kiraya veren, geri verme sırasında kiralananın durumunu gözden geçirmek ve kiracının sorumlu olduğu eksiklikleri ve ayıpları ona hemen yazılı olarak bildirmek zorundadır. Bu bildirim yapılmazsa, kiracı her türlü sorumluluktan kurtulur. Ancak, teslim alma sırasında olağan incelemeyle belirlenemeyecek olan eksikliklerin ve ayıpların varlığı hâlinde, kiracının sorumluluğu devam eder. Kiraya veren, bu tür eksiklikleri ve ayıpları belirlediğinde, kiracıya hemen yazılı olarak bildirmek zorundadır." şeklinde düzenleme bulunmaktadır. ./..
 
 ## Yargıtay 6. HD 2016/3516 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/210107000)
 
 Açıklanan nedenlerle, gerekirse mahallinde keşif yapılarak dosya arasında bulunan delil tespiti dosyalarından ve bilirkişi raporlarından da yararlanılmak suretiyle olağan kullanım ve hor kullanım ayrımının yapılması, davalı kiracının olağan kullanım sonucu meydana gelen yıpranmadan sorumlu olmadığının gözetilmesi, hor kullanma bedelinin tespitinde ise hesaplanan iş kalemlerine ilişkin birim fiyatlar, buna ilişkin belgeler, tamir veya bakım yapılacak alana ilişkin varsa uzunluk, alan, vs hesaplama birimleri de belirtilmek suretiyle hesaplama yapılması, kullanım süresi ile orantılı olarak yıpranma payının da dikkate alınması ve yapılacak hesaplama sonucunda ayrıntılı, denetime elverişli ve hüküm kurmaya yeterli bilirkişi raporu alınarak sonucuna göre karar verilmesi gerekirken, eksik inceleme
 
@@ -110,13 +144,19 @@ ile yazılı şekilde karar verilmesi doğru görülmediğinden hükmün bu sebe
 
 ## Yargıtay 6. HD 2016/3184 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/209576000)
+
 6098 Sayılı TBK.nun 316 (BK 256) maddesi hükmü uyarınca kiracı kiralananı tam bir özenle kullanmak ve aynı Kanunun 334 (BK 266) maddesi gereğince sözleşme sonunda aldığı hali ile kiralayana teslim etmekle yükümlüdür. Ancak kiracı sözleşmeye uygun kullanma dolayısıyla oluşan eskime ve bozulmalardan sorumlu olmayıp münhasıran kötü kullanım nedeniyle oluşan zarar ve hasardan sorumludur. Davalının kiralananı kullandığı süre ve kullanma amacı gözetildiğinde olağan kullanımdan kaynaklanan yıpranma ve eskimelerin olacağı kuşkusuzdur.
 
 ## Yargıtay 6. HD 2016/2042 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/209870400)
+
 6098 Sayılı TBK.nun 316. (BK 256) maddesi hükmü uyarınca kiracı kiralananı tam bir özenle kullanmak ve aynı Kanunun 334. (BK 266) maddesi gereğince sözleşme sonunda aldığı hali ile kiralayana teslim etmekle yükümlüdür. Ancak kiracı sözleşmeye uygun kullanma dolayısıyla oluşan eskime ve bozulmalardan sorumlu olmayıp münhasıran kötü kullanım nedeniyle oluşan zarar ve hasardan sorumludur. Davacının kiralananı kullandığı süre ve kullanma amacı gözetildiğinde olağan kullanımdan kaynaklanan yıpranma ve eskimelerin olacağı kuşkusuzdur. Hükme esas alınan bilirkişi raporunda hasar kalemlerinin her biri için ayrı ayrı değerlendirme yapılmamıştır. O halde mahkemece alınacak bilirkişi raporu ile hor kullanım ve olağan kullanım nedeniyle oluşan zarar ve hasar ayrımı yapıldıktan sonra kullanım süresi ile orantılı olarak yıpranma payının hesap edilip alacaktan düşülmesi gerekir. Mahkemece gerçek zararın belirtilen şekilde tespit edilerek sonucuna göre bir karar verilmesi gerekirken eksik inceleme ile yetersiz bilirkişi raporuna dayalı olarak karar verilmesi hatalı olmuştur.
 
 ## Yargıtay 6. HD 2016/2049 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/209882800)
 
 Hükme esas alınan 01/04/2009 başlangıç tarihli ve üç yıl süreli kira sözleşmesi konusunda taraflar arasında bir uyuşmazlık bulunmamaktadır. Kira sözleşmesinin genel şartlarının 3. maddesinde " Kiralayanın odalar, standart pansiyon odası teçhizatı, mobilya, aksesuarı ile birlikte, her odanın içindeki banyo ve tuvalet aksamı düzgün ve çalışır şekilde, boyalı olarak kiracıya teslim edilmiştir. Sözleşmenin herhangi bir şekilde sona ermesi halinde kiracı kiralananı, en azından kendisine teslim edildiği kalite teçhizat, mobilya ve aksesuarları ile birlikte ve boya ve badana yenilenmiş olarak teslim edecektir.” hükmüne yer verilmiştir. Davacı ... SHM 2013/14 D iş. dosyasında 08.03.2013 tarihinde tesbit yaptırmış, bilirkişiler tarafından taşınmazda oluşan hasarın 26.621 TL değerinde olduğu tesbit edilmiştir. Mahkemece, kiralananda keşif yapılmış, bilirkişilerden rapor ve ek rapor alınarak belirlenen hor kullanım bedeline hükmedilmiştir. Davalı taşınmazı 2011 yılı ekim ayında boşalttığını bildirmiş ise de anahtarların usulüne uygun teslim edildiğine ilişkin yazılı bir belge ibraz edilmemiştir. Taşınmaz ...
 İcra müdürlüğünün 2011/1864 E.sayılı dosyası üzerinden, 06.03.2013 tarihinde tahliye edilmiş, davacı 08.03.2013 tarihinde tespit yaptırmış, tespit raporu 10.05.2013 tarihinde davalıya tebliğ edilmiştir. O nedenle olayımızda TBK 335.
@@ -125,9 +165,13 @@ maddesinin uygulama yeri yoktur. 6098 sayılı T.B.K.nun 316. (B.K.nun 256) madd
 
 ## Yargıtay 6. HD 2016/1619 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/209027100)
+
 BK.nın 266. maddesine göre; Kiracı, kiralananı ne halde tesellüm etmiş ise, sözleşmenin sona ermesinde, o halde ve mahalli adete tevfikan geri vermekle mükelleftir. Ne var ki BK.nın 266/2 maddesi gereğince kiracı, kira sözleşmesine uygun kullanım neticesinde kiralananda meydana gelen eskilik yahut değişiklikten sorumlu değildir. Taraflar arasındaki sözleşmede, kiracının normal kullanımdan doğan eskime ve değişmelerden de sorumlu olacağına dair bir hüküm bulunmamaktadır.
 
 ## Yargıtay 6. HD 2016/1144 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/208993600)
 
 Hükme esas alınan 15.5.2009 başlangıç tarihli ve bir yıl süreli kira sözleşmesi konusunda taraflar arasında bir uyuşmazlık bulunmamaktadır. Kira sözleşmesinin genel şartlarının 6. maddesinde "kiracı kiraladığı şeyi kontrata göre kullanmış olması hesabı ile onda ve eşyasında husule gelen eksiklik ve değişiklikten mesul olmayacaktır.Kiracının kiraladığı şeyi iyi halde almış olması asıldır” özel şartlarının 2 maddesinde ise” kiralanan taşınmaz kira süresi bitiminde bir tutanakla mal sahibine tam bir temizlik içinde borçsuz olarak teslim edecektir” hükmüne yer verilmiştir.Davacı...D işler dosyasında 3.9.2013 tarihinde tesbit yaptırmış.
 İnşaat bilirkişisi .... tarafından düzenlenen 11.9.2013 tarihli raporunda Dairenin tavan ve duvar boyaları, pencere, kapı, priz vs tamirleri, depo bölümünde bulunan çöplerin atılması için KDV dahil 4.248 TL gerektiği tesbit edilmiştir.Mahkemece, kiralananda keşif yapılmış, bilirkişiden rapor alınarak belirlenen hor kullanım bedeline hükmedilmiştir.Davalı taşınmazı 15.6.2009 tarihinde boşalttığını bildirmiş isede anahtarların usulüne uygun teslim edildiğine ilişkin yazılı bir belge ibraz edilmemiştir.Bu nedenle anahtar teslim tarihinin tesbit tarihi olan 3.9.2013 tarihi olarak kabul edilmesi gerekir.O nedenle olayımızda TBK 335. maddesinin uygulama yeri yoktur. 6098 sayılı T.B.K.nun 316. (B.K.nun 256) maddesi hükmü uyarınca kiracı kiralananı tam bir özenle kullanmak ve aynı kanunun 334. (B.K.nun 266) maddesi gereğince sözleşme sonunda aldığı hali ile kiralayana teslim etmekle yükümlüdür. Ancak kiracı sözleşmeye uygun olağan kullanma dolayısıyla oluşan eskime ve bozulmalardan sorumlu olmayıp münhasıran kötü kullanım nedeniyle oluşan zarar ve hasardan sorumludur.
@@ -137,19 +181,27 @@ kuşkusuzdur. O halde mahkemece alınacak bilirkişi raporu ile hor kullanım ve
 
 ## Yargıtay 6. HD 2015/10976 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/130387700)
+
 6098 Sayılı TBK.nun 316. (BK 256) maddesi hükmü uyarınca kiracı kiralananı tam bir özenle kullanmak ve aynı Kanunun 334. (BK 266) maddesi gereğince sözleşme sonunda aldığı hali ile kiralayana teslim etmekle yükümlüdür. Ancak kiracı sözleşmeye uygun kullanma dolayısıyla oluşan eskime ve bozulmalardan sorumlu olmayıp münhasıran kötü kullanım nedeniyle oluşan zarar ve hasardan sorumludur. Davacının kiralananı kullandığı süre ve kullanma amacı gözetildiğinde olağan kullanımdan kaynaklanan yıpranma ve eskimelerin olacağı kuşkusuzdur. O halde mahkemece alınacak bilirkişi raporu ile hor kullanım ve olağan kullanım nedeniyle oluşan zarar ve hasar ayrımı yapıldıktan sonra kullanım süresi ile orantılı olarak yıpranma payının hesap edilip alacaktan düşülmesi gerekir. Mahkemece gerçek zararın belirtilen şekilde tespit edilerek, tahliye sonrası kiraya veren tarafından iade edilmesi gereken depozito bedelinin de hesaplanacak tazminat miktarından mahsubu ile sonucuna göre bir karar verilmesi gerekirken, eksik inceleme ile yetersiz bilirkişi raporuna dayalı olarak karar verilmesi hatalı olmuştur.
 
 ## Yargıtay 6. HD 2015/10969 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/141752400)
 
 Davalının mermer paledyene ilişkin temyiz itirazına gelince; mahkemece hükme esas alınan 4.3.2014 tarihli bilirkişi raporunda kiralanan, (A) harfi ile gösterilen mermer paledyen kısım, (B) harfi ile gösterilen ham beton kısım ve (C) harfi ile gösterilen karo mozaik kaplı alan olmak üzere üç ayrı bölümde ele alınarak değerlendirilmiş, (B) ve (C) alanda hor kullanımın olmadığı, (C) alanındaki mermer paledyenin tamamen kaldırılmış olduğu, yeniden kaplama yapılması için gerekli bedelin 28.833TL olduğu belirtilmiştir.Hükme esas alınan bilirkişi raporunda belirlenen tazminatının hangi tarih esas alınarak belirlendiği açık olmadığı gibi, kullanım süresi ile orantılı olarak yıpranma karşılığı oluşan bedel belirlenmek suretiyle oluşan tazminat tutarından da mahsup edilmemiştir. 6098 sayılı T.B.K.nun 316. (B.K.nun 256) maddesi hükmü uyarınca kiracı kiralananı tam bir özenle kullanmak ve aynı kanunun 334. (B.K.nun 266) maddesi gereğince sözleşme sonunda aldığı hali ile kiralayana teslim etmekle yükümlüdür. Ancak kiracı sözleşmeye uygun olağan kullanma dolayısıyla oluşan eskime ve bozulmalardan sorumlu olmayıp münhasıran kötü kullanım nedeniyle oluşan zarar ve hasardan sorumludur.
 Davalının kiralananı kullandığı süre ve kullanma amacı gözetildiğinde olağan kullanımdan kaynaklanan yıpranma ve eskimelerin olacağı kuşkusuzdur. Buna göre yapılacak iş, alınacak bilirkişi raporu ile tazminata esas alınan tarih açıklanarak, kullanım süresi ile orantılı olarak yıpranma payı da hesap edilip belirlenen tazminattan düşülmek suretiyle belirlenen tutara karar vermektir. Eksik ve hüküm kurmaya elverişli bulunmayan bilirkişi raporu esas alınarak karar verilmiş olması doğru değildir.
 
 ## Yargıtay 6. HD 2015/10562 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/150203000)
+
 Taraflar arasında 06.09.2008 tarihli ve bir yıl süreli kira sözleşmesi konusunda uyuşmazlık bulunmamaktadır. Sözleşmede kiralananın boş, temiz daire olarak kiraya verildiği yazılıdır. TBK 334. maddesinde Kiralananın geri verilmesi başlığı altında ''Kiracının kiralananı ne durumda teslim almışsa, kira sözleşmesinin bitiminde o durumda geri vermekle yükümlüdür. Ancak, kiracının sözleşmeye uygun kullanma dolayısıyla kiralananda meydana gelen eskimelerden ve bozulmalardan sorumlu değildir'' düzenlemesi bulunmakta olup yukarıda belirtildiği üzere kiralanan davalıya boş, temiz daire olarak kiraya verilmiş davalı kiraya veren ise sözleşme bitiminde kiralananı boyattığına ilişkin fatura ve fotoğraflar sunmuştur, bu durumda davalının bu delillerinin toplanması gerekirken olağan kullanımdan kaynaklı eskimelerden kiracının sorumlu olmayacağına ilişkin gerekçe yerinde değildir. Bundan ayrı sözleşmenin 3. maddesinde '' Kiracıdan doğabilecek zarar ve ziyana mahsup edilmek üzere ve sözleşmenin teminatı olarak alınan depozito kiraya sayıştırılamaz. Kiracı depozito için faiz talep edemez.
 Tahliyeden sonra zarar-ziyan ve kiracının borçları düşülecek ve kalan miktar kiracının 2. maddede sayılan borçlarını ödediğini kiralayana ibraz etmesinden sonra kiracıya geri ödenecektir. Verilen depozito yapılacak zarar ve ziyanı karşılamazsa kiracı karşılamayı şimdiden kabul ve taahhüt eder '' düzenlemesi bulunmakta, 2. madde de ise kiracının aidat ve diğer giderlerden sorumlu olduğu yer almaktadır. Madde metninden anlaşılacağı üzere kiracı ödemediği kirayı depozitoya sayamaz ise de davalı kiraya veren sayabilir. Davalı kiraya veren 21.12.2011 tarihinde 2011 yılı Ocak ayı ile 2011 yılı Aralık ayları arası eksik ödendiği iddia edilen 2.400 TL kira bedeli için icra takibi başlatıp, itiraz üzerine 07.12.2012 tarihinde itirazın iptali davası açmış ayrıca 2011 Aralık ayından sonraki kira bedellerinin de 200'er TL eksik ödendiğini iddia etmiştir. Bu nedenle davalının bu savunması üzerinde durulmaması da doğru değildir. Öte yandan davacı kiracı 27.06.2012 tarihinde ihtar çekip 06.07.2012 tarihinde anahtarı teslim edeceğini bildirmiş, ihtar davalı kiraya verene 26.07.2012 tarihinde tebliğ edilmiştir.
 Davalı kiraya veren ise anahtarı 31.07.2012 tarihinde yönetimden aldığını beyan ettiğinden yasal anahtar teslim tarihi 31.07.2012 dir. Davalı kiraya veren Temmuz 2012 yılı aidatına ilişkin 253,70 TL lik makbuz sunmuş olup, makbuzun altında Ö. B. adına yatıran H.. A.. yazmaktadır. O halde davalının bu savunması hakkında da davacı kiracıdan diyecekleri sorulup sonucuna göre karar vermek gerekirken yukarıda belirtilen hususların tümü dikkate alınmadan yanılgılı gerekçeyle yazılı şekilde karar verilmesi doğru değildir.
 
 ## Yargıtay 6. HD 2015/10447 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/160234800)
 
 Davada dayanılan ve hükme esas alınan 1/12/1999 başlangıç tarihli ve bir yıl süreli kira sözleşmesi ve kiralananın tahliye edildiği konusunda taraflar arasında bir uyuşmazlık bulunmamaktadır.Taraflar arasındaki uyuşmazlık kiralananın hor kullanılmasından doğan zararın tazminine ilişkindir. T.B.K.nun 334.maddesi hükmü uyarınca kiracı kiralananı ne şekilde teslim almış ise kira süresi sonunda o halde geri vermekle yükümlüdür. Kiracı kiralanandan sözleşme gereğince yararlanması söz konusu olduğundan normal kullanma sonucu meydana gelen eskimeden sorumlu tutulamaz. Bu yasal düzenleme karşısında davacı kiralayan kiracının normal kullanımından meydana gelen hasarlardan dolayı tazminat isteminde bulunamaz. Ancak normal kullanım dışında hor kullanmadan doğan hasar bedelini isteyebilir.

@@ -4,37 +4,37 @@
     {
       "alan": "Borçlar ve sözleşmeler",
       "baslik": "Borçlar Genel Hukukuna İlişkin Emsal Kararlar",
-      "bayt": 772108,
+      "bayt": 772604,
       "dosya": "kararlar/borclar-genel.jsonl.gz",
       "kayit": 3752,
       "kod": "borclar-genel",
       "md": "md/borclar-genel/",
       "sayfa": 1112,
-      "sha256": "9d7b69597c3f5ddabc5468e4b6adc343c8deeb3a0b622d12ac57c37b59285a1d",
+      "sha256": "a05128955725def9988cb864138c21786ecfd78d1cf3335064311e9600234fed",
       "surum": null
     },
     {
       "alan": "Borçlar ve sözleşmeler",
       "baslik": "Özel Hukukun Temel İlkelerine İlişkin Emsal Kararlar",
-      "bayt": 173141,
+      "bayt": 173201,
       "dosya": "kararlar/temel-ilkeler.jsonl.gz",
       "kayit": 469,
       "kod": "temel-ilkeler",
       "md": "md/temel-ilkeler/",
       "sayfa": 154,
-      "sha256": "1522923e6ded9588d9d8cd16c1600b382d2e4e8034ed032ee548066a8c1277df",
+      "sha256": "9b55a5e92bc909665ff74932ace9a40fed0b00330c0b55ef27b752e22e41459f",
       "surum": null
     },
     {
       "alan": "Borçlar ve sözleşmeler",
       "baslik": "Kira Hukuku Emsal Kararlar",
-      "bayt": 5723388,
+      "bayt": 5724036,
       "dosya": "kararlar/kira.jsonl.gz",
       "kayit": 14949,
       "kod": "kira",
       "md": "md/kira/",
       "sayfa": 5668,
-      "sha256": "e0802aee986d9ef03edd7d1fd063c35bdd5c731049aa9b5fe0785a46ccb08d8c",
+      "sha256": "a1e0048455dd8d51d58c780d7fb6ba5108015d0b38fd5517d5a07b08ce65c72a",
       "surum": "V7"
     },
     {
@@ -412,13 +412,13 @@
     {
       "alan": "Arabuluculuk ve tahkim",
       "baslik": "Tahkime İlişkin Emsal Kararlar",
-      "bayt": 33883,
+      "bayt": 33884,
       "dosya": "kararlar/tahkim.jsonl.gz",
       "kayit": 85,
       "kod": "tahkim",
       "md": "md/tahkim/",
       "sayfa": 41,
-      "sha256": "d34e42c4cf6461379da2a55c73275f0f12b35c8315fa21055b4800b4ad2f4bac",
+      "sha256": "e1260ed6e07bf17eee3bc3170f19a97f1708c67ae0ec217b433aaf6aba490ad7",
       "surum": "V2"
     }
   ],

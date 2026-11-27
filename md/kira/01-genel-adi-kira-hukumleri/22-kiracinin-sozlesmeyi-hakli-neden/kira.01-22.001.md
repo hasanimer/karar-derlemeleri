@@ -20,9 +20,13 @@ uyari: "Derleyenin seçtiği alıntılardır; kararın tamamı değildir. Künye
 
 ## Yargıtay 3. HD 2025/2807 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1152650500)
+
 … kural olarak kiracının, kira dönemi sonuna kadarki kira parasından sorumlu olduğu, ancak kiraya verenin de zararın artmasına neden olmaması gerektiği, **kiracının sorumluluğunun kiralananın kira sözleşmesindeki bedel ve koşullarda yeniden kiraya verilebileceği süre kadar olduğu**, bu durumda davacının zararının tahliye tarihinden kiralananın aynı koşullarla yeniden kiraya verilebileceği tarihe kadar boş kaldığı süreye ilişkin kira parasından ibaret olacağı…
 
 ## Yargıtay 3. HD 2025/440 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1121811200)
 
 … kiralananı sözleşmede kararlaştırılan ihbar süresine uymadan tek taraflı olarak tahliye etme hak ve yetkisi tanınmamasına rağmen, davalı kiracının davacı kiraya verenin rızası olmaksızın ve haklı bir nedene de dayanmaksızın sözleşmeyi feshederek kiralananı tahliye etmiş olmasının sözleşmeye aykırı davranış teşkil etmesine, bu nedenle **davalı kiracının anahtarı teslim ettiği tarihe kadar olan kira bedeli ile bu tarihten itibaren sözleşmede kararlaştırılan 3 aylık kira bedelinden sorumlu** bulunmasına…
 

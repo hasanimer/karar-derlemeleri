@@ -22,9 +22,13 @@ uyari: "Derleyenin seçtiği alıntılardır; kararın tamamı değildir. Künye
 
 ## Yargıtay HGK 2023/989 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/978385800)
+
 Kiracının sözleşme süresine veya fesih dönemine uymaksızın kiralananı erken tahliye ettiği duruma ilişkin TBK'nın 325 inci maddesinde "Kiracı, sözleşme süresine veya fesih dönemine uymaksızın kiralananı geri verdiği takdirde, kira sözleşmesinden ... borçları, kiralananın benzer koşullarla kiraya verilebileceği makul bir süre için devam eder. Kiracının bu sürenin geçmesinden önce kiraya verenden kabul etmesi beklenebilecek, ödeme gücüne sahip ve kira ilişkisini devralmaya hazır yeni bir kiracı bulması halinde, kiracının kira sözleşmesinden ... borçları sona erer.
 
 ## Yargıtay HGK 2021/1722 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/744316800)
 
 Kiralanan çatılı işyeri olmayıp, arsa niteliğindedir. Takibe dayanak kira sözleşmesinin 15.04.2010 başlangıç tarihli ve bir yıl süreli olduğu gözetildiğinde TBK’nın 327. (BK 263) maddesine göre kural olarak sözleşmenin bu sürenin sonunda sona ereceğinin kabulü gerekir. Her ne kadar kira sözleşmesinin özel şartlar bölümünün 8. maddesinde “kiracı kiralananı boşaltmak istediği takdirde bir ay evvelinden mal sahibine ulaşacak şekilde bildirmek zorundadır” hükmü kararlaştırılmış ise de Bursa 15. Noterliğinin 07.06.2010 tarihli ve 14964 yevmiye nolu feshi ihbarında; feshi ihbar edenin kiracı ...’e vekâleten Güven Talu, muhatabın kiralayan Süreyya Ferruh Şen olduğu, kira sözleşmesinin tek taraflı olarak feshedildiği, arsanın hiç kullanılmadığı ve bundan sonra da kullanılmayacağı, arsanın muhatap tarafından dilediği gibi kullanmakta serbest bulunduğunun belirtildiği, ancak bu feshi ihbarın muhatap tanınmadığından 17.06.2010 tarihinde tebliğ edilemeden iade edildiği anlaşılmaktadır. Bu hâli ile tebliğ edilemeyen feshi ihbar, kira akdini sonlandıran İİK’nın 269/c maddesinin 1. fıkrasında yazılı belgelerden kabul edilemez.
 Taşınmazın fiilen teslim edildiğine dair aynı nitelikte belgeye de dayanılmamıştır.
@@ -42,9 +46,13 @@ Kiraya verenin bu kira türünde süre bitiminde veya süre bitimi sonrası fesi
 
 ## Yargıtay 3. HD 2025/6065 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1205615700)
+
 6098 sayılı Türk Borçlar Kanunu'nun (TBK) "Kiralananın sözleşmenin bitiminden önce geri verilmesi" başlıklı 325. maddesi uyarınca; "Kiracı, sözleşme süresine veya fesih dönemine uymaksızın kiralananı geri verdiği takdirde, kira sözleşmesinden doğan borçları, kiralananın benzer koşullarla kiraya verilebileceği makul bir süre için devam eder. Kiracının bu sürenin geçmesinden önce kiraya verenden kabul etmesi beklenebilecek, ödeme gücüne sahip ve kira ilişkisini devralmaya hazır yeni bir kiracı bulması hâlinde, kiracının kira sözleşmesinden doğan borçları sona erer.
 
 ## Yargıtay 3. HD 2025/4480 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1184878600)
 
 Olağanüstü fesih, belirli ve belirsiz süreli sürekli borç ilişkilerini haklı sebeple, vaktinden önce ve ileriye yönelik olarak sona erdiren bir imkandır. Olağanüstü feshin; olağan fesih
 
@@ -53,23 +61,33 @@ karşısındaki özelliği, geçerliliğinin akdi veya kanuni bir fesih sebebine
 
 ## Yargıtay 3. HD 2025/3048 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1155987500)
+
 Öte yandan, 6098 sayılı Kanun 350/son maddesine göre belirli süreli konut ve çatılı iş yeri kira sözleşmelerinde ihtiyaç (gereksinim) sebebiyle tahliye davalarının, sözleşme süresinin sonunda, belirsiz süreli sözleşmelerde ise kiraya ilişkin genel hükümlere göre fesih dönemine ve fesih bildirimi için öngörülen sürelere uyularak belirlenecek tarihten başlayarak açılabileceği emredici şekilde düzenlenmiş olup, bu husus kamu düzenine ilişkindir. Belirli süreli kira sözleşmelerinde, sözleşme süresi sona ermeden, belirsiz süreli sözleşmelerde ise kiraya ilişkin genel hükümlere göre fesih dönemine ve fesih bildirimi için öngörülen sürelere uyularak belirlenecek tarihten önce kiraya veren kiracıdan dava yolu ile ihtiyaç nedeniyle tahliye isteminde bulunulamayacağı halde bu süreler öncesinde açılacak bir dava, süresinde açılmış bir dava olarak kabul edilmeyeceğine göre, dava şartı olarak arabuluculuğa başvuruda bulunabilmek için de öncelikle uyuşmazlığın doğması, yani kira sözleşmesinin süresinin sona ermesi ve kiraya verenin tahliye davası yolu ile tahliye isteminde bulunma hakkının doğması gerekir.
 Aksi takdirde henüz tahliye davası açma hakkı bulunmayan kiraya verenin kira süresinin sona ermesinden çok öncesinde dava şartı arabuluculuk başvurusunda bulunduğu durumda bu başvuru tarihi itibariyle şartlarına göre tahliye etmeyi kabul etmeyen kiracının anlaşmamaya ilişkin son tutanağın düzenlenmesi sonrasında sürenin sona ermesine kadar aradan geçen sürede şartlarının değişmesiyle süre bitimi itibariyle tahliyeyi gerçekleştirdiğinde dava açma hakkı doğmadan erken yapılan ve olumsuz olarak neticelenen dava şartı arabuluculuk faaliyeti işlevsiz hale gelecektir. Kiraya verenin tahliye davası açma hakkının doğduğu andan itibaren arabuluculuğa başvurusu ile arabuluculukta geçen süre bakımından dava açma hakkının kullanım süresi bakımından bir kaybı olmayacaktır zira dava şartı arabuluculuğa başvuru ile son anlaşmama tutanağının düzenlenmesine kadarki geçen süre 6325 sayılı kanunun 16/2 maddesi uyarınca zamanaşımı ve hak düşürücü sürelerin hesaplanmasında dikkate alınmaz.
 
 ## Yargıtay 3. HD 2025/2532 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1162944600)
 
 6098 sayılı Kanun'un 327. maddesinde yer alan düzenlemeye göre; genel hükümlere tabi kira sözleşmelerinde kira sözleşmesinin başlangıcı ve süresi belli ise, sürenin dolması ile kira sözleşmesi kendiliğinden sona erer. Kiraya veren sözleşmenin bitim tarihinden itibaren bir ay içinde dava açarak süre bitimi nedeniyle tahliye talep edebilir. Belirli süreli kira sözleşmelerinde belirlenen sürenin dolması halinde taraflar arasında açık bir anlaşma olmaksızın kira ilişkisi sürdürülürse, kira sözleşmesi belirsiz süreli sözleşmeye dönüşür. Genel hükümlere tabi kira sözleşmelerinde, belirli süreli kira sözleşmesinin süresiz hale gelmemesi için, kiraya veren kira süresi bitmeden veya dava açma süresi içinde kira sözleşmesini yenilemeyeceğine dair ihtarname tebliğ ettirirse kira sözleşmesi yenilenmeyeceği gibi süresiz hale de gelmez. Bu durumda her zaman süre bitimi nedeniyle tahliye davası açılabilir. Aynı Kanunun 328. maddesinde yer alan düzenlemeye göre ise; belirsiz süreli kira sözleşmelerinde taraflardan her biri, daha uzun bir fesih bildirim süresi veya başka bir fesih dönemi kararlaştırılmış olmadıkça, yasal fesih dönemlerine ve fesih bildirim sürelerine uyarak sözleşmeyi feshedebilir.
 Sözleşmede veya kanunda belirtilen fesih dönemine veya bildirim süresine uyulmamışsa, bildirim bir sonraki fesih dönemi için geçerli olur.
 
 ## Yargıtay 3. HD 2025/2195 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1162748600)
+
 Genel hükümlere tabi kira sözleşmesinde; sözleşme süresinin sona ermesi halinde, sözleşme belirsiz süreli sözleşmeye dönüşür. Taşınmaz ve taşınır yapı kiralarıyla ilgili belirsiz süreli kira sözleşmelerinde feshi ihbar süresi ise 6098 sayılı Kanunun 329. maddesi hükmüne göre belirlenecek olup, buna göre taraflardan her biri, bir taşınmaza veya taşınır bir yapıya ilişkin kira sözleşmesini, yerel âdette belirlenen kira döneminin sonu için veya böyle bir âdetin bulunmaması durumunda, altı aylık kira döneminin sonu için, üç aylık fesih bildirim süresine uyarak feshedebilir.
 
 ## Yargıtay 3. HD 2024/4437 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1124966900)
+
 Bir kira sözleşmesinin sona ermesi, ya mahkeme kararı ile veya tarafların birbirine uygun fesih bildirimi ile ya da kiralananın yok olması ile mümkündür. Söz konusu kira sözleşmesinin usulüne uygun olarak açılan tahliye davası ile veya tarafların karşılıklı irade beyanları ile veya kiralananın tamamen yok olması ile sona erdiğine ilişkin dosyaya bir belge sunulmamıştır. Sözleşmenin feshi ve tahliye davası açma koşullarının bulunması durumunda bile, mahkeme kararı ile tahliye ilamı alınmadığı sürece sözleşmenin sona erdiğinden söz edilemez.
 
 ## Yargıtay 3. HD 2024/570 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1010749500)
 
 Temyiz olunan Bölge Adliye Mahkemesi kararında; taraflar arasındaki uyuşmazlığa yukarıda yer verilen kanun maddelerinin usulüne uygulandığı, davalı kiracı tarafından kiralananda tadilat yapılırken 18.10.2007 tarihinde yapı tatil zaptı düzenlendiği, kiralananın mühürlenmiş olmasının kira sözleşmesinin sona ermesine neden olmayacağı, geçerli olan bir kira sözleşmesinin; tarafların birbirine uygun fesih bildirimi, mahkeme kararı yahut kiralananın yok olması ile sona ereceği, buna göre kiracının, kiralananı tahliye ve kiraya verene teslim ettiği tarihe kadar kira bedellerini ödemekle yükümlü olduğu, davalı kiracı
 
@@ -77,30 +95,44 @@ tarafından taşınmazın tahliye edildiği ve anahtarlarının teslim edildiği
 
 ## Yargıtay 3. HD 2023/3287 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/984240900)
+
 Olağanüstü fesih; belirli ve belirsiz süreli sürekli borç ilişkilerini haklı sebeple, vaktinden önce ve ileriye yönelik olarak sona erdiren bir imkandır. Olağanüstü feshin, olağan fesih karşısındaki özelliği geçerliliğinin akdi veya kanuni bir fesih sebebine (haklı sebebe) dayanmasıdır. Olağanüstü nedenler yasada sayılmış olup bunlardan birisi de 6098 sayılı Kanun'un 331 inci maddesinde düzenlenen önemli sebeplerle kira sözleşmesinin feshi halidir. Herhangi bir nedenle, sürekli edimli sözleşmeler kapsamında olan kira sözleşmesinde eğer taraflardan herhangi birisi için çekilmezlik hali durumu ortaya çıkmışsa, o tarafın sözleşme ile bağlı kalması kendisinden beklenemez. Önemli sebep kapsamında çekilmezlik, tarafın sözleşmeye katlanamayacağı haldir. Bu duruma örnek olarak kiracı memurun başka bir şehre atanması hali gösterilebilir. Böyle bir durumda, kiracı memur için kira sözleşmesinin devamı, çekilmez bir hal sayılır. Çekilmezlik halinin varlığında, taraflardan her biri, fesih süresine uymak şartıyla sözleşmeyi her zaman için feshetme hakkını kullanabilir.
 Genel kural niteliğinde olan bu tür fesih hakkı, sözleşme belirli veya belirsiz olsun, konut ve çatılı işyeri kirası dahil her tür kira ilişkisinde kullanılabilir. Kanunda düzenlenen bu fesih türünün kullanılabilmesi için, taraflar arasında akdedilen geçerli bir kira sözleşmesinin varlığı, kira sözleşmesinin devamını tarafları için beklenemez kılan haklı sebeplerin var olması ve haklı sebebe dayanan kiraya veren ve kiracının, aynı Kanun'un yasal fesih bildirimi süresine uyarak fesih bildiriminde bulunması gerekmektedir.
 
 ## Yargıtay 3. HD 2023/2143 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/963541200)
+
 Geçerli bir kira sözleşmesi, tarafların birbirine uygun fesih bildirimi, mahkeme kararı yahut kiralananın yok olması ile sona erer. Aksi takdirde haksız feshin koşullarının bulunması halinde dahi mahkeme kararı ile tahliye ilamı alınmadığı sürece akdin sona erdiğinden söz edilemez. Bu durumda ifa alacaklısı konumdaki kiracı, kiralananın kullanıma elverişli şekilde kendisine teslimini ve geç ifa yahut ayıplı ifa nedeniyle bu süreçte uğradığı zararın tazminini talep edebilir.
 
 ## Yargıtay 3. HD 2023/1594 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/964965300)
 
 Geçerli olan bir kira sözleşmesi; tarafların birbirine uygun fesih bildirimi, mahkeme kararı yahut kiralananın yok olması ile sona erer. Kiracı, kiralananı kullanımında bulundurduğu sürece kira bedeli ödemekle yükümlü olup, kiralananın tahliye edildiğinin (kiracının iade borcunu yerine getirdiğinin) kabulü için fiilen boşaltılması yeterli olmayıp anahtarın da kiraya verene teslim edilmesi gerekir.
 
 ## Yargıtay 3. HD 2023/1062 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/935808500)
+
 Geçerli olan bir kira sözleşmesi; tarafların birbirine uygun fesih bildirimi, mahkeme kararı yahut kiralananın yok olması ile sona erer. Kiracı, kiralananı kullanımında bulundurduğu sürece kira bedeli ödemekle yükümlü olup, kiralananın tahliye edildiğinin (kiracının iade borcunu yerine getirdiğinin) kabulü için fiilen boşaltılması yeterli olmayıp anahtarın da kiraya verene teslim edilmesi gerekir. Kiracının bildirdiği tahliye tarihinin kiraya veren tarafından kabul edilmemesi; başka bir ifadeyle, tahliye tarihinin taraflar arasında çekişmeli olması halinde; kiralananın fiilen boşaltıldığını ve anahtarın teslim edildiğini, böylece kira ilişkisinin kendisince ileri sürülen tarihte hukuken sona erdirildiğini kanıtlama yükümlülüğü, kiracıya aittir. Kiracı, kiralananı kendisinin ileri sürdüğü tarihte tahliye ettiğini ispatlayamazsa, kiraya verenin bildirdiği tahliye tarihine itibar olunmalıdır.
 
 ## Yargıtay 3. HD 2022/1103 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/748198200)
 
 Şu durumda; dava konusu kiralananın baskın vasfının açık alan olduğu, 22.584,49 m2 açık, 500 m2 kapalı alandan oluştuğu ve "Tarihi köşk eklentileri, yeşil saha ve rekreasyon alan" olarak kiraya verildiği, bu nedenle TBK’nın genel hükümlerine tabi olduğu anlaşılmaktadır. TBK’nın 327. maddesi "Açık veya örtülü biçimde bir süre belirlenmiş ise kira sözleşmesi bu sürenin sonunda kendiliğinden sona erer. Taraflar bu durumda açık bir anlaşma olmaksızın kira ilişkisini sürdürürlerse, kira sözleşmesi belirsiz süreli kira sözleşmesine dönüşür.” hükmünü içermekte olup, genel hükümlere tabi kira sözleşmelerinde kira sözleşmesinin sona ermesi için yukarıda açıklandığı üzere tarafların kira sözleşmesinin yenilenmeyeceğine ilişkin yazılı bildirimde bulunmaları durumunda süre sonunda kiracılık ilişkisinin son bulduğunun kabulü gerekir.
 
 ## Yargıtay 3. HD 2019/6901 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/539297800)
+
 Türk Borçlar Kanunu'nun 325.maddesinin 1.fıkrasının ilk cümlesi “Kiracı, sözleşme süresine ve fesih dönemine uymaksızın kiralananı geri verdiği takdirde, kira sözleşmesinden doğan borçları, kiralananın benzer koşullarla kiraya verilebileceği makul bir süre için devam eder.” şeklinde düzenlenmiştir. Sözleşmeye bağlılık (ahde vefa) ilkesi gereği taraflar sözleşme hüküm ve koşullarına uygun davranmak durumundadırlar. Haklı neden olmadıkça ve usulüne uygun feshedilmedikçe kiracı, sözleşme süresi ile bağlı olup sözleşmenin süresinden önce ve haksız olarak feshi durumunda kiraya verenin bundan kaynaklanan zararını gidermekle yükümlüdür. Davacı kiraya verenin zararı, tahliye tarihinden itibaren kiralananın aynı koşullarla yeniden kiraya verilebileceği tarihe kadar boş kaldığı süreye ilişkin kira bedelinden oluşur. Bununla birlikte taraflar arasında 01.05.2012 başlangıç tarihli, 2 yıl süreli kira sözleşmesinin “Hususi Şartlar” bölümünün 8. maddesinde ''Kiracı kiralananı…
 
 ## Yargıtay 3. HD 2019/5808 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/524016200)
 
 Öncelikle belirtmek gerekir ki, kira parası, Borçlar Kanunu'nun 299. maddesinde yer alan, kira akdinin esaslı unsurlarındandır. Yine, kiralanan taşınmazın, niteliği itibarı ile çatılı (musakkaf) bulunması durumunda asıl olan, kira müddetinin sonunda da kira akdinin devam etmesidir. Ancak, kira parasına ilişkin olarak, tarafların ihtilafa düşmeleri halinde sözleşmede doğan bu boşluk, 18/11/1964 tarih 2/4 sayılı Yargıtay İnançları Birleştirme
 
@@ -109,13 +141,19 @@ Baştan belirsiz süreli olarak akdedilen konut ve çatılı iş yeri kirası ni
 
 ## Yargıtay 3. HD 2019/3052 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/515630300)
+
 6098 Sayılı Türk Borçlar Kanun'unun 325.maddesinde: "kiracı sözleşme süresine veya fesih dönemine uymaksızın kiralananı geri verdiği takdirde, kira sözleşmesinden doğan borçları, kiralananın benzer koşullarla kiraya verilebileceği makul bir süre için devam eder..." denilmek suretiyle hüküm altına alınmıştır. Bu durumda, davacının zararı tahliye tarihinden kiralananın aynı koşullarla yeniden kiraya verilebileceği tarihe kadar boş kaldığı süreye…
 
 ## Yargıtay 3. HD 2019/2668 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/504033300)
+
 2- 6098 sayılı Türk Borçlar Kanunu'nun 325. maddesinde; "Kiracı, sözleşme süresine veya fesih dönemine uymaksızın kiralananı geri verdiği taktirde, kira sözleşmesinden doğan borçları kiralananın benzer koşullarla kiraya verilebileceği makul bir süre için devam eder. Kiracının bu sürenin geçmesinden önce kiraya verenden kabul etmesi beklenebilecek, ödeme gücüne sahip ve kira ilişkisini devralmaya hazır yeni bir kiracı bulunması halinde, kiracının kira sözleşmesinden doğan borçları sona erer" düzenlemesine yer verilmiştir.
 
 ## Yargıtay 3. HD 2019/2527 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/498123500)
 
 Türk Borçlar Kanununda konut ve çatılı işyeri kiraları 339. ve devamındaki maddelerde düzenlenmiştir. Konut veya çatılı işyeri kirasına ilişkin sözleşmelerin dava yoluyla sona erme şekillerinden olan kiraya verenden kaynaklanan sebepler arasında gereksinim nedeniyle sona erme düzenlenmiş olup TBK m. 350/1'e göre; kiraya veren, kira sözleşmesini; kiralananı kendisi, eşi, altsoyu, üstsoyu veya kanun gereği bakmakla yükümlü olduğu diğer kişiler için konut ya da işyeri gereksinimi sebebiyle kullanma zorunluluğu varsa, belirli süreli sözleşmelerde sürenin sonunda, belirsiz süreli sözleşmelerde kiraya ilişkin genel hükümlere göre fesih dönemine ve fesih bildirimi için öngörülen sürelere uyularak belirlenecek tarihten başlayarak bir ay içinde açacağı dava ile sona erdirebilir. Yine
 
@@ -123,27 +161,39 @@ TBK m. 355/1'e göre kiraya veren, gereksinim amacıyla kiralananın boşaltılm
 
 ## Yargıtay 3. HD 2019/2272 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/503675200)
+
 Somut olayda; davacılar, davalı ile önceki malik arasında yapılan sözlü kira sözleşmesine dayanmış ve sözleşmenin başlangıç tarihinin Haziran ayının 20. günü olduğunu belirtmiş davalı sözleşmenin başlangıç tarihine itiraz etmemiştir. Her ne kadar Mahkemece, kira sözleşmesinin süresiz olduğu ve TBK 328 ve 329. maddeleri gereğince kira bedelinin 6 aylık dönemler itibarıyla tespitinin talep edilebileceği gerekçesi ile kira bedelinin 20.06.2015 tarihinden itibaren tespitine karar verilmiş ise de; 6098 sayılı TBK'nun 344 ve 345. maddelerine göre; kira bedellerinin yıllık olarak belirleneceğinin düzenlenmiş olması karşısında olayda uygulama olanağı bulunmayan 6098 Sayılı TBK.nun 328 ve 329. maddeleri esas alınarak 20.06.2015 tarihinden itibaren kira bedelinin tespitine karar verilmesi doğru değildir. Ayrıca ... 10. Noterliği’nin 21.01.2014 tarih, 02304 yevmiye numaralı ve 24.01.2014 tebliğ tarihli ihtarnamesi ile yenilenen döneminin başlangıcından en geç otuz gün önceki bir tarihte kiraya verenler tarafından kira bedelinin artırılacağına ilişkin olarak kiracıya yazılı bildirimde bulunulmuştur.
 Bu durumda, Mahkemece yukarıda belirtilen ilkeler doğrultusunda kira bedelinin 20.06.2014 tarihinden itibaren brüt olarak tespit edilmesi gerekirken, yazılı şekilde ve net mi brüt mü olduğu belirtilmeden 20.06.2015 tarihinden itibaren kira bedelinin tespitine karar verilmesi de doğru görülmemiş, bozmayı gerektirmiştir.
 
 ## Yargıtay 3. HD 2019/1993 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/500043400)
 
 6098 Sayılı Türk Borçlar Kanunu'nun 327. maddesinde yer alan düzenlemeye göre genel hükümlere tabi kira sözleşmelerinde kira sözleşmesinin başlangıcı ve süresi belli ise kira sözleşmesinde sürenin dolması ile kira sözleşmesi kendiliğinden sona erer. Kiraya veren sözleşmenin bitim tarihinden itibaren bir ay içinde dava açarak süre bitimi nedeniyle tahliye talep edebilir. Belirli süreli kira sözleşmelerinde belirlenen sürenin dolması halinde taraflar arasında açık bir anlaşma olmaksızın kira ilişkisi sürdürülürse kira sözleşmesi belirsiz süreli sözleşmeye dönüşür. Genel hükümlere tabi kira sözleşmelerinde belirli süreli kira sözleşmesinin süresiz hale gelmemesi için kiraya veren kira süresi bitmeden veya dava açma süresi içinde kira sözleşmesini yenilemeyeceğine dair ihtarname tebliğ ettirirse kira sözleşmesi yenilenmeyeceği gibi süresiz hale de gelmez. Bu durumda her zaman süre bitimi nedeniyle tahliye davası açılabilir.
 6098 Sayılı Türk Borçlar Kanunu'nun 328. maddesinde yer alan düzenlemeye göre ise; belirsiz süreli kira sözleşmelerinde taraflardan her biri, daha uzun bir fesih bildirim süresi veya başka bir fesih dönemi kararlaştırılmış olmadıkça, yasal fesih dönemlerine ve fesih bildirim sürelerine uyarak sözleşmeyi feshedebilir. Sözleşmede veya kanunda belirtilen fesih dönemine veya bildirim süresine uyulmamışsa, bildirim bir sonraki fesih dönemi için geçerli olur.
 
 ## Yargıtay 3. HD 2019/8 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/477391900)
+
 Geçerli olan bir kira sözleşmesi ya tarafların birbirine uygun fesih bildirimi ile ya mahkeme kararı ile ya da kiralananın yok olması ile sona erer. Kiracı, kiralananı kullanımında bulundurduğu sürece kira bedeli ödemek ile yükümlüdür. Bununla birlikte kira bedelinin ödendiğini ve taşınmazın tahliye edildiğini ispat yükü kiracıya aittir. Taraflarca imzalanmış kira sözleşmesinin 8. maddesi ile kiracı için kiralananı boşaltmak istediği takdirde en az bir ay evvelinden mal sahibine ulaşacak şekilde bildirimde bulunma şartı getirilmiştir. Bu şartın kiracı tarafından yerine getirilmemiş olması nedeniyle taraflar…
 
 ## Yargıtay 20. HD 2018/7547 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/465565100)
 
 ... 1. Asliye Hukuk Mahkemesi, dava konusu taşınmazın tarafları arasında 2012 yılında yapılan kira sözleşmesi ile davalıya verildiği, kira sözleşmesinin varlığının dosyadaki noter ihtarnameleri ve ikrar ile sabit olduğu, bu kira ilişkisinin sona ermesinin ise yasanın aradığı yine yasanın aradığı şartlara uygun olması gerektiği zira 2013 yılında yapılan kira sözleşmesi bitiminden itibaren davacı tarafa herhangi bir süresinde veya karşılıklı fesih dosyaya yansımadığı, dolayısıyla aralarındaki sözleşmenin otomatik olarak belirsiz süreli kira ilişkisine dönüştüğü, aralarında bu şekilde kabul edilen ilişkinden kaynaklanan kullanım, erimisil, el atmanın önlenmesi gibi isteklerin kira ilişkisinden kaynaklanmış kabul edilerek, taraflar arasındaki kira sözleşmesi ilişkisi ve bu kira sözleşmesinin belirsiz süreli kira ilişkisine dönüşmesi dikkate alınarak HMK 2-114-115 maddeleri gereğince sulh hukuk mahkemeleri görevli olduğu gerekçesiyle görevsizlik kararı vermiştir.
 
 ## Yargıtay 3. HD 2018/11918 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/464303100)
+
 Genel Hükümlere tabi kira sözleşmesinde; sözleşme süresinin sona ermesi halinde sözleşme belirsiz süreli sözleşmeye dönüşür. Taşınmaz ve taşınır yapı kiralarıyla ilgili belirsiz süreli kira sözleşmelerinde feshi ihbar süresi Türk Borçlar Kanunun 329.maddesi hükmüne göre belirlenir. Kiralananın Konut ve Çatılı İşyerleri Kirasına tabi olması halinde ise; TBK'nun 347. Maddesi uyarınca belirli süreli sözleşmelerde kiracı tarafından sözleşme süresinin bitiminden en az onbeş gün önce bildirimde bulunmadıkça sözleşme aynı koşularla bir yıl için uzatılmış sayılır.
 
 ## Yargıtay 3. HD 2018/10496 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/470535700)
 
 2886 Sayılı Devlet İhale Kanununun 5737 Sayılı Kanunun 79/c maddesi ile değişik “Ecrimisil ve Tahliye” başlıklı 75.maddesinin 3 ve 4.fıkrasında; “kira sözleşmesinin bitim tarihinden itibaren işgalin devam etmesi halinde, sözleşmede hüküm var ise ona göre hareket edilir. Aksi halde ecrimisil alınır. İşgal edilen taşınmaz mal, idarenin talebi üzerine bulunduğu yer mülkiye amirince en geç onbeş gün içinde tahliye ettirilerek, idareye teslim edilir.” hükmü bulunmaktadır. Bu madde önceleri sadece Hazine tarafından bu Kanun hükümlerine göre kiraya verilen taşınmazlar hakkında uygulanırken, 13.07.2005 tarihinde yürürlüğe giren 5393 Sayılı Belediye Kanununun 15/p-3 maddesi hükmüyle belediye taşınmazları 5538 Sayılı Kanunun 26/b maddesi uyarınca İl Özel İdareleri ve son olarak 5737 Sayılı Kanunun 79/c maddesi uyarınca Vakıflar Genel Müdürlüğüne ait taşınmazlar
 
@@ -154,15 +204,21 @@ Dava konusu taşınmazlar 6098 sayılı Kanun kapsamında düzenlenen konut ve �
 
 ## Yargıtay 3. HD 2018/9534 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/466637300)
+
 TBK'nun 347. maddesi gereğince konut ve çatılı işyeri kiralarında kiracı, kira sözleşmesinin bitiminden en az 15 gün önce fesih bildiriminde bulunmak suretiyle sözleşmeyi feshedebilir.Davacı ile davalı ... İnş...Ltd.Şti arasında 01.09.2002 başlangıç tarihli 1 yıl süreli kira sözleşmesi mevcut olup davalı şirket tarafından davalıya hitaben 08.08.2012 tarihinde düzenlenen ve davacı tarafından da 17.08.2012 tarihinde cevap verilen ihtarname
 
 ile kira sözleşmesinin feshedileceği bildirilmiş, davacı ile davalı şirket arasında 02.09.2012 tarihinde düzenlenen tutanakta dava konusu kiralananın da içerisinde bulunduğu taşınmazların alt kiracıları ile birlikte teslim edildiği belirtilmiştir. Bu durumda, davalı ... İnş...Ltd.Şti'nin kiracılık sıfatının sona erdiğinin kabulü gerekmekte olduğundan, davacının davalı ... İnş...Ltd.Şti 'nden aralarındaki kiracılık ilişkisinin sona erdiği tarihten sonrasına ilişkin kira veya ecrimisil adı altında herhangi bir alacak talep edemeyeceği nazara alınmaksızın yazılı şekilde karar verilmesi doğru değildir.
 
 ## Yargıtay 8. HD 2018/16545 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/476451800)
+
 Taşınmaz ve taşınır yapı ......larıyla ilgili belirsiz süreli ...... sözleşmelerinde fesih ihbar süresi Türk Borçlar Kanunu'nun 329. maddesi hükmüne göre belirlenir. Anılan madde hükmü gereğince belirsiz süreli sözleşmelerde 6 (altı) aylık dönem için 3 (ay) önceden ......cıya fesih bildiriminin tebliğ ettirilmesi ve o dönem sonunda tahliye davası açılması gerekir. Fesih dönemlerinin hesabında ...... sözleşmesinin başlangıç tarihi esas alınır. Sözleşmede veya kanunda belirtilen fesih dönemine veya bildirim süresine uyulmamışsa, bildirim bir sonraki fesih dönemi için geçerli olur.
 
 ## Yargıtay 3. HD 2018/7676 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/430056400)
 
 6098 Sayılı Türk Borçlar Kanunu 327. maddesinde yer alan düzenlemeye göre genel hükümlere tabi kira sözleşmelerinde kira sözleşmesinin başlangıcı ve süresi belli ise kira sözleşmesinde sürenin dolması ile kira sözleşmesi kendiliğinden sona erer. Kiraya veren sözleşmenin bitim tarihinden itibaren bir ay içinde dava açarak süre bitimi nedeniyle tahliye talep edebilir. Belirli süreli kira sözleşmelerinde belirlenen sürenin dolması halinde taraflar arasında açık bir anlaşma olmaksızın kira ilişkisi sürdürülürse kira sözleşmesi belirsiz süreli sözleşmeye dönüşür. Genel hükümlere tabi kira sözleşmelerinde belirli süreli kira sözleşmesinin süresiz hale gelmemesi için kiraya veren kira süresi bitmeden veya dava açma süresi içinde kira sözleşmesini yenilemeyeceğine dair ihtarname tebliğ ettirirse kira sözleşmesi yenilenmeyeceği gibi süresiz hale de gelmez. Bu durumda her zaman süre bitimi nedeniyle tahliye davası açılabilir.
 6098 Sayılı Türk Borçlar Kanunu 328. maddesinde yer alan düzenlemeye göre ise; belirsiz süreli kira sözleşmelerinde taraflardan her biri, daha uzun bir fesih bildirim süresi veya başka bir fesih dönemi kararlaştırılmış olmadıkça, yasal fesih dönemlerine ve fesih bildirim sürelerine uyarak sözleşmeyi feshedebilir. Sözleşmede veya kanunda belirtilen fesih dönemine veya bildirim süresine uyulmamışsa, bildirim bir sonraki fesih dönemi için geçerli olur.

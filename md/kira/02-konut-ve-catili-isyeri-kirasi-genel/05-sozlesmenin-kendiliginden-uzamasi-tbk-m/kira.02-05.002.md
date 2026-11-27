@@ -22,22 +22,32 @@ uyari: "Derleyenin seçtiği alıntılardır; kararın tamamı değildir. Künye
 
 ## Yargıtay 6. HD 2016/6933 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/326534400)
+
 6101 Sayılı TBK’nın Yürürlüğü ve Uygulama Şekli Hakkındaki Kanunun geçici 2. maddesi gereğince TBK’nun 347.maddesi 01.07.2014 tarihinden itibaren uygulanmaya başlanacak olup, TBK 347.madde metninde de görüleceği üzere ihtar ‘’…her uzama yılının bitiminden itibaren en az üç ay önce...’’yapılmalıdır denilmekle, kanunun düzenlemesinden verilen üç aylık sürenin asgari süre olduğu bildirimin uzama yılının bitimine üç ay kala kiracının elinde olmasının yeterli olduğu anlaşılmaktadır. 6101 Sayılı Yasanın Geçici 2. maddesi ile TBK.347 maddesinde verilen fesih imkanının konut ve çatılı işyeri kiraları sözleşmeleri bakımından bir defaya mahsus olmak üzere ertelenmesinin gerekçesi; TBK.nın 347/1 maddesinin derhal uygulanması sonucunda kiracıların zarara veya mağduriyete…
 
 ## Yargıtay 6. HD 2016/6310 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/270514000)
+
 6098 Sayılı Türk Borçlar Kanunu'nun 347/....maddesi hükmüne göre konut ve çatılı işyeri kiralarında kiracı, belirli süreli sözleşmelerin süresinin bitiminden en az ... gün önce bildirimde bulunmadıkça, sözleşme aynı koşullarla bir yıl için uzatılmış sayılır. Kiraya veren sözleşme süresinin bitimine dayanarak sözleşmeyi sona erdiremez. Ancak, on yıllık uzama süresi sonunda kiraya veren, bu süreyi izleyen her uzama yılının bitiminden en az üç ay önce bildirimde bulunmak koşuluyla herhangi bir sebep göstermeksizin sözleşmeye son verebilir.
 
 ## Yargıtay 6. HD 2016/5635 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/269224300)
 
 ...-Asıl davada, davalının makul süre kira alacağa ilişkin temyiz itirazlarına gelince; Davaya dayanak yapılan ve hükme esas alınan 01/.../2012 başlangıç tarihli kira sözleşmesi konusunda taraflar arasında uyuşmazlık bulunmamaktadır. Uyuşmazlık, kira sözleşmesinin süresine ilişkindir. Kira sözleşmesinin ön yüzünde kira süresi ... yıl olarak belirtilmiş olup sözleşmesinin özel maddeleri kısmı, .... maddesinde " Sözleşme süresi ... (bir) yıl olup, aylık kira bedeli ....000 TL 01.....2013 tarihine kadar muteberdir. Uzayan ikinci yıl kirası Devlet İstatistik Kurumu (TÜİK)'nun açıklayacağı TEFE+TÜFE'nin ortalaması oranında arttırılarak belirlenecektir." düzenlemesi yer almaktadır. Mahkemece, her ne kadar kira sözleşmesinin ... yıl için yapılmış olduğu kabul edilmiş ise de sözleşmenin özel maddeleri .... maddede sözleşmenin süresinin ... yıl olduğu açıkça ortaya konulmuş, takiben uzayan dönem için kira artışı koşulu düzenlenmiştir. Bu durumda kira sözleşmesinin ... yıl süreli olduğunun kabulü gerekir. TBK.nun 347.maddesi uyarınca, kiracı, sözleşmenin bitiminden en az ... gün önce yazılı bildirim koşuluyla herhangi bir sebep göstermeksizin sözleşmeye son verebilir.
 Nitekim; davalı 01/.../2013 tarihli ihtarname ile sözleşmenin bitim tarihi 30/.../2013 tarihi itibariyle feshedildiğini ihtar etmiş, kiralananı tahliye ederek, kiralanana ait anahtarları 27/.../2013 tarihli emanet tutanağı ile notere teslim etmiştir. Emanet tutanağının davacıya hangi tarihte tebliğ edildiği dosya kapsamından anlaşılamamaktadır ancak davacı 28/.../2013 tarihinde kiralananda tespit yaptırmış olup bu durumda kiralananın anahtarlarının en geç bu tarihte davacıya teslim edildiğinin kabulü gerekir. Kiracı, sözleşmenin bitim tarihinden önce TBK.nun 347.maddesi gereğince ... gün önceden sözleşmeyi yenilemeyeceğini ihtar edip, anahtarların 28/.../2013 tarihinde teslim edildiği kabul edildiğine göre Kasım 2013 kira bedelinin ödenip ödenmediği üzerinde durularak bu aya ilişkin kira bedeli ödenmiş ise makul süre kira bedeline yönelik talebin reddine karar verilmesi, ödenmemiş ise tahliye tarihinden kira sözleşmesinin sonu olan 30/.../2013 tarihine kadar olan kira bedeli yönünden istemin kabulüne karar verilmesi gerekirken yazılı şekilde hüküm kurulması doğru değildir.
 
 ## Yargıtay 6. HD 2016/4634 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/225519300)
+
 TBK.nun 347. maddesinde; "Konut ve çatılı işyeri kiralarında kiracı, belirli süreli sözleşmelerin süresinin bitiminden en az onbeş gün önce bildirimde bulunmadıkça, sözleşme aynı koşullarla bir yıl için uzatılmış sayılır. Kiraya veren, sözleşme süresinin bitimine dayanarak sözleşmeyi sona erdiremez."…
 
 ## Yargıtay 6. HD 2016/4511 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/225095600)
 
 6101 Sayılı TBK’nın Yürürlüğü ve Uygulama Şekli Hakkındaki Kanunun geçici 2. maddesi gereğince TBK’nun 347.maddesi 01.07.2014 tarihinden itibaren uygulanmaya başlanacak olup, TBK 347.madde metninde de görüleceği üzere ihtar ‘’…her uzama yılının bitiminden itibaren en az üç ay önce...’’yapılmalıdır denilmekle, kanunun düzenlemesinden verilen üç aylık sürenin asgari süre olduğu bildirimin uzama yılının bitimine üç ay kala kiracının elinde olmasının yeterli olduğu anlaşılmaktadır. 6101 Sayılı Yasanın Geçici 2. maddesi ile TBK.347 maddesinde verilen fesih imkanının konut ve çatılı işyeri kiraları sözleşmeleri bakımından bir defaya mahsus olmak üzere ertelenmesinin gerekçesi; TBK.nun 347/1 maddesinin derhal uygulanması sonucunda kiracıların zarara veya mağduriyete
 
@@ -45,13 +55,19 @@ uğramalarının ve doğması muhtemel sorunların önlenmesidir. 6101 Sayılı 
 
 ## Yargıtay 6. HD 2016/4059 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/211273600)
+
 6101 Sayılı TBK’nın Yürürlüğü ve Uygulama Şekli Hakkındaki Kanunun geçici 2. maddesi gereğince TBK’nun 347.maddesi 01.07.2014 tarihinden itibaren uygulanmaya başlanacak olup, TBK 347.madde metninde de görüleceği üzere ihtar “…her uzama yılının bitiminden itibaren en az üç ay önce...” yapılmalıdır denilmekle, kanunun düzenlemesinden verilen üç aylık sürenin asgari süre olduğu, bildirimin uzama yılının bitimine üç ay kala kiracının elinde olmasının yeterli olduğu anlaşılmaktadır. 6101 Sayılı Yasanın Geçici 2. maddesi ile TBK.347 maddesinde verilen fesih imkanının konut ve çatılı işyeri kiraları sözleşmeleri bakımından bir defaya mahsus olmak üzere ertelenmesinin gerekçesi; TBK.nun 347/1 maddesinin derhal uygulanması sonucunda kiracıların zarara veya mağduriyete uğramalarının ve doğması muhtemel sorunların önlenmesidir. 6101 Sayılı Yasanın geçici 2. maddesinden dava açma için şart olunan bildirim tarihinin de 01.07.2014 tarihine kadar ertelendiği anlamı çıkarılamaz.
 
 ## Yargıtay 6. HD 2016/3933 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/230979600)
+
 Davada dayanılan 10/03/2009 başlangıç tarihli ve üç yıl süreli kira sözleşmesi konusunda taraflar arasında uyuşmazlık bulunmamaktadır. Sözleşmenin hususi şartlar bölümü 19. maddesinde "Kontratın sona ermesinden bir ay evvel taraflar yazılı olarak ihtarda bulunmadıkları sürece kontrat yenilenmiş sayılır." hükmü yer almaktadır. Kira sözleşmesinde tahliye için sözleşme sona ermeden belli süre önce feshi ihbar koşulu öngörülmüş ise, bu şart geçerli olduğundan buna uyularak uygun süreli ihbarı takiben kira sözleşmesinin sonunda dava açılması gerekir. Sözleşmenin bu hükmü gereğince davacı tarafından sözleşme bitim tarihinden bir ay önce davalıya gönderilen yazılı bir ihtar bulunmadığından kira sözleşmesi TBK'nın 347 maddesi gereğince aynı koşullarla bir yıl süre ile uzamış olduğundan 23/09/2014 tarihinde açılan dava süresinde değildir. Açıklanan bu olgu karşısında süresinde açılmayan ihtiyaç nedeniyle tahliye davanın reddine karar verilmesi gerekir.
 
 ## Yargıtay 6. HD 2016/2799 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/211445200)
 
 6098 Sayılı Türk Borçlar Kanunu'nun 347/1.maddesi hükmüne göre konut ve çatılı işyeri kiralarında kiraya veren sözleşme süresinin bitimine dayanarak sözleşmeyi sona erdiremez. Ancak, on yıllık uzama süresi sonunda kiraya veren, bu süreyi izleyen her uzama yılının bitiminden en az üç ay önce bildirimde bulunmak koşuluyla herhangi bir sebep göstermeksizin sözleşmeye son verebilir. 6101 Sayılı Türk Borçlar Kanununun Yürürlüğü ve Uygulama Şekli Hakkında Kanunun Geçici 2.maddesi uyarınca, bu Kanunun yürürlüğe girmesinden önce TBK’nun 347.maddesinin birinci fıkrasının son cümlesinde öngörülen kira sözleşmelerinden 10 yıllık uzama süresi dolmamış olmakla birlikte geri kalan süre beş yıldan daha kısa olanlar hakkında yürürlüğe girdiği tarihten itibaren beş yıl, on yıllık uzama
 
@@ -59,10 +75,14 @@ süresi dolmuş olanlar hakkında da yürürlüğe girdiği tarihten itibaren 2 
 
 ## Yargıtay 6. HD 2016/2442 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/215550000)
+
 6101 Sayılı TBK.nun Yürürlüğü ve Uygulama Şekli Hakkındaki Kanunun geçici 2. Maddesi gereğince TBK.nun 347.maddesi 01.07.2014 tarihinden itibaren uygulanmaya başlanacak olup, TBK 347.madde metninde de görüleceği üzere ihtar ‘’…her uzama yılının bitiminden itibaren en az üç ay önce...’’yapılmalıdır denilmekle, kanunun düzenlemesinden verilen üç aylık sürenin asgari süre olduğu bildirimin uzama yılının bitimine üç ay kala kiracının elinde olmasının yeterli olduğu anlaşılmaktadır. 6101 Sayılı Yasanın Geçici 2. maddesi ile TBK 347 maddesinde verilen fesih imkanının konut ve çatılı işyeri kiraları sözleşmeleri bakımından bir defaya mahsus olmak üzere ertelenmesinin gerekçesi; TBK.nun 347/1 maddesinin derhal uygulanması sonucunda kiracıların zarara veya mağduriyete uğramalarının ve doğması muhtemel sorunların önlenmesidir. Somut olayda; yasada belirtilen 10 yılık uzama süresi dolmuş olup , 6098 Sayılı Kanuna uygun olacak şekilde üç ay önceden de bildirim yapılmıştır.
 Açıklanan bu nedenlerle 25.07.2014 tarihinde tebliğ edilen ihtarname uyarınca 14.1.2015 tarihinde dava süresinde açıldığından kiralananın tahliyesine karar verilmesi gerekirken yazılı gerekçeyle davanın reddine karar verilmesi doğru değildir.
 
 ## Yargıtay 6. HD 2016/710 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/208117200)
 
 6098 sayılı TBK'nun 347.maddesi gereğince konut ve çatılı işyeri kiralarında kiracı belirli süreli sözleşmelerin süresinin bitiminden en az 15 gün önce bildirimde bulunmadıkça sözleşme aynı koşullarla bir yıl için uzatılmış sayılır.Taraflar arasında 23.03.2009 tanzim ve 01.04.2009 başlangıç ve 31.12.2009 bitiş tarihli sözleşme düzenlendiği hususunda uyuşmazlık bulunmamaktadır. Dairemizin bozma ilamında açıklandığı üzere sözleşme ile amaçlanan husus otelin sınırlı süre ve belli bir bedel karşılığında davalıya bırakılması olup bu durumda davalının taşınmazda bulunmasının kira ilişkisi olarak nitelendirilmesi ve 01.04.2009 başlangıç tarihli sözleşmenin kira sözleşmesi olarak kabulü gerekir. Davalı kiracı tarafından kira süresinin bitiminden önce kiralayana bir feshi ihbar gönderilmediği gibi tahliye ve anahtar teslimine ilişkin yazılı bir belge sunulamamış, davacı tarafça davalının 01.03.2010 tarihinde kiralanan oteli tahliye ettiği bildirilmiştir. Davalı kiracı kiralananın daha önce tahliye edildiğine dair yazılı bir belge sunamadığına göre tahliye tarihinin 01.03.2010 tarihi olarak kabulü gerekir.
 Bu durumda taraflar arasındaki kira sözleşmesinin 1yıl süre ile yenilendiği ve kiracının yenilenen kira dönemi bitmeden taşınmazı 01.03.2010 tarihinde tahliye etmesi nedeniyle kural olarak kiracı dönem sonuna kadarki kiralardan sorumludur. Buna karşın kiralayanın da, kendi üzerine düşen görevi yapması, kiralananın yeniden kiraya verilebilmesi için gayret göstermesi, böylece zararın artmasını önlemesi, dava tarihinde yürürlükte bulunan 818 sayılı Borçlar Kanunu’nun 98. maddesinin yollaması ile aynı kanunun 44. maddesi (01.07.2012 tarihinde yürürlüğe giren 6098 sayılı Türk Borçlar Kanunu'nun 114.maddesinin yollaması ile aynı kanunun 52.maddesi) hükmü gereğidir. Bu durumda davacının zararı, tahliye tarihinden itibaren kiralananın aynı koşullarla yeniden kiraya verilebileceği tarihe kadar boş kaldığı süreye ilişkin kira parasından ibarettir. Mahkemece, dava konusu kiralanan taşınmazın aynı
@@ -71,13 +91,19 @@ koşullarla ne kadar süre içinde kiraya verilebileceği hususunda uzman bilirk
 
 ## Yargıtay 6. HD 2016/680 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/159728000)
+
 6101 Sayılı TBK’nın Yürürlüğü ve Uygulama Şekli Hakkındaki Kanunun geçici 2. Maddesi gereğince TBK’nun 347.maddesi 01.07.2014 tarihinden itibaren uygulanmaya başlanacak olup, TBK 347.madde metninde de görüleceği üzere ihtar ‘’…her uzama yılının bitiminden itibaren en az üç ay önce...’’yapılmalıdır denilmekle, kanunun düzenlemesinden verilen üç aylık sürenin asgari süre olduğu bildirimin uzama yılının bitimine üç ay kala kiracının elinde olmasının yeterli olduğu anlaşılmaktadır. 6101 Sayılı Yasanın Geçici 2. maddesi ile TBK 347 maddesinde verilen fesih imkanının konut ve çatılı işyeri kiraları sözleşmeleri bakımından bir defaya mahsus olmak üzere ertelenmesinin gerekçesi; TBK 347/1 maddesinin derhal uygulanması sonucunda kiracıların zarara veya mağduriyete uğramalarının ve doğması muhtemel sorunların önlenmesidir.
 
 ## Yargıtay 6. HD 2016/537 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/159771700)
+
 6098 sayılı Türk Borçlar Kanun 347. maddesinde; “Konut ve çatılı işyeri kiralarında kiracı, belirli süreli sözleşmelerin süresinin bitiminden en az on beş gün önce bildirimde bulunmadıkça, sözleşme aynı koşullarla bir yıl için uzatılmış sayılır. Kiraya veren, sözleşme süresinin bitimine dayanarak sözleşmeyi sona erdiremez. Ancak, on yıllık uzama süresi sonunda kiraya veren, bu süreyi izleyen her uzama yılının bitiminden en az üç ay önce bildirimde bulunmak koşuluyla, herhangi bir sebep göstermeksizin sözleşmeye son verebilir. 6101 sayılı Türk Borçlar Kanunun Yürürlüğü ve Uygulama Şekli Hakkında Kanunun geçici 2. maddesinde de; “Bu Kanunun 1 inci maddesinin son cümlesi hükmü bir defaya mahsus olmak üzere, bu Kanunun yürürlüğe girmesinden önce Türk Borçlar Kanunu'nun 347 nci maddesinin birinci fıkrasının son cümlesinde öngörülen kira sözleşmelerinden on yıllık uzama süresi dolmamış olmakla birlikte geri kalan süre beş yıldan daha kısa olanlar hakkında, yürürlüğe girdiği tarihten itibaren beş yıl; on yıllık uzama süresi dolmuş olanlar hakkında da yürürlüğe girdiği tarihten itibaren iki yıl sonra uygulanır.” düzenlemesi bulunmaktadır.
 
 ## Yargıtay 6. HD 2016/401 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/160410200)
 
 6101 Sayılı TBK’nın Yürürlüğü ve Uygulama Şekli Hakkındaki Kanunun geçici 2. maddesi gereğince TBK’nun 347.maddesi 01.07.2014 tarihinden itibaren uygulanmaya başlanacak olup, TBK 347.madde metninde de görüleceği üzere ihtar ‘’…her uzama yılının bitiminden itibaren en az üç ay önce...’’ yapılmalıdır denilmekle, kanunun düzenlemesinden verilen üç aylık sürenin asgari süre olduğu bildirimin uzama yılının bitimine üç ay kala kiracının elinde olmasının yeterli olduğu anlaşılmaktadır. 6101 Sayılı Yasanın Geçici 2. maddesi ile TBK.347. maddesinde verilen fesih imkanının konut ve çatılı işyeri kiraları sözleşmeleri bakımından bir defaya mahsus olmak üzere ertelenmesinin gerekçesi; TBK.nun 347/1 maddesinin derhal uygulanması sonucunda kiracıların zarara veya mağduriyete
 
@@ -85,26 +111,38 @@ uğramalarının ve doğması muhtemel sorunların önlenmesidir. 6101 Sayılı 
 
 ## Yargıtay 6. HD 2015/10763 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/141728900)
+
 6101 Sayılı TBK’nın Yürürlüğü ve Uygulama Şekli Hakkındaki Kanunun geçici 2. Maddesi gereğince TBK’nun 347.maddesinin, birinci fıkrasının son cümlesinde öngörülen on yıllık uzama süresi dolmuş olan sözleşmeler yönünden 01.07.2014 tarihinden itibaren uygulanmaya başlanacak olup, TBK 347.madde metninde de görüleceği üzere ihtar ‘’…her uzama yılının bitiminden itibaren en az üç ay önce...’’yapılmalıdır denilmekle, kanunun düzenlemesinden verilen üç aylık sürenin asgari süre olduğu bildirimin uzama yılının bitimine üç ay kala kiracının elinde olmasının yeterli olduğu anlaşılmaktadır. 6101 Sayılı Yasanın Geçici 2. maddesi ile TBK 347 maddesinde verilen fesih imkanının konut ve çatılı işyeri kiraları sözleşmeleri bakımından bir defaya mahsus olmak üzere ertelenmesinin gerekçesi; TBK 347/1 maddesinin derhal uygulanması sonucunda kiracıların zarara veya mağduriyete uğramalarının ve doğması muhtemel sorunların önlenmesidir. Kanunun bu düzenlemesinden kira sözleşmelerinin uzama tarihinde kanunun yürürlüğe girdiği 01.07.2014 tarihi esas alındığı bu tarihe nazaran en az üç ay önceden kiracıya ihtar gönderilmesi gerektiği sonucu çıkarılamaz.
 
 ## Yargıtay 6. HD 2015/10639 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/145982000)
 
 Kiralanana ait yazılı kira sözleşmesinin 01/01/2005 başlangıç tarihli ve bir yıl süreli olduğu konusunda bir uyuşmazlık bulunmamaktadır. Kira sözleşmesi TBK.' nun 347/1 maddesi gereğince kiracı bir yıl olan süresinin bitiminden en az on beş gün önce bildirimde bulunmadığından aynı koşullarla birer yıl süre ile uzayarak davanın açıldığı tarihe nazaran 01/01/2015 tarihinde sona ermiştir. Dava yukarıda açıklaması yapılan TBK.'nun 350/2 maddesi gereğince 24/10/2014 tebliğ tarihli ihtarname ile dava açma süresi de korunarak sözleşme bitiminde bir ay içinde 07/01/2015 tarihinde süresinde açıldığı halde yazılı gerekçe ile davanın süreden reddine karar verilmesi usul ve yasaya aykırıdır.
 
 ## Yargıtay 6. HD 2015/10394 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/150129100)
+
 6101 Sayılı TBK’nın Yürürlüğü ve Uygulama Şekli Hakkındaki Kanunun geçici 2. maddesi gereğince TBK’nun 347.maddesi 01.07.2014 tarihinden itibaren uygulanmaya başlanacak olup, TBK'nun 347.madde metninde de görüleceği üzere ihtar ‘’…her uzama yılının bitiminden itibaren en az üç ay önce...’’yapılmalıdır denilmekle, kanunun düzenlemesinden verilen üç aylık sürenin asgari süre olduğu bildirimin uzama yılının bitimine üç ay kala kiracının elinde olmasının yeterli olduğu anlaşılmaktadır. 6101 Sayılı Yasanın Geçici 2. maddesi ile TBK'nun347 maddesinde verilen fesih imkanının konut ve çatılı işyeri kiraları sözleşmeleri bakımından bir defaya mahsus olmak üzere ertelenmesinin gerekçesi; TBK.un 347/1 maddesinin derhal uygulanması sonucunda kiracıların zarara veya mağduriyete uğramalarının ve doğması muhtemel sorunların önlenmesidir. 6101 Sayılı Yasanın geçici 2. maddesinden dava açma için şart olunan bildirim tarihinin de 01.07.2014 tarihine kadar ertelendiği anlamı çıkarılamaz.
 
 ## Yargıtay 6. HD 2015/10173 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/149747600)
 
 6098 Sayılı Türk Borçlar Kanunu'nun 347. maddesi hükmü gereğince konut ve çatılı işyeri kiralarında kiracı, belirli süreli sözleşmelerin süresinin bitiminden en az onbeş gün önce bildirimde bulunmadıkça, sözleşme aynı koşullarla bir yıl için uzatılmış sayılır. Kiraya veren, sözleşme süresinin bitimine dayanarak sözleşmeyi sona erdiremez. Ancak, on yıllık uzama süresi sonunda kiraya veren, bu süreyi izleyen her uzama yılının bitiminden en az üç ay önce bildirimde bulunmak koşuluyla, herhangi bir sebep göstermeksizin sözleşmeye son verebilir. Her ne kadar taraflar arasındaki kira ilişkisi daha öncesine dayalı olsa bile taraflarca yeni bir sözleşme yapılarak 01.12.2005 başlangıç tarihli 1 yıl süreli yazılı kira sözleşmeleri imzalanmıştır. Bu sözleşmelere göre, Türk Borçlar Kanununun 347.maddesinin 1. fıkrasının son cümlesinde öngörülen hükmün uygulanabilmesi için 01/12/2006 tarihinden itibaren sözleşmenin kendiliğinden yıldan yıla yenilenerek uzaması, bu şekildeki yenilemenin on yıllık uzama süresine ulaşması gerekir.
 Somut olayda en son düzenlenen yazılı kira sözleşmesine göre on yıllık uzama süresi dolmamış olduğu halde, mahkemece taraflar arasındaki kira ilişkisinin süresi esas alınarak yazılı şekilde kiralananın tahliyesine karar verilmesi doğru olmadığından hükmün bu sebeple bozulması gerekmiştir.
 
 ## Yargıtay 6. HD 2015/9757 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/160349000)
+
 Olayımıza gelince; davada dayanılan ve hükme esas alınan 01.11.2003 başlangıç tarihli, 10 yıl süreli kira sözleşmesi konusunda taraflar arasında uyuşmazlık bulunmamaktadır. Sözleşmenin hususi şartlar 3. maddesinde " Kira süresinin sonundan 1 ay evvel taraflardan herhangi biri feshi ihbarda bulunmadığı takdirde kira sözleşmesi birer yıllık dönemler için uzayacaktır. " düzenlenmesi bulunmaktadır. Anılan sözleşme hükmü geçerli olup davacıyı bağlar, bu hüküm gereğince davacı tarafından sözleşme bitim tarihinden bir ay önce davalıya gönderilen yazılı bir ihtar bulunmadığından kira sözleşmesi TBK'nın 347 maddesi gereğince aynı koşullarla bir yıl süre ile uzamış olduğundan 18.11.2013 tarihinde açılan dava süresinde değildir. Açıklanan bu olgu karşısında süresinde açılmayan davanın reddine karar verilmesi gerekirken yazılı şekilde kiralananın tahliyesine karar verilmesi doğru değildir.
 
 ## Yargıtay 6. HD 2015/8395 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/129350600)
 
 Taraflar arasında 01.01.1994 başlangıç tarihli ve 1 yıl süreli kira sözleşmesi bulunduğu,1.8.2011 tarihinde 1 yıl süreli ikinci bir sözleşme imzalandığı,kiralananın çatılı işyeri olduğu hususlarında uyuşmazlık bulunmamaktadır. Davalı kiralayan tarafından,TBK 347.maddesinde düzenlenen 10 yıllık uzama süresi dolmuş olduğundan bahisle davacı hakkında Ankara 5.İcra Müdürlüğünün 2014/16113 esas sayılı icra dosyasında tahliye istekli takip başlatıldığı, davacı kiracıya örnek 14 tahliye emri gönderilmesi üzerine iş bu davanın açıldığı görülmüştür. İİK'nun 272.maddesinde yer alan taşınmazların tahliyesine ilişkin düzenleme TBK'da düzenlenen çatılı işyeri niteliğindeki taşınmazların tahliyesinde uygulanamaz. Zira TBK da çatılı işyerlerinin tahliye sebepleri sınırlı şekilde sayılmış olup,bu tahliye sebeplerinin genişletilmesi mümkün değildir. Davalı kiralayan TBK nun 347.maddesi gereğince 10 yıllık uzama süresi dolduğundan bahisle tahliye davasını ancak
 
@@ -112,27 +150,39 @@ genel mahkemede(Sulh Hukuk Mahkemesi) açabilir, İİK'nun 272.maddesi gereğinc
 
 ## Yargıtay 6. HD 2015/7890 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/125465000)
+
 TBK. nun Yürürlüğü ve Uygulama Şekli Hakkında 6101 sayılı kanunun geçici 2. maddesinde TBK.nun 347. maddesinin 1. fıkrasının son cümlesinde öngörülen "kira sözleşmelerinden on yıllık uzama süresi dolmamış olmakla birlikte geri kalan süre beş yıldan daha kısa olanlar hakkında yürürlüğe girdiği tarihten itibaren beş yıl, on yıllık uzama süresi dolmuş olanlar hakkında da yürürlüğe girdiği tarihten itibaren iki yıl sonra uygulanır" hükmüne yer verilmiştir.
 
 ## Yargıtay 6. HD 2015/7628 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/126848400)
+
 Borçlar Kanunu'nun adi kira hükümlerine tabi kira sözleşmelerinde kira süresinin taraflarca tayin edilmesi halinde sözleşmenin sona erme hali TBK.nun 327. maddesinde düzenlenmiştir. Sözleşmedeki sürenin bitimini takip eden bir ay içinde kiralayan, İİK.'nun 272. maddesi gereğince icra dairesinden tahliye isteyebileceği gibi dilerse mahkemeden de tahliye isteminde bulunabilir. TBK.nun 347. maddesi gereğince konut ve çatılı işyeri kiralarında kiracı, belirli süreli sözleşmelerin süresinin bitiminden en az on beş gün önce bildirimde bulunmadıkça, kira sözleşmesi aynı koşullarla bir yıl uzatılmış sayılır. Taşınmazın kahvehane olarak kiralandığı ve kiralananın genel hükümlere tabi olmayıp konut ve çatılı işyeri kiraları hükümlerine tabi bulunduğu anlaşılmaktadır.
 
 ## Yargıtay 6. HD 2015/6450 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/137698300)
 
 6101 Sayılı TBK’nın Yürürlüğü ve Uygulama Şekli Hakkındaki Kanunun geçici 2. Maddesi gereğince TBK’nun 347.maddesi 01.07.2014 tarihinden itibaren uygulanmaya başlanacak olup, TBK 347.madde metninde de görüleceği üzere ihtar ‘’…her uzama yılının bitiminden itibaren en az üç ay önce...’’yapılmalıdır denilmekle, kanunun düzenlemesinden verilen üç aylık sürenin asgari süre olduğu bildirimin uzama yılının bitimine üç ay kala kiracının elinde olmasının yeterli olduğu anlaşılmaktadır. 6101 Sayılı Yasanın Geçici 2. maddesi ile TBK 347 maddesinde verilen fesih imkanının konut ve çatılı işyeri kiraları sözleşmeleri bakımından bir defaya mahsus olmak üzere ertelenmesinin gerekçesi; TBK 347/1 maddesinin derhal uygulanması sonucunda kiracıların zarara veya mağduriyete uğramalarının ve doğması muhtemel sorunların önlenmesidir. 6101 Sayılı Yasanın geçici 2. Maddesinden dava açma için şart olunan bildirim tarihinin de 01.07.2014 tarihine kadar ertelendiği anlamı çıkarılamaz. Somut olayda; hem 6098 Sayılı Kanuna uygun olarak kiracı zararına veya mağduriyetine mahal vermeyecek şekilde üç ay önceden bildirim yapılmıştır.
 Açıklanan bu nedenlerle 10.03.2014 keşide tarihli ihtarname süresinde olduğundan dava da süresinde açıldığından kira sözleşmesinin sona ermesi nedeniyle kiralananın tahliyesine karar verilmesi gerekirken yazılı gerekçeyle davanın reddine karar verilmesi doğru değildir.
 
 ## Yargıtay 6. HD 2015/5644 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/131151000)
+
 Kira parası, Türk Borçlar Kanunu'nun 299. maddesinde yer alan, kira akdinin esaslı unsurlarındandır. Yine, kiralanan taşınmazın, niteliği itibarı ile TBK.nun 339. ve devamı maddelerinde düzenlenen konut ve çatılı iş yeri kiralarının uygulama alanı içinde bulunması durumunda asıl olan, kira müddetinin sonunda da kira akdinin devam etmesidir. Nitekim bu konuda TBK'nun 347. maddesinde '' Konut ve çatılı işyeri kiralarında kiracı, belirli süreli sözleşmelerin süresinin bitiminden en az onbeş gün önce bildirimde bulunmadıkça, sözleşme aynı koşullarla bir yıl için uzatılmış sayılır. Kiraya veren, sözleşme süresinin bitimine dayanarak sözleşmeyi sona erdiremez '' düzenlemesi bulunmaktadır. Ancak uzayan dönemde tarafların kira parasına ilişkin olarak ihtilafa düşmeleri halinde sözleşmede doğan bu boşluk, TBK.nun 344. ve 345. maddeleri uyarınca hâkim tarafından doldurulur. Taraflar arasında, kira sözleşmesinin devam ettiği anlaşıldığından aralarındaki yazışmalar TBK'nun 1. ve devamı maddelerindeki sözleşmenin kurulmasına ilişkin hükümlere göre yorumlanıp değerlendirilemez.
 Yukarıda belirtildiği üzere konut ve çatılı iş yerlerine ilişkin kira sözleşmeleriyle ilgili özel düzenlemeler mevcut olup taraflar arasındaki yazışmalar kira bedelinde anlaşamadıklarını göstermektedir. Davacının, davalının ödediği kira bedelini alması veya sessiz kalması, bedeli kabul ettiği anlamına gelmez, sözleşmede artış şartı bulunduğundan davacı kiraya veren TBK.nun 345/3 maddesi gereği yeni dönemin sonuna kadar istediği zaman bedel tespiti davası açabilir. Kaldı ki davacının 11.12.2013 tarihli ilk teklifine, ikinci teklif götürülene kadar davalı yanca verilmiş bir cevap da bulunmadığı gibi yazılı veya sözlü anlaşma olduğunu ya da davacının bedeli kabul ettiğini gösteren bir delil de dosya içerisinde bulunmamaktadır. Bundan ayrı devam eden kira sözleşmelerinde dahi şartları bulunduğu takdirde uyarlama davaları yoluyla hakimin sözleşmeye müdahalesinin talep edilmesi her zaman mümkündür.
 
 ## Yargıtay 6. HD 2015/3202 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/146826100)
+
 6098 Sayılı Türk Borçlar Kanunu 01.07.2012 tarihinde yürürlüğe girmiş olup, 6101 Sayılı Yürürlük Kanun'unun Geçici 2.maddesi uyarınca TBK.nun 347/1-son cümlesinde öngörülen kira sözleşmelerinden on yıllık uzama süresi dolmamış olmakla birlikte geri kalan süre beş yıldan daha kısa olanlar hakkında yürürlüğe girdiği tarihten itibaren beş yıl, on yıllık uzama süresi dolmuş olanlar hakkında da yürürlüğe girdiği tarihten itibaren iki yıl sonra uygulanır düzenlemesi bulunmaktadır. 6101 Sayılı Yürürlük Kanun'unun Geçici 2.maddesi ile TBK.nun 347/1-son cümlesi hükmünün uygulanması; Yürürlük tarihinde on yıllık uzama süresi dolmuş olan kira sözleşmeleri ile, on yıllık uzama süresi dolmamış olmakla birlikte geri kalan süre beş yıldan kısa olan kira sözleşmeleri yönünden uygulanması belli sürelerle ertelenmiştir.
 
 ## Yargıtay 6. HD 2015/2985 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/150199800)
 
 Olayımıza gelince; hükme esas alınan ve taraflar arasında bir uyuşmazlık bulunmayan 1.5.2010 başlangıç tarihli 3 yıl süreli kira sözleşmesinin 19. maddesinde sözleşme bitim tarihi itibariyle tarafların fesih hususundaki iradelerini bir ay evvel yazılı olarak bildirmeleri aksi halde sözleşmenin yenilenmiş kabul edileceği hüküm altına alınmıştır.Anılan sözleşme hükmü geçerli olup davacıyı bağlar anılan bu hüküm gereğince davacı tarafından sözleşme bitim tarihinden bir ay önce davalıya gönderilen yazılı bir ihtar bulunmadığından kira sözleşmesi TBK'nın 347 maddesi gereğince aynı koşullarla bir yıl süre ile uzamış
 
@@ -140,15 +190,21 @@ olduğundan 31.5.2013 tarihinde açılan dava süresinde değildir.Açıklanan b
 
 ## Yargıtay 6. HD 2015/2655 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/149583500)
+
 Olayımıza gelince; Hükme esas alınan ve taraflar arasında uyuşmazlık konusu olmayan 01/01/2010 başlangıç tarihli 2 yıl süreli kira sözleşmesinin 8. maddesinde, kiracı kiralananı boşaltmak istediği takdirde bir ay evvelinden mal sahibine ulaşacak şekilde bildirmek zorunda olduğu düzenlemesi bulunmaktadır. TBK.nun 347. maddesi (6570 sayılı Kanunun 11.maddesi) gereğince konut ve çatılı işyeri kiralarında kiracı, belirli süreli sözleşmelerin süresinin bitiminden en az on beş gün önce bildirimde bulunmadıkça, kira sözleşmesi aynı koşullarla bir yıl uzatılmış sayılır. Anılan kanun maddesi gereğince kira sözleşmesi yıldan yıla yenilenerek davanın açıldığı tarihe göre 01/01/2013 tarihinde sona ermiştir. Dosyada sözleşmenin bitim tarihinden önce veya bir aylık dava açma süresi içerisinde yenilenmeyeceğine ilişkin bir ihtar bulunmadığından 29/04/2013 tarihinde açılan dava süresinde değildir.
 Açıklanan bu olgu karşısında süresinde açılmayan davanın reddine karar verilmesi gerekirken yazılı gerekçe ile davanın reddine karar verilmesi doğru değil ise de, sonucu itibariyle doğru olan kararın düzeltilmiş gerekçe ile ONANMASINA ve aşağıda yazılı temyiz giderinin temyiz edenden alınmasına 18.03.2015 tarihinde oybirliğiyle karar verildi.
 
 ## Yargıtay 6. HD 2015/2546 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/149870700)
+
 Davalı borçlular B.. G.. ve İ.. Ç.. sözleşmeyi müşterek ve müteselsil kefil olarak imzalamışlardır. Özel şartlarda”kefil müteselsil kefil sıfatına haiz olup sözleşmenin herhangi bir nedenle uzaması halinde kefilin kefaleti de kendiliğinden uzayacaktır” hükmüne yer verilmiştir. TBK 583(BK 484) maddesine göre Kefalet sözleşmesinin geçerli olabilmesi için yazılı şekilde düzenlenmesi ve kefilin sorumlu olacağı miktarın açıkça gösterilmesi gerekir.12.4.1944 tarih ve 14/13 sayılı içtihadı birleştirme kararın da”sözleşmede kefilin ödeyeceği muayyen bir miktarın gösterilmiş olup olmadığının ve sözleşme içeriğinden böyle muayyen bir miktarın anlaşılmasına olanak bulunup bulunmadığının hakim tarafından resen gözetilmesi gerektiği belirtilmiştir. Sözleşmenin özel şartlarında kefil müteselsil kefil sıfatına haiz olup sözleşmenin her hangi bir nedenle uzaması halinde kefilin kefaleti de kendiliğinden uzayacağı belirtilmiş isede kefilin gerek sorumlu olacağı süre ve gerekse sorumlu tutulacağı azami miktar gösterilmemiştir.
 Takibe konu alacak sözleşme süresi bittikten sonraki döneme 2007 -2009 yıllarına ait ödenmeyen kira bedelleri olduğundan takibe konu kira paralarından kefillerin sorumlu tutulmasına olanak bulunmamaktadır.bu nedenle kefiller hakkında açılan davanın reddine karar verilmesi gerekirken yazılı şekilde kefiller hakkında da davanın kabulüne karar verilmesi doğru olmadığından hükmün bozulması gerekmiştir.
 
 ## Yargıtay 6. HD 2015/2203 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/148260700)
 
 Somut olayda uyuşmalık konusu olmayan 08/03/2012 tarihli kira sözleşmesinin özel şartlar 8. maddesinde “Kiracı kira sözleşmesinin bitiminden bir ay önce yazılı bildirimde
 
@@ -157,10 +213,14 @@ Bu durumda TBK.nun 325.maddesi gereğince kiracının kira sözleşmesinden doğ
 
 ## Yargıtay 6. HD 2015/710 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/147431400)
+
 Taraflar arasında, 01/08/2007 başlangıç tarihli ve 1 yıl süreli kira sözleşmesi konusunda uyuşmazlık bulunmamaktadır. 6098 Sayılı Türk Borçlar Kanunu'nun 347. maddesi hükmü gereğince konut ve çatılı işyeri kiralarında kiracı, belirli süreli sözleşmelerin süresinin bitiminden en az onbeş gün önce bildirimde bulunmadıkça, sözleşme aynı koşullarla bir yıl için uzatılmış sayılır. Kiraya veren, sözleşme süresinin bitimine dayanarak sözleşmeyi sona erdiremez. Ancak, on yıllık uzama süresi sonunda kiraya veren, bu süreyi izleyen her uzama yılının bitiminden en az üç ay önce bildirimde bulunmak koşuluyla, herhangi bir sebep göstermeksizin sözleşmeye son verebilir. Ancak her ne kadar taraflar arasındaki kira ilişkisi daha öncesine dayalı olsa bile taralarca 01/08/2007 tarihli yeni bir yazılı kira sözleşmesi düzenlenmiştir. Bu sözleşmeye göre, Türk Borçlar Kanununun 347.maddesinin 1. fıkrasının son cümlesinde öngörülen hükmün uygulanabilmesi için 31/07/2008 tarihinden itibaren sözleşmenin kendiliğinden yıldan yıla yenilenerek uzaması, bu şekildeki yenilemenin on yıllık uzama süresine ulaşması gerekir.
 Somut olayda on yıllık uzama süresi dolmamış olduğundan davanın bu gerekçe ile reddine karar verilmesi gerekirken yazılı gerekçe ile reddine karar verilmesi doğru değil ise de bu yanlışlığın giderilmesi yeniden yargılama yapılmasını gerektirmediğinden sonucu doğru kararın gerekçesi düzeltilerek onanmasına karar vermek gerekmiştir.
 
 ## Yargıtay 6. HD 2015/779 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/147516400)
 
 Dosya içerisindeki bilgi ve belgelerden kiralananın davacı kiracıya ilk olarak 17.11.1999 da yapılan ihale sonucu 27.12.1999 başlangıç, 31.12.2002 bitim tarihli sözleşme ile kiralandığı, daha sonra davaya konu sözleşme ve taahhütnamelerle kiracılık ilişkisinin sürdürüldüğü, taşınmazın yeniden ihale ile kiraya verilmediği anlaşılmaktadır. Her ne kadar sözleşme süresinin 31.12.2004 tarihinde sona ermesinden sonra kira sözleşmesi TBK.nın 347/1 maddesine göre 1 Ocak tarihi itibariyle yıldan yıla yenilenerek uzamış ise de, Vakıflar
 
@@ -168,5 +228,7 @@ idaresine 2886 Sayılı Devlet İhale Kanunu'nun 75. maddesinden yararlanma hakk
 Yukarıda açıklandığı üzere taraflar arasında kiracılık ilişkisi kalmadığından ve bu nedenle kira parasının tespitini (tenkisi ) istemek mümkün olmadığından mahkemece davanın reddine karar verilmesi gerekirken, yazılı şekilde karar verilmesi doğru değildir.
 
 ## Yargıtay 6. HD 2015/578 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/146639000)
 
 Diğer yandan TBK'nun 347 maddesi “ Konut ve çatılı işyeri kiralarında kiracı, belirli süreli sözleşmelerin süresinin bitiminden en az onbeş gün önce bildirimde bulunmadıkça, sözleşme aynı koşullarla bir yıl için uzatılmış sayılır. Kiraya veren, sözleşme süresinin bitimine dayanarak sözleşmeyi sona erdiremez. Ancak, on yıllık uzama süresi sonunda kiraya veren, bu süreyi izleyen her uzama yılının bitiminden en az üç ay önce bildirimde bulunmak koşuluyla, herhangi bir sebep göstermeksizin sözleşmeye son verebilir. Belirsiz süreli kira sözleşmelerinde, kiracı her zaman, kiraya veren ise kiranın başlangıcından on yıl geçtikten sonra, genel hükümlere göre fesih bildirimiyle sözleşmeyi sona erdirebilirler. Genel hükümlere göre fesih hakkının kullanılabileceği durumlarda, kiraya veren veya kiracı sözleşmeyi sona erdirebilir.” düzenlemesini içermekte olup, belirli süreli sözleşmelerde on yıllık uzama süresi sonunda bu uzama yılını takip eden her uzama yılının sonunda en az 3 ay önce bildirimde bulunmak koşulu ile kiraya verene bildirim ile sözleşmenin feshini ve kiralanın tahliyesini isteme hakkını vermiştir.

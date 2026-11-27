@@ -22,25 +22,37 @@ uyari: "Derleyenin seçtiği alıntılardır; kararın tamamı değildir. Künye
 
 ## Yargıtay 6. HD 2016/2042 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/209870400)
+
 6098 Sayılı TBK.nun 316. (BK 256) maddesi hükmü uyarınca kiracı kiralananı tam bir özenle kullanmak ve aynı Kanunun 334. (BK 266) maddesi gereğince sözleşme sonunda aldığı hali ile kiralayana teslim etmekle yükümlüdür. Ancak kiracı sözleşmeye uygun kullanma dolayısıyla oluşan eskime ve bozulmalardan sorumlu olmayıp münhasıran kötü kullanım nedeniyle oluşan zarar ve hasardan sorumludur. Davacının kiralananı kullandığı süre ve kullanma amacı gözetildiğinde olağan kullanımdan kaynaklanan yıpranma ve eskimelerin olacağı kuşkusuzdur. Hükme esas alınan bilirkişi raporunda hasar kalemlerinin her biri için ayrı ayrı değerlendirme yapılmamıştır. O halde mahkemece alınacak bilirkişi raporu ile hor kullanım ve olağan kullanım nedeniyle oluşan zarar ve hasar ayrımı yapıldıktan sonra kullanım süresi ile orantılı olarak yıpranma payının hesap edilip alacaktan düşülmesi gerekir. Mahkemece gerçek zararın belirtilen şekilde tespit edilerek sonucuna göre bir karar verilmesi gerekirken eksik inceleme ile yetersiz bilirkişi raporuna dayalı olarak karar verilmesi hatalı olmuştur.
 
 ## Yargıtay 6. HD 2016/1457 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/214664700)
 
 Türk Borçlar Kanununun 316. maddesi hükmü uyarınca kiracı kiralananı sözleşmeye uygun olarak özenle kullanmak ve kiralananın bulunduğu taşınmazda oturan kişiler ile komşulara gerekli saygıyı göstermekle yükümlüdür. Kiracının bu yükümlülüğe aykırı davranması durumunda sözleşmeye aykırılık nedeniyle tahliyesine karar verilebilmesi için kiraya verenin konut ve çatılı işyeri kirasında kiracıya en az otuz gün süre vererek aykırılığın giderilmesini, aksi takdirde sözleşmeyi feshedeceğini yazılı olarak bildirmesi ve tanınan bu süre içerisinde de akde aykırılığın giderilmemiş olması gerekir. Diğer kira ilişkilerinde ise,…
 
 ## Yargıtay 6. HD 2016/396 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/208309600)
+
 Olayımıza gelince; Hükme esas alınan 21.01.2011 başlangıç tarihli ve 10 yıl süreli kira sözleşmesi konusunda taraflar arasında bir uyuşmazlık bulunmamaktadır. TBK’nun 316/3.maddesinde düzenlenen özenle kullanma ve komşulara saygı gösterme borcu nedeniyle tahliye davalarında, kiracıya verilecek sürenin yararsız olacağının anlaşılması halinde kiralayana, kiracıya önceden bir ihtarda bulunmadan ve herhangi bir süre verilmeden fesih hakkı tanınmıştır. Açıklanan bu kanun maddesi karşısında dava dilekçesinde belirtildiği gibi ve ... Sulh Ceza Mahkemesi’nin 2012/485 sayılı dosyasında kiracının kiralayana sarf ettiği “ eğer şirket hesaplarını inceletirsen seni kurşuna dizdiririm” şeklindeki beyanları kira…
 
 ## Yargıtay 6. HD 2016/308 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/208601700)
 
 TBK’nun 316/3.maddesinde düzenlenen özenle kullanma ve komşulara saygı gösterme borcu nedeniyle tahliye davalarında, kiracıya verilecek sürenin yararsız olacağının anlaşılması halinde kiralayana, kiracıya önceden bir ihtarda bulunmadan ve herhangi bir süre verilmeden fesih hakkı tanınmıştır. Açıklanan bu kanun maddesi karşısında dava dilekçesinde belirtildiği gibi ve Gazipaşa Asliye Ceza Mahkemesi’nin 2014/459 sayılı dosyasındaki tanık anlatımları ile desteklenen kiracının kiralayana sarf ettiği “senin kolunu kanadını kıracağım” şeklindeki beyanları ve küfür içerir söylemleri kira ilişkisinin çekilmez hale geldiğinin başlıca delilidir. Artık davacı kiralayandan bu olumsuzluklara rağmen ilişkisine devam etmesi beklenemez. Bu nedenle Türk Borçlar Kanunu 316/3.maddesindeki şartların oluştuğu kabul edilerek tahliyeye karar verilmesi gerekirken, yazılı gerekçeyle davanın reddine karar verilmesi doğru değildir.
 
 ## Yargıtay 6. HD 2015/10976 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/130387700)
+
 6098 Sayılı TBK.nun 316. (BK 256) maddesi hükmü uyarınca kiracı kiralananı tam bir özenle kullanmak ve aynı Kanunun 334. (BK 266) maddesi gereğince sözleşme sonunda aldığı hali ile kiralayana teslim etmekle yükümlüdür. Ancak kiracı sözleşmeye uygun kullanma dolayısıyla oluşan eskime ve bozulmalardan sorumlu olmayıp münhasıran kötü kullanım nedeniyle oluşan zarar ve hasardan sorumludur. Davacının kiralananı kullandığı süre ve kullanma amacı gözetildiğinde olağan kullanımdan kaynaklanan yıpranma ve eskimelerin olacağı kuşkusuzdur. O halde mahkemece alınacak bilirkişi raporu ile hor kullanım ve olağan kullanım nedeniyle oluşan zarar ve hasar ayrımı yapıldıktan sonra kullanım süresi ile orantılı olarak yıpranma payının hesap edilip alacaktan düşülmesi gerekir. Mahkemece gerçek zararın belirtilen şekilde tespit edilerek, tahliye sonrası kiraya veren tarafından iade edilmesi gereken depozito bedelinin de hesaplanacak tazminat miktarından mahsubu ile sonucuna göre bir karar verilmesi gerekirken, eksik inceleme ile yetersiz bilirkişi raporuna dayalı olarak karar verilmesi hatalı olmuştur.
 
 ## Yargıtay 6. HD 2015/9987 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/159914800)
 
 Türk Borçlar Kanununun 316 maddesi (BK 256. Maddesi) gereğince kiracı kiralananı özenle kullanma borcu altındadır. Kiracı kusursuzluğunu kanıtlamakla yükümlüdür.
 
@@ -48,17 +60,25 @@ Bilindiği gibi kusur, gerekli özenin gösterilmemesi sonucunda önceden tahmin
 
 ## Yargıtay 6. HD 2015/9649 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/160353200)
+
 6098 sayılı TBK.nun 316. maddesi hükmü uyarınca kiracı kiralananı kira süresi boyunca tam bir ihtimam dairesinde kullanmak zorundadır. Anılan madde hükmü gereğince akde aykırılıktan dolayı kiracının tahliyesine karar verilebilmesi için kiracıya akde aykırı davranışına son vermesi hususunda kiralayan tarafından süreli bir ihtar tebliğ ettirilmesi ve tanınan bu süre içerisinde de akde aykırılığın giderilmemiş olması gerekir. Diğer kira ilişkilerinde ise, kiraya veren, kiracıya önceden bir ihtarda bulunmaksızın, yazılı bir bildirimle sözleşmeyi hemen feshedebilir. Konut ve çatılı işyeri kirasında, kiracının kiralanana kasten ağır bir zarar vermesi, kiracıya verilecek sürenin yararsız olacağının anlaşılması veya kiracının bu yükümlülüğe aykırı davranışının kiraya veren veya aynı taşınmazda oturan kişiler ile komşular bakımından çekilmez olması durumlarında kiraya veren, yazılı bir bildirimle sözleşmeyi hemen feshedebilir.
 
 ## Yargıtay 6. HD 2015/8031 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/128628800)
 
 6098 Sayılı TBK.nun 316. (BK 256) maddesi hükmü uyarınca kiracı kiralananı tam bir özenle kullanmak ve aynı Kanunun 334. (BK 266) maddesi gereğince sözleşme sonunda aldığı hali ile kiralayana teslim etmekle yükümlüdür. Ancak kiracı sözleşmeye uygun kullanma dolayısıyla oluşan eskime ve bozulmalardan sorumlu olmayıp münhasıran kötü kullanım nedeniyle oluşan zarar ve hasardan sorumludur. Davacının kiralananı kullandığı süre ve kullanma amacı gözetildiğinde olağan kullanımdan kaynaklanan yıpranma ve eskimelerin olacağı kuşkusuzdur. Hükme esas alınan bilirkişi raporunda hasar kalemlerinin hor kullanım nedeniyle oluştuğu belirtilmeş ancak hor kullanma bedelinden olağan kullanmadan doğan eskime bedeli düşülmemiştir. Mahkemece, davaya konu kiralananın yapılış tarihine göre yenilenen parçalar yönünden yıpranma payları düşülerek davalının sorumlu olduğu tutarın belirlenmesi gerekirken eksik inceleme ile yazılı şekilde hüküm kurulması doğru değildir.
 
 ## Yargıtay 6. HD 2015/8008 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/123755600)
+
 TBK. nun 316. maddesi uyarınca; kiracı, kiralananı sözleşmeye uygun olarak özenle kullanmak ve kiralananın bulunduğu taşınmazda oturan kişiler ile komşulara gerekli saygıyı göstermekle yükümlüdür. Sözleşmenin kurulması için kira konusu malın teslimi şart değil ise de; sözleşmenin kurulmasıyla birlikte kiracının, kiralananı sözleşmeye uygun olarak özenle kullanmak borcu doğmuştur. Bu durumda kiracı kiralananı teslim alarak özenle kullanma borcunu yerine getirmekle yükümlüdür.
 
 ## Yargıtay 6. HD 2015/6529 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/137576000)
 
 Hükme esas alınan 05.12.2011 başlangıç tarihli ve 01.01.2007 bitiş tarihli sözleşme konusunda taraflar arasında bir uyuşmazlık bulunmamaktadır. Sözleşmeyi A.O. Sanayi ve Petrol ürünleri D.P.Ticaret Limitet Şirketi kiracı olarak E. Petrol Turizm Dinlenme Tesisi Lokanta işletmeciliği Sanayi Limitet Şirketi kiraya veren olarak imzalamışlardır. Sözleşmede kiralanan yerin U. E. tesislerindeki akaryakıt istasyonu olduğu belirtilmiştir. Turgutlu Cumhuriyet Savcılığının 2013/2661 esas sayılı kovuşturması sonucu polisler tarafından 02.05.2013 tarihli tutanak ve mühürleme tutanağında akaryakıt istasyonunda kaçak akaryakıt bulundurduğundan bahisle mühürlenmiştir. Bilahare Turgutlu Cumhuriyet Savcılığının 2013/2661-2014/2612 Karar sayılı ilamı ile kovuşturmaya yer olmadığına ve el konulan eşyaların iadesine, Denizli 2 Asliye Ceza mahkemesinin 2013/279 sayılı 16.09.2013 tarihli ilamı ile Akaryakıt satışlarının durdurulmasına ve mühürlenmesine ilişkin kararın kaldırılmasına karar verilmiş ise de Enerji Piyasa Düzenleme Kurumu, Petrol Piyasası Dairesi Başkanlığı 06.05.2014 tarih ve 15878 tarihli yazısında “Kurumumuza Lisans başvurusunda bulunan A. O.
 Sanayi ve Petrol ürünleri Dağıtım Pazarlama Ticaret Limitet Şirketi’ne 26.04.2012 tarihli ve BAY/939-82/30873 sayılı bayilik lisansı verildiği,ancak söz konusu lisans ve tesisin K.T. Petrolleri Sanayi İç ve Dış Ticaret Limitet şirketine devir edildiğini, söz konusu istasyon için her ne kadar K. T.Petrolleri Sanayi İç ve Dış Ticaret Limitet şirketine 23.07.2013 tarihli B. 939-82/32973 sayılı bayilik lisansı verilse de Denizli İl Emniyet Müdürlüğünün 29.07.2013 tarih ve 463394 sayılı yazısında: A.O. Sanayi ve P.Ürünleri Dağıtım Pazarlama Limitet Şirketi adına kayıtlı BAY/939-82/30873 lisans numaralı akaryakıt istasyonunda 02.05.2013 tarihinde yapılan denetim neticesinde menşei belli olmayan akaryakıt tespit edildiği ve istasyonun tamamen mühürlendiğinin öğrenilmesi üzerine 6455 sayılı kanunun 45 maddesi ile 5015 sayılı petrol piyasası kanunun 20 maddesine 5607 sayılı kaçakçılıkla Mücadele kanunu kapsamında kaçakçılık nedeniyle mühürlenmiş olan istasyon için K. T.P.
@@ -67,15 +87,21 @@ O nedenle kiralananı kiracının açıktan fena kullanması nedeniyle TBK 316.m
 
 ## Yargıtay 6. HD 2015/6281 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/138134800)
+
 6098 Sayılı TBK.nun 316. (BK 256) maddesi hükmü uyarınca kiracı kiralananı tam bir özenle kullanmak ve aynı Kanunun 334. (BK 266) maddesi gereğince sözleşme sonunda aldığı hali ile kiralayana teslim etmekle yükümlüdür. Ancak kiracı sözleşmeye uygun kullanma dolayısıyla oluşan eskime ve bozulmalardan sorumlu olmayıp münhasıran kötü kullanım nedeniyle oluşan zarar ve hasardan sorumludur. Davacının kiralananı kullandığı süre ve kullanma amacı gözetildiğinde olağan kullanımdan kaynaklanan yıpranma ve eskimelerin olacağı kuşkusuzdur. Hükme esas alınan bilirkişi raporunda hasar kalemlerinin her biri için ayrı ayrı değerlendirme yapılmamıştır. Hasar kalemlerine ilişkin olarak hor kullanım ve olağan kullanım nedeniyle oluşan zarar ve hasar ayrımı yapıldıktan sonra hor kullanma bedelinden olağan kullanmadan doğan eskime bedeli düşülmelidir.
 Mahkemece yukarıda değinilen maddi ve hukuki esaslar doğrultusunda bilirkişiden yeniden rapor alınarak sonucuna göre bir karar verilmesi gerekirken eksik inceleme ile yazılı şekilde hüküm kurulması doğru olmadığı gibi davacı kiracı 08.07.2013 tarihinde garajın uzaktan kumanda anahtarını mahkeme yazı işleri müdürlüğüne tevdi etmiş olup bilirkişi raporunda geçen garaj kapısı anahtarına ilişkin belirlenen masrafın dikkate alınmamış olması da doğru değildir.
 
 ## Yargıtay 6. HD 2015/6161 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/136889400)
+
 Dosya kapsamından; taraflar arasındaki sözleşmede kiralananın durumu “tadilatlı durumda ev” olarak belirtilmiş olup hükme esas alınan 22.11.2013 tarihli inşaatçi bilirkişi raporunda, mutfak lavabolarında kırık, granit kaplamalarda kırık, tezgah altı dolap kapaklarının kırık, klozet kırığı ile raporda tespit edilen diğer şekillerde hasarların oluştuğu, hor kullanım nedeniyle oluşan zararın ise 19520TL olduğu belirtilmiştir. 6098 Sayılı TBK.nın 316.maddesi hükmü uyarınca kiracı kiralananı tam bir özenle kullanmak ve aynı Kanunun 334. (B.K.nun 266) maddesi gereğince sözleşme sonunda aldığı hali ile kiralayana teslim etmekle yükümlüdür. Ancak kiracı sözleşmeye uygun olağan kullanma dolayısıyla oluşan eskime ve bozulmalardan sorumlu olmayıp münhasıran kötü kullanım nedeniyle oluşan zarar ve hasardan sorumludur. Davalının kiralananı kullandığı süre ve kullanma amacı gözetildiğinde olağan kullanımdan kaynaklanan yıpranma ve eskimelerin olacağı kuşkusuzdur. O halde mahkemece alınacak bilirkişi raporu ile hor kullanım ve olağan kullanım nedeniyle oluşan zarar ve hasar ayrımı yapıldıktan sonra kullanım süresi ile orantılı olarak yıpranma payının hesap edilip alacaktan düşülmesi gerekir.
 Mahkemece gerçek zararın belirtilen şekilde tespit edilerek sonucuna göre bir karar verilmesi gerekirken, eksik inceleme ile yetersiz bilirkişi raporuna dayalı olarak karar verilmesi hatalı olmuştur.
 
 ## Yargıtay 6. HD 2015/3766 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/148004500)
 
 Olayımıza gelince; taraflar arasında 01.01.2009 başlangıç tarihli ve bir yıl süreli kira sözleşmesi konusunda uyuşmazlık bulunmamaktadır. Dava dilekçesine ve duruşmada dinlenilen tanık beyanlarına göre davalı kiracının kiralananın ortak alanlarına kirli su döktüğü ve davacı kiralayana hakaret ettiği dosya kapsamından anlaşılmaktadır. Her ne kadar mahkemece, tanık beyanlarına itibar edilmediği, komşuların ve davacının adli makamlara başvurmadığı gerekçeleriyle açıktan fena kullanmanın şartları gerçekleşmediğinden davanın reddine karar verilmiş ise de, TBK'nun 316.maddesinde düzenlenen “kiracıdan beklenen komşuluk ilişkilerine uyma,kiralayan ve ailesine karşı
 
@@ -83,13 +109,19 @@ rahatsız edici ve uygunsuz davranışlardan kaçınma” yükümlülüğünden 
 
 ## Yargıtay 6. HD 2015/3741 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/148088500)
+
 TBK. nun 316. maddesi gereğince akde aykırılık nedeniyle tahliye davasının kural olarak kiralayan tarafından kiracıya karşı açılması gerekir. Kiralayan veya kiracının ölü olması halinde kira ilişkisi devam ettiği sürece mirasçılar arasında zorunlu dava arkadaşlığı bulunduğundan davanın, mirasçıların tamamı tarafından, tüm mirasçılara karşı açılması gerekir. Bu husus kamu düzenine ilişkin bulunduğundan mahkemece kendiliğinden gözetilmesi gerekir.
 
 ## Yargıtay 6. HD 2015/2623 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/149308800)
+
 Türk Borçlar Kanununun 316.maddesi hükmü uyarınca kiracı kiralananı sözleşmeye uygun olarak özenle kullanmak ve kiralananın bulunuğu taşınmazda oturan kişiler ile komşulara gerekli saygıyı göstermekle yükümlüdür. Kiracının bu yükümlülüğe aykırı davranması durumunda sözleşmeye aykırılık nedeniyle tahliyesine karar verilebilmesi için kiraya verenin konut ve çatılı işyeri kirasında kiracıya en az otuz gün süre vererek aykırılığın giderilmesini, aksi takdirde sözleşmeyi feshedeceğini yazılı olarak bildirmesi ve tanınan bu süre içerisinde de akde aykırılığın giderilmemiş olması gerekir. Diğer kira ilişkilerinde ise, kiraya veren, kiracıya önceden bir ihtarda bulunmaksızın, yazılı bir bildirimle sözleşmeyi hemen feshedebilir. Konut ve çatılı işyeri kirasında, kiracının kiralanana kasten ağır bir zarar vermesi, kiracıya verilecek sürenin yararsız olacağının anlaşılması veya kiracının bu yükümlülüğe aykırı davranışının kiraya veren veya aynı taşınmazda oturan kişiler ile komşular bakımından çekilmez olması durumlarında kiraya veren, yazılı bir bildirimle sözleşmeyi hemen feshedebilir.
 
 ## Yargıtay 6. HD 2015/2385 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/148628300)
 
 Hükme esas alınan1.9.2002 başlangıç tarihli ve 10 yıl süreli sözleşme konusunda taraflar arasında bir uyuşmazlık bulunmamaktadır. Sözleşmenin özel şartlarının 4.a.1 md- kiracı “kiralayana ait demirbaş ve malzemeler listesinde sayılan demirbaş ve malzemelerle birlikte ve kullanıma hazır vaziyette teslim edecektir.”14 maddesinde, sözleşmenin her hangi bir sebeble sona ermesi halinde mecuru Madde 4,a.1 maddesine göre teslim aldığı şekilde hasarsız ve noksansız olarak kiralayana teslim eder”hükmüne yer verilmiştir.Davalı kiracı sözleşmenin 9 maddesine göre 31.1.2012 keşide 3.2.2012 tebliğ tarihli ihtarla sözleşmenin 31.8.2012 tarihi itibariyle feshedildiğini ve en geç bu tarihe kadar tahliye edeceklerini bildirmiş, Mersin 3 Sulh hukuk mahkemesinin 2012/47 D işler dosyasına kiralanana ait anahtarlar 17.9.2012 tarihinde teslim edilmiş, teslim tutanagı davacı tarafa 21.9.2012
 
@@ -99,16 +131,22 @@ raporunda varlığı belirtilen hasar kalemlerinden her birinin hor kullanma son
 
 ## Yargıtay 6. HD 2014/14361 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/97529300)
+
 Davada dayanılan ve hükme esas alınan 01.06.2010 başlangıç tarihi ve bir yıl süreli kira sözleşmesi konusunda taraflar arasında uyuşmazlık bulunmamaktadır. TBK’nun 316.maddesi uyarınca kiracı kiralananı sözleşmeye uygun olarak özenle kullanmakla yükümlüdür. Kiralananın kiracıya iyi halde teslim edilmiş olması asıl olup özenle kullanma borcuna aykırı hareket edilmesinden kaynaklanan hasar ve zararlardan kiracı sorumludur. Kiraya veren tarafından kiralananda yaptırılan delil tespitinde; iç duvarlarda alçı ve boya tamiratı gerektiği, banyo ve tuvalet bataryaları ile elektrik düğme ve prizlerinin bir kısmının değişmesi gerektiği, mutfak mobilyaları ile iç kapıların tamir edilip boyanması gerektiği toplam onarım maliyetinin 8.500 TL olduğu belirtilmiş ve dava bu tespit raporuna dayanılarak açılmıştır. Mahkemece mahallinde yapılan keşif ve alınan bilirkişi raporunda
 
 ise tespit raporunda sayılan tamiratın çoğunun yapıldığı bu nedenle hasarın hor kullanmadan kaynaklanıp kaynaklanmadığının tespit edilemediği, henüz tamamlanmamış tamirat işlerinin ise 1.120 TL ye tekabül ettiği belirtilmiştir. Mahkemece hüküm altına alınan tutar bilirkişi tarafından tespit edilen ve henüz tamamlanmamış tamirat işlerine ilişkin olup tespit bilirkişi raporunda belirtilen hasar kalemlerine yönelik yapılan inceleme ve değerlendirme hüküm kurmaya elverişli değildir. Her ne kadar bilirkişi raporunda hasarın hor kullanmadan kaynaklanıp kaynaklanmadığının tespit edilemediği belirtilmiş ise de mahkemece dosyanın yeni bir bilirkişi heyetine tevdi edilerek tespit dosyasındaki fotoğraflardan da faydalanılarak kiralanandaki hasarın hor kullanmadan kaynaklanıp kaynaklanmadığının saptanması gerekir. Mahkemece bu gereğe uyulmaksızın eksik inceleme ve yetersiz bilirkişi raporu hükme esas alınarak yazılı şekilde karar verilmesi doğru değildir.
 
 ## Yargıtay 6. HD 2014/14195 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/309180000)
+
 Türk Borçlar Kanununun 316.maddesi hükmü uyarınca kiracı kiralananı sözleşmeye uygun olarak özenle kullanmak ve kiralananın bulunduğu taşınmazda oturan kişiler ile komşulara gerekli saygıyı göstermekle yükümlüdür. Kiracının bu yükümlülüğe aykırı davranması durumunda sözleşmeye aykırılık nedeniyle tahliyesine karar verilebilmesi için kiraya verenin konut ve çatılı işyeri kirasında kiracıya en az otuz gün süre vererek aykırılığın giderilmesini, aksi takdirde sözleşmeyi feshedeceğini yazılı olarak bildirmesi ve tanınan bu süre içerisinde de akde aykırılığın giderilmemiş olması gerekir. Dava dilekçesinde akde aykırılık olarak ileri sürülen hususlar süreli bir ihtarla düzeltilebilecek aykırılıklar olduğu halde akde aykırılığın giderilmesi hususunda davalı kiracıya gönderilen süreli bir ihtarname bulunmamaktadır.
 Mahkemece davanın bu nedenle reddine karar verilmesi gerekirken yazılı gerekçe ile reddine karar verilmesi doğru değil ise de bu husus, sonuca etkili olmadığından sonucu doğru olan hükmün gerekçesinin bu şekilde düzeltilmesine, 6100 sayılı HMK.ya 6217 Sayılı Kanunla eklenen geçici 3.madde hükmü gözetilerek HUMK.438/son maddesi uyarınca hükmün düzeltilmiş bu şekli ile ONANMASINA ve temyiz harcı peşin alındığından başkaca harç alınmasına mahal olmadığına, 18.12.2014 tarihinde oybirliğiyle karar verildi.
 
 ## Yargıtay 6. HD 2014/13623 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/97442900)
 
 6098 Sayılı TBK.nun 316 (BK 256) maddesi hükmü uyarınca kiracı kiralananı tam bir özenle kullanmak ve aynı Kanunun 334 (BK 266) maddesi gereğince sözleşme sonunda aldığı hali ile kiralayana teslim etmekle yükümlüdür. Ancak kiracı sözleşmeye uygun kullanma dolayısıyla oluşan eskime ve bozulmalardan sorumlu olmayıp münhasıran kötü kullanım nedeniyle oluşan zarar ve hasardan sorumludur. Davalının kiralananı kullandığı süre ve kullanma amacı gözetildiğinde olağan kullanımdan kaynaklanan yıpranma ve eskimelerin olacağı kuşkusuzdur. Hükme esas alınan bilirkişi raporunda hasarların hor kullanımdan kaynaklandığı belirtilmiş ise de, hasar kalemleri içerisinde yer alan boya ve badana masrafların normal kullanım sonucu oluştuğu anlaşılmaktadır. Kira sözleşmesinde kiralanan taşınmazın tahliye sırasında boya ve badanasının yenileneceğine dair hüküm yer almadığı gibi eski hale getirmeye ilişkin düzenleme de bulunmamaktadır. Bu durumda davacı, olağan kullanımdan doğduğu anlaşılan taşınmazın boya ve badana bedelinin davalıdan tahsilini talep edemez. Mahkemece, hor kullanım tazminatından boya ve badana
 
@@ -116,14 +154,20 @@ bedelinin düşülmesi, ayrıca hor kullanma nedeniyle zarar gören parçaların
 
 ## Yargıtay 6. HD 2014/12518 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/97490300)
+
 6098 Sayılı TBK.nun 316 (BK 256) maddesi hükmü uyarınca kiracı kiralananı tam bir özenle kullanmak ve aynı Kanunun 334 (BK 266) maddesi gereğince sözleşme sonunda aldığı hali ile kiralayana teslim etmekle yükümlüdür. Ancak kiracı sözleşmeye uygun kullanma dolayısıyla oluşan eskime ve bozulmalardan sorumlu olmayıp münhasıran kötü kullanım nedeniyle oluşan zarar ve hasardan sorumludur. Davalının kiralananı kullandığı süre ve kullanma amacı gözetildiğinde olağan kullanımdan kaynaklanan yıpranma ve eskimelerin olacağı kuşkusuzdur. Hükme esas alınan bilirkişi raporunda hasar kalemlerinin her biri için ayrı ayrı değerlendirme yapılmamıştır. Hasar kalemlerine ilişkin olarak hor kullanım ve olağan kullanım nedeniyle oluşan zarar ve hasar ayrımı yapıldıktan sonra kullanım süresi ile orantılı olarak yıpranma payının hesap edilip, alacaktan düşülmesi gerekir. Mahkemece yukarıda değinilen maddi ve hukuki esaslar doğrultusunda bilirkişiden yeniden rapor alınarak sonucuna göre bir karar verilmesi gerekirken eksik inceleme ile yazılı şekilde hüküm kurulması hatalı olmuştur.
 
 ## Yargıtay 6. HD 2014/11794 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/97386700)
 
 Olayımıza gelince; Hükme esas alınan 02.09.2009 başlangıç tarihli ve 10 yıl süreli kira sözleşmesi konusunda taraflar arasında bir uyuşmazlık bulunmamaktadır.Kiralanan konut ve çatılı iş yeri kira hükümlerine tabidir.Davacı davalının komşulara rahatsızlık verdiğinden ve akte aykırı davranışından dolayı kiralananın tahliyesini istemiştir. Davacının tanıkları davacının iddiasını doğrular mahiyete beyanda bulunmuşlardır. Öte yandan davacının delil olarak sunduğu Beykoz 2. Sulh Ceza Mahkemesinin 2013/78 E.-546 K. sayılı dosyasında davalı kiracının davacı kiraya verene tehdit suçundan mahkum olduğu anlaşılmaktadır. Davalının bu eylemleri TBK'nun 316/2.maddesinde düzenlenen özenle kullanma ve komşulara saygı gösterme borcuna aykırılık teşkil eder. Bu gibi durumlarda kiracıya verilecek bir süre yararsız olacağından ve kiracının yukarıda yazılı kanun maddesinde açıklanan yükümlülüğe aykırı davranışı çekilmez bir hal aldığından kiralayanın yazılı bildirimle uyarı zorunluluğu bulunmamaktadır.
 Bu nedenle davacı dava dilekçesinde tahliye istediğine tahliye istemi sözleşmenin feshini de kapsadığına göre aktin feshi ve tahliyeye karar verilmesi gerekirken yazılı gerekçeyle davanın reddine karar verilmesi doğru olmadığından hükmün bozulması gerekmiştir.
 
 ## Yargıtay 6. HD 2014/11033 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/97384400)
 
 Türk Borçlar Kanun'unun 316.maddesi hükmü uyarınca kiracı kiralananı sözleşmeye uygun olarak özenle kullanmak ve kiralananın bulunduğu taşınmazda oturan kişiler ile komşulara gerekli saygıyı göstermekle yükümlüdür. Kiracının bu yükümlülüğe aykırı davranması durumunda sözleşmeye aykırılık nedeniyle tahliyesine karar verilebilmesi için kiraya verenin konut ve çatılı işyeri kirasında kiracıya en az otuz gün süre vererek aykırılığın
 
@@ -131,17 +175,25 @@ giderilmesini, aksi takdirde sözleşmeyi feshedeceğini yazılı olarak bildirm
 
 ## Yargıtay 6. HD 2014/9726 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/97187600)
+
 6098 Sayılı TBK.’nun 316 maddesi uyarınca akde aykırılık iddiasına dayalı olarak açılacak davalarda dava hakkı kural olarak kiraya verene aittir. Davalı davacının kiralayan sıfatına karşı çıkarsa bunu davacının ispat etmesi gerekir. Kiralayanın dava hakkı mutlak olup malik olma şartı bulunmamaktadır. Kiralayan durumunda olmayan malikin de bu davaları açabileceği içtihaden kabul edilmiştir.
 
 ## Yargıtay 6. HD 2014/9464 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/480793200)
 
 Diğer yandan, 6098 Sayılı Türk Borçlar Kanunu'nun 316. ( mülga 818 Sayılı Borçlar Kanunu'nun 256. ) maddesi hükmü gereğince kiracı kiralananı tam bir özenle kullanmak ve aynı yasanın 334. ( mülga 818 Sayılı Borçlar Kanunu'nun 266. ) maddesine göre, sözleşme sonunda aldığı hali ile kiraya verene teslim etmekle yükümlüdür. Ancak kiracı sözleşmeye uygun kullanma dolayısıyla oluşan eskime ve bozulmalardan sorumlu olmayıp münhasıran kötü kullanım nedeniyle oluşan zarar ve hasarlardan sorumludur. Kiracının tahliyesinden sonra her ne kadar kiraya veren tarafından mahkeme aracılığı ile bir tespit yaptırılmamış ise de, 18.01.2012 tarihli tahliye tutanağında depo zemininin kauçuk atıklarından dolayı kirli durduğu belirtilmiştir. Yine her ne kadar bu husus tutanağa sonradan eklenmiş ise de, yapılan keşif sonrasında düzenlenen 10.05.2013 tarihli bilirkişi raporunda…
 
 ## Yargıtay 6. HD 2014/9400 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/97171100)
+
 Borçlar Kanunu’nun 256. (TBK 316. madde) maddesi hükmü uyarınca kiracı kiralananı kira süresi boyunca tam bir ihtimam dairesinde kullanmak zorundadır. Anılan madde hükmü gereğince akde aykırılıktan dolayı kiracının tahliyesine karar verilebilmesi için kiracıya akde aykırı davranışa son vermesi hususunda kiralayan tarafından süreli ihtar tebliğ ettirilmesi ve tanınan bu süre içinde de akde aykırılığın giderilmemiş olması gerekir. Kiralananın açıktan fena kullanılması durumunda akde aykırılığın giderilmesi amacıyla kiracıya ihtar gönderilmesine gerek yoktur.
 
 ## Yargıtay 6. HD 2014/7260 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/97299200)
 
 Türk Borçlar Kanununun 316.maddesi hükmü uyarınca kiracı kiralananı sözleşmeye uygun olarak özenle kullanmak ve kiralananın bulunduğu taşınmazda oturan kişiler ile komşulara gerekli saygıyı göstermekle yükümlüdür. Kiracının bu yükümlülüğe aykırı davranması
 
@@ -149,20 +201,30 @@ durumunda sözleşmeye aykırılık nedeniyle tahliyesine karar verilebilmesi i�
 
 ## Yargıtay 6. HD 2014/5219 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/97373700)
+
 Mülga 818 Sayılı Borçlar Kanunu'nun 256. ve 266 maddesi ve 6098 Sayılı Türk Borçlar Kanunu'nun 316. ve 334 maddesi hükmü uyarınca kiracı kiralananı sözleşmeye uygun olarak özenle kullanmak ve kiralananı aldığı şekilde teslim etmekle yükümlüdür. Kural olarak kiralananın yanması halinde kiracı kusursuz olduğunu kanıtlamadıkça meydana gelen zarardan sorumludur. Kusur ise gerekli özenin gösterilmemesi, sonucun önceden tahmin edilememiş olmasıyla ortaya çıkar. Özünde davanın dayanağı haksız fiil olduğundan, davalının meydana gelen zarardan kusuru oranında sorumlu tutulması gerekir. . Her ne kadar Ceza Mahkemesi davalının kusurlu bulunduğuna dair yeterli delil elde edilemediğinden beraat kararı vermiş ise de Borçlar Kanununun 53. maddesi hükmü uyarınca ceza mahkemesince delil yetersizliği nedeniyle verilen beraat kararı hukuk hakimini bağlamaz. O davadaki deliller hukuk hakimi yönünden takdiri delil teşkil eder. Mahkemece konusunda uzman bilirkişi heyetinden rapor alınarak tüm delillerin birlikte değerlendirilmesi ve sonucuna göre bir karar verilmesi gerekirken eksik inceleme ile yazılı şekilde hüküm tesisi usul ve yasaya aykırıdır.
 
 ## Yargıtay 6. HD 2014/4949 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/97344900)
 
 Borçlar Kanunu’nun 256. (TBK 316. madde) maddesi hükmü uyarınca kiracı kiralananı kira süresi boyunca tam bir ihtimam dairesinde kullanmak zorundadır. Anılan madde hükmü gereğince akde aykırılıktan dolayı kiracının tahliyesine karar verilebilmesi için kiracıya akde aykırı davranışına son vermesi hususunda kiralayan tarafından süreli ihtar tebliğ ettirilmesi ve tanınan bu süre içinde de akde aykırılığın giderilmemiş olması gerekir. Kiralananın açıktan fena kullanılması durumunda akde aykırılığın giderilmesi amacıyla kiracıya ihtar gönderilmesine gerek yoktur.
 
 ## Yargıtay 6. HD 2014/4500 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/97271700)
+
 Borçlar Kanunu’nun 256. maddesi (TBK.316.madde) hükmü uyarınca kiracı kiralananı kira süresi boyunca tam bir ihtimam dairesinde kullanmak zorundadır. Bu itibarla kiralananın aynına veya kiralayanın hukukuna zarar verme olgusu akde aykırılık sayılır. Anılan madde hükmü gereğince akde aykırılıktan dolayı kiracının tahliyesine karar verilebilmesi için kiracıya akde aykırı davranışına son vermesi hususunda kiralayan tarafından süreli bir ihtar tebliğ ettirilmesi ve tanınan bu süre içerisinde de akde aykırılığın giderilmemiş olması gerekir. Kiralananın açıktan fena kullanılması durumunda akde aykırılığın giderilmesi amacıyla kiracıya ihtar gönderilmesine gerek yoktur.
 
 ## Yargıtay 6. HD 2014/4020 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/97403800)
+
 TBK'nun 316. maddesinde akde aykırılık nedeniyle tahliye davası açılabilmesi için kiraya verence, kiracıya konut ve çatılı işyeri kirasında, en az otuz gün süre verilerek, aykırılığı gidermesi, aksi takdirde sözleşmeyi feshedeceği konusunda yazılı bir ihtarda bulunması, diğer kira ilişkilerinde ise, kiraya veren, kiracıya önceden bir ihtarda bulunmaksızın, yazılı bir bildirimle sözleşmeyi hemen feshedebileceği düzenlemesi bulunmaktadır, somut olayda davacı kiraya veren tarafından, davalıya tebliğ ettirilen ihtarnamede ise davalı kiracıya akde aykırılığı gidermesi için yedi gün süre verildiğinden ihtarname hukuki sonuç doğurmaz, bu ihtarnameye dayalı olarak açılan davanın reddine karar verilmesi gerekirken yazılı şekilde karar verilmesi doğru değildir.
 
 ## Yargıtay 6. HD 2014/3444 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/97334000)
 
 6099 sayılı T.B.K.’nun 316/1.maddesi (B.K.’nun 256.maddesi) hükmü uyarınca kiracı kiralananı özenle kullanmak ve aynı kanunun 334. maddesi (B.K,’nun 266.maddesi) gereğince sözleşme sonunda aldığı hali ile kiralayana teslim etmekle yükümlüdür. Kiracının bu yükümlülüğünün ihlali halinde kiraya veren, bu yüzden uğradığı zarar için giderim isteminde bulunabilir. Ancak kiracı sözleşme sınırları içinde kiralanandan yararlanması sonucu meydana gelen yıpranma ve bozulmalardan sorumlu değildir. O nedenle kiralanandaki hasar ve bozukluğun kötü (hor) kullanımdan kaynaklanıp kaynaklanmadığının tespiti gerekir. Ne var ki davalı kiracının tespit dosyasına itiraz etmiş olması karşısında yargılama aşamasında konusunda uzman bilirkişiden rapor alınarak kiralanandaki zararın hor kullanmadan kaynaklanıp kaynaklanmadığı, kira kaybının ve hor kullanma zararının bedelinin tespitine yönelik rapor alınmamıştır. Hukukçu bilirkişi hor kullanma tazminatını belirleme yönünden uzman olmadığından alınan rapor hüküm kurmaya elverişli değildir.

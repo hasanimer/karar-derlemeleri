@@ -23,6 +23,8 @@ uyari: "Derleyenin seçtiği alıntılardır; kararın tamamı değildir. Künye
 
 ## Yargıtay 6. HD 2014/4133 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/97229200)
+
 Taraflara arasında 01.07.2005 başlangıç tarihli, bir yıl süreli kira sözleşmesinin varlığı hususunda uyuşmazlık bulunmamaktadır.Kira sözleşmesinin 2/c maddesinde "...kiracının kiralananı ne halde buldu ise o halde ve adete göre teslim edeceği..." kararlaştırılmıştır.Kiraya veren, kiralanan taşınmazın boşaltılmasından sonra Sarıyer 2. Sulh Hukuk Mahkemesinin 2010/83 d.iş sayılı tespiti dosyası ile kiralanandaki hasar ve eski hale
 
 getirme bedelini tespit ettirmiştir. Mahkemece, kiralananda tahliyeden sonra tadilat ve iyileştirmeler yapıldığından bahisle yerinde keşif yapılmamış, tespit bilirkişisinden ek rapor alınarak belirlenen hor kullanım bedeline hükmedilmiştir. 6098 sayılı T.B.K.’nun 316. (B.K.’nun 256) maddesi hükmü uyarınca kiracı kiralananı tam bir özenle kullanmak ve aynı kanunun 334. (B.K.’nun266.) maddesi gereğince sözleşme sonunda aldığı hali ile kiralayana teslim etmekle yükümlüdür. Ancak kiracı sözleşmeye uygun kullanma dolayısıyla oluşan eskime ve bozulmalardan sorumlu olmayıp münhasıran kötü kullanım nedeniyle oluşan zarar ve hasardan sorumludur.Davalının kiralananı kullandığı süre ve kullanma amacı gözetildiğinde olağan kullanımdan kaynaklanan yıpranma ve eskimelerin olacağı kuşkusuzdur.
@@ -30,14 +32,20 @@ O hal de mahkemece alınacak bilirkişi raporu ile hor kullanım ve olağan kull
 
 ## Yargıtay 6. HD 2014/2865 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/84272900)
+
 Davada dayanılan ve hükme esas alınan kira sözleşmesi 01.03.2006 başlangıç tarihli olup 4 yıl 4 ay sürelidir. Zemin ve 2 normal kattan oluşan taşınmaz davalıya dershane olarak işletilmek üzere kiraya verilmiştir. Sözleşmede davalıya kullanım amacına uygun tadilat ve değişiklik yapma izni verilmiştir. Ayrıca sözleşmenin 2.maddesinde mecurun kira süresi sonunda ilk haline dönüştürüleceği kararlaştırılmıştır. Tahliyeyi müteakip kiralananda yaptırılan delil tespitinde; bilirkişi tarafından davalının projesine göre binada yaptığı değişiklikler belirlenmiş ve bu değişikliklere ilişkin eski hale getirme bedeli ve süresi raporda gösterilmiştir. 6099 sayılı TBK’nun 334.maddesi hükmü uyarınca kiracı kiralananı ne durumda teslim almışsa, kira sözleşmesinin bitiminde o durumda geri vermekle yükümlüdür. Bu yasal düzenleme yanında kira sözleşmesinde de; kira süresinin sonunda taşınmazın ilk haline dönüştürüleceği kararlaştırılmış olup geri verme borcu kapsamındaki bu yükümlülüğün ihlali kiracı yönünden tazminat sorumluluğunu gerektirir.
 Somut olayda mahkemece davalı kiracının sorumluluğunun tespiti bakımından mahallinde yapılan keşif ve alınan bilirkişi raporunda; taşınmazın hali hazırda pansiyon olarak işletildiği ve tahliye sonrası kısmen eski hale getirilmiş olduğu, katlardaki salon, odalar ve mutfakların pansiyon odası olarak kullanıldığı, mevcut kullanım şekline göre bazı unsurların eski hale getirilmesine ihtiyaç kalmadığı belirtilmiştir. Mahkemece kiralananın hali hazır kullanım şekline göre eski hale getirme gereksinimi ortadan kalkan unsurların davalının sorumluğuna etkisi (eski hale getirme bedeli ve süresi yönünden) üzerinde durulmamıştır. Hükme esas alanın bilirkişi raporu belirtilen yönler itibariyle eksik ve denetime elverişli değildir. Öte yandan eski hale getirme süresine ilişkin kazanç kaybının da mahrum kalınan kira geliri üzerinden hesap edilmesi gerekirken taşınmazın pansiyon olarak işletilmesinden elde edilecek gelir üzerinden hesaplanması da doğru değildir. Mahkemece belirtilen bu yönler üzerinde durulmaksızın yazılı şekilde hüküm verilmesi hatalı olup hüküm bu nedenle bozulmalıdır.
 
 ## Yargıtay 6. HD 2014/2227 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/97327500)
+
 BK.nun 266. maddesine göre; Kiracı, kiralananı ne halde tesellüm etmiş ise, sözleşmenin sona ermesinde, o halde ve mahalli âdete tevfikan geri vermekle mükelleftir. Yine taraflar arasındaki sözleşmenin 6. maddesinde kiralananın ne halde bulunduysa o halde teslim edileceği,demirbaş ve teferruatlar zayi edilirse veya eskirse kiracının bunları kıymetleri ile tazmine talep edildiği takdirde ödemeye mecbur olacağı kabul edilmiştir. Ne var ki BK.nun 266/2 maddesi gereğince kiracı, kira sözleşmesine uygun kullanım neticesinde kiralananda meydana gelen eskilik yahut değişiklikten sorumlu değildir. Taraflar arasındaki sözleşmede, kiracının normal kullanımdan doğan eskime ve değişmelerden de sorumlu olacağına dair bir hüküm bulunmamaktadır. Kiralananın tahliyesi esnasında, kiralananın ne halde bulunursa o halde teslim edileceği, demirbaş ve teferruatlar zayi edilirse veya eskirse o halde ödemeye mecbur olacağı şeklinde sözleşme maddesi normal kullanımdan kaynaklanan eskimelerin de kiracı tarafından karşılanacağı anlamına gelmemektedir.
 
 ## Yargıtay 6. HD 2013/11040 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/659387900)
 
 Davada dayanılan ve hükme esas alınan 01.03.2001 başlangıç tarihli ve on yıl süreli kira sözleşmesi konusunda uyuşmazlık bulunmamaktadır. Taşınmaz davalıya sağlık işletmesi olarak kullanılması için kiraya verilmiştir. Taşınmazın kiraya verildiği andaki durumu sözleşmede “tam ve eksiksiz” olarak vasıflandırılmıştır. Sözleşmenin özel koşullar 7.maddesinde kiracının, statik projeye aykırı olmaksızın işkolu için gerekli olan değişiklikleri yapabileceği, kiraya verinin onayı alınmadan yapılan tadilatların kiralanan tahliye edilirken talep halinde eski hale getirileceği kararlaştırılmıştır. Davacı, onay alınmadan yapılan tadilat ve değişikliklerin eski hale getirilmediği ve kiralanın hor kullanıldığı iddiasındadır. Yargılama aşamasında mahkemece alınan bilirkişi raporunda; delil tespiti dosyasındaki değerlendirme ve hesaplamanın piyasa rayiçlerine uygun olduğu, kiralananın eski hale getirilmesi için gerekli tazminat tutarının 96.500 TL ve tamirat için gerekli sürenin de 45 gün olduğu belirtilmiştir.
 Ancak bilirkişi raporunda eski hale getirilmesi gerektiği belirtilen iç kapılar ve mutfak dolapları yönünden öncesinin meşe kaplama olmadığı savunulmuş olup savunmanın aksi davacı tarafından kanıtlanabilmiş değildir. Bu nedenle kapı ve mutfak dolapları yönünden davalının eski hale getirme yükümlülüğünden söz edilemez. Öte yandan bilirkişi raporunda yenilenen parçalar yönünden yıpranma payı düşülmediği gibi sökülen parçaların hurda olarak bir değeri bulunup bulunmadığı da tartışılmamıştır. Bilirkişi raporu bu yönüyle eksik ve hüküm vermeye elverişli değildir. Taşınmaz 01.03.2001 tarihinde kiraya verilmiştir. Davalının kiralananı kullandığı süre ve kullanma amacı gözetildiğinde olağan kullanımdan kaynaklanan yıpranma ve eskimelerin olacağı kuşkusuzdur. O hal de yenilenen parçalardan, kullanım süresi ile orantılı olarak yıpranma payının hesap edilip alacaktan düşülmesi gerekir. Yine eski hale getirme bedeli kapsamında sökülen parçaların da hurda olarak bir değeri var ise bunun da zarar miktarından indirilmesi zorunludur.
@@ -45,16 +53,22 @@ Mahkemece gerçek zararın belirtilen şekilde tespit edilerek sonucuna göre bi
 
 ## Yargıtay 3. HD 2013/10810 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/260150800)
+
 Ayrıca TBK 334.maddesi “Kiracı kiralananı ne durumda teslim almışsa, kira sözleşmesinin bitiminde o durumda geri vermekle yükümlüdür…” Kiracı, kiralananı iade ederken
 
 kiralananda bulunan ve mahiyeti itibariyle kiralananın mütemmim cüzi veya teferruatı haline gelmemiş bulunan sökülebilir tesisatı alabilir. Vazgeçerse, kiralayanın mülkiyetine karşılıksız olarak dahil olur. O kadar ki kiralayan kiracıdan sökme giderlerinin yanında uğramış olduğu zararları da isteyebilir.
 
 ## Yargıtay 6. HD 2013/7536 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/542922100)
+
 Davada dayanılan ve hükme esas alınan 25.2.2005 başlangıç tarihli ve bir yıl süreli kira sözleşmesi konusunda taraflar arasında uyuşmazlık bulunmamaktadır. Sözleşme kiralananın önceki maliki ... ile davalı kiracı arasında düzenlenmiş, taşınmaz daha sonra davacı tarafından 3.4.2009 tarihinde satın alınmıştır. Sözleşmenin özel şartlar bölümü 9.2.4 maddesinde kiracının kiralanan yeri teslim almasından sonra ana yapıya zarar vermeyecek şekilde hareketli elemanlarla dekore edebileceği, ancak konutun ayrılmaz parçası niteliğindeki dekorasyonunda değişiklik yaratacak bir uygulama söz konusu olursa, bu amaçla hazırlatılacak mimari projenin kiralayan tarafından onaylanacağı ve yazılı olur verileceği, aksine davranışın akde aykırılık oluşturacağı ve özel 14.5 maddesinde de kiracının kiralananı terk ederken taşınmazı kiraladığı günkü gibi teslim etmek zorunda olduğu kararlaştırılmıştır. Bu şartlar geçerli olup tarafları bağlar. Davacı işbu sözleşmeye dayanarak davalı kiracının kiralananda projeye aykırı değişiklikler yaptığından ve kiralanana zarar verdiğinden söz ederek istemde bulunmuştur.
 Bu durumda ortada geçerli ve halen devam etmekte olan bir kira sözleşmesi olup, kiralananda yapılan değişiklikler ve verilen zarar nedeniyle tazminat hakkının doğduğu kabul edilemez. Çünkü kiralananı geri verme borcuna aykırı davranıldığı bu aşamada ileri sürülemez. Gerçekten 6098 Sayılı Türk Borçlar Kanunu'nun 334. ( mülga 818 Sayılı Borçlar Kanunu’nun 266. ) maddesi hükmüne göre kiralanan ne durumda teslim alınmış ise kiranın bitiminde ve o durumda geri verilmelidir. Kira sözleşmesi sona ermediğinden kiralananı geri verme borcu henüz doğmamıştır. Kiranın bitiminde kiralananın eski hale getirildikten sonra teslim alındığı şekliyle geri verilmesi mümkün olup, değişiklikler giderilmeksizin kiralananın iade edilmesinin söz konusu olması halinde tazminat sorumluğu doğacağından mahkemece tazminat isteminin reddine karar verilmesi gerekirken, tazminat isteminin de kabul edilmesi doğru görülmediğinden hükmün tazminata ilişkin olarak bozulması gerekmiştir.
 
 ## Yargıtay 6. HD 2012/15457 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1056252100)
 
 Olayımıza gelince; davaya dayanak yapılan ve hükme esas alınan 01.01.2011 başlangıç tarihli 1 yıl süreli yazılı kira sözleşmesi ile taşınmazın kafeterya olarak kullanılacağı hususunda taraflar arasında uyuşmazlık bulunmamaktadır. Davacı, davalıya gönderdiği süreli ihtarında dava konusu taşınmazda akde aykırı olarak tuğla örülerek üstü fayans kaplama çay ocağı olarak kullanılan sabit fırın yapıldığını, bu tadilata izni olmadığını belirterek 10 gün içinde söz konusu akde aykırılığın giderilmesini istemiştir. Davalı bu tadilatı yapmak için izin aldığını bildirmiştir. Davalının ileri sürdüğü akde aykırılık ile ilgili zımni kabul iddiası tanık dahil her türlü delil ile ispat edilebilir. Davalıya kanıtlarını bildirmesi için süre verilmesi gerekirken yazılı şekilde yazılı belgeye karşı yazılı kanıt ileri sürülmediğinden davanın reddine karar verilmiş olması ve ayrıca taraflar arasındaki kira sözleşmesi sona erip kiracının geri verme borcu doğmadığı sürece kira ilişkisi devam ederken eski hale getirme bedeli istenemeyeceğinden, kiracının, kira sözleşmesinin
 
@@ -62,14 +76,20 @@ bitiminde varsa gerekli değişiklikleri yapıp kiralananı teslim aldığı dur
 
 ## Yargıtay 3. HD 2012/24302 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/491377100)
+
 Bir nesneye (taşınmaza) haksız olarak kötüniyetle, kendi çıkarına zilyed olan kimse, onu hak sahibine geri vermekle yükümlüdür.Bundan ayrı olarak, kendi çıkarına haksız olarak başkasının hukuk alanına girip, işine karışıp kazanç elde eden kimse (davalı), hak sahibinin (davacının) tazminat davasındaki gibi zararı ya da nedensiz zenginleşmedeki gibi yoksullaşması aranmaksızın - Bu “haksız karışma kazancı”nı geri vermesi gerekmektedir (Tandoğan, Haluk:Mukayeseli Hukuk ve Hususiyle İsviçre-Türk Hukuku bakımından Vekaletsiz İşgörme, İst.1957, sh, 56 vd; 60/61, 64/66 da anılan yazarlar. Zimmermann, Schulz, Reichel, E.Wolf, Friedrıch...Ayrıca bkz.Burak Özen: haksız Zilyedlikte iade; Doktora Tezi-, İst.2003, sh.249).Davalılar, taşınmazı bizzat kullanmasının objektif değerini ödemeye mahkûm edilmelidir. O kadar ki, haksız olarak kullanılan taşınmazın ekonomik tahsis amacı itibariyle (somut olayda otopark) gelir elde etmeye örgütlenmemiş olması dahi sonuca etkili görülmemelidir. Öyleyse, dava konusu otoparkın;
 (davalılar tarafından kiraya verilmiş olduğu da gözetilerek) kiraya verilmesi halinde piyasa koşullarına göre ne kadar bedel getireceği bilirkişi eliyle belirlenmeli ve sonucuna göre bir hüküm kurulmalıdır.Mahkemece, yanılgılı değerlendirme ve eksik inceleme sonucu yazılı şekilde, davanın reddine karar verilmesi doğru görülmemiş, bozmayı gerektirmiştir.
 
 ## Yargıtay 6. HD 2012/13359 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1055085800)
+
 Diğer yandan davacı kiralanandaki hasarların bedelini de tazminat olarak istemiş ise de, ortada geçerli ve halen devam etmekte olan bir kira sözleşmesi olup kiralanandaki mevcut hasarlar nedeniyle tazminat hakkının doğduğu söylenemez. Çünkü kiralananı geri verme borcuna aykırı davranıldığı bu aşamada ileri sürülemez. Gerçekten Borçlar Kanunu’nun 266. maddesi hükmüne göre kiralanan ne durumda teslim alınmış ise kiranın bitiminde ve o durumda ve yöresel adete göre geri verilmelidir. Kira sözleşmesi sona ermediğinden kiralananı geri verme borcu henüz doğmamıştır. Kiranın bitiminde kiralananın hasarları giderildikten sonra teslim alındığı şekliyle geri verilmesi mümkün olup, ancak bu aşamada hasarlar giderilmeden kiralananın iade edilmesinin söz konusu olması halinde tazminat sorumluğu doğacağından mahkemece tazminat isteminin reddine karar verilmesi gerekirken tazminat isteminin de kabul edilmesi doğru görülmediğinden hükmün bozulması gerekmiştir…
 
 ## Yargıtay 6. HD 2012/13406 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1055089000)
 
 Davacı kiralananın yeni maliki olup davalının önceki malik ile imzaladığı 29.11.2002 başlangıç tarihli ve 5 yıl süreli kira sözleşmesi konusunda taraflar arasında uyuşmazlık bulunmamaktadır. Uyuşmazlık tespit raporuna dayanılarak hüküm verilip verilemeyeceği, davalı kiracının açtığı zorunlu ve faydalı masraflara ilişkin alacak davasının bu dava yönünden bekletici mesele sayılıp sayılmayacağı noktasında toplanmaktadır. Bilindiği gibi gerek 1086 sayılı HUMK’nun 368.maddesi ve gerekse bu hükmün karşılığı olarak
 
@@ -78,9 +98,13 @@ Hükme esas alınan tespit raporunda ise işyerinin boya ve badanasının yapıl
 
 ## Yargıtay 6. HD 2012/2577 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1054498300)
+
 Borçlar Kanununun 266 maddesi gereğince kiracı kiralananı ne halde teslim almışsa kira süresi sonunda o halde ve mahalli adete göre geri vermekle yükümlüdür. Kanunun düzenlemesinden de anlaşılacağı üzere kiralanana verilen zararlardan kiracının sorumlu tutulabilmesi için öncelikle kiralananın tahliye edilmesi yani kiracının kiralananı geri vermekle yükümlülüğünün doğmuş olması gerekir.
 
 ## Yargıtay 6. HD 2011/14390 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1059959100)
 
 Davada dayanılan ve hükme esas alınan 1.5.2004 başlangıç tarihli ve beş yıl süreli kira sözleşmesi konusunda taraflar arasında uyuşmazlık bulunmamaktadır. Sözleşme müteveffa ... ile davalılar arasında düzenlenmiş, kiralayanın ölümünden sonra Sarıyer Sulh Hukuk Mahkemesi’nin 2006 / 6 tereke sayılı dosyası ile kiralayanın terekesine Av. ... tereke memuru olarak atanmıştır. Sözleşmenin kiralanan yerin durumu bölümüne göre “her türlü tamir, bakım, boya,badana giderleri kiracıya aittir.” Sözleşmenin özel şartlar bölümü 1. maddesinde kiralananda zamanla kullanımdan ve eskimeden meydana gelecek her nev’i bakım, boya badana ve tamirat giderlerinin kiracıya ait olacağı, 8. maddesinde kiracının kiralananı iyi kullanmak ve gerekli her türlü bakım ve onarımı yaptırmak ve tahliye anında bakımlı olarak teslim etmekle yükümlü olduğu kararlaştırılmıştır. Serbest irade ile konulan bu şartlar geçerli olup tarafları bağlar. Davalıların kiralanan anahtarını 3.3.2008 tarihinde
 
@@ -89,9 +113,13 @@ Bununla birlikte sözleşmenin özel 1. maddesinde normal kullanımdan kaynaklan
 
 ## Yargıtay 6. HD 2011/12755 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1060945300)
+
 Kural olarak kira sözleşmesinde kiralananın teslim anındaki durumu ile ilgili bir hüküm bulunmuyorsa uyuşmazlığın Borçlar Kanununun ilgili hükümleri ve sözleşmenin genel hükümlerine göre çözüme kavuşturulması gerekir. Borçlar Kanunu’nun 266/2.maddesi hükmü uyarınca kiracı sözleşme gereğince kiralanandan yararlanması sebebiyle meydana gelen eskime ve değişiklikten sorumlu tutulamaz. Kiracı münhasıran kötü kullanımından sorumludur. Başka bir anlatımla kira sözleşmesinde aksine hüküm bulunmadıkça kiracı, kiralananda normal kullanımdan dolayı meydana gelen eskime ve yıpranmalardan sorumlu tutulamaz. (...266/2) Sözleşmede kiracının kiralananı eksiksiz ve sağlam olarak teslim aldığı hükmü bu nitelikte kabul edilemez.
 
 ## Yargıtay 6. HD 2011/12540 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1060613100)
 
 Ne var ki BK.nun 266/2 maddesi gereğince kiracı, kira sözleşmesine uygun kullanım neticesinde kiralananda meydana gelen eskilik yahut değişiklikten sorumlu değildir. Taraflar arasındaki sözleşmede, kiracının normal kullanımdan doğan eskime ve değişmelerden de sorumlu olacağına dair bir hüküm bulunmamaktadır. Kiralananın tahliyesi esnasında, kiralananın projeye uygun temiz teslim edileceği şeklinde sözleşme
 
@@ -99,18 +127,26 @@ maddesi normal kullanımdan kaynaklanan eskimelerin de kiracı tarafından karş
 
 ## Yargıtay 6. HD 2011/8333 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1060049700)
+
 Öte yandan taraflar arasındaki kira sözleşmesi sona erip kiracının geri verme borcu doğmadığı sürece kira ilişkisi devam ederken eski hale getirme istenemez. Kiracının, kira sözleşmesinin bitiminde varsa gerekli değişiklikleri yapıp kiralananı teslim aldığı durumda geri vermesi olanaklı olup mahkemece eski hale getirme isteminin reddine karar verilmesi gerekirken kabulüne karar verilmesi de usul ve yasaya aykırıdır.
 
 ## Yargıtay 11. HD 2010/4756 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1018404600)
 
 Oysa bu türden bir uyuşmazlıkta zararın nasıl meydana gediğinin tespit edilmesi, zarardan kimin sorumlu olduğunun belirlenmesi açısından da önemlidir. Zira davalı şirketin maliki bulunduğu bağımsız bölüme ait su tesisatındaki bakımsızlık veya eskime sonucu meydana gelmişse BK.’nun 58. maddesi uyarınca sadece davalı şirket, banyo veya tuvalet musluğunun açık unutulması nedeniyle meydana gelmişse BK.’nun 41. maddesi uyarınca sadece davalı kiracı ..., davalı şirketin maliki bulunduğu bağımsız bölüme ait olmayıp da binanın genel su tesisatındaki bakımsızlık veya eskime sonucu meydana gelmişse tüm kat malikleri zarardan sorumlu olacaktır.
 
 ## Yargıtay 6. HD 2010/2853 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/630530100)
+
 Davada dayanılan ve hükme esas alınan 1.6.2003 başlangıç tarihli ve beş yıl süreli kira sözleşmesi konusunda taraflar arasında uyuşmazlık bulunmamaktadır. Sözleşmede kiralananın depo ve imalat işinde kullanılacağı kararlaştırılmıştır. Sözleşmede kiralananda kiracı tarafından yapılacak tadilatlar konusunda bir düzenleme yer almamaktadır. Davacı işbu sözleşmeye dayanarak davalı kiracının kiralananda projeye aykırı değişiklikler yaptığından ve kiralanana zarar verdiğinden söz ederek istemde bulunmuştur. Bu durumda ortada geçerli ve halen devam etmekte olan bir kira sözleşmesi olup kiralananda yapılan değişiklikler ve verilen zarar nedeniyle tazminat hakkının doğduğu kabul edilemez. Çünkü kiralananı geri verme borcuna aykırı davranıldığı bu aşamada ileri sürülemez. Gerçekten Borçlar Kanunu’nun 266. maddesi hükmüne göre kiralanan ne durumda teslim alınmış ise kiranın bitiminde o durumda ve yöresel adete göre geri verilmelidir. Kira sözleşmesi sona ermediğinden kiralananı geri verme borcu henüz doğmamıştır.
 Kiranın bitiminde değişiklikler giderilmeksizin kiralananın iade edilmesinin söz konusu olması halinde tazminat sorumluğu doğacağından mahkemece tazminat isteminin reddine karar verilmesi gerekirken, tazminat isteminin de kabul edilmesi doğru görülmediğinden kararın tazminata ilişkin olarak bozulması gerekmiştir.
 
 ## Yargıtay 14. HD 2010/95 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/633154200)
 
 Sözleşmede kira süresinin 3 yıl olduğu, kiranın 1.yılı için 16.000, 2.yılı için 18.000 ve 3.yılı için 21.000 TL olarak kararlaştırıldığı, sözleşmenin 25.maddesinde de deftere giren
 
@@ -118,13 +154,19 @@ demirbaşlar için her yıl 5.000 DM kullanma kirasının ödenmesinin kararlaş
 
 ## Yargıtay 14. HD 2008/7793 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/847753000)
+
 Borçlar Kanunu’nun 299. maddesine göre, ariyet, “bir akittir ki onunla ariyet veren, bir şeyin bedava kullanılmasını ariyet alana bırakmak ve alan dahi o şeyi kullandıktan sonra geri vermekle mükellef olur”. İster adi kira, istenirse hasılat kirası olarak değerlendirilsin, kira akdinden bahsedebilmek için kiralayanın kiracıya ücret mukabilinde bir şey kullandırması gerekir. Her ikisi de kullandırma sözleşmesi olan ariyet sözleşmesi ile kira sözleşmesi arasındaki ayrım kendisini kira sözleşmesinin ivazlı akitlerden olmasında gösterir. 30.05.2005 günlü Finansal Yeniden Yapılandırma Sözleşmesi bedel unsurunu içermediğinden kira sözleşmesi olarak nitelendirilmesi mümkün değildir. Mahkemece, çekişmenin esasının incelenmesi yerine bu sözleşme kira sözleşmesi gibi kabul edilerek yazılı olduğu şekilde görevsizlik kararı verilmiş olması doğru olmamıştır.
 
 ## Yargıtay 13. HD 2006/10865 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/846578800)
+
 Gerçektende kiracı, kiralananı ne halde tesellüm etmiş ise, kiranın sonunda o halde geri vermekle yükümlüdür. (BK. madde 266 f-1) Her ne kadar davalı kiralayan, mecuru başka bir dershaneye kiraya vermişsede, davacı tarafından yapılanları benimsediği anlamına gelmez. Davalının mecuru ilelebet dershanelere kiraya vereceği kabul edilemez. Dershane haricinde kiraya verilmesi durumunda davacı tarafından yapılan tadilatın ortadan kaldırılarak , davacıya kiraya verilmeden önceki durumuna getirilmesi gerektiği duraksamasızdır. Davacının kiralananı teslim aldıkları şekilde davalıya teslim etmediği uyuşmazlık konusu değildir. Öyle olunca davacının yaptığı tadilatlar nedeniyle davalı kiralayandan bir istemde bulunamaz. Mahkemece davanın reddine karar verilmesi gerekirken, kira sözleşmesinin hükümleri yanlış yorumlanarak yazılı şekilde hüküm tesisi usul ve yasaya aykırı olup, bozma nedenidir.
 
 ## Yargıtay 1. HD 2003/8056 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/16303800)
 
 Öğretide ileri sürülen görüşlere göre "kira mukavelesi tapuya şerh edilmiş olsa bile intifa hakkı sona erince malik, malının kendisine iadesini kiracıdan isteyebilir. Bu suretle mutazarrır olan kiracının, kira mukavelesinde doğan şahsi haklarını intifa hakkı sahibi veya onun mirasçılarına karşı dermeyan edebilir" (Bkz. Dr. Hıfzı Veldet Velidedeoğlu-Galip Esmer, Gayrimenkul Tasarrufları ve Tapu Sicili Tatbikatı 2. Bası. Sh 336) Buna karşın Dr. Suat Bertan sorununu iki yönlü ele alarak, intifa hakkı sahibi kira akdini yaparken, kiralananın intifa hakkına konu olduğunu söylemiş ise ölümle intifa hakkı son bulduğuna
 

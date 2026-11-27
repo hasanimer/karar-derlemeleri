@@ -23,6 +23,8 @@ uyari: "Derleyenin seçtiği alıntılardır; kararın tamamı değildir. Künye
 
 ## Yargıtay 6. HD 2013/10599 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/659318200)
+
 İcra takibinde ve davada dayanılan ve hükme esas alınan 14.6.2004 başlangıç tarihli ve bir yıl süreli kira sözleşmesi konusunda taraflar arasında uyuşmazlık bulunmamaktadır. Davacı, ... 11. İcra Müdürlüğü'nün 2008 / 19579 sayılı dosyasında 5.9.2008 tarihinde davalı aleyhine başlatmış olduğu icra takibinde, sözleşmenin özel şartlar 3. maddesinde düzenlenen muacceliyet şartına dayanarak bir yıllık kira parası 18.732 Euro karşılığı 33.116.30 TL'nin işlemiş faizi ve ihtar masrafı ile tahsilini talep etmiştir. Davalının takibe yasal süresi içinde itiraz etmesi üzerine açılan işbu davada, mahkemece, davalının kiralananı 3.9.2008 tarihinde tahliye edip, tahliye öncesinde Temmuz- Ağustos- Eylül 2008 ayları kira parasını ödememesi, tahliyeden sonra da kiralananın ancak üç aylık süre içinde yeniden kiralanabilmesinin mümkün olması nedeniyle yoksun kalınan üç aylık kira parasından da
 
 sorumlu olması gerektiği belirtilerek, altı aylık kira parası 16.558.14 TL üzerinden itirazın iptaline karar verilmiştir. Hüküm, her iki tarafın temyizi sonucu Dairemizin 24.10.2011 gün ve 2011 / 7087 esas 2011 / 11478 karar sayılı kararı ile, davacının daha öncesinde tahliye taahhütnamesine dayanarak yaptığı icra takibine davalının itiraz etmesi nedeniyle icra mahkemesinde görülen davada itirazın kaldırılmasına karar verilip, kiralananın icraen 3.9.2008 tarihinde tahliye edildiği, davacının yapmış olduğu icra takibi ile kira ilişkisini sürdürme iradesinin bulunmadığını ortaya koyduğu, bu nedenle davalının tahliye tarihinden sonraki yoksun kalınan kira parasından sorumlu tutulamayacağı belirtilerek, tahliye tarihinden sonraki kira alacağına ilişkin istemin reddine karar verilmesine işaretle bozulmuştur. Mahkemece bozmaya uyulmasından sonra bu kez üç aylık kira parası 7.200 TL üzerinden itirazın iptaline karar verilmiştir. Bununla birlikte dosyada bulunan ödeme belgeleri itibariyle kiracı son olarak 13.5.2008 tarihinde Mayıs 2008 ayı kirası olarak 1.102.50 Euro ödemiştir. Kiralanan ise 3.9.2008 tarihinde icra marifeti ile tahliye edilmiştir.
@@ -30,13 +32,19 @@ Bu durumda davalının 14.6.2004 başlangıç tarihli kira sözleşmesi gereğin
 
 ## Yargıtay 6. HD 2013/10609 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/659309000)
+
 Takibe ve davaya dayanak yapılan 01.10.2011 başlangıç tarihli ve 10 yıl süreli kira sözleşmesi konusunda taraflar arasında bir uyuşmazlık bulunmamaktadır. Kira sözleşmesinde 1. yıl aylık sabit kira bedeli 3.987,50.- EURO + KDV, 2. yıl 5.075.- EURO + KDV olduğu, her ayın 5. gününe kadar ödeneceği, sözleşmenin B bölümünün 13/5. maddesinde ise tarafların ödenmesi gereken aylık kira bedellerine EURO bazında aylık % 2 üzerinden hesaplanacak temerrüt faizinin temerrüdün devam ettiği her gün için uygulanmasını kabul ettikleri hükmüne yer verilmiştir. Davacı icra takibinde bu düzenlemeye dayanak 439,31.- EURO karşılığı 1.045,56.- TL işlemiş faiz talebinde bulunmuştur.
 
 ## Yargıtay 6. HD 2013/9094 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/543024900)
+
 Takibe ve karara esas olan taraflar arasındaki 01.09.2008 başlangıç tarihli ve bir yıl süreli yazılı kira sözleşmesinde 185 Euro olan ve her ayın 10. gününe kadar peşin olarak ödenecek aylar kira bedelinin banka hesabına yatırılacağı düzenlenmiştir. Davacı alacaklı, 12.09.2012 tarihinde başlatmış olduğu icra takibi ile Haziran 2012 ayı kira parasından bakiye 100 Euro, Ağustos 2012 ve Eylül 2012 ayları kira paraları 185 Euro'dan toplam 370 Euronun tahsilini istemiştir. Ancak davacı vekilinin icra dosyasındaki 07.11.2012 günlü beyanı ile Haziran 2012 ayının bakiye kira bedelinin 85 Euro olması gerekirken, zuhulen 100 Euro olarak talep edilmesi sebebiyle, 15 Euroluk miktardan feragat ettiği görülmüştür. Davalı icra takibine süresinde yapmış olduğu itirazında, borcunun bulunmadığını savunarak, banka ödeme dekontlarını icra dosyasına sunmuş, yargılamalara katılmamıştır.
 
 ## Yargıtay 6. HD 2013/7423 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/406848400)
 
 HMK.nun 26/1 maddesi gereğince hakim taleple bağlıdır. Talepten fazlasına veya başka bir şeye hükmedilemez. Bu husus kamu düzenine ilişkindir. Davacı tarafından başlatılan icra
 
@@ -44,13 +52,19 @@ takibinde aylık 4906,44 Euro üzerinden kira bedeli talep edildiği halde mahke
 
 ## Yargıtay 6. HD 2013/7409 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/406861500)
+
 Mahkemece davalı kiracının sözleşmeye haksız feshettiği, davacının zararının davalının ödemeyi taahhüt ettiği katkı payı ile dava dışı yeni kiracı tarafından ödenen katkı payı arasındaki fark olduğu tespit edildikten sonra, itirazın kısmen iptaline 15290 Euro alacağın tahsiline karar verilmiş ise de; dava dışı yeni kiracı ile yapılan kira sözleşmesinin 24.1 maddesinde de açılış katkı payının garanti edilen bir aylık asgari kira olarak belirlendiği ve garanti edilen ilk asgari kiranın da sözleşme eki özel hükümlerin 13. Maddesinde 11 Euro/m2 olarak tespit edildiği, davacının zararı belirlenirken hesaplamanın sözleşmelerle belirlenen aylık garanti edilen asgari kira bedelleri göz önünde tutularak yapılması gerekirken, faturada yazılı miktarın üzerinden mahsup yapılması doğru olmadığı gibi mahkemece faturaya dayalı hesaplama yapılırken davalının sözleşmeye göre ödemesi gereken 21240 Euronun KDV dahil bedel olduğu, oysa yeni kiracıya gönderilen faturada yazılı 5850 Euronun ise KDV hariç bedel olduğu göz önünde tutulmaksızın fazla alacağa hükmedilmesi de doğru değildir.
 
 ## Yargıtay 19. HD 2013/6919 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/810727400)
+
 Somut olayda asıl davadaki uyuşmazlık, davacı ... şirketinin davalıya göndermiş olduğu ikinci ödeme planının sözleşme hükümlerine göre haklı olup olmadığı noktasında toplanmaktadır. Hükme esas alınan bilirkişi kurulunun 2’nci ek raporunun 3’üncü sayfasında; 1.ödeme planı ile 2’nci ödeme planı arasındaki fiyat farkının 1’inci ödeme planı düzenlenirken davacının (TCMB’nin) reel kuru (1.8705 TL/Euro) yerine daha düşük (1.6233 TL/Euro) kur üzerinden kira bedelini hesaplarken, 2. ödeme planının reel kur (TCMB) üzerinden hesaplanmasından kaynaklandığı, her iki ödeme planının reel kur üzerinden hesaplanması hâlinde böyle bir fiyat farkının oluşmayacağı belirtilmiştir. Bu durumda sözleşmenin yapıldığı tarih ile fiili ithalatın gerçekleştiği tarih arasındaki döviz kurunda anlamlı bir değişiklik bulunmadığı bilirkişi raporunda ifade edildiğinden, finansal kiralama sözleşmesinin 4’üncü maddesinin uygulanma olanağı bulunmadığı gibi, yine sözleşmenin 13’üncü maddesinin de finansal kiralama şirketine kuru hiçbir obfjektif kritere dayanmadan keyfi olarak belirleme yetkisi verdiği de kabul edilemez.
 
 ## Yargıtay 6. HD 2013/6388 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/404748100)
 
 Davada dayanılan ve hükme esas alınan 01.11.2008 başlangıç tarihli ve üç yıl süreli kira sözleşmesi konusunda taraflar arasında uyuşmazlık bulunmamaktadır. Sözleşme ile davacı ... Alışveriş Merkezi'nde bulunan GK Blok 06 numarada bulunan stant yerini aylık 1.200 Euro + KDV bedelle davalıya kiralamıştır. Sözleşmede kiracıya tek taraflı fesih hakkı tanınmamakla birlikte davalı kiracı ekonomik koşulları gerekçe göstererek sözleşmeyi 01.04.2009 tarihinde keşide ettiği ihtarname ile 08.04.2009 tarihi itibariyle feshetmiştir. Davalı kiracının kira süresi sona ermeden kira sözleşmesini tek taraflı feshederek kiralananı tahliye etmesi durumunda, kural olarak kira süresinin sonuna kadar kira parasından
 
@@ -59,10 +73,14 @@ Taşınmazın daha düşük bedelle daha kısa sürede kiraya verilmesi doğal o
 
 ## Yargıtay 6. HD 2013/4987 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/405555700)
+
 Taraflar arasında sözlü kira akdi olduğu hususunda uyuşmazlık bulunmamaktadır. Kira sözleşmesinden kaynaklanan uyuşmazlıklarda, kira ilişkisi ve kira miktarının davacı kiralayan, ödeme savunmasının ise davalı kiracı tarafından ispatlanması gerekir. Taraflar arasında kira ilişkisi konusunda uyuşmazlık bulunmadığından, sözlü kira akdine dayanan davacının kira miktarını kanıtlaması gerekir. Davacı taraf 2005 yılı kirasının 10.500,00 TL, 2006 yılı kirasının 12.000,00 TL ve 2007 yılı kirasının 13.500,00 TL olduğunu iddia etmiş ise de, bu iddiasını kanıtlayamamıştır. Bu durumda davalının kabul ettiği miktar olan yıllık 2.750 Euro’nun geçerli olduğunun kabulü gerekir. Kaldı ki davacı vekili 24.5.2010 tarihli duruşmada, “..öncelikle davanın tamamının kabulüne, aksi halde davalının kabul ettiği miktar üzerinden davanın kabulüne karar verilmesini” talep etmiştir.
 Ödeme savunmasının ise davalı kiracı tarafından ispatlanması gerekmekte olup, davalı ise kabul ettiği miktarlar üzerinde 2005 ve 2006 yıllarına ait kiranın elden ödendiğini, 2007 yılı kirasının ise taşınmazın yıkılacak olması nedeniyle davacı tarafından alınmayacağının beyan edildiğini savunarak bu konuda yemin deliline başvurmuş ise de, davacı talep edilen kiraların alınmadığına dair yemin etmiştir. Bu durumda mahkemece yıllık kiranın 2.750 Euro olduğu kabul edilerek alacağın bu miktar üzerinden hesaplanarak bir karar verilmesi gerekirken, emsal araştırması yapılarak alınan bilirkişi raporuna göre karar verilmesi doğru değildir.
 
 ## Yargıtay 6. HD 2013/3908 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/546214500)
 
 Takipte dayanılan ve karara esas alınan 27.10.1999 başlangıç tarihli ve beş yıl süreli kira sözleşmesi konusunda taraflar arasında uyuşmazlık bulunmamaktadır.Sözleşmenin 11.a maddesine göre kiracı dilerse bir ay önceden kiralayana ihbar etmek suretiyle sözleşmeyi feshedebilir ve kiralanan yeri tahliye edebilir, tahliye tarihinden itibaren peşin ödenmiş kira
 
@@ -71,13 +89,19 @@ Davacı kiracı kiralananın kapı, pencereleriyle birlikte sökülüp tahliye o
 
 ## Yargıtay 6. HD 2013/3282 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/655208400)
+
 Davalının önceki malik ile düzenlenen 10.5.2010 tanzim tarihli ve 5 yıl süreli kira sözleşmesi gereğince kiracı olduğu hususunda uyuşmazlık bulunmamaktadır. Kira sözleşmesinin 11.2 maddesinde kiracı tarafından garanti edilen asgari kira bedelleri her yıl için ayrı ayrı gösterilmiş olup,takip konusu dönem aylık kira parası 3.285 EURO+KDV olarak açıkça belirlenmiştir. Aynı maddede, “...EURO olarak garanti edilen aylık asgari kira parasının her ayın birinci günündeki TC.Merkez bankasının EURO döviz satış kuru dikkate alınmak suretiyle ve TL veya Euro olarak her ayın beş iş günü içinde ödeneceği...” kararlaştırılmıştır. Bu hüküm geçerli olup, tarafları bağlar. Mahkemece karara esas alınan…
 
 ## Yargıtay 6. HD 2013/3180 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/411468000)
+
 İcra takibinde ve davada dayanılan ve karara esas alınan 22.3.2010 başlangıç tarihli ve bir yıl süreli kira sözleşmeleri konusunda taraflar arasında uyuşmazlık bulunmamaktadır. Sözleşmeler ile kiralananlar davalı borçlu şirkete kiralanmış, sözleşmeleri davalı borçlu ... müteselsil kefil sıfatı ile imzalamıştır. Sözleşmenin özel şartlar bölümü, 13. maddesine göre "kefilin kefaleti müşterek ve müteselsil olup kira sözleşmesinin uzaması halinde de kefalet süresi en az on yıl devam eder. Kefilin müşterek ve müteselsil kefil olduğu miktar en az 500.000 Euro bedeli kadar olacaktır". Bu şart geçerli olup tarafları bağlar. Davacı alacaklı İstanbul 18. İcra Müdürlüğü'nün 2012 / 9835 sayılı dosyası ile 18.4.2012 tarihinde her iki borçlu hakkında başlattığı icra takibi ile her iki kiralanan için faiziyle birlikte toplam 285.552.71 Euro'nun tahsilini talep etmiştir.
 
 ## Yargıtay 13. HD 2013/2582 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/537111100)
 
 Yanlar arasında imzalanan 1.7.1997 tarihli sözleşmenin 3. maddesinde, "Gayrimenkul kapsamındaki bağımsız bölümlerin satış ya da kiralanmasındaki birlikteliğin bir gereği
 
@@ -86,9 +110,13 @@ olarak ve bu bağlamda devamını temin amacıyla, reklam ve tanıtım hizmetler
 
 ## Yargıtay 6. HD 2013/1614 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/281523300)
+
 Bu durumda, önceki dönemlerde de ek kira sözleşmesindeki kira miktarının uygulanmadığı, davalının 28.000 Dolar üzerinden yaptığı kira ödemelerinin davacı tarafça kabul edildiği, taraflar arasında kira parasının belirlenmesine ilişkin ek sözleşme hükmünün fiilen tadil edildiği sonucuna varılmaktadır.Davacı yanca keşide edilen ve yukarıda sözü geçen 5.12.2009 tarihli ihtarname de bu hususu doğrulamaktadır. Davacı tarafın önce yıllık kira parasının 28.000 Dolar olduğunu kabul etmesi,uzun süre eksik ödenen kira paralarına sessiz kalıp , sözleşmeye uygun ödeme yapılmasını istememesi, peşi sıra da ek sözleşmede kararlaştırılan 31.000 Dolar üzerinden ödeme yapılmadığından söz ederek icra takibi başlatması Medeni Kanun’un 2. maddesinde düzenlenen dürüstlük kuralı ile bağdaşmaz. Davalı, yıllık kira paralarını 28.000 Dolar üzerinden ait olduğu yıllar içinde ödediğinden kira borcu bulunmamaktadır. Davada temerrüt koşulları gerçekleşmediğinden mahkemece davanın reddine karar verilmesi gerekirken, yazılı şekilde hüküm kurulması doğru görülmediğinden hükmün bozulması gerekmiştir.
 
 ## Yargıtay 3. HD 2012/25365 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/484036300)
 
 23.10.2008 tarihinden başlayan döneme ilişkin olarak ise; önceki dönem kira parası mahkemece saptandığından 23.10.2008 tarihinden başlayan dönemin kira parası hesap edilirken, öncelikle mahkemece 3.071,25 Euro TL'ye çevrilip, TL karşılığına endeks uygulanmalıdır.Somut olayda; hükme esas alınan bilirkişi raporunda; 3.071,25 Euro olarak
 
@@ -96,14 +124,20 @@ tespit edilen kira parasının 2002 yılı TL karşılığı 5.000,00 TL olarak 
 
 ## Yargıtay 3. HD 2012/22639 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/488284000)
+
 Buna göre, yukarıda açıklanan sözleşmenin uyarlanmasına ilişkin kural ve yöntemlerin ışığı altında mahkemece; yerinde uygulama yapılıp, uzman bilirkişiler düşüncesinden de yararlanmak suretiyle, sözleşmedeki özel intibak hükümleri, kira bedelinin yabancı para üzerinden kararlaştırılmış olması, kiralananın niteliği, kullanma alanı, konumu, bölgede kira parasını da etkileyecek normalin üstündeki imar ve ticari gelişmeler gibi değişiklikler, emsal kira paraları, vergi ve amortisman giderlerindeki artışlar araştırılıp, değerlendirilerek, sonuçta işlem temelinin çöktüğü, sözleşmedeki çıkar dengesinin katlanılamayacak derecede davacı aleyhine bozulduğunun benimsenmesi halinde kiracının ne miktar kira parasından sorumlu olacağı belirlenmeli, böylece sözleşmedeki kira parasını, tarafların amacına uygun objektif iyiniyet, hak ve nesafet (TMK 2/1, 4. md) kurallarının elverdiği ölçü ve düzeyde yine yabancı para olarak uyarlanmalı, aksi halde ise davanın reddine karar verilmesi gerekirken, sözleşmenin uyarlanmasına ilişkin açıklanan kural ve yöntemler gözetilmeden, eksik inceleme ile hazırlanan rapor uyarınca kira bedelinin uyarlanmasına karar verilmesi, usul ve yasaya aykırıdır.Bu itibarla
 yukarıda açıklanan esaslar gözönünde tutulmaksızın yazılı şekilde hüküm tesisi isabetsiz, temyiz itirazları bu nedenlerle yerinde olduğundan kabulü ile hükmün HUMK.nun 428.
 
 ## Yargıtay 15. HD 2012/6419 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/517269500)
+
 Sözleşmenin 15'nci maddesinde ... mirasçıları davacılara evleri teslim edilene kadar bir daire için bir yıllık 1000 euro verileceği hükme bağlanmıştır. Bu durumda sözleşmenin 7'nci maddesi gereğince 30.09.2002 inşaata başlangıç tarihinden itibaren 01.08.2006 teslim tarihine kadar bir daire için yıllık 1000 euro hesabıyla gecikme bedeli kira alacağı hesaplanmalıdır. Davacılara verilmesi gereken 5 adet daire ile ilgili gecikme halinde ödenecek kira bedeliyle ilgili sözleşmede herhangi bir düzenleme yoktur. O halde bu daireler yönünden teslimi gereken 30.10.2005 tarihinden 01.08.2006 fiili teslim tarihine kadar rayiç kira bedeli hesaplanıp talep miktarı da gözetilerek hüküm altına alınmalıdır.
 
 ## Yargıtay 6. HD 2012/13034 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1055021500)
 
 Taraflar arasında davalıya ait kiralanana yönelik 1.1.2003 başlangıç tarihli, bir yıl süreli ve aylık 1.750 Dolar bedelli kira sözleşmesi düzenlenmiş iken, daha sonra imzası davalı tarafından inkar edilmeyen 11.1.2003 başlangıç tarihli onbeş yıl süreli ve aylık 1.500 Dolar bedelli yeni bir kira sözleşmesi tanzim edilmiştir. Davacı kiracı, yeni yapılan sözleşme gereğince kira paralarını öderken, davalı kiralayanın aylık 1.750 Dolar bedelli ilk kira sözleşmesine dayanarak Bakırköy 4. Sulh Hukuk Mahkemesi'nin 2007 / 185 esas sayılı dosyasında kira parasının 1.1.2007 tarihinden itibaren aylık 7.000 Dolar olarak tespitini talep etmiş, dava sonunda verilen kesinleşen karar ile de aylık kiranın 1.1.2007 tarihinden itibaren 6.650 TL olarak saptanmasına hükmedilmiştir. Peşi sıra davalının davacı tarafından 5.4.2007 tarihinde PTT aracılığı ile gönderilen kira parasını kabul etmemesi üzerine, davacının talebi ile mahkemece ödeme yeri tayin edilmiş, bu konuda davalının yapmış olduğu itirazın reddine karar verilmiştir. Yine davalı kiralayan tarafından Bakırköy 8.
 Sulh Hukuk Mahkemesi'nin 2009 / 8 esas sayılı dosyasında diğer istek kalemlerinin yanı sıra 11.1.2003 tarihli ikinci olarak yapılan sözleşmenin iptali istenmiş ise de, mahkemece davalının kira ilişkisi sürecince değişik zamanlarda çelişkili beyan ve taleplerde bulunması, sözleşmedeki imzaya karşı çıkılmaması, 2003-2006 yılları arasında iptali istenen sözleşmeye itiraz edilmemesi ve kira paralarının bu sözleşme gereğince ödenmesi, süresinde iptal isteminde bulunulmaması gerekçeleri ile istemin reddine karar verilmiş ve hüküm Dairemizce onanarak 21.6.2011 tarihinde kesinleşmiştir. Bu durumda ortada 1.1.2003 tarihli ilk yapılan sözleşme gereğince verilmiş bir kira tespit kararı ve 11.1.2003 tarihli ikinci sözleşmenin iptali isteminin reddine ilişkin kesinleşen iki mahkeme kararı bulunmaktadır. Kira sözleşmesinin taraflarının aralarında sözleşme düzenledikten sonra özgür iradeleri ile kira sözleşmesi içerik ve şartlarını değiştiren yeni bir sözleşme yapmaları halinde sonradan düzenlenen kira sözleşmesi hükümleri taraflar için hüküm ifade eder hale gelir.
@@ -112,6 +146,8 @@ Bununla birlikte mahkemece, mahkemenin belirlediği aylık kira parası üzerind
 
 ## Yargıtay 6. HD 2012/10431 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1054573000)
+
 İcra takibinde ve davada dayanılan ve hükme esas alınan 10.9.1998 başlangıç tarihli ve beş yıl süreli kira sözleşmesi konusunda taraflar arasında uyuşmazlık bulunmamaktadır. Sözleşme ile davacıya ait vericiler TV yayınlarında kullanılmak üzere davalıya kiralanmış, sözleşmede yıllık kira parası 150.000 Dolar + KDV olarak kararlaştırılmıştır. Sözleşmede kira ödemelerinin gecikmesi halinde uygulanacak faiz oranı konusunda bir düzenleme yer almamaktadır. Davacı tarafından davalı hakkında ... İcra Müdürlüğü'nün 2003 / 22613 sayılı
 
 icra dosyası ile 18.12.2003 tarihinde başlatılan icra takibi ile 1.455.255 Dolar ana paranın % 18'den 30.9.1998-30.9.2003 arası işlemiş faizi 501.722 Dolar ve 10.000 Dolar cezai şart olmak üzere toplam 1.966.977 Dolar karşılığı 2.816.711.06 TL'nin tahsili istenmiştir. Davalının takibe itiraz etmesi üzerine açılan işbu davada tarafların ticari defterleri üzerinde yapılan bilirkişi incelemesinde takip konusu edilen asıl alacağın her iki tarafın defterlerinde de kayıtlı olduğu, ticari kayıtların birbiri ile örtüştüğü tespit edilmiştir. Bununla birlikte davacının icra takibindeki talebi bu alacağın % 18 faizi ile tahsilidir. Ne var ki yukarıda da açıklandığı üzere taraflar arasındaki kira sözleşmesinde ödemede gecikme halinde bir faiz oranı kararlaştırılmamıştır. Taraflar arasında başka ticari ilişkilerde % 18 faiz oranının uygulanması ya da kur farkından kaynaklanan alacaklar için düzenlenen faturalarda % 18 faiz tatbik edilip bu faturaların davalının ticari defterlerine kaydedilmesi icra takibinde dayanılan kira sözleşmesi için de % 18 faiz uygulanacağı, bu konuda taraflar arasında teamül oluştuğu anlamına gelmez.
@@ -119,10 +155,14 @@ Bu durumda mahkemece davanın kabulüne karar verilirken alacağa takip tarihind
 
 ## Yargıtay 13. HD 2012/13827 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/751838300)
+
 Davalı ...'nın temyiz itirazlarının incelenmesinde; davacılar eldeki davada, davalı ...'den kiralanan taşınmazın depozit bedeli olarak 25.000 dolar bedelli çekin keşide tarihi ve yeri boş olarak Suriye'ye teminat için verildiğini iddia etmişlerdir. Hemen belirtmek gerekirki, kira sözleşmesinde 25.000 dolar bedelli teminat olarak verileceği belirtilmediği gibi, sözleşmede depozit olarak 20.000 dolar veya karşılığı TL yada teminat mektubu verileceği belirtilmiş bulunmaktadır. Dava konusu çek üzerinde teminat olarak verildiğine dair bir ibare bulunmadığı da anlaşılmaktadır. Başlangıçta verilen kesin teminat mektubunun bankaya 17.3.2005 tarihinde iade edilmesine rağmen çekin keşide tarihinin de 9.2.2009 olduğuda sabittir. Davacının herşeyden önce çekin teminat çeki olduğunu, keşide tarihinin anlaşmaya aykırı olarak doldurulduğunu ve çekin Suriye'ye teminat olarak verildiğini ispat etmesi gerekir. Davacılar ile bu hususu dosyaya sundukları bilgi ve belgeler ile ispatlıyamamıştır. Öte yandan dava konusu çekin davalı ... elinde bulunduğu ve tahsil için davalı ...'e ... tarafından verildiği de tarafların kabulündedir.
 Çek hamiline düzenlendiği için ve çekin davalı ... elinde bulunduğunun kabul edilmesi nedeniyle davalı ...'in Dava konusu çeki yasal ve yetkili hamil olarak elinde bulundurduğunun kabulü 2011/11824 2012/13827…
 
 ## Yargıtay 6. HD 2012/6328 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/563998600)
 
 Takipte dayanılan ve karara esas alınan 01.03.2005 başlangıç tarihli ve 2 yıl 10 ay süreli kira sözleşmesi taraflar arasında uyuşmazlık konusu değildir. Sözleşmede aylık kira parasının 5.000 USD olduğu ve ödeme tarihindeki Garanti Bankası USD satış kurunun esas alınacağı belirtilmiştir. Sözleşmede kararlaştırılan kira parası sözleşme koşulları çerçevesinde yenilenen dönem için de geçerli olup tarafları bağlar. Takip talepnamesinde ve dava dilekçesinde kira tespit ilamından bahsedilmemekte olup takip talepnamesindeki isteğin dolar kuruna göre eksik ödenen bakiye kira paralarına ilişkin olduğu anlaşılmaktadır.
 
@@ -130,25 +170,35 @@ Nitekim 28.05.2010 tarihli bilirkişi raporunda, takibe konu aylar itibariyle me
 
 ## Yargıtay 6. HD 2012/5367 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/559914900)
+
 01.04.2008 başlangıç tarihli ve bir yıl süreli yazılı kira sözleşmesi, taraflar arasında uyuşmazlık konusu değildir. Kiralayan davalı tarafından 05.01.2010 tarihinde başlatılan icra takibinde, Ocak/2010 kira parası olan 5.000 Euro karşılığı 10.765 TL’nin tahsilinin istenilmesi üzerine, davacı kiracı tarafından işbu dava ile borçlu olmadığının tespiti ve söz konusu icra takibinin iptali istenilmiştir. Mahkemece her ne kadar 01.08.2008 tarihinde ödenmiş olan 15.000 Euro’nun kira ödemelerinde yaşanacak aksamalar için peşinen ödenen teminat niteliğinde bir para olduğu konusunda davacı yanca yemin edilmiş olması nedeniyle davanın kabulü ile icra takibini iptaline karar verilmiş ise de, esasen davalı kiralayan tarafından davacı hakkında aynı kira sözleşmesinden kaynaklanan farklı aylara ilişkin 5 ayrı icra takibi yapılmış olduğu, ve davacı kiracının takiplerin tamamına aynı ödeme belgesini ileri sürerek borçlu olmadığının tespitini istemiş olduğu dosya kapsamından ve davalı savunmasından anlaşılmaktadır.
 Bu durumda mahkemece taraflar arasındaki, kira alacağı ile ilgili icra takiplerine ilişkin olarak açılan menfi tespit davalarının birleştirilerek ödeme savunmasının tümü üzerinden denetlenmesi ve delillerin birlikte takdir edilip sonucuna göre bir karar verilmesi gerekirken, bu husus düşünülmeksizin yazılı gerekçe ile eksik inceleme sonucu davanın kabulüne karar verilmesi hatalı olmuştur.
 
 ## Yargıtay 6. HD 2012/5437 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/560715500)
 
 1.4.2008 başlangıç tarihli ve 1 yıl süreli yazılı kira sözleşmesi konusunda taraflar arasında uyuşmazlık bulunmamaktadır. Kiralayan davalı tarafından 6.11.2009 tarihinde başlatılan icra takibi ile ödenmeyen 2009 yılı Kasım ayı kira parası olan 5.000 Euro karşılığı 11.020,00 TL'nin tahsilinin istenilmesi üzerine, davacı kiracı tarafından iş bu dava ile borçlu olmadığının tespiti ve söz konusu icra takibinin iptali istenilmiştir. Mahkemece her ne kadar 1.8.2008 tarihinde ödenmiş olan 15.000 Euro’nun ödemelerin düzensiz olarak gelmesi nedeniyle teminat amaçlı olarak gelecek kiralar için kullanılmak amacıyla ödenmiş olduğu konusunda yemin edilmiş olması nedeniyle davanın kabulü ile icra takibinin iptaline karar verilmiş ise de, esasen davalı kiralayan tarafından davacı kiracı hakkında aynı kira sözleşmesinden kaynaklanan farklı aylara ilişkin 5 ayrı icra takibi yapılmış olduğu ve davacı kiracının takiplerin tamamında aynı ödeme belgesini ileri sürerek borçlu olmadığının tespitini istemiş olduğu dosya kapsamından ve davalı savunmasından anlaşılmaktadır.
 Bu durumda mahkemece taraflar arasındaki sözleşmeden kaynaklanan icra takibi ve açılan menfi tespit dava dosyalarının birleştirilerek ödeme savunmasının denetlenmesi ve delillerin birlikte takdir edilip sonucuna göre bir karar verilmesi gerekirken bu husus düşünülmeksizin yazılı gerekçe ile davanın kabulü ile icra takibinin iptaline karar verilmesi doğru değildir.
 
 ## Yargıtay 6. HD 2012/3607 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/567358500)
+
 Takipte dayanılan ve karara esas alınan 01.03.2008 başlangıç tarihli ve beş yıl süreli kira sözleşmesi konusunda taraflar arasında uyuşmazlık bulunmamaktadır. Sözleşmeye göre kira parasının senelik 32.000 Euro olduğu ilk üç yıla ait kira parasının 22.10.2007 tarihinde ödeneceği kalan 64.000 Euro için ise iki adet senet düzenlendiği 1.ödeme için senet tarihinin 15.09.2008 olup senet miktarının 32.000 Euro olduğu, 2.ödeme için senet tarihinin 15.09.2009 olup senet miktarının 32.000 Euro olduğu belirtilmiştir. Sözleşmedeki bu düzenleme karşısında tarafların anlaşması ile son iki yıla ait kira parasının tahsili ticari senede bağlanmıştır. Ticari senede dayalı alacak aranacak borç niteliğinde olup bu durumda B.K.’nun 73/1.maddesi hükmü uygulanmaz. Ticari senetlerin ciro kabiliyeti olduğundan kiracının verdiği senedin kimin elinde olduğunu bilmesi gerekir. Bu durumda kira parasının tahsili bakımından öncelikle ticari senetlerin tahsiline ilişkin yollara müracaat edilmesi ya da mahkemeye ibrazı gerekir.
 Mahkemece ticari senede bağlı alacak yönünden istemin bu nedenle reddine karar verilmesi gerekirken yazılı gerekçe ile kabulüne karar verilmesi doğru değildir. .Karar bu nedenle bozulmalıdır…
 
 ## Yargıtay 6. HD 2012/2642 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1054454900)
+
 Takibe dayanak yapılan ve karara esas alınan 01.09.2008 başlangıç tarihli ve 5 yıl süreli kira sözleşmesi konusunda taraflar arasında uyuşmazlık bulunmamaktadır. Kira sözleşmesini davalı ... kiracı, davalı ... ise müteselsil kefil sıfatıyla imzalamışlardır. Sözleşmede aylık kira 400 Euro olarak belirlenmiş ve kira parasının her ayın ilk beş gününde peşin olarak ödenmesi kararlaştırılmıştır. Ayrıca sözleşmenin özel şartlar bölümünde bir dönem içerisinde bir kira parasının ödenmemesi halinde dönem sonuna kadar olan kira paralarının muaccel olacağı öngörülmüştür. Taraflar serbest istekleriyle kararlaştırılan bu koşullar geçerli olup tarafları bağlar. Davacı alacaklı 02/08/2010 tarihinde 2009/8-9-10-11-12. ve 2010/1,2,3,4,5,6. ayları kira paraları toplamı 4400 Euro alacağın tahsili ve tahliye istekli takip yapmıştır. Davalı borçlular yasal süresinde yaptıkları itirazlarında, kira sözleşmesini... ile yaptıklarını, davacı alacaklının dava ve takip ehliyetinin bulunmadığını, davalı alacaklıya ödenmemiş herhangi bir kira borçlarının bulunmadığını ileri sürerek itirazda bulunmuşlardır.
 Ancak, sözleşmedeki imzayı ayrıca ve açıkca itiraz etmediklerinden, taraflar arasındaki kiracılık ilişkisi kesinlik kazanmıştır. Davalılar kira sözleşmesindeki imzalarına itiraz etmedikleri gibi, kira bedellerine yönelik 21/08/2009 ve 31/12/2009 tarihlerinde toplam 1200 Euro ödeme yaptıkları anlaşılmış bulunduğundan bu ödemelerin mahsubu ile bakiye miktar üzerinden itirazın kaldırılarak takibin devamına ve kiralananın tahliyesine karar vermek gerekirken, yazılı gerekçe ile red kararı verilmesi hatalı olmuştur.
 
 ## Yargıtay 6. HD 2012/186 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/687897200)
 
 Takipte dayanılan ve karara esas alınan 01.05.2008 başlangıç tarihli ve üç yıl süreli kira sözleşmesi konusunda taraflar arasında uyuşmazlık bulunmamaktadır. Sözleşmeye göre kira parası senelik 26.000 Euro olup her yılın 30 Eylül gününe kadar ödeneceği kararlaştırılmıştır. Sözleşmenin özel şartlar 5.maddesinde ise; kontrat karşılığı mülk sahibine her biri 26.000Euro olan üç adet senet verildiği belirtilmiştir. Sözleşmedeki bu düzenleme karşısında tarafların anlaşması ile kira parasının tahsili ticari senede bağlanmıştır. Verilen senetlerin bono niteliğine haiz olduğu takip dosyasına sunulan
 

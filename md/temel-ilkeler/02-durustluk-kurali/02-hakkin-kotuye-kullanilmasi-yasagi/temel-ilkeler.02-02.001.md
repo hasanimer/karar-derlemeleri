@@ -36,19 +36,27 @@ Organik bağ kavramının uygulanması hakkın kötüye kullanılması yasağı 
 
 ## Yargıtay HGK 2026/206 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1208030600)
+
 Anayasa Mahkemesi yapılan başvurular üzerine yaptığı değerlendirme sonucunda 28.04.2011 tarihli ve 2009/86 Esas, 2011/70 Karar sayılı kararında, “…ölüm aylığını alabilmek için evli olmamak koşulunu aşmak amacıyla iyi niyete dayanmayan ve dürüst olmayan boşanma isteği ve çabası ile boşanma kararı elde edilip buna bağlı olarak ölüm aylığı alınması, açıkça hakkın kötüye kullanılmasıdır. Hakkın kötüye kullanılması hukuk devletinin koruması altında değerlendirilemez. Bu nedenle hakkın kötüye kullanılmasını engellemeyi amaçlayan itiraz konusu kural hukuk devletine aykırı bir düzenleme olarak görülemez...Resmî evliliği olmadan birlikte yaşayanlar ile ölüm aylığı alabilmek için hakkını kötüye kullanarak resmî evliliğini boşanma ile sonlandırıp boşandığı eşiyle fiilen birlikte yaşamaya devam edenler, söz konusu hakkı kullanmak bakımından eşit kabul edilemeyeceklerinden, bunlar arasında eşitlik karşılaştırması yapılamaz... Ölüm aylığı, doğrudan sigortalıya ilişkin bir ödeme değildir. Yasa koyucunun sosyal güvenlik konusuna geniş bir yaklaşımının sonucu sigortalının ölümü ile aranan koşulların sağlanması hâlinde sigortalının geride kalan hak sahipleri açısından getirdiği bir ödemedir.
 İtiraz konusu kural, hak edilmediği hâlde ölüm aylığı alınarak hakkın kötüye kullanılmasına engel olma amacını taşıdığından ölüm aylığı almayı hak edenler açısından SGK’nın mali kaynakları çerçevesinde Anayasa’nın 60. maddesinde ifade edilen güvenceyi sağlamaya çalışmanın bir gereğidir. Ölüm aylığı alabilmek için öngörülen koşulun hakkın kötüye kullanılarak sağlanmak istenmesi sosyal güvenlik hakkıyla bağdaştırılamaz.” şeklindeki gerekçeyle hükmün Anayasanın 2, 10... . maddelerine aykırı olmadığına; 5, 11, 12, 17, 20, 35... . maddeleri ile ilgisi bulunmadığına karar verilmiş ve hükmün iptali yönündeki başvurular oy çokluğuyla reddedilmiştir.
 
 ## Yargıtay HGK 2026/205 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1208030200)
+
 Bu maddedeki hüküm uyarınca bir hakkın açıkça kötüye kullanılmasını hukuk düzeni korumayacağı gibi “hiç kimsenin kendi kusurundan yararlanamayacağı” ilkesi de gözetilmek suretiyle 5510 sayılı Kanun’un 56. maddesi açısından 01.10.2008 tarihinden önce hakkın kazanıldığı durumlarda anılan yasal düzenleme öncesinde ilgililerin her ne amaçla boşanmış olursa olsunlar, fiili birlikteliklerini 5510 sayılı Kanun ile getirilen yeni düzenleme sonrasında da sürdürdüklerinin veya söz konusu düzenlemenin yürürlüğünden itibaren belirtilen nitelikte bir beraberliğe başlandığının tespiti hâlinde TMK'nın 2. maddesi kapsamında hakkın kötüye kullanımının varlığı kabul edilerek ilgililere gelir veya aylık tahsisi yapılmaması, bağlanan gelir veya aylığın kesilmesi gerekmektedir. Kuşkusuz hak sahibine fiili birlikteliğin sona erdiği tarihten itibaren diğer koşulların da varlığı durumunda yeniden gelir veya aylık bağlanabileceği açıktır.
 
 ## Yargıtay HGK 2006/251 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/16229100)
 
 Alacaklı eldeki itirazın iptali davasını açarken takipte dayanak olarak göstermediği ve 1.336.241.000.- TL'lik bir borcu içeren kambiyo senedine ve 27.01.2003 tarihli protokole dayanmıştır. 27.01.2003 tarihli protokolde de davalının imzası yoktur. Bonoda ise asıl borçlu yanında senedi avalist olarak imzalamış; alacaklının itirazın iptali istemi de mahkemece bu senede dayanılarak kabul edilmiştir. Oysa yukarıda açıklanan ilkeler ışığında takip konusu borç, abone sözleşmesine ve borç ödeme tablosuna ilişkilendirilen borçtur. Davalının miktarı bile farklı olan bu borcu, avalist olarak imzaladığı bono ile ilişkilendirmesini ve itiraz etmemesini beklemek hayatın olağan akışına uygun olmadığı gibi, yasal olarak da davalının itirazının haksızlığını kabul olanağı bulunmamaktadır. Alacaklının takip dayanağı yapabileceği güçteki belgeye takipte dayanmayarak, takip borçlusunun tarafı olmadığı belgelere dayanıp, bunlara yönelik itirazını bekledikten sonra itirazın iptali davasında bu belgeye dayanması da, genel hükümlere dayanılarak her türlü delille ispat olanağına yanlış anlam vererek ve buna sığınarak, hakkın kötüye kullanılması sonucunu doğurmaktadır. Bunun ise yasaca korunması beklenemez.
 Sonuçta; takip dayanağı belgelerde davalı/takip borçlusu taraf olmadığına, imzası da bulunmadığına, takibe ve itiraza konu alacağı ispata yönelik başkaca delil ileri sürülmemiş olmasına göre davalı itirazında haklıdır.
 
 ## Yargıtay HGK 2001/32 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/16136700)
 
 Dahası, resmi biçimde yapılmayan sözleşmelerin "yok hükmünde" sayılacağı, "Borç doğurmayacağı" bundan dolayı, doğmayan bir borcun, yerine getirilmesinden de söz edilemiyeceği, o nedenle hakkın kötüye kullanılması yasağının (MK.Md.2) uygulanamıyacağı sonucu, öğretide terk edilmektedir. (Bkz.Medeni Hukuk Sorunları Altıncı cilt, Prof.Dr.İsmet Sungurbey İstanbul 1994 sh.345) Örneğin, olayların kendine özgü koşullarının oluşması halinde, akit öncesi sorumluluk kurallarının kıyas yoluyla geçersiz sözleşmelerde de uygulanabileceği, MK.md.2 uyarınca olumlu zararın (ifa menfaatinin), kaçırılan fırsat karşılığının istenebileceğine ilişkin yargı kararları bunlardandır.
 
@@ -71,23 +79,33 @@ Bir hakkın açıkça kötüye kullanılmasını hukuk düzeni korumaz..." hükm
 
 ## Yargıtay 22. HD 2014/34784 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/108905100)
+
 Anılan kanunun 107. maddesinde düzenlenen belirsiz alacak davası ile kısmî dava birlikte değerlendirildiğinde, eğer alacak belirli veya belirlenebilir nitelikte ise, tam veya kısmî şekilde belirsiz alacak davası açarak, bu davanın sağladığı imkânlardan yararlanmak mümkün değildir. Ancak, Kanunun kısmî dava açma imkânını sınırlamakla birlikte tamamen ortadan kaldırmadığı da gözetildiğinde, belirlenebilir alacaklar için, belirsiz alacak davası açılamasa da, şartları oluştuğunda ve hukukî yarar bulunduğunda kısmî dava açılması mümkündür. Aksi halde, sadece ya belirsiz alacak davası açma veya belirli tam alacak davası açma şeklinde iki imkândan söz edilebilir ki, o zaman da kısmî davaya ilişkin Hukuk Muhakemeleri Kanunu m. 109’daki hükmün fiilen uygulanması söz konusu olamayacaktır. Çünkü, belirsiz alacak davasında zaten belirsiz alacak davasının sağladığı imkânlardan yararlanarak dava açılabilecek; şayet alacak belirli ise de, o zaman sadece tam eda davası açılabilecektir.Oysa kanun koyucunun abesle iştigal etmeyeceği prensibi gereği, Hukuk Muhakemeleri Kanunu m.
 109’da kısmî davaya ilişkin düzenleme yapıldığı düşünülerek ve Kanundaki sınırlamalara dikkat edilerek kısmî dava açılabilecektir. Buradaki temel ölçü, kısmî dava açmakta hukukî yararın bulunması ve Yargıtay kararlarında da belirtildiği üzere, kısmî dava açma hakkının dürüstlük kuralına aykırı şekilde kötüye kullanılmamasıdır. Şüphesiz ki, Hukuk Muhakemeleri Kanunu’nun kabulünden sonra, gerek 29. maddenin açık hükmü gerekse 109. maddenin 2. fıkrasındaki düzenleme gereği, kısmî dava açılması halinde hukukî yararın, özellikle dürüstlük kuralı çerçevesinde daha sıkı gözetilmesi gerekli ve zorunludur. Bu noktada belirtmek gerekir ki, dava konusu edilen alacak, yargılama sırasında hesap raporu alınmasını veya miktar veya değerinin belirlenmesi yargılama sırasında başka bir olgunun tespit edilmesini gerektiriyor ise talep konusu alacağın tartışmalı olduğu veya açıkça belirli olmadığı kabul edilmeli ve kısmi dava olarak görülmelidir.
 
 ## Yargıtay 19. HD 2014/16008 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/107499400)
+
 Davacının kredi sözleşmesinde asıl borçlu sıfatıyla imzasının bulunduğu, ancak sözleşme tarihinde ehliyetsiz olması nedeniyle sözleşmeden dolayı sorumlu tutulamayacağı belirtilerek, mahkemece menfi tespit isteminin kabulüne karar verilmiş ise de; sözleşme sırasında kendisini ehliyetli gibi göstererek, sözleşme uyarınca kendisine ödeme yapılmasını sağlaması halinde, borçlunun daha sonra ehliyetsizlik iddiasına dayanarak ifadan kaçınması 4721 sayılı Türk Medeni Kanunu'nun 2. maddesi uyarınca hakkın kötüye kullanılmasıdır. Kendisini ehil kişi gibi gösterip hukuki işlem yapan ve karşı tarafı zarara uğratan kişi 4721 sayılı TMK'nun 452/2 maddesi uyarınca karşı tarafın zararını tazminle yükümlüdür.
 
 ## Yargıtay 23. HD 2014/7662 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/119276900)
 
 Sözleşmeye konulan maktu gecikme tazminatının amaçlarından birisi de (genellikle sözleşme yapılırken tatmin edici görülen) tazminat tehdidiyle yüklenicinin edimini süresinde ifaya zorlamaktır. Gecikme tazminatı sözleşmede hiç kararlaştırılmamış olsa bile teslimde gecikme halinde arsa sahibi en az piyasa rayiçlerine göre belirlenecek kirayı gecikme tazminatı olarak isteyebileceğinden, bu halde arsa sahibi daha iyi konumda olacaksa şartın amacına ulaştığından sözedilemez. Gecikme süresine bakılmaksızın arsa sahibinin bağlı tutulması hakkaniyete uygun olmadığı gibi yüklenicinin bu yöndeki savunmaları iyiniyet kuralları ile bağdaşmaz, hakkın kötüye kullanılması niteliğindedir ve hukuk tarafından korunmaz (TMK’nın 2. maddesi).
 
 ## Yargıtay 15. HD 2013/5411 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/258659200)
+
 … eser hazırlanırken, iş sahibinin verdiği gereçlerin veya gösterdiği yerin kusurlu olduğu anlaşılır veya eserin noktası noktasına düzenli olarak ve gereği gibi veya zamanında meydana getirilmesini tehlikeye koyacak başka bir durum ortaya çıkarsa, yüklenici, bu durumu hemen iş sahibine bildirmek, eğer bildirmezse, bunun sonuçlarına kendisi katlanmak zorundadır. Dava dışı yüklenici... anılan Yasa hükmünde öngörülen “genel ihbar yükümlülüğü” yerine getirdiğinden yapmış olduğu işin bedelini ve diğer alacaklarını az yukarıda sözü edilen hakem kurulunca verilen ve kesinleşen karar gereğince,.. Genel Müdürlüğü’nden tahsil etmiştir. Davada ise, davalı yüklenici şirketin yaptığı işin kabul edilemeyecek derecede ayıplı olduğundan reddi gerekeceği, teknik bilirkişi kurullarınca yapılan incelemeler sonucu tespit olunduğu halde, davalının yaptığı işin reddi yerine, davalı tarafından yapılan proje ve ekleri esas alınarak ... A.Ş firmasına işi davacı yaptırmıştır. Türk Medeni Kanunu’nun 2. maddesi hükmü gereğince herkes, haklarını kullanırken ve borçlarını yerine getirirken dürüstlük kurallarına uymak zorundadır. Bir hakkın açıkça kötüye kullanılmasını hukuk düzeni korumaz.
 O halde, davalının yaptığı işin ayıbı sonucu gerçekleşmemiş olan ve dava dışı ...’ne davacı tarafından yapılan ödemeleri davacının, davalı şirketten isteyebilme hakkı bulunmamaktadır. Çünkü, kimse kendi kusurundan yararlanamaz.
 
 ## Yargıtay 17. HD 2013/4113 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/598852200)
 
 O halde, açıklanan bu hukuki ve maddi olgular ile Türk Medeni Kanunu'nun 2.maddesindeki “Herkes, haklarını kullanırken ve borçlarını yerine getirirken dürüstlük kurallarına uymak zorundadır. Bir hakkın açıkça kötüye kullanılmasını hukuk düzeni korumaz.” hükmü ile aynı kanunun 3. maddesindeki “Kanunun iyiniyete hukukî bir sonuç bağladığı durumlarda, asıl olan iyiniyetin varlığıdır. Ancak, durumun gereklerine göre kendisinden beklenen özeni göstermeyen kimse iyiniyet iddiasında bulunamaz.” hükmü karşısında, davalı sigortacının bu hükümlere aykırı bir davranışının varlığından da söz edilemeyeceğinden, mahkemece davanın reddine karar verilmesi gerekirken yazılı şekilde hüküm kurulması doğru olmadığından hükmün bozulması gerekmiştir.
 
@@ -101,5 +119,7 @@ Zamanaşımı bir maddi hukuk kurumu olmadığından borcu sona erdiren değil, 
 Dürüstlük Kuralı ve Hakkın Kötüye Kullanılması Yasağı, İstanbul 2006, s. 65).
 
 ## Ankara BAM 22. HD 2022/994 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/783956400)
 
 4721 sayılı Türk Medeni Kanunu’nun (TMK) “dürüst davranma” başlıklı 2. maddesine göre; herkes, haklarını kullanırken ve borçlarını yerine getirirken dürüstlük kurallarına uymak zorundadır ve bir hakkın açıkça kötüye kullanılmasını hukuk düzeni korumaz. Aynı Kanun’un “iyiniyet” başlığını taşıyan 3. maddesinde; Kanun’un iyiniyete hukuki bir sonuç bağladığı durumlarda, aslolanın iyiniyetin varlığı olduğu belirtilmiş; ancak, durumun gereklerine göre kendisinden beklenen özeni göstermeyen kimsenin iyiniyet iddiasında bulunamayacağı da açıkça vurgulanmıştır. TMK’nın 5. maddesinde ise; TMK ve Türk Borçlar Kanunu’nun (TBK) genel nitelikli hükümlerinin, uygun düştüğü ölçüde tüm özel hukuk ilişkilerine uygulanacağı kuralı getirilmiştir.

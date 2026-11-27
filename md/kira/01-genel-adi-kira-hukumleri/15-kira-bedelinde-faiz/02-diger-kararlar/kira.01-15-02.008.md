@@ -23,20 +23,28 @@ uyari: "Derleyenin seçtiği alıntılardır; kararın tamamı değildir. Künye
 
 ## Yargıtay 6. HD 2012/7390 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/559377400)
+
 Kabule göre de taraflar arasında 5.9.2009 başlangıç tarihli kira sözleşmesi bulunduğu hususunda uyuşmazlık yoktur. Sözleşmeye göre aylık kira bedeli 300 TL olup, her ayın beşinde ödeneceği kararlaştırılmıştır. Sözleşmenin 4. maddesine göre kira bedelinin iki ay ödenmemesi halinde dönem sonuna kadar olan kira bedellerinin muaccel olacağı kabul edilmiştir. Bu şart geçerlidir ve tarafları bağlar. Davacı alacaklı 17.1.2011 tarihinde başlattığı takipte takip tarihine kadar ödenmeyen 2010/5,6,7,8,9,10,11,12. aylar ile 2011/1,2,3,4,5,6,7,8,9. aylar olarak toplam 5.100 TL kira bedeli ile birlikte 189,51 TL işlemiş faizin tahsilini istemiştir. Takip tarihinden sonraki ayların muacceliyet şartı gereği
 
 talep edildiği anlaşılmaktadır. Muacceliyet şartı gereği sadece dönem sonuna kadar olan kira bedellerinin tahsilinin istenebileceği gözardı edilerek 2011 yılı Eylül ayında başlayan daha sonraki dönemde kalan 2011 Eylül kirası yönünden de itirazın kaldırılmasına karar verilmiş olması da doğru değildir.
 
 ## Yargıtay 6. HD 2012/5460 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/560761200)
+
 İcra takibinde ve davada dayanılan ve karara esas alınan 15.4.2009 başlangıç tarihli, iki yıl süreli kira sözleşmesi konusunda taraflar arasında uyuşmazlık bulunmamaktadır. Davacı alacaklı ... 1.İcra Müdürlüğü'nün 2011 /6036 sayılı dosyası ile 1.8.2011 tarihinde yapmış olduğu icra takibi ile aylık 432,54 TL'den 2011 Nisan-2013 Nisan dönemine ait ödenmeyen ve muaccel olan 25 aylık toplam 10813,50 TL kira alacağı ile 26,66 işlemiş faiz tahsilini talep etmiş, takibe yasal süresi içinde itiraz eden davalı borçlu, sözleşmenin 15/04/2011 tarihi itibariyle son bulduğunu, bu durumda iki yıllık akitten söz edilemeyeceğini,kira akdinin bir yıl için uzatılmış sayılacağını, sözleşmede muacceliyet şartı bulunmadığını, dönem sonuna kadar olan kira bedellerinin istenemeyeceğini, kira borcunun bulunmadığını ileri sürmüştür. Takibe itiraz eden davalı borçlunun icra takibinde dayanılan kira sözleşmesindeki imzasına ve aylık kira bedeline bir itirazı bulunmamaktadır. Bu durumda icra takibinde talep edilen aylık kira miktarı kesinleşmiştir. Ancak kira sözleşmesinde muacceliyete ilişkin bir şart bulunmadığından takip tarihi itibariyle sadece muaccel olan kira bedelleri istenebilir.
 Mahkemece takip tarihi itibariyle muaccel olan kira bedellerinin tesbitiyle bu kira bedellerini davalı borçlunun ödediğini, borcunun bulunmadığını İcra ve İflas Kanunu’nun 269/c maddesinde sayılan belgelerle kanıtlayıp kanıtlanmadığı üzerinde durularak sonucuna göre bir karar verilmesi gerekirken yazılı şekilde uyuşmazlığın çözümünün yargılamayı gerektirdiğinden söz edilerek istemin reddine karar verilmesi isabetsiz olup bozmayı gerektirmiştir.
 
 ## Yargıtay 6. HD 2012/5349 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/560769500)
+
 Davada dayanılan ve hükme esas alınan 14.4.2008 başlangıç tarihli ve bir yıl süreli kira sözleşmesi konusunda taraflar arasında bir uyuşmazlık bulunmamaktadır. Bu sözleşmesinin özel şartlar 17. maddesinde kira sözleşmesinin sona ermesi veya feshi halinde taşınmaz idareye teslim edilmez ise geçen her gün için cari yıl kira bedelinin %1 oranında cezanın itirazsız olarak ödeneceği kararlaştırılmıştır. Taraflar geciken tahliyeye ilişkin cezai şart öngörüp önceden sözleşme ile cezai şart kararlaştırabilirler. Bu yoldaki anlaşma geçerli olup tarafları bağlar. Mahkemece yukarıda açıklanan ilkeler çerçevesinde Borçlar Kanununun 161/ son maddesine göre cezai şarttan indirim yapılması hususu üzerinde durulmadan karar verilmiş olması doğru değildir.
 
 ## Yargıtay 6. HD 2012/4727 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/564777700)
 
 Takibe dayanak yapılan ve karara esas alınan 05.02.2011 başlangıç tarihli, 1 yıl süreli her ayın 5.günü aylık peşin 600-TL ödemeli kira sözleşmesi hususunda taraflar arasında uyuşmazlık bulunmamaktadır. Sözleşmede aylık kira bedeli her ayın 5. gününe kadar peşin olarak ödeneceği ve özel koşullar 17.maddesi ile; aynı dönem içerisinde iki ay arka arkaya kira parası ödenmemesi halinde dönem sonuna kadar tüm kira parasının muaccel olacağı
 
@@ -44,10 +52,14 @@ hükmü düzenlenmiştir. Kira sözleşmesinin özel koşullar bölümü 17.madd
 
 ## Yargıtay 6. HD 2012/4605 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/17244300)
+
 Olayımıza gelince; taraflar arasında 15.9.2010 başlangıç tarihli ve bir yıl süreli kira sözleşmesi akdedilmiş olup kira parasının her ayın 15 - 20. Günleri arası ödeneceği ve sözleşmenin özel koşullar bölümünün 4. maddesinde ise "aynı dönem içerisinde kira parasının iki ay ödenmemesi halinde ödenmeyen aydan dönem sonuna kadar olan kira paralarının muaccel olacağı" kararlaştırılmıştır. Bu kira sözleşmesi ve koşulları geçerli olup, tarafları bağlar. Davacının 15.9.2010 - 15.9.2011 dönemi için keşide edilen ihtarnameler üzerine 20.9.2011 tarihinde açtığı dava ile tahliye isteminde bulunmasında bir usulsüzlük bulunmamaktadır. Mahkemece her ne kadar sözleşmede muacceliyet koşulunun bulunduğundan bahisle istemin reddine karar verilmiş ise de, taraflar arasındaki sözleşmenin özel koşullar 4.maddesinde "kira parasının iki ay ödenmemesi" halinde muacceliyet koşulunun gerçekleşeceği kabul edilmiş bulunmaktadır. Davacı tarafından 29.11.2010 tarihinde keşide edilen ihtarname ile ödenmeyen 2010 yılı Kasım ayı kira parası istenilmiş olup, ihtarname tarihinde sözleşmenin 4.maddesindeki "iki ay ödememe" durumu henüz söz konusu olmadığından muacceliyet koşulunun gerçekleştiğinden söz edilemez.
 Aynı şekilde 11.8.2011 tarihinde keşide edilen ikinci ihtarnamede de ödenmeyen 2011 yılı Mayıs, Haziran, Temmuz ve Ağustos ayları kira parasının tahsili istenilmiş olup, mahkemece işin esasının incelenerek sonucuna göre bir karar verilmesi gerekirken, yazılı gerekçe ile davanın reddine karar verilmesi doğru değildir.
 
 ## Yargıtay 6. HD 2012/3771 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/567296100)
 
 İcra takibinde ve davada dayanılan ve karara esas alınan 1.1.2007 başlangıç tarihli 2 yıl süreli kira sözleşmesi konusunda taraflar arasında uyuşmazlık bulunmamaktadır. Sözleşmede bir kira ödenmediği taktirde dönem sonuna kadar olan kira bedellerin muaccel olacağı kararlaştırılmıştır. Bu şart geçerli olup, tarafları bağlar. Davacı takipte ödenmeyen 2007 yılı Ağustos ayı kira bedelini ve muacceliyet şartı gereği dönem sonuna kadar olan diğer kira bedellerinin tahsilini istemiştir. Davalı borçlular itirazlarında, 9.7.2007 tarihli belgeye göre kira bedellerinin ...ya ödeneceğinin kararlaştırıldığını, adı geçen ile varılan mutabakat sonucunda önceki dönemlerden kalan ve kiralayan tarafından ödenmesi gereken 7.250 TL elektrik borcunun, 2007 yılı ağustos ayı kirasına mahsup edildiğini, kira borcunun bulunmadığını belirtmiştir. Muacceliyete esas olan 2007 yılı Ağustos ayı kira bedeline mahsuben elektrik faturasının ödendiği savunması İİK.nun 269/c maddesinde düzenlenen
 
@@ -55,13 +67,19 @@ nitelikte bir belge ile kanıtlanmadığından, 2007 yılı Ağustos kirası ned
 
 ## Yargıtay 6. HD 2012/3296 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/566840500)
+
 Takibe dayanak yapılan ve hükme esas alınan 01.05.2008 başlangıç tarihli ve 5 yıl süreli kira sözleşmesi konusunda taraflar arasında uyuşmazlık bulunmamaktadır. Sözleşmeyi davalı şirket kiracı olarak davalı ... da müşterek müteselsil kefil olarak imzalamıştır. Sözleşmede kiraların her ayın 20'sinde peşin ödeneceği kararlaştırılmıştır. Sözleşmenin 8. maddesinde “kira aylıklarından biri gününde ödenmez ise dönem içindeki gelecek aylara ait kiralar herhangi bir ihtara veya ihbara gerek kalmaksızın muacceliyet kesbeder.” yine 11.madde “kiracı sözleşme dönemi içerisinde işlerinin bozulması veya farklı nedenle mecuru tahliye etmek istemesi halinde bina sahibine en az beş ay önceden ihtar çekmek tapuya kira sözleşmesine ilişkin konan şerhi iptal ettirmek ve kontrat kira ve diğer mükellefiyetlerini de yerine getirmek koşuluyla tahliye edebilir. Tahliye tarihinden sonra sözleşmede yer alan "diğer aylara ait muacceliyet kesbeder kaydı geçersizdir." şartları…
 
 ## Yargıtay 6. HD 2012/3149 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/564171000)
+
 Yasada akdin feshi için akde aykırılığın kiralayanın ihtarına ve tayin ettiği süreye rağmen kiracı tarafından borçların ifa edilememesi halinde mümkün olacağı düzenlenmiştir. Davalı kiralayan davacıya çekmiş olduğu ihtarnamede davacı kiracıya uygun bir süre tanımamıştır. Kaldı ki sözleşmenin doğrudan feshedilebileceğine ilişkin düzenlenen 3. ve 13. maddesindeki şartlar ve süreler henüz dolmadan kira sözleşmesi feshedilmiştir. Bu durumda sözleşmenin haklı bir nedenle feshedildiğinden sözedilemez. Sözleşmenin 10. maddesi gereğince sözleşmeden haksız bir şekilde dönen ve sözleşmeyi fesheden kiralayan davalı cezai şart bedelinden sorumludur. Mahkemece davanın cezai şartın tenkisine ilişkin Borçlar Kanunun 161. Türk Ticaret Kanununun 24 ve Medeni Kanununun 2 ve 4. maddelerini de gözönünde bulundurarak davanın kabulüne karar verilmesi gerekirken, yazılı gerekçe ile davanın reddine karar verilmesi doğru değildir.
 
 ## Yargıtay 6. HD 2012/3113 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/576684400)
 
 Davada dayanılan ve hükme esas alınan 12.10.2006 tarihli 3 yıl süreli kira sözleşmesi hususunda taraflar arasında uyuşmazlık bulunmamaktadır. Sözleşmenin 11. maddesinde “kiracının taahhüdünü sözleşme ve şartname hükümlerine uygun olarak yerine getirmemesi halinde ( taksitlerin süresinde ödenmemesi dahil ), 2886 Sayılı Kanunun 62. maddesine göre, idare 10 gün süreli ihtarname ile durumu bildirir ve ihtarnamede yazılı hususlara uyulmasını ister. Onuncu günün sonunda yapılacak kontrolde belirten hususlara uyulmadığı
 
@@ -70,9 +88,13 @@ görülürse, kira sözleşmesi feshedilerek kesin teminat irat kaydedilir ve so
 
 ## Yargıtay 6. HD 2012/2277 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1054179800)
+
 Kira sözleşmesinin hususi şartlar bölümü 5.maddesinde kararlaştırılan muacceliyet şartı ile 7.maddede kararlaştırılan artış şartı belli ve muayyen olup geçerlidir ve tarafları bağlar.Ayrıca kira sözleşmesinde kiranın aylık peşin ödeneceği düzenlenmiş olup,bu durumda kiralar her ayın 3.günü mesai saati bitimine kadar ödenmesi gerekir.Kiraların aylık peşin değil de her ayın 9 ve 11.günlerde ödenmesi hususunda taraflar arasında teamül oluştuğunu gösterir delil ve belge bulunmamaktadır. Bu durumda mahkemece kira sözleşmesinin hususi şartlar bölümünün 7.maddesinde kararlaştırılan artış şartına göre takip konusu 1.9.2010-1.9.2011 kira dönemindeki aylık kira parası tespit edilmeli, varsa davalının ödemeleri dikkate alınarak ödenmeyen yada eksik ödenen aylar kira paraları ile muacceliyet şartı gereği muaccel hale gelen kira paraları belirlenmeli ve hasıl olacak sonuca göre itirazın kaldırılması ve tahliye istemi ile ilgili bir karar verilmesi gerekirken yazılı gerekçe ile davalı kiracı şirket hakkındaki davanın reddine karar verilmesi doğru olmadığından kararın bozulması gerekmiştir.
 
 ## Yargıtay 6. HD 2012/1302 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/570953300)
 
 Davaya dayanılan ve karara esas alınan 20.12.2007 başlangıç tarihli ve 3 yıl süreli kira sözleşmesi hususunda taraflar arasında uyuşmazlık bulunmamaktadır. 20.12.2007 başlangıç tarihli kira sözleşmesinde aylık kira bedeli her yıl için ayrı gösterilmiş, kiraların her ayın ilk beş günü içinde ödeneceği kararlaştırılmıştır. Kira sözleşmesinin 7.maddesinde; “…bir kiranın süresinde ödenmemesi halinde 6 aylık kiranın muaccel olacağı düzenlenmiştir. Kira sözleşmesinde ...'ın müşterek borçlu ve müteselsil kefil olarak imzası mevcuttur. Davacı, 14.08.2009 tarihinde davalılar hakkında başlatmış olduğu icra takibi ile; 2009 yılı Ağustos ayı kira parası 13.717,10 TL, muacceliyet şartı gereği muaccel hale gelen 6 aylık kira parası 51.077 USD ve 140,06 TL, 8,40 USD işlemiş faiz toplamı kira parasının tahsili isteminde bulunmuştur. Davalı borçlular vekili süresi içinde vermiş olduğu itiraz dilekçesinde özetle; kira sözleşmesinin 04.08.2009 tarihi itibariyle feshettiklerini, bu nedenle ödenecek kira
 
@@ -80,27 +102,39 @@ borcu ya da muaccel hale gelen kira borcu bulunmadığını, talep edilen faiz m
 
 ## Yargıtay 15. HD 2012/342 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/475964300)
+
 Yanlar arasında 15.07.2004 tarihinde imzalanan düzenleme şeklinde gayrimenkul satış vaadi ve daire karşılığı inşaat yapım sözleşmesinin 8. maddesinde arsa sahibine verilecek dairelerin sözleşme tarihinden itibaren 28 ay içinde bitirilip teslim edileceği, bu süreden sonra geçen sürede daire başına (200 USD) tazminat ödeneceği kararlaştırılmıştır. Arsa sahipleri tarafından ... Asliye 1. Hukuk Mahkemesi’nin 2007/390 Esasına kayıtlı olarak açılan ve kesinleşen dava dosyasında sözleşmenin bu hükmüne dayanarak ve kararlaştırılan bedelin cezai şart niteliğinde olduğu belirtilerek bir kez 200 dolar karşılığı TL olarak tahsil kararı verilmiş ve karar kesinleşmiştir.
 Sözleşmenin 8. maddesinde kararlaştırılan bu hüküm cezai şart niteliğinde olup davacılar açtıkları işbu davada inşaatın sözleşme gereği bitirilip teslim edilmesi gereken tarih olan 15.11.2006 tarihinden davanın açıldığı 23.06.2009 tarihine kadar geçen 31 ay için kira tazminatı talep ettiklerinden 2007/390 Esas sayılı dosyada verilen kararın kesin hüküm niteliğinde kabul edilmesi doğru olmamış, sözleşmede gecikme halinde aylık kira tazminatı ödeneceği kararlaştırılmamış olsa dahi arsa sahiplerinin gecikme halinde aylık kira tazminatı talep edebilecekleri gözetilerek deliller toplanmak suretiyle ıslah talebi de gözetilerek bilirkişi incelemesi ile belirlenecek aylık kira bedeli üzerinden cezayı aşan kira tazminatına hükmedilmek üzere kararın bozulması gerekmiştir.
 
 ## Yargıtay 6. HD 2011/14088 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1059834000)
+
 Yukarıdaki ilke gereğince sözleşmede muacceliyet koşulu bulunması nedeniyle davacı ilk ihtar olan ...Noterliğinin 07.02.2011 tarihli 5127 sayılı ihtarında, ikinci İhtarla istenen Şubat 2011 ayı kira alacaklarını da isteyebilecek iken bölerek ikinci ihtara konu edemeyeceğinden iki haklı ihtar olgusunun gerçekleştiğinden söz edilemez. Bu durumda mahkemece iki haklı ihtara dayalı tahliye isteminin şartları gerçekleşmediğinden davanın reddine karar verilmesi gerekirken yazılı gerekçe ile kiralananın tahliyesine karar verilmesi doğru olmadığından hükmün bozulması gerekmiştir.
 
 ## Yargıtay 6. HD 2011/12801 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1060930100)
 
 Takibe dayanak yapılan ve hükme esas alınan 10.5.2009 başlangıç tarihli ve 1 yıl süreli sözleşme konusunda taraflar arasında bir uyuşmazlık bulunmamaktadır. Sözleşmede aylık kira 400 TL olup kiranın her ay peşin olarak ödeneceği kararlaştırılmıştır. Sözleşmenin 19. maddesine göre bir kira ödenmediği takdirde gelecek kiralar muacceliyet kesbeder. Davacı bu kira sözleşmesine dayanarak 3.8.2010 tarihinde tahliye istekli olarak başlattığı icra takibi ile süresinde ödenmeyen 2010 Nisan, Mayıs, Haziran, Temmuz, Ağustos ile sözleşmenin 19. maddesi gereğince muaccel olan Eylül,Ekim, Kasım,Aralık 2010, Ocak, Şubat, Mart, Nisan 2011 ayları kira bedelleri aylık 400 TL 'den toplam 5200 TL'nin tahsilini istemiş, ödeme emri davalıya 13.8.2010 tarihinde tebliğ edilmiştir.Davalı süresinde yaptığı itirazında Nisan kirasını ödediğini ve muacceliyet şartı gereği istenen 3200 TL' ye itiraz ettiğini bildirmiştir.
 Bu ifadeden davalı-borçlunun takipte istenen 3600 TL 'ye itiraz ettiği, 1600 TL yönünden takibin kesinleştiği anlaşılmaktadır.İtiraza konu kira bedellerinin süresinde ödendiğinin davalı tarafından kanıtlanması gerekir.Davalı-borçlu tarafından 21/10/2010 tarihli makbuzla 750-TL, 01/11/2010 TL makbuzla 700-TL, 02/11/2010 tarihli makbuzla 700-TL olmak üzere yapılan ödemelerin 30 günlük yasal ödeme süresinden sonra…
 
 ## Yargıtay 6. HD 2011/12153 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1058954200)
+
 Davada dayanılan ve hükme esas alınan 2007 Temmuz başlangıç tarihli beş yıl süreli kira sözleşmesi konusunda taraflar arasında uyuşmazlık bulunmamaktadır. Sözleşmenin özel şartlar 2. maddesinde "karşılıklı anlaşma dışında protokolün bozulması durumunda bozan taraf geri kalan sürenin kira bedelini karşı tarafa ödeyecektir." ve 4. maddesinde "yıllık kira artışı %10’dur" hükmü kararlaştırılmıştır. Özgür irade ile düzenlenen bu hükümler geçerli olup tarafları bağlar. Ancak, cezai şart niteliğindeki bu alacağın hesaplanması sırasında tahliye tarihindeki son kira bedelinin esas alınması ve artış hükmünün uygulanmaması gerekirken %10 oranında artırım yapıldığı gibi cezai şart olduğu kabul edilen bu alacağın, BK. 161/son maddesi gereğince fahiş olup olmadığı tartışılmadan sözleşmede belirlenen cezai şart talebinin tamamen kabulüne karar verilmiş olması da doğru değildir. Hüküm bu nedenlerle bozulmalıdır.
 
 ## Yargıtay 6. HD 2011/10716 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1078323400)
+
 Bu durumda, davalının takibe konu aylar kiraları olan 15.5.2010-15.6.2010 ay kira bedelini 27.7.2010 tarihinde, 15.6.2010-15.7.2010 ay kira bedeline de 2.7.2010 tarihinde ödeme yeri olan bankaya yatırdığı anlaşıldığından hem Mayıs 2010, hem de Haziran 2010 aylar kiralarının sözleşmedeki şartlar gereğince ödeme günü olan her ayın 1-5'i arasında ödenmemesi sebebiyle muacceliyet şartının gerçekleştiğinin kabulü gerekir. Ancak kiralananın 30.11.2010 tarihli celsede gerçekleşen anahtar teslimi ile tahliye edildiği anlaşıldığından ve kira sözleşmesi sona erdiğinden, mahkemece tahliye tarihine kadar ödendiği kanıtlanamayan kira alacağı miktarı yönünden itirazın kaldırılmasına ve bu miktar üzerinden takibin devamına karar verilmesi gerekirken mahkemece muacceliyet şartının gerçekleşmediğinden bahisle talebin reddine karar verilmesi hatalı olmuştur.
 
 ## Yargıtay 6. HD 2011/9770 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1059810200)
 
 Takibe dayanak yapılan ve karara esas alınan 1.1.2010 başlangıç tarihli ve üç yıl süreli kira sözleşmesi konusunda taraflar arasında bir uyuşmazlık bulunmamaktadır. Sözleşmede birinci yıl aylık kira bedelinin ilk altı aylık dönemde 2000.-TL+stopaj, ikinci altı aylık dönemde 2500.-TL+stopaj olarak her ayın 10.gününe kadar peşin ödeneceği aylık kira parasının yarısı olan miktarın kiralayan ... yarısının ise malik ... hesabına yatırılacağı, özel şartlar 6.madde de ise kira bedelinin süresinde ödenmemesi halinde kira süresi sonuna kadar ki tüm kira bedellerinin muaccel olacağı kararlaştırılmıştır. Bu şartlar geçerli olup, tarafları bağlar.
 Davacı alacaklı tarafından 18.2.2010 tarihinde başlatılan icra takibinde 2010 Ocak ve Şubat ayı kira bedellerinin süresinde ödenmemesi sebebiyle sözleşmedeki muacceliyet şartı gereği dönem sonuna kadar olan kira bedelleri toplamı 27.000.-TL'nin tahsilini istemiş, ödeme emrinin tebliği üzerine davalı borçlular itirazında Ocak 2010 kira bedelinin ödendiğini, Şubat 2010 kira bedelinin ise Mart ayının sonuna kadar ödeneceğinden kira borcu olmadığını ileri sürmüşler, yargılama sırasında ise yılık kira bedelinin talep edilemeyeceğini, muaccel olan aylar kira bedelinin ödendiğini savunmuşlardır. Dosyada bulunan alacaklıya ait banka hesap ekstresinin incelenmesinde 2010 Ocak ayı kira bedelinin 500.-TL olarak 15.2.2010, Şubat ayı kira bedelinin ise 1010.-TL olarak takipten sonra 12.4.2010 tarihinde sözleşmede belirtilen ödeme süresinden sonra ödendiği, muacceliyet şartının gerçekleştiği, ancak muaccel olan aylar kira bedelinin ise davalı borçlular tarafından yasal otuz günlük sürede ödenmediği bu durumda temerrüt olgusunun gerçekleştiğinin kabulü gerekir.
@@ -108,20 +142,28 @@ Mahkemece davacının takip konusu aylar kira bedelinin yarısını talep edebil
 
 ## Yargıtay 6. HD 2011/9419 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1058840400)
+
 Olayımıza gelince;davada dayanılan ve hükme esas alınan 01.06.2007 başlangıç tarihli ve bir yıl süreli kira sözleşmesi konusunda taraflar arasında uyuşmazlık bulunmamaktadır. Sözleşmede kira bedelinin her ayın birinde peşin ödeneceği ve bir aylık kira ödenmediği takdirde gelecek kiraların muacceliyet kesbedeceği kararlaştırılmıştır. Bu şart geçerli olup tarafları bağlar. Davacı 2008 Haziran ayı kira bedeli 400 TL'nın süresinde ödenmemesi nedeniyle davalıya 03.06.2008 tarihli noter ihtarını göndermiş, ihtar 04.06.2008 tarihinde davalıya tebliğ edilmiş, davalı tarafından 11.06.2008 tarihinde kira parası ödenmiş olup bu ihtar haklıdır. Davacı, 2008 Temmuz ayı kira parasının süresinde ödenmemesi nedeniyle davalıya 02.07.2008 tarihinde noter ihtarı göndermiş, ihtar 03.07.2008 tarihinde davalıya tebliğ edilmiş, kira parası davalı tarafından 14.07.2008 tarihinde ödenmiştir. Ne var ki, sözleşmedeki muacceliyet şartı gereği ilk ihtara konu kira bedeli süresinde ödenmediğinden dönem sonuna kadar olan aylar kira paraları istenebilir hale gelmiştir.
 Davacı anılan ilk ihtarla dönem sonuna kadar olan aylar kira paralarını talep edebilecek iken kira paralarını bölmek suretiyle 2008 Ağustos ayına ait kira parasını ayrı ihtara konu yaptığından davada iki haklı ihtarın koşulları oluşmamıştır. Mahkemece davanın reddine karar verilmesi gerekirken yazılı şekilde hüküm kurulması doğru görülmediğinden kararın bozulması gerekmiştir.
 
 ## Yargıtay 6. HD 2011/7535 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1059502000)
 
 Davalının cezai şarta ilişkin temyiz itirazlarına gelince; Davada dayanılan ve hükme esas alınan 6.3.2006 tarihli 5 yıl süreli noter onaylı kira sözleşmesi ve kira şartnamesi konusunda taraflar arasında uyuşmazlık bulunmamaktadır. Şartnamenin 13. maddesinde “kiracının kira dönemi sona ermeden faaliyetini durdurması, işletme ruhsatının her ne sebeple olursa olsun iptal edilmesi veya taahhüdünü sözleşme ve şartname hükümlerine uygun olarak yerine getirmemesi hallerinde kira sözleşmesi 2886 sayılı kanundan 62. Maddesine göre tebligat yapmaya gerek kalmaksızın feshedilecek, kesin teminatın irat kaydedilecek ve son bir yıl kira bedeli tazminat olarak tahsil edilecektir “ kararlaştırılmıştır. Özgür irade ile kararlaştırılan bu hükümler geçerli olup tarafları bağlar ise de, ancak öngörülen bu ödemenin cezai şart olarak kararlaştırıldığı kabul edilmeli BK. m. 161 hükümlerinin uygulanması lüzumu üzerinde de durulmalıdır.
 BK.nun 161. maddesi gereğince taraflar cezanın miktarını tayinde serbest iseler de son fıkra gereğince "Hakim, fahiş gördüğü cezaları tenkis ile mükelleftir." Ceza koşulunun fahiş olup olmadığı, tarafların iktisadi durumu, özel olarak borçlunun ödeme kabiliyeti ile beraber, borçlunun borcunu yerine getirmemiş olması nedeniyle sağladığı menfaat, borçlunun kusur derecesi ve borca aykırı davranış ağırlığı ölçü alınarak tayin edilmeli ve hüküm altına alınan ceza miktarı, hak, adalet ve nesafet kurallarına uygun olarak tesbit edilmelidir. Mahkemece açıklanan bu yönler gözetilmeden, BK. 161/son maddesi gereğince kararlaştırılan cezai şartın fahiş olup olmadığı tartışılmadan, sözleşmede belirlenen cezai şart talebinin tamamen kabulüne karar verilmiş olması doğru değildir. hüküm bu nedenlerle bozulmalıdır.
 
 ## Yargıtay 6. HD 2011/4443 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1056463800)
+
 Takibin ve davanın dayanağı olan 1.11.2003 başlangıç tarihli ve bir yıl süreli kira sözleşmesinde, kiranın her ayın altısına kadar ödeneceği kararlaştırılmıştır. Özel şartlar 5.maddesinde ise “aylık kira bedellerinden birisi ödenmediği takdirde kira döneminin kalan aylarına ait kira ücretleri hiçbir ihtara gerek kalmadan muacceliyet kesbeder” hükmü yer almaktadır. Kira sözleşmesine göre kira parası her ayın altınsında ödenmediği takdirde kalan aylar kirası muaccel olacaktır. Alacaklı tarafından ödenmeyen Ağustos 2009 ve bu şart gereği muaccel Eylül ve Ekim ayları kiraları için 11.8.2009 tarihinde takip başlatılmış, borçlu tarafından ödeme emriyle verilen otuz günlük ödeme süresi içerisinde, davacının banka hesabına 11.8.2009 tarihinde, sadece Ağustos 2009 kirası ödenmiştir. Sözleşmede belirlenen ödeme zamanından sonra yapılan ödeme ile muacceliyet şartı gerçekleşmiştir. Davalı tarafından ödeme emri tebliğinden itibaren 30 günlük yasal ödeme süresi içinde muacceliyet şartı gereği muaccel hale gelen kira paraları ödenmediği anlaşılmaktadır. Bu durumda temerrüt olgusunun gerçekleştiğinin kabulü gerekir.
 Mahkemece, davacının banka hesabına yapılan ödemeler mahsup edildikten sonra, kalan alacak üzerinden takibin devamına ve kiralananın tahliyesine karar verilmesi gerekirken yazılı şekilde davanın reddine karar verilmesi doğru değildir.
 
 ## Yargıtay 6. HD 2011/3716 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1058860000)
 
 Takipte dayanılan ve hükme esas alınan 20.2.2007 başlangıç tarihli ve bir yıl süreli kira sözleşmesi konusunda taraflar arasında bir uyuşmazlık bulunmamaktadır. Sözleşmede aylık kira bedelinin 500 TL olup, her yıl %30 oranında artırılacağı, kira paralarının her ayın yirmi beşinde peşin ödeneceği, özel şartlar 4.maddesinde ise, aynı dönemde iki ay kira parasının
 
@@ -129,19 +171,27 @@ arka arkaya ödenmemesi halinde dönem sonuna kadar olan kira paralarının muac
 
 ## Yargıtay 6. HD 2010/13131 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/17040700)
+
 Takipte dayanılan ve karara esas alınan 15.07.2009 başlangıç tarihli ve bir yıl süreli kira sözleşmesi konusunda taraflar arasında uyuşmazlık bulun-mamaktadır. Sözleşmenin 19. maddesinde muacceliyet koşuluna yer verilmiş olup buna ilişkin olarak "bir kiranın ödenmemesi halinde gelecek kiraların muacceliyet kesp edeceği" kararlaştırılmıştır. Sözleşmede öngörülen bu şart geçerli olup tarafları bağlar. Davacı alacaklı dava dilekçesinde, Mayıs ve Haziran 2010 aylarının sözleşmedeki muacceliyet şartına bağlı olarak takibe konu edildiğini açıklamıştır. Karşılıklı irade açıklamaları uyarınca ödeme gününün her ayın 15'i olduğu anlaşılmaktadır. Borçlu tarafından itiraz edilmeyen 2010 Nisan ayı ile eksik ödenen Şubat ve Mart ayı kira paralarının takip dosyasına 12.05.2010 tarihinde ödenmiş olması karşısında muacceliyet koşulu gerçekleşmiştir. Buna bağlı olarak ta itiraza konu Mayıs ve Haziran 2010 aylarına ilişkin kira borcunun yasal 30 günlük sürede ödenmediğinin kabulü ile mahkemece ödenmeyen kısım üzerinden itirazın kaldırılmasına, takibin devamına ve temerrüt nedeniyle kiralananın tahliyesine karar verilmesi gerekirken yazılı şekilde isteğin reddine karar verilmesi hatalı olmuştur.
 
 ## Yargıtay 3. HD 2010/18254 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/970189100)
+
 Taraflar arasında düzenlenmiş bulunan 01.08.2008 başlangıç tarihli kira sözleşmesinin hususi şartlar 17.maddesinde "Aynı dönem içerisinde kira bedelinin iki ay arka arkaya ödenmemesi halinde, ödenmeyen ... itibaren kontrat süresi sonuna kadar olan kira bedelleri muacceliyet kesbeder..." hükmü getirilmiştir. Davacı bu maddeye dayanarak icra takibi ile Mart, Nisan, Mayıs, Haziran ve Temmuz ayları kira bedeli toplamı olan 4.250 TL asıl alacak 5.45 TL, işlemiş faiz olmak üzere 4.255,45 TL üzerinden takip başlatmıştır. Sözleşmede yer ... muacceliyet ... kiracının kiralananı boşalttığı halde kira parası ödemesi yükümlülüğü doğurmaz. Kira sözleşmesinde yer ... muacceliyet şartı ancak sözleşmenin devamı ve kiralananın kullanılması halinde anlam taşır. Davacı kiralayan süreden önce taşınmazı tahliye eden kiracıdan tazminat talep edebilir davacı 17.madde nedeniyle kira alacağı talep edemez.
 
 ## Yargıtay 6. HD 2010/11421 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1063723500)
 
 Davaya dayanak yapılan ve hükme esas alınan 1.5.2004 başlangıç tarihli ve bir yıl süreli sözleşme konusunda taraflar arasında bir uyuşmazlık bulunmamaktadır.Sözleşmede aylık kira net 500.TL ve İTO'nın yayınlayacağı Toptan Eşya Fiyat Endeksi oranında her yıl % 35 den aşağı olmamak üzere artırılacağı kararlaştırılmıştır.Sözleşmenin özel şartları 5 maddesinde” kiracı aylık kira bedellerini her ayın 10 gününe kadar peşin olarak kiralayanın ikametgahında gecikmeksizin tam ve eksiksiz olarak öder.Hiç bir şekilde mahsupta bulunamaz” 12.maddesinde ise ”aylık kira bedellerinden herhangi birisi zamanında ödenmediği takdirde o döneme ait bütün kira bedelleri muacceliyet kespeder.” şartları vardır.
 Bu şartlar geçerli olup tarafları bağlar.Davacı sözleşmeye dayanarak 26.1.2007 tarihinde keşide ettiği ihtarname ile aylık 625.-TL'den 2007 yılı Ocak ay kira bedeli süresinde ödenmediğinden sözleşmedeki muacceliyet şartı gereğince istenebilir hale gelen dönem sonuna kadar 4 aylık kira bedeli 2.500.00 TL nin 30 gün içinde ödenmesini istemiştir.İhtar davalıya 27.1.2007 tarihinde tebliğ edilmiştir.Davalı 2007 Ocak ay kira bedelini süresinde ödediğini savunmuş ise de İhtara konu 2007 Ocak ayı kira bedeli davalı tarafından İş Bankası ... Şubesindeki kendi otomatik ödeme hesabına 8.1.2007 tarihinde 625.-TL olarak yatırılmıştır. Bu hesap üzerinden banka tarafından yıllık işlem masrafı adı altında 30.-TL kesildiğinden 9.1.2007 tarihinde hesap bakiyesi 595.- TL olduğundan hesaptan otomatik ödeme yapılamadığı ve bakiye 595.-TL nin 29.1.2007 tarihinde davalı tarafından çekildiği İş Bankası ... Şubesinin 24.3.2008 tarihli yazılarından anlaşılmaktadır.Kira borcu kiralayanın ayağına götürülerek ödenecek borçlardandır.
 Davalının kira bedelinin ödenmesi için kendi hesabına para yatırması yasal ödeme olmadığı gibi hesaba yatan kira bedelinden yıllık işlem masrafı kesilmesi sebebiyle davacının hesabına aktarılmamış olması davalıyı sorumluluktan kurtarmaz.Öte yandan davalının otomatik hesaba yatırdığı bakiye 595.00 TL'yi 29.1.2007 tarihinde kendi hesabından çekip üzeri tamamlanarak aynı tarihte 2007 Ocak ay kira bedeli olarak davacının hesabına yatırıldığı aynı bankanın 22.2.2009 tarihli yazısında belirtilmiştir.Bu durumda 2007 Ocak ay kira bedelinin sözleşmede belirtilen ödeme süresi içinde yatırılmadığının kabulü gerekir. O nedenle 2007 Ocak ay kira bedeli süresinde ödenmediğinden sözleşmenin özel şartlar 12.maddesi gereğince dönem sonuna kadar olan kiralar istenebilir hale gelmiştir.İhtara konu muaccel olan ay kiraları yasal 30 günlük ödeme süresi içinde ödenmediğinden temerrüt olgusu da gerçekleşmiştir.Bu durumda davanın kabulü ile kiralananın tahliyesine karar verilmesi gerekirken yazılı şekilde hüküm kurulması doğru olmadığından hükmün bozulması gerekmiştir.
 
 ## Yargıtay 6. HD 2010/11336 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1063701100)
 
 Taraflar arasında 15.07.2007 başlangıç tarihli ve bir yıl süreli kira sözleşmesi bulunduğu, aylık kiranın 2.000 TL olup, ait olduğu ayın ilk beş günü ödeneceği hususlarında uyuşmazlık bulunmamaktadır. Aynı sözleşmenin 19.maddesinde; bir kira ödenmez ise gelecek kiraların muaccel hale geleceği düzenlenmiştir. Davacı, 02.02.2009 tarihinde başlatmış olduğu icra takibinde, 2007 Ağustos ayı kirasının geç ödenmesi nedeniyle muaccel hale gelen dönem sonuna kadar olan kira paralarından ödenenler mahsup edildikten sonra kalan 8 aylık kira parası toplamı 16.000 TL’nin işlemiş faizi ile birlikte tahsilini talep etmiştir. 2007 yılı Ağustos ayı kira parasının 31.08.2007 tarihinde ödendiği davalının da kabulündedir. 2007 yılı Ağustos ayı kira parası ait olduğu ayın ilk beş günü içinde ödenmesi gerekirken
 

@@ -23,15 +23,21 @@ uyari: "Derleyenin seçtiği alıntılardır; kararın tamamı değildir. Künye
 
 ## Yargıtay 15. HD 2018/2452 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/428464300)
+
 Bunların yanında tadilat (revizyon) projesine göre yapılıp sonradan yıkılan veya yapımı engellenen tesis ve yapılarla ilgili kira kaybı istemi yönünden de; yukarıda açıklandığı üzere davalı iş sahibince tadilat projesinin ön onayının yapıldığı kesin onayının ise yapılmadığı belirtilerek kesin onay ile tadilat projesine ilişkin protokol ve sözleşme yapılıncaya kadar inşaat ve imalâtlara başlanılmaması yükleniciden istenmiştir. Bu tesis ve binalar bakımından yapı ruhsatı verilmediği gibi belediye yazıları ve dosya kapsamından yapı ruhsatı verilmesi imkanı da olmadığı anlaşıldığından yüklenici yaptırılmayan ya da yapılan ve fakat davalı iş sahibince yıktırılan tadilat projesindeki ilave tesislerle ilgili davacı kazanç ve kira geliri istemekte de haklı değildir. Bilirkişi raporunda yıkılan ve yapılmayan ünitelerin “Benzer yerlerin olabilir kira getirileri araştırması yapılarak” sözleşme tarihi ile dava tarihi arasındaki 7 yıllık kira kaybı olarak 5.565.000,00 TL’nin hesaplanması ve mahkemece bu tutarın hüküm altına alınması doğru olmamıştır.
 Diğer yandan hükme esas alınan bilirkişi raporunda davacının yap-işlet-devret nitelikli sözleşme eki proje uyarınca yaptığı tesisleri alt kiracılara kiraya vermesi nedeniyle 2004 yılında elde ettiği kira geliri esas alınarak dava tarihine kadar TEFE artış oranlarına göre elde etmesi gereken kira gelirleri hesaplanıp, bu miktardan davacının ticari defterleri üzerinde yapılan inceleme sonucunda dava tarihine kadar fiilen alt kiracılarından tahsil ettiği kira gelirlerinin mahsubu sonucu davacının 3.396.833,75 TL kira geliri kaybı olduğu belirlenmiş ise de bu hesaplamanın da sözleşmesel ve yasal bir dayanağı bulunmadığından belirlenen miktarın davalıdan tahsiline karar verilmesi de hatalı olmuştur. Bu durum karşısında davacının kira kaybı taleplerinin de reddi gerekir.
 
 ## Yargıtay 3. HD 2018/4378 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/428910900)
+
 Taraflar arasında 01.04.2013 başlangıç ve 31.10.2013 bitiş tarihli kira sözleşmesinin varlığı hususunda uyuşmazlık bulunmamakta olup sözleşmede 4 adet dükkanın toplam kira bedeli 180.000 Euro olarak belirlenmiştir. Dava konusu 4 adet dükkan davacı tarafından dava dışı ..... A.Ş. ve Cömertoğlu... A.Ş.'den kiralanmış ve alt kiralama yetkisine dayanılarak davalı şirkete kiraya verilmiştir. Kural olarak anahtar teslim edilmediği sürece kiralananın kiracının kullanımında olduğunun kabulü gerekir. Kiralananın anahtarının usulüne uygun şekilde kiraya veren davacıya teslim edildiği davalı kiracı tarafından yazılı delillerle kanıtlanmalıdır. Yasal anahtar teslimi bizzat anahtarı kiraya verene vermek veya tevdi mahalli tayini suretiyle yapılır. Mahkemece, davacı kiraya verenin, ... Otel'de bulunan 2 adet dükkan için davacı ile dava dışı ..... A.Ş. arasında yapılan kira sözleşmesinin 31.10.2013 tarihinde sözleşmenin yenilenmediğinden son bulduğu gerekçesi ile bu 2 dükkan için talep edilen kira bedeli yönünden davanın reddine karar verilmiş ise de; Davacı ile dükkan sahibi .....
 A.Ş. arasında sözleşmenin sonlandırıldığına ilişkin bir delil sunulmaması karşısında davacı üst kiracının kiracılığının devam ettiğinin kabulü gerekir. Bu itibarla, davacının ödenmeyen kira bedellerini alt kiracıdan talep etme hakkı bulunduğu gözetilerek sonucuna göre karar verilmesi gerekirken hatalı gerekçe ve eksik araştırma ile yazılı şekilde karar verilmesi doğru değildir.
 
 ## Yargıtay 15. HD 2018/861 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/413405500)
 
 Dosya kapsamından dava dışı ... İnş. San. Tic. Ltd. Şti. ve ... İnş. Mad. San. Tic. Ltd. Şti. ile davalı arasında 09.04.2012 başlangıç tarihli kira sözleşmesinin düzenlendiği, bu sözleşme
 
@@ -39,26 +45,38 @@ ile davalıya ait dava konusu iş makinesinin dava dışı şirketlere kiraland�
 
 ## Yargıtay 3. HD 2017/16600 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/386052600)
+
 TBK'un 322. maddesine göre Alt kira, konut ve çatılı iş yeri kiralarında kiraya verenin yazılı izni ile kiracının kiralananı 3. bir kişiye kiralaması olarak tanımlanabilir. Kiracılığın devri ise TBK'un 323. maddesi uyarınca kiraya veren, kiracı ve kiralananı devralan üçüncü kişi arasında yapılan bir sözleşmedir. Bu devir sözleşmesi birlikte yapılabileceği gibi kiracı ile 3.kişinin anlaşmalarına kiraya verenin muvafakat vermesi ile de gerçekleşebilir. Kiracılığın devrinde ilk kiracı devreden çıkar ilk kiracının tüm hak ve yükümlülükleri devralan kiracıya geçer, devralan kiracı kiraya verene karşı sorumlu olur.
 
 ## Yargıtay 3. HD 2017/13652 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/391065600)
 
 TBK'un 322. maddesine göre Alt kira, konut ve çatılı iş yeri kiralarında kiraya verenin yazılı izni ile kiracının kiralananı 3. bir kişiye kiralaması olarak tanımlanabilir. Kiracılığın devri ise TBK'un 323. maddesi uyarınca kiraya veren, kiracı ve kiralananı devralan üçüncü kişi arasında yapılan bir sözleşmedir. Bu devir sözleşmesi birlikte yapılabileceği gibi kiracı ile 3.kişinin anlaşmalarına kiraya verenin muvafakat vermesi ile de gerçekleşebilir. Kiracılığın devrinde ilk kiracı devreden çıkar ilk kiracının tüm hak ve yükümlülükleri devralan kiracıya geçer, devralan kiracı kiraya verene karşı sorumlu olur.Somut olayda; Davacı ile ... arasında yapılan kira sözleşmesinin kiracı davalıya 2011 Aralık ayında devredildiği ve kiralananın dükkan olduğu hususlarında uyuşmazlık bulunmamaktadır. Her ne kadar davalı kiracılığını dava dışı ... Ltd.
 Şti'ye devrettiğini ve kira bedellerinin bu şirket tarafından ödendiğini belirterek kiracının dava dışı şirket olduğunu savunmuş ise de; davalı ile şirket arasındaki kiracılığın devrine ait anlaşmaya ya davacının zımmi veya açık muvafakat verdiği hususu ispatlanmadığı gibi, kira bedellerinin dava dışı şirket tarafından banka hesabına ödenmesi de davacının sözleşmenin devrine onay verdiğini göstermez. Bu nedenle davalının kiracı olduğunun kabulü ile iki haklı ihtar ve kira alacağı talepleri yönünden inceleme yapılarak sonucuna göre karar verilmesi gerekirken yazılı şekilde kira sözleşmesinin devredildiğinden bahisle davanın reddine karar verilmesi doğru olmadığından hükmün bozulması gerekmiştir.
 
 ## Yargıtay 3. HD 2017/12342 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/370788500)
+
 Mahkemece, davalının malik olduğu gerekçesiyle davanın reddine karar verilmiş ise de; davalı şirketin davaya konu taşınmazı satın aldıktan sonra davacı ile kiracı sıfatı ile kira sözleşmesi imzaladığı, yine taşınmaz üzerindeki yapıların davacıya ait olduğuna dair ek protokol imzaladığı, davaya konu yapıların davacı eski malike ait olduğunun tapuda şerh ile de güçlendirilmiş olduğu ve yazılı kira sözleşmesi uyarınca, davalı kiracının, TBK'nun 313. maddesi gereğince kira bedelini ödeme borcu olduğu gözetilerek; sonucuna göre bir karar verilmesi gerekirken, yazılı şekilde karar verilmesi doğru görülmemiş, bozmayı gerektirmiştir.
 
 ## Yargıtay 3. HD 2017/12258 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/379879800)
 
 TBK'un 322. maddesine göre Alt kira, konut ve çatılı iş yeri kiralarında kiraya verenin yazılı izni ile kiracının kiralananı 3. bir kişiye kiralaması olarak tanımlanabilir. Kiracılığın devri ise TBK'un 323. maddesi uyarınca kiraya veren, kiracı ve kiralananı devralan üçüncü kişi arasında yapılan bir sözleşmedir. Bu devir sözleşmesi birlikte yapılabileceği gibi kiracı ile 3.kişinin anlaşmalarına kiraya verenin muvafakat vermesi ile de gerçekleşebilir. Kiracılığın devrinde ilk kiracı devreden çıkar ilk kiracının tüm hak ve yükümlülükleri devralan kiracıya geçer, devralan kiracı kiraya verene karşı sorumlu olur. Yine aynı kanun'un 366.maddesinde de benzer düzenlemeye yer verilmiştir.
 
 ## Yargıtay 3. HD 2017/12244 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/370656700)
+
 6098 Sayılı Türk Borçlar Kanun'unun 322. maddesine göre alt kira, konut ve çatılı iş yeri kiralarında kiraya verenin yazılı izni ile kiracının kiralananı 3. bir kişiye kiralaması olarak tanımlanabilir. Kiracılığın devri ise aynı kanun'un 323. maddesi uyarınca kiraya veren, kiracı ve kiralananıdevralan üçüncü kişi arasında yapılan bir sözleşmedir. Bu devir sözleşmesi birlikte yapılabileceği gibi kiracı ile 3.kişinin anlaşmalarına kiraya verenin muvafakat vermesi ile de gerçekleşebilir. Kiraya verenin yazılı rızası alınmadıkça kira ilişkisi başkasına devredilemez. Kiracılığın devrinde ilk kiracı devreden çıkar ilk kiracının tüm hak ve yükümlülükleri devralan kiracıya geçer, devralan kiracı kiraya verene karşı sorumlu olur.
 
 ## Yargıtay 3. HD 2017/12194 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/367213500)
 
 Kira sözleşmesi, bir bedel karşılığında geçici bir süre için başkasına ait taşınır ya da taşınmaz malın kullanılmasını sağlayan anlaşmadır. Kira sözleşmesi karşılıklı iradelerin birleşmesi ile oluşur. Her sözleşmede olduğu gibi kira sözleşmesinde de iki taraf vardır ve taraflarına şahsi hak sağlar. Davada dayanılan 22.02.2012 başlangıç tarihli alt kira sözleşmesi davalılar Vodafone Telekomünikasyon AŞ ile ... AŞ. arasında 6098 Sayılı Türk Borçlar Kanun'unun yürürlüğe girdiği 01.07.2012 tarihinden önce düzenlenmiştir. Davacı busözleşmenin tarafı değildir. Davacı ile davalı kiracı... arasında düzenlenen 19/04/2001 başlangıç tarihli, 99 yıl süreli kira sözleşmesi halen geçerli olduğundan davacı ancak bu sözleşme kapsamında ödenmeyen kira bedeli varsa sözleşmenin tarafı olan kendi kiracısından alacak talebinde bulunabilir. Davalı kiracı, sadece 19/04/2001 tarihli sözleşme gereği kira bedelini ödemekle yükümlü olup alt kira sözleşmesi gereği tahsil ettiği kira bedelini asıl kiraya verene ödeme yükümlülüğü bulunmadığından davanın reddine karar
 
@@ -66,29 +84,43 @@ verilmesi gerekirken yazılı şekilde hüküm kurulması doğru görülmediğin
 
 ## Yargıtay 8. HD 2017/6983 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/362199800)
+
 Kira sözleşmesinde kiralayan ....., kiracı ise dava dışı .... Şirketidir. Sözleşmenin 18. maddesinde ; kiracıya kiralananı devretme veya alt kira sözleşmesi yapma yetkisi tanınmış olup , 26.10. 2009 tarihli kira sözleşmesine ek protokol ile de kira sözleşmesinin 18. maddesine atıf yapılarak kiralayanın, .... (Unvan değişikliği ile .......'ne alt kiraya verme veya devredilmesine muvafakat ettiği anlaşılmaktadır. Davacı vekili 16.12.2014 tarihinde kira sözleşmesi ve ek protokole dayanarak kiracı olduğunu iddia ettiği .... aleyhine icra takibi başlatmıştır. Davacı vekilinin dava dilekçesinde delilleri arasında bulunan Ticaret Sicil Gazetesi, faturalar, ihtarnameler, cevabi ihtarlar, cari hesap kayıtları, ticari defter ve kayıtlar incelenmeden borçlunun icra takibine itirazında sadece borca itiraz ettiği de dikkate alınmadan yazılı şekilde husumet yokluğundan davanın reddine karar verilmesi doğru değildir. Kararın bu nedenle bozulması gerekmiştir.
 
 ## Yargıtay 3. HD 2017/5031 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/360747700)
 
 Olayımıza gelince; dava konusu otel, malik dava dışı.. tarafından 15.04.2014 başlangıç tarihi kira sözleşmesi ile davalı...ye 1+4 yıl süreli olarak kiralanmış, davalı... tüm kar ve zararı kendisine ait olmak üzere 09.05.2014 tarihli pazarlama işletme ve yönetim sözleşmesi ile otelin işletmesini davacı ...... A.Ş.'ye vermiştir. .... A.Ş., Silkar A.Ş. ve Silkar A.Ş. Ortakları tarafından imzalanan ....ye başlıklı 12.06.2014 tarihli "....-Harman arasında da aşağıdaki şartlarla (hasılat paylaşımlı) bir alt kira sözleşmesi imzalanması, Silkar ve .... tarafından kabul ve taahhüt edilmiştir." denilerek, sözleşme şartlarını belirtir belge düzenlenerek davacı ...Ş.'ye gönderilmiştir. Bu belgenin 2.1. maddesinde; "....- Harman arasında 5 yıllık hasılat paylaşımlı alt kira sözleşmesi imzalanacak ve bu alt kira sözleşmesi, Tapu’ya 5 yıl süre için masrafları Harman tarafından ödenmek şartıyla şerh edilecektir. Silkar ve ...., hasılat paylaşımlı alt kıra sözleşmesinin tapuya şerhi için ilgili Tapu Sicil Müdürlüğüne gerekli muvafakat ve talep yazılarını verecektir."…
 
 ## Yargıtay 8. HD 2017/4802 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/358877400)
+
 Alt kiracı, asıl kiracıya tabi olduğundan, kiralayan ile kiracısı davacı arasındaki kira ilişkisi herhangi bir nedenle sona erdiğinde, alt kiracı olan davalıların da kiracılığı son bulacağından, Mahkemece kira ilişkisinin son bulduğu 15.07.2013 tarihinden sonraki kullanım bedellerinin icra takiplerine konu edildiği ve tahsilinin istendiği gözönünde bulundurularak, davacının kira alacağı için takip yapmakta haksız olduğunun kabulü ile davanın reddine karar verilmesi gerekirken yazılı gerekçe ile itirazın kaldırılmasının kısmen kabulüne ve kiralananlarının tahliyesine karar verilmesi doğru olmadığından asıl dava ve birleşen davaya ilişkin kararın bozulması gerekmiştir.
 
 ## Yargıtay 3. HD 2017/108 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/294458100)
 
 Davada dayanılan ve hükme esas alınan 19.02.1998 tarihli ve 5 yıl süreli kira sözleşmesi konusunda uyuşmazlık yoktur. Sözleşmeye konu tesis, kiracı AŞ tarafından davacıya alt kiraya verilmiştir. Sonraki süreçte taşınmaz maliki ile alt kiraya veren birleşerek ... adını almış, kiralanan 31.12.1999 tarihinde dava dışı ve 03.11.2006 tarihinde de davalı ... AŞ’ne satılmıştır. nin satım tarihinden önce kiracı ile düzenlediği 16.06.2006 tarihli fesih protokolünde; kiralananın en geç 31.12.2006 tarihinde tahliye ve teslim edileceği kararlaştırılmıştır. Kararlaştırma doğrultusunda tesis kiracı tarafından yeni malikie teslim edilmiştir. Davacı kiracı; kira ilişkisinin devamı süresince tesise büyük çaplı zorunlu ve faydalı yatırımlar yaptıklarını belirterek yatırım bedelinin davalılardan tahsiline karar verilmesini istemektedir.
 
 ## Yargıtay 12. HD 2017/275 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/296161800)
+
 Şikayetçilerin işgal ettiği bağımsız bölümlerin kira kontratında alt kiraya verilen bağımsız bölümler olduğu dosya kapsamı ile sabittir. Bu nedenle alt kiracı sıfatı ile borçluya tebaan mecurda oturdukları için İİK'nun 276/son fıkrası uygulanmasında üçüncü kişi sayılamazlar. İcra müdürlüğünce, şikayetçilere mecuru tahliye etmesi için süre verilmesi yönündeki şikayet konusu işlemi usul ve yasaya uygundur. Bu nedenle mahkemece, şikayetin reddi yönünde hüküm tesisi yerinde olup, mahkeme kararının onanması gerekirken, Dairemizce maddi hataya dayalı olarak bozulduğu anlaşılmakla, karar düzeltme isteminin kabulü ile bozma kararının kaldırılarak mahkeme kararının yukarıda açıklanan nedenlerle onanması gerekmiştir.
 
 ## Yargıtay 20. HD 2016/6767 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/207704500)
+
 Antalya 10. Asliye Hukuk Mahkemesi tarafından ise davalının taşınmazda fuzulî şagıl olmadığı veya haksız müdahalesinin bulunmadığı, davacı ...'nin kiracı, davalı ...'ün de alt kiracı sıfatlarının bulunduğu ve taraflar arasında alt kiracılıktan kaynaklanan sözleşme düzenlendiği, taraflar arasındaki ihtilafın ecrimisil hükümleri kapsamında kalmadığı, bu duruma göre HMK'nın 4. maddesinde de açıkça düzenlendiği üzere kira hukukundan kaynaklanan tüm uyuşmazlıklara bakma görev ve yetkisinin sulh hukuk mahkemesine ait olduğu gerekçesiyle görevsizlik kararı verilmiştir.
 
 ## Yargıtay 11. HD 2016/4640 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/214351500)
 
 Öte yandan, işbu davanın dayanağını oluşturan icra takibinde protokol uyarınca davalıya devredilen işyerinin kira bedeline ilişkin alacak talebinde de bulunulmuştur. Somut olayda dava dışı.. Gıda Ltd. Şti.'nin işlettiği Balgat Cevizlidere Cad. 25/B adresinde bulunan işyeri de protokol uyarınca davalıya devredilmiştir. Ancak, dosya içerisindeki belgelerden bu işyerinin dava dışı ......e ait olduğu, davacı ile yapılan kira sözleşmesi uyarınca dava dışı şirket tarafından kullanıldığı anlaşılmaktadır. Taraflar arasında düzenlenen protokol uyarınca dava dışı şirkete ait işyerinin alt kiracı sıfatıyla davacıya devri öngörülmüş ve devir tarihi sonrasındaki kira bedellerinin davalı tarafından ödeneceği kararlaştırılmıştır. Nitekim, davacı alt kiracı olan davalı tarafından ödenmesi gereken kira bedellerinin ödenmediği, bu bedellerin tarafından ödendiğinden bahisle alacak isteminde bulunmuştur. Alt kira ilişkisi bakımından diğer takip alacaklıları ile davalı arasında bir hukuki ilişki bulunmadığından
 
@@ -96,10 +128,14 @@ davacının bu talep yönünden tek başına itirazın iptali davası açmasına
 
 ## Yargıtay 6. HD 2016/2685 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/210074400)
+
 6098 Sayılı TBK.nun 301. maddesine göre kiralayan kiralananın kullanım amacına uygun tam ve eksiksiz bir şekilde kiracıya teslim etmek ve kira müddeti boyunca bu halde bulundurmakla mükelleftir. Kiralayanın bu yükümlülüğünü yerine getirmemesi halinde kiracı TBK.nun 304, 305 ve 306 maddeleri gereğince akdi feshedebileceği gibi kira bedelinin tenzilini de isteyebilir. Ancak kiracının kiralanandaki ayıbı, eksikliği TBK.nun 123 ve 125. maddeleri gereğince uygun bir sürede kiraya verene ihbar etmesi gerekir. Somut olayda; Taraflar arasında 15/08/2013 tarihli ve bir yıl süreli kira sözleşmesinin varlığı hususunda uyuşmazlık bulunmamaktadır. Uyuşmazlık davacı kiracının akdin feshinde haklı olup olmadığı hususunda toplanmaktadır. Alt kira sözleşmesinin hususi şartlar bölümünün 11. maddesindeki açık düzenleme davacı alt kiracı tarafından bilinmekte olup kiralanan taşınmazın ruhsatının bulunmadığını bile bile taşınmazı kiralamıştır. Bu durumda davacı kiracının sözleşmeyi feshetmekte haklı olduğu kabul edilemez. Davacı kiracı kiralananı tahliye ve teslim etmemiş olup, dava tarihi ve yargılama aşamasında tasarrufunda bulundurduğundan kira bedellerinden sorumludur.
 Bu nedenle peşin ödediği kira bedelinin iadesini ve depozito bedelinin iadesini isteyemez. Mahkemece yukarıda izah edilen nedenlerle davanın tümden reddine karar verilmesi gerekirken yazılı şekilde davanın kabulüne karar verilmesi doğru değildir.
 
 ## Yargıtay 11. HD 2016/3474 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/218769400)
 
 Yine taraflar arasındaki... Sözleşmesinin 24. maddesine göre; hukuki ihtilaf halinde kazanan tarafın yaptığı masrafları ve ...'nde gösterilen yasal avukatlık ücretlerinin 3 katını kaybeden taraftan tazmin etme hakkına sahip olduğu ve alt kira sözleşmesinin 5.14. maddesine göre de alt kiracı aleyhine hiç yahut süresinde yapmadığı ödemeler sebebiyle hukuki takip başlatılması halinde kiraya verenin avukatları lehine vekillik ücretinin üç misli olarak ödeneceği şeklinde kararlaştırılan sözleşme içeriği dikkate alınarak, birleşen davada davacı ve vekili yararına üç misli tutarınca yargılama giderlerine ve vekalet ücretine karar verilmiştir. Ancak birleşen davada davacının talepleri tümüyle kabul edilmemiş olup, davanın kısmen kabulü ile kısmen reddine karar verilmiş olduğuna göre; birleşen davanın
 
@@ -107,14 +143,20 @@ davalıları ve vekilleri yönünden de sözleşmelerin ilgili maddeleri yorumla
 
 ## Yargıtay 6. HD 2016/2504 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/215657300)
+
 Uyulmasına karar verilen Dairemizin bozma ilamı gereğince alt kira sözleşmesinin süresinden önce sona ermesine neden olan davalı, davacı alt kiracının sözleşmenin süresinden önce sona ermesi nedeniyle uğradığı zararlardan sorumludur. 818 Sayılı Borçlar Kanunu'nunun 249. maddesinde(6098 sayılı TBK.nun 301. maddesi) düzenlenen kiralananın kira süresi boyunca kiracının kullanımına sunulması yükümlülüğünü yerine getirmemişlerdir. Bu durumda kiracı kusursuz olduğunu kanıtlayamayan kiraya veren davalıdan kâr kaybı zararı adı altında bir miktar paranın kendisine ödenmesini isteyebilir. Ancak mahkemece kâr kaybı hesabı yapılırken davacı kiracının dava konusu kiralanan ile aynı vasıf ve özelliklere sahip başka bir taşınmazı aynı şartlarda ne kadar sürede kiralayabileceği bilirkişi aracılığıyla tespit edilerek bu süre ile sınırlı olarak kâr kaybı alacağına hükmedilmesi gerekirken kira süresi sonuna kadar olan kâr mahrumiyetinin hesaplandığı bilirkişi raporu hükme esas alınarak karar verilmesi doğru değildir.
 
 ## Yargıtay 6. HD 2016/1560 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/208621900)
 
 Dava konusu taşınmazın, maliki .... tarafından 15/07/2008 tarihli, 16 yıl süreli sözleşme ile ....' ye kiralandığı, kiracı ....'nin 24/07/2008 tarihli, 15 yıl süreli alt kira sözleşmesi ile dava konusu taşınmazı ....'ye kiraladığını, alt kiraya veren şirketin ... ile birleştiği, dava tarihi itibariyle taşınmaz malikinin ... olduğu, ... ile düzenlenen 01/01/2012 tarihli protokol ile taşınmazı kullanım hakkı bırakılan .... tarafından, 01/01/2012 tarihli kira sözleşmesi ile dava konusu taşınmazın davacıya kiralandığı anlaşılmaktadır. Malik sıfatıyla ...., devreden sıfatı ile .... ve devralan olarak davacı tarafından imzalanan 01/01/2012 tarihli Kira Sözleşmeleri Devir Protokolünün 3.3 maddesinde " Alışveriş merkezinde bulunan mağazalarla ilgili, eski kiralayan ...., kira sözleşmelerini tüm hak ve yükümlülükleri ile birlikte ....ye devretmiştir. " hükmü yer almaktadır. Davalı ...., .... ile düzenlenen 24/07/2008 tarihli alt kira sözleşmesi ile dava konusu taşınmazda kiracı olup, alt kiraya veren ....
 01/01/2012 tarihli devir protokolü ile kira sözleşmesini davacıya devrettiğine göre üst kiracı-alt kiraya verenin davacı olduğunun kabulü gerekirken yazılı şekilde karar verilmesi doğru değildir.
 
 ## Yargıtay 6. HD 2016/1234 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/209205300)
 
 Davada dayanılan ve hükme esas alınan 01/06/2006 başlangıç tarihli ve beş yıl süreli kira sözleşmesi konusunda taraflar arasında bir uyuşmazlık bulunmamaktadır. Kira sözleşmesi yine taraflar arasında imzalanan 01/02/2011 tarihli protokol ile fesh edilmiştir. Protokolü davalı şirketin ortağı olarak ... ...'da imzalamıştır. Protokolün birinci maddesi ile kira sözleşmesi fesh edilmiş, taşınmaz dava dışı...AŞ, ye kiraya verilmiş, iki yıl süre ile alt kiracılığın devam edeceği kararlaştırılmıştır.Protokolün 2. maddesine göre davalılar bu alt kira ilişkisi nedeniyle davacıya aylık KDV hariç cironun %12,50 oranında bir bedeli
 
@@ -122,9 +164,13 @@ Davada dayanılan ve hükme esas alınan 01/06/2006 başlangıç tarihli ve beş
 
 ## Yargıtay 6. HD 2016/361 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/160372500)
+
 Kira sözleşmesinde kiralayan ... A.Ş, kiracı ise dava dışı ...Şirketidir. Sözleşmenin 18. maddesinde ; kiracıya kiralananı devretme veya alt kira sözleşmesi yapma yetkisi tanınmış olup , 26.10. 2009 tarihli kira sözleşmesine ek protokol ile de kira sözleşmesinin 18. maddesine atıf yapılarak kiralayanın, ... (Unvan değişikliği ile ... A.Ş) 'ne alt kiraya verme veya devredilmesine muvafakat ettiği anlaşılmaktadır. Davacı vekili 16.12.2014 tarihinde kira sözleşmesi ve ek protokole dayanarak kiracı olduğunu iddia ettiği ... A.Ş aleyhine icra takibi başlatmıştır. Davacı vekilinin dava dilekçesinde delilleri arasında bulunan Ticaret Sicil Gazetesi, faturalar, ihtarnameler, cevabi ihtarlar, cari hesap kayıtları, ticari defter ve kayıtlar incelenmeden borçlunun icra takibine itirazında sadece borca itiraz ettiği de dikkate alınmadan yazılı şekilde husumet yokluğundan davanın reddine karar verilmesi doğru değildir. Kararın bu nedenle bozulması gerekmiştir.
 
 ## Yargıtay 6. HD 2015/9581 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/395492900)
 
 Dosya kapsamından dava dışı ... ... ... ile davacı ... Özel Eğitim A.Ş. Arasında 01.09.2006 başlangıç, 31.07.2007 bitiş tarihli, kira sözleşmesi bulunduğu, davacı şirketin bu sözleşmenin 3. maddesinde düzenlenmiş alt kiraya verme yetkisine dayanarak davalı alt kiracı ile davaya konu 01.08.2007 başlangıç, 31.07.2016 bitiş tarihli sözleşme imzaladığı, kira bedelinin 07.09.2009 tarihli ek sözleşmeyle aylık 12.765 TL + KDV olarak belirlendiği, bu kiranında 01.01.2011 tarihinden itibaren ... ... oranında artacağının düzenlediği anlaşılmaktadır. Davaya konu sözleşmenin 10. maddesinde '' Kiracı kiralananı mukavele bitiminden önce terk etmek isterse durumu en az üç ay öncesinden kiraya verene yazılı olarak bildirecektir. Bu bildirimden sonra kirava veren kiralanana o günün rayiç bedellerine göre kiracı bulamadığında üç aylık kira bedelini ödemeyi kabul eder '' düzenlemesi bulunmaktadır.
 Davacı kiraye veren 09.08.2012 tarihinde çektiği ihtar ile taşınmazı alt kiraya verme yetkisine dayanarak davalıya kiraya verdiğini ancak asıl kira sözleşmesindeki şartların değiştiğini ve 01.08.2012 tarihinden itibaren alt kiraya verme yetkisinin kaldırıldığını belirterek davalıya bundan sonra kira bedellerini ... ... ... 'in hesabına ¼ hisse ile yatırmasını ihtar etmiş bu ihtar davalıya 13.08.2012 de tebliğ edilmiştir. Davalı alt kiracı 24.08.2012 tarihinde cevabi ihtar çekerek asıl kiraya veren olan gerçek kişilerle sözleşme yapması durumunda bundan sonra stopaj ödeyeceğini, bunun kira ilişkisini kendisi açısından çekilmez hale getireceğini, bu nedenle asıl kiraya verenlerle sözleşme yapmayacağını, mecuru 30.09.2012 tarihinde boşaltacağını, Ağustos ve Eylül kiralarını da davacıya ödeyeceğini bildirmiş, davacı bu ihtara 10.09.2012 tarihli ihtarla cevap vermiş, kiralananın anahtarı 22.12.2012 tarihinde davacıya teslim edilmiştir.
@@ -134,24 +180,34 @@ yapmaya zorlayamaz. Bu durumda davalı alt kiracının sözleşmeyi fesh edip, k
 
 ## Yargıtay 6. HD 2015/8794 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/148612600)
+
 Dairemizin 11/02/2015 günlü geri çevirme kararı doğrultusunda getirtilen dava dışı Kocaeli Belediye Başkanlığı ile .. A.Ş arasında düzenlenen 01/08/2006 başlangıç tarihli ve 10 yıl süreli kira sözleşmesi ile dava konusu taşınmazlar .. A.Ş'ye kiraya verilmiş ve sözleşmenin 15. maddesi uyarınca da .. A.Ş tarafından davaya ve hükme dayanak 01.05.2009 başlangıç tarihli kira sözleşmesi ile 31.07.2016 tarihine kadar davalı S.G.K Kocaeli İl Müdürlüğü'ne alt kiraya verilmiştir. Davacı, dava konusu taşınmazları Kocaeli Belediye Başkanlığından satın aldığını iddia ederek alt kiracı hakkında alt kira sözleşmesine dayanarak kira tespiti isteminde bulunmuştur. Kira sözleşmesi taraflar yönünden geçerli olup davacı ile davalı alt kiracı arasında doğrudan bir kira ilişkisi bulunmamaktadır.Davada husumetin doğru yöneltilip yöneltilmediği tartışılmamıştır. Husumet kamu düzenine ilişkin olup mahkemece yapılacak iş; üst kiracı Belde A.Ş'nin alt kiracılık ilişkisinin devam edip etmediği de araştırılmak suretiyle davalının husumete ehil olup olmadığı üzerinde durularak sonucuna göre karar verilmesi gerekirken eksik inceleme ile yazılı şekilde karar verilmesi hatalıdır.
 
 ## Yargıtay 6. HD 2015/8581 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/129053300)
 
 Olayımıza gelince; 2886 Sayılı Yasa uyarınca kiraya verilen yere ait 11.03.2004 başlangıç tarihli ve 2 yıl asıl sözleşmenin kiralayanı Ç.. B.., kiracısı.İnş.Tur. Oto Pet. Ürün. Gıda .... Lmt.'dir. Davacının dayandığı alt kira sözleşmesi ise 16.03.2004 başlangıç tarihlidir. 16.03.2004 tarihli alt kira sözleşmesi konusunda taraflar arasında bir uyuşmazlık bulunmamaktadır. Kiralanan 2886 Sayılı Yasa uyarınca ihale ile kiraya verilmiştir. Davalılardan S2 Lmt. şirketi tarafından açılan Ankara 11. Asliye Hukuk Mahkemesinin 2008/97 E. Sayılı dosyasıyla ‘’Kiracılık İlişkisinin Devam Ettiğinin Tespiti Davası’’nda mahkemece 29.4.2008 tarih ve 2008/97 E. 2008/166 K. Sayılı kararıyla davanın reddine karar verilmiş, anılan karar Yargıtay 13. Hukuk Dairesinin 17.3.2009 gün ve 2008/13332 E. 2009/3579 K. Sayılı kararı ile bozulmuştur. Bozma kararı üzerine Ankara 11. Asliye Hukuk Mahkemesi 16.12.2009 tarih ve 2009/401 E. 2009/498 K.sayılı kararı ile direnme kararı verilerek davanın reddine karar verilmiştir. Direnme kararı Yargıtay Hukuk Genel Kurulunun 22.12.2010 gün ve 2010/13-671E., 2010/696 K. sayılı karar ile onanmıştır. H.G.K.
 Kararındaki açıklamalara ve Dairemizin istikrar kazanmış uygulamalarına göre uyuşmazlıkta o tarihte yürürlükte bulunan 6570 sayılı Yasa hükümlerinin uygulanma olanağı bulunmamaktadır. 2886 Sayılı Yasa hükümlerine göre asıl kira sözleşmesi Yasanın 75.maddesi gereğince sürenin bitimiyle son bulmuş olup davacının kiralayanı davalı şirket fuzuli şagil duruma düşmüş, üstelik bu durum mahkeme kararı ile kesinleşmiştir. Dolayısı ile alt kiracı olan davacının kiracılığı da son bulmuş olduğundan davanın reddine karar verilmesi gerekirken yazılı gerekçe ile kabulüne karar verilmesi usul ve yasaya aykırıdır.
 
 ## Yargıtay 6. HD 2015/8533 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/128024500)
+
 Olayımıza gelince; Davacıların murisi ile davalı arasında düzenlenen 02.01.2004 tarihli işletme devir ve satış anlaşması konusunda uyuşmazlık bulunmamaktadır. Sözleşme devreden sıfatı ile muris ... ve devralan sıfatıyla davalı .... tarafından imzalanmıştır. Sözleşmede devredenin işletmeyi 02.01.2004 tarihi itibarıyla içerisindeki tüm demirbaş aktif ve pasifleri ile birlikte devrettiği, devralanın devredene her ayın başında bir milyar lira ödeme yapacağı, devam eden yıllarda bu rakamın enflasyon oranında artırılarak ödeneceği, işletmenin bulunduğu dükkanın kiralama kontratının devredenin üzerinde kalacağı, mal sahibine kira bedelinin her ay devralan tarafından ödeneceği, devralanın işletmeyi işlettiği müddetçe anlaşmaya bağlı kalarak ödemeleri yapacağı, devredenin ise devralanın rızası hilafına bu dükkanı bir başkasına kiralamayacağının kararlaştırıldığı görülmüştür. Taraflar arasında düzenlenen bu sözleşme niteliği itibarıyla bir alt kira sözleşmesi olup uyuşmazlık da alt kira sözleşmesinden kaynaklanmaktadır. Bu durumda dava 6100 sayılı HMK nun yürürlük tarihi olan 01.10.2011 tarihinden sonra 05.10.2012 tarihinde açıldığına göre görevli mahkeme Sulh Hukuk Mahkemesidir.
 Mahkemece görevsizlik kararı verilmesi gerekirken, yazılı şekilde işin esası hakkında hüküm kurulmuş olması doğru görülmediğinden hükmün bu sebeple bozulması gerekmiştir.
 
 ## Yargıtay 6. HD 2015/8298 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/123335600)
+
 Olayımıza gelince;Davacı kiracı, davaya konu kiralananı hiçbir şekilde kullanamadığını ve yararlanamadığını belirterek eldeki davayı açmışsa da davacının davaya konu kiralananı alt kiracılara verdiği dosya içerisindeki bilgi ve belgelerden anlaşılmaktadır. Nitekim 11 adet alt kiracı davacıya verdikleri 07.08.2008 tarihli dilekçeleri ile davalı belediyenin halk plajı açtığını ve işletme bedeli ödemediği için haksız rekabet yarattığını bu nedenle kira bedelinde indirim talep ettiklerini bildirmişler, bundan ayrı 11 adet plaj ve 4 adet kır kahvesi ve 4 adet restaurant kiracıları davacı kiracıya 06.05.2011'de başvurarak ruhsat sorununun çözülmesini istedikleri, davacı kiracının da aynı taleplerle belediyeye başvurduğu, bundan ayrı davacının 14.09.2011 tarihinde belediyeye, 15.08.2011 tarihinde de defterdarlığa başvurarak kira sözleşmesinin 20 yıla uzatılmasını istediği anlaşılmaktadır.
 Bu durumda davacının kira ilişkisini sürdürdüğü anlaşılmaktadır ancak davacı kiracı kiralananda sonradan meydana gelen ayıp nedeniyle yukarıda belirtilen Borçlar Kanunu'nun 250. maddesindeki seçimlik haklarından mahkemeye başvururak kira bedelinin tenzilini istemek yada ayıp münasip bir müddet zarfında giderilmez ise akdi feshetmek haklarını kullanmamıştır yine yukarıda belirtilen nedenlerle olaya davada dayanılan yönetmeliğin 76/3 maddesini uygulama olanağı da bulunmamakta olup uyuşmazlığın Borçlar kanunu ve sözleşme hükümlerine göre çözümlenmesi gerekir. O halde davacı kiracı Borçlar Kanunu'nun 250. maddesinde gösterilen seçimlik haklarından birini kullanmadığına göre davanın reddine karar vermek gerekirken yazılı şekilde karar verilmesi doğru değildir.
 
 ## Yargıtay 6. HD 2015/5966 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/135680900)
 
 Davacının dayandığı ve dava konusu taşınmaza ait kira sözleşmesi 01.01.2008 başlangıç tarihli ve 15 yıl süreli olup kiraya veren ..., kiracı ise ...'dir. Sözleşmenin1. maddesinde "kiralanan yeri körfez hastanesine kiraya verebilir” hükmüne yer verilmiştir. Sözleşmede davalı şirketin imzası bulunmamaktadır. Ancak davalı şirket Davacı kiraya verene gönderdiği 11.07.2012 tarihli yazısında “ davalı şirketin 06.04.2012 tarihinde önemli ölçüde
 

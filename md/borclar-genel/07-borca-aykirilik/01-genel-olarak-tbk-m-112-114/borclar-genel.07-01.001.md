@@ -28,72 +28,106 @@ Manevi zarar, haksız bir fiil sonucu kişinin şahıs varlığında uğradığ�
 
 ## Yargıtay HGK 2026/214 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1208031000)
+
 Sözleşmeye aykırılık hâlinde de birçok durumda alacaklının doğan zararının tazmin edilmesi gerekir. Bu sorumluluğun koşulları, bundan doğan zararın ve hükmedilecek tazminat miktarının belirlenmesi ile haksız fiillerde buna ilişkin düzenleme arasında bir fark mevcut değildir. Bu nedenle kanun koyucu TBK'nın 114/2. maddesinde "Haksız fiil sorumluluğuna ilişkin hükümler, kıyas yoluyla sözleşmeye aykırılık hâllerine de uygulanır." düzenlemesine yer vererek sözleşmeye aykırılıkta, haksız fiillere ilişkin TBK'nın 49 vd. maddelerine yollama yapmakla yetinmiştir (Ahmet Kılıçoğlu, Borçlar Hukuku Genel Hükümler, 24. Bası, Ankara, 2020, s. 805).
 
 ## Yargıtay HGK 2023/852 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/963709100)
 
 Avukatın sözleşmeye aykırılık nedeniyle ... zararı tazmin borcu, borçlar hukukunun borçlunun temerrüdüne ilişkin genel hükümlerinde karşılık bulur ve BK’nın genel borç ilişkilerinde borcun ifa edilmemesi hâlinde borçlunun sorumluluğunu düzenleyen 98 inci maddesi gereği (TBK, md. 114) borçlu, genel itibarıyla her kusurdan sorumludur. Yine, bu sorumlulukta aynı maddenin ikinci fıkrası gereği haksız fiil sorumluluğuna ilişkin hükümler (BK md. 41 vd., TBK md. 49 vd.) göz önünde tutulacağından haksız/hukuka aykırı fiilin, bu fiil ile illiyet bağı içerisinde bir zarar doğması aranır ve şayet bu şartlar mevcut olup avukatın özen borcuna aykırılığı müvekkil davacı tarafından ispat edilmiş ise hâkim, tazminatın kapsamını ve ödenme biçimini, durumun gereğini ve özellikle kusurun ağırlığını göz önüne alarak belirlemelidir (BK md. 42, TBK md. 50).
 
 ## Yargıtay HGK 2023/545 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/919406700)
+
 Bazı durumlarda zarar doğurucu eylem hem borca aykırılık hem de haksız fiil teşkil edebilir. Başka bir deyişle borçlunun zarar görenle arasındaki sözleşmeye aykırı davranışı aynı zamanda genel bir davranış kuralının da ihlâlini teşkil etmekteyse, aynı olayda hem sözleşmeden doğan sorumluluk hem de haksız fiil sorumluluğu söz konusu olacaktır. Açıklanan durumun varlığı hâlinde Türk hukukunda hâkim olan görüş bu iki sorumluluğun yarışması (hakların telâhuku) görüşüdür. Hakların yarışmasında, zarar görenin tazminat istemini isterse sözleşmenin ihlâli isterse haksız fiil hükümlerine dayandırma yönünde bir tercih hakkının bulunduğu; dayanılan hukuki sebep açıkça belirtilmediyse, hâkimin önüne gelen olay bakımından hangi sorumluluk hâli zarar gören lehine ise o hükümleri bir bütün olarak uygulaması gerektiği kabul edilir.
 
 ## Yargıtay HGK 2022/1423 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/858588800)
 
 Sözleşmeye aykırılık nedeniyle mülga BK’nın 98. maddesinin 2. fıkrasında yer alan bu yollama ile mülga BK’nın 49. maddesi hükmü uyarınca manevi tazminat isteminde bulunulabileceği olgusu, Yargıtay’ın yerleşmiş içtihatlarına ve öğretide bu doğrultuda oluşan baskın görüşlere uygun bulunmaktadır.
 
 ## Yargıtay HGK 2022/846 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/794694800)
+
 Dava tarihinde yürürlükte bulunan TBK'nun 112. (818 sayılı BK md. 96) maddesine göre alacaklının, borçludan borcun hiç veya gereği gibi ifa edilmemesi nedeniyle tazminat isteyebilmesi için, bu yüzden bir zarara uğramış olması gerekir. Sözleşmeden kaynaklanan zarar müspet zarar olacağı gibi, menfi zarar da olabilir.
 
 ## Yargıtay HGK 2022/413 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/782215500)
 
 16\. 6098 sayılı Türk Borçlar Kanunu’nda (6098 sayılı TBK) borca aykırılıktan doğan sorumluluk nedeniyle manevi tazminat ödeneceğine ilişkin bir hüküm bulunmamaktadır. Sözleşmeye aykırılık tek başına manevi tazminat gerektirmez ise de, özel hâl ve şartlarda davacının kişilik haklarının zedelenmesi durumunda haksız fiilin neticelerini doğurmakta ve manevi tazminat gerektirmektedir. Gerçekten de 6098 sayılı TBK’nın 114. maddesinin 2. fıkrası gereğince haksız fiil sorumluluğuna ilişkin hükümler kıyas yoluyla sözleşmeye aykırılık hâllerine de uygulanır. Borca aykırı herhangi bir davranışın, alacaklının kişilik haklarının zedelenmesine neden olması mümkündür. Borcun zamanında veya hiç yerine getirilmemesi nedeniyle meydana gelen olaylarda duyulan acı, üzüntü ile borca aykırı davranışta bulunan borçlunun eylemi arasındaki nedensellik bağının nasıl kurulacağı önem taşımaktadır. Zira, salt sözleşmeye aykırı davranış manevi tazminat isteminin kabulü için yeterli olmayıp sözleşmeye aykırı davranışın haksız bir eylem olarak nitelendirilebilmesi sonucunda kişilik hakkı ihlâl edilebileceğinden nedensellik bağı bu durumda kurulabilmektedir.
 
 ## Yargıtay HGK 2021/1569 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/726557800)
+
 Bununla birlikte olay ve dava tarihi itibariyle somut olaya uygulanması gereken 818 sayılı Borçlar Kanunu’nda (818 sayılı BK) ve 01.07.2012 tarihi itibariyle yürürlüğe giren 6098 sayılı Türk Borçlar Kanunu’nda (6098 sayılı TBK) borca aykırılıktan doğan sorumluluk nedeniyle manevi tazminat ödeneceğine ilişkin bir hüküm bulunmamaktadır. Ancak sözleşmeye aykırılık tek başına manevi tazminat gerektirmez ise de, özel hâl ve şartlarda davacının kişilik haklarının zedelenmesi hâlinde haksız fiilin neticelerini doğurmakta ve manevi tazminat gerektirmektedir. Zira 818 sayılı BK’nin 98/2 (6098 sayılı TBK’nin 114/2) maddesi, “haksız fiillerden mütevellit mesuliyete müteallik hükümler, kıyasen akde muhalif hareketlere de tatbik olunur.” hükmünü haizdir. O hâlde sözleşmeye aykırılık nedeniyle 818 sayılı BK’nin 98/2 maddesinde yer alan bu yollama nedeniyle aynı Kanun’un 49. maddesinin uygulanması gerekmektedir. Bu itibarla sözleşmeye aykırılık nedeniyle manevi tazminat istenebilmesi için sözleşmeye aykırı davranışın, kişilik haklarının zedelenmesine neden olması gerekmektedir.
 
 ## Yargıtay HGK 2021/1024 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/709856700)
 
 Sözleşmeye aykırılık nedeniyle BK’nın 98. maddesinin 2. fıkrasında yer alan bu yollama ile BK’nın 49. maddesi hükmü uyarınca manevî tazminat isteminde bulunulabileceği olgusu, Yargıtay'ın yerleşmiş içtihatlarına ve öğretide bu doğrultuda oluşan baskın görüşlere uygun bulunmaktadır.
 
 ## Yargıtay HGK 2020/870 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/638578000)
+
 Her ne kadar maddi hata neticesinde Özel Daire bozma kararında 818 sayılı Borçlar Kanunu hükümleri yazılmış ise de olay ve dava tarihi itibariyle somut olayda 6098 sayılı Türk Borçlar Kanunu’nu (6098 sayılı TBK) hükümlerinin uygulanması gerekmektedir. 6098 sayılı TBK’de borca aykırılıktan doğan sorumluluk nedeniyle manevi tazminat ödeneceğine ilişkin bir hüküm bulunmamaktadır. Ayrıca sözleşmeye aykırılık tek başına manevi tazminat gerektirmez ise de, özel hâl ve şartlarda, kişilik haklarının zedelenmesi durumunda haksız fiilin neticelerini doğurmakta ve manevi tazminat gerektirmektedir. Gerçekten de 6098 sayılı TBK’nin 114/2 maddesi gereğince haksız fiil sorumluluğuna ilişkin hükümler kıyas yoluyla sözleşmeye aykırılık hâllerine de uygulanır.
 
 ## Yargıtay HGK 2020/844 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/638457400)
 
 14\. 6098 sayılı Türk Borçlar Kanunu’nda (6098 sayılı TBK) borca aykırılıktan doğan sorumluluk nedeniyle manevi tazminat ödeneceğine ilişkin bir hüküm bulunmamaktadır. Sözleşmeye aykırılık tek başına manevi tazminat gerektirmez ise de, özel hâl ve şartlarda davacının kişilik haklarının zedelenmesi durumunda haksız fiilin neticelerini doğurmakta ve manevi tazminat gerektirmektedir. Gerçekten de 6098 sayılı TBK’nin 114/2 maddesi gereğince haksız fiil sorumluluğuna ilişkin hükümler kıyas yoluyla sözleşmeye aykırılık hâllerine de uygulanır. Borca aykırı herhangi bir davranışın, alacaklının kişilik haklarının zedelenmesine neden olması mümkündür. Borcun zamanında veya hiç yerine getirilmemesi nedeniyle meydana gelen olaylarda duyulan acı, üzüntü ile borca aykırı davranışta bulunan borçlunun eylemi arasındaki nedensellik bağının nasıl kurulacağı önem taşımaktadır. Zira kural olarak bir para borcunun ödenmemesi alacaklının kişilik hakkını ihlal etmemekte ise de bunun neticesinde gelişen olaylar bu hakkı ihlal edebileceğinden nedensellik bağı burada kurulabilmektedir.
 
 ## Yargıtay HGK 2020/395 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/615830400)
+
 Bununla birlikte olay ve dava tarihi itibariyle somut olaya uygulanması gereken 818 sayılı Borçlar Kanunu’nda (818 sayılı BK) ve 01.07.2012 tarihi itibariyle yürürlüğe giren 6098 sayılı Türk Borçlar Kanunu’nda (6098 sayılı TBK) borca aykırılıktan doğan sorumluluk nedeniyle manevi tazminat ödeneceğine ilişkin bir hüküm bulunmamaktadır. Ancak sözleşmeye aykırılık tek başına manevi tazminat gerektirmez ise de, özel hâl ve şartlarda davacının kişilik haklarının zedelenmesi hâlinde haksız fiilin neticelerini doğurmakta ve manevi tazminat gerektirmektedir. Zira 818 sayılı BK’nin 98/2 (6098 sayılı TBK’nin 114/2) maddesi, “haksız fiillerden mütevellit mesuliyete müteallik hükümler, kıyasen akde muhâlif hareketlere de tatbik olunur.” hükmünü haizdir. O hâlde sözleşmeye aykırılık nedeniyle 818 sayılı BK’nin 98/2 maddesinde yer alan bu yollama nedeniyle aynı Kanun’un 49. maddesinin uygulanması gerekmektedir. Bu itibarla sözleşmeye aykırılık nedeniyle manevi tazminat istenebilmesi için sözleşmeye aykırı davranışın, kişilik haklarının zedelenmesine neden olması gerekmektedir.
 
 ## Yargıtay HGK 2020/187 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/602261800)
 
 Borçlar Kanunun da borca aykırılıktan doğan sorumluluk nedeniyle manevi tazminat ödeneceğine ilişkin bir hüküm bulunmamaktadır. Akde aykırılık tek başına manevi tazminat gerektirmez ise de, özel hâl ve şartlarda davacının kişilik haklarının zedelenmesi hâlinde haksız fiilin neticelerini doğurmakta ve manevi tazminatı gerektirmektedir. 818 sayılı BK’nın 98/2.maddesi uyarınca haksız fiillere müteallik hükümler kıyasen akde muhalif hareketlere de uygulanır. Borca aykırı herhangi bir davranışın, alacaklının kişilik haklarının zedelenmesine neden olması mümkündür. Uygulamada borcun zamanında, gereği gibi ve ya hiç yerine getirilmemesi nedeniyle meydana gelen olaylarda duyulan acı, üzüntü ile borca aykırı davranışta bulunan borçlunun eylemi arasındaki nedensellik bağının nasıl kurulacağını tespit etmek tartışmalıdır. Zira kural olarak bir para borcunun ödenmemesi alacaklının bir kişilik hakkını ihlal etmemektedir. Ancak bunun neticesinde gelişen olaylar bu hakkı ihlâl edebileceğinden nedensellik bağı burada kurulabilmektedir.
 
 ## Yargıtay HGK 2019/1291 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/579528100)
+
 Öncelikle belirtmek gerekir ki; 818 sayılı BK’nın 98/2. (6098 sayılı TBK’nın 114/2.) maddesi, “haksız fiillerden mütevellit mesuliyete müteallik hükümler, kıyasen akde muhalif hareketlere de tatbik olunur.” hükmünü haizdir. O hâlde sözleşmeye aykırılık nedeniyle 818 sayılı BK’nın 98/2 maddesinde yer alan bu yollama nedeniyle aynı Kanun’un 49. maddesinin uygulanması gerekmektedir. Ancak sözleşmeye aykırılık nedeniyle manevi tazminat istenebilmesi için sözleşmeye aykırı davranışın kişilik haklarının zedelenmesine neden olması gerekmektedir. Bu noktada sözleşmeye aykırılık nedeniyle meydana gelen olaylarda duyulan acı, üzüntü ile sözleşmeye aykırı davranışta bulunan borçlunun eylemi arasındaki nedensellik bağının nasıl kurulacağı önem taşımaktadır. Zira kural olarak bir para borcunun ödenmemesi alacaklının kişilik hakkını ihlal etmemekte ise de bunun neticesinde gelişen olaylar bu hakkı ihlal edebileceğinden nedensellik bağı burada kurulabilmektedir.
 
 ## Yargıtay HGK 2019/962 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/554341300)
 
 Adam çalıştıranın sorumluluğunda 818 sayılı BK’nın 55’inci (6098 sayılı TBK’nın 66’ncı) maddesinin uygulanması için çalışanın (yardımcı kişi) üçüncü kişiye sözleşme dışı sorumluluk çerçevesinde zarar vermesi gerekmektedir. Başka bir deyişle zarar gören üçüncü kişi ile adam çalıştıran arasında hiçbir hukuki, özellikle de sözleşmeye dayalı ilişki bulunmaması gerekir. Zarar gören ile adam çalıştıran arasında kurulmuş bir sözleşme ilişkisi mevcutsa 818 sayılı BK’nın 100’üncü (6098 sayılı TBK’nın 116’ncı) maddesinin uygulanması gerekir. 818 sayılı BK’nın 100’üncü (6098 sayılı TBK’nın 116’ncı)maddesinde düzenlenen sorumluluk da yardımcı kişinin davranışından sorumluluk olmakla birlikte sadece bir borcun yerine getirilmemesi, yani borca aykırılık hâlinde uygulanacaktır (Eren, s. 644). Şayet borcun ifasına yardımcı olan çalışanın fiili hem borca aykırılık hem de genel davranış kurallarına aykırılık, yani bir haksız fiil teşkil ediyorsa bu kişiyi çalıştıran borçlunun 818 sayılı BK’nın 55’inci (6098 sayılı TBK’nın 66’ncı) maddesine tabi sorumluluğu ile 818 sayılı BK’nın 100’üncü (6098 sayılı TBK’nın 116’ncı) maddesine tabi sorumluluğu yarışacaktır (Oğuzman, Kemal/Öz, Turgut;
 Borçlar Hukuku Genel Hükümler C. II, İstanbul, 2017, s. 143).
 
 ## Yargıtay HGK 2019/961 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/554342000)
+
 Adam çalıştıranın sorumluluğunda 818 sayılı BK’nın 55’inci (6098 sayılı TBK’nın 66’ncı) maddesinin uygulanması için çalışanın (yardımcı kişi) üçüncü kişiye sözleşme dışı sorumluluk çerçevesinde zarar vermesi gerekmektedir. Başka bir deyişle zarar gören üçüncü kişi ile adam çalıştıran arasında hiçbir hukuki, özellikle de sözleşmeye dayalı ilişki bulunmaması gerekir. Zarar gören ile adam çalıştıran arasında kurulmuş bir sözleşme ilişkisi mevcutsa 818 sayılı BK’nın 100’üncü (6098 sayılı TBK’nın 116’ncı) maddesinin uygulanması gerekir. 818 sayılı BK’nın 100’üncü (6098 sayılı TBK’nın 116’ncı) maddesinde düzenlenen sorumluluk da yardımcı kişinin davranışından sorumluluk olmakla birlikte sadece bir borcun yerine getirilmemesi, yani borca aykırılık hâlinde uygulanacaktır (Eren, s. 644). Şayet borcun ifasına yardımcı olan çalışanın fiili hem borca aykırılık hem de genel davranış kurallarına aykırılık, yani bir haksız fiil teşkil ediyorsa bu kişiyi çalıştıran borçlunun 818 sayılı BK’nın 55’inci (6098 sayılı TBK’nın 66’ncı) maddesine tabi sorumluluğu ile 818 sayılı BK’nın 100’üncü (6098 sayılı TBK’nın 116’ncı) maddesine tabi sorumluluğu yarışacaktır (Oğuzman, Kemal/Öz, Turgut;
 Borçlar Hukuku Genel Hükümler C. II, İstanbul, 2017, s. 143)…
 
 ## Yargıtay HGK 2019/916 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/554345100)
+
 Adam çalıştıranın sorumluluğunda 818 sayılı BK’nın 55’inci (6098 sayılı TBK’nın 66’ncı) maddesinin uygulanması için çalışanın (yardımcı kişi) üçüncü kişiye sözleşme dışı sorumluluk çerçevesinde zarar vermesi gerekmektedir. Başka bir deyişle zarar gören üçüncü kişi ile adam çalıştıran arasında hiçbir hukuki, özellikle de sözleşmeye dayalı ilişki bulunmaması gerekir. Zarar gören ile adam çalıştıran arasında kurulmuş bir sözleşme ilişkisi mevcutsa 818 sayılı BK’nın 100’üncü (6098 sayılı TBK’nın 116’ncı) maddesinin uygulanması gerekir. 818 sayılı BK’nın 100’üncü (6098 sayılı TBK’nın 116’ncı) maddesinde düzenlenen sorumluluk da yardımcı kişinin davranışından sorumluluk olmakla birlikte sadece bir borcun yerine getirilmemesi, yani borca aykırılık hâlinde uygulanacaktır (Eren, s. 644). Şayet borcun ifasına yardımcı olan çalışanın fiili hem borca aykırılık hem de genel davranış kurallarına aykırılık, yani bir haksız fiil teşkil ediyorsa bu kişiyi çalıştıran borçlunun 818 sayılı BK’nın 55’inci (6098 sayılı TBK’nın 66’ncı) maddesine tabi sorumluluğu ile 818 sayılı BK’nın 100’üncü (6098 sayılı TBK’nın 116’ncı) maddesine tabi sorumluluğu yarışacaktır (Oğuzman, Kemal/Öz, Turgut;
 Borçlar Hukuku Genel Hükümler C. II, İstanbul, 2017, s. 143).
 
 ## Yargıtay HGK 2019/81 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/498836200)
 
 Borçlar Kanunu’nda borca aykırılıktan doğan sorumluluk nedeniyle manevi tazminat ödeneceğine ilişkin bir hüküm bulunmamaktadır. Akde aykırılık tek başına manevi tazminat gerektirmez ise de, özel hâl ve şartlarda davacının kişilik haklarının zedelenmesi hâlinde haksız fiilin neticelerini doğurmakta ve manevi tazminat gerektirmektedir. 818 sayılı BK’nın 98/2’nci maddesi uyarınca haksız fiillere müteallik hükümler kıyasen akde muhalif hareketlere de uygulanır. Borca aykırı herhangi bir davranışın, alacaklının kişilik haklarının zedelenmesine neden olması mümkündür. Uygulamada borcun zamanında veya hiç yerine getirilmemesi nedeniyle meydana gelen olaylarda duyulan acı, üzüntü ile borca aykırı davranışta bulunan borçlunun eylemi arasındaki nedensellik bağının nasıl kurulacağını tespit etmek tartışmalıdır. Zira kural olarak bir para borcunun ödenmemesi alacaklının kişilik hakkını ihlal etmemektedir. Ancak bunun neticesinde gelişen olaylar bu hakkı ihlal edebileceğinden nedensellik bağı burada kurulabilmektedir.
 
@@ -103,17 +137,25 @@ Borç hiç veya gereği gibi ifa edilmezse borçlu, kendisine hiçbir kusurun y�
 
 ## Yargıtay 9. HD 2026/454 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1202377900)
+
 6098 sayılı Kanun’un Birinci Kısmında "Genel Hükümler" başlığı altında yer alan 114/2 hükmünde açıkça, haksız fiile ilişkin hükümlerin kıyas yoluyla sözleşmeye aykırılık hâllerine de uygulanacağı öngörülmüştür. Buradaki kıyas kavramı, kanun boşluğu nedeniyle hâkimin hukuk yaratma faaliyeti sırasındaki kıyastan farklı bir anlama gelmekte olup genel hükmün niteliğine uygun düştüğü ölçüde özel hükme uygulanmasından ibarettir. Esasen kanun koyucunun 6098 sayılı Kanun’un 437. maddesinde, tazminattan indirim konusunda ayrıca bir düzenlemeye yer vermemiş olmasının sebebi, haklı fesihte sözleşmeye aykırılıktan doğan tazminat bakımından genel hükümlerin uygulama alanı bulacak olmasıdır. Böyle bir durumda kanunda açık bir boşluk bulunduğundan söz edilemeyeceğinden 6098 sayılı Kanun'un İkinci Kısmında "Özel Borç İlişkileri" kapsamındaki bir kanun hükmünün kıyas yoluyla uyuşmazlığa uygulanması da söz konusu değildir. Açıklanan sebeple 6098 sayılı Kanun'un 438. maddesi, 437. maddede öngörülen tazminattan indirim bakımından kıyasen uygulanamaz.
 
 ## Yargıtay 6. HD 2024/5054 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1123539000)
 
 Kanunda giderim yükümlülüğüyle ilgili olarak ayrıntılı düzenleme yapılmamış, haksız fiil hükümlerine yollama yapılmakla yetinilmiştir. Kanunda yer alan borca (sözleşmeye) aykırılık nedeniyle giderim yükümlülüğünün koşulları, haksız fiil nedeniyle sorumluluk koşullarıyla benzerlik arz etmektedir. Sözleşmeye aykırılık nedeniyle borçlunun giderim yükümlülüğünden söz edebilmek için varlığı gerekli beş koşul, eylem, borca aykırılık, zarar, illiyet bağı ve kusurdur.
 
 ## Yargıtay 6. HD 2024/5005 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1123535400)
+
 Sözleşmeye aykırılık nedeniyle borçlunun giderim yükümlülüğünden söz edebilmek için varlığı gerekli beş koşul, eylem, borca aykırılık, zarar, illiyet bağı ve kusurdur. Haksız fiilde genel ispat kurallarına göre kusurun ispatı zarar gören üzerinde iken sözleşmeye aykırılık nedeniyle giderim yükümlülüğünde kusursuzluğun ispatı borçluya yüklenmek suretiyle ispat yüküne ilişkin olarak genel ispat kurallarından ayrılan özel bir hüküm konulmuştur.
 
 ## Yargıtay 6. HD 2024/3484 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1109180700)
 
 Kanunda yer alan borca (sözleşmeye) aykırılık nedeniyle giderim yükümlülüğünün koşulları, haksız fiil nedeniyle sorumluluk koşullarıyla benzerlik arz etmektedir. Sözleşmeye aykırılık nedeniyle borçlunun giderim yükümlülüğünden söz edebilmek için varlığı gerekli beş koşul, eylem, borca aykırılık, zarar, illiyet bağı ve kusurdur.
 
@@ -130,6 +172,8 @@ TBK. m. 219’da sözleşmeye aykırılık halinde iki ayrı durum mevcuttur. Bu
 Sorumsuzluk anlaşmasına ilişkin 818 sayılı Mülga Borçlar Kanunu’nun 99. maddesi ile 6098 sayılı Türk Borçlar Kanunu’nun 115. maddesi, satıcının ayıptan sorumluluğunu kaldıran anlaşmalarda da uygulanır. Bu nedenle ayıplı mal tesliminde ağır ihmali bulunan satıcı, sorumsuzluk anlaşmasından yararlanamaz (YAVUZ, Cevdet: Türk Borçlar Hukuku, Özel Hükümler, İstanbul 2007, 7. Baskı, sh 104). Bu duruma göre, satıcının sadece ayıbı hile ile gizlemiş olması durumunda değil, satılanı ayıplı olarak devretmekte ağır kusurlu sayıldığı her durumda sorumsuzluk anlaşması geçersiz sayılır.
 
 ## Sakarya BAM 7. HD 2025/1977 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1182131100)
 
 Adam çalıştıranın sorumluluğunda 818 sayılı BK’nın 55’inci (6098 sayılı TBK’nın 66’ncı) maddesinin uygulanması için çalışanın (yardımcı kişi) üçüncü kişiye sözleşme dışı sorumluluk çerçevesinde zarar vermesi gerekmektedir. Başka bir deyişle zarar gören üçüncü kişi ile adam çalıştıran arasında hiçbir hukuki, özellikle de sözleşmeye dayalı ilişki bulunmaması gerekir. Zarar gören ile adam çalıştıran arasında kurulmuş bir sözleşme ilişkisi mevcutsa 818 sayılı BK’nın 100’üncü (6098 sayılı TBK’nın 116’ncı) maddesinin uygulanması gerekir. 818 sayılı BK’nın 100’üncü (6098 sayılı TBK’nın 116’ncı) maddesinde düzenlenen sorumluluk da yardımcı kişinin davranışından sorumluluk olmakla birlikte sadece bir borcun yerine getirilmemesi, yani borca aykırılık hâlinde uygulanacaktır (Eren, s. 644). Şayet borcun ifasına yardımcı olan çalışanın fiili hem borca aykırılık hem de genel davranış kurallarına aykırılık, yani bir haksız fiil teşkil ediyorsa bu kişiyi çalıştıran borçlunun 818 sayılı BK’nın 55’inci (6098 sayılı TBK’nın 66’ncı) maddesine tabi sorumluluğu ile 818 sayılı BK’nın 100’üncü (6098 sayılı TBK’nın 116’ncı) maddesine tabi sorumluluğu yarışacaktır (Oğuzman, Kemal/Öz, Turgut;
 Borçlar Hukuku Genel Hükümler C. II, İstanbul, 2017, s. 143)…

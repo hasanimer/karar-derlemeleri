@@ -20,34 +20,50 @@ uyari: "Derleyenin seçtiği alıntılardır; kararın tamamı değildir. Künye
 
 ## Yargıtay HGK 2025/168 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1137885800)
+
 28\. 2918 sayılı Kanun'un 85. maddesinin 1. fıkrası sorumluluğu, aracın işletilmesine dayanan tehlike sorumluluğu olarak düzenlediğinden, işleten kusurlu olsa bile, kusur ilkesine göre değil, tehlike ilkesine göre sorumlu olur. Bunun nedeni, böyle bir hâlde işletenin şahsında birden çok sorumluluk sebebinin birleşmesi veya başka bir deyişle, çeşitli sorumluluk normlarının çatışmasıdır. Sorumluluk normlarının çatışması veya aynı kişide birden çok sorumluluk sebebinin birleşmesi hâlinde, tehlike sorumluluğu ilkesi uygulanır.
 
 ## Yargıtay HGK 2024/137 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1038681700)
 
 28\. 2918 sayılı Kanun'un 85 inci maddesinin birinci fıkrası sorumluluğu, aracın işletilmesine dayanan tehlike sorumluluğu olarak düzenlediğinden, işleten kusurlu olsa bile, kusur ilkesine göre değil, tehlike ilkesine göre sorumlu olur. Bunun nedeni, böyle bir hâlde işletenin şahsında birden çok sorumluluk sebebinin birleşmesi veya başka bir deyişle, çeşitli sorumluluk normlarının çatışmasıdır. Sorumluluk normlarının çatışması veya aynı kişide birden çok sorumluluk sebebinin birleşmesi hâlinde, tehlike sorumluluğu ilkesi uygulanır.
 
 ## Yargıtay HGK 2024/136 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1018820100)
+
 Tehlike sorumluluğuna 6098 sayılı Kanun'un 71 inci maddesinde yer verilmiştir. Bu genel düzenleme ile ülkemizdeki Karayolları Trafik Kanunu, Türk Sivil Havacılık Kanunu gibi tehlike sorumluluğuna ilişkin olarak çıkarılmış özel kanunlardaki tehlike sorumluluğuna yönelik kusur sorumluluğunda olduğu gibi genel bir kural getirilmiştir.
 
 ## Yargıtay HGK 2024/79 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1018666700)
 
 Tehlike sorumluluğuna 6098 sayılı Kanun'un 71 inci maddesinde yer verilmiştir. Bu genel düzenleme ile ülkemizdeki Karayolları Trafik Kanunu, Türk Sivil Havacılık Kanunu gibi tehlike sorumluluğuna ilişkin olarak çıkarılmış özel kanunlardaki tehlike sorumluluğuna yönelik kusur sorumluluğunda olduğu gibi genel bir kural getirilmiştir.
 
 ## Yargıtay HGK 2022/1402 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/859243000)
+
 Karayolları Trafik Kanunu’nun 85/1. maddesi sorumluluğu, aracın işletilmesine dayanan tehlike sorumluluğu olarak düzenlediğinden, işleten kusurlu olsa bile, kusur ilkesine göre değil, tehlike ilkesine göre sorumlu olur. Bunun nedeni, böyle bir hâlde işletenin şahsında birden çok sorumluluk sebebinin birleşmesi veya başka bir deyişle, çeşitli sorumluluk normlarının çatışmasıdır. Sorumluluk normlarının çatışması veya aynı kişide birden çok sorumluluk sebebinin birleşmesi hâlinde, tehlike sorumluluğu ilkesi uygulanır.
 
 ## Yargıtay HGK 2021/986 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/707322100)
 
 Kusursuz sorumluluk, genellikle olumsuz bir biçimde sorumlu kişinin kusurunu gerektirmeyen bir sorumluluk olarak tanımlanır. İstisnai nitelik taşıyan hakkaniyet sorumluluğu bir yana bırakıldığında kusursuz sorumluluk, özen sorumluluğu ve hakkaniyet sorumluluğu olarak ikiye ayrılır. Kusursuz sorumluluğun en hafif şeklini oluşturan özen sorumluluğu ya sorumlu kişinin objektif özen ve gözetim ödevini yerine getirmemesine ya da maliki bulunduğu şeydeki noksanlığa dayanmaktadır (Eren, Fikret: Borçlar Hukuku Genel Hükümler, Ankara 2018, s. 519).
 
 ## Yargıtay HGK 2020/850 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/638473500)
+
 18\. 2918 sayılı KTK’nın 85. maddenin 1.fıkrasına göre, işleten ve teşebbüs sahibinin, aracın işletilmesinin sebep olduğu zararlardan doğan sorumluluğu, kusur sorumluluğu olmadığı gibi, özen sorumluluğu da değildir. Bu itibarla, işletenin veya teşebbüs sahibinin hiçbir kusuru bulunmasa bile, aracın işletilmesinin sebep olduğu zararları tazmin etmek zorundadırlar. Sorumluluk kusura dayanmadığı için, kendileri veya eylemlerinden sorumlu oldukları kimseler, ayırt etme gücüne sahip olmasalar da işleten ile teşebbüs sahibi, doğan zarardan sorumludur. KTK’nın 85. maddesinin 1.fıkrası, sorumluluğu, aracın işletilmesine dayanan tehlike sorumluluğu olarak düzenlediğinden, işleten veya teşebbüs sahibi kusurlu olsa bile, kusur ilkesine göre değil, tehlike ilkesine göre sorumlu olurlar. Bunun nedeni, böyle bir halde işleten ve teşebbüs sahibinin şahsında birden çok sorumluluk sebebinin birleşmesi veya başka bir deyişle çeşitli sorumluluk normlarının çatışmasıdır.
 Bu teklik ilkesi, "Özel kanun veya özel kural, genel kanun veya genel kuralın uygulanmasını önler" ilkesine dayanmakta olup, KTK’nın öngördüğü sorumluluk ilkesi, BK’daki kusur sorumluluğu ilkesine oranla özel bir sorumluluk türü olduğundan, tehlike sorumluluğu ile kusur sorumluluğu aynı işletenin veya teşebbüs sahibinin şahsında birleştiğinde, işleten ya da teşebbüs sahibi, tehlike sorumluluğuna tâbi olur. Teklik ilkesi, fiilî bir sorun olmayıp, hukukî bir sorun olduğundann, hâkimin, bunu re'sen gözetmesi gerekmektedir. Bu nedenle, zarar gören, dava ve iddiasını kusur sorumluluğuna dayandırsa bile, hâkim, tazminat talebinin, dosyadan KTK’ya dayandığını gördüğü anda, bu Kanun’un 85. maddesini uygulamak zorundadır ( Eren, F.: Borçlar Hukuku Genel Hükümler, Ankara 2018, s. 693,694).
 
 ## Yargıtay HGK 2016/434 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/233441800)
 
 818 sayılı BK’da yer verilmeyen tehlike sorumluluğuna 6098 sayılı TBK’nın 71. maddesinde yer verilmiştir. Bu genel düzenleme ile Ülkemizdeki Karayolları Trafik Kanunu, Türk Sivil Havacılık Kanunu gibi tehlike sorumluluğuna ilişkin olarak çıkarılmış özel kanunlardaki tehlike sorumluluğuna yönelik kusur sorumluluğunda olduğu gibi genel bir kural getirilmiştir.
 
@@ -74,140 +90,208 @@ Kusur aranmaksızın sorumluluğun düzenlendiği haller, kusursuz sorumluluk ha
 
 ## Yargıtay 3. HD 2025/5857 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1189839000)
+
 Kusur aranmaksızın sorumluluğun düzenlendiği haller, kusursuz sorumluluk halleri olarak ifade edilmektedir. Doktrinde kusursuz sorumluluk hallerin olağan sebep sorumluluğu-tehlike sorumluluğu şeklinde ikili ayırıma tabi tutarken, 6098 sayılı Türk Borçlar Kanunu (6098 sayılı Kanun) tarafından açıklanan hakkaniyet sorumluluğu-özen (sebep) sorumluluğu-tehlike sorumluluğu şeklinde ayırıma tabi tutulduğu görülmektedir. Denetleme ve gözetimde özen (cura in custodio) gereği, kusur unsur olarak aranmaz.
 
 ## Yargıtay 3. HD 2025/4182 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1182586500)
 
 "1-Kusur aranmaksızın sorumluluğun düzenlendiği haller, kusursuz sorumluluk halleri olarak ifade edilmektedir. Doktrinde kusursuz sorumluluk halleri olağan sebep sorumluluğu-tehlike sorumluluğu şeklinde ikili ayrıma tabi tutulurken, TBK tarafından hakkaniyet sorumluluğu-özen (sebep) sorumluluğu-tehlike sorumluluğu şeklinde ayırıma tabi tutulduğu görülmektedir. Denetleme ve gözetimde özen (cura in custodio) gereği, kusur unsur olarak aranmaz. (G.Antalya B.Hukuku Genel Hükümler C.1.2012.İst.sh.533.535.)…
 
 ## Yargıtay 3. HD 2025/1532 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1163484700)
+
 Kusur aranmaksızın sorumluluğun düzenlendiği haller, kusursuz sorumluluk halleri olarak ifade edilmektedir. Doktrin kusursuz sorumluluk hallerini olağan sebep sorumluluğu ve tehlike sorumluluğu şeklinde ikili ayrıma tabi tutarken, 6098 sayılı Kanun tarafından; hakkaniyet sorumluluğu, özen (sebep) sorumluluğu ve tehlike sorumluluğu şeklinde ayrıma tabi tutulduğu görülmektedir. Denetleme ve gözetimde özen (cura in custodio) gereği, kusur unsur olarak aranmaz.
 
 ## Yargıtay 4. HD 2025/1397 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1162673800)
 
 2918 sayılı Karayolları Trafik Kanunu'nun 85 inci maddesinde yapılan düzenleme uyarınca, motorlu araç işletenin sorumluluğu, tehlike sorumluluğu olarak kabul edilmiştir. Motorlu bir aracın işletilmesi, niteliği itibariyle bir tehlike ve dolayısı ile zarar ihtimali taşıdığından, davalı şirketin sorumluluğu, tehlike sorumluluğudur. Tehlike sorumluluğunda, tehlikeli nesne veya işletme ile gerçekleşen zarar arasında uygun illiyet bağının ispat edilmesi sorumluluk için yeterlidir. Motorlu araç işletenin sorumluluktan kurtulabilmesi için KTK'nin 86 ncı maddesinde sayılan kurtuluş beyyinelerinden birini ispat etmesi gerekir. 2918 sayılı KTK' nun 86 ıncı maddesinde " İşleten veya araç işleticisinin bağlı olduğu teşebbüs sahibi, kendisinin veya eylemlerinden sorumlu tutulduğu kişilerin kusuru bulunmaksızın ve araçtaki bir bozukluk kazayı etkilemiş olmaksızın, kazanın bir mücbir sebepten veya zarar görenin veya bir üçüncü kişinin ağır kusurundan ileri geldiğini ispat ederse sorumluluktan kurtulur." şeklinde düzenleme yer almaktadır.
 İşletenin sorumluluktan kurtulabilmesi için öncelikle kendisinin veya eylemlerinden sorumlu tutulduğu kişilerin kusuru bulunmadığını ve araçtaki bir bozukluğun zarara neden olmadığını ispatlamalıdır. Ancak sadece bu durumun ispatı işletenin sorumluluktan kurtulması için yeterli değildir. İşleten bu durumu bir ön şart olarak ispatlayacak ve bununla birlikte zararın bir mücbir sebepten veya zarar görenin yahut bir üçüncü kişinin ağır kusurundan ileri geldiğini ispat edecektir.
 
 ## Yargıtay 3. HD 2025/830 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1148070000)
+
 Kusur aranmaksızın sorumluluğun düzenlendiği haller, kusursuz sorumluluk halleri olarak ifade edilmektedir. Doktrinde kusursuz sorumluluk hallerinin olağan sebep sorumluluğu-tehlike sorumluluğu şeklinde ikili ayırıma tabi tutarken, 6098 sayılı Kanun tarafından açıklanan hakkaniyet sorumluluğu-özen (sebep) sorumluluğu-tehlike sorumluluğu şeklinde ayırıma tabi tutulduğu görülmektedir. Denetleme ve gözetimde özen (cura in custodio) gereği, kusur unsur olarak aranmaz.
 
 ## Yargıtay 3. HD 2025/442 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1127257300)
 
 Kusur aranmaksızın sorumluluğun düzenlendiği haller, kusursuz sorumluluk halleri olarak ifade edilmektedir. Doktrin kusursuz sorumluluk hallerini olağan sebep sorumluluğu ve tehlike sorumluluğu şeklinde ikili ayrıma tabi tutarken, Türk Borçlar Kanunu'nda; hakkaniyet sorumluluğu, özen (sebep) sorumluluğu ve tehlike sorumluluğu şeklinde ayrıma tabi tutulduğu görülmektedir. Denetleme ve gözetimde özen (cura in custodio) gereği, kusur unsur olarak aranmaz.
 
 ## Yargıtay 3. HD 2024/4119 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1133764200)
+
 Kusur aranmaksızın sorumluluğun düzenlendiği haller, kusursuz sorumluluk halleri olarak ifade edilmektedir. Doktrinde kusursuz sorumluluk hallerinin olağan sebep sorumluluğu-tehlike sorumluluğu şeklinde ikili ayırıma tabi tutarken, 6098 sayılı Kanun tarafından açıklanan hakkaniyet sorumluluğu-özen (sebep) sorumluluğu-tehlike sorumluluğu şeklinde ayırıma tabi tutulduğu görülmektedir. Denetleme ve gözetimde özen (cura in custodio) gereği, kusur unsur olarak aranmaz.
 
 ## Yargıtay 3. HD 2024/3935 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1107837800)
 
 Kusur aranmaksızın sorumluluğun düzenlendiği haller, kusursuz sorumluluk halleri olarak ifade edilmektedir. Doktrin kusursuz sorumluluk hallerini olağan sebep sorumluluğu ve tehlike sorumluluğu şeklinde ikili ayrıma tabi tutarken, 6098 sayılı Kanun tarafından; hakkaniyet sorumluluğu, özen (sebep) sorumluluğu ve tehlike sorumluluğu şeklinde ayrıma tabi tutulduğu görülmektedir. Denetleme ve gözetimde özen (cura in custodio) gereği, kusur unsur olarak aranmaz.
 
 ## Yargıtay 3. HD 2024/1581 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1086472800)
+
 Kusur aranmaksızın sorumluluğun düzenlendiği haller, kusursuz sorumluluk halleri olarak ifade edilmektedir. Doktrinde kusursuz sorumluluk hallerinin olağan sebep sorumluluğu-tehlike sorumluluğu şeklinde ikili ayırıma tabi tutarken, 6098 sayılı Kanun tarafından açıklanan hakkaniyet sorumluluğu-özen (sebep) sorumluluğu-tehlike sorumluluğu şeklinde ayırıma tabi tutulduğu görülmektedir. Denetleme ve gözetimde özen (cura in custodio) gereği, kusur unsur olarak aranmaz.
 
 ## Yargıtay 3. HD 2024/140 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1002924400)
 
 6098 sayılı Türk Borçlar Kanunu'nun ‘’Tehlike sorumluluğu ve denkleştirme‘’ kenar başlıklı 71 inci maddesinin birinci fıkrası hükmüne göre; "Önemli ölçüde tehlike arzeden bir işletmenin faaliyetinden zarar doğduğu takdirde, bu zarardan işletme sahibi ve varsa işleten müteselsilen sorumludur." denmektedir. Burada işletme sahibi veya işletene kurtuluş kanıtı sunma olanağı tanınmamıştır. İşletme sahibi veya işleten, ancak illiyet bağını kesen sebeplerin (mücbir sebep, zarar görenin kendi kusuru, üçüncü kişinin ağır kusuru gibi) varlığı durumunda sorumluluktan kurtulabilir.
 
 ## Yargıtay 3. HD 2023/2988 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/981508300)
+
 Kusur aranmaksızın sorumluluğun düzenlendiği haller, kusursuz sorumluluk halleri olarak ifade edilmektedir. Doktrin kusursuz sorumluluk hallerini olağan sebep sorumluluğu ve tehlike sorumluluğu şeklinde ikili ayrıma tabi tutarken, 6098 sayılı Kanun tarafından; hakkaniyet sorumluluğu, özen (sebep) sorumluluğu ve tehlike sorumluluğu şeklinde ayrıma tabi tutulduğu görülmektedir. Denetleme ve gözetimde özen (cura in custodio) gereği, kusur unsur olarak aranmaz.
 
 ## Yargıtay 3. HD 2023/2153 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/963529200)
 
 Kusur aranmaksızın sorumluluğun düzenlendiği haller, kusursuz sorumluluk halleri olarak ifade edilmektedir. Doktrin kusursuz sorumluluk hallerini olağan sebep sorumluluğu ve tehlike sorumluluğu şeklinde ikili ayrıma tabi tutarken, TBK tarafından; hakkaniyet sorumluluğu, ... (sebep) sorumluluğu ve tehlike sorumluluğu şeklinde ayrıma tabi tutulduğu görülmektedir. Denetleme ve gözetimde ... (cura in custodio) gereği, kusur unsur olarak aranmaz.
 
 ## Yargıtay 3. HD 2023/1812 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/965394400)
+
 Kusur aranmaksızın sorumluluğun düzenlendiği haller, kusursuz sorumluluk halleri olarak ifade edilmektedir. Doktrin kusursuz sorumluluk hallerini olağan sebep sorumluluğu ve tehlike sorumluluğu şeklinde ikili ayrıma tabi tutarken, 6098 sayılı Türk Borçlar Kanun'u (6098 sayılı Kanun) tarafından; hakkaniyet sorumluluğu, özen (sebep) sorumluluğu ve tehlike sorumluluğu şeklinde ayrıma tabi tutulduğu görülmektedir. Denetleme ve gözetimde özen (cura in custodio) gereği, kusur unsur olarak aranmaz.
 
 ## Yargıtay 3. HD 2023/1445 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/964709400)
 
 Kusur aranmaksızın sorumluluğun düzenlendiği haller, kusursuz sorumluluk halleri olarak ifade edilmektedir. Doktrin kusursuz sorumluluk hallerini olağan sebep sorumluluğu ve tehlike sorumluluğu şeklinde ikili ayrıma tabi tutarken, 6098 sayılı Türk Borçlar Kanunu (6098 sayılı Kanun) tarafından; hakkaniyet sorumluluğu, özen (sebep) sorumluluğu ve tehlike sorumluluğu şeklinde ayrıma tabi tutulduğu görülmektedir. Denetleme ve gözetimde özen (cura in custodio) gereği, kusur unsur olarak aranmaz.
 
 ## Yargıtay 3. HD 2023/1411 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/964642800)
+
 Kusur aranmaksızın sorumluluğun düzenlendiği haller, kusursuz sorumluluk halleri olarak ifade edilmektedir. Doktrinde kusursuz sorumluluk hallerinin olağan sebep sorumluluğu-tehlike sorumluluğu şeklinde ikili ayırıma tabi tutarken, Türk Borçlar Kanunu tarafından açıklanan hakkaniyet sorumluluğu özen (sebep) sorumluluğu-tehlike sorumluluğu şeklinde ayırıma tabi tutulduğu görülmektedir. Denetleme ve gözetimde özen (cura in custodio) gereği, kusur unsur olarak aranmaz.
 
 ## Yargıtay 3. HD 2022/9479 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/854752400)
 
 Tehlike sorumluluğuna dayalı kusursuz sorumluluğun düzenlendiği TBK'nın 71. maddesinin birinci fıkrası hükmüne göre; "Önemli ölçüde tehlike arzeden bir işletmenin faaliyetinden zarar doğduğu takdirde, bu zarardan işletme sahibi ve varsa işleten müteselsilen sorumludur." denmektedir. Burada işletme sahibi veya işletene kurtuluş kanıtı sunma olanağı tanınmamıştır. İşletme sahibi veya işleten, ancak illiyet bağını kesen sebeplerin (mücbir sebep, zarar görenin kendi kusuru, üçüncü kişinin ağır kusuru gibi) varlığı durumunda sorumluluktan kurtulabilir.
 
 ## Yargıtay 3. HD 2022/7090 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/862446200)
+
 Kusur aranmaksızın sorumluluğun düzenlendiği haller, kusursuz sorumluluk halleri olarak ifade edilmektedir. Doktrin kusursuz sorumluluk hallerini olağan sebep sorumluluğu ve tehlike sorumluluğu şeklinde ikili ayrıma tabi tutarken, TBK tarafından; hakkaniyet sorumluluğu, özen (sebep) sorumluluğu ve tehlike sorumluluğu şeklinde ayrıma tabi tutulduğu görülmektedir. Denetleme ve gözetimde özen (cura in custodio) gereği, kusur unsur olarak aranmaz.
 
 ## Yargıtay 3. HD 2020/4058 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/598165900)
+
 Kusur aranmaksızın sorumluluğun düzenlendiği haller, kusursuz sorumluluk halleri olarak ifade edilmektedir. Doktrinde kusursuz sorumluluk halleri olağan sebep sorumluluğu-tehlike sorumluluğu şeklinde ikili ayırıma tabi tutulurken, TBK tarafından açıklanan hakkaniyet sorumluluğu-özen (sebep) sorumluluğu-tehlike sorumluluğu şeklinde ayırıma tabi tutulduğu görülmektedir. Denetleme ve gözetimde özen (cura in custodio) gereği, kusur unsur olarak aranmaz.
 
 ## Yargıtay 17. HD 2019/1540 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/524979500)
 
 2918 sayılı Yasa’nın 85/1 nci maddesinde düzenlenen sorumluluğun bir tehlike sorumluluğu olduğu doktrinde ve uygulamada duraksamaya meydan vermeyecek şekilde kabul edilmektedir. Anılan Yasa’nın 85/3 ncü maddesinde düzenlenen sorumluluğun ise bir tehlike sorumluluğu olmayıp, madde metninden de açıkça anlaşılacağı üzere bir kusur sorumluluğu olduğu ihtilafsızdır. Şu halde somut olayda ilk halli gereken husus dava dışı işletenin sorumluluğunun bir tehlike sorumluluğu mu, yoksa kusur sorumluğu mu olduğu hususudur. Bu noktada üzerinde durulması gereken en önemli husus ise aracın işletilme halinde olmasından neyin anlaşılması gerektiğidir.
 Bu hususta bir kısım yazarlar aracın işletilme halinde olmasından anlaşılması gerekenin (ki bu görüş mekanik görüş olarak adlandırılmaktadır) tehlikenin motorlu aracın mekanik aksamının çalışması, özellikle motor ve ışık düzeninin çalışması veya bunlar çalışmasa dahi aracın kendiliğinden de olsa (örneğin park halinde bulunan bir aracın freninin veya vitesinin boşalarak kendiliğinden hareket etmesi gibi) hareket halinde olmasını ararken, karşı görüşte olanlar ise aracın trafiğe çıkarılmasının ve karayolunda bulunmasının işletilme halinde olduğunun kabulü için yeterli bulunduğunu ve dava konusu olayda olduğu gibi karayolu sayılan yerlerde park halinde bulunan bir aracın işleteninin sorumluluğunun da tehlike sorumluluğu olduğunu kabul etmektedirler. (Bu konudaki tartışmalar için Bkz. Tekinay/ Akman/ Burcuoğlu-Altop, Borçlar Hukuku, İst. 1985,s.710 vd, ayrıca Bkz. Çetin Aşçıoğlu, Trafik Kazalarında Hukuki Sorumluluk ve Tazminat davaları, Ank, 1989,S.37 vd).
 
 ## Yargıtay 3. HD 2018/8183 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/452395500)
+
 Kusur aranmaksızın sorumluluğun düzenlendiği haller, kusursuz sorumluluk halleri olarak ifade edilmektedir.Doktrinde kusursuz sorumluluk hallerinin olağan sebep sorumluluğu-tehlike sorumluluğu şeklinde ikili ayırıma tabi tutarken, TBK tarafından açıklanan hakkaniyet sorumluluğu-özen (sebep) sorumluluğu-tehlike sorumluluğu şeklinde ayırıma tabi tutulduğu görülmektedir. Denetleme ve gözetimde özen (cura in custodio) gereği, kusur unsur olarak aranmaz.
 
 ## Yargıtay 3. HD 2017/17400 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/387508800)
 
 Kusur aranmaksızın sorumluluğun düzenlendiği haller, kusursuz sorumluluk halleri olarak ifade edilmektedir. Doktrinde kusursuz sorumluluk hallerinin olağan sebep sorumluluğu-tehlike sorumluluğu şeklinde ikili ayırıma tabi tutarken, TBK tarafından açıklanan hakkaniyet sorumluluğu-özen (sebep) sorumluluğu-tehlike sorumluluğu şeklinde ayırıma tabi tutulduğu görülmektedir. Denetleme ve gözetimde özen (... gereği, kusur unsur olarak aranmaz.
 
 ## Yargıtay 3. HD 2017/16489 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/385799100)
+
 Kusur aranmaksızın sorumluluğun düzenlendiği haller, kusursuz sorumluluk halleri olarak ifade edilmektedir. Doktrinde kusursuz sorumluluk hallerinin olağan sebep sorumluluğu-tehlike sorumluluğu şeklinde ikili ayırıma tabi tutarken, TBK tarafından açıklanan hakkaniyet sorumluluğu-özen (sebep) sorumluluğu-tehlike sorumluluğu şeklinde ayırıma tabi tutulduğu görülmektedir. Denetleme ve gözetimde özen (cura in custodio) gereği, kusur unsur olarak aranmaz.
 
 ## Yargıtay 3. HD 2016/13100 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/327577100)
 
 Kusur aranmaksızın sorumluluğun düzenlendiği haller, kusursuz sorumluluk halleri olarak ifade edilmektedir. Doktrinde kusursuz sorumluluk hallerinin olağan sebep sorumluluğu-tehlike sorumluluğu şeklinde ikili ayırıma tabi tutarken, TBK tarafından açıklanan hakkaniyet sorumluluğu-özen (sebep) sorumluluğu-tehlike sorumluluğu şeklinde ayırıma tabi tutulduğu görülmektedir. Denetleme ve gözetimde özen (cura in custodio) gereği, kusur unsur olarak aranmaz.
 
 ## Yargıtay 3. HD 2016/5256 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/206199200)
+
 Kusur aranmaksızın sorumluluğun düzenlendiği haller, kusursuz sorumluluk halleri olarak ifade edilmektedir. Doktrinde kusursuz sorumluluk hallerinin olağan sebep sorumluluğu-tehlike sorumluluğu şeklinde ikili ayırıma tabi tutarken, TBK tarafından açıklanan hakkaniyet sorumluluğu-özen (sebep) sorumluluğu-tehlike sorumluluğu şeklinde ayırıma tabi tutulduğu görülmektedir. Denetleme ve gözetimde özen (cura in custodio) gereği, kusur unsur olarak aranmaz.
 
 ## Yargıtay 3. HD 2016/1740 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/206083500)
 
 Kusur aranmaksızın sorumluluğun düzenlendiği haller, kusursuz sorumluluk halleri olarak ifade edilmektedir. Doktrinde kusursuz sorumluluk hallerinin olağan sebep sorumluluğu-tehlike sorumluluğu şeklinde ikili ayırıma tabi tutarken, TBK tarafından açıklanan hakkaniyet sorumluluğu-özen (sebep) sorumluluğu-tehlike sorumluluğu şeklinde ayırıma tabi tutulduğu görülmektedir. Denetleme ve gözetimde özen (cura in custodio) gereği, kusur unsur olarak aranmaz. (G.Antalya B.Hukuku Genel Hükümler C.1.2012.İst.sh.533.535.)…
 
 ## Yargıtay 3. HD 2016/557 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/230971000)
+
 Kusur aranmaksızın sorumluluğun düzenlendiği haller, kusursuz sorumluluk halleri olarak ifade edilmektedir. Doktrinde kusursuz sorumluluk hallerinin olağan sebep sorumluluğu-tehlike sorumluluğu şeklinde ikili ayırıma tabi tutarken, TBK tarafından açıklanan hakkaniyet sorumluluğu-özen (sebep) sorumluluğu-tehlike sorumluluğu şeklinde ayırıma tabi tutulduğu görülmektedir. Denetleme ve gözetimde özen (cura in custodio) gereği, kusur unsur olarak aranmaz.
 
 ## Yargıtay 3. HD 2016/193 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/230200000)
 
 Kusur aranmaksızın sorumluluğun düzenlendiği haller, kusursuz sorumluluk halleri olarak ifade edilmektedir. Doktrinde kusursuz sorumluluk hallerinin olağan sebep sorumluluğu-tehlike sorumluluğu şeklinde ikili ayırıma tabi tutarken, TBK tarafından açıklanan hakkaniyet sorumluluğu-özen (sebep) sorumluluğu-tehlike sorumluluğu şeklinde ayırıma tabi tutulduğu görülmektedir. Denetleme ve gözetimde özen (cura in custodio) gereği, kusur unsur olarak aranmaz.
 
 ## Yargıtay 3. HD 2016/192 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/158578400)
+
 Kusur aranmaksızın sorumluluğun düzenlendiği haller, kusursuz sorumluluk halleri olarak ifade edilmektedir. Doktrinde kusursuz sorumluluk hallerinin olağan sebep sorumluluğu-tehlike sorumluluğu şeklinde ikili ayırıma tabi tutarken, TBK tarafından açıklanan hakkaniyet sorumluluğu-özen (sebep) sorumluluğu-tehlike sorumluluğu şeklinde ayırıma tabi tutulduğu görülmektedir. Denetleme ve gözetimde özen (cura in custodio) gereği, kusur unsur olarak aranmaz. (G.Antalya B.Hukuku Genel Hükümler C.1.2012.İst.sh.533.535.)…
 
 ## Yargıtay 17. HD 2016/160 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/225943300)
 
 2918 sayılı Karayolları Trafik Kanunu ile kural olarak araç işletenin sorumluluğu "tehlike sorumluluğu" olarak kabul edilmiştir. KTK.'nun 85/1 maddesi; sorumluluğu, aracın işletilmesine dayalı tehlike sorumluluğu olarak düzenlediğinden, işleten veya araç işleticisinin bağlı bulunduğu teşebbüs sahibi kusurlu olsa bile kusur ilkesine göre değil, tehlike ilkesine göre sorumlu olacaklardır. Hemen belirtilmelidir ki, işletenin sorumluluğu hukuki nitelikçe tehlike sorumluluğuna ilişkin bulunmakla, işletenin hukuki sorumluluğunu üstlenen zorunlu sigortacının 91. maddede düzenlenen sorumluluğu da bu kapsamda değerlendirilmelidir.
 
 ## Yargıtay 3. HD 2014/16976 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/295809100)
+
 Kusur aranmaksızın sorumluluğun düzenlendiği haller, kusursuz sorumluluk halleri olarak ifade edilmektedir. Doktrinde kusursuz sorumluluk hallerinin olağan sebep sorumluluğu-tehlike sorumluluğu şeklinde ikili ayırıma tabi tutarken, TBK tarafından açıklanan hakkaniyet sorumluluğu-özen (sebep) sorumluluğu-tehlike sorumluluğu şeklinde ayırıma tabi tutulduğu görülmektedir. Denetleme ve gözetimde özen (cura in custodio) gereği, kusur unsur olarak aranmaz. (G.... B.Hukuku Genel Hükümler C.1.2012.İst.sh.533.535.)…
 
 ## Yargıtay 3. HD 2014/12845 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/88222400)
 
 Kusur aranmaksızın sorumluluğun düzenlendiği haller, kusursuz sorumluluk halleri olarak ifade edilmektedir. Doktrinde kusursuz sorumluluk hallerinin olağan sebep sorumluluğu-tehlike sorumluluğu şeklinde ikili ayırıma tabi tutarken, TBK tarafından açıklanan hakkaniyet sorumluluğu-özen (sebep) sorumluluğu-tehlike sorumluluğu şeklinde ayırıma tabi tutulduğu görülmektedir. Denetleme ve gözetimde özen (cura in custodio) gereği, kusur unsur olarak aranmaz. (G.Antalya B.Hukuku Genel Hükümler C.1.2012.İst.sh.533.535.)…
 
 ## Yargıtay 3. HD 2014/12830 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/88219500)
+
 Kusur aranmaksızın sorumluluğun düzenlendiği haller, kusursuz sorumluluk halleri olarak ifade edilmektedir. Doktrinde kusursuz sorumluluk hallerinin olağan sebep sorumluluğu-tehlike sorumluluğu şeklinde ikili ayırıma tabi tutarken, TBK tarafından açıklanan hakkaniyet sorumluluğu-özen (sebep) sorumluluğu-tehlike sorumluluğu şeklinde ayırıma tabi tutulduğu görülmektedir. Denetleme ve gözetimde özen (cura in custodio) gereği, kusur unsur olarak aranmaz. (G.Antalya B.Hukuku Genel Hükümler C.1.2012.İst.sh.533.535.)…
 
 ## Yargıtay 20. HD 2014/8482 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/379650700)
 
 Yargıtay Hukuk Genel Kurulunun 20.04.2011 gün ve 2011/13-37 E., 2011/198 K. sayılı kararında değinildiği gibi; kusur sorumluluğunda, bir zararı başkasına tazmin ettirmek, ancak zarar onun kusurlu bir fiilinden doğmuş ise mümkündür. Sanayileşme ile birlikte doğan tehlikeler, bir kimsenin kusurlu olmasa dahi kendisinin verdiği zarar nedeniyle tazmin sorumluluğunu getirmiştir. Öğretide kusursuz sorumluluk halleri “olağan sebep sorumluluğu-tehlike sorumluluğu” gibi ikili ayırıma tâbi tutulduğu gibi, hakkaniyet sorumluluğu-nezaret ve ihtimam gösterme yükümünden doğan sorumluluk-tehlike sorumluğu şeklinde üçlü ayırım yapanlar da vardır. Bir diğer ayrımda "objektif sorumluluk" üst başlığı altında kusursuz sorumluluk halleridir. Bunlardan "tehlike sorumluluğu" terminolojide “ağırlaştırılmış sebep sorumluluğu” ya da “ağırlaştırılmış objektif sorumluluk” olarak yer almaktadır. Bu tür sorumluluk halinde, diğer sorumluluk türlerinden farklı olarak kurtuluş beyyinesi (kanıtı) getirme olanağı yoktur. Bu halde nedensellik bağının kesilmesi halinde sorumluluktan söz edilemeyecektir.
 İşte Devletin “tapu sicilinin tutulmasından doğan sorumluluğunda" kusursuz sorumluluk, ağırlaştırılmış sebep, ağırlaştırılmış objektif sorumluluk ve tehlike sorumluluğuna ilişkin kurallar uygulanır. Bu sorumluluk türü, haksız fiil sorumluluğu, adam çalıştıranın sorumluluğu ve diğer objektif sorumluluk halleri, sebepsiz mal iktisap edenlerin sorumluluğu ile karıştırılmamalıdır. Bu nedenle, Devletin tapu silininin tutulmasından kaynaklanan sorumluluğuna dayanılarak açılan davalarda uygulanan zamanaşımı, munzam zarar ve hakkaniyet indirimi ya da makul indirim kurallarının uygulama imkanı yoksa da, TMK'nın 1007. maddesine dayanılarak açılan davalar için ayrıca zamanaşımı öngörülmediğinden, 6098 sayılı Borçlar Kanununun 146. (mülga 818 sayılı Borçlar Kanununun 125. maddesindeki) 10 yıllık genel zamanaşımı süresinin uygulanması söz konusu olacaktır.
 
 ## Yargıtay 17. HD 2013/7889 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/604828900)
 
 Yargılama sırasında yürürlüğe giren, 2872 Sayılı Yasanın 28.maddesinde öngörülen düzenlemelere paralel 6098 Sayılı Türk Borçlar Kanunu'nun 71.maddesi ile de önemli ölçüde tehlike arz eden bir işletme faaliyetinde zarar doğması halinde bu zarardan işletme sahibinin ve varsa işletenin sorumlu oldukları, Tehlike Sorumluluğu olarak düzenlenmiştir.
 
@@ -226,6 +310,8 @@ Araç işleteninin hukuki sorumluluğunun sınırları ile bu sorumluluğun kalk
 
 ## İstanbul BAM 3. HD 2026/821 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1203062400)
+
 Kusur aranmaksızın sorumluluğun düzenlendiği haller, kusursuz sorumluluk halleri olarak ifade edilmektedir. Doktrin kusursuz sorumluluk hallerini olağan sebep sorumluluğu ve tehlike sorumluluğu şeklinde ikili ayrıma tabi tutarken, Türk Borçlar Kanunu'nda; hakkaniyet sorumluluğu, özen (sebep) sorumluluğu ve tehlike sorumluluğu şeklinde ayrıma tabi tutulduğu görülmektedir. Denetleme ve gözetimde özen (cura in custodio) gereği, kusur unsur olarak aranmaz.
 
 ## İstanbul BAM 45. HD 2026/810 K.
@@ -234,9 +320,13 @@ Kusursuz sorumluluğun bir türü olan tehlike sorumluluğu, tehlike arz eden bi
 
 ## Sakarya BAM 7. HD 2026/776 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1206744900)
+
 Kusur aranmaksızın sorumluluğun düzenlendiği haller, kusursuz sorumluluk halleri olarak ifade edilmektedir. Doktrinde kusursuz sorumluluk hallerinin olağan sebep sorumluluğu-tehlike sorumluluğu şeklinde ikili ayırıma tabi tutarken, Türk Borçlar Kanunu tarafından açıklanan hakkaniyet sorumluluğu özen (sebep) sorumluluğu-tehlike sorumluluğu şeklinde ayırıma tabi tutulduğu görülmektedir. Denetleme ve gözetimde özen (cura in custodio) gereği, kusur unsur olarak aranmaz.
 
 ## Sakarya BAM 3. HD 2026/706 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1202180100)
 
 Kusur aranmaksızın sorumluluğun düzenlendiği haller, kusursuz sorumluluk halleri olarak ifade edilmektedir. Doktrinde kusursuz sorumluluk hallerinin olağan sebep sorumluluğu-tehlike sorumluluğu şeklinde ikili ayırıma tabi tutarken, 6098 sayılı Kanun tarafından açıklanan hakkaniyet sorumluluğu-özen (sebep) sorumluluğu-tehlike sorumluluğu şeklinde ayırıma tabi tutulduğu görülmektedir. Denetleme ve gözetimde özen (cura in custodio) gereği, kusur unsur olarak aranmaz.
 
@@ -249,5 +339,7 @@ Kusur aranmaksızın sorumluluğun düzenlendiği haller, kusursuz sorumluluk ha
 TBK.71.maddesine göre; Önemli ölçüde tehlike arzeden bir işletmenin faaliyetinden zarar doğduğu takdirde, bu zarardan işletme sahibi ve varsa işleten müteselsilen sorumludur. Bir işletmenin, mahiyeti veya faaliyette kullanılan malzeme, araçlar ya da güçler göz önünde tutulduğunda, bu işlerde uzman bir kişiden beklenen tüm özenin gösterilmesi durumunda bile sıkça veya ağır zararlar doğurmaya elverişli olduğu sonucuna varılırsa, bunun önemli ölçüde tehlike arzeden bir işletme olduğu kabul edilir. Özellikle, herhangi bir kanunda benzeri tehlikeler arzeden işletmeler için özel bir tehlike sorumluluğu öngörülmüşse, bu işletme de önemli ölçüde tehlike arzeden işletme sayılır. Belirli bir tehlike hâli için öngörülen özel sorumluluk hükümleri saklıdır. Önemli ölçüde tehlike arzeden bir işletmenin bu tür faaliyetine hukuk düzenince izin verilmiş olsa bile, zarar görenler, bu işletmenin faaliyetinin sebep olduğu zararlarının uygun bir bedelle denkleştirilmesini isteyebilirler.
 
 ## Adana BAM 16. HD 2026/71 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1189436900)
 
 Kusur aranmaksızın sorumluluğun düzenlendiği haller, kusursuz sorumluluk halleri olarak ifade edilmektedir. Doktrinde kusursuz sorumluluk hallerinin olağan sebep sorumluluğu-tehlike sorumluluğu şeklinde ikili ayırıma tabi tutarken, TBK tarafından açıklanan hakkaniyet sorumluluğu-özen (sebep) sorumluluğu-tehlike sorumluluğu şeklinde ayırıma tabi tutulduğu görülmektedir. Denetleme ve gözetimde özen (cura in custodio) gereği, kusur unsur olarak aranmaz.

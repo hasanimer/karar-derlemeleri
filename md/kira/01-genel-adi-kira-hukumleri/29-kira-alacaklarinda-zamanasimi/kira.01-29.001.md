@@ -21,9 +21,13 @@ uyari: "Derleyenin seçtiği alıntılardır; kararın tamamı değildir. Künye
 
 ## Yargıtay HGK 2021/502 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/686560000)
+
 Öte yandan 04.06.1958 tarihli ve 15/6 sayılı İçtihadı Birleştirme Kararı ile haksız zilyedin malı başkasına kiralaması veya diğer suretle maldan kazanç sağlaması durumunda hak sahibinin açacağı tazminat davasının gerek 818 sayılı BK’nin 414. maddesine dayanan gerekse TMK’nin 995. maddesine dayanan bir dava olarak tavsifinin mümkün olduğu, fakat tereddüt hâlinde “gerçek olmayan vekaletsiz iş görme”ye ilişkin 818 sayılı BK’nin 414. maddesinin uygulanacağı ve bu maddeye göre açılacak tazminat davasının da 818 sayılı BK’nin 125. maddesi gereğince on yıllık zamanaşımı süresine tabi olacağı kabul edilmiştir. Buna göre haksız zilyedin malı başkasına kiralaması veya diğer suretle maldan kazanç sağlaması durumunda davacının davayı tavsifine bakılacak; TMK’nin 995. maddesine dayanan bir dava olarak tavsif edilmiş ise haksız fiil zamanaşımı uygulanacak, 818 sayılı BK’nin 414. maddesine dayanan bir dava olarak tavsif edilirse on yıllık zamanaşımı süresi uygulanacak, tereddüt hâlinde ise 818 sayılı BK’nin 414. maddesi uygulanacaktır. Hemen belirtilmelidir ki anılan İçtihadı Birleştirme Kararı’nda 25.05.1938 tarihli ve 29/37 sayılı İçtihadı Birleştirme Kararı’nın saklı olduğu belirtilmiştir.
 
 ## Yargıtay HGK 2008/284 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/76707200)
 
 ....Sarayı Ltd.Şti. ile ....Hediyelik Eşya A.Ş.ve Apel Çelik arasında 30.12.1990 tarihli kira sözleşmesi imzalanmıştır. Kiralanan yer 23.09.1998 tarihinde davacı ....Ltd.Şti.ne satılmıştır. 23.09.1998 tarihli protokol yeni malik .... Ltd.Şti., eski malik .....Sarayı Ltd.Şti. ve kiracı arasında imzalanmıştır. Protokolün 3. maddesinde kiralayanın kısmen veya tamamen değişmesinin sözleşme hükümlerini etkilemeyeceği belirtilmiş, 27.11.1999 tarihli protokolde kiracının eski döneme ilişkin kira borçları için 1998/13702 sayılı dosyadaki takibe devam edileceği, kiracı ve kefilin icra dosyasına verdiği ödeme taahhütlerine aynen uyacağı hükme bağlanmıştır. Her iki protokolle davalı davacının kiralayan sıfatını kabul etmiştir. YİBK.nun 04.06.1958 gün ve 15/6 sayılı kararına göre bir kimsenin başkasına ait olduğunu bildiği ya da bilecek durumda bulunduğu bir taşınmazı kendi malı gibi kiraya verip, kiraları toplamış olması nedeniyle, hak sahibinin o kimseden kiraların alınması için açacağı davanın niteliğinde duraksama olması halinde bu dava B.K.nun 414. maddesine dayanan bir dava olması nedeniyle 10 yıllık zamanaşımına tabidir.
 Bu durumda zamanaşımı süresi dolmadığından davacının talepte haklı olduğu miktarın saptanıp sonucuna göre hüküm kurulması gerekirken, davanın zamanaşımı nedeniyle reddine karar verilmesinde isabet görülmemiştir...) gerekçesiyle bozularak dosya yerine geri çevrilmekle, yeniden yapılan yargılama sonunda, mahkemece önceki kararda direnilmiştir.
@@ -40,13 +44,19 @@ Mahkeme kararının gerekçesinde; 20 06... . ve 2.taksit kira bedeli alacağın
 
 ## Yargıtay 3. HD 2025/5254 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1205040400)
+
 Tüm bu bilgiler ışığında somut olay irdelendiğinde; davada, elektrik hattından çıktığı ileri sürülen yangından kaynaklanan maddi zararın tazmini talep edildiğine göre, davaya konu olay, 5237 sayılı Türk Ceza Kanunu'nun 171. maddesinde tanımlanan taksirle genel güvenliğin tehlikeye sokulması suçunu oluşturabilecek nitelikte olup; olaya uygulanacak zamanaşımı süresi, aynı Kanunun 66. maddesi uyarınca 8 yıllık ceza zamanaşımı süresidir. Davaya konu yangın 07.09.2017 tarihinde meydana gelmiş olup davanın 30.01.2018 tarihinde açıldığı, kira kaybına yönelik ıslah dilekçesinin ise 23.09.2022 tarihinde verildiği gözetildiğinde, ıslah tarihinde ceza zamanaşımı süresinin dolmadığı açıktır.
 
 ## Yargıtay 3. HD 2025/4620 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1184404000)
+
 6098 sayılı Türk Borçlar Kanunu'nun (6098 sayılı Kanun) 147. maddesi gereğince; kira bedellerine ilişkin davalar beş yıllık zamanaşımı süresine tabi olup, bu beş yıllık süre dava (veya ıslah ve yahut ek dava) tarihinden geriye doğru işlemeye başlar. Kısmi dava açılması halinde de alacağın yalnız dava konusu edilen kısmı için zamanaşımı kesilir, dava dışı kalan bölümü içinse zamanaşımı işlemeye devam eder.
 
 ## Yargıtay 11. HD 2024/4971 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1060362100)
 
 Şti.'den kredi kullanılmasından kaynaklı olarak 1.612.524,67 TL ve 730.000,00 TL olmak üzere toplam 2.342.524,67 TL, davacı şirketin yapılan sermaye artışlarından kaynaklı olarak 330.000,00 TL, şirket tarafından kiralanan yat kira bedellerinden dolayı uğradığı 147.853,50 TL ve tabloların teslim edilmemesinden dolayı 80.000,00 TL, şirketin kira gelirlerinin temlik edilmesinden doğan 147.000,00 TL, Perlo ve Virgo adlı yatların satın
 
@@ -56,6 +66,8 @@ süresinin haksız fiilin gerçekleştiği tarih itibariyle değil davalıların
 
 ## Yargıtay 6. HD 2024/1200 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1083086900)
+
 İlk derece mahkemesince, asıl dava ve birleşen davada alacak isteminde, davacının yapmış olduğu imalat bedelinin 58.604,85 TL olduğunun belirtildiği, bilirkişi raporunda davacının ... kirasına ilişkin alacağının bulunduğu belirtilmiş ise de; taraflar arasında yapılan sözleşmenin 3. maddesinde tüm cepheye genel iskelenin işveren tarafından kurulacağı düzenlenmiş olup, davalı işveren tarafından da iskelenin başka firmadan kiralandığına dair faturalar sunduğu, sözleşmeye göre de ... kurma edimi davalıya ait olduğu davacı taraf yazılı sözleşmenin aksine 3.kişilerden alınan faturalar ile kendisi tarafından kiralandığını ispatlayamadığından bu alacağına ilişkin talebin reddine, birleşen dava yönünden ise birleşen dava davalısının yapmış olduğu ayıplı işlerden dolayı 21.000TL alacağı olduğu, sözleşmede ... marka boya kullanılacağı kararlaştırılmasına rağmen, ... marka boya kullanıldığı, arada fiyat farkı olduğu anlaşıldığından birleşen dava davacısının zararının 78.952 TL olduğu, sözleşmede kompozit cephe malzemesi altında ... kullanılacağının yazılı olduğu, birleşen dava davalısı tarafından ... kullanılmayan alanın d.iş dosyasındaki delil tespitinde 605,685 m² olarak belirlendiği, buna
 göre maliyetin 6.056,85 TL olduğu, sözleşmeye göre yüklenicinin işi bitirme tarihinin 30.03.2015 olduğu, sözleşmenin 5. maddesi de gözönüne alındığında işin teslim tarihinin 01.08.2015 olması gerektiği, ancak yüklenici tarafından işin 30.09.2015 tarihinde teslim edildiği, bu durumda 60 günlük gecikme cezasının 30.09.2015 TL olduğu, iskelenin birleşen dava davacısı tarafından kiralandığı anlaşılmakla ... kira parasının 20.000 TL olduğu toplamda birleşen dava davacısının alacağının 156.008,85 TL olduğu 17.11.2021 tarihli bilirkişi raporunda belirtildiği, 17.11.2021 tarihli raporun denetime elverişli olduğu görülmüş, birleşen dava davacısı davasını kısmi dava olarak açmış olup, 29.12.2021 tarihi itibari ile ıslah dilekçesi verdiği, birleşen dava davalısının ıslaha karşı zamanaşımı def'inde bulunduğu, eser sözleşmelerinden doğan alacak talebi sözleşme tarihinde yürürlükte bulunan 6098 sayılı
 
@@ -63,9 +75,13 @@ Türk Borçlar Kanunu'nun 147/6. maddesi gereğince 5 yıllık zamanaşımı sü
 
 ## Yargıtay 3. HD 2024/381 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1022664500)
+
 Tarafların iddia, savunma ve dayandıkları belgelere, uyuşmazlığın hukuki nitelendirilmesine ve yukarıda yer verilen hukuk kurallarına ve özellikle davalı kiracının, birleşen davaya konu 11 aylık kira bedelini ödediğini ispat edememesine ve zamanaşımının senet keşidesi ile kesilmiş olup dava tarihi itibariyle dava konusu kira alacağının zamanaşımına uğramadığının anlaşılmasına göre, davacı / birleşen davada davalı vekilinin birleşen davaya yönelik temyiz itirazlarının reddi ile kararın onanmasına karar vermek gerekmiştir.
 
 ## Yargıtay 6. HD 2023/3075 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/982781400)
 
 İlk Derece Mahkemesinin yukarıda tarih ve sayısı belirtilen kararı ile davalı tarafından zamanaşımı itirazında bulunulmuş ise de sözleşmenin ifa ile tamamlanmaması ve taşınmazların sözleşme gereği teslim edilmemesi nedeniyle zamanaşımı süresi başlamayacağından itirazın yerinde görülmediği, dosyadaki bilgi ve belgelere göre sözleşmeye konu taşınmaz ile ilgili olarak temel atma tarihi belli olmadığından Yargıtayın yerleşik içtihatlarına göre makul ruhsat alma süresi 6 ay kabul edilerek inşaata başlama tarihinin 13.06.2002 olarak kabul edildiği, buna göre inşaatın teslimi için geçecek 36 ayın sonunda dairelerin teslim süresinin 13.06.2005 tarihi olarak kabul edilmesi gerektiği, davacı tarafından teslim edilmeyen 2 adet daire yönünden tapu iptali ve tescil talebinde bulunulmuş ise de taşınmazların kat irtifakı tesisi sonrası bağımsız bölümlere ayrılarak kooperatif üyeleri adına tescil edilmiş olduğundan davacıya aynen devir ve teslimin mümkün olmadığı, bu nedenle tescil talebinin kabul edilemeyeceği, davalı tarafından taahhütname ve ibraname başlıklı belge ile her türlü kira tazminat bedellerinden feragat edildiği belirtilmiş ise de 04.12.2012 tarihli belgenin adi yazılı şekilde
 yapıldığı, resmi şekilde yapılan arsa payı karşılığı inşaat sözleşmesinin hükümlerini değiştiren belgenin resmi şekilde yapılması gerektiğinden geçerli olmadığı ve sonuç doğurmayacağı, buna göre davacının davalıdan talep edebileceği gecikme nedeniyle kira bedelinin, 2 adet daire için 62.570,16 TL olduğu, davacının kendisine teslim edilmeyen 2 adet daire için dava tarihi itibariyle talep edebileceği bedelin 140.000,00 TL \* 2 Daire = 280.000,00 TL olduğu, davacının 24 m² fazla arsa verildiğine dair talebi ile ilgili sözleşmede herhangi bir bilgi ve bulguya rastlanılmadığından kanıtlanamayan 24 m² fazla arsa ile ilgili talebin reddine karar vermek gerektiği gerekçesiyle davanın kısmen kabul kısmen reddi ile ; Tapu iptali ve tescil mümkün olmadığından 2 adet daire bedeli olan 280.000 TL nin davalıdan alınarak davacıya ödenmesine, 50.000 TL 'lik kısmına dava tarihinden kalan kısmına ise ıslah tarihinden itibaren yasal faiz uygulanmasına, Dairelerin süresinde teslim edilmemesi nedeniyle
@@ -74,11 +90,15 @@ yapıldığı, resmi şekilde yapılan arsa payı karşılığı inşaat sözle�
 
 ## Yargıtay 11. HD 2023/3523 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/933309400)
+
 Bölge Adliye Mahkemesinin yukarıda tarih ve sayısı belirtilen kararı ile İlk Derece Mahkemesinin asıl davaya ilişkin olarak verdiği kararda usul ve yasaya aykırılık bulunmadığı ancak birleşen davanın aktif husumet yokluğu nedeniyle reddinin doğru olmadığı zira davacı şirket ortağının şirketin uğradığı zararlar için şirkete karşı ödenmek kaydıyla dava açma hakkına sahip olduğu, ancak davalıların birleşen davada usulüne uygun olarak zamanaşımı def'inde bulunduğu, somut olaya uygulanması gereken zamanaşımı süresinin, 6102 sayılı Kanun'un 560 ıncı maddesine göre ( 6762 sayılı Türk Ticaret Kanunu'nun 309 uncu ve 340 ıncı maddeleri) davacının zararı ve faali öğrendiği tarihten itibaren iki yıl ve herhalde zararı meydana getiren fiilin meydana geldiği tarihten itibaren 5 yıl olduğu, somut olayda, davacı tarafından aynı olaylara ilişkin olarak davalı şirket, dava dışı ... ve davalılar ... aleyhine 23.12.2010 tarihinde tazminat davası açıldığı, söz konusu davaya ilişkin dava dilekçesinden ve dava dilekçesine ekli 11.06.2010 tarihli noter ihtarnamesinden, davacının işbu davaya konu, kira sözleşmenin feshi ile akabinde taşınmazların üçüncü kişilere kiraya verilmesi ve davalı ...'im şirket
 hesabından para çekmesi hadiselerinden haberdar olduğunun anlaşıldığı ve bu fiilleri en geç belirtilen davanın açıldığı 23.12.2010 tarihinde öğrendiğinin kabulü gerektiği, birleşen davanın fiili ve faali öğrenme tarihinden itibaren iki yıl geçtikten sonra 23.11.2015 tarihinde açıldığı gözetildiğinde birleşen davadaki belirtilen taleplerin zamanaşımı nedeniyle reddi gerektiği, öte yandan, davacı tarafından birleşen davada, hissesine isabet eden kâr payının tahsili yönünde bir talebi bulunmadığı halde İlk Derece Mahkemesince kâr payı hakkında karar verilmesinin doğru olmadığı, davacı birleşen davada, bizzat kendisi tarafından şirket için harcamalar yapıldığını belirterek yaptığı bu harcamaların tahsiline karar verilmesini istemiş ise de, asıl davada şirketin fesih ve tasfiyesine karar verildiği, belirtilen talebin ancak tasfiye aşamasında değerlendirilebileceği, bu nedenle davacının bu hususa ilişkin itirazının yerinde görülmediği gerekçesiyle davacı vekilinin başvurusunun kabulü ile İlk Derece Mahkemesi kararının kaldırılmasına, esas hakkında yeniden hüküm kurulmasına, asıl davada, davalı şahıslar hakkındaki davanın pasif husumet yokluğu nedeniyle reddine, şirket hakkındaki davanın
 ise kabulü ile davalı şirketin fesih ve tasfiyesine, birleşen davada, davalı şahıslar hakkındaki tazminat davasının zamanaşımı nedeniyle reddine, şirket hakkındaki alacak davasının esastan reddine karar verilmiştir.
 
 ## Yargıtay 3. HD 2023/1743 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/965338600)
 
 İnşaat Sanayi ve Ticaret A.Ş. arasındaki satış sözleşmesinin kararlaştırılan tarihte ifa edilmediği, Meram Belediyesi ile ... ... İnşaat Sanayi ve Ticaret A.Ş. arasında sözleşmenin 17.08.2011 tarihinde feshedilmesi neticesi ifasının da mümkün olmadığı, yüklenici ... ... İnşaat Sanayi ve Ticaret A.Ş. tarafından, ... aleyhine Konya 1. Asliye Ticaret Mahkemesinin 2011/409 Esas sayılı dosyasıyla açılan davanın feshin iptali olmayıp feshin haksız olduğunun tespiti ile tazminat isteğine ilişkin olduğu, neticede mahkemece 29.05.2013 tarihinde feshin haklı olduğundan bahisle davanın reddine karar verildiği, dolayısıyla gerek
 
@@ -88,42 +108,62 @@ sözleşmenin ifasının imkansız hale gelmesi ve gerekse de davacının fesih 
 
 ## Yargıtay 3. HD 2022/8982 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/864828400)
+
 Türk Borçlar Kanunu'nun 147. maddesi gereğince; kira bedellerine ilişkin davalar beş yıllık zamanaşımı süresine tabi olup, bu beş yıllık süre dava (veya ıslah ve yahut ek dava) tarihinden geriye doğru işlemeye başlar. Kısmi dava açılması halinde de alacağın yalnız dava konusu edilen kısmı için zamanaşımı kesilir, dava dışı kalan bölümü içinse zamanaşımı işlemeye devam eder.
 
 ## Yargıtay 6. HD 2022/3621 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/791582800)
 
 Alacağın muaccel olmasının bir bildirime bağlı olduğu hâllerde, zamanaşımı bu bildirimin doğurduğu günden işlemeye başlar “ hükmünü içermektedir. Asıl ve birleşen dava da davacı taraf kendisine kur’a da isabet eden konutun teslimini beklediğini bu süre zarfında oluşan kira kaybını istediğini ileri sürerek 2014 yılında asıl davayı açmakla teslim edilmeme nedeniyle isteyebileceği kira alacağını muaccel hale getirmiştir. Kira alacağı doğduğu aydan itibaren muaccel hale gelir, muacceliyetin başlangıç tarihi zamanaşımı süresinin de başlangıcıdır. Kooperatif ile üyesi arasındaki kira alacağı 5 yıllık zamanaşımına tabidir.
 
 ## Yargıtay 3. HD 2022/4005 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/791103100)
+
 Hal böyle olunca ilk derece mahkemesince; davalının zamanaşımı def'i kapsamında yalnız kira bedeli alacağı yönünden beş yıllık zamanaşımı süresi esas alınarak sonucuna göre karar verilmesi gerekirken, dönemsel edim niteliğinde olmayan ve on yıllık zamanaşımı süresine tabi diğer alacak kalemleri yönünden de kira sözleşmesinden kaynaklandıkları gerekçesiyle beş yıllık zamanaşımı süresi uygulanarak karar verilmiş olması, usul ve kanuna aykırı olup bozmayı gerektirmiştir.
 
 ## Yargıtay 3. HD 2021/6695 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/694771900)
 
 TBK m. 147 gereğince kira bedellerine ilişkin davalar beş yıllık zamanaşımı süresine tabi olup, bu beş yıllık süre dava (veya ıslah ve yahut ek dava) tarihinden geriye doğru işlemeye başlar. Kısmi dava açılması halinde de alacağın yalnız dava konusu edilen kısmı için zamanaşımı kesilir, dava dışı kalan bölümü içinse zamanaşımı işlemeye devam eder.
 
 ## Yargıtay 3. HD 2019/9976 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/560661200)
+
 Taraflar arasındaki ilişkinin ve hukuki ihtilafın kira sözleşmesinden kaynaklandığı hususunda uyuşmazlık bulunmamaktadır. 6098 sayılı TBK'nun 147. maddesi (818 sayılı BK. 126/1. maddesi) hükmüne göre kira alacağından doğan davalar beş yıllık zamanaşımı süresine, kira alacağı dışında kira sözleşmesine dayanılarak açılan alacak ve tazminat davaları TBK'nun 146. maddesi (BK. 125. maddesi) hükmüne göre on yıllık zamanaşımı süresine tabidir. Dava konusu ihtilaf kira sözleşmesinden kaynaklandığı için sözleşmelerde uygulanan zamanaşımı süresinin geçerli olduğunun kabulü zorunludur. Dava, on yıllık zamanaşımı süresi dolmadan açıldığına göre işin esası incelenerek sonuca göre bir karar verilmesi gerekirken, davanın kira bedeline ilişkin hükümlere tabi olduğu değerlendirilerek yazılı şekilde karar verilmiş olması doğru görülmemiş, bozmayı gerektirmiştir.
 
 ## Yargıtay 8. HD 2019/10694 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/648031500)
 
 TBK’nin 153. maddesinin 1. fıkrasının 6. bendi uyarınca alacağın Türk mahkemelerinde ileri sürme imkânının bulunmadığı sürece zamanaşımının duracağı, aynı maddenin 2. fıkrasında da; zamanaşımını durduran sebeplerin ortadan kalktığı günün bitiminde zamanaşımının işlemeye başlayacağı veya durmadan önce başlamış olan işlemesini sürdüreceği düzenlenmiştir. Geçerli bir kira sözleşmesinin bulunduğu süre için ecrimisil talebinden bulunulamaz. Murisin sağlığında akdedilen 01.05.2003 başlangıç tarihli noter onaylı kira sözleşmesinin muvazaa nedeniyle iptali için 08.11.2006 tarihinde açılan İzmir 5. Asliye Hukuk Mahkemesinin 2006/439 Esas ve 2006/514 Karar sayılı dosyası ile 28.12.2006 tarihinde kira sözleşmesinin iptaline karar verildiği, kararın Yargıtay denetiminden geçerek 21.02.2008 tarihinde kesinleştiği açıktır. Bu durumda zamanaşımı iptal hükmünün kesinleştiği tarihten itibaren başlar. Dava tarihi itibariyle 5 yıllık zamanaşımı süresinin geçtiği söylenemez.
 Öte yandan; her ne kadar davacı 01.05.2003 ila 01.05.2006 arasına ait üç yıllık ecrimisil bedelinin tahsilini talep etmiş ise de murisin ölüm tarihi olan 26.03.2004 tarihinden itibaren kendi payına düşen ecrimisil bedelini talep edilebileceği gözönünde bulundurulmalıdır.
 
 ## Yargıtay 15. HD 2019/4869 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/560072800)
+
 Mahkemece alınan bilirkişi raporu doğrultusunda davanın kısmen kabulüne karar verilmiştir. Yargıtay 23. Hukuk Dairesi bozma ilamında “Eser sözleşmesine bağlı talepler TBK 147/6 maddesi uyarınca 5 yıllık zamanaşımına tabidir. Bu süre kiranın muaccel olduğu (istenebilir hale geldiği) tarihten başlar. Kirası istenen bağımsız bölümün teslim edilmesi, satılması veya kiraya verilmesi hallerinde kira tazminatı talep edilemez. Hükmen tescil davası açılması teslime ve kullanmaya veya satmaya engel olmadığından zamanaşımını kesmesi mümkün değildir. Somut olayda davanın 02.04.2013 tarihinde açıldığı, davalıları da süresinde zamanaşımı defiinde bulunduğuna göre, mahkemece TBK 147/6 maddesi gereğince zamanaşımı iddiasının yukarıdaki açıklamalar kapsamında ele alınması gerekir. Ayrıca davacılar…
 
 ## Yargıtay 23. HD 2019/1662 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/505380600)
 
 Arsa payı karşılığı inşaat sözleşmeleri eser sözleşmelerinin bir türü olup 6098 S.TBK'nın 147. maddesi uyarınca bu sözleşmeden kaynaklı talepler 5 yıl geçmekle zamanaşımına uğrar. Kira tazminatı talepleri, işledikleri ayın sonunda muaccel hale geleeğinden bu tarihten itibaren 5 yıl içinde talep edilmemişlerse zamanaşımına uğradığının kabulü gerekir.
 
 ## Yargıtay 3. HD 2019/4029 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/519585400)
+
 6098 sayılı T.B.K.'nun 147. maddesi (818 sayılı BK. 126/1. maddesi) hükmüne göre kira alacağından doğan davalar beş yıllık zamanaşımı süresine, kira alacağı dışında kira sözleşmesine dayanılarak açılan alacak ve tazminat davaları T.B.K.'nun 146. maddesi (BK. 125. maddesi) hükmüne göre on yıllık zamanaşımı süresine tabidir. Dava konusu uyuşmazlığın devlet hakkı alacağının tahsili istemine yönelik olup kira alacağına ilişkin olmadığı ancak kira sözleşmesinden kaynaklandığı için sözleşmelerde uygulanan zamanaşımı…
 
 ## Yargıtay 20. HD 2018/7146 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/465191100)
 
 Yukarıda anlatılan şekilde yapılacak uyg...ma ve değerlendirme sonucunda, dava konusu taşınmazların muteriz davacıların dayandığı tapu kaydı kapsamı içinde kaldığı belirlendiği takdirde; kazandırıcı zamanaşımı zilyetliği yoluyla taşınmaz edinme iddiasında bulunan davalı gerçek kişi ile tapu kaydına dayanan davacı gerçek kişilerin tanıkları ve yerel bilirkişiler taşınmaz başında dinlenip, zilyetliğin kiracı ya da malik sıfatıyla olup olmadığı, Medeni Kanunun yürürlüğünden en az 10 yıl öncesine dayanan zilyetlik olup olmadığı, varsa zilyetliğin başlangıcının ne şekilde hatırlandığı veya kendilerine bu bilgilerin ne şekilde aktarıldığı sorulup, somut olaylara dayalı yeterli ve kesin yanıtlar alınmalı, bir birinin tekrarı niteliğindeki soyut sözlerle yetinilmemeli, tarafların dayandıkları deliller ile özellikle Asliye Hukuk Mahkemesinin 1988/333 E., 1994/51 K., ve Asliye Hukuk Mahkemesinin 1960/104 E. 1961/25 K. sayılı kararları ile 1989/103 Esas sayılı dava dosyası krokileri yerine uyg...nmalı, çiftlik ve tapu sahipleri tarafından sun...n kiralamaya ilişkin
 
@@ -132,13 +172,19 @@ Yukarıda anlatılan şekilde yapılacak uyg...ma ve değerlendirme sonucunda, d
 
 ## Yargıtay 3. HD 2018/10069 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/468414000)
+
 Taraflar arasındaki ilişkinin ve hukuki ihtilafın kira sözleşmesinden kaynaklandığı hususunda uyuşmazlık bulunmamaktadır. 6098 sayılı T.B.K.'nun 147. maddesi (818 sayılı BK. 126/1. maddesi) hükmüne göre kira alacağından doğan davalar beş yıllık zamanaşımı süresine, kira alacağı dışında kira sözleşmesine dayanılarak açılan alacak ve tazminat davaları T.B.K.'nun 146. maddesi (BK. 125. maddesi) hükmüne göre on yıllık zamanaşımı süresine tabidir. Dava konusu ihtilaf kira sözleşmesinden kaynaklandığı için de sözleşmelerde uygulanan zamanaşımı süresinin geçerli olduğunun kabulü zorunludur. Dava, on yıllık zamanaşımı süresi dolmadan açıldığına göre işin esası incelenerek sonuca göre bir karar verilmesi gerekirken, davanın sebepsiz zenginleşme hükümlerine tabi olduğu değerlendirilerek yazılı şekilde karar verilmiş olması doğru görülmemiş, bozmayı gerektirmiştir…
 
 ## Yargıtay 23. HD 2018/4309 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/442300200)
+
 Arsa payı karşılığı inşaat sözleşmeleri eser sözleşmesidir. Eser sözleşmesine bağlı talepler TBK 147/6 maddesi uyarınca 5 yıllık zamanaşımına tabidir. Bu süre kiranın muaccel olduğu (istenebilir hale geldiği) tarihten başlar. Kirası istenen bağımsız bölümün teslim edilmesi, satılması veya kiraya verilmesi hallerinde kira tazminatı talep edilemez. Hükmen tescil davası açılması teslime ve kullanmaya veya satmaya engel olmadığından zamanaşımını kesmesi mümkün değildir.
 
 ## Yargıtay 3. HD 2018/6486 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/428181800)
 
 6098 sayılı TBK'nun 147/1. maddesinde kira bedellerine yönelik taleplerin beş yıllık zamanaşımına tabi olduğu, TBK 'nun 149/1. maddesinde zamanaşımının, alacağın muaccel olduğu zamandan itibaren işlemeye başlayacağı, TBK'nun 78/2. maddesinde zamanaşımına
 
@@ -146,17 +192,25 @@ uğramış bir borcun ifasından kaynaklanan zenginleşmelerin geri istenemeyece
 
 ## Yargıtay 3. HD 2017/14152 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/391165400)
+
 Davada dayanılan ve hükme esas alınan 01.01.2003 başlangıç tarihli ve bir yıl süreli kira sözleşmesi konusunda taraflar arasında uyuşmazlık bulunmamaktadır. Davacı anılan kira sözleşmesine dayanarak davalı hakkında 18.05.2007 tarihinde başlattığı icra takibinde 2003 yılının Temmuz ayı ile 2007 yılının Mayıs ayları arası birikmiş kira bedellerinin tahsilini istemiş, ödeme emrinin borçluya tebliğ edilememesi üzerine dosya işlemden kaldırılmıştır. Bu defa davacı alacaklı 28.08.2009 tarihinde, ilgili icra müdürlüğünden yenileme talebinde bulunmuş ve davalıya yeniden ödeme emri düzenlenmiş olmasına rağmen tebliği sağlanamamıştır. Son olarak davacı alacaklının 25.01.2011 tarihinde ikinci kez yenileme talebinde bulunması üzerine ilgili icra müdürlüğünce düzenlenen ödeme emri 07.06.2013 tarihinde davalı borçluya tebliğ edilmiştir. İlk takip tarihinden son yenileme tarihi olan 25.01.2011 tarihine kadar 5 yıllık zamanaşımı süresi dolmadan yenilenen dönemde tebliğ edilen ödeme emrine, davalı borçlu tarafından itiraz edilmesi üzerine 24.01.2014 tarihinde eldeki dava açılmış ve davalı borçlu yasal süresi içinde zamanaşımı def'inde bulunmuştur.
 
 ## Yargıtay 3. HD 2017/8829 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/355559300)
 
 Taraflar arasında sözlü kira akdinin varlığı konusunda bir uyuşmazlık bulunmamaktadır. Davacı kiracının icra kanalı ile 16.03.2009 tarihinde taşınmazdan tahliye edildiği anlaşılmaktadır. Uyuşmazlık, zamanaşımı süresi ile ilgilidir. Davacının alacak iddiası, kiralanana yapılan faydalı masraf alacağı olup, zarar yalın bir haksız eylemden kaynaklanmayıp taraflar arasında düzenlenen kira sözleşmesine bağlı olarak gerçekleşmektedir. Bu nedenle zamanaşımı süresinin tespitinde uygulanması gereken Kanun hükmü 6098 Sayılı Türk Borçlar Kanun'unun 82.maddesi (BK'nun 66.madde) olmayıp, aynı kanun'un 146.maddesi (BK'nun 125.madde) hükmüdür. Bu durumda dava sözleşmeden kaynaklanan on yıllık zamanaşımı süresine tabi olduğundan ve dava tarihi itibariyle 10 yıllık süre dolmadığından işin esası hakkında bir karar verilmesi gerekirken yazılı şekilde davanın zamanaşımı nedeniyle reddine karar verilmesi doğru görülmemiş, bozmayı gerektirmiştir.
 
 ## Yargıtay 19. HD 2017/3286 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/393471200)
+
 Finansal Kiralama Kanunu'nun 26. maddesinde yapılan gönderme nedeniyle, sözleşmeye aykırılıktan dolayı açılacak davalarda zamanaşımı 6098 sayılı T.B.K'nın 146. maddesinde ( mülga BK.nun 125.maddesinde )öngörülen genel zamanaşımı süresi olan 10 yıldır.
 
 ## Yargıtay 1. HD 2017/1257 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/355808100)
 
 Davanın kısmen kabulüne kısmen reddine ilişkin karar, Yargıtay 3. Hukuk Dairesince; ‘’ … Dosyadaki yazılara, kararın dayandığı delillerle kanuni gerektirici sebeplere ve özellikle delillerin takdirinde bir isabetsizlik görülmemesine göre; davalı tarafın sair temyiz itirazları
 
@@ -166,6 +220,8 @@ Zira, bilirkişi kurulu; davaya konu taşınmazın Haziran 2003 tarihindeki değ
 Bu durumda, mahkemece; davalının zamanaşımı definin geçerli olduğu gözetilmesi ve değerlendirilmesi gerekirken, bu defi değerlendirilmeden hüküm tesis edilmesi usul ve yasaya aykırıdır." gerekçesiyle bozulmuş, mahkemece bozma ilamına uyularak yapılan yargılama neticesinde davalının usuli kazanılmış hakkı da gözetilerek davanın kısmen kabulüne kısmen reddine karar verilmiştir.
 
 ## Yargıtay 6. HD 2016/3799 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/210285800)
 
 Öte yandan, davacı, 21.07.2014 tarihinde başlattığı icra takibinde 2008-2013 yılları arasındaki dönem için toplam 21.520,68 TL kira alacağının işlemiş faizi ile birlikte tahsilini talep etmiş, davalılar vekili itiraz dilekçesinde alacağa ilişkin zamanaşımı itirazında bulunmuştur. Kendisine ödeme emri tebliğ edilemeyen kiracı ... diğer kiracı ... ile birlikte takibe itiraz etmekle, alacak yönünden takibe devam etme iradesini gösterdiğinden, davalı borçluların takibe itiraz dilekçelerinde ileri sürdükleri zamanaşımı itirazı üzerinde durularak
 

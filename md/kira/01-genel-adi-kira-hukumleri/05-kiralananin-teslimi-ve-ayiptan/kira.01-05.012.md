@@ -22,6 +22,8 @@ uyari: "Derleyenin seçtiği alıntılardır; kararın tamamı değildir. Künye
 
 ## İstanbul BAM 15. HD 2026/158 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1194686200)
+
 Mahkeme hükmün gerekçe kısmında, taraflar arasında teslim süresine ilişkin bir süre tespit edilmediği, davacı-karşı davalı tarafça eksik yapılan iş bedelinin 64.213,36 TL olarak tespit edildiği ve yine davalı karşı davacı tarafça 3.113,33 TL fazla ödeme yapıldığı göz önüne alınarak toplam 67.326,77 TL davacı-karşı davalıdan tahsiline, yoksun kalınan kira bedeli talebi itibariyle yapılın otel olduğu, otel olarak bir işletmenin faaliyete geçmesinin birçok kamu kurum ve kuruluşlardan izin gerektiği, iklimlendirme sisteminin geç yapılmasına bağlanamayacağından bu talebin reddine karar verildiği belirtilmiştir. Karşı dava taleplerinde açıkça eksik iş bedellerin tahsiline ilişkin açık bir talep bulunmamaktadır. Ancak Mahkemece eksik iş bedeli itibariyle bir talep bulunduğunu kabul ediyor ise, bunu gerekçesinde açıklaması gerekmektedir. Öncelikle mahkemenin karşı davacı tarafından eksik iş bedeli talebine ilişkin dava bulunup bulunmadığı hususu belirlenmesi, gerekçesi ile açıklanması gerekmektedir. Mahkeme talep ile bağlı olduğundan bu hususta inceleme yapmadan yazılı şekilde hüküm vermiş olması doğru değildir.
 Ayrıca, asıl davada davacı yüklenici iş bedel alacağına ilişkin icra takibinde bulunmuş, davalı borçlu itiraz etmesi üzerine yargılamaya konu itirazın iptali davası açılmıştır. İş bedeli, yüklenicinin yaptığı ve
 
@@ -29,13 +31,19 @@ iş sahibinin yararına olan, ayıpsız ve eksiksiz imalatın bedeli yüklenicin
 
 ## Ankara BAM 22. HD 2026/77 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1194533600)
+
 Öncelikle davacının ayıplı aracı kullanamadığı süre için tazminat talep etmesi mümkün olup, zararın varlığının kabul edilmesi için somut bir belgeye de gerek bulunmamaktadır. Emsal kiralama ücretlerine göre davacının talepte bulunulması mümkündür (Aynı yönde Yargıtay 11. Hukuk Dairesinin 26/06/2024 Tarih, 2023/3339 Esas, 2024/5266 Karar sayılı ilamı).
 
 ## İzmir BAM 14. HD 2025/1741 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1193072100)
+
 Gecikme tazminatı kural olarak sözleşmede kararlaştırılan teslim tarihinden (teslim edilmesi gereken tarihten), eserin eksiksiz ve ayıpsız olarak sözleşmeye uygun biçimde fiilen teslim edildiği tarihe kadar ya da iş sahibinin bağımsız bölümü fiilen kullanmaya başladığı veya üçüncü kişiye oturulabilir şekilde kiraya verdiği ya da teslim edilmesi gereken tarihten sonra sattığı tarihe kadar istenebilir. Kiraya vermek suretiyle ekonomik yarar sağlandığında gecikme tazminatı istenemez. Yüklenicinin teslim edilmesi gereken tarihe uymayıp temerrüde düştüğü tarihten önce pay satışı yapan arsa sahibi gecikme tazminatı isteyemez. Çünkü, gecikme tazminatı, alacaklının borcun geç ifa edilmesinden uğradığı zararı karşılamayı amaçlar ve alacaklının borcun gecikmeden ifa edilmesindeki çıkarını sağlamaya yöneliktir. Temerrüde düşen borçlu, borcun geç ifasından dolayı alacaklının uğradığı zararı gidermekle yükümlüdür. Gecikme tazminatında tazmin edilecek zarar bir tür olumlu zarardır ve alacaklının mal varlığının, temerrüde düşülmeden borcun ifa edilmesi halinde içinde bulunacağı durumla, gecikmeli ifa sonucunda içinde bulunduğu durum arasındaki farkı ifade eder.
 
 ## İstanbul BAM 3. HD 2025/3261 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1185023200)
 
 Bu nedenle iş bu rapor tarihindeki eşdeğer araç kiralama bedelleri araştırılarak (EK-1), güncel ve geçmiş tarihli döviz kurları üzerinden hesaplama yapılması yoluna başvurulmuştur. İş bu rapor tarihinde dava konusu otomobil ile eşdeğer araçların aylık kiralama bedellerinin KDV dahil 110.000-TL olduğu tespit edilmiştir. Bu bağlamda değerlendirildiğinde 03/05/2021 tarihi itibariyle S1 günlük kiralama tutarının KDV dahil 66.162-TL, 05/04/2022 tarihi itibariyle 73 günlük kiralama tutarının ise KDV dahil 167.815-TL olduğu ve davacının aracında ortaya çıkan ayıplar ve hizmet ayıpları nedeniyle uğramış olduğu zararın KDV dahil 66.162-TL+167.815-TL=233.977-TL olduğu kanaatine varılmıştır... davacı ... Sanayi ve Ticaret A.Ş.'ye ait... plakalı, ...marka, LY tipi, ...ticari
 
@@ -43,15 +51,21 @@ ismine sahip, 2018 model ... şasi numaralı, gri renkli otomobilde meydana gelm
 
 ## İstanbul BAM 13. HD 2025/2120 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1186997500)
+
 Şirketi'ne hiç başvurmamış olduğunun, araçtaki ayıbın yağ sızdırmazlık sağlayan parçanın değişimi suretiyle ve üç günlük onarım süresi içerisinde, dava tarihindeki rayice göre 4.484,00-TL onarım bedeli, son rapor tarihindeki rayice göre 11.800,00-TL onarım bedeli ile tamamen giderilebileceğinin tespit edilmiş olması, TBK'nun 227/1-4 maddesinde satılanın misli ile değiştirilmesi talebinin imkan mevcut ise kullanılabileceğini düzenlenmiş olması, yine TBK'nun 227/4 fıkrası uyarında hakime, durumun sözleşmeden dönme hakkının kullanımını haklı göstermemesi halinde onarıma veya bedel indirimine karar verme yetkisi tanımış bulunması, her halde seçimlik hakların kullanımının TMK'nun 2 maddesindeki dürüstlük kuralına tabi bulunması karşısında, mahkemece, aracın iddia olunan arıza nedeniyle serviste kaldığı sürenin kısalığı ve satış bedeli de nazara alınarak ücretsiz onarıma karar verilmiş olmasında usul ve yasaya aykırı bir yön bulunmadığı, davacının dava dilekçesi ekinde sunduğu farklı tarihlerde düzenlenmiş çok sayıda nakliye faturalarının mahkeme gerekçesinde de belirtildiği üzere dava konusu araçtaki ayıp ile illiyetinin ortaya konulamadığı, yine mahkeme gerekçesinde belirtildiği üzere
 aracın ayıp nedeniyle serviste kaldığı tarih aralığının servis kayıtları ile sabit olduğu, dosyaya mübrez diğer servis kayıtlarının periyodik bakımlara ilişkin oldukları, davacının gerek raporlara itiraz, gerekse istinaf dilekçesinde ileri ve aracın serviste kaldığını iddia ettiği bazı tarih aralıklarına ilişkin ise dosyada hiçbir servis kaydı vs delil bulunmadığı, davalı satıcı şirket temsil ve ilzama yetkili olmadığı, dairemizce yapılan sicil kaydı araştıması ile de anlaşılan... tarafından imzalanan fotokopi niteliğindeki ve tarihsiz belgenin davalı şirketi bağlamayacağı yönündeki mahkeme kabulünde de isbaetsizlik bulunmadığı, teknik bilirkişiler tarafından davacının aracın serviste kaldığı süre için muadil olarak kiralayacağı araç bedelinin tespit edilmiş olması ve mahkemece bu tutarın maddi zarar olarak kabul edilmesi karşısında, davacının yukarıda belirtildiği üzere ispatlayamadığı nakliye gideri zararına yönelik istinaf sebebinin dinlenebilir olmadığı, sözleşmeye aykırılığın tek başına manevi tazminatı gerektirmeyeceği, davacının TBK'nun 114/2 fıkrası atfı ile aynı Kanunun 58/1 maddesi uyarınca, ticari itibarının zedelendiğini ispat edememiş olması karşısında manevi tazminat
 isteminin reddedilmesinde hukuka aykırılık bulunmadığı, davacının aksi yöndeki istinaf sebeplerinin yerinde olmadığı anlaşılmıştır.
 
 ## Adana BAM 9. HD 2025/2500 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1184174500)
+
 CMR Konvansiyon'un 17. maddesine göre; Taşımacı, yükü teslim aldığı andan, teslim edinceye kadar, bunların kısmen veya tamamen kaybından ve doğacak hasardan sorumludur. Eğer kayıp hasar veya gecikme istek sahibinin hatası veya ihmalinden, taşımacının hatasından değil de, istek sahibinin verdiği talimattan, yüke has bir kusurdan yahut da taşımacının önlenmesine olanak bulunmayan durumlardan ileri gelmiş ise, taşımacı sorumlu tutulamaz. Taşımacı taşımayı yapmak için kullandığı kusurlu taşıtları, bu taşıdı kiraladığı kişinin veya vekilinin yahut çalışanlarının hata ve/ veya ihmallerinden dolayı sorumludur.
 
 ## İstanbul BAM 14. HD 2025/1876 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1184647200)
 
 İlk derece mahkemesince yapılan yargılama sonucunda davanın kısmen kabulüne karar verilmiş; bu karara karşı, davalılar ... Sanayi ve Ticaret AŞ, ... Enerji Üretim AŞ ve ... İnşaat Ticaret ve Sanayi AŞ vekillerince, yasal süreleri içinde istinaf başvurusunda bulunulmuştur.İstinaf incelemesi, HMK'nın 355. maddesi uyarınca, ileri sürülmüş olan istinaf nedenleriyle ve kamu düzeni yönüyle sınırlı olarak yapılmıştır.Taraflar arasında, davacı sigorta şirketi ile dava dışı ... ... Kiralama AŞ Şirketi arasında sigorta poliçesinin varlığı, hasara uğrayan iş makinesinin makine kira sözleşmesi ile ... - ... Adi Ortaklığı tarafından kiralanmış olduğu, 23.01.2012 tarihinde Köprü Barajı ve ... Projesinden barajın doluya yakın su tutmuş olduğu sırada baraj kapağının patlaması sonucunda çalışan ekiplerle birlikte makinenin zarar gördüğü hususlarında herhangi bir uyuşmazlık mevcut değildir. Uyuşmazlık, ihale ile işi adi ortaklığa veren ...
 AŞ'nin olayda kusurunun ve sorumluluğunun olup olmadığı, inşaat işinin yüklenicisi olan davalıların kusurunun bulunup bulunmadığı, ceza mahkemesindeki kusur raporunun hukuk mahkemesini bağlayıp bağlamadığı, ceza kararı sonrasında tarafların kusuruna dair yeniden rapor alınmamış olmasının isabetli olup olmadığı, alacağın zamanaşımına uğrayıp uğramadığı, bina ve inşaat sahibinin sorumluluğu yönünden sorumluluğun bulunup bulunmadığı, mahkeme kararını ve hükme esas alınan bilirkişi raporunun ayrıca faize ilişkin kararın usul ve yasaya uygun bulunup bulunmadığına ilişkindir. Dosya kapsamından; dava dışı ... Makine... Ltd Şirketi ve Finas ... ... AŞ şirketi adına 27.01.2011 tarihli silindir cinsi makineye dair 60.000,00 USD tutarında fatura düzenlendiği, dava dışı Finas ... Kiralama AŞ şirketi tarafından fatura konusu iş makinesini başlangıç tarihi 01.03.2011, bitiş tarihi 01.03.2014 olan Leasing All Risk Sigorta Poliçesi ile sigortalattığı, sigorta poliçesindeki sigorta ettiren ve sigortalının Finas ... Kiralama AŞ şirketi olduğu, riziko adresinin makinelerin kullanım alanı olarak belirlendiği, poliçe kapsamında sel, deprem vb rizikoların dahil olduğu, dava dışı ... İş Mak...
@@ -59,18 +73,26 @@ Ltd Şirketine söz konusu makinenin düzenleme şeklinde ...
 
 ## Kayseri BAM 3. HD 2025/1838 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1177675800)
+
 Eldeki davada taraflar arasında taşınmaz kira sözleşmesi bulunduğu ihtilaflı olmayıp, davacı davaya konu kambiyo senedinin taşınmaz kira sözleşmesinin teminatı olarak verildiğini ancak bu senetten dolayı borçlu olmadığını iddia ederek dava açtığına göre, ilk derece mahkemesince davacının dayandığı vakıalar üzerinden taleple bağlı kalınmak şartıyla uyuşmazlığın neticelendireceğine kuşku bulunmamaktadır. Zira mahkemenin görevi belirlenirken taraflarca getirme ilkesinin göz önünde bulundurulması zorunludur.
 
 ## İzmir BAM 23. HD 2025/1760 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1178509500)
 
 6098 sayılı TBK’nun 301.maddesi gereğince; kiraya veren, kiralananı sözleşmede amaçlanan kullanıma elverişli bir durumda teslim etmek ve sözleşme süresince bu durumda bulundurmakla yükümlüdür. Kiraya veren bu borcu sadece fiili bir teslim ile ifa etmiş olmaz. Kiracı kiralananı hangi maksat için tutmuş ise kiraya veren o maksada elverişli bir tarzda teslim ile mükelleftir. Kiralananın ayıplı olarak teslimi nedeniyle kiralananın kullanılmasında imkansızlık veya derecesinde düşüklük meydana gelmiş ise bu durumda kiracının TBK’nun 123. ve 125.maddeleri dairesinde hareket ederek mevcut ayıbı uygun bir sürede kiraya verene ihbar etmesi beklenir. Kiralananda mevcut açık nitelikteki bozukluklara karşın kiracının uzun bir süre kiralananı mevcut hali ile kullanması ve bu konuda uyuşmazlık çıkartmaması, kiracının kiralananı mevcut hali ile kabul ettiği şeklinde yorumlanabilir. Böylesi bir durumda kiraya veren ayıptan sorumlu tutulamaz. Hükümden de anlaşılacağı üzere; kiraya veren, kiralananı sözleşmenin amacına uygun surette kullanmaya ve işletmeye elverişli bir şekilde teslime ve kira süresince de kiralananı bu halde tutmaya mecburdur.
 Eş söyleyişle, kira sözleşmeleri iki taraflı borç doğuran ivazlı sözleşmelerdendir. O nedenle kiraya veren davalı, kiralananı başlangıçtan itibaren sözleşmeden maksut kullanmaya salih bir halde, her türlü ayıptan salim olarak kiracıya teslim ve sözleşmenin devamı süresince de bu amacı sağlamak zorundadır. Çünkü buradaki ifa; borçlanılan edimin kural olarak borçlu tarafından belirli bir yer ve zaman içinde ve sözleşmenin kaynağındaki esaslar altında yerine getirilmek suretiyle borçlunun borcundan kurtulmasını sağlayan eylem ve davranıştır. O halde, geçerli bir ifanın benimsenebilmesi için; ifa borçlu tarafından alacaklıya sözleşmede kararlaştırılan yer ve zamanda, kararlaştırılan nicelik ve niteliklere uygun olarak yapılmalıdır. Diğer bir anlatımla kiraya veren sözleşme süresince kiralananda meydana gelen bozuklukları ve eksikleri kiracının bir kusuru yoksa gidermekle yükümlüdür.
 
 ## İstanbul BAM 17. HD 2025/1091 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1167668500)
+
 Şti'nin klimanın bakım işini eksik ve/veya ayıplı ifa etmesinden kaynaklandığı yönünde bir delil bulunmamaktadır. İlk derece mahkemesinde alınan rapora göre; sigortalı kiracının işyerinde elektrik tesisatına fazladan spotlar eklemesi, bu eklemeler sırasında mevcut kablolara ve sigortalara da eklerin yapılarak, tesisattaki kurulu gücün artırılması sonucu aşırı akım çekilmesi nedeniyle kabloların ısınması sonucu yangın çıkmıştır. Buna göre ilk derece mahkemesince olayda davalıların kusurlu bulunmadıkları gerekçesiyle davanın reddine karar verilmesinde isabetsizlik görülmemiştir. Açıklanan nedenler ile ilk derece mahkemesi kararında hukuka aykırılık görülmediğinden, davacı vekilinin istinaf başvurusunun HMK'nın 353/1.b.1 bendi gereğince esastan reddine karar verilmesine dair aşağıdaki hüküm kurulmuştur.
 
 ## İstanbul BAM 14. HD 2025/1377 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1171607400)
 
 Ancak bilirkişi incelemesi yapılması için bir vakıanın iddia edilmesi yeterli olmayıp yasa ve sözleşme hükümlerine göre bu vakıanın bilirkişi raporu ile ispat edilebilmesi ve bu ispat neticesinde bu talebin yasa ve sözleşme kapsamında hüküm altına alınabilecek nitelikte olması gerekir. Aksi halde mahkemece hükmedilemeyecek bir alacağın belirlenmesi sadece tarafların meraklarını giderme amacına yönelik olacaktır. Bu bakımdan talep edilen alacağın
 
@@ -79,6 +101,8 @@ Bu bakımdan mahkemece yapılan inceleme yeterli olup, sonuçta hükmedilmeyecek
 
 ## Ankara BAM 21. HD 2025/829 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1159399300)
+
 Alınan ikinci bilirkişi heyeti raporunda, davacının ana statüsü gereğince faaliyet konuları arasında elektrik dağıtımının bulunduğu ve elektrik dağıtım tesislerinin malikinin davacı olduğu, faaliyet konuları ile ilgili menkul ve gayrimenkuller ile her türlü ayni ve fikri hakları tasarruf etmek, menkul ve gayrimenkul satmak, satın almak, kiralamak ve kiraya verme hakkına sahip bulunduğu, İHDS öncesine ve sonrasına ait olarak elektrik dağıtım tesislerinin mülkiyetine dair ortaya çıkacak olan idari ve hukuki ihtilafların çözümünün davacının yükümlülüğünde olduğu, dağıtım tesislerinin mülkiyetinin ihds ile de davacıya bırakıldığı, davalının EPDK’tan lisanslı özel hukuk tüzel kişisi dağıtım şirketi olduğu ve dağıtım lisansı gereğince dağıtım faaliyeti dışında bir faaliyetle iştigal edemeyeceği, bu durumda elektrik dağıtım faaliyeti yapmak amacıyla devralınmış tesislerin dağıtım faaliyeti dışında kullanılamayacağı, 6446 Sayılı Kanun ve taraflar arasındaki ihds gereğince davalı tarafından lisansında kayıtlı bölge sınırlarında elektrik dağıtım faaliyetinin dağıtım tesislerinin ve mütemmim cüzlerinin işletilmesinden ibaret olduğu, elektrik dağıtım şebekeleri yenilenerek kayıpların
 azaltılması, enerji tasarrufu ile verimlilik politikalarının geliştirilmesi için davalı mülkiyetinde bulunmayan dağıtım varlıkları üzerinden elde edilecek kira ve reklam ile benzeri gelirlerin verimlilik sağlayacak, kayıp ve kaçakları azaltacak nitelikte bir faaliyet olmadığı ve bu faaliyetin Kanunda sınırları net olarak çizilmiş olan dağıtım faaliyeti kapsamında yer almadığı, gerçek maliyete dayalı bir tarife yapısı içinde yer almaması gerektiği, ancak tarifeye dahil edilen kısmi bedellerin kamu yararına kullanıldığı, mahkemece davacının talep hakkının oluştuğunun kabulü halinde, ilgili hesaplamanın EPDK tarafından bildirilen tablolar, dosya kapsamında yapılan SMMM bilirkişi incelemesi raporu ve bu rapora karşı itirazlarla davalı kayıtları esas alınarak 3 alternatif şeklinde sunulduğu, EPDK tabloları dikkate alındığında hesaplanan toplam tutarın 343.715,07 TL ve tarifede kullanılan oranlardan sonra kalan kısmın toplam 269.613,54 TL
 
@@ -86,11 +110,15 @@ olduğu, mali inceleme dikkate alındığında hesaplanan toplam tutarın 449.78
 
 ## Ankara BAM 21. HD 2025/832 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1161628200)
+
 Elektrik Dağıtım Varlıklarından Reklam ve Kira Geliri Elde Etmesi mümkün olmadığını, ir. 14 Şubat 2018 tarihli ve 30332 sayılı Resmi Gazete’de yayımlanan ...
 AŞ Ana Statüsünün “Teşekkülün amacı ve faaliyet konusu” başlıklı 6 ncı maddesinin (ş) bendinde ...’ın faaliyet konuları ile ilgili menkul ve gayrimenkuller ile her türlü ayni ve fikri hakları tasarruf etmek, menkul ve gayrimenkul satmak, satın almak, kiralamak ve kiraya vermek hak ve yetkisi ...’ın kendi faaliyetlerine özgülenmiş olup elektrik dağıtım faaliyetini yürütmek hak ve yetkisine sahip olmayan ...’ın elektrik dağıtım varlıklarından kira geliri elde edebilmesinin hukuken mümkün olmadığını, Elektrik Piyasası Lisans Yönetmeliği’nin 33 üncü maddesinde dağıtım lisansının hak sahibine Lisansında belirlenen dağıtım bölgesinde dağıtım faaliyetinde bulunma, Kurum tarafından belirlenen usul ve esaslar çerçevesinde, dağıtım faaliyetiyle birlikte yürütülmesi verimlilik artışı sağlayacak nitelikteki piyasa dışı bir faaliyeti yürütme, genel aydınlatma ve dağıtım sistemi teknik ve teknik olmayan kayıplarını karşılamak amacıyla kullanılmak üzere elektrik enerjisi satın alma ile sistem teknik ve teknik olmayan kayıplarını karşılamak için sözleşmeye bağlanan enerjinin gerçekleşmeler nedeniyle fazlasını organize toptan elektrik piyasalarında satabilme, hakkını verdiğini, ayrıca dağıtım
 lisansı, sahibine sayaçların kurulması ve işletilmesi, yatırımların yapılması, bakım ve onarım faaliyetlerinin yürütülmesi şeklinde hak ve ödevler yüklediğini, Elektrik dağıtım lisansı, sınırları lisanslarında belirlenmiş 21 adet elektrik dağıtım şirketine verildiğini, ...’ın elektrik dağıtım lisansı bulunmadığını, bu doğrultuda ..., dağıtım faaliyetini yürütmek hak ve yetkisine sahip olmadığı gibi dağıtım faaliyeti ile birlikte yürütülmesi verimlilik sağlayacak reklam ve kira işlerini yürütmeyeceğini bildirerek davanın reddini istemiştir.
 
 ## İstanbul BAM 14. HD 2025/1211 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1160220800)
 
 Dosya kapsamına göre; davacının yurt dışından satın aldığı emtianın, navlun faturasına göre davacı akdi taşıyıcı tarafından taşınmasının üstlenildiği, davalının bu taşımayı dava dışı ... Logistic Taşımacılık ve Tic. Ltd. Şti.aracılığı ile gerçekleştirdiği, CMR belgesine göre emtiaların ... plakalı tıra yüklenerek taşımanın yapıldığı, .... Dış Tic. Ltd. Şti.tarafından işletilen antrepoda tutulan 22.03.2018 tarihli tutanağa göre, emtianın taşındığı tırın antrepoya mühürsüz olarak giriş yaptığı, davacıya ait olması gereken 31 kap emtianın 16 orjinal kap olarak araçtan çıktığı, 15 kabın ise eksik olduğunun tespit edildiği, antrepo
 
@@ -98,6 +126,8 @@ işleten şirket ve gümrük memurlarınca tutanağın imzalandığı, emtianın
 CMR'nin 17/1.maddesine göre, taşımacı, yükü teslim aldığı andan, teslim edinceye kadar, bunların kısmen veya tamamen kaybından ve doğacak hasardan sorumludur. 17/2.maddesinde ise, eğer kayıp, hasar veya gecikme istek sahibinin hatası veya ihmalinden, taşımacının hatasından değil de, istek sahibinin verdiği talimattan, yüke has bir kusurdan yahut da taşımacının önlemesine olanak bulunmayan durumlardan ileri gelmiş ise, taşımacının sorumlu olmayacağı düzenlenmiştir. Taşıyıcının anılan madde uyarınca sorumluluktan kurtulabilmesi için hasarın önlenmesine imkan bulunmayan bir halden meydana geldiğini kanıtlaması gerekir. Zira, taşıyıcının sorumluluğu ispat külfeti ters çevrilmiş bir kusur sorumluluğudur.Ziya ve hasar halinde tazminatın hesaplanmasına ilişkin CMR'nin 23. maddesine göre; emtianın kısmen veya tamamen kaybı halinde tazminat, emtianın taşınmak üzere teslim edildiği yer ve tarihteki değerine göre hesaplanır. Ancak kısmi kayıp halinde, sorumluluk miktarının tespitinde kaybedilen kısmın ağırlığına göre taşıyıcının sorumlu olduğu miktar belirlenmelidir. Bu durumda tazminat, eksik brüt ağırılığın kilogram başına 8,33 SDR tutarını aşamaz.
 
 ## İstanbul BAM 15. HD 2025/742 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1158197900)
 
 GEREĞİ GÖRÜŞÜLÜP DÜŞÜNÜLDÜ:
 Dava; taraflar arasında düzenlenen kat karşılığı inşaat sözleşmesinden kaynaklanan alacak talebine ilişkin olup; mahkemece davanın kabulüne dair verilen karara davalı vekilince istinaf talebinde bulunulmuştur.Davacı vekili , müvekkili şirketin ... aracılığıyla finansal kiralama yöntemiyle davalıdan Otomatik Pet Süt Dolum Kapatma ve Etiketleme Makinesi ve ayrıca buna bağlı bir Tarih Kodlama Makinesi aldığını, müvekkili şirkete bu ürünlerden süt dolum makinesinin maliyeti 127.440,00.TL ve tarih kodlama makinesinin maliyeti de 20.484,00.TL olmak üzere yekün 147.924,00.TL olduğunu, söz konusu makine, gerek bir kısım üretim hataları ve gerekse kurulum ve kurgu hataları nedeniyle bugüne kadar randımanlı ve kullanışlı bir şekilde çalışmadığını, davalının defalarca gelip makine üzerinde düzeltme, kurgu hatalarını giderme ve makinenin düzgün ve verimli bir şekilde çalışmasını sağlama faaliyetleri de maalesef bir türlü sonuç vermediğini , ayıplı ve arızalı olan makine halen kullanılamadığından, atıl ve hiç bir işe yaramaz vaziyette durduğunu belirterek , mezkur ürünlerin ayıp, arıza, kapasite noksanlığı ve kusurunun mevcudiyeti nedeniyle ürünlerin satıcı tarafından iade alınmasına ve
@@ -107,10 +137,14 @@ satımı ve teslimini 15.07.2017 tarihinde tamamlamış olup bu tarihten yaklaş
 
 ## İstanbul BAM 9. HD 2025/1065 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1159682400)
+
 A.Ş.’nin ve kazaya ve davacının yaralanmasına sebep olan ...'nın dahili davalı olarak davaya dahil edilmelerini, müvekkilinin kusursuz olması sebebiyle hükmedilecek tazminatın diğer davalılardan tahsiline karar verilmesini, aksi halde haksız ve mesnetsiz davanın reddine karar verilmesini talep etmiştir. Davalı... A.Ş. vekili cevap dilekçesinde özetle; bu davada müvekkiline husumet yöneltilmesinin yürürlükteki mevzuat gereğince mümkün olmadığını, esasen araç kiralama işi yapan bir kuruluş olan müvekkili şirketin, kendisine ait olan ... plaka sayılı aracı, diğer 9 araçla birlikte, 02/07/2015 tarihinde uzun süreli (3,5 yıl) bir sözleşmeyle dava dışı ... A.Ş. adlı şirkete kiralamış olduğunu, yasanın açık hükmü gereğince aracın işleteninin dava dışı ... A.Ş. olduğunu, davanın esasına ilişkin iddiaları da kabul etmediklerini belirterek davanın reddini talep etmiştir.Mahkemece yapılan yargılama sonucunda, "Maddi tazminat talebi yönünden; davacının maddi tazminat davasının kısmen kabulü ile; 9.567,22 TL geçici iş göremezlik tazminatının davalı ... ve ....
 A.Ş. yönünden kaza tarihinden, davalı sigorta şirketi yönünden dava tarihinden itibaren işleyecek yasal faizle birlikte davalılardan alınarak davacıya verilmesine, tedavi gideri, çalışma gücünün yitirilmesinden doğan kayıplar ve ekonomik geleceğin sarsılmasından doğan kayıplar açısından taleplerin ayrı ayrı reddine, Manevi tazminat yönünden; 7.000,00 TL manevi tazminatın kaza tarihinden itibaren işleyecek yasal faizi ile birlikte davalı ... ve .... A.Ş. 'den alınarak davacıya verilmesine" karar verilmiştir.Bu karara karşı davacı vekili, davalı ... vekili, davalı ....
 
 ## İstanbul BAM 12. HD 2025/978 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1160222100)
 
 CMR'nin 32. maddesinde, bu anlaşma gereğince doğacak davaların bir yıl içinde açılması gerektiği ancak bilerek kötü hareketin varlığı tespit edilmesi halinde üç yıl içinde açılacağı düzenlenmiştir. Teslimde kısmi kayıp ve hasar olması halinde bu sürenin teslim ile başlayacağı öngörülmektedir. İlk taşıma ile ilgili teslimatın 18/02/2021 tarihinde, sonraki taşıma ile ilgili teslimatın 02/04/2021 tarihinde yapıldığı, davanın ise Konvansiyon'da öngörülen 1 yıllık süre dolmadan açıldığı anlaşılmakla, davalının zamanaşımı defi yerinde değildir. Davalı "yüke ve ambalajına çekince koymadan" gönderenden "parsiyel yük" olarak teslim aldığı ve taşıdığı emtiaları, araç sürücüsünün iştiraki sağlanmak suretiyle her bir taşımaya ilişkin 18/02/2021 ve 02/04/2021 tarihinde düzenlenen tutanağa ve taşıma belgeleri üzerine konan meşruhata kayden alıcısı emrine çekinceli olarak teslim edilmiştir. CMR'nin 17. maddesine göre; taşımacı, yükü teslim aldığı andan teslim edinceye kadar, bunların kısmen veya tamamen kaybından ve doğacak hasardan sorumludur. Eğer kayıp, hasar veya gecikme istek sahibinin hatası veya ihmalinden, taşımacının hatasından değil de,
 
@@ -118,11 +152,15 @@ istek sahibinin verdiği talimattan yüke has bir kusurdan yahutta taşımacın�
 
 ## İstanbul BAM 13. HD 2025/949 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1159801400)
+
 Liman İşletmesi) taşıyanın teslim borcunu yerine getirdiğine ve eşya üzerindeki hakimiyetinin sona erdiği bilirkişilerce açıklanmıştır. Eşyayı teslim edene kadar yapılan tahliye nezaret ve/veya survey ücretini taşıyanın yüke özen ve gözetim sorumluluğu kapsamında olmakla birlikte konşimento kayıtlarına göre taşıyanın teslim sorumlulğu boşaltma limanında gemi üzerinde sona ermiştir. Buna göre, alıcı davacının emtiaları teslim almasına kadar olan süreçte hem liman hem de gümrük müdürlüğü nezdinde yükle ilgili muhatapın davalı acente olduğu mahkemece değerlendirilmiştir.Bu kapsamda davalı acentenin bu aşamada her türlü olası inceleme ve muayene işlemlerinin yürütlmesi adına personel bulundurması gerektiği anlaşılmaktadır.
 Bu kapsamda her ne kadar bilirkişiler tarafından bu şekilde bir inceleme ya da survey hizmetinin verildiğinin davalı yanca ispatlanması gerektiğinden bahsedilmişse de, açıklandığı üzere yük ilgilisinin eşyayı teslim alması anına kadar yükle ilgili olası her türlü işlem için hazır bulunarak hizmet veren davalı acentenin TTK 20. maddesi gereği bu iş ve işlem için de bir ücret istemesinin mümkün olduğu değerlendirilerek, davacının bu bedelin iadesini isteyemeyeceği mahkemece kabul edilmiştir.Tahliye ücreti bakımından yapılan değerlendirmede; uygulamada gemilerin limanlarda çok hızlı bir şekilde tahliye ve yükleme operasyonların tamamlaması gerektiğinden bahisle ve gönderilenlerin kendi konteynerlerini kendi ayarlayacakları kreyn ve çalışanları ile gemiden fiilen tahliye ederek teslim alma imkanları da bulunmadığından, konşimento kayıtlarına bakılmaksızın bu hizmetin liman kreynleri tarafından verildiği ve bu hizmetlere ilişkin ücretlerin acentelerden tahsil edildiği bilirkişilerce açıklanmıştır.
 Bunun gerekçesinin ise liman terminallerinin tahliye sırasında konteyner içerisindeki yüklerin kimler tarafından alınacağının bilinmemesi ve takip edilecek kişilerin belirsiz olması şeklinde açıklanmıştır.
 
 ## Bursa BAM 14. HD 2025/1000 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1156873900)
 
 6098 sayılı Türk Borçlar Kanunu'nun 475/3 maddesinde iş sahibinin genel hükümlere göre uğramış olduğu zararın tazminini isteme hakkı saklı tutulmuştur. Ancak tazminat istenebilmesi için iş sahibinin ayıbı yükleniciye zamanında ihbar etmesi ve kusurlu olmaması gerekir. Tazminatın şartları, eserdeki ayıp, zarar, ayıpla zarar arasında uygun illiyet bağı ve yüklenicinin kusurudur. Zararın kapsamına, ayıbın neden olduğu ilk zarar yani ayıptan doğan zarar girdiği gibi, ayıbı takip eden zarar da girer. Ayıbı takip eden
 
@@ -130,9 +168,13 @@ zararlar arasında bilhassa ayıp nedeniyle iş sahibinin uğramış olduğu kaz
 
 ## Denizli BAM 4. HD 2025/641 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1136847200)
+
 Gecikme tazminatı kural olarak sözleşmede kararlaştırılan teslim tarihinden, eserin eksiksiz ve ayıpsız olarak sözleşmeye uygun biçimde teslim edildiği tarihe kadar ya da iş sahibinin teslimden önce bağımsız bölümü fiilen kullanmaya başladığı veya üçüncü kişiye kiraya verdiği ya da sattığı tarihe kadar istenebilir.
 
 ## İstanbul BAM 13. HD 2025/285 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1123064200)
 
 Nakliyat Şirketi tarafından imzalanan tutanakla vincin hasarlı şekilde teslim edildiği tespit edilmiştir. Ankara 2. Asliye Ticaret Mahkemesi'nin 2018/513 Esas sayılı dosyasında alınan bilirkişi raporları ve verilen karar ile ... Şirketine ait vincin davalı ... Nakliyat Şirketi tarafından taşınmak üzere teslim alındığında hasarsız olduğu, Özbekistan'dan Türkiye'ye karayolu ile taşındığı sırada hasara uğradığı tespit edilmiş ve bu yönde verilen karar kesinleşmiştir. Davacı, dış ilişkide davalılar ile birlikte müştereken ve müteselsilen sorumlu olduğu ... Şirketi tarafından başlatılan icra takip dosyalarına, hüküm altına alınan tüm tazminatı ödemiş olup TBK'nın 168. maddesi uyarınca alacaklının yani ... Şirketi'nin haklarına halef olarak iç ilişkide davalılara sorumlu oldukları miktar yönünden rücu etmiştir. Dava konusu taşıma uluslararası karayolunda gerçekleştiğinden uyuşmazlığa CMR hükümlerinin uygulanması gerekmektedir. Davalı ... Nakliyat Şirketi taşıma sözleşmesinin tarafı ve akdi taşıyıcı, davalı ... ise fiili taşıyıcıdır.
 CMR Konvasiyonu'nun 17. maddesi ile taşıyıcının, yükü teslim aldığı andan, teslim edinceye kadar, bunların kısmen veya tamamen kaybından ve doğacak hasardan sorumlu olduğu, eğer kayıp, hasar veya gecikme istek sahibinin hatası veya ihmalinden, taşıyıcının hatasından değil de, istek sahibinin verdiği talimattan, yüke has bir kusurdan yahut da taşıyıcının önlenmesine olanak bulunmayan durumlardan ileri gelmiş ise, taşıyıcının sorumluluğunun söz konusu olmayacağı, 18. maddesi ile sorumluluktan kurtulma hallerinden birinin gerçekleştiğini ispat külfetinin taşıyıcıda olduğu kabul edilmiştir. Davacı taşıma sözleşmesinin tarafı olmayıp taşıma konusu vinci kiralayan kişidir. Davacının hasarın meydana gelmesinde herhangi bir kusurunun bulunmadığı, davalı taşıyıcılar yönünden CMR Konvansiyonu'nda sayılan sorumluluktan kurtulma hallerinin gerçekleşmediği ve davalı taşıyıcıların meydana gelen zarardan sınırlı sorumluluk hükümleri gereği, dava konusu taşıma yönünden ... nolu nakliyat emtea taşıma sigorta poliçesini düzenleyen davalı ... Sigorta Şirketi'nin de poliçe kapsamında sorumlu oldukları kesinleşen Mahkeme kararı ile sabittir.

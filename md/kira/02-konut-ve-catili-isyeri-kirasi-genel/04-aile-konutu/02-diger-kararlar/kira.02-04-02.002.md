@@ -22,31 +22,45 @@ uyari: "Derleyenin seçtiği alıntılardır; kararın tamamı değildir. Künye
 
 ## Yargıtay 20. HD 2016/8785 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/281563300)
+
 4721 sayılı Türk Medeni Kanununun "Aile konutu" başlıklı 194/1. maddesinde; "Eşlerden biri, diğer eşin açık rızası bulunmadıkça, aile konutu ile ilgili kira sözleşmesini feshedemez, aile konutunu devredemez veya aile konutu üzerindeki hakları sınırlayamaz" hükmü yer almakta;…
 
 ## Yargıtay 2. HD 2016/9795 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/205957000)
 
 Hukuk Genel Kurulu “emsal davalarda” gerekçesi aşağıya “aynen” alınan 2013/2- 2056 esas, 2015/1201 karar ve 15.04.2015 günlü kararı ile “yeni bir uygulamaya" geçmiştir. Hukuk Genel Kurulunun benzer davalarda da sürdürülen yeni uygulaması Dairemiz tarafından da benimsenmiş olup Dairemiz emsal bütün davalarda Hukuk Genel Kurulunun aşağıdaki görüşlerine aynen katılmaktadır. Emsal Hukuk Genel Kurulu kararında yer alan yerel mahkemenin “direnme gerekçesinde" açıkça belirtildiği üzere Türk Medeni Kanununun 104. madde hükmü ile eşlerin fiil ehliyetine getirilen sınırlama aile konutuna şerhin konulması ya da konulmaması koşuluna bağlanmadığı gibi işlem taralı olan üçüncü kişinin iyi niyetli olup olmamasının da herhangi bir önemi bulunmamaktadır. 4721 sayılı Türk Medeni Kanunu'nun 194/1. maddesine göre, “Eşlerden biri, diğer eşin açık rızası bulunmadıkça, aile konutu ile ilgili kira sözleşmesini feshedemez, aile konutunu devredemez veya aile konutu üzerindeki hakları sınırlayamaz. Bu madde hükmü ile aile konutu şerhi “konulmuş olmasa da" eşlerin birlikte yaşadıkları aile konutu üzerindeki fiil ehliyetleri sınırlandırılmıştır.
 Sınırlandırma aile konutu şerhi konulduğu için değil, zaten var olduğu için getirilmiştir. Bu sebeple tapuya aile konutu şerhi verilmese bile o konut aile konutu özelliğini taşır, kira dava konusu taşınmaz şerh konulmasa dahi aile konutudur. Eş söyleyişle şerh konulduğu için aile konutu olmamakta aksine aile konutu olduğu için şerh konulabilmektedir. Bu nedenle aile konutu şerhi konulduğunda, konulan şerh “kurucu" değil “açıklayıcı" şerh özelliğini taşımaktadır. Anılan madde hükmü ile getirilen sınırlandırma, “emredici" niteliktedir. Dolayısıyla bu haktan önceden feragat edilemeyeceği gibi eşlerin anlaşmasıyla da ortadan kaldırılamaz ve açık rıza ancak “belirli olan" bir işlem için verilebilir.
 
 ## Yargıtay 2. HD 2016/8173 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/214370700)
+
 Toplanan delillerden ......... sayılı taşınmaz üzerindeki 34 numaralı bağımsız bölümün 2.5.2007 tarihinde davalı erkek eş (Burak) tarafından satın alındığı, bu taşınmazın davacı kadının babasının ortağı olan ... tarafından 01.02.2010 tarihinde kiraya verildiği, bu tarihten sonra 15.06.2010 tarihinde kat mülkiyetine çevrilen taşınmazın kiracı tarafından kullanıldığı döneme rastlayan 04.11.2010 tarihinde erkek eş (Burak) tarafından ....... lehine taşınmazda ipotek tesis edildiği, davacı kadın adına taşınmazda su ve elektrik aboneliklerinin ise 25.10.2011 tarihinde oluşturularak davacı ile eşinin kullanımı için hazırlandığı, ancak yine davacının dava dilekçesindeki kendi beyanına göre davanın açılmış olduğu tarih olan 01.11.2011 tarihinde bile kadının annesinin evinde oturmaya devam ettikleri ve dava konusu olup eşlerin aile konutu olduğu iddia edilen taşınmazda oturmadıkları anlaşılmaktadır. Türk Medeni Kanununun 194. maddesindeki korumadan eşlerin yararlanabilmesi için dava konusu taşınmazın ipotek işlem tarihinde aile konutu olarak özgülenmiş ve kullanılıyor olması gereklidir.
 Olayımızda dava konusu taşınmaz ipotek tarihinde kiracı tarafından kullanıldığı ve eşlerin de kadının annesinin evini aile konutu olarak kullanmakta olduğu anlaşıldığına göre aile konutu olmayan dava konusu taşınmaz üzerine malik eşin ipotek tesis ettirmesi işleminde malik olmayan diğer eşin rızasının alınmasına gerek bulunmamaktadır. Hal böyle olunca, mahkemece dava konusu taşınmaza aile konutu olarak özgülenmesinden önce konulmuş olan ipoteğin kaldırılması isteğinin reddine karar verilmesi gerekirken, yazılı şekilde hüküm kurulmuş olması doğru olmamıştır.
 
 ## Yargıtay 12. HD 2014/16965 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/85640500)
+
 4721 Sayılı Türk Medeni Kanunu'nun "Aile konutu" başlıklı 194/1 maddesinde; "Eşlerden biri, diğer eşin açık rızası bulunmadıkça, aile konutu ile ilgili kira sözleşmesini feshedemez, aile konutunu devredemez veya aile konutu üzerindeki hakları sınırlayamaz" hükmü yer almakta;…
 
 ## Yargıtay 12. HD 2013/18318 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/52925500)
 
 Burada alacaklı ile borçlu arasındaki ilişki üzerinde değil; şikayetçinin onlar karşısındaki konumu üzerinde durmak gereği ortaya çıkmaktadır. Kural olarak; eşlerden birisi diğerine karşı ve ona tebaen taşınmazda oturduğundan "boşanma gerçekleşse bile" İİK.nun 276/son maddesi hükmü gereğince 3. kişi konumunda değildir. Ancak, kural bu olmasına karşın tahliyeye konu konutun "aile konutu" olarak kullanıldığı, şikayetçi eşin halen bu yerde oturmaya devam ettiği ileri sürüldüğüne göre şikayetçinin bu iddiası üzerinde durmak gerekir. Zira, 4721 Sayılı Türk Medeni Kanunu'nun "Aile konutu" başlıklı 194/1. maddesinde; Eşlerden biri, diğer eşin açık rızası bulunmadıkça, aile konutu ile ilgili kira sözleşmesini feshedemez, aile konutunu devredemez veya aile konutu üzerindeki hakları sınırlayamaz" hükmü yer almakta; aynı Kanunun 194/3. maddesinde ise; "Aile konutu olarak özgülenen taşınmaz malın maliki olmayan eş, tapu kütüğüne konutla ilgili gerekli şerhin verilmesini isteyebilir." düzenlemesi bulunmaktadır.
 
 ## Yargıtay 12. HD 2012/19408 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/58817700)
+
 "Eşlerden biri, diğer eşin açık rızası bulunmadıkça, aile konutu ile ilgili kira sözleşmesini feshedemez, aile konutla devredemez veya aile konutu üzerindeki hakları sınırlayamaz" hükmü yer almakta; aynı Kanunun 194/3. maddesinde ise; "Aile konutu olarak özgülenen taşınmaz malın maliki olmayan eş, tapu kütüğüne konutla ilgili gerekli şerhin verilmesini isteyebilir." düzenlemesi bulunmaktadır.
 
 ## Yargıtay 2. HD 2009/4496 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/80057400)
 
 4721 sayılı Türk Medeni Kanunu 1.1.2002 tarihinde yürürlüğe girmiş, yeni kanunun 194, 240, 254, 279, 652. maddelerinde “aile konutu” adı altında yeni bir hukuki kavram getirilmiştir. Türk Medeni Kanununun 194/1. maddesi “eşlerden biri diğer eşin açık rızası bulunmadıkça, aile konutu ile ilgili kira sözleşmesini feshedemez, aile konutunu devredemez veya aile konutu üzerindeki haklarını sınırlandıramaz” hükmünü içermektedir.Bu düzenleme ile tapu sicilinde konutun maliki olarak gözüken eşin, hukuki işlem özgürlüğü diğer eşin açık onayına bağlanmıştır. Amaç aile konutunu ve bu konutla ilgili kanuni hakları koruma altına almaktır.Bu koruma evlilik birliği devam ettiğine göre 4721 sayılı kanunun yürürlüğe girdiği 1.1.2002’den önce edinilmiş aile konutları için de geçerlidir. Toplanan delillerden dava konusu taşınmazın eşler tarafından kendilerine aile konutu olarak özgülendiği tartışmasızdır.Davalı K.. A.. evi görmeden satın almış, halen evde davacı ile davalı eş oturmakta olup, evin 59.000 TL’ye alındığı üzerinde 240.000 TL. lik ipotek bulunduğu bu durumun hayatın olağan akışına aykırı olduğu ve davalı K..
 A..’ın taşınmazı satın alırken yapılan işlemin aile konutu ile ilgili olduğunu ve işlemin tarafının
@@ -55,18 +69,26 @@ evli olduğunu bildiği ve kötü niyetli olduğu anlaşılmaktadır. Bu açıkl
 
 ## Yargıtay 12. HD 2009/1557 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/67076200)
+
 4721 sayılı Türk Medeni Kanununun "Aile Konutu" başlıklı 194/1. maddedeki eşlerden biri, diğer eşin açık rızası bulunmadıkça aile konutu ile ilgili kira sözleşmesini feshedemez, aile konutunu devredemez veya aile konutu üzerindeki hakları sınırlayamaz hükmü karşısında tahliyeye konu taşınmazın aile konutu olup olmadığının belirlenmesi gerekecektir.
 
 ## Yargıtay 12. HD 2008/21472 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/69424200)
 
 İİK'nun 276. maddesinde " Tahliyesi istenen yerde kiracıdan başka bir şahıs bulunur ve işgalde haklı olduğuna dair resmi bir vesika gösteremez ise derhal tahliye olunur…”. Kural bu olmasına karşın tahliyeye konu konutun " aile konutu" olarak kullanıldığı, şikayetçi eşin halen bu yerde çocukları ile birlikte oturmaya devam ettiği ileri sürüldüğüne göre, 4721 sayılı Türk Medeni Kanununun "Aile Konutu" başlıklı 194/1. maddedeki eşlerden biri, diğer eşin açık rızası bulunmadıkça aile konutu ile ilgili kira sözleşmesini feshedemez, aile konutunu devredemez veya aile konutu üzerindeki hakları sınırlayamaz hükmü karşısında tahliyeye konu taşınmazın aile konutu olup olmadığının belirlenmesi gerekecektir. Öyleyse mahkemece şikayetçinin öncelikle bu yerin "aile konutu olduğunun tespitine yönelik olarak açılmış bir davasının ve aile mahkemesince yapılmış bir belirlemenin bulunup bulunmadığı araştırılmalı, sonucuna göre gerektiğinde şikayetçiye tahliyesi istenen taşınmazın aile konutu olduğunu ispata yönelik olarak, (HGK.26.10.2005 Tarih E. 2005/12-676 K. 2005/600) dava açma yetkisi ve olanağı verilerek sonuca gidilmesi gerekir.
 Bu husus yöntemince araştırılmadan eksik inceleme ile tahliye isteminin iptali yolunda hüküm tesisi isabetsizdir.
 
 ## Yargıtay 2. HD 2008/947 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/80144300)
+
 4721 Sayılı Türk Medeni Kanunu 01.01.2002 tarihinde yürürlüğe girmiş, yeni kanunun 194, 240, 254, 279 ve 652. maddelerinde “Aile Konutu” adı altında yeni bir hukuki kavram getirilmiştir. Türk Medeni Kanunun 194/1. maddesi “eşlerden biri diğer eşin açıkça rızası bulunmadıkça, aile konutu ile ilgili kira sözleşmesini feshedemez. aile konutunu devredemez veya aile konutu üzerindeki hakları sınırlayamaz” hükmünü içermektedir.Bu düzenleme ile tapu sicilinde konutun maliki olarak görülen eşin, hukuki işlem özgürlüğü,diğer eşin katılmasına ve onamına bağlanmıştır.Amaç, aile konutunun ve bu konutla ilgili kanuni hakların koruma altına alınmasıdır.Bu koruma, evlilik birliği devam ettiği sürece ve 4721 Sayılı Kanunun yürürlüğe giriş tarihi olan 01.01.2002 den önceki edinilmiş aile konutları içinde geçerlidir.
 
 ## Yargıtay 2. HD 2007/16938 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/462910900)
 
 4721 sayılı Türk Medenî Kanunu m. 194 hükmü ile eşlerin “fiil ehliyetinin sınırlandırılması” gerçeği ve gerekçesi “...Madde eşlerin aile konutlarıyla ilgili hukukî
 
@@ -74,10 +96,14 @@ işlemlerde eşlerin serbestliği ilkesine istisna getirmiş ve böylece aile ko
 
 ## Yargıtay 12. HD 2006/13978 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/69466800)
+
 İİK'nun 276. maddesinde " Tahliyesi istenen yerde kiracıdan başka bir şahıs bulunur ve işgalde haklı olduğuna dair resmi bir vesika gösteremez ise derhal tahliye olunur..... "Borçlunun nesep ve sebepten usul ve füruu, karı ve kocası ikinci dereceye kadar kan ve sıhri hısımları ve iş ortakları ile borçluya tebaan mecurda oturdukları anlaşılan diğer şahıslar bu madde hükmünün tatbikinde üçüncü şahıs sayılmazlar." hükmünü içermektedir. Görüldüğü üzere kural olarak, eşlerden birisi diğerine karşı ve ona tebaen taşınmazda oturduğundan boşanma gerçekleşse bile İİK'nun 276/son madde hükmü gereğince 3. kişi konumunda değildir. Ancak; kural bu olmasına karşın tahliyeye konu konutun " aile konutu" olarak kullanıldığı, şikayetçi eşin halen bu yerde çocukları ile birlikte oturmaya devam ettiği ileri sürüldüğüne göre, 4721 sayılı Türk Medeni Kanununun " Aile Konutu" başlıklı 194/1. maddedeki eşlerden biri, diğer eşin açık rızası bulunmadıkça aile konutu ile ilgili kira sözleşmesini feshedemez, aile konutunu devredemez veya aile konutu üzerindeki hakları sınırlayamaz" hükmü karşısında tahliyeye konu taşınmazın aile konutu olup olmadığının belirlenmesi gerekecektir.
 Mahkemece HGK'nun 26.10.2005 tarih ve 2005/12-676 E. 2005/600 K. sayılı kararı da dikkate alınarak üçüncü kişinin aile mahkemesinde açmış bulunduğu bu yerin aile konutu olduğuna yönelik davanın akibetinin beklenilmesine ve o davanın sonucuna göre bir karar verilmesi gerekirken eksik inceleme ile yazılı şekilde hüküm kurulması isabetsizdir.
 
 ## Yargıtay 12. HD 2006/11221 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/74665700)
 
 İİK'nun 276. maddesinde " Tahliyesi istenen yerde kiracıdan başka bir şahıs bulunur ve işgalde haklı olduğuna dair resmi bir vesika gösteremez ise derhal tahliye olunur....." Borçlunun nesep ve sebepten usul ve füruu, karı ve kocası ikinci dereceye kadar kan ve sıhri hısımları ve iş ortakları ile borçluya tebaan mecurda oturdukları anlaşılan diğer şahıslar bu madde hükmünün tatbikinde üçüncü şahıs sayılmazlar." hükmünü içermektedir. Görüldüğü üzere kural olarak, eşlerden birisi diğerine karşı ve ona tebaen taşınmazda oturduğundan boşanma gerçekleşse bile İİK'nun 276/son madde hükmü gereğince 3. kişi konumunda değildir. Ancak; kural bu olmasına karşın tahliyeye konu konutun " aile konutu" olarak kullanıldığı, şikayetçi eşin halen bu yerde çocukları ile birlikte oturmaya devam ettiği ileri sürüldüğüne göre, 4721 sayılı Türk Medeni Kanununun " Aile Konutu" başlıklı 194/1. maddedeki eşlerden biri, diğer eşin açık rızası bulunmadıkça aile konutu ile ilgili kira sözleşmesini feshedemez, aile konutunu devredemez veya aile konutu üzerindeki hakları sınırlayamaz" hükmü karşısında tahliyeye konu taşınmazın aile konutu olup olmadığının
 
@@ -103,6 +129,8 @@ verilmesi hatalı olmuştur. Her ne kadar davalının eşi tarafından davacı k
 
 ## İstanbul BAM 13. HD 2025/972 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1153927900)
+
 Davacı tarafça ileri sürülen ve ... tarafından savcılık soruşturma dosyasına, müteveffa davacının dolandırıldığı itirafını içerir dilekçe sunulduğuna ilişkin sebep dışında kalan tüm istinaf sebepleri yargılama aşamasında sunulan dava, itiraz ve beyan dilekçeleri ile de ileri sürülmüş, İlk derece mahkemesince gerekçeli kararda her bir iddia hakkında ne şekilde değerlendirme yapıldığı açıklanmıştır.Dosyadaki belgelere, duruşma sürecini yansıtan tutanaklar ve gerekçe içeriğine göre; davalı banka ile dava dışı ... arasında 06/01/2017 tarihli ve 750.000 TL limitli genel kredi sözleşmesi imzalandığı ve müteveffa davacı ...'nun maliki olduğu Adana ili, Seyhan ilçesi, ...mahallesi, ... ada, ... parsel sayılı, ... nolu bağımsız bölüm vasıflı taşınmazı üzerinde, 13/01/2017 tarihli ipotek senedi ile, adı geçen ...'ın davalı banka ile imzaladığı ve imzalayacağı kredi sözleşmeleri uyarınca adı geçene kullandırılmış ve kullandırılacak tüm krediler ve adı geçenin davalı banka nezdinde doğmuş ve doğacak tüm borçlarının teminatı olmak üzere 960.000 TL tutarında ipotek tesis edildiği, ipotek tescil belgesinin müteveffa davacı tarafından imzalandığı, her ne kadar müteveffa davacı tarafından banka
 çalışanları ile dava dışı ... ve ... tarafından kandırıldığı ve esasen evini ... isimli kişiye sattığını düşünerek tapudaki evrakları imzaladığı, ipotek sözleşmesinin hile nedeniyle geçersiz olduğu iddia edilmiş ise de, bu hususta yaptığı şikayet üzerine Adana Cumhuriyet Başsavcılığı'nın 2021/67412 sayılı dosyası ile banka çalışanları, ... ve ... hakkında banka ve kredi kurumlarının araç olarak kullanılması suretiyle dolandırıcılık suçundan açılan soruşturmada takipsizlik kararı verildiği ve kararın kesinleştiği, yine banka çalışanları hakkında davalı banka tarafından somut bir veri olmadığından bahisle idari bir işlem/soruşturma yapılmadığı, dosya kapsamında davacı tarafın hile iddiasını ispata yarar somut bir delil bulunmadığı, ilk kez istinaf aşamasında ileri sürülen ve lehine ipotek tesis edilen ...'ın savcılığa sunduğu iddia edilen dilekçe örneğinin dosyaya sunulmadığı, İlk derece mahkemesince devam eden yargılamada bu iddianın ileri sürülmediği,Dairemizce Uyap üzerinden izin talep edilerek incelenen soruşturma dosyasında söz konusu beyana rastlanmadığı, her ne kadar davacı tarafça, ipotek sözleşmesinin geçerliliği için taşınmaz maliki ve ipotek veren müteveffa davacı ...'nun
 eşi tarafından sözleşmeye muvafakat edilmesi gerektiği iddia edilmiş ise de, taşınmaz ipoteğine ilişkin hükümlerin 4721 sayılı TMK'nın 850 ve devamı maddelerinde ayrı şekilde düzenlendiği ve 6098 sayılı TBK'nın 603. maddesine göre kişisel güvence niteliği taşımayan, ayni güvence niteliğinde olan ipotek tesisinde eş rızasının aranmasına gerek olmadığı, öte yandan her ne kadar dava dilekçesinde ipotekli taşınmazın aile konutu olduğu ve bu nedenle eş muvafakatinin aranması gerektiği açık bir şekilde ileri sürülmemiş ise de, TMK'nın 194. maddesinden bahsedilmesi sebebiyle Mahkemece taşınmazın aile konutu olup olmadığının araştırıldığı, taşınmazın tapu kaydında aile konutu şerhi olmadığı, ipotek tesis tarihinde dava dışı ... tarafından kiralık konut olarak kullanıldığının gerek dosyada mübrez kira ve abonelik sözleşmeleri, gerekse takip dosyasında düzenlenen kıymet takdir raporu ve ipotek tesisinden önce alınan ekspertiz raporu ile sabit olduğu, açıklanan gerekçelerle müteveffa davacı
@@ -125,9 +153,13 @@ Bunun yanında, TMK.nun 194/4. maddesindeki düzenleme ile TMK.nun 194/1. maddes
 
 ## Sakarya BAM 7. HD 2023/2062 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/973892800)
+
 Türk Medeni Kanunun 193. hükmü ile eşlerin birbirleri ve üçüncü kişilerle olan hukuki işlemlerinde özgürlük alanı tanınmış olmakla birlikte Türk Medeni Kanununun 194. madde hükmü ile eşlerin aile konutu ile ilgili bazı hukuksal işlemlerinin diğer eşin rızasına bağlı olduğu kuralı getirilerek eşlerin hukuki işlem özgürlüğü, "aile birliğinin korunması" amacıyla sınırlandırılmıştır. Buna göre, eşlerden biri diğer eşin açık rızası bulunmadıkça" aile konutu ile ilgili kira sözleşmesini feshedemez, aile konutunu devredemez ve aile konutu üzerindeki hakları sınırlayamaz. Bu cümleden hareketle, aile konutunun maliki olan eş, aile konutundaki yaşantıyı güçlüğe sokacak biçimde, aile konutunun ipotek edilmesi gibi tek başına" bir hakla sınırlandıramaz. Bu sınırlandırma "ancak diğer eşin açık rızası alınarak" yapılabilir.
 
 ## İzmir BAM 6. HD 2023/2165 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/970535200)
 
 TMK' nun 194. maddesinde ''Eşlerden biri, diğer eşin açık rızası bulunmadıkça, aile konutu ile ilgili kira sözleşmesini feshedemez, aile konutunu devredemez veya aile konutu üzerindeki hakları sınırlayamaz. Rızayı sağlayamayan veya haklı bir sebep olmadan kendisine rıza verilmeyen eş, hâkimin müdahalesini isteyebilir. Aile konutu olarak özgülenen taşınmaz malın maliki olmayan eş, tapu kütüğüne konutla ilgili gerekli şerhin verilmesini tapu müdürlüğünden isteyebilir. Aile konutu eşlerden biri tarafından kira ile sağlanmışsa, sözleşmenin tarafı olmayan eş, kiralayana yapacağı bildirimle sözleşmenin
 

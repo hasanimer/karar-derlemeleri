@@ -20,6 +20,8 @@ uyari: "Derleyenin seçtiği alıntılardır; kararın tamamı değildir. Künye
 
 ## Yargıtay 3. HD 2022/9265 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/895766300)
+
 Kural olarak kiracının kira bedelini ödeme yükümlülüğü kiralananın, kiraya verene usulüne uygun teslimine kadar devam eder. Kiralananın tahliye edildiğinin (kiracının kiralananı iade borcunu yerine getirdiğinin) kabul edilebilmesi için, **kiralananın fiilen boşaltılması yeterli değildir; anahtarın da kiralayana teslim edilmesi gerekir**. Kiralayanın anahtarı teslim almaktan kaçınması durumunda kiracının mahkemeye müracaatla tevdi mahalli tayini, icra dosyasına ya da notere anahtarın teslimi suretiyle anahtar teslim yükümlülüğünü yerine getirmiş olması gerekir.
 
 … Noterliği'nin 14126 yevmiye numaralı 11/06/2012 tarihli ihtarnamesinin incelenmesinde; Keşideci ... Maden İnş. Tur. San. ve Tic. Ltd. Şti. vekili Av...., muhatap ise ... olup, taraflar arasında imzalanan 01/01/2012 tarihli sözleşmenin 01/06/2012 tarihi itibariyle sonlandırıldığı, işbu ihtarnamenin tebliğini müteakip 3 gün içerisinde ilgili taşınmazın ve taşınmaza ait anahtarın bizzat veya vekilleri aracılığıyla teslim alınması gerektiğinin ihtaren bildirildiği görülmüş ancak davalı avukat, kiralanan taşınmazın anahtarının davacılarca kendisine verilmesinden kaçınıldığından ihtar kapsamında anahtarı teslim yükümlülüğünü yerine getiremediğini savunmuştur.
@@ -29,6 +31,8 @@ Kural olarak kiraya verenin anahtarı teslim almaktan kaçınması durumunda kir
 Hal böyle olunca avukatın anahtarı teslim etmemesinde kusuru bulunmadığı ve vekillik görevinin ifasında özen ve sadakat yükümlülüğüne aykırı davrandığından söz edilemeyeceği, bu nedenle davacıların zarara uğramasından vekil olarak sorumlu tutulamayacağının kabulü ile davanın reddine karar verilmesi gerekirken, hatalı ve yanılgılı değerlendirme ile davanın kabulüne karar verilmesi usul ve yasaya aykırı olup, bozmayı gerektirir.
 
 ## Yargıtay 3. HD 2020/7199 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/627898900)
 
 Kural olarak anahtar teslim edilmediği sürece kiralananın kiracının kullanımında olduğunun kabulü gerekir. Kiralananın anahtarının usulüne uygun olarak kiraya verene teslim edilerek tahliye edildiği kiracı tarafından yazılı delillerle ispatlanmalıdır. Yasal anahtar teslimi bizzat anahtarı kiraya verene teslim etmek suretiyle veya notere ya da mahkemeye tevdi mahalli tayini suretiyle yapılır.
 
@@ -47,9 +51,13 @@ Davacı kiracı, kiralanan taşınmazı belirtttiği tarihte tahliye ederek anah
 
 ## Yargıtay 3. HD 2025/1138 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1133323300)
+
 Kiralananın tahliye edildiğinin (kiracının kiralananı iade borcunu yerine getirdiğinin) kabul edilebilmesi için, kiralananın fiilen boşaltılması yeterli değildir. **Kiralananın anahtarının usulünce kiraya verene teslim edilmesi gerekir. Anahtar teslim edilmedikçe kiralananın, kiracının kullanımında olduğunun kabulü gerekir**.
 
 ## Yargıtay 3. HD 2025/1152 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1145511300)
 
 … **vergi dairesine yapılan tek taraflı bildirimin tahliye olgusunu ispata yeterli olmadığı**, kaldı ki kiralananın etrafının çevrili olduğu ve anahtarla girilebilen iş yeri niteliğinde bulunduğunun tespit edilmesi karşısında kiralananın tahliye edildiği hususunun davalı tarafça ispatlanması gerektiği…
 

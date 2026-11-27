@@ -22,20 +22,28 @@ uyari: "Derleyenin seçtiği alıntılardır; kararın tamamı değildir. Künye
 
 ## Yargıtay 3. HD 2024/183 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/999680500)
+
 Temyiz olunan Bölge Adliye Mahkemesi kararında; hukuki ilişkinin ve bu ilişki nedeniyle ortaya çıkan uyuşmazlığa uygulanması gereken hukuk kurallarının doğru şekilde belirlendiği, taraflar arasında düzenlenen 23.12.2005 başlangıç tarihli ve 10 yıl süreli kira
 
 sözleşmesine istinaden 23.12.2015 tarihinden itibaren geçerli olmak üzere kira bedelinin tespitinin talep edildiği, tarafların tacir olduğu, 6217 sayılı Kanun'un geçici 2 nci maddesi gereğince 6098 sayılı Türk Borçlar Kanunu’nun 344 üncü maddesinin uygulanmasının tacirler için ertelenmiş olması nedeniyle yeni dönem kira bedelinin 18.11.1964 tarihli ve 2/4 sayılı Yargıtay İçtihadı Birleştirme Kararına göre hak ve nesafet kurallarına göre belirlenmiş olmasında bir isabetsizlik bulunmadığı, sözleşmede sabit kira bedeli yanında ayrıca ciro üzerinden de ödenecek kira bedelinin kararlaştırıldığı, davacı kiracının talebinin asgari kira bedelinin tespitine ilişkin olduğu, uyarlama talebinin bulunmadığı, ciro üzerinden de ayrı bir kira bedelinin ödenecek olmasının şartları oluştuğu takdirde kira bedelinin tespitinin istenilmesine engel oluşturmadığı, hükme esas alınan bilirkişi raporunda yeterli inceleme ve değerlendirmenin yapıldığının anlaşılmasına göre, taraf vekillerinin temyiz itirazlarının reddi ile usul ve kanuna uygun bulunan kararın onanmasına karar verilmiştir.
 
 ## Yargıtay 3. HD 2023/3557 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1005333900)
+
 Temyiz olunan kararda belirtilen gerekçelere ve özellikle davaya konu edilen taşınmazın sözleşme süresi bitmeden erken tahliye edilmesine, 6353 sayılı Kanun ile değişik 6217 sayılı Kanun’un geçici 2 nci maddesi uyarınca; kiracının Türk Ticaret Kanunu'nda tacir olarak sayılan kişiler ile özel hukuk ve kamu hukuku tüzel kişileri olduğu ... yeri kiralarında, 6098 sayılı Kanunu'nun 325 inci maddesinin yürürlüğü 01.07.2012 tarihinden itibaren 8 yıl süreyle ertelenmiş ise de ertelenen konulara ilişkin olarak; sözleşme serbestisi gereği kira sözleşmesi hükümleri, kira sözleşmesinde hüküm olmayan hallerde mülga 818 sayılı Borçlar Kanun'u (818 sayılı Kanun) hükümlerinin ve Yargıtay içtihatlarının uygulanacak olmasına, yerleşik Yargıtay içtihatları uyarınca kiracının tacir olması halinde de kiraya verenin erken fesih sebebiyle makul süre kira bedelini tazminat olarak talep edebileceğinin, tespit dosyasında kiralananın durumunun tespit edildiğinin ve Mahkemece alınan bilirkişi raporuyla yapılan hasar tazminatı hesabının kiralananın durumuna uygun olduğunun anlaşılmasına göre, davalı vekilinin temyiz itirazlarının reddi ile usul ve kanuna uygun bulunan kararın onanmasına karar vermek
 gerekmiştir.
 
 ## Yargıtay 3. HD 2023/2545 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/960713800)
+
 1\. 6353 sayılı Kanun ile değişik 6217 sayılı Kanun’un geçici 2. maddesi uyarınca; kiracının Türk Ticaret Kanunu'nda tacir olarak sayılan kişiler ile özel hukuk ve kamu hukuku tüzel kişileri olduğu ... yeri kiralarında, 6098 Sayılı Türk Borçlar Kanunu'nun (6098 sayılı Kanun) 323, 325, 331, 340, 343, 344, 346 ve 354'ncü maddelerinin yürürlüğü 01.07.2012 tarihinden itibaren 8 yıl süreyle ertelenmiştir. Yürürlüğü ertelenen bu maddelerde belirtilmiş olan konulara ilişkin olarak; sözleşme serbestisi gereği kira sözleşmesi hükümleri, kira sözleşmesinde hüküm olmayan hallerde mülga 818 sayılı Borçlar Kanunu (818 sayılı Kanun) hükümleri uygulanacaktır.
 
 ## Yargıtay 3. HD 2023/2250 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/982000100)
 
 2\. 6217 sayılı Yargı Hizmetlerinin Hızlandırılması Amacıyla Bazı Kanunlarda Değişiklik Yapılmasına Dair Kanun'un Geçici 2 nci maddesinin ilk cümlesinde; “Kiracının Türk Ticaret Kanunu'nda tacir olarak sayılan kişiler ile ... hukuk ve kamu hukuku tüzel kişileri
 
@@ -43,17 +51,25 @@ olduğu işyeri kiralarında, 11.01.2011 tarihli ve 6098 sayılı Türk Borçlar
 
 ## Yargıtay 12. HD 2023/4034 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/941514300)
+
 Fakat 7226 sayılı Bazı Kanunlarda Değişiklik Yapılmasına Dair Kanun'un Geçici 2. Maddesiyle " 1/3/2020 tarihinden 30/6/2020 tarihine kadar işleyecek iş yeri kira bedelinin ödenememesi kira sözleşmesinin feshi ve tahliye sebebi oluşturmaz." şeklinde yasal düzenleme yapıldığı, işbu yasal düzenlemeye aykırı olarak borçlu şirket aleyhine 01.03.2020 ve 30.06.2020 dönemi kiralarını da kapsayacak şekilde "Adi Kiraya ve Hasılat Kiralarına Ait Takip" yolu ile icra takibi başlatıldığı ve iptali gerektiği,…
 
 ## Yargıtay 3. HD 2023/1431 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/964664100)
 
 6217 sayılı Yargı Hizmetlerinin Hızlandırılması Amacıyla Bazı Kanunlarda Değişiklik Yapılmasına Dair Kanun'nun (6217 sayılı Kanun) Geçici 2 nci maddesinin birinci fıkrası; "Kiracının Türk Ticaret Kanununda tacir olarak sayılan kişiler ile özel hukuk ve kamu hukuku tüzel kişileri olduğu işyeri kiralarında, 11.1.2011 tarihli ve 6098 sayılı Türk Borçlar Kanununun 323, 325, 331, 340, 342, 343, 344, 346 ve 354 üncü maddeleri 1.7.2012 tarihinden itibaren 8 yıl süreyle uygulanmaz. Bu halde, kira sözleşmelerinde bu maddelerde belirtilmiş olan konulara ilişkin olarak sözleşme serbestisi gereği kira sözleşmesi hükümleri tatbik olunur. Kira sözleşmelerinde hüküm olmayan hallerde mülga Borçlar Kanunu hükümleri uygulanır." hükmünü içerir.
 
 ## Yargıtay 3. HD 2023/1419 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/964621200)
+
 1\. 6353 sayılı Kanun ile değişik 6217 sayılı Kanun’un geçici 2 inci maddesi uyarınca; kiracının Türk Ticaret Kanunu'nda tacir olarak sayılan kişiler ile özel hukuk ve kamu hukuku tüzel kişileri olduğu iş yeri kiralarında, 6098 sayılı Türk Borçlar Kanunu'nun (6098 sayılı Kanun) 323, 325, 331, 340, 343, 344, 346 ve 354 üncü maddelerinin yürürlüğü 01.07.2012 tarihinden itibaren 8 yıl süreyle ertelenmiştir. Yürürlüğü ertelenen bu maddelerde belirtilmiş olan konulara ilişkin olarak; sözleşme serbestisi gereği kira sözleşmesi hükümleri, kira sözleşmesinde hüküm olmayan hallerde mülga 818 sayılı Borçlar Kanun'u hükümleri uygulanacaktır.
 
 ## Yargıtay 12. HD 2022/6662 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/786978800)
 
 18.01.2019 tarihli Resmi Gazete’de yayımlanan 7161 sayılı Kanun’un 59. maddesi ile 6217 sayılı Kanun’un geçici 2. maddesine; “ bu fıkrayı ihdas eden Kanunla değiştirilen 6098 sayılı Kanunun 344’üncü maddesindeki tüketici fiyat endeksindeki on iki aylık ortalamalara göre değişim oranının esas alınacağına ilişkin hüküm, birinci fıkra kapsamında olan kira sözleşmeleri ile akdedilmiş diğer kira sözleşmelerinin yenilenmesinde uygulanır.” hükmü eklenerek, tüm çatılı gayrimenkul kiralarında 01.01.2019 tarihinden itibaren yapılacak kira artışlarının tüketici fiyat endeksindeki oniki aylık ortalamalara göre değişim oranı esas
 
@@ -61,13 +77,19 @@ alınarak belirleneceği hüküm altına alınmıştır. Buna göre, kanuni art�
 
 ## Yargıtay 3. HD 2022/834 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/747494200)
+
 6353 sayılı Kanun ile değişik 6217 sayılı Kanun’un geçici 2. maddesi uyarınca; kiracının Türk Ticaret Kanunu'nda tacir olarak sayılan kişiler ile özel hukuk ve kamu hukuku tüzel kişileri olduğu iş yeri kiralarında, 6098 Sayılı Türk Borçlar Kanunu'nun 323, 325, 331, 340, 343, 344, 346 ve 354'ncü maddelerinin yürürlüğü 01/07/2012 tarihinden itibaren 8 yıl süreyle ertelenmiştir. Yürürlüğü ertelenen bu maddelerde belirtilmiş olan konulara ilişkin olarak; sözleşme serbestisi gereği kira sözleşmesi hükümleri, kira sözleşmesinde hüküm olmayan hallerde mülga 818 sayılı Borçlar Kanunu hükümleri uygulanacaktır.
 
 ## Yargıtay 3. HD 2021/5408 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/690875100)
+
 Türk Borçlar Kanunu'nun Yürürlüğü ve Uygulama Şekli Hakkındaki Kanunun 2. maddesinde geçmişe etkili olma başlığı altında ise “Türk Borçlar Kanununun düzenine ve genel ahlaka ilişkin kuralları gerçekleştirdikleri tarihe bakılmaksızın, bütün fiil ve işlemlere uygulanır.” hükmü yer almaktadır. Bununla birlikte 6217 sayılı yasanın geçici 2. maddesinde değişiklik yapan 6353 Sayılı Yasanın 53. maddesine göre; kiracının Türk Ticaret Kanun'un da tacir olarak sayılan kişiler ile özel hukuk ve kamu hukuku tüzel kişileri olduğu işyeri kiralarında 6098 sayılı Türk Borçlar Kanununun 344. maddesinin 01/07/2012 tarihinden itibaren 8 yıl süreyle uygulanamayacağı, bu halde kira sözleşmelerinde bu maddede belirtilmiş olan konuya ilişkin olarak sözleşme serbestisi gereği kira sözleşmesi hükümlerinin tatbik olunacağı, sözleşmede hüküm bulunmayan hallerde ise Mülga BK hükümlerinin uygulanacağı öngörülmektedir.
 
 ## Yargıtay 3. HD 2021/3420 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/690406600)
 
 6098 Sayılı Türk Borçlar Kanunu'nun kiracı aleyhine düzenleme yasağı başlıklı 346. maddesinde; kiracıya kira bedeli ve yan giderler dışında başka bir ödeme yükümlülüğü getirilemeyeceği, 6101 Sayılı Türk Borçlar Kanununun Yürürlüğü ve Uygulama Şekli Hakkında Kanunun Geçmişe etkili olma başlıklı 2. maddesinde; Türk Borçlar Kanununun kamu düzenine ve genel ahlaka ilişkin kurallarının gerçekleştikleri tarihe bakılmaksızın bütün fiil ve işlemlere uygulanacağı, aynı kanunun görülmekte olan davalara ilişkin uygulama başlıklı 7.maddesinde de; Türk Borçlar Kanununun kamu düzenine ve genel ahlaka ilişkin kuralları ile geçici ödemelere ilişkin 76'ncı, faize ilişkin 88'nci, temerrüt faizine ilişkin 120'nci ve aşırı ifa güçlüğüne ilişkin 138'nci maddesinin görülmekte olan davalara da uygulanacağı hüküm altına alınmıştır. Kiracıyı koruma amacıyla getirilen TBK.nun 346. maddesindeki bu yasal düzenlemenin kamu düzenine ilişkin olduğu kuşkusuzdur.
 Bununla birlikte 6217 Sayılı Yasanın geçici 2. maddesinde değişiklik yapan 6353 Sayılı Yasanın 53.maddesine göre; kiracının Türk Ticaret Kanunun'da tacir olarak sayılan kişiler ile özel hukuk ve kamu hukuku tüzel kişileri olduğu işyeri kiralarında 6098 Sayılı Türk Borçlar Kanununun 323, 325, 331, 340, 343, 344, 346 ve 354'ncü maddelerinin 01/07/2012 tarihinden itibaren 8 yıl süreyle uygulanamayacağı, bu halde kira
@@ -76,23 +98,33 @@ sözleşmelerinde bu maddelerde belirtilmiş olan konulara ilişkin olarak sözl
 
 ## Yargıtay 12. HD 2021/1637 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/640187100)
+
 Davada dayanılan ve hükme esas alınan 01.09.2013 başlangıç tarihli ve 2 yıl süreli kira sözleşmesi konusunda taraflar arasında uyuşmazlık bulunmamaktadır. Kira sözleşmesinin Özel Şartlar başlıklı bölümünün 3. maddesinde '' ... Kira bedellerinin vadesinden sonraki 5 gün içerisinde ödenmemesi durumunda kira bedellerinin tamamının muaccel olacağı” kararlaştırılmıştır. 01.07.2012 tarihinde yürürlüğe giren 6098 sayılı Türk Borçlar Kanun'unun 346.maddesinin ikinci cümlesi, kira sözleşmelerine konulan muacceliyet şartlarını geçersiz kılmış ise de, iş bu davada kiralanan işyeri olarak kullanılmak üzere kiraya verilmiş olup, davalı kiracı da şirket olduğundan, sözleşmede kararlaştırılan muacceliyet şartını geçersiz kılan yasa hükmü 6353 Sayılı Kanunun 53. maddesi ile değişik 6217 Sayılı Kanunun geçici 2. maddesi hükmü gereğince erteleme kapsamındadır. Bu durumda tacir olan kiracı-şirket hakkında TBK'nun 346. maddesinin 01.07.2012 tarihinden itibaren 8 yıl süre ile uygulanamayacağı gözetilerek muacceliyet koşulunun geçerli olduğunun kabulü gerekir.
 Önceki aylara ait kira bedelleri ödenmediğinden kira sözleşmesindeki muacceliyet şartı gereğince alacaklının 2015 yılının Ağustos ayına ait kira bedelini de talep etmesi mümkündür. Mahkemece 2015 yılı Ağustos ayı kira bedeli yönünden de bir değerlendirme yapılarak alacak miktarı tespit edilip oluşacak sonuca göre bir karar verilmesi gerekirken yazılı şekilde bu aya ait kira alacağının takip tarihinde muaccel olmadığı için istenemeyeceğinden bahisle istemin reddine karar verilip davacı aleyhine icra tazminatına hükmedilmesi isabetsiz olup Dairemizce, kararın bu nedenle bozulması gerekirken, onandığı anlaşılmakla alacaklının karar düzeltme isteminin kabulü gerekmiştir.
 
 ## Yargıtay 3. HD 2019/8175 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/554776600)
 
 Muacceliyet koşulu bakımından; 6217 Sayılı Yasanın geçici 2.maddesinde değişiklik yapan 6353 Sayılı Yasanın 53.maddesine göre kiracının Türk Ticaret Kanunun'da tacir olarak sayılan kişiler ile özel hukuk ve kamu hukuku tüzel kişileri olduğu işyeri kiralarında 6098 Sayılı Türk Borçlar Kanununun 323, 325, 331, 340, 343, 344, 346 ve 354'ncü maddelerinin 01.07.2012 tarihinden itibaren sekiz yıl süreyle uygulanamayacağı, bu halde kira sözleşmelerinde bu maddelerde belirtilmiş olan konulara ilişkin olarak sözleşme serbestisi gereği kira sözleşmesi hükümlerinin tatbik olunacağı öngörülmektedir. Tacir olan davalı kiracı için TBK'nın 346. maddesi uygulanması ertelenmiş olmakla, 01.10.2013 tarihli sözleşmesinin 2. maddesi ile kararlaştırılan muacceliyet koşulu geçerli olup, tarafları bağlar. Takip tarihi 09.02.2016 olup, taraflar arasındaki sözleşmede kira bedelinin her ayın beşinci gününe kadar ödeneceği düzenlenmiştir. Bu durumda 2016 yılı Ocak ve Şubat ayları kira bedelleri takip tarihi itibariyle muaccel hale gelmiş olup, bu aylara dair kira bedellerinin ödendiği hususunda davalı tarafça savunma yapılmamış ve buna dair delil sunulmamıştır.
 Dolayısıyla sözleşmede yer alan muacceliyet koşulu doğrultusunda davacı kiraya verenin 2016 yılı kira bedelini talep edebileceği gözetilmelidir.
 
 ## Yargıtay 3. HD 2019/6420 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/535718000)
+
 Yerleşik Yargıtay uygulamalarına göre şartlar değişmediği ve özel gelişmelerin varlığı iddia ve ispat edilmedikçe, hak ve nesafet ilkesine göre kira parasının tespit edildiği dönemden sonra üç yıl için art arda endeks uygulanarak bulunacak kira parasının o dönem için hak ve nesafete uygun ve aşırı olmayan bir kira parası olduğu ilke olarak kabul edilmeli ve ona göre uygulama yapılmalıdır. Üç yıldan sonra ise yeniden hak ve nesafete göre kira parası tespit edilebilecektir. Dava tarihi itibariyle uygulanması gereken, 17/01/2019 tarih ve 7161 sayılı Kanun ile yapılan değişiklikten önceki hükümlerde, 6098 Sayılı Türk Borçlar Kanunu 344. maddesi hükmünün, kiracının tacir olması durumunda 6217 Sayılı Kanunun geçici 2. maddesi gereğince 01.07.2012 tarihinden itibaren 8 yıl süreyle uygulanamayacağı, bu halde kira sözleşmelerinde bu maddelerde belirtilmiş olan konulara ilişkin olarak sözleşme serbestisi gereği kira sözleşmesi hükümlerinin tatbik olunacağı öngörülmektedir.
 
 ## Yargıtay 3. HD 2019/6053 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/524336700)
+
 Olayımıza gelince; Mahkemece, kira bedelinin sözleşme ile belirlendiği 01.01.2009 tarihinden itibaren 4. yıl olan 01.01.2013 tarihinden itibaren kira bedeli hak ve nesafet ilkelerine göre belirlenmiştir. Ancak, dosya içeriğinden kiracının Türk Ticaret Kanunu kapsamında tacir olup olmadığı anlaşılamamaktadır. Bu durumda mahkemece T.T.K.nun 14, 17, 1463. maddeleri, 5362 Sayılı Esnaf ve Sanatkârlar Meslek Kuruluşları Kanununun 3. maddesi çerçevesinde davalı kiracının tacir olup olmadığı araştırılarak, davalının tacir olduğunun anlaşılması halinde TBK.'un 344. maddesi, 6217 Sayılı Kanunun geçici 2. maddesi gereğince 8 yıl süreyle uygulanamayacağından kira bedelinin önceki Yargıtay İçtihatları gereğince hak ve nesafet ilkeleri doğrultusunda rayice göre belirlenmesi gerektiği, davalının tacir olmadığının anlaşılması durumunda ise kira bedelinin ÜFE oranına göre artış yapılarak tespiti gerektiği gözetilerek karar verilmesi gerekirken eksik araştırma ve inceleme ile yazılı şekilde hüküm tesisi doğru değildir.
 
 ## Yargıtay 3. HD 2019/5879 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/519624000)
 
 01/07/2012 tarihinde yürürlüğe giren 6098 Sayılı Türk Borçlar Kanunu 344.maddesinde; “Tarafların yenilenen kira dönemlerinde uygulanacak kira bedeline ilişkin anlaşmaları, bir önceki kira yılında üretici fiyat endeksindeki artış oranını geçmemek koşuluyla geçerlidir. Bu kural, bir yıldan daha uzun süreli kira sözleşmelerinde de uygulanır. Taraflarca bu konuda bir anlaşma yapılmamışsa, kira bedeli, bir önceki kira yılının üretici fiyat endeksindeki artış oranını geçmemek koşuluyla hâkim tarafından, kiralananın durumu göz önüne alınarak hakkaniyete göre belirlenir. Taraflarca bu konuda bir anlaşma yapılıp yapılmadığına bakılmaksızın, beş yıldan uzun süreli veya beş yıldan sonra yenilenen kira sözleşmelerinde ve bundan sonraki her beş yılın sonunda, yeni kira yılında uygulanacak kira bedeli, hâkim tarafından üretici fiyat endeksindeki artış oranı, kiralananın durumu ve emsal kira bedelleri göz önünde tutularak hakkaniyete uygun biçimde belirlenir. Her beş yıldan sonraki kira yılında bu biçimde belirlenen kira bedeli, önceki fıkralarda yer alan ilkelere göre değiştirilebilir.” hükmü bulunmaktadır.
 Türk Borçlar Kanunu'nun Yürürlüğü ve Uygulama Şekli Hakkındaki Kanunun 2.maddesinde geçmişe etkili olma başlığı altında “Türk Borçlar Kanununun düzenine ve genel ahlaka ilişkin kuralları gerçekleştirdikleri tarihe bakılmaksızın, bütün fiil ve işlemlere uygulanır.” hükmü yer almaktadır. Türk Borçlar
@@ -101,38 +133,56 @@ Kanununun kira artışına ilişkin 344.maddesindeki düzenleme kiracıları kor
 
 ## Yargıtay 3. HD 2019/5808 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/524016200)
+
 Türk Borçlar Kanunu'nun Yürürlüğü ve Uygulama Şekli Hakkındaki Kanunun 2. maddesinde geçmişe etkili olma başlığı altında “Türk Borçlar Kanunu'nun kamu düzenine ve genel ahlaka ilişkin kuralları gerçekleştirdikleri tarihe bakılmaksızın, bütün fiil ve işlemlere uygulanır.” hükmü yer almaktadır. Bununla birlikte 6217 Sayılı Yasanın geçici 2. maddesinde değişiklik yapan 6353 Sayılı Yasanın 53. maddesine göre; kiracının Türk Ticaret Kanun'un da tacir olarak sayılan kişiler ile özel hukuk ve kamu hukuku tüzel kişileri olduğu işyeri kiralarında 6098 Sayılı Türk Borçlar Kanun'unun 323, 325, 331, 340, 343, 344, 346 ve 354'ncü maddelerinin 01.07.2012 tarihinden itibaren 8 yıl süreyle uygulanamayacağı, bu halde kira sözleşmelerinde bu maddelerde belirtilmiş olan konulara ilişkin olarak sözleşme serbestisi gereği kira sözleşmesi hükümlerinin tatbik olunacağı, sözleşmede hüküm bulunmayan hallerde ise Mülga BK hükümlerinin uygulanacağı öngörülmektedir.
 
 ## Yargıtay 3. HD 2019/5582 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/514799000)
 
 Kanununun kamu düzenine ve genel ahlaka ilişkin kuralları gerçekleştirdikleri tarihe bakılmaksızın, bütün fiil ve işlemlere uygulanır.” hükmü yer almaktadır. Türk Borçlar Kanununun kira artışına ilişkin 344. maddesindeki düzenleme kiracıları koruyucu nitelikte olup, kamu düzenine ilişkindir. Ancak kiracının tacir olması durumunda 6217 Sayılı Kanunun geçici 2. maddesi gereğince bu kanun hükmü 8 yıl süreyle uygulanamaz.
 
 ## Yargıtay 3. HD 2019/5514 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/514744700)
+
 Olayımıza gelince; Mahkemece, kira bedelinin sözleşme ile belirlendiği 31.07.2011 tarihinden itibaren 4. yıl olan 01.01.2015 tarihinde TBK 344. Maddesine göre 5 yıl geçmediğinden kira bedelinin hak ve nesafete göre tespiti istenemeyeceği gerekçesi ile davanın reddine karar verilmiş ise de; Ancak, dosya içeriğinden kiracının Türk Ticaret Kanunu kapsamında tacir olup olmadığı anlaşılamamaktadır. Bu durumda mahkemece T.T.K.nun 14, 17, 1463. maddeleri, 5362 Sayılı Esnaf ve Sanatkârlar Meslek Kuruluşları Kanununun 3. maddesi çerçevesinde davalı kiracının tacir olup olmadığı araştırılarak, davalının tacir olduğunun anlaşılması halinde TBK.'un 344. maddesi, 6217 Sayılı Kanunun geçici 2. maddesi gereğince 8 yıl süreyle uygulanamayacağından kira bedelinin önceki Yargıtay İçtihatları gereğince hak ve nesafet ilkeleri doğrultusunda rayice göre belirlenmesi gerektiği, davalının tacir olmadığının anlaşılması durumunda ise kira bedelinin ÜFE oranına göre artış yapılarak tespiti gerektiği gözetilerek karar verilmesi gerekir.
 
 ## Yargıtay 3. HD 2019/4833 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/524967900)
 
 6098 sayılı Türk Borçlar Kanunu'nun 344/1 maddesinde tarafların yenilenen kira dönemlerinde uygulanacak kira bedeline ilişkin anlaşmaların bir önceki kira yılında üretici fiyat endeksindeki artış oranını geçmemek koşuluyla geçerli olacağı ve bu kuralın bir yıldan uzun süreli kira sözleşmelerine de uygulanacağı düzenlenmiştir. 6217 Sayılı Yasa'nın geçici 2. maddesinde değişiklik yapan 6353 Sayılı Yasa'nın 53. maddesine göre; kiracının Türk Ticaret Kanunun'da tacir olarak sayılan kişiler ile özel hukuk ve kamu hukuku tüzel kişileri olduğu işyeri kiralarında 6098 Sayılı Türk Borçlar Kanun'unun 323, 325, 331, 340, 343, 344, 346 ve 354'ncü maddelerinin 01.07.2012 tarihinden itibaren 8 yıl süreyle uygulanamayacağı, bu halde kira sözleşmelerinde bu maddelerde belirtilmiş olan konulara ilişkin olarak sözleşme serbestisi gereği kira sözleşmesi hükümlerinin tatbik olunacağı öngörülmektedir.
 
 ## Yargıtay 3. HD 2019/4258 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/512417400)
+
 Uyuşmazlığın çözümü için öncelikle sözleşmede yer alan muacceliyet şartının geçerli olup olmadığı irdelenmelidir. 6217 Sayılı Yasanın geçici 2.maddesinde değişiklik yapan 6353 Sayılı Yasanın 53.maddesine göre; kiracının Türk Ticaret Kanunun'da tacir olarak sayılan kişiler ile özel hukuk ve kamu hukuku tüzel kişileri olduğu işyeri kiralarında 6098 Sayılı Türk Borçlar Kanununun 323, 325, 331, 340, 343, 344, 346 ve 354'ncü maddelerinin 01.07.2012 tarihinden itibaren sekiz yıl süreyle uygulanamayacağı, bu halde kira sözleşmelerinde bu maddelerde belirtilmiş olan konulara ilişkin olarak sözleşme serbestisi gereği kira sözleşmesi hükümlerinin tatbik olunacağı da öngörülmektedir. Tacir olan davacı kiracı için TBK'nın 346. maddesi uygulanması ertelenmiş olmakla, 01.10.2013 tarihli sözleşmesinin 2. maddesi ile kararlaştırılan muacceliyet koşulu geçerli olup, tarafları bağlar.
 
 ## Yargıtay 3. HD 2019/4301 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/513097400)
 
 Türk Borçlar Kanunu'nun Yürürlüğü ve Uygulama Şekli Hakkındaki Kanunun 2. maddesinde geçmişe etkili olma başlığı altında “Türk Borçlar Kanunu'nun kamu düzenine ve genel ahlaka ilişkin kuralları gerçekleştirdikleri tarihe bakılmaksızın, bütün fiil ve işlemlere uygulanır.” hükmü yer almaktadır. Bununla birlikte 6217 Sayılı Yargı Hizmetlerinin Hızlandırılması Amacıyla Bazı Kanunlarda Değişiklik Yapılmasına Dair Kanunun geçici 2. maddesinde değişiklik yapan 6353 Sayılı Yasanın 53. maddesine göre; kiracının Türk Ticaret Kanun'un da tacir olarak sayılan kişiler ile özel hukuk ve kamu hukuku tüzel kişileri olduğu işyeri kiralarında 6098 Sayılı Türk Borçlar Kanun'unun 323, 325, 331, 340, 343, 344, 346 ve 354'ncü maddelerinin 01.07.2012 tarihinden itibaren 8 yıl süreyle uygulanamayacağı, bu halde kira sözleşmelerinde bu maddelerde belirtilmiş olan konulara ilişkin olarak sözleşme serbestisi gereği kira sözleşmesi hükümlerinin tatbik olunacağı, sözleşmede hüküm bulunmayan hallerde ise Mülga BK hükümlerinin uygulanacağı öngörülmektedir.
 7161 sayılı Kanunun 59. maddesi ile 6217 sayılı Kanunun geçici 2 nci maddesine eklenen fıkra ile “Bu fıkrayı ihdas eden Kanunla değiştirilen 6098 sayılı Kanunun 344 üncü maddesindeki tüketici fiyat endeksindeki oniki aylık ortalamalara göre değişim oranının esas alınacağına ilişkin hüküm, birinci fıkra kapsamında olan kira sözleşmeleri ile akdedilmiş diğer kira sözleşmelerinin yenilenmesinde uygulanır.” hükmü getirilmiştir.
 
 ## Yargıtay 8. HD 2019/4525 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/508912100)
+
 Kiracı aleyhine düzenleme yasağı başlıklı 6098 Sayılı Türk Borçlar Kanunu'nun 346. maddesinde; kiracıya kira bedeli ve yan giderler dışında başka bir ödeme yükümlülüğü getirilemeyeceği, özellikle kira bedelinin zamanında ödenmemesi halinde ceza koşulu ödeneceğine veya sonraki kira bedellerinin muaccel olacağına ilişkin anlaşmaların geçersiz olduğu hüküm altına alınmıştır. Kiracıyı koruma amacıyla getirilen TBK'nin 346. maddesindeki bu yasal düzenlemenin kamu düzenine ilişkin olduğu kuşkusuzdur. Bununla birlikte 6217 Sayılı Yasa'nın geçici 2. maddesinde değişiklik yapan 6353 Sayılı Yasa'nın 53. maddesine göre; kiracının Türk Ticaret Kanunun'da tacir olarak sayılan kişiler ile özel hukuk ve kamu hukuku tüzel kişileri olduğu işyeri kiralarında 6098 Sayılı Türk Borçlar Kanunu'nun 323, 325, 331, 340, 343, 344, 346 ve 354'ncü maddelerinin 01.07.2012 tarihinden itibaren 8 yıl süreyle uygulanamayacağı, bu halde kira sözleşmelerinde bu maddelerde belirtilmiş olan konulara ilişkin olarak sözleşme serbestîsi gereği kira sözleşmesi hükümlerinin tatbik olunacağı da öngörülmektedir.
 
 ## Yargıtay 3. HD 2019/3465 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/516213800)
+
 6217 Sayılı Yasa'nın geçici 2. maddesinde değişiklik yapan 6353 Sayılı Yasa'nın 53. maddesine göre; kiracının Türk Ticaret Kanunun'da tacir olarak sayılan kişiler ile özel hukuk ve kamu hukuku tüzel kişileri olduğu işyeri kiralarında 6098 Sayılı Türk Borçlar Kanun'unun 323, 325, 331, 340, 343, 344, 346 ve 354'ncü maddelerinin 01.07.2012 tarihinden itibaren 8 yıl süreyle uygulanamayacağı belirlenmiştir. Davalı kiracının tacir olması nedeniyle, TBK'nun 344/3. maddesinin 01.07.2012 tarihinden itibaren 8 yıl süre ile uygulanamayacağı, önceki uygulama ve içtihatlar gereğince aylık kira bedelinin tespitine gidilmesi gerektiği, bu itibarla tespiti istenen 01/07/2015- 01/07/2016 kira döneminin hak ve nesafet dönemi olduğu anlaşılmaktadır.
 
 ## Yargıtay 3. HD 2019/2899 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/514500700)
 
 Somut olayda; davalı ile dava dışı ....arasındaki 01.01.2011 başlangıç tarihli bir yıl süreli kira sözleşmesine ilişkin, taraflar arasında uyuşmazlık bulunmamaktadır. Mahkemece, kira akdinin başlangıcından itibaren üç yıldan fazla süre geçtiğinden, 01.01.2015 tarihinden itibaren aylık kira parası hak ve nesafete göre belirlenmiştir. Ancak, dosya içeriğinden kiracının Türk Ticaret Kanunu kapsamında tacir olup olmadığı anlaşılamamaktadır.
 Bu durumda mahkemece T.T.K.nun 14, 17, 1463. maddeleri, 5362 Sayılı Esnaf ve Sanatkârlar Meslek Kuruluşları Kanununun 3. maddesi çerçevesinde davalı kiracının tacir olup olmadığı araştırılarak, davalının tacir olduğunun anlaşılması halinde TBK.'un 344. maddesi, 6217 Sayılı Kanunun geçici 2. maddesi gereğince 8 yıl süreyle uygulanamayacağından kira bedelinin önceki Yargıtay İçtihatları gereğince hak ve nesafet ilkeleri doğrultusunda rayice göre belirlenmesi gerektiği; tacir olmaması halinde, davacılar tarafından beşinci artış yılı olan 01/01/2015 tarihinden itibaren kira bedelinin tespiti istenildiğine göre, yukarıdaki ilke ve esaslar gözetilmek suretiyle tespiti talep edilen dönemin endeks dönemi olduğu kabul edilerek, aradan geçen her yıl için endeks oranı uygulanarak kira bedelinin tespiti
@@ -141,13 +191,19 @@ gerekirken, eksik araştırma ve inceleme ile hak ve nesafete göre karar verilm
 
 ## Yargıtay 3. HD 2019/2415 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/493740900)
+
 Olayımıza gelince; Taraflar arasında düzenlenen 01.10.2009 başlangıç tarihli 10 yıl süreli kira sözleşmesi hususunda bir uyuşmazlık bulunmamaktadır. Davacı tarafça, 01.10.2015 tarihinden itibaren kira bedelinin hak ve nesafet ilkelerine göre tespiti talep edilmiştir. Ancak, dosya içeriğinden kiracının Türk Ticaret Kanunu kapsamında tacir olup olmadığı anlaşılamamaktadır. Bu durumda mahkemece T.T.K.nun 14, 17, 1463. maddeleri, 5362 Sayılı Esnaf ve Sanatkârlar Meslek Kuruluşları Kanununun 3. maddesi çerçevesinde davalı kiracının tacir olup olmadığı araştırılarak, davalının tacir olduğunun anlaşılması halinde TBK.'un 344. maddesi, 6217 Sayılı Kanunun geçici 2. maddesi gereğince 8 yıl süreyle uygulanamayacağından kira bedelinin sözleşmede belirtilen artış oranına göre belirlenmesi gerektiği, davalının tacir olmadığının anlaşılması durumunda ise sözleşmedeki 5 yıllık sürenin dolduğu gözetilerek TBK'nun 344. maddesi gereğince hak ve nesafete göre kira bedelinin tespitinin yapılarak sonucuna göre karar verilmesi gerektiği nazara alınmaksızın eksik araştırma ve inceleme ile yazılı şekilde karar verilmesi usul ve yasaya aykırı olup bozmayı gerektirir.
 
 ## Yargıtay 3. HD 2019/1616 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/492448800)
+
 Yürürlüğü ve Uygulama Şekli Hakkındaki Kanunun 2.maddesinde geçmişe etkili olma başlığı altında ise “Türk Borçlar Kanununun düzenine ve genel ahlaka ilişkin kuralları gerçekleştirdikleri tarihe bakılmaksızın, bütün fiil ve işlemlere uygulanır.” hükmü yer almaktadır. Türk Borçlar Kanununun kira artışına ilişkin 344.maddesindeki düzenleme kiracıları koruyucu nitelikte olup, kamu düzenine ilişkindir. Ancak kiracının tacir olması durumunda 6217 Sayılı Kanunun geçici 2. maddesi gereğince bu kanun hükmü 8 yıl süreyle uygulanamayacaktır.
 
 ## Yargıtay 3. HD 2018/11917 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/464112100)
 
 01/07/2012 tarihinde yürürlüğe giren 6098 Sayılı Türk Borçlar Kanunu 344.maddesinde ise “Tarafların yenilenen kira dönemlerinde uygulanacak kira bedeline ilişkin anlaşmaları, bir önceki kira yılında üretici fiyat endeksindeki artış oranını geçmemek koşuluyla geçerlidir. Bu kural, bir yıldan daha uzun süreli kira sözleşmelerinde de uygulanır. Taraflarca bu konuda bir anlaşma yapılmamışsa, kira bedeli, bir önceki kira yılının üretici fiyat endeksindeki artış oranını geçmemek koşuluyla hâkim tarafından, kiralananın durumu göz önüne alınarak hakkaniyete göre belirlenir. Taraflarca bu konuda bir anlaşma yapılıp yapılmadığına bakılmaksızın, beş yıldan uzun süreli veya beş yıldan sonra yenilenen kira sözleşmelerinde ve bundan sonraki her beş yılın sonunda, yeni kira yılında uygulanacak kira bedeli, hâkim tarafından üretici fiyat endeksindeki artış oranı, kiralananın durumu ve emsal kira bedelleri göz önünde tutularak hakkaniyete uygun biçimde belirlenir. Her beş yıldan sonraki kira yılında bu biçimde belirlenen kira bedeli, önceki fıkralarda yer alan ilkelere göre değiştirilebilir.” hükmü bulunmaktadır .
 Türk Borçlar Kanunu'nun Yürürlüğü ve Uygulama Şekli Hakkındaki Kanunun 2.maddesinde geçmişe etkili olma başlığı altında
@@ -156,9 +212,13 @@ Türk Borçlar Kanunu'nun Yürürlüğü ve Uygulama Şekli Hakkındaki Kanunun 
 
 ## Yargıtay 3. HD 2018/11600 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/463327400)
+
 1 Temmuz 2012 tarihinde yürürlüğe giren 6098 sayılı Türk Borçlar Kanun'unun 344. maddesine göre; “Tarafların yenilenen kira dönemlerinde uygulanacak kira bedeline ilişkin anlaşmaları, bir önceki kira yılında üretici fiyat endeksindeki artış oranını geçmemek koşuluyla geçerlidir. Bu kural, bir yıldan daha uzun süreli kira sözleşmelerinde de uygulanır. Taraflarca bu konuda bir anlaşma yapılmamışsa, kira bedeli, bir önceki kira yılının üretici fiyat endeksindeki artış oranını geçmemek koşuluyla hâkim tarafından, kiralananın durumu göz önüne alınarak hakkaniyete göre belirlenir. Taraflarca bu konuda bir anlaşma yapılıp yapılmadığına bakılmaksızın, beş yıldan uzun süreli veya beş yıldan sonra yenilenen kira sözleşmelerinde ve bundan sonraki her beş yılın sonunda, yeni kira yılında uygulanacak kira bedeli, hâkim tarafından üretici fiyat endeksindeki artış oranı, kiralananın durumu ve emsal kira bedelleri göz önünde tutularak hakkaniyete uygun biçimde belirlenir. Her beş yıldan sonraki kira yılında bu biçimde belirlenen kira bedeli, önceki fıkralarda yer alan ilkelere göre değiştirilebilir.
 
 ## Yargıtay 3. HD 2018/11167 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/455270300)
 
 Davacının dayandığı ve dava konusu taşınmaza ait kira sözleşmesi 28.04.1998 başlangıç tarihli ve eczane olarak kullanılmak üzere düzenlenmiş olup, ilgili sözleşmede kiracı sıfatıyla davalılardan ...’in imzasının bulunduğu hususunda taraflar arasında uyuşmazlık bulunmamaktadır. Sözleşmenin hususi şartlar kısmının ilgili maddesinde kiralananın kiracı tarafından üçüncü şahsa kısmen veya tamamen kiralanıp da taksimatı ve ciheti tahsisi değiştirilir ise kiraya verenin akdi bozabileceği kararlaştırılmış olup bu hüküm tarafları bağlar. 6098 sayılı Türk Borçlar Kanununun 323. Maddesinde kiracının, kiraya verenin yazılı rızasını almadıkça, kira ilişkisini başkasına devredemeyeceği hükmü düzenlenmiş olup, mahkemece kira sözleşmesinin davalı ...’e devredildiği kabul edilmiştir. 6098 sayılı Türk Borçlar Kanununun 01.07.2012 tarihinde yürürlüğe girmesinden önce, devir yasağına rağmen kiralananın üçüncü kişiye kiraya verilmesi halinde üçüncü kişiye karşı açılacak tahliye davasının dayanağı; 6570 Sayılı Kanununun 12/3 maddesidir.
 6570 Sayılı Kanununun 12/3. maddesinde "Bu maddenin birinci fıkrası hükmüne riayet etmeyerek bir gayrimenkule kiracı veya devir alan sıfatıyla girenler veya bu gayrimenkulü işgal edenler hakkında hiç bir ihtara hacet kalmaksızın sulh mahkemelerinde tahliye davası açılabilir." hükmü düzenlenmiş olup, bu hüküm gereği devir alan veya alt kiracıya karşı açılacak tahliye davası için, asıl kira sözleşmesinin fesih veya başka suretle ortadan kalkması şart değildir. 6570 Sayılı Yasanın 12. maddesine göre açılacak tahliye davaları kiraya veren tarafından yalnızca fuzuli şagil aleyhine açılabileceği gibi ayrıca akde aykırılık nedeni ile kiracı aleyhine de açılabilir. Her ne kadar 6098 sayılı Türk Borçlar Kanununda benzer bir düzenleme getirilmemiş ise de, sözleşmeye aykırı olarak taşınmazda bulunan alt kiracı veya
@@ -167,14 +227,20 @@ devralan kiracıya karşı dava açılamayacağına ilişkin bir düzenleme de b
 
 ## Yargıtay 3. HD 2018/11195 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/455367600)
+
 01/07/2012 tarihinde yürürlüğe giren 6098 Sayılı Türk Borçlar Kanunu'nun 344.maddesinde " Tarafların yenilenen kira dönemlerinde uygulanacak kira bedeline ilişkin anlaşmaları, bir önceki kira yılında üretici fiyat endeksindeki artış oranını geçmemek koşuluyla geçerlidir. Bu kural, bir yıldan daha uzun süreli kira sözleşmelerinde de uygulanır. Taraflarca bu konuda bir anlaşma yapılmamışsa, kira bedeli, bir önceki kira yılının üretici fiyat endeksindeki artış oranını geçmemek koşuluyla hâkim tarafından, kiralananın durumu göz önüne alınarak hakkaniyete göre belirlenir. Taraflarca bu konuda bir anlaşma yapılıp yapılmadığına bakılmaksızın, beş yıldan uzun süreli veya beş yıldan sonra yenilenen kira sözleşmelerinde ve bundan sonraki her beş yılın sonunda, yeni kira yılında uygulanacak kira bedeli, hâkim tarafından üretici fiyat endeksindeki artış oranı, kiralananın durumu ve emsal kira bedelleri göz önünde tutularak hakkaniyete uygun biçimde belirlenir. Her beş yıldan sonraki kira yılında bu biçimde belirlenen kira bedeli, önceki fıkralarda yer alan ilkelere göre değiştirilebilir.” hükmü bulunmaktadır .
 Türk Borçlar Kanunu'nun Yürürlüğü ve Uygulama Şekli Hakkındaki Kanunu 2.maddesinde geçmişe etkili olma başlığı altında “Türk Borçlar Kanunu'nun kamu düzenine ve genel ahlaka ilişkin kuralları gerçekleştirdikleri tarihe bakılmaksızın, bütün fiil ve işlemlere uygulanır.” hükmü yer almaktadır. Türk Borçlar Kanunu'nun kira artışına ilişkin 344.maddesindeki düzenleme kiracıları koruyucu nitelikte olup, kamu düzenine ilişkindir. Ancak kiracının tacir olması durumunda 6217 Sayılı Kanunun geçici 2. maddesi gereğince bu kanun hükmü 8 yıl süreyle uygulanamaz.
 
 ## Yargıtay 8. HD 2018/17248 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/454368600)
+
 Geçici 2. maddesinde; “ Kiracının Türk ...... Kanununda tacir olarak sayılan kişiler ile özel hukuk ve kamu hukuku tüzel kişileri olduğu işyeri kiralarında, 11/1/2011 tarihli ve 6098 sayılı Türk Borçlar Kanununun 323, 325, 331, 340, 342, 343, 344, 346 ve 354'üncü maddeleri 1/7/2012 tarihinden itibaren 8 yıl süreyle uygulanmaz. Bu halde, kira sözleşmelerinde bu maddelerde belirtilmiş olan konulara ilişkin olarak sözleşme serbestisi gereği kira sözleşmesi hükümleri tatbik olunur. Kira sözleşmelerinde hüküm olmayan hallerde mülga Borçlar Kanunu hükümleri uygulanır.” Şeklinde düzenleme bulunmaktadır.
 
 ## Yargıtay 8. HD 2018/14304 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/430235900)
 
 Geçici 2. maddesinde; “ Kiracının Türk Ticaret Kanunu'nda tacir olarak sayılan kişiler ile özel hukuk ve kamu hukuku tüzel kişileri olduğu işyeri kiralarında, 11/1/2011 tarihli ve
 

@@ -21,6 +21,8 @@ uyari: "Derleyenin seçtiği alıntılardır; kararın tamamı değildir. Künye
 
 ## Yargıtay 8. HD 2017/15084 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/381534600)
+
 “Takibe dayanak kira sözleşmesi Hususi Şartlar Bölümü 4. maddesinde kira
 
 bedellerinin her ayın 1'i ila 5'i arasında ödeneceği, kira bedelinin belirtilen gün akşamına kadar yatırılmaması halinde kira bedelinin aylık %10'u oranında gecikme zammı tahakkuk edeceği, gecikmelerin bir aydan fazla olduğu durumlarda müteakip aylarda da aylık %10 gecikme zammının uygulanacağı kararlaştırılmış, mahkeme tarafından bu oran üzerinden hesaplanan bilirkişi raporuna değer verilmiş ise de, **TBK'nun 120. maddesine göre sözleşme ile kararlaştırılan gecikme faizi yasal faiz oranının %100'ünden fazla olamaz. Buna göre anılan kanun maddesine göre faiz hesaplaması yapılıp sonucuna göre karar verilmesi gerekirken yıllık %120 oranında hesaplama yapılan rapor doğrultusunda karar verilmesi hatalı olmuştur**.”
@@ -39,5 +41,7 @@ Ancak, dosya içeriğinden kiracının Türk Ticaret Kanunu kapsamında tacir ol
 Kabule göre de yalnızca asıl alacağa takip tarihinden itibaren faiz işletilmesi gerekirken 6098 sayılı Türk Borçlar Kanununun 121/son maddesi (818 sayılı Borçlar Kanunu m.104/son) hükmüne aykırı olarak faize faiz yürütülmesi sonucunu doğuracak şekilde asıl alacak ile gecikme cezası toplamına faiz yürütülmesi ve takipte yasal faiz talep edildiği halde talebi aşar şekilde ticari faiz uygulanarak hesaplama yapılan bilirkişi raporunun hükme esas alınması da doğru görülmemiştir.”
 
 ## Yargıtay 3. HD 2025/1147 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1133339800)
 
 Hal böyle olunca, Mahkemece; tarafların hür iradeleri ile kararlaştırdıkları sözleşme şartlarının geçerli olduğu, tarafları bağlayacağı, kira sözleşmesinde ödeme zamanı ve vadesinde ödenmediği takdirde uygulanacak faiz oranının belirlendiği, bu nedenle **kira alacağına vade tarihinden itibaren sözleşmede kararlaştırılan faiz oranının uygulanması gerektiği** dikkate alınarak, hasıl olacak sonuca göre bir karar verilmesi gerekirken; eksik inceleme ve yanılgılı değerlendirme ile yazılı şekilde hüküm tesisi bozmayı gerektirmiştir.

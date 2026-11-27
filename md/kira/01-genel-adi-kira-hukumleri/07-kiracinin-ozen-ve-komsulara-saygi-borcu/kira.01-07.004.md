@@ -21,9 +21,13 @@ uyari: "Derleyenin seçtiği alıntılardır; kararın tamamı değildir. Künye
 
 ## Yargıtay 6. HD 2014/2090 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/97319200)
+
 Borçlar Kanununun 256 ve 6098 sayılı TBK.nun 316. maddesi hükmü uyarınca kiracı kiralananı kira süresi boyunca tam bir ihtimam dairesinde kullanmak zorundadır. Anılan madde hükmü gereğince akde aykırılıktan dolayı kiracının tahliyesine karar verilebilmesi için kiracıya akde aykırı davranışına son vermesi hususunda kiralayan tarafından süreli bir ihtar tebliğ ettirilmesi ve tanınan bu süre içerisinde de akde aykırılığın giderilmemiş olması gerekir.
 
 ## Yargıtay 6. HD 2013/16971 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/521226400)
 
 6099 sayılı TBK.nın 316/1.maddesi (BK.nın 256.maddesi) hükmü uyarınca kiracı kiralananı özenle kullanmak ve aynı kanunun 334. maddesi (BK,nın 266.maddesi) gereğince sözleşme sonunda aldığı hali ile kiralayana teslim etmekle yükümlüdür. Ayrıca sözleşmede de teslime ilişkin kiracıya bir takım yükümülükler getirilmişse kanunun emredici hükümlerine aykırı olmadıkça kiracı sözleşmedeki teslime ilişkin hükümlerle de bağlıdır. Kiracının bu yükümlüklerinin ihlali halinde kiraya veren, bu yüzden uğradığı zarar için giderim isteminde bulunabilir. Davacı birleşen dava dosyasında hem hor kullanmaya
 
@@ -32,10 +36,14 @@ Mahkemece davacının zararının tahliye tarihinden kiralananın aynı koşulla
 
 ## Yargıtay 6. HD 2013/16211 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/520724900)
+
 T.B.K.’nun 316/1.maddesi (B.K.’nun 256.maddesi) hükmü uyarınca kiracı kiralananı özenle kullanmak ve aynı kanunun 334. maddesi (B.K.’nun 266.maddesi) gereğince sözleşme sonunda aldığı hali ile kiralayana teslim etmekle yükümlüdür. Kiracının bu yükümlülüğünün ihlali halinde kiraya veren; bu yüzden uğradığı zararın tazminini kiracıdan isteyebilir. Ancak kiracı sözleşme sınırları içinde kiralanandan yararlanması sonucu meydana gelen yıpranma ve bozulmalardan sorumlu değildir. O nedenledir ki kiralanandaki hasar ve bozukluğun kötü kullanımdan kaynaklanıp kaynaklanmadığının tespiti gerekir. Somut olaya bu çerçeveden bakıldığında, bilirkişi ... tarafından sunulan 16.01.2013 havale tarihli raporunda her hangi bir hasar tarif edilmeyen; “çelik para kasası-kullanılır durumda”, “tül pere çok eski, maddi değeri kalmamış”, “ahşap çerçeveli ayna” gibi kalemlerin nazara alınarak hesaplamaya dahil edilmesi doğru değildir. Kiralanan taşınmazın amacı doğrultusunda otel olarak kullanılması nedeniyle otelin kendisinde ve demirbaş eşyalarına meydana gelen eskime ve yıpranmalardan davalı kiracının sorumlu olmayacağı kuşkusuzdur.
 Binanın bilirkişice tespit edilen yaşı itibariyle tamirat bedelinden %25 yıpranma oranı düşülmesi hakkaniyete aykırı olmuştur. Bu nedenle mahkemece ek bilirkişi raporu alınmak suretiyle yukarıda açıklanan ilke ve esaslar doğrultusunda hasar ve zararın yeniden tespit edilerek kullanma süresi de dikkate alınarak tespit tarihindeki rayice göre tamirat bedelinin tespiti ile boya ve badana gibi bir kısım giderlerin normal kullanım sonucu yenilenmesi gereken giderlerden olup olmadığı üzerinde durularak sonucuna göre bir karar verilmesi gerekirken eksik inceleme ile yazılı şekilde hüküm verilmesi hatalı olmuştur.
 
 ## Yargıtay 6. HD 2013/15833 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/522171700)
 
 6098 sayılı Türk Borçlar Kanun'unun 316.maddesi hükmü (eski Borçlar Kanun'unun 256.maddesi) uyarınca kiracı kiralananı sözleşmeye uygun olarak özenle kullanmak ve kiralananın bulunduğu taşınmazda oturan kişiler ile komşulara gerekli saygıyı göstermekle yükümlüdür. Kiracının bu yükümlülüğe aykırı davranması durumunda sözleşmeye aykırılık nedeniyle tahliyesine karar verilebilmesi için kiraya verenin konut ve çatılı işyeri kirasında
 
@@ -43,44 +51,64 @@ kiracıya en az otuz gün süre vererek aykırılığın giderilmesini, aksi tak
 
 ## Yargıtay 6. HD 2013/14688 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/535083700)
+
 Mülga 818 Sayılı Borçlar Kanunu'nun 256. ve 266 maddesi ve 6098 Sayılı Türk Borçlar Kanunu'nun 316. ve 334. maddeleri hükmü uyarınca kiracı kiralananı sözleşmeye uygun olarak özenle kullanmak ve kiralananı aldığı şekilde teslim etmekle yükümlüdür. Kural olarak kiralananın yanması halinde kiracı kusursuz olduğunu kanıtlamadıkça meydana gelen zarardan sorumludur. Kusur ise gerekli özenin gösterilmemesi, sonucun önceden tahmin edilememiş olmasıyla ortaya çıkar. Özünde davanın dayanağı haksız fiil olduğundan, davalının meydana gelen zarardan kusuru oranında sorumlu tutulması gerekir. Mahkemece uyuşmazlığa ilişkin bilirkişi incelemesi yaptırılmış ise de, konusunda uzman bilirkişi heyeti ile kusur araştırılması yapılmamıştır. Bu durumda mahkemenin konusunda uzman bilirkişi…
 
 ## Yargıtay 6. HD 2013/14361 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/535105600)
 
 Türk Borçlar Kanununun 316.maddesi hükmü uyarınca kiracı kiralananı sözleşmeye uygun olarak özenle kullanmakla yükümlüdür. Kiracının bu yükümlülüğe aykırı davranması durumunda sözleşmeye aykırılık nedeniyle kiralanandan tahliyesine karar verilebilmesi için kiraya verenin konut ve çatılı işyeri kirasında kiracıya en az otuz gün süre vererek aykırılığın giderilmesini, aksi takdirde sözleşmeyi feshedeceğini yazılı olarak bildirmesi ve tanınan bu süre içerisinde de akde aykırılığın giderilmemiş olması gerekir. Diğer kira ilişkilerinde ise, kiraya veren, kiracıya önceden bir ihtarda bulunmaksızın, yazılı bir bildirimle sözleşmeyi hemen feshedebilir. Konut ve çatılı işyeri kirasında, kiracının kiralanana kasten ağır bir zarar vermesi, kiracıya verilecek sürenin yararsız olacağının anlaşılması veya kiracının bu yükümlülüğe aykırı davranışının kiraya veren veya aynı taşınmazda oturan kişiler ile komşular bakımından çekilmez olması durumlarında kiraya veren, yazılı bir bildirimle sözleşmeyi hemen feshedebilir.
 
 ## Yargıtay 6. HD 2013/14312 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/535156100)
+
 Türk Borçlar Kanununun 316.maddesi hükmü uyarınca kiracı kiralananı sözleşmeye uygun olarak özenle kullanmak ve kiralananın bulunduğu taşınmazda oturan kişiler ile komşulara gerekli saygıyı göstermekle yükümlüdür. Kiracının bu yükümlülüğe aykırı davranması durumunda sözleşmeye aykırılık nedeniyle tahliyesine karar verilebilmesi için kiraya verenin konut ve çatılı işyeri kirasında kiracıya en az otuz gün süre vererek aykırılığın giderilmesini, aksi takdirde sözleşmeyi feshedeceğini yazılı olarak bildirmesi ve tanınan bu süre içerisinde de akde aykırılığın giderilmemiş olması gerekir. Diğer kira…
 
 ## Yargıtay 6. HD 2013/13753 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/534815500)
 
 TBK.’nun 316. (B.K.’nun 256) maddesi hükmü uyarınca kiracı kiralananı tam bir özenle kullanmak ve aynı kanunun 334. (BK.’nun 266.) maddesi gereğince sözleşme sonunda aldığı hali ile kiralayana teslim etmekle yükümlüdür. Yargılama sırasında yaptırılan keşif sonucu alınan 04.06.212 tarihli ek bilirkişi raporunda davalı kiracı tarafından yapılan ilave işlerin sökülmesi sırasında oluşan hasarlar ile kira sözleşmesinin 11.maddesi gereğince sökülerek eski hale getirilmesi gereken işlerin nelerden ibaret olduğu ayrı ayrı kalemler halinde belirtilip 19.852,00.-TL'nin hor kullanıma, 18.318,00.-TL'nin eski hale getirme bedeline ait olduğu açıklanmıştır. Durum böyle olduğu halde hor kullanma tazminatına ilişkin istemin gerekçe gösterilmeksizin reddine karar verilmesi doğru değildir.
 
 ## Yargıtay 6. HD 2013/13734 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/532743600)
+
 T.B.K.’nun 316/1.maddesi (B.K.’nun 256.maddesi) hükmü uyarınca kiracı kiralananı özenle kullanmak ve aynı kanunun 334. maddesi (B.K,’nun 266.maddesi) gereğince sözleşme sonunda aldığı hali ile kiralayana teslim etmekle yükümlüdür. Kiracının bu yükümlülüğünün ihlali halinde kiraya veren, bu yüzden uğradığı zarar için giderim isteminde bulunabilir. Ancak kiracı sözleşme sınırları içinde kiralanandan yararlanması sonucu meydana gelen yıpranma ve bozulmalardan sorumlu değildir. O nedenledir ki kiralanandaki hasar ve bozukluğun kötü kullanımdan kaynaklanıp kaynaklanmadığının tespiti gerekir.
 
 ## Yargıtay 6. HD 2013/13314 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/529604100)
 
 Diğer yandan 6098 Sayılı Türk Borçlar Kanunu'nun 316. ( mülga 818 Sayılı Borçlar Kanunu'nun 256.) maddesi hükmü gereğince kiracı kiralananı tam bir özenle kullanmak ve aynı yasanın 334. (mülga 818 Sayılı Borçlar Kanunu'nun 266. ) maddesine göre sözleşme sonunda aldığı hali ile kiralayana teslim etmekle yükümlüdür. Ancak kiracı sözleşmeye uygun kullanma dolayısıyla oluşan eskime ve bozulmalardan sorumlu olmayıp münhasıran kötü kullanım nedeniyle oluşan zarar ve hasarlardan sorumludur. Davalının kiralananı tahliye etmesinden sonra davacılar tarafından ... 1. Sulh Hukuk Mahkemesi’nin 2012 / 182 D. İş sayılı dosyası üzerinden kiralanana verilen hasarların saptanması için 14.9.2012 tarihinde yapılan tespit sonucu bilirkişi tarafından kiralanan bağımsız bölümlere verilen hasarlar belirlenirken, yerinde görülmediği halde davacının tespit dilekçesindeki iddia ve beyanları çerçevesinde oda kapılarının camlı meşe kaplamalı ve zeminlerin parke olduğundan hareketle hasar miktarı hesaplanmıştır. Ne var ki davalı kiralama sırasında camlı meşe kaplamalı kapılarının ve parke zeminin olmadığını savunmuş, bu savunmanın aksi de davacı tarafından kanıtlanamamıştır.
 Gerçekten ne sözleşmelerde, ne de projede bu yönde bir hüküm ya da düzenleme yer almamaktadır. Bu durumda anılan hasar kalemleri için de değer takdir edilmesi ve ayrıca diğer hasarlar yönünden de kiracılık süresince meydana gelen yıpranma paylarının düşülmemesi usul ve yasaya aykırıdır.
 
 ## Yargıtay 6. HD 2013/12541 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/537389900)
+
 BK.nun 316. maddesinin 1.fıkrasında “Kiracı, kiralananı, sözleşmeye uygun olarak özenle kullanmak ve kiralananın bulunduğu taşınmazda oturan kişiler ile komşulara gerekli saygıyı göstermekle yükümlüdür.” hükmü, yine aynı maddenin 3. fıkrasında “Konut ve çatılı işyeri kirasında, kiracının kiralanana kasten ağır bir zarar vermesi, kiracıya verilecek sürenin yararsız olacağının anlaşılması veya kiracının bu yükümlülüğe aykırı davranışının kiraya veren veya aynı taşınmazda oturan kişiler ile komşular bakımından çekilmez olması durumlarında kiraya veren, yazılı bir bildirimle sözleşmeyi hemen feshedebilir.” hükmü yer almaktadır. Somut olayda BK.nun 316. maddesinde belirtilen, kiracının kiraya veren veya aynı taşınmazda oturan kişiler ile komşular bakımından kira ilişkisinin çekilmez hale geldiğinin kabulüne yeter delil bulunmamaktadır. Davacının dayandığı “tutanak” adlı belgeler kiracının komsulara her yönden rahatsızlık verdiğine ilişkin olup somut bir bilgi içermemektedir. Davacı tanıklarının beyanlarında geçen kiracı ve ailesinin aile içi tartışmaları kiralananın tahliyesini gerektirecek ölçüde bir neden değildir.
 Kiralananın dışındaki apartmanın ortak mahallerine ahşaplardan odun yığması da akde aykırılık oluşturmadığı da değerlendirildiğinde, mahkemece davanın reddine karar verilmesi gerekirken kiralananın tahliyesine karar verilmesi doğru değildir.
 
 ## Yargıtay 6. HD 2013/9807 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/573878500)
+
 Borçlar Kanununun 256. Maddesi gereğince kiracı kiralananı özenle kullanma borcu altındadır. Kiracı kusursuzluğunu kanıtlamakla yükümlüdür. Bilindiği gibi kusur, gerekli özenin gösterilmemesi sonucunda önceden tahmini mümkün iken tahmin edilememiş olmasıyla ortaya çıkar. Somut olayda yangının önceden tahmin edilmesinin mümkün olup olmadığının tesbiti ile işyeri ticari işletme niteliğinde olduğundan davalı kiracının basiretli bir tacir gibi davranıp davranmadığının saptanması gerekir.
 
 ## Yargıtay 6. HD 2013/2717 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/409156100)
 
 Mülga 818 Sayılı Borçlar Kanunu'nun 256. ve 266 maddesi ve 6098 Sayılı Türk Borçlar Kanunu'nun 316. ve 334 maddesi hükmü uyarınca kiracı kiralananı sözleşmeye uygun olarak özenle kullanmak ve kiralananı aldığı şekilde teslim etmekle yükümlüdür. Kural olarak kiralananın yanması halinde kiracı kusursuz olduğunu kanıtlamadıkça meydana gelen zarardan sorumludur. Kusur ise gerekli özenin gösterilmemesi, sonucun önceden tahmin edilememiş olmasıyla ortaya çıkar. Özünde davanın dayanağı haksız fiil olduğundan, davalının meydana gelen zarardan kusuru oranında sorumlu tutulması gerekir. Mahkemece uyuşmazlığa ilişkin bilirkişi incelemeleri yaptırılmış ise de, alınan raporlar hasar bedeline ve yangının elektrik tesisatından kaynaklanmadığına ilişkin olup meydana gelen olay nedeniyle bir kusur araştırılması yapılmamıştır.
 Bu durumda mahkemenin konusunda uzman bir bilirkişi heyetinden yangının çıkmasında davalının kusuru olup olmadığı, kiralananda yangına karşı gerekli güvenlik önlemlerini alıp almadığı ve davalının bir kusuru varsa, kusur oranı belirlendikten sonra yine bilirkişi raporu ile saptanan zarardan kusursuzluk oranında indirim yapılarak işin esası hakkında bir karar vermesi gerekirken bu yönde bir araştırma yapılmaksızın eksik inceleme sonucu yazılı şekilde hüküm kurulması doğru görülmediğinden kararın bozulması gerekmiştir.
 
 ## İzmir BAM 4. HD 2026/335 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1192393000)
 
 6098 sayılı Türk Borçlar Kanunu'nun 69. (818 s. BK 58.) maddesinde düzenlenen bina ve yapı eseri malikinin sorumluluğu, kusursuz sorumluluk türü olan özen (olağan sebep) sorumluluğudur. 6098 sayılı TBK'nun 69/1. maddesinde "Bir binanın veya diğer yapı eserlerinin maliki, bunların yapımındaki bozukluklardan veya bakımındaki eksikliklerden doğan zararı gidermekle yükümlüdür." denilmektedir. Bina veya yapı eseri malikinin sorumluluğu, yapı eserinin yapımındaki bozukluğa veya bakımındaki eksikliğe dayanmaktadır. Sorumluluğun doğmasında, yapılıştaki bozukluk-bakım eksikliği ayrımının bir önemi bulunmamaktadır. Zira, malikin sorumlu olması için bakım eksikliği veya yapılıştaki bozukluktan herhangi birinin varlığı yeterli görülmektedir. Her iki olasılıkta da yalnızca malikin sorumluluğu söz konusu olmaktadır. Bina veya yapı eseri malikinin sorumlu tutulabilmesi için; yapım bozukluğu veya bakım eksikliğinden zararın doğması, yapım bozukluğu veya bakım eksikliği ile zarar arasında uygun illiyet bağının bulunması yeterlidir.
 Bina veya yapı eseri malikinin sorumluluğu bakımından bulunması zorunlu unsur olan illiyet bağı yönünden ise, bu bağın kesilmesine yol açacak sebeplerin somut olayda gerçekleşmemiş olması gereklidir. İlliyet bağını kesen sebepler ise; mücbir sebep ve zarar görenin ya da üçüncü kişinin ağır kusurudur. Zarar, aradaki illiyet bağını kesecek derecede bir mücbir sebepten, zarar görenin ya da üçüncü bir kişinin kusurundan doğmuş ise yapı malikinin sorumluluğu sözkonusu olmaz (Yargıtay HGK 29.11.2017 tarih, 2017/3-439 Esas ve 2017/1463 Karar sayılı ilamı). 6098 sayılı TBK'nun 49. maddesine göre; kusurlu ve hukuka aykırı bir fiille başkasına zarar veren, bu zararı gidermekle yükümlüdür. 6098 sayılı TBK'nın 316. maddesine göre, kiracı kiralananı sözleşmeye uygun olarak özenle kullanmakla, 365. maddesine göre de kiralananın bakımını gereği gibi sağlamakla yükümlüdür.Dava konusu olayın gerçekleştiğinin iddia edildiği yapı olan ....'nin maliki, intifa hakkı sahibi veya oturma hakkı sahibinin husumet yönünden değerlendirilmesi için bu hususta Tapu Müdürlüğüne ve Gaziemir belediyesi'ne müzekkere yazılmıştır.
@@ -88,12 +116,16 @@ Yazı cevaplarından şirketin yapı malikinin .... olduğu veya işletmecisi de
 
 ## İstanbul BAM 17. HD 2025/1522 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1183697800)
+
 HD. 08/11/2018 T. 2015/19453 E. 2018/10373 K. Sayılı ilamı)Somut olayda, alınan son bilirkişi heyeti teknik raporuna göre, binada yangın sisteminin kurulmaması nedeniyle yapı maliki olan davalı ... ... Ortaklığı A.Ş’nin kusurlu olduğu tespit edilmiş olup yangına sebebiyet verdiği kesinleşen ceza dosyasında sabit olan gerçek kişi davalıların (üçüncü kişi) eylemiyle yangın gerçekleşmişse de yukarıda değinilen Yargıtay ilamı gereğince bina malikinin ek kusuru varsa illiyet bağı kesilmeyeceğinden mahkemece bina malikinin sorumluluğuna gidilmesi yerinde olmuştur. Elektronik Cihaz Sigorta Poliçesi ile poliçede belirtilen şartlar ve limitler dahilinde sigorta ettireni ... Bilişim Teknolojileri San. ve Tic. A.Ş. ve sigortalısı ... Finansal Kiralama A.Ş. olan 491 adet ses ve görüntü cihazlarının 158 adedinin sigorta ettiren ... Bilişim Teknolojileri San. ve Tic. A.Ş. tarafından davalı ... Teknolojileri San. Tic. Ltd. Şti.’ye kiralandığı, cihazların bu davalı tarafından da ...
 Yapımcılık ve Reklamcılık Dağıtım A.Ş.’ye alt kira sözleşmesi ile kiralandığı, diğer davalı ... şirketinin başka bir stüdyoda yer alan dekor söküm işini gerçek kişi davalılara verdiği, bu davalıların kesinleşen ceza dosyasındaki tespitlere göre TBK 49 gereğince haksız fiilleri neticesinde yangına sebebiyet verdikleri anlaşılmıştır.Davalı gerçek kişiler, kararı istinaf
 
 etmediğinden bu kişilerin zarardan sorumlu oldukları yönündeki mahkeme kararının artık kesinleştiği anlaşılmıştır. 6098 Sayılı TBK.’nun 316/1. maddesi hükmü uyarınca kiracı kiralanan taşınmaz ya da menkul malı özenle kullanmak ve TBK'nun 334. maddesi gereğince de sözleşme sonunda aldığı hali ile kiraya verene teslim etmekle yükümlüdür. Kiracının bu yükümlülüğünün ihlali halinde kiraya veren, bu yüzden uğradığı zarar için giderim isteminde bulunabilir. Cihazlarda oluşan hasar, uygun kullanma dolayısıyla meydana gelen zarar niteliğinde olmadığından cihazları alt kira ile kullanan davalı ... Teknolojileri San. Tic. Ltd. Şti. nin zarardan sorumlu olduğu gözetildiğinde bu davalı yönünden istinaf sebebi yerinde görülmemiştir.Gerçek kişi davalılar ile davalı ... Radyo (... Yapım şirketi-... TV) arasındaki ilişkinin tespiti gerekmektedir.
 
 ## İzmir BAM 11. HD 2025/595 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1132533500)
 
 6098 sayılı Türk Borçlar Kanunu'nun 69. (818 s. BK 58.) maddesinde düzenlenen bina ve yapı eseri malikinin sorumluluğu, kusursuz sorumluluk türü olan özen (olağan sebep) sorumluluğudur. 6098 sayılı TBK'nun 69/1. maddesinde "Bir binanın veya diğer yapı eserlerinin maliki, bunların yapımındaki bozukluklardan veya bakımındaki eksikliklerden doğan zararı gidermekle yükümlüdür." denilmektedir. Bina veya yapı eseri malikinin sorumluluğu, yapı eserinin yapımındaki bozukluğa veya bakımındaki eksikliğe dayanmaktadır. Sorumluluğun doğmasında, yapılıştaki bozukluk-bakım eksikliği ayrımının bir önemi bulunmamaktadır. Zira, malikin sorumlu olması için bakım eksikliği veya yapılıştaki bozukluktan herhangi birinin varlığı yeterli görülmektedir. Her iki olasılıkta da yalnızca malikin sorumluluğu söz konusu olmaktadır. Bina veya yapı eseri malikinin sorumlu tutulabilmesi için; yapım bozukluğu veya bakım eksikliğinden zararın doğması, yapım bozukluğu veya bakım eksikliği ile zarar arasında uygun illiyet bağının bulunması yeterlidir.
 Bina veya yapı eseri malikinin sorumluluğu bakımından bulunması zorunlu unsur olan illiyet bağı yönünden ise, bu bağın kesilmesine yol açacak sebeplerin somut olayda gerçekleşmemiş olması gereklidir. İlliyet bağını kesen sebepler ise; mücbir sebep ve zarar görenin ya da üçüncü kişinin ağır kusurudur. Zarar, aradaki illiyet bağını kesecek derecede bir mücbir sebepten, zarar görenin ya da üçüncü bir kişinin kusurundan doğmuş ise yapı malikinin sorumluluğu sözkonusu olmaz (Yargıtay HGK 29.11.2017 tarih, 2017/3-439 Esas ve 2017/1463 Karar sayılı ilamı). 6098 sayılı TBK'nun 49. maddesine göre; kusurlu ve hukuka aykırı bir fiille başkasına zarar veren, bu zararı gidermekle yükümlüdür. 6098 sayılı TBK'nın 316. maddesine göre, kiracı kiralananı sözleşmeye uygun olarak özenle kullanmakla, 365. maddesine göre de kiralananın bakımını gereği gibi sağlamakla yükümlüdür.

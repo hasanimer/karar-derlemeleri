@@ -21,6 +21,8 @@ uyari: "Derleyenin seçtiği alıntılardır; kararın tamamı değildir. Künye
 
 ## Yargıtay 12. HD 2023/2083 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/887230100)
+
 Davalı tarafından ödenmesi gereken kira bedeli taraflar arasındaki yazılı kira sözleşmesi ve ek protokol ile yasal düzenlemeler çevresinde belirleneceğinden davalı kiracı tarafından 2020 yılı kira bedeli olarak yatırılan miktarın hesaplanan değerden fazla olması, kira bedelinin tadil edildiği anlamına gelmeyeceği, davacı tarafça 2020 yılı kira bedelinin yatırılan miktar olarak belirlendiği yönünde davalı tarafın imzasını taşıyan yazılı bir belge ibraz etmediği gibi davalı tarafın bu yönde açıkça bir kabulünün de bulunmadığı…
 
 ## İstanbul BAM 2024/375 K.

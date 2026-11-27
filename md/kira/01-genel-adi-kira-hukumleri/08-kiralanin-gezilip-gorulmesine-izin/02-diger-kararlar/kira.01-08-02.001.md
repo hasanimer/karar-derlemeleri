@@ -21,9 +21,13 @@ uyari: "Derleyenin seçtiği alıntılardır; kararın tamamı değildir. Künye
 
 ## Yargıtay 6. HD 2015/6125 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/135655000)
+
 Türk Borçlar Kanunu'nda kiracının borçları başlığındaki düzenlemede, kiralananın gösterilmesine katlanma borcunun varlığından bahsedilerek, bu husus T.B.K.'nun 319.maddesinde açıklanmıştır. T.B.K. 319/2.fıkrasında "Kiracı, bakım, satış ya da sonraki kiralama için zorunlu olduğu ölçüde, kiraya verenin ve onun belirlediği üçüncü kişinin kiralananı gezip görmesine izin vermekle yükümlü olduğu, T.B.K.'nun 319/3 fıkrasında ise "Kiraya verenin, çalışmaları ve kiralananın gezilip görüleceğini uygun bir süre önce kiracıya bildirmek ve bunların yapıldığı sırada kiracının yararlarını gözönünde tutmak zorunda" olduğu belirtilmiştir.
 
 ## Yargıtay 13. HD 2008/15709 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/841019400)
 
 Dava konusu olayda, davacının bu yöndeki talebi üzerine, davalı da tercihen cumartesi günleri makul bir süre ile sınırlı olmak üzere kiralananın gezilip görülmesine izin verilmesini kabul etmiş olup, mahkemece tarafların tercihleri de göz önünde tutularak kiralananın, altı ... süreyle cumartesi günleri 13.00-17.00 saatleri arasında, satın almak isteyen müşteriler tarafından gezilip görülmesine izin verilmesine karar verilmişse de, iznin geçerli olacağı altı aylık sürenin, hangi esaslara göre belirlendiği belirtilmediği gibi, söz konusu iznin altı ... süresince her cumartesi saat 13.00 ile 17.00 saatleri arasında uzun ve
 

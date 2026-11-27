@@ -49,10 +49,14 @@ Görüleceği üzere inanç sözleşmesinin yazılı biçimde yapılması ve bu 
 
 ## Yargıtay HGK 2005/512 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/76892000)
+
 Füruu yararına yapılan bağış konusu Medeni Kanunun 603.maddesinin ikinci fıkrasında özel olarak düzenlemiştir. Hukuk Genel Kurulunun 06.02.1991 gün, 1990/2-576 E., 1991/45 K. sayılı kararında da açıkça vurgulandığı üzere asıl olan miras bırakanın arzusuna saygı göstermektir. Miras bırakanın açık bir irade beyanında bulunması halinde bu irade esas alınacaktır. Aksi halde yasal düzenlemenin getirdiği ilkelerden hareket olunmalıdır. Füruu yararına bağışları düzenleyen 2.fıkra bütün olarak değerlendirildiğinde görülecektir ki yasa koyucu ortaya bir karine koymuştur. “Füruu yararına yapılan bağışlar onun miras payına mahsuben yapılmıştır ve iadeye tabidir”. Bu karine aslında bir babanın çocukları arasında eşit davranması yolundaki tabii duyguya da uygun düşmektedir. Yasa Koyucu, babanın çocukları arasında bir ayrım yapma gereğinin de hayatın olağan akışı içerisinde belirebileceğini göstererek miras bırakanın bu yolda hareket edebilme olanağını da, getirdiği düzenlemede “hilafına açıkça bir teberru yapılmış olmadıkça” sözlerini kullanmak suretiyle açmıştır.
 O halde iade borcunda Medeni Kanununun 6.maddesindeki genel kural uyarınca ispat yükü öncelikle iade isteyen fürua düşerse de iade isteyen, iadeye tabi olduğunda uyuşmazlık olmayan mallarda az önce açıklanan yasal karineden yararlanacağından ispat yükü yer değiştirerek karinenin aksini savunan, lehine tasarrufta bulunulan füruun bağışın iadeye tabi olmadan yapıldığını ispat zorunda bulunduğunun kabulü gerekir. Bu kurallar bağışın iadeye tabi mallardan bulunduğunun uyuşmazlık konusu olmaması halinde uygulanacaktır.
 
 ## Yargıtay HGK 2005/1 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/76534800)
 
 Durum bu olunca, alacaklı/davacı anılan maddede kendisi yararına getirilen karineden yararlanmak durumundadır. Bu karine ile, bir taraftan borçlunun alacaklılarını ızrar kastı ile hareket ettiği ve diğer taraftan da üçüncü kişinin bu kastı bildiği kabul edilerek alacaklı ispat külfetinden kurtarılmıştır.İspat yükü kendisinde olan davalı taraf, bu karineyi çürütecek bir delile de dayanmamış; eş söyleyişle, Kanunun öngördüğü yasal karinenin aksini kanıtlayacak usulü işlemlerin davalı borçlu tarafından yerine getirildiğini iddia ve ispat edememiştir. Bu durumda, karinenin davacı lehine gerçekleştiğinin kabulü gerekmiştir.
 
@@ -70,15 +74,21 @@ Hemen belirtmek gerekir ki, icra mahkemesine şikayet üzerine haciz mahallindek
 
 ## Yargıtay 21. HD 2014/22374 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/107573200)
+
 Bu davada çözümlenmesi gereken hukuki sorun, hangi durumda gerçek bir çıraklık ilişkisinden söz edileceği noktasında toplanmaktadır. Çıraklık Kanunu'na göre kurulan çıraklık okullarında okuyanlar çırak sayılır. Taraflar arasındaki ilişkinin niteliğini belirlemede, bir başka ifade ile davacının dava konusu dönemde çırak olup olmadığına karar verirken çıraklık sözleşmesi hükümlerine göre değil, çalışma ilişkisine bakarak bir sonuca varmalıdır. Gerçekten Çıraklık Sözleşmesinde akdi ilişkinin üstün niteliği çalışma değil, bir meslek ve sanatın öğretilmesidir. Çırak işyerinde üretimle ilgili çalışmalara bilfiil katılıyor, meslek ve sanat eğitimi arka planda tutuluyor ise bu durumda, çıraklık ilişkisinden söz edilemez. Zira burada gerçekleşen; işçinin emeğiyle işyeri ve işverene katkıda bulunmasıdır ki bu da ancak bir hizmet ilişkisi ile söz konusu olur. Kişi Kurumca çırak olarak bildirilmiş ise, çırak olmadığını ispat külfeti kişiye düşer.
 Taraflar arasındaki ilişkinin hukuki niteliği tespit edilirken, daha doğrusu davacının davalı işyerinde çırak olarak çalışmakta iken 19 yaşından gün almaya başladığı tarihten itibaren çalışmasına çırak olarak mı yoksa diğer kadrolu işçiler gibi üretime yönelik mi çalıştığı sorusuna cevap bulabilmek için “çalışma ilişkisine ve biçimine” bakmak gerekmektedir.
 
 ## Yargıtay 20. HD 2014/8170 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/385866700)
+
 İncelenen dosya kapsamına göre, dava konusu taşınmazın, davanın tarafı gerçek kişilerin ortak miras bırakanı ...'dan kaldığı hususunda taraflar arasında uyuşmazlık bulunmamaktadır. Taraflar arasındaki uyuşmazlık, çekişmeli taşınmazın muris tarafından davalı olup yargılama sırasında öldüğü anlaşılan ...'a bağışlanıp bağışlanmadığı hususundadır. Davalı ..., bağış iddiasında bulunduğundan ispat külfeti davalı yanda olup bu iddiasını ispat için 10.03.1948 tarihli bağış senedine dayanmıştır. Tapusuz taşınmazların bağışı şekle tâbi olmayıp, zilyetliğin devir ve teslimi ile tamamlanmaktadır. Her nekadar davalı ile miras bırakanı arasında ibraz olunan bağış senedi bulunmakta ise de, taşınmazın zilyetliğinin murisin ölüm gününe kadar davalıya devir ve teslim edilmemiştir. Şöyle ki; ... Nahiyesi Sulh Hukuk Mahkemesinde 1953/16 Esas sayı ile muris tarafından davalı ... 'a elatmanın önlenmesi davası açılmış ve 17.01.1955 gün 1955/5 karar sayı ile karar verilmiştir.
 Ayrıca, yapılan keşiflerde taşınmaz başında dinlenen yerel bilirkişi ve taraf tanıklarının beyanlarından ölüm gününe kadar davalı taşınmazın murisin zilyetliğinde olduğu belirlendiği gibi murisin ölümünden sonra da mirasçılar arasında 1956 yılında taksim yapıldığı ve 1 yıl sonra bozulduğu, yine 28 Şubat 1974 tarih 1463 yevmiye ile Noterde düzenlenmek suretiyle taksim yapıldığı ancak bozulduğu anlaşıldığından, davalı tarafın taşınmazın, bağış suretiyle kendisine devrediği iddiası, zilyetliğin devir ve teslim edilmediğinden tamamlanmış olup geçerli kabul edilemez.
 
 ## Yargıtay 14. HD 2013/11439 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/655451100)
 
 … bildirerek satış bedeli olarak 51.000 TL ödeme yapıldığını ve 70.000 TL bedelli senet verildiğini beyan etmiştir. Görüldüğü üzere satış bedelinde taraflar arasında uyuşmazlık bulunmaktadır. Bu durumda, öncelikle dava konusu bağımsız bölümün satışın yapıldığı tarihteki rayiç değeri araştırılarak saptanmalıdır. Satış bedelinin ödenip ödenmediği hususunda ispat yükü davacıya ait olduğundan daha sonra davacının bu konudaki delilleri toplanarak ödenen bedelin bulunması, satışta ödenmeyen bir kısım bedel olduğu takdirde davacıya bu bedeli ödemesi için süre verilerek sonucuna göre bir hüküm kurulması gerekir.
 

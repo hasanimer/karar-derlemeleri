@@ -20,25 +20,37 @@ uyari: "Derleyenin seçtiği alıntılardır; kararın tamamı değildir. Künye
 
 ## Yargıtay HGK 2025/752 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1200900000)
+
 Sözleşmenin yorumuna ilişkin olarak BK'nın 18/1. maddesi "Bir akdin şekil ve şartlarını tayininde, iki tarafın gerek sehven gerek akitteki hakiki maksatlarını gizlemek için kullandıkları tabirlere ve isimlere bakılmıyarak, onların hakiki ve müşterek maksatlarını aramak lazımdır." düzenlemesini öngörmüştür. Aynı husus 6098 sayılı Türk Borçlar Kanunu'nun 19/1. maddesinde “Bir sözleşmenin türünün ve içeriğinin belirlenmesinde ve yorumlanmasında, tarafların yanlışlıkla veya gerçek amaçlarını gizlemek için kullandıkları sözcüklere bakılmaksızın, gerçek ve ortak iradeleri esas alınır.” şeklinde düzenlenmiştir.
 
 ## Yargıtay HGK 2025/540 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1178771300)
 
 Sözleşmenin yorumuna ilişkin olarak TBK’nın 19/1. maddesinde “Bir sözleşmenin türünün ve içeriğinin belirlenmesinde ve yorumlanmasında, tarafların yanlışlıkla veya gerçek amaçlarını gizlemek için kullandıkları sözcüklere bakılmaksızın, gerçek ve ortak iradeleri esas alınır.” düzenlemesi bulunmaktadır.
 
 ## Yargıtay HGK 2025/415 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1163824700)
+
 “…Uyuşmazlığa uygulanması gereken 6098 sayılı Türk Borçlar Kanunu’nun "Sözleşmelerin Yorumu” başlıklı 19. maddesine göre; bir sözleşmenin türünün ve içeriğinin belirlenmesinde ve yorumlanmasında, tarafların yanlışlıkla veya gerçek amaçlarını gizlemek için kullandıkları sözcüklere bakılmaksızın, gerçek ve ortak iradeleri esas alınır. Sözleşmenin yorumunda amaç, taraflarının birbirine uygun gerçek iradelerini tespit edebilmektir. Sözleşme yorumlanırken öncelikle tarafların kullandıkları ifadeler ve kelimeler dikkate alınmalı ancak bunlar metnin bütünlüğü içinde yorumlanmalıdır. Sözleşmedeki ifadelerin yeterince açık olmaması yahut metnin muğlak olması halinde tarafların iradelerini ortaya koymaya imkân veren yardımcı olgulara bakılmalıdır. Bu bağlamda; tarafların sözleşme müzakereleri ve sözleşmenin kurulması sırasındaki, ifa hazırlıkları aşamasındaki, sonrasındaki davranışları, menfaat durumları, amaçlarıyla, ilgili âdet ve teamüller dikkate alınmalı ve yorum yapılırken elbette dayanağı 4721 sayılı Türk Medeni Kanunu’nun 2. maddesi olan dürüstlük kuralı da gözden kaçırılmamalıdır.
 
 ## Yargıtay HGK 2025/413 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1163536700)
 
 Öte yandan mülga 818 sayılı Borçlar Kanunu’nun 18. maddesi ile aynı doğrultuda düzenleme içeren 6098 sayılı Türk Borçlar Kanunu’nun 19. maddesi uyarınca bir sözleşmenin türünün ve içeriğinin belirlenmesinde ve yorumlanmasında, tarafların yanlışlıkla veya gerçek amaçlarını gizlemek için kullandıkları sözcüklere bakılmaksızın gerçek ve ortak iradeleri esas alınır ve borçlu yazılı bir borç tanımasına güvenerek alacağı kazanmış olan üçüncü kişiye karşı bu işlemin muvazaalı olduğu savunmasında bulunamaz.
 
 ## Yargıtay HGK 2023/419 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/920358700)
+
 Öte yandan 6100 sayılı Hukuk Muhakemeleri Kanunu'nun (6100 sayılı Kanun) 33 üncü maddesi uyarınca Türk Hukukunu resen uygulamakla görevli olan hâkimin 6098 sayılı Kanun'un 19 uncu maddesindeki "Bir sözleşmenin türünün ve içeriğinin belirlenmesinde ve yorumlanmasında, tarafların yanlışlıkla veya gerçek amaçlarını gizlemek için kullandıkları sözcüklere bakılmaksızın, gerçek ve ortak iradeleri esas alınır." hükmünü de göz önünde tutarak tarafların hukuki nitelendirmesi ile bağlı olmaksızın fiili durumun gerçek hukuki nitelendirmesini yaparak uygulanacak hükümleri belirlemesi gerektiği açıktır.
 
 ## Yargıtay HGK 2015/1047 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/112898600)
 
 Bir irade beyanının gerçek anlamını tespite yorum (tefsir) denir. Bütün hukuki işlemlerdeki kesinlik ifade etmeyen irade beyanlarının gerçek anlam ve amacı, hakim tarafından 4721 sayılı Türk Medeni Kanunu'nun m.2 ve 818 sayılı Borçlar Kanunu’nun 18/I.maddesine (6098 sayılı Türk Borçlar Kanunu m.19) göre, yorum yoluyla tespit edilmelidir.
 
@@ -52,17 +64,25 @@ Yorumda genel kural tarafların ortak amaçlarını tespit etmek olduğundan laf
 
 ## Yargıtay 11. HD 2023/2131 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/932382700)
+
 Bir sözleşmede uyarlamanın mümkün olup olmaması sözleşme türüne ve sözleşmede yer alan edimlere göre değişkenlik arz edebilir. Bu noktada sözleşmenin türünü nitelendirmek önem arz eder. 6098 sayılı Kanun'un 19 uncu maddesinin birinci fıkrasındaki "Bir sözleşmenin türünün ve içeriğinin belirlenmesinde ve yorumlanmasında, tarafların yanlışlıkla veya gerçek amaçlarını gizlemek için kullandıkları sözcüklere bakılmaksızın, gerçek ve ortak iradeleri esas alınır" düzenlemesi uyarınca, tarafların yazılı veya sözlü akdedilen sözleşmenin türüne ilişkin nitelendirmeleri mahkemeleri bağlamaz. Bu açıdan yapılması gereken tarafların gerçek ve ortak iradesine ve sözleşmedeki edimlerin niteliğine göre sözleşmenin türünün belirlenmesidir.
 
 ## Yargıtay 9. HD 2019/1666 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/481040600)
 
 2- 6098 sayılı Türk Borçlar Kanunu'nun 19 ve 6100 sayılı HMK.nın 33. maddeleri uyarınca yargıç tarafların hukuki nitelendirmesi ile bağlı değildir. Yargıç aradaki sözleşmesel ilişkiyi yorumlar, sözleşme türünü ve içeriğini kendisi belirler. Tarafların gerçek ve ortak iradelerini esas alır, aradaki hukuki ilişkiyi tespit eder.
 
 ## Yargıtay 9. HD 2016/20630 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/274970100)
+
 Belirtmek gerekir ki 6098 sayılı Türk Borçlar Kanununun 19 ve 6100 sayılı HMK.’un 33. maddeleri uyarınca yargıç tarafların hukuki nitelendirmesi ile bağlı değildir. Yargıç aradaki sözleşmesel ilişkiyi yorumlar, sözleşme türünü ve içeriğini kendisi belirler. Tarafların gerçek ve ortak iradelerini esas alır. Bu nedenle taraflar arasındaki sözleşmenin iş, vekalet, eser veya acentelik sözleşmesi olduğunu nitelendirilmesi yargıca aittir.
 
 ## Yargıtay 22. HD 2012/28692 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/834428700)
 
 Nihayet 6098 sayılı Borçlar Kanunu’nun 19’uncu maddesinde, “Bir sözleşmenin türünün ve içeriğinin belirlenmesinde ve yorumlanmasında, tarafların yanlışlıkla veya gerçek amaçlarını gizlemek için kullandıkları sözcüklere bakılmaksızın, gerçek ve ortak iradeleri esas alınır…” hükmü yer almıştır.
 
@@ -81,6 +101,8 @@ TBK.19.maddeye göre "bir sözleşmenin türünün ve içeriğinin belirlenmesin
 
 ## Ankara BAM 24. HD 2025/1898 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1175462500)
+
 6098 sayılı Türk Borçlar Kanunu'nun 19 uncu maddesi gereğince; bir sözleşmenin türünün ve içeriğinin belirlenmesinde ve yorumlanmasında, tarafların yanlışlıkla veya gerçek amaçlarını gizlemek için kullandıkları sözcüklere bakılmaksızın gerçek ve ortak iradeleri esas alınır. Aynı Kanun'un 26 ncı maddesi gereği de taraflar, bir sözleşmenin içeriğini kanunda öngörülen sınırlar içinde özgürce belirleyebilecektir.
 
 ## Bursa BAM 7. HD 2025/1541 K.
@@ -89,9 +111,13 @@ Bir sözleşmenin niteliğini, yazılışı ve taşıdığı hükümler tayin ed
 
 ## Sakarya BAM 7. HD 2025/639 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1135065700)
+
 Sözleşmelerin yorumunu düzenleyen TBK md.19 hükmüne göre, “Bir sözleşmenin türünün ve içeriğinin belirlenmesinde ve yorumlanmasında, tarafların yanlışlıkla veya gerçek amaçlarını gizlemek için kullandıkları sözcüklere bakılmaksızın, gerçek ve ortak iradeleri esas alınır”. Bu doğrultuda sözleşmenin yorumunda amaç, ilk aşamada sözleşme taraflarının birbirine uygun gerçek iradelerini tespit edebilmektir.
 
 ## Konya BAM 6. HD 2024/1935 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1105478000)
 
 Çekte açık veya gizli (örtülü) rehin cirosu geçersizdir. Buna karşılık diğer kambiyo senetlerinde olduğu gibi çekte de teminat amacıyla inançlı temlik cirosu yapılabilir. Bu itibarla her ikisi de görünüşte temlik cirosu olarak yapıldığından bu cironun teminat amacıyla inançlı temlik cirosu mu yoksa gizli (örtülü) rehin cirosu mu olarak nitelendirileceği önemli bir husustur. Başka bir deyişle görünüşte temlik cirosu şeklinde olan bir cironun gizli (örtülü) rehin cirosu mu yoksa teminat amacıyla inançlı temlik cirosu mu olduğunu tespit etmek, ekonomik işlevleri aynı olmakla birlikte özellikle çeklerde bu ciroların hukuki sonuçlarının çok farklı olması göz önüne alındığında büyük önem taşıdığı ortadadır. Gerçekten de çeklerde yapılan cironun gizli (örtülü) rehin cirosu kabul edilmesi hâlinde ciro geçersiz olurken; teminat amacıyla inançlı temlik cirosu olarak kabul edilmesi hâlinde ise geçerli bir cironun varlığından söz edilecektir. Her ikisi de teminat vermek amacıyla yapılan ve birbiriyle karıştırılma ihtimali yüksek olan bu iki tür ciroyu birbirinden ayırmak için tarafların iradesine bakılmalıdır.
 Tarafların kullandığı "rehin" ve "teminat" sözcüklerinde gizli (örtülü) rehin cirosunun, "temlik" sözcüğünden ise teminat amaçlı inançlı temlik cirosunun varlığı sonucu çıkarılmamalıdır. Bu kapsamda bankaların kredi müşterileri ile düzenledikleri çek tevdi bordroları da tek başına çekin rehin cirosu olduğunu göstermemektedir. Zira 6098 sayılı Türk Borçlar Kanunu'nun 19 uncu maddesinin birinci fıkrası gereğince; bir sözleşmenin türünün ve içeriğinin belirlenmesinde ve yorumlanmasında, tarafların yanlışlıkla veya gerçek amaçlarını gizlemek için kullandıkları sözcüklere bakılmaksızın, gerçek ve ortak iradeleri esas alınır. Gerçekten de uygulamada çoğu zaman yapılan ciroya ilişkin terimlerin seçiminde özen gösterilmemekte ve bu terimler yanlışlıkla birbirlerinin yerine kullanılabilmektedir.

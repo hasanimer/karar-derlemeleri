@@ -25,9 +25,13 @@ uyari: "Derleyenin seçtiği alıntılardır; kararın tamamı değildir. Künye
 
 ## Yargıtay 3. HD 2019/393 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/495919900)
+
 Somut olayda; taraflar arasında imzalanan 01.02.2007 başlangıç tarihli ve 5 yıl süreli kira sözleşmesi konusunda uyuşmazlık bulunmamaktadır. Mahkemece yapılan keşif sonrası alınan bilirkişi raporu ile; kiralananın kapalı alanının 80 m2, açık alanının ise yaklaşık 631m2 yüzölçümünde olduğu belirlenmiştir. Bu belirlemeye göre kiralanan taşınmazın TBK.nun genel hükümlerine tabi bulunduğu anlaşılmaktadır. **Uyuşmazlığa konu olan kiralanan Borçlar Kanunu'nun genel hükümlerine tabi bir taşınmaz kirası olup konut ve çatılı işyeri kiralarına uygulanan TBK.nun 339. 344. maddesi ve devamı maddeleri hükümlerinden faydalanamaz**. Buna göre mahkemece davanın reddine karar verilmesi gerekirken yazılı şekilde davanın kabulüne karar verilmesi doğru değildir.
 
 ## Yargıtay 3. HD 2017/15002 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/379431100)
 
 Kanunun dördüncü bölümünde sıralanmıştır. Kiralanan yerin gayri musakkaf vasıfta olması halinde 6098 Sayılı Türk Borçlar Kanunu'nun 299. maddesi ve devamı maddelerinde düzenlenen Genel hükümlere tabi yerlere ilişkin kira sözleşmesi hükümleri, **kiralanan yerin musakkaf vasıfta olması halinde ise aynı kanunun 339. ve devamı maddelerinde düzenlenen konut ve çatılı işyeri kira sözleşmelerine ilişkin kanun maddeleri uygulanacaktır**.
 
@@ -36,6 +40,8 @@ Dava yeni malikin gereksinimi nedeniyle tahliye ve kira bedelinin tahsili istemi
 değerlendirilerek sonucuna göre karar verilmesi gerekirken yazılı şekilde davanın kabulüne karar verilmesi doğru değildir.
 
 ## Yargıtay 3. HD 2025/4653 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1180935200)
 
 … davacı tarafça, kiralanan bilboardların 6098 sayılı Kanun'un 347. maddesine göre tahliyesi talep edilmiş ise de, **söz konusu hükmün çatılı işyerleri ve konut kiralarına ilişkin bulunduğu**, bu durumda uyuşmazlığın 6098 sayılı Kanun'un 299 vd. maddelerine göre çözümlenmesi…
 

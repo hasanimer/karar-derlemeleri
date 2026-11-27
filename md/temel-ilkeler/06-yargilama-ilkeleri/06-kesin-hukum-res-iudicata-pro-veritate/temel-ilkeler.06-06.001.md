@@ -37,13 +37,19 @@ Davanın geri alınması kavramının öncelikle ve özellikle karıştırılmam
 
 ## Yargıtay HGK 2025/769 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1200870400)
+
 Hukuk Muhakemeleri Kanunu’nun 374. maddesi ile maddi anlamda kesin hükmün bertaraf edilmesini sağlamak amacıyla öngörülen yargılamanın iadesi; kesin olarak verilen veya kesinleşmiş hükümlere karşı istenebilir (Süha Tanrıver, Medeni Usul Hukuku, Ankara-2022, C. II, s. 142). Dolayısıyla yargılamanın iadesi yolu, kesinleşmiş hükümlere karşı başvurulan istisnai bir yoldur. Eğer ki mahkemenin kararı şeklen kesinleşmemişse veya şeklen kesinleşmiş olsa dahi maddi anlamda kesin hüküm oluşturmuyorsa yargılamanın iadesi yoluna gidilemez. Dolayısıyla ortada henüz kesinleşmiş bir karar yoksa, başvuru imkânları tüketilmemişse veya karar kesinleşmiş görünse dahi hükmün başka şekillerde yeniden ele alınıp incelenmesi mümkün ise yargılamanın iadesi talebi hukuki yarar yokluğundan reddedilmelidir. Nitekim Yargıtay Hukuk Genel Kurulunun 19.03.2003 tarihli ve 2003/6-169 Esas, 2003/183 Karar sayılı kararında bu hususa işaret edilerek, usulsüz tebligatın yargılamanın yenilenmesi isteminin kabulü sonucu doğurmayacağı, zira usulsüz olarak tebliğ edilen bir kararın zaten kesinleşmiş bir karar olmadığı, şeklen kesinleştirme yapılmış olmasının da sonuca etkili olmayacağı açıklanmıştır.
 
 ## Yargıtay HGK 2006/68 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/16155700)
+
 Gezici Arazi Kadastro Mahkemesine konu olan davanın tarafları ile derdest dosyanın tarafları, hukuki sebepleri ve davanın konusu aynı olduğundan HUMK'nın 237. maddesi anlamında taraflar arasında kesin hüküm teşkil ettiğinde duraksamamak gerekir. Bu nedenle, bu hüküm davacı ile davalı Orman Yönetimini hukuken bağlar. Bundan ayrı, 11.12.1959 gün ve 10/12 sayılı Yargıtay İçtihatları Birleştirme Kararıyla, İİK'nın 39 ve BK'nın 135/2. maddeleri gereğince, "aynı hakkı geçiren veya aynı hakkın kurulması hükmünü taşıyan ilamların zamanaşımına uğramayacağı" açıktır.
 
 ## Yargıtay HGK 2005/725 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/77049400)
 
 Yine, hasımsız olarak açılan ve çekişmesiz yargıya tabi davalarda verilen kararlar kesin hüküm teşkil etmez. O nedenle bu kararlar, aleyhine kanun yoluna başvurulsa bile kesin hüküm oluşturmadıklarından, açılacak bir iptal davası ile değiştirilebilir ve ortadan kaldırılabilirler (Prof.Dr. Baki Kuru, Nizasız Kaza, Ankara 1961, s:155 vd. Prof. Dr. Saim Üstündağ, Medeni Yargılama Hukuku, İstanbul 1992, 5.Bası, s:32) .
 
@@ -61,6 +67,8 @@ Maddi anlamda kesin hükmün koşulları HMK'nın 303. maddesinde açıklanmış
 
 ## Yargıtay 14. HD 2014/7134 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/106003700)
+
 Dava konusu 434 ve 461 parsel sayılı taşınmazların, taraflar arasında elbirliği mülkiyeti hükümlerine göre tapuda kayıtlı olduğu, Malkara Sulh Hukuk Mahkemesinin 2005/809 Esas 2007/488 Karar sayılı ilamı ile 4.. ve 4.. parsel sayılı taşınmazların da içinde bulunduğu taşınmazlar yönünden ortaklığın satış suretiyle giderilmesine karar verilmiş ve bu karar 10.03.2008 tarihinde kesinleşmiştir. Aynı dosyada 02.07.2008 tarihli ilam ile 4.. parsel sayılı taşınmazın da ortaklığının satış suretiyle giderilmesine karar verilmiş ise de bu kararın kesinleşmediği anlaşılmaktadır. Satış yolu ile ortaklığın giderilmesine ilişkin ilamlar kararın kesinleşmesinden itibaren 10 yıl geçtikten sonra zamanaşımına uğrar. Tarafları, konusu ve sebebi aynı olan ilamın kesinleşmesinden itibaren henüz 10 yıl geçmediğine göre Malkara Sulh Hukuk Mahkemesinin 2005/809 Esas 2007/488 Karar sayılı ilamının eldeki bu davada 4... ve 4.. parsel sayılı taşınmazlar yönünden kesin hüküm teşkil eder. Kesin hüküm, dava şartı olup mahkemece davanın her aşamasında kendiliğinden gözetilmesi gerekir.
 Bu nedenlerle, 434 ve 461 parsel sayılı taşınmazlar yönünden 6100 sayılı HMK'nın 114 vd. maddeleri gereğince davanın usulden reddine karar verilmesi gerekirken aynı parseller hakkında yeniden ortaklığın satış suretiyle giderilmesine karar verilmesi doğru görülmemiştir.
 
@@ -77,5 +85,7 @@ Kesin hüküm itirazı, davanın her aşamasında ileri sürülebilir ve mahkeme
 Maddi anlamda kesin hükmün koşulları HMK’nın 303/1 inci maddesinde açıklanmıştır. Buna göre “Bir davaya ait şekli anlamda kesinleşmiş olan hükmün, diğer bir davada maddi anlamda kesin hüküm oluşturabilmesi için, her iki davanın taraflarının, dava sebeplerinin ve ilk davanın hüküm fıkrası ile ikinci davaya ait talep sonucunun aynı olması gerekir”. Bu hükümden de anlaşılacağı üzere, kesin hükmün ilk koşulu her iki davanın taraflarının aynı kişiler olması, ikinci koşulu müddeabihin aynılığı, üçüncü koşulu ise dava sebebinin aynı olmasıdır.
 
 ## Ankara BAM 21. HD 2024/1597 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1111445200)
 
 Davacının tespit davası ile istediği hukuki korumanın diğer dava çeşitlerinden birisi ile sağlanabilmesi halinde tespit davası açmakta hukuki yararının var olduğundan söz edilemez. Tespit davası öncü davadır. Eda davasından hasıl olacak sonuç tespit davası ile elde edilme yoluna gidilemez. Görülmekte olan veya açılacak bir davada iddia veya savunma olarak ileri sürülebilecek konular için bağımsız bir tespit davası açmakta hukuki yarar yoktur. Eda davası sonunda verilen hüküm ile, aynı zamanda dava konusu hukuki ilişkinin var olup olmadığı da tespit edilir ve ondan sonra bu tespite dayalı olarak eda hükmü kurulur, Yargıtay’ın kararlı uygulamasına göre de, eda davası açmak mümkün ise, tespit davası açılamaz. Anılan kuralın geçerli olabilmesi için, eda davası sonunda verilecek hükmün tespite ilişkin bölümü ile tespit davası sonunda alınacak tespit hükmü arasında, meydana getirdikleri kesin hükmün etkisi bakımından hiç bir fark bulunmaması gerekir. Diğer bir söyleyişle tespit davası ile istenen hukuki korunma, eda davası ile tamamen elde edilebilecekse, o zaman, davacının ayrı bir tespit davası açmakta hukuki yararı yoktur.

@@ -28,17 +28,25 @@ Bir hadisede kanunun iki hükmünün dahi tatbiki mümkün bulunan hallere hukuk
 
 ## Yargıtay HGK 2023/210 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/895608700)
+
 Bu itibarla taraflar arasındaki iş sözleşmesinden bağımsız niteliği nazara alındığında ve rekabet yasağı sözleşmelerinde öngörülebilecek ceza koşuluna dair özel hüküm niteliğinde olan 6098 sayılı Kanun'un 446 ncı maddesi çerçevesinde hizmet sözleşmelerine sadece işçi aleyhine konulan ceza koşulunun geçersiz olacağına dair 6098 sayılı Kanun'un 420 nci maddesinin birinci fıkrasının taraflar arasındaki rekabet yasağı sözleşmesine uygulanma imkânı bulunmamaktadır. Bu sebeple davacı ile davalı arasındaki rekabet yasağı sözleşmesinde, sözleşmenin ihlâli durumunda sadece davalı aleyhine öngörülen ceza koşulu geçerlidir. Bu anlamda anılan ceza koşuluna karşılık olarak davacının herhangi bir karşı edim yükümlülüğünün sözleşmede öngörülmemiş olması, davalı aleyhine öngörülen ceza koşulunun geçerliliğini etkilemez. Dolayısıyla davacı ile davalı arasındaki rekabet yasağı sözleşmesinde, davalı aleyhine öngörülen ceza koşuluna ilişkin geçerli hüküm kapsamında anılan sözleşmenin ihlâli iddiasına dayalı olarak ceza koşulunun tahsilinin talep edilmesi mümkündür.
 
 ## Yargıtay HGK 2021/923 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/685220100)
 
 18\. ... hukukumuzda 854 sayılı Deniz ... Kanunu ile 4857 sayılı ... Kanunu arasında özel kanun-genel kanun ilişkisinin bulunmadığı, bu kanunların tümü için sadece 6098 sayılı Türk Borçlar Kanunu’nun genel kanun niteliğinde olduğu ifade edilmelidir (Çelik, N./Caniklioğlu, N./Canbolat, T: ... Hukuku Dersleri, ... 2019, s.20).
 
 ## Yargıtay HGK 2021/763 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/686753900)
+
 "Yasaların çatışması" olarak da adlandırılan bu gibi durumlarda; a) Sonraki norm, öncekinin yerini alır (Lex Pasterior deraget priori). b) Özel kanun, genel kanundan önce gelir (Lex specialis per generalem non deregatur). c) Açık anlamlı norm, kapalı anlamlı normdan önce gelir, biçiminde kabul edilen temel ilkelerden yararlanılarak sonuca ulaşılmaktadır.
 
 ## Yargıtay HGK 2012/133 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/59582300)
 
 Diğer taraftan; sorumluluğun kaynağıyla ilgili olarak, 2802 sayılı Hakimler ve Savcılar Kanunu’nun 93/A maddesi ile 6100 sayılı Hukuk Muhakemeleri Kanunu’nun 46 ve devamı (mülga 1086 sayılı Hukuk Usulü Muhakemeleri Kanunu’nun 573 ve devamı) maddelerinde az yukarıda anlatılan sınırlayıcı özel hükümlere yer verilmiş iken, 5271 sayılı Ceza Muhakemesi Kanunu’nun 141 ve devamı maddelerinde arama, elkoyma, yakalama ve tutuklama hallerinde bireyin maddi ve manevi zararının giderilmesine yönelik düzenlemeler mevcuttur. Bir başka anlatımla, düzenleme alanları farklıdır.
 
@@ -52,9 +60,13 @@ Konu bu açıdan ele alındığında 1086 sayılı Hukuk Usulü Muhakemeleri Kan
 
 ## Yargıtay 3. HD 2025/1439 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1155501400)
+
 Özel hüküm - genel hüküm ilişkisi ve özel hüküm var iken genel hükmün uygulanamayacağı düşüncesini destekleyen diğer bir düzenleme ise, kanun koyucunun TBK'nın 344/4. maddesindeki düzenlemedir. TBK'nın 344/4.maddesinde "Ancak, bu Kanunun, “Aşırı ifa güçlüğü” başlıklı 138. maddesi hükmü saklıdır." düzenlemesi yalnızca kira sözleşmesinde kira bedelinin yabancı para olarak kararlaştırılmış olması halinde uygulanabilecek bir düzenleme olarak öngörülmüş, ancak, uyuşmazlığa konu TBK.'nun 344/2 ve 3. fıkraları yönünden böyle bir düzenlemeye yer vermemiştir. Bu durum kanun koyucunun kira sözleşmesinin yapıldığı tarihten önceki beş yıl içinde TBK'nın 138. maddesi kapsamında kira bedelinin uyarlanarak arttırılmasına cevaz vermediğini ortaya koymaktadır." denilerek, Bursa Bölge Adliye Mahkemesi 4. Hukuk Dairesi ile İstanbul Bölge Adliye Mahkemesi 54. Hukuk Dairesi arasındaki uyuşmazlığın Bursa Bölge Adliye Mahkemesi 4. Hukuk Dairesi kararı doğrultusunda giderilmesi yönündeki görüşüyle, 5235 sayılı Adli Yargı İlk Derece Mahkemeleri ile Bölge Adliye Mahkemelerinin Kuruluş Görev ve Yetkileri Hakkında Kanun'un 35. maddesi uyarınca uyuşmazlığın giderilmesi talep edilmiştir.
 
 ## Yargıtay 3. HD 2024/781 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1025300400)
 
 Mahkemenin yukarıda tarih ve sayısı belirtilen kararıyla, dosya içindeki tüm deliller birlikte değerlendirildiğinde; her ne kadar davacı tarafından davalının Ankara 7.
 İcra Müdürlüğünün 2015/16120 -E sayılı takip dosyasına vaki itirazının iptaline karar verilmesi talep edilmiş ise de, 5464 sayılı kanunun 44/2 maddesi kart çıkaran kuruluşlar tarafından kart hamilleri hakkında açılacak davalarda 1086 sayılı HUMK'un görev ve yetkiye ilişkin kurallarının uygulanacağını öngörmesi, halen yürürlükte bulunan 6100 sayılı kanunun 447/2 maddesinde yürürlükten kaldırılan 1086 sayılı HUMK'a yapılan yollamaların 6100 Sayılı Kanunun karşılığını oluşturulan maddelerine yapılmış sayılacağı, 6100 Sayılı Kanunun 2/1-2 fıkralarındaki bu kanunda ve diğer kanunlarda aksine bir düzenleme bulunmadıkça asliye hukuk mahkemelerinin görevli olduğuna ilişkin düzenleme ile 6102 sayılı TTK'nun 4/1-f maddesindeki mutlak ticari dava tanımı birlikte değerlendirildiğinde; bir konuda özel hüküm niteliğinde düzenleme bulunması halinde genel hükümlerin uygulanmayacağı da gözetilmek suretiyle davacı tarafından açılan davanın mutlak ticari dava mahiyetinde olduğu ve 5464 sayılı kanunu ile TTK'nun hükümleri birlikte değerlendirildiğinde davaya bakma görevinin 6502 Sayılı Kanun gereğince tüketici mahkemesine değil ticaret mahkemesine ait olduğu gerekçesiyle davanın görev yönünden reddine
@@ -62,26 +74,38 @@ karar verilmiştir.
 
 ## Yargıtay 1. HD 2023/2803 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/933045100)
+
 “Yasaların çatışması” olarak da adlandırılan bu gibi durumlarda sonraki norm, öncekinin yerini alır (lex pasterior deraget priori); özel kanun, genel kanundan önce gelir (lex specialis per generalem non deregatur); açık anlamlı norm, kapalı anlamlı normdan önce gelir biçiminde kabul edilen temel ilkelerden yararlanılmalıdır (Hukuk Genel Kurulunun 01.03.2022 tarihli ve 2019/3-116Esas,2022/231Karar sayılı kararı).
 
 ## Yargıtay 11. HD 2022/7179 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/856687900)
 
 Türk Ticaret Kanunu m. 102/son da saklı tutulan düzenlemeler arasında sigorta acenteleri ile ilgili olarak 6102 sayılı Sigortacılık Kanunu yer alır. Türk Ticaret Kanunu ve Sigortacılık Kanunu arasındaki özel kanun-genel kanun ilişkisi dikkate alındığında, Sigortacılık Kanunu'ndaki acenteye ilişkin hükümler sigorta acenteleri hakkında öncelikle uygulanacaktır. Nitekim Sigortacılık Kanunu m. 23/son hükmü, "Türk Ticaret Kanunu'nun acentelere ilişkin hükümleri sigorta acenteleri hakkında da uygulanır" şeklindedir (ayni yönde TTK m. 120/3). Kısaca, sigorta acenteleri bakımından öncelikle uygulanacak kanun Sigortacılık Kanunu'dur. Bu durum karşısında, genel olarak Türk Ticaret Kanunu m. 122 uyarınca acentenin denkleştirme tazminatı talep edilebilmesi için aranan koşullar; sözleşmenin sona ermesi, yeni müşteriler sayesinde, sözleşme ilişkisinin sona ermesinden sonra da "önemli menfaatler" elde edilmesi, acentenin ücret kaybına uğraması, denkleştirme ödenmesinin hakkaniyete uygun olmasıdır. Ancak Sigortacılık Kanunu'n 23/16. maddesinde acentenin ücret kaybına uğraması koşulu yer almamaktadır.
 Sigortacılık Kanunu'nda denkleştirme için aranan kıstaslar, müvekkilinin menfaati ve hakkaniyetttir. Denkleştirme talebi için kanunun aradığı şartlar kümülatiftir. Bu bağlamda, öncelikle yeni müşteri çevresinin yaratıldığını, var olan müşterilerle ilişkinin geliştirilip genişletildiğini ve bu müşteriler sebebiyle müvekkilinin önemli menfaatler elde ettiğini ispat yükü acente üzerindedir. Buna mukabil müvekkil, denkleştirme talebinin hakkaniyete uygun olmadığını veya bedelin indirilmesi gerektiğini ispat yükü altındadır.
 
 ## Yargıtay 15. HD 2018/119 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/403812800)
+
 Gerek özel Kanun-genel Kanun ilişkisi, gerekse önceki Kanun-sonraki Kanun ilişkisi ve gerekse Kanun koyucunun amacı birlikte değerlendirilip tahkimin niteliği ve amacı ile tahkime ilişkin uyuşmazlıkların süratle sonuçlandırılması gereği nazara alındığında hakem seçimi davalarında görevli mahkeme ilk derece mahkemesi olup, ilk derece mahkemelerinden verilen bu kararlara karşı da temyiz kanun yoluna başvurulması mümkün…
 
 ## Yargıtay 21. HD 2016/7072 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/234345100)
 
 “Yasaların çatışması” olarak da adlandırılan bu gibi durumlarda; sonraki norm, öncekinin yerini alır (Lex Pesterior deraget priori); özel kanun, genel kanundan önce gelir, (...); açık anlamlı norm, kapalı anlamlı normdan önce gelir, biçiminde kabul edilen temel ilkelerden yararlanılarak sonuca ulaşılmaktadır. Belirtilen ilkeler doğrultusunda yapılan değerlendirmede ise; 5510 sayılı Kanun'un 818 sayılı Borçlar Kanunu'na göre özel nitelikte olduğu; bu kapsamda 5510 sayılı Kanun'un 96.maddesi hükmünün sebepsiz zenginleşme nedeniyle yersiz ödemelerin Kuruma iadesi konusunda özel nitelikte düzenleme içerdiği açıktır. Bu durumda özel kanun niteliğindeki 5510 sayılı Kanun'un, yine özel düzenleme içeren 96.maddesi hükmü, genel nitelikteki 818 sayılı Borçlar Kanunu'nun 63.maddesi hükmüne nazaran uygulama önceliğine sahiptir.
 
 ## Yargıtay 23. HD 2011/926 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/561596300)
+
 Bu durumda; özel hükmün genel hükmü dışlayacağına ilişkin Lex Specialis kaidesi gereği, dava konusu kooperatif genel kurul kararının iptali konusunda TTK'nun Anonim şirketlere ilişkin 381. maddesine başvurma olanağı bulunmamaktadır. Bu nedenle somut olayda 1163 sayılı yasa hükümlerinin dikkate alınması ve uyuşmazlığın buna göre sonuçlandırılması gerekmektedir. 1163 sayılı yasanın 53. maddesi nazara alındığında dava koşulu olarak yer verilen genel kurul kararına muhalefet etme koşulu oluşmadığı gibi dava bir aylık sürede de açılmamıştır.
 
 ## Yargıtay 10. HD 2010/16802 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/476016800)
 
 Özel yasa, genel yasa sıralamasına geçildiğinde, 5458 sayılı Yasa kendine özgü, kısa süreli ve ani yürürlüğe giren yapıda bir yasa olup gerek 6183, gerek se 506/80 sayılı Yasaların önünde yer almaktadır. Bu yasanın kendi kuralları ve uygulama şekli mevcut olup faiz tatbik zamanı ve oranı belirlenmiştir. İlgilisi olduğu 506 sayılı Yasanın 80.maddesinde de eşgüdümlü olarak aynı yasa ile düzenlemeler yapılmış, gecikme zammı ve cezası oranları özellikle değiştirildiğinden 51, 102, 106.ncı maddelerinin tatbik edilemeyeceği hususu hükme bağlanmıştır. Bu üç madde bir bütün halinde değerlendirildiğinde, 506 sayılı Yasanın 80. maddesinin önceki uygulama şeklinden uzaklaşılarak faiz oranı, zamanaşımı ve borç terkini limitinin değiştirildiği görülecektir. Konu edilen 6183 sayılı Yasanın 52.maddesiyle de ilgisi bulunmayıp beraber düşünülmesini gerektiren hal de söz konusu değildir. 6183 sayılı Yasa esasen “amme alacağı” derken vergi ve benzeri diğer kamu alacaklarını da kapsamakta olduğundan bu borçların terkini veya affında oluşacak gecikme zammı veya faiz oranlarını düzenlemeye ilişkindir.
 Diğer bir anlatımla 506 sayılı Kanunun 80. maddesindeki prim borçlarının tahsilinde uygulanacak gecikme zammı oranları kendine özgündür. Daha genel mahiyetteki borç ödemelerini ilgilendiren 6183 sayılı Yasanın 52.maddesi tatbikinin gerek bulunmadağı ortadadır.
@@ -100,5 +124,7 @@ Pozitif hukukta aynı konuyu düzenleyen birden fazla yasal düzenlemenin bulunm
 Bu bağlamda, öncelikle yeni müşteri çevresinin yaratıldığını, var olan müşterilerle ilişkinin geliştirilip genişletildiğini ve bu müşteriler sebebiyle müvekkilinin önemli menfaatler elde ettiğini ispat yükü acente üzerindedir. Buna mukabil müvekkil, denkleştirme talebinin hakkaniyete uygun olmadığını veya bedelin indirilmesi gerektiğini ispat yükü altındadır .(Aslan Kaya, Acentelik, 2013 Baskı, sayfa 102 vd., 227 vd.) (Yargıtay 11 HD 2016/2170 E.- 2017/2780 K. Sayılı ve 10.05.2017 tarihli ilamı)…
 
 ## Konya BAM 6. HD 2018/6 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/677147300)
 
 Bu durumda HMK'nın 341/1 maddesinin lafzı ile bağlı kalıp buna göre yorum yapılarak sonraki değişikliği yok saymak suretiyle adi konkordato talebi sırasında tedbire yönelik yapılan taleplerin reddine ilişkin kararlarda istinaf kanun yolunun açık olduğu sonucuna ulaşmak hukuken mümkün değildir. Gerek özel kanun - genel kanun ilişkisi, gerekse önceki kanun - sonraki kanun ilişkisi ve gerekse kanun koyucunun amacı birlikte değerlendirilip konkordato taleplerinin süratle sonuçlandırılması gereği nazara alındığında; İlk Derece Mahkemesince konkordato talepleri sırasındaki tedbire yönelik taleplerinin reddine ilişkin kararlara karşı istinaf kanun yoluna başvurulması yasal olarak mümkün bulunmamaktadır. İstinaf kanun yolu kapalı olmasına rağmen İlk Derece Mahkemesi Hakim'inin kararında istinaf kanun yolunun açık olduğunu belirtmesinin de tarafları yanıltmaya yönelik bir eylem sayılmayacağı ve taraflara kanunda mevcut olmayan istinaf kanun yolunu bahşetmeyeceği sonuç ve kanaatiyle davacı vekilinin istinaf kanun yoluna başvuru talebinin usulden reddine ilişkin aşağıdaki şekilde hüküm kurulmuştur.

@@ -23,18 +23,26 @@ uyari: "Derleyenin seçtiği alıntılardır; kararın tamamı değildir. Künye
 
 ## Yargıtay 3. HD 2019/1648 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/487836900)
+
 Kira sözleşmesinin imzalandığı tarihte (01.11.2013) yürürlükte olan 6098 sayılı TBK'nın 583. maddesinin birinci fıkrasına göre; "Kefalet sözleşmesi yazılı şekilde yapılmadıkça ve kefilin sorumlu olacağı azami miktar ile kefalet tarihi belirtilmedikçe geçerli olmaz. Kefilin sorumlu olduğu azami miktarı, kefalet tarihini ve müteselsil kefil olması durumunda, bu sıfatla veya bu anlama gelen herhangi bir ifadeyle yükümlülük altına girdiğini kefalet sözleşmesinde kendi el yazısı ile belirtmesi şarttır." düzenlemesi yer almaktadır. Yasada tarif edilen şekle aykırı düzenlenen kefalet sözleşmesine istinaden kefalet sorumluluğu doğmaz.
 
 ## Yargıtay 3. HD 2019/1391 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/500709300)
 
 Taraflar arasında düzenlenen 05.01.2010 başlangıç tarihli 5 yıl süreli kira sözleşmesi ile sözleşmeye konu taşınmaz GSM baz istasyonu ve cihazlarının kurulması için kullanılmak amacıyla davacı kiracıya kiralanmış olup, yıllık kira bedelinin 5.500 USD olduğu kararlaştırılmıştır. Sözleşmeye konu kiralananın 05.01.2014-05.01.2015 tarihleri arasındaki döneme ilişkin kira bedelinin peşin olarak ödendiği konusunda taraflar arasında uyuşmazlık bulunmamaktadır. Sözleşmenin 18/b maddesinde ; Kiracının kira sözleşmesini 1 ay önceden yazılı bildirimde bulunmak kaydı ile herhangi bir zamanda hiçbir neden göstermeden feshetme hakkına sahip olduğu, kiralayanın bu durumda herhangi bir hak ve alacak talebinde bulunmayacağı, fesih tarihinden sonraki döneme ilişkin olarak peşin ödenmiş kira bedeli var ise kiralayanın bu bedeli fesih tarihinden sonra 1 ay içinde iade edeceği kararlaştırılmıştır.Tarafların serbest iradesi ile konulmuş bu şart geçerli olup tarafları bağlar.
 Sözleşmede tarafların makul süreyi 1 ay olarak belirlediği ve sözleşmenin 18/b maddesinde yer alan fesh-i ihbar şartının ancak 01.04.2015 tarihinde, bu hususta gönderilen ihtarnamenin tebliği ile gerçekleştiği nazara alındığında, 01.04.2014-01.05.2015 tarihlerini kapsayan 1 aylık makul süre kira bedelinin de kullanılmayan süreye ilişkin kira bedelinden mahsup edilerek kira bedelinin iadesine karar verilmesi gerekirken eksik değerlendirme ile yazılı şekilde hüküm tesisi doğru görülmemiş, bozmayı gerektirmiştir.
 
 ## Yargıtay 3. HD 2019/134 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/487973400)
+
 Ayrıca; 6098 Sayılı Türk Borçlar Kanununun 583. maddesi (mülga 818 Sayılı Borçlar Kanununun 484. maddesi) uyarınca kefalet sözleşmesinin geçerli olabilmesi için yazılı şekilde düzenlenmesi ve kefilin sorumlu olacağı miktarın açıkça gösterilmesi zorunludur. Kefilin sorumluluğu sözleşme kapsamındaki borçlar için ve sözleşme süresince geçerli olup, davada talep edilen makul süre tazminatı olup, belli muayyen olduğundan sözedilemez. Taraflar arasında düzenlenen kira sözleşmesinde de bu bedelden davalı kefilin sorumlu olacağına dair bir düzenleme bulunmamaktadır. Bu durumda mahkemece makul süre tazminatı yönünden davalı kefil hakkındaki davanın reddine karar verilmesi gerekirken yazılı şekilde karar verilmesi doğru değildir.
 
 ## Yargıtay 3. HD 2018/12776 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/467588400)
 
 TBK'nun 345 maddesinde “Kira bedelinin belirlenmesine ilişkin dava her zaman açılabilir. Ancak, bu dava, yeni dönemin başlangıcından en geç otuz gün önceki bir tarihte açıldığı ya da kiraya veren tarafından bu süre içinde kira bedelinin artırılacağına ilişkin olarak kiracıya yazılı bildirimde bulunulmuş olması koşuluyla, izleyen yeni kira dönemi sonuna kadar açıldığı takdirde, mahkemece belirlenecek kira bedeli, bu yeni kira döneminin başlangıcından itibaren kiracıyı bağlar. Sözleşmede yeni kira döneminde kira bedelinin artırılacağına ilişkin bir hüküm varsa, yeni kira döneminin sonuna kadar açılacak davada mahkemece belirlenecek kira bedeli de, bu yeni dönemin başlangıcından itibaren geçerli olur.” hükmüne yer verilmiştir. 6098 Sayılı Türk Borçlar Kanunu 01.07.2012 tarihinde yürürlüğe girmiş olup, TBK'nun 345 maddesi bu tarihten sonra açılacak kira bedelinin tespiti istemlerinde uygulanır. Kira bedelinin tespiti davasını, kira sözleşmesini yapan taraflar açabileceği gibi, o taşınmazın maliki veya paydaşlarından her biri de açabilir. Kiralanan, iştirak halinde mülkiyete konu ise, tüm mirasçıların birlikte dava açmaları veya
 
@@ -43,19 +51,27 @@ Taraflar arasındaki kira sözleşmesinde artış şartı bulunmadığına ve s�
 
 ## Yargıtay 3. HD 2018/11780 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/481201900)
+
 Aynı kanunun 345. maddesinde "Kira bedelinin belirlenmesine ilişkin dava her zaman açılabilir. Ancak, bu dava, yeni dönemin başlangıcından en geç otuz gün önceki bir tarihte açıldığı ya da kiraya veren tarafından bu süre içinde kira bedelinin artırılacağına ilişkin olarak kiracıya yazılı bildirimde bulunulmuş olması koşuluyla, izleyen yeni kira dönemi sonuna kadar açıldığı takdirde, mahkemece belirlenecek kira bedeli, bu yeni kira döneminin başlangıcından itibaren kiracıyı bağlar." "Sözleşmede yeni kira döneminde kira bedelinin artırılacağına ilişkin bir hüküm varsa, yeni kira döneminin sonuna kadar açılacak davada mahkemece belirlenecek kira bedeli de, bu yeni dönemin başlangıcından itibaren geçerli olur.” hükmüne yer verilmiştir. 6098 Sayılı Türk Borçlar Kanunu 01.07.2012 tarihinde yürürlüğe girmiş olup, TBK.nın 345. maddesi bu tarihten sonra açılacak kira bedelinin tespiti istemlerinde uygulanır.Taraflar arasında 19.10.2005 başlangıç tarihli ve 10 yıl süreli kira sözleşmesi konusunda uyuşmazlık bulunmamaktadır.
 Davacı 12.01.2015 tarihinde açtığı asıl dava ile 01.01.2013 tarihinden itibaren, yine aynı tarihte açtığı dava ile de, 01.01.2014 tarihinden itibaren başlayan dönem için kira bedelinin tespitini istemiştir. Ancak asıl dava yönünden, yukarıda belirtilen düzenlemelere göre, dava tarihi itibariyle geçmişe dönük olarak 01.01.2013 tarihinden itibaren kira bedelinin tespitinin istenmesi mümkün değildir. Bu durumda Mahkemece; birleşen dava yönünden kira sözleşmesinde artış şartı bulunduğundan 01.01.2015 tarihinde başlayan dönem için kira bedelinin tespitini isteyip istemediği hususunun davacı taraftan sorularak, istemesi halinde bir sonraki dönem için kira bedelinin tespitine karar verilmesi aksi halde davanın reddine karar verilmesi gerekirken yazılı şekilde karar verilmiş olması usul ve yasaya aykırıdır.
 
 ## Yargıtay 3. HD 2018/11475 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/463415500)
+
 Kira sözleşmesinin imzalandığı tarihte (01.11.2013) yürürlükte olan 6098 sayılı TBK'nun 583. maddesinin birinci fıkrasına göre; "Kefalet sözleşmesi yazılı şekilde yapılmadıkça ve kefilin sorumlu olacağı azami miktar ile kefalet tarihi belirtilmedikçe geçerli olmaz. Kefilin sorumlu olduğu azami miktarı, kefalet tarihini ve müteselsil kefil olması durumunda, bu sıfatla veya bu anlama gelen herhangi bir ifadeyle yükümlülük altına girdiğini kefalet sözleşmesinde kendi el yazısı ile belirtmesi şarttır." düzenlemesi yer almaktadır. Yasada tarif edilen şekle aykırı düzenlenen kefalet sözleşmesine istinaden kefalet sorumluluğu doğmaz.
 
 ## Yargıtay 3. HD 2018/10664 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/469674700)
 
 Önceki malik ile davalı arasında imzalanan 16.10.2000 başlangıç tarihli ve beş yıl süreli kira sözleşmesinin varlığı ve davacının 07.09.2004 tarihinde taşınmaz satın alarak malik olduğu hususunda uyuşmazlık bulunmamaktadır. Kural olarak anahtar teslim edilmediği sürece kiralananın kiracının kullanımında olduğunun kabulü gerekir. Kiralananın anahtarının usulüne uygun şekilde davacıya teslim edildiği davalı kiracı tarafından yazılı delillerle kanıtlanmalıdır. Yasal anahtar teslimi bizzat anahtarı kiraya verene vermek veya tevdi mahalli tayini ya da Noter'e tevdi edilip keyfiyetin kiraya verene tebliğ edilmesi suretiyle yapılır.Mahkemece, davalının sözleşmeyi feshettiği, fesih tarihinden sonra kira borcu olmadığı gerekçesiyle karar verilmiş ise de; somut olayda usulune uygun anahtar teslimi bulunmamaktadır.
 Bu itibarla, davacının 2009 Kasım ayı kira bedelini talep etme hakkı bulunduğu gözetilerek ve 2009 aralık ayı, 2010 Ocak ile Eylül aylarına dair talep edilen kira alacağına dair kesinleşmiş mahkeme kararları üzerinde de durulmak suretiyle sonucuna göre karar verilmesi gerekirken hatalı gerekçe ve eksik araştırma ile yazılı şekilde karar verilmesi doğru görülmemiş, bozmayı gerektirmiştir.SONUÇ: Yukarıda açıklanan esaslar gözönünde tutulmaksızın yazılı şekilde hüküm tesisi isabetsiz, temyiz itirazları bu nedenlerle yerinde olduğundan kabulü ile hükmün HUMK.nun 428.maddesi gereğince BOZULMASINA ve peşin alınan temyiz harcının istek halinde temyiz edene iadesine, 6100 sayılı HMK'nun geçici madde 3 atfıyla 1086 sayılı HUMK.nun 440.maddesi gereğince kararın tebliğinden itibaren 15 günlük süre içerisinde karar düzeltme yolu açık olmak üzere, 25.10.2018 tarihinde oybirliğiyle karar verildi.
 
 ## Yargıtay 3. HD 2018/10490 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/470451700)
 
 Davacı ile davalı şirket arasında 14.02.2012 düzenleme tarihli ‘Devremülk Satış Sözleşmesi’ ve 22.02.2013 düzenleme tarihli ‘Devremülk Kiralama Sözleşmesi’ akdedildiği hususunda uyuşmazlık bulunmamaktadır. 22.02.2013 düzenleme tarihli devremülk kiralama sözleşmesinin ‘C’ maddesinde sözleşmenin başlangıç tarihinin, davaya konu arsa üzerinde inşa edilen binanın bitirilerek işletmeye açıldığı tarih olduğu ve yine aynı sözleşmenin ‘D’ maddesinde devremülk satış sözleşmesinin H/1-D maddesinde de ifade edildiği üzere, devremülk kiralama sözleşmesinin keşide tarihinden binanın inşasının bitirilerek işletmeye alınacağı yani sözleşmenin başlangıç tarihine kadar, kiracı tarafından kiraya verene net kira parası ile aynı miktara denk gelen tutarda kiracının işlettiği tesislerde hediye tatil kullanımı veya hediye tatil karşılığı para ödemesi yapılacağı kararlaştırılmıştır. 14.02.2012 düzenleme tarihli devremülk satış sözleşmesinin H/1-D maddesinde ise; satıcının devremülkün inşaatını ve tefrişatını tamamlayıp belirtilen tarihte alıcıya teslim edeceği, alıcının dilerse bu konaklama yerine tahakkuk edecek bedeli o devrelerde nakit
 
@@ -65,6 +81,8 @@ Bu durumda Mahkemece davacının temyiz dilekçesinde sunduğu emsal dava dosyal
 
 ## Yargıtay 3. HD 2018/10161 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/468711300)
+
 Anahtarın kiraya verene teslimi, hukuki işlemin içerisinde yer alan bir maddi vakıa olmakla birlikte, sözleşmenin feshine yönelik bir hukuki sonuç doğurduğundan, bunun ne şekilde ispat edileceği hususu, yıllık kira bedelinin tutarı esas alınmak suretiyle, HMK'nın 200 ve 201.maddeleri çerçevesinde değerlendirilmelidir. Eş söyleyişle, yıllık kira bedelinin tutarı senetle ispat sınırının üzerindeyse ve kiraya verenin açık muvafakati yoksa bu yön kiracı tarafından ancak yazılı delille ispatlanabilir; tanık dinlenemez. Kiraya veren anahtarı almaktan kaçınırsa, kiracının yapması gereken, mahkemeden bu yolda tevdi mahalli tayinini isteyip, tayin edilecek yere anahtarı teslim etmek ya da Notere teslim ederek teslim
 
 keyfiyetini kiraya verene bildirmektir. Kiracının kiralananı iade borcu, ancak bu şekilde, durumun kiraya verene bildirildiği tarihte son bulur. Aksi takdirde, kiracının, kira parasını ödemek de dahil olmak üzere, sözleşmeden kaynaklanan yükümlülükleri devam eder. Bu itibarla, Kiralananın anahtarının usulüne uygun şekilde kiraya veren davalıya teslim edildiği davacı kiracı tarafından yazılı delillerle kanıtlanmalıdır.Somut olayda; Taraflar arasında 10.04.2010 başlangıç tarihli kira sözleşmesine göre yıllık kira bedelinin 45.000.-TL olduğu, 25.000.-TL nin peşin bakiye 20.000.-TL 'nin 4 eşit taksitte ödeneceği hususunda uyuşmazlık bulunmamaktadır. Davacı kiracı kiralananın kendisine hiç teslim edilmediğini ileri sürmüş davalı kiraya veren tarafından ise anahtar teslimi yapılmadığı ve kiralananın kendisine teslim edilmediği savunularak bu iddiaya karşı çıkılmıştır.
@@ -72,23 +90,33 @@ Bu durumda davacı kiracı kiralananı tahliye ettiğini yazılı belge ile ispa
 
 ## Yargıtay 8. HD 2018/17067 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/454416100)
+
 Davada dayanılan ve hükme esas alınan 15.10.2013 başlangıç tarihli ve 5 yıl süreli kira sözleşmesi konusunda taraflar arasında bir uyuşmazlık bulunmamaktadır. Taraflar arasındaki kira sözleşmesi 15.10.2013 tarihli olmakla, 6098 Sayılı TBK'nin yürürlüğe girmesinden sonra imzalanmıştır. Bu nedenle kefaletin şartlarının 6098 Sayılı Yasa hükümlerine göre belirlenmesi gerekir. TBK'nin kefalet sözleşmesinde şekil şartını düzenleyen 583.maddesi “Kefalet sözleşmesi, yazılı şekilde yapılmadıkça ve kefilin sorumlu olacağı azami miktar ile kefalet tarihi belirtilmedikçe geçerli olmaz. Kefilin, sorumlu olduğu azami miktarı, kefalet tarihini ve müteselsil kefil olması durumunda, bu sıfatla veya bu anlama gelen herhangi bir ifadeyle yükümlülük altına girdiğini kefalet sözleşmesinde kendi el yazısıyla belirtmesi şarttır.” hükmünü içermektedir. Taraflar arasındaki kira sözleşmesinde kefilin sorumlu olduğu azami miktar ve kefalet tarihine ilişkin el yazısı ile yazılmış bir ibare bulunmamaktadır.
 Bu durumda TBK'nin 583.maddesinde belirtilen şekil şartlarına uyulmadan yapılan kefalet sözleşmesi geçersiz olduğundan, mahkemece davalı kefil ... hakkındaki davanın bu nedenle reddine karar verilmesi gerekirken, yazılı şekilde kefil hakkındaki itirazın kaldırılması kararına ilişkin istinaf talebinin esastan reddine karar verilmesi doğru olmadığı gibi, Hukuk Muhakemeleri Kanunu'nun 353/1-b-2. maddesinde yer alan; davanın esasıyla ilgili olarak yargılamada eksiklik bulunmamakla beraber, kanunun olaya uygulanmasında hata edilip de yeniden yargılama yapılmasına ihtiyaç duyulmadığı takdirde veya kararın gerekçesinde hata edilmiş ise düzelterek yeniden esas hakkında karar verilmesi gerektiğine ilişkin hüküm uyarınca, İlk Derece Mahkemesi kararının tümüyle kaldırılıp, tüm taleplerle ilgili yeniden hüküm kurulması gerekirken, sadece tahliyeye ilişkin kararın kaldırılarak, hükmün diğer kısımlarının aynen korunmasına karar verilmesi de doğru görülmemiştir.
 
 ## Yargıtay 3. HD 2018/8263 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/452636900)
+
 Bu durumda; Mahkemece yukarıda açıklanan ilkeler ışığında, benzer açık olan kiraları da emsal olarak incelenerek ve uyarlama koşullarının varlığı araştırılarak kira bedelinin uyarlanmasına karar verilmesi gerekirken, yazılı şekilde eksik inceleme ve hüküm kurmaya elverişli ve yeterli görülmeyen kira bedelinin tespiti usulünce hazırlanan yetersiz bilirkişi raporuna itibar edilerek yazılı şekilde hüküm kurulması doğru değildir.
 
 ## Yargıtay 8. HD 2018/14531 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/430307900)
 
 Davada dayanılan ve hükme esas alınan 09.10.2013 başlangıç tarihli ve 1 yıl süreli kira sözleşmesi konusunda taraflar arasında bir uyuşmazlık bulunmamaktadır. Taraflar arasındaki kira sözleşmesi 09.10.2013 tarihli olmakla, 6098 Sayılı TBK.nun yürürlüğe girmesinden sonra imzalanmıştır. Bu nedenle kefaletin şartlarının 6098 Sayılı Yasa hükümlerine göre belirlenmesi gerekir. TBK.nun kefalet sözleşmesinde şekil şartını düzenleyen 583.maddesi “Kefalet sözleşmesi, yazılı şekilde yapılmadıkça ve kefilin sorumlu olacağı azami miktar ile kefalet tarihi belirtilmedikçe geçerli olmaz. Kefilin, sorumlu olduğu azami miktarı, kefalet tarihini ve müteselsil kefil olması durumunda, bu sıfatla veya bu anlama gelen herhangi bir ifadeyle yükümlülük altına girdiğini kefalet sözleşmesinde kendi el yazısıyla belirtmesi şarttır.” hükmünü içermektedir. Taraflar arasındaki kira sözleşmesinde kefilin sorumlu olduğu azami miktar ve kefalet tarihine ilişkin el yazısı ile yazılmış bir ibare bulunmamaktadır.
 Bu durumda TBK.nun 583.maddesinde belirtilen şekil şartlarına uyulmadan yapılan kefalet sözleşmesi geçersiz olduğundan, mahkemece davalı kefil ... hakkındaki davanın bu nedenle reddine karar verilmesi gerekirken, yazılı şekilde kefil hakkındaki itirazın kaldırılması davasının kabulüne karar verilmesi doğru değildir.
 
 ## Yargıtay 3. HD 2018/6166 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/423129100)
+
 Mahkemece bu durumda; taraflar arasındaki 16.02.2012 tarihli tutanak, ... 1. Asliye Ceza Mahkemesi 2013/308 E. Sayılı dosyası ve tüm dosya kapsamı incelenerek davaya konu kiralananın 6098 sayılı Türk Borçlar Kanunu madde 323 uyarınca 3. kişiye devredilip devredilmediği, davacı kiracının icra takibine konu aylardan sorumlu olup olmadığı incelenerek sonucuna göre bir karar verilmesi gerekirken, eksik inceleme ile yazılı şekilde karar verilmesi doğru görülmemiş, bozmayı gerektirmiştir.SONUÇ: Yukarıda açıklanan esaslar gözönünde tutulmaksızın yazılı şekilde hüküm tesisi isabetsiz, temyiz itirazları bu nedenlerle yerinde olduğundan kabulü ile hükmün HUMK.nun 428.maddesi gereğince BOZULMASINA ve peşin alınan temyiz harcının istek halinde temyiz edene iadesine, 6100 sayılı HMK'nun geçici madde 3 atfıyla 1086 sayılı HUMK.nun 440.maddesi gereğince kararın tebliğinden itibaren 15 günlük süre içerisinde karar düzeltme yolu açık olmak üzere, 31.05.2018 tarihinde oybirliğiyle karar verildi.
 
 ## Yargıtay 8. HD 2018/13464 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/446205400)
 
 Davada dayanılan ve hükme esas alınan 01.05.2014 başlangıç tarihli ve 6 ay süreli kira sözleşmesi konusunda taraflar arasında bir uyuşmazlık bulunmamaktadır. Taraflar arasındaki kira sözleşmesi 01.05.2014 tarihli olmakla, 6098 Sayılı TBK.nun yürürlüğe girmesinden sonra imzalanmıştır. Bu nedenle kefaletin şartlarının 6098 Sayılı Yasa
 
@@ -96,10 +124,14 @@ hükümlerine göre belirlenmesi gerekir. TBK.nun kefalet sözleşmesinde şekil
 
 ## Yargıtay 3. HD 2018/6113 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/423257900)
+
 Her ne kadar Mahkemece bozma ilamına uyularak alınan bilirkişi raporuna göre, 2013 yılı kira bedelinin endeks uygulanarak hesaplanmasına göre 4.781,00-TL olduğu tespit edilmiş, 2013 yılı için ödenen kira bedelinin 4.886,00-TL olduğu ve kiracının tespit edilen miktardan daha fazla ödeme yapmakta olduğu gerekçesiyle davasının reddine karar verilmiş ise de; Kira bedelinin miktarına ilişkin olarak bir uyuşmazlık bulunup mahkemeye müracaat edildiğine ve kira bedelinin dava yoluyla tespiti istenildiğine göre; davalı taraf artırılması istenilen veya karar verilebilecek miktarı ödese bile dava red edilmeyip kira tespit kararı verilmelidir. Nitekim davalının artırarak ödediği kira parasını ödemekten vazgeçip önceki dönem kira parasını ödemeye başlaması halinde davacı, hükmen tespit edilmiş ya da sözleşme ile kararlaştırılmış bir kira bedeli olmadığı sürece davalı kiracıyı kira bedelinin arttırılmış halini ödemesi için zorlayamayacağı için yeni dönem kira parasının Mahkemece hüküm altına alınmasında davacının hukuki yararı vardır.
 Davalının tespit edilecek miktarını ödeyip ödemediği hususu dava açılmasına sebep olup olmaması ve yargılama giderlerinden sorumluluğunun belirlenmesi yönünden sonuca etkilidir. O halde mahkemece davalının kabul ettiği miktardan az olmamak üzere kira bedelinin tespitine ilişkin bir karar verilmesi gerekirken yazılı şekilde davanın reddine karar verilmesi usul ve yasaya aykırı olup, bozmayı gerektirmiştir.SONUÇ: Yukarıda açıklanan esaslar gözönünde tutulmaksızın yazılı şekilde hüküm tesisi isabetsiz, temyiz itirazları bu nedenlerle yerinde olduğundan kabulü ile hükmün HUMK.nun 428.maddesi gereğince davacı yararına BOZULMASINA, peşin alınan temyiz harcının istek halinde temyiz edene iadesine, 6100 sayılı HMK'nun geçici madde 3 atfıyla 1086 sayılı HUMK.nun 440.maddesi gereğince karar düzeltme yolu kapalı olmak üzere, 30.05.2018 tarihinde oybirliğiyle karar verildi.
 
 ## Yargıtay 3. HD 2018/5620 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/426115600)
 
 Davada dayanılan ve hükme esas alınan 17.04.2008 başlangıç tarihli ve beş yıl süreli kira sözleşmesi konusunda taraflar arasında uyuşmazlık bulunmamaktadır. Sözleşmede kiralanan “10.080 m2 arazi üzerinde üç adet 1.000 tonluk depo, idari bina ve baskül” olarak tanımlanmış olmakla birlikte, dosya kapsamından kiralananın galip vasfı anlaşılamamaktadır. Ancak uygulanacak yasa hükmünün belirlenmesi için öncelikle kiralananın galip vasfının belirlenmesi gerekir. Nitekim kiralanan çatılı işyeri hükümlerine
 
@@ -108,6 +140,8 @@ tabi ise süre bitimi nedeniyle tahliyesi istenemez. Mahkemece, uyulmasına kara
 
 ## Yargıtay 3. HD 2018/5626 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/426147700)
+
 Kural olarak, kira ilişkisinin varlığını ve aylık kira bedelinin ne kadar olduğunu ispat külfeti davacıya, davalı tarafından kabul edilen kira bedelinin ödendiğinin ispat külfeti ise davalıya düşer. Davacının talep ettiği kira miktarına göre ...nun 200. maddesi hükmü uyarınca davacı kira bedelini yazılı belge ile kanıtlamak zorundadır. Aksi halde davalının bildirdiği miktar esas alınmalıdır. Yine davalı kiracı da kira borcunun ödendiğini H.M.K.nun 200. maddesi gereğince yazılı belge ile ispat etmelidir.Somut olayda; davalının, tapu kaydına göre davacının 460/1856 paya sahip olduğu iş hanındaki dükkanda kiracı olduğu konusunda uyuşmazlık bulunmamaktadır. Davalı tarafından sunulan 02.08.2008 başlangıç tarihli, 1 yıl süreli ve aylık 1.000 TL kira bedelli kira sözleşmesinin dava dışı kiraya veren ... ile davalı arasında akdedildiği görülmektedir. Sözleşmenin özel şartlar bölümü 23. maddesinde; kira parasının her yıl % 10 oranında artırılacağı belirtilmiştir.
 Her ne kadar davacı, aylık kira bedelinin 4.000 TL olduğunu iddia etmiş ve bir kısım hesap tabloları sunmuş ise de, bu sunulan tablolar davalı kiracı ile düzenlenmediği ve davalı kiracının imzasını taşımadığı için davalı lehine delil olarak kabul edilemez. Bu durumda, yıllık kira miktarına göre davacının, aylık kira bedelini yazılı delille ispatlaması gerekir. Kira ilişkisinin varlığını ve bedelini tanık ifadesiyle ispatlayamaz. Davacı kira bedelini yazılı delille ispat edemediğine göre davalı tarafından sunulan 02.08.2008 başlangıç tarihli kira sözleşmesine göre uyuşmazlığın çözülmesi gerekir. Bu nedenle; davalının tacir olup olmadığı üzerinde durularak tacirse yıllık % 10 artış şartına göre kira bedelinin hesaplanması, davalı eğer tacir değil ise, 6098 Sayılı Türk Borçlar Kanun'unun yürürlüge girdiği 01.07.2012 tarihine kadar olan aylara ilişkin sözleşmede kararlaştırılan artış şartına uygun olarak tespit edilmesi bu tarihten sonraki kira bedelinin ise TBK'nun 344. maddesi hükmü esas alınarak üretici fiyat
 
@@ -115,10 +149,14 @@ endeksindeki artış oranını geçmemek koşuluyla hesaplanarak ve taşınmazı
 
 ## Yargıtay 3. HD 2018/5589 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/426221400)
+
 01/10/2011 tarihinde yürürlüğe giren 6100 sayılı ...nun 2.maddesine göre dava konusunun değer ve miktarına bakılmaksızın malvarlığı haklarına ilişkin davalarda görevli mahkeme aksine bir düzenleme bulunmadıkça Asliye Hukuk Mahkemesidir. 6100 Sayılı ...nun 4/1-a maddesine göre ise “Kiralanan taşınmazların, 09.06.1932 tarihli ve 2004 sayılı İcra ve İflas Kanununa göre ilamsız icra yoluyla tahliyesine ilişkin hükümler ayrık olmak üzere, kira ilişkisinden doğan alacak davaları da dâhil olmak üzere tüm uyuşmazlıkları konu alan davalar ile bu davalara karşı açılan davalarda” Sulh Hukuk Mahkemesi görevlidir. Somut olayda, davacı, davalının işgalci olduğunu belirterek el atmanın önlenmesi ve ecrimisil alacağının tahsili isteminde bulunmuş olup davalı da kiracı olduğunu iddia etmemiştir. Kira ilişkisi iddia ve ispat edilmediğine göre taraflar arasında kira ilişkisi bulunmadığından 6100 sayılı HMK'nun 2. maddesine göre davaya bakmakla Asliye Hukuk Mahkemesi görevlidir.Hal böyle olunca, mahkemece işin esasına girilerek sonucuna uygun bir karar verilmesi gerekirken yazılı şekilde görevsizlik kararı verilmesi usul ve yasaya aykırı olup bozmayı gerektirir.SONUÇ:
 Yukarıda açıklanan esaslar gözönünde tutulmaksızın yazılı şekilde hüküm tesisi isabetsiz, temyiz itirazları bu nedenlerle yerinde olduğundan kabulü ile hükmün HUMK.nun 428.maddesi gereğince davacı yararına BOZULMASINA ve peşin alınan temyiz harcının istek halinde temyiz edene iadesine, 6100 sayılı HMK'nun geçici madde 3 atfıyla 1086 sayılı HUMK.nun 440.maddesi gereğince karar düzeltme yolu kapalı olmak üzere, 22.05.2018 tarihinde oybirliğiyle karar verildi.
 
 ## Yargıtay 3. HD 2018/5409 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/427375800)
 
 18.11.1964 gün ve 2/4 sayılı Yargıtay İçtihadı Birleştirme Kararına ve yerleşik Yargıtay uygulamalarına göre, hak ve nesafet uygulamasına göre kira parası tespit edilirken; öncelikle tarafların tüm delilleri, varsa emsal kira sözleşmelerinin aslı veya onaylı örnekleri dosyaya alınmalı, yoksa resen emsal araştırması yapılmalı, kiralananın niteliklerine göre 3 kişilik (inşaat, mimar, mülk bilirkişi gibi) bilirkişiler kurulu oluşturularak, kiralanan taşınmaz ve taraf emsalleri tek tek gezilip, incelenerek bilirkişilerce ayrı ayrı (konumu, tarihi, kira süresi vb.) kira parasına etki eden tüm nitelikleri karşılaştırılmalı, emsal kira bedellerinin niçin somut emsal olup olmadığı, bedelinin telifi imkansız ise nedeni somut gerekçelerle açıklanmalı, dava konusu taşınmazın yeniden kiraya verilmesi (boş olarak) halinde, getirebileceği kira parasının o dönem için adil ve aşırı olmayan, hakkaniyete uygun miktarda olması gözetilmeli, bilirkişi raporu mahkemece somut gerekçeler ışığında re'sen değerlendirilmeli, hak ve nesafete uygun olarak saptanması gerekir.Kural olarak 21.11.1966
 
@@ -126,6 +164,8 @@ tarih ve 19/10 sayılı Y.İ.B.K uyarınca kira bedelinin tespiti davası her za
 Bu durumda mahkemece 01.03.2014 tarihinden itibaren kira bedelinin tespitine karar verilmesi gerekirken, yazılı şekilde iddianın genişletilemeyeceği gerekçesiyle davanın reddine karar verilmesi doğru görülmemiş, bozmayı gerektirmiştir.SONUÇ: Yukarıda açıklanan esaslar gözönünde tutulmaksızın yazılı şekilde hüküm tesisi isabetsiz, temyiz itirazları bu nedenlerle yerinde olduğundan kabulü ile hükmün HUMK.nun 428.maddesi gereğince BOZULMASINA ve peşin alınan temyiz harcının istek halinde temyiz edene iadesine, 6100 sayılı HMK'nun Geçici Madde 3 atfıyla 1086 sayılı HUMK'nun 440. maddesi gereğince karar düzeltme yolu kapalı olmak üzere, 17.05.2018 gününde oybirliğiyle karar verildi.
 
 ## Yargıtay 3. HD 2018/5273 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/426665100)
 
 Taraflar arasında yazılı kira sözleşmesi bulunduğu hususunda uyuşmazlık bulunmamaktadır. Davacı kiraya veren tarafından gönderilen 27.08.2012 tarihli ihtarname ile; tutulan tutanaklarla site sakinliğini ve güvenliğini bozucu hareketlerde bulunulduğunun sabit olduğu belirtilerek ihtarnamenin tebliğinden itibaren 30 gün içinde akde aykırılığın giderilmesi aksi halde dava açılacağı belirtilmiş olmasına rağmen, dosya içerisinde ihtarnamenin muhatabına tebliğ edildiğine dair tebliğ şerhine rastlanılamamıştır. İhtarname tebliğ edilmiş ise; tebliğ tarihinden itibaren isnat edilen davranışların TBK' nun 316. maddesi kapsamında akde aykırılık halini oluşturup oluşturmayacağı hususu üzerinde durularak, dava açıldığı tarih de gözetilmek suretiyle, davacının dava açmaktaki haklılık durumu değerlendirilerek sonucuna göre yargılama masrafı ve vekalet ücreti hakkında bir karar verilmesi gerekirken, yazılı şekilde karar verilmesi usul ve yasaya aykırı olup, bozmayı gerektirmiştir.SONUÇ:
 Yukarıda açıklanan esaslar gözönünde tutulmaksızın yazılı şekilde hüküm tesisi isabetsiz, temyiz itirazları bu nedenlerle yerinde olduğundan kabulü ile hükmün HUMK'nun 428.maddesi gereğince davalı yararına BOZULMASINA ve peşin alınan temyiz harcının istek halinde temyiz edene iadesine, 6100 sayılı HMK'nun geçici madde 3 atfıyla 1086 sayılı HUMK.nun 440.maddesi gereğince karar düzeltme yolu kapalı olmak üzere, 16.05.2018 tarihinde oybirliğiyle karar verildi.

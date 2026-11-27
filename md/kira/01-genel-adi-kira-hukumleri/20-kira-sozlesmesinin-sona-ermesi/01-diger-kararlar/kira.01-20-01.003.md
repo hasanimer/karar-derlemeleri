@@ -23,6 +23,8 @@ uyari: "Derleyenin seçtiği alıntılardır; kararın tamamı değildir. Künye
 
 ## Yargıtay 6. HD 2014/14669 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/97563300)
+
 Davada dayanılan ve hükme esas alınan 01.12.2009 başlangıç tarihli ve belirsiz süreli kira sözleşmesi konusunda taraflar arasında uyuşmazlık bulunmamaktadır. Sözleşme ile davalıya ait iki adet depo ürün stoklanmak üzere davacıya kiraya verilmiştir. Sözleşmenin 12.maddesinde depolanan ürünün depoda en uygun şartlarda muhafaza edilebilmesi için uygun şartları sağlamak ve gerekli tedbirleri alma görevinin kiralayana ait olduğu kararlaştırılmıştır. Davacı kiraladığı depolara İtalya’dan ithal ettiği soya fasulyesi stoklamıştır. Kira ilişkisinin devamı sırasında davacı 12.04.2010 ve 10.06.2010 tarihlerinde sigorta şirketine hasar ihbarında bulunmuştur. Sigorta şirketince düzenlenen ekspertiz raporunda; 2010/Şubat ayında meydana gelen fırtına neticesinde kırılan çatı eternitlerinden
 
 sızan yağmur sularının emtianın üzerine aktığı ve zemine ulaştığı bunun yanı sıra dış cephe izolasyon eksikliğinin de rutubetlenmeye neden olduğu, deponun dolu olması nedeniyle sigortalının hasara müdahale etmediği aradan geçen süreçte 189 ton + 107 ton ürünün zarar görerek ekonomik değerini yitirdiği, zarar gören ürünün ayrıştırılarak tartımlarının yapıldığı olayın oluş şekli incelendiğinde izolasyona bağlı hasarın poliçe kapsamı dışında kaldığı belirtilmiştir. Depoların tahliyesini müteakip davacı tarafından kiralananda 29.06.2010 tarihinde tespit yaptırılmıştır. Düzenlenen tespit bilirkişi raporunda; çatı eternitlerinin yer yer kırık olduğu, dış duvar zemin izolasyonunun yetersiz olduğu bu çerçevede işyerinin yağmur ve zemin sularını almaya müsait olduğu saptanmıştır.
@@ -32,29 +34,41 @@ Mahkemece dosya üzerinden yapılan bilirkişi incelemesinde ise; depolanan ür�
 
 ## Yargıtay 6. HD 2014/14118 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/97482800)
+
 Taşınmaz ve taşınır yapı kiralarıyla ilgili belirsiz süreli kira sözleşmelerinde feshi ihbar süresi Türk Borçlar Kanun'unun 329.maddesi hükmüne göre belirlenir. Anılan madde hükmü gereğince süresiz sözleşmelerde 6 (altı) aylık dönem için 3 (üç) ay önceden kiracıya fesih bildiriminin tebliğ ettirilmesi ve o dönem sonunda tahliye davası açılması gerekir.
 
 Fesih dönemlerinin hesabında kira sözleşmesinin başlangıç tarihi esas alınır. Sözleşmede veya Kanunda belirtilen fesih dönemine veya bildirim süresine uyulmamışsa, bildirim bir sonraki fesih dönemi için geçerli olur. Konut ve çatılı işyeri kiraları dışındaki diğer kira ilişkilerinde kiralananın tahliyesi için feshi ihbar yeterli olup, başka bir sebep aramaya gerek yoktur.
 
 ## Yargıtay 6. HD 2014/13321 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/97406400)
+
 Taraflar arasında uyuşmazlık konusu olmayan 11.03.2002 başlangıç tarihli ve 10 yıl süreli kira sözleşmesi ile davalıya kiralanan “kafeterya ve WC” olup olup,dosyadaki mevcut bilgi ve belgelerden kiralananın 6098 Sayılı TBK.nun konut ve çatılı işyeri hükümlerine tabi olduğu,genel hükümlere tabi bir yer olmadığı anlaşılmıştır. Bu durumda TBK'nun 327.maddesinin bu davada uygulanma olanağı bulunmamaktadır. TBK.nun konut ve çatılı işyeri hükümlerine tabi taşınmazlarda genel olarak süre bitimi nedeniyle tahliye talep edilemez. Ancak,10 yıllık uzama süresinin dolmuş olması halinde sebep göstermeksizin sözleşmenin sona erdirilmesine ilişkin TBK.nun 347/1.maddesi ise aynı yasanın geçici 2.maddesi gereğince uygulanma süresi ertelenmiştir. Ancak,davacı vekili dava dilekçesinde işyeri ihtiyacı nedeniyle tahliye isteminde de bulunduğu halde,mahkemece bu talep ile ilgili bir hüküm kurulmamıştır. Bu durumda Mahkemece, işyeri ihtiyacı nedeniyle tahliye davası koşulları oluşup oluşmadığı üzerinde durularak sonucuna göre bir karar verilmesi gerekirken olayda uygulanma yeri bulunmayan TBK.nun 327.maddesi gereğince süre bitimi nedeniyle tahliyeye karar verilmesi doğru değildir.
 
 ## Yargıtay 6. HD 2014/12615 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/97491600)
 
 Somut olayda, hükme esas alınan 01.09.2011 başlangıç tarihli ve bir yıl süreli kira sözleşmesi konusunda bir uyuşmazlık bulunmamaktadır. Her ne kadar mahkeme kararında taşınmazın ürün kirası olarak kiraya verildiği belirtilmiş ise de, hâsılat kirası, ürün veren bir mal veya hakkın kullanılmak, semerelerinden yararlanılmak ve işletilmek üzere bir bedel karşılığında kiralayan tarafından kiracıya devredilmesine ilişkin sözleşme olarak tanımlanabilir. Borçlar Kanununun 270 (TBK 357) ve devam eden maddelerinde düzenlenen hâsılat kirasından söz edilebilmesi için hasılat getiren bir taşınır ya da taşınmaz mal, ticari işletme ya da hakkın kira ilişkisinin konusunu oluşturması ve kiralananın demirbaşları ve işletme ruhsatı ile birlikte kiraya verilmesi gerekir. Kira sözleşmesine göre kiralananın otopark olduğu ve ruhsatı ile kiraya verilmediği, bu nedenle TBK genel hükümlerine tabi olduğu anlaşılmaktadır. TBK’nun 327. maddesinde "açık veya örtülü biçimde bir süre belirlenmiş ise kira sözleşmesi bu sürenin sonunda kendiliğinden sona erer.
 Taraflar bu durumda açık bir anlaşma olmaksızın kira ilişkisini sürdürürlerse, kira sözleşmesi belirsiz süreli kira sözleşmesine dönüşür.” Genel hükümlere tabi kira sözleşmelerinde kira sözleşmesinin sona ermesi için az yukarda açıklandığı gibi tarafların kira sözleşmesinin yenilenmeyeceğine ilişkin yazılı bildirimde bulunmaları durumunda süre sonunda kiracılık ilişkisinin son bulduğunun kabulü gerekir. Bu durumda TBK.nun 327. maddesi gereğince hüküm kurulması gerekirken dava konusu taşınmazın ürün kirasına tabi olduğundan bahisle yazılı şekilde karar verilmesi doğru değildir.
 
 ## Yargıtay 6. HD 2014/11553 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/97455100)
+
 Olayımıza gelince; Taraflar arasında düzenlenen 01/01/2006 başlangıç tarihli 31/12/2006 bitiş tarihli açık alan kira sözleşmesine göre kiralanan taşınmaz 1403 m2 lik açık alan ve 52 m2 lik oto galerisi olup, otopark ve galeri olarak kullanılmak üzere kiralanmıştır. Kiralananın sözleşmede açıklanan niteliğine göre uyuşmazlığa Türk Borçlar Kanun'unda düzenlenen kira sözleşmesi genel hükümlerinin uygulanması gerekir. Davacı tarafından gönderilen fesih bildirim yazısı iadeli taahhütlü posta ile davalıya 14/12/2012 tarihinde tebliğ edilmiş olup eldeki dava ise 31/01/2013 tarihinde açılmıştır. Mahkemece her ne kadar taraflar arasındaki kira sözleşmesinin 11/3 maddesinde ihtarı müteakip en geç 30 gün içerisinde kiralananın tahliye edileceğinin kararlaştırıldığı gerekçesi ile hüküm kurulmuş ise de; Sözleşmenin 11/3 maddesi ile belirlenen 30 günlük süre Türk Borçlar Kanun'unun 328. maddesinde belirtilen “daha uzun bir fesih bildirim süresi veya başka bir fesih dönemi” niteliğinde bulunmadığından yasaya aykırı olan bu sözleşme hükmü geçersizdir.
 Davacı tarafından davalıya gönderilen ve tebliğ edilen feshi ihbar bildirimi yukarıda açıklandığı gibi ikinci altı aylık dönemin üç ay öncesine rastlamadığından açılan dava süresinde değildir. Bu nedenle mahkemece davanın reddine karar verilmesi gerekirken yazılı şekilde kiralananın tahliyesine karar verilmesi doğru olmadığından hükmün bu sebeple bozulması gerekmiştir.
 
 ## Yargıtay 6. HD 2014/11233 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/97411100)
+
 Olayımıza gelince; Davacılar 02.08.2012 tarihinde çektikleri ihtarda, davalının taşınmazı satın aldıkları tarihten itibaren belirsiz süreli kira sözleşmesi ile kullandığını belirterek, ihtiyaç iddiası nedeniyle tahliye talebinde bulunmuşlar, ihtarname 06.08.2012 tarihinde davalıya tebliğ edilmiş, dava ise 22.11.2012 tarihinde açılmıştır. Davacı vekili dava dilekçesinde davalı kiracının satın alma tarihinden öncesinden itibaren davalının taşınmazda kiracı olduğunu bildirmiş ancak sözleşmenin başlangıç tarihini bildirmemiştir. Davalı ise savunmasında taşınmazda 12 yıldır kiracı olduğunu belirtmekle beraber yine sözleşmenin başlangıç tarihine ilişkin beyanda bulunmamıştır. Davalı kiracı taşınmazda belirsiz süreli sözleşmeye göre oturduğuna göre davanın bu kanunun 328. maddesinde fesih bildirimi için öngörülen sürelere uyularak belirlenecek tarihten başlayarak bir ay içinde açılması gerekir. Bunun için sözleşmenin başlangıç tarihinin bilinmesi zorunludur.
 
 ## Yargıtay 6. HD 2014/9495 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/97174200)
 
 Taraflar arasında yazılı kira akdi bulunmamakla birlikte sözleşmenin 30.03.2010 başlangıç tarihli ve belirsiz süreli olduğu uyuşmazlık konusu değildir. Kiralanan arsa niteliğinde olup uyuşmazlığa TBK’nunun kira genel hükümleri uygulanmalıdır. Taşınmaz ve taşınır yapı kiralarıyla ilgili belirsiz süreli kira sözleşmelerinde feshi ihbar süresi Türk Borçlar Kanunun 329.maddesi hükmüne göre belirlenir. Anılan madde hükmü gereğince süresiz sözleşmelerde 6 (altı) aylık dönem için 3 (üç) ay önceden kiracıya fesih bildiriminin tebliğ ettirilmesi ve o dönem sonunda tahliye davası açılması gerekir. TBK’nun 328/2.maddesi uyarınca süresinde yapılmayan bildirim bir sonraki fesih dönemi için geçerli olur. Somut olayda 22.05.2013 tarihli fesih bildirimine dayalı olarak 14.06.2013 tarihinde dava açılmıştır. Ne var ki sözleşmenin kurulduğu tarihe nazaran 14.06.2013 tarihinde dava açılabilmesi için ikinci altı aylık dönem olan (01.10.2012-01.04.2013) dönemi için feshi
 
@@ -62,10 +76,14 @@ ihbarın üç ay önceden yani 01.10.2012-01.01.2013 tarihleri arasında çekilm
 
 ## Yargıtay 6. HD 2014/4438 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/97260800)
+
 Hükme esas alınan 1.11.2010 başlangıç tarihli ve bir yıl süreli kira sözleşmesi konusunda bir uyuşmazlık bulunmamaktadır. Sözleşmenin 2 maddesinin c fıkrasında ”kira süresi, kiracı şirket tarafından mülk sahibine bir ay önceden haber vermek koşuluyla yeni bir kontrat yapmaya gerek olmaksızın uzatılabilir” hükmüne yer verilmiştir. Kira sözleşmesine göre kiralananın TBK genel hükümlerine tabi olduğu anlaşılmaktadır. TBK.nun.327. Maddesinde "açık veya örtülü biçimde bir süre belirlenmiş ise kira sözleşmesi bu sürenin sonunda kendiliğinden sona erer. Taraflar bu durumda açık bir anlaşma olmaksızın kira ilişkisini sürdürürlerse, kira sözleşmesi belirsiz süreli kira sözleşmesine dönüşür.” genel hükümlere tabi kira sözleşmelerinde kira sözleşmesinin sona ermesi için az yukarda açıklandığı gibi tarafların kira sözleşmesinin yenilenmeyeceğine ilişkin yazılı bildirimde bulunmadıklarına göre sözleşme kendiliğinden süresiz olarak uzamıştır. Kiracılık ilişkisinin devam ettiği ve kira bedellerinin ise kiralayanın ölümünden sonra mirasçılarının kira bedellerinin kendilerine ödenmesi için yazılı bildirimde bulunmadıkları, bu nedenle kira bedellerinin ödenmediğinin kabulü gerekir.
 Taraflar arasındaki kira sözleşmesi halâ ayakta olup süresiz sözleşmeye dönüşmüştür. Taraflar arasında kira sözleşmesi ayakta olduğuna göre ve uyuşmazlığın bu kira sözleşmesine göre çözümlenmesi gerekmektedir. 6100 sayılı HMK'nun 4/1-a madesi ile "Kiralanan taşınmazların, 9/6/1932 tarihli ve 2004 sayılı İcra ve İflas Kanununa göre ilamsız icra yoluyla tahliyesine ilişkin hükümler ayrık olmak üzere, kira ilişkisinden doğan alacak davaları da dâhil olmak üzere tüm uyuşmazlıkları konu alan davalar ile bu davalara karşı açılan davaların Sulh Hukuk Mahkemesinde görüleceği" hüküm altına alınmıştır. Dava tarihi itibariyle., uyuşmazlığın Sulh Hukuk Mahkemesinde görülüp, sonuçlandırılması gerekmektedir.
 
 ## Yargıtay 6. HD 2014/4128 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/84872500)
 
 Davada dayanılan ve hükme esas alınan 11.02.2010 tanzim tarihli ve 2 yıl süreli kira sözleşmesi konusunda taraflar arasında uyuşmazlık bulunmamaktadır. Kira sözleşmesinin 7. maddesinde "Belediyenın dilediği zaman tek taraflı olarak sözleşmeyi feshedebileceği..." 14.maddesinde ise "...kiralanan yere belediyenin yada kamu kurum ve kuruluşlarınca ihtiyaç duyulması ve satışı halinde sözleşmenin tek taraflı olarak feshedilebileceği ve kiracı belediyeden hiçbir hak ve tazminat talep edilemeyeceği ..." kararlaştırılmıştır. Dava konusu yer 2886 sayılı yasa gereğince ihale ile kiraya verilmiştir. 5393 sayılı Belediyeler Yasasının 15.maddesi gereğince belediyeye ait taşınmazların tahliyelerinde 2886 sy'nın 75.maddesinin uygulanacağı tartışmasızdır. Dava tarihinde yürürlükte bulunan 6570 sayılı yasa yada daha sonra yürürlüğe giren TBK'nun genel hükümlerine veya konut yada çatılı işyeri kirası hükümlerine tabi olup olmamasının önemi yoktur. Ancak süreli bir kira sözleşmesi ile kiralanan yerin kira süresi dolmadan davalı belediyece tahliyesinin talep
 
@@ -74,27 +92,39 @@ Bu nedenle mahkemece, öncelikle kiralanan yerin (park içindeki kafeterya) nite
 
 ## Yargıtay 13. HD 2013/29806 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/483819400)
+
 Taraflar arasında yapılan 05.07.2011 tarihli “Satıcı/kiraya veren sözleşmesi” başlıklı sözleşme ile davacının 05.10.2011 tarihine kadar hizmet vermesinin kararlaştırıldığı, aynı sözleşmenin “Koşullar” başlıklı kısmının 1. maddesinde “ taraflar sözleşme süresinin bitiminden en az 15 gün önce yazılı fesih bildiriminde bulunurlarsa sözleşme dönem sonu itibariyle, fesih bildiriminde bulunulmazsa uzama süresi sonunda sona erecektir. Uzama süresi 1 aydır.” şeklinde düzenleme yapılmış olup, sözleşmedeki bu düzenlemeye göre sözleşmenin normal bitiş tarihinin 05.10.2011 tarihi olduğu, davalı tarafça fesih bildiriminde bulunulmaması nedeniyle 1 ay süre ile uzadığı tarafların kabulünde olup, bu 1 aylık uzama süresinin sonunda taraflarca fesih bildiriminde bulunulmaması halinde sürenin her defasında tekrar uzayacağına dair sözleşmede bir düzenleme bulunmadığına göre sözleşmenin 05.11.2011 tarihinde sona erdiğinin kabulü gerekir.
 Bu durumda davalı tarafından taşınmazın 15.11.2011 tarihinde 3. kişiye kiraya verilmesine ilişkin işlem, taraflar arasındaki tellallık sözleşmesinin sona ermesinden sonra gerçekleşmiş olmakla davacı taraf kiralama işleminin yapıldığı tarih itibariyle sona ermiş bulunan tellallık sözleşmesi hükümlerine göre ücret talep etmesi mümkün değildir. Hal böyle olunca mahkemece dava konusu kiralama işleminin tellallık sözleşmesinin sona ermesinden sonra gerçekleştiği gözetilerek davanın reddine karar verilmesi gerekirken yazılı şekilde davanın kabulüne dair hüküm tesisi usul ve yasaya aykırı olup, bozmayı gerektirir.
 
 ## Yargıtay 6. HD 2013/14404 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/535640500)
+
 Taşınmaz ve taşınır yapı kiralarıyla ilgili belirsiz süreli kira sözleşmelerinde feshi ihbar süresi Türk Borçlar Kanunun 329.maddesi hükmüne göre belirlenir. Anılan madde hükmü gereğince süresiz sözleşmelerde 6 (altı) aylık dönem için 3 (üç) ay önceden kiracıya fesih bildiriminin tebliğ ettirilmesi ve o dönem sonunda tahliye davası açılması gerekir. Fesih dönemlerinin hesabında kira sözleşmesinin başlangıç tarihi esas alınır. Sözleşmede veya kanunda belirtilen fesih dönemine veya bildirim süresine uyulmamışsa, bildirim bir sonraki fesih dönemi için geçerli olur. Konut ve çatılı işyeri kiraları dışındaki diğer kira ilişkilerinde kiralananın tahliyesi için feshi ihbar yeterli olup, başka bir sebep aramaya gerek yoktur.
 
 ## Yargıtay 6. HD 2013/12393 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/537002900)
 
 Davaya dayanak yapılan ve hükme esas alınan 18/02/2011 tanzim tarihli kira sözleşmesi konusunda taraflar arasında uyuşmazlık bulunmamaktadır. Kira sözleşmesinin 11. maddesinde "Taşınmaza Bakanlığımızca ya da kamu idarelerince ihtiyaç duyulması veya satılması halinde sözleşme tek taraflı olarak feshedilir" düzenlemesi bulunmaktadır. Mahkemece kira sözleşmesinin 11. maddesinin tarafların serbest iradesiyle hüküm altına alındığı gerekçesiyle davanın reddine karar verilmiştir. Kiralananın niteliği itibariyle TBK'nun konut ve çatılı işyeri kiralarına ilişkin hükümlerine tabi olduğu anlaşılmaktadır. Davalı, 03/02/2012 tarihli yazı ile kira sözleşmesini feshederek, taşınmazın teslim edilmesini istemiş ise de kiralananın niteliği ve tabi olduğu yasa itibariyle fesih ve tahliye sebepleri sınırlı olup, kanunda yazılı olmayan bir neden sözleşmede yazılı olsa da kiraya verene tek taraflı fesih bildirimi hakkı vermediğinden kiraya verenin tek yanlı fesih bildirimi sonuç doğurmaz. Taraflar arasındaki kira ilişkisi ve kira sözleşmesi halen geçerli ve yürürlüktedir.
 Bu nedenle davacı tarafından açılan davanın kabulü ile kiracılığın tespitine karar verilmesi gerekirken, yazılı gerekçe ile davanın reddine karar verilmesi doğru değildir.
 
 ## Yargıtay 6. HD 2013/8268 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/280857000)
+
 Dava konusu kiralananın anahtarlarının 15/01/2009 tarihinde teslim edildiği çekişmesizdir. Davalı kiracının tahliye tarihinden önce usulüne uygun bir fesih bildirimi bulunmamaktadır. Mahkemece taraflar arasındaki sözleşme şartlarına göre erken tahliye nedeni ile kiraya verenin 2 aylık kira bedeli talep edebileceği kabul edilerek aylık 4320 TL'den 2 aylık kira tutarı olan 8640 TL'nin davalıdan tahsiline karar verilmiş ise de; Taraflar arasındaki sözleşme ve ek sözleşme hükümleri gereğince 10.12.2008 tarihinden sonra kira bedelinin % 20 oranında artırılarak ödenmesi gerekir. Mahkemece taraflar arasındaki ek sözleşmede kararlaştırılan artış hükmü gözetilmeksizin bir önceki dönem kira bedeli olan 4320 TL üzerinden kira alacağına hükmedilmesi doğru değildir.
 
 ## Yargıtay 6. HD 2013/7981 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/550501100)
+
 Olayımızda; Sözleşmenin 3.maddesinde, erken tahliyeye ilişkin bildirimin en az 60 gün öncesinden yapılacağı kararlaştırılmıştır. Davalı kiracının noterden keşide ettiği fesih bildirimi davacı kiraya verene 02.02.2010 tarihinde tebliğ edilmiş, anahtar da icra dosyasına 01.03.2010 tarihinde teslim edilmiştir. Belirtilen tarihler itibariyle feshin sözleşmeye uygun olduğundan söz edilemez. Sözleşme ile feshin tahliye tarihinden en az 60 gün önce yapılacağı benimsendiğine göre mahkemece davalının erken tahliyeden kaynaklanan sorumluluğunun yukarıda açıklanan ilke ve esaslar çerçevesinde belirlenerek sonucuna göre bir karar verilmesi gerekirken yazılı şekilde davanın reddine karar verilmesi doğru değildir.
 
 ## Yargıtay 6. HD 2013/5845 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/404519000)
 
 Davada dayanılan ve hükme esas alınan 17.1.2007 başlangıç tarihli ve beş yıl süreli kira sözleşmesi konusunda taraflar arasında uyuşmazlık bulunmamaktadır. Sözleşme ile
 
@@ -103,9 +133,13 @@ Anılan düzenlemeye göre kiralanana ilişkin kira sözleşmesi süresiz hale d
 
 ## Yargıtay 6. HD 2012/15243 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1056395000)
+
 Takibin ve davanın dayanağı durumundaki 25.10.2009 başlangıç tarihli ve belirsiz süreli kira sözleşmesi hususunda taraflar arasında herhangi bir uyuşmazlık bulunmamaktadır. Böyle bir sözleşmeye konulan kefaletin, dava ve karar tarihinde yürürlükte bulunan 818 Sayılı B.K.nun 484.maddesine göre geçerli olup olmadığının tesbiti gerekmektedir. Anılan maddeye göre kefalet sözleşmesinin geçerli olabilmesi için yazılı şekilde olması ve muayyen bir miktarı içermesi zorunludur. Taraflar arasındaki kira sözleşmesinde kararlaştırılan aylık kira miktarı muayyen ise de kira sözleşmesinin belirsiz süreli olması nedeniyle, kefilin sorumlu olduğu miktar ve süre belirli olmadığından kefaletin belirli bir miktarı içerdiği kabul edilemez. Bu nedenle geçerli bir kefalet sözleşmesi bulunmadığından, kefil yönünden davanın reddine karar verilmesi gerekirken, yazılı gerekçe ile kısmen kabulüne karar verilmesi doğru değildir.
 
 ## Yargıtay 6. HD 2012/9600 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1054147000)
 
 İcra takibinde ve davada dayanılan ve hükme esas alınan 1.8.2003 başlangıç tarihli ve bir yıl süreli kira sözleşmesi konusunda taraflar arasında uyuşmazlık bulunmamaktadır. Sözleşme ile ... Sokak No: ...'de bulunan yazıhane, büro olarak kullanılmak üzere davacıya kiralanmıştır. Sözleşmenin özel şartlar bölümü 8. maddesinde kiracının bir yıllık olan sözleşme bitiminden dört ay önce akdi feshedeceğini noterden tahliye bildirisi ile veya fesih bildirimini mülk sahibi ...'a imzalatmak suretiyle bildirebileceği, kiracının süresi içinde
 
@@ -122,6 +156,8 @@ sözleşmesini yenilmeyeceğine dair ihtarname tebliğ ettirirse kira sözleşme
 
 ## İstanbul BAM 15. HD 2026/541 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1208371300)
+
 Bu nedenle gönderilen ihtarnameler ve fesih bildirimi haksız ve hukuka aykırıdır.
 “ denilerek zararlarının tazmini talep edilmiş olduğunu 6100 Sayılı HMK'nın 107/1. maddesinde davanın açıldığı tarihte alacağın miktarı yahut değerinin tam ve kesin olarak belirlenememesi halinde belirsiz alacak davası açılabileceğinin düzenlendiğini, davalı tarafından sanki bizim talebimiz yaptığımız masrafların ödenmesiymiş gibi yapılan masrafların belli olduğu gerekçesiyle belirsiz alacak davası açılamayacağı iddia edilmiş olup Halbuki huzurdaki davada ile taraflar arasında imzalanan Taşeron Sözleşmesinin davalı tarafından haksız olarak feshedildiğinin tespiti ila haksız fesih sonucu davacının uğradığı müspet zarar ve kar yoksunluğunun davalıdan tahsili talep edilmiş olup Sözleşme ifa edilseydi elde edeceği karı kapsayan, mahrum kalınan kar ile müspet zararın tespiti bilirkişi incelemesi ve yargılamayı gerektirmekte olup, bu hacimdeki bir iş için bizim bu aşamada alacak miktarını tam ve kesin olarak belirlememiz mümkün olmadığını dolayısıyla belirsiz alacak davası açmada hukuki yararlarının bulunduğunun izahtan vareste olduğunu, davalı tarafça davacı şirketin gerekli ekipmana sahip olduğunu sözleşme öncesinde beyan ettiğini ancak daha sonra bir çok yeni ekipman satın alarak
 maliyeti arttırdığını iddia etmişse de; davacı şirketin iddia edildiği gibi bir beyanı kesinlikle söz konusu olmadığını Zira dava dilekçesinde de belirtildiği üzere, davalı şirketle yazılı anlaşma yapılmadan önce karşılıklı sözlü mutabakata varıldığından, davacı davalı ile sözleşme yapılacağına güvenerek, Aralık 2017 den itibaren iş makinesi kiralama ve satın alma işlemlerine başlamış olduğunu davacı sözleşme konusu tüneli inşa etmek için gerekli ekipmanları, iş makinelerinin bir kısmını satın almış, bir kısmını ise kiralama yöntemi ile temin etmiş ve ... alanında makine parkı kurmuş olduğunu tüm bu süreç davalı şirketin bilgisi dahilinde olup Nitekim davalı yanın cevap dilekçesinde bu hususa dair beyanları durumun bilgileri dahilinde olduğunun kanıtı olduğunu bu noktada sormak gerekir ki, davalı taraf henüz sözleşme kurulmadan kiralama ve satın almaların yapıldığını bildiği halde, neden 05.01.2018 tarihinde taşeron sözleşmesini imzalamıştır? Ya da bu hususta davacı şirkete yönelik herhangi bir ihtarı var mıdır? Ayrıca bu hususta bir memnuniyetsizlik söz konusu ise, neden fesih ihtarına konu edilmemiştir?
@@ -137,6 +173,8 @@ Zira konut ve çatılı iş yeri kirasının konusunu oluşturmayan taşınmaz v
 Kiralananın yeniden inşası veya imarı amacıyla esaslı onarımı, genişletilmesi ya da değiştirilmesi gerekli ve bu işler sırasında kiralananın kullanımı imkânsız ise, belirli süreli sözleşmelerde sürenin sonunda, belirsiz süreli sözleşmelerde kiraya ilişkin genel hükümlere göre fesih dönemine ve fesih bildirimi için öngörülen sürelere uyularak belirlenecek tarihten başlayarak bir ay içinde açacağı dava ile sona erdirebilir." düzenlemesi mevcuttur.
 
 ## İstanbul BAM 55. HD 2026/105 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1189343300)
 
 TBK' nun 325. maddesinde; "Kiracı, sözleşme süresine veya fesih dönemine uymaksızın kiralananı geri verdiği takdirde, kira sözleşmesinden doğan borçları kiralananın benzer koşullarla kiraya verilebileceği makul bir süre için devam eder. Kiracının bu sürenin geçmesinden önce kiraya verenden kabul etmesi beklenebilecek, ödeme gücüne sahip ve kira ilişkisini devralmaya hazır yeni bir kiracı bulunması halinde, kiracının kira sözleşmesinden doğan borçları sona erer." düzenlemesine yer verilmiştir. Kira sözleşmenin varlığını ispat külfeti kiraya verene, kira bedelinin ödendiğini ve mecurun usulüne uygun şekilde tahliye edildiğini ispat külfeti ise kiracıya aittir. Haksız fesih sebebiyle oluşan zararların talep edildiği karşı dava yönünden mahkeme gerekçesinde isabetsizlik bulunmadığı, asıl ve karşı dava yönünden istinaf sebeplerinin yerinde olmadığı anlaşılmıştır.Dairemiz ilk derece mahkemesi kararını hem maddi olay, hem de hukuka uygunluk bakımından incelemeye tabi tutarak tespit edilen yargılama hatalarını bizzat düzeltmek amacıyla yapılan inceleme sonunda; dairemizce duruşma yapılmasına gerek
 

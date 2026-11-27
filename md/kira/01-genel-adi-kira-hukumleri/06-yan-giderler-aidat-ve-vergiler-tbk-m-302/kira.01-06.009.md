@@ -22,28 +22,40 @@ uyari: "Derleyenin seçtiği alıntılardır; kararın tamamı değildir. Künye
 
 ## Yargıtay 13. HD 2012/11306 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/759091800)
+
 Taraflarca aktedilen 28.5.2008 tarihli sözleşmenin ‘dairenin teslimi’ başlıklı 7.maddesinde “…satıcı taraf Ekim 2008 tarihinde ... kullanım izin belgesi başvurusu yapmadığı takdirde, alıcı'nın şu anda oturduğu evin kira bedeli ile apartman aidatını bahse konu tarihten itibaren ödeyecektir.” hükmü mevcuttur. Davacı, geç teslim nedeniyle kira kaybı tazminatı isteyebilirse de, sözleşmedeki bu hüküm gereğince davalı yüklenici, apartman aidatı tazminatı ile ilgili olarak iskân ruhsatı başvurusunun yapıldığı tarihe kadar olan kısmı ile sorumludur. Dosya muhteviyatına göre yüklenicinin iskân ruhsatı başvurusu yaptığı da
 
 görülmektedir. Öyle olunca Mahkemece, bu kısım istek yönünden sözleşmedeki bu hüküm nazara alınarak karar verilmesi gerekirken aksine düşünce ile yazılı şekilde hüküm kurulmuş olması usul ve yasaya aykırı olup bozmayı gerektirir.
 
 ## Yargıtay 6. HD 2012/4234 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/564689400)
+
 Davada dayanılan ve hükme esas alınan 15.05.1998 başlangıç tarihli ve 4 yıl süreli kira sözleşmesi konusunda taraflar arasında uyuşmazlık bulunmamaktadır. Ortak gider borçlarına ilişkin sözleşmenin 1.9 maddesinde; kiracının iş merkezinin genel giderlerine, kiralanan mekanın payına düşen bölümü nispetinde katkıda bulunacağı, bu payın tesisin yönetimi tarafından görevlendirilmiş idare şirketi tarafından aylık olarak hesaplanarak talep edileceği, bu şirketin kiralayanın bizzat kendisi de olabileceği, ödemenin faturanın tebliğinden itibaren beş gün içinde yapılacağı hükmüne yer verilmiştir. Davacı kiralayan…
 
 ## Yargıtay 6. HD 2012/3600 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/568692600)
 
 Davada dayanılan ve hükme esas alınan 01.01.2008 başlangıç tarihli ve 5 yıl süreli kira sözleşmesi konusunda uyuşmazlık bulunmamaktadır. Güvence bedeline ilişkin sözleşmenin 10.maddesinde; kiracının kiralayanın uğrayabileceği muhtemel zararlara ve ödenmeyen kira ve yönetim giderlerine karşılık 77.280 USD teminat mektubu vereceği, depozitonun hiçbir şekilde kira ve yönetim giderlerine mahsup edilmeyeceği, kiracının mecuru tahliye etmesinden sonra kira borcu ve taşınmazda hasar bulunmaması, yönetim gideri, elektrik, su vs. borçların ödenmesi halinde kiralayan tarafından iade edileceği hükmüne yer verilmiştir. Sözleşmenin 6/c maddesinde ise kiracının sözleşme süresinden evvel mecuru tahliye etmek istemesi halinde üç aydan az olmamak koşulu ile mecurun tahliyesinden sonra boş kaldığı süre içindeki kira bedellerini ödeyeceği, kiracının bu bedelden indirim talep edemeyeceği kararlaştırılmıştır. Tahliye tarihinden önceki dönem için takibe konu kira ve aidat borçları dışında depozitonun iadesini engelleyen borcun varlığı davacı kiralayan tarafından kanıtlanmış değildir.
 Ne var ki sözleşme davalı kiracı tarafından haklı bir nedene dayalı olmadan süresinden önce feshedilerek kiralanan 27.05.2009 tarihinde tahliye edilmiştir. Kural olarak kiracının, kira süresi sona ermeden kira sözleşmesini tek taraflı olarak feshederek kiralananı tahliye etmesi durumunda kira süresinin sonuna kadar kira parasından sorumludur. Bununla birlikte davacı kiralayanın, bu yerin yeniden kiralanması konusunda gayret göstermesi,böylece zararın artmasını önlemesi için kendisine düşen görevi yapması gerekir. Bu durumda davacının zararı tahliye tarihinden kiralananın aynı koşullarla yeniden kiraya verilebileceği tarihe kadar boş kaldığı süreye ilişkin kira parasından ibarettir. Sözleşmenin erken tahliyeye ilişkin özel bir düzenleme içeren ve “Diğer Hükümler’e” göre öncelikli olarak uygulanacak olan 6/c maddesine göre bu süre üç aydan az olmamak üzere belirlenmiştir. Bu durumda mahkemece davaya konu taşınmazın aynı şartlar ve bedelle ne kadar sürede kiraya verilebileceğinin tespiti ile üç aydan az olmamak üzere bu süreye ilişkin kira parasının da teminat bedelinden indirilerek kalan kısmın iadesine karar verilmesi gerekirken yazılı şekilde hüküm verilmesi hatalı olmuştur…
 
 ## Yargıtay 6. HD 2012/3260 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/564135500)
+
 Taraflar arasındaki 1.6.2007 başlangıç tarihli 5 yıl süreli kira sözleşmesi bulunduğu konusunda bir uyuşmazlık bulunmamaktadır.Davacı 30.6.2009 düzenleme tarihli fesih ihtarında ortak giderlerin nasıl hesaplandığı ve miktarının bildirilmesi için 30 gün süre vererek, süreye uyulmaması halinde sözleşmeyi fesh ettiğini ve taşınmazı 1.9.2009 da tahliye edeceğini ihtar etmiştir. Mahkemece yapılan keşif neticesinde kiralananın yer aldığı alışveriş merkezinin yüzde doksan oranında boş kaldığı,otopark ve mağaza alanlarında bir hareketlilik bulunmadığı, gezinti alanlarında aydınlatmanın az miktarda olduğu, önceki döneme göre yüksek miktarda ortak gider istendiği tesbit ve rapor edilmiştir. Davacı BK 250. maddesine göre aktin feshini talep etmiş ise de, olayda BK. 250. maddesi şartları oluşmamıştır.Haklı nedenle fesih ile ilgili BK. 264. maddesindeki yasal düzenlemeye uygun şekilde fesih ihtarı da gönderilmemiştir.Bu durumda davanın reddine karar vermek gerekirken yazılı şekilde kabulü doğru değildir.
 
 ## Yargıtay 6. HD 2012/1729 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/571845100)
+
 Taşınmazın tahliye edildiği savunulmuş ancak usulüne uygun anahtar teslimine ilişkin belge sunulmamış ise de, davacı tarafça taşınmazın tahliye edildiği kabul edilip, usulüne uygun anahtar teslimi olmamasına rağmen mahkemenin taşınmazın 2009 temmuz ayında tahliye edildiğine ilişkin kabulüne karşı temyiz itirazında bulunulmadığına göre taşınmazın 2009 yılı Temmuz ayında tahliye edildiğinin kabulü gerekir. Davalı tarafça sözleşmenin 8.maddesindeki şartlara uygun fesih ihbar gönderilmediğine göre, bu durumda mahkemece yeniden kiraya vermek için gereken makul süre, sözleşmenin 8.maddesinde belirtilen " 1 ay " olarak kabul edilerek, anahtar teslim tarihinden itibaren 1 aylık makul süre kira parasına ve 1 aylık aidat parasına hükmetmek gerekirken yazılı gerekçe ile 4 aylık kira ve aidat bedeline hükmedilmesi doğru olmadığından hükmün bozulması gerekmiştir.
 
 ## Yargıtay 6. HD 2012/1573 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/576418300)
 
 İcra takibinde ve davada dayanılan ve hükme esas alınan 15.2.2006 başlangıç tarihli ve bir yıl süreli kira sözleşmesi konusunda taraflar arasında uyuşmazlık bulunmamaktadır. Sözleşme ile ... plakalı ticari minibüs aylık 1.850 yolcu ücreti karşılığı bedelle davalıya kiralanmış, sözleşmenin özel şartlar bölümü 3. maddesinde yolcu ücretlerine zam geldiğinde aylık kira bedelinin zamlanan miktar üzerinden hesap edileceği, 6 maddesinde aracın çalıştırılmasından dolayı cezaların, şoför vb. elemanların ücret ve sigorta bedellerinin, yakıt ve onarım giderlerinin, vasıtanın çalıştırılması ile ilgili her türlü masraf ve giderlerin tamamı ile, 7. maddesinde de maliye, belediye ve minibüsçüler odası aidatlarının kiracıya ait olacağı kararlaştırılmıştır. Serbest irade ile konulan bu şartlar geçerli olup tarafları bağlar. Davacı ...
 6.İcra Müdürlüğü’nün 2009 / 7580 sayılı icra dosyası ile 15.6.2009 tarihinde başlattığı icra takibi ile Ekim 2008 ayı kirası ile 2.600 TL ile trafik cezaları ve motorlu taşıtlar vergisi 3.210 TL’nin faizleri ile tahsilini talep etmiş, davalının takibe yasal süresi içinde itiraz etmesi üzerine açılan davada da itirazın iptali ile birlikte sözleşme gereği davalının yükümlülüğünde olmasına karşın kendisi tarafından ödenen minibüsçüler odası aidatı, belediye ruhsat harcı, araca ait motorlu taşıtlar vergisi ve trafik cezaları toplamı 2.212.81 TL’nin de davalıdan tahsilini istemiştir. Görüldüğü üzere kira sözleşmesi ile davalı, kira parası dışında yapılacak işin gereği çok sayıda ödeme kaleminden sorumlu tutulmuş ve bu kalemler gerek icra takibi ile gerek dava ile dava konusu edilmiştir.
@@ -52,14 +64,20 @@ Yargılama sırasında kiracılık sürecinde, davacının, davalının ve üç�
 
 ## Yargıtay 6. HD 2011/14394 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1059961800)
+
 Öte yandan, davacı tarafından yapılan icra takiplerinde, kira ve aidat alacaklarının % 9 faizi ile tahsili istenmiş iken, yargılamada alınan ek bilirkişi raporu doğrultusunda, tarafların tacir olması ve davalı kiracı şirket açısından ticari iş niteliği arz etmesi nedeniyle 3095 Sayılı Kanun’un 2 / 3 maddesi gereği ticari temerrüt faizi istenebileceğinden hareketle, HUMK’nun 74. maddesi hükmüne aykırı şekilde talep aşılarak takip konusu edilen alacaklara takip tarihinden itibaren yıllık % 19 avans faizi uygulanmasına hükmedilmesi de usul ve yasaya aykırıdır.
 
 ## Yargıtay 6. HD 2011/12323 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1059104100)
 
 Kiracının kira süresi sona ermeden kira sözleşmesini tek taraflı olarak feshederek kiralananı tahliye etmesi durumunda kural olarak kira süresinin sonuna kadar kira parasından sorumludur. Bununla birlikte davacı kiralayanın bu yerin yeniden kiralanması konusunda gayret göstermesi, böylece zararın artmasını önlemesi için kendisine düşen ödevi yerine getirmesi gerekir. Aksi halde hakim tarafından tenkise tabi tutulur. Bu durumda davacının zararı tahliye tarihinden kiralananın aynı koşularla yeniden kiraya verilebileceği tarihe kadar boş kaldığı süreye ilişkin kira parasından ibarettir. Sözleşmenin özel şartlar 8. maddesinde taraflar bir aylık feshi ihbar süresi getirerek bu süreyi bir ay olarak kararlaştırmışlardır. Bu durumda mahkemece yeniden kiraya vermek için gereken makul sürenin bir ay olarak kabulü gerekirken bu süreyi aşar şekilde bilirkişi aracılığıyla makul süre tespiti doğru değildir. Ayrıca, davacı vekili tarafından dava dilekçesinde açıkça 2008 yılı Şubat-Mart-Nisan ve Mayıs ayları kira paraları istenmişken, talebi aşacak şekilde 2008 Ocak ayı kira parasının da tahsiline karar verilmesi doğru değildir.
 Mahkemece, taraflarca kira sözleşmesinin 8.maddesinde düzenlenen bir ay evvelinden bildirim şartı gereğince bir aylık makul süre kira parası ve bu süreye ilişkin aidat ile davacı tarafından ödendiği anlaşılan 2008 yılı ocak ayına ait aidat bedeli toplamının tahsiline karar verilmesi gerekirken yazılı şekilde fazla alacağa hükmedilmesi doğru olmadığından hükmün bozulması gerekmiştir.
 
 ## Yargıtay 6. HD 2011/11504 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1078497500)
 
 Davada dayanılan ve hükme esas alınan 5.5.1999 başlangıç tarihli ve bir yıl süreli kira sözleşmesi konusunda taraflar arasında uyuşmazlık bulunmamaktadır. Sözleşmenin özel şartlar bölümü 3. maddesinde tarafların sözleşme bitiminden üç ay önce yazılı olarak bildirimde bulunmadıkları takdirde sözleşmenin kendiliğinden bir yıl daha uzamış olacağı, iki yılın sonunda sözleşmenin yenileneceği kararlaştırılmıştır. Davalı 23.7.2009 keşide ve 29.7.2009 tebliğ tarihli ihtarname ile kira sözleşmesini 15.8.2009 tarihi itibariyle feshettiğini bildirmiş, kiralanan anahtarlarını da 21.8.2009 tarihli tutanakla davacılara teslim etmiştir. Davalının tahliyesinden sonra taşınmaz davacılar tarafından 1.11.2009 tarihli sözleşme ile yeniden kiraya verilmiştir. Davacıların işbu davadaki talepleri yeniden kiraya verme tarihine kadar olan kira bedelleri ile yönetim giderlerinin tahsilidir. Yargılama
 
@@ -67,13 +85,19 @@ sırasında yerinde yapılan keşif sonrasında alınan 6.1.2011 tarihli bilirki
 
 ## Yargıtay 18. HD 2011/9982 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/803307400)
+
 Kat Mülkiyeti Yasası'nın 22. maddesinin birinci fıkrasına göre kat malikinin 20. madde uyarınca payına düşecek gider ve avans borcundan, gecikme tazminatından, bağımsız bölümlerin birinde kira akdine, oturma (sükna) hakkına veya başka bir sebebe dayanarak devamlı bir şekilde faydalananlar da müştereken ve müteselsilen sorumludur. Ancak kiracının sorumluluğu ödemekle yükümlü olduğu kira miktarı ile sınırlı olup yaptığı ödeme kira borcundan düşülür. Madde metninden de anlaşılacağı gibi 20. maddeye göre ödenmesi gereken borçtan kat maliki sorumludur. Ne var ki kat maliki aleyhine açılmış bir dava bulunmamaktadır. Kat malikinin kiracısı olduğu anlaşılan davalının ise ödemesi gereken aidat tutarı hem Kat Mülkiyeti Yasası'nın yukarıda değinilen 22. maddesine, hem de dosyada bulunan anataşınmaza ait yönetim planının 14. sayfasında "Genel Giderlere Katılma" başlığını taşıyan bölümün (b) bendine göre, hiç bir şekilde kira miktarını aşamayacağı düşünülmeden ortak gider ve aidat borcunun tamamının davalı kiracıdan tahsiline karar verilmiş olması doğru görülmemiştir.
 
 ## Yargıtay 6. HD 2011/10270 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1063263400)
+
 Davada dayanılan ve hükme esas alınan 15.10.2007 başlangıç tarihli ve 8 ay süreli kira sözleşmesi konusunda taraflar arasında uyuşmazlık bulunmamaktadır. Sözleşmenin ortak gidere ilişkin 15.maddesinde, Terminal İşletmesi Yönetmeliğinin 31,32 ve 33. maddelerinin uygulanacağı belirtilmiştir.Buna ilişkin olarak yönetmeliğin 32.maddesinde;…
 
 ## Yargıtay 18. HD 2011/7507 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/800817700)
 
 634 Sayılı Kat Mülkiyeti Yasasının 22. maddesinin birinci fıkrasına göre kat malikinin 20. madde uyarınca payına düşecek gider ve avans borcundan, gecikme tazminatından bağımsız bölümlerin birinde kira akdine dayanarak devamlı bir şekilde yararlananlar da müşterek ve müteselsilen sorumludur. Ancak, kiracının sorumluluğu ödemekle yükümlü olduğu kira miktarı ile sınırlı olup yaptığı ödeme kira borcundan düşülür. Mahkemece yasanın bu hükmü dikkate alınarak kiracı davalının anataşınmazın bağımsız bölümü ile ilgili ortak gider ve aidat borcunun bağımsız bölüm malikine ödemekle yükümlü bulunduğu kira
 
@@ -81,30 +105,44 @@ miktarını aşıp aşmadığı araştırılarak kira tutarı kadarından soruml
 
 ## Yargıtay 19. HD 2011/8248 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/811039300)
+
 Takip talebinde asıl kira alacağına sözleşmenin 7.maddesi uyarınca aylık %5 gecikme faizi ve diğer aidatlarla ilgili alacağa yasal faiz uygulanması talep edilmesine karşın mahkemece bu ayrıma gidilmeksizin talep aşılacak şekilde tüm asıl alacağa %5 oranında faiz uygulanması HUMK’nun 74.maddesine aykırılık oluşturur.
 
 ## Yargıtay 6. HD 2011/4606 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1057838000)
 
 Sözleşmenin özel şartlar bölümü 7. maddesinde aidat giderlerinden davalı kiracının sorumlu olduğu düzenlenmiştir. Aidat parası dönemsel olarak yönetime ödenmesi gereken bir miktar olup mahkemece bilirkişi raporu çerçevesinde kira döneminin sonu olan 1.11.2009 tarihine kadar aidat giderlerine de hükmetmesi gerekirken sadece bir aylık aidat bedelinin davalıdan tahsiline karar verilmesi usul ve yasaya aykırıdır.
 
 ## Yargıtay 6. HD 2011/4164 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1060525700)
+
 HUMK.nun 8/2.maddesine göre dava konusu olan şeyin değerine bakılmaksızın kira sözleşmesine dayanan her türlü tahliye, akdin feshi yahut tespit davaları, bu davalarla birlikte açılmış kira alacağı davaları ve bunlara karşılık olarak açılan davalar Sulh Hukuk Mahkemesinde görülür. Olayımızda, davacı tahliye, akdin feshi veya tespit talebinde bulunmaksızın kira sözleşmesi hükümleri gereği ödenmesi gereken kira paralarının ve aidat giderlerinin tahsilini istemiştir. Bu durumda, davanın sadece davalı tarafından ödenmesi gereken aidat borcunun, davacı tarafından apartman yönetimine ödenmiş olması nedeni ile aidat alacağı ve ödenmeyen ayların kira parasının tahsili istemine yönelik olduğunun kabulü gerekir. Kira alacağı davası tahliye isteminden bağımsız olarak açıldığında görevli mahkeme alacak miktarına göre tayin edilir. Davacının talebi 6.618.-TL kira alacağı ile 510.-TL aidat alacağı olmak üzere toplam 7.128.-TL alacağın tahsili olduğundan davaya bakmak HUMK.'nun 1-8 maddeleri gereği dava tarihi itibariyleAsliye Hukuk Mahkemesinin görevi içindedir. Söz konusu 510-TL aidat alacağına, 634 sayılı Kat Mülkiyeti Yasasının uygulanma…
 
 ## Yargıtay 3. HD 2010/11380 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/975860300)
+
 Kural olarak, kiracının mecuru erken tahliye ettiği sabit olduğuna göre, mecurun aynı şartlarda yeniden kiraya verilebileceği belirlenen süre için , kira parası yanında bu süreyle sınırlı olarak yakıt (ortak gider) parasından da sorumludur. Henüz kaloriferler çalıştırılmadan mecurun (erken) tahliye edilmiş olması ortak giderlerden sorumlu olmamayı gerektirmez.
 
 ## Yargıtay 18. HD 2010/9252 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/803803000)
 
 634 sayılı Kat Mülkiyeti Yasasının 22.maddesine göre kat malikinin 20.madde uyarınca payına düşecek gider ve avans borcundan ve gecikme tazminatından bağımsız bölümlerin birinde kira akdine dayanarak devamlı bir şekilde faydalananlar da müştereken ve müteselsilen sorumludur. Ancak kiracının sorumluluğu ödemekle yükümlü bulunduğu kira miktarı ile sınırlı olup yaptığı ödeme kira borcundan düşülür. Yasanın bu hükmüne göre ortak gider ve aidat borcundan kural olarak kat maliki sorumludur. Kiracı ise kat maliki ile birlikte söz konusu borçlardan kira miktarı kadar her ay için müteselsil sorumlu bulunmaktadır. Davacı davasını müteselsil sorumlu olan kiracıya karşı açmış ve delillerini de dava dilekçesinde göstermiştir. Kat Mülkiyetine tabi bir anataşınmazda ortak gider ve aidat borçlarının hesaplamasında her türlü delile başvurulabilir. Davacı anataşınmazla ilgili olarak yapılan harcamalar konusunda ibraz edeceği belgelerin yanında delil listesinde değindiği gibi tanık dinletebilir ve hatta yemin deliline de başvurabilir.
 Mahkemece davalının ödemekle sorumlu bulunduğu ortak gider ve aidat borcunun miktarının tespiti bakımından yukarıda açıklanan nedenler de göz önünde bulundurularak tanık beyanlarıyla tüm belgeler birlikte değerlendirilmek üzere bu işlerden anlayan uzman bir bilirkişiye dosya tevdi edilip alınacak rapor ve oluşacak sonuç doğrultusunda bir karar verilmesi gerekirken, eksik inceleme ve yetersiz araştırma sonucu davanın reddi doğru görülmemiştir.
 
 ## Yargıtay 6. HD 2010/6853 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/644394400)
+
 Davaya dayanak yapılan ve hükme esas alınan 1.10.2006 başlangıç tarihli ve bir yıl süreli kira sözleşmesi konusunda bir uyuşmazlık bulunmamaktadır. Sözleşmenin hususi şartların 8. maddesinde "kiracı tarafından taşınmaz sahibine teminat olarak 1.000 Avro verilmiştir. Tahliye halinde kira, elektrik, su, doğalgaz, çevre temizlik vergisi, yönetim giderleri sıfırlanıp taşınmazın hasarsız olarak boş teslimini takiben taşınmaz sahibi tarafından kiracıya iade edilecektir" hükmüne yer verilmiştir. Davalı taşınmazı tahliye ettiğini belirtmiş ise de anahtarın teslim edildiğine dair geçerli bir belge sunamamıştır. Öte yandan davacı 16.11.2008 tarihli celsede taşınmazda hasarlar olduğunu ve zararının bulunduğunu belirtmiştir. Güvence parasının iadesi yukarıda açıklandığı gibi binada hasar ve elektrik, su, doğalgaz, yönetim gideri temizlik vergisi borcu bulunmamasına bağlıdır. Bu nedenle anahtar teslim edilip taraflar karşılıklı ibralaşmadıklarına göre güvence parasının kiralardan mahsup edilmesi mümkün olmadığından alacağın tamamına hükmetmek gerekirken yazılı şekilde karar verilmesi doğru olmadığından hükmün bozulması gerekmiştir.
 
 ## Yargıtay 6. HD 2010/4221 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/636121400)
 
 Hükme esas alınan ve takibe dayanak yapılan 22.1.2005 başlangıç tarihli ve 2 yıl süreli sözleşme davacı ile davalı ... arasında imzalanmış,davalı ... ise sözleşmeyi kefil olarak imzalamıştır.Davacı bu sözleşmeye dayanarak 31.5.2006 tarihinde başlattığı takiple 625 TL aylık kira bedeli ve 115 TL de aidat olmak üzere 2006 Ocak-Mayıs aylar arası kira bedellerinden bakiye 1.580 TL eksik ödendiğinden bahisle dönem sonuna kadar muaccel olan aylar kira bedelinin tahsilini istemiş ödeme emri davalı borçlu kiracıya 8.6.2006 davalı borçlu kefile ise 30.6.2006 tarihinde tebliğ edilmiştir.Ödeme emrine itiraz eden davalılar
 
@@ -112,27 +150,39 @@ yetki itirazında ve borca itiraz etmişler aylık kiranın 500 TL olduğunu ve 
 
 ## Yargıtay 18. HD 2010/3946 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/16917700)
+
 Kat Mülkiyeti Yasasının 22. maddesi hükmüne göre, bağımsız bölüm maliki yanında anataşınmazda kira akdine veya sükna hakkına dayanarak devamlı bir şekilde faydalananlar ortak giderlerden müteselsilen sorumlu ise de, takibin yapıldığı tarihte anataşınmazı tahliye etmiş olan kişi hakkında bu yasa hükmü geçmiş döneme ilişkin ortak giderlere ait olsa bile uygulanmaz. Çünkü sözü edilen maddenin 1. fıkrasının son cümlesi hükmüne göre, bu şekilde sorumlu tutulan kiracının sorumluluğu ancak kira miktarı ile sınırlı olduğu gibi, bu davada dikkate alınmayacak olan bağımsız bölüm maliki ile kiracı arasındaki sözleşmeye tabi olmak üzere kira borcundan da düşülebilecektir.
 
 ## Yargıtay 6. HD 2010/429 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/605325700)
 
 Davaya dayanak yapılan ve hükme esas alınan 07.04.2008 tanzim ve 15.05.2008 başlangıç tarihli ve bir yıl süreli kira sözleşmesi konusunda taraflar arasında bir uyuşmazlık bulunmamaktadır. Sözleşmenin özel şartlar 4. maddesinde” kiralanan taşınmazın elektrik, su giderleri, çevre-temizlik vergisi ile taşınmazın ortak giderlerini (kapıcı, kalorifer yakıt parası, asansör bakımı-onarım ve temizlik ile yönetici giderlerini) kiracı ödemeyi kabul ve taahhüt eder” hükmüne yer verilmiştir. Bu hükme göre apartman aidatının kiracı tarafından ödenmesi gerekir. Kiracının ödemesi gereken aidat borcunu kiralayan kendisi ödemek koşuluyla kiracıdan isteyebilir. Kiralayan, aidat borcunu yönetime ödemeden kiracıdan isteyemez. Dosya içindeki ... Sitesi yöneticiliğinin 21.01.2009 tarihli yazısından…
 
 ## Yargıtay 3. HD 2009/10720 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/16830000)
+
 Yanlar arasındaki kira sözleşmesinin özel 4. maddesi uyarınca, yönetim giderlerinin kiracıya ait olacağı açıktır. Ancak; bu hükme göre, Kat Mülkiyeti Kanunu uyarınca malikin ortak giderlere ilişkin bütün yükümlülüklerinin kiracıya devredildiği kabul edilmemelidir. Keza, Borçlar Kanunu'nun 258/2. maddesi uyarınca, kiralananın alelade kullanılması ile ilgili ve kullanımdan doğan giderler kiracıya ait ise de, esaslı tamir giderleri kiralayana aittir. Bu durumda kiracı, taşınmazı kullanmanın karşılığı olarak kira parası ile mütenasip ve alelade kullanımla ilgili tamir giderlerinden sorumlu olmalıdır.
 
 ## Yargıtay 18. HD 2009/5462 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/873724200)
 
 Kat Mülkiyeti Yasasının 5711 sayılı Yasayla değişik 20. maddesinin birinci fıkrasının (b) bendi hükmüne göre anataşınmazın bütün ortak yerlerinin bakım, koruma, güçlendirme ve onarım giderlerine her bir kat maliki katılmakla yükümlüdür. Anılan Yasanın 22. maddesinin birinci fıkrası hükmüne göre de kat malikinin 20. madde uyarınca payına düşecek ortak gider ve avans borcundan ve gecikme tazminatından o malikin bağımsız bölümünde kira sözleşmesine, oturma hakkına veya başka bir nedene dayanarak sürekli bir biçimde yararlananlar da müştereken ve müteselsilen sorumludur. Buna göre ortak gider ve avansın zamanında ödenmemesi durumunda yönetici veya kat maliklerinden her biri bu alacağı tahsil etmek için ister kat malikine isterse o malikin bağımsız bölümünden (kira sözleşmesine, oturma hakkına veya başka bir nedene dayanarak) yararlanan kişiye karşı ya da her ikisine karşı birlikte icra takibinde bulunabilir ve dava açabilir.
 Somut olayda; ortak kalorifer kazanının yenilenmesi giderinden (C) Blok 13 nolu bağımsız bölümün payına düşen ortak giderin ödenmediği, davacının bu bağımsız bölümde oturduğu ileri sürüldüğüne göre mahkemece öncelikle anılan bağımsız bölümün tapu kaydı getirtilerek davacının bu bölümün maliki olup olmadığının saptanması, maliki değil ise buradan kira sözleşmesine, oturma hakkına ya da başka bir nedene dayanılarak sürekli bir biçimde yararlanıp yararlanmadığının -yerinde yapılacak inceleme ile- belirlenmesi, Kat Mülkiyeti Yasasının yukarıda değinilen 20. ve 22. madde hükümleri göz önünde tutularak oluşacak sonuç doğrultusunda hüküm kurulması gerekirken, yetersiz araştırma ve eksik inceleme ile davacının taşınmazda kat maliki olmaması nedeniyle davanın kabulüne karar verilmesi doğru görülmemiştir.
 
 ## Yargıtay 18. HD 2009/4803 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/16805000)
+
 Kat Mülkiyeti Yasasının 5711 sayılı Yasayla değişik 20. maddesinin birinci fıkrasının (b) bendi hükmüne göre anataşınmazın bütün ortak yerlerinin bakım, koruma, güçlendirme ve onarım giderlerine her bir kat maliki katılmakla yükümlüdür. Anılan Yasanın 22. maddesinin birinci fıkrası hükmüne göre de kat malikinin 20. madde uyarınca payına düşecek ortak gider ve avans borcundan ve gecikme tazminatından o malikin bağımsız bölümünde kira sözleşmesine, oturma hakkına veya başka bir nedene dayanarak sürekli bir biçimde yararlananlar da müştereken ve müteselsilen sorumludur. Buna göre ortak gider ve avansın zamanında ödenmemesi durumunda yönetici veya kat maliklerinden her biri bu alacağı tahsil etmek için ister kat malikine isterse o malikin bağımsız bölümünden (kira sözleşmesine, oturma hakkına veya başka bir nedene dayanarak) yararlanan kişiye karşı ya da her ikisine karşı birlikte icra takibinde bulunabilir ve dava açabilir.
 Somut olayda; ortak kalorifer kazanının yenilenmesi giderinden C Blok 6 nolu bağımsız bölümün payına düşen ortak giderin ödenmediği, davalının bu bağımsız bölümde oturduğu ileri sürüldüğüne göre mahkemece öncelikle anılan bağımsız bölümün tapu kaydı getirtilerek davalının bu bölümün maliki olup olmadığının saptanması, maliki değilse buradan kira sözleşmesine, oturma hakkına ya da başka bir nedene dayanılarak sürekli bir biçimde yararlanıp yararlanmadığının -yerinde yapılacak inceleme ile- belirlenmesi, Kat Mülkiyeti Yasasının yukarıda değinilen 20. ve 22. madde hükümleri göz önünde tutularak oluşacak sonuç doğrultusunda hüküm kurulması gerekirken, yetersiz araştırma ve eksik inceleme ile davalının pasif husumet ehliyeti yokluğundan davanın reddine karar verilmesi doğru görülmemiştir.
 
 ## Yargıtay 18. HD 2008/10348 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/876252400)
 
 634 Sayılı Kat Mülkiyeti Yasasının 22. maddesinin birinci fıkrasına göre kat malikinin 20. madde uyarınca payına düşecek gider ve avans borcundan, gecikme tazminatından bağımsız bölümlerin birinde kira akdine dayanarak devamlı bir şekilde yararlananlar da müşterek ve müteselsilen sorumludur. Ancak, kiracının sorumluluğu ödemekle yükümlü olduğu kira miktarı ile sınırlı olup yaptığı ödeme kira borcundan düşülür. Mahkemece yasanın bu hükmü dikkate alınarak kiracı davalının anataşınmazın bağımsız bölümü ile ilgili ortak gider ve aidat borcunun bağımsız bölüm malikine ödemekle yükümlü bulunduğu kira miktarını aştığı gözetilerek kira tutarı kadarından sorumlu tutulması, diğer bir anlatımla kira miktarı kadar ortak gider ve aidat borcunun doğrudan doğruya yönetime ödenmesine karar verilmesi gerekirken alacağın tümü üzerinden ve böyle bir sınırlama da yapılmadan davanın kısmen kabulü doğru görülmemiştir.
 
@@ -143,9 +193,13 @@ Somut olayda davalı, hakkında icra takibi yapılmadan ve dava açılmadan önc
 
 ## Yargıtay 18. HD 2006/7437 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/886867500)
+
 Kat mülkiyeti Yasasının ortak giderlerin teminatına ilişkin 22. maddesi hükmüne göre kiracıların sorumluluğu, ana taşınmazda bu sıfatla oturduğu sürece geçerlidir. Asıl sorumluluk sözü edilen Yasanın 20. maddesinde belirtildiği üzere kat malikinindir. Yasasının 22. maddesinde kiracının yada başka bir hakka dayanarak bağımsız bölümde devamlı surette oturanın müteselsil sorumluluğu, oturduğu sürece söz konusu olup, bağımsız bölümü tahliye ettikten sonra yapılan icra takibi ile kiracının sorumlu tutulmasına yasal olanak bulunmamaktadır. İstenen alacağın davalı kiracının bağımsız bölümde oturduğu süreye ilişkin olması Kat Mülkiyeti Yasasının uygulanması bakımından sonuca etkili olmayıp, kira sözleşmesine göre sorumluluk ise, bağımsız bölüm maliki ile kiracı arasındaki hukuki ilişkiye göre belirleneceğinden bu davada dikkate alınmaz. Çünkü kiracı, Kat Mülkiyeti Yasasının hükümlerine göre yasal müteselsil sorumlu olarak ödemek zorunda kalacağı meblağı, bağımsız bölümü tahliye etmiş olduğundan, 22 maddede öngörüldüğü üzere kira borcundan düşemeyecektir.
 
 ## Yargıtay 18. HD 2006/778 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/883647200)
 
 Kat Mülkiyeti Yasasının 22. maddesi hükmüne göre, bağımsız bölüm maliki yanında anataşınmazda kira aktine veya sükna hakkına dayanarak devamlı bir şekilde faydalananlar ortak giderlerden müteselsilen sorumlu ise de takibin yapıldığı tarihte anataşınmazı tahliye etmiş olan kişi hakkında bu hüküm geçmiş ortak giderlere ait olsa da uygulanmaz. Çünkü sözü edilen maddenin 1. fıkrasının son cümlesi hükmüne göre, bu şekilde sorumlu tutulan kiracının sorumluluğu ancak kira miktarı ile sınırlı olduğu gibi, bu davada dikkate alınmayacak olan bağımsız bölüm maliki ile kiracı arasındaki sözleşmeye tabi olmak üzere kira borcundan da düşülebilecektir.
 

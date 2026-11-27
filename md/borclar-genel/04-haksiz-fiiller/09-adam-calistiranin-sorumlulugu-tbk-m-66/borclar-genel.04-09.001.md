@@ -28,37 +28,53 @@ Netice,: Borçlar Kanununun 55 inci maddesi hükmünce adam kullananın tazminat
 
 ## Yargıtay HGK 2025/766 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1206240500)
+
 Borçlar Kanunu’nun 56. maddesi gereği, hayvan bulunduranın sorumluğu niteliği itibariyle kurtuluş kanıtı getirilebilen bir kusursuz sorumluluktur. Bu nedenle, hayvan bulunduranın sorumlu tutulabilmesi için kusuru aranmaz, ancak sorumluluktan kurtulabilmesi; hayvanı, hâl ve şartlara göre, gerekli bulunan özenle gözetmiş olduğunu ya da bu özen gösterilmiş olsaydı bile, zararın önlenemeyeceğini ispat etmesine bağlıdır. Bu durumun ispat edilememesi hâlinde oluşan zararı tazmin etmek zorundadır. Bu zarar, maddi bir zarar olabileceği gibi manevi bir zarar da olabilir.
 
 ## Yargıtay HGK 2025/230 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1145666800)
+
 Adam çalıştıranın sorumluluğu 6098 sayılı TBK’nın 66. maddesinde düzenlenmiştir. Bu madde gereğince, adam çalıştıranlara genel nitelikte objektif bir özen yükümlülüğü yüklenmiş ve adam çalıştıranın bir özel hukuk ve bağımlılık ilişkisi içerisinde çalışanlarının kendilerine bırakılan işleri gördükleri sırada hukuka aykırı bir fiille üçüncü kişilere vermiş oldukları zarardan sorumluluğu düzenlenmiştir. Buna göre adam çalıştıranın sorumluluğu, kusursuz sorumluluk türlerinden özen sorumluluğudur. Başka bir deyişle adam çalıştıranın sorumluluğunun kaynağı, adam çalıştıranın çalışanlarını seçerken ve onları çalıştırırken çalışanlar üzerindeki denetim ve gözetim ödevini yerine getirmemesine, kanun tarafından kendisine yükletilen bu tür objektif bir ödevi ihlal etmesine dayanmaktadır (Eren, Fikret; Borçlar Hukuku Genel Hükümler, Ankara, 2017, s. 643).
 
 ## Yargıtay HGK 2023/465 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/909127700)
 
 Adam çalıştıranın sorumluluğunda BK’nın 55 inci (TBK md. 66) maddesinin uygulanması için çalışanın (yardımcı kişi) üçüncü kişiye sözleşme dışı sorumluluk çerçevesinde zarar vermesi gerekmektedir. Başka bir deyişle zarar gören üçüncü kişi ile adam çalıştıran arasında hiçbir hukuki, özellikle de sözleşmeye dayalı ilişki bulunmaması gerekir. Zarar gören ile adam çalıştıran arasında kurulmuş bir sözleşme ilişkisi mevcutsa BK’nın 100 üncü (TBK md. 116) maddesinin uygulanması gerekir. BK’nın 100 üncü (TBK md. 116) maddesinde düzenlenen sorumluluk da yardımcı kişinin davranışından sorumluluk olmakla birlikte sadece bir borcun yerine getirilmemesi, yani borca aykırılık hâlinde uygulanacaktır (Eren, s. 644). Şayet borcun ifasına yardımcı olan çalışanın fiili hem borca aykırılık hem de genel davranış kurallarına aykırılık, yani bir haksız fiil teşkil ediyorsa bu kişiyi çalıştıran borçlunun BK’nın 55 inci (TBK md. 66) maddesine tâbi sorumluluğu ile BK’nın 100 üncü (TBK md. 116) maddesine tâbi sorumluluğu yarışacaktır (Oğuzman, Kemal/Öz, Turgut; Borçlar Hukuku Genel Hükümler C. II, ..., 2017, s. 143).
 Nitekim aynı hususlar Hukuk Genel Kurulunun 15.06.2021 tarihli ve 2021/(19)11-361 Esas, 2021/772 Karar sayılı kararında da vurgulanmıştır.
 
 ## Yargıtay HGK 2022/84 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/759519300)
+
 17\. 818 sayılı BK’nın 58. maddesi gereğince sorumluluk, bina veya sair inşa eserinin yapımındaki bozukluk veya bakımındaki noksanlığa dayanmaktadır. Buradaki söz konusu bozukluğun veya noksanlığın doğduğu sebep önemli değildir. Bu nedenle zarara sebep olan yapı bozukluğu veya bakım noksanlığı insan davranışı dışında umulmayan bir olaya veya üçüncü kişinin fiiline dayansa bile malik sorumlu olur. Yapım bozukluğu veya bakım noksanlığı bir anlamda özen veya gözetim yükümlülüğünün ihlaliyle ilgili bulunmakla birlikte, diğer kusursuz sorumluluk hâllerinin (BK m. 55-56, TMK m. 369) aksine yapı eseri malikine bir kurtuluş kanıtı getirilmemiştir. Bu itibarla zarar, yapım bozukluluğu veya bakım noksanlığından ileri gelmekteyse, malik, zararın meydana gelmemesi için yapının yapım ve bakımı için durumun gerekli kıldığı her türlü özeni göstermiş olduğunu ispat etse dahi sorumluluktan kurtulamayacaktır. Dolayısıyla burada yapı malikine kurtuluş kanıtı getirme imkânını tanınmamakla ağırlaştırılmış bir sebep sorumluluğu öngörülmüştür.
 
 ## Yargıtay HGK 2019/962 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/554341300)
 
 Adam çalıştıranın sorumluluğunda 818 sayılı BK’nın 55’inci (6098 sayılı TBK’nın 66’ncı) maddesinin uygulanması için çalışanın (yardımcı kişi) üçüncü kişiye sözleşme dışı sorumluluk çerçevesinde zarar vermesi gerekmektedir. Başka bir deyişle zarar gören üçüncü kişi ile adam çalıştıran arasında hiçbir hukuki, özellikle de sözleşmeye dayalı ilişki bulunmaması gerekir. Zarar gören ile adam çalıştıran arasında kurulmuş bir sözleşme ilişkisi mevcutsa 818 sayılı BK’nın 100’üncü (6098 sayılı TBK’nın 116’ncı) maddesinin uygulanması gerekir. 818 sayılı BK’nın 100’üncü (6098 sayılı TBK’nın 116’ncı)maddesinde düzenlenen sorumluluk da yardımcı kişinin davranışından sorumluluk olmakla birlikte sadece bir borcun yerine getirilmemesi, yani borca aykırılık hâlinde uygulanacaktır (Eren, s. 644). Şayet borcun ifasına yardımcı olan çalışanın fiili hem borca aykırılık hem de genel davranış kurallarına aykırılık, yani bir haksız fiil teşkil ediyorsa bu kişiyi çalıştıran borçlunun 818 sayılı BK’nın 55’inci (6098 sayılı TBK’nın 66’ncı) maddesine tabi sorumluluğu ile 818 sayılı BK’nın 100’üncü (6098 sayılı TBK’nın 116’ncı) maddesine tabi sorumluluğu yarışacaktır (Oğuzman, Kemal/Öz, Turgut;
 Borçlar Hukuku Genel Hükümler C. II, İstanbul, 2017, s. 143).
 
 ## Yargıtay HGK 2019/961 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/554342000)
+
 Adam çalıştıranın sorumluluğunda 818 sayılı BK’nın 55’inci (6098 sayılı TBK’nın 66’ncı) maddesinin uygulanması için çalışanın (yardımcı kişi) üçüncü kişiye sözleşme dışı sorumluluk çerçevesinde zarar vermesi gerekmektedir. Başka bir deyişle zarar gören üçüncü kişi ile adam çalıştıran arasında hiçbir hukuki, özellikle de sözleşmeye dayalı ilişki bulunmaması gerekir. Zarar gören ile adam çalıştıran arasında kurulmuş bir sözleşme ilişkisi mevcutsa 818 sayılı BK’nın 100’üncü (6098 sayılı TBK’nın 116’ncı) maddesinin uygulanması gerekir. 818 sayılı BK’nın 100’üncü (6098 sayılı TBK’nın 116’ncı) maddesinde düzenlenen sorumluluk da yardımcı kişinin davranışından sorumluluk olmakla birlikte sadece bir borcun yerine getirilmemesi, yani borca aykırılık hâlinde uygulanacaktır (Eren, s. 644). Şayet borcun ifasına yardımcı olan çalışanın fiili hem borca aykırılık hem de genel davranış kurallarına aykırılık, yani bir haksız fiil teşkil ediyorsa bu kişiyi çalıştıran borçlunun 818 sayılı BK’nın 55’inci (6098 sayılı TBK’nın 66’ncı) maddesine tabi sorumluluğu ile 818 sayılı BK’nın 100’üncü (6098 sayılı TBK’nın 116’ncı) maddesine tabi sorumluluğu yarışacaktır (Oğuzman, Kemal/Öz, Turgut;
 Borçlar Hukuku Genel Hükümler C. II, İstanbul, 2017, s. 143)…
 
 ## Yargıtay HGK 2019/916 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/554345100)
+
 Adam çalıştıranın sorumluluğunda 818 sayılı BK’nın 55’inci (6098 sayılı TBK’nın 66’ncı) maddesinin uygulanması için çalışanın (yardımcı kişi) üçüncü kişiye sözleşme dışı sorumluluk çerçevesinde zarar vermesi gerekmektedir. Başka bir deyişle zarar gören üçüncü kişi ile adam çalıştıran arasında hiçbir hukuki, özellikle de sözleşmeye dayalı ilişki bulunmaması gerekir. Zarar gören ile adam çalıştıran arasında kurulmuş bir sözleşme ilişkisi mevcutsa 818 sayılı BK’nın 100’üncü (6098 sayılı TBK’nın 116’ncı) maddesinin uygulanması gerekir. 818 sayılı BK’nın 100’üncü (6098 sayılı TBK’nın 116’ncı) maddesinde düzenlenen sorumluluk da yardımcı kişinin davranışından sorumluluk olmakla birlikte sadece bir borcun yerine getirilmemesi, yani borca aykırılık hâlinde uygulanacaktır (Eren, s. 644). Şayet borcun ifasına yardımcı olan çalışanın fiili hem borca aykırılık hem de genel davranış kurallarına aykırılık, yani bir haksız fiil teşkil ediyorsa bu kişiyi çalıştıran borçlunun 818 sayılı BK’nın 55’inci (6098 sayılı TBK’nın 66’ncı) maddesine tabi sorumluluğu ile 818 sayılı BK’nın 100’üncü (6098 sayılı TBK’nın 116’ncı) maddesine tabi sorumluluğu yarışacaktır (Oğuzman, Kemal/Öz, Turgut;
 Borçlar Hukuku Genel Hükümler C. II, İstanbul, 2017, s. 143).
 
 ## Yargıtay HGK 2015/787 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/111714100)
 
 TMK. 369.maddesine göre, ev başkanı kendisine tabi gözetime muhtaç kişiye “alışılmış şekilde durum ve koşulların gerektirdiği dikkatle onu gözetim altında bulundurduğunu” isbat ederek sorumluluktan kurtulabilir; böylece, onun sorumlu olması için bu kurtuluş kanıtını yerine getirememesi şarttır. Mülga 818 sayılı Borçlar Kanunu’nun (BK) 55. ve 56.maddeleri ile paralel olarak, TMK. 369.maddede de ev başkanının objektif özen ödevini yerine getirmediği bir karine olarak kabul edilmiş olup, ev başkanı kurtuluş kanıtını getirmekle bu karineyi çürütebilir.
 
@@ -68,79 +84,115 @@ TMK. 369.maddesine göre, ev başkanı kendisine tabi gözetime muhtaç kişiye 
 
 ## Yargıtay 3. HD 2026/78 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1196011700)
+
 6098 sayılı Kanunun 67. maddesi gereğince; hayvan bulunduranın sorumluğu niteliği itibariyle kurtuluş kanıtı getirilebilen bir kusursuz sorumluluktur. Bu nedenle, hayvan bulunduranın sorumlu tutulabilmesi için kusuru aranmaz, ancak sorumluluktan kurtulabilmesi; hayvanı, hal ve şartlara göre, gerekli bulunan özenle gözetmiş olduğunu ya da bu özen gösterilmiş olsaydı bile, zararın önlenemeyeceğini ispat etmesine bağlıdır. Bu durumun ispat edilememesi halinde oluşan zararı tazmin etmek zorundadır. Bu zarar, maddi bir zarar olabileceği gibi manevi bir zararda olabilir.
 
 ## Yargıtay 4. HD 2025/12428 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1194490600)
 
 6098 sayılı TBK'nın 66 ncı maddesinde adam çalıştıranın sorumluluğu; "(1)Adam çalıştıran, çalışanın, kendisine verilen işin yapılması sırasında başkalarına verdiği zararı gidermekle yükümlüdür. (2)Adam çalıştıran, çalışanını seçerken, işiyle ilgili talimat verirken, gözetim ve denetimde bulunurken, zararın doğmasını engellemek için gerekli özeni gösterdiğini ispat ederse, sorumlu olmaz. (3)Bir işletmede adam çalıştıran, işletmenin çalışma düzeninin zararın doğmasını önlemeye elverişli olduğunu ispat etmedikçe, o işletmenin faaliyetleri dolayısıyla sebep olunan zararı gidermekle yükümlüdür. (4)Adam çalıştıran, ödediği tazminat için, zarar veren çalışana, ancak onun bizzat sorumlu olduğu ölçüde rücu hakkına sahiptir." şeklinde düzenlenmiştir.
 
 ## Yargıtay 4. HD 2025/12380 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1190779400)
+
 Öte yandan olay tarihinde yürürlükte olan Borçlar Kanunu'nun 55 inci maddesinde "Adam çalıştıran, çalışanın, kendisine verilen işin yapılması sırasında başkalarına verdiği zararı gidermekle yükümlüdür. Adam çalıştıran, çalışanını seçerken, işiyle ilgili talimat verirken, gözetim ve denetimde bulunurken, zararın doğmasını engellemek için gerekli özeni gösterdiğini ispat ederse, sorumlu olmaz. Bir işletmede adam çalıştıran, işletmenin çalışma düzeninin zararın doğmasını önlemeye elverişli olduğunu ispat etmedikçe, o işletmenin faaliyetleri dolayısıyla sebep olunan zararı gidermekle yükümlüdür. Adam çalıştıran, ödediği tazminat için, zarar veren çalışana, ancak onun bizzat sorumlu olduğu ölçüde rücu hakkına sahiptir." düzenlemesine yer verilmiştir.
 
 ## Yargıtay 4. HD 2025/10080 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1180275000)
 
 Türk Borçlar Kanunun 66 ncı maddesinde "Adam çalıştıran, çalışanın, kendisine verilen işin yapılması sırasında başkalarına verdiği zararı gidermekle yükümlüdür. Adam çalıştıran, çalışanını seçerken, işiyle ilgili talimat verirken, gözetim ve denetimde bulunurken, zararın doğmasını engellemek için gerekli özeni gösterdiğini ispat ederse, sorumlu olmaz. Bir işletmede adam çalıştıran, işletmenin çalışma düzeninin zararın doğmasını önlemeye elverişli olduğunu ispat etmedikçe, o işletmenin faaliyetleri dolayısıyla sebep olunan zararı gidermekle yükümlüdür. Adam çalıştıran, ödediği tazminat için, zarar veren çalışana, ancak onun bizzat sorumlu olduğu ölçüde rücu hakkına sahiptir." düzenlemesine yer verilmiştir.
 
 ## Yargıtay 3. HD 2025/5980 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1196758300)
+
 Eser sözleşmelerinde kural olarak, iş sahibi ile yüklenici arasında bağımlılık ilişkisi bulunmamakta, yüklenici iş sahibinden bağımsız olarak üstlendiği işi sözleşme koşullarına uygun olarak tamamlayıp teslim etmeyi üstlenmektedir. Bu özellik dikkate alındığında; bağımlılık ilişkisi, bir başka deyişle iş sahibinin adam çalıştıran sıfatı bulunmadığından, eser sözleşmelerinin yerine getirilmesi ve işin yapımı sırasında yüklenicinin üçüncü kişilere zarar vermesi halinde, iş sahibinin zarardan sorumlu tutulamayacağı kabul edilmektedir. Ancak bu kesin bir kural değildir. İş sahibi ile yüklenici arasındaki sözleşmede; iş sahibine yükleniciye emir ve talimat verme, yapılan işi kontrol ve denetleme yetkisinin tanınmış olması halinde, iş sahibi ile yüklenici arasında bağımlılık ilişkisi kurulmuş olacağından iş sahibinin 6098 sayılı Kanunun 66. maddesi gereğince "adam çalıştıran” sıfatıyla zarardan sorumlu tutulması gerektiği ve sorumluluk türünün de müteselsil (zincirleme) sorumluluk olacağı kuşkusuzdur (Dairemizin 05.10.2017 tarihli ve 2016/7621 E., 2017/13439 K. sayılı ilamı da aynı yöndedir.).
 
 ## Yargıtay 3. HD 2025/3046 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1159249700)
+
 6098 sayılı Kanunun 67. maddesi gereğince; hayvan bulunduranın sorumluğu niteliği itibariyle kurtuluş kanıtı getirilebilen bir kusursuz sorumluluktur. Bu nedenle, hayvan bulunduranın sorumlu tutulabilmesi için kusuru aranmaz, ancak sorumluluktan kurtulabilmesi; hayvanı, hal ve şartlara göre, gerekli bulunan özenle gözetmiş olduğunu ya da bu özen gösterilmiş olsaydı bile, zararın önlenemeyeceğini ispat etmesine bağlıdır. Bu durumun ispat edilememesi halinde oluşan zararı tazmin etmek zorundadır. Bu zarar, maddi bir zarar olabileceği gibi manevi bir zararda olabilir.
 
 ## Yargıtay 4. HD 2024/11229 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1170065800)
 
 Ayrıca bankalar, adam çalıştıran sıfatı ile de sorumludur. Adam çalıştıranın sorumluluğu 818 sayılı Borçlar Kanununun 55 inci (6098 sayılı Türk Borçlar Kanununun 66 ncı) maddesinde “İstihdam edenlerin mesuliyeti” başlığı altında düzenlenmiştir. Anılan maddede; “Başkalarını istihdam eden kimse, maiyetinde istihdam ettiği kimselerin ve amelesinin hizmetlerini ifa ettikleri esnada yaptıkları zarardan mesuldür. Şu kadar ki böyle bir zararın vuku bulmaması için hal ve maslahatın icabettiği bütün dikkat ve itinada bulunduğunu yahut dikkat ve itinada bulunmuş olsa bile zararın vukuuna mani olamıyacağını ispat ederse mesul olmaz.” hükmü öngörülmüştür. Bu madde gereğince adam çalıştıranlara genel nitelikte objektif bir özen yükümlülüğü yüklenmiş ve adam çalıştıranın bir özel hukuk ve bağımlılık ilişkisi içerisinde çalışanlarının kendilerine bırakılan işleri gördükleri sırada hukuka aykırı bir fiille üçüncü kişilere vermiş oldukları zarardan sorumluluğu düzenlenmiştir. Buna göre adam çalıştıranın sorumluluğu, kusursuz sorumluluk türlerinden özen sorumluluğudur.
 Başka bir deyişle adam çalıştıranın sorumluluğunun kaynağı, adam çalıştıranın çalışanlarını seçerken ve onları çalıştırırken çalışanlar üzerindeki denetim ve gözetim ödevini yerine getirmemesine, kanun tarafından kendisine yükletilen bu tür objektif bir ödevi ihlal etmesine dayanmaktadır. (Eren, Fikret; Borçlar Hukuku Genel Hükümler, Ankara, 2017, s. 643).
 
 ## Yargıtay 10. HD 2023/10168 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1012651100)
+
 6098 sayılı Türk Borçlar Kanunu'nun 66 ncı maddesinde adam çalıştıranın, çalışanının, kendisine verilen işin yapılması sırasında başkalarına verdiği zararı gidermekle yükümlü olduğu, adam çalıştıranın, çalışanını seçerken, işiyle ilgili talimat verirken, gözetim ve denetimde bulunurken, zararın doğmasını engellemek için gerekli özeni gösterdiğini ispat ederse, sorumlu olmayacağı; aynı kanunun yardımcı kişilerin fiillerinden sorumluluk başlıklı 116 ıncı maddesinde borçlunun, borcun ifasını veya bir borç ilişkisinden doğan hakkın kullanılmasını, birlikte yaşadığı kişiler ya da yanında çalışanlar gibi yardımcılarına kanuna uygun surette bırakmış olması durumunda bile, onların işi yürüttükleri sırada diğer tarafa verdikleri zararı gidermekle yükümlü olduğu;
 2918 sayılı Karayolları Trafik Kanunu'nun işleten ve araç işleticisinin bağlı olduğu teşebbüs sahibinin hukuki sorumluluğu başlıklı 85 inci maddesinde ise bir motorlu aracın işletilmesinin bir kimsenin ölümüne veya yaralanmasına yahut bir şeyin zarara uğramasına sebep olması durumunda motorlu aracın bir teşebbüsün unvanı veya işletme adı altında veya bu teşebbüs tarafından kesilen biletle işletilmesi halinde, motorlu aracın işleteni ve bağlı olduğu teşebbüsün sahibinin doğan zarardan müştereken ve müteselsilen sorumlu olduğu düzenlenmiştir.
 
 ## Yargıtay 3. HD 2023/2722 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/979208600)
 
 Davanın açıldığı tarihte yürürlükte olan 818 sayılı Borçlar Kanunu'nun 100 üncü (TBK 116.) maddesinin 1 inci fıkrasında ise adam çalıştıranın sorumluluğu; "Bir borcun ifasını veya bir borçtan mütevellit bir hakkın kullanılmasını kendisi ile beraber yaşayan şahıslara veya maiyetinde çalışanlara velev kanuna muvafık surette tevdi eden kimse, bunların işlerini icra esnasında ika ettikleri zararlardan dolayı, diğer tarafa karşı mesuldür." şeklinde düzenlenmiştir. Borçlar Hukukunda, yardımcı kişinin işin görülmesi sırasında başkalarına vermiş olduğu zarar nedeniyle çalıştıranın sorumluğu; 818 sayılı Borçlar Kanunu'nun 55 inci ve 100 üncü (6098 sayılı Türk Borçlar Kanunu'nun 66 ncı ve 116 ncı) maddelerinde düzenlenmiştir. 818 sayılı Borçlar Kanunu'nun 100 üncü (6098 sayılı Türk Borçlar Kanunu'nun 116 ncı) maddesine dayanan sorumluluk ise, bir sözleşme sorumluluğudur. Burada, yardımcı kişi kullanan çalıştıran ile yardımcı kişinin fiilinden zarar gören arasında daha önceden kurulmuş bir sözleşme ilişkisi mevcuttur. Çalıştırana kurtuluş kanıtı tanınmamış, farazi kusur kabul edilmiştir.
 Çalıştıran, yardımcı kişi yerine geçip, onun davranışında bulunmuş olsaydı, bu davranış kendisine kusur olarak olarak yükletilebilecek idiyse sorumlu olur. Diğer bir anlatımla, 818 sayılı Borçlar Kanunu'nun 100 üncü maddesinde çalıştıran, kendisinin kusursuz olduğunu ispat etmekle sorumluluktan kurtulamaz. (Yargıtay 3. Hukuk Dairesinin 10.06.2021 tarihli ve 2020/6078 E., 2021/6384 K. sayılı ilamı.)…
 
 ## Yargıtay 6. HD 2022/6112 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/864751200)
+
 Adam çalıştıranın sorumluluğu 6098 sayılı TBK’nın 66. maddesinde düzenlenmiştir. Bu madde gereğince, adam çalıştıranlara genel nitelikte objektif bir özen yükümlülüğü yüklenmiş ve adam çalıştıranın bir özel hukuk ve bağımlılık ilişkisi içerisinde çalışanlarının kendilerine bırakılan işleri gördükleri sırada hukuka aykırı bir fiille üçüncü kişilere vermiş oldukları zarardan sorumluluğu düzenlenmiştir. Buna göre adam çalıştıranın sorumluluğu, kusursuz sorumluluk türlerinden özen sorumluluğudur. Başka bir deyişle adam çalıştıranın sorumluluğunun kaynağı, adam çalıştıranın çalışanlarını seçerken ve onları çalıştırırken çalışanlar üzerindeki denetim ve gözetim ödevini yerine getirmemesine, kanun tarafından kendisine yükletilen bu tür objektif bir ödevi ihlal etmesine dayanmaktadır (Eren, Fikret; Borçlar Hukuku Genel Hükümler, Ankara, 2017, s. 643).
 
 ## Yargıtay 3. HD 2022/2615 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/747470800)
+
 Ayrıca bankalar, adam çalıştıran sıfatı ile de sorumludur. Adam çalıştıranın sorumluluğu 6098 sayılı TBK’nın 66. maddesinde düzenlenmiştir. Bu madde gereğince, adam çalıştıranlara genel nitelikte objektif bir özen yükümlülüğü yüklenmiş ve adam çalıştıranın bir özel hukuk ve bağımlılık ilişkisi içerisinde çalışanlarının kendilerine bırakılan işleri gördükleri sırada hukuka aykırı bir fiille üçüncü kişilere vermiş oldukları zarardan sorumluluğu düzenlenmiştir. Buna göre adam çalıştıranın sorumluluğu, kusursuz sorumluluk türlerinden özen sorumluluğudur. Başka bir deyişle adam çalıştıranın sorumluluğunun kaynağı, adam çalıştıranın çalışanlarını seçerken ve onları çalıştırırken çalışanlar üzerindeki denetim ve gözetim ödevini yerine getirmemesine, kanun tarafından kendisine yükletilen bu tür objektif bir ödevi ihlal etmesine dayanmaktadır (Eren, Fikret; Borçlar Hukuku Genel Hükümler, Ankara, 2017, s. 643).
 
 ## Yargıtay 3. HD 2021/6384 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/693458700)
 
 Borçlar Hukukunda, yardımcı kişinin işin görülmesi sırasında başkalarına vermiş olduğu zarar nedeniyle çalıştıranın sorumluğu; BK' nın 55 ve 100. (TBK' nın 66 ve 116.) maddelerinde düzenlenmiştir. BK' nın 55. maddesine dayanan sorumluluk, sözleşme dışı sorumluluk halini düzenlemektedir. Burada, gerçekleşen zarardan önce, zarar gören üçüncü kişi ile adam çalıştıran arasında hiçbir hukuki (özellikle de sözleşmeye dayalı) ilişki yoktur. BK' nın 100. (TBK'nın 116.) maddesine dayanan sorumluluk ise, bir sözleşme sorumluluğudur. Burada, yardımcı kişi kullanan çalıştıran ile yardımcı kişinin fiilinden zarar gören arasında daha önceden kurulmuş bir sözleşme ilişkisi mevcuttur. BK'nın 55. ve 100. maddeleri arasındaki diğer bir önemli fark da, kurtuluş kanıtı bakımındandır. Zira, BK'nın 55. maddesinde çalıştırana kurtuluş kanıtı tanınmış iken, 100. maddesinde çalıştırana kurtuluş kanıtı tanınmamış, farazi kusur kabul edilmiştir.
 BK'nın 55. maddesinde, objektif özen yükümlülüğünü yerine getirdiğini veya objektif özen yükümlülüğünü yerine getirseydi dahi zararın gerçekleşeceğini kanıtlayan çalıştıran sorumluluktan kurtulurken, BK'nın 100. maddesinde çalıştıran, yardımcı kişi yerine geçip, onun davranışında bulunmuş olsaydı, bu davranış kendisine kusur olarak olarak yükletilebilecek idiyse sorumlu olur. Diğer bir anlatımla, BK'nın 100. maddesinde çalıştıran, kendisinin kusursuz olduğunu ispat etmekle sorumluluktan kurtulamaz. Bu açıklamalar ışığında somut olay incelendiğinde; davacı (hasta) ile davalı ... Ticaret A.Ş. arasında sözleşme ilişkisi bulunduğu, borcun (sağlık hizmetinin) ifasının, davalı ... Ticaret A.Ş. tarafından yardımcı kişi konumunda olan davalı hekim ...'a ve dava dışı hemşire Murat Atmaca'ya bırakıldığı ve borcun ifası sırasında davacıya zarar verildiği açıktır. Gelinen noktada, uyuşmazlığın BK 100.(TBK 116.) maddesinden kaynaklandığı anlaşılmaktadır.
 
 ## Yargıtay 3. HD 2021/6259 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/693199300)
+
 Ayrıca bankalar, adam çalıştıran sıfatı ile de sorumludur. Adam çalıştıranın sorumluluğu 818 sayılı BK’nın 55. (6098 sayılı TBK’nın 66.) maddesinde “İstihdam edenlerin mesuliyeti” başlığı altında; “Başkalarını istihdam eden kimse, maiyetinde istihdam ettiği kimselerin ve amelesinin hizmetlerini ifa ettikleri esnada yaptıkları zarardan mesuldür. Şu kadar ki böyle bir zararın vuku bulmaması için hal ve maslahatın icabettiği bütün dikkat ve itinada bulunduğunu yahut dikkat ve itinada bulunmuş olsa bile zararın vukuuna mani olamıyacağını ispat ederse mesul olmaz.” şeklinde düzenlenmiştir. Bu madde gereğince, adam çalıştıranlara genel nitelikte objektif bir özen yükümlülüğü yüklenmiş ve adam çalıştıranın bir özel hukuk ve bağımlılık ilişkisi içerisinde çalışanlarının kendilerine bırakılan işleri gördükleri sırada hukuka aykırı bir fiille üçüncü kişilere vermiş oldukları zarardan sorumluluğu düzenlenmiştir. Buna göre adam çalıştıranın sorumluluğu, kusursuz sorumluluk türlerinden özen sorumluluğudur.
 Başka bir deyişle adam çalıştıranın sorumluluğunun kaynağı, adam çalıştıranın çalışanlarını seçerken ve onları çalıştırırken çalışanlar üzerindeki denetim ve gözetim ödevini yerine getirmemesine, kanun tarafından kendisine yükletilen bu tür objektif bir ödevi ihlal etmesine dayanmaktadır (Eren, Fikret; Borçlar Hukuku Genel Hükümler, Ankara, 2017, s. 643). Adam çalıştıran, yapılacak iş için uygun fikri, mesleki bilgi ve yeteneklere sahip bir kişi seçmekle yükümlüdür. Seçeceği yardımcı kişinin yapacağı iş için vasıflı, yeterli eğitim görmüş, yeni bilgi, yöntem ve tekniği özümsemiş ve izlemiş olmasını arayacaktır.
 
 ## Yargıtay 4. HD 2019/5590 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/562521700)
+
 Adam çalıştıranın sorumluluğu olay ve dava tarihinde yürürlükte bulunan 6098 sayılı TBK'nın 66. maddesinde; ''Adam çalıştıran, çalışanın, kendisine verilen işin yapılması sırasında başkalarına verdiği zararı gidermekle yükümlüdür.'' şeklinde düzenlenmiştir. Buna göre; adam çalıştıran ile zarar veren kimse arasında bir çalıştırma ilişkisi bulunması halinde TBK'nun 66.maddesi uyarınca sorumluluk söz konusu olacaktır. Bilindiği gibi adam çalıştıranın sorumluluğu bir kusur sorumluluğu değil, olağan sebep sorumluluğudur. Burada yasa adam çalıştırana genel nitelikte objektif bir özen yükümlülüğü, bir gözetim ödevi yüklenmiştir. Adam çalıştıranın sorumluluğu kendisinin kusurdan bağımsız olarak doğmaktadır. Sorumluluğun doğması için objektif özen yükümlülüğünün ihlaliyle meydana gelen zarar arasında, uygun illiyet bağının bulunması yeterli kabul edilmiştir.
 
 ## Yargıtay 3. HD 2017/13439 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/373087500)
 
 Eser sözleşmelerinde kural olarak, iş sahibi ile yüklenici arasında bağımlılık ilişkisi bulunmamakta, yüklenici iş sahibinden bağımsız olarak üstlendiği işi sözleşme koşullarına uygun olarak tamamlayıp teslim etmeyi üstlenmektedir. Bu özellik dikkate alındığında bağımlılık ilişkisi, bir başka deyişle iş sahibinin adam çalıştıran sıfatı bulunmadığından eser sözleşmelerinin yerine getirilmesi ve işin yapımı sırasında yüklenicinin üçüncü kişilere zarar vermesi halinde iş sahibinin zarardan sorumlu tutulamayacağı kabul edilmektedir. Ancak bu kesin bir kural değildir. İş sahibi ile yüklenici arasındaki sözleşmede iş sahibine yükleniciye emir ve talimat verme, yapılan işi kontrol ve denetleme yetkisinin tanınmış olması halinde, iş sahibi ile yüklenici arasında bağımlılık ilişkisi kurulmuş olacağından iş sahibinin Türk Borçlar Kanunu'nun 66. maddesi gereğince "adam çalıştıran” sıfatıyla zarardan sorumlu tutulması gerektiği ve sorumluluk türünün de müteselsil (zincirleme) sorumluluk olacağı kuşkusuzdur.
 
 ## Yargıtay 17. HD 2016/5660 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/235198200)
+
 Adam çalıştıran kimselerin sorumluluğu 6098 Sayılı Borçlar Kanunu'nun 66. maddesinde (818 Sayılı BK'nın 55. maddesi) düzenlenmiştir. Buna göre "Adam çalıştıran, çalışanın, kendisine verilen işin yapılması sırasında başkalarına verdiği zararı gidermekle yükümlüdür. Adam çalıştıran, çalışanını seçerken, işiyle ilgili talimat verirken, gözetim ve denetimde bulunurken, zararın doğmasını engellemek için gerekli özeni gösterdiğini ispat ederse, sorumlu olmaz. Bir işletmede adam çalıştıran, işletmenin çalışma düzeninin zararın doğmasını önlemeye elverişli olduğunu ispat etmedikçe, o işletmenin faaliyetleri dolayısıyla sebep olunan zararı gidermekle yükümlüdür."…
 
 ## Yargıtay 3. HD 2015/950 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/141759500)
 
 Borçlar Hukukunda, yardımcı kişinin işin görülmesi sırasında başkalarına vermiş olduğu zarar nedeniyle çalıştıranın sorumluğu; BK. nun 55 ve 100. (TBK. nun 66 ve 116.) maddelerinde düzenlenmiştir. BK. nun 55. maddesine dayanan sorumluluk, sözleşme dışı sorumluluk halini düzenlemektedir. Burada, gerçekleşen zarardan önce, zarar gören üçüncü kişi ile adam çalıştıran arasında hiçbir hukuki (özellikle de sözleşmeye dayalı) ilişki yoktur. BK. nun 100. maddesine dayanan sorumluluk ise, bir sözleşme sorumluluğudur. Burada, yardımcı kişi kullanan çalıştıran ile yardımcı kişinin fiilinden zarar gören arasında daha önceden kurulmuş bir sözleşme ilişkisi mevcuttur. BK. madde 55 ve 100 arasındaki diğer bir önemli fark da, kurtuluş kanıtı bakımındandır. Zira, BK. madde 55 de çalıştırana kurtuluş kanıtı tanınmış iken, madde 100 de çalıştırana kurtuluş kanıtı tanınmamış, farazi kusur kabul edilmiştir.
 BK. madde 55 de, objektif özen yükümlülüğünü yerine getirdiğini veya objektif özen yükümlülüğünü yerine getirseydi dahi zararın gerçekleşeceğini kanıtlayan çalıştıran sorumluluktan kurtulurken, BK. madde 100 de çalıştıran, yardımcı kişi yerine geçip, onun davranışında bulunmuş olsaydı, bu davranış kendisine kusur olarak olarak yükletilebilecek idiyse sorumlu olur. Diğer bir anlatımla, BK. madde 100 de çalıştıran, kendisinin kusursuz olduğunu ispat etmekle sorumluluktan kurtulamaz.
 
 ## Yargıtay 3. HD 2014/4743 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/88267900)
 
 Adam çalıştıranın sorumluluğu bir kusursuz sorumluluk hali olup, surumluluk objektif özen yükümlülüğüne bağlanmıştır. TBK.nun 66/II.maddesinde özenin objektifliğini "gerekli özen" olarak ifade etmiştir. Adam çalıştıranın sorumluluğunun kaynağı, çalışma ilişkisinden kaynaklanan çalışanın kendisine bağlılığın sonucu olarak kanun tarafından kendisine yüklenen özen yükümlülüğünü yerine getirmeyerek, özen yükümlülüğüne aykırı davranmasına bağlanmıştır. Adam çalıştıran, çalışanın, kendisine verilen işin yapılması sırasında başkalarına verdiği zararı gidermekle yükümlüdür.
 
@@ -162,13 +214,19 @@ Bilindiği gibi adam çalıştıranın sorumluluğu bir kusur sorumluluğu olmay
 
 ## İstanbul BAM 17. HD 2026/503 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1204303800)
+
 6098 sayılı TBK'nın 66 ncı maddesinde adam çalıştıranın sorumluluğu; "(1)Adam çalıştıran, çalışanın, kendisine verilen işin yapılması sırasında başkalarına verdiği zararı gidermekle yükümlüdür. (2)Adam çalıştıran, çalışanını seçerken, işiyle ilgili talimat verirken, gözetim ve denetimde bulunurken, zararın doğmasını engellemek için gerekli özeni gösterdiğini ispat ederse, sorumlu olmaz. (3)Bir işletmede adam çalıştıran, işletmenin çalışma düzeninin zararın doğmasını önlemeye elverişli olduğunu ispat etmedikçe, o işletmenin faaliyetleri dolayısıyla sebep olunan zararı gidermekle yükümlüdür. (4)Adam çalıştıran, ödediği tazminat için, zarar veren çalışana, ancak onun bizzat sorumlu olduğu ölçüde rücu hakkına sahiptir." şeklinde düzenlenmiştir.
 
 ## Ankara BAM 31. HD 2026/122 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1192644500)
+
 Birden çok kişinin aynı zarardan çeşitli sebeplerden dolayı sorumlu olması konusu borçlar hukukunda düzenlenmiştir. Yardımcı kişinin işin görülmesi sırasında başkalarına vermiş olduğu zarardan adam çalıştıranın sorumluluğu, iki ayrı şekilde ele alınmıştır. TBK'nın 66.maddesine göre yardımcı kişi, üçüncü kişiye sözleşme dışı sorumluluk çerçevesinde zarar verir. Burada gerçekleşen zarardan önce, zarar gören üçüncü kişi ile adam çalıştıran arasında hiç bir hukuki, özellikle de sözleşmeye dayalı ilişki yoktur. Yardımcı kişinin davranışından sorumluluğun ikinci türü, TBK'nın 116. maddesinde düzenlenmiştir. Burada borçlu, borcun ifasında yardımcı kişi kullanmaktadır. TBK 116’da zarar gören alacaklı (somut olayda davacı ... A.Ş) ile borçlu (somut olayda davalı ...) arasında daha önce kurulmuş bir sözleşme ilişkisi vardır. Bu maddede, borçlunun, borcun ifasında veya bir borçtan doğan hakkın kullanılmasında, çalıştırdığı yardımcı kişinin işini gördüğü sırada alacaklıya vermiş olduğu zarardan sorumluluğu düzenlenmiştir. Bu nedenle TBK'nın 66.maddesi sözleşmeden doğan borç ilişkilerine uygulanmaz (Yargıtay 15. HD 2019/2839 E 2019/3978 K).
 
 ## Sakarya BAM 3. HD 2024/1522 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1066761700)
 
 Ayrıca bankalar, adam çalıştıran sıfatı ile de sorumludur. Adam çalıştıranın sorumluluğu BK’nın 55. (TBK’nın 66.) maddesinde “İstihdam edenlerin mesuliyeti” başlığı altında düzenlenmiştir. Anılan maddede; “Başkalarını istihdam eden kimse, maiyetinde istihdam ettiği kimselerin ve amelesinin hizmetlerini ifa ettikleri esnada yaptıkları zarardan mesuldür. Şu kadar ki böyle bir zararın vuku bulmaması için hal ve maslahatın icabettiği bütün dikkat ve itinada bulunduğunu yahut dikkat ve itinada bulunmuş olsa bile zararın vukuuna mani olamıyacağını ispat ederse mesul olmaz” hükmü öngörülmüştür. Bu madde gereğince adam çalıştıranlara genel nitelikte objektif bir özen yükümlülüğü yüklenmiş ve adam çalıştıranın bir özel hukuk ve bağımlılık ilişkisi içerisinde çalışanlarının kendilerine bırakılan işleri gördükleri sırada hukuka aykırı bir fiille üçüncü kişilere vermiş oldukları zarardan sorumluluğu düzenlenmiştir. Buna göre adam çalıştıranın sorumluluğu, kusursuz sorumluluk türlerinden özen sorumluluğudur.
 Başka bir deyişle adam çalıştıranın sorumluluğunun kaynağı, adam çalıştıranın çalışanlarını seçerken ve onları çalıştırırken çalışanlar üzerindeki denetim ve gözetim ödevini yerine getirmemesine, kanun tarafından kendisine yükletilen bu tür objektif bir ödevi ihlal etmesine dayanmaktadır (..., ....; Borçlar Hukuku Genel Hükümler, Ankara, 2017, s. 643).

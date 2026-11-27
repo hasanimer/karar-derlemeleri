@@ -22,6 +22,8 @@ uyari: "Derleyenin seçtiği alıntılardır; kararın tamamı değildir. Künye
 
 ## Yargıtay 6. HD 2014/6512 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/97425400)
+
 Hükme esas alınan 01.05.2009 başlangıç tarihli ve bir yıl süreli kira sözleşmesi konusunda taraflar arasında bir uyuşmazlık bulunmamaktadır. Sözleşmede aylık kira bedelinin 1250TL olduğu ve her yıl TEFE–TÜFE ortalaması oranında artırılacağı kararlaştırılmıştır.Sözleşmenin 18. maddesinde ” aynı dönem içerisinde kira bedelinin iki ay arka arkaya ödenmemesi halinde gelecek kiralar muacceliyet kespeder.....” hükmüne yer verilmiş isede; Kiracı aleyhine düzenleme yasağı başlıklı 6098 Sayılı Türk Borçlar Kanun'unun 346.maddesinde; kiracıya kira bedeli ve yan giderler dışında başka bir ödeme yükümlülüğü getirilemeyeceği, özellikle kira bedelinin zamanında ödenmemesi halinde ceza koşulu ödeneceğine veya sonraki kira bedellerinin muaccel olacağına ilişkin anlaşmaların geçersiz olduğu, 6101 Sayılı Türk Borçlar Kanun'unun Yürürlüğü ve Uygulama Şekli Hakkında Kanun'un '' geçmişe etkili olma '' başlıklı 2.maddesinde; Türk Borçlar Kanun'unun kamu düzenine ve genel ahlaka ilişkin kurallarının gerçekleştikleri tarihe bakılmaksızın bütün fiil ve işlemlere uygulanacağı, aynı kanunun ''görülmekte olan davalara ilişkin uygulama '' başlıklı 7.maddesinde de;
 Türk Borçlar Kanun'unun kamu düzenine ve genel ahlaka ilişkin kuralları ile geçici ödemelere ilişkin 76'ncı, faize ilişkin 88'nci, temerrüt faizine ilişkin 120'nci ve aşırı ifa güçlüğüne ilişkin 138'nci maddesinin
 
@@ -29,36 +31,52 @@ görülmekte olan davalara da uygulanacağı hüküm altına alınmıştır. Kir
 
 ## Yargıtay 6. HD 2014/6458 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/307621500)
+
 Kiracı aleyhine düzenleme yasağı başlıklı 6098 Sayılı Türk Borçlar Kanun'unun 346.maddesinde; kiracıya kira bedeli ve yan giderler dışında başka bir ödeme yükümlülüğü getirilemeyeceği, özellikle kira bedelinin zamanında ödenmemesi halinde ceza koşulu ödeneceğine veya sonraki kira bedellerinin muaccel olacağına ilişkin anlaşmaların geçersiz olduğu, 6101 Sayılı Türk Borçlar Kanununun Yürürlüğü ve Uygulama Şekli Hakkında Kanun'un Geçmişe etkili olma başlıklı 2.maddesinde; Türk Borçlar Kanun'unun kamu düzenine ve genel ahlaka ilişkin kurallarının gerçekleştikleri tarihe bakılmaksızın bütün fiil ve işlemlere uygulanacağı, aynı Kanun'un görülmekte olan davalara ilişkin uygulama başlıklı 7.maddesinde de; Türk Borçlar Kanun'unun kamu düzenine ve genel ahlaka ilişkin kuralları ile geçici ödemelere ilişkin 76'ncı, faize ilişkin 88'nci, temerrüt faizine ilişkin 120'nci ve aşırı ifa güçlüğüne ilişkin 138'nci maddesinin görülmekte olan davalara da uygulanacağı hüküm altına alınmıştır. Kiracıyı koruma amacıyla getirilen TBK.nun 346.maddesindeki bu yasal düzenlemenin kamu düzenine ilişkin olduğu kuşkusuzdur.
 Bununla birlikte 6217 Sayılı Yasanın geçici 2. maddesinde değişiklik yapan 6353 Sayılı Yasanın 53. maddesine göre;…
 
 ## Yargıtay 6. HD 2014/5227 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/307795600)
 
 Kiracı aleyhine düzenleme yasağı başlıklı 6098 Sayılı Türk Borçlar Kanununun 346.maddesinde; kiracıya kira bedeli ve yan giderler dışında başka bir ödeme yükümlülüğü getirilemeyeceği, özellikle kira bedelinin zamanında ödenmemesi halinde ... koşulu ödeneceğine veya sonraki kira bedellerinin muaccel olacağına ilişkin anlaşmaların geçersiz olduğu, 6101 Sayılı Türk Borçlar Kanununun Yürürlüğü ve Uygulama Şekli Hakkında Kanunun Geçmişe etkili olma başlıklı ....maddesinde; Türk Borçlar Kanununun kamu düzenine ve genel ahlaka ilişkin kurallarının gerçekleştikleri tarihe bakılmaksızın bütün fiil ve işlemlere uygulanacağı, aynı kanunun görülmekte olan davalara ilişkin uygulama başlıklı ....maddesinde de; Türk Borçlar Kanununun kamu düzenine ve genel ahlaka ilişkin kuralları ile geçici ödemelere ilişkin 76'ncı, faize ilişkin 88'nci, temerrüt faizine ilişkin 120'nci ve aşırı ifa güçlüğüne ilişkin 138'nci maddesinin görülmekte olan davalara da uygulanacağı hüküm altına alınmıştır. Kiracıyı koruma amacıyla getirilen ....nun 346.maddesindeki bu yasal düzenlemenin kamu düzenine ilişkin olduğu kuşkusuzdur.
 Bununla birlikte 6217 Sayılı Yasanın geçici ....maddesinde değişiklik yapan 6353 Sayılı Yasanın 53.maddesine göre; kiracının Türk Ticaret Kanunun'da tacir olarak sayılan kişiler ile özel ... ve kamu hukuku tüzel kişileri olduğu işyeri kiralarında 6098 Sayılı Türk Borçlar Kanununun 323, 325, 331, 340, 343, 344, 346 ve 354'ncü maddelerinin ........2012 tarihinden itibaren ... yıl süreyle uygulanamayacağı, bu halde kira sözleşmelerinde bu maddelerde belirtilmiş olan konulara ilişkin olarak sözleşme serbestisi gereği kira sözleşmesi hükümlerinin tatbik olunacağı da öngörülmektedir.
 
 ## Yargıtay 6. HD 2014/3827 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/309628500)
+
 Kiracı aleyhine düzenleme yasağı başlıklı 6098 Sayılı Türk Borçlar Kanununun 346.maddesinde; kiracıya kira bedeli ve yan giderler dışında başka bir ödeme yükümlülüğü getirilemeyeceği, özellikle kira bedelinin zamanında ödenmemesi halinde ceza koşulu ödeneceğine veya sonraki kira bedellerinin muaccel olacağına ilişkin anlaşmaların geçersiz olduğu, 6101 Sayılı Türk Borçlar Kanununun Yürürlüğü ve Uygulama Şekli Hakkında Kanunun Geçmişe etkili olma başlıklı 2.maddesinde; Türk Borçlar Kanununun kamu düzenine ve genel ahlaka ilişkin kurallarının gerçekleştikleri tarihe bakılmaksızın bütün fiil ve işlemlere uygulanacağı, aynı kanunun görülmekte olan davalara ilişkin uygulama başlıklı 7.maddesinde de; Türk Borçlar Kanununun kamu düzenine ve genel ahlaka ilişkin kuralları ile geçici ödemelere ilişkin 76'ncı, faize ilişkin 88'nci, temerrüt faizine ilişkin 120'nci ve aşırı ifa güçlüğüne ilişkin 138'nci maddesinin görülmekte olan davalara da uygulanacağı hüküm altına alınmıştır. Kiracıyı koruma amacıyla getirilen TBK.nun 346.maddesindeki bu yasal düzenlemenin kamu düzenine ilişkin olduğu kuşkusuzdur.
 Bununla birlikte 6217 Sayılı Yasanın geçici 2.maddesinde değişiklik yapan 6353 Sayılı Yasanın 53.maddesine göre; ./..
 
 ## Yargıtay 6. HD 2014/3059 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/97285400)
+
 6098 sayılı TBK.'nun kiraya verenin borçları başlıklı 301.maddesinde; "kiraya veren, kiralananı kararlaştırılan tarihte, sözleşmede amaçlanan kullanıma elverişli bir durumda teslim etmek ve sözleşme süresince bu durumda bulundurmakla yükümlüdür. Bu hüküm, konut ve çatılı iş yeri kiralarında kiracı aleyhine değiştirilemez. Diğer kira sözleşmelerinde ise, kiracı aleyhine genel işlem koşulları yoluyla bu hükme aykırı düzenleme yapılamaz" hükmü öngörülmüştür.
 
 ## Yargıtay 6. HD 2014/1980 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/97309100)
 
 Kiracı aleyhine düzenleme yasağı başlıklı 6098 Sayılı Türk Borçlar Kanun'unun 346.maddesinde; kiracıya kira bedeli ve yan giderler dışında başka bir ödeme yükümlülüğü getirilemeyeceği, özellikle kira bedelinin zamanında ödenmemesi halinde ceza koşulu ödeneceğine veya sonraki kira bedellerinin muaccel olacağına ilişkin anlaşmaların geçersiz olduğu, 6101 Sayılı Türk Borçlar Kanun'unun Yürürlüğü ve Uygulama Şekli Hakkında Kanun'un Geçmişe etkili olma başlıklı 2.maddesinde; Türk Borçlar Kanun'unun kamu düzenine ve genel ahlaka ilişkin kurallarının gerçekleştikleri tarihe bakılmaksızın bütün fiil ve işlemlere uygulanacağı, aynı kanunun görülmekte olan davalara ilişkin uygulama başlıklı 7.maddesinde de; Türk Borçlar Kanun'unun kamu düzenine ve genel ahlaka ilişkin kuralları ile geçici ödemelere ilişkin 76'ncı, faize ilişkin 88'nci, temerrüt faizine ilişkin 120'nci ve aşırı ifa güçlüğüne ilişkin 138'nci maddesinin görülmekte olan davalara da uygulanacağı hüküm altına alınmıştır. Kiracıyı koruma amacıyla getirilen TBK.nun 346.maddesindeki bu yasal düzenlemenin kamu düzenine ilişkin olduğu kuşkusuzdur…
 
 ## Yargıtay 6. HD 2014/818 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/97250000)
+
 6098 Sayılı Türk Borçlar Kanununun kiracı aleyhine düzenleme yasağı başlıklı 346.maddesinde; kiracıya kira bedeli ve yan giderler dışında başka bir ödeme yükümlülüğü getirilemeyeceği, özellikle kira bedelinin zamanında ödenmemesi halinde ceza koşulu ödeneceğine veya sonraki kira bedellerinin muaccel olacağına ilişkin anlaşmaların geçersiz olduğu, 6101 Sayılı Türk Borçlar Kanununun Yürürlüğü ve Uygulama Şekli Hakkında Kanunun Geçmişe etkili olma başlıklı 2.maddesinde; Türk Borçlar Kanununun kamu düzenine ve genel ahlaka ilişkin kurallarının gerçekleştikleri tarihe bakılmaksızın bütün fiil ve işlemlere uygulanacağı, aynı kanunun görülmekte olan davalara ilişkin uygulama başlıklı 7.maddesinde de; Türk Borçlar Kanununun kamu düzenine ve genel ahlaka ilişkin kuralları ile geçici ödemelere ilişkin 76'ncı, faize ilişkin 88'nci, temerrüt faizine ilişkin 120'nci ve aşırı ifa güçlüğüne ilişkin 138'nci maddesinin görülmekte olan davalara da uygulanacağı hüküm altına alınmıştır. Kiracıyı koruma amacıyla getirilen TBK.nun 346.maddesindeki bu yasal…
 
 ## Yargıtay 6. HD 2014/850 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/310901200)
+
 Kiracı aleyhine düzenleme yasağı başlıklı 6098 Sayılı Türk Borçlar Kanununun 346.maddesinde; kiracıya kira bedeli ve yan giderler dışında başka bir ödeme yükümlülüğü getirilemeyeceği, özellikle kira bedelinin zamanında ödenmemesi halinde ceza koşulu ödeneceğine veya sonraki kira bedellerinin muaccel olacağına ilişkin anlaşmaların geçersiz olduğu, 6101 Sayılı Türk Borçlar Kanununun Yürürlüğü ve Uygulama Şekli Hakkında Kanunun Geçmişe etkili olma başlıklı 2.maddesinde; Türk Borçlar Kanununun kamu düzenine ve genel ahlaka ilişkin kurallarının gerçekleştikleri tarihe bakılmaksızın bütün fiil ve işlemlere uygulanacağı, aynı kanunun görülmekte olan davalara ilişkin uygulama başlıklı 7.maddesinde de; Türk Borçlar Kanununun kamu düzenine ve genel ahlaka ilişkin kuralları ile geçici ödemelere ilişkin 76'ncı, faize ilişkin 88'nci, temerrüt faizine ilişkin 120'nci ve aşırı ifa güçlüğüne ilişkin 138'nci maddesinin görülmekte olan davalara da uygulanacağı hüküm altına alınmıştır. Kiracıyı koruma amacıyla getirilen TBK.nun 346.maddesindeki bu yasal düzenlemenin kamu düzenine…
 
 ## Yargıtay 6. HD 2014/572 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/97136000)
 
 Kiracı aleyhine düzenleme yasağı başlıklı 6098 Sayılı Türk Borçlar Kanununun 346.maddesinde; kiracıya kira bedeli ve yan giderler dışında başka bir ödeme yükümlülüğü getirilemeyeceği, özellikle kira bedelinin zamanında ödenmemesi halinde ceza koşulu ödeneceğine veya sonraki kira bedellerinin muaccel olacağına ilişkin anlaşmaların geçersiz olduğu, 6101 Sayılı Türk Borçlar Kanununun Yürürlüğü ve Uygulama Şekli Hakkında Kanunun Geçmişe etkili olma başlıklı 2.maddesinde; Türk Borçlar Kanununun kamu düzenine ve genel ahlaka ilişkin kurallarının gerçekleştikleri tarihe bakılmaksızın bütün fiil ve işlemlere uygulanacağı, aynı kanunun görülmekte olan davalara ilişkin uygulama başlıklı 7.maddesinde de; Türk Borçlar Kanununun kamu düzenine ve genel ahlaka ilişkin kuralları ile geçici ödemelere ilişkin 76'ncı, faize ilişkin 88'nci, temerrüt faizine ilişkin 120'nci ve aşırı ifa güçlüğüne ilişkin 138'nci maddesinin görülmekte olan davalara da uygulanacağı hüküm altına alınmıştır. Kiracıyı koruma amacıyla getirilen TBK.nun 346.maddesindeki bu yasal düzenlemenin kamu düzenine ilişkin olduğu kuşkusuzdur.
 Bununla birlikte 6217 Sayılı Yasanın geçici 2.maddesinde değişiklik yapan 6353 Sayılı Yasanın 53.maddesine
@@ -67,26 +85,38 @@ göre; kiracının Türk Ticaret Kanunun'da tacir olarak sayılan kişiler ile �
 
 ## Yargıtay 6. HD 2014/33 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/96737800)
+
 6098 Sayılı Türk Borçlar Kanununun kiracı aleyhine düzenleme yasağı başlıklı 346.maddesinde; kiracıya kira bedeli ve yan giderler dışında başka bir ödeme yükümlülüğü getirilemeyeceği, özellikle kira bedelinin zamanında ödenmemesi halinde ceza koşulu ödeneceğine veya sonraki kira bedellerinin muaccel olacağına ilişkin anlaşmaların geçersiz olduğu, 6101 Sayılı Türk Borçlar Kanununun Yürürlüğü ve Uygulama Şekli Hakkında Kanunun Geçmişe etkili olma başlıklı 2. Maddesinde; Türk Borçlar Kanununun kamu düzenine ve genel ahlaka ilişkin kurallarının gerçekleştikleri tarihe bakılmaksızın bütün fiil ve işlemlere uygulanacağı, aynı kanunun görülmekte olan davalara ilişkin uygulama başlıklı 7.maddesinde de; Türk Borçlar Kanununun kamu düzenine ve genel ahlaka ilişkin kuralları ile geçici ödemelere ilişkin 76'ncı, faize ilişkin 88'nci, temerrüt faizine ilişkin 120'nci ve aşırı…
 
 ## Yargıtay 6. HD 2013/17424 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/521391400)
 
 6098 Sayılı Türk Borçlar Kanununun kiracı aleyhine düzenleme yasağı başlıklı 346.maddesinde; kiracıya kira bedeli ve yan giderler dışında başka bir ödeme yükümlülüğü getirilemeyeceği, özellikle kira bedelinin zamanında ödenmemesi halinde ceza koşulu ödeneceğine veya sonraki kira bedellerinin muaccel olacağına ilişkin anlaşmaların geçersiz olduğu, 6101 Sayılı Türk Borçlar Kanununun Yürürlüğü ve Uygulama Şekli Hakkında Kanunun Geçmişe etkili olma başlıklı 2.maddesinde; Türk Borçlar Kanununun kamu düzenine ve genel ahlaka ilişkin kurallarının gerçekleştikleri tarihe bakılmaksızın bütün fiil ve işlemlere uygulanacağı, aynı kanunun görülmekte olan davalara ilişkin uygulama başlıklı 7.maddesinde de; Türk Borçlar Kanununun kamu düzenine ve genel ahlaka ilişkin kuralları ile geçici ödemelere ilişkin 76'ncı, faize ilişkin 88'nci, temerrüt faizine ilişkin 120'nci ve aşırı ifa güçlüğüne ilişkin 138'nci maddesinin görülmekte olan davalara da uygulanacağı hüküm altına alınmıştır. Kiracıyı koruma amacıyla getirilen TBK.nun 346.maddesindeki bu yasal düzenlemenin kamu düzenine…
 
 ## Yargıtay 6. HD 2013/16620 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/520888200)
+
 6098 Sayılı Türk Borçlar Kanununun kiracı aleyhine düzenleme yasağı başlıklı 346.maddesinde; kiracıya kira bedeli ve yan giderler dışında başka bir ödeme yükümlülüğü getirilemeyeceği, özellikle kira bedelinin zamanında ödenmemesi halinde ceza koşulu ödeneceğine veya sonraki kira bedellerinin muaccel olacağına ilişkin anlaşmaların geçersiz olduğu, 6101 Sayılı Türk Borçlar Kanununun Yürürlüğü ve Uygulama Şekli Hakkında Kanunun Geçmişe etkili olma başlıklı 2.maddesinde; Türk Borçlar Kanununun kamu…
 
 ## Yargıtay 6. HD 2013/16621 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/520888300)
 
 6098 Sayılı Türk Borçlar Kanununun kiracı aleyhine düzenleme yasağı başlıklı 346.maddesinde; kiracıya kira bedeli ve yan giderler dışında başka bir ödeme yükümlülüğü getirilemeyeceği, özellikle kira bedelinin zamanında ödenmemesi halinde ceza koşulu ödeneceğine veya sonraki kira bedellerinin muaccel olacağına ilişkin anlaşmaların geçersiz olduğu, 6101 Sayılı Türk Borçlar Kanununun Yürürlüğü ve Uygulama Şekli Hakkında Kanunun Geçmişe etkili olma başlıklı 2.maddesinde; Türk Borçlar Kanununun kamu düzenine ve genel ahlaka ilişkin kurallarının gerçekleştikleri tarihe bakılmaksızın bütün fiil ve işlemlere uygulanacağı, aynı kanunun görülmekte olan davalara ilişkin uygulama başlıklı 7.maddesinde de; Türk Borçlar Kanununun kamu düzenine ve genel ahlaka ilişkin kuralları ile geçici ödemelere ilişkin 76'ncı, faize ilişkin 88'nci, temerrüt faizine ilişkin 120'nci ve aşırı ifa güçlüğüne ilişkin 138'nci maddesinin görülmekte olan davalara da uygulanacağı hüküm altına alınmıştır. Kiracıyı koruma amacıyla getirilen TBK.nun 346.maddesindeki bu yasal düzenlemenin kamu düzenine ilişkin olduğu kuşkusuzdur. Bununla birlikte 6217 Sayılı…
 
 ## Yargıtay 6. HD 2013/16301 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/520785400)
+
 Davalının alacağa ilişkin temyizine gelince; 6098 Sayılı Türk Borçlar Kanun'unun kiracı aleyhine düzenleme yasağı başlıklı 346.maddesinde; kiracıya kira bedeli ve yan giderler dışında başka bir ödeme yükümlülüğü getirilemeyeceği, özellikle kira bedelinin zamanında ödenmemesi halinde ceza koşulu ödeneceğine veya sonraki kira bedellerinin muaccel olacağına ilişkin anlaşmaların geçersiz olduğu, 6101 Sayılı Türk Borçlar Kanun'unun Yürürlüğü ve Uygulama Şekli Hakkında Kanun'un Geçmişe etkili olma başlıklı 2.maddesinde; Türk Borçlar Kanununun kamu düzenine ve genel ahlaka ilişkin kurallarının gerçekleştikleri tarihe bakılmaksızın bütün fiil ve işlemlere uygulanacağı, aynı kanunun görülmekte olan davalara ilişkin uygulama başlıklı 7.maddesinde de; Türk Borçlar Kanun'unun kamu düzenine ve genel ahlaka ilişkin kuralları ile geçici ödemelere ilişkin 76'ncı, faize ilişkin 88'nci, temerrüt faizine ilişkin 120'nci ve aşırı ifa güçlüğüne ilişkin 138'nci maddesinin görülmekte olan davalara da uygulanacağı hüküm altına alınmıştır. Kiracıyı koruma amacıyla getirilen TBK.nun 346.maddesindeki bu yasal düzenlemenin kamu düzenine ilişkin olduğu kuşkusuzdur.
 Bununla birlikte 6217 Sayılı Yasanın geçici 2.maddesinde değişiklik yapan 6353 Sayılı Yasanın 53.maddesine göre; kiracının Türk Ticaret Kanunun'da tacir olarak sayılan kişiler ile özel hukuk ve kamu hukuku tüzel…
 
 ## Yargıtay 6. HD 2013/16200 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/520717300)
 
 6098 Sayılı Türk Borçlar Kanununun kiracı aleyhine düzenleme yasağı başlıklı 346.maddesinde; kiracıya kira bedeli ve yan giderler dışında başka bir ödeme yükümlülüğü getirilemeyeceği, özellikle kira bedelinin zamanında ödenmemesi halinde ceza koşulu ödeneceğine veya sonraki kira bedellerinin muaccel olacağına ilişkin anlaşmaların geçersiz olduğu düzenlenmiştir. Taraflar arasında düzenlenen kira sözleşmesinin özel şartlar 6. maddesinde herhangi bir ayın kirası ödenmediğinde ihtara gerek kalmaksızın kira döneminin sonuna kadar tüm kira parasının tamamı muaccel olur düzenlemesi bulunuyorsa da 01.07.2012 tarihinde yürürlüğe giren TBK'nın 346. maddesi gereği meskenlerde muacceliyet koşulu kaldırılmıştır. Davalı borçlu hakkında çekilen ihtarnamede ödenmeyen
 
@@ -94,11 +124,15 @@ Bununla birlikte 6217 Sayılı Yasanın geçici 2.maddesinde değişiklik yapan 
 
 ## Yargıtay 6. HD 2013/15892 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/521841100)
+
 Davalı kiralananda 01.06.2009 başlangıç tarihli ve 9 ay süreli sözleşme ile kiracıdır. Sözleşmenin özel koşullar 19.maddesinde bir ayın kirasının ödenmemesi halinde gelecek kiraların muacceliyet kesbedeceği kararlaştırılmış, 20.maddede ise; kiracının kira parasını zamanında ödememesi durumunda %10 gecikme cezası ödeyeceği kararlaştırılmıştır. Takip talepnamesinde sözleşmedeki bu koşullara dayalı olarak dört aylık muaccel aylar kirası (2011/Kasım- 2012/Şubat arası) ve aylık %10 üzerinden 16.300 TL gecikme cezası talep edilmiştir. 6098 Sayılı Türk Borçlar Kanun'unun kiracı aleyhine düzenleme yasağı başlıklı 346.maddesinde; Kiracıya kira bedeli ve yan giderler dışında başka bir ödeme yükümlülüğü getirilemeyeceği, özellikle kira bedelinin zamanında ödenmemesi halinde ceza koşulu ödeneceğine veya sonraki kira bedellerinin muaccel olacağına ilişkin anlaşmaların geçersiz olduğu, 6101 Sayılı Türk Borçlar Kanun'unun Yürürlüğü ve Uygulama Şekli Hakkında Kanun'un Geçmişe etkili olma başlıklı 2.maddesinde;
 Türk Borçlar Kanun'unun kamu düzenine ve genel ahlaka ilişkin kurallarının gerçekleştikleri tarihe bakılmaksızın bütün fiil ve işlemlere uygulanacağı, aynı Kanun'un görülmekte olan davalara ilişkin uygulama başlıklı 7.maddesinde de; Türk Borçlar Kanun'unun kamu düzenine ve genel ahlaka ilişkin kuralları ile geçici ödemelere ilişkin 76'ncı, faize ilişkin 88'nci, temerrüt faizine ilişkin 120'nci ve aşırı ifa güçlüğüne ilişkin 138'nci maddesinin görülmekte olan davalara da uygulanacağı hüküm altına alınmıştır. Kiracıyı koruma amacıyla getirilen TBK.nun 346.maddesindeki bu yasal düzenlemenin kamu düzenine ilişkin olduğu kuşkusuzdur.
 Bununla birlikte 6217 Sayılı Yasanın geçici 2.maddesinde değişiklik yapan 6353 Sayılı Yasanın 53.maddesine göre; kiracının Türk Ticaret Kanun'unda tacir olarak sayılan kişiler ile özel hukuk ve kamu hukuku tüzel kişileri olduğu işyeri kiralarında 6098 Sayılı Türk Borçlar Kanun'unun 323, 325, 331, 340, 343, 344, 346 ve 354'ncü maddelerinin 01.07.2012 tarihinden itibaren 8 yıl süreyle uygulanamayacağı, bu halde kira sözleşmelerinde bu maddelerde belirtilmiş olan konulara ilişkin olarak sözleşme serbestisi gereği kira sözleşmesi hükümlerinin tatbik olunacağı da öngörülmektedir. Bu durumda, her ne kadar Türk Borçlar Kanunu'nun 346. maddesi gereğince muacceliyet anlaşması geçersiz hale gelmiş ise de, kiracının Türk Ticaret Kanunun'da tacir olarak sayılan kişilerden olup olmadığı dosya kapsamından anlaşılamamaktadır. Bu nedenle mahkemece bu husus üzerinde durularak sonucuna göre muaccel aylar kirası ve cezai şart talebi hakkında bir karar verilmesi gerekirken eksik inceleme ile yazılı şekilde hüküm verilmesi doğru değildir.
 
 ## Yargıtay 6. HD 2013/15285 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/521810100)
 
 Kiracı aleyhine düzenleme yasağı başlıklı 6098 Sayılı Türk Borçlar Kanununun 346.maddesinde; kiracıya kira bedeli ve yan giderler dışında başka bir ödeme yükümlülüğü
 
@@ -106,10 +140,14 @@ getirilemeyeceği, özellikle kira bedelinin zamanında ödenmemesi halinde ceza
 
 ## Yargıtay 6. HD 2013/15155 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/521827100)
+
 Taraflar arasında 01.01.2011 başlangıç tarihli 1 yıl süreli kira sözleşmesinin varlığı konusunda uyuşmazlık yoktur. Uyuşmazlık ihtarnamelere konu kira bedellerinin ihtarların tebliği tarihinden önce ödenip ödenmedikleri konusunda toplanmaktadır. Kiraya verene ait banka hesap ekstrelerinin incelemesinden dava tarihine kadar yapılan ödemelerin içeriğine ilişkin bir açıklama düşülmeden çeşitli tarihlerde kira paralarının kiracı tarafından yatırıldığı tespit edilmiştir. Banka aracılığıyla yapılan ödemelerin ait olduğu aylara ilişkin taraflar arasında ihtilaf vardır. Bu durumda davacının beyanlarına itibar edilerek ödemelerin ihtarnamelerden sonra yapıldığının kabulü gerekir. Ancak, kiracı aleyhine düzenleme yasağı başlıklı 6098 Sayılı Türk Borçlar Kanununun 346.maddesinde; kiracıya kira bedeli ve yan giderler dışında başka bir ödeme yükümlülüğü getirilemeyeceği, özellikle kira bedelinin zamanında ödenmemesi halinde ceza koşulu ödeneceğine veya sonraki kira bedellerinin muaccel olacağına ilişkin anlaşmaların geçersiz olduğu, 6101 Sayılı Türk Borçlar Kanununun Yürürlüğü ve Uygulama Şekli Hakkında Kanunun Geçmişe etkili olma başlıklı 2.maddesinde;
 Türk Borçlar Kanununun kamu düzenine ve genel ahlaka ilişkin kurallarının gerçekleştikleri tarihe bakılmaksızın bütün fiil ve işlemlere uygulanacağı, aynı kanunun görülmekte olan davalara ilişkin uygulama başlıklı 7.maddesinde de; Türk Borçlar Kanununun kamu düzenine ve genel ahlaka ilişkin kuralları ile geçici ödemelere ilişkin 76'ncı, faize ilişkin 88'nci, temerrüt faizine ilişkin 120'nci ve aşırı ifa güçlüğüne ilişkin 138'nci maddesinin görülmekte olan davalara da uygulanacağı hüküm altına alınmıştır. Kiracıyı koruma amacıyla getirilen TBK.nun 346. maddesindeki bu yasal düzenlemenin…
 
 ## Yargıtay 6. HD 2013/14641 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/534775200)
 
 Dava tarihinde yürürlükte bulunan 6098 Sayılı Türk Borçlar Kanun'unun kiracı aleyhine düzenleme yasağı başlıklı 346.maddesinde; Kiracıya kira bedeli ve yan giderler dışında başka bir ödeme yükümlülüğü getirilemeyeceği, özellikle kira bedelinin zamanında ödenmemesi halinde ceza koşulu ödeneceğine veya sonraki kira bedellerinin muaccel olacağına ilişkin anlaşmaların geçersiz olduğu düzenlenmiştir. Kiracıyı koruma amacıyla getirilen TBK.nun 346.maddesindeki bu yasal düzenlemenin kamu düzenine ilişkin olduğu kuşkusuzdur. Taraflar arasında düzenlenen kira sözleşmesinin 20. maddesinde cezai şart kararlaştırılmış ise de, yeni yasal düzenleme karşısında bu koşulun davalı kiracının sıfatına göre geçersiz hale geldiğinin kabulü gerekir. Bu nedenle mahkemece davacı kiraya verenin
 
@@ -117,14 +155,20 @@ cezai şart talebinin reddine karar verilmesi gerekirken kabulüne karar verilme
 
 ## Yargıtay 6. HD 2013/14694 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/530972600)
+
 6098 Sayılı Türk Borçlar Kanun'unun kiracı aleyhine düzenleme yasağı başlıklı 346.maddesinde; kiracıya kira bedeli ve yan giderler dışında başka bir ödeme yükümlülüğü getirilemeyeceği, özellikle kira bedelinin zamanında ödenmemesi halinde ceza koşulu ödeneceğine veya sonraki kira bedellerinin muaccel olacağına ilişkin anlaşmaların geçersiz olduğu, 6101 Sayılı Türk Borçlar Kanununun Yürürlüğü ve Uygulama Şekli Hakkında Kanunun Geçmişe etkili olma başlıklı 2.maddesinde; Türk Borçlar Kanun'unun kamu düzenine ve genel ahlaka ilişkin kurallarının gerçekleştikleri tarihe bakılmaksızın bütün fiil…
 
 ## Yargıtay 6. HD 2013/14407 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/535628900)
 
 Öte yandan kiracı aleyhine düzenleme yasağı başlıklı 6098 Sayılı Türk Borçlar Kanununun 346.maddesinde; kiracıya kira bedeli ve yan giderler dışında başka bir ödeme yükümlülüğü getirilemeyeceği, özellikle kira bedelinin zamanında ödenmemesi halinde ceza koşulu ödeneceğine veya sonraki kira bedellerinin muaccel olacağına ilişkin anlaşmaların geçersiz olduğu, 6101 Sayılı Türk Borçlar Kanununun Yürürlüğü ve Uygulama Şekli Hakkında Kanunun Geçmişe etkili olma başlıklı 2.maddesinde; Türk Borçlar Kanununun kamu düzenine ve genel ahlaka ilişkin kurallarının gerçekleştikleri tarihe bakılmaksızın bütün fiil ve işlemlere uygulanacağı, aynı kanunun görülmekte olan davalara ilişkin uygulama başlıklı 7.maddesinde de; Türk Borçlar Kanununun kamu düzenine ve genel ahlaka ilişkin kuralları ile geçici ödemelere ilişkin 76'ncı, faize ilişkin 88'nci, temerrüt faizine ilişkin 120'nci ve aşırı ifa güçlüğüne ilişkin 138'nci maddesinin görülmekte olan davalara da uygulanacağı hüküm altına alınmıştır. Kiracıyı koruma amacıyla getirilen TBK.nun 346.maddesindeki bu yasal düzenlemenin kamu düzenine ilişkin olduğu kuşkusuzdur.
 Bununla birlikte 6217 Sayılı Yasanın geçici 2.maddesinde değişiklik yapan 6353 Sayılı Yasanın 53.maddesine göre; kiracının Türk Ticaret Kanunun'da tacir olarak sayılan kişiler ile özel hukuk ve kamu hukuku tüzel kişileri olduğu işyeri kiralarında 6098 Sayılı Türk Borçlar…
 
 ## Yargıtay 6. HD 2013/14016 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/535609900)
 
 Takibe dayanak yapılan ve karara esas alınan 01.01.2009 başlangıç tarihli kira sözleşmesi kiraya veren sıfatıyla davacı ... ile kiracı ... arasında düzenlenmiştir. Dosya içerisinde bulunan tapu kaydına göre taşınmazda ...isimli bir şahsın daha paydaş olduğu anlaşılmaktadır. Müşterek mülkiyette pay ve paydaş çoğunluğuyla, iştirak halindeki mülkiyette tüm ortaklarca yapılmayan sözleşmeler geçersizdir. Ancak, kiralayan paydaş akit sıfatıyla sözleşmenin kendisine verdiği yetkiye dayanarak kiracı aleyhine yalnız başına tahliye davası açabilir. Sözleşmede taraf olmayan paydaşlar, sözleşmeyi tanımayarak kiracı aleyhine men'i müdahale davası açabilecekleri gibi, bu sözleşmeyi kabul edip, geçerlilik tanıyarak müşterek mülkiyette pay ve paydaş çoğunluğuyla iştirakli mülkiyette tüm ortaklarca tahliye davası da açabilirler. Öte yandan adi kira sözleşmesi her iki tarafa da borç yükleyen tam karşılıklı sözleşme olduğundan, borç doğurucu bir akit olmasından dolayı
 
@@ -132,35 +176,51 @@ yetkisiz bir paydaş kira akdini kendi adına yapmış ise bu akit taraflar aras
 
 ## Yargıtay 6. HD 2013/13112 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/537571100)
+
 Kiracı aleyhine düzenleme yasağı başlıklı 6098 Sayılı Türk Borçlar Kanun'unun 346.maddesinde; kiracıya kira bedeli ve yan giderler dışında başka bir ödeme yükümlülüğü getirilemeyeceği, özellikle kira bedelinin zamanında ödenmemesi halinde ceza koşulu ödeneceğine veya sonraki kira bedellerinin muaccel olacağına ilişkin anlaşmaların geçersiz olduğu, 6101 Sayılı Türk Borçlar Kanun'unun Yürürlüğü ve Uygulama Şekli Hakkında Kanun'un Geçmişe etkili olma başlıklı 2.maddesinde; Türk Borçlar Kanun'unun kamu düzenine ve genel ahlaka ilişkin kurallarının gerçekleştikleri tarihe bakılmaksızın bütün fiil ve işlemlere uygulanacağı, aynı kanunun görülmekte olan davalara ilişkin uygulama başlıklı 7.maddesinde de; Türk Borçlar Kanun'unun kamu düzenine ve genel ahlaka ilişkin kuralları ile geçici ödemelere ilişkin 76'ncı, faize ilişkin 88'nci, temerrüt faizine ilişkin 120'nci ve aşırı ifa güçlüğüne ilişkin 138'nci maddesinin görülmekte olan davalara da uygulanacağı hüküm altına alınmıştır. Kiracıyı koruma amacıyla getirilen TBK.nun 346.maddesindeki bu yasal düzenlemenin kamu düzenine ilişkin olduğu kuşkusuzdur.
 Bununla birlikte 6217 Sayılı Yasanın geçici 2.maddesinde değişiklik yapan 6353 Sayılı Yasanın 53.maddesine göre; kiracının Türk Ticaret Kanunun'da tacir olarak sayılan kişiler ile özel hukuk ve kamu hukuku tüzel kişileri olduğu işyeri kiralarında 6098 Sayılı Türk Borçlar Kanun'unun 323, 325, 331, 340, 343, 344, 346 ve 354'ncü maddelerinin 01.07.2012 tarihinden itibaren 8 yıl süreyle uygulanamayacağı, bu halde kira sözleşmelerinde bu maddelerde belirtilmiş olan konulara ilişkin olarak sözleşme serbestîsi gereği kira sözleşmesi hükümlerinin tatbik olunacağı da öngörülmektedir.
 
 ## Yargıtay 6. HD 2013/13037 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/537612100)
 
 6098 Sayılı Türk Borçlar Kanununun kiracı aleyhine düzenleme yasağı başlıklı 346.maddesinde; kiracıya kira bedeli ve yan giderler dışında başka bir ödeme yükümlülüğü getirilemeyeceği, özellikle kira bedelinin zamanında ödenmemesi halinde ceza koşulu ödeneceğine veya sonraki kira bedellerinin muaccel olacağına ilişkin anlaşmaların geçersiz olduğu, 6101 Sayılı Türk Borçlar Kanununun Yürürlüğü ve Uygulama Şekli Hakkında Kanunun Geçmişe etkili olma başlıklı 2.maddesinde; Türk Borçlar Kanununun kamu düzenine ve genel ahlaka ilişkin kurallarının gerçekleştikleri tarihe bakılmaksızın bütün fiil ve işlemlere uygulanacağı, aynı kanunun görülmekte olan davalara ilişkin uygulama başlıklı 7.maddesinde de; Türk Borçlar Kanununun kamu düzenine ve genel ahlaka ilişkin kuralları ile geçici ödemelere ilişkin 76'ncı, faize ilişkin 88'nci, temerrüt faizine ilişkin 120'nci ve aşırı ifa güçlüğüne ilişkin 138'nci maddesinin görülmekte olan davalara da uygulanacağı hüküm altına alınmıştır. Kiracıyı koruma amacıyla getirilen TBK.nun 346.maddesindeki bu yasal düzenlemenin kamu düzenine ilişkin olduğu kuşkusuzdur.
 Bununla birlikte 6217 Sayılı Yasanın geçici 2. maddesinde değişiklik yapan 6353 Sayılı Yasanın 53. maddesine göre;…
 
 ## Yargıtay 6. HD 2013/12741 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/537651400)
+
 Kiracı aleyhine düzenleme yasağı başlıklı 6098 Sayılı Türk Borçlar Kanununun 346.maddesinde; kiracıya kira bedeli ve yan giderler dışında başka bir ödeme yükümlülüğü getirilemeyeceği, özellikle kira bedelinin zamanında ödenmemesi halinde ceza koşulu ödeneceğine veya sonraki kira bedellerinin muaccel olacağına ilişkin anlaşmaların geçersiz olduğu, 6101 Sayılı Türk Borçlar Kanununun Yürürlüğü ve Uygulama Şekli Hakkında Kanunun Geçmişe Etkili Olma başlıklı 2. maddesinde; Türk Borçlar Kanununun kamu düzenine ve genel ahlaka ilişkin kurallarının gerçekleştikleri tarihe bakılmaksızın bütün fiil ve işlemlere uygulanacağı, aynı kanunun görülmekte olan davalara ilişkin uygulama başlıklı 7.maddesinde de; Türk Borçlar Kanununun kamu düzenine ve genel ahlaka ilişkin kuralları ile geçici ödemelere ilişkin 76'ncı, faize ilişkin 88'nci, temerrüt faizine ilişkin 120'nci ve aşırı…
 
 ## Yargıtay 6. HD 2013/12090 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/536978600)
 
 6098 Sayılı Türk Borçlar Kanun'unun kiracı aleyhine düzenleme yasağı başlıklı 346.maddesinde; kiracıya kira bedeli ve yan giderler dışında başka bir ödeme yükümlülüğü getirilemeyeceği, özellikle kira bedelinin zamanında ödenmemesi halinde ceza koşulu ödeneceğine veya sonraki kira bedellerinin muaccel olacağına ilişkin anlaşmaların geçersiz olduğu, 6101 Sayılı Türk Borçlar Kanununun Yürürlüğü ve Uygulama Şekli Hakkında Kanunun Geçmişe etkili olma başlıklı 2.maddesinde; Türk Borçlar Kanun'unun kamu…
 
 ## Yargıtay 6. HD 2013/12015 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/537436600)
+
 6098 sayılı TBK.'nın kiraya verenin borçları başlıklı 301.maddesinde; "kiraya veren, kiralananı kararlaştırılan tarihte, sözleşmede amaçlanan kullanıma elverişli bir durumda teslim etmek ve sözleşme süresince bu durumda bulundurmakla yükümlüdür. Bu hüküm, konut ve çatılı iş yeri kiralarında kiracı aleyhine değiştirilemez; Diğer kira sözleşmelerinde ise, kiracı aleyhine genel işlem koşulları yoluyla bu hükme aykırı düzenleme yapılamaz" hükmü öngörülmüştür.
 
 ## Yargıtay 12. HD 2013/25176 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/52288900)
 
 3226 Sayılı Finansal Kiralama Kanunu'nun 8. maddesinde; “Finansal kiralama sözleşmesinin noterlikçe düzenleme şeklinde yapılacağı” emredici bir kural olarak konulmuştur. Diğer bir deyişle, sözleşme noterlikçe yapılmamış ya da noter sadece imza tasdiki yapmış ise, BK.nun 20. maddesi karşısında bir butlan nedenidir ve mahkemece de re’sen nazara alınır. Anılan Kanun'un 8. maddesinin 1. paragrafının 2. cümlesinde ise, “taşınır mala ilişkin finansal kiralama sözleşmesinin, kiracının ikametgahı noterliğinde bu iş için tutulan özel sicile tescili gerektiği” düzenlemesine yer verilmiştir.
 
 ## Yargıtay 6. HD 2013/11183 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/573760700)
+
 6098 Sayılı Türk Borçlar Kanununun kiracı aleyhine düzenleme yasağı başlıklı 346.maddesinde; kiracıya kira bedeli ve yan giderler dışında başka bir ödeme yükümlülüğü getirilemeyeceği, özellikle kira bedelinin zamanında ödenmemesi halinde ceza koşulu ödeneceğine veya sonraki kira bedellerinin muaccel olacağına ilişkin anlaşmaların geçersiz olduğu, 6101 Sayılı Türk Borçlar Kanununun Yürürlüğü ve Uygulama Şekli Hakkında Kanunun Geçmişe etkili olma başlıklı 2.maddesinde; Türk Borçlar Kanununun kamu düzenine ve genel ahlaka ilişkin kurallarının gerçekleştikleri tarihe bakılmaksızın bütün fiil ve işlemlere uygulanacağı, aynı kanunun görülmekte olan davalara ilişkin uygulama başlıklı 7.maddesinde de; Türk Borçlar Kanununun kamu düzenine ve genel ahlaka ilişkin kuralları ile geçici ödemelere ilişkin 76'ncı, faize ilişkin 88'nci, temerrüt faizine ilişkin 120'nci ve aşırı ifa güçlüğüne ilişkin 138'nci maddesinin görülmekte olan davalara da uygulanacağı hüküm altına alınmıştır. Kiracıyı koruma amacıyla getirilen TBK.nun 346.maddesindeki bu yasal düzenlemenin kamu düzenine ilişkin olduğu kuşkusuzdur.
 Bununla birlikte 6217 Sayılı Yasanın geçici 2.maddesinde değişiklik yapan 6353 Sayılı Yasanın 53.maddesine göre; kiracının Türk Ticaret Kanunun'da tacir olarak sayılan kişiler ile özel hukuk ve kamu hukuku tüzel kişileri olduğu işyeri kiralarında 6098 Sayılı Türk Borçlar Kanununun 323, 325, 331, 340, 343, 344, 346 ve 354'ncü maddelerinin 01.07.2012 tarihinden itibaren sekiz yıl süreyle…
 
 ## Yargıtay 6. HD 2013/10944 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/573874800)
 
 Sözleşmedeki muacceliyet şartına dayalı kira alacağı bakımından; kiracı aleyhine düzenleme yasağı başlıklı 6098 Sayılı Türk Borçlar Kanununun 346.maddesinde; kiracıya kira bedeli ve yan giderler dışında başka bir ödeme yükümlülüğü getirilemeyeceği, özellikle kira bedelinin zamanında ödenmemesi halinde ceza koşulu ödeneceğine veya sonraki kira bedellerinin muaccel olacağına ilişkin anlaşmaların geçersiz olduğu düzenlenmiştir. Taraflar arasındaki kira sözleşmesinin 17. maddesinde muacceliyet koşuluna yer verilmiş ise de, yeni yasal düzenleme karşısında bu koşulun geçersiz hale geldiğinin kabulü gerekir. Bu durumda, takip tarihi itibarıyla muaccel olan 2012 yılı 7. ve 8 aylar kira bedellerinin dava açılmadan önce ödendiği, sözleşmedeki muacceliyet şartının da geçersiz olduğu anlaşıldığından alacağa ilişkin istemin reddi gerekirken, yazılı şekilde itirazın kısmen kaldırılmasına karar verilmesi doğru görülmemiştir.
