@@ -247,49 +247,73 @@ Tarafların tespit edilen ekonomik ve sosyal durumlarına, paranın alım gücü
 
 ## Yargıtay 2. HD 2020/6430 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/621827700)
+
 Tarafların tespit edilen ekonomik ve sosyal durumlarına, paranın alım gücüne, kişilik haklarına, özellikle aile bütünlüğüne yapılan saldırının ağırlığına, manevi tazminat isteyenin boşanmaya yol açan olaylarda ağır ya da eşit kusurlu olmadığı anlaşılmasına nazaran davacı-karşı davalı kadın yararına hükmolunan manevi tazminat azdır. Türk Medeni Kanunu'nun 4. maddesindeki hakkaniyet ilkesi ile, Türk Borçlar Kanununun 50 ve 51. maddeleri nazara alınarak daha uygun miktarda manevi tazminat (TMK m. 174/2) takdiri gerekirken, yazılı şekilde hüküm kurulması bozmayı gerektirmiştir.
 
 ## Yargıtay 2. HD 2020/6408 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/621806400)
 
 Bölge adliye mahkemesi tarafından, ilk derece mahkemesince verilen ilk kararın yalnızca davacı-karşı davalı erkek tarafından istinaf edildiği, böylelikle de erkeğin eşine karşı hakaret içerikli mesajlar çekme kusurunun kesinleştiği kabul edilerek kadının davasının kabulüne karar verilmiş ise de, ilk derece mahkemesince erkeğe eşine karşı hakaret etme kusurunun yüklendiği Konya 1.Aile Mahkemesinin 2017/872 esas, 2019/188 karar sayılı dosyasında,kısa karar ile dava ve karşı davanın kabulüne karar verildiği halde, hükümde yalnızca davanın kabulüne karar verilmiştir. 6100 sayılı Hukuk Muhakemeleri Kanunu'nun 294. maddesi ile mahkemenin, usule veya esasa ilişkin bir nihai kararla davayı sona erdireceği, yargılamanın sonunda uyuşmazlığın esası hakkında verilen nihai kararın hüküm olduğu, hükmün, yargılamanın sonra erdiği duruşmada verileceği ve tefhim olacağı, hükmün tefhiminin, her halde hüküm sonucunun duruşma tutanağına geçilerek okunması suretiyle olacağı düzenlenmiştir. Anılan Kanun’un 298/2 maddesi uyarınca da gerekçeli kararın, tefhim edilen hüküm sonucuna aykırı olamayacağı emredici şekilde düzenlenmiştir.
 Somut uyuşmazlıkta ise ilk derece mahkemesince verilen 15/03/2019 tarihli karar, zorunlu unsurları taşımadığından hüküm olarak kabul edilemez. Bunun sonucu olarak hükmün zorunlu unsularını taşımayan bu karar kapsamında taraflara borç yüklemeyeceği gibi hak da tanınamaz. Şu halde bu kararda davacı-karşı davalı erkeğe yüklenen eşine karşı hakaret etmek suretiyle evlililik birliğinin temelinden sarsılmasına sebep olma kusurunun istinaf edilmemesi neticesinde davacı-karşı davalı erkeğin bu kusurunun kesinleştiği de kabul edilemez. Dosya kapsamına göre davacı-karşı davalı erkeğin eşine hakaret ettiği sabit olmasına karşın ilk derece mahkemelerinin de kabulünde olduğu üzere hakaret eyleminden sonra tarafların evlilik birliğinin iki ay daha sürdüğü, böylelikle de hakaret eyleminin affedildiği, en azından hoşgörü ile karşılandığı, bu nedenle hakaret vakıasının erkeğe kusur olarak yüklenemeyeceği, davacı-karşı davalı erkeğin de başkaca bir kusurlu davranışının ispatlanamadığı anlaşılmaktadır. Dolayısıyla davalı-karşı davacı kadının davasının da reddi gerekirken, yanılgılı değerlendirme sonucu yazılı şekilde hüküm kurulması doğru olmamış ve bozmayı gerektirmiştir.
 
 ## Yargıtay 2. HD 2020/6304 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/642318400)
+
 Tarafların tespit edilen ekonomik ve sosyal durumlarına, paranın alım gücüne, kişilik haklarına, özellikle aile bütünlüğüne yapılan saldırının ağırlığına, manevi tazminat İsteyenin boşanmaya yol açan olaylarda ağır ya da eşit kusurlu olmadığının anlaşılmasına nazaran davalı-karşı davacı kadın yararına hükmolunan manevi tazminat azdır. Türk Medeni Kanunu’nun 4. maddesindeki hakkaniyet ilkesi ile, Türk Borçlar Kanunu’nun 50 ve 51. maddeleri nazara alınarak daha uygun miktarda manevi tazminat (TMK m. 174/2) takdiri gerekirken, yazılı şekilde hüküm kurulması bozmayı gerektirmiştir.
 
 ## Yargıtay 2. HD 2020/5988 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/615671800)
 
 Tarafların tespit edilen ekonomik ve sosyal durumlarına, paranın alım gücüne, kişilik haklarına, özellikle aile bütünlüğüne yapılan saldırının ağırlığına, manevi tazminat isteyenin boşanmaya yol açan olaylarda ağır ya da eşit kusurlu olmadığı anlaşılmasına nazaran davalı kadın yararına hükmolunan manevi tazminat azdır. Türk Medeni Kanunu'nun 4. maddesindeki hakkaniyet ilkesi ile, Türk Borçlar Kanununun 50 ve 51. maddeleri nazara alınarak daha uygun miktarda manevi tazminat (TMK m. 174/2) takdiri gerekirken, yazılı şekilde hüküm kurulması bozmayı gerektirmiştir.
 
 ## Yargıtay 2. HD 2020/5636 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/616589300)
+
 TarafIarın tespit edilen ekonomik ve sosyal durumları, boşanmaya yol açan olaylarda davalı erkeğin tam kusurlu olması, evliliğin süresi, kadının yaşı, paranın alım gücü, kişilik haklarına yapılan saldırı ile ihlâl edilen mevcut ve beklenen menfaat dikkate alındığında davacı kadın yararına takdir edilen maddi tazminat az olup, bozma ilamı sonrasında verilen karar amacına uygun bulunmamıştır. Türk Medeni Kanunu'nun 4. maddesindeki hakkaniyet ilkesi ile Türk Borçlar Kanunu'nun 50. 51. maddeleri hükmü dikkate alınarak daha uygun miktarda maddi (TMK m. 174/1) tazminat takdiri gerekirken, yazılı şekilde hüküm kurulması doğru olmayıp bozmayı gerektirmiştir.
 
 ## Yargıtay 2. HD 2020/5626 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/616585000)
 
 Tarafların tespit edilen ekonomik ve sosyal durumlarına, paranın alım gücüne, kişilik haklarına, özellikle aile bütünlüğüne yapılan saldırının ağırlığına, manevi tazminat isteyenin boşanmaya yol açan olaylarda ağır ya da eşit kusurlu olmadığı anlaşılmasına nazaran davalı-davacı kadın yararına hükmolunan manevi tazminat azdır. Türk Medeni Kanunu'nun 4. maddesindeki hakkaniyet ilkesi ile, Türk Borçlar Kanununun 50 ve 51. maddeleri nazara alınarak daha uygun miktarda manevi tazminat (TMK m. 174/2) takdiri gerekirken, yazılı şekilde hüküm kurulması bozmayı gerektirmiştir.
 
 ## Yargıtay 2. HD 2020/4817 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/619029700)
+
 Tarafların tespit edilen ekonomik ve sosyal durumlarına, paranın alım gücüne, kişilik haklarına, özellikle aile bütünlüğüne yapılan saldırının ağırlığına, manevi tazminat isteyenin boşanmaya yol açan olaylarda ağır ya da eşit kusurlu olmadığı anlaşılmasına nazaran davacı-karşı davalı kadın yararına hükmolunan manevi tazminat azdır. Türk Medeni Kanunu'nun 4. maddesindeki hakkaniyet ilkesi ile, Türk Borçlar Kanununun 50 ve 51. maddeleri nazara alınarak daha uygun miktarda manevi tazminat (TMK m. 174/2) takdiri gerekirken, yazılı şekilde hüküm kurulması bozmayı gerektirmiştir.
 
 ## Yargıtay 2. HD 2020/4497 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/618965200)
 
 Davacı- davalı erkeğin tespit edilen ekonomik ve sosyal durumu, boşanmaya yol açan olaylarda erkeğin ağır kusurlu olması, evliliğin süresi, kadının yaşı, boşanma sonrasında kadının yeni bir düzen kurmak zorunda kalması, paranın alım gücü, kişilik haklarına yapılan saldırı ile ihlâl edilen mevcut ve beklenen menfaat dikkate alındığında kadın yararına takdir edilen maddi ve manevi tazminat az olup, bozma ilamının amacına uygun bulunmamıştır. Türk Medeni Kanunu'nun 4. maddesindeki hakkaniyet ilkesi ile Türk Borçlar Kanunu’nun 50. ve 51. maddeleri hükümleri dikkate alınarak daha uygun miktarda maddi (TMK m. 174/1) ve manevi (TMK m. 174/2) tazminat takdiri gerekirken, yazılı şekilde hüküm kurulması doğru olmayıp, bozmayı gerektirmiştir.
 
 ## Yargıtay 2. HD 2020/4495 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/618965000)
+
 Davalı erkeğin tespit edilen ekonomik ve sosyal durumu, boşanmaya yol açan olaylarda erkeğin tam kusurlu olması, evliliğin süresi, kadının yaşı, boşanma sonrasında kadının yeni bir düzen kurmak zorunda kalması, paranın alım gücü ile ihlâl edilen mevcut ve beklenen menfaat dikkate alındığında kadın yararına takdir edilen maddi tazminat az olup bozma ilamının amacına uygun bulunmamıştır. Türk Medeni Kanunu'nun 4. maddesindeki hakkaniyet ilkesi ile Türk Borçlar Kanunu'nun 50. ve 51. maddeleri hükümleri dikkate alınarak daha uygun miktarda maddi (TMK m. 174/1) tazminat takdiri gerekirken, yazdı şekilde hüküm kurulması doğru olmayıp, bozmayı gerektirmiştir.
 
 ## Yargıtay 2. HD 2020/4198 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/600298700)
 
 Tarafların tespit edilen ekonomik ve sosyal durumlarına, paranın alım gücüne, kişilik haklarına, özellikle aile bütünlüğüne yapılan saldırının ağırlığına, manevi tazminat isteyenin boşanmaya yol açan olaylarda ağır ya da eşit kusurlu olmadığı anlaşılmasına nazaran davalı kadın yararına hükmolunan manevi tazminat azdır. Türk Medeni Kanunu'nun 4. maddesindeki hakkaniyet ilkesi ile, Türk Borçlar Kanununun 50 ve 51. maddeleri nazara alınarak daha uygun miktarda manevi tazminat (TMK m. 174/2) takdiri gerekirken, yazılı şekilde hüküm kurulması bozmayı gerektirmiştir.
 
 ## Yargıtay 2. HD 2020/4011 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/605826800)
+
 Davacı-karşı davalı erkeğin tespit edilen ekonomik ve sosyal durumu, boşanmaya yol açan olaylarda davacı-karşı davalı erkeğin ağır kusurlu olması, evliliğin süresi, kadının yaşı, boşanma sonrasında davalı-karşı davacı kadının yeni bir düzen kurmak zorunda kalması, paranın alım gücü, kişilik haklarına yapılan saldırı ile ihlâl edilen mevcut ve beklenen menfaat dikkate alındığında davalı-karşı davacı kadın yararına takdir edilen maddi tazminat az olup, bozma ilamının amacına uygun bulunmamıştır. Türk Medeni Kanunu'nun 4. maddesindeki hakkaniyet ilkesi ile Türk Borçlar Kanunu'nun 50. ve 51. maddeleri hükmü dikkate alınarak daha uygun miktarda maddi (TMK m. 174/1) tazminat takdiri gerekirken, yazılı şekilde hüküm kurulması doğru olmayıp, bozmayı gerektirmiştir.
 
 ## Yargıtay 2. HD 2020/3966 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/605827000)
 
 Davalı erkeğin tespit edilen ekonomik ve sosyal durumu, boşanmaya yol açan olaylarda davalı erkeğin ağır kusurlu olması, evliliğin süresi, kadının yaşı, boşanma sonrasında davacı kadının yeni bir düzen kurmak zorunda kalması, paranın alım gücü, kişilik haklarına yapılan saldırı ile ihlâl edilen mevcut ve beklenen menfaat dikkate alındığında davacı kadın yararına takdir edilen maddi ve manevi tazminat az olup, bozma ilamının amacına uygun bulunmamıştır. Türk Medeni Kanunu'nun 4. maddesindeki hakkaniyet ilkesi ile Türk Borçlar Kanunu'nun 50. ve 51. maddeleri hükmü dikkate alınarak daha uygun miktarda maddi (TMK m. 174/1) ve manevi (TMK m. 174/2) tazminat takdiri gerekirken, yazılı şekilde hüküm kurulması doğru olmayıp, bozmayı gerektirmiştir.

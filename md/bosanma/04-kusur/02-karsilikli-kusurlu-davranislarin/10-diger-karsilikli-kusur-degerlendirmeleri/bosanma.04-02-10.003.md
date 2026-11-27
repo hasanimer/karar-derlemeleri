@@ -142,30 +142,44 @@ Boşanma yüzünden yoksulluğa düşecek taraf, kusuru daha ağır olmamak koş
 
 ## Yargıtay 2. HD 2026/2171 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1208440100)
+
 Yukarıda (2) numaralı paragrafta açıklandığı üzere, tarafların boşanmaya sebebiyet veren olaylarda eşit derecede kusurlu oldukları anlaşılmaktadır. Boşanma sonucu maddî ve manevî tazminata hükmedilebilmesi için tazminat yükümlüsünün kusurlu, tazminat talep eden eşin ise kusursuz veya diğerine göre daha az kusurlu olması gerekir. Eşit kusurlu eş yararına tazminata hükmedilemez. Hal böyleyken İlk Derece Mahkemesince kadının tam kusurlu olduğunun kabulü ve bu hatalı kusur belirlemesine göre erkek yararına maddî ve manevî tazminata hükmedilmesi isabetsiz olmuş ve bozmayı gerektirmiştir.
 
 ## Yargıtay 2. HD 2026/2070 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1207836700)
+
 Boşanma sebebiyle manevî tazminata hükmedilebilmesi için, tazminat talep eden tarafın kusursuz veya az kusurlu olması yanında, boşanmaya sebep olan olayların kişilik haklarına saldırı niteliğinde olması da gerekir (4721 sayılı Türk Medeni Kanunu md. 174/2). Boşanmaya sebep olan olaylar bu nitelikte değilse manevî tazminata hükmedilemez. Mahkemece kabul edilen ve gerçekleşen davalı erkeğin kusurlu davranışları davacı kadının kişilik haklarına saldırı niteliğinde değildir. Öyleyse davacı kadının manevî tazminat talebinin reddi gerekir. Bu husus nazara alınmadan kadın yararına manevî tazminata hükmedilmesi doğru olmayıp, bozmayı gerektirmiştir.
 
 ## Yargıtay 2. HD 2026/2063 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1207828200)
 
 3.4721 sayılı Kanun'un 174 üncü maddesinin birinci fıkrasında mevcut ve beklenen bir menfaati boşanma yüzünden haleldar olan kusursuz yada daha az kusurlu olan tarafın, kusurlu taraftan uygun bir tazminat isteyebileceği, aynı maddenin ikinci fıkrasında boşanmaya sebebiyet vermiş olaylar yüzünden kişilik hakları saldırıya uğrayan tarafın, kusurlu olandan manevî tazminat isteyebileceği öngörülmüştür. Yukarıdaki paragrafta açıklandığı üzere, evlilik birliğinin sarsılmasına sebep olan olaylarda tazminat isteyen davalı karşı davacı kadının ağır ya da eşit kusurlu olmadığı, erkeğin kusurlu eylemlerinin kadının kişilik haklarına saldırı teşkil ettiği ve boşanma sonucu bu eşin, en azından diğerinin maddî desteğini yitirdiği anlaşılmıştır.
 O halde, mahkemece, tarafların sosyal ve ekonomik durumları, tazminata esas olan fiilin ağırlığı ile 4721 sayılı Kanun'un 4 üncü maddesi ile 6098 sayılı Kanun'un 50 inci ve 51 inci maddelerinde düzenlenen "hakkaniyet kuralları" da dikkate alınarak davalı karşı davacı kadın yararına uygun miktarda maddî ve manevî tazminata hükmedilmesi gerekirken, hatalı kusur belirlemesinin sonucu olarak yazılı şekilde hüküm kurulması doğru görülmemiş, bozmayı gerektirmiştir.
 
 ## Yargıtay 2. HD 2026/2016 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1207736400)
+
 Boşanma sebebiyle maddi ve manevi tazminata hükmedilebilmesi için, tazminat talep eden tarafın kusursuz veya diğer tarafa göre daha az kusurlu olması gerekmektedir. Eşit kusurlu eş yararına tazminata hükmedilemeyeceğinden davalı-karşı davacı kadının maddi ve manevi tazminat (TMK md.174/1-2) isteğinin reddi gerekirken, yazılı şekilde maddi ve manevi tazminata hükmedilmesi doğru bulunmamıştır.
 
 ## Yargıtay 2. HD 2026/1939 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1207191500)
 
 3\. 4721 sayılı Türk Medeni Kanunu'nun 174 üncü maddesinin birinci fıkrasında mevcut ve beklenen bir menfaati boşanma yüzünden haleldar olan kusursuz ya da daha az kusurlu olan tarafın, kusurlu taraftan uygun bir tazminat isteyebileceği, aynı maddenin ikinci fıkrasında boşanmaya sebebiyet vermiş olaylar yüzünden kişilik hakları saldırıya uğrayan tarafın, kusurlu olandan manevî tazminat isteyebileceği öngörülmüştür. Yukarıdaki paragrafta açıklandığı üzere, evlilik birliğinin sarsılmasına sebep olan olaylarda taraflar eşit kusurlu olup, eşit kusurlu eş yararına tazminata hükmedilemeyeceğinden davalı-davacı kadın yararına maddî ve manevî tazminata hükmedilmesinin yasal koşulları oluşmamıştır. O halde davalı-davacı kadının maddî ve manevî tazminat taleplerinin reddi gerekirken, hatalı kusur belirlemesinin sonucu olarak yazılı şekilde hüküm kurulması doğru görülmemiş, bozmayı gerektirmiştir.
 
 ## Yargıtay 2. HD 2026/1690 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1206211000)
+
 Mahkemece her ne kadar davacı kadının kusursuz olduğu ve boşanma ile yoksulluğa düşeceği gerekçesi ile davacı kadın yararına yoksulluk nafakasına hükmedilmiş ise de; toplanan delillerden, kirada oturan, herhangi bir mal varlığı bulunmayan engelli aylığı dışında geliri bulunmayan kendisi de yoksul olan davalı erkeğin yoksulluk nafakasından sorumlu tutulamayacağı gözetilmeden, davacı kadın yararına yoksulluk nafakasına hükmedilmesi doğru olmamış ve bozmayı gerektirmiştir.
 
 ## Yargıtay 2. HD 2026/1651 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1206663200)
 
 2.4721 sayılı Türk Medeni Kanunu'nun 174 üncü maddesinin ikinci fıkrasına göre boşanma sebebiyle manevi tazminata hükmedilebilmesi için, tazminat talep eden tarafın, kusursuz veya diğer tarafa göre daha az kusurlu olması ve boşanmaya sebep olan olayların kişilik haklarına saldırı niteliğinde bulunması gerekir. Somut olayda kadına üç kez "boşol" şeklinde bağıran ve onu istemediğini açıkça beyan eden davalı-karşı davacı erkeğin bu kusurlu eyleminin, davacı-karşı davalı kadının kişilik değerlerine saldırı niteliğinde ve manevî tazminatı gerektirir nitelikte olduğu anlaşılmaktadır. O halde boşanmaya sebep olan olaylarda kusuru bulunmayan davacı-karşı davalı kadın yararına uygun miktarda manevî tazminat takdir edilmesi gerekirken, kadının manevî tazminat talebinin reddine karar verilmesi doğru görülmemiş, bozmayı gerektirmiştir.
 
@@ -175,13 +189,19 @@ Yukarıda paragrafta açıklandığı üzere boşanmaya sebebiyet veren olaylard
 
 ## Yargıtay 2. HD 2026/1437 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1208693700)
+
 Yukarıdaki paragrafta açıklandığı üzere, boşanmaya sebebiyet veren olaylarda tarafların eşit derecede kusurlu oldukları anlaşılmaktadır. 4721 sayılı Kanun'un 174 üncü maddesi uyarınca boşanma sonucu maddî ve manevî tazminata hükmedilebilmesi için tazminat yükümlüsünün kusurlu, tazminat talep eden eşin ise kusursuz veya diğerine göre daha az kusurlu olması gerekir. Eşit kusurlu eş yararına tazminata hükmedilemez. Bölge Adliye Mahkemesince davalı- davacı kadının, davalı- davacı erkeğe nazaran ağır kusurlu olduğunun kabulü ve bu hatalı kusur belirlemesine göre erkek yararına şartları oluşmadığı halde maddî ve manevî tazminata hükmedilmesi isabetsiz olmuş ve bozmayı gerektirmiştir.
 
 ## Yargıtay 2. HD 2026/1409 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1208594900)
+
 Toplanan delillerle, boşanmaya sebep olan olaylarda davalı kadının daha ağır kusurlu olmadığı, her hangi bir geliri ve malvarlığının bulunmadığı, boşanma yüzünden yoksulluğa düşeceği gerçekleşmiştir. O halde, davalı kadın yararına geçimi için uygun miktarda yoksulluk nafakası takdiri gerekirken isteğin reddi doğru görülmemiş, bozmayı gerektirmiştir.
 
 ## Yargıtay 2. HD 2026/1226 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1207819500)
 
 4.4721 sayılı Kanun'un 175 inci maddesinin birinci fıkrasına göre, boşanma yüzünden yoksulluğa düşecek olan taraf, kusuru daha ağır olmamak koşuluyla geçimi için diğer taraftan mali gücü oranında süresiz nafaka isteyebilir. Her ne kadar İlk Derece Mahkemesince yasal şartları oluşmadığından kadının yoksulluk nafakası talebinin reddine karar verilmiş ise de; yukarıda ikinci paragrafta belirtildiği üzere boşanmaya sebep olan olaylarda davalı-karşı davacı kadının daha ağır kusurlu olmadığı ve boşanmakla yoksulluğa düşeceği anlaşılmaktadır. O halde tarafların kusur durumları ile ekonomik ve sosyal durumları nazara alınarak kadın yararına uygun miktarda yoksulluk nafakasına hükmedilmesi gerekirken hatalı kusur belirlemesinin sonucu olarak yazılı şekilde isteğin reddine karar verilmiş olması doğru görülmemiş, bozmayı gerektirmiştir.
 
@@ -199,8 +219,12 @@ Boşanma yüzünden yoksulluğa düşecek taraf, kusuru daha ağır olmamak koş
 
 ## Yargıtay 2. HD 2026/411 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1207746800)
+
 3.4721 sayılı Kanun'un 174 üncü maddesine göre, boşanma sonucu maddî ve manevî tazminata hükmedilebilmesi için tazminat yükümlüsünün kusurlu, tazminat talep eden eşin ise kusursuz veya diğerine göre az kusurlu olması gerekir. Eşit kusurlu eş yararına tazminata hükmedilemez. Somut olayda yukarıdaki paragrafta açıklandığı üzere taraflar eşit kusurlu olup erkek yararına 4721 sayılı Türk Medeni Kanunu'nun 174/1-2 maddesinde düzenlenen maddî ve manevî tazminat koşulları oluşmamıştır. Hal böyle iken, Bölge Adliye Mahkemesince kadının ağır, erkeğin az kusurlu olduğunun kabulü ve bu hatalı kusur belirlemesine göre erkek yararına maddî ve manevî tazminata hükmedilmesi doğru görülmemiş, bozmayı gerektirmiştir.
 
 ## Yargıtay 2. HD 2026/160 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1207409200)
 
 4.4721 sayılı Kanun'un 175 inci maddesinin birinci fıkrasına göre, boşanma yüzünden yoksulluğa düşecek olan taraf, kusuru daha ağır olmamak koşuluyla geçimi için diğer taraftan mali gücü oranında süresiz nafaka isteyebilir. Her ne kadar Bölge Adliye Mahkemesince şartları oluşmadığından kadının yoksulluk nafakası talebinin reddine karar verilmiş ise de; yukarıda 2. paragrafta belirtildiği üzere boşanmaya sebep olan olaylarda davalı-karşı davacı kadının daha ağır kusurlu olmadığı anlaşılmaktadır. O halde tarafların kusur durumları ile ekonomik ve sosyal durumları nazara alındığında kadının yoksulluğa düşeceği anlaşılmış olup kadın yararına yoksulluk nafakasına hükmedilmesi gerekirken hatalı kusur derecelendirmesi sonucu yazılı şekilde karar verilmiş olması doğru olmamış bozmayı gerektirmiştir.

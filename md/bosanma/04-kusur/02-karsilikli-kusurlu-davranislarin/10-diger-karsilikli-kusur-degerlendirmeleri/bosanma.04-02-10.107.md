@@ -23,29 +23,43 @@ uyari: "Derleyenin seçtiği alıntılardır; kararın tamamı değildir. Künye
 
 ## Yargıtay 2. HD 2008/5839 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/81492900)
+
 Türk Medeni Kanununun 174/2 maddesi, boşanmaya sebebiyet vermiş olan olaylar yüzünden kişilik hakları saldırıya uğrayan tarafın, kusurlu olandan manevi tazminat isteyebileceğini öngörmüştür. Toplanan delillerden evlilik birliğinin temelinden sarsılmasına sebep olan olaylarda tazminat isteyen \* davalı-davacı kadının ağır yada eşit kusurlu olmadığı, bu olayların kişilik haklarına saldırı teşkil ettiği anlaşılmaktadır. O halde mahkemece, tarafların sosyal ve ekonomik durumları, tazminata esas olan fiilin ağırlığı ile hakkaniyet kuralları (TMK. 4 BK. 42,43,44,49) dikkate alınarak \* davalı-davacı kadın yararına uygun miktarda manevi tazminata hükmedilmesi gerekir. Bu yönün dikkate alınmaması doğru görülmemiştir.
 
 ## Yargıtay 2. HD 2008/5773 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/81480900)
 
 Dosyadaki yazılara, kararın dayandığı delillerle kanuni gerektirici sebeplere ve özellikle \* toplanan delillerden evlilik birliğinin temelinden sarsılmasına neden olan olaylarda tarafların eşit kusurlu bulunduklarının anlaşılmasına göre davacı kocanın tüm, davalı kadının aşağıdaki bent kapsamı dışında kalan temyiz itirazları yersizdir.
 
 ## Yargıtay 2. HD 2008/5752 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/81460200)
+
 B-Türk Medeni Kanununun 174/2 maddesi, boşanmaya sebebiyet vermiş olan olaylar yüzünden kişilik hakları saldırıya uğrayan tarafın, kusurlu olandan manevi tazminat isteyebileceğini öngörmüştür. Toplanan delillerden evlilik birliğinin temelinden sarsılmasına sebep olan olaylarda tazminat isteyen \*davalı-davacı kadının ağır yada eşit kusurlu olmadığı, bu olayların kişilik haklarına saldırı teşkil ettiği anlaşılmaktadır. O halde mahkemece, tarafların sosyal ve ekonomik durumları, tazminata esas olan fiilin ağırlığı ile hakkaniyet kuralları (TMK. 4 BK. 42,43,44,49) dikkate alınarak \* davalı-davacı kadın yararına uygun miktarda manevi tazminata hükmedilmesi gerekir. Bu yönün dikkate alınmaması doğru görülmemiştir.
 
 ## Yargıtay 2. HD 2008/5691 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/81446400)
 
 Dosyadaki yazılara, kararın dayandığı delillerle kanuni gerektirici sebeplere ve özellikle \*tanık beyanlarından evlilik birliğinin temelinden sarsılmasına neden olan olaylarda tarafların eşit kusurlu bulunduklarının anlaşılmasına göre, davalı-davacı kadının aşağıdaki bent kapsamı dışında kalan temyiz itirazları yersizdir.
 
 ## Yargıtay 2. HD 2008/5491 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/81419500)
+
 Türk Medeni Kanununun 174/2 maddesi, boşanmaya sebebiyet vermiş olan olaylar yüzünden kişilik hakları saldırıya uğrayan tarafın, kusurlu olandan manevi tazminat isteyebileceğini öngörmüştür. Toplanan delillerden evlilik birliğinin temelinden sarsılmasına sebep olan olaylarda tazminat isteyen \*davalı-davacı kadının ağır yada eşit kusurlu olmadığı, bu olayların kişilik haklarına saldırı teşkil ettiği anlaşılmaktadır. O halde mahkemece, tarafların sosyal ve ekonomik durumları, tazminata esas olan fiilin ağırlığı ile hakkaniyet kuralları (TMK. 4 BK. 42,43,44,49) dikkate alınarak \*davalı-davacı kadın yararına uygun miktarda manevi tazminata hükmedilmesi gerekir. Bu yönün dikkate alınmaması doğru görülmemiştir.
 
 ## Yargıtay 2. HD 2008/5459 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/81406100)
+
 \*Türk Medeni Kanununun 174/1. maddesi mevcut veya beklenen bir menfaati boşanma yüzünden haleldar olan kusursuz yada daha az kusurlu tarafın, kusurlu taraftan uygun bir maddi tazminat isteyebileceğini, 186. maddesi, evi birlikte seçeceklerini , birliğin giderlerine güçleri oranlarında emek ve mal varlıkları ile katılacaklarını öngörmüştür. Toplanan delillerden boşanmaya sebep olan olaylarda maddi tazminat isteyen eşin diğerinden daha ziyade kusurlu olmadığı anlaşılmaktadır. Boşanma sonucu bu eş, en azından diğerinin maddi desteğini yitirmiştir. O halde mahkemece, tarafların sosyal ve ekonomik durumları ile kusurları ve hakkaniyet ilkesi (MK.Md,4 BK.md.42 ve 44 ) dikkate alınarak \*davacı kadın yararına uygun miktarda maddi tazminat verilmelidir. Bu yönün dikkate alınmaması doğru görülmemiştir.
 
 ## Yargıtay 2. HD 2008/5435 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/81410600)
 
 Türk Medeni Kanununun 174/2 maddesi, boşanmaya sebebiyet vermiş olan olaylar yüzünden kişilik hakları saldırıya uğrayan tarafın, kusurlu olandan manevi tazminat isteyebileceğini öngörmüştür. Toplanan delillerden evlilik birliğinin temelinden sarsılmasına sebep olan olaylarda tazminat isteyen \* davalı-davacı kadının ağır yada eşit kusurlu olmadığı, bu olayların kişilik haklarına saldırı teşkil ettiği anlaşılmaktadır. O halde mahkemece, tarafların sosyal ve ekonomik durumları, tazminata esas olan fiilin ağırlığı ile hakkaniyet kuralları (TMK. 4 BK. 42,43,44,49) dikkate alınarak \*davalı-davacı kadın yararına uygun miktarda manevi tazminata hükmedilmesi gerekir. Bu yönün dikkate alınmaması doğru görülmemiştir.
 
@@ -55,176 +69,264 @@ Türk Medeni Kanununun 174/2 maddesi, boşanmaya sebebiyet vermiş olan olaylar 
 
 ## Yargıtay 2. HD 2008/5364 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/81382600)
+
 Türk Medeni Kanununun 174/1. maddesi mevcut veya beklenen bir menfaati boşanma yüzünden haleldar olan kusursuz yada daha az kusurlu tarafın, kusurlu taraftan uygun bir maddi tazminat isteyebileceğini, 186. maddesi, evi birlikte seçeceklerini , birliğin giderlerine güçleri oranlarında emek ve mal varlıkları ile katılacaklarını öngörmüştür. Toplanan delillerden boşanmaya sebep olan olaylarda maddi tazminat isteyen eşin diğerinden daha ziyade kusurlu olmadığı anlaşılmaktadır. Boşanma sonucu bu eş, en azından diğerinin maddi desteğini yitirmiştir. O halde mahkemece, tarafların sosyal ve ekonomik durumları ile kusurları ve hakkaniyet ilkesi (MK.Md,4 BK.md.42 ve 44 ) dikkate alınarak \*davalı-davacı kadın yararına uygun miktarda maddi tazminat verilmelidir. Bu yönün dikkate alınmaması doğru görülmemiştir.
 
 ## Yargıtay 2. HD 2008/5261 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/81348900)
 
 \* Türk Medeni Kanununun 174/1. maddesi mevcut veya beklenen bir menfaati boşanma yüzünden haleldar olan kusursuz yada daha az kusurlu tarafın, kusurlu taraftan uygun bir maddi tazminat isteyebileceğini, 186. maddesi, evi birlikte seçeceklerini , birliğin giderlerine güçleri oranlarında emek ve mal varlıkları ile katılacaklarını öngörmüştür. Toplanan delillerden boşanmaya sebep olan olaylarda maddi tazminat isteyen eşin diğerinden daha ziyade kusurlu olmadığı anlaşılmaktadır. Boşanma sonucu bu eş, en azından diğerinin maddi desteğini yitirmiştir. O halde mahkemece, tarafların sosyal ve ekonomik durumları ile kusurları ve hakkaniyet ilkesi (MK.Md,4 BK.md.42 ve 44 ) dikkate alınarak \*davalı-karşı davacı A.. yararına uygun miktarda maddi tazminat verilmelidir. Bu yönün dikkate alınmaması doğru görülmemiştir.
 
 ## Yargıtay 2. HD 2008/5221 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/81339600)
+
 \* Türk Medeni Kanununun 174/1. maddesi mevcut veya beklenen bir menfaati boşanma yüzünden haleldar olan kusursuz yada daha az kusurlu tarafın, kusurlu taraftan uygun bir maddi tazminat isteyebileceğini, 186. maddesi, evi birlikte seçeceklerini , birliğin giderlerine güçleri oranlarında emek ve mal varlıkları ile katılacaklarını öngörmüştür. Toplanan delillerden boşanmaya sebep olan olaylarda maddi tazminat isteyen eşin diğerinden daha ziyade kusurlu olmadığı anlaşılmaktadır. Boşanma sonucu bu eş, en azından diğerinin maddi desteğini yitirmiştir. O halde mahkemece, tarafların sosyal ve ekonomik durumları ile kusurları ve hakkaniyet ilkesi (MK.Md,4 BK.md.42 ve 44 ) dikkate alınarak \*davacı kadın yararına uygun miktarda maddi tazminat verilmelidir. Bu yönün dikkate alınmaması doğru görülmemiştir.
 
 ## Yargıtay 2. HD 2008/4984 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/81301500)
 
 -Türk Medeni Kanununun 174/2 maddesi, boşanmaya sebebiyet vermiş olan olaylar yüzünden kişilik hakları saldırıya uğrayan tarafın, kusurlu olandan manevi tazminat isteyebileceğini öngörmüştür. Toplanan delillerden evlilik birliğinin temelinden sarsılmasına sebep olan olaylarda tazminat isteyen \* davalı-davacı kadının ağır yada eşit kusurlu olmadığı, bu olayların kişilik haklarına saldırı teşkil ettiği anlaşılmaktadır. O halde mahkemece, tarafların sosyal ve ekonomik durumları, tazminata esas olan fiilin ağırlığı ile hakkaniyet kuralları (TMK. 4 BK. 42,43,44,49) dikkate alınarak \* davalı-davacı kadın yararına uygun miktarda manevi tazminata hükmedilmesi gerekir. Bu yönün dikkate alınmaması doğru görülmemiştir.
 
 ## Yargıtay 2. HD 2008/4946 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/81290900)
+
 Türk Medeni Kanununun 174/2 maddesi, boşanmaya sebebiyet vermiş olan olaylar yüzünden kişilik hakları saldırıya uğrayan tarafın, kusurlu olandan manevi tazminat isteyebileceğini öngörmüştür. Toplanan delillerden evlilik birliğinin temelinden sarsılmasına sebep olan olaylarda tazminat isteyen \*davalı kadının ağır yada eşit kusurlu olmadığı, bu olayların kişilik haklarına saldırı teşkil ettiği anlaşılmaktadır. O halde mahkemece, tarafların sosyal ve ekonomik durumları, tazminata esas olan fiilin ağırlığı ile hakkaniyet kuralları (TMK. 4 BK. 42,43,44,49) dikkate alınarak \*davalı kadın yararına uygun miktarda manevi tazminata hükmedilmesi gerekir. Bu yönün dikkate alınmaması doğru görülmemiştir.
 
 ## Yargıtay 2. HD 2008/4853 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/81258000)
 
 2-\* Türk Medeni Kanununun 174/1. maddesi mevcut veya beklenen bir menfaati boşanma yüzünden haleldar olan kusursuz yada daha az kusurlu tarafın, kusurlu taraftan uygun bir maddi tazminat isteyebileceğini, 186. maddesi, evi birlikte seçeceklerini , birliğin giderlerine güçleri oranlarında emek ve mal varlıkları ile katılacaklarını öngörmüştür. Toplanan delillerden boşanmaya sebep olan olaylarda maddi tazminat isteyen eşin diğerinden daha ziyade kusurlu olmadığı anlaşılmaktadır. Boşanma sonucu bu eş, en azından diğerinin maddi desteğini yitirmiştir. O halde mahkemece, tarafların sosyal ve ekonomik durumları ile kusurları ve hakkaniyet ilkesi (MK.Md,4 BK.md.42 ve 44 ) dikkate alınarak \*davacı kadın yararına uygun miktarda maddi tazminat verilmelidir. Bu yönün dikkate alınmaması doğru görülmemiştir.
 
 ## Yargıtay 2. HD 2008/4483 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/81164600)
+
 2-\* Türk Medeni Kanununun 174/1. maddesi mevcut veya beklenen bir menfaati boşanma yüzünden haleldar olan kusursuz yada daha az kusurlu tarafın, kusurlu taraftan uygun bir maddi tazminat isteyebileceğini, 186. maddesi, evi birlikte seçeceklerini , birliğin giderlerine güçleri oranlarında emek ve mal varlıkları ile katılacaklarını öngörmüştür. Toplanan delillerden boşanmaya sebep olan olaylarda maddi tazminat isteyen eşin diğerinden daha ziyade kusurlu olmadığı anlaşılmaktadır. Boşanma sonucu bu eş, en azından diğerinin maddi desteğini yitirmiştir. O halde mahkemece, tarafların sosyal ve ekonomik durumları ile kusurları ve hakkaniyet ilkesi (MK.Md,4 BK.md.42 ve 44 ) dikkate alınarak \*davacı kadın yararına uygun miktarda maddi tazminat verilmelidir. Bu yönün dikkate alınmaması doğru görülmemiştir.
 
 ## Yargıtay 2. HD 2008/4412 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/80921100)
 
 Türk Medeni Kanununun 174/2 maddesi, boşanmaya sebebiyet vermiş olan olaylar yüzünden kişilik hakları saldırıya uğrayan tarafın, kusurlu olandan manevi tazminat isteyebileceğini öngörmüştür. Toplanan delillerden evlilik birliğinin temelinden sarsılmasına sebep olan olaylarda tazminat isteyen \* davalı kadının ağır yada eşit kusurlu olmadığı, bu olayların kişilik haklarına saldırı teşkil ettiği anlaşılmaktadır. O halde mahkemece, tarafların sosyal ve ekonomik durumları, tazminata esas olan fiilin ağırlığı ile hakkaniyet kuralları (TMK. 4 BK. 42,43,44,49) dikkate alınarak \* davalı kadın yararına uygun miktarda manevi tazminata hükmedilmesi gerekir. Bu yönün dikkate alınmaması doğru görülmemiştir.
 
 ## Yargıtay 2. HD 2008/4275 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/80898400)
+
 Türk Medeni Kanununun 174/2 maddesi, boşanmaya sebebiyet vermiş olan olaylar yüzünden kişilik hakları saldırıya uğrayan tarafın, kusurlu olandan manevi tazminat isteyebileceğini öngörmüştür. Toplanan delillerden evlilik birliğinin temelinden sarsılmasına sebep olan olaylarda tazminat isteyen \*davacı kadının ağır yada eşit kusurlu olmadığı, bu olayların kişilik haklarına saldırı teşkil ettiği anlaşılmaktadır. O halde mahkemece, tarafların sosyal ve ekonomik durumları, tazminata esas olan fiilin ağırlığı ile hakkaniyet kuralları (TMK. 4 BK. 42,43,44,49) dikkate alınarak \* davacı kadın yararına uygun miktarda manevi tazminata hükmedilmesi gerekir. Bu yönün dikkate alınmaması doğru görülmemiştir.
 
 ## Yargıtay 2. HD 2008/4073 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/80861400)
 
 Dosyadaki yazılara, kararın dayandığı delillerle kanuni gerektirici sebeplere ve özellikle \* boşanmaya sebep olan olaylarda davacı-davalı kocanın ağır kusurlu olup Türk Medeni Kanununun 166/2. maddess koşulları da gerçekleşmemiş olduğunun anlaşılmasına göre davacı-davalı kocanın temyiz itirazları yersizdir.
 
 ## Yargıtay 2. HD 2008/3913 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/80798000)
+
 Davalı kadının çalışmadığı ve herhangi bir gelirinin bulunmadığı anlaşılmaktadır.Taraflar boşanmaya neden olan olaylarda eşit kusurludur. Türk Medeni Kanununun 175. maddesi koşullarının oluştuğu dikkate alınmadan davalının yoksulluk nafakası isteğinin reddi doğru görülmemiştir.
 
 ## Yargıtay 2. HD 2008/3856 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/80789100)
 
 \* Türk Medeni Kanununun 174/1. maddesi mevcut veya beklenen bir menfaati boşanma yüzünden haleldar olan kusursuz yada daha az kusurlu tarafın, kusurlu taraftan uygun bir maddi tazminat isteyebileceğini, 186. maddesi, evi birlikte seçeceklerini , birliğin giderlerine güçleri oranlarında emek ve mal varlıkları ile katılacaklarını öngörmüştür. Toplanan delillerden boşanmaya sebep olan olaylarda maddi tazminat isteyen eşin diğerinden daha ziyade kusurlu olmadığı anlaşılmaktadır. Boşanma sonucu bu eş, en azından diğerinin maddi desteğini yitirmiştir. O halde mahkemece, tarafların sosyal ve ekonomik durumları ile kusurları ve hakkaniyet ilkesi (MK.Md,4 BK.md.42 ve 44 ) dikkate alınarak \*davalı kadın yararına uygun miktarda maddi tazminat verilmelidir. Bu yönün dikkate alınmaması doğru görülmemiştir.
 
 ## Yargıtay 2. HD 2008/3808 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/474315300)
+
 Dosyadaki yazılara, kararın dayandığı delillerle kanuni gerektirici sebeplere ve özellikle \* boşanmaya sebep olan olaylarda taraflar eşit kusurlu olup davalı kadın eş yararına manevi tazminat verilmesi doğru değil ise de bu yönden davacı erkek eşin temyiz isteminin bulunmadığının anlaşılmasına göre yerinde bulunmayan temyiz isteğinin reddiyle usul ve kanuna uygun olan hükmün ONANMASINA, aşağıda yazılı onama harcının temyiz edene yükletilmesine peşin alınan harcın mahsubuna, işbu kararın tebliğinden itibaren 15 gün içinde karar düzeltme yolu açık olmak üzere oybirliğiyle karar verildi. 20.03.2008 (Prş.)…
 
 ## Yargıtay 2. HD 2008/3560 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/80740500)
 
 Türk Medeni Kanununun 174/1. maddesi mevcut veya beklenen bir menfaati boşanma yüzünden haleldar olan kusursuz yada daha az kusurlu tarafın, kusurlu taraftan uygun bir maddi tazminat isteyebileceğini, 186. maddesi, evi birlikte seçeceklerini , birliğin giderlerine güçleri oranlarında emek ve mal varlıkları ile katılacaklarını öngörmüştür. Toplanan delillerden boşanmaya sebep olan olaylarda maddi tazminat isteyen eşin diğerinden daha ziyade kusurlu olmadığı anlaşılmaktadır. Boşanma sonucu bu eş, en azından diğerinin maddi desteğini yitirmiştir. O halde mahkemece, tarafların sosyal ve ekonomik durumları ile kusurları ve hakkaniyet ilkesi (MK.Md,4 BK.md.42 ve 44 ) dikkate alınarak \*davacı kadın yararına uygun miktarda maddi tazminat verilmelidir. Bu yönün dikkate alınmaması doğru görülmemiştir.
 
 ## Yargıtay 2. HD 2008/3310 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/80704900)
+
 Türk Medeni Kanununun 174/2 maddesi, boşanmaya sebebiyet vermiş olan olaylar yüzünden kişilik hakları saldırıya uğrayan tarafın, kusurlu olandan manevi tazminat isteyebileceğini öngörmüştür. Toplanan delillerden evlilik birliğinin temelinden sarsılmasına sebep olan olaylarda tazminat isteyen \* davalı kadının ağır yada eşit kusurlu olmadığı, bu olayların kişilik haklarına saldırı teşkil ettiği anlaşılmaktadır. O halde mahkemece, tarafların sosyal ve ekonomik durumları, tazminata esas olan fiilin ağırlığı ile hakkaniyet kuralları (TMK. 4 BK. 42,43,44,49) dikkate alınarak \*davalı kadın yararına uygun miktarda manevi tazminata hükmedilmesi gerekir. Bu yönün dikkate alınmaması doğru görülmemiştir.
 
 ## Yargıtay 2. HD 2008/3186 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/472679000)
 
 Dosyadaki yazılara, kararın dayandığı delillerle kanuni gerektirici sebeplere ve özellikle \* toplanan delillerden boşanmaya neden olaylarda tarafların eşit kusurlu olduğu ve davacı kadının emekli olup, yeterli gelirinin bulunduğu, Türk Medeni Kanununun 175'nci madde koşullarının oluşmadığının anlaşılmasına göre yerinde bulunmayan temyiz isteğinin reddiyle usul ve kanuna uygun olan hükmün ONANMASINA, durşuma için takdir olunan 550.00 YTL. vekalet ücretinin ...dan alınıp ...'ya verilmesine, aşağıda yazılı onama harcının temyiz edenlere yükletilmesine peşin alınan harcın mahsubuna, işbu kararın tebliğinden itibaren 15 gün içinde karar düzeltme yolu açık olmak üzere oybirliğiyle karar verildi. 11.03.2008 (Salı)…
 
 ## Yargıtay 2. HD 2008/3180 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/80666000)
+
 Türk Medeni Kanununun 174/2 maddesi, boşanmaya sebebiyet vermiş olan olaylar yüzünden kişilik hakları saldırıya uğrayan tarafın, kusurlu olandan manevi tazminat isteyebileceğini öngörmüştür. Toplanan delillerden evlilik birliğinin temelinden sarsılmasına sebep olan olaylarda tazminat isteyen \* davalı-davacı kadının ağır yada eşit kusurlu olmadığı, bu olayların kişilik haklarına saldırı teşkil ettiği anlaşılmaktadır. O halde mahkemece, tarafların sosyal ve ekonomik durumları, tazminata esas olan fiilin ağırlığı ile hakkaniyet kuralları (TMK. 4 BK. 42,43,44,49) dikkate alınarak \* davalı-davacı kadın yararına uygun miktarda manevi tazminata hükmedilmesi gerekir. Bu yönün dikkate alınmaması doğru görülmemiştir.
 
 ## Yargıtay 2. HD 2008/3098 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/80635600)
 
 2-\* Türk Medeni Kanununun 174/1. maddesi mevcut veya beklenen bir menfaati boşanma yüzünden haleldar olan kusursuz yada daha az kusurlu tarafın, kusurlu taraftan uygun bir maddi tazminat isteyebileceğini, 186. maddesi, evi birlikte seçeceklerini , birliğin giderlerine güçleri oranlarında emek ve mal varlıkları ile katılacaklarını öngörmüştür. Toplanan delillerden boşanmaya sebep olan olaylarda maddi tazminat isteyen eşin diğerinden daha ziyade kusurlu olmadığı anlaşılmaktadır. Boşanma sonucu bu eş, en azından diğerinin maddi desteğini yitirmiştir. O halde mahkemece, tarafların sosyal ve ekonomik durumları ile kusurları ve hakkaniyet ilkesi (MK.Md,4 BK.md.42 ve 44 ) dikkate alınarak \* davalı kadın yararına uygun miktarda maddi tazminat verilmelidir. Bu yönün dikkate alınmaması doğru görülmemiştir.
 
 ## Yargıtay 2. HD 2008/2944 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/80597400)
+
 B)\* Türk Medeni Kanununun 174/1. maddesi mevcut veya beklenen bir menfaati boşanma yüzünden haleldar olan kusursuz yada daha az kusurlu tarafın, kusurlu taraftan uygun bir maddi tazminat isteyebileceğini, 186. maddesi, evi birlikte seçeceklerini , birliğin giderlerine güçleri oranlarında emek ve mal varlıkları ile katılacaklarını öngörmüştür. Toplanan delillerden boşanmaya sebep olan olaylarda maddi tazminat isteyen eşin diğerinden daha ziyade kusurlu olmadığı anlaşılmaktadır. Boşanma sonucu bu eş, en azından diğerinin maddi desteğini yitirmiştir. O halde mahkemece, tarafların sosyal ve ekonomik durumları ile kusurları ve hakkaniyet ilkesi (MK.Md,4 BK.md.42 ve 44 ) dikkate alınarak \*davalı kadın yararına uygun miktarda maddi tazminat verilmelidir. Bu yönün dikkate alınmaması doğru görülmemiştir.
 
 ## Yargıtay 2. HD 2008/2788 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/80582600)
 
 Türk Medeni Kanununun 174/2 maddesi, boşanmaya sebebiyet vermiş olan olaylar yüzünden kişilik hakları saldırıya uğrayan tarafın, kusurlu olandan manevi tazminat isteyebileceğini öngörmüştür. Toplanan delillerden evlilik birliğinin temelinden sarsılmasına sebep olan olaylarda tazminat isteyen \* davalı kadının ağır yada eşit kusurlu olmadığı, bu olayların kişilik haklarına saldırı teşkil ettiği anlaşılmaktadır. O halde mahkemece, tarafların sosyal ve ekonomik durumları, tazminata esas olan fiilin ağırlığı ile hakkaniyet kuralları (TMK. 4 BK. 42,43,44,49) dikkate alınarak \* davalı kadın yararına uygun miktarda manevi tazminata hükmedilmesi gerekir. Bu yönün dikkate alınmaması doğru görülmemiştir.
 
 ## Yargıtay 2. HD 2008/2730 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/80568700)
+
 Türk Medeni Kanununun 174/2 maddesi, boşanmaya sebebiyet vermiş olan olaylar yüzünden kişilik hakları saldırıya uğrayan tarafın, kusurlu olandan manevi tazminat isteyebileceğini öngörmüştür. Toplanan delillerden evlilik birliğinin temelinden sarsılmasına sebep olan olaylarda tazminat isteyen \* davalı-davacı kadının ağır yada eşit kusurlu olmadığı, bu olayların kişilik haklarına saldırı teşkil ettiği anlaşılmaktadır. O halde mahkemece, tarafların sosyal ve ekonomik durumları, tazminata esas olan fiilin ağırlığı ile hakkaniyet kuralları (TMK. 4 BK. 42,43,44,49) dikkate alınarak \* davalı-davacı kadın yararına uygun miktarda manevi tazminata hükmedilmesi gerekir. Bu yönün dikkate alınmaması doğru görülmemiştir.
 
 ## Yargıtay 2. HD 2008/1952 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/80382400)
 
 3-\* Türk Medeni Kanununun 174/1. maddesi mevcut veya beklenen bir menfaati boşanma yüzünden haleldar olan kusursuz yada daha az kusurlu tarafın, kusurlu taraftan uygun bir maddi tazminat isteyebileceğini, 186. maddesi, evi birlikte seçeceklerini , birliğin giderlerine güçleri oranlarında emek ve mal varlıkları ile katılacaklarını öngörmüştür. Toplanan delillerden boşanmaya sebep olan olaylarda maddi tazminat isteyen eşin diğerinden daha ziyade kusurlu olmadığı anlaşılmaktadır. Boşanma sonucu bu eş, en azından diğerinin maddi desteğini yitirmiştir. O halde mahkemece, tarafların sosyal ve ekonomik durumları ile kusurları ve hakkaniyet ilkesi (MK.Md,4 BK.md.42 ve 44 ) dikkate alınarak \* davalı kadın yararına uygun miktarda maddi tazminat verilmelidir. Bu yönün dikkate alınmaması doğru görülmemiştir.
 
 ## Yargıtay 2. HD 2008/1927 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/470891900)
+
 2-\* Türk Medeni Kanununun 174/1. maddesi mevcut veya beklenen bir menfaati boşanma yüzünden haleldar olan kusursuz yada daha az kusurlu tarafın, kusurlu taraftan uygun bir maddi tazminat isteyebileceğini, 186. maddesi, evi birlikte seçeceklerini , birliğin giderlerine güçleri oranlarında emek ve mal varlıkları ile katılacaklarını öngörmüştür. Toplanan delillerden boşanmaya sebep olan olaylarda maddi tazminat isteyen eşin diğerinden daha ziyade kusurlu olmadığı anlaşılmaktadır. Boşanma sonucu bu eş, en azından diğerinin maddi desteğini yitirmiştir. O halde mahkemece, tarafların sosyal ve ekonomik durumları ile kusurları ve hakkaniyet ilkesi (MK.Md,4 BK.md.42 ve 44 ) dikkate alınarak \* davacı-karşı davalı kadın yararına uygun miktarda maddi tazminat verilmelidir. Bu yönün dikkate alınmaması doğru görülmemiştir.
 
 ## Yargıtay 2. HD 2008/1924 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/80362100)
 
 Türk Medeni Kanununun 174/2 maddesi, boşanmaya sebebiyet vermiş olan olaylar yüzünden kişilik hakları saldırıya uğrayan tarafın, kusurlu olandan manevi tazminat isteyebileceğini öngörmüştür. Toplanan delillerden evlilik birliğinin temelinden sarsılmasına sebep olan olaylarda tazminat isteyen \* davalı-karşı davacı kadının ağır yada eşit kusurlu olmadığı, bu olayların kişilik haklarına saldırı teşkil ettiği anlaşılmaktadır. O halde mahkemece, tarafların sosyal ve ekonomik durumları, tazminata esas olan fiilin ağırlığı ile hakkaniyet kuralları (TMK. 4 BK. 42,43,44,49) dikkate alınarak \* davalı-karşı davacı kadın yararına uygun miktarda manevi tazminata hükmedilmesi gerekir. Bu yönün dikkate alınmaması doğru görülmemiştir.
 
 ## Yargıtay 2. HD 2008/1804 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/80321800)
+
 \* Türk Medeni Kanununun 174/1. maddesi mevcut veya beklenen bir menfaati boşanma yüzünden haleldar olan kusursuz yada daha az kusurlu tarafın, kusurlu taraftan uygun bir maddi tazminat isteyebileceğini, 186. maddesi, evi birlikte seçeceklerini , birliğin giderlerine güçleri oranlarında emek ve mal varlıkları ile katılacaklarını öngörmüştür. Toplanan delillerden boşanmaya sebep olan olaylarda maddi tazminat isteyen eşin diğerinden daha ziyade kusurlu olmadığı anlaşılmaktadır. Boşanma sonucu bu eş, en azından diğerinin maddi desteğini yitirmiştir. O halde mahkemece, tarafların sosyal ve ekonomik durumları ile kusurları ve hakkaniyet ilkesi (MK.Md,4 BK.md.42 ve 44 ) dikkate alınarak \*davalı kadın yararına uygun miktarda maddi tazminat verilmelidir. Bu yönün dikkate alınmaması doğru görülmemiştir.
 
 ## Yargıtay 2. HD 2008/1653 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/80281800)
 
 Toplanan delillerden boşanmaya neden olan olaylarda davalı-davacı koca tam kusurludur. Boşanma yüzünden davacı-davalı kadının yoksulluğa düşeceği sabit olmuş ve Türk Medeni Kanununun 175. maddesi koşulları gerçekleşmiştir. Kadın lehine uygun miktar yoksulluk nafakası takdiri gerekirken reddi usul ve yasaya aykırıdır.
 
 ## Yargıtay 2. HD 2008/1613 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/80270300)
+
 Dosyadaki yazılara, kararın dayandığı delillerle kanuni gerektirici sebeplere ve özellikle \*evlilik birliğinin temelinden sarsılmasına sebebiyet veren olaylarda tarafların eşit kusurlu olduklarının anlaşılmasına göre davalı-karşı davacının aşağıdaki bentlerin kapsamı dışında kalan temyiz itirazları yersizdir.
 
 ## Yargıtay 2. HD 2008/1487 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/80248200)
 
 Türk Medeni Kanununun 174/2 maddesi, boşanmaya sebebiyet vermiş olan olaylar yüzünden kişilik hakları saldırıya uğrayan tarafın, kusurlu olandan manevi tazminat isteyebileceğini öngörmüştür. Toplanan delillerden evlilik birliğinin temelinden sarsılmasına sebep olan olaylarda tazminat isteyen \*davalı kadının ağır yada eşit kusurlu olmadığı, bu olayların kişilik haklarına saldırı teşkil ettiği anlaşılmaktadır. O halde mahkemece, tarafların sosyal ve ekonomik durumları, tazminata esas olan fiilin ağırlığı ile hakkaniyet kuralları (TMK. 4 BK. 42,43,44,49) dikkate alınarak \*davalı kadın yararına uygun miktarda manevi tazminata hükmedilmesi gerekir. Bu yönün dikkate alınmaması doğru görülmemiştir.
 
 ## Yargıtay 2. HD 2008/1330 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/80225700)
+
 Türk Medeni Kanununun 174/2 maddesi, boşanmaya sebebiyet vermiş olan olaylar yüzünden kişilik hakları saldırıya uğrayan tarafın, kusurlu olandan manevi tazminat isteyebileceğini öngörmüştür. Toplanan delillerden evlilik birliğinin temelinden sarsılmasına sebep olan olaylarda tazminat isteyen \* davacı kadının ağır yada eşit kusurlu olmadığı, bu olayların kişilik haklarına saldırı teşkil ettiği anlaşılmaktadır. O halde mahkemece, tarafların sosyal ve ekonomik durumları, tazminata esas olan fiilin ağırlığı ile hakkaniyet kuralları (TMK. 4 BK. 42,43,44,49) dikkate alınarak \* davacı kadın yararına uygun miktarda manevi tazminata hükmedilmesi gerekir. Bu yönün dikkate alınmaması doğru görülmemiştir.
 
 ## Yargıtay 2. HD 2008/1326 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/80224900)
 
 1)\* Türk Medeni Kanununun 174/1. maddesi mevcut veya beklenen bir menfaati boşanma yüzünden haleldar olan kusursuz yada daha az kusurlu tarafın, kusurlu taraftan uygun bir maddi tazminat isteyebileceğini, 186. maddesi, evi birlikte seçeceklerini , birliğin giderlerine güçleri oranlarında emek ve mal varlıkları ile katılacaklarını öngörmüştür. Toplanan delillerden boşanmaya sebep olan olaylarda maddi tazminat isteyen eşin diğerinden daha ziyade kusurlu olmadığı anlaşılmaktadır. Boşanma sonucu bu eş, en azından diğerinin maddi desteğini yitirmiştir. O halde mahkemece, tarafların sosyal ve ekonomik durumları ile kusurları ve hakkaniyet ilkesi (MK.Md,4 BK.md.42 ve 44 ) dikkate alınarak \*davacı kadın yararına uygun miktarda maddi tazminat verilmelidir. Bu yönün dikkate alınmaması doğru görülmemiştir.
 
 ## Yargıtay 2. HD 2008/1227 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/80202900)
+
 Mahkemenin de kabulünde belirtildiği gibi boşanmaya neden olan olaylarda taraflar eşit kusurlu olup, davalı kadının boşanma yüzünden yoksulluğa düşeceği sabit olmuş ve Türk Medeni Kanununun 175. maddesi koşulları kadın lehine gerçekleşmiştir. Mahkemece davalı kadın lehine uygun miktar yoksulluk nafakası takdiri gerekirken yazılı şekilde karar verilmesi doğru görülmemiştir.
 
 ## Yargıtay 2. HD 2008/978 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/80155400)
 
 Türk Medeni Kanununun 174/2 maddesi, boşanmaya sebebiyet vermiş olan olaylar yüzünden kişilik hakları saldırıya uğrayan tarafın, kusurlu olandan manevi tazminat isteyebileceğini öngörmüştür. Toplanan delillerden evlilik birliğinin temelinden sarsılmasına sebep olan olaylarda tazminat isteyen \* davalı-davacı kadının ağır yada eşit kusurlu olmadığı, bu olayların kişilik haklarına saldırı teşkil ettiği anlaşılmaktadır. O halde mahkemece, tarafların sosyal ve ekonomik durumları, tazminata esas olan fiilin ağırlığı ile hakkaniyet kuralları (TMK. 4 BK. 42,43,44,49) dikkate alınarak \* davalı-davacı kadın yararına uygun miktarda manevi tazminata hükmedilmesi gerekir. Bu yönün dikkate alınmaması doğru görülmemiştir.
 
 ## Yargıtay 2. HD 2008/805 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/466219800)
+
 Dosyadaki yazılara, kararın dayandığı delillerle kanuni gerektirici sebeplere ve özellikle \*boşanmaya neden olan olaylarda davalı kadının ağır kusurlu olduğunun anlaşılmasına göre yerinde bulunmayan temyiz isteğinin reddiyle usul ve kanuna uygun olan hükmün ONANMASINA, aşağıda yazılı onama harcının temyiz edene yükletilmesine peşin alınan harcın mahsubuna, işbu kararın tebliğinden itibaren 15 gün içinde karar düzeltme yolu açık olmak üzere oybirliğiyle karar verildi.04.02.2008…
 
 ## Yargıtay 2. HD 2008/682 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/80081400)
 
 Türk Medeni Kanununun 174/2 maddesi, boşanmaya sebebiyet vermiş olan olaylar yüzünden kişilik hakları saldırıya uğrayan tarafın, kusurlu olandan manevi tazminat isteyebileceğini öngörmüştür. Toplanan delillerden evlilik birliğinin temelinden sarsılmasına sebep olan olaylarda tazminat isteyen \* davacı-davalı kadının ağır yada eşit kusurlu olmadığı, bu olayların kişilik haklarına saldırı teşkil ettiği anlaşılmaktadır. O halde mahkemece, tarafların sosyal ve ekonomik durumları, tazminata esas olan fiilin ağırlığı ile hakkaniyet kuralları (TMK. 4 BK. 42,43,44,49) dikkate alınarak \* davacı-davalı kadın yararına uygun miktarda manevi tazminata hükmedilmesi gerekir. Bu yönün dikkate alınmaması doğru görülmemiştir.
 
 ## Yargıtay 2. HD 2008/626 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/80062400)
+
 Davalı kadının kocasına ait kredi kartlarını kocasının rızası hilafına kullandığı kanıtlanmamıştır. Toplanan delillerden davacı kocanın eski eşi ile yaşadığı, davalı karısını dolandırıcılıktan şikayet ettiği, boşanmaya neden olan olaylarda tam kusurlu olduğu anlaşılmıştır.
 
 ## Yargıtay 2. HD 2008/247 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/79906200)
 
 D-Türk Medeni Kanununun 174/2 maddesi, boşanmaya sebebiyet vermiş olan olaylar yüzünden kişilik hakları saldırıya uğrayan tarafın, kusurlu olandan manevi tazminat isteyebileceğini öngörmüştür. Toplanan delillerden evlilik birliğinin temelinden sarsılmasına sebep olan olaylarda tazminat isteyen \*davalı kadının ağır yada eşit kusurlu olmadığı, bu olayların kişilik haklarına saldırı teşkil ettiği anlaşılmaktadır.O halde mahkemece, tarafların sosyal ve ekonomik durumları, tazminata esas olan fiilin ağırlığı ile hakkaniyet kuralları (TMK. 4 BK. 42,43,44,49) dikkate alınarak \*davalı kadın yararına uygun miktarda manevi tazminata hükmedilmesi gerekir. Bu yönün dikkate alınmaması doğru görülmemiştir.
 
 ## Yargıtay 2. HD 2008/243 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/79904000)
+
 3-\* Türk Medeni Kanununun 174/1. maddesi mevcut veya beklenen bir menfaati boşanma yüzünden haleldar olan kusursuz yada daha az kusurlu tarafın, kusurlu taraftan uygun bir maddi tazminat isteyebileceğini, 186. maddesi, evi birlikte seçeceklerini , birliğin giderlerine güçleri oranlarında emek ve mal varlıkları ile katılacaklarını öngörmüştür. Toplanan delillerden boşanmaya sebep olan olaylarda maddi tazminat isteyen eşin diğerinden daha ziyade kusurlu olmadığı anlaşılmaktadır. Boşanma sonucu bu eş, en azından diğerinin maddi desteğini yitirmiştir. O halde mahkemece, tarafların sosyal ve ekonomik durumları ile kusurları ve hakkaniyet ilkesi (MK.Md,4 BK.md.42 ve 44 ) dikkate alınarak \* davacı kadın yararına uygun miktarda maddi tazminat verilmelidir. Bu yönün dikkate alınmaması doğru görülmemiştir.
 
 ## Yargıtay 2. HD 2007/17943 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/81176900)
 
 Toplanan delillere göre herhangi bir işi ve geliri olmayan davalı kadının boşanma sonucu yoksulluğa düşeceği ( TMK. md. 175) ve tarafların eşit kusurlu olduklarının anlaşılmasına göre davalı kadın yararına uygun miktar yoksulluk nafakasına hükmedilmesi gerekirken isteğin tamamen reddi doğru olmamıştır.
 
 ## Yargıtay 2. HD 2007/17898 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/81190800)
+
 Davacı kocanın terk hukuki sebebine dayalı boşanma davası ret edilmiş 8.11.2001 tarihinde kesinleşmiştir. Davalı kadın Türk Medeni Kanununun 166/1. maddesine dayalı olarak 17.8.2005 tarihinde açmış olduğu davadan 16.9.2005 tarihinde feragat etmiştir.Davacı 25.11.2005 tarihinde Türk Medeni Kanununun 166/son maddesine dayalı iş bu davayı açmıştır.Davalı kadın şiddetli geçimsizlikten açmış olduğu boşanma davasından 16.9.2005 tarihinde feragat ettiğinden davacı kocanın feragat tarihine kadar ki kusurlarını affetmiştir. Kusursuz eş aleyhine, boşanmanın eki niteliğinde olan Türk Medeni Kanununun 174/1-2’nci maddesinden kaynaklanan maddi ve manevi tazminata hükmedilemeyeceği gözetilmeden yazılı şekilde karar verilmesi doğru görülmemiştir.
 
 ## Yargıtay 2. HD 2007/17610 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/81258300)
 
 \* Türk Medeni Kanununun 174/1. maddesi mevcut veya beklenen bir menfaati boşanma yüzünden haleldar olan kusursuz yada daha az kusurlu tarafın, kusurlu taraftan uygun bir maddi tazminat isteyebileceğini, 186. maddesi, evi birlikte seçeceklerini , birliğin giderlerine güçleri oranlarında emek ve mal varlıkları ile katılacaklarını öngörmüştür. Toplanan delillerden boşanmaya sebep olan olaylarda maddi tazminat isteyen eşin diğerinden daha ziyade kusurlu olmadığı anlaşılmaktadır. Boşanma sonucu bu eş, en azından diğerinin maddi desteğini yitirmiştir. O halde mahkemece, tarafların sosyal ve ekonomik durumları ile kusurları ve hakkaniyet ilkesi (MK.Md,4 BK.md.42 ve 44 ) dikkate alınarak \* davalı kadın yararına uygun miktarda maddi tazminat verilmelidir. Bu yönün dikkate alınmaması doğru görülmemiştir.
 
 ## Yargıtay 2. HD 2007/17530 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/81272400)
+
 Türk Medeni Kanununun 174/2 maddesi, boşanmaya sebebiyet vermiş olan olaylar yüzünden kişilik hakları saldırıya uğrayan tarafın, kusurlu olandan manevi tazminat isteyebileceğini öngörmüştür. Toplanan delillerden evlilik birliğinin temelinden sarsılmasına sebep olan olaylarda tazminat isteyen \* davacı -davalı kadın ağır yada eşit kusurlu olmadığı, bu olayların kişilik haklarına saldırı teşkil ettiği anlaşılmaktadır. O halde mahkemece, tarafların sosyal ve ekonomik durumları, tazminata esas olan fiilin ağırlığı ile hakkaniyet kuralları (TMK. 4 BK. 42,43,44,49) dikkate alınarak \* davacı-davalı kadın yararına uygun miktarda manevi tazminata hükmedilmesi gerekir. Bu yönün dikkate alınmaması doğru görülmemiştir.
 
 ## Yargıtay 2. HD 2007/17381 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/81290700)
 
 \* Türk Medeni Kanununun 174/1. maddesi mevcut veya beklenen bir menfaati boşanma yüzünden haleldar olan kusursuz yada daha az kusurlu tarafın, kusurlu taraftan uygun bir maddi tazminat isteyebileceğini, 186. maddesi, evi birlikte seçeceklerini , birliğin giderlerine güçleri oranlarında emek ve mal varlıkları ile katılacaklarını öngörmüştür. Toplanan delillerden boşanmaya sebep olan olaylarda maddi tazminat isteyen eşin diğerinden daha ziyade kusurlu olmadığı anlaşılmaktadır. Boşanma sonucu bu eş, en azından diğerinin maddi desteğini yitirmiştir. O halde mahkemece, tarafların sosyal ve ekonomik durumları ile kusurları ve hakkaniyet ilkesi (MK.Md,4 BK.md.42 ve 44 ) dikkate alınarak \* davacı kadın yararına uygun miktarda maddi tazminat verilmelidir. Bu yönün dikkate alınmaması doğru görülmemiştir.
 
 ## Yargıtay 2. HD 2007/17335 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/81293800)
+
 743 Sayılı Türk Kanuni Medenisinin 143. maddesinde ifadesini bulan maddi ve manevi tazminatın ancak kusursuz eş yararına hükmedilebileceği nazara alınmadan davacı-davalı kadın yararına maddi ve manevi tazminat ile davalı-davacı koca yararına manevi tazimnata hükmedilmesi usul ve yasaya aykırı olup bozmayı gerektirmiştir.
 
 ## Yargıtay 2. HD 2007/17235 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/81373200)
 
 Türk Medeni Kanununun 174/2 maddesi, boşanmaya sebebiyet vermiş olan olaylar yüzünden kişilik hakları saldırıya uğrayan tarafın, kusurlu olandan manevi tazminat isteyebileceğini öngörmüştür. Toplanan delillerden evlilik birliğinin temelinden sarsılmasına sebep olan olaylarda tazminat isteyen \*davacının (kadının) ağır yada eşit kusurlu olmadığı, bu olayların kişilik haklarına saldırı teşkil ettiği anlaşılmaktadır. O halde mahkemece, tarafların sosyal ve ekonomik durumları, tazminata esas olan fiilin ağırlığı ile hakkaniyet kuralları (TMK. 4 BK. 42,43,44,49) dikkate alınarak \*davacı (kadın) yararına uygun miktarda manevi tazminata hükmedilmesi gerekir. Bu yönün dikkate alınmaması doğru görülmemiştir.

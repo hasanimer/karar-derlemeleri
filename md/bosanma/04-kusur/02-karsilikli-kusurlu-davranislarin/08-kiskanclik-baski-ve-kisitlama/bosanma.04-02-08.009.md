@@ -23,155 +23,229 @@ uyari: "Derleyenin seçtiği alıntılardır; kararın tamamı değildir. Künye
 
 ## Yargıtay 2. HD 2015/22534 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/390330700)
+
 Mahkemece taraflar eşit kusurlu kabul edilerek boşanma kararı verilmiş ise de toplanan delillerden, davalı- davacı erkeğin birlik görevlerini yerine getirmediği, borçlandığı, davacı-davalı kadının ise, eşine ve ortak çocuğa fiziksel şiddet uyguladığı, eşinin ailesini ortak evden kovduğu, kıskançlık yaptığı anlaşılmaktadır. Her ne kadar mahkeme tarafından davalı-davacı erkeğin adli sicil kaydında cürüm işleyenleri saklamak ve cürüm delillerini yok etmek suçundan cezaevine girdiği, bu suçtan hüküm aldığı kabul edilmiş ise de, davacı-davalı kadın bu vakıaya dayanmamıştır. Usulüne uygun şekilde ileri sürülmeyen ve ispatlanamayan vakıalar sabit kabul edilerek davalı-davacı erkeğe kusur olarak yüklenemez. Evlilik birliğinin temelinden sarsılmasına neden olan olaylarda, davacı-davalı kadının daha fazla kusurlu olduğunun kabulü gerekir. Hal böyle iken tarafların eşit kusurlu kabul edilmesi ve bu hatalı kusur tespitine bağlı olarak davalı-davacı erkeğin manevi tazminat talebinin reddedilmesi doğru değildir.
 
 ## Yargıtay 2. HD 2015/22530 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/390333800)
 
 Mahkemece davalı erkek daha fazla kusurlu kabul edilerek boşanma kararı verilmiş ise de; toplanan delillerden davalı erkeğin 13.07.2010 tarihinde uyguladığı fiziksel şiddetten sonra tarafların barıştığı, davacı kadının açtığı boşanma davasını takip etmediği anlaşılmaktadır. Davalı erkek tarafından gerçekleştirilen bu eylemin affedildiği, en azından hoşgörü ile karşılandığının kabulü gerekir. Taraflara yüklenen diğer kusurlu davranışlara göre evlilik birliğinin temelinden sarsılmasına neden olan olaylarda tarafların eşit kusurlu olduklarının kabulü gerekir. Hal böyle iken davalı erkeğin daha fazla kusurlu kabul edilmesi ve bu hatalı kusur belirlemesine bağlı olarak davacı kadının maddi ve manevi tazminat isteklerinin kabul edilmesi doğru değildir.
 
 ## Yargıtay 2. HD 2015/21483 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/390060500)
+
 Yapılan yargılama ve toplanan delillerden davalı kadının evlilik birliğinden kaynaklanan görevlerini yerine getirmediği, aşırı kıskançlık gösteren davranışlarda bulunduğu, davacı erkeğin de eşine hakaret ettiği, fiziksel şiddet uyguladığı, eşini evden kovduğu anlaşılmaktadır. Bu durumda; tarafların evlilik birliği temelinden sarsılmış olup; bu sonuca ulaşılmasında her iki taraf da kusurlu olmakla birlikte, davacı erkeğin eşine göre daha fazla kusurlu olduğunun kabulü gerekir. Bu evliliğin devamında davalı kadın bakımından korunmaya değer bir yararı kalmamıştır. Türk Medeni Kanununun 166/2. maddesi koşulları gerçekleşmemiştir. Mahkemece boşanmaya karar verilmesi gerekirken, yazılı şekilde isteğin reddedilmesi usul ve yasaya aykırı olup bozmayı gerektirmiştir.
 
 ## Yargıtay 2. HD 2015/20428 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/401649900)
 
 Toplanan delillerden, davalı-davacı kadının eşine hakaret ettiği ve intihar girişiminde bulunduğu, davacı-davalı erkeğin de eşine köyde ailesi ile yaşamaları için baskı yaptığı, hastanede yatmakta olan eşi ile ilgilenmediği, eşinin ailesine “alın kızınızı gidin bu iş bitmiştir artık” dediği anlaşılmaktadır. Gerçekleşen bu durum karşısında boşanmaya neden olan olaylarda, her iki eş de kusurlu olmakla birlikte, davacı-davalı erkeğin daha fazla kusurlu olduğunun kabulü gerekir. Her iki eş de boşanmayı istediğine ve böylece evliliğin devamında taraflar ve ortak çocuk için yarar kalmadığına göre, davacı-davalı erkeğin de boşanma davası bakımından Türk Medeni Kanununun 166/2. maddesinde belirtilen boşanma koşulları gerçekleşmiş olup, davacı-davalı erkeğin boşanma davasının da kabulü gerekir. Ne var ki, davalı-davacı kadının kabul edilen davasında verilen boşanma hükmü temyiz edilmeyerek kesinleşmiş; davacı-davalı erkeğin boşanma davasında, boşanma isteminin konusu kalmamıştır. Erkeğin boşanma davasında boşanma istemi konusuz kalmakla birlikte, yargılama gideri ve vekalet ücreti yönünden bir karar verilmesi gerekir.
 Açıklanan yönler gözönüne alınarak bir karar verilmesi için hükmün bozulması gerekmiştir.
 
 ## Yargıtay 2. HD 2015/20422 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/402136800)
+
 Mahkemece taraflar eşit kusurlu kabul edilerek boşanmaya karar verilmiş ise de; yapılan soruşturma ve toplanan delillerden davalı kadının akıl hastalığı nedeniyle Türk Medeni Kanununun 405. maddesi gereği kısıtlanarak kendisine vasi atandığı anlaşılmaktadır. Akıl hastası olan davalı kadının davranışları iradi olmadığına göre, kusurundan söz edilemez. Boşanmaya sebep olan olaylarda davacı erkek tam kusurludur. Davacı erkeğin akıl hastalığına dayalı bir davası olmadığı gibi bu konuda yapılmış bir ıslahda yoktur. Bu sebeple davanın reddi gerekir. Ancak boşanma hükmü temyiz edilmeden kesinleştiğinden, bu husus bozma nedeni yapılmamış yanlışlığa değinilmekle yetinilmiştir.
 
 ## Yargıtay 2. HD 2015/20130 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/399661800)
 
 Mahkemece taraflar eşit kusurlu kabul edilerek boşanmalarına ve tarafların tazminat taleplerinin reddine karar verilmiş ise de, toplanan delillerden; davalı-davacı erkeğin eşini aşağıladığı, onunla zengin diye evlendiğini söylediği,eşini baskı altında tuttuğu, davacı-davalı kadının ise eşinden maddi taleplerde bulunduğu, evi terk ettiği anlaşılmaktadır. Gerçekleşen bu olaylar karşısında evlilik birliğinin temelinden sarsılmasına neden olan olaylarda, davalı- davacı erkeğin eşine göre daha ağır kusurlu bulunduğunun kabulü gerekir. Hal böyleyken, tarafların eşit kusurlu kabulü ve bu hatalı kusur belirlemesine bağlı olarak davacı-davalı kadının maddi ve manevi tazminat taleplerinin reddine karar verilmesi doğru görülmemiştir.
 
 ## Yargıtay 2. HD 2015/18737 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/402244500)
+
 Dosyadaki yazılara, kararın dayandığı delillerle kanuni gerektirici sebeplere ve özellikle ön inceleme aşaması tamamlanana kadar usulüne uygun şekilde (HMK.m.141) dayanılmayan bir vakıanın, davalıya kusur olarak yüklenmesine imkan bulunmadığı davacının, eşinin sadakatsiz davranışına dayanmadığı bu nedenle bu eylemin davalı eşe kusur olarak yüklenemeyeceği boşanmaya sebep olan olaylarda müşterek evin eşyaları konusunda aşırı titiz davranarak eşine baskı yapıp kısıtlayan, eşi ve müşterek çocuğu ile ilgilenmeyen, birlik görevlerini yerine getirmeyen davalı erkeğin kusurunun yanında eşinin önceki evliliğinden olan çocuğu ile görüşmesini istemeyen kadının da az kusurlu olduğunun anlaşılmasına göre, davalının tüm temyiz itirazları yersizdir.
 
 ## Yargıtay 2. HD 2015/18083 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/400009300)
 
 Mahkemece, taraflar eşit kusurlu kabul edilerek boşanmalarına karar verilmiş ise de, yapılan tahkikat ve toplanan delillerden, davacı-davalı kadının kocasına telefon fırlatması ve üzerine yürümesine karşılık erkeğin eşine şiddet uyguladığı, evden çıkmasına aşırı kıskançlık nedeniyle izin vermediği, ailesi ile görüşmesine engel olduğu ve ziynetlerini zorla elinden aldığı, böylelikle boşanmaya sebep olan olaylarda davalı-davacının, davacı-davalıya göre daha ziyade kusurlu olduğu ve davalı-davacının boşanmaya sebep olan kusurlu davranışlarının diğer tarafın kişilik haklarına saldırı niteliğinde olduğu anlaşılmaktadır. O halde, davacı-davalı yararına uygun bir maddi ve manevi tazminata hükmedilmesi gerekirken, hatalı kusur belirlemesine bağlı olarak maddi ve manevi tazminat talebinin reddine karar verilmesi doğru olmamıştır.
 
 ## Yargıtay 2. HD 2015/16836 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/482146300)
+
 Davalı erkeğin 10.12.2012 tarihinde aynı mahkemede 2012/1309 esas ve 2013/4 karar sayılı dosyasıyla boşanma davası açtığı ve bu davadan 19.12.2012 tarihinde feragat ettiği anlaşılmaktadır. Bu durumda feragat tarihinden önceki, kadından kaynaklanan kusurların affedildiği, en azından hoşgörü ile karşılandığının kabulü gerekir. Affedilen ya da hoşgörü ile karşılanan olaylar boşanma sebebi yapılamaz. Boşanmaya sebep olan olaylarda çocukları olmaması sebebiyle davacı kadına baskı yapan, hakaret eden davalı erkek tam kusurludur. Durum böyleyken, taraflar eşit kusurlu kabul edilerek davacı kadının tazminat taleplerinin reddi hatalı olup, bozmayı gerektirmiştir.
 
 ## Yargıtay 2. HD 2015/15184 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/472642000)
 
 Toplanan delillerden davalı-davacı kadının birlik görevlerini yerine getirmediği, kıskanç tavırlar sergileyerek eşini devamlı kontrol altında tutma isteğine karşılık, davacı-davalı erkeğin de birlik görevlerini yerine getirmediği, eşine şiddet uyguladığı, güven sarsıcı davranışlarda bulunduğu ve eşini müşterek haneden kovduğu anlaşılmaktadır. Tespit edilen kusurlu davranışlar karşısında evlilik birliğinin temelinden sarsılmasına neden olan olaylarda davacı-davalı erkek daha ağır kusurlu bulunduğuna göre davalı-davacı kadın yararına manevi tazminata (TMK md. 174/2) hükmedilmesi gerekirken tarafların eşit kusurlu bulundukları gerekçesiyle reddi doğru olmamıştır.
 
 ## Yargıtay 2. HD 2015/15005 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/472429400)
+
 Mahkemece, her iki boşanma davasının kabulüne karar verilmiş, boşanmaya sebep olan olaylarda "eşit kusurlu" oldukları gerekçesiyle davacı-karşı davalı(nın) maddi ve manevi tazminat talepleri reddedilmiştir. Oysa, davalı-karşı davacı (nın), daha önce aynı işyerinde birlikte çalıştıkları, daha sonra ortak işyeri açtıkları kadın için "onun koruyanı benim, değil sekiz bin lira, seksen bin liram olsa onu da veririm" dediği, bu suretle güven sarsıcı tutum ve davranışlarda bulunduğu, davacı-karşı davalı (nın) ise, bu olay üzerine eşini "benim kimseye ihtiyacım yok" diyerek evden kovduğu, yapılan soruşturma ve toplanan delillerden anlaşılmaktadır. Gerçekleşen bu duruma göre, boşanmaya sebep olan olaylarda davalı-karşı davacı (nın), diğer tarafa göre baskın kusurlu olduğunun kabulü gerekirken, yanılgılı değerlendirme ile tarafların eşit kusurlu kabul edilmeleri ve buna bağlı olarak davacı-karşı davalı(nın) maddi ve manevi tazminat isteklerinin reddine karar verilmesi doğru ve isabetli bulunmamıştır.
 
 ## Yargıtay 2. HD 2015/14714 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/396897100)
 
 Toplanan delillerden, boşanmaya neden olan olaylarda, eşine hakaret eden, yakınlarının eşine ağır sözlerle hakaret etmesine, tehditte bulunmalarına ve evlilik birliğine müdahalelerine ses çıkarmadığı anlaşılan davacı-karşı davalı erkek, birlik görevlerini yerine getirmemek için sık sık ortak konutu terk eden ve evliliğini maddi menfaat sağlamak için baskı aracı kullanan davalı-karşı davacı kadına nazaran daha ağır kusurlu olduğu anlaşılmaktadır. Durum böyle iken, mahkemece tarafların eşit kusurlu kabul edilmesi ve bu hatalı kusur belirlemesine bağlı olarak davalı-karşı davacı kadının maddi (TMK. md. 174/1) ve manevi (TMK. md, 174/2) tazminat taleplerinin reddedilmesi usul ve yasaya aykırı olup, bozmayı gerektirmiştir.
 
 ## Yargıtay 2. HD 2015/13579 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/400906000)
+
 Mahkemece bozmaya uyularak karar verilmiştir. Uyulan bozma ilamında, “kadının kusurlu tutum ve davranışları sayılarak boşanmaya karar verilmesi gerektiği” belirtilmiştir. Bozma ilamında davacının kusuruna değinilmemiş olması davacıyı kusursuz, davalıyı ise tam kusurlu hale getirmez. Yapılan soruşturma ve toplanan delillerden, davacının da, evlilik birliğine ilişkin yükümlülüklerini yerine getirmediği, eşine küfrettiği ve güven sarsıcı tutum ve davranışlarda bulunduğu anlaşılmaktadır. Gerçekleşen bu duruma göre, evlilik birliğinin temelinden sarsılmasına sebebiyet veren olaylarda tarafların her ikisi de kusurlu olup, birini diğerinden baskın kusurlu kabul etmenin mümkün olmadığı görülmektedir. Davalının boşanma yüzünden yoksulluğa düşeceği gerçekleşmiş olup, daha ağır kusurlu sayılamayacağına göre, yararına diğer tarafın mali gücü oranında uygun miktarda yoksulluk nafakası tayin ve taktiri gerekirken, bozmaya yanlış anlam verilerek tam kusurlu sayılıp bu isteğinin reddi usul ve yasaya uygun bulunmamıştır.
 
 ## Yargıtay 2. HD 2015/13505 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/397240600)
 
 Mahkemece verilen 16.04.2013 tarihli ilk hüküm davacı erkek tarafından temyiz edilmiş ve hüküm Dairemizin 10.07.2014 tarih 2014/5320 esas, 2014/16063 karar sayılı ilamı ile davacı erkeğin güven sarsıcı davranışlarda bulunup, eşini istemediğini söylediği, davalı kadının ise, eşine sürekli şekilde hakaret içeren sözler söyleyip, aşırı kıskanç davranışlarda bulunduğu, davacı erkeğin dava açmakta haklı olduğu, boşanma kararı verilmesi yönünde bozulmuştur. Bozmaya uyan mahkeme, bozmaya uygun karar vermek zorunda olup, tarafların kesinleşen kusur durumlarına ilişkin yeniden değerlendirme yapamaz. Kesinleşen bozma ilamında yer alan, boşanmaya sebep olan olaylar dikkate alındığından taraflar eşit kusurludur. Hal böyle iken davacı erkeğin ağır kusurlu kabulü ve kesinleşen bozma ilamına aykırı bu hatalı kusur belirlemesine göre davalı kadın lehine maddi ve manevi tazminat (TMK.md.174/1-2) takdiri doğru olmayıp bozmayı gerektirmiştir.
 
 ## Yargıtay 2. HD 2015/13138 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/397385300)
+
 Mahkemece, taraflar eşit kusurlu bulunarak boşanmaya karar verilmiş ise de; yapılan yargılama ve toplanan delillerden mahkemece tarafların kabul edilen kusurlu davranışları yanında; davalı erkeğin eşine fiziksel şiddet uyguladığı ve baskıcı davranışlarda bulunduğu da anlaşılmaktadır. Gerçekleşen bu duruma göre boşanmaya sebep olan olaylarda davalı erkek, davacı kadına göre ağır kusurludur. Tarafların boşanmaya neden olan olaylarda eşit kusurlu olduğunun kabulü ve bu hatalı kusur belirlemesine bağlı olarak davacı kadının Türk Medeni Kanununun 174/1-2. maddesi kapsamında maddi ve manevi tazminat taleplerinin reddi doğru olmayıp bozmayı gerektirmiştir.
 
 ## Yargıtay 2. HD 2015/10767 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/223052000)
+
 Mahkemece taraflar eşit kusurlu kabul edilerek boşanma kararı verilmiş ise de, toplanan delillerden davacı-davalı kadının mahkemece kabul edilen kusurlu davranışlarının yanında ekonomik yönden güven sarsıcı tutum ve davranışlarda bulunduğu, sık sık yalan söylediği, davalı-davacı erkeğin ise, para vermesi konusunda eşine baskı yaptığı anlaşılmaktadır. Evlilik birliğinin temelinden sarsılmasına neden olan olaylarda, davacı-davalı kadının daha fazla kusurlu olduğunun kabulü gerekir. Hal böyle iken tarafların eşit kusurlu kabul edilmesi ve bu hatalı kusur tespitine bağlı olarak davacı-davalı kadın yararına yoksulluk nafakası takdir edilmesi doğru olmayıp bozmayı gerektirmiştir.
 
 ## Yargıtay 2. HD 2015/10727 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/220465400)
 
 Mahkemece, davacı-karşı davalı erkek tam kusurlu bulunarak, davacı-karşı davalı erkeğin davasının reddine, davalı-karşı davacı kadının davasının kabulü ile boşanmalarına karar verilmiş ise de; yapılan yargılama ve toplanan delillerden, davacı-karşı davalı erkeğin, annesinin evlilik birliğine müdahalesine sessiz kaldığı, eşini kısıtladığı, babasının evine bıraktığı, aile birliğini ilgilendiren konularda eşinin görüşünü almadığı; davalı-karşı davacı kadının ise eşine hakaret ettiği anlaşılmaktadır. Tarafların gerçekleşen kusurlu eylemleri dikkate alındığında, evlilik birliğinin temelinden sarsılmasında iki tarafta kusurlu olmakla birlikte, davacı-karşı davalı erkeğin daha fazla kusurlu olduğu, gelişen bu olaylar karşısında, evliliğin devamında taraflar bakımından yarar kalmadığı ve Türk Medeni Kanununun 166/2. maddesindeki boşanma koşullarının gerçekleşmiş olduğunun kabulü gerekir.
 Hal böyle iken, mahkemece davacı-karşı davalı erkeğin tam kusurlu kabul edilmesi ve davasının reddine karar verilmesi doğru değil ise de; davacı-karşı davalı erkeğin kendisinin reddedilen boşanma davasını temyiz etmemesi sebebiyle verilen boşanma kararı sonucu itibariyle doğru olduğundan, tarafların bu yöne ilişkin temyiz itirazlarının reddi ile boşanma hükmünün kusura ilişkin gerekçesi değiştirilmek sureti ile onanmasına karar verilmesi gerekmiş (HUMK.md.438/son) ve tarafların aşağıdaki bentler kapsamı dışında kalan sair temyiz itirazları yerinde bulunmamıştır.
 
 ## Yargıtay 2. HD 2015/10283 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/215106600)
+
 Mahkemece, taraflar eşit kusurlu kabul edilerek boşanma kararı verilmiştir. Yapılan soruşturma ve toplanan delillerden, davacı-davalı erkeğin eşini ailesi ile görüştürmediği, aşırı kıskançlık göstererek başka erkeklere yakıştırdığı, sürekli şiddet uyguladığı, hakaret ve tehdit ettiği, davalı-davacı kadınında eşine "pislik adam, şerefsiz, seninle aynı havayı solumak istemiyorum" şeklinde sözler söylediği anlaşılmaktadır. Bu halde evlilik birliğinin temelinden sarsılmasında davacı-davalı erkek, davalı-davacı kadına göre daha fazla kusurludur. Gerçekleşen bu durum karşısında boşanmaya sebep olan olaylar yüzünden kişilik hakları zarar gören, mevcut ve beklenen menfaatleri zedelenen az kusurlu olan davalı-davacı kadın yararına Türk Medeni Kanununun 174. maddesinin (1.) ve (2.) fıkrası gereğince uygun miktarda maddi ve manevi tazminata hükmedilmesi gerekirken, bu isteklerin reddi doğru bulunmamıştır.
 
 ## Yargıtay 2. HD 2015/10107 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/220012200)
 
 Mahkemece taraflar eşit kusurlu kabul edilerek karşılıklı açılan boşanma davalarının kabulüne karar verilmiş ise de; toplanan delillerden davacı-davalının, eşini istemediğini söylediği, müşterek evin seçilmesi ve eşyaların alınması konusunda eşine baskıcı davrandığı; davalı-davacının ise sadakat yükümlülüğüne aykırı davranışlarda bulunduğu, eşini istemediğini söylediği ve eşine hakaret ettiği anlaşılmaktadır. Gerçekleşen bu durum karşısında boşanmaya sebep olan olaylarda davalı-davacı kadın ağır kusurludur. Hal böyle iken tarafların eşit kusurlu kabul edilmesi ve bu hatalı kusur belirlemesine bağlı olarak ağır kusurlu davalı-davacı kadın lehine koşulları (TMK.m.175) oluşmadığı halde, yoksulluk nafakası takdiri doğru olmayıp, bozmayı gerektirmiştir.
 
 ## Yargıtay 2. HD 2015/9879 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/210733500)
+
 Dosyadaki yazılara, kararın dayandığı delillerle kanuni gerektirici sebeplere ve özellikle aşırı kıskanç davranıp, eşine fiziksel şiddet uygulayan davalı erkeğin, eşini tehdit edip evden kovan davacı kadına göre boşanmaya sebep olan olaylarda daha ağır kusurlu olduğunun ve gerekçeli kararın hüküm kısmında ... olan müşterek çocuğun isminin ... olarak yazılmasının yerinde düzeltilebilir maddi hata niteliğinde bulunduğunun anlaşılmasına göre, davacı kadının tüm, davalı erkeğin aşağıdaki bendin kapsamı dışında kalan temyiz itirazları yersizdir.
 
 ## Yargıtay 2. HD 2015/9591 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/207929400)
 
 Mahkemece "boşanmaya sebep olan olaylarda kadın az, diğer taraf daha fazla kusurlu" bulunmuş, bunun sonucu olarak az kusurlu taraf yararına Türk Medeni Kanununun 174/1. maddesi gereğince maddi tazminata hükmedilmiştir. Oysa; davacı-davalının, eşiyle biraraya gelmek istemediği, nikahtan sonra düğün için kararlaştırılan gün, "panik atak" rahatsızlığı gerçirdiği, davalı-davacıdan çocuk yapmak istemediğini açıkça ifade ettiği, eşi için "yanımda yabancı yatıyor gibi hissediyorum" dediği, ilk hamileliğinde isteyerek düşük yaptığı, ikinci hamileliğini de istemediği, zoraki doğum yaptığı, daha hastanede iken yeni doğan çocuğunu istemediği, annelik görevini yerine getirmediği, davalı-davacının ise, eşinin rahatsızlığı ile ilgilenmediği, sürekli olarak çocuk istediği, son olarak da eşini istemediğini söyleyerek "bu iş bitmiştir" deyip eşyalarını kapı önüne bıraktığı yapılan soruşturma ve toplanan delillerden anlaşılmaktadır. Gerçekleşen bu duruma göre, boşanmaya gidilen süreçte her ikisi de kusurlu olup, taraflardan birini diğerine göre baskın kusurlu kabul etmek mümkün bulunmamaktadır. Eşit kusurlu olan taraf yararına da maddi tazminata hükmedilemez (TMK.m.174/1).
 Bu husus nazara alınmadan delillerin takdirinde hataya düşülerek davacı-davalı (kadın) yararına maddi tazminata hükmedilmesi isabetsiz olup, bozmayı gerektirmiştir.
 
 ## Yargıtay 2. HD 2015/9418 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/222875800)
+
 Toplanan delillerden; davacı erkeğin ölmeden önce Türk Medeni Kanununun 405. maddesi gereğince kısıtlanarak vesayet altına alındığı anlaşılmaktadır. Akıl hastasının davranışları iradi olmadığından fiil ehliyeti ve bu kapsamda kusur sorumluluğu bulunmamaktadır (TMK m. 14, 15). Bu nedenle davacı erkeğe kusur yüklenemez. Zira vefat eden erkeğin hastalığı döneminde eşiyle ilgilenmeyen davalı kadın tam kusurludur. O halde, mahkemece yanılgıya düşülerek tarafların eşit kusurlu sayılarak yazılı şekilde hüküm kurulması doğru değil ise de bu husus yeniden yargılamayı gerektirmediğinden mahkemenin tarafların eşit kusurlu olarak tespitine yönelik kararın ve gerekçesinin değiştirilmesi suretiyle düzeltilerek onanması gerekmiştir (HUMK m. 438/son)…
 
 ## Yargıtay 2. HD 2015/8854 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/399855700)
 
 Davalının bağımsız konut temininden kaçındığı, ailesinin evlilik birliğine müdahalesine kayıtsız kaldığı, eşine “seni istemiyorum” dediği ve kayınpederinin üzerine yürüdüğü; davacının ise, sürekli olarak kocasına “köpek, hayvan, geri zekalı, aptal” şeklinde sözlerle hakaret ettiği, haklı sebep olmaksızın sık sık ortak konutu terk ettiği ve evlilik birliğine ilişkin görevlerini yerine getirmediği yapılan soruşturma ve toplanan delillerden anlaşılmaktadır. Gerçekleşen bu duruma göre, evlilik birliğinin temelinden sarsılmasında taraflar aynı oranda kusurlu olup birini diğerine göre baskın kusurlu kabul etmek mümkün bulunmamaktadır. Eşit kusurlu olan taraf yararına da maddi ve manevi tazminata hükmedilemez. Öyle ise, davacının tazminat taleplerinin reddi gerekirken, kabulüne karar verilmesi usul ve yasaya aykırı olup, bozmayı gerektirmiştir.
 
 ## Yargıtay 2. HD 2015/8027 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/396820700)
+
 Mahkemece boşanmaya neden olan olaylarda taraflar eşit kusurlu bulunmuş ve bu kusur belirlemesine göre davacı- davalı kadının tazminat talepleri reddedilmiş ise de; yapılan yargılama ve toplanan delillerden, davalı-davacı erkeğin, eşine birden fazla kez fiziksel şiddet uyguladığı, eşine hakaret ettiği, davacı- davalı kadının da kıskanç davranışlarda bulunduğu, eşine hakaret ettiği anlaşılmaktadır. Gerçekleşen bu durum karşısında, boşanmaya neden olan olaylarda davalı-davacı erkek daha ziyade kusurludur. Durum böyle olduğu halde tarafların boşanmaya sebep olan olaylarda eşit kusurlu olduğunun kabulü ve bu yanılgılı kusur belirlemesine bağlı olarak davacı-davalı kadının maddi ve manevi tazminat (TMK. md 174/1-2) taleplerinin reddi doğru görülmemiş ve bozmayı gerektirmiştir…
 
 ## Yargıtay 2. HD 2015/7392 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/399372100)
 
 Mahkemece taraflar eşit kusurlu kabul edilerek boşanmaya karar verilmiştir. Yapılan soruşturma ve toplanan delillerden davacı-davalı kadının, davalı-davacı koca ve ailesi hakkında büyü yaptıklarına ve kocasının erkekliğinin olmadığına ilişkin dedikodu çıkardığı ve kocasına ilgisiz davrandığı, davalı-davacı erkeğin ise davacı-davalı karısına şiddet uyguladığı, karısının ailesiyle görüşmesine izin vermediği anlaşılmaktadır. Evlilik birliğinin temelinden sarsılmasına sebep olan olaylarda her iki taraf da kusurlu olmakla birlikte, davacı-davalı kadına göre, davalı-davacı erkek daha ağır kusurludur. Gerçekleşen bu durum karşısında az kusurlu davacı-davalı kadın yararına maddi manevi tazminata (TMK m.174/1-2) hükmedilmesi gerekirken, hatalı kusur belirlemesine bağlı olarak davacı-davalı kadının tazminat taleplerinin reddi doğru görülmemiştir.
 
 ## Yargıtay 2. HD 2015/7369 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/398057000)
+
 Mahkemece; evlilik birliğinin temelinden sarsılmasında taraflar "eşit kusurlu" kabul edilmiş, buna bağlı olarak davalının maddi ve manevi tazminat talebi reddedilmiştir. Oysa, davacının bağımsız konut temininden kaçınarak, eşini, biri bedensel, diğeri zihinsel engelli ergin iki erkek kardeşi ve epilepsi hastası olan annesiyle aynı evde birlikte yaşamaya zorladığı, kardeşlerinden birinin davalıya cinsel tacize kalkıştığı ve bu olaya kayıtsız kaldığı, sonunda da eşinin ailesini arayarak "kızınızı alın götürün" dediği, davalının ise aldığı depresyon ilaçlarının etkisiyle ev işlerini ihmal ettiği çocuğunu evde yalnız bırakıp dışarı çıktığı ve ilgilenmediği yapılan soruşturma ve toplanan delillerden anlaşılmaktadır. Gerçekleşen bu duruma göre, evlilik birliğinin temelinden sarsılmasında ve boşanmaya sebep olan olaylarda davacı davalıya göre daha fazla kusurludur. O halde az kusurlu olan davalı yararına davacının mali gücü de dikkate alınarak uygun miktarda maddi ve manevi tazminata hükmedilmesi gerekirken, delillerin takdirinde yanılgıya düşülerek "eşit kusurlu" olduklarından bahisle yazılı şekilde hüküm kurulması doğru bulunmamıştır.
 
 ## Yargıtay 2. HD 2015/7172 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/392409400)
 
 Mahkemece taraflarca açılan boşanma davalarının birleştirilerek yapılan yargılaması sonucunda, davalı-davacı kadının birleşen davasının feragat nedeni ile, davacı-davalı erkek tarafından açılan asıl davanın ise; davalı-davacı kadının kusurlu davranışlarının varlığının kanıtlanamadığı, aksine eşine şiddet uygulayan ve hakaret eden davacı-davalı erkeğin geçimsizliğe neden olan olaylarda tamamen kusurlu bulunduğu gerekçe gösterilerek reddine karar verilmiştir. Ne var ki; yargılama sırasında davacı-davalı erkek akıl hastalığı nedeni ile kısıtlanmış ve kendisine vasi atanmıştır. Akıl hastası olan davacı-davalı erkeğin davranışları iradi olmadığına göre, kusurundan söz edilemez. Toplanan delillerden davalı-davacı kadının geçimsizliğe neden olan davranışlarının varlığının kanıtlanamadığına ilişkin tespit yerinde ise de; davacı-davalı erkeğe kusur yüklenmesi ve boşanma davasının reddine ilişkin gerekçede, tam kusurlu olduğundan bahisle açtığı boşanma davasının reddine karar verildiğinin belirtilmesi yerinde değildir.
 Sonucu bakımından doğru olan davacı-davalı erkek tarafından açılan boşanma davasının reddi kararının kusur belirlemesine ilişkin gerekçesinin değiştirilmesi suretiyle onanması uygun bulunmuş (HUMK m. 438/son), davalı-davacı kadının tüm, davacı-davalı erkeğin bu yöne ve aşağıdaki bendin dışında kalan yönlere ilişkin temyiz itirazları yerinde görülmemiştir.
 
 ## Yargıtay 2. HD 2015/5863 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/142634400)
+
 Toplanan delillerden davalı-karşı davacı erkeğin eşine ve çocuğuna ilgisiz davrandığı, birlik görevlerini yerine getirmediği, uzun süre eşiyle küs kaldığı, sosyal hayatını engellemeye yönelik baskı yaparak duygusal ve sosyal şiddet uyguladığı anlaşılmaktadır. Boşanma sebebiyle manevi tazminata hükmedebilmek için, tazminat talep eden tarafın kusursuz veya diğer tarafa göre daha az kusurlu olması yanında; boşanmaya sebep olan olayların kişilik haklarını zedelemiş olması da gereklidir (TMK.md. 174/2). Yukarıda belirtildiği gibi davalı-karşı davacı erkek eşin belirlenen kusurları davacı-karşı davalı kadının kişilik haklarına saldırı niteliğindedir. Bu durumda, Türk Medeni Kanununun 174/2. maddesi koşulları kadın yararına gerçekleşmiştir. Öyleyse, davacı-karşı davalı kadının manevi tazminat isteğinin kabulü gerekirken, yazılı şekilde reddine karar verilmesi doğru bulunmamıştır.
 
 ## Yargıtay 2. HD 2015/5721 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/143164400)
 
 Mahkemece "davalı-karşı davacı (kadın) ağır kusurlu" bulunmuş, ve koca lehine manevi tazminata hükmedilmiştir. Oysa davalı-karşı davacı (kadın)'ın sadakat yükümlülüğüne aykırı tutum ve davranışı karşısında, kocanın da eşine fiziki şiddet uyguladığı yapılan soruşturma ve toplanan delillerden anlaşılmaktadır. Gerçekleşen bu duruma göre evlilik birliğinin temelinden sarsılmasına sebep olan olaylarda taraflar aynı oranda kusurlu olup, birini diğerinden baskın kusurlu kabul etmek mümkün bulunmamaktadır. Eşit kusur halinde de tazminata hükmedilemez. Bu bakımdan kocanın manevi tazminat isteğinin reddi gerekirken, yazılı şekilde manevi tazminata hükmedilmesi doğru bulunmamıştır.
 
 ## Yargıtay 2. HD 2015/4150 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/143942700)
+
 Mahkemece, boşanmaya neden olan olaylarda davalı-karşı davacı (koca) ağır kusurlu bulunarak boşanma kararı verilmiş ise de; yapılan tahkikat ve toplanan delillerden, davalı-karşı davacı (koca)'nın eşine hakaret ettiği ve onu aşağıladığı, davacı-karşı davalı (kadın)'ın da eşinin hakaretlerine aynı şekilde karşılık verdiği ve ortak konutun kilidini değiştirerek eşini eve almadığı anlaşılmaktadır. Gerçekleşen bu olaylara göre taraflardan birinin kusurunun diğerinden daha baskın olduğu söylenemez. Boşanmaya neden olan olaylarda tarafların eşit kusurlu olduklarının kabulü gerekir. Eşit kusurlu eş yararına maddi ve manevi tazminata (TMK m. 174/1-2) hükmolunamaz. O halde, davacı-karşı davalı (kadın)'ın maddi ve manevi tazminat isteklerinin reddine karar vermek gerekirken, delillerin takdirinde hataya düşülerek yazılı şekilde kabul kararı verilmesi doğru görülmemiş, bozmayı gerektirmiştir.
 
 ## Yargıtay 2. HD 2015/3344 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/139726400)
 
 Davacı-karşı davalı (koca)’nın, eşinin ailesi ile görüşmesini kısıtladığı ve bağımsız konut temininden kaçındığı, davalı-karşı davacı (kadın)’ın ise, evlendiğine pişman olduğunu, "eskiler unutulmuyor" şeklinde sözler söylediği anlaşılmaktadır. Bu durumda tarafların boşanmaya sebep olan olaylarda eşit derecede kusurlu olduğunun kabulü gerekir. Eşit kusurlu eş yararına maddi ve manevi tazminata hükmedilemez (TMK.md.174/1-2). Durum böyleyken, mahkemece davacı-karşı davalı (koca)’nın daha fazla kusurlu kabul edilmesi ve buna bağlı olarak davalı-karşı davacı (kadın) lehine maddi ve manevi tazminata hükmedilmesi isabetsiz olmuş; bozmayı gerektirmiştir.
 
 ## Yargıtay 2. HD 2015/3043 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/392781900)
+
 Mahkemece davalı-davacı erkek eş ağır kusurlu, davacı-davalı kadın eş daha az kusurlu kabul edilerek, davacı-davalı kadın eşin boşanma davası kabul edilip, davalı-davacı erkek eşin boşanma davası reddedilmiştir. Yapılan soruşturma ve toplanan delillerden, mahkemenin de kabulünde olduğu gibi, davalı-davacı erkek eşin, diğer eşe birden fazla fiziksel şiddet uyguladığı, eşinin çocuk isteğine ilgisiz kaldığı; buna karşılık davacı-davalı kadın eşin de aşırı kıskanç olup, eşine hakaret ettiği anlaşılmaktadır. Gerçekleşen bu olaylar göz önüne alındığında; evlilik birliği temelinden sarsılmıştır. Bu sonucun gerçekleşmesinde her iki taraf da kusurlu olmakla birlikte, eşine göre davalı-davacı erkek eşin daha ağır kusurlu olduğunun kabul edilmesi gerekir. Nitekim, mahkeme de erkek eşi daha ağır kusurlu kabul etmiştir. Her iki taraf da boşanma isteğiyle dava açtığına göre, erkek eşin boşanma davası yönünden Türk Medeni Kanununun 166/2. maddesi koşulları gerçekleşmiştir. O halde, boşanmaya davalı-davacı erkek eşin boşanma davası da kabul edilmek suretiyle karar verilmesi gerekirken, hatalı gerekçeyle reddi isabetsiz olmuş, bozmayı gerektirmiştir.
 
 ## Yargıtay 2. HD 2015/2435 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/397529900)
+
 Mahkemece, tarafların eşit kusurlu oldukları kabul edilerek boşanmalarına karar verilmiştir. Oysa, yapılan soruşturma ve toplanan delillerden; kocanın eşine bağımsız konut temin etmediği, aşırı kıskançlık gösterdiği, eşinin ailesi ile görüşmesini kısıtladığı, buna karşın davacı kadının ise herhangi bir kusurunun ispatlanamadığı anlaşılmaktadır. Gerçekleşen bu duruma göre boşanmaya sebep olan olaylarda tarafların eşit değil, davalı kocanın tam kusurlu olduğunun kabulü gerekir. Bu husus dikkate alınarak davacı kadın yararına Türk Medeni Kanununun 174/1.maddesi gereğince uygun miktarda maddi tazminat takdiri ile boşanma sonucu yoksulluğa düşeceği anlaşılan kadın yararına uygun miktarda yoksulluk nafakası (TMK.md.175) tayini gerekirken, tarafların eşit kusurlu olduğundan bahisle bu isteklerin reddi doğru bulunmamıştır.
 
 ## Yargıtay 2. HD 2015/2205 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/397087400)
 
 Mahkemece, tarafların eşit kusurlu oldukları kabul edilerek boşanmalarına karar verilmiş ise de; yapılan soruşturma ve toplanan delillerden, davacı-karşı davacı (kadın)’ın sık sık eşinin işyerine giderek ona hakaret ettiği, buna karşılık davalı-karşı davacı (koca)’nın ise eşine sürekli fiziksel şiddet uyguladığı, bu eylemi sebebiyle mahkum olduğu, eşine hakaret ettiği, giyim tarzına müdahalede bulunduğu ve hamile kalan eşine çocuğun aldırılması hususunda baskı yaptığı ve bu baskı sonucunda çocuğun aldırıldığı anlaşılmaktadır. Gerçekleşen bu olaylara göre, boşanmaya neden olan olaylarda davalı-karşı davacı (koca)'nın, davacı-karşı davalı (kadın)’a nazaran daha ziyade kusurlu olduğunun kabulü gerekir. Davalı-davacı (koca)'nın bu kusurlu davranışları davacı-karşı davalı (kadın)’ın kişilik haklarına saldırı teşkil eder niteliktedir. Türk Medeni Kanununun 174/1-2. maddesi koşulları davacı-karşı davalı (kadın) yararına oluşmuştur. Durum böyle olduğu halde, davacı-karşı davalı (kadın) yararına, tarafların sosyal ve ekonomik durumları, tazminata esas olan fiilin ağırlığı ile hakkaniyet kuralları (TMK.md.4, TBK.md.
 50,51,52,58) dikkate alınarak uygun miktarda maddi ve manevi tazminata hükmedilmesi gerekirken, tarafların eşit kusurlu kabulü ve bu yanılgılı kusur belirlemesine bağlı olarak tazminat taleplerinin reddi doğru olmayıp, bozmayı gerektirmiştir.
 
 ## Yargıtay 2. HD 2015/807 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/392882900)
+
 Mahkemece davalı-karşı davacı (kadın) tamamen kusurlu kabul edilerek boşanma kararı verilmiş ise de, yapılan soruşturma ve toplanan delillerden; davalı-karşı davacı (kadın)'ın, aşırı kıskanç olduğu, eşine sürekli ağır hakaretlerde bulunduğu ve aşağıladığı, buna karşılık davacı-karşı davalı (koca)'nın da, ortak konutu terk ederek birlik görevlerini yerine getirmekten kaçındığı, ailesinin evlilik birliğine müdahalesine sessiz kaldığı ve eşine “eşyalarını alıp, evden ayrılmasını" söyleyerek müşterek konuttan kovduğu anlaşılmaktadır. Gerçekleşen bu olaylar karşısında evlilik birliğinin temelinden sarsılmasına sebebiyet veren olaylarda davalı-karşı davacı (kadın)'ın ağır kusurlu olduğunun, evlilik birliğinin devamında taraflar bakımından yarar kalmadığının ve Türk Medeni Kanununun 166/1. maddesindeki boşanma koşullarının gerçekleşmiş bulunduğunun kabulü gerekir.
 Hal böyle iken mahkemece davalı-karşı davacı (kadın)'ın tamamen kusurlu kabul edilmesi doğru değil ise de; verilen boşanma kararı sonucu itibariyle doğru olduğundan davalı-karşı davacı (kadın)'ın, boşanma hükmüne yönelik temyiz itirazının reddi ile, hükmün kusura ilişkin gerekçesinin düzeltilmek suretiyle onanmasına karar verilmesi gerekmiş (HUMK m. 438/son) ve davalı-karşı davacı (kadın)'ın aşağıdaki bendin kapsamı dışında kalan temyiz itirazları yerinde görülmemiştir.
 
 ## Yargıtay 2. HD 2015/46 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/401517700)
+
 Mahkemece, taraflar evlilik birliğinin temelinden sarsılmasına neden olan olaylarda eşit derecede kusurlu kabul edilmiş iseler de, Türk Borçlar Kanununun 74. maddesi gereğince, ceza mahkemelerinin beraat kararları hukuk hakimini bağlamaz. Ceza mahkemesindeki adli tıp raporu ve tanık beyanlarından kocanın eşine fiziksel şiddet uyguladığının kabulü gerekir. Davacı-karşı davalı (kadın)'ın aşırı kıskanç davranışlar gösterdiği somut tanık beyanı ile kanıtlanamadığından ve kocanın eşini balta ile tehdit etmesi olayından sonra evlilik birliği uzun süre devam etmiş bulunması nedeniyle hoşgörü ile karşılandığından, bu olaylar kusur tesbitine esas alınamaz.Yapılan soruşturma ve toplanan delillerden, davacı-karşı davalı (kadın)'ın evlilik birliğinin kendisine yüklediği sorumlulukları yerine getirmekten kaçındığı, davalı-karşı davacı (koca)'nın ise eşine fiziksel şiddet uyguladığı ve eşinin annesi ile görüşmesini kısıtladığı anlaşılmaktadır. Gerçekleşen bu olaylara göre boşanmaya neden olan olaylarda davacı-karşı davalı (kadın)'a oranla davalı-karşı davacı (koca)'nın daha fazla kusurlu olduğunun kabulü gerekir.
 Bu bakımdan, mahkemece tarafların eşit kusurlu kabul edilmeleri isabetli değil ise de, davacı-karşı davalı (kadın)'da boşanma davası açtığından, evlilik birliğinin devamında taraflar bakımından korunmaya değer bir yarar kalmamıştır. Az kusurlu olan davacı-karşı davalı (kadın)'ın boşanmaya karşı çıkması hakkın kötüye kullanılması niteliğinde olup, Türk Medeni Kanununun 166/2. maddesi koşulları gerçekleştiğinden, davalı-karşı davacı (koca)'nın boşanma davasının kabulüne karar verilmesi sonucu itibariyle doğrudur. Bu sebeple, davacı karşı davalı (kadın)'ın, davalı-karşı davacı (koca)'nın kabul edilen boşanma davasına yönelik temyiz itirazının reddi ile boşanma hükmünün kusura ilişkin gerekçesi değiştirilerek onanmasına karar verilmiş (HUMK m. 438/son) ve davalı-karşı davacı (koca)'nın tüm, davacı-karşı davalı (kadın)'ın bu yöne ilişkin temyiz itirazları ile aşağıdaki bentlerin kapsamı dışında kalan yönlere ilişkin temyiz temyiz itirazları da yerinde görülmemiştir.
 
 ## Yargıtay 2. HD 2014/26591 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/88167800)
 
 Mahkemece, "evlilik birliğini temelinden sarsan olaylarda koca daha fazla kusurlu" kabul edilerek davalı-karşı davacı (kadın) yararına maddi ve manevi tazminata hükmedilmiştir. Davalı-karşı davacı (kadın)'ın evlendiğinden beri sürekli olarak "ben bu eve ısınamadım, boşanacağım" dediği, kocasına "sen namussuzsun, bana layık değilsin" şeklinde sözler sarf ettiği, annesinin kocasını aşağılayıcı söz ve davranışlarına kayıtsız kaldığı, davacı-karşı davalı (koca)'nın da tartışmaları sırasında eşinin boğazını sıktığı, annesinin evliliğe müdahalesine göz yumduğu ve "annem ne derse o olur" dediği yapılan soruşturma ve toplanan delillerden anlaşılmaktadır. Gerçekleşen bu duruma göre, evlilik birliğinin her iki tarafın kusurlu tutum ve davranışları sonucu temelinden sarsıldığı, taraflardan birini, diğerine göre baskın kusurlu saymanın mümkün bulunmadığı, aynı oranda kusurlu olduklarının kabulü gerekirken, kocanın daha fazla kusurlu kabul edilmesi ve buna bağlı olarak kadın yararına maddi ve manevi tazminata hükmedilmesi isabetsiz olup, bozmayı gerektirmiştir.
