@@ -1,6 +1,6 @@
 # Karar Derlemeleri: kayıt veri kümesi
 
-**English abstract.** 133,954 records from 35 Turkish case-law compilations prepared and shared by attorney Hakan Dimdik (x.com/hakandimdik): one JSON object per cited decision (court heading as written, parsed court / chamber / decision number where present, topic path, and the excerpt chosen by the compiler). The texts are selected excerpts, not full decisions; most headings carry no docket number or date. Rights in the compilations belong to the compiler; attribution is required. Verify every decision in the official sources before relying on it.
+**English abstract.** 133,954 records from 35 Turkish case-law compilations prepared and shared by attorney Hakan Dimdik (x.com/hakandimdik): one JSON object per cited decision (court heading as written, parsed court / chamber / decision number where present, topic path, and the excerpt chosen by the compiler). The texts are selected excerpts, not full decisions; most headings carry no docket number or date. Publication in this repository is with the compiler's permission. Rights in the compilations belong to the compiler; attribution is required. Verify every decision in the official sources before relying on it.
 
 ## Toplamlar
 
@@ -121,7 +121,7 @@ Her satır bir JSON nesnesidir; anahtarlar bu sıradadır. Bir anahtarın adı y
 
 ## Atıf ve haklar
 
-Bu derlemelerden yararlanırken kaynak olarak Av. Hakan Dimdik'i gösterin. Derlemeler üzerindeki haklar derleyene aittir; bu depo içerik üzerinde hak iddia etmez. Derleyenin talebi hâlinde içerik kaldırılır. Önerilen atıf biçimi her kaydın `atif` alanındadır: *Av. Hakan Dimdik, "<derlemenin adı>", X (@hakandimdik), 2026.*
+Bu derlemelerden yararlanırken kaynak olarak Av. Hakan Dimdik'i gösterin. Bu depoda yayımlanmak üzere derlemelerin Markdown ve yapılandırılmış veri biçimlerine dönüştürülmesi ve paylaşılması için Av. Hakan Dimdik'ten izin alınmıştır. Derlemeler üzerindeki haklar derleyene aittir; bu depo içerik üzerinde hak iddia etmez. Derleyenin talebi hâlinde içerik kaldırılır. Önerilen atıf biçimi her kaydın `atif` alanındadır: *Av. Hakan Dimdik, "<derlemenin adı>", X (@hakandimdik), 2026.*
 
 ## Sürüm ve etiket
 
