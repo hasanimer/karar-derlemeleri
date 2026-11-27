@@ -238,19 +238,19 @@
       "kod": "miras",
       "md": "md/miras/",
       "sayfa": 3253,
-      "sha256": "fd849eef2bd67dd505b75f4c7eaceb2265893451133a700206631137c04fd281",
+      "sha256": "b3b7ad8e4821f6515ecdc4cfa047238688dafc681120d4ba6dce5827c3405ea2",
       "surum": "V2"
     },
     {
       "alan": "İcra ve iflas hukuku",
       "baslik": "Takibe İtiraz, İtirazın Kaldırılması ve İtirazın İptaline İlişkin Emsal Kararlar",
-      "bayt": 8678898,
+      "bayt": 8678894,
       "dosya": "kararlar/itiraz.jsonl.gz",
       "kayit": 11158,
       "kod": "itiraz",
       "md": "md/itiraz/",
       "sayfa": 8475,
-      "sha256": "6cef4c53b28fa1d52b221f84092a4c45a529a4b7ca5c3257ce5802d29d3ef101",
+      "sha256": "65346c4cc23935203e8532616997e9027bbf9cb9959e35ead7fda3638dd02487",
       "surum": null
     },
     {

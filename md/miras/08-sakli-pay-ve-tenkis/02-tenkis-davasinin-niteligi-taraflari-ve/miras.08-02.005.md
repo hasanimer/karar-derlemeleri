@@ -114,6 +114,8 @@ Hal böyle olunca;tenkis isteği yönünden gerekli incelemenin yapılması,sonu
 
 ## İstanbul BAM 43. HD 2026/1192 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1217763900)
+
 Dava, taraflar arasındaki bayilik sözleşmesinin süresiden önce haklı nedenle feshi nedeniyle sözleşmede kararlaştırılan cezai şart istemine ilişkindir.
 
 …
@@ -121,6 +123,8 @@ Dava, taraflar arasındaki bayilik sözleşmesinin süresiden önce haklı neden
 6102 sayılı TTK 22. Maddesi gereği; kural olarak tacirler arasında kararlaştırılan cezai şart anlaşmalarındaki cezai şart miktarı, fahiş olduğundan bahisle tenkise tabi tutulamaz, tacir olmayan kişiler arasında hakimin takdiri ile uygulanan indirim, tacirler arasında söz konusu olmaz.
 
 ## İstanbul BAM 12. HD 2026/1154 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1215524800)
 
 TBK'nın 182/3. maddesi "Hâkim, aşırı gördüğü ceza koşulunu kendiliğinden indirir." şeklinde düzenlenmiş olup, cezai şartın tenkisi için basit usul gelir vergisi mükellefi davalının talebine gerek yoktur. Buna göre taraflar arasındaki sözleşme 20/11/2017 tarihli ve 3 yıl süreli olup, davacı davalıya 30/11/2017-22/01/2018 tarihleri arasında toplam 2.739,08-TL'lik mal satmış, davalıya son teslimat 22/01/2018 tarihli faturayla yapılmış ve sonrasında tarafların da kabulünde olduğu üzere sözleşme sona ermiştir. Sözleşmenin uygulandığı süre, davacının davalıya sattığı toplam mal bedeli ve basit usul gelir vergisi mükellefi olan davalı 30/04/2018 tarihinde faaliyetini terk ettiği dikkate alındığında, mahkemece 20.000-TL olan cezai şartın fahiş olduğundan bahisle, tenkisi ile 2.500-TL'ye hükmedilmesinde hata görülmemiştir.
 
@@ -135,6 +139,8 @@ Dava icra takibi nedeniyle borçlu olmadığının tespiti istemine ilişkindir.
 818 sayılı BK'nun 500/1 maddesi "Alacaklı kefaletten dolayı tahakkuk eden borcun temini için kefaletin akdi esnasında tesis yahut sonradan istihsal olunan teminatı kefilin zararına olarak tenkis eder veya elinde bulunan delaili elden çıkarırsa kefile karşı mesul olur" hükmünü içermek olup 6098 sayılı TBK'nun 592/son maddesi ise "Alacaklı, haklı bir sebep olmaksızın yükümlülüklerini yerine getirmez, ağır kusuruyla mevcut belgeleri ve rehinleri ya da sorumlu olduğu diğer güvenceleri elinden çıkarırsa, kefil borcundan kurtulur. Bu durumda kefil, ödediğinin geri verilmesini ve varsa ek zararının giderilmesini isteyebilir." hükmünü içermektedir.
 
 ## İstanbul BAM 53. HD 2026/946 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1217937900)
 
 Tarafların tacir olduğu gözetildiğinde, mahkemece yüklenici lehine hükmedilen cezai şart alacağından 6098 sayılı Türk Borçlar Kanunu'nun 182/3. maddesi uyarınca resen tenkis yapılması doğru olmamıştır. Zira 6102 sayılı Türk Ticaret Kanunu'nun 22. maddesi uyarınca tacirler arasında kararlaştırılan cezai şartın fahiş olduğu gerekçesiyle indirilmesi mümkün değildir.
 

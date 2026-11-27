@@ -39,6 +39,8 @@ Kanun koyucunun yapmadığı bir sınırlama, yorum yoluyla getirilmez.
 
 ## İstanbul BAM 45. HD 2026/656 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1215673900)
+
 Davacı vekili dava dilekçesinde; Taraflar arasındaki 17/03/2015 tarihli hizmet sözleşmesi ile ödeme ve fiyatlandırma planları imzalandığını, davalının bir kısım ödeme yaptığını, ancak 12.636,00 TL bakiye borcunu ödemediğini, bu alacağın tahsili amacı ile davalı aleyhine.... İcra Müdürlüğünün ... esas sayılı takip dosyası ile icra takibi başlattıklarını, davalının takibe haksız itiraz ederek durdurduğunu belirterek itirazın iptalini, takibin kaldığı yerden devamını, 12.636,00 TL alacaklarına takip tarihinden itibaren yasal faiz uygulanmasını, davalı aleyhine %20 icra inkar tazminatına hükmedilmesini , yapılan yargılama giderleri ve vekalet ücretinin davalı üzerine bırakılmasına karar verilmesini talep etmiştir.
 
 …
@@ -54,6 +56,8 @@ Davalı vekili cevap dilekçesinde; Taraflar arasındaki sözleşmeye göre müv
 Davacı vekilinin istinaf başvurusunun 6100 sayılı Hukuk Muhakemeleri Kanununun 353/1.b.l bendi uyarınca ESASTAN REDDİNE …
 
 ## İstanbul BAM 45. HD 2026/652 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1215644600)
 
 Davacı vekili dava dilekçesinde; Taraflar arasında ticari ilişki üzere bulunduğunu, 15.08.2017 tarihinde davacı ile davalı arasında “..." konulu 13.000 TL ve KDV olan 2.340 TL'nin eklenmesi ile birlikte toplam 15.340,00 TL bedelli, ... sıra numaralı fatura düzenlendiğini, davacının faturanın oluşturulmasına müteakip kendi üzerine düşen borcu yerine getirdiğini ve ürünü davalı tarafa teslim ettiğini, davalı tarafın almış olduğu ürüne karşılık borcunun 3.000 TL'sini kısmi ödeme şeklinde davacıya ödediğini, geri kalan kısmı olan 12.340,00 TL davalı taraftan tahsil edilemediğini ve İstanbul .... İcra Müdürlüğü ...
 
@@ -71,6 +75,8 @@ Davalı vekilinin istinaf başvurusunun 6100 sayılı Hukuk Muhakemeleri Kanunun
 
 ## İstanbul BAM 17. HD 2026/650 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1208088000)
+
 Davacı vekili dava dilekçesinde özetle; müvekkili ile davalının 28.12.2015 tarihli "Ortak Sağlık Güvenlik Birimi Hizmet Sözleşmesi" imzaladıklarını, sözleşmeye göre müvekkil şirketin, davalının İş Sağlığı ve Güvenliği Hizmetler Kanunu ve bu Kanun gereği ilgili yönetmeliklere göre çalıştırılması zorunlu olan bir adet A Sınıfı İş sağlığı ve Güvenliği uzmanı temin ettiğini, bu hizmete ilişkin olarak davalıya aylık dönem sonlarında fatura keşide edildiğini ve sözleşme gereği davalının bu fatura bedellerinin bir kısmını ödediğini, ancak tüm bedelleri ödemediği için kalan 16.419,61 TL bakiye alacak nedeniyle 16.03.2017 tarihinde İstanbul Anadolu 18.
 
 …
@@ -86,6 +92,8 @@ Davalı vekili cevap dilekçesinde özetle; davacı ile müvekkili arasında 28.
 İstanbul Anadolu 18. İcra Müdürlüğü'nün ... Esas sayılı icra dosyasının yapılan incelemesinde takibin 16/03/2017 tarihinde başlatıldığı, ödeme emrinin davalı/borçluya 22/03/2017 tarihinde tebliğ edildiği, davalının 27/03/2017 tarihinde takibe itiraz ettiği ve takibin durduğu, itirazın tebliğine dair belgeye rastlanmadığından davanın yasal süresi içerisinde açıldığı anlaşılmıştır …
 
 ## İstanbul BAM 17. HD 2026/642 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1208085700)
 
 Davalı vekili cevap dilekçesinde özetle; taraflar arasındaki sözleşmelerin ilgili maddelerine göre davacı şirket tarafından 2023 yılına ait aylık satış ve stok raporunun sağlanmadığını, satın alınacak ürün miktarına ait her ay sunulacak 12 aylık tahminin verilmediğini, her üç ayda bir hesaplaması ve ödeme yapılması gereken kâr dağılımı ödemelerinin yapılmadığını, davacı şirkete bu yükümlülükleri görüşmelerde ve e-posta yazışmalarında hatırlatıldığı halde olumlu sonuç alınamadığını, davalının sözlü olarak 2023 yılına ait ödeme yapmayacağı beyan ettiğini, bu yükümlülüklerin yerine getirilmesi hususunun davacı şirkete ihtar edildiğini, davacı şirketin ise bu yükümlülüklerden sadece tahminleri ilettiğini, onları da sözleşme hükümlerine aykırı bir şekilde şeklen ilettiğini, diğer aykırılıkları gidermediğini, davacı şirketin 3.000 kutu ilacı salt 2022 taahhütlerini tamamlamak için aldığını, stoklarının olduğunu, şimdilik ihtiyaç duymadıklarını ve gönderilmemesini istediklerini 3.000 kutu ilacı talep ettiklerini, ilgili ilaçların yurt dışından getirildiğini, müvekkilinin alacağının davacının alacağından çok daha fazla olduğunu, taraflar arasındaki sözleşmenin ilgili maddelerine göre
 2022-2026 yılları için hem minimum yıllık satış taahhüdünün hem de yıllık asgari satın alma taahhüdünün kararlaştırıldığını, davacı şirketin 2022 yılının son günü asgari satın alma taahhüdüne uymak için 5000 adet kutudan eksik kalan 3.000 adet kutuyu sipariş verdiğini, ancak ilgili miktarın ithali ve stoklarına alınması işlemini stok var beyanı ile gerçekleştirmediğini, ayrıca 2023 yılı için hiç sipariş verilmediğini, bu döneme ait siparişin sözleşmede belirtilen 6.500 adet kutu üzerinden verilmesi gerektiğini, ancak davacı tarafça sözleşmenin bu hükmüne de uyulmadığını, sözleşmeye göre 2023 için geçerli olan 6.500 adet üzerinden kar payının hesaplanması ve ödenmesi gerektiğini, bu ödemelerin yapılmadığını, müvekkilinin davacı şirkete borçlu olmadığını, aksine sözleşme alım taahhütlerine aykırılık, royalty (kâr payı) alacağı ve sözleşmenin haksız fesih sebebiyle davalıdan alacaklı olduğunu, bu alacaklarının tahsili için İstanbul 16.

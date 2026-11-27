@@ -44,6 +44,8 @@ olarak davalı şirkete verildiği hususunda taraflar arasında uyuşmazlık bul
 
 ## Adana BAM 22. HD 2026/70 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1229952700)
+
 Davalı vekili cevap dilekçesinde özetle; mahkemenin ilgili konişmentoda yer alan yetki şartı nedeniyle davayı görmeye görevli ve yetkili olmadığını, Türk Ticaret Kanunu m.1237/1 uyarınca taşıyan ile konişmento hamili arasındaki hukuki ilişkinin konişmentoya tabi olduğunu, işbu davanın ... numaralı draft konişmentoya dayandırıldığını, bahse konu konişmentodan kaynaklanan bir uyuşmazlık doğması halinde uygulanacak hukukun Çin Hukuku, yetkili mahkemenin de Şangay Deniz Hukuku Mahkemeleri olduğunu, davacı konişmentonun tercümesini yetki şartını kapsayan maddeleri tercüme etmeden sunduğundan dolayı konişmentonun ilk sayfasının tercümesini sunduklarını, yetki şartı uyarınca bahse konu yük senedinden kaynaklanan uyuşmazlıklarda Şangay Deniz Hukuku Mahkemeleri münhasıran yetkili olup Mahkemenin işbu davayı görmeye yetkili olmadığını, yük senedinin ön yüzündeki ve aynı yük senedine uygulanan hüküm ve şartlarındaki maddelerin lafzı ve yukarıda alıntılanmış olan Yargıtay kararları ve doktrin uygulaması gereği yetkisizlik sebebiyle davanın usulden reddine, yargılama giderleri ve vekalet ücretinin davacı taraf yüklenmesine karar verilmesini talep etmiştir.
 
 …

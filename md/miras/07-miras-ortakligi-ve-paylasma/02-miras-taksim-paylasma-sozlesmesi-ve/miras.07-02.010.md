@@ -210,6 +210,8 @@ Hal böyle iken; Yasanın miras ve ortak mülkiyetin korunmasına dair hükümle
 
 ## İstanbul BAM 12. HD 2026/1220 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1219281200)
+
 Dava, davalı şirketin 25/06/2019 tarihli genel kurul toplantısında alınan genel kurul kararlarının yok hükmünde olduğunun tespiti istemine ilişkindir.
 
 …

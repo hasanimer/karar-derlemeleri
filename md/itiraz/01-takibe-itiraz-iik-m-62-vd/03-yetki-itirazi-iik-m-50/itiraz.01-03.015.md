@@ -22,6 +22,8 @@ uyari: "Derleyenin seçtiği alıntılardır; kararın tamamı değildir. Künye
 
 ## İstanbul BAM 45. HD 2026/841 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1216499800)
+
 Davacı vekili dava dilekçesinde; müvekkili şirket nezdinde, inşaat all risk sigorta poliçesi ile sigortalı .... A.Ş.'nin ...Mahallesi...Sokak .../İstanbul adresindeki davalının güvenliğini sağladığı ... Şantiyesinde bulunan malzemelerin 07.10.2017 tarihinde çalındığını, yapılan ekspertiz incelemesi neticesinde hırsızlık sonucu meydana gelen zararın 52.353,12 TL olarak belirlendiğini ve bu miktar zarar gören sigortalıya 23.11.2017 tarihinde ödendiğini, TTK'nın 1472. maddesi uyarınca sigortalının haklarına halef olunduğunu, davaya konu hırsızlık olayının davalının güvenliğini üstlendiği alanda gerçekleştiğinden davalının meydana gelen zarardan sorumlu olduğunu, davalının İstanbul ....
 
 …
@@ -41,6 +43,8 @@ TL işlemiş faiz olmak üzere toplam 54.505,73 TL üzerinden 26.04.2018 tarihin
 
 ## İstanbul BAM 17. HD 2026/715 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1212151600)
+
 İLK DERECE MAHKEMESİ KARARI:Mahkemece; davalıya ait araçlarla herhangi bir geçiş ücreti ödenmeksizin köprü ve otoyolların kullanıldığı, geçiş ücretlerinin ödendiğine dair belge ibraz edilmediği gibi bu yönde iddia da bulunmadığı gerekçesiyle davanın kabulüne, davalının takibe itirazının iptali ile takibin 1.888,05 TL geçiş ücreti, 5.991,40 TL ceza tutarı, 518,89 TL işlemiş faiz ve 93,40 TL KDV olmak üzere toplam 8.491,74 TL üzerinden devamına, 1.698,40 TL icra inkar tazminatının davalıdan tahsiline karar verilmiştir.
 
 …
@@ -54,6 +58,8 @@ TL işlemiş faiz olmak üzere toplam 54.505,73 TL üzerinden 26.04.2018 tarihin
 kuralda belirlilik ilkesine aykırılık bulunmamaktadır..." yönünde karar vermiştir. Bu durumda ihlal sebebiyle davacının, davalıya ayrıca bir bildirim yapmasına gerek bulunmadığı anlaşılmaktadır.Somut olayda, davalılara ait olduğu uyuşmazlık konusu olmayan araçların davacı şirketin işlettiği köprü ve otoyollardan ücretini ödemeden geçiş gerçekleştirdiği, geçiş ücretinin yasal süresinde ödenmediği, davacının ihlal sebebi ile davalıya ayrıca bir bildirim yapmasına gerek bulunmadığı, davalının geçiş ücretini ödediğine dair dosyada bilgi belge bulunmadığı, geçiş esnasında OGS/HGS hesabında yeterli geçiş ücreti bulunmaması halinde, geçiş ücretinin ödemesi gerektiği, ayrıca ihlali izleyen on beş gün içinde geçiş ücretinin usulüne uygun olarak ödenmemesi halinde ceza tutarının da ödenmesi gerektiği, buna göre ihlalli geçiş ücreti ve ceza tutarının ödenmediği anlaşılmakla mahkemece davanın kabulüne karar verilmesi yerindedir. Açıklanan nedenlerle, ilk derece mahkemesi kararında hukuka aykırılık görülmediğinden davalı vekilinin istinaf başvurusunun 6100 sayılı Hukuk Muhakemeleri Kanununun 353/1b-1 bendi gereğince esastan reddine karar verilmesine dair aşağıdaki hüküm kurulmuştur.
 
 ## İstanbul BAM 45. HD 2026/712 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1215666400)
 
 Davacı vekili dava dilekçesinde; Davacının, davalıya İstanbul ... İcra Müdürlüğünün ... esas sayılı dosya ile ... Tünelinden geçen araçlarının ödeme yapmadan geçtiği gerekçesiyle gecikme faizi dahil toplam 13.746,39 TL tutarında ödeme emri gönderdiği, davalının bu borcu kabul etmeyerek 12.07.2018 tarihinde borca itiraz ettiği ve takibin durduğu ileri sürülerek itirazın iptali ile takibin devamına, %20 icra inkar tazminatı ile yargılama giderlerinin davalıya tahmiline karar verilmesi talep ve dava edilmiştir.
 
@@ -72,6 +78,8 @@ Somut olayda, işletmesi davacıya ait ... Tünelinin kullanılmasından kaynakl
 Sözleşmenin ifa yeri de davacının hizmet aldığı ... Tüneli'nin bulunduğu yargı çevresidir. Bu itibarla davacı, seçimlik haklarından TBK'nın 89. Maddesi uyarınca kendi yerleşim yerinin bulunduğu ... İlçesinin yargı alanındaki İstanbul Anadolu İcra Dairesinde usulüne uygun takip başlattığından ve yargılamanın İstanbul Anadolu 13. Asliye Ticaret Mahkemesinde yapılmıştır.
 
 ## İstanbul BAM 45. HD 2026/635 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1215653900)
 
 Davacı vekili dava dilekçesinde; tarafların davacının sahibi olduğu ...televizyon kanalında yayınlanan ...isimli programda davalının tanıtımının/reklamının yayınlanması konusunda anlaştığını, davacının üstüne düşen sorumluluğu yerine getirerek davalı şirketin tanıtımını/reklamlarını eksiksiz olarak yayınladığını, cari hareket raporundan da anlaşılacağı üzere davalının müvekkiline 12.360,00 TL borcu bulunması nedeniyle başlatılan .... İcra Dairesi'nin ...E. sayılı dosyasına davalının haksız itiraz ettiğini, davalının müvekkiline takipten sonra 15.12.2020 .... İcra ...Nolu dosya ödemesi açıklamasıyla 2.500,00 TL ödeme yaptığını beyanla, itirazın iptali ile icra inkar tazminatına karar verilmesini talep etmiştir.
 
@@ -92,6 +100,8 @@ Davalının icra dairesinin ve mahkemenin yetkisine yönelik istinaf sebebi yön
 Davalı vekilinin istinaf başvurusunun 6100 sayılı Kanunun 353/1.b.1 alt bendi uyarınca ESASTAN REDDİNE …
 
 ## İstanbul BAM 17. HD 2026/608 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1208079000)
 
 Davacı vekili dava dilekçesi ile; müvekkili kooperatifin üyesi olan davalının üyelikten ayrıldığını ve ödediği aidatların iadesi için Konya 2. İcra Dairesi'nin ... Esas sayılı dosyasında takip başlattığını, bu takipten sonra davalının aynı sebebe dayalı olarak İstanbul 8.
 
@@ -167,6 +177,8 @@ Bununla birlikte, davacı tarafından davalı aleyhine 3 adet faturaya dayalı 4
 Esas sayılı dosyası ile 48.511,99-TL asıl alacak, 3.844,45-TL işlemiş faiz olmak üzere toplam 52.356,44-TL üzerinden takibe devam edildiği ve ödeme emri gönderildiği, davalı tarafından bu takibe de itiraz edilerek, borcunun 3.872,99-TL olduğu ve bu borcun yetkisiz icra dosyasına ödendiğinin beyan edildiği, davacı tarafından 48.511,99-TL asıl alacak üzerinden itirazın iptali davası açıldığı ve bu tutar üzerinden davanın kabulüyle takibin devamına karar verildiği anlaşılmış olup, davacı tarafından başlatılan icra takibinde, davalı tarafından 3.872,99-TL'sine itiraz edilmediği ve bu tutar ile ferilerinin ödendiği, takipteki tutarın 44.639,00-TL'sine itiraz edildiği anlaşıldığından, ilk derece mahkemesince davanın 44.639,00-TL üzerinden kısmen kabulüne, takibin 44.639,00-TL üzerinden devamına, 3.872,99-TL'lik kısım yönünden itiraz bulunmadığından bu tutar yönünden davanın hukuki yarar yokluğu nedeniyle reddine karar verilmesi gerekirken, takibin aynen devamına karar verilmesinde isabet bulunmamaktadır.
 
 ## İstanbul BAM 14. HD 2026/478 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1202636200)
 
 Söz konusu taşımaya dair düzenlenen 14.08.2024 tarihli taşımacılık giderlerine ait iade faturasında davalı şirket adresi .......'dır. İcra dairesinin yetkisi İİK'nın 50. maddesinde düzenlenmiş olup, HMK'daki mahkemelerin yetkisini düzenleyen hükümler çerçevesinde, ön sorun (hadise) şeklinde incelenip karara bağlanması gerekir. İcra müdürlüğünün yetkisine vaki itirazın haklı olduğu sonucuna varılması hâlinde, mahkemece, davanın, dava şartı yokluğu nedeniyle usulden reddine karar verilmesi gerekecektir. Çünkü itirazın iptali davalarında, icra dairesinin yetkisine itiraz hâlinde, yetkili icra dairesince ödeme emri tebliğ edilmiş olması, HMK'nın 114/2.anlamında özel dava koşuludur (HGK’nın 28.03.2001 gün ve 2001/19-267 E. 2001/311 K.; 20.03.2002 gün ve 2002/13-241 E.,2002/208 K. ).HMK'nın 6. maddesine göre, genel yetkili mahkeme, davalı gerçek veya tüzel kişinin davanın açıldığı tarihteki yerleşim yeri mahkemesidir. Aynı Yasa'nın “Sözleşmelerden doğan davalarda yetki” başlıklı 10. maddesinde ise sözleşmeden doğan davaların, sözleşmenin ifa edileceği yer mahkemesinde de açılabileceği hüküm altına alınmıştır.
 Davanın açıldığı tarihte yürürlükte bulunan TBK'nın 89. maddesinde borcun ifa edileceği yer düzenlenmiştir. Maddenin 1. fıkrası gereğince para borçlarının alacaklının ödeme zamanındaki yerleşim yerinde ifa edileceği hususlarına yer verilmiştir. Davacı şirketin ticari merkezi .........'dur. Beykoz Adli yargı çevresi içerisindedir. Davacı icra takibini .......İcra Müdürlüğünde başlatmıştır. Davalı şirketin ticari merkezi ise ...........'dır. Davacı vekili, davalı şirketin Büyükçekmece'de şubesi bulunduğunu, tüm yazışmaların Büyükçekmece'deki şube ile yapıldığını bu nedenle icra takibinin yetkili yer icra dairesinde başlatıldığı iddia edilmiştir. HMK'nın 14.maddesinin 1. fıkrasında, bir şubenin işlemlerinden doğan davalarda o şubenin bulunduğu yer mahkemesininde yetkili olacağı düzenlenmiştir. Ne var ki uyuşmazlık konusu fatura alacağına dair talep şubenin işlemi ile ilgili olmayıp davacı şirkete ilişkindir. Bu nedenle mahkemece yetkili yer icra dairesine başlatılmayan takip nedeni ile davanın usulden reddine dair verilen kararda bir isabetsizlik görülmemiştir.

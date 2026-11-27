@@ -242,6 +242,8 @@ Terekenin borca batık olması sebebiyle mirasın hükmen reddine ilişkin davan
 
 ## Ankara BAM 21. HD 2026/1198 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1231666400)
+
 …
 
 şeklinde hüküm bulunduğunu, mahkemece bu hüküm gereğince mirası reddettiklerini iddia eden mirasçıların mirası kabul anlamına gelecek işlemler yapıp yapmadığının detaylı olarak araştırılması gerekirken böyle bir araştırma yapılmadığını belirterek ilk derece mahkemesi kararının ... ve ... mirasçıları hakkında husumete ilişkin dava şartı yokluğu nedeniyle usulden ret ve bu mirasçılar lehine verilen vekalet ücretine dair kısım yönünden kaldırılmasına, davanın kabulüne karar verilmesini istemiştir.

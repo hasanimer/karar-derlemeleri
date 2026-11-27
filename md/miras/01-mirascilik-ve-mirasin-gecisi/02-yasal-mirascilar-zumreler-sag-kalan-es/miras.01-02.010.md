@@ -123,6 +123,8 @@ Türk Medeni Kanununun 612. maddesi gereğince en yakın yasal mirasçıların t
 
 ## Ankara BAM 24. HD 2026/1014 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1215888000)
+
 Mirası reddeden atanmış mirasçının payı, mirasbırakanın ölüme bağlı tasarrufundan arzusunun başka türlü olduğu anlaşılmadıkça, mirasbırakanın en yakın yasal mirasçılarına kalır” şeklinde düzenlenmiştir.
 
 Görüldüğü üzere kural olarak yasal mirasçılardan biri mirası reddederse reddeden mirasçı miras bırakandan önce ölmüş gibi değerlendirme yapılır. Onun payı miras açıldığı zaman kendisi sağ değilmiş gibi diğer hak sahiplerine geçer. TMK'nın 611. maddesi belirtildiği üzere, mirasın mirasçılardan biri tarafından reddi halinde mirası reddeden mirasçının payı, miras bırakanın ölümünde hayatta değilmiş gibi diğer mirasçılara intikal eder. Yasal mirasçılardan biri mirası reddederse. Onun payı miras açıldığı zaman kendisi sağ değilmiş gibi varsa alt soyuna, yoksa diğer mirasçılara geçer.

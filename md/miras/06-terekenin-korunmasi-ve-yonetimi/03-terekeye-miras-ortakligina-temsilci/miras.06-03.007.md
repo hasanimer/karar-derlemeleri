@@ -22,12 +22,16 @@ uyari: "Derleyenin seçtiği alıntılardır; kararın tamamı değildir. Künye
 
 ## Kayseri BAM 3. HD 2026/1125 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1216855700)
+
 Taraf teşkili kamu düzeninden olup, mahkemece resen dikkate alınır. Mahkemece, yargılama sırasında taraflardan birisinin vefat ettiğinin anlaşılması halinde, vefat eden taraf davalı ise mirasçılarının tespit edilip, davaya dahil edilmesinin sağlanması; vefat eden davacı taraf ise yine mirasçılarının tespit edilmesi ve davaya aslen ya da vekaleten takibinin sağlanması, mirasçılar davayı takip etmedikleri takdirde davacı vekiline terekeye temsilci tayin edilmek için dava açma hususunda yetki verilmesi, terekeye temsilci tayin edilmesi halinde ise vekilden terekeyi temsilen yeni vekaletname istenilmek suretiyle taraf teşkilinin sağlanması gerekir.
 
 Somut olayda, destek ...'nun annesi davacı ...'nun yargılama devam ederken, 03/10/2024 tarihinde vefat ettiği, mahkemece davacı ...'nun yargılama sırasında vefat etmiş olduğu tespit edilmemesi suretiyle, davacı ...'nun mirasçılarının davaya dahil edilmeden yargılamanın devam ettiği ve davacı ...'nun vefatından sonra 20/12/2024 tarihinde hüküm kurulduğu anlaşılmakla; mahkemece davacı vekilinden davacı ...'nun mirasçıları ve miras paylarını gösterir mirasçılık belgesinin istenmesi, dosya içerisinde davacı ...'nun taraf olmayan mirasçıları ... TC.Kimlik numaralı ..., ... TC.Kimlik numaralı ..., ... TC.Kimlik numaralı ..., ... TC.Kimlik numaralı ...ve ...
 TC.Kimlik numaralı ...'nun davayı aslen ya da vekaleten takibinin sağlanması, ya da davacı ... yönünden destekten yoksun kalma tazminatı ve manevi tazminat davasının eldeki davadan tefrikinin sağlanması ya da davacı ...'nun terekesine temsilci tayin edilmesi suretiyle taraf teşkilinin sağlanması gerekirken, yazılı şekilde taraf teşkili sağlanmaksızın davanın esası hakkında hüküm kurulmuş olması doğru görülmemiş olup, ilk derece mahkemesi kararının HMK'nın 353/1-a/4 ve 6.maddeleri gereğince kalıdırılarak, yeniden hüküm kurulmak üzere dosyanın ilk derece mahkemesine gönderilmesi gerektiği tespit edilmiştir.
 
 ## İstanbul BAM 13. HD 2026/695 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1209144800)
 
 Dava; davalı şirketin 29/04/2019 tarihinde yapılan 2018 yılına ilişkin olağan genel kurul toplantısında alınan gündemin 2, 3 ve 4 numaralı kararlarının yoklukla malul olduklarının tespitine, aksi halde söz konusu kararların iptaline karar verilmesi istemine ilişkindir.
 

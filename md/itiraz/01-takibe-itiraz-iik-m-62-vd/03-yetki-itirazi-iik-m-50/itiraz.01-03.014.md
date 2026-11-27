@@ -22,6 +22,8 @@ uyari: "Derleyenin seçtiği alıntılardır; kararın tamamı değildir. Künye
 
 ## İstanbul BAM 14. HD 2026/1290 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1221360800)
+
 Davacı vekili dava dilekçesinde özetle; müvekkili bankanın ... Şubesi ile dava dışı kredili müşterisi .... Şti. lehine kredi kullandırıldığını, davalı; ...' e dava konusu kredi için müteselsil kefil olarak sorumluluk yüklendiğini, borcun ödenmemesi üzerine kredi hesabınım kat edildiğini ve borcun ödenmesi hususlarını içerir Beyoğlu ...Noterliğinin 15.01.2018 tarih ve ... yevmiye sayılı ihtarnamesi keşide edilerek borçluya gönderildiğini, ancak borcun ödenmediğini, bunun üzerine banka alacağının tahsil edilememesi sebebiyle, davalı borçlu hakkında, Karadeniz Ereğli 1.
 
 …
@@ -42,6 +44,8 @@ HMK'nın 353/1.b.1. maddesi uyarınca, davalı vekilinin istinaf başvurusunun e
 
 ## İstanbul BAM 3. HD 2026/1070 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1206928600)
+
 Davacı vekili dava dilekçesinde özetle; davalı şirket hakkında, ...
 
 …
@@ -60,6 +64,8 @@ Dava, itirazın iptali talebine ilişkindir.
 
 ## İstanbul BAM 14. HD 2026/1044 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1218422700)
+
 Davacı vekili dava dilekçesinde özetle; davacının davalıya deniz taşımacılığı hizmeti verdiğini, davacının uluslararası deniz ve kara taşımacılığı işi ile iştigal eden Hollanda merkezli bir firma olduğunu, davalının bir kısım sıvı malzemelerin Türkiye'deki çeşitli limanlardan gemiye yüklenmesi ve malların Amerika'da belirtilen adreslere kapıya kadar teslim edilmesi hususunda davacıdan ücrete dair teklif talep edildiğini, davacı tarafından davalıya bir konteynerin taşıma ücreti olarak 3.500 Euro teklif edildiğini, davalının 40 konteynerin taşınması halinde davacıdan indirim talep ettiğini, davacı tarafından 40 konteynerin taşınması halinde bir konteynerin taşıma ücretinin 3.400 Euro olacağına dair teklifini davalıya e-posta yoluyla bildirdiğini, davalı tarafından 23 konteynerin taşıma işinin davacı şirkete verildiğini, davacının davalı ile anlaştığı üzere 23 adet konteynerin ... isimli firmaya teslim edilmesi için üzerine düşen sorumluluğu yerine getirdiğini, deniz yolu ile yükleri Amerika/... limanına taşıdığını, oradan alıcının adresine kara yolu ile taşıma işini ifa ettiğini, davadışı alıcı firmanın ... konteynerlerin 6 tanesini kabul ettiğini, 17 tanesini ise yüklerin
 istedikleri özellikleri taşımadığı gerekçesi ile reddettiğini, 17 adet konteynerin tesliminin reddedilmesinin davacıdan kaynaklanmayan nedenler olduğunu, davacıya atfedilebilecek bir kusur olmadığını, alıcı firmanın 17 adet konteyneri teslim almayı reddetmesi üzerine davacının davalı ile görüştüğünü, davalının malların bir süre bekletilmesini ve yeni sevk adreslerini davacıya bildireceğini bu taşıma adreslere taşıma hizmetinin yine davacıdan talep edileceğini ifade ettiğini, alıcı tarafından kabul edilmeyen 17 adet konteynerin konteyner içi işgaliye bedelleri Amerika'da uygun bir depoya taşınması, depoya yüklenmesi ve depo kiralama ücretleri gibi ek masraflar doğduğunu, masrafların taşıtan borçlu tarafından ödenmesi gerektiğini, dava konusu alacakların bir kısmının bu masraflara ilişkin olduğunu, alıcı firmanın konteynerlerin teslimini almak için bir kısım ek masraflar çıkardığını, konteynerdeki yüklerin ısıtılması, pompalanması, teslime kadarki süreçteki depolama masrafı ve muhtelif masraflar gibi ek masraflar doğduğunu, bu masrafların davalı tarafından ödenmesi gerektiğini, dava konusu alacakların bir kısmının bu masraflara ilişkin olduğunu, davadışı alıcı firma tarafından
 teslimi reddedilen 17 adet konteynerin davalının talebiyle Amerika'da bir depoda bekletildiğini, davalı tarafından 10 tane konteynerin İtalya'ya, 3 tane konteynerin Hollanda'ya, 4 adet konteynerin ise İspanya'ya taşınmasının davacıdan talep edildiğini, davacı, davalının talebini yerine getirdiğini, İtalya'ya gönderilen konteynerlerin yasal süresi içinde alıcı tarafından limandan alınmadığını, bu nedenle davacının limana konteyner içi işgali bedeli ödeme zorunda kaldığını, dava konusu alacakların bir kısmının da bu taşımalara ilişkin olduğunu, davalının borçlarını davacıya ödemediğini, davacı tarafından alacağın tahsili amaçlı olarak davalı aleyhinde Büyükçekmece 2.
@@ -76,10 +82,14 @@ HMK'nın 353/1.b.1. maddesi uyarınca, davacı ve davalı vekillerinin istinaf b
 
 ## İstanbul BAM 17. HD 2026/1020 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1219590500)
+
 Buna göre takipte 2004 sayılı İİK'nın 50. maddesi yollanması ile HMK'nın 6. maddesi gereğince borçlunun ikametgahındaki icra daireleri ile birlikte BK'nın 89.maddesi gereğince alacaklının ifa zamanındaki yerleşim yeri icra dairelerinin yetkili bulunduğu, yetkinin kesin nitelikte olmadığı anlaşılmaktadır. Kanunda yetkinin kesin olarak belirlenmediği hallerde 6100 sayılı HMK'nın 17. maddesi gereğince tarafların yetki sözleşmesi yapmaları mümkündür. Davalı tarafça inkar olunmayan sözleşmenin 19. maddesinde İstanbul İcra Daireleri ve Mahkemelerinin yetkili kılındığı açıkça belirtilmiştir. Anılan maddede aksine bir hüküm bulunmadığından yetki şartında gösterilen icra dairesi münhasır yetkili icra dairesi olarak belirlenmiştir. Sözleşmenin tarafları tacir olduğundan anılan yetki şartı HMK'nun 17. Maddesi hükmüne uygun olup geçerlidir.İtirazın iptali davalarında usulüne uygun bir icra takibinin bulunması dava şartıdır.
 Davalının icra takibine süresinde sunduğu yetki itirazında, taraflar arasında imzalanan sözleşmenin 19.maddesi gereğince İstanbul Mahkemeleri ve İcra daireleri yetkili olduğundan bahisle İstanbul Anadolu İcra Dairesinin yetkisine itiraz ettiği, davalının yetki itirazının süresinde ve usulüne uygun olduğu, bu nedenle icra takibinin yetki sözleşmesinde kararlaştırılan İstanbul Mahkemelerinde başlatılması gerekirken yetkisiz İstanbul Anadolu İcra Dairesinde başlatıldığı, buna göre yetkili icra dairesinde yapılmış geçerli bir takip bulunmadığı anlaşılmakla mahkemenin bu yöne ilişkin gerekçesinde bir isabetsizlik yoktur.Öte yandan, HMK'nın yetkiyi düzenleyen maddelerinde kesin yetki halleri açıkça belirtilmiştir. HMK'nın 18/1. maddesi uyarınca, yetki sözleşmesi de ancak kesin yetki bulunmayan hallerde yapılabilir.
 
 ## İstanbul BAM 45. HD 2026/974 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1219240800)
 
 Davalı vekili cevap dilekçesinde özetle; müvekkili şirketin merkezi İstanbul ... olduğunu, İİK. 50.
 
@@ -125,10 +135,14 @@ Yukarıda açıklandığı üzere, HMK'nın yetki konusundaki bu hükümleri, İ
 
 ## İstanbul BAM 12. HD 2026/961 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1210197200)
+
 Davacı tarafından 27/08/2024 tarihinde yetkisiz icra dairesinde başlatılan icra takibine davalının aynı gün itiraz ettiği, icra takibinde talep edilen asıl alacak ertesi günü 28/08/2024 tarihinde yatırılmış akabinde alacaklı davacı tarafça icra dairesinin yetkisine itirazı kabul edilerek icra dosyası yetkili yere gönderilmiş;davalı tarafından yeniden gönderilen ödeme emrine itiraz üzerine dava değeri 1.000-TL gösterilerek itirazın iptali istenilmiştir.Dava dilekçesine bakıldığında , davacı tarafça dava değeri olarak takip tutarı gösterilmemiş, başlatılan takipte istenilen alacak belirtildikten sonra yapılan ödeme bildirilerek; davalının ödemediği alacak kalemleri ayrı ayrı gösterilerek bu miktarın bilirkişiler tarafından hesaplanarak, miktar hesaplandığında dava değerinin ıslah edileceği belirtilmiştir. Davacının talebi TBK 100 madde uyarınca hesaplama yapılmasına ilişkindir. Davalı vekilinin fazla miktar için açılan davanın reddi gerektiği ve davalı lehine vekalet ücreti takdir edilmesi gerektiğine ilişkin istinaf nedeni yerinde değildir.
 Ayrıca; yetkisiz icra dairesinde başlatılan takip tarihinin tüm hesaplamalarda esas alınması gerekli olup, yetkili yerde yeniden gönderilen ödeme emri …
 
 ## İstanbul BAM 14. HD 2026/940 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1210044200)
 
 Usul hukuku kuralları çerçevesinde isabetli olmamakla beraber dosyanın içeriği gereğince sonuca etkili görülmemiştir. Diğer taraftan, 6100 sayılı Kanun'un yetki sözleşmesi başlıklı 17 nci maddesine göre ise tacirler veya kamu tüzel kişileri, aralarında doğmuş veya doğabilecek bir uyuşmazlık hakkında, bir veya birden fazla mahkemeyi sözleşmeyle yetkili kılabilirler. Taraflarca aksi kararlaştırılmadıkça dava sadece sözleşmeyle belirlenen bu mahkemelerde açılır. Somut olayda, taraflar arasında imzalanan genel kredi sözleşmesinin 57. maddesinde yetkili mahkemenin ve icra dairelerinin, İstanbul Merkez mahkemeleri ve İstanbul Merkez icra müdürlükleri olduğu hükme bağlanarak yetki sözleşmesi yapılmışsa da bu yetki sözleşmesi ancak davalı gerçek kişinin tacir olması durumunda hüküm ifade edebilecektir. Bu durumda davalının tacir sıfatının bulunup bulunmadığının öncelikle incelenmesi gerekir. 6102 sayılı Kanun'un 14. maddesine göre bir ticari işletmeyi kısmen dahi olsa kendi adına işleten kimseye tacir denir.
 Aynı Kanun'un 17. maddesine göre ise iktisadi faaliyeti nakdi sermayesinden ziyade bedeni çalışmasına dayanan ve kazancı ancak geçimini sağlamaya yetecek derecede az olan sanat ve ticaret sahipleri tacir değildir. Serbest muhasebeci veya mali müşavirler, teknik bilgi ve uzmanlığa dayalı olarak hizmet verdikleri ve bir ticari işletme işletmedikleri için, kural olarak tacir sıfatına sahip değillerdir. Nitekim 3568 sayılı "Serbest Muhasebeci Mali Müşavirlik ve Yeminli Mali Müşavirlik Kanunu"nun 45. Maddesinde açıkça serbest muhasebecilerin ticari faaliyette bulunamayacağı, yine "Serbest Muhasebeci Mali Müşavir ve Yeminli Mali Müşavirlerin Çalışma Usul ve Esasları Hakkında Yönetmelik"in 43. Maddesinde açıkça meslek mensuplarının Türk Ticaret Kanununa göre tacir veya esnaf sayılmalarını gerektirecek bir faaliyette bulunamayacakları hüküm altına alınmıştır. Somut olayda davalı gerçek kişi, genel kredi sözleşmesini "serbest muhasebeci" sıfatıyla imzalamıştır.
@@ -142,6 +156,8 @@ Sonuç olarak itirazın iptali davasının esasının incelenmesi uygun görülm
 HMK'nın 353/1.a.6 maddesi uyarınca, ilk derece mahkemesinin istinafa konu kararının kaldırılmasına …
 
 ## İstanbul BAM 14. HD 2026/923 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1216698800)
 
 Davacı vekili dava dilekçesinde özetle; müvekkili firma tarafından davalı şirkete cari hesap ilişkisi çerçevesinde sevk irsaliyelerinde ve faturalarda yer alan malların satışına dair anlaşma yapıldığını, malların tesliminin gerçekleştirildiğini, cari hesap ilişkisi çerçevesinde faturalardan kaynaklanan 22.633,75 TL'nin müvekkil firmaya ödenmediğini, bu sebeple alacağın tahsili amacı ile İstanbul 11. İcra Müdürlüğünün ... sayılı dosyasından icra takibinin başlatıldığını, davalının faturalara herhangi bir itirazda bulunmadığını, bakiye alacak için ödeme yapmadığını, takibe ve yetkiye itiraz ettiklerini, bunun ardından taraflarınca açılan itirazın iptali davası neticesinde İstanbul 14.
 
@@ -180,6 +196,8 @@ Yetkili icra dairesinde takip yapılması itirazın iptali davasının koşullar
 İlk derece mahkemesi olan Denizli 1. Asliye Ticaret Mahkemesinin ... Esas - ... Karar sayılı, 16/02/2024 tarihli kararının 6100 Sayılı HMK'nın 353/1 fıkra (a-4) bendi gereğince ESASI İNCELENMEDEN KALDIRILMASINA …
 
 ## İstanbul BAM 16. HD 2026/869 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1217935900)
 
 Dava itirazın iptali davası olup, yetkili icra dairesinde başlatılmış geçerli bir icra takibinin bulunması itirazın iptali davasının ön şartı niteliğindedir. Bu nedenle, mahkemenin yetkisine itiraz edilmiş olsun veya olmasın, mahkeme öncelikle icra dairesinin yetkisine yönelik itirazı inceleyerek kesin olarak sonuçlandırması, eksiklik bulunmadığının tespiti halinde sair itirazlar yönünden inceleme yapılması gerekir. Bu kapsamda somut ihtilafta, davalı borçlular tarafından icra müdürülüğünün yetkisine yönelik itirazda bulunulmasına karşın, mahkemesince itiraza karşı olumlu veya olumsuz bir karar verilmemesi usul hukuku kuralları çerçevesinde isabetli olmadığından, kamu düzenine aykırılık nedeniyle kararın re'sen kaldırılması gerekmiş ve inceleme Dairemizce yapılmıştır.Dairemizce bu hususta yapılan incelemede; Her ne kadar davalı borçlular tarafından;yetkili icra dairesinin Büyükçekmece İcra Müdürlüğü olduğu gerekçesi ile yetki itirazında bulundukları görülmüş ise de; İcra takip borçlularından dava dışı ".... Şti." adresinin Beyoğlu/İstanbul olduğu, dava dışı takip borçlusu yönünden icra müdürlüğünün yetkisine yönelik itirazda bulunulmadığı anlaşıldığından, 6100 sayılı HMK 7/1.
 Maddesine göre davalıların icra müdürlüğünün yetkisine yapılan itirazlarının reddine karar verilmiştir.

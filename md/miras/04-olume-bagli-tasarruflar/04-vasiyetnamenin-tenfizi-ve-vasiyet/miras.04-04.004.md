@@ -260,6 +260,8 @@ Vasiyetname , muayyen mal vasiyeti niteliğindedir.( TKM. md. 464) Muayyen mal v
 
 ## İstanbul BAM 13. HD 2026/695 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1209144800)
+
 Dava; davalı şirketin 29/04/2019 tarihinde yapılan 2018 yılına ilişkin olağan genel kurul toplantısında alınan gündemin 2, 3 ve 4 numaralı kararlarının yoklukla malul olduklarının tespitine, aksi halde söz konusu kararların iptaline karar verilmesi istemine ilişkindir.
 
 …

@@ -176,6 +176,8 @@ SONUÇ:Yukarıda (1) sayılı bentte açıklanan nedenle davacının diğer temy
 
 ## Kayseri BAM 6. HD 2026/2135 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1235123800)
+
 İLK DERECE MAHKEMESİ KARARININ ÖZETİ: İlk derece mahkemesi tarafından yapılan yargılama sonucunda;"Yapılan yargılama, toplanan deliller, alınan bilirkişi raporları ve tüm dosya kapsamına göre; davacı ... ...Ltd.Şti tarafından davalı ... ..Ltd.Şti aleyhine Kayseri Genel İcra Dairesi'nin ...
 
 …
@@ -196,6 +198,8 @@ Kayseri 1. Asliye Ticaret Mahkemesi 'nin 2022/201 Esas 2026/578 sayılı kararı
 
 ## İstanbul BAM 3. HD 2026/2072 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1217159200)
+
 Davacı ... vekili dava dilekçesinde özetle; davalı aleyhine İstanbul 29. İcra Dairesi ...
 
 …
@@ -213,6 +217,8 @@ TTK'nın "ihtiyati haczi tamamlayan işlemler" başlıklı 1376. maddesine göre
 Eldeki dosyada borçlunun borca 06/01/2026 tarihinde itiraz ettiği, borca itirazın alacaklığı 12/01/2026 tarihinde tebliğ edildiği eldeki davanın ise 12/03/2026 tarihinde açıldığı anlaşılmıştır. Dolayısıyla TTK 1376 maddesindeki yasal düzenleme ile İİK 264/2 maddesindeki yasal düzenlemelere göre .... Asliye Ticaret Mahkemesi'nin ...D.İş E....K. Sayılı dosyası ile konulan ihtiyati haczin geldiği aşamaya göre iş bu dosyada talep edilen ihtiyati haczin yeni bir ihtiyati haciz talebi olup, mahkemenin yetkili ve görevli olduğu, mahkemenin bu yöndeki karar ve gerekçesinin yerinde olduğu ;
 
 ## İstanbul BAM 19. HD 2026/1628 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1217342800)
 
 Davacı vekili dava dilekçesinde özetle; Taraflar arasında 14.07.2020 tarihli Uluslararası Öğrenci Gönderim ve Ortaklık Sözleşmesi imzalandığını, sözleşme gereği müvekkilinin, davalının işbirliği içinde olduğu Türkiye’deki üniversiteler ile ilgili yurtdışında tanıtım ve reklam çalışmaları yapacağını, kayıt edilen her öğrenci için davalı tarafından müvekkiline belli oranda komisyon ödeneceğini, bu şekilde anlaşma devam ederken müvekkilinin hak ettiği komisyon bedelinin davalı tarafından ödenmediğini, bu amaçla 36.900,00 USD + KDV için 24.12.2024 tarihli faturanın keşide edildiğini, ancak davalının faturaya itiraz ettiğini, alacağın tahsili için İstanbul 4.
 

@@ -122,6 +122,8 @@ Miras bırakanın ölümü ile hak ve borçları halefiyet suretiyle mirasçıla
 
 ## İstanbul BAM 12. HD 2026/1220 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1219281200)
+
 Dava, davalı şirketin 25/06/2019 tarihli genel kurul toplantısında alınan genel kurul kararlarının yok hükmünde olduğunun tespiti istemine ilişkindir.
 
 …
@@ -138,6 +140,8 @@ Bilindiği üzere ortağın ölümü ile pay mirasçılara iştirak halinde mül
 Bu nedenle de satın alma önerisini değerlendirme yetkisi miras şirketine ait olmakla irade beyanının da şirket tarafından miras şirketine yöneltilmesi gerekir. Somut olayda şirket henüz sona ermemiş bir iştirak hali mevcut iken miras şirketini oluşturan mirasçılardan sadece davacıya öneride bulunarak bu kuralı ihlal ettiğinden, yaptığı öneri geçersiz bir öneridir.
 
 ## İstanbul BAM 45. HD 2026/409 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1204731100)
 
 Bununla beraber hâkim, gecikmesinde sakınca bulunan hâllerde, talep üzerine davayı takip için kayyım atanmasına karar verebilir.” hükmünü haiz olup anılan maddenin uygulanabilmesi için dava konusunun ölen tarafın varislerine miras yoluyla intikali mümkün malvarlığına ilişkin olması gerekir. Eş söyleyişle; dava konusunun sadece ölen tarafı ilgilendirdiği, miras yoluyla intikali mümkün olmayan bir hakka ilişkin olduğu hâllerde taraflardan birinin ölümü sonrasında mirasçılarla davaya devam edilemeyeceğinden 6100 sayılı Kanun'un 55. maddesi uygulama alanı bulmaz (Kuru: s. 907, 914; Pekcanıtez, Hakan/Özekes Muhammet/Akkan, Mine/Korkmaz, Hülya Taş: Pekcanıtez Usul Medeni Usul Hukuku C. I, İstanbul 2017, s. 578). 4721 sayılı Türk Medeni Kanunu'nun “Miras ortaklığı” başlıklı 640. maddesinde “Birden çok mirasçı bulunması halinde, mirasın geçmesiyle birlikte paylaşmaya kadar, mirasçılar arasında terekedeki bütün hak ve borçları kapsayan bir ortaklık meydana gelir.
 Mirasçılar terekeye elbirliğiyle sahip olurlar ve sözleşme veya kanundan doğan temsil ya da yönetim yetkisi saklı kalmak üzere, terekeye ait bütün haklar üzerinde birlikte tasarruf ederler.Mirasçılardan birinin istemi üzerine sulh mahkemesi, miras ortaklığına paylaşmaya kadar bir temsilci atayabilir.

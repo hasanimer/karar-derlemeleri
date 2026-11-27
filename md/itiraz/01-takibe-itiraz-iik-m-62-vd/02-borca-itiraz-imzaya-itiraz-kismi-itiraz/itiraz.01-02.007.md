@@ -22,6 +22,8 @@ uyari: "Derleyenin seçtiği alıntılardır; kararın tamamı değildir. Künye
 
 ## Ankara BAM 26. HD 2026/1610 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1235628000)
+
 Davacı vekili dava dilekçesinde; 05.02.2020 tarihinde uluslararası taşımacılık işi ile uğraşmakta olan davalı şirkete ait ... plakalı çekici/ römork ile Avusturya'da trafik kazasına sebebiyet verdiğini, kaza sonucu ortaya çıkan zarar ve ziyanın Avusturya Yeşil Kart ... tarafından davacıya ihbar edildiğini ve ... plakalı çekici/ römork'un, oluşan bina/çevre hasarının ödenmesi için davacıdan talepte bulunulması üzerine bürolarınca, kazanın meydana gelmesinde davalı araç sürücüsünün tam kusurlu olması nedeniyle 27.760,84 Euro olarak hasar bedelinin zarar görene ödendiğini, ancak kaza anında davalıya ait aracın yeşil kart sigortası olmadığını, kaza saatinden sonra sigortanın yapıldığı anlaşıldığından davalıya rücu haklarının olduğunu, yapılan ödemenin rücuen tahsili için Eskişehir 8.
 
 …
@@ -43,6 +45,8 @@ Hukuk Dairesinin görüşü çerçevesinde ve Yargıtay Hukuk Genel Kurulu karar
 
 ## İstanbul BAM 3. HD 2026/1318 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1209859300)
+
 Davacı vekili dava dilekçesinde özetle ;davalı borçlunun kullanımında bulunan ... hizmet numaralı adreste 04/03/2025 tarihinde yapılan kontrolde kaçak elektrik kullanımının tespit edildiğini, davalı adına kaçak elektrik kullanım tespit tutanağı tanzim edildiğini, davalı adına 195.324,97-TL tutarında kaçak elektrik tüketim faturası tahakkuk ettirildiğini, tüm bu nedenlerle, öncelikle davalı borçlunun taşınır, taşınmaz malları ve üçüncü kişilerdeki hak ve alacakları üzerinde İİK m. 257 gereği dava ve takip kesinleşinceye kadar teminatsız veya mahkemece uygun görülecek teminat karışlığında ihtiyati haciz konulmasına, davalı borçlunun İstanbul 2. İcra Müdürlüğü'nün ...
 
 …
@@ -61,6 +65,8 @@ Dosyadaki bilgi ,belgelere, takip dosyasındaki borca itiraz dilekçesi içeriğ
 
 ## İstanbul BAM 43. HD 2026/1305 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1212818100)
+
 İLK DERECE MAHKEMESİ KARARI: İstinaf incelemesine konu kararı veren ilk derece Mahkemesince eldeki dava hakkında yapılan yargılama sonunda, "...davacı- alacaklı vekili tarafından İstanbul .... İcra Müdürlüğünün ...
 
 …
@@ -72,6 +78,8 @@ Dosyadaki bilgi ,belgelere, takip dosyasındaki borca itiraz dilekçesi içeriğ
 Davacı vekilinin istinaf başvurusunun HMK'nın 353(1)b-1 maddesi uyarınca ESASTAN REDDİNE …
 
 ## İstanbul BAM 44. HD 2026/1274 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1222562700)
 
 Davalı vekili cevap dilekçesinde özetle; davacının haksız ve hukuki dayanaktan yoksun davanın reddini, müvekkilinin sözleşmelerde imzasının bulunmadığının tespiti ile sözleşmelerin geçersizliğini, haksız ve kötü niyetli takip yapan davacı aleyhine, takip konusu alacağın %20’sinden az olmamak üzere kötü niyet tazminatına hükmedilmesini karar verilmesini talep etmiştir.
 
@@ -110,6 +118,8 @@ Dava, itirazın iptali istemine ilişkindir.
 
 ## İstanbul BAM 14. HD 2026/944 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1211545200)
+
 İLK DERECE MAHKEMESİ KARARININ ÖZETİ:İlk Derece Mahkemesince itirazın değerlendirildiği 12.03.2026 tarihli ara kararda; "...somut olay değerlendirildiğinde dava, davacı banka ile asıl borçlu ...
 
 …
@@ -123,6 +133,8 @@ Bu nedenle davacının ileri sürdüğü itiraz sebebinin ihtiyati hacze itiraz 
 KARAR:Gerekçesi yukarıda açıklanan nedenlerle;İİK'nın 265/5 ve HMK'nın 353/1.b.2. maddeleri uyarınca davacı vekilinin istinaf başvurusunun kabulü ile ilk derece mahkemesinin ihtiyati hacze itirazın kabulüne dair verdiği 12.03.2026 tarihli ara kararının kaldırılmasına …
 
 ## İstanbul BAM 45. HD 2026/933 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1214967000)
 
 Davacı vekili dava dilekçesinde; ....
 
@@ -142,6 +154,8 @@ Davalı şirkette organ boşluğu bulunmadığından yönetim kayyımı atanamay
 Davacı tarafın istinaf başvurusunun KISMEN KABULÜ ile Bakırköy .... Asliye Ticaret Mahkemesinin 2026/... Esas sayılı dosyasında verilen ../04/2026 tarihli ihtiyati tedbir talebinin reddine yönelik kararının HMK'nın 353/1.b.2. maddesi uyarınca KALDIRILMASINA ve YENİDEN KARAR VERİLMESİNE …
 
 ## İstanbul BAM 43. HD 2026/769 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1211457700)
 
 Davalı vekili cevap dilekçesinde özetle; davacının ...
 

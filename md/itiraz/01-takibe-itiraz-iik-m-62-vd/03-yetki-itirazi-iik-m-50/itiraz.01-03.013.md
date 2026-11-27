@@ -152,6 +152,8 @@ Sonuç : Temyiz olunan kararın yukarıda açıklanan nedenlerle davacı yararı
 
 ## İstanbul BAM 3. HD 2026/1907 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1217145500)
+
 Davacı vekili dava dilekçesinde özetle; davalı ile davacı şirket arasında imzalanan ... nolu abonelik sözleşmesinden kaynaklanan 1 adet tüketim, 1 adet reaktif bedel ve cayma bedellerine ilişkin toplam 3 adet fatura bedelinin ödenmemesi sebebiyle davalı aleyhine İstanbul Abonelik Sözleşmeleri İcra Dairesinin ... Esas sayılı dosyası ile icra takibine geçildiğini, davalının takibe itiraz ettiğini, takibe konu edilen 25.494,88 TL'lik fatura bedelinin, elektrik enerji kullanımına, 43.422,55 TL'lik fatura bedelinin, cayma bedeline ilişkin olduğunu, cayma bedelinin hesaplanmasının sözleşme koşullarına uygun olduğunu, faturaların davalıya SMS ve E-Posta yoluyla tebliğ edilmesine rağmen ödenmediğini, sözleşmenin 5-6. maddesi kapsamında süresinde itiraz edilmediğini belirterek, davalının icra takibinde borca itirazının itirazının iptaline,icra inkar tazminatına karar verilmesini talep etmiştir.
 
 Davalı vekili cevap dilekçesinde ; müvekkilinin dava konusu sözleşmeden caymadığını, tüketim ve cayma bedeli faturalarının aynı zamanda kesildiğini, faturalar arasında 14 günlük süre bulunduğunu, cayma bedelinin, elektrik faturasının ödenmemesi nedeniyle kesilmediğini, sözleşmenin davalının kullanımlarının yetersizliği ve ödemelerin düzensizliği ileri sürülerek tek taraflı olarak feshedildiğini, davacının sözleşmeden caydığını, cayma bedelinin haksız olduğunu, cayma konusunda davacının söylediği şekilde herhangi bir hükmün bulunmadığını, davalının itirazlarının haklı olduğunu belirterek davanın reddine karar verilmesini talep etmiştir.
@@ -191,6 +193,8 @@ Davacı vekilinin istinaf talebinin KABULÜ İLE; ... Asliye Ticaret Mahkemesi'n
 
 ## Ankara BAM 35. HD 2026/1492 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1234888300)
+
 Davalı vekili cevap dilekçesinde; davalı şirketin rent a car şirketi olup, dava konusu kazaya karışan ... plakalı aracın ekte sunulan araç kiralama sözleşmesi ile 20.09.2021 tarihinde yani kaza tarihinden 2 ay önce ...’a uzun süreli olarak kiraya verildiğini, dolayısıyla davalı şirketin herhangi bir kusur ve sorumluluğunun olmadığını bildirerek, davanın reddine karar verilmesini talep etmiştir.
 
 …
@@ -202,6 +206,8 @@ Davalı vekili cevap dilekçesinde; davalı şirketin rent a car şirketi olup, 
 Davalı vekilinin istinaf başvurusunun Hukuk Muhakemeleri Kanunun 353/1-b.1. maddesi gereğince ESASTAN REDDİNE …
 
 ## İstanbul BAM 13. HD 2026/1365 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1219828700)
 
 Davalı/karşı davacı vekili cevap dilekçesinde özetle; konşimento gereğince Hong Kong mahkemelerinin görevli olduğunu, milletlerarası yetki itirazında bulunduklarını, davacının alacaklarının hak düşürücü süreye uğradığını, somut olayda davacı tarafça zamanaşımını kesen ilk işlemin dava konusu icra takibinin başlatıldığı 20/11/2020 tarihli takip talebi olduğunu, işbu takibe taraflarınca 07/12/2020 tarihinde itiraz edildiğini, itiraz üzerine icra dosyasında zamanaşımını kesen başka hiçbir işlem yapılmadığını, davacının arabuluculuk başvurusunu 20/12/2021 tarihinde yaptığını, davacının icra takibine itirazdan 1 yıl 13 gün sonra arabuluculuk başvurusunda bulunduğunu, bu sebeple davacının navlun alacağı taleplerinin hak düşürücü süreye uğradığını, taşıma eyleminin ayıplı ifa edildiğini, davacının ayıplı ifa sebebiyle navlun ücreti talep hakkı olmadığını, davacının müvekkilinden bir hak ve alacağı olmadığını, davacının sözleşme şartlarına uygun bir taşımacılık yapmadığını, davacı şirket yetkilisi tarafından gönderilen 04/08/2020 tarihli mailde taşıma süresinin 23 gün olarak vaad edildiğini, davacı şirketin bir başka yetkilisi tarafından gönderilen mailde kavunların +6 derecede %85 nem ve
 15 cbm ortamda taşınacağının garantisinin verildiğini, müvekkilince teklifin kabul edilerek konşimento düzenlendiğini, davacının bu edimini yerine getirmediğini, dava konusu ürünlerin bulunduğu konteynerin 21/08/2020 günü İzmir Aliağa'dan davacı ve davalı şirket yetkililerine teslim edildiğini, ürünün gemiye 23/08/2020 günü yüklendiğini, müvekkilince kavunların arasına yerleştirdiği casus termometre aracılığıyla ürünlerin sıcaklık değişiminin kontrol edildiğini ve zaman zaman 9-11 santigrat dereceleri bulan sıcaklıklar görüldüğünü, müvekkili şirket yetkilisi tarafından davacı şirket yetkilisine mail atılarak derecenin istenilen sıcaklıkta olmadığının bildirildiğini, davacı şirket yetkililerinin derecenin istenildiği gibi olduğuna dair müvekkiline dönüş yaptıklarını, müvekkilinin termometresi yüksek sıcaklığı doğrulamakta iken davacının bu durumu inkar ettiğini, taraflarınca davacıya Antalya 10.
@@ -222,6 +228,8 @@ Bu durumda bizzat akdi taşıyıcı olan davacı/karşı davalı tarafından dav
 
 ## Sakarya BAM 7. HD 2026/1327 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1217900800)
+
 Davalı vekilinin sunmuş olduğu cevap dilekçesinde özetle; davayı kabul etmediklerini, zaman aşımı ve hak düşürücü süre itirazlarının olduğunu, davalının yerleşim yerinin Derince Kocaeli olduğunu bu sebeple yetki itirazlarının da bulunduğu davalının ihlalli geçiş yapmadığını bu sebeple davanın reddine, karar verilmesini talep etmiştir.
 
 …
@@ -240,6 +248,8 @@ Eldeki davada, davaya konu alacağın davacının işlettiği Gebze-Orhangazi-İ
 
 ## İstanbul BAM 12. HD 2026/1322 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1219534200)
+
 Dava ;itirazın iptali davasıdır.
 
 İlk derece mahkemesince bilirkişi incelemesi yaptırıldıktan sonra icra müdürlüğüne müzekkere yazarak yetkili icra dairesince ödeme emri düzenlenmediği,tebliğ edilmediği gerekçesiyle itirazın iptali isteminin reddine karar verilmiştir.
@@ -252,6 +262,8 @@ Dava ;itirazın iptali davasıdır.
 Davacı vekilinin istinaf başvurusunun kabulüne; Bakırköy 4.Asliye Ticaret Mahkemesi'nin 08/07/2025 Tarihli 2023/978 Esas - 2025/733 Karar sayılı kararın HMK 353(1)a-6 gereği KALDIRILMASINA;
 
 ## İstanbul BAM 13. HD 2026/1321 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1219840100)
 
 Davacı vekili dava dilekçesinde özetle; davacının İstanbul Anadolu 19. İcra Müdürlüğü ... Esas sayılı dosyasında davalı şirket aleyhinde başlatılan fatura alacağına yapılan itirazın iptali için huzurdaki davayı ikame ettiğini, icra dosyasına yapılan itirazda borcun ödendiğinin beyan edildiği ancak bu beyanı destekleyici evrakların itiraz dilekçesi ekine ibraz edilmediği, davanın kabulü ile itirazın iptaline karar verilmesini talep ettiği görülmüştür.
 

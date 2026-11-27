@@ -261,6 +261,8 @@ T.M.Y.nın 609. maddesi “mirasın reddi, mirasçılar tarafından sulh mahkeme
 
 ## Sakarya BAM 7. HD 2026/1302 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1217865600)
+
 Dava; menfi tespit istemine ilişkindir.
 
 …
@@ -268,6 +270,8 @@ Dava; menfi tespit istemine ilişkindir.
 Somut olayda, eldeki dava için derdestlik oluşturduğu kabul edilen aynı Mahkemenin 2024/155 E. Sayılı dosyasında davacıların murisi tarafından borcun bulunmadığından bahisle menfi tespit davasının açıldığı, eldeki davada ise mirasçılar tarafından mirasın gerçek reddi nedeniyle davalıya borçlu olmadıklarına ilişkin dava açıldığı, İlk davanın davacısının muris olduğu, mirasçıların bu davada mirasçılık sıfatlarından dolayı davaya katıldıkları ve zorunlu dava arkadaşı oldukları, ikinci davada davacıların vaka olarak mirasın gerçek reddi davası açmalarına temel olarak dayandıkları, bu nedenle ikinci davada dayanılan vakanın farklı olduğu, ilk davanın aksine ikinci davanın mirasçıların mirasın reddine dayanmaları nedeniyle hükmün sujesinin kendileri olduğu, yani karar verilmesi halinde borçlu olmadığına karar verilecek olanın mirası reddeden davacılar olduğu, bu nedenle ilk davanın eldeki dava için derdestlik oluşturmadığı anlaşıldığından, Mahkemece davanın derdestlik nedeniyle usulden reddine karar vermesi hatalı bulunmuş, tarafların delilleri toplanarak oluşacak sonuca göre bir karar verilmek üzere, İlk Derece Mahkemesi kararının kaldırılması gerekmiştir.
 
 ## İstanbul BAM 12. HD 2026/1052 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1211946700)
 
 Dava, çek istirdatı ve çek bedeli ödenmek zorunda kalınması halinde ödenecek bedelin istirdadı istemine ilişkindir.
 

@@ -1,4 +1,5 @@
 {
+ "baglanti_bedesten_arama": 93,
  "baglanti_mrfg_id": 85230,
  "bedesten_kontrol": {
   "tutar": 180
@@ -60,8 +61,8 @@
    "kesin": 15
   },
   "itiraz": {
-   "eslesmedi": 119,
-   "kesin": 1500,
+   "eslesmedi": 45,
+   "kesin": 1574,
    "olasi": 90
   },
   "kadastro": {
@@ -97,9 +98,9 @@
   },
   "miras": {
    "cok_aday": 5,
-   "eslesmedi": 397,
+   "eslesmedi": 378,
    "hatali_kunye": 3,
-   "kesin": 7241,
+   "kesin": 7260,
    "olasi": 67
   },
   "muris-muvazaasi": {
@@ -131,7 +132,7 @@
    "olasi": 5
   }
  },
- "eslesmedi": 3579,
+ "eslesmedi": 3486,
  "hatali_kunye": 47,
  "islenen": 90000,
  "kapsam_disi": 183,
@@ -147,21 +148,21 @@
   "kisa_alinti": 3,
   "metin_numarasi_farkli": 36,
   "metinde_karar_no_yok": 750,
-  "veri_setinde_anahtar_yok": 3306
+  "veri_setinde_anahtar_yok": 3213
  },
  "olasi": 868,
  "son_checkpoint": "parti 09 (80001-90000) 2026-11-27T20:24:59",
- "son_commit": "97e3d3d Bedesten: batch 08 — 10,000 processed, 9,768 linked (mrfg_id), 20 Bedesten-checked",
- "son_push": "97e3d3d",
+ "son_commit": "891cd47 Bedesten: batch 09 — 10,000 processed, 9,316 linked (mrfg_id), 20 Bedesten-checked",
+ "son_push": "891cd47",
  "toplam_kunye": 133954,
  "tur": {
   "aym": {
    "kapsam_disi": 95
   },
   "bam": {
-   "eslesmedi": 1251,
+   "eslesmedi": 1158,
    "hatali_kunye": 15,
-   "kesin": 6456,
+   "kesin": 6549,
    "olasi": 789
   },
   "danistay": {

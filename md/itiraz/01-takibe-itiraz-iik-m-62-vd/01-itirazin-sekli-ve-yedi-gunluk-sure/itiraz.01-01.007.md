@@ -22,6 +22,8 @@ uyari: "Derleyenin seçtiği alıntılardır; kararın tamamı değildir. Künye
 
 ## İzmir BAM 17. HD 2026/1503 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1224943700)
+
 Davacı vekili istinaf dilekçesinde özetle; davanın konusu olan icra takibi belgesiz olarak yapıldığından ispat yükünün davalı tarafta olduğunu, davalı şirketin faturalandırmayı tam tevmiye kabulü ile yaptığını kabul etmekte, ancak çalışma şeklinin davacı müvekkili şirket hesaplamasına dayandığını iddia ettiğini, dosyaya bu yönde sunmuş olduğu bir delilinin bulunmadığını, davalı tanık ifadeleri ile de bu iddialarının ispat edilmediğini, zira, çalışan işçilerin/ tanıkların davalı ve davacı arasındaki anlaşmayı ve ödemeyi yapan kişiyi bilebilmelerinin de mümkün olmadığını, yani, kendilerine işverenleri davalı ... taşeron tarafından bu şekilde ödeme yapılması konusunun ayrı, davalı şirket tarafından bu ödemenin müvekkili davacı şirketten talep edilip edilemeyeceği hususunun apayrı bir konu olduğunu, müvekkili davacı şirketin, bu çalışma şeklini kabul ettiğine dair bir kabulü yok iken; davalı şirketin 8 saati 1 saat bile aştığında tam gün yevmiyesi verildiğini kabul etmekte ve fakat bunun davacı müvekkili şirket isteği ile olduğunu iddia ettiğini, halbuki, davacı müvekkili şirketin bu yönde bir kabulü veya beyanının bulunmadığını, kaldı ki, müvekkili şirket tarafından fazla çalışma
 ödemesi yapıldığını, taraflar arasındaki uyuşmazlığın hesaplama şekli olduğunu, bu hesaplama şeklinin nasıl olacağını veya taraflar arasındaki anlaşmayı, ne kadarlık kısmının müvekkili davacı tarafça kabul edileceğini vb. ticari ilişkiyi işçilerin/tanıkların bilebilmesinin mümkün olmadığını, taraflar arasında, işçi çalışma saatleri ile ilgili bir çekişme bulunmadığını, müvekkili şirketin tam yevmiye üzerinden hesaplama yapılması gerektiğine dair bir kabulünün, bilgi ve belgenin davalı tarafça sunulamadığını, çalışma saatleri üzerinden, ödenmesi gereken yevmiye ve fatura arasındaki farkların bilirkişi tarafından tespit edildiğini belirterek yerel mahkeme kararının kaldırılarak davanın kabulüne karar verilmesini istinaf başvuru sebebi olarak ileri sürmüştür.
 
@@ -35,9 +37,13 @@ Eş söyleyişle kendisine karşı icra takibi yapılmış olan borçlu, ödeme 
 
 ## Ankara BAM 20. HD 2026/1320 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1224301900)
+
 Dosya kapsamı, mevcut delil durumu ve ileri sürülen istinaf sebepleri dikkate alındığında mahkemenin vakıa ve hukuki değerlendirmesinde usul ve esas yönünden yasaya aykırılık bulunmadığı, hacizli malların bulunduğu yerin değiştirilmesi talebinin takip borçlusu ...'dan geldiği, davacılar tarafından başlatılan ilamsız icra takibi kapsamında gönderilen ödeme emrine itiraz etmeyen bu borçlu bakımından takibin kesinleştiği, her ne kadar bu davalının itirazı sonrasında takibin durdurulmasına karar verilmiş ise de, icra müdürünün süresi geçtikten sonra yapılan itiraz üzerine takibin durdurulması yönündeki kararının bir hakkın yerine getirilmemesi niteliğinde olup 2004 sayılı İİK'nun 16/2.maddesine göre her zaman şikayet olunabilecek işlemlerden olduğu (Benzer bir değerlendirme için bkz. Yargıtay 12. Hukuk Dairesi'nin 23/06/2009 tarihli 2009/5593 E-2009/13837 K) ve aynı Kanun'un 59. maddesi uyarınca takip masraflarından alacaklının sorumlu tutulamayacağı anlaşılmakla, davacılar vekilinin istinaf başvurusunun esas yönünden reddine dair hüküm kurmak gerekmiştir.
 
 ## İstanbul BAM 43. HD 2026/1305 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1212818100)
 
 İLK DERECE MAHKEMESİ KARARI: İstinaf incelemesine konu kararı veren ilk derece Mahkemesince eldeki dava hakkında yapılan yargılama sonunda, "...davacı- alacaklı vekili tarafından İstanbul .... İcra Müdürlüğünün ...
 
@@ -51,6 +57,8 @@ Davacı vekilinin istinaf başvurusunun HMK'nın 353(1)b-1 maddesi uyarınca ESA
 
 ## İzmir BAM 11. HD 2026/1264 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1217381200)
+
 İLK DERECE MAHKEMESİ KARARININ ÖZETİ : Mahkemece, dosya üzerinden yapılan inceleme neticesinde, ihtiyati haciz kararından sonra yapılacak işlemlerin kanunda açıkça belirtildiği, esas dava açılmadan önce alınan ihtiyati haciz kararının esas dava açıldıktan sonra devamına karar verilmesi gerektiğine ilişkin yasal düzenleme bulunmadığı gerekçesiyle talebin reddine karar verilmiştir.
 
 …
@@ -59,6 +67,8 @@ Somut uyuşmazlıkta davacı vekili tarafından İzmir 2.Asliye Ticaret Mahkemes
 olmadığı, bu haliyle mahkemece "ihtiyati haciz kararının devamına" dair talebin reddine dair verilen kararın HMK'nın 341/1.maddesinde gösterilen istinafi kabil kararlardan olmaması nedeniyle istinaf kanun yoluna başvurulamayacağı gözetilerek davacı vekilinin istinaf dilekçesinin reddine karar vermek gerekmiştir.
 
 ## İstanbul BAM 43. HD 2026/1196 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1222217500)
 
 Davalı vekili cevap dilekçesinde özetle; müvekkili olan davalı şirket tarafından huzurdaki davanın da konusunu teşkil eden icra takibine konu borca ilişkin olarak davacı aleyhine ikame edilen daha önceki tarihli menfi tespit davasının, huzurdaki dosya esası ile aynı konuda olduğu, sonucuna etki edeceği ve her halükarda bekletici mesele yapılması gerektiğinin şüphesiz olduğunu, müvekkili olan davalı şirket aleyhine Davacı şirket tarafından 10/07/2020 Tarihinde ... ....İcra Müdürlüğü ... E.
 
@@ -92,6 +102,8 @@ TL asıl alacak yönünden itirazın iptaline karar verilmesi talep edildiği ve
 
 ## İstanbul BAM 45. HD 2026/1034 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1219144600)
+
 Davalı ...ve ... Anonim Şirketine usulüne uygun davetiye tebliğine rağmen cevap dilekçesi sunulmadığı anlaşılmıştır.
 
 …
@@ -105,6 +117,8 @@ Diğer borçlu ...'in mernis adresine gönderilen ve 25/12/2024 tarihinde tebli�
 Davalı ...'in istinaf başvurusunun KABULÜ ile İstanbul ..... Asliye Ticaret Mahkemesi'nin .../12/2025 tarihli 2025/..... E. 2025/..... K. sayılı kararının, 6100 sayılı HMK'nın 353/1.b.2 maddesi uyarınca davalı ...yönünden KALDIRILMASINA ve YENİDEN HÜKÜM TESİS EDİLEREK …
 
 ## Sakarya BAM 7. HD 2026/1007 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1210713000)
 
 Davalı Rotam Liman vekili cevap dilekçesi ile; davacının davalı şirkete Kocaeli İcra Dairesi'nin 2022/76948 Esas sayılı dosyasında başlatılan icra takibinin itirazlar üzerine durduğunu, bu nedenle davayı açtıklarını, davaya konu kazanın meydana geldiği yerde yapılan işin ...'nin uhdesinde olduğunu, işi yapan, faturayı kesen ... A.Ş.
 
@@ -142,6 +156,8 @@ Geçerli bir ilamsız icra takibinin bulunmuş, borçlunun ise süresi içinde �
 
 ## İstanbul BAM 43. HD 2026/780 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1211147500)
+
 Davalı vekili cevap dilekçesinde özetle; Davacının, müvekkil şirket aleyhine başlatmış olduğu İstanbul .... İcra Müdürlüğü’nün ...
 
 …
@@ -155,6 +171,8 @@ Davalı vekili cevap dilekçesinde özetle; Davacının, müvekkil şirket aleyh
 Davacı vekilinin istinaf başvurusunun HMK'nın 353(1)b-1 maddesi uyarınca ESASTAN REDDİNE …
 
 ## İstanbul BAM 45. HD 2026/778 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1216421700)
 
 Davacı vekili dava dilekçesinde; davacının Gayrimenkul danışmanlık hizmeti ile iştigal ettiğini, yapılan iş neticesinde davalı tarafa 26,01.2018 tarih ve ... seri numaralı toplam 11,800,00 Tl fatura düzenlenerek teslim edildiği, davalı tarafın iş bu faturaya karşılık kısmi ödemede bulunduğu, faturayı defterlerine kayıt ettiğini, borcun kalan kısmını ödemediğini, borçlu davalı aleyhine .... İcra Müdürlüğü' nün ...
 
@@ -171,6 +189,8 @@ Davalı vekili cevap dilekçesinde; Davalının , davacı tarafa herhangi bir bo
 Davalı vekilinin istinaf başvurusunun 6100 sayılı HMK'nın 353/1-b.1 maddesi gereğince ESASTAN REDDİNE …
 
 ## İstanbul BAM 45. HD 2026/773 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1215710700)
 
 Davalı vekili cevap dilekçesi ile; Taraflar arasında danışma yönlendirme personeli hizmeti sunulması için sözleşme imzalandığını, personelin ücretinden sorumluluğun davacıya ait olduğunu, davacının ise bu ödemeleri yapmadığını, personel tarafından müvekkili davalı olarak gösterilerek davalar açıldığını, davacının bu edimini ifa etmedikçe müvekkilinden hiçbir talepte bulunamayacağını beyanla davacının, davasının henüz kendisinin sözleşmesel edimlerini ifa etmemesi sebebiyle reddine kötü niyetle başlatılan takip nedeniyle davacı aleyhine kötü niyet tazminatına hükmedilmesine, yargılama giderleri ve vekalet ücretinin davacıya yükletilmesine karar verilmesini talep etmiştir.
 
@@ -192,6 +212,8 @@ Davalı vekilinin istinaf başvurusunun 6100 sayılı HMK'nın 353/1-b.1 maddesi
 
 ## İstanbul BAM 45. HD 2026/723 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1215657000)
+
 Davalı cevap dilekçesi sunmamıştır.
 
 …
@@ -212,6 +234,8 @@ faiz oranına göre ek olarak 61.513,20-TL talep edildiği gerekçesiyle, daval�
 
 ## İstanbul BAM 45. HD 2026/716 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1215501100)
+
 Davacı vekili dava dilekçesinde; taraflar arasında ...Reklam Mahalleri Kiralama Sözleşmesi imzalandığını, davacı tarafından ...A.Ş ve ...'e ait reklam tanıtım görsellerini ...'de bulunan ... Caddesi'ne bakan ve "..." diye tabir edilen led ekran sistemindeki reklam mecrasında tarafların üzerinde mutabık kaldıkları 03.12.2015- 31.12.2015 ve 29.12.2015-31.12.2015 tarihlerinde eksiksiz ve kusursuz olarak yayınlandığı; 31.12.2015 tarihli ... sıra numaralı KDV dahil 3.805,50 TL ve 027401 sıra numaralı KDV dahil 27.596,66 TL faturaların davalıya tebliğ edildiği; faturaların davalı tarafından iade edildiği; alacağın tahsili için ....
 
 …
@@ -227,6 +251,8 @@ Davalı vekili cevap dilekçesinde; taraflar arasındaki anlaşmalardan ilki ...
 Davalı vekilinin istinaf başvurusunun 6100 sayılı Hukuk Muhakemeleri Kanununun 353/1.b.l bendi uyarınca ESASTAN REDDİNE …
 
 ## Ankara BAM 21. HD 2026/708 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1212987200)
 
 Davalılar vekili cevap dilekçesinde özetle; şirketten alındığı iddia edilen paranın dava dışı ... hesabına geçmiş göründüğünü, buna rağmen davacının müvekkillerini hasım gösterdiğini, müvekkillerinin dava konusu olayla bir ilgisi bulunmadığını bildirerek davanın reddini istemiştir.
 

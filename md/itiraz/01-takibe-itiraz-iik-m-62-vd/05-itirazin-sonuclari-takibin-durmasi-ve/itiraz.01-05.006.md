@@ -33,6 +33,8 @@ Esas sayılı dosyası ile takip başlatılarak, 61.142,31 TL asıl alacak + 8.9
 
 ## İzmir BAM 20. HD 2026/900 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1220531600)
+
 Mahkemece, "...Somut olayda; delillerin toplandığı, bilirkişinin yapmış olduğu inceleme sonucu düzenlediği raporunda davalı borçlunun (...) 18.11.2021 tarihi itibariyle, asıl alacak 39.538,38 TL, işlemiş temerrüt faizi %54 (27.10.2021 - 08.11.2021) 672,95 TL, BSMV 33,65 TL, masraf 321,48 TL olmak üzere toplam 40.566,46 TL borçtan sorumlu olacağı ve davacı vekili talebinin tespit edilenin altında olması nedeniyle talebi ile bağlı kalınmakla, sonuç olarak; DAVANIN KABULÜNE, İzmir 18.İcra Müdürlüğü'nün 2021/12447 sayılı takip dosyasında davalı tarafından takibe yapılan itirazın iptali ile 39.538,38 TL alacak üzerinden takibin devamına, davalı tarafından yapılan itiraz haksız ve alacak likit olduğu kabul edildiğinden hüküm altına alınan 39.538,38 TL alacak üzerinden hesaplanacak %20 icra-inkar tazminatının davalıdan tahsili ile davacıya verilmesine…" şeklinde karar verilmiştir.
 
 …
@@ -54,6 +56,8 @@ Davalı vekili cevap dilekçesinde özetle; taraflar arasında akdedilen eser s�
 Birleşen Mersin 1. ATM'nin 2016/... E. sayılı dosyasında ise birleşen dosya davacısı ... tarafından Mersin 2. Noterliği'nin 08.04.2016 tarihli ve ... yevmiye numaralı alacağın devri sözleşmesi ile temlik alınan 05.09.2014 tarihli ve A seri ... sıra numaralı, 80.818,20-TL bedelli fatura alacağına istinaden Mersin 2. İcra Müdürlüğü'nün 2016/... E sayılı dosyası ile birleşen dosya davalısı ... Ticaret Limited Şirketi aleyhine istinaden takip başlatıldığı, icra takibine itiraz üzerine takibin durmasına karar verildiği ve itirazın iptali istemiyle bileşen davanın ikame edildiği anlaşılmıştır.
 
 ## Ankara BAM 21. HD 2026/739 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1216335500)
 
 Davalı cevap dilekçesinde özetle; dava dışı şirket lehine tesis edilen kredilerin süresinde ödenmemesi üzerine Sincan 3.
 
@@ -83,6 +87,8 @@ gerektiği, davaya konu kaçak elektrik kullanımına ilişkin yerine tekel bayi
 
 ## İstanbul BAM 17. HD 2026/702 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1208074700)
+
 İLK DERECE MAHKEMESİ KARARI:Mahkemece 17/04/2026 tarihli ara karar ile; somut durumda dava dilekçesi incelendiğinde; tahakkuk edecek ücretin miktarına dair yaklaşık ispat bulunmadığı, bu hususun açıklığa kavuşmasının yargılamayı gerektirdiği gerekçesiyle davacının ihtiyati haciz talebinin reddine karar verilmiştir.
 
 …
@@ -91,6 +97,8 @@ DELİLLERİN TARTIŞILMASI VE GEREKÇE:Dava, ihlalli geçiş ve ceza ücreti ile
 Takipte belirtilen miktardan fazlasına karar verilemez.Mahkemece, yukarıda yazılı gerekçeyle davacının ihtiyati haciz talebinin reddine karar verilmiştir.Ara karar, davacı vekili tarafından istinaf edilmiştir.6100 sayılı HMK'nun 341. maddesinde istinaf yoluna başvurulabilen kararlar gösterilmiştir. Buna göre maddenin 2. fıkrasında, miktar veya değeri üç bin Türk Lirasını geçmeyen malvarlığı davalarına ilişkin kararların kesin olduğu, 3. fıkrasında, alacağın bir kısmının dava edilmiş olması durumunda üç bin Türk Liralık kesinlik sınırının alacağın tamamına göre belirleneceği, 4. fıkrasında ise, alacağın tamamının dava edilmiş olması durumunda, kararda asıl talebinin kabul edilmeyen bölümü üç bin Türk Lirasını geçmeyen tarafın, istinaf yoluna başvuramayacağı düzenlenmiştir.
 
 ## Ankara BAM 21. HD 2026/666 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1211447700)
 
 Davalılar, davadaki alacağın zamanaşımına uğradığını, davanın yerinde olmadığını savunarak davanın reddini istemiştir.
 

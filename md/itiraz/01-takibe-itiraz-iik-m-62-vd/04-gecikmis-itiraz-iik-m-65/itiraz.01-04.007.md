@@ -36,6 +36,8 @@ Alacaklı seçim hakkını mahkemede dava açmak suretiyle kullanmışsa, bu def
 
 ## İzmir BAM 17. HD 2026/624 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1209341900)
+
 İcra Dosyası : İzmir 22. İcra Müdürlüğünün 2020/2873 Esas sayılı takip dosyasının incelenmesinde; alacaklı ... . .. Şti.'nin borçlu.... Şti. aleyhine 15.576,00-TL ve 31.152,00-TL. fatura borçlarına istinaden toplam 46.728,00 TL asıl alacak için ilamsız icra takibi başlattığı, ödeme emrinin TK. 'nun 35. maddesine göre 17/03/2020 tarihinde tebliğ edildiği, borçlunun gecikmiş itirazının İzmir 3. İcra Hukuk Mahkemesinin 17/07/2020 tarih 2020/269 E. 2020/369 K. sayılı kararı ile kabul edildiği ve aynı tarihte takibin durdurulmasına karar verildiği anlaşılmıştır.
 
 …

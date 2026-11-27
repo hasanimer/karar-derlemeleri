@@ -121,6 +121,8 @@ Türk Medeni Kanununun 613. maddesi uyarınca;"altsoyun tamamının mirası redd
 
 ## Kayseri BAM 3. HD 2026/862 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1209920300)
+
 Eldeki dosyada, muris ...'in en yakın mirasçıları tarafından reddedilen terekenin TMK'nın 612. maddesi uyarınca iflas hükümlerine göre tasfiye edileceği, 2004 sayılı İcra İflas Kanunu'nda yer alan iflas tasfiye usulünün tereke tasfiyesinde de aynen uygulanması ve sıra cetveline yönelik esasa ilişkin taleplerin de kayıt kabul davası olarak görülmesi gerektiği açıktır. İcra ve İflas Kanunu'nun 236. maddesi uyarınca iflasın kapatılmasına kadar masaya alacak yazdırmak mümkündür. Kayıt kabul davaları, iflasından önce müflisten alacaklı olanların, bir diğer ifade ile iflas alacaklılarının alacaklarını iflas masasına kaydettirmek için açtıkları ve dayanağını İİK'nın 235. maddesinden alan davalardır. İİK'nın 195. maddesi gereğince, iflasın açılması ile müflisin borçları muaccel olur. Kayıt kabul davasında, alacağın fer'ileri ile birlikte varlığı ve miktarı iflasın açıldığı tarih itibari ile belirlenmesi gerekir.
 Buna göre kazaya karışan aracın sürücüsü müteveffa ...'in terekesinin iflas hükümlerine göre tasfiye edilmesine karar verilme tarihi itibarı ile aktüer hesaplarının işlemiş faizleriyle birlikte yaptırılması ve davalı ... ile tahsilde tekerrür olmamak koşuluyla terekeye kayıt ve kabülüne karar vermek gerekirken davalı ... ve müteveffa ...'in terekesinden müştereken ve müteselsilen alınarak adı geçen davacı tarafa verilmesine dair hüküm kurulması infazda tereddüte yol açacağından kamu düzenine aykırı bulunmuştur.
 

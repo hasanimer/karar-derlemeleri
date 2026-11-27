@@ -231,6 +231,8 @@ SONUÇ :Alacaklı vekilinin temyiz itirazlarının kabulü ile mahkeme kararın�
 
 ## Adana BAM 9. HD 2026/2560 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1232407600)
+
 Davalı vekilinin cevap dilekçesinde özetle;
 Davacı tarafça şirketin iflasının talep edilmesi nedeniyle şirketten alacaklı olanların haberdar edilmesi gerektiğini, davacının sözleşmeyi haksız yere feshettiğini, müvekkilinin sözleşmeyi ihlal etmediğini, davacı tarafın müvekkilinin sahibi olduğu Otel'in Türkiye sınırları içerisinde tek yetili satıcısı olduğunu, müvekkiline 4.500.000,00.TL ödeme yapması gerektiğini, bu meblağın %80'i olan 3.600.000,00.TL bedelin garanti parası olduğunu ve davacı şirketin yakalaması gereken satış başarısını yakalayamadığını, sözleşmeye göre müvekkilinin kapıdan gelen müşterisine satış yapmak konusunda yasaklama olmadığını, müvekkilinin “...”adlı seyahat acentesine hizmet verdiği iddia edilmişse de bu şirketin yurtdışında olduğunu, müşterilerden herhangi bir şikayetin gelmediğini, davacı tarafın bunu ispatlaması gerektiğini, davacı şirketin satış elemanlarının hatalı bilgilendirmeler yaptığını, davacı şirketin sözleşme uyarınca 520 oda satması gerekirken toplamda 1131 oda sattığını, fazladan 6l1 odanın satışı yapıldığını, davacının sözleşmenin bitmesine bir ay kala sözleşmeyi feshettiğini, şirketin sahip olduğu otelin rayiç değerinin 43.420.000USD karşılığı 98.129.000,00.TL olduğunu, müvekkilinin
 borca batık olmadığını iddia ederek davanın reddine karar verilmesini talep etmiştir.
@@ -250,6 +252,8 @@ Alacaklı derdest icra takibine devam edebilmek için, altı ay içinde itirazı
 
 ## Adana BAM 17. HD 2026/1807 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1232508700)
+
 Dava, alacağın tahsili amacıyla başlatılan icra takibine vaki itirazın iptali istemine ilişkindir.
 
 …
@@ -261,6 +265,8 @@ Mahkemece iddia / savunma ile dosya kapsamında yer alan belge ve deliller ış�
 İtirazın iptali davasının, İİK’nın 67. maddesi uyarınca ödeme emrine itirazın alacaklıya tebliğinden itibaren bir yıllık hak düşürücü süre içerisinde açılması gerektiği, somut olayda itirazın davacı alacaklıya tebliğ edilmediği, bu nedenle hak düşürücü sürenin işlemeye başlamadığı anlaşılmıştır. Öte yandan, dava konusu elektrik tüketim faturalarından ( Sözleşme de bulunduğu dikkate alındığında ) kaynaklanan alacağın 10 yıllık zamanaşımına tabi olduğu ve dava tarihi itibarıyla zamanaşımı süresinin dolmadığı gözetildiğinde, davalının hak düşürücü süre ve zamanaşımı itirazları yerinde görülmemiştir.
 
 ## Sakarya BAM 7. HD 2026/1783 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1234246900)
 
 Davacı vekili dava dilekçesinde özetle; Davalı ... Uluslararası Nakliyat İthalat İhracat A.Ş tarafından, 14.07.2014 tarihinde Gebze 3.İcra Müdürlüğü'nün 2014/4338 Esas sayılı takip dosyası ile müvekkili şirket aleyhine yapılan ilamsız icra takibinde, 60.105.30.TL asıl alacak, 12.622.06.TL işlemiş yıllık %12 vade farkı ve 14.210.73.TL işlemiş faiz olmak üzere toplam 86.887.41.TL alacak talebinde bulunulduğunu, takibin dayanağı olarak 22.10.2012 tarih ve 0030922 seri numaralı 33.040.00 EURO bedelli fatura gösterildiğini, tebliğ edilen ödeme emrine karşı, borçlu vekili tarafından 23.07.2014 tarihinde itiraz edildiğini, alacaklı vekili tarafından 10.12.2014 tarihinde, Ticaret Mahkemesi sıfatı ile Gebze 2.
 
@@ -295,6 +301,8 @@ Dosyadaki belgelere, mevcut delil durumuna, kararın dayandığı delillerle bel
 
 ## Sakarya BAM 7. HD 2026/1709 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1233096500)
+
 Davalı ...
 
 …
@@ -310,6 +318,8 @@ Davacı vekili istinafa cevap dilekçesinde özetle; davalıların 17.01.2023 ve
 Taşımaya konu hasarın 08/08/2022 tarihinde tespit edildiği, davaya konu icra takibine 11/01/2023 tarihinde başlandığı, davalıların takibe itiraz tarihleri göz önünde bulundurulduğunda ise ilk derece mahkemesinde ikame edilen davanın süresinde olduğu görülmekle, ilk derece mahkemesince zaman aşımı def'inin yerinde olmadığına dair kararının usul ve yasaya uygun olduğu değerlendirilmiştir.
 
 ## Adana BAM 9. HD 2026/1532 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1214967600)
 
 Davalılar vekili cevap dilekçesi ile; davacı ile davalılar arasında imzalandığı iddia edilen ve alacağa dayanak gösterilen genel kredi sözleşmesi üzerinde bulunan imza davalıların eli ürünü olmadığı, grafolojik inceleme için bilirkişiye tevdiine karar verilmesini, genel kredi sözleşmesi varlığı kabul edilmediği ve hukuki ilişkinin var olmadığı belirtilmiş olup davacı tarafın bankanın defter ve kayıtlarının kesin delil olacağına ilişkin iddiasının da hukuken geçersiz olduğu, zira ortada varlığı ispat edilmiş ve geçerli bulunan bir genel kredi sözleşmesi bulunmadığı, davacının davasının reddine karar verilmesini talep etmiştir.
 
