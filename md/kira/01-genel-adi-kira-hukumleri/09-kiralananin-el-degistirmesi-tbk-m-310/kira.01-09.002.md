@@ -110,6 +110,8 @@ Nitekim maddede; davacı açısından, sözleşmenin kurulması sırasında kira
 
 ## İstanbul BAM 43. HD 2026/1497 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1221847900)
+
 Davacının garanti ettiği dava dışı kiracının kira bedellerini ödememiş olması karşısında TBK 310 hükmünce kiracıdan kira bedelini isteme yetkisini davalı yeni malikte olduğundan bahisle teminatın iadesi şartlarının oluştuğunu kabul imkanı yoktur. Takip tarihi itibarıyla henüz şartın gerçekleştiği, ortada muaccel bir alacak yoktur. Bu durumda bu alacak kalemi yönünden muaccel bir alacak bulunmadığından davanın reddi gerekir.
 
 ## Antalya BAM 4. HD 2025/237 K.

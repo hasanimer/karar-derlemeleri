@@ -166,9 +166,13 @@ Yapı maliki bakım sorumluluğunu bir yükleniciye devretmiş ise zarar gören 
 
 ## İstanbul BAM 45. HD 2026/674 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1215729800)
+
 TBK.nun 69. (Mülga 818 sayılı B.K'nun 58) maddesi uyarınca, bir binanın veya diğer yapı eserlerinin maliki, bunların yapımındaki bozukluklardan veya bakımındaki eksikliklerden doğan zararı gidermekle yükümlüdür. Yerleşik Yargıtay uygulamasına göre, TBK'nın anılan maddesindeki sorumluluk objektif özen yükümlülüğüne aykırılıktan doğan "ağırlaştırılmış" bir kusursuz sorumluluk halidir. Bu sorumlulukta zarar gören, yapı malikinin, yani davalı ...'' nin kusurunu kanıtlamak zorunda değildir. Yapı maliki de, kusurun bulunmadığı savunmasının ötesinde uygun illiyet bağının kesildiğini kanıtlamalıdır.
 
 ## İstanbul BAM 17. HD 2026/658 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1208086600)
 
 TBK'nın 69. (Mülga 818 sayılı B.K'nun 58) maddesi uyarınca, bir binanın veya diğer yapı eserlerinin maliki, bunların yapımındaki bozukluklardan veya bakımındaki eksikliklerden doğan zararı gidermekle yükümlüdür. Yerleşik Yargıtay uygulamasına göre, TBK'nın anılan maddesindeki sorumluluk objektif özen yükümlülüğüne aykırılıktan doğan "ağırlaştırılmış" bir kusursuz sorumluluk halidir. Bu sorumlulukta zarar gören, yapı malikinin, yani davalı ...'' nin kusurunu kanıtlamak zorunda değildir. Yapı maliki de, kusurun bulunmadığı savunmasının ötesinde uygun illiyet bağının kesildiğini kanıtlamalıdır. Kusursuz sorumlulukta illiyet bağının kesilebilmesi için zarar görenin ağır kusurunun olması veya üçüncü bir kişinin illiyet bağını kesebilecek nitelikte ağır kusurunun olması veya zararlandırıcı sonucun meydana gelmesinde öngörülmeyen bir halin bulunması gerekmektedir. Ancak, imal olunan şey malikinin ek kusuru varsa, illiyet bağının kesilmesi malikin sorumluluğunu ortadan kaldırmaz.
 Davalıya ait atık su kanalizasyon borusu madde de açıklanan "imal olunan şey" kavramına dahil olup, davalı bu boruların kötü yapılmasından veya muhafazasından kaynaklanan zarardan kusursuz sorumludur. ... kanalizasyon sisteminin sorunsuz bir şekilde çalışmasını sağlamakla da yükümlüdür…

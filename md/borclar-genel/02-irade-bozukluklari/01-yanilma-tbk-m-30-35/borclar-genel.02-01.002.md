@@ -69,6 +69,8 @@ BK'nun 23.maddesi; "Akit yapılırken esaslı bir hataya düçar olan taraf, o a
 
 ## İstanbul BAM 13. HD 2026/847 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1209155000)
+
 (...)6098 Sayılı TBK'nun 30 ve devamı maddelerinde düzenlenen yanılma (hata); ya irade beyanının istenmeyerek arzuya uygun olmaması veya arzunun (iradenin) oluşmasına etki eden bir hususta düşüncenin gerçek duruma uygun olmamasıdır. Birinci halde açıklamada yanılma, ikinci halde arzunun oluşmasına yol açan saikte yanılma söz konusudur. Fakat her yanılma sözleşmenin geçersizliğini etkilemez. Ancak TBK'nun 30. maddesinde açıklandığı üzere sözleşme yapılırken düşülen esaslı bir yanılma sözleşmenin geçerliliğine etki eder. (Prof Dr. M. Kemal Oğuzman, Prof. Dr. Turgut Öz, Borçlar Hukuku Genel Hükümler cilt-1 18. Bası, s. 97) Bu açıklamalar ışığında somut olayımıza baktığımızda; davacı vekili davalının dava konusu ürünlerin "..." onaylı ve "..." belgeli olduğuna kendilerini ikna ederek sözleşme akdetmelerine neden olduğu ve kendilerinin esaslı olarak yanıldıklarını iddia etmiştir. Ancak yanılmanın tanımı ve TBK'nun yukarıda belirtilen esaslı yanılma halleri dikkate alındığında davacının esaslı yanılma ile sözleşme akdettiğinden bahsedilemez. Eczacı olan davacı ürünleri görerek ve isteyerek davalıdan satın almış ve karşılığında ödeme yapmıştır.
 Sözleşmenin kurulmasında ve saikte yanılma söz konusu değildir. Bu sebeple davacı vekilinin bu yöndeki iddialarına Mahkememizce itibar edilmemiştir.
 

@@ -22,6 +22,8 @@ uyari: "Derleyenin seçtiği alıntılardır; kararın tamamı değildir. Künye
 
 ## İstanbul BAM 43. HD 2026/1354 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1221839800)
+
 Dava, palamar ücreti alacağın tahsili istemiyle başlatılan icra takibine vaki itirazın iptali davasıdır.
 
 …
@@ -29,6 +31,8 @@ Dava, palamar ücreti alacağın tahsili istemiyle başlatılan icra takibine va
 İlk derece Mahkemesince, .... İcra Müdürlüğü'nün ... Esas sayılı takip dosyasında ... A.Ş., ... A.Ş. ... borçlu olarak gösterilmiş ise de adi ortaklığın tüzel kişiliğinin olmaması nedeniyle icra mahkemesine açılan davada adi ortaklık yönünden çıkartılan ödeme emrinin iptaline karar verildiği, karar tarihinden sonra davacı tarafça yeniden ödeme emri düzenlenmediği gibi İcra Müdürlüğünce bu tarihten sonra yapılmış bir icrai işlem de bulunmamakta olduğundan icra takip dosyasında usulüne uygun çıkartılmış ödeme emri, bu ödeme emrinin tebliği yasal süresi içinde yapılmış itiraz gibi usuli şartlar mevcut olmadığından davalılardan .... A.Ş., ... A.Ş. yönünden açılan davanın itirazın iptali davasına özgü usuli şartlar mevcut olmadığından usulden reddine karar verilmişse de, dava konusu icra dosyasının incelenmesinde, davacı vekili tarafından davalılara tebligat çıkartılması talep edildiği, adi ortaklığı oluşturan .... A.Ş., ... A.Ş. 'ye tebligatların yapılarak süresi içinde takibe itiraz etmiş oldukları görülerek, Mahkemece bu davalılar yönünden davanın usulden reddine karar verilmesi isabetsizlik görülmüştür.
 
 ## İstanbul BAM 15. HD 2026/652 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1208981100)
 
 Ortaklığı unvanını aldığını, Adi Ortaklığı oluşturan şirketlerin ... Şirketi ve ... Şirketi olup; ... A.Ş. ve ... A.Ş.’nin işbu adi ortaklıkla ve sözleşme ile herhangi bir ilgisi bulunmadığını, davanın ... A.Ş. ve ... A.Ş. açısından husumet yokluğu nedeniyle reddine karar verilmesi gerektiğini, davacı şirketin, eseri meydana getirme borcunu gereği gibi yerine getirmediğini, bu nedenle oluşan eksik ve kusurların düzeltilmesi amacıyla adi ortaklık tarafından yapılan masrafların ve meydana gelen zararın davacı şirketin hak edişinden kesildiğini, belirterek; davanın öncelikle ... A.Ş. ve ... A.Ş. açısından husumet yokluğu nedeniyle usulden reddine, davacının sözleşme’den doğan borcunu gerektiği gibi yerine getirmediğinin tespiti ile davanın reddine karar verilmesini talep etmiştir.Mahkemece 05.10.2021 tarihli karar ile; bilirkişi heyeti tarafından sunulan raporda; davacı yan ile davalı yanlar arasında herhangi bir ticari ilişkinin olmadığı, sözleşmenin dava dışı ... Ortaklığı ile yapıldığı, 01.08.2018 tarihinde yapılan hisse devri sözleşmesiyle ...Şti ortaklıktan çıkartılarak hisselerini davalı ... A.Ş” ne devrettiği ve adi ortaklığın ...
 

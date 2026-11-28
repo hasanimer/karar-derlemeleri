@@ -40,6 +40,8 @@ Bu durumda mahkemece davacıların murisi ve davalı ... ile diğer davalı site
 
 ## Ankara BAM 24. HD 2026/1258 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1232675600)
+
 Dava, davacının, davalı şirketin kusurlu davranışından dolayı teminat mektubunun irat kaydedilmesi nedeniyle uğradığı zararın tahsili için başlattığı icra takibine yapılan itirazın iptali talebine ilişkindir.
 
 …

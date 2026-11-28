@@ -188,6 +188,8 @@ Gerek Borçlar Kanunu düzenlemesinde (m. 225/2) gerekse Türk Medeni Kanunu dü
 
 ## Ankara BAM 21. HD 2026/1611 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1235862000)
+
 Bu durumda, tapu kaydındaki kira şerhinin terkini talebiyle açılan işbu dava taşınmazın aynından doğan dava niteliğinde bulunmadığından HMK'nun 12. maddesi kapsamında kesin yetkili mahkemenin taşınmazların bulunduğu yer mahkemesi olduğu ileri sürülemeyeceğinden davalı ... A.Ş. vekilinin bu yöndeki istinaf itirazı yerinde görülmemiştir.
 
 ## İstanbul BAM 12. HD 2025/813 K.

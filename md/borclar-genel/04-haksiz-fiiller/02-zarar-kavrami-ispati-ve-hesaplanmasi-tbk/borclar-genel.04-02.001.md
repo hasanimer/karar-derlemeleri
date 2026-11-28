@@ -79,4 +79,6 @@ Hukukumuzda zarar kavramı hususunda fark teorisi benimsenmiştir. Bu teori gere
 
 ## İstanbul BAM 43. HD 2026/1702 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1232478700)
+
 Haksız fiilin unsurlarından olan zarar kavramı, zarar görenin mal veya manevi varlığında bir azalmayı ifade eder. Haksız fiil faili de fiiliyle yaratmış olduğu eksilmeyi giderme, zarar gören kişiyi fiilden önceki duruma getirme borcu altındadır. Haksız fiilde tazminatın amacı zarar görenin gerçek zararını karşılamaktan ibarettir. Zararın niteliği, kapsamı ve tazmini her olayın kendine özgü yapısı içerisinde değişen bir özellik gösterir. Dolayısıyla tazminat miktarı belirlenirken de zarar görenin mal varlığının fiilden önceki hale getirilmesinin esas alınması gerekir.

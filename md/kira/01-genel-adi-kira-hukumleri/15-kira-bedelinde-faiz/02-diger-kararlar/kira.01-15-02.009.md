@@ -125,6 +125,8 @@ Mahkemece muaccel hale gelen kira bedellerinin tamamının yasal süresi içeris
 
 ## Diyarbakır BAM 6. HD 2026/1496 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1234922300)
+
 Bu bilgiler ışığında somut olayın değerlendirilmesinde; taraflar arasında ..." hakkında ... tarih ve ... sayılı finansal kiralama sözleşmesi akdedildiği, taraflar arasındaki sözleşmenin 10.1.2. maddesinde "Kiracının Kiralayana karşı herhangi bir yükümlülüğünün ve borcunun, hangi sebeple olursa olsun kısmen dahi olsun vadesinde hiç veya gereği gibi yerine getirilmemesi, kısmen yerine getirilmesi, kısmen ihlal edilmesi gibi tüm durumlar
 
 muacceliyet ve temerrüt sebebidir." hükmünün yer aldığı, yine 10.2.1. maddesinde de "Kiralayana verilmiş sözleşme, ödeme planı, poliçe, çek, bono ve sair belgelerde yer alan borçların kısmen dahi olsa vadesinde ödenmemesi" halinin muacceliyet koşulu sayıldığı, sözleşmede finansal kiralama bedelinin ... USD olduğu, ödeme planının ...-... tarihleri arasında olduğu, davacı tarafından Gebze 2. Noterliğinin ... tarih ve ... yevmiye sayılı ihtarnamesi ile ...
@@ -136,12 +138,16 @@ Davacı ve davalı ........ AŞ arasında 20/09/2022 tarihli hisse satış ve de
 
 ## İstanbul BAM 14. HD 2026/1243 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1219971800)
+
 İstanbul 9.Sulh Mahkemesinin 2013/390 sayılı dosyasının incelenmesinde; taraflar arasında imzalanan kira sözleşmesinde tüm ruhsat ve izinlerin ... tarafından sağlanacağına ilişkin şartın mevcut olmadığı, ...'un 21.07.2012 tarihli çalışma ve iş yeri ruhsatını bulunmasına rağmen istasyonun konumu itibariyle ... satışına izin verilmemesi nedeniyle menfi ve müspet zararlarının tazminini talep etmiş olduğu ancak ...'un davalı alt kiralayan ... ile dava dışı belediye arasındaki sözleşmeden ve sözleşmenin eki mahiyetindeki şartnameden haberdar olduğu, ...'un basiretli bir tacir olarak kiraladığı yerin yapacağı işe uygunluğunu araştırması gerektiği, bu sebeple maddi kayıpları ile ilgili taleplerin reddi gerektiği kanaatine varılarak davacının 14.06.2011 tarihli sözleşmenin feshine ilişkin davasının konusu kalmadığından karar verilmesine yer olmadığına, davacının sabit yatırım, mahrum kalınan karar ve kira bedellerinin iadesine ilişkin taleplerinin yerinde görülmediğine ilişkin 11.03.2014 tarihli hüküm tesis edildiği, bunun üzerine ... tarafından temyiz başvurusunda bulunulduğu, Yargıtay 6.HD'nin 2014/7324 E., 2014/10980 K.sayılı 14.10.2014 tarihli ilamı ile hüküm onandığı, ... tarafından
 karar düzeltme talebinde bulunulması üzerine, Yargıtay 6.HD'nin 2015/1285 E., 2015/6845 K.sayılı ilamı ile karar düzeltme istemi reddedilerek hükmün 14.10.2014 tarihinde kesinleştiği anlaşılmaktadır.Taraflar arasındaki 22.07.2011 tarihli protokolün incelenmesinde, ...'un bayi sıfatının olduğu ve bayilik faaliyetini gerçekleştirmek amacıyla ... ile 5 yıl süreli akaryakıt bayilik sözleşmesini imzalayacağı, protokolün 3.1.3.maddesinde ...'nin her yıl asgari 1000 metre küp ürünü ve 3 ton madeni
 
 yağın ...'den satın alma taahhüdü altına girdiği, eksik satın alınan her metre küp beyaz ürün için 100 ..., eksik satın alınan her bir ton madeni yağ için ise ton başına 250 ... cezai şart ödemeyi taahhüt ettiği, protokolün 3.1.5.maddesinin 7. bendinde, ...'un iş bu sözleşmenin eki taşınmaz mal kira şartnamesi ve özel şartnameye aykırı hareket etmesi halinde bu durumun protokolün feshi sonucunu doğuracağı ve ...'un ...'e 200.000 ... cezai şart ödeyeceği, 8.bendinde, ...'un belediye taşınmaz mal kira şartnamesinin 24.maddesindeki şartlara uygun olarak kar almadan akaryakıt ve ... satımı yapacağını, protokolün 5.maddesinde, söz konusu protokole, protokolün eki mahiyetinde kira şartnamesi ve özel şartnameye aykırılık durumunda ...'un ...'e 200.000 ... cezai şartı ödeyeceğinin hükme bağlandığı anlaşılmaktadır.Bakırköy 7.Asliye Ticaret Mahkemesi'nin 2014/289 esas sayılı dosyası içerisindeki 15.10.2015 havale tarihli bilirkişi mali müşavir ... tarafından düzenlenen bilirkişi raporunda taraflar arasındaki 20.06.2011 tarihli kira sözleşmesi incelenmiştir.
 
 ## Sakarya BAM 7. HD 2026/1035 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1212621700)
 
 Somut olayda; davalı tarafa ticari defterler ibraz edilmediği takdirde 6100 sayılı yasanın 222 ve devamı maddeleri uyarınca ibrazdan kaçınmış sayılacağının ihtarına ve davacı ticari defterlerinin hükme esas alınacağının da ihtar edilmesine rağmen sunulmadığı, davacı şirketin ticari defterler kayıtlardan yapılan tespitlerde; davacı şirketin defterleri üzerinde yapılan inceleme üzerine aldırılan bilirkişi raporları ile davacının müflis şirketten 5.351,52-TL masraf, 194,00-TL sigorta primi ile sigorta pirimine işleyen 572,56-TL temerrüt faizi taleple bağlı kalınarak 34.963,94-TL sigorta primi ve sigorta pirimine işleyen 30.681,54-TL temerrüt faizi, 105.960,01-Euro kira alacağı ile kira alacağına işlemiş 84.514,58-Euro'nun TL karşılığı olan 1.705.509,48-TL olmak üzere toplam 1.777.273,04-TL'nin alacağı bulunduğu tespit edildiğinden Mahkemece davacının 1.777.273,04-TL alacağının iflas masasına kaydedilmesine karar verilmesinde usul ve yasaya aykırılık bulunmamaktadır.
 
@@ -163,9 +169,13 @@ aldığı ürünlerden dolayı ...'ye olan her türlü borçlarının muaccel ha
 
 ## İstanbul BAM 44. HD 2026/691 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1212469600)
+
 Beşiktaş .... Noterliği'nin 13.09.2017 tarih ... yevmiye numaralı ihtarnamesi ile davalılara; 21.688,42 TL., Kira borcu ve 6.606,48 TL Temerrüt Faizi borcu ile 131,20'TL Masraf Temerrüt Faizi borcu olduğu, borçların 60 gün içerisinde ödenmesini, ödenmediği takdirde sözleşmenin feshedileceği, Finansal Kiralama Kanunu ve Sözleşmenin ilgili maddeleri gereğince bütün finansal kira borçlarının muaccel hale geleceğinin ihtar edildiği anlaşılmıştır.
 
 ## İstanbul BAM 44. HD 2026/686 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1210484700)
 
 Finansal kiralama uzmanı bilirkişi ... tarafından düzenlenen 03/11/2023 havale tarihli ek raporda özetle;" taraflar arasında .... Noterliği'nin... yevmiye numaralı, 09.04.2018 imza tarihli, 10.04.2018 tescil tarihli ve ... tescil numaralı düzenleme şeklinde finansal kiralama sözleşmesi ile, .... Noterliği'nin 21/05/2019 tarihli ve ...yevmiye numaralı finansal kiralama 1 nolu tadil sözleşmesi, .... Noterliği'nin 08/10/2019 tarihli ve ...yevmiye numaralı finansal kiralama ..nolu tadil sözleşmesi akdedildiği, bu sözleşmeler çerçevesinde davacının davalıya finansal kiraladığı iş makinelerini teslim etmekle taraflar arasında borç ilişkisinin doğmuş olduğu, finansal kiralama taksitlerinin ödenmemesi üzerine davacı tarafından
 

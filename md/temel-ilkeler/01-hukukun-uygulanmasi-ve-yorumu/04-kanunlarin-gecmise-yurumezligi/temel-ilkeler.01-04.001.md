@@ -128,6 +128,8 @@ Anayasa’nın 153. maddesindeki “İptal kararları geriye yürümez” kural�
 
 ## İzmir BAM 20. HD 2026/1160 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1224069600)
+
 Yapılan açıklama ve ilkelere uygun olarak 6100 sayılı Kanun'un “Zaman bakımından uygulanma” başlığını taşıyan 448/1. maddesi de “Bu Kanun hükümleri, tamamlanmış işlemleri etkilememek kaydıyla derhâl uygulanır” hükmünü içermektedir. Bu madde hükmüne göre kanunda aksine bir düzenleme getirilmediği takdirde, yeni usul hükümlerinin tamamlanmış usul işlemlerine bir etkisi olmayacak, önceki kanuna veya hükümlere göre yapılmış ve tamamlanmış olan işlemler geçerliliğini koruyacaktır. Buna karşın, tamamlanmamış usul işlemleri yeni kanun hükümlerine göre yapılacaktır.
 
 ## Ankara BAM 21. HD 2026/601 K.

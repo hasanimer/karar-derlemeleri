@@ -92,6 +92,8 @@ Olaydaki menfi zararın hesabında izlenecek yol ise, yukarıdan beri yapılan a
 
 ## Tekirdağ BAM 4. HD 2026/1100 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1230001600)
+
 Müspet zarar (olumlu zarar) ise, sözleşme tam olarak ifa edilmiş olsa idi alacaklının mal varlığının oluşacağı durum ile sözleşmeden dönülmüş olması nedeniyle mevcut durum arasındaki farktır. Dönme ve fesihte kusursuz olan yüklenicinin, kusurlu olan iş sahibinden olumlu zarar isteyebileceği kabul edilmekte ve yerleşik içtihat ve uygulamalarında kâr kaybının TBK'nın 480. maddesinin ikinci cümlesi (BK 325) kıyasen kesinti yöntemine göre hesaplanacağı kabul edilmektedir. (Örnek: Yargıtay 15. HD. 11.04.2007 T. 2006/4955 E. 2007/2372 K. ve Yargıtay 15. HD. 09.05.2013 T. 2012/7521 E. 2013/3029 K. ile Yargıtay 15. HD. 20.07.2011 T. 2011/864 E. 2011/4787 K. )…
 
 ## Ankara BAM 23. HD 2026/758 K.
@@ -105,6 +107,8 @@ Müspet zarar (olumlu zarar) ise, sözleşme tam olarak ifa edilmiş olsa idi al
 6098 sayılı Türk Borçlar Kanunu'nun 112. maddesine (818 sayılı mülga Borçlar Kanunu'nun 96.) göre alacaklının, borçludan borcun hiç veya gereği gibi ifa edilmemesi nedeniyle tazminat isteyebilmesi için alacaklının bu yüzden bir zarara uğramış olması gerekir. Sözleşmeden kaynaklanan zarar müspet zarar olacağı gibi, menfi zarar da olabilir. Müspet zarar; borçlu edayı gereği gibi ve vaktinde yerine getirseydi alacaklının mameleki ne durumda olacak idiyse, bu durumla eylemli durum arasındaki farkı ifade eder. Diğer bir anlatımla müspet zarar, sözleşmenin hiç veya gereği gibi yerine getirilmemesinden doğan zarardır ve kuskusuz kâr mahrumiyetini de içerir. Borcun yerine getirilmesinin kusurla olanaksız hale gelmesinde, temerrüde düşen borçludan tazminat istenmesinde, yahut borçlunun temerrüdü halinde ifadan vazgeçilip, ifa yerine tazminat istenmesinde ve sözleşmenin ihlalinde müspet zararın giderimi söz konusu olur (Prof. Dr. H. Tandoğan Türk Mesuliyet Hukuku 1961 s. 426 vd.).
 
 ## İstanbul BAM 70. HD 2026/38 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1230692000)
 
 Menfi zarar, uyulacağı ve yerine getirileceğine inanılan bir sözleşmenin hüküm ifade etmemesi ve yerine getirilmemesi yüzünden güvenin boşa çıkması dolayısıyla uğranılan zarardır. Başka bir anlatımla sözleşme yapılmasaydı uğranılmayacak olan zarardır. Menfi zarar, borçlunun sözleşmeye aykırı hareket etmesi yüzünden sözleşme hüküm ifade etmemesi dolayısıyla ortaya çıkar (Tandoğan, Haluk, Türk Mesuliyet Hukuku 1961, s. 427). Bu husus Borçlar Kanunu'nun 108. (6098 sayılı TBK'nın 125/son) maddesindeki düzenlemeden kaynaklanmıştır. Burada alacaklının sözleşmenin hükümsüzlüğünden kaynaklanan zararının tazmini söz konusudur. Menfi zarar kavramına, sözleşmenin yapılmasına ilişkin giderler, sözleşmenin yerine getirilmesi ve karşılık edanın kabulü için yapılan masraflar, sözleşmenin yerine getirilmesi dolayısıyla (gönderilen şeyin kaybolması gibi) uğranılan zarar, sözleşmenin geçerliğine inanılarak başka bir sözleşme fırsatının kaçırılması dolayısıyla uğranılan zarar, başka bir sözleşmenin yerine getirilmemesi dolayısıyla uğranılan zarar ve dava masrafları, noter masrafı, karar pulu, ... payı, gerçekleştirilen imalat bedeli, personel gideri vb kalemler örnek olarak verilebilir.
 

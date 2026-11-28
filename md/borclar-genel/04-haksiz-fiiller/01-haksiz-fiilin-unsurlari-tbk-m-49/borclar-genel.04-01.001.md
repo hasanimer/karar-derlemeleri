@@ -217,6 +217,8 @@ Zarar hesabında pasif dönem için dayanak teşkil eden “efor kaybına” ili
 
 ## Adana BAM 3. HD 2026/2744 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1236442400)
+
 TBK 49. maddesi uyarınca kusurlu davranışı nedeniyle başkasına zarar veren, bu zararı gidermekle yükümlüdür. TBK'nın 56/1.maddesine göre bir kimsenin bedensel bütünlüğünün zedelenmesi durumunda hakim olayın özelliklerini göz önünde tutarak, zarar görene uygun bir miktar paranın manevi tazminat olarak ödenmesine karar verebilir. 6098 TBK'nın 56/2. maddesi hükmüne göre, hakimin özel halleri göz önünde tutarak manevi zarar adı ile hak sahibine verilmesine karar vereceği bir para tutarı adalete uygun olmalıdır. Hakimin takdir hakkını kullanırken, ülkenin ekonomik koşulları, tarafların sosyal ve ekonomik durumları, paranın satın alma gücü, tarafların kusur durumu, olayın ağırlığı, olay tarihi gibi özellikleri göz önünde tutması ve buna göre manevi tazminat takdir etmesi gerektiği açıkça ortadadır. (HGK 23/06/2004, 13/291-370). TMK'nun 4 üncü maddesine göre kanunun takdir yetkisi tanıdığı veya durumun gereklerini ya da haklı sebepleri göz önünde tutmayı emrettiği konularda hakim hukuka ve hakkaniyete göre karar verir.
 
 ## Ankara BAM 25. HD 2025/1357 K.

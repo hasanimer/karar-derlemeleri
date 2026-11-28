@@ -23,6 +23,8 @@ uyari: "Derleyenin seçtiği alıntılardır; kararın tamamı değildir. Künye
 
 ## İstanbul BAM 16. HD 2026/1075 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1219565500)
+
 Finansal ...adına ... gövde no ile kayıtlı olan ve adı sonradan ...'e çevrilen ... isimli tekne ile, ... gövde no ile kayıtlı olan ... isimli teknelerin aynı tekne olmadıkları, ... teknesinin ... isimli
 
 tekneden daha öne inşa edildiği,Yapılan bilirkişi keşfi sırasında, ilk adı (...) ... olan ... isimli teknenin gövde numarasının örtüşmesi nedeniyle ...şirketinin mülkiyetinde olduğu, bu bağlamda ... şirketinin ... olarak ... şirketine kiraladığı teknenin aslında ... teknesi olduğu, zira ... teknesinin gövde numarası ... olmasına rağmen, satış faturasına ... gövde numarasının işlendiği, dolayısı ile böyle bir teknenin gerçekte var olmadığı, sadece vesika üzerinde kayda geçirilmiş olduğu, 20/09/2024 tarihli ikinci ek raporunda ise;...Sözleşmesinin ... no.lu Ödeme Planında 2 adet deniz aracına KDV dahil toplamda 640.019,20 EURO bedelle tek bir ödeme planının düzenlendiği, İlgili ödeme planının 2 adet deniz aracına yansıtılması sonucu hesaplanan ödeme planına göre ... ("...") ... için 309.646,62 EURO ve ... ("...") ... için 330.622,58 EURO hesaplandığı, Davacının davalıya uyuşmazlığa konu ...
@@ -31,15 +33,21 @@ geçip geçmediği de tespit edilerek 2015 ve dava dışı şirketle yapılan 20
 
 ## İzmir BAM 17. HD 2026/1645 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1225716100)
+
 Davalı taraf ise; Türkiye'de yerleşik kişiler arasında düzenlenen; Menkul ve gayrimenkul alım satım sözleşmeleri, Taşıt ve finansal kiralama dahil her türlü menkul ve gayrimenkul kiralama sözleşmeleri İş, hizmet, eser sözleşmelerinde, Sözleşme bedeli, sözleşmeden kaynaklanan diğer ödeme yükümlülükleri, döviz cinsinden veya dövize endeksli olarak kararlaştırılamayacağını, davacının iddia ettiği gibi kur farkı oluşmadığını davanın reddini talep etmiştir .
 
 ## Sakarya BAM 7. HD 2026/1035 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1212621700)
 
 Somut olayda; davalı tarafa ticari defterler ibraz edilmediği takdirde 6100 sayılı yasanın 222 ve devamı maddeleri uyarınca ibrazdan kaçınmış sayılacağının ihtarına ve davacı ticari defterlerinin hükme esas alınacağının da ihtar edilmesine rağmen sunulmadığı, davacı şirketin ticari defterler kayıtlardan yapılan tespitlerde; davacı şirketin defterleri üzerinde yapılan inceleme üzerine aldırılan bilirkişi raporları ile davacının müflis şirketten 5.351,52-TL masraf, 194,00-TL sigorta primi ile sigorta pirimine işleyen 572,56-TL temerrüt faizi
 
 taleple bağlı kalınarak 34.963,94-TL sigorta primi ve sigorta pirimine işleyen 30.681,54-TL temerrüt faizi, 105.960,01-Euro kira alacağı ile kira alacağına işlemiş 84.514,58-Euro'nun TL karşılığı olan 1.705.509,48-TL olmak üzere toplam 1.777.273,04-TL'nin alacağı bulunduğu tespit edildiğinden Mahkemece davacının 1.777.273,04-TL alacağının iflas masasına kaydedilmesine karar verilmesinde usul ve yasaya aykırılık bulunmamaktadır.
 
 ## İstanbul BAM 45. HD 2026/497 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1204753000)
 
 Protokolü bağlamında temlik alınan/alınacak kira bedelleri yoluyla elde edilecek gelirlere ilişkin projeksiyonu (28.04.2025 tarihli kesin konkordato projesinin eki olarak mahkemeye ve alacaklıların incelemesine sunmuş olup, Projeksiyon'a göre, Ocak 2025 -Nisan 2025 dönemine ilişkin kümülatif gelir beklentisi 62.036,39 Euro olup borçlu şirket ise bu döneme ilişkin toplam yaklaşık 108.165,40 Euro nakit kira geliri elde etmiş olduğu aşağıdaki belgelerden anlaşıldığı, Mayıs 2025'e ilişkin kira bedelleri de ayın sonunda, ilgili kiracıların ciro raporları tamamlandıktan sonra borçlu şirket'e ödeneceği, dolayısıyla Nisan 2025 itibarıyla, ... Şirket'in ... Projesi'nden beklediği gelir projeksiyonun üzerinde bir gelir elde edildiği anlaşıldığı, bunun haricinde ...Şirket, sonraki dönemlere ilişkin kira gelirlerine mahsuben toplam 54.578.000,07 TL'lik çek ve bono yoluyla ön ödeme almış bulunduğu, bunun 40.000.000 TL'lik bölümü, doğrudan ... Protokolü'nün de tarafı olan, ....'nın iş sahipleri ... A.Ş. ve ...
 A.Ş. eliyle, kendileri tarafından işletilen dükkânların kira bedelleri için müştereken keşide edildiği, kalan çekler ise ... ve ... dükkânlarının 2025 yılı sonuna kadar olan kira bedellerine mahsuben verildiği, bu bağlamda, söz konusu çek ve bonolar ile ... Şirket, Projeksiyon'da öngörülen gelirlerin bir bölümü şimdiden kambiyo senedine bağlayarak temin etmiş bulunduğu, ... etabında faaliyet gösteren diğer kiracılar ise hali hazırda her ay düzenli olarak, cirolarına göre hesaplanan kiralarını ödedikleri, Söz konusu çeklere ilişkin tablo aşağıda gösterilmiş olup toplam tutar 54.578.000,07 olduğu, Şirketin Proforma Gelir Tablosunda 2025-2028 yıllarında toplamda 25.641.57077 TL kâr öngördüğü, Şirket'in, 2023 yılında 167.173508,73 TL zarar ettiği, 31.12.2024 tarihi itibariyle 132.047.997,85 TL dönem net kârı elde etmişse de nakit para giriş veya çıkışı olmayan enflasyon düzeltmesi kârlarının veya enflasyon düzeltmesi zararlarının fark 60.271.323,65 TL D. net kârından indirildiğinde 71.776.674,20 TL dönem net kârının olacağı, ayrıca, Şirket'in maliyet hesaplarındaki 293 milyon TL tutarındaki playwood vb.

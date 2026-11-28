@@ -82,6 +82,8 @@ Borçlar Kanunu’nun 85. maddesinde “Birden fazla borçları bulunan borçlu,
 
 ## İstanbul BAM 13. HD 2026/942 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1210803800)
+
 TBK'nun 101 maddesi uyarınca; birden çok borcu bulunan borçlu, ödeme gününde bu borçlardan hangisini ödemek istediğini alacaklıya bildirebilir. Borçlu bildirimde bulunmazsa, yapılan ödeme, kendisi tarafından derhâl itiraz edilmiş olmadıkça, alacaklının makbuzda gösterdiği borç için yapılmış sayılır. TBK'nun 102/1 fıkrası uyarınca; kanunen geçerli bir açıklama yapılmadığı veya makbuzda bir açıklık bulunmadığı durumda ödeme, muaccel borç için yapılmış sayılır. Birden çok borç muaccel ise ödemenin, borçluya karşı ilk olarak takip edilen borç için yapılmış olduğu kabul edilir. Takip yapılmamış ise ödeme, vadesi ilk önce gelmiş olan borç için yapılmış olur. TBK'nun 102/2 fıkrası uyarınca birden çok borcun vadesi aynı zamanda gelmişse, mahsup orantılı olarak; borçlardan hiçbirinin vadesi gelmemişse ödeme, güvencesi en az olan borç için yapılmış sayılır.
 
 ## Adana BAM 9. HD 2022/374 K.

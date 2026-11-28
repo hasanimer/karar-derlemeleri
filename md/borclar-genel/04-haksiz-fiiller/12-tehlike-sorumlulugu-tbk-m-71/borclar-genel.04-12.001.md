@@ -297,14 +297,20 @@ Yargılama sırasında yürürlüğe giren, 2872 Sayılı Yasanın 28.maddesinde
 
 ## Adana BAM 3. HD 2026/2615 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1233329100)
+
 Motorlu araçların işletilme tehlikesine karşı, zarar gören üçüncü şahısları korumak amacıyla getirilmiş olan düzenleme ile öngörülen sorumluluğunun bir kusur sorumluluğu olmayıp, sebep sorumluluğu olduğu; böylece araç işletenin sorumluluğunun sebep sorumluluğunun ikinci türü olan tehlike sorumluluğuna ilişkin bulunduğu, öğretide ve yargısal içtihatlarla kabul edilmektedir (Fikret Eren, Borçlar Hukuku, 9. Bası, s. 631 vd.; Ahmet Kılıçoğlu, Borçlar Hukuku, Genişletilmiş 10. Baskı, s. 264 vd). Hemen belirtmelidir ki, işletenin sorumluluğu hukuki nitelikçe tehlike sorumluluğuna ilişkin bulunmakta olup uyuşmazlığın bu çerçevede ele alınıp, çözümlenmesi gerekmektedir.
 
 ## İzmir BAM 17. HD 2026/1159 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1217978000)
 
 Yine, davalılardan ......'nün ise davacının sigortacısı olan.....A.Ş.’ne düzenlediği 06.07.2021 tarihli 254,07 TL bedelli hizmet faturasıyla liman ardiye ve muayene / liman hizmetleri başlığıyla düzenlediği faturaya istinaden yüklemeyi taahhüt ettiği, bu nedenle liman içerisinde bulunan emtianın kamyona yüklenmesi sırasında doğacak hasarlardan limanın sorumlu olduğu, her ne kadar liman idaresinin bu işi ... Hizmet Alımları Tıp Sözleşmesiyle alt yüklenici olan ...A.Ş.’ne ihale yoluyla devretmiş olsa dahi 3. kişilere karşı sorumluluğunun devam ettiği, bu firmayla ihale yoluyla yapılan sözleşme kapsamında doğacak zararlardan .... A.Ş.’ye rücu etme hakkının bulunduğunu, bu davalının sorumluluğunun aynı zamanda TBK m. 66 gereğince adam çalıştıranın sorumluluğuna dayandığı, yine TBK m.
 71’e göre yapılan işin niteliği liman hizmetleri olması ve bu işin tehlike doğuran bir iş olması nedeniyle tehlike sorumluluğunun da bulunduğu, bu tehlike nedeniyle doğan zararlardan davalının sorumluluğunun bulunacağı, vinçler, istif makineleri veya forkliftlerin kullanılmasından doğacak zararlarda limanın işletilmesi nedeniyle önemli ölçüde tehlikeli bir faaliyet teşkil etmesi nedeniyle göstereceği tüm özene rağmen doğacak zararlardan sorumluluğu bulunacaktır.
 
 ## Ankara BAM 35. HD 2026/974 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1213366900)
 
 Araç işleteninin hukuki sorumluluğunun sınırları ile bu sorumluluğun kalkmasının şartlarını düzenleyen 2918 sayılı Karayolları Trafik Kanunu'nun 85 vd. maddelerine göre, araç işleteninin sorumluluğunun temelinde kusursuz sorumluluğun bir türü olan tehlike sorumluluğu bulunmaktadır. Tehlike sorumluluğunun cari olduğu işletenin sorumluluğunun son bulması için de, anılan Kanun'un 86/1. maddesinde açıkça ifade edildiği üzere, illiyet bağını ortadan kaldıracak mahiyette 3. kişi kusuru, zarar görenin ağır kusuru veya mücbir sebep hallerinden birinin bulunması gerekmektedir. Bu üç halden birinin bulunduğu durumda dahi işletenin sorumluluğunun son bulması için, araçtaki bozukluğun ya da işleten ile eylemlerinden sorumlu olduğu kişilerin kusurunun kazaya etki etmemiş olması gerekmektedir. Bu itibarla, işletenin kusurlu eyleminin katıldığı ya da araçtaki teknik arızanın olaya etki ettiği durumlarda, işletenin sorumluluktan kurtulmasının mümkün olamayacağı açıktır.
 
@@ -315,6 +321,8 @@ Araç işleteninin hukuki sorumluluğunun sınırları ile bu sorumluluğun kalk
 Kusur aranmaksızın sorumluluğun düzenlendiği haller, kusursuz sorumluluk halleri olarak ifade edilmektedir. Doktrin kusursuz sorumluluk hallerini olağan sebep sorumluluğu ve tehlike sorumluluğu şeklinde ikili ayrıma tabi tutarken, Türk Borçlar Kanunu'nda; hakkaniyet sorumluluğu, özen (sebep) sorumluluğu ve tehlike sorumluluğu şeklinde ayrıma tabi tutulduğu görülmektedir. Denetleme ve gözetimde özen (cura in custodio) gereği, kusur unsur olarak aranmaz.
 
 ## İstanbul BAM 45. HD 2026/810 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1216490900)
 
 Kusursuz sorumluluğun bir türü olan tehlike sorumluluğu, tehlike arz eden bir işletmenin faaliyeti nedeniyle oluşan bir sorumluluktur. Anılan maddede ifade edildiği gibi bir işletmenin faaliyetinden zarar doğduğu takdirde, buralardan işletme sahibi ve varsa işletenin müteselsilen sorumlu olacaktır. Ancak işletme ile gerçekleşen zarar arasında uygun illiyet bağının bulunması gerekmektedir...Bu sebeple sorumluluğunun bağlandığı olgu ile zarar arasında uygun illiyet bağı kurulduğu zaman, sorumluluk da gerçekleşmiş olacağından, bu işletme veya nesnelerin sahip veya işletenleri, bunların sebep oldukları zararı gidermek zorundadır. (Prof. Dr. Fikret Eren, Borçlar Hukuku Genel Hükümler 1991 Baskı Cilt 2 sf: 14-15). Kusursuz sorumlulukta illiyet bağının kesilebilmesi için zarar görenin ağır kusurunun olması, üçüncü bir kişinin illiyet bağını kesebilecek nitelikte ağır kusurunun olması veya zararlandırıcı sonucun meydana gelmesinde öngörülmeyen bir halin bulunması şartlarından birini gerçekleşmesi gerekmektedir.
 
@@ -332,9 +340,13 @@ Kusur aranmaksızın sorumluluğun düzenlendiği haller, kusursuz sorumluluk ha
 
 ## İstanbul BAM 43. HD 2026/614 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1211749600)
+
 6098 sayılı Türk Borçlar Kanunu'nun ‘’Tehlike sorumluluğu ve denkleştirme ‘’ kenar başlıklı 71. maddesi "Önemli ölçüde tehlike arzeden bir işletmenin faaliyetinden zarar doğduğu takdirde, bu zarardan işletme sahibi ve varsa işleten müteselsilen sorumludur.Bir işletmenin, mahiyeti veya faaliyette kullanılan malzeme, araçlar ya da güçler göz önünde tutulduğunda, bu işlerde uzman bir kişiden beklenen tüm özenin gösterilmesi durumunda bile sıkça veya ağır zararlar doğurmaya elverişli olduğu sonucuna varılırsa, bunun önemli ölçüde tehlike arzeden bir işletme olduğu kabul edilir. Özellikle, herhangi bir kanunda benzeri tehlikeler arzeden işletmeler için özel bir tehlike sorumluluğu öngörülmüşse, bu işletme de önemli ölçüde tehlike arzeden işletme sayılır.Belirli bir tehlike hâli için öngörülen özel sorumluluk hükümleri saklıdır.Önemli ölçüde tehlike arzeden bir işletmenin bu tür faaliyetine hukuk düzenince izin verilmiş olsa bile, zarar görenler, bu işletmenin faaliyetinin sebep olduğu zararlarının uygun bir bedelle denkleştirilmesini isteyebilirler." şeklindedir.
 
 ## Erzurum BAM 1. HD 2026/415 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1209951600)
 
 TBK.71.maddesine göre; Önemli ölçüde tehlike arzeden bir işletmenin faaliyetinden zarar doğduğu takdirde, bu zarardan işletme sahibi ve varsa işleten müteselsilen sorumludur. Bir işletmenin, mahiyeti veya faaliyette kullanılan malzeme, araçlar ya da güçler göz önünde tutulduğunda, bu işlerde uzman bir kişiden beklenen tüm özenin gösterilmesi durumunda bile sıkça veya ağır zararlar doğurmaya elverişli olduğu sonucuna varılırsa, bunun önemli ölçüde tehlike arzeden bir işletme olduğu kabul edilir. Özellikle, herhangi bir kanunda benzeri tehlikeler arzeden işletmeler için özel bir tehlike sorumluluğu öngörülmüşse, bu işletme de önemli ölçüde tehlike arzeden işletme sayılır. Belirli bir tehlike hâli için öngörülen özel sorumluluk hükümleri saklıdır. Önemli ölçüde tehlike arzeden bir işletmenin bu tür faaliyetine hukuk düzenince izin verilmiş olsa bile, zarar görenler, bu işletmenin faaliyetinin sebep olduğu zararlarının uygun bir bedelle denkleştirilmesini isteyebilirler.
 

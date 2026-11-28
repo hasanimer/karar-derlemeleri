@@ -120,6 +120,8 @@ Kural olarak da, vekil ile sözleşme yapan kişi Türk Medeni Kanununun 3.madde
 
 ## Sakarya BAM 7. HD 2026/1771 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1232106200)
+
 6098 sayılı TBK'nın 40. maddesine göre yetkili temsilde, temsil olunanın sözleşme ile bağlı olması "Yetkili bir temsilci tarafından bir başkası adına ve hesabına yapılan hukuki işlemin sonuçları, doğrudan doğruya temsil olunanı bağlar." şeklinde ifade edilmiştir. Yetkili ve yetkisiz temsilci 6098 sayılı TBK'nın 40 vd. maddelerinde düzenlenmiştir.
 
 ## Konya BAM 6. HD 2026/1114 K.
@@ -127,6 +129,8 @@ Kural olarak da, vekil ile sözleşme yapan kişi Türk Medeni Kanununun 3.madde
 6098 sayılı Türk Borçlar Kanunu’nun 547. maddesinin birinci fıkrasında ise, ticari mümessil; “Ticari temsilci, işletme sahibinin, ticari işletmeyi yönetmek ve işletmeye ilişkin işlemlerde ticaret unvanı altında, ticari temsil yetkisi ile kendisini temsil etmek üzere, açıkça ya da örtülü olarak yetki verdiği kişidir.” şeklinde tanımlanmıştır.
 
 ## Ankara BAM 31. HD 2026/939 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1235927300)
 
 Kural olarak 6098 Sayılı TBK'nın 40. maddesi hükmüne göre, yetkili bir temsilci tarafından bir başkası adına ve hesabına yapılan hukuki işlemin sonuçları, doğrudan doğruya temsil olunanı bağlar, alacak ve borçları temsil olunana intikâl eder. Hukuki muamelede bulunanın yetkili temsilci olmaması halinde, temsil olunanı bağlamayacağından şahsen sorumlu olur. 6098 sayılı TBK'nın 46. maddesinde, bir kimsenin yetkisi olmadığı halde temsilci olarak bir hukuki işlem yaptığı ve bu işlemi temsil olunan tarafından onandığı ve icazet verildiği taktirde temsil olunanı bağlayacağı kabul edilmiştir (Yargıtay (kapatılan) 15. Hukuk Dairesi, 2019/3309 Esas, 2020/1951 Karar).
 

@@ -115,6 +115,8 @@ belirlenmesi gerekecektir. Öyleyse mahkeme öncelikle bu yerin "aile konutu old
 
 ## İstanbul BAM 44. HD 2026/1015 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1222223200)
+
 4721 sayılı Türk Medeni Kanunu'nun 194/1. maddesine göre, “Eşlerden biri, diğer eşin açık rızası bulunmadıkça, aile konutu ile ilgili kira sözleşmesini feshedemez, aile konutunu devredemez veya aile konutu üzerindeki hakları sınırlayamaz." Bu madde hükmü ile aile konutu şerhi “konulmuş olmasa da'’ eşlerin birlikte yaşadıkları aile konutu üzerindeki fiili ehliyetleri sınırlandırılmıştır. Sınırlandırma, aile konutu şerhi konulduğu için değil, zaten var olduğu için getirilmiştir.
 
 ## Bursa BAM 4. HD 2025/2129 K.

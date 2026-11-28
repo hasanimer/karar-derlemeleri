@@ -125,6 +125,8 @@ Bu nedenle, HUMK.nun 288.maddesi uyarınca 1.1.1998 tarihinden itibaren 20.000.0
 
 ## Ankara BAM 22. HD 2026/1009 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1217687100)
+
 Hal böyle olunca, mahkemece, dava konusu olayda ispat yükünün davacı üzerinde bulunduğu, ancak davacının iddiasını ispat edemediği dikkate alınarak, davanın reddine karar verilmesi gerekirken, yanılgılı hukuki değerlendirmeye dayalı olarak ve davalının senetlerin (bonoların) veriliş nedeni talil ettiği, dolayısıyla ispat yükünün yer değiştirdiği ve davalı tarafa geçtiği, bu itibarla davalının ileri sürdüğü savunmaların varlığını yazılı delil ile ispat yükü altında olduğu, davalı tarafından senetlerin birikmiş kira borcuna istinaden tanzim edildiğine dair savunmaları ispata yarar herhangi bir yazılı delil sunmadığı gerekçesiyle, davanın kabulüne karar verilmesinde isabet bulunmamıştır.
 
 ## Gaziantep BAM 4. HD 2026/1148 K.

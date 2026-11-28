@@ -233,6 +233,8 @@ Taraflar arasında akdî ilişki bulunduğu uyuşmazlık konusu değildir. Davad
 
 ## Adana BAM 3. HD 2026/2676 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1235168800)
+
 Haksız fiilde sürücü ve işleten yönünden temerrüt olay tarihinden itibaren gerçekleşir. Sigorta şirketinin ise poliçe kapsamında sorumlu olduğu tazminatı 2918 sayılı KTK 99. maddesi gereğince başvuru tarihinden itibaren 8 iş günü içerisinde ödemesi gerekmektedir. Bu süre içinde ödeme yapılmaz ise bu süre sonra erdikten sonra 9. gün sigorta şirketinin temerrüde düştüğü kabul edilir. Davacı tarafın davadan önce sigorta şirketine bir başvuruda bulunmaması halinde yada başvuru ispatlanmadığı hallerde davalı sigorta şirketinin dava tarihi itibari ile temerrüte düştüğü kabul edilerek bu tarihten itibaren faize hükmolunması gerekmektedir.
 
 ## Gaziantep BAM 11. HD 2026/1712 K.
@@ -250,6 +252,8 @@ Haksız fiilde sürücü ve işleten yönünden temerrüt olay tarihinden itibar
 Teslim zamanının gelmesine rağmen eseri tamamlamayan veya tamamladığı halde teslim etmeyen yüklenici temerrüde düşer. Temerrüdün şartları bakımından TBK'nın 117 vd. Hükümleri eser sözleşmesinde teslim borcunu ifada temerrütte de uygulanır. Gerek fiili zarar gerek yoksun kalınan kâr, gecikme tazminatının kapsamına dahildir. Buna göre işsahibi, üretim veya kira kaybından, kredi faizlerinin artmasından veya daha fazla kredi faizi ödemekten doğan veya cezaî şartlar gibi üçüncü kişilere ödediği tazminatlardan kaynaklanan zararının yükleniciden talep edebilir. İşsahibi teslim borcunu ifada temerrüde düşen yükleniciye bir ihtar çekerek vereceği ek sürenin sonuçsuz kalması üzerine sözleşmeden dönerek menfi zararının tazminini de talep edebilir.
 
 ## Ankara BAM 42. HD 2026/173 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1234971900)
 
 6098 sayılı Türk Borçlar Kanunu'nun 117. maddesi uyarınca kural olarak muaccel bir borcun borçlusu ancak alacaklının ihtarıyla temerrüde düşer. Banka kredi sözleşmelerinde yer alan muacceliyet kayıtları ve bankanın hesabı kat etmesi, yalnızca alacağın vadesinin geldiğini ve talep edilebilir olduğunu (muacceliyet) gösterir. Sözleşmede "muacceliyet tarihinden itibaren temerrüt faizi uygulanır" şeklinde genel klozlar bulunsa dahi, borçlu veya kefil usulünce temerrüde düşürülmedikçe doğrudan temerrüt faizine mahkûm edilemez.
 

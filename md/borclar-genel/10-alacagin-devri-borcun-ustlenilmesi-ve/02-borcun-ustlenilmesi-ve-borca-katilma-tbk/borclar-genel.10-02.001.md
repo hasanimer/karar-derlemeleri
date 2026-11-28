@@ -180,10 +180,14 @@ Borcun nakli Borçlar Kanunu'nun 174.maddesinde düzenlenmiş olup, bu durumda b
 
 ## Adana BAM 9. HD 2026/1481 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1214777900)
+
 İşbu dava konusu sözleşme esasen bir borcun nakli sözleşmesidir. Borcun nakli müessesesi sözleşme tarihinde yürürlüğe girmiş bulunan ve zaman bakımından uygulanması gereken 6098 sayılı Türk Borçlar Kanunu'nun 195 ila 204. maddeleri arasında düzenlenmiştir. Borcun nakli müessesini borcun iç yüklenilmesi ve borcun dış yüklenilmesi olarak ayırmak gerekir. Borcun iç yüklenilmesi; asıl borçlu ile borcu nakil alan üçüncü kişi arasındaki sözleşmeyi ifade eder. Böyle bir sözleşmenin geçerliliği herhangi bir şekle tabî olmadığı gibi, alacaklı bakımından sonuç doğurabilmesi için ise alacaklının açık muvafakatı gerekmektedir. Borcun dış yüklenilmesi ise, aynı Kanun'un 196. maddesinde düzenlenmiş olup, alacaklı ile borcu nakil alan üçüncü kişi arasındaki sözleşmeyi ifade etmektedir. Borcun dış yüklenilmesinin gerçekleşmesi için icap ve kabul iradelerinin birleşmesi yeterli olup, geçerliliği için herhangi bir şekil şartına gerek yoktur. Şu halde, borcu nakil alan üçüncü kişinin icabının alacaklı tarafından kabul edilmesiyle borcun nakli sözleşmesi kurulur. Alacaklının kabulü açıkça olabileceği gibi zımni de olabilir.
 Borcun yüklenilmesi, borç ilişkisinde taraf değişimine yol açan hukuksal bir kurumdur. Borcun yüklenilmesinde, borç ilişkisinin konusu değişmediği halde, taraflarında bir değişim meydana gelmektedir. Borcu üstlenen kişi, alacaklı ile borcun dış yüklenmesini yaptığı anda, artık asıl borçlu borçtan kurtulur, onun yerini borcu yüklenen kişi alır. Buna göre, borcu üstlenen kişi borçluya karşı borcun iç yüklenilmesi anlaşmasından doğan edimini, alacaklı ile borcun dış yüklenilmesi anlaşmasını yaptığı anda ifa etmiş olur. Bu itibarla, borcun dış yüklenilmesi sözleşmesinin kurulmasından sonra alacaklı alacağını ancak, borcu yüklenen üçüncü kişiden isteyebilir, borcu nakleden asıl borçludan isteyemez (...Karar sayılı kararları da aynı yöndedir)…
 
 ## İstanbul BAM 43. HD 2026/1355 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1221991400)
 
 Borca katılma sözleşmesinin geçerliliği kanununda herhangi bir şekil şartına bağlanmamıştır. Ancak TBK'nın 603. maddesindeki, kefaletin şekline, kefil olma ehliyetine ve eşin rızasına ilişkin hükümler, gerçek kişilerce, kişisel güvence verilmesine ilişkin olarak başka ad altında yapılan diğer sözleşmelere de uygulanır, şeklindeki düzenlemesi kapsamında şahsi bir teminat niteliğinde olan borca katılma halinde de kefalet sözleşmesi hakkında öngörülen şekil kurallarının aranması gerekir. TBK'nın 583. Maddesinde, Kefilin, sorumlu olduğu azamî miktarı, kefalet tarihini ve müteselsil kefil olması durumunda, bu sıfatla veya bu anlama gelen herhangi bir ifadeyle yükümlülük altına girdiğini kefalet sözleşmesinde kendi el yazısıyla belirtmesi şart olduğu düzenlenmiştir.
 

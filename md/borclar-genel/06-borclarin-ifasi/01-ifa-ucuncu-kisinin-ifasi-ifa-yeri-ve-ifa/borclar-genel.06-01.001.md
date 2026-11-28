@@ -296,8 +296,12 @@ Hiç bir borcun vadesi hulül etmemiş ise alacaklı için en az teminatı haiz 
 
 ## Sakarya BAM 7. HD 2026/1792 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1234234900)
+
 ...Kısmi ifaya ilişkin kurallar da (icra takibinin yapıldığı tarihte yürürlükte bulunan) 818 sayılı Borçlar Kanunu'nun 84 ve devamı maddelerinde düzenlenmiştir. Kanun'un 85. maddesinin birinci fıkrasına göre birden fazla borcu bulunan borçlu, ödeme zamanında bu borçlardan hangisini tediye etmek istediğini alacaklıya beyan etme hakkını haizdir. 86. maddeye göre de yasal olarak geçerli bir beyan vaki olmadığı yahut makbuzda ödemenin hangi borca mahsup edileceği gösterilmediği takdirde, tediye muaccel olan borca mahsup edilir. Birden çok borç muaccel ise tediye, borçlu aleyhinde birinci olarak takip edilen borca mahsup edilir. İcra takibi yapılmamış ise tediye, vadesi daha önce gelmiş olan borca mahsup edilir. Yargıtay Hukuk Genel Kurulunun 03/05/2006 tarihli ve 2006/19-260 E., 2006/251 K.; 09/06/2010 tarihli ve 2010/19-262 E. 2010/304 K; 27/01/2016 tarihli ve 2015/15-1830 E.,2016/98 K.; 25/04/2018 tarihli ve 2017/19-903 E., 2018/974 K. sayılı kararlarında da bu yönde açıklamalar yer almaktadır..." açıklamalı ilamı ile cari hesap/ açık hesap arasındaki farklar, yapılan ödemelerin hangi borca mahsup edileceği hususları anlatılmıştır.
 
 ## Ankara BAM 42. HD 2026/63 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1229944300)
 
 Kural olarak; sözleşmeden doğan alacak zamanaşımı, alacağın muaccel olduğu anda işlemeye başlar. Buradaki "muacceliyet" kavramı, alacaklı tarafından talep ve dava edilebilir hâle gelmiş olma anlamını taşıdığından, öncelikle doğmuş bir alacağın varlığı gerekir. Alacağın muacceliyeti bir ihbar şartına bağlı ise zamanaşımı bu ihbarın yapılabileceği andan itibaren işlemeye başlayacaktır. Bu anlamda ifa anının gelmesine borcun muaccel olması denilebilir. Alacaklı ancak bundan sonra alacağını dava edebilir ve alacak için zamanaşımı süresi de bu andan itibaren işler. Borcun yerine getirilmesi bir süreye bağlanmamışsa, borcun doğumu ile birlikte alacak "muaccel" olur (BK m. 74; TBK m. 90) ve borcun doğumu ile birlikte zamanaşımı işlemeye başlar". Sözleşmeden doğan borçlarda zamanaşımının işlenmeye başlaması için alacağın muaccel (istenebilir) olması yeterlidir.

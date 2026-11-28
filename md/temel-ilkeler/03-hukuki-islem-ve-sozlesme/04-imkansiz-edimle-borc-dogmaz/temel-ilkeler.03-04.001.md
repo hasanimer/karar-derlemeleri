@@ -126,6 +126,8 @@ Söz konusu taşınmaz mal üzerinde henüz kat mülkiyetinin veya kat irtifakı
 
 ## İstanbul BAM 70. HD 2026/47 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1233215800)
+
 Tüm dosya kapsamı, tarafların beyanları birlikte değerlendirildiğinde, sözleşme tarihinde davaya konu taşınmazın yapı ruhsatında “mesken” olarak planlandığı anlaşıldığından sözleşmede kararlaştırılan ... oteli peyzaj havuzu işinin yapılması mümkün değildir. Bu nedenle sözleşme, sözleşme öncesi objektif imkansızlık nedeniyle geçersizdir ve geçersiz sözleşmeye dayanılarak ifaya ekli cezai şart talebinde bulunulamaz. Bu itibarla mahkemece davanın reddine karar verilmesinde isabetsizlik görülmemiştir.
 
 ## Sakarya BAM 7. HD 2024/357 K.

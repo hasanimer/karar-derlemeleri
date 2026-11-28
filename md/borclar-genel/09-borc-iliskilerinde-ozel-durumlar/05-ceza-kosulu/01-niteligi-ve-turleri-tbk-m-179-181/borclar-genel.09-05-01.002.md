@@ -136,13 +136,19 @@ Duraksamadan söylenmelidir ki, sözleşmenin 8.maddesindeki hüküm seçimlik c
 
 ## Ankara BAM 21. HD 2026/1424 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1236814400)
+
 Anılan hüküm karşısında protokolde yer alan cezai şart TBK'nun 179/1 maddesi uyarınca seçimlik ceza koşulu niteliğindedir. TBK'nun 179/1 maddesinde açıkça bir sözleşmenin hiç veya gereği ifa edilmemesi durumu için bir ceza kararlaştırılmışsa, aksi sözleşmeden anlaşılmadıkça alacaklının ya borcun yada cezanın ifasını isteyebileceği hükme bağlanmıştır.
 
 ## Ankara BAM 31. HD 2026/973 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1234621700)
+
 Türk Borçlar Kanunu’nun 179/2. maddesinde ceza, borcun belirlenen zaman veya yerde ifa edilmemesi durumu için kararlaştırılmışsa alacaklı, hakkından açıkça feragat etmiş veya ifayı çekincesiz olarak kabul etmiş olmadıkça, asıl borçla birlikte cezanın ifasını da isteyebilir denilmek suretiyle ifaya ekli cezayı düzenlemiştir. Bu cezaya, gecikme cezası da denmektedir. Anılan hükme göre borçlunun borca aykırı davranışı hâlinde, alacaklı hem aynen ifayı, hem de kararlaştırılan cezanın ödenmesini talep edebilecektir. Bu nedenle, burada ceza koşulunun aynen ifaya ilave olarak (kümülatif) talep edilebilmesi olanaklıdır. Örneğin, bir inşaat sözleşmesinde yüklenici, işin teslim edilmesi gerektiği tarihten itibaren geciktiği her gün için iş sahibine 10.000TL ceza koşulu ödemeyi taahhüt etmişse, yüklenicinin borcunu ifada gecikmesi hâlinde, iş sahibi hem gecikilen her gün için 10.000TL ceza koşulunu hem de inşaatın bitirilmesini isteyebilir. İfaya eklenen ceza koşulu, özellikle borcun geç ifa edilmesi hâlinde uygulanır ve uygulamada en çok rastlanan ceza koşulu türüdür. (YHGK 29/092022, E. 2022/11-490, K. 2022/1184).
 
 ## İstanbul BAM 45. HD 2026/823 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1216419500)
 
 Cezai şartın esas itibariyle iki temel amacı bulunmaktadır. Bunlardan biri, borçluyu ifaya zorlamak ve böylece asıl borcun ifasını teminat altına almak; diğeri de, borcun ifa edilmemesinden doğacak zararı önceden ve götürü şekilde tespit etmektir. Bu iki temel amacı dışında, cezai şartın diğer bir amacı da, ifayı engelleyen cezai şartta (dönme cezasında) borçlunun cezai şartı ödemek suretiyle sözleşmeden kolayca dönmesini sağlamaktır (Köksal Kocaağa, Türk Özel Hukukunda Cezai Şart (BK. m. 158-161), Ankara 2003, s. 40-42).6098 sayılı TBK'nın 179. maddesinde cezai şartın türleri seçimlik cezai şart (TBK 179/1), ifaya eklenen cezai şart (TBK 179/2) ve ifa yerine cezai şart yani dönme cezası (TBK 179/3) olarak düzenlenmiştir.
 

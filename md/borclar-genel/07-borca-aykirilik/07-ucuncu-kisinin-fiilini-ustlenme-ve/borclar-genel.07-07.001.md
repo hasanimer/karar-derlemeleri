@@ -225,6 +225,8 @@ Garanti sözleşmesi, Mülga 818 sayılı B.K.'nın 110. maddesinde düzenlenmi�
 
 ## İstanbul BAM 43. HD 2026/1010 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1214505200)
+
 Türk Borçlar Kanunu'nun 128.maddesinde “üçüncü kişinin fiilini üstlenme” başlığı altında da yer verilmiş olup, garanti sözleşmesi herhangi bir şekle tabi tutulmadığı gibi verilen garantinin belli bir limite bağlanmış olması da öngörülmemiştir. Kefalette, kefilin sorumluluğu asıl borcun geçerli oluşuna ve devamına ve bir kısım şekil şartlarına bağlı iken, bir tür üçüncü kişinin fiilini taahhüt niteliğini taşıyan garanti sözleşmesi, bağımsızlık ilkesi gereğince bu koşullara tabi tutulmamıştır. Bu farklı hüküm ve sonuçlardan anlaşılacağı üzere garanti veren kişinin sorumluluğu, kefalet veren kimsenin sorumluluğundan çok daha ağır koşullara tabi tutulmuştur. (Yargıtay 19.HD'nin 2013/19331 esas 2014/15934 karar sayılı ilamı)…
 
 ## İzmir BAM 8. HD 2026/706 K.

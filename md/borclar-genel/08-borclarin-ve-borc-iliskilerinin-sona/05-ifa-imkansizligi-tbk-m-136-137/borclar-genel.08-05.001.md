@@ -233,10 +233,14 @@ Taraflar arasında düzenlenen 13.08.1999 tarihli sözleşmeye konu edimin ifas�
 
 ## İzmir BAM 17. HD 2026/2054 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1231703700)
+
 Sel sularının mücbir sebep teşkil edip etmediği değerlendirildiğinde; mücbir sebep, borcun yerine getirilmesini objektif olarak kaçınılmaz biçimde engelleyen harici bir olay olarak tanımlanmaktadır. Ancak bu kurtulma sebebinde, taşıyıcının kaçınamayacağı ve sonuçlarına engel olamayacağı sebepten doğması gerekmektedir. Mücbir sebebin unsurları olan haricilik kaçınılmaz ve öngörülememezlik somut olayda gerçekleşmiştir. Mücbir sebep, doğadan veya üçüncü kişilerin davranışlarından kaynaklanır. Mücbir sebep borçlunun sorumluluk alanı dışındadır. Mücbir sebep, mutlak ve kaçınılmaz olarak borcun ihlâline sebep olmalıdır. Kaçınılmazlığın mutlaklığı ile kastedilen, bilimsel ve teknolojik gelişmelere göre her türlü tedbirin alınmasına, her türlü özenin gösterilmesine rağmen; borcun ifa edilememesine neden olan olayın sadece borçlu tarafından değil, hiç kimse tarafından önlenememesidir. Mücbir sebepte kaçınılmazlık mutlaktır ve objektiftir. Mücbir sebebin varlığı için olayın doğuracağı sonuçların öngörülemez olması gereklidir. Esasında öngörülemezlik, kaçınılmazlığın bir parçasıdır. Kaçınılamazlığın mutlak anlamda anlaşılmaması gerekir.
 Mümkün olan, beklenebilir bütün özenin gösterilmesine rağmen eğer bir zararın önüne geçilemiyorsa önlenemezlik ve kaçınılamazlık var demektir.
 
 ## İstanbul BAM 70. HD 2026/38 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1230692000)
 
 Zira mahkemenin de takdirinde olacaktır ki TBK 485 hükmü çok açıktır. "İş sahibi yüzünden ifanın imkânsızlaşması: eserin tamamlanması, işsahibi ile ilgili beklenmedik olay dolayısıyla imkânsızlaşırsa yüklenici, yaptığı işin değerini ve bu değere girmeyen giderlerini isteyebilir. ifa imkânsızlığının ortaya çıkmasında işsahibi kusurluysa, yüklenicinin ayrıca tazminat isteme hakkı vardır." kanun hükmü çok açık olup TBK 485'in uygulanabilmesi için ifanın imkansızlaşması gerekmektedir.
 

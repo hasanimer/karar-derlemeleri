@@ -53,23 +53,33 @@ Müteselsil sorumluluk, (zincirleme sorumluluk, birlikte sorumluluk) sorumluluk 
 
 ## İzmir BAM 4. HD 2026/2208 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1233991400)
+
 Keza, 6098 Sayılı TBK'nun 61. maddesi uyarınca; birden çok kişi birlikte bir zarara neden oldukları veya aynı zarardan çeşitli sebeplerden dolayı sorumlu oldukları takdirde haklarında müteselsil sorumluluğa ilişkin hükümler uygulanacaktır. Aynı yasanın teselsül hükümlerini düzenleyen 163. maddesi uyarınca ise; alacaklı, borcun tamamının veya bir kısmının ifasını dilerse borçluların hepsinden, dilerse yalnız birinden isteyebilir.
 
 ## Sakarya BAM 3. HD 2026/1946 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1230047400)
 
 Müteselsil sorumluluğa ilişkin hukuki sonuçlar BK'nun 61, 62, 106, 155, 162, 163, 166, 168.maddelerinde düzenlenmiştir. Borçlar Kanunu hükümleri uyarınca müteselsil sorumluluğun bazı hukuki sonuçları vardır. Müteselsil borçlulardan her biri, alacaklıya karşı borcun tamamından sorumludur.(BK 162/1). Borç tamamen ifa edilinceye kadar alacaklıya karşı bütün borçluların sorumluluğu devam eder.(BK 163/2). Alacaklı, borçluların birinden, bir kısmından veya hepsinden alacağını talep etme ve dava açma hakkına sahiptir. (BK163/1). Borçlulardan birinin yaptığı ödeme kadar, müteselsil sorumluların alacaklıya karşı sorumlu oldukları toplam miktar eksilmiş olur (BK 166/1). Borcun tamamı borçlulardan biri tarafından ödenirse, diğer borçlular da alacaklıya karşı borçtan kurtulur. Alacaklının borçlulardan biriyle yaptığı ibra anlaşması, diğer borçluları da ibra edilen borçlunun borca katılma payı oranında borçtan kurtarır.(BK 166/3). Müteselsil borçlulardan biri, kendi davaranışıyla diğerinin durumunu ağırlaştıramaz (BK 165.) Müteselsil borçlu alacaklıyı tatmin ettiği oranda diğer müteselsil borçlulara karşı alacaklının halefi olur.(BK 168/1) ve alacaklının hakları ona geçer.
 Borçlu yalnızca kendi payına düşen kısmı ödemişse, diğer müteselsil borçluya rücu edemez.
 
 ## İzmir BAM 11. HD 2026/1704 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1234782300)
+
 Tek bir olaya bağlı aynı haksız eylemden değişik hukuki nedenlerle sorumlu olanlardan her biri, TBK’nun 61 ve 62. maddeleri uyarınca zarardan müteselsilen sorumludurlar. İşleten ve zorunlu trafik sigortacılarının 3. kişilere karşı sorumluluklarının niteliği de kanundan doğan müteselsil sorumluluk olup, müteselsil sorumlulukta, kural olarak borçlulardan her biri, TBK’nun 162. maddesine göre borcun tamamından sorumludurlar. Aynı yasanın 163.maddesi gereğince; davacı alacaklı, müteselsil borçluların tümünden veya birinden borcun tamamen veya kısmen tahsilini isteyebilir. Borcun tamamen tahsiline kadar bütün borçluların sorumluluğunun devam edeceği de aynı yasanın 162/2 maddesinde açıklanmıştır. Müteselsil sorumluluk kanundan doğan bir sorumluluk türü olup zarara neden olan davalılar meydana gelen zarardan müştereken ve müteselsilen sorumludurlar. Davacı açıkça davalıların kusur oranında sorumlu tutulmasını istemediğine göre, müteselsil sorumluluğu bulunan davalıların zararın tamamından sorumlu tutulması gerekir.
 
 ## Ankara BAM 26. HD 2026/1530 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1235792900)
 
 Araç işleteni, sürücüsü ile sigorta şirketi arasında müşterek ve müteselsil sorumluluk olup, TBK'nın 162 vd. maddelerinde düzenlenen müteselsil sorumluluğa ilişkin hükümler, zarardan sorumlu olanlar açısından nazara alınmalıdır. Bu çerçevede; TBK'nın 163. maddesinde; " (1)Alacaklı, borcun tamamının veya bir kısmının ifasını, dilerse borçluların hepsinden, dilerse yalnız birinden isteyebilir. (2)Borçluların sorumluluğu, borcun tamamı ödeninceye kadar devam eder. "; TBK'nın 165. maddesinde "Kanun veya sözleşme ile aksi belirlenmedikçe, borçlulardan biri kendi davranışıyla diğer borçluların durumunu ağırlaştıramaz."; Borcun sona ermesini düzenleyen TBK'nın 166 maddesinde "(1) Borçlulardan biri, ifa veya takasla borcun tamamını veya bir kısmını sona erdirmişse, bu oranda diğer borçluları da borçtan kurtarmış olur. (2) Borçlulardan biri, alacaklıya ifada bulunmaksızın borçtan kurtulmuşsa, diğer borçlular bundan, ancak durumun veya borcun niteliğinin elverdiği ölçüde yararlanabilirler. (3)Alacaklının borçlulardan biriyle yaptığı ibra sözleşmesi, diğer borçluları da ibra edilen borçlunun iç ilişkideki borca katılma payı oranında borçtan kurtarır.";
 TBK'nın 168. maddesinde "(1)Diğerlerine rücu hakkına sahip olan borçlulardan her biri, ifa ettiği miktar oranında alacaklının haklarına halef olur. (2) Alacaklı diğerlerinin zararına olarak borçlulardan birinin durumunu iyileştirirse, bunun sonuçlarına katlanır." hükümlerine yer verilmiş, olduğundan, zarar görenin, tazminat alacağının tamamını ya da bir kısmı müteselsil sorumlulardan ayrı ayrı talep etmiş ise, ayrı talep çerçevesinde yapılan ödeme oranında diğer borçlularda bu ödemeden istifade ederek bu oranda borçtan kurtulmasının yanında (TBK m. 166/1), yapılan ödeme borcun tamamını karşılamamış olsa dahi müteselsil borçlu borçtan kurtarılmış ise durumun veya borcun elverdiği ölçüde, diğer müteselsil borçlularda bundan istifade edecektir. (TBK m. 166/2), Alacaklının diğerlerinin zararına olarak borçlulardan birinin durumu iyileştirirse, bunun sonuçlarına katlanacağı da kanunun amir hükmüdür. (TBK m. 168/2)…
 
 ## Ankara BAM 35. HD 2026/1517 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1234816200)
 
 Müteselsil sorumlulukta, kural olarak borçlulardan her biri, 6098 sayılı TBK'nın 162 ve 163. maddelerine göre borcun tamamından sorumludur. Nitekim, 2918 sayılı Karayolları Trafik Kanunu'nun 88/1 maddesinde trafik olayı nedeniyle müteselsil sorumluluk öngörülmüştür. 6098 sayılı TBK'nın 167. maddesi uyarınca, sorumluların iç ilişkide kusur oranına göre, birbirlerine rücu hakları da mevcuttur. Trafik kazasından kaynaklanan maddi tazminat istemli davada, sürücü, işleten ve sigorta şirketi arasında, müştereken ve müteselsilen sorumluluk bulunduğundan, davacı taraf zararını davalılardan müştereken ve müteselsilen talep edebilir. Zarar görenin sigortadan müştereken ve müteselsil talep edebileceği tazminat miktarı sigorta teminat limiti ile sınırlıdır.
 
@@ -79,25 +89,37 @@ Müteselsil sorumluluk, kanundan doğan bir sorumluluk türüdür. Müteselsil s
 
 ## Tekirdağ BAM 4. HD 2026/1184 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1232098000)
+
 Müteselsil sorumluluğa ilişkin hukuki sonuçlar TBK'nın 61, 62, 106, 155, 162, 163, 166, 168 inci maddelerinde düzenlenmiştir. Türk Borçlar Kanunu hükümleri uyarınca müteselsil sorumluluğun bazı hukuki sonuçları vardır. Müteselsil borçlulardan her biri, alacaklıya karşı borcun tamamından sorumludur. (TBK 162/1). Borç tamamen ifa edilinceye kadar alacaklıya karşı bütün borçluların sorumluluğu devam eder. (TBK 163/2). Alacaklı, borçluların birinden, bir kısmından veya hepsinden alacağını talep etme ve dava açma hakkına sahiptir. (TBK163/1). Borçlulardan birinin yaptığı ödeme kadar, müteselsil sorumluların alacaklıya karşı sorumlu oldukları toplam miktar eksilmiş olur (TBK 166/1). Borcun tamamı borçlulardan biri tarafından ödenirse, diğer borçlular da alacaklıya karşı borçtan kurtulur. Müteselsil borçlu, alacaklıyı tatmin ettiği oranda diğer müteselsil borçlulara karşı alacaklının halefi olur. (TBK 168/1) ve alacaklının hakları ona geçer. Borçlu yalnızca kendi payına düşen kısmı ödemişse, diğer müteselsil borçluya rücu edemez.
 
 ## İstanbul BAM 40. HD 2026/1130 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1217310500)
 
 Müteselsil sorumluluğa ilişkin hukuki sonuçlar TBK'nin 61, 62, 106, 155, 162, 163, 166, 168. maddelerinde düzenlenmiştir. Borçlar Kanunu hükümleri uyarınca müteselsil sorumluluğun bazı hukuki sonuçları vardır. Müteselsil borçlulardan her biri, alacaklıya karşı borcun tamamından sorumludur. (TBK m.162/1). Borç tamamen ifa edilinceye kadar alacaklıya karşı bütün borçluların sorumluluğu devam eder. (TBK m.163/2).Alacaklı, borçluların birinden, bir kısmından veya hepsinden alacağını talep etme ve dava açma hakkına sahiptir.(TBK m.163/1).
 
 ## Ankara BAM 31. HD 2026/896 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1233942200)
+
 Yine, 6098 sayılı Türk Borçlar Kanunu 154/1.maddesinde (eski B.K. 133.md) belirtildiği üzere, davalı adi ortaklardan... A.Ş. Yönünden yapılan icra takibi ile zamanaşımının 15/12/2017 tarihi itibariyle kesildiği mahkemenin gerekçeli kararında da benimsenmiştir. Türk Borçlar Kanunu 155.maddesine göre de, zamanaşımı, müteselsil borçlulardan veya bölünemeyen borcun borçlularından birine karşı kesilince, diğerlerine karşı da kesilmiş olacağından, her iki davalının davacıya karşı yüklenici olarak adi ortaklık gereği müteselsilen sorumlu olduklarından davacının, davalılardan biri hakkında yapdtığı icra takibi ile diğeri yönünden de zamanaşımı süresinin kesildiğinin kabulü ile davalı... Şirketi vekilinin yapmış olduğu zamanaşımı definin bu sebeple reddi ile davanın bu davalı yönünden de esas yönünden değerlendirilmesi gerekirken bu davalı yönünden davanın zamanaşımı nedeniyle reddine karar verilmiş olması sebebiyle davacı vekilinin istinaf başvurusunun kabulüne karar verilmesi gerekmiştir. (Yargıtay 13. Hukuk Dairesi'nin 2017/5686 Esas, 2017/8072 Karar sayılı ilamı)…
 
 ## İstanbul BAM 40. HD 2026/641 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1213909200)
 
 Alacaklının borçlulardan biriyle yaptığı ibra anlaşması, diğer borçluları da ibra edilen borçlunun borca katılma payı oranında borçtan kurtarır. (TBK m.166/3). Müteselsil borçlu, alacaklıyı tatmin ettiği oranda diğer müteselsil borçlulara karşı alacaklının halefi olur (TBK m.168/1) ve alacaklının hakları ona geçer. Borçlu yalnızca kendi payına düşen kısmı ödemişse, diğer müteselsil borçluya rücu edemez (Yargıtay 17. Hukuk Dairesinin 28/11/2019 tarih, 2019/3589 Esas ve 2019/11257 Karar sayılı kararı).
 
 ## İstanbul BAM 40. HD 2026/583 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1210600400)
+
 Ancak müteselsil borçluların borçtan tamamen veya kısmen kurtulabilmeleri, alacaklının bilfiil tatmin edilmiş olması halinde söz konusudur. Bunun aksinin kabul edilebilmesi için ya alacaklının teselsülden açıkça feragat etmiş olması yahut da böyle bir feragatin durumdan kesin olarak anlaşılması lazımdır. Yine, Türk Borçlar Kanunu'nun 168. maddesi hükmüne göre, rücu hakkından yararlanan müteselsil borçlulardan her birinin ödediği miktar oranında alacaklının haklarına halef olacağı ve alacaklının diğerleri zararına, müteselsil borçlulardan birinin durumunu iyileştirdiği takdirde bu fiilin neticelerini şahsen tahammül edeceği açıktır.
 
 ## İstanbul BAM 40. HD 2026/307 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1208058100)
 
 Ancak müteselsil borçluların borçtan tamamen veya kısmen kurtulabilmeleri, alacaklının bilfiil tatmin edilmiş olması halinde söz konusudur. Bunun aksinin kabul edilebilmesi için ya alacaklının teselsülden açıkça feragat etmiş olması yahut da böyle bir feragatin durumdan kesin olarak anlaşılması lazımdır. Yine, Türk Borçlar Kanunu'nun 168. maddesi hükmüne göre, rücu hakkından yararlanan müteselsil borçlulardan her birinin ödediği miktar oranında alacaklının haklarına halef olacağı ve alacaklının diğerleri zararına, müteselsil borçlulardan birinin durumunu iyileştirdiği takdirde bu fiilin neticelerini şahsen tahammül edeceği açıktır.
 
@@ -116,5 +138,7 @@ Alacaklının borçlulardan biriyle yaptığı ibra anlaşması, diğer borçlul
 Alacaklının borçlulardan biriyle yaptığı ibra anlaşması, diğer borçluları da ibra edilen borçlunun borca katılma payı oranında borçtan kurtarır (TBK 166/3). Müteselsil borçlu, alacaklıyı tatmin ettiği oranda diğer müteselsil borçlulara karşı alacaklının halefi olur (TBK 168/1) ve alacaklının hakları ona geçer. Bununla birlikte, borçlu yalnızca kendi payına düşen kısmı ödemişse, diğer müteselsil borçluya rücu edemez (Yargıtay 17. HD 28/11/2019 tarih, 2019/3589 E. ve 2019/11257 K. sayılı kararı). TBK’nın 166. md. hükmüne göre, sorumlulardan birinin zararı ödemesi halinde, diğerleri bu oranda borçtan kurtulurlar. Ancak müteselsil borçluların borçtan tamamen veya kısmen kurtulabilmeleri, alacaklının bilfiil tatmin edilmiş olması halinde söz konusudur. Bunun aksinin kabul edilebilmesi için ya alacaklının teselsülden açıkça feragat etmiş olması yahut da böyle bir feragatin durumdan kesin olarak anlaşılması lazımdır (Yargıtay 17 HD 18.03.2019 tarih, 2016/4813 E.- 2019/3090 K.).
 
 ## Bursa BAM 13. HD 2024/2210 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1218804000)
 
 Zarara sebebiyet veren sürücüler, işleten ve trafik sigortacısı, 6098 sayılı Türk Borçlar Kanunu'nun (TBK) 61. Maddesi gereğince zararlardan müteselsilen sorumludur. Müteselsil sorumlulukta, kural olarak borçlulardan her biri TBK'nın 162/... ve 163. maddelerine göre borcun tamamından sorumludur.

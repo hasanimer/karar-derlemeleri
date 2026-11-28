@@ -55,13 +55,19 @@ BK.nun 105. maddesinde düzenlenen munzam zarar alacağının, asıl alacak dava
 
 ## İstanbul BAM 8. HD 2026/1196 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1217766500)
+
 Munzam zarar; alacağını vaktinde borçludan alamayan alacaklının malvarlığında iradesi dışında meydana gelen ve temerrüt faizinin üzerinde bulunan zarar olup, her ne kadar munzam zararın olduğu hususunun alacaklı tarafından ispatlanması durumunda alacaklının temerrüt nedeniyle uğradığı ve temerrüt faizini aşan bakiye zararının borçludan tahsilini talep edebilmesi 6098 sayılı Borçlar Kanunu'nun 122.maddesi kapsamında mümkün ise de, karşılanması öngörülen faizi aşan zararın, genel ekonomik olumsuzlukların (-ülkede cari enflasyon oranı, yüksek ve değişken döviz kurları, mevduat faizleri-) dışında, davacının durumuna özgü, somut vakıalarla ispatlanması gereken bir durum olmasına, başka bir ifadeyle munzam zararın, somut olarak ispatının gerekmesine, olumsuz ekonomik verilere üzerinden varsayıma dayalı hesap yapılamayacak olmasına,…
 
 ## İstanbul BAM 8. HD 2026/1195 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1217757200)
+
 Munzam zarar; alacağını vaktinde borçludan alamayan alacaklının malvarlığında iradesi dışında meydana gelen ve temerrüt faizinin üzerinde bulunan zarar olup, her ne kadar munzam zararın olduğu hususunun alacaklı tarafından ispatlanması durumunda alacaklının temerrüt nedeniyle uğradığı ve temerrüt faizini aşan bakiye zararının borçludan tahsilini talep edebilmesi 6098 sayılı Borçlar Kanunu'nun 122.maddesi kapsamında mümkün ise de, karşılanması öngörülen faizi aşan zararın, genel ekonomik olumsuzlukların (-ülkede cari enflasyon oranı, yüksek ve değişken döviz kurları, mevduat faizleri-) dışında, davacının durumuna özgü, somut vakıalarla ispatlanması gereken bir durum olmasına, başka bir ifadeyle munzam zararın, somut olarak ispatının gerekmesine, olumsuz ekonomik verilere üzerinden varsayıma dayalı hesap yapılamayacak olmasına,…
 
 ## İstanbul BAM 8. HD 2026/1159 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1217722800)
 
 Munzam zarar; alacağını vaktinde borçludan alamayan alacaklının malvarlığında iradesi dışında meydana gelen ve temerrüt faizinin üzerinde bulunan zarar olup, her ne kadar munzam zararın olduğu hususunun alacaklı tarafından ispatlanması durumunda alacaklının temerrüt nedeniyle uğradığı ve temerrüt faizini aşan bakiye zararının borçludan tahsilini talep edebilmesi 6098 sayılı Borçlar Kanunu'nun 122.maddesi kapsamında mümkün ise de, karşılanması öngörülen faizi aşan zararın, genel ekonomik olumsuzlukların (-ülkede cari enflasyon oranı, yüksek ve değişken döviz kurları, mevduat faizleri-) dışında, davacının durumuna özgü, somut vakıalarla ispatlanması gereken bir durum olmasına, başka bir ifadeyle munzam zararın, somut olarak ispatının gerekmesine, olumsuz ekonomik verilere üzerinden varsayıma dayalı hesap yapılamayacak olmasına,…
 

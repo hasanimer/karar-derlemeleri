@@ -103,6 +103,8 @@ Kaparo pey akçesidir ve Borçlar Kanunu’nun 156/1 maddesi hükmü gereğince 
 
 ## İzmir BAM 11. HD 2026/1009 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1214649200)
+
 Bağlanma parası (pey akçesi), sözleşme yapılırken bir kişinin vermiş olduğu paradır. Kapora olarak da adlandırılan bu para cayma parası değildir. Sözleşmenin yapıldığına kanıt olarak verilmiş sayılır. Aksine sözleşme veya yerel adet olmadıkça bu para alacaktan düşülür. Bağlanma parasında olduğu gibi cayma parasının istenebilmesi için de sözleşmenin geçerli olması gerekmektedir. Çünkü cayma parası da bir fer'i (yan) borçtur. Bu sebeple sözleşme herhangi bir nedenle geçersiz ise artık cayma parasından da söz edilemeyecektir. Bağlanma parasının (pey akçesi) amacı, hem sözleşmenin yapıldığına delil oluşturmak hem de kısmi ifadır. Bağlanma parası, sözleşmenin geçerli olması için gerekli bir şekil şartı olmayıp sözleşmenin kurulduğu yönünde ispat aracıdır. Sözleşme yapılır yapılmaz taraflardan birinin diğerine bir miktar para vermesinin ne gibi bir maksada dayandığı açık bir şekilde anlaşılamıyorsa verilenin bağlanma parası (pey akçesi) olduğu karine olarak kabul edilir. Verilen paranın cayma parası olduğunu iddia eden taraf bunu ispatlamak durumundadır. (Yargıtay Hukuk Genel Kurulu'nun 22.09.2022 tarih ve 2020/3-551 Esas 2022/1147 Karar sayılı ilamı)…
 
 ## Sakarya BAM 7. HD 2024/1734 K.

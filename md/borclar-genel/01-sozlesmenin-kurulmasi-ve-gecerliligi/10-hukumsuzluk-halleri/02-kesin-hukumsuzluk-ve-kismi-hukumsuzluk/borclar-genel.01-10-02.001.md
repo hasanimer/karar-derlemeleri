@@ -82,6 +82,8 @@ BK.nun 19. maddesindeki emredici hükümlere aykırı olmamak koşuluyla irade h
 
 ## Ankara BAM 22. HD 2026/1287 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1233765800)
+
 6098 sayılı TBK m. 27/1 hükmünde yapılan düzenleme uyarınca, sözleşme içeriğini belirleme özgürlüğünün ilk sınırı, emredici hukuk kurallarına aykırı olmamasıdır. Kendisine mutlak surette uyulması gereken kurala emredici hukuk kuralı denir. Taraflar, yaptıkları sözleşmelerde emredici hukuk kurallarının aksini kararlaştıramazlar. Taraflar, emredici normların aksine sözleşme yapmış olsalar bile, bu sözleşme değil, emredici hukuk kuralları uygulanır. Zira bu kurallar, irade özerkliğinin sınırlarından birini oluşturur (Prof. Dr. Fikret Eren, Borçlar Hukuku Genel Hükümler, Ankara 2019, s.359).
 
 ## Ankara BAM 4. HD 2023/617 K.

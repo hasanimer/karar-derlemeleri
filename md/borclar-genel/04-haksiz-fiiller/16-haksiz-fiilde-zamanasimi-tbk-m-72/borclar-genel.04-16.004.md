@@ -33,9 +33,13 @@ Haksız eylemlerden doğan davalarda uygulanacak zamanaşımı 818 sayılı Bor�
 
 ## Adana BAM 3. HD 2026/2677 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1235173600)
+
 2918 sy. KTK'nın 109/2 ve 6098 sy. TBK'nın 72. md. gereğince; dava, cezayı gerektiren bir fiilden doğar ve ceza kanunu bu fiil için daha uzun bir zamanaşımı süresi öngörmüş bulunursa, bu sürenin tazminat talepleri için de geçerli olacağı, TCK'nın 85 ve 66/1-d md.leri gereğince bu sürenin 15 yıl olduğu, kaza tarihinin ... olduğu, bu sebeple dava ve ıslah tarihi itibariyle zamanaşımının dolmadığı gözetilerek zamanaşımı def'inin reddine karar verilmiş olması yerinde olmakla bu yöndeki istinaf yerinde görülmemiştir.
 
 ## Ankara BAM 25. HD 2026/1786 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1236246500)
 
 Türk Borçlar Kanunu'nun 72. maddesi ile; " Tazminat istemi, zarar görenin zararı ve tazminat yükümlüsünü öğrendiği tarihten başlayarak iki yılın ve her hâlde fiilin işlendiği tarihten başlayarak on yılın geçmesiyle zamanaşımına uğrar. Ancak, tazminat ceza kanunlarının daha uzun bir zamanaşımı öngördüğü cezayı gerektiren bir fiilden doğmuşsa, bu zamanaşımı uygulanır.
 
@@ -45,6 +49,8 @@ Türk Borçlar Kanunu'nun 49. maddesinde haksız fiil tanımlanmış, 72. maddes
 
 ## Ankara BAM 25. HD 2026/1534 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1229463300)
+
 YARGITAY BOZMA İLAMI: Yargıtay 4. Hukuk Dairesi'nin 25/12/2025 tarih ve 2025/9861 Esas 2025/17393 Karar sayılı ilamıyla “Somut olayda; davacı taraf yaptırdığı tespit sonucu düzenlenen bilirkişi raporunu 23.08.2019 tarihinde tebliğ almıştır. Davaya konu tazminat talepleri için geçerli olan 2 yıllık zamanaşımı süresinin (TBK m.72) dolduğu tarih 23.08.2021 olup bu tarihe yukarıda belirtilen 95 gün eklendiğinde zamanaşımı süresinin bitimi 28.11.2021 tarihi olacaktır. Bu hâle göre ıslah tarihi itibariyle 2 yıllık zamanaşımı süresi dolmamıştır.
 
 ## Konya BAM 5. HD 2026/1399 K.
@@ -52,6 +58,8 @@ YARGITAY BOZMA İLAMI: Yargıtay 4. Hukuk Dairesi'nin 25/12/2025 tarih ve 2025/9
 6101 s. Türk Borçlar Kanununun Yürürlüğü ve Uygulama Şekli Hakkında Kanun 5/1. maddesine göre ise, "(1) Türk Borçlar Kanununun yürürlüğe girmesinden önce işlemeye başlamış bulunan hak düşürücü süreler ile zamanaşımı süreleri, eski kanun hükümlerine tabi olmaya devam eder. Ancak, bu sürelerin henüz dolmamış kısmı, Türk Borçlar Kanununda öngörülen süreden uzun ise, yürürlüğünden başlayarak Türk Borçlar Kanununda öngörülen sürenin geçmesiyle, hak düşürücü süre veya zamanaşımı süresi dolmuş olur."…
 
 ## Ankara BAM 21. HD 2026/1327 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1232604600)
 
 Ancak davada gerçekten de zamanaşımı sürelerinin gerçekleşip gerçekleşmediğinin incelenmesinden önce, davacı tarafın iddialarının ileri sürülüş şekli bakımından, taraflar arasındaki uyuşmazlıkta uygulanması gerekli herhangi bir hak düşürücü sürenin bulunmadığı belirtilmelidir. Bu noktada üzerinde durulması gereken öncelikli husus, davada zamanaşımı def'inin ileri sürülmesinin dürüstlük kurallarına aykırı olup olmadığıdır. Her ne kadar bir borçlunun borcunun zamanaşımına uğradığını ileri sürmesi ve bu yolla borcunu ödemekten kaçınması, tüm çağdaş hukuk sistemlerinde olduğu gibi Türk hukuku bakımından da kanunen kendisine tanınan bir hak olup, zamanaşımı def'inin ileri sürülmesi tek başına borçlunun dürüstlüğe aykırı bir davranışı olarak kabul edilemez ise de bazı hallerde zamanaşımı def'inin ileri sürülmesi dürüstlük kuralıyla bağdaşmayabilir (K.Oğuzman, T.Öz, Borçlar Hukuku Genel Hükümler 2009, s. 482). Zamanaşımı def'inin ileri sürülmesinin hangi hallerde dürüstlük kuralına aykırı bulunduğu hususunda normatif bir düzenleme bulunmadığından, bu hususun varit olup olmadığının her somut uyuşmazlığın özellikleri nazara alınarak değerlendirilmesi gerekir.
 

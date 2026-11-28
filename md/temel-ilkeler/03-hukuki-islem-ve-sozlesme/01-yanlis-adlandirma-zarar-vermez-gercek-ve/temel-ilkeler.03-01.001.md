@@ -88,14 +88,20 @@ Nihayet 6098 sayılı Borçlar Kanunu’nun 19’uncu maddesinde, “Bir sözle�
 
 ## İstanbul BAM 13. HD 2026/1418 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1219838600)
+
 TBK'nun 19/1 fıkrası uyarınca; bir sözleşmenin türünün ve içeriğinin belirlenmesinde ve yorumlanmasında, tarafların yanlışlıkla veya gerçek amaçlarını gizlemek için kullandıkları sözcüklere bakılmaksızın, gerçek ve ortak iradeleri esas alınır. Gerçek irade ile kastedilen, şu veya bu şekilde dışa yansımış iç irade olup, sözleşmenin yorumunda esas olan tarafların gerçekte ne istemiş olduğudur. Sözleşme yorumuna ilişkin olarak, öğretide subjektif ve objektif yorum şeklinde ikili bir ayrım yapılmaktadır ve subjektif yorumun, ... prensibine göre yorum yani objektif yorum karşısında öncelikli olduğu kabul edilmektedir. Subjektif yorumun amacı, sözleşme taraflarının birbirine uygun gerçek iradelerini tespit etmek olup, objektif yorum ise, sözleşme taraflarının davranış ve açıklamalarının ... ilkesine göre yorumlanması anlamına gelmektedir. Burada ... ilkesine göre, ilgili muhatabın TMK md.2/I ışığında bütün şartları göz önünde bulundurarak ne anladığı veya anlaması gerektiği araştırılır.
 Sözleşme taraflarının dürüstlük ilkesine göre, somut olayın bütün hal ve şartları dikkate alınarak, dürüst ve makul sözleşme tarafı olarak o sözleşme kapsamında neyi istemiş sayılabilecekleri araştırılarak bir sonuca ulaşılmaya çalışılır. ... prensibine göre yorum, subjektif yorum yolu ile sözleşme taraflarının birbirine uygun gerçek iradelerinin tespit edilememesi halinde devreye girer.
 
 ## İzmir BAM 14. HD 2026/1331 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1229496600)
+
 Dosya içerisine sunulan 25.07.2017 tarihli "Fide Sipariş Sözleşmesi"nin "Sipariş Bilgileri" kısmında adet sütununda "2.6 KG" yazmakta olduğu görülmektedir. Ancak yukarıda da belirtildiği üzere davalı taraf sözleşmenin 64.000 fide üretimi için yapıldığını, davacının bundan en başından haberdar olduğunu, her ne kadar sözleşmede 2.6 kg. yazılmışsa da, bunun maddi hata sonucu yazıldığını ileri sürmektedir. Dava konusu sözleşmede 2.6 kg. tohumun hepsinin üretilip üretilmeyeceği konusunda herhangi bir ifade yer almamaktadır. Bu sebeple tarafların gerçek ve ortak iradelerinin ve ayrıca davacının davalının hatasından haberdar olup olmadığının tespiti gerekmektedir.
 
 ## Ankara BAM 31. HD 2026/791 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1230672900)
 
 TBK.19.maddeye göre "bir sözleşmenin türünün ve içeriğinin belirlenmesinde ve yorumlanmasında, tarafların yanlışlıkla veya gerçek amaçlarını gizlemek için kullandıkları sözcüklere bakılmaksızın, gerçek ve ortak iradeleri esas alınır." TBK.13.maddede "kanunda yazılı şekilde yapılması öngörülen bir sözleşmenin değiştirilmesinde de yazılı şekle uyulması zorunludur. Ancak, sözleşme metni ile çelişmeyen tamamlayıcı yan hükümler bu kuralın dışındadır." düzenlemeleri mevcuttur. Söz konusu hükümler gözetildiğinde öncelikle tarafların gerçek iradelerinin tespiti ve yazılı yapılan sözleşmeye rağmen tarafların yan hükümler yönünden (sözleşme öncesi ihale damga vergisinin kim tarafından ödeneceği) yönünden sözlü anlaşmaya varıp varmadıklarının belirlenmesi gerekmektedir.
 

@@ -96,6 +96,8 @@ açıldığı gözetilerek, Hazinenin davasının kabulüyle çekişmeli parsell
 
 ## Ankara BAM 21. HD 2026/1400 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1234109300)
+
 Oysa ki, 6100 sayılı HMK'nun 194. maddesi uyarınca tarafların dayandıkları vakıaları, ispata elverişli şekilde somutlaştırılması, dayandıkları delilleri ve hangi delili hangi vakıanın ispatı için gösterildiği açıkça belirtmeleri zorunludur. Dayanılan vakıaları bildirmek açıklamak taraflara hukuki tasvif hakime aittir. Hakim davacının dava konusu yapmadığı bir vakıayı dava konusu yapamaz. HMK 26. maddesi gözetildiğinde fazlasını hükmedemez.( bu kural taleple bağlılık kuralının da temelini oluşturur.)…
 
 ## İzmir BAM 20. HD 2023/1539 K.

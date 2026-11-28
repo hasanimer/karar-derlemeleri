@@ -26,6 +26,8 @@ Sorumsuzluk anlaşmasına ilişkin 818 sayılı Mülga Borçlar Kanunu’nun 99.
 
 ## İzmir BAM 17. HD 2026/2094 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1231090000)
+
 Sorumsuzluk anlaşmasına ilişkin 818 sayılı Mülga Borçlar Kanunu’nun 99. maddesi ile 6098 sayılı Türk Borçlar Kanunu’nun 115. maddesi, satıcının ayıptan sorumluluğunu kaldıran anlaşmalarda da uygulanır. Bu nedenle ayıplı mal tesliminde ağır ihmali bulunan satıcı, sorumsuzluk anlaşmasından yararlanamaz (YAVUZ, Cevdet: Türk Borçlar Hukuku, Özel Hükümler, İstanbul 2007, 7. Baskı, sh 104). Bu duruma göre, satıcının sadece ayıbı hile ile gizlemiş olması durumunda değil, satılanı ayıplı olarak devretmekte ağır kusurlu sayıldığı her durumda sorumsuzluk anlaşması geçersiz sayılır.
 
 ## İstanbul BAM 53. HD 2026/607 K.

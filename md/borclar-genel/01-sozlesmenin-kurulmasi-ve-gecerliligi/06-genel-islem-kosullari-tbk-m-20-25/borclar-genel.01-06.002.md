@@ -40,10 +40,14 @@ Yanlar arasındaki ticari kredi sözleşmesi 2009 yılında imzalanmıştır. Ge
 
 ## İstanbul BAM 43. HD 2026/1621 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1227379600)
+
 6098 sayılı TBK'nın 20 vd. maddelerinde düzenlenen genel işlem koşullarına ilişkin hükümler tacirler hakkında da geçerli olmakla birlikte, genel işlem koşullarının TTK'nın 18/2. Maddesinde düzenlenen her tacirin, ticaretine ait bütün faaliyetlerinde basiretli bir iş adamı gibi hareket etme yükümlülüğü ile birlikte değerlendirilmesi gerekir. ... belgesinde bulunan taşıyanın hüküm ve koşullarına ilişkin düzenlemeler ticari hayatta yaygın olarak kullanıldığından, deniz yoluyla ithalat işiyle uğraşan gönderilen/alıcının taşıyanın "taşıma şart ve koşullarını" basiretli bir iş adamı gibi davranarak incelemiş olması gerekir. Yukarıda açıklandığı gibi genel işlem koşulları ileride çok sayıdaki benzer sözleşmede kullanmak amacıyla, önceden hazırlanmış sözleşme hükümleri olup, bu özellikleri itibariyle bu sözleşmeler genellikle ilgili firmalar tarafından internet sitelerinde paylaşılmaktadır. Aksi yönde bir iddia ve ispat dosya kapsamında mevcut değildir.
 Taşıyıcı tarafından taşıma şart ve koşullarının içeriğinin öğrenilmesine imkân sağlanmadığı kabul edilemeyeceğinden ve taşımanın bu şart ve koşullar altında davalıya yaptırılması nedeniyle bu şart ve koşullar tahtında taşıma da tamamlandığına göre genel işlem koşullarının geçersiz olduğunun kabul edilmesi mümkün değildir.
 
 ## İstanbul BAM 43. HD 2026/1413 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1219826300)
 
 6098 sayılı TBK'nın 20 vd. maddelerinde düzenlenen genel işlem koşullarına ilişkin hükümler tacirler hakkında da geçerli olmakla birlikte, genel işlem koşullarının TTK'nın 18/2. Maddesinde düzenlenen her tacirin, ticaretine ait bütün faaliyetlerinde basiretli bir iş adamı gibi hareket etme yükümlülüğü ile birlikte değerlendirilmesi gerekir. Konişmentonun arka sayfasında bulunan taşıyanın hüküm ve koşullarına ilişkin düzenlemeler ticari hayatta yaygın olarak kullanıldığından, deniz yoluyla ithalat işiyle uğraşan gönderilen/alıcının taşıyanın "taşıma şart ve koşullarını" basiretli bir iş adamı gibi davranarak incelemiş olması gerekir. Yukarıda açıklandığı gibi genel işlem koşulları ileride çok sayıdaki benzer sözleşmede kullanmak amacıyla, önceden hazırlanmış sözleşme hükümleri olup, bu özellikleri itibariyle bu sözleşmeler genellikle ilgili firmalar tarafından internet sitelerinde paylaşılmaktadır.
 
@@ -54,9 +58,13 @@ Hukuk Dairesinin 17/01/2017 tarih ve 2016/981 Esas ve 2017/293 Karar) 6098 Sayı
 
 ## İstanbul BAM 43. HD 2026/680 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1211698900)
+
 Son olarak TBK'nın 25. maddesi(içerik denetimi)’ne göre, dürüstlük kuralına aykırı olacak bir biçimde, genel işlem koşullarına sözleşme muhatabının aleyhine ve onun durumunu ağırlaştırıcı hükümler konulamaz. Bu denetim yapılırken, somut olayın koşulları ve tarafların somut olaydaki sıfatlarını da dikkate alınarak hangi hükümlerin dürüstlük kuralına aykırılık teşkil edecek bir biçimde sözleşmenin muhatabının durumunu ağırlaştıracağı değerlendirilmelidir. Bu kapsamda bankanın tek taraflı fesih/hesabı kat etme hakkını kullanmasının dürüstlük kuralına aykırılık teşkil etmemesi gerekir. Esasen bankaların kredi sözleşmelerinde tek yanlı fesih/hesabı kat etme hakkını saklı tutmasının sebebi kredinin geri dönmesini temin etmektir. Bu bağlamda, ister teminatlı isterse de teminatsız olsun kredi alanın kullanmış olduğu kredinin geri ödenmesinin riske girmesi halinde bankanın sözleşme ile kendisine tanınan hesabı kat etme veya fesih hakkını kullanabilmesi gerekir. Bankaya tek taraflı fesih yetkisi veren sözleşme maddeleriyle ilgili olarak Yargıtay 11. HD'nin 21.11.2022 Tarih ve 2021/4499 E. - 2022/8102 K. Sayılı kararında da benzer hususlar ifade edilmiştir.
 
 ## Adana BAM 22. HD 2026/70 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1229952700)
 
 Genel işlem koşulları, bir sözleşme yapılırken düzenleyenin, ileride çok sayıdaki benzer sözleşmede kullanmak amacıyla, önceden, tek başına hazırlayarak karşı tarafa sunduğu sözleşme hükümleridir. Buna göre bir sözleşmede genel işlem koşulları bulunması bu düzenlemeleri geçersiz kılmaz. Ancak sözleşme kapsamındaki karşı tarafın menfaatine aykırı genel işlem koşullarının geçerli olması, sözleşmenin yapılması sırasında düzenleyenin karşı tarafa, bu koşulların varlığı hakkında açıkça bilgi verip, bunların içeriğini öğrenme imkânı sağlamasına ve karşı tarafın da bu koşulları kabul etmesine bağlıdır. Sözleşmenin niteliğine ve işin özelliğine yabancı olan genel işlem koşulları da yazılmamış sayılır.
 

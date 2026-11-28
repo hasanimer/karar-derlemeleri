@@ -80,6 +80,8 @@ Ancak, maddede yer alan “halin veya borcun mahiyetinin irae ettiği.....” ş
 
 ## İstanbul BAM 8. HD 2026/888 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1211780900)
+
 Müteselsil borçluluk niteliği itibariyle bölünebilen bir edimin birden fazla borçlusundan her birinin edimin tamamını ifa etmekle yükümlü olduğu bir borçluluk türü olup borçlulardan birinin edimin tümünü ifa ederek alacaklıyı tatmin etmesi halinde, evvelce mevcut olmasa dahi ifayı gerçekleştiren borçlu ile diğer borçlular arasında bir hukuki ilişki doğacaktır. Alacaklıyı tatmin eden bir borçlu, kendisine isabet eden paydan daha fazla bir ödemede bulunduğu takdirde bu fazlalık ölçüsünde diğer borçlulara başvurabilecektir. Bu durum bir borçlunun alacaklıyı tatmin etmesi halinde diğer borçluların da alacaklı karşısında alacaklının tatmin edilmesi ölçüsünde borçtan kurtulmalarının (BK m. 145/I) doğal bir sonucudur. Buna bağlı olarak yasa koyucu da alacaklıyı tatmin eden borçlunun kendi payından fazla ödemede bulunması durumunda bu fazlalık ölçüsünde diğer borçlulara başvurabileceğini açıkça düzenlemiştir (BK m. 146/I). Bu şekilde belirlenen hak o borçlunun rücu hakkıdır. Yasa koyucu kendi payından fazla ödemede bulunan bir borçluya tanıdığı rücu hakkını kuvvetlendirmek amacıyla (BK m. 146/I) halefiyete de yer vermiştir.
 
 ## Ankara BAM 23. HD 2026/390 K.

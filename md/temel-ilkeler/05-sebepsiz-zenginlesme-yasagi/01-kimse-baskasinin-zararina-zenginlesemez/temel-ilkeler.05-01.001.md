@@ -106,13 +106,19 @@ Aksi takdirde, bir kimsenin malvarlığı haklı bir sebep olmaksızın, diğer 
 
 ## Ankara BAM 23. HD 2026/1639 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1233174900)
+
 Davacı kooperatifin temsili ve borç altına girebilmesi için, başkanın yanında yetki verilen diğer bir üyenin imzası olmak üzere çift imzanın varlığı gerekir. Davacı kooperatif adına atılan çift imzadan birisinin sahte olduğu anlaşıldığına, sahtecilik def'i senedin hükümsüzlüğüne yönelik mutlak def’ilerden olmakla herkese karşı ileri sürülebileceğine göre, bu imzanın kooperatifi bağlamayacağı da belirgindir. Diğer yandan davalı ... , kooperatife borç para vermiş ve bu para kooperatif işlerinde fiilen harcanmış ise, nedensiz zenginleşme hükümlerine göre paranın iadesini isteme hakkını ilke olarak haizdir.
 
 ## İstanbul BAM 12. HD 2026/1307 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1219342500)
+
 Takip dosyasında borçlu olmamasına rağmen haciz baskısı altında borcu ödeyen 3. şahısların durumu İİK'nın 72. maddesinde açıkça düzenlenmemiştir. Takip alacaklısının takip alacağını, borçlu olmayan bir 3. şahıstan alması da onun açısından sebepsiz zenginleşme sayılmak durumundadır. Zira 6098 sayılı TBK'nın 77/1. maddesine göre sebepsiz zenginleşen kişi, maddenin ifadesine göre aynen "Haklı bir sebep olmaksızın bir başkasının malvarlığından veya emeğinden zenginleşen" olarak tanımlanmıştır. Takip alacaklısı borçların nispiliği kuralı çerçevesinde borcunu borçludan almak durumundadır. Borçlu olmayan 3. bir şahsın haciz tazyiki altında takip borcunu ödemesiyle takip alacaklısının alacağını tahsili de haklı bir sebep olmaksızın başkasının (ödemeyi yapan 3. şahsın) malvarlığından zenginleşme sayılmalıdır (Yargıtay 19. HD' nin 2020/2448 Esas, 2020/4038 Karar sayılı,13/10/2020 tarihli emsal ilamı; Dairemizin 2017/ 782 Esas- 2018/ 750 Karar sayılı 21/06/2018 tarihli kararı benzer mahiyettedir).
 
 ## Diyarbakır BAM 6. HD 2026/1233 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1235081300)
 
 Tapulu taşınmazlarda mülkiyetin devrini öngören her türlü sözleşmenin resmî şekilde yapılması zorunludur. Bu bir geçerlilik koşuludur (TMK m. 706, BK m. 213, TBK m. 237, Noterlik Kanunu m. 60/3, Tapu Kanunu m. 26). Resmî biçimde yapılmayan taşınmaz satış sözleşmeleri hukuken geçersiz olup geçerli sözleşmelerde olduğu gibi taraflarına hak ve borç doğurmaz; taraflar verdiklerini sebepsiz zenginleşme kuralları gereğince geri isteyebilirler.
 

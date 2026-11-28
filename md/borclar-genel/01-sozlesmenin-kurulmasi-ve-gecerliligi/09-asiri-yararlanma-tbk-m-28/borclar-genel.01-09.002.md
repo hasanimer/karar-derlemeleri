@@ -150,14 +150,20 @@ Borçlar Hukukunda sözleşmeler alanında yer alan en önemli temel ilkelerden 
 
 ## Adana BAM 9. HD 2026/1562 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1214748300)
+
 Ancak, edimler arasında mevcut olan her açık oransızlık aşırı yararlanmayı meydana getirmez. Zira sözleşme hukukunda geçerli olan irade özerkliği ve sözleşme özgürlüğü ilkeleri gereğince, taraflar sözleşmenin şartlarını dolayısıyla edim ve karşı edim arasındaki denge ve oranı diledikleri gibi kararlaştırabilirler. Kanun, bu konuda edimler arasında bulunması gereken denge ve oran hususunda objektif bir ölçü koymuş değildir. Yalnız, taraflardan biri karşı tarafın içinde bulunduğu zayıf durumdan yararlanarak onu sömürmek isteyebilir. İşte aşırı yararlanmadan bahsedebilmek için edim ve karşı edim arasındaki açık oransızlık, taraflardan birinin diğerinin içinde bulunduğu durumdan yararlanmak suretiyle gerçekleştirilmelidir. Kanun koyucu TBK md. 28'i (mülga BK md. 21) düzenlemekle sözleşmede zayıf olan tarafa, edimler arasındaki değer ilişkisini gözden geçirme ve şartları gerçekleşmişse aşırı yararlanmaya dayanarak sözleşmeyi iptal etme ya da edimler arasındaki oransızlığın giderilmesini isteme imkânı vermiştir.(Fikret Eren; Borçlar Hukuku Genel Hükümler, Ankara 2024, s.478)…
 
 ## Ankara BAM 21. HD 2026/1141 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1228520100)
 
 Bilindiği üzere, sözleşmenin gabin (aşırı yararlanma) nedeniyle illetli olduğunun kabulü için edim ve karşı edim arasındaki oransızlığın, taraflardan birinin, diğerinin şahsında mevcut özel bir durumu bilerek istismar etmesi, sömürmesi sonucu oluşması gerekir. Dar ve zor durumda kalmaları nedeniyle, sözleşme yapmaya, mallarını çok düşük bedel ile devretmeye sürüklenmiş kişileri korumak zayıfı güçlüye ezdirmemek için hukukumuzda da düzenlemeler yapılmış 6098 s. Türk Borçlar Kanunun (TBK) 28. (818 s. Borçlar Kanunun (BK) 21) maddesi ile aynen;
 "Bir sözleşmede karşılıklı edimler arasında açık bir oransızlık varsa, bu oransızlık, zarar görenin zor durumda kalmasından veya düşüncesizliğinden ya da deneyimsizliğinden yararlanılmak suretiyle gerçekleştirildiği takdirde, zarar gören, durumun özelliğine göre ya sözleşme ile bağlı olmadığını diğer tarafa bildirerek ediminin geri verilmesini ya da sözleşmeye bağlı kalarak edimler arasındaki oransızlığın giderilmesini isteyebilir .Zarar gören bu hakkını, düşüncesizlik veya deneyimsizliğini öğrendiği; zor durumda kalmada ise, bu durumun ortadan kalktığı tarihten başlayarak bir yıl ve her hâlde sözleşmenin kurulduğu tarihten başlayarak beş yıl içinde kullanabilir." hükmü getirilmiştir.
 
 ## İstanbul BAM 45. HD 2026/839 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1216417000)
 
 Yargıtay 17. Hukuk Dairesi'nin(Kapatılan) 17.10.2019 tarih ve 2016/11453 E., 2019/9478 K. sayılı ilamı:"6098 sayılı Türk Borçlar Kanunu'nun 28. (818 sayılı Borçlar Kanunu'nun 21.) maddesinde aşırı yararlanma (gabin) düzenlenmiş olup, maddenin 1. fıkrasında "bir sözleşmede karşılıklı edimler arasında açık bir oransızlık varsa, bu oransızlık, zarar görenin zor durumda kalmasından veya düşüncesizliğinden ya da deneyimsizliğinden yararlanılmak suretiyle gerçekleştirildiği takdirde, zarar gören, durumun özelliğine göre ya sözleşme ile bağlı olmadığını diğer tarafa bildirerek ediminin geri verilmesini ya da sözleşmeye bağlı kalarak edimler arasındaki oransızlığın giderilmesini isteyebilir" denilmek suretiyle, gabinin unsurları ile sonuçları hüküm altına alınmış. Bu hükümden anlaşılacağı üzere gabinin biri objektif, diğeri de subjektif iki unsuru bulunmaktadır.
 

@@ -118,13 +118,19 @@ BK’nın 47. maddesi gereğince cismani zarara uğrama halinde buna maruz kalan
 
 ## İzmir BAM 4. HD 2026/2391 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1236476700)
+
 Öte yandan, manevi tazminat isteminde zararın tekliği ve bölünmezliği ilkesi gereğince kısmi ve belirsiz alacak davası olarak açılmaya elverişli değildir. Bu sebeple davacıların manevi zararlarına karşılık ihtiyati haciz taleplerinin tamamının tek kalemde istenebileceğinden göz önünde tutularak ihtiyati haciz talebinin kabulü, hacizde ölçülülük ilkesi gereğince kısmen kabul-kısmen reddi veya reddine karar verilmiş olması ileride hükmedilecek olan manevi tazminat istemi için 6100 Sayılı HMK'nun 36/1-b bendi gereğince davada iki taraftan birine veya üçüncü kişiye kanunen gerekmediği halde görüşünü açıklamış olması niteliğinde görülemez. Diğer bir anlatımla, ihtiyati hacizde verilen karar ne olursa olsun buna bağlı olmaksızın nihai kararda 22/06/1966 tarihli 7/7 sayılı İBK'da göz önünde tutularak manevi tazminatın hüküm altına alınması mümkündür.
 
 ## Sakarya BAM 3. HD 2026/2216 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1233838200)
+
 1-6098 sayılı TBK'nun 56. maddesi uyarınca bedensel bütünlüğü zedelenen kimse, manevi tazminat adı altında bir miktar para ödetilmesini isteyebilir. Hakimin, özel halleri göz önünde tutarak manevi zarar adı ile hak sahibine verilmesine karar vereceği bu tutar adalete uygun olmalıdır. Hükmedilecek bu para, zarara uğrayanda manevi huzuru doğurmayı gerçekleştirecek tazminata benzer bir fonksiyonu olan, özgün bir nitelik taşır. Bir ceza olmadığı gibi mal varlığı hukukuna ilişkin bir zararın karşılanmasını da amaç edinmemiştir. O halde, tazminatın sınırı onun amacına göre belirlenmelidir. Takdir edilecek miktar mevcut halde elde edilmek istenilen tatmin duygusunun etkisine ulaşmak için gerekli olan kadar olmalıdır. Somut olayda; olay tarihi, olayın oluş şekli, kusur durumu, davacının yaralanma derecesi, tarafların sosyal ekonomik durumları ve yukarıdaki ilkeler gözetildiğinde davacı ... yararına hükmedilen manevi tazminat miktarının az olduğu, davacı lehine 20.000,00 TL manevi tazminata hükmedilmesinin somut olaya ve hakkaniyete uygun olacağı anlaşıldığından davacılar vekilinin bu husustaki istinaf isteminin kabulü gerekmiştir.
 
 ## Ankara BAM 35. HD 2026/1583 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1236441100)
 
 TBK'nın 56 maddesi; "Hâkim, bir kimsenin bedensel bütünlüğünün zedelenmesi durumunda, olayın özelliklerini göz önünde tutarak, zarar görene uygun bir miktar paranın manevi tazminat olarak ödenmesine karar verilebilir. Ağır bedensel zarar veya ölüm hâlinde, zarar görenin veya ölenin yakınlarına da manevi tazminat olarak uygun bir miktar paranın ödenmesine karar verilebilir." hükmü ile aynı yasa'nın 51. maddesinde; “Hâkim, tazminatın kapsamını ve ödenme biçimini, durumun gereğini ve özellikle kusurun ağırlığını göz önüne alarak belirler.” hükmüne göre manevi tazminat talep edebilir.
 

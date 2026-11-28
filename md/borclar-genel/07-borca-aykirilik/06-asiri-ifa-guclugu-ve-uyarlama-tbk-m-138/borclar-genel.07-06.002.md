@@ -118,9 +118,13 @@ Yargıtay tarafından benimsenen ve sözleşmeye bağlılık ilkesinin istinası
 
 ## İzmir BAM 17. HD 2026/1412 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1224390000)
+
 TBK’nın “Aşırı İfa Güçlüğü” başlıklı 138. maddesinde; “Sözleşmenin yapıldığı sırada taraflarca öngörülmeyen ve öngörülmesi de beklenmeyen olağanüstü bir durum, borçludan kaynaklanmayan bir sebeple ortaya çıkar ve sözleşmenin yapıldığı sırada mevcut olguları, kendisinden ifanın istenmesini dürüstlük kurallarına aykırı düşecek derecede borçlu aleyhine değiştirir ve borçlu da borcunu henüz ifa etmemiş veya ifanın aşırı ölçüde güçleşmesinden doğan haklarını saklı tutarak ifa etmiş olursa borçlu, hâkimden sözleşmenin yeni koşullara uyarlanmasını isteme, bu mümkün olmadığı takdirde sözleşmeden dönme hakkına sahiptir. Sürekli edimli sözleşmelerde borçlu, kural olarak dönme hakkının yerine fesih hakkını kullanır.” düzenlemesine yer verilmiştir.
 
 ## Ankara BAM 23. HD 2026/1264 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1222572300)
 
 Bu kapsamda sözleşmenin değişen şartlara uyarlanması için öncelikle sözleşmenin kurulduğu andaki şartların önemli ölçüde değişmiş olması, bu değişen şartların taraflarca öngörülmeyen ve öngörülmesi de beklenmeyen olağanüstü bir durum oluşturması ve bu durumun oluşmasının da borçludan kaynaklanmamış olması gerekmektedir. Bu olağanüstü durum sebebiyle sözleşmenin yapıldığı sıradaki olguların borçlu aleyhine değişmesi ve bu değişimin dürüstlük kurallarına göre borçludan ifanın beklenememesi kadar esaslı bir değişim olması gerekir. Ayrıca sözleşmenin uyarlanması için borçlunun borcunu henüz ifa etmemiş olması veya ifanın aşırı güçlüğü hâlini saklı tutarak ifa etmiş olması gerekmektedir. Sözleşmenin uyarlanması için gereken tüm bu şartların bir arada bulunması zorunludur. Başka bir deyişle 6098 sayılı Kanun'un 138 inci maddesinde belirtilen bu şartlardan bir tanesi dahi bulunmazsa sözleşmenin uyarlanması söz konusu olmayacaktır.
 
@@ -133,6 +137,8 @@ Davalı tarafça tahakkuk olunan cayma bedeli 30.018,25 TL tutarında ise de, el
 
 ## Ankara BAM 24. HD 2026/892 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1211943300)
+
 Hukukumuzda sözleşmeye bağlılık ( Ahde Vefa-Pacta Sund Servanda ) ve sözleşme serbestliği ilkeleri kabul edilmiştir. Bu ilkelere göre, sözleşme yapıldığı andaki gibi aynen uygulanmalıdır. Eş söyleyişle, sözleşme koşulları borçlu için sonradan ağırlaşmış, edimler dengesi sonradan çıkan olaylar nedeni ile değişmiş olsa bile, borçlu sözleşmedeki edimini aynen ifa etmelidir. Ancak bu ilke özel hukukun diğer ilkeleriyle sınırlandırılmıştır. Sözleşme yapıldığında karşılıklı edimler arasında mevcut olan denge sonradan şartların olağanüstü değişmesiyle büyük ölçüde tarafların biri aleyhine katlanılamayacak derecede bozulabilir. İşte bu durumda sözleşmeye bağlılık ilkesine sıkı sıkıya bağlı kalmak adalet, hakkaniyet ve objektif hüsnüniyet kaidelerine aykırı bir durum yaratır hale gelir. Hukukta bu zıtlık (Clausula Rebüs Sic Stantibus -beklenmeyen hal şartı- sözleşmenin değişen şartlara uydurulması) ilkesi ile giderilmeye çalışılmaktadır. İşte bu bağlamda hakim, somut olayın verilerine göre alacaklı yararına borçlunun edimini yükseltmeye veya borçlu yararına onun tamamen veya kısmen edim yükümlülüğünden kurtulmasına karar verebilir ve müdahale ederek sözleşmeyi değişen koşullara uyarlar.
 Bununla birlikte her talep vukuunda sözleşmeyi değişen hal ve şartlara uydurmak mümkün değildir. Aksi halde özel hukuk sistemimizde geçerli olan "irade özgürlüğü","sözleşme serbestisi" ve "sözleşmeye bağlılık" ilkelerinden sapma tehlikesi ortaya çıkar. Sözleşmeye müdahale müessesesi istisnai, tali (ikinci derecede) yardımcı nitelikte olup, ancak uyarlama kurumunun şartlarının mevcudiyeti halinde anılan kurumun uygulanması gündeme gelebilecektir.
 
@@ -144,6 +150,8 @@ Sözleşmenin değişen şartlara uyarlanması ile ilgili doğrudan hüküm 6098
 Sözleşmenin uyarlanması için gereken tüm bu şartların bir arada bulunması zorunludur. Başka bir deyişle 6098 sayılı Kanun'un 138. maddesinde belirtilen bu şartlardan bir tanesi dahi bulunmazsa sözleşmenin uyarlanması söz konusu olmayacaktır.
 
 ## Ankara BAM 31. HD 2026/578 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1215891100)
 
 Götürü bedelli işlerde yüklenici , eseri kararlaştırılmış olan bedelle meydana getirme yükümlülüğü altındadır. Eser öngörülenden fazla emek ve gideri gerektirmiş olsa bile yüklenici, belirlenen bedelin arttırılmasını isteyemez. Ancak başlangıçta öngörülmeyen veya öngörülüp de taraflarca göz önünde tutulmayan durumlar eserin yapılmasına engel olur veya son derece güçleştirirse yüklenicinin sözleşmenin yeni koşullara uyarlanmasını hakimden talep etmesi bu mümkün olmadığı takdirde sözleşmeden dönme hakkını kullanmasını gerektirmektedir. (TBK 480) Yüklenicinin kar etmemesi ve zarara uğraması hakimden uyarlamayı isteme veya mümkün olmadığı takdirde dönme hakkını kazandığı anlamına gelmemektedir. Zira yüklenici tacir olup sözleşmeyi imzalarken götürü bedelli iş yapmanın bir riski olduğunu öngörebilmeli ve her gider artışının yükümlülükten kurtulmak için bir çıkış yolu olmadığını bilmelidir. Yüklenicinin TBK.'nun 480. Maddede belirlenen haklarını kullanabilmesi için eserin bitmemiş olması gerekmektedir.
 

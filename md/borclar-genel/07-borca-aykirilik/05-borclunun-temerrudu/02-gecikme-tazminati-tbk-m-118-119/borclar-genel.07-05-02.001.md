@@ -95,6 +95,8 @@ Nitekim, BK’nın 128. maddesi, zamanaşımının alacağın muaccel (dava edil
 
 ## Tekirdağ BAM 4. HD 2026/1100 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1230001600)
+
 Son olarak eser sözleşmesi niteliği itibarıyla ani edimli bir sözleşmedir. Ani edimli bir sözleşmeye ilişkin borçlunun temerrüdü halinde alacaklının seçim hakları TBK 125. maddede düzenlenmiştir. Bu hükme göre; temerrüde düşen borçlu verilen süre içinde borcunu ifa etmemişse veya süre verilmesini gerektirmeyen bir durum söz konusu ise alacaklının; a) Her zaman borcun ifasını beklemek ve gecikme sebebiyle borçludan tazminat isteme b) Borcun ifasından ve gecikme tazminatı isteme hakkından vazgeçtiğini bildirerek, borcun ifa edilmemesinden doğan zararın giderilmesini isteme c) Sözleşmeden dönme hakları vardır. Yukarıda (a) bendinde belirtilen gecikme tazminatı ile (b) bendinde belirtilen borcun ifa edilmemesinden doğan zarar olumlu (müspet) zarardır.
 
 ## Bursa BAM 14. HD 2025/1651 K.

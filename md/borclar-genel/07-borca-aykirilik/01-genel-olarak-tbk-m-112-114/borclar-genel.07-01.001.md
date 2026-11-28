@@ -161,13 +161,19 @@ Kanunda yer alan borca (sözleşmeye) aykırılık nedeniyle giderim yükümlül
 
 ## İzmir BAM 17. HD 2026/2119 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1231290000)
+
 TBK. m. 219’da sözleşmeye aykırılık halinde iki ayrı durum mevcuttur. Bunların ilki, satıcının alıcıya birtakım nitelikler bildirmesi ve bu niteliklerin söz konusu şeyde bulunmamasıdır. İkincisi ise sözleşme konusu şeyden beklenen faydayı azaltan veya ortadan kaldıran durumların mevcut olmasıdır. Buna dürüstlük kuralı çerçevesinde karar verilmektedir. Alıcının beklediği faydanın dürüstlük kuralı çerçevesinde değerlendirilmesi gerekmektedir. Burada objektif değer baz alınır.
 
 ## İzmir BAM 17. HD 2026/2102 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1231354000)
+
 TBK. m. 219’da sözleşmeye aykırılık halinde iki ayrı durum mevcuttur. Bunların ilki, satıcının alıcıya birtakım nitelikler bildirmesi ve bu niteliklerin söz konusu şeyde bulunmamasıdır. İkincisi ise sözleşme konusu şeyden beklenen faydayı azaltan veya ortadan kaldıran durumların mevcut olmasıdır. Buna dürüstlük kuralı çerçevesinde karar verilmektedir. Alıcının beklediği faydanın dürüstlük kuralı çerçevesinde değerlendirilmesi gerekmektedir. Burada objektif değer baz alınır.
 
 ## İzmir BAM 17. HD 2026/2094 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1231090000)
 
 Sorumsuzluk anlaşmasına ilişkin 818 sayılı Mülga Borçlar Kanunu’nun 99. maddesi ile 6098 sayılı Türk Borçlar Kanunu’nun 115. maddesi, satıcının ayıptan sorumluluğunu kaldıran anlaşmalarda da uygulanır. Bu nedenle ayıplı mal tesliminde ağır ihmali bulunan satıcı, sorumsuzluk anlaşmasından yararlanamaz (YAVUZ, Cevdet: Türk Borçlar Hukuku, Özel Hükümler, İstanbul 2007, 7. Baskı, sh 104). Bu duruma göre, satıcının sadece ayıbı hile ile gizlemiş olması durumunda değil, satılanı ayıplı olarak devretmekte ağır kusurlu sayıldığı her durumda sorumsuzluk anlaşması geçersiz sayılır.
 

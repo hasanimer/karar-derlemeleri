@@ -99,12 +99,18 @@ Taraflar arasında düzenlenen tarihsiz harici gayrimenkul sözleşmesi resmi ş
 
 ## Ankara BAM 22. HD 2026/1287 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1233765800)
+
 Batıl sözleşme, baştan itibaren geçersiz bir hukuki işlem olup, bunun sonradan geçerli hale gelmesi de söz konusu olamaz. Batıl bir sözleşme gerek taraflar, gerekse üçüncü şahıslar bakımından hüküm ve sonuç doğurmaz. Yargılama esnasında da hakim, dosya içeriğinden butlan sebebi bulunduğunu fark ettiği takdirde, bu husus taraflarca ileri sürülmese dahi resen göz önünde bulundurması gerekir.
 
 ## Ankara BAM 21. HD 2026/756 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1217387800)
+
 Es söyleyişle; mutlak butlanla batıl kararlar, baştan beri hükümsüz olan, sonradan geçerlilik kazanma olanağı olmayan, emredici kurallara, kamu düzenine veya ahlaka ve adaba aykırı veyahut konusu olanaksız olan kararlardır. Bu tür kararlar, baştan beri hüküm ifade etmezler ve mahkemece, re’sen üzerinde durulması da gerekir.
 
 ## Adana BAM 22. HD 2026/175 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1232915300)
 
 6102 sayılı TTK.nun 445. maddesi hükmüne göre; kanun ve esas sözleşme hükümlerine ve özellikle dürüstlük kuralına aykırı olan genel kurul kararları aleyhine iptal davası açılabilir. Aynı yasanın 446. maddesine göre iptal davası açılabilmesi için, toplantıya katılmak, olumsuz oy vermek ve muhalefetini tutanağa geçirtmek şartlarının birlikte bulunması gerekmektedir. Oylama öncesi yapılan görüşmeler sırasında bir öneriye karşı olunduğunun belirtilmesi veya ret oyu kullanılması, alınan karara muhalif olunduğu anlamına gelmez. İptali kabil kararlar , daha çok ortakların menfaatlerini koruyan düzenlemelere aykırılık teşkil eden, emredici kurallar dışında, yorumlayıcı ve şekle ilişkin kuralların ihlal edildiği kararlardır. İptali gereken kararlar, baştan itibaren geçersiz olmadıklarından, iptal edilinceye kadar geçerli bir kararın hüküm ve sonuçlarını doğururlar.

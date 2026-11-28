@@ -144,17 +144,25 @@ Türk hukukunda ve uygulamada bazı özel hallerde sözleşmeye bağlı olarak y
 
 ## İzmir BAM 11. HD 2026/1698 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1234622000)
+
 6098 sayılı TBK'nın 99. maddesi hükmüne göre, yabancı para borcunun vadesinde ödenmemesi halinde alacaklı, bu borcun vade veya fiili ödeme günündeki rayice göre Türk parası olarak ödenmesini isteyebilir. Yabancı para cinsinden yapılan harcamalar, yabancı para alacağı olarak dava edilebilir ve ödeme günündeki kura göre işlem görür. Davacı alacağı, yabancı para cinsinden meydana gelmiş olup fiili ödeme tarihindeki döviz kuru üzerinden TL karşılığının tahsiline karar verilmesi gerekir. (Yargıtay 17.HD'nin 17.05.2018 tarih ve 2015/8003 E-2018/5155 K) Yabancı para borcuna hangi faizin uygulanacağı 3095 sayılı Kanun'un "Yabancı para borcunda faiz" kenar başlıklı 4/a maddesinde düzenlenmiş olup ilgili düzenlemede; “Sözleşmede daha yüksek akdi veya gecikme faizi kararlaştırılmadığı hallerde, yabancı para borcunun faizinde Devlet Bankalarının o yabancı para ile açılmış bir yıl vadeli mevduat hesabına ödediği en yüksek faiz oranı uygulanır.” kuralına yer verilmiştir.
 
 ## Ankara BAM 22. HD 2026/1220 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1233765300)
 
 6098 sayılı yeni Borçlar Kanununun 99/III hükmü gereğince ise “borcun ödeme gününde ödenmemesi” üzerine alacaklının bazı seçimlik hakları ortaya çıkmaktadır. TBK 99/3. Fıkrasında geçen "Borcun ödeme gününde ödenmemesi"nin anlamı üzerinde de durmak gerekmektedir. Doktrinde 818 sayılı Kanunun 83/III hükmünde geçen vadede ödenmeme ifadesi, muacceliyeti değil, temerrüdü ifade eder. Buna göre, alacaklının seçimlik hakkının doğması için, borcun muaccel olması yeterli değildir, aynı zamanda borçlunun temerrüdünün de oluşması gerekir. Zira borcun muaccel olması üzerine ihtarda bulunmadığı için temerrüdün doğumunu sağlamayan alacaklıya, BK. m.83/III’deki ek olanaklarının tanınması gereksizdir. Bu nedenle temerrüt oluşmadığı sürece borçlu, gerçek olmayan yabancı para borcunu muacceliyet tarihindeki kur üzerinden ödeme yetkisini korur. Fakat ihtara gerek olmaksızın temerrüdün oluşacağı durumlarda, diğer koşulları da varsa muacceliyet ile temerrüt aynı tarihte ortaya çıkacaktır. (Yrd. Doç. Dr. .................., Yabancı Para Borçlarının İfası) şu haliyle borçlunun temerrüdü halinde artık TBK 99/3 maddesindeki seçimlik yetkiler alacaklıya geçmektedir.
 
 ## Sakarya BAM 7. HD 2026/906 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1210546500)
+
 6098 sayılı TBK’nın 99. maddesi uyarınca yabancı para borcunun vadesinde ödenmemesi halinde alacaklı, bu borcun aynen veya vade ya da fiili ödeme günündeki rayice göre Türk parası ile ödenmesini isteyebilir. Yargıtay 11. Hukuk Dairesinin istikrar kazanmış uygulanmasına göre de haksız fillerde zarar, yabancı para üzerinden doğmuş ise yabancı para üzerinden tahsil istenilmesi mümkündür (Yargıtay 11. Hukuk Dairesi'nin 2014/13970 E-2015/10395K, 2013/5213 E-2014/12333K, 2014/14491 E -2015/76 K sayılı ilamları aynı yöndedir.). Ancak somut olay incelendiğinde davacı sigorta şirketinin rücuen tazminat talebinde bulunduğu, davalı ile davacı arasında borç alacak ilişkisinin yabancı para ile yapılmasına ilişkin bir anlaşmanın da bulunmadığı görülmektedir.
 
 ## İzmir BAM 11. HD 2026/827 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1208939500)
 
 6098 sayılı TBK'nın 99. maddesi hükmüne göre, yabancı para borcunun vadesinde ödenmemesi halinde alacaklı, bu borcun vade veya fiili ödeme günündeki rayice göre Türk parası olarak ödenmesini isteyebilir. Yabancı para cinsinden yapılan harcamalar, yabancı para alacağı olarak dava edilebilir ve ödeme günündeki kura göre işlem görür. Davacı alacağı, yabancı para cinsinden meydana gelmiş olup fiili ödeme tarihindeki döviz kuru üzerinden TL karşılığının tahsiline karar verilmesi gerekir.(Yargıtay 17.HD'nin 17.05.2018 tarih ve 2015/8003 E-2018/5155 K) Yabancı para borcuna hangi faizin uygulanacağı 3095 sayılı Kanun'un "Yabancı para borcunda faiz" kenar başlıklı 4/a maddesinde düzenlenmiş olup ilgili düzenlemede; “Sözleşmede daha yüksek akdi veya gecikme faizi kararlaştırılmadığı hallerde, yabancı para borcunun faizinde Devlet Bankalarının o yabancı para ile açılmış bir yıl vadeli mevduat hesabına ödediği en yüksek faiz oranı uygulanır.” kuralına yer verilmiştir.
 

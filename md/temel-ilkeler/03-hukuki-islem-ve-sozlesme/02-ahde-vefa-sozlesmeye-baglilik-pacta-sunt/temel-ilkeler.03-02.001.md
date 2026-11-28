@@ -91,6 +91,8 @@ Taraflar arasında özel hukuk hükümlerine tabi sözleşme ilişkisi kurulmuş
 
 ## İstanbul BAM 69. HD 2026/27 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1231260600)
+
 Hukukumuzda sözleşmeye bağlılık (Ahde Vefa-Pacta Sund Servanda) ve sözleşme serbestliği ilkeleri kabul edilmiştir. Bu ilkelere göre, sözleşme yapıldığı andaki gibi aynen uygulanmalıdır. Bir başka söyleyişle, sözleşme koşulları borçlu için sonradan ağırlaşmış, edimler dengesi sonradan çıkan olaylar nedeni ile değişmiş olsa bile, borçlu sözleşmedeki edimini aynen ifa etmelidir. Gerçekten de sözleşmeye bağlılık ilkesi, hukuki güvenlik, doğruluk, dürüstlük kuralının bir gereği olarak sözleşme hukukunun temel ilkesini oluşturmaktadır.
 
 ## Ankara BAM 22. HD 2022/1839 K.

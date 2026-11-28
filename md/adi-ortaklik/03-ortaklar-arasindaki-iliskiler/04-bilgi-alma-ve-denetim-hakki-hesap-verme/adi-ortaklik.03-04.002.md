@@ -62,18 +62,26 @@ Yönetici ortak olan davacının, BK'nun 530/2 maddesi gereğince hesap verme y�
 
 ## Adana BAM 9. HD 2026/2218 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1217615900)
+
 Davalılar arasında iş ortaklığının mevcut olduğu, davacının ticari defterlerine göre davacının davalılardan 23.431,24 TL alacaklı olduğu, iade faturasının davacı defterlerinde kayıtlı olmadığı, davalı defterlerinde ise kayıtlı olduğu, davalı defterlerine göre davalının davacıya borcunun bulunmadığı, mal teslimine ilişkin dosya kapsamında delil bulunmadığı, davalı tarafça mal tesliminin yapılmadığına dair davacıya yapılmış bir bildirim bulunmadığı, taraflar arasında düzenlenmiş olan mutabakata göre 31/12/2018 tarihi itibariyle davacının davalıdan 40.041,20 TL alacaklı olduğu, davalı tarafça iade faturasının 8 günlük yasal süre içerisinde düzenlenmediği, mutabakatın düzenlenmesinden sonra davalının davacıya 27/03/2019 tarihinde 16.609,96 TL lik ödemede bulunduğu anlaşılmıştır.
 
 ## Kayseri BAM 6. HD 2026/1290 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1213166400)
 
 İlk derece mahkemesi tarafından yapılan yargılama sonucunda; " Somut olayda davacının, davalıya karşı, fatura alacağından bahisle icra takibi başlattığı görülmüştür. Davalı takibe itiraz etmiş ve takip durmuştur. Kanuni ihtaratlarla tarafların ticari defterleri incelemeye alınmış; nihai muhasebeci bilirkişinin raporuna göre dava konusu cari hesaba konu faturaların bir kısmının her iki taraf ticari defterinde de kayıtlı olduğu görülmüştür. Davacının takibe konu ettiği 2 adet fatura vardır. Bunlar ... ve ... numaralı faturalardır. Bu faturalardan...ile biten fatura davalı defterlerinde kayıtlı değildir. Ayrıca takibe konu edilmese de rapordaki açık hesap sonunda yapılan bakiyede davacı alacağına katılan ... faturası da davalıların adi ortaklık defterinde kayıtlı değildir. Bu iki fatura dışarıda bırakıldığında taraflar arasında açık hesap sonucu alacak borç ilişkisi bulunmamaktadır. Davacı taraf, her ne kadar HMK 220 maddesi ve devamı hükümleri gereğince davalının defterlerinin kapanış tasdiklerinin bulunmadığı, bu nedenle davacı defterlerinin direkt olarak lehe delil teşkil ettiği belirtilmiş ise de madde metninde bu yönde bir çıkarım yapılamamaktadır.
 Nitekim lehe delil niteliği davalı tarafın hiç defter ibraz etmemesi durumda geçerlidir. Ancak somut olayda kapanış tasdiki olmasa da bir defter ibrazı vardır. Bu nedenle davacının yalnızca kendi defter kayıtları ile karar verilmesi talebi yerinde görülmemiştir. \[Davacı tarafça davalıya mal ve hizmet teslimine dair belge sunulmadığı, defterlerin usulüne uygun tutulmasının tek başına yetmeyeceği, kayıtların dayanak belgelerle desteklenmesi gerektiği ancak somut olayda mal teslimi iddiasının davacı tarafça ispatlanamadığı görülmüştür.] {Yargıtay 11.H.D. 2020/4088E. 2021/4859 K. Yargıtay 11. H.D. 2009/5864E. 2010/11902K.} …
 
 ## İstanbul BAM 43. HD 2026/1147 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1216707200)
+
 Türk Borçlar Kanunu'nun 147/4.maddesi uyarınca bir ortaklıkta, ortaklık sözleşmesinden doğan ve ortakların birbirleri veya kendileri ile ortaklık arasındaki; bir ortaklığın müdürleri, temsilcileri, denetçileri ile ortaklık veya ortaklar arasındaki alacaklar 5 yıllık zamanaşımı süresine tabidir. Pay devri şirket pay defterine tescil ile tekemmül ettiğinden zamanaşımının başlangıç tarihi de devrin pay defterine tescil tarihinden başlar. (Yargıtay 11. Hukuk Dairesi'nin 2015/3202 Esas ve 2015/11608 Karar sayılı kararı)
 
 ## Ankara BAM 27. HD 2026/1065 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1235072200)
 
 İcra Müdürlüğü’nün 2020/8182 sayılı dosyası ile davalılar ... ....... Enerji İnş. AŞ. - İnşaat Tic. Müşavirlik Ltd. Şti. Adi Ortaklığı, ... İnşaat ve ............ aleyhine başlatılan takipte asıl alacak: 223.934,66 TL ve işlemiş faiz :
 40.308,24 TL olmak üzere toplam 264.242,90 TL tahsili talep edildiği, borcun sebebinin ise 01.10.2018 tarih 039873 nolu faturadan kaynaklı bakiye alacak olarak gösterildiğini, borcun sebebi olarak gösterilen faturanın ilgili olduğu yıl sonu, (31.12.2018) itibariyle tarafların ticari defter kayıtlarına göre, davacının, iş ortaklığından 1.955.176,96 TL alacaklı olduğu ve bu rakamdan bir takım işlemlerden sonra nihayet iki yıl sonunda, 31.12.2020 tarihinde 223.934,61 TL alacaklı olduğu varsayıldığına göre, takibe konu alacağın 01.10.2018 tarih ve 039873 nolu fatura olmadığının açık olduğunu, borcun sebebinin bu fatura olduğunun irdelenmesi gerekirken bilirkişi heyetinin bu talebi ihmal etmiş olmasının önemli bir eksiklik olduğunu, bahsedilen fatura bedelinin ödendiğini, ticari defter kayıtlarındaki göreceli, izafi geçici hakkedişlere bağlı olarak ortaya çıkanborç bakiyesinin 2019 yılında düzenlenen faturalardan, yani başka faturalardan kaynaklandığını, takibe konu edilen 01.10.2018 tarih 039873 nolu fatura nedeniyle borcun varlığının ispat edilemediğini müvekkilinin bu faturadan dolayı borcu bulunmadığını ,taraflar arasında düzenlenen zeyilnamenin Konu başlıklı 2’nci maddesi aynen;
@@ -81,14 +89,20 @@ Türk Borçlar Kanunu'nun 147/4.maddesi uyarınca bir ortaklıkta, ortaklık sö
 
 ## İstanbul BAM 12. HD 2026/1016 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1212918300)
+
 Davalı tarafından dosyaya sunulan e-posta yazışmalarına göre davacının, davalıya karşı dava dışı ... ...AŞ için personel takip sistemi kurulumu edimini üstlendiği anlaşılmakla birlikte davacı ile davalının bahsi geçen firmaya yönelik adi ortaklık olarak nitelendirilebilecek şekilde iş birliği içerisinde hareket ettiklerine dair bir bilgi bulunmamaktadır. Diğer taraftan davacının düzenlediği 28/05/2021 tarihli 18.927,20-Euro bedelli fatura mal teslimine ilişkindir. 31/05/2021 tarihli e-posta ekinde davalıya takip konusu fatura gönderilmiş olup, sonrasında davalı 02/06/2021 tarihli e-postasında faturanın kesilmesi için süre istemelerine rağmen bilgi verilmeden fatura kesilmesine yönelik şikayetini dile getirmiş olup, 31/12/2021 tarihli e-postaya kadar davacının edimini ifa etmediğine yönelik bir itiraz ileri sürmemiştir. Bu durumda faturaların deftere kaydedilerek BA bildirimine konu edildiği de nazara alındığında davacının takip konusu fatura bedeline hak kazandığının kabulü yerindedir. Bunun dışında 3095 S.lı Kanun 4/a maddesi uyarınca hükmedilen faiz türü ve oranında isabetsizlik bulunmamaktadır.
 Davacının alacağı davalının defterlerinde de yer alan faturaya dayalı olup likit ve belirlenebilir nitelikte olduğundan davalının aksi yöndeki istinaf nedenleri de yerinde değildir. Alacağın yabancı para cinsinden talep edilemeyeceği ileri sürülmüş ise de faturanın düzenlendiği 28/05/2021 tarihi itibariyle Hazine ve Maliye Bakanlığı tarafından yayımlanan Türk Para Kıymetini Koruma Hakkında 32 Sayılı Karara ilişkin tarafından Tebliğ'in 8/9. maddesi gereğince tarafların satış bedelinin yabancı para üzerinden kararlaştırmasına, davacının alacağını yabancı para üzerinden talep etmesine engel bulunmamaktadır …
 
 ## İstanbul BAM 44. HD 2026/924 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1218693900)
+
 Ayrıca franchise alanın, franchise verene karşı onun menfaatlerini koruma, sırlarını saklama, gerektiğinde hesap verme gibi güven ve sadakate dayanan yükümlülükleri vardır. Franchise sözleşmesi, kanunlarda düzenlenmiş isimli sözleşmelerin unsurlarını içerebileceği gibi, isimsiz sözleşmelerin unsurlarını da içerebilir. Nitekim franchise sözleşmesi genellikle satış, kira veya ürün kirası, hizmet, acente, vekâlet, adi ortaklık gibi isimli sözleşmelerle, lisans, know-how ve tek satıcılık gibi isimsiz sözleşmelerin unsurlarını içermektedir. Franchise sözleşmesi, isimli ve isimsiz sözleşmelerin unsurlarından oluştuğu için niteliği itibariyle kendine özgü isimsiz bir sözleşmedir (Eren, Fikret: Borçlar Hukuku Özel Hükümler, Ankara, 2018, s. 970)." şeklinde açıklanmıştır.
 
 ## Ankara BAM 27. HD 2026/915 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1230538800)
 
 Davacı yüklenici firma tarafından davalı adi ortaklık adına 07.03.2022 tarihli ve...NOLU 374.946,04 tl'lik fatura düzenlendiği tespit edilmiştir." şeklindeki tespitin de hatalı olduğunu bu sebeple de raporun hükme esas alınmaması gerektiğini ,hak ediş raporunda müvekkili şirketin ifa ettiği toplam işlerin tutarı yani alacağı, KDV dahil 399.310,77 TL olarak hesaplandığını , bu tutardan 20.303,94 TL teminat kesintisi ve 24.364,73 TL tevkifat kesintisi yapıldığını ve ödenecek tutarın 354.642,10 TL olarak belirlendiğini, müvekkili şirketin hakedişinden yapılan 20.303,94 TL teminat kesintisi sözleşme gereği işin bitimiyle müvekkili şirkete iade edilecek olduğu için müvekkili şirket tarafından, 354.642,10 TL olarak belirlenen hakediş bedeline bu tutar da eklenerek 374.946,04 TL bedelli, 07/03/2022 tarihli ve...nolu e-Arşiv fatura düzenlendiğini ,yukarıda da belirtildiği gibi, müvekkili şirketin hakedişinden yapılan 20.303,94 TL tutarındaki teminat kesintisinin de müvekkili şirketin alacağına dahil olduğunu ,bu nedenle müvekkili şirketin, hakedişte ödenecek tutar olarak belirlenen tutara bu tutarı ekleyerek fatura düzenlemesi hukuka uygun olduğunu ,bunun sebebinin ise sözleşme içeriğinden
 çıkarılabildiğini şöyle ki; sözleşmenin 7.1. maddesinde; "ALT YÜKLENİCİ'nin, hakediş ödemelerinden kesilecek nakdi teminat miktarları, Sözleşme'nin ekinde yer almaktadır. Nakdi teminatlar, İŞVEREN'in diğer tüm hakları saklı kalmak koşuluyla belirtilen tarihlerde ALT YÜKLENİCİ'ye iade edilecektir." denildiğini ayrıca sözleşmenin ek 4 "TEMİNATLAR" "A.
@@ -110,6 +124,8 @@ Mühendislik-.... firması adına düzenlendiği, bu firma tarafından da iş or
 istinaf itirazlarının yerinde olmadığı anlaşıldığından davacının istinaf başvurusunun HMK'nın 353/1-b.1 maddesi gereğince esastan reddine karar vermek gerektiği sonuç ve kanaatine varılarak aşağıdaki şekilde hüküm kurulmuştur.
 
 ## İstanbul BAM 17. HD 2026/607 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1208094400)
 
 Dava; taraflar arasında imzalanan temizlik hizmeti sözleşmesinden kaynaklı fatura alacağının tahsili amacı ile davacı tarafından davalılar hakkında başlatılan takibe itirazın iptali istemine ilişkindir.
 

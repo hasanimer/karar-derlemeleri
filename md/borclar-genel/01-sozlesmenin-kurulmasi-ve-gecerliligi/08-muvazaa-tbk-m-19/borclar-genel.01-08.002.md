@@ -88,6 +88,8 @@ Kuşkusuz, ölünceye kadar bakım sözleşmesinin muvazaalı olarak yapıldığ
 
 ## Samsun BAM 1. HD 2026/2676 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1235770400)
+
 Davaya konu satış, Atakum Tapu Sicil Müdürlüğünün 15/02/2016 tarih .... yevmiye ile yapılan satış olup, taşınmazın önceki tapu kaydı olan .... parselin tamamı 10.000,00 TL bedel ile .... parselin tamamı ise 3.520.000,00 TL bedel ile davacı şirket tarafından davalı şirkete nakden ve bedeli alınmak suretiyle satılmıştır. Davacı taraf iş bu dava ile satışın aynı tarihte ... leline ipotek tesis işlemi yapılmış olması, satış bedelinin gerçek değerinin 4 katı aşağısına yapılması, devrin 2 grup şirketi arasında gerçekleşmesi, taşınmazı alıcı tarafın sahiplenmemesi, üzerinde hiçbir hak iddiasının olmaması ve satış bedelinin ödenmemiş olması gerekçeleriyle TBK 19. maddesi gereği muvazaalı olduğunu ileri sürerek iptalini istemektedir. Taşınmazın satış tarihi itibariyle davacı şirketin hisselerin tamamı, davalı şirkete aittir. Davacı işbu dava ile 2016 yılında yaptığı satışın muvazaalı olduğunu ileri sürmektedir. Bu husus hukukun temel prensiplerinden olan "Hiç kimsenin kendi muvazaasına dayanamayacağı" prensibine aykırıdır.
 Davacı taraf satış tarihinden sonra davalı ya ait bir kısım hisseleri devralmış ve aralarında çıkan bir kısım uyuşmazlıklar sebebiyle bu kez kendi yaptığı satışın muvazaalı olduğunu ileri sürerek işbu davayı açmıştır.
 
@@ -96,6 +98,8 @@ Davacı taraf satış tarihinden sonra davalı ya ait bir kısım hisseleri devr
 Muvazaa, tarafların üçüncü kişileri aldatmak amacıyla fakat kendi gerçek iradelerine uymayan ve aralarında hüküm ve sonuç meydana getirmeyen bir görünüş yaratmak hususundaki anlaşmalara denir. Muvazaanın tanımından da anlaşılacağı üzere, tarafların başkalarını aldatmak amacıyla yaptıkları görünürdeki işlem kural olarak geçersizdir.
 
 ## Adana BAM 17. HD 2026/1770 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1232055900)
 
 Muvazaa daha çok sözleşmenin yorumuyla ilgili olduğundan, öğreti ve uygulamada muvazaa kapsamlı olarak incelenmiş ve belirli kurallara bağlanmıştır. Gerek öğretide, gerek uygulamada muvazaa, mutlak ve nispi muvazaa olarak iki gruba ayrılmaktadır; mutlak muvazaada taraflar herhangi bir hukuki işlem yapmayı (oluşturmayı) istemezler, yalnız görünüşte bir hukuki işlem için gerekli irade açıklamasında bulunurlar; nispi muvazaada ise taraflar gerçekten belli bir hukuki işlem yapmak isterler, ancak onu saklamak amacıyla, bir başka hukuki işlemin kurulduğu görüşünü yaratmak üzere irade açıklamasında bulunurlar.
 

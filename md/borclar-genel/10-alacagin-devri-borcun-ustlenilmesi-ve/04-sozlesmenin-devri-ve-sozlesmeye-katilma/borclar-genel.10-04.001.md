@@ -117,6 +117,8 @@ Somut olayda, yüklenici şirkete asıl sözleşmenin yapıldığı şekilde uyg
 
 ## İstanbul BAM 43. HD 2026/1556 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1219729800)
+
 Halefiyet kanun ve akdi (iradi) olarak ikiye ayrılmakla birlikte TBK'da sadece kanuni halefiyet düzenlenmiştir. 6098 sayılı TBK 62, 85, 127, 168, 596 maddelerindeki düzenlemeler kanuni halefiyete örnek olarak sayılabilecek düzenlemelerdir. Ancak sözleşme özgürlüğü kapsamında akdi halefiyet sözleşmenin devri yolu (TBK 205 vd.) ile mümkündür. Sözleşmenin devri ile birlikte defi hakları ve tüm alacak, borç ve yenilik doğurucu hakları devralana geçer.
 
 ## İstanbul BAM 45. HD 2026/168 K.

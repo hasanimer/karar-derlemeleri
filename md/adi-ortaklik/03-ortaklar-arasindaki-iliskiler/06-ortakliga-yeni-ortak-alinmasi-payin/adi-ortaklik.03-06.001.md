@@ -88,6 +88,8 @@ Borçlar Kanununun 520. ve devamı maddelerine göre, adi ortaklıkla ortakları
 
 ## İstanbul BAM 3. HD 2026/2001 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1216452100)
+
 …
 
 ... A.Ş. tarafından Adi Ortaklığa protokolün 3.4.2 hükmünde yer alan arsa payının devri ön koşulunun gerçekleşmesi ile ödenmesi öngörülen 20.000.000,00 TL tutarındaki avans ödemesini teminen Adi Ortaklık tarafından 3. Şahıslara satışı yapılan bağımsız bölümler ile protokolün 2 nolu ekinde bulunan 3, Şahıslarla akdedilen gayrimenkul satış vadi sözleşmelerinden doğan her türlü hak ve alacağın Adi Ortaklık tarafından ... A.Ş. ye teminat amacıyla temlik sözleşmesi ile devredileceği, ... A.Ş.' nin ortaklıktan ayrılmasından sonra ... ... Projesi kapsamında satışı yapılmamış 211 adet bağımsız bölümün Adi Ortaklık tarafından 61 Kdv dahil 206.545.000,00 TL bedel karşılığında ... A.Ş. ye satılacağı, Arsa sahipleri ile ... arasında imzalanan kat karşılığı inşaat sözleşmesinin ilgili maddeleri uyarınca Arsa sahipleri lehine kurulan inşaat teminat ipoteği ile birlikte ... A.Ş.'ye devredileceği yine aynı sözleşmenin Sözleşmenin 3.4.4. maddesinde ...-... Adi Ortaklığı arasında 09.10.2018 tarihinde düzenlenen Ön Protokol” ün 3.4.4 maddesinde “ ...- ... Adi Ortaklığı ile ... A.Ş. arasında 02.09.2016 tarihinde Kocaeli İli, İzmit İlçesi ... Mh. ...

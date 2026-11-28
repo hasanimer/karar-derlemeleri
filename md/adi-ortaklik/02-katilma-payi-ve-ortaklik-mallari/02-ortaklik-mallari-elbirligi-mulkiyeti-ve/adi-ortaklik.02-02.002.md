@@ -111,6 +111,8 @@ Adi ortaklıkta, ortaklar adına yapılan veya ortakların sonradan icazet (olur
 
 ## İstanbul BAM 3. HD 2026/2008 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1217267600)
+
 Yukarıda gerekçede açıklandığı üzere, adi ortaklığın feshi ve tasfiyesine ilişkin davalarda mal varlıklarının satışı ve paraya çevrilme işlemlerinin ve bu kapsamda satılan taşınmazların devri işlemlerinin yargılama devam ederken ara kararlar ile gerçekleştirileceği, tasfiye davalarında hükmün kesinleşmesinin beklenmeyeceği, bu kapsamda HMK 350/2 maddesi ile HMK 367/2 maddesinin somut olayda uygulanmayacağı hususunun Beylikdüzü Tapu Sicil Müdürlüğü'ne yazılacak müzekkerede açıkça belirtilmesine, yine yazılacak müzekkere ekine tasfiye heyetinin açık kimlik bilgileri, tasfiye heyeti 4 numaralı raporu, mahkememiz 29.04. 2026 tarihli ara kararı ile işbu ara kararımız, tasfiye heyeti atanmasına ilişkin ara karar, bahsi geçen BAM kararı, tasfiye heyeti yetkilerine ilişkin ara karar ve Tapu Kadastro Genel Müdürlüğü'nün, Adalet Bakanlığı Hukuk İşleri Genel Müdürlüğü'nün, Tapu ve Kadastro Genel Müdürlüğü İstanbul 2. Bölge Müdürlüğü'nün görüş yazılarının eklenmesine, …
 
 ## Adana BAM 9. HD 2026/1364 K.

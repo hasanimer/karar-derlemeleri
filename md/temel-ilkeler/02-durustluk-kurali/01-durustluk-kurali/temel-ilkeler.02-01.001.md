@@ -120,10 +120,14 @@ Kural olarak kira bedelinin olağanüstü nedenlerle çok yüksek olması ve dav
 
 ## Adana BAM 9. HD 2026/2428 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1231522300)
+
 Esas sermaye, pay sahiplerinin ortaklığa getirmeyi yükümlendikleri malvarlığının toplamı ve bunun nakit olarak ifadesidir. Esas sermaye artırımı ile şirket anasözleşmesinde yer alan bu rakamın yükseltilmesi amaçlanır. Esas sermaye artırımı, ancak yükseltilen esas sermayeye denk malvarlığı ve ekonomik değerlerin şirkete kazandırılmasının sağlanması veya iç kaynaklardan sermaye artırımında ise artırılan sermaye kadar yedek akçe veya kârın ortaklık bünyesinde mevcut bulunması halinde amacına ulaşabilir. Esas sermaye artırımı yasanın tanıdığı bir hak olup, kural olarak zorunlu değildir. Artırılan sermayeye katılmada öncelik (rüçhan) hakkı ise, mevcut hisseleri ile orantılı olmak kaydı ile hisse sahiplerine ait olup, bu hakkın kullanımı kural olarak isteğe bağlı olması nedeniyle iradeleri dışında ortaklar rüçhan hakkını kullanmaya ve ek taahhüt altına girmeye zorlanamazlar.
 Bununla birlikte, ortaklığın çıkarları veya ihtiyacının zorunlu kılmamasına rağmen sermaye artırım kararı ile bir kısım paydaşların rüçhan hakları bir kısım paydaşlar yararına olacak biçimde dolaylı veya dolaysız sınırlanır veya tamamen kaldırılırsa esas sermaye artırımı kararlarının objektif iyiniyet kurallarına uygunluğundan söz edilemez.
 
 ## Ankara BAM 20. HD 2026/1845 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1234787500)
 
 Tarafların markayı kullanmaya başladıkları tarihlerin birbirine çok yakın olduğu, her iki tarafın da kendi ticari çevrelerinde markaya değer kazandırmış olması ve uzun süre piyasada çatışmasız bir şekilde faaliyet göstermeleri durumunda "birlikte var olma" (co-existence) ilkesi gündeme gelmektedir. Zira SMK 5/3 hükmü uyarınca, "muvafakat yoluyla iradi birlikte var olma" ilkesinin, yargısal içtihatlarla tarafların piyasada yan yana ve dürüstçe oluşturdukları fiili durumunda hukuken korunmaya değer olduğu vurgulanmıştır. Dolayısıyla davacının, tescil tarihinden önceye dayanan ve kötü niyetli olmayan davalı kullanımına, uzun süre sessiz kalması, 4721 sayılı Türk Medeni Kanunu'nun (TMK) 2. maddesinde düzenlenen "dürüstlük kuralı" ve "hakkın kötüye kullanılması" çerçevesinde değerlendirilmelidir.
 

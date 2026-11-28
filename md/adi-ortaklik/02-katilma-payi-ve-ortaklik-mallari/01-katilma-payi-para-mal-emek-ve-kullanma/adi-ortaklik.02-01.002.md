@@ -160,4 +160,6 @@ Davacı ile davailının kömür ticareti konusunda adi ortaklık kurdukları ve
 
 ## İstanbul BAM 3. HD 2026/2019 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1215867500)
+
 Müvekkil tarafından adi ortaklığın tasfiyesi, ödediği sermayenin ve kendisine ödenmesi gereken kar payının ödenmesi talebi ile eldeki davayı açmıştır. Yargılamanın devamı sırasında yapılan inşaatta bulunan bazı dairelerin satışına ilişkin adi yazılı şekilde düzenlenmiş olan ".... Satış Vaadi Sözleşmesi" isimli sözleşmeleri dosyaya delil olarak sunmuştur. Bu sözleşme suretleri incelendiğinde; altında müvekkilin imzası ile birlikte davalı şirket yetkilisi ...isimli kişinin de imzasının bulunduğu görülmektedir. Bu satışların yapılmasından ...'nin babası ... Şirketinin ortağı olan ...'nin de haberi bulunmaktadır. Davalı şirket ortağı olan ... müvekkilim ile görüşmeleri yapmış ve projenin tamamlanması sırasında şirket müdürü olan ...ile birlikte fiilen hazır bulunmuş ve çalışmıştır. Şirketi gayri resmi olarak idare etmektedir.

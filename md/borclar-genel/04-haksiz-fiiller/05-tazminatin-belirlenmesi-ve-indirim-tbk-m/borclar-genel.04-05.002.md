@@ -126,6 +126,8 @@ Müterafik kusur indiriminde her somut olayın özelliğine göre olayın meydan
 
 ## Adana BAM 3. HD 2026/2796 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1236347500)
+
 Zararın meydana gelmesinde veya artmasında zarar görenin de kusurunun bulunması halinde söz konusu olan müterafik kusur 6098 sayılı TBK'nın md. 52. maddesinde (Borçlar Kanunu'nun 44.) düzenlenmiştir. Zarar görenin kusurunun, zararın meydana gelmesinde başlıca etken olması halinde zarar verenin sorumluluğunun kalkması söz konusu olabileceği gibi belirlenen kusura göre zarar ve ziyandan indirim yapılmasını da gerektirebilir.
 
 ## Konya BAM 3. HD 2026/2749 K.
@@ -138,13 +140,19 @@ Müterafik kusur indiriminde her somut olayın özelliğine göre olayın meydan
 
 ## Adana BAM 3. HD 2026/2727 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1233695700)
+
 Zararın meydana gelmesinde veya artmasında zarar görenin de kusurunun bulunması halinde söz konusu olan müterafik kusur 6098 sayılı TBK'nın md. 52. maddesinde (Borçlar Kanunu'nun 44.) düzenlenmiştir. Zarar görenin kusurunun, zararın meydana gelmesinde başlıca etken olması halinde zarar verenin sorumluluğunun kalkması söz konusu olabileceği gibi belirlenen kusura göre zarar ve ziyandan indirim yapılmasını da gerektirebilir.
 
 ## Adana BAM 3. HD 2026/2677 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1235173600)
+
 Müterafik kusur; aynı şartlar altındaki makul, dürüst ve ortalama bir kişinin, kendi menfaati icabı, zarara uğramamak için kaçınacağı veya kaçınması gereken bir davranış tarzını ifade etmektedir. TBK'nın 52.maddesinde; zarar gören taraf, zarara razı olduğu veya kendisinin eylemi zararın doğmasına ya da zararın artmasına yardım ettiği ve zararı yapan kişinin durum ve mevkiini ağırlaştırdığı takdirde hakimin, zarar ve ziyan tutarını indirebileceği veya zarar ve ziyanı hüküm altına almaktan vazgeçebileceği belirtilmiştir. Davacıların müşterek çocuğu müteveffa ..., alkollü olduğunu bildiği sürücünün kullandığı araca binmiş olup, müterafik kusurundan dolayı tazminat tutarından içtihatlara uygun olarak zaten %20 oranında indirim yapılmıştır. Bu nedenle bu yöndeki istinaf yerinde değildir.
 
 ## Adana BAM 3. HD 2026/2653 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1233089400)
 
 Zararın meydana gelmesinde veya artmasında zarar görenin de kusurunun bulunması halinde söz konusu olan müterafik kusur 6098 sayılı TBK'nın md. 52. maddesinde (Borçlar Kanunu'nun 44.) düzenlenmiştir. Zarar görenin kusurunun, zararın meydana gelmesinde başlıca etken olması halinde zarar verenin sorumluluğunun kalkması söz konusu olabileceği gibi belirlenen kusura göre zarar ve ziyandan indirim yapılmasını da gerektirebilir.
 
@@ -153,6 +161,8 @@ Zararın meydana gelmesinde veya artmasında zarar görenin de kusurunun bulunma
 Zararın meydana gelmesinde veya artmasında zarar görenin de kusurunun bulunması halinde söz konusu olan müterafik kusur 6098 sayılı TBK'nın md. 52. maddesinde (Borçlar Kanunu'nun 44.) düzenlenmiştir. Zarar görenin kusurunun, zararın meydana gelmesinde başlıca etken olması halinde zarar verenin sorumluluğunun kalkması söz konusu olabileceği gibi belirlenen kusura göre zarar ve ziyandan indirim yapılmasını da gerektirebilir.
 
 ## Ankara BAM 35. HD 2026/1582 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1236023000)
 
 6098 sayılı Türk Borçlar Kanunu’nun (TBK) 52. maddesi uyarınca zarar gören, zararı doğuran fiile razı olmuş veya zararın doğmasında ya da artmasında etkili olmuş yahut tazminat yükümlüsünün durumunu ağırlaştırmış (müterafik kusur hâli söz konusu) ise hâkim, tazminatı indirebilir veya tamamen kaldırabilir. Müterafik kusura ilişkin savunma bir def’i olmadığından bu yönde bir savunma olmasa da re'sen dikkate alınması gerekir.
 

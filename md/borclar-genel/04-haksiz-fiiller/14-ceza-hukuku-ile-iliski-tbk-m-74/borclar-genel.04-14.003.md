@@ -177,13 +177,19 @@ BK. 53. maddesine göre hukuk hakimi, ceza hakiminin mahkumiyet kararına götü
 
 ## Ankara BAM 35. HD 2026/1499 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1235149000)
+
 TBK’nın “D..Yargılama 1.Ceza Hukuk İle İlişkisinde” başlıklı 74.maddesinde; “Hakim, zarar verenin kusurunun olup olmadığı, ayırt etme gücünün bulunup bulunmadığı hakkında karar verirken, ceza hukukunun sorumlulukla ilgili hükümleriyle bağlı olmadığı gibi, ceza hakimi tarafından verilen beraat kararıyla da bağlı değildir. Aynı şekilde, ceza hakiminin kusurun değerlendirilmesine ve zararın belirlenmesine ilişkin kararı da, hukuk hakimi bağlamaz” hükmü yer almaktadır. Mülga 818 sayılı BK'nın 53.maddesinde de aynı şekilde düzenlenmekte idi.
 
 ## Ankara BAM 35. HD 2026/1294 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1231484100)
+
 Ceza mahkemesi kararlarının hukuk mahkemesine (davasına) etkisi, hukukumuzda kaza tarihinde yürürlükte bulunan 6098 sayılı TBK'nın 74.maddesinde düzenlenmiş olup, hukuk hâkimi, ceza mahkemesinin kesinleşmiş kararları karşısında ilke olarak bağımsız kılınmıştır. Bu ilke, ceza kurallarının kamu yararı yönünden bir yasağın yaptırımını, aynı uyuşmazlığı kapsamına alan hukuk kurallarının ise kişi ilişkilerinin Medeni Hukuk alanında düzenlenmesi ve özellikle tazmin koşullarını öngörmesi esasına dayanmaktadır.
 
 ## İstanbul BAM 40. HD 2026/755 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1215512400)
 
 6098 sayılı TBK’nin 74. maddesine göre hakim, zarar verenin kusurunun olup olmadığı hakkında karar verirken, ceza hukukunun sorumlulukla ilgili hükümleriyle bağlı olmadığı gibi, ceza hakimi tarafından verilen beraat kararıyla da bağlı değildir. Aynı şekilde, ceza hakiminin kusurun değerlendirilmesine ve zararın belirlenmesine ilişkin kararı da hukuk hakimini bağlamaz. Ancak hukuk hakimi kural olarak ceza hakiminin belirlediği kusur oranı ile bağlı değil ise de, kesinleşen maddi olgu ile bağlıdır.
 

@@ -198,6 +198,8 @@ Adam çalıştıranın sorumluluğu bir kusursuz sorumluluk hali olup, surumlulu
 
 ## İstanbul BAM 4. HD 2026/2814 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1209902900)
+
 Yargıtay 4. Hukuk Dairesi'nin 2018/1598 E - 2019/5590 K sayılı ilamı ve aynı mahiyette bir çok ilamında belirtildiği üzere; adam çalıştıranın sorumluluğu olay ve dava tarihinde yürürlükte bulunan 6098 sayılı TBK'nın 66. maddesinde; ''Adam çalıştıran, çalışanın, kendisine verilen işin yapılması sırasında başkalarına verdiği zararı gidermekle yükümlüdür.'' şeklinde düzenlenmiştir. Buna göre; adam çalıştıran ile zarar veren kimse arasında bir çalıştırma ilişkisi bulunması halinde TBK'nun 66.maddesi gereğince sorumluluk söz konusu olacaktır.
 
 ## Konya BAM 3. HD 2026/2257 K.
@@ -209,6 +211,8 @@ Yargıtay 4. Hukuk Dairesi'nin 2018/1598 E - 2019/5590 K sayılı ilamı ve ayn�
 Bilindiği gibi adam çalıştıranın sorumluluğu bir kusur sorumluluğu olmayıp, olağan sebep sorumluluğudur. Burada yasa adam çalıştırana genel nitelikte objektif bir özen yükümlülüğü, bir gözetim ödevi yüklenmiştir. Adam çalıştıranın sorumluluğu kendisinin veya emrinde çalışan yardımcı kişinin kusurlu olup olmamasına bakılmaksızın, kusurdan bağımsız olarak doğmaktadır. Sorumluluğun doğması için objektif özen yükümlülüğünün ihlaliyle meydana gelen zarar arasında, uygun illiyet bağının bulunması yeterli kabul edilmiştir.
 
 ## İstanbul BAM 9. HD 2026/1394 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1212904900)
 
 6098 sayılı TBK'nun 66. maddesinde adam çalıştıranın sorumluluğu;" Adam çalıştıran, çalışanın, kendisine verilen işin yapılması sırasında başkalarına verdiği zararı gidermekle yükümlüdür. Adam çalıştıran, çalışanını seçerken, işiyle ilgili talimat verirken, gözetim ve denetimde bulunurken, zararın doğmasını engellemek için gerekli özeni gösterdiğini ispat ederse, sorumlu olmaz. Bir işletmede adam çalıştıran, işletmenin çalışma düzeninin zararın doğmasını önlemeye elverişli olduğunu ispat etmedikçe, o işletmenin faaliyetleri dolayısıyla sebep olunan zararı gidermekle yükümlüdür. Adam çalıştıran, ödediği tazminat için, zarar veren çalışana, ancak onun bizzat sorumlu olduğu ölçüde rücu hakkına sahiptir." şeklinde düzenlenmiştir.
 

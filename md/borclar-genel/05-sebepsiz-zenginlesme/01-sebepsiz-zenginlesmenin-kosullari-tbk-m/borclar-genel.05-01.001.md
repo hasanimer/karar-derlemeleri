@@ -266,9 +266,13 @@ Sebepsiz zenginleşmenin borç doğurmasının sebebi zarar değil, alacaklını
 
 ## İzmir BAM 17. HD 2026/2196 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1232515900)
+
 Bedelsizliğe dayalı menfi tespit davasının yasal dayanağı TBK’nın 77 vd. maddelerinde düzenlenen sebepsiz zenginleşmedir. Zira kambiyo senetlerinde geçerli olan mücerretlik (soyutluk) ilkesi gereğince, temel alacağın mevcut olmaması veya geçersiz olması, kambiyo senedinin hükümsüzlüğü sonucunu doğurmamakta; buna karşılık temel ilişkideki sakatlık, kambiyo borçlusuna, borçlu olmadığının tespitiyle birlikte, alacaklıya karşı sebepsiz zenginleşme def'îni dermeyan etme hakkını vermektedir.
 
 ## İstanbul BAM 3. HD 2026/1924 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1215718200)
 
 Borcun kaynaklarından biri olarak öngörülen sebepsiz zenginleşme, mülga 818 sayılı Borçlar Kanunu’nun (BK) 61 ve devamı maddelerinde düzenlenmiştir. Benzer hükümler 6098 sayılı Türk Borçlar Kanunu’nun (TBK) 77 ve devamı maddelerinde de yer almaktadır. BK’nın 61. maddesi; “Haklı bir sebep ol- maksızın aharın zararına mal iktisabeden kimse, onu iadeye mecburdur.Hususiyle muteber olmayan veya tahakkuk etmemiş bulunan bir sebebe yahut vücudu nihayet bulmuş olan bir sebebe müsteniden ahzolunan şeyin, iadesi lazımdır” hükmünü haizdir.
 

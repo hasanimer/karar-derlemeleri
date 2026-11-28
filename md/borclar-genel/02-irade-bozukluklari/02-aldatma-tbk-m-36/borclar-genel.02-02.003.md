@@ -160,10 +160,14 @@ Bilindiği üzere, BK.'nun 28/1. (TBK.'nun 36/1.) maddesinde, taraflardan birini
 
 ## İzmir BAM 11. HD 2026/1568 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1234150800)
+
 Aldatmanın (hilenin) varlığının kabulü için bazı şartların gerçekleşmesine ihtiyaç vardır: Birinci şart aldatma fiilidir. Aldatan şahıs diğerini yanıltmış (hataya düşürmüş) olmalıdır. Fakat karşı tarafın düştüğü bu yanılmanın esaslı olması gerekmez (6100 sayılı Kanun madde 36/1). Çünkü aldatan hiçbir surette korunmaya layık değildir. Aldatan, sözleşmenin yapılması ve özellikle görüşmeler sırasında, belirli konu ve hususlarda doğru olmayan bilgiler vermekte veya bazı hususları dürüstlük kuralına göre açıklaması gerekirken kasten gizlemektedir. İkinci şart; aldatma kastıdır. Aldatan, karşı tarafı sözleşme yapmaya ikna etmek için ona bilerek ve isteyerek (kasten) gerçek dışı beyanda bulunmuş olmalıdır. Başka bir deyişle, yalan söyleyende karşı tarafı aldatmak ve onun gerçeği bilmesi hâlinde yapmayacak olduğu bir sözleşmeyi yapmaya sevk etmek niyeti bulunmalıdır. Eğer bir kimse, bilmemesi ağır bir kusur teşkil etmesine rağmen, durumu bilmeden bir beyanda bulunmuş ise aldatma kastı yoktur. Üçüncü şart ise illiyet bağıdır. Sözleşme aldatma sonucu, onun etkisi ile yapılmalıdır.
 Aldatılan yapmış olduğu sözleşmeyi, aldatma olmasıydı ya hiç yapmayacak ya da daha iyi şartlarda yapacak idiyse, illiyet bağı gerçekleşmiş olur. Aldatma fiili, sözleşmenin kurulmasının asli şartı olmalı, aldatma ile sözleşmenin kurulması arasında tabi bir illiyet bağı bulunmalıdır (Eren, s. 414 vd., HGK'nın 17.05.2022 tarihli ve 2019/1-830 Esas, 2022/653 Karar, 08.07.2020 tarih ve 2017/1-1831 Esas, 2020/549 Karar sayılı kararları). Ancak, hile üçüncü bir kişi tarafından da yapılabilir. Böyle bir durumda kural olarak aldatılan taraf sözleşme ile bağlı ise de üçüncü kişinin hilesini karşı taraf sözleşmenin yapıldığı sırada biliyor ya da bilmesi gerekiyor ise aldatılan taraf sözleşmenin iptalini isteyebilir.
 
 ## Ankara BAM 22. HD 2026/1445 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1236426200)
 
 Aldatma (hile); genel olarak, bir kimseyi irade beyanında bulunmaya, özellikle sözleşme yapmaya sevk etmek için onda kasten hatalı bir kanı uyandırmak veya esasen var olan hatalı bir kanıyı korumak yahut devamını sağlamak şeklinde tanımlanır. Hilede irade sakatlığı iradenin beyanında değil, oluşumunda meydana gelmektedir. İradenin oluşumundaki sakatlık ise kişinin kendisi dışında başka birinin kasıtlı bir aldatma fiiliyle gerçekleşmektedir. Aldatan, sözleşmenin yapılması ve özellikle görüşmeler sırasında, belirli konu ve hususlarda doğru olmayan bilgiler vermekte veya bazı hususları dürüstlük kuralına göre açıklaması gerekirken kasten gizlemektedir. Bu bağlamda, hilenin bizzat sözleşmenin karşı tarafınca yapılabileceği gibi üçüncü bir kişi tarafından da yapılabileceği belirtilmelidir.
 

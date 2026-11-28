@@ -133,6 +133,8 @@ Dava, TTK 630/2.maddesi uyarınca, haklı sebeplerle limited şirket müdürün�
 
 ## Sakarya BAM 7. HD 2026/1407 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1217895400)
+
 Dava, yukarıda belirtildiği üzere icra takibinden sonra açılan menfi tespit davası olup 2004 sayılı İİK'nın 72-(3) maddesinde, ihtiyati tedbir yoluyla icra takibinin durdurulmasına karar verilemeyeceği açıkça hüküm altına alınmıştır. Bu nedenle icra takibinden sonra açılan menfi tespit davasında icranın durdurulması kararı verilmesi mümkün değil ise de çoğun içinde azı da vardır ilkesi gereğince davacının ihtiyati tedbir talebinin 2004 sayılı İİK'nın 72-(3) maddesi kapsamında değerlendirilmesi gerekir. İlk derece mahkemesince bu hüküm (m.72/3) uyarınca icra veznesine girecek paranın takip konusu alacağın tedbiren alacaklıya ödenmemesine şeklinde karar verilmesi ile yetinilmesi yerinde olmuş ve bu nedenle davacının istinaf talebinin reddine karar vermek gerekmiştir.
 
 ## Ankara BAM 20. HD 2021/1134 K.

@@ -110,4 +110,6 @@ Davalı tarafça, yargılama aşamasında . . ile . .’in birleştiği, . .. t�
 
 ## İstanbul BAM 44. HD 2026/907 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1218856100)
+
 Bununla birlikte dosyadaki bilgi ve belgelerden davacıların murisi eser sahibinin davaya konu markaların tanınmışlık vasfı ve müteveffanın kulüp nezdindeki görevi ve fonksiyonu itibari ile davalı tarafından kullanıldığını bildiği ve bilmesinin gerektiği, nitekim kulüp üyesi olarak genel kurul toplantılarına katılmak sureti ile tescilli markaların yer aldığı karara yönelik olumlu oy kullanıldığı, karardaki imzanın müteveffaya ait olmadığına dayalı davacıların karşı savunması yönünden bu vakıanın ispatına elverişli herhangi bir delilin sunulmadığı, müteveffanın hayatı boyunca logonun marka tescili ve kullanımını bildiği ve bilmesi gerektiği beş yıldan uzun süre ile sessiz kaldığı, davacıların külli halefiyet ilkesi gereğince hak ve borçları devralmaları nedeni ile hak kaybından sorumlu olmalarının gerektiği anlaşılmıştır.

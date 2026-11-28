@@ -23,6 +23,8 @@ uyari: "Derleyenin seçtiği alıntılardır; kararın tamamı değildir. Künye
 
 ## İstanbul BAM 16. HD 2026/871 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1212554800)
+
 3- 08.05.2014 tarihli sözleşmenin adi yazılı şekilde yapıldığı görülmüş olup, sözleşmeye dayalı 2 numaralı daire bedelinin ödendiği ve mülkiyet devri gerçekleştiğinden, sözleşmenin 2 numaralı dairenin satışına yönelik kısmı yönünden kesin hükümsüzlük yaptırımının söz konusu olmayacağına yönelik ilk derece mahkeme karar gerekçesi yerinde ise de 08.05.2014 tarihli sözleşmede 2 ve 3 numaralı daire satışının birlikte düzenlendiği, sözleşmenin ilk maddesiyle düzenlenen kaporanın her iki daire için de verildiği, davalının cevap dilekçesinde 3 numaralı daire yönünden geçersizlik/kesin hükümsüzlük itirazı ileri sürmeyip, aksine imara aykırılıkların giderildiği ve tapunun devir edilmemesinde kusuru bulunmadığını savunduğu, 3 numaralı dairenin davacı tarafa fiilen teslim edildiği ve davacının bu daire ile 2015 yılı Nisan ayından sonra kira geliri elde ettiği anlaşıldığından, tarafların açık kabul ve iradesinde bulunan ve fiilen de davacıya teslim edildiği anlaşılan 3. Numaralı dairenin satışı yönünden sözleşmenin kesin hükümsüz sayılarak davaya konu taleplerin reddine dair ilk derece mahkeme karar gerekçesi yerinde değildir.
 
 ## Ankara BAM 26. HD 2026/400 K.

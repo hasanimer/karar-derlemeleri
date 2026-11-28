@@ -111,6 +111,8 @@ O halde, açıklanan bu hukuki ve maddi olgular ile Türk Medeni Kanunu'nun 2.ma
 
 ## Ankara BAM 21. HD 2026/1350 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1235789400)
+
 Genel Kurul kararlarının meydana gelişlerinde kurucu unsurlardan birinin olmaması veya konuları bakımından emredici hükümlere aykırı olan genel kurul kararları ise yokluk müeyyidesine tabidir. Genel kurul kararlarının yokluk ile butlan sebepleri birbirinden farklı olmakla birlikte müeyyidesi bakımından bir farklılık yoktur. Her iki sebebe dayanan tespit istemleri zamanaşımı ve hak düşürücü süreye tabi olmadan ilgili herkes tarafından ileri sürülebilir. Genel kurul kararlarının butlanı yada yokluğunun tespiti istemi kural olarak herhangi bir süreye tabi değilse de bu hak hakkın kötüye kullanılması niteliğinde olmayacak şekilde dürüstlük kuralı çerçevesinde kullanılmalıdır.
 
 ## Konya BAM 6. HD 2026/1259 K.

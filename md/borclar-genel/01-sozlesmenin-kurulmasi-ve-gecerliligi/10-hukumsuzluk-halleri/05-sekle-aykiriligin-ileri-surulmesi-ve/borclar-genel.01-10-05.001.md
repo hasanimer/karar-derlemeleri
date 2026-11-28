@@ -52,6 +52,8 @@ Dairemiz yerleşik içtihatlarına göre, sözleşmeye dayalı olarak tapuda pay
 
 ## Diyarbakır BAM 6. HD 2026/1233 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1235081300)
+
 Zira şekle ilişkin hükümden hükmün amacı dışında yararlanmak istendiği hallerde, şekil noksanlığını ileri sürmek, hakkın kötüye kullanılması teşkil edebilir. Örneğin iki tarafın bilerek ve serbestçe borçlarını ifa etmelerinden sonra şekil noksanının ileri sürülmesinin hakkın kötüye kullanılması teşkil ettiği kabul edilmektedir (Oğuzman, M. Kemal/Öz, M. Turgut: Borçlar Hukuku Genel Hükümler, C. I, 16. Bası, İstanbul 2018, 156-158; Eren, Fikret: Borçlar Hukuku Genel Hükümler, 24. Baskı, Ankara 2019, s. 328, No. 930). Yargıtay'ın da benzer yönünde kararları bulunmaktadır (Bkz. Y. İBK, 30/09/1988, E. 1987/5, K. 1982/2 sayılı kararı; 13. HD, 07/12/2017, E. 2015/42170, K. 2017/12279 sayılı kararı).
 
 ## Antalya BAM 11. HD 2022/159 K.

@@ -215,6 +215,8 @@ BK 520 ve 541 maddelerinde düzenlenen adi ortaklığın temel kişiliği bulunm
 
 ## İstanbul BAM 14. HD 2026/1310 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1221470000)
+
 Dava, gayrimenkul satım vaadi sözleşmesinden kaynaklanan tapu iptali ve tescil, olmadığı takdirde ödenen bedelin güncel değerinin tespiti ile tahsili istemlerine ilişkindir.
 
 …
@@ -227,9 +229,13 @@ Maddesindeki hüküm dikkate alındığında tarafların gerçek iradesinin bir 
 
 ## Ankara BAM 21. HD 2026/1261 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1231604000)
+
 Somut olayda, taraflar tacir olmadığı gibi, adi ortaklık sözleşmesi TBK'nun 620. maddesinde düzenlenmiş olup, tarafların sıfatı da gözetildiğinde anılan sözleşmeden kaynaklanan ihtilaflarda görevli mahkeme genel mahkeme olan Asliye Hukuk Mahkemesidir. 30/06/2016 tarihinde yürürlüğe giren 6335 sayılı Yasa'nın 3. maddesi ile değişik 6102 sayılı TTK'nın 5/(3). maddesi uyarınca Asliye Ticaret Mahkemeleri ile Asliye Hukuk Mahkemeleri arasındaki ilişki iş bölümü ilişkisinden çıkartılıp görev ilişkisine dönüştürülmüştür.
 
 ## İzmir BAM 13. HD 2026/1106 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1209227700)
 
 Dava, dava dışı arsa sahipleri ile noterde yapılan kat karşılığı ve inşaat sözleşmesi uyarınca birlikte yüklenici olarak bina yapılmasına yönelik kurulan adi ortaklığın fesip ve tasfiyesi ile ortaklıktan kaynaklanan alacak istemine ilişkindir.
 
@@ -239,6 +245,8 @@ Hemen belirtmek gerekir ki; TBK'nın 620. maddesinde "Adi ortaklık sözleşmesi
 Sözleşmede ortakların kazanç veya zarara katılım paylarından biri belirlenmişse bu belirleme, diğerindeki payı da ifade eder. Bir ortağın zarara katılmaksızın yalnız kazanca katılacağına ilişkin anlaşma, ancak katılma payı olarak yalnızca emeğini koymuş olan ortak için geçerlidir." şeklinde düzenlemeler mevcuttur.
 
 ## Ankara BAM 24. HD 2026/958 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1214411100)
 
 Dava; adi ortaklık iddiasına dayalı ortaklığın feshi ve tasfiyesi ile bu kapsamda dava konusu taşınmazların tapularının iptali ile ortaklık adına tasfiyesi ve tasfiye payının davacıya ödenmesi istemine ilişkindir.
 

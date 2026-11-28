@@ -170,9 +170,13 @@ Rücu hakkı başkasına ait bir borcu yerine getiren kişinin mal varlığında
 
 ## Ankara BAM 35. HD 2026/1517 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1234816200)
+
 6098 Sayılı TBK 'nın 61'inci maddesi uyarınca aynı zarardan birden çok kişi değişik sebeplerle sorumlu oldukları takdirde haklarında müteselsil sorumluluğa ilişkin hükümler uygulanacağından, davacı zarar görenin zararını yine 6098 sayılı Kanun'un 163. maddesi uyarınca dilerse müteselsil borçluların tamamından, dilerse yalnız birinden isteyebileceği anlaşılmakla, öncelikle ihtiyari mali mesuliyet sigortasına başvurulması gerektiğine ilişkin istinaf sebeplerine itibar edilememiştir.
 
 ## Tekirdağ BAM 4. HD 2026/1188 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1231887100)
 
 2918 sayılı Karayolları Trafik Yasası’nın 88.maddesinde, zarar verenlerin birden fazla olması halinde "Bir motorlu aracın katıldığı bir kazada, bir üçüncü kişinin uğradığı zarardan dolayı, birden fazla kişi tazminatla yükümlü bulunuyorsa, bunlar müteselsil olarak sorumlu tutulur." düzenlemesi yapılmış, yine TBK 61.maddesinde "Dış ilişkide, birden çok kişi birlikte bir zarara sebebiyet verdikleri veya aynı zarardan çeşitli sebeplerden dolayı sorumlu oldukları takdirde, haklarında müteselsil sorumluluğa ilişkin hükümler uygulanır." denilmiş, 62. madde de ise "tazminatın aynı zarardan sorumlu müteselsil borçlular arasında paylaştırılmasında, bütün durum ve koşullar, özellikle onlardan her birine yüklenebilecek kusurun ağırlığı ve yarattıkları tehlikenin yoğunluğu göz önünde tutulur. Tazminatın kendi payına düşeninden fazlasını ödeyen kişi, bu fazla ödemesi için, diğer müteselsil sorumlulara karşı rücu hakkına sahip ve zarar görenin haklarına halef olur." düzenlemesi ile birden çok kişi aynı zarardan aynı sebeple yada çeşitli sebeplerden dolayı sorumlu olabileceği vurgulanmıştır.
 TBK'nın müteselsil borçluluk ve dış ilişki de borçluların sorumluluğu başlıklı 163. maddesinde "Alacaklı, borcun tamamının veya bir kısmının ifasını, dilerse borçluların hepsinden, dilerse yalnız birinden isteyebilir. Borçluların sorumluluğu, borcun tamamı ödeninceye kadar devam eder" denilerek zarar verenlerin zarar görenlere karşı sorumluluğunun kapsamını düzenlemiştir.

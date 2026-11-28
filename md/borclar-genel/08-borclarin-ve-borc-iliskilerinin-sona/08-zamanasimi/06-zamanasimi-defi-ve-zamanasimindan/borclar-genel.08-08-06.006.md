@@ -154,6 +154,8 @@ Zamanaşımı borcun doğumuyla ilgili olmayıp istenmesini önleyen bir savunma
 
 ## Adana BAM 9. HD 2026/2429 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1231535700)
+
 Zamanaşımı hukuki niteliği itibariyle maddi hukuktan kaynaklanan bir def'i olup usul hukuku anlamında ise bir savunma aracıdır. Zamanaşımı def'i, davalının aslında var olan bir borcunu özel bir nedenle yerine getirmekten kaçınmasına olanak veren bir haktır. Bu hakkı kullanıp kullanmamak tamamen borçluya kalmıştır. Diğer bir anlatımla, davalı tarafından zamanaşımı def'i ileri sürülmedikçe, o hak ve alacak için yasanın öngördüğü zamanaşımı süresi dolmuş olsa bile hâkim bunu kendiliğinden göz önüne alamaz (BK m. 140, TBK m. 161).
 
 ## Konya BAM 3. HD 2026/191 K.
@@ -161,6 +163,8 @@ Zamanaşımı hukuki niteliği itibariyle maddi hukuktan kaynaklanan bir def'i o
 Zamanaşımı, bir talep veya dava hakkının kanunda tayin edilen süre içinde kullanılmaması halinde, usul hukukunca öngörülen şekilde ileri sürülmek koşuluyla, borçluya borcunu ödememe imkanı veren bir hukuki müessesedir. Bu tanımdan da anlaşılacağı üzere zamanaşımı, alacak hakkını sona erdirmeyip, sadece onu eksik bir borç haline dönüştürür ve alacağın dava edilebilme niteliğini ortadan kaldırır. Olay tarihinde yürürlükte bulunan 818 sayılı Borçlar Kanunu'nun 140. (TBK 161) maddesinde düzenlenen; "Zamanaşımı ileri sürülmedikçe, hakim bunu kendiliğinden göz önüne alamaz" kuralında da vurgulandığı üzere, zamanaşımı kişisel bir savunma nedeni (def'i) olup, bütün öteki savunmalarda olduğu gibi ve özellikle itiraz nedenlerinden farklı olarak, savunulmadığı takdirde mahkemece re'sen gözetilemez ve uygulanamaz. Diğer bir deyişle; zamanaşımının davayı etkisiz bırakması, kendiliğinden gerçekleşmemekte ve ancak borçlunun iradesine bağlı bulunmaktadır.
 
 ## Ankara BAM 42. HD 2026/63 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1229944300)
 
 6098 sayılı Türk Borçlar Kanunun 146 ve161. maddelerinde düzenlenmiş bulunan zamanaşımı, alacak hakkının, belli bir süre kullanılmaması yüzünden "dava edilebilme" niteliğinden yoksun kalmasını ifade etmektedir. Borcun zamanaşımına uğramasıyla, borç (alacak) sona ermez, sadece alacaklının dava yoluyla alacağını elde etme olanağı, "alacağın dava edilebilme niteliği" ortadan kalkar. Zamanaşımına uğramış bir borç, ifa edilebilen, fakat dava edilemeyen eksik bir borçtur. Zamanaşımına uğramış borç ifa edilirse, ifa geçerlidir, bir bağışlama veya alacaklı yönünden bir "sebepsiz zenginleşme" söz konusu değildir. Borçlu, borcun zamanaşımına uğradığını bilmediğini, bu nedenle hataen (yanılarak) ödemede bulunduğunu ileri sürerek verdiğini geri isteyemez. Zamanaşımı bir def'idir ve kanun koyucu TBK’nın 161. (BK, m.140) maddesinde "Zamanaşımı ileri sürülmedikçe, hâkim bunu kendiliğinden göz önüne alamaz" demek suretiyle zamanaşımının hâkim tarafından kendiliğinden dikkate alınamayacağını vurgulamıştır.
 

@@ -140,10 +140,14 @@ Sözleşmede; davacı şirket tarafından kat karşılığı inşaat sözleşmes
 
 ## İstanbul BAM 14. HD 2026/1379 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1221556800)
+
 Şirketine devrettiğini ve devir bedelini şirketin kasasına koymadığını, şirketin devredilen malvarlığının rayiç karşılığın alınmadığını ileri sürerek, şirketin malvarlığının korunması için dava sonuçlanıncaya kadar davalının şirketi temsil ve ilzam yetkisinin tedbiren kaldırılmasına ve sınırlanmasına, şirketin Bayburt'taki işletmesinde bulunan hayvan sayısı, işletmenin mevcut durumu, faaliyetine devam edip etmediği, üçüncü kişiye kiraya verilip verilmediği, kar ya da zarar durumunun bilirkişi aracılığıyla tespitine ve şirket kayıtlarının incelenerek davalı ... 'ın müdürlükten azli ile temsil ve yönetim yetkisinin kaldırılmasına, davalı tarafından verilen zarara karşılık şimdilik 10.000 TL'nin avans faizi ile birlikte davalıdan tahsili ile davacıya verilmesine, karar verilmesini istemiştir. Asıl davada davalı ... vekili, savunmasında özetle; davanın reddine karar verilmesini istemiştir. Birleşen Bakırköy 6. Asliye Ticaret Mahkemesinin 2017/236 Esas sayılı dosyasında davacı ... vekili, dava dilekçesinde özetle; davacı ile davalı ...'ın 2006 yılında % 50'şer hisse ile münferit temsil yetkisine sahip olmak üzere ... ....
 Şirketini kurduklarını, müvekkilinin Fethiye'de diğer ortağın Bayburt'ta yerleşik olduğunu, şirketin Bayburt'taki işletmesinin yaklaşık 1.000 civarında büyükbaş hayvan ile faaliyete başladığını, bu işletmeyi davalının idare ettiğini, davalının usulsüz işlemleri nedeniyle şirketi zarara uğratması üzerine Bakırköy 1.Asliye Ticaret Mahkemesinin 2015/1036 Esas sayılı dosyası ile ...'a karşı yönetici sorumluluğundan kaynaklanan tazminat davası ve yönetici azli davası açıldığını, bu dosyada davalının yanında müdahale talebinde bulunan davalı ...'ın müdahale dilekçesinde ...'a ait olan hisselerin gerçekte kendisine ait olduğunu, ... şirketinin bankalardaki borcuna kefil olduğunu, yönetim ve kâr payı konusunda yetkililerin kendisine ait olduğunu, ortağı olduğu ... şirketinin banka kredilerine kefil olduğunu, şirketin yem ihtiyacının davalı ... ...
 
 ## İstanbul BAM 44. HD 2026/1015 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1222223200)
 
 Somut olayda, Taraflar ... matbaacılık ve davacı şirket arasında 6361 sayılı Finansal Kiralama, Factoring ve Finansman Şirketleri Kanunu ve Finansal Kiralama Sözleşmesi uyarınca 27.10.2010 tarihinde ... no.lu Finansal Kiralama Sözleşmesi imzalandığı, dava dışı asıl borçlu ...…....Şti ortakları... ile ...’ünde müşterek borçlu ve müteselsil kefil sıfatıyla
 
@@ -151,6 +155,8 @@ Somut olayda, Taraflar ... matbaacılık ve davacı şirket arasında 6361 sayı
 verilmesi gerekirken eksik inceleme ile karar verilmiş olduğu, ayrıca ...'ün 06/05/2026 da vefat ettiği anlaşılmakla mirasçıların davaya dahil edilerek karar verilmesi için, sair istinaf istemlerinin bu aşamada değerlendirmesine yer olmadığına karar verilerek kararın 6100 Sayılı HMK'nın 353/1-a-6. maddesi gereğince kaldırılmasına karar verilmesi gerektiği kanaat ve sonucuna varılarak aşağıdaki hüküm kurulmuştur.
 
 ## İstanbul BAM 44. HD 2026/686 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1210484700)
 
 Davalılar istinafında davalılardan ... ve ...’a temerrüt ihtarının tebliğ edilmediğini ileri sürdüğü, 6361 sayılı F.K.K 33/4 maddesi gereğince kiralayan tarafından kiracıya gönderilen fesih ihtarnameleri hakkında 2004 sayılı kanunun 68/b maddesi hükümleri uygulanır. Yasanın bu hükmü ile kiracının noter aracılığıyla adresinin değiştiğini bildirmemesi ve yeni adres belirtmemesi halinde kiracının sözleşme adresine ihtarnamenin ulaştığı tarih tebliğ tarihi sayılacağı, kiracı ve kefiller tarafından davacı şirkete bildirilen bir adres değişikliği olmadığı bu nedenle, davalı kefil ...'a 29.09.2020 ve ...'a 28.09.2020 tarihinde tebliğ edilmiş sayıldığı anlaşılmıştır.
 

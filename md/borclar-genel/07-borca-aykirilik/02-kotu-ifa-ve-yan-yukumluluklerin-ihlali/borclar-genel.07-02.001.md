@@ -84,6 +84,8 @@ Bu hükümle düzenlenen borcun ifa edilmemesi, borcun hiç yerine getirilmemesi
 
 ## İstanbul BAM 15. HD 2026/584 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1211250300)
+
 3-)Uyuşmazlığın ayıp hükümlerinden ziyade kötü ifa (TBK m.112) kapsamında değerlendirilmesi gerektiğini, davacının taleplerini açıkça bu hükümlere dayandırdığını, ayıplı ifanın aynı zamanda kötü ifa niteliğinde olduğunu, iş sahibinin dilerse genel hükümler kapsamında tazminat talep edebileceğini, ayıp hükümlerine ilişkin süre ve şartların bu durumda zorunlu olmadığını, TBK m. 475/II hükmü gereği iş sahibinin genel hükümlere göre tazminat isteme hakkının saklı olduğunu, bu nedenle davacının taleplerinin ayıp hükümleriyle sınırlanamayacağını, Doktrin ve Yargıtay kararları doğrultusunda; ayıplı ifanın kötü ifanın bir türü olduğunu ve zararların TBK m.112 kapsamında da talep edilebileceğinin kabul edildiğini, bu kapsamda, ayıp hükümlerine özgü muayene ve ihbar külfetlerinin yerine getirilmemiş olmasının, genel hükümlere dayalı tazminat talebine engel teşkil etmeyeceğini,…
 
 ## Bursa BAM 7. HD 2024/126 K.

@@ -61,6 +61,8 @@ KIESEL Sh.194/18 “KUTLU/SUNGURBEY atfı”…
 
 ## Sakarya BAM 7. HD 2026/1601 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1229588000)
+
 6098 sayılı Türk Borçlar Kanunu’nun (TBK) 46. Maddesine göre bir kimse yetkisi olmadığı hâlde temsilci olarak bir hukuki işlem yaparsa, bu işlem ancak onadığı takdirde temsil olunanı bağlar. Yetkisiz temsilcinin kendisiyle işlem yaptığı diğer taraf, temsil olunandan, uygun bir süre içinde bu hukuki işlemi onayıp onamayacağını bildirmesini isteyebilir. Bu süre içinde işlemin onanmaması durumunda, diğer taraf bu işlemle bağlı olmaktan kurtulur. TBK 47. maddesine göre ise temsil olunanın açık veya örtülü olarak hukuki işlemi onamaması hâlinde, bu işlemin geçersiz olmasından doğan zararın giderilmesi, yetkisiz temsilciden istenebilir. Ancak, yetkisiz temsilci, işlemin yapıldığı sırada karşı tarafın, kendisinin yetkisiz olduğunu bildiğini veya bilmesi gerektiğini ispat ederse, kendisinden zararın giderilmesi istenemez. Hakkaniyet gerektiriyorsa, kusurlu yetkisiz temsilciden diğer zararların giderilmesi de istenebilir. Sebepsiz zenginleşmeden doğan haklar saklıdır.
 
 ## Adana BAM 9. HD 2025/62 K.

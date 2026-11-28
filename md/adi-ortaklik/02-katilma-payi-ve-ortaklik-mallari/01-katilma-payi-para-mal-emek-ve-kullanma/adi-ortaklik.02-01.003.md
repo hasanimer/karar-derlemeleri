@@ -22,6 +22,8 @@ uyari: "Derleyenin seçtiği alıntılardır; kararın tamamı değildir. Künye
 
 ## İstanbul BAM 13. HD 2026/1672 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1232662700)
+
 Dava; davalı şirketin 19/06/2019 tarihli genel kurul toplantısında alınan 10 ve 11 nolu kararların yok hükmünde olduklarının tespitine, bunun kabul edilmemesi halinde batıl olduklarının tespit edilmesine, bunun da kabul edilmemesi halinde iptallerine karar verilmesi istemine ilişkindir.
 
 …
@@ -34,11 +36,15 @@ Bölümünde düzenlenen gemi hakedişlerinde uygulanan puanlama esaslarına gor
 
 ## Kayseri BAM 6. HD 2026/1599 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1225410500)
+
 KAT PAYLAŞIM ŞEMASI - DAVA KONUSU ORTAKLIK SERMAYESİ TAŞINMAZLARI TALEP EDEBİLMEK İÇİN FAZLADAN 10 MİLYON SERMAYE KOYMA YÜKÜMLÜLÜĞÜ Taraflar arasında düzenlenen ... tarihli İş Ortaklığı Sözleşmesinden sonra taraflar arasında davacının avukatı olan Av. ...'nin düzenlediği Kayseri Arabuluculuk Bürosunun ... tarih ve ... numaralı ihtiyari arabuluculuk tutanağı düzenlenmiştir. Arabuluculuğun konusu adi ortaklıktır.Tarafımızca ...tarih ve ... numaralı ihtiyari arabuluculuk tutanağının iptali için Kayseri 2. Asliye Ticaret Mahkemesi 2026/334 Esas Sayılı davası açılmıştır. Fakat davacı taraf BU TUTANAĞA İTİRAZ ETMEMİŞTİR. BU TUTANAK DAVACIYI BAĞLAR FAKAT MÜVEKKİLİ BAĞLAMAZ. BU TUTANAK DAVACI ALEYHİNE DELİLDİR. ... tarih ve ... numaralı ihtiyari arabuluculuk tutanağının 3. Maddesi ve devamına göre : " Madde:3-araflar ekte imzaları bulunan daire bölüşüm şemasına göre ... uyarınca verilecek daire ve dükkanları paylaştıklarını kabul ve beyan etmişlerdir. Bu şemaya göre ...'e ... daire, ... dükkan, ...
 Yapılya ... daire 1 dükkan verilmesi hususunda anlaşmışlardır. araflar ... blok altında bulunan dükkanlardan köşede bulunan dükkanın ...'e diğer dükkanu ...Yapı adına tescili hususunda anlaşmışlardır. ... Blok altındaki ...'e bırakılan dükkanın tapusu en geç 1 ay içerisinde ...'e tapuda devredilecektir.""Madde:4-48 dairenin 5 dairesi iş karşılığı verilmiş olup, kalan 43 dairenin yukarıdaki adetle paylaştırılmıştır. Taraflara kalacak Dairelerden 10 daire bu tarihten sonra yapılacak inşaat imalatlarına karşılık ek şemada belirtildiği şekilde ayrılmıştır. Bundan sonra yapılacak harcamalar ortak onayla yapılacaktır. Ortak onaylanmayan harcama gidere işlenmeyecektir.Madde:5-Mesken Alındıktan sonra karşılıklı hesaplaşılarak tapular dağıtılacak ve ibralaşılacaktır.Madde:6-12.04.2025 tarihinden sonra yapılacak harcamalar müşterek yapılacaktır. Aksi durumda harcamayı yapan ortak alacağını ayrılan daireler üzerinden daire olarak alacaktır. Bu daireleri daire başı 10.000.000TL olarak taraflarca kabul edilmiş olup yapılan harcamalar nispetinde daire üzerinden hisse olarak alacaktır."İptalini talep ettiğimiz (Kayseri 2.
 Asliye Ticaret Mahkemesi 2026/334 Esas Sayılı davası) arabuluculuk tutanağı davacı tarafça kabul edilmiştir. Bu tutanağa göre "MADDE-2" "b" fıkrasına göre müvekkil ile arsa sahibi arasında yapılan...'ye göre müteahhit olarak müvekkil şirkete 48 daire ve 3 adet dükkan düşecektir. ... tarih ve ... numaralı ihtiyari arabuluculuk tutanağına göre 5 daire ve 1 adet dükkan inşaat için harcanmıştır. Müvekkil şirkete kalan 43 Daire ve 2 dükkandır.... tarih ve ... numaralı ihtiyari arabuluculuk tutanağına göre bu 43 daire 2 dükkanın 25 tane daire ( (...-Blok) ... numaralı daireler ve ...-Blok zemin kat 25 numaralı dükkan ile 4+1 dairelerden (...Blok) ... numaralı daireler ) ve 1 dükkan (...-blok ... Numaralı dükkan) müvekkil şirkete aittir. ... tarih ve ... numaralı ihtiyari arabuluculuk tutanağına göre bu 43 daire 2 dükkanın 18 tane daire ve 1 adet dükkan ise sermaye koyması karşılığında davacı ...'e ait olacaktır.
 
 ## İstanbul BAM 14. HD 2026/1310 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1221470000)
 
 Dava, gayrimenkul satım vaadi sözleşmesinden kaynaklanan tapu iptali ve tescil, olmadığı takdirde ödenen bedelin güncel değerinin tespiti ile tahsili istemlerine ilişkindir.
 
@@ -56,6 +62,8 @@ Noterliğinde akdedilen 19.06.2014 tarihli sözleşme ile dava konusu taşınmaz
 
 ## İstanbul BAM 3. HD 2026/1230 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1207811500)
+
 Dava, adi ortaklığa ait makinelerin veya değerinin tahsili ile ortaklık gereği ödenmeyen gelirin tahsili taleplerine ilişkindir.
 
 …
@@ -65,6 +73,8 @@ Hal böyle olunca İlk Derece Mahkemesince; taraflar arasında düzenlenen ortak
 Somut olayda taraflar arsında adi ortaklık kurulmuş olduğu, sözleşmedeki imzanın davalı tarafça yargılama sırasında kabul edildiği, sözleşeme hükümlerinde adi ortaklığa alınan makinelerin alınması, ödenmesi ve gelirinin paylaştırılmasının da düzenlenmiş olduğu, makinelerin adi ortaklık malvarlığına ait olduğu gözetilerek davacının talebinin adi ortaklığın fesih ve tasfiyesini de kapsadığı anlaşılmakla mahkemesince adi ortaklığın fesih ve tasfiyesine ilişkin hükümlerin uygulanması gerekirken yazılı şekilde karar verilmesi hatalıdır.
 
 ## İzmir BAM 13. HD 2026/1106 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1209227700)
 
 Dava, dava dışı arsa sahipleri ile noterde yapılan kat karşılığı ve inşaat sözleşmesi uyarınca birlikte yüklenici olarak bina yapılmasına yönelik kurulan adi ortaklığın fesip ve tasfiyesi ile ortaklıktan kaynaklanan alacak istemine ilişkindir.
 

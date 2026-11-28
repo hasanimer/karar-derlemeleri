@@ -21,13 +21,19 @@ uyari: "Derleyenin seçtiği alıntılardır; kararın tamamı değildir. Künye
 
 ## İzmir BAM 17. HD 2026/1744 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1227756500)
+
 Bilindiği gibi, 6098 sayılı Türk Borçlar Kanunu'nun (TBK) 37. maddesine göre, bir kimse karşı tarafın veya üçüncü bir kişinin kendisi veya yakınlarının maddi veya manevi varlığına yönelik hukuka aykırı ve esaslı korkutması sonucu yaptığı sözleşme ile bağlı sayılamaz. TBK'nin 38. maddesinde belirtildiği gibi, korkutmadan (ikrah-tehdit) söz edilebilmesi için, korkutmanın sözleşmeyi yapan kimsenin veya yakınlarının kişilik haklarına veya mal varlıklarına yönelik olması, korkutmaya maruz kalanın sübjektif durumuna göre ağır ve derhal meydana gelebilecek nitelik taşıması, haksız (hukuka aykırı) sayılması, illiyet bağının bulunması yani sözleşmenin korkunun yarattığı etki sonucu yapılması zorunludur. Bu koşulların varlığı halinde iradesi sakatlanan taraf, isterse iptal hakkını kullanmak suretiyle hukuki ilişkiyi geçmişe etkili(makable şamil) olarak ortadan kaldırabilir.
 
 ## Ankara BAM 22. HD 2026/1445 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1236426200)
+
 İrade bozukluğu hâlleri mülga 818 sayılı BK’da “Rızadaki fesat” başlığı altında “Hata”, “Hile” ve “İkrah” olarak 23 ila 31. maddeler arasında hükme bağlanmış iken, 01.07.2012 tarihinde yürürlüğe giren 6098 sayılı TBK’da ise 30 ila 39. maddeleri arasında “Yanılma”, “Aldatma” ve “Korkutma” başlıkları altında düzenlenmiştir.
 
 ## İstanbul BAM 43. HD 2026/1358 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1215799400)
 
 TBK'nın 38.maddesine göre korkutulan, içinde bulunduğu durum bakımında kendisinin veya yakınlarından birinin kişilik haklarına ya da malvarlığına yönelik ağır ve yakın bir zarar tehlikesinin doğduğuna inanmakta haklı ise korkutma gerçekleşmiş sayılır. Taraflardan biri, diğerinin veya üçüncü bir kişinin korkutması sonucu bir sözleşme yapmışsa, sözleşmeyle bağlı değildir. (TBK md.37) TBK'nın 39.maddesine göre yanılma veya aldatma sebebiyle ya da korkutulma sonucunda sözleşme yapan taraf, yanılma veya aldatmayı öğrendiği ya da korkutmanın etkisinin ortadan kalktığı andan başlayarak bir yıl içinde sözleşme ile bağlı olmadığını bildirmez veya verdiği şeyi geri istemezse, sözleşmeyi onamış sayılır. Aldatma veya korkutmadan dolayı bağlayıcılığı olmayan bir sözleşmenin onanmış sayılması, tazminat hakkını ortadan kaldırmaz.
 
@@ -38,6 +44,8 @@ TBK'nın 38.maddesine göre korkutulan, içinde bulunduğu durum bakımında ken
 "...Bilindiği üzere; TBK'nın 37. maddesine göre bir kimse, karşı tarafın veya üçüncü bir kişinin kendisi veya yakınlarının maddi veya manevi varlığına yönelik hukuka aykırı ve esaslı korkutması sonucu yaptığı sözleşme ile bağlı sayılamaz. TBK'nın 38. maddesinde belirtildiği üzere korkutmadan (ikrahtan) söz edilebilmesi için tehdidin sözleşmeyi yapan kimsenin veya yakınlarının kişilik haklarına veya mal varlıklarına yönelik olması, korkutmaya maruz kalanın sübjektif durumuna göre ağır ve derhal meydana gelebilecek nitelik taşıması, haksız (hukuka aykırı) sayılması, illiyet bağının bulunması, yani sözleşmenin tehdidin yarattığı korku sonucu yapılması zorunludur. Bu koşulların varlığı halinde iradesi sakatlanan taraf, isterse iptal hakkını kullanmak suretiyle hukuki ilişkiyi geçmişe etkili (makable şamil) olarak ortadan kaldırılabilir.
 
 ## İstanbul BAM 43. HD 2026/907 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1211685000)
 
 6098 sayılı Türk Borçlar Kanunu(TBK)'nun 28/1 maddesinde bir sözleşmede karşılıklı edimler arasında açık bir oransızlık varsa, bu oransızlık, zarar görenin zor durumda kalmasından veya düşüncesizliğinden ya da deneyimsizliğinden yararlanılmak suretiyle gerçekleştirildiği takdirde, zarar görenin, durumun özelliğine göre ya sözleşme ile bağlı olmadığını diğer tarafa bildirerek ediminin geri verilmesini ya da sözleşmeye bağlı kalarak edimler arasındaki oransızlığın giderilmesini isteyebileceği, Kanunun 37/1. maddesinde taraflardan biri, diğerinin veya üçüncü bir kişinin korkutması sonucu bir sözleşme yapması halinde sözleşmeyle bağlı olmadığı, Kanunun 38/2. Maddesinde , bir hakkın veya kanundan doğan bir yetkinin kullanılacağı korkutmasıyla sözleşme yapıldığında, bu hakkı veya yetkiyi kullanacağını açıklayanın, diğer tarafın zor durumda kalmasından aşırı bir menfaat sağlamış olması hâlinde korkutmanın varlığının kabul edileceği düzenlenmiştir.
 

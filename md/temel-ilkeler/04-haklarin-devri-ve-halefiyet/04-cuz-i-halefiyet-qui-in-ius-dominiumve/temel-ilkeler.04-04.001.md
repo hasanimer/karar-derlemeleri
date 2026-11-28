@@ -95,5 +95,7 @@ Türk Borçlar Kanunu'nun 49. maddesi gereğince kasten veya taksirle başkasın
 
 ## Sakarya BAM 7. HD 2026/1084 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1217660700)
+
 Eldeki davada, dosyada kapsamı delillerden, dava dışı sigortalı ile davacı arasındaki sigorta poliçesinin yabancı para birimi üzerinden yapıldığı anlaşılmaktadır. Bu noktada Yargıtay 11. H.D. 21/03/2011 tarih, 2009/10616 E. 2011/2996 K. Sayılı ilamında; "sigorta poliçesinin yabancı para üzerinden düzenlenmiş olması ve sigortacının sigortalıya yabancı para ile ödeme yapmış bulunması, mahkemece tazminatın yabancı para üzerinden hüküm altına alınmasını gerektirmez. Taşıyıcının sorumluluğu kabul edilen yerdeki kıymete göre zarar Türk Lirası cinsinden hesaplanmalıdır" denilmek suretiyle, rücu alacağının yabancı para üzerinden değil, Türk Lirası üzerinden talep edilmesi gerektiği açıkça vurgulanmıştır. Davacının halefi olduğu dava dışı şirket ile davalı arasında yabancı para üzerinden kurulmuş bir ticari ilişki de bulunmamaktadır. Bu durumda davacı sigorta şirketinin, halefiyet ilkesi gereğince talep edebileceği zararını Türk Lirası cinsinden istemesi gerekirken, icra takibini USD üzerinden başlattığı anlaşılmaktadır. Oysa itirazın iptali davasının dinlenebilmesi için öncelikle usulüne uygun ve geçerli bir icra takibinin bulunması dava şartıdır.
 Geçerli bir icra talebi bulunmaksızın açılan itirazın iptali davasının esasının incelenmesine hukuken olanak bulunmamaktadır.

@@ -79,6 +79,8 @@ Davacı yüklenici eldeki temyize konu davayı açmadan önce 25.10.2001 tarihin
 
 ## Ankara BAM 42. HD 2026/63 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1229944300)
+
 Kural olarak; sözleşmeden doğan alacak zamanaşımı, alacağın muaccel olduğu anda işlemeye başlar. Buradaki "muacceliyet" kavramı, alacaklı tarafından talep ve dava edilebilir hâle gelmiş olma anlamını taşıdığından, öncelikle doğmuş bir alacağın varlığı gerekir. Alacağın muacceliyeti bir ihbar şartına bağlı ise zamanaşımı bu ihbarın yapılabileceği andan itibaren işlemeye başlayacaktır. Bu anlamda ifa anının gelmesine borcun muaccel olması denilebilir. Alacaklı ancak bundan sonra alacağını dava edebilir ve alacak için zamanaşımı süresi de bu andan itibaren işler. Borcun yerine getirilmesi bir süreye bağlanmamışsa, borcun doğumu ile birlikte alacak "muaccel" olur (BK m. 74; TBK m. 90) ve borcun doğumu ile birlikte zamanaşımı işlemeye başlar". Sözleşmeden doğan borçlarda zamanaşımının işlenmeye başlaması için alacağın muaccel (istenebilir) olması yeterlidir.
 
 ## Gaziantep BAM 11. HD 2022/1606 K.

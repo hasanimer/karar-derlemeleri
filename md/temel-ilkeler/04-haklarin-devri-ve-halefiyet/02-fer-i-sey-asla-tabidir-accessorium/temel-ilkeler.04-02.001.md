@@ -103,6 +103,8 @@ Somut olayda dava konusu taşınmazın üzerindeki muhtesatın (bütünleyici pa
 
 ## İzmir BAM 17. HD 2026/2124 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1231466200)
+
 Borcun kaynağı ne olursa olsun borçlu borç ilişkisinden doğan para borcunu ifada temerrüde düştüğünde 6098 sayılı TBK'nun 118 vd. maddeleri uyarınca bunun yasal sonucu olarak asıl borca bağlı olan feri bir borç niteliği taşıyan temerrüt faizini ödemekle yükümlüdür(Dr. Nami Barlas, Para Borçlarının İfasında Borçlunun Temerrüdü ve Temerrüt Açısından düzenlenen Genel Sonuçlar 1992, s:127; Yargıtay Hukuk Genel Kurulunun 11.6.1997 tarihli ve 1997/11-278 Esas, 1997/529 Karar sayılı ilamı).
 
 ## Antalya BAM 16. HD 2026/899 K.

@@ -75,8 +75,12 @@ Ne var ki Borçlar Kanununun 249 ve 250.maddelerinde kiracı yararına tanınmı
 
 ## İstanbul BAM 43. HD 2026/1817 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1235858100)
+
 Haklı sebep, fesih hakkını kullanan taraf bakımından ... sözleşmesini devam ettirmesini dürüstlük kuralı çerçevesinde beklenemeyecek duruma sokan ve çekilmez bir hâle getiren olgu ve olayları ifade etmektedir. Davacının haklarında suç duyurusunda bulunulan bayilerle birlikte hareket ettiğini ve cihaz alan müşterilerin bu cihazların taahhütlerini 3 ay gibi kısa bir sürede bozmalarında davacının kusuru bulunduğunu hususları davalı tarafça ispatlanabilmiş değildir. Davacı bayinin, taahhütlü cihaz satışlarının yapıldığı abonelerin faturalarını ödeme oranının Türkiye ortalamasının çok altında kaldığı yönündeki iddianın ise, bayinin bu yöndeki kusuru ispatlanmadan tek başına fesih nedeni olarak kabulü mümkün değildir. Bu açıklamalar ışığında davalı tarafın dayandığı sebepler ispat edilemediğinden haklı fesih nedeni olarak değerlendirilmemiştir. Bu nedenle, davalılar sözleşmenin haksız feshine bağlanan sonuçlardan ve bu kapsamda sürekli edimli sözleşmelere ilişkin TBK'nın 126. maddesine göre kar kaybından davacıya karşı sorumludur.
 
 ## İstanbul BAM 43. HD 2026/431 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1211276000)
 
 Bayilik sözleşmesi kendine özgü yapısı olan, çerçeve niteliğinde sürekli borç ilişkisi doğuran, çift edim değişimini esas alan bir sözleşmedir. Güven ilişkisi üzerine kurulan bayilik sözleşmesinin Türk Hukuku'nda mevzuatta tanımı yapılmamıştır. Bayilik sözleşmesi çerçeve niteliğinde, sürekli öyle bir sözleşmedir ki üretici malların tamamını veya bir kısmını belirli bir bölgede satmak üzere bayiye göndermeyi, buna karşılık olarak bayi de üreticinin dağıtım ağına dâhil olarak sözleşme konusu mal veya hizmeti kendi adına ve hesabına satmak ve bu mal ile hizmetlerin sürümünü arttıracak faaliyetlerde bulunmak yükümlülüğünü üstlenir. Bayilik sözleşmesinde tarafların hakları ve yükümlülük yelpazesi geniştir. Öyle ki sözleşme süresince ve sözleşme sonrasında devam eden yükümlülükleri olması güven ilişkisinin önemini bir kez daha vurgular. Sözleşme süresince devam etmesi gereken güven temelli olan bu ilişkide sözleşme ölüm, iflas, kısıtlılık kararı verilmesi, olağan fesih yolu ve olağanüstü fesih yollarıyla sona erebilir. Yine bayilik sözleşmesi Türk Mevzuatı’nda ismiyle düzenlenmediğinden isimsiz sözleşmelerdendir.

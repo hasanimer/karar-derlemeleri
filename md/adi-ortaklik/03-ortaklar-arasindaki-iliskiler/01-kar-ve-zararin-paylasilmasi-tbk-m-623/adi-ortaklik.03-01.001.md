@@ -215,4 +215,6 @@ Hal böyle olunca mahkemece, idareci ortak olan davalıdan ortaklığa yapılan 
 
 ## İstanbul BAM 3. HD 2026/1280 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1206998200)
+
 Bu nedenle adi ortaklık masraf ve gideri olarak davacı tarafça asıl ve birleşen davalara konu ödenen işçilik alacaklarının da tıpkı adi ortaklık masrafları,kar payı ve adi ortaklık alacağı gibi adi ortaklık tasfiye edildikten sonra yapılacak kar zarar hesabında değerlendirilmesi gerektiği açıktır.

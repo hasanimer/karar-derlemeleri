@@ -67,9 +67,13 @@ Mevcut olaylara göre evlilik birliğinin, devamı eşlerden beklenmeyecek derec
 
 ## Ankara BAM 20. HD 2026/1685 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1232326000)
+
 Bu durumda öncelikle borçlunun borcunu ödeyeceği konusunda alacaklısında haklı bir güven yaratmış ve onu, alacağını talep etmesi için hukuki çarelere başvurmaktan alıkoymuşsa, borçlunun zamanaşımı def'ini ileri sürmesinin, dürüstlük kuralına aykırı bir davranış olarak değerlendirileceğinin ve hakkın kötüye kullanılması sayılacağının nazara alınması gereklidir. Zira bu hal çelişkili davranış yasağının tipik bir örneğidir. O halde mahkemece, öncelikle davacının bu konuda sunduğu mail yazışmaları, taraflar arasındaki ödeme görüşmeleri ve varsa borcun varlığına ilişkin beyanlar incelenerek, davalının zamanaşımı def'inde bulunmasının, kötüniyetli bir davranış olup olmadığının değerlendirilmesi ve sonucuna göre karar verilmesi gerekirken, bu konuda hiçbir inceleme ve değerlendirmenin yapılmaması doğru görülmemiştir.
 
 ## Ankara BAM 21. HD 2026/1123 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1231941600)
 
 Somut olayda, davalı şirketin davacının şirketin ortağı bulunduğunu belirtmesine rağmen davacının yatırmış olduğu paranın istendiği an kendisine geri ödeneceğini inandırıp davacı üzerinde güven telkin ettiği, davalı şirketin yöneticileri hakkında ceza mahkemelerinde davalar açıldığı, açılan davaların sonucunun uzun bir süreç aldığı da gözetildiğinde davalının, davada zamanaşımı süresinin dolduğu yönündeki itirazının TMK'nun 2. maddesindeki dürüstlük kurallarına aykırı olduğu gibi yukarıda açıklandığı üzere Yargıtay 11.
 Hukuk Dairesi'nin önceki tüm uygulamalarında davalı yanın zamanaşımı savunmasını, TMK'nın 2. maddesi kapsamında reddederek istikrar haline getirdiği içtihatlarından aksine gerekçe yazılarak yukarıda sözü edilen Anayasa Mahkemesinin hukuki güvenlik ve hukuki belirlilik ilkeleri dikkate alındığında geri dönülemeyeceği gözetilerek ve davacının açmış olduğu davada, davalı tarafça zamanaşımı def’inin ileri sürülmesi TMK'nun 2. maddesindeki dürüstlük kuralına aykırı olduğu olduğundan ve bundan başka, davacı yan kandırıldığını ileri sürmekte olup davalı ise davacının şirket ortağı olduğunu ileri sürüp TTK hükümlerine göre hak talep edemeyeceğini savunmakla birlikte zamanaşımı savunması da yapılması, çelişkili davranış yasağının tipik bir örneğini oluşturmakta olup anılan savunma kendi içerisinde tutarlılık içermediğinden kötüniyetli olarak davacının hak talebinin ortak sıfatı ile perdelenmesi gerçeğini ortaya çıkardığından Dairemizin, 27/12/2024 tarihli 2024/1199-1623 E., K. sayılı ilamında direnilmesine ilişkin karar vermek gerekmiştir.

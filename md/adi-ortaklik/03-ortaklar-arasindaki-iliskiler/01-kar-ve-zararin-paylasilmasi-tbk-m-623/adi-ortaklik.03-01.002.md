@@ -22,6 +22,8 @@ uyari: "Derleyenin seçtiği alıntılardır; kararın tamamı değildir. Künye
 
 ## İzmir BAM 13. HD 2026/1106 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1209227700)
+
 Dava, dava dışı arsa sahipleri ile noterde yapılan kat karşılığı ve inşaat sözleşmesi uyarınca birlikte yüklenici olarak bina yapılmasına yönelik kurulan adi ortaklığın fesip ve tasfiyesi ile ortaklıktan kaynaklanan alacak istemine ilişkindir.
 
 …
@@ -30,6 +32,8 @@ Hemen belirtmek gerekir ki; TBK'nın 620. maddesinde "Adi ortaklık sözleşmesi
 Sözleşmede ortakların kazanç veya zarara katılım paylarından biri belirlenmişse bu belirleme, diğerindeki payı da ifade eder. Bir ortağın zarara katılmaksızın yalnız kazanca katılacağına ilişkin anlaşma, ancak katılma payı olarak yalnızca emeğini koymuş olan ortak için geçerlidir." şeklinde düzenlemeler mevcuttur.
 
 ## Ankara BAM 24. HD 2026/833 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1211695400)
 
 Adi ortaklığın tasfiyesi ya tarafların anlaşması suretiyle ya da bizzat mahkemece yapılır. Taraflar tasfiye konusunda anlaşmadığı takdirde ortaklığın tasfiyesinin mahkemece 6098 sayılı Kanun'un 642 vd. madde hükümlerine uygun olarak yapılması gerekir.
 

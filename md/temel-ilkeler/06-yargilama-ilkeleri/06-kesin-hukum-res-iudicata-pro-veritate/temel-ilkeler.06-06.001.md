@@ -74,13 +74,19 @@ Bu nedenlerle, 434 ve 461 parsel sayılı taşınmazlar yönünden 6100 sayılı
 
 ## Sakarya BAM 7. HD 2026/1770 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1234238600)
+
 İtirazın iptali davası, müddeabihi takip konusu yapılmış ve borçlunun itiraz etmiş olduğu alacak olan, bir eda davasıdır. Mahkemenin davanın reddi ya da kabulü yönünde verdiği karar, maddi anlamda kesin hüküm teşkil edeceğinden; davanın reddi halinde alacaklı, borçluya karşı aynı alacaktan dolayı yeni bir alacak davası açamayacağı gibi, davanın kabulü halinde borçlu da, alacaklıya karşı bir menfi tespit veya istirdat davası açamayacaktır.
 
 ## Ankara BAM 35. HD 2026/1437 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1234896700)
+
 Kesin hüküm itirazı, davanın her aşamasında ileri sürülebilir ve mahkemenin de (Bölge Adliye Mahkemesinin ve Yargıtay’ın da) davanın her aşamasında kesin hükmün varlığını kendiliğinden gözetip, davayı kesin hükümden (dava şartı yokluğundan) reddetmesi gerekir. Yine kesin hüküm itirazı mahkemede ileri sürülmemiş olsa dahi, ilk defa Yargıtay'da (temyiz veya karar düzeltme aşamasında) ve dahası bozmadan sonra da ileri sürülebilir. Bu bakımdan usulü kazanılmış hakkın istisnasıdır ve tarafların iradesine de bağlı olmayan mutlak bir etkiye sahiptir. O nedenle kesin hükmün varlığının, yargılamanın bir kesiminde nazara alınmamış olması diğer bir kesiminde ele alınmasını engellemez.
 
 ## Ankara BAM 22. HD 2026/1274 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1233770400)
 
 Maddi anlamda kesin hükmün koşulları HMK’nın 303/1 inci maddesinde açıklanmıştır. Buna göre “Bir davaya ait şekli anlamda kesinleşmiş olan hükmün, diğer bir davada maddi anlamda kesin hüküm oluşturabilmesi için, her iki davanın taraflarının, dava sebeplerinin ve ilk davanın hüküm fıkrası ile ikinci davaya ait talep sonucunun aynı olması gerekir”. Bu hükümden de anlaşılacağı üzere, kesin hükmün ilk koşulu her iki davanın taraflarının aynı kişiler olması, ikinci koşulu müddeabihin aynılığı, üçüncü koşulu ise dava sebebinin aynı olmasıdır.
 

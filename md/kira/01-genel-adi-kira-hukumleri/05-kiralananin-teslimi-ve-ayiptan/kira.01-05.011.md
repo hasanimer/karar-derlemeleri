@@ -129,9 +129,13 @@ Kiralananın amacına uygun kullanılabilmesi için kiralayanın ayıpsız tesli
 
 ## Ankara BAM 27. HD 2026/863 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1224309900)
+
 Kiraya verenin aksini talep etme hakkı ile diğer hak, talep ve alacakları saklıdır. " denildiği, ekinde ilk sözleşmede olduğu gibi makine listesinin yapıldığı ve toplam bedeli 153.784,00 Euro olarak belirtildiği, asıl davada davacı tarafın, taraflar arasında düzenlenen alt yüklenicilik sözleşmesi kapsamında hakediş bedelinden bakiye alacağın tahsili isteğinde bulunmakta, davalı ... ... Anonim Şirketi sözleşme uyarınca davacının ayıplı, eksik, gecikmeli iş yaptığı, alacağın olmadığı savunmasında bulunduğu, uyuşmazlığın taraflar arasında düzenlenen alt yüklenicilik sözleşmesi kapsamında davacı alt yüklenicinin davalı yüklenici ... .. Anonim Şirketi'nden sözleşme kapsamında hakedişlerden kaynaklı bakiye alacağının olup olmadığı, varsa ne miktarda olduğu hususlarında toplandığı, davacının bu davayı sözleşmenin tarafı .. Anonim Şirketi ile birlikte.... hakkında açtığı, davalı ....'in davanın dayanağı sözleşmenin tarafı olmayıp, davalı yüklenici ile imzalanan ana sözleşmenin tarafı olduğu, işbu sözleşmeden kaynaklı alacağın tahsili davasında taraf sıfatının bulunmadığı anlaşılmakla, davalı .... hakkındaki davanın pasif husumet yokluğundan reddine karar verilmesi gerektiği, davalı ... ...
 
 ## İstanbul BAM 13. HD 2026/1399 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1220010300)
 
 Mahkeme gerekçesinde belirtildiği üzere; satışa konu helikopterdeki arızanın gizli ayıp mahiyetinde olduğu kabul edilse dahi TTK'nun 23/1-c bendi atfı ile TBK'nun 223/2 fıkrası uyarınca bu tür bir ayıbın ortaya çıkması halinde emen satıcıya bildirilmesi zorunlu olup,
 
@@ -141,6 +145,8 @@ bilirkişi incelemesi ile meydana gelen arızanın satış öncesi mevcut olduğ
 
 ## İstanbul BAM 16. HD 2026/1075 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1219565500)
+
 Finansal ...adına ... gövde no ile kayıtlı olan ve adı sonradan ...'e çevrilen ... isimli tekne ile, ... gövde no ile kayıtlı olan ... isimli teknelerin aynı tekne olmadıkları, ... teknesinin ... isimli tekneden daha öne inşa edildiği,Yapılan bilirkişi keşfi sırasında, ilk adı (...) ... olan ... isimli teknenin gövde numarasının örtüşmesi nedeniyle ...şirketinin mülkiyetinde olduğu, bu bağlamda ... şirketinin ... olarak ... şirketine kiraladığı teknenin aslında ... teknesi olduğu, zira ... teknesinin gövde numarası ... olmasına rağmen, satış faturasına ... gövde numarasının işlendiği, dolayısı ile böyle bir teknenin gerçekte var olmadığı, sadece vesika üzerinde kayda geçirilmiş olduğu, 20/09/2024 tarihli ikinci ek raporunda ise;...Sözleşmesinin ... no.lu Ödeme Planında 2 adet deniz aracına KDV dahil toplamda 640.019,20 EURO bedelle tek bir ödeme planının düzenlendiği, İlgili ödeme planının 2 adet deniz aracına yansıtılması sonucu hesaplanan ödeme planına göre ... ("...") ... için 309.646,62 EURO ve ... ("...") ... için 330.622,58 EURO hesaplandığı, Davacının davalıya uyuşmazlığa konu ...
 ("...") ... için 309.646,62 EURO ödeme yaptığı hesaplanmış olup, bu ödemenin 138.415,79 EURO tutarındaki kısmı sözleşmenin kesin hükümsüzlüğü nedeni ile itirazı kayıt şerhi düşülerek
 
@@ -148,6 +154,8 @@ Finansal ...adına ... gövde no ile kayıtlı olan ve adı sonradan ...'e çevr
 dikkate alınarak sonuca gidilmesi gerekir.Sözleşme konusu yatın hiç üretilmediğinin iddia edildiği başka bir uyuşmazlıkta verilen Dairemiz kararının konu edildiği Yargıtay 11.
 
 ## İstanbul BAM 15. HD 2026/870 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1220940200)
 
 İcra Müdürlüğünün ...sayılı dosyası üstünden başlatılan icra takibine yapılan itirazın iptali talebine ilişkindir.Tarafların iddia ve savunmaları ile ileri sürülen istinaf sebeplerine göre taraflar arasındaki uyuşmazlık, davalı tarafından satılan kompozit panellerin ayıplı olduğu iddiasına dayalı olarak davacının uğradığı montaj, söküm, iskele kurulum ve söküm, iskele kirası, silikon ve işçilik giderlerinden kaynaklanan zararın tahsili amacıyla başlatılan icra takibine yapılan itirazın iptali istemine ilişkin olup, mahkemece, davanın kısmen kabulü ile takibin 56.832,00 TL asıl alacak üzerinden devamına, işlemiş faiz ve icra inkâr tazminatı taleplerinin reddine karar verilmiştir.Davalı şirket çalışanı ... tarafından davacı şirkete gönderilen 31.12.2015 tarihli e-posta ekindeki aynı tarihli "Sulh Protokolü ve İbraname" başlıklı imzasız belgede; ...'nde kullanılan kompozit panellerde ayıp bulunduğu kabul edilmiş, ayıplı malzemenin yenisi ile değiştirildiği belirtilmiş, ayıp nedeniyle oluşan montaj, demontaj, iskele kurulum-söküm, iskele kirası, sarf malzeme ve benzeri ek masrafların satıcı tarafından karşılanması kararlaştırılmış, davalı tarafından 832 m², 4 mm kalınlığında ...
 alüminyum kompozit panelin bedelsiz olarak teslim edilmesi taahhüt edilmiş, ayrıca davacıya ek külfet getiren işler ve sarf malzemeleri karşılığında 65.000,00 TL ödenmesi teklif edilmiş, bu edimlerin yerine getirilmesi halinde davacının projeye ilişkin başkaca talepte bulunmayacağı ve davalıyı ibra etmiş sayılacağı düzenlenmiştir.Davacı şirket yetkilisi ... cevabi e-postasında;…

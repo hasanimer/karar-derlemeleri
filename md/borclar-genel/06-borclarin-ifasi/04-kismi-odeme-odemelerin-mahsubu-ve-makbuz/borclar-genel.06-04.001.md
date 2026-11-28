@@ -154,13 +154,19 @@ Borçlar Kanunu’nun 85. maddesinde “Birden fazla borçları bulunan borçlu,
 
 ## İzmir BAM 17. HD 2026/1214 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1217911000)
+
 Kısmi ifaya ilişkin hükümler, takip ve dava tarihinde yürürlükte bulunan 6098 Sayılı TBK'nun 100 ve devamındaki maddelerde düzenlenmiştir. TBK'nun 101/1.maddesi gereğince birden fazla borcu bulunan borçlu, ödeme gününde bu borçlardan hangisini ödemek istediğini alacaklıya beyan etme hakkına haizdir. Aynı yasanın 102/1.maddesinde ise, kanunen geçerli bir açıklama yapılmadığı veya makbuzda ödemenin hangi borca mahsup edileceği gösterilmediği takdirde ödemenin muaccel olan borçtan mahsup edilmesinin gerektiği, birden çok borç muaccel ise ödemenin, borçluya karşı ilk olarak takip edilen borç için yapılmış olduğunun kabul edileceği, takip yapılmamış ise ödemenin vadesi ilk önce gelmiş olan borç için yapılmış sayılacağının hüküm altına alındığı görülmüştür.
 
 ## İstanbul BAM 13. HD 2026/942 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1210803800)
+
 TBK'nun 101 maddesi uyarınca; birden çok borcu bulunan borçlu, ödeme gününde bu borçlardan hangisini ödemek istediğini alacaklıya bildirebilir. Borçlu bildirimde bulunmazsa, yapılan ödeme, kendisi tarafından derhâl itiraz edilmiş olmadıkça, alacaklının makbuzda gösterdiği borç için yapılmış sayılır. TBK'nun 102/1 fıkrası uyarınca; kanunen geçerli bir açıklama yapılmadığı veya makbuzda bir açıklık bulunmadığı durumda ödeme, muaccel borç için yapılmış sayılır. Birden çok borç muaccel ise ödemenin, borçluya karşı ilk olarak takip edilen borç için yapılmış olduğu kabul edilir. Takip yapılmamış ise ödeme, vadesi ilk önce gelmiş olan borç için yapılmış olur. TBK'nun 102/2 fıkrası uyarınca birden çok borcun vadesi aynı zamanda gelmişse, mahsup orantılı olarak; borçlardan hiçbirinin vadesi gelmemişse ödeme, güvencesi en az olan borç için yapılmış sayılır.
 
 ## İstanbul BAM 43. HD 2026/753 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1212409600)
 
 Sözlük anlamı “sayışma” olan mahsup; bir alacağı doğuran olayla ilgili olarak, alacaklının elde ettiği bazı menfaatlerin ya da borçlunun katlandığı bazı yükümlülüklerin alacaktan indirilmesidir. Mahsuplaşmada, takastan farklı olarak iki ayrı alacak bulunmamaktadır. Buna göre, alacak miktarından tenzil edilecek değer, karşı alacak olmayıp gerçek alacağı bulmak üzere hesaplanan alacaktan indirilmesi gereken bir bedeldir. Bu nedenle, mahsupta hukuken karşılıklı alacaklılık ilişkisinden öte, alacağın gerçek miktarının tespiti için yapılan bir işlemin varlığı kabul edilmelidir. Mahsupta, doğmuş bir alacaktan söz edilemeyeceği için, mahsubun borcu sona erdiren bir neden olduğu da düşünülemez. Ayrıca, mahsup talebi hukuki niteliği itibariyle def’i olmayıp; itiraz niteliğinde olduğundan, savunmanın genişletilmesi yasağına tabi kabul edilmez. Bu yönüyle, yerleşik yargı kararlarında belirtildiği gibi mahsubun yargılama devam ettiği sürece karşı tarafın muvafakatı olmaksızın ileri sürülmesi mümkündür. TBK 76/2, 325/2, 408. Maddeleri, TTK 1427/3 maddesi yasada düzenlenen mahsup işlemine örnek olarak gösterilebilir.
 

@@ -208,6 +208,8 @@ BK.nun 1. madde hükmü uyarınca tarafların karşılıklı ve birbirine uygun 
 
 ## Kayseri BAM 6. HD 2026/2210 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1236430800)
+
 6098 sayılı Türk Borçlar Kanunu’nun 1. Maddesi sözleşmenin karşılıklı ve birbirine uygun irade beyanları ile kurulacağını hüküm altına aldığını, buna göre kanun koyucu sözleşmenin kurulması için karşılıklı ve birbirine uygun irade açıklamalarının varlığını aradığını, irade beyanları karşılıklı ve birbirine uygun olsa bile, her durumda irade beyanının oluşumu sağlıklı ve geçerli sebeplere dayanmadığını, bu muvacehede kanun koyucu TBK m.30-39 arasında irade sakatlığı hallerini düzenlediğini, somut olayda davalılar müvekkili bilerek ve isteyerek hileli hareketler ile aldatmış,…
 
 ## Gaziantep BAM 3. HD 2026/1300 K.
@@ -216,6 +218,8 @@ Kural olarak; eser sözleşmelerinin geçerli olması herhangi bir şekil şart�
 Özellikle bedelin devredilecek taşınmaz olarak kararlaştırıldığı eser sözleşmesi, taşınmaz devri yönünden geçerli değil ise de yapılacak işin bedeli olarak geçerli ve bağlayıcıdır.
 
 ## Sakarya BAM 7. HD 2026/1014 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1210716900)
 
 6098 sayılı Türk Borçlar Kanunu (TBK) 1 ve devamı maddelerinde sözleşmenin kurulması ve hükümleri düzenlenmiş olup; sözleşme, tarafların iradelerini karşılıklı ve birbirine uygun olarak açıklamalarıyla (rızalarını beyan etmeleriyle) kurulur (TBK 1/1). Taraflar sözleşmenin esaslı noktalarında uyuşmuşlarsa, ikinci derecedeki noktalar üzerinde durulmamış olsa bile, sözleşme kurulmuş sayılır (TBK 2/1). İkinci derecedeki noktalarda uyuşulamazsa hâkim, uyuşmazlığı işin özelliğine bakarak karara bağlar (TBK 2/2). Bu hükümlerin sonucu olarak, icap ve kabul ile yani önerinin diğer tarafça kabul edilmesi ile birbirine uygun karşılıklı irade açıklaması gerçekleştiğinden sözleşme ilişkisi kurulmuş olur. Öneri ve kabul iradelerinin birleşmesi ve sözleşmenin kurulması için tarafların bir arada bulunması gerekmez. Kanunun (TBK) 4/2. maddesinde, telefon, bilgisayar gibi iletişim sağlayabilen araçlarla doğrudan iletişim sırasında yapılan önerinin, hazır olanlar arasında yapılmış sayılacağı düzenlenmiştir.
 

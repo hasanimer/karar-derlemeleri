@@ -233,18 +233,26 @@ TBK'nun 88 ve 120. Maddelerinin düzenleniş amacı ve niteliği gözetildiğind
 
 ## İzmir BAM 11. HD 2026/1715 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1234600900)
+
 Belirtilen hususular kapsamında aşkın (munzam) zararın varlığı ve talep edilebilirliği için bir takım koşulların gerçekleşmesi gerekmektedir. Aşkın zararın ilk koşulu, kaynağı ne olursa olsun temerrüt faizi yürütülebilir nitelikte olmak koşuluyla bir para borcunda borçlunun temerrüdünün varlığıdır. İkinci koşulu, kanunî temerrüt faizinin yanında akdi temerrüt faizinin uygulandığı borç ilişkileri de dâhil olmak üzere borçlunun temerrüdü nedeniyle temerrüt faiziyle karşılanamayan alacaklı zararının mevcudiyetidir. Üçüncü koşulu, temerrüt faizinden sorumluluktan farklı olarak kusur sorumluluğuna dayalı olduğundan borçlunun temerrüde düşmede kusurlu olmasıdır. Bu nedenledir ki borçlu, temerrüde düşmede kusursuz olduğunu ispatlamadıkça ortaya çıkan aşkın (munzam) zarardan sorumlu olacaktır. Dördüncü ve son koşulu, borçlunun temerrüdü ile alacaklının aşkın (munzam) zararı arasındaki illiyet bağının mevcudiyetidir.
 
 ## Ankara BAM 21. HD 2026/1394 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1236541400)
 
 Bu kapsamda davalı tarafın istinaf itirazlarının incelenmesinde; dava dışı Şirket ile davacı banka arasında imzalanan genel kredi sözleşmesinin kefili olan davalının asıl borçlu şirketin ortağı olduğu ve bu nedenle TBK'nun 584/(3) maddesi uyarınca eş rızası aranmayacağı, davalı banka tarafından keşide edilen kat ihtarnamesinin dava dışı asıl borçlu ile davalı kefile aynı tarihte tebliğ edildiği ve TBK'nun 586. maddesi uyarınca davacı bankanın davalı kefille başvuru koşullarının oluştuğu, takip talebine konu nakdi alacakların ticari kredi kartı ve ticari kredili mevduat hesabından kaynaklandığı, gerek ticari kredi kartı gerekse ticari kredili mevduat hesabı yönünden uygulanacak azami akdi ve gecikme faizi oranlarının Merkez Bankası tarafından dönemsel olarak belirlenen oranlara göre tespit edilmesi gerektiği, kat tarihi olan 07/01/2022 tarihi itibariyle Merkez Bankasınca kredi kartları için uygulanması gereken azami akdi faiz oranının yıllık % 21,60 ve azami gecikme faiz oranının yıllık % 25,20 olarak belirlendiği, buna göre ticari kredi mevduat hesabı ve ticari kredi kartı hesapları için bu oranların uygulanması gerektiği ve bilirkişi raporundaki hesaplamaların buna göre yapıldığı,
 bilirkişi raporunun hüküm kurmaya ve denetime elverişli olduğu anlaşılmakla davalı vekilinin bu hususlara değinen istinaf nedenlerin yerinde görülmemiştir.
 
 ## Ankara BAM 21. HD 2026/1383 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1236531000)
+
 Bu kapsamda yapılan değerlendirmede; dava dışı Şirket ile davacı banka arasında imzalanan genel kredi sözleşmesinin kefili olan davalının asıl borçlu şirketin tek ortağı olduğu ve bu nedenle TBK'nun 584/(3) maddesi uyarınca eş rızası aranmayacağı, davalı banka tarafından keşide edilen kat ihtarnamesinin dava dışı asıl borçlu ile davalı kefile aynı tarihte tebliğ edildiği ve TBK'nun 586. maddesi uyarınca davacı bankanın davalı kefille başvuru koşullarının oluştuğu, takip konusu taksitli ticari kredinin taraflar arasında imzalanan kredi geri ödeme planında akdi faiz oranının % 13,50 ve temerrüt faiz oranının % 28,60 olarak kararlaştırıldığı, mahkemece hükme esas alınan alınan bilirkişi raporunun hüküm kurmaya ve denetime elverişli olduğu, davalı vekilinin istinaf nedenlerinin yerinde olmadığı anlaşılmıştır.
 
 ## İstanbul BAM 3. HD 2026/1100 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1205933000)
 
 Temerrüt faizi, borçlunun para borcunu zamanında ödememesi ve temerrüde düşmesi üzerine TBK’nın 120. maddesi gereği kendiliğinden işlemeye başlayan ve temerrüdün devamı süresince varlığını sürdüren bir karşılık olması itibariyle zamanında ifa etme olgusuyla doğrudan bir bağlantı içerisindedir. Bu kapsamda borçlu, kusurlu olsun veya olmasın borcunu zamanında ifa etmemiş olması durumunda temerrüt faizi ödemekle yükümlü olup bu durum ve temerrüt faiz oranları, 3095 sayılı Kanuni Faiz ve Temerrüt Faizine İlişkin Kanun’un (3095 sayılı Kanun) 2. maddesinde; “Bir miktar paranın ödenmesinde temerrüde düşen borçlu, sözleşme ile aksi kararlaştırıl- madıkça, geçmiş günler için 1 inci maddede belirlenen orana göre temerrüt faizi ödemeye mecburdur.
 
@@ -253,6 +261,8 @@ Temerrüt faizi, borçlunun para borcunu zamanında ödememesi ve temerrüde dü
 Aşkın (munzam) zararın varlığı için gereken ikinci koşul; borçlunun temerrüdü nedeniyle temerrüt faiziyle karşılanamayan alacaklı zararının mevcudiyetidir. Ancak alacaklının zararının temerrüt faizinden az yahut temerrüt faizine eşit olması durumunda, zararın temerrüt faiziyle karşılanacak olması sebebiyle aşkın (munzam) zararın varlığından söz edilemez. Bu aşamada önemle belirtilmelidir ki; TBK’nın 122. maddesi kapsamına kanunî temerrüt faizinin yanında akdi temerrüt faizinin uygulandığı borç ilişkileri de dâhildir. Eş söyleyişle alacaklının, borçlu ile arasındaki hukukî ilişkiden doğan temerrüt faizinin akdi yahut yasal olması, aşkın (munzam) zararın talep edilebilirliğine engel teşkil etmez. Burada önem arz eden husus alacaklının temerrüt faiziyle karşılanamayan zararının mevcudiyetinin ispatıdır.
 
 ## Erzurum BAM 3. HD 2026/877 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1214627300)
 
 Aşkın (munzam) zararın varlığı için gereken ikinci koşul; borçlunun temerrüdü nedeniyle temerrüt faiziyle karşılanamayan alacaklı zararının mevcudiyetidir. Ancak alacaklının zararının temerrüt faizinden az yahut temerrüt faizine eşit olması durumunda, zararın temerrüt faiziyle karşılanacak olması sebebiyle aşkın (munzam) zararın varlığından söz edilemez. Bu aşamada önemle belirtilmelidir ki; TBK’nın 122. maddesi kapsamına kanunî temerrüt faizinin yanında akdi temerrüt faizinin uygulandığı borç ilişkileri de dâhildir. Eş söyleyişle alacaklının, borçlu ile arasındaki hukukî ilişkiden doğan temerrüt faizinin akdi yahut yasal olması, aşkın (munzam) zararın talep edilebilirliğine engel teşkil etmez. Burada önem arz eden husus alacaklının temerrüt faiziyle karşılanamayan zararının mevcudiyetinin ispatıdır.
 

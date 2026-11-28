@@ -107,9 +107,13 @@ Anayasanın 36. maddesine göre herkes, meşru vasıta ve yollardan faydalanmak 
 
 ## Adana BAM 17. HD 2026/1770 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1232055900)
+
 Taraf teşkili kamu düzenine ilişkin olup re’sen yargılamanın her aşamasında göz önünde bulundurulması gerekir. Savunma hakkı, Anayasanın 36. maddesi ile güvence altına alınmış olup, Hukuk Muhakemeleri Kanunu 27. maddesinde de “Hukuki dinlenilme hakkı” başlığı altında ayrıca düzenlenmiştir. Hakim, tarafları dinlemeden veya iddia ve savunmalarını bildirmeleri için kanuna uygun biçimde davet etmeden hükmünü veremez. Buna göre hakim iddia ve savunma haklarını kullanabilmeleri için tarafları duruşmaya çağırmak zorundadır.
 
 ## Ankara BAM 42. HD 2026/139 K.
+
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1234918000)
 
 İddia ve savunma hakkı, 6100 sayılı Hukuk Muhakemeleri Kanunu'nun hukuki dinlenilme haklı başlıklı 27. maddesi ile usul hukukumuza yansıtılmıştır. Anılan maddenin birinci fıkrasında davanın taraflarının kendi hakları ile bağlantılı olarak hukuki dinlenilme hakkına sahip oldukları belirtildikten sonra maddenin ikinci fıkrasında bu hakkın "açıklama ve ispat hakkı"nı da içerdiği vurgulanmıştır. Davanın taraflarının usul hukuku hükümlerine aykırı olarak açıklama ve ispat hakkını kullanmalarının kısıtlanması, iddia ve savunma hakkının kısıtlanması sonucunu doğurur.
 

@@ -71,6 +71,8 @@ Alacağın temliki Borçlar Kanununun 162-172. maddeleri arasında düzenlenmiş
 
 ## İstanbul BAM 57. HD 2026/2363 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1231484900)
+
 Alacağın temliki, 6098 sayılı TBK'nın m.183 vd. Düzenlenmiş olup rızai temliki düzenleyen 183. maddesinde; “Kanun, sözleşme veya işin niteliği engel olmadıkça alacaklı, borçlunun rızasını aramaksızın alacağını üçüncü bir kişiye devredebilir. Borçlu, devir yasağı içermeyen yazılı bir borç tanımasına güvenerek alacağı devralmış olan üçüncü kişiye karşı, alacağın devredilemeyeceğinin kararlaştırılmış bulunduğu savunmasını ileri süremez.”, Akdin Şekli başlıklı 184. maddesinde ise; “ Alacağın devrinin geçerliliği, yazılı şekilde yapılmış olmasına bağlıdır. Alacağın devri sözü verme, şekle bağlı değildir.” hükümleri mevcuttur.
 
 ## Ankara BAM 23. HD 2024/1146 K.

@@ -61,6 +61,8 @@ Muris tarafından yapılan bina tapusuz olup, arsası da belediyeye ait olduğun
 
 ## Kayseri BAM 6. HD 2026/1442 K.
 
+[UYAP – Kararın tam metni](https://mevzuat.adalet.gov.tr/ictihat/1216800700)
+
 Yargıtay 11. Hukuk Dairesinin 2025/2945 Esas 2025/7761 Karar sayılı onama kararına konu uyuşmazlıkta belirtildiği gibi; kimse sahip olmadığı şirket payını devir edemeyeceği gibi, senede bağlanmış payların, senetlerin devir edilmeksizin, davalıya devir edilmesinin hukuki bir sonucu bulunmamaktadır.
 
 ## Sakarya BAM 7. HD 2021/1817 K.
