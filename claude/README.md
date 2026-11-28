@@ -14,7 +14,7 @@ Skills bölümü görünmüyorsa **Ayarlar → Capabilities** altında dosya olu
 
 Yeni bir sohbette sorunuzu düz Türkçe yazın. Örnek:
 
-> Kiralananın yeniden inşası veya imarı nedeniyle tahliye davasında onaylı projenin dava açılırken sunulması şart mı? Av. Hakan Dimdik'in emsal karar derlemelerinden bir Yargıtay kararı bul; künyeyi derlemede yazdığı gibi, kısa alıntıyla ve kaynak bağlantısıyla ver.
+> Kiralananın yeniden inşası veya imarı nedeniyle tahliye davasında onaylı projenin dava açılırken sunulması şart mı? Emsal karar derlemelerinden bir Yargıtay kararı bul; künyeyi derlemede yazdığı gibi, kısa alıntıyla ve kaynak bağlantısıyla ver.
 
 Claude künyeyi derlemede yazdığı gibi, alıntıyı kelimesi kelimesine ve derleme sayfası ile varsa UYAP tam metin bağlantısıyla verir. Dilekçeye almadan önce kararın tam metnini ve güncelliğini resmî kaynaktan doğrulayın.
 
